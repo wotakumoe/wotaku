@@ -78,9 +78,10 @@ ___
 ![](https://media.discordapp.net/attachments/1008654622740729897/1089183080767574096/LMbJDCj.png)
 
 ___
-
 ## Downloader
-==- Manga
+___
+
+### Manga
 - [Bilibili manga downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader)
 - [Comic DL](https://github.com/Xonshiz/comic-dl)
 - [Comics downloader](https://github.com/Girbons/comics-downloader)
@@ -90,13 +91,15 @@ ___
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) + [!badge variant="ghost" size="xs" text="Anime"]
 - [MangaL](https://github.com/metafates/mangal)
 - [Mangadex Downloader](https://github.com/mansuf/mangadex-downloader)
-==- Anime
+
+### Anime
 - [AnimeDL](https://github.com/justfoolingaround/animdl)
 - [nyaa DL](https://github.com/marcpinet/nyaadownloader)
 - [Crunchy-cli](https://github.com/crunchy-labs/crunchy-cli)
-==- Light Novel
+
+### Light Novel
 - [Light novel Crawler](https://github.com/dipu-bd/lightnovel-crawler)
 - [Novel Grabber](https://github.com/Flameish/Novel-Grabber)
-==- Comics
+
+### Comics
 - [Mylar](https://github.com/mylar3/mylar3)
-===
