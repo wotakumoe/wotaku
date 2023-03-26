@@ -1,7 +1,0 @@
-.simplebar-content li img {
-    filter: invert(1);
-}
-
-.dark .simplebar-content li img {
-    filter: none;
-}

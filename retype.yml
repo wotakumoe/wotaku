@@ -10,12 +10,6 @@ branding:
 meta:
   title: " - WEEB wiki"
 
-links:
-  - text: Discord
-    link: https://discord.com/users/777478477569196044
-    icon: /static/discord.png
-    target: blank
-
 footer:
   links:
     - text: wiki by Duckling#7501
