@@ -252,7 +252,7 @@ ___
 - [anime.plus](https://anime.plus/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/anime-plus/graph)
 - [Imgtrans](https://touhou.ai/imgtrans/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/zyddnys/manga-image-translator)
 - [MAL/AL/K/AP lists XML Exporter](https://malscraper.azurewebsites.net/)
-- [saucenao](https://saucenao.com/)
+- [SauceNAO](https://saucenao.com/)
 - [Sekai](https://sekai.rl404.com/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/rl404/sekai)
 - [Trace](https://trace.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/soruly/trace.moe) [!badge variant="ghost" icon="paper-airplane" text="TG Bot"](https://github.com/soruly/trace.moe-telegram-bot)
 - [Trakt to MAL](https://anitrakt.huere.net/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/ryuuganime/aniTrakt-IndexParser)
