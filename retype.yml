@@ -12,8 +12,7 @@ meta:
 
 links:
 
-  - text: 
-    link: https://discord.com/users/777478477569196044
+  - link: https://discord.com/users/777478477569196044
     icon: /static/discord.png
     target: blank
 
