@@ -4,7 +4,7 @@ order: 1000
 icon: globe
 ---
 
-![](https://media.discordapp.net/attachments/1015131233824538624/1084439979834482698/sqpm4sC.png)
+![](/static/web.png)
 
 # Websites
 

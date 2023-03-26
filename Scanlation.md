@@ -3,7 +3,7 @@ label: Scanlation
 order: 996
 icon: typography
 ---
-![](https://media.discordapp.net/attachments/1015131233824538624/1084440085329608795/zCwRqel.png)
+![](/static/scan.png)
 # Scanlation
 This page includes resources for scanlation, including raw files, guides, and tools.
 ___

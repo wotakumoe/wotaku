@@ -4,7 +4,7 @@ order: 998
 icon: plug
 ---
 
-![](https://media.discordapp.net/attachments/1015131233824538624/1089153576431001611/Tntt5Pc.png)
+![](/static/addons.png)
 
 # Add-ons
 You can these add-ons to enhance your manga and anime experience.

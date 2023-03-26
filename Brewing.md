@@ -3,7 +3,7 @@ label: Brewing
 order: 997
 icon: Beaker
 ---
-![](https://media.discordapp.net/attachments/1015131233824538624/1084440187645472818/1LbIixH.png)
+![](/static/brew.png)
 # Brewing
 Here is a list of projects that are either in early stages of development or still in progress.
 ___

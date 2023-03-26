@@ -3,7 +3,7 @@ label: Software
 order: 999
 icon: package
 ---
-![](https://media.discordapp.net/attachments/1015131233824538624/1084440136600793158/n6Sm1xS.png)
+![](/static/soft.png)
 # Software
 This list includes software for various platforms related to manga, anime, and light novels.
 ___
