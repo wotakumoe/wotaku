@@ -231,9 +231,6 @@ ___
 - [Manga Piracy](https://discord.com/invite/ZgMtAyxFSU)
 - r/ [!badge variant="ghost" size="xs" text="Anime"](https://www.reddit.com/r/anime) [!badge variant="ghost" size="xs" text="Manga"](https://www.reddit.com/r/manga) [!badge variant="ghost" size="xs" text="Manhwa"](https://www.reddit.com/r/manhwa) [!badge variant="ghost" size="xs" text="Manhua"](https://www.reddit.com/r/manhua) [!badge variant="ghost" size="xs" text="Anime Piracy"](https://www.reddit.com/r/animepiracy) [!badge variant="ghost" size="xs" text="Manga Piracy"](https://www.reddit.com/r/mangapiracy/) [!badge variant="ghost" size="xs" text="Others"](https://www.reddit.com/r/anime/wiki/related_subreddits/)
 
-### Discord Bot
-- [AniSearch](https://github.com/IchBinLeoon/anisearch-discord-bot) [!badge variant="ghost" icon="globe" text="Web"](https://ichbinleoon.github.io/anisearch-discord-bot/#/)
-
 ### Info
 - [AniChart](https://anichart.net/)
 - [aniDB](https://anidb.net/)
@@ -243,6 +240,7 @@ ___
 - [Anime Stats](https://anime-stats.net/)
 - [anime.plus](https://anime.plus/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/anime-plus/graph)
 - [Anime-Planet](https://www.anime-planet.com/)
+- Fansuber's guide [!badge variant="ghost" text="Encode"](https://guide.encode.moe/) [!badge variant="ghost" text="Unanimated"](https://unanimated.github.io/guides.htm) [!badge variant="ghost" text="Yuki"](https://yukisubs.wordpress.com/guides/)
 - [Fansuber's Index](https://index.fansubcar.tel/)
 - Legal Platform List [!badge variant="ghost" text="Manga"](https://otakulogy.github.io/manga-platform/) [!badge variant="ghost" text="Anime"](https://otakulogy.github.io/anime-streaming/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/otakulogy/)
 - [Livechart](https://www.livechart.me/)
