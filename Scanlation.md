@@ -12,27 +12,27 @@ ___
 ## Raw
 ___
 ### Reader
-- [Hachi Raw](https://hachiraw.com/) `R`
-- [KL Manga](https://klmanga.com/) `R`
+- [Hachi Raw](https://hachiraw.com/) [!badge variant="ghost" text="R"]
+- [KL Manga](https://klmanga.com/) [!badge variant="ghost" text="R"]
 - [Mangaraw+](https://mangarawplus.co/)
-- [Raw Kuma](https://rawkuma.com/) `R`
-- [Sen Manga](https://raw.senmanga.com/ ) `R+`
-- [We Love Manga](https://welovemanga.one/) | [Manga 1000](https://manga1000.top/) `R`
+- [Raw Kuma](https://rawkuma.com/) [!badge variant="ghost" text="R"]
+- [Sen Manga](https://raw.senmanga.com/ ) [!badge variant="ghost" text="R+"]
+- [We Love Manga](https://welovemanga.one/) | [Manga 1000](https://manga1000.top/) [!badge variant="ghost" text="R"]
 
 ### DDL
-- [13 DL](http://13dl.to/) `R` | Novel, Magazine
-- [A-Z Manga](https://www.a-zmanga.net/) `R+` | Novel, Magazine
+- [13 DL](http://13dl.to/) [!badge variant="ghost" text="R"] | Novel, Magazine
+- [A-Z Manga](https://www.a-zmanga.net/) [!badge variant="ghost" text="R+"] | Novel, Magazine
 - [Asia Media Blog](https://asiamediablog.com/media/comic/manga/) | Novel, Magazine
-- [Book Share Zip](https://bszip.com/) `R` | Novel,  Magazine
-- [Comic 77](https://comic77.com/ ) `R+`
-- [Comics 888](https://comics888.com/) `R` | Novel, Magazine
-- [DL Raw co](https://dl-raw.co/) `R` | Novel, Magazine
-- [DL Raw net](https://dlraw.net/category/raw-manga/) | [Manga Zip](https://manga-zip.info/category/raw-manga/) `R+` | Novel, Magazine
-- [DL Zip](https://dl-zip.com/) `R` | Novel, Magazine
+- [Book Share Zip](https://bszip.com/) [!badge variant="ghost" text="R"] | Novel,  Magazine
+- [Comic 77](https://comic77.com/ ) [!badge variant="ghost" text="R+"]
+- [Comics 888](https://comics888.com/) [!badge variant="ghost" text="R"] | Novel, Magazine
+- [DL Raw co](https://dl-raw.co/) [!badge variant="ghost" text="R"] | Novel, Magazine
+- [DL Raw net](https://dlraw.net/category/raw-manga/) | [Manga Zip](https://manga-zip.info/category/raw-manga/) [!badge variant="ghost" text="R+"] | Novel, Magazine
+- [DL Zip](https://dl-zip.com/) [!badge variant="ghost" text="R"] | Novel, Magazine
 - [Itazura Neko](https://itazuraneko.neocities.org/library/manga/subete) | Novel
-- [JP DDL](https://jpddl.com/manga) `R`
+- [JP DDL](https://jpddl.com/manga) [!badge variant="ghost" text="R"]
 - [Manga Zone](http://www.manga-zone.org/) | Novel
-- [Raw Cans](http://raw-cans.net/) `R+` | Magazine
+- [Raw Cans](http://raw-cans.net/) [!badge variant="ghost" text="R+"] | Magazine
 
 !!!contrast Premium File Downloader
 Use these sites [1](https://okdebrid.com/), [2](https://www.newscon.net/d/), [3](https://rapidgrab.pl/), [4](https://leechersparadise.xyz/) to download from the file hoster.
