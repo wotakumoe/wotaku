@@ -16,4 +16,8 @@ links:
     icon: /static/discord.png
     target: blank
 
+footer:
+  links:
+    - text: wiki by Duckling#7501
+      link: https://github.com/anotherduckling
 copyright: ""
