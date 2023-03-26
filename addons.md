@@ -16,7 +16,8 @@ ___
 - [AniSearch](https://github.com/IchBinLeoon/anisearch-discord-bot) [!badge variant="ghost" icon="globe" text="Web"](https://ichbinleoon.github.io/anisearch-discord-bot/#/)
 - Anigame [!badge variant="ghost" icon="globe" text="Top.gg"](https://top.gg/bot/571027211407196161)
 - Tweetshift [!badge variant="ghost" icon="globe" text="Web"](https://tweetshift.com/)
-- Readybot [!badge variant="ghost" icon="globe" text="Web"](https://readybot.io/)
+- [MonitoRSS](https://github.com/synzen/MonitoRSS) [!badge variant="ghost" icon="globe" text="Web"](https://monitorss.xyz/)
+
 
 ![](https://media.discordapp.net/attachments/1008654622740729897/1089181882186481694/IfbFmQA.png)
 ___

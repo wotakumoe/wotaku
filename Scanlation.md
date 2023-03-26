@@ -35,7 +35,7 @@ ___
 - [Raw Cans](http://raw-cans.net/) `R+` | Magazine
 
 !!!contrast Premium File Downloader
-Use these sites [1](https://www.newscon.net/d/), [2](https://rapidgrab.pl/), [3](https://leechersparadise.xyz/) to download from the file hoster. Go to [this page](https://www.newscon.net/download/hosts) to see availabe hosts and their download limits.
+Use these sites [1](https://okdebrid.com/), [2](https://www.newscon.net/d/), [3](https://rapidgrab.pl/), [4](https://leechersparadise.xyz/) to download from the file hoster.
 !!!
 
 ![](/static/res.png)
