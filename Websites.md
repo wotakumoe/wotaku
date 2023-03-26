@@ -231,14 +231,13 @@ ___
 - [Manga Piracy](https://discord.com/invite/ZgMtAyxFSU)
 - r/ [!badge variant="ghost" size="xs" text="Anime"](https://www.reddit.com/r/anime) [!badge variant="ghost" size="xs" text="Manga"](https://www.reddit.com/r/manga) [!badge variant="ghost" size="xs" text="Manhwa"](https://www.reddit.com/r/manhwa) [!badge variant="ghost" size="xs" text="Manhua"](https://www.reddit.com/r/manhua) [!badge variant="ghost" size="xs" text="Anime Piracy"](https://www.reddit.com/r/animepiracy) [!badge variant="ghost" size="xs" text="Manga Piracy"](https://www.reddit.com/r/mangapiracy/) [!badge variant="ghost" size="xs" text="Others"](https://www.reddit.com/r/anime/wiki/related_subreddits/)
 
-### Info
+### Indexes & Guides
 - [AniChart](https://anichart.net/)
 - [aniDB](https://anidb.net/)
 - [AniSearch](https://www.anisearch.com/)
 - [Anime Filler Guide](https://www.animefillerguide.com/)
 - [Anime Filler List](https://www.animefillerlist.com/)
 - [Anime Stats](https://anime-stats.net/)
-- [anime.plus](https://anime.plus/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/anime-plus/graph)
 - [Anime-Planet](https://www.anime-planet.com/)
 - Fansuber's guide [!badge variant="ghost" text="Encode"](https://guide.encode.moe/) [!badge variant="ghost" text="Unanimated"](https://unanimated.github.io/guides.htm) [!badge variant="ghost" text="Yuki"](https://yukisubs.wordpress.com/guides/)
 - [Fansuber's Index](https://index.fansubcar.tel/)
@@ -247,13 +246,14 @@ ___
 - [Manga Groups Portal](https://discord.gg/9KGMzP2)
 - [r/Anime Watch Order](https://www.reddit.com/r/anime/wiki/watch_order/)
 - [Seadex](https://releases.moe/)
-- [Sekai](https://sekai.rl404.com/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/rl404/sekai)
 
 
 ### Tools
+- [anime.plus](https://anime.plus/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/anime-plus/graph)
 - [Imgtrans](https://touhou.ai/imgtrans/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/zyddnys/manga-image-translator)
 - [MAL/AL/K/AP lists XML Exporter](https://malscraper.azurewebsites.net/)
 - [saucenao](https://saucenao.com/)
+- [Sekai](https://sekai.rl404.com/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/rl404/sekai)
 - [Trace](https://trace.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/soruly/trace.moe) [!badge variant="ghost" icon="paper-airplane" text="TG Bot"](https://github.com/soruly/trace.moe-telegram-bot)
 - [Trakt to MAL](https://anitrakt.huere.net/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/ryuuganime/aniTrakt-IndexParser)
 
