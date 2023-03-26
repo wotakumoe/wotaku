@@ -15,7 +15,7 @@ ___
 - [Atsumaru](https://atsu.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/TheUndo/Atsumaru) `Mangasee scrapper`
 ==- Anime
 - [Anify](https://anify.tv/)
-- [CoreProject](https://github.com/baseplate-admin/CoreProject)
+- [CoreProject](https://coreproject.moe/anime)
 - [Streamable](https://streamable.moe/)
 ===
 
