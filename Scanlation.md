@@ -14,6 +14,7 @@ ___
 ### Reader
 - [Hachi Raw](https://hachiraw.com/) [!badge variant="ghost" text="R"]
 - [KL Manga](https://klmanga.com/) [!badge variant="ghost" text="R"]
+- [Mangaraw Japan](https://mangaraw.to/) [!badge variant="ghost" text="R+"]
 - [Mangaraw+](https://mangarawplus.co/)
 - [Raw Kuma](https://rawkuma.com/) [!badge variant="ghost" text="R"]
 - [Sen Manga](https://raw.senmanga.com/ ) [!badge variant="ghost" text="R+"]
