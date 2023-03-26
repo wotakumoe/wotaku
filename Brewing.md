@@ -24,6 +24,7 @@ ___
 ___
 ### Android
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
+- [AniTrend V2](https://github.com/AniTrend/anitrend-v2)
 
 ### PC
 ==- Manga
