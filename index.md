@@ -3,7 +3,7 @@ label: Welcome
 icon: hubot
 ---
 
-![](https://media.discordapp.net/attachments/1015131233824538624/1084440032707887124/w9REcIo.png)
+![](/static/cover.png)
 
 # ようこそ !
 
