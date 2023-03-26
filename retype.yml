@@ -10,7 +10,12 @@ branding:
 meta:
   title: " - WEEB wiki"
 
+links:
 
+  - text: 
+    link: https://discord.com/users/777478477569196044
+    icon: /static/discord.png
+    target: blank
 
 footer:
 
