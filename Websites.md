@@ -151,6 +151,7 @@ Follow [**this guide**](/IRC.md) to know how to use XDCC.
 - [Anidex](https://anidex.info/)
 - [Animek](https://animek.fun/)
 - [Anime Tosho](https://animetosho.org/)
+- [Anirena](https://www.anirena.com/)
 - [Nyaa](https://nyaa.si/)
 - [Shana Project](https://www.shanaproject.com/)
 - [Tokyo tosho](https://www.tokyotosho.info/)
@@ -186,7 +187,6 @@ ___
 - [Light Novel World](https://www.lightnovelworld.com/)
 - [Novel Buddy](https://novelbuddy.com/home)
 - [Novel Hall](https://www.novelhall.com/)
-- [Novel updates](https://www.novelupdates.com/)
 - [Octopii](https://octopii.co/)
 - [Ranobes](https://ranobes.net/)
 - [Read Light Novel](https://www.readlightnovel.me/)
@@ -246,6 +246,7 @@ ___
 - [Manga Groups Portal](https://discord.gg/9KGMzP2)
 - [r/Anime Watch Order](https://www.reddit.com/r/anime/wiki/watch_order/)
 - [Seadex](https://releases.moe/)
+- [The Visual Novel Database](https://vndb.org/)
 
 
 ### Tools
@@ -262,3 +263,4 @@ ___
 - [MyAnimeList](https://myanimelist.net/)
 - [Kitsu](https://kitsu.io/)
 - [Mangaupdates](https://www.mangaupdates.com/)
+- [Novel updates](https://www.novelupdates.com/)

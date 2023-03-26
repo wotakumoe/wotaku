@@ -39,6 +39,7 @@ ___
 - [Adolla](https://github.com/AdollaApp/Adolla)
 ==- Offline
 - [Clovre](https://github.com/rehhouari/clovre)
+- [CDisplay](https://www.cdisplayex.com/)
 - [Kavita](https://github.com/Kareadita/Kavita)
 - [Komga](https://komga.org/)
 - [LANraragi](https://github.com/Difegue/LANraragi) [!badge variant="ghost" size="xs" text="w/ downloader"]
@@ -91,6 +92,7 @@ ___
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) + [!badge variant="ghost" size="xs" text="Anime"]
 - [MangaL](https://github.com/metafates/mangal)
 - [Mangadex Downloader](https://github.com/mansuf/mangadex-downloader)
+- [PixivUtil2](https://github.com/Nandaka/PixivUtil2)
 
 ### Anime
 - [AnimeDL](https://github.com/justfoolingaround/animdl)
