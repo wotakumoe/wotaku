@@ -19,22 +19,22 @@ ___
 
 ### Aggregator
 
-- [Mangadex](https://mangadex.org/) [!badge variant="ghost" text="R+"]
-- [Comick](https://comick.app/home) [!badge variant="ghost" text="R"]
-- [Mangapark](https://mangapark.net/) [!badge variant="ghost" text="R+"]
-- [Manga Katana](https://mangakatana.com/) [!badge variant="ghost" text="R+"]
-- [Manga Fire](https://mangafire.to/home) [!badge variant="ghost" text="R-"]
-- [Manga Reader](https://mangareader.to/home) [!badge variant="ghost" text="R-"]
-- [Cubari Proxy](https://proxy.cubari.moe/) [!badge variant="ghost" text="R+"]
+- [Mangadex](https://mangadex.org/) [!badge variant="ghost" size="xs" text="R+"]
+- [Comick](https://comick.app/home) [!badge variant="ghost" size="xs" text="R"]
+- [Mangapark](https://mangapark.net/) [!badge variant="ghost" size="xs" text="R+"]
+- [Manga Katana](https://mangakatana.com/) [!badge variant="ghost" size="xs" text="R+"]
+- [Manga Fire](https://mangafire.to/home) [!badge variant="ghost" size="xs" text="R-"]
+- [Manga Reader](https://mangareader.to/home) [!badge variant="ghost" size="xs" text="R-"]
+- [Cubari Proxy](https://proxy.cubari.moe/) [!badge variant="ghost" size="xs" text="R+"]
 - [Mangalife](https://manga4life.com/) | [Mangasee](https://mangasee123.com/)
-- [Mangahasu](https://mangahasu.se/) [!badge variant="ghost" text="R+"]
-- [Manga Buddy](https://mangabuddy.com/) [!badge variant="ghost" text="R"]
+- [Mangahasu](https://mangahasu.se/) [!badge variant="ghost" size="xs" text="R+"]
+- [Manga Buddy](https://mangabuddy.com/) [!badge variant="ghost" size="xs" text="R"]
 - [Mangacultivator](https://mangacultivator.com)
 - [1st Kiss Manga](https://1stkissmanga.me/)
-- [Batoto](https://battwo.com/) [!badge variant="ghost" text="R+"]
-- [Manganato](https://chapmanganato.com/nato) [!badge variant="ghost" text="R"]
-- [Manga Hub](https://mangahub.io/) [!badge variant="ghost" text="R"]
-- [Manga Here](https://www.mangahere.cc/) | [Manga Fox](https://fanfox.net/) [!badge variant="ghost" text="R-"]
+- [Batoto](https://battwo.com/) [!badge variant="ghost" size="xs" text="R+"]
+- [Manganato](https://chapmanganato.com/nato) [!badge variant="ghost" size="xs" text="R"]
+- [Manga Hub](https://mangahub.io/) [!badge variant="ghost" size="xs" text="R"]
+- [Manga Here](https://www.mangahere.cc/) | [Manga Fox](https://fanfox.net/) [!badge variant="ghost" size="xs" text="R-"]
 
 ### Scanlator
 
@@ -135,11 +135,11 @@ Follow [**this guide**](/ns.md) to know how to directly stream these files.
 !!!
 
 ### XDCC
-- [nibl](https://nibl.co.uk/search) `anime`
-- [subsplease](https://subsplease.org/xdcc/) `anime`
-- [xdcc eu](https://www.xdcc.eu/) `general`
-- [animk](https://animk.info/xdcc/) `anime`
-- [sunxdcc](https://sunxdcc.com/) `general`
+- [nibl](https://nibl.co.uk/search) [!badge variant="ghost" text="Anime"]
+- [subsplease](https://subsplease.org/xdcc/) [!badge variant="ghost" text="Anime"]
+- [animk](https://animk.info/xdcc/) [!badge variant="ghost" text="Anime"]
+- [xdcc eu](https://www.xdcc.eu/) [!badge variant="ghost" text="General"]
+- [sunxdcc](https://sunxdcc.com/) [!badge variant="ghost" text="General"]
 !!!contrast IRC Guide
 Follow [**this guide**](/IRC.md) to know how to use XDCC.
 !!!
@@ -229,7 +229,7 @@ ___
 - [Anime News Network](https://www.animenewsnetwork.com/)
 - [Manga Helper](https://mangahelpers.com/)
 - [Manga Piracy](https://discord.com/invite/ZgMtAyxFSU)
-- r/ [!badge variant="ghost" size="xs" text="Anime"](https://www.reddit.com/r/anime) [!badge variant="ghost" size="xs" text="Manga"](https://www.reddit.com/r/manga) [!badge variant="ghost" size="xs" text="Manhwa"](https://www.reddit.com/r/manhwa) [!badge variant="ghost" size="xs" text="Manhua"](https://www.reddit.com/r/manhua) [!badge variant="ghost" size="xs" text="Anime Piracy"](https://www.reddit.com/r/animepiracy) [!badge variant="ghost" size="xs" text="Manga Piracy"](https://www.reddit.com/r/mangapiracy/) [!badge variant="ghost" size="xs" text="Others"](https://www.reddit.com/r/anime/wiki/related_subreddits/)
+- r/ [!badge variant="ghost" text="Anime"](https://www.reddit.com/r/anime) [!badge variant="ghost" text="Manga"](https://www.reddit.com/r/manga) [!badge variant="ghost" text="Manhwa"](https://www.reddit.com/r/manhwa) [!badge variant="ghost" text="Manhua"](https://www.reddit.com/r/manhua) [!badge variant="ghost" text="Anime Piracy"](https://www.reddit.com/r/animepiracy) [!badge variant="ghost" text="Manga Piracy"](https://www.reddit.com/r/mangapiracy/) [!badge variant="ghost" text="Others"](https://www.reddit.com/r/anime/wiki/related_subreddits/)
 
 ### Databases & Guides
 - [AniChart](https://anichart.net/)

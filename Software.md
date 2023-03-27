@@ -42,7 +42,7 @@ ___
 - CDisplay [!badge variant="ghost" icon="globe" text="Web"](https://www.cdisplayex.com/)
 - [Kavita](https://github.com/Kareadita/Kavita) [!badge variant="ghost" icon="globe" text="Web"](https://www.kavitareader.com/)
 - [Komga](https://github.com/gotson/komga) [!badge variant="ghost" icon="globe" text="Web"](https://komga.org/)
-- [LANraragi](https://github.com/Difegue/LANraragi) [!badge variant="ghost" size="xs" text="w/ downloader"]
+- [LANraragi](https://github.com/Difegue/LANraragi) [!badge variant="ghost" size="xs" text="Downloader"]
 - [LRReader](https://github.com/Guerra24/LRReader)
 - [Mango](https://github.com/getmango/Mango) [!badge variant="ghost" icon="globe" text="Web"](https://getmango.app/)
 - [Open Comic](https://github.com/ollm/OpenComic)
