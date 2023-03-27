@@ -12,7 +12,7 @@ ___
 ## Android
 ___
 ### Manga
-- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/) [!badge variant="ghost" icon="globe" text="Web"](https://tachiyomi.org/) [!badge variant="dark" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/)
+- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/) [!badge variant="ghost" icon="globe" text="Web"](https://tachiyomi.org/) [!badge variant="ghost" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/)
 - [Kotatsu](https://github.com/KotatsuApp/Kotatsu) [!badge variant="ghost" icon="globe" text="Web"](https://kotatsu.app/)
 
 ### Anime
@@ -35,7 +35,7 @@ ___
 ### Manga
 ==- Online
 - [Houdoku](https://github.com/xgi/houdoku) [!badge variant="ghost" icon="globe" text="Web"](https://houdoku.org/)
-- [Tachidesk](https://github.com/Suwayomi/Tachidesk-Server) [!badge variant="dark" icon="tab-external" text="Clients"](https://github.com/Suwayomi/Tachidesk-Server#tachidesk-client-projects)
+- [Tachidesk](https://github.com/Suwayomi/Tachidesk-Server) [!badge variant="ghost" icon="tab-external" text="Clients"](https://github.com/Suwayomi/Tachidesk-Server#tachidesk-client-projects)
 - [Adolla](https://github.com/AdollaApp/Adolla)
 ==- Offline
 - [Clovre](https://github.com/rehhouari/clovre) [!badge variant="ghost" icon="globe" text="Web"](https://clovre.pigeonivy.com/)
@@ -85,7 +85,7 @@ ___
 - [Hakuneko](https://github.com/manga-download/hakuneko) [!badge variant="ghost" icon="globe" text="Web"](https://hakuneko.download/)
 - [Komikku](https://gitlab.com/valos/Komikku)
 - [MComix](https://sourceforge.net/projects/mcomix/)
-- [Tachidesk](https://github.com/Suwayomi/Tachidesk-Server) | [!badge variant="dark" icon="tab-external" text="Clients"](https://github.com/Suwayomi/Tachidesk-Server#tachidesk-client-projects)
+- [Tachidesk](https://github.com/Suwayomi/Tachidesk-Server) [!badge variant="ghost" icon="tab-external" text="Clients"](https://github.com/Suwayomi/Tachidesk-Server#tachidesk-client-projects)
 - [YACReader](https://www.yacreader.com/)
 
 ___
@@ -106,7 +106,7 @@ ___
 - [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2)
 - [Hakuneko](https://github.com/manga-download/hakuneko) [!badge variant="ghost" icon="globe" text="Web"](https://hakuneko.download/) [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="Reader"]
 - [HDoujin Downloader](https://github.com/HDoujinDownloader/HDoujinDownloader) [!badge variant="ghost" icon="globe" text="Web"](https://doujindownloader.com/)
-- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) + [!badge variant="ghost" size="xs" text="Anime"]
+- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) [!badge variant="ghost" size="xs" text="Anime"]
 - [MangaL](https://github.com/metafates/mangal)
 - [Mangadex Downloader](https://github.com/mansuf/mangadex-downloader)
 - [PixivUtil2](https://github.com/Nandaka/PixivUtil2)
