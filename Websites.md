@@ -26,8 +26,8 @@ ___
 - [Manga Fire](https://mangafire.to/home) [!badge variant="ghost" text="R-"]
 - [Manga Reader](https://mangareader.to/home) [!badge variant="ghost" text="R-"]
 - [Cubari Proxy](https://proxy.cubari.moe/) [!badge variant="ghost" text="R+"]
-- [Mangahasu](https://mangahasu.se/) [!badge variant="ghost" text="R+"]
 - [Mangalife](https://manga4life.com/) | [Mangasee](https://mangasee123.com/)
+- [Mangahasu](https://mangahasu.se/) [!badge variant="ghost" text="R+"]
 - [Manga Buddy](https://mangabuddy.com/) [!badge variant="ghost" text="R"]
 - [Mangacultivator](https://mangacultivator.com)
 - [1st Kiss Manga](https://1stkissmanga.me/)

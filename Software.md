@@ -12,7 +12,7 @@ ___
 ## Android
 ___
 ### Manga
-- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/) |  [!badge variant="dark" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/)
+- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/) & [!badge variant="dark" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/)
 - [Kotatsu](https://github.com/KotatsuApp/Kotatsu)
 
 ### Anime
@@ -23,7 +23,7 @@ ___
 - [kuro](https://github.com/deceptions/no)
 
 
-### LN
+### Light Novel
 - [Shosetsu](https://gitlab.com/shosetsuorg/shosetsu)
 - [Quicknovel](https://github.com/LagradOst/QuickNovel)
 - [LN Reader](https://github.com/LNReader/lnreader)
@@ -47,6 +47,7 @@ ___
 - [Mango](https://getmango.app/)
 - [Open Comic](https://github.com/ollm/OpenComic)
 - [Tanoshi](https://github.com/faldez/tanoshi)
+- [YACReader](https://www.yacreader.com/)
 - [Yomikiru](https://github.com/mienaiyami/yomikiru)
 ===
 
@@ -57,7 +58,7 @@ ___
 - [Miru](https://github.com/ThaUnknown/miru/)
 ===
 
-### LN
+### Light Novel
 - [Kavita](https://github.com/Kareadita/Kavita)
 - [Novel Reader](https://github.com/Kevin-Umali/NovelReader)
 - [Koodo Reader](https://github.com/troyeguo/koodo-reader)
@@ -76,9 +77,25 @@ ___
 - [Anime Now](https://github.com/AnimeNow-Team/AnimeNow)
 
 
-![](https://media.discordapp.net/attachments/1008654622740729897/1089183080767574096/LMbJDCj.png)
+![](/static/linux.png)
+## Linux
+___
+### Manga
+- [ahoviewer](https://github.com/ahodesuka/ahoviewer)
+- [Hakuneko](https://github.com/manga-download/hakuneko) [!badge variant="ghost" icon="globe" text="Web"](https://hakuneko.download/)
+- [Komikku](https://gitlab.com/valos/Komikku)
+- [MComix](https://sourceforge.net/projects/mcomix/)
+- [Tachidesk](https://github.com/Suwayomi/Tachidesk-Server) | [!badge variant="dark" icon="tab-external" text="Clients"](https://github.com/Suwayomi/Tachidesk-Server#tachidesk-client-projects)
+- [YACReader](https://www.yacreader.com/)
 
 ___
+### Light Novel
+- [Foliate](https://github.com/johnfactotum/foliate) [!badge variant="ghost" icon="globe" text="Web"](https://johnfactotum.github.io/foliate/)
+
+
+![](https://media.discordapp.net/attachments/1008654622740729897/1089183080767574096/LMbJDCj.png)
+___
+
 ## Downloader
 ___
 
