@@ -60,8 +60,7 @@ ___
 ## Tool
 - [Anime4K](https://github.com/bloc97/Anime4K)
 - [hent-AI](https://github.com/natethegreate/hent-AI)
-- [Mylar](https://github.com/mylar3/mylar3)
-- [Shoko Anime](https://shokoanime.com/)
+- [Shoko Anime](https://github.com/shokoanime) [!badge variant="ghost" icon="glove" text="Web"](https://shokoanime.com/)
 - [Waifu2x](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
 
 ![](https://media.discordapp.net/attachments/1008654622740729897/1089181881930620979/Yo3T2A8.png)
