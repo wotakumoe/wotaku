@@ -3,8 +3,8 @@ output: .retype
 url: https://weeb.pages.dev/
 
 branding:
-  logo: /static/weebicon.svg
-  logoDark: /static/weebicon.svg
+  logo: /static/inaspin.gif
+  logoDark: /static/inaspin.gif
   title: WEEB
 
 meta:
