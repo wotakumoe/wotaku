@@ -20,6 +20,8 @@ ___
 - [CoreProject](https://coreproject.moe/anime) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/baseplate-admin/CoreProject)
 - [Streamable](https://streamable.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/StreamAble-Team/StreamAble-website)
 
+### Miscellaneous
+- [Tankobon](https://tankobon.net/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/crxssed7/tankobon)
 
 ![](/static/software.png)
 ## Software
