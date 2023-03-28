@@ -76,19 +76,19 @@ ___
 - [Apps for Anilist](https://anilist.co/apps)
 - [MAL App](https://play.google.com/store/apps/details?id=net.myanimelist.app&hl=en&gl=US)
 - [MoeList](https://github.com/axiel7/MoeList)
-- [Kitsu](https://play.google.com/store/apps/details?id=com.everfox.animetrackerandroid&hl=en&gl=US)
+- [Kitsu](https://github.com/hummingbird-me/kitsu-mobile) [!badge variant="ghost" icon="https://cdn-icons-png.flaticon.com/512/5969/5969010.png" text="Android"](https://play.google.com/store/apps/details?id=com.everfox.animetrackerandroid&hl=en&gl=US) [!badge variant="ghost" icon="https://cdn-icons-png.flaticon.com/512/179/179309.png" text="iOS"](https://apps.apple.com/us/app/kitsu-anime/id590452826)
 - [Kitsune](https://github.com/Drumber/Kitsune)
 ==- Windows
-- [Taiga](https://taiga.moe/) [!badge variant="ghost" size="xs" text="Downloader"]
-- [Trackma](https://github.com/z411/trackma)
-- [MALClient](https://apps.microsoft.com/store/detail/malclient/9NBLGGH5F3BL)
+- [Taiga](https://github.com/erengy/taiga) [!badge variant="ghost" icon="globe" text="Web"](https://taiga.moe/) [!badge variant="ghost" size="xs" text="Downloader"]
+- [Trackma](https://github.com/z411/trackma) [!badge variant="ghost" icon="globe" text="Web"](https://z411.github.io/trackma/)
+- [MALClient](https://github.com/Drutol/MALClient) [!badge variant="ghost" icon="globe" text="Store"](https://apps.microsoft.com/store/detail/malclient/9NBLGGH5F3BL)
 ==- MacOS
-- [Hachidori](https://github.com/Atelier-Shiori/hachidori)
+- [Hachidori](https://github.com/Atelier-Shiori/hachidori) [!badge variant="ghost" icon="globe" text="Web"](https://malupdaterosx.moe/hachidori/)
 ==- Linux
-- [Trackma](https://github.com/z411/trackma)
-- [Tundra](https://github.com/m4tx/tundra)
+- [Trackma](https://github.com/z411/trackma) [!badge variant="ghost" icon="globe" text="Web"](https://z411.github.io/trackma/)
+- [Tundra](https://github.com/m4tx/tundra) [!badge variant="ghost" icon="globe" text="Web"](https://tundra.moe/)
 ==- Browser
 - [All Manga Reader](https://www.allmangasreader.com/)
 - [Kenmei](https://www.kenmei.co/)
-- [MALSync](https://malsync.moe/)
+- [MALSync](https://github.com/MALSync/MALSync) [!badge variant="ghost" icon="globe" text="Web"](https://malsync.moe/) [!badge variant="ghost" icon="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" text="Chrome"](https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel) [!badge variant="ghost" icon="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1200px-Firefox_logo%2C_2019.svg.png" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/mal-sync/) [!badge variant="ghost" icon="file-code" text="Script"](https://github.com/MALSync/MALSync/releases/latest/download/malsync.user.js)
 ===
