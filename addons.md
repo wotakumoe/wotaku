@@ -79,7 +79,7 @@ ___
 - [Kitsu](https://play.google.com/store/apps/details?id=com.everfox.animetrackerandroid&hl=en&gl=US)
 - [Kitsune](https://github.com/Drumber/Kitsune)
 ==- Windows
-- [Taiga](https://taiga.moe/)
+- [Taiga](https://taiga.moe/) [!badge variant="ghost" size="xs" text="Downloader"]
 - [Trackma](https://github.com/z411/trackma)
 - [MALClient](https://apps.microsoft.com/store/detail/malclient/9NBLGGH5F3BL)
 ==- MacOS
