@@ -106,12 +106,12 @@ ___
 - [Marin](https://marin.moe/)
 - [Zoro](https://zoro.to/home)
 ==- Scraper
-- [Anikatsu](https://anikatsu.me/home) | [!badge variant="ghost" size="xs" text="gogo"]
+- [Anikatsu](https://anikatsu.me/home) | [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/shashankktiwariii/anikatsu) [!badge variant="ghost" size="xs" text="gogo"]
 - [Animedao](https://animedao.to/) | [!badge variant="ghost" size="xs" text="gogo"]
 - [Animesuge](https://animesuge.to/home) | [!badge variant="ghost" size="xs" text="9anime"]
-- [Animos](https://www.animos.cf/) | [!badge variant="ghost" size="xs" text="pahe"]
-- [Enime](https://enime.moe/) | [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="zoro"]
-- [HaiKei](https://haikei.xyz/) | [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="zoro"]
+- [Animos](https://www.animos.cf/) | [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/Nectres/animos) [!badge variant="ghost" size="xs" text="pahe"]
+- [Enime](https://enime.moe/) | [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/Enime-Project) [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="zoro"]
+- [HaiKei](https://haikei.xyz/) | [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/wearrrrr/HaiKei) [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="zoro"]
 - [Kaguya](https://kaguya.app) | [!badge variant="ghost" size="xs" text="9anime"] [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="bili"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="marin"] [!badge variant="ghost" size="xs" text="zoro"]
 - [Yugen](https://yugenanime.ro/) | [!badge variant="ghost" size="xs" text="gogo"]
 ===
@@ -241,6 +241,7 @@ ___
 - [Anime-Planet](https://www.anime-planet.com/)
 - Fansuber's guide [!badge variant="ghost" text="Encode"](https://guide.encode.moe/) [!badge variant="ghost" text="Goodjob"](https://www.goodjobmedia.com/fansubbing/) [!badge variant="ghost" text="Unanimated"](https://unanimated.github.io/guides.htm) [!badge variant="ghost" text="Yuki"](https://yukisubs.wordpress.com/guides/)
 - [Fansuber's Index](https://index.fansubcar.tel/)
+- [Kitsu Season Trends](https://season.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/wopian/kitsu-season-trends)
 - Legal Platform List [!badge variant="ghost" text="Manga"](https://otakulogy.github.io/manga-platform/) [!badge variant="ghost" text="Anime"](https://otakulogy.github.io/anime-streaming/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/otakulogy/)
 - [Livechart](https://www.livechart.me/)
 - [Manga Groups Portal](https://discord.gg/9KGMzP2)
