@@ -11,8 +11,9 @@ You can these add-ons to enhance your manga and anime experience.
 ___
 
 ![](https://media.discordapp.net/attachments/1008654622740729897/1089181881083371560/N9P3SKZ.png)
-___
+
 ## Discord Bot
+___
 - [AniSearch](https://github.com/IchBinLeoon/anisearch-discord-bot) [!badge variant="ghost" icon="globe" text="Web"](https://ichbinleoon.github.io/anisearch-discord-bot/#/)
 - Anigame [!badge variant="ghost" icon="globe" text="Top.gg"](https://top.gg/bot/571027211407196161)
 - Tweetshift [!badge variant="ghost" icon="globe" text="Web"](https://tweetshift.com/)
@@ -20,8 +21,9 @@ ___
 
 
 ![](https://media.discordapp.net/attachments/1008654622740729897/1089181882186481694/IfbFmQA.png)
-___
+
 ## Extension
+___
 - [Anime Watch Parties](https://github.com/Dragicafit/Anime-Watch-Parties/) [!badge variant="ghost" icon="globe" text="Web"](https://animewatchparties.com/) [!badge variant="ghost" icon="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" text="Chrome"](https://chrome.google.com/webstore/detail/anime-watch-parties/goinehmnmhnoaepodbngfgdgjeibgelh/) [!badge variant="ghost" icon="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1200px-Firefox_logo%2C_2019.svg.png" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/)
 - [Animepahe Plus](https://github.com/Cyan903/Animepahe-plus) [!badge variant="ghost" icon="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1200px-Firefox_logo%2C_2019.svg.png" text="Firefox"](https://addons.mozilla.org/en-CA/firefox/addon/animepahe-plus/)
 - [Anime Skip Player](https://github.com/anime-skip/player) [!badge variant="ghost" icon="globe" text="Web"](https://anime-skip.com/) [!badge variant="ghost" icon="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" text="Chrome"](https://chrome.google.com/webstore/detail/anime-skip/mgmdkjcljneegjfajchedjpdhbadklcf) [!badge variant="ghost" icon="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1200px-Firefox_logo%2C_2019.svg.png" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-skip)
@@ -32,9 +34,10 @@ ___
 - Substital [!badge variant="ghost" icon="globe" text="Web"](https://substital.com/) [!badge variant="ghost" icon="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" text="Chrome"](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg) [!badge variant="ghost" icon="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1200px-Firefox_logo%2C_2019.svg.png" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/substital/)
 
 ![](https://media.discordapp.net/attachments/1008654622740729897/1089181881381175326/ZTmEu76.png)
-___
 
 ## Script
+___
+
 - 9anime Bingewatcher+ [!badge variant="ghost" icon="https://greasyfork.org/vite/assets/blacklogo96.e0c2c761.png" text="Fork"](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher)
 - [Anime Website Buttons Plus](https://github.com/Deatthwing/anime-website-buttons-plus) [!badge variant="ghost" icon="https://greasyfork.org/vite/assets/blacklogo96.e0c2c761.png" text="Fork"]()
 - [Anifilters](https://github.com/Karmesinrot/Anifiltrs)
@@ -56,16 +59,19 @@ Active maintenance is necessary for scripts to work properly. If a script fails,
 !!!
 
 ![](https://media.discordapp.net/attachments/1008654622740729897/1089181881666384013/BUiTo5O.png)
-___
+
 ## Tool
+___
+
 - [Anime4K](https://github.com/bloc97/Anime4K)
 - [hent-AI](https://github.com/natethegreate/hent-AI)
 - [Shoko Anime](https://github.com/shokoanime) [!badge variant="ghost" icon="glove" text="Web"](https://shokoanime.com/)
 - [Waifu2x](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
 
 ![](https://media.discordapp.net/attachments/1008654622740729897/1089181881930620979/Yo3T2A8.png)
-___
+
 ## Tracker
+___
 ==- Android and iOS
 - [Apps for Anilist](https://anilist.co/apps)
 - [MAL App](https://play.google.com/store/apps/details?id=net.myanimelist.app&hl=en&gl=US)
