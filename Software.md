@@ -88,7 +88,6 @@ ___
 - [Tachidesk](https://github.com/Suwayomi/Tachidesk-Server) [!badge variant="ghost" icon="tab-external" text="Clients"](https://github.com/Suwayomi/Tachidesk-Server#tachidesk-client-projects)
 - [YACReader](https://www.yacreader.com/)
 
-___
 ### Light Novel
 - [Foliate](https://github.com/johnfactotum/foliate) [!badge variant="ghost" icon="globe" text="Web"](https://johnfactotum.github.io/foliate/)
 
