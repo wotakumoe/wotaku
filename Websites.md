@@ -129,7 +129,7 @@ ___
 - [Anime time](https://www.animetime.pw/) [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="ad"]
 - [RIP Crabby Anime](https://ripcrabbyanime.in/) [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="no ad"]
 - [ACGNX CN](https://share.acgnx.se/) [!badge variant="ghost" size="xs" text="Pikpak"] [!badge variant="ghost" size="xs" text="no ad"]
-- [rbx](http://59.rbx5.ovh.abcd.network/), [2](http://52.rbx5.ovh.abcd.network/), [3](http://511.rbx.abcvg.ovh/), [4](http://508.rbx.abcvg.ovh/), [5](http://510.rbx.abcvg.ovh/), [6](http://58.rbx5.ovh.abcd.network/) | [!badge variant="ghost" size="xs" text="Index"] 💀 [!badge variant="ghost" size="xs" text="no ad"]
+- [rbx](http://59.rbx5.ovh.abcd.network/), [2](http://52.rbx5.ovh.abcd.network/), [3](http://511.rbx.abcvg.ovh/), [4](http://508.rbx.abcvg.ovh/), [5](http://510.rbx.abcvg.ovh/), [6](http://58.rbx5.ovh.abcd.network/) [!badge variant="ghost" size="xs" text="Index"] 💀 [!badge variant="ghost" size="xs" text="no ad"]
 !!!contrast Network Stream Guide
 Follow [**this guide**](/ns.md) to know how to directly stream these files.
 !!!
