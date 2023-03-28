@@ -13,7 +13,7 @@ ___
  ___
 
 ### Manga
-- [Atsumaru](https://atsu.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/TheUndo/Atsumaru) `Mangasee scrapper`
+- [Atsumaru](https://atsu.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/TheUndo/Atsumaru) [!badge variant="ghost" size="xs" text="Mangasee"]
 
 ### Anime
 - [Anify](https://anify.tv/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/Eltik/Anify-Frontend)
