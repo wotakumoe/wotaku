@@ -105,6 +105,7 @@ ___
 - [Hakuneko](https://github.com/manga-download/hakuneko) [!badge variant="ghost" icon="globe" text="Web"](https://hakuneko.download/) [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="Reader"]
 - [HDoujin Downloader](https://github.com/HDoujinDownloader/HDoujinDownloader) [!badge variant="ghost" icon="globe" text="Web"](https://doujindownloader.com/)
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) [!badge variant="ghost" size="xs" text="Anime"]
+- [Kotatsu DL](https://github.com/KotatsuApp/kotatsu-dl) [!badge variant="ghost" icon="globe" text="Web"](https://kotatsu.app/)
 - [MangaL](https://github.com/metafates/mangal)
 - [Mangadex Downloader](https://github.com/mansuf/mangadex-downloader)
 - [PixivUtil2](https://github.com/Nandaka/PixivUtil2)

@@ -32,12 +32,13 @@ ___
 
 ### PC
 ==- Manga
-- [Atsumeru](https://github.com/AtsumeruDev/Atsumeru)
+- [Atsumeru](https://github.com/AtsumeruDev/Atsumeru) [!badge variant="ghost" icon="globe" text="Web"](https://atsumeru.xyz/)
 - [FeeDex](https://github.com/Tosh0kan/FeeDex)
 - [Fukayo](https://github.com/JiPaix/Fukayo/)
 - [Manelo](https://github.com/hammamikhairi/Manga-Desktop-App)
 - [MangaReaderDL](https://github.com/chungmuwei/MangaReaderDL)
 - [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager)
+- [Special Eureka](https://github.com/tonymushah/special-eureka)
 ==- Anime
 - [Aniluv](https://github.com/wovnep/aniluv)
 - [Animos](https://github.com/Nectres/animos)
@@ -51,6 +52,7 @@ ___
 - [Threetwo](https://github.com/rishighan/threetwo)
 - [Juro](https://github.com/jerry08/Juro)
 - [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper)
+- [Auto Anime Bot](https://github.com/TechShreyash/AutoAnimeBot)
 ===
 
 ### iOS

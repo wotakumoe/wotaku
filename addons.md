@@ -75,7 +75,7 @@ ___
 ==- Android and iOS
 - [Apps for Anilist](https://anilist.co/apps)
 - [MAL App](https://play.google.com/store/apps/details?id=net.myanimelist.app&hl=en&gl=US)
-- [MoeList](https://github.com/axiel7/MoeList)
+- [MoeList](https://github.com/axiel7/MoeList) [!badge variant="ghost" icon="globe" text="Web"](https://moelist.net/)
 - [Kitsu](https://github.com/hummingbird-me/kitsu-mobile) [!badge variant="ghost" icon="/static/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.everfox.animetrackerandroid&hl=en&gl=US) [!badge variant="ghost" icon="/static/apple.png" text="iOS"](https://apps.apple.com/us/app/kitsu-anime/id590452826)
 - [Kitsune](https://github.com/Drumber/Kitsune)
 ==- Windows
