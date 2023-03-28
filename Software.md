@@ -92,7 +92,7 @@ ___
 - [Foliate](https://github.com/johnfactotum/foliate) [!badge variant="ghost" icon="globe" text="Web"](https://johnfactotum.github.io/foliate/)
 
 
-![](https://media.discordapp.net/attachments/1008654622740729897/1089183080767574096/LMbJDCj.png)
+![](/static/dler.png)
 
 ## Downloader
 ___
