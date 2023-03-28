@@ -99,37 +99,37 @@ ___
 
 ==- Uploader
 - [9anime](https://9anime.gs/home)
-- [AllAnime](https://allanime.to/) + [!badge variant="ghost" size="xs" text="crunchy"], [!badge variant="ghost" size="xs" text="gogo"]
+- [AllAnime](https://allanime.to/) + [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="gogo"]
 - [Animension](https://animension.to/) + [!badge variant="ghost" size="xs" text="gogo"]
 - [Animepahe](https://animepahe.com/)
 - [KickAssAnime](https://www2.kickassanime.ro/) + [!badge variant="ghost" size="xs" text="crunchy"]
 - [Marin](https://marin.moe/)
 - [Zoro](https://zoro.to/home)
 ==- Scraper
-- [Anikatsu](https://anikatsu.me/home) | [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/shashankktiwariii/anikatsu) [!badge variant="ghost" size="xs" text="gogo"]
-- [Animedao](https://animedao.to/) | [!badge variant="ghost" size="xs" text="gogo"]
-- [Animesuge](https://animesuge.to/home) | [!badge variant="ghost" size="xs" text="9anime"]
-- [Animos](https://www.animos.cf/) | [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/Nectres/animos) [!badge variant="ghost" size="xs" text="pahe"]
-- [Enime](https://enime.moe/) | [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/Enime-Project) [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="zoro"]
-- [HaiKei](https://haikei.xyz/) | [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/wearrrrr/HaiKei) [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="zoro"]
-- [Kaguya](https://kaguya.app) | [!badge variant="ghost" size="xs" text="9anime"] [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="bili"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="marin"] [!badge variant="ghost" size="xs" text="zoro"]
-- [Yugen](https://yugenanime.ro/) | [!badge variant="ghost" size="xs" text="gogo"]
+- [Anikatsu](https://anikatsu.me/home) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/shashankktiwariii/anikatsu) [!badge variant="ghost" size="xs" text="gogo"]
+- [Animedao](https://animedao.to/) [!badge variant="ghost" size="xs" text="gogo"]
+- [Animesuge](https://animesuge.to/home) [!badge variant="ghost" size="xs" text="9anime"]
+- [Animos](https://www.animos.cf/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/Nectres/animos) [!badge variant="ghost" size="xs" text="pahe"]
+- [Enime](https://enime.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/Enime-Project) [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="zoro"]
+- [HaiKei](https://haikei.xyz/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/wearrrrr/HaiKei) [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="zoro"]
+- [Kaguya](https://kaguya.app) [!badge variant="ghost" size="xs" text="9anime"] [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="bili"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="marin"] [!badge variant="ghost" size="xs" text="zoro"]
+- [Yugen](https://yugenanime.ro/) [!badge variant="ghost" size="xs" text="gogo"]
 ===
 
 ### DDL
-- [Tokyo Insider](https://www.tokyoinsider.com/) | Direct | `no ad`
-- [Anime out](https://www.animeout.xyz/) | Direct | `no ad`
-- [Judas](https://rentry.org/judas-ddl) | GDrive | `no ad`
-- [AniDL](https://anidl.org/) | Index, Mega | `ad`
-- [hi10anime](https://hi10anime.com/) | Direct | `ad`
-- [Anime Senpai](https://www.animesenpai4u.com/) | GDrive, Mega | `no ad`
-- [Kayo anime](https://kayoanime.com/) | GDrive | `no ad`
-- [Chauthanh](https://chauthanh.info/) | Direct | `no ad`
-- [Anime kaizoku](https://animekaizoku.com/) | Direct, Index | `ad`
-- [Anime time](https://www.animetime.pw/) | GDrive | `ad`
-- [RIP Crabby Anime](https://ripcrabbyanime.in/) | GDrive | `no ad`
-- [ACGNX CN](https://share.acgnx.se/) | Pikpak | `no ad`
-- [rbx](http://59.rbx5.ovh.abcd.network/), [2](http://52.rbx5.ovh.abcd.network/), [3](http://511.rbx.abcvg.ovh/), [4](http://508.rbx.abcvg.ovh/), [5](http://510.rbx.abcvg.ovh/), [6](http://58.rbx5.ovh.abcd.network/) | Index | 💀 | `no ad`
+- [Tokyo Insider](https://www.tokyoinsider.com/) | Direct | [!badge variant="ghost" size="xs" text="no ad"]
+- [Anime out](https://www.animeout.xyz/) | Direct | [!badge variant="ghost" size="xs" text="no ad"]
+- [Judas](https://rentry.org/judas-ddl) | GDrive | [!badge variant="ghost" size="xs" text="no ad"]
+- [AniDL](https://anidl.org/) | Index, Mega | [!badge variant="ghost" size="xs" text="ad"]
+- [hi10anime](https://hi10anime.com/) | Direct | [!badge variant="ghost" size="xs" text="ad"]
+- [Anime Senpai](https://www.animesenpai4u.com/) | GDrive, Mega | [!badge variant="ghost" size="xs" text="no ad"]
+- [Kayo anime](https://kayoanime.com/) | GDrive | [!badge variant="ghost" size="xs" text="no ad"]
+- [Chauthanh](https://chauthanh.info/) | Direct | [!badge variant="ghost" size="xs" text="no ad"]
+- [Anime kaizoku](https://animekaizoku.com/) | Direct, Index | [!badge variant="ghost" size="xs" text="ad"]
+- [Anime time](https://www.animetime.pw/) | GDrive | [!badge variant="ghost" size="xs" text="ad"]
+- [RIP Crabby Anime](https://ripcrabbyanime.in/) | GDrive | [!badge variant="ghost" size="xs" text="no ad"]
+- [ACGNX CN](https://share.acgnx.se/) | Pikpak | [!badge variant="ghost" size="xs" text="no ad"]
+- [rbx](http://59.rbx5.ovh.abcd.network/), [2](http://52.rbx5.ovh.abcd.network/), [3](http://511.rbx.abcvg.ovh/), [4](http://508.rbx.abcvg.ovh/), [5](http://510.rbx.abcvg.ovh/), [6](http://58.rbx5.ovh.abcd.network/) | Index | 💀 | [!badge variant="ghost" size="xs" text="no ad"]
 !!!contrast Network Stream Guide
 Follow [**this guide**](/ns.md) to know how to directly stream these files.
 !!!
