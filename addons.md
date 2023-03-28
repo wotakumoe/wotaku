@@ -10,9 +10,9 @@ icon: plug
 You can these add-ons to enhance your manga and anime experience.
 ___
 
-![](https://media.discordapp.net/attachments/1008654622740729897/1089181881083371560/N9P3SKZ.png)
+![](/static/disbot.png)
 
-## Discord Bot
+## Discord Bots
 ___
 - [AniSearch](https://github.com/IchBinLeoon/anisearch-discord-bot) [!badge variant="ghost" icon="globe" text="Web"](https://ichbinleoon.github.io/anisearch-discord-bot/#/)
 - Anigame [!badge variant="ghost" icon="globe" text="Top.gg"](https://top.gg/bot/571027211407196161)
@@ -20,22 +20,22 @@ ___
 - [MonitoRSS](https://github.com/synzen/MonitoRSS) [!badge variant="ghost" icon="globe" text="Web"](https://monitorss.xyz/)
 
 
-![](https://media.discordapp.net/attachments/1008654622740729897/1089181882186481694/IfbFmQA.png)
+![](/static/ext.png)
 
-## Extension
+## Extensions
 ___
-- [Anime Watch Parties](https://github.com/Dragicafit/Anime-Watch-Parties/) [!badge variant="ghost" icon="globe" text="Web"](https://animewatchparties.com/) [!badge variant="ghost" icon="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" text="Chrome"](https://chrome.google.com/webstore/detail/anime-watch-parties/goinehmnmhnoaepodbngfgdgjeibgelh/) [!badge variant="ghost" icon="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1200px-Firefox_logo%2C_2019.svg.png" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/)
-- [Animepahe Plus](https://github.com/Cyan903/Animepahe-plus) [!badge variant="ghost" icon="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1200px-Firefox_logo%2C_2019.svg.png" text="Firefox"](https://addons.mozilla.org/en-CA/firefox/addon/animepahe-plus/)
-- [Anime Skip Player](https://github.com/anime-skip/player) [!badge variant="ghost" icon="globe" text="Web"](https://anime-skip.com/) [!badge variant="ghost" icon="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" text="Chrome"](https://chrome.google.com/webstore/detail/anime-skip/mgmdkjcljneegjfajchedjpdhbadklcf) [!badge variant="ghost" icon="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1200px-Firefox_logo%2C_2019.svg.png" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-skip)
-- [Aniskip](https://github.com/lexesjan/typescript-aniskip-extension) [!badge variant="ghost" icon="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" text="Chrome"](https://chrome.google.com/webstore/detail/aniskip/npfcdmjgaocepmpdnmliimijgfjbgcdd) [!badge variant="ghost" icon="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1200px-Firefox_logo%2C_2019.svg.png" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/aniskip/)
+- [Anime Watch Parties](https://github.com/Dragicafit/Anime-Watch-Parties/) [!badge variant="ghost" icon="globe" text="Web"](https://animewatchparties.com/) [!badge variant="ghost" icon="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" text="Chrome"](https://chrome.google.com/webstore/detail/anime-watch-parties/goinehmnmhnoaepodbngfgdgjeibgelh/) [!badge variant="ghost" icon="/static/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/)
+- [Animepahe Plus](https://github.com/Cyan903/Animepahe-plus) [!badge variant="ghost" icon="/static/ff.webp" text="Firefox"](https://addons.mozilla.org/en-CA/firefox/addon/animepahe-plus/)
+- [Anime Skip Player](https://github.com/anime-skip/player) [!badge variant="ghost" icon="globe" text="Web"](https://anime-skip.com/) [!badge variant="ghost" icon="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" text="Chrome"](https://chrome.google.com/webstore/detail/anime-skip/mgmdkjcljneegjfajchedjpdhbadklcf) [!badge variant="ghost" icon="/static/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-skip)
+- [Aniskip](https://github.com/lexesjan/typescript-aniskip-extension) [!badge variant="ghost" icon="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" text="Chrome"](https://chrome.google.com/webstore/detail/aniskip/npfcdmjgaocepmpdnmliimijgfjbgcdd) [!badge variant="ghost" icon="/static/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/aniskip/)
 - Improve Crunchyroll [!badge variant="ghost" icon="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" text="Chrome"](https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh)
-- [MAL Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned) [!badge variant="ghost" icon="globe" text="Web"](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) [!badge variant="ghost" icon="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" text="Chrome"](https://chrome.google.com/webstore/detail/myanimelist-redesign/knegaeodgehajemjpfbhlgjdcloklkal) [!badge variant="ghost" icon="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1200px-Firefox_logo%2C_2019.svg.png" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/myanimelist-redesign/)
+- [MAL Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned) [!badge variant="ghost" icon="globe" text="Web"](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) [!badge variant="ghost" icon="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" text="Chrome"](https://chrome.google.com/webstore/detail/myanimelist-redesign/knegaeodgehajemjpfbhlgjdcloklkal) [!badge variant="ghost" icon="/static/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/myanimelist-redesign/)
 - [Pixiv Batch Downloader](https://github.com/xuejianxianzun/PixivBatchDownloader) [!badge variant="ghost" icon="globe" text="Web"](https://pixiv.download/) [!badge variant="ghost" icon="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" text="Chrome"](https://chrome.google.com/webstore/detail/powerful-pixiv-downloader/dkndmhgdcmjdmkdonmbgjpijejdcilfh)
-- Substital [!badge variant="ghost" icon="globe" text="Web"](https://substital.com/) [!badge variant="ghost" icon="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" text="Chrome"](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg) [!badge variant="ghost" icon="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1200px-Firefox_logo%2C_2019.svg.png" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/substital/)
+- Substital [!badge variant="ghost" icon="globe" text="Web"](https://substital.com/) [!badge variant="ghost" icon="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" text="Chrome"](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg) [!badge variant="ghost" icon="/static/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/substital/)
 
-![](https://media.discordapp.net/attachments/1008654622740729897/1089181881381175326/ZTmEu76.png)
+![](/static/script.png)
 
-## Script
+## Scripts
 ___
 
 - 9anime Bingewatcher+ [!badge variant="ghost" icon="https://greasyfork.org/vite/assets/blacklogo96.e0c2c761.png" text="Fork"](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher)
@@ -58,9 +58,9 @@ ___
 Active maintenance is necessary for scripts to work properly. If a script fails, try reinstalling it; otherwise, wait for a fix to be released. Install [**Violentmonkey**](https://violentmonkey.github.io/) or [**Tampermonkey**](https://www.tampermonkey.net/) to use scripts.
 !!!
 
-![](https://media.discordapp.net/attachments/1008654622740729897/1089181881666384013/BUiTo5O.png)
+![](/static/tools.png)
 
-## Tool
+## Tools
 ___
 
 - [Anime4K](https://github.com/bloc97/Anime4K)
@@ -68,9 +68,9 @@ ___
 - [Shoko Anime](https://github.com/shokoanime) [!badge variant="ghost" icon="glove" text="Web"](https://shokoanime.com/)
 - [Waifu2x](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
 
-![](https://media.discordapp.net/attachments/1008654622740729897/1089181881930620979/Yo3T2A8.png)
+![](/static/trackers.png)
 
-## Tracker
+## Trackers
 ___
 ==- Android and iOS
 - [Apps for Anilist](https://anilist.co/apps)
@@ -90,5 +90,5 @@ ___
 ==- Browser
 - [All Manga Reader](https://www.allmangasreader.com/)
 - [Kenmei](https://www.kenmei.co/)
-- [MALSync](https://github.com/MALSync/MALSync) [!badge variant="ghost" icon="globe" text="Web"](https://malsync.moe/) [!badge variant="ghost" icon="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" text="Chrome"](https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel) [!badge variant="ghost" icon="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1200px-Firefox_logo%2C_2019.svg.png" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/mal-sync/) [!badge variant="ghost" icon="file-code" text="Script"](https://github.com/MALSync/MALSync/releases/latest/download/malsync.user.js)
+- [MALSync](https://github.com/MALSync/MALSync) [!badge variant="ghost" icon="globe" text="Web"](https://malsync.moe/) [!badge variant="ghost" icon="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" text="Chrome"](https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel) [!badge variant="ghost" icon="/static/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/mal-sync/) [!badge variant="ghost" icon="file-code" text="Script"](https://github.com/MALSync/MALSync/releases/latest/download/malsync.user.js)
 ===
