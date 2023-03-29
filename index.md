@@ -3,7 +3,7 @@ label: Welcome
 icon: hubot
 ---
 
-![](/static/covers/cover.png)
+![](/static/thumbs/cover.png)
 
 # ようこそ !
 
