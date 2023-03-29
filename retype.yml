@@ -3,8 +3,8 @@ output: .retype
 url: https://weeb.pages.dev/
 
 branding:
-  logo: /static/inaspin.gif
-  logoDark: /static/inaspin.gif
+  logo: /static/asset/inaspin.gif
+  logoDark: /static/asset/inaspin.gif
   title: WEEB
 
 meta:
@@ -14,7 +14,7 @@ links:
 
   - text: Discord
     link: https://discord.com/users/777478477569196044
-    icon: /static/discord.svg
+    icon: /static/icon/discord.svg
     target: blank
 
 footer:

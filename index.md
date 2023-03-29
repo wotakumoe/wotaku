@@ -18,5 +18,5 @@ Welcome to the WEEB wiki! I've gathered a variety of resources related to manga,
 </style>
 
 :::sample
-[!badge variant="ghost" icon="/static/ina.gif" size="xl" text="WAH!"](https://mangadex.org/user/e92678ff-3d20-452f-8548-aa74c178e492?tab=lists)
+[!badge variant="ghost" icon="/static/asset/ina.gif" size="xl" text="WAH!"](https://mangadex.org/user/e92678ff-3d20-452f-8548-aa74c178e492?tab=lists)
 :::
