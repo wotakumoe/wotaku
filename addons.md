@@ -72,23 +72,28 @@ ___
 
 ## Trackers
 ___
-==- Android and iOS
+
+### Android and iOS
 - [Apps for Anilist](https://anilist.co/apps)
 - [MAL App](https://play.google.com/store/apps/details?id=net.myanimelist.app&hl=en&gl=US)
 - [MoeList](https://github.com/axiel7/MoeList) [!badge variant="ghost" icon="globe" text="Web"](https://moelist.net/)
 - [Kitsu](https://github.com/hummingbird-me/kitsu-mobile) [!badge variant="ghost" icon="/static/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.everfox.animetrackerandroid&hl=en&gl=US) [!badge variant="ghost" icon="/static/apple.png" text="iOS"](https://apps.apple.com/us/app/kitsu-anime/id590452826)
 - [Kitsune](https://github.com/Drumber/Kitsune)
-==- Windows
+
+### Windows
 - [Taiga](https://github.com/erengy/taiga) [!badge variant="ghost" icon="globe" text="Web"](https://taiga.moe/) [!badge variant="ghost" size="xs" text="Downloader"]
 - [Trackma](https://github.com/z411/trackma) [!badge variant="ghost" icon="globe" text="Web"](https://z411.github.io/trackma/)
 - [MALClient](https://github.com/Drutol/MALClient) [!badge variant="ghost" icon="globe" text="Store"](https://apps.microsoft.com/store/detail/malclient/9NBLGGH5F3BL)
-==- MacOS
+
+### MacOS
 - [Hachidori](https://github.com/Atelier-Shiori/hachidori) [!badge variant="ghost" icon="globe" text="Web"](https://malupdaterosx.moe/hachidori/)
-==- Linux
+
+### Linux
 - [Trackma](https://github.com/z411/trackma) [!badge variant="ghost" icon="globe" text="Web"](https://z411.github.io/trackma/)
 - [Tundra](https://github.com/m4tx/tundra) [!badge variant="ghost" icon="globe" text="Web"](https://tundra.moe/)
-==- Browser
+
+### Browser
 - [All Manga Reader](https://www.allmangasreader.com/)
 - [Kenmei](https://www.kenmei.co/)
 - [MALSync](https://github.com/MALSync/MALSync) [!badge variant="ghost" icon="globe" text="Web"](https://malsync.moe/) [!badge variant="ghost" icon="/static/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel) [!badge variant="ghost" icon="/static/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/mal-sync/) [!badge variant="ghost" icon="file-code" text="Script"](https://github.com/MALSync/MALSync/releases/latest/download/malsync.user.js)
-===
+
