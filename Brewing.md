@@ -62,7 +62,7 @@ ___
 - [SaikouS](https://github.com/5H4D0WILA/SaikouS)
 ==- Miscellaneous
 - [AniHyou](https://github.com/axiel7/AniHyou)
-- [Kurozora](https://kurozora.app/welcome) [!badge variant="ghost" icon="/static/apple.png" text="Apple"](https://github.com/Kurozora/kurozora-app) [!badge variant="ghost" icon="/static/andy.png" text="Android"](https://github.com/Kurozora/kurozora-android) [!badge variant="ghost" icon="/static/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/) [!badge variant="ghost" icon="/static/discord.svg" text="Discord"](https://github.com/Kurozora/kurozora-discord-bot) 
+- [Kurozora](https://kurozora.app/welcome) [!badge variant="ghost" icon="/static/apple.png" text="Apple"](https://github.com/Kurozora/kurozora-app) [!badge variant="ghost" icon="/static/andy.png" text="Android"](https://github.com/Kurozora/kurozora-android) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/) [!badge variant="ghost" icon="/static/discord.svg" text="Discord"](https://github.com/Kurozora/kurozora-discord-bot) 
 ===
 
 
