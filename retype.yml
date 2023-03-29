@@ -7,6 +7,8 @@ branding:
   logoDark: /static/asset/inaspin.gif
   title: WEEB
 
+favicon: /static/asset/favicon.ico
+
 meta:
   title: " - WEEB wiki"
 
