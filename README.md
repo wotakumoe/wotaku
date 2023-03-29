@@ -1,1 +1,1 @@
-[![cover](https://raw.githubusercontent.com/anotherduckling/weebwiki/main/static/cover.png)](https://weeb.pages.dev/)
+[![cover](https://raw.githubusercontent.com/anotherduckling/weebwiki/main/static/thumb/cover.png)](https://weeb.pages.dev/)
