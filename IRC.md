@@ -2,7 +2,7 @@
 label: IRC
 visibility: hidden
 ---
-![](/static/irc.png)
+![](/static/thumb/irc.png)
 # IRC & XDCC
 
 >IRC stands for Internet Relay Chat. It's a real-time chat protocol that allows people to communicate with each other in online chat rooms. IRC has been around since the late 1980s and is still used today, although it has largely been replaced by newer chat technologies like Discord.

@@ -3,12 +3,12 @@ label: Software
 order: 999
 icon: package
 ---
-![](/static/soft.png)
+![](/static/thumb/soft.png)
 # Software
 This list includes software for various platforms related to manga, anime, and light novels.
 ___
 
-![](/static/and.png)
+![](/static/banner/and.png)
 ## Android
 ___
 ### Manga
@@ -29,7 +29,7 @@ ___
 - [LN Reader](https://github.com/LNReader/lnreader)
 - [ranobe](https://github.com/ranobe-org/ranobe)
 
-![](/static/pc.png)
+![](/static/banner/pc.png)
 ## PC
 ___
 ### Manga
@@ -63,7 +63,7 @@ ___
 - [Novel Reader](https://github.com/Kevin-Umali/NovelReader)
 - [Koodo Reader](https://github.com/troyeguo/koodo-reader) [!badge variant="ghost" icon="globe" text="Web"](https://koodo.960960.xyz/en)
 
-![](/static/ios.png)
+![](/static/banner/ios.png)
 ## iOS
 ___
 ### Manga
@@ -77,7 +77,7 @@ ___
 - [Anime Now](https://github.com/AnimeNow-Team/AnimeNow)
 
 
-![](/static/linux.png)
+![](/static/banner/linux.png)
 ## Linux
 ___
 ### Manga
@@ -92,7 +92,7 @@ ___
 - [Foliate](https://github.com/johnfactotum/foliate) [!badge variant="ghost" icon="globe" text="Web"](https://johnfactotum.github.io/foliate/)
 
 
-![](/static/dler.png)
+![](/static/banner/dler.png)
 
 ## Downloader
 ___

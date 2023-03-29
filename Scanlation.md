@@ -3,12 +3,12 @@ label: Scanlation
 order: 996
 icon: typography
 ---
-![](/static/scan.png)
+![](/static/thumb/scan.png)
 # Scanlation
 This page includes resources for scanlation, including raw files, guides, and tools.
 ___
 
-![](/static/raw.png)
+![](/static/banner/raw.png)
 ## Raw
 ___
 ### Reader
@@ -39,7 +39,7 @@ ___
 Use these sites [1](https://okdebrid.com/), [2](https://www.newscon.net/d/), [3](https://rapidgrab.pl/), [4](https://leechersparadise.xyz/) to download from the file hoster.
 !!!
 
-![](/static/res.png)
+![](/static/banner/res.png)
 ## Resources
 ___
 - [**Scanner Usage School Server**](https://discord.com/invite/NCzxVB9)
@@ -59,7 +59,7 @@ ___
 !!!info You can find a lot of free assests in the Scanner Usage School Server.
 !!!
 
-![](/static/tools.png)
+![](/static/banner/tools.png)
 ## Tools
 ___
 ### Software

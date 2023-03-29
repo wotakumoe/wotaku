@@ -1,7 +1,7 @@
 ---
 visibility: hidden
 ---
-![](/static/nsw.png)
+![](/static/thumb/nsw.png)
 # Network Stream
 !!! light Why use the method
 - best streaming quality without torrent

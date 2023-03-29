@@ -4,13 +4,13 @@ order: 998
 icon: plug
 ---
 
-![](/static/addons.png)
+![](/static/thumb/addons.png)
 
 # Add-ons
 You can these add-ons to enhance your manga and anime experience.
 ___
 
-![](/static/disbot.png)
+![](/static/banner/disbot.png)
 
 ## Discord Bots
 ___
@@ -20,7 +20,7 @@ ___
 - [MonitoRSS](https://github.com/synzen/MonitoRSS) [!badge variant="ghost" icon="globe" text="Web"](https://monitorss.xyz/)
 
 
-![](/static/ext.png)
+![](/static/banner/ext.png)
 
 ## Extensions
 ___
@@ -33,7 +33,7 @@ ___
 - [Pixiv Batch Downloader](https://github.com/xuejianxianzun/PixivBatchDownloader) [!badge variant="ghost" icon="globe" text="Web"](https://pixiv.download/) [!badge variant="ghost" icon="/static/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/powerful-pixiv-downloader/dkndmhgdcmjdmkdonmbgjpijejdcilfh)
 - Substital [!badge variant="ghost" icon="globe" text="Web"](https://substital.com/) [!badge variant="ghost" icon="/static/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg) [!badge variant="ghost" icon="/static/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/substital/)
 
-![](/static/script.png)
+![](/static/banner/script.png)
 
 ## Scripts
 ___
@@ -58,7 +58,7 @@ ___
 Active maintenance is necessary for scripts to work properly. If a script fails, try reinstalling it; otherwise, wait for a fix to be released. Install [**Violentmonkey**](https://violentmonkey.github.io/) or [**Tampermonkey**](https://www.tampermonkey.net/) to use scripts.
 !!!
 
-![](/static/tools.png)
+![](/static/banner/tools.png)
 
 ## Tools
 ___
@@ -68,7 +68,7 @@ ___
 - [Shoko Anime](https://github.com/shokoanime) [!badge variant="ghost" icon="globe" text="Web"](https://shokoanime.com/)
 - [Waifu2x](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
 
-![](/static/trackers.png)
+![](/static/banner/trackers.png)
 
 ## Trackers
 ___

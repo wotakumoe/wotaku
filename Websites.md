@@ -4,7 +4,7 @@ order: 1000
 icon: globe
 ---
 
-![](/static/web.png)
+![](/static/thumb/web.png)
 
 # Websites
 
@@ -12,7 +12,7 @@ This page contains websites related to various types of media, including manga, 
 
 ___
 
-![](/static/manga.png)
+![](/static/banner/manga.png)
 
 ## Manga
 ___
@@ -90,7 +90,7 @@ ___
 - [mp4directs](https://mp4directs.com/)
 - [jnovels](https://jnovels.com/manga-cbz-cbr-pdfs-download101/)
 
-![](/static/anime.png)
+![](/static/banner/anime.png)
 
 ## Anime
 ___
@@ -161,7 +161,7 @@ Follow [**this guide**](/IRC.md) to know how to use XDCC.
 - [Subsplease](https://subsplease.org/)
 ===
 
-![](/static/ost.png)
+![](/static/banner/ost.png)
 
 ## Original Sound Track
 ___
@@ -172,7 +172,7 @@ ___
 - [OS Anime](https://osanime.com/)
 - [Asia Media Blog](https://asiamediablog.com/media/music/)
 
-![](/static/ln.png)
+![](/static/banner/ln.png)
 
 ## Light Novels
 ___
@@ -199,7 +199,7 @@ ___
 - [Literature Index](https://literature.td-index.workers.dev/0:/Light%20Novel/)
 - [MP4 Directs](https://mp4directs.com/)
 
-![](/static/comics.png)
+![](/static/banner/comics.png)
 
 ## Comics
 ___
@@ -219,7 +219,7 @@ ___
 - [Comics All](https://comics-all.com/) | [New comic](https://newcomic.info/)
 - [Get Comics](https://getcomics.info/)
 
-![](/static/misc.png)
+![](/static/banner/misc.png)
 
 ## Miscellaneous
 ___

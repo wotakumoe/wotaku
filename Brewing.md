@@ -3,12 +3,12 @@ label: Brewing
 order: 997
 icon: Beaker
 ---
-![](/static/brew.png)
+![](/static/thumb/brew.png)
 # Brewing
 Here is a list of projects that are either in early stages of development or still in progress.
 ___
 
-![](/static/sites.png)
+![](/static/banner/sites.png)
  ## Websites
  ___
 
@@ -23,7 +23,7 @@ ___
 ### Miscellaneous
 - [Tankobon](https://tankobon.net/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/crxssed7/tankobon)
 
-![](/static/software.png)
+![](/static/banner/software.png)
 ## Software
 ___
 ### Android
