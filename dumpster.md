@@ -24,3 +24,11 @@ ___
 - [booksDL](https://booksdl.org/comics0/)
 - [Comics All](https://comics-all.com/) | [New comic](https://newcomic.info/)
 - [Get Comics](https://getcomics.info/)
+
+## R++
+
+- [EhPanda](https://github.com/EhPanda-Team/EhPanda)
+- [Happypandax](https://github.com/happypandax/happypandax)
+- [Hentai downloader](https://github.com/touno-io/hentai-downloader)
+- [JHenTai](https://github.com/jiangtian616/JHenTai)
+- [nhentai helper](https://github.com/Tsuk1ko/nhentai-helper)
