@@ -44,4 +44,3 @@ ___
 - [nhentai helper](https://github.com/Tsuk1ko/nhentai-helper) [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/375992-nhentai-helper)
 - Let's panda! [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/33979-let-s-panda)
 - MALSync Adult [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/387981-mal-sync-adult-fatexxxblood-edition)
-- 
