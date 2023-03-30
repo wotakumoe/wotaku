@@ -53,7 +53,7 @@ ___
 
 ### Anime
 ==- Direct
-[!badge variant="ghost" icon="Beaker" size="xs" text="Brewing"](/Brewing.md/#pc)
+[!badge variant="ghost" icon="Beaker" text="Brewing"](/Brewing.md/#pc)
 ==- Torrent
 - [Miru](https://github.com/ThaUnknown/miru/)
 ===
