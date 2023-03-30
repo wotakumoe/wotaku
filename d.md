@@ -24,6 +24,9 @@ ___
 - [Comics All](https://comics-all.com/) | [New comic](https://newcomic.info/)
 - [Get Comics](https://getcomics.info/)
 
+### Downloader
+- [Mylar](https://github.com/mylar3/mylar3)
+
 ___
 ## R++
 
@@ -41,3 +44,4 @@ ___
 - [nhentai helper](https://github.com/Tsuk1ko/nhentai-helper) [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/375992-nhentai-helper)
 - Let's panda! [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/33979-let-s-panda)
 - MALSync Adult [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/387981-mal-sync-adult-fatexxxblood-edition)
+- 

@@ -118,6 +118,3 @@ ___
 ### Light Novel
 - [Light novel Crawler](https://github.com/dipu-bd/lightnovel-crawler)
 - [Novel Grabber](https://github.com/Flameish/Novel-Grabber)
-
-### Comics
-- [Mylar](https://github.com/mylar3/mylar3)
