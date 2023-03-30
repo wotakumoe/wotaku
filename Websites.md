@@ -199,25 +199,6 @@ ___
 - [Literature Index](https://literature.td-index.workers.dev/0:/Light%20Novel/)
 - [MP4 Directs](https://mp4directs.com/)
 
-![](/static/banner/comics.png)
-
-## Comics
-___
-
-### Reader
-- [Comicastle](https://www.comicastle.org/)
-- [Comic Extra](https://ww1.comicextra.com/)
-- [Read Comics Free](https://readcomicsfree.com/)
-- [Read Comic Online](https://readcomiconline.li/)
-- [Read Comics Online](https://readcomicsonline.ru/)
-- [View Comics](https://viewcomics.me/)
-- [XOXO Comics](https://xoxocomics.com/)
-
-### DDL
-
-- [booksDL](https://booksdl.org/comics0/)
-- [Comics All](https://comics-all.com/) | [New comic](https://newcomic.info/)
-- [Get Comics](https://getcomics.info/)
 
 ![](/static/banner/misc.png)
 
