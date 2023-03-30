@@ -4,7 +4,7 @@ The wiki that contains (almost) everything related to manga, anime, and light no
 
 [![cover](https://raw.githubusercontent.com/anotherduckling/weebwiki/main/static/thumb/cover.png)](https://weeb.pages.dev/)
 ___
-## What is in the Wiki?
+## <img src="/static/rm/repo.png" width="20px"> What is in the Wiki?
 
 ### <img src="/static/rm/globe.png" width="20px"> Websites
 Websites for manga, anime & light novels are listed here. Also, various websites for communities, databases, guides, news portals, tools & trackers are here too.
