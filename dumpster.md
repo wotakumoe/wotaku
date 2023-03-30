@@ -4,7 +4,7 @@ visibility: hidden
 ---
 
 ![](/static/thumb/dumpster.png)
-#Dumpster
+# Dumpster
 This section of the wiki doesn't follow any rules and maynot contain any sorting. You may find good shit or really useless shit. So its kinda like gatcha.
 ___
 
