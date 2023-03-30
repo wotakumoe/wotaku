@@ -1,4 +1,4 @@
-# WEEB wiki <img src="/static/asset/inaspin.gif" width="24px">
+# <img src="/static/asset/inaspin.gif" width="30px"> WEEB wiki
 
 The wiki that contains (almost) everything related to manga, anime, and light novels.
 
