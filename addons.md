@@ -65,7 +65,6 @@ Active maintenance is necessary for scripts to work properly. If a script fails,
 ___
 
 - [Anime4K](https://github.com/bloc97/Anime4K)
-- [hent-AI](https://github.com/natethegreate/hent-AI)
 - [Shoko Anime](https://github.com/shokoanime) [!badge variant="ghost" icon="globe" text="Web"](https://shokoanime.com/)
 - [Waifu2x](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
 

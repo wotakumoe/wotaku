@@ -5,7 +5,7 @@ visibility: hidden
 
 ![](/static/thumb/dumpster.png)
 # Dumpster
-This section of the wiki doesn't follow any rules and maynot contain any sorting. You may find good shit or really useless shit. So its kinda like gatcha.
+Content that does not fit within the wiki.
 ___
 
 ## Comics
@@ -20,15 +20,24 @@ ___
 - [XOXO Comics](https://xoxocomics.com/)
 
 ### DDL
-
 - [booksDL](https://booksdl.org/comics0/)
 - [Comics All](https://comics-all.com/) | [New comic](https://newcomic.info/)
 - [Get Comics](https://getcomics.info/)
 
+___
 ## R++
 
+### Apps
 - [EhPanda](https://github.com/EhPanda-Team/EhPanda)
+- [JHenTai](https://github.com/jiangtian616/JHenTai)
+
+### Software
 - [Happypandax](https://github.com/happypandax/happypandax)
 - [Hentai downloader](https://github.com/touno-io/hentai-downloader)
+- [hent-AI](https://github.com/natethegreate/hent-AI)
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
-- [nhentai helper](https://github.com/Tsuk1ko/nhentai-helper)
+
+### Scripts
+- [nhentai helper](https://github.com/Tsuk1ko/nhentai-helper) [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/375992-nhentai-helper)
+- Let's panda! [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/33979-let-s-panda)
+- MALSync Adult [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/387981-mal-sync-adult-fatexxxblood-edition)
