@@ -6,23 +6,23 @@ The wiki that contains (almost) everything related to manga, anime, and light no
 ___
 ## What is in the Wiki?
 
-### Websites
+### <img src="/static/rm/globe.svg" width="30px"> Websites
 Websites for manga, anime & light novels are listed here. Also, various websites for communities, databases, guides, news portals, tools & trackers are here too.
 
-### Software
+### <img src="/static/rm/package.svg" width="30px"> Software
 Software to read, watch, download, and manage resources across multiple platforms, including Android, iOS, Windows, and Linux.
 
-### Add-ons
+### <img src="/static/rm/plug.svg" width="30px"> Add-ons
 Trackers, extensions, scripts, bots that can enhance the experience. 
 
-### Brewing
+### <img src="/static/rm/beaker.svg" width="30px"> Brewing
  Websites and software that are currently in the early stages of development.
 
-### Scanlation
+### <img src="/static/rm/typography.svg" width="30px"> Scanlation
 Resources that can assist with manga scanlation include raw websites, tools, and guides.
 ___
 
-## Websites I won't add
+## <img src="/static/rm/x.svg" width="30px"> Websites I won't add
 1. Generic manga websites that compress the uploads and do not have multiple scanlation uploads.
 2. Anime websites that only scrape Gogo or Zoro.
 3. Websites that are only for NSFW.
@@ -30,7 +30,7 @@ ___
 
 ___
 
-## Submitting a link
+## <img src="/static/rm/pr.svg" width="30px"> Submitting a link
 If you would like to submit or correct a link instead of creating a pull request, please post an issue. It would be easier for me to add it to the wiki, as I need to maintain the categories and markdown style.
 
 ### Follow the title format
