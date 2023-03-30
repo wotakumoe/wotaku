@@ -166,6 +166,7 @@ Follow [**this guide**](/IRC.md) to know how to use XDCC.
 ## Original Sound Track
 ___
 
+- [Anithemes](https://animethemes.moe/)
 - [Hikari No Akari](https://hikarinoakari.com/)
 - [Sukidesu OST](https://sukidesuost.info/)
 - [Sitting on Clouds](https://www.sittingonclouds.net/)
