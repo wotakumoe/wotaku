@@ -52,6 +52,7 @@ ___
 - Mangadex Follows [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/430295-new-mangadex-follows)
 - [Manga Online Viewer](https://github.com/TagoDR/MangaOnlineViewer)
 - [MAL Dubs](https://github.com/MAL-Dubs/MAL-Dubs) [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/376546-mal-myanimelist-dubs)
+- - [MAL English Titles](https://github.com/Animorphs/MAL-English-Titles) [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/420200-mal-english-titles)
 - Pixiv Downloader [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/432150-pixiv-downloader)
 - [ppixiv for Pixiv](https://github.com/ppixiv/ppixiv) [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/370418-ppixiv-for-pixiv)
 - Series Highlighter - MAL [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/424774-series-highlighter-mal)
