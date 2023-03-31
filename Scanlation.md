@@ -21,19 +21,19 @@ ___
 - [We Love Manga](https://welovemanga.one/) | [Manga 1000](https://manga1000.top/) [!badge variant="ghost" size="xs" text="R"]
 
 ### DDL
-- [13 DL](http://13dl.to/) [!badge variant="ghost" size="xs" text="R"] | [!badge variant="ghost" size="xs" text="Novel"], [!badge variant="ghost" size="xs" text="Magazine"]
-- [A-Z Manga](https://www.a-zmanga.net/) [!badge variant="ghost" size="xs" text="R+"] | [!badge variant="ghost" size="xs" text="Novel"], [!badge variant="ghost" size="xs" text="Magazine"]
-- [Asia Media Blog](https://asiamediablog.com/media/comic/manga/) | [!badge variant="ghost" size="xs" text="Novel"], [!badge variant="ghost" size="xs" text="Magazine"]
-- [Book Share Zip](https://bszip.com/) [!badge variant="ghost" size="xs" text="R"] | [!badge variant="ghost" size="xs" text="Novel"],  [!badge variant="ghost" size="xs" text="Magazine"]
+- [13 DL](http://13dl.to/) [!badge variant="ghost" size="xs" text="R"]  [!badge variant="ghost" size="xs" text="Novel"] [!badge variant="ghost" size="xs" text="Magazine"]
+- [A-Z Manga](https://www.a-zmanga.net/) [!badge variant="ghost" size="xs" text="R+"]  [!badge variant="ghost" size="xs" text="Novel"] [!badge variant="ghost" size="xs" text="Magazine"]
+- [Asia Media Blog](https://asiamediablog.com/media/comic/manga/)  [!badge variant="ghost" size="xs" text="Novel"] [!badge variant="ghost" size="xs" text="Magazine"]
+- [Book Share Zip](https://bszip.com/) [!badge variant="ghost" size="xs" text="R"]  [!badge variant="ghost" size="xs" text="Novel"]  [!badge variant="ghost" size="xs" text="Magazine"]
 - [Comic 77](https://comic77.com/ ) [!badge variant="ghost" size="xs" text="R+"]
-- [Comics 888](https://comics888.com/) [!badge variant="ghost" size="xs" text="R"] | [!badge variant="ghost" size="xs" text="Novel"], [!badge variant="ghost" size="xs" text="Magazine"]
-- [DL Raw co](https://dl-raw.co/) [!badge variant="ghost" size="xs" text="R"] | [!badge variant="ghost" size="xs" text="Novel"], [!badge variant="ghost" size="xs" text="Magazine"]
-- [DL Raw net](https://dlraw.net/category/raw-manga/) | [Manga Zip](https://manga-zip.info/category/raw-manga/) [!badge variant="ghost" size="xs" text="R+"] | [!badge variant="ghost" size="xs" text="Novel"], [!badge variant="ghost" size="xs" text="Magazine"]
-- [DL Zip](https://dl-zip.com/) [!badge variant="ghost" size="xs" text="R"] | [!badge variant="ghost" size="xs" text="Novel"], [!badge variant="ghost" size="xs" text="Magazine"]
-- [Itazura Neko](https://itazuraneko.neocities.org/library/manga/subete) | [!badge variant="ghost" size="xs" text="Novel"]
+- [Comics 888](https://comics888.com/) [!badge variant="ghost" size="xs" text="R"]  [!badge variant="ghost" size="xs" text="Novel"] [!badge variant="ghost" size="xs" text="Magazine"]
+- [DL Raw co](https://dl-raw.co/) [!badge variant="ghost" size="xs" text="R"]  [!badge variant="ghost" size="xs" text="Novel"] [!badge variant="ghost" size="xs" text="Magazine"]
+- [DL Raw net](https://dlraw.net/category/raw-manga/)  [Manga Zip](https://manga-zip.info/category/raw-manga/) [!badge variant="ghost" size="xs" text="R+"]  [!badge variant="ghost" size="xs" text="Novel"] [!badge variant="ghost" size="xs" text="Magazine"]
+- [DL Zip](https://dl-zip.com/) [!badge variant="ghost" size="xs" text="R"]  [!badge variant="ghost" size="xs" text="Novel"] [!badge variant="ghost" size="xs" text="Magazine"]
+- [Itazura Neko](https://itazuraneko.neocities.org/library/manga/subete)  [!badge variant="ghost" size="xs" text="Novel"]
 - [JP DDL](https://jpddl.com/manga) [!badge variant="ghost" size="xs" text="R"]
-- [Manga Zone](http://www.manga-zone.org/) | [!badge variant="ghost" size="xs" text="Novel"]
-- [Raw Cans](http://raw-cans.net/) [!badge variant="ghost" size="xs" text="R+"] | [!badge variant="ghost" size="xs" text="Magazine"]
+- [Manga Zone](http://www.manga-zone.org/)  [!badge variant="ghost" size="xs" text="Novel"]
+- [Raw Cans](http://raw-cans.net/) [!badge variant="ghost" size="xs" text="R+"]  [!badge variant="ghost" size="xs" text="Magazine"]
 
 !!!contrast Premium File Downloader
 Use these sites [1](https://okdebrid.com/), [2](https://www.newscon.net/d/), [3](https://rapidgrab.pl/), [4](https://leechersparadise.xyz/) to download from the file hoster.
@@ -48,7 +48,7 @@ ___
 - [Anonblack's typesetting guide](https://web.archive.org/web/20181214030153/http://prettyanonymo.us/index.php/scanlation-resources/anonblacks-typesetting-guide/)
 - [Manga Helpers](https://mangahelpers.com/)
 - [Inside Scanlation](https://www.insidescanlation.com/backgrounds/index.html)
-- Fascans Redrawing guide [Part 1](https://fascans.com/featured/basic-redrawing-tutorials-part-1-using-clone-stamp-tool-effectively/) | [Part 2](https://fascans.com/position/redrawer/basic-redrawing-tutorials-part-2-dealing-with-linesspeed-lines/)
+- Fascans Redrawing guide [Part 1](https://fascans.com/featured/basic-redrawing-tutorials-part-1-using-clone-stamp-tool-effectively/)  [Part 2](https://fascans.com/position/redrawer/basic-redrawing-tutorials-part-2-dealing-with-linesspeed-lines/)
 - Pretty Annon
 	- [Scanlation resources](https://web.archive.org/web/20181214030155/http://prettyanonymo.us/index.php/scanlation-resources/)
 	- [Typesettings Guide](https://web.archive.org/web/20180602045840/http://prettyanonymo.us/index.php/scanlation-resources/anonblacks-typesetting-guide)
@@ -63,11 +63,11 @@ ___
 ## Tools
 ___
 ### Software
-- [Adobe software](https://rentry.org/adobesoftware) | [Guide by Anna](https://docs.google.com/document/d/17PheyyF9dm7YYjaTZ9JAAY3hhdeIQ7sJ4sylTG9_6xI/edit)
+- [Adobe software](https://rentry.org/adobesoftware)  [Guide by Anna](https://docs.google.com/document/d/17PheyyF9dm7YYjaTZ9JAAY3hhdeIQ7sJ4sylTG9_6xI/edit)
 - [GIMP](https://www.gimp.org/)
 
 ### Miscellaneous 
-- [Alex's Raw Downloader](https://raws.alexeliot.xyz/) | Free chapters only
+- [Alex's Raw Downloader](https://raws.alexeliot.xyz/)  Free chapters only
 - [Manga downloader](https://github.com/xuzhengyi1995/Manga_downloader)
 - [Panel Cleaner](https://github.com/VoxelCubes/PanelCleaner)
 - [ScanFolders](https://github.com/Fris44/ScanFolders)
