@@ -1,4 +1,4 @@
-# <img src="/static/asset/inaspin.gif" width="30px"> WEEB wiki
+# <img src="/static/asset/inaspin.gif" width="24px"> WEEB wiki
 
 The wiki that contains (almost) everything related to manga, anime, and light novels.
 
@@ -22,7 +22,7 @@ Trackers, extensions, scripts, bots that can enhance the experience.
 Resources that can assist with manga scanlation include raw websites, tools, and guides.
 ___
 
-# <img src="/static/rm/x.svg" width="20px"> Websites I won't add
+# <img src="/static/rm/x.svg" width="24px"> Websites I won't add
 1. Generic manga websites that compress the uploads and do not have multiple scanlation uploads.
 2. Anime websites that only scrape Gogo or Zoro.
 3. Websites & Softwares that are only for NSFW.
@@ -30,7 +30,7 @@ ___
 
 ___
 
-# <img src="/static/rm/pr.svg" width="20px"> Submitting a link
+# <img src="/static/rm/pr.svg" width="24px"> Submitting a link
 If you would like to submit or correct a link instead of creating a pull request, please post an issue. It would be easier for me to add it to the wiki, as I need to maintain the categories and markdown style.
 
 ### Follow the title format
