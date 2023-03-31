@@ -25,8 +25,8 @@ ___
 ## <img src="/static/rm/x.svg" width="20px"> Websites I won't add
 1. Generic manga websites that compress the uploads and do not have multiple scanlation uploads.
 2. Anime websites that only scrape Gogo or Zoro.
-3. Websites that are only for NSFW.
-4. Apps with outdated UI or only scrapes gogo or other generic websites.
+3. Websites & Softwares that are only for NSFW.
+4. Apps with outdated UI or only scrapes generic websites.
 
 ___
 

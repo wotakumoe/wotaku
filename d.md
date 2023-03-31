@@ -39,8 +39,15 @@ ___
 - [Hentai downloader](https://github.com/touno-io/hentai-downloader)
 - [hent-AI](https://github.com/natethegreate/hent-AI)
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
+- [Tsuki](https://github.com/Gusb3ll/Tsuki)
 
 ### Scripts
 - [nhentai helper](https://github.com/Tsuk1ko/nhentai-helper) [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/375992-nhentai-helper)
 - Let's panda! [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/33979-let-s-panda)
 - MALSync Adult [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/387981-mal-sync-adult-fatexxxblood-edition)
+
+___
+
+## Websites
+- [WaifuXL](https://waifuxl.com/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/TheFutureGadgetsLab/WaifuXL)
+
