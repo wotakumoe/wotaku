@@ -63,11 +63,11 @@ ___
 ## Tools
 ___
 ### Software
-- [Adobe software](https://rentry.org/adobesoftware)  [Guide by Anna](https://docs.google.com/document/d/17PheyyF9dm7YYjaTZ9JAAY3hhdeIQ7sJ4sylTG9_6xI/edit)
+- [Adobe software](https://rentry.org/adobesoftware) | [Guide by Anna](https://docs.google.com/document/d/17PheyyF9dm7YYjaTZ9JAAY3hhdeIQ7sJ4sylTG9_6xI/edit)
 - [GIMP](https://www.gimp.org/)
 
 ### Miscellaneous 
-- [Alex's Raw Downloader](https://raws.alexeliot.xyz/)  Free chapters only
+- [Alex's Raw Downloader](https://raws.alexeliot.xyz/)  [!badge variant="ghost" size="xs" text="Free chapters only"]
 - [Manga downloader](https://github.com/xuzhengyi1995/Manga_downloader)
 - [Panel Cleaner](https://github.com/VoxelCubes/PanelCleaner)
 - [ScanFolders](https://github.com/Fris44/ScanFolders)
