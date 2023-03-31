@@ -146,20 +146,17 @@ Follow [**this guide**](/IRC.md) to know how to use XDCC.
 
 ### Torrents
 
-==- Tracker
 - [ACG.RIP](https://acg.rip/)
 - [Anidex](https://anidex.info/)
 - [Animek](https://animek.fun/)
 - [Anime Tosho](https://animetosho.org/)
 - [Anirena](https://www.anirena.com/)
+- [Erai-raws](https://www.erai-raws.info/)
 - [Nyaa](https://nyaa.si/)
+- [Subsplease](https://subsplease.org/)
 - [Shana Project](https://www.shanaproject.com/)
 - [Tokyo tosho](https://www.tokyotosho.info/)
-==- Encoder
-- [DKB Sub](https://www.dkb.si/)
-- [Erai-raws](https://www.erai-raws.info/)
-- [Subsplease](https://subsplease.org/)
-===
+
 
 ![](/static/banner/ost.png)
 
@@ -213,18 +210,24 @@ ___
 - [Manga Piracy](https://discord.com/invite/ZgMtAyxFSU)
 - r/ [!badge variant="ghost" text="Anime"](https://www.reddit.com/r/anime) [!badge variant="ghost" text="Manga"](https://www.reddit.com/r/manga) [!badge variant="ghost" text="Manhwa"](https://www.reddit.com/r/manhwa) [!badge variant="ghost" text="Manhua"](https://www.reddit.com/r/manhua) [!badge variant="ghost" text="Anime Piracy"](https://www.reddit.com/r/animepiracy) [!badge variant="ghost" text="Manga Piracy"](https://www.reddit.com/r/mangapiracy/) [!badge variant="ghost" text="Others"](https://www.reddit.com/r/anime/wiki/related_subreddits/)
 
-### Databases & Guides
+
+### Guides
+- [**Japanese with anime**](https://www.japanesewithanime.com/) [!badge variant="ghost" text="Manga"](https://www.japanesewithanime.com/2016/10/manga.html) [!badge variant="ghost" text="Anime"](https://www.japanesewithanime.com/2016/08/anime.html) [!badge variant="ghost" text="Light Novel"](https://www.japanesewithanime.com/2016/10/light-novel.html) [!badge variant="ghost" text="Terms"](https://www.japanesewithanime.com/2017/01/anime-words-japanese-meanings.html)
+- [Anime Qualities](https://thewiki.moe/guides/quality/)
+- Legal Platform List [!badge variant="ghost" text="Manga"](https://otakulogy.github.io/manga-platform/) [!badge variant="ghost" text="Anime"](https://otakulogy.github.io/anime-streaming/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/otakulogy/)
+- [Where Can I Read Manga?](https://wherecanireadmanga.com/)
+- Fansuber's guide [!badge variant="ghost" text="Encode"](https://guide.encode.moe/) [!badge variant="ghost" text="Goodjob"](https://www.goodjobmedia.com/fansubbing/) [!badge variant="ghost" text="Unanimated"](https://unanimated.github.io/guides.htm) [!badge variant="ghost" text="Yuki"](https://yukisubs.wordpress.com/guides/)
+
+
+### Info
 - [AniChart](https://anichart.net/)
 - [aniDB](https://anidb.net/)
 - [AniSearch](https://www.anisearch.com/)
 - [Anime Filler Guide](https://www.animefillerguide.com/)
 - [Anime Filler List](https://www.animefillerlist.com/)
 - [Anime Stats](https://anime-stats.net/)
-- [Anime-Planet](https://www.anime-planet.com/)
-- Fansuber's guide [!badge variant="ghost" text="Encode"](https://guide.encode.moe/) [!badge variant="ghost" text="Goodjob"](https://www.goodjobmedia.com/fansubbing/) [!badge variant="ghost" text="Unanimated"](https://unanimated.github.io/guides.htm) [!badge variant="ghost" text="Yuki"](https://yukisubs.wordpress.com/guides/)
 - [Fansuber's Index](https://index.fansubcar.tel/)
 - [Kitsu Season Trends](https://season.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/wopian/kitsu-season-trends)
-- Legal Platform List [!badge variant="ghost" text="Manga"](https://otakulogy.github.io/manga-platform/) [!badge variant="ghost" text="Anime"](https://otakulogy.github.io/anime-streaming/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/otakulogy/)
 - [Livechart](https://www.livechart.me/)
 - [Manga Groups Portal](https://discord.gg/9KGMzP2)
 - [r/Anime Watch Order](https://www.reddit.com/r/anime/wiki/watch_order/)
@@ -243,6 +246,7 @@ ___
 
 ### Trackers
 - [Anilist](https://anilist.co/)
+- [Anime-Planet](https://www.anime-planet.com/)
 - [MyAnimeList](https://myanimelist.net/)
 - [Kitsu](https://kitsu.io/)
 - [Mangaupdates](https://www.mangaupdates.com/)
