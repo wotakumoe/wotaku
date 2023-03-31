@@ -52,6 +52,7 @@ ___
 - Pretty Annon
 	- [Scanlation resources](https://web.archive.org/web/20181214030155/http://prettyanonymo.us/index.php/scanlation-resources/)
 	- [Typesettings Guide](https://web.archive.org/web/20180602045840/http://prettyanonymo.us/index.php/scanlation-resources/anonblacks-typesetting-guide)
+- [Jaded Network's SFX library](http://thejadednetwork.com/sfx/)
 - [Rain's Redraw Tutorials](https://web.archive.org/web/20140814131939/http://www.redhawkscans.com/showthread.php?7057-Rain-s-Redraw-Tutorials&p=112119&viewfull=1#post112119)
 - [Scanlation Snacks](https://scanlationsnacks.wordpress.com/)
 - [Typesetting tutorial by Fallen Syndicate](https://coloredmanga.com/rhss-comprehensive-typesetting-guide-re-hosted-version-from-fallen-syndicates-rehost/)
