@@ -50,6 +50,7 @@ ___
 
 # <img src="/static/rm/heart.svg" width="24px"> Credits
 
-- [Ninomae Ina'nis's Padoru by how-dee](https://www.reddit.com/r/Padoru/comments/iu6jvx/ninomae_inanis_hololive/)
-- [Ninomae Ina'nis's Pixel art by Holocure team](https://twitter.com/HoloCureGame)
-- [Ninomae Ina'nis's WAH! art by Chroneco](https://www.chroneco.moe/)
+- <img src="/static/rm/Padoru.png" width="10px"> [Ninomae Ina'nis's Padoru by how-dee](https://www.reddit.com/r/Padoru/comments/iu6jvx/ninomae_inanis_hololive/)
+- <img src="/static/rm/inaspin.gif" width="10px"> [Ninomae Ina'nis's Pixel art by Holocure team](https://twitter.com/HoloCureGame)
+- <img src="/static/rm/ina.gif" width="10px"> [Ninomae Ina'nis's WAH! art by Chroneco](https://www.chroneco.moe/)
+- Other icons are from [Octicons](https://primer.github.io/octicons/), [Flaticon](https://www.flaticon.com/), [SVGRepo](https://www.svgrepo.com/), [Mangadex](https://mangadex.org/)
