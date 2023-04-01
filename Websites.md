@@ -213,11 +213,12 @@ ___
 
 ### Guides
 - [**Japanese with anime**](https://www.japanesewithanime.com/) [!badge variant="ghost" text="Manga"](https://www.japanesewithanime.com/2016/10/manga.html) [!badge variant="ghost" text="Anime"](https://www.japanesewithanime.com/2016/08/anime.html) [!badge variant="ghost" text="Light Novel"](https://www.japanesewithanime.com/2016/10/light-novel.html) [!badge variant="ghost" text="Terms"](https://www.japanesewithanime.com/2017/01/anime-words-japanese-meanings.html)
-- [Anime Qualities](https://thewiki.moe/guides/quality/)
+- [r/Lightnovels' guide](https://www.reddit.com/r/LightNovels/wiki/faq/)
+- [Anime qualities](https://thewiki.moe/guides/quality/)
 - Legal Platform List [!badge variant="ghost" text="Manga"](https://otakulogy.github.io/manga-platform/) [!badge variant="ghost" text="Anime"](https://otakulogy.github.io/anime-streaming/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/otakulogy/)
 - [Where Can I Read Manga?](https://wherecanireadmanga.com/)
 - Fansuber's guide [!badge variant="ghost" text="Encode"](https://guide.encode.moe/) [!badge variant="ghost" text="Goodjob"](https://www.goodjobmedia.com/fansubbing/) [!badge variant="ghost" text="Unanimated"](https://unanimated.github.io/guides.htm) [!badge variant="ghost" text="Yuki"](https://yukisubs.wordpress.com/guides/)
-
+- [IRC & XDCC guide](/IRC.md)
 
 ### Info
 - [AniChart](https://anichart.net/)
