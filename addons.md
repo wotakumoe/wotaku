@@ -15,10 +15,11 @@ ___
 ## Discord Bots
 ___
 - [AniSearch](https://github.com/IchBinLeoon/anisearch-discord-bot) [!badge variant="ghost" icon="globe" text="Web"](https://ichbinleoon.github.io/anisearch-discord-bot/#/)
-- Anigame [!badge variant="ghost" icon="globe" text="Top.gg"](https://top.gg/bot/571027211407196161)
+- [Ryuuzaki Ryuusei](https://github.com/nattadasu/ryuuRyuusei)
 - [Manhwa Updates Bot](https://github.com/MooshiMochi/ManhwaUpdatesBot)
 - Tweetshift [!badge variant="ghost" icon="globe" text="Web"](https://tweetshift.com/)
 - [MonitoRSS](https://github.com/synzen/MonitoRSS) [!badge variant="ghost" icon="globe" text="Web"](https://monitorss.xyz/)
+- Anigame [!badge variant="ghost" icon="globe" text="Top.gg"](https://top.gg/bot/571027211407196161)
 
 
 ![](/static/banner/ext.png)

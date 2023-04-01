@@ -1,4 +1,4 @@
-# <img src="/static/asset/inaspin.gif" width="24px"> WEEB wiki
+# <img src="/static/asset/inaspin.gif" width="30px"> WEEB wiki
 
 The wiki that contains (almost) everything related to manga, anime, and light novels.
 
@@ -45,3 +45,11 @@ Example: [Fix][Websites] - Kickassanime
 ___
 
 *Please keep in mind that there is a possibility that I may not add the site if I don't like it or if the site is redundant*
+
+___
+
+# <img src="/static/rm/heart.svg" width="24px"> Credits
+
+- [Ninomae Ina'nis's Padoru by how-dee](https://www.reddit.com/r/Padoru/comments/iu6jvx/ninomae_inanis_hololive/)
+- [Ninomae Ina'nis's Pixel art by Holocure team](https://twitter.com/HoloCureGame)
+- [Ninomae Ina'nis's WAH! art by Chroneco](https://www.chroneco.moe/)
