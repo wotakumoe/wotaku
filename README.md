@@ -7,7 +7,7 @@ ___
 # <img src="/static/rm/repo.svg" width="24px"> What is in the Wiki?
 
 ## <img src="/static/rm/globe.svg" width="20px"> Websites
-Websites for manga, anime & light novels are listed here. Also, various websites for communities, databases, guides, news portals, tools & trackers are here too.
+Websites for manga, anime & light novels. Also, various websites for communities, databases, guides, news portals, tools & trackers.
 
 ## <img src="/static/rm/package.svg" width="20px"> Software
 Software to read, watch, download, and manage resources across multiple platforms, including Android, iOS, Windows, and Linux.
@@ -35,11 +35,11 @@ If you would like to submit or correct a link instead of creating a pull request
 
 ### Follow the title format
 ___
-**For new links:** [New][Page title] - Webpage/Software Name
+**For new links:** `[New][Page title] - Webpage/Software Name`
 
 Example: [New][Software] - Mangaduck X
 ___
-**For correct/fixed links:** [Fix][Page title] - Webpage/Software Name
+**For correct/fixed links:** `[Fix][Page title] - Webpage/Software Name`
 
 Example: [Fix][Websites] - Kickassanime
 ___

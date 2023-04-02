@@ -51,3 +51,9 @@ ___
 ## Websites
 - [WaifuXL](https://waifuxl.com/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/TheFutureGadgetsLab/WaifuXL)
 
+
+
+## mmm
+- [Anilist PC Client](https://github.com/zigamacele/ami)
+- [Rulia Reader](https://github.com/LancerComet/RuliaReader) [!badge variant="ghost" icon="globe" text="Store"](https://apps.microsoft.com/store/detail/rulia-manga-reader/9MVVLRZWRXX8)
+- [CBXV](https://github.com/mftb0/cbxv)

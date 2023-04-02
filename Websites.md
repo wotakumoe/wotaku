@@ -231,6 +231,7 @@ ___
 - [Kitsu Season Trends](https://season.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/wopian/kitsu-season-trends)
 - [Livechart](https://www.livechart.me/)
 - [Manga Groups Portal](https://discord.gg/9KGMzP2)
+- [Notify.moe](https://notify.moe/)
 - [r/Anime Watch Order](https://www.reddit.com/r/anime/wiki/watch_order/)
 - [Seadex](https://releases.moe/)
 - [The Visual Novel Database](https://vndb.org/)
