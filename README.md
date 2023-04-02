@@ -7,25 +7,26 @@ ___
 
 # <img src="/static/rm/repo.svg" width="24px"> What is in the Wiki?
 
-
 - Websites and software for manga, anime, and light novels.
 - Extensions, scripts, trackers, and Discord bots.
 - Various utilities for stats about shows and profiles.
 - Websites for information, guides, communities, and portals.
 - Various resources for scanlation.
 - Websites and software that are in the early stage of development.
+
 ___
 
 # <img src="/static/rm/x.svg" width="24px"> Websites I won't add
-1. Generic manga websites that compress the uploads and do not have multiple scanlation uploads.
-2. Anime websites that only scrape Gogo or Zoro.
-3. Websites & Softwares that are only for NSFW.
-4. Apps with outdated UI or only scrapes generic websites.
+
+- Manga websites that compress uploads and do not offer multiple scanlation options.
+- Anime websites that only scrape content from Gogo or Zoro.
+- Websites and software that are intended for NSFW content only.
+- Apps with outdated user interfaces or that only scrape content from generic websites (Gogo, Manganato, Manga4life).
 
 ___
 
 # <img src="/static/rm/pr.svg" width="24px"> Submitting a link
-If you would like to submit or correct a link instead of creating a pull request, please post an issue. It would be easier for me to add it to the wiki, as I need to maintain the categories and markdown style.
+If you want to submit or correct a link instead of creating a pull request, please post an issue. This makes it easier for me to add it to the wiki, since I need to maintain the categories and markdown style.
 
 ### Follow the title format
 ___
@@ -44,7 +45,7 @@ ___
 
 # <img src="/static/rm/heart.svg" width="24px"> Credits
 
-- [Ninomae Ina'nis's Padoru by how-dee](https://www.reddit.com/r/Padoru/comments/iu6jvx/ninomae_inanis_hololive/)
-- [Ninomae Ina'nis's Pixel art by Holocure team](https://twitter.com/HoloCureGame)
-- [Ninomae Ina'nis's WAH! art by Chroneco](https://www.chroneco.moe/)
+- [Ninomae Ina'nis's Padoru by **how-dee**](https://www.reddit.com/r/Padoru/comments/iu6jvx/ninomae_inanis_hololive/)
+- [Ninomae Ina'nis's Pixel art by **Holocure team**](https://twitter.com/HoloCureGame)
+- [Ninomae Ina'nis's WAH! art by **Chroneco**](https://www.chroneco.moe/)
 - Other icons are from [Octicons](https://primer.github.io/octicons/), [Flaticon](https://www.flaticon.com/), [SVGRepo](https://www.svgrepo.com/), [Mangadex](https://mangadex.org/)
