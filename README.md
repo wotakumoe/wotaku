@@ -5,6 +5,8 @@ The wiki that contains (almost) everything related to manga, anime, and light no
 [![cover](https://raw.githubusercontent.com/anotherduckling/weebwiki/main/static/thumb/cover.png)](https://weeb.pages.dev/)
 ___
 
+# <img src="/static/rm/repo.svg" width="24px"> What is in the Wiki?
+
 - Websites
 - Software
 - Add-ons
