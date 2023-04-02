@@ -4,22 +4,13 @@ The wiki that contains (almost) everything related to manga, anime, and light no
 
 [![cover](https://raw.githubusercontent.com/anotherduckling/weebwiki/main/static/thumb/cover.png)](https://weeb.pages.dev/)
 ___
-# <img src="/static/rm/repo.svg" width="24px"> What is in the Wiki?
 
-## <img src="/static/rm/globe.svg" width="20px"> Websites
-Websites for manga, anime & light novels. Also, various websites for communities, databases, guides, news portals, tools & trackers.
+- Websites
+- Software
+- Add-ons
+- Brewing
+- Scanlation
 
-## <img src="/static/rm/package.svg" width="20px"> Software
-Software to read, watch, download, and manage resources across multiple platforms, including Android, iOS, Windows, and Linux.
-
-## <img src="/static/rm/plug.svg" width="20px"> Add-ons
-Trackers, extensions, scripts, bots that can enhance the experience. 
-
-## <img src="/static/rm/beaker.svg" width="20px"> Brewing
- Websites and software that are currently in the early stages of development.
-
-## <img src="/static/rm/typography.svg" width="20px"> Scanlation
-Resources that can assist with manga scanlation include raw websites, tools, and guides.
 ___
 
 # <img src="/static/rm/x.svg" width="24px"> Websites I won't add
@@ -35,11 +26,11 @@ If you would like to submit or correct a link instead of creating a pull request
 
 ### Follow the title format
 ___
-**For new links:** `[New][Page title] - Webpage/Software Name`
+For new links: `[New][Page title] - Webpage/Software Name`
 
 Example: [New][Software] - Mangaduck X
 ___
-**For correct/fixed links:** `[Fix][Page title] - Webpage/Software Name`
+For correct/fixed links: `[Fix][Page title] - Webpage/Software Name`
 
 Example: [Fix][Websites] - Kickassanime
 ___
