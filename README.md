@@ -7,12 +7,13 @@ ___
 
 # <img src="/static/rm/repo.svg" width="24px"> What is in the Wiki?
 
-- Websites
-- Software
-- Add-ons
-- Brewing
-- Scanlation
 
+- Websites and software for manga, anime, and light novels.
+- Extensions, scripts, trackers, and Discord bots.
+- Various utilities for stats about shows and profiles.
+- Websites for information, guides, communities, and portals.
+- Various resources for scanlation.
+- Websites and software that are in the early stage of development.
 ___
 
 # <img src="/static/rm/x.svg" width="24px"> Websites I won't add
