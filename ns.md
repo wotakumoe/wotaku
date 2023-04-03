@@ -29,17 +29,19 @@ You can [**click here**](/Websites.md/#ddl-1) to get good DDL sites.
 For this example, we will use https://indexbd.xyz.
 !!!
 
-- Search your content and click on the file you want to watch.
+### Step 1
+Search your content and click on the file you want to watch.
+
 ![](https://cdn.discordapp.com/attachments/1008207706143871067/1030177927180070953/unknown.png)
-___
 
-- Now click the arrow button beside and choose your player or copy paste in your player.
+### Step 2
+Now click the arrow button beside and choose your player or copy paste in your player.
 ![](https://cdn.discordapp.com/attachments/1008207706143871067/1030178167652110407/unknown.png)
-___
 
-- After loading a bit, it'll start the streaming.
+### Step 3
+After loading a bit, it'll start the streaming.
 ![](https://cdn.discordapp.com/attachments/1008207706143871067/1030177315310813204/unknown.png)
-___
+
 
 ## DDL Site
 !!! info
