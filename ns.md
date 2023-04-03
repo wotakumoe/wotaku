@@ -5,11 +5,9 @@ visibility: hidden
 # Network Stream
 !!! light Why use the method
 - best streaming quality without torrent
-- best audio quality
-- better buffering than webtorrent
-- better audio staging (But avoid VLC as it compresses the audio channels)
+- best audio & video quality
 - No seed issue
-- stream from the sources that doesn't support stream
+- Stream from the sources that doesn't support stream
 !!!
 
 !!! warning Before starting the process
@@ -45,26 +43,19 @@ ___
 
 ## DDL Site
 !!! info
-There are sites that hosts really good multi quality videos with very good compression, like vegamovies, dotmovies etc.
+For this example, we will use [Tokyo Insider](https://www.tokyoinsider.com/).
 !!!
 
 - Open the title you want to stream and scroll down to get the link. Click on the quality that you want to stream.
-![](https://cdn.discordapp.com/attachments/1008207706143871067/1030182440154710177/unknown.png)
+![](/static/ss/ns/ddl_1.png)
 ___
 
-- Go through the ad to unlock the link.
-![](https://cdn.discordapp.com/attachments/1008207706143871067/1030184235639775253/unknown.png)
+- Copy the download link of the episode.
+![](/static/ss/ns/ddl_2.png)
 ___
-
-- Click on v-cloud and generate download link. Then download the file.
-![](https://cdn.discordapp.com/attachments/1008207706143871067/1030185555708878878/unknown.png)
-___
-
-- Copy the download link from the downloading section.
-![](https://cdn.discordapp.com/attachments/1008207706143871067/1030185470417707078/unknown.png)
 
 - Now paste it in the media player and stream.
-![](https://cdn.discordapp.com/attachments/1008207706143871067/1030187298186334279/unknown.png)
+![](/static/ss/ns/ddl_3.png)
 
 ## Bypasses
 
