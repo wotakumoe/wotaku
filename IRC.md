@@ -38,7 +38,6 @@ You may face some issue if you turn on SSL while logging in.
 More clients [**here.**](https://ircv3.net/software/clients)
 !!!
 
-[!badge variant="ghost" text=""]
 
 ## XDCC Packlists
 - [**nibl**](https://nibl.co.uk/search)	[!badge variant="ghost" text="Anime"]
