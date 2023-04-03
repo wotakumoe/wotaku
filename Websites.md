@@ -98,13 +98,13 @@ ___
 ### Stream
 
 ==- Uploader
-- [9anime](https://9anime.gs/home)
 - [AllAnime](https://allanime.to/) + [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="gogo"]
-- [Animension](https://animension.to/) + [!badge variant="ghost" size="xs" text="gogo"]
-- [Animepahe](https://animepahe.com/)
 - [KickAssAnime](https://www2.kickassanime.ro/) + [!badge variant="ghost" size="xs" text="crunchy"]
 - [Marin](https://marin.moe/)
 - [Zoro](https://zoro.to/home)
+- [9anime](https://9anime.gs/home)
+- [Animepahe](https://animepahe.com/)
+- [Animension](https://animension.to/) + [!badge variant="ghost" size="xs" text="gogo"]
 ==- Scraper
 - [Anikatsu](https://anikatsu.me/home) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/shashankktiwariii/anikatsu) [!badge variant="ghost" size="xs" text="gogo"]
 - [Animedao](https://animedao.to/) [!badge variant="ghost" size="xs" text="gogo"]

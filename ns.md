@@ -17,7 +17,7 @@ You can't play videos from some sources like Google drive, Mega etc. For those, 
 !!!
 
 !!! info Website list
-You can [**click here**](https://ducklink.pages.dev/sites/#ddl) to get good DDL sites. 
+You can [**click here**](/Websites.md/#ddl-1) to get good DDL sites. 
 !!!
 
 !!! info The basic process here
