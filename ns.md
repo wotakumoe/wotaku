@@ -4,10 +4,10 @@ visibility: hidden
 ![](/static/thumb/nsw.png)
 # Network Stream
 !!! light Why use the method
-- best streaming quality without torrent
-- best audio & video quality
-- No seed issue
-- Stream from the sources that doesn't support stream
+- Better video & audio quality without using torrent.
+- Better encoded episoded than most of the anime streaming websites.
+- Better player configuration.
+- No seed issue.
 !!!
 
 !!! warning Before starting the process
