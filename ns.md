@@ -24,9 +24,7 @@ You can [**click here**](/Websites.md/#ddl-1) to get good DDL sites.
 !!!
 
 ## Procedure
-!!! info
 For this example, we will use [Tokyo Insider](https://www.tokyoinsider.com/).
-!!!
 
 ### Step 1
 Open the title you want to stream and scroll down to get the link. Click on the quality that you want to stream.
