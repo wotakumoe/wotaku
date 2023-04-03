@@ -133,11 +133,17 @@ Follow [**this guide**](/ns.md) to know how to directly stream these files.
 !!!
 
 ### XDCC
-- [nibl](https://nibl.co.uk/search) [!badge variant="ghost" text="Anime"]
-- [subsplease](https://subsplease.org/xdcc/) [!badge variant="ghost" text="Anime"]
-- [animk](https://animk.info/xdcc/) [!badge variant="ghost" text="Anime"]
-- [xdcc eu](https://www.xdcc.eu/) [!badge variant="ghost" text="General"]
-- [sunxdcc](https://sunxdcc.com/) [!badge variant="ghost" text="General"]
+- [**nibl**](https://nibl.co.uk/search)	[!badge variant="ghost" text="Anime"]
+	> Server: irc.rizon.net Port:**6697**
+	> Channel: **#nibl**
+- [**subsplease**](https://subsplease.org/xdcc/) [!badge variant="ghost" text="Anime"]
+	> Server: irc.rizon.net Port:**6697**
+	> Channel: **#subsplease**
+- [**animk**](https://animk.info/xdcc/)[!badge variant="ghost" text="Anime"]
+	> Server: irc.xertion.org Port:**6697**
+	> Channel: **#MK** or **XDCCLeech**
+- [**XDCC EU**](https://www.xdcc.eu/)	[!badge variant="ghost" text="General"]
+- [**SunXDCC**](https://sunxdcc.com/)	[!badge variant="ghost" text="General"]
 !!!contrast IRC Guide
 Follow [**this guide**](/IRC.md) to know how to use XDCC.
 !!!
@@ -217,6 +223,7 @@ ___
 - [Where Can I Read Manga?](https://wherecanireadmanga.com/)
 - Fansuber's guide [!badge variant="ghost" text="Encode"](https://guide.encode.moe/) [!badge variant="ghost" text="Goodjob"](https://www.goodjobmedia.com/fansubbing/) [!badge variant="ghost" text="Unanimated"](https://unanimated.github.io/guides.htm) [!badge variant="ghost" text="Yuki"](https://yukisubs.wordpress.com/guides/)
 - [IRC & XDCC guide](/IRC.md)
+- [Network Stream](/ns.md)
 
 ### Info
 - [AniChart](https://anichart.net/)

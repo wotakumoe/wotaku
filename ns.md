@@ -23,27 +23,7 @@ You can [**click here**](/Websites.md/#ddl-1) to get good DDL sites.
 2. Put it in the stream button
 !!!
 
-
-## Index Site
-!!!info
-For this example, we will use https://indexbd.xyz.
-!!!
-
-### Step 1
-Search your content and click on the file you want to watch.
-
-![](https://cdn.discordapp.com/attachments/1008207706143871067/1030177927180070953/unknown.png)
-
-### Step 2
-Now click the arrow button beside and choose your player or copy paste in your player.
-![](https://cdn.discordapp.com/attachments/1008207706143871067/1030178167652110407/unknown.png)
-
-### Step 3
-After loading a bit, it'll start the streaming.
-![](https://cdn.discordapp.com/attachments/1008207706143871067/1030177315310813204/unknown.png)
-
-
-## DDL Site
+## Procedure
 !!! info
 For this example, we will use [Tokyo Insider](https://www.tokyoinsider.com/).
 !!!
@@ -59,6 +39,7 @@ Copy the download link of the episode.
 ### Step 3
 Now paste it in the media player and stream.
 ![](/static/ss/ns/ddl_3.png)
+
 
 ## Bypasses
 

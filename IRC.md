@@ -25,32 +25,33 @@ You may face some issue if you turn on SSL while logging in.
 
 
 ## IRC Client
-- [Revolution IRC](https://play.google.com/store/apps/details?id=io.mrarm.irc)		`Android`
-- [AndroIRC](https://play.google.com/store/apps/details?id=com.androirc&hl=en&gl=US)		`Android`
-- [hexchat](https://hexchat.github.io/)		`Windows`
-- [mIRC](https://www.mirc.com/)		`Windows`
-- [AdiIRC](https://adiirc.com/)	`Windows`
-- [KVIrc](https://github.com/kvirc/KVIrc/releases) `Windows	| Linux	| macOS`
-- [Irssi](https://irssi.org/)		`Linux`
-- [WeeChat](https://weechat.org/)		`Linux | macOS`
-- [LimeChat](https://apps.apple.com/us/app/limechat/id414030210) `macOS`
-- [KiwiIRC](https://kiwiirc.com/)	`Web`
+- [Revolution IRC](https://play.google.com/store/apps/details?id=io.mrarm.irc)		[!badge variant="ghost" text="Android"]
+- [AndroIRC](https://play.google.com/store/apps/details?id=com.androirc&hl=en&gl=US)		[!badge variant="ghost" text="Android"]
+- [hexchat](https://hexchat.github.io/)		[!badge variant="ghost" text="Windows"]
+- [mIRC](https://www.mirc.com/)		[!badge variant="ghost" text="Windows"]
+- [AdiIRC](https://adiirc.com/)	[!badge variant="ghost" text="Windows"]
+- [KVIrc](https://github.com/kvirc/KVIrc/releases) [!badge variant="ghost" text="Windows"] [!badge variant="ghost" text="Linux"] [!badge variant="ghost" text="macOS"]
+- [Irssi](https://irssi.org/)	[!badge variant="ghost" text="Linux"]
+- [WeeChat](https://weechat.org/)	[!badge variant="ghost" text="Linux"] [!badge variant="ghost" text="macOS"]
+- [LimeChat](https://apps.apple.com/us/app/limechat/id414030210) [!badge variant="ghost" text="macOS"]
 !!!info
 More clients [**here.**](https://ircv3.net/software/clients)
 !!!
 
+[!badge variant="ghost" text=""]
+
 ## XDCC Packlists
-- [**nibl**](https://nibl.co.uk/search)	`Anime`
+- [**nibl**](https://nibl.co.uk/search)	[!badge variant="ghost" text="Anime"]
 	> Server: irc.rizon.net Port:**6697**
 	> Channel: **#nibl**
-- [**subsplease**](https://subsplease.org/xdcc/)	`Anime`
+- [**subsplease**](https://subsplease.org/xdcc/) [!badge variant="ghost" text="Anime"]
 	> Server: irc.rizon.net Port:**6697**
 	> Channel: **#subsplease**
-- [**animk**](https://animk.info/xdcc/)	`Anime`
+- [**animk**](https://animk.info/xdcc/)[!badge variant="ghost" text="Anime"]
 	> Server: irc.xertion.org Port:**6697**
 	> Channel: **#MK** or **XDCCLeech**
-- [**XDCC EU**](https://www.xdcc.eu/)	`General`
-- [**SunXDCC**](https://sunxdcc.com/)	`General`
+- [**XDCC EU**](https://www.xdcc.eu/)	[!badge variant="ghost" text="General"]
+- [**SunXDCC**](https://sunxdcc.com/)	[!badge variant="ghost" text="General"]
 
 
 !!!light Both **XDCC EU** and **SunXDCC** don't have a single bot channel. They mention the server and the channel address in the search result.
@@ -60,12 +61,12 @@ More clients [**here.**](https://ircv3.net/software/clients)
 1. Click on the ℹ️ button
 2. Join the server and the channel of the bot
 3. copy and send the bot command in the channel
-    ![XDCC EU](https://media.discordapp.net/attachments/1015131233824538624/1076836987685842954/09ZIEDV.png)
+    ![XDCC EU](/static/ss/irc/xdcceu.png)
 !!!
 !!!info SunXDCC
 1. Join the server and the channel of the bot. 
 2. Make the bot command according to the standard form. For this screenshot the bot command will be `/msg [FutureBot]-[C21] xdcc send #530`
-	![SunXDCC](https://media.discordapp.net/attachments/1015131233824538624/1076842622389342278/GZC9SSf.png)
+	![SunXDCC](/static/ss/irc/sunxdcc.png)
 !!!
 
 ## Batch DL
