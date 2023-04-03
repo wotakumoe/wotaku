@@ -106,13 +106,12 @@ ___
 - [Animepahe](https://animepahe.com/)
 - [Animension](https://animension.to/) + [!badge variant="ghost" size="xs" text="gogo"]
 ==- Scraper
-- [Anikatsu](https://anikatsu.me/home) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/shashankktiwariii/anikatsu) [!badge variant="ghost" size="xs" text="gogo"]
-- [Animedao](https://animedao.to/) [!badge variant="ghost" size="xs" text="gogo"]
+- [Kaguya](https://kaguya.app) [!badge variant="ghost" size="xs" text="9anime"] [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="bili"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="marin"] [!badge variant="ghost" size="xs" text="zoro"]
+- [Enime](https://enime.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/Enime-Project) [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="zoro"]
 - [Animesuge](https://animesuge.to/home) [!badge variant="ghost" size="xs" text="9anime"]
 - [Animos](https://www.animos.cf/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/Nectres/animos) [!badge variant="ghost" size="xs" text="pahe"]
-- [Enime](https://enime.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/Enime-Project) [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="zoro"]
-- [HaiKei](https://haikei.xyz/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/wearrrrr/HaiKei) [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="zoro"]
-- [Kaguya](https://kaguya.app) [!badge variant="ghost" size="xs" text="9anime"] [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="bili"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="marin"] [!badge variant="ghost" size="xs" text="zoro"]
+- [Anikatsu](https://anikatsu.me/home) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/shashankktiwariii/anikatsu) [!badge variant="ghost" size="xs" text="gogo"]
+- [Animedao](https://animedao.to/) [!badge variant="ghost" size="xs" text="gogo"]
 - [Yugen](https://yugenanime.ro/) [!badge variant="ghost" size="xs" text="gogo"]
 ===
 
