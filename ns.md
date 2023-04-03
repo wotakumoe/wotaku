@@ -48,15 +48,16 @@ After loading a bit, it'll start the streaming.
 For this example, we will use [Tokyo Insider](https://www.tokyoinsider.com/).
 !!!
 
-- Open the title you want to stream and scroll down to get the link. Click on the quality that you want to stream.
+### Step 1
+Open the title you want to stream and scroll down to get the link. Click on the quality that you want to stream.
 ![](/static/ss/ns/ddl_1.png)
-___
 
-- Copy the download link of the episode.
+### Step 2
+Copy the download link of the episode.
 ![](/static/ss/ns/ddl_2.png)
-___
 
-- Now paste it in the media player and stream.
+### Step 3
+Now paste it in the media player and stream.
 ![](/static/ss/ns/ddl_3.png)
 
 ## Bypasses
