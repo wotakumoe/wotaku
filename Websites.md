@@ -33,7 +33,6 @@ ___
 - [1st Kiss Manga](https://1stkissmanga.me/)
 - [Batoto](https://battwo.com/) [!badge variant="ghost" size="xs" text="R+"]
 - [Manganato](https://chapmanganato.com/nato) [!badge variant="ghost" size="xs" text="R"]
-- [Manga Hub](https://mangahub.io/) [!badge variant="ghost" size="xs" text="R"]
 - [Manga Here](https://www.mangahere.cc/) | [Manga Fox](https://fanfox.net/) [!badge variant="ghost" size="xs" text="R-"]
 
 ### Scanlator
