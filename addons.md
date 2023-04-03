@@ -104,7 +104,7 @@ ___
 - [Tundra](https://github.com/m4tx/tundra) [!badge variant="ghost" icon="globe" text="Web"](https://tundra.moe/)
 
 ### Browser
-- [All Manga Reader](https://www.allmangasreader.com/)
-- [Kenmei](https://www.kenmei.co/)
 - [MALSync](https://github.com/MALSync/MALSync) [!badge variant="ghost" icon="globe" text="Web"](https://malsync.moe/) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/mal-sync/) [!badge variant="ghost" icon="file-code" text="Script"](https://github.com/MALSync/MALSync/releases/latest/download/malsync.user.js)
+- [Kenmei](https://www.kenmei.co/)
+- [All Manga Reader](https://www.allmangasreader.com/)
 
