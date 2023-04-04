@@ -226,7 +226,7 @@ ___
 - [Anime qualities](https://thewiki.moe/guides/quality/)
 - Legal Platform List [!badge variant="ghost" text="Manga"](https://otakulogy.github.io/manga-platform/) [!badge variant="ghost" text="Anime"](https://otakulogy.github.io/anime-streaming/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/otakulogy/)
 - [Where Can I Read Manga?](https://wherecanireadmanga.com/)
-- Japanese learning guide [!badge variant="ghost" text="**JLSS**"](https://discord.gg/jlss) [!badge variant="ghost" text="IMABI"](https://imabi.net/) [!badge variant="ghost" text="jpdb"](https://www.jpdb.io/) [!badge variant="ghost" text="Neko"](https://itazuraneko.neocities.org/)
+- Japanese learning guide [!badge variant="ghost" text="**JLSS**"](https://discord.gg/jlss) [!badge variant="ghost" text="IMABI"](https://imabi.net/) [!badge variant="ghost" text="Marshall"](https://marshallyin.com/) [!badge variant="ghost" text="jpdb"](https://www.jpdb.io/) [!badge variant="ghost" text="Neko"](https://itazuraneko.neocities.org/)
 - Fansuber's guide [!badge variant="ghost" text="Encode"](https://guide.encode.moe/) [!badge variant="ghost" text="Goodjob"](https://www.goodjobmedia.com/fansubbing/) [!badge variant="ghost" text="Unanimated"](https://unanimated.github.io/guides.htm) [!badge variant="ghost" text="Yuki"](https://yukisubs.wordpress.com/guides/)
 - [IRC & XDCC guide](/IRC.md)
 - [Network Stream](/ns.md)
