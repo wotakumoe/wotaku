@@ -37,8 +37,11 @@ ___
 
 === Rating
 [!badge variant="ghost" size="xs" text="R+"] = uploads NSFW manga/hwa on a regular basis.
+
 [!badge variant="ghost" size="xs" text="R"] = uploads NSFW manga/hwa, but not always/all of them.
+
 [!badge variant="ghost" size="xs" text="R-"] = rarely uploads NSFW content.
+
 No rating = Doesn't upload NSFW or haven't rated yet.
 
 Note: None of the websites mentioned are exclusively dedicated to NSFW content.
