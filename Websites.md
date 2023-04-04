@@ -167,7 +167,12 @@ Follow [**this guide**](/IRC.md) to know how to use XDCC.
 ## Original Sound Track
 ___
 
-- [Anithemes](https://animethemes.moe/)
+### Stream
+- [Anithemes.moe](https://animethemes.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/AnimeThemes)
+- [Themes.moe](https://themes.moe/)
+- [LISTEN.moe](https://listen.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/LISTEN-moe)
+
+### DDL
 - [Hikari No Akari](https://hikarinoakari.com/)
 - [Sukidesu OST](https://sukidesuost.info/)
 - [Sitting on Clouds](https://www.sittingonclouds.net/)

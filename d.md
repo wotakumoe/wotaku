@@ -58,3 +58,5 @@ ___
 - [Rulia Reader](https://github.com/LancerComet/RuliaReader) [!badge variant="ghost" icon="globe" text="Store"](https://apps.microsoft.com/store/detail/rulia-manga-reader/9MVVLRZWRXX8)
 - [CBXV](https://github.com/mftb0/cbxv)
 - [Tachisync](https://github.com/axiel7/Tachisync)
+- [Anime Manga Auto Backup](https://github.com/Animanga-Initiative/animeManga-autoBackup)
+- [keroro](https://github.com/hotsno/keroro)

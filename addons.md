@@ -16,6 +16,7 @@ ___
 ___
 - [AniSearch](https://github.com/IchBinLeoon/anisearch-discord-bot) [!badge variant="ghost" icon="globe" text="Web"](https://ichbinleoon.github.io/anisearch-discord-bot/#/)
 - [Ryuuzaki Ryuusei](https://github.com/nattadasu/ryuuRyuusei)
+- [Yuuko](https://github.com/YuuCorp/Yuuko)
 - [Manhwa Updates Bot](https://github.com/MooshiMochi/ManhwaUpdatesBot)
 - Tweetshift [!badge variant="ghost" icon="globe" text="Web"](https://tweetshift.com/)
 - [MonitoRSS](https://github.com/synzen/MonitoRSS) [!badge variant="ghost" icon="globe" text="Web"](https://monitorss.xyz/)
@@ -24,6 +25,7 @@ ___
 !!!info Websites with RSS feeds
 - [Anime News Network](https://www.animenewsnetwork.com/newsfeed/)
 - [Anime tosho](https://animetosho.org/)
+- [Crunchyroll](https://www.crunchyroll.com/feed)
 - [Livechart](https://www.livechart.me/pages/rss)
 - [Manga Updates](https://www.mangaupdates.com/)
 - [nyaa](https://nyaa.si/)
