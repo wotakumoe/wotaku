@@ -36,15 +36,15 @@ ___
 - [Manga Here](https://www.mangahere.cc/) | [Manga Fox](https://fanfox.net/) [!badge variant="ghost" size="xs" text="R-"]
 
 === Rating
-[!badge variant="ghost" size="xs" text="R+"] = uploads NSFW manga/hwa on a regular basis.
+[!badge variant="ghost" size="xs" text="R+"]: Uploads NSFW manga/hwa on a regular basis.
 
-[!badge variant="ghost" size="xs" text="R"] = uploads NSFW manga/hwa, but not always/all of them.
+[!badge variant="ghost" size="xs" text="R"]: Uploads NSFW manga/hwa, but not always/all of them.
 
-[!badge variant="ghost" size="xs" text="R-"] = rarely uploads NSFW content.
+[!badge variant="ghost" size="xs" text="R-"]: Rarely uploads NSFW content.
 
-No rating = Doesn't upload NSFW or haven't rated yet.
+No rating: Doesn't upload NSFW or haven't rated yet.
 
-Note: None of the websites mentioned are exclusively dedicated to NSFW content.
+**Note**: None of the websites mentioned are exclusively dedicated to NSFW content.
 ===
 
 ### Scanlator
