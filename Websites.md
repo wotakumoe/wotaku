@@ -26,23 +26,23 @@ ___
 - [Manga Fire](https://mangafire.to/home) [!badge variant="ghost" size="xs" text="R-"]
 - [Manga Reader](https://mangareader.to/home) [!badge variant="ghost" size="xs" text="R-"]
 - [Cubari Proxy](https://proxy.cubari.moe/) [!badge variant="ghost" size="xs" text="R+"]
-- [Mangalife](https://manga4life.com/) | [Mangasee](https://mangasee123.com/)
+- [Mangalife](https://manga4life.com/) | [Mangasee](https://mangasee123.com/) [!badge variant="ghost" size="xs" text="NR"]
 - [Mangahasu](https://mangahasu.se/) [!badge variant="ghost" size="xs" text="R+"]
 - [Manga Buddy](https://mangabuddy.com/) [!badge variant="ghost" size="xs" text="R"]
-- [Mangacultivator](https://mangacultivator.com)
-- [1st Kiss Manga](https://1stkissmanga.me/)
+- [Mangacultivator](https://mangacultivator.com) [!badge variant="ghost" size="xs" text="NR"]
+- [1st Kiss Manga](https://1stkissmanga.me/) [!badge variant="ghost" size="xs" text="NR"]
 - [Batoto](https://battwo.com/) [!badge variant="ghost" size="xs" text="R+"]
 - [Manganato](https://chapmanganato.com/nato) [!badge variant="ghost" size="xs" text="R"]
 - [Manga Here](https://www.mangahere.cc/) | [Manga Fox](https://fanfox.net/) [!badge variant="ghost" size="xs" text="R-"]
 
 === Rating
-[!badge variant="ghost" text="R+"]: Uploads NSFW manga/hwa on a regular basis.
+[!badge variant="ghost" text="R+"] Uploads NSFW manga/hwa on a regular basis.
 
-[!badge variant="ghost" text="R"]: Uploads NSFW manga/hwa, but not always/all of them.
+[!badge variant="ghost" text="R"] Uploads NSFW manga/hwa, but not always/all of them.
 
-[!badge variant="ghost" text="R-"]: Rarely uploads NSFW content.
+[!badge variant="ghost" text="R-"] Rarely uploads NSFW content.
 
-No rating: Doesn't upload NSFW or haven't rated yet.
+[!badge variant="ghost" text="NR"] Doesn't upload NSFW or haven't rated yet.
 
 **Note**: None of the websites mentioned are exclusively dedicated to NSFW content.
 ===
