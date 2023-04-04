@@ -176,6 +176,7 @@ ___
 - [Hikari No Akari](https://hikarinoakari.com/)
 - [Sukidesu OST](https://sukidesuost.info/)
 - [Sitting on Clouds](https://www.sittingonclouds.net/)
+- [JPFiles](https://jpfiles.eu/)
 - [OS Anime](https://osanime.com/)
 - [Asia Media Blog](https://asiamediablog.com/media/music/)
 
