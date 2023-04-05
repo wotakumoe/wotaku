@@ -256,6 +256,7 @@ ___
 
 === Light Novels
 - [**r/Lightnovels' guide**](https://www.reddit.com/r/LightNovels/wiki/faq/)
+- [Japanese with anime](https://www.japanesewithanime.com/2016/10/light-novel.html)
 
 === Visual Novels
 - [Visual Novel Guide by MoeWay](https://learnjapanese.moe/vn/) [!badge variant="ghost" text="Resources"](https://learnjapanese.moe/resources/#visual-novels-and-games)
