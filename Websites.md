@@ -230,6 +230,7 @@ ___
 ### Community
 - [Animesuki](https://forums.animesuki.com/)
 - [Doujin Cafe](https://discord.gg/doujincafe)
+- [Fuwanovel](https://forums.fuwanovel.net/forum/85-recommendations/)
 - [Manga Helper](https://mangahelpers.com/)
 - [Manga Piracy](https://discord.com/invite/ZgMtAyxFSU)
 - r/ [!badge variant="ghost" text="Anime"](https://www.reddit.com/r/anime) [!badge variant="ghost" text="Manga"](https://www.reddit.com/r/manga) [!badge variant="ghost" text="Manhwa"](https://www.reddit.com/r/manhwa) [!badge variant="ghost" text="Manhua"](https://www.reddit.com/r/manhua) [!badge variant="ghost" text="Anime Piracy"](https://www.reddit.com/r/animepiracy) [!badge variant="ghost" text="Manga Piracy"](https://www.reddit.com/r/mangapiracy/) [!badge variant="ghost" text="Others"](https://www.reddit.com/r/anime/wiki/related_subreddits/)
@@ -238,18 +239,37 @@ ___
 
 
 ### Guides
-- [**Japanese with anime**](https://www.japanesewithanime.com/) [!badge variant="ghost" text="Manga"](https://www.japanesewithanime.com/2016/10/manga.html) [!badge variant="ghost" text="Anime"](https://www.japanesewithanime.com/2016/08/anime.html) [!badge variant="ghost" text="Light Novel"](https://www.japanesewithanime.com/2016/10/light-novel.html) [!badge variant="ghost" text="Glossary"](https://www.japanesewithanime.com/2017/01/anime-words-japanese-meanings.html)
-- [r/Lightnovels' guide](https://www.reddit.com/r/LightNovels/wiki/faq/)
-- [Visual Novel Guide by MoeWay](https://learnjapanese.moe/vn/)
-- [r/Visualnovels' guide](https://www.reddit.com/r/visualnovels/wiki/links/)
-- [Anime qualities](https://thewiki.moe/guides/quality/)
-- Legal Platform List [!badge variant="ghost" text="Manga"](https://otakulogy.github.io/manga-platform/) [!badge variant="ghost" text="Anime"](https://otakulogy.github.io/anime-streaming/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/otakulogy/)
+
+=== Manga
+- [**Japanese with anime**](https://www.japanesewithanime.com/2016/10/manga.html)
+- [Manga & anime glossary](https://www.japanesewithanime.com/2017/01/anime-words-japanese-meanings.html)
+- [Legal platform list](https://otakulogy.github.io/manga-platform/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/otakulogy/)
 - [Where Can I Read Manga?](https://wherecanireadmanga.com/)
+=== Anime
+- [**Japanese with anime**](https://www.japanesewithanime.com/2016/08/anime.html)
+- [Anime video tags](https://thewiki.moe/guides/quality/)
+- [Legal platform list](https://otakulogy.github.io/anime-streaming/)
+
+=== Light Novels
+- [**Japanese with anime**](https://www.japanesewithanime.com/2016/10/light-novel.html)
+- [r/Lightnovels' guide](https://www.reddit.com/r/LightNovels/wiki/faq/)
+
+=== Visual Novels
+- [Visual Novel Guide by MoeWay](https://learnjapanese.moe/vn/)
+- [r/Visualnovels' links](https://www.reddit.com/r/visualnovels/wiki/links/)
+- [r/Visualnovels' recommendation](https://sites.google.com/view/rvisualnovels-recs/home)
+- [r/VN's 2018 recommendations](https://vnrecs.github.io/)
+- [What are you reading?](https://some-guy.org/vnswayrarchive/recommendations)
+- [Fuwanovel's recommendations](https://forums.fuwanovel.net/forum/85-recommendations/)
 - [Buying visual novels](https://reddit.com/r/visualnovels/wiki/buy)
+
+=== Miscellaneous
 - Japanese learning guide [!badge variant="ghost" text="**JLSS**"](https://discord.gg/jlss) [!badge variant="ghost" text="IMABI"](https://imabi.net/) [!badge variant="ghost" text="Marshall"](https://marshallyin.com/) [!badge variant="ghost" text="jpdb"](https://www.jpdb.io/) [!badge variant="ghost" text="Neko"](https://itazuraneko.neocities.org/)
 - Fansuber's guide [!badge variant="ghost" text="Encode"](https://guide.encode.moe/) [!badge variant="ghost" text="Goodjob"](https://www.goodjobmedia.com/fansubbing/) [!badge variant="ghost" text="Unanimated"](https://unanimated.github.io/guides.htm) [!badge variant="ghost" text="Yuki"](https://yukisubs.wordpress.com/guides/)
 - [IRC & XDCC guide](/IRC.md)
 - [Network Stream](/ns.md)
+
+===
 
 ### Info
 - [AniChart](https://anichart.net/)
