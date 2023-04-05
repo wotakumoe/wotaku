@@ -243,10 +243,14 @@ ___
 === Manga
 - [**Japanese with anime**](https://www.japanesewithanime.com/2016/10/manga.html)
 - [Manga & anime glossary](https://www.japanesewithanime.com/2017/01/anime-words-japanese-meanings.html)
+- [Mangadex highest rated](https://mangadex.org/titles?page=1&originLang=ja&translatedLang=en&order=rating.desc)
+- [ANN manga ratings](https://www.animenewsnetwork.com/encyclopedia/ratings-manga.php)
 - [Legal platform list](https://otakulogy.github.io/manga-platform/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/otakulogy/)
 - [Where Can I Read Manga?](https://wherecanireadmanga.com/)
+
 === Anime
 - [**Japanese with anime**](https://www.japanesewithanime.com/2016/08/anime.html)
+- [ANN anime ratings](https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php)
 - [Anime video tags](https://thewiki.moe/guides/quality/)
 - [Legal platform list](https://otakulogy.github.io/anime-streaming/)
 
@@ -255,7 +259,7 @@ ___
 - [r/Lightnovels' guide](https://www.reddit.com/r/LightNovels/wiki/faq/)
 
 === Visual Novels
-- [Visual Novel Guide by MoeWay](https://learnjapanese.moe/vn/)
+- [Visual Novel Guide by MoeWay](https://learnjapanese.moe/vn/) [!badge variant="ghost" text="Resources"](https://learnjapanese.moe/resources/#visual-novels-and-games)
 - [r/Visualnovels' links](https://www.reddit.com/r/visualnovels/wiki/links/)
 - [r/Visualnovels' recommendation](https://sites.google.com/view/rvisualnovels-recs/home)
 - [r/VN's 2018 recommendations](https://vnrecs.github.io/)
@@ -264,7 +268,7 @@ ___
 - [Buying visual novels](https://reddit.com/r/visualnovels/wiki/buy)
 
 === Miscellaneous
-- Japanese learning guide [!badge variant="ghost" text="**JLSS**"](https://discord.gg/jlss) [!badge variant="ghost" text="IMABI"](https://imabi.net/) [!badge variant="ghost" text="Marshall"](https://marshallyin.com/) [!badge variant="ghost" text="jpdb"](https://www.jpdb.io/) [!badge variant="ghost" text="Neko"](https://itazuraneko.neocities.org/)
+- Japanese learning guide [!badge variant="ghost" text="**JLSS**"](https://discord.gg/jlss) [!badge variant="ghost" text="IMABI"](https://imabi.net/) [!badge variant="ghost" text="Marshall"](https://marshallyin.com/) [!badge variant="ghost" text="MoeWay"](https://learnjapanese.moe/) [!badge variant="ghost" text="jpdb"](https://www.jpdb.io/) [!badge variant="ghost" text="Neko"](https://itazuraneko.neocities.org/)
 - Fansuber's guide [!badge variant="ghost" text="Encode"](https://guide.encode.moe/) [!badge variant="ghost" text="Goodjob"](https://www.goodjobmedia.com/fansubbing/) [!badge variant="ghost" text="Unanimated"](https://unanimated.github.io/guides.htm) [!badge variant="ghost" text="Yuki"](https://yukisubs.wordpress.com/guides/)
 - [IRC & XDCC guide](/IRC.md)
 - [Network Stream](/ns.md)
