@@ -255,8 +255,7 @@ ___
 - [Legal platform list](https://otakulogy.github.io/anime-streaming/)
 
 === Light Novels
-- [**Japanese with anime**](https://www.japanesewithanime.com/2016/10/light-novel.html)
-- [r/Lightnovels' guide](https://www.reddit.com/r/LightNovels/wiki/faq/)
+- [**r/Lightnovels' guide**](https://www.reddit.com/r/LightNovels/wiki/faq/)
 
 === Visual Novels
 - [Visual Novel Guide by MoeWay](https://learnjapanese.moe/vn/) [!badge variant="ghost" text="Resources"](https://learnjapanese.moe/resources/#visual-novels-and-games)
