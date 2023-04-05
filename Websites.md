@@ -234,6 +234,7 @@ ___
 - [Manga Helper](https://mangahelpers.com/)
 - [Manga Piracy](https://discord.com/invite/ZgMtAyxFSU)
 - r/ [!badge variant="ghost" text="Anime"](https://www.reddit.com/r/anime) [!badge variant="ghost" text="Manga"](https://www.reddit.com/r/manga) [!badge variant="ghost" text="Manhwa"](https://www.reddit.com/r/manhwa) [!badge variant="ghost" text="Manhua"](https://www.reddit.com/r/manhua) [!badge variant="ghost" text="Anime Piracy"](https://www.reddit.com/r/animepiracy) [!badge variant="ghost" text="Manga Piracy"](https://www.reddit.com/r/mangapiracy/) [!badge variant="ghost" text="Others"](https://www.reddit.com/r/anime/wiki/related_subreddits/)
+- [Safebooru](https://safebooru.org/)
 - [Squide Board](https://www.squid-board.org/)
 - [TheMoeWay](https://discord.com/invite/nhqjydaR8j)
 
