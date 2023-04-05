@@ -238,7 +238,7 @@ ___
 
 
 ### Guides
-- [**Japanese with anime**](https://www.japanesewithanime.com/) [!badge variant="ghost" text="Manga"](https://www.japanesewithanime.com/2016/10/manga.html) [!badge variant="ghost" text="Anime"](https://www.japanesewithanime.com/2016/08/anime.html) [!badge variant="ghost" text="Light Novel"](https://www.japanesewithanime.com/2016/10/light-novel.html) [!badge variant="ghost" text="Terms"](https://www.japanesewithanime.com/2017/01/anime-words-japanese-meanings.html)
+- [**Japanese with anime**](https://www.japanesewithanime.com/) [!badge variant="ghost" text="Manga"](https://www.japanesewithanime.com/2016/10/manga.html) [!badge variant="ghost" text="Anime"](https://www.japanesewithanime.com/2016/08/anime.html) [!badge variant="ghost" text="Light Novel"](https://www.japanesewithanime.com/2016/10/light-novel.html) [!badge variant="ghost" text="Glossary"](https://www.japanesewithanime.com/2017/01/anime-words-japanese-meanings.html)
 - [r/Lightnovels' guide](https://www.reddit.com/r/LightNovels/wiki/faq/)
 - [Visual Novel Guide by MoeWay](https://learnjapanese.moe/vn/)
 - [r/Visualnovels' guide](https://www.reddit.com/r/visualnovels/wiki/links/)
