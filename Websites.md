@@ -188,6 +188,14 @@ ___
 - [Asia Media Blog](https://asiamediablog.com/media/music/)
 - [JPFiles](https://jpfiles.eu/)
 
+
+### Doujin
+- [Doujin Style](https://doujinstyle.com/)
+- [MikuDB](http://mikudb.moe/)
+- [Touhou Player](https://touhou.kuukunen.net/)
+- [Doujin Cafe](https://discord.gg/doujincafe)
+- Databases [!badge variant="ghost" text="Doujin Music"](https://www.dojin-music.info/) [!badge variant="ghost" text="Touhou"](https://thwiki.cc/) [!badge variant="ghost" text="Vocaloid"](https://vocadb.net/) [!badge variant="ghost" text="VGMDB"](https://vgmdb.net/) [!badge variant="ghost" text="Utaite"](https://utaitedb.net/)
+
 ![](/static/banner/ln.png)
 
 ## Light Novels
