@@ -193,7 +193,6 @@ ___
 - [Doujin Style](https://doujinstyle.com/)
 - [MikuDB](http://mikudb.moe/)
 - [Touhou Player](https://touhou.kuukunen.net/)
-- [Doujin Cafe](https://discord.gg/doujincafe)
 - Databases [!badge variant="ghost" text="Doujin Music"](https://www.dojin-music.info/) [!badge variant="ghost" text="Touhou"](https://thwiki.cc/) [!badge variant="ghost" text="Utaite"](https://utaitedb.net/) [!badge variant="ghost" text="VGMDB"](https://vgmdb.net/) [!badge variant="ghost" text="Vocaloid"](https://vocadb.net/)
 
 ![](/static/banner/ln.png)
@@ -229,12 +228,14 @@ ___
 ## Miscellaneous
 ___
 
-### Community & Portals
-- [Anitrendz](https://anitrendz.com/)
-- [Anime News Network](https://www.animenewsnetwork.com/)
+### Community
+- [Animesuki](https://forums.animesuki.com/)
+- [Doujin Cafe](https://discord.gg/doujincafe)
 - [Manga Helper](https://mangahelpers.com/)
 - [Manga Piracy](https://discord.com/invite/ZgMtAyxFSU)
 - r/ [!badge variant="ghost" text="Anime"](https://www.reddit.com/r/anime) [!badge variant="ghost" text="Manga"](https://www.reddit.com/r/manga) [!badge variant="ghost" text="Manhwa"](https://www.reddit.com/r/manhwa) [!badge variant="ghost" text="Manhua"](https://www.reddit.com/r/manhua) [!badge variant="ghost" text="Anime Piracy"](https://www.reddit.com/r/animepiracy) [!badge variant="ghost" text="Manga Piracy"](https://www.reddit.com/r/mangapiracy/) [!badge variant="ghost" text="Others"](https://www.reddit.com/r/anime/wiki/related_subreddits/)
+- [Squide Board](https://www.squid-board.org/)
+
 
 ### Guides
 - [**Japanese with anime**](https://www.japanesewithanime.com/) [!badge variant="ghost" text="Manga"](https://www.japanesewithanime.com/2016/10/manga.html) [!badge variant="ghost" text="Anime"](https://www.japanesewithanime.com/2016/08/anime.html) [!badge variant="ghost" text="Light Novel"](https://www.japanesewithanime.com/2016/10/light-novel.html) [!badge variant="ghost" text="Terms"](https://www.japanesewithanime.com/2017/01/anime-words-japanese-meanings.html)
@@ -262,6 +263,12 @@ ___
 - [r/Anime Watch Order](https://www.reddit.com/r/anime/wiki/watch_order/)
 - [Seadex](https://releases.moe/)
 - [The Visual Novel Database](https://vndb.org/)
+
+### Portals
+- [Anitrendz](https://anitrendz.com/)
+- [Anime News Network](https://www.animenewsnetwork.com/)
+- [Crunchyroll News](https://www.crunchyroll.com/news)
+- [Otaku USA](https://otakuusamagazine.com/)
 
 ### Tools
 - [anime.plus](https://anime.plus/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/anime-plus/graph)
