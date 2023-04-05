@@ -193,7 +193,6 @@ ___
 - [Doujin Style](https://doujinstyle.com/)
 - [MikuDB](http://mikudb.moe/)
 - [Touhou Player](https://touhou.kuukunen.net/)
-- Databases [!badge variant="ghost" text="Doujin Music"](https://www.dojin-music.info/) [!badge variant="ghost" text="Touhou"](https://thwiki.cc/) [!badge variant="ghost" text="Utaite"](https://utaitedb.net/) [!badge variant="ghost" text="VGMDB"](https://vgmdb.net/) [!badge variant="ghost" text="Vocaloid"](https://vocadb.net/)
 
 ![](/static/banner/ln.png)
 
@@ -235,14 +234,18 @@ ___
 - [Manga Piracy](https://discord.com/invite/ZgMtAyxFSU)
 - r/ [!badge variant="ghost" text="Anime"](https://www.reddit.com/r/anime) [!badge variant="ghost" text="Manga"](https://www.reddit.com/r/manga) [!badge variant="ghost" text="Manhwa"](https://www.reddit.com/r/manhwa) [!badge variant="ghost" text="Manhua"](https://www.reddit.com/r/manhua) [!badge variant="ghost" text="Anime Piracy"](https://www.reddit.com/r/animepiracy) [!badge variant="ghost" text="Manga Piracy"](https://www.reddit.com/r/mangapiracy/) [!badge variant="ghost" text="Others"](https://www.reddit.com/r/anime/wiki/related_subreddits/)
 - [Squide Board](https://www.squid-board.org/)
+- [TheMoeWay](https://discord.com/invite/nhqjydaR8j)
 
 
 ### Guides
 - [**Japanese with anime**](https://www.japanesewithanime.com/) [!badge variant="ghost" text="Manga"](https://www.japanesewithanime.com/2016/10/manga.html) [!badge variant="ghost" text="Anime"](https://www.japanesewithanime.com/2016/08/anime.html) [!badge variant="ghost" text="Light Novel"](https://www.japanesewithanime.com/2016/10/light-novel.html) [!badge variant="ghost" text="Terms"](https://www.japanesewithanime.com/2017/01/anime-words-japanese-meanings.html)
 - [r/Lightnovels' guide](https://www.reddit.com/r/LightNovels/wiki/faq/)
+- [Visual Novel Guide by MoeWay](https://learnjapanese.moe/vn/)
+- [r/Visualnovels' guide](https://www.reddit.com/r/visualnovels/wiki/links/)
 - [Anime qualities](https://thewiki.moe/guides/quality/)
 - Legal Platform List [!badge variant="ghost" text="Manga"](https://otakulogy.github.io/manga-platform/) [!badge variant="ghost" text="Anime"](https://otakulogy.github.io/anime-streaming/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/otakulogy/)
 - [Where Can I Read Manga?](https://wherecanireadmanga.com/)
+- [Buying visual novels](https://reddit.com/r/visualnovels/wiki/buy)
 - Japanese learning guide [!badge variant="ghost" text="**JLSS**"](https://discord.gg/jlss) [!badge variant="ghost" text="IMABI"](https://imabi.net/) [!badge variant="ghost" text="Marshall"](https://marshallyin.com/) [!badge variant="ghost" text="jpdb"](https://www.jpdb.io/) [!badge variant="ghost" text="Neko"](https://itazuraneko.neocities.org/)
 - Fansuber's guide [!badge variant="ghost" text="Encode"](https://guide.encode.moe/) [!badge variant="ghost" text="Goodjob"](https://www.goodjobmedia.com/fansubbing/) [!badge variant="ghost" text="Unanimated"](https://unanimated.github.io/guides.htm) [!badge variant="ghost" text="Yuki"](https://yukisubs.wordpress.com/guides/)
 - [IRC & XDCC guide](/IRC.md)
@@ -255,6 +258,7 @@ ___
 - [Anime Filler Guide](https://www.animefillerguide.com/)
 - [Anime Filler List](https://www.animefillerlist.com/)
 - [Anime Stats](https://anime-stats.net/)
+- Doujin Music Databases [!badge variant="ghost" text="Doujin Music"](https://www.dojin-music.info/) [!badge variant="ghost" text="Touhou"](https://thwiki.cc/) [!badge variant="ghost" text="Utaite"](https://utaitedb.net/) [!badge variant="ghost" text="VGMDB"](https://vgmdb.net/) [!badge variant="ghost" text="Vocaloid"](https://vocadb.net/)
 - [Fansuber's Index](https://index.fansubcar.tel/)
 - [Kitsu Season Trends](https://season.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/wopian/kitsu-season-trends)
 - [Livechart](https://www.livechart.me/)
@@ -263,6 +267,7 @@ ___
 - [r/Anime Watch Order](https://www.reddit.com/r/anime/wiki/watch_order/)
 - [Seadex](https://releases.moe/)
 - [The Visual Novel Database](https://vndb.org/)
+- [VNStat](https://vnstat.net/)
 
 ### Portals
 - [Anitrendz](https://anitrendz.com/)
