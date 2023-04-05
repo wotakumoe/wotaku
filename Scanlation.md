@@ -35,9 +35,7 @@ ___
 - [Manga Zone](http://www.manga-zone.org/)  [!badge variant="ghost" size="xs" text="Novel"]
 - [Raw Cans](http://raw-cans.net/) [!badge variant="ghost" size="xs" text="R+"]  [!badge variant="ghost" size="xs" text="Magazine"]
 
-=== Premium File Downloader
-Use these sites [1](https://okdebrid.com/), [2](https://www.newscon.net/d/), [3](https://rapidgrab.pl/), [4](https://leechersparadise.xyz/) to download from the file hoster.
-===
+> You can use [okdebrid](https://okdebrid.com/) & [newscon](https://www.newscon.net/d/) to download free & premium files from the file hosters.
 
 ![](/static/banner/res.png)
 ## Resources
