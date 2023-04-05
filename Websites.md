@@ -250,7 +250,7 @@ ___
 
 === Anime
 - [**Japanese with anime**](https://www.japanesewithanime.com/2016/08/anime.html)
-- [ANN anime ratings](https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php)
+- [ANN top 100](https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=popular&n=100)
 - [Anime video tags](https://thewiki.moe/guides/quality/)
 - [Legal platform list](https://otakulogy.github.io/anime-streaming/)
 
