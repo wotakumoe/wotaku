@@ -35,9 +35,9 @@ ___
 - [Manga Zone](http://www.manga-zone.org/)  [!badge variant="ghost" size="xs" text="Novel"]
 - [Raw Cans](http://raw-cans.net/) [!badge variant="ghost" size="xs" text="R+"]  [!badge variant="ghost" size="xs" text="Magazine"]
 
-!!!contrast Premium File Downloader
+=== Premium File Downloader
 Use these sites [1](https://okdebrid.com/), [2](https://www.newscon.net/d/), [3](https://rapidgrab.pl/), [4](https://leechersparadise.xyz/) to download from the file hoster.
-!!!
+===
 
 ![](/static/banner/res.png)
 ## Resources
@@ -57,8 +57,9 @@ ___
 - [Scanlation Snacks](https://scanlationsnacks.wordpress.com/)
 - [Typesetting tutorial by Fallen Syndicate](https://coloredmanga.com/rhss-comprehensive-typesetting-guide-re-hosted-version-from-fallen-syndicates-rehost/)
 - [Webtoon Guidelines](https://github.com/ricafolio/awesome-webtoon-guidelines)
-!!!info You can find a lot of free assests in the Scanner Usage School Server.
-!!!
+
+> You can find a lot of free assests in the Scanner Usage School Server.
+
 
 ![](/static/banner/tools.png)
 ## Tools
@@ -82,6 +83,7 @@ ___
 - [Poricom](https://github.com/blueaxis/Poricom)
 - [Sugoi Translation Toolkit](https://www.patreon.com/mingshiba)
 - [Yomiwa](https://www.yomiwa.net/)
+
 !!!danger Don't use MTL
 Using Machine Translation to translate manga can be a bit of a mess. Manga has lots of slang, cultural references, and visual elements that MT might not understand. So, it's better to have a human translator who knows the language and culture well. You don't want to end up with a wonky or inaccurate translation!
 !!!
