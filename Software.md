@@ -33,11 +33,11 @@ ___
 ## PC
 ___
 ### Manga
-==- Online
+=== Online
 - [Houdoku](https://github.com/xgi/houdoku) [!badge variant="ghost" icon="globe" text="Web"](https://houdoku.org/)
 - [Tachidesk](https://github.com/Suwayomi/Tachidesk-Server) [!badge variant="ghost" icon="tab-external" text="Clients"](https://github.com/Suwayomi/Tachidesk-Server#tachidesk-client-projects)
 - [Adolla](https://github.com/AdollaApp/Adolla)
-==- Offline
+=== Offline
 - [Clovre](https://github.com/rehhouari/clovre) [!badge variant="ghost" icon="globe" text="Web"](https://clovre.pigeonivy.com/)
 - CDisplay [!badge variant="ghost" icon="globe" text="Web"](https://www.cdisplayex.com/)
 - [Kavita](https://github.com/Kareadita/Kavita) [!badge variant="ghost" icon="globe" text="Web"](https://www.kavitareader.com/)
@@ -52,9 +52,9 @@ ___
 ===
 
 ### Anime
-==- Direct
+=== Direct
 [!badge variant="ghost" icon="Beaker" text="Brewing"](/Brewing.md/#pc)
-==- Torrent
+=== Torrent
 - [Miru](https://github.com/ThaUnknown/miru/)
 ===
 

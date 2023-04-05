@@ -31,7 +31,7 @@ ___
 - [AniTrend V2](https://github.com/AniTrend/anitrend-v2)
 
 ### PC
-==- Manga
+=== Manga
 - [Atsumeru](https://github.com/AtsumeruDev/Atsumeru) [!badge variant="ghost" icon="globe" text="Web"](https://atsumeru.xyz/)
 - [FeeDex](https://github.com/Tosh0kan/FeeDex)
 - [Fukayo](https://github.com/JiPaix/Fukayo/)
@@ -39,16 +39,16 @@ ___
 - [MangaReaderDL](https://github.com/chungmuwei/MangaReaderDL)
 - [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager)
 - [Special Eureka](https://github.com/tonymushah/special-eureka)
-==- Anime
+=== Anime
 - [Aniluv](https://github.com/wovnep/aniluv)
 - [Animos](https://github.com/Nectres/animos)
 - [Anime Manager](https://github.com/anma-dev/Anime-Manager)
 - [NineAnimator-Tauri](https://github.com/Layendan/NineAnimator-Tauri)
 - [Totoro](https://github.com/insomniachi/Totoro)
 - [Tsundoku](https://github.com/tylergibbs2/Tsundoku)
-==- Light Novel
+=== Light Novel
 - [Nlight](https://github.com/brandonzorn/Nlight)
-==- Miscellaneous
+=== Miscellaneous
 - [Threetwo](https://github.com/rishighan/threetwo)
 - [Juro](https://github.com/jerry08/Juro)
 - [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper)
@@ -56,11 +56,11 @@ ___
 ===
 
 ### iOS
-==- Manga
+=== Manga
 - [Hanami](https://github.com/oolxg/Hanami)
-==- Anime
+=== Anime
 - [SaikouS](https://github.com/5H4D0WILA/SaikouS)
-==- Miscellaneous
+=== Miscellaneous
 - [AniHyou](https://github.com/axiel7/AniHyou)
 - [Kurozora](https://kurozora.app/welcome) [!badge variant="ghost" icon="/static/icon/apple.png" text="Apple"](https://github.com/Kurozora/kurozora-app) [!badge variant="ghost" icon="/static/icon/andy.png" text="Android"](https://github.com/Kurozora/kurozora-android) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/) [!badge variant="ghost" icon="/static/icon/discord.svg" text="Discord"](https://github.com/Kurozora/kurozora-discord-bot) 
 ===

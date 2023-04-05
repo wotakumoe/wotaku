@@ -36,9 +36,9 @@ ___
 - [Manga Here](https://www.mangahere.cc/) | [Manga Fox](https://fanfox.net/) [!badge variant="ghost" size="xs" text="R-"]
 
 === Rating
-[!badge variant="ghost" text="R+"] Uploads NSFW manga/hwa on a regular basis.
+[!badge variant="ghost" text="R+"] Uploads NSFW content on a regular basis.
 
-[!badge variant="ghost" text="R"] Uploads NSFW manga/hwa, but not always/all of them.
+[!badge variant="ghost" text="R"] Uploads NSFW content, but not always/all of them.
 
 [!badge variant="ghost" text="R-"] Rarely uploads NSFW content.
 
@@ -108,7 +108,7 @@ ___
 
 ### Stream
 
-==- Uploader
+=== Uploader
 - [AllAnime](https://allanime.to/) + [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="gogo"]
 - [KickAssAnime](https://www2.kickassanime.ro/) + [!badge variant="ghost" size="xs" text="crunchy"]
 - [Marin](https://marin.moe/)
@@ -116,7 +116,7 @@ ___
 - [9anime](https://9anime.gs/home)
 - [Animepahe](https://animepahe.com/)
 - [Animension](https://animension.to/) + [!badge variant="ghost" size="xs" text="gogo"]
-==- Scraper
+=== Scraper
 - [Kaguya](https://kaguya.app) [!badge variant="ghost" size="xs" text="9anime"] [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="bili"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="marin"] [!badge variant="ghost" size="xs" text="zoro"]
 - [Enime](https://enime.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/Enime-Project) [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="zoro"]
 - [Animesuge](https://animesuge.to/home) [!badge variant="ghost" size="xs" text="9anime"]
@@ -188,9 +188,9 @@ ___
 - [Hikari No Akari](https://hikarinoakari.com/)
 - [Sukidesu OST](https://sukidesuost.info/)
 - [Sitting on Clouds](https://www.sittingonclouds.net/)
-- [JPFiles](https://jpfiles.eu/)
 - [OS Anime](https://osanime.com/)
 - [Asia Media Blog](https://asiamediablog.com/media/music/)
+- [JPFiles](https://jpfiles.eu/)
 
 ![](/static/banner/ln.png)
 
@@ -232,7 +232,6 @@ ___
 - [Manga Piracy](https://discord.com/invite/ZgMtAyxFSU)
 - r/ [!badge variant="ghost" text="Anime"](https://www.reddit.com/r/anime) [!badge variant="ghost" text="Manga"](https://www.reddit.com/r/manga) [!badge variant="ghost" text="Manhwa"](https://www.reddit.com/r/manhwa) [!badge variant="ghost" text="Manhua"](https://www.reddit.com/r/manhua) [!badge variant="ghost" text="Anime Piracy"](https://www.reddit.com/r/animepiracy) [!badge variant="ghost" text="Manga Piracy"](https://www.reddit.com/r/mangapiracy/) [!badge variant="ghost" text="Others"](https://www.reddit.com/r/anime/wiki/related_subreddits/)
 
-
 ### Guides
 - [**Japanese with anime**](https://www.japanesewithanime.com/) [!badge variant="ghost" text="Manga"](https://www.japanesewithanime.com/2016/10/manga.html) [!badge variant="ghost" text="Anime"](https://www.japanesewithanime.com/2016/08/anime.html) [!badge variant="ghost" text="Light Novel"](https://www.japanesewithanime.com/2016/10/light-novel.html) [!badge variant="ghost" text="Terms"](https://www.japanesewithanime.com/2017/01/anime-words-japanese-meanings.html)
 - [r/Lightnovels' guide](https://www.reddit.com/r/LightNovels/wiki/faq/)
@@ -259,7 +258,6 @@ ___
 - [r/Anime Watch Order](https://www.reddit.com/r/anime/wiki/watch_order/)
 - [Seadex](https://releases.moe/)
 - [The Visual Novel Database](https://vndb.org/)
-
 
 ### Tools
 - [anime.plus](https://anime.plus/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/anime-plus/graph)

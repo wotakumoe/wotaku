@@ -22,14 +22,14 @@ ___
 - [MonitoRSS](https://github.com/synzen/MonitoRSS) [!badge variant="ghost" icon="globe" text="Web"](https://monitorss.xyz/)
 - Anigame [!badge variant="ghost" icon="globe" text="Top.gg"](https://top.gg/bot/571027211407196161)
 
-!!!info Websites with RSS feeds
+=== Websites with RSS feeds
 - [Anime News Network](https://www.animenewsnetwork.com/newsfeed/)
 - [Anime tosho](https://animetosho.org/)
 - [Crunchyroll](https://www.crunchyroll.com/feed)
 - [Livechart](https://www.livechart.me/pages/rss)
 - [Manga Updates](https://www.mangaupdates.com/)
 - [nyaa](https://nyaa.si/)
-!!!
+===
 
 
 ![](/static/banner/ext.png)
