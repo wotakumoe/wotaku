@@ -295,12 +295,12 @@ ___
 - [r/Anime Watch Order](https://www.reddit.com/r/anime/wiki/watch_order/)
 - [Seadex](https://releases.moe/)
 - [Fansuber's Index](https://index.fansubcar.tel/)
-- [AnimeCons](https://animecons.com/)
 
 === Others
 - [The Visual Novel Database](https://vndb.org/)
 - [VNStat](https://vnstat.net/)
 - Doujin Music Databases [!badge variant="ghost" text="Doujin Music"](https://www.dojin-music.info/) [!badge variant="ghost" text="Touhou"](https://thwiki.cc/) [!badge variant="ghost" text="Utaite"](https://utaitedb.net/) [!badge variant="ghost" text="VGMDB"](https://vgmdb.net/) [!badge variant="ghost" text="Vocaloid"](https://vocadb.net/)
+- [AnimeCons](https://animecons.com/)
 
 ===
 
