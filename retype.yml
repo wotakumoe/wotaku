@@ -1,0 +1,24 @@
+input: ./
+output: .retype
+url: https://wotaku.pages.dev/
+
+branding:
+  logo: /static/asset/inaspin.gif
+  logoDark: /static/asset/inaspin.gif
+  title: Wotaku
+
+favicon: /static/asset/favicon.ico
+
+meta:
+  title: " - Wotaku"
+
+links:
+
+  - text: Discord
+    link: https://discord.com/users/777478477569196044
+    icon: /static/icon/discord.svg
+    target: blank
+
+footer:
+
+copyright: ""
