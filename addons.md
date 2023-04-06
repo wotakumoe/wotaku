@@ -66,6 +66,7 @@ ___
 - [MAL Dubs](https://github.com/MAL-Dubs/MAL-Dubs) [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/376546-mal-myanimelist-dubs)
 - - [MAL English Titles](https://github.com/Animorphs/MAL-English-Titles) [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/420200-mal-english-titles)
 - Pixiv Downloader [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/432150-pixiv-downloader)
+- [Pixiv Preview](https://github.com/NightLancer/PixivPreview) [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/39387-pixiv-arts-preview-followed-atrists-coloring-extended-history)
 - [ppixiv for Pixiv](https://github.com/ppixiv/ppixiv) [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/370418-ppixiv-for-pixiv)
 - Series Highlighter - MAL [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/424774-series-highlighter-mal)
 !!!warning Scripts may not function correctly or reliably all the time
@@ -78,6 +79,8 @@ Active maintenance is necessary for scripts to work properly. If a script fails,
 ___
 
 - [Anime4K](https://github.com/bloc97/Anime4K)
+- [Anitomy](https://github.com/erengy/anitomy)
+- [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/)
 - [Mikutap](https://aidn.jp/mikutap/)
 - [Shoko Anime](https://github.com/shokoanime) [!badge variant="ghost" icon="globe" text="Web"](https://shokoanime.com/)
 - [Waifu2x](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
