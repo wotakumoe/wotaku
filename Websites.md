@@ -295,6 +295,7 @@ ___
 - [r/Anime Watch Order](https://www.reddit.com/r/anime/wiki/watch_order/)
 - [Seadex](https://releases.moe/)
 - [Fansuber's Index](https://index.fansubcar.tel/)
+- [AnimeCons](https://animecons.com/)
 
 === Others
 - [The Visual Novel Database](https://vndb.org/)
