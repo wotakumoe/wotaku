@@ -277,21 +277,31 @@ ___
 ===
 
 ### Info
-- [AniChart](https://anichart.net/)
+
+=== Manga
+- [Mangaupdates](https://www.mangaupdates.com/)
+- [Manga Groups Portal](https://discord.gg/9KGMzP2)
+
+=== Anime
 - [aniDB](https://anidb.net/)
 - [AniSearch](https://www.anisearch.com/)
+- [AniChart](https://anichart.net/)
+- [Livechart](https://www.livechart.me/)
+- [Anime Stats](https://anime-stats.net/)
+- [Kitsu Season Trends](https://season.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/wopian/kitsu-season-trends)
 - [Anime Filler Guide](https://www.animefillerguide.com/)
 - [Anime Filler List](https://www.animefillerlist.com/)
-- [Anime Stats](https://anime-stats.net/)
-- Doujin Music Databases [!badge variant="ghost" text="Doujin Music"](https://www.dojin-music.info/) [!badge variant="ghost" text="Touhou"](https://thwiki.cc/) [!badge variant="ghost" text="Utaite"](https://utaitedb.net/) [!badge variant="ghost" text="VGMDB"](https://vgmdb.net/) [!badge variant="ghost" text="Vocaloid"](https://vocadb.net/)
-- [Fansuber's Index](https://index.fansubcar.tel/)
-- [Kitsu Season Trends](https://season.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/wopian/kitsu-season-trends)
-- [Livechart](https://www.livechart.me/)
-- [Manga Groups Portal](https://discord.gg/9KGMzP2)
 - [r/Anime Watch Order](https://www.reddit.com/r/anime/wiki/watch_order/)
 - [Seadex](https://releases.moe/)
+- [Fansuber's Index](https://index.fansubcar.tel/)
+
+=== Others
 - [The Visual Novel Database](https://vndb.org/)
 - [VNStat](https://vnstat.net/)
+- Doujin Music Databases [!badge variant="ghost" text="Doujin Music"](https://www.dojin-music.info/) [!badge variant="ghost" text="Touhou"](https://thwiki.cc/) [!badge variant="ghost" text="Utaite"](https://utaitedb.net/) [!badge variant="ghost" text="VGMDB"](https://vgmdb.net/) [!badge variant="ghost" text="Vocaloid"](https://vocadb.net/)
+
+===
+
 
 ### Portals
 - [Anime News Network](https://www.animenewsnetwork.com/)
