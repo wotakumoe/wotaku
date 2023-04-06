@@ -52,7 +52,7 @@ ___
 ___
 
 - 9anime Bingewatcher+ [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher)
-- [Anime Website Buttons Plus](https://github.com/Deatthwing/anime-website-buttons-plus) [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"]()
+- [Anime Website Buttons Plus](https://github.com/Deatthwing/anime-website-buttons-plus) [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/398046-anime-website-custom-buttons-plus)
 - [Anifilters](https://github.com/Karmesinrot/Anifiltrs)
 - [AniList Unlimited](https://github.com/mysticflute/ani-list-unlimited) [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/404465-anilist-unlimited-score-in-header)
 - Anilist External Links [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/442599-anilist-external-links)
