@@ -294,8 +294,8 @@ ___
 - [VNStat](https://vnstat.net/)
 
 ### Portals
-- [Anitrendz](https://anitrendz.com/)
 - [Anime News Network](https://www.animenewsnetwork.com/)
+- [Anitrendz](https://anitrendz.com/)
 - [Crunchyroll News](https://www.crunchyroll.com/news)
 - [MAL News](https://myanimelist.net/news)
 - [Mikufan](https://www.mikufan.com/)
