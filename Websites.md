@@ -283,19 +283,23 @@ ___
 - [Manga Groups Portal](https://discord.gg/9KGMzP2)
 
 === Anime
-- [aniDB](https://anidb.net/)
-- [AniSearch](https://www.anisearch.com/)
-- [AniChart](https://anichart.net/)
-- [AnimeSchedule](https://animeschedule.net/)
-- [Livechart](https://www.livechart.me/)
-- [Notify.moe](https://notify.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/animenotifier/notify.moe)
-- [Anime Stats](https://anime-stats.net/)
-- [Kitsu Season Trends](https://season.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/wopian/kitsu-season-trends)
-- [Anime Filler Guide](https://www.animefillerguide.com/)
-- [Anime Filler List](https://www.animefillerlist.com/)
-- [r/Anime Watch Order](https://www.reddit.com/r/anime/wiki/watch_order/)
-- [Seadex](https://releases.moe/)
-- [Fansuber's Index](https://index.fansubcar.tel/)
+- [x] **Database**
+	- [aniDB](https://anidb.net/)
+	- [AniSearch](https://www.anisearch.com/)
+- [x] **Schedule**
+	- [AniChart](https://anichart.net/)
+	- [AnimeSchedule](https://animeschedule.net/)
+	- [Livechart](https://www.livechart.me/)
+	- [Notify.moe](https://notify.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/animenotifier/notify.moe)
+- [x] **Stats/Watch guide**
+	- [Anime Stats](https://anime-stats.net/)
+	- [Kitsu Season Trends](https://season.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/wopian/kitsu-season-trends)
+	- [Anime Filler Guide](https://www.animefillerguide.com/)
+	- [Anime Filler List](https://www.animefillerlist.com/)
+	- [r/Anime Watch Order](https://www.reddit.com/r/anime/wiki/watch_order/)
+- [x] **Index**
+	- [Seadex](https://releases.moe/)
+	- [Fansuber's Index](https://index.fansubcar.tel/)
 
 === Others
 - [Anilinks](https://anilinks.neocities.org/)
