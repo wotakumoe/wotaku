@@ -281,11 +281,14 @@ ___
 === Manga
 - [Mangaupdates](https://www.mangaupdates.com/)
 - [Manga Groups Portal](https://discord.gg/9KGMzP2)
-
+- [MyAnimeList](https://myanimelist.net/)
 === Anime
 - **Database**
 	- [aniDB](https://anidb.net/)
+	- [Anilist](https://anilist.co/)
+	- [Anime News Network](https://www.animenewsnetwork.com/)
 	- [AniSearch](https://www.anisearch.com/)
+	- [MyAnimeList](https://myanimelist.net/)
 - **Schedule**
 	- [AniChart](https://anichart.net/)
 	- [AnimeSchedule](https://animeschedule.net/)
@@ -301,13 +304,21 @@ ___
 	- [Seadex](https://releases.moe/)
 	- [Fansuber's Index](https://index.fansubcar.tel/)
 
-=== Others
-- [Anilinks](https://anilinks.neocities.org/)
-- [The Visual Novel Database](https://vndb.org/)
-- [VNStat](https://vnstat.net/)
-- Doujin Music Databases [!badge variant="ghost" text="Doujin Music"](https://www.dojin-music.info/) [!badge variant="ghost" text="Touhou"](https://thwiki.cc/) [!badge variant="ghost" text="Utaite"](https://utaitedb.net/) [!badge variant="ghost" text="VGMDB"](https://vgmdb.net/) [!badge variant="ghost" text="Vocaloid"](https://vocadb.net/)
-- [AnimeCons](https://animecons.com/)
+=== Doujin
+- [Doujin Music](https://www.dojin-music.info/)
+- [Utaite](https://utaitedb.net/)
+- [Vocaloid](https://vocadb.net/)
 
+=== Others
+- **Light Novels**
+	- [Novel updates](https://www.novelupdates.com/)
+- **Visual Novels**
+	- [The Visual Novel Database](https://vndb.org/)
+	- [VNStat](https://vnstat.net/)
+- **Miscellaneous**
+	- [Anilinks](https://anilinks.neocities.org/)
+	- [AnimeCons](https://animecons.com/)
+	- [VGMDB](https://vgmdb.net/)
 ===
 
 
