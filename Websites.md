@@ -8,7 +8,7 @@ icon: globe
 
 # Websites
 
-On this page, you'll find a compilation of websites related to different forms of media, such as manga, anime, light novels, soundtracks, and other content.
+On this page, you'll find a compilation of websites related to manga, anime, light novels, soundtracks, and other content.
 
 ___
 
