@@ -63,7 +63,9 @@ ___
 ## Tools
 ___
 ### Software
-- [Adobe software](https://rentry.org/adobesoftware) | [Guide by Anna](https://docs.google.com/document/d/17PheyyF9dm7YYjaTZ9JAAY3hhdeIQ7sJ4sylTG9_6xI/edit)
+- Adobe Software
+	- [Ecoterica Avenue](https://rentry.org/adobesoftware)
+	- [Guide by Anna](https://docs.google.com/document/d/17PheyyF9dm7YYjaTZ9JAAY3hhdeIQ7sJ4sylTG9_6xI/edit)
 - [GIMP](https://www.gimp.org/)
 
 ### Miscellaneous 

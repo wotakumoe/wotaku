@@ -7,7 +7,7 @@ icon: hubot
 
 # ようこそ !
 
-Welcome to Wotaku! I've gathered a variety of resources related to manga, anime, and light novels. Hope you'll enjoy the wiki!
+Welcome to Wotaku! Here, you'll find a diverse range of resources related to manga, anime, and light novels. I hope you'll enjoy exploring the wiki.
 
 <style>
     .sample {

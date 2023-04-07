@@ -5,7 +5,7 @@ icon: package
 ---
 ![](/static/thumb/soft.png)
 # Software
-This list includes software for various platforms related to manga, anime, and light novels.
+On this page, you'll find software for various platforms that are dedicated to manga, anime, and light novels.
 ___
 
 ![](/static/banner/and.png)

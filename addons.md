@@ -7,7 +7,7 @@ icon: plug
 ![](/static/thumb/addons.png)
 
 # Add-ons
-You can these add-ons to enhance your manga and anime experience.
+These add-ons will help you get the most out of your manga and anime watching experience.
 ___
 
 ![](/static/banner/disbot.png)
