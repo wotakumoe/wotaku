@@ -276,7 +276,7 @@ ___
 	- [TheMoeWay](https://learnjapanese.moe/)
 	- [jpdb](https://www.jpdb.io/)
 	- [itazuraneko](https://itazuraneko.neocities.org/)
-- Fansuber's guide
+- Fansubbing Guide
 	- [Encode](https://guide.encode.moe/)
 	- [Goodjob Media](https://www.goodjobmedia.com/fansubbing/)
 	- [Unanimated](https://unanimated.github.io/guides.htm)
