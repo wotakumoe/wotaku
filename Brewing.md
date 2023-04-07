@@ -5,7 +5,7 @@ icon: Beaker
 ---
 ![](/static/thumb/brew.png)
 # Brewing
-Here is a list of projects that are either in early stages of development or still in progress.
+If you're curious about what projects are currently in development or early stages, check out this page.
 ___
 
 ![](/static/banner/sites.png)
