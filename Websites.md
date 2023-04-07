@@ -269,8 +269,18 @@ ___
 - [Buying visual novels](https://reddit.com/r/visualnovels/wiki/buy)
 
 === Miscellaneous
-- Japanese learning guide [!badge variant="ghost" text="**JLSS**"](https://discord.gg/jlss) [!badge variant="ghost" text="IMABI"](https://imabi.net/) [!badge variant="ghost" text="Marshall"](https://marshallyin.com/) [!badge variant="ghost" text="MoeWay"](https://learnjapanese.moe/) [!badge variant="ghost" text="jpdb"](https://www.jpdb.io/) [!badge variant="ghost" text="Neko"](https://itazuraneko.neocities.org/)
-- Fansuber's guide [!badge variant="ghost" text="Encode"](https://guide.encode.moe/) [!badge variant="ghost" text="Goodjob"](https://www.goodjobmedia.com/fansubbing/) [!badge variant="ghost" text="Unanimated"](https://unanimated.github.io/guides.htm) [!badge variant="ghost" text="Yuki"](https://yukisubs.wordpress.com/guides/)
+- Japanese learning guide
+	- [Japanese Language Study Space](https://discord.gg/jlss)
+	- [IMABI](https://imabi.net/)
+	- [Marshall's Site](https://marshallyin.com/)
+	- [TheMoeWay](https://learnjapanese.moe/)
+	- [jpdb](https://www.jpdb.io/)
+	- [itazuraneko](https://itazuraneko.neocities.org/)
+- Fansuber's guide
+	- [Encode](https://guide.encode.moe/)
+	- [Goodjob Media](https://www.goodjobmedia.com/fansubbing/)
+	- [Unanimated](https://unanimated.github.io/guides.htm)
+	- [Yukisubs](https://yukisubs.wordpress.com/guides/)
 - [IRC & XDCC guide](/IRC.md)
 - [Network Stream](/ns.md)
 
@@ -309,13 +319,13 @@ ___
 - [Utaite](https://utaitedb.net/)
 - [Vocaloid](https://vocadb.net/)
 
-=== Others
+=== Miscellaneous 
 - **Light Novels**
 	- [Novel updates](https://www.novelupdates.com/)
 - **Visual Novels**
 	- [The Visual Novel Database](https://vndb.org/)
 	- [VNStat](https://vnstat.net/)
-- **Miscellaneous**
+- **Others**
 	- [Anilinks](https://anilinks.neocities.org/)
 	- [AnimeCons](https://animecons.com/)
 	- [VGMDB](https://vgmdb.net/)
