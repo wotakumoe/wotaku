@@ -6,11 +6,11 @@ branding:
   logo: /static/asset/inaspin.gif
   logoDark: /static/asset/inaspin.gif
   title: Wotaku
-  label: Wiki # Optional label. To remove the label, remove this config.
+  label: Wiki
   colors:
-    label:                  # Label colors
-      text: "#575068"       # Custom color for the label text.
-      background: "#e1d8ef" # Custom color for the label background.
+    label:
+      text: "#575068"
+      background: "#e1d8ef"
 
 favicon: /static/asset/favicon.ico
 
