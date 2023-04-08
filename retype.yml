@@ -6,16 +6,11 @@ branding:
   logo: /static/asset/inaspin.gif
   logoDark: /static/asset/inaspin.gif
   title: Wotaku
-  label: Wiki
-  colors:
-    label:
-      text: "#575068"
-      background: "#e1d8ef"
 
 favicon: /static/asset/favicon.ico
 
 meta:
-  title: " - Wotaku Wiki"
+  title: " - Wotaku"
 
 links:
 
