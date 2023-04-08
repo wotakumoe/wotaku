@@ -307,6 +307,7 @@ ___
 - **Stats/Watch guide**
 	- [Anime Stats](https://anime-stats.net/)
 	- [Kitsu Season Trends](https://season.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/wopian/kitsu-season-trends)
+	- [Chiaki](https://chiaki.site/)
 	- [Anime Filler Guide](https://www.animefillerguide.com/)
 	- [Anime Filler List](https://www.animefillerlist.com/)
 	- [r/Anime Watch Order](https://www.reddit.com/r/anime/wiki/watch_order/)
