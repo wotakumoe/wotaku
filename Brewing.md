@@ -43,12 +43,14 @@ ___
 - [Aniluv](https://github.com/wovnep/aniluv)
 - [Animos](https://github.com/Nectres/animos)
 - [Anime Manager](https://github.com/anma-dev/Anime-Manager)
+- [Keroro](https://github.com/hotsno/keroro)
 - [NineAnimator-Tauri](https://github.com/Layendan/NineAnimator-Tauri)
 - [Totoro](https://github.com/insomniachi/Totoro)
 - [Tsundoku](https://github.com/tylergibbs2/Tsundoku)
 === Light Novel
 - [Nlight](https://github.com/brandonzorn/Nlight)
 === Miscellaneous
+- [Hiyakasudere](https://github.com/eEXEO/Hiyakasudere)
 - [Threetwo](https://github.com/rishighan/threetwo)
 - [Juro](https://github.com/jerry08/Juro)
 - [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper)

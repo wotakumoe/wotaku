@@ -53,7 +53,7 @@ ___
 
 ### Anime
 === Direct
-[!badge variant="ghost" icon="Beaker" text="Brewing"](/Brewing.md/#pc)
+- [ani-cli](https://github.com/pystardust/ani-cli)
 === Torrent
 - [Miru](https://github.com/ThaUnknown/miru/)
 ===
