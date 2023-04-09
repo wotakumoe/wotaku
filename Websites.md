@@ -181,14 +181,14 @@ ___
 - [LISTEN.moe](https://listen.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/LISTEN-moe)
 
 ### DDL
-- [Hikari No Akari](https://hikarinoakari.com/)
-- [Sukidesu OST](https://sukidesuost.info/)
-- [Sitting on Clouds](https://www.sittingonclouds.net/)
-- [Asia Media Blog](https://asiamediablog.com/media/music/)
-- [OS Anime](https://osanime.com/)
-- [Hiyori OST](https://www.hiyoriost.com/)
-- [Sakura OST](https://www.sakuraost.com/)
-- [JPFiles](https://jpfiles.eu/)
+- [Hikari No Akari](https://hikarinoakari.com/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="Mega"]
+- [Sukidesu OST](https://sukidesuost.info/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Mega"]
+- [Sitting on Clouds](https://www.sittingonclouds.net/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Mega"] [!badge variant="ghost" size="xs" text="Mediafire"]
+- [Asia Media Blog](https://asiamediablog.com/media/music/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Host"]
+- [OS Anime](https://osanime.com/) [!badge variant="ghost" size="xs" text="Direct"]
+- [Hiyori OST](https://www.hiyoriost.com/) [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="Host"]
+- [Sakura OST](https://www.sakuraost.com/) [!badge variant="ghost" size="xs" text="Host"]
+- [JPFiles](https://jpfiles.eu/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Host"]
 
 
 ### Doujin
