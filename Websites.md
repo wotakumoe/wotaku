@@ -184,8 +184,10 @@ ___
 - [Hikari No Akari](https://hikarinoakari.com/)
 - [Sukidesu OST](https://sukidesuost.info/)
 - [Sitting on Clouds](https://www.sittingonclouds.net/)
-- [OS Anime](https://osanime.com/)
 - [Asia Media Blog](https://asiamediablog.com/media/music/)
+- [OS Anime](https://osanime.com/)
+- [Hiyori OST](https://www.hiyoriost.com/)
+- [Sakura OST](https://www.sakuraost.com/)
 - [JPFiles](https://jpfiles.eu/)
 
 
@@ -242,7 +244,7 @@ ___
 ### Guides
 
 === Manga
-- [**Japanese with anime**](https://www.japanesewithanime.com/2016/10/manga.html)
+- [Japanese with anime](https://www.japanesewithanime.com/2016/10/manga.html)
 - [Manga & anime glossary](https://www.japanesewithanime.com/2017/01/anime-words-japanese-meanings.html)
 - [Mangadex highest rated](https://mangadex.org/titles?page=1&originLang=ja&translatedLang=en&order=rating.desc)
 - [ANN manga ratings](https://www.animenewsnetwork.com/encyclopedia/ratings-manga.php)
@@ -250,13 +252,13 @@ ___
 - [Where Can I Read Manga?](https://wherecanireadmanga.com/)
 
 === Anime
-- [**Japanese with anime**](https://www.japanesewithanime.com/2016/08/anime.html)
+- [Japanese with anime](https://www.japanesewithanime.com/2016/08/anime.html)
 - [ANN top 100](https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=popular&n=100)
 - [Anime video tags](https://thewiki.moe/guides/quality/)
 - [Legal platform list](https://otakulogy.github.io/anime-streaming/)
 
 === Light Novels
-- [**r/Lightnovels' guide**](https://www.reddit.com/r/LightNovels/wiki/faq/)
+- [r/Lightnovels' guide](https://www.reddit.com/r/LightNovels/wiki/faq/)
 - [Japanese with anime](https://www.japanesewithanime.com/2016/10/light-novel.html)
 
 === Visual Novels
@@ -307,11 +309,12 @@ ___
 - **Stats/Watch guide**
 	- [Anime Stats](https://anime-stats.net/)
 	- [Kitsu Season Trends](https://season.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/wopian/kitsu-season-trends)
-	- [Chiaki](https://chiaki.site/)
 	- [Anime Filler Guide](https://www.animefillerguide.com/)
 	- [Anime Filler List](https://www.animefillerlist.com/)
+	- [Chiaki](https://chiaki.site/)
 	- [r/Anime Watch Order](https://www.reddit.com/r/anime/wiki/watch_order/)
 - **Index**
+	- [Aniplaylist](https://aniplaylist.com/)
 	- [Seadex](https://releases.moe/)
 	- [Fansuber's Index](https://index.fansubcar.tel/)
 
