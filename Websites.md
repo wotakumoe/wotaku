@@ -142,7 +142,7 @@ ___
 - [rbx](http://59.rbx5.ovh.abcd.network/), [2](http://52.rbx5.ovh.abcd.network/), [3](http://511.rbx.abcvg.ovh/), [4](http://508.rbx.abcvg.ovh/), [5](http://510.rbx.abcvg.ovh/), [6](http://58.rbx5.ovh.abcd.network/) [!badge variant="ghost" size="xs" text="Index"] 💀 [!badge variant="ghost" size="xs" text="no ad"]
 
 
-### XDCC
+### IRC
 - [**nibl**](https://nibl.co.uk/search)	[!badge variant="ghost" text="Anime"]
 	> Server: irc.rizon.net Port:**6697**
 	> Channel: **#nibl**
@@ -155,6 +155,7 @@ ___
 - [**XDCC EU**](https://www.xdcc.eu/)	[!badge variant="ghost" text="General"]
 - [**SunXDCC**](https://sunxdcc.com/)	[!badge variant="ghost" text="General"]
 
+> To learn how to use IRC, you can read [**the guide**](/IRC.md).
 
 ### Torrents
 
