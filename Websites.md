@@ -189,7 +189,7 @@ ___
 - [Hiyori OST](https://www.hiyoriost.com/) [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="Host"]
 - [Sakura OST](https://www.sakuraost.com/) [!badge variant="ghost" size="xs" text="Host"]
 - [JPFiles](https://jpfiles.eu/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Host"]
-
+- [JPLearner](http://www.jplearner.to/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Host"]
 
 ### Doujin
 - [Doujin Style](https://doujinstyle.com/)
