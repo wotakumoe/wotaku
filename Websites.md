@@ -191,7 +191,7 @@ ___
 - [Sakura OST](https://www.sakuraost.com/) [!badge variant="ghost" size="xs" text="Host"]
 - [JPFiles](https://jpfiles.eu/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Host"]
 - [JPLearner](http://www.jplearner.to/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Host"]
-- Legal Platforms [!badge variant="ghost" text="Qobuz"](https://www.qobuz.com/us-en/shop)  [!badge variant="ghost" text="CDJapan"](https://www.cdjapan.co.jp/) [!badge variant="ghost" text="Ototoy"](https://ototoy.jp/) [!badge variant="ghost" text="Play-Asia"](https://www.play-asia.com/) [!badge variant="ghost" text="Mora"](https://mora.jp/)
+- Legal Platforms [!badge variant="ghost" text="Qobuz"](https://www.qobuz.com/us-en/shop)  [!badge variant="ghost" text="CDJapan"](https://www.cdjapan.co.jp/) [!badge variant="ghost" text="Ototoy"](https://ototoy.jp/) [!badge variant="ghost" text="Play-Asia"](https://www.play-asia.com/) [!badge variant="ghost" text="Mora"](https://mora.jp/) [!badge variant="ghost" text="recochoku"](https://recochoku.jp/)
 
 
 
