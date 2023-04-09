@@ -345,7 +345,6 @@ ___
 - [Anitrendz](https://anitrendz.com/)
 - [Crunchyroll News](https://www.crunchyroll.com/news)
 - [MAL News](https://myanimelist.net/news)
-- [Mikufan](https://www.mikufan.com/)
 - [Vocasphere](https://vocasphere.net/)
 
 
