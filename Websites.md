@@ -341,11 +341,11 @@ ___
 - [Manga](https://otakulogy.github.io/manga-platform/) & [Anime streaming](https://otakulogy.github.io/anime-streaming/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/otakulogy/)
 - [Where Can I Read Manga?](https://wherecanireadmanga.com/)
 - Manga, Anime, OST & Others
-	- [CDJapan](https://www.cdjapan.co.jp/)
+	- [CDJapan](https://www.cdjapan.co.jp/) [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Physical"]
 	- [Play-Asia](https://www.play-asia.com/)
-	- [Qobuz](https://www.qobuz.com/us-en/shop)
-	- [Ototoy](https://ototoy.jp/)
-	- [Mora](https://mora.jp/)
+	- [Qobuz](https://www.qobuz.com/us-en/shop) [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Digital"]
+	- [Ototoy](https://ototoy.jp/) [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Physical"]
+	- [Mora](https://mora.jp/) [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Digital"]
 	- [Recochoku](https://recochoku.jp/)
 	- [HMV & Books](https://www.hmv.co.jp/)
 - Merchandise & Others
