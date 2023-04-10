@@ -349,9 +349,9 @@ ___
 	- [Recochoku](https://recochoku.jp/)
 	- [HMV & Books](https://www.hmv.co.jp/)
 - Merchandise & Others
-	- [AmiAmi](https://www.amiami.com
-	- [Rakuten](https://global.rakuten.com/en/
-	- [Right Stuf Anime]https://www.rightstufanime.com/
+	- [AmiAmi](https://www.amiami.com)
+	- [Rakuten](https://global.rakuten.com/en/)
+	- [Right Stuf Anime](https://www.rightstufanime.com/)
 
 
 ### Portals
