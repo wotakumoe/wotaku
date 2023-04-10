@@ -191,7 +191,7 @@ ___
 - [Sakura OST](https://www.sakuraost.com/) [!badge variant="ghost" size="xs" text="Host"]
 - [JPFiles](https://jpfiles.eu/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Host"]
 - [JPLearner](http://www.jplearner.to/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Host"]
-- Legal Platforms [!badge variant="ghost" text="Qobuz"](https://www.qobuz.com/us-en/shop)  [!badge variant="ghost" text="CDJapan"](https://www.cdjapan.co.jp/) [!badge variant="ghost" text="Ototoy"](https://ototoy.jp/) [!badge variant="ghost" text="Play-Asia"](https://www.play-asia.com/) [!badge variant="ghost" text="Mora"](https://mora.jp/) [!badge variant="ghost" text="recochoku"](https://recochoku.jp/)
+
 
 
 
@@ -252,14 +252,11 @@ ___
 - [Manga & anime glossary](https://www.japanesewithanime.com/2017/01/anime-words-japanese-meanings.html)
 - [Mangadex highest rated](https://mangadex.org/titles?page=1&originLang=ja&translatedLang=en&order=rating.desc)
 - [ANN manga ratings](https://www.animenewsnetwork.com/encyclopedia/ratings-manga.php)
-- [Legal platform list](https://otakulogy.github.io/manga-platform/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/otakulogy/)
-- [Where Can I Read Manga?](https://wherecanireadmanga.com/)
 
 === Anime
 - [Japanese with anime](https://www.japanesewithanime.com/2016/08/anime.html)
 - [ANN top 100](https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=popular&n=100)
 - [Anime video tags](https://thewiki.moe/guides/quality/)
-- [Legal platform list](https://otakulogy.github.io/anime-streaming/)
 
 === Light Novels
 - [r/Lightnovels' guide](https://www.reddit.com/r/LightNovels/wiki/faq/)
@@ -330,6 +327,7 @@ ___
 === Miscellaneous 
 - **Light Novels**
 	- [Novel updates](https://www.novelupdates.com/)
+	- [r/LightNovels reading order](https://www.reddit.com/r/LightNovels/wiki/reading_order)
 - **Visual Novels**
 	- [The Visual Novel Database](https://vndb.org/)
 	- [VNStat](https://vnstat.net/)
@@ -339,6 +337,18 @@ ___
 	- [VGMDB](https://vgmdb.net/)
 ===
 
+### Legal
+- [Manga websites](https://otakulogy.github.io/manga-platform/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/otakulogy/)
+- [Where Can I Read Manga?](https://wherecanireadmanga.com/)
+- [Anime streaming](https://otakulogy.github.io/anime-streaming/)
+- Manga, Anime & OST
+	- [CDJapan](https://www.cdjapan.co.jp/)
+	- [Play-Asia](https://www.play-asia.com/)
+	- [Qobuz](https://www.qobuz.com/us-en/shop)
+	- [Ototoy](https://ototoy.jp/)
+	- [Mora](https://mora.jp/)
+	- [Recochoku](https://recochoku.jp/)
+	- [HMV & Books](https://www.hmv.co.jp/)
 
 ### Portals
 - [Anime News Network](https://www.animenewsnetwork.com/)
@@ -346,7 +356,6 @@ ___
 - [Crunchyroll News](https://www.crunchyroll.com/news)
 - [MAL News](https://myanimelist.net/news)
 - [Vocasphere](https://vocasphere.net/)
-
 
 ### Tools
 - [anime.plus](https://anime.plus/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/anime-plus/graph)
