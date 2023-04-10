@@ -114,3 +114,6 @@ ___
 - [Kenmei](https://www.kenmei.co/)
 - [All Manga Reader](https://www.allmangasreader.com/)
 
+### Miscellaneous
+- [Plex Anisync](https://github.com/RickDB/PlexAniSync)
+
