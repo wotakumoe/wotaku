@@ -341,13 +341,14 @@ ___
 - [Manga](https://otakulogy.github.io/manga-platform/) & [Anime streaming](https://otakulogy.github.io/anime-streaming/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/otakulogy/)
 - [Where Can I Read Manga?](https://wherecanireadmanga.com/)
 - Manga, Anime, OST & Others
-	- [CDJapan](https://www.cdjapan.co.jp/) [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Physical"]
-	- [Play-Asia](https://www.play-asia.com/)
+	- [CDJapan](https://www.cdjapan.co.jp/) [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="LN"]  [!badge variant="ghost" size="xs" text="Merch"] [!badge variant="ghost" size="xs" text="Physical"]
+	- [Play-Asia](https://www.play-asia.com/) [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Merch"] [!badge variant="ghost" size="xs" text="Physical"]
+	- [HMV & Books](https://www.hmv.co.jp/) [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Merch"] [!badge variant="ghost" size="xs" text="Physical"]
 	- [Qobuz](https://www.qobuz.com/us-en/shop) [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Digital"]
 	- [Ototoy](https://ototoy.jp/) [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Physical"]
 	- [Mora](https://mora.jp/) [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Digital"]
-	- [Recochoku](https://recochoku.jp/)
-	- [HMV & Books](https://www.hmv.co.jp/)
+	- [Recochoku](https://recochoku.jp/) [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Digital"]
+
 - Merchandise & Others
 	- [AmiAmi](https://www.amiami.com)
 	- [Rakuten](https://global.rakuten.com/en/)
