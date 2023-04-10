@@ -59,3 +59,7 @@ ___
 - [Tachisync](https://github.com/axiel7/Tachisync)
 - [Anime Manga Auto Backup](https://github.com/Animanga-Initiative/animeManga-autoBackup)
 - [viddroid desktop](https://github.com/callisto-jovy/viddroid_desktop)
+
+## For future
+- [Moriya Shrine](https://moriyashrine.org/)
+- [touhouwiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)

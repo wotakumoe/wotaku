@@ -239,6 +239,7 @@ ___
 - [Fuwanovel](https://forums.fuwanovel.net/forum/85-recommendations/)
 - [Manga Helper](https://mangahelpers.com/)
 - [Manga Piracy](https://discord.com/invite/ZgMtAyxFSU)
+- [My Figure Collection](https://myfigurecollection.net/)
 - r/ [!badge variant="ghost" text="Anime"](https://www.reddit.com/r/anime) [!badge variant="ghost" text="Manga"](https://www.reddit.com/r/manga) [!badge variant="ghost" text="Manhwa"](https://www.reddit.com/r/manhwa) [!badge variant="ghost" text="Manhua"](https://www.reddit.com/r/manhua) [!badge variant="ghost" text="LN"](https://www.reddit.com/r/LightNovels/) [!badge variant="ghost" text="VN"](https://www.reddit.com/r/visualnovels/) [!badge variant="ghost" text="Anime Piracy"](https://www.reddit.com/r/animepiracy) [!badge variant="ghost" text="Manga Piracy"](https://www.reddit.com/r/mangapiracy/) [!badge variant="ghost" text="vocaloid"](https://www.reddit.com/r/vocaloid/) [!badge variant="ghost" text="Others"](https://www.reddit.com/r/anime/wiki/related_subreddits/)
 - [Safebooru](https://safebooru.org/)
 - [Squide Board](https://www.squid-board.org/)
@@ -338,6 +339,11 @@ ___
 ===
 
 ### Legal
+
+!!!warning Read the guide
+Read [the guide](https://www.buyfags.moe/Full_guide) and make informed decisions.
+!!!
+
 - [Manga](https://otakulogy.github.io/manga-platform/) & [Anime streaming](https://otakulogy.github.io/anime-streaming/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/otakulogy/)
 - [Where Can I Read Manga?](https://wherecanireadmanga.com/)
 - Manga, Anime, OST & Others
@@ -349,11 +355,10 @@ ___
 	- [Mora](https://mora.jp/) [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Digital"]
 	- [Recochoku](https://recochoku.jp/) [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Digital"]
 - Merchandise & Others
-	- [So you want to be a buyf/a/g?](http://buyfag.moe/)
+	- [Fumo Buying guide](https://fumo.website/)
 	- [AmiAmi](https://www.amiami.com)
 	- [Rakuten](https://global.rakuten.com/en/)
 	- [Right Stuf Anime](https://www.rightstufanime.com/)
-
 
 ### Portals
 - [Anime News Network](https://www.animenewsnetwork.com/)
