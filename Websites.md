@@ -338,9 +338,8 @@ ___
 ===
 
 ### Legal
-- [Manga websites](https://otakulogy.github.io/manga-platform/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/otakulogy/)
+- [Manga](https://otakulogy.github.io/manga-platform/) & [Anime streaming](https://otakulogy.github.io/anime-streaming/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/otakulogy/)
 - [Where Can I Read Manga?](https://wherecanireadmanga.com/)
-- [Anime streaming](https://otakulogy.github.io/anime-streaming/)
 - Manga, Anime & OST
 	- [CDJapan](https://www.cdjapan.co.jp/)
 	- [Play-Asia](https://www.play-asia.com/)
@@ -349,6 +348,11 @@ ___
 	- [Mora](https://mora.jp/)
 	- [Recochoku](https://recochoku.jp/)
 	- [HMV & Books](https://www.hmv.co.jp/)
+- Merchandise & Others
+	- [AmiAmi](https://www.amiami.com
+	- [Rakuten](https://global.rakuten.com/en/
+	- [Right Stuf Anime]https://www.rightstufanime.com/
+
 
 ### Portals
 - [Anime News Network](https://www.animenewsnetwork.com/)
