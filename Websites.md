@@ -349,6 +349,7 @@ ___
 	- [Mora](https://mora.jp/) [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Digital"]
 	- [Recochoku](https://recochoku.jp/) [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Digital"]
 - Merchandise & Others
+	- [So you want to be a buyf/a/g?](http://buyfag.moe/)
 	- [AmiAmi](https://www.amiami.com)
 	- [Rakuten](https://global.rakuten.com/en/)
 	- [Right Stuf Anime](https://www.rightstufanime.com/)
