@@ -340,7 +340,7 @@ ___
 ### Legal
 - [Manga](https://otakulogy.github.io/manga-platform/) & [Anime streaming](https://otakulogy.github.io/anime-streaming/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/otakulogy/)
 - [Where Can I Read Manga?](https://wherecanireadmanga.com/)
-- Manga, Anime & OST
+- Manga, Anime, OST & Others
 	- [CDJapan](https://www.cdjapan.co.jp/)
 	- [Play-Asia](https://www.play-asia.com/)
 	- [Qobuz](https://www.qobuz.com/us-en/shop)
