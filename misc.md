@@ -29,9 +29,9 @@ ___
 - [Manga Helper](https://mangahelpers.com/)
 - [Manga Piracy](https://discord.com/invite/ZgMtAyxFSU)
 - [My Figure Collection](https://myfigurecollection.net/)
-- Subreddits [!badge variant="ghost" text="Anime"](https://www.reddit.com/r/anime) [!badge variant="ghost" text="Manga"](https://www.reddit.com/r/manga) [!badge variant="ghost" text="Manhwa"](https://www.reddit.com/r/manhwa) [!badge variant="ghost" text="Manhua"](https://www.reddit.com/r/manhua) [!badge variant="ghost" text="LN"](https://www.reddit.com/r/LightNovels/) [!badge variant="ghost" text="VN"](https://www.reddit.com/r/visualnovels/) [!badge variant="ghost" text="Anime Piracy"](https://www.reddit.com/r/animepiracy) [!badge variant="ghost" text="Manga Piracy"](https://www.reddit.com/r/mangapiracy/) [!badge variant="ghost" text="vocaloid"](https://www.reddit.com/r/vocaloid/) [!badge variant="ghost" text="Others"](https://www.reddit.com/r/anime/wiki/related_subreddits/)
 - [Safebooru](https://safebooru.org/)
 - [Squide Board](https://www.squid-board.org/)
+- Subreddits [!badge variant="ghost" text="Anime"](https://www.reddit.com/r/anime) [!badge variant="ghost" text="Manga"](https://www.reddit.com/r/manga) [!badge variant="ghost" text="Manhwa"](https://www.reddit.com/r/manhwa) [!badge variant="ghost" text="Manhua"](https://www.reddit.com/r/manhua) [!badge variant="ghost" text="LN"](https://www.reddit.com/r/LightNovels/) [!badge variant="ghost" text="VN"](https://www.reddit.com/r/visualnovels/) [!badge variant="ghost" text="Anime Piracy"](https://www.reddit.com/r/animepiracy) [!badge variant="ghost" text="Manga Piracy"](https://www.reddit.com/r/mangapiracy/) [!badge variant="ghost" text="vocaloid"](https://www.reddit.com/r/vocaloid/) [!badge variant="ghost" text="Others"](https://www.reddit.com/r/anime/wiki/related_subreddits/)
 - [TheMoeWay](https://discord.com/invite/nhqjydaR8j)
 
 ![](/static/banner/guides.png)
