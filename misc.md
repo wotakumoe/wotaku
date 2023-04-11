@@ -38,7 +38,7 @@ ___
 ## Guides
 
 !!!info Glossary
-If you want to know about the basic anime related terms, go through [this page](https://www.japanesewithanime.com/2017/01/anime-words-japanese-meanings.html). You can also find more technical terms, visit [Manga](https://www.japanesewithanime.com/2016/10/manga.html) & [Anime](https://www.japanesewithanime.com/2016/08/anime.html).
+If you want to know about the basic anime related terms, go through [this page](https://www.japanesewithanime.com/2017/01/anime-words-japanese-meanings.html). For more technical terms, visit [Manga](https://www.japanesewithanime.com/2016/10/manga.html) & [Anime](https://www.japanesewithanime.com/2016/08/anime.html).
 !!!
 
 ### Manga
