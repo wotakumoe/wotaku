@@ -4,7 +4,7 @@ order: 950
 icon: diff-added
 ---
 
-![](/static/banner/ms.png)
+![](/static/thumb/ms.png)
 
 # Misc-sites
 Websites for various purposes such as Info, guides, communities, trackers & tools are added here.
