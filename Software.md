@@ -28,6 +28,8 @@ ___
 - [Quicknovel](https://github.com/LagradOst/QuickNovel)
 - [LN Reader](https://github.com/LNReader/lnreader)
 - [ranobe](https://github.com/ranobe-org/ranobe)
+- [Lithium: EPUB Reader](https://play.google.com/store/apps/details?id=com.faultexception.reader&hl=en&gl=US)
+- [Moon+ Reader Pro](https://play.google.com/store/apps/details?id=com.flyersoft.moonreaderp&hl=en&gl=US)
 
 ![](/static/banner/pc.png)
 ## PC
