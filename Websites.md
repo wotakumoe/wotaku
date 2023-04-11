@@ -42,7 +42,7 @@ ___
 
 [!badge variant="ghost" text="R-"] Rarely uploads NSFW content.
 
-[!badge variant="success" size="xs" text="E"] Only SFW content.
+[!badge variant="success" text="E"] Only SFW content.
 
 [!badge variant="ghost" text="NR"] Haven't been rated yet.
 
