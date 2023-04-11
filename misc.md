@@ -1,15 +1,26 @@
 ---
 label: Misc-sites
 order: 950
-icon: package
+icon: diff-added
 ---
 
-![](/static/banner/misc.png)
+![](/static/banner/ms.png)
 
 # Misc-sites
+Websites for various purposes such as Info, guides, communities, trackers & tools are added here.
 ___
 
-## Community
+![](/static/banner/booru.png)
+
+## Booru
+- [Danbooru](https://danbooru.donmai.us/) [!badge variant="ghost" size="xs" text="R+"]
+- [Danbooru SFW](https://safebooru.donmai.us/) [!badge variant="ghost" size="xs" text="NR"]
+- [Gelbooru](https://gelbooru.com/) [!badge variant="ghost" size="xs" text="R+"]
+- [Safebooru](https://safebooru.org/) [!badge variant="ghost" size="xs" text="NR"]
+- [Zerochan](https://www.zerochan.net/) [!badge variant="ghost" size="xs" text="R"]
+
+![](/static/banner/comms.png)
+## Communities
 - [Animesuki](https://forums.animesuki.com/)
 - [Doujin Cafe](https://discord.gg/doujincafe)
 - [Fuwanovel](https://forums.fuwanovel.net/forum/85-recommendations/)
@@ -21,7 +32,7 @@ ___
 - [Squide Board](https://www.squid-board.org/)
 - [TheMoeWay](https://discord.com/invite/nhqjydaR8j)
 
-
+![](/static/banner/guides.png)
 ## Guides
 
 ### Manga
@@ -66,6 +77,7 @@ ___
 - [Network Stream](/ns.md)
 ===
 
+![](/static/banner/info.png)
 ## Info
 
 ### Manga
@@ -116,7 +128,7 @@ ___
 - [VGMDB](https://vgmdb.net/)
 ===
 
-
+![](/static/banner/portals.png)
 ## Portals
 - [Anime News Network](https://www.animenewsnetwork.com/)
 - [Anitrendz](https://anitrendz.com/)
@@ -124,20 +136,30 @@ ___
 - [MAL News](https://myanimelist.net/news)
 - [Vocasphere](https://vocasphere.net/)
 
+
+![](/static/banner/tools.png)
 ## Tools
+
+### Analysis
 - [anime.plus](https://anime.plus/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/anime-plus/graph)
-- [Imgtrans](https://touhou.ai/imgtrans/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/zyddnys/manga-image-translator)
-- [MAL/AL/K/AP lists XML Exporter](https://malscraper.azurewebsites.net/)
+- [Sekai](https://sekai.rl404.com/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/rl404/sekai)
+
+### Image search
 - [SauceKudasai](https://saucekudasai.com/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/ayushgptaa/SauceKudasai)
 - [SauceNAO](https://saucenao.com/)
-- [Sekai](https://sekai.rl404.com/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/rl404/sekai)
 - [Trace](https://trace.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/soruly/trace.moe) [!badge variant="ghost" icon="paper-airplane" text="TG Bot"](https://github.com/soruly/trace.moe-telegram-bot)
-- [Trakt to MAL](https://anitrakt.huere.net/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/ryuuganime/aniTrakt-IndexParser)
 
-## Trackers
+### Trackers
 - [Anilist](https://anilist.co/)
 - [Anime-Planet](https://www.anime-planet.com/)
 - [MyAnimeList](https://myanimelist.net/)
 - [Kitsu](https://kitsu.io/)
 - [Mangaupdates](https://www.mangaupdates.com/)
 - [Novel updates](https://www.novelupdates.com/)
+
+### Others
+- [Imgtrans](https://touhou.ai/imgtrans/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/zyddnys/manga-image-translator)
+- [MAL/AL/K/AP lists XML Exporter](https://malscraper.azurewebsites.net/)
+- [Trakt to MAL](https://anitrakt.huere.net/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/ryuuganime/aniTrakt-IndexParser)
+
+

@@ -228,7 +228,7 @@ ___
 - [MP4 Directs](https://mp4directs.com/)
 
 
-
+![](/static/banner/legal.png)
 ## Legal
 
 !!!warning Read the guide
