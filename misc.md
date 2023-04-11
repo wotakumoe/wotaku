@@ -14,9 +14,11 @@ ___
 
 ## Booru
 - [Danbooru](https://danbooru.donmai.us/) [!badge variant="ghost" size="xs" text="R+"]
-- [Danbooru SFW](https://safebooru.donmai.us/) [!badge variant="ghost" size="xs" text="NR"]
+- [Danbooru SFW](https://safebooru.donmai.us/) [!badge variant="success" size="xs" text="E"]
 - [Gelbooru](https://gelbooru.com/) [!badge variant="ghost" size="xs" text="R+"]
-- [Safebooru](https://safebooru.org/) [!badge variant="ghost" size="xs" text="NR"]
+- [Kona chan](https://konachan.com/)
+- [Safebooru](https://safebooru.org/) [!badge variant="success" size="xs" text="E"]
+- [Yandre](https://yande.re/post) [!badge variant="ghost" size="xs" text="R+"]
 - [Zerochan](https://www.zerochan.net/) [!badge variant="ghost" size="xs" text="R"]
 
 ![](/static/banner/comms.png)
