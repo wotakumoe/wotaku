@@ -239,6 +239,7 @@ Read [the guide](https://www.buyfags.moe/Full_guide) and make informed decisions
 
 - [Manga](https://otakulogy.github.io/manga-platform/) & [Anime streaming](https://otakulogy.github.io/anime-streaming/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/otakulogy/)
 - [Where Can I Read Manga?](https://wherecanireadmanga.com/)
+- [r/Anime's list](https://www.reddit.com/r/anime/wiki/Legal%20Streams)
 - Manga, Anime, OST & Others
 	- [CDJapan](https://www.cdjapan.co.jp/) [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="LN"]  [!badge variant="ghost" size="xs" text="Merch"] [!badge variant="ghost" size="xs" text="Physical"]
 	- [Play-Asia](https://www.play-asia.com/) [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Merch"] [!badge variant="ghost" size="xs" text="Physical"]

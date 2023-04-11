@@ -120,3 +120,8 @@ ___
 ### Light Novel
 - [Light novel Crawler](https://github.com/dipu-bd/lightnovel-crawler)
 - [Novel Grabber](https://github.com/Flameish/Novel-Grabber)
+
+### Booru
+- [gallery-dl](https://github.com/mikf/gallery-dl)
+- [hydrus network](https://hydrusnetwork.github.io/hydrus/)
+- [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/)

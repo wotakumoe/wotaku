@@ -80,9 +80,6 @@ ___
 
 - [Anime4K](https://github.com/bloc97/Anime4K)
 - [Anitomy](https://github.com/erengy/anitomy)
-- [gallery-dl](https://github.com/mikf/gallery-dl)
-- [hydrus network](https://hydrusnetwork.github.io/hydrus/)
-- [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/)
 - [Mikutap](https://aidn.jp/mikutap/)
 - [Shoko Anime](https://github.com/shokoanime) [!badge variant="ghost" icon="globe" text="Web"](https://shokoanime.com/)
 - [Waifu2x](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)

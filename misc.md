@@ -37,14 +37,15 @@ ___
 ![](/static/banner/guides.png)
 ## Guides
 
+!!!info Glossary
+If you want to know about the basic anime related terms, go through [this page](https://www.japanesewithanime.com/2017/01/anime-words-japanese-meanings.html). You can also find more technical terms, visit [Manga](https://www.japanesewithanime.com/2016/10/manga.html) & [Anime](https://www.japanesewithanime.com/2016/08/anime.html).
+!!!
+
 ### Manga
-- [Japanese with anime](https://www.japanesewithanime.com/2016/10/manga.html)
-- [Manga & anime glossary](https://www.japanesewithanime.com/2017/01/anime-words-japanese-meanings.html)
 - [Mangadex highest rated](https://mangadex.org/titles?page=1&originLang=ja&translatedLang=en&order=rating.desc)
 - [ANN manga ratings](https://www.animenewsnetwork.com/encyclopedia/ratings-manga.php)
 
 ### Anime
-- [Japanese with anime](https://www.japanesewithanime.com/2016/08/anime.html)
 - [ANN top 100](https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=popular&n=100)
 - [Anime video tags](https://thewiki.moe/guides/quality/)
 
