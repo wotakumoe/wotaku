@@ -1,6 +1,6 @@
 ---
 label: Add-ons
-order: 998
+order: 850
 icon: plug
 ---
 
