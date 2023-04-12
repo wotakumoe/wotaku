@@ -244,7 +244,7 @@ ___
 ## Legal
 ___
 
-!!!warning Read the guide
+!!!warning Don't be impulsive.
 Read [the guide](https://www.buyfags.moe/Full_guide) and make informed decisions.
 !!!
 
@@ -261,7 +261,11 @@ Read [the guide](https://www.buyfags.moe/Full_guide) and make informed decisions
 	- [Mora](https://mora.jp/) [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Digital"]
 	- [Recochoku](https://recochoku.jp/) [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Digital"]
 - Merchandise & Others
+	- [Buyfrag Store Digest](https://docs.google.com/document/u/0/d/1W4fAKQzCOhiWK6mJ_tvkZHIfzfzBZN57oGSaVB47TCQ/pub)
 	- [Fumo Buying guide](https://fumo.website/)
 	- [AmiAmi](https://www.amiami.com)
 	- [Rakuten](https://global.rakuten.com/en/)
 	- [Right Stuf Anime](https://www.rightstufanime.com/)
+* Tracker
+	- [Buy finder](https://buyfinder.moe/)
+	- [Buy Friend](https://buyfriend.moe/)
