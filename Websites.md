@@ -229,9 +229,20 @@ ___
 - [Literature Index](https://literature.td-index.workers.dev/0:/Light%20Novel/)
 - [MP4 Directs](https://mp4directs.com/)
 
+![](/static/banner/vn.png)
+## Visual Novels
+___
+
+- [nyaa](https://nyaa.si/) [!badge variant="ghost" size="xs" text="R+"]
+- [ryuu games](https://www.ryuugames.com/tag/japanese/) [!badge variant="ghost" size="xs" text="R+"]
+- [ryuu blogger](https://ryuubloggerv2.blogspot.com/) [!badge variant="ghost" size="xs" text="R+"]
+- [Crane Anime](https://docs.google.com/spreadsheets/d/1ECqqhEm2kDS0hgxZ0tD_73e04v5FUxQGkfCbfi0Kb9k/pubhtml#) [!badge variant="ghost" size="xs" text="R+"]
+- [Anime-sharing](http://www.anime-sharing.com/forum/) [!badge variant="ghost" size="xs" text="R+"]
+
 
 ![](/static/banner/legal.png)
 ## Legal
+___
 
 !!!warning Read the guide
 Read [the guide](https://www.buyfags.moe/Full_guide) and make informed decisions.
@@ -240,6 +251,7 @@ Read [the guide](https://www.buyfags.moe/Full_guide) and make informed decisions
 - [Manga](https://otakulogy.github.io/manga-platform/) & [Anime streaming](https://otakulogy.github.io/anime-streaming/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/otakulogy/)
 - [Where Can I Read Manga?](https://wherecanireadmanga.com/)
 - [r/Anime's list](https://www.reddit.com/r/anime/wiki/Legal%20Streams)
+- [Buying visual novels](https://reddit.com/r/visualnovels/wiki/buy)
 - Manga, Anime, OST & Others
 	- [CDJapan](https://www.cdjapan.co.jp/) [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="LN"]  [!badge variant="ghost" size="xs" text="Merch"] [!badge variant="ghost" size="xs" text="Physical"]
 	- [Play-Asia](https://www.play-asia.com/) [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Merch"] [!badge variant="ghost" size="xs" text="Physical"]

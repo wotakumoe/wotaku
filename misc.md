@@ -50,17 +50,22 @@ If you want to know about the basic anime related terms, go through [this page](
 - [Anime video tags](https://thewiki.moe/guides/quality/)
 
 ### Light Novels
-- [r/Lightnovels' guide](https://www.reddit.com/r/LightNovels/wiki/faq/)
+- [r/Lightnovels' guide](https://www.reddit.com/r/visualnovels/wiki/links/#wiki_guides)
+- [r/Lightnovels' faq](https://www.reddit.com/r/LightNovels/wiki/faq/)
 - [Japanese with anime](https://www.japanesewithanime.com/2016/10/light-novel.html)
 
 ### Visual Novels
-- [Visual Novel Guide by MoeWay](https://learnjapanese.moe/vn/) [!badge variant="ghost" text="Resources"](https://learnjapanese.moe/resources/#visual-novels-and-games)
-- [r/Visualnovels' links](https://www.reddit.com/r/visualnovels/wiki/links/)
+=== Guides
+- [Terminology](https://visual-novels-general.fandom.com/wiki/Japanese_Terminology)
+- [Visual Novel Guide by MoeWay](https://learnjapanese.moe/vn/)
+- [VNDB top rated](https://vndb.org/v?f=022gja3gja&s=34w)
+=== Recommendations
+- [Starter pack](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub)
+- [VN-chart by difficulty](https://anacreondjt.gitlab.io/vn-chart/)
 - [r/Visualnovels' recommendation](https://sites.google.com/view/rvisualnovels-recs/home)
 - [r/VN's 2018 recommendations](https://vnrecs.github.io/)
 - [What are you reading?](https://some-guy.org/vnswayrarchive/recommendations)
-- [Fuwanovel's recommendations](https://forums.fuwanovel.net/forum/85-recommendations/)
-- [Buying visual novels](https://reddit.com/r/visualnovels/wiki/buy)
+===
 
 ### Miscellaneous
 === Japanese learning guide
@@ -125,6 +130,7 @@ If you want to know about the basic anime related terms, go through [this page](
 === Visual Novels
 - [The Visual Novel Database](https://vndb.org/)
 - [VNStat](https://vnstat.net/)
+- [r/Visualnovels' links](https://www.reddit.com/r/visualnovels/wiki/links/)
 === More
 - [Anilinks](https://anilinks.neocities.org/)
 - [AnimeCons](https://animecons.com/)
