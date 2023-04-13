@@ -22,11 +22,11 @@ ___
 - [Mangadex](https://mangadex.org/) [!badge variant="ghost" size="xs" text="R+"]
 - [Comick](https://comick.app/home) [!badge variant="ghost" size="xs" text="R"]
 - [Mangapark](https://mangapark.net/) [!badge variant="ghost" size="xs" text="R+"]
+- [Cubari Proxy](https://proxy.cubari.moe/) [!badge variant="ghost" size="xs" text="R+"]
+- [Mangalife](https://manga4life.com/) | [Mangasee](https://mangasee123.com/) [!badge variant="ghost" text="R"]
 - [Manga Katana](https://mangakatana.com/) [!badge variant="ghost" size="xs" text="R+"]
 - [Manga Fire](https://mangafire.to/home) [!badge variant="ghost" size="xs" text="R-"]
 - [Manga Reader](https://mangareader.to/home) [!badge variant="ghost" size="xs" text="R-"]
-- [Cubari Proxy](https://proxy.cubari.moe/) [!badge variant="ghost" size="xs" text="R+"]
-- [Mangalife](https://manga4life.com/) | [Mangasee](https://mangasee123.com/) [!badge variant="ghost" text="R"]
 - [Mangahasu](https://mangahasu.se/) [!badge variant="ghost" size="xs" text="R+"]
 - [Manga Buddy](https://mangabuddy.com/) [!badge variant="ghost" size="xs" text="R"]
 - [Mangacultivator](https://mangacultivator.com) [!badge variant="success" size="xs" text="E"]
@@ -266,6 +266,6 @@ Read [the guide](https://www.buyfags.moe/Full_guide) and make informed decisions
 	- [AmiAmi](https://www.amiami.com)
 	- [Rakuten](https://global.rakuten.com/en/)
 	- [Right Stuf Anime](https://www.rightstufanime.com/)
-* Tracker
+- Tracker
 	- [Buy finder](https://buyfinder.moe/)
 	- [Buy Friend](https://buyfriend.moe/)

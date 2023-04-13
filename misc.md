@@ -43,7 +43,7 @@ If you want to know about the basic anime related terms, go through [this page](
 
 ### Manga
 - [Mangadex highest rated](https://mangadex.org/titles?page=1&originLang=ja&translatedLang=en&order=rating.desc)
-- [ANN manga ratings](https://www.animenewsnetwork.com/encyclopedia/ratings-manga.php)
+- [ANN top 100](https://www.animenewsnetwork.com/encyclopedia/ratings-manga.php?top50=best_bayesian&n=100)
 
 ### Anime
 - [ANN top 100](https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=popular&n=100)
