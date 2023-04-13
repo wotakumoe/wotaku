@@ -1,6 +1,7 @@
 ---
 label: Glossary
-order: 100
+order: 400
+icon: repo
 ---
 
 WIP
