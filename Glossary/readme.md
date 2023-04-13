@@ -1,4 +1,5 @@
 ---
+icon: repo
 order: 100
 ---
 
