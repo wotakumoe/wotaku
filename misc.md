@@ -56,7 +56,9 @@ If you want to know about the basic anime related terms, go through [this page](
 
 ### Visual Novels
 === Guides
-- [Terminology](https://visual-novels-general.fandom.com/wiki/Japanese_Terminology)
+- [JP LN Terminology](https://visual-novels-general.fandom.com/wiki/Japanese_Terminology)
+- [CN LN Glossary](https://immortalmountain.wordpress.com/glossary/)
+- [Chinese Webnovel Categories](https://immortalmountain.wordpress.com/articles/chinese-webnovel-categories/)
 - [Visual Novel Guide by MoeWay](https://learnjapanese.moe/vn/)
 - [VNDB top rated](https://vndb.org/v?f=022gja3gja&s=34w)
 === Recommendations

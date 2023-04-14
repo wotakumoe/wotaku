@@ -22,6 +22,7 @@ ___
 
 ### Miscellaneous
 - [Tankobon](https://tankobon.net/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/crxssed7/tankobon)
+- [Next Anime](https://github.com/AsuxAX/NextAnime)
 
 ![](/static/banner/software.png)
 ## Software
@@ -59,7 +60,7 @@ ___
 
 ### iOS
 === Manga
-- [Hanami](https://github.com/oolxg/Hanami)
+*None*
 === Anime
 - [SaikouS](https://github.com/5H4D0WILA/SaikouS)
 === Miscellaneous

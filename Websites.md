@@ -102,6 +102,8 @@ ___
 - [AniDL](https://anidl.org/manga/)
 - [mp4directs](https://mp4directs.com/)
 - [jnovels](https://jnovels.com/manga-cbz-cbr-pdfs-download101/)
+- [ZLibrary](https://singlelogin.me/)
+- [Anna's Archive](https://annas-archive.org/)
 
 ![](/static/banner/anime.png)
 
@@ -111,7 +113,7 @@ ___
 ### Stream
 
 === Uploader
-- [AllAnime](https://allanime.to/) + [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="gogo"]
+- [AllAnime](https://allanime.to/anime) + [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="gogo"]
 - [KickAssAnime](https://www2.kickassanime.ro/) + [!badge variant="ghost" size="xs" text="crunchy"]
 - [Marin](https://marin.moe/)
 - [Zoro](https://zoro.to/home)
