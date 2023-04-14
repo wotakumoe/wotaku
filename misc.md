@@ -40,7 +40,7 @@ ___
 ## Guides
 
 !!!info Glossary
-- [General otakku terms](https://www.japanesewithanime.com/2017/01/anime-words-japanese-meanings.html)
+- [General otaku terms](https://www.japanesewithanime.com/2017/01/anime-words-japanese-meanings.html)
 - [Manga](https://www.japanesewithanime.com/2016/10/manga.html)
 - [Anime](https://www.japanesewithanime.com/2016/08/anime.html)
 - [Chinese Light Novels Glossary](https://immortalmountain.wordpress.com/glossary/)
