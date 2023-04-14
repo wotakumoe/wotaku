@@ -23,8 +23,9 @@ ___
 
 ![](/static/banner/comms.png)
 ## Communities
-- [Anime Music Videos](https://www.animemusicvideos.org/)
+
 - [Animesuki](https://forums.animesuki.com/)
+- [Anime Music Videos](https://www.animemusicvideos.org/)
 - [Doujin Cafe](https://discord.gg/doujincafe)
 - [Fuwanovel](https://forums.fuwanovel.net/forum/85-recommendations/)
 - [Manga Helper](https://mangahelpers.com/)
