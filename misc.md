@@ -18,11 +18,12 @@ ___
 - [Gelbooru](https://gelbooru.com/) [!badge variant="ghost" size="xs" text="R+"]
 - [Kona chan](https://konachan.com/) [!badge variant="ghost" size="xs" text="R+"]
 - [Safebooru](https://safebooru.org/) [!badge variant="success" size="xs" text="E"]
-- [Yandre](https://yande.re/post) [!badge variant="ghost" size="xs" text="R+"]
+- [Yandere](https://yande.re/post) [!badge variant="ghost" size="xs" text="R+"]
 - [Zerochan](https://www.zerochan.net/) [!badge variant="ghost" size="xs" text="R"]
 
 ![](/static/banner/comms.png)
 ## Communities
+- [Anime Music Videos](https://www.animemusicvideos.org/)
 - [Animesuki](https://forums.animesuki.com/)
 - [Doujin Cafe](https://discord.gg/doujincafe)
 - [Fuwanovel](https://forums.fuwanovel.net/forum/85-recommendations/)

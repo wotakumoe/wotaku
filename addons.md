@@ -46,12 +46,15 @@ ___
 - [Similar Manga](https://github.com/similar-manga/similar) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg)
 - Substital [!badge variant="ghost" icon="globe" text="Web"](https://substital.com/) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/substital/)
 
+
+
 ![](/static/banner/script.png)
 
 ## Scripts
 ___
 
 - 9anime Bingewatcher+ [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher)
+- zoro Bingewatcher+ [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/464019-zoro-bingewatcher)
 - [Anime Website Buttons Plus](https://github.com/Deatthwing/anime-website-buttons-plus) [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/398046-anime-website-custom-buttons-plus)
 - [Anifilters](https://github.com/Karmesinrot/Anifiltrs)
 - [AniList Unlimited](https://github.com/mysticflute/ani-list-unlimited) [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/404465-anilist-unlimited-score-in-header)
@@ -73,6 +76,8 @@ ___
 Active maintenance is necessary for scripts to work properly. If a script fails, try reinstalling it; otherwise, wait for a fix to be released. Install [**Violentmonkey**](https://violentmonkey.github.io/) or [**Tampermonkey**](https://www.tampermonkey.net/) to use scripts.
 !!!
 
+
+
 ![](/static/banner/tools.png)
 
 ## Tools
@@ -83,6 +88,8 @@ ___
 - [Mikutap](https://aidn.jp/mikutap/)
 - [Shoko Anime](https://github.com/shokoanime) [!badge variant="ghost" icon="globe" text="Web"](https://shokoanime.com/)
 - [Waifu2x](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
+
+
 
 ![](/static/banner/trackers.png)
 
