@@ -145,8 +145,9 @@ ___
 
 ![](/static/banner/portals.png)
 ## Portals
+- [Anitrendz](https://anitrendz.net/news/)
 - [Anime News Network](https://www.animenewsnetwork.com/)
-- [Anitrendz](https://anitrendz.com/)
+- [Anime Senpai](https://www.animesenpai.net/)
 - [Crunchyroll News](https://www.crunchyroll.com/news)
 - [MAL News](https://myanimelist.net/news)
 - [Vocasphere](https://vocasphere.net/)
