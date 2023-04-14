@@ -40,7 +40,11 @@ ___
 ## Guides
 
 !!!info Glossary
-If you want to know about the basic anime related terms, go through [this page](https://www.japanesewithanime.com/2017/01/anime-words-japanese-meanings.html). For more technical terms, visit [Manga](https://www.japanesewithanime.com/2016/10/manga.html) & [Anime](https://www.japanesewithanime.com/2016/08/anime.html).
+- [General otakku terms](https://www.japanesewithanime.com/2017/01/anime-words-japanese-meanings.html)
+- [Manga](https://www.japanesewithanime.com/2016/10/manga.html)
+- [Anime](https://www.japanesewithanime.com/2016/08/anime.html)
+- [Chinese Light Novels Glossary](https://immortalmountain.wordpress.com/glossary/)
+- [Japanese Visual Novels Terminology](https://visual-novels-general.fandom.com/wiki/Japanese_Terminology)
 !!!
 
 ### Manga
@@ -55,12 +59,10 @@ If you want to know about the basic anime related terms, go through [this page](
 - [r/Lightnovels' guide](https://www.reddit.com/r/visualnovels/wiki/links/#wiki_guides)
 - [r/Lightnovels' faq](https://www.reddit.com/r/LightNovels/wiki/faq/)
 - [Japanese with anime](https://www.japanesewithanime.com/2016/10/light-novel.html)
-- [Chinese Light Novels Glossary](https://immortalmountain.wordpress.com/glossary/)
 - [Chinese Webnovel Categories](https://immortalmountain.wordpress.com/articles/chinese-webnovel-categories/)
 
 ### Visual Novels
 === Guides
-- [Japanese Visual Novels Terminology](https://visual-novels-general.fandom.com/wiki/Japanese_Terminology)
 - [Visual Novel Guide by MoeWay](https://learnjapanese.moe/vn/)
 - [VNDB top rated](https://vndb.org/v?f=022gja3gja&s=34w)
 === Recommendations
