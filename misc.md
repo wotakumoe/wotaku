@@ -31,7 +31,6 @@ ___
 - [Manga Helper](https://mangahelpers.com/)
 - [Manga Piracy](https://discord.com/invite/ZgMtAyxFSU)
 - [My Figure Collection](https://myfigurecollection.net/)
-- [Safebooru](https://safebooru.org/)
 - [Squide Board](https://www.squid-board.org/)
 - Subreddits [!badge variant="ghost" text="Anime"](https://www.reddit.com/r/anime) [!badge variant="ghost" text="Manga"](https://www.reddit.com/r/manga) [!badge variant="ghost" text="Manhwa"](https://www.reddit.com/r/manhwa) [!badge variant="ghost" text="Manhua"](https://www.reddit.com/r/manhua) [!badge variant="ghost" text="LN"](https://www.reddit.com/r/LightNovels/) [!badge variant="ghost" text="VN"](https://www.reddit.com/r/visualnovels/) [!badge variant="ghost" text="Anime Piracy"](https://www.reddit.com/r/animepiracy) [!badge variant="ghost" text="Manga Piracy"](https://www.reddit.com/r/mangapiracy/) [!badge variant="ghost" text="vocaloid"](https://www.reddit.com/r/vocaloid/) [!badge variant="ghost" text="Others"](https://www.reddit.com/r/anime/wiki/related_subreddits/)
 - [TheMoeWay](https://discord.com/invite/nhqjydaR8j)
@@ -157,8 +156,8 @@ ___
 ## Tools
 
 ### Analysis
-- [anime.plus](https://anime.plus/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/anime-plus/graph)
-- [Sekai](https://sekai.rl404.com/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/rl404/sekai)
+- [anime.plus](https://anime.plus/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/anime-plus/graph)  [!badge variant="ghost" size="xs" text="MAL"]
+- [Sekai](https://sekai.rl404.com/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/rl404/sekai)  [!badge variant="ghost" size="xs" text="MAL"]
 
 ### Image search
 - [SauceKudasai](https://saucekudasai.com/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/ayushgptaa/SauceKudasai)

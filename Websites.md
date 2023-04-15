@@ -120,6 +120,9 @@ ___
 - [9anime](https://9anime.gs/home)
 - [Animepahe](https://animepahe.com/)
 - [Animension](https://animension.to/) + [!badge variant="ghost" size="xs" text="gogo"]
+- [Muse Asia](https://www.youtube.com/@MuseAsia/) [!badge variant="ghost" text="Country specific"](https://www.youtube.com/@MuseAsia/channels) [!badge variant="ghost" size="xs" text="Regional"] [!badge variant="ghost" size="xs" text="legal"]
+- [Ani-One Aisa](https://www.youtube.com/AniOneAsia/) [!badge variant="ghost" size="xs" text="Regional"] [!badge variant="ghost" size="xs" text="legal"]
+
 === Scraper
 - [Kaguya](https://kaguya.app) [!badge variant="ghost" size="xs" text="9anime"] [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="bili"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="marin"] [!badge variant="ghost" size="xs" text="zoro"]
 - [Enime](https://enime.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/Enime-Project) [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="zoro"]
@@ -163,16 +166,12 @@ ___
 
 ### Torrents
 
-- [ACG.RIP](https://acg.rip/)
-- [Anidex](https://anidex.info/)
+- [Nyaa](https://nyaa.si/) [!badge variant="ghost" text="Proxy 1"](https://nyaa.iss.one/)  [!badge variant="ghost" text="Proxy 2"](https://nyaa.iss.ink/)
 - [Animek](https://animek.fun/)
 - [Anime Tosho](https://animetosho.org/)
+- [Anidex](https://anidex.info/)
 - [Anirena](https://www.anirena.com/)
-- [Erai-raws](https://www.erai-raws.info/)
-- [Nyaa](https://nyaa.si/)
-- [Subsplease](https://subsplease.org/)
-- [Shana Project](https://www.shanaproject.com/)
-- [Tokyo tosho](https://www.tokyotosho.info/)
+- [Shana Project](https://www.shanaproject.com/) | [Tokyo tosho](https://www.tokyotosho.info/)
 
 
 ![](/static/banner/ost.png)
@@ -195,8 +194,6 @@ ___
 - [Sakura OST](https://www.sakuraost.com/) [!badge variant="ghost" size="xs" text="Host"]
 - [JPFiles](https://jpfiles.eu/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Host"]
 - [JPLearner](http://www.jplearner.to/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Host"]
-
-
 
 
 ### Doujin
@@ -223,7 +220,8 @@ ___
 - [Ranobes](https://ranobes.net/)
 - [Read Light Novel](https://www.readlightnovel.me/)
 - [Read Novel Full](https://readnovelfull.com/)
-- [Royal Load](https://www.royalroad.com/home)
+- [Royal Road](https://www.royalroad.com/home)
+
 
 ### DDL
 - [Just Light Novels](https://www.justlightnovels.com/)
