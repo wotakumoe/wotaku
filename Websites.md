@@ -19,19 +19,19 @@ ___
 
 ### Aggregator
 
-- [Mangadex](https://mangadex.org/) [!badge variant="ghost" size="xs" text="R+"]
+- [Mangadex](https://mangadex.org/) [!badge variant="danger" size="xs" text="R+"]
 - [Comick](https://comick.app/home) [!badge variant="ghost" size="xs" text="R"]
-- [Mangapark](https://mangapark.net/) [!badge variant="ghost" size="xs" text="R+"]
-- [Cubari Proxy](https://proxy.cubari.moe/) [!badge variant="ghost" size="xs" text="R+"]
+- [Mangapark](https://mangapark.net/) [!badge variant="danger" size="xs" text="R+"]
+- [Cubari Proxy](https://proxy.cubari.moe/) [!badge variant="danger" size="xs" text="R+"]
 - [Mangalife](https://manga4life.com/) | [Mangasee](https://mangasee123.com/) [!badge variant="ghost" text="R"]
-- [Manga Katana](https://mangakatana.com/) [!badge variant="ghost" size="xs" text="R+"]
+- [Manga Katana](https://mangakatana.com/) [!badge variant="danger" size="xs" text="R+"]
 - [Manga Fire](https://mangafire.to/home) [!badge variant="ghost" size="xs" text="R-"]
 - [Manga Reader](https://mangareader.to/home) [!badge variant="ghost" size="xs" text="R-"]
-- [Batoto](https://battwo.com/v3x) [!badge variant="ghost" size="xs" text="R+"]
-- [Mangahasu](https://mangahasu.se/) [!badge variant="ghost" size="xs" text="R+"]
+- [Batoto](https://battwo.com/v3x) [!badge variant="danger" size="xs" text="R+"]
+- [Mangahasu](https://mangahasu.se/) [!badge variant="danger" size="xs" text="R+"]
 - [Manga Buddy](https://mangabuddy.com/) [!badge variant="ghost" size="xs" text="R"]
 - [Mangacultivator](https://mangacultivator.com) [!badge variant="success" size="xs" text="E"]
-- [1st Kiss Manga](https://1stkissmanga.me/) [!badge variant="ghost" text="R-"]
+- [1st Kiss Manga](https://1stkissmanga.me/) [!badge variant="ghost" size="xs" text="R-"]
 - [Manganato](https://chapmanganato.com/nato) [!badge variant="ghost" size="xs" text="R"]
 - [Manga Here](https://www.mangahere.cc/) | [Manga Fox](https://fanfox.net/) [!badge variant="ghost" size="xs" text="R-"]
 
@@ -235,11 +235,11 @@ ___
 ## Visual Novels
 ___
 
-- [nyaa](https://nyaa.si/) [!badge variant="ghost" size="xs" text="R+"]
-- [ryuu games](https://www.ryuugames.com/tag/japanese/) [!badge variant="ghost" size="xs" text="R+"]
-- [ryuu blogger](https://ryuubloggerv2.blogspot.com/) [!badge variant="ghost" size="xs" text="R+"]
-- [Crane Anime](https://docs.google.com/spreadsheets/d/1ECqqhEm2kDS0hgxZ0tD_73e04v5FUxQGkfCbfi0Kb9k/pubhtml#) [!badge variant="ghost" size="xs" text="R+"]
-- [Anime-sharing](http://www.anime-sharing.com/forum/) [!badge variant="ghost" size="xs" text="R+"]
+- [nyaa](https://nyaa.si/) [!badge variant="danger" size="xs" text="R+"]
+- [ryuu games](https://www.ryuugames.com/tag/japanese/) [!badge variant="danger" size="xs" text="R+"]
+- [ryuu blogger](https://ryuubloggerv2.blogspot.com/) [!badge variant="danger" size="xs" text="R+"]
+- [Crane Anime](https://docs.google.com/spreadsheets/d/1ECqqhEm2kDS0hgxZ0tD_73e04v5FUxQGkfCbfi0Kb9k/pubhtml#) [!badge variant="danger" size="xs" text="R+"]
+- [Anime-sharing](http://www.anime-sharing.com/forum/) [!badge variant="danger" size="xs" text="R+"]
 
 
 ![](/static/banner/legal.png)
