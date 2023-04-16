@@ -70,11 +70,13 @@ ___
 
 ### Miscellaneous 
 - [Alex's Raw Downloader](https://raws.alexeliot.xyz/)  [!badge variant="ghost" size="xs" text="Free chapters only"]
+- [Bubble Blaster](https://github.com/Aeonss/BubbleBlaster)
 - [Manga downloader](https://github.com/xuzhengyi1995/Manga_downloader)
 - [Panel Cleaner](https://github.com/VoxelCubes/PanelCleaner)
 - [ScanFolders](https://github.com/Fris44/ScanFolders)
 
 ### OCR
+- [Ballons Translator](https://github.com/dmMaze/BallonsTranslator)
 - [Capture2text](https://capture2text.sourceforge.net/)
 - [Imagetrans](https://www.basiccat.org/imagetrans/)
 - [Kanji tomo](https://www.kanjitomo.net/)

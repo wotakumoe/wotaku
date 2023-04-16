@@ -13,6 +13,7 @@ ___
 ![](/static/banner/booru.png)
 
 ## Booru
+___
 - [Danbooru](https://danbooru.donmai.us/) [!badge variant="ghost" size="xs" text="R+"]
 - [Danbooru SFW](https://safebooru.donmai.us/) [!badge variant="success" size="xs" text="E"]
 - [Gelbooru](https://gelbooru.com/) [!badge variant="ghost" size="xs" text="R+"]
@@ -23,6 +24,7 @@ ___
 
 ![](/static/banner/comms.png)
 ## Communities
+___
 
 ### Forum
 - [Animesuki](https://forums.animesuki.com/)
@@ -35,12 +37,12 @@ ___
 ### Discord server
 - [Doujin Cafe](https://discord.gg/doujincafe)
 - [Mangadex](https://discord.com/invite/mangadex)
-- [Manga Groups Portal](https://discord.gg/9KGMzP2)
 - [Manga Piracy](https://discord.com/invite/ZgMtAyxFSU)
 - [r/Anime](https://discord.gg/r-anime)
 - [r/Manga](https://discord.com/invite/manga)
 - [Scanner Usage School Server](https://discord.com/invite/NCzxVB9)
 - [Snacbox](https://discord.com/invite/snackbox)
+- [Tachiyomi](https://discord.com/invite/tachiyomi)
 - [TheMoeWay](https://discord.com/invite/nhqjydaR8j)
 
 ### Subreddit
@@ -55,14 +57,15 @@ ___
 
 ![](/static/banner/guides.png)
 ## Guides
+___
 
-!!!info Glossary
+=== Glossary
 - [General otaku terms](https://www.japanesewithanime.com/2017/01/anime-words-japanese-meanings.html)
 - [Manga](https://www.japanesewithanime.com/2016/10/manga.html)
 - [Anime](https://www.japanesewithanime.com/2016/08/anime.html)
 - [Chinese Light Novels Glossary](https://immortalmountain.wordpress.com/glossary/)
-- [Japanese Visual Novels Terminology](https://visual-novels-general.fandom.com/wiki/Japanese_Terminology)
-!!!
+- [Japanese Visual Novels Terminology](https://visual-novels-general.fandom.com/wiki/Japanese_Terminology), [!badge variant="ghost" text="2"](https://sweetmonia.com/The-Lost-Konpeitos/a-guide-for-visual-novel-terms-genres-charage-moege-plotege-chuunige-ichaicha-kamige-kusoge-nakige-utsuge-eroge-nukige-lolige/)
+===
 
 ### Manga
 - [Mangadex highest rated](https://mangadex.org/titles?page=1&originLang=ja&translatedLang=en&order=rating.desc)
@@ -110,6 +113,7 @@ ___
 
 ![](/static/banner/info.png)
 ## Info
+___
 
 ### Manga
 - [Mangaupdates](https://www.mangaupdates.com/)
@@ -162,6 +166,8 @@ ___
 
 ![](/static/banner/portals.png)
 ## Portals
+____
+
 - [Anitrendz](https://anitrendz.net/news/)
 - [Anime News Network](https://www.animenewsnetwork.com/)
 - [Anime Senpai](https://www.animesenpai.net/)
@@ -172,7 +178,7 @@ ___
 
 ![](/static/banner/tools.png)
 ## Tools
-
+___
 ### Analysis
 - [anime.plus](https://anime.plus/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/anime-plus/graph)  [!badge variant="ghost" size="xs" text="MAL"]
 - [Sekai](https://sekai.rl404.com/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/rl404/sekai)  [!badge variant="ghost" size="xs" text="MAL"]

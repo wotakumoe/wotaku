@@ -53,25 +53,38 @@ ___
 ## Scripts
 ___
 
+### Anime
 - 9anime Bingewatcher+ [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher)
-- zoro Bingewatcher+ [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/464019-zoro-bingewatcher)
 - [Anime Website Buttons Plus](https://github.com/Deatthwing/anime-website-buttons-plus) [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/398046-anime-website-custom-buttons-plus)
+- Find on Nyaa [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/379776-find-on-nyaa)
+- zoro Bingewatcher+ [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/464019-zoro-bingewatcher)
+
+### Anilist
+
 - [Anifilters](https://github.com/Karmesinrot/Anifiltrs)
 - [AniList Unlimited](https://github.com/mysticflute/ani-list-unlimited) [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/404465-anilist-unlimited-score-in-header)
 - Anilist External Links [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/442599-anilist-external-links)
 - Anisongs [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/374785-anisongs)
 - [Automail](https://github.com/hohMiyazawa/Automail) [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/370473-automail)
+
+### MyAnimeList
+
 - Endless MAL Search Pages [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/409957-endless-mal-search-pages)
-- Find on Nyaa [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/379776-find-on-nyaa)
+- [MAL Dubs](https://github.com/MAL-Dubs/MAL-Dubs) [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/376546-mal-myanimelist-dubs)
+- [MAL English Titles](https://github.com/Animorphs/MAL-English-Titles) [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/420200-mal-english-titles)
+- Series Highlighter [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/424774-series-highlighter-mal)
+
+### Manga
 - MangaDex Condensed [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/429495-mangadex-condensed)
 - Mangadex Follows [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/430295-new-mangadex-follows)
 - [Manga Online Viewer](https://github.com/TagoDR/MangaOnlineViewer)
-- [MAL Dubs](https://github.com/MAL-Dubs/MAL-Dubs) [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/376546-mal-myanimelist-dubs)
-- - [MAL English Titles](https://github.com/Animorphs/MAL-English-Titles) [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/420200-mal-english-titles)
+
+### Pixiv
 - Pixiv Downloader [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/432150-pixiv-downloader)
 - [Pixiv Preview](https://github.com/NightLancer/PixivPreview) [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/39387-pixiv-arts-preview-followed-atrists-coloring-extended-history)
 - [ppixiv for Pixiv](https://github.com/ppixiv/ppixiv) [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/370418-ppixiv-for-pixiv)
-- Series Highlighter - MAL [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/424774-series-highlighter-mal)
+
+
 !!!warning Scripts may not function correctly or reliably all the time
 Active maintenance is necessary for scripts to work properly. If a script fails, try reinstalling it; otherwise, wait for a fix to be released. Install [**Violentmonkey**](https://violentmonkey.github.io/) or [**Tampermonkey**](https://www.tampermonkey.net/) to use scripts.
 !!!
@@ -121,5 +134,6 @@ ___
 - [All Manga Reader](https://www.allmangasreader.com/)
 
 ### Miscellaneous
+- [Anime Manga Auto Backup](https://github.com/Animanga-Initiative/animeManga-autoBackup)
 - [Plex Anisync](https://github.com/RickDB/PlexAniSync)
-
+- [Tachisync](https://github.com/axiel7/Tachisync)
