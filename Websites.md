@@ -23,7 +23,7 @@ ___
 - [Comick](https://comick.app/home) [!badge variant="ghost" size="xs" text="R"]
 - [Mangapark](https://mangapark.net/) [!badge variant="danger" size="xs" text="R+"]
 - [Cubari Proxy](https://proxy.cubari.moe/) [!badge variant="danger" size="xs" text="R+"]
-- [Mangalife](https://manga4life.com/) | [Mangasee](https://mangasee123.com/) [!badge variant="ghost" text="R"]
+- [Mangalife](https://manga4life.com/) | [Mangasee](https://mangasee123.com/) | [Atsumaru](https://atsu.moe/) [!badge variant="ghost" text="R"]
 - [Manga Katana](https://mangakatana.com/) [!badge variant="danger" size="xs" text="R+"]
 - [Manga Fire](https://mangafire.to/home) [!badge variant="ghost" size="xs" text="R-"]
 - [Manga Reader](https://mangareader.to/home) [!badge variant="ghost" size="xs" text="R-"]
@@ -36,7 +36,7 @@ ___
 - [Manga Here](https://www.mangahere.cc/) | [Manga Fox](https://fanfox.net/) [!badge variant="ghost" size="xs" text="R-"]
 
 === Rating
-[!badge variant="ghost" text="R+"] Uploads NSFW content on a regular basis.
+[!badge variant="danger" text="R+"] Uploads NSFW content on a regular basis.
 
 [!badge variant="ghost" text="R"] Uploads NSFW content, but not always/all of them.
 
