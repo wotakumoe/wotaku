@@ -24,16 +24,34 @@ ___
 ![](/static/banner/comms.png)
 ## Communities
 
+### Forum
 - [Animesuki](https://forums.animesuki.com/)
-- [Anime Music Videos](https://www.animemusicvideos.org/)
-- [Doujin Cafe](https://discord.gg/doujincafe)
-- [Fuwanovel](https://forums.fuwanovel.net/forum/85-recommendations/)
+- [Anime Music Videos](https://www.animemusicvideos.org/forum/)
+- [Fuwanovel](https://forums.fuwanovel.net/)
 - [Manga Helper](https://mangahelpers.com/)
-- [Manga Piracy](https://discord.com/invite/ZgMtAyxFSU)
 - [My Figure Collection](https://myfigurecollection.net/)
 - [Squide Board](https://www.squid-board.org/)
-- Subreddits [!badge variant="ghost" text="Anime"](https://www.reddit.com/r/anime) [!badge variant="ghost" text="Manga"](https://www.reddit.com/r/manga) [!badge variant="ghost" text="Manhwa"](https://www.reddit.com/r/manhwa) [!badge variant="ghost" text="Manhua"](https://www.reddit.com/r/manhua) [!badge variant="ghost" text="LN"](https://www.reddit.com/r/LightNovels/) [!badge variant="ghost" text="VN"](https://www.reddit.com/r/visualnovels/) [!badge variant="ghost" text="Anime Piracy"](https://www.reddit.com/r/animepiracy) [!badge variant="ghost" text="Manga Piracy"](https://www.reddit.com/r/mangapiracy/) [!badge variant="ghost" text="vocaloid"](https://www.reddit.com/r/vocaloid/) [!badge variant="ghost" text="Others"](https://www.reddit.com/r/anime/wiki/related_subreddits/)
+
+### Discord server
+- [Doujin Cafe](https://discord.gg/doujincafe)
+- [Mangadex](https://discord.com/invite/mangadex)
+- [Manga Groups Portal](https://discord.gg/9KGMzP2)
+- [Manga Piracy](https://discord.com/invite/ZgMtAyxFSU)
+- [r/Anime](https://discord.gg/r-anime)
+- [r/Manga](https://discord.com/invite/manga)
+- [Scanner Usage School Server](https://discord.com/invite/NCzxVB9)
+- [Snacbox](https://discord.com/invite/snackbox)
 - [TheMoeWay](https://discord.com/invite/nhqjydaR8j)
+
+### Subreddit
+- [Anime](https://www.reddit.com/r/anime)
+- [Manga](https://www.reddit.com/r/manga)
+- [Manhwa](https://www.reddit.com/r/manhwa)
+- [Light Novels](https://www.reddit.com/r/LightNovels/)
+- [Visual Novels](https://www.reddit.com/r/visualnovels/)
+- [Anime Piracy](https://www.reddit.com/r/animepiracy)
+- [Manga Piracy](https://www.reddit.com/r/mangapiracy/)
+- [Vocaloid](https://www.reddit.com/r/vocaloid/)
 
 ![](/static/banner/guides.png)
 ## Guides
