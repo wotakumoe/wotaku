@@ -13,8 +13,10 @@ ___
 ![](/static/banner/apps.png)
 ## Apps
 ___
-- [Boorusama](https://github.com/khoadng/Boorusama) [!badge variant="ghost" icon="/static/icon/andy.png" text="Store"](https://play.google.com/store/apps/details?id=com.degenk.boorusama)
 
+- [Boorusphere](https://github.com/nullxception/boorusphere)
+- Anime Boxes [!badge variant="ghost" icon="globe" text="Web"](https://www.animebox.es/)
+- Pixiv [!badge variant="ghost" icon="/static/icon/andy.png" text="Store"](https://play.google.com/store/apps/details?id=jp.pxv.android)
 
 ![](/static/banner/disbot.png)
 
@@ -48,7 +50,9 @@ ___
 - [Animepahe Plus](https://github.com/Cyan903/Animepahe-plus) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-CA/firefox/addon/animepahe-plus/)
 - [Anime Skip Player](https://github.com/anime-skip/player) [!badge variant="ghost" icon="globe" text="Web"](https://anime-skip.com/) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/anime-skip/mgmdkjcljneegjfajchedjpdhbadklcf) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-skip)
 - [Aniskip](https://github.com/lexesjan/typescript-aniskip-extension) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/aniskip/npfcdmjgaocepmpdnmliimijgfjbgcdd) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/aniskip/)
+- [Booru Shinshi](https://github.com/kuanyui/BooruShinshi)  [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/booru-shinshi/)
 - Improve Crunchyroll [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh)
+- [KellyC Image Downloader](https://github.com/NC22/KellyC-Image-Downloader) [!badge variant="ghost" icon="globe" text="Web"](https://kellydownloader.com/en/) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/kellyc-image-downloader/mbhkdmjolnhcppnkldbdfaomeabjiofm) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/ru/firefox/addon/kellyc-favorites/)
 - [MAL Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned) [!badge variant="ghost" icon="globe" text="Web"](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/myanimelist-redesign/knegaeodgehajemjpfbhlgjdcloklkal) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/myanimelist-redesign/)
 - [Pixiv Batch Downloader](https://github.com/xuejianxianzun/PixivBatchDownloader) [!badge variant="ghost" icon="globe" text="Web"](https://pixiv.download/) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/powerful-pixiv-downloader/dkndmhgdcmjdmkdonmbgjpijejdcilfh)
 - [Similar Manga](https://github.com/similar-manga/similar) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg)
@@ -87,11 +91,13 @@ ___
 - Mangadex Follows [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/430295-new-mangadex-follows)
 - [Manga Online Viewer](https://github.com/TagoDR/MangaOnlineViewer)
 
-### Pixiv
+### Pixiv & Booru
 - Pixiv Downloader [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/432150-pixiv-downloader)
 - [Pixiv Preview](https://github.com/NightLancer/PixivPreview) [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/39387-pixiv-arts-preview-followed-atrists-coloring-extended-history)
 - [ppixiv for Pixiv](https://github.com/ppixiv/ppixiv) [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/370418-ppixiv-for-pixiv)
-
+- [Max URL](https://github.com/qsniyg/maxurl)
+- [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE%2B)
+- [Handy Image](https://github.com/Owyn/HandyImage) [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/109-handy-image)
 
 !!!warning Scripts may not function correctly or reliably all the time
 Active maintenance is necessary for scripts to work properly. If a script fails, try reinstalling it; otherwise, wait for a fix to be released. Install [**Violentmonkey**](https://violentmonkey.github.io/) or [**Tampermonkey**](https://www.tampermonkey.net/) to use scripts.
