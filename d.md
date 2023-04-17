@@ -63,3 +63,7 @@ ___
 ## For future
 - [Moriya Shrine](https://moriyashrine.org/)
 - [touhouwiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)
+
+https://boards.4channel.org/jp/thread/43161853
+
+https://www.viz.com/calendar/

@@ -229,6 +229,7 @@ ___
 - [Just Light Novels](https://www.justlightnovels.com/)
 - [That Novel Corner](https://thatnovelcorner.com/)
 - [Literature Index](https://literature.td-index.workers.dev/0:/Light%20Novel/)
+- [AniDL](https://xyz.iamzlnk.one/0:/)
 - [MP4 Directs](https://mp4directs.com/)
 
 ![](/static/banner/vn.png)

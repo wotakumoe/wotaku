@@ -26,7 +26,7 @@ ___
 ## Communities
 ___
 
-### Forum
+### Forums
 - [Animesuki](https://forums.animesuki.com/)
 - [Anime Music Videos](https://www.animemusicvideos.org/forum/)
 - [Fuwanovel](https://forums.fuwanovel.net/)
@@ -34,7 +34,7 @@ ___
 - [My Figure Collection](https://myfigurecollection.net/)
 - [Squide Board](https://www.squid-board.org/)
 
-### Discord server
+### Discord servers
 - [Doujin Cafe](https://discord.gg/doujincafe)
 - [Mangadex](https://discord.com/invite/mangadex)
 - [Manga Piracy](https://discord.com/invite/ZgMtAyxFSU)
@@ -45,7 +45,7 @@ ___
 - [Tachiyomi](https://discord.com/invite/tachiyomi)
 - [TheMoeWay](https://discord.com/invite/nhqjydaR8j)
 
-### Subreddit
+### Subreddits
 - [Anime](https://www.reddit.com/r/anime)
 - [Manga](https://www.reddit.com/r/manga)
 - [Manhwa](https://www.reddit.com/r/manhwa)
@@ -54,6 +54,12 @@ ___
 - [Anime Piracy](https://www.reddit.com/r/animepiracy)
 - [Manga Piracy](https://www.reddit.com/r/mangapiracy/)
 - [Vocaloid](https://www.reddit.com/r/vocaloid/)
+
+### Boards
+- [Anime & Manga](https://boards.4channel.org/a/)
+- [Anime/Cute](https://boards.4channel.org/c/catalog)
+- [Anime/Wallpapers](https://boards.4channel.org/w/catalog)
+- [Otaku Culture](https://boards.4channel.org/jp/catalog)
 
 ![](/static/banner/guides.png)
 ## Guides
@@ -109,6 +115,7 @@ ___
 === More
 - [IRC & XDCC guide](/IRC.md)
 - [Network Stream](/ns.md)
+- [vocaloid pastebin for /jp/](https://pastebin.com/jDHxU1Jw)
 ===
 
 ![](/static/banner/info.png)
