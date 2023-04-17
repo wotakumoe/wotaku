@@ -56,10 +56,10 @@ ___
 - [Vocaloid](https://www.reddit.com/r/vocaloid/)
 
 ### Boards
-- [Anime & Manga](https://boards.4channel.org/a/)
-- [Anime/Cute](https://boards.4channel.org/c/catalog)
-- [Anime/Wallpapers](https://boards.4channel.org/w/catalog)
-- [Otaku Culture](https://boards.4channel.org/jp/catalog)
+- [Anime & Manga](https://boards.4channel.org/a/) [!badge variant="ghost" size="xs" text="R"]
+- [Anime/Cute](https://boards.4channel.org/c/catalog) [!badge variant="ghost" size="xs" text="R"]
+- [Anime/Wallpapers](https://boards.4channel.org/w/catalog) [!badge variant="ghost" size="xs" text="R"]
+- [Otaku Culture](https://boards.4channel.org/jp/catalog) [!badge variant="danger" size="xs" text="R+"]
 
 ![](/static/banner/guides.png)
 ## Guides
