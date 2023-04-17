@@ -33,7 +33,6 @@ ___
 ### Apps
 - [EhPanda](https://github.com/EhPanda-Team/EhPanda)
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
-- [Boorusama](https://github.com/khoadng/Boorusama)
 
 ### Software
 - [Happypandax](https://github.com/happypandax/happypandax)
@@ -59,6 +58,9 @@ ___
 - [Tachisync](https://github.com/axiel7/Tachisync)
 - [Anime Manga Auto Backup](https://github.com/Animanga-Initiative/animeManga-autoBackup)
 - [viddroid desktop](https://github.com/callisto-jovy/viddroid_desktop)
+https://github.com/vanelk/miru-anime
+https://github.com/zvbt/AnimeClient
+https://github.com/YohannesTz/Okami
 
 ## For future
 - [Moriya Shrine](https://moriyashrine.org/)
@@ -67,3 +69,4 @@ ___
 https://boards.4channel.org/jp/thread/43161853
 
 https://www.viz.com/calendar/
+

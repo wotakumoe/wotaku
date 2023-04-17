@@ -10,6 +10,12 @@ icon: plug
 These add-ons will help you get the most out of your manga and anime watching experience.
 ___
 
+![](/static/banner/apps.png)
+## Apps
+___
+- [Boorusama](https://github.com/khoadng/Boorusama) [!badge variant="ghost" icon="/static/icon/andy.png" text="Store"](https://play.google.com/store/apps/details?id=com.degenk.boorusama)
+
+
 ![](/static/banner/disbot.png)
 
 ## Discord Bots
