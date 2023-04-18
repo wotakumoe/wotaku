@@ -29,11 +29,11 @@ ___
 - [Manga Reader](https://mangareader.to/home) [!badge variant="ghost" size="xs" text="R-"]
 - [Batoto](https://battwo.com/v3x) [!badge variant="danger" size="xs" text="R+"]
 - [Mangahasu](https://mangahasu.se/) [!badge variant="danger" size="xs" text="R+"]
+- [Toonily](https://toonily.com/) [!badge variant="danger" size="xs" text="R+"]
 - [Manga Buddy](https://mangabuddy.com/) [!badge variant="ghost" size="xs" text="R"]
 - [Mangacultivator](https://mangacultivator.com) [!badge variant="success" size="xs" text="E"]
 - [1st Kiss Manga](https://1stkissmanga.me/) [!badge variant="ghost" size="xs" text="R-"]
 - [Manganato](https://chapmanganato.com/nato) [!badge variant="ghost" size="xs" text="R"]
-- [Manga Here](https://www.mangahere.cc/) | [Manga Fox](https://fanfox.net/) [!badge variant="ghost" size="xs" text="R-"]
 
 === Rating
 [!badge variant="danger" text="R+"] Uploads NSFW content on a regular basis.
