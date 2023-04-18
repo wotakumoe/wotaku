@@ -59,7 +59,6 @@ ___
 - [Scylla Scans](https://scyllascans.org/r) | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/4209a4a9-b838-4817-be40-0c8ef2f7be4a/scylla-scans) [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/groups.html?id=14042)
 - [TCB Scans](https://onepiecechapters.com/) | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/db85f2a1-d69b-4181-a7a0-aa37db4bcbcf/tcb-scans) [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/wn8v9bv/tcb-scans)
 - [Tritinia](https://tritinia.org/) + [!badge variant="ghost" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" icon="/static/icon/kr.png" text="KR"] | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/zfxsenj/tritinia-scans)
-
 ==- Mangadex group
 - [Ace Scans](https://mangadex.org/group/6cdcccb1-5ed9-4cbd-b391-675b42de3ee6) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/189byvu/ace-scans)
 - [Boredom society](https://mangadex.org/group/f62c0c65-d7bb-42ee-8d44-f14d9ae974af/boredom-society) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/stxl2b5/boredom-society-scanlations)
