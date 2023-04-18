@@ -46,17 +46,25 @@ ___
 
 ## Extensions
 ___
+
+### Anime
 - [Anime Watch Parties](https://github.com/Dragicafit/Anime-Watch-Parties/) [!badge variant="ghost" icon="globe" text="Web"](https://animewatchparties.com/) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/anime-watch-parties/goinehmnmhnoaepodbngfgdgjeibgelh/) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/)
 - [Animepahe Plus](https://github.com/Cyan903/Animepahe-plus) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-CA/firefox/addon/animepahe-plus/)
 - [Anime Skip Player](https://github.com/anime-skip/player) [!badge variant="ghost" icon="globe" text="Web"](https://anime-skip.com/) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/anime-skip/mgmdkjcljneegjfajchedjpdhbadklcf) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-skip)
 - [Aniskip](https://github.com/lexesjan/typescript-aniskip-extension) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/aniskip/npfcdmjgaocepmpdnmliimijgfjbgcdd) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/aniskip/)
+- Substital [!badge variant="ghost" icon="globe" text="Web"](https://substital.com/) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/substital/)
+
+
+### Manga
+- [Similar Manga](https://github.com/similar-manga/similar) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg)
+
+
+### Others
 - [Booru Shinshi](https://github.com/kuanyui/BooruShinshi)  [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/booru-shinshi/)
 - Improve Crunchyroll [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh)
 - [KellyC Image Downloader](https://github.com/NC22/KellyC-Image-Downloader) [!badge variant="ghost" icon="globe" text="Web"](https://kellydownloader.com/en/) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/kellyc-image-downloader/mbhkdmjolnhcppnkldbdfaomeabjiofm) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/ru/firefox/addon/kellyc-favorites/)
 - [MAL Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned) [!badge variant="ghost" icon="globe" text="Web"](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/myanimelist-redesign/knegaeodgehajemjpfbhlgjdcloklkal) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/myanimelist-redesign/)
 - [Pixiv Batch Downloader](https://github.com/xuejianxianzun/PixivBatchDownloader) [!badge variant="ghost" icon="globe" text="Web"](https://pixiv.download/) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/powerful-pixiv-downloader/dkndmhgdcmjdmkdonmbgjpijejdcilfh)
-- [Similar Manga](https://github.com/similar-manga/similar) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg)
-- Substital [!badge variant="ghost" icon="globe" text="Web"](https://substital.com/) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/substital/)
 
 
 
@@ -145,7 +153,7 @@ ___
 ### Browser
 - [MALSync](https://github.com/MALSync/MALSync) [!badge variant="ghost" icon="globe" text="Web"](https://malsync.moe/) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/mal-sync/) [!badge variant="ghost" icon="file-code" text="Script"](https://github.com/MALSync/MALSync/releases/latest/download/malsync.user.js)
 - [Kenmei](https://www.kenmei.co/)
-- [All Manga Reader](https://www.allmangasreader.com/)
+- [All Manga Reader](https://gitlab.com/all-mangas-reader/all-mangas-reader-2) [!badge variant="ghost" icon="globe" text="Web"](https://www.allmangasreader.com/)
 
 ### Miscellaneous
 - [Anime Manga Auto Backup](https://github.com/Animanga-Initiative/animeManga-autoBackup)
