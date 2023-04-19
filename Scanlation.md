@@ -84,7 +84,7 @@ ___
 - [Clip Stuio Paint EX](https://www.clipstudio.net/en/function_ex/) [!badge variant="ghost" text="FileCR"](https://filecr.com/windows/clip-studio-paint-ex/) [!badge variant="ghost" text="Pesktop"](https://pesktop.com/en/windows/clip_studio_paint_ex) 
 - [MediaBang Paint](https://medibangpaint.com/en/) [!badge variant="ghost" text="FileCR"](https://filecr.com/windows/medibang-paint/)
 - [GIMP](https://www.gimp.org/)
-- [Waifu2X](https://github.com/nagadomi/waifu2x) [!badge variant="ghost" text="Ext GUI"](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) [!badge variant="ghost" text="ncnn Vulkan"](https://github.com/nihui/waifu2x-ncnn-vulkan) [!badge variant="ghost" text="caffe"](https://github.com/lltcggie/waifu2x-caffe) [!badge variant="ghost" text="nunif"](https://github.com/nagadomi/nunif)
+- [Waifu2X](https://github.com/nagadomi/waifu2x) [!badge variant="ghost" text="caffe"](https://github.com/lltcggie/waifu2x-caffe) [!badge variant="ghost" text="ncnn Vulkan"](https://github.com/nihui/waifu2x-ncnn-vulkan) [!badge variant="ghost" text="Ext GUI"](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) [!badge variant="ghost" text="nunif"](https://github.com/nagadomi/nunif)
 - [chaiNNer](https://github.com/chaiNNer-org/chaiNNer)
 
 
@@ -97,7 +97,9 @@ ___
 - [Monochrome](https://github.com/MonochromeCMS/monochrome)
 - [Panel Cleaner](https://github.com/VoxelCubes/PanelCleaner)
 - [ScanFolders](https://github.com/Fris44/ScanFolders)
+- [Smart Stitch](https://github.com/MechTechnology/SmartStitch)
 - [Stitch Tool](https://github.com/Aeonss/StitchTool)
+- [Typesetter*er*](https://illuminati-manga.com/illiteracy/typesetterer/)
 
 ### OCR
 - [Ballons Translator](https://github.com/dmMaze/BallonsTranslator)
