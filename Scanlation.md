@@ -45,10 +45,11 @@ ___
 - [Scanner Usage School Server](https://discord.com/invite/NCzxVB9)
 - [r/Scanlation](https://www.reddit.com/r/Scanlation/)
 - [Manga Helpers](https://mangahelpers.com/)
-- [Font recommendation](https://discord.gg/kgZ4MXgzpx)
+- [Font recommendations](https://discord.gg/kgZ4MXgzpx)
 
 ### Assets
 - [Jaded Network's SFX library](http://thejadednetwork.com/sfx/)
+- [Scanlator School Fonts](https://drive.google.com/drive/folders/1hPV4o8fmxY2Ab9tXi84l0vVOUQEgFIbU)
 - [Creative Favrica's Fonts by /MiniSheep/](https://drive.google.com/drive/folders/1WLt0y72LtqpdGK-EhQP3DV3_T_vxSvaP)
 - [CSP Retouch Library](https://docs.google.com/spreadsheets/d/1mqIqqSoddaZYu3NhCfIXJ9PzPbCLBOe1Y6mD_7s3we4/edit#gid=2085357266)
 - [DK Hanoded Fonts by Sr.Xlr11](https://drive.google.com/drive/folders/1TQTA1FGU_Ow6WDb3fv8-1mTRF_v_NzHh)
@@ -60,17 +61,17 @@ ___
 - [Inside Scanlation](https://www.insidescanlation.com/backgrounds/index.html)
 - [Scanlation Snacks](https://scanlationsnacks.wordpress.com/)
 - [Webtoon Guidelines](https://github.com/ricafolio/awesome-webtoon-guidelines)
-
+- [CSP Material List](https://cspmasterlist.carrd.co/)
 
 ### Typesetting guides
+
 - [Anonblack's typesetting guide](https://web.archive.org/web/20181214030153/http://prettyanonymo.us/index.php/scanlation-resources/anonblacks-typesetting-guide/)
 - [AnonBlack's Font Guide](https://rentry.org/fontguide)
-- [AnonBlack's Typesettings Guide](https://web.archive.org/web/20180602045840/http://prettyanonymo.us/index.php/scanlation-resources/anonblacks-typesetting-guide)
+- [Typesetting tutorial by Fallen Syndicate](https://coloredmanga.com/rhss-comprehensive-typesetting-guide-re-hosted-version-from-fallen-syndicates-rehost/)
 
 ### Redrawing guides
 - Fascans Redrawing guide [!badge variant="ghost" text="Part 1"](https://fascans.com/featured/basic-redrawing-tutorials-part-1-using-clone-stamp-tool-effectively/)  [!badge variant="ghost" text="Part 2"](https://fascans.com/position/redrawer/basic-redrawing-tutorials-part-2-dealing-with-linesspeed-lines/)
 - [Rain's Redraw Tutorials](https://web.archive.org/web/20140814131939/http://www.redhawkscans.com/showthread.php?7057-Rain-s-Redraw-Tutorials&p=112119&viewfull=1#post112119)
-- [Typesetting tutorial by Fallen Syndicate](https://coloredmanga.com/rhss-comprehensive-typesetting-guide-re-hosted-version-from-fallen-syndicates-rehost/)
 
 
 ![](/static/banner/tools.png)
@@ -81,8 +82,11 @@ ___
 	- [Ecoterica Avenue](https://rentry.org/adobesoftware)
 	- [Guide by Anna](https://docs.google.com/document/d/17PheyyF9dm7YYjaTZ9JAAY3hhdeIQ7sJ4sylTG9_6xI/edit)
 - [Clip Stuio Paint EX](https://www.clipstudio.net/en/function_ex/) [!badge variant="ghost" text="FileCR"](https://filecr.com/windows/clip-studio-paint-ex/) [!badge variant="ghost" text="Pesktop"](https://pesktop.com/en/windows/clip_studio_paint_ex) 
-- [MediaBang Paint](https://medibangpaint.com/en/) [!badge variant="ghost" text="FileCR"](https://filecr.com/windows/medibang-paint/) [!badge variant="ghost" text="Pesktop"](https://pesktop.com/en/windows/clip_studio_paint_ex)
+- [MediaBang Paint](https://medibangpaint.com/en/) [!badge variant="ghost" text="FileCR"](https://filecr.com/windows/medibang-paint/)
 - [GIMP](https://www.gimp.org/)
+- [Waifu2X](https://github.com/nagadomi/waifu2x) [!badge variant="ghost" text="Ext GUI"](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) [!badge variant="ghost" text="ncnn Vulkan"](https://github.com/nihui/waifu2x-ncnn-vulkan) [!badge variant="ghost" text="caffe"](https://github.com/lltcggie/waifu2x-caffe) [!badge variant="ghost" text="nunif"](https://github.com/nagadomi/nunif)
+- [chaiNNer](https://github.com/chaiNNer-org/chaiNNer)
+
 
 ### Miscellaneous 
 - [Alex's Raw Downloader](https://raws.alexeliot.xyz/)  [!badge variant="ghost" size="xs" text="Free chapters only"]

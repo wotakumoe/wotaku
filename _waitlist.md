@@ -32,7 +32,7 @@ https://github.com/ker0olos/fable `gatcha bot`
 - Doujin section (Info, glossary, guides)
 - Resort & filter LN section
 - Add stuff for legal section & more streamline the section
-- Add software for scanlation section
+- Add software for scanlation section `done`
 - Revisit brewing section
 - RSS feed guide & rss client (https://github.com/DIYgod/RSSHub)
 - Add credit page
