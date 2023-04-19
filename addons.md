@@ -122,6 +122,7 @@ ___
 - [Anitomy](https://github.com/erengy/anitomy)
 - [Mikutap](https://aidn.jp/mikutap/)
 - [Shoko Anime](https://github.com/shokoanime) [!badge variant="ghost" icon="globe" text="Web"](https://shokoanime.com/)
+- [Smart Image](https://github.com/Decimation/SmartImage)
 - [Waifu2x](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
 
 
