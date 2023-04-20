@@ -41,6 +41,8 @@ ___
 - [nyaa](https://nyaa.si/)
 ===
 
+> If you want RSS feed for Pixiv, read [**this docs**](https://docs.rsshub.app/en/social-media.html#pixiv). You can use RSS feed for a lot more sites using [RSS Hub](https://github.com/DIYgod/RSSHub). So, go through the documentation sites.
+
 
 ![](/static/banner/ext.png)
 
@@ -110,7 +112,6 @@ ___
 !!!warning Scripts may not function correctly or reliably all the time
 Active maintenance is necessary for scripts to work properly. If a script fails, try reinstalling it; otherwise, wait for a fix to be released. Install [**Violentmonkey**](https://violentmonkey.github.io/) or [**Tampermonkey**](https://www.tampermonkey.net/) to use scripts.
 !!!
-
 
 
 ![](/static/banner/tools.png)

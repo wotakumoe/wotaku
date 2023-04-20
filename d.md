@@ -51,16 +51,7 @@ ___
 ## Websites
 - [WaifuXL](https://waifuxl.com/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/TheFutureGadgetsLab/WaifuXL)
 
-## mmm
-- [Anilist PC Client](https://github.com/zigamacele/ami)
-- [Rulia Reader](https://github.com/LancerComet/RuliaReader) [!badge variant="ghost" icon="globe" text="Store"](https://apps.microsoft.com/store/detail/rulia-manga-reader/9MVVLRZWRXX8)
-- [CBXV](https://github.com/mftb0/cbxv)
-- [Tachisync](https://github.com/axiel7/Tachisync)
-- [Anime Manga Auto Backup](https://github.com/Animanga-Initiative/animeManga-autoBackup)
-- [viddroid desktop](https://github.com/callisto-jovy/viddroid_desktop)
-https://github.com/vanelk/miru-anime
-https://github.com/zvbt/AnimeClient
-https://github.com/YohannesTz/Okami
+
 
 ## For future
 - [Moriya Shrine](https://moriyashrine.org/)
@@ -69,4 +60,7 @@ https://github.com/YohannesTz/Okami
 https://boards.4channel.org/jp/thread/43161853
 
 https://www.viz.com/calendar/
+
+
+
 

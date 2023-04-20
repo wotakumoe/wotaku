@@ -208,5 +208,5 @@ ___
 - [Imgtrans](https://touhou.ai/imgtrans/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/zyddnys/manga-image-translator)
 - [MAL/AL/K/AP lists XML Exporter](https://malscraper.azurewebsites.net/)
 - [Trakt to MAL](https://anitrakt.huere.net/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/ryuuganime/aniTrakt-IndexParser)
-
-
+- [Waif2x](https://unlimited.waifu2x.net/) [!badge variant="ghost" text="udp"](https://waifu2x.udp.jp/)  [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/nagadomi/waifu2x)
+- [WaifuXL](https://waifuxl.com/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/TheFutureGadgetsLab/WaifuXL)

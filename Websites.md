@@ -104,8 +104,8 @@ ___
 - [AniDL](https://anidl.org/manga/)
 - [mp4directs](https://mp4directs.com/)
 - [jnovels](https://jnovels.com/manga-cbz-cbr-pdfs-download101/)
-- [ZLibrary](https://singlelogin.me/)
-- [Anna's Archive](https://annas-archive.org/)
+- [ZLibrary](https://singlelogin.me/) [!badge variant="ghost" size="xs" text="General"]
+- [Anna's Archive](https://annas-archive.org/) [!badge variant="ghost" size="xs" text="General"]
 
 ![](/static/banner/anime.png)
 
@@ -233,6 +233,7 @@ ___
 - [Literature Index](https://literature.td-index.workers.dev/0:/Light%20Novel/)
 - [AniDL](https://xyz.iamzlnk.one/0:/)
 - [MP4 Directs](https://mp4directs.com/)
+
 
 ![](/static/banner/vn.png)
 ## Visual Novels
