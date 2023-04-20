@@ -62,6 +62,7 @@ ___
 - [Scanlation Snacks](https://scanlationsnacks.wordpress.com/)
 - [Webtoon Guidelines](https://github.com/ricafolio/awesome-webtoon-guidelines)
 - [CSP Material List](https://cspmasterlist.carrd.co/)
+- [Tips & Tricks mega Library](https://well-zinc-cd5.notion.site/Tips-Tricks-mega-Library-586dbc3ed4bc482285180ee4aac92d92)
 
 ### Typesetting guides
 

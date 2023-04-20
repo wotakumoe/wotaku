@@ -12,7 +12,7 @@ ___
 
 ## Contributors
 - [Abyss](https://github.com/knightmob)
-- [Mirostopia]()
+- [Mirostopia](https://github.com/pandorazenshi)
 - [Zinklog](https://github.com/zinklog2)
 
 
