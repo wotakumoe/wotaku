@@ -1,6 +1,6 @@
 ## Plan to do
 
-- Glossary
+- Glossary (Manga, Anime, LN & VN, Music)
 - Doujin section (Info, glossary, guides)
 - Revisit brewing section
 - Add stuff for legal section & more streamline the section
