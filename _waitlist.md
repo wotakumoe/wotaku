@@ -11,23 +11,9 @@
 - [Okami](https://github.com/YohannesTz/Okami)
 
 
-## Should i add it
+## Maybe
 
 https://github.com/ker0olos/fable `gatcha bot`
-
-
-## Plan to do
-
-- Glossary
-- Doujin section (Info, glossary, guides)
-- Revisit brewing section
-- Add stuff for legal section & more streamline the section
-- ~~Add duck's note~~
-- ~~Resort & filter LN section~~
-- ~~Add software for scanlation section~~
-- ~~RSS feed guide & rss client (https://github.com/DIYgod/RSSHub)~~
-- ~~Add credit page~~
-- Go for discord bots that doesnt show invite link
 
 
 ## Bot w/o invite
