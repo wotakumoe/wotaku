@@ -12,7 +12,6 @@ Welcome to Wotaku! Here, you'll find a diverse range of resources related to man
 
 ==- Duckling's Note
 - The lists are by default alphabetically ordered. If the list isn't in alphabetical order, it means that it has been arranged based on someone's preference, either mine or that of a contributor.
-
 - The wiki contains ratings for various sites, which I have categorized to provide more detailed information than just using 'NSFW'.
 	- [!badge variant="danger" text="R+"] Uploads NSFW content on a regular basis.
 	- [!badge variant="ghost" text="R"] Uploads NSFW content, but not always/all of them.
@@ -21,9 +20,7 @@ Welcome to Wotaku! Here, you'll find a diverse range of resources related to man
 	- [!badge variant="ghost" text="NR"] Haven't been rated yet.
 
 - The wiki does not include any sites that exclusively feature NSFW (Not Safe for Work) content.
-
 - If you encounter any issues with the websites or software listed, please reach out to their respective communities for assistance. If available, I have provided links to their GitHub pages where you can report the issue.
-
 - If you want to submit a new site or wiki related issue, [read this](https://github.com/anotherduckling/Wotaku#-websites-i-wont-add).
 ===
 

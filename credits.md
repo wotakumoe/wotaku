@@ -8,18 +8,15 @@ icon: heart
 
 # Credits
 Thank you to all the contributors for your dedications and resources.
-
 ___
 
 ## Contributors
-___
 - [Abyss](https://github.com/knightmob)
 - [Mirostopia]()
 - [Zinklog](https://github.com/zinklog2)
 
 
 ## Art Credits
-___
 - Ninomae Ina'nis's Padoru by [how-dee](https://www.reddit.com/r/Padoru/comments/iu6jvx/ninomae_inanis_hololive/)
 - Ninomae Ina'nis's Peek by [Herself!](https://www.youtube.com/@NinomaeInanis)
 - Ninomae Ina'nis's Pixel art by [Holocure team](https://twitter.com/HoloCureGame)
