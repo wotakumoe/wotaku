@@ -25,15 +25,17 @@ ___
 - [Cubari Proxy](https://proxy.cubari.moe/) [!badge variant="danger" size="xs" text="R+"]
 - [Mangalife](https://manga4life.com/) | [Mangasee](https://mangasee123.com/) | [Atsumaru](https://atsu.moe/) [!badge variant="ghost" text="R"]
 - [Manga Katana](https://mangakatana.com/) [!badge variant="danger" size="xs" text="R+"]
-- [Manga Fire](https://mangafire.to/home) [!badge variant="ghost" size="xs" text="R-"]
-- [Manga Reader](https://mangareader.to/home) [!badge variant="ghost" size="xs" text="R-"]
+- [Colored Manga](https://coloredmanga.com/) [!badge variant="ghost" size="xs" text="R"]
+- [Manga Fire](https://mangafire.to/home) [!badge variant="ghost" size="xs" text="R"]
+- [Manga Reader](https://mangareader.to/home) [!badge variant="ghost" size="xs" text="R"]
 - [Batoto](https://battwo.com/v3x) [!badge variant="danger" size="xs" text="R+"]
 - [Mangahasu](https://mangahasu.se/) [!badge variant="danger" size="xs" text="R+"]
 - [Toonily](https://toonily.com/) [!badge variant="danger" size="xs" text="R+"]
-- [Manga Buddy](https://mangabuddy.com/) [!badge variant="ghost" size="xs" text="R"]
+- [Manga Buddy](https://mangabuddy.com/home) [!badge variant="ghost" size="xs" text="R"]
 - [Mangacultivator](https://mangacultivator.com) [!badge variant="success" size="xs" text="E"]
 - [1st Kiss Manga](https://1stkissmanga.me/) [!badge variant="ghost" size="xs" text="R-"]
 - [Manganato](https://chapmanganato.com/nato) [!badge variant="ghost" size="xs" text="R"]
+- [Mangahub](https://mangahub.io/) [!badge variant="danger" size="xs" text="R+"]
 
 === Rating
 [!badge variant="danger" text="R+"] Uploads NSFW content on a regular basis.
@@ -63,6 +65,7 @@ ___
 - [Ace Scans](https://mangadex.org/group/6cdcccb1-5ed9-4cbd-b391-675b42de3ee6) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/189byvu/ace-scans)
 - [Boredom society](https://mangadex.org/group/f62c0c65-d7bb-42ee-8d44-f14d9ae974af/boredom-society) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/stxl2b5/boredom-society-scanlations)
 - [Circle](https://mangadex.org/group/916a8c9a-c743-426f-8660-6bc7c0590b35/circle) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/mzq2toi/circle)
+- [Kirei Cake](https://mangadex.org/group/5fa94491-6f6f-4d53-b8ff-4a4967ac40b5/kirei-cake) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/7ixehww/kirei-cake)
 - [Knox](https://mangadex.org/group/28ba3526-e436-4c05-ab23-a2396fd08ce5/knox) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/mecpt76/knox)
 - [Komi-scan wa komyushou desu](https://mangadex.org/group/d81ab540-30de-413f-a23f-95bf007e7397/komi-scan-wa-komyushou-desu) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/3kcvfvw/komi-scan-wa-komyushou-desu)
 - [Kouhai scanlations](https://mangadex.org/group/b25e068a-5363-4f1d-872b-eba5b0224ae9/kouhai-scanlations) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/2995jae/kouhai-scanlations)
@@ -213,6 +216,7 @@ ___
 ### Reader
 - [Allnovel](https://allnovel.org/)
 - [Baka-tsuki](https://www.baka-tsuki.org/project/index.php?title=main_page)
+- [Boxnovel](https://boxnovel.com/)
 - [Comrademao](https://comrademao.com/)
 - [Dao Novel](https://daonovel.com/)
 - [Free web novel](https://freewebnovel.com/)
