@@ -160,6 +160,7 @@ ___
 ### Miscellaneous 
 === Light Novels
 - [Novel updates](https://www.novelupdates.com/)
+- [Bookmeter](https://bookmeter.com/) [!badge variant="ghost" icon="/static/icon/jp.png" text="JP"]
 - [r/LightNovels reading order](https://www.reddit.com/r/LightNovels/wiki/reading_order)
 === Visual Novels
 - [The Visual Novel Database](https://vndb.org/)

@@ -178,8 +178,9 @@ ___
 - [Anirena](https://www.anirena.com/)
 - [Shana Project](https://www.shanaproject.com/) | [Tokyo tosho](https://www.tokyotosho.info/)
 
-> Recommended torrent client for Android is [!badge variant="ghost" icon="/static/icon/lt.png"  text="libretorrent"](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent). For Windows, Linux & macOS use [!badge variant="ghost" icon="/static/icon/qb.svg"  text="qBittorrent"](https://www.qbittorrent.org/) or [!badge variant="ghost" icon="/static/icon/trans.png"  text="Transmission"](https://transmissionbt.com/). It is recommended to use VPN while torrenting files.
+> Recommended torrent client for Android is [!badge variant="ghost" icon="/static/icon/lt.png"  text="libretorrent"](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent). For Windows, Linux & macOS use [!badge variant="ghost" icon="/static/icon/qb.svg"  text="qBittorrent"](https://www.qbittorrent.org/) or [!badge variant="ghost" icon="/static/icon/trans.png"  text="Transmission"](https://transmissionbt.com/).
 
+> For VPN, use [!badge variant="ghost" icon="/static/icon/mv.svg"  text="Mullvad"](https://mullvad.net/) or [!badge variant="ghost" icon="/static/icon/ivpn.png"  text="IVPN"](https://www.ivpn.net/). If you want free alternative, use [!badge variant="ghost" icon="/static/icon/wind.png"  text="Windscribe"](https://windscribe.com/).
 
 ![](/static/banner/ost.png)
 
@@ -237,7 +238,7 @@ ___
 - [Literature Index](https://literature.td-index.workers.dev/0:/Light%20Novel/)
 - [AniDL](https://xyz.iamzlnk.one/0:/)
 - [MP4 Directs](https://mp4directs.com/)
-
+- [All EPUBs](https://boroboro.neocities.org/listfullepub) [!badge variant="ghost" icon="/static/icon/jp.png" text="JP"]
 
 ![](/static/banner/vn.png)
 ## Visual Novels
