@@ -2,7 +2,7 @@
 
 - Doujin section (Info & guides)
 - Glossary (Manga, Anime, LN & VN, Music)
-- Add stuff for legal section & more streamline the section
+- Add ~~stuff~~ guides & region based retailes for legal section & ~~more streamline the section~~
 - Revisit brewing section
 - Go for discord bots that doesnt show invite link
 
