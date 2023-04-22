@@ -259,7 +259,7 @@ ___
 ___
 
 !!!warning Don't be impulsive.
-Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed decisions. It has outdated information but the guide will give you an idea about all the important things. To make an informed purchase, it's always a good idea to read the most recent reviews or ask for advice in a [related community](/Websites.md/#communities) before making your final decision.
+Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed decisions. It has some outdated information but the guide will give you an idea about all the important things. To make an informed purchase, it's always a good idea to read the most recent reviews or ask for advice in a [related community](/Websites.md/#communities) before making your final decision.
 !!!
 
 ### Guides
