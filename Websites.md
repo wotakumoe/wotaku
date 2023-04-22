@@ -165,7 +165,7 @@ ___
 	> Channel: **#subsplease**
 - [**animk**](https://animk.info/xdcc/) [!badge variant="ghost" text="Anime"]
 	> Server: irc.xertion.org Port:**6697**
-	
+
 	> Channel: **#MK** or **XDCCLeech**
 - [**XDCC EU**](https://www.xdcc.eu/)	[!badge variant="ghost" text="General"]
 - [**SunXDCC**](https://sunxdcc.com/)	[!badge variant="ghost" text="General"]
@@ -259,27 +259,57 @@ ___
 ___
 
 !!!warning Don't be impulsive.
-Read [the guide](https://www.buyfags.moe/Full_guide) and make informed decisions.
+Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed decisions. It has outdated information but the guide will give you an idea about all the important things. To make an informed purchase, it's always a good idea to read the most recent reviews or ask for advice in a [related community](/Websites.md/#communities) before making your final decision.
 !!!
 
+### Guides
+- [BuyFag](https://www.buyfags.moe/Full_guide)
+- [Fumo Buying guide](https://fumo.website/)
+
+### Info
+- [Buyfrag Store Digest](https://docs.google.com/document/u/0/d/1W4fAKQzCOhiWK6mJ_tvkZHIfzfzBZN57oGSaVB47TCQ/pub)
+- [JOSIC](https://www.japanonlineshopping.com/)
+- [Otaku Calendar](https://otakucalendar.com/)
 - [Manga](https://otakulogy.github.io/manga-platform/) & [Anime streaming](https://otakulogy.github.io/anime-streaming/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/otakulogy/)
 - [Where Can I Read Manga?](https://wherecanireadmanga.com/)
 - [r/Anime's list](https://www.reddit.com/r/anime/wiki/Legal%20Streams)
 - [Buying visual novels](https://reddit.com/r/visualnovels/wiki/buy)
-- Manga, Anime, OST & Others
-	- [CDJapan](https://www.cdjapan.co.jp/) [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="LN"]  [!badge variant="ghost" size="xs" text="Merch"] [!badge variant="ghost" size="xs" text="Physical"]
-	- [Play-Asia](https://www.play-asia.com/) [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Merch"] [!badge variant="ghost" size="xs" text="Physical"]
-	- [HMV & Books](https://www.hmv.co.jp/) [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Merch"] [!badge variant="ghost" size="xs" text="Physical"]
-	- [Qobuz](https://www.qobuz.com/us-en/shop) [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Digital"]
-	- [Ototoy](https://ototoy.jp/) [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Physical"]
-	- [Mora](https://mora.jp/) [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Digital"]
-	- [Recochoku](https://recochoku.jp/) [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Digital"]
-- Merchandise & Others
-	- [Buyfrag Store Digest](https://docs.google.com/document/u/0/d/1W4fAKQzCOhiWK6mJ_tvkZHIfzfzBZN57oGSaVB47TCQ/pub)
-	- [Fumo Buying guide](https://fumo.website/)
-	- [AmiAmi](https://www.amiami.com)
-	- [Rakuten](https://global.rakuten.com/en/)
-	- [Right Stuf Anime](https://www.rightstufanime.com/)
-- Tracker
-	- [Buy finder](https://buyfinder.moe/)
-	- [Buy Friend](https://buyfriend.moe/)
+
+### Tracker
+- [Buy finder](https://buyfinder.moe/)
+- [Buy Friend](https://buyfriend.moe/)
+- [Manga Restock Dates Spreadsheet](https://docs.google.com/spreadsheets/d/1tOGtBsGqNvlOxCBOg3HxBkvgqQyC_ehjBvr4Bx1PG4M/)
+
+### Communities
+- [Anime Deals](https://www.reddit.com/r/AnimeDeals)
+- [Anime Figures](https://www.reddit.com/r/AnimeFigures/)
+- [Anime Merchandise](https://www.reddit.com/r/AnimeMerchandise)
+- [Manga Collectors](https://www.reddit.com/r/MangaCollectors)
+- [Gunpla](https://www.reddit.com/r/Gunpla)
+- [Dakimakuras](https://www.reddit.com/r/Dakimakuras) [!badge variant="danger" size="xs" text="R+"]
+
+### Manga, Anime, OST & Others
+- [CDJapan](https://www.cdjapan.co.jp/) [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="LN"]  [!badge variant="ghost" size="xs" text="Merch"] [!badge variant="ghost" size="xs" text="Physical"]
+- [Play-Asia](https://www.play-asia.com/) [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Merch"] [!badge variant="ghost" size="xs" text="Physical"]
+- [HMV & Books](https://www.hmv.co.jp/) [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Merch"] [!badge variant="ghost" size="xs" text="Physical"]
+- [Qobuz](https://www.qobuz.com/us-en/shop) [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Digital"]
+- [Ototoy](https://ototoy.jp/) [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Physical"]
+- [Mora](https://mora.jp/) [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Digital"]
+- [Recochoku](https://recochoku.jp/) [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Digital"]
+
+### Retailers
+- [AmiAmi](https://www.amiami.com)
+- [Big in Japan](http://biginjap.com/)
+- [Hobby Link](https://www.hlj.com/)
+- [Hobby Search](https://www.1999.co.jp/eng/)
+- [Mandarake](https://order.mandarake.co.jp/order/)
+- [Right Stuf Anime](https://www.rightstufanime.com/)
+
+### Agents
+- [Black Sheep](https://blackship.com/)
+- [Buyee](https://buyee.jp/?lang=en)
+- [Buy Smart Japan](https://www.buysmartjapan.com/)
+- [From Japan](https://www.fromjapan.co.jp/en)
+- [Japan Rabbit](https://japanrabbit.com/)
+- [Remambo](https://www.remambo.jp/)
+- [Zen Market](https://zenmarket.jp/en/)
