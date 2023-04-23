@@ -152,10 +152,6 @@ ___
 - [Fansuber's Index](https://index.fansubcar.tel/)
 ===
 
-### Doujin
-- [Doujin Music](https://www.dojin-music.info/)
-- [Utaite](https://utaitedb.net/)
-- [Vocaloid](https://vocadb.net/)
 
 ### Miscellaneous 
 === Light Novels

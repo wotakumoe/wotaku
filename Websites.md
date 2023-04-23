@@ -207,11 +207,6 @@ ___
 - [JPLearner](http://www.jplearner.to/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Host"]
 
 
-### Doujin
-- [Doujin Style](https://doujinstyle.com/)
-- [MikuDB](http://mikudb.moe/)
-- [Touhou Player](https://touhou.kuukunen.net/)
-
 ![](/static/banner/ln.png)
 
 ## Light Novels
