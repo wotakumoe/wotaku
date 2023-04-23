@@ -263,9 +263,10 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [Dakimakuras guide](https://daki.info/)
 - [Fumo Buying guide](https://fumo.website/)
 - [Garage Kit Guide by Muntoe](https://www.plumworkshop.com/gk-compendium/part-1-bg-supplies)
+- [Gunpla Guide by Gelgoog Guy](https://docs.google.com/document/d/1Tr8UyF2Xg5Ojqw0sxcO7oIG7IIsJPes3lMO5pHZKu5o/pub)
 - [Gunpla Guide by Layman](https://otakurevolution.com/content/laymans-gunpla-guide)
-- [Gunpla Guide](https://docs.google.com/document/d/1Tr8UyF2Xg5Ojqw0sxcO7oIG7IIsJPes3lMO5pHZKu5o/pub)
-- [Music Stuff from Japan](https://www.reddit.com/r/japanesemusic/comments/dagaj8/how_to_buy_music_stuff_from_japan_a_guide/)
+- [Gunpla Wiki r/Gunpla](https://www.reddit.com/r/Gunpla/wiki/)
+- [Music Stuff from Japan by Dimsim](https://www.reddit.com/r/japanesemusic/comments/dagaj8/how_to_buy_music_stuff_from_japan_a_guide/)
 
 ### Info
 - [Buyfrag Store Digest](https://docs.google.com/document/u/0/d/1W4fAKQzCOhiWK6mJ_tvkZHIfzfzBZN57oGSaVB47TCQ/pub)
@@ -273,6 +274,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [Otaku Calendar](https://otakucalendar.com/)
 - [Manga](https://otakulogy.github.io/manga-platform/) & [Anime streaming](https://otakulogy.github.io/anime-streaming/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/otakulogy/)
 - [Where Can I Read Manga?](https://wherecanireadmanga.com/)
+- [Gundam Kits Collection](https://www.gundamkitscollection.com/)
 - [r/Anime's list](https://www.reddit.com/r/anime/wiki/Legal%20Streams)
 - [Buying visual novels](https://reddit.com/r/visualnovels/wiki/buy)
 
@@ -286,6 +288,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [Anime Figures](https://www.reddit.com/r/AnimeFigures/)
 - [Anime Merchandise](https://www.reddit.com/r/AnimeMerchandise)
 - [Manga Collectors](https://www.reddit.com/r/MangaCollectors)
+- [Gundam Forums](https://www.gundamforums.com/)
 - [Gunpla](https://www.reddit.com/r/Gunpla)
 - [Dakimakuras](https://www.reddit.com/r/Dakimakuras) [!badge variant="danger" size="xs" text="R+"]
 
