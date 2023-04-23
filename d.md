@@ -49,16 +49,14 @@ ___
 ___
 
 ## Websites
-- [WaifuXL](https://waifuxl.com/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/TheFutureGadgetsLab/WaifuXL)
-
 
 
 ## For future
 - [Moriya Shrine](https://moriyashrine.org/)
 - [touhouwiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)
 
-https://boards.4channel.org/jp/thread/43161853
 
+https://boards.4channel.org/jp/thread/43161853
 https://www.viz.com/calendar/
 
 
