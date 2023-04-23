@@ -263,7 +263,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 !!!
 
 ### Guides
-- [BuyFag](https://www.buyfags.moe/Full_guide)
+- [So you want to be a buyf/a/g?](https://www.buyfags.moe/Full_guide)
 - [The Ultimate Bootleg Anime Figure Guide](https://solarisjapan.com/blogs/news/ultimate-guide-bootlegs-fake-anime-figures)
 - [How to Buy Music Stuff from Japan: A Guide](https://www.reddit.com/r/japanesemusic/comments/dagaj8/how_to_buy_music_stuff_from_japan_a_guide/)
 - [Fumo Buying guide](https://fumo.website/)
