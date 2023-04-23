@@ -258,14 +258,14 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 !!!
 
 ### Guides
-- [So you want to be a buyf/a/g?](https://www.buyfags.moe/Full_guide)
-- [The Ultimate Bootleg Anime Figure Guide](https://solarisjapan.com/blogs/news/ultimate-guide-bootlegs-fake-anime-figures)
-- [How to Buy Music Stuff from Japan](https://www.reddit.com/r/japanesemusic/comments/dagaj8/how_to_buy_music_stuff_from_japan_a_guide/)
+- [A Complete Guide by BuyFag](https://www.buyfags.moe/Full_guide)
+- [Bootleg Figure Spotting Guide by Solaris](https://solarisjapan.com/blogs/news/ultimate-guide-bootlegs-fake-anime-figures)
+- [Dakimakuras guide](https://daki.info/)
 - [Fumo Buying guide](https://fumo.website/)
-- [A Comprehensive Guide to Dakimakuras](https://daki.info/)
+- [Garage Kit Guide by Muntoe](https://www.plumworkshop.com/gk-compendium/part-1-bg-supplies)
+- [Gunpla Guide by Layman](https://otakurevolution.com/content/laymans-gunpla-guide)
 - [Gunpla Guide](https://docs.google.com/document/d/1Tr8UyF2Xg5Ojqw0sxcO7oIG7IIsJPes3lMO5pHZKu5o/pub)
-- [Layman's Gunpla Guide](https://otakurevolution.com/content/laymans-gunpla-guide)
-- [Muntoe's Garage Kit Compendium!](https://www.plumworkshop.com/gk-compendium/part-1-bg-supplies)
+- [Music Stuff from Japan](https://www.reddit.com/r/japanesemusic/comments/dagaj8/how_to_buy_music_stuff_from_japan_a_guide/)
 
 ### Info
 - [Buyfrag Store Digest](https://docs.google.com/document/u/0/d/1W4fAKQzCOhiWK6mJ_tvkZHIfzfzBZN57oGSaVB47TCQ/pub)

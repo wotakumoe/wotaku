@@ -79,7 +79,7 @@ ___
 - 9anime Bingewatcher+ [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher)
 - [Anime Website Buttons Plus](https://github.com/Deatthwing/anime-website-buttons-plus) [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/398046-anime-website-custom-buttons-plus)
 - Find on Nyaa [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/379776-find-on-nyaa)
-- zoro Bingewatcher+ [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/464019-zoro-bingewatcher)
+- Zoro Autofocus [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/464019-zoro-bingewatcher)
 
 ### Anilist
 
