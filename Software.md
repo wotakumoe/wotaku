@@ -20,6 +20,7 @@ ___
 - [Saikou](https://github.com/saikou-app/saikou/) [!badge variant="ghost" icon="globe" text="Web"](https://saikou.pages.dev/)
 - [Aniyomi](https://github.com/jmir1/aniyomi/) [!badge variant="ghost" icon="globe" text="Web"](https://aniyomi.org/)
 - [Animity](https://github.com/kl3jvi/animity)
+- [Enimax](https://github.com/enimax-anime/enimax)
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
 - [kuro](https://github.com/deceptions/no)
 

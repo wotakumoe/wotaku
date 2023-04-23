@@ -275,7 +275,8 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [Manga](https://otakulogy.github.io/manga-platform/) & [Anime streaming](https://otakulogy.github.io/anime-streaming/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/otakulogy/)
 - [Where Can I Read Manga?](https://wherecanireadmanga.com/)
 - [Gundam Kits Collection](https://www.gundamkitscollection.com/)
-- [r/Anime's list](https://www.reddit.com/r/anime/wiki/Legal%20Streams)
+- [Gunjap](https://www.gunjap.net/)
+- [r/Anime's legal stream list](https://www.reddit.com/r/anime/wiki/Legal%20Streams)
 - [Buying visual novels](https://reddit.com/r/visualnovels/wiki/buy)
 
 ### Tracker
