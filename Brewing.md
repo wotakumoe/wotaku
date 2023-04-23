@@ -22,13 +22,11 @@ ___
 
 ### Miscellaneous
 - [Tankobon](https://tankobon.net/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/crxssed7/tankobon)
-- [Next Anime](https://github.com/AsuxAX/NextAnime)
 
 ![](/static/banner/software.png)
 ## Software
 ___
 ### Android
-- [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
 - [AniTrend V2](https://github.com/AniTrend/anitrend-v2)
 
 ### PC
