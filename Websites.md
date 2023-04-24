@@ -127,6 +127,7 @@ ___
 - [Animension](https://animension.to/) + [!badge variant="ghost" size="xs" text="gogo"]
 - [Muse Asia](https://www.youtube.com/@MuseAsia/) [!badge variant="ghost" text="Country specific"](https://www.youtube.com/@MuseAsia/channels) [!badge variant="ghost" size="xs" text="Regional"] [!badge variant="ghost" size="xs" text="legal"]
 - [Ani-One Aisa](https://www.youtube.com/AniOneAsia/) [!badge variant="ghost" size="xs" text="Regional"] [!badge variant="ghost" size="xs" text="legal"]
+- [LM Anime](https://lmanime.com/) [!badge variant="ghost" size="xs" text="Donghua"]
 
 === Scraper
 - [Kaguya](https://kaguya.app) [!badge variant="ghost" size="xs" text="9anime"] [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="bili"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="marin"] [!badge variant="ghost" size="xs" text="zoro"]
@@ -285,6 +286,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [Manga Restock Dates Spreadsheet](https://docs.google.com/spreadsheets/d/1tOGtBsGqNvlOxCBOg3HxBkvgqQyC_ehjBvr4Bx1PG4M/)
 
 ### Communities
+- [My Figure Collection](https://myfigurecollection.net/)
 - [Anime Deals](https://www.reddit.com/r/AnimeDeals)
 - [Anime Figures](https://www.reddit.com/r/AnimeFigures/)
 - [Anime Merchandise](https://www.reddit.com/r/AnimeMerchandise)

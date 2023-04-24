@@ -31,7 +31,6 @@ ___
 - [Anime Music Videos](https://www.animemusicvideos.org/forum/)
 - [Fuwanovel](https://forums.fuwanovel.net/)
 - [Manga Helper](https://mangahelpers.com/)
-- [My Figure Collection](https://myfigurecollection.net/)
 - [Squide Board](https://www.squid-board.org/)
 
 ### Discord servers
