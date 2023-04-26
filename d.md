@@ -33,6 +33,7 @@ ___
 ### Apps
 - [EhPanda](https://github.com/EhPanda-Team/EhPanda)
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
+- [NClientV2](https://github.com/Dar9586/NClientV2)
 
 ### Software
 - [Happypandax](https://github.com/happypandax/happypandax)
