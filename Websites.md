@@ -8,7 +8,7 @@ icon: globe
 
 # Websites
 
-On this page, you'll find a compilation of websites related to manga, anime, light novels, soundtracks, and other content.
+A curated collection of websites related to manga, anime, light novels and all other things otaku. Every site has been personally tested and only the highest quality ones are recommended.
 
 ___
 
