@@ -101,7 +101,7 @@ ___
 - [xCaliBR Scans](https://xcalibrscans.com/) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/ynopo9s/cursed-xcalibr)
 ===
 
-> All the **Legal** manga reading sites are listed [here](https://otakulogy.github.io/manga-platform/) or [here](https://wherecanireadmanga.com/).
+> All the **Legal** manga reading sites are listed [here](https://otakulogy.github.io/manga-platform/) and [here](https://wherecanireadmanga.com/).
 
 ### DDL
 
@@ -141,7 +141,7 @@ ___
 - [Yugen](https://yugenanime.ro/) [!badge variant="ghost" size="xs" text="gogo"]
 ===
 
-> All the **Legal** streaming services are listed [here](https://otakulogy.github.io/anime-streaming/)
+> All the **Legal** anime streaming services are listed [here](https://otakulogy.github.io/anime-streaming/)
 
 ### DDL
 - [Tokyo Insider](https://www.tokyoinsider.com/) [!badge variant="ghost" size="xs" text="Direct"] [!badge variant="ghost" size="xs" text="no ad"]

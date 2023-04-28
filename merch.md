@@ -1,7 +1,7 @@
 ---
 label: Merch
 order: 12
-icon: copilot
+icon: container
 ---
 
 
