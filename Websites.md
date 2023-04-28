@@ -161,14 +161,17 @@ ___
 
 ### IRC
 - [**nibl**](https://nibl.co.uk/search)	[!badge variant="ghost" text="Anime"]
-	- Server: irc.rizon.net Port:**6697**
-	- Channel: **#nibl**
+	- Server: `irc.rizon.net`
+	- Port: `6697`
+	- Channel: `#nibl`
 - [**subsplease**](https://subsplease.org/xdcc/) [!badge variant="ghost" text="Anime"]
-	- Server: irc.rizon.net Port:**6697**
-	- Channel: **#subsplease**
+	- Server: `irc.rizon.net`
+	- Port: `6697`
+	- Channel: `#subsplease`
 - [**animk**](https://animk.info/xdcc/) [!badge variant="ghost" text="Anime"]
-	- Server: irc.xertion.org Port:**6697**
-	- Channel: **#MK** or **XDCCLeech**
+	- Server: `irc.xertion.org`
+	- Port: `6697`
+	- Channel: `#MK` or `XDCCLeech`
 - [**XDCC EU**](https://www.xdcc.eu/)	[!badge variant="ghost" text="General"]
 - [**SunXDCC**](https://sunxdcc.com/)	[!badge variant="ghost" text="General"]
 
