@@ -160,20 +160,20 @@ ___
 
 
 ### IRC
-- [**nibl**](https://nibl.co.uk/search)	[!badge variant="ghost" text="Anime"]
+- [**nibl**](https://nibl.co.uk/search)
 	- Server: `irc.rizon.net`
 	- Port: `6697`
 	- Channel: `#nibl`
-- [**subsplease**](https://subsplease.org/xdcc/) [!badge variant="ghost" text="Anime"]
+- [**subsplease**](https://subsplease.org/xdcc/)
 	- Server: `irc.rizon.net`
 	- Port: `6697`
 	- Channel: `#subsplease`
-- [**animk**](https://animk.info/xdcc/) [!badge variant="ghost" text="Anime"]
+- [**animk**](https://animk.info/xdcc/)
 	- Server: `irc.xertion.org`
 	- Port: `6697`
 	- Channel: `#MK` or `XDCCLeech`
-- [**XDCC EU**](https://www.xdcc.eu/)	[!badge variant="ghost" text="General"]
-- [**SunXDCC**](https://sunxdcc.com/)	[!badge variant="ghost" text="General"]
+- [**XDCC EU**](https://www.xdcc.eu/)
+- [**SunXDCC**](https://sunxdcc.com/)
 
 > To learn how to use IRC, you can read [**the guide**](/IRC.md).
 
