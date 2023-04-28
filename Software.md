@@ -1,6 +1,6 @@
 ---
 label: Software
-order: 900
+order: 950
 icon: package
 ---
 ![](/static/thumb/soft.png)

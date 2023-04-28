@@ -1,6 +1,6 @@
 ---
 label: Misc-sites
-order: 950
+order: 900
 icon: diff-added
 ---
 
