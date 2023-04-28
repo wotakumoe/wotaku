@@ -73,7 +73,7 @@ ___
 - [Paperback](https://github.com/Paperback-iOS/app) [!badge variant="ghost" icon="globe" text="Web"](https://paperback.moe/)
 - [Aidoku](https://github.com/Aidoku/Aidoku) [!badge variant="ghost" icon="globe" text="Web"](https://aidoku.app/)
 - [Manga x Manga](https://github.com/chubimauk) [!badge variant="ghost" icon="globe" text="Web"](https://mangaxmanga.com/)
-- [Hanami](https://github.com/oolxg/Hanami))
+- [Hanami](https://github.com/oolxg/Hanami)
 - Manga Max [!badge variant="ghost" icon="globe" text="Web"](https://apps.apple.com/us/app/manga-reader-manga-max/id1558957618)
 
 

@@ -190,7 +190,7 @@ ___
 ### Image search
 - [SauceKudasai](https://saucekudasai.com/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/ayushgptaa/SauceKudasai)
 - [SauceNAO](https://saucenao.com/)
-- [Trace](https://trace.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/soruly/trace.moe) [!badge variant="ghost" icon="paper-airplane" text="TG Bot"](https://github.com/soruly/trace.moe-telegram-bot)
+- [Trace](https://trace.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/soruly/trace.moe)
 
 ### Trackers
 - [Anilist](https://anilist.co/)

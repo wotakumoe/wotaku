@@ -1,6 +1,6 @@
 ---
 label: Brewing
-order: 800
+order: 12
 icon: Beaker
 ---
 ![](/static/thumb/brew.png)
@@ -32,10 +32,7 @@ ___
 ### PC
 === Manga
 - [Atsumeru](https://github.com/AtsumeruDev/Atsumeru) [!badge variant="ghost" icon="globe" text="Web"](https://atsumeru.xyz/)
-- [FeeDex](https://github.com/Tosh0kan/FeeDex)
 - [Fukayo](https://github.com/JiPaix/Fukayo/)
-- [Manelo](https://github.com/hammamikhairi/Manga-Desktop-App)
-- [MangaReaderDL](https://github.com/chungmuwei/MangaReaderDL)
 - [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager)
 - [Special Eureka](https://github.com/tonymushah/special-eureka)
 === Anime
@@ -44,16 +41,6 @@ ___
 - [Anime Manager](https://github.com/anma-dev/Anime-Manager)
 - [Keroro](https://github.com/hotsno/keroro)
 - [NineAnimator-Tauri](https://github.com/Layendan/NineAnimator-Tauri)
-- [Totoro](https://github.com/insomniachi/Totoro)
-- [Tsundoku](https://github.com/tylergibbs2/Tsundoku)
-=== Light Novel
-- [Nlight](https://github.com/brandonzorn/Nlight)
-=== Miscellaneous
-- [Hiyakasudere](https://github.com/eEXEO/Hiyakasudere)
-- [Threetwo](https://github.com/rishighan/threetwo)
-- [Juro](https://github.com/jerry08/Juro)
-- [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper)
-- [Auto Anime Bot](https://github.com/TechShreyash/AutoAnimeBot)
 ===
 
 ### iOS
