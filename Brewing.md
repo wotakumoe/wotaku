@@ -5,7 +5,7 @@ icon: Beaker
 ---
 ![](/static/thumb/brew.png)
 # Brewing
-Find resources for scanlation, such as raw files, guides, and tools, on this page.
+Here is a list of projects that are either in early stages of development or still in progress.
 ___
 
 ![](/static/banner/sites.png)
