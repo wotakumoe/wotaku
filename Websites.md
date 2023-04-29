@@ -105,12 +105,10 @@ ___
 
 ### DDL
 
-- [Literature Index](https://literature.td-index.workers.dev/0:/Manga/#)
 - [AniDL](https://anidl.org/manga/)
 - [mp4directs](https://mp4directs.com/)
 - [jnovels](https://jnovels.com/manga-cbz-cbr-pdfs-download101/)
-- [ZLibrary](https://singlelogin.me/) [!badge variant="ghost" size="xs" text="General"]
-- [Anna's Archive](https://annas-archive.org/) [!badge variant="ghost" size="xs" text="General"]
+- [Anna's Archive](https://annas-archive.org/)
 
 ![](/static/banner/anime.png)
 
@@ -155,8 +153,6 @@ ___
 - [Anime kaizoku](https://animekaizoku.com/) [!badge variant="ghost" size="xs" text="Direct"] [!badge variant="ghost" size="xs" text="Index"] [!badge variant="ghost" size="xs" text="ad"]
 - [Anime time](https://www.animetime.pw/) [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="ad"]
 - [RIP Crabby Anime](https://ripcrabbyanime.in/) [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="no ad"]
-- [ACGNX CN](https://share.acgnx.se/) [!badge variant="ghost" size="xs" text="Pikpak"] [!badge variant="ghost" size="xs" text="no ad"]
-- [rbx](http://59.rbx5.ovh.abcd.network/), [2](http://52.rbx5.ovh.abcd.network/), [3](http://511.rbx.abcvg.ovh/), [4](http://508.rbx.abcvg.ovh/), [5](http://510.rbx.abcvg.ovh/), [6](http://58.rbx5.ovh.abcd.network/) [!badge variant="ghost" size="xs" text="Index"] 💀 [!badge variant="ghost" size="xs" text="no ad"]
 
 
 ### IRC
@@ -238,7 +234,6 @@ ___
 ### DDL
 - [Just Light Novels](https://www.justlightnovels.com/)
 - [That Novel Corner](https://thatnovelcorner.com/)
-- [Literature Index](https://literature.td-index.workers.dev/0:/Light%20Novel/)
 - [AniDL](https://xyz.iamzlnk.one/0:/)
 - [MP4 Directs](https://mp4directs.com/)
 - [All EPUBs](https://boroboro.neocities.org/listfullepub) [!badge variant="ghost" icon="/static/icon/jp.png" text="JP"]

@@ -16,7 +16,7 @@ ___
 - [Atsumaru](https://atsu.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/TheUndo/Atsumaru) [!badge variant="ghost" size="xs" text="Mangasee"]
 
 ### Anime
-- [Anify](https://anify.tv/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/Eltik/Anify-Frontend)
+- [Anify](https://anify.tv/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/Eltik/Anify-Frontend) [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Novel"]
 - [CoreProject](https://coreproject.moe/anime) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/baseplate-admin/CoreProject)
 - [Streamable](https://streamable.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/StreamAble-Team/StreamAble-website)
 
