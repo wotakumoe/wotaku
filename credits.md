@@ -11,7 +11,6 @@ Thank you to all the contributors for your dedications and resources.
 ___
 
 ## Contributors
-- [Abyss](https://github.com/knightmob)
 - [Venroot](https://github.com/pandorazenshi)
 - [Zinklog](https://github.com/zinklog2)
 
