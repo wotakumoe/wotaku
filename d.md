@@ -31,6 +31,7 @@ ___
 - [Threetwo](https://github.com/rishighan/threetwo)
 
 ___
+
 ## R++
 
 ### Apps
@@ -38,6 +39,7 @@ ___
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
 - [NClientV2](https://github.com/Dar9586/NClientV2)
 - [Hentaoid](https://github.com/avluis/Hentoid)
+- [jasmine](https://github.com/niuhuan/jasmine)
 
 ### Software
 - [Happypandax](https://github.com/happypandax/happypandax)
@@ -45,9 +47,11 @@ ___
 - [hent-AI](https://github.com/natethegreate/hent-AI)
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
 - [Tsuki](https://github.com/Gusb3ll/Tsuki)
+- [jasmine](https://github.com/niuhuan/jasmine)
 
 ### Scripts
 - [nhentai helper](https://github.com/Tsuk1ko/nhentai-helper) [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/375992-nhentai-helper)
+- [nhentai konnichiwa](https://github.com/naiymu/nhentai-konnichiwa)
 - Let's panda! [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/33979-let-s-panda)
 - MALSync Adult [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/387981-mal-sync-adult-fatexxxblood-edition)
 
@@ -58,6 +62,8 @@ ___
 - [Hakuneko](https://github.com/manga-download/hakuneko) [!badge variant="ghost" icon="globe" text="Web"](https://hakuneko.download/)
 - [HDoujin Downloader](https://github.com/HDoujinDownloader/HDoujinDownloader) [!badge variant="ghost" icon="globe" text="Web"](https://doujindownloader.com/)
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) [!badge variant="ghost" size="xs" text="Anime"]
+- [NHentai Downloader](https://github.com/Xwilarg/NHentaiDownloader)
+- [NsfwBox](https://github.com/Kisspeace/NsfwBox)
 
 ### Misc
 - [nHentai Discord Bot](https://github.com/the-urban-inc/nhentai-discord-bot)
@@ -65,7 +71,5 @@ ___
 
 ___
 
-
-### Apps
-
+## Apps
 - [Shiki Watch](https://github.com/wheremyfiji/ShikiWatch)
