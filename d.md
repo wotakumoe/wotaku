@@ -36,7 +36,7 @@ ___
 
 ### Websites
 
-#### Manga
+=== Manga
 - [E-Hentai](https://e-hentai.org/)
     - Mangadex of doujins. everything is uploaded here.
 - [ExHentai](https://exhentai.org/)
@@ -54,12 +54,20 @@ ___
 - [Chika Panda](https://panda.chaika.moe/)
     - Archive of  all stuff removed from E-Hentai due to DMCA complaints. has fakku/irodori stuff.
 
-#### Manhwa
+=== Manhwa
 - [Hiperdex](https://hiperdex.com/)
 - [Manhwa18](http://manhwa18.com/) | [.cc](https://manhwa18.cc/)
 - [Manytoons](https://manytoon.com/)
 - [Toonily](https://toonily.com/)
 - [Webtoon](https://www.webtoon.xyz/)
+
+=== Anime
+- [Oppai](https://oppai.stream/)
+- [Hentai Stream](https://hstream.moe/)
+- [Hentai Haven](https://hentaihaven.com/) | [.red](https://hentaihaven.red/)
+- [Hentain Mama](https://hentaimama.io/)
+
+===
 
 ### Apps
 - [EhPanda](https://github.com/EhPanda-Team/EhPanda)
