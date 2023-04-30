@@ -37,6 +37,7 @@ ___
 - [EhPanda](https://github.com/EhPanda-Team/EhPanda)
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
 - [NClientV2](https://github.com/Dar9586/NClientV2)
+- [Hentaoid](https://github.com/avluis/Hentoid)
 
 ### Software
 - [Happypandax](https://github.com/happypandax/happypandax)
@@ -49,9 +50,22 @@ ___
 - [nhentai helper](https://github.com/Tsuk1ko/nhentai-helper) [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/375992-nhentai-helper)
 - Let's panda! [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/33979-let-s-panda)
 - MALSync Adult [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/387981-mal-sync-adult-fatexxxblood-edition)
+
+
+### Downloader
+- [nhentai](https://github.com/RicterZ/nhentai)
+- [Tomoe](https://github.com/sinkaroid/tomoe)
+- [Hakuneko](https://github.com/manga-download/hakuneko) [!badge variant="ghost" icon="globe" text="Web"](https://hakuneko.download/)
+- [HDoujin Downloader](https://github.com/HDoujinDownloader/HDoujinDownloader) [!badge variant="ghost" icon="globe" text="Web"](https://doujindownloader.com/)
+- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) [!badge variant="ghost" size="xs" text="Anime"]
+
+### Misc
+- [nHentai Discord Bot](https://github.com/the-urban-inc/nhentai-discord-bot)
+- [nHentai Telegram Bot](https://github.com/sleroq/nhentai-telegram-bot)
+
 ___
 
 
 ### Apps
 
-https://github.com/wheremyfiji/ShikiWatch
+- [Shiki Watch](https://github.com/wheremyfiji/ShikiWatch)

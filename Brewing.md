@@ -12,22 +12,30 @@ ___
  ## Websites
  ___
 
+
 ### Manga
 - [Atsumaru](https://atsu.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/TheUndo/Atsumaru) [!badge variant="ghost" size="xs" text="Mangasee"]
+
 
 ### Anime
 - [Anify](https://anify.tv/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/Eltik/Anify-Frontend) [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Novel"]
 - [CoreProject](https://coreproject.moe/anime) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/baseplate-admin/CoreProject)
 - [Streamable](https://streamable.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/StreamAble-Team/StreamAble-website)
 
+
 ### Miscellaneous
 - [Tankobon](https://tankobon.net/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/crxssed7/tankobon)
+
+
 
 ![](/static/banner/software.png)
 ## Software
 ___
+
+
 ### Android
 - [AniTrend V2](https://github.com/AniTrend/anitrend-v2)
+
 
 ### PC
 === Manga
@@ -38,10 +46,10 @@ ___
 === Anime
 - [Aniluv](https://github.com/wovnep/aniluv)
 - [Animos](https://github.com/Nectres/animos)
-- [Anime Manager](https://github.com/anma-dev/Anime-Manager)
 - [Keroro](https://github.com/hotsno/keroro)
 - [NineAnimator-Tauri](https://github.com/Layendan/NineAnimator-Tauri)
 ===
+
 
 ### iOS
 === Manga
@@ -55,4 +63,5 @@ ___
 
 
 ### macOS
+- [Anime Manager](https://github.com/anma-dev/Anime-Manager) [!badge variant="ghost" size="xs" text="Linux"]
 - [Novee](https://github.com/ZhichGaming/Novee)

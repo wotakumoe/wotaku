@@ -41,7 +41,7 @@ ___
 - [nyaa](https://nyaa.si/)
 ===
 
-> If you want RSS feed for Pixiv, read [**this docs**](https://docs.rsshub.app/en/social-media.html#pixiv). You can use RSS feed for a lot more sites using [RSS Hub](https://github.com/DIYgod/RSSHub). So, go through the documentation sites.
+> If you want RSS feed for Pixiv & other booru sites, [**click here**](https://rss-bridge.org/bridge01/).
 
 
 ![](/static/banner/ext.png)
