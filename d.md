@@ -34,6 +34,18 @@ ___
 
 ## R++
 
+### Websites
+
+#### Manga
+- [EHentai](https://e-hentai.org/) `mangadex of doujins. everything is uploaded here.`
+- [ExHentai](https://exhentai.org/) `exhentai has more extreme tags but is difficut to get access`
+- [nHentai](https://nhentai.net/) `most popular for some reason. but not that big a library and compresses the images. decent UI ig`
+- [imHentai](https://imhentai.xxx/) `big library and very good search filters. also has the same quality images as uploaded on e-hentai.`
+- [Hitomi](https://hitomi.la/) `probably the biggest  library since it donest delete anything but difficult to traverse.`
+- [Ksk](https://ksk.moe/) `only site to read licensed (fakku/irodori) stuff.`
+- [Nyaa Sukebei](https://sukebei.nyaa.si/) `nsfw portion of nyaa. many obscure stuff has 0 seeds tho`
+- [Chika Panda](https://panda.chaika.moe/) `archive of  all stuff removed from e-hentai due to DMCA complaints. has fakku/irodori stuff.`
+
 ### Apps
 - [EhPanda](https://github.com/EhPanda-Team/EhPanda)
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
