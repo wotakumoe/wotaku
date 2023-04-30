@@ -42,9 +42,9 @@ ___
 - [ExHentai](https://exhentai.org/)
     - ExHentai has more extreme tags but is difficut to get access.
 - [nHentai](https://nhentai.net/)
-    - Most popular for some reason. but not that big a library and compresses the images. decent UI ig.
+    - Most popular for some reason but not that big a library and compresses the images. Decent UI.
 - [IMHentai](https://imhentai.xxx/)
-    - Big library and very good search filters. also has the same quality images as uploaded on e-hentai.
+    - Big library and very good search filters. Also, has the same quality images as uploaded on E-Hentai.
 - [Hitomi](https://hitomi.la/)
     - Probably the biggest  library since it donest delete anything but difficult to traverse.
 - [Koushoku](https://ksk.moe/)
@@ -54,38 +54,46 @@ ___
 - [Chika Panda](https://panda.chaika.moe/)
     - Archive of  all stuff removed from E-Hentai due to DMCA complaints. has fakku/irodori stuff.
 
+### Manhwa
+- [Hiperdex](https://hiperdex.com/)
+- [Manhwa18](http://manhwa18.com/) | [.cc](https://manhwa18.cc/)
+- [Manytoons](https://manytoon.com/)
+- [Toonily](https://toonily.com/)
+- [Webtoon](https://www.webtoon.xyz/)
+
 ### Apps
 - [EhPanda](https://github.com/EhPanda-Team/EhPanda)
-- [JHenTai](https://github.com/jiangtian616/JHenTai)
-- [NClientV2](https://github.com/Dar9586/NClientV2)
 - [Hentaoid](https://github.com/avluis/Hentoid)
-- [jasmine](https://github.com/niuhuan/jasmine)
+- [JHenTai](https://github.com/jiangtian616/JHenTai)
+- [Jasmine](https://github.com/niuhuan/jasmine)
+- [NClientV2](https://github.com/Dar9586/NClientV2)
 
 ### Software
 - [Happypandax](https://github.com/happypandax/happypandax)
 - [Hentai downloader](https://github.com/touno-io/hentai-downloader)
-- [hent-AI](https://github.com/natethegreate/hent-AI)
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
+- [Jasmine](https://github.com/niuhuan/jasmine)
 - [Tsuki](https://github.com/Gusb3ll/Tsuki)
-- [jasmine](https://github.com/niuhuan/jasmine)
 
 ### Scripts
-- [nhentai helper](https://github.com/Tsuk1ko/nhentai-helper) [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/375992-nhentai-helper)
-- [nhentai konnichiwa](https://github.com/naiymu/nhentai-konnichiwa)
 - Let's panda! [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/33979-let-s-panda)
 - MALSync Adult [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/387981-mal-sync-adult-fatexxxblood-edition)
-
+- [nhentai helper](https://github.com/Tsuk1ko/nhentai-helper) [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/375992-nhentai-helper)
+- [nhentai konnichiwa](https://github.com/naiymu/nhentai-konnichiwa)
 
 ### Downloader
-- [nhentai](https://github.com/RicterZ/nhentai)
-- [Tomoe](https://github.com/sinkaroid/tomoe)
+
 - [Hakuneko](https://github.com/manga-download/hakuneko) [!badge variant="ghost" icon="globe" text="Web"](https://hakuneko.download/)
 - [HDoujin Downloader](https://github.com/HDoujinDownloader/HDoujinDownloader) [!badge variant="ghost" icon="globe" text="Web"](https://doujindownloader.com/)
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) [!badge variant="ghost" size="xs" text="Anime"]
-- [NHentai Downloader](https://github.com/Xwilarg/NHentaiDownloader)
-- [NsfwBox](https://github.com/Kisspeace/NsfwBox)
+- [nHentai](https://github.com/RicterZ/nhentai)
+- [nHentai Downloader](https://github.com/Xwilarg/NHentaiDownloader)
+- [NSFW Box](https://github.com/Kisspeace/NsfwBox)
+- [Tomoe](https://github.com/sinkaroid/tomoe)
+
 
 ### Misc
+- [Hent-AI](https://github.com/natethegreate/hent-AI)
 - [nHentai Discord Bot](https://github.com/the-urban-inc/nhentai-discord-bot)
 - [nHentai Telegram Bot](https://github.com/sleroq/nhentai-telegram-bot)
 
