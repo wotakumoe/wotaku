@@ -37,22 +37,22 @@ ___
 ### Websites
 
 #### Manga
-- [EHentai](https://e-hentai.org/)
-    - mangadex of doujins. everything is uploaded here.
+- [E-Hentai](https://e-hentai.org/)
+    - Mangadex of doujins. everything is uploaded here.
 - [ExHentai](https://exhentai.org/)
-    - exhentai has more extreme tags but is difficut to get access
+    - ExHentai has more extreme tags but is difficut to get access.
 - [nHentai](https://nhentai.net/)
-    - most popular for some reason. but not that big a library and compresses the images. decent UI ig
-- [imHentai](https://imhentai.xxx/)
-    - big library and very good search filters. also has the same quality images as uploaded on e-hentai.
+    - Most popular for some reason. but not that big a library and compresses the images. decent UI ig.
+- [IMHentai](https://imhentai.xxx/)
+    - Big library and very good search filters. also has the same quality images as uploaded on e-hentai.
 - [Hitomi](https://hitomi.la/)
-    - probably the biggest  library since it donest delete anything but difficult to traverse.
-- [Ksk](https://ksk.moe/)
-    - only site to read licensed (fakku/irodori) stuff.
+    - Probably the biggest  library since it donest delete anything but difficult to traverse.
+- [Koushoku](https://ksk.moe/)
+    - Only site to read licensed (fakku/irodori) stuff.
 - [Nyaa Sukebei](https://sukebei.nyaa.si/)
-    - nsfw portion of nyaa. many obscure stuff has 0 seeds tho
+    - NSFW portion of nyaa. many obscure stuff has 0 seeds though.
 - [Chika Panda](https://panda.chaika.moe/)
-    - archive of  all stuff removed from e-hentai due to DMCA complaints. has fakku/irodori stuff.
+    - Archive of  all stuff removed from E-Hentai due to DMCA complaints. has fakku/irodori stuff.
 
 ### Apps
 - [EhPanda](https://github.com/EhPanda-Team/EhPanda)
