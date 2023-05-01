@@ -94,6 +94,7 @@ ___
 - [Hakuneko](https://github.com/manga-download/hakuneko) [!badge variant="ghost" icon="globe" text="Web"](https://hakuneko.download/)
 - [HDoujin Downloader](https://github.com/HDoujinDownloader/HDoujinDownloader) [!badge variant="ghost" icon="globe" text="Web"](https://doujindownloader.com/)
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) [!badge variant="ghost" size="xs" text="Anime"]
+- [E-Hentai Downloader](https://github.com/ccloli/E-Hentai-Downloader)
 - [nHentai](https://github.com/RicterZ/nhentai)
 - [nHentai Downloader](https://github.com/Xwilarg/NHentaiDownloader)
 - [NSFW Box](https://github.com/Kisspeace/NsfwBox)
