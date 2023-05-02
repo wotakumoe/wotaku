@@ -16,6 +16,8 @@ ___
 - [Mangadex](https://mangadex.org/)
 - [Comick](https://comick.app/home)
 - [Batoto](https://battwo.com/v3x)
+- [Nine Manga](https://www.ninemanga.com/)
+- [Novel Cool](https://novelcool.com/)
 
 === Chinese
 - [Manhua Gui](https://www.manhuagui.com/)
@@ -25,6 +27,7 @@ ___
 
 === Indonasian
 - [KomikID](https://komikid.com/)
+- [Komik Cast](https://komikcast.site/)
 
 === Portuguese
 - [Manga Livre](https://mangalivre.net/)
@@ -35,7 +38,9 @@ ___
 
 === Spanish
 - [Lectortmo](https://lectortmo.com/)
-
+- [Leer Manga](https://r2.leermanga.xyz/)
+- [Manga Crab](https://mangacrab.com/)
+- []()
 ===
 
 ![](/static/banner/anime.png)
