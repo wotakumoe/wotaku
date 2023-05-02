@@ -4,7 +4,7 @@ visibility: hidden
 ---
 
 ![](/static/thumb/nen.png)
-# Non-Eglinsh
+# Non-English
 
 All the Non-english contents are added here.
 
@@ -27,7 +27,6 @@ ___
 
 === Portuguese
 - [Manga Livre](https://mangalivre.net/)
-- [Union Leitor](https://unionleitor.top/)
 
 === Russian
 - [Manga Poisk](https://mangapoisk.com/)
@@ -51,7 +50,7 @@ ___
 
 === French
 - [Anime vostfr](https://animevostfr.tv/)
-- [Anime-same](https://anime-sama.fr/)
+- [Anime sama](https://anime-sama.fr/)
 - [Jet Anime](https://vww.jetanimes.com/)
 - [Neko-sama](https://www.neko-sama.fr/)
 
@@ -59,8 +58,7 @@ ___
 - [AniWorld](https://aniworld.to/)
 
 === Greek
-- [An1me](https://an1me.to/)
-    - Adblock filter `an1me.to##+js(acis, Math)`
+- [An1me](https://an1me.to/) (Adblock filter `an1me.to##+js(acis, Math)`)
 
 === Indian
 - [Dead Toons](https://www.deadtoons.co/)
