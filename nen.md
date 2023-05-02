@@ -15,6 +15,7 @@ ___
 === Multi
 - [Mangadex](https://mangadex.org/)
 - [Comick](https://comick.app/home)
+- [Batoto](https://battwo.com/v3x)
 
 === Chinese
 - [Manhua Gui](https://www.manhuagui.com/)
@@ -56,6 +57,8 @@ ___
 
 === German
 - [AniWorld](https://aniworld.to/)
+- [Aniflix](https://aniflix.cc/)
+- [Anime Loads](https://www.anime-loads.org/)
 
 === Greek
 - [An1me](https://an1me.to/) (Adblock filter `an1me.to##+js(acis, Math)`)

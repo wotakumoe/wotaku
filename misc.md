@@ -148,7 +148,8 @@ ___
 === Index
 - [Aniplaylist](https://aniplaylist.com/)
 - [Seadex](https://releases.moe/)
-- [Fansuber's Index](https://index.fansubcar.tel/)
+- [Fansubbers' Index](https://index.fansubcar.tel/)
+- [German Fansubbers' Index](https://anime-fansubs.de/)
 ===
 
 
