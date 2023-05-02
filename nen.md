@@ -40,7 +40,6 @@ ___
 - [Lectortmo](https://lectortmo.com/)
 - [Leer Manga](https://r2.leermanga.xyz/)
 - [Manga Crab](https://mangacrab.com/)
-- []()
 ===
 
 ![](/static/banner/anime.png)
