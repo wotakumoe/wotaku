@@ -32,14 +32,17 @@ ___
 - Apps with outdated user interfaces or that only scrape content from generic websites (Gogo, Manganato, Manga4life etc.).
 
 **Submitting a link**
+
 If you want to submit or correct a link instead of creating a pull request, please post an issue. This makes it easier for me to add it to the wiki, since I need to maintain the categories and markdown style.
 
 **Follow the title format**
 
 - For new links: `[New][Page title] - Webpage/Software Name`
+
 Example: [New][Software] - Mangaduck X
 
 - For correct/fixed links: `[Fix][Page title] - Webpage/Software Name`
+
 Example: [Fix][Websites] - Kickassanime
 
 
