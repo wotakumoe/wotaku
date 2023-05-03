@@ -1,7 +1,7 @@
 ---
 label: Websites
 order: 1000
-icon: globe
+icon: browser
 ---
 
 ![](/static/thumb/web.png)

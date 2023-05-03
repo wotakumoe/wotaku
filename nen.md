@@ -1,6 +1,7 @@
 ---
 label: Non-Eglinsh
-visibility: hidden
+icon: globe
+order: 825
 ---
 
 ![](/static/thumb/nen.png)
@@ -24,6 +25,7 @@ ___
 
 === French
 - [JapScan](https://www.japscan.lol/)
+- [Bento Manga](https://www.bentomanga.com/)
 
 === Indonasian
 - [KomikID](https://komikid.com/)
@@ -40,6 +42,14 @@ ___
 - [Lectortmo](https://lectortmo.com/)
 - [Leer Manga](https://r2.leermanga.xyz/)
 - [Manga Crab](https://mangacrab.com/)
+
+=== Turkish
+- [Seri Manga](https://serimanga.com/)
+
+=== Vietnamese
+- [Net Truyen](https://www.nettruyenplus.com/)
+- [Bao Tang Truyen Tranh](https://baotangtruyengo.com/)
+
 ===
 
 ![](/static/banner/anime.png)
@@ -64,8 +74,11 @@ ___
 === French
 - [Anime vostfr](https://animevostfr.tv/)
 - [Anime sama](https://anime-sama.fr/)
+- [Franime](https://franime.fr/)
 - [Jet Anime](https://vww.jetanimes.com/)
 - [Neko-sama](https://www.neko-sama.fr/)
+- [Toon Anime](https://v2.toonanime.tv/)
+- [Vostfree](https://vostfree.ws/)
 
 === German
 - [AniWorld](https://aniworld.to/)
@@ -91,6 +104,9 @@ ___
 
 === Polish
 - [Anime Odcinki](https://anime-odcinki.pl/)
+- [Anime Zone](https://www.animezone.pl/)
+- [Desu Online](https://desu-online.pl/)
+- [Fumetsu](https://fumetsu.pl/)
 - [Miror Subs](https://miorosubs.pl/)
 - [Wbijam](https://wbijam.pl/)
 
@@ -103,10 +119,10 @@ ___
 - [AnimeAZU](https://www.animeazu.net/)
 
 === Russian
+- [Anime Buff](https://animebuff.ru/) `Sub` `Dub`
 - [AnimeGO](https://animego.org/) `Sub` `Dub`
 - [Anime Stars](https://animestars.org/) `Sub` `Dub`
 - [Yummy Anime](https://yummyanime.club/) `Dub`
-- [Animestars](https://animestars.org/)
 - [Anilibria](https://anilibria.life/) `Sub` `Dub`
 - [Akari Anime](https://akari-anime.com/) `Dub`
 - [Anidub](https://anidub.live/) `Dub`
@@ -115,9 +131,12 @@ ___
 - [AnimeFLV](https://animeflv.io/) | [.net](https://www3.animeflv.net/)
 - [JKAnime](https://jkanime.net/)
 - [Mundo Donghua](https://www.mundodonghua.com/)
+- [OtakusTV](https://www1.otakustv.com/)
 
 === Turkish
 - [Anizm](https://anizm.net/)
+- [TRanimeizle](https://www.tranimeizle.co/)
+- [Turk Anime](https://www.turkanime.co/)
 
 === Vietnamese
 - [Kaguya](https://kaguya.app/)

@@ -197,6 +197,7 @@ ___
 ### Trackers
 - [Anilist](https://anilist.co/)
 - [Anime-Planet](https://www.anime-planet.com/)
+- [Annict](https://annict.com/)
 - [MyAnimeList](https://myanimelist.net/)
 - [Kitsu](https://kitsu.io/)
 - [Mangaupdates](https://www.mangaupdates.com/)
