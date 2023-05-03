@@ -11,8 +11,8 @@ Thank you to all the contributors for your dedications and resources.
 ___
 
 ## Contributors
-- [Venroot](https://github.com/pandorazenshi)
-- [Zinklog](https://github.com/zinklog2)
+
+[!badge variant="secondary" size="2xl" icon="/static/ven.png" text="**Venroot**"](https://github.com/pandorazenshi) [!badge variant="secondary" size="2xl" icon="/static/zinc.png" text="**Zinklog**"](https://github.com/zinklog2)
 
 
 ## Art Credits
