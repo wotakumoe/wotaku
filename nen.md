@@ -1,5 +1,5 @@
 ---
-label: Non-Eglinsh
+label: Non-English
 icon: globe
 order: 825
 ---
