@@ -12,7 +12,7 @@ ___
 
 ## Contributors
 
-[!badge variant="secondary" size="2xl" icon="/static/ven.png" text="**Venroot**"](https://github.com/pandorazenshi) [!badge variant="secondary" size="2xl" icon="/static/zinc.png" text="**Zinklog**"](https://github.com/zinklog2)
+[!badge variant="secondary" size="2xl" icon="/static/asset/ven.png" text="**Venroot**"](https://github.com/pandorazenshi) [!badge variant="secondary" size="2xl" icon="/static/asset/zinc.png" text="**Zinklog**"](https://github.com/zinklog2)
 
 
 ## Art Credits
