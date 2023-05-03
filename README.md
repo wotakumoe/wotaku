@@ -26,17 +26,8 @@ ___
 ___
 
 # <img src="/static/rm/pr.svg" width="24px"> Submitting a link
-If you want to submit or correct a link instead of creating a pull request, please post an issue. This makes it easier for me to add it to the wiki, since I need to maintain the categories and markdown style.
+If you want to submit or correct a link instead of creating a pull request, please post an [issue](https://github.com/anotherduckling/Wotaku/issues/new). This makes it easier for me to add it to the wiki, since I need to maintain the categories and markdown style.
 
-## Follow the title format
-___
-For new links: `[New][Page title] - Webpage/Software Name`
-
-Example: [New][Software] - Mangaduck X
-___
-For correct/fixed links: `[Fix][Page title] - Webpage/Software Name`
-
-Example: [Fix][Websites] - Kickassanime
 ___
 
 > Please note that I may choose not to add the site if it is redundant or if it does not meet my preferences.
