@@ -59,5 +59,5 @@ Example: [Fix][Websites] - Kickassanime
 </style>
 
 :::sample
-[!badge variant="ghost" icon=":star:" size="xl" text="Star this project"](https://github.com/anotherduckling/wotaku)
+[!badge variant="ghost" icon=":icon-star:" size="xl" text="Star this project"](https://github.com/anotherduckling/wotaku)
 :::
