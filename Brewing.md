@@ -35,7 +35,7 @@ ___
 
 ### Android
 - [AniTrend V2](https://github.com/AniTrend/anitrend-v2)
-
+- [Kurumi](https://github.com/subrotokumar/kurumi)
 
 ### PC
 === Manga

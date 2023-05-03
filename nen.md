@@ -59,6 +59,7 @@ ___
 
 === Chinese
 - [AGE](https://www.agemys.vip/)
+- [CC](https://ccdm.cc/)
 
 === French
 - [Anime vostfr](https://animevostfr.tv/)
@@ -101,6 +102,15 @@ ___
 === Romanian
 - [AnimeAZU](https://www.animeazu.net/)
 
+=== Russian
+- [AnimeGO](https://animego.org/) `Sub` `Dub`
+- [Anime Stars](https://animestars.org/) `Sub` `Dub`
+- [Yummy Anime](https://yummyanime.club/) `Dub`
+- [Animestars](https://animestars.org/)
+- [Anilibria](https://anilibria.life/) `Sub` `Dub`
+- [Akari Anime](https://akari-anime.com/) `Dub`
+- [Anidub](https://anidub.live/) `Dub`
+
 === Spanish
 - [AnimeFLV](https://animeflv.io/) | [.net](https://www3.animeflv.net/)
 - [JKAnime](https://jkanime.net/)
@@ -112,5 +122,6 @@ ___
 === Vietnamese
 - [Kaguya](https://kaguya.app/)
 - [Ani4u](https://ani4u.org/)
+- [AnimeVsub](https://animevsub.ga/)
 - [Unime](https://unime.vercel.app/)
 ===
