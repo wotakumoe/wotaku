@@ -150,6 +150,7 @@ ___
 - [Seadex](https://releases.moe/)
 - [Fansubbers' Index](https://index.fansubcar.tel/)
 - [German Fansubbers' Index](https://anime-fansubs.de/)
+- [Indonasian Fansubbers' Index](https://www.fansub.id/home)
 ===
 
 

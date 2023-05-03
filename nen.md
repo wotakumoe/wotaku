@@ -50,6 +50,13 @@ ___
 - [Zoro](https://zoro.to/)
 - [Kickassanime](https://kaas.am/)
 
+=== Arabic
+- [Anime titans](https://animetitans.net/)
+- [Anime4up](https://w1.anime4up.tv/)
+- [Animelek](https://animelek.me/)
+- [Wit anime](https://witanime.com/)
+- [XSAnime](https://v.xsanime.com/)
+
 === Chinese
 - [AGE](https://www.agemys.vip/)
 
@@ -105,5 +112,5 @@ ___
 === Vietnamese
 - [Kaguya](https://kaguya.app/)
 - [Ani4u](https://ani4u.org/)
-
+- [Unime](https://unime.vercel.app/)
 ===
