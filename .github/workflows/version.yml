@@ -14,7 +14,7 @@ jobs:
         run: |
           current_year=$(date +'%y')
           current_month=$(date +'%m' | sed 's/^0//')
-          sed -i "s/^label:.*/label: $current_year.$current_month/" retype.yaml
+          sed -i "s/^label:.*/label: $current_year.$current_month/" retype.yml
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v7
         with:
