@@ -22,6 +22,7 @@ ___
 
 === Chinese
 - [Manhua Gui](https://www.manhuagui.com/)
+- [8Comic](https://www.comicabc.com/)
 
 === French
 - [JapScan](https://www.japscan.lol/)
@@ -35,8 +36,13 @@ ___
 - [Manga Livre](https://mangalivre.net/)
 
 === Russian
+- [Com-X](https://com-x.life/comx)
 - [Manga Poisk](https://mangapoisk.com/)
+- [Manga-chan](https://manga-chan.me/)
+- [Mangahub](https://mangahub.ru/)
+- [Mangalib](https://mangalib.me/)
 - [Read manga](https://readmanga.live/)
+- [ReManga](https://remanga.org/)
 
 === Spanish
 - [Lectortmo](https://lectortmo.com/)
@@ -78,7 +84,9 @@ ___
 - [Jet Anime](https://vww.jetanimes.com/)
 - [Neko-sama](https://www.neko-sama.fr/)
 - [Toon Anime](https://v2.toonanime.tv/)
+- [Voiranime](https://v3.voiranime.com/)
 - [Vostfree](https://vostfree.ws/)
+
 
 === German
 - [AniWorld](https://aniworld.to/)

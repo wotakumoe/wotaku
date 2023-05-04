@@ -6,6 +6,11 @@ branding:
   logo: /static/asset/inaspin.gif
   logoDark: /static/asset/inaspin.gif
   title: Wotaku
+  label: Last Update 04.05
+  colors:
+    label:
+      text: "#575068"
+      background: "#e1d8ef"
 
 favicon: /static/asset/favicon.ico
 
