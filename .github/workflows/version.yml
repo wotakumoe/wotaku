@@ -1,0 +1,24 @@
+name: Update Retype Label
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update_label:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Update Retype Label
+        run: |
+          current_year=$(date +'%y')
+          current_month=$(date +'%m' | sed 's/^0//')
+          sed -i "s/^label:.*/label: $current_year.$current_month/" retype.yaml
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: GitHub Actions
+          author_email: actions@github.com
+          message: Update Retype Label to ${{ env.current_year }}.${{ env.current_month }}
+          push: true
