@@ -22,7 +22,6 @@ ___
 - [Animity](https://github.com/kl3jvi/animity)
 - [Enimax](https://github.com/enimax-anime/enimax)
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
-- [kuro](https://github.com/deceptions/no)
 
 ### Light Novel
 - [Shosetsu](https://gitlab.com/shosetsuorg/shosetsu) [!badge variant="ghost" icon="globe" text="Web"](https://shosetsu.app/)
