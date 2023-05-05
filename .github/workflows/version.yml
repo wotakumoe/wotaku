@@ -1,4 +1,4 @@
-name: Update Retype Label
+name: Update Version
 on:
   push:
     branches:
@@ -10,15 +10,15 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-      - name: Update Retype Label
+      - name: Increment Version
         run: |
-          current_year=$(date +'%y')
-          current_month=$(date +'%m' | sed 's/^0//')
-          sed -i "s/^label:.*/label: $current_year.$current_month/" retype.yml
+          version=$(grep 'label' retype.yml | awk '{print $2}')
+          incremented=$(echo "${version} + 0.1" | bc)
+          sed -i "s/label: ${version}/label: ${incremented}/" retype.yml
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v7
         with:
           author_name: GitHub Actions
           author_email: actions@github.com
-          message: Update Retype Label to ${{ env.current_year }}.${{ env.current_month }}
+          message: Update version
           push: true
