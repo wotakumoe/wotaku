@@ -169,6 +169,7 @@ ___
 - [VGMDB](https://vgmdb.net/)
 ===
 
+
 ![](/static/banner/portals.png)
 ## Portals
 ____
