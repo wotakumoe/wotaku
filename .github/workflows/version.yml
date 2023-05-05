@@ -9,20 +9,19 @@ jobs:
     runs-on: ubuntu-latest
     permissions: write-all
     steps:
-    - name: Install yq
-      run: sudo add-apt-repository ppa:rmescandon/yq && sudo apt-get update && sudo apt-get install yq -y
-    - name: Increment version
-      run: yq e '.branding.label |= split(".") | .[-1] = (tonumber + 1 | tostring) | .[-2] = (.[-2] | tonumber + 0.1 | tostring) | .[-3] = .[-3]' retype.yml
-      - name: Increment Version
-        run: |
-          version=$(grep 'label' retype.yml | awk '{print $2}')
-          incremented=$(echo "${version} + 0.1" | bc)
-          sed -i "s/label: ${version}/label: ${incremented}/" retype.yml
-      - name: Commit and push changes
-        uses: EndBug/add-and-commit@v9
-        with:
-          committer_name: GitHub Actions
-          committer_email: 41898282+github-actions[bot]@users.noreply.github.com
-          message: Update version
-          push: true
-
+    - name: Increment Version
+      run: |
+        version=$(grep 'label' retype.yml | cut -d ' ' -f 4)
+        major=$(echo $version | cut -d "." -f 1)
+        minor=$(echo $version | cut -d "." -f 2)
+        patch=$(echo $version | cut -d "." -f 3)
+        patch=$((patch+1))
+        new_version="$major.$minor.$patch"
+        sed -i "s/label: ${version}/label: ${new_version}/" retype.yml
+    - name: Commit and push changes
+      uses: EndBug/add-and-commit@v9
+      with:
+        committer_name: GitHub Actions
+        committer_email: 41898282+github-actions[bot]@users.noreply.github.com
+        message: Update version
+        push: true
