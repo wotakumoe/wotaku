@@ -10,6 +10,7 @@ icon: plug
 These add-ons will help you get the most out of your manga and anime watching experience.
 ___
 
+
 ![](/static/banner/apps.png)
 ## Apps
 ___
