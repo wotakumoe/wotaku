@@ -53,9 +53,10 @@ ___
 - [Seri Manga](https://serimanga.com/)
 
 === Vietnamese
-- [Net Truyen](https://www.nettruyenplus.com/)
 - [Bao Tang Truyen Tranh](https://baotangtruyengo.com/)
-
+- [Kaguya](https://kaguya.app/manga)
+- [Kyoto manga](https://kyotomanga.live/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/leephan2k1/manga-app)
+- [Net Truyen](https://www.nettruyenplus.com/)
 ===
 
 ![](/static/banner/anime.png)
