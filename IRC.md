@@ -9,6 +9,7 @@ visibility: hidden
 
 >XDCC is a file-sharing protocol that is often used on IRC. XDCC stands for "eXtended DCC," and it allows users to send and receive files through direct client-to-client (DCC) transfers. This is typically done using a bot, which acts as a file server and manages the file transfers. XDCC has been used for many years as a way to share files, but it has become less popular over time due to the rise of other file-sharing technologies.
 
+
 # Getting Started
 1. Install an [**IRC Client**](#irc-client) on your device.
 2. Go to a [**XDCC Packlists**](#xdcc-packlists) and search for your content
