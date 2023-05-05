@@ -9,8 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     permissions: write-all
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
+    - name: Install yq
+      run: sudo add-apt-repository ppa:rmescandon/yq && sudo apt-get update && sudo apt-get install yq -y
+    - name: Increment version
+      run: yq e '.branding.label |= split(".") | .[-1] = (tonumber + 1 | tostring) | .[-2] = (.[-2] | tonumber + 0.1 | tostring) | .[-3] = .[-3]' retype.yml
       - name: Increment Version
         run: |
           version=$(grep 'label' retype.yml | awk '{print $2}')
@@ -23,3 +25,4 @@ jobs:
           committer_email: 41898282+github-actions[bot]@users.noreply.github.com
           message: Update version
           push: true
+
