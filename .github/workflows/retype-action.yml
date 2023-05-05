@@ -1,4 +1,4 @@
-name: Publish Retype powered website to GitHub Pages
+name: Publish & Increment Version
 on:
   workflow_dispatch:
   push:
@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  update_label:
+  increment:
     runs-on: ubuntu-latest
     permissions: write-all
     steps:
@@ -32,6 +32,7 @@ jobs:
   publish:
     name: Publish to retype branch
     runs-on: ubuntu-latest
+    needs: [increment]
     permissions:
       contents: write
 
