@@ -177,16 +177,16 @@ ___
 ### Websites
 - [Bangumi](https://bangumi.tv/) [!badge variant="ghost" size="xs" text="Tracker"]
 - [Proxer](https://proxer.me/) [!badge variant="ghost" size="xs" text="Community"]
-- [Shikimori](https://shikimori.one/) [!badge variant="ghost" text="Tracker"]
+- [Shikimori](https://shikimori.one/) [!badge variant="ghost" size="xs" text="Tracker"]
 
 
 ### Apps
-- [Anime VSub](https://github.com/anime-vsub/app) [!badge variant="ghost" text="Stream"]
-- [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi) [!badge variant="ghost" text="Tracker"]
-- [Bangumi MX](http://bgmx.mysxl.cn/) [!badge variant="ghost" text="Tracker"]
+- [Anime VSub](https://github.com/anime-vsub/app) [!badge variant="ghost" size="xs" text="Stream"]
+- [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi) [!badge variant="ghost" size="xs" text="Tracker"]
+- [Bangumi MX](http://bgmx.mysxl.cn/) [!badge variant="ghost" size="xs" text="Tracker"]
 
 ### Add-ons
-- [Shikimorist](https://github.com/Hokid/shikimorist) [!badge variant="ghost"  size="xs" icon="/static/icon/crm.svg" text="Chrome"]
+- [Shikimorist](https://github.com/Hokid/shikimorist) [!badge variant="ghost" size="xs" icon="/static/icon/crm.svg" text="Chrome"]
 - [Bangumi](https://github.com/czy0729/Bangumi) [!badge variant="ghost" icon="/static/icon/apple.png" size="xs" text="Apple"] [!badge variant="ghost" size="xs" icon="/static/icon/andy.png" text="Android"]
 
 ### Software
