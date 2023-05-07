@@ -77,10 +77,10 @@ ___
 === Chinese
 - [AGE](https://www.agemys.vip/)
 - [CC](https://ccdm.cc/)
-- [Bangumi](https://bangumi.moe/) [!badge variant="ghost" size="xs" text="Tor"]
-- [Mikanani](https://mikanani.me/) [!badge variant="ghost" size="xs" text="Tor"]
-- [ACG](https://acg.rip/) [!badge variant="ghost" size="xs" text="Tor"]
-- [ACGNX](https://share.acgnx.se/) [!badge variant="ghost" size="xs" text="DDL"] [!badge variant="ghost" size="xs" text="Tor"]
+- [Bangumi](https://bangumi.moe/) [!badge variant="ghost" size="xs" text="Torrent"]
+- [Mikanani](https://mikanani.me/) [!badge variant="ghost" size="xs" text="Torrent"]
+- [ACG](https://acg.rip/) [!badge variant="ghost" size="xs" text="Torrent"]
+- [ACGNX](https://share.acgnx.se/) [!badge variant="ghost" size="xs" text="DDL"] [!badge variant="ghost" size="xs" text="Torrent"]
 
 === French
 - [Anime vostfr](https://animevostfr.tv/)
@@ -131,7 +131,7 @@ ___
 - [Anime Online HD](https://animesonlinehd.vip/)
 - [Animes Zone](https://animeszone.net/)
 - [Anime Kage](https://ak560.anime-kage.eu/) [!badge variant="ghost" size="xs" text="DDL"]
-- [Kero Seed](https://www.keroseed.com/)  [!badge variant="ghost" size="xs" text="Tor"]
+- [Kero Seed](https://www.keroseed.com/)  [!badge variant="ghost" size="xs" text="Torrent"]
 
 === Romanian
 - [AnimeAZU](https://www.animeazu.net/)
@@ -144,7 +144,7 @@ ___
 - [Anilibria](https://anilibria.life/) [!badge variant="ghost" size="xs" text="Sub"]
 - [Akari Anime](https://akari-anime.com/)
 - [Anidub](https://anidub.live/)
-- [Anime Slayer](http://animelayer.ru/) [!badge variant="ghost" size="xs" text="Tor"]
+- [Anime Slayer](http://animelayer.ru/) [!badge variant="ghost" size="xs" text="Torrent"]
 - [Dark Libria](https://darklibria.it/) [!badge variant="ghost" size="xs" text="Stream"] [!badge variant="ghost" size="xs" text="DDL"] 
 
 === Spanish
@@ -156,7 +156,7 @@ ___
 - [Japan Paw](https://japan-paw.net/) [!badge variant="ghost" size="xs" text="DDL"]
 - [Ivanime](https://www.ivanime.com/) [!badge variant="ghost" size="xs" text="DDL"]
 - [DW Anime](https://dw-anime.net/) [!badge variant="ghost" size="xs" text="DDL"]
-- [Frozen Layer](https://www.frozen-layer.com/) [!badge variant="ghost" size="xs" text="Tor"]
+- [Frozen Layer](https://www.frozen-layer.com/) [!badge variant="ghost" size="xs" text="Torrent"]
 
 === Turkish
 - [Anizm](https://anizm.net/)
@@ -175,19 +175,19 @@ ___
 ## Others
 
 ### Websites
-- [Bangumi](https://bangumi.tv/) [!badge variant="ghost" size="xs" text="Tracker"]
-- [Proxer](https://proxer.me/) [!badge variant="ghost" size="xs" text="Community"]
-- [Shikimori](https://shikimori.one/) [!badge variant="ghost" size="xs" text="Tracker"]
+- [Bangumi](https://bangumi.tv/) [!badge variant="ghost" icon="/static/icon/cn.png" size="xs" text="CN"] [!badge variant="ghost" size="xs" text="Tracker"] 
+- [Proxer](https://proxer.me/) [!badge variant="ghost" icon="/static/icon/germany.png" size="xs" text="DE"] [!badge variant="ghost" size="xs" text="Community"]
+- [Shikimori](https://shikimori.one/) [!badge variant="ghost" icon="/static/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" text="Tracker"]
 
 
 ### Apps
-- [Anime VSub](https://github.com/anime-vsub/app) [!badge variant="ghost" size="xs" text="Stream"]
-- [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi) [!badge variant="ghost" size="xs" text="Tracker"]
-- [Bangumi MX](http://bgmx.mysxl.cn/) [!badge variant="ghost" size="xs" text="Tracker"]
+- [Anime VSub](https://github.com/anime-vsub/app) [!badge variant="ghost" size="xs" icon="/static/icon/vietnam.png" text="VN"] [!badge variant="ghost" size="xs" text="Stream"]
+- [Bangumi MX](http://bgmx.mysxl.cn/) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"]  [!badge variant="ghost" size="xs" text="Tracker"]
+- [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi) [!badge variant="ghost" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Tracker"] 
 
 ### Add-ons
-- [Shikimorist](https://github.com/Hokid/shikimorist) [!badge variant="ghost" size="xs" icon="/static/icon/crm.svg" text="Chrome"]
-- [Bangumi](https://github.com/czy0729/Bangumi) [!badge variant="ghost" icon="/static/icon/apple.png" size="xs" text="Apple"] [!badge variant="ghost" size="xs" icon="/static/icon/andy.png" text="Android"]
+- [Bangumi](https://github.com/czy0729/Bangumi)  [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" icon="/static/icon/apple.png" size="xs" text="Apple"] [!badge variant="ghost" size="xs" icon="/static/icon/andy.png" text="Android"]
+- [Shikimorist](https://github.com/Hokid/shikimorist) [!badge variant="ghost" icon="/static/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" icon="/static/icon/crm.svg" text="Chrome"]
 
 ### Software
-- [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) [!badge variant="ghost" size="xs" text="Downloader"]
+- [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"]  [!badge variant="ghost" size="xs" text="Downloader"]
