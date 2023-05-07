@@ -183,11 +183,13 @@ ___
 ### Apps
 - [Anime VSub](https://github.com/anime-vsub/app) [!badge variant="ghost" size="xs" icon="/static/icon/vietnam.png" text="VN"] [!badge variant="ghost" size="xs" text="Stream"]
 - [Bangumi MX](http://bgmx.mysxl.cn/) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"]  [!badge variant="ghost" size="xs" text="Tracker"]
-- [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi) [!badge variant="ghost" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Tracker"] 
+- [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Tracker"] 
+
 
 ### Add-ons
 - [Bangumi](https://github.com/czy0729/Bangumi)  [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" icon="/static/icon/apple.png" size="xs" text="Apple"] [!badge variant="ghost" size="xs" icon="/static/icon/andy.png" text="Android"]
 - [Shikimorist](https://github.com/Hokid/shikimorist) [!badge variant="ghost" icon="/static/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" icon="/static/icon/crm.svg" text="Chrome"]
+
 
 ### Software
 - [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"]  [!badge variant="ghost" size="xs" text="Downloader"]
