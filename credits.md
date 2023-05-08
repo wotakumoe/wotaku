@@ -50,5 +50,5 @@ If you want to submit or correct a link instead of creating a pull request, plea
 </style>
 
 :::sample
-[!badge variant="ghost" icon="/static/asset/wahu.png" size="xl" text="Star this project"](https://github.com/anotherduckling/wotaku)
+[!badge variant="ghost" icon="/static/asset/wahu.png" size="xl" text="Star this project!"](https://github.com/anotherduckling/wotaku)
 :::
