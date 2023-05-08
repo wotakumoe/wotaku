@@ -74,6 +74,9 @@ ___
 - [Wit anime](https://witanime.com/)
 - [XSAnime](https://v.xsanime.com/)
 
+=== Bangla
+- [Bangla Dub Zone](http://bangladubzone.xyz/)
+
 === Chinese
 - [AGE](https://www.agemys.vip/)
 - [CC](https://ccdm.cc/)
