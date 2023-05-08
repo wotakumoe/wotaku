@@ -118,6 +118,7 @@ ___
 - [AnimeDL](https://github.com/justfoolingaround/animdl)
 - [nyaa DL](https://github.com/marcpinet/nyaadownloader)
 - [Crunchy-cli](https://github.com/crunchy-labs/crunchy-cli)
+- [Crunchyroll Downloader v3.0](https://github.com/hama3254/Crunchyroll-Downloader-v3.0)
 
 ### Light Novel
 - [Light novel Crawler](https://github.com/dipu-bd/lightnovel-crawler)
