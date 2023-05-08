@@ -16,7 +16,7 @@ ___
 - [Kotatsu](https://github.com/KotatsuApp/Kotatsu) [!badge variant="ghost" icon="globe" text="Web"](https://kotatsu.app/)
 
 ### Anime
-- [Saikou](https://github.com/saikou-app/saikou/) [!badge variant="ghost" icon="globe" text="Web"](https://saikou.pages.dev/) [!badge variant="ghost" size="xs" text="Manga"]
+- [Saikou](https://github.com/saikou-app/saikou/) [!badge variant="ghost" icon="video" text="TV"](https://github.com/siennaXD/SaikouTV/)  [!badge variant="ghost" icon="globe" text="Web"](https://saikou.pages.dev/)  [!badge variant="ghost" size="xs" text="Manga"]
 - [Cloudstream](https://github.com/recloudstream/cloudstream)
 - [Aniyomi](https://github.com/jmir1/aniyomi/) [!badge variant="ghost" icon="globe" text="Web"](https://aniyomi.org/) [!badge variant="ghost" size="xs" text="Manga"]
 - [Animity](https://github.com/kl3jvi/animity)
