@@ -20,6 +20,7 @@ ___
 - Ninomae Ina'nis's Peek by [a small vtuber](https://twitter.com/ninomaeinanis/status/1339282161715691521)
 - Ninomae Ina'nis's Pixel art by [Holocure team](https://twitter.com/HoloCureGame)
 - Ninomae Ina'nis's WAH! art by [Chroneco](https://www.chroneco.moe/)
+- Ninomae Ina'nis's Wahu Wahu! art by [the same small vtuber privously mentioned](https://twitter.com/ninomaeinanis/status/1652829909218373632)
 - Other icons are from [Octicons](https://primer.github.io/octicons/), [Flaticon](https://www.flaticon.com/), [SVGRepo](https://www.svgrepo.com/), [Mangadex](https://mangadex.org/)
 
 
@@ -49,5 +50,5 @@ If you want to submit or correct a link instead of creating a pull request, plea
 </style>
 
 :::sample
-[!badge variant="ghost" icon=":icon-star:" size="xl" text="Star this project"](https://github.com/anotherduckling/wotaku)
+[!badge variant="ghost" icon="/static/asset/wahu.png" size="xl" text="Star this project"](https://github.com/anotherduckling/wotaku)
 :::
