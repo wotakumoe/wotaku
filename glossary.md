@@ -30,3 +30,5 @@ ffffffffaassaa
 ffffffaeeeeeeeeeee
 
 [!embed el="video"](https://imgur.com/cEpDfxC)
+
+[!embed el="embed"](https://imgur.com/cEpDfxC)
