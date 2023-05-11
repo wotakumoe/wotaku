@@ -216,8 +216,8 @@ Eg: [Mushoku Tensei](https://anilist.co/anime/108465/Mushoku-Tensei-Jobless-Rein
 
 #### Mahou Shoujo
 Literally 'Magical Girl', it's a subgenre of fantasy centered around young girls who possess magical abilities, which they typically use through an ideal alter ego into which they can transform.
-Eg: [[Sailor Moon](https://anilist.co/anime/530/Sailor-Moon/)
-![[Sailor Moon](/static/glossary/General/mahou.jpg)]](https://anilist.co/anime/530/Sailor-Moon/)
+Eg: [Sailor Moon](https://anilist.co/anime/530/Sailor-Moon/)
+![[Sailor Moon](/static/glossary/General/mahou.jpg)](https://anilist.co/anime/530/Sailor-Moon/)
 
 #### Mecha
 Abbreviation for 'Mechanical', these shows heavily feature or focus on mechanical innovation. Robots, cyborgs, androids, and space stations, for example, all fall under the wide umbrella of mecha; however, robots are usually the primary focus.
