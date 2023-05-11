@@ -113,16 +113,22 @@ A character that isn't nervous and embarrassed with others, but on the contrary 
 #### Tsundere
 
 === Type A
+aaa
 
 === Type B
+aaa
 
 === Tsunshundare
+aaaa
 
 === Tsunsdra
+aaa
 
 === Tsungire
+aaa
 
 ===
+
 #### Yandere
 #### Yottadere
 
@@ -142,9 +148,9 @@ ___
 * **Ane:** older sister (Usually own sister)
 * **Otōto:** younger brother
 * **Imōto:** younger sister
-- **Sensei:** Teacher
-- **Kouhai**: Means 'Junior'. Can be in a workpace or school. Opposite of 'Senpai'
-- **Senpai**: Means 'Senior'. Can be in a workplace or school. Oppsoite of 'Kouhai'
+* **Sensei:** Teacher
+* **Kouhai**: Means 'Junior'. Can be in a workpace or school. Opposite of 'Senpai'
+* **Senpai**: Means 'Senior'. Can be in a workplace or school. Oppsoite of 'Kouhai'
 
 ___
 ## Terms
@@ -226,7 +232,8 @@ Eg: [Mushoku Tensei](https://anilist.co/anime/108465/Mushoku-Tensei-Jobless-Rein
 #### Mahou Shoujo
 Literally 'Magical Girl', it's a subgenre of fantasy centered around young girls who possess magical abilities, which they typically use through an ideal alter ego into which they can transform.
 Eg: [Sailor Moon](https://anilist.co/anime/530/Sailor-Moon/)
-![[Sailor Moon](/static/glossary/General/mahou.jpg)](https://anilist.co/anime/530/Sailor-Moon/)
+
+[![Sailor Moon](/static/glossary/General/mahou.jpg)](https://anilist.co/anime/530/Sailor-Moon/)
 
 #### Mecha
 Abbreviation for 'Mechanical', these shows heavily feature or focus on mechanical innovation. Robots, cyborgs, androids, and space stations, for example, all fall under the wide umbrella of mecha; however, robots are usually the primary focus.
