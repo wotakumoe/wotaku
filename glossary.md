@@ -102,18 +102,27 @@ A character that isn't nervous and embarrassed with others, but on the contrary 
 #### Kanedere
 #### Mayadere
 #### Nemuidere
-- #### Darudere
+=== Darudere
+
+===
 #### Nyandere
 #### Sadodere
 #### Gundere
 #### Kekkondere
 #### Kuudere
 #### Tsundere
-Type A
-Type B
-- #### Tsunshundare
-- #### Tsunsdra
-- #### Tsungire
+
+=== Type A
+
+=== Type B
+
+=== Tsunshundare
+
+=== Tsunsdra
+
+=== Tsungire
+
+===
 #### Yandere
 #### Yottadere
 
@@ -259,10 +268,10 @@ Cuckoldry; where MC's love interest (or important person) is 'stolen' by another
 === Type A
 Love Interest is willing and consensual from the beginning.
 
-===Type B
+=== Type B
 Love Interest is forced in the beginning, but starts to enjoy it by the end.
 
-===Type C
+=== Type C
 Love Interest is forced from start to finish.
 
 ===
