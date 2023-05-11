@@ -133,7 +133,7 @@ Type B
 
 * **Ahoge**: Literally 'Stupid Hair'. refers to a strand of hair that springs upwards from the character's head
 
-![](https://dafunda.com/wp-content/uploads/2018/05/Apa-Itu-Ahoge-Dafunda-Otaku.jpeg)
+![](/static/glossary/General/ahoge.jpeg)
 
 * **Baka**: 
 
@@ -163,7 +163,7 @@ For Eg: [Urushibara Ruka from Steins; Gate](https://anidb.net/character/23270)
 * **Yamato Nadeshiko**: Japanese term used to describe an ideal Japanese woman. They are the epitome of pure, feminine beauty.
 
 * **Zettai Ryouiki**: Translates to 'Absolute Territory'. Refers to the space of bare thighs between the skirt and above knee-length socks.
-![](https://4.bp.blogspot.com/-nwYErxP6zS4/XIlh653ZUpI/AAAAAAAAEZs/-wcQzGBnSUEdwhP6i5WI_JO7qNrZllFQwCK4BGAYYCw/s0/zetttai-ryouiki-outbreak-company.png=s0?imgmax=0)
+![](/static/glossary/General/zettai.png)
 
 ## Demihuman Moe
 
@@ -192,7 +192,7 @@ For Eg: [Urushibara Ruka from Steins; Gate](https://anidb.net/character/23270)
 ## NSFW
 
 - **Ahegao**: 'O-Face' expression.
-    ![](https://www.meme-arsenal.com/memes/25b5708e1fa048fe754bf48b778aea8e.jpg)
+    ![](/static/glossary/General/ahegao.jpg)
 - **Guro**: Fetish for gore and mutilation.
 - **Nakadashi**: Creampie
 - **Netorare**: Cuckoldry; where MC's love interest (or important person) is 'stolen' by another person. Often just written as 'NTR' online.
