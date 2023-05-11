@@ -3,8 +3,9 @@ label: Glossary
 visibility: hidden
 ---
 
-# Wotaku Glossary
 ![](/static/thumb/glossary.png)
+
+# Wotaku Glossary
 WAH!
 
 ## Region
@@ -48,8 +49,9 @@ Gentle and caring character(s) type that suffer from a severe disease or conditi
 
 #### Dandere
 Introverted character(s) that are shy, quiet, and asocial, they don't like to get involved in conflicts, but their affection is shown when they are alone or with a small group of people that they love and care.
-Eg: 
-![[Komi Shouko from Komi-san wa, Komyushou Desu.](https://anidb.net/character/117224)](https://cdn-us.anidb.net/images/main/260579.jpg)
+Eg: [Komi Shouko from Komi-san wa, Komyushou Desu.](https://anidb.net/character/117224)
+
+![Komi Shouko](https://cdn-us.anidb.net/images/main/260579.jpg)
 
 
 #### Deredere
@@ -66,6 +68,7 @@ The difference between a dandere and an oujodere is that dandere characters are 
 Characters that are lively, gentle, and caring to other characters, they are often the main character, and are very affectionate with their crush, while holding a chill relation with other characters.
 
 Eg: [Miia from Monster Musume](https://anidb.net/character/73747)
+
 ![](https://cdn-us.anidb.net/images/main/169971.jpg)
 
 
@@ -129,6 +132,7 @@ Type B
 ## Terms
 
 * **Ahoge**: Literally 'Stupid Hair'. refers to a strand of hair that springs upwards from the character's head
+
 ![](https://dafunda.com/wp-content/uploads/2018/05/Apa-Itu-Ahoge-Dafunda-Otaku.jpeg)
 
 * **Baka**: 
