@@ -64,13 +64,6 @@ ___
 ## Guides
 ___
 
-=== Glossary
-- [General otaku terms](https://www.japanesewithanime.com/2017/01/anime-words-japanese-meanings.html)
-- [Manga](https://www.japanesewithanime.com/2016/10/manga.html)
-- [Anime](https://www.japanesewithanime.com/2016/08/anime.html)
-- [Chinese Light Novels Glossary](https://immortalmountain.wordpress.com/glossary/)
-- [Japanese Visual Novels Terminology](https://visual-novels-general.fandom.com/wiki/Japanese_Terminology), [!badge variant="ghost" text="2"](https://sweetmonia.com/The-Lost-Konpeitos/a-guide-for-visual-novel-terms-genres-charage-moege-plotege-chuunige-ichaicha-kamige-kusoge-nakige-utsuge-eroge-nukige-lolige/)
-===
 
 ### Manga
 - [Mangadex highest rated](https://mangadex.org/titles?page=1&originLang=ja&translatedLang=en&order=rating.desc)

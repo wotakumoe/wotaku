@@ -35,7 +35,7 @@ ___
 - [Manga Zone](http://www.manga-zone.org/)  [!badge variant="ghost" size="xs" text="Novel"]
 - [Raw Cans](http://raw-cans.net/) [!badge variant="danger" size="xs" text="R+"]  [!badge variant="ghost" size="xs" text="Magazine"]
 
-> You can use [okdebrid](https://okdebrid.com/) & [newscon](https://www.newscon.net/d/) to download free & premium files from the file hosters.
+> You can use [okdebrid](https://okdebrid.com/), [rapidgrab](https://rapidgrab.pl/) & [newscon](https://www.newscon.net/d/) to download free & premium files from the file hosters.
 
 ![](/static/banner/res.png)
 ## Resources

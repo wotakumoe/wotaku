@@ -47,7 +47,7 @@ Words used to describe anime girls based on their personality.
 #### Bakadere
 As clear by the word "baka", these characters are literally idiots, clumsy, and do things that are questionable, but due to their child-like innocence and optimism, they are kind-hearted to other characters, even though they may not realize that, and are very annoying to a protagonist.
 Eg: [Hanabatake Yoshiko from Aho-Girl](https://anidb.net/character/89068)
-[![Hanabatake Yoshiko](/static/glossary/General/bakadare.jpg)](https://anidb.net/character/89068)
+[![Hanabatake Yoshiko](/static/glossary/General/bakadare.jpg)](https://anidb.net/character/89068)--
 
 #### Byoukidere
 `zinc`
@@ -60,7 +60,7 @@ Gentle and caring character(s) type that suffer from a severe disease or conditi
 Introverted character(s) that are shy, quiet, and asocial, they don't like to get involved in conflicts, but their affection is shown when they are alone or with a small group of people that they love and care.
 Eg: [Komi Shouko from Komi-san wa, Komyushou Desu.](https://anidb.net/character/117224)
 
-[![Komi Shouko](/static/glossary/General/Dandere.jpg)](https://anidb.net/character/117224)
+[![Komi Shouko](/static/glossary/General/Dandere.jpg)](https://anidb.net/character/117224)--
 
 
 #### Deredere
@@ -74,7 +74,7 @@ Characters that are lively, gentle, and caring to other characters, they are oft
 
 Eg: [Miia from Monster Musume](https://anidb.net/character/73747)
 
-[![Miia](/static/glossary/General/Deredere.jpg)](https://anidb.net/character/73747)
+[![Miia](/static/glossary/General/Deredere.jpg)](https://anidb.net/character/73747)--
 
 
 === Oujodere
