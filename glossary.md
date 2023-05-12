@@ -45,12 +45,9 @@ ___
 Words used to describe anime girls based on their personality.
 
 #### Bakadere
-
-[![Hanabatake Yoshiko](/static/glossary/General/bakadare.jpg)](https://anidb.net/character/89068)--
-
 As clear by the word "baka", these characters are literally idiots, clumsy, and do things that are questionable, but due to their child-like innocence and optimism, they are kind-hearted to other characters, even though they may not realize that, and are very annoying to a protagonist.
 Eg: [Hanabatake Yoshiko from Aho-Girl](https://anidb.net/character/89068)
-
+[![Hanabatake Yoshiko](/static/glossary/General/bakadare.jpg)](https://anidb.net/character/89068)
 
 #### Byoukidere
 `zinc`
@@ -60,24 +57,24 @@ Eg: [Hanabatake Yoshiko from Aho-Girl](https://anidb.net/character/89068)
 Gentle and caring character(s) type that suffer from a severe disease or condition that affects their life, often there to give new perspectives to MCs in an anime, they may die to give purpose or motivation to the MC or if they're miraculously cured, they get to spend their life with the MC.
 
 #### Dandere
-
-[![Komi Shouko](/static/glossary/General/Dandere.jpg)](https://anidb.net/character/117224)--
-
 Introverted character(s) that are shy, quiet, and asocial, they don't like to get involved in conflicts, but their affection is shown when they are alone or with a small group of people that they love and care.
 Eg: [Komi Shouko from Komi-san wa, Komyushou Desu.](https://anidb.net/character/117224)
+
+[![Komi Shouko](/static/glossary/General/Dandere.jpg)](https://anidb.net/character/117224)
 
 
 #### Deredere
 
-[![Miia](/static/glossary/General/Deredere.jpg)](https://anidb.net/character/73747)--
-
 `zinc`
 'Dere' mean love, so a deredere character is all about being lovey-dovey. These characters are sweet, kind and very affectionate towards the person they love, while also being generally friendly towards other characters.
 
+
 `ven`
-Characters that are lively, gentle, and caring to other characters, they are often the main character, and are very affectionate with their crush, while holding a chill relation with other characters. Eg: [Miia from Monster Musume](https://anidb.net/character/73747)
+Characters that are lively, gentle, and caring to other characters, they are often the main character, and are very affectionate with their crush, while holding a chill relation with other characters.
 
+Eg: [Miia from Monster Musume](https://anidb.net/character/73747)
 
+[![Miia](/static/glossary/General/Deredere.jpg)](https://anidb.net/character/73747)
 
 
 === Oujodere
