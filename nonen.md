@@ -84,6 +84,7 @@ ___
 - [Mikanani](https://mikanani.me/) [!badge variant="ghost" size="xs" text="Torrent"]
 - [ACG](https://acg.rip/) [!badge variant="ghost" size="xs" text="Torrent"]
 - [ACGNX](https://share.acgnx.se/) [!badge variant="ghost" size="xs" text="DDL"] [!badge variant="ghost" size="xs" text="Torrent"]
+- [Anime Tracker List](https://github.com/DeSireFire/animeTrackerList) [!badge variant="ghost" size="xs" text="Misc"]
 
 === French
 - [Anime vostfr](https://animevostfr.tv/)
@@ -190,9 +191,11 @@ ___
 
 
 ### Add-ons
+- [Anilist Chinese](https://github.com/soruly/anilist-chinese)  [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Script"] 
 - [Bangumi](https://github.com/czy0729/Bangumi)  [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" icon="/static/icon/apple.png" size="xs" text="Apple"] [!badge variant="ghost" size="xs" icon="/static/icon/andy.png" text="Android"]
 - [Shikimorist](https://github.com/Hokid/shikimorist) [!badge variant="ghost" icon="/static/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" icon="/static/icon/crm.svg" text="Chrome"]
 
 
 ### Software
-- [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"]  [!badge variant="ghost" size="xs" text="Downloader"]
+- [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Downloader"]
+- [Sonarr AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader) [!badge variant="ghost" size="xs" icon="/static/icon/italy.png" text="IT"] [!badge variant="ghost" size="xs" text="Downloader"]

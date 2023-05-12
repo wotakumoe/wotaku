@@ -107,6 +107,3 @@ ___
 - [nHentai Telegram Bot](https://github.com/sleroq/nhentai-telegram-bot)
 
 ___
-
-## Apps
-- [Shiki Watch](https://github.com/wheremyfiji/ShikiWatch)

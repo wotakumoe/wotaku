@@ -148,6 +148,7 @@ ___
 === Index
 - [Aniplaylist](https://aniplaylist.com/)
 - [Seadex](https://releases.moe/)
+- [Sneedex](https://sneedex.moe/) [!badge variant="ghost" icon="/static/icon/discord.svg" text="Bot"](https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot)
 - [Fansubbers' Index](https://index.fansubcar.tel/)
 - [German Fansubbers' Index](https://anime-fansubs.de/)
 - [Indonasian Fansubbers' Index](https://www.fansub.id/home)
