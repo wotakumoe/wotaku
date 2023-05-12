@@ -12,7 +12,7 @@ ___
 ## Raw
 ___
 ### Reader
-- [Hachi Raw](https://hachiraw.com/) [!badge variant="ghost" size="xs" text="R"]
+- [Hachi Raw](https://hachiraw.com/) [!badge variant="danger" size="xs" text="R+"]
 - [KL Manga](https://klmanga.com/) [!badge variant="ghost" size="xs" text="R"]
 - [Mangaraw Japan](https://mangaraw.to/) [!badge variant="danger" size="xs" text="R+"]
 - [Mangaraw+](https://mangarawplus.co/)
