@@ -34,11 +34,30 @@ A manga that's been published at once. The length of the story depends on the ma
 
 ![Kimi no Kaketeru Tokomo Suki](/static/glossary/manga/oneshot.png)
 
-### Volume
- Many manga are initially published in magazines such as [Weekly Shonen Jump](http://www.shonenjump.com/j/index.html). If a manga becomes very popular, it can receive a volume release. These volumes often include redrawn content, extra chapters, and notes from the mangaka.
+
+#### Raw
+The term 'RAW' refers to manga (Japan), manhwa (Korea), or manhua (China) that has not been modified in any way from its original form.
+
+![The Way of the Househusband](/static/glossary/manga/raw.jpg)
+
+#### Sound Effects
+Sound effects in manga visualizes the characters physical or mental state, environment of the scenario, motions or just sounds(obviously).
+
+![365 Days To The Wedding; The sfx here is どよおーん” (“Doyoooon”) which means “depressed atmosphere”](/static/glossary/manga/sfx.png)
+
+> In this image you can see the parallel lines at the tops. These are symbols; works like sfx. These symbols may be used with or without sfx.
+![Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout ep. 5](/static/glossary/manga/symbol.gif)
+
+#### Splash Page
+
+A splash page is a single panel that covers the entire page (or two) and is typically reserved for depicting an action-packed or dramatic scene.
+
+![Attack on Titan ch. 95 (single page)](/static/glossary/manga/singlepage.jpg)
+
+![One Punch-Man ch. 155 (two page)](/static/glossary/manga/twopage.jpeg)
 
 #### Tankoubon
-Tankoubon, in general, is the volume collection of a manga series. Sometimes, Tankoubon collections can feature various works by the mangaka, similar to an anthology.
+Tankoubon means the volume release. Many manga are initially published in magazines such as [Weekly Shonen Jump](http://www.shonenjump.com/j/index.html). If a manga becomes very popular, it can receive a volume release a.k.a. Tankoubon. These volumes often include redrawn content, extra chapters, and notes from the mangaka. Sometimes, Tankoubon collections can feature various works by the mangaka, similar to an anthology.
 
 ![One Piece](/static/glossary/manga/Tankoubon.webp)
 
@@ -52,18 +71,6 @@ Webtoon is a special type of manga that's drawn for smartphone. Example: [Solo L
 
 ![Solo Leveling](/static/glossary/manga/webtoon.jpg)
 
-#### Raw
-The term 'RAW' refers to manga (Japan), manhwa (Korea), or manhua (China) that has not been modified in any way from its original form.
-
-![The Way of the Househusband](/static/glossary/manga/raw.jpg)
-
-#### Splash Page
-
-A splash page is a single panel that covers the entire page (or two) and is typically reserved for depicting an action-packed or dramatic scene.
-
-![Attack on Titan ch. 95 (single page)](/static/glossary/manga/singlepage.jpg)
-
-![One Punch-Man ch. 155 (two page)](/static/glossary/manga/twopage.jpeg)
 
 ___
 ## Scanlation
