@@ -20,6 +20,9 @@ Not original content and was addapted from other sources (LN, anime, picture boo
 
 ![Josee, the Tiger and the Fish](/static/glossary/manga/adaptation.jpg)
 
+#### Doujinshi
+Basically, it means indie works. If the mangaka publishes the manga on their own, then it counts as a doujinshi. It can be derivative work from a licensed franchise too. Also, it doesn't necessarily mean NSFW content. 
+
 #### Mangaka
 The artist of the manga.
 
