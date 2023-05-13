@@ -35,8 +35,7 @@ A manga that's been published at once. The length of the story depends on the ma
 ![Kimi no Kaketeru Tokomo Suki](/static/glossary/manga/oneshot.png)
 
 #### Tankoubon
-
-Tankoubon in general is the voulum release of a manga series. Many manga are published in magazines like [Weekly Shonen Jump](http://www.shonenjump.com/j/index.html). If the manga becomes really popular, then the manga can recieve a vloume a.k.a. Tankoubon release. Often these gets redraw, extra chapters & mangaka notes. Sometimes, a Tankoubon can contain various works of the mangaka like an anthology.
+Tankoubon, in general, is the volume collection of a manga series. Many mangas are initially published in magazines such as [Weekly Shonen Jump](http://www.shonenjump.com/j/index.html). If a manga becomes very popular, it can receive a volume release. These volumes often include redrawn content, extra chapters, and notes from the mangaka. Sometimes, Tankoubon collections can feature various works by the mangaka, similar to an anthology.
 
 ![One Piece](/static/glossary/manga/Tankoubon.webp)
 
@@ -46,12 +45,12 @@ Was originally published on a web platform. Example: [ReLife](https://mangadex.o
 ![ReLife](/static/glossary/manga/webcomic.jpg)
 
 #### Webtoon
-Webtoon is a special type of manga that's drawn for smartphone. Example: [Solo Leveling](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0/solo-leveling?tab=art)
+Webtoon is a special type of manga that's drawn for smartphone. Example: [Solo Leveling](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0/solo-leveling)
 
 ![Solo Leveling](/static/glossary/manga/webtoon.jpg)
 
 #### Raw
-The original/uneditted manga.
+The term 'RAW' refers to manga (Japan), manhwa (Korea), or manhua (China) that has not been modified in any way from its original form.
 
 ![The Way of the Househusband](/static/glossary/manga/raw.jpg)
 
