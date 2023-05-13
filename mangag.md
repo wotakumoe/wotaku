@@ -41,7 +41,7 @@ A manga that's been published at once. The length of the story depends on the ma
 #### Raw
 The term 'RAW' refers to manga (Japan), manhwa (Korea), or manhua (China) that has not been modified in any way from its original form.
 
-![The Way of the Househusband](/static/glossary/manga/raw.jpg)
+![We are magical boys](/static/glossary/manga/raw.jpg)
 
 #### Sound Effects
 Sound effects in manga visualizes the characters physical or mental state, environment of the scenario, motions or just sounds(obviously).
