@@ -34,8 +34,11 @@ A manga that's been published at once. The length of the story depends on the ma
 
 ![Kimi no Kaketeru Tokomo Suki](/static/glossary/manga/oneshot.png)
 
+### Volume
+ Many manga are initially published in magazines such as [Weekly Shonen Jump](http://www.shonenjump.com/j/index.html). If a manga becomes very popular, it can receive a volume release. These volumes often include redrawn content, extra chapters, and notes from the mangaka.
+
 #### Tankoubon
-Tankoubon, in general, is the volume collection of a manga series. Many mangas are initially published in magazines such as [Weekly Shonen Jump](http://www.shonenjump.com/j/index.html). If a manga becomes very popular, it can receive a volume release. These volumes often include redrawn content, extra chapters, and notes from the mangaka. Sometimes, Tankoubon collections can feature various works by the mangaka, similar to an anthology.
+Tankoubon, in general, is the volume collection of a manga series. Sometimes, Tankoubon collections can feature various works by the mangaka, similar to an anthology.
 
 ![One Piece](/static/glossary/manga/Tankoubon.webp)
 
