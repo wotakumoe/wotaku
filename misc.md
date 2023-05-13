@@ -127,6 +127,7 @@ ___
 - [AniSearch](https://www.anisearch.com/)
 - [MyAnimeList](https://myanimelist.net/)
 === Schedule
+- [Anica](https://anica.jp/)
 - [AniChart](https://anichart.net/)
 - [AnimeSchedule](https://animeschedule.net/)
 - [Livechart](https://www.livechart.me/)
@@ -143,6 +144,7 @@ ___
 - [Seadex](https://releases.moe/)
 - [Sneedex](https://sneedex.moe/) [!badge variant="ghost" icon="/static/icon/discord.svg" text="Bot"](https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot)
 - [Fansubbers' Index](https://index.fansubcar.tel/)
+- [Fansub DB](https://fansubdb.com/)
 - [German Fansubbers' Index](https://anime-fansubs.de/)
 - [Indonasian Fansubbers' Index](https://www.fansub.id/home)
 ===
@@ -168,6 +170,7 @@ ___
 ## Portals
 ____
 
+- [Anime Corner](https://animecorner.me/)
 - [Anitrendz](https://anitrendz.net/news/)
 - [Anime News Network](https://www.animenewsnetwork.com/)
 - [Anime Senpai](https://www.animesenpai.net/)
