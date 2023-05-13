@@ -11,9 +11,7 @@ ___
 ## Terms 
 
 #### 4-Koma
-4-Koma (aka Yonkoma manga) features four panels, follows a specific pattern where every four panels lead up to a punchline.
-
-Example: [Servant X Service](https://mangadex.org/title/1300f427-ce73-4314-952a-822604440214/servant-x-service)
+4-Koma (aka Yonkoma manga) features four panels, follows a specific pattern where every four panels lead up to a punchline. Example: [Servant X Service](https://mangadex.org/title/1300f427-ce73-4314-952a-822604440214/servant-x-service)
 
 ![](/static/glossary/manga/4koma.jpeg)
 
