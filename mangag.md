@@ -23,8 +23,9 @@ Not original content and was addapted from other sources (LN, anime, picture boo
 #### Mangaka
 The artist of the manga.
 
+[!embed](https://www.youtube.com/watch?v=zp6_kvcEI_4)
 
-#### Omake:
+#### Omake
 A bonus/extra chapter which doesn't really affect the main story. Generally gives artworks, character backgrounds, mangaka notes or an extra story.
 
 
@@ -34,8 +35,10 @@ A manga that's been published at once. The length of the story depends on the ma
 ![Kimi no Kaketeru Tokomo Suki](/static/glossary/manga/oneshot.png)
 
 #### Tankoubon
-A tankoubon is a type of book in the manga genre that combines various chapters from the same series or multiple works by the mangaka into a single volume. This can include collecting several one-shot works or doujinshi (self-published works) into one book.
 
+Tankoubon in general is the voulum release of a manga series. Many manga are published in magazines like [Weekly Shonen Jump](http://www.shonenjump.com/j/index.html). If the manga becomes really popular, then the manga can recieve a vloume a.k.a. Tankoubon release. Often these gets redraw, extra chapters & mangaka notes. Sometimes, a Tankoubon can contain various works of the mangaka like an anthology.
+
+![One Piece](/static/glossary/manga/Tankoubon.webp)
 
 #### Webcomic/Webmanga
 Was originally published on a web platform. Example: [ReLife](https://mangadex.org/title/6e3553b9-ddb5-4d37-b7a3-99998044774e/relife)
