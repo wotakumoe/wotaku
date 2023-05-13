@@ -45,7 +45,7 @@ Sound effects in manga visualizes the characters physical or mental state, envir
 
 ![365 Days To The Wedding; The sfx here is どよおーん” (“Doyoooon”) which means “depressed atmosphere”](/static/glossary/manga/sfx.png)
 
-> In this image you can see the parallel lines at the tops. These are symbols; works like sfx. These symbols may be used with or without sfx.
+> In the sfx image you can see the parallel lines at the tops. These are symbols; works like sfx. These symbols may be used with or without sfx. They can have multiple meaning depending on the context. Like in the next image, it means shock.
 ![Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout ep. 5](/static/glossary/manga/symbol.gif)
 
 #### Splash Page
