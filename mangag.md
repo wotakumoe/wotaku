@@ -70,7 +70,7 @@ Was originally published on a web platform. The platform can be free(twitter, pi
 ![ReLife](/static/glossary/manga/webcomic.jpg)
 
 #### Webtoon
-Webtoon is a type of manga that's drawn for smartphone. The manga has to follow [different rules](https://www.webtoons.com/en/tiptoon/lozolz/webtoon-editing-tips/viewer?title_no=1268&episode_no=24) than traditional manga so that it is easier to read in smartphone display. These are also known as **"Long strip"**. Some of the webcomic also follows the webtoon route. Example: [Solo Leveling](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0/solo-leveling) & [ReLife](https://mangadex.org/title/6e3553b9-ddb5-4d37-b7a3-99998044774e/relife)
+Webtoon is a type of manga that's drawn for smartphone. The manga has to follow [different rules](https://www.webtoons.com/en/tiptoon/lozolz/webtoon-editing-tips/viewer?title_no=1268&episode_no=24) than traditional manga so that it is easier to read in smartphone display. These are also known as **"Long strip"**. Some of the webcomics also follows the long strip route. Example: [Solo Leveling](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0/solo-leveling) & [ReLife](https://mangadex.org/title/6e3553b9-ddb5-4d37-b7a3-99998044774e/relife)
 
 ![Solo Leveling](/static/glossary/manga/webtoon.jpg)
 
