@@ -54,6 +54,14 @@ The term 'RAW' refers to manga (Japan), manhwa (Korea), or manhua (China) that h
 
 ![The Way of the Househusband](/static/glossary/manga/raw.jpg)
 
+#### Splash Page
+
+A splash page is a single panel that covers the entire page (or two) and is typically reserved for depicting an action-packed or dramatic scene.
+
+![Attack on Titan ch. 95 (single page)](/static/glossary/manga/singlepage.jpg)
+
+![One Punch-Man ch. 155 (two page)](/static/glossary/manga/twopage.jpeg)
+
 ___
 ## Scanlation
 
