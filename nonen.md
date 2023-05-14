@@ -80,8 +80,10 @@ ___
 === Chinese
 - [AGE](https://www.agemys.vip/)
 - [CC](https://ccdm.cc/)
+- [Yinghuacd](http://www.yinghuacd.com/)
 - [Bangumi](https://bangumi.moe/) [!badge variant="ghost" size="xs" text="Torrent"]
 - [Mikanani](https://mikanani.me/) [!badge variant="ghost" size="xs" text="Torrent"]
+- [MioBT](http://www.miobt.com/) [!badge variant="ghost" size="xs" text="Torrent"]
 - [ACG](https://acg.rip/) [!badge variant="ghost" size="xs" text="Torrent"]
 - [ACGNX](https://share.acgnx.se/) [!badge variant="ghost" size="xs" text="DDL"] [!badge variant="ghost" size="xs" text="Torrent"]
 - [Anime Tracker List](https://github.com/DeSireFire/animeTrackerList) [!badge variant="ghost" size="xs" text="Misc"]
