@@ -65,7 +65,7 @@ Tankoubon means the volume release. Many manga are initially published in magazi
 ![One Piece](/static/glossary/manga/Tankoubon.webp)
 
 #### Webcomic/Webmanga
-Was originally published on a web platform. The platform can be free(twitter, pixiv etc) or paid (Comico, comic-walker etc.). Example: [ReLife](https://mangadex.org/title/6e3553b9-ddb5-4d37-b7a3-99998044774e/relife)
+Was originally published on a web platform. The platform can be free(twitter, pixiv etc) or paid (Comico, comic-walker etc.). Example: [ReLife](https://mangadex.org/title/6e3553b9-ddb5-4d37-b7a3-99998044774e/relife) ([comico](https://www.comico.jp/comic/23)) & [A Story About Smoking at the Back of the Supermarket](https://mangadex.org/title/baa95345-24fb-47a9-83e9-434ff671f968/super-no-ura-de-yani-suu-hanashi) ([twitter](https://twitter.com/jinusi822))
 
 ![ReLife](/static/glossary/manga/webcomic.jpg)
 
