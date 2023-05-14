@@ -16,7 +16,7 @@ ___
 ![](/static/glossary/manga/4koma.jpeg)
 
 #### Adaptation
-Not original content and was addapted from other sources (LN, anime, picture book). Example: [Josee, the Tiger and the Fish](https://mangadex.org/search?q=Josee%2C+the+Tiger+and+the+Fish)
+Not original content and was addapted from other sources (light novel, anime, picture book etc.). Example: [Josee, the Tiger and the Fish](https://mangadex.org/search?q=Josee%2C+the+Tiger+and+the+Fish) which was a [Light Novel](https://yenpress.com/titles/9781975340469-josee-the-tiger-and-the-fish-light-novel) adapatation.
 
 ![Josee, the Tiger and the Fish](/static/glossary/manga/adaptation.jpg)
 
