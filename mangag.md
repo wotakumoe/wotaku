@@ -103,4 +103,4 @@ The job title is self-explanatory.
 #### Quality controller (QC)
 The job title is self-explanatory. He generally posts the final product but this post may or may not exist depending on the project or group's working strategy.
 
-![Kilroy Was Here](https://cdn.discordapp.com/attachments/1099583990379335715/1105521078601793536/XVl4ksk.jpg)
+![Kilroy Was Here](/static/glossary/manga/compare.jpg)
