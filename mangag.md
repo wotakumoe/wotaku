@@ -101,7 +101,7 @@ A good example of cleaning and redrawing process by Raj:
 #### Translator (TL)
 The job title is self-explanatory. TL translates all the text in the manga incluiding dialogues, sound effects and other texts in the panels.
 
-![](/static/glossary/manga/tl.png)
+![Living, Eating, and Sleeping Together ch. 1 TL script page 1-5](/static/glossary/manga/tl.png)
 
 #### Typesetter (TS)
 Typesetter takes the translated texts from the translator(in a docs file) and place it on the panel with appropriate font, formating & sfx drawing. Sometimes TS can do both translation and typesetting.
