@@ -85,7 +85,7 @@ ___
 ## Scanlation
 
 #### Scanlator
-A group that fan translate a manga/manhwa/manhua. The group takes the raw file and translate the whole manga (including dialogue, sfx & other forms of text). Also sometimes the [wordplays](https://psychology.fandom.com/wiki/Japanese_wordplay) & cultural references provided in that chapter are explained in the credit section.
+A group that fan translate a manga/manhwa/manhua. The group takes the raw file and translate the whole manga (including dialogue, sfx & other forms of text). Also, sometimes the [wordplays](https://psychology.fandom.com/wiki/Japanese_wordplay) & cultural references provided in that chapter are explained in the credit section.
 
 #### Cleaner (CL)
 Cleaner takes the raw file, fixes the faults (artifacts due to scanning, color shifts, tilts etc) & cleans all the original text (SFX too if needed). But these days, this can be only removing texts since digital raw is widely available.
