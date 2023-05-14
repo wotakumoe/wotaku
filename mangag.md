@@ -28,6 +28,10 @@ The artist of the manga.
 
 [!embed](https://www.youtube.com/watch?v=zp6_kvcEI_4)
 
+#### Long strip
+It's newer type of comics format. Long strip comics are made for smartphone readers. The flow of the panels is up-down instead of traditional right-left. The panels are scrollable vertically so that it is easier to read in smartphone. As a result you have to follow [different rules](https://www.webtoons.com/en/tiptoon/lozolz/webtoon-editing-tips/viewer?title_no=1268&episode_no=24) than the traditional manga format. This format is widely used in the manhwa and manhua industries.
+
+
 #### Omake
 A bonus/extra chapter which doesn't really affect the main story. Generally gives artworks, character backgrounds, mangaka notes or an extra story.
 
@@ -59,27 +63,29 @@ A splash page is a single panel that covers the entire page (or two) and is typi
 
 ![One Punch-Man ch. 155 (two page)](/static/glossary/manga/twopage.jpeg)
 
+
 #### Tankoubon
 Tankoubon means the volume release. Many manga are initially published in magazines such as [Weekly Shonen Jump](http://www.shonenjump.com/j/index.html). If a manga becomes very popular, it can receive a volume release a.k.a. Tankoubon. These volumes often include redrawn content, extra chapters, and notes from the mangaka. Sometimes, Tankoubon collections can feature various works by the mangaka, similar to an anthology.
 
 ![One Piece](/static/glossary/manga/Tankoubon.webp)
+
 
 #### Webcomic/Webmanga
 Was originally published on a web platform. The platform can be free(twitter, pixiv etc) or paid (Comico, comic-walker etc.). Example: [ReLife](https://mangadex.org/title/6e3553b9-ddb5-4d37-b7a3-99998044774e/relife) ([comico](https://www.comico.jp/comic/23)) & [A Story About Smoking at the Back of the Supermarket](https://mangadex.org/title/baa95345-24fb-47a9-83e9-434ff671f968/super-no-ura-de-yani-suu-hanashi) ([twitter](https://twitter.com/jinusi822))
 
 ![ReLife](/static/glossary/manga/webcomic.jpg)
 
+
 #### Webtoon
-Webtoon is a type of manga that's drawn for smartphone. The manga has to follow [different rules](https://www.webtoons.com/en/tiptoon/lozolz/webtoon-editing-tips/viewer?title_no=1268&episode_no=24) than traditional manga so that it is easier to read in smartphone display. These are also known as **"Long strip"**. Some of the webcomics also follows the long strip route. Example: [Solo Leveling](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0/solo-leveling) & [ReLife](https://mangadex.org/title/6e3553b9-ddb5-4d37-b7a3-99998044774e/relife)
+Webtoon in general indicates Korean long strip comics. They are primarily made smartphone but sometimes they publish the [physical version](https://www.youtube.com/watch?v=BY5h7v9Ll_E) too. Example: [Solo Leveling](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0/solo-leveling)
 
 ![Solo Leveling](/static/glossary/manga/webtoon.jpg)
-
 
 ___
 ## Scanlation
 
 #### Scanlator
-A group that fan translate a manga/manhwa/manhua.
+A group that fan translate a manga/manhwa/manhua. The group takes the raw file and translate the whole manga (including dialogue, sfx & other forms of text). Also sometimes the [wordplays](https://psychology.fandom.com/wiki/Japanese_wordplay) & cultural references provided in that chapter are explained in the credit section.
 
 #### Cleaner (CL)
 Cleaner takes the raw file, fixes the faults (artifacts due to scanning, color shifts, tilts etc) & cleans all the original text (SFX too if needed). But these days, this can be only removing texts since digital raw is widely available.
