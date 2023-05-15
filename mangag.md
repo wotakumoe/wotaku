@@ -112,4 +112,4 @@ The job title is self-explanatory.
 #### Quality controller (QC)
 QC overviews all the steps. He generally posts the final product but this post may or may not exist depending on the project or group's working strategy.
 
-![Kilroy Was Here](/static/glossary/manga/compare.jpg)
+![Kilroy Was Here (Atelier du Noir)](/static/glossary/manga/compare.jpg)

@@ -83,12 +83,14 @@ ___
 === Guides
 - [Visual Novel Guide by MoeWay](https://learnjapanese.moe/vn/)
 - [VNDB top rated](https://vndb.org/v?f=022gja3gja&s=34w)
+
 === Recommendations
 - [Starter pack](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub)
 - [VN-chart by difficulty](https://anacreondjt.gitlab.io/vn-chart/)
 - [r/Visualnovels' recommendation](https://sites.google.com/view/rvisualnovels-recs/home)
 - [r/VN's 2018 recommendations](https://vnrecs.github.io/)
 - [What are you reading?](https://some-guy.org/vnswayrarchive/recommendations)
+
 ===
 
 ### Miscellaneous
@@ -99,15 +101,18 @@ ___
 - [TheMoeWay](https://learnjapanese.moe/)
 - [jpdb](https://www.jpdb.io/)
 - [itazuraneko](https://itazuraneko.neocities.org/)
+
 === Fansubbing Guide
 - [Encode](https://guide.encode.moe/)
 - [Goodjob Media](https://www.goodjobmedia.com/fansubbing/)
 - [Unanimated](https://unanimated.github.io/guides.htm)
 - [Yukisubs](https://yukisubs.wordpress.com/guides/)
+
 === More
 - [IRC & XDCC guide](/IRC.md)
 - [Network Stream](/ns.md)
 - [vocaloid pastebin for /jp/](https://pastebin.com/jDHxU1Jw)
+
 ===
 
 ![](/static/banner/info.png)
@@ -118,20 +123,24 @@ ___
 - [Mangaupdates](https://www.mangaupdates.com/)
 - [Manga Groups Portal](https://discord.gg/9KGMzP2)
 - [MyAnimeList](https://myanimelist.net/)
+- [Scan Updates](https://www.scanupdates.com/)
 
 ### Anime
 === Database
 - [aniDB](https://anidb.net/)
 - [Anilist](https://anilist.co/)
+- [Anime Karma List](https://animekarmalist.com/)
 - [Anime News Network](https://www.animenewsnetwork.com/)
 - [AniSearch](https://www.anisearch.com/)
 - [MyAnimeList](https://myanimelist.net/)
+
 === Schedule
 - [Anica](https://anica.jp/)
 - [AniChart](https://anichart.net/)
 - [AnimeSchedule](https://animeschedule.net/)
 - [Livechart](https://www.livechart.me/)
 - [Notify.moe](https://notify.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/animenotifier/notify.moe)
+
 === Stats/Watch guide
 - [Anime Stats](https://anime-stats.net/)
 - [Kitsu Season Trends](https://season.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/wopian/kitsu-season-trends)
@@ -139,14 +148,16 @@ ___
 - [Anime Filler List](https://www.animefillerlist.com/)
 - [Chiaki](https://chiaki.site/)
 - [r/Anime Watch Order](https://www.reddit.com/r/anime/wiki/watch_order/)
+
 === Index
 - [Aniplaylist](https://aniplaylist.com/)
 - [Seadex](https://releases.moe/)
 - [Sneedex](https://sneedex.moe/) [!badge variant="ghost" icon="/static/icon/discord.svg" text="Bot"](https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot)
 - [Fansubbers' Index](https://index.fansubcar.tel/)
-- [Fansub DB](https://fansubdb.com/)
+- [Fansub Database](https://fansubdb.com/)
 - [German Fansubbers' Index](https://anime-fansubs.de/)
 - [Indonasian Fansubbers' Index](https://www.fansub.id/home)
+
 ===
 
 
@@ -155,14 +166,17 @@ ___
 - [Novel updates](https://www.novelupdates.com/)
 - [Bookmeter](https://bookmeter.com/) [!badge variant="ghost" icon="/static/icon/jp.png" text="JP"]
 - [r/LightNovels reading order](https://www.reddit.com/r/LightNovels/wiki/reading_order)
+
 === Visual Novels
 - [The Visual Novel Database](https://vndb.org/)
 - [VNStat](https://vnstat.net/)
 - [r/Visualnovels' links](https://www.reddit.com/r/visualnovels/wiki/links/)
+
 === More
 - [Anilinks](https://anilinks.neocities.org/)
 - [AnimeCons](https://animecons.com/)
 - [VGMDB](https://vgmdb.net/)
+
 ===
 
 
