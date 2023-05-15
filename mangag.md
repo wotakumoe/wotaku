@@ -12,7 +12,7 @@ ___
 ## Terms 
 
 #### 4-Koma
-4-Koma (aka Yonkoma manga) features four panels, follows a specific pattern where every four panels lead up to a punchline. These are read up-down instead of traditional right top left. The right column is always the staring column. Example: [Tsurezure Children](https://mangadex.org/title/a840d47c-4080-4783-9c42-af8100e48079/tsurezure-children)
+4-Koma (aka Yonkoma manga) features four panels, follows a specific pattern where every four panels lead up to a punchline. These are read up-down instead of traditional right-left. The right column is always the staring column. Example: [Tsurezure Children](https://mangadex.org/title/a840d47c-4080-4783-9c42-af8100e48079/tsurezure-children)
 
 ![Tsurezure Children ch. 20](/static/glossary/manga/4koma.jpg)
 
@@ -27,7 +27,7 @@ Basically, it means indie works. If the mangaka publishes the manga on their own
 #### Mangaka
 The artist of the manga.
 
-[!embed](https://www.youtube.com/watch?v=zp6_kvcEI_4)
+[!embed](https://www.youtube-nocookie.com/embed/zp6_kvcEI_4)
 
 #### Long strip
 It's newer type of comics format. Long strip comics are made for smartphone readers. The flow of the panels is up-down instead of traditional right-left. The panels are scrollable vertically so that it is easier to read in smartphone. As a result you have to follow [different rules](https://www.webtoons.com/en/tiptoon/lozolz/webtoon-editing-tips/viewer?title_no=1268&episode_no=24) than the traditional manga format. This format is widely used in the manhwa and manhua industries.
@@ -68,7 +68,7 @@ A splash page is a single panel that covers the entire page (or two) and is typi
 #### Tankoubon
 Tankoubon means the volume release. Many manga are initially published in magazines such as [Weekly Shonen Jump](http://www.shonenjump.com/j/index.html). If a manga becomes very popular, it can receive a volume release a.k.a. Tankoubon. These volumes often include redrawn content, extra chapters, and notes from the mangaka. Sometimes, Tankoubon collections can feature various works by the mangaka, similar to an anthology.
 
-![One Piece](/static/glossary/manga/Tankoubon.webp)
+![One Piece](/static/glossary/manga/Tankoubon.jpg)
 
 
 #### Webcomic/Webmanga
@@ -78,7 +78,7 @@ Was originally published on a web platform. The platform can be free(twitter, pi
 
 
 #### Webtoon
-Webtoon in general indicates Korean long strip comics. They are primarily made smartphone but sometimes they publish the [physical version](https://www.youtube.com/watch?v=BY5h7v9Ll_E) too. Example: [Solo Leveling](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0/solo-leveling)
+Webtoon in general indicates Korean long strip comics. They are primarily made smartphone but sometimes they publish the [physical version](https://www.youtube-nocookie.com/embed/BY5h7v9Ll_E) too. Example: [Solo Leveling](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0/solo-leveling)
 
 ![Solo Leveling](/static/glossary/manga/webtoon.jpg)
 
@@ -89,17 +89,17 @@ ___
 A group that fan translate a manga/manhwa/manhua. The group takes the raw file and translate the whole manga (including dialogue, sfx & other forms of text). Also, sometimes the [wordplays](https://psychology.fandom.com/wiki/Japanese_wordplay) & cultural references provided in that chapter are explained in the credit section.
 
 #### Cleaner (CL)
-Cleaner takes the raw file, fixes the faults (artifacts due to scanning, color shifts, tilts etc) & cleans all the original text (SFX too if needed). But these days, this can be only removing texts since digital raw is widely available.
+Cleaner takes the raw file, fixes any faults (such as artifacts due to scanning, color shifts, tilts, etc.), and cleans all of the original text including SFX, if necessary. But these days, this can be only removing texts since digital raw is widely available.
 
 #### Redrawer (RD)
-Redrawer redraws all the parts erased parts by the cleaner and make it as smooth as possible. They patches everything that was affected due to scanning or other issues. Nowadays cleaning and redrawing are often done by a single person since these two are very closely related.
+Redrawer redraws all the erased parts by the cleaner and makes them as smooth as possible. They patch everything that was affected due to scanning or other issues. Nowadays, cleaning and redrawing are often done by a single person since these two tasks are closely related.
 
 A good example of cleaning and redrawing process by Raj:
-[!embed](https://www.youtube.com/watch?v=lwOTTa8F3bM)
+[!embed](https://www.youtube-nocookie.com/embed/lwOTTa8F3bM)
 
 
 #### Translator (TL)
-The job title is self-explanatory. TL translates all the text in the manga incluiding dialogues, sound effects and other texts in the panels.
+The translator translates all the text in the manga, including dialogues, sound effects, and other texts in the panels. They also provide explanations for all the jokes, cultural references, or wordplays.
 
 ![TL script of Living, Eating, and Sleeping Together ch. 1 (Page 1-5) (Helvetica Scans)](/static/glossary/manga/tl.png)
 
@@ -107,9 +107,9 @@ The job title is self-explanatory. TL translates all the text in the manga inclu
 Typesetter takes the translated script from the translator and typeset it on the panel with appropriate font, formating & sfx drawing. Sometimes TS can do both translation and typesetting.
 
 #### Proof reader (PR)
-The job title is self-explanatory. 
+PR reviews all translated text to correct any typos, awkward translations, or grammar issues. It is essential that PR is fluent in the translation language. The job of PR may become unnecessary if the TL is highly experienced, as QC could potentially take on the responsibilities.
 
-#### Quality controller (QC)
-QC overviews all the steps. He generally posts the final product but this post may or may not exist depending on the project or group's working strategy.
+#### Quality checker (QC)
+Quality checker oversees all processes, including checking the translated manga for typos, grammar errors, translation issues, and redrawing problems. However, whether or not this role exists depends on the project or group's working strategy.
 
 ![Kilroy Was Here (Atelier du Noir)](/static/glossary/manga/compare.jpg)
