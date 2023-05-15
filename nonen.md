@@ -146,6 +146,7 @@ ___
 - [Anime Buff](https://animebuff.ru/) [!badge variant="ghost" size="xs" text="Sub"]
 - [AnimeGO](https://animego.org/) [!badge variant="ghost" size="xs" text="Sub"]
 - [Anime Stars](https://animestars.org/) [!badge variant="ghost" size="xs" text="Sub"]
+- [Tunime](https://an0ncer.github.io/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/AN0NCER/an0ncer.github.io)
 - [Yummy Anime](https://yummyanime.club/)
 - [Anilibria](https://anilibria.life/) [!badge variant="ghost" size="xs" text="Sub"]
 - [Akari Anime](https://akari-anime.com/)
@@ -172,8 +173,9 @@ ___
 === Vietnamese
 - [Kaguya](https://kaguya.app/)
 - [Ani4u](https://ani4u.org/)
-- [AnimeVsub](https://animevsub.ga/)
-- [Unime](https://unime.vercel.app/)
+- [AnimeVsub](https://animevsub.ga/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/anime-vsub/desktop-web)
+- [Unime](https://unime.vercel.app/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/huy232/Unime)
+
 ===
 
 
@@ -200,4 +202,4 @@ ___
 
 ### Software
 - [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Downloader"]
-- [Sonarr AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader) [!badge variant="ghost" size="xs" icon="/static/icon/italy.png" text="IT"] [!badge variant="ghost" size="xs" text="Downloader"]
+- [Sonarr Anime Downloader](https://github.com/MainKronos/Sonarr-AnimeDownloader) [!badge variant="ghost" size="xs" icon="/static/icon/italy.png" text="IT"] [!badge variant="ghost" size="xs" text="Downloader"]
