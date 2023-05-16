@@ -41,23 +41,38 @@ ___
 
 #### Recap
 
+
 #### Title Card
+
 
 #### Branding
 
+[!embed](https://www.youtube.com/watch?v=Dt-BaKnnIRI)
+
 #### Cold Open
+
 
 #### OP/Opening
 
+[!embed](https://www.youtube.com/watch?v=PiauQ7P7mtQ)
+
 #### Mixed OP
+
+[!embed](https://www.youtube.com/watch?v=2ikL1vGhMLw)
 
 #### Filler
 
+
 #### Canon
+
 
 #### Eyecatch
 
+[!embed](https://www.youtube.com/watch?v=9h4IQHBX63k)
+
 #### ED/Ending
+
+[!embed](https://www.youtube.com/watch?v=1NfF9Bo8vhM)
 
 #### Mixed ED
 
