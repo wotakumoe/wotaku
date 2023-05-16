@@ -54,11 +54,10 @@ ___
 
 #### OP/Opening
 
-[!embed](https://www.youtube.com/watch?v=PiauQ7P7mtQ)
+
 
 #### Mixed OP
 
-[!embed](https://www.youtube.com/watch?v=2ikL1vGhMLw)
 
 #### Filler
 
@@ -72,9 +71,11 @@ ___
 
 #### ED/Ending
 
-[!embed](https://www.youtube.com/watch?v=1NfF9Bo8vhM)
+
 
 #### Mixed ED
+
+[!embed](https://www.youtube.com/watch?v=2ikL1vGhMLw)
 
 #### Omake
 

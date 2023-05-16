@@ -30,6 +30,7 @@ ___
 
 === Indonasian
 - [KomikID](https://komikid.com/)
+- [Komiku](https://komiku.id/)
 - [Komik Cast](https://komikcast.site/)
 
 === Portuguese
@@ -118,6 +119,7 @@ ___
 - [Anime Indo](https://animeindo.cfd/)
 - [AnimeForce](https://www.animeforce.it/)
 - [AnimeSail](https://154.26.137.28/)
+- [Anoboy](https://anoboy.ch/)
 - [Neonime](https://neonime.fun/)
 
 === Italian
@@ -146,6 +148,7 @@ ___
 - [Anime Buff](https://animebuff.ru/) [!badge variant="ghost" size="xs" text="Sub"]
 - [AnimeGO](https://animego.org/) [!badge variant="ghost" size="xs" text="Sub"]
 - [Anime Stars](https://animestars.org/) [!badge variant="ghost" size="xs" text="Sub"]
+- [Averlist](https://averlist.xyz/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/Averito/Averlist)
 - [Tunime](https://an0ncer.github.io/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/AN0NCER/an0ncer.github.io)
 - [Yummy Anime](https://yummyanime.club/)
 - [Anilibria](https://anilibria.life/) [!badge variant="ghost" size="xs" text="Sub"]
