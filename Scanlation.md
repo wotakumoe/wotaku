@@ -8,6 +8,13 @@ icon: typography
 This page includes resources for scanlation, including raw files, guides, and tools.
 ___
 
+![](/static/banner/comms.png)
+## Communities
+- [Scanner Usage School Server](https://discord.com/invite/NCzxVB9)
+- [r/Scanlation](https://www.reddit.com/r/Scanlation/)
+- [Manga Helpers](https://mangahelpers.com/)
+- [Font recommendations](https://discord.gg/kgZ4MXgzpx)
+
 ![](/static/banner/raw.png)
 ## Raw
 ___
@@ -41,14 +48,9 @@ ___
 ## Resources
 ___
 
-### Communities
-- [Scanner Usage School Server](https://discord.com/invite/NCzxVB9)
-- [r/Scanlation](https://www.reddit.com/r/Scanlation/)
-- [Manga Helpers](https://mangahelpers.com/)
-- [Font recommendations](https://discord.gg/kgZ4MXgzpx)
-
 ### Assets
 - [Jaded Network's SFX library](http://thejadednetwork.com/sfx/)
+- [Manga Fonts Dictionary](https://mangafonts.carrd.co/)
 - [Scanlator School Fonts](https://drive.google.com/drive/folders/1hPV4o8fmxY2Ab9tXi84l0vVOUQEgFIbU)
 - [Creative Favrica's Fonts by /MiniSheep/](https://drive.google.com/drive/folders/1WLt0y72LtqpdGK-EhQP3DV3_T_vxSvaP)
 - [CSP Retouch Library](https://docs.google.com/spreadsheets/d/1mqIqqSoddaZYu3NhCfIXJ9PzPbCLBOe1Y6mD_7s3we4/edit#gid=2085357266)
@@ -66,8 +68,7 @@ ___
 
 ### Typesetting guides
 
-- [Anonblack's typesetting guide](https://web.archive.org/web/20181214030153/http://prettyanonymo.us/index.php/scanlation-resources/anonblacks-typesetting-guide/)
-- [AnonBlack's Font Guide](https://rentry.org/fontguide)
+- [Anonblack's typesetting guide](https://mangadex.org/title/08e1f85a-bb12-4fe4-aec5-0d7a80b3a261/anonblack-s-typesetting-guide)
 - [Typesetting tutorial by Fallen Syndicate](https://coloredmanga.com/rhss-comprehensive-typesetting-guide-re-hosted-version-from-fallen-syndicates-rehost/)
 
 ### Redrawing guides
