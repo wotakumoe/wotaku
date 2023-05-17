@@ -197,9 +197,10 @@ ____
 ## Tools
 ___
 ### Analysis
-- [anime.plus](https://anime.plus/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/anime-plus/graph)  [!badge variant="ghost" size="xs" text="MAL"]
-- [Sekai](https://sekai.rl404.com/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/rl404/sekai)  [!badge variant="ghost" size="xs" text="MAL"]
-- [Sprout Anime Recommender](https://anime.ameo.dev/)  [!badge variant="ghost" size="xs" text="MAL"]   [!badge variant="ghost" size="xs" text="AL"]
+- [anime.plus](https://anime.plus/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/anime-plus/graph) [!badge variant="ghost" size="xs" text="MAL"]
+- [MAL Badges](https://www.mal-badges.com/) [!badge variant="ghost" size="xs" text="MAL"]
+- [Sekai](https://sekai.rl404.com/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/rl404/sekai) [!badge variant="ghost" size="xs" text="MAL"]
+- [Sprout Anime Recommender](https://anime.ameo.dev/) [!badge variant="ghost" size="xs" text="MAL"]  [!badge variant="ghost" size="xs" text="AL"]
 
 ### Image search
 - [SauceKudasai](https://saucekudasai.com/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/ayushgptaa/SauceKudasai)

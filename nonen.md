@@ -145,15 +145,15 @@ ___
 - [AnimeAZU](https://www.animeazu.net/)
 
 === Russian
+- [Akari Anime](https://akari-anime.com/)
+- [Anidub](https://anidub.live/)
+- [Anilibria](https://anilibria.life/) [!badge variant="ghost" size="xs" text="Sub"]
 - [Anime Buff](https://animebuff.ru/) [!badge variant="ghost" size="xs" text="Sub"]
-- [AnimeGO](https://animego.org/) [!badge variant="ghost" size="xs" text="Sub"]
 - [Anime Stars](https://animestars.org/) [!badge variant="ghost" size="xs" text="Sub"]
+- [AnimeGO](https://animego.org/) [!badge variant="ghost" size="xs" text="Sub"]
 - [Averlist](https://averlist.xyz/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/Averito/Averlist)
 - [Tunime](https://an0ncer.github.io/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/AN0NCER/an0ncer.github.io)
 - [Yummy Anime](https://yummyanime.club/)
-- [Anilibria](https://anilibria.life/) [!badge variant="ghost" size="xs" text="Sub"]
-- [Akari Anime](https://akari-anime.com/)
-- [Anidub](https://anidub.live/)
 - [Anime Slayer](http://animelayer.ru/) [!badge variant="ghost" size="xs" text="Torrent"]
 - [Dark Libria](https://darklibria.it/) [!badge variant="ghost" size="xs" text="Stream"] [!badge variant="ghost" size="xs" text="DDL"] 
 

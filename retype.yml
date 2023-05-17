@@ -19,9 +19,13 @@ meta:
 
 links:
 
-  - text: Discord
-    link: https://discord.com/users/777478477569196044
-    icon: /static/icon/discord.svg
+  - text: Github
+    link: https://github.com/anotherduckling/Wotaku
+    icon: github
+    target: blank
+
+  - link: https://github.com/anotherduckling/Wotaku
+    icon: github
     target: blank
 
 footer:
