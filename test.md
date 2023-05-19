@@ -60,92 +60,32 @@ ___
 
 ## Terms
 
-#### Ahoge
-Literally 'Stupid Hair'. refers to a strand of hair that springs upwards from the character's head.
-
-![Araragi Koyomi](/static/glossary/General/ahoge.jpeg)
-
-
-#### Baka
-Stupid.
-
-#### Chibi
-
-
-#### Chunibyo
-
-
-#### Desu 
-
-
-#### Fujoshi
-Literally 'Rotten Girl'. Refers to a girl that fantasizes about guys being in a relationship with other guys, specially shipping male characters with other male characters in manga and anime.
-
-#### Gyaru
-A fashion and lifestyle trend. Gyaru fashion often features bright, bold makeup, dyed hair (often blonde or other light colors), and short clothing.
-
-#### Hikikomori
-The people who don't go out of their home. The phenomenon can also be termed as Hikikomori.
-
-
-#### JK
-'Joshi Kousei'. Meaning high-school girl.
-
-#### Kaiju
-Giant monsters.
-
-#### Kawaii
-
-
-#### Kouhai
-Junior. Can be in a workpace or school.
-
-
-#### Loli
-Young or young-looking girl in anime and manga. Male counterpart is referred to as 'shota'.
-
-
-#### Megane
-
-
-
-#### Moe
-A word used to describe cute anime characters. Nowadays it is used to describe anything cute, like pets or clothes.
-
-
-#### Nakama
-Literally 'Comrade'. Popularized by the series 'One Piece', it is nowadays used for a group of people who are closer than family.
-
-#### Senpai/Sempai
-Senior. Can be in a workplace or school.
-
-#### Sensei
-Generally Teacher. But this can also be used to address someone  who is a respected professional or very senior in the position.
-
-
-#### Shota
-Young or young-looking boy in anime and manga. Female counterpart is referred to as 'loli'.
-
-
-#### Tokusatsu
-
-[!embed](https://www.youtube.com/watch?v=bBsDwQ1by_o)
-
-#### Trap
-A word used in anime community to refer to a person who looks the opposite gender. Most commonly used for male characters who look female. Example: [Urushibara Ruka from Steins; Gate](https://anidb.net/character/23270)
-
-![Urushibara Ruka](/static/glossary/General/trap.jpg)
-
-#### Waifu
-
-
-#### Yamato Nadeshiko
-Japanese term used to describe an ideal Japanese woman. They are the epitome of pure, feminine beauty.
-
-
-#### Zettai Ryouiki
-Translates to 'Absolute Territory'. Refers to the space of bare thighs between the skirt and above knee-length socks.
-![](/static/glossary/General/zettai.png)
+| Terms     | Meaning { class="compact" } |
+| ------  | ------ |
+| Ahoge    | Literally 'Stupid Hair'. refers to a strand of hair that springs upwards from the character's head.    |
+|  Baka  |   Stupid  |
+|  Chibi  |     |
+|  Chunibyo  |     |
+|  Desu  |     |
+|  Fujoshi  |  Literally 'Rotten Girl'. Refers to a girl that fantasizes about guys being in a relationship with other guys, specially shipping male characters with other male characters in manga and anime.   |
+|  Gyaru  |     |
+|  Hikikomori  |  The people who don't go out of their home. The phenomenon can also be termed as Hikikomori.   |
+|  JK  |  'Joshi Kousei'. Meaning high-school girl.   |
+|  Kaiju  |   Giant monsters.  |
+|  Kawaii  |     |
+|  Kouhai  |   Junior. Can be in a workpace or school.  |
+|  Loli  |   Young or young-looking girl in anime and manga.  |
+|  Megane  |     |
+|  Moe  |  A word used to describe cute anime characters. Nowadays it is used to describe anything cute, like pets or clothes.   |
+|  Nakama  |  Literally 'Comrade'. Popularized by the series 'One Piece', it is nowadays used for a group of people who are closer than family.   |
+|  Senpai/Sempai  |   Senior. Can be in a workplace or school.  |
+|  Sensei  |  Generally Teacher. But this can also be used to address someone  who is a respected professional or very senior in the position.   |
+|  Shota  |  Young or young-looking boy in anime and manga. Female counterpart is referred to as 'loli'.   |
+|  Tokusatsu  |     |
+|  Trap  |  A word used in anime community to refer to a person who looks the opposite gender. Most commonly used for male characters who look female. Example: [Urushibara Ruka from Steins; Gate](https://anidb.net/character/23270)   |
+|  Waifu  |     |
+|  Yamato Nadeshiko  |  Japanese term used to describe an ideal Japanese woman. They are the epitome of pure, feminine beauty.   |
+|  Zettai Ryouiki  |   Translates to 'Absolute Territory'. Refers to the space of bare thighs between the skirt and above knee-length socks.  |
 
 
 ___
