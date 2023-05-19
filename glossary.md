@@ -253,13 +253,12 @@ Character(s) that indulge in the manipulation of their crush's feelings and humi
 
 - complimenting dere:
     - Masodere: Character(s) that enjoy humiliating themselves, they compliment sadodere, so when combined together they are called Sadomasodere. Example: [Darkness from Konosuba](https://anidb.net/character/78021)
-        ![Darkness](/static/glossary/General/Masodere.jpg)
+![Darkness](/static/glossary/General/Masodere.jpg)
     
 
 #### Gundere
 Gun loving fanatics. Example : [Revy from Black Lagoon](https://anidb.net/character/1191)
-
-![](/static/glossary/General/Gundere.jpg)
+![Revy](/static/glossary/General/Gundere.jpg)
 
 
 #### Kekkondere
