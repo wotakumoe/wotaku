@@ -214,7 +214,7 @@ A character that isn't nervous and embarrassed with others, but on the contrary 
 
 A character who has cynical world views, is cold-hearted, and are is highly arrogant. They will get easily annoyed by other people, including their love interest at first. Example:[Annie Leonhart from Attack on Titan](https://anidb.net/character/51168)
 
-![Annie Leonhart](/static/glossary/General/Hinedere.webp)
+![Annie Leonhart](/static/glossary/General/Hinedere.jpg)
 
 #### Hiyakasudere
 'Hiyakasu' means 'to tease'. They are character who likes to tease others and sometimes flirt with those they like. They will act really seductive in front of other people and will tease those that get embarrassed easily by their actions and words, possibly the love interest. Example: [Holo from Spice & Wolf](https://anidb.net/character/29)
@@ -253,7 +253,7 @@ Character(s) that indulge in the manipulation of their crush's feelings and humi
 
 - complimenting dere:
     - Masodere: Character(s) that enjoy humiliating themselves, they compliment sadodere, so when combined together they are called Sadomasodere. Example: [Darkness from Konosuba](https://anidb.net/character/78021)
-     ![Darkness](/static/glossary/General/Sadodere.jpg)
+        ![Darkness](/static/glossary/General/Masodere.jpg)
     
 
 #### Gundere
