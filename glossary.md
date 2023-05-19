@@ -19,17 +19,15 @@ WAH!
 
 ## Demography
 
-Demography means content's target audience. The studio/publisher need to market towards that audience. But, it doesn't mean only one demography will enjoy the show. Also, many anime has elements for various demography.
-
-
 | Genre     | Target audience { class="compact" } |
 | :------:  | :------: |
 | Kodomo    | For Kids (under 10)    |
-| Shounen   | Aeni     |
-| Shoujo   | Girls (12-18)  |
-| Seinen   | Men (19-40+)  |
-| Shoujo   | Women (19-40+)  |
+| Shounen   | Boys (12-18)     |
+| Shoujo    | Girls (12-18)  |
+| Seinen    | Men (19-40+)  |
+| Shoujo    | Women (19-40+)  |
 
+> Demography means content's target audience. The studio/publisher need to market towards that audience. But, it doesn't mean only one demography will enjoy the show. Also, many anime has elements for various demography.
 ___
 
 ## Genre
@@ -37,37 +35,34 @@ ___
 #### Ecchi
 Anime or manga with lewd scenes but is not necessarily explicit or pornographic. Example: [Highschool DxD](https://anilist.co/anime/11617/High-School-DxD/)
 
-[![Highschool DxD](/static/glossary/General/ecchi.jpg)](https://anilist.co/anime/11617/High-School-DxD/)
+![Highschool DxD](/static/glossary/General/ecchi.jpg)
 
 #### Isekai
 Type of story where MC is transported to another world. Example: [Mushoku Tensei](https://anilist.co/anime/108465/Mushoku-Tensei-Jobless-Reincarnation/)
 
-[![Mushoku Tensei](/static/glossary/General/isekai.jpg)](https://anilist.co/anime/108465/Mushoku-Tensei-Jobless-Reincarnation/)
+![Mushoku Tensei](/static/glossary/General/isekai.jpg)
 
 #### Mahou Shoujo
 Literally 'Magical Girl', it's a subgenre of fantasy centered around young girls who possess magical abilities, which they typically use through an ideal alter ego into which they can transform. Example: [Sailor Moon](https://anilist.co/anime/530/Sailor-Moon/)
 
-[![Sailor Moon](/static/glossary/General/mahou.jpg)](https://anilist.co/anime/530/Sailor-Moon/)
+![Sailor Moon](/static/glossary/General/mahou.jpg)
 
 #### Mecha
 Abbreviation for 'Mechanical', these shows heavily feature or focus on mechanical innovation. Robots, cyborgs, androids, and space stations, for example, all fall under the wide umbrella of mecha; however, robots are usually the primary focus.
 
 #### Shoujo-ai
-Anime and manga that explore emotional, but largely platonic, homoerotic relationships between women. Stories with explicit content of such type, are generally referred to as 'Yuri'. Note that this distinction is only used by western audiences.
+Anime and manga that explore emotional, but largely platonic, homoerotic relationships between women. Stories with explicit content of such type, are generally referred to as 'Yuri' or 'GL'. Note that this distinction is only used by western audiences.
 
 #### Shounen-ai
-Anime and manga that explore emotional, but largely platonic, homoerotic relationships between men. Stories with explicit content of such type, are generally referred to as 'Yaoi'. Note that this distinction is only used by western audiences.
+Anime and manga that explore emotional, but largely platonic, homoerotic relationships between men. Stories with explicit content of such type, are generally referred to as 'Yaoi' or 'BL'. Note that this distinction is only used by western audiences.
 
 #### Slice of Life
 Shows that mostly focuses on the day-to-day lives of fictional characters. They are usually chill experiences focusing on relatability and feel-good vibes.Example: [Nichijou](https://anilist.co/anime/10165/Nichijou)
 
-![Nichijou](https://mangadex.org/covers/f5bf9cc3-d003-47fe-bc76-99774b2a0562/6f01162a-0353-4316-8506-101204be1d7c.jpg)
+![Nichijou](/static/glossary/General/SoL.jpg)
 
 #### Wuxia
-
-#### Yaoi/BL
-
-#### Yuri/GL
+ Literally means “Martial Heroes”. Fictional stories about regular humans who can achieve supernatural fighting ability through Chinese martial arts training and internal energy cultivation. Themes of chivalry, tragedy, revenge & romance are common.
 
 ___
 
@@ -124,7 +119,6 @@ Young or young-looking girl in anime and manga. Male counterpart is referred to 
 
 #### Moe
 A word used to describe cute anime characters. Nowadays it is used to describe anything cute, like pets or clothes.
-
 
 
 #### Nakama
@@ -201,13 +195,13 @@ Think of it like mega-deredere. An extreme version of deredere, that has an abno
 #### Goudere
 Over-achieving characters that are loyal to their masters, they view their masters as their savior and grace, so they do anything to their ability to keep them happy, and can also involve other characters as a means to contribute to their happiness, even though their master doesn't ask for that. Example: [Tooru from Miss Kobayashi's Dragon Maid](https://anidb.net/character/85812)
 
-![Tooru](https://cdn-us.anidb.net/images/main/195698.jpg)
+![Tooru](/static/glossary/General/Goudere.jpg)
 
 
 #### Hajidere
 A character that isn't nervous and embarrassed with others, but on the contrary are when they are around their crush. Example: [Boa Hancok from One Piece](https://anidb.net/character/6071)
 
-![Boa Hancock](https://cdn-us.anidb.net/images/main/80357.jpg)
+![Boa Hancock](/static/glossary/General/Hajidere.jpg)
 
 #### Himedere/Oujidere/Kamidere
 * **Hime** means princess. It's a character who wishes to be treated like a princess or a queen by the person she loves, even if she is not actual royalty.
@@ -220,27 +214,27 @@ A character that isn't nervous and embarrassed with others, but on the contrary 
 
 A character who has cynical world views, is cold-hearted, and are is highly arrogant. They will get easily annoyed by other people, including their love interest at first. Example:[Annie Leonhart from Attack on Titan](https://anidb.net/character/51168)
 
-![Annie Leonhart](https://fictionhorizon.com/wp-content/uploads/2020/09/Annie_Leonhart.jpg)
+![Annie Leonhart](/static/glossary/General/Hinedere.webp)
 
 #### Hiyakasudere
 'Hiyakasu' means 'to tease'. They are character who likes to tease others and sometimes flirt with those they like. They will act really seductive in front of other people and will tease those that get embarrassed easily by their actions and words, possibly the love interest. Example: [Holo from Spice & Wolf](https://anidb.net/character/29)
 
-![Holo](https://cdn-us.anidb.net/images/main/209420.jpg)
+![Holo](/static/glossary/General/Hiyakasudere.jpg)
 
 #### Kanedere
 'Kane' means money. They are the anime equivalent of gold diggers. They often just care about how much money a person has, and nothing else. However, if they truly love someone the habit can be broken. Example: [Eva Heinemann from Monster](https://anidb.net/character/4909)
-![Eva Heinemann](https://cdn-us.anidb.net/images/main/210538.jpg)
+![Eva Heinemann](/static/glossary/General/Kanedere.jpg)
 
 #### Mayadere
 A character who used to be an antagonist or villain of the series but switched sides after falling in love or becoming fond of another character. Example: [Esdeath from Akame ga Kill!](https://anidb.net/character/67551)
 
-![Esdeath](https://cdn-us.anidb.net/images/main/155841.jpg)
+![Esdeath](/static/glossary/General/Mayadere.jpg)
 
 
 #### Nemuidere
 Character(s) that are sleepy - they sleep with or without an intent to do so, they will also try to get as much sleep as they can. Accompanied by those qualities they may also be lazy (which in this case they'd be both a nemuidere and darudere), so they need motivation from others to do something, but they are usually very smart and artsy when they are too much of a sleepyhead. Example: [Princess Syalis from Sleepy Princess in the Demon Castle](https://anidb.net/character/108007)
 
-![Syalis](https://cdn-us.anidb.net/images/main/248704.jpg)
+![Syalis](/static/glossary/General/Nemuidere.jpg)
 
 === Darudere
 Similar to Nemuidere, but the difference is that where 'Nemui' means sleepy, 'Daru' means sluggish, they are very lazy and sluggish and unlike Nemuidere, they will only do things for people they care for and complain about it through the process of doing something, otherwise they are just dull and lazy to others
@@ -255,17 +249,17 @@ Character(s) that are cat-loving fanatics, it could come in several variations:
 #### Sadodere
 Character(s) that indulge in the manipulation of their crush's feelings and humiliating them. They are cold, violent and merciless to others, hence making them difficult to connect with others. The are also sadistic due to finding job joy in inflicting pain to their crush. Example: [Nagatoro from Don`t Toy with Me, Miss Nagatoro](https://anidb.net/anime/15622)
 
-![Nagatoro](https://cdn-us.anidb.net/images/main/257454.jpg)
+![Nagatoro](/static/glossary/General/Sadodere.jpg)
 
 - complimenting dere:
     - Masodere: Character(s) that enjoy humiliating themselves, they compliment sadodere, so when combined together they are called Sadomasodere. Example: [Darkness from Konosuba](https://anidb.net/character/78021)
-     ![Darkness](https://cdn-us.anidb.net/images/main/199027.jpg)
+     ![Darkness](/static/glossary/General/Sadodere.jpg)
     
 
 #### Gundere
 Gun loving fanatics. Example : [Revy from Black Lagoon](https://anidb.net/character/1191)
 
-![](https://cdn-us.anidb.net/images/main/15542.jpg)
+![](/static/glossary/General/Gundere.jpg)
 
 
 #### Kekkondere
@@ -296,18 +290,6 @@ aaa
 #### Yandere
 
 #### Yottadere
-
-
-___
-## Demihuman Moe
-
-* **Inumimi** - Doggirls
-* **Nekomimi** - Catgirls
-* **Kitsunemimi** - Foxgirls
-* **Nezumimi** - Mousegirls
-* **Ookamimi** - Wolfgirls
-* **Ryumimi** - Dragongirls
-* **Usagimimi** - Bunnygirls
 
 
 ___
