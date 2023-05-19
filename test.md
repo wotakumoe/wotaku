@@ -62,12 +62,12 @@ ___
 
 | Terms     | Meaning { class="compact" } |
 | ------  | ------ |
-| Ahoge    | Literally 'Stupid Hair'. refers to a strand of hair that springs upwards from the character's head.    |
+| Ahoge    | Literally 'Stupid Hair'. refers to a strand of hair that springs upwards from the character's head.  Example: [Izumi Konata](https://anidb.net/character/2999)  |
 |  Baka  |   Stupid  |
 |  Chibi  |     |
 |  Chunibyo  |     |
 |  Desu  |     |
-|  Fujoshi  |  Literally 'Rotten Girl'. Refers to a girl that fantasizes about guys being in a relationship with other guys, specially shipping male characters with other male characters in manga and anime.   |
+|  Fujoshi  | 'Rotten Girl'. Refers to a girl that fantasizes about guys being in a relationship with other guys, specially shipping male characters with other male characters in manga and anime.   |
 |  Gyaru  |     |
 |  Hikikomori  |  The people who don't go out of their home. The phenomenon can also be termed as Hikikomori.   |
 |  JK  |  'Joshi Kousei'. Meaning high-school girl.   |
