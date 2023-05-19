@@ -23,7 +23,7 @@ ___
 - [Comick](https://comick.app/home) [!badge variant="ghost" size="xs" text="R"]
 - [Mangapark](https://mangapark.net/) [!badge variant="danger" size="xs" text="R+"]
 - [Cubari Proxy](https://proxy.cubari.moe/) [!badge variant="danger" size="xs" text="R+"]
-- [Mangalife](https://manga4life.com/) | [Mangasee](https://mangasee123.com/) | [Atsumaru](https://atsu.moe/) [!badge variant="ghost" text="R"]
+- [Atsumaru](https://atsu.moe/) | [Mangasee](https://mangasee123.com/) | [Mangalife](https://manga4life.com/) [!badge variant="ghost" text="R"]
 - [Manga Katana](https://mangakatana.com/) [!badge variant="danger" size="xs" text="R+"]
 - [Colored Manga](https://coloredmanga.com/) [!badge variant="ghost" size="xs" text="R"]
 - [Manga Fire](https://mangafire.to/home) [!badge variant="ghost" size="xs" text="R"]
@@ -52,6 +52,7 @@ ___
 ===
 
 ### Scanlator
+
 
 ==- Manga
 - [Animated Glitched Scans](https://anigliscans.com/) + [!badge variant="ghost" icon="/static/icon/kr.png" text="KR"] | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/1dde9054-11fd-4f5e-a575-a50f7bd22d5f/animated-glitched-scans) [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/15ncn1v/animated-glitched-scans)
@@ -100,6 +101,8 @@ ___
 - [Realm Scans](https://realmscans.com/) + [!badge variant="ghost" icon="/static/icon/kr.png" text="KR"] | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/g8dqjxt/realm-scans)
 - [xCaliBR Scans](https://xcalibrscans.com/) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/ynopo9s/cursed-xcalibr)
 ===
+
+> I have added all the well-known scanlators for manhwa and manhua, but for manga, it's not practical or possible to add all the famous ones. So I have added my favorite ones. Yes, this section is kind of biased.
 
 > All the **Legal** manga reading sites are listed [here](https://otakulogy.github.io/manga-platform/) and [here](https://wherecanireadmanga.com/).
 
