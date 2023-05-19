@@ -25,7 +25,7 @@ Not original content and was addapted from other sources (light novel, anime, pi
 Basically, it means indie works. If the mangaka publishes the manga on their own, then it counts as a doujinshi. It can be derivative work from a licensed franchise too. Also, it doesn't necessarily mean NSFW content. 
 
 #### Mangaka
-The artist of the manga.
+Mangaka means the artist of the manga. He or she can also be the story writer. Generally, mangaka does everything by themselves, but sometimes they may employ assistants to speed up the work and cope with the weekly release schedule.
 
 [!embed](https://www.youtube-nocookie.com/embed/zp6_kvcEI_4)
 

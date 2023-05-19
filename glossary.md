@@ -27,7 +27,7 @@ WAH!
 | Seinen    | Men (19-40+)  |
 | Shoujo    | Women (19-40+)  |
 
-> Demography means content's target audience. The studio/publisher need to market towards that audience. But, it doesn't mean only one demography will enjoy the show. Also, many anime has elements for various demography.
+> Demography refers to the target audience for a piece of content. Studios and publishers need to market their content towards that specific audience, but it does not mean that only one demography will enjoy the show. Additionally, many anime/manga incorporate elements that appeal to various demographics.
 ___
 
 ## Genre
@@ -35,20 +35,14 @@ ___
 #### Ecchi
 Anime or manga with lewd scenes but is not necessarily explicit or pornographic. Example: [Highschool DxD](https://anilist.co/anime/11617/High-School-DxD/)
 
-![Highschool DxD](/static/glossary/General/ecchi.jpg)
-
 #### Isekai
 Type of story where MC is transported to another world. Example: [Mushoku Tensei](https://anilist.co/anime/108465/Mushoku-Tensei-Jobless-Reincarnation/)
-
-![Mushoku Tensei](/static/glossary/General/isekai.jpg)
 
 #### Mahou Shoujo
 Literally 'Magical Girl', it's a subgenre of fantasy centered around young girls who possess magical abilities, which they typically use through an ideal alter ego into which they can transform. Example: [Sailor Moon](https://anilist.co/anime/530/Sailor-Moon/)
 
-![Sailor Moon](/static/glossary/General/mahou.jpg)
-
 #### Mecha
-Abbreviation for 'Mechanical', these shows heavily feature or focus on mechanical innovation. Robots, cyborgs, androids, and space stations, for example, all fall under the wide umbrella of mecha; however, robots are usually the primary focus.
+Abbreviation for 'Mechanical', these shows heavily feature or focus on mechanical innovation. Robots, cyborgs, androids, and space stations, for example, all fall under the wide umbrella of mecha; however, robots are usually the primary focus. Example: [Neon Genesis Evangelion](https://anilist.co/anime/30/Shin-Seiki-Evangelion)
 
 #### Shoujo-ai
 Anime and manga that explore emotional, but largely platonic, homoerotic relationships between women. Stories with explicit content of such type, are generally referred to as 'Yuri' or 'GL'. Note that this distinction is only used by western audiences.
@@ -59,8 +53,6 @@ Anime and manga that explore emotional, but largely platonic, homoerotic relatio
 #### Slice of Life
 Shows that mostly focuses on the day-to-day lives of fictional characters. They are usually chill experiences focusing on relatability and feel-good vibes.Example: [Nichijou](https://anilist.co/anime/10165/Nichijou)
 
-![Nichijou](/static/glossary/General/SoL.jpg)
-
 #### Wuxia
 Literally means “Martial Heroes”. Fictional stories about regular humans who can achieve supernatural fighting ability through Chinese martial arts training and internal energy cultivation. Themes of chivalry, tragedy, revenge & romance are common.
 
@@ -68,91 +60,29 @@ ___
 
 ## Terms
 
-#### Ahoge
-Literally 'Stupid Hair'. refers to a strand of hair that springs upwards from the character's head.
-
-![Araragi Koyomi](/static/glossary/General/ahoge.jpeg)
-
-
-#### Baka
-Stupid.
-
-#### Chibi
-
-
-#### Chunibyo
-
-
-#### Desu 
-
-
-#### Fujoshi
-Literally 'Rotten Girl'. Refers to a girl that fantasizes about guys being in a relationship with other guys, specially shipping male characters with other male characters in manga and anime.
-
-#### Gyaru
-A fashion and lifestyle trend. Gyaru fashion often features bright, bold makeup, dyed hair (often blonde or other light colors), and short clothing.
-
-#### Hikikomori
-The people who don't go out of their home. The phenomenon can also be termed as Hikikomori.
-
-
-#### JK
-'Joshi Kousei'. Meaning high-school girl.
-
-#### Kaiju
-Giant monsters.
-
-#### Kawaii
-
-
-#### Kouhai
-Junior. Can be in a workpace or school.
-
-
-#### Loli
-Young or young-looking girl in anime and manga. Male counterpart is referred to as 'shota'.
-
-
-#### Megane
-
-
-
-#### Moe
-A word used to describe cute anime characters. Nowadays it is used to describe anything cute, like pets or clothes.
-
-
-#### Nakama
-Literally 'Comrade'. Popularized by the series 'One Piece', it is nowadays used for a group of people who are closer than family.
-
-#### Senpai/Sempai
-Senior. Can be in a workplace or school.
-
-#### Sensei
-Generally Teacher. But this can also be used to address someone  who is a respected professional or very senior in the position.
-
-
-#### Shota
-Young or young-looking boy in anime and manga. Female counterpart is referred to as 'loli'.
-
-
-#### Tokusatsu
-
-[!embed](https://www.youtube.com/watch?v=bBsDwQ1by_o)
-
-#### Trap
-A word used in anime community to refer to a person who looks the opposite gender. Most commonly used for male characters who look female. Example: [Urushibara Ruka from Steins; Gate](https://anidb.net/character/23270)
-![Urushibara Ruka](/static/glossary/General/trap.jpg)
-
-#### Waifu
-
-
-#### Yamato Nadeshiko
-Japanese term used to describe an ideal Japanese woman. They are the epitome of pure, feminine beauty.
-
-
-#### Zettai Ryouiki
-Translates to 'Absolute Territory'. Refers to the space of bare thighs between the skirt and above knee-length socks.
-![](/static/glossary/General/zettai.png)
+| Terms     | Meaning { class="compact" } |
+| ------  | ------ |
+| Ahoge    | Literally 'Stupid Hair'. refers to a strand of hair that springs upwards from the character's head.  Example: [Izumi Konata](https://anidb.net/character/2999)  |
+|  Baka  |   Stupid  |
+|  Chibi  |  Literally "Small/Short". In real life it can be insulting but in anime it's used for cutesy style. Example: [Doma Umaru](https://anidb.net/character/75170)  |
+|  Chuunibyou  |   *It's not possible to make a justified explaination without over simplifying things. So read [this post](https://rentry.org/whatisChuunibyou) instead.*  |
+|  Fujoshi  | 'Rotten Girl'. Refers to a girl that fantasizes about guys being in a relationship with other guys, specially shipping male characters with other male characters in manga and anime.   |
+|  Gyaru  |  English slang equivalent of "Gal". It refers to a subculture and fashion style in Japan where girls wear dramatic tan makeup, sport big hair, and embrace 2000s fashion trends. Example: [Kitagawa Marin](https://anidb.net/character/120646)   |
+|  Hikikomori  |  The people who don't go out of their home. The phenomenon can also be termed as Hikikomori. You can watch [this video](https://www.youtube.com/watch?v=tnFVot15KcI) to get a clearer idea.  |
+|  JK  |  "Joshi Kousei". Meaning high-school girl.   |
+|  Kaiju  |   Giant monsters.  |
+|  Kawaii  |   Cute.  |
+|  Kouhai  |   Junior. Can be in a workpace or school.  |
+|  Loli  |   Young or young-looking girl in anime and manga.  |
+|  Moe  |  A word used to describe cute anime characters. Nowadays it is used to describe anything cute, like pets or clothes.   |
+|  Nakama  |  Literally "Comrade". Popularized by the series 'One Piece', it is nowadays used for a group of people who are closer than family.   |
+|  Senpai/Sempai  |   Senior. Can be in a workplace or school.  |
+|  Sensei  |  Generally Teacher. But this can also be used to address someone  who is a respected professional or very senior in the position.   |
+|  Shota  |  Young or young-looking boy in anime and manga.  |
+|  Tokusatsu  |   Literally "Special effects". These term can be applied to movies and tv shows with superheroes with a reconizable style of special effects. [Examples of Tokusatsu](https://www.youtube.com/watch?v=bBsDwQ1by_o) |
+|  Trap  |  A word used in anime community to refer to a person who looks the opposite gender. Most commonly used for male characters who look female. Example: [Urushibara Ruka from Steins; Gate](https://anidb.net/character/23270)   |
+|  Yamato Nadeshiko  |  Japanese term used to describe an ideal Japanese woman. They are the epitome of pure, feminine beauty.   |
+|  Zettai Ryouiki  |   Translates to 'Absolute Territory'. Refers to the space of bare thighs between the skirt and above knee-length socks.  |
 
 
 ___
@@ -269,22 +199,14 @@ Gun loving fanatics. Example : [Revy from Black Lagoon](https://anidb.net/charac
 
 #### Tsundere
 
-=== Type A
-aaa
+| Types     | Meaning { class="compact" } |
+| ------  | ------ |
+|  Type A  |     |
+|  Type B  |     |
+|  Tsunshundare  |     |
+|  Tsunsdra  |     |
+|  Tsungire  |     |
 
-=== Type B
-aaa
-
-=== Tsunshundare
-aaaa
-
-=== Tsunsdra
-aaa
-
-=== Tsungire
-aaa
-
-===
 
 #### Yandere
 
@@ -301,16 +223,11 @@ ___
 #### Netorare
 Cuckoldry; where MC's love interest (or important person) is 'stolen' by another person. Often just written as 'NTR' online.
 
-=== Type A
-Love Interest is willing and consensual from the beginning.
-
-=== Type B
-Love Interest is forced in the beginning, but starts to enjoy it by the end.
-
-=== Type C
-Love Interest is forced from start to finish.
-
-===
+| Types     | Meaning { class="compact" } |
+| ------  | ------ |
+|  Type A  |  Love Interest is willing and consensual from the beginning.   |
+|  Type B  |  Love Interest is forced in the beginning, but starts to enjoy it by the end.   |
+|  Type C  |  Love Interest is forced from start to finish.   |
 
 #### Netorase
 Cuckoldry; where MC enjoys / is willing to have the love interest get stolen by another person

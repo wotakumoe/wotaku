@@ -27,7 +27,7 @@ WAH!
 | Seinen    | Men (19-40+)  |
 | Shoujo    | Women (19-40+)  |
 
-> Demography means content's target audience. The studio/publisher need to market towards that audience. But, it doesn't mean only one demography will enjoy the show. Also, many anime has elements for various demography.
+> Demography refers to the target audience for a piece of content. Studios and publishers need to market their content towards that specific audience, but it does not mean that only one demography will enjoy the show. Additionally, many anime/manga incorporate elements that appeal to various demographics.
 ___
 
 ## Genre
@@ -67,7 +67,7 @@ ___
 |  Chibi  |  Literally "Small/Short". In real life it can be insulting but in anime it's used for cutesy style. Example: [Doma Umaru](https://anidb.net/character/75170)  |
 |  Chuunibyou  |   *It's not possible to make a justified explaination without over simplifying things. So read [this post](https://rentry.org/whatisChuunibyou) instead.*  |
 |  Fujoshi  | 'Rotten Girl'. Refers to a girl that fantasizes about guys being in a relationship with other guys, specially shipping male characters with other male characters in manga and anime.   |
-|  Gyaru  |     |
+|  Gyaru  |  English slang equivalent of "Gal". It refers to a subculture and fashion style in Japan where girls wear dramatic tan makeup, sport big hair, and embrace 2000s fashion trends. Example: [Kitagawa Marin](https://anidb.net/character/120646)   |
 |  Hikikomori  |  The people who don't go out of their home. The phenomenon can also be termed as Hikikomori. You can watch [this video](https://www.youtube.com/watch?v=tnFVot15KcI) to get a clearer idea.  |
 |  JK  |  "Joshi Kousei". Meaning high-school girl.   |
 |  Kaiju  |   Giant monsters.  |
@@ -81,7 +81,6 @@ ___
 |  Shota  |  Young or young-looking boy in anime and manga.  |
 |  Tokusatsu  |   Literally "Special effects". These term can be applied to movies and tv shows with superheroes with a reconizable style of special effects. [Examples of Tokusatsu](https://www.youtube.com/watch?v=bBsDwQ1by_o) |
 |  Trap  |  A word used in anime community to refer to a person who looks the opposite gender. Most commonly used for male characters who look female. Example: [Urushibara Ruka from Steins; Gate](https://anidb.net/character/23270)   |
-|  Waifu  |     |
 |  Yamato Nadeshiko  |  Japanese term used to describe an ideal Japanese woman. They are the epitome of pure, feminine beauty.   |
 |  Zettai Ryouiki  |   Translates to 'Absolute Territory'. Refers to the space of bare thighs between the skirt and above knee-length socks.  |
 
