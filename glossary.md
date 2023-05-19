@@ -21,7 +21,7 @@ WAH!
 
 | Genre     | Target audience { class="compact" } |
 | :------:  | :------: |
-| Kodomo    | For Kids (under 10)    |
+| Kodomo    | Kids (under 10)    |
 | Shounen   | Boys (12-18)     |
 | Shoujo    | Girls (12-18)  |
 | Seinen    | Men (19-40+)  |
@@ -62,7 +62,7 @@ Shows that mostly focuses on the day-to-day lives of fictional characters. They 
 ![Nichijou](/static/glossary/General/SoL.jpg)
 
 #### Wuxia
- Literally means “Martial Heroes”. Fictional stories about regular humans who can achieve supernatural fighting ability through Chinese martial arts training and internal energy cultivation. Themes of chivalry, tragedy, revenge & romance are common.
+Literally means “Martial Heroes”. Fictional stories about regular humans who can achieve supernatural fighting ability through Chinese martial arts training and internal energy cultivation. Themes of chivalry, tragedy, revenge & romance are common.
 
 ___
 
@@ -71,7 +71,7 @@ ___
 #### Ahoge
 Literally 'Stupid Hair'. refers to a strand of hair that springs upwards from the character's head.
 
-[![Araragi Koyomi](/static/glossary/General/ahoge.jpeg)](https://anidb.net/character/8962)
+![Araragi Koyomi](/static/glossary/General/ahoge.jpeg)
 
 
 #### Baka
