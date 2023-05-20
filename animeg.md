@@ -98,7 +98,7 @@ ___
 |  Fansub  |      |
 |  Hardsub  |      |
 |  Softsub  |      |
-|  Interpolation  |   Artificially creates [frames in between](https://www.youtube.com/watch?v=VdH4TBDeCnI) to increase the fps. And **NO!. These are shit!** [Here's](https://www.youtube.com/watch?v=bdGXb41_KYk) why.  |
+|  Interpolation  |   Artificially creates frames in between to increase the fps. And **NO!. These are shit!** [Here's](https://www.youtube.com/watch?v=_KRb_qV9P4g) why.  |
 |    |      |
 |    |      |
 |    |      |
