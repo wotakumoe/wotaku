@@ -71,10 +71,10 @@ ___
 |  Hikikomori  |  The people who don't go out of their home. The phenomenon can also be termed as Hikikomori. You can watch [this video](https://www.youtube.com/watch?v=tnFVot15KcI) to get a clearer idea.  |
 |  JK  |  "Joshi Kousei". Meaning high-school girl.   |
 |  Kaiju  |   Giant monsters. It can be mentioned as a genre too. |
-|  Kawaii  |   Cute.  |
+|  Kawaii  |   Adorable.  |
 |  Kouhai  |   Junior. Can be in a workpace or school.  |
 |  Loli  |   Young or young-looking girl in anime and manga.  |
-|  Moe  |  A word used to describe cute anime characters. Nowadays it is used to describe anything cute, like pets or clothes.   |
+|  Moe  |  The feeling of emotional attraction when you see something cute in manga, anime or other weeb stuff. These are SFW and can be any gender.  |
 |  Nakama  |  Literally "Comrade". Popularized by the series 'One Piece', it is nowadays used for a group of people who are closer than family.   |
 |  Senpai/Sempai  |   Senior. Can be in a workplace or school.  |
 |  Sensei  |  Generally Teacher. But this can also be used to address someone  who is a respected professional or very senior in the position.   |

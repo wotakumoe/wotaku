@@ -10,7 +10,8 @@ Wah!
 ___
 ## Terms
 
-#### Seiyuu
+| Terms     | Meaning { class="compact" } |
+| ------ | ------ |
 
 #### Anime Original
 
@@ -32,61 +33,38 @@ ___
 
 #### Season
 
+#### Seiyuu/VA
+
 #### Split-Cour
 
 #### Eroge (For VN)
 
 ___
+
 ## Sections
 
-#### Recap
-
-
-#### Title Card
-
-
-#### Branding
-
-[!embed](https://www.youtube.com/watch?v=Dt-BaKnnIRI)
-
-#### Cold Open
-
-
-#### OP/Opening
-
-
-
-#### Mixed OP
-
-
-#### Filler
-
-
-#### Canon
-
-
-#### Eyecatch
-
-[!embed](https://www.youtube.com/watch?v=9h4IQHBX63k)
-
-#### ED/Ending
-
-
-
-#### Mixed ED
-
-[!embed](https://www.youtube.com/watch?v=2ikL1vGhMLw)
-
-#### Omake
-
-#### Preview
-
+| Terms     | Meaning { class="compact" } |
+| ------ | ------ |
+|  Recap  |      |
+|  Title Card  |      |
+|  Branding  |   example https://www.youtube.com/watch?v=Dt-BaKnnIRI   |
+|  Cold Open  |      |
+|  OP/Opening  |      |
+|  Mixed OP  |      |
+|  Filler  |      |
+|  Canon  |      |
+|  Eyecatch  |  Example https://www.youtube.com/watch?v=9h4IQHBX63k    |
+|  ED/Ending  |      |
+|  Mixed ED  |   https://www.youtube.com/watch?v=2ikL1vGhMLw   |
+|  Omake  |      |
+|  Preview  |      |
+|    |      |
 
 ___
 ## File
 
 | Terms     | Meaning { class="compact" } |
-| :------: | ------ |
+| ------ | ------ |
 |  WEB-DL  |  When the video is downloaded from various OTT releases like Crunchyroll, HiDive, Netflix etc.  |
 |  Blu-ray  |   Many anime series relese their blu-ray edition. The advantages of having a Blu-ray version will differ from one anime series to another. Some studios may fix various animation issues such as facial expressions, shadows, effects, color, and brightness. In some cases, additional scenes may be added or the entire animation may be redrawn. Also they will uncensor  scenes However, it's important to note that not every Blu-ray release will have these enhancements. Here's [an Example](https://www.youtube.com/watch?v=bdGXb41_KYk) of comparing a TV release with a Blu-ray release.  |
 |  BDRemux  |   If a video is sourced from a Blu-ray, typically a Japanese one, without undergoing any encoding process. Remux files are generally very big in file size. Also you need good monitors and soundbox to get the full remux quality.   |

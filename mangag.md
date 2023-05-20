@@ -12,7 +12,7 @@ ___
 ## Terms 
 
 #### 4-Koma
-4-Koma (aka Yonkoma manga) features four panels, follows a specific pattern where every four panels lead up to a punchline. These are read up-down instead of traditional right-left. The right column is always the staring column. Example: [Tsurezure Children](https://mangadex.org/title/a840d47c-4080-4783-9c42-af8100e48079/tsurezure-children)
+4-Koma (a.k.a. Yonkoma manga) features four panels, follows a specific pattern where every four panels lead up to a punchline. These are read up-down instead of traditional right-left. The right column is always the staring column. Example: [Tsurezure Children](https://mangadex.org/title/a840d47c-4080-4783-9c42-af8100e48079/tsurezure-children)
 
 ![Tsurezure Children ch. 20](/static/glossary/manga/4koma.jpg)
 
@@ -25,7 +25,7 @@ Not original content and was addapted from other sources (light novel, anime, pi
 Basically, it means indie works. If the mangaka publishes the manga on their own, then it counts as a doujinshi. It can be derivative work from a licensed franchise too. Also, it doesn't necessarily mean NSFW content. 
 
 #### Mangaka
-Mangaka means the artist of the manga. He or she can also be the story writer. Generally, mangaka does everything by themselves, but sometimes they may employ assistants to speed up the work and cope with the weekly release schedule.
+Mangaka means the artist of the manga. Mangaka can also be the story writer. Generally, mangaka does everything by himself, but sometimes he may employ assistants to speed up the work and cope with the weekly release schedule.
 
 [!embed](https://www.youtube-nocookie.com/embed/zp6_kvcEI_4)
 
