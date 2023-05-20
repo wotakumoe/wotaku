@@ -37,7 +37,9 @@ ___
 
 #### Split-Cour
 
-#### Eroge (For VN)
+#### Filler
+
+#### Canon
 
 ___
 
@@ -45,20 +47,17 @@ ___
 
 | Terms     | Meaning { class="compact" } |
 | ------ | ------ |
-|  Recap  |      |
-|  Title Card  |      |
-|  Branding  |   example https://www.youtube.com/watch?v=Dt-BaKnnIRI   |
-|  Cold Open  |      |
-|  OP/Opening  |      |
-|  Mixed OP  |      |
-|  Filler  |      |
-|  Canon  |      |
-|  Eyecatch  |  Example https://www.youtube.com/watch?v=9h4IQHBX63k    |
-|  ED/Ending  |      |
-|  Mixed ED  |   https://www.youtube.com/watch?v=2ikL1vGhMLw   |
-|  Omake  |      |
-|  Preview  |      |
-|    |      |
+|  Branding  | The logo animation of studious and distributor of the anime are shown here. [Example](https://www.youtube.com/watch?v=Dt-BaKnnIRI) |
+|  Recap  |   Recaps the previous epsisode(s). Generally it's found in long running shounen series. [Example](https://www.youtube.com/watch?v=R8jVqCKt4ZI) |
+|  Cold Opening |   It's the portion of the anime before the OP. Sometimes it can be just recap or a setup for the episode.  |
+|  OP  |  Opening sequence of the anime. Although sometimes they are placed before the eyecatch. It's basically an animated music video of the anime showing the nature of the characters. The scenes can be anime original. The OPs are generally 1.5 minutes long. |
+|  Title Card  |  Also known as Title sequence. It is a part of the OP.  |
+|  Mixed OP  |  When the OP is overlaid with the plot of the anime.  |
+|  Eyecatch  | The animated sequence before the ad break or the end of first part. It's generally a still frame. [Example](https://www.youtube.com/watch?v=9h4IQHBX63k)  |
+|  ED/Ending  |   The ending sequence of the anime.  |
+|  Mixed ED  |  Same as Mixed OP but for ED. [Example](https://www.youtube.com/watch?v=2ikL1vGhMLw)  |
+|  Omake  |   An extra portion of the episode. Generally a filler. [Example](https://www.youtube.com/watch?v=Dtu_1bzSmL8)   |
+|  Preview  |   Shows a glimpse of the next episode generally action sequence. This is also used as PV.   |
 
 ___
 ## File
@@ -73,9 +72,9 @@ ___
 |  Re-encode  |  Encodes an already encoded file, as a result loses more quality.  |
 |  Mini encode  |   Encodes such a way that the sizes are really small. The main target is to get lower file size. So, it loses the quality. Mini encode of Blu-ray releases maybe worth keeping. Otherwise the qualities aren't that great.   |
 |  Raw  |   The original file from the Blu-ray disk or OTT platform.   |
-|  Fansub  |      |
-|  Hardsub  |      |
-|  Softsub  |      |
+|  Fansub  |  Unoffical translated subtitles for the anime.  |
+|  Hardsub  |  When the subtitle of the anime is encoded in the video. You can't change the font style but the sub won't get messed up because of the player issue.  |
+|  Softsub  |   The subtitles are attached in the video but not encoded. As result, you can change the subtitle appearence. But. if the player isn't capable, it may mess up the subtitles if the subtitles have multiple layer. Also, you can have multiple subtitles in a single file.  |
 |  Interpolation  |   Artificially creates frames in between to increase the fps. And **NO!. These are shit!** [Here's](https://www.youtube.com/watch?v=_KRb_qV9P4g) why.  |
 |  Audio Files  |      |
 |    |      |

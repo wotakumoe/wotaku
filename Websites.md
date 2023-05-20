@@ -124,7 +124,7 @@ ___
 - [AllAnime](https://allanime.to/anime) + [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="gogo"]
 - [KickAssAnime](https://www2.kickassanime.ro/) + [!badge variant="ghost" size="xs" text="crunchy"]
 - [Marin](https://marin.moe/)
-- [Zoro](https://zoro.to/home)
+- [Zoro](https://zoro.to/home) [!badge variant="ghost" text="Proxies"](https://zoroanime.net/)
 - [9anime](https://9anime.gs/home)
 - [Animepahe](https://animepahe.com/)
 - [Animension](https://animension.to/) + [!badge variant="ghost" size="xs" text="gogo"]
