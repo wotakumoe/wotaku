@@ -79,7 +79,7 @@ ___
 ### Anime
 - [9Animator](https://github.com/SuperMarcus/NineAnimator)
 - [Anime Now](https://github.com/AnimeNow-Team/AnimeNow)
-
+- [Ketsu](https://ketsu.app/) [!badge variant="ghost" icon="globe" text="Modules"](https://bilnaa.github.io/main/) [!badge variant="ghost" size="xs" text="Manga"]  [!badge variant="ghost" size="xs" text="macOS"] 
 
 ![](/static/banner/linux.png)
 ## Linux

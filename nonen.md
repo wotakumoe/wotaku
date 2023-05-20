@@ -152,7 +152,7 @@ ___
 - [Anime Stars](https://animestars.org/) [!badge variant="ghost" size="xs" text="Sub"]
 - [AnimeGO](https://animego.org/) [!badge variant="ghost" size="xs" text="Sub"]
 - [Averlist](https://averlist.xyz/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/Averito/Averlist)
-- [Tunime](https://an0ncer.github.io/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/AN0NCER/an0ncer.github.io)
+- [Tunime](https://an0ncer.github.io/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/AN0NCER/an0ncer.github.io) [!badge variant="ghost" size="xs" text="Sub"]
 - [Yummy Anime](https://yummyanime.club/)
 - [Anime Slayer](http://animelayer.ru/) [!badge variant="ghost" size="xs" text="Torrent"]
 - [Dark Libria](https://darklibria.it/) [!badge variant="ghost" size="xs" text="Stream"] [!badge variant="ghost" size="xs" text="DDL"] 

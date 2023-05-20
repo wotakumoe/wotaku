@@ -65,12 +65,12 @@ ___
 | Ahoge    | Literally 'Stupid Hair'. refers to a strand of hair that springs upwards from the character's head.  Example: [Izumi Konata](https://anidb.net/character/2999)  |
 |  Baka  |   Stupid  |
 |  Chibi  |  Literally "Small/Short". In real life it can be insulting but in anime it's used for cutesy style. Example: [Doma Umaru](https://anidb.net/character/75170)  |
-|  Chuunibyou  |   *It's not possible to make a justified explaination without over simplifying things. So read [this post](https://rentry.org/whatisChuunibyou) instead.*  |
+|  Chuunibyou  |   *It's not possible to make a justified explanation without oversimplifying things. So, read [this post](https://rentry.org/whatisChuunibyou) instead.*  |
 |  Fujoshi  | 'Rotten Girl'. Refers to a girl that fantasizes about guys being in a relationship with other guys, specially shipping male characters with other male characters in manga and anime.   |
 |  Gyaru  |  English slang equivalent of "Gal". It refers to a subculture and fashion style in Japan where girls wear dramatic tan makeup, sport big hair, and embrace 2000s fashion trends. Example: [Kitagawa Marin](https://anidb.net/character/120646)   |
 |  Hikikomori  |  The people who don't go out of their home. The phenomenon can also be termed as Hikikomori. You can watch [this video](https://www.youtube.com/watch?v=tnFVot15KcI) to get a clearer idea.  |
 |  JK  |  "Joshi Kousei". Meaning high-school girl.   |
-|  Kaiju  |   Giant monsters.  |
+|  Kaiju  |   Giant monsters. It can be mentioned as a genre too. |
 |  Kawaii  |   Cute.  |
 |  Kouhai  |   Junior. Can be in a workpace or school.  |
 |  Loli  |   Young or young-looking girl in anime and manga.  |
@@ -220,6 +220,9 @@ ___
 'O-Face' expression.
 ![](/static/glossary/General/ahegao.jpg)
 
+#### Eromanga
+Also known as Hentai (Although Hentai means pervert, depending on the context it may have other meanings). Sexually-explicit manga, targeted toward men.
+
 #### Netorare
 Cuckoldry; where MC's love interest (or important person) is 'stolen' by another person. Often just written as 'NTR' online.
 
@@ -234,3 +237,6 @@ Cuckoldry; where MC enjoys / is willing to have the love interest get stolen by 
 
 #### Netori
 Cuckoldry; where MC steals another characters love interest.
+
+#### Redikomi
+Eromanga equivalent; targeted at adult women.
