@@ -139,15 +139,15 @@ Over-achieving characters that are loyal to their masters, they view their maste
 ==- Hajidere
 A character that isn't nervous and embarrassed with others, but on the contrary are when they are around their crush. Example: [Boa Hancok from One Piece](https://anidb.net/character/6071)
 
-![Boa Hancock](/static/glossary/General/Hajidere.jpg)
+![Boa Hancock](/static/glossary/General/Hajidere.png)
 
 ==- Himedere/Oujidere/Kamidere
 
 | Terms     | Meaning { class="compact" } |
 | ------  | ------ |
-| Himedere | **Hime** means princess. It's a character who wishes to be treated like a princess or a queen by the person she loves, even if she is not actual royalty. |
-| Oujidere | **Ouji** means prince. It's the male counterpart |
-| Kamidere | **Kami** means god. It's the same concept but taken to the extreme. |
+| Himedere | **Hime** means princess. It's a character who wishes to be treated like a princess or a queen by the person she loves, even if she is not actual royalty. Example: [Nakiri Erina from Food Wars](https://anidb.net/character/71284) |
+| Oujidere | **Ouji** means prince. It's the male counterpart. Example: [Lelouch Lamperouge from Code Geass](https://anidb.net/character/103) |
+| Kamidere | **Kami** means god. It's the same concept but taken to the extreme. Example: [Yagami Light from Death Note](https://anidb.net/character/301) |
 
 ==- Hinedere
 A character who has cynical world views, is cold-hearted, and are is highly arrogant. They will get easily annoyed by other people, including their love interest at first. Example:[Annie Leonhart from Attack on Titan](https://anidb.net/character/51168)
@@ -183,6 +183,9 @@ Character(s) that are sleepy - they sleep with or without an intent to do so, th
 Character(s) that are cat-loving fanatics, it could come in several variations:
     - They are a nekomimi themselves and just have a lot dere for cats
     - A regular human that is normal or show no emotion to others, but show their nyandere side when around cats, portrayed through showing imaginary cat ears and paws
+
+Example: [Alphonse Elric from Fullmetal Alchemist](https://anidb.net/character/5908)
+![Alphonse Elric](/static/glossary/General/nyandere.png)
 
 ==- Sadodere
 Character(s) that indulge in the manipulation of their crush's feelings and humiliating them. They are cold, violent and merciless to others, hence making them difficult to connect with others. The are also sadistic due to finding job joy in inflicting pain to their crush. Example: [Nagatoro from Don`t Toy with Me, Miss Nagatoro](https://anidb.net/anime/15622)
