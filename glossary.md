@@ -108,7 +108,7 @@ Words used to describe anime girls based on their personality.
 ==- Bakadere
 As clear by the word "baka", these characters are literally idiots, clumsy, and do things that are questionable, but due to their child-like innocence and optimism, they are kind-hearted to other characters, even though they may not realize that, and are very annoying to a protagonist. Example: [Hanabatake Yoshiko from Aho-Girl](https://anidb.net/character/89068)
 
-![Hanabatake Yoshiko](/static/glossary/General/bakadare.jpg)
+![Hanabatake Yoshiko](/static/glossary/General/bakadare.png)
 
 ==- Byoukidere
 'Byouki' mean illness, so this character usually has some kind of physical disease, often fatal. They are mostly confined to a wheelchair or a hospital room. Generally they are kind, caring and sweet in nature. Example: [Miyazono Kaori from Shigatsu wa Kimi no Uso](https://anidb.net/character/65811)
@@ -152,16 +152,16 @@ A character that isn't nervous and embarrassed with others, but on the contrary 
 ==- Hinedere
 A character who has cynical world views, is cold-hearted, and are is highly arrogant. They will get easily annoyed by other people, including their love interest at first. Example:[Annie Leonhart from Attack on Titan](https://anidb.net/character/51168)
 
-![Annie Leonhart](/static/glossary/General/Hinedere.jpg)
+![Annie Leonhart](/static/glossary/General/Hinedere.png)
 
 ==- Hiyakasudere
 'Hiyakasu' means 'to tease'. They are character who likes to tease others and sometimes flirt with those they like. They will act really seductive in front of other people and will tease those that get embarrassed easily by their actions and words, possibly the love interest. Example: [Holo from Spice & Wolf](https://anidb.net/character/29)
 
-![Holo](/static/glossary/General/Hiyakasudere.jpg)
+![Holo](/static/glossary/General/Hiyakasudere.png)
 
 ==- Kanedere
 'Kane' means money. They are the anime equivalent of gold diggers. They often just care about how much money a person has, and nothing else. However, if they truly love someone the habit can be broken. Example: [Eva Heinemann from Monster](https://anidb.net/character/4909)
-![Eva Heinemann](/static/glossary/General/Kanedere.jpg)
+![Eva Heinemann](/static/glossary/General/Kanedere.png)
 
 ==- Mayadere
 A character who used to be an antagonist or villain of the series but switched sides after falling in love or becoming fond of another character. Example: [Esdeath from Akame ga Kill!](https://anidb.net/character/67551)
