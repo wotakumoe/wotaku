@@ -85,6 +85,20 @@ ___
 |  Zettai Ryouiki  |   Translates to 'Absolute Territory'. Refers to the space of bare thighs between the skirt and above knee-length socks.  |
 
 
+## Common Honorifics 
+
+| Terms     | Meaning { class="compact" } |
+| ------  | ------ |
+|  -san  |   The Japanese equivalent of Mi./Mrs./Miss. If a situation calls for politeness, this is the fail-safe honorific.   |
+|  -kun  |   Used most often when referring to boys, this indicates affection or familiarity. Occasionally used by older men among their peers, but it may also be used by anyone referring to a person of lower standing.   |
+|  -chan  |   An affectionate honorific indicating familiarity used mostly in reference to girls; also used in reference to cute persons or animals of either gender.   |
+|  -(o)nii-chan  |   A familiar, somewhat childish way to refer to one’s older brother.   |
+|  -(o)nee-chan  |   A familiar, somewhat childish way to refer to one's older sister.   |
+|  -senpai  |  A suffix used to address upperclassmen or more experienced coworkers.    |
+|  -sensei  |  A respectful term for teachers, artists, or high-level professionals.    |
+|  no honorific  |   Indicates familiarity or closeness; if used without permission or reason, addressing someone in this manner would constitute an insult.   |
+
+
 ___
 ## Dere Types
 
