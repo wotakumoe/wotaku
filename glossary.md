@@ -98,51 +98,50 @@ ___
 |  -sensei  |  A respectful term for teachers, artists, or high-level professionals.    |
 |  No honorific  |   Indicates familiarity or closeness; if used without permission or reason, addressing someone in this manner would constitute an insult.   |
 
-
+> If you want to mention a family member in formal way, here is the [guide](https://rentry.org/jpfamily).
 ___
 ## Dere Types
 
 Words used to describe anime girls based on their personality.
 
-#### Bakadere
+==- Bakadere
 As clear by the word "baka", these characters are literally idiots, clumsy, and do things that are questionable, but due to their child-like innocence and optimism, they are kind-hearted to other characters, even though they may not realize that, and are very annoying to a protagonist. Example: [Hanabatake Yoshiko from Aho-Girl](https://anidb.net/character/89068)
 
 ![Hanabatake Yoshiko](/static/glossary/General/bakadare.jpg)
 
-#### Byoukidere
+==- Byoukidere
 'Byouki' mean illness, so this character usually has some kind of physical disease, often fatal. They are mostly confined to a wheelchair or a hospital room. Generally they are kind, caring and sweet in nature.
 
-#### Dandere
+==- Dandere
 Introverted character(s) that are shy, quiet, and asocial, they don't like to get involved in conflicts, but their affection is shown when they are alone or with a small group of people that they love and care. Example: [Komi Shouko from Komi-san wa, Komyushou Desu.](https://anidb.net/character/117224)
 
 ![Komi Shouko](/static/glossary/General/Dandere.jpg)
 
 
-#### Deredere
+==- Deredere
 
 'Dere' mean love, so a deredere character is all about being lovey-dovey. These characters are sweet, kind and very affectionate towards the person they love, while also being generally friendly towards other characters. Example: [Miia from Monster Musume](https://anidb.net/character/73747)
 
 ![Miia](/static/glossary/General/Deredere.jpg)
 
 
-=== Oujodere
+* Oujodere
 A lady-like (as denoted with "oujo") version of deredere, that is more mature, calm and collected, typically they have a strict-nature on the outside, but are sweet on the inside. Prefer to share less about their crush, but is always pleased to help their crush and others, even in tough times. Example: []()
 
 > The main difference between deredere and oujodere is that daredare are quiet due to them being shy, while oujodere's are the quiet due to their maturity.
 
     
-=== Megadere
+* Megadere
 Think of it like mega-deredere. An extreme version of deredere, that has an abnormal-obsession with their crush and are not afraid to show it to their crush
 
-===
     
-#### Goudere
+==- Goudere
 Over-achieving characters that are loyal to their masters, they view their masters as their savior and grace, so they do anything to their ability to keep them happy, and can also involve other characters as a means to contribute to their happiness, even though their master doesn't ask for that. Example: [Tooru from Miss Kobayashi's Dragon Maid](https://anidb.net/character/85812)
 
 ![Tooru](/static/glossary/General/Goudere.jpg)
 
 
-#### Hajidere
+==- Hajidere
 A character that isn't nervous and embarrassed with others, but on the contrary are when they are around their crush. Example: [Boa Hancok from One Piece](https://anidb.net/character/6071)
 
 ![Boa Hancock](/static/glossary/General/Hajidere.jpg)
@@ -154,43 +153,42 @@ A character that isn't nervous and embarrassed with others, but on the contrary 
 
 
 
-#### Hinedere
+==- Hinedere
 
 A character who has cynical world views, is cold-hearted, and are is highly arrogant. They will get easily annoyed by other people, including their love interest at first. Example:[Annie Leonhart from Attack on Titan](https://anidb.net/character/51168)
 
 ![Annie Leonhart](/static/glossary/General/Hinedere.jpg)
 
-#### Hiyakasudere
+==- Hiyakasudere
 'Hiyakasu' means 'to tease'. They are character who likes to tease others and sometimes flirt with those they like. They will act really seductive in front of other people and will tease those that get embarrassed easily by their actions and words, possibly the love interest. Example: [Holo from Spice & Wolf](https://anidb.net/character/29)
 
 ![Holo](/static/glossary/General/Hiyakasudere.jpg)
 
-#### Kanedere
+==- Kanedere
 'Kane' means money. They are the anime equivalent of gold diggers. They often just care about how much money a person has, and nothing else. However, if they truly love someone the habit can be broken. Example: [Eva Heinemann from Monster](https://anidb.net/character/4909)
 ![Eva Heinemann](/static/glossary/General/Kanedere.jpg)
 
-#### Mayadere
+==- Mayadere
 A character who used to be an antagonist or villain of the series but switched sides after falling in love or becoming fond of another character. Example: [Esdeath from Akame ga Kill!](https://anidb.net/character/67551)
 
 ![Esdeath](/static/glossary/General/Mayadere.jpg)
 
 
-#### Nemuidere
+==- Nemuidere
 Character(s) that are sleepy - they sleep with or without an intent to do so, they will also try to get as much sleep as they can. Accompanied by those qualities they may also be lazy (which in this case they'd be both a nemuidere and darudere), so they need motivation from others to do something, but they are usually very smart and artsy when they are too much of a sleepyhead. Example: [Princess Syalis from Sleepy Princess in the Demon Castle](https://anidb.net/character/108007)
 
 ![Syalis](/static/glossary/General/Nemuidere.jpg)
 
-=== Darudere
+* Darudere
 Similar to Nemuidere, but the difference is that where 'Nemui' means sleepy, 'Daru' means sluggish, they are very lazy and sluggish and unlike Nemuidere, they will only do things for people they care for and complain about it through the process of doing something, otherwise they are just dull and lazy to others
 **tl;dr** nemui are sleepy characters, where as daru is lazy.
 
-===
-#### Nyandere 
+==- Nyandere 
 Character(s) that are cat-loving fanatics, it could come in several variations:
     - They are a nekomimi themselves and just have a lot dere for cats
     - A regular human that is normal or show no emotion to others, but show their nyandere side when around cats, portrayed through showing imaginary cat ears and paws
 
-#### Sadodere
+==- Sadodere
 Character(s) that indulge in the manipulation of their crush's feelings and humiliating them. They are cold, violent and merciless to others, hence making them difficult to connect with others. The are also sadistic due to finding job joy in inflicting pain to their crush. Example: [Nagatoro from Don`t Toy with Me, Miss Nagatoro](https://anidb.net/anime/15622)
 
 ![Nagatoro](/static/glossary/General/Sadodere.jpg)
@@ -198,20 +196,15 @@ Character(s) that indulge in the manipulation of their crush's feelings and humi
 - complimenting dere:
     - Masodere: Character(s) that enjoy humiliating themselves, they compliment sadodere, so when combined together they are called Sadomasodere. Example: [Darkness from Konosuba](https://anidb.net/character/78021)
 ![Darkness](/static/glossary/General/Masodere.jpg)
-    
-
-#### Gundere
-Gun loving fanatics. Example : [Revy from Black Lagoon](https://anidb.net/character/1191)
-![Revy](/static/glossary/General/Gundere.jpg)
 
 
-#### Kekkondere
+==- Kekkondere
 
 
-#### Kuudere
+==- Kuudere
 
 
-#### Tsundere
+==- Tsundere
 
 | Types     | Meaning { class="compact" } |
 | ------  | ------ |
@@ -222,11 +215,11 @@ Gun loving fanatics. Example : [Revy from Black Lagoon](https://anidb.net/charac
 |  Tsungire  |     |
 
 
-#### Yandere
+==- Yandere
 
-#### Yottadere
+==- Yottadere
 
-
+===
 ___
 ## NSFW
 
