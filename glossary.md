@@ -99,6 +99,7 @@ ___
 |  No honorific  |   Indicates familiarity or closeness; if used without permission or reason, addressing someone in this manner would constitute an insult.   |
 
 > If you want to mention a family member in formal way, here is the [guide](https://rentry.org/jpfamily).
+
 ___
 ## Dere Types
 
@@ -110,7 +111,9 @@ As clear by the word "baka", these characters are literally idiots, clumsy, and 
 ![Hanabatake Yoshiko](/static/glossary/General/bakadare.jpg)
 
 ==- Byoukidere
-'Byouki' mean illness, so this character usually has some kind of physical disease, often fatal. They are mostly confined to a wheelchair or a hospital room. Generally they are kind, caring and sweet in nature.
+'Byouki' mean illness, so this character usually has some kind of physical disease, often fatal. They are mostly confined to a wheelchair or a hospital room. Generally they are kind, caring and sweet in nature. Example: [Miyazono Kaori from Shigatsu wa Kimi no Uso](https://anidb.net/character/65811)
+
+![Miyazono Kaori](/static/glossary/General/Byoukidere.png)
 
 ==- Dandere
 Introverted character(s) that are shy, quiet, and asocial, they don't like to get involved in conflicts, but their affection is shown when they are alone or with a small group of people that they love and care. Example: [Komi Shouko from Komi-san wa, Komyushou Desu.](https://anidb.net/character/117224)
@@ -119,42 +122,34 @@ Introverted character(s) that are shy, quiet, and asocial, they don't like to ge
 
 
 ==- Deredere
-
 'Dere' mean love, so a deredere character is all about being lovey-dovey. These characters are sweet, kind and very affectionate towards the person they love, while also being generally friendly towards other characters. Example: [Miia from Monster Musume](https://anidb.net/character/73747)
 
 ![Miia](/static/glossary/General/Deredere.jpg)
 
+| Terms     | Meaning { class="compact" } |
+| ------  | ------ |
+|  Oujodere |  A lady-like (as denoted with "oujo") version of deredere, that is more mature, calm and collected, typically they have a strict-nature on the outside, but are sweet on the inside. Prefer to share less about their crush, but is always pleased to help their crush and others, even in tough times. Example: []() |
+|  Megadere | Think of it like mega-deredere. An extreme version of deredere, that has an abnormal-obsession with their crush and are not afraid to show it to their crush. Example: []()  |
 
-* Oujodere
-A lady-like (as denoted with "oujo") version of deredere, that is more mature, calm and collected, typically they have a strict-nature on the outside, but are sweet on the inside. Prefer to share less about their crush, but is always pleased to help their crush and others, even in tough times. Example: []()
-
-> The main difference between deredere and oujodere is that daredare are quiet due to them being shy, while oujodere's are the quiet due to their maturity.
-
-    
-* Megadere
-Think of it like mega-deredere. An extreme version of deredere, that has an abnormal-obsession with their crush and are not afraid to show it to their crush
-
-    
 ==- Goudere
 Over-achieving characters that are loyal to their masters, they view their masters as their savior and grace, so they do anything to their ability to keep them happy, and can also involve other characters as a means to contribute to their happiness, even though their master doesn't ask for that. Example: [Tooru from Miss Kobayashi's Dragon Maid](https://anidb.net/character/85812)
 
 ![Tooru](/static/glossary/General/Goudere.jpg)
-
 
 ==- Hajidere
 A character that isn't nervous and embarrassed with others, but on the contrary are when they are around their crush. Example: [Boa Hancok from One Piece](https://anidb.net/character/6071)
 
 ![Boa Hancock](/static/glossary/General/Hajidere.jpg)
 
-#### Himedere/Oujidere/Kamidere
-* **Hime** means princess. It's a character who wishes to be treated like a princess or a queen by the person she loves, even if she is not actual royalty.
-* **Ouji** means prince. It's the male counterpart
-* **Kami** means god. It's the same concept but taken to the extreme.
+==- Himedere/Oujidere/Kamidere
 
-
+| Terms     | Meaning { class="compact" } |
+| ------  | ------ |
+| Himedere | **Hime** means princess. It's a character who wishes to be treated like a princess or a queen by the person she loves, even if she is not actual royalty. |
+| Oujidere | **Ouji** means prince. It's the male counterpart |
+| Kamidere | **Kami** means god. It's the same concept but taken to the extreme. |
 
 ==- Hinedere
-
 A character who has cynical world views, is cold-hearted, and are is highly arrogant. They will get easily annoyed by other people, including their love interest at first. Example:[Annie Leonhart from Attack on Titan](https://anidb.net/character/51168)
 
 ![Annie Leonhart](/static/glossary/General/Hinedere.jpg)
@@ -173,15 +168,16 @@ A character who used to be an antagonist or villain of the series but switched s
 
 ![Esdeath](/static/glossary/General/Mayadere.jpg)
 
-
 ==- Nemuidere
 Character(s) that are sleepy - they sleep with or without an intent to do so, they will also try to get as much sleep as they can. Accompanied by those qualities they may also be lazy (which in this case they'd be both a nemuidere and darudere), so they need motivation from others to do something, but they are usually very smart and artsy when they are too much of a sleepyhead. Example: [Princess Syalis from Sleepy Princess in the Demon Castle](https://anidb.net/character/108007)
 
 ![Syalis](/static/glossary/General/Nemuidere.jpg)
 
-* Darudere
-Similar to Nemuidere, but the difference is that where 'Nemui' means sleepy, 'Daru' means sluggish, they are very lazy and sluggish and unlike Nemuidere, they will only do things for people they care for and complain about it through the process of doing something, otherwise they are just dull and lazy to others
-**tl;dr** nemui are sleepy characters, where as daru is lazy.
+| Terms     | Meaning { class="compact" } |
+| ------  | ------ |
+|  Darudere | Similar to Nemuidere, but the difference is that where 'Nemui' means sleepy, 'Daru' means sluggish, they are very lazy and sluggish and unlike Nemuidere, they will only do things for people they care for and complain about it through the process of doing something, otherwise they are just dull and lazy to others. |
+
+> tl;dr: Nemui are sleepy characters, where as daru is lazy.
 
 ==- Nyandere 
 Character(s) that are cat-loving fanatics, it could come in several variations:
@@ -193,16 +189,15 @@ Character(s) that indulge in the manipulation of their crush's feelings and humi
 
 ![Nagatoro](/static/glossary/General/Sadodere.jpg)
 
-- complimenting dere:
-    - Masodere: Character(s) that enjoy humiliating themselves, they compliment sadodere, so when combined together they are called Sadomasodere. Example: [Darkness from Konosuba](https://anidb.net/character/78021)
-![Darkness](/static/glossary/General/Masodere.jpg)
-
+| Terms     | Meaning { class="compact" } |
+| ------  | ------ |
+|  Masodere | Character(s) that enjoy humiliating themselves, they compliment sadodere, so when combined together they are called Sadomasodere. Example: [Darkness from Konosuba](https://anidb.net/character/78021) |
 
 ==- Kekkondere
-
+aaa
 
 ==- Kuudere
-
+aaa
 
 ==- Tsundere
 
@@ -216,10 +211,13 @@ Character(s) that indulge in the manipulation of their crush's feelings and humi
 
 
 ==- Yandere
+aaa
 
 ==- Yottadere
+aaa
 
 ===
+
 ___
 ## NSFW
 
