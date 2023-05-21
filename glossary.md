@@ -171,7 +171,7 @@ A character who used to be an antagonist or villain of the series but switched s
 ==- Nemuidere
 Character(s) that are sleepy - they sleep with or without an intent to do so, they will also try to get as much sleep as they can. Accompanied by those qualities they may also be lazy (which in this case they'd be both a nemuidere and darudere), so they need motivation from others to do something, but they are usually very smart and artsy when they are too much of a sleepyhead. Example: [Princess Syalis from Sleepy Princess in the Demon Castle](https://anidb.net/character/108007)
 
-![Syalis](/static/glossary/General/Nemuidere.png)
+![Princess Syalis](/static/glossary/General/Nemuidere.png)
 
 | Terms     | Meaning { class="compact" } |
 | ------  | ------ |
