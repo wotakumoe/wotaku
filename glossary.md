@@ -171,7 +171,7 @@ A character who used to be an antagonist or villain of the series but switched s
 ==- Nemuidere
 Character(s) that are sleepy - they sleep with or without an intent to do so, they will also try to get as much sleep as they can. Accompanied by those qualities they may also be lazy (which in this case they'd be both a nemuidere and darudere), so they need motivation from others to do something, but they are usually very smart and artsy when they are too much of a sleepyhead. Example: [Princess Syalis from Sleepy Princess in the Demon Castle](https://anidb.net/character/108007)
 
-![Syalis](/static/glossary/General/Nemuidere.jpg)
+![Syalis](/static/glossary/General/Nemuidere.png)
 
 | Terms     | Meaning { class="compact" } |
 | ------  | ------ |
@@ -187,7 +187,7 @@ Character(s) that are cat-loving fanatics, it could come in several variations:
 ==- Sadodere
 Character(s) that indulge in the manipulation of their crush's feelings and humiliating them. They are cold, violent and merciless to others, hence making them difficult to connect with others. The are also sadistic due to finding job joy in inflicting pain to their crush. Example: [Nagatoro from Don`t Toy with Me, Miss Nagatoro](https://anidb.net/anime/15622)
 
-![Nagatoro](/static/glossary/General/Sadodere.jpg)
+![Nagatoro](/static/glossary/General/Sadodere.png)
 
 | Terms     | Meaning { class="compact" } |
 | ------  | ------ |
