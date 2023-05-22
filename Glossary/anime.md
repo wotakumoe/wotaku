@@ -13,9 +13,9 @@ ___
 | Terms     | Meaning { class="compact" } |
 | ------ | ------ |
 | Anison | The abbreviated form of Anime Song. It indicates the songs present in the Anime. Generally opening and ending.  |
-| Canon | Canon refers to content that was not present in the original source material but has an effect on the storyline. |
-| Filler | Filler refers to content that was not present in the original source material & doesn't affect the storyline. |
-| Genga | The raw keyframes of an anime. |
+| Canon | Canon refers to content that was not present in the original source material but is part of the anime storyline. Canon is used to expand the world-building of the anime, fix the pacing of the source material or more character developement. |
+| Filler | Filler refers to content that was not present in the original source material & doesn't affect the storyline. During filler, story doesn't get any progression. |
+| Genga | The raw keyframes of an anime. Example: [Jujutsu Kaisen](https://www.youtube.com/watch?v=XosvkKK1HCc) |
 | OAD | Original Animation DVD. OVAs that were bundled with the source material (eg. manga). |
 | ONA | Rriginal Net Animation. Anime that was originally released on an OTT platform. |
 | Original Anime | Anime that's not an adaptation of existing material such as Manga, Light novel, picture book etc. |
