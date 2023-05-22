@@ -154,6 +154,7 @@ ___
 === Russian
 - [Akari Anime](https://akari-anime.com/)
 - [Anidub](https://anidub.live/)
+- [Anifilm](https://anifilm.net/)
 - [Anilibria](https://anilibria.life/) [!badge variant="ghost" size="xs" text="Sub"]
 - [Anime Buff](https://animebuff.ru/) [!badge variant="ghost" size="xs" text="Sub"]
 - [Anime Stars](https://animestars.org/) [!badge variant="ghost" size="xs" text="Sub"]

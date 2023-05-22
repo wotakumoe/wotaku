@@ -53,6 +53,7 @@ ___
     - NSFW portion of nyaa. many obscure stuff has 0 seeds though.
 - [Chika Panda](https://panda.chaika.moe/)
     - Archive of  all stuff removed from E-Hentai due to DMCA complaints. has fakku/irodori stuff.
+- [nyanpantsu](https://nyanpantsu.vercel.app/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/purpleblueslime/nyanpantsu)
 
 === Manhwa
 - [Hiperdex](https://hiperdex.com/)
