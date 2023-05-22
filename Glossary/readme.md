@@ -1,4 +1,5 @@
 ---
+label: Glossary
 icon: repo
 order: 15 
 ---
