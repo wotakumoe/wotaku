@@ -132,8 +132,13 @@ ___
 - [Anime Odcinki](https://anime-odcinki.pl/)
 - [Anime Zone](https://www.animezone.pl/)
 - [Desu Online](https://desu-online.pl/)
+- [Docchi](https://docchi.pl/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/docchipl/shinden-description)
+- [Dragon Subs](https://dragonsubs.pl/)
+- [Frixy Subs](https://frixysubs.pl/)
 - [Fumetsu](https://fumetsu.pl/)
-- [Miror Subs](https://miorosubs.pl/)
+- [Mior Subs](https://miorosubs.pl/)
+- [Nana Subs](https://nanasubs.com/)
+- [Okami-subs](https://okami-subs.pl/)
 - [Wbijam](https://wbijam.pl/)
 
 === Portuguese
@@ -154,6 +159,9 @@ ___
 - [Anime Stars](https://animestars.org/) [!badge variant="ghost" size="xs" text="Sub"]
 - [AnimeGO](https://animego.org/) [!badge variant="ghost" size="xs" text="Sub"]
 - [Averlist](https://averlist.xyz/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/Averito/Averlist)
+- [Dreamcast](https://dreamerscast.com/)
+- [Freedub Studio](https://freedubstudio.club/)
+- [Sovet Romantica](https://sovetromantica.com/) [!badge variant="ghost" size="xs" text="Sub"]
 - [Tunime](https://an0ncer.github.io/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/AN0NCER/an0ncer.github.io) [!badge variant="ghost" size="xs" text="Sub"]
 - [Yummy Anime](https://yummyanime.club/)
 - [Anime Slayer](http://animelayer.ru/) [!badge variant="ghost" size="xs" text="Torrent"]

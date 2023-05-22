@@ -48,6 +48,7 @@ ___
 - [Animos](https://github.com/Nectres/animos)
 - [Keroro](https://github.com/hotsno/keroro)
 - [NineAnimator-Tauri](https://github.com/Layendan/NineAnimator-Tauri)
+- [AniShip](https://github.com/progzone122/AniShip)
 ===
 
 
