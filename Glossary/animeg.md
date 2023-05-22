@@ -1,6 +1,6 @@
 ---
 label: Anime
-visibility: hidden
+order: 95
 ---
 
 ![](/static/thumb/animeg.png)

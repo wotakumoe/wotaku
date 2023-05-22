@@ -1,6 +1,6 @@
 ---
-label: Glossary
-visibility: hidden
+icon: repo
+order: 15 
 ---
 
 ![](/static/thumb/glossary.png)
@@ -195,29 +195,6 @@ Character(s) that indulge in the manipulation of their crush's feelings and humi
 | Terms     | Meaning { class="compact" } |
 | ------  | ------ |
 |  Masodere | Character(s) that enjoy humiliating themselves, they compliment sadodere, so when combined together they are called Sadomasodere. Example: [Darkness from Konosuba](https://anidb.net/character/78021) |
-
-==- Kekkondere
-aaa
-
-==- Kuudere
-aaa
-
-==- Tsundere
-
-| Types     | Meaning { class="compact" } |
-| ------  | ------ |
-|  Type A  |     |
-|  Type B  |     |
-|  Tsunshundare  |     |
-|  Tsunsdra  |     |
-|  Tsungire  |     |
-
-
-==- Yandere
-aaa
-
-==- Yottadere
-aaa
 
 ===
 

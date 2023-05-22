@@ -1,6 +1,6 @@
 ---
-label: Manga Glossary
-visibility: hidden
+label: Manga
+order: 100
 ---
 
 ![](/static/thumb/mgloss.png)

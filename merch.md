@@ -1,6 +1,6 @@
 ---
 label: Merch
-order: 13
+order: 20
 icon: container
 ---
 

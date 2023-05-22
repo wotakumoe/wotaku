@@ -32,6 +32,7 @@ ___
 - [KomikID](https://komikid.com/)
 - [Komiku](https://komiku.id/)
 - [Komik Cast](https://komikcast.site/)
+- [Ryukomik](https://komik.ryukoproject.app/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/AzwarKusumah/ryukomik)
 
 === Portuguese
 - [Manga Livre](https://mangalivre.net/)
@@ -121,6 +122,7 @@ ___
 - [AnimeSail](https://154.26.137.28/)
 - [Anoboy](https://anoboy.ch/)
 - [Neonime](https://neonime.fun/)
+- [Ryukonime](https://ryukonime.vercel.app/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/AzwarKusumah/Ryukonime)
 
 === Italian
 - [Anime Saturn](https://www.animesaturn.tv/)
