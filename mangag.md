@@ -6,7 +6,7 @@ visibility: hidden
 ![](/static/thumb/mgloss.png)
 
 # Manga Glossary
-Wah!
+Manga portion of the Wotaku glossary!
 
 ___
 ## Terms 

@@ -3,9 +3,9 @@ label: Anime
 visibility: hidden
 ---
 
-
+![](/static/thumb/animeg.png)
 # Anime Glossary
-Wah!
+Anime portion of the Wotaku glossary!
 
 ___
 ## Terms

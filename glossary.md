@@ -6,7 +6,7 @@ visibility: hidden
 ![](/static/thumb/glossary.png)
 
 # Wotaku Glossary
-WAH!
+Welcome to Wotaku glossary!
 
 ## Region
 
