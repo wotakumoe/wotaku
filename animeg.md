@@ -12,35 +12,27 @@ ___
 
 | Terms     | Meaning { class="compact" } |
 | ------ | ------ |
+| Anison | The abbreviated form of Anime Song. It indicates the songs present in the Anime. Generally opening and ending.  |
+| Canon | Canon refers to content that was not present in the original source material but has an effect on the storyline. |
+| Filler | Filler refers to content that was not present in the original source material & doesn't affect the storyline. |
+| Genga | The raw keyframes of an anime. |
+| OAD | Original Animation DVD. OVAs that were bundled with the source material (eg. manga). |
+| ONA | Rriginal Net Animation. Anime that was originally released on an OTT platform. |
+| Original Anime | Anime that's not an adaptation of existing material such as Manga, Light novel, picture book etc. |
+| OVA | Original Video Animation. Anime that was originally released on a physically medium. |
+| PV | Promotional videos of the anime. Generally teaser, trailer, preview etc. |
+| Seiyuu/VA | The voice actor/actress of the anime. |
 
-#### Anime Original
 
-#### Anison
+=== Cour, Season, Split-cour
 
-#### BGM
+In Japanese TV, the broadcast schedule is divided into four seasons: Spring (March - May), Summer (June - August), Autumn (September - November), and Winter (December - February). This means that an anime can have 13 episodes in each season.
 
-#### Cel
+- **Cour:** Each 13eps/season is called a cour.
+- **Season:** The continuous run of an anime is called a season. It can be a 1 core (Example: [Chainsaw Man](https://anilist.co/anime/127230/Chainsaw-Man)), 2 core anime (Example: [Kimetsu no Yaiba](https://anilist.co/anime/101922/Kimetsu-no-Yaiba)) or a 4 core (Example: [Naruto](https://anilist.co/anime/20/NARUTO))
+- **Split-cour:** When the anime season isn't continuous and has a break of one or two cour. Example: [Spy x Family](https://anilist.co/anime/142838/SPYFAMILY-Part-2)
 
-#### Cour
-
-####  genga
-
-#### Original Anime
-
-#### OVA, ONA, OAD
-
-#### PV
-
-#### Season
-
-#### Seiyuu/VA
-
-#### Split-Cour
-
-#### Filler
-
-#### Canon
-
+===
 ___
 
 ## Sections
@@ -76,12 +68,3 @@ ___
 |  Hardsub  |  When the subtitle of the anime is encoded in the video. You can't change the font style but the sub won't get messed up because of the player issue.  |
 |  Softsub  |   The subtitles are attached in the video but not encoded. As result, you can change the subtitle appearence. But. if the player isn't capable, it may mess up the subtitles if the subtitles have multiple layer. Also, you can have multiple subtitles in a single file.  |
 |  Interpolation  |   Artificially creates frames in between to increase the fps. And **NO!. These are shit!** [Here's](https://www.youtube.com/watch?v=_KRb_qV9P4g) why.  |
-|  Audio Files  |      |
-|    |      |
-|    |      |
-|    |      |
-
-
-#### audio files
-
-`add if i have missed any`

@@ -25,6 +25,16 @@ ___
 - Other icons are from [Octicons](https://primer.github.io/octicons/), [Flaticon](https://www.flaticon.com/), [SVGRepo](https://www.svgrepo.com/), [Mangadex](https://mangadex.org/)
 
 
+## Glossary Credits
+- [Japanese with Anime](https://www.japanesewithanime.com/)
+- [Horimiya Vol. 15 by Yen Press](https://yenpress.com/titles/9781975324735-horimiya-vol-15)
+- [The Dare Types](https://the-dere-types.fandom.com/wiki/The_Dere_Types_Wiki)
+- [A Practical Guide to Translating Japanese Manga Sound Effects](https://nomansguy.wordpress.com/2023/02/04/translating-manga-sfx-guide-part-1/)
+- [Bentoki from Helvetica Scans](https://discord.com/users/91862190709014528)
+- [u/rui_is_dead](https://www.reddit.com/r/manga/comments/tc90d8/guys_can_you_explain_the_process_of/)
+- [The Wiki](http://thewiki.moe/guides/quality/)
+
+
 ==- How to contribute
 
 **Websites I won't add**
