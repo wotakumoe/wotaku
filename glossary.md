@@ -134,7 +134,7 @@ Introverted character(s) that are shy, quiet, and asocial, they don't like to ge
 ==- Goudere
 Over-achieving characters that are loyal to their masters, they view their masters as their savior and grace, so they do anything to their ability to keep them happy, and can also involve other characters as a means to contribute to their happiness, even though their master doesn't ask for that. Example: [Tooru from Miss Kobayashi's Dragon Maid](https://anidb.net/character/85812)
 
-![Tooru](/static/glossary/General/Goudere.jpg)
+![Tooru](/static/glossary/General/Goudere.png)
 
 ==- Hajidere
 A character that isn't nervous and embarrassed with others, but on the contrary are when they are around their crush. Example: [Boa Hancok from One Piece](https://anidb.net/character/6071)
@@ -166,7 +166,7 @@ A character who has cynical world views, is cold-hearted, and are is highly arro
 ==- Mayadere
 A character who used to be an antagonist or villain of the series but switched sides after falling in love or becoming fond of another character. Example: [Esdeath from Akame ga Kill!](https://anidb.net/character/67551)
 
-![Esdeath](/static/glossary/General/Mayadere.jpg)
+![Esdeath](/static/glossary/General/Mayadere.png)
 
 ==- Nemuidere
 Character(s) that are sleepy - they sleep with or without an intent to do so, they will also try to get as much sleep as they can. Accompanied by those qualities they may also be lazy (which in this case they'd be both a nemuidere and darudere), so they need motivation from others to do something, but they are usually very smart and artsy when they are too much of a sleepyhead. Example: [Princess Syalis from Sleepy Princess in the Demon Castle](https://anidb.net/character/108007)
