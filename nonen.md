@@ -23,6 +23,7 @@ ___
 === Chinese
 - [Manhua Gui](https://www.manhuagui.com/)
 - [8Comic](https://www.comicabc.com/)
+- [Baozimh](https://www.baozimh.com/) | [Kukuc](https://www.kukuc.co/) | [Webmota](https://www.webmota.com/)
 
 === French
 - [JapScan](https://www.japscan.lol/)
@@ -82,6 +83,7 @@ ___
 === Chinese
 - [AGE](https://www.agemys.vip/)
 - [CC](https://ccdm.cc/)
+- [XG Cartoon](https://www.xgcartoon.com/)
 - [Yinghuacd](http://www.yinghuacd.com/)
 - [Bangumi](https://bangumi.moe/) [!badge variant="ghost" size="xs" text="Torrent"]
 - [Mikanani](https://mikanani.me/) [!badge variant="ghost" size="xs" text="Torrent"]

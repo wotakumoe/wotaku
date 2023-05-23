@@ -147,6 +147,7 @@ ___
 - [Anime Filler Guide](https://www.animefillerguide.com/)
 - [Anime Filler List](https://www.animefillerlist.com/)
 - [Chiaki](https://chiaki.site/)
+- [Related Anime](https://relatedanime.com/)
 - [r/Anime Watch Order](https://www.reddit.com/r/anime/wiki/watch_order/)
 
 === Index
