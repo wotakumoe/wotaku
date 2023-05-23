@@ -28,6 +28,7 @@ ___
 - [Yuuko](https://github.com/YuuCorp/Yuuko)
 - [MangaUpdates Bot](https://github.com/jckli/mangaupdates-bot)
 - [Manhwa Updates Bot](https://github.com/MooshiMochi/ManhwaUpdatesBot)
+- [Michelle](https://github.com/JacenBoy/michelle) [!badge variant="ghost" icon="globe" text="Web"](https://michelle.jacenboy.com/)
 - Sneedex [!badge variant="ghost" icon="/static/icon/discord.svg" text="Invite"](https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot)
 - [Picsiv](https://github.com/jckli/picsiv)
 - Tweetshift [!badge variant="ghost" icon="globe" text="Web"](https://tweetshift.com/)

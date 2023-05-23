@@ -204,6 +204,7 @@ ___
 
 ### Apps
 - [Anime VSub](https://github.com/anime-vsub/app) [!badge variant="ghost" size="xs" icon="/static/icon/vietnam.png" text="VN"] [!badge variant="ghost" size="xs" text="Stream"]
+- [AnilabX](https://github.com/CrazyXacker/anilabx) [!badge variant="ghost" icon="/static/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" text="Freemium"]
 - [Bangumi MX](http://bgmx.mysxl.cn/) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"]  [!badge variant="ghost" size="xs" text="Tracker"]
 - [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Tracker"] 
 
@@ -212,8 +213,11 @@ ___
 - [Anilist Chinese](https://github.com/soruly/anilist-chinese)  [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Script"] 
 - [Bangumi](https://github.com/czy0729/Bangumi)  [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" icon="/static/icon/apple.png" size="xs" text="Apple"] [!badge variant="ghost" size="xs" icon="/static/icon/andy.png" text="Android"]
 - [Shikimorist](https://github.com/Hokid/shikimorist) [!badge variant="ghost" icon="/static/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" icon="/static/icon/crm.svg" text="Chrome"]
-
+- [Watch and download on Shikimori](https://github.com/Malanavi/Watch-and-download-on-Shikimori) [!badge variant="ghost" icon="/static/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" text="Script"]
 
 ### Software
+- [Aniship](https://github.com/progzone122/AniShip) [!badge variant="ghost" icon="/static/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" text="Player"]
 - [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Downloader"]
+- [JProxy](https://github.com/LuckyPuppy514/jproxy) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text=" Downloader"]
+- [Otakuapuri](https://github.com/Dorian25/otakuapuri) [!badge variant="ghost" size="xs" icon="/static/icon/france.png" text="FR"] [!badge variant="ghost" size="xs" text=" Downloader"] [!badge variant="ghost" size="xs" text=" Stream"]
 - [Sonarr Anime Downloader](https://github.com/MainKronos/Sonarr-AnimeDownloader) [!badge variant="ghost" size="xs" icon="/static/icon/italy.png" text="IT"] [!badge variant="ghost" size="xs" text="Downloader"]

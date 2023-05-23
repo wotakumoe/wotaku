@@ -130,6 +130,7 @@ ___
 - [Animension](https://animension.to/) + [!badge variant="ghost" size="xs" text="gogo"]
 - [Muse Asia](https://www.youtube.com/@MuseAsia/) [!badge variant="ghost" text="Country specific"](https://www.youtube.com/@MuseAsia/channels) [!badge variant="ghost" size="xs" text="Regional"] [!badge variant="ghost" size="xs" text="legal"]
 - [Ani-One Aisa](https://www.youtube.com/AniOneAsia/) [!badge variant="ghost" size="xs" text="Regional"] [!badge variant="ghost" size="xs" text="legal"]
+- [Pokémon TV](https://poke-tv.vercel.app/)  [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/seiya-dev/pokemon-tv) [!badge variant="ghost" size="xs" text="Multi-lang"]
 - [LM Anime](https://lmanime.com/) [!badge variant="ghost" size="xs" text="Donghua"]
 
 === Scraper
