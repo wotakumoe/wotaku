@@ -28,6 +28,7 @@ ___
 === French
 - [JapScan](https://www.japscan.lol/)
 - [Bento Manga](https://www.bentomanga.com/)
+- [Sushi Scan](https://sushiscan.net/)
 
 === Indonasian
 - [KomikID](https://komikid.com/)
@@ -37,6 +38,7 @@ ___
 
 === Portuguese
 - [Manga Livre](https://mangalivre.net/)
+- [Union Mangas](https://orchidcommerce.com/home)
 
 === Russian
 - [Com-X](https://com-x.life/comx)
@@ -218,7 +220,7 @@ ___
 - [Watch and download on Shikimori](https://github.com/Malanavi/Watch-and-download-on-Shikimori) [!badge variant="ghost" icon="/static/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" text="Script"]
 
 ### Software
-- [Aniship](https://github.com/progzone122/AniShip) [!badge variant="ghost" icon="/static/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" text="Player"]
+- [Aniship](https://github.com/progzone122/AniShip) [!badge variant="ghost" icon="/static/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" text="Stream"]
 - [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Downloader"]
 - [JProxy](https://github.com/LuckyPuppy514/jproxy) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text=" Downloader"]
 - [Otakuapuri](https://github.com/Dorian25/otakuapuri) [!badge variant="ghost" size="xs" icon="/static/icon/france.png" text="FR"] [!badge variant="ghost" size="xs" text=" Downloader"] [!badge variant="ghost" size="xs" text=" Stream"]

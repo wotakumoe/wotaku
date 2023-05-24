@@ -119,13 +119,13 @@ As clear by the word "baka", these characters are literally idiots, clumsy, and 
 ==- Dandere
 Introverted character(s) that are shy, quiet, and asocial, they don't like to get involved in conflicts, but their affection is shown when they are alone or with a small group of people that they love and care. Example: [Komi Shouko from Komi-san wa, Komyushou Desu.](https://anidb.net/character/117224)
 
-![Komi Shouko](/static/glossary/General/Dandere.jpg)
+![Komi Shouko](/static/glossary/General/Dandere.png)
 
 
 ==- Deredere
 'Dere' mean love, so a deredere character is all about being lovey-dovey. These characters are sweet, kind and very affectionate towards the person they love, while also being generally friendly towards other characters. Example: [Miia from Monster Musume](https://anidb.net/character/73747)
 
-![Miia](/static/glossary/General/Deredere.jpg)
+![Miia](/static/glossary/General/Deredere.png)
 
 | Terms     | Meaning { class="compact" } |
 | ------  | ------ |
@@ -148,7 +148,7 @@ A character that isn't nervous and embarrassed with others, but on the contrary 
 | ------  | ------ |
 | Himedere | **Hime** means princess. It's a character who wishes to be treated like a princess or a queen by the person she loves, even if she is not actual royalty. Example: [Nakiri Erina from Food Wars](https://anidb.net/character/71284) |
 | Oujidere | **Ouji** means prince. It's the male counterpart. Example: [Lelouch Lamperouge from Code Geass](https://anidb.net/character/103) |
-| Kamidere | **Kami** means god. It's the same concept but taken to the extreme. Example: [Yagami Light from Death Note](https://anidb.net/character/301) |
+| Kamidere | **Kami** means god. It's the same concept but taken to the extreme. Example: [Kiryuuin Satsuki from Kill la Kill](https://anidb.net/character/56259) |
 
 ==- Hinedere
 A character who has cynical world views, is cold-hearted, and are is highly arrogant. They will get easily annoyed by other people, including their love interest at first. Example:[Annie Leonhart from Attack on Titan](https://anidb.net/character/51168)
@@ -196,6 +196,43 @@ Character(s) that indulge in the manipulation of their crush's feelings and humi
 | Terms     | Meaning { class="compact" } |
 | ------  | ------ |
 |  Masodere | Character(s) that enjoy humiliating themselves, they compliment sadodere, so when combined together they are called Sadomasodere. Example: [Darkness from Konosuba](https://anidb.net/character/78021) |
+
+==- Kekkondere
+
+A character type that is obsessed with getting married right away, even if it's someone they just met, in other words love at first sight, Their insistence on getting married comes from wanting to spent the rest of their life with their love interest, it could be get to the point where it becomes unhealthy, where they may turn into yanderes! Example: [Fujinomiya Neko from Masamune-kun no Revenge](https://anidb.net/character/85802)
+![Fujinomiya Neko](/static/glossary/General/Kekkondere.png)
+
+==- Kuudere
+
+A character is always calm and collected, especially in the most stressful of situations. They never panic and usually analyze and think through things til' they solve the problem, its rare for them to show affection or emotion to others in varying situations, however they could be hiding how the actually feel deep down. Example: [Hishiro Chizuru from ReLife](https://anidb.net/character/79913)
+
+![Hishiro Chizuru](/static/glossary/General/Kuudere.png)
+
+| Terms     | Meaning { class="compact" } |
+| ------  | ------ |
+| Shundere | Shundere is an extreme version kuudere version, where they are emotionless all the time due to sadness or depression. They choose to lock  themselves from others and fully hide their emotions more than the Kuudere . Example: [Kuroki Tomoko from Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui!](https://anidb.net/character/56080) |
+
+==- Tsundere
+
+
+| Types     | Meaning { class="compact" } |
+| ------  | ------ |
+|  Type A  |     |
+|  Type B  |     |
+|  Tsunshundare  |     |
+|  Tsunsdra  |     |
+|  Tsungire  |     |
+
+
+==- Yandere
+
+
+==- Yottadere
+
+Someone that can never stop having alcohol, they usually will always have alcohol with them, they usually are sober when they are with someone they love. They can also have different personality types, from someone serious and passionate - to someone wild and brute. Example: [Vanessa Enoteca
+ from Black Clover](https://anidb.net/character/90830)
+
+![Vanessa Enoteca](/static/glossary/General/Yottadere.png)
 
 ===
 
