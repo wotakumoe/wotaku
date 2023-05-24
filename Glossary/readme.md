@@ -64,21 +64,26 @@ ___
 | Terms     | Meaning { class="compact" } |
 | ------  | ------ |
 | Ahoge    | Literally 'Stupid Hair'. refers to a strand of hair that springs upwards from the character's head.  Example: [Izumi Konata](https://anidb.net/character/2999)  |
-|  Baka  |   Stupid  |
+|  Baka  |   Stupid.  |
 |  Chibi  |  Literally "Small/Short". In real life it can be insulting but in anime it's used for cutesy style. Example: [Doma Umaru](https://anidb.net/character/75170)  |
 |  Chuunibyou  |   *It's not possible to make a justified explanation without oversimplifying things. So, read [this post](https://rentry.org/whatisChuunibyou) instead.*  |
 |  Fujoshi  | 'Rotten Girl'. Refers to a girl that fantasizes about guys being in a relationship with other guys, specially shipping male characters with other male characters in manga and anime.   |
 |  Gyaru  |  English slang equivalent of "Gal". It refers to a subculture and fashion style in Japan where girls wear dramatic tan makeup, sport big hair, and embrace 2000s fashion trends. Example: [Kitagawa Marin](https://anidb.net/character/120646)   |
+| Hentai | Pervet. |
 |  Hikikomori  |  The people who don't go out of their home. The phenomenon can also be termed as Hikikomori. You can watch [this video](https://www.youtube.com/watch?v=tnFVot15KcI) to get a clearer idea.  |
+| Idol | Idols are live entertainers who are expected to be 'Seiso' or pure, meaning they do not engage in romantic relationships. Their primary goal is to entertain their fans. Idol culture is particularly popular in Asia, especially Japan and Korea. Idols are usually local, but occasionally, they can be foreigners too. However, the idol culture can be dark and questionable despite being portrayed as glamorous in anime and manga. Idols group can be girls or boys group. Example: [AKB48](https://www.akb48.co.jp/). Nowadays, vtuber groups such as [Hololive](https://www.youtube.com/@hololive) are managed as an idol group. |
 |  JK  |  "Joshi Kousei". Meaning high-school girl.   |
 |  Kaiju  |   Giant monsters. It can be mentioned as a genre too. |
-|  Kawaii  |   Adorable.  |
+|  Kawaii  |   Adorable. |
 |  Kouhai  |   Junior. Can be in a workpace or school.  |
 |  Loli  |   Young or young-looking girl in anime and manga.  |
 |  Moe  |  The feeling of emotional attraction when you see something cute in manga, anime or other weeb stuff. These are SFW and can be any gender.  |
 |  Nakama  |  Literally "Comrade". Popularized by the series 'One Piece', it is nowadays used for a group of people who are closer than family.   |
+| Oshi | One's favourite idol. |
+| Seiso | *"Seiso" (清楚) refers to a particular aesthetic of purity and cleanliness that is often emphasized in the presentation of female idols. This can involve elements such as modest clothing, subtle makeup, and a generally wholesome image.* |
 |  Senpai/Sempai  |   Senior. Can be in a workplace or school.  |
 |  Sensei  |  Generally Teacher. But this can also be used to address someone  who is a respected professional or very senior in the position.   |
+| Shikishi | It is a high-quality art board mainly used for calligraphy and painting. Due to its exceptional quality, it is often utilized for collecting autographs featuring both simple and highly detailed artwork. Additionally, it is sometimes used as a promotional material for the show. [Examples of shikishi](https://www.reddit.com/r/Shikishi/) |
 |  Shota  |  Young or young-looking boy in anime and manga.  |
 |  Tokusatsu  |   Literally "Special effects". These term can be applied to movies and tv shows with superheroes with a reconizable style of special effects. [Examples of Tokusatsu](https://www.youtube.com/watch?v=bBsDwQ1by_o) |
 |  Trap  |  A word used in anime community to refer to a person who looks the opposite gender. Most commonly used for male characters who look female. Example: [Urushibara Ruka from Steins; Gate](https://anidb.net/character/23270)   |
