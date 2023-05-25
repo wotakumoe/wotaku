@@ -146,8 +146,8 @@ Introverted character(s) that are shy, quiet, and asocial, they don't like to ge
 
 | Terms     | Meaning { class="compact" } |
 | ------  | ------ |
-|  Oujodere |  A lady-like (as denoted with "oujo") version of deredere, that is more mature, calm and collected, typically they have a strict-nature on the outside, but are sweet on the inside. Prefer to share less about their crush, but is always pleased to help their crush and others, even in tough times. Example: [Yaoyorozu Momo from Boku no Hero Academia](https://anidb.net/character/79660) |
-|  Megadere | Think of it like mega-deredere. An extreme version of deredere, that has an abnormal-obsession with their crush and are not afraid to show it to their crush. Example: [Sarutobi Ayame from Gintama](https://anidb.net/character/1650)  |
+|  Oujodere |  A lady-like (as denoted with "oujo") version of deredere, that is more mature, calm and collected, typically they have a strict-nature on the outside, but are sweet on the inside. Prefer to share less about their crush, but is always pleased to help their crush and others, even in tough times. Example: [Hanekawa Tsubasa from Bakemonogatari](https://anidb.net/character/8965) |
+|  Megadere | Think of it like mega-deredere. An extreme version of deredere, that has an abnormal-obsession with their crush and are not afraid to show it to their crush. Example: [Tachibana Marika from Nisekoi](https://anidb.net/character/60162)  |
 
 ==- Goudere
 Over-achieving characters that are loyal to their masters, they view their masters as their savior and grace, so they do anything to their ability to keep them happy, and can also involve other characters as a means to contribute to their happiness, even though their master doesn't ask for that. Example: [Tooru from Miss Kobayashi's Dragon Maid](https://anidb.net/character/85812)
@@ -202,8 +202,8 @@ Character(s) that are cat-loving fanatics, it could come in several variations:
     - They are a nekomimi themselves and just have a lot dere for cats
     - A regular human that is normal or show no emotion to others, but show their nyandere side when around cats, portrayed through showing imaginary cat ears and paws
 
-Example: [Hanekawa Tsubasa from Bakemonogatari](https://anidb.net/character/8965)
-![Hanekawa Tsubasa](/static/glossary/General/nyandere.jpg)
+Example: [Mizuno Kaede from Nyan Koi!](https://anidb.net/character/10841)
+![Mizuno Kaede](/static/glossary/General/nyandere.png)
 
 ==- Sadodere
 Character(s) that indulge in the manipulation of their crush's feelings and humiliating them. They are cold, violent and merciless to others, hence making them difficult to connect with others. The are also sadistic due to finding job joy in inflicting pain to their crush. Example: [Nagatoro from Don`t Toy with Me, Miss Nagatoro](https://anidb.net/anime/15622)
@@ -242,7 +242,9 @@ A character is always calm and collected, especially in the most stressful of si
 
 
 ==- Yandere
-aaaa
+
+Example: [Gasai Yuno from Mirai Nikki](https://anidb.net/character/25306)
+![Gasai Yuno](/static/glossary/General/yandere.png)
 
 ==- Yottadere
 
