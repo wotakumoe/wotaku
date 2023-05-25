@@ -12,7 +12,6 @@ ___
  ## Websites
  ___
 
-
 ### Manga
 - [Atsumaru](https://atsu.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/TheUndo/Atsumaru) [!badge variant="ghost" size="xs" text="Mangasee"]
 
@@ -20,12 +19,13 @@ ___
 ### Anime
 - [Anify](https://anify.tv/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/Eltik/Anify-Frontend) [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Novel"]
 - [CoreProject](https://coreproject.moe/anime) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/baseplate-admin/CoreProject)
+- [Kato](https://kato.to/home)
+- [Ryuanime](https://ryuanime.chrismichael.now.sh/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/ChrisMichaelPerezSantiago/ryuanime) [!badge variant="ghost" size="xs" text="Spanish"]
 - [Streamable](https://streamable.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/StreamAble-Team/StreamAble-website)
 
 
 ### Miscellaneous
 - [Tankobon](https://tankobon.net/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/crxssed7/tankobon)
-
 
 
 ![](/static/banner/software.png)
@@ -35,6 +35,7 @@ ___
 ### Android
 - [AniTrend V2](https://github.com/AniTrend/anitrend-v2)
 - [Kurumi](https://github.com/subrotokumar/kurumi)
+- [Mangayomi](https://github.com/kodjodevf/mangayomi)
 
 ### PC
 
