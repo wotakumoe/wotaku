@@ -109,6 +109,14 @@ ___
 
 > If you want to mention a family member in formal way, here is the [guide](https://rentry.org/jpfamily).
 
+## Doujin Basics
+| Terms     | Meaning { class="compact" } |
+| ------  | ------ |
+| Doujinshi | Doujinshi refers to self-published works, which can be original creations or fan fictions, such as manga, novels, artworks, music, and games. |
+| Doujinka/Doujinshika | Doujinka is the creator of doujinshi and is a member of a doujin circle. |
+| Doujin | 'Doujin' refers to a group of people who share a common interest. |
+| Circle | The term 'circle' refers to the group that releases doujinshi, the circle may consist a group of people or a single individual. |
+
 ___
 ## Dere Types
 
