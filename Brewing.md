@@ -20,7 +20,6 @@ ___
 - [Anify](https://anify.tv/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/Eltik/Anify-Frontend) [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Novel"]
 - [CoreProject](https://coreproject.moe/anime) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/baseplate-admin/CoreProject)
 - [Kato](https://kato.to/home)
-- [Ryuanime](https://ryuanime.chrismichael.now.sh/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/ChrisMichaelPerezSantiago/ryuanime) [!badge variant="ghost" size="xs" text="Spanish"]
 - [Streamable](https://streamable.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/StreamAble-Team/StreamAble-website)
 
 

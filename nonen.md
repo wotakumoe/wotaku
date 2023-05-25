@@ -206,22 +206,36 @@ ___
 - [Shikimori](https://shikimori.one/) [!badge variant="ghost" icon="/static/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" text="Tracker"]
 
 
-### Apps
+### Software
+
+#### Apps
 - [Anime VSub](https://github.com/anime-vsub/app) [!badge variant="ghost" size="xs" icon="/static/icon/vietnam.png" text="VN"] [!badge variant="ghost" size="xs" text="Stream"]
 - [AnilabX](https://github.com/CrazyXacker/anilabx) [!badge variant="ghost" icon="/static/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" text="Freemium"]
 - [Bangumi MX](http://bgmx.mysxl.cn/) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"]  [!badge variant="ghost" size="xs" text="Tracker"]
 - [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Tracker"] 
 
-
-### Add-ons
-- [Anilist Chinese](https://github.com/soruly/anilist-chinese)  [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Script"] 
-- [Bangumi](https://github.com/czy0729/Bangumi)  [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" icon="/static/icon/apple.png" size="xs" text="Apple"] [!badge variant="ghost" size="xs" icon="/static/icon/andy.png" text="Android"]
-- [Shikimorist](https://github.com/Hokid/shikimorist) [!badge variant="ghost" icon="/static/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" icon="/static/icon/crm.svg" text="Chrome"]
-- [Watch and download on Shikimori](https://github.com/Malanavi/Watch-and-download-on-Shikimori) [!badge variant="ghost" icon="/static/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" text="Script"]
-
-### Software
+#### Windows / Linux / macOS
 - [Aniship](https://github.com/progzone122/AniShip) [!badge variant="ghost" icon="/static/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" text="Stream"]
 - [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Downloader"]
 - [JProxy](https://github.com/LuckyPuppy514/jproxy) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text=" Downloader"]
 - [Otakuapuri](https://github.com/Dorian25/otakuapuri) [!badge variant="ghost" size="xs" icon="/static/icon/france.png" text="FR"] [!badge variant="ghost" size="xs" text=" Downloader"] [!badge variant="ghost" size="xs" text=" Stream"]
 - [Sonarr Anime Downloader](https://github.com/MainKronos/Sonarr-AnimeDownloader) [!badge variant="ghost" size="xs" icon="/static/icon/italy.png" text="IT"] [!badge variant="ghost" size="xs" text="Downloader"]
+
+### Add-ons
+
+#### Apps
+- [Bangumi](https://github.com/czy0729/Bangumi)  [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" icon="/static/icon/apple.png" size="xs" text="Apple"] [!badge variant="ghost" size="xs" icon="/static/icon/andy.png" text="Android"]
+
+#### Extension
+- [Shikimorist](https://github.com/Hokid/shikimorist) [!badge variant="ghost" icon="/static/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" icon="/static/icon/crm.svg" text="Chrome"]
+
+#### Script
+- [Anilist Chinese](https://github.com/soruly/anilist-chinese)  [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"]
+- [Score comparison assistant](https://greasyfork.org/en/scripts/451809-%E8%AF%84%E5%88%86%E5%AF%B9%E6%AF%94%E5%8A%A9%E6%89%8B)  [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"]
+- [Watch and download on Shikimori](https://github.com/Malanavi/Watch-and-download-on-Shikimori) [!badge variant="ghost" icon="/static/icon/russia.png" size="xs" text="RU"]
+
+### Brewing
+
+#### Website
+- [Ryuanime](https://ryuanime.chrismichael.now.sh/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/ChrisMichaelPerezSantiago/ryuanime) [!badge variant="ghost" icon="/static/icon/spain.png" size="xs" text="ES"]
+- [ANIFOX](https://anifox.club/anime) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/YockyMai/ANIFOX) [!badge variant="ghost" icon="/static/icon/russia.png" size="xs" text="RU"]
