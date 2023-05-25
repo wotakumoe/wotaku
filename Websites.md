@@ -120,7 +120,7 @@ ___
 
 ### Stream
 
-=== Uploader
+#### Uploader
 - [AllAnime](https://allanime.to/anime) + [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="gogo"]
 - [KickAssAnime](https://www2.kickassanime.ro/) + [!badge variant="ghost" size="xs" text="crunchy"]
 - [Marin](https://marin.moe/)
@@ -133,7 +133,7 @@ ___
 - [Pokémon TV](https://poke-tv.vercel.app/)  [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/seiya-dev/pokemon-tv) [!badge variant="ghost" size="xs" text="Multi-lang"]
 - [LM Anime](https://lmanime.com/) [!badge variant="ghost" size="xs" text="Donghua"]
 
-=== Scraper
+#### Scraper
 - [Kaguya](https://kaguya.app) [!badge variant="ghost" size="xs" text="9anime"] [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="bili"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="marin"] [!badge variant="ghost" size="xs" text="zoro"]
 - [Enime](https://enime.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/Enime-Project) [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="zoro"]
 - [Animesuge](https://animesuge.to/home) [!badge variant="ghost" size="xs" text="9anime"]
@@ -141,7 +141,7 @@ ___
 - [Anikatsu](https://anikatsu.me/home) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/shashankktiwariii/anikatsu) [!badge variant="ghost" size="xs" text="gogo"]
 - [Animedao](https://animedao.to/) [!badge variant="ghost" size="xs" text="gogo"]
 - [Yugen](https://yugenanime.ro/) [!badge variant="ghost" size="xs" text="gogo"]
-===
+
 
 > All the **Legal** anime streaming services are listed [here](https://otakulogy.github.io/anime-streaming/).
 

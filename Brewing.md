@@ -32,35 +32,38 @@ ___
 ## Software
 ___
 
-
 ### Android
 - [AniTrend V2](https://github.com/AniTrend/anitrend-v2)
 - [Kurumi](https://github.com/subrotokumar/kurumi)
 
 ### PC
-=== Manga
+
+#### Manga
 - [Atsumeru](https://github.com/AtsumeruDev/Atsumeru) [!badge variant="ghost" icon="globe" text="Web"](https://atsumeru.xyz/)
 - [Fukayo](https://github.com/JiPaix/Fukayo/)
 - [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager)
 - [Special Eureka](https://github.com/tonymushah/special-eureka)
-=== Anime
+
+#### Anime
 - [Aniluv](https://github.com/wovnep/aniluv)
 - [Animos](https://github.com/Nectres/animos)
 - [Keroro](https://github.com/hotsno/keroro)
 - [NineAnimator-Tauri](https://github.com/Layendan/NineAnimator-Tauri)
 - [AniShip](https://github.com/progzone122/AniShip)
-===
+
 
 
 ### iOS
-=== Manga
+
+#### Manga
 *None*
-=== Anime
+
+#### Anime
 - [Chouten beta](https://testflight.apple.com/join/Cg1rAPB8)
-=== Miscellaneous
+
+#### Miscellaneous
 - [AniHyou](https://github.com/axiel7/AniHyou)
 - [Kurozora](https://kurozora.app/welcome) [!badge variant="ghost" icon="/static/icon/apple.png" text="Apple"](https://github.com/Kurozora/kurozora-app) [!badge variant="ghost" icon="/static/icon/andy.png" text="Android"](https://github.com/Kurozora/kurozora-android) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/) [!badge variant="ghost" icon="/static/icon/discord.svg" text="Discord"](https://github.com/Kurozora/kurozora-discord-bot) 
-===
 
 
 ### macOS
