@@ -93,7 +93,7 @@ ___
 |  Yamato Nadeshiko  |  Japanese term used to describe an ideal Japanese woman. They are the epitome of pure, feminine beauty.   |
 |  Zettai Ryouiki  |   Translates to 'Absolute Territory'. Refers to the space of bare thighs between the skirt and above knee-length socks.  |
 
-
+___
 ## Common Honorifics 
 
 | Terms     | Meaning { class="compact" } |
@@ -109,13 +109,14 @@ ___
 
 > If you want to mention a family member in formal way, here is the [guide](https://rentry.org/jpfamily).
 
+___
 ## Doujin Basics
 | Terms     | Meaning { class="compact" } |
 | ------  | ------ |
-| Doujinshi | Doujinshi refers to self-published works, which can be original creations or fan fictions, such as manga, novels, artworks, music, and games. |
-| Doujinka/Doujinshika | Doujinka is the creator of doujinshi and is a member of a doujin circle. |
-| Doujin | 'Doujin' refers to a group of people who share a common interest. |
-| Circle | The term 'circle' refers to the group that releases doujinshi, the circle may consist a group of people or a single individual. |
+| Doujinshi | Doujinshi refers to **self-published works**, which can be **original creations or fan fictions**, such as manga, novels, artworks, music, and games. |
+| Doujinka/Doujinshika | Doujinka is **the creator** of doujinshi and is a member of a doujin circle. |
+| Doujin | 'Doujin' refers to **a group** of people who share a common interest. |
+| Circle | The term 'circle' refers to the group that **releases doujinshi**, the circle may consist a group of people or a single individual. |
 
 ___
 ## Dere Types
@@ -145,8 +146,8 @@ Introverted character(s) that are shy, quiet, and asocial, they don't like to ge
 
 | Terms     | Meaning { class="compact" } |
 | ------  | ------ |
-|  Oujodere |  A lady-like (as denoted with "oujo") version of deredere, that is more mature, calm and collected, typically they have a strict-nature on the outside, but are sweet on the inside. Prefer to share less about their crush, but is always pleased to help their crush and others, even in tough times. Example: []() |
-|  Megadere | Think of it like mega-deredere. An extreme version of deredere, that has an abnormal-obsession with their crush and are not afraid to show it to their crush. Example: []()  |
+|  Oujodere |  A lady-like (as denoted with "oujo") version of deredere, that is more mature, calm and collected, typically they have a strict-nature on the outside, but are sweet on the inside. Prefer to share less about their crush, but is always pleased to help their crush and others, even in tough times. Example: [Yaoyorozu Momo from Boku no Hero Academia](https://anidb.net/character/79660) |
+|  Megadere | Think of it like mega-deredere. An extreme version of deredere, that has an abnormal-obsession with their crush and are not afraid to show it to their crush. Example: [Sarutobi Ayame from Gintama](https://anidb.net/character/1650)  |
 
 ==- Goudere
 Over-achieving characters that are loyal to their masters, they view their masters as their savior and grace, so they do anything to their ability to keep them happy, and can also involve other characters as a means to contribute to their happiness, even though their master doesn't ask for that. Example: [Tooru from Miss Kobayashi's Dragon Maid](https://anidb.net/character/85812)
@@ -192,7 +193,7 @@ Character(s) that are sleepy - they sleep with or without an intent to do so, th
 
 | Terms     | Meaning { class="compact" } |
 | ------  | ------ |
-|  Darudere | Similar to Nemuidere, but the difference is that where 'Nemui' means sleepy, 'Daru' means sluggish, they are very lazy and sluggish and unlike Nemuidere, they will only do things for people they care for and complain about it through the process of doing something, otherwise they are just dull and lazy to others. |
+|  Darudere | Similar to Nemuidere, but the difference is that where 'Nemui' means sleepy, 'Daru' means sluggish, they are very lazy and sluggish and unlike Nemuidere, they will only do things for people they care for and complain about it through the process of doing something, otherwise they are just dull and lazy to others. Example: [Doma Umaru from Himouto! Umaru-chan](https://anidb.net/character/75170) |
 
 > tl;dr: Nemui are sleepy characters, where as daru is lazy.
 
@@ -201,8 +202,8 @@ Character(s) that are cat-loving fanatics, it could come in several variations:
     - They are a nekomimi themselves and just have a lot dere for cats
     - A regular human that is normal or show no emotion to others, but show their nyandere side when around cats, portrayed through showing imaginary cat ears and paws
 
-Example: [Alphonse Elric from Fullmetal Alchemist](https://anidb.net/character/5908)
-![Alphonse Elric](/static/glossary/General/nyandere.png)
+Example: [Hanekawa Tsubasa from Bakemonogatari](https://anidb.net/character/8965)
+![Hanekawa Tsubasa](/static/glossary/General/nyandere.jpg)
 
 ==- Sadodere
 Character(s) that indulge in the manipulation of their crush's feelings and humiliating them. They are cold, violent and merciless to others, hence making them difficult to connect with others. The are also sadistic due to finding job joy in inflicting pain to their crush. Example: [Nagatoro from Don`t Toy with Me, Miss Nagatoro](https://anidb.net/anime/15622)
