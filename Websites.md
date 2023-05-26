@@ -123,7 +123,7 @@ ___
 #### Uploader
 - [AllAnime](https://allanime.to/anime) + [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="gogo"]
 - [Marin](https://marin.moe/)
-- [Animedao](https://animedao.to/)
+- [Animedao](https://animedao.to/) + [!badge variant="ghost" size="xs" text="gogo"]
 	- Animedao is a great source for the latest episodes. The **Vid** & **Vid2** player provides high-quality videos, but they expire after a few days. However, the quality of the other players is below average.
 - [Zoro](https://zoro.to/home) [!badge variant="ghost" text="Proxies"](https://zoroanime.net/)
 - [9anime](https://9anime.gs/home)
