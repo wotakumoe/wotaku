@@ -122,8 +122,9 @@ ___
 
 #### Uploader
 - [AllAnime](https://allanime.to/anime) + [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="gogo"]
-- [KickAssAnime](https://www2.kickassanime.ro/) + [!badge variant="ghost" size="xs" text="crunchy"]
 - [Marin](https://marin.moe/)
+- [Animedao](https://animedao.to/)
+	- Animedao is a great source for the latest episodes. The **Vid** & **Vid2** player provides high-quality videos, but they expire after a few days. However, the quality of the other players is below average.
 - [Zoro](https://zoro.to/home) [!badge variant="ghost" text="Proxies"](https://zoroanime.net/)
 - [9anime](https://9anime.gs/home)
 - [Animepahe](https://animepahe.com/)
@@ -134,6 +135,7 @@ ___
 - [LM Anime](https://lmanime.com/) [!badge variant="ghost" size="xs" text="Donghua"]
 
 #### Scraper
+- [KickAssAnime](https://www2.kickassanime.ro/) [!badge variant="ghost" size="xs" text="crunchy"]
 - [Kaguya](https://kaguya.app) [!badge variant="ghost" size="xs" text="9anime"] [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="bili"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="marin"] [!badge variant="ghost" size="xs" text="zoro"]
 - [Enime](https://enime.moe/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/Enime-Project) [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="zoro"]
 - [Animesuge](https://animesuge.to/home) [!badge variant="ghost" size="xs" text="9anime"]
