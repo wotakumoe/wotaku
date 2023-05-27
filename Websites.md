@@ -22,7 +22,7 @@ ___
 - [Comick](https://comick.app/home) [!badge variant="ghost" size="xs" text="R"]
 - [Mangapark](https://mangapark.net/) [!badge variant="danger" size="xs" text="R+"]
 - [Cubari Proxy](https://proxy.cubari.moe/) [!badge variant="danger" size="xs" text="R+"]
-- [Atsumaru](https://atsu.moe/) | [Mangasee](https://mangasee123.com/) | [Mangalife](https://manga4life.com/) [!badge variant="ghost" text="R"]
+- [Atsumaru](https://atsu.moe/) | [Mangasee](https://mangasee123.com/) | [Mangalife](https://manga4life.com/) [!badge variant="ghost" size="xs" text="R"]
 - [Manga Katana](https://mangakatana.com/) [!badge variant="danger" size="xs" text="R+"]
 - [Colored Manga](https://coloredmanga.com/) [!badge variant="ghost" size="xs" text="R"]
 - [Manga Fire](https://mangafire.to/home) [!badge variant="ghost" size="xs" text="R"]
@@ -121,12 +121,12 @@ ___
 
 #### Uploader
 - [AllAnime](https://allanime.to/anime) + [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="gogo"]
-- [Marin](https://marin.moe/)
+- [Marin](https://marin.moe/) [!badge variant="ghost" size="xs" text="BD"]
 - [Animedao](https://animedao.to/) + [!badge variant="ghost" size="xs" text="gogo"]
 	- Animedao is a great source for the latest episodes. The **Vid** & **Vid2** player provides high-quality videos, but they expire after a few days. However, the quality of the other players is below average.
 - [Zoro](https://zoro.to/home) [!badge variant="ghost" text="Proxies"](https://zoroanime.net/)
 - [9anime](https://9anime.gs/home)
-- [Animepahe](https://animepahe.com/)
+- [Animepahe](https://animepahe.com/) [!badge variant="ghost" size="xs" text="BD"] [!badge variant="ghost" size="xs" text="Mini encoded"]
 - [Animension](https://animension.to/) + [!badge variant="ghost" size="xs" text="gogo"]
 - [Muse Asia](https://www.youtube.com/@MuseAsia/) [!badge variant="ghost" text="Country specific"](https://www.youtube.com/@MuseAsia/channels) [!badge variant="ghost" size="xs" text="Regional"] [!badge variant="ghost" size="xs" text="legal"]
 - [Ani-One Aisa](https://www.youtube.com/AniOneAsia/) [!badge variant="ghost" size="xs" text="Regional"] [!badge variant="ghost" size="xs" text="legal"]
