@@ -119,6 +119,21 @@ ___
 | Circle | The term 'circle' refers to the group that **releases doujinshi**, the circle may consist a group of people or a single individual. |
 
 ___
+## Kemonomimi
+
+"Kemonomimi" means "animal ears." These are human-like characters that possess animal features such as ears, tails etc. Example: [Holo from Spice & Wolf](https://anidb.net/character/29)
+
+| Types    |   Meaning { class="compact" } |
+| :---: | :---: |
+|  Inumimi   | Dog ears |
+|  Kitsunemimi | Fox ears |
+|  Nekomimi  | Cat ears |
+|  Nezumimi  | Mouse  ears |
+|  Umamimi   | Horse ears |
+|  Usagimimi   | Rabbit ears |
+|  Ryumimi | Dragon ears |
+
+___
 ## Dere Types
 
 Words used to describe anime girls based on their personality.
