@@ -8,7 +8,7 @@ icon: plug
 
 # Add-ons
 
-Need even further streamlining in your anime/manga/light novel experience? Presenting the add-ons sections!. Add-ons include tracking anime and manga progress, discord bots, browser extensions, scripts, and more!
+Need even further streamlining in your anime/manga/light novel experience? Presenting the add-ons sections! Add-ons include tracking anime and manga progress, discord bots, browser extensions, scripts, and more!
 ___
 
 
