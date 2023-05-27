@@ -215,6 +215,13 @@ ___
 - [Bangumi MX](http://bgmx.mysxl.cn/) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"]  [!badge variant="ghost" size="xs" text="Tracker"]
 - [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Tracker"] 
 
+=== Multi
+- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/) [!badge variant="ghost" icon="globe" text="Web"](https://tachiyomi.org/) [!badge variant="ghost" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/)
+- [Aniyomi](https://github.com/jmir1/aniyomi/) [!badge variant="ghost" icon="globe" text="Web"](https://aniyomi.org/) [!badge variant="ghost" size="xs" text="Manga"]
+- Saikou [!badge variant="ghost" icon="/static/icon/id.png" text="ID"](https://github.com/saikou-app/saikou-in/) [!badge variant="ghost" size="xs" icon="/static/icon/italy.png" text="IT"](https://github.com/antonydp/saikou-italiano) [!badge variant="ghost" icon="/static/icon/spain.png" size="xs" text="ES"](https://github.com/Diegopyl1209/saikouSP) [!badge variant="ghost" size="xs" icon="/static/icon/vietnam.png" text="VN"](https://github.com/hoangvu12/SaikouVN)
+
+===
+
 #### Windows / Linux / macOS
 - [Aniship](https://github.com/progzone122/AniShip) [!badge variant="ghost" icon="/static/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" text="Stream"]
 - [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Downloader"]

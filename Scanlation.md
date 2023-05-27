@@ -5,7 +5,7 @@ icon: typography
 ---
 ![](/static/thumb/scan.png)
 # Scanlation
-Without scanlators we wouldn’t have "manga available to everyone around the world" , if you’re interested in what the world of scanlation entails, and want to know the process behind it, welcome to the scanlation section! Here you will find nifty sources for everything related to scanlating.
+If you’re interested in what the world of scanlation entails, and want to know the process behind it, welcome to the scanlation section! Here you will find nifty sources for everything related to scanlating.
 ___
 
 ![](/static/banner/comms.png)

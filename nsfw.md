@@ -1,10 +1,12 @@
 ---
 visibility: hidden
+icon: blocked
 ---
 
 ![](/static/thumb/nsfw.png)
 # NSFW
 Need to control that horny energy of yours? Looking to find satisfy your fetish with some kink and wink ;), Well look no further introducing the NSFW section crafted with love and care (that's what she said)
+
 ___
 ![](/static/banner/sites.png)
 ## Websites
@@ -37,9 +39,10 @@ ___
 
 ### Anime
 - [Oppai](https://oppai.stream/)
+- [Hanime](https://hanime.tv/)
 - [Hentai Stream](https://hstream.moe/)
 - [Hentai Haven](https://hentaihaven.com/) | [.red](https://hentaihaven.red/)
-- [Hentain Mama](https://hentaimama.io/)
+- [Hentai Mama](https://hentaimama.io/)
 
 ### Booru
 - [Danbooru](https://danbooru.donmai.us/)
@@ -86,14 +89,19 @@ ___
 ___
 ![](/static/banner/script.png)
 ## Scripts
+- E-HENTAI-VIEW-ENHANCE [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/397848-e-hentai-view-enhance)
+- Eza's Image Glutton [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/4713-eza-s-image-glutton)
 - Let's panda! [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/33979-let-s-panda)
 - MALSync Adult [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/387981-mal-sync-adult-fatexxxblood-edition)
+- Manga Loader NSFW [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/12657-manga-loader-nsfw)
+- Manga OnlineViewer [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/1319-manga-onlineviewer)
 - [nhentai helper](https://github.com/Tsuk1ko/nhentai-helper) [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/375992-nhentai-helper)
 - [nhentai konnichiwa](https://github.com/naiymu/nhentai-konnichiwa)
 
 ___
 ![](/static/banner/misc.png)
 ## Misc
+- [Kemono](https://kemono.party/)
 - [Hent-AI](https://github.com/natethegreate/hent-AI)
 - [nHentai Discord Bot](https://github.com/the-urban-inc/nhentai-discord-bot)
 - [nHentai Telegram Bot](https://github.com/sleroq/nhentai-telegram-bot)

@@ -18,10 +18,8 @@ Welcome to Wotaku! Here, you'll find a diverse range of resources related to man
 	- [!badge variant="ghost" text="R-"] Rarely uploads NSFW content.
 	- [!badge variant="success" text="E"] Only SFW content.
 	- [!badge variant="ghost" text="NR"] Haven't been rated yet.
-
-- The wiki does not include any sites that exclusively feature NSFW (Not Safe for Work) content.
 - If you encounter any issues with the websites or software listed, please reach out to their respective communities for assistance. If available, I have provided links to their GitHub pages where you can report the issue.
-- If you want to submit a new site or wiki related issue, [read this](https://github.com/anotherduckling/Wotaku#-websites-i-wont-add).
+- If you want to submit a new site or wiki related issue, [read this](/README.md/#submitting-a-link).
 ===
 
 <style>

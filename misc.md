@@ -7,7 +7,7 @@ icon: diff-added
 ![](/static/thumb/ms.png)
 
 # Misc-sites
-Websites for various purposes such as Info, guides, communities, trackers & tools are added here.
+Feeling adventurous? Want to discover the taste of Japanese culture? Welcome to the misc-sites page! Here you can find various communities, guides, and tools that strikes your fancy. Enjoy the exploration!
 ___
 
 ![](/static/banner/booru.png)

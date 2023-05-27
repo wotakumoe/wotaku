@@ -8,7 +8,7 @@ icon: browser
 
 # Websites
 
-A curated collection of websites related to manga, anime, light novels and all other things otaku. Every site has been personally tested and only the highest quality ones are recommended.
+Looking for websites that provide manga, anime, light novels, and other things to fulfill your otaku needs? You have arrived at in the website section! In here you will find the finest quality of links extensively tested with love and care.
 ___
 
 ![](/static/banner/manga.png)

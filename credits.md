@@ -22,6 +22,7 @@ ___
 - Ninomae Ina'nis's WAH! art by [Chroneco](https://www.chroneco.moe/)
 - Ninomae Ina'nis's Wahu Wahu! art by [the same small vtuber previously mentioned](https://twitter.com/ninomaeinanis/status/1652829909218373632)
 - Ninomae Ina'nis's Reading art by [the small vtuber](https://twitter.com/ninomaeinanis/status/1340047328963510273)
+- Ninomae Ina'nis's back by [Himeliofon](https://www.pixiv.net/en/artworks/99500268)
 - Other icons are from [Octicons](https://primer.github.io/octicons/), [Flaticon](https://www.flaticon.com/), [SVGRepo](https://www.svgrepo.com/), [Mangadex](https://mangadex.org/)
 
 
