@@ -121,7 +121,7 @@ ___
 ___
 ## Kemonomimi
 
-"Kemonomimi" means "animal ears." They are human-like characters who possess animal features such as ears, tails etc. Example: [Holo from Spice & Wolf](https://anidb.net/character/29)
+"Kemonomimi" means "animal ears." They are human-like characters who possess animal features such as ears, tails etc. Example: [Tokai Teiou from Uma Musume](https://anidb.net/character/94007)
 
 | Types    |   Meaning { class="compact" } |
 | :---: | :---: |
