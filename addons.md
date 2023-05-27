@@ -7,7 +7,8 @@ icon: plug
 ![](/static/thumb/addons.png)
 
 # Add-ons
-These add-ons will help you get the most out of your manga and anime watching experience.
+
+Need even further streamlining in your anime/manga/light novel experience? "Presenting the add-ons sections!" Add-ons include tracking anime and manga progress, discord bots, browser extensions, scripts, and more!
 ___
 
 

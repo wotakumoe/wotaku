@@ -5,7 +5,7 @@ icon: typography
 ---
 ![](/static/thumb/scan.png)
 # Scanlation
-This page includes resources for scanlation, including raw files, guides, and tools.
+Without scanlators we wouldn’t have "manga available to everyone around the world" , if you’re interested in what the world of scanlation entails, and want to know the process behind it, welcome to the scanlation section! Here you will find nifty sources for everything related to scanlating.
 ___
 
 ![](/static/banner/comms.png)
