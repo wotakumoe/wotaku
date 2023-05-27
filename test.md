@@ -3,7 +3,7 @@ visibility: hidden
 ---
 
 | Types    |   Meaning { class="compact" } |
-| --- | --- |
+| :---: | :---: |
 |  Inumimi   | Dog ears |
 |  Kitsunemimi | Fox ears |
 |  Nekomimi  | Cat ears |
