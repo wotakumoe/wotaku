@@ -29,7 +29,7 @@ jobs:
           committer_email: 41898282+github-actions[bot]@users.noreply.github.com
           message: Update version
           push: true
-      - uses: retypeapp/action-build@latest
-      - uses: retypeapp/action-github-pages@latest
+      - uses: retypeapp/action-build@v3.0.0-preview
+      - uses: retypeapp/action-github-pages@v3.0.0-preview
         with:
           update-branch: true

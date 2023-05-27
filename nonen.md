@@ -218,7 +218,7 @@ ___
 === Multi
 - [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/) [!badge variant="ghost" icon="globe" text="Web"](https://tachiyomi.org/) [!badge variant="ghost" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/)
 - [Aniyomi](https://github.com/jmir1/aniyomi/) [!badge variant="ghost" icon="globe" text="Web"](https://aniyomi.org/) [!badge variant="ghost" size="xs" text="Manga"]
-- Saikou [!badge variant="ghost" icon="/static/icon/id.png" text="ID"](https://github.com/saikou-app/saikou-in/) [!badge variant="ghost" size="xs" icon="/static/icon/italy.png" text="IT"](https://github.com/antonydp/saikou-italiano) [!badge variant="ghost" icon="/static/icon/spain.png" size="xs" text="ES"](https://github.com/Diegopyl1209/saikouSP) [!badge variant="ghost" size="xs" icon="/static/icon/vietnam.png" text="VN"](https://github.com/hoangvu12/SaikouVN)
+- Saikou [!badge variant="ghost" icon="/static/icon/id.png" text="ID"](https://github.com/saikou-app/saikou-in/) [!badge variant="ghost" icon="/static/icon/italy.png" text="IT"](https://github.com/antonydp/saikou-italiano) [!badge variant="ghost" icon="/static/icon/spain.png" text="ES"](https://github.com/Diegopyl1209/saikouSP) [!badge variant="ghost" icon="/static/icon/vietnam.png" text="VN"](https://github.com/hoangvu12/SaikouVN)
 
 ===
 
@@ -247,3 +247,6 @@ ___
 #### Website
 - [Ryuanime](https://ryuanime.chrismichael.now.sh/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/ChrisMichaelPerezSantiago/ryuanime) [!badge variant="ghost" icon="/static/icon/spain.png" size="xs" text="ES"]
 - [ANIFOX](https://anifox.club/anime) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/YockyMai/ANIFOX) [!badge variant="ghost" icon="/static/icon/russia.png" size="xs" text="RU"]
+
+#### Apps
+- [Neko Anime](https://github.com/xioneko/neko-anime) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"]
