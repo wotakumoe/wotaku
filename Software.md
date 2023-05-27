@@ -5,7 +5,8 @@ icon: package
 ---
 ![](/static/thumb/soft.png)
 # Software
-On this page, you'll find software for various platforms that are dedicated to manga, anime, and light novels.
+
+Want to streamline your anime/manga/light novel experience at home and on the go? "Welcoming you to the software section" Here you will find quality applications for Android, iOS, Windows, and Linux, few examples of what the software can serve you with is, watching anime or reading manga on the go, both online (scrapping) and offline (downloading), reading manga on a bigger screen, etc.
 ___
 
 ![](/static/banner/and.png)

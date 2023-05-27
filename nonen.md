@@ -7,7 +7,8 @@ order: 825
 ![](/static/thumb/nen.png)
 # Non-English
 
-All the Non-english contents are added here.
+Looking to find otaku materials in your language. Presenting the Non-En section!
+___
 
 ![](/static/banner/manga.png)
 ## Manga

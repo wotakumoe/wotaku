@@ -7,7 +7,7 @@ order: 15
 ![](/static/thumb/glossary.png)
 
 # Wotaku Glossary
-Welcome to Wotaku glossary!
+Want to increase your otaku knowledge? Look for no further! Presenting the Glossary section.
 
 ## Region
 

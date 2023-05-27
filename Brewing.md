@@ -5,7 +5,7 @@ icon: Beaker
 ---
 ![](/static/thumb/brew.png)
 # Brewing
-Here is a list of projects that are either in early stages of development or still in progress.
+Cool prospective projects under works worth looking into, or maybe contributing too!
 ___
 
 ![](/static/banner/sites.png)
