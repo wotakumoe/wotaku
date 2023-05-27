@@ -1,7 +1,7 @@
 ---
 label: Merch
 order: 20
-icon: container
+icon: sparkle-fill
 ---
 
 

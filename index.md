@@ -1,6 +1,6 @@
 ---
 label: Welcome
-icon: hubot
+icon: copilot
 ---
 
 ![](/static/thumb/cover.png)
