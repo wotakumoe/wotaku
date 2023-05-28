@@ -109,7 +109,6 @@ ___
 
 #### More
 - [IRC & XDCC guide](/IRC.md)
-- [Network Stream](/ns.md)
 - [vocaloid pastebin for /jp/](https://pastebin.com/jDHxU1Jw)
 
 
