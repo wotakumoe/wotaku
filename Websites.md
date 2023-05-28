@@ -121,16 +121,16 @@ ___
 
 #### Uploader
 - [AllAnime](https://allanime.to/anime) + [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="gogo"]
-- [Marin](https://marin.moe/) [!badge variant="ghost" size="xs" text="BD"]
+- [Marin](https://marin.moe/) [!badge size="xs" text="BD"]
 - [Animedao](https://animedao.to/) + [!badge variant="ghost" size="xs" text="gogo"]
 	- Animedao is a great source for the latest episodes. The **Vid** & **Vid2** player provides high-quality videos, but they expire after a few days. However, the quality of the other players is below average.
-- [Zoro](https://zoro.to/home) [!badge variant="ghost" text="Proxies"](https://zoroanime.net/)
+- [Zoro](https://zoro.to/home) [!button icon="list-unordered" variant="danger" size="xs" text="Proxies"](https://zoroanime.net/)
 - [9anime](https://9anime.gs/home)
-- [Animepahe](https://animepahe.com/) [!badge variant="ghost" size="xs" text="BD"] [!badge variant="ghost" size="xs" text="Mini encoded"]
+- [Animepahe](https://animepahe.com/) [!badge size="xs" text="BD"] [!badge variant="ghost" size="xs" text="Mini encoded"]
 - [Animension](https://animension.to/) + [!badge variant="ghost" size="xs" text="gogo"]
-- [Muse Asia](https://www.youtube.com/@MuseAsia/) [!badge variant="ghost" text="Country specific"](https://www.youtube.com/@MuseAsia/channels) [!badge variant="ghost" size="xs" text="Regional"] [!badge variant="ghost" size="xs" text="legal"]
+- [Muse Asia](https://www.youtube.com/@MuseAsia/) [!badge variant="ghost" size="xs" text="Regional"] [!badge variant="ghost" size="xs" text="legal"]
 - [Ani-One Aisa](https://www.youtube.com/AniOneAsia/) [!badge variant="ghost" size="xs" text="Regional"] [!badge variant="ghost" size="xs" text="legal"]
-- [Pokémon TV](https://poke-tv.vercel.app/)  [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/seiya-dev/pokemon-tv) [!badge variant="ghost" size="xs" text="Multi-lang"]
+- [Pokémon TV](https://poke-tv.vercel.app/)  [!button variant="ghost" icon="mark-github" size="xs" text="Github"](https://github.com/seiya-dev/pokemon-tv) [!badge variant="ghost" size="xs" text="Multi-lang"]
 - [LM Anime](https://lmanime.com/) [!badge variant="ghost" size="xs" text="Donghua"]
 
 #### Scraper
