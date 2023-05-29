@@ -1,5 +1,6 @@
 ---
-visibility: hidden
+label: NSFW
+order: 775
 icon: blocked
 ---
 
@@ -41,7 +42,7 @@ ___
 - [AnimeID Hentai](https://animeidhentai.com/)
 - [Haho](https://haho.moe/)
 - [Hanime](https://hanime.tv/)
-- Hentai Haven [!badge variant="ghost" text="com"](https://hentaihaven.com/) [!badge variant="ghost" text="red"](https://hentaihaven.red/) [!badge variant="ghost" text="xxx"](https://hentaihaven.xxx/)
+- [Hentai Haven](https://hentaihaven.xxx/)
 - [Hentai Mama](https://hentaimama.io/)
 - [Hentai Stream](https://hstream.moe/)
 - [Hentai World](https://hentaiworld.tv/)
