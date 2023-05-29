@@ -29,7 +29,8 @@ ___
     - NSFW portion of nyaa.
 - [Chika Panda](https://panda.chaika.moe/)
     - Archive of stuff removed from E-Hentai due to DMCA complaints. has fakku/irodori stuff.
-- [nyanpantsu](https://nyanpantsu.vercel.app/) [!badge variant="ghost" icon="mark-github" text="Github"](https://github.com/purpleblueslime/nyanpantsu)
+- [nyanpantsu](https://nyanpantsu.vercel.app/) [!badge variant="dark" icon="mark-github" 
+size="xs" text="Github"](https://github.com/purpleblueslime/nyanpantsu)
 
 ### Manhwa
 - [Hiperdex](https://hiperdex.com/)
@@ -41,12 +42,12 @@ ___
 ### Anime
 - [AnimeID Hentai](https://animeidhentai.com/)
 - [Haho](https://haho.moe/)
-- [Hanime](https://hanime.tv/)
+- [Hanime](https://hanime.tv/) [!badge variant="danger" icon="chevron-down" size="xs" text="720p"]
 - [Hentai Haven](https://hentaihaven.xxx/)
 - [Hentai Mama](https://hentaimama.io/)
-- [Hentai Stream](https://hstream.moe/)
+- [Hentai Stream](https://hstream.moe/) [!badge variant="warning" icon="sparkle-fill" size="xs" text="4K"]
 - [Hentai World](https://hentaiworld.tv/)
-- [Oppai](https://oppai.stream/)
+- [Oppai](https://oppai.stream/) [!badge variant="warning" icon="sparkle-fill" size="xs" text="4K"]
 - [Rule34 video](https://rule34video.com/)
 - [Hentai Release Schedule](https://www.underhentai.net/releases/)
 
@@ -81,8 +82,8 @@ ___
 
 === Downloader
 
-- [Hakuneko](https://github.com/manga-download/hakuneko) [!badge variant="ghost" icon="globe" text="Web"](https://hakuneko.download/)
-- [HDoujin Downloader](https://github.com/HDoujinDownloader/HDoujinDownloader) [!badge variant="ghost" icon="globe" text="Web"](https://doujindownloader.com/)
+- [Hakuneko](https://github.com/manga-download/hakuneko) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://hakuneko.download/)
+- [HDoujin Downloader](https://github.com/HDoujinDownloader/HDoujinDownloader) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://doujindownloader.com/)
 - [Hentai downloader](https://github.com/touno-io/hentai-downloader)
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) [!badge variant="ghost" size="xs" text="Anime"]
 - [E-Hentai Downloader](https://github.com/ccloli/E-Hentai-Downloader)
