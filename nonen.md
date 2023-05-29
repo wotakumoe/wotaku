@@ -1,7 +1,7 @@
 ---
 label: Non-English
 icon: globe
-order: 825
+order: 800
 ---
 
 ![](/static/thumb/nen.png)

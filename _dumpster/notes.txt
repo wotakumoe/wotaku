@@ -1,0 +1,14 @@
+
+Oreder
+
+1. Websites 1000
+2. Software 950
+3. Misc-site 900
+4. Addons 850
+5. Non english 800
+6. NSFW 750
+7. merch 700
+8. scanlation 50
+9. glossary 0
+10. brewing -50
+11. credits -100

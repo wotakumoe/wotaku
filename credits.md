@@ -1,6 +1,6 @@
 ---
 label: Credits
-order: 11
+order: -100
 icon: heart
 ---
 

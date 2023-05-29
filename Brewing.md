@@ -1,6 +1,6 @@
 ---
 label: Brewing
-order: 12
+order: -50
 icon: Beaker
 ---
 ![](/static/thumb/brew.png)

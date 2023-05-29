@@ -1,6 +1,6 @@
 ---
 label: NSFW
-order: 775
+order: 750
 icon: blocked
 ---
 

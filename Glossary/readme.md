@@ -1,7 +1,7 @@
 ---
 label: Glossary
 icon: repo
-order: 15 
+order: 0
 ---
 
 ![](/static/thumb/glossary.png)

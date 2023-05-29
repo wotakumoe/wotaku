@@ -1,6 +1,6 @@
 ---
 label: Scanlation
-order: 750
+order: 50
 icon: typography
 ---
 ![](/static/thumb/scan.png)

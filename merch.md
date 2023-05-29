@@ -1,6 +1,6 @@
 ---
 label: Merch
-order: 20
+order: 700
 icon: sparkle-fill
 ---
 
