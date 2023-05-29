@@ -38,11 +38,16 @@ ___
 - [Webtoon](https://www.webtoon.xyz/)
 
 ### Anime
-- [Oppai](https://oppai.stream/)
+- [AnimeID Hentai](https://animeidhentai.com/)
+- [Haho](https://haho.moe/)
 - [Hanime](https://hanime.tv/)
-- [Hentai Stream](https://hstream.moe/)
-- [Hentai Haven](https://hentaihaven.com/) | [.red](https://hentaihaven.red/)
+- Hentai Haven [!badge variant="ghost" text="com"](https://hentaihaven.com/) [!badge variant="ghost" text="red"](https://hentaihaven.red/) [!badge variant="ghost" text="xxx"](https://hentaihaven.xxx/)
 - [Hentai Mama](https://hentaimama.io/)
+- [Hentai Stream](https://hstream.moe/)
+- [Hentai World](https://hentaiworld.tv/)
+- [Oppai](https://oppai.stream/)
+- [Rule34 video](https://rule34video.com/)
+- [Hentai Release Schedule](https://www.underhentai.net/releases/)
 
 ### Booru
 - [Danbooru](https://danbooru.donmai.us/)
