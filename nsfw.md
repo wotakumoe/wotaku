@@ -6,7 +6,7 @@ icon: blocked
 
 ![](/static/thumb/nsfw.png)
 # NSFW
-Need to control that horny energy of yours? Looking to find satisfy your fetish with some kink and wink ;), Well look no further introducing the NSFW section crafted with love and care (that's what she said)
+Need to control that horny energy of yours? Looking to find satisfy your fetish with some kink and :wink: Well look no further introducing the NSFW section crafted with love and care (that's what she said)
 
 ___
 ![](/static/banner/sites.png)
