@@ -22,7 +22,7 @@ ___
 - Ninomae Ina'nis's WAH! art by [Chroneco](https://www.chroneco.moe/)
 - Ninomae Ina'nis's Wahu Wahu! art by [the same small vtuber previously mentioned](https://twitter.com/ninomaeinanis/status/1652829909218373632)
 - Ninomae Ina'nis's Reading art by [the small vtuber](https://twitter.com/ninomaeinanis/status/1340047328963510273)
-- Ninomae Ina'nis's back by [Himeliofon](https://www.pixiv.net/en/artworks/99500268)
+- Ninomae Ina'nis's back by [Himeliofon](https://twitter.com/hmlf_/status/1581015485524545536)
 - Other icons are from [Octicons](https://primer.github.io/octicons/), [Flaticon](https://www.flaticon.com/), [SVGRepo](https://www.svgrepo.com/), [Mangadex](https://mangadex.org/)
 
 
@@ -36,16 +36,7 @@ ___
 - [The Wiki](http://thewiki.moe/guides/quality/)
 
 
-==- How to contribute
-
-**Websites I won't add**
-
-- Manga websites that compress uploads and do not offer multiple scanlation options.
-- Anime websites that only scrape content from Gogo or Zoro.
-- Websites and software that are intended for NSFW content only.
-- Apps with outdated user interfaces or that only scrape content from generic websites (Gogo, Manganato, Manga4life etc.).
-
-**Submitting a link**
+== How to contribute
 
 If you want to submit or correct a link instead of creating a pull request, please post an [issue](https://github.com/anotherduckling/Wotaku/issues/new). This makes it easier for me to add it to the wiki, since I need to maintain the categories and markdown style.
 

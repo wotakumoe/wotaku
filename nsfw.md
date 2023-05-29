@@ -34,7 +34,7 @@ ___
 ### Manhwa
 - [Hiperdex](https://hiperdex.com/)
 - [Manhwa18](http://manhwa18.com/) | [.cc](https://manhwa18.cc/)
-- [Manytoons](https://manytoon.com/)
+- [Manytoon](https://manytoon.com/)
 - [Toonily](https://toonily.com/)
 - [Webtoon](https://www.webtoon.xyz/)
 
