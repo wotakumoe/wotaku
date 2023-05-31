@@ -1,8 +1,13 @@
 ---
 visibility: hidden
+label: Quick Start
+icon: zap
 ---
 
+![](/static/thumb/qs.png)
 # Quick Start
+Bite-sized Wotaku!
+___
 
 ## Websites
 
@@ -37,7 +42,7 @@ ___
 
 #### iOS
 - [Aidoku](https://github.com/Aidoku/Aidoku)
-- [Ketsu](https://ketsu.app/) [!badge variant="ghost" icon="globe" text="Modules"](https://bilnaa.github.io/main/) [!badge variant="ghost" size="xs" text="macOS"]
+- [Ketsu](https://ketsu.app/) [!badge variant="ghost" icon="diff-added" size="xs" text="Modules"](https://bilnaa.github.io/main/) [!badge variant="ghost" size="xs" text="macOS"]
 - [Paperback](https://github.com/Paperback-iOS/app)
 
 #### PC
