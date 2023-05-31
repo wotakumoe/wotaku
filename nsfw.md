@@ -25,6 +25,10 @@ ___
     - Big Library but difficult to navigate.
 - [Koushoku](https://ksk.moe/)
     - Has licensed (Fakku/Irodori) stuff.
+- [Hentaifox](https://hentaifox.com/ )
+    - Fast Updates and English only library.
+- [Hentai2read](https://hentai2read.com/)
+    - Combines Chapters of a series into a single entry unlike most sites so good to read doujin series.
 - [Nyaa Sukebei](https://sukebei.nyaa.si/)
     - NSFW portion of nyaa.
 - [Chika Panda](https://panda.chaika.moe/)
@@ -43,6 +47,7 @@ size="xs" text="Github"](https://github.com/purpleblueslime/nyanpantsu)
 - [AnimeID Hentai](https://animeidhentai.com/)
 - [Haho](https://haho.moe/)
 - [Hanime](https://hanime.tv/) [!badge variant="danger" icon="chevron-down" size="xs" text="720p"]
+- [Hentai Bar](https://hentaibar.com/)
 - [Hentai Haven](https://hentaihaven.xxx/)
 - [Hentai Mama](https://hentaimama.io/)
 - [Hentai Stream](https://hstream.moe/) [!badge variant="warning" icon="sparkle-fill" size="xs" text="4K"]

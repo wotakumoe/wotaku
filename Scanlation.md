@@ -83,6 +83,7 @@ ___
 - Adobe Software
 	- [Ecoterica Avenue](https://rentry.org/adobesoftware)
 	- [Guide by Anna](https://docs.google.com/document/d/17PheyyF9dm7YYjaTZ9JAAY3hhdeIQ7sJ4sylTG9_6xI/edit)
+	- [macOS Guide](https://telegra.ph/MacOS-Adobe-CC-Guide-11-29)
 - [Clip Stuio Paint EX](https://www.clipstudio.net/en/function_ex/) [!badge variant="ghost" text="FileCR"](https://filecr.com/windows/clip-studio-paint-ex/) [!badge variant="ghost" text="Pesktop"](https://pesktop.com/en/windows/clip_studio_paint_ex) 
 - [MediaBang Paint](https://medibangpaint.com/en/) [!badge variant="ghost" text="FileCR"](https://filecr.com/windows/medibang-paint/)
 - [GIMP](https://www.gimp.org/)
