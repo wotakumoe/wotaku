@@ -81,13 +81,13 @@ ___
 
 ### Anime
 - 9anime Bingewatcher+ [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher)
+- [Anifilters](https://github.com/Karmesinrot/Anifiltrs)
 - [Anime Website Buttons Plus](https://github.com/Deatthwing/anime-website-buttons-plus) [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/398046-anime-website-custom-buttons-plus)
 - Find on Nyaa [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/379776-find-on-nyaa)
 - Zoro Autofocus [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/464019-zoro-bingewatcher)
 
 ### Anilist
 
-- [Anifilters](https://github.com/Karmesinrot/Anifiltrs)
 - [AniList Unlimited](https://github.com/mysticflute/ani-list-unlimited) [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/404465-anilist-unlimited-score-in-header)
 - Anilist External Links [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/442599-anilist-external-links)
 - Anisongs [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/374785-anisongs)
