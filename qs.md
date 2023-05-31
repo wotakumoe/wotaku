@@ -1,5 +1,4 @@
 ---
-visibility: hidden
 order: 1200
 label: Quick Start
 icon: zap

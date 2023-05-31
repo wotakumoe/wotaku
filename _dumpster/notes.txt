@@ -1,6 +1,7 @@
 
 Oreder
 
+0. Quick Start 1200
 1. Websites 1000
 2. Software 950
 3. Misc-site 900
