@@ -82,7 +82,7 @@ ___
 |  Loli  |   Young or young-looking girl in anime and manga.  |
 |  Moe  |  The feeling of emotional attraction when you see something cute in manga, anime or other weeb stuff. These are SFW and can be any gender.  |
 |  Nakama  |  Literally "Comrade". Popularized by the series 'One Piece', it is nowadays used for a group of people who are closer than family.   |
-| Oshi | One's favourite idol. |
+| Oshi | One's favourite idol. The fan himself is known as **gachikoi**. It's generally used when the affection is on a serious level.|
 | Seiso | *"Seiso" (清楚) refers to a particular aesthetic of purity and cleanliness that is often emphasized in the presentation of female idols. This can involve elements such as modest clothing, subtle makeup, and a generally wholesome image.* |
 |  Senpai/Sempai  |   Senior. Can be in a workplace or school.  |
 |  Sensei  |  Generally Teacher. But this can also be used to address someone  who is a respected professional or very senior in the position.   |

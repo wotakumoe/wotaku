@@ -36,7 +36,7 @@ ___
 - [The Wiki](http://thewiki.moe/guides/quality/)
 
 
-== How to contribute
+=== How to contribute
 
 If you want to submit or correct a link instead of creating a pull request, please post an [issue](https://github.com/anotherduckling/Wotaku/issues/new). This makes it easier for me to add it to the wiki, since I need to maintain the categories and markdown style.
 

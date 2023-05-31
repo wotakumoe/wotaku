@@ -222,6 +222,7 @@ size="xs" text="Github"](https://github.com/huy232/Unime)
 - [AnilabX](https://github.com/CrazyXacker/anilabx) [!badge variant="ghost" icon="/static/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" text="Freemium"]
 - [Bangumi MX](http://bgmx.mysxl.cn/) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"]  [!badge variant="ghost" size="xs" text="Tracker"]
 - [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Tracker"] 
+- [Mediabox](https://github.com/RyensX/MediaBox) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Stream"]
 
 === Multi
 - [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://tachiyomi.org/) [!badge variant="ghost" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/)

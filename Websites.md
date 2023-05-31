@@ -201,8 +201,7 @@ size="xs" text="Github"](https://github.com/shashankktiwariii/anikatsu) [!badge 
 ___
 
 ### Stream
-- [Anithemes.moe](https://animethemes.moe/) [!badge variant="dark" icon="mark-github" 
-size="xs" text="Github"](https://github.com/AnimeThemes)
+- [Anithemes.moe](https://animethemes.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/AnimeThemes)
 - [Themes.moe](https://themes.moe/)
 - [LISTEN.moe](https://listen.moe/) [!badge variant="dark" icon="mark-github" 
 size="xs" text="Github"](https://github.com/LISTEN-moe)

@@ -138,11 +138,19 @@ ___
 ___
 
 ### Android and iOS
+
+#### Anilist
 - [Apps for Anilist](https://anilist.co/apps)
-- DailyAL [!badge variant="ghost" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.everfox.animetrackerandroid&hl=en&gl=US)
-- [MoeList](https://github.com/axiel7/MoeList) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://moelist.net/)
+- [AniHyou](https://github.com/axiel7/AniHyou-android) [!badge variant="ghost" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.axiel7.anihyou)
+
+#### Kitsu
 - [Kitsu](https://github.com/hummingbird-me/kitsu-mobile) [!badge variant="ghost" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.everfox.animetrackerandroid&hl=en&gl=US) [!badge variant="ghost" icon="/static/icon/apple.png" text="iOS"](https://apps.apple.com/us/app/kitsu-anime/id590452826)
 - [Kitsune](https://github.com/Drumber/Kitsune)
+
+#### MyAnimeList
+- DailyAL [!badge variant="ghost" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.teen.dailyanimelist&hl=en&gl=US)
+- [MoeList](https://github.com/axiel7/MoeList) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://moelist.net/)
+
 
 ### Windows
 - [Taiga](https://github.com/erengy/taiga) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://taiga.moe/) [!badge variant="ghost" size="xs" text="Downloader"]

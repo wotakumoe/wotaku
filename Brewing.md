@@ -37,6 +37,7 @@ size="xs" text="Github"](https://github.com/crxssed7/tankobon)
 ___
 
 ### Android
+- [Animite](https://github.com/imashnake0/Animite)
 - [AniTrend V2](https://github.com/AniTrend/anitrend-v2)
 - [Kurumi](https://github.com/subrotokumar/kurumi)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
@@ -67,7 +68,6 @@ ___
 - [Chouten beta](https://testflight.apple.com/join/Cg1rAPB8)
 
 #### Miscellaneous
-- [AniHyou](https://github.com/axiel7/AniHyou)
 - [Kurozora](https://kurozora.app/welcome) [!badge variant="ghost" icon="/static/icon/apple.png" text="Apple"](https://github.com/Kurozora/kurozora-app) [!badge variant="ghost" icon="/static/icon/andy.png" text="Android"](https://github.com/Kurozora/kurozora-android) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/) [!badge variant="ghost" icon="/static/icon/discord.svg" text="Discord"](https://github.com/Kurozora/kurozora-discord-bot) 
 
 
