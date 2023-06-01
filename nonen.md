@@ -81,6 +81,8 @@ ___
 - [Anime titans](https://animetitans.net/)
 - [Anime4up](https://w1.anime4up.tv/)
 - [Animelek](https://animelek.me/)
+- [Animerco](https://animerco.com/)
+- [Arabsama](https://arabsama.net/)
 - [Wit anime](https://witanime.com/)
 - [XSAnime](https://v.xsanime.com/)
 
@@ -126,24 +128,26 @@ ___
 - [Toonworld4all](https://toonworld4all.me/) [!badge variant="ghost" size="xs" text="DDL"]
 
 #### Indonesian
+- [Anichin](https://anichin.vip/)
 - [Anime Indo](https://animeindo.cfd/)
 - [AnimeForce](https://www.animeforce.it/)
 - [AnimeSail](https://154.26.137.28/)
 - [Anoboy](https://anoboy.ch/)
+- [Kazefuri](https://kazefuri.net/)
+- [Mynimeku](https://www.mynimeku.com/)
 - [Neonime](https://neonime.fun/)
-- [Ryukonime](https://ryukonime.vercel.app/) [!badge variant="dark" icon="mark-github" 
-size="xs" text="Github"](https://github.com/AzwarKusumah/Ryukonime)
+- [Ryukonime](https://ryukonime.vercel.app/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/AzwarKusumah/Ryukonime)
 
 #### Italian
 - [Anime Saturn](https://www.animesaturn.tv/)
 - [Anime World](https://www.animeworld.tv/)
+- [Anime Force](https://www.animeforce.it/)
 
 #### Polish
 - [Anime Odcinki](https://anime-odcinki.pl/)
 - [Anime Zone](https://www.animezone.pl/)
 - [Desu Online](https://desu-online.pl/)
-- [Docchi](https://docchi.pl/) [!badge variant="dark" icon="mark-github" 
-size="xs" text="Github"](https://github.com/docchipl/shinden-description)
+- [Docchi](https://docchi.pl/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/docchipl/shinden-description)
 - [Dragon Subs](https://dragonsubs.pl/)
 - [Frixy Subs](https://frixysubs.pl/)
 - [Fumetsu](https://fumetsu.pl/)
@@ -156,6 +160,7 @@ size="xs" text="Github"](https://github.com/docchipl/shinden-description)
 - [Anime Fire](https://animefire.net/)
 - [Anime Online HD](https://animesonlinehd.vip/)
 - [Animes Zone](https://animeszone.net/)
+- [Better Anime](https://betteranime.net/)
 - [Anime Kage](https://ak560.anime-kage.eu/) [!badge variant="ghost" size="xs" text="DDL"]
 - [Kero Seed](https://www.keroseed.com/)  [!badge variant="ghost" size="xs" text="Torrent"]
 
@@ -170,22 +175,26 @@ size="xs" text="Github"](https://github.com/docchipl/shinden-description)
 - [Anime Buff](https://animebuff.ru/) [!badge variant="ghost" size="xs" text="Sub"]
 - [Anime Stars](https://animestars.org/) [!badge variant="ghost" size="xs" text="Sub"]
 - [AnimeGO](https://animego.org/) [!badge variant="ghost" size="xs" text="Sub"]
-- [Averlist](https://averlist.xyz/) [!badge variant="dark" icon="mark-github" 
-size="xs" text="Github"](https://github.com/Averito/Averlist)
+- [Averlist](https://averlist.xyz/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/Averito/Averlist)
 - [Dreamcast](https://dreamerscast.com/)
 - [Freedub Studio](https://freedubstudio.club/)
 - [Sovet Romantica](https://sovetromantica.com/) [!badge variant="ghost" size="xs" text="Sub"]
-- [Tunime](https://an0ncer.github.io/) [!badge variant="dark" icon="mark-github" 
-size="xs" text="Github"](https://github.com/AN0NCER/an0ncer.github.io) [!badge variant="ghost" size="xs" text="Sub"]
+- [Tunime](https://an0ncer.github.io/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/AN0NCER/an0ncer.github.io) [!badge variant="ghost" size="xs" text="Sub"]
 - [Yummy Anime](https://yummyanime.club/)
 - [Anime Slayer](http://animelayer.ru/) [!badge variant="ghost" size="xs" text="Torrent"]
 - [Dark Libria](https://darklibria.it/) [!badge variant="ghost" size="xs" text="Stream"] [!badge variant="ghost" size="xs" text="DDL"] 
 
+#### Slovak
+- [Anime Balkan](https://animebalkan.org/)
+- [Anime Srbija](https://www.animesrbija.com/)
+
 #### Spanish
+- [Animeblix](https://animeblix.com/)
 - [AnimeFLV](https://animeflv.io/) | [.net](https://www3.animeflv.net/)
 - [JKAnime](https://jkanime.net/)
 - [Mundo Donghua](https://www.mundodonghua.com/)
 - [OtakusTV](https://www1.otakustv.com/)
+- [Tio Donghua](https://tiodonghua.com/)
 - [Sphin X Anime](https://sphinxanime.com/) [!badge variant="ghost" size="xs" text="DDL"]
 - [Japan Paw](https://japan-paw.net/) [!badge variant="ghost" size="xs" text="DDL"]
 - [Ivanime](https://www.ivanime.com/) [!badge variant="ghost" size="xs" text="DDL"]
@@ -200,10 +209,8 @@ size="xs" text="Github"](https://github.com/AN0NCER/an0ncer.github.io) [!badge v
 #### Vietnamese
 - [Kaguya](https://kaguya.app/)
 - [Ani4u](https://ani4u.org/)
-- [AnimeVsub](https://animevsub.ga/) [!badge variant="dark" icon="mark-github" 
-size="xs" text="Github"](https://github.com/anime-vsub/desktop-web)
-- [Unime](https://unime.vercel.app/) [!badge variant="dark" icon="mark-github" 
-size="xs" text="Github"](https://github.com/huy232/Unime)
+- [AnimeVsub](https://animevsub.ga/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/anime-vsub/desktop-web)
+- [Unime](https://unime.vercel.app/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/huy232/Unime)
 
 
 ![](/static/banner/others.png)
