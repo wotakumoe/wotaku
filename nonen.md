@@ -166,6 +166,7 @@ ___
 
 #### Romanian
 - [AnimeAZU](https://www.animeazu.net/)
+- [Anime Kage](https://ak538.anime-kage.eu/)
 
 #### Russian
 - [Akari Anime](https://akari-anime.com/)
