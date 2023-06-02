@@ -139,12 +139,12 @@ ___
 Words used to describe anime girls based on their personality.
 
 ==- Bakadere
-As clear by the word "baka", these characters are literally idiots, clumsy, and do things that are questionable, but due to their child-like innocence and optimism, they are kind-hearted to other characters, even though they may not realize that, and are very annoying to a protagonist. Example: [Hanabatake Yoshiko from Aho-Girl](https://anidb.net/character/89068)
+As clear by the word "baka", these character(s) are literally idiots, clumsy, and do things that are questionable, but due to their child-like innocence and optimism, they are kind-hearted to other characters, even though they may not realize that, and are very annoying to a protagonist. Example: [Hanabatake Yoshiko from Aho-Girl](https://anidb.net/character/89068)
 
 ![Hanabatake Yoshiko](/static/glossary/General/bakadare.png)
 
 ==- Byoukidere
-'Byouki' mean illness, so this character usually has some kind of physical disease, often fatal. They are mostly confined to a wheelchair or a hospital room. Generally they are kind, caring and sweet in nature. Example: [Miyazono Kaori from Shigatsu wa Kimi no Uso](https://anidb.net/character/65811)
+'Byouki' mean illness, so these character(s) usually has some kind of physical disease, often fatal. They are mostly confined to a wheelchair or a hospital room. Generally they are kind, caring and sweet in nature. Example: [Miyazono Kaori from Shigatsu wa Kimi no Uso](https://anidb.net/character/65811)
 
 ![Miyazono Kaori](/static/glossary/General/Byoukidere.png)
 
@@ -155,7 +155,7 @@ Introverted character(s) that are shy, quiet, and asocial, they don't like to ge
 
 
 ==- Deredere
-'Dere' mean love, so a deredere character is all about being lovey-dovey. These characters are sweet, kind and very affectionate towards the person they love, while also being generally friendly towards other characters. Example: [Miia from Monster Musume](https://anidb.net/character/73747)
+'Dere' mean love, so a deredere character is all about being lovey-dovey. These character(s) are sweet, kind and very affectionate towards the person they love, while also being generally friendly towards other characters. Example: [Miia from Monster Musume](https://anidb.net/character/73747)
 
 ![Miia](/static/glossary/General/Deredere.png)
 
@@ -165,12 +165,12 @@ Introverted character(s) that are shy, quiet, and asocial, they don't like to ge
 |  Megadere | Think of it like mega-deredere. An extreme version of deredere, that has an abnormal-obsession with their crush and are not afraid to show it to their crush. Example: [Tachibana Marika from Nisekoi](https://anidb.net/character/60162)  |
 
 ==- Goudere
-Over-achieving characters that are loyal to their masters, they view their masters as their savior and grace, so they do anything to their ability to keep them happy, and can also involve other characters as a means to contribute to their happiness, even though their master doesn't ask for that. Example: [Tooru from Miss Kobayashi's Dragon Maid](https://anidb.net/character/85812)
+Over-achieving character(s) that are loyal to their masters, they view their masters as their savior and grace, so they do anything to their ability to keep them happy, and can also involve other characters as a means to contribute to their happiness, even though their master doesn't ask for that. Example: [Tooru from Miss Kobayashi's Dragon Maid](https://anidb.net/character/85812)
 
 ![Tooru](/static/glossary/General/Goudere.png)
 
 ==- Hajidere
-A character that isn't nervous and embarrassed with others, but on the contrary are when they are around their crush. Example: [Boa Hancok from One Piece](https://anidb.net/character/6071)
+Character(s) that isn't nervous and embarrassed with others, but on the contrary are when they are around their crush. Example: [Boa Hancok from One Piece](https://anidb.net/character/6071)
 
 ![Boa Hancock](/static/glossary/General/Hajidere.png)
 
@@ -183,7 +183,7 @@ A character that isn't nervous and embarrassed with others, but on the contrary 
 | Kamidere | **Kami** means god. It's the same concept but taken to the extreme. Example: [Kiryuuin Satsuki from Kill la Kill](https://anidb.net/character/56259) |
 
 ==- Hinedere
-A character who has cynical world views, is cold-hearted, and are is highly arrogant. They will get easily annoyed by other people, including their love interest at first. Example:[Annie Leonhart from Attack on Titan](https://anidb.net/character/51168)
+A Character(s) who has cynical world views, is cold-hearted, and are is highly arrogant. They will get easily annoyed by other people, including their love interest at first. Example:[Annie Leonhart from Attack on Titan](https://anidb.net/character/51168)
 
 ![Annie Leonhart](/static/glossary/General/Hinedere.png)
 
@@ -231,12 +231,12 @@ Character(s) that indulge in the manipulation of their crush's feelings and humi
 
 ==- Kekkondere
 
-A character type that is obsessed with getting married right away, even if it's someone they just met, in other words love at first sight, Their insistence on getting married comes from wanting to spent the rest of their life with their love interest, it could be get to the point where it becomes unhealthy, where they may turn into yanderes! Example: [Fujinomiya Neko from Masamune-kun no Revenge](https://anidb.net/character/85802)
+Character(s) type that is obsessed with getting married right away, even if it's someone they just met, in other words love at first sight, Their insistence on getting married comes from wanting to spent the rest of their life with their love interest, it could be get to the point where it becomes unhealthy, where they may turn into yanderes! Example: [Fujinomiya Neko from Masamune-kun no Revenge](https://anidb.net/character/85802)
 ![Fujinomiya Neko](/static/glossary/General/Kekkondere.png)
 
 ==- Kuudere
 
-A character is always calm and collected, especially in the most stressful of situations. They never panic and usually analyze and think through things til' they solve the problem, its rare for them to show affection or emotion to others in varying situations, however they could be hiding how the actually feel deep down. Example: [Hishiro Chizuru from ReLife](https://anidb.net/character/79913)
+Character(s) who is always calm and collected, especially in the most stressful of situations. They never panic and usually analyze and think through things til' they solve the problem, its rare for them to show affection or emotion to others in varying situations, however they could be hiding how the actually feel deep down. Example: [Hishiro Chizuru from ReLife](https://anidb.net/character/79913)
 
 ![Hishiro Chizuru](/static/glossary/General/Kuudere.png)
 
@@ -244,32 +244,29 @@ A character is always calm and collected, especially in the most stressful of si
 | ------  | ------ |
 | Shundere | Shundere is an extreme version kuudere version, where they are emotionless all the time due to sadness or depression. They choose to lock  themselves from others and fully hide their emotions more than the Kuudere . Example: [Kuroki Tomoko from Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui!](https://anidb.net/character/56080) |
 
-==- Tsundere
+==- Tsundere 
+
+Character(s) that show coldness and hostility on the outside, but have a heart of gold on the inside. Due do their prideful character, they tend to act mean to their love interest as a means to hide how they actually feel, because they don't want to hurt their pride, so they are not honest with themselves.
 
 
 | Types     | Meaning { class="compact" } |
 | ------  | ------ |
-|  Type A  |     |
-|  Type B  |     |
-|  Tsunshundare  |     |
-|  Tsunsdra  |     |
-|  Tsungire  |     |
+|  Type A: TsunTsun  | Harsh by default. Only someone close will be able to bring their soft side. Can't seem to control their temper and will lash out for any reason. Example: ![Taiga Aisaka from Toradora!](/static/glossary/General/typea.png) |
+|  Type B: DereDere  |   Sweet by default. Their Tsun side comes out when they get embarrassed. Feeling of awkwardness around feelings and convos about love, overprotective of their partner, this can result in a lash out if their love interest or their relationship is threatened. Example: ![Makise Kurisu from Steins;Gate](/static/glossary/General/typeb.png) |
 
+>There are several variations of the Tsundere types, which you can check out [here](https://the-dere-types.fandom.com/wiki/Tsundere#Variations_and_Similar_Japanese_Archetypes)
 
 ==- Yandere
 
-Example: [Gasai Yuno from Mirai Nikki](https://anidb.net/character/25306)
-![Gasai Yuno](/static/glossary/General/yandere.png)
+Character(s) whose love and devotion is so strong that they become excessively obsessive and possessive. They are depicted as becoming crazy after falling in love, capable of doing any number of immoral things if it means being able to get closer with their love interest. Also, if they ever think they can't be with their love interest or that he is cheating on her, they'd rather kill him and then herself rather than letting him be with someone else. Example: [Yuno Gasai from Mirai Nikki]()
 
 ==- Yottadere
 
-Someone that can never stop having alcohol, they usually will always have alcohol with them, they usually are sober when they are with someone they love. They can also have different personality types, from someone serious and passionate - to someone wild and brute. Example: [Vanessa Enoteca
+Character(s) that can never stop having alcohol, they usually will always have alcohol with them, they usually are sober when they are with someone they love. They can also have different personality types, from someone serious and passionate - to someone wild and brute. Example: [Vanessa Enoteca
  from Black Clover](https://anidb.net/character/90830)
 
 ![Vanessa Enoteca](/static/glossary/General/Yottadere.png)
-
 ===
-
 ___
 ## NSFW
 
