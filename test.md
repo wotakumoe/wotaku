@@ -1,84 +1,38 @@
 ---
 visibility: hidden
-order: 1200
-label: Quick Start
-icon: zap
 ---
 
-![](/static/thumb/qs.png)
-# Quick Start
-Bite-sized Wotaku!
-___
+### Uploader
 
-## Websites
+=== 9anime
+    - Huge library
+    - Less compression
+    - Watch together
 
-#### Manga
-- [Comick](https://comick.app/home)
-- [Mangadex](https://mangadex.org/)
-- [Atsumaru](https://atsu.moe/) | [Mangasee](https://mangasee123.com/)
+=== Marin
+    - Uploads blu-ray if available
+    - Self hosts the videos so doesnt compress the video a lot like third party hosting site
+    - Simple site design
+    - Lacks movie collection
 
-#### Anime
-- [Marin](https://marin.moe/)
-- [AllAnime](https://allanime.to/anime) + [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="gogo"]
-- [Zoro](https://zoro.to/home)
-- [Anime out](https://www.animeout.xyz/) [!badge variant="ghost" size="xs" text="DDL"]
+=== Zoro
+    - Huge library
+    - Re-encodes shows for smaller size with minimal loss in video quality
+    - Watch together
+    - Softsub may create issues
 
-#### OST
-- [Hikari No Akari](https://hikarinoakari.com/) [!badge variant="ghost" size="xs" text="DDL"]
-- [Anithemes.moe](https://animethemes.moe/) [!badge variant="ghost" size="xs" text="stream"]
+=== AllAnime
+    - One of the scrapers is Bilibili which has 4K quality (most of them) (**AK** is the Bilibili player) but doesn't have many licenced shows.
+    - Library isn't as big as 9anime or zoro
+    - Other sources are ok-ish
+    - Also uploads manga and ost
 
-#### Torrent
-- [Nyaa](https://nyaa.si/)
-- [Animek](https://animek.fun/)
-- [Anime Tosho](https://animetosho.org/)
+=== Animepahe
+    - Uploads blu-ray if available
+    - Uploads mini encodes. Useful if you want smaller files or have low bandwidth.
 
-___
+=== Animedao
+	- The **Vid** & **Vid2** player provides high-quality videos, but they expire after a few days.
+	- the quality of the other players is average.
 
-## Software
-
-#### Android
-- [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
-- [Saikou](https://github.com/saikou-app/saikou/)
-- [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta)
-
-#### iOS
-- [Aidoku](https://github.com/Aidoku/Aidoku)
-- [Ketsu](https://ketsu.app/) [!badge variant="ghost" icon="diff-added" size="xs" text="Modules"](https://bilnaa.github.io/main/) [!badge variant="ghost" size="xs" text="macOS"]
-- [Paperback](https://github.com/Paperback-iOS/app)
-
-#### PC
-- [Houdoku](https://github.com/xgi/houdoku)
-- [Kavita](https://github.com/Kareadita/Kavita)
-- [Miru](https://github.com/ThaUnknown/miru/)
-- [Tachidesk](https://github.com/Suwayomi/Tachidesk-Server)
-
-#### Linux
-- [Komikku](https://gitlab.com/valos/Komikku)
-- [MComix](https://sourceforge.net/projects/mcomix/)
-- [Tachidesk](https://github.com/Suwayomi/Tachidesk-Server)
-- [Foliate](https://github.com/johnfactotum/foliate)
-
-#### Downloader
-- [Hakuneko](https://github.com/manga-download/hakuneko)
-- [HDoujin Downloader](https://github.com/HDoujinDownloader/HDoujinDownloader)
-- [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2)
-
-___
-
-## Add-ons
-
-#### Extensions
-- [Animepahe Plus](https://addons.mozilla.org/en-CA/firefox/addon/animepahe-plus/)
-- [Anime Skip Player](https://github.com/anime-skip/player)
-- [MAL Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned)
-
-#### Scripts
-- [9anime Bingewatcher+](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher) | [Zoro](https://greasyfork.org/en/scripts/464019-zoro-autofocus)
-- [Anifilters](https://github.com/Karmesinrot/Anifiltrs)
-- [Find on Nyaa](https://greasyfork.org/en/scripts/379776-find-on-nyaa)
-- [MAL Dubs](https://greasyfork.org/en/scripts/376546-mal-myanimelist-dubs)
-
-#### Tracker
-- [Daily AL](https://play.google.com/store/apps/details?id=com.teen.dailyanimelist)
-- [Moelist](https://play.google.com/store/apps/details?id=com.axiel7.moelist)
-- [Apps for Anilist](https://anilist.co/apps)
+===

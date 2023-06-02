@@ -127,7 +127,6 @@ ___
 - [Animepahe](https://animepahe.com/) [!badge size="xs" text="BD"] [!badge variant="ghost" size="xs" text="Mini encoded"]
 - [Animedao](https://animedao.to/) + [!badge variant="ghost" size="xs" text="gogo"]
 	- Animedao is a great source for the latest episodes. The **Vid** & **Vid2** player provides high-quality videos, but they expire after a few days. However, the quality of the other players is average.
-- [Animension](https://animension.to/) + [!badge variant="ghost" size="xs" text="gogo"]
 - [Muse Asia](https://www.youtube.com/@MuseAsia/) [!badge variant="ghost" size="xs" text="Regional"] [!badge variant="ghost" size="xs" text="legal"]
 - [Ani-One Aisa](https://www.youtube.com/AniOneAsia/) [!badge variant="ghost" size="xs" text="Regional"] [!badge variant="ghost" size="xs" text="legal"]
 - [Pokémon TV](https://poke-tv.vercel.app/)  [!button variant="ghost" icon="mark-github" size="xs" text="Github"](https://github.com/seiya-dev/pokemon-tv) [!badge variant="ghost" size="xs" text="Multi-lang"]
