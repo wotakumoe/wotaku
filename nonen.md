@@ -78,6 +78,7 @@ ___
 - [Kickassanime](https://kaas.am/)
 
 #### Arabic
+- [64K](https://64k.live/)
 - [Anime titans](https://animetitans.net/)
 - [Anime4up](https://w1.anime4up.tv/)
 - [Animelek](https://animelek.me/)

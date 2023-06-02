@@ -96,6 +96,7 @@ ___
 ### MyAnimeList
 
 - Affinity to you [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/423918-affinity-to-you)
+- Auto Date Add [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/407730-automatically-add-start-finish-dates-for-animes-mangas-helpful-buttons)
 - Endless MAL Search Pages [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/409957-endless-mal-search-pages)
 - [MAL Dubs](https://github.com/MAL-Dubs/MAL-Dubs) [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/376546-mal-myanimelist-dubs)
 - [MAL English Titles](https://github.com/Animorphs/MAL-English-Titles) [!badge variant="ghost" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/420200-mal-english-titles)

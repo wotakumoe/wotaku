@@ -17,8 +17,8 @@ ___
 - [Atsumaru](https://atsu.moe/) | [Mangasee](https://mangasee123.com/)
 
 #### Anime
+- [9anime](https://9anime.gs/home)
 - [Marin](https://marin.moe/)
-- [AllAnime](https://allanime.to/anime) + [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="gogo"]
 - [Zoro](https://zoro.to/home)
 - [Anime out](https://www.animeout.xyz/) [!badge variant="ghost" size="xs" text="DDL"]
 

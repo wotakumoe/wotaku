@@ -120,13 +120,13 @@ ___
 ### Stream
 
 #### Uploader
-- [AllAnime](https://allanime.to/anime) + [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="gogo"]
-- [Marin](https://marin.moe/) [!badge size="xs" text="BD"]
-- [Animedao](https://animedao.to/) + [!badge variant="ghost" size="xs" text="gogo"]
-	- Animedao is a great source for the latest episodes. The **Vid** & **Vid2** player provides high-quality videos, but they expire after a few days. However, the quality of the other players is below average.
-- [Zoro](https://zoro.to/home) [!button icon="list-unordered" variant="danger" size="xs" text="Proxies"](https://zoroanime.net/)
 - [9anime](https://9anime.gs/home)
+- [Marin](https://marin.moe/) [!badge size="xs" text="BD"]
+- [Zoro](https://zoro.to/home) [!button variant="dark" size="xs" text="Proxies"](https://zoroanime.net/)
+- [AllAnime](https://allanime.to/anime) + [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="gogo"]
 - [Animepahe](https://animepahe.com/) [!badge size="xs" text="BD"] [!badge variant="ghost" size="xs" text="Mini encoded"]
+- [Animedao](https://animedao.to/) + [!badge variant="ghost" size="xs" text="gogo"]
+	- Animedao is a great source for the latest episodes. The **Vid** & **Vid2** player provides high-quality videos, but they expire after a few days. However, the quality of the other players is average.
 - [Animension](https://animension.to/) + [!badge variant="ghost" size="xs" text="gogo"]
 - [Muse Asia](https://www.youtube.com/@MuseAsia/) [!badge variant="ghost" size="xs" text="Regional"] [!badge variant="ghost" size="xs" text="legal"]
 - [Ani-One Aisa](https://www.youtube.com/AniOneAsia/) [!badge variant="ghost" size="xs" text="Regional"] [!badge variant="ghost" size="xs" text="legal"]
