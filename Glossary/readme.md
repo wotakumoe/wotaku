@@ -251,14 +251,16 @@ Character(s) that show coldness and hostility on the outside, but have a heart o
 
 | Types     | Meaning { class="compact" } |
 | ------  | ------ |
-|  Type A: TsunTsun  | Harsh by default. Only someone close will be able to bring their soft side. Can't seem to control their temper and will lash out for any reason. Example: ![Taiga Aisaka from Toradora!](/static/glossary/General/typea.png) |
-|  Type B: DereDere  |   Sweet by default. Their Tsun side comes out when they get embarrassed. Feeling of awkwardness around feelings and convos about love, overprotective of their partner, this can result in a lash out if their love interest or their relationship is threatened. Example: ![Makise Kurisu from Steins;Gate](/static/glossary/General/typeb.png) |
+|  Type A: TsunTsun  | Harsh by default. Only someone close will be able to bring their soft side. Can't seem to control their temper and will lash out for any reason. Example: [Taiga Aisaka from Toradora!](https://anidb.net/character/1009) |
+|  Type B: DereDere  |   Sweet by default. Their Tsun side comes out when they get embarrassed. Feeling of awkwardness around feelings and convos about love, overprotective of their partner, this can result in a lash out if their love interest or their relationship is threatened. Example: [Makise Kurisu from Steins;Gate](https://anidb.net/character/23271) |
 
 >There are several variations of the Tsundere types, which you can check out [here](https://the-dere-types.fandom.com/wiki/Tsundere#Variations_and_Similar_Japanese_Archetypes)
 
 ==- Yandere
 
-Character(s) whose love and devotion is so strong that they become excessively obsessive and possessive. They are depicted as becoming crazy after falling in love, capable of doing any number of immoral things if it means being able to get closer with their love interest. Also, if they ever think they can't be with their love interest or that he is cheating on her, they'd rather kill him and then herself rather than letting him be with someone else. Example: [Yuno Gasai from Mirai Nikki]()
+Character(s) whose love and devotion is so strong that they become excessively obsessive and possessive. They are depicted as becoming crazy after falling in love, capable of doing any number of immoral things if it means being able to get closer with their love interest. Also, if they ever think they can't be with their love interest or that he is cheating on her, they'd rather kill him and then herself rather than letting him be with someone else. Example: [Yuno Gasai from Mirai Nikki](https://anidb.net/character/25306)
+
+![Yuno Gasai from Mirai Nikki](/static/glossary/General/yandere.png)
 
 ==- Yottadere
 
