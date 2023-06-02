@@ -19,7 +19,7 @@ visibility: hidden
 - Watch together
 - Softsub may create issues
 === AllAnime.to
-- Scrapers Bilibili (`AK` player) with 1080p with better bitrate (some of them has 4K) but Bilibili doesn't have many [licenced shows](https://www.bilibili.tv/en/category?season_type=1%2C4).
+- Scrapers Bilibili (`AK` player) with 1080p & better bitrate (some of them have 4K) but Bilibili doesn't have many [licenced shows](https://www.bilibili.tv/en/category?season_type=1%2C4).
 - Library isn't as big as 9anime or zoro
 - Other sources are ok-ish
 - Also uploads manga and ost
