@@ -120,17 +120,33 @@ ___
 ### Stream
 
 #### Uploader
-- [9anime](https://9anime.gs/home)
-- [Marin](https://marin.moe/) [!badge size="xs" text="BD"]
-- [Zoro](https://zoro.to/home) [!button variant="dark" size="xs" text="Proxies"](https://zoroanime.net/)
-- [AllAnime](https://allanime.to/anime) + [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="gogo"]
-- [Animepahe](https://animepahe.com/) [!badge size="xs" text="BD"] [!badge variant="ghost" size="xs" text="Mini encoded"]
-- [Animedao](https://animedao.to/) + [!badge variant="ghost" size="xs" text="gogo"]
-	- Animedao is a great source for the latest episodes. The **Vid** & **Vid2** player provides high-quality videos, but they expire after a few days. However, the quality of the other players is average.
-- [Muse Asia](https://www.youtube.com/@MuseAsia/) [!badge variant="ghost" size="xs" text="Regional"] [!badge variant="ghost" size="xs" text="legal"]
-- [Ani-One Aisa](https://www.youtube.com/AniOneAsia/) [!badge variant="ghost" size="xs" text="Regional"] [!badge variant="ghost" size="xs" text="legal"]
-- [Pokémon TV](https://poke-tv.vercel.app/)  [!button variant="ghost" icon="mark-github" size="xs" text="Github"](https://github.com/seiya-dev/pokemon-tv) [!badge variant="ghost" size="xs" text="Multi-lang"]
-- [LM Anime](https://lmanime.com/) [!badge variant="ghost" size="xs" text="Donghua"]
+- [**9anime**](https://9anime.gs/home)
+    - Huge library with Watch Together feature.
+    - Lesser compression compared to other sites that use 3rd party hosts.
+
+- [**Marin**](https://marin.moe/)
+    - Re-encodes files of other encoder groups while keeping the quality consistent.
+    - Uploads encoded **Blu-ray** versions if available.
+    - Clutter-free design and no watermark.
+    - Marin has a good amount of missing titles, especially movies.
+
+- [**Zoro**](https://zoro.to/home)
+    - Huge library with Watch Together feature.
+    - Re-encodes shows for smaller size with minimal loss in video quality.
+    - Softsubs may create issues in different scenarios, but can be beneficial for multi-language support.
+
+- [**AllAnime**](https://allanime.to/anime)
+    - Scrapers Bilibili (`AK` player) with 1080p & better bitrate (some of them have 4K) but Bilibili doesn't have many [licenced shows](https://www.bilibili.tv/en/category?season_type=1%2C4).
+    - Library isn't as big as 9anime or Zoro.
+    - Quality of other sources are average.
+
+- [**Animepahe**](https://animepahe.com/)
+    - Uploads mini encoded files, useful if you want smaller files or have low bandwidth.
+    - Uploads **Blu-ray** and **DVD** versions if available.
+
+- [**Animedao**](https://animedao.to/)
+    - The `Vid` & `Vid2` players provides high-quality videos, but they expire after a few days.
+    - The quality of the other players is average.
 
 #### Scraper
 - [KickAssAnime](https://www2.kickassanime.ro/) [!badge variant="ghost" size="xs" text="crunchy"]
@@ -145,6 +161,11 @@ size="xs" text="Github"](https://github.com/shashankktiwariii/anikatsu) [!badge 
 - [Animedao](https://animedao.to/) [!badge variant="ghost" size="xs" text="gogo"]
 - [Yugen](https://yugenanime.ro/) [!badge variant="ghost" size="xs" text="gogo"]
 
+#### Others
+- [Muse Asia](https://www.youtube.com/@MuseAsia/) [!badge variant="ghost" size="xs" text="Regional"]
+- [Ani-One Aisa](https://www.youtube.com/AniOneAsia/) [!badge variant="ghost" size="xs" text="Regional"]
+- [Pokémon TV](https://poke-tv.vercel.app/)  [!button variant="ghost" icon="mark-github" size="xs" text="Github"](https://github.com/seiya-dev/pokemon-tv) [!badge variant="ghost" size="xs" text="Multi-lang"]
+- [LM Anime](https://lmanime.com/) [!badge variant="ghost" size="xs" text="Donghua"]
 
 > All the **Legal** anime streaming services are listed [here](https://otakulogy.github.io/anime-streaming/).
 
