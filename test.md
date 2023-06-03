@@ -4,7 +4,7 @@ visibility: hidden
 
 ### Uploader
 
-=== 9anime.to
+=== [**9anime**](https://9anime.gs/home)
 - Huge library
 - Less compression
 - Watch together
