@@ -20,7 +20,7 @@ ___
 - [Saikou](https://github.com/saikou-app/saikou/) [!badge variant="ghost" icon="video" text="TV"](https://github.com/siennaXD/SaikouTV/)  [!badge variant="dark" icon="globe" size="xs" text="Web"](https://saikou.pages.dev/)  [!badge variant="ghost" size="xs" text="Manga"]
 - [Cloudstream](https://github.com/recloudstream/cloudstream)
 - [Aniyomi](https://github.com/jmir1/aniyomi/) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://aniyomi.org/) [!badge variant="ghost" size="xs" text="Manga"]
-    - [Animiru](https://github.com/Quickdesh/Animiru) + [!badge variant="ghost" text="Anime only"] [!badge variant="ghost" text="RPC"]
+- [Animiru](https://github.com/Quickdesh/Animiru) [!badge variant="ghost" text="Anime only"] [!badge variant="ghost" text="RPC"]
 - [Animity](https://github.com/kl3jvi/animity)
 - [Enimax](https://github.com/enimax-anime/enimax)
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
