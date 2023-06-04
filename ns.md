@@ -23,7 +23,7 @@ Copy the download link of the episode.
 ![](/static/ss/ns/ddl_2.png)
 
 #### Step 3
-Now paste it in the media player and stream.
+Now paste the copied link in the media player and stream. For android users, there should be an option for `Network stream` or `Stream` in the side menu or videos section.
 ![](/static/ss/ns/ddl_3.png)
 
 
