@@ -115,6 +115,8 @@ ___
 ![](/static/banner/anime.png)
 
 ## Anime
+
+If you want to get the best quality, use [DDL](/Websites.md/#ddl-1), [IRC](/Websites.md/#irc), or [Torrent](/Websites.md/#torrents). You can obtain full web release quality on a streaming site that scrapes the official site API, such as [KickAssAnime](https://kickassanime.am/) for Crunchyroll content or [AllAnime](https://allanime.to/anime) for Bilibili content. Otherwise, it is not be possible to maintain the full quality while managing space & traffic. You can network stream files from ddl, irc and torrents.
 ___
 
 ### Stream
@@ -133,7 +135,7 @@ ___
     - Re-encodes shows for smaller size with minimal loss in video quality.
     - Softsubs may create issues in different scenarios, but can be beneficial for multi-language support.
 - [**AllAnime**](https://allanime.to/anime)
-    - Scrapers Bilibili (`AK` player) with 1080p & better bitrate (some of them have 4K) but Bilibili doesn't have many [licenced shows](https://www.bilibili.tv/en/category?season_type=1%2C4).
+    - Scrapers **Bilibili** (`AK` player) which has 1080p with better bitrate (some of them have 4K) but Bilibili doesn't have many [licenced shows](https://www.bilibili.tv/en/category?season_type=1%2C4).
     - Library isn't as big as 9anime or Zoro.
     - Quality of other sources are average.
 - [**Animepahe**](https://animepahe.com/)
@@ -144,7 +146,7 @@ ___
     - The quality of the other players is average.
 
 #### Scraper
-- [KickAssAnime](https://www2.kickassanime.ro/) [!badge variant="ghost" size="xs" text="crunchy"]
+- [KickAssAnime](https://kickassanime.am/) [!badge variant="ghost" size="xs" text="crunchy"]
 - [Kaguya](https://kaguya.app) [!badge variant="ghost" size="xs" text="9anime"] [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="bili"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="marin"] [!badge variant="ghost" size="xs" text="zoro"]
 - [Enime](https://enime.moe/) [!badge variant="dark" icon="mark-github" 
 size="xs" text="Github"](https://github.com/Enime-Project) [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="zoro"]

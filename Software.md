@@ -26,8 +26,8 @@ ___
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
 
 ### Light Novel
-- [Shosetsu](https://gitlab.com/shosetsuorg/shosetsu) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://shosetsu.app/)
 - [Quicknovel](https://github.com/LagradOst/QuickNovel)
+- [Shosetsu](https://gitlab.com/shosetsuorg/shosetsu) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://shosetsu.app/)
 - [LN Reader](https://github.com/LNReader/lnreader)
 - [ranobe](https://github.com/ranobe-org/ranobe)
 - [Lithium: EPUB Reader](https://play.google.com/store/apps/details?id=com.faultexception.reader&hl=en&gl=US)
