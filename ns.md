@@ -2,13 +2,8 @@
 visibility: hidden
 ---
 ![](/static/thumb/nsw.png)
+
 # Network Stream
-!!! light Why use the method
-- Better video & audio quality without using torrent.
-- Better encoded episoded than most of the anime streaming websites.
-- Better player configuration.
-- No seed issue.
-!!!
 
 !!! warning Before starting the process
 You can't play videos from some sources like Google drive, Mega etc. For those, try [**bypass methods**](#bypasses) to network stream from them.
