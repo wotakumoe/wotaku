@@ -4,6 +4,7 @@ visibility: hidden
 ![](/static/thumb/nsw.png)
 
 # Network Stream
+A
 
 !!! warning Before starting the process
 You can't play videos from some sources like Google drive, Mega etc. For those, try [**bypass methods**](#bypasses) to network stream from them.
