@@ -58,11 +58,8 @@ ___
 
 ### Anime
 
-#### Direct
 - [ani-cli](https://github.com/pystardust/ani-cli)
-
-#### Torrent
-- [Miru](https://github.com/ThaUnknown/miru/)
+- [Miru](https://github.com/ThaUnknown/miru/) [!badge variant="dark" size="xs" text="Torrent"]
 
 
 ### Light Novel
