@@ -4,7 +4,8 @@ visibility: hidden
 ![](/static/thumb/nsw.png)
 
 # Network Stream
-wah
+
+Network streaming DDL, IRC and Torrent video files.
 ___
 ## DDL
 
