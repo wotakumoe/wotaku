@@ -116,7 +116,7 @@ ___
 
 ## Anime
 
-If you want to get the best quality, use [DDL](/Websites.md/#ddl-1), [IRC](/Websites.md/#irc), or [Torrent](/Websites.md/#torrents). You can obtain full web release quality on a streaming site that scrapes the official site API, such as [KickAssAnime](https://kickassanime.am/) for Crunchyroll content or [AllAnime](https://allanime.to/anime) for Bilibili content. Otherwise, it is not be possible to maintain the full quality while managing space & traffic. You can network stream files from ddl, irc and torrents.
+If you want to get the best quality, use [DDL](/Websites.md/#ddl-1), [IRC](/Websites.md/#irc), or [Torrent](/Websites.md/#torrents). You can obtain full web release quality on a streaming site that scrapes the official site API, such as [KickAssAnime](https://kickassanime.am/) for Crunchyroll content or [AllAnime](https://allanime.to/anime) for Bilibili content. Otherwise, it is not be possible to maintain the full quality while managing space & traffic. You can [**network stream**](/ns.md) files from ddl, irc and torrents.
 ___
 
 ### Stream
@@ -207,6 +207,8 @@ size="xs" text="Github"](https://github.com/shashankktiwariii/anikatsu) [!badge 
 - [Anidex](https://anidex.info/)
 - [Anirena](https://www.anirena.com/)
 - [Shana Project](https://www.shanaproject.com/) | [Tokyo tosho](https://www.tokyotosho.info/)
+
+> For torrent related terms, [click here](https://rentry.org/The-Piracy-Glossary#torrenting-terms).
 
 > Recommended torrent client for Android is [!badge variant="ghost" icon="/static/icon/lt.png"  text="libretorrent"](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent). For Windows, Linux & macOS, use [!badge variant="ghost" icon="/static/icon/qb.svg"  text="qBittorrent"](https://www.qbittorrent.org/) or [!badge variant="ghost" icon="/static/icon/trans.png"  text="Transmission"](https://transmissionbt.com/).
 
