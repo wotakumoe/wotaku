@@ -6,7 +6,7 @@ branding:
   logo: /static/asset/inaspin.gif
   logoDark: /static/asset/inaspin.gif
   title: Wotaku
-  label: 6.2.92
+  label: 6.2.93
   colors:
     label:
       text: "#575068"
