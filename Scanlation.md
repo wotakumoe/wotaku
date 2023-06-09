@@ -28,7 +28,6 @@ ___
 - [We Love Manga](https://welovemanga.one/) | [Manga 1000](https://manga1000.top/) [!badge variant="ghost" size="xs" text="R"]
 
 ### DDL
-- [13 DL](http://13dl.to/) [!badge variant="ghost" size="xs" text="R"]  [!badge variant="ghost" size="xs" text="Novel"] [!badge variant="ghost" size="xs" text="Magazine"]
 - [A-Z Manga](https://www.a-zmanga.net/) [!badge variant="danger" size="xs" text="R+"]  [!badge variant="ghost" size="xs" text="Novel"] [!badge variant="ghost" size="xs" text="Magazine"]
 - [Asia Media Blog](https://asiamediablog.com/media/comic/manga/)  [!badge variant="ghost" size="xs" text="Novel"] [!badge variant="ghost" size="xs" text="Magazine"]
 - [Book Share Zip](https://bszip.com/) [!badge variant="ghost" size="xs" text="R"]  [!badge variant="ghost" size="xs" text="Novel"]  [!badge variant="ghost" size="xs" text="Magazine"]
@@ -42,7 +41,7 @@ ___
 - [Manga Zone](http://www.manga-zone.org/)  [!badge variant="ghost" size="xs" text="Novel"]
 - [Raw Cans](http://raw-cans.net/) [!badge variant="danger" size="xs" text="R+"]  [!badge variant="ghost" size="xs" text="Magazine"]
 
-> You can use [okdebrid](https://okdebrid.com/), [rapidgrab](https://rapidgrab.pl/), [Leechrs Paradise](https://leechersparadise.xyz/) & [newscon](https://www.newscon.net/d/) to download free & premium files from the file hosters.
+> You can use [okdebrid](https://okdebrid.com/), [rapidgrab](https://rapidgrab.pl/), & [newscon](https://www.newscon.net/d/) to download free & premium files from the file hosters.
 
 ![](/static/banner/res.png)
 ## Resources
