@@ -31,6 +31,9 @@ integrations:
   plausible:
     domain: wotaku.pages.dev
 
+  googleAnalytics:
+    id: "G-YMN9VMZNRC" 
+
 footer:
 
 copyright: ""
