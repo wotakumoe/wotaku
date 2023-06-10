@@ -29,8 +29,8 @@ links:
 
 integrations:
   plausible:
-    domain: wotaku.pages.dev
-    
+    domain: wotaku.pages.dev, wotaku.its.moe
+
 footer:
 
 copyright: ""
