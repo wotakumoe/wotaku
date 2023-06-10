@@ -27,6 +27,10 @@ links:
     link: https://lemmy.fmhy.ml/c/wotaku
     icon: /static/asset/lemmy.png
 
+integrations:
+  plausible:
+    domain: wotaku.pages.dev
+
 footer:
 
 copyright: ""
