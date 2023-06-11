@@ -143,6 +143,7 @@ ___
 - [Mynimeku](https://www.mynimeku.com/)
 - [Neonime](https://neonime.fun/)
 - [Ryukonime](https://ryukonime.vercel.app/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/AzwarKusumah/Ryukonime)
+- [Kusonime](https://kusonime.com/) [!badge variant="ghost" size="xs" text="DDL"]
 
 #### Italian
 - [Anime Saturn](https://www.animesaturn.tv/)

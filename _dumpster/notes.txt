@@ -9,6 +9,7 @@ Oreder
 5. Non english 800
 6. NSFW 750
 7. merch 700
+7.5. Communities 650
 8. scanlation 50
 9. glossary 0
 10. brewing -50
