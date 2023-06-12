@@ -128,6 +128,7 @@ ___
 - [Anime4K](https://github.com/bloc97/Anime4K)
 - [Anitomy](https://github.com/erengy/anitomy)
 - [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper)
+- [Real ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 - [Shoko Anime](https://github.com/shokoanime) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://shokoanime.com/)
 - [Smart Image](https://github.com/Decimation/SmartImage)
 - [Waifu2x](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)

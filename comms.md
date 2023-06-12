@@ -20,6 +20,7 @@ ___
 
 ## Discord servers
 - [Doujin Cafe](https://discord.gg/doujincafe)
+- [Japanese Language Study Space](https://discord.gg/jlss)
 - [Mangadex](https://discord.com/invite/mangadex)
 - [Manga Piracy](https://discord.com/invite/ZgMtAyxFSU)
 - [r/Anime](https://discord.gg/r-anime)

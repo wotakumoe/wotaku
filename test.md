@@ -2,32 +2,34 @@
 visibility: hidden
 ---
 
-#### Uploader
+## Others
+___
 
-- [**9anime**](https://9anime.gs/home)
-    - Huge library with Watch Together feature.
-    - Lesser compression compared to other sites that use 3rd party hosts.
+### Recommendations
+- ANN TOP 100 [Manga](https://www.animenewsnetwork.com/encyclopedia/ratings-manga.php?top50=best_bayesian&n=100) | [Anime](https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=popular&n=100)
+- Visual Novel Recommendations
+    - [VNDB](https://vndb.org/v?f=022gja3gja&s=34w)
+    - [Starter pack](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub)
+    - [VN-chart by difficulty](https://anacreondjt.gitlab.io/vn-chart/)
+    - [r/Visualnovels](https://sites.google.com/view/rvisualnovels-recs/home)
+    - [r/VN's 2018](https://vnrecs.github.io/)
+    - [What are you reading?](https://some-guy.org/vnswayrarchive/recommendations)
 
-- [**Marin**](https://marin.moe/)
-    - Re-encodes files of other encoder groups while keeping the quality consistent.
-    - Uploads encoded **Blu-ray** versions if available.
-    - Clutter-free design and no watermark.
-    - Marin has a good amount of missing titles, especially movies.
+### Japanese learning guide
+- [Japanese Language Study Space](https://discord.gg/jlss)
+- [IMABI](https://imabi.net/)
+- [Marshall's Site](https://marshallyin.com/)
+- [TheMoeWay](https://learnjapanese.moe/)
+- [jpdb](https://www.jpdb.io/)
+- [itazuraneko](https://itazuraneko.neocities.org/)
 
-- [**Zoro**](https://zoro.to/home)
-    - Huge library with Watch Together feature.
-    - Re-encodes shows for smaller size with minimal loss in video quality.
-    - Softsubs may create issues in different scenarios, but can be beneficial for multi-language support.
+### Fansubbing Guide
+- [Encode](https://guide.encode.moe/)
+- [Goodjob Media](https://www.goodjobmedia.com/fansubbing/)
+- [Unanimated](https://unanimated.github.io/guides.htm)
+- [Yukisubs](https://yukisubs.wordpress.com/guides/)
 
-- [**AllAnime**](https://allanime.to/anime)
-    - Scrapers Bilibili (`AK` player) with 1080p & better bitrate (some of them have 4K) but Bilibili doesn't have many [licenced shows](https://www.bilibili.tv/en/category?season_type=1%2C4).
-    - Library isn't as big as 9anime or Zoro.
-    - Quality of other sources are average.
-
-- [**Animepahe**](https://animepahe.com/)
-    - Uploads mini encoded files, useful if you want smaller files or have low bandwidth.
-    - Uploads **Blu-ray** and **DVD** versions if available.
-
-- [**Animedao**](https://animedao.to/)
-    - The `Vid` & `Vid2` players provides high-quality videos, but they expire after a few days.
-    - The quality of the other players is average.
+### More
+- [r/visualnovels' guide](https://www.reddit.com/r/visualnovels/wiki/links/#wiki_guides)
+- [IRC & XDCC guide](/IRC.md)
+- [vocaloid pastebin for /jp/](https://pastebin.com/jDHxU1Jw)
