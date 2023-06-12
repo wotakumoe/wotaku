@@ -24,6 +24,7 @@ ___
 
 #### OST
 - [Hikari No Akari](https://hikarinoakari.com/) [!badge variant="ghost" size="xs" text="DDL"]
+- [Sitting on Clouds](https://www.sittingonclouds.net/) [!badge variant="ghost" size="xs" text="DDL"]
 - [Anithemes.moe](https://animethemes.moe/) [!badge variant="ghost" size="xs" text="stream"]
 
 #### Torrent
@@ -39,11 +40,12 @@ ___
 - [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
 - [Saikou](https://github.com/saikou-app/saikou/)
 - [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta)
+- [Quicknovel](https://github.com/LagradOst/QuickNovel)
 
 #### iOS
 - [Aidoku](https://github.com/Aidoku/Aidoku)
-- [Ketsu](https://ketsu.app/) [!badge variant="ghost" icon="diff-added" size="xs" text="Modules"](https://bilnaa.github.io/main/) [!badge variant="ghost" size="xs" text="macOS"]
 - [Paperback](https://github.com/Paperback-iOS/app)
+- [Ketsu](https://ketsu.app/) [!badge variant="ghost" icon="diff-added" size="xs" text="Modules"](https://bilnaa.github.io/main/) [!badge variant="ghost" size="xs" text="macOS"]
 
 #### PC
 - [Houdoku](https://github.com/xgi/houdoku)
