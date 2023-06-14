@@ -33,8 +33,7 @@ ___
     - NSFW portion of nyaa.
 - [Chika Panda](https://panda.chaika.moe/)
     - Archive of stuff removed from E-Hentai due to DMCA complaints. has fakku/irodori stuff.
-- [nyanpantsu](https://nyanpantsu.vercel.app/) [!badge variant="dark" icon="mark-github" 
-size="xs" text="Github"](https://github.com/purpleblueslime/nyanpantsu)
+- [nyanpantsu](https://nyanpantsu.vercel.app/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/purpleblueslime/nyanpantsu)
 
 ### Manhwa
 - [Hiperdex](https://hiperdex.com/)
@@ -52,8 +51,9 @@ size="xs" text="Github"](https://github.com/purpleblueslime/nyanpantsu)
 - [Hentai Mama](https://hentaimama.io/)
 - [Hentai Stream](https://hstream.moe/) [!badge variant="warning" icon="sparkle-fill" size="xs" text="4K"]
 - [Hentai World](https://hentaiworld.tv/)
+- [Mucho Hentai](https://muchohentai.com/) [!badge variant="ghost" size="xs" text="Schedule"] [!badge variant="ghost" size="xs" text="PV"]
 - [Oppai](https://oppai.stream/) [!badge variant="warning" icon="sparkle-fill" size="xs" text="4K"]
-- [Rule34 video](https://rule34video.com/)
+- [Rule34](https://www.rule34.dev/)
 - [Hentai Release Schedule](https://www.underhentai.net/releases/)
 
 ### Booru
@@ -114,6 +114,8 @@ ___
 ___
 ![](/static/banner/misc.png)
 ## Misc
+- [/h/ Hentai](https://boards.4chan.org/h/)
+- [HDGFAQ](https://rentry.org/hdgfaq)
 - [Kemono](https://kemono.party/)
 - [Hent-AI](https://github.com/natethegreate/hent-AI)
 - [nHentai Discord Bot](https://github.com/the-urban-inc/nhentai-discord-bot)

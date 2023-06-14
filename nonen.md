@@ -93,6 +93,7 @@ ___
 #### Chinese
 - [555dy1](https://555dy1.com/vodshow/4-%E6%97%A5%E6%9C%AC----------.html) [!badge size="xs" text="BD"]
 - [AGE](https://www.agemys.vip/)
+- [Bimibimi](https://www.bimiacg4.net/)
 - [CC](https://ccdm.cc/)
 - [ddys](https://ddys.art/category/anime/)
 - [MoMoVod](https://momovod.app/show/30.html)

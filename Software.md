@@ -76,7 +76,8 @@ ___
 - [Manga x Manga](https://github.com/chubimauk) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://mangaxmanga.com/)
 - [Hanami](https://github.com/oolxg/Hanami)
 - Manga Max [!badge variant="dark" icon="globe" size="xs" text="Web"](https://apps.apple.com/us/app/manga-reader-manga-max/id1558957618)
-
+- [SideBooks](https://apps.apple.com/us/app/sidebooks/id409777225) [!badge variant="ghost" size="xs" text="Local"]
+- [YACReader](https://apps.apple.com/app/id635717885) [!badge variant="ghost" size="xs" text="Local"] [!badge variant="ghost" size="xs" text="Paid"]
 
 ### Anime
 - [9Animator](https://github.com/SuperMarcus/NineAnimator)
