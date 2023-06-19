@@ -105,16 +105,26 @@ ___
 ___
 
 ### Manga
-- [Comic DL](https://github.com/Xonshiz/comic-dl)
-- [Comics downloader](https://github.com/Girbons/comics-downloader)
-- [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2)
-- [Hakuneko](https://github.com/manga-download/hakuneko) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://hakuneko.download/) [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="Reader"]
-- [HDoujin Downloader](https://github.com/HDoujinDownloader/HDoujinDownloader) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://doujindownloader.com/)
-- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) [!badge variant="ghost" size="xs" text="Anime"]
-- [Kotatsu DL](https://github.com/KotatsuApp/kotatsu-dl) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://kotatsu.app/)
-- [MangaL](https://github.com/metafates/mangal)
-- [Mangadex Downloader](https://github.com/mansuf/mangadex-downloader)
-- [PixivUtil2](https://github.com/Nandaka/PixivUtil2)
+
+- [**Hakuneko**](https://github.com/manga-download/hakuneko)
+    - Currently the best downloader.
+    - Huge number of sites supported.
+    - Customizable UI.
+- [**Free Manga Downloader 2**](https://github.com/dazedcat19/FMD2)
+    - Supports  almost every major site.
+- [**MangaL**](https://github.com/metafates/mangal)
+    - TUI based.
+    - Very Fast.
+    - You can add your own lua scrapers for non-supported sites (mangadex and mangasee already supported).
+- [**Mangadex Downloader**](https://github.com/mansuf/mangadex-downloader)
+    - Mangadex downloader.
+    - Easy to use and fast 
+- [**HDoujin Downloader**](https://github.com/HDoujinDownloader/HDoujinDownloader)
+    - Huge list of supported nsfw sites.
+    - Good UI, many settings and amazing speed.
+    - But has a 25 chapter daily limit.
+- [**Hitomi Downloader**](https://github.com/KurtBestor/Hitomi-Downloader)
+    - Supports mostly nsfw sites but works great for the supported ones.
 
 ### Anime
 - [AnimeDL](https://github.com/justfoolingaround/animdl)
@@ -126,7 +136,8 @@ ___
 - [Light novel Crawler](https://github.com/dipu-bd/lightnovel-crawler)
 - [Novel Grabber](https://github.com/Flameish/Novel-Grabber)
 
-### Booru
+### Others
 - [gallery-dl](https://github.com/mikf/gallery-dl)
 - [hydrus network](https://hydrusnetwork.github.io/hydrus/)
 - [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/)
+- [PixivUtil2](https://github.com/Nandaka/PixivUtil2)
