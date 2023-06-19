@@ -165,6 +165,7 @@ size="xs" text="Github"](https://github.com/soruly/trace.moe)
 - [Novel updates](https://www.novelupdates.com/)
 
 ### Others
+- [3x3 Generator](https://gqgs.github.io/3x3-generator/)
 - [Imgtrans](https://touhou.ai/imgtrans/) [!badge variant="dark" icon="mark-github" 
 size="xs" text="Github"](https://github.com/zyddnys/manga-image-translator)
 - [MAL/AL/K/AP lists XML Exporter](https://malscraper.azurewebsites.net/)

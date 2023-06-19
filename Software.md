@@ -105,7 +105,6 @@ ___
 ___
 
 ### Manga
-- [Bilibili manga downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader)
 - [Comic DL](https://github.com/Xonshiz/comic-dl)
 - [Comics downloader](https://github.com/Girbons/comics-downloader)
 - [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2)

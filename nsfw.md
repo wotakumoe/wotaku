@@ -34,6 +34,7 @@ ___
 - [Chika Panda](https://panda.chaika.moe/)
     - Archive of stuff removed from E-Hentai due to DMCA complaints. has fakku/irodori stuff.
 - [nyanpantsu](https://nyanpantsu.vercel.app/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/purpleblueslime/nyanpantsu)
+- [Wholesome Hentai God List](https://wholesomelist.com/)
 
 ### Manhwa
 - [Hiperdex](https://hiperdex.com/)

@@ -226,6 +226,7 @@ ___
 ## Others
 
 ### Websites
+- [Annict](https://annict.com/) [!badge variant="ghost" icon="/static/icon/jp.png" text="JP"]
 - [Bangumi](https://bangumi.tv/) [!badge variant="ghost" icon="/static/icon/cn.png" size="xs" text="CN"] [!badge variant="ghost" size="xs" text="Tracker"] 
 - [Proxer](https://proxer.me/) [!badge variant="ghost" icon="/static/icon/germany.png" size="xs" text="DE"] [!badge variant="ghost" size="xs" text="Community"]
 - [Shikimori](https://shikimori.one/) [!badge variant="ghost" icon="/static/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" text="Tracker"]
@@ -250,6 +251,7 @@ ___
 #### Windows / Linux / macOS
 - [Aniship](https://github.com/progzone122/AniShip) [!badge variant="ghost" icon="/static/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" text="Stream"]
 - [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Downloader"]
+- [Bilibili manga downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Downloader"]
 - [JProxy](https://github.com/LuckyPuppy514/jproxy) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text=" Downloader"]
 - [Otakuapuri](https://github.com/Dorian25/otakuapuri) [!badge variant="ghost" size="xs" icon="/static/icon/france.png" text="FR"] [!badge variant="ghost" size="xs" text=" Downloader"] [!badge variant="ghost" size="xs" text=" Stream"]
 - [Sonarr Anime Downloader](https://github.com/MainKronos/Sonarr-AnimeDownloader) [!badge variant="ghost" size="xs" icon="/static/icon/italy.png" text="IT"] [!badge variant="ghost" size="xs" text="Downloader"]
