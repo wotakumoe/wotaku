@@ -170,13 +170,10 @@ ___
 #### Scraper
 - [KickAssAnime](https://kickassanime.am/) [!badge variant="ghost" size="xs" text="crunchy"]
 - [Kaguya](https://kaguya.app) [!badge variant="ghost" size="xs" text="9anime"] [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="bili"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="marin"] [!badge variant="ghost" size="xs" text="zoro"]
-- [Enime](https://enime.moe/) [!badge variant="dark" icon="mark-github" 
-size="xs" text="Github"](https://github.com/Enime-Project) [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="zoro"]
+- [Enime](https://enime.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/Enime-Project) [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="zoro"]
 - [Animesuge](https://animesuge.to/home) [!badge variant="ghost" size="xs" text="9anime"]
-- [Animos](https://www.animos.cf/) [!badge variant="dark" icon="mark-github" 
-size="xs" text="Github"](https://github.com/Nectres/animos) [!badge variant="ghost" size="xs" text="9anime"] [!badge variant="ghost" size="xs" text="gogo"]
-- [Anikatsu](https://anikatsu.me/home) [!badge variant="dark" icon="mark-github" 
-size="xs" text="Github"](https://github.com/shashankktiwariii/anikatsu) [!badge variant="ghost" size="xs" text="gogo"]
+- [Animos](https://www.animos.cf/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/Nectres/animos) [!badge variant="ghost" size="xs" text="9anime"] [!badge variant="ghost" size="xs" text="gogo"]
+- [Anikatsu](https://anikatsu.me/home) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/shashankktiwariii/anikatsu) [!badge variant="ghost" size="xs" text="gogo"]
 - [Animedao](https://animedao.to/) [!badge variant="ghost" size="xs" text="gogo"]
 - [Yugen](https://yugenanime.ro/) [!badge variant="ghost" size="xs" text="gogo"]
 
@@ -246,8 +243,7 @@ ___
 ### Stream
 - [Anithemes.moe](https://animethemes.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/AnimeThemes)
 - [Themes.moe](https://themes.moe/)
-- [LISTEN.moe](https://listen.moe/) [!badge variant="dark" icon="mark-github" 
-size="xs" text="Github"](https://github.com/LISTEN-moe)
+- [LISTEN.moe](https://listen.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/LISTEN-moe)
 
 ### Direct Download
 - [Hikari No Akari](https://hikarinoakari.com/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="Mega"]

@@ -35,8 +35,7 @@ ___
 - [KomikID](https://komikid.com/)
 - [Komiku](https://komiku.id/)
 - [Komik Cast](https://komikcast.site/)
-- [Ryukomik](https://komik.ryukoproject.app/) [!badge variant="dark" icon="mark-github" 
-size="xs" text="Github"](https://github.com/AzwarKusumah/ryukomik)
+- [Ryukomik](https://komik.ryukoproject.app/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/AzwarKusumah/ryukomik)
 
 #### Portuguese
 - [Manga Livre](https://mangalivre.net/)
@@ -64,8 +63,7 @@ size="xs" text="Github"](https://github.com/AzwarKusumah/ryukomik)
 #### Vietnamese
 - [Bao Tang Truyen Tranh](https://baotangtruyengo.com/)
 - [Kaguya](https://kaguya.app/manga)
-- [Kyoto manga](https://kyotomanga.live/) [!badge variant="dark" icon="mark-github" 
-size="xs" text="Github"](https://github.com/leephan2k1/manga-app)
+- [Kyoto manga](https://kyotomanga.live/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/leephan2k1/manga-app)
 - [Net Truyen](https://www.nettruyenplus.com/)
 
 
@@ -272,10 +270,8 @@ ___
 ### Brewing
 
 #### Website
-- [Ryuanime](https://ryuanime.chrismichael.now.sh/) [!badge variant="dark" icon="mark-github" 
-size="xs" text="Github"](https://github.com/ChrisMichaelPerezSantiago/ryuanime) [!badge variant="ghost" icon="/static/icon/spain.png" size="xs" text="ES"]
-- [ANIFOX](https://anifox.club/anime) [!badge variant="dark" icon="mark-github" 
-size="xs" text="Github"](https://github.com/YockyMai/ANIFOX) [!badge variant="ghost" icon="/static/icon/russia.png" size="xs" text="RU"]
+- [Ryuanime](https://ryuanime.chrismichael.now.sh/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/ChrisMichaelPerezSantiago/ryuanime) [!badge variant="ghost" icon="/static/icon/spain.png" size="xs" text="ES"]
+- [ANIFOX](https://anifox.club/anime) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/YockyMai/ANIFOX) [!badge variant="ghost" icon="/static/icon/russia.png" size="xs" text="RU"]
 
 #### Apps
 - [Neko Anime](https://github.com/xioneko/neko-anime) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"]

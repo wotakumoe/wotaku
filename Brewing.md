@@ -13,23 +13,18 @@ ___
  ___
 
 ### Manga
-- [Atsumaru](https://atsu.moe/) [!badge variant="dark" icon="mark-github" 
-size="xs" text="Github"](https://github.com/TheUndo/Atsumaru) [!badge variant="ghost" size="xs" text="Mangasee"]
+- [Atsumaru](https://atsu.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/TheUndo/Atsumaru) [!badge variant="ghost" size="xs" text="Mangasee"]
 
 
 ### Anime
-- [Anify](https://anify.tv/) [!badge variant="dark" icon="mark-github" 
-size="xs" text="Github"](https://github.com/Eltik/Anify-Frontend) [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Novel"]
-- [CoreProject](https://coreproject.moe/anime) [!badge variant="dark" icon="mark-github" 
-size="xs" text="Github"](https://github.com/baseplate-admin/CoreProject)
+- [Anify](https://anify.tv/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/Eltik/Anify-Frontend) [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Novel"]
+- [CoreProject](https://coreproject.moe/anime) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/baseplate-admin/CoreProject)
 - [Kato](https://kato.to/home)
-- [Streamable](https://streamable.moe/) [!badge variant="dark" icon="mark-github" 
-size="xs" text="Github"](https://github.com/StreamAble-Team/StreamAble-website)
+- [Streamable](https://streamable.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/StreamAble-Team/StreamAble-website)
 
 
 ### Miscellaneous
-- [Tankobon](https://tankobon.net/) [!badge variant="dark" icon="mark-github" 
-size="xs" text="Github"](https://github.com/crxssed7/tankobon)
+- [Tankobon](https://tankobon.net/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/crxssed7/tankobon)
 
 
 ![](/static/banner/software.png)

@@ -48,13 +48,11 @@ ___
 - [AniChart](https://anichart.net/)
 - [AnimeSchedule](https://animeschedule.net/)
 - [Livechart](https://www.livechart.me/)
-- [Notify.moe](https://notify.moe/) [!badge variant="dark" icon="mark-github" 
-size="xs" text="Github"](https://github.com/animenotifier/notify.moe)
+- [Notify.moe](https://notify.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/animenotifier/notify.moe)
 
 #### Stats/Watch guide
 - [Anime Stats](https://anime-stats.net/)
-- [Kitsu Season Trends](https://season.moe/) [!badge variant="dark" icon="mark-github" 
-size="xs" text="Github"](https://github.com/wopian/kitsu-season-trends)
+- [Kitsu Season Trends](https://season.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/wopian/kitsu-season-trends)
 - [Anime Filler Guide](https://www.animefillerguide.com/)
 - [Anime Filler List](https://www.animefillerlist.com/)
 - [Chiaki](https://chiaki.site/)
@@ -141,19 +139,15 @@ ____
 ## Tools
 ___
 ### Analysis
-- [anime.plus](https://anime.plus/) [!badge variant="dark" icon="mark-github" 
-size="xs" text="Github"](https://github.com/anime-plus/graph) [!badge variant="ghost" size="xs" text="MAL"]
+- [anime.plus](https://anime.plus/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/anime-plus/graph) [!badge variant="ghost" size="xs" text="MAL"]
 - [MAL Badges](https://www.mal-badges.com/) [!badge variant="ghost" size="xs" text="MAL"]
-- [Sekai](https://sekai.rl404.com/) [!badge variant="dark" icon="mark-github" 
-size="xs" text="Github"](https://github.com/rl404/sekai) [!badge variant="ghost" size="xs" text="MAL"]
+- [Sekai](https://sekai.rl404.com/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/rl404/sekai) [!badge variant="ghost" size="xs" text="MAL"]
 - [Sprout Anime Recommender](https://anime.ameo.dev/) [!badge variant="ghost" size="xs" text="MAL"]  [!badge variant="ghost" size="xs" text="AL"]
 
 ### Image search
-- [SauceKudasai](https://saucekudasai.com/) [!badge variant="dark" icon="mark-github" 
-size="xs" text="Github"](https://github.com/ayushgptaa/SauceKudasai)
+- [SauceKudasai](https://saucekudasai.com/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/ayushgptaa/SauceKudasai)
 - [SauceNAO](https://saucenao.com/)
-- [Trace](https://trace.moe/) [!badge variant="dark" icon="mark-github" 
-size="xs" text="Github"](https://github.com/soruly/trace.moe)
+- [Trace](https://trace.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/soruly/trace.moe)
 
 ### Trackers
 - [Anilist](https://anilist.co/)
@@ -166,12 +160,8 @@ size="xs" text="Github"](https://github.com/soruly/trace.moe)
 
 ### Others
 - [3x3 Generator](https://gqgs.github.io/3x3-generator/)
-- [Imgtrans](https://touhou.ai/imgtrans/) [!badge variant="dark" icon="mark-github" 
-size="xs" text="Github"](https://github.com/zyddnys/manga-image-translator)
+- [Imgtrans](https://touhou.ai/imgtrans/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/zyddnys/manga-image-translator)
 - [MAL/AL/K/AP lists XML Exporter](https://malscraper.azurewebsites.net/)
-- [Trakt to MAL](https://anitrakt.huere.net/) [!badge variant="dark" icon="mark-github" 
-size="xs" text="Github"](https://github.com/ryuuganime/aniTrakt-IndexParser)
-- [Waif2x](https://unlimited.waifu2x.net/) [!badge variant="ghost" text="udp"](https://waifu2x.udp.jp/)  [!badge variant="dark" icon="mark-github" 
-size="xs" text="Github"](https://github.com/nagadomi/waifu2x)
-- [WaifuXL](https://waifuxl.com/) [!badge variant="dark" icon="mark-github" 
-size="xs" text="Github"](https://github.com/TheFutureGadgetsLab/WaifuXL)
+- [Trakt to MAL](https://anitrakt.huere.net/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/ryuuganime/aniTrakt-IndexParser)
+- [Waif2x](https://unlimited.waifu2x.net/) [!badge variant="ghost" text="udp"](https://waifu2x.udp.jp/)  [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/nagadomi/waifu2x)
+- [WaifuXL](https://waifuxl.com/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/TheFutureGadgetsLab/WaifuXL)

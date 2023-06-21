@@ -110,6 +110,7 @@ ___
     - Currently the best downloader.
     - Huge number of sites supported.
     - Customizable UI.
+    - Can dowload anime too.
 - [**Free Manga Downloader 2**](https://github.com/dazedcat19/FMD2)
     - Supports  almost every major site.
 - [**MangaL**](https://github.com/metafates/mangal)
