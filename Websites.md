@@ -35,7 +35,7 @@ ___
 - [**Colored Manga**](https://coloredmanga.com/) [!badge variant="ghost" size="xs" text="R"]
     * Uploads without compression but mostly Shounen centric.
     * Has both B&W and colored releases.
-    * Uploads official translations & volume releases (if available).'
+    * Uploads official translations & volume releases (if available).
     * Lacks in library and upload schedule.
 - [**Mangapark**](https://mangapark.net/) [!badge variant="danger" size="xs" text="R+"]
     * No Compressed uploads (If source had no compression).
