@@ -27,15 +27,16 @@ ___
     * Minimal compression.
     * Aggregates from various scanlation groups.
     * Has official translations.
-- [**Colored Manga**](https://coloredmanga.com/) [!badge variant="ghost" size="xs" text="R"]
-    * Uploads without compression but mostly Shounen centric.
-    * Has both B&W and colored releases.
-    * Uploads official translations & volume releases (if available).
 - [**Mangasee**](https://mangasee123.com/) | [Mangalife](https://manga4life.com/) | [Atsumaru](https://atsu.moe/) [!badge variant="ghost" size="xs" text="R"]
     * Has official translations.
     * Compresses chapter images.
     * Chapter updates are relatively slow.
     * [Atsumaru](https://atsu.moe/) scrapes from Mangasee but has better UI.
+- [**Colored Manga**](https://coloredmanga.com/) [!badge variant="ghost" size="xs" text="R"]
+    * Uploads without compression but mostly Shounen centric.
+    * Has both B&W and colored releases.
+    * Uploads official translations & volume releases (if available).'
+    * Lacks in library and upload schedule.
 - [**Mangapark**](https://mangapark.net/) [!badge variant="danger" size="xs" text="R+"]
     * No Compressed uploads (If source had no compression).
     * Has official translations.
