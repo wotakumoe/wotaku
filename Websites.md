@@ -16,29 +16,28 @@ ___
 ## Manga
 ___
 
-### Aggregator
+### Reader
 
 - [**Mangadex**](https://mangadex.org/) [!badge variant="danger" size="xs" text="R+"]
     * Uploads without compression.
-    * Best site and reader UI.
-    * Uploads various scanlator groups.
-    * No official translations.
+    * Best reader UI.
+    * Uploads from various scanlation groups.
+    * No official translations since it was created for fansub.
 - [**Comick**](https://comick.app/home) [!badge variant="ghost" size="xs" text="R"]
     * Minimal compression.
-    * Uploads various scanlator groups.
+    * Aggregates from various scanlation groups.
     * Has official translations.
 - [**Colored Manga**](https://coloredmanga.com/) [!badge variant="ghost" size="xs" text="R"]
-    * Uploads without compression but mostly Shounen centric
-    * Has both colored and B&W releases.
-    * Uploads volume releases if available.
-    * Has official translations.
+    * Uploads without compression but mostly Shounen centric.
+    * Has both B&W and colored releases.
+    * Uploads official translations & digital releases (if available).
 - [**Mangasee**](https://mangasee123.com/) | [Mangalife](https://manga4life.com/) | [Atsumaru](https://atsu.moe/) [!badge variant="ghost" size="xs" text="R"]
     * Has official translations.
     * Compresses chapter images.
     * Chapter updates are relatively slow.
-    * Atsumaru scrapes from Mangasee but has better UI.
+    * [Atsumaru](https://atsu.moe/) scrapes from Mangasee but has better UI.
 - [**Mangapark**](https://mangapark.net/) [!badge variant="danger" size="xs" text="R+"]
-    * No Compression (If source had no compression)
+    * No Compressed uploads (If source had no compression).
     * Has official translations.
     * UI is a bit cluttered with no upload tags.
 - [**Batoto**](https://battwo.com/v3x) [!badge variant="danger" size="xs" text="R+"]
@@ -72,7 +71,7 @@ ___
 **Note**: None of the websites mentioned are exclusively dedicated to NSFW content.
 ===
 
-### Scanlator
+#### Scanlator
 
 ==- Manga
 - [Animated Glitched Scans](https://anigliscans.com/) + `KR` | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/1dde9054-11fd-4f5e-a575-a50f7bd22d5f/animated-glitched-scans) [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/15ncn1v/animated-glitched-scans)
@@ -127,7 +126,7 @@ ___
 
 > All the **Legal** manga reading sites are listed [here](https://otakulogy.github.io/manga-platform/) and [here](https://wherecanireadmanga.com/).
 
-### DDL
+### Direct Download
 
 - [AniDL](https://anidl.org/manga/)
 - [mp4directs](https://mp4directs.com/)
@@ -138,7 +137,7 @@ ___
 
 ## Anime
 
-If you want to get the best quality, use [DDL](/Websites.md/#ddl-1), [IRC](/Websites.md/#irc), or [Torrent](/Websites.md/#torrents). You can obtain full web release quality on a streaming site that scrapes the official site API, such as [KickAssAnime](https://kickassanime.am/) for Crunchyroll content or [AllAnime](https://allanime.to/anime) for Bilibili content. Otherwise, it is not be possible to maintain the full quality while managing space & traffic. You can [**network stream**](/ns.md) files from ddl, irc and torrents.
+If you want to get the best quality, use [Direct Download](/Websites.md/#direct-download-1), [IRC](/Websites.md/#irc), or [Torrent](/Websites.md/#torrents). You can obtain full web release quality on a streaming site that scrapes the official site API, such as [KickAssAnime](https://kickassanime.am/) for Crunchyroll content or [AllAnime](https://allanime.to/anime) for Bilibili content. Otherwise, it is not be possible to maintain the full quality while managing space & traffic. You can [**network stream**](/ns.md) files from direct download, irc and torrents.
 ___
 
 ### Stream
@@ -188,7 +187,7 @@ size="xs" text="Github"](https://github.com/shashankktiwariii/anikatsu) [!badge 
 
 > All the **Legal** anime streaming services are listed [here](https://otakulogy.github.io/anime-streaming/).
 
-### DDL
+### Direct Download
 - [Tokyo Insider](https://www.tokyoinsider.com/) [!badge variant="ghost" size="xs" text="Direct"] [!badge variant="ghost" size="xs" text="no ad"]
 - [Anime out](https://www.animeout.xyz/) [!badge variant="ghost" size="xs" text="Direct"] [!badge variant="ghost" size="xs" text="no ad"]
 - [Judas](https://rentry.org/judas-ddl) [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="no ad"]
@@ -249,7 +248,7 @@ ___
 - [LISTEN.moe](https://listen.moe/) [!badge variant="dark" icon="mark-github" 
 size="xs" text="Github"](https://github.com/LISTEN-moe)
 
-### DDL
+### Direct Download
 - [Hikari No Akari](https://hikarinoakari.com/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="Mega"]
 - [Sukidesu OST](https://sukidesuost.info/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Mega"]
 - [Sitting on Clouds](https://www.sittingonclouds.net/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Mega"] [!badge variant="ghost" size="xs" text="Mediafire"]
@@ -282,7 +281,7 @@ ___
 - [Royal Road](https://www.royalroad.com/home)
 
 
-### DDL
+### Direct Download
 - [Just Light Novels](https://www.justlightnovels.com/)
 - [That Novel Corner](https://thatnovelcorner.com/)
 - [AniDL](https://xyz.iamzlnk.one/0:/)

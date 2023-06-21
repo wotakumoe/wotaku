@@ -2,24 +2,29 @@
 visibility: hidden
 ---
 
-### Manga
-
-- [**Hakuneko**](https://github.com/manga-download/hakuneko)
-    - Best Downloader.
-    - Huge number of sites supported
-    - Customizable UI.
-- [**Free Manga Downloader 2**](https://github.com/dazedcat19/FMD2)
-    - Supports  almost every major site
-- [**MangaL**](https://github.com/metafates/mangal)
-    - TUI based downloader.
-    - Ultra fast
-    - You can add your own lua scrapers for non-supported sites (mangadex and mangasee already supported)
-- [**Mangadex Downloader**](https://github.com/mansuf/mangadex-downloader)
-    - Mangadex downloader.
-    - Easy to use and fast 
-- [**HDoujin Downloader**](https://github.com/HDoujinDownloader/HDoujinDownloader)
-    - Huge list of supported nsfw sites
-    - Good UI, many settings and amazing speed
-    - But has a 25 chapter daily limit
-- [**Hitomi Downloader**](https://github.com/KurtBestor/Hitomi-Downloader)
-    - Supports mostly nsfw sites but works great for the supported sites
+- [**Mangadex**](https://mangadex.org/) [!badge variant="danger" size="xs" text="R+"]
+    * Uploads without compression.
+    * Best reader UI.
+    * Uploads from various scanlation groups.
+    * No official translations since it was created for fansub.
+- [**Comick**](https://comick.app/home) [!badge variant="ghost" size="xs" text="R"]
+    * Minimal compression.
+    * Aggregates from various scanlation groups.
+    * Has official translations.
+- [**Colored Manga**](https://coloredmanga.com/) [!badge variant="ghost" size="xs" text="R"]
+    * Uploads without compression but mostly Shounen centric.
+    * Has both B&W and colored releases.
+    * Uploads official translations & digital releases (if available).
+- [**Mangasee**](https://mangasee123.com/) | [Mangalife](https://manga4life.com/) | [Atsumaru](https://atsu.moe/) [!badge variant="ghost" size="xs" text="R"]
+    * Has official translations.
+    * Compresses chapter images.
+    * Chapter updates are relatively slow.
+    * [Atsumaru](https://atsu.moe/) scrapes from Mangasee but has better UI.
+- [**Mangapark**](https://mangapark.net/) [!badge variant="danger" size="xs" text="R+"]
+    * No Compressed uploads (If source had no compression).
+    * Has official translations.
+    * UI is a bit cluttered with no upload tags.
+- [**Batoto**](https://battwo.com/v3x) [!badge variant="danger" size="xs" text="R+"]
+    - Has official translations.
+    - Has some exclusive uploads.
+    - Indexing is awful.

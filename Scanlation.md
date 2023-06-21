@@ -27,7 +27,7 @@ ___
 - [Sen Manga](https://raw.senmanga.com/ ) [!badge variant="danger" size="xs" text="R+"]
 - [We Love Manga](https://welovemanga.one/) | [Manga 1000](https://manga1000.top/) [!badge variant="ghost" size="xs" text="R"]
 
-### DDL
+### Direct Download
 - [A-Z Manga](https://www.a-zmanga.net/) [!badge variant="danger" size="xs" text="R+"]  [!badge variant="ghost" size="xs" text="Novel"] [!badge variant="ghost" size="xs" text="Magazine"]
 - [Asia Media Blog](https://asiamediablog.com/media/comic/manga/)  [!badge variant="ghost" size="xs" text="Novel"] [!badge variant="ghost" size="xs" text="Magazine"]
 - [Book Share Zip](https://bszip.com/) [!badge variant="ghost" size="xs" text="R"]  [!badge variant="ghost" size="xs" text="Novel"]  [!badge variant="ghost" size="xs" text="Magazine"]
@@ -102,6 +102,7 @@ ___
 - [ScanFolders](https://github.com/Fris44/ScanFolders)
 - [Smart Stitch](https://github.com/MechTechnology/SmartStitch)
 - [Stitch Tool](https://github.com/Aeonss/StitchTool)
+- [Typertools](https://swirt.github.io/typertools/)
 - [Typesetter*er*](https://illuminati-manga.com/illiteracy/typesetterer/)
 
 ### OCR
