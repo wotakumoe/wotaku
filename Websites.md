@@ -30,7 +30,7 @@ ___
 - [**Colored Manga**](https://coloredmanga.com/) [!badge variant="ghost" size="xs" text="R"]
     * Uploads without compression but mostly Shounen centric.
     * Has both B&W and colored releases.
-    * Uploads official translations & digital releases (if available).
+    * Uploads official translations & volume releases (if available).
 - [**Mangasee**](https://mangasee123.com/) | [Mangalife](https://manga4life.com/) | [Atsumaru](https://atsu.moe/) [!badge variant="ghost" size="xs" text="R"]
     * Has official translations.
     * Compresses chapter images.
@@ -43,7 +43,7 @@ ___
 - [**Batoto**](https://battwo.com/v3x) [!badge variant="danger" size="xs" text="R+"]
     - Has official translations.
     - Has some exclusive uploads.
-    - Indexing is awful.
+    - Indexing is poor quality.
 
 #### More
 - [Cubari Proxy](https://proxy.cubari.moe/) [!badge variant="danger" size="xs" text="R+"]
