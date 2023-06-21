@@ -61,9 +61,8 @@ ___
 
 #### Downloader
 - [Hakuneko](https://github.com/manga-download/hakuneko)
-- [HDoujin Downloader](https://github.com/HDoujinDownloader/HDoujinDownloader)
 - [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2)
-
+- [HDoujin Downloader](https://github.com/HDoujinDownloader/HDoujinDownloader)
 ___
 
 ## Add-ons

@@ -15,6 +15,7 @@ ___
 - [Animesuki](https://forums.animesuki.com/)
 - [Anime Music Videos](https://www.animemusicvideos.org/forum/)
 - [Fuwanovel](https://forums.fuwanovel.net/)
+- [Mangadex](https://forums.mangadex.org/)
 - [Manga Helper](https://mangahelpers.com/)
 - [Squide Board](https://www.squid-board.org/)
 
