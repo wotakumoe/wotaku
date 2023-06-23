@@ -69,7 +69,7 @@ ___
 
 [!badge variant="ghost" text="NR"] Haven't been rated yet.
 
-**Note**: None of the websites mentioned are exclusively dedicated to NSFW content.
+**Note**: None of the websites mentioned are exclusively dedicated to NSFW content. [**Click here**](/nsfw.md/#manga) for the hmanga sites.
 ===
 
 #### Scanlator

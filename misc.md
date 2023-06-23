@@ -35,6 +35,7 @@ ___
 
 ### Anime
 
+
 #### Database
 - [aniDB](https://anidb.net/)
 - [Anilist](https://anilist.co/)
@@ -43,12 +44,16 @@ ___
 - [AniSearch](https://www.anisearch.com/)
 - [MyAnimeList](https://myanimelist.net/)
 
+
 #### Schedule
 - [Anica](https://anica.jp/)
 - [AniChart](https://anichart.net/)
 - [AnimeSchedule](https://animeschedule.net/)
 - [Livechart](https://www.livechart.me/)
+- [Monthly.moe](https://www.monthly.moe/)
 - [Notify.moe](https://notify.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/animenotifier/notify.moe)
+- [Senpai.moe](https://www.senpai.moe/)
+
 
 #### Stats/Watch guide
 - [Anime Stats](https://anime-stats.net/)
@@ -58,6 +63,7 @@ ___
 - [Chiaki](https://chiaki.site/)
 - [Related Anime](https://relatedanime.com/)
 - [r/Anime Watch Order](https://www.reddit.com/r/anime/wiki/watch_order/)
+
 
 #### Index
 - [Aniplaylist](https://aniplaylist.com/)

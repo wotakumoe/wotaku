@@ -35,7 +35,9 @@ ___
 - [KomikID](https://komikid.com/)
 - [Komiku](https://komiku.id/)
 - [Komik Cast](https://komikcast.site/)
+- [Mangaku](https://mangaku.fun/)
 - [Ryukomik](https://komik.ryukoproject.app/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/AzwarKusumah/ryukomik)
+- [Shinigami ID](https://shinigami.id/)
 
 #### Portuguese
 - [Manga Livre](https://mangalivre.net/)
@@ -139,6 +141,7 @@ ___
 - [AnimeSail](https://154.26.137.28/)
 - [Anoboy](https://anoboy.ch/)
 - [Kazefuri](https://kazefuri.net/)
+- [Kuramanime](https://kuramanime.net/)
 - [Mynimeku](https://www.mynimeku.com/)
 - [Neonime](https://neonime.fun/)
 - [Ryukonime](https://ryukonime.vercel.app/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/AzwarKusumah/Ryukonime)

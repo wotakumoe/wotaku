@@ -15,6 +15,7 @@ ___
 ### Manga
 - [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://tachiyomi.org/) [!badge variant="ghost" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/)
 - [Kotatsu](https://github.com/KotatsuApp/Kotatsu) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://kotatsu.app/)
+- [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Local"]
 
 ### Anime
 - [Saikou](https://github.com/saikou-app/saikou/) [!badge variant="ghost" icon="video" text="TV"](https://github.com/siennaXD/SaikouTV/)  [!badge variant="dark" icon="globe" size="xs" text="Web"](https://saikou.pages.dev/)  [!badge variant="ghost" size="xs" text="Manga"]
