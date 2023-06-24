@@ -246,9 +246,9 @@ ___
 - [LISTEN.moe](https://listen.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/LISTEN-moe)
 
 ### Direct Download
-- [Hikari No Akari](https://hikarinoakari.com/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="Mega"]
-- [Sukidesu OST](https://sukidesuost.info/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Mega"]
 - [Sitting on Clouds](https://www.sittingonclouds.net/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Mega"] [!badge variant="ghost" size="xs" text="Mediafire"]
+- [SquidBoard](https://www.squid-board.org/) [!badge variant="ghost" size="xs" text="Needs account"] [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Mega"] [!badge variant="ghost" size="xs" text="Mediafire"] [!badge variant="ghost" size="xs" text="GDrive"]
+- [Sukidesu OST](https://sukidesuost.info/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Mega"]
 - [Asia Media Blog](https://asiamediablog.com/media/music/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Host"]
 - [OS Anime](https://osanime.com/) [!badge variant="ghost" size="xs" text="Direct"]
 - [Hiyori OST](https://www.hiyoriost.com/) [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="Host"]

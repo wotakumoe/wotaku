@@ -23,8 +23,8 @@ ___
 - [Anime out](https://www.animeout.xyz/) [!badge variant="ghost" size="xs" text="DDL"]
 
 #### OST
-- [Hikari No Akari](https://hikarinoakari.com/) [!badge variant="ghost" size="xs" text="DDL"]
 - [Sitting on Clouds](https://www.sittingonclouds.net/) [!badge variant="ghost" size="xs" text="DDL"]
+- [SquidBoard](https://www.squid-board.org/  [!badge variant="ghost" size="xs" text="DDL"]  [!badge variant="ghost" size="xs" text="Needs accounnt"]
 - [Anithemes.moe](https://animethemes.moe/) [!badge variant="ghost" size="xs" text="stream"]
 
 #### Torrent

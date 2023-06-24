@@ -17,7 +17,7 @@ ___
 - [Fuwanovel](https://forums.fuwanovel.net/)
 - [Mangadex](https://forums.mangadex.org/)
 - [Manga Helper](https://mangahelpers.com/)
-- [Squide Board](https://www.squid-board.org/)
+- [SquidBoard](https://www.squid-board.org/)
 
 ## Discord servers
 - [Doujin Cafe](https://discord.gg/doujincafe)
