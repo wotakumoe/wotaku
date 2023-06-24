@@ -19,32 +19,32 @@ ___
 ### Reader
 
 - [**Mangadex**](https://mangadex.org/) [!badge variant="danger" size="xs" text="R+"]
-    * Uploads without compression.
-    * Best reader UI.
-    * Uploads from various scanlation groups.
-    * No official translations since it was created for fansub.
+    * Uploads without compression
+    * Best reader UI
+    * Uploads from various scanlation groups
+    * No official translations since it was created for fansub
 - [**Comick**](https://comick.app/home) [!badge variant="ghost" size="xs" text="R"]
-    * Minimal compression.
-    * Aggregates from various scanlation groups.
-    * Has official translations.
+    * Minimal compression
+    * Aggregates from various scanlation groups
+    * Has official translations
 - [**Mangasee**](https://mangasee123.com/) | [Mangalife](https://manga4life.com/) | [Atsumaru](https://atsu.moe/) [!badge variant="ghost" size="xs" text="R"]
-    * Has official translations.
-    * Compresses chapter images.
-    * Chapter updates are relatively slow.
-    * [Atsumaru](https://atsu.moe/) scrapes from Mangasee but has better UI.
+    * Has official translations
+    * Compresses chapter images
+    * Chapter updates are relatively slow
+    * [Atsumaru](https://atsu.moe/) scrapes from Mangasee but has better UI
 - [**Colored Manga**](https://coloredmanga.com/) [!badge variant="ghost" size="xs" text="R"]
-    * Uploads without compression but mostly Shounen centric.
-    * Has both B&W and colored releases.
-    * Uploads official translations & volume releases (if available).
-    * Lacks in library and upload schedule.
+    * Uploads without compression but mostly Shounen centric
+    * Has both B&W and colored releases
+    * Uploads official translations & volume releases (if available)
+    * Lacks in library and upload schedule
 - [**Mangapark**](https://mangapark.net/) [!badge variant="danger" size="xs" text="R+"]
-    * No Compressed uploads (If source had no compression).
-    * Has official translations.
-    * UI is a bit cluttered with no upload tags.
+    * No Compressed uploads (If source had no compression)
+    * Has official translations
+    * UI is a bit cluttered with no upload tags
 - [**Batoto**](https://battwo.com/v3x) [!badge variant="danger" size="xs" text="R+"]
-    - Has official translations.
-    - Has some exclusive uploads.
-    - Indexing is poor quality.
+    - Has official translations
+    - Has some exclusive uploads
+    - Indexing is poor quality
 
 #### More
 - [Cubari Proxy](https://proxy.cubari.moe/) [!badge variant="danger" size="xs" text="R+"]
@@ -145,27 +145,27 @@ ___
 
 #### Uploader
 - [**9anime**](https://9anime.gs/home)
-    - Huge library with Watch Together feature.
-    - Lesser compression compared to other sites that use 3rd party hosts.
+    - Huge library with Watch Together feature
+    - Lesser compression compared to other sites that use 3rd party hosts
 - [**Marin**](https://marin.moe/)
-    - Re-encodes files of other encoder groups while keeping the quality consistent.
-    - Uploads encoded **Blu-ray** versions if available.
-    - Clutter-free design and no watermark.
-    - Marin has a good amount of missing titles, especially movies.
+    - Re-encodes files of other encoder groups while keeping the quality consistent
+    - Uploads encoded **Blu-ray** versions if available
+    - Clutter-free design and no watermark
+    - Marin has a good amount of missing titles, especially movies
 - [**Zoro**](https://zoro.to/home)
-    - Huge library with Watch Together feature.
-    - Re-encodes shows for smaller size with minimal loss in video quality.
-    - Softsubs may create issues in different scenarios, but can be beneficial for multi-language support.
+    - Huge library with Watch Together feature
+    - Re-encodes shows for smaller size with minimal loss in video quality
+    - Softsubs may create issues in different scenarios, but can be beneficial for multi-language support
 - [**AllAnime**](https://allanime.to/anime)
-    - Scrapers **Bilibili** (`AK` player) which has 1080p with better bitrate (some of them have 4K) but Bilibili doesn't have many [licenced shows](https://www.bilibili.tv/en/category?season_type=1%2C4).
-    - Library isn't as big as 9anime or Zoro.
-    - Quality of other sources are average.
+    - Scrapers **Bilibili** (`AK` player) which has 1080p with better bitrate (some of them have 4K) but Bilibili doesn't have many [licenced shows](https://www.bilibili.tv/en/category?season_type=1%2C4)
+    - Library isn't as big as 9anime or Zoro
+    - Quality of other sources are average
 - [**Animepahe**](https://animepahe.com/)
-    - Uploads mini encoded files, useful if you want smaller files or have low bandwidth.
-    - Uploads **Blu-ray** and **DVD** versions if available.
+    - Uploads mini encoded files, useful if you want smaller files or have low bandwidth
+    - Uploads **Blu-ray** and **DVD** versions if available
 - [**Animedao**](https://animedao.to/)
-    - The `Vid` & `Vid2` players provides high-quality videos, but they expire after a few days.
-    - The quality of the other players is average.
+    - The `Vid` & `Vid2` players provides high-quality videos, but they expire after a few days
+    - The quality of the other players is average
 
 #### Scraper
 - [KickAssAnime](https://kickassanime.am/) [!badge variant="ghost" size="xs" text="crunchy"]
