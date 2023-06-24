@@ -28,6 +28,7 @@ ___
 - [r/Manga](https://discord.com/invite/manga)
 - [Scanner Usage School Server](https://discord.com/invite/NCzxVB9)
 - [Snacbox](https://discord.com/invite/snackbox)
+- [SquidBoard](https://discord.gg/ATjPbzR)
 - [Tachiyomi](https://discord.com/invite/tachiyomi)
 - [TheMoeWay](https://discord.com/invite/nhqjydaR8j)
 
