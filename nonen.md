@@ -120,6 +120,7 @@ ___
 
 
 #### German
+- [Anime Archive](https://anime-archive.com/)
 - [AniWorld](https://aniworld.to/)
 - [Aniflix](https://aniflix.cc/)
 - [Anime Loads](https://www.anime-loads.org/) [!badge variant="ghost" size="xs" text="Stream"] [!badge variant="ghost" size="xs" text="DDL"] 

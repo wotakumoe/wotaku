@@ -14,6 +14,9 @@ ___
 
 [!badge variant="dark" size="2xl" icon="/static/asset/ven.png" text="**Venroot**"](https://github.com/RenaraScope) [!badge variant="dark" size="2xl" icon="/static/asset/zinc.png" text="**Zinklog**"](https://github.com/zinklog2)
 
+#### Special Thanks to
+
+[!badge variant="dark" size="xl" text="**Abyss**"](https://github.com/knightmob) [!badge variant="dark" size="xl" text="**KAI**"](https://github.com/Kai-FMHY) [!badge variant="dark" size="xl" text="**Panic**"](https://github.com/FMHYHelper) [!badge variant="dark" size="xl" text="**TubaApollo**"](https://github.com/TubaApollo)
 
 ## Art Credits
 - Ninomae Ina'nis's Padoru by [how-dee](https://www.reddit.com/r/Padoru/comments/iu6jvx/ninomae_inanis_hololive/)
