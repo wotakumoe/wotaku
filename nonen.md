@@ -219,7 +219,7 @@ ___
 #### Vietnamese
 - [Kaguya](https://kaguya.app/)
 - [Ani4u](https://ani4u.org/)
-- [AnimeVsub](https://animevsub.eu,org/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/anime-vsub/desktop-web)
+- [AnimeVsub](https://animevsub.eu.org/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/anime-vsub/desktop-web)
 - [Unime](https://unime.vercel.app/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/huy232/Unime)
 
 
