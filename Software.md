@@ -90,7 +90,6 @@ ___
 ___
 ### Manga
 - [ahoviewer](https://github.com/ahodesuka/ahoviewer)
-- [Hakuneko](https://github.com/manga-download/hakuneko) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://hakuneko.download/)
 - [Komikku](https://gitlab.com/valos/Komikku)
 - [MComix](https://sourceforge.net/projects/mcomix/)
 - [Tachidesk](https://github.com/Suwayomi/Tachidesk-Server) [!badge variant="ghost" icon="tab-external" text="Clients"](https://github.com/Suwayomi/Tachidesk-Server#tachidesk-client-projects)
