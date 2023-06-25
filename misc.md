@@ -29,6 +29,7 @@ ___
 
 ### Manga
 - [Mangaupdates](https://www.mangaupdates.com/)
+- [Manga Codex](http://www.mangacodex.com/)
 - [Manga Groups Portal](https://discord.gg/9KGMzP2)
 - [MyAnimeList](https://myanimelist.net/)
 - [Scan Updates](https://www.scanupdates.com/)
@@ -137,7 +138,9 @@ ____
 - [Anime News Network](https://www.animenewsnetwork.com/)
 - [Anime Senpai](https://www.animesenpai.net/)
 - [Crunchyroll News](https://www.crunchyroll.com/news)
+- [Josu Ke](https://twitter.com/Josu_ke)
 - [MAL News](https://myanimelist.net/news)
+- [Manga Mogura RE](https://twitter.com/MangaMoguraRE)
 - [Vocasphere](https://vocasphere.net/)
 
 
