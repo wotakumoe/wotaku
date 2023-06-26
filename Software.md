@@ -48,7 +48,7 @@ ___
     - Tracking support with enhanced type
 
 === More
-- [Animiru](https://github.com/Quickdesh/Animiru) [!badge variant="ghost" text="Anime only"] [!badge variant="ghost" text="RPC"]
+- [Animiru](https://github.com/Quickdesh/Animiru) [!badge variant="ghost" size="xs" text="Anime only"] [!badge variant="ghost" size="xs" text="RPC"]
 - [Animity](https://github.com/kl3jvi/animity)
 - [Enimax](https://github.com/enimax-anime/enimax)
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
@@ -153,9 +153,9 @@ ___
 ### Anime
 - [**Anime Now**](https://github.com/AnimeNow-Team/AnimeNow)
     - Great UI with extension support
-    - Download available
-    - Casting possible
-    - Trackers available
+    - Downloading episode is supported support
+    - Casting support
+    - Tracking support
     - Only available trough sideloading
 - [**9Animator**](https://github.com/SuperMarcus/NineAnimator)
     - Decent UI with extension integration
