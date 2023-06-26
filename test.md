@@ -19,7 +19,7 @@ visibility: hidden
     - Offers Manga Suggestions
     - Download and local reader support
     - Tracking & sync support
-    
+
 ===
 
 ### Anime
@@ -59,7 +59,7 @@ visibility: hidden
 
 ### Light Novel
 - [Moon+ Reader Pro](https://play.google.com/store/apps/details?id=com.flyersoft.moonreaderp&hl=en&gl=US)
-- [**ReadEra**](https://play.google.com/store/apps/details?id=org.readera&hl=en&gl=US)
+- [ReadEra](https://play.google.com/store/apps/details?id=org.readera&hl=en&gl=US)
 - [Shosetsu](https://gitlab.com/shosetsuorg/shosetsu) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://shosetsu.app/)
 - [Quicknovel](https://github.com/LagradOst/QuickNovel)
 
