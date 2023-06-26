@@ -46,7 +46,7 @@ ___
     - Has some exclusive uploads
     - Indexing is poor quality
 
-#### More
+=== More
 - [Cubari Proxy](https://proxy.cubari.moe/) [!badge variant="danger" size="xs" text="R+"]
 - [Manga Katana](https://mangakatana.com/) [!badge variant="danger" size="xs" text="R+"]
 - [Manga Fire](https://mangafire.to/home) [!badge variant="ghost" size="xs" text="R"]
@@ -57,6 +57,7 @@ ___
 - [Mangacultivator](https://mangacultivator.com) [!badge variant="success" size="xs" text="E"]
 - [1st Kiss Manga](https://1stkissmanga.me/) [!badge variant="ghost" size="xs" text="R-"]
 - [Manganato](https://chapmanganato.com/nato) [!badge variant="ghost" size="xs" text="R"]
+===
 
 === Rating
 [!badge variant="danger" text="R+"] Uploads NSFW content on a regular basis.

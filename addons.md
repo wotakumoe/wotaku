@@ -17,23 +17,23 @@ ___
 ___
 
 - [Boorusphere](https://github.com/nullxception/boorusphere)
-- Anime Boxes [!badge variant="dark" icon="globe" size="xs" text="Web"](https://www.animebox.es/)
+- Anime Boxes [!badge variant="ghost" icon="globe" text="Web"](https://www.animebox.es/)
 - Pixiv [!badge variant="ghost" icon="/static/icon/andy.png" text="Store"](https://play.google.com/store/apps/details?id=jp.pxv.android)
 
 ![](/static/banner/disbot.png)
 
 ## Discord Bots
 ___
-- [AniSearch](https://github.com/IchBinLeoon/anisearch-discord-bot) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://ichbinleoon.github.io/anisearch-discord-bot/#/)
+- [AniSearch](https://github.com/IchBinLeoon/anisearch-discord-bot) [!badge variant="ghost" icon="globe" text="Web"](https://ichbinleoon.github.io/anisearch-discord-bot/#/)
 - [Ryuuzaki Ryuusei](https://github.com/nattadasu/ryuuRyuusei)
 - [Yuuko](https://github.com/YuuCorp/Yuuko)
 - [MangaUpdates Bot](https://github.com/jckli/mangaupdates-bot)
 - [Manhwa Updates Bot](https://github.com/MooshiMochi/ManhwaUpdatesBot)
-- [Michelle](https://github.com/JacenBoy/michelle) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://michelle.jacenboy.com/)
+- [Michelle](https://github.com/JacenBoy/michelle) [!badge variant="ghost" icon="globe" text="Web"](https://michelle.jacenboy.com/)
 - Sneedex [!badge variant="ghost" icon="/static/icon/discord.svg" text="Invite"](https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot)
 - [Picsiv](https://github.com/jckli/picsiv)
-- Tweetshift [!badge variant="dark" icon="globe" size="xs" text="Web"](https://tweetshift.com/)
-- [MonitoRSS](https://github.com/synzen/MonitoRSS) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://monitorss.xyz/)
+- Tweetshift [!badge variant="ghost" icon="globe" text="Web"](https://tweetshift.com/)
+- [MonitoRSS](https://github.com/synzen/MonitoRSS) [!badge variant="ghost" icon="globe" text="Web"](https://monitorss.xyz/)
 - Anigame [!badge variant="ghost" icon="globe" text="Top.gg"](https://top.gg/bot/571027211407196161)
 
 === Websites with RSS feeds
@@ -54,11 +54,11 @@ ___
 ___
 
 ### Anime
-- [Anime Watch Parties](https://github.com/Dragicafit/Anime-Watch-Parties/) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://animewatchparties.com/) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/anime-watch-parties/goinehmnmhnoaepodbngfgdgjeibgelh/) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/)
+- [Anime Watch Parties](https://github.com/Dragicafit/Anime-Watch-Parties/) [!badge variant="ghost" icon="globe" text="Web"](https://animewatchparties.com/) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/anime-watch-parties/goinehmnmhnoaepodbngfgdgjeibgelh/) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/)
 - [Animepahe Plus](https://github.com/Cyan903/Animepahe-plus) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-CA/firefox/addon/animepahe-plus/)
-- [Anime Skip Player](https://github.com/anime-skip/player) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://anime-skip.com/) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/anime-skip/mgmdkjcljneegjfajchedjpdhbadklcf) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-skip)
+- [Anime Skip Player](https://github.com/anime-skip/player) [!badge variant="ghost" icon="globe" text="Web"](https://anime-skip.com/) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/anime-skip/mgmdkjcljneegjfajchedjpdhbadklcf) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-skip)
 - [Aniskip](https://github.com/lexesjan/typescript-aniskip-extension) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/aniskip/npfcdmjgaocepmpdnmliimijgfjbgcdd) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/aniskip/)
-- Substital [!badge variant="dark" icon="globe" size="xs" text="Web"](https://substital.com/) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/substital/)
+- Substital [!badge variant="ghost" icon="globe" text="Web"](https://substital.com/) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/substital/)
 
 
 ### Manga
@@ -68,9 +68,9 @@ ___
 ### Others
 - [Booru Shinshi](https://github.com/kuanyui/BooruShinshi)  [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/booru-shinshi/)
 - Improve Crunchyroll [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh)
-- [KellyC Image Downloader](https://github.com/NC22/KellyC-Image-Downloader) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://kellydownloader.com/en/) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/kellyc-image-downloader/mbhkdmjolnhcppnkldbdfaomeabjiofm) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/ru/firefox/addon/kellyc-favorites/)
-- [MAL Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/myanimelist-redesign/knegaeodgehajemjpfbhlgjdcloklkal) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/myanimelist-redesign/)
-- [Pixiv Batch Downloader](https://github.com/xuejianxianzun/PixivBatchDownloader) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://pixiv.download/) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/powerful-pixiv-downloader/dkndmhgdcmjdmkdonmbgjpijejdcilfh)
+- [KellyC Image Downloader](https://github.com/NC22/KellyC-Image-Downloader) [!badge variant="ghost" icon="globe" text="Web"](https://kellydownloader.com/en/) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/kellyc-image-downloader/mbhkdmjolnhcppnkldbdfaomeabjiofm) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/ru/firefox/addon/kellyc-favorites/)
+- [MAL Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned) [!badge variant="ghost" icon="globe" text="Web"](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/myanimelist-redesign/knegaeodgehajemjpfbhlgjdcloklkal) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/myanimelist-redesign/)
+- [Pixiv Batch Downloader](https://github.com/xuejianxianzun/PixivBatchDownloader) [!badge variant="ghost" icon="globe" text="Web"](https://pixiv.download/) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/powerful-pixiv-downloader/dkndmhgdcmjdmkdonmbgjpijejdcilfh)
 
 
 
@@ -126,7 +126,7 @@ Active maintenance is necessary for scripts to work properly. If a script fails,
 ___
 - [Anitomy](https://github.com/erengy/anitomy)
 - [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper)
-- [Shoko Anime](https://github.com/shokoanime) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://shokoanime.com/)
+- [Shoko Anime](https://github.com/shokoanime) [!badge variant="ghost" icon="globe" text="Web"](https://shokoanime.com/)
 - [Smart Image](https://github.com/Decimation/SmartImage)
 
 ![](/static/banner/trackers.png)
@@ -146,25 +146,25 @@ ___
 
 #### MyAnimeList
 - DailyAL [!badge variant="ghost" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.teen.dailyanimelist&hl=en&gl=US)
-- [MoeList](https://github.com/axiel7/MoeList) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://moelist.net/)
+- [MoeList](https://github.com/axiel7/MoeList) [!badge variant="ghost" icon="globe" text="Web"](https://moelist.net/)
 
 
 ### Windows
-- [Taiga](https://github.com/erengy/taiga) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://taiga.moe/) [!badge variant="ghost" size="xs" text="Downloader"]
-- [Trackma](https://github.com/z411/trackma) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://z411.github.io/trackma/)
+- [Taiga](https://github.com/erengy/taiga) [!badge variant="ghost" icon="globe" text="Web"](https://taiga.moe/) [!badge variant="ghost" size="xs" text="Downloader"]
+- [Trackma](https://github.com/z411/trackma) [!badge variant="ghost" icon="globe" text="Web"](https://z411.github.io/trackma/)
 - [MALClient](https://github.com/Drutol/MALClient) [!badge variant="ghost" icon="globe" text="Store"](https://apps.microsoft.com/store/detail/malclient/9NBLGGH5F3BL)
 
 ### MacOS
-- [Hachidori](https://github.com/Atelier-Shiori/hachidori) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://malupdaterosx.moe/hachidori/)
+- [Hachidori](https://github.com/Atelier-Shiori/hachidori) [!badge variant="ghost" icon="globe" text="Web"](https://malupdaterosx.moe/hachidori/)
 
 ### Linux
-- [Trackma](https://github.com/z411/trackma) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://z411.github.io/trackma/)
-- [Tundra](https://github.com/m4tx/tundra) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://tundra.moe/)
+- [Trackma](https://github.com/z411/trackma) [!badge variant="ghost" icon="globe" text="Web"](https://z411.github.io/trackma/)
+- [Tundra](https://github.com/m4tx/tundra) [!badge variant="ghost" icon="globe" text="Web"](https://tundra.moe/)
 
 ### Browser
-- [MALSync](https://github.com/MALSync/MALSync) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://malsync.moe/) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/mal-sync/) [!badge variant="ghost" icon="file-code" text="Script"](https://github.com/MALSync/MALSync/releases/latest/download/malsync.user.js)
+- [MALSync](https://github.com/MALSync/MALSync) [!badge variant="ghost" icon="globe" text="Web"](https://malsync.moe/) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/mal-sync/) [!badge variant="ghost" icon="file-code" text="Script"](https://github.com/MALSync/MALSync/releases/latest/download/malsync.user.js)
 - [Kenmei](https://www.kenmei.co/)
-- [All Manga Reader](https://gitlab.com/all-mangas-reader/all-mangas-reader-2) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://www.allmangasreader.com/)
+- [All Manga Reader](https://gitlab.com/all-mangas-reader/all-mangas-reader-2) [!badge variant="ghost" icon="globe" text="Web"](https://www.allmangasreader.com/)
 
 ### Miscellaneous
 - [Anime Manga Auto Backup](https://github.com/Animanga-Initiative/animeManga-autoBackup)

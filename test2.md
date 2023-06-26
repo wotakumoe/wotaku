@@ -2,13 +2,13 @@
 visibility: Hidden
 ---
 ### Manga
-- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://tachiyomi.org/) [!badge variant="ghost" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/)
+- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/) [!badge variant="ghost" icon="globe" text="Web"](https://tachiyomi.org/) [!badge variant="ghost" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/)
     - Great Customizable UI
     - Ton of manga sources
     - Download and local reader support
     - Tracking & sync support
     - High cache consumption
-- [Kotatsu](https://github.com/KotatsuApp/Kotatsu) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://kotatsu.app/)
+- [Kotatsu](https://github.com/KotatsuApp/Kotatsu) [!badge variant="ghost" icon="globe" text="Web"](https://kotatsu.app/)
     - Minimalist UI
     - Offers Manga Suggestions
     - Download and local reader support
@@ -16,7 +16,7 @@ visibility: Hidden
 - [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Local"]
 
 ### Anime
-- [Saikou](https://github.com/saikou-app/saikou/) [!badge variant="ghost" icon="video" text="TV"](https://github.com/siennaXD/SaikouTV/)  [!badge variant="dark" icon="globe" size="xs" text="Web"](https://saikou.pages.dev/)
+- [Saikou](https://github.com/saikou-app/saikou/) [!badge variant="ghost" icon="video" text="TV"](https://github.com/siennaXD/SaikouTV/)  [!badge variant="ghost" icon="globe" text="Web"](https://saikou.pages.dev/)
     - Decent UI but limited customization
     - Can be used offline
     - Also offers manga reader
@@ -28,7 +28,7 @@ visibility: Hidden
     - Tracking & backup support
     - Local player support
     - need to be part of the discord server to get the extension urls
-- [Aniyomi](https://github.com/jmir1/aniyomi/) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://aniyomi.org/) [!badge variant="ghost" size="xs" text="Manga"]
+- [Aniyomi](https://github.com/jmir1/aniyomi/) [!badge variant="ghost" icon="globe" text="Web"](https://aniyomi.org/) [!badge variant="ghost" size="xs" text="Manga"]
     - Tachiyomi fork for anime
     - Clean and minimal design
     - Offers other types of media too
@@ -56,7 +56,7 @@ visibility: Hidden
     - No in-app reading analytics
     - Good amount of features are behind paywall
     - No online source & tracker support
-- [Shosetsu](https://gitlab.com/shosetsuorg/shosetsu) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://shosetsu.app/)
+- [Shosetsu](https://gitlab.com/shosetsuorg/shosetsu) [!badge variant="ghost" icon="globe" text="Web"](https://shosetsu.app/)
     - Minimal UI with a lot of customization
     - Has CSS support
     - Slow dowload and no epub conversion

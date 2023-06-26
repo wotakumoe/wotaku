@@ -3,8 +3,8 @@ visibility: hidden
 ---
 
 ### Manga
-- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://tachiyomi.org/) [!badge variant="ghost" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/)
-- [Kotatsu](https://github.com/KotatsuApp/Kotatsu) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://kotatsu.app/)
+- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/) [!badge variant="ghost" icon="globe" text="Web"](https://tachiyomi.org/) [!badge variant="ghost" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/)
+- [Kotatsu](https://github.com/KotatsuApp/Kotatsu) [!badge variant="ghost" icon="globe" text="Web"](https://kotatsu.app/)
 - [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Local"]
 
 ==- :icon-law: **Pros and Cons**
@@ -23,9 +23,9 @@ visibility: hidden
 ===
 
 ### Anime
-- [Saikou](https://github.com/saikou-app/saikou/) [!badge variant="ghost" icon="video" text="TV"](https://github.com/siennaXD/SaikouTV/)  [!badge variant="dark" icon="globe" size="xs" text="Web"](https://saikou.pages.dev/)  [!badge variant="ghost" size="xs" text="Manga"]
+- [Saikou](https://github.com/saikou-app/saikou/) [!badge variant="ghost" icon="video" text="TV"](https://github.com/siennaXD/SaikouTV/)  [!badge variant="ghost" icon="globe" text="Web"](https://saikou.pages.dev/)  [!badge variant="ghost" size="xs" text="Manga"]
 - [Cloudstream](https://github.com/recloudstream/cloudstream)
-- [Aniyomi](https://github.com/jmir1/aniyomi/) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://aniyomi.org/) [!badge variant="ghost" size="xs" text="Manga"]
+- [Aniyomi](https://github.com/jmir1/aniyomi/) [!badge variant="ghost" icon="globe" text="Web"](https://aniyomi.org/) [!badge variant="ghost" size="xs" text="Manga"]
 
 
 ==- :icon-law: **Pros and Cons**
@@ -60,7 +60,7 @@ visibility: hidden
 ### Light Novel
 - [Moon+ Reader Pro](https://play.google.com/store/apps/details?id=com.flyersoft.moonreaderp&hl=en&gl=US)
 - [ReadEra](https://play.google.com/store/apps/details?id=org.readera&hl=en&gl=US)
-- [Shosetsu](https://gitlab.com/shosetsuorg/shosetsu) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://shosetsu.app/)
+- [Shosetsu](https://gitlab.com/shosetsuorg/shosetsu) [!badge variant="ghost" icon="globe" text="Web"](https://shosetsu.app/)
 - [Quicknovel](https://github.com/LagradOst/QuickNovel)
 
 ==- :icon-law: **Pros and Cons**

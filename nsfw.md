@@ -88,8 +88,8 @@ ___
 
 === Downloader
 
-- [Hakuneko](https://github.com/manga-download/hakuneko) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://hakuneko.download/)
-- [HDoujin Downloader](https://github.com/HDoujinDownloader/HDoujinDownloader) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://doujindownloader.com/)
+- [Hakuneko](https://github.com/manga-download/hakuneko) [!badge variant="ghost" icon="globe" text="Web"](https://hakuneko.download/)
+- [HDoujin Downloader](https://github.com/HDoujinDownloader/HDoujinDownloader) [!badge variant="ghost" icon="globe" text="Web"](https://doujindownloader.com/)
 - [Hentai downloader](https://github.com/touno-io/hentai-downloader)
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) [!badge variant="ghost" size="xs" text="Anime"]
 - [E-Hentai Downloader](https://github.com/ccloli/E-Hentai-Downloader)

@@ -41,7 +41,7 @@ ___
 ### PC
 
 #### Manga
-- [Atsumeru](https://github.com/AtsumeruDev/Atsumeru) [!badge variant="dark" icon="globe" size="xs" text="Web"](https://atsumeru.xyz/)
+- [Atsumeru](https://github.com/AtsumeruDev/Atsumeru) [!badge variant="ghost" icon="globe" text="Web"](https://atsumeru.xyz/)
 - [Fukayo](https://github.com/JiPaix/Fukayo/)
 - [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager)
 - [Special Eureka](https://github.com/tonymushah/special-eureka)
