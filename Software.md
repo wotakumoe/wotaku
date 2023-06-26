@@ -13,33 +13,34 @@ ___
 ## Android
 ___
 ### Manga
-- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/) [!badge variant="ghost" icon="globe" text="Web"](https://tachiyomi.org/) [!badge variant="ghost" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/)
+- [**Tachiyomi**](https://github.com/tachiyomiorg/tachiyomi/) [!badge variant="ghost" icon="globe" text="Web"](https://tachiyomi.org/) [!badge variant="ghost" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/)
     - Great Customizable UI
     - Ton of manga sources
     - Download and local reader support
     - Tracking & sync support
     - High cache consumption
-- [Kotatsu](https://github.com/KotatsuApp/Kotatsu) [!badge variant="ghost" icon="globe" text="Web"](https://kotatsu.app/)
-    - Minimalist UI
+- [**Kotatsu**](https://github.com/KotatsuApp/Kotatsu) [!badge variant="ghost" icon="globe" text="Web"](https://kotatsu.app/)
+    - Minimalist UI with limited customization
     - Offers Manga Suggestions
     - Download and local reader support
     - Tracking & sync support
-- [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Local"]
+    - Lacks some basic features
+- [**Perfect Viewer**](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Local"]
 
 ### Anime
-- [Saikou](https://github.com/saikou-app/saikou/) [!badge variant="ghost" icon="video" text="TV"](https://github.com/siennaXD/SaikouTV/)  [!badge variant="ghost" icon="globe" text="Web"](https://saikou.pages.dev/)
+- [**Saikou**](https://github.com/saikou-app/saikou/) [!badge variant="ghost" icon="video" text="TV"](https://github.com/siennaXD/SaikouTV/)  [!badge variant="ghost" icon="globe" text="Web"](https://saikou.pages.dev/)
     - Decent UI but limited customization
     - Can be used offline
     - Also offers manga reader
     - anime streaming/reading only
     - Anilist tracking and database and MAL
-- [Cloudstream](https://github.com/recloudstream/cloudstream)
+- [**Cloudstream**](https://github.com/recloudstream/cloudstream)
     - Minimalist Customizable UI
     - Offers other types of media too
     - Tracking & backup support
     - Local player support
     - need to be part of the discord server to get the extension urls
-- [Aniyomi](https://github.com/jmir1/aniyomi/) [!badge variant="ghost" icon="globe" text="Web"](https://aniyomi.org/) [!badge variant="ghost" size="xs" text="Manga"]
+- [**Aniyomi**](https://github.com/jmir1/aniyomi/) [!badge variant="ghost" icon="globe" text="Web"](https://aniyomi.org/) [!badge variant="ghost" size="xs" text="Manga"]
     - Tachiyomi fork for anime
     - Clean and minimal design
     - Offers other types of media too
@@ -54,28 +55,27 @@ ___
 ===
 
 ### Light Novel
-- [Moon+ Reader Pro](https://play.google.com/store/apps/details?id=com.flyersoft.moonreaderp&hl=en&gl=US)
+- [**Moon+ Reader Pro**](https://play.google.com/store/apps/details?id=com.flyersoft.moonreaderp&hl=en&gl=US)
     - Customizable UI
     - Online source support
     - In-app reading analytics
     - Backup & restore support
     - No tracker support
     - Many features are paywalled, free version displays banner ads
-- [ReadEra](https://play.google.com/store/apps/details?id=org.readera&hl=en&gl=US)
+- [**ReadEra**](https://play.google.com/store/apps/details?id=org.readera&hl=en&gl=US)
     - Nice UI with limited customization
     - Free version doesn't have ads.
     - No in-app reading analytics
     - Good amount of features are behind paywall
     - No online source & tracker support
-- [Shosetsu](https://gitlab.com/shosetsuorg/shosetsu) [!badge variant="ghost" icon="globe" text="Web"](https://shosetsu.app/)
+- [**Shosetsu**](https://gitlab.com/shosetsuorg/shosetsu) [!badge variant="ghost" icon="globe" text="Web"](https://shosetsu.app/)
     - Minimal UI with a lot of customization
     - Has CSS support
     - Slow dowload and no epub conversion
     - No image, single page & tracking support
-- [Quicknovel](https://github.com/LagradOst/QuickNovel)
+- [**Quicknovel**](https://github.com/LagradOst/QuickNovel)
     - Good UI with lots of customization including fonts
     - Fast dowload and epub conversion
-    - Local reader & external app support
     - Support images (only for supported sources)
     - Slow app update with broken sources
     - No single page & tracking support
@@ -124,18 +124,46 @@ ___
 ## iOS
 ___
 ### Manga
-- [Paperback](https://github.com/Paperback-iOS/app) [!badge variant="ghost" icon="globe" text="Web"](https://paperback.moe/)
-- [Aidoku](https://github.com/Aidoku/Aidoku) [!badge variant="ghost" icon="globe" text="Web"](https://aidoku.app/)
+- [**Paperback**](https://github.com/Paperback-iOS/app) [!badge variant="ghost" icon="globe" text="Web"](https://paperback.moe/)
+    - Very clean UI with changeable theme
+    - Tracker & sync support
+    - Many different download options
+    - AppStore Release only for selected countries
+- [**Aidoku**](https://github.com/Aidoku/Aidoku) [!badge variant="ghost" icon="globe" text="Web"](https://aidoku.app/)
+    - Available on Tesflight (no Sideloading needed)
+    - Many sources
+    - Tracker support
+    - Chapter download possible
+    - Still in active Development
+- [**Hanami**](https://github.com/oolxg/Hanami)
+    - Available on Testflight (no Sideloading required)
+    - OK-ish UI with some lags
+    - only MangaDex as a source. So, therefore no official releases
+- [**SideBooks**](https://apps.apple.com/us/app/sidebooks/id409777225) [!badge variant="ghost" size="xs" text="Local"]
+    - Supports PDF,ZIP,CBZ,RAR and CBR
+    - Has all the necessary features
+    - Old looking UI but very functional and customizable.
+
+=== More
 - [Manga x Manga](https://github.com/chubimauk) [!badge variant="ghost" icon="globe" text="Web"](https://mangaxmanga.com/)
-- [Hanami](https://github.com/oolxg/Hanami)
 - Manga Max [!badge variant="ghost" icon="globe" text="Web"](https://apps.apple.com/us/app/manga-reader-manga-max/id1558957618)
-- [SideBooks](https://apps.apple.com/us/app/sidebooks/id409777225) [!badge variant="ghost" size="xs" text="Local"]
 - [YACReader](https://apps.apple.com/app/id635717885) [!badge variant="ghost" size="xs" text="Local"] [!badge variant="ghost" size="xs" text="Paid"]
+===
 
 ### Anime
-- [9Animator](https://github.com/SuperMarcus/NineAnimator)
-- [Anime Now](https://github.com/AnimeNow-Team/AnimeNow)
-- [Ketsu](https://ketsu.app/) [!badge variant="ghost" icon="globe" text="Modules"](https://bilnaa.github.io/main/) [!badge variant="ghost" size="xs" text="Manga"]  [!badge variant="ghost" size="xs" text="macOS"] 
+- [**Anime Now**](https://github.com/AnimeNow-Team/AnimeNow)
+    - Great UI with extension support
+    - Download available
+    - Casting possible
+    - Trackers available
+    - Only available trough sideloading
+- [**9Animator**](https://github.com/SuperMarcus/NineAnimator)
+    - Decent UI with extension integration
+    - Casting & notification support
+    - Tracking support
+    - Downloading episode available
+    - Small number of extensions 
+    - Only available trough sideloading
 
 ![](/static/banner/linux.png)
 ## Linux
