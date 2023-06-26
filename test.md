@@ -52,12 +52,12 @@ visibility: hidden
 
 ===
 
-#### More
+=== More
 - [Animiru](https://github.com/Quickdesh/Animiru) [!badge variant="ghost" text="Anime only"] [!badge variant="ghost" text="RPC"]
 - [Animity](https://github.com/kl3jvi/animity)
 - [Enimax](https://github.com/enimax-anime/enimax)
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
-
+===
 
 ### Light Novel
 - [Moon+ Reader Pro](https://play.google.com/store/apps/details?id=com.flyersoft.moonreaderp&hl=en&gl=US)
@@ -97,7 +97,8 @@ visibility: hidden
     - No single page & tracking support
 ===
 
-#### More
+=== More
 - [LN Reader](https://github.com/LNReader/lnreader)
 - [ranobe](https://github.com/ranobe-org/ranobe)
 - [Lithium: EPUB Reader](https://play.google.com/store/apps/details?id=com.faultexception.reader&hl=en&gl=US)
+===
