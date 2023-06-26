@@ -14,12 +14,12 @@ visibility: hidden
     - Download and local reader support
     - Tracking & sync support
     - High cache consumption
-
 - [**Kotatsu**](https://github.com/KotatsuApp/Kotatsu)
     - Minimalist UI
     - Offers Manga Suggestions
     - Download and local reader support
     - Tracking & sync support
+    
 ===
 
 ### Anime
@@ -35,14 +35,12 @@ visibility: hidden
     - Also offers manga reader
     - anime streaming/reading only
     - Anilist tracking and database and MAL
-
 - [**Cloudstream**](https://github.com/recloudstream/cloudstream)
     - Minimalist Customizable UI
     - Offers other types of media too
     - Tracking & backup support
     - Local player support
     - need to be part of the discord server to get the extension urls
-
 - [**Aniyomi**](https://github.com/jmir1/aniyomi/)
     - Tachiyomi fork for anime
     - Clean and minimal design
@@ -73,21 +71,17 @@ visibility: hidden
     - Backup & restore support
     - No tracker support
     - Many features are paywalled, free version displays banner ads.
-
 - [**ReadEra**](https://play.google.com/store/apps/details?id=org.readera&hl=en&gl=US)
     - Nice UI with limited customization
     - Free version doesn't have ads.
     - No in-app reading analytics
     - Good amount of features are behind paywall
     - No online source & tracker support
-
 - [**Shosetsu**](https://gitlab.com/shosetsuorg/shosetsu)
     - Minimal UI with a lot of customization
     - Has CSS support
     - Slow dowload and no epub conversion
     - No image, single page & tracking support
-
-
 - [**Quicknovel**](https://github.com/LagradOst/QuickNovel)
     - Good UI with lots of customization including fonts
     - Fast dowload and epub conversion
