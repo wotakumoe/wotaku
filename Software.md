@@ -176,20 +176,20 @@ ___
     - Tracking support
     - Doesn't scale
 - [Komikku](https://gitlab.com/valos/Komikku)
-    * gtk based and it feels native with a good number of extensions
-    * supports downloading for offline usage
-    * flatpak support
+    * GTK based and it feels native with a good number of extensions
+    * Supports downloading for offline usage
+    * Flatpak support
     * No tracking support
 - [Tachidesk-JUI](https://github.com/Suwayomi/Tachidesk-JUI)
     * Built-in tachidesk-server
     * Tracking support
-    * it's cross platform since it's java
-    * java based, so it doesn't feel native
-    * no flatpak
+    * Cross platform since it's java
+    * Java based, so it doesn't feel native
+    * No flatpak
 - [Tachidesk-Server](https://github.com/Suwayomi/Tachidesk-Server)
-    * it's basically the server with [web-ui](https://github.com/Suwayomi/Tachidesk-WebUI), you get latest features since it's the backend itself, and three launch options
-    * it's cross platform
-    * image cache option for reduce of net usage
+    * Basically the server with [web-ui](https://github.com/Suwayomi/Tachidesk-WebUI), you get latest features since it's the backend itself, and three launch options
+    * Cross platform
+    * Image cache option for reduce of net usage
     * No tracking support
 
 #### Offline
@@ -198,7 +198,7 @@ ___
     * Simple and straightforward
     * Supports all the formats
 - [YACReader](https://www.yacreader.com/downloads) [!badge variant="ghost" size="xs" text="Local"]
-    * a simple comic reader that supports a wide variety of comic files
+    * Simple comic reader that supports a wide variety of comic files
     * Server support for the other platforms
 - [MComix](https://sourceforge.net/projects/mcomix/) [!badge variant="ghost" size="xs" text="Local"]
     * Simple comic reader

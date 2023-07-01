@@ -134,6 +134,7 @@ ___
 - [PureToons](https://puretoons.cc/)
 - [Anime Academy](https://animeacademy.in/) [!badge variant="ghost" size="xs" text="DDL"]
 - [Toonworld4all](https://toonworld4all.me/) [!badge variant="ghost" size="xs" text="DDL"]
+- [Toonworld Tamil](https://toonworldtamil.com) [!badge variant="ghost" size="xs" text="DDL"]
 
 #### Indonesian
 - [Anichin](https://anichin.vip/)

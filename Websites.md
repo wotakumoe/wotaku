@@ -183,6 +183,7 @@ ___
 - [Ani-One Aisa](https://www.youtube.com/AniOneAsia/) [!badge variant="ghost" size="xs" text="Regional"]
 - [Pokémon TV](https://poke-tv.vercel.app/)  [!button variant="ghost" icon="mark-github" size="xs" text="Github"](https://github.com/seiya-dev/pokemon-tv) [!badge variant="ghost" size="xs" text="Multi-lang"]
 - [LM Anime](https://lmanime.com/) [!badge variant="ghost" size="xs" text="Donghua"]
+- [AnimeXin](https://animexin.vip/) [!badge variant="ghost" size="xs" text="Donghua"]
 ===
 
 > All the **Legal** anime streaming services are listed [here](https://otakulogy.github.io/anime-streaming/).
@@ -245,6 +246,7 @@ ___
 ### Stream
 - [Anithemes.moe](https://animethemes.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/AnimeThemes)
 - [Themes.moe](https://themes.moe/)
+- [SquidBoard Play](https://play.squid-board.org/app/)
 - [LISTEN.moe](https://listen.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/LISTEN-moe)
 
 ### Direct Download
