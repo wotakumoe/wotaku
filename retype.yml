@@ -23,10 +23,6 @@ links:
     link: https://github.com/anotherduckling/Wotaku
     icon: mark-github
 
-  - text: Lemmy
-    link: https://lemmy.fmhy.ml/c/wotaku
-    icon: /static/asset/lemmy.png
-
 integrations:
   plausible:
     domain: wotaku.pages.dev, wotaku.its.moe

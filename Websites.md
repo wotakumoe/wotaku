@@ -41,7 +41,7 @@ ___
     * No Compressed uploads (If source had no compression)
     * Has official translations
     * UI is a bit cluttered with no upload tags
-- [**Batoto**](https://battwo.com/v3x) [!badge variant="danger" size="xs" text="R+"]
+- [**Batoto**](https://battwo.com/v3x) | [Mangatoto](https://mangatoto.com/) [!badge variant="danger" size="xs" text="R+"]
     - Has official translations
     - Has some exclusive uploads
     - Indexing is poor quality
@@ -178,11 +178,12 @@ ___
 - [Animedao](https://animedao.to/) [!badge variant="ghost" size="xs" text="gogo"]
 - [Yugen](https://yugenanime.ro/) [!badge variant="ghost" size="xs" text="gogo"]
 
-#### Others
+=== More
 - [Muse Asia](https://www.youtube.com/@MuseAsia/) [!badge variant="ghost" size="xs" text="Regional"]
 - [Ani-One Aisa](https://www.youtube.com/AniOneAsia/) [!badge variant="ghost" size="xs" text="Regional"]
 - [Pokémon TV](https://poke-tv.vercel.app/)  [!button variant="ghost" icon="mark-github" size="xs" text="Github"](https://github.com/seiya-dev/pokemon-tv) [!badge variant="ghost" size="xs" text="Multi-lang"]
 - [LM Anime](https://lmanime.com/) [!badge variant="ghost" size="xs" text="Donghua"]
+===
 
 > All the **Legal** anime streaming services are listed [here](https://otakulogy.github.io/anime-streaming/).
 

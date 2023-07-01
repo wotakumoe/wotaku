@@ -169,6 +169,7 @@ ___
 
 ### Others
 - [3x3 Generator](https://gqgs.github.io/3x3-generator/)
+- [Animepool](https://www.anipool.app/)
 - [Imgtrans](https://touhou.ai/imgtrans/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/zyddnys/manga-image-translator)
 - [MAL/AL/K/AP lists XML Exporter](https://malscraper.azurewebsites.net/)
 - [Trakt to MAL](https://anitrakt.huere.net/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/ryuuganime/aniTrakt-IndexParser)

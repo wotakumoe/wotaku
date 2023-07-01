@@ -169,11 +169,41 @@ ___
 ## Linux
 ___
 ### Manga
-- [ahoviewer](https://github.com/ahodesuka/ahoviewer)
+
+#### Online
+- [houdoku](https://github.com/xgi/houdoku)
+    - Simple UI with lots of extension
+    - Tracking support
+    - Doesn't scale
 - [Komikku](https://gitlab.com/valos/Komikku)
-- [MComix](https://sourceforge.net/projects/mcomix/)
-- [Tachidesk](https://github.com/Suwayomi/Tachidesk-Server) [!badge variant="ghost" icon="tab-external" text="Clients"](https://github.com/Suwayomi/Tachidesk-Server#tachidesk-client-projects)
-- [YACReader](https://www.yacreader.com/)
+    * gtk based and it feels native with a good number of extensions
+    * supports downloading for offline usage
+    * flatpak support
+    * No tracking support
+- [Tachidesk-JUI](https://github.com/Suwayomi/Tachidesk-JUI)
+    * Built-in tachidesk-server
+    * Tracking support
+    * it's cross platform since it's java
+    * java based, so it doesn't feel native
+    * no flatpak
+- [Tachidesk-Server](https://github.com/Suwayomi/Tachidesk-Server)
+    * it's basically the server with [web-ui](https://github.com/Suwayomi/Tachidesk-WebUI), you get latest features since it's the backend itself, and three launch options
+    * it's cross platform
+    * image cache option for reduce of net usage
+    * No tracking support
+
+#### Offline
+- [Okular](https://github.com/KDE/okular) [!badge variant="ghost" size="xs" text="Local"]
+    * Ships by default with kde plasma
+    * Simple and straightforward
+    * Supports all the formats
+- [YACReader](https://www.yacreader.com/downloads) [!badge variant="ghost" size="xs" text="Local"]
+    * a simple comic reader that supports a wide variety of comic files
+    * Server support for the other platforms
+- [MComix](https://sourceforge.net/projects/mcomix/) [!badge variant="ghost" size="xs" text="Local"]
+    * Simple comic reader
+    * Dark mode missing
+
 
 ### Light Novel
 - [Foliate](https://github.com/johnfactotum/foliate) [!badge variant="ghost" icon="globe" text="Web"](https://johnfactotum.github.io/foliate/)
