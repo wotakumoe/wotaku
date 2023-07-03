@@ -245,7 +245,7 @@ ___
 ### Stream
 - [Anithemes.moe](https://animethemes.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/AnimeThemes)
 - [Themes.moe](https://themes.moe/)
-- [SquidBoard Play](https://play.squid-board.org/app/)
+- [Squidify](https://play.squid-board.org/app/)
 - [LISTEN.moe](https://listen.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/LISTEN-moe)
 
 ### Direct Download
