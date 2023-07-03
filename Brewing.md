@@ -17,9 +17,7 @@ ___
 
 
 ### Anime
-- [Anify](https://anify.tv/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/Eltik/Anify-Frontend) [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Novel"]
 - [CoreProject](https://coreproject.moe/anime) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/baseplate-admin/CoreProject)
-- [Kato](https://kato.to/home)
 
 ### Miscellaneous
 - [Tankobon](https://tankobon.net/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/crxssed7/tankobon)
