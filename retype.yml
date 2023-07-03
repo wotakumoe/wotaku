@@ -23,11 +23,6 @@ links:
     link: https://github.com/anotherduckling/Wotaku
     icon: mark-github
 
-integrations:
-  plausible:
-    domain: wotaku.pages.dev
-    host: https://ina.tasky.workers.dev/meow/script.js
-
 footer:
 
 copyright: ""
