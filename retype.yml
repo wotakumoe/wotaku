@@ -25,7 +25,7 @@ links:
 
 integrations:
   plausible:
-    domain: wotaku.pages.dev, wotaku.its.moe
+    host: https://ina.tasky.workers.dev/js/script.js
 
 footer:
 
