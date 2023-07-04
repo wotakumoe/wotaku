@@ -153,7 +153,7 @@ ___
     - Uploads encoded **Blu-ray** versions if available
     - Clutter-free design and no watermark
     - Marin has a good amount of missing titles, especially movies
-- [**Zoro**](https://zoro.to/home)
+- [**Aniwatch**](https://aniwatch.to/home) `AKA ZORO`
     - Huge library with Watch Together feature
     - Re-encodes shows for smaller size with minimal loss in video quality
     - Softsubs may create issues in different scenarios, but can be beneficial for multi-language support
@@ -183,6 +183,8 @@ ___
 - [LM Anime](https://lmanime.com/) [!badge variant="ghost" size="xs" text="Donghua"]
 - [AnimeXin](https://animexin.vip/) [!badge variant="ghost" size="xs" text="Donghua"]
 ===
+
+> Use [!badge variant="ghost" icon="/static/icon/ada.png"  text="AdAway"](https://adaway.org/) or [!badge variant="ghost" icon="/static/icon/adg.png"  text="Adguard"](https://adguard.com/en/welcome.html) for Android and [!badge variant="ghost" icon="/static/icon/ubo.png"  text="uBlock Origin"](https://ublockorigin.com/) for browsers to get rid of all the ads and trakcers.
 
 > All the **Legal** anime streaming services are listed [here](https://otakulogy.github.io/anime-streaming/).
 
