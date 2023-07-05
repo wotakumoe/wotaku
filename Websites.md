@@ -153,7 +153,7 @@ ___
     - Uploads encoded **Blu-ray** versions if available
     - Clutter-free design and no watermark
     - Marin has a good amount of missing titles, especially movies
-- [**Aniwatch**](https://aniwatch.to/home) `AKA ZORO`
+- [**Aniwatch**](https://aniwatch.to/home) `aka Zoro`
     - Huge library with Watch Together feature
     - Re-encodes shows for smaller size with minimal loss in video quality
     - Softsubs may create issues in different scenarios, but can be beneficial for multi-language support

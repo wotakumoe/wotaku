@@ -26,6 +26,11 @@ ___
     - Tracking & sync support
     - Lacks some basic features
 - [**Perfect Viewer**](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Local"]
+    - The reader itself is really good with a lot of filters
+    - Has plugin support for the cloud services but not for manga websites
+    - Support for all the comic formats.
+    - The app is light but the UI looks old
+    - A few features are behind paywall
 
 ### Anime
 - [**Saikou**](https://github.com/saikou-app/saikou/) [!badge variant="ghost" icon="video" text="TV"](https://github.com/siennaXD/SaikouTV/)  [!badge variant="ghost" icon="globe" text="Web"](https://saikou.pages.dev/)
@@ -164,49 +169,6 @@ ___
     - Downloading episode available
     - Small number of extensions 
     - Only available trough sideloading
-
-![](/static/banner/linux.png)
-## Linux
-___
-### Manga
-
-#### Online
-- [houdoku](https://github.com/xgi/houdoku)
-    - Simple UI with lots of extension
-    - Tracking support
-    - Doesn't scale
-- [Komikku](https://gitlab.com/valos/Komikku)
-    * GTK based and it feels native with a good number of extensions
-    * Supports downloading for offline usage
-    * Flatpak support
-    * No tracking support
-- [Tachidesk-JUI](https://github.com/Suwayomi/Tachidesk-JUI)
-    * Built-in tachidesk-server
-    * Tracking support
-    * Cross platform since it's java
-    * Java based, so it doesn't feel native
-    * No flatpak
-- [Tachidesk-Server](https://github.com/Suwayomi/Tachidesk-Server)
-    * Basically the server with [web-ui](https://github.com/Suwayomi/Tachidesk-WebUI), you get latest features since it's the backend itself, and three launch options
-    * Cross platform
-    * Image cache option for reduce of net usage
-    * No tracking support
-
-#### Offline
-- [Okular](https://github.com/KDE/okular) [!badge variant="ghost" size="xs" text="Local"]
-    * Ships by default with kde plasma
-    * Simple and straightforward
-    * Supports all the formats
-- [YACReader](https://www.yacreader.com/downloads) [!badge variant="ghost" size="xs" text="Local"]
-    * Simple comic reader that supports a wide variety of comic files
-    * Server support for the other platforms
-- [MComix](https://sourceforge.net/projects/mcomix/) [!badge variant="ghost" size="xs" text="Local"]
-    * Simple comic reader
-    * Dark mode missing
-
-
-### Light Novel
-- [Foliate](https://github.com/johnfactotum/foliate) [!badge variant="ghost" icon="globe" text="Web"](https://johnfactotum.github.io/foliate/)
 
 
 ![](/static/banner/dler.png)
