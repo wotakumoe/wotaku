@@ -12,7 +12,7 @@ ___
 ## Terms 
 
 #### 4-Koma
-4-Koma (a.k.a. Yonkoma manga) features four panels, follows a specific pattern where every four panels lead up to a punchline. These are read up-down instead of traditional right-left. The right column is always the staring column. Example: [Tsurezure Children](https://mangadex.org/title/a840d47c-4080-4783-9c42-af8100e48079/tsurezure-children)
+4-Koma (a.k.a. Yonkoma manga) features four panels, follows a specific pattern where every four panels lead up to a punchline. These are read up-down instead of traditional right-left. The right column is always the starting column. Example: [Tsurezure Children](https://mangadex.org/title/a840d47c-4080-4783-9c42-af8100e48079/tsurezure-children)
 
 ![Tsurezure Children ch. 20](/static/glossary/manga/4koma.jpg)
 
@@ -99,7 +99,7 @@ The translator translates all the text in the manga, including dialogues, sound 
 ![TL script of Living, Eating, and Sleeping Together ch. 1 (Page 1-5) (Helvetica Scans)](/static/glossary/manga/tl.png)
 
 #### Typesetter (TS)
-Typesetter takes the translated script from the translator and typeset it on the panel with appropriate font, formating & sfx drawing. Sometimes TS can do both translation and typesetting.
+Typesetter takes the translated script from the translator and typeset it on the panel with appropriate font, formatting & sfx drawing. Sometimes TS can do both translation and typesetting.
 
 #### Proof reader (PR)
 PR reviews all translated text to correct any typos, awkward translations, or grammar issues. It is essential that PR is fluent in the translation language. The job of PR may become unnecessary if the TL is highly experienced, as QC could potentially take on the responsibilities.

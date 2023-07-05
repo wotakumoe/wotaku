@@ -32,6 +32,7 @@ ___
     - The app is light but the UI looks old
     - A few features are behind paywall
 
+
 ### Anime
 - [**Saikou**](https://github.com/saikou-app/saikou/) [!badge variant="ghost" icon="video" text="TV"](https://github.com/siennaXD/SaikouTV/)  [!badge variant="ghost" icon="globe" text="Web"](https://saikou.pages.dev/)
     - Decent UI but limited customization
