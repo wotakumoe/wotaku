@@ -184,7 +184,7 @@ ___
 - [AnimeXin](https://animexin.vip/) [!badge variant="ghost" size="xs" text="Donghua"]
 ===
 
-> Use [!badge variant="ghost" icon="/static/icon/ada.png"  text="AdAway"](https://adaway.org/) or [!badge variant="ghost" icon="/static/icon/adg.png"  text="Adguard"](https://adguard.com/en/welcome.html) for Android and [!badge variant="ghost" icon="/static/icon/ubo.png"  text="uBlock Origin"](https://ublockorigin.com/) for browsers to get rid of all the ads and trakcers.
+> Use [!badge variant="ghost" icon="/static/icon/ada.png"  text="AdAway"](https://adaway.org/) or [!badge variant="ghost" icon="/static/icon/adg.png"  text="Adguard"](https://adguard.com/en/welcome.html) on Android and [!badge variant="ghost" icon="/static/icon/ubo.png"  text="uBlock Origin"](https://ublockorigin.com/) in browsers to get rid of all the ads and trakcers.
 
 > All the **Legal** anime streaming services are listed [here](https://otakulogy.github.io/anime-streaming/).
 
