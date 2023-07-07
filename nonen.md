@@ -21,6 +21,9 @@ ___
 - [Nine Manga](https://www.ninemanga.com/)
 - [Novel Cool](https://novelcool.com/)
 
+#### Balkan
+- [Manga Balkan](https://mangabalkan.org/)
+
 #### Chinese
 - [Manhua Gui](https://www.manhuagui.com/)
 - [8Comic](https://www.comicabc.com/)
@@ -87,6 +90,9 @@ ___
 - [Wit anime](https://witanime.com/)
 - [XSAnime](https://v.xsanime.com/)
 
+#### Balkan
+- [Anime Balkan](https://animebalkan.gg/)
+
 #### Bangla
 - [Bangla Dub Zone](http://bangladubzone.xyz/)
 
@@ -125,6 +131,7 @@ ___
 - [Aniflix](https://aniflix.cc/)
 - [Anime Loads](https://www.anime-loads.org/) [!badge variant="ghost" size="xs" text="Stream"] [!badge variant="ghost" size="xs" text="DDL"] 
 - [Animes](https://www.animes.so/) [!badge variant="ghost" size="xs" text="DDL"]
+- [AnimeWorld](https://animeworld.cx/) [!badge variant="ghost" size="xs" text="Torrent"]
 
 #### Greek
 - [An1me](https://an1me.to/) (Adblock filter `an1me.to##+js(acis, Math)`)

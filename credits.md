@@ -16,7 +16,7 @@ ___
 
 #### Special Thanks to
 
-[!badge variant="dark" size="xl" text="**Abyss**"](https://github.com/knightmob) [!badge variant="dark" size="xl" text="**KAI**"](https://github.com/Kai-FMHY) [!badge variant="dark" size="xl" text="**Taskylizard**"](https://github.com/taskylizard) [!badge variant="dark" size="xl" text="**TubaApollo**"](https://github.com/TubaApollo)
+[!badge variant="dark" size="xl" text="**Abyss**"](https://github.com/knightmob) [!badge variant="dark" size="xl" text="**KAI**"](https://github.com/Kai-FMHY) [!badge variant="dark" size="xl" text="**Memenami**"] [!badge variant="dark" size="xl" text="**Taskylizard**"](https://github.com/taskylizard) [!badge variant="dark" size="xl" text="**TubaApollo**"](https://github.com/TubaApollo)
 
 ## Art Credits
 - Ninomae Ina'nis's Padoru by [how-dee](https://www.reddit.com/r/Padoru/comments/iu6jvx/ninomae_inanis_hololive/)

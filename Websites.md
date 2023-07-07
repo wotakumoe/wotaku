@@ -126,7 +126,23 @@ ___
 
 > I have added all the well-known scanlators for manhwa and manhua, but for manga, it's not practical or possible to add all the famous ones. So I have added my favorite ones. Yes, this section is kind of biased.
 
-> All the **Legal** manga reading sites are listed [here](https://otakulogy.github.io/manga-platform/) and [here](https://wherecanireadmanga.com/).
+=== Nyaa Uploaders
+- [-KS-](https://nyaa.si/user/KaiDubs)
+- [0v3r](https://nyaa.si/user/0v3r)
+- [1r0n](https://nyaa.si/user/tsuna69)
+- [Anadius](https://nyaa.si/user/anadius)
+- [Aro](https://nyaa.si/user/ayylmoa)
+- [Danke](https://nyaa.si/user/danke)
+- [Digital Manga Fan](https://nyaa.si/user/digitalmangafan)
+- [KG](https://nyaa.si/user/Mr_Kimiko)
+- [Lord_ne](https://nyaa.si/user/lord_ne)
+- [Lucaz](https://nyaa.si/user/LuCaZ)
+- [Oakminati](https://nyaa.si/user/Oakminati)
+- [Shellshock](https://nyaa.si/user/shellshock)
+- [Shizu](https://nyaa.si/user/wolfsbanes)
+- [Stick](https://nyaa.si/user/dumbboy58)
+- [Ushi](https://nyaa.si/user/bakaushi)
+===
 
 ### Direct Download
 
@@ -134,6 +150,8 @@ ___
 - [mp4directs](https://mp4directs.com/)
 - [jnovels](https://jnovels.com/manga-cbz-cbr-pdfs-download101/)
 - [Anna's Archive](https://annas-archive.org/)
+
+> All the **Legal** manga reading sites are listed [here](https://otakulogy.github.io/manga-platform/) and [here](https://wherecanireadmanga.com/).
 
 ![](/static/banner/anime.png)
 
@@ -186,7 +204,6 @@ ___
 
 > Use [!badge variant="ghost" icon="/static/icon/ada.png"  text="AdAway"](https://adaway.org/) or [!badge variant="ghost" icon="/static/icon/adg.png"  text="Adguard"](https://adguard.com/en/welcome.html) on Android and [!badge variant="ghost" icon="/static/icon/ubo.png"  text="uBlock Origin"](https://ublockorigin.com/) in browsers to get rid of all the ads and trakcers.
 
-> All the **Legal** anime streaming services are listed [here](https://otakulogy.github.io/anime-streaming/).
 
 ### Direct Download
 - [Tokyo Insider](https://www.tokyoinsider.com/) [!badge variant="ghost" size="xs" text="Direct"] [!badge variant="ghost" size="xs" text="no ad"]
@@ -240,13 +257,15 @@ ___
 
 ![](/static/banner/ost.png)
 
+> All the **Legal** anime streaming services are listed [here](https://otakulogy.github.io/anime-streaming/).
+
 ## Original Sound Track
 ___
 
 ### Stream
 - [Anithemes.moe](https://animethemes.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/AnimeThemes)
 - [Themes.moe](https://themes.moe/)
-- [Squidify](https://play.squid-board.org/app/)
+- [Squidify](https://www.squidify.org/)
 - [LISTEN.moe](https://listen.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/LISTEN-moe)
 
 ### Direct Download
@@ -288,6 +307,13 @@ ___
 - [AniDL](https://xyz.iamzlnk.one/0:/)
 - [MP4 Directs](https://mp4directs.com/)
 - [All EPUBs](https://boroboro.neocities.org/listfullepub) [!badge variant="ghost" icon="/static/icon/jp.png" text="JP"]
+
+=== Nyaa Uploaders
+- [Ganba](https://nyaa.si/user/Ganba)
+- [How Unfortunate](https://nyaa.si/user/HowUnfortunate)
+- [Lucaz](https://nyaa.si/user/LuCaZ)
+- [Stick](https://nyaa.si/user/dumbboy58)
+===
 
 ![](/static/banner/vn.png)
 ## Visual Novels
