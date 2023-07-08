@@ -24,3 +24,13 @@ ___
 > Please note that I may choose not to add the site if it is redundant or if it does not meet my preferences.
 
 ___
+
+# Wotaku Stonk 🚀
+
+<a href="https://star-history.com/#anotherduckling/Wotaku&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=anotherduckling/Wotaku&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=anotherduckling/Wotaku&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=anotherduckling/Wotaku&type=Date" />
+  </picture>
+</a>

@@ -126,7 +126,7 @@ ___
 
 > I have added all the well-known scanlators for manhwa and manhua, but for manga, it's not practical or possible to add all the famous ones. So I have added my favorite ones. Yes, this section is kind of biased.
 
-=== Nyaa Uploaders
+### Nyaa Uploaders
 - [-KS-](https://nyaa.si/user/KaiDubs)
 - [0v3r](https://nyaa.si/user/0v3r)
 - [1r0n](https://nyaa.si/user/tsuna69)
@@ -142,7 +142,6 @@ ___
 - [Shizu](https://nyaa.si/user/wolfsbanes)
 - [Stick](https://nyaa.si/user/dumbboy58)
 - [Ushi](https://nyaa.si/user/bakaushi)
-===
 
 ### Direct Download
 
@@ -308,12 +307,13 @@ ___
 - [MP4 Directs](https://mp4directs.com/)
 - [All EPUBs](https://boroboro.neocities.org/listfullepub) [!badge variant="ghost" icon="/static/icon/jp.png" text="JP"]
 
-=== Nyaa Uploaders
+
+### Nyaa Uploaders
 - [Ganba](https://nyaa.si/user/Ganba)
 - [How Unfortunate](https://nyaa.si/user/HowUnfortunate)
 - [Lucaz](https://nyaa.si/user/LuCaZ)
 - [Stick](https://nyaa.si/user/dumbboy58)
-===
+
 
 ![](/static/banner/vn.png)
 ## Visual Novels
