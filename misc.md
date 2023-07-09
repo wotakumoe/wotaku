@@ -40,7 +40,6 @@ ___
 #### Database
 - [aniDB](https://anidb.net/)
 - [Anilist](https://anilist.co/)
-- [Anime Karma List](https://animekarmalist.com/)
 - [Anime News Network](https://www.animenewsnetwork.com/)
 - [AniSearch](https://www.anisearch.com/)
 - [MyAnimeList](https://myanimelist.net/)
@@ -57,6 +56,7 @@ ___
 
 
 #### Stats/Watch guide
+- [Anime Karma List](https://animekarmalist.com/)
 - [Anime Stats](https://anime-stats.net/)
 - [Kitsu Season Trends](https://season.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/wopian/kitsu-season-trends)
 - [Anime Filler Guide](https://www.animefillerguide.com/)
@@ -70,7 +70,7 @@ ___
 - [Aniplaylist](https://aniplaylist.com/)
 - [Seadex](https://releases.moe/)
 - [Sneedex](https://sneedex.moe/) [!badge variant="ghost" icon="/static/icon/discord.svg" text="Bot"](https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot)
-- [Fansubbers' Index](https://index.fansubcar.tel/)
+- [A Certain Fansubber's Index](https://index.fansubcar.tel/)
 - [Fansub Database](https://fansubdb.com/)
 - [German Fansubbers' Index](https://anime-fansubs.de/)
 - [Indonasian Fansubbers' Index](https://www.fansub.id/home)

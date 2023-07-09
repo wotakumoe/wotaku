@@ -12,26 +12,6 @@ ___
 ![](/static/banner/and.png)
 ## Android
 ___
-### Manga
-- [**Tachiyomi**](https://github.com/tachiyomiorg/tachiyomi/) [!badge variant="ghost" icon="globe" text="Web"](https://tachiyomi.org/) [!badge variant="ghost" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/)
-    - Great Customizable UI
-    - Ton of manga sources
-    - Download and local reader support
-    - Tracking & sync support
-    - High cache consumption
-- [**Kotatsu**](https://github.com/KotatsuApp/Kotatsu) [!badge variant="ghost" icon="globe" text="Web"](https://kotatsu.app/)
-    - Minimalist UI with limited customization
-    - Offers Manga Suggestions
-    - Download and local reader support
-    - Tracking & sync support
-    - Lacks some basic features
-- [**Perfect Viewer**](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Local"]
-    - The reader itself is really good with a lot of filters
-    - Has plugin support for the cloud services but not for manga websites
-    - Support for all the comic formats.
-    - The app is light but the UI looks old
-    - A few features are behind paywall
-
 
 ### Anime
 - [**Saikou**](https://github.com/saikou-app/saikou/) [!badge variant="ghost" icon="video" text="TV"](https://github.com/siennaXD/SaikouTV/)  [!badge variant="ghost" icon="globe" text="Web"](https://saikou.pages.dev/)
@@ -59,6 +39,28 @@ ___
 - [Enimax](https://github.com/enimax-anime/enimax)
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
 ===
+
+
+### Manga
+- [**Tachiyomi**](https://github.com/tachiyomiorg/tachiyomi/) [!badge variant="ghost" icon="globe" text="Web"](https://tachiyomi.org/) [!badge variant="ghost" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/)
+    - Great Customizable UI
+    - Ton of manga sources
+    - Download and local reader support
+    - Tracking & sync support
+    - High cache consumption
+- [**Kotatsu**](https://github.com/KotatsuApp/Kotatsu) [!badge variant="ghost" icon="globe" text="Web"](https://kotatsu.app/)
+    - Minimalist UI with limited customization
+    - Offers Manga Suggestions
+    - Download and local reader support
+    - Tracking & sync support
+    - Lacks some basic features
+- [**Perfect Viewer**](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Local"]
+    - The reader itself is really good with a lot of filters
+    - Has plugin support for the cloud services but not for manga websites
+    - Support for all the comic formats.
+    - The app is light but the UI looks old
+    - A few features are behind paywall
+
 
 ### Light Novel
 - [**Moon+ Reader Pro**](https://play.google.com/store/apps/details?id=com.flyersoft.moonreaderp&hl=en&gl=US)
@@ -95,6 +97,7 @@ ___
 ![](/static/banner/pc.png)
 ## PC
 ___
+
 ### Manga
 
 #### Online
@@ -114,12 +117,6 @@ ___
 - [Tanoshi](https://github.com/faldez/tanoshi) [!badge variant="ghost" icon="globe" text="Web"](https://faldez.github.io/tanoshi/)
 - [YACReader](https://github.com/YACReader/yacreader) [!badge variant="ghost" icon="globe" text="Web"](https://www.yacreader.com/)
 - [Yomikiru](https://github.com/mienaiyami/yomikiru)
-
-### Anime
-
-- [ani-cli](https://github.com/pystardust/ani-cli)
-- [Miru](https://github.com/ThaUnknown/miru/) [!badge variant="dark" size="xs" text="Torrent"]
-
 
 ### Light Novel
 - [Kavita](https://github.com/Kareadita/Kavita) [!badge variant="ghost" icon="globe" text="Web"](https://www.kavitareader.com/)
@@ -213,6 +210,5 @@ ___
 
 ### Others
 - [gallery-dl](https://github.com/mikf/gallery-dl)
-- [hydrus network](https://hydrusnetwork.github.io/hydrus/)
 - [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/)
 - [PixivUtil2](https://github.com/Nandaka/PixivUtil2)

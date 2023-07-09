@@ -125,6 +125,7 @@ Active maintenance is necessary for scripts to work properly. If a script fails,
 ## Tools
 ___
 - [Anitomy](https://github.com/erengy/anitomy)
+- [Hydrus network](https://hydrusnetwork.github.io/hydrus/)
 - [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper)
 - [Shoko Anime](https://github.com/shokoanime) [!badge variant="ghost" icon="globe" text="Web"](https://shokoanime.com/)
 - [Smart Image](https://github.com/Decimation/SmartImage)

@@ -11,22 +11,22 @@ ___
 
 ## Websites
 
+#### Anime
+- [9anime](https://9anime.gs/home)
+- [Marin](https://marin.moe/)
+- [Aniwatch](https://aniwatch.to/home) `aka Zoro`
+- [Anime out](https://www.animeout.xyz/) [!badge variant="ghost" size="xs" text="DDL"]
+
 #### Manga
 - [Comick](https://comick.app/home)
 - [Mangadex](https://mangadex.org/)
 - [Atsumaru](https://atsu.moe/) | [Mangasee](https://mangasee123.com/)
 
-#### Anime
-- [9anime](https://9anime.gs/home)
-- [Marin](https://marin.moe/)
-- [Zoro](https://zoro.to/home)
-- [Anime out](https://www.animeout.xyz/) [!badge variant="ghost" size="xs" text="DDL"]
-
 #### OST
 - [Sitting on Clouds](https://www.sittingonclouds.net/) [!badge variant="ghost" size="xs" text="DDL"]
 - [SquidBoard](https://www.squid-board.org/)  [!badge variant="ghost" size="xs" text="DDL"]  [!badge variant="ghost" size="xs" text="Needs accounnt"]
 - [Anithemes.moe](https://animethemes.moe/) [!badge variant="ghost" size="xs" text="stream"]
-- [SquidBoard Play](https://www.squidify.org/)
+- [Squidify](https://www.squidify.org/)
 
 #### Torrent
 - [Nyaa](https://nyaa.si/)
@@ -54,11 +54,6 @@ ___
 - [Miru](https://github.com/ThaUnknown/miru/)
 - [Tachidesk](https://github.com/Suwayomi/Tachidesk-Server)
 
-#### Linux
-- [Komikku](https://gitlab.com/valos/Komikku)
-- [MComix](https://sourceforge.net/projects/mcomix/)
-- [Tachidesk](https://github.com/Suwayomi/Tachidesk-Server)
-- [Foliate](https://github.com/johnfactotum/foliate)
 
 #### Downloader
 - [Hakuneko](https://github.com/manga-download/hakuneko)
@@ -74,7 +69,7 @@ ___
 - [MAL Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned)
 
 #### Scripts
-- [9anime Bingewatcher+](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher) | [Zoro](https://greasyfork.org/en/scripts/464019-zoro-autofocus)
+- [9anime Bingewatcher+](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher)
 - [Anifilters](https://github.com/Karmesinrot/Anifiltrs)
 - [Find on Nyaa](https://greasyfork.org/en/scripts/379776-find-on-nyaa)
 - [MAL Dubs](https://greasyfork.org/en/scripts/376546-mal-myanimelist-dubs)
