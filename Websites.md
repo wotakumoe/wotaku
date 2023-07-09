@@ -114,7 +114,6 @@ ___
 
 > For VPN, use [!badge variant="ghost" icon="/static/icon/mv.png"  text="Mullvad"](https://mullvad.net/) or [!badge variant="ghost" icon="/static/icon/ivpn.png"  text="IVPN"](https://www.ivpn.net/). If you want free alternative, use [!badge variant="ghost" icon="/static/icon/wind.png"  text="Windscribe"](https://windscribe.com/).
 
-![](/static/banner/ost.png)
 
 > All the **Legal** anime streaming services are listed [here](https://otakulogy.github.io/anime-streaming/).
 
@@ -261,6 +260,7 @@ ___
 
 > All the **Legal** manga reading sites are listed [here](https://otakulogy.github.io/manga-platform/) and [here](https://wherecanireadmanga.com/).
 
+![](/static/banner/ost.png)
 
 ## Original Sound Track
 ___
