@@ -126,6 +126,23 @@ ___
 ![](/static/banner/ios.png)
 ## iOS
 ___
+
+### Anime
+- [**Anime Now**](https://github.com/AnimeNow-Team/AnimeNow)
+    - Great UI with extension support
+    - Downloading episode is supported support
+    - Casting support
+    - Tracking support
+    - Only available trough sideloading
+- [**9Animator**](https://github.com/SuperMarcus/NineAnimator)
+    - Decent UI with extension integration
+    - Casting & notification support
+    - Tracking support
+    - Downloading episode available
+    - Small number of extensions 
+    - Only available trough sideloading
+
+    
 ### Manga
 - [**Paperback**](https://github.com/Paperback-iOS/app) [!badge variant="ghost" icon="globe" text="Web"](https://paperback.moe/)
     - Very clean UI with changeable theme
@@ -153,20 +170,6 @@ ___
 - [YACReader](https://apps.apple.com/app/id635717885) [!badge variant="ghost" size="xs" text="Local"] [!badge variant="ghost" size="xs" text="Paid"]
 ===
 
-### Anime
-- [**Anime Now**](https://github.com/AnimeNow-Team/AnimeNow)
-    - Great UI with extension support
-    - Downloading episode is supported support
-    - Casting support
-    - Tracking support
-    - Only available trough sideloading
-- [**9Animator**](https://github.com/SuperMarcus/NineAnimator)
-    - Decent UI with extension integration
-    - Casting & notification support
-    - Tracking support
-    - Downloading episode available
-    - Small number of extensions 
-    - Only available trough sideloading
 
 
 ![](/static/banner/dler.png)
@@ -175,6 +178,12 @@ ___
 ___
 
 ### Manga
+
+### Anime
+- [AnimeDL](https://github.com/justfoolingaround/animdl)
+- [Nyaa Downloader](https://github.com/marcpinet/nyaadownloader)
+- [Crunchy-cli](https://github.com/crunchy-labs/crunchy-cli)
+- [Crunchyroll Downloader v3.0](https://github.com/hama3254/Crunchyroll-Downloader-v3.0)
 
 - [**Hakuneko**](https://github.com/manga-download/hakuneko)
     - Currently the best downloader
@@ -197,12 +206,6 @@ ___
     - But has a 25 chapter daily limit
 - [**Hitomi Downloader**](https://github.com/KurtBestor/Hitomi-Downloader)
     - Supports mostly nsfw sites but works great for the supported ones
-
-### Anime
-- [AnimeDL](https://github.com/justfoolingaround/animdl)
-- [Nyaa Downloader](https://github.com/marcpinet/nyaadownloader)
-- [Crunchy-cli](https://github.com/crunchy-labs/crunchy-cli)
-- [Crunchyroll Downloader v3.0](https://github.com/hama3254/Crunchyroll-Downloader-v3.0)
 
 ### Light Novel
 - [Light novel Crawler](https://github.com/dipu-bd/lightnovel-crawler)

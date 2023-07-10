@@ -1,6 +1,6 @@
 ---
 label: Anime
-order: 95
+order: 100
 ---
 
 ![](/static/thumb/animeg.png)

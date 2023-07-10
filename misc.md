@@ -123,8 +123,6 @@ ___
 - [Yukisubs](https://yukisubs.wordpress.com/guides/)
 
 ### More
-- [IRC & XDCC guide](/IRC.md)
-- [Network Streaming](/ns.md)
 - [r/visualnovels' guide](https://www.reddit.com/r/visualnovels/wiki/links/#wiki_guides)
 - [vocaloid pastebin for /jp/](https://pastebin.com/jDHxU1Jw)
 

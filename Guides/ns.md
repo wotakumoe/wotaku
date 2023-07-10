@@ -18,7 +18,7 @@ The basic process:
 
 ___
 ## IRC
-Read the [full guide](/IRC.md) on IRC. When you start the download, a file will be created in the download destination. If you open the file while it is still downloading, you can play the downloaded sections. Technically, you are only able to play the parts that have been downloaded, so you cannot skip ahead and play the non-downloaded parts. This method works because the downloader downloads the file sequentially.
+Read the [full guide](/Guides/IRC.md) on IRC. When you start the download, a file will be created in the download destination. If you open the file while it is still downloading, you can play the downloaded sections. Technically, you are only able to play the parts that have been downloaded, so you cannot skip ahead and play the non-downloaded parts. This method works because the downloader downloads the file sequentially.
 
 ___
 ## Torrent

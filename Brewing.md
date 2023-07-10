@@ -52,17 +52,12 @@ ___
 
 
 ### iOS
-
-#### Manga
-*None*
-
 #### Anime
 - [Chouten beta](https://testflight.apple.com/join/Cg1rAPB8)
 - [Soshiki](https://github.com/soshikimoe/soshiki-ios)
 
 #### Miscellaneous
 - [Kurozora](https://kurozora.app/welcome) [!badge variant="ghost" icon="/static/icon/apple.png" text="Apple"](https://github.com/Kurozora/kurozora-app) [!badge variant="ghost" icon="/static/icon/andy.png" text="Android"](https://github.com/Kurozora/kurozora-android) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/) [!badge variant="ghost" icon="/static/icon/discord.svg" text="Discord"](https://github.com/Kurozora/kurozora-discord-bot) 
-
 
 ### macOS
 - [Anime Manager](https://github.com/anma-dev/Anime-Manager) [!badge variant="ghost" size="xs" text="Linux"]

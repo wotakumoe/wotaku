@@ -10,68 +10,6 @@ order: 800
 Looking to find otaku materials in your language. Presenting the Non-En section!
 ___
 
-![](/static/banner/manga.png)
-## Manga
-___
-
-#### Multi
-- [Mangadex](https://mangadex.org/)
-- [Comick](https://comick.app/home)
-- [Batoto](https://battwo.com/v3x)
-- [Nine Manga](https://www.ninemanga.com/)
-- [Novel Cool](https://novelcool.com/)
-
-#### Balkan
-- [Manga Balkan](https://mangabalkan.org/)
-
-#### Chinese
-- [Manhua Gui](https://www.manhuagui.com/)
-- [8Comic](https://www.comicabc.com/)
-- [Baozimh](https://www.baozimh.com/) | [Kukuc](https://www.kukuc.co/) | [Webmota](https://www.webmota.com/)
-
-#### French
-- [JapScan](https://www.japscan.lol/)
-- [Bento Manga](https://www.bentomanga.com/)
-- [Sushi Scan](https://sushiscan.net/)
-
-#### Indonasian
-- [KomikID](https://komikid.com/)
-- [Komiku](https://komiku.id/)
-- [Komik Cast](https://komikcast.site/)
-- [Mangaku](https://mangaku.fun/)
-- [Ryukomik](https://komik.ryukoproject.app/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/AzwarKusumah/ryukomik)
-- [Shinigami ID](https://shinigami.id/)
-
-#### Portuguese
-- [Manga Livre](https://mangalivre.net/)
-- [Union Mangas](https://orchidcommerce.com/home)
-
-#### Russian
-- [Com-X](https://com-x.life/comx)
-- [Desu](https://desu.me/)
-- [Manga Poisk](https://mangapoisk.com/)
-- [Manga-chan](https://manga-chan.me/)
-- [Manga club](https://mangaclub.ru/)
-- [Manga hub](https://mangahub.ru/)
-- [Manga lib](https://mangalib.me/)
-- [Read manga](https://readmanga.live/)
-- [ReManga](https://remanga.org/)
-
-#### Spanish
-- [Lectortmo](https://lectortmo.com/)
-- [Leer Manga](https://r2.leermanga.xyz/)
-- [Manga Crab](https://mangacrab.com/)
-
-#### Turkish
-- [Seri Manga](https://serimanga.com/)
-
-#### Vietnamese
-- [Bao Tang Truyen Tranh](https://baotangtruyengo.com/)
-- [Kaguya](https://kaguya.app/manga)
-- [Kyoto manga](https://kyotomanga.live/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/leephan2k1/manga-app)
-- [Net Truyen](https://www.nettruyenplus.com/)
-
-
 ![](/static/banner/anime.png)
 ## Anime
 ___
@@ -231,6 +169,70 @@ ___
 - [AnimeVsub](https://animevsub.eu.org/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/anime-vsub/desktop-web)
 - [Unime](https://unime.vercel.app/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/huy232/Unime)
 
+___
+
+![](/static/banner/manga.png)
+## Manga
+___
+
+#### Multi
+- [Mangadex](https://mangadex.org/)
+- [Comick](https://comick.app/home)
+- [Batoto](https://battwo.com/v3x)
+- [Nine Manga](https://www.ninemanga.com/)
+- [Novel Cool](https://novelcool.com/)
+
+#### Balkan
+- [Manga Balkan](https://mangabalkan.org/)
+
+#### Chinese
+- [Manhua Gui](https://www.manhuagui.com/)
+- [8Comic](https://www.comicabc.com/)
+- [Baozimh](https://www.baozimh.com/) | [Kukuc](https://www.kukuc.co/) | [Webmota](https://www.webmota.com/)
+
+#### French
+- [JapScan](https://www.japscan.lol/)
+- [Bento Manga](https://www.bentomanga.com/)
+- [Sushi Scan](https://sushiscan.net/)
+
+#### Indonasian
+- [KomikID](https://komikid.com/)
+- [Komiku](https://komiku.id/)
+- [Komik Cast](https://komikcast.site/)
+- [Mangaku](https://mangaku.fun/)
+- [Ryukomik](https://komik.ryukoproject.app/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/AzwarKusumah/ryukomik)
+- [Shinigami ID](https://shinigami.id/)
+
+#### Portuguese
+- [Manga Livre](https://mangalivre.net/)
+- [Union Mangas](https://orchidcommerce.com/home)
+
+#### Russian
+- [Com-X](https://com-x.life/comx)
+- [Desu](https://desu.me/)
+- [Manga Poisk](https://mangapoisk.com/)
+- [Manga-chan](https://manga-chan.me/)
+- [Manga club](https://mangaclub.ru/)
+- [Manga hub](https://mangahub.ru/)
+- [Manga lib](https://mangalib.me/)
+- [Read manga](https://readmanga.live/)
+- [ReManga](https://remanga.org/)
+
+#### Spanish
+- [Lectortmo](https://lectortmo.com/)
+- [Leer Manga](https://r2.leermanga.xyz/)
+- [Manga Crab](https://mangacrab.com/)
+
+#### Turkish
+- [Seri Manga](https://serimanga.com/)
+
+#### Vietnamese
+- [Bao Tang Truyen Tranh](https://baotangtruyengo.com/)
+- [Kaguya](https://kaguya.app/manga)
+- [Kyoto manga](https://kyotomanga.live/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/leephan2k1/manga-app)
+- [Net Truyen](https://www.nettruyenplus.com/)
+
+___
 
 ![](/static/banner/others.png)
 ## Others

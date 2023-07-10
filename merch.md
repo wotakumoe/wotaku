@@ -33,6 +33,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [Gunjap](https://www.gunjap.net/)
 - [r/Anime's legal stream list](https://www.reddit.com/r/anime/wiki/Legal%20Streams)
 - [Buying visual novels](https://reddit.com/r/visualnovels/wiki/buy)
+- [Otaku Calendar](https://otakucalendar.com/)
 
 ## Communities
 - [My Figure Collection](https://myfigurecollection.net/)

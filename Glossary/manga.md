@@ -1,6 +1,6 @@
 ---
 label: Manga
-order: 100
+order: 95
 ---
 
 ![](/static/thumb/mgloss.png)
