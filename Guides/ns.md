@@ -1,5 +1,5 @@
 ---
-visibility: hidden
+label: Network Stream
 ---
 ![](/static/thumb/nsw.png)
 

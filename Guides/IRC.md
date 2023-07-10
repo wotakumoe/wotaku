@@ -1,6 +1,5 @@
 ---
 label: IRC
-visibility: hidden
 ---
 ![](/static/thumb/irc.png)
 # IRC & XDCC
