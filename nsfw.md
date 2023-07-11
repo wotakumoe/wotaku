@@ -53,6 +53,7 @@ ___
 - [Wholesome Hentai God List](https://wholesomelist.com/)
 
 ### Manhwa
+- [Oppai Stream](https://read.oppai.stream/)
 - [Hiperdex](https://hiperdex.com/)
 - [Manhwa18](http://manhwa18.com/) | [.cc](https://manhwa18.cc/)
 - [Manytoon](https://manytoon.com/)
