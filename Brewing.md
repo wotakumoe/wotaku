@@ -31,7 +31,7 @@ ___
 - [Animite](https://github.com/imashnake0/Animite)
 - [AniTrend V2](https://github.com/AniTrend/anitrend-v2)
 - [Kaizoyu](https://github.com/astarivi/Kaizoyu)
-- [Kurumi](https://github.com/subrotokumar/kurumi)
+- [Kurumi](https://play.google.com/store/apps/details?id=com.subrotokumar.kurumi)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 
 ### PC

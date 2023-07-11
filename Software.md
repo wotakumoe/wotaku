@@ -176,15 +176,13 @@ ___
 
 ## Downloader
 ___
-
-### Manga
-
 ### Anime
 - [AnimeDL](https://github.com/justfoolingaround/animdl)
 - [Nyaa Downloader](https://github.com/marcpinet/nyaadownloader)
 - [Crunchy-cli](https://github.com/crunchy-labs/crunchy-cli)
 - [Crunchyroll Downloader v3.0](https://github.com/hama3254/Crunchyroll-Downloader-v3.0)
 
+### Manga
 - [**Hakuneko**](https://github.com/manga-download/hakuneko)
     - Currently the best downloader
     - Huge number of sites supported
