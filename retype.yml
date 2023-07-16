@@ -15,13 +15,8 @@ branding:
 favicon: /static/asset/favicon.ico
 
 meta:
-  title: " - Wotaku by Duckling"
+  title: " - Wotaku by Duck"
 
-links:
-
-  - text: STAR!
-    link: https://github.com/anotherduckling/Wotaku
-    icon: mark-github
 
 footer:
 

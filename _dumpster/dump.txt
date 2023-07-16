@@ -79,3 +79,36 @@ Joint the [**telegram bot**](https://t.me/+Q_7uBkSooFdiM2Jk) and send `/clone <G
 2. Use `mirror` command to get a direct worker link
 !!!
 ```
+
+
+
+# Github
+
+links:
+
+  - text: STAR!
+    link: https://github.com/anotherduckling/Wotaku
+    icon: mark-github
+
+
+=== How to contribute
+
+If you want to submit or correct a link instead of creating a pull request, please post an [issue](https://github.com/anotherduckling/Wotaku/issues/new). This makes it easier for me to add it to the wiki, since I need to maintain the categories and markdown style.
+
+> Please note that I may choose not to add the site if it is redundant or if it does not meet my preferences.
+===
+
+
+<style>
+    .sample {
+        text-align: center;
+        padding-top: 3px;
+        margin-bottom: 10px;
+    }
+</style>
+
+:::sample
+[!badge variant="ghost" icon="/static/asset/wahu.png" size="xl" text="Star this project!"](https://github.com/anotherduckling/wotaku)
+:::
+
+- If you want to submit a new site or wiki related issue, [read this](https://github.com/anotherduckling/Wotaku#-submitting-a-link).
