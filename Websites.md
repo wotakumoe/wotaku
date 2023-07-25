@@ -49,7 +49,6 @@ ___
 - [KickAssAnime](https://kickassanime.am/) [!badge variant="ghost" size="xs" text="crunchy"]
 - [Kaguya](https://kaguya.app) [!badge variant="ghost" size="xs" text="9anime"] [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="bili"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="marin"] [!badge variant="ghost" size="xs" text="zoro"]
 - [Anify](https://anify.tv/) [!badge variant="ghost" size="xs" text="9anime"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="zoro"]  [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Novel"]
-- [Kato](https://kato.to/home) [!badge variant="ghost" size="xs" text="9anime"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="zoro"]
 - [Enime](https://enime.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/Enime-Project) [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="zoro"]
 
 
