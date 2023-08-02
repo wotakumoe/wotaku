@@ -12,7 +12,7 @@ ___
 ## Websites
 
 #### Anime
-- [9anime](https://9anime.gs/home)
+- [Aniwave](https://aniwave.to/home) `aka 9anime`
 - [Marin](https://marin.moe/)
 - [Aniwatch](https://aniwatch.to/home) `aka Zoro`
 - [Anime out](https://www.animeout.xyz/) [!badge variant="ghost" size="xs" text="DDL"]

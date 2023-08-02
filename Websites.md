@@ -22,7 +22,7 @@ ___
 ### Stream
 
 #### Uploader
-- [**9anime**](https://9anime.gs/home) [!button variant="ghost" size="xs" text="Proxies"](https://9anime.me/)
+- [**Aniwave**](https://aniwave.to/home) `aka 9anime`
     - Huge library with Watch Together feature
     - Lesser compression compared to other sites that use 3rd party hosts
 - [**Marin**](https://marin.moe/)
