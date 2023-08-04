@@ -6,7 +6,7 @@ branding:
   logo: /static/asset/inaspin.gif
   logoDark: /static/asset/inaspin.gif
   title: Wotaku
-  label: 8.3.74
+  label: 8.8.74
   colors:
     label:
       text: "#575068"
@@ -17,6 +17,14 @@ favicon: /static/asset/favicon.ico
 meta:
   title: " - Wotaku by Duck"
 
+links:
+  - text: Anime
+    link: /anime.md
+    icon: video
+
+  - text: Github
+    link: https://github.com/anotherduckling/Wotaku
+    icon: mark-github
 
 footer:
 
