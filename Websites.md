@@ -21,10 +21,9 @@ ___
 
 ### Stream
 
-#### Uploader
 - [**Aniwave**](https://aniwave.to/home) `aka 9anime`
     - Huge library with Watch Together feature
-    - Lesser compression compared to other sites that use 3rd party hosts
+    - Less amount of compression compared to other sites that use 3rd party hosts
 - [**Marin**](https://marin.moe/)
     - Re-encodes files of other encoder groups while keeping the quality consistent
     - Uploads encoded **Blu-ray** versions if available
@@ -41,12 +40,9 @@ ___
 - [**Animepahe**](https://animepahe.com/)
     - Uploads mini encoded files, useful if you want smaller files or have low bandwidth
     - Uploads **Blu-ray** and **DVD** versions if available
-- [**Animedao**](https://animedao.to/)
-    - The `Vid` & `Vid2` players provides high-quality videos, but they expire after a few days
-    - The quality of the other players is average
 
 #### Scraper
-- [KickAssAnime](https://kickassanime.am/) [!badge variant="ghost" size="xs" text="crunchy"]
+- [KickAssAnime](https://kickassanime.am/) [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="bili"]
 - [Kaguya](https://kaguya.app) [!badge variant="ghost" size="xs" text="9anime"] [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="bili"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="marin"] [!badge variant="ghost" size="xs" text="zoro"]
 - [Anify](https://anify.tv/) [!badge variant="ghost" size="xs" text="9anime"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="zoro"]  [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Novel"]
 - [Enime](https://enime.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/Enime-Project) [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="zoro"]
@@ -88,6 +84,14 @@ ___
 	- Server: `irc.rizon.net`
 	- Port: `6697`
 	- Channel: `#subsplease`
+- **erai-raws**
+	- Server: `irc.rizon.net`
+	- Port: `6697`
+	- Channel: `#Erai.raws`
+- **madokami**
+	- Server: `irc.rizon.net`
+	- Port: `6697`
+	- Channel: `#madokami`
 - [**animk**](https://animk.info/xdcc/)
 	- Server: `irc.xertion.org`
 	- Port: `6697`
@@ -96,6 +100,28 @@ ___
 - [**SunXDCC**](https://sunxdcc.com/)
 
 > To learn how to use IRC, you can read [**the guide**](/IRC.md).
+
+==- Madokami Guide
+#### Step 1
+Choose an [IRC client](https://ircv3.net/software/clients) you're comfortable with, as you can't use web IRC.
+
+#### Step 2
+Connect to [Rizon IRC network](irc.rizon.net).
+
+### Step 3
+Register your nickname (explained in more detail [here](https://wiki.rizon.net/index.php?title=Register_your_nickname))
+
+#### Step 4
+Type `/join #madokami`
+
+#### Step 5
+Once there, type the following command into the channel - `/msg sola REGISTER username password` (you **shouldn't reuse the password** from [Step 2]( add header link here))
+
+Repeat this until you get an account, the cooldown should be 4-8 hours.
+
+#### Step 6
+You may now use your credentials to log into https://manga.madokami.al and enjoy their manga DDL directory (note that you can only download 3 files at the same time, but don't have limits besides that)
+===
 
 ### Torrents
 
@@ -112,6 +138,7 @@ ___
 
 > For VPN, use [!badge variant="ghost" icon="/static/icon/mv.png"  text="Mullvad"](https://mullvad.net/) or [!badge variant="ghost" icon="/static/icon/ivpn.png"  text="IVPN"](https://www.ivpn.net/). If you want free alternative, use [!badge variant="ghost" icon="/static/icon/wind.png"  text="Windscribe"](https://windscribe.com/).
 
+> Use [Seadex](https://releases.moe/) or [Sneedex](https://sneedex.moe/) to find the best uploads available.
 
 > All the **Legal** anime streaming services are listed [here](https://otakulogy.github.io/anime-streaming/).
 

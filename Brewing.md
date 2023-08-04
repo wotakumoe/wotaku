@@ -43,6 +43,7 @@ ___
 - [Special Eureka](https://github.com/tonymushah/special-eureka)
 
 #### Anime
+- [Akari-DL](https://github.com/keisanng/akari-dl/)
 - [Aniluv](https://github.com/wovnep/aniluv)
 - [Animos](https://github.com/Nectres/animos)
 - [AniShip](https://github.com/progzone122/AniShip)

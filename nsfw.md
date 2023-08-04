@@ -16,14 +16,14 @@ ___
 ### Anime
 - [AnimeID Hentai](https://animeidhentai.com/)
 - [Haho](https://haho.moe/)
-- [Hanime](https://hanime.tv/) [!badge variant="danger" icon="chevron-down" size="xs" text="720p"]
+- [Hanime](https://hanime.tv/) [!badge variant="ghost" size="xs" text="720p"]
 - [Hentai Bar](https://hentaibar.com/)
 - [Hentai Haven](https://hentaihaven.xxx/)
 - [Hentai Mama](https://hentaimama.io/)
-- [Hentai Stream](https://hstream.moe/) [!badge variant="warning" icon="sparkle-fill" size="xs" text="4K"]
+- [Hentai Stream](https://hstream.moe/) [!badge variant="ghost" size="xs" text="4K"]
 - [Hentai World](https://hentaiworld.tv/)
 - [Mucho Hentai](https://muchohentai.com/) [!badge variant="ghost" size="xs" text="Schedule"] [!badge variant="ghost" size="xs" text="PV"]
-- [Oppai](https://oppai.stream/) [!badge variant="warning" icon="sparkle-fill" size="xs" text="4K"]
+- [Oppai](https://oppai.stream/) [!badge variant="ghost" size="xs" text="4K"]
 - [Rule34](https://www.rule34.dev/)
 - [Hentai Release Schedule](https://www.underhentai.net/releases/)
 

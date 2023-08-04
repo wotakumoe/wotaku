@@ -18,8 +18,8 @@ ___
     - Decent UI but limited customization
     - Can be used offline
     - Also offers manga reader
-    - anime streaming/reading only
-    - Anilist tracking and database and MAL
+    - Anime streaming/reading only
+    - Anilist and MAL sync
 - [**Cloudstream**](https://github.com/recloudstream/cloudstream)
     - Minimalist Customizable UI
     - Offers other types of media too
@@ -32,7 +32,11 @@ ___
     - Offers other types of media too
     - Has manga reader too
     - Tracking support with enhanced type
-
+- [**Kaizoyu!**](https://github.com/astarivi/Kaizoyu) [!badge variant="ghost" icon="globe" text="Web"](https://kaizoyu.ovh)
+    - Uses XDCC to stream files
+    - Good video quality since it's scrapping a DDL source
+    - Great app UI
+    - Has some issues such as missing episodes, mismatch, buffering issue
 === More
 - [Animiru](https://github.com/Quickdesh/Animiru) [!badge variant="ghost" size="xs" text="Anime only"] [!badge variant="ghost" size="xs" text="RPC"]
 - [Animity](https://github.com/kl3jvi/animity)
