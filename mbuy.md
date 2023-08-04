@@ -19,7 +19,7 @@ Here "quality" to essentially mean "resolution" below for brevity and to avoid m
 ===
 
 ## Links
-Store | DRM-FREE | NSFW
+Store | DRM-FREE | NSFW { class="compact" }
 --- | --- | ---
 [Amazon](https://www.amazon.com/kindle-dbs/comics-store/home/) | NO | NO
 [Apple Books](https://www.apple.com/apple-books/) | NO | NO
