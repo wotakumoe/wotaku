@@ -15,7 +15,7 @@ ___
 ___
 
 #### Multi
-- [Zoro](https://zoro.to/)
+- [Aniwatch](https://aniwatch.to/home) `aka Zoro`
 - [Kickassanime](https://kaas.am/)
 
 #### Arabic
