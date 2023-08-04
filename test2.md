@@ -17,7 +17,7 @@ This guide is intended to help you decide where to purchase your digital manga d
 > For the sake of brevity and to avoid making this more technical than it needs to be, "resolution" here essentially means "quality", since these are often the same. Some publishers (Yen Press) though offer low resolution images with minimal JPEG compression ("high quality"). We will still consider this as low quality since most readers would see it that way.
 
 ## General Platform
-Store | Resolution | DRM Removal | SFW | Recommended |
+Store | Resolution | DRM Removal | SFW | Recommended { class="compact" } |
 --- | --- | --- | --- | --- |
 [Amazon (Kindle)](https://www.amazon.com/kindle-dbs/comics-store/home/) | Low (x1920) | Easy | ✅ | NO
 [Amazon  (Comixology)](https://www.amazon.com/kindle-dbs/comics-store/home/) |High? | Hard | ✅ | NO
@@ -31,7 +31,7 @@ Store | Resolution | DRM Removal | SFW | Recommended |
 ___
 
 ## Publishers
-Store | Resolution | DRM-Free | SFW | Highest Quality|
+Store | Resolution | DRM-Free | SFW | Highest Quality { class="compact" } |
 --- | --- | --- | --- | --- |
 [Dark Horse](https://digital.darkhorse.com/)|x3200^1^ | ❌ | ✅ | Comixology
 [DENPA](https://denpa.pub/)|Varies | ❌ | ✅ | Own Store
