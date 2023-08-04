@@ -5,18 +5,7 @@ visibility: Hidden
 # Digital Manga Buyer's Guide
 This guide is intended to help you decide where to purchase your digital manga depending on your needs.
 
-=== Notes
--It **WILL** focus on:
-    - licensed, digital manga volumes
-    - popular ebook platforms
-    - DRM-free indie publishers & platforms
-    - relative ease of acquiring a DRM-free copy
-- It **WILL NOT** focus on:
-    - "chapters as a service" platforms, as I generally don't use those and there is often only one option in that case anyway (whichever app licensed it)
-    - methods of breaking or removing DRM
-
-Here "quality" to essentially mean "resolution" below for brevity and to avoid making this more technical than most readers need it to be. These are often, but not always, related. Some publishers (Yen Press) will offer low resolution images with minimal JPEG compression ("high quality"). This will still be referred to as "low quality", as most average readers would see them that way.
-===
+> Here "quality" to essentially mean "resolution" below for brevity and to avoid making this more technical than most readers need it to be. These are often, but not always, related. Some publishers (Yen Press) will offer low resolution images with minimal JPEG compression ("high quality"). This will still be referred to as "low quality", as most average readers would see them that way.
 
 ## Links
 Store | DRM-FREE | NSFW { class="compact" }
