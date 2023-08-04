@@ -108,14 +108,14 @@ Choose an [IRC client](https://ircv3.net/software/clients) you're comfortable wi
 #### Step 2
 Connect to [Rizon IRC network](irc.rizon.net).
 
-### Step 3
+#### Step 3
 Register your nickname (explained in more detail [here](https://wiki.rizon.net/index.php?title=Register_your_nickname))
 
 #### Step 4
 Type `/join #madokami`
 
 #### Step 5
-Once there, type the following command into the channel - `/msg sola REGISTER username password` (you **shouldn't reuse the password** from [Step 2]( add header link here))
+Once there, type the following command into the channel - `/msg sola REGISTER username password` (you **shouldn't reuse the password** from [Step 2](/Websites.md/#step-2))
 
 Repeat this until you get an account, the cooldown should be 4-8 hours.
 

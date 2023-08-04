@@ -122,6 +122,9 @@ ___
 - [YACReader](https://github.com/YACReader/yacreader) [!badge variant="ghost" icon="globe" text="Web"](https://www.yacreader.com/)
 - [Yomikiru](https://github.com/mienaiyami/yomikiru)
 
+### Anime
+- [Miru](https://github.com/ThaUnknown/miru/)
+
 ### Light Novel
 - [Kavita](https://github.com/Kareadita/Kavita) [!badge variant="ghost" icon="globe" text="Web"](https://www.kavitareader.com/)
 - [Novel Reader](https://github.com/Kevin-Umali/NovelReader)
