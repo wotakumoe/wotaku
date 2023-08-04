@@ -6,29 +6,6 @@ visibility: Hidden
 This guide is intended to help you decide where to purchase your digital manga depending on your needs.
 
 > Here "quality" to essentially mean "resolution" below for brevity and to avoid making this more technical than most readers need it to be. These are often, but not always, related. Some publishers (Yen Press) will offer low resolution images with minimal JPEG compression ("high quality"). This will still be referred to as "low quality", as most average readers would see them that way.
-
-## Links
-Store | DRM-FREE | NSFW { class="compact" }
---- | --- | ---
-[Amazon](https://www.amazon.com/kindle-dbs/comics-store/home/) | NO | NO
-[Apple Books](https://www.apple.com/apple-books/) | NO | NO
-[BookWalker Global](https://global.bookwalker.jp/) | NO | NO
-[Dark Horse](https://digital.darkhorse.com/) | NO | NO
-[DENPA](https://denpa.pub/) | YES | NO
-[FAKKU!](https://www.fakku.net/) | YES | YES
-[Fanatical](https://www.fanatical.com) | YES | NO
-[Glacier Bay Books](https://glacierbaybooks.com/) | YES | NO
-[Google Play Books](https://play.google.com/books) | NO | NO
-[Humble Bundle](https://www.humblebundle.com/) | YES | NO
-[Irodori Comics](https://irodoricomics.com/) | YES | YES
-[J-Novel Club](https://j-novel.club/) | YES | NO
-[Kaiten Books](https://www.kaitenbooks.com/) | YES | NO
-[Kodansha](https://kodansha.us/) | NO | NO
-[Kobo](https://www.kobo.com/) | NO | NO
-[Nook (B&N)](https://www.barnesandnoble.com/b/ebooks-nook/_/N-8qa) | NO | NO
-[Star Fruit Books](https://starfruitbooks.com/) | YES | NO
-[VIZ](https://www.viz.com/read) | NO | NO
-
 ___
 ## Things to consider when buying
 - Image quality varies by publisher **and** by platform
@@ -58,8 +35,7 @@ ___
 - [**Google Play Books**](https://play.google.com/store/books)
     - Very easy to circumvent DRM
     - Standard quality
-- [**Humble Bundle**]()
-    - Completely DRM-free
+- [**Humble Bundle**](https://www.humblebundle.com/) [!badge variant="success" text="DRM-Free"]
     - Limited time bundles
     - Often the highest available quality (exporting PDFs)
 - [**Kobo**](https://www.kobo.com/ww/en/ebooks)
@@ -71,33 +47,27 @@ ___
 - [**Dark Horse**](https://www.darkhorse.com/Comics/)
     - Offers very high quality (~x3000+) on Comixology
     - Standard quality is pretty good (~x2000)
-- [**DENPA**](https://denpa.pub/)
+- [**DENPA**](https://denpa.pub/) [!badge variant="success" text="DRM-Free"]
     - Quality varies, usually very high
     - Buy from their store when available
-    - DRM-free
-- [**FAKKU!**](https://www.fakku.net/)
+- [**FAKKU!**](https://www.fakku.net/) [!badge variant="success" text="DRM-Free"]  [!badge variant="danger" size="xs" text="R+"]
     - Hentai
     - Very high quality (x3200)
     - Buy from their store
-    - DRM-free
 - [**Glacier Bay Books**](https://glacierbaybooks.com/)
     - Quality varies
     - Buy from their store
-    - DRM-free
-- [**Irodori Comics**](https://irodoricomics.com/)
+- [**Irodori Comics**](https://irodoricomics.com/) [!badge variant="success" text="DRM-Free"]  [!badge variant="danger" size="xs" text="R+"]
     - Hentai (Irodori Aqua is their non-hentai imprint)
     - Very high quality (x3200)
     - Buy from their store or FAKKU!
-    - DRM-free
-- [**J-Novel Club**](https://j-novel.club/)
+- [**J-Novel Club**](https://j-novel.club/) [!badge variant="success" text="DRM-Free"]
     - Extremely high quality (x3840)
     - Buy from their store
-    - DRM-free
     - The most badass rockstar publisher (REAL)
-- [**Kaiten Books**](https://www.kaitenbooks.com/)
+- [**Kaiten Books**](https://www.kaitenbooks.com/) [!badge variant="success" text="DRM-Free"]
     - High quality (~x2400+)
     - Buy from their store
-    - DRM-free
 - [**Kodansha**](https://kodansha.us/)
     - Offers highest quality on Humble Bundle (limited titles, limited time)
     - Next highest on Comixology (x2700+)
@@ -109,10 +79,9 @@ ___
 - [**Square Enix USA**](https://www.square-enix.com/)
     - Basically the same no matter where you buy (except for Kindle)
     - Quality is pretty good (x2240)
-- [**Star Fruit Books**](https://starfruitbooks.com/)
+- [**Star Fruit Books**](https://starfruitbooks.com/) [!badge variant="success" text="DRM-Free"]
     - Quality varies
     - Buy from their store
-    - DRM-Free
 - [**TOKYOPOP**](https://tokyopop.com/)
     - Basically the same no matter where you buy (except for Kindle)
     - Quality varies but is usually decent for modern titles (~x1600-2300)
