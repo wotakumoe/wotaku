@@ -6,7 +6,7 @@ branding:
   logo: /static/asset/inaspin.gif
   logoDark: /static/asset/inaspin.gif
   title: Wotaku
-  label: 8.8.75
+  label: 9.3.75
   colors:
     label:
       text: "#575068"
@@ -21,6 +21,11 @@ links:
   - text: Anime
     link: /anime.md
     icon: video
+
+links:
+  - text: Manga
+    link: /manga.md
+    icon: comment
 
   - text: Github
     link: https://github.com/anotherduckling/Wotaku

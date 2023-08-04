@@ -240,6 +240,36 @@ You may now use your credentials to log into https://manga.madokami.al and enjoy
 ![](/static/banner/others.png)
 ## Others
 
+### OST
+
+#### Stream
+- [Anithemes.moe](https://animethemes.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/AnimeThemes)
+- [Themes.moe](https://themes.moe/)
+- [Squidify](https://www.squidify.org/)
+- [LISTEN.moe](https://listen.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/LISTEN-moe)
+
+#### Direct Download
+- [Sitting on Clouds](https://www.sittingonclouds.net/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Mega"] [!badge variant="ghost" size="xs" text="Mediafire"]
+- [SquidBoard](https://www.squid-board.org/) [!badge variant="ghost" size="xs" text="Needs account"] [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Mega"] [!badge variant="ghost" size="xs" text="Mediafire"] [!badge variant="ghost" size="xs" text="GDrive"]
+- [Sukidesu OST](https://sukidesuost.info/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Mega"]
+- [Asia Media Blog](https://asiamediablog.com/media/music/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Host"]
+- [OS Anime](https://osanime.com/) [!badge variant="ghost" size="xs" text="Direct"]
+- [Hiyori OST](https://www.hiyoriost.com/) [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="Host"]
+- [Sakura OST](https://www.sakuraost.com/) [!badge variant="ghost" size="xs" text="Host"]
+
+### Tools
+
+#### Analysis
+- [anime.plus](https://anime.plus/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/anime-plus/graph) [!badge variant="ghost" size="xs" text="MAL"]
+- [MAL Badges](https://www.mal-badges.com/) [!badge variant="ghost" size="xs" text="MAL"]
+- [Sekai](https://sekai.rl404.com/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/rl404/sekai) [!badge variant="ghost" size="xs" text="MAL"]
+- [Sprout Anime Recommender](https://anime.ameo.dev/) [!badge variant="ghost" size="xs" text="MAL"]  [!badge variant="ghost" size="xs" text="AL"]
+
+#### Image search
+- [SauceKudasai](https://saucekudasai.com/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/ayushgptaa/SauceKudasai)
+- [SauceNAO](https://saucenao.com/)
+- [Trace](https://trace.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/soruly/trace.moe)
+
 ### Trackers
 ___
 
