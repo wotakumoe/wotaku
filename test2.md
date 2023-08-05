@@ -14,26 +14,30 @@ This guide is intended to help you decide where to purchase your digital manga d
 - DRM-free does not always mean "free from identifiable info".
 ---
 
-> For the sake of brevity and to avoid making this more technical than it needs to be, "resolution" here essentially means "quality", since these are often the same. Some publishers (Yen Press) though offer low resolution images with minimal JPEG compression ("high quality"). We will still consider this as low quality since most readers would see it that way.
+> To simplify the guide, here "resolution" essentially means "quality".Although some publishers(e.g. Yen Press) offer low resolution images with minimal JPEG compression as "high quality", we will still consider this as low quality since most readers would see it that way.
 
 ## General Platform
 Store | Resolution | DRM Removal | SFW | Recommended { class="compact" } |
 --- | --- | --- | --- | --- |
-[Amazon (Kindle)](https://www.amazon.com/kindle-dbs/comics-store/home/) | Low (x1920) | Easy | ✅ | NO
-[Amazon  (Comixology)](https://www.amazon.com/kindle-dbs/comics-store/home/) |High? | Hard | ✅ | NO
+[Amazon (Kindle)](https://www.amazon.com/kindle-dbs/comics-store/home/) | Low (x1920)^1^ | Easy | ✅ | NO
+[Amazon  (Comixology)](https://www.amazon.com/kindle-dbs/comics-store/home/) | Highest^2^ | Hard | ✅ | NO
 [Apple Books](https://www.apple.com/apple-books/)|Standard | Medium | ✅ | NO
+[BookWalker Global](https://global.bookwalker.jp/)| Standard| Very Easy | ✅ | No^3^
 [Fanatical](https://www.fanatical.com)| ? | ? | ? | ?
-[Google Play Books](https://play.google.com/books)| Standard| Very Easy | ✅ | YES?
+[Google Play Books](https://play.google.com/books)| Standard| Very Easy | ✅ | ?
 [Humble Bundle](https://www.humblebundle.com/)|Highest? | DRM-Free| ✅ | YES
 [Kobo](https://www.kobo.com/)|Standard | Easy | ✅ | ?
 
+1. Blurry downscales for anything that would be above that on other platforms
+2. Excluding Humble PDFs and a few publishers
+3. Unless they have exclusives or discounts, as other platforms are easier
 
 ___
 
 ## Publishers
 Store | Resolution | DRM-Free | SFW | Highest Quality { class="compact" } |
 --- | --- | --- | --- | --- |
-[Dark Horse](https://digital.darkhorse.com/)|x3200^1^ | ❌ | ✅ | Comixology
+[Dark Horse](https://digital.darkhorse.com/)|x3000+^1^ | ❌ | ✅ | Comixology
 [DENPA](https://denpa.pub/)|Varies | ❌ | ✅ | Own Store
 [FAKKU!](https://www.fakku.net/)| x3200 | ✅ | ❌ | Own Store
 [Glacier Bay Books](https://glacierbaybooks.com/)|Varies | ❌ | ✅ | Own Store
@@ -43,16 +47,18 @@ Store | Resolution | DRM-Free | SFW | Highest Quality { class="compact" } |
 [Kodansha](https://kodansha.us/)|~x3000^2^ | ❌ | ✅ | Humble Bundle / Comixology
 [Nook (B&N)](https://www.barnesandnoble.com/b/ebooks-nook/_/N-8qa)|? | ? | ? | ?
 [Seven Seas Entertainment](https://sevenseasentertainment.com/) |x3000^3^ |❌|✅|Comixology
-[Square Enix USA](https://www.square-enix.com/)|x2240 |❌|✅| Own Store
+[Square Enix USA](https://www.square-enix.com/)| x2240+^4^ |❌|✅| ?
 [Star Fruit Books](https://starfruitbooks.com/)|Varies|✅|✅|Own Store
-[TOKYOPOP](https://tokyopop.com/)|x1600-x2300|❌|✅|Own Store
-[VAST Visual](https://vastmanga.com/)|Varies^4^ | ❌|✅| Apple Books
-[VIZ](https://www.viz.com/read)|x2100-x2475^5^ | ❌ | ✅ | ?
-[YEN Press](https://yenpress.com/)|x1350|❌|✅|Own Store
+[TOKYOPOP](https://tokyopop.com/)|x1600-x2300 ^4^|❌|✅| ?
+[VAST Visual](https://vastmanga.com/)|Varies^5^ | ❌|✅| Apple Books
+[VIZ](https://www.viz.com/read)|x2100-x2475^6^ | ❌ | ✅ | ?
+[YEN Press](https://yenpress.com/)|x1350 ^7^ |❌|✅| ?
 
 
-1. Dark Horse -  3200px at Comixology, 2000px quality on it's store
-2. Kodansha -  Highest? quality at Humble Bundle but only limited titles for limited time is sold. Next best is x2700 on Comixology. ~x2300 at it's own store.
-3. Seven Seas - x3000 on comixology, x2000 on own store.
-4. VAST Visual - Older titles are low quality, modern titles are decent quality. Apple Comics has highest quality.
-5. VIZ - Upscaled at Comixology. 
+1. It's available on Comixology. 2000px quality on it's store?
+2. Highest quality(?) at Humble Bundle but only limited titles for limited time is sold. Next best is x2700 on Comixology. ~x2300 at it's own store.
+3. x3000 on comixology. 2000px quality on it's store?
+4. The same quality no matter where you buy (except for Kindle)
+5. Older titles are low quality, recent titles are decent quality. Apple Books has the highest quality.
+6. Upscaled at Comixology.
+7. The same quality no matter where you buy
