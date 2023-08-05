@@ -106,10 +106,10 @@ ___
 Choose an [IRC client](https://ircv3.net/software/clients) you're comfortable with, as you can't use web IRC.
 
 #### Step 2
-Connect to [Rizon IRC network](irc.rizon.net).
+Connect to **Rizon IRC network**.
 
 #### Step 3
-Register your nickname (explained in more detail [here](https://wiki.rizon.net/index.php?title=Register_your_nickname))
+Register your nickname (all explained in detail [here](https://wiki.rizon.net/index.php?title=Register_your_nickname)) and then add the IDENTIFY command to the Connect commands for Rizon
 
 #### Step 4
 Type `/join #madokami`
@@ -117,7 +117,7 @@ Type `/join #madokami`
 #### Step 5
 Once there, type the following command into the channel - `/msg sola REGISTER username password` (you **shouldn't reuse the password** from [Step 2](/Websites.md/#step-2))
 
-Repeat this until you get an account, the cooldown should be 4-8 hours.
+Repeat this until you get an account, the cooldown should be 4 hours.
 
 #### Step 6
 You may now use your credentials to log into https://manga.madokami.al and enjoy their manga DDL directory (note that you can only download 3 files at the same time, but don't have limits besides that)

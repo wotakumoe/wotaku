@@ -23,7 +23,6 @@ Store | Resolution | DRM Removal | SFW | Recommended { class="compact" } |
 [Amazon  (Comixology)](https://www.amazon.com/kindle-dbs/comics-store/home/) | Highest^2^ | Hard | ✅ | NO
 [Apple Books](https://www.apple.com/apple-books/)|Standard | Medium | ✅ | NO
 [BookWalker Global](https://global.bookwalker.jp/)| Standard| Very Easy | ✅ | No^3^
-[Fanatical](https://www.fanatical.com)| ? | ? | ? | ?
 [Google Play Books](https://play.google.com/books)| Standard| Very Easy | ✅ | ?
 [Humble Bundle](https://www.humblebundle.com/)|Highest? | DRM-Free| ✅ | YES
 [Kobo](https://www.kobo.com/)|Standard | Easy | ✅ | ?
@@ -45,7 +44,6 @@ Store | Resolution | DRM-Free | SFW | Highest Quality { class="compact" } |
 [J-Novel Club](https://j-novel.club/)|x3840 | ✅ | ✅ | Own Store
 [Kaiten Books](https://www.kaitenbooks.com/)|~x2400 | ✅ | ✅ | Own Store
 [Kodansha](https://kodansha.us/)|~x3000^2^ | ❌ | ✅ | Humble Bundle / Comixology
-[Nook (B&N)](https://www.barnesandnoble.com/b/ebooks-nook/_/N-8qa)|? | ? | ? | ?
 [Seven Seas Entertainment](https://sevenseasentertainment.com/) |x3000^3^ |❌|✅|Comixology
 [Square Enix USA](https://www.square-enix.com/)| x2240+^4^ |❌|✅| ?
 [Star Fruit Books](https://starfruitbooks.com/)|Varies|✅|✅|Own Store

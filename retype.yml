@@ -29,6 +29,7 @@ links:
   - text: Github
     link: https://github.com/anotherduckling/Wotaku
     icon: mark-github
+    target: blank
 
 footer:
 
