@@ -3,8 +3,8 @@ output: .retype
 url: https://wotaku.pages.dev/
 
 branding:
-  logo: /static/asset/inaspin.gif
-  logoDark: /static/asset/inaspin.gif
+  logo: /static/asset/inaidle.webp
+  logoDark: /static/asset/inaidle.webp
   title: Wotaku
   label: 9.3.86
   colors:
@@ -12,7 +12,7 @@ branding:
       text: "#575068"
       background: "#e1d8ef"
 
-favicon: /static/asset/favicon.ico
+favicon: /static/asset/inaidle.png
 
 meta:
   title: " - Wotaku by Duck"
