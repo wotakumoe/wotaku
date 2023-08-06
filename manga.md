@@ -188,20 +188,32 @@ Everrything Manga Related!
 - [YACReader](https://github.com/YACReader/yacreader) [!badge variant="ghost" icon="globe" text="Web"](https://www.yacreader.com/)
 - [Yomikiru](https://github.com/mienaiyami/yomikiru)
 
-### iOS
-- [**Anime Now**](https://github.com/AnimeNow-Team/AnimeNow)
-    - Great UI with extension support
-    - Downloading episode is supported support
-    - Casting support
-    - Tracking support
-    - Only available trough sideloading
-- [**9Animator**](https://github.com/SuperMarcus/NineAnimator)
-    - Decent UI with extension integration
-    - Casting & notification support
-    - Tracking support
-    - Downloading episode available
-    - Small number of extensions 
-    - Only available trough sideloading
+#### iOS
+- [**Paperback**](https://github.com/Paperback-iOS/app) [!badge variant="ghost" icon="globe" text="Web"](https://paperback.moe/)
+    - Very clean UI with changeable theme
+    - Tracker & sync support
+    - Many different download options
+    - AppStore Release only for selected countries
+- [**Aidoku**](https://github.com/Aidoku/Aidoku) [!badge variant="ghost" icon="globe" text="Web"](https://aidoku.app/)
+    - Available on Tesflight (no Sideloading needed)
+    - Many sources
+    - Tracker support
+    - Chapter download possible
+    - Still in active Development
+- [**Hanami**](https://github.com/oolxg/Hanami)
+    - Available on Testflight (no Sideloading required)
+    - OK-ish UI with some lags
+    - only MangaDex as a source. So, therefore no official releases
+- [**YACReader**](https://apps.apple.com/app/id635717885) [!badge variant="ghost" size="xs" text="Local"] [!badge variant="ghost" size="xs" text="Paid"]
+    - Multiple transfer options and local reader support
+    - Support for cbz, cbr, zip, tar, arj, pdf, and rar formats as well as image formats
+    - Ability to backup comics
+- [**SideBooks**](https://apps.apple.com/us/app/sidebooks/id409777225) [!badge variant="ghost" size="xs" text="Cloud"]
+    - Supports PDF,ZIP,CBZ,RAR and CBR
+    - Has all the necessary features
+    - Old looking UI but very functional and customizable.
+    - Good amount of features paywalled
+
 
 ### Downloaders
 - [**Hakuneko**](https://github.com/manga-download/hakuneko)
@@ -225,3 +237,4 @@ Everrything Manga Related!
     - But has a 25 chapter daily limit
 - [**Hitomi Downloader**](https://github.com/KurtBestor/Hitomi-Downloader)
     - Supports mostly nsfw sites but works great for the supported ones
+

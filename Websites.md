@@ -101,28 +101,6 @@ ___
 
 > To learn how to use IRC, you can read [**the guide**](/IRC.md).
 
-==- Madokami Guide
-#### Step 1
-Choose an [IRC client](https://ircv3.net/software/clients) you're comfortable with, as you can't use web IRC.
-
-#### Step 2
-Connect to **Rizon IRC network**.
-
-#### Step 3
-Register your nickname (all explained in detail [here](https://wiki.rizon.net/index.php?title=Register_your_nickname)) and then add the IDENTIFY command to the Connect commands for Rizon
-
-#### Step 4
-Type `/join #madokami`
-
-#### Step 5
-Once there, type the following command into the channel - `/msg sola REGISTER username password` (you **shouldn't reuse the password** from [Step 2](/Websites.md/#step-2))
-
-Repeat this until you get an account, the cooldown should be 4 hours.
-
-#### Step 6
-You may now use your credentials to log into https://manga.madokami.al and enjoy their manga DDL directory (note that you can only download 3 files at the same time, but don't have limits besides that)
-===
-
 ### Torrents
 
 - [Nyaa](https://nyaa.si/) [!badge variant="ghost" text="Proxy 1"](https://nyaa.iss.one/)  [!badge variant="ghost" text="Proxy 2"](https://nyaa.iss.ink/)
@@ -132,6 +110,8 @@ You may now use your credentials to log into https://manga.madokami.al and enjoy
 - [Anirena](https://www.anirena.com/)
 - [Shana Project](https://www.shanaproject.com/) | [Tokyo tosho](https://www.tokyotosho.info/)
 
+==- :icon-light-bulb: Quick Tips
+
 > For torrent related terms, [click here](https://rentry.org/The-Piracy-Glossary#torrenting-terms).
 
 > Recommended torrent client for Android is [!badge variant="ghost" icon="/static/icon/lt.png"  text="libretorrent"](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent). For Windows, Linux & macOS, use [!badge variant="ghost" icon="/static/icon/qb.svg"  text="qBittorrent"](https://www.qbittorrent.org/) or [!badge variant="ghost" icon="/static/icon/trans.png"  text="Transmission"](https://transmissionbt.com/).
@@ -139,6 +119,8 @@ You may now use your credentials to log into https://manga.madokami.al and enjoy
 > For VPN, use [!badge variant="ghost" icon="/static/icon/mv.png"  text="Mullvad"](https://mullvad.net/) or [!badge variant="ghost" icon="/static/icon/ivpn.png"  text="IVPN"](https://www.ivpn.net/). If you want free alternative, use [!badge variant="ghost" icon="/static/icon/wind.png"  text="Windscribe"](https://windscribe.com/).
 
 > Use [Seadex](https://releases.moe/) or [Sneedex](https://sneedex.moe/) to find the best uploads available.
+
+===
 
 > All the **Legal** anime streaming services are listed [here](https://otakulogy.github.io/anime-streaming/).
 
@@ -184,7 +166,7 @@ ___
 - [Manga Fire](https://mangafire.to/home) [!badge variant="ghost" size="xs" text="R"]
 - [Manga Reader](https://mangareader.to/home) [!badge variant="ghost" size="xs" text="R"]
 - [Mangahasu](https://mangahasu.se/) [!badge variant="danger" size="xs" text="R+"]
-- [Toonily](https://toonily.com/) [!badge variant="danger" size="xs" text="R+"]
+- [Mangahub](https://mangahub.io/) [!badge variant="danger" size="xs" text="R+"]
 - [Manga Buddy](https://mangabuddy.com/home) | [Manga Forest](https://mangaforest.com/home) | [Manga Mirror](https://mangamirror.com/home-page) [!badge variant="ghost" size="xs" text="R"]
 - [Mangacultivator](https://mangacultivator.com) [!badge variant="success" size="xs" text="E"]
 - [1st Kiss Manga](https://1stkissmanga.me/) [!badge variant="ghost" size="xs" text="R-"]
@@ -282,6 +264,28 @@ ___
 - [mp4directs](https://mp4directs.com/)
 - [jnovels](https://jnovels.com/manga-cbz-cbr-pdfs-download101/)
 - [Anna's Archive](https://annas-archive.org/)
+
+==- Madokami Guide
+#### Step 1
+Choose an [IRC client](https://ircv3.net/software/clients) you're comfortable with, as you can't use web IRC.
+
+#### Step 2
+Connect to **Rizon IRC network**.
+
+#### Step 3
+Register your nickname (all explained in detail [here](https://wiki.rizon.net/index.php?title=Register_your_nickname)) and then add the IDENTIFY command to the Connect commands for Rizon
+
+#### Step 4
+Type `/join #madokami`
+
+#### Step 5
+Once there, type the following command into the channel - `/msg sola REGISTER username password` (you **shouldn't reuse the password** from [Step 2](/Websites.md/#step-2))
+
+Repeat this until you get an account, the cooldown should be 4 hours.
+
+#### Step 6
+You may now use your credentials to log into https://manga.madokami.al and enjoy their manga DDL directory (note that you can only download 3 files at the same time, but don't have limits besides that)
+===
 
 > All the **Legal** manga reading sites are listed [here](https://otakulogy.github.io/manga-platform/) and [here](https://wherecanireadmanga.com/).
 

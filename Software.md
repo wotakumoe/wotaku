@@ -166,15 +166,20 @@ ___
     - Available on Testflight (no Sideloading required)
     - OK-ish UI with some lags
     - only MangaDex as a source. So, therefore no official releases
-- [**SideBooks**](https://apps.apple.com/us/app/sidebooks/id409777225) [!badge variant="ghost" size="xs" text="Local"]
+- [**YACReader**](https://apps.apple.com/app/id635717885) [!badge variant="ghost" size="xs" text="Local"] [!badge variant="ghost" size="xs" text="Paid"]
+    - Multiple transfer options and local reader support
+    - Support for cbz, cbr, zip, tar, arj, pdf, and rar formats as well as image formats
+    - Ability to backup comics
+- [**SideBooks**](https://apps.apple.com/us/app/sidebooks/id409777225) [!badge variant="ghost" size="xs" text="Cloud"]
     - Supports PDF,ZIP,CBZ,RAR and CBR
     - Has all the necessary features
     - Old looking UI but very functional and customizable.
+    - Good amount of features paywalled
 
 === More
 - [Manga x Manga](https://github.com/chubimauk) [!badge variant="ghost" icon="globe" text="Web"](https://mangaxmanga.com/)
-- Manga Max [!badge variant="ghost" icon="globe" text="Web"](https://apps.apple.com/us/app/manga-reader-manga-max/id1558957618)
-- [YACReader](https://apps.apple.com/app/id635717885) [!badge variant="ghost" size="xs" text="Local"] [!badge variant="ghost" size="xs" text="Paid"]
+
+- 
 ===
 
 

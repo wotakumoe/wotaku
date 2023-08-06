@@ -123,6 +123,7 @@ ___
 - [Yukisubs](https://yukisubs.wordpress.com/guides/)
 
 ### More
+- [MPV Setup Guide](https://iamscum.wordpress.com/guides/videoplayback-guide/)
 - [r/visualnovels' guide](https://www.reddit.com/r/visualnovels/wiki/links/#wiki_guides)
 - [vocaloid pastebin for /jp/](https://pastebin.com/jDHxU1Jw)
 
