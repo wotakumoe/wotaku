@@ -1,7 +1,7 @@
 ---
 label: Scanlation
 order: 50
-icon: ":moyai:"
+icon: ":page_with_curl:"
 ---
 ![](/static/thumb/scan.png)
 # Scanlation
