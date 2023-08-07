@@ -317,6 +317,7 @@ ___
 ___
 
 ### Reader
+- [Novel Updates](https://www.novelupdates.com/)
 - [Allnovel](https://allnovel.org/)
 - [Baka-tsuki](https://www.baka-tsuki.org/project/index.php?title=main_page)
 - [Boxnovel](https://boxnovel.com/)
