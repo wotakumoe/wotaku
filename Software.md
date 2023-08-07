@@ -1,7 +1,7 @@
 ---
 label: Software
 order: 950
-icon: package
+icon: ":floppy_disk:"
 ---
 ![](/static/thumb/soft.png)
 # Software
@@ -176,17 +176,10 @@ ___
     - Old looking UI but very functional and customizable.
     - Good amount of features paywalled
 
-=== More
-- [Manga x Manga](https://github.com/chubimauk) [!badge variant="ghost" icon="globe" text="Web"](https://mangaxmanga.com/)
-
-- 
-===
-
-
 
 ![](/static/banner/dler.png)
 
-## Downloader
+## Downloaders
 ___
 ### Anime
 - [AnimeDL](https://github.com/justfoolingaround/animdl)

@@ -1,7 +1,7 @@
 ---
 label: Add-ons
 order: 850
-icon: plug
+icon: ":jigsaw:"
 ---
 
 ![](/static/thumb/addons.png)

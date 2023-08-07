@@ -1,7 +1,7 @@
 ---
 label: Brewing
 order: -50
-icon: Beaker
+icon: ":alembic:"
 ---
 ![](/static/thumb/brew.png)
 # Brewing

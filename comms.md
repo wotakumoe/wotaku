@@ -1,7 +1,7 @@
 ---
 label: Communities
 order: 650
-icon: people
+icon: ":speaking_head_in_silhouette:"
 ---
 
 

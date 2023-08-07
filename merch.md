@@ -1,7 +1,7 @@
 ---
 label: Merch
 order: 700
-icon: sparkle-fill
+icon: ":package:"
 ---
 
 

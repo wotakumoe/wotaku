@@ -2,6 +2,7 @@
 visibility: Hidden
 ---
 
+![](/static/thumb/anime.png)
 # Anime Megathread
 Everrything Anime Related!
 

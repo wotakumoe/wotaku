@@ -2,6 +2,7 @@
 visibility: Hidden
 ---
 
+![](/static/thumb/manga.png)
 # Manga Megathread
 Everrything Manga Related!
 

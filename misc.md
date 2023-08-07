@@ -1,7 +1,7 @@
 ---
 label: Misc-sites
 order: 900
-icon: diff-added
+icon: ":card_file_box:"
 ---
 
 ![](/static/thumb/ms.png)
@@ -110,11 +110,18 @@ ___
 
 ### Japanese learning guide
 - [Japanese Language Study Space](https://discord.gg/jlss)
-- [IMABI](https://imabi.net/)
-- [Marshall's Site](https://marshallyin.com/)
-- [TheMoeWay](https://learnjapanese.moe/)
-- [jpdb](https://www.jpdb.io/)
+- [Perdition](https://perdition-japanese.github.io/posts/how-to-study-japanese/)
+- [WaniKani](https://www.wanikani.com/)
+- [](https://ankiweb.net/shared/info/911122782)
+- [ichi.moe](https://ichi.moe/)
 - [itazuraneko](https://itazuraneko.neocities.org/)
+- [IMABI](https://imabi.net/)
+- [jisho](https://jisho.org/)
+- [jpdb](https://www.jpdb.io/)
+- [Marshall's Site](https://marshallyin.com/)
+- [ Organic Japanese with Cure Dolly](https://www.youtube.com/channel/UCkdmU8hGK4Fg3LghTVtKltQ)
+- [TheMoeWay](https://learnjapanese.moe/)
+
 
 ### Fansubbing Guide
 - [Encode](https://guide.encode.moe/)
@@ -139,6 +146,7 @@ ____
 - [Crunchyroll News](https://www.crunchyroll.com/news)
 - [Josu Ke](https://twitter.com/Josu_ke)
 - [MAL News](https://myanimelist.net/news)
+- [Manga Alerts](https://twitter.com/MangaAlerts)
 - [Manga Mogura RE](https://twitter.com/MangaMoguraRE)
 - [Vocasphere](https://vocasphere.net/)
 

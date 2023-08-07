@@ -1,6 +1,6 @@
 ---
 label: Non-English
-icon: globe
+icon: ":u7533:"
 order: 800
 ---
 

@@ -3,7 +3,7 @@ label: Anime
 order: 100
 ---
 
-![](/static/thumb/animeg.png)
+![](/static/thumb/anime.png)
 # Anime Glossary
 Anime portion of the Wotaku glossary!
 

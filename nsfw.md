@@ -1,7 +1,7 @@
 ---
 label: NSFW
 order: 750
-icon: blocked
+icon: ":underage:"
 ---
 
 ![](/static/thumb/nsfw.png)

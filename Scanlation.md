@@ -1,7 +1,7 @@
 ---
 label: Scanlation
 order: 50
-icon: typography
+icon: ":moyai:"
 ---
 ![](/static/thumb/scan.png)
 # Scanlation

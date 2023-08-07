@@ -1,7 +1,7 @@
 ---
 label: Websites
 order: 1000
-icon: browser
+icon: ":earth_asia:"
 ---
 
 ![](/static/thumb/web.png)

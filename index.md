@@ -1,6 +1,6 @@
 ---
 label: Welcome
-icon: copilot
+icon: ":wave:"
 ---
 
 ![](/static/thumb/cover.png)

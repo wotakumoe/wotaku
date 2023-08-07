@@ -1,7 +1,7 @@
 ---
 order: 1200
 label: Quick Start
-icon: zap
+icon: ":zap:"
 ---
 
 ![](/static/thumb/qs.png)
@@ -46,7 +46,8 @@ ___
 #### iOS
 - [Aidoku](https://github.com/Aidoku/Aidoku)
 - [Paperback](https://github.com/Paperback-iOS/app)
-- [Ketsu](https://ketsu.app/) [!badge variant="ghost" icon="diff-added" size="xs" text="Modules"](https://bilnaa.github.io/main/) [!badge variant="ghost" size="xs" text="macOS"]
+- [Anime Now](https://github.com/AnimeNow-Team/AnimeNow)
+
 
 #### PC
 - [Houdoku](https://github.com/xgi/houdoku)
@@ -59,22 +60,3 @@ ___
 - [Hakuneko](https://github.com/manga-download/hakuneko)
 - [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2)
 - [HDoujin Downloader](https://github.com/HDoujinDownloader/HDoujinDownloader)
-___
-
-## Add-ons
-
-#### Extensions
-- [Animepahe Plus](https://addons.mozilla.org/en-CA/firefox/addon/animepahe-plus/)
-- [Anime Skip Player](https://github.com/anime-skip/player)
-- [MAL Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned)
-
-#### Scripts
-- [9anime Bingewatcher+](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher)
-- [Anifilters](https://github.com/Karmesinrot/Anifiltrs)
-- [Find on Nyaa](https://greasyfork.org/en/scripts/379776-find-on-nyaa)
-- [MAL Dubs](https://greasyfork.org/en/scripts/376546-mal-myanimelist-dubs)
-
-#### Tracker
-- [Daily AL](https://play.google.com/store/apps/details?id=com.teen.dailyanimelist)
-- [Moelist](https://play.google.com/store/apps/details?id=com.axiel7.moelist)
-- [Apps for Anilist](https://anilist.co/apps)
