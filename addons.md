@@ -32,7 +32,6 @@ ___
 - [Michelle](https://github.com/JacenBoy/michelle) [!badge variant="ghost" icon="globe" text="Web"](https://michelle.jacenboy.com/)
 - Sneedex [!badge variant="ghost" icon="/static/icon/discord.svg" text="Invite"](https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot)
 - [Picsiv](https://github.com/jckli/picsiv)
-- Tweetshift [!badge variant="ghost" icon="globe" text="Web"](https://tweetshift.com/)
 - [MonitoRSS](https://github.com/synzen/MonitoRSS) [!badge variant="ghost" icon="globe" text="Web"](https://monitorss.xyz/)
 - Anigame [!badge variant="ghost" icon="globe" text="Top.gg"](https://top.gg/bot/571027211407196161)
 
@@ -127,8 +126,11 @@ ___
 - [Anitomy](https://github.com/erengy/anitomy)
 - [Hydrus network](https://hydrusnetwork.github.io/hydrus/)
 - [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper)
+- [Plex Anisync](https://github.com/RickDB/PlexAniSync)
+- [PlexAniSync-Mappings](https://github.com/mizz141/PlexAniSync-Mappings)
 - [Shoko Anime](https://github.com/shokoanime) [!badge variant="ghost" icon="globe" text="Web"](https://shokoanime.com/)
 - [Smart Image](https://github.com/Decimation/SmartImage)
+- [Tachisync](https://github.com/axiel7/Tachisync)
 
 ![](/static/banner/trackers.png)
 
@@ -166,8 +168,3 @@ ___
 - [MALSync](https://github.com/MALSync/MALSync) [!badge variant="ghost" icon="globe" text="Web"](https://malsync.moe/) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/mal-sync/) [!badge variant="ghost" icon="file-code" text="Script"](https://github.com/MALSync/MALSync/releases/latest/download/malsync.user.js)
 - [Kenmei](https://www.kenmei.co/)
 - [All Manga Reader](https://gitlab.com/all-mangas-reader/all-mangas-reader-2) [!badge variant="ghost" icon="globe" text="Web"](https://www.allmangasreader.com/)
-
-### Miscellaneous
-- [Anime Manga Auto Backup](https://github.com/Animanga-Initiative/animeManga-autoBackup)
-- [Plex Anisync](https://github.com/RickDB/PlexAniSync)
-- [Tachisync](https://github.com/axiel7/Tachisync)
