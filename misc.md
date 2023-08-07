@@ -132,6 +132,7 @@ ___
 ### More
 - [MPV Setup Guide](https://iamscum.wordpress.com/guides/videoplayback-guide/)
 - [r/visualnovels' guide](https://www.reddit.com/r/visualnovels/wiki/links/#wiki_guides)
+- [TRaSH-Guides](https://trash-guides.info/)
 - [vocaloid pastebin for /jp/](https://pastebin.com/jDHxU1Jw)
 
 

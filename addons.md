@@ -125,6 +125,8 @@ Active maintenance is necessary for scripts to work properly. If a script fails,
 ___
 - [Anitomy](https://github.com/erengy/anitomy)
 - [Hydrus network](https://hydrusnetwork.github.io/hydrus/)
+- [komf](https://github.com/Snd-R/komf)
+- [kurp](https://github.com/Snd-R/kurp)
 - [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper)
 - [Plex Anisync](https://github.com/RickDB/PlexAniSync)
 - [PlexAniSync-Mappings](https://github.com/mizz141/PlexAniSync-Mappings)
