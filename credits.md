@@ -1,5 +1,6 @@
 ---
 label: Credits
+description: All the contributors of Wotaku.
 order: -100
 icon: ":sparkling_heart:"
 ---

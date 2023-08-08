@@ -1,6 +1,7 @@
 ---
 label: Websites
 order: 1000
+description: Curated websites for anime, manga, ln & vn.
 icon: ":earth_asia:"
 ---
 

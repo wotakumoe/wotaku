@@ -1,6 +1,7 @@
 ---
 label: Scanlation
 order: 50
+description: Guides and resources for scanlation.
 icon: ":page_with_curl:"
 ---
 ![](/static/thumb/scan.png)

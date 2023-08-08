@@ -1,5 +1,6 @@
 ---
 label: Non-English
+description: Websites and software for non-en demand.
 icon: ":u7533:"
 order: 800
 ---

@@ -1,6 +1,7 @@
 ---
 label: Merch
 order: 700
+description: Everything merch related!
 icon: ":package:"
 ---
 

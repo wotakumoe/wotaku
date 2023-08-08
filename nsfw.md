@@ -1,6 +1,7 @@
 ---
 label: NSFW
 order: 750
+description: :)
 icon: ":underage:"
 ---
 

@@ -1,5 +1,6 @@
 ---
 label: Brewing
+description: Cool projects under development.
 order: -50
 icon: ":alembic:"
 ---

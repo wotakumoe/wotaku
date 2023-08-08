@@ -1,6 +1,12 @@
 ---
-visibility: hidden
+label: Digital Manga
+description: To help you decide where to purchase your digital manga
+author:  
+  name: "neckothy"
+  link: https://github.com/neckothy
+  avatar: https://avatars.githubusercontent.com/u/109988355?v=4
 ---
+![](/static/thumb/digim.png)
 
 # Digital Manga Buyer's Guide
 This guide is intended to help you decide where to purchase your digital manga depending on your needs.
@@ -21,10 +27,10 @@ Store | Resolution | DRM Removal | SFW | Recommended { class="compact" } |
 [Amazon (Kindle)](https://www.amazon.com/kindle-dbs/comics-store/home/) | Low (x1920)^1^ | Easy | ✅ | NO
 [Amazon  (Comixology)](https://www.amazon.com/kindle-dbs/comics-store/home/) | Highest^2^ | Hard | ✅ | NO
 [Apple Books](https://www.apple.com/apple-books/)|Standard | Medium | ✅ | NO
-[BookWalker Global](https://global.bookwalker.jp/)| Standard| Very Easy | ✅ | No^3^
-[Google Play Books](https://play.google.com/books)| Standard| Very Easy | ✅ | ?
-[Humble Bundle](https://www.humblebundle.com/)|Highest? | DRM-Free| ✅ | YES
-[Kobo](https://www.kobo.com/)|Standard | Easy | ✅ | ?
+[BookWalker Global](https://global.bookwalker.jp/)| Standard| Very Easy | ✅ | NO^3^
+[Google Play Books](https://play.google.com/books)| Standard| Very Easy | ✅ | YES
+[Humble Bundle](https://www.humblebundle.com/)|Highest | DRM-Free| ✅ | YES
+[Kobo](https://www.kobo.com/)|Standard | Easy | ✅ | YES
 
 1. Blurry downscales for anything that would be above that on other platforms
 2. Excluding Humble PDFs and a few publishers
@@ -44,18 +50,17 @@ Store | Resolution | DRM-Free | SFW | Highest Quality { class="compact" } |
 [Kaiten Books](https://www.kaitenbooks.com/)|~x2400 | ✅ | ✅ | Own Store
 [Kodansha](https://kodansha.us/)|~x3000^2^ | ❌ | ✅ | Humble Bundle / Comixology
 [Seven Seas Entertainment](https://sevenseasentertainment.com/) |x3000^3^ |❌|✅|Comixology
-[Square Enix USA](https://www.square-enix.com/)| x2240+^4^ |❌|✅| ?
+[Square Enix USA](https://www.square-enix.com/)| x2240+ |❌|✅| Same Everywhere
 [Star Fruit Books](https://starfruitbooks.com/)|Varies|✅|✅|Own Store
-[TOKYOPOP](https://tokyopop.com/)|x1600-x2300 ^4^|❌|✅| ?
-[VAST Visual](https://vastmanga.com/)|Varies^5^ | ❌|✅| Apple Books
-[VIZ](https://www.viz.com/read)|x2100-x2475^6^ | ❌ | ✅ | ?
-[YEN Press](https://yenpress.com/)|x1350 ^7^ |❌|✅| ?
+[TOKYOPOP](https://tokyopop.com/)|~x2300 ^4^|❌|✅| Same Everywhere
+[VAST Visual](https://vastmanga.com/)|~x2250^5^ | ❌|✅| Apple Books
+[VIZ](https://www.viz.com/read)|x2100-x2475^6^ | ❌ | ✅ | Comixology
+[YEN Press](https://yenpress.com/)|x1350 |❌|✅| Same Everywhere
 
 
-1. It's available on Comixology. 2000px quality on it's store?
-2. Highest quality(?) at Humble Bundle but only limited titles for limited time is sold. Next best is x2700 on Comixology. ~x2300 at it's own store.
+1. It's available on Comixology. 2048px quality elsewhere.
+2. Highest quality at Humble Bundle but only limited titles for limited time is sold. Next best is x2700 on Comixology. ~x2300 at it's own store.
 3. x3000 on comixology. 2000px quality on it's store?
-4. The same quality no matter where you buy (except for Kindle)
+4. ~x2300 for older tiles, but ~x1600 for older titles. Same quality no matter where you buy (except for Kindle)
 5. Older titles are low quality, recent titles are decent quality. Apple Books has the highest quality.
 6. Upscaled at Comixology.
-7. The same quality no matter where you buy

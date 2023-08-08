@@ -1,6 +1,7 @@
 ---
 label: Misc-sites
 order: 900
+description: Various sites for info, guide, tracking and analysis.
 icon: ":card_file_box:"
 ---
 
