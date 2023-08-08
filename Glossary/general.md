@@ -14,7 +14,7 @@ Want to increase your otaku knowledge? Look for no further! Presenting the Gloss
 | :------:  | :------: | :------: |
 | Japan     | Manga    | Anime    |
 | Korea     | Manhwa   | Aeni     |
-| Chinese   | Manhua   | Donghua  |
+| China   | Manhua   | Donghua  |
 
 
 ## Demography

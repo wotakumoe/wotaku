@@ -54,12 +54,21 @@ ___
 - [Wholesome Hentai God List](https://wholesomelist.com/)
 
 ### Manhwa
-- [Oppai Stream](https://read.oppai.stream/)
 - [Hiperdex](https://hiperdex.com/)
-- [Manhwa18](http://manhwa18.com/) | [.cc](https://manhwa18.cc/)
+- [Manhwa18](http://manhwa18.com/)
 - [Manytoon](https://manytoon.com/)
+- [Oppai Stream](https://read.oppai.stream/)
 - [Toonily](https://toonily.com/)
 - [Webtoon](https://www.webtoon.xyz/)
+
+=== Scanlators
+- [The Blank](https://mangadex.org/group/d53b6ec6-bbbf-4fad-a254-2b7ddda84c2c/the-blank)
+- [Omega scans](https://mangadex.org/group/8295f3f9-7462-403b-8fc0-f93a6c245a5c/omegascans)
+- [Acera the great](https://mangadex.org/group/ea35447d-5035-485f-8eda-841bafc4b215/acerathegreat)
+- [Mangazuki](https://mangadex.org/group/4b11e95f-a9c2-417d-a179-d6a20255b68d/mangazuki)
+- [Shinsei Scans](https://mangadex.org/group/f6f2ab9e-4997-4401-80a2-3840ee8558a2/shinsei-scans)
+- [Aksy Scans](https://mangadex.org/group/258e6c49-e780-408e-bc48-c981d8e58c75/aksyscans)
+===
 
 ### Booru
 - [Danbooru](https://danbooru.donmai.us/)

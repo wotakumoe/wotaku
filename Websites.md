@@ -238,7 +238,6 @@ ___
 - [xCaliBR Scans](https://xcalibrscans.com/) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/ynopo9s/cursed-xcalibr)
 ===
 
-
 > I have added all the well-known scanlators for manhwa and manhua, but for manga, it's not practical or possible to add all the famous ones. So I have added my favorite ones. Yes, this section is kind of biased.
 
 ==- Nyaa Uploaders
@@ -260,10 +259,10 @@ ___
 ===
 
 ### Direct Download
-
 - [AniDL](https://anidl.org/manga/)
 - [mp4directs](https://mp4directs.com/)
 - [jnovels](https://jnovels.com/manga-cbz-cbr-pdfs-download101/)
+- [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) [!badge variant="danger" size="xs" text="R+"]
 - [Anna's Archive](https://annas-archive.org/)
 
 ==- Madokami Guide
