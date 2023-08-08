@@ -19,8 +19,9 @@ ___
 [!badge variant="dark" size="xl" text="**Abyss**"](https://github.com/knightmob) [!badge variant="dark" size="xl" text="**KAI**"](https://github.com/Kai-FMHY) [!badge variant="dark" size="xl" text="**Memenami**"] [!badge variant="dark" size="xl" text="**Taskylizard**"](https://github.com/taskylizard) [!badge variant="dark" size="xl" text="**TubaApollo**"](https://github.com/TubaApollo)
 
 ## Art Credits
+- AO-chan by [3ton](https://www.pixiv.net/en/artworks/110412826)
 - Ninomae Ina'nis's Padoru by [how-dee](https://www.reddit.com/r/Padoru/comments/iu6jvx/ninomae_inanis_hololive/)
-- Ninomae Ina'nis's pixel art & the ancient one by [Holocure team](https://holocure.fandom.com/wiki/Ninomae_Ina%27nis)
+- Ninomae Ina'nis's pixel art by [Holocure team](https://holocure.fandom.com/wiki/Ninomae_Ina%27nis)
 - Ninomae Ina'nis's WAH! art by [Chroneco](https://www.chroneco.moe/)
 - Ninomae Ina'nis's Wahu Wahu! art by [the same small vtuber previously mentioned](https://twitter.com/ninomaeinanis/status/1652829909218373632)
 - Ninomae Ina'nis's Reading art by [the small vtuber](https://twitter.com/ninomaeinanis/status/1340047328963510273)
