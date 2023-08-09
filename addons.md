@@ -132,6 +132,7 @@ ___
 - [Plex Anisync](https://github.com/RickDB/PlexAniSync)
 - [PlexAniSync-Mappings](https://github.com/mizz141/PlexAniSync-Mappings)
 - [Shoko Anime](https://github.com/shokoanime) [!badge variant="ghost" icon="globe" text="Web"](https://shokoanime.com/)
+- [Shokofin](https://github.com/ShokoAnime/Shokofin)
 - [Smart Image](https://github.com/Decimation/SmartImage)
 - [Tachisync](https://github.com/axiel7/Tachisync)
 

@@ -120,23 +120,20 @@ Everrything Manga Related!
 > I have added all the well-known scanlators for manhwa and manhua, but for manga, it's not practical or possible to add all the famous ones. So I have added my favorite ones. Yes, this section is kind of biased.
 
 ### Nyaa Uploaders
-===
-- [-KS-](https://nyaa.si/user/KaiDubs)
 - [0v3r](https://nyaa.si/user/0v3r)
-- [1r0n](https://nyaa.si/user/tsuna69)
-- [Anadius](https://nyaa.si/user/anadius)
-- [Aro](https://nyaa.si/user/ayylmoa)
-- [Danke](https://nyaa.si/user/danke)
-- [Digital Manga Fan](https://nyaa.si/user/digitalmangafan)
-- [KG](https://nyaa.si/user/Mr_Kimiko)
-- [Lord_ne](https://nyaa.si/user/lord_ne)
-- [Lucaz](https://nyaa.si/user/LuCaZ)
-- [Oakminati](https://nyaa.si/user/Oakminati)
-- [Shellshock](https://nyaa.si/user/shellshock)
-- [Shizu](https://nyaa.si/user/wolfsbanes)
-- [Stick](https://nyaa.si/user/dumbboy58)
-- [Ushi](https://nyaa.si/user/bakaushi)
-===
+- [1r0n](https://nyaa.si/user/tsuna69) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="comikey"] [!badge variant="ghost" size="xs" text="jnovel"] [!badge variant="ghost" size="xs" text="kmanga"] [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="sq. enix"] [!badge variant="ghost" size="xs" text="up!"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
+- [Anadius](https://nyaa.si/user/anadius) [!badge variant="ghost" size="xs" text="viz"]
+- [Danke](https://nyaa.si/user/danke) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
+- [Digital Manga Fan](https://nyaa.si/user/digitalmangafan) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="jnovel"] [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="op"] [!badge variant="ghost" size="xs" text="yen"] 
+- [Lord_ne](https://nyaa.si/user/lord_ne) [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="lezhin"] [!badge variant="ghost" size="xs" text="yen"]
+- [Lucaz](https://nyaa.si/user/LuCaZ) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="yen"]
+- [Oakminati](https://nyaa.si/user/Oakminati) [!badge variant="ghost" size="xs" text="comikey"] [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="mangamo"] [!badge variant="ghost" size="xs" text="plus"] [!badge variant="ghost" size="xs" text="sq. enix"] [!badge variant="ghost" size="xs" text="up!"]
+- [PZG](https://nyaa.si/user/Phantom132) [!badge variant="ghost" size="xs" text="audio"]
+- [Shellshock](https://nyaa.si/user/shellshock) [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
+- [Shizu](https://nyaa.si/user/wolfsbanes) [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="sublime"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
+- [Stick](https://nyaa.si/user/dumbboy58) [!badge variant="ghost" size="xs" text="audio"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
+- [Ushi](https://nyaa.si/user/bakaushi) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="yen"]
+
 
 ### Direct Download
 
@@ -225,9 +222,9 @@ Everrything Manga Related!
 
 
 === More
-- [Clovre](https://github.com/rehhouari/clovre) `offline`
-- [Yomikiru](https://github.com/mienaiyami/yomikiru) `offline`
-- [Adolla](https://github.com/AdollaApp/Adolla ) `self-hosted`
+- [Clovre](https://github.com/rehhouari/clovre) [!badge variant="ghost" text="offline"]
+- [Yomikiru](https://github.com/mienaiyami/yomikiru) [!badge variant="ghost" text="offline"]
+- [LANraragi](https://github.com/Difegue/LANraragi) [!badge variant="ghost" text="self-hosted"]
 ===
 
 #### iOS
