@@ -142,6 +142,7 @@ Everrything Manga Related!
 - [AniDL](https://anidl.org/manga/)
 - [mp4directs](https://mp4directs.com/)
 - [jnovels](https://jnovels.com/manga-cbz-cbr-pdfs-download101/)
+- [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) [!badge variant="danger" size="xs" text="R+"]
 - [Anna's Archive](https://annas-archive.org/)
 
 > All the **Legal** manga reading sites are listed [here](https://otakulogy.github.io/manga-platform/) and [here](https://wherecanireadmanga.com/).
@@ -171,23 +172,62 @@ Everrything Manga Related!
     - A few features are behind paywall
 
 ### PC
-#### Online
-- [Houdoku](https://github.com/xgi/houdoku) [!badge variant="ghost" icon="globe" text="Web"](https://houdoku.org/)
-- [Tachidesk](https://github.com/Suwayomi/Tachidesk-Server) [!badge variant="ghost" icon="tab-external" text="Clients"](https://github.com/Suwayomi/Tachidesk-Server#tachidesk-client-projects)
-- [Adolla](https://github.com/AdollaApp/Adolla)
+### Manga
 
-#### Offline
-- [Clovre](https://github.com/rehhouari/clovre) [!badge variant="ghost" icon="globe" text="Web"](https://clovre.pigeonivy.com/)
-- CDisplay [!badge variant="ghost" icon="globe" text="Web"](https://www.cdisplayex.com/)
-- [Kavita](https://github.com/Kareadita/Kavita) [!badge variant="ghost" icon="globe" text="Web"](https://www.kavitareader.com/)
-- [Komga](https://github.com/gotson/komga) [!badge variant="ghost" icon="globe" text="Web"](https://komga.org/)
-- [LANraragi](https://github.com/Difegue/LANraragi) [!badge variant="ghost" size="xs" text="Downloader"]
-- [LRReader](https://github.com/Guerra24/LRReader)
-- [Mango](https://github.com/getmango/Mango) [!badge variant="ghost" icon="globe" text="Web"](https://getmango.app/)
-- [Open Comic](https://github.com/ollm/OpenComic)
-- [Tanoshi](https://github.com/faldez/tanoshi) [!badge variant="ghost" icon="globe" text="Web"](https://faldez.github.io/tanoshi/)
-- [YACReader](https://github.com/YACReader/yacreader) [!badge variant="ghost" icon="globe" text="Web"](https://www.yacreader.com/)
-- [Yomikiru](https://github.com/mienaiyami/yomikiru)
+#### Online:
+
+- [**Houdoku**](https://houdoku.netlify.app/)
+    - Easy to setup
+    - Good Customizable UI
+    - Has good amount of extensions
+    - Tracker integration
+    - Can download manga
+- [**Tachidesk**](https://github.com/Suwayomi/Tachidesk-Server)
+    - Uses the same extensions and backups as tachiyomi so good extension support
+    - UI is same as tachiyomi
+    - Can download manga
+    - No tracker integration
+
+=== Clients
+- [**Tachidesk base**](https://github.com/Suwayomi/Tachidesk-Server)
+    - lots of sources to pick from
+    - basic settings for reading
+    - lacks basic reader features
+    - complicated requirements such as JAVA
+- [**Sorayomi**](https://github.com/Suwayomi/Tachidesk-Sorayomi)
+    - Needs Tachidesk server to work
+    - Minimal and easy to use, outdated 2022
+    - insufficient features
+    - loads slowly (depends on your internet)
+- [**Tachidesk JUI**](https://github.com/Suwayomi/Tachidesk-JUI)
+    - Needs Tachidesk server to work
+    - Batch downloading manga
+    - new tab window while stream reading
+
+===
+
+#### Offline:
+
+- [**CDisplayEx**](https://www.cdisplayex.com/)
+    - Minimalist UI
+    - Fast and simple reader with good amount of configuration
+    - Has more resizing options
+    - No vertical reading mode
+- [**YACReader**](https://www.yacreader.com/)
+    - Fast and customizable
+    - Comes with YAClibrary, which is like calibre for comics
+    - No vertical reading mode
+- [**OpenComic**](https://github.com/ollm/OpenComic)
+    - Decent UI
+    - Initial load times is slightly slower than above two readers
+    - Has vertical reading mode with limited amount of customization
+
+
+=== More
+- [Clovre](https://github.com/rehhouari/clovre) `offline`
+- [Yomikiru](https://github.com/mienaiyami/yomikiru) `offline`
+- [Adolla](https://github.com/AdollaApp/Adolla ) `self-hosted`
+===
 
 #### iOS
 - [**Paperback**](https://github.com/Paperback-iOS/app) [!badge variant="ghost" icon="globe" text="Web"](https://paperback.moe/)
