@@ -11,7 +11,7 @@ Everrything Anime Related!
 
 ### Stream
 
-- [**Aniwave**](https://aniwave.to/home) `aka 9anime`
+- [**Aniwave**](https://aniwave.to/home) [!badge variant="dark" size="xs" text="aka 9anime"]
     - Huge library with Watch Together feature
     - Less amount of compression compared to other sites that use 3rd party hosts
 - [**Marin**](https://marin.moe/)
@@ -19,20 +19,20 @@ Everrything Anime Related!
     - Uploads encoded **Blu-ray** versions if available
     - Clutter-free design and no watermark
     - Marin has a good amount of missing titles, especially movies
-- [**Aniwatch**](https://aniwatch.to/home) `aka Zoro`
+- [**Aniwatch**](https://aniwatch.to/home) [!badge variant="dark" size="xs" text="aka Zoro"]
     - Huge library with Watch Together feature
     - Re-encodes shows for smaller size with minimal loss in video quality
     - Softsubs may create issues in different scenarios, but can be beneficial for multi-language support
-- [**AllAnime**](https://allanime.to/anime)
-    - Scrapers **Bilibili** (`AK` player) which has 1080p with better bitrate (some of them have 4K) but Bilibili doesn't have many [licenced shows](https://www.bilibili.tv/en/category?season_type=1%2C4)
-    - Library isn't as big as 9anime or Zoro
-    - Quality of other sources are average
+- [**KickAssAnime**](https://kickassanime.am/)
+    - Upload qualitiy is decent
+    - Scrapes Crunchyroll(duckstream) and Bilibili(birdstream)
+    - Uses softsub, so may create issues in different scenarios like Aniewatch.
+    - Still a beta site and has missing titles. But, you can request them in their support server.
 - [**Animepahe**](https://animepahe.com/)
     - Uploads mini encoded files, useful if you want smaller files or have low bandwidth
     - Uploads **Blu-ray** and **DVD** versions if available
 
 #### Scraper
-- [KickAssAnime](https://kickassanime.am/) [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="bili"]
 - [Kaguya](https://kaguya.app) [!badge variant="ghost" size="xs" text="9anime"] [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="bili"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="marin"] [!badge variant="ghost" size="xs" text="zoro"]
 - [Anify](https://anify.tv/) [!badge variant="ghost" size="xs" text="9anime"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="zoro"]  [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Novel"]
 - [Enime](https://enime.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/Enime-Project) [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="zoro"]

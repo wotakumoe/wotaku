@@ -59,18 +59,19 @@ ___
   - Download and local reader support
   - Tracking & sync support
   - High cache consumption
-- [**Kotatsu**](https://github.com/KotatsuApp/Kotatsu) [!badge variant="ghost" icon="globe" text="Web"](https://kotatsu.app/)
-  - Minimalist UI with limited customization
-  - Offers Manga Suggestions
-  - Download and local reader support
-  - Tracking & sync support
-  - Lacks some basic features
 - [**Perfect Viewer**](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Local"]
   - The reader itself is really good with a lot of filters
   - Has plugin support for the cloud services but not for manga websites
   - Support for all the comic formats.
   - The app is light but the UI looks old
   - A few features are behind paywall
+- [**Kotatsu**](https://github.com/KotatsuApp/Kotatsu) [!badge variant="ghost" icon="globe" text="Web"](https://kotatsu.app/)
+  - Minimalist UI with limited customization
+  - Offers Manga Suggestions
+  - Download and local reader support
+  - Tracking & sync support
+  - Lacks some basic features
+
 
 ### Light Novel
 

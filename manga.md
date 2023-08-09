@@ -119,7 +119,8 @@ Everrything Manga Related!
 
 > I have added all the well-known scanlators for manhwa and manhua, but for manga, it's not practical or possible to add all the famous ones. So I have added my favorite ones. Yes, this section is kind of biased.
 
-==- Nyaa Uploaders
+### Nyaa Uploaders
+===
 - [-KS-](https://nyaa.si/user/KaiDubs)
 - [0v3r](https://nyaa.si/user/0v3r)
 - [1r0n](https://nyaa.si/user/tsuna69)
@@ -158,18 +159,18 @@ Everrything Manga Related!
     - Download and local reader support
     - Tracking & sync support
     - High cache consumption
-- [**Kotatsu**](https://github.com/KotatsuApp/Kotatsu) [!badge variant="ghost" icon="globe" text="Web"](https://kotatsu.app/)
-    - Minimalist UI with limited customization
-    - Offers Manga Suggestions
-    - Download and local reader support
-    - Tracking & sync support
-    - Lacks some basic features
 - [**Perfect Viewer**](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Local"]
     - The reader itself is really good with a lot of filters
     - Has plugin support for the cloud services but not for manga websites
     - Support for all the comic formats.
     - The app is light but the UI looks old
     - A few features are behind paywall
+- [**Kotatsu**](https://github.com/KotatsuApp/Kotatsu) [!badge variant="ghost" icon="globe" text="Web"](https://kotatsu.app/)
+    - Minimalist UI with limited customization
+    - Offers Manga Suggestions
+    - Download and local reader support
+    - Tracking & sync support
+    - Lacks some basic features
 
 ### PC
 ### Manga
