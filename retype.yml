@@ -12,7 +12,7 @@ branding:
       text: "#575068"
       background: "#e1d8ef"
 
-favicon: /static/asset/inaidle.png
+favicon: /static/asset/aoicon.webp
 
 meta:
   title: " - Wotaku by Duck"
