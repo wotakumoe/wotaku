@@ -173,6 +173,10 @@ ___
 ### Anime
 
 - [Miru](https://github.com/ThaUnknown/miru/)
+  - Torrent based
+  - Pretty good UI with schedule and advanced search
+  - Has AL tracking and RSS feed
+  - Can stream external magnet link and it'll auto detect the anime.
 
 ### Light Novel
 

@@ -351,3 +351,4 @@ ___
 - [ryuu blogger](https://ryuubloggerv2.blogspot.com/) [!badge variant="danger" size="xs" text="R+"]
 - [Crane Anime](https://docs.google.com/spreadsheets/d/1ECqqhEm2kDS0hgxZ0tD_73e04v5FUxQGkfCbfi0Kb9k/pubhtml#) [!badge variant="danger" size="xs" text="R+"]
 - [Anime-sharing](http://www.anime-sharing.com/forum/) [!badge variant="danger" size="xs" text="R+"]
+- [GOG](https://www.gog.com/en/games?genres=visual-novel&hideDLCs=true) [!badge variant="ghost" text="Download"](https://gog-games.to/)  [!badge variant="danger" size="xs" text="R+"]

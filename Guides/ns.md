@@ -1,5 +1,9 @@
 ---
 label: Network Stream
+author:  
+  name: "Duck"
+  link: https://github.com/anotherduckling
+  avatar: https://avatars.githubusercontent.com/u/57977673?v=4
 ---
 ![](/static/thumb/nsw.png)
 

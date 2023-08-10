@@ -1,5 +1,9 @@
 ---
 label: IRC
+author:  
+  name: "Duck"
+  link: https://github.com/anotherduckling
+  avatar: https://avatars.githubusercontent.com/u/57977673?v=4
 ---
 ![](/static/thumb/irc.png)
 # IRC & XDCC

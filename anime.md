@@ -165,7 +165,11 @@ You may now use your credentials to log into https://manga.madokami.al and enjoy
 
 ### PC
 - [Miru](https://github.com/ThaUnknown/miru/)
-
+  - Torrent based
+  - Pretty good UI with schedule and advanced search
+  - Has AL tracking and RSS feed
+  - Can stream external magnet link and it'll auto detect the anime.
+  
 ### iOS
 - [**Anime Now**](https://github.com/AnimeNow-Team/AnimeNow)
     - Great UI with extension support

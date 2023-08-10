@@ -135,6 +135,7 @@ ___
 - [Shokofin](https://github.com/ShokoAnime/Shokofin)
 - [Smart Image](https://github.com/Decimation/SmartImage)
 - [Tachisync](https://github.com/axiel7/Tachisync)
+- [Textractor](https://github.com/Artikash/Textractor)
 
 ![](/static/banner/trackers.png)
 
