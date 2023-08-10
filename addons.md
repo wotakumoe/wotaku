@@ -129,6 +129,7 @@ ___
 - [komf](https://github.com/Snd-R/komf)
 - [kurp](https://github.com/Snd-R/kurp)
 - [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper)
+- [MPV Upscale 2x Animejanai ](https://github.com/the-database/mpv-upscale-2x_animejanai)
 - [Plex Anisync](https://github.com/RickDB/PlexAniSync)
 - [PlexAniSync-Mappings](https://github.com/mizz141/PlexAniSync-Mappings)
 - [Shoko Anime](https://github.com/shokoanime) [!badge variant="ghost" icon="globe" text="Web"](https://shokoanime.com/)
