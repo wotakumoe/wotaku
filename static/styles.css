@@ -1,0 +1,6 @@
+div.left-0:nth-child(2) {
+  display: none;
+}
+aside ul:nth-child(3) {
+  margin-top: 1em;
+}
