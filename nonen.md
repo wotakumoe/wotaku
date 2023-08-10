@@ -204,6 +204,9 @@ ___
 - [Ryukomik](https://komik.ryukoproject.app/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/AzwarKusumah/ryukomik)
 - [Shinigami ID](https://shinigami.id/)
 
+#### Japanese
+[!badge variant="dark" text="Click here!"](/Scanlation.md/#raw)
+
 #### Portuguese
 - [Manga Livre](https://mangalivre.net/)
 - [Union Mangas](https://orchidcommerce.com/home)
