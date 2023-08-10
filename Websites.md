@@ -17,7 +17,7 @@ ___
 
 ## Anime
 
-If you want to get the best quality, use [Direct Download](/Websites.md/#direct-download-1), [IRC](/Websites.md/#irc), or [Torrent](/Websites.md/#torrents). You can obtain full web release quality on a streaming site that scrapes the official site API, such as [KickAssAnime](https://kickassanime.am/) for Crunchyroll content or [AllAnime](https://allanime.to/anime) for Bilibili content. Otherwise, it is not be possible to maintain the full quality while managing space & traffic. You can [**network stream**](/Guides/ns.md) files from direct download, irc and torrents.
+If you want to get the best quality, use [Direct Download](/Websites.md/#direct-download-1), [IRC](/Websites.md/#irc), or [Torrent](/Websites.md/#torrents). You can obtain full web release quality on a streaming site that scrapes the official site API, such as [KickAssAnime](https://kickassanime.am/) for Crunchyroll and Bilibili content. Otherwise, it is not be possible to maintain the full quality while managing space & traffic. You can [**network stream**](/Guides/ns.md) files from direct download, irc and torrents.
 ___
 
 ### Stream

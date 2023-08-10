@@ -117,13 +117,13 @@ ___
 
 #### Online:
 
-- [**Houdoku**](https://houdoku.netlify.app/)
+- [**Houdoku**](https://houdoku.netlify.app/) [!badge variant="ghost" size="xs" text="win"] [!badge variant="ghost" size="xs" text="mac"] [!badge variant="ghost" size="xs" text="lin"]
     - Easy to setup
     - Good Customizable UI
     - Has good amount of extensions
     - Tracker integration
     - Can download manga
-- [**Tachidesk**](https://github.com/Suwayomi/Tachidesk-Server)
+- [**Tachidesk**](https://github.com/Suwayomi/Tachidesk-Server) [!badge variant="ghost" size="xs" text="win"] [!badge variant="ghost" size="xs" text="mac"] [!badge variant="ghost" size="xs" text="lin"]
     - Uses the same extensions and backups as tachiyomi so good extension support
     - UI is same as tachiyomi
     - Can download manga
@@ -149,25 +149,25 @@ ___
 
 #### Offline:
 
-- [**CDisplayEx**](https://www.cdisplayex.com/)
+- [**CDisplayEx**](https://www.cdisplayex.com/) [!badge variant="ghost" size="xs" text="win"]
     - Minimalist UI
     - Fast and simple reader with good amount of configuration
     - Has more resizing options
     - No vertical reading mode
-- [**YACReader**](https://www.yacreader.com/)
+- [**YACReader**](https://www.yacreader.com/) [!badge variant="ghost" size="xs" text="win"] [!badge variant="ghost" size="xs" text="mac"] [!badge variant="ghost" size="xs" text="lin"]
     - Fast and customizable
     - Comes with YAClibrary, which is like calibre for comics
     - No vertical reading mode
-- [**OpenComic**](https://github.com/ollm/OpenComic)
+- [**OpenComic**](https://github.com/ollm/OpenComic) [!badge variant="ghost" size="xs" text="win"] [!badge variant="ghost" size="xs" text="mac"] [!badge variant="ghost" size="xs" text="lin"]
     - Decent UI
     - Initial load times is slightly slower than above two readers
     - Has vertical reading mode with limited amount of customization
 
 
 === More
-- [Clovre](https://github.com/rehhouari/clovre) `offline`
-- [Yomikiru](https://github.com/mienaiyami/yomikiru) `offline`
-- [Adolla](https://github.com/AdollaApp/Adolla ) `self-hosted`
+- [Clovre](https://github.com/rehhouari/clovre) [!badge variant="ghost" size="xs" text="offline"]
+- [Yomikiru](https://github.com/mienaiyami/yomikiru) [!badge variant="ghost" size="xs" text="offline"]
+- [LANraragi](https://github.com/Difegue/LANraragi) [!badge variant="ghost" size="xs" text="Self-hosted"]
 ===
 
 ### Anime
