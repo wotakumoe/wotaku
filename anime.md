@@ -21,17 +21,17 @@ Everrything Anime Related!
     - Marin has a good amount of missing titles, especially movies
 - [**Aniwatch**](https://aniwatch.to/home) [!badge variant="dark" size="xs" text="aka Zoro"]
     - Huge library with Watch Together feature
-    - Re-encodes shows for smaller size with minimal loss in video quality
+    - Re-encodes shows for smaller size with lower overall bitrate.
     - Softsubs may create issues in different scenarios, but can be beneficial for multi-language support
-- [**KickAssAnime**](https://kickassanime.am/)
-    - Upload qualitiy is decent
+- [**KickAssAnime**](https://kickassanime.am/) [!badge variant="ghost" text="Proxies"](https://kickassanimes.info/)
     - Scrapes Crunchyroll(duckstream) and Bilibili(birdstream)
+    - KAA encode(videstreaming) is ok-ish with lower overall bitrate. Use the previous two if available.
     - Uses softsub, so may create issues in different scenarios like Aniewatch.
     - Still a beta site and has missing titles. But, you can request them in their support server.
 - [**Animepahe**](https://animepahe.com/)
     - Uploads mini encoded files, useful if you want smaller files or have low bandwidth
     - Uploads **Blu-ray** and **DVD** versions if available
-
+    
 #### Scraper
 - [Kaguya](https://kaguya.app) [!badge variant="ghost" size="xs" text="9anime"] [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="bili"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="marin"] [!badge variant="ghost" size="xs" text="zoro"]
 - [Anify](https://anify.tv/) [!badge variant="ghost" size="xs" text="9anime"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="zoro"]  [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Novel"]

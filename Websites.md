@@ -32,11 +32,11 @@ ___
     - Marin has a good amount of missing titles, especially movies
 - [**Aniwatch**](https://aniwatch.to/home) [!badge variant="dark" size="xs" text="aka Zoro"]
     - Huge library with Watch Together feature
-    - Re-encodes shows for smaller size with minimal loss in video quality
+    - Re-encodes shows for smaller size with lower overall bitrate.
     - Softsubs may create issues in different scenarios, but can be beneficial for multi-language support
 - [**KickAssAnime**](https://kickassanime.am/) [!badge variant="ghost" text="Proxies"](https://kickassanimes.info/)
-    - Upload qualitiy is decent
     - Scrapes Crunchyroll(duckstream) and Bilibili(birdstream)
+    - KAA encode(videstreaming) is ok-ish with lower overall bitrate. Use the previous two if available.
     - Uses softsub, so may create issues in different scenarios like Aniewatch.
     - Still a beta site and has missing titles. But, you can request them in their support server.
 - [**Animepahe**](https://animepahe.com/)

@@ -14,7 +14,7 @@ ___
 #### Anime
 - [Aniwave](https://aniwave.to/home) [!badge variant="dark" size="xs" text="aka 9anime"]
 - [Marin](https://marin.moe/)
-- [Aniwatch](https://aniwatch.to/home) [!badge variant="dark" size="xs" text="aka Zoro"]
+- [KickAssAnime](https://kickassanime.am/) (use duck or birdstream if available)
 - [Anime out](https://www.animeout.xyz/) [!badge variant="ghost" size="xs" text="DDL"]
 
 #### Manga
