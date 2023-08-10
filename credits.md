@@ -13,7 +13,7 @@ ___
 
 ## Contributors
 
-[!badge variant="dark" size="2xl" icon="/static/asset/ven.png" text="**Venroot**"](https://github.com/RenaraScope) [!badge variant="dark" size="2xl" icon="/static/asset/zinc.png" text="**Zinklog**"](https://github.com/zinklog2)
+[!badge variant="dark" size="2xl" icon="/static/asset/ven.png" text="**Venlicht**"](https://github.com/RenaraScope) [!badge variant="dark" size="2xl" icon="/static/asset/zinc.png" text="**Zinklog**"](https://github.com/zinklog2)
 
 #### Special Thanks to
 
