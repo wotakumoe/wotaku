@@ -35,10 +35,10 @@ ___
     - Re-encodes shows for smaller size with lower overall bitrate.
     - Softsubs may create issues in different scenarios, but can be beneficial for multi-language support
 - [**KickAssAnime**](https://kickassanime.am/) [!badge variant="ghost" text="Proxies"](https://kickassanimes.info/)
-    - Scrapes Crunchyroll(duckstream) and Bilibili(birdstream)
-    - KAA encode(videstreaming) is ok-ish with lower overall bitrate. Use the previous two if available.
-    - Uses softsub, so may create issues in different scenarios like Aniewatch.
-    - Still a beta site and has missing titles. But, you can request them in their support server.
+    - Scrapes **Crunchyroll**(duckstream) and **Bilibili**(birdstream)
+    - KAA encode(videstreaming) is ok-ish with lower overall bitrate. Use the previous two if available. Duck has the highest overall bitrate
+    - Uses softsub, so may create issues in different scenarios like Aniewatch
+    - Still a beta site and has missing titles. But, you can request them in their support server
 - [**Animepahe**](https://animepahe.com/)
     - Uploads mini encoded files, useful if you want smaller files or have low bandwidth
     - Uploads **Blu-ray** and **DVD** versions if available
@@ -133,7 +133,8 @@ ___
     * Uploads without compression
     * Best reader UI
     * Uploads from various scanlation groups
-    * No official translations since it was created for fansub
+    * No official translations[^*^](https://mangadex.org/rules#content_restrictions) since it was created for fansub
+    * May remove content if there is a DMCA request by the publisher or doesn't allow upload at all (e.g. One Punch-Man)
 - [**Comick**](https://comick.app/home) [!badge variant="ghost" size="xs" text="R"]
     * Minimal compression
     * Aggregates from various scanlation groups
