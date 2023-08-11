@@ -113,14 +113,14 @@ ___
 - [Japanese Language Study Space](https://discord.gg/jlss)
 - [Perdition](https://perdition-japanese.github.io/posts/how-to-study-japanese/)
 - [WaniKani](https://www.wanikani.com/)
-- [](https://ankiweb.net/shared/info/911122782)
+- [Ankiweb](https://ankiweb.net/shared/info/911122782)
 - [ichi.moe](https://ichi.moe/)
 - [itazuraneko](https://itazuraneko.neocities.org/)
 - [IMABI](https://imabi.net/)
 - [jisho](https://jisho.org/)
 - [jpdb](https://www.jpdb.io/)
 - [Marshall's Site](https://marshallyin.com/)
-- [ Organic Japanese with Cure Dolly](https://www.youtube.com/channel/UCkdmU8hGK4Fg3LghTVtKltQ)
+- [Organic Japanese with Cure Dolly](https://www.youtube.com/channel/UCkdmU8hGK4Fg3LghTVtKltQ)
 - [TheMoeWay](https://learnjapanese.moe/)
 
 

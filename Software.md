@@ -241,9 +241,9 @@ ___
 
 ### Anime
 
+- [Hakuneko](https://github.com/manga-download/hakuneko)
 - [AnimeDL](https://github.com/justfoolingaround/animdl)
 - [adl](https://github.com/RaitaroH/adl)
-- [Hakuneko](https://github.com/manga-download/hakuneko)
 - [Crunchy-cli](https://github.com/crunchy-labs/crunchy-cli)
 - [Crunchyroll Downloader v3.0](https://github.com/hama3254/Crunchyroll-Downloader-v3.0)
 - [Nyaa Downloader](https://github.com/marcpinet/nyaadownloader)
