@@ -53,7 +53,6 @@ Everrything Anime Related!
 - [Tokyo Insider](https://www.tokyoinsider.com/) [!badge variant="ghost" size="xs" text="Direct"] [!badge variant="ghost" size="xs" text="no ad"]
 - [Anime out](https://www.animeout.xyz/) [!badge variant="ghost" size="xs" text="Direct"] [!badge variant="ghost" size="xs" text="no ad"]
 - [Judas](https://rentry.org/judas-ddl) [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="no ad"]
-- [AniDL](https://anidl.org/) [!badge variant="ghost" size="xs" text="Index"] [!badge variant="ghost" size="xs" text="Mega"] [!badge variant="ghost" size="xs" text="ad"]
 - [hi10anime](https://hi10anime.com/) [!badge variant="ghost" size="xs" text="Direct"] [!badge variant="ghost" size="xs" text="ad"]
 - [Anime Senpai](https://www.animesenpai4u.com/) [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="Mega"] [!badge variant="ghost" size="xs" text="no ad"]
 - [Kayo anime](https://kayoanime.com/) [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="no ad"]

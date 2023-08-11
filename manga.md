@@ -137,7 +137,6 @@ Everrything Manga Related!
 
 ### Direct Download
 
-- [AniDL](https://anidl.org/manga/)
 - [mp4directs](https://mp4directs.com/)
 - [jnovels](https://jnovels.com/manga-cbz-cbr-pdfs-download101/)
 - [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) [!badge variant="danger" size="xs" text="R+"]

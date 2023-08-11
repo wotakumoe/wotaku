@@ -65,7 +65,6 @@ ___
 - [Tokyo Insider](https://www.tokyoinsider.com/) [!badge variant="ghost" size="xs" text="Direct"] [!badge variant="ghost" size="xs" text="no ad"]
 - [Anime out](https://www.animeout.xyz/) [!badge variant="ghost" size="xs" text="Direct"] [!badge variant="ghost" size="xs" text="no ad"]
 - [Judas](https://rentry.org/judas-ddl) [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="no ad"]
-- [AniDL](https://anidl.org/) [!badge variant="ghost" size="xs" text="Index"] [!badge variant="ghost" size="xs" text="Mega"] [!badge variant="ghost" size="xs" text="ad"]
 - [hi10anime](https://hi10anime.com/) [!badge variant="ghost" size="xs" text="Direct"] [!badge variant="ghost" size="xs" text="ad"]
 - [Anime Senpai](https://www.animesenpai4u.com/) [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="Mega"] [!badge variant="ghost" size="xs" text="no ad"]
 - [Kayo anime](https://kayoanime.com/) [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="no ad"]
@@ -253,7 +252,6 @@ ___
 - [Ushi](https://nyaa.si/user/bakaushi) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="yen"]
 
 ### Direct Download
-- [AniDL](https://anidl.org/manga/)
 - [mp4directs](https://mp4directs.com/)
 - [jnovels](https://jnovels.com/manga-cbz-cbr-pdfs-download101/)
 - [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) [!badge variant="danger" size="xs" text="R+"]
@@ -331,7 +329,6 @@ ___
 ### Direct Download
 - [Just Light Novels](https://www.justlightnovels.com/)
 - [That Novel Corner](https://thatnovelcorner.com/)
-- [AniDL](https://xyz.iamzlnk.one/0:/)
 - [MP4 Directs](https://mp4directs.com/)
 - [All EPUBs](https://boroboro.neocities.org/listfullepub) [!badge variant="ghost" icon="/static/icon/jp.png" text="JP"]
 
