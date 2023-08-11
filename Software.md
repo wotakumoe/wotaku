@@ -26,7 +26,7 @@ ___
 - [**Saikou**](https://github.com/saikou-app/saikou/) [!badge variant="ghost" icon="video" text="TV"](https://github.com/siennaXD/SaikouTV/)  [!badge variant="ghost" icon="globe" text="Web"](https://saikou.pages.dev/)
   - Decent UI but limited customization
   - Can be used offline
-  - Also offers manga reader
+  - Also offers manga reader & ln
   - Anime streaming/reading only
   - Anilist and MAL sync
 - [**Cloudstream**](https://github.com/recloudstream/cloudstream)
@@ -242,9 +242,12 @@ ___
 ### Anime
 
 - [AnimeDL](https://github.com/justfoolingaround/animdl)
-- [Nyaa Downloader](https://github.com/marcpinet/nyaadownloader)
+- [adl](https://github.com/RaitaroH/adl)
+- [Hakuneko](https://github.com/manga-download/hakuneko)
 - [Crunchy-cli](https://github.com/crunchy-labs/crunchy-cli)
 - [Crunchyroll Downloader v3.0](https://github.com/hama3254/Crunchyroll-Downloader-v3.0)
+- [Nyaa Downloader](https://github.com/marcpinet/nyaadownloader)
+
 
 ### Manga
 

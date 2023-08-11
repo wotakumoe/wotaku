@@ -26,7 +26,7 @@ ___
 - [Sitting on Clouds](https://www.sittingonclouds.net/) [!badge variant="ghost" size="xs" text="DDL"]
 - [SquidBoard](https://www.squid-board.org/)  [!badge variant="ghost" size="xs" text="DDL"]  [!badge variant="ghost" size="xs" text="Needs accounnt"]
 - [Anithemes.moe](https://animethemes.moe/) [!badge variant="ghost" size="xs" text="stream"]
-- [Squidify](https://www.squidify.org/)
+- [Squidify](https://www.squidify.org/) [!badge variant="ghost" size="xs" text="stream"]
 
 #### Torrent
 - [Nyaa](https://nyaa.si/)

@@ -120,11 +120,12 @@ Everrything Manga Related!
 > I have added all the well-known scanlators for manhwa and manhua, but for manga, it's not practical or possible to add all the famous ones. So I have added my favorite ones. Yes, this section is kind of biased.
 
 ### Nyaa Uploaders
-- [0v3r](https://nyaa.si/user/0v3r)
+- [0v3r](https://nyaa.si/user/0v3r) [!badge variant="ghost" size="xs" text="compilation"]
 - [1r0n](https://nyaa.si/user/tsuna69) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="comikey"] [!badge variant="ghost" size="xs" text="jnovel"] [!badge variant="ghost" size="xs" text="kmanga"] [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="sq. enix"] [!badge variant="ghost" size="xs" text="up!"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
-- [Anadius](https://nyaa.si/user/anadius) [!badge variant="ghost" size="xs" text="viz"]
+- [anadius](https://nyaa.si/user/anadius) [!badge variant="ghost" size="xs" text="viz"]
 - [Danke](https://nyaa.si/user/danke) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
-- [Digital Manga Fan](https://nyaa.si/user/digitalmangafan) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="jnovel"] [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="op"] [!badge variant="ghost" size="xs" text="yen"] 
+- [Digital Manga Fan](https://nyaa.si/user/digitalmangafan) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="jnovel"] [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="op"] [!badge variant="ghost" size="xs" text="yen"]
+- [Empy](https://nyaa.si/user/empyrealarrow) [!badge variant="ghost" size="xs" text="compilation"] [!badge variant="ghost" size="xs" text="glacier"] [!badge variant="ghost" size="xs" text="plus"]
 - [Lord_ne](https://nyaa.si/user/lord_ne) [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="lezhin"] [!badge variant="ghost" size="xs" text="yen"]
 - [Lucaz](https://nyaa.si/user/LuCaZ) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="yen"]
 - [Oakminati](https://nyaa.si/user/Oakminati) [!badge variant="ghost" size="xs" text="comikey"] [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="mangamo"] [!badge variant="ghost" size="xs" text="plus"] [!badge variant="ghost" size="xs" text="sq. enix"] [!badge variant="ghost" size="xs" text="up!"]
