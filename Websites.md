@@ -30,15 +30,15 @@ ___
     - Uploads encoded **Blu-ray** versions if available
     - Clutter-free design and no watermark
     - Marin has a good amount of missing titles, especially movies
-- [**Aniwatch**](https://aniwatch.to/home) [!badge variant="dark" size="xs" text="aka Zoro"]
-    - Huge library with Watch Together feature
-    - Re-encodes shows for smaller size with lower overall bitrate.
-    - Softsubs may create issues in different scenarios, but can be beneficial for multi-language support
 - [**KickAssAnime**](https://kickassanime.am/) [!badge variant="ghost" text="Proxies"](https://kickassanimes.info/)
     - Scrapes **Crunchyroll**(duckstream) and **Bilibili**(birdstream)
     - KAA encode(videstreaming) is ok-ish with lower overall bitrate. Use the previous two if available. Duck has the highest overall bitrate
     - Uses softsub, so may create issues in different scenarios like Aniewatch
     - Still a beta site and has missing titles. But, you can request them in their support server
+- [**Aniwatch**](https://aniwatch.to/home) [!badge variant="dark" size="xs" text="aka Zoro"]
+    - Huge library with Watch Together feature
+    - Re-encodes shows for smaller size with lower overall bitrate.
+    - Softsubs may create issues in different scenarios, but can be beneficial for multi-language support
 - [**Animepahe**](https://animepahe.com/)
     - Uploads mini encoded files, useful if you want smaller files or have low bandwidth
     - Uploads **Blu-ray** and **DVD** versions if available
@@ -322,7 +322,7 @@ ___
 - [Novel Buddy](https://novelbuddy.com/home)
 - [Novel Hall](https://www.novelhall.com/)
 - [Octopii](https://octopii.co/)
-- [Ranobes](https://ranobes.net/)
+- [Ranobes](https://ranobes.top/)
 - [Read Light Novel](https://www.readlightnovel.me/)
 - [Read Novel Full](https://readnovelfull.com/)
 - [Royal Road](https://www.royalroad.com/home)
