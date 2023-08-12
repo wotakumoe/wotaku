@@ -42,6 +42,7 @@ ___
 - [**Animepahe**](https://animepahe.com/)
     - Uploads mini encoded files, useful if you want smaller files or have low bandwidth
     - Uploads **Blu-ray** and **DVD** versions if available
+    - Has a good amount of missing titles
 
 #### Scraper
 - [Kaguya](https://kaguya.app) [!badge variant="ghost" size="xs" text="9anime"] [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="bili"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="marin"] [!badge variant="ghost" size="xs" text="zoro"]
@@ -95,6 +96,7 @@ ___
 	- Channel: `#MK` or `XDCCLeech`
 - [**XDCC EU**](https://www.xdcc.eu/)
 - [**SunXDCC**](https://sunxdcc.com/)
+- [**Anidex**](https://xdcc.anidex.moe/) (`Michiko` bot is over at `#Doki``)
 
 > To learn how to use IRC, you can read [**the guide**](/IRC.md).
 

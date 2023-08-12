@@ -242,6 +242,7 @@ ___
 ## Others
 
 ### Websites
+- [Animexx](https://www.animexx.de/) [!badge variant="ghost" icon="/static/icon/germany.png" size="xs" text="DE"] [!badge variant="ghost" size="xs" text="Community"]
 - [Annict](https://annict.com/) [!badge variant="ghost" icon="/static/icon/jp.png" text="JP"]
 - [Bangumi](https://bangumi.tv/) [!badge variant="ghost" icon="/static/icon/cn.png" size="xs" text="CN"] [!badge variant="ghost" size="xs" text="Tracker"] 
 - [Proxer](https://proxer.me/) [!badge variant="ghost" icon="/static/icon/germany.png" size="xs" text="DE"] [!badge variant="ghost" size="xs" text="Community"]
