@@ -33,7 +33,7 @@ ___
 - [**KickAssAnime**](https://kickassanime.am/) [!badge variant="ghost" text="Proxies"](https://kickassanimes.info/)
     - Scrapes **Crunchyroll**(duckstream) and **Bilibili**(birdstream)
     - KAA encode(videstreaming) is ok-ish with lower overall bitrate. Use the previous two if available. Duck has the highest overall bitrate
-    - Uses softsub, so may create issues in different scenarios like Aniewatch
+    - Has both hardsub(duck) & softsub(rest)
     - Still a beta site and has missing titles. But, you can request them in their support server
 - [**Aniwatch**](https://aniwatch.to/home) [!badge variant="dark" size="xs" text="aka Zoro"]
     - Huge library with Watch Together feature
