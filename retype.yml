@@ -6,11 +6,7 @@ branding:
   logo: /static/asset/inaidle.webp
   logoDark: /static/asset/inaidle.webp
   title: Wotaku
-<<<<<<< Updated upstream
-  label: 9.9.28
-=======
   label: 9.9.41
->>>>>>> Stashed changes
   colors:
     label:
       text: "#575068"
