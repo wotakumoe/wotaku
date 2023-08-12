@@ -14,14 +14,14 @@ ___
  ___
 
 ### Manga
-- [Atsumaru](https://atsu.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/TheUndo/Atsumaru) [!badge variant="ghost" size="xs" text="Mangasee"]
+- [Atsumaru](https://atsu.moe/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/TheUndo/Atsumaru) [!badge variant="ghost" size="xs" text="Mangasee"]
 
 
 ### Anime
-- [CoreProject](https://coreproject.moe/anime) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/baseplate-admin/CoreProject)
+- [CoreProject](https://coreproject.moe/anime) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/baseplate-admin/CoreProject)
 
 ### Miscellaneous
-- [Tankobon](https://tankobon.net/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/crxssed7/tankobon)
+- [Tankobon](https://tankobon.net/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/crxssed7/tankobon)
 
 
 ![](/static/banner/software.png)
@@ -38,7 +38,7 @@ ___
 ### PC
 
 #### Manga
-- [Atsumeru](https://github.com/AtsumeruDev/Atsumeru) [!badge variant="ghost" icon="globe" text="Web"](https://atsumeru.xyz/)
+- [Atsumeru](https://github.com/AtsumeruDev/Atsumeru) [!button variant="primary" size="xs" icon="globe" text="Web"](https://atsumeru.xyz/)
 - [Fukayo](https://github.com/JiPaix/Fukayo/)
 - [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager)
 - [Special Eureka](https://github.com/tonymushah/special-eureka)
@@ -59,7 +59,7 @@ ___
 - [Soshiki](https://github.com/soshikimoe/soshiki-ios)
 
 #### Miscellaneous
-- [Kurozora](https://kurozora.app/welcome) [!badge variant="ghost" icon="/static/icon/apple.png" text="Apple"](https://github.com/Kurozora/kurozora-app) [!badge variant="ghost" icon="/static/icon/andy.png" text="Android"](https://github.com/Kurozora/kurozora-android) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/) [!badge variant="ghost" icon="/static/icon/discord.svg" text="Discord"](https://github.com/Kurozora/kurozora-discord-bot) 
+- [Kurozora](https://kurozora.app/welcome) [!badge variant="dark" icon="/static/icon/apple.png" text="iOS"](https://github.com/Kurozora/kurozora-app) [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://github.com/Kurozora/kurozora-android) [!badge variant="dark" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/) [!badge variant="dark" icon="/static/icon/discord.svg" text="Discord"](https://github.com/Kurozora/kurozora-discord-bot) 
 
 ### macOS
 - [Anime Manager](https://github.com/anma-dev/Anime-Manager) [!badge variant="ghost" size="xs" text="Linux"]

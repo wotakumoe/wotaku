@@ -92,7 +92,7 @@ ___
 - [Kuramanime](https://kuramanime.net/)
 - [Mynimeku](https://www.mynimeku.com/)
 - [Neonime](https://neonime.fun/)
-- [Ryukonime](https://ryukonime.vercel.app/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/AzwarKusumah/Ryukonime)
+- [Ryukonime](https://ryukonime.vercel.app/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/AzwarKusumah/Ryukonime)
 - [Kusonime](https://kusonime.com/) [!badge variant="ghost" size="xs" text="DDL"]
 
 #### Italian
@@ -104,7 +104,7 @@ ___
 - [Anime Odcinki](https://anime-odcinki.pl/)
 - [Anime Zone](https://www.animezone.pl/)
 - [Desu Online](https://desu-online.pl/)
-- [Docchi](https://docchi.pl/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/docchipl/shinden-description)
+- [Docchi](https://docchi.pl/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/docchipl/shinden-description)
 - [Dragon Subs](https://dragonsubs.pl/)
 - [Frixy Subs](https://frixysubs.pl/)
 - [Fumetsu](https://fumetsu.pl/)
@@ -133,11 +133,11 @@ ___
 - [Anime Buff](https://animebuff.ru/) [!badge variant="ghost" size="xs" text="Sub"]
 - [Anime Stars](https://animestars.org/) [!badge variant="ghost" size="xs" text="Sub"]
 - [AnimeGO](https://animego.org/) [!badge variant="ghost" size="xs" text="Sub"]
-- [Averlist](https://averlist.xyz/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/Averito/Averlist)
+- [Averlist](https://averlist.xyz/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/Averito/Averlist)
 - [Dreamcast](https://dreamerscast.com/)
 - [Freedub Studio](https://freedubstudio.club/)
 - [Sovet Romantica](https://sovetromantica.com/) [!badge variant="ghost" size="xs" text="Sub"]
-- [Tunime](https://an0ncer.github.io/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/AN0NCER/an0ncer.github.io) [!badge variant="ghost" size="xs" text="Sub"]
+- [Tunime](https://an0ncer.github.io/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/AN0NCER/an0ncer.github.io) [!badge variant="ghost" size="xs" text="Sub"]
 - [Yummy Anime](https://yummyanime.club/)
 - [Anime Slayer](http://animelayer.ru/) [!badge variant="ghost" size="xs" text="Torrent"]
 - [Dark Libria](https://darklibria.it/) [!badge variant="ghost" size="xs" text="Stream"] [!badge variant="ghost" size="xs" text="DDL"] 
@@ -167,8 +167,8 @@ ___
 #### Vietnamese
 - [Kaguya](https://kaguya.app/)
 - [Ani4u](https://ani4u.org/)
-- [AnimeVsub](https://animevsub.eu.org/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/anime-vsub/desktop-web)
-- [Unime](https://unime.vercel.app/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/huy232/Unime)
+- [AnimeVsub](https://animevsub.eu.org/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/anime-vsub/desktop-web)
+- [Unime](https://unime.vercel.app/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/huy232/Unime)
 
 ___
 
@@ -201,7 +201,7 @@ ___
 - [Komiku](https://komiku.id/)
 - [Komik Cast](https://komikcast.site/)
 - [Mangaku](https://mangaku.fun/)
-- [Ryukomik](https://komik.ryukoproject.app/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/AzwarKusumah/ryukomik)
+- [Ryukomik](https://komik.ryukoproject.app/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/AzwarKusumah/ryukomik)
 - [Shinigami ID](https://shinigami.id/)
 
 #### Japanese
@@ -233,7 +233,7 @@ ___
 #### Vietnamese
 - [Bao Tang Truyen Tranh](https://baotangtruyengo.com/)
 - [Kaguya](https://kaguya.app/manga)
-- [Kyoto manga](https://kyotomanga.live/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/leephan2k1/manga-app)
+- [Kyoto manga](https://kyotomanga.live/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/leephan2k1/manga-app)
 - [Net Truyen](https://www.nettruyenplus.com/)
 
 ___
@@ -258,8 +258,8 @@ ___
 - [Mediabox](https://github.com/RyensX/MediaBox) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Stream"]
 
 === Multi
-- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/) [!badge variant="ghost" icon="globe" text="Web"](https://tachiyomi.org/) [!badge variant="ghost" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/)
-- [Aniyomi](https://github.com/jmir1/aniyomi/) [!badge variant="ghost" icon="globe" text="Web"](https://aniyomi.org/) [!badge variant="ghost" size="xs" text="Manga"]
+- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/) [!button variant="primary" size="xs" icon="globe" text="Web"](https://tachiyomi.org/) [!button variant="primary" size="xs" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/)
+- [Aniyomi](https://github.com/jmir1/aniyomi/) [!button variant="primary" size="xs" icon="globe" text="Web"](https://aniyomi.org/) [!badge variant="ghost" size="xs" text="Manga"]
 - Saikou [!badge variant="ghost" icon="/static/icon/id.png" text="ID"](https://github.com/saikou-app/saikou-in/) [!badge variant="ghost" icon="/static/icon/italy.png" text="IT"](https://github.com/antonydp/saikou-italiano) [!badge variant="ghost" icon="/static/icon/spain.png" text="ES"](https://github.com/Diegopyl1209/saikouSP) [!badge variant="ghost" icon="/static/icon/vietnam.png" text="VN"](https://github.com/hoangvu12/SaikouVN)
 
 ===
@@ -288,8 +288,8 @@ ___
 ### Brewing
 
 #### Website
-- [Ryuanime](https://ryuanime.chrismichael.now.sh/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/ChrisMichaelPerezSantiago/ryuanime) [!badge variant="ghost" icon="/static/icon/spain.png" size="xs" text="ES"]
-- [ANIFOX](https://anifox.club/anime) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/YockyMai/ANIFOX) [!badge variant="ghost" icon="/static/icon/russia.png" size="xs" text="RU"]
+- [Ryuanime](https://ryuanime.chrismichael.now.sh/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/ChrisMichaelPerezSantiago/ryuanime) [!badge variant="ghost" icon="/static/icon/spain.png" size="xs" text="ES"]
+- [ANIFOX](https://anifox.club/anime) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/YockyMai/ANIFOX) [!badge variant="ghost" icon="/static/icon/russia.png" size="xs" text="RU"]
 
 #### Apps
 - [Neko Anime](https://github.com/xioneko/neko-anime) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"]

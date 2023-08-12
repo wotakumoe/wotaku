@@ -150,7 +150,7 @@ Everrything Manga Related!
 ## Software
 
 ### Android
-- [**Tachiyomi**](https://github.com/tachiyomiorg/tachiyomi/) [!badge variant="ghost" icon="globe" text="Web"](https://tachiyomi.org/) [!badge variant="ghost" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/)
+- [**Tachiyomi**](https://github.com/tachiyomiorg/tachiyomi/) [!button variant="primary" size="xs" icon="globe" text="Web"](https://tachiyomi.org/) [!badge variant="ghost" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/)
     - Great Customizable UI
     - Ton of manga sources
     - Download and local reader support
@@ -162,7 +162,7 @@ Everrything Manga Related!
     - Support for all the comic formats.
     - The app is light but the UI looks old
     - A few features are behind paywall
-- [**Kotatsu**](https://github.com/KotatsuApp/Kotatsu) [!badge variant="ghost" icon="globe" text="Web"](https://kotatsu.app/)
+- [**Kotatsu**](https://github.com/KotatsuApp/Kotatsu) [!button variant="primary" size="xs" icon="globe" text="Web"](https://kotatsu.app/)
     - Minimalist UI with limited customization
     - Offers Manga Suggestions
     - Download and local reader support
@@ -226,12 +226,12 @@ Everrything Manga Related!
 ===
 
 #### iOS
-- [**Paperback**](https://github.com/Paperback-iOS/app) [!badge variant="ghost" icon="globe" text="Web"](https://paperback.moe/)
+- [**Paperback**](https://github.com/Paperback-iOS/app) [!button variant="primary" size="xs" icon="globe" text="Web"](https://paperback.moe/)
     - Very clean UI with changeable theme
     - Tracker & sync support
     - Many different download options
     - AppStore Release only for selected countries
-- [**Aidoku**](https://github.com/Aidoku/Aidoku) [!badge variant="ghost" icon="globe" text="Web"](https://aidoku.app/)
+- [**Aidoku**](https://github.com/Aidoku/Aidoku) [!button variant="primary" size="xs" icon="globe" text="Web"](https://aidoku.app/)
     - Available on Tesflight (no Sideloading needed)
     - Many sources
     - Tracker support

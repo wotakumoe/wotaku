@@ -23,7 +23,7 @@ ___
 
 ### Anime
 
-- [**Saikou**](https://github.com/saikou-app/saikou/) [!badge variant="ghost" icon="video" text="TV"](https://github.com/siennaXD/SaikouTV/)  [!badge variant="ghost" icon="globe" text="Web"](https://saikou.pages.dev/)
+- [**Saikou**](https://github.com/saikou-app/saikou/) [!button variant="primary" size="xs" icon="video" text="TV"](https://github.com/siennaXD/SaikouTV/)  [!button variant="primary" size="xs" icon="globe" text="Web"](https://saikou.pages.dev/)
   - Decent UI but limited customization
   - Can be used offline
   - Also offers manga reader & ln
@@ -35,7 +35,7 @@ ___
   - Tracking & backup support
   - Local player support
   - need to be part of the discord server to get the extension urls
-- [**Aniyomi**](https://github.com/jmir1/aniyomi/) [!badge variant="ghost" icon="globe" text="Web"](https://aniyomi.org/) [!badge variant="ghost" size="xs" text="Manga"]
+- [**Aniyomi**](https://github.com/jmir1/aniyomi/) [!button variant="primary" size="xs" icon="globe" text="Web"](https://aniyomi.org/) [!badge variant="ghost" size="xs" text="Manga"]
   - Tachiyomi fork for anime
   - Clean and minimal design
   - Offers other types of media too
@@ -44,7 +44,7 @@ ___
 
 === More
 
-- [Kaizoyu!](https://github.com/astarivi/Kaizoyu) [!badge variant="ghost" icon="globe" text="Web"](https://kaizoyu.ovh)
+- [Kaizoyu!](https://github.com/astarivi/Kaizoyu) [!button variant="primary" size="xs" icon="globe" text="Web"](https://kaizoyu.ovh)
 - [Animiru](https://github.com/Quickdesh/Animiru) [!badge variant="ghost" size="xs" text="Anime only"] [!badge variant="ghost" size="xs" text="RPC"]
 - [Animity](https://github.com/kl3jvi/animity)
 - [Enimax](https://github.com/enimax-anime/enimax)
@@ -53,7 +53,7 @@ ___
 
 ### Manga
 
-- [**Tachiyomi**](https://github.com/tachiyomiorg/tachiyomi/) [!badge variant="ghost" icon="globe" text="Web"](https://tachiyomi.org/) [!badge variant="ghost" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/)
+- [**Tachiyomi**](https://github.com/tachiyomiorg/tachiyomi/) [!button variant="primary" size="xs" icon="globe" text="Web"](https://tachiyomi.org/) [!button variant="primary" size="xs" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/)
   - Great Customizable UI
   - Ton of manga sources
   - Download and local reader support
@@ -65,7 +65,7 @@ ___
   - Support for all the comic formats.
   - The app is light but the UI looks old
   - A few features are behind paywall
-- [**Kotatsu**](https://github.com/KotatsuApp/Kotatsu) [!badge variant="ghost" icon="globe" text="Web"](https://kotatsu.app/)
+- [**Kotatsu**](https://github.com/KotatsuApp/Kotatsu) [!button variant="primary" size="xs" icon="globe" text="Web"](https://kotatsu.app/)
   - Minimalist UI with limited customization
   - Offers Manga Suggestions
   - Download and local reader support
@@ -88,7 +88,7 @@ ___
   - No in-app reading analytics
   - Good amount of features are behind paywall
   - No online source & tracker support
-- [**Shosetsu**](https://gitlab.com/shosetsuorg/shosetsu) [!badge variant="ghost" icon="globe" text="Web"](https://shosetsu.app/)
+- [**Shosetsu**](https://gitlab.com/shosetsuorg/shosetsu) [!button variant="primary" size="xs" icon="globe" text="Web"](https://shosetsu.app/)
   - Minimal UI with a lot of customization
   - Has CSS support
   - Slow dowload and no epub conversion
@@ -180,9 +180,9 @@ ___
 
 ### Light Novel
 
-- [Kavita](https://github.com/Kareadita/Kavita) [!badge variant="ghost" icon="globe" text="Web"](https://www.kavitareader.com/)
+- [Kavita](https://github.com/Kareadita/Kavita) [!button variant="primary" size="xs" icon="globe" text="Web"](https://www.kavitareader.com/)
 - [Novel Reader](https://github.com/Kevin-Umali/NovelReader)
-- [Koodo Reader](https://github.com/troyeguo/koodo-reader) [!badge variant="ghost" icon="globe" text="Web"](https://koodo.960960.xyz/en)
+- [Koodo Reader](https://github.com/troyeguo/koodo-reader) [!button variant="primary" size="xs" icon="globe" text="Web"](https://koodo.960960.xyz/en)
 
 ![](/static/banner/ios.png)
 
@@ -208,12 +208,12 @@ ___
 
 ### Manga
 
-- [**Paperback**](https://github.com/Paperback-iOS/app) [!badge variant="ghost" icon="globe" text="Web"](https://paperback.moe/)
+- [**Paperback**](https://github.com/Paperback-iOS/app) [!button variant="primary" size="xs" icon="globe" text="Web"](https://paperback.moe/)
   - Very clean UI with changeable theme
   - Tracker & sync support
   - Many different download options
   - AppStore Release only for selected countries
-- [**Aidoku**](https://github.com/Aidoku/Aidoku) [!badge variant="ghost" icon="globe" text="Web"](https://aidoku.app/)
+- [**Aidoku**](https://github.com/Aidoku/Aidoku) [!button variant="primary" size="xs" icon="globe" text="Web"](https://aidoku.app/)
   - Available on Tesflight (no Sideloading needed)
   - Many sources
   - Tracker support

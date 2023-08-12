@@ -30,7 +30,7 @@ ___
     - Uploads encoded **Blu-ray** versions if available
     - Clutter-free design and no watermark
     - Marin has a good amount of missing titles, especially movies
-- [**KickAssAnime**](https://kickassanime.am/) [!badge variant="ghost" text="Proxies"](https://kickassanimes.info/)
+- [**KickAssAnime**](https://kickassanime.am/) [!button variant="primary" size="xs" text="Proxies"](https://kickassanimes.info/)
     - Scrapes **Crunchyroll**(duckstream) and **Bilibili**(birdstream)
     - KAA encode(videstreaming) is ok-ish with lower overall bitrate. Use the previous two if available. Duck has the highest overall bitrate
     - Has both hardsub(duck) & softsub(rest)
@@ -46,19 +46,19 @@ ___
 #### Scraper
 - [Kaguya](https://kaguya.app) [!badge variant="ghost" size="xs" text="9anime"] [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="bili"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="marin"] [!badge variant="ghost" size="xs" text="zoro"]
 - [Anify](https://anify.tv/) [!badge variant="ghost" size="xs" text="9anime"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="zoro"]  [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Novel"]
-- [Enime](https://enime.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/Enime-Project) [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="zoro"]
+- [Enime](https://enime.moe/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/Enime-Project) [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="zoro"]
 
 
 === More
 - [Muse Asia](https://www.youtube.com/@MuseAsia/) [!badge variant="ghost" size="xs" text="Regional"]
 - [Ani-One Aisa](https://www.youtube.com/AniOneAsia/) [!badge variant="ghost" size="xs" text="Regional"]
-- [One Pace](https://onepace.net/) [!badge variant="ghost" text="Stream"](https://rentry.co/onepace) [!badge variant="ghost" size="xs" text="Torrent"]
-- [Pokémon TV](https://poke-tv.vercel.app/)  [!button variant="ghost" icon="mark-github" size="xs" text="Github"](https://github.com/seiya-dev/pokemon-tv) [!badge variant="ghost" size="xs" text="Multi-lang"]
+- [One Pace](https://onepace.net/) [!button variant="primary" size="xs" text="Stream"](https://rentry.co/onepace) [!badge variant="ghost" size="xs" text="Torrent"]
+- [Pokémon TV](https://poke-tv.vercel.app/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/seiya-dev/pokemon-tv) [!badge variant="ghost" size="xs" text="Multi-lang"]
 - [LM Anime](https://lmanime.com/) [!badge variant="ghost" size="xs" text="Donghua"]
 - [AnimeXin](https://animexin.vip/) [!badge variant="ghost" size="xs" text="Donghua"]
 ===
 
-> Use [!badge variant="ghost" icon="/static/icon/ada.png"  text="AdAway"](https://adaway.org/) or [!badge variant="ghost" icon="/static/icon/adg.png"  text="Adguard"](https://adguard.com/en/welcome.html) on Android and [!badge variant="ghost" icon="/static/icon/ubo.png"  text="uBlock Origin"](https://ublockorigin.com/) in browsers to get rid of all the ads and trakcers.
+> Use [!badge variant="dark" icon="/static/icon/ada.png"  text="AdAway"](https://adaway.org/) or [!badge variant="dark" icon="/static/icon/adg.png"  text="Adguard"](https://adguard.com/en/welcome.html) on Android and [!badge variant="dark" icon="/static/icon/ubo.png"  text="uBlock Origin"](https://ublockorigin.com/) in browsers to get rid of all the ads and trakcers.
 
 
 ### Direct Download
@@ -74,7 +74,7 @@ ___
 - [JPFiles](https://jpfiles.eu/) [!badge size="xs" variant="warning" icon="sparkle-fill" text="Blu-ray"] [!badge variant="ghost" size="xs" text="Misc"] [!badge variant="ghost" size="xs" text="Host"]
 - [JPLearner](http://www.jplearner.to/) [!badge size="xs" variant="warning" icon="sparkle-fill" text="Blu-ray"] [!badge variant="ghost" size="xs" text="Misc"] [!badge variant="ghost" size="xs" text="Host"]
 
-> To download in Android, use [!badge variant="ghost" icon="/static/icon/1dm.png" text="1DM"](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US), [!badge variant="ghost" icon="/static/icon/fdm.png" text="FDM"](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm&hl=en&gl=US) or [!badge variant="ghost" icon="/static/icon/adm.png" text="ADM"](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US). For PC, use [!badge variant="ghost" icon="/static/icon/idm.webp" text="IDM"](https://www.internetdownloadmanager.com/), [!badge variant="ghost" icon="/static/icon/jdl.png" text="JDL"](https://jdownloader.org/) or [!badge variant="ghost" icon="/static/icon/fdm.png" text="FDM"](https://www.freedownloadmanager.org/). You can use JDL & FDM on Linux & macOS too. Read [this guide](https://rentry.org/jdownloader2) to debloat JDL.
+> To download in Android, use [!badge variant="dark" icon="/static/icon/1dm.png" text="1DM"](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US), [!badge variant="dark" icon="/static/icon/fdm.png" text="FDM"](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm&hl=en&gl=US) or [!badge variant="dark" icon="/static/icon/adm.png" text="ADM"](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US). For PC, use [!badge variant="dark" icon="/static/icon/idm.webp" text="IDM"](https://www.internetdownloadmanager.com/), [!badge variant="dark" icon="/static/icon/jdl.png" text="JDL"](https://jdownloader.org/) or [!badge variant="dark" icon="/static/icon/fdm.png" text="FDM"](https://www.freedownloadmanager.org/). You can use JDL & FDM on Linux & macOS too. Read [this guide](https://rentry.org/jdownloader2) to debloat JDL.
 
 ### IRC
 - [**nibl**](https://nibl.co.uk/search)
@@ -100,7 +100,7 @@ ___
 
 ### Torrents
 
-- [Nyaa](https://nyaa.si/) [!badge variant="ghost" text="Proxy 1"](https://nyaa.iss.one/)  [!badge variant="ghost" text="Proxy 2"](https://nyaa.iss.ink/)
+- [Nyaa](https://nyaa.si/) [!button variant="primary" size="xs" text="Proxy 1"](https://nyaa.iss.one/)  [!button variant="primary" size="xs" text="Proxy 2"](https://nyaa.iss.ink/)
 - [Animek](https://animek.fun/)
 - [Anime Tosho](https://animetosho.org/)
 - [Anidex](https://anidex.info/)
@@ -111,9 +111,9 @@ ___
 
 > For torrent related terms, [click here](https://rentry.org/The-Piracy-Glossary#torrenting-terms).
 
-> Recommended torrent client for Android is [!badge variant="ghost" icon="/static/icon/lt.png"  text="libretorrent"](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent). For Windows, Linux & macOS, use [!badge variant="ghost" icon="/static/icon/qb.svg"  text="qBittorrent"](https://www.qbittorrent.org/) or [!badge variant="ghost" icon="/static/icon/trans.png"  text="Transmission"](https://transmissionbt.com/).
+> Recommended torrent client for Android is [!badge variant="dark" icon="/static/icon/lt.png"  text="libretorrent"](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent). For Windows, Linux & macOS, use [!badge variant="dark" icon="/static/icon/qb.svg"  text="qBittorrent"](https://www.qbittorrent.org/) or [!badge variant="dark" icon="/static/icon/trans.png"  text="Transmission"](https://transmissionbt.com/).
 
-> For VPN, use [!badge variant="ghost" icon="/static/icon/mv.png"  text="Mullvad"](https://mullvad.net/) or [!badge variant="ghost" icon="/static/icon/ivpn.png"  text="IVPN"](https://www.ivpn.net/). If you want free alternative, use [!badge variant="ghost" icon="/static/icon/wind.png"  text="Windscribe"](https://windscribe.com/).
+> For VPN, use [!badge variant="dark" icon="/static/icon/mv.png"  text="Mullvad"](https://mullvad.net/) or [!badge variant="dark" icon="/static/icon/ivpn.png"  text="IVPN"](https://www.ivpn.net/). If you want free alternative, use [!badge variant="dark" icon="/static/icon/wind.png"  text="Windscribe"](https://windscribe.com/).
 
 > Use [Seadex](https://releases.moe/) or [Sneedex](https://sneedex.moe/) to find the best uploads available.
 
@@ -289,10 +289,10 @@ You may now use your credentials to log into https://manga.madokami.al and enjoy
 ___
 
 ### Stream
-- [Anithemes.moe](https://animethemes.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/AnimeThemes)
+- [Anithemes.moe](https://animethemes.moe/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/AnimeThemes)
 - [Themes.moe](https://themes.moe/)
 - [Squidify](https://www.squidify.org/)
-- [LISTEN.moe](https://listen.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/LISTEN-moe)
+- [LISTEN.moe](https://listen.moe/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/LISTEN-moe)
 
 ### Direct Download
 - [Sitting on Clouds](https://www.sittingonclouds.net/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Mega"] [!badge variant="ghost" size="xs" text="Mediafire"]
@@ -351,4 +351,4 @@ ___
 - [ryuu blogger](https://ryuubloggerv2.blogspot.com/) [!badge variant="danger" size="xs" text="R+"]
 - [Crane Anime](https://docs.google.com/spreadsheets/d/1ECqqhEm2kDS0hgxZ0tD_73e04v5FUxQGkfCbfi0Kb9k/pubhtml#) [!badge variant="danger" size="xs" text="R+"]
 - [Anime-sharing](http://www.anime-sharing.com/forum/) [!badge variant="danger" size="xs" text="R+"]
-- [GOG](https://www.gog.com/en/games?genres=visual-novel&hideDLCs=true) [!badge variant="ghost" text="Download"](https://gog-games.to/)  [!badge variant="danger" size="xs" text="R+"]
+- [GOG](https://www.gog.com/en/games?genres=visual-novel&hideDLCs=true) [!badge variant="dark" text="Download"](https://gog-games.to/)  [!badge variant="danger" size="xs" text="R+"]

@@ -50,7 +50,7 @@ ___
     - NSFW portion of nyaa.
 - [Chika Panda](https://panda.chaika.moe/)
     - Archive of stuff removed from E-Hentai due to DMCA complaints. has fakku/irodori stuff.
-- [nyanpantsu](https://nyanpantsu.vercel.app/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/purpleblueslime/nyanpantsu)
+- [nyanpantsu](https://nyanpantsu.vercel.app/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/purpleblueslime/nyanpantsu)
 - [Wholesome Hentai God List](https://wholesomelist.com/)
 
 ### Manhwa
@@ -63,7 +63,7 @@ ___
 
 === Scanlators
 - [The Blank](https://mangadex.org/group/d53b6ec6-bbbf-4fad-a254-2b7ddda84c2c/the-blank)
-- [Omega scans](https://mangadex.org/group/8295f3f9-7462-403b-8fc0-f93a6c245a5c/omegascans) [!badge variant="ghost" icon="globe" text="Web"](https://omegascans.org/)
+- [Omega scans](https://mangadex.org/group/8295f3f9-7462-403b-8fc0-f93a6c245a5c/omegascans) [!button variant="primary" size="xs" icon="globe" text="Web"](https://omegascans.org/)
 - [Acera the great](https://mangadex.org/group/ea35447d-5035-485f-8eda-841bafc4b215/acerathegreat)
 - [Mangazuki](https://mangadex.org/group/4b11e95f-a9c2-417d-a179-d6a20255b68d/mangazuki)
 - [Shinsei Scans](https://mangadex.org/group/f6f2ab9e-4997-4401-80a2-3840ee8558a2/shinsei-scans)
@@ -100,8 +100,8 @@ ___
 
 === Downloader
 
-- [Hakuneko](https://github.com/manga-download/hakuneko) [!badge variant="ghost" icon="globe" text="Web"](https://hakuneko.download/)
-- [HDoujin Downloader](https://github.com/HDoujinDownloader/HDoujinDownloader) [!badge variant="ghost" icon="globe" text="Web"](https://doujindownloader.com/)
+- [Hakuneko](https://github.com/manga-download/hakuneko) [!button variant="primary" size="xs" icon="globe" text="Web"](https://hakuneko.download/)
+- [HDoujin Downloader](https://github.com/HDoujinDownloader/HDoujinDownloader) [!button variant="primary" size="xs" icon="globe" text="Web"](https://doujindownloader.com/)
 - [Hentai downloader](https://github.com/touno-io/hentai-downloader)
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) [!badge variant="ghost" size="xs" text="Anime"]
 - [E-Hentai Downloader](https://github.com/ccloli/E-Hentai-Downloader)
@@ -114,14 +114,14 @@ ___
 ___
 ![](/static/banner/script.png)
 ## Scripts
-- E-HENTAI-VIEW-ENHANCE [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/397848-e-hentai-view-enhance)
-- Eza's Image Glutton [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/4713-eza-s-image-glutton)
-- Image Board Enhancer [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/387312-image-board-enhancer-rule34-gelbooru-e621-and-more)
-- Let's panda! [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/33979-let-s-panda)
-- MALSync Adult [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/387981-mal-sync-adult-fatexxxblood-edition)
-- Manga Loader NSFW [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/12657-manga-loader-nsfw)
-- Manga OnlineViewer [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/1319-manga-onlineviewer)
-- [nhentai helper](https://github.com/Tsuk1ko/nhentai-helper) [!badge variant="ghost" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/375992-nhentai-helper)
+- E-HENTAI-VIEW-ENHANCE [!badge variant="dark" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/397848-e-hentai-view-enhance)
+- Eza's Image Glutton [!badge variant="dark" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/4713-eza-s-image-glutton)
+- Image Board Enhancer [!badge variant="dark" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/387312-image-board-enhancer-rule34-gelbooru-e621-and-more)
+- Let's panda! [!badge variant="dark" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/33979-let-s-panda)
+- MALSync Adult [!badge variant="dark" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/387981-mal-sync-adult-fatexxxblood-edition)
+- Manga Loader NSFW [!badge variant="dark" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/12657-manga-loader-nsfw)
+- Manga OnlineViewer [!badge variant="dark" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/1319-manga-onlineviewer)
+- [nhentai helper](https://github.com/Tsuk1ko/nhentai-helper) [!badge variant="dark" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/375992-nhentai-helper)
 - [nhentai konnichiwa](https://github.com/naiymu/nhentai-konnichiwa)
 
 ___

@@ -33,10 +33,9 @@ Everrything Anime Related!
     - Uploads **Blu-ray** and **DVD** versions if available
     
 #### Scraper
-- [Kaguya](https://kaguya.app) [!badge variant="ghost" size="xs" text="9anime"] [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="bili"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="marin"] [!badge variant="ghost" size="xs" text="zoro"]
-- [Anify](https://anify.tv/) [!badge variant="ghost" size="xs" text="9anime"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="zoro"]  [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Novel"]
-- [Enime](https://enime.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/Enime-Project) [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="zoro"]
-
+- [Kaguya](https://kaguya.app)
+- [Anify](https://anify.tv/) [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Novel"]
+- [Enime](https://enime.moe/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/Enime-Project/enime.moe)
 
 === More
 - [Muse Asia](https://www.youtube.com/@MuseAsia/) [!badge variant="ghost" size="xs" text="Regional"]
@@ -132,7 +131,7 @@ You may now use your credentials to log into https://manga.madokami.al and enjoy
 ## Software
 
 ### Android
-- [**Saikou**](https://github.com/saikou-app/saikou/) [!badge variant="ghost" icon="video" text="TV"](https://github.com/siennaXD/SaikouTV/)  [!badge variant="ghost" icon="globe" text="Web"](https://saikou.pages.dev/)
+- [**Saikou**](https://github.com/saikou-app/saikou/) [!badge variant="ghost" icon="video" text="TV"](https://github.com/siennaXD/SaikouTV/)  [!button variant="primary" size="xs" icon="globe" text="Web"](https://saikou.pages.dev/)
     - Decent UI but limited customization
     - Can be used offline
     - Also offers manga reader & ln
@@ -144,13 +143,13 @@ You may now use your credentials to log into https://manga.madokami.al and enjoy
     - Tracking & backup support
     - Local player support
     - need to be part of the discord server to get the extension urls
-- [**Aniyomi**](https://github.com/jmir1/aniyomi/) [!badge variant="ghost" icon="globe" text="Web"](https://aniyomi.org/) [!badge variant="ghost" size="xs" text="Manga"]
+- [**Aniyomi**](https://github.com/jmir1/aniyomi/) [!button variant="primary" size="xs" icon="globe" text="Web"](https://aniyomi.org/) [!badge variant="ghost" size="xs" text="Manga"]
     - Tachiyomi fork for anime
     - Clean and minimal design
     - Offers other types of media too
     - Has manga reader too
     - Tracking support with enhanced type
-- [**Kaizoyu!**](https://github.com/astarivi/Kaizoyu) [!badge variant="ghost" icon="globe" text="Web"](https://kaizoyu.ovh)
+- [**Kaizoyu!**](https://github.com/astarivi/Kaizoyu) [!button variant="primary" size="xs" icon="globe" text="Web"](https://kaizoyu.ovh)
     - Uses XDCC to stream files
     - Good video quality since it's scrapping a DDL source
     - Great app UI
@@ -213,14 +212,14 @@ You may now use your credentials to log into https://manga.madokami.al and enjoy
 - [AnimeSchedule](https://animeschedule.net/)
 - [Livechart](https://www.livechart.me/)
 - [Monthly.moe](https://www.monthly.moe/)
-- [Notify.moe](https://notify.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/animenotifier/notify.moe)
+- [Notify.moe](https://notify.moe/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/animenotifier/notify.moe)
 - [Senpai.moe](https://www.senpai.moe/)
 
 
 #### Stats/Watch guide
 - [Anime Karma List](https://animekarmalist.com/)
 - [Anime Stats](https://anime-stats.net/)
-- [Kitsu Season Trends](https://season.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/wopian/kitsu-season-trends)
+- [Kitsu Season Trends](https://season.moe/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/wopian/kitsu-season-trends)
 - [Anime Filler Guide](https://www.animefillerguide.com/)
 - [Anime Filler List](https://www.animefillerlist.com/)
 - [Chiaki](https://chiaki.site/)
@@ -244,10 +243,10 @@ You may now use your credentials to log into https://manga.madokami.al and enjoy
 ### OST
 
 #### Stream
-- [Anithemes.moe](https://animethemes.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/AnimeThemes)
+- [Anithemes.moe](https://animethemes.moe/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/AnimeThemes)
 - [Themes.moe](https://themes.moe/)
 - [Squidify](https://www.squidify.org/)
-- [LISTEN.moe](https://listen.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/LISTEN-moe)
+- [LISTEN.moe](https://listen.moe/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/LISTEN-moe)
 
 #### Direct Download
 - [Sitting on Clouds](https://www.sittingonclouds.net/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Mega"] [!badge variant="ghost" size="xs" text="Mediafire"]
@@ -261,15 +260,15 @@ You may now use your credentials to log into https://manga.madokami.al and enjoy
 ### Tools
 
 #### Analysis
-- [anime.plus](https://anime.plus/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/anime-plus/graph) [!badge variant="ghost" size="xs" text="MAL"]
+- [anime.plus](https://anime.plus/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/anime-plus/graph) [!badge variant="ghost" size="xs" text="MAL"]
 - [MAL Badges](https://www.mal-badges.com/) [!badge variant="ghost" size="xs" text="MAL"]
-- [Sekai](https://sekai.rl404.com/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/rl404/sekai) [!badge variant="ghost" size="xs" text="MAL"]
+- [Sekai](https://sekai.rl404.com/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/rl404/sekai) [!badge variant="ghost" size="xs" text="MAL"]
 - [Sprout Anime Recommender](https://anime.ameo.dev/) [!badge variant="ghost" size="xs" text="MAL"]  [!badge variant="ghost" size="xs" text="AL"]
 
 #### Image search
-- [SauceKudasai](https://saucekudasai.com/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/ayushgptaa/SauceKudasai)
+- [SauceKudasai](https://saucekudasai.com/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/ayushgptaa/SauceKudasai)
 - [SauceNAO](https://saucenao.com/)
-- [Trace](https://trace.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/soruly/trace.moe)
+- [Trace](https://trace.moe/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/soruly/trace.moe)
 
 ### Trackers
 ___
@@ -278,33 +277,33 @@ ___
 
 === Anilist
 - [Apps for Anilist](https://anilist.co/apps)
-- [AniHyou](https://github.com/axiel7/AniHyou-android) [!badge variant="ghost" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.axiel7.anihyou)
+- [AniHyou](https://github.com/axiel7/AniHyou-android) [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.axiel7.anihyou)
 
 === Kitsu
-- [Kitsu](https://github.com/hummingbird-me/kitsu-mobile) [!badge variant="ghost" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.everfox.animetrackerandroid&hl=en&gl=US) [!badge variant="ghost" icon="/static/icon/apple.png" text="iOS"](https://apps.apple.com/us/app/kitsu-anime/id590452826)
+- [Kitsu](https://github.com/hummingbird-me/kitsu-mobile) [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.everfox.animetrackerandroid&hl=en&gl=US) [!badge variant="dark" icon="/static/icon/apple.png" text="iOS"](https://apps.apple.com/us/app/kitsu-anime/id590452826)
 - [Kitsune](https://github.com/Drumber/Kitsune)
 
 === MyAnimeList
-- DailyAL [!badge variant="ghost" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.teen.dailyanimelist&hl=en&gl=US)
-- [MoeList](https://github.com/axiel7/MoeList) [!badge variant="ghost" icon="globe" text="Web"](https://moelist.net/)
+- DailyAL [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.teen.dailyanimelist&hl=en&gl=US)
+- [MoeList](https://github.com/axiel7/MoeList) [!button variant="primary" size="xs" icon="globe" text="Web"](https://moelist.net/)
 ===
 
 #### Windows
-- [Taiga](https://github.com/erengy/taiga) [!badge variant="ghost" icon="globe" text="Web"](https://taiga.moe/) [!badge variant="ghost" size="xs" text="Downloader"]
-- [Trackma](https://github.com/z411/trackma) [!badge variant="ghost" icon="globe" text="Web"](https://z411.github.io/trackma/)
+- [Taiga](https://github.com/erengy/taiga) [!button variant="primary" size="xs" icon="globe" text="Web"](https://taiga.moe/) [!badge variant="ghost" size="xs" text="Downloader"]
+- [Trackma](https://github.com/z411/trackma) [!button variant="primary" size="xs" icon="globe" text="Web"](https://z411.github.io/trackma/)
 - [MALClient](https://github.com/Drutol/MALClient) [!badge variant="ghost" icon="globe" text="Store"](https://apps.microsoft.com/store/detail/malclient/9NBLGGH5F3BL)
 
 #### MacOS
-- [Hachidori](https://github.com/Atelier-Shiori/hachidori) [!badge variant="ghost" icon="globe" text="Web"](https://malupdaterosx.moe/hachidori/)
+- [Hachidori](https://github.com/Atelier-Shiori/hachidori) [!button variant="primary" size="xs" icon="globe" text="Web"](https://malupdaterosx.moe/hachidori/)
 
 #### Linux
-- [Trackma](https://github.com/z411/trackma) [!badge variant="ghost" icon="globe" text="Web"](https://z411.github.io/trackma/)
-- [Tundra](https://github.com/m4tx/tundra) [!badge variant="ghost" icon="globe" text="Web"](https://tundra.moe/)
+- [Trackma](https://github.com/z411/trackma) [!button variant="primary" size="xs" icon="globe" text="Web"](https://z411.github.io/trackma/)
+- [Tundra](https://github.com/m4tx/tundra) [!button variant="primary" size="xs" icon="globe" text="Web"](https://tundra.moe/)
 
 #### Browser
-- [MALSync](https://github.com/MALSync/MALSync) [!badge variant="ghost" icon="globe" text="Web"](https://malsync.moe/) [!badge variant="ghost" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel) [!badge variant="ghost" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/mal-sync/) [!badge variant="ghost" icon="file-code" text="Script"](https://github.com/MALSync/MALSync/releases/latest/download/malsync.user.js)
+- [MALSync](https://github.com/MALSync/MALSync) [!button variant="primary" size="xs" icon="globe" text="Web"](https://malsync.moe/) [!badge variant="dark" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel) [!badge variant="dark" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/mal-sync/) [!badge variant="ghost" icon="file-code" text="Script"](https://github.com/MALSync/MALSync/releases/latest/download/malsync.user.js)
 - [Kenmei](https://www.kenmei.co/)
-- [All Manga Reader](https://gitlab.com/all-mangas-reader/all-mangas-reader-2) [!badge variant="ghost" icon="globe" text="Web"](https://www.allmangasreader.com/)
+- [All Manga Reader](https://gitlab.com/all-mangas-reader/all-mangas-reader-2) [!button variant="primary" size="xs" icon="globe" text="Web"](https://www.allmangasreader.com/)
 
 #### Miscellaneous
 - [Anime Manga Auto Backup](https://github.com/Animanga-Initiative/animeManga-autoBackup)
@@ -389,7 +388,7 @@ ___
 - [Kuramanime](https://kuramanime.net/)
 - [Mynimeku](https://www.mynimeku.com/)
 - [Neonime](https://neonime.fun/)
-- [Ryukonime](https://ryukonime.vercel.app/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/AzwarKusumah/Ryukonime)
+- [Ryukonime](https://ryukonime.vercel.app/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/AzwarKusumah/Ryukonime)
 - [Kusonime](https://kusonime.com/) [!badge variant="ghost" size="xs" text="DDL"]
 
 #### Italian
@@ -401,7 +400,7 @@ ___
 - [Anime Odcinki](https://anime-odcinki.pl/)
 - [Anime Zone](https://www.animezone.pl/)
 - [Desu Online](https://desu-online.pl/)
-- [Docchi](https://docchi.pl/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/docchipl/shinden-description)
+- [Docchi](https://docchi.pl/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/docchipl/shinden-description)
 - [Dragon Subs](https://dragonsubs.pl/)
 - [Frixy Subs](https://frixysubs.pl/)
 - [Fumetsu](https://fumetsu.pl/)
@@ -430,11 +429,11 @@ ___
 - [Anime Buff](https://animebuff.ru/) [!badge variant="ghost" size="xs" text="Sub"]
 - [Anime Stars](https://animestars.org/) [!badge variant="ghost" size="xs" text="Sub"]
 - [AnimeGO](https://animego.org/) [!badge variant="ghost" size="xs" text="Sub"]
-- [Averlist](https://averlist.xyz/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/Averito/Averlist)
+- [Averlist](https://averlist.xyz/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/Averito/Averlist)
 - [Dreamcast](https://dreamerscast.com/)
 - [Freedub Studio](https://freedubstudio.club/)
 - [Sovet Romantica](https://sovetromantica.com/) [!badge variant="ghost" size="xs" text="Sub"]
-- [Tunime](https://an0ncer.github.io/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/AN0NCER/an0ncer.github.io) [!badge variant="ghost" size="xs" text="Sub"]
+- [Tunime](https://an0ncer.github.io/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/AN0NCER/an0ncer.github.io) [!badge variant="ghost" size="xs" text="Sub"]
 - [Yummy Anime](https://yummyanime.club/)
 - [Anime Slayer](http://animelayer.ru/) [!badge variant="ghost" size="xs" text="Torrent"]
 - [Dark Libria](https://darklibria.it/) [!badge variant="ghost" size="xs" text="Stream"] [!badge variant="ghost" size="xs" text="DDL"] 
@@ -464,5 +463,5 @@ ___
 #### Vietnamese
 - [Kaguya](https://kaguya.app/)
 - [Ani4u](https://ani4u.org/)
-- [AnimeVsub](https://animevsub.eu.org/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/anime-vsub/desktop-web)
-- [Unime](https://unime.vercel.app/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/huy232/Unime)
+- [AnimeVsub](https://animevsub.eu.org/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/anime-vsub/desktop-web)
+- [Unime](https://unime.vercel.app/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/huy232/Unime)
