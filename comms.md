@@ -31,6 +31,7 @@ ___
 - [SquidBoard](https://discord.gg/ATjPbzR)
 - [Tachiyomi](https://discord.com/invite/tachiyomi)
 - [TheMoeWay](https://discord.com/invite/nhqjydaR8j)
+- [TypesettingTools](https://discord.com/invite/AZaVyPr)
 
 ## Subreddits
 - [Anime](https://www.reddit.com/r/anime)

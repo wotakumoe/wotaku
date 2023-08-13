@@ -121,6 +121,7 @@ Active maintenance is necessary for scripts to work properly. If a script fails,
 
 ## Tools
 ___
+- [Aegusub](https://aegisub.org/) [!badge variant="dark" icon="repo-forked" text="Fork"](https://github.com/arch1t3cht/Aegisub)
 - [Anitomy](https://github.com/erengy/anitomy)
 - [Hydrus network](https://hydrusnetwork.github.io/hydrus/)
 - [Kindle Comic Converter](https://github.com/ciromattia/kcc)
@@ -135,6 +136,7 @@ ___
 - [Smart Image](https://github.com/Decimation/SmartImage)
 - [Tachisync](https://github.com/axiel7/Tachisync)
 - [Textractor](https://github.com/Artikash/Textractor)
+- [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter)
 
 ![](/static/banner/trackers.png)
 
