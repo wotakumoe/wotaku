@@ -167,14 +167,14 @@ ___
 
 #### Hosting
 - [**Kogma**](https://komga.org/)
-    - Media server for manga/comics. think of it like plex for manga.
-    - Integrates with tachi, OPDS reader or anything else using komga rest api.
+    - Media server for manga/comics (like plex for manga).
+    - Integrates with tachiyomi, OPDS reader or anything else using komga rest api.
     - Community built tools can be added though it's rest api for extra features like dupe detection, media analysis for corrupt files, .cbl read lists and much more.
-    - User Management. Can restrict sections of library for different users.
+    - User authentication using Github, Google or anyother OAuth provider. Can restrict sections of library for different users.
     - Supports ComicInfo.xml and info.json for metadata.
     - Supported as a source in MALSync, for AniList/MAL tracking
     - Follows the 1-folder-to-1-series paradigm (unless you designate a folder as a folder of oneshots) so you'll need to organize your files accordingly.
-    - Only supports image-based formats. can't be used to LNs
+    - Only supports image-based formats. Can't be used to LNs
 
 === More
 
