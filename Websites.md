@@ -350,6 +350,7 @@ ___
 ___
 
 - [nyaa](https://nyaa.si/) [!badge variant="danger" size="xs" text="R+"]
+- [CPG Repacks](ttps://cpgrepacks.site) [!badge variant="danger" size="xs" text="R+"]
 - [ryuu games](https://www.ryuugames.com/tag/japanese/) [!badge variant="danger" size="xs" text="R+"]
 - [ryuu blogger](https://ryuubloggerv2.blogspot.com/) [!badge variant="danger" size="xs" text="R+"]
 - [Crane Anime](https://docs.google.com/spreadsheets/d/1ECqqhEm2kDS0hgxZ0tD_73e04v5FUxQGkfCbfi0Kb9k/pubhtml#) [!badge variant="danger" size="xs" text="R+"]
