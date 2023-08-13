@@ -29,6 +29,7 @@ ___
 ___
 
 ### Manga
+- [Anilist](https://anilist.co/)
 - [Mangaupdates](https://www.mangaupdates.com/)
 - [Manga Codex](http://www.mangacodex.com/)
 - [Manga Groups Portal](https://discord.gg/9KGMzP2)
@@ -74,7 +75,7 @@ ___
 - [A Certain Fansubber's Index](https://index.fansubcar.tel/)
 - [Fansub Database](https://fansubdb.com/)
 - [German Fansubbers' Index](https://anime-fansubs.de/)
-- [Indonasian Fansubbers' Index](https://www.fansub.id/home)
+- [Indonesian Fansubbers' Index](https://www.fansub.id/home)
 
 
 ### Miscellaneous
@@ -175,6 +176,7 @@ ___
 - [Kitsu](https://kitsu.io/)
 - [Mangaupdates](https://www.mangaupdates.com/)
 - [Novel updates](https://www.novelupdates.com/)
+- [SIMKL](https://simkl.com/)
 
 ### Others
 - [3x3 Generator](https://gqgs.github.io/3x3-generator/)

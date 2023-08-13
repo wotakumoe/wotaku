@@ -21,11 +21,11 @@ Want to increase your otaku knowledge? Look for no further! Presenting the Gloss
 
 | Genre     | Target audience { class="compact" } |
 | :------:  | :------: |
-| Kodomo    | Kids (under 10)    |
+| Kodomo    | Kids (under 12)    |
 | Shounen   | Boys (12-18)     |
 | Shoujo    | Girls (12-18)  |
 | Seinen    | Men (19-40+)  |
-| Shoujo    | Women (19-40+)  |
+| Josei    | Women (19-40+)  |
 
 > Demography refers to the target audience for a piece of content. Studios and publishers need to market their content towards that specific audience, but it does not mean that only one demography will enjoy the show. Additionally, many anime/manga incorporate elements that appeal to various demographics.
 ___

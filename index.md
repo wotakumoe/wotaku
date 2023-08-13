@@ -7,7 +7,7 @@ icon: ":wave:"
 
 # ようこそ !
 
-Welcome to Wotaku! Here, you'll find a diverse range of resources related to manga, anime, light novels, visual novels, and merch. I hope you'll enjoy exploring the wiki.
+Welcome to Wotaku! Here, you'll find a diverse range of resources related to anime, manga, light novels, visual novels, and merch. I hope you'll enjoy exploring the wiki.
 
 <style>
     .sample {

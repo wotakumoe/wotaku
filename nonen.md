@@ -16,7 +16,7 @@ ___
 ___
 
 #### Multi
-- [Aniwatch](https://aniwatch.to/home) [!badge variant="dark" size="xs" text="aka Zoro"]
+- [Aniwatch](https://aniwatch.to/home) [!badge variant="dark" size="xs" text="formerly Zoro"]
 - [Kickassanime](https://kaas.am/)
 
 #### Arabic

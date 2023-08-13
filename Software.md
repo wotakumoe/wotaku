@@ -36,7 +36,7 @@ ___
   - Local player support
   - Extensions often break
 - [**Aniyomi**](https://github.com/jmir1/aniyomi/) [!button variant="primary" size="xs" icon="globe" text="Web"](https://aniyomi.org/) [!badge variant="ghost" size="xs" text="Manga"]
-  - Tachiyomi fork for anime
+  - Unofficial Tachiyomi fork for anime
   - Clean and minimal design
   - Offers other types of media too
   - Has manga reader too
@@ -163,7 +163,7 @@ ___
     - Decent UI
     - Initial load times is slightly slower than above two readers
     - Has vertical reading mode with limited amount of customization
-
+    - Does not clear cache automatically. Have to do it manually
 
 === More
 - [Clovre](https://github.com/rehhouari/clovre) [!badge variant="ghost" size="xs" text="offline"]
