@@ -34,13 +34,14 @@ ___
   - Offers other types of media too
   - Tracking & backup support
   - Local player support
-  - need to be part of the discord server to get the extension urls
+  - Extensions often break
 - [**Aniyomi**](https://github.com/jmir1/aniyomi/) [!button variant="primary" size="xs" icon="globe" text="Web"](https://aniyomi.org/) [!badge variant="ghost" size="xs" text="Manga"]
   - Tachiyomi fork for anime
   - Clean and minimal design
   - Offers other types of media too
   - Has manga reader too
   - Tracking support with enhanced type
+  - Good amount of extensions are broken
 
 === More
 

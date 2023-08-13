@@ -22,7 +22,7 @@ ___
 
 ### Stream
 
-- [**Aniwave**](https://aniwave.to/home) [!badge variant="dark" size="xs" text="aka 9anime"]
+- [**Aniwave**](https://aniwave.to/home) | [Anix](https://anix.to/home) [!badge variant="dark" size="xs" text="aka 9anime"]
     - Huge library with Watch Together feature
     - Less amount of compression compared to other sites that use 3rd party hosts
 - [**Marin**](https://marin.moe/)
@@ -96,7 +96,7 @@ ___
 	- Channel: `#MK` or `XDCCLeech`
 - [**XDCC EU**](https://www.xdcc.eu/)
 - [**SunXDCC**](https://sunxdcc.com/)
-- [**Anidex**](https://xdcc.anidex.moe/) (`Michiko` bot is over at `#Doki``)
+- [**Anidex**](https://xdcc.anidex.moe/) (`Michiko` bot is over at `#Doki`)
 
 > To learn how to use IRC, you can read [**the guide**](/IRC.md).
 
@@ -104,7 +104,7 @@ ___
 
 - [Nyaa](https://nyaa.si/) [!button variant="primary" size="xs" text="Proxy 1"](https://nyaa.iss.one/)  [!button variant="primary" size="xs" text="Proxy 2"](https://nyaa.iss.ink/)
 - [Animek](https://animek.fun/)
-- [Anime Tosho](https://animetosho.org/)
+- [Anime Tosho](https://animetosho.org/) [!badge variant="ghost" size="xs" text="DDL"]
 - [Anidex](https://anidex.info/)
 - [Anirena](https://www.anirena.com/)
 - [Shana Project](https://www.shanaproject.com/) | [Tokyo tosho](https://www.tokyotosho.info/)
@@ -141,6 +141,7 @@ ___
     * Minimal compression
     * Aggregates from various scanlation groups
     * Has official translations
+    * Reader isn't as good as mangadex
 - [**Mangasee**](https://mangasee123.com/) | [Mangalife](https://manga4life.com/) | [Atsumaru](https://atsu.moe/) [!badge variant="ghost" size="xs" text="R"]
     * Has official translations
     * Compresses chapter images
@@ -243,7 +244,7 @@ ___
 - [0v3r](https://nyaa.si/user/0v3r) [!badge variant="ghost" size="xs" text="compilation"]
 - [1r0n](https://nyaa.si/user/tsuna69) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="comikey"] [!badge variant="ghost" size="xs" text="jnovel"] [!badge variant="ghost" size="xs" text="kmanga"] [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="sq. enix"] [!badge variant="ghost" size="xs" text="up!"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
 - [anadius](https://nyaa.si/user/anadius) [!badge variant="ghost" size="xs" text="viz"]
-- [Danke](https://nyaa.si/user/danke) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
+- [Danke](https://nyaa.si/user/danke) [!badge variant="dark" text="Old"](https://nyaa.si/user/danke) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
 - [Digital Manga Fan](https://nyaa.si/user/digitalmangafan) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="jnovel"] [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="op"] [!badge variant="ghost" size="xs" text="yen"]
 - [Empy](https://nyaa.si/user/empyrealarrow) [!badge variant="ghost" size="xs" text="compilation"] [!badge variant="ghost" size="xs" text="glacier"] [!badge variant="ghost" size="xs" text="plus"]
 - [Lord_ne](https://nyaa.si/user/lord_ne) [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="lezhin"] [!badge variant="ghost" size="xs" text="yen"]
