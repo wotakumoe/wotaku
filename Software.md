@@ -116,7 +116,7 @@ ___
 
 ### Manga
 
-#### Online:
+#### Online
 
 - [**Houdoku**](https://houdoku.netlify.app/) [!badge variant="ghost" size="xs" text="win"] [!badge variant="ghost" size="xs" text="mac"] [!badge variant="ghost" size="xs" text="lin"]
     - Easy to setup
@@ -148,7 +148,7 @@ ___
 
 ===
 
-#### Offline:
+#### Offline
 
 - [**CDisplayEx**](https://www.cdisplayex.com/) [!badge variant="ghost" size="xs" text="win"]
     - Minimalist UI
@@ -165,8 +165,20 @@ ___
     - Has vertical reading mode with limited amount of customization
     - Does not clear cache automatically. Have to do it manually
 
+#### Hosting
+- [**Kogma**](https://komga.org/)
+    - Media server for manga/comics. think of it like plex for manga.
+    - Integrates with tachi, OPDS reader or anything else using komga rest api.
+    - Community built tools can be added though it's rest api for extra features like dupe detection, media analysis for corrupt files, .cbl read lists and much more.
+    - User Management. Can restrict sections of library for different users.
+    - Supports ComicInfo.xml and info.json for metadata.
+    - Supported as a source in MALSync, for AniList/MAL tracking
+    - Follows the 1-folder-to-1-series paradigm (unless you designate a folder as a folder of oneshots) so you'll need to organize your files accordingly.
+    - Only supports image-based formats. can't be used to LNs
+
 === More
-- [Clovre](https://github.com/rehhouari/clovre) [!badge variant="ghost" size="xs" text="offline"]
+
+- [ACBR - Comic Book Reader](https://github.com/binarynonsense/comic-book-reader)
 - [Yomikiru](https://github.com/mienaiyami/yomikiru) [!badge variant="ghost" size="xs" text="offline"]
 - [LANraragi](https://github.com/Difegue/LANraragi) [!badge variant="ghost" size="xs" text="Self-hosted"]
 ===
