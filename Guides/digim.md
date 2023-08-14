@@ -1,10 +1,6 @@
 ---
 label: Digital Manga
 description: To help you decide where to purchase your digital manga
-author:  
-  name: "neckothy"
-  link: https://github.com/neckothy
-  avatar: https://avatars.githubusercontent.com/u/109988355?v=4
 ---
 ![](/static/thumb/digim.png)
 
