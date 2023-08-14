@@ -132,7 +132,6 @@ ___
 
 ### Manga
 - [ComicTagger](https://github.com/comictagger/comictagger)
-- [DeDRM tools](https://github.com/nodrm/DeDRM_tools)
 - [Kindle Comic Converter](https://github.com/ciromattia/kcc)
 - [komf](https://github.com/Snd-R/komf)
 - [kurp](https://github.com/Snd-R/kurp)
