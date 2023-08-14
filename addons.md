@@ -141,6 +141,7 @@ ___
 ### Fansubbing
 - [Aegisub](https://aegisub.org/) [!badge variant="dark" icon="repo-forked" text="Fork"](https://github.com/arch1t3cht/Aegisub)
 - [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper)
+- [mpvQC](https://github.com/mpvqc/mpvQC)
 - [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter)
 
 ### Others

@@ -24,7 +24,7 @@ ___
 
 #### OST
 - [Sitting on Clouds](https://www.sittingonclouds.net/) [!badge variant="ghost" size="xs" text="DDL"]
-- [SquidBoard](https://www.squid-board.org/)  [!badge variant="ghost" size="xs" text="DDL"]  [!badge variant="ghost" size="xs" text="Needs accounnt"]
+- [SquidBoard](https://www.squid-board.org/) [!badge variant="ghost" size="xs" text="DDL"] [!badge variant="ghost" size="xs" text="Needs accounnt"]
 - [Anithemes.moe](https://animethemes.moe/) [!badge variant="ghost" size="xs" text="stream"]
 - [Squidify](https://www.squidify.org/) [!badge variant="ghost" size="xs" text="stream"]
 
@@ -39,8 +39,8 @@ ___
 
 #### Android
 - [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/) [!button variant="primary" size="xs" icon="globe" text="Web"](https://tachiyomi.org/) [!button variant="primary" size="xs" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/) [!badge variant="ghost" size="xs" text="Manga"]
-- [Saikou](https://github.com/saikou-app/saikou/) [!badge variant="ghost" size="xs" text="Anime"]  [!badge variant="ghost" size="xs" text="Manga"]
-- [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta) [!badge variant="ghost" size="xs" text="Anime"]  [!badge variant="ghost" size="xs" text="Manga"]
+- [Saikou](https://github.com/saikou-app/saikou/) [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="Manga"]
+- [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta) [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="Manga"]
 - [Quicknovel](https://github.com/LagradOst/QuickNovel) [!badge variant="ghost" size="xs" text="LN"]
 
 #### iOS
@@ -55,5 +55,32 @@ ___
 
 
 #### Downloader
-- [Hakuneko](https://github.com/manga-download/hakuneko) [!badge variant="ghost" size="xs" text="Anime"]  [!badge variant="ghost" size="xs" text="Manga"]
+- [Hakuneko](https://github.com/manga-download/hakuneko) [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="Manga"]
 - [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) [!badge variant="ghost" size="xs" text="Manga"]
+
+
+## Other tools
+
+### Adblocker
+- [Adaway](https://adaway.org/) [!badge variant="ghost" size="xs" text="Android"]
+- [Adguard](https://adguard.com/en/welcome.html) [!badge variant="ghost" size="xs" text="Android"]
+- [uBlock Origin](https://ublockorigin.com/) [!badge variant="ghost" size="xs" text="Browser"]
+
+### Downloader
+- [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Android"]
+- [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Android"]
+- [ADM](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Android"]
+- [IDM](https://www.internetdownloadmanager.com/) [!badge variant="ghost" size="xs" text="win"]
+- [JDL](https://jdownloader.org/) [!badge variant="dark" text="Debloat"](https://rentry.org/jdownloader2) [!badge variant="ghost" size="xs" text="win"] [!badge variant="ghost" size="xs" text="lin"] [!badge variant="ghost" size="xs" text="mac"]
+
+### Torrent
+- [libretorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) [!badge variant="ghost" size="xs" text="Android"]
+- [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Android"]
+- [qBittorrent](https://www.qbittorrent.org/) [!badge variant="dark" text="Enhanced"](https://github.com/c0re100/qBittorrent-Enhanced-Edition) [!badge variant="ghost" size="xs" text="win"] [!badge variant="ghost" size="xs" text="lin"] [!badge variant="ghost" size="xs" text="mac"]
+- [Transmission](https://transmissionbt.com/) [!badge variant="ghost" size="xs" text="win"] [!badge variant="ghost" size="xs" text="lin"] [!badge variant="ghost" size="xs" text="mac"]
+
+### VPN
+- [Mullvad](https://mullvad.net/) [!badge variant="ghost" size="xs" text="Paid"]
+- [IVPN](https://www.ivpn.net/) [!badge variant="ghost" size="xs" text="Paid"]
+- [Windscribe](https://windscribe.com/) [!badge variant="ghost" size="xs" text="Freemium"]
+- [Proton](https://protonvpn.com/) [!badge variant="ghost" size="xs" text="Freemium"]
