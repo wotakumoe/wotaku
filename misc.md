@@ -116,7 +116,7 @@ ___
 - [WaniKani](https://www.wanikani.com/)
 - [Ankiweb](https://ankiweb.net/shared/info/911122782)
 - [ichi.moe](https://ichi.moe/)
-- [itazuraneko](https://itazuraneko.neocities.org/)
+- [itazuraneko](https://djtguide.github.io/)
 - [IMABI](https://imabi.net/)
 - [jisho](https://jisho.org/)
 - [jpdb](https://www.jpdb.io/)

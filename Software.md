@@ -166,7 +166,7 @@ ___
     - Does not clear cache automatically. Have to do it manually
 
 #### Hosting
-- [**Kogma**](https://komga.org/)
+- [**Komga**](https://komga.org/)
     - Media server for manga/comics (like plex for manga).
     - Integrates with tachiyomi, OPDS reader or anything else using komga rest api.
     - Community built tools can be added though it's rest api for extra features like dupe detection, media analysis for corrupt files, .cbl read lists and much more.

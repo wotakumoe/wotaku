@@ -37,7 +37,7 @@ ___
 - [DL Raw co](https://dl-raw.co/) [!badge variant="ghost" size="xs" text="R"]  [!badge variant="ghost" size="xs" text="Novel"] [!badge variant="ghost" size="xs" text="Magazine"]
 - [DL Raw net](https://dlraw.net/category/raw-manga/)  [Manga Zip](https://manga-zip.info/category/raw-manga/) [!badge variant="danger" size="xs" text="R+"]  [!badge variant="ghost" size="xs" text="Novel"] [!badge variant="ghost" size="xs" text="Magazine"]
 - [DL Zip](https://dl-zip.com/) [!badge variant="ghost" size="xs" text="R"]  [!badge variant="ghost" size="xs" text="Novel"] [!badge variant="ghost" size="xs" text="Magazine"]
-- [Itazura Neko](https://itazuraneko.neocities.org/library/manga/subete)  [!badge variant="ghost" size="xs" text="Novel"]
+- [Itazura Neko](https://djtguide.github.io/library/manga/subete)  [!badge variant="ghost" size="xs" text="Novel"]
 - [JP DDL](https://jpddl.com/manga) [!badge variant="ghost" size="xs" text="R"]
 - [Manga Zone](http://www.manga-zone.org/)  [!badge variant="ghost" size="xs" text="Novel"]
 - [Raw Cans](http://raw-cans.net/) [!badge variant="danger" size="xs" text="R+"]  [!badge variant="ghost" size="xs" text="Magazine"]
