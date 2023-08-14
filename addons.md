@@ -121,22 +121,35 @@ Active maintenance is necessary for scripts to work properly. If a script fails,
 
 ## Tools
 ___
-- [Aegisub](https://aegisub.org/) [!badge variant="dark" icon="repo-forked" text="Fork"](https://github.com/arch1t3cht/Aegisub)
+
+### Anime
 - [Anitomy](https://github.com/erengy/anitomy)
-- [Hydrus network](https://hydrusnetwork.github.io/hydrus/)
-- [Kindle Comic Converter](https://github.com/ciromattia/kcc)
-- [komf](https://github.com/Snd-R/komf)
-- [kurp](https://github.com/Snd-R/kurp)
-- [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper)
 - [MPV Upscale 2x Animejanai ](https://github.com/the-database/mpv-upscale-2x_animejanai)
 - [Plex Anisync](https://github.com/RickDB/PlexAniSync)
 - [PlexAniSync-Mappings](https://github.com/mizz141/PlexAniSync-Mappings)
 - [Shoko Anime](https://github.com/shokoanime) [!button variant="primary" size="xs" icon="globe" text="Web"](https://shokoanime.com/)
 - [Shokofin](https://github.com/ShokoAnime/Shokofin)
-- [Smart Image](https://github.com/Decimation/SmartImage)
+
+### Manga
+- [ComicTagger](https://github.com/comictagger/comictagger)
+- [DeDRM tools](https://github.com/nodrm/DeDRM_tools)
+- [Kindle Comic Converter](https://github.com/ciromattia/kcc)
+- [komf](https://github.com/Snd-R/komf)
+- [kurp](https://github.com/Snd-R/kurp)
+- [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager)
 - [Tachisync](https://github.com/axiel7/Tachisync)
-- [Textractor](https://github.com/Artikash/Textractor)
+
+### Fansubbing
+- [Aegisub](https://aegisub.org/) [!badge variant="dark" icon="repo-forked" text="Fork"](https://github.com/arch1t3cht/Aegisub)
+- [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper)
 - [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter)
+
+### Others
+- [Hydrus network](https://hydrusnetwork.github.io/hydrus/)
+- [Smart Image](https://github.com/Decimation/SmartImage)
+- [Textractor](https://github.com/Artikash/Textractor)
+
+
 
 ![](/static/banner/trackers.png)
 

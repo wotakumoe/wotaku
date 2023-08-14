@@ -31,7 +31,6 @@ ___
 ### Android
 - [Animite](https://github.com/imashnake0/Animite)
 - [AniTrend V2](https://github.com/AniTrend/anitrend-v2)
-- [Kaizoyu](https://github.com/astarivi/Kaizoyu)
 - [Kurumi](https://play.google.com/store/apps/details?id=com.subrotokumar.kurumi)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 
@@ -40,7 +39,6 @@ ___
 #### Manga
 - [Atsumeru](https://github.com/AtsumeruDev/Atsumeru) [!button variant="primary" size="xs" icon="globe" text="Web"](https://atsumeru.xyz/)
 - [Fukayo](https://github.com/JiPaix/Fukayo/)
-- [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager)
 - [Special Eureka](https://github.com/tonymushah/special-eureka)
 
 #### Anime

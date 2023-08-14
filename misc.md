@@ -165,6 +165,7 @@ ___
 - [Sprout Anime Recommender](https://anime.ameo.dev/) [!badge variant="ghost" size="xs" text="MAL"]  [!badge variant="ghost" size="xs" text="AL"]
 
 ### Image search
+- [Multi-service image search](https://iqdb.org/)
 - [SauceKudasai](https://saucekudasai.com/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/ayushgptaa/SauceKudasai)
 - [SauceNAO](https://saucenao.com/)
 - [Trace](https://trace.moe/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/soruly/trace.moe)
