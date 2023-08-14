@@ -175,9 +175,15 @@ ___
     - Supported as a source in MALSync, for AniList/MAL tracking
     - Follows the 1-folder-to-1-series paradigm (unless you designate a folder as a folder of oneshots) so you'll need to organize your files accordingly.
     - Only supports image-based formats. Can't be used to LNs
+- [**Kavita**](https://www.kavitareader.com/)
+    - Kavita is a media server for Manga and Light Novels (or eBooks).
+    - Supports Tachiyomi, Paperback, OPDS readers, and REST API.
+    - User management is done through email invites. By detault, it uses the Kavita mail server, but other mail servers can be used too.
+    - The admin can specify permissions such as enabling downloads, SFW/NSFW filter, and library selection.
+    - Reliant on filename parsing, requires strict adherence to expected filename formats and embedded metadata is near mandatory for edge-cases.
+    - No MALSync support. Tracking support, alongside some other features, is paywalled behind Kavita+.
 
 === More
-
 - [ACBR - Comic Book Reader](https://github.com/binarynonsense/comic-book-reader)
 - [Yomikiru](https://github.com/mienaiyami/yomikiru) [!badge variant="ghost" size="xs" text="offline"]
 - [LANraragi](https://github.com/Difegue/LANraragi) [!badge variant="ghost" size="xs" text="Self-hosted"]
