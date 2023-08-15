@@ -350,12 +350,15 @@ ___
 ## Visual Novels
 ___
 
-- [CPG Repacks](ttps://cpgrepacks.site) [!badge variant="danger" size="xs" text="R+"]
+- [CPG Repacks](https://cpgrepacks.site) [!badge variant="danger" size="xs" text="R+"]
 - [Crane Anime](https://docs.google.com/spreadsheets/d/1ECqqhEm2kDS0hgxZ0tD_73e04v5FUxQGkfCbfi0Kb9k/pubhtml#) [!badge variant="danger" size="xs" text="R+"]
 - [Eroge Download](https://erogedownload.com/) [!badge variant="danger" size="xs" text="R+"]
+- [F95Zone](https://f95zone.to/) [!badge variant="danger" size="xs" text="R+"]
 - [GOG](https://www.gog.com/en/games?genres=visual-novel&hideDLCs=true) [!badge variant="dark" text="Download"](https://gog-games.to/)  [!badge variant="danger" size="xs" text="R+"]
 - [Kimochi](https://kimochi.info) [!badge variant="danger" size="xs" text="R+"]
-- [Nyaa sukebei](https://sukebei.nyaa.si/) [!badge variant="danger" size="xs" text="R+"]
-- [Nyaa](https://nyaa.si/) [!badge variant="danger" size="xs" text="R+"]
+- [Nyaa](https://nyaa.si/?f=0&c=6_2&q=) [!badge size="xs" variant="success" text="E"]
+- [Nyaa sukebei](https://sukebei.nyaa.si/?f=0&c=1_3&q=) [!badge variant="danger" size="xs" text="R+"]
 - [Ryuu blogger](https://ryuubloggerv2.blogspot.com/) [!badge variant="danger" size="xs" text="R+"]
 - [Ryuu games](https://www.ryuugames.com/tag/japanese/) [!badge variant="danger" size="xs" text="R+"]
+
+> Try searching with Japanese titles on Nyaa/Sukebei

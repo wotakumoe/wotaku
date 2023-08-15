@@ -34,7 +34,7 @@ ___
 - [Picsiv](https://github.com/jckli/picsiv)
 - [MonitoRSS](https://github.com/synzen/MonitoRSS) [!button variant="primary" size="xs" icon="globe" text="Web"](https://monitorss.xyz/)
 
-=== Websites with RSS feeds
+==- Websites with RSS feeds
 - [Anime News Network](https://www.animenewsnetwork.com/newsfeed/)
 - [Anime tosho](https://animetosho.org/)
 - [Crunchyroll](https://www.crunchyroll.com/feed)
