@@ -20,6 +20,7 @@ ___
 - [Manga Helper](https://mangahelpers.com/)
 - [SquidBoard](https://www.squid-board.org/)
 
+
 ## Discord servers
 - [Doujin Cafe](https://discord.gg/doujincafe)
 - [Japanese Language Study Space](https://discord.gg/jlss)
@@ -33,6 +34,7 @@ ___
 - [TheMoeWay](https://discord.com/invite/nhqjydaR8j)
 - [TypesettingTools](https://discord.com/invite/AZaVyPr)
 
+
 ## Subreddits
 - [Anime](https://www.reddit.com/r/anime)
 - [Manga](https://www.reddit.com/r/manga)
@@ -42,6 +44,7 @@ ___
 - [Anime Piracy](https://www.reddit.com/r/animepiracy)
 - [Manga Piracy](https://www.reddit.com/r/mangapiracy/)
 - [Vocaloid](https://www.reddit.com/r/vocaloid/)
+
 
 ## Boards
 - [Anime & Manga](https://boards.4channel.org/a/) [!badge variant="ghost" size="xs" text="R"]
