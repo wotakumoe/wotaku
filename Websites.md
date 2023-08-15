@@ -45,6 +45,7 @@ ___
     - Has a good amount of missing titles
 
 #### Scraper
+- [Animeflix](https://animeflix.live/)
 - [Kaguya](https://kaguya.app)
 - [Anify](https://anify.tv/) [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Novel"]
 - [Enime](https://enime.moe/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/Enime-Project)
