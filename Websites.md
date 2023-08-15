@@ -164,17 +164,17 @@ ___
     - Has both B&W and colored releases
     - Uploads official translations & volume releases (if available)
     - Lacks in library and upload schedule
-- [**Batoto**](https://battwo.com/v3x) | [Mangatoto](https://mangatoto.com/) [!badge variant="danger" size="xs" text="R+"]
-    - Has official translations
-    - Has some exclusive uploads
-    - Decent filtering option
-    - Indexing is poor quality
 - [**Manga Fire**](https://mangafire.to/home) [!badge variant="ghost" size="xs" text="R"]
     - The UI is very clean with notification system
     - Uploads both chapter(multi-lang) & volume releases
     - Basic reader UI
     - Watermark on almost every manga chapters
     - Manga uploads are upto x1600
+- [**Batoto**](https://battwo.com/v3x) | [Mangatoto](https://mangatoto.com/) [!badge variant="danger" size="xs" text="R+"]
+    - Has both scanlated and official releases
+    - Has some exclusive uploads
+    - Decent filtering options with site theme options
+    - Indexing is really poor
 
 === More
 - [Cubari Proxy](https://proxy.cubari.moe/) [!badge variant="danger" size="xs" text="R+"]
