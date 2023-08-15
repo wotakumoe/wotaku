@@ -47,7 +47,6 @@ ___
 #### Scraper
 - [Animeflix](https://animeflix.live/)
 - [Kaguya](https://kaguya.app)
-- [Anify](https://anify.tv/) [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Novel"]
 - [Enime](https://enime.moe/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/Enime-Project)
 
 === More
@@ -98,7 +97,7 @@ ___
 - [**SunXDCC**](https://sunxdcc.com/)
 - [**Anidex**](https://xdcc.anidex.moe/) (`Michiko` bot is over at `#Doki`)
 
-> To learn how to use IRC, you can read [**the guide**](/IRC.md).
+> To learn how to use IRC, you can read [**the guide**](/Guides/IRC.md).
 
 ### Torrents
 
@@ -350,10 +349,12 @@ ___
 ## Visual Novels
 ___
 
-- [nyaa](https://nyaa.si/) [!badge variant="danger" size="xs" text="R+"]
 - [CPG Repacks](ttps://cpgrepacks.site) [!badge variant="danger" size="xs" text="R+"]
-- [ryuu games](https://www.ryuugames.com/tag/japanese/) [!badge variant="danger" size="xs" text="R+"]
-- [ryuu blogger](https://ryuubloggerv2.blogspot.com/) [!badge variant="danger" size="xs" text="R+"]
 - [Crane Anime](https://docs.google.com/spreadsheets/d/1ECqqhEm2kDS0hgxZ0tD_73e04v5FUxQGkfCbfi0Kb9k/pubhtml#) [!badge variant="danger" size="xs" text="R+"]
-- [Anime-sharing](http://www.anime-sharing.com/forum/) [!badge variant="danger" size="xs" text="R+"]
+- [Eroge Download](https://erogedownload.com/) [!badge variant="danger" size="xs" text="R+"]
 - [GOG](https://www.gog.com/en/games?genres=visual-novel&hideDLCs=true) [!badge variant="dark" text="Download"](https://gog-games.to/)  [!badge variant="danger" size="xs" text="R+"]
+- [Kimochi](https://kimochi.info) [!badge variant="danger" size="xs" text="R+"]
+- [Nyaa sukebei](https://sukebei.nyaa.si/) [!badge variant="danger" size="xs" text="R+"]
+- [Nyaa](https://nyaa.si/) [!badge variant="danger" size="xs" text="R+"]
+- [Ryuu blogger](https://ryuubloggerv2.blogspot.com/) [!badge variant="danger" size="xs" text="R+"]
+- [Ryuu games](https://www.ryuugames.com/tag/japanese/) [!badge variant="danger" size="xs" text="R+"]

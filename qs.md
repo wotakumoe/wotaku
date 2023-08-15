@@ -64,6 +64,8 @@ ___
 #### Adblocker
 - [Adaway](https://adaway.org/) [!badge variant="ghost" size="xs" text="Android"]
 - [Adguard](https://adguard.com/en/welcome.html) [!badge variant="ghost" size="xs" text="Android"]
+- [RethinkDNS](https://rethinkdns.com/) [!badge variant="ghost" size="xs" text="Android"]
+- [AhaDNS](https://blitz-setup.ahadns.com/) [!badge variant="ghost" size="xs" text="iOS"] [!badge variant="ghost" size="xs" text="Profile"]
 - [uBlock Origin](https://ublockorigin.com/) [!badge variant="ghost" size="xs" text="Browser"]
 
 #### Downloader
