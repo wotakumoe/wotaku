@@ -138,6 +138,14 @@ ___
 - [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager)
 - [Tachisync](https://github.com/axiel7/Tachisync)
 
+### Media tools
+- [Plex](https://www.plex.tv/)
+- [Jellyfin](https://jellyfin.org/)
+- [Emby](https://emby.media/)
+- [Sonarr](https://sonarr.tv/)
+- [Radarr](https://radarr.video/)
+- [Overseerr](https://overseerr.dev/)
+
 ### Fansubbing
 - [Aegisub](https://aegisub.org/) [!badge variant="dark" icon="repo-forked" text="Fork"](https://github.com/arch1t3cht/Aegisub)
 - [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper)
