@@ -12,6 +12,19 @@ icon: ":earth_asia:"
 Looking for websites that provide manga, anime, light novels, and other things to fulfill your otaku needs? You have arrived at in the website section! In here you will find the finest quality of links extensively tested with love and care.
 ___
 
+==- :icon-alert: Rating System
+[!badge variant="danger" text="R+"] Uploads NSFW content on a regular basis.
+
+[!badge variant="ghost" text="R"] Uploads NSFW content, but not always/all of them.
+
+[!badge variant="ghost" text="R-"] Rarely uploads NSFW content.
+
+[!badge variant="success" text="E"] Only SFW content.
+
+[!badge variant="ghost" text="NR"] Haven't been rated yet.
+
+**Note**: None of the websites mentioned are exclusively dedicated to NSFW content. [**Click here**](/nsfw.md) for the dedicated sites.
+===
 
 ![](/static/banner/anime.png)
 
@@ -131,60 +144,48 @@ ___
 ### Reader
 
 - [**Mangadex**](https://mangadex.org/) [!badge variant="danger" size="xs" text="R+"]
-    * Uploads without compression
-    * Best reader UI
-    * Uploads from various scanlation groups
-    * No official translations[^*^](https://mangadex.org/rules#content_restrictions) since it was created for fansub
-    * May remove content if there is a DMCA request by the publisher or doesn't allow upload at all (e.g. One Punch-Man)
+    - Uploads without compression
+    - Best reader UI
+    - Uploads from various scanlation groups
+    - No official translations[^*^](https://mangadex.org/rules#content_restrictions) since it was created for fansub
+    - May remove content if there is a DMCA request by the publisher or doesn't allow upload at all (e.g. One Punch-Man)
 - [**Comick**](https://comick.app/home) [!badge variant="ghost" size="xs" text="R"]
-    * Minimal compression
-    * Aggregates from various scanlation groups
-    * Has official translations
-    * Reader isn't as good as mangadex
+    - Minimal compression
+    - Aggregates from various scanlation groups
+    - Has official translations
+    - Reader isn't as good as mangadex
 - [**Mangasee**](https://mangasee123.com/) | [Mangalife](https://manga4life.com/) | [Atsumaru](https://atsu.moe/) [!badge variant="ghost" size="xs" text="R"]
-    * Has official translations
-    * Compresses chapter images
-    * Chapter updates are relatively slow
-    * [Atsumaru](https://atsu.moe/) scrapes from Mangasee but has better UI
+    - Has official translations
+    - Compresses chapter images
+    - Chapter updates are relatively slow
+    - [Atsumaru](https://atsu.moe/) scrapes from Mangasee but has better UI
 - [**Colored Manga**](https://coloredmanga.com/) [!badge variant="ghost" size="xs" text="R"]
-    * Uploads without compression but mostly Shounen centric
-    * Has both B&W and colored releases
-    * Uploads official translations & volume releases (if available)
-    * Lacks in library and upload schedule
-- [**Mangapark**](https://mangapark.net/) [!badge variant="danger" size="xs" text="R+"]
-    * No Compressed uploads (If source had no compression)
-    * Has official translations
-    * UI is a bit cluttered with no upload tags
+    - Uploads without compression but mostly Shounen centric
+    - Has both B&W and colored releases
+    - Uploads official translations & volume releases (if available)
+    - Lacks in library and upload schedule
 - [**Batoto**](https://battwo.com/v3x) | [Mangatoto](https://mangatoto.com/) [!badge variant="danger" size="xs" text="R+"]
     - Has official translations
     - Has some exclusive uploads
+    - Decent filtering option
     - Indexing is poor quality
+- [**Manga Fire**](https://mangafire.to/home) [!badge variant="ghost" size="xs" text="R"]
+    - The UI is very clean with notification system
+    - Uploads both chapter(multi-lang) & volume releases
+    - Basic reader UI
+    - Watermark on almost every manga chapters
+    - Manga uploads are upto x1600
 
 === More
 - [Cubari Proxy](https://proxy.cubari.moe/) [!badge variant="danger" size="xs" text="R+"]
 - [Manga Katana](https://mangakatana.com/) [!badge variant="danger" size="xs" text="R+"]
-- [Manga Fire](https://mangafire.to/home) [!badge variant="ghost" size="xs" text="R"]
-- [Manga Reader](https://mangareader.to/home) [!badge variant="ghost" size="xs" text="R"]
+- [Mangapark](https://mangapark.net/) [!badge variant="danger" size="xs" text="R+"]
 - [Mangahasu](https://mangahasu.se/) [!badge variant="danger" size="xs" text="R+"]
 - [Mangahub](https://mangahub.io/) [!badge variant="danger" size="xs" text="R+"]
 - [Manga Buddy](https://mangabuddy.com/home) | [Manga Forest](https://mangaforest.com/home) | [Manga Mirror](https://mangamirror.com/home-page) [!badge variant="ghost" size="xs" text="R"]
 - [Mangacultivator](https://mangacultivator.com) [!badge variant="success" size="xs" text="E"]
 - [1st Kiss Manga](https://1stkissmanga.me/) [!badge variant="ghost" size="xs" text="R-"]
 - [Manganato](https://chapmanganato.com/nato) [!badge variant="ghost" size="xs" text="R"]
-===
-
-=== Rating
-[!badge variant="danger" text="R+"] Uploads NSFW content on a regular basis.
-
-[!badge variant="ghost" text="R"] Uploads NSFW content, but not always/all of them.
-
-[!badge variant="ghost" text="R-"] Rarely uploads NSFW content.
-
-[!badge variant="success" text="E"] Only SFW content.
-
-[!badge variant="ghost" text="NR"] Haven't been rated yet.
-
-**Note**: None of the websites mentioned are exclusively dedicated to NSFW content. [**Click here**](/nsfw.md/#manga) for the hmanga sites.
 ===
 
 #### Scanlator
