@@ -78,6 +78,7 @@ ___
 #### Indian
 - [Dead Toons](https://www.deadtoons.co/)
 - [PureToons](https://puretoons.cc/)
+- [Animesaga](https://www.animesaga.in/)
 - [Anime Academy](https://animeacademy.in/) [!badge variant="ghost" size="xs" text="DDL"]
 - [Toonworld4all](https://toonworld4all.me/) [!badge variant="ghost" size="xs" text="DDL"]
 - [Toonworld Tamil](https://toonworldtamil.com) [!badge variant="ghost" size="xs" text="DDL"]
