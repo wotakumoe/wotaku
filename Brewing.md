@@ -43,9 +43,6 @@ ___
 
 #### Anime
 - [Akari-DL](https://github.com/keisanng/akari-dl/)
-- [Aniluv](https://github.com/wovnep/aniluv)
-- [Animos](https://github.com/Nectres/animos)
-- [AniShip](https://github.com/progzone122/AniShip)
 - [Keroro](https://github.com/hotsno/keroro)
 - [NineAnimator-Tauri](https://github.com/Layendan/NineAnimator-Tauri)
 - [Totoro](https://github.com/insomniachi/Totoro)
@@ -60,5 +57,4 @@ ___
 - [Kurozora](https://kurozora.app/welcome) [!badge variant="dark" icon="/static/icon/apple.png" text="iOS"](https://github.com/Kurozora/kurozora-app) [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://github.com/Kurozora/kurozora-android) [!badge variant="dark" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/) [!badge variant="dark" icon="/static/icon/discord.svg" text="Discord"](https://github.com/Kurozora/kurozora-discord-bot) 
 
 ### macOS
-- [Anime Manager](https://github.com/anma-dev/Anime-Manager) [!badge variant="ghost" size="xs" text="Linux"]
 - [Novee](https://github.com/ZhichGaming/Novee)
