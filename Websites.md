@@ -122,7 +122,7 @@ ___
 - [Shana Project](https://www.shanaproject.com/) | [Tokyo tosho](https://www.tokyotosho.info/)
 - [Anime Bytes](https://animebytes.tv/) [!badge variant="ghost" size="xs" text="Private tracker"]
 - [Baka BT](https://bakabt.me/) [!badge variant="ghost" size="xs" text="Private tracker"]
-- [U2](u2.dmhy.org) [!badge variant="ghost" size="xs" text="Private tracker"]
+- [U2](https://u2.dmhy.org/portal.php) [!badge variant="ghost" size="xs" text="Private tracker"]
 
 ==- :icon-light-bulb: Quick Tips
 
