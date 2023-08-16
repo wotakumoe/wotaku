@@ -357,7 +357,7 @@ ___
 - [CPG Repacks](https://cpgrepacks.site) [!badge variant="danger" size="xs" text="R+"]
 - [Crane Anime](https://docs.google.com/spreadsheets/d/1ECqqhEm2kDS0hgxZ0tD_73e04v5FUxQGkfCbfi0Kb9k/pubhtml#) [!badge variant="danger" size="xs" text="R+"]
 - [Eroge Download](https://erogedownload.com/) [!badge variant="danger" size="xs" text="R+"]
-- [F95Zone](https://f95zone.to/) [!badge variant="danger" size="xs" text="R+"] [!badge variant="ghost" size="xs" text="Needs accounnt"]
+- [F95Zone](https://f95zone.to/) [!badge variant="danger" size="xs" text="R+"] [!badge variant="ghost" size="xs" text="Needs account"]
 - [GOG](https://www.gog.com/en/games?genres=visual-novel&hideDLCs=true) [!badge variant="dark" text="Download"](https://gog-games.to/)  [!badge variant="danger" size="xs" text="R+"]
 - [Kimochi](https://kimochi.info) [!badge variant="danger" size="xs" text="R+"]
 - [Nyaa](https://nyaa.si/?f=0&c=6_2&q=) [!badge size="xs" variant="success" text="E"]
