@@ -57,18 +57,16 @@ ___
     - Uploads **Blu-ray** and **DVD** versions if available
     - Has a good amount of missing titles
 
-#### Scraper
-- [Animeflix](https://animeflix.live/)
-- [Kaguya](https://kaguya.app)
-- [Enime](https://enime.moe/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/Enime-Project)
-
 === More
-- [Muse Asia](https://www.youtube.com/@MuseAsia/) [!badge variant="ghost" size="xs" text="Legal"] [!badge variant="ghost" size="xs" text="Regional"]
-- [Ani-One Asia](https://www.youtube.com/AniOneAsia/) [!badge variant="ghost" size="xs" text="Legal"] [!badge variant="ghost" size="xs" text="Regional"]
+- [Animeflix](https://animeflix.live/)
+- [Kaguya](https://kaguya.app) [!badge variant="ghost" size="xs" text="Needs extension"]
 - [One Pace](https://onepace.net/) [!button variant="primary" size="xs" text="Stream"](https://rentry.co/onepace) [!badge variant="ghost" size="xs" text="Torrent"]
 - [Pokémon TV](https://poke-tv.vercel.app/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/seiya-dev/pokemon-tv) [!badge variant="ghost" size="xs" text="Multi-lang"]
 - [LM Anime](https://lmanime.com/) [!badge variant="ghost" size="xs" text="Donghua"]
 - [AnimeXin](https://animexin.vip/) [!badge variant="ghost" size="xs" text="Donghua"]
+- [Lucifer Donghua](https://luciferdonghua.in/) [!badge variant="ghost" size="xs" text="Donghua"]
+- [Muse Asia](https://www.youtube.com/@MuseAsia/) [!badge variant="ghost" size="xs" text="Legal"] [!badge variant="ghost" size="xs" text="Regional"]
+- [Ani-One Asia](https://www.youtube.com/AniOneAsia/) [!badge variant="ghost" size="xs" text="Legal"] [!badge variant="ghost" size="xs" text="Regional"]
 ===
 
 > Use [!badge variant="dark" icon="/static/icon/ada.png"  text="AdAway"](https://adaway.org/) or [!badge variant="dark" icon="/static/icon/adg.png"  text="Adguard"](https://adguard.com/en/welcome.html) on Android and [!badge variant="dark" icon="/static/icon/ubo.png"  text="uBlock Origin"](https://ublockorigin.com/) in browsers to get rid of all the ads and trakcers.
