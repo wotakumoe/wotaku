@@ -185,9 +185,10 @@ ___
 - [Mangapark](https://mangapark.net/) [!badge variant="danger" size="xs" text="R+"]
 - [Mangahasu](https://mangahasu.se/) [!badge variant="danger" size="xs" text="R+"]
 - [Mangahub](https://mangahub.io/) [!badge variant="danger" size="xs" text="R+"]
-- [Manga Buddy](https://mangabuddy.com/home) | [Manga Forest](https://mangaforest.com/home) | [Manga Mirror](https://mangamirror.com/home-page) [!badge variant="ghost" size="xs" text="R"]
-- [Mangacultivator](https://mangacultivator.com) [!badge variant="success" size="xs" text="E"]
-- [1st Kiss Manga](https://1stkissmanga.me/) [!badge variant="ghost" size="xs" text="R-"]
+- [Manga Buddy](https://mangabuddy.com/home) | [Manga Forest](https://mangaforest.com/home) | [Manga Mirror](https://mangamirror.com/home-page) [!badge variant="ghost" size="xs" text="R"] [!badge variant="ghost" size="xs" text="Manhwa/hua centric"]
+- [Mangacultivator](https://mangacultivator.com) [!badge variant="success" size="xs" text="E"] [!badge variant="ghost" size="xs" text="Manhwa/hua centric"]
+- [1st Kiss Manga](https://1stkissmanga.me/) [!badge variant="ghost" size="xs" text="R-"] [!badge variant="ghost" size="xs" text="Manhwa/hua centric"]
+- [Manga Here](https://www.mangahere.cc/) | [Manga Fox](https://fanfox.net/) [!badge variant="danger" size="xs" text="R+"]
 - [Manganato](https://chapmanganato.com/nato) [!badge variant="ghost" size="xs" text="R"]
 ===
 
