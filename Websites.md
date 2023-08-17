@@ -26,6 +26,9 @@ ___
 **Note**: None of the websites mentioned are exclusively dedicated to NSFW content. [**Click here**](/nsfw.md) for the dedicated sites.
 ===
 
+> Use [!badge variant="dark" icon="/static/icon/ada.png"  text="AdAway"](https://adaway.org/) or [!badge variant="dark" icon="/static/icon/adg.png"  text="Adguard"](https://adguard.com/en/welcome.html) on Android and [!badge variant="dark" icon="/static/icon/ubo.png"  text="uBlock Origin"](https://ublockorigin.com/) in browsers to get rid of all the ads and trakcers. For iOS use [AhaDNS](https://blitz-setup.ahadns.com/).
+
+
 ![](/static/banner/anime.png)
 
 ## Anime
@@ -68,9 +71,6 @@ ___
 - [Muse Asia](https://www.youtube.com/@MuseAsia/) [!badge variant="ghost" size="xs" text="Legal"] [!badge variant="ghost" size="xs" text="Regional"]
 - [Ani-One Asia](https://www.youtube.com/AniOneAsia/) [!badge variant="ghost" size="xs" text="Legal"] [!badge variant="ghost" size="xs" text="Regional"]
 ===
-
-> Use [!badge variant="dark" icon="/static/icon/ada.png"  text="AdAway"](https://adaway.org/) or [!badge variant="dark" icon="/static/icon/adg.png"  text="Adguard"](https://adguard.com/en/welcome.html) on Android and [!badge variant="dark" icon="/static/icon/ubo.png"  text="uBlock Origin"](https://ublockorigin.com/) in browsers to get rid of all the ads and trakcers.
-
 
 ### Direct Download
 - [Tokyo Insider](https://www.tokyoinsider.com/) [!badge variant="ghost" size="xs" text="Direct"] [!badge variant="ghost" size="xs" text="no ad"]
