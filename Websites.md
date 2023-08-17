@@ -26,7 +26,7 @@ ___
 **Note**: None of the websites mentioned are exclusively dedicated to NSFW content. [**Click here**](/nsfw.md) for the dedicated sites.
 ===
 
-> Use [!badge variant="dark" icon="/static/icon/ada.png"  text="AdAway"](https://adaway.org/) or [!badge variant="dark" icon="/static/icon/adg.png"  text="Adguard"](https://adguard.com/en/welcome.html) on Android and [!badge variant="dark" icon="/static/icon/ubo.png"  text="uBlock Origin"](https://ublockorigin.com/) in browsers to get rid of all the ads and trakcers. For iOS use [AhaDNS](https://blitz-setup.ahadns.com/).
+> Use [!badge variant="dark" icon="/static/icon/ada.png" text="AdAway"](https://adaway.org/) or [!badge variant="dark" icon="/static/icon/adg.png" text="Adguard"](https://adguard.com/en/welcome.html) on Android and [!badge variant="dark" icon="/static/icon/ubo.png" text="uBlock Origin"](https://ublockorigin.com/) in browsers to get rid of all the ads and trakcers. For iOS use [!badge variant="dark" icon="/static/icon/ahadns.png" text="AhaDNS"](https://blitz-setup.ahadns.com/).
 
 
 ![](/static/banner/anime.png)
@@ -126,9 +126,9 @@ ___
 
 > For torrent related terms, [click here](https://rentry.org/The-Piracy-Glossary#torrenting-terms).
 
-> Recommended torrent client for Android is [!badge variant="dark" icon="/static/icon/lt.png"  text="libretorrent"](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent). For Windows, Linux & macOS, use [!badge variant="dark" icon="/static/icon/qb.svg"  text="qBittorrent"](https://www.qbittorrent.org/) or [!badge variant="dark" icon="/static/icon/trans.png"  text="Transmission"](https://transmissionbt.com/).
+> Recommended torrent client for Android is [!badge variant="dark" icon="/static/icon/lt.png" text="libretorrent"](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent). For Windows, Linux & macOS, use [!badge variant="dark" icon="/static/icon/qb.svg" text="qBittorrent"](https://www.qbittorrent.org/) or [!badge variant="dark" icon="/static/icon/trans.png" text="Transmission"](https://transmissionbt.com/).
 
-> For VPN, use [!badge variant="dark" icon="/static/icon/mv.png"  text="Mullvad"](https://mullvad.net/) or [!badge variant="dark" icon="/static/icon/ivpn.png"  text="IVPN"](https://www.ivpn.net/). If you want free alternative, use [!badge variant="dark" icon="/static/icon/wind.png"  text="Windscribe"](https://windscribe.com/).
+> For VPN, use [!badge variant="dark" icon="/static/icon/mv.png" text="Mullvad"](https://mullvad.net/) or [!badge variant="dark" icon="/static/icon/ivpn.png" text="IVPN"](https://www.ivpn.net/). If you want free alternative, use [!badge variant="dark" icon="/static/icon/wind.png" text="Windscribe"](https://windscribe.com/).
 
 > Use [Seadex](https://releases.moe/) or [Sneedex](https://sneedex.moe/) to find the best uploads available.
 
@@ -182,7 +182,7 @@ ___
 - [Manga Katana](https://mangakatana.com/) [!badge variant="danger" size="xs" text="R+"]
 - [Mangapark](https://mangapark.net/) [!badge variant="danger" size="xs" text="R+"]
 - [Mangahasu](https://mangahasu.se/) [!badge variant="danger" size="xs" text="R+"]
-- [Mangahub](https://mangahub.io/) [!badge variant="danger" size="xs" text="R+"]
+- [Mangahub](https://mangahub.io/) [!badge variant="danger" size="xs" text="R+"] [!badge variant="ghost" size="xs" text="Needs account"]
 - [Manga Buddy](https://mangabuddy.com/home) | [Manga Forest](https://mangaforest.com/home) | [Manga Mirror](https://mangamirror.com/home-page) [!badge variant="ghost" size="xs" text="R"] [!badge variant="ghost" size="xs" text="Manhwa/hua centric"]
 - [Mangacultivator](https://mangacultivator.com) [!badge variant="success" size="xs" text="E"] [!badge variant="ghost" size="xs" text="Manhwa/hua centric"]
 - [1st Kiss Manga](https://1stkissmanga.me/) [!badge variant="ghost" size="xs" text="R-"] [!badge variant="ghost" size="xs" text="Manhwa/hua centric"]
@@ -219,7 +219,7 @@ ___
 ==- Manhwa
 - [Asura Scans](https://www.asurascans.com/) + `CN` | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/juxsa9z/asura)
 - [Flame Scans](https://flamescans.org/) + `CN` | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/fdad9851-164f-43fc-9ab0-25b8054c99ed/flame-scans) [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/btgsdiy/flame-scans)
-- [Immortal Updates](https://immortalupdates.com/) + `CN` | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/1296f28d-7888-4fcc-8861-93edb6c05e8c/immortal-updates-scan)  [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/10z1hxo/immortal-updates-scan)
+- [Immortal Updates](https://immortalupdates.com/) + `CN` | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/1296f28d-7888-4fcc-8861-93edb6c05e8c/immortal-updates-scan) [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/10z1hxo/immortal-updates-scan)
 - [Leviatan scans](https://en.leviatanscans.com/home/) + `CN` | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/rot79ib/leviatanscans)
 - [Luminous Scans](https://luminousscans.com/) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/jufm30w/luminous)
 - [Manhwa Freak](https://manhwafreak.com/) | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/3cc5b54a-b20e-4fc5-b2aa-bb51fed328dc/manhwafreak) [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/busmxbf/manhwafreak)
