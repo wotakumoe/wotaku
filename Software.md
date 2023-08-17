@@ -45,7 +45,7 @@ ___
 
 === More
 
-- [Kaizoyu!](https://github.com/astarivi/Kaizoyu) [!button variant="primary" size="xs" icon="globe" text="Web"](https://kaizoyu.ovh)
+- [Kaizoyu!](https://github.com/astarivi/Kaizoyu) [!button variant="primary" size="xs" icon="globe" text="Web"](https://kaizoyu.ovh)  [!badge variant="ghost" size="xs" text="XDCC"]
 - [Animiru](https://github.com/Quickdesh/Animiru) [!badge variant="ghost" size="xs" text="Anime only"] [!badge variant="ghost" size="xs" text="RPC"]
 - [Animity](https://github.com/kl3jvi/animity)
 - [Enimax](https://github.com/enimax-anime/enimax)
@@ -104,7 +104,8 @@ ___
 === More
 
 - [LN Reader](https://github.com/LNReader/lnreader)
-- [ranobe](https://github.com/ranobe-org/ranobe)
+- [Ranobe](https://github.com/ranobe-org/ranobe)
+- [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha)
 - [Lithium: EPUB Reader](https://play.google.com/store/apps/details?id=com.faultexception.reader&hl=en&gl=US)
   ===
 
