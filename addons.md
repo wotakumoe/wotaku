@@ -124,7 +124,11 @@ ___
 
 ### Anime
 - [Anitomy](https://github.com/erengy/anitomy)
+- Arr [!badge variant="dark" text="Radarr"](https://radarr.video/) [!badge variant="dark" text="Sonarr"](https://sonarr.tv/) [!badge variant="dark" text="Prowlarr"](https://prowlarr.com/) [!badge variant="dark" text="Overseerr"](https://overseerr.dev/) [!badge variant="dark" text="Guide"](https://wiki.servarr.com/)
+- [Emby](https://emby.media/)
+- [Jellyfin](https://jellyfin.org/)
 - [MPV Upscale 2x Animejanai ](https://github.com/the-database/mpv-upscale-2x_animejanai)
+- [Plex](https://www.plex.tv/)
 - [Plex Anisync](https://github.com/RickDB/PlexAniSync)
 - [PlexAniSync-Mappings](https://github.com/mizz141/PlexAniSync-Mappings)
 - [Shoko Anime](https://github.com/shokoanime) [!button variant="primary" size="xs" icon="globe" text="Web"](https://shokoanime.com/)
@@ -138,14 +142,6 @@ ___
 - [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager)
 - [Tachisync](https://github.com/axiel7/Tachisync)
 
-### Media tools
-- [Plex](https://www.plex.tv/)
-- [Jellyfin](https://jellyfin.org/)
-- [Emby](https://emby.media/)
-- [Sonarr](https://sonarr.tv/)
-- [Radarr](https://radarr.video/)
-- [Overseerr](https://overseerr.dev/)
-
 ### Fansubbing
 - [Aegisub](https://aegisub.org/) [!badge variant="dark" icon="repo-forked" text="Fork"](https://github.com/arch1t3cht/Aegisub)
 - [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper)
@@ -156,7 +152,6 @@ ___
 - [Hydrus network](https://hydrusnetwork.github.io/hydrus/)
 - [Smart Image](https://github.com/Decimation/SmartImage)
 - [Textractor](https://github.com/Artikash/Textractor)
-
 
 
 ![](/static/banner/trackers.png)
