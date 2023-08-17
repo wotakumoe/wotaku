@@ -127,7 +127,7 @@ ___
 - Arr [!badge variant="dark" text="Radarr"](https://radarr.video/) [!badge variant="dark" text="Sonarr"](https://sonarr.tv/) [!badge variant="dark" text="Prowlarr"](https://prowlarr.com/) [!badge variant="dark" text="Overseerr"](https://overseerr.dev/) [!badge variant="dark" text="Guide"](https://wiki.servarr.com/)
 - [Emby](https://emby.media/)
 - [Jellyfin](https://jellyfin.org/)
-- [MPV Upscale 2x Animejanai ](https://github.com/the-database/mpv-upscale-2x_animejanai)
+- [mpv](https://mpv.io/) [!badge variant="dark" text="Upscale 2x"](https://github.com/the-database/mpv-upscale-2x_animejanai) [!badge variant="dark" text="Guide"](https://iamscum.wordpress.com/guides/videoplayback-guide/)
 - [Plex](https://www.plex.tv/)
 - [Plex Anisync](https://github.com/RickDB/PlexAniSync)
 - [PlexAniSync-Mappings](https://github.com/mizz141/PlexAniSync-Mappings)
