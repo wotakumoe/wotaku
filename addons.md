@@ -69,7 +69,7 @@ ___
 - [KellyC Image Downloader](https://github.com/NC22/KellyC-Image-Downloader) [!button variant="primary" size="xs" icon="globe" text="Web"](https://kellydownloader.com/en/) [!badge variant="dark" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/kellyc-image-downloader/mbhkdmjolnhcppnkldbdfaomeabjiofm) [!badge variant="dark" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/ru/firefox/addon/kellyc-favorites/)
 - [MAL Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned) [!button variant="primary" size="xs" icon="globe" text="Web"](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) [!badge variant="dark" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/myanimelist-redesign/knegaeodgehajemjpfbhlgjdcloklkal) [!badge variant="dark" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/myanimelist-redesign/)
 - [Pixiv Batch Downloader](https://github.com/xuejianxianzun/PixivBatchDownloader) [!button variant="primary" size="xs" icon="globe" text="Web"](https://pixiv.download/) [!badge variant="dark" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/powerful-pixiv-downloader/dkndmhgdcmjdmkdonmbgjpijejdcilfh)
-
+- [Search by Image](https://github.com/dessant/search-by-image)
 
 
 ![](/static/banner/script.png)
@@ -150,7 +150,6 @@ ___
 
 ### Others
 - [Hydrus network](https://hydrusnetwork.github.io/hydrus/)
-- [Smart Image](https://github.com/Decimation/SmartImage)
 - [Textractor](https://github.com/Artikash/Textractor)
 
 
