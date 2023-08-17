@@ -70,10 +70,13 @@ ___
 - [Aksy Scans](https://mangadex.org/group/258e6c49-e780-408e-bc48-c981d8e58c75/aksyscans)
 ===
 
-### Booru
+### Illustrations
 - [Danbooru](https://danbooru.donmai.us/)
 - [Gelbooru](https://gelbooru.com/)
+- [Kemono](https://kemono.party/)
 - [Kona chan](https://konachan.com/)
+- [Rule34](https://rule34.xxx/)
+- [Rule34.dev](https://rule34.dev/)
 - [Yandere](https://yande.re/post)
 ___
 ![](/static/banner/software.png)
@@ -129,7 +132,6 @@ ___
 ## Misc
 - [/h/ Hentai](https://boards.4chan.org/h/)
 - [HDGFAQ](https://rentry.org/hdgfaq)
-- [Kemono](https://kemono.party/)
 - [Hent-AI](https://github.com/natethegreate/hent-AI)
 - [nHentai Discord Bot](https://github.com/the-urban-inc/nhentai-discord-bot)
 - [nHentai Telegram Bot](https://github.com/sleroq/nhentai-telegram-bot)

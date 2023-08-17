@@ -11,19 +11,6 @@ icon: ":card_file_box:"
 Feeling adventurous? Want to discover the taste of Japanese culture? Welcome to the misc-sites page! Here you can find various communities, guides, and tools that strikes your fancy. Enjoy the exploration!
 ___
 
-![](/static/banner/booru.png)
-
-## Booru
-___
-- [Danbooru](https://danbooru.donmai.us/) [!badge variant="danger" size="xs" text="R+"]
-- [Danbooru SFW](https://safebooru.donmai.us/) [!badge variant="success" size="xs" text="E"]
-- [Gelbooru](https://gelbooru.com/) [!badge variant="danger" size="xs" text="R+"]
-- [Kona chan](https://konachan.com/) [!badge variant="danger" size="xs" text="R+"]
-- [Safebooru](https://safebooru.org/) [!badge variant="success" size="xs" text="E"]
-- [Yandere](https://yande.re/post) [!badge variant="danger" size="xs" text="R+"]
-- [Zerochan](https://www.zerochan.net/) [!badge variant="ghost" size="xs" text="R"]
-
-
 ![](/static/banner/info.png)
 ## Info
 ___
@@ -37,7 +24,6 @@ ___
 - [Scan Updates](https://www.scanupdates.com/)
 
 ### Anime
-
 
 #### Database
 - [aniDB](https://anidb.net/)
@@ -95,7 +81,19 @@ ___
 - [AnimeCons](https://animecons.com/)
 - [VGMDB](https://vgmdb.net/)
 
+___
 
+![](/static/banner/illust.png)
+## Illustrations
+- [Pixiv](https://www.pixiv.net) [!badge variant="danger" size="xs" text="R+"]
+- [Danbooru](https://danbooru.donmai.us/) [!badge variant="success" text="SFW Ver"](https://safebooru.donmai.us/) [!badge variant="danger" size="xs" text="R+"]
+- [Gelbooru](https://gelbooru.com/) [!badge variant="danger" size="xs" text="R+"]
+- [Kona chan](https://konachan.com/) [!badge variant="danger" size="xs" text="R+"]
+- [Safebooru](https://safebooru.org/) [!badge variant="success" size="xs" text="E"]
+- [Yandere](https://yande.re/post) [!badge variant="danger" size="xs" text="R+"]
+- [Zerochan](https://www.zerochan.net/) [!badge variant="ghost" size="xs" text="R"]
+
+___
 ![](/static/banner/others.png)
 ## Others
 ___

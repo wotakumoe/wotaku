@@ -47,6 +47,7 @@ ___
 - [Yinghuacd](http://www.yinghuacd.com/)
 - [ysgc](https://www.ysgc.vip/vodtype/4.html)
 - [Bangumi](https://bangumi.moe/) [!badge variant="ghost" size="xs" text="Torrent"]
+- [DMHY](https://dmhy.org/) [!badge variant="ghost" size="xs" text="Torrent"]
 - [Mikanani](https://mikanani.me/) [!badge variant="ghost" size="xs" text="Torrent"]
 - [MioBT](http://www.miobt.com/) [!badge variant="ghost" size="xs" text="Torrent"]
 - [ACG](https://acg.rip/) [!badge variant="ghost" size="xs" text="Torrent"]
@@ -245,7 +246,8 @@ ___
 ### Websites
 - [Animexx](https://www.animexx.de/) [!badge variant="ghost" icon="/static/icon/germany.png" size="xs" text="DE"] [!badge variant="ghost" size="xs" text="Community"]
 - [Annict](https://annict.com/) [!badge variant="ghost" icon="/static/icon/jp.png" text="JP"]
-- [Bangumi](https://bangumi.tv/) [!badge variant="ghost" icon="/static/icon/cn.png" size="xs" text="CN"] [!badge variant="ghost" size="xs" text="Tracker"] 
+- [Bangumi](https://bangumi.tv/) [!badge variant="ghost" icon="/static/icon/cn.png" size="xs" text="CN"] [!badge variant="ghost" size="xs" text="Tracker"]
+- [EroGamescape](https://erogamescape.org/) [!badge variant="dark" text="EN Guide"](https://www.youtube.com/watch?v=oPIWgXDllzQ) [!badge variant="ghost" icon="/static/icon/jp.png" text="JP"] [!badge variant="ghost" size="xs" text="Tracker"]
 - [Proxer](https://proxer.me/) [!badge variant="ghost" icon="/static/icon/germany.png" size="xs" text="DE"] [!badge variant="ghost" size="xs" text="Community"]
 - [Shikimori](https://shikimori.one/) [!badge variant="ghost" icon="/static/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" text="Tracker"]
 
