@@ -37,7 +37,6 @@ ___
 - [A Practical Guide to Translating Japanese Manga Sound Effects](https://nomansguy.wordpress.com/2023/02/04/translating-manga-sfx-guide-part-1/)
 - [Bentoki from Helvetica Scans](https://discord.com/users/91862190709014528)
 - [u/rui_is_dead from Atelier du Noir](https://www.reddit.com/r/manga/comments/tc90d8/guys_can_you_explain_the_process_of/)
-- [The Wiki](http://thewiki.moe/guides/quality/)
 
 ## Guide Credits
 - [neckothy](https://gist.github.com/neckothy/6654f928fef87529646df3799f5e555a)
