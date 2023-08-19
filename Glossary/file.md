@@ -6,9 +6,9 @@ visibility: hidden
 # File Naming
 Standard file naming scheme for Anime & Manga file.
 
-==- Nyaa Color Code
+=== Nyaa Color Code
 - **Green**: Uploaded by trusted uploader.
-- **Red**: For anime, it indicates a re-encoded video. For manga, it indicates that an edit of someone else's release, usually for the purposes of joining spread pages.
+- **Red**: For anime, it indicates a re-encoded video. For manga, it indicates that an edit of someone else's release, usually for the purposes of joining spread pages. Sometimes it's indicated with "ED" tag.
 ===
 
 ![](/static/glossary/file/af.png)
@@ -71,4 +71,4 @@ The ripper of the manga. Sometimes, it can be more than one person too. Also, if
 It indicated this is a fixed version after the initial upload.
 
 #### Format
-CBZ is the most common file format for manga. CBZ is just Zip container. There are also CBR(RAR), CB7(7zip), PDF, ePub etc. The image files inside is generally jpeg and png.
+CBZ is the most common file format for manga. CBZ is just a Zip container. There are also CBR(RAR), CB7(7zip), PDF, ePub etc. The image files inside is generally jpeg and png.
