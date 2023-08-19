@@ -297,3 +297,4 @@ ___
 
 #### Apps
 - [Neko Anime](https://github.com/xioneko/neko-anime) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"]
+- [Miru App](https://github.com/miru-project/miru-app) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"]

@@ -63,7 +63,7 @@ ___
 === More
 - [Animeflix](https://animeflix.live/)
 - [Kaguya](https://kaguya.app) [!badge variant="ghost" size="xs" text="Needs extension"]
-- [AnimeUI](https://animeui.com/) [!badge variant="ghost" size="xs" text="IPFS"]
+- [AnimeUI](https://animeui.com/) [!badge variant="ghost" size="xs" text="IPFS"] [!badge variant="ghost" size="xs" text="Small library"]
 - [One Pace](https://onepace.net/) [!button variant="primary" size="xs" text="Stream"](https://rentry.co/onepace) [!badge variant="ghost" size="xs" text="Torrent"]
 - [Pokémon TV](https://poke-tv.vercel.app/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/seiya-dev/pokemon-tv) [!badge variant="ghost" size="xs" text="Multi-lang"]
 - [AnimeXin](https://animexin.vip/) [!badge variant="ghost" size="xs" text="Donghua"]
@@ -300,7 +300,7 @@ ___
 - [Anithemes.moe](https://animethemes.moe/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/AnimeThemes)
 - [Themes.moe](https://themes.moe/)
 - [Squidify](https://www.squidify.org/)
-- [LISTEN.moe](https://listen.moe/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/LISTEN-moe)
+- [LISTEN.moe](https://listen.moe/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/LISTEN-moe) [!badge variant="ghost" size="xs" text="Radio"]
 - [Spotify](https://spotify.com/) [!badge variant="ghost" size="xs" text="General"]
 - [Youtube Music](https://music.youtube.com/) [!badge variant="ghost" size="xs" text="General"]
 
