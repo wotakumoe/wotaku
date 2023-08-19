@@ -63,6 +63,7 @@ ___
 === More
 - [Animeflix](https://animeflix.live/)
 - [Kaguya](https://kaguya.app) [!badge variant="ghost" size="xs" text="Needs extension"]
+- [AnimeUI](https://animeui.com/) [!badge variant="ghost" size="xs" text="IPFS"]
 - [One Pace](https://onepace.net/) [!button variant="primary" size="xs" text="Stream"](https://rentry.co/onepace) [!badge variant="ghost" size="xs" text="Torrent"]
 - [Pokémon TV](https://poke-tv.vercel.app/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/seiya-dev/pokemon-tv) [!badge variant="ghost" size="xs" text="Multi-lang"]
 - [AnimeXin](https://animexin.vip/) [!badge variant="ghost" size="xs" text="Donghua"]
@@ -300,6 +301,8 @@ ___
 - [Themes.moe](https://themes.moe/)
 - [Squidify](https://www.squidify.org/)
 - [LISTEN.moe](https://listen.moe/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/LISTEN-moe)
+- [Spotify](https://spotify.com/) [!badge variant="ghost" size="xs" text="General"]
+- [Youtube Music](https://music.youtube.com/) [!badge variant="ghost" size="xs" text="General"]
 
 ### Direct Download
 - [Sitting on Clouds](https://www.sittingonclouds.net/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Mega"] [!badge variant="ghost" size="xs" text="Mediafire"]
