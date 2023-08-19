@@ -1,5 +1,6 @@
 ---
-visibility: hidden
+label: File Naming
+order: 0
 ---
 
 ![](/static/thumb/fn.png)

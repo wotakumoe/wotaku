@@ -13,11 +13,11 @@ ___
 
 ## Contributors
 
-[!badge variant="dark" size="2xl" icon="/static/asset/ven.png" text="**Venlicht**"](https://github.com/RenaraScope) [!badge variant="dark" size="2xl" icon="/static/asset/zinc.png" text="**Zinklog**"](https://github.com/zinklog2)
+[!badge variant="dark" size="2xl" icon="/static/asset/meme.png" text="**Memenami**"] [!badge variant="dark" size="2xl" icon="/static/asset/ven.png" text="**Venlicht**"](https://github.com/RenaraScope) [!badge variant="dark" size="2xl" icon="/static/asset/zinc.png" text="**Zinklog**"](https://github.com/zinklog2)
 
 #### Special Thanks to
 
-[!badge variant="dark" size="xl" text="**Abyss**"](https://github.com/knightmob) [!badge variant="dark" size="xl" text="**Ishtar**"](https://ishtar.wtf/) [!badge variant="dark" size="xl" text="**KAI**"](https://github.com/Kai-FMHY) [!badge variant="dark" size="xl" text="**loocool**"](https://github.com/loocool2) [!badge variant="dark" size="xl" text="**Memenami**"] [!badge variant="dark" size="xl" text="**Static**"](https://github.com/whitenoisy) [!badge variant="dark" size="xl" text="**Taskylizard**"](https://github.com/taskylizard) [!badge variant="dark" size="xl" text="**TubaApollo**"](https://github.com/TubaApollo)
+[!badge variant="dark" size="xl" text="**Abyss**"](https://github.com/knightmob) [!badge variant="dark" size="xl" text="**Ishtar**"](https://ishtar.wtf/) [!badge variant="dark" size="xl" text="**KAI**"](https://github.com/Kai-FMHY) [!badge variant="dark" size="xl" text="**loocool**"](https://github.com/loocool2) [!badge variant="dark" size="xl" text="**Static**"](https://github.com/whitenoisy) [!badge variant="dark" size="xl" text="**Taskylizard**"](https://github.com/taskylizard) [!badge variant="dark" size="xl" text="**TubaApollo**"](https://github.com/TubaApollo)
 
 ## Art Credits
 - AO-chan by [3ton](https://www.pixiv.net/en/artworks/110412826)
