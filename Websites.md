@@ -152,7 +152,7 @@ ___
     - Uploads from various scanlation groups
     - No official translations[^*^](https://mangadex.org/rules#content_restrictions) since it was created for fansub
     - May remove content if there is a DMCA request by the publisher or doesn't allow upload at all (e.g. One Punch-Man)
-- [**Comick**](https://comick.app/home) [!badge variant="ghost" size="xs" text="R"]
+- [**Comick**](https://comick.app/home) [!badge variant="dark" text="Alt"](https://comick.ink/) [!badge variant="ghost" size="xs" text="R"]
     - Minimal compression
     - Aggregates from various scanlation groups
     - Has official translations
