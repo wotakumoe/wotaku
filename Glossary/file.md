@@ -48,7 +48,7 @@ Used in the encoding process for encoding audio, divided into lossless and lossy
 - **Softsubs**: Subtitles that are contained on their own track inside a video file or a separate file that's loaded with the video, can be turned on or off.
 
 #### File Hash
-A unique identifier consisting of letters and numbers that’s calculated for each file, used to check its integrity and origin. An example would be 7BAAC64C.
+A unique string of letters and numbers that’s calculated for each file, used to check its integrity and origin. An example would be 7BAAC64C.
 
 #### Video Format
 The container used for the video file, with the most widely used one today being **MKV**, for the ability to put miltiple audio/subtitle tracks in one video file. The most popular one in the past was **MP4**, focused on being compatible with a wide range of devices, but only being able to have burned-in hardsubs.
