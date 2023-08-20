@@ -48,12 +48,12 @@ ___
     - Marin has a good amount of missing titles, especially movies
 - [**KickAssAnime**](https://kickassanime.am/) [!button variant="primary" size="xs" text="Proxies"](https://kickassanimes.info/)
     - Scrapes **Crunchyroll**(duckstream) and **Bilibili**(birdstream)
-    - KAA encode(videstreaming) is ok-ish. Use the previous two if available.
+    - KAA encodes(videstreaming) are decent with lower overall bitrate. Use the previous two if available. Duck has the highest overall bitrate
     - Has both hardsub(duck) & softsub(rest) 
     - Still a beta site and has missing titles. But, you can request them in their support server
 - [**Aniwatch**](https://aniwatch.to/home) [!badge variant="dark" size="xs" text="formerly Zoro"]
     - Huge library with Watch Together feature
-    - Re-encodes shows in smaller file size
+    - Re-encodes shows for smaller size with lower overall bitrate.
     - Softsubs may create issues in different scenarios, but can be beneficial for multi-language support
 - [**Animepahe**](https://animepahe.com/)
     - Uploads mini encoded files, useful if you want smaller files or have low bandwidth
@@ -62,8 +62,8 @@ ___
 
 === More
 - [Animeflix](https://animeflix.live/)
+- [AnimeUI](https://animeui.com/) [!badge variant="ghost" size="xs" text="IPFS"] [!badge variant="ghost" size="xs" text="Small library"] [!badge variant="ghost" size="xs" text="Great Quality"]
 - [Kaguya](https://kaguya.app) [!badge variant="ghost" size="xs" text="Needs extension"]
-- [AnimeUI](https://animeui.com/) [!badge variant="ghost" size="xs" text="IPFS"] [!badge variant="ghost" size="xs" text="Small library"]
 - [One Pace](https://onepace.net/) [!button variant="primary" size="xs" text="Stream"](https://rentry.co/onepace) [!badge variant="ghost" size="xs" text="Torrent"]
 - [Pokémon TV](https://poke-tv.vercel.app/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/seiya-dev/pokemon-tv) [!badge variant="ghost" size="xs" text="Multi-lang"]
 - [AnimeXin](https://animexin.vip/) [!badge variant="ghost" size="xs" text="Donghua"]

@@ -35,7 +35,7 @@ ___
   - Tracking & backup support
   - Local player support
   - Extensions often break
-- [**Aniyomi**](https://github.com/jmir1/aniyomi/) [!button variant="primary" size="xs" icon="globe" text="Web"](https://aniyomi.org/) [!badge variant="ghost" size="xs" text="Manga"]
+- [**Aniyomi**](https://github.com/aniyomiorg/aniyomi) [!button variant="primary" size="xs" icon="globe" text="Web"](https://aniyomi.org/) [!badge variant="ghost" size="xs" text="Manga"]
   - Unofficial Tachiyomi fork for anime
   - Clean and minimal design
   - Offers other types of media too

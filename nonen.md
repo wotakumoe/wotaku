@@ -192,6 +192,7 @@ ___
 - [Manhua Gui](https://www.manhuagui.com/)
 - [8Comic](https://www.comicabc.com/)
 - [Baozimh](https://www.baozimh.com/) | [Kukuc](https://www.kukuc.co/) | [Webmota](https://www.webmota.com/)
+- [Qumanku](http://www.sumanku.com/)
 
 #### French
 - [JapScan](https://www.japscan.lol/)
