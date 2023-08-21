@@ -113,6 +113,7 @@ ___
 - [Perdition](https://perdition-japanese.github.io/posts/how-to-study-japanese/)
 - [WaniKani](https://www.wanikani.com/)
 - [Ankiweb](https://ankiweb.net/shared/info/911122782)
+- [Gengo](https://gengo.tech/) [!button variant="primary" size="xs" text="Prefectures"](https://prefectures.gengo.tech/)
 - [ichi.moe](https://ichi.moe/)
 - [itazuraneko](https://djtguide.github.io/)
 - [IMABI](https://imabi.net/)
