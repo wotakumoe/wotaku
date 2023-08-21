@@ -29,6 +29,7 @@ ___
 - [r/Anime](https://discord.gg/r-anime)
 - [r/Manga](https://discord.com/invite/manga)
 - [Scanner Usage School Server](https://discord.com/invite/NCzxVB9)
+- [Sitting on Clouds](https://discord.gg/x23SFbE)
 - [SquidBoard](https://discord.gg/ATjPbzR)
 - [Tachiyomi](https://discord.com/invite/tachiyomi)
 - [TheMoeWay](https://discord.com/invite/nhqjydaR8j)
