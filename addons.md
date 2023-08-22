@@ -51,7 +51,7 @@ ___
 ## Extensions
 ___
 
-### Anime
++++ Anime
 - [Anime Watch Parties](https://github.com/Dragicafit/Anime-Watch-Parties/) [!button variant="primary" size="xs" icon="globe" text="Web"](https://animewatchparties.com/) [!badge variant="dark" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/anime-watch-parties/goinehmnmhnoaepodbngfgdgjeibgelh/) [!badge variant="dark" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/)
 - [Animepahe Plus](https://github.com/Cyan903/Animepahe-plus) [!badge variant="dark" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-CA/firefox/addon/animepahe-plus/)
 - [Anime Skip Player](https://github.com/anime-skip/player) [!button variant="primary" size="xs" icon="globe" text="Web"](https://anime-skip.com/) [!badge variant="dark" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/anime-skip/mgmdkjcljneegjfajchedjpdhbadklcf) [!badge variant="dark" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-skip)
@@ -59,18 +59,18 @@ ___
 - Substital [!button variant="primary" size="xs" icon="globe" text="Web"](https://substital.com/) [!badge variant="dark" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg) [!badge variant="dark" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/substital/)
 
 
-### Manga
++++ Manga
 - [Similar Manga](https://github.com/similar-manga/similar) [!badge variant="dark" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg)
 
 
-### Others
++++ Others
 - [Booru Shinshi](https://github.com/kuanyui/BooruShinshi)  [!badge variant="dark" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/booru-shinshi/)
 - Improve Crunchyroll [!badge variant="dark" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh)
 - [KellyC Image Downloader](https://github.com/NC22/KellyC-Image-Downloader) [!button variant="primary" size="xs" icon="globe" text="Web"](https://kellydownloader.com/en/) [!badge variant="dark" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/kellyc-image-downloader/mbhkdmjolnhcppnkldbdfaomeabjiofm) [!badge variant="dark" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/ru/firefox/addon/kellyc-favorites/)
 - [MAL Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned) [!button variant="primary" size="xs" icon="globe" text="Web"](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) [!badge variant="dark" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/myanimelist-redesign/knegaeodgehajemjpfbhlgjdcloklkal) [!badge variant="dark" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/myanimelist-redesign/)
 - [Pixiv Batch Downloader](https://github.com/xuejianxianzun/PixivBatchDownloader) [!button variant="primary" size="xs" icon="globe" text="Web"](https://pixiv.download/) [!badge variant="dark" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/powerful-pixiv-downloader/dkndmhgdcmjdmkdonmbgjpijejdcilfh)
 - [Search by Image](https://github.com/dessant/search-by-image)
-
++++
 
 ![](/static/banner/script.png)
 
@@ -160,7 +160,7 @@ ___
 ## Trackers
 ___
 
-### Android and iOS
++++ Android and iOS
 
 #### Anilist
 - [Apps for Anilist](https://anilist.co/apps)
@@ -175,19 +175,20 @@ ___
 - [MoeList](https://github.com/axiel7/MoeList) [!button variant="primary" size="xs" icon="globe" text="Web"](https://moelist.net/)
 
 
-### Windows
++++ Windows
 - [Taiga](https://github.com/erengy/taiga) [!button variant="primary" size="xs" icon="globe" text="Web"](https://taiga.moe/) [!badge variant="ghost" size="xs" text="Downloader"]
 - [Trackma](https://github.com/z411/trackma) [!button variant="primary" size="xs" icon="globe" text="Web"](https://z411.github.io/trackma/)
 - [MALClient](https://github.com/Drutol/MALClient) [!badge variant="dark" icon="globe" text="Store"](https://apps.microsoft.com/store/detail/malclient/9NBLGGH5F3BL)
 
-### MacOS
++++ MacOS
 - [Hachidori](https://github.com/Atelier-Shiori/hachidori) [!button variant="primary" size="xs" icon="globe" text="Web"](https://malupdaterosx.moe/hachidori/)
 
-### Linux
++++ Linux
 - [Trackma](https://github.com/z411/trackma) [!button variant="primary" size="xs" icon="globe" text="Web"](https://z411.github.io/trackma/)
 - [Tundra](https://github.com/m4tx/tundra) [!button variant="primary" size="xs" icon="globe" text="Web"](https://tundra.moe/)
 
-### Browser
++++ Browser
 - [MALSync](https://github.com/MALSync/MALSync) [!button variant="primary" size="xs" icon="globe" text="Web"](https://malsync.moe/) [!badge variant="dark" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel) [!badge variant="dark" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/mal-sync/) [!badge variant="Dark" icon="file-code" text="Script"](https://github.com/MALSync/MALSync/releases/latest/download/malsync.user.js)
 - [Kenmei](https://www.kenmei.co/)
 - [All Manga Reader](https://gitlab.com/all-mangas-reader/all-mangas-reader-2) [!button variant="primary" size="xs" icon="globe" text="Web"](https://www.allmangasreader.com/)
++++
