@@ -77,20 +77,20 @@ ___
 ## Scripts
 ___
 
-### Anime
++++ Anime
 - 9anime Bingewatcher+ [!badge variant="dark" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher)
 - [Anifilters](https://github.com/Karmesinrot/Anifiltrs)
 - [Anime Website Buttons Plus](https://github.com/Deatthwing/anime-website-buttons-plus) [!badge variant="dark" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/398046-anime-website-custom-buttons-plus)
 - Find on Nyaa [!badge variant="dark" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/379776-find-on-nyaa)
 
-### Anilist
++++ Anilist
 
 - [AniList Unlimited](https://github.com/mysticflute/ani-list-unlimited) [!badge variant="dark" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/404465-anilist-unlimited-score-in-header)
 - Anilist External Links [!badge variant="dark" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/442599-anilist-external-links)
 - Anisongs [!badge variant="dark" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/374785-anisongs)
 - [Automail](https://github.com/hohMiyazawa/Automail) [!badge variant="dark" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/370473-automail)
 
-### MyAnimeList
++++ MyAnimeList
 
 - Affinity to you [!badge variant="dark" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/423918-affinity-to-you)
 - Auto Date Add [!badge variant="dark" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/407730-automatically-add-start-finish-dates-for-animes-mangas-helpful-buttons)
@@ -99,18 +99,19 @@ ___
 - [MAL English Titles](https://github.com/Animorphs/MAL-English-Titles) [!badge variant="dark" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/420200-mal-english-titles)
 - Series Highlighter [!badge variant="dark" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/424774-series-highlighter-mal)
 
-### Manga
++++ Manga
 - MangaDex Condensed [!badge variant="dark" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/429495-mangadex-condensed)
 - Mangadex Follows [!badge variant="dark" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/430295-new-mangadex-follows)
 - [Manga Online Viewer](https://github.com/TagoDR/MangaOnlineViewer)
 
-### Pixiv & Booru
++++ Pixiv & Booru
 - Pixiv Downloader [!badge variant="dark" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/432150-pixiv-downloader)
 - [Pixiv Preview](https://github.com/NightLancer/PixivPreview) [!badge variant="dark" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/39387-pixiv-arts-preview-followed-atrists-coloring-extended-history)
 - [ppixiv for Pixiv](https://github.com/ppixiv/ppixiv) [!badge variant="dark" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/370418-ppixiv-for-pixiv)
 - [Max URL](https://github.com/qsniyg/maxurl)
 - [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE%2B)
 - [Handy Image](https://github.com/Owyn/HandyImage) [!badge variant="dark" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/109-handy-image)
++++
 
 !!!warning Scripts may not function correctly or reliably all the time
 Active maintenance is necessary for scripts to work properly. If a script fails, try reinstalling it; otherwise, wait for a fix to be released. Install [**Violentmonkey**](https://violentmonkey.github.io/) or [**Tampermonkey**](https://www.tampermonkey.net/) to use scripts.
