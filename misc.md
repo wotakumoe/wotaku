@@ -15,7 +15,7 @@ ___
 ## Info
 ___
 
-### Manga
++++ Manga
 - [Anilist](https://anilist.co/)
 - [Mangaupdates](https://www.mangaupdates.com/)
 - [Manga Codex](http://www.mangacodex.com/)
@@ -23,8 +23,7 @@ ___
 - [MyAnimeList](https://myanimelist.net/)
 - [Scan Updates](https://www.scanupdates.com/)
 
-### Anime
-
++++ Anime
 #### Database
 - [aniDB](https://anidb.net/)
 - [Anilist](https://anilist.co/)
@@ -64,8 +63,7 @@ ___
 - [Indonesian Fansubbers' Index](https://www.fansub.id/home)
 
 
-### Miscellaneous
-
++++ Miscellaneous
 #### Light Novels
 - [Novel updates](https://www.novelupdates.com/)
 - [Bookmeter](https://bookmeter.com/) [!badge variant="ghost" icon="/static/icon/jp.png" text="JP"]
@@ -80,7 +78,7 @@ ___
 - [Anilinks](https://anilinks.neocities.org/)
 - [AnimeCons](https://animecons.com/)
 - [VGMDB](https://vgmdb.net/)
-
++++
 ___
 
 ![](/static/banner/illust.png)
@@ -155,19 +153,19 @@ ____
 ![](/static/banner/tools.png)
 ## Tools
 ___
-### Analysis
++++ Analysis
 - [anime.plus](https://anime.plus/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/anime-plus/graph) [!badge variant="ghost" size="xs" text="MAL"]
 - [MAL Badges](https://www.mal-badges.com/) [!badge variant="ghost" size="xs" text="MAL"]
 - [Sekai](https://sekai.rl404.com/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/rl404/sekai) [!badge variant="ghost" size="xs" text="MAL"]
 - [Sprout Anime Recommender](https://anime.ameo.dev/) [!badge variant="ghost" size="xs" text="MAL"]  [!badge variant="ghost" size="xs" text="AL"]
 
-### Image search
++++ Image search
 - [Multi-service image search](https://iqdb.org/)
 - [SauceKudasai](https://saucekudasai.com/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/ayushgptaa/SauceKudasai)
 - [SauceNAO](https://saucenao.com/)
 - [Trace](https://trace.moe/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/soruly/trace.moe)
 
-### Trackers
++++ Trackers
 - [Anilist](https://anilist.co/)
 - [Anime-Planet](https://www.anime-planet.com/)
 - [Annict](https://annict.com/)
@@ -177,7 +175,7 @@ ___
 - [Novel updates](https://www.novelupdates.com/)
 - [SIMKL](https://simkl.com/)
 
-### Others
++++ Others
 - [3x3 Generator](https://gqgs.github.io/3x3-generator/)
 - [Anipool](https://www.anipool.app/)
 - [Imgtrans](https://touhou.ai/imgtrans/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/zyddnys/manga-image-translator)
@@ -185,3 +183,4 @@ ___
 - [Trakt to MAL](https://anitrakt.huere.net/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/ryuuganime/aniTrakt-IndexParser)
 - [Waif2x](https://unlimited.waifu2x.net/) [!badge variant="dark" text="udp"](https://waifu2x.udp.jp/)  [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/nagadomi/waifu2x)
 - [WaifuXL](https://waifuxl.com/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/TheFutureGadgetsLab/WaifuXL)
++++
