@@ -185,7 +185,6 @@ ___
     - No MALSync support. Tracking support, alongside some other features, is paywalled behind Kavita+.
 
 === More
-- [ACBR - Comic Book Reader](https://github.com/binarynonsense/comic-book-reader)
 - [Yomikiru](https://github.com/mienaiyami/yomikiru) [!badge variant="ghost" size="xs" text="offline"]
 - [LANraragi](https://github.com/Difegue/LANraragi) [!badge variant="ghost" size="xs" text="Self-hosted"]
 ===

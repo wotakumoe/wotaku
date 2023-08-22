@@ -122,7 +122,7 @@ Active maintenance is necessary for scripts to work properly. If a script fails,
 ## Tools
 ___
 
-### Anime
++++ Anime
 - [Anitomy](https://github.com/erengy/anitomy)
 - Arr [!badge variant="dark" text="Radarr"](https://radarr.video/) [!badge variant="dark" text="Sonarr"](https://sonarr.tv/) [!badge variant="dark" text="Prowlarr"](https://prowlarr.com/) [!badge variant="dark" text="Overseerr"](https://overseerr.dev/) [!badge variant="dark" text="Guide"](https://wiki.servarr.com/)
 - [Emby](https://emby.media/)
@@ -134,7 +134,8 @@ ___
 - [Shoko Anime](https://github.com/shokoanime) [!button variant="primary" size="xs" icon="globe" text="Web"](https://shokoanime.com/)
 - [Shokofin](https://github.com/ShokoAnime/Shokofin)
 
-### Manga
++++ Manga
+- [ACBR - Comic Book Reader](https://github.com/binarynonsense/comic-book-reader)
 - [ComicTagger](https://github.com/comictagger/comictagger)
 - [Kindle Comic Converter](https://github.com/ciromattia/kcc)
 - [komf](https://github.com/Snd-R/komf)
@@ -142,17 +143,17 @@ ___
 - [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager)
 - [Tachisync](https://github.com/axiel7/Tachisync)
 
-### Fansubbing
++++ Fansubbing
 - [Aegisub](https://aegisub.org/) [!badge variant="dark" icon="repo-forked" text="Fork"](https://github.com/arch1t3cht/Aegisub)
 - [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper)
 - [mpvQC](https://github.com/mpvqc/mpvQC)
 - [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter)
 
-### Others
++++ Others
 - [Hydrus network](https://hydrusnetwork.github.io/hydrus/)
 - [Textractor](https://github.com/Artikash/Textractor)
 
-
++++
 ![](/static/banner/trackers.png)
 
 ## Trackers
