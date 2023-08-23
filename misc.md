@@ -106,22 +106,6 @@ ___
     - [r/VN's 2018](https://vnrecs.github.io/)
     - [What are you reading?](https://some-guy.org/vnswayrarchive/recommendations)
 
-### Japanese learning guide
-- [Japanese Language Study Space](https://discord.gg/jlss)
-- [Perdition](https://perdition-japanese.github.io/posts/how-to-study-japanese/)
-- [WaniKani](https://www.wanikani.com/)
-- [Ankiweb](https://ankiweb.net/shared/info/911122782)
-- [Gengo](https://gengo.tech/) [!button variant="primary" size="xs" text="Prefectures"](https://prefectures.gengo.tech/)
-- [ichi.moe](https://ichi.moe/)
-- [itazuraneko](https://djtguide.github.io/)
-- [IMABI](https://imabi.net/)
-- [jisho](https://jisho.org/)
-- [jpdb](https://www.jpdb.io/)
-- [Marshall's Site](https://marshallyin.com/)
-- [Organic Japanese with Cure Dolly](https://www.youtube.com/channel/UCkdmU8hGK4Fg3LghTVtKltQ)
-- [TheMoeWay](https://learnjapanese.moe/)
-
-
 ### Fansubbing Guide
 - [Encode](https://guide.encode.moe/)
 - [Goodjob Media](https://www.goodjobmedia.com/fansubbing/)

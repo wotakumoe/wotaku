@@ -6,7 +6,7 @@ branding:
   logo: /static/asset/inaidle.webp
   logoDark: /static/asset/inaidle.webp
   title: Wotaku
-  label: 10.5.5
+  label: 11.5.16
   colors:
     label:
       text: "#575068"
