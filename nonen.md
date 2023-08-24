@@ -20,7 +20,6 @@ ___
 - [Kickassanime](https://kaas.am/)
 
 #### Arabic
-- [64K](https://64k.live/)
 - [Anime titans](https://animetitans.net/)
 - [Anime4up](https://w1.anime4up.tv/)
 - [Animelek](https://animelek.me/)
@@ -134,7 +133,6 @@ ___
 - [Anilibria](https://anilibria.life/) [!badge variant="ghost" size="xs" text="Sub"]
 - [Anime Buff](https://animebuff.ru/) [!badge variant="ghost" size="xs" text="Sub"]
 - [Anime Stars](https://animestars.org/) [!badge variant="ghost" size="xs" text="Sub"]
-- [AnimeGO](https://animego.org/) [!badge variant="ghost" size="xs" text="Sub"]
 - [Averlist](https://averlist.xyz/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/Averito/Averlist)
 - [Dreamcast](https://dreamerscast.com/)
 - [Freedub Studio](https://freedubstudio.club/)
@@ -293,7 +291,6 @@ ___
 ### Brewing
 
 #### Website
-- [Ryuanime](https://ryuanime.chrismichael.now.sh/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/ChrisMichaelPerezSantiago/ryuanime) [!badge variant="ghost" icon="/static/icon/spain.png" size="xs" text="ES"]
 - [ANIFOX](https://anifox.club/anime) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/YockyMai/ANIFOX) [!badge variant="ghost" icon="/static/icon/russia.png" size="xs" text="RU"]
 
 #### Apps

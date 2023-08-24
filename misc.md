@@ -127,6 +127,7 @@ ____
 - [Anime News Network](https://www.animenewsnetwork.com/)
 - [Anime Senpai](https://www.animesenpai.net/)
 - [Crunchyroll News](https://www.crunchyroll.com/news)
+- [Fandom Post](https://www.fandompost.com/)
 - [Josu Ke](https://twitter.com/Josu_ke)
 - [MAL News](https://myanimelist.net/news)
 - [Manga Alerts](https://twitter.com/MangaAlerts)

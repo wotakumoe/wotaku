@@ -14,7 +14,9 @@ Japanese learning resources.
 
 +++ Starter
 - [Tatsumoto's Guide to Learn Japanese](https://tatsumoto.neocities.org/)
+- [Refold Japanese](https://docs.google.com/document/d/1tQmoGwCJQqmjdmaQdigAG0Ph1ODSMsGhsD7qOhlUuc0/edit)
 - [Perdition](https://perdition-japanese.github.io/posts/how-to-study-japanese/)
+- [Acquiring Japanese Efficiently](https://docs.google.com/document/d/1LH82FjsCqCgp6-TFqUcS_EB15V7sx7O1VCjREp6Lexw/edit)
 - [r/LearnJapanese](https://www.reddit.com/r/LearnJapanese/wiki/index/startersguide/)
 - [TheMoeWay](https://learnjapanese.moe/)
 - [DJT Guide](https://djtguide.neocities.org/guide)
@@ -40,7 +42,8 @@ Japanese learning resources.
     - [JapanesePod101](https://www.youtube.com/@JapanesePod101)
     - [Japanese with Yuka](https://www.youtube.com/@japanesewithyuka)
     - [Kaname Naito](https://www.youtube.com/@kanamenaito)
-    - [Organic Japanese with Cure Dolly](https://www.youtube.com/channel/UCkdmU8hGK4Fg3LghTVtKltQ)
+    - [Onomappu](https://www.youtube.com/@Onomappu/)
+    - [Organic Japanese with Cure Dolly](https://www.youtube.com/channel/UCkdmU8hGK4Fg3LghTVtKltQ) | [Textbook](https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit)
     - [Sambon Juku](https://www.youtube.com/channel/UC0ujXryUUwILURRKt9Eh7Nw)
     - [Tae Kim](https://www.youtube.com/@taekimjapanese)
     - [ToKini Andy](https://www.youtube.com/@ToKiniAndy)
@@ -48,9 +51,11 @@ Japanese learning resources.
     - [Akane's JapaneseClass](https://www.youtube.com/@Akane-JapaneseClass)
     - [Japanese Immersion with Asami](https://www.youtube.com/@japaneseimmersionwithasami4249)
     - [Learn Japanese with Tanaka san](https://www.youtube.com/@japanese_tanakasan)
+    - [Nihongo Con Teppei](https://www.youtube.com/@nihongoconteppei/)
     - [Sakura Tips](https://www.youtube.com/@SAKURATIPS)
     - [Speak Japanese Naturally](https://www.youtube.com/@SpeakJapaneseNaturally)
     - [YUYUの日本語Podcast](https://www.youtube.com/@yuyunihongopodcast)
+    - [Seeder Playlist](https://zenith-raincoat-5cf.notion.site/Japanese-Seeder-Playlist-15fc740a87d843a2a2a5f36a913af551)
 - [CaptionPop](https://www.captionpop.com/japanese?nl=en)
 
 #### Playlists
@@ -79,6 +84,9 @@ Japanese learning resources.
     - [Tangorin](https://tangorin.com/)
     - [Weblio](https://ejje.weblio.jp/)
     - [Gengo](https://gengo.tech/) [!button variant="primary" size="xs" text="Prefectures"](https://prefectures.gengo.tech/)
+- Grammar
+    - [Bunpro](https://bunpro.jp/) [!badge variant="ghost" size="xs" text="Freemium"]
+    - [A Dictionary of Japanese Grammar](https://core6000.neocities.org/dojg/)
 - Kanji
     - [Japanese KANJI Names Dictionary](https://kanji.reader.bz/en/)
     - [Kanjipedia](https://www.kanjipedia.jp/)
@@ -87,6 +95,13 @@ Japanese learning resources.
     - [The Kanji Map](https://thekanjimap.com/)
     - [Wanikani](https://www.wanikani.com/)
     - [Stoke Order](https://kotobaweb.com/strokeorder)
+- Pitch Accent
+    - [Forvo](https://forvo.com/)
+    - [Kezi](https://kez.io/notes/japanese/accent) | [Gist](https://gist.github.com/k3zi/3f38070efffa38db83cd5745d83b1235)
+    - [Kotu](https://kotu.io/)
+    - [OJAD Phrasing](https://www.gavo.t.u-tokyo.ac.jp/ojad/phrasing/index)
+    - [The Pitch Accent Journey](https://docs.google.com/document/d/1ReBf08JFK4n0PXdOxThAfWuiK9UWVZEWWzeKSECWTQo/edit)
+    - [YouGlish](https://youglish.com/japanese)
 - Practice
     - [Genki Study Resources](https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/)
     - [Kenji Sugimoto](https://www.kenjisugimoto.com/shuji/index.html?shuji=%E3%81%8A%E6%89%8B%E6%9C%AC)
@@ -96,7 +111,6 @@ Japanese learning resources.
     - [Aozora Bunko](https://www.aozora.gr.jp/)
     - [Manga](/Scanlation.md/#raw)
     - [NHK News Web Easy](https://www3.nhk.or.jp/news/easy/)
-    - [Tadoku Books](https://www.reddit.com/r/LearnJapanese/comments/o7x7ha/2021_updated_free_tadoku_graded_reader_pdfs_1796/)
     - [Watanoc](https://watanoc.com/)
     - [Yomujp](https://yomujp.com/)
 - Resources
@@ -120,9 +134,12 @@ Japanese learning resources.
     - [Nihongo Fun&Easy](https://www.amazon.com/NIHONGO-FUN-EASY-Conversation-Beginners/dp/4872177215)
     - [Minna No Nihongo 1](https://www.amazon.com/Minna-No-Nihongo-Beginner-2nd/dp/4883196038) | [2](https://www.amazon.com/Minna-Nihongo-II-Main-Textbook/dp/4883196461) | [Workbook](https://www.amazon.com/Nihongo-Shokyu-Workbook-Hyojun-Mondaishu/dp/4883196631/)
 - Kanji
-    - [Remembering the Kanji 1](https://www.amazon.com/gp/product/0824835921) | [2](https://www.amazon.com/gp/product/0824836693)
+    - [Remembering the Kanji 1](https://www.amazon.com/gp/product/0824835921) | [2](https://www.amazon.com/gp/product/0824836693) [!badge variant="ghost" size="xs" text="General"]
+    - [The Kodansha Kanji Learner's Course](https://www.amazon.com/Kodansha-Kanji-Learners-Course-Step/dp/1568365268)
     - [Kanji Look and Learn](https://www.amazon.com/Kanji-Look-Learn-Eri-Banno/dp/4789013499)
     - [Tobira: Power Up Your Kanji](https://www.amazon.com/gp/product/4874244874)
+- Reading
+    - [Tadoku Books](https://www.reddit.com/r/LearnJapanese/comments/o7x7ha/2021_updated_free_tadoku_graded_reader_pdfs_1796/) [!badge variant="ghost" size="xs" text="General"]
 - Vocabulary
     - [JLPT Tango N5](https://www.amazon.com/Japanese-Vocabulary-Words-Language-Proficiency/dp/4872179811) | [N4](https://www.amazon.com/JAPANESE-VOCABULARY-WORDS-Trilingue-Japonais/dp/487217982X)
 
@@ -173,6 +190,7 @@ Japanese learning resources.
 - Kana - Hiragana and Katakana [!badge variant="dark" icon="/static/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/kana-hiragana-and-katakana/id1454200955)
 - [Kanji Garden](https://kanji.garden/) [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=is.ky.kanjigarden&hl=en&gl=US) [!badge variant="dark" icon="/static/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/kanji-garden-japanese/id1338967114)
 - Learn Japanese! - Kanji [!badge variant="dark" icon="/static/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/learn-japanese-kanji/id1078107994)
+- [Satori Reader](https://www.satorireader.com/) [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.braksoftware.SatoriReader&hl=en&gl=US) [!badge variant="dark" icon="/static/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/satori-reader/id1382950847)
 - Takoboto [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=jp.takoboto)
 - Write It! Japanese [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.jernung.writeit.jpn&hl=en&gl=US) [!badge variant="dark" icon="/static/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/write-it-japanese/id1268225663)
 
