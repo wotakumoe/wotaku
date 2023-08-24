@@ -21,9 +21,10 @@ Japanese learning resources.
 - [Animecards](https://animecards.site/)
 
 +++ Guides
-- [TOFUG](https://www.tofugu.com/)
+- [TOFUGU](https://www.tofugu.com/)
     - [Learn Hiragana](https://www.tofugu.com/japanese/learn-hiragana/) | [PDF](https://www.tofugu.com/japanese/learn-hiragana-book-pdf/) | [Mnemonics Chart](https://www.tofugu.com/japanese/hiragana-mnemonics-chart/)
     - [Learn Katakana](https://www.tofugu.com/japanese/learn-katakana/) | [PDF](https://www.tofugu.com/japanese/learn-katakana-book-pdf/)
+    - [The Best Kanji Learning Programs](https://www.tofugu.com/japanese/best-kanji-learning-programs/)
 - [itazuraneko](https://djtguide.github.io/)
 - [Tae Kim's Guide](https://guidetojapanese.org/learn/)
 - [IMABI](https://imabi.org/)
@@ -33,21 +34,32 @@ Japanese learning resources.
 - [Maggie sensei](https://maggiesensei.com/) [!badge variant="ghost" size="xs" text="Conversation"]
 
 +++ Youtube
-- Channels
+#### Channels
+- Grammar/Guide
     - [Dogen](https://www.youtube.com/@Dogen)
-    - [ToKini Andy](https://www.youtube.com/@ToKiniAndy)
-    - [Tae Kim](https://www.youtube.com/@taekimjapanese)
     - [JapanesePod101](https://www.youtube.com/@JapanesePod101)
     - [Kaname Naito](https://www.youtube.com/@kanamenaito)
     - [Organic Japanese with Cure Dolly](https://www.youtube.com/channel/UCkdmU8hGK4Fg3LghTVtKltQ)
-- Playlists
-    - [Dogen] [Japanese pitch-accent & pronunciation playlist](https://www.youtube.com/playlist?list=PLxMXdmBM9wPvsySiMoBzgh8d68xqKz1YP)
-    - [ToKini Andy] [【JLPT N5】GENKI Grammar Made Clear](https://www.youtube.com/playlist?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2)
-    - [ToKini Andy] [【JLPT N4】GENKI 2 Grammar Made Clear](https://www.youtube.com/playlist?list=PLA_RcUI8km1P8bJzp3_TMMv1jhL3BcKQk)
-- Videos
-    - [ToKini Andy] [How I would learn japanese (if I could start over)](https://www.youtube.com/watch?v=L1NQoQivkIY)
-    - [JapanesePod101] [Learn ALL hiragana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=6p9Il_j0zjc)
-    - [JapanesePod101] [Learn ALL katakana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=s6DKRgtVLGA)
+    - [Sambon Juku](https://www.youtube.com/channel/UC0ujXryUUwILURRKt9Eh7Nw)
+    - [Tae Kim](https://www.youtube.com/@taekimjapanese)
+    - [ToKini Andy](https://www.youtube.com/@ToKiniAndy)
+- Listening/Podcast/Vlog
+    - [Akane's JapaneseClass](https://www.youtube.com/@Akane-JapaneseClass)
+    - [Japanese Immersion with Asami](https://www.youtube.com/@japaneseimmersionwithasami4249)
+    - [Learn Japanese with Tanaka san](https://www.youtube.com/@japanese_tanakasan)
+    - [Sakura Tips](https://www.youtube.com/@SAKURATIPS)
+    - [Speak Japanese Naturally](https://www.youtube.com/@SpeakJapaneseNaturally)
+    - [YUYUの日本語Podcast](https://www.youtube.com/@yuyunihongopodcast)
+
+#### Playlists
+- [Dogen] [Japanese pitch-accent & pronunciation playlist](https://www.youtube.com/playlist?list=PLxMXdmBM9wPvsySiMoBzgh8d68xqKz1YP)
+- [ToKini Andy] [【JLPT N5】GENKI Grammar Made Clear](https://www.youtube.com/playlist?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2)
+- [ToKini Andy] [【JLPT N4】GENKI 2 Grammar Made Clear](https://www.youtube.com/playlist?list=PLA_RcUI8km1P8bJzp3_TMMv1jhL3BcKQk)
+
+#### Videos
+- [ToKini Andy] [How I would learn japanese (if I could start over)](https://www.youtube.com/watch?v=L1NQoQivkIY)
+- [JapanesePod101] [Learn ALL hiragana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=6p9Il_j0zjc)
+- [JapanesePod101] [Learn ALL katakana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=s6DKRgtVLGA)
 +++ Others
 - Dictionary
     - [JISHO](https://jisho.org/)
@@ -59,6 +71,7 @@ Japanese learning resources.
 - Kanji
     - [Japanese KANJI Names Dictionary](https://kanji.reader.bz/en/)
     - [Kanji Garden](https://kanji.garden/)
+    - [The Kanji Map](https://thekanjimap.com/)
     - [Wanikani](https://www.wanikani.com/)
     - [Stoke Order](https://kotobaweb.com/strokeorder)
 - Practice
@@ -67,13 +80,18 @@ Japanese learning resources.
     - [Tobira Study Resources](https://sethclydesdale.github.io/tobira-study-resources/)
     - [Kanji Game](https://kotobaweb.com/kanjigame/create)
 - Reading
+    - [Aozora Bunko](https://www.aozora.gr.jp/)
     - [Manga](/Scanlation.md/#raw)
     - [NHK News Web Easy](https://www3.nhk.or.jp/news/easy/)
     - [Tadoku Books](https://www.reddit.com/r/LearnJapanese/comments/o7x7ha/2021_updated_free_tadoku_graded_reader_pdfs_1796/)
     - [Watanoc](https://watanoc.com/)
     - [Yomujp](https://yomujp.com/)
 - Resources
+    - [Animelon](https://animelon.com/)
+    - [Japanese with Anime](https://www.japanesewithanime.com/)
+    - [JLPT Grammar List and Example Sentences](https://japanasubi-en.com/lp/jlptgrammarlist/)
     - [Learn Natively](https://learnnatively.com/)
+    - [Migaku Pitch Trainer](https://pitch-demo.migaku.io/)
     - [Nihongo](https://nihongo-e-na.com/eng/)
     - [Resources for pitch accent](https://xythh.github.io/resources)
 
@@ -135,7 +153,7 @@ Japanese learning resources.
     - [Kanzen Master N1 Vocabulary](https://www.amazon.com/Kanzen-Master-Vocabulary-Language-Proficiency/dp/4883195732)
 +++
 
-
+[!badge variant="dark" text="1DM"]
 
 
 ![](/static/banner/software.png)
@@ -151,17 +169,17 @@ Japanese learning resources.
 
 +++ PC
 - Software
-    - [Anki](https://apps.ankiweb.net/)
+    - [Anki](https://apps.ankiweb.net/) [!badge variant="dark" text="Guide"](https://tatsumoto.neocities.org/blog/setting-up-anki)
 - Extension
     - [Language Reactor](https://www.languagereactor.com/)
-    - [Yomichan](https://foosoft.net/projects/yomichan/) [Guide](https://learnjapanese.moe/yomichan/)
+    - [Yomichan](https://foosoft.net/projects/yomichan/) [!badge variant="dark" text="Guide"](https://learnjapanese.moe/yomichan/)
 +++ Anki Deck
-- [Guide](https://tatsumoto.neocities.org/blog/setting-up-anki)
 - [Core 2k/6k Optimized Japanese Vocabulary Anki](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit)
 - [DoJG Deck](https://dojgdeck.neocities.org/)
+- [Japanese course based on Tae Kim's grammar guide & anime](https://ankiweb.net/shared/info/911122782)
 - [KanjiDamage](https://ankiweb.net/shared/info/748570187)
 - [Kodansha kanji learner's course with vocabulary](https://ankiweb.net/shared/info/779483253)
-- [Tae Kim's](https://ankiweb.net/shared/info/911122782)
+- [Wanikani Ultimate 3](https://www.mediafire.com/file/i9vusrdzr20v43z/Wanikani_Ultimate_3__Tokyo_Drift_-_2023-06-24.apkg/file) [!badge variant="dark" text="Support"](https://discord.gg/cSEXEB5DgF)
 +++
 
 
