@@ -1,6 +1,6 @@
 ---
 label: Learning Japanese
-order: 55
+order: 725
 description: Japanese learning resources.
 icon: ":japan:"
 ---
@@ -38,6 +38,7 @@ Japanese learning resources.
 - Grammar/Guide
     - [Dogen](https://www.youtube.com/@Dogen)
     - [JapanesePod101](https://www.youtube.com/@JapanesePod101)
+    - [Japanese with Yuka](https://www.youtube.com/@japanesewithyuka)
     - [Kaname Naito](https://www.youtube.com/@kanamenaito)
     - [Organic Japanese with Cure Dolly](https://www.youtube.com/channel/UCkdmU8hGK4Fg3LghTVtKltQ)
     - [Sambon Juku](https://www.youtube.com/channel/UC0ujXryUUwILURRKt9Eh7Nw)
