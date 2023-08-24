@@ -36,7 +36,7 @@ Japanese learning resources.
 +++ Youtube
 #### Channels
 - Grammar/Guide
-    - [Dogen](https://www.youtube.com/@Dogen)
+    - [Dogen](https://www.youtube.com/@Dogen) | [Patreon](https://www.patreon.com/dogen)
     - [JapanesePod101](https://www.youtube.com/@JapanesePod101)
     - [Japanese with Yuka](https://www.youtube.com/@japanesewithyuka)
     - [Kaname Naito](https://www.youtube.com/@kanamenaito)
@@ -51,6 +51,7 @@ Japanese learning resources.
     - [Sakura Tips](https://www.youtube.com/@SAKURATIPS)
     - [Speak Japanese Naturally](https://www.youtube.com/@SpeakJapaneseNaturally)
     - [YUYUの日本語Podcast](https://www.youtube.com/@yuyunihongopodcast)
+- [CaptionPop](https://www.captionpop.com/japanese?nl=en)
 
 #### Playlists
 - [Dogen] [Japanese pitch-accent & pronunciation playlist](https://www.youtube.com/playlist?list=PLxMXdmBM9wPvsySiMoBzgh8d68xqKz1YP)
@@ -62,16 +63,27 @@ Japanese learning resources.
 - [JapanesePod101] [Learn ALL hiragana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=6p9Il_j0zjc)
 - [JapanesePod101] [Learn ALL katakana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=s6DKRgtVLGA)
 +++ Others
+- Anime
+    - [Animelon](https://animelon.com/)
+    - [Kitsunekko](https://kitsunekko.net/) [!badge variant="ghost" size="xs" text="Subs"]
+    - [Nyaa](https://nyaa.si/?f=0&c=1_4&q=) [!badge variant="ghost" size="xs" text="Raw"]
+- Courses
+    - [NHK Easy Japanese](https://www.nhk.or.jp/lesson/)
+    - [NHK Activate Your Japanese!](https://www3.nhk.or.jp/nhkworld/en/ondemand/program/video/activateyourjapanese/)
 - Dictionary
     - [JISHO](https://jisho.org/)
     - [JPDB](https://jpdb.io/)
+    - [JapanDict](https://www.japandict.com/)
     - [ichi.moe](https://ichi.moe/)
+    - [Takoboto](https://takoboto.jp/)
     - [Tangorin](https://tangorin.com/)
     - [Weblio](https://ejje.weblio.jp/)
     - [Gengo](https://gengo.tech/) [!button variant="primary" size="xs" text="Prefectures"](https://prefectures.gengo.tech/)
 - Kanji
     - [Japanese KANJI Names Dictionary](https://kanji.reader.bz/en/)
+    - [Kanjipedia](https://www.kanjipedia.jp/)
     - [Kanji Garden](https://kanji.garden/)
+    - [NativShark](https://www.nativshark.com/) [!badge variant="ghost" size="xs" text="Freemium"]
     - [The Kanji Map](https://thekanjimap.com/)
     - [Wanikani](https://www.wanikani.com/)
     - [Stoke Order](https://kotobaweb.com/strokeorder)
@@ -88,15 +100,12 @@ Japanese learning resources.
     - [Watanoc](https://watanoc.com/)
     - [Yomujp](https://yomujp.com/)
 - Resources
-    - [Animelon](https://animelon.com/)
     - [Japanese with Anime](https://www.japanesewithanime.com/)
     - [JLPT Grammar List and Example Sentences](https://japanasubi-en.com/lp/jlptgrammarlist/)
     - [Learn Natively](https://learnnatively.com/)
     - [Migaku Pitch Trainer](https://pitch-demo.migaku.io/)
     - [Nihongo](https://nihongo-e-na.com/eng/)
     - [Resources for pitch accent](https://xythh.github.io/resources)
-
-
 +++
 
 ![](/static/banner/books.png)
@@ -154,33 +163,46 @@ Japanese learning resources.
     - [Kanzen Master N1 Vocabulary](https://www.amazon.com/Kanzen-Master-Vocabulary-Language-Proficiency/dp/4883195732)
 +++
 
-[!badge variant="dark" text="1DM"]
-
-
 ![](/static/banner/software.png)
 ## Software
 +++ Phone & Tab
 - Anki [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.ichi2.anki) [!badge variant="dark" icon="/static/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387)
 - [Easy Japanese](https://easyjapanese.net/) [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=mobi.eup.jpnews&hl=en&gl=US) [!badge variant="dark" icon="/static/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/easy-japanese-news-%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/id1107177166)
 - Japanese Kanji Study [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy&hl=en&gl=US)
+- jidoujisho [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://github.com/lrorpilla/jidoujisho)
 - Kana - Hiragana and Katakana [!badge variant="dark" icon="/static/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/kana-hiragana-and-katakana/id1454200955)
 - [Kanji Garden](https://kanji.garden/) [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=is.ky.kanjigarden&hl=en&gl=US) [!badge variant="dark" icon="/static/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/kanji-garden-japanese/id1338967114)
 - Learn Japanese! - Kanji [!badge variant="dark" icon="/static/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/learn-japanese-kanji/id1078107994)
+- Takoboto [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=jp.takoboto)
 - Write It! Japanese [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.jernung.writeit.jpn&hl=en&gl=US) [!badge variant="dark" icon="/static/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/write-it-japanese/id1268225663)
 
 +++ PC
 - Software
     - [Anki](https://apps.ankiweb.net/) [!badge variant="dark" text="Guide"](https://tatsumoto.neocities.org/blog/setting-up-anki)
+    - [JL](https://github.com/rampaa/JL)
+    - [mpvacious](https://github.com/Ajatt-Tools/mpvacious)
 - Extension
+    - [jimaku player](https://github.com/sheodox/jimaku-player)
+    - [JP Study tools](https://github.com/rudnam/JP-study)
     - [Language Reactor](https://www.languagereactor.com/)
+    - [mirigana](https://github.com/mirigana/mirigana)
+    - [rikaikun](https://github.com/melink14/rikaikun)
     - [Yomichan](https://foosoft.net/projects/yomichan/) [!badge variant="dark" text="Guide"](https://learnjapanese.moe/yomichan/)
-+++ Anki Deck
-- [Core 2k/6k Optimized Japanese Vocabulary Anki](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit)
-- [DoJG Deck](https://dojgdeck.neocities.org/)
-- [Japanese course based on Tae Kim's grammar guide & anime](https://ankiweb.net/shared/info/911122782)
-- [KanjiDamage](https://ankiweb.net/shared/info/748570187)
-- [Kodansha kanji learner's course with vocabulary](https://ankiweb.net/shared/info/779483253)
-- [Wanikani Ultimate 3](https://www.mediafire.com/file/i9vusrdzr20v43z/Wanikani_Ultimate_3__Tokyo_Drift_-_2023-06-24.apkg/file) [!badge variant="dark" text="Support"](https://discord.gg/cSEXEB5DgF)
+    - [Yomichan Dictionaries](https://github.com/MarvNC/yomichan-dictionaries/)
+    - [Yomichan Grammar Dictionaries](https://github.com/aiko-tanaka/Grammar-Dictionaries)
++++ Anki Resources
+- Card templates
+    - [jp-mining-note](https://aquafina-water-bottle.github.io/jp-mining-note/)
+    - [Xelieu's Modified Anime Card](https://xelieu.github.io/jp-lazy-guide/)
+    - [Anki Prettify](https://github.com/pranavdeshai/anki-prettify)
+- Decks
+    - [Core 2k/6k Optimized Japanese Vocabulary Anki](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit)
+    - [DoJG Deck](https://dojgdeck.neocities.org/)
+    - [Japanese course based on Tae Kim's grammar guide & anime](https://ankiweb.net/shared/info/911122782)
+    - [KanjiDamage](https://ankiweb.net/shared/info/748570187)
+    - [Kanken Deck](https://ankiweb.net/shared/info/759825185) | [2](https://ankiweb.net/shared/info/1113953752)
+    - [Kodansha kanji learner's course with vocabulary](https://ankiweb.net/shared/info/779483253)
+    - [Wanikani Ultimate 3](https://www.mediafire.com/file/i9vusrdzr20v43z/Wanikani_Ultimate_3__Tokyo_Drift_-_2023-06-24.apkg/file) [!badge variant="dark" text="Support"](https://discord.gg/cSEXEB5DgF)
 +++
 
 
