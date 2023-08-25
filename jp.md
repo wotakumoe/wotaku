@@ -14,7 +14,7 @@ Japanese learning resources.
 
 +++ Starter
 - [Tatsumoto's Guide to Learn Japanese](https://tatsumoto.neocities.org/)
-- [Refold Japanese](https://docs.google.com/document/d/1tQmoGwCJQqmjdmaQdigAG0Ph1ODSMsGhsD7qOhlUuc0/edit)
+- [Refold Japanese](https://refold.la/) | [Docs](https://docs.google.com/document/d/1tQmoGwCJQqmjdmaQdigAG0Ph1ODSMsGhsD7qOhlUuc0/edit)
 - [Perdition](https://perdition-japanese.github.io/posts/how-to-study-japanese/)
 - [Acquiring Japanese Efficiently](https://docs.google.com/document/d/1LH82FjsCqCgp6-TFqUcS_EB15V7sx7O1VCjREp6Lexw/edit)
 - [r/LearnJapanese](https://www.reddit.com/r/LearnJapanese/wiki/index/startersguide/)
@@ -29,11 +29,57 @@ Japanese learning resources.
     - [The Best Kanji Learning Programs](https://www.tofugu.com/japanese/best-kanji-learning-programs/)
 - [itazuraneko](https://djtguide.github.io/)
 - [Tae Kim's Guide](https://guidetojapanese.org/learn/)
+- [An introduction to Japanese](https://pomax.github.io/nrGrammar/)
 - [IMABI](https://imabi.org/)
 - [Marshall's Site](https://marshallyin.com/)
 - [Kanji by Sight](https://www.nihongoshark.com/post/kanji-by-sight)
 - [Kanji Damage](http://www.kanjidamage.com/)
 - [Maggie sensei](https://maggiesensei.com/) [!badge variant="ghost" size="xs" text="Conversation"]
+
++++ Kanji
+- [Japanese KANJI Names Dictionary](https://kanji.reader.bz/en/)
+- [Kanjipedia](https://www.kanjipedia.jp/)
+- [Kanji Garden](https://kanji.garden/)
+- [Kanji Koohii](https://kanji.koohii.com/)
+- [Kotobaweb](https://kotobaweb.com/)
+- [NativShark](https://www.nativshark.com/) [!badge variant="ghost" size="xs" text="Freemium"]
+- [The Kanji Map](https://thekanjimap.com/)
+- [Wanikani](https://www.wanikani.com/)
+
++++ Listening & Reading
+- Listening
+    - [SuperNative](https://supernative.tv/ja/)
+    - [MyKikitori](https://www.mykikitori.com/)
+    - [Immersion Kit](https://www.immersionkit.com/)
+    - [CaptionPop](https://www.captionpop.com/japanese?nl=en)
+- Reading
+    - [Aozora Bunko](https://www.aozora.gr.jp/)
+    - [Manga](/Scanlation.md/#raw)
+    - [NHK News Web Easy](https://www3.nhk.or.jp/news/easy/)
+    - [Watanoc](https://watanoc.com/)
+    - [Yomujp](https://yomujp.com/)
+
++++ Pitch Accent
+- Guides
+    - [TOFUGU](https://www.tofugu.com/japanese/japanese-pronunciation/)
+    - [Kanshudo](https://www.kanshudo.com/howto/pitch)
+    - [Kezi](https://kez.io/notes/japanese/accent) | [Gist](https://gist.github.com/k3zi/3f38070efffa38db83cd5745d83b1235)
+    - [The Pitch Accent Journey](https://docs.google.com/document/d/1ReBf08JFK4n0PXdOxThAfWuiK9UWVZEWWzeKSECWTQo/edit)
+- Youtube
+    - [Darius Jahandarie] [Strategies for Acquiring Pitch Accent in Japanese](https://www.youtube.com/watch?v=I-dRbTnLmBY)
+    - [Dogen] [Japanese pitch-accent & pronunciation playlist](https://www.youtube.com/playlist?list=PLxMXdmBM9wPvsySiMoBzgh8d68xqKz1YP)
+    - [Speak Japanese Naturally] [Japanese Pitch Accent and Intonation](https://www.youtube.com/playlist?list=PLFGs3d9Sobfgr4clmLcHUM_X4JBCyIP2n)
+    - [Yudai Sensei] [Pitch Accent for Absolute Beginners](https://www.youtube.com/playlist?list=PLAmROvem8e1LhXfCUqCDshBLAdi_LlR6y)
+    - [Seize Japanese] [Verb Pitch Accent and Verbs' Conjugations](https://www.youtube.com/playlist?list=PLbEVYkEj81RzdzDWujEkfjJZrzsqV3Q8O)
+- Tools
+    - [Filmot](https://filmot.com/)
+    - [YouGlish](https://youglish.com/japanese)
+- Pronunciation
+    - [Forvo](https://forvo.com/)
+    - [OJAD AI Reader](https://www.gavo.t.u-tokyo.ac.jp/ojad/phrasing/index)
+- Practice
+    - [Kotu](https://kotu.io/)
+    - [NALA](www.tufs.ac.jp/st/personal/99/kawatsu/nala/)
 
 +++ Youtube
 #### Channels
@@ -42,11 +88,13 @@ Japanese learning resources.
     - [JapanesePod101](https://www.youtube.com/@JapanesePod101)
     - [Japanese with Yuka](https://www.youtube.com/@japanesewithyuka)
     - [Kaname Naito](https://www.youtube.com/@kanamenaito)
+    - [Miku Real Japanese](https://www.youtube.com/channel/UCsQCbl3a9FtYvA55BxdzYiQ/)
     - [Onomappu](https://www.youtube.com/@Onomappu/)
     - [Organic Japanese with Cure Dolly](https://www.youtube.com/channel/UCkdmU8hGK4Fg3LghTVtKltQ) | [Textbook](https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit)
     - [Sambon Juku](https://www.youtube.com/channel/UC0ujXryUUwILURRKt9Eh7Nw)
     - [Tae Kim](https://www.youtube.com/@taekimjapanese)
     - [ToKini Andy](https://www.youtube.com/@ToKiniAndy)
+    - [Yudai Sensei](https://www.youtube.com/@yudaisensei2020)
 - Listening/Podcast/Vlog
     - [Akane's JapaneseClass](https://www.youtube.com/@Akane-JapaneseClass)
     - [Japanese Immersion with Asami](https://www.youtube.com/@japaneseimmersionwithasami4249)
@@ -56,25 +104,39 @@ Japanese learning resources.
     - [Speak Japanese Naturally](https://www.youtube.com/@SpeakJapaneseNaturally)
     - [YUYUの日本語Podcast](https://www.youtube.com/@yuyunihongopodcast)
     - [Seeder Playlist](https://zenith-raincoat-5cf.notion.site/Japanese-Seeder-Playlist-15fc740a87d843a2a2a5f36a913af551)
-- [CaptionPop](https://www.captionpop.com/japanese?nl=en)
 
 #### Playlists
-- [Dogen] [Japanese pitch-accent & pronunciation playlist](https://www.youtube.com/playlist?list=PLxMXdmBM9wPvsySiMoBzgh8d68xqKz1YP)
+- [Learn Japanese From Zero!] [Japanese From Zero! Books 1-5 VIDEOS](https://www.youtube.com/playlist?list=PLOcym2c7xnBwU12Flkm5RcLIEhvURQ8TB)
 - [ToKini Andy] [【JLPT N5】GENKI Grammar Made Clear](https://www.youtube.com/playlist?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2)
 - [ToKini Andy] [【JLPT N4】GENKI 2 Grammar Made Clear](https://www.youtube.com/playlist?list=PLA_RcUI8km1P8bJzp3_TMMv1jhL3BcKQk)
 - [Folktales](https://www.youtube.com/playlist?list=PL1DnK3_eexijBUgFRq9Vlc1mW3gQv6gPf) | [2](https://www.youtube.com/playlist?list=PL1DnK3_eexigbTRh6rIZIIY8MJfvnlw9Q)
+
 #### Videos
 - [ToKini Andy] [How I would learn japanese (if I could start over)](https://www.youtube.com/watch?v=L1NQoQivkIY)
 - [JapanesePod101] [Learn ALL hiragana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=6p9Il_j0zjc)
 - [JapanesePod101] [Learn ALL katakana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=s6DKRgtVLGA)
-+++ Others
+
++++ Media
 - Anime
     - [Animelon](https://animelon.com/)
-    - [Kitsunekko](https://kitsunekko.net/) [!badge variant="ghost" size="xs" text="Subs"]
     - [Nyaa](https://nyaa.si/?f=0&c=1_4&q=) [!badge variant="ghost" size="xs" text="Raw"]
-- Courses
+    - [Aniwatch](https://aniwatch.to/home) [!badge variant="ghost" size="xs" text="Raw"]
+    - [itazuraneko](https://djtguide.github.io/library/sub)
+    - [Kitsunekko](https://kitsunekko.net/) [!badge variant="ghost" size="xs" text="Subs"]
+    - [JP Subtitles](https://github.com/Matchoo95/JP-Subtitles)
+- Podcast
+    - [Japanese with Noriko](https://www.japanesewithnoriko.com/)
+    - [Learn Japanese Podcast](https://learnjapanesepod.com/)
+    - [The Konnichiwa Podcast](https://konnichiwapodcast.podbean.com/)
+- Program
     - [NHK Easy Japanese](https://www.nhk.or.jp/lesson/)
     - [NHK Activate Your Japanese!](https://www3.nhk.or.jp/nhkworld/en/ondemand/program/video/activateyourjapanese/)
+- Others
+    - [Condensed Audio Catalog](https://condensedaudiocatalog.com/)
+    - [Japanese Condensed Audio](https://mega.nz/folder/8HhhWDyJ#SHw5xsYxyhWUX536UcqkeQ) | [2](https://mega.nz/folder/N4d3STJC#w3wPPgk9UgD6qE_UvjtB8Q)
+    - [Condensed Audio Maker](https://anacreondjt.gitlab.io/docs/condensed_audio/)
+
++++ Others
 - Dictionary
     - [JISHO](https://jisho.org/)
     - [JPDB](https://jpdb.io/)
@@ -88,34 +150,14 @@ Japanese learning resources.
     - [Bunpro](https://bunpro.jp/) [!badge variant="ghost" size="xs" text="Freemium"]
     - [A Dictionary of Japanese Grammar](https://core6000.neocities.org/dojg/)
     - [Visualizing Japanese Grammar](https://www2.gwu.edu/~eall/vjgnew/vjghomepage/vjghome.htm)
-- Kanji
-    - [Japanese KANJI Names Dictionary](https://kanji.reader.bz/en/)
-    - [Kanjipedia](https://www.kanjipedia.jp/)
-    - [Kanji Garden](https://kanji.garden/)
-    - [Kotobaweb](https://kotobaweb.com/)
-    - [NativShark](https://www.nativshark.com/) [!badge variant="ghost" size="xs" text="Freemium"]
-    - [The Kanji Map](https://thekanjimap.com/)
-    - [Wanikani](https://www.wanikani.com/)
-
-- Pitch Accent
-    - [Forvo](https://forvo.com/)
-    - [Kezi](https://kez.io/notes/japanese/accent) | [Gist](https://gist.github.com/k3zi/3f38070efffa38db83cd5745d83b1235)
-    - [Kotu](https://kotu.io/)
-    - [OJAD Phrasing](https://www.gavo.t.u-tokyo.ac.jp/ojad/phrasing/index)
-    - [The Pitch Accent Journey](https://docs.google.com/document/d/1ReBf08JFK4n0PXdOxThAfWuiK9UWVZEWWzeKSECWTQo/edit)
-    - [YouGlish](https://youglish.com/japanese)
 - Practice
     - [Genki Study Resources](https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/)
+    - [Kana Pro](https://kana.pro/)
     - [Kenji Sugimoto](https://www.kenjisugimoto.com/shuji/index.html?shuji=%E3%81%8A%E6%89%8B%E6%9C%AC)
+    - [Real Kana](https://realkana.com/)
     - [Tobira Study Resources](https://sethclydesdale.github.io/tobira-study-resources/)
     - [Kanji Game](https://kotobaweb.com/kanjigame/create)
     - [Japanese Numbers](https://langpractice.com/japanese)
-- Reading
-    - [Aozora Bunko](https://www.aozora.gr.jp/)
-    - [Manga](/Scanlation.md/#raw)
-    - [NHK News Web Easy](https://www3.nhk.or.jp/news/easy/)
-    - [Watanoc](https://watanoc.com/)
-    - [Yomujp](https://yomujp.com/)
 - Resources
     - [Japanese with Anime](https://www.japanesewithanime.com/)
     - [JLPT Grammar List and Example Sentences](https://japanasubi-en.com/lp/jlptgrammarlist/)
@@ -208,7 +250,10 @@ Japanese learning resources.
     - [Anki](https://apps.ankiweb.net/) [!badge variant="dark" text="Guide"](https://tatsumoto.neocities.org/blog/setting-up-anki)
     - [JL](https://github.com/rampaa/JL)
     - [mpvacious](https://github.com/Ajatt-Tools/mpvacious)
+    - [memento](https://github.com/ripose-jp/Memento)
+    - [Voracious](https://voracious.app/)
 - Extension
+    - [Asbplayer](https://killergerbah.github.io/asbplayer/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/killergerbah/asbplayer)
     - [jimaku player](https://github.com/sheodox/jimaku-player)
     - [JP Study tools](https://github.com/rudnam/JP-study)
     - [Language Reactor](https://www.languagereactor.com/)
