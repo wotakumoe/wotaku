@@ -62,7 +62,7 @@ Japanese learning resources.
 - [Dogen] [Japanese pitch-accent & pronunciation playlist](https://www.youtube.com/playlist?list=PLxMXdmBM9wPvsySiMoBzgh8d68xqKz1YP)
 - [ToKini Andy] [【JLPT N5】GENKI Grammar Made Clear](https://www.youtube.com/playlist?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2)
 - [ToKini Andy] [【JLPT N4】GENKI 2 Grammar Made Clear](https://www.youtube.com/playlist?list=PLA_RcUI8km1P8bJzp3_TMMv1jhL3BcKQk)
-
+- [Folktales](https://www.youtube.com/playlist?list=PL1DnK3_eexijBUgFRq9Vlc1mW3gQv6gPf) | [2](https://www.youtube.com/playlist?list=PL1DnK3_eexigbTRh6rIZIIY8MJfvnlw9Q)
 #### Videos
 - [ToKini Andy] [How I would learn japanese (if I could start over)](https://www.youtube.com/watch?v=L1NQoQivkIY)
 - [JapanesePod101] [Learn ALL hiragana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=6p9Il_j0zjc)
@@ -87,14 +87,16 @@ Japanese learning resources.
 - Grammar
     - [Bunpro](https://bunpro.jp/) [!badge variant="ghost" size="xs" text="Freemium"]
     - [A Dictionary of Japanese Grammar](https://core6000.neocities.org/dojg/)
+    - [Visualizing Japanese Grammar](https://www2.gwu.edu/~eall/vjgnew/vjghomepage/vjghome.htm)
 - Kanji
     - [Japanese KANJI Names Dictionary](https://kanji.reader.bz/en/)
     - [Kanjipedia](https://www.kanjipedia.jp/)
     - [Kanji Garden](https://kanji.garden/)
+    - [Kotobaweb](https://kotobaweb.com/)
     - [NativShark](https://www.nativshark.com/) [!badge variant="ghost" size="xs" text="Freemium"]
     - [The Kanji Map](https://thekanjimap.com/)
     - [Wanikani](https://www.wanikani.com/)
-    - [Stoke Order](https://kotobaweb.com/strokeorder)
+
 - Pitch Accent
     - [Forvo](https://forvo.com/)
     - [Kezi](https://kez.io/notes/japanese/accent) | [Gist](https://gist.github.com/k3zi/3f38070efffa38db83cd5745d83b1235)
@@ -107,6 +109,7 @@ Japanese learning resources.
     - [Kenji Sugimoto](https://www.kenjisugimoto.com/shuji/index.html?shuji=%E3%81%8A%E6%89%8B%E6%9C%AC)
     - [Tobira Study Resources](https://sethclydesdale.github.io/tobira-study-resources/)
     - [Kanji Game](https://kotobaweb.com/kanjigame/create)
+    - [Japanese Numbers](https://langpractice.com/japanese)
 - Reading
     - [Aozora Bunko](https://www.aozora.gr.jp/)
     - [Manga](/Scanlation.md/#raw)
@@ -120,6 +123,11 @@ Japanese learning resources.
     - [Migaku Pitch Trainer](https://pitch-demo.migaku.io/)
     - [Nihongo](https://nihongo-e-na.com/eng/)
     - [Resources for pitch accent](https://xythh.github.io/resources)
+- Tools
+    - [Japanese.io](https://www.japanese.io/)
+    - [Sentence Search](https://sentencesearch.neocities.org/)
+    - [Massif](https://massif.la/ja)
+    - [Similar word finder](https://hinoki-project.org/natsume/)
 +++
 
 ![](/static/banner/books.png)
@@ -185,6 +193,7 @@ Japanese learning resources.
 +++ Phone & Tab
 - Anki [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.ichi2.anki) [!badge variant="dark" icon="/static/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387)
 - [Easy Japanese](https://easyjapanese.net/) [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=mobi.eup.jpnews&hl=en&gl=US) [!badge variant="dark" icon="/static/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/easy-japanese-news-%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/id1107177166)
+- [Immersion Reader](https://reader.immersionkit.com/) [!badge variant="dark" icon="/static/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/immersion-reader/id6443721334)
 - Japanese Kanji Study [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy&hl=en&gl=US)
 - jidoujisho [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://github.com/lrorpilla/jidoujisho)
 - Kana - Hiragana and Katakana [!badge variant="dark" icon="/static/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/kana-hiragana-and-katakana/id1454200955)
