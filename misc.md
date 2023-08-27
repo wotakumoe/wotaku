@@ -98,6 +98,7 @@ ___
 
 ### Recommendations
 - ANN TOP 100 [Manga](https://www.animenewsnetwork.com/encyclopedia/ratings-manga.php?top50=best_bayesian&n=100) | [Anime](https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=popular&n=100)
+- [r/Anime Recommendations](https://www.reddit.com/r/anime/wiki/recommendations/)
 - Visual Novel Recommendations
     - [VNDB](https://vndb.org/v?f=022gja3gja&s=34w)
     - [Starter pack](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub)
@@ -127,7 +128,6 @@ ____
 - [Anime News Network](https://www.animenewsnetwork.com/)
 - [Anime Senpai](https://www.animesenpai.net/)
 - [Crunchyroll News](https://www.crunchyroll.com/news)
-- [Fandom Post](https://www.fandompost.com/)
 - [Josu Ke](https://twitter.com/Josu_ke)
 - [MAL News](https://myanimelist.net/news)
 - [Manga Alerts](https://twitter.com/MangaAlerts)

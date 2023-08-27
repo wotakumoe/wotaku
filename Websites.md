@@ -38,7 +38,7 @@ ___
 
 ### Stream
 
-- [**Aniwave**](https://aniwave.to/home) | [Anix](https://anix.to/home) [!badge variant="dark" size="xs" text="formerly 9anime"]
+- [**Aniwave**](https://aniwave.to/home) | [Anix](https://anix.to/home) | [Alt UI](https://9animehq.to/home) [!badge variant="dark" size="xs" text="formerly 9anime"]
     - Huge library with Watch Together feature
     - Less amount of compression compared to other sites that use 3rd party hosts
 - [**Marin**](https://marin.moe/)
@@ -88,7 +88,7 @@ ___
 - [JPLearner](http://www.jplearner.to/) [!badge size="xs" variant="ghost" text="Blu-ray"] [!badge variant="ghost" size="xs" text="Misc"] [!badge variant="ghost" size="xs" text="Host"]
 - [AnimeRSS](https://animerss.com/) [!badge size="xs" variant="ghost" text="Blu-ray"] [!badge variant="ghost" size="xs" text="Host"]
 
-> To download in Android, use [!badge variant="dark" icon="/static/icon/1dm.png" text="1DM"](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US), [!badge variant="dark" icon="/static/icon/fdm.png" text="FDM"](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm&hl=en&gl=US) or [!badge variant="dark" icon="/static/icon/adm.png" text="ADM"](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US). For PC, use [!badge variant="dark" icon="/static/icon/idm.webp" text="IDM"](https://www.internetdownloadmanager.com/), [!badge variant="dark" icon="/static/icon/jdl.png" text="JDL"](https://jdownloader.org/) or [!badge variant="dark" icon="/static/icon/fdm.png" text="FDM"](https://www.freedownloadmanager.org/). You can use JDL & FDM on Linux & macOS too. Read [this guide](https://rentry.org/jdownloader2) to debloat JDL.
+> To download in Android, use [!badge variant="dark" icon="/static/icon/1dm.png" text="1DM"](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US), [!badge variant="dark" icon="/static/icon/fdm.png" text="FDM"](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm&hl=en&gl=US) or [!badge variant="dark" icon="/static/icon/adm.png" text="ADM"](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US). For PC, use [!badge variant="dark" icon="/static/icon/idm.webp" text="IDM"](https://www.internetdownloadmanager.com/), [!badge variant="dark" icon="/static/icon/jdl.png" text="JDL"](https://jdownloader.org/) or [!badge variant="dark" icon="/static/icon/fdm.png" text="FDM"](https://www.freedownloadmanager.org/). You can use JDL & FDM on Linux & macOS too. Use [IAS](https://massgrave.dev/idm-activation-script.html) to activate IDM. Read [this guide](https://rentry.org/jdownloader2) to debloat JDL.
 
 ### IRC
 - [**nibl**](https://nibl.co.uk/search)

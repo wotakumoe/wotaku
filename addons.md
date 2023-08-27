@@ -82,6 +82,7 @@ ___
 - [Anifilters](https://github.com/Karmesinrot/Anifiltrs)
 - [Anime Website Buttons Plus](https://github.com/Deatthwing/anime-website-buttons-plus) [!badge variant="dark" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/398046-anime-website-custom-buttons-plus)
 - Find on Nyaa [!badge variant="dark" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/379776-find-on-nyaa)
+- [MAL-Sync](https://github.com/MALSync/MALSync/releases/latest/download/malsync.user.js)
 
 +++ Anilist
 
@@ -188,7 +189,7 @@ ___
 - [Tundra](https://github.com/m4tx/tundra) [!button variant="primary" size="xs" icon="globe" text="Web"](https://tundra.moe/)
 
 +++ Browser
-- [MALSync](https://github.com/MALSync/MALSync) [!button variant="primary" size="xs" icon="globe" text="Web"](https://malsync.moe/) [!badge variant="dark" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel) [!badge variant="dark" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/mal-sync/) [!badge variant="Dark" icon="file-code" text="Script"](https://github.com/MALSync/MALSync/releases/latest/download/malsync.user.js)
+- [MALSync](https://github.com/MALSync/MALSync) [!button variant="primary" size="xs" icon="globe" text="Web"](https://malsync.moe/) [!badge variant="dark" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel) [!badge variant="dark" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/mal-sync/)
 - [Kenmei](https://www.kenmei.co/)
 - [All Manga Reader](https://gitlab.com/all-mangas-reader/all-mangas-reader-2) [!button variant="primary" size="xs" icon="globe" text="Web"](https://www.allmangasreader.com/)
 +++

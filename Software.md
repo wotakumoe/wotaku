@@ -200,6 +200,7 @@ ___
 ### Light Novel
 
 - [Kavita](https://github.com/Kareadita/Kavita) [!button variant="primary" size="xs" icon="globe" text="Web"](https://www.kavitareader.com/)
+- [Thorium reader](https://github.com/edrlab/thorium-reader)
 - [Novel Reader](https://github.com/Kevin-Umali/NovelReader)
 - [Koodo Reader](https://github.com/troyeguo/koodo-reader) [!button variant="primary" size="xs" icon="globe" text="Web"](https://koodo.960960.xyz/en)
 
