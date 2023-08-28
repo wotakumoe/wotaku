@@ -129,6 +129,7 @@ ____
 - [Anime Senpai](https://www.animesenpai.net/)
 - [Crunchyroll News](https://www.crunchyroll.com/news)
 - [Josu Ke](https://twitter.com/Josu_ke)
+- [Make Believe Mailer](https://mbmelodies.substack.com/)
 - [MAL News](https://myanimelist.net/news)
 - [Manga Alerts](https://twitter.com/MangaAlerts)
 - [Manga Mogura RE](https://twitter.com/MangaMoguraRE)

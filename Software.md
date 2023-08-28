@@ -7,7 +7,7 @@ icon: ":floppy_disk:"
 
 ---
 
-![](/static/thumb/soft.png)
+![](https://cdn.apollo.moe/img/soft.png)
 
 # Software
 
