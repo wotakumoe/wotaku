@@ -4,7 +4,7 @@ description: Cool projects under development.
 order: -50
 icon: ":alembic:"
 ---
-![](/static/thumb/brew.png)
+![](https://cdn.apollo.moe/img/brew.png)
 # Brewing
 Cool prospective projects under works worth looking into, or maybe contributing too!
 ___

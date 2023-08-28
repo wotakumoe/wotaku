@@ -5,7 +5,7 @@ icon: ":u7533:"
 order: 800
 ---
 
-![](/static/thumb/nen.png)
+![](https://cdn.apollo.moe/img/nen.png)
 # Non-English
 
 Looking to find otaku materials in your language. Presenting the Non-En section!

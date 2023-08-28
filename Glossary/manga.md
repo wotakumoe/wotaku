@@ -3,7 +3,7 @@ label: Manga
 order: 95
 ---
 
-![](/static/thumb/manga.png)
+![](https://cdn.apollo.moe/img/manga.png)
 # Manga Glossary
 Manga portion of the Wotaku glossary!
 

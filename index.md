@@ -3,7 +3,7 @@ label: Welcome
 icon: ":wave:"
 ---
 
-![](/static/thumb/cover.png)
+![](https://cdn.apollo.moe/img/cover.png)
 
 # ようこそ !
 

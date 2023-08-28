@@ -4,7 +4,7 @@ order: 850
 icon: ":jigsaw:"
 ---
 
-![](/static/thumb/addons.png)
+![](https://cdn.apollo.moe/img/addons.png)
 
 # Add-ons
 

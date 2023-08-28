@@ -5,7 +5,7 @@ description: Curated websites for anime, manga, ln & vn.
 icon: ":earth_asia:"
 ---
 
-![](/static/thumb/web.png)
+![](https://cdn.apollo.moe/img/web.png)
 
 # Websites
 

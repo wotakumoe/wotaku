@@ -6,7 +6,7 @@ icon: ":speaking_head_in_silhouette:"
 ---
 
 
-![](/static/thumb/comms.png)
+![](https://cdn.apollo.moe/img/comms.png)
 # Communities
 If you are looking for communities to join based on your interest, you have come to the right place! Welcome to the communities page.
 

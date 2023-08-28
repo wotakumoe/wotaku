@@ -5,7 +5,7 @@ description: :)
 icon: ":underage:"
 ---
 
-![](/static/thumb/nsfw.png)
+![](https://cdn.apollo.moe/img/nsfw.png)
 # NSFW
 Need to control that horny energy of yours? Looking to find satisfy your fetish with some kink and :wink: Well look no further introducing the NSFW section crafted with love and care (that's what she said)
 

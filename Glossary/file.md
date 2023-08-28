@@ -3,7 +3,7 @@ label: File Naming
 order: 0
 ---
 
-![](/static/thumb/fn.png)
+![](https://cdn.apollo.moe/img/fn.png)
 # File Naming
 Standard file naming scheme for Anime & Manga file.
 

@@ -5,7 +5,7 @@ description: Japanese learning resources.
 icon: ":japan:"
 ---
 
-![](/static/thumb/jp.png)
+![](https://cdn.apollo.moe/img/jp.png)
 # Learning Japanese
 Japanese learning resources.
 

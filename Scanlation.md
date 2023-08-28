@@ -4,7 +4,7 @@ order: 50
 description: Guides and resources for scanlation.
 icon: ":page_with_curl:"
 ---
-![](/static/thumb/scan.png)
+![](https://cdn.apollo.moe/img/scan.png)
 # Scanlation
 If you’re interested in what the world of scanlation entails, and want to know the process behind it, welcome to the scanlation section! Here you will find nifty sources for everything related to scanlating.
 ___

@@ -2,7 +2,7 @@
 label: Digital Manga
 description: To help you decide where to purchase your digital manga
 ---
-![](/static/thumb/digim.png)
+![](https://cdn.apollo.moe/img/digim.png)
 
 # Digital Manga Buyer's Guide
 This guide is intended to help you decide where to purchase your digital manga depending on your needs.

@@ -4,7 +4,7 @@ label: Quick Start
 icon: ":zap:"
 ---
 
-![](/static/thumb/qs.png)
+![](https://cdn.apollo.moe/img/qs.png)
 # Quick Start
 Bite-sized Wotaku!
 ___

@@ -5,7 +5,7 @@ order: -100
 icon: ":sparkling_heart:"
 ---
 
-![](/static/thumb/credits.png)
+![](https://cdn.apollo.moe/img/credits.png)
 
 # Credits
 Thank you to all the contributors for your dedications and resources.

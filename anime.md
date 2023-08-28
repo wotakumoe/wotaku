@@ -2,7 +2,7 @@
 visibility: Hidden
 ---
 
-![](/static/thumb/anime.png)
+![](https://cdn.apollo.moe/img/anime.png)
 # Anime Megathread
 Everrything Anime Related!
 

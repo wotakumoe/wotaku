@@ -6,7 +6,7 @@ icon: ":package:"
 ---
 
 
-![](/static/thumb/merch.png)
+![](https://cdn.apollo.moe/img/merch.png)
 # Merch
 
 Wanna have something cool on display? A huge fan of a series you want to support? Want to get into collecting? Here you will find information for figurines, manga, plushes, dakimakuras, etc. Welcome to the Merch shop where you can fulfil those desire to your hearts content!

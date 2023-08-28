@@ -3,7 +3,7 @@ label: General
 order: 105
 ---
 
-![](/static/thumb/glossary.png)
+![](https://cdn.apollo.moe/img/glossary.png)
 
 # Wotaku Glossary
 Want to increase your otaku knowledge? Look for no further! Presenting the Glossary section.

@@ -2,7 +2,7 @@
 visibility: Hidden
 ---
 
-![](/static/thumb/manga.png)
+![](https://cdn.apollo.moe/img/manga.png)
 # Manga Megathread
 Everrything Manga Related!
 

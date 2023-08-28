@@ -5,7 +5,7 @@ author:
   link: https://github.com/anotherduckling
   avatar: https://avatars.githubusercontent.com/u/57977673?v=4
 ---
-![](/static/thumb/nsw.png)
+![](https://cdn.apollo.moe/img/nsfw.png)
 
 # Network Stream
 
