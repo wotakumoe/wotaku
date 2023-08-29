@@ -17,7 +17,7 @@ ___
 
 #### Special Thanks to
 
-[!badge variant="dark" size="xl" text="**Abyss**"](https://github.com/knightmob) [!badge variant="dark" size="xl" text="**Helmasko**"](https://github.com/Helmasko) [!badge variant="dark" size="xl" text="**Ishtar**"](https://ishtar.wtf/) [!badge variant="dark" size="xl" text="**KAI**"](https://github.com/Kai-FMHY) [!badge variant="dark" size="xl" text="**loocool**"](https://github.com/loocool2) [!badge variant="dark" size="xl" text="**Static**"](https://github.com/whitenoisy) [!badge variant="dark" size="xl" text="**Taskylizard**"](https://github.com/taskylizard) [!badge variant="dark" size="xl" text="**TubaApollo**"](https://github.com/TubaApollo)
+[!badge variant="dark" size="xl" text="**Abyss**"](https://github.com/knightmob) [!badge variant="dark" size="xl" text="**Fahim**"](https://github.com/farahnur42) [!badge variant="dark" size="xl" text="**Helmasko**"](https://github.com/Helmasko) [!badge variant="dark" size="xl" text="**Ishtar**"](https://ishtar.wtf/) [!badge variant="dark" size="xl" text="**KAI**"](https://github.com/Kai-FMHY) [!badge variant="dark" size="xl" text="**loocool**"](https://github.com/loocool2) [!badge variant="dark" size="xl" text="**Static**"](https://github.com/whitenoisy) [!badge variant="dark" size="xl" text="**Taskylizard**"](https://github.com/taskylizard) [!badge variant="dark" size="xl" text="**TubaApollo**"](https://github.com/TubaApollo)
 
 ## Art Credits
 - AO-chan by [3ton](https://www.pixiv.net/en/artworks/110412826)
