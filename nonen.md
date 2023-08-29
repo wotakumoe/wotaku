@@ -94,7 +94,6 @@ ___
 - [Kuramanime](https://kuramanime.net/)
 - [Mynimeku](https://www.mynimeku.com/)
 - [Neonime](https://neonime.fun/)
-- [Ryukonime](https://ryukonime.vercel.app/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/AzwarKusumah/Ryukonime)
 - [Kusonime](https://kusonime.com/) [!badge variant="ghost" size="xs" text="DDL"]
 
 #### Italian

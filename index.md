@@ -3,7 +3,7 @@ label: Welcome
 icon: ":wave:"
 ---
 
-![](https://cdn.apollo.moe/img/cover.png)
+[![](https://cdn.apollo.moe/img/invite.png)](https://discord.gg/vShRGx8ZBC)
 
 # ようこそ !
 

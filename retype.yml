@@ -26,6 +26,10 @@ links:
     link: /manga.md
     icon: ":speech_balloon:"
 
+  - text: Discord
+    link: https://discord.gg/vShRGx8ZBC
+    icon: /static/icon/discord.png
+
   - text: Github
     link: https://github.com/anotherduckling/Wotaku
     icon: mark-github
