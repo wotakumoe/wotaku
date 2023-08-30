@@ -88,6 +88,7 @@ ___
 - [MediaBang Paint](https://medibangpaint.com/en/)
 - [GIMP](https://www.gimp.org/)
 - [Real ESRGAN](https://github.com/xinntao/Real-ESRGAN)
+- [SickZil-Machine](https://github.com/KUR-creative/SickZil-Machine)
 - [Waifu2X](https://github.com/nagadomi/waifu2x) [!badge variant="dark" text="caffe"](https://github.com/lltcggie/waifu2x-caffe) [!badge variant="dark" text="ncnn Vulkan"](https://github.com/nihui/waifu2x-ncnn-vulkan) [!badge variant="dark" text="Ext GUI"](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) [!badge variant="dark" text="nunif"](https://github.com/nagadomi/nunif)
 - [chaiNNer](https://github.com/chaiNNer-org/chaiNNer)
 

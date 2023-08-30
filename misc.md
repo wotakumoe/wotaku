@@ -15,7 +15,7 @@ ___
 ## Info
 ___
 
-+++ Manga
+### Manga
 - [Anilist](https://anilist.co/)
 - [Mangaupdates](https://www.mangaupdates.com/)
 - [Manga Codex](http://www.mangacodex.com/)
@@ -23,8 +23,8 @@ ___
 - [MyAnimeList](https://myanimelist.net/)
 - [Scan Updates](https://www.scanupdates.com/)
 
-+++ Anime
-#### Database
+### Anime
++++ Database
 - [aniDB](https://anidb.net/)
 - [Anilist](https://anilist.co/)
 - [Anime News Network](https://www.animenewsnetwork.com/)
@@ -32,7 +32,7 @@ ___
 - [MyAnimeList](https://myanimelist.net/)
 
 
-#### Schedule
++++ Schedule
 - [Anica](https://anica.jp/)
 - [AniChart](https://anichart.net/)
 - [AnimeSchedule](https://animeschedule.net/)
@@ -42,7 +42,7 @@ ___
 - [Senpai.moe](https://www.senpai.moe/)
 
 
-#### Stats/Watch guide
++++ Stats/Watch guide
 - [Anime Karma List](https://animekarmalist.com/)
 - [Anime Stats](https://anime-stats.net/)
 - [Kitsu Season Trends](https://season.moe/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/wopian/kitsu-season-trends)
@@ -53,7 +53,7 @@ ___
 - [r/Anime Watch Order](https://www.reddit.com/r/anime/wiki/watch_order/)
 
 
-#### Index
++++ Index
 - [Aniplaylist](https://aniplaylist.com/)
 - [Seadex](https://releases.moe/)
 - [Sneedex](https://sneedex.moe/) [!button variant="primary" size="xs" icon="/static/icon/discord.svg" text="Invite"](https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot)
@@ -62,19 +62,20 @@ ___
 - [German Fansubbers' Index](https://anime-fansubs.de/)
 - [Indonesian Fansubbers' Index](https://www.fansub.id/home)
 
++++
 
-+++ Miscellaneous
-#### Light Novels
+### Miscellaneous
++++ Light Novels
 - [Novel updates](https://www.novelupdates.com/)
 - [Bookmeter](https://bookmeter.com/) [!badge variant="ghost" icon="/static/icon/jp.png" text="JP"]
 - [r/LightNovels reading order](https://www.reddit.com/r/LightNovels/wiki/reading_order)
 
-#### Visual Novels
++++ Visual Novels
 - [The Visual Novel Database](https://vndb.org/)
 - [VNStat](https://vnstat.net/)
 - [r/Visualnovels' links](https://www.reddit.com/r/visualnovels/wiki/links/)
 
-#### More
++++ More
 - [Anilinks](https://anilinks.neocities.org/)
 - [AnimeCons](https://animecons.com/)
 - [VGMDB](https://vgmdb.net/)
@@ -157,7 +158,7 @@ ___
 - [osu skinner](https://osuskinner.com/)
 - [osu!chan](https://osuchan.syrin.me/)
 - [osu!next Signature Generator](https://lemmmy.pw/osusig/)
-- [os!pp](https://osu-pps.com)
+- [osu!pp](https://osu-pps.com)
 - [osu!search](https://osusearch.com/)
 - [o!rdr](https://ordr.issou.best/)
 
