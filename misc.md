@@ -5,7 +5,7 @@ description: Various sites for info, guide, tracking and analysis.
 icon: ":card_file_box:"
 ---
 
-![](https://cdn.apollo.moe/img/merch.png)
+![](https://cdn.apollo.moe/img/ms.png)
 
 # Misc-sites
 Feeling adventurous? Want to discover the taste of Japanese culture? Welcome to the misc-sites page! Here you can find various communities, guides, and tools that strikes your fancy. Enjoy the exploration!

@@ -37,7 +37,7 @@ ___
 ## Publishers
 Store | Resolution | DRM-Free | SFW | Highest Quality { class="compact" } |
 --- | --- | --- | --- | --- |
-[Azuki](https://www.azuki.co/)|x4800^7^|🤷‍♂️|✅|Own Store
+[Azuki](https://www.azuki.co/)|x4800^7^|✅|✅|Own Store
 [Dark Horse](https://digital.darkhorse.com/)|x3000+^1^ | ❌ | ✅ | Comixology
 [DENPA](https://denpa.pub/)|Varies | ❌ | ✅ | Own Store
 [FAKKU!](https://www.fakku.net/)| x3200 | ✅ | ❌ | Own Store
