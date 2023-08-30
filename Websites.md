@@ -26,7 +26,7 @@ ___
 **Note**: None of the websites mentioned are exclusively dedicated to NSFW content. [**Click here**](/nsfw.md) for the dedicated sites.
 ===
 
-> Use [!badge variant="dark" icon="/static/icon/ada.png" text="AdAway"](https://adaway.org/) or [!badge variant="dark" icon="/static/icon/adg.png" text="Adguard"](https://adguard.com/en/welcome.html) on Android and [!badge variant="dark" icon="/static/icon/ubo.png" text="uBlock Origin"](https://ublockorigin.com/) in browsers to get rid of all the ads and trakcers. For iOS, use [!badge variant="dark" icon="/static/icon/ahadns.png" text="AhaDNS"](https://blitz-setup.ahadns.com/) as profile.
+> Use [!badge variant="dark" icon="/static/icon/ada.png" text="AdAway"](https://adaway.org/) or [!badge variant="dark" icon="/static/icon/adg.png" text="Adguard"](https://adguard.com/en/welcome.html) on Android and [!badge variant="dark" icon="/static/icon/ubo.png" text="uBlock Origin"](https://ublockorigin.com/) in browsers to get rid of all the ads and trackers. For iOS, use [!badge variant="dark" icon="/static/icon/ahadns.png" text="AhaDNS"](https://blitz-setup.ahadns.com/) as profile.
 
 
 ![](/static/banner/anime.png)

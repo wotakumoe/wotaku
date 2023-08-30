@@ -151,6 +151,16 @@ ___
 - [SauceNAO](https://saucenao.com/)
 - [Trace](https://trace.moe/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/soruly/trace.moe)
 
++++ osu!
+- [Anisync](https://anisync.live/)
+- [BeatConnect](https://beatconnect.io/)
+- [osu skinner](https://osuskinner.com/)
+- [osu!chan](https://osuchan.syrin.me/)
+- [osu!next Signature Generator](https://lemmmy.pw/osusig/)
+- [os!pp](https://osu-pps.com)
+- [osu!search](https://osusearch.com/)
+- [o!rdr](https://ordr.issou.best/)
+
 +++ Trackers
 - [Anilist](https://anilist.co/)
 - [Anime-Planet](https://www.anime-planet.com/)
@@ -166,15 +176,6 @@ ___
 - [Anipool](https://www.anipool.app/)
 - [Imgtrans](https://touhou.ai/imgtrans/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/zyddnys/manga-image-translator)
 - [MAL/AL/K/AP lists XML Exporter](https://malscraper.azurewebsites.net/)
-- osu!
-    - [Anisync](https://anisync.live/)
-    - [BeatConnect](https://beatconnect.io/)
-    - [osu skinner](https://osuskinner.com/)
-    - [osu!chan](https://osuchan.syrin.me/)
-    - [osu!next Signature Generator](https://lemmmy.pw/osusig/)
-    - [os!pp](https://osu-pps.com)
-    - [osu!search](https://osusearch.com/)
-    - [o!rdr](https://ordr.issou.best/)
 - [Trakt to MAL](https://anitrakt.huere.net/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/ryuuganime/aniTrakt-IndexParser)
 - [Waif2x](https://unlimited.waifu2x.net/) [!badge variant="dark" text="udp"](https://waifu2x.udp.jp/)  [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/nagadomi/waifu2x)
 - [WaifuXL](https://waifuxl.com/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/TheFutureGadgetsLab/WaifuXL)
