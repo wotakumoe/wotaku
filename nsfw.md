@@ -7,7 +7,7 @@ icon: ":underage:"
 
 ![](https://cdn.apollo.moe/img/nsfw.png)
 # NSFW
-Need to control that horny energy of yours? Looking to find satisfy your fetish with some kink and :wink: Well look no further introducing the NSFW section crafted with love and care (that's what she said)
+Everyone has to let off some steam once in a while, we don't judge.
 
 ___
 ![](/static/banner/sites.png)

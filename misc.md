@@ -8,7 +8,7 @@ icon: ":card_file_box:"
 ![](https://cdn.apollo.moe/img/ms.png)
 
 # Misc-sites
-Feeling adventurous? Want to discover the taste of Japanese culture? Welcome to the misc-sites page! Here you can find various communities, guides, and tools that strikes your fancy. Enjoy the exploration!
+Welcome to the misc-sites page, home to various communities, guides, and tools for your otaku needs and interests.
 ___
 
 ![](/static/banner/info.png)

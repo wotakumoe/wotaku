@@ -5,11 +5,10 @@ description: Everything merch related!
 icon: ":package:"
 ---
 
-
 ![](https://cdn.apollo.moe/img/merch.png)
 # Merch
 
-Wanna have something cool on display? A huge fan of a series you want to support? Want to get into collecting? Here you will find information for figurines, manga, plushes, dakimakuras, etc. Welcome to the Merch shop where you can fulfil those desire to your hearts content!
+Looking to buy memorabilia from your favourite series and support the creators? Here you will find information on figurines, plushes, books, CDs and more!
 ___
 
 !!!warning Don't be impulsive.

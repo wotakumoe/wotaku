@@ -7,7 +7,7 @@ icon: ":japan:"
 
 ![](https://cdn.apollo.moe/img/jp.png)
 # Learning Japanese
-Japanese learning resources.
+Interested in learning the japanese language? Here you can find resources to aid you on your journey.
 
 ![](/static/banner/sites.png)
 ## Websites

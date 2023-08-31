@@ -9,7 +9,7 @@ icon: ":earth_asia:"
 
 # Websites
 
-Looking for websites that provide manga, anime, light novels, and other things to fulfill your otaku needs? You have arrived at in the website section! In here you will find the finest quality of links extensively tested with love and care.
+Online resources for anime, manga, light novels and more. All links have been carefully selected and vetted by our contributors.
 ___
 
 ==- :icon-alert: Rating System

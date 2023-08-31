@@ -6,7 +6,7 @@ icon: ":zap:"
 
 ![](https://cdn.apollo.moe/img/qs.png)
 # Quick Start
-Bite-sized Wotaku!
+The most important things to get you started.
 ___
 
 ## Websites

@@ -8,7 +8,7 @@ order: 800
 ![](https://cdn.apollo.moe/img/nen.png)
 # Non-English
 
-Looking to find otaku materials in your language. Presenting the Non-En section!
+Otaku resources for other languages/regions.
 ___
 
 ![](/static/banner/anime.png)

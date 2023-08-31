@@ -8,7 +8,7 @@ icon: ":jigsaw:"
 
 # Add-ons
 
-Need even further streamlining in your anime/manga/light novel experience? Presenting the add-ons sections! Add-ons include tracking anime and manga progress, discord bots, browser extensions, scripts, and more!
+Various add-ons to enhance your otaku experience. Includes anime/manga tracking, Discord bots, browser extensions, scripts and more!
 ___
 
 

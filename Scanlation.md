@@ -6,7 +6,7 @@ icon: ":page_with_curl:"
 ---
 ![](https://cdn.apollo.moe/img/scan.png)
 # Scanlation
-If you’re interested in what the world of scanlation entails, and want to know the process behind it, welcome to the scanlation section! Here you will find nifty sources for everything related to scanlating.
+Information and guides pertaining to the world of fan translation, everything from behind-the-scenes looks to tutorials.
 ___
 
 ![](/static/banner/comms.png)
