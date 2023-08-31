@@ -20,34 +20,6 @@ ___
 - Anime Boxes [!button variant="primary" size="xs" icon="globe" text="Web"](https://www.animebox.es/)
 - Pixiv [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=jp.pxv.android)
 
-![](/static/banner/disbot.png)
-
-## Discord Bots
-___
-- [AniSearch](https://github.com/IchBinLeoon/anisearch-discord-bot) [!button variant="primary" size="xs" icon="globe" text="Web"](https://ichbinleoon.github.io/anisearch-discord-bot/#/)
-- [Ryuuzaki Ryuusei](https://github.com/nattadasu/ryuuRyuusei)
-- [Yuuko](https://github.com/YuuCorp/Yuuko)
-- [MangaUpdates Bot](https://github.com/jckli/mangaupdates-bot)
-- [Manhwa Updates Bot](https://github.com/MooshiMochi/ManhwaUpdatesBot)
-- [Michelle](https://github.com/JacenBoy/michelle) [!button variant="primary" size="xs" icon="globe" text="Web"](https://michelle.jacenboy.com/)
-- Sneedex [!button variant="primary" size="xs" icon="/static/icon/discord.svg" text="Invite"](https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot)
-- [Picsiv](https://github.com/jckli/picsiv)
-- [MonitoRSS](https://github.com/synzen/MonitoRSS) [!button variant="primary" size="xs" icon="globe" text="Web"](https://monitorss.xyz/)
-
-==- Websites with RSS feeds
-- [Anime News Network](https://www.animenewsnetwork.com/newsfeed/)
-- [Anime tosho](https://animetosho.org/)
-- [Crunchyroll](https://www.crunchyroll.com/feed)
-- [Livechart](https://www.livechart.me/pages/rss)
-- [Manga Updates](https://www.mangaupdates.com/)
-- [nyaa](https://nyaa.si/)
-===
-
-> If you want RSS feed for Pixiv & other booru sites, [**click here**](https://rss-bridge.org/bridge01/).
-
-
-![](/static/banner/ext.png)
-
 ## Extensions
 ___
 
@@ -150,6 +122,16 @@ ___
 - [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper)
 - [mpvQC](https://github.com/mpvqc/mpvQC)
 - [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter)
+
++++ Discord bots
+- [AniSearch](https://github.com/IchBinLeoon/anisearch-discord-bot) [!button variant="primary" size="xs" icon="globe" text="Web"](https://ichbinleoon.github.io/anisearch-discord-bot/#/)
+- [Ryuuzaki Ryuusei](https://github.com/nattadasu/ryuuRyuusei)
+- [Yuuko](https://github.com/YuuCorp/Yuuko)
+- [MangaUpdates Bot](https://github.com/jckli/mangaupdates-bot)
+- [Manhwa Updates Bot](https://github.com/MooshiMochi/ManhwaUpdatesBot)
+- [Michelle](https://github.com/JacenBoy/michelle) [!button variant="primary" size="xs" icon="globe" text="Web"](https://michelle.jacenboy.com/)
+- Sneedex [!button variant="primary" size="xs" icon="/static/icon/discord.svg" text="Invite"](https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot)
+- [Picsiv](https://github.com/jckli/picsiv)
 
 +++ Others
 - [Hydrus network](https://hydrusnetwork.github.io/hydrus/)

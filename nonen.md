@@ -20,7 +20,6 @@ ___
 - [Kickassanime](https://kaas.am/)
 
 #### Arabic
-- [64K](https://64k.live/)
 - [Anime titans](https://animetitans.net/)
 - [Anime4up](https://w1.anime4up.tv/)
 - [Animelek](https://animelek.me/)
@@ -80,9 +79,12 @@ ___
 - [Dead Toons](https://www.deadtoons.co/)
 - [PureToons](https://puretoons.cc/)
 - [Animesaga](https://www.animesaga.in/)
+- [ToonsHub](https://www.toonshub.xyz/)
+- [ToonStream](https://toonstream.in/)
 - [Anime Academy](https://animeacademy.in/) [!badge variant="ghost" size="xs" text="DDL"]
 - [Toonworld4all](https://toonworld4all.me/) [!badge variant="ghost" size="xs" text="DDL"]
 - [Toonworld Tamil](https://toonworldtamil.com) [!badge variant="ghost" size="xs" text="DDL"]
+
 
 #### Indonesian
 - [Anichin](https://anichin.vip/)
@@ -258,6 +260,7 @@ ___
 - [Anime VSub](https://github.com/anime-vsub/app) [!badge variant="ghost" size="xs" icon="/static/icon/vietnam.png" text="VN"] [!badge variant="ghost" size="xs" text="Stream"]
 - [AnilabX](https://github.com/CrazyXacker/anilabx) [!badge variant="ghost" icon="/static/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" text="Freemium"]
 - [Bangumi MX](http://bgmx.mysxl.cn/) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"]  [!badge variant="ghost" size="xs" text="Tracker"]
+- [Copy MangaX](https://github.com/CrowForKotlin/CopyMangaX) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"]  [!badge variant="ghost" size="xs" text="Manga"]
 - [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Tracker"] 
 - [Mediabox](https://github.com/RyensX/MediaBox) [!badge variant="ghost" size="xs" icon="/static/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Stream"]
 

@@ -162,6 +162,17 @@ ___
 - [osu!search](https://osusearch.com/)
 - [o!rdr](https://ordr.issou.best/)
 
++++ RSS
+- [Anidex](https://anidex.info/)
+- [Anime News Network](https://www.animenewsnetwork.com/newsfeed/)
+- [Anime RSS](https://github.com/ArjixWasTaken/anime-rss)
+- [Anime tosho](https://animetosho.org/)
+- [Crunchyroll](https://www.crunchyroll.com/feed)
+- [Livechart](https://www.livechart.me/pages/rss)
+- [Manga Updates](https://www.mangaupdates.com/)
+- [nyaa](https://nyaa.si/)
+- [RSS Bridge](https://rss-bridge.org/bridge01/)
+
 +++ Trackers
 - [Anilist](https://anilist.co/)
 - [Anime-Planet](https://www.anime-planet.com/)
