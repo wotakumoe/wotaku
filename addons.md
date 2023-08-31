@@ -20,6 +20,7 @@ ___
 - Anime Boxes [!button variant="primary" size="xs" icon="globe" text="Web"](https://www.animebox.es/)
 - Pixiv [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=jp.pxv.android)
 
+![](/static/banner/ext.png)
 ## Extensions
 ___
 
@@ -132,6 +133,17 @@ ___
 - [Michelle](https://github.com/JacenBoy/michelle) [!button variant="primary" size="xs" icon="globe" text="Web"](https://michelle.jacenboy.com/)
 - Sneedex [!button variant="primary" size="xs" icon="/static/icon/discord.svg" text="Invite"](https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot)
 - [Picsiv](https://github.com/jckli/picsiv)
+
++++ OCR
+- [Ballons Translator](https://github.com/dmMaze/BallonsTranslator)
+- [Capture2text](https://capture2text.sourceforge.net/)
+- [Imagetrans](https://www.basiccat.org/imagetrans/)
+- [Kanji tomo](https://www.kanjitomo.net/)
+- [Manga OCR](https://github.com/kha-white/manga-ocr)
+- [Mokuro](https://github.com/kha-white/mokuro)
+- [Poricom](https://github.com/blueaxis/Poricom)
+- [Sugoi Translation Toolkit](https://www.patreon.com/mingshiba)
+- [Yomiwa](https://www.yomiwa.net/)
 
 +++ Others
 - [Hydrus network](https://hydrusnetwork.github.io/hydrus/)
