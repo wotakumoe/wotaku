@@ -80,7 +80,7 @@ ___
 #### Torrent
 - [libretorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) [!badge variant="ghost" size="xs" text="Android"]
 - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Android"]
-- [qBittorrent](https://www.qbittorrent.org/) [!badge variant="dark" text="Enhanced"](https://github.com/c0re100/qBittorrent-Enhanced-Edition) [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
+- [qBittorrent](https://www.qbittorrent.org/) [!badge variant="dark" text="Enhanced"](https://github.com/c0re100/qBittorrent-Enhanced-Edition) [!badge variant="dark" text="Dark theme"](https://github.com/maboroshin/qBittorrentDarktheme) [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
 - [Transmission](https://transmissionbt.com/) [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
 
 #### VPN

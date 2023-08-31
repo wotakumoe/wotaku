@@ -38,7 +38,7 @@ ___
 
 ### Stream
 
-- [**Aniwave**](https://aniwave.to/home) | [Anix](https://anix.to/home) | [Alt UI](https://9animehq.to/home) [!badge variant="dark" size="xs" text="formerly 9anime"]
+- [**Aniwave**](https://aniwave.to/home) [!badge variant="dark" text="Anix"](https://anix.to/home) [!badge variant="dark" text="Alt UI"](https://9animehq.to/home) [!badge variant="dark" size="xs" text="formerly 9anime"]
     - Huge library with Watch Together feature
     - Less amount of compression compared to other sites that use 3rd party hosts
 - [**Marin**](https://marin.moe/)
@@ -158,7 +158,7 @@ ___
     - Aggregates from various scanlation groups
     - Has official translations
     - Reader isn't as good as mangadex
-- [**Mangasee**](https://mangasee123.com/) | [Mangalife](https://manga4life.com/) | [Atsumaru](https://atsu.moe/) [!badge variant="ghost" size="xs" text="R"]
+- [**Mangasee**](https://mangasee123.com/) [!badge variant="dark" text="Mangalife"](https://manga4life.com/) [!badge variant="dark" text="Atsumaru"](https://atsu.moe/) [!badge variant="ghost" size="xs" text="R"]
     - Has official translations
     - Compresses chapter images
     - Chapter updates are relatively slow
@@ -174,7 +174,7 @@ ___
     - Basic reader UI
     - Watermark on almost every manga chapters
     - Manga uploads are upto x1600
-- [**Batoto**](https://battwo.com/v3x) | [Mangatoto](https://mangatoto.com/) [!badge variant="danger" size="xs" text="R+"]
+- [**Batoto**](https://battwo.com/v3x) | [!badge variant="dark" text="Mangatoto"](https://mangatoto.com/) [!badge variant="danger" size="xs" text="R+"]
     - Has both scanlated and official releases
     - Has some exclusive uploads
     - Decent filtering options with site theme options
@@ -292,9 +292,9 @@ You may now use your credentials to log into https://manga.madokami.al and enjoy
 
 > All the **Legal** manga reading sites are listed [here](https://otakulogy.github.io/manga-platform/) and [here](https://wherecanireadmanga.com/).
 
-![](/static/banner/ost.png)
+![](/static/banner/msuic.png)
 
-## Original Sound Track
+## Music
 ___
 
 ### Stream
@@ -303,7 +303,7 @@ ___
 - [Squidify](https://www.squidify.org/)
 - [LISTEN.moe](https://listen.moe/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/LISTEN-moe) [!badge variant="ghost" size="xs" text="Radio"]
 - [Spotify](https://spotify.com/) [!badge variant="ghost" size="xs" text="General"]
-- [Youtube Music](https://music.youtube.com/) [!badge variant="ghost" size="xs" text="General"]
+- [Youtube Music](https://music.youtube.com/) [!badge variant="dark" text="Beatbump"](https://beatbump.io/home) [!badge variant="dark" text="Hyperpipe"](https://hyperpipe.surge.sh/) [!badge variant="ghost" size="xs" text="General"]
 
 ### Direct Download
 - [Sitting on Clouds](https://www.sittingonclouds.net/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Mega"] [!badge variant="ghost" size="xs" text="Mediafire"]
@@ -329,7 +329,7 @@ ___
 - [Comrademao](https://comrademao.com/)
 - [Dao Novel](https://daonovel.com/)
 - [Free web novel](https://freewebnovel.com/)
-- [Light Novel Pub](https://www.lightnovelpub.com/) | [Light Novel World](https://www.lightnovelworld.com/)
+- [Light Novel Pub](https://www.lightnovelpub.com/) [!badge variant="dark" text="Light Novel World"](https://www.lightnovelworld.com/)
 - [Novel Buddy](https://novelbuddy.com/home)
 - [Novel Hall](https://www.novelhall.com/)
 - [Octopii](https://octopii.co/)

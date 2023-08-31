@@ -18,7 +18,9 @@ ___
 
 - [Boorusphere](https://github.com/nullxception/boorusphere)
 - Anime Boxes [!button variant="primary" size="xs" icon="globe" text="Web"](https://www.animebox.es/)
+- [Innertune](https://github.com/z-huang/InnerTune) [!badge variant="ghost" text="Youtube Music"]
 - Pixiv [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=jp.pxv.android)
+- [xManager](https://www.xmanagerapp.com/) [!badge variant="ghost" text="Spotify"]
 
 ![](/static/banner/ext.png)
 ## Extensions
@@ -152,6 +154,7 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 +++ Others
 - [Hydrus network](https://hydrusnetwork.github.io/hydrus/)
 - [osu! Cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner)
+- [Spicetify](https://spicetify.app/)
 - [Textractor](https://github.com/Artikash/Textractor)
 
 +++
