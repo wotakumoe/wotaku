@@ -145,6 +145,10 @@ ___
 - [Sugoi Translation Toolkit](https://www.patreon.com/mingshiba)
 - [Yomiwa](https://www.yomiwa.net/)
 
+!!!danger Don't use MTL
+Using Machine Translation to translate manga will be a mess. Manga has lots of slang, cultural references, and visual elements that MTL won't understand. So, it's better to have a human translator who knows the language and culture well. You don't want to end up with a wonky or inaccurate translation!
+!!!
+
 +++ Others
 - [Hydrus network](https://hydrusnetwork.github.io/hydrus/)
 - [osu! Cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner)
