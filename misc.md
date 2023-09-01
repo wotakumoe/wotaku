@@ -85,13 +85,14 @@ ___
 ![](/static/banner/illust.png)
 ## Illustrations
 - [Pixiv](https://www.pixiv.net) [!badge variant="danger" size="xs" text="R+"]
+- [Anime Pictures](https://anime-pictures.net/)
 - [Danbooru](https://danbooru.donmai.us/) [!badge variant="success" text="SFW Ver"](https://safebooru.donmai.us/) [!badge variant="danger" size="xs" text="R+"]
 - [Gelbooru](https://gelbooru.com/) [!badge variant="danger" size="xs" text="R+"]
 - [Kona chan](https://konachan.com/) [!badge variant="danger" size="xs" text="R+"]
 - [Safebooru](https://safebooru.org/) [!badge variant="success" size="xs" text="E"]
 - [Yandere](https://yande.re/post) [!badge variant="danger" size="xs" text="R+"]
 - [Zerochan](https://www.zerochan.net/) [!badge variant="ghost" size="xs" text="R"]
-
+- [/w/](http://catalog.neet.tv/w/)
 ___
 ![](/static/banner/others.png)
 ## Others
