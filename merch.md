@@ -11,9 +11,58 @@ icon: ":package:"
 Looking to buy memorabilia from your favourite series and support the creators? Here you will find information on figurines, plushes, books, CDs and more!
 ___
 
+==- :icon-light-bulb: Important information when considering to order items
+
+#### Delivery Types
+
+- `Surface Mail`               
+    - Ships items through freight ship
+    - Longest 
+    - Cheapest 
+    - Currently Offered Choice
+- `SAL` - Economic Airmail (combine the reasonable"ish" rate of surface, with somewhat the faster duration of airmail))                        
+    - Shipping items through air
+    - Slightly expensive than surface mail but cheaper than airmail, 
+    - Faster than surface mail, basically an option between surface mail and airmail, 
+    - **Temporarily suspended** (not offered as a choice)
+- `Airmail`                    
+     - Shipping items through air 
+     - More expensive than Surface mail and SAL, but cheaper than EMS
+     - Faster than surface mail SAL
+     - Currently Offered Choice
+- `EMS` - Express Mail Service 
+    - The most expensive and fastest of all the options here
+    - Currently Offered Choice
+
+![Illustration of speed of the options](https://www.post.japanpost.jp/int/img/service_index/comparative_table02_en.gif )
+
+___
+- [Beginners guide to international mail shipping](https://www.post.japanpost.jp/int/howto/index_en.html)
+- [Checking service avaliability in your country](https://www.post.japanpost.jp/int/information/overview_en.html)
+- [Further details on delivery types offered by Japan Post](https://www.post.japanpost.jp/int/service/index_en.html)
+
+___
+- Aside from Japan post you also have your usual private couriers, like DHL, FEDEX, UPS, etc. They are also  very expensive, you will have to go to their respective site to see their policies and prices they offer, or at checkout, storefronts usual show the full price of shipping in your country.
+- When it comes to customs, make sure to see your own country's customs information.
+- [Here](https://www.post.japanpost.jp/cgi-charge/index.php?lang=_en) you will find JP Post's rates and delivery days calculator if you want to get an idea on the estimate of what you are ordering
+
+!!!
+There are several ways to avoid paying for customs taxes. Additional information can be found [**here**](https://buyfags.moe/Shipping#How_do_I_avoid_paying_customs_taxes.3F). Be sure to visit the country specific information from the link provided.
+!!!
+
+#### Agent Types
+
+- `Forwarder` - Goods/Items you can buy from Japan, but the service or person won't ship overseas, in that case, you rely on a forwarder, they give you a temporary Japanese address, and with that address, you then ship the goods you buy to them, the forwarder will charge you storage fees + international shipping to send goods/item to you. You can simply think of this someone that literally ships the goods to you, because you need an address.
+- `Proxy` - Someone in your behalf that buys, accepts, and ships the goods to you, unlike a forwarder. Generally, recommended for beginners (especially if you are nervous about buying stuff online), however more expensive. They will charge you the purchase fees for the goods + domestic shipping + international shipping fees + any additional fees as per their policy. 
+
+#### Additional Guides
+- [Buyfags.moe - Types of buyfaggotry](https://buyfags.moe/Details_for_each_type_of_buyfaggotry) - An overall good coverage of all the types of merch out there
+
 !!!warning Don't be impulsive.
 Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed decisions. It's always a good idea to read the most recent reviews or ask for advice in a [related community](/merch.md/#communities) before making your final decision.
 !!!
+===
+
 
 ## Guides
 - [A Complete Guide by BuyFag](https://www.buyfags.moe/Full_guide)

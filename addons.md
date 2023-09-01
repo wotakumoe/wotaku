@@ -15,12 +15,41 @@ ___
 ![](/static/banner/apps.png)
 ## Apps
 ___
++++ Adblockers
+- [Adaway](https://adaway.org/) [!badge variant="ghost" size="xs" text="Android"]
+- [Adguard](https://adguard.com/en/welcome.html) [!badge variant="ghost" size="xs" text="Android"]
+- [Adguard DNS](https://adguard-dns.io/en/welcome.html) [!badge variant="ghost" size="xs" text="Android"] [!badge variant="ghost" size="xs" text="iOS"]
+- [AhaDNS](https://blitz-setup.ahadns.com/) [!badge variant="ghost" size="xs" text="iOS"] [!badge variant="ghost" size="xs" text="Profile"]
+- [NextDNS](https://nextdns.io/) [!badge variant="ghost" size="xs" text="Android"] [!badge variant="ghost" size="xs" text="iOS"]
+- [RethinkDNS](https://rethinkdns.com/) [!badge variant="ghost" size="xs" text="Android"]
 
-- [Boorusphere](https://github.com/nullxception/boorusphere)
++++ Downloaders
+- [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Android"]
+- [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Android"]
+- [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) [!badge variant="ghost" size="xs" text="Android"]
+- [ADM](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Android"]
+
++++ Illustrations
 - Anime Boxes [!button variant="primary" size="xs" icon="globe" text="Web"](https://www.animebox.es/)
-- [Innertune](https://github.com/z-huang/InnerTune) [!badge variant="ghost" text="Youtube Music"]
+- [Boorusphere](https://github.com/nullxception/boorusphere)
 - Pixiv [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=jp.pxv.android)
+
++++ Media
+- [Innertune](https://github.com/z-huang/InnerTune) [!badge variant="ghost" text="Youtube Music"]
+- [mpv-android](https://github.com/mpv-android/mpv-android) [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=is.xyz.mpv&hl=en&gl=US)
 - [xManager](https://www.xmanagerapp.com/) [!badge variant="ghost" text="Spotify"]
+
++++ Trackers
+- [AniHyou](https://github.com/axiel7/AniHyou-android) [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.axiel7.anihyou) [!badge variant="ghost" size="xs" text="Anilist"]
+- [Apps for Anilist](https://anilist.co/apps) [!badge variant="ghost" size="xs" text="Anilist"]
+- DailyAL [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.teen.dailyanimelist&hl=en&gl=US) [!badge variant="ghost" size="xs" text="MyAnimeList"]
+- [Kitsu](https://github.com/hummingbird-me/kitsu-mobile) [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.everfox.animetrackerandroid&hl=en&gl=US) [!badge variant="dark" icon="/static/icon/apple.png" text="iOS"](https://apps.apple.com/us/app/kitsu-anime/id590452826) [!badge variant="ghost" size="xs" text="Kitsu"]
+- [Kitsune](https://github.com/Drumber/Kitsune) [!badge variant="ghost" size="xs" text="Kitsu"]
+- [MoeList](https://github.com/axiel7/MoeList) [!button variant="primary" size="xs" icon="globe" text="Web"](https://moelist.net/) [!badge variant="ghost" size="xs" text="MyAnimeList"]
+
++++
+
+
 
 ![](/static/banner/ext.png)
 ## Extensions
@@ -31,10 +60,13 @@ ___
 - [Animepahe Plus](https://github.com/Cyan903/Animepahe-plus) [!badge variant="dark" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-CA/firefox/addon/animepahe-plus/)
 - [Anime Skip Player](https://github.com/anime-skip/player) [!button variant="primary" size="xs" icon="globe" text="Web"](https://anime-skip.com/) [!badge variant="dark" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/anime-skip/mgmdkjcljneegjfajchedjpdhbadklcf) [!badge variant="dark" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-skip)
 - [Aniskip](https://github.com/lexesjan/typescript-aniskip-extension) [!badge variant="dark" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/aniskip/npfcdmjgaocepmpdnmliimijgfjbgcdd) [!badge variant="dark" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/aniskip/)
+- [MALSync](https://github.com/MALSync/MALSync) [!button variant="primary" size="xs" icon="globe" text="Web"](https://malsync.moe/) [!badge variant="dark" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel) [!badge variant="dark" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/mal-sync/)
 - Substital [!button variant="primary" size="xs" icon="globe" text="Web"](https://substital.com/) [!badge variant="dark" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg) [!badge variant="dark" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/substital/)
 
 
 +++ Manga
+- [All Manga Reader](https://gitlab.com/all-mangas-reader/all-mangas-reader-2) [!button variant="primary" size="xs" icon="globe" text="Web"](https://www.allmangasreader.com/)
+- [MALSync](https://github.com/MALSync/MALSync) [!button variant="primary" size="xs" icon="globe" text="Web"](https://malsync.moe/) [!badge variant="dark" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel) [!badge variant="dark" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/mal-sync/)
 - [Similar Manga](https://github.com/similar-manga/similar) [!badge variant="dark" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg)
 
 
@@ -120,6 +152,14 @@ ___
 - [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager)
 - [Tachisync](https://github.com/axiel7/Tachisync)
 
++++ Trackers
+- [Hachidori](https://github.com/Atelier-Shiori/hachidori) [!button variant="primary" size="xs" icon="globe" text="Web"](https://malupdaterosx.moe/hachidori/)  [!badge variant="ghost" size="xs" text="MacOS"]
+- [MALClient](https://github.com/Drutol/MALClient) [!badge variant="dark" icon="globe" text="Store"](https://apps.microsoft.com/store/detail/malclient/9NBLGGH5F3BL) [!badge variant="ghost" size="xs" text="Windows"]
+- [Taiga](https://github.com/erengy/taiga) [!button variant="primary" size="xs" icon="globe" text="Web"](https://taiga.moe/) [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Downloader"]
+- [Trackma](https://github.com/z411/trackma) [!button variant="primary" size="xs" icon="globe" text="Web"](https://z411.github.io/trackma/) [!badge variant="ghost" size="xs" text="Linux"]
+- [Tundra](https://github.com/m4tx/tundra) [!button variant="primary" size="xs" icon="globe" text="Web"](https://tundra.moe/) [!badge variant="ghost" size="xs" text="Linux"]
+- [Kenmei](https://www.kenmei.co/) [!badge variant="ghost" size="xs" text="Web"]
+
 +++ Fansubbing
 - [Aegisub](https://aegisub.org/) [!badge variant="dark" icon="repo-forked" text="Fork"](https://github.com/arch1t3cht/Aegisub)
 - [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper)
@@ -157,41 +197,4 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 - [Spicetify](https://spicetify.app/)
 - [Textractor](https://github.com/Artikash/Textractor)
 
-+++
-![](/static/banner/trackers.png)
-
-## Trackers
-___
-
-+++ Android and iOS
-
-#### Anilist
-- [Apps for Anilist](https://anilist.co/apps)
-- [AniHyou](https://github.com/axiel7/AniHyou-android) [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.axiel7.anihyou)
-
-#### Kitsu
-- [Kitsu](https://github.com/hummingbird-me/kitsu-mobile) [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.everfox.animetrackerandroid&hl=en&gl=US) [!badge variant="dark" icon="/static/icon/apple.png" text="iOS"](https://apps.apple.com/us/app/kitsu-anime/id590452826)
-- [Kitsune](https://github.com/Drumber/Kitsune)
-
-#### MyAnimeList
-- DailyAL [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.teen.dailyanimelist&hl=en&gl=US)
-- [MoeList](https://github.com/axiel7/MoeList) [!button variant="primary" size="xs" icon="globe" text="Web"](https://moelist.net/)
-
-
-+++ Windows
-- [Taiga](https://github.com/erengy/taiga) [!button variant="primary" size="xs" icon="globe" text="Web"](https://taiga.moe/) [!badge variant="ghost" size="xs" text="Downloader"]
-- [Trackma](https://github.com/z411/trackma) [!button variant="primary" size="xs" icon="globe" text="Web"](https://z411.github.io/trackma/)
-- [MALClient](https://github.com/Drutol/MALClient) [!badge variant="dark" icon="globe" text="Store"](https://apps.microsoft.com/store/detail/malclient/9NBLGGH5F3BL)
-
-+++ MacOS
-- [Hachidori](https://github.com/Atelier-Shiori/hachidori) [!button variant="primary" size="xs" icon="globe" text="Web"](https://malupdaterosx.moe/hachidori/)
-
-+++ Linux
-- [Trackma](https://github.com/z411/trackma) [!button variant="primary" size="xs" icon="globe" text="Web"](https://z411.github.io/trackma/)
-- [Tundra](https://github.com/m4tx/tundra) [!button variant="primary" size="xs" icon="globe" text="Web"](https://tundra.moe/)
-
-+++ Browser
-- [MALSync](https://github.com/MALSync/MALSync) [!button variant="primary" size="xs" icon="globe" text="Web"](https://malsync.moe/) [!badge variant="dark" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel) [!badge variant="dark" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/mal-sync/)
-- [Kenmei](https://www.kenmei.co/)
-- [All Manga Reader](https://gitlab.com/all-mangas-reader/all-mangas-reader-2) [!button variant="primary" size="xs" icon="globe" text="Web"](https://www.allmangasreader.com/)
 +++
