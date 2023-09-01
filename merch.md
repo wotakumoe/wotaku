@@ -34,8 +34,8 @@ ___
 
 ___
 - Aside from Japan post you also have your usual private couriers, like DHL, FEDEX, UPS, etc. They are also  very expensive, you will have to go to their respective site to see their policies and prices they offer, or at checkout, storefronts usual show the full price of shipping in your country.
-- When it comes to customs, make sure to see your own country's customs information.
 - [Here](https://www.post.japanpost.jp/cgi-charge/index.php?lang=_en) you will find JP Post's rates and delivery days calculator if you want to get an idea on the estimate of what you are ordering
+- When it comes to customs, be sure your country's goverment customs website for information on duties and taxes
 
 !!!
 There are several ways to avoid paying for customs taxes. Additional information can be found [**here**](https://buyfags.moe/Shipping#How_do_I_avoid_paying_customs_taxes.3F). Be sure to visit the country specific information from the link provided.
@@ -49,8 +49,10 @@ There are several ways to avoid paying for customs taxes. Additional information
     - Someone in your behalf that buys, accepts, and ships the goods to you, unlike a forwarder. Generally, recommended for beginners (especially if you are nervous about buying stuff online), however more expensive. They will charge you the purchase fees for the goods + domestic shipping + international shipping fees + any additional fees as per their policy. 
 
 #### Additional Guides
-- [Types of merch](https://buyfags.moe/Details_for_each_type_of_buyfaggotry)
+- [Types of Merch](https://buyfags.moe/Details_for_each_type_of_buyfaggotry)
     - An overall good coverage of all the types of merch out there
+- [Bootleg Guide](https://solarisjapan.com/blogs/news/ultimate-guide-bootlegs-fake-anime-figures)
+    - Bootleg (Fake product) spotting guide
 
 !!!warning Don't be impulsive.
 Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed decisions. It's always a good idea to read the most recent reviews or ask for advice in a [related community](/merch.md/#communities) before making your final decision.
