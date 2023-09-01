@@ -19,7 +19,7 @@ ___
 - [Adaway](https://adaway.org/) [!badge variant="ghost" size="xs" text="Android"]
 - [Adguard](https://adguard.com/en/welcome.html) [!badge variant="ghost" size="xs" text="Android"]
 - [Adguard DNS](https://adguard-dns.io/en/welcome.html) [!badge variant="ghost" size="xs" text="Android"] [!badge variant="ghost" size="xs" text="iOS"]
-- [AhaDNS](https://blitz-setup.ahadns.com/) [!badge variant="ghost" size="xs" text="iOS"] [!badge variant="ghost" size="xs" text="Profile"]
+- [AhaDNS](https://blitz-setup.ahadns.com/) [!badge variant="ghost" size="xs" text="Android"] [!badge variant="ghost" size="xs" text="iOS"] [!badge variant="ghost" size="xs" text="Profile"]
 - [NextDNS](https://nextdns.io/) [!badge variant="ghost" size="xs" text="Android"] [!badge variant="ghost" size="xs" text="iOS"]
 - [RethinkDNS](https://rethinkdns.com/) [!badge variant="ghost" size="xs" text="Android"]
 
@@ -29,14 +29,11 @@ ___
 - [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) [!badge variant="ghost" size="xs" text="Android"]
 - [ADM](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Android"]
 
-+++ Illustrations
-- Anime Boxes [!button variant="primary" size="xs" icon="globe" text="Web"](https://www.animebox.es/)
-- [Boorusphere](https://github.com/nullxception/boorusphere)
-- Pixiv [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=jp.pxv.android)
-
 +++ Media
+- [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player)
 - [Innertune](https://github.com/z-huang/InnerTune) [!badge variant="ghost" text="Youtube Music"]
 - [mpv-android](https://github.com/mpv-android/mpv-android) [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=is.xyz.mpv&hl=en&gl=US)
+- [Poweramp](https://powerampapp.com/) [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer&hl=en&gl=US)
 - [xManager](https://www.xmanagerapp.com/) [!badge variant="ghost" text="Spotify"]
 
 +++ Trackers
@@ -47,8 +44,17 @@ ___
 - [Kitsune](https://github.com/Drumber/Kitsune) [!badge variant="ghost" size="xs" text="Kitsu"]
 - [MoeList](https://github.com/axiel7/MoeList) [!button variant="primary" size="xs" icon="globe" text="Web"](https://moelist.net/) [!badge variant="ghost" size="xs" text="MyAnimeList"]
 
++++ Others
+- Browsers
+    - [Iceraven](https://github.com/fork-maintainers/iceraven-browser)
+    - [Mull](https://github.com/Divested-Mobile/Mull-Fenix)
+    - [Brave](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en&gl=US)
+    - [Cromite](https://github.com/uazo/cromite)
+- Illustrations
+    - Anime Boxes [!button variant="primary" size="xs" icon="globe" text="Web"](https://www.animebox.es/)
+    - [Boorusphere](https://github.com/nullxception/boorusphere)
+    - Pixiv [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=jp.pxv.android)
 +++
-
 
 
 ![](/static/banner/ext.png)

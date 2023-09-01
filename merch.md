@@ -17,14 +17,14 @@ ___
 
 - **Surface Mail**
     - Ships items through freight ship
-    - Longest 
-    - Cheapest 
+    - Longest
+    - Cheapest
     - Currently Offered Choice
 - **SAL**
-    - Economic Airmail (combine the reasonable"ish" rate of surface, with somewhat the faster duration of airmail))                        
+    - Economic Airmail (combine the reasonable"ish" rate of surface, with somewhat the faster duration of airmail)                  
     - Shipping items through air
-    - Slightly expensive than surface mail but cheaper than airmail, 
-    - Faster than surface mail, basically an option between surface mail and airmail, 
+    - Slightly expensive than surface mail but cheaper than airmail
+    - Faster than surface mail, basically an option between surface mail and airmail
     - **Temporarily suspended** (not offered as a choice)
 - **Airmail**
      - Shipping items through air 
@@ -36,7 +36,7 @@ ___
     - The most expensive and fastest of all the options here
     - Currently Offered Choice
 
-![Illustration of speed of the options](https://www.post.japanpost.jp/int/img/service_index/comparative_table02_en.gif )
+![Illustration of speed of the options](/static/ss/shipping.gif)
 
 ___
 - [Beginners guide to international mail shipping](https://www.post.japanpost.jp/int/howto/index_en.html)
