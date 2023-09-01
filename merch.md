@@ -15,12 +15,15 @@ ___
 
 #### Delivery Types
 
-| Delivery Types             | Value        | Shipping Speed | Offered as Option { class="compact" } |
-|--------------------------|------------|--------------|-----------------|
-| Surface Mail               | Lowest-Cost  | Slowest        | Offered           |
-| SAL (Economic Airmail)     | Low-Cost     | Slow           | Not Offered       |
-| Airmail                    | High-Cost    | Fast           | Offered           |
-| EMS (Express Mail Service) | Highest-Cost | Fastest        | Offered           |
+| Delivery Types             | Value        | Shipping Speed | Offered as Option | Mode of Tranportation { class="compact" } |
+|---|---|---|---|---| 
+| Surface Mail               | Lowest-Cost  | Slowest        | Offered           | :ship:                |
+| SAL (Economic Airmail)     | Low-Cost     | Slow^2^        | Not Offered^1^    | :airplane:            |    
+| Airmail                    | High-Cost    | Fast           | Offered           | :airplane:            |
+| EMS (Express Mail Service) | Highest-Cost | Fastest        | Offered           | :airplane:            |
+
+1. The option for SAL shipments are temporarily unavailable due to covid protocols. You can find JP Post's service availability by country [here](https://www.post.japanpost.jp/int/information/overview_en.html)  
+2. Combine the reasonable"ish" rate of surface, with somewhat the faster duration of airmail, but still less priority than airmail
 
 ![Illustration of speed of the options](/static/ss/shipping.gif)
 

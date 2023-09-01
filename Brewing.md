@@ -43,6 +43,7 @@ ___
 
 #### Anime
 - [Akari-DL](https://github.com/keisanng/akari-dl/)
+- [Anikki](https://github.com/Kylart/Anikki)
 - [Keroro](https://github.com/hotsno/keroro)
 - [NineAnimator-Tauri](https://github.com/Layendan/NineAnimator-Tauri)
 - [Totoro](https://github.com/insomniachi/Totoro)

@@ -40,9 +40,10 @@ ___
 - [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player)
 - [Innertune](https://github.com/z-huang/InnerTune) [!badge variant="ghost" text="Youtube Music"]
 - [mpv-android](https://github.com/mpv-android/mpv-android) [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=is.xyz.mpv&hl=en&gl=US)
+- [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en&gl=US) [!button variant="dark" size="xs" text="Mobilism"](https://forum.mobilism.me/search.php?keywords=mx+player&sr=topics&sf=titleonly)
 - [Poweramp](https://powerampapp.com/) [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer&hl=en&gl=US)
 - [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) [!badge variant="ghost" size="xs" text="iOS"] [!badge variant="ghost" text="Spotify"]
-- [Spotify++](https://appdb.to/app/cydia/1900000540)
+- [Spotify++](https://appdb.to/app/cydia/1900000540) [!badge variant="ghost" size="xs" text="iOS"]
 - [xManager](https://www.xmanagerapp.com/) [!badge variant="ghost" text="Spotify"]
 
 +++ Trackers

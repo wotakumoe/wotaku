@@ -29,7 +29,8 @@ ___
 - [XSAnime](https://v.xsanime.com/)
 
 #### Balkan
-- [Anime Balkan](https://animebalkan.gg/)
+- [Anime Balkan](https://animebalkan.org/) | [.gg](https://animebalkan.gg/)
+- [Anime Srbija](https://www.animesrbija.com/)
 
 #### Bangla
 - [Bangla Dub Zone](http://bangladubzone.xyz/)
@@ -145,9 +146,6 @@ ___
 - [Anime Slayer](http://animelayer.ru/) [!badge variant="ghost" size="xs" text="Torrent"]
 - [Dark Libria](https://darklibria.it/) [!badge variant="ghost" size="xs" text="Stream"] [!badge variant="ghost" size="xs" text="DDL"] 
 
-#### Slovak
-- [Anime Balkan](https://animebalkan.org/)
-- [Anime Srbija](https://www.animesrbija.com/)
 
 #### Spanish
 - [Animeblix](https://animeblix.com/)
