@@ -268,30 +268,3 @@ Character(s) that can never stop having alcohol, they usually will always have a
 
 ![Vanessa Enoteca](/static/glossary/General/Yottadere.png)
 ===
-___
-## NSFW
-
-#### Ahegao
-'O-Face' expression.
-![](/static/glossary/General/ahegao.jpg)
-
-#### Eromanga
-Also known as Hentai (Although Hentai means pervert, depending on the context it may have other meanings). Sexually-explicit manga, targeted toward men.
-
-#### Netorare
-Cuckoldry; where MC's love interest (or important person) is 'stolen' by another person. Often just written as 'NTR' online.
-
-| Types     | Meaning { class="compact" } |
-| ------  | ------ |
-|  Type A  |  Love Interest is willing and consensual from the beginning.   |
-|  Type B  |  Love Interest is forced in the beginning, but starts to enjoy it by the end.   |
-|  Type C  |  Love Interest is forced from start to finish.   |
-
-#### Netorase
-Cuckoldry; where MC enjoys / is willing to have the love interest get stolen by another person
-
-#### Netori
-Cuckoldry; where MC steals another characters love interest.
-
-#### Redikomi
-Eromanga equivalent; targeted at adult women.
