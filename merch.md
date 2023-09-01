@@ -11,7 +11,7 @@ icon: ":package:"
 Looking to buy memorabilia from your favourite series and support the creators? Here you will find information on figurines, plushes, books, CDs and more!
 ___
 
-==- :icon-light-bulb: Important information when considering to order items
+==- :warning: Important Information
 
 #### Delivery Types
 
@@ -49,7 +49,8 @@ There are several ways to avoid paying for customs taxes. Additional information
     - Someone in your behalf that buys, accepts, and ships the goods to you, unlike a forwarder. Generally, recommended for beginners (especially if you are nervous about buying stuff online), however more expensive. They will charge you the purchase fees for the goods + domestic shipping + international shipping fees + any additional fees as per their policy. 
 
 #### Additional Guides
-- [Buyfags.moe - Types of buyfaggotry](https://buyfags.moe/Details_for_each_type_of_buyfaggotry) - An overall good coverage of all the types of merch out there
+- [Types of merch](https://buyfags.moe/Details_for_each_type_of_buyfaggotry)
+    - An overall good coverage of all the types of merch out there
 
 !!!warning Don't be impulsive.
 Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed decisions. It's always a good idea to read the most recent reviews or ask for advice in a [related community](/merch.md/#communities) before making your final decision.
@@ -93,7 +94,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [Hobby Link](https://www.hlj.com/)
 - [Hobby Search](https://www.1999.co.jp/eng/)
 - [Mandarake](https://order.mandarake.co.jp/order/)
-- [Right Stuf Anime](https://www.rightstufanime.com/)
+- [Right Stuff Anime](https://www.rightstufanime.com/)
 
 ## Agents
 - [Black Sheep](https://blackship.com/)
