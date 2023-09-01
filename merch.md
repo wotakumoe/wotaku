@@ -15,22 +15,24 @@ ___
 
 #### Delivery Types
 
-- `Surface Mail`               
+- **Surface Mail**
     - Ships items through freight ship
     - Longest 
     - Cheapest 
     - Currently Offered Choice
-- `SAL` - Economic Airmail (combine the reasonable"ish" rate of surface, with somewhat the faster duration of airmail))                        
+- **SAL**
+    - Economic Airmail (combine the reasonable"ish" rate of surface, with somewhat the faster duration of airmail))                        
     - Shipping items through air
     - Slightly expensive than surface mail but cheaper than airmail, 
     - Faster than surface mail, basically an option between surface mail and airmail, 
     - **Temporarily suspended** (not offered as a choice)
-- `Airmail`                    
+- **Airmail**
      - Shipping items through air 
      - More expensive than Surface mail and SAL, but cheaper than EMS
      - Faster than surface mail SAL
      - Currently Offered Choice
-- `EMS` - Express Mail Service 
+- **EMS**
+    - Express Mail Service 
     - The most expensive and fastest of all the options here
     - Currently Offered Choice
 
@@ -52,8 +54,10 @@ There are several ways to avoid paying for customs taxes. Additional information
 
 #### Agent Types
 
-- `Forwarder` - Goods/Items you can buy from Japan, but the service or person won't ship overseas, in that case, you rely on a forwarder, they give you a temporary Japanese address, and with that address, you then ship the goods you buy to them, the forwarder will charge you storage fees + international shipping to send goods/item to you. You can simply think of this someone that literally ships the goods to you, because you need an address.
-- `Proxy` - Someone in your behalf that buys, accepts, and ships the goods to you, unlike a forwarder. Generally, recommended for beginners (especially if you are nervous about buying stuff online), however more expensive. They will charge you the purchase fees for the goods + domestic shipping + international shipping fees + any additional fees as per their policy. 
+- **Forwarder**
+    - Goods/Items you can buy from Japan, but the service or person won't ship overseas, in that case, you rely on a forwarder, they give you a temporary Japanese address, and with that address, you then ship the goods you buy to them, the forwarder will charge you storage fees + international shipping to send goods/item to you. You can simply think of this someone that literally ships the goods to you, because you need an address.
+- **Proxy**
+    - Someone in your behalf that buys, accepts, and ships the goods to you, unlike a forwarder. Generally, recommended for beginners (especially if you are nervous about buying stuff online), however more expensive. They will charge you the purchase fees for the goods + domestic shipping + international shipping fees + any additional fees as per their policy. 
 
 #### Additional Guides
 - [Buyfags.moe - Types of buyfaggotry](https://buyfags.moe/Details_for_each_type_of_buyfaggotry) - An overall good coverage of all the types of merch out there
