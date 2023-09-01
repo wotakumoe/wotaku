@@ -15,26 +15,12 @@ ___
 
 #### Delivery Types
 
-- **Surface Mail**
-    - Ships items through freight ship
-    - Longest
-    - Cheapest
-    - Currently Offered Choice
-- **SAL**
-    - Economic Airmail (combine the reasonable"ish" rate of surface, with somewhat the faster duration of airmail)                  
-    - Shipping items through air
-    - Slightly expensive than surface mail but cheaper than airmail
-    - Faster than surface mail, basically an option between surface mail and airmail
-    - **Temporarily suspended** (not offered as a choice)
-- **Airmail**
-     - Shipping items through air 
-     - More expensive than Surface mail and SAL, but cheaper than EMS
-     - Faster than surface mail SAL
-     - Currently Offered Choice
-- **EMS**
-    - Express Mail Service 
-    - The most expensive and fastest of all the options here
-    - Currently Offered Choice
+| Delivery Types             | Value        | Shipping Speed | Offered as Option { class="compact" } |
+|:--------------------------:|:------------:|:--------------:|:-----------------:|
+| Surface Mail               | Lowest-Cost  | Slowest        | Offered           |
+| SAL (Economic Airmail)     | Low-Cost     | Slow           | Not Offered       |
+| Airmail                    | High-Cost    | Fast           | Offered           |
+| EMS (Express Mail Service) | Highest-Cost | Fastest        | Offered           |
 
 ![Illustration of speed of the options](/static/ss/shipping.gif)
 

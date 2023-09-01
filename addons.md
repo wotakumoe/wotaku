@@ -19,7 +19,7 @@ ___
 - [Adaway](https://adaway.org/) [!badge variant="ghost" size="xs" text="Android"]
 - [Adguard](https://adguard.com/en/welcome.html) [!badge variant="ghost" size="xs" text="Android"]
 - [Adguard DNS](https://adguard-dns.io/en/welcome.html) [!badge variant="ghost" size="xs" text="Android"] [!badge variant="ghost" size="xs" text="iOS"]
-- [AhaDNS](https://blitz-setup.ahadns.com/) [!badge variant="ghost" size="xs" text="Android"] [!badge variant="ghost" size="xs" text="iOS"] [!badge variant="ghost" size="xs" text="Profile"]
+- [AhaDNS](https://blitz-setup.ahadns.com/) [!badge variant="ghost" size="xs" text="Android"] [!badge variant="ghost" size="xs" text="iOS"]
 - [NextDNS](https://nextdns.io/) [!badge variant="ghost" size="xs" text="Android"] [!badge variant="ghost" size="xs" text="iOS"]
 - [RethinkDNS](https://rethinkdns.com/) [!badge variant="ghost" size="xs" text="Android"]
 
