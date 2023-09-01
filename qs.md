@@ -63,18 +63,14 @@ ___
 
 #### Adblocker
 - [Adaway](https://adaway.org/) [!badge variant="ghost" size="xs" text="Android"]
-- [Adguard](https://adguard.com/en/welcome.html) [!badge variant="ghost" size="xs" text="Android"]
 - [RethinkDNS](https://rethinkdns.com/) [!badge variant="ghost" size="xs" text="Android"]
 - [AhaDNS](https://blitz-setup.ahadns.com/) [!badge variant="ghost" size="xs" text="iOS"] [!badge variant="ghost" size="xs" text="Profile"]
 - [uBlock Origin](https://ublockorigin.com/) [!badge variant="ghost" size="xs" text="Browser"]
 
 #### Downloader
 - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Android"]
-- [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Android"]
-- [ADM](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Android"]
 - [IDM](https://www.internetdownloadmanager.com/) [!badge variant="dark" text="Activator"](https://massgrave.dev/idm-activation-script.html) [!badge variant="ghost" size="xs" text="Windows"]
 - [JDL](https://jdownloader.org/) [!badge variant="dark" text="Debloat"](https://rentry.org/jdownloader2) [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
-- [Motrix](https://motrix.app/) [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
 - [Nicotine+](https://nicotine-plus.org/) [!badge variant="ghost" size="xs" text="p2p"] [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
 
 #### Torrent
