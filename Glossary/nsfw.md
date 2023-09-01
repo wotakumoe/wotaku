@@ -46,3 +46,5 @@ Want to learn what those elusive tags on hentai sites mean? Then this page is fo
 | Yaoi (BL) | Meaning “Boy’s Love”, a term for male on male gay hentai |
 | Yuri (GL) | Meaning “Girls’ Love”, a term for girl on girl lesbian hentai |
 | Zettai Ryouiki | A term for the area of bare skin between ones over-knee socks or stockings and ones miniskirt, skirt, dress or shorts |
+
+> [Zone-tan's Ecchication](https://www.youtube.com/playlist?list=PLyD77dL4TECbsBqjxtaK9Q0wuncOuku3b) series for further research.
