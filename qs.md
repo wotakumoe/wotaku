@@ -22,7 +22,7 @@ ___
 - [Mangadex](https://mangadex.org/)
 - [Mangasee](https://mangasee123.com/) | [Atsumaru](https://atsu.moe/)
 
-+++ OST
++++ Music
 - [Sitting on Clouds](https://www.sittingonclouds.net/) [!badge variant="ghost" size="xs" text="DDL"]
 - [SquidBoard](https://www.squid-board.org/) [!badge variant="ghost" size="xs" text="DDL"] [!badge variant="ghost" size="xs" text="Needs account"]
 - [Anithemes.moe](https://animethemes.moe/) [!badge variant="ghost" size="xs" text="stream"]
@@ -53,10 +53,8 @@ ___
 - [Houdoku](https://github.com/xgi/houdoku) [!badge variant="ghost" size="xs" text="Manga"]
 - [CDisplayEx](https://www.cdisplayex.com/) [!badge variant="ghost" size="xs" text="Manga"]
 - [Miru](https://github.com/ThaUnknown/miru/) [!badge variant="ghost" size="xs" text="Anime"]
-
-+++ Downloader
-- [Hakuneko](https://github.com/manga-download/hakuneko) [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="Manga"]
-- [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) [!badge variant="ghost" size="xs" text="Manga"]
+- [Hakuneko](https://github.com/manga-download/hakuneko) [!badge variant="ghost" size="xs" text="Downloader"] [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="Manga"]
+- [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) [!badge variant="ghost" size="xs" text="Downloader"] [!badge variant="ghost" size="xs" text="Manga"]
 
 +++
 
