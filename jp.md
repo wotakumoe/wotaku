@@ -122,7 +122,12 @@ Interested in learning the japanese language? Here you can find resources to aid
     - [Aniwatch](https://aniwatch.to/home) [!badge variant="ghost" size="xs" text="Raw"]
     - [itazuraneko](https://djtguide.github.io/library/sub)
     - [Kitsunekko](https://kitsunekko.net/) [!badge variant="ghost" size="xs" text="Subs"]
-    - [JP Subtitles](https://github.com/Matchoo95/JP-Subtitles)
+    - [JP Subtitles](https://github.com/Matchoo95/JP-Subtitles) [!badge variant="ghost" size="xs" text="Subs"]
+    - [Classics](https://animation.filmarchives.jp/index.html)
+- Movies & Drama
+    - [Dramacool](https://dramacool.pa/)
+    - [KissAsian](https://kissasian.mx/)
+    - [Tokuzilla](https://tokuzilla.net/)
 - Podcast
     - [Japanese with Noriko](https://www.japanesewithnoriko.com/)
     - [Learn Japanese Podcast](https://learnjapanesepod.com/)
