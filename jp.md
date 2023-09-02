@@ -54,6 +54,7 @@ Interested in learning the japanese language? Here you can find resources to aid
     - [CaptionPop](https://www.captionpop.com/japanese?nl=en)
 - Reading
     - [Aozora Bunko](https://www.aozora.gr.jp/)
+    - [Japan Reference](https://jref.com/)
     - [Manga](/Scanlation.md/#raw)
     - [NHK News Web Easy](https://www3.nhk.or.jp/news/easy/)
     - [Watanoc](https://watanoc.com/)

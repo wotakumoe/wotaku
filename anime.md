@@ -7,11 +7,38 @@ visibility: Hidden
 Everrything Anime Related!
 
 ![](/static/banner/sites.png)
-## Websites
+# Websites
+
+Online resources for anime, manga, light novels and more. All links have been carefully selected and vetted by our contributors.
+___
+
+==- :icon-alert: Rating System
+[!badge variant="danger" text="R+"] Uploads NSFW content on a regular basis.
+
+[!badge variant="ghost" text="R"] Uploads NSFW content, but not always/all of them.
+
+[!badge variant="ghost" text="R-"] Rarely uploads NSFW content.
+
+[!badge variant="success" text="E"] Only SFW content.
+
+[!badge variant="ghost" text="NR"] Haven't been rated yet.
+
+**Note**: None of the websites mentioned are exclusively dedicated to NSFW content. [**Click here**](/nsfw.md) for the dedicated sites.
+===
+
+> Use [!badge variant="dark" icon="/static/icon/ada.png" text="AdAway"](https://adaway.org/) or [!badge variant="dark" icon="/static/icon/adg.png" text="Adguard"](https://adguard.com/en/welcome.html) on Android and [!badge variant="dark" icon="/static/icon/ubo.png" text="uBlock Origin"](https://ublockorigin.com/) in browsers to get rid of all the ads and trackers. For iOS, use [!badge variant="dark" icon="/static/icon/ahadns.png" text="AhaDNS"](https://blitz-setup.ahadns.com/) as profile.
+
+
+![](/static/banner/anime.png)
+
+## Anime
+
+If you want to get the best quality, use [Direct Download](/Websites.md/#direct-download-1), [IRC](/Websites.md/#irc), or [Torrent](/Websites.md/#torrents). You can obtain full web release quality on a streaming site that scrapes the official site API, such as [KickAssAnime](https://kickassanime.am/) for Crunchyroll and Bilibili content. Otherwise, it is hard to maintain the full quality while managing space & traffic. You can [**network stream**](/Guides/ns.md) files from direct download, irc and torrents.
+___
 
 ### Stream
 
-- [**Aniwave**](https://aniwave.to/home) [!badge variant="dark" size="xs" text="aka 9anime"]
+- [**Aniwave**](https://aniwave.to/home) [!badge variant="dark" text="Anix"](https://anix.to/home) [!badge variant="dark" text="Alt UI"](https://9animehq.to/home) [!badge variant="dark" size="xs" text="formerly 9anime"]
     - Huge library with Watch Together feature
     - Less amount of compression compared to other sites that use 3rd party hosts
 - [**Marin**](https://marin.moe/)
@@ -19,34 +46,33 @@ Everrything Anime Related!
     - Uploads encoded **Blu-ray** versions if available
     - Clutter-free design and no watermark
     - Marin has a good amount of missing titles, especially movies
-- [**KickAssAnime**](https://kickassanime.am/) [!badge variant="ghost" text="Proxies"](https://kickassanimes.info/)
+- [**KickAssAnime**](https://kickassanime.am/) [!button variant="primary" size="xs" text="Proxies"](https://kickassanimes.info/)
     - Scrapes **Crunchyroll**(duckstream) and **Bilibili**(birdstream)
-    - KAA encode(videstreaming) is ok-ish with lower overall bitrate. Use the previous two if available. Duck has the highest overall bitrate
-    - Has both hardsub(duck) & softsub(rest)
+    - KAA encodes(videstreaming) are decent with lower overall bitrate. Use the previous two if available. Duck has the highest overall bitrate
+    - Has both hardsub(duck) & softsub(rest) 
     - Still a beta site and has missing titles. But, you can request them in their support server
-- [**Aniwatch**](https://aniwatch.to/home) [!badge variant="dark" size="xs" text="aka Zoro"]
+- [**Aniwatch**](https://aniwatch.to/home) [!badge variant="dark" size="xs" text="formerly Zoro"]
     - Huge library with Watch Together feature
     - Re-encodes shows for smaller size with lower overall bitrate.
     - Softsubs may create issues in different scenarios, but can be beneficial for multi-language support
 - [**Animepahe**](https://animepahe.com/)
     - Uploads mini encoded files, useful if you want smaller files or have low bandwidth
     - Uploads **Blu-ray** and **DVD** versions if available
-    
-#### Scraper
-- [Kaguya](https://kaguya.app)
-- [Anify](https://anify.tv/) [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Novel"]
-- [Enime](https://enime.moe/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/Enime-Project/enime.moe)
+    - Has a good amount of missing titles
 
 === More
-- [Muse Asia](https://www.youtube.com/@MuseAsia/) [!badge variant="ghost" size="xs" text="Regional"]
-- [Ani-One Aisa](https://www.youtube.com/AniOneAsia/) [!badge variant="ghost" size="xs" text="Regional"]
-- [Pokémon TV](https://poke-tv.vercel.app/)  [!button variant="ghost" icon="mark-github" size="xs" text="Github"](https://github.com/seiya-dev/pokemon-tv) [!badge variant="ghost" size="xs" text="Multi-lang"]
-- [LM Anime](https://lmanime.com/) [!badge variant="ghost" size="xs" text="Donghua"]
+- [Animeflix](https://animeflix.live/)
+- [AnimeUI](https://animeui.com/) [!badge variant="ghost" size="xs" text="IPFS"] [!badge variant="ghost" size="xs" text="Small library"] [!badge variant="ghost" size="xs" text="Great Quality"]
+- [Kaguya](https://kaguya.app) [!badge variant="ghost" size="xs" text="Needs extension"]
+- [One Pace](https://onepace.net/) [!button variant="primary" size="xs" text="Streamio"](hhttps://fedew04.github.io/OnePaceStremio/manifest.json) [!button variant="primary" size="xs" text="Direct Stream"](https://rentry.co/onepace) [!badge variant="ghost" size="xs" text="Torrent"]
+- [Pokémon TV](https://poke-tv.vercel.app/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/seiya-dev/pokemon-tv) [!badge variant="ghost" size="xs" text="Multi-lang"]
 - [AnimeXin](https://animexin.vip/) [!badge variant="ghost" size="xs" text="Donghua"]
+- [Lucifer Donghua](https://luciferdonghua.in/) [!badge variant="ghost" size="xs" text="Donghua"]
+- [LM Anime](https://lmanime.com/) [!badge variant="ghost" size="xs" text="Donghua"]
+- [Myanime](https://myanime.live/) [!badge variant="ghost" size="xs" text="Donghua"]
+- [Muse Asia](https://www.youtube.com/@MuseAsia/) [!badge variant="ghost" size="xs" text="Legal"] [!badge variant="ghost" size="xs" text="Regional"]
+- [Ani-One Asia](https://www.youtube.com/AniOneAsia/) [!badge variant="ghost" size="xs" text="Legal"] [!badge variant="ghost" size="xs" text="Regional"]
 ===
-
-> Use [!badge variant="ghost" icon="/static/icon/ada.png"  text="AdAway"](https://adaway.org/) or [!badge variant="ghost" icon="/static/icon/adg.png"  text="Adguard"](https://adguard.com/en/welcome.html) on Android and [!badge variant="ghost" icon="/static/icon/ubo.png"  text="uBlock Origin"](https://ublockorigin.com/) in browsers to get rid of all the ads and trakcers.
-
 
 ### Direct Download
 - [Tokyo Insider](https://www.tokyoinsider.com/) [!badge variant="ghost" size="xs" text="Direct"] [!badge variant="ghost" size="xs" text="no ad"]
@@ -58,10 +84,11 @@ Everrything Anime Related!
 - [Chauthanh](https://chauthanh.info/) [!badge variant="ghost" size="xs" text="Direct"] [!badge variant="ghost" size="xs" text="no ad"]
 - [Anime time](https://www.animetime.pw/) [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="ad"]
 - [RIP Crabby Anime](https://ripcrabbyanime.in/) [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="no ad"]
-- [JPFiles](https://jpfiles.eu/) [!badge size="xs" variant="warning" icon="sparkle-fill" text="Blu-ray"] [!badge variant="ghost" size="xs" text="Misc"] [!badge variant="ghost" size="xs" text="Host"]
-- [JPLearner](http://www.jplearner.to/) [!badge size="xs" variant="warning" icon="sparkle-fill" text="Blu-ray"] [!badge variant="ghost" size="xs" text="Misc"] [!badge variant="ghost" size="xs" text="Host"]
+- [JPFiles](https://jpfiles.eu/) [!badge size="xs" variant="ghost" text="Blu-ray"] [!badge variant="ghost" size="xs" text="Misc"] [!badge variant="ghost" size="xs" text="Host"]
+- [JPLearner](http://www.jplearner.to/) [!badge size="xs" variant="ghost" text="Blu-ray"] [!badge variant="ghost" size="xs" text="Misc"] [!badge variant="ghost" size="xs" text="Host"]
+- [AnimeRSS](https://animerss.com/) [!badge size="xs" variant="ghost" text="Blu-ray"] [!badge variant="ghost" size="xs" text="Host"]
 
-> To download in Android, use [!badge variant="ghost" icon="/static/icon/1dm.png" text="1DM"](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US), [!badge variant="ghost" icon="/static/icon/fdm.png" text="FDM"](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm&hl=en&gl=US) or [!badge variant="ghost" icon="/static/icon/adm.png" text="ADM"](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US). For PC, use [!badge variant="ghost" icon="/static/icon/idm.webp" text="IDM"](https://www.internetdownloadmanager.com/), [!badge variant="ghost" icon="/static/icon/jdl.png" text="JDL"](https://jdownloader.org/) or [!badge variant="ghost" icon="/static/icon/fdm.png" text="FDM"](https://www.freedownloadmanager.org/). You can use JDL & FDM on Linux & macOS too. Read [this guide](https://rentry.org/jdownloader2) to debloat JDL.
+> To download in Android, use [!badge variant="dark" icon="/static/icon/1dm.png" text="1DM"](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US), [!badge variant="dark" icon="/static/icon/fdm.png" text="FDM"](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm&hl=en&gl=US) or [!badge variant="dark" icon="/static/icon/adm.png" text="ADM"](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US). For PC, use [!badge variant="dark" icon="/static/icon/idm.webp" text="IDM"](https://www.internetdownloadmanager.com/), [!badge variant="dark" icon="/static/icon/jdl.png" text="JDL"](https://jdownloader.org/) or [!badge variant="dark" icon="/static/icon/fdm.png" text="FDM"](https://www.freedownloadmanager.org/). You can use JDL & FDM on Linux & macOS too. Use [IAS](https://massgrave.dev/idm-activation-script.html) to activate IDM. Read [this guide](https://rentry.org/jdownloader2) to debloat JDL.
 
 ### IRC
 - [**nibl**](https://nibl.co.uk/search)
@@ -82,47 +109,33 @@ Everrything Anime Related!
 	- Channel: `#MK` or `XDCCLeech`
 - [**XDCC EU**](https://www.xdcc.eu/)
 - [**SunXDCC**](https://sunxdcc.com/)
+- [**Anidex**](https://xdcc.anidex.moe/) (`Michiko` bot is over at `#Doki`)
 
-> To learn how to use IRC, you can read [**the guide**](/IRC.md).
-
-==- Madokami Guide
-#### Step 1
-Choose an [IRC client](https://ircv3.net/software/clients) you're comfortable with, as you can't use web IRC.
-
-#### Step 2
-Connect to **Rizon IRC network**.
-
-#### Step 3
-Register your nickname (all explained in detail [here](https://wiki.rizon.net/index.php?title=Register_your_nickname)) and then add the IDENTIFY command to the Connect commands for Rizon
-
-#### Step 4
-Type `/join #madokami`
-
-#### Step 5
-Once there, type the following command into the channel - `/msg sola REGISTER username password` (you **shouldn't reuse the password** from [Step 2]( add header link here))
-
-Repeat this until you get an account, the cooldown should be 4 hours.
-
-#### Step 6
-You may now use your credentials to log into https://manga.madokami.al and enjoy their manga DDL directory (note that you can only download 3 files at the same time, but don't have limits besides that)
-===
+> To learn how to use IRC, you can read [**the guide**](/Guides/IRC.md).
 
 ### Torrents
 
-- [Nyaa](https://nyaa.si/) [!badge variant="ghost" text="Proxy 1"](https://nyaa.iss.one/)  [!badge variant="ghost" text="Proxy 2"](https://nyaa.iss.ink/)
+- [Nyaa](https://nyaa.si/) [!button variant="primary" size="xs" text="Proxy 1"](https://nyaa.iss.one/)  [!button variant="primary" size="xs" text="Proxy 2"](https://nyaa.iss.ink/)
 - [Animek](https://animek.fun/)
-- [Anime Tosho](https://animetosho.org/)
+- [Anime Tosho](https://animetosho.org/) [!badge variant="ghost" size="xs" text="DDL"]
 - [Anidex](https://anidex.info/)
 - [Anirena](https://www.anirena.com/)
 - [Shana Project](https://www.shanaproject.com/) | [Tokyo tosho](https://www.tokyotosho.info/)
+- [Anime Bytes](https://animebytes.tv/) [!badge variant="ghost" size="xs" text="Private tracker"]
+- [Baka BT](https://bakabt.me/) [!badge variant="ghost" size="xs" text="Private tracker"]
+- [U2](https://u2.dmhy.org/portal.php) [!badge variant="ghost" size="xs" text="Private tracker"]
+
+==- :icon-light-bulb: Quick Tips
 
 > For torrent related terms, [click here](https://rentry.org/The-Piracy-Glossary#torrenting-terms).
 
-> Recommended torrent client for Android is [!badge variant="ghost" icon="/static/icon/lt.png"  text="libretorrent"](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent). For Windows, Linux & macOS, use [!badge variant="ghost" icon="/static/icon/qb.svg"  text="qBittorrent"](https://www.qbittorrent.org/) or [!badge variant="ghost" icon="/static/icon/trans.png"  text="Transmission"](https://transmissionbt.com/).
+> Recommended torrent client for Android is [!badge variant="dark" icon="/static/icon/lt.png" text="libretorrent"](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent). For Windows, Linux & macOS, use [!badge variant="dark" icon="/static/icon/qb.svg" text="qBittorrent"](https://www.qbittorrent.org/) or [!badge variant="dark" icon="/static/icon/trans.png" text="Transmission"](https://transmissionbt.com/).
 
-> For VPN, use [!badge variant="ghost" icon="/static/icon/mv.png"  text="Mullvad"](https://mullvad.net/) or [!badge variant="ghost" icon="/static/icon/ivpn.png"  text="IVPN"](https://www.ivpn.net/). If you want free alternative, use [!badge variant="ghost" icon="/static/icon/wind.png"  text="Windscribe"](https://windscribe.com/).
+> For VPN, use [!badge variant="dark" icon="/static/icon/mv.png" text="Mullvad"](https://mullvad.net/) or [!badge variant="dark" icon="/static/icon/ivpn.png" text="IVPN"](https://www.ivpn.net/). If you want free alternative, use [!badge variant="dark" icon="/static/icon/wind.png" text="Windscribe"](https://windscribe.com/).
 
 > Use [Seadex](https://releases.moe/) or [Sneedex](https://sneedex.moe/) to find the best uploads available.
+
+===
 
 > All the **Legal** anime streaming services are listed [here](https://otakulogy.github.io/anime-streaming/).
 
@@ -198,7 +211,8 @@ You may now use your credentials to log into https://manga.madokami.al and enjoy
 ![](/static/banner/info.png)
 ### Info
 
-#### Database
++++ Database
+
 - [aniDB](https://anidb.net/)
 - [Anilist](https://anilist.co/)
 - [Anime News Network](https://www.animenewsnetwork.com/)
@@ -206,7 +220,8 @@ You may now use your credentials to log into https://manga.madokami.al and enjoy
 - [MyAnimeList](https://myanimelist.net/)
 
 
-#### Schedule
++++ Schedule
+
 - [Anica](https://anica.jp/)
 - [AniChart](https://anichart.net/)
 - [AnimeSchedule](https://animeschedule.net/)
@@ -216,7 +231,8 @@ You may now use your credentials to log into https://manga.madokami.al and enjoy
 - [Senpai.moe](https://www.senpai.moe/)
 
 
-#### Stats/Watch guide
++++ Stats/Watch guide
+
 - [Anime Karma List](https://animekarmalist.com/)
 - [Anime Stats](https://anime-stats.net/)
 - [Kitsu Season Trends](https://season.moe/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/wopian/kitsu-season-trends)
@@ -227,20 +243,22 @@ You may now use your credentials to log into https://manga.madokami.al and enjoy
 - [r/Anime Watch Order](https://www.reddit.com/r/anime/wiki/watch_order/)
 
 
-#### Index
++++ Index
+
 - [Aniplaylist](https://aniplaylist.com/)
 - [Seadex](https://releases.moe/)
-- [Sneedex](https://sneedex.moe/) [!badge variant="ghost" icon="/static/icon/discord.svg" text="Bot"](https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot)
+- [Sneedex](https://sneedex.moe/) [!button variant="primary" size="xs" icon="/static/icon/discord.svg" text="Invite"](https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot)
 - [A Certain Fansubber's Index](https://index.fansubcar.tel/)
 - [Fansub Database](https://fansubdb.com/)
 - [German Fansubbers' Index](https://anime-fansubs.de/)
-- [Indonasian Fansubbers' Index](https://www.fansub.id/home)
+- [Indonesian Fansubbers' Index](https://www.fansub.id/home)
 
++++
 
 ![](/static/banner/others.png)
 ## Others
 
-### OST
+### Music
 
 #### Stream
 - [Anithemes.moe](https://animethemes.moe/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/AnimeThemes)

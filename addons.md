@@ -16,6 +16,7 @@ ___
 ## Apps
 ___
 +++ Essentials
+
 - Browsers
     - [Iceraven](https://github.com/fork-maintainers/iceraven-browser)
     - [Mull](https://github.com/Divested-Mobile/Mull-Fenix)
@@ -30,6 +31,7 @@ ___
     - [RethinkDNS](https://rethinkdns.com/) [!badge variant="ghost" size="xs" text="Android"]
 
 +++ Downloaders
+
 - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Android"]
 - [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Android"]
 - [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) [!badge variant="ghost" size="xs" text="Android"]
@@ -37,6 +39,7 @@ ___
 - [libretorrent](https://github.com/proninyaroslav/libretorrent) [!badge variant="ghost" size="xs" text="Android"]
 
 +++ Media
+
 - [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player)
 - [Innertune](https://github.com/z-huang/InnerTune) [!badge variant="ghost" text="Youtube Music"]
 - [mpv-android](https://github.com/mpv-android/mpv-android) [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=is.xyz.mpv&hl=en&gl=US)
@@ -47,6 +50,7 @@ ___
 - [xManager](https://www.xmanagerapp.com/) [!badge variant="ghost" text="Spotify"]
 
 +++ Trackers
+
 - [AniHyou](https://github.com/axiel7/AniHyou-android) [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.axiel7.anihyou) [!badge variant="ghost" size="xs" text="Anilist"]
 - [Apps for Anilist](https://anilist.co/apps) [!badge variant="ghost" size="xs" text="Anilist"]
 - DailyAL [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.teen.dailyanimelist&hl=en&gl=US) [!badge variant="ghost" size="xs" text="MyAnimeList"]
@@ -55,6 +59,7 @@ ___
 - [MoeList](https://github.com/axiel7/MoeList) [!button variant="primary" size="xs" icon="globe" text="Web"](https://moelist.net/) [!badge variant="ghost" size="xs" text="MyAnimeList"]
 
 +++ Others
+
 - Illustrations
     - Anime Boxes [!button variant="primary" size="xs" icon="globe" text="Web"](https://www.animebox.es/)
     - [Boorusphere](https://github.com/nullxception/boorusphere)
@@ -68,6 +73,7 @@ ___
 ___
 
 +++ Anime
+
 - [Anime Watch Parties](https://github.com/Dragicafit/Anime-Watch-Parties/) [!button variant="primary" size="xs" icon="globe" text="Web"](https://animewatchparties.com/) [!badge variant="dark" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/anime-watch-parties/goinehmnmhnoaepodbngfgdgjeibgelh/) [!badge variant="dark" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/)
 - [Animepahe Plus](https://github.com/Cyan903/Animepahe-plus) [!badge variant="dark" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-CA/firefox/addon/animepahe-plus/)
 - [Anime Skip Player](https://github.com/anime-skip/player) [!button variant="primary" size="xs" icon="globe" text="Web"](https://anime-skip.com/) [!badge variant="dark" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/anime-skip/mgmdkjcljneegjfajchedjpdhbadklcf) [!badge variant="dark" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-skip)
@@ -77,12 +83,14 @@ ___
 
 
 +++ Manga
+
 - [All Manga Reader](https://gitlab.com/all-mangas-reader/all-mangas-reader-2) [!button variant="primary" size="xs" icon="globe" text="Web"](https://www.allmangasreader.com/)
 - [MALSync](https://github.com/MALSync/MALSync) [!button variant="primary" size="xs" icon="globe" text="Web"](https://malsync.moe/) [!badge variant="dark" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel) [!badge variant="dark" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/mal-sync/)
 - [Similar Manga](https://github.com/similar-manga/similar) [!badge variant="dark" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg)
 
 
 +++ Others
+
 - [Booru Shinshi](https://github.com/kuanyui/BooruShinshi)  [!badge variant="dark" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/booru-shinshi/)
 - Improve Crunchyroll [!badge variant="dark" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh)
 - [KellyC Image Downloader](https://github.com/NC22/KellyC-Image-Downloader) [!button variant="primary" size="xs" icon="globe" text="Web"](https://kellydownloader.com/en/) [!badge variant="dark" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/kellyc-image-downloader/mbhkdmjolnhcppnkldbdfaomeabjiofm) [!badge variant="dark" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/ru/firefox/addon/kellyc-favorites/)
@@ -97,6 +105,7 @@ ___
 ___
 
 +++ Anime
+
 - 9anime Bingewatcher+ [!badge variant="dark" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher)
 - [Anifilters](https://github.com/Karmesinrot/Anifiltrs)
 - [Anime Website Buttons Plus](https://github.com/Deatthwing/anime-website-buttons-plus) [!badge variant="dark" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/398046-anime-website-custom-buttons-plus)
@@ -120,17 +129,20 @@ ___
 - Series Highlighter [!badge variant="dark" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/424774-series-highlighter-mal)
 
 +++ Manga
+
 - MangaDex Condensed [!badge variant="dark" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/429495-mangadex-condensed)
 - Mangadex Follows [!badge variant="dark" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/430295-new-mangadex-follows)
 - [Manga Online Viewer](https://github.com/TagoDR/MangaOnlineViewer)
 
 +++ Pixiv & Booru
+
 - Pixiv Downloader [!badge variant="dark" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/432150-pixiv-downloader)
 - [Pixiv Preview](https://github.com/NightLancer/PixivPreview) [!badge variant="dark" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/39387-pixiv-arts-preview-followed-atrists-coloring-extended-history)
 - [ppixiv for Pixiv](https://github.com/ppixiv/ppixiv) [!badge variant="dark" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/370418-ppixiv-for-pixiv)
 - [Max URL](https://github.com/qsniyg/maxurl)
 - [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE%2B)
 - [Handy Image](https://github.com/Owyn/HandyImage) [!badge variant="dark" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/109-handy-image)
+
 +++
 
 !!!warning Scripts may not function correctly or reliably all the time
@@ -144,6 +156,7 @@ Active maintenance is necessary for scripts to work properly. If a script fails,
 ___
 
 +++ Anime
+
 - [Anitomy](https://github.com/erengy/anitomy)
 - Arr [!badge variant="dark" text="Radarr"](https://radarr.video/) [!badge variant="dark" text="Sonarr"](https://sonarr.tv/) [!badge variant="dark" text="Prowlarr"](https://prowlarr.com/) [!badge variant="dark" text="Overseerr"](https://overseerr.dev/) [!badge variant="dark" text="Guide"](https://wiki.servarr.com/)
 - [Emby](https://emby.media/)
@@ -156,6 +169,7 @@ ___
 - [Shokofin](https://github.com/ShokoAnime/Shokofin)
 
 +++ Manga
+
 - [ACBR - Comic Book Reader](https://github.com/binarynonsense/comic-book-reader)
 - [ComicTagger](https://github.com/comictagger/comictagger)
 - [Kindle Comic Converter](https://github.com/ciromattia/kcc)
@@ -165,6 +179,8 @@ ___
 - [Tachisync](https://github.com/axiel7/Tachisync)
 
 +++ Trackers
+
+- [Animeo](https://github.com/Jenrykster/animeo) [!badge variant="ghost" size="xs" text="Stremio"]
 - [Hachidori](https://github.com/Atelier-Shiori/hachidori) [!button variant="primary" size="xs" icon="globe" text="Web"](https://malupdaterosx.moe/hachidori/)  [!badge variant="ghost" size="xs" text="MacOS"]
 - [MALClient](https://github.com/Drutol/MALClient) [!badge variant="dark" icon="globe" text="Store"](https://apps.microsoft.com/store/detail/malclient/9NBLGGH5F3BL) [!badge variant="ghost" size="xs" text="Windows"]
 - [Taiga](https://github.com/erengy/taiga) [!button variant="primary" size="xs" icon="globe" text="Web"](https://taiga.moe/) [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Downloader"]
@@ -173,12 +189,14 @@ ___
 - [Kenmei](https://www.kenmei.co/) [!badge variant="ghost" size="xs" text="Web"]
 
 +++ Fansubbing
+
 - [Aegisub](https://aegisub.org/) [!badge variant="dark" icon="repo-forked" text="Fork"](https://github.com/arch1t3cht/Aegisub)
 - [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper)
 - [mpvQC](https://github.com/mpvqc/mpvQC)
 - [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter)
 
 +++ Discord bots
+
 - [AniSearch](https://github.com/IchBinLeoon/anisearch-discord-bot) [!button variant="primary" size="xs" icon="globe" text="Web"](https://ichbinleoon.github.io/anisearch-discord-bot/#/)
 - [Ryuuzaki Ryuusei](https://github.com/nattadasu/ryuuRyuusei)
 - [Yuuko](https://github.com/YuuCorp/Yuuko)
@@ -189,6 +207,7 @@ ___
 - [Picsiv](https://github.com/jckli/picsiv)
 
 +++ OCR
+
 - [Ballons Translator](https://github.com/dmMaze/BallonsTranslator)
 - [Capture2text](https://capture2text.sourceforge.net/)
 - [Imagetrans](https://www.basiccat.org/imagetrans/)
@@ -204,6 +223,7 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 !!!
 
 +++ Others
+
 - [Hydrus network](https://hydrusnetwork.github.io/hydrus/)
 - Media
     - [AIMP](https://www.aimp.ru/)
