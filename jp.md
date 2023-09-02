@@ -252,6 +252,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 +++ Learning tools
 - Dictionary
 	- jidoujisho [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://github.com/lrorpilla/jidoujisho)
+    - [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380)
 	- Takoboto [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=jp.takoboto)
 - Media Player
 	- [mpvacious](https://github.com/Ajatt-Tools/mpvacious)
@@ -268,11 +269,11 @@ Interested in learning the japanese language? Here you can find resources to aid
 	- Japanese Kanji Study [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy&hl=en&gl=US)
 	- [mokuro](https://github.com/kha-white/mokuro)
     - [ttu ttu Ebook Reader](https://github.com/ttu-ttu/ebook-reader)
+    - [Typhon Reader](https://play.google.com/store/apps/details?id=net.zorgblub.typhon)
 	- [Satori Reader](https://www.satorireader.com/) [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.braksoftware.SatoriReader&hl=en&gl=US) [!badge variant="dark" icon="/static/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/satori-reader/id1382950847)
 	- Write It! Japanese [!badge variant="dark" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.jernung.writeit.jpn&hl=en&gl=US) [!badge variant="dark" icon="/static/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/write-it-japanese/id1268225663)
 +++ Tools
 - Extension
-
     - [jimaku player](https://github.com/sheodox/jimaku-player)
     - [JP Study tools](https://github.com/rudnam/JP-study)
     - [Language Reactor](https://www.languagereactor.com/)
@@ -288,6 +289,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 	- [subs2cia](https://github.com/dxing97/subs2cia)
 	- [Automatic Condensed Audio Dialogue Script](https://anacreondjt.gitlab.io/docs/condensed_audio/)
 - Misc
+    - [EXSTATIC](https://github.com/KamWithK/exSTATic)
 	- [Textractor](https://github.com/Artikash/Textractor)
 +++
 
