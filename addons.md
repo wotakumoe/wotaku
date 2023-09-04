@@ -18,10 +18,11 @@ ___
 +++ Essentials
 
 - Browsers
-    - [Iceraven](https://github.com/fork-maintainers/iceraven-browser)
-    - [Mull](https://github.com/Divested-Mobile/Mull-Fenix)
-    - [Brave](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en&gl=US)
-    - [Cromite](https://github.com/uazo/cromite)
+    - [Iceraven](https://github.com/fork-maintainers/iceraven-browser) [!badge variant="ghost" size="xs" text="Android"]
+    - [Mull](https://github.com/Divested-Mobile/Mull-Fenix) [!badge variant="ghost" size="xs" text="Android"]
+    - [Brave](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Android"] [!badge variant="ghost" size="xs" text="iOS"]
+    - [Cromite](https://github.com/uazo/cromite) [!badge variant="ghost" size="xs" text="Android"]
+    - [DuckDuckGo Private Browser](https://duckduckgo.com/) [!badge variant="ghost" size="xs" text="Android"] [!badge variant="ghost" size="xs" text="iOS"]
 - Ad blocking
     - [Adaway](https://adaway.org/) [!badge variant="ghost" size="xs" text="Android"]
     - [Adguard](https://adguard.com/en/welcome.html) [!badge variant="ghost" size="xs" text="Android"]

@@ -38,9 +38,10 @@ ___
 
 ### Stream
 
-- [**Aniwave**](https://aniwave.to/home) [!badge variant="dark" text="Anix"](https://anix.to/home) [!badge variant="dark" text="Alt UI"](https://9animehq.to/home) [!badge variant="dark" size="xs" text="formerly 9anime"]
+- [**Aniwave**](https://aniwave.to/home) [!badge variant="dark" size="xs" text="formerly 9anime"]
     - Huge library with Watch Together feature
     - Less amount of compression compared to other sites that use 3rd party hosts
+    - Original site's UI is bloated. Use [Anix](https://anix.to/home) or [9animehq](https://9animehq.to/home) for more minimal experience.
 - [**Marin**](https://marin.moe/)
     - Re-encodes files of other encoder groups while keeping the quality consistent
     - Uploads encoded **Blu-ray** versions if available
@@ -72,6 +73,30 @@ ___
 - [Myanime](https://myanime.live/) [!badge variant="ghost" size="xs" text="Donghua"]
 - [Muse Asia](https://www.youtube.com/@MuseAsia/) [!badge variant="ghost" size="xs" text="Legal"] [!badge variant="ghost" size="xs" text="Regional"]
 - [Ani-One Asia](https://www.youtube.com/AniOneAsia/) [!badge variant="ghost" size="xs" text="Legal"] [!badge variant="ghost" size="xs" text="Regional"]
+===
+
+### Torrents
+
+- [Nyaa](https://nyaa.si/) [!button variant="primary" size="xs" text="Proxy 1"](https://nyaa.iss.one/)  [!button variant="primary" size="xs" text="Proxy 2"](https://nyaa.iss.ink/)
+- [Animek](https://animek.fun/)
+- [Anime Tosho](https://animetosho.org/) [!badge variant="ghost" size="xs" text="DDL"]
+- [Anidex](https://anidex.info/)
+- [Anirena](https://www.anirena.com/)
+- [Shana Project](https://www.shanaproject.com/) | [Tokyo tosho](https://www.tokyotosho.info/)
+- [Anime Bytes](https://animebytes.tv/) [!badge variant="ghost" size="xs" text="Private tracker"]
+- [Baka BT](https://bakabt.me/) [!badge variant="ghost" size="xs" text="Private tracker"]
+- [U2](https://u2.dmhy.org/portal.php) [!badge variant="ghost" size="xs" text="Private tracker"]
+
+==- :icon-light-bulb: Quick Tips
+
+> For torrent related terms, [click here](https://rentry.org/The-Piracy-Glossary#torrenting-terms).
+
+> Recommended torrent client for Android is [!badge variant="dark" icon="/static/icon/lt.png" text="libretorrent"](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent). For Windows, Linux & macOS, use [!badge variant="dark" icon="/static/icon/qb.svg" text="qBittorrent"](https://www.qbittorrent.org/) or [!badge variant="dark" icon="/static/icon/trans.png" text="Transmission"](https://transmissionbt.com/).
+
+> For VPN, use [!badge variant="dark" icon="/static/icon/mv.png" text="Mullvad"](https://mullvad.net/) or [!badge variant="dark" icon="/static/icon/ivpn.png" text="IVPN"](https://www.ivpn.net/). If you want free alternative, use [!badge variant="dark" icon="/static/icon/wind.png" text="Windscribe"](https://windscribe.com/).
+
+> Use [Seadex](https://releases.moe/) or [Sneedex](https://sneedex.moe/) to find the best uploads available.
+
 ===
 
 ### Direct Download
@@ -113,36 +138,14 @@ ___
 
 > To learn how to use IRC, you can read [**the guide**](/Guides/IRC.md).
 
-### Torrents
-
-- [Nyaa](https://nyaa.si/) [!button variant="primary" size="xs" text="Proxy 1"](https://nyaa.iss.one/)  [!button variant="primary" size="xs" text="Proxy 2"](https://nyaa.iss.ink/)
-- [Animek](https://animek.fun/)
-- [Anime Tosho](https://animetosho.org/) [!badge variant="ghost" size="xs" text="DDL"]
-- [Anidex](https://anidex.info/)
-- [Anirena](https://www.anirena.com/)
-- [Shana Project](https://www.shanaproject.com/) | [Tokyo tosho](https://www.tokyotosho.info/)
-- [Anime Bytes](https://animebytes.tv/) [!badge variant="ghost" size="xs" text="Private tracker"]
-- [Baka BT](https://bakabt.me/) [!badge variant="ghost" size="xs" text="Private tracker"]
-- [U2](https://u2.dmhy.org/portal.php) [!badge variant="ghost" size="xs" text="Private tracker"]
-
-==- :icon-light-bulb: Quick Tips
-
-> For torrent related terms, [click here](https://rentry.org/The-Piracy-Glossary#torrenting-terms).
-
-> Recommended torrent client for Android is [!badge variant="dark" icon="/static/icon/lt.png" text="libretorrent"](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent). For Windows, Linux & macOS, use [!badge variant="dark" icon="/static/icon/qb.svg" text="qBittorrent"](https://www.qbittorrent.org/) or [!badge variant="dark" icon="/static/icon/trans.png" text="Transmission"](https://transmissionbt.com/).
-
-> For VPN, use [!badge variant="dark" icon="/static/icon/mv.png" text="Mullvad"](https://mullvad.net/) or [!badge variant="dark" icon="/static/icon/ivpn.png" text="IVPN"](https://www.ivpn.net/). If you want free alternative, use [!badge variant="dark" icon="/static/icon/wind.png" text="Windscribe"](https://windscribe.com/).
-
-> Use [Seadex](https://releases.moe/) or [Sneedex](https://sneedex.moe/) to find the best uploads available.
-
-===
-
 > All the **Legal** anime streaming services are listed [here](https://otakulogy.github.io/anime-streaming/).
 
 
 ![](/static/banner/manga.png)
 
 ## Manga
+
+For Offcial releases(web, volume, omnibus etc.), download from [**Nyaa**](#nyaa-uploaders) or [**Madokami**](#step-1). They have very little compression, if any.
 ___
 
 ### Reader
@@ -262,12 +265,6 @@ ___
 - [Ushi](https://nyaa.si/user/bakaushi) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="yen"]
 - [XRA9](https://nyaa.si/?f=0&c=0_0&q=XRA9) 
 
-### Direct Download
-- [mp4directs](https://mp4directs.com/)
-- [jnovels](https://jnovels.com/manga-cbz-cbr-pdfs-download101/)
-- [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) [!badge variant="danger" size="xs" text="R+"]
-- [Anna's Archive](https://annas-archive.org/)
-
 ==- Madokami Guide
 #### Step 1
 Choose an [IRC client](https://ircv3.net/software/clients) you're comfortable with, as you can't use web IRC.
@@ -287,10 +284,16 @@ Once there, type the following command into the channel - `/msg sola REGISTER us
 Repeat this until you get an account, the cooldown should be 4 hours.
 
 #### Step 6
-You may now use your credentials to log into https://manga.madokami.al and enjoy their manga DDL directory (note that you can only download 3 files at the same time, but don't have limits besides that)
+You may now use your credentials to log into https://manga.madokami.al and enjoy their manga DDL directory (note that you can only download 3 files at the same time, but don't have limits besides that). They also have Tachiyomi extensions.
 ===
 
 > All the **Legal** manga reading sites are listed [here](https://otakulogy.github.io/manga-platform/) and [here](https://wherecanireadmanga.com/).
+
+### Direct Download
+- [mp4directs](https://mp4directs.com/)
+- [jnovels](https://jnovels.com/manga-cbz-cbr-pdfs-download101/)
+- [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) [!badge variant="danger" size="xs" text="R+"]
+- [Anna's Archive](https://annas-archive.org/)
 
 ![](/static/banner/msuic.png)
 
@@ -362,7 +365,7 @@ ___
 - [Crane Anime](https://docs.google.com/spreadsheets/d/1ECqqhEm2kDS0hgxZ0tD_73e04v5FUxQGkfCbfi0Kb9k/pubhtml#) [!badge variant="danger" size="xs" text="R+"]
 - [Eroge Download](https://erogedownload.com/) [!badge variant="danger" size="xs" text="R+"]
 - [F95Zone](https://f95zone.to/) [!badge variant="danger" size="xs" text="R+"] [!badge variant="ghost" size="xs" text="Needs account"]
-- [GOG](https://www.gog.com/en/games?genres=visual-novel&hideDLCs=true) [!badge variant="dark" text="Download"](https://gog-games.to/)  [!badge variant="danger" size="xs" text="R+"]
+- [GOG](https://gog-games.to/) [!badge variant="dark" text="Library"](https://www.gog.com/en/games?genres=visual-novel&hideDLCs=true)  [!badge variant="danger" size="xs" text="R+"]
 - [Kimochi](https://kimochi.info) [!badge variant="danger" size="xs" text="R+"]
 - [Nyaa](https://nyaa.si/?f=0&c=6_2&q=) [!badge size="xs" variant="success" text="E"]
 - [Nyaa sukebei](https://sukebei.nyaa.si/?f=0&c=1_3&q=) [!badge variant="danger" size="xs" text="R+"]

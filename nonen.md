@@ -293,7 +293,6 @@ ___
 ### Brewing
 
 #### Website
-- [Ryuanime](https://ryuanime.chrismichael.now.sh/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/ChrisMichaelPerezSantiago/ryuanime) [!badge variant="ghost" icon="/static/icon/spain.png" size="xs" text="ES"]
 - [ANIFOX](https://anifox.club/anime) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/YockyMai/ANIFOX) [!badge variant="ghost" icon="/static/icon/russia.png" size="xs" text="RU"]
 
 #### Apps

@@ -6,33 +6,6 @@ visibility: Hidden
 # Anime Megathread
 Everrything Anime Related!
 
-![](/static/banner/sites.png)
-# Websites
-
-Online resources for anime, manga, light novels and more. All links have been carefully selected and vetted by our contributors.
-___
-
-==- :icon-alert: Rating System
-[!badge variant="danger" text="R+"] Uploads NSFW content on a regular basis.
-
-[!badge variant="ghost" text="R"] Uploads NSFW content, but not always/all of them.
-
-[!badge variant="ghost" text="R-"] Rarely uploads NSFW content.
-
-[!badge variant="success" text="E"] Only SFW content.
-
-[!badge variant="ghost" text="NR"] Haven't been rated yet.
-
-**Note**: None of the websites mentioned are exclusively dedicated to NSFW content. [**Click here**](/nsfw.md) for the dedicated sites.
-===
-
-> Use [!badge variant="dark" icon="/static/icon/ada.png" text="AdAway"](https://adaway.org/) or [!badge variant="dark" icon="/static/icon/adg.png" text="Adguard"](https://adguard.com/en/welcome.html) on Android and [!badge variant="dark" icon="/static/icon/ubo.png" text="uBlock Origin"](https://ublockorigin.com/) in browsers to get rid of all the ads and trackers. For iOS, use [!badge variant="dark" icon="/static/icon/ahadns.png" text="AhaDNS"](https://blitz-setup.ahadns.com/) as profile.
-
-
-![](/static/banner/anime.png)
-
-## Anime
-
 If you want to get the best quality, use [Direct Download](/Websites.md/#direct-download-1), [IRC](/Websites.md/#irc), or [Torrent](/Websites.md/#torrents). You can obtain full web release quality on a streaming site that scrapes the official site API, such as [KickAssAnime](https://kickassanime.am/) for Crunchyroll and Bilibili content. Otherwise, it is hard to maintain the full quality while managing space & traffic. You can [**network stream**](/Guides/ns.md) files from direct download, irc and torrents.
 ___
 

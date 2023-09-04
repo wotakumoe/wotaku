@@ -1,6 +1,7 @@
 ---
 label: Welcome
 icon: ":wave:"
+image: https://cdn.apollo.moe/img/cover.png
 ---
 
 [![](https://cdn.apollo.moe/img/invite.png)](https://discord.gg/vShRGx8ZBC)

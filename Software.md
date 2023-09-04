@@ -117,7 +117,7 @@ ___
 
 ### Manga
 
-#### Online
++++ Online
 
 - [**Houdoku**](https://houdoku.netlify.app/) [!badge variant="ghost" size="xs" text="win"] [!badge variant="ghost" size="xs" text="mac"] [!badge variant="ghost" size="xs" text="lin"]
     - Easy to setup
@@ -149,7 +149,7 @@ ___
 
 ===
 
-#### Offline
++++ Offline
 
 - [**CDisplayEx**](https://www.cdisplayex.com/) [!badge variant="ghost" size="xs" text="win"]
     - Minimalist UI
@@ -166,7 +166,7 @@ ___
     - Has vertical reading mode with limited amount of customization
     - Does not clear cache automatically. Have to do it manually
 
-#### Hosting
++++ Hosting
 - [**Komga**](https://komga.org/)
     - Media server for manga/comics (like plex for manga).
     - Integrates with tachiyomi, OPDS reader or anything else using komga rest api.
@@ -184,6 +184,7 @@ ___
     - Reliant on filename parsing, requires strict adherence to expected filename formats and embedded metadata is near mandatory for edge-cases.
     - No MALSync support. Tracking support, alongside some other features, is paywalled behind Kavita+.
 
++++
 === More
 - [Yomikiru](https://github.com/mienaiyami/yomikiru) [!badge variant="ghost" size="xs" text="offline"]
 - [LANraragi](https://github.com/Difegue/LANraragi) [!badge variant="ghost" size="xs" text="Self-hosted"]
@@ -239,14 +240,14 @@ ___
   - Tracker support
   - Chapter download possible
   - Still in active Development
-- [**Hanami**](https://github.com/oolxg/Hanami)
-  - Available on Testflight (no Sideloading required)
-  - OK-ish UI with some lags
-  - only MangaDex as a source. So, therefore no official releases
 - [**YACReader**](https://apps.apple.com/app/id635717885) [!badge variant="ghost" size="xs" text="Local"] [!badge variant="ghost" size="xs" text="Paid"]
   - Multiple transfer options and local reader support
   - Support for cbz, cbr, zip, tar, arj, pdf, and rar formats as well as image formats
   - Ability to backup comics
+- [**Hanami**](https://github.com/oolxg/Hanami)
+  - Available on Testflight (no Sideloading required)
+  - OK-ish UI with some lags
+  - only MangaDex as a source. So, therefore no official releases
 - [**SideBooks**](https://apps.apple.com/us/app/sidebooks/id409777225) [!badge variant="ghost" size="xs" text="Cloud"]
   - Supports PDF,ZIP,CBZ,RAR and CBR
   - Has all the necessary features
@@ -303,3 +304,5 @@ ___
 - [gallery-dl](https://github.com/mikf/gallery-dl)
 - [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/)
 - [PixivUtil2](https://github.com/Nandaka/PixivUtil2)
+
+> You can find more PC related tools [**here**](/addons.md/#tools)

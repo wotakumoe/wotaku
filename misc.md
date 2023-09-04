@@ -92,7 +92,7 @@ ___
 - [Safebooru](https://safebooru.org/) [!badge variant="success" size="xs" text="E"]
 - [Yandere](https://yande.re/post) [!badge variant="danger" size="xs" text="R+"]
 - [Zerochan](https://www.zerochan.net/) [!badge variant="ghost" size="xs" text="R"]
-- [/w/](http://catalog.neet.tv/w/)
+- [/w/](http://catalog.neet.tv/w/) [!badge variant="danger" size="xs" text="R+"]
 ___
 ![](/static/banner/others.png)
 ## Others

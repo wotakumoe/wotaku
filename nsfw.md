@@ -14,7 +14,7 @@ ___
 ## Websites
 
 
-### Anime
++++ Anime
 - [AnimeID Hentai](https://animeidhentai.com/)
 - [Haho](https://haho.moe/)
 - [Hanime](https://hanime.tv/) [!badge variant="ghost" size="xs" text="720p"]
@@ -28,8 +28,7 @@ ___
 - [Rule34](https://www.rule34.dev/)
 - [Hentai Release Schedule](https://www.underhentai.net/releases/)
 
-
-### Manga
++++ Manga
 - [E-Hentai](https://e-hentai.org/)
     - Mangadex of doujins. Everything is uploaded here.
 - [ExHentai](https://exhentai.org/)
@@ -53,7 +52,7 @@ ___
 - [nyanpantsu](https://nyanpantsu.vercel.app/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/purpleblueslime/nyanpantsu)
 - [Wholesome Hentai God List](https://wholesomelist.com/)
 
-### Manhwa
++++ Manhwa
 - [Hiperdex](https://hiperdex.com/)
 - [Manhwa18](http://manhwa18.com/)
 - [Manytoon](https://manytoon.com/)
@@ -64,13 +63,14 @@ ___
 === Scanlators
 - [The Blank](https://mangadex.org/group/d53b6ec6-bbbf-4fad-a254-2b7ddda84c2c/the-blank)
 - [Omega scans](https://mangadex.org/group/8295f3f9-7462-403b-8fc0-f93a6c245a5c/omegascans) [!button variant="primary" size="xs" icon="globe" text="Web"](https://omegascans.org/)
+- [Constellar Scans](https://constellarcomic.com/)
 - [Acera the great](https://mangadex.org/group/ea35447d-5035-485f-8eda-841bafc4b215/acerathegreat)
 - [Mangazuki](https://mangadex.org/group/4b11e95f-a9c2-417d-a179-d6a20255b68d/mangazuki)
 - [Shinsei Scans](https://mangadex.org/group/f6f2ab9e-4997-4401-80a2-3840ee8558a2/shinsei-scans)
 - [Aksy Scans](https://mangadex.org/group/258e6c49-e780-408e-bc48-c981d8e58c75/aksyscans)
 ===
 
-### Illustrations
++++ Illustrations
 - [Danbooru](https://danbooru.donmai.us/)
 - [Gelbooru](https://gelbooru.com/)
 - [Kemono](https://kemono.party/)
@@ -78,11 +78,13 @@ ___
 - [Rule34](https://rule34.xxx/)
 - [Rule34.dev](https://rule34.dev/)
 - [Yandere](https://yande.re/post)
+
++++
 ___
 ![](/static/banner/software.png)
 ## Software
 
-### Android
++++ Android
 - [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY)
 - [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta)
 - [Hentaoid](https://github.com/avluis/Hentoid)
@@ -90,12 +92,12 @@ ___
 - [Jasmine](https://github.com/niuhuan/jasmine)
 - [NClientV2](https://github.com/Dar9586/NClientV2)
 
-### iOS
++++ iOS
 - [EhPanda](https://github.com/EhPanda-Team/EhPanda)
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
 - [Jasmine](https://github.com/niuhuan/jasmine)
 
-### Windows / Linux / macOS
++++ PC
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
 - [Jasmine](https://github.com/niuhuan/jasmine)
 - [Happypandax](https://github.com/happypandax/happypandax)
@@ -113,10 +115,13 @@ ___
 - [NSFW Box](https://github.com/Kisspeace/NsfwBox)
 - [Tomoe](https://github.com/sinkaroid/tomoe)
 ===
-
++++
 ___
-![](/static/banner/script.png)
-## Scripts
+
+![](/static/banner/others.png)
+
+## Others
++++ Scripts
 - E-HENTAI-VIEW-ENHANCE [!badge variant="dark" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/397848-e-hentai-view-enhance)
 - Eza's Image Glutton [!badge variant="dark" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/4713-eza-s-image-glutton)
 - Image Board Enhancer [!badge variant="dark" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/387312-image-board-enhancer-rule34-gelbooru-e621-and-more)
@@ -127,11 +132,10 @@ ___
 - [nhentai helper](https://github.com/Tsuk1ko/nhentai-helper) [!badge variant="dark" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/375992-nhentai-helper)
 - [nhentai konnichiwa](https://github.com/naiymu/nhentai-konnichiwa)
 
-___
-![](/static/banner/misc.png)
-## Misc
++++ Misc
 - [/h/ Hentai](https://boards.4chan.org/h/)
 - [HDGFAQ](https://rentry.org/hdgfaq)
 - [Hent-AI](https://github.com/natethegreate/hent-AI)
 - [nHentai Discord Bot](https://github.com/the-urban-inc/nhentai-discord-bot)
 - [nHentai Telegram Bot](https://github.com/sleroq/nhentai-telegram-bot)
++++
