@@ -15,7 +15,7 @@ ___
 
 #### Delivery Types
 
-| Delivery Types             | Value        | Shipping Speed | Offered as Option | Mode of Tranportation { class="compact" } |
+| Delivery Types             | Value        | Shipping Speed | Offered as Option | Mode of Transportation { class="compact" } |
 |---|---|---|---|---| 
 | Surface Mail               | Lowest-Cost  | Slowest        | Offered           | :ship:                |
 | SAL (Economic Airmail)     | Low-Cost     | Slow^2^        | Not Offered^1^    | :airplane:            |    

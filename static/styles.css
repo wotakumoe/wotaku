@@ -5,7 +5,7 @@ aside ul:nth-child(3) {
   margin-top: 1em;
 }
 
-.flex.border {
+.flex.border.dark\:border-dark-650.-mb-px.rounded-t {
     overflow-x: auto;
     white-space: nowrap;
 }
