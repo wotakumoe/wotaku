@@ -11,21 +11,21 @@ ___
 ## Comics
 
 ### Reader
-- [Comicastle](https://www.comicastle.org/)
-- [Comic Extra](https://ww1.comicextra.com/)
-- [Read Comics Free](https://readcomicsfree.com/)
-- [Read Comic Online](https://readcomiconline.li/)
-- [Read Comics Online](https://readcomicsonline.ru/)
-- [View Comics](https://viewcomics.me/)
-- [XOXO Comics](https://xoxocomics.com/)
+- [Comicastle](https://www.comicastle.org/){target="_blank"}
+- [Comic Extra](https://ww1.comicextra.com/){target="_blank"}
+- [Read Comics Free](https://readcomicsfree.com/){target="_blank"}
+- [Read Comic Online](https://readcomiconline.li/){target="_blank"}
+- [Read Comics Online](https://readcomicsonline.ru/){target="_blank"}
+- [View Comics](https://viewcomics.me/){target="_blank"}
+- [XOXO Comics](https://xoxocomics.com/){target="_blank"}
 
 ### DDL
-- [booksDL](https://booksdl.org/comics0/)
-- [Comics All](https://comics-all.com/) | [New comic](https://newcomic.info/)
-- [Get Comics](https://getcomics.info/)
+- [booksDL](https://booksdl.org/comics0/){target="_blank"}
+- [Comics All](https://comics-all.com/){target="_blank"} | [New comic](https://newcomic.info/){target="_blank"}
+- [Get Comics](https://getcomics.info/){target="_blank"}
 
 ### Downloader
-- [Mylar](https://github.com/mylar3/mylar3)
+- [Mylar](https://github.com/mylar3/mylar3){target="_blank"}
 
 ### Misc
-- [Threetwo](https://github.com/rishighan/threetwo)
+- [Threetwo](https://github.com/rishighan/threetwo){target="_blank"}

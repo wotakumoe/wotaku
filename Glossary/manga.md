@@ -3,7 +3,7 @@ label: Manga
 order: 95
 ---
 
-![](https://cdn.apollo.moe/img/manga.png)
+![](https://cdn.apollo.moe/img/manga.png){target="_blank"}
 # Manga Glossary
 Manga portion of the Wotaku glossary!
 
@@ -11,12 +11,12 @@ ___
 ## Terms 
 
 #### 4-Koma
-4-Koma (a.k.a. Yonkoma manga) features four panels, follows a specific pattern where every four panels lead up to a punchline. These are read up-down instead of traditional right-left. The right column is always the starting column. Example: [Tsurezure Children](https://mangadex.org/title/a840d47c-4080-4783-9c42-af8100e48079/tsurezure-children)
+4-Koma (a.k.a. Yonkoma manga) features four panels, follows a specific pattern where every four panels lead up to a punchline. These are read up-down instead of traditional right-left. The right column is always the starting column. Example: [Tsurezure Children](https://mangadex.org/title/a840d47c-4080-4783-9c42-af8100e48079/tsurezure-children){target="_blank"}
 
 ![Tsurezure Children ch. 20](/static/glossary/manga/4koma.jpg)
 
 #### Adaptation
-Not original content and was addapted from other sources (light novel, anime, picture book etc.). Example: [Josee, the Tiger and the Fish](https://mangadex.org/search?q=Josee%2C+the+Tiger+and+the+Fish) which was a [Light Novel](https://yenpress.com/titles/9781975340469-josee-the-tiger-and-the-fish-light-novel) adapatation.
+Not original content and was addapted from other sources (light novel, anime, picture book etc.). Example: [Josee, the Tiger and the Fish](https://mangadex.org/search?q=Josee%2C+the+Tiger+and+the+Fish){target="_blank"} which was a [Light Novel](https://yenpress.com/titles/9781975340469-josee-the-tiger-and-the-fish-light-novel){target="_blank"} adapatation.
 
 
 #### Doujinshi
@@ -26,11 +26,11 @@ Basically, it means indie works. If the mangaka publishes the manga on their own
 #### Mangaka
 Mangaka means the artist of the manga. Mangaka can also be the story writer. Generally, mangaka does everything by himself, but sometimes he may employ assistants to speed up the work and cope with the weekly release schedule.
 
-[!embed](https://www.youtube-nocookie.com/embed/zp6_kvcEI_4)
+[!embed](https://www.youtube-nocookie.com/embed/zp6_kvcEI_4){target="_blank"}
 
 
 #### Long strip
-It's newer type of comics format. Long strip comics are made for smartphone readers. The flow of the panels is up-down instead of traditional right-left. The panels are scrollable vertically so that it is easier to read in smartphone. As a result you have to follow [different rules](https://www.webtoons.com/en/tiptoon/lozolz/webtoon-editing-tips/viewer?title_no=1268&episode_no=24) than the traditional manga format. This format is widely used in the manhwa and manhua industries.
+It's newer type of comics format. Long strip comics are made for smartphone readers. The flow of the panels is up-down instead of traditional right-left. The panels are scrollable vertically so that it is easier to read in smartphone. As a result you have to follow [different rules](https://www.webtoons.com/en/tiptoon/lozolz/webtoon-editing-tips/viewer?title_no=1268&episode_no=24){target="_blank"} than the traditional manga format. This format is widely used in the manhwa and manhua industries.
 
 
 #### Omake
@@ -38,7 +38,7 @@ A bonus/extra chapter which doesn't really affect the main story. Generally give
 
 
 #### One-Shot
-A manga that's been published at once. The length of the story depends on the mangaka. Also, it can be serialized later. Example: [Kimi no Kaketeru Tokomo Suki](https://mangadex.org/title/690540ab-5f55-4b44-910d-4d2ed0a0faa9/kimi-no-kaketeru-tokomo-suki)
+A manga that's been published at once. The length of the story depends on the mangaka. Also, it can be serialized later. Example: [Kimi no Kaketeru Tokomo Suki](https://mangadex.org/title/690540ab-5f55-4b44-910d-4d2ed0a0faa9/kimi-no-kaketeru-tokomo-suki){target="_blank"}
 
 
 #### Raw
@@ -71,17 +71,17 @@ Tankoubon means the volume release. Many manga are initially published in magazi
 
 
 #### Webcomic/Webmanga
-Was originally published on a web platform. The platform can be free(twitter, pixiv etc) or paid (Comico, comic-walker etc.). Example: [ReLife](https://mangadex.org/title/6e3553b9-ddb5-4d37-b7a3-99998044774e/relife) ([comico](https://www.comico.jp/comic/23)) & [A Story About Smoking at the Back of the Supermarket](https://mangadex.org/title/baa95345-24fb-47a9-83e9-434ff671f968/super-no-ura-de-yani-suu-hanashi) ([twitter](https://twitter.com/jinusi822))
+Was originally published on a web platform. The platform can be free(twitter, pixiv etc) or paid (Comico, comic-walker etc.). Example: [ReLife](https://mangadex.org/title/6e3553b9-ddb5-4d37-b7a3-99998044774e/relife){target="_blank"} ([comico](https://www.comico.jp/comic/23){target="_blank"}) & [A Story About Smoking at the Back of the Supermarket](https://mangadex.org/title/baa95345-24fb-47a9-83e9-434ff671f968/super-no-ura-de-yani-suu-hanashi){target="_blank"} ([twitter](https://twitter.com/jinusi822){target="_blank"})
 
 
 #### Webtoon
-Webtoon in general indicates Korean long strip comics. They are primarily made smartphone but sometimes they publish the [physical version](https://www.youtube-nocookie.com/embed/BY5h7v9Ll_E) too. Example: [Solo Leveling](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0/solo-leveling)
+Webtoon in general indicates Korean long strip comics. They are primarily made smartphone but sometimes they publish the [physical version](https://www.youtube-nocookie.com/embed/BY5h7v9Ll_E){target="_blank"} too. Example: [Solo Leveling](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0/solo-leveling){target="_blank"}
 
 ___
 ## Scanlation
 
 #### Scanlator
-A group that fan translate a manga/manhwa/manhua. The group takes the raw file and translate the whole manga (including dialogue, sfx & other forms of text). Also, sometimes the [wordplays](https://psychology.fandom.com/wiki/Japanese_wordplay) & cultural references provided in that chapter are explained in the credit section.
+A group that fan translate a manga/manhwa/manhua. The group takes the raw file and translate the whole manga (including dialogue, sfx & other forms of text). Also, sometimes the [wordplays](https://psychology.fandom.com/wiki/Japanese_wordplay){target="_blank"} & cultural references provided in that chapter are explained in the credit section.
 
 #### Cleaner (CL)
 Cleaner takes the raw file, fixes any faults (such as artifacts due to scanning, color shifts, tilts, etc.), and cleans all of the original text including SFX, if necessary. But these days, this can be only removing texts since digital raw is widely available.
@@ -89,7 +89,7 @@ Cleaner takes the raw file, fixes any faults (such as artifacts due to scanning,
 #### Redrawer (RD)
 Redrawer redraws all the erased parts by the cleaner and makes them as smooth as possible. They patch everything that was affected due to scanning or other issues. Nowadays, cleaning and redrawing are often done by a single person since these two tasks are closely related.
 
-[!embed text="CL & RD by Raj (Manga: The Fragrant Flower Blooms With Dignity)"](https://www.youtube-nocookie.com/embed/lwOTTa8F3bM)
+[!embed text="CL & RD by Raj (Manga: The Fragrant Flower Blooms With Dignity)"](https://www.youtube-nocookie.com/embed/lwOTTa8F3bM){target="_blank"}
 
 
 #### Translator (TL)

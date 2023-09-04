@@ -7,7 +7,7 @@ icon: ":floppy_disk:"
 
 ---
 
-![](https://cdn.apollo.moe/img/soft.png)
+![](https://cdn.apollo.moe/img/soft.png){target="_blank"}
 
 # Software
 
@@ -23,19 +23,19 @@ ___
 
 ### Anime
 
-- [**Saikou**](https://github.com/saikou-app/saikou/) [!button variant="primary" size="xs" icon="video" text="TV"](https://github.com/siennaXD/SaikouTV/)  [!button variant="primary" size="xs" icon="globe" text="Web"](https://saikou.pages.dev/)
+- [**Saikou**](https://github.com/saikou-app/saikou/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="video" text="TV"](https://github.com/siennaXD/SaikouTV/){target="_blank"}  [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://saikou.pages.dev/){target="_blank"}
   - Decent UI but limited customization
   - Can be used offline
   - Also offers manga reader & ln
   - Anime streaming/reading only
   - Anilist and MAL sync
-- [**Cloudstream**](https://github.com/recloudstream/cloudstream) [!button variant="primary" size="xs" icon="globe" text="Web"](https://cloudstream.on.fleek.co/)
+- [**Cloudstream**](https://github.com/recloudstream/cloudstream){target="_blank"}
   - Minimalist Customizable UI
   - Offers other types of media too
   - Tracking & backup support
   - Local player support
   - Extensions often break
-- [**Aniyomi**](https://github.com/aniyomiorg/aniyomi) [!button variant="primary" size="xs" icon="globe" text="Web"](https://aniyomi.org/) [!badge variant="ghost" size="xs" text="Manga"]
+- [**Aniyomi**](https://github.com/aniyomiorg/aniyomi){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://aniyomi.org/){target="_blank"} [!badge variant="ghost" size="xs" text="Manga"]
   - Unofficial Tachiyomi fork for anime
   - Clean and minimal design
   - Offers other types of media too
@@ -45,28 +45,28 @@ ___
 
 === More
 
-- [Kaizoyu!](https://github.com/astarivi/Kaizoyu) [!button variant="primary" size="xs" icon="globe" text="Web"](https://kaizoyu.ovh)  [!badge variant="ghost" size="xs" text="XDCC"]
-- [Animiru](https://github.com/Quickdesh/Animiru) [!badge variant="ghost" size="xs" text="Anime only"] [!badge variant="ghost" size="xs" text="RPC"]
-- [Animity](https://github.com/kl3jvi/animity)
-- [Enimax](https://github.com/enimax-anime/enimax)
-- [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
+- [Kaizoyu!](https://github.com/astarivi/Kaizoyu){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://kaizoyu.ovh){target="_blank"}  [!badge variant="ghost" size="xs" text="XDCC"]
+- [Animiru](https://github.com/Quickdesh/Animiru){target="_blank"} [!badge variant="ghost" size="xs" text="Anime only"] [!badge variant="ghost" size="xs" text="RPC"]
+- [Animity](https://github.com/kl3jvi/animity){target="_blank"}
+- [Enimax](https://github.com/enimax-anime/enimax){target="_blank"}
+- [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap){target="_blank"}
   ===
 
 ### Manga
 
-- [**Tachiyomi**](https://github.com/tachiyomiorg/tachiyomi/) [!button variant="primary" size="xs" icon="globe" text="Web"](https://tachiyomi.org/) [!button variant="primary" size="xs" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/)
+- [**Tachiyomi**](https://github.com/tachiyomiorg/tachiyomi/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://tachiyomi.org/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/){target="_blank"}
   - Great Customizable UI
   - Ton of manga sources
   - Download and local reader support
   - Tracking & sync support
   - High cache consumption
-- [**Perfect Viewer**](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Local"]
+- [**Perfect Viewer**](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US){target="_blank"} [!badge variant="ghost" size="xs" text="Local"]
   - The reader itself is really good with a lot of filters
   - Has plugin support for the cloud services but not for manga websites
   - Support for all the comic formats.
   - The app is light but the UI looks old
   - A few features are behind paywall
-- [**Kotatsu**](https://github.com/KotatsuApp/Kotatsu) [!button variant="primary" size="xs" icon="globe" text="Web"](https://kotatsu.app/)
+- [**Kotatsu**](https://github.com/KotatsuApp/Kotatsu){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://kotatsu.app/){target="_blank"}
   - Minimalist UI with limited customization
   - Offers Manga Suggestions
   - Download and local reader support
@@ -76,25 +76,25 @@ ___
 
 ### Light Novel
 
-- [**Moon+ Reader Pro**](https://play.google.com/store/apps/details?id=com.flyersoft.moonreaderp&hl=en&gl=US)
+- [**Moon+ Reader Pro**](https://play.google.com/store/apps/details?id=com.flyersoft.moonreaderp&hl=en&gl=US){target="_blank"}
   - Customizable UI
   - Online source support
   - In-app reading analytics
   - Backup & restore support
   - No tracker support
   - Many features are paywalled, free version displays banner ads
-- [**ReadEra**](https://play.google.com/store/apps/details?id=org.readera&hl=en&gl=US)
+- [**ReadEra**](https://play.google.com/store/apps/details?id=org.readera&hl=en&gl=US){target="_blank"}
   - Nice UI with limited customization
   - Free version doesn't have ads.
   - No in-app reading analytics
   - Good amount of features are behind paywall
   - No online source & tracker support
-- [**Shosetsu**](https://gitlab.com/shosetsuorg/shosetsu) [!button variant="primary" size="xs" icon="globe" text="Web"](https://shosetsu.app/)
+- [**Shosetsu**](https://gitlab.com/shosetsuorg/shosetsu){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://shosetsu.app/){target="_blank"}
   - Minimal UI with a lot of customization
   - Has CSS support
   - Slow dowload and no epub conversion
   - No image, single page & tracking support
-- [**Quicknovel**](https://github.com/LagradOst/QuickNovel)
+- [**Quicknovel**](https://github.com/LagradOst/QuickNovel){target="_blank"}
   - Good UI with lots of customization including fonts
   - Fast dowload and epub conversion
   - Support images (only for supported sources)
@@ -103,10 +103,10 @@ ___
 
 === More
 
-- [LN Reader](https://github.com/LNReader/lnreader)
-- [Ranobe](https://github.com/ranobe-org/ranobe)
-- [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha)
-- [Lithium: EPUB Reader](https://play.google.com/store/apps/details?id=com.faultexception.reader&hl=en&gl=US)
+- [LN Reader](https://github.com/LNReader/lnreader){target="_blank"}
+- [Ranobe](https://github.com/ranobe-org/ranobe){target="_blank"}
+- [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha){target="_blank"}
+- [Lithium: EPUB Reader](https://play.google.com/store/apps/details?id=com.faultexception.reader&hl=en&gl=US){target="_blank"}
   ===
 
 ![](/static/banner/pc.png)
@@ -119,30 +119,30 @@ ___
 
 +++ Online
 
-- [**Houdoku**](https://houdoku.netlify.app/) [!badge variant="ghost" size="xs" text="win"] [!badge variant="ghost" size="xs" text="mac"] [!badge variant="ghost" size="xs" text="lin"]
+- [**Houdoku**](https://houdoku.netlify.app/){target="_blank"} [!badge variant="ghost" size="xs" text="win"] [!badge variant="ghost" size="xs" text="mac"] [!badge variant="ghost" size="xs" text="lin"]
     - Easy to setup
     - Good Customizable UI
     - Has good amount of extensions
     - Tracker integration
     - Can download manga
-- [**Tachidesk**](https://github.com/Suwayomi/Tachidesk-Server) [!badge variant="ghost" size="xs" text="win"] [!badge variant="ghost" size="xs" text="mac"] [!badge variant="ghost" size="xs" text="lin"]
+- [**Tachidesk**](https://github.com/Suwayomi/Tachidesk-Server){target="_blank"} [!badge variant="ghost" size="xs" text="win"] [!badge variant="ghost" size="xs" text="mac"] [!badge variant="ghost" size="xs" text="lin"]
     - Uses the same extensions and backups as tachiyomi so good extension support
     - UI is same as tachiyomi
     - Can download manga
     - No tracker integration
 
 === Clients
-- [**Tachidesk base**](https://github.com/Suwayomi/Tachidesk-Server)
+- [**Tachidesk base**](https://github.com/Suwayomi/Tachidesk-Server){target="_blank"}
     - lots of sources to pick from
     - basic settings for reading
     - lacks basic reader features
     - complicated requirements such as JAVA
-- [**Sorayomi**](https://github.com/Suwayomi/Tachidesk-Sorayomi)
+- [**Sorayomi**](https://github.com/Suwayomi/Tachidesk-Sorayomi){target="_blank"}
     - Needs Tachidesk server to work
     - Minimal and easy to use, outdated 2022
     - insufficient features
     - loads slowly (depends on your internet)
-- [**Tachidesk JUI**](https://github.com/Suwayomi/Tachidesk-JUI)
+- [**Tachidesk JUI**](https://github.com/Suwayomi/Tachidesk-JUI){target="_blank"}
     - Needs Tachidesk server to work
     - Batch downloading manga
     - new tab window while stream reading
@@ -151,23 +151,23 @@ ___
 
 +++ Offline
 
-- [**CDisplayEx**](https://www.cdisplayex.com/) [!badge variant="ghost" size="xs" text="win"]
+- [**CDisplayEx**](https://www.cdisplayex.com/){target="_blank"} [!badge variant="ghost" size="xs" text="win"]
     - Minimalist UI
     - Fast and simple reader with good amount of configuration
     - Has more resizing options
     - No vertical reading mode
-- [**YACReader**](https://www.yacreader.com/) [!badge variant="ghost" size="xs" text="win"] [!badge variant="ghost" size="xs" text="mac"] [!badge variant="ghost" size="xs" text="lin"]
+- [**YACReader**](https://www.yacreader.com/){target="_blank"} [!badge variant="ghost" size="xs" text="win"] [!badge variant="ghost" size="xs" text="mac"] [!badge variant="ghost" size="xs" text="lin"]
     - Fast and customizable
     - Comes with YAClibrary, which is like calibre for comics
     - No vertical reading mode
-- [**OpenComic**](https://github.com/ollm/OpenComic) [!badge variant="ghost" size="xs" text="win"] [!badge variant="ghost" size="xs" text="mac"] [!badge variant="ghost" size="xs" text="lin"]
+- [**OpenComic**](https://github.com/ollm/OpenComic){target="_blank"} [!badge variant="ghost" size="xs" text="win"] [!badge variant="ghost" size="xs" text="mac"] [!badge variant="ghost" size="xs" text="lin"]
     - Decent UI
     - Initial load times is slightly slower than above two readers
     - Has vertical reading mode with limited amount of customization
     - Does not clear cache automatically. Have to do it manually
 
 +++ Hosting
-- [**Komga**](https://komga.org/)
+- [**Komga**](https://komga.org/){target="_blank"}
     - Media server for manga/comics (like plex for manga).
     - Integrates with tachiyomi, OPDS reader or anything else using komga rest api.
     - Community built tools can be added though it's rest api for extra features like dupe detection, media analysis for corrupt files, .cbl read lists and much more.
@@ -176,7 +176,7 @@ ___
     - Supported as a source in MALSync, for AniList/MAL tracking
     - Follows the 1-folder-to-1-series paradigm (unless you designate a folder as a folder of oneshots) so you'll need to organize your files accordingly.
     - Only supports image-based formats. Can't be used to LNs
-- [**Kavita**](https://www.kavitareader.com/)
+- [**Kavita**](https://www.kavitareader.com/){target="_blank"}
     - Kavita is a media server for Manga and Light Novels (or eBooks).
     - Supports Tachiyomi, Paperback, OPDS readers, and REST API.
     - User management is done through email invites. By detault, it uses the Kavita mail server, but other mail servers can be used too.
@@ -186,13 +186,13 @@ ___
 
 +++
 === More
-- [Yomikiru](https://github.com/mienaiyami/yomikiru) [!badge variant="ghost" size="xs" text="offline"]
-- [LANraragi](https://github.com/Difegue/LANraragi) [!badge variant="ghost" size="xs" text="Self-hosted"]
+- [Yomikiru](https://github.com/mienaiyami/yomikiru){target="_blank"} [!badge variant="ghost" size="xs" text="offline"]
+- [LANraragi](https://github.com/Difegue/LANraragi){target="_blank"} [!badge variant="ghost" size="xs" text="Self-hosted"]
 ===
 
 ### Anime
 
-- [Miru](https://github.com/ThaUnknown/miru/)
+- [Miru](https://github.com/ThaUnknown/miru/){target="_blank"}
   - Torrent based
   - Pretty good UI with schedule and advanced search
   - Has AL tracking and RSS feed
@@ -200,10 +200,10 @@ ___
 
 ### Light Novel
 
-- [Kavita](https://github.com/Kareadita/Kavita) [!button variant="primary" size="xs" icon="globe" text="Web"](https://www.kavitareader.com/)
-- [Thorium reader](https://github.com/edrlab/thorium-reader)
-- [Novel Reader](https://github.com/Kevin-Umali/NovelReader)
-- [Koodo Reader](https://github.com/troyeguo/koodo-reader) [!button variant="primary" size="xs" icon="globe" text="Web"](https://koodo.960960.xyz/en)
+- [Kavita](https://github.com/Kareadita/Kavita){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://www.kavitareader.com/){target="_blank"}
+- [Thorium reader](https://github.com/edrlab/thorium-reader){target="_blank"}
+- [Novel Reader](https://github.com/Kevin-Umali/NovelReader){target="_blank"}
+- [Koodo Reader](https://github.com/troyeguo/koodo-reader){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://koodo.960960.xyz/en){target="_blank"}
 
 ![](/static/banner/ios.png)
 
@@ -213,13 +213,13 @@ ___
 
 ### Anime
 
-- [**Anime Now**](https://github.com/AnimeNow-Team/AnimeNow)
+- [**Anime Now**](https://github.com/AnimeNow-Team/AnimeNow){target="_blank"}
   - Great UI with extension support
   - Downloading episode is supported support
   - Casting support
   - Tracking support
   - Only available trough sideloading
-- [**9Animator**](https://github.com/SuperMarcus/NineAnimator)
+- [**9Animator**](https://github.com/SuperMarcus/NineAnimator){target="_blank"}
   - Decent UI with extension integration
   - Casting & notification support
   - Tracking support
@@ -229,26 +229,26 @@ ___
 
 ### Manga
 
-- [**Paperback**](https://github.com/Paperback-iOS/app) [!button variant="primary" size="xs" icon="globe" text="Web"](https://paperback.moe/)
+- [**Paperback**](https://github.com/Paperback-iOS/app){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://paperback.moe/){target="_blank"}
   - Very clean UI with changeable theme
   - Tracker & sync support
   - Many different download options
   - AppStore Release only for selected countries
-- [**Aidoku**](https://github.com/Aidoku/Aidoku) [!button variant="primary" size="xs" icon="globe" text="Web"](https://aidoku.app/)
+- [**Aidoku**](https://github.com/Aidoku/Aidoku){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://aidoku.app/){target="_blank"}
   - Available on Tesflight (no Sideloading needed)
   - Many sources
   - Tracker support
   - Chapter download possible
   - Still in active Development
-- [**YACReader**](https://apps.apple.com/app/id635717885) [!badge variant="ghost" size="xs" text="Local"] [!badge variant="ghost" size="xs" text="Paid"]
+- [**YACReader**](https://apps.apple.com/app/id635717885){target="_blank"} [!badge variant="ghost" size="xs" text="Local"] [!badge variant="ghost" size="xs" text="Paid"]
   - Multiple transfer options and local reader support
   - Support for cbz, cbr, zip, tar, arj, pdf, and rar formats as well as image formats
   - Ability to backup comics
-- [**Hanami**](https://github.com/oolxg/Hanami)
+- [**Hanami**](https://github.com/oolxg/Hanami){target="_blank"}
   - Available on Testflight (no Sideloading required)
   - OK-ish UI with some lags
   - only MangaDex as a source. So, therefore no official releases
-- [**SideBooks**](https://apps.apple.com/us/app/sidebooks/id409777225) [!badge variant="ghost" size="xs" text="Cloud"]
+- [**SideBooks**](https://apps.apple.com/us/app/sidebooks/id409777225){target="_blank"} [!badge variant="ghost" size="xs" text="Cloud"]
   - Supports PDF,ZIP,CBZ,RAR and CBR
   - Has all the necessary features
   - Old looking UI but very functional and customizable.
@@ -262,47 +262,47 @@ ___
 
 ### Anime
 
-- [Hakuneko](https://github.com/manga-download/hakuneko)
-- [AnimeDL](https://github.com/justfoolingaround/animdl)
-- [adl](https://github.com/RaitaroH/adl)
-- [Crunchy-cli](https://github.com/crunchy-labs/crunchy-cli)
-- [Crunchyroll Downloader v3.0](https://github.com/hama3254/Crunchyroll-Downloader-v3.0)
-- [Nyaa Downloader](https://github.com/marcpinet/nyaadownloader)
+- [Hakuneko](https://github.com/manga-download/hakuneko){target="_blank"}
+- [AnimeDL](https://github.com/justfoolingaround/animdl){target="_blank"}
+- [adl](https://github.com/RaitaroH/adl){target="_blank"}
+- [Crunchy-cli](https://github.com/crunchy-labs/crunchy-cli){target="_blank"}
+- [Crunchyroll Downloader v3.0](https://github.com/hama3254/Crunchyroll-Downloader-v3.0){target="_blank"}
+- [Nyaa Downloader](https://github.com/marcpinet/nyaadownloader){target="_blank"}
 
 
 ### Manga
 
-- [**Hakuneko**](https://github.com/manga-download/hakuneko)
+- [**Hakuneko**](https://github.com/manga-download/hakuneko){target="_blank"}
   - Currently the best downloader
   - Huge number of sites supported
   - Customizable UI
   - Can dowload anime too
-- [**Free Manga Downloader 2**](https://github.com/dazedcat19/FMD2)
+- [**Free Manga Downloader 2**](https://github.com/dazedcat19/FMD2){target="_blank"}
   - Supports  almost every major site
-- [**MangaL**](https://github.com/metafates/mangal)
+- [**MangaL**](https://github.com/metafates/mangal){target="_blank"}
   - TUI based
   - Very Fast
   - You can add your own lua scrapers for non-supported sites (mangadex and mangasee already supported)
-- [**Mangadex Downloader**](https://github.com/mansuf/mangadex-downloader)
+- [**Mangadex Downloader**](https://github.com/mansuf/mangadex-downloader){target="_blank"}
   - CLI based
   - Mangadex downloader
   - Easy to use and fast 
-- [**HDoujin Downloader**](https://github.com/HDoujinDownloader/HDoujinDownloader)
+- [**HDoujin Downloader**](https://github.com/HDoujinDownloader/HDoujinDownloader){target="_blank"}
   - Huge list of supported nsfw sites
   - Good UI, many settings and amazing speed
   - But has a 25 chapter daily limit
-- [**Hitomi Downloader**](https://github.com/KurtBestor/Hitomi-Downloader)
+- [**Hitomi Downloader**](https://github.com/KurtBestor/Hitomi-Downloader){target="_blank"}
   - Supports mostly nsfw sites but works great for the supported ones
 
 ### Light Novel
 
-- [Light novel Crawler](https://github.com/dipu-bd/lightnovel-crawler)
-- [Novel Grabber](https://github.com/Flameish/Novel-Grabber)
+- [Light novel Crawler](https://github.com/dipu-bd/lightnovel-crawler){target="_blank"}
+- [Novel Grabber](https://github.com/Flameish/Novel-Grabber){target="_blank"}
 
 ### Others
 
-- [gallery-dl](https://github.com/mikf/gallery-dl)
-- [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/)
-- [PixivUtil2](https://github.com/Nandaka/PixivUtil2)
+- [gallery-dl](https://github.com/mikf/gallery-dl){target="_blank"}
+- [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/){target="_blank"}
+- [PixivUtil2](https://github.com/Nandaka/PixivUtil2){target="_blank"}
 
 > You can find more PC related tools [**here**](/addons.md/#tools)

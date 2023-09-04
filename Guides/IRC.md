@@ -1,7 +1,7 @@
 ---
 label: IRC
 ---
-![](https://cdn.apollo.moe/img/irc.png)
+![](https://cdn.apollo.moe/img/irc.png){target="_blank"}
 # IRC & XDCC
 
 >IRC stands for Internet Relay Chat. It's a real-time chat protocol that allows people to communicate with each other in online chat rooms. IRC has been around since the late 1980s and is still used today, although it has largely been replaced by newer chat technologies like Discord.
@@ -25,35 +25,35 @@ You may face some issue if you turn on SSL while logging in.
 
 
 ## IRC Client
-- [Revolution IRC](https://play.google.com/store/apps/details?id=io.mrarm.irc)		[!badge variant="ghost" text="Android"]
-- [AndroIRC](https://play.google.com/store/apps/details?id=com.androirc&hl=en&gl=US)		[!badge variant="ghost" text="Android"]
-- [hexchat](https://hexchat.github.io/)		[!badge variant="ghost" text="Windows"]
-- [mIRC](https://www.mirc.com/)		[!badge variant="ghost" text="Windows"]
-- [AdiIRC](https://adiirc.com/)	[!badge variant="ghost" text="Windows"]
-- [KVIrc](https://github.com/kvirc/KVIrc/releases) [!badge variant="ghost" text="Windows"] [!badge variant="ghost" text="Linux"] [!badge variant="ghost" text="macOS"]
-- [Irssi](https://irssi.org/)	[!badge variant="ghost" text="Linux"]
-- [WeeChat](https://weechat.org/)	[!badge variant="ghost" text="Linux"] [!badge variant="ghost" text="macOS"]
-- [LimeChat](https://apps.apple.com/us/app/limechat/id414030210) [!badge variant="ghost" text="macOS"]
+- [Revolution IRC](https://play.google.com/store/apps/details?id=io.mrarm.irc){target="_blank"}		[!badge variant="ghost" text="Android"]
+- [AndroIRC](https://play.google.com/store/apps/details?id=com.androirc&hl=en&gl=US){target="_blank"}		[!badge variant="ghost" text="Android"]
+- [hexchat](https://hexchat.github.io/){target="_blank"}		[!badge variant="ghost" text="Windows"]
+- [mIRC](https://www.mirc.com/){target="_blank"}		[!badge variant="ghost" text="Windows"]
+- [AdiIRC](https://adiirc.com/){target="_blank"}	[!badge variant="ghost" text="Windows"]
+- [KVIrc](https://github.com/kvirc/KVIrc/releases){target="_blank"} [!badge variant="ghost" text="Windows"] [!badge variant="ghost" text="Linux"] [!badge variant="ghost" text="macOS"]
+- [Irssi](https://irssi.org/){target="_blank"}	[!badge variant="ghost" text="Linux"]
+- [WeeChat](https://weechat.org/){target="_blank"}	[!badge variant="ghost" text="Linux"] [!badge variant="ghost" text="macOS"]
+- [LimeChat](https://apps.apple.com/us/app/limechat/id414030210){target="_blank"} [!badge variant="ghost" text="macOS"]
 !!!info
-More clients [**here.**](https://ircv3.net/software/clients)
+More clients [**here.**](https://ircv3.net/software/clients){target="_blank"}
 !!!
 
 
 ## XDCC Packlists
-- [**nibl**](https://nibl.co.uk/search)	[!badge variant="ghost" text="Anime"]
+- [**nibl**](https://nibl.co.uk/search){target="_blank"}	[!badge variant="ghost" text="Anime"]
 	- Server: `irc.rizon.net`
 	- Port: `6697`
 	- Channel: `#nibl`
-- [**subsplease**](https://subsplease.org/xdcc/) [!badge variant="ghost" text="Anime"]
+- [**subsplease**](https://subsplease.org/xdcc/){target="_blank"} [!badge variant="ghost" text="Anime"]
 	- Server: `irc.rizon.net`
 	- Port: `6697`
 	- Channel: `#subsplease`
-- [**animk**](https://animk.info/xdcc/) [!badge variant="ghost" text="Anime"]
+- [**animk**](https://animk.info/xdcc/){target="_blank"} [!badge variant="ghost" text="Anime"]
 	- Server: `irc.xertion.org`
 	- Port: `6697`
 	- Channel: `#MK` or `XDCCLeech`
-- [**XDCC EU**](https://www.xdcc.eu/)	[!badge variant="ghost" text="General"]
-- [**SunXDCC**](https://sunxdcc.com/)	[!badge variant="ghost" text="General"]
+- [**XDCC EU**](https://www.xdcc.eu/){target="_blank"}	[!badge variant="ghost" text="General"]
+- [**SunXDCC**](https://sunxdcc.com/){target="_blank"}	[!badge variant="ghost" text="General"]
 
 !!!light Both **XDCC EU** and **SunXDCC** don't have a single bot channel. They mention the server and the channel address in the search result.
 !!!
@@ -78,5 +78,5 @@ More clients [**here.**](https://ircv3.net/software/clients)
 - `/msg [botname] XDCC BATCH [a],[b],[c] [password]` → Request packs with numbers [a],[b] and [c], with password "password" from the bot.
 - `/msg [botname] XDCC BATCH [a],[b],[c]-[d]` → Request packs with numbers a, b and c to d from the bot. (i.e, you can combine the two methods of saying which set of packs you want)
 
-!!!light More commands are [**here**](https://wiki.xertion.org/w/XDCC_Commands).
+!!!light More commands are [**here**](https://wiki.xertion.org/w/XDCC_Commands){target="_blank"}.
 !!!

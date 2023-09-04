@@ -5,7 +5,7 @@ description: Curated websites for anime, manga, ln & vn.
 icon: ":earth_asia:"
 ---
 
-![](https://cdn.apollo.moe/img/web.png)
+![](https://cdn.apollo.moe/img/web.png){target="_blank"}
 
 # Websites
 
@@ -26,101 +26,101 @@ ___
 **Note**: None of the websites mentioned are exclusively dedicated to NSFW content. [**Click here**](/nsfw.md) for the dedicated sites.
 ===
 
-> Use [!badge variant="dark" icon="/static/icon/ada.png" text="AdAway"](https://adaway.org/) or [!badge variant="dark" icon="/static/icon/adg.png" text="Adguard"](https://adguard.com/en/welcome.html) on Android and [!badge variant="dark" icon="/static/icon/ubo.png" text="uBlock Origin"](https://ublockorigin.com/) in browsers to get rid of all the ads and trackers. For iOS, use [!badge variant="dark" icon="/static/icon/ahadns.png" text="AhaDNS"](https://blitz-setup.ahadns.com/) as profile.
+> Use [!badge variant="dark" target="blank" icon="/static/icon/ada.png" text="AdAway"](https://adaway.org/){target="_blank"} or [!badge variant="dark" target="blank" icon="/static/icon/adg.png" text="Adguard"](https://adguard.com/en/welcome.html){target="_blank"} on Android and [!badge variant="dark" target="blank" icon="/static/icon/ubo.png" text="uBlock Origin"](https://ublockorigin.com/){target="_blank"} in browsers to get rid of all the ads and trackers. For iOS, use [!badge variant="dark" target="blank" icon="/static/icon/ahadns.png" text="AhaDNS"](https://blitz-setup.ahadns.com/){target="_blank"} as profile.
 
 
 ![](/static/banner/anime.png)
 
 ## Anime
 
-If you want to get the best quality, use [Direct Download](/Websites.md/#direct-download-1), [IRC](/Websites.md/#irc), or [Torrent](/Websites.md/#torrents). You can obtain full web release quality on a streaming site that scrapes the official site API, such as [KickAssAnime](https://kickassanime.am/) for Crunchyroll and Bilibili content. Otherwise, it is hard to maintain the full quality while managing space & traffic. You can [**network stream**](/Guides/ns.md) files from direct download, irc and torrents.
+If you want to get the best quality, use [Direct Download](/Websites.md/#direct-download-1), [IRC](/Websites.md/#irc), or [Torrent](/Websites.md/#torrents). You can obtain full web release quality on a streaming site that scrapes the official site API, such as [KickAssAnime](https://kickassanime.am/){target="_blank"} for Crunchyroll and Bilibili content. Otherwise, it is hard to maintain the full quality while managing space & traffic. You can [**network stream**](/Guides/ns.md) files from direct download, irc and torrents.
 ___
 
 ### Stream
 
-- [**Aniwave**](https://aniwave.to/home) [!badge variant="dark" size="xs" text="formerly 9anime"]
+- [**Aniwave**](https://aniwave.to/home){target="_blank"} [!badge variant="dark" target="blank" size="xs" text="formerly 9anime"]
     - Huge library with Watch Together feature
     - Less amount of compression compared to other sites that use 3rd party hosts
-    - Original site's UI is bloated. Use [Anix](https://anix.to/home) or [9animehq](https://9animehq.to/home) for more minimal experience.
-- [**Marin**](https://marin.moe/)
+    - Original site's UI is bloated. Use [Anix](https://anix.to/home){target="_blank"} or [9animehq](https://9animehq.to/home){target="_blank"} for more minimal experience.
+- [**Marin**](https://marin.moe/){target="_blank"}
     - Re-encodes files of other encoder groups while keeping the quality consistent
     - Uploads encoded **Blu-ray** versions if available
     - Clutter-free design and no watermark
     - Marin has a good amount of missing titles, especially movies
-- [**KickAssAnime**](https://kickassanime.am/) [!button variant="primary" size="xs" text="Proxies"](https://kickassanimes.info/)
+- [**KickAssAnime**](https://kickassanime.am/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Proxies"](https://kickassanimes.info/){target="_blank"}
     - Scrapes **Crunchyroll**(duckstream) and **Bilibili**(birdstream)
     - KAA encodes(videstreaming) are decent with lower overall bitrate. Use the previous two if available. Duck has the highest overall bitrate
     - Has both hardsub(duck) & softsub(rest) 
-    - Still a beta site and has missing titles. But, you can request them in their support server
-- [**Aniwatch**](https://aniwatch.to/home) [!badge variant="dark" size="xs" text="formerly Zoro"]
+    - Has missing titles. But, you can request them in their support server
+- [**Aniwatch**](https://aniwatch.to/home){target="_blank"} [!badge variant="dark" target="blank" size="xs" text="formerly Zoro"]
     - Huge library with Watch Together feature
     - Re-encodes shows for smaller size with lower overall bitrate.
     - Softsubs may create issues in different scenarios, but can be beneficial for multi-language support
-- [**Animepahe**](https://animepahe.com/)
+- [**Animepahe**](https://animepahe.com/){target="_blank"}
     - Uploads mini encoded files, useful if you want smaller files or have low bandwidth
     - Uploads **Blu-ray** and **DVD** versions if available
     - Has a good amount of missing titles
 
 === More
-- [Animeflix](https://animeflix.live/)
-- [AnimeUI](https://animeui.com/) [!badge variant="ghost" size="xs" text="IPFS"] [!badge variant="ghost" size="xs" text="Small library"] [!badge variant="ghost" size="xs" text="Great Quality"]
-- [Kaguya](https://kaguya.app) [!badge variant="ghost" size="xs" text="Needs extension"]
-- [One Pace](https://onepace.net/) [!button variant="primary" size="xs" text="Streamio"](hhttps://fedew04.github.io/OnePaceStremio/manifest.json) [!button variant="primary" size="xs" text="Direct Stream"](https://rentry.co/onepace) [!badge variant="ghost" size="xs" text="Torrent"]
-- [Pokémon TV](https://poke-tv.vercel.app/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/seiya-dev/pokemon-tv) [!badge variant="ghost" size="xs" text="Multi-lang"]
-- [AnimeXin](https://animexin.vip/) [!badge variant="ghost" size="xs" text="Donghua"]
-- [Lucifer Donghua](https://luciferdonghua.in/) [!badge variant="ghost" size="xs" text="Donghua"]
-- [LM Anime](https://lmanime.com/) [!badge variant="ghost" size="xs" text="Donghua"]
-- [Myanime](https://myanime.live/) [!badge variant="ghost" size="xs" text="Donghua"]
-- [Muse Asia](https://www.youtube.com/@MuseAsia/) [!badge variant="ghost" size="xs" text="Legal"] [!badge variant="ghost" size="xs" text="Regional"]
-- [Ani-One Asia](https://www.youtube.com/AniOneAsia/) [!badge variant="ghost" size="xs" text="Legal"] [!badge variant="ghost" size="xs" text="Regional"]
+- [Animeflix](https://animeflix.live/){target="_blank"}
+- [AnimeUI](https://animeui.com/){target="_blank"} [!badge variant="ghost" size="xs" text="IPFS"] [!badge variant="ghost" size="xs" text="Small library"] [!badge variant="ghost" size="xs" text="Great Quality"]
+- [Kaguya](https://kaguya.app){target="_blank"} [!badge variant="ghost" size="xs" text="Needs extension"]
+- [One Pace](https://onepace.net/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Streamio"](hhttps://fedew04.github.io/OnePaceStremio/manifest.json) [!button target="blank" variant="primary" size="xs" text="Direct Stream"](https://rentry.co/onepace){target="_blank"} [!badge variant="ghost" size="xs" text="Torrent"]
+- [Pokémon TV](https://poke-tv.vercel.app/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/seiya-dev/pokemon-tv){target="_blank"} [!badge variant="ghost" size="xs" text="Multi-lang"]
+- [AnimeXin](https://animexin.vip/){target="_blank"} [!badge variant="ghost" size="xs" text="Donghua"]
+- [Lucifer Donghua](https://luciferdonghua.in/){target="_blank"} [!badge variant="ghost" size="xs" text="Donghua"]
+- [LM Anime](https://lmanime.com/){target="_blank"} [!badge variant="ghost" size="xs" text="Donghua"]
+- [Myanime](https://myanime.live/){target="_blank"} [!badge variant="ghost" size="xs" text="Donghua"]
+- [Muse Asia](https://www.youtube.com/@MuseAsia/){target="_blank"} [!badge variant="ghost" size="xs" text="Legal"] [!badge variant="ghost" size="xs" text="Regional"]
+- [Ani-One Asia](https://www.youtube.com/AniOneAsia/){target="_blank"} [!badge variant="ghost" size="xs" text="Legal"] [!badge variant="ghost" size="xs" text="Regional"]
 ===
 
 ### Torrents
 
-- [Nyaa](https://nyaa.si/) [!button variant="primary" size="xs" text="Proxy 1"](https://nyaa.iss.one/)  [!button variant="primary" size="xs" text="Proxy 2"](https://nyaa.iss.ink/)
-- [Animek](https://animek.fun/)
-- [Anime Tosho](https://animetosho.org/) [!badge variant="ghost" size="xs" text="DDL"]
-- [Anidex](https://anidex.info/)
-- [Anirena](https://www.anirena.com/)
-- [Shana Project](https://www.shanaproject.com/) | [Tokyo tosho](https://www.tokyotosho.info/)
-- [Anime Bytes](https://animebytes.tv/) [!badge variant="ghost" size="xs" text="Private tracker"]
-- [Baka BT](https://bakabt.me/) [!badge variant="ghost" size="xs" text="Private tracker"]
-- [U2](https://u2.dmhy.org/portal.php) [!badge variant="ghost" size="xs" text="Private tracker"]
+- [Nyaa](https://nyaa.si/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Proxy 1"](https://nyaa.iss.one/){target="_blank"}  [!button target="blank" variant="primary" size="xs" text="Proxy 2"](https://nyaa.iss.ink/){target="_blank"}
+- [Animek](https://animek.fun/){target="_blank"}
+- [Anime Tosho](https://animetosho.org/){target="_blank"} [!badge variant="ghost" size="xs" text="DDL"]
+- [Anidex](https://anidex.info/){target="_blank"}
+- [Anirena](https://www.anirena.com/){target="_blank"}
+- [Shana Project](https://www.shanaproject.com/){target="_blank"} | [Tokyo tosho](https://www.tokyotosho.info/){target="_blank"}
+- [Anime Bytes](https://animebytes.tv/){target="_blank"} [!badge variant="ghost" size="xs" text="Private tracker"]
+- [Baka BT](https://bakabt.me/){target="_blank"} [!badge variant="ghost" size="xs" text="Private tracker"]
+- [U2](https://u2.dmhy.org/portal.php){target="_blank"} [!badge variant="ghost" size="xs" text="Private tracker"]
 
 ==- :icon-light-bulb: Quick Tips
 
-> For torrent related terms, [click here](https://rentry.org/The-Piracy-Glossary#torrenting-terms).
+> For torrent related terms, [click here](https://rentry.org/The-Piracy-Glossary#torrenting-terms){target="_blank"}.
 
-> Recommended torrent client for Android is [!badge variant="dark" icon="/static/icon/lt.png" text="libretorrent"](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent). For Windows, Linux & macOS, use [!badge variant="dark" icon="/static/icon/qb.svg" text="qBittorrent"](https://www.qbittorrent.org/) or [!badge variant="dark" icon="/static/icon/trans.png" text="Transmission"](https://transmissionbt.com/).
+> Recommended torrent client for Android is [!badge variant="dark" target="blank" icon="/static/icon/lt.png" text="libretorrent"](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent){target="_blank"}. For Windows, Linux & macOS, use [!badge variant="dark" target="blank" icon="/static/icon/qb.svg" text="qBittorrent"](https://www.qbittorrent.org/){target="_blank"} or [!badge variant="dark" target="blank" icon="/static/icon/trans.png" text="Transmission"](https://transmissionbt.com/){target="_blank"}.
 
-> For VPN, use [!badge variant="dark" icon="/static/icon/mv.png" text="Mullvad"](https://mullvad.net/) or [!badge variant="dark" icon="/static/icon/ivpn.png" text="IVPN"](https://www.ivpn.net/). If you want free alternative, use [!badge variant="dark" icon="/static/icon/wind.png" text="Windscribe"](https://windscribe.com/).
+> For VPN, use [!badge variant="dark" target="blank" icon="/static/icon/mv.png" text="Mullvad"](https://mullvad.net/){target="_blank"} or [!badge variant="dark" target="blank" icon="/static/icon/ivpn.png" text="IVPN"](https://www.ivpn.net/){target="_blank"}. If you want free alternative, use [!badge variant="dark" target="blank" icon="/static/icon/wind.png" text="Windscribe"](https://windscribe.com/){target="_blank"}.
 
-> Use [Seadex](https://releases.moe/) or [Sneedex](https://sneedex.moe/) to find the best uploads available.
+> Use [Seadex](https://releases.moe/){target="_blank"} or [Sneedex](https://sneedex.moe/){target="_blank"} to find the best uploads available.
 
 ===
 
 ### Direct Download
-- [Tokyo Insider](https://www.tokyoinsider.com/) [!badge variant="ghost" size="xs" text="Direct"] [!badge variant="ghost" size="xs" text="no ad"]
-- [Anime out](https://www.animeout.xyz/) [!badge variant="ghost" size="xs" text="Direct"] [!badge variant="ghost" size="xs" text="no ad"]
-- [Judas](https://rentry.org/judas-ddl) [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="no ad"]
-- [hi10anime](https://hi10anime.com/) [!badge variant="ghost" size="xs" text="Direct"] [!badge variant="ghost" size="xs" text="ad"]
-- [Anime Senpai](https://www.animesenpai4u.com/) [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="Mega"] [!badge variant="ghost" size="xs" text="no ad"]
-- [Kayo anime](https://kayoanime.com/) [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="no ad"]
-- [Chauthanh](https://chauthanh.info/) [!badge variant="ghost" size="xs" text="Direct"] [!badge variant="ghost" size="xs" text="no ad"]
-- [Anime time](https://www.animetime.pw/) [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="ad"]
-- [RIP Crabby Anime](https://ripcrabbyanime.in/) [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="no ad"]
-- [JPFiles](https://jpfiles.eu/) [!badge size="xs" variant="ghost" text="Blu-ray"] [!badge variant="ghost" size="xs" text="Misc"] [!badge variant="ghost" size="xs" text="Host"]
+- [Tokyo Insider](https://www.tokyoinsider.com/){target="_blank"} [!badge variant="ghost" size="xs" text="Direct"] [!badge variant="ghost" size="xs" text="no ad"]
+- [Anime out](https://www.animeout.xyz/){target="_blank"} [!badge variant="ghost" size="xs" text="Direct"] [!badge variant="ghost" size="xs" text="no ad"]
+- [Judas](https://rentry.org/judas-ddl){target="_blank"} [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="no ad"]
+- [hi10anime](https://hi10anime.com/){target="_blank"} [!badge variant="ghost" size="xs" text="Direct"] [!badge variant="ghost" size="xs" text="ad"]
+- [Anime Senpai](https://www.animesenpai4u.com/){target="_blank"} [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="Mega"] [!badge variant="ghost" size="xs" text="no ad"]
+- [Kayo anime](https://kayoanime.com/){target="_blank"} [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="no ad"]
+- [Chauthanh](https://chauthanh.info/){target="_blank"} [!badge variant="ghost" size="xs" text="Direct"] [!badge variant="ghost" size="xs" text="no ad"]
+- [Anime time](https://www.animetime.pw/){target="_blank"} [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="ad"]
+- [RIP Crabby Anime](https://ripcrabbyanime.in/){target="_blank"} [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="no ad"]
+- [JPFiles](https://jpfiles.eu/){target="_blank"} [!badge size="xs" variant="ghost" text="Blu-ray"] [!badge variant="ghost" size="xs" text="Misc"] [!badge variant="ghost" size="xs" text="Host"]
 - [JPLearner](http://www.jplearner.to/) [!badge size="xs" variant="ghost" text="Blu-ray"] [!badge variant="ghost" size="xs" text="Misc"] [!badge variant="ghost" size="xs" text="Host"]
-- [AnimeRSS](https://animerss.com/) [!badge size="xs" variant="ghost" text="Blu-ray"] [!badge variant="ghost" size="xs" text="Host"]
+- [AnimeRSS](https://animerss.com/){target="_blank"} [!badge size="xs" variant="ghost" text="Blu-ray"] [!badge variant="ghost" size="xs" text="Host"]
 
-> To download in Android, use [!badge variant="dark" icon="/static/icon/1dm.png" text="1DM"](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US), [!badge variant="dark" icon="/static/icon/fdm.png" text="FDM"](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm&hl=en&gl=US) or [!badge variant="dark" icon="/static/icon/adm.png" text="ADM"](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US). For PC, use [!badge variant="dark" icon="/static/icon/idm.webp" text="IDM"](https://www.internetdownloadmanager.com/), [!badge variant="dark" icon="/static/icon/jdl.png" text="JDL"](https://jdownloader.org/) or [!badge variant="dark" icon="/static/icon/fdm.png" text="FDM"](https://www.freedownloadmanager.org/). You can use JDL & FDM on Linux & macOS too. Use [IAS](https://massgrave.dev/idm-activation-script.html) to activate IDM. Read [this guide](https://rentry.org/jdownloader2) to debloat JDL.
+> To download in Android, use [!badge variant="dark" target="blank" icon="/static/icon/1dm.png" text="1DM"](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US){target="_blank"}, [!badge variant="dark" target="blank" icon="/static/icon/fdm.png" text="FDM"](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm&hl=en&gl=US){target="_blank"} or [!badge variant="dark" target="blank" icon="/static/icon/adm.png" text="ADM"](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US){target="_blank"}. For PC, use [!badge variant="dark" target="blank" icon="/static/icon/idm.webp" text="IDM"](https://www.internetdownloadmanager.com/){target="_blank"}, [!badge variant="dark" target="blank" icon="/static/icon/jdl.png" text="JDL"](https://jdownloader.org/){target="_blank"} or [!badge variant="dark" target="blank" icon="/static/icon/fdm.png" text="FDM"](https://www.freedownloadmanager.org/){target="_blank"}. You can use JDL & FDM on Linux & macOS too. Use [IAS](https://massgrave.dev/idm-activation-script.html){target="_blank"} to activate IDM. Read [this guide](https://rentry.org/jdownloader2){target="_blank"} to debloat JDL.
 
 ### IRC
-- [**nibl**](https://nibl.co.uk/search)
+- [**nibl**](https://nibl.co.uk/search){target="_blank"}
 	- Server: `irc.rizon.net`
 	- Port: `6697`
 	- Channel: `#nibl`
-- [**subsplease**](https://subsplease.org/xdcc/)
+- [**subsplease**](https://subsplease.org/xdcc/){target="_blank"}
 	- Server: `irc.rizon.net`
 	- Port: `6697`
 	- Channel: `#subsplease`
@@ -128,17 +128,17 @@ ___
 	- Server: `irc.rizon.net`
 	- Port: `6697`
 	- Channel: `#madokami`
-- [**animk**](https://animk.info/xdcc/)
+- [**animk**](https://animk.info/xdcc/){target="_blank"}
 	- Server: `irc.xertion.org`
 	- Port: `6697`
 	- Channel: `#MK` or `XDCCLeech`
-- [**XDCC EU**](https://www.xdcc.eu/)
-- [**SunXDCC**](https://sunxdcc.com/)
-- [**Anidex**](https://xdcc.anidex.moe/) (`Michiko` bot is over at `#Doki`)
+- [**XDCC EU**](https://www.xdcc.eu/){target="_blank"}
+- [**SunXDCC**](https://sunxdcc.com/){target="_blank"}
+- [**Anidex**](https://xdcc.anidex.moe/){target="_blank"} (`Michiko` bot is over at `#Doki`)
 
 > To learn how to use IRC, you can read [**the guide**](/Guides/IRC.md).
 
-> All the **Legal** anime streaming services are listed [here](https://otakulogy.github.io/anime-streaming/).
+> All the **Legal** anime streaming services are listed [here](https://otakulogy.github.io/anime-streaming/){target="_blank"}.
 
 
 ![](/static/banner/manga.png)
@@ -150,130 +150,130 @@ ___
 
 ### Reader
 
-- [**Mangadex**](https://mangadex.org/) [!badge variant="danger" size="xs" text="R+"]
+- [**Mangadex**](https://mangadex.org/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
     - Uploads without compression
     - Best reader UI
     - Uploads from various scanlation groups
-    - No official translations[^*^](https://mangadex.org/rules#content_restrictions) since it was created for fansub
+    - No official translations[^*^](https://mangadex.org/rules#content_restrictions){target="_blank"} since it was created for fansub
     - May remove content if there is a DMCA request by the publisher or doesn't allow upload at all (e.g. One Punch-Man)
-- [**Comick**](https://comick.app/home) [!badge variant="dark" text="Alt"](https://comick.ink/) [!badge variant="danger" size="xs" text="R+"]
+- [**Comick**](https://comick.app/home){target="_blank"} [!badge variant="dark" target="blank" text="Alt"](https://comick.ink/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
     - Minimal compression
     - Aggregates from various scanlation groups
     - Has official translations
     - Reader isn't as good as mangadex
-- [**Mangasee**](https://mangasee123.com/) [!badge variant="dark" text="Mangalife"](https://manga4life.com/) [!badge variant="dark" text="Atsumaru"](https://atsu.moe/) [!badge variant="ghost" size="xs" text="R"]
+- [**Mangasee**](https://mangasee123.com/){target="_blank"} [!badge variant="dark" target="blank" text="Mangalife"](https://manga4life.com/){target="_blank"} [!badge variant="dark" target="blank" text="Atsumaru"](https://atsu.moe/){target="_blank"} [!badge variant="ghost" size="xs" text="R"]
     - Has official translations
     - Compresses chapter images
     - Chapter updates are relatively slow
-    - [Atsumaru](https://atsu.moe/) scrapes from Mangasee but has better UI
-- [**Colored Manga**](https://coloredmanga.com/) [!badge variant="ghost" size="xs" text="R"]
+    - [Atsumaru](https://atsu.moe/){target="_blank"} scrapes from Mangasee but has better UI
+- [**Colored Manga**](https://coloredmanga.com/){target="_blank"} [!badge variant="ghost" size="xs" text="R"]
     - Uploads without compression but mostly Shounen centric
     - Has both B&W and colored releases
     - Uploads official translations & volume releases (if available)
     - Lacks in library and upload schedule
-- [**Manga Fire**](https://mangafire.to/home) [!badge variant="ghost" size="xs" text="R"]
+- [**Manga Fire**](https://mangafire.to/home){target="_blank"} [!badge variant="ghost" size="xs" text="R"]
     - The UI is very clean with notification system
     - Uploads both chapter(multi-lang) & volume releases
     - Basic reader UI
     - Watermark on almost every manga chapters
     - Manga uploads are upto x1600
-- [**Batoto**](https://battwo.com/v3x) | [!badge variant="dark" text="Mangatoto"](https://mangatoto.com/) [!badge variant="danger" size="xs" text="R+"]
+- [**Batoto**](https://battwo.com/v3x){target="_blank"} | [!badge variant="dark" target="blank" text="Mangatoto"](https://mangatoto.com/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
     - Has both scanlated and official releases
     - Has some exclusive uploads
     - Decent filtering options with site theme options
     - Indexing is really poor
 
 === More
-- [Cubari Proxy](https://proxy.cubari.moe/) [!badge variant="danger" size="xs" text="R+"]
-- [Manga Katana](https://mangakatana.com/) [!badge variant="danger" size="xs" text="R+"]
-- [Mangapark](https://mangapark.net/) [!badge variant="danger" size="xs" text="R+"]
-- [Mangahasu](https://mangahasu.se/) [!badge variant="danger" size="xs" text="R+"]
-- [Mangahub](https://mangahub.io/) [!badge variant="danger" size="xs" text="R+"] [!badge variant="ghost" size="xs" text="Needs account"]
-- [Manga Buddy](https://mangabuddy.com/home) | [Manga Forest](https://mangaforest.com/home) | [Manga Mirror](https://mangamirror.com/home-page) [!badge variant="ghost" size="xs" text="R"] [!badge variant="ghost" size="xs" text="Manhwa/hua centric"]
-- [Mangacultivator](https://mangacultivator.com) [!badge variant="success" size="xs" text="E"] [!badge variant="ghost" size="xs" text="Manhwa/hua centric"]
-- [1st Kiss Manga](https://1stkissmanga.me/) [!badge variant="ghost" size="xs" text="R-"] [!badge variant="ghost" size="xs" text="Manhwa/hua centric"]
-- [Manga Here](https://www.mangahere.cc/) | [Manga Fox](https://fanfox.net/) [!badge variant="danger" size="xs" text="R+"]
-- [Manganato](https://chapmanganato.com/nato) [!badge variant="ghost" size="xs" text="R"]
+- [Cubari Proxy](https://proxy.cubari.moe/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
+- [Manga Katana](https://mangakatana.com/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
+- [Mangapark](https://mangapark.net/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
+- [Mangahasu](https://mangahasu.se/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
+- [Mangahub](https://mangahub.io/){target="_blank"} [!badge variant="danger" size="xs" text="R+"] [!badge variant="ghost" size="xs" text="Needs account"]
+- [Manga Buddy](https://mangabuddy.com/home){target="_blank"} | [Manga Forest](https://mangaforest.com/home){target="_blank"} | [Manga Mirror](https://mangamirror.com/home-page){target="_blank"} [!badge variant="ghost" size="xs" text="R"] [!badge variant="ghost" size="xs" text="Manhwa/hua centric"]
+- [Mangacultivator](https://mangacultivator.com){target="_blank"} [!badge variant="success" size="xs" text="E"] [!badge variant="ghost" size="xs" text="Manhwa/hua centric"]
+- [1st Kiss Manga](https://1stkissmanga.me/){target="_blank"} [!badge variant="ghost" size="xs" text="R-"] [!badge variant="ghost" size="xs" text="Manhwa/hua centric"]
+- [Manga Here](https://www.mangahere.cc/){target="_blank"} | [Manga Fox](https://fanfox.net/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
+- [Manganato](https://chapmanganato.com/nato){target="_blank"} [!badge variant="ghost" size="xs" text="R"]
 ===
 
 #### Scanlator
 
 ==- Manga
-- [Animated Glitched Scans](https://anigliscans.com/) + `KR` | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/1dde9054-11fd-4f5e-a575-a50f7bd22d5f/animated-glitched-scans) [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/15ncn1v/animated-glitched-scans)
-- [Assorted Scans](https://assortedscans.com/)
-- [Danke fürs Lesen Scans](https://danke.moe/) | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/91035fe1-d6b0-4816-be51-b54d05d546cf/danke-furs-lesen) [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/xlp7424/danke-fuers-lesen)
-- [LHTranslation](https://lhtranslation.net/) | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/24adf288-d0e3-4d34-b342-bf8c189aacaa/lhtranslation) [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/f6nc2yt/lhtranslation)
-- [Scylla Scans](https://scyllascans.org/r) | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/4209a4a9-b838-4817-be40-0c8ef2f7be4a/scylla-scans) [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/groups.html?id=14042)
-- [TCB Scans](https://onepiecechapters.com/) | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/db85f2a1-d69b-4181-a7a0-aa37db4bcbcf/tcb-scans) [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/wn8v9bv/tcb-scans)
-- [Tritinia](https://tritinia.org/) + `CN` `KR` | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/zfxsenj/tritinia-scans)
+- [Animated Glitched Scans](https://anigliscans.com/){target="_blank"} + `KR` | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/1dde9054-11fd-4f5e-a575-a50f7bd22d5f/animated-glitched-scans){target="_blank"} [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/15ncn1v/animated-glitched-scans){target="_blank"}
+- [Assorted Scans](https://assortedscans.com/){target="_blank"}
+- [Danke fürs Lesen Scans](https://danke.moe/){target="_blank"} | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/91035fe1-d6b0-4816-be51-b54d05d546cf/danke-furs-lesen){target="_blank"} [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/xlp7424/danke-fuers-lesen){target="_blank"}
+- [LHTranslation](https://lhtranslation.net/){target="_blank"} | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/24adf288-d0e3-4d34-b342-bf8c189aacaa/lhtranslation){target="_blank"} [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/f6nc2yt/lhtranslation){target="_blank"}
+- [Scylla Scans](https://scyllascans.org/r){target="_blank"} | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/4209a4a9-b838-4817-be40-0c8ef2f7be4a/scylla-scans){target="_blank"} [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/groups.html?id=14042){target="_blank"}
+- [TCB Scans](https://onepiecechapters.com/){target="_blank"} | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/db85f2a1-d69b-4181-a7a0-aa37db4bcbcf/tcb-scans){target="_blank"} [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/wn8v9bv/tcb-scans){target="_blank"}
+- [Tritinia](https://tritinia.org/){target="_blank"} + `CN` `KR` | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/zfxsenj/tritinia-scans){target="_blank"}
 ==- Mangadex group
-- [Ace Scans](https://mangadex.org/group/6cdcccb1-5ed9-4cbd-b391-675b42de3ee6) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/189byvu/ace-scans)
-- [Boredom society](https://mangadex.org/group/f62c0c65-d7bb-42ee-8d44-f14d9ae974af/boredom-society) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/stxl2b5/boredom-society-scanlations)
-- [Circle](https://mangadex.org/group/916a8c9a-c743-426f-8660-6bc7c0590b35/circle) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/mzq2toi/circle)
-- [Kirei Cake](https://mangadex.org/group/5fa94491-6f6f-4d53-b8ff-4a4967ac40b5/kirei-cake) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/7ixehww/kirei-cake)
-- [Knox](https://mangadex.org/group/28ba3526-e436-4c05-ab23-a2396fd08ce5/knox) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/mecpt76/knox)
-- [Komi-scan wa komyushou desu](https://mangadex.org/group/d81ab540-30de-413f-a23f-95bf007e7397/komi-scan-wa-komyushou-desu) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/3kcvfvw/komi-scan-wa-komyushou-desu)
-- [Kouhai scanlations](https://mangadex.org/group/b25e068a-5363-4f1d-872b-eba5b0224ae9/kouhai-scanlations) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/2995jae/kouhai-scanlations)
-- [Laughing in quarantine](https://mangadex.org/group/71ade5cd-93cf-4397-a5cc-d5c6181d8697/laughing-in-quarantine) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/hef6zqd/laughing-in-quarantine)
-- [Random scans](https://mangadex.org/group/8bc0f2aa-90b0-4423-afd4-501b9d623d41/random-scans-en) + `KR` `ID` `CN` 💀 | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/gja9x6m/random-scans)
+- [Ace Scans](https://mangadex.org/group/6cdcccb1-5ed9-4cbd-b391-675b42de3ee6){target="_blank"} | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/189byvu/ace-scans){target="_blank"}
+- [Boredom society](https://mangadex.org/group/f62c0c65-d7bb-42ee-8d44-f14d9ae974af/boredom-society){target="_blank"} | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/stxl2b5/boredom-society-scanlations){target="_blank"}
+- [Circle](https://mangadex.org/group/916a8c9a-c743-426f-8660-6bc7c0590b35/circle){target="_blank"} | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/mzq2toi/circle){target="_blank"}
+- [Kirei Cake](https://mangadex.org/group/5fa94491-6f6f-4d53-b8ff-4a4967ac40b5/kirei-cake){target="_blank"} | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/7ixehww/kirei-cake){target="_blank"}
+- [Knox](https://mangadex.org/group/28ba3526-e436-4c05-ab23-a2396fd08ce5/knox){target="_blank"} | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/mecpt76/knox){target="_blank"}
+- [Komi-scan wa komyushou desu](https://mangadex.org/group/d81ab540-30de-413f-a23f-95bf007e7397/komi-scan-wa-komyushou-desu){target="_blank"} | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/3kcvfvw/komi-scan-wa-komyushou-desu){target="_blank"}
+- [Kouhai scanlations](https://mangadex.org/group/b25e068a-5363-4f1d-872b-eba5b0224ae9/kouhai-scanlations){target="_blank"} | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/2995jae/kouhai-scanlations){target="_blank"}
+- [Laughing in quarantine](https://mangadex.org/group/71ade5cd-93cf-4397-a5cc-d5c6181d8697/laughing-in-quarantine){target="_blank"} | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/hef6zqd/laughing-in-quarantine){target="_blank"}
+- [Random scans](https://mangadex.org/group/8bc0f2aa-90b0-4423-afd4-501b9d623d41/random-scans-en){target="_blank"} + `KR` `ID` `CN` 💀 | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/gja9x6m/random-scans){target="_blank"}
 - [SleepySlimeTL
-  ](https://mangadex.org/group/a074ddce-798c-4b3c-8568-fa6f2833dc96/sleepyslimetl) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/1mls20r/sleepyslimetl)
-- [Tonikaku scans](https://mangadex.org/group/063cf1b0-9e25-495b-b234-296579a34496/tonikaku-scans) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/85x42f0/tonikaku-scans)
-- [Toor Scans](https://mangadex.org/group/428fa899-6f51-4330-a4e0-2a8aeaab44b0/toor-scans) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/qzru5y0/toor-scans)
-- [Toru Scans](https://mangadex.org/group/69148b88-5740-434d-b62f-b67711ca490b/toruscans) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/vsugigg/toruscans)
-- [What's typesetting](https://mangadex.org/group/d93016fa-0af4-4967-a1b3-7bd8a6a87483/what-s-typesetting) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/qmoi94j/what-s-typesetting)
+  ](https://mangadex.org/group/a074ddce-798c-4b3c-8568-fa6f2833dc96/sleepyslimetl) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/1mls20r/sleepyslimetl){target="_blank"}
+- [Tonikaku scans](https://mangadex.org/group/063cf1b0-9e25-495b-b234-296579a34496/tonikaku-scans){target="_blank"} | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/85x42f0/tonikaku-scans){target="_blank"}
+- [Toor Scans](https://mangadex.org/group/428fa899-6f51-4330-a4e0-2a8aeaab44b0/toor-scans){target="_blank"} | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/qzru5y0/toor-scans){target="_blank"}
+- [Toru Scans](https://mangadex.org/group/69148b88-5740-434d-b62f-b67711ca490b/toruscans){target="_blank"} | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/vsugigg/toruscans){target="_blank"}
+- [What's typesetting](https://mangadex.org/group/d93016fa-0af4-4967-a1b3-7bd8a6a87483/what-s-typesetting){target="_blank"} | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/qmoi94j/what-s-typesetting){target="_blank"}
 ==- Manhwa
-- [Asura Scans](https://www.asurascans.com/) + `CN` | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/juxsa9z/asura)
-- [Flame Scans](https://flamescans.org/) + `CN` | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/fdad9851-164f-43fc-9ab0-25b8054c99ed/flame-scans) [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/btgsdiy/flame-scans)
-- [Immortal Updates](https://immortalupdates.com/) + `CN` | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/1296f28d-7888-4fcc-8861-93edb6c05e8c/immortal-updates-scan) [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/10z1hxo/immortal-updates-scan)
-- [Leviatan scans](https://en.leviatanscans.com/home/) + `CN` | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/rot79ib/leviatanscans)
-- [Luminous Scans](https://luminousscans.com/) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/jufm30w/luminous)
-- [Manhwa Freak](https://manhwafreak.com/) | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/3cc5b54a-b20e-4fc5-b2aa-bb51fed328dc/manhwafreak) [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/busmxbf/manhwafreak)
-- [MM Scans](https://mm-scans.org/) | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/35ab5df4-f668-4ca4-895d-3e02cef509b6/mmscans) [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/wctgyjk/mmscans)
-- [Reaper Scans](https://reaperscans.com/) + `CN` | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/e892ed1b-ed75-414a-bc86-71226f3364ad/reaper-scans) [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/5ev5t5s/reaper-scans)
-- [Reset Scams](https://reset-scans.com/) +`JP` `CN` | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/df9ckct/reset-scans)
-- [Tritinia Scans](https://tritinia.org/) +`JP` `CN` [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/zfxsenj/tritinia-scans)
-- [Void Scans](https://void-scans.com/) + `CN`
-- [Zero Scans](https://zeroscans.com/) + `CN` | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/dd0a3018-21f1-4488-948c-08499b179fcf/zero-scans) [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/vlkvmk7/zero-scans-discord)
+- [Asura Scans](https://www.asurascans.com/){target="_blank"} + `CN` | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/juxsa9z/asura){target="_blank"}
+- [Flame Scans](https://flamescans.org/){target="_blank"} + `CN` | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/fdad9851-164f-43fc-9ab0-25b8054c99ed/flame-scans){target="_blank"} [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/btgsdiy/flame-scans){target="_blank"}
+- [Immortal Updates](https://immortalupdates.com/){target="_blank"} + `CN` | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/1296f28d-7888-4fcc-8861-93edb6c05e8c/immortal-updates-scan){target="_blank"} [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/10z1hxo/immortal-updates-scan){target="_blank"}
+- [Leviatan scans](https://en.leviatanscans.com/home/){target="_blank"} + `CN` | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/rot79ib/leviatanscans){target="_blank"}
+- [Luminous Scans](https://luminousscans.com/){target="_blank"} | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/jufm30w/luminous){target="_blank"}
+- [Manhwa Freak](https://manhwafreak.com/){target="_blank"} | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/3cc5b54a-b20e-4fc5-b2aa-bb51fed328dc/manhwafreak){target="_blank"} [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/busmxbf/manhwafreak){target="_blank"}
+- [MM Scans](https://mm-scans.org/){target="_blank"} | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/35ab5df4-f668-4ca4-895d-3e02cef509b6/mmscans){target="_blank"} [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/wctgyjk/mmscans){target="_blank"}
+- [Reaper Scans](https://reaperscans.com/){target="_blank"} + `CN` | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/e892ed1b-ed75-414a-bc86-71226f3364ad/reaper-scans){target="_blank"} [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/5ev5t5s/reaper-scans){target="_blank"}
+- [Reset Scams](https://reset-scans.com/){target="_blank"} +`JP` `CN` | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/df9ckct/reset-scans){target="_blank"}
+- [Tritinia Scans](https://tritinia.org/){target="_blank"} +`JP` `CN` [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/zfxsenj/tritinia-scans){target="_blank"}
+- [Void Scans](https://void-scans.com/){target="_blank"} + `CN`
+- [Zero Scans](https://zeroscans.com/){target="_blank"} + `CN` | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/dd0a3018-21f1-4488-948c-08499b179fcf/zero-scans){target="_blank"} [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/vlkvmk7/zero-scans-discord){target="_blank"}
 ==- Manhua
-- [Ansh Scans](https://anshscans.org/) | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/43a13d2b-21d5-4453-ad78-cba547b7e879/ansh-scans) [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/tmszmfv/ansh-scans)
-- [Disaster Scans](https://disasterscans.com/)
-- [Drake Scans](https://drakescans.com/) | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/50caf96d-fe2b-4638-9d13-4954b782e112/drake-scans) [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/ktajd9u/drake-scans)
-- [Manhua Ga](https://manhuaga.com/)
-- [Manhua Plus](https://manhuaplus.com/) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/3apm0du/manhua-plus)
-- [Manhua SY](https://www.manhuasy.com/manhua/) | [Manga SY](https://www.mangasy.com/)
-- [Realm Scans](https://realmscans.com/) + `KR` | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/g8dqjxt/realm-scans)
-- [xCaliBR Scans](https://xcalibrscans.com/) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/ynopo9s/cursed-xcalibr)
+- [Ansh Scans](https://anshscans.org/){target="_blank"} | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/43a13d2b-21d5-4453-ad78-cba547b7e879/ansh-scans){target="_blank"} [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/tmszmfv/ansh-scans){target="_blank"}
+- [Disaster Scans](https://disasterscans.com/){target="_blank"}
+- [Drake Scans](https://drakescans.com/){target="_blank"} | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/50caf96d-fe2b-4638-9d13-4954b782e112/drake-scans){target="_blank"} [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/ktajd9u/drake-scans){target="_blank"}
+- [Manhua Ga](https://manhuaga.com/){target="_blank"}
+- [Manhua Plus](https://manhuaplus.com/){target="_blank"} | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/3apm0du/manhua-plus){target="_blank"}
+- [Manhua SY](https://www.manhuasy.com/manhua/){target="_blank"} | [Manga SY](https://www.mangasy.com/){target="_blank"}
+- [Realm Scans](https://realmscans.com/){target="_blank"} + `KR` | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/g8dqjxt/realm-scans){target="_blank"}
+- [xCaliBR Scans](https://xcalibrscans.com/){target="_blank"} | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/ynopo9s/cursed-xcalibr){target="_blank"}
 ===
 
 > I have added all the well-known scanlators for manhwa and manhua, but for manga, it's not practical or possible to add all the famous ones. So I have added my favorite ones. Yes, this section is kind of biased.
 
 ### Nyaa Uploaders
-- [0v3r](https://nyaa.si/user/0v3r) [!badge variant="ghost" size="xs" text="compilation"]
-- [1r0n](https://nyaa.si/user/tsuna69) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="comikey"] [!badge variant="ghost" size="xs" text="jnovel"] [!badge variant="ghost" size="xs" text="kmanga"] [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="sq. enix"] [!badge variant="ghost" size="xs" text="up!"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
-- [anadius](https://nyaa.si/user/anadius) [!badge variant="ghost" size="xs" text="viz"]
-- [Danke](https://nyaa.si/?f=0&c=0_0&q=danke-empire) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
-- [Digital Manga Fan](https://nyaa.si/user/digitalmangafan) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="jnovel"] [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="op"] [!badge variant="ghost" size="xs" text="yen"]
-- [Empy](https://nyaa.si/user/empyrealarrow) [!badge variant="ghost" size="xs" text="compilation"] [!badge variant="ghost" size="xs" text="glacier"] [!badge variant="ghost" size="xs" text="plus"]
-- [Lord_ne](https://nyaa.si/user/lord_ne) [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="lezhin"] [!badge variant="ghost" size="xs" text="yen"]
-- [LuCaZ](https://nyaa.si/user/LuCaZ) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="yen"]
-- [Oakminati](https://nyaa.si/user/Oakminati) [!badge variant="ghost" size="xs" text="comikey"] [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="mangamo"] [!badge variant="ghost" size="xs" text="plus"] [!badge variant="ghost" size="xs" text="sq. enix"] [!badge variant="ghost" size="xs" text="up!"]
-- [PZG](https://nyaa.si/user/Phantom132) [!badge variant="ghost" size="xs" text="audio"]
-- [Shellshock](https://nyaa.si/user/shellshock) [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
-- [Shizu](https://nyaa.si/user/wolfsbanes) [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="sublime"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
-- [Stick](https://nyaa.si/user/dumbboy58) [!badge variant="ghost" size="xs" text="audio"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
-- [Ushi](https://nyaa.si/user/bakaushi) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="yen"]
-- [XRA9](https://nyaa.si/?f=0&c=0_0&q=XRA9) 
+- [0v3r](https://nyaa.si/user/0v3r){target="_blank"} [!badge variant="ghost" size="xs" text="compilation"]
+- [1r0n](https://nyaa.si/user/tsuna69){target="_blank"} [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="comikey"] [!badge variant="ghost" size="xs" text="jnovel"] [!badge variant="ghost" size="xs" text="kmanga"] [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="sq. enix"] [!badge variant="ghost" size="xs" text="up!"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
+- [anadius](https://nyaa.si/user/anadius){target="_blank"} [!badge variant="ghost" size="xs" text="viz"]
+- [Danke](https://nyaa.si/?f=0&c=0_0&q=danke-empire){target="_blank"} [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
+- [Digital Manga Fan](https://nyaa.si/user/digitalmangafan){target="_blank"} [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="jnovel"] [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="op"] [!badge variant="ghost" size="xs" text="yen"]
+- [Empy](https://nyaa.si/user/empyrealarrow){target="_blank"} [!badge variant="ghost" size="xs" text="compilation"] [!badge variant="ghost" size="xs" text="glacier"] [!badge variant="ghost" size="xs" text="plus"]
+- [Lord_ne](https://nyaa.si/user/lord_ne){target="_blank"} [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="lezhin"] [!badge variant="ghost" size="xs" text="yen"]
+- [LuCaZ](https://nyaa.si/user/LuCaZ){target="_blank"} [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="yen"]
+- [Oakminati](https://nyaa.si/user/Oakminati){target="_blank"} [!badge variant="ghost" size="xs" text="comikey"] [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="mangamo"] [!badge variant="ghost" size="xs" text="plus"] [!badge variant="ghost" size="xs" text="sq. enix"] [!badge variant="ghost" size="xs" text="up!"]
+- [PZG](https://nyaa.si/user/Phantom132){target="_blank"} [!badge variant="ghost" size="xs" text="audio"]
+- [Shellshock](https://nyaa.si/user/shellshock){target="_blank"} [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
+- [Shizu](https://nyaa.si/user/wolfsbanes){target="_blank"} [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="sublime"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
+- [Stick](https://nyaa.si/user/dumbboy58){target="_blank"} [!badge variant="ghost" size="xs" text="audio"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
+- [Ushi](https://nyaa.si/user/bakaushi){target="_blank"} [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="yen"]
+- [XRA9](https://nyaa.si/?f=0&c=0_0&q=XRA9){target="_blank"} 
 
 ==- Madokami Guide
 #### Step 1
-Choose an [IRC client](https://ircv3.net/software/clients) you're comfortable with, as you can't use web IRC.
+Choose an [IRC client](https://ircv3.net/software/clients){target="_blank"} you're comfortable with, as you can't use web IRC.
 
 #### Step 2
 Connect to **Rizon IRC network**.
 
 #### Step 3
-Register your nickname (all explained in detail [here](https://wiki.rizon.net/index.php?title=Register_your_nickname)) and then add the IDENTIFY command to the Connect commands for Rizon
+Register your nickname (all explained in detail [here](https://wiki.rizon.net/index.php?title=Register_your_nickname){target="_blank"}) and then add the IDENTIFY command to the Connect commands for Rizon
 
 #### Step 4
 Type `/join #madokami`
@@ -287,13 +287,13 @@ Repeat this until you get an account, the cooldown should be 4 hours.
 You may now use your credentials to log into https://manga.madokami.al and enjoy their manga DDL directory (note that you can only download 3 files at the same time, but don't have limits besides that). They also have Tachiyomi extensions.
 ===
 
-> All the **Legal** manga reading sites are listed [here](https://otakulogy.github.io/manga-platform/) and [here](https://wherecanireadmanga.com/).
+> All the **Legal** manga reading sites are listed [here](https://otakulogy.github.io/manga-platform/){target="_blank"} and [here](https://wherecanireadmanga.com/){target="_blank"}.
 
 ### Direct Download
-- [mp4directs](https://mp4directs.com/)
-- [jnovels](https://jnovels.com/manga-cbz-cbr-pdfs-download101/)
-- [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) [!badge variant="danger" size="xs" text="R+"]
-- [Anna's Archive](https://annas-archive.org/)
+- [mp4directs](https://mp4directs.com/){target="_blank"}
+- [jnovels](https://jnovels.com/manga-cbz-cbr-pdfs-download101/){target="_blank"}
+- [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
+- [Anna's Archive](https://annas-archive.org/){target="_blank"}
 
 ![](/static/banner/msuic.png)
 
@@ -301,21 +301,21 @@ You may now use your credentials to log into https://manga.madokami.al and enjoy
 ___
 
 ### Stream
-- [Anithemes.moe](https://animethemes.moe/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/AnimeThemes)
-- [Themes.moe](https://themes.moe/)
-- [Squidify](https://www.squidify.org/)
-- [LISTEN.moe](https://listen.moe/) [!button variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/LISTEN-moe) [!badge variant="ghost" size="xs" text="Radio"]
-- [Spotify](https://spotify.com/) [!badge variant="ghost" size="xs" text="General"]
-- [Youtube Music](https://music.youtube.com/) [!badge variant="dark" text="Beatbump"](https://beatbump.io/home) [!badge variant="dark" text="Hyperpipe"](https://hyperpipe.surge.sh/) [!badge variant="ghost" size="xs" text="General"]
+- [Anithemes.moe](https://animethemes.moe/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/AnimeThemes){target="_blank"}
+- [Themes.moe](https://themes.moe/){target="_blank"}
+- [Squidify](https://www.squidify.org/){target="_blank"}
+- [LISTEN.moe](https://listen.moe/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/LISTEN-moe){target="_blank"} [!badge variant="ghost" size="xs" text="Radio"]
+- [Spotify](https://spotify.com/){target="_blank"} [!badge variant="ghost" size="xs" text="General"]
+- [Youtube Music](https://music.youtube.com/){target="_blank"} [!badge variant="dark" target="blank" text="Beatbump"](https://beatbump.io/home){target="_blank"} [!badge variant="dark" target="blank" text="Hyperpipe"](https://hyperpipe.surge.sh/){target="_blank"} [!badge variant="ghost" size="xs" text="General"]
 
 ### Direct Download
-- [Sitting on Clouds](https://www.sittingonclouds.net/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Mega"] [!badge variant="ghost" size="xs" text="Mediafire"]
-- [SquidBoard](https://www.squid-board.org/) [!badge variant="ghost" size="xs" text="Needs account"] [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Mega"] [!badge variant="ghost" size="xs" text="Mediafire"] [!badge variant="ghost" size="xs" text="GDrive"]
-- [Sukidesu OST](https://sukidesuost.info/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Mega"]
-- [Asia Media Blog](https://asiamediablog.com/media/music/) [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Host"]
-- [OS Anime](https://osanime.com/) [!badge variant="ghost" size="xs" text="Direct"]
-- [Hiyori OST](https://www.hiyoriost.com/) [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="Host"]
-- [Sakura OST](https://www.sakuraost.com/) [!badge variant="ghost" size="xs" text="Host"]
+- [Sitting on Clouds](https://www.sittingonclouds.net/){target="_blank"} [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Mega"] [!badge variant="ghost" size="xs" text="Mediafire"]
+- [SquidBoard](https://www.squid-board.org/){target="_blank"} [!badge variant="ghost" size="xs" text="Needs account"] [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Mega"] [!badge variant="ghost" size="xs" text="Mediafire"] [!badge variant="ghost" size="xs" text="GDrive"]
+- [Sukidesu OST](https://sukidesuost.info/){target="_blank"} [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Mega"]
+- [Asia Media Blog](https://asiamediablog.com/media/music/){target="_blank"} [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Host"]
+- [OS Anime](https://osanime.com/){target="_blank"} [!badge variant="ghost" size="xs" text="Direct"]
+- [Hiyori OST](https://www.hiyoriost.com/){target="_blank"} [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="Host"]
+- [Sakura OST](https://www.sakuraost.com/){target="_blank"} [!badge variant="ghost" size="xs" text="Host"]
 
 
 
@@ -325,35 +325,35 @@ ___
 ___
 
 ### Reader
-- [Novel Updates](https://www.novelupdates.com/)
-- [Allnovel](https://allnovel.org/)
-- [Baka-tsuki](https://www.baka-tsuki.org/project/index.php?title=main_page)
-- [Boxnovel](https://boxnovel.com/)
-- [Comrademao](https://comrademao.com/)
-- [Dao Novel](https://daonovel.com/)
-- [Free web novel](https://freewebnovel.com/)
-- [Light Novel Pub](https://www.lightnovelpub.com/) [!badge variant="dark" text="Light Novel World"](https://www.lightnovelworld.com/)
-- [Novel Buddy](https://novelbuddy.com/home)
-- [Novel Hall](https://www.novelhall.com/)
-- [Octopii](https://octopii.co/)
-- [Ranobes](https://ranobes.top/)
-- [Read Light Novel](https://www.readlightnovel.me/)
-- [Read Novel Full](https://readnovelfull.com/)
-- [Royal Road](https://www.royalroad.com/home)
+- [Novel Updates](https://www.novelupdates.com/){target="_blank"}
+- [Allnovel](https://allnovel.org/){target="_blank"}
+- [Baka-tsuki](https://www.baka-tsuki.org/project/index.php?title=main_page){target="_blank"}
+- [Boxnovel](https://boxnovel.com/){target="_blank"}
+- [Comrademao](https://comrademao.com/){target="_blank"}
+- [Dao Novel](https://daonovel.com/){target="_blank"}
+- [Free web novel](https://freewebnovel.com/){target="_blank"}
+- [Light Novel Pub](https://www.lightnovelpub.com/){target="_blank"} [!badge variant="dark" target="blank" text="Light Novel World"](https://www.lightnovelworld.com/){target="_blank"}
+- [Novel Buddy](https://novelbuddy.com/home){target="_blank"}
+- [Novel Hall](https://www.novelhall.com/){target="_blank"}
+- [Octopii](https://octopii.co/){target="_blank"}
+- [Ranobes](https://ranobes.top/){target="_blank"}
+- [Read Light Novel](https://www.readlightnovel.me/){target="_blank"}
+- [Read Novel Full](https://readnovelfull.com/){target="_blank"}
+- [Royal Road](https://www.royalroad.com/home){target="_blank"}
 
 
 ### Direct Download
-- [Just Light Novels](https://www.justlightnovels.com/)
-- [That Novel Corner](https://thatnovelcorner.com/)
-- [MP4 Directs](https://mp4directs.com/)
-- [All EPUBs](https://boroboro.neocities.org/listfullepub) [!badge variant="ghost" icon="/static/icon/jp.png" text="JP"]
+- [Just Light Novels](https://www.justlightnovels.com/){target="_blank"}
+- [That Novel Corner](https://thatnovelcorner.com/){target="_blank"}
+- [MP4 Directs](https://mp4directs.com/){target="_blank"}
+- [All EPUBs](https://boroboro.neocities.org/listfullepub){target="_blank"} [!badge variant="ghost" icon="/static/icon/jp.png" text="JP"]
 
 
 ### Nyaa Uploaders
-- [Ganba](https://nyaa.si/user/Ganba)
-- [How Unfortunate](https://nyaa.si/user/HowUnfortunate)
-- [Lucaz](https://nyaa.si/user/LuCaZ)
-- [Stick](https://nyaa.si/user/dumbboy58)
+- [Ganba](https://nyaa.si/user/Ganba){target="_blank"}
+- [How Unfortunate](https://nyaa.si/user/HowUnfortunate){target="_blank"}
+- [Lucaz](https://nyaa.si/user/LuCaZ){target="_blank"}
+- [Stick](https://nyaa.si/user/dumbboy58){target="_blank"}
 
 
 ![](/static/banner/vn.png)
@@ -361,17 +361,17 @@ ___
 ___
 
 - [Anime-sharing](http://www.anime-sharing.com/forum/) [!badge variant="danger" size="xs" text="R+"]
-- [CPG Repacks](https://cpgrepacks.site) [!badge variant="danger" size="xs" text="R+"]
-- [Crane Anime](https://docs.google.com/spreadsheets/d/1ECqqhEm2kDS0hgxZ0tD_73e04v5FUxQGkfCbfi0Kb9k/pubhtml#) [!badge variant="danger" size="xs" text="R+"]
-- [Eroge Download](https://erogedownload.com/) [!badge variant="danger" size="xs" text="R+"]
-- [F95Zone](https://f95zone.to/) [!badge variant="danger" size="xs" text="R+"] [!badge variant="ghost" size="xs" text="Needs account"]
-- [GOG](https://gog-games.to/) [!badge variant="dark" text="Library"](https://www.gog.com/en/games?genres=visual-novel&hideDLCs=true)  [!badge variant="danger" size="xs" text="R+"]
-- [Kimochi](https://kimochi.info) [!badge variant="danger" size="xs" text="R+"]
-- [Nyaa](https://nyaa.si/?f=0&c=6_2&q=) [!badge size="xs" variant="success" text="E"]
-- [Nyaa sukebei](https://sukebei.nyaa.si/?f=0&c=1_3&q=) [!badge variant="danger" size="xs" text="R+"]
-- [Ryuu blogger](https://ryuubloggerv2.blogspot.com/) [!badge variant="danger" size="xs" text="R+"]
-- [Ryuu games](https://www.ryuugames.com/tag/japanese/) [!badge variant="danger" size="xs" text="R+"]
-- [Anime Bytes](https://animebytes.tv/) [!badge variant="ghost" size="xs" text="Private tracker"]
-- [Gazelle Games](https://gazellegames.net/login.php) [!badge variant="ghost" size="xs" text="Private tracker"]
+- [CPG Repacks](https://cpgrepacks.site){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
+- [Crane Anime](https://docs.google.com/spreadsheets/d/1ECqqhEm2kDS0hgxZ0tD_73e04v5FUxQGkfCbfi0Kb9k/pubhtml#){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
+- [Eroge Download](https://erogedownload.com/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
+- [F95Zone](https://f95zone.to/){target="_blank"} [!badge variant="danger" size="xs" text="R+"] [!badge variant="ghost" size="xs" text="Needs account"]
+- [GOG](https://gog-games.to/){target="_blank"} [!badge variant="dark" target="blank" text="Library"](https://www.gog.com/en/games?genres=visual-novel&hideDLCs=true){target="_blank"}  [!badge variant="danger" size="xs" text="R+"]
+- [Kimochi](https://kimochi.info){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
+- [Nyaa](https://nyaa.si/?f=0&c=6_2&q=){target="_blank"} [!badge size="xs" variant="success" text="E"]
+- [Nyaa sukebei](https://sukebei.nyaa.si/?f=0&c=1_3&q=){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
+- [Ryuu blogger](https://ryuubloggerv2.blogspot.com/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
+- [Ryuu games](https://www.ryuugames.com/tag/japanese/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
+- [Anime Bytes](https://animebytes.tv/){target="_blank"} [!badge variant="ghost" size="xs" text="Private tracker"]
+- [Gazelle Games](https://gazellegames.net/login.php){target="_blank"} [!badge variant="ghost" size="xs" text="Private tracker"]
 
 > Try searching with Japanese titles on Nyaa/Sukebei
