@@ -29,7 +29,7 @@ ___
   - Also offers manga reader & ln
   - Anime streaming/reading only
   - Anilist and MAL sync
-- [**Cloudstream**](https://github.com/recloudstream/cloudstream)
+- [**Cloudstream**](https://github.com/recloudstream/cloudstream) [!button variant="primary" size="xs" icon="globe" text="Web"](https://cloudstream.on.fleek.co/)
   - Minimalist Customizable UI
   - Offers other types of media too
   - Tracking & backup support
