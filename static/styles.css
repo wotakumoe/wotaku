@@ -4,3 +4,8 @@ div.left-0:nth-child(2) {
 aside ul:nth-child(3) {
   margin-top: 1em;
 }
+
+.flex.border {
+    overflow-x: auto;
+    white-space: nowrap;
+}
