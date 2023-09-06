@@ -1,6 +1,6 @@
 # <img src="/static/asset/inaspin.gif" width="30px"> Wotaku
 
-The wiki that contains (almost) everything related to manga, anime, and light novels.
+Welcome to Wotaku! Here you'll find a diverse range of resources related to japanese media and language. [<img align="right" src="https://invidget.switchblade.xyz/2thee7zzHZ" style="width: 400px;"/>](https://invidget.switchblade.xyz/vShRGx8ZBC)
 
 [![cover](/static/thumb/cover.png)](https://wotaku.pages.dev/)
 ___

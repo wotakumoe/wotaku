@@ -303,6 +303,7 @@ ___
 
 - [gallery-dl](https://github.com/mikf/gallery-dl){target="_blank"}
 - [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/){target="_blank"}
+- [Nicotine+](https://nicotine-plus.org/){target="_blank"} [!badge variant="ghost" size="xs" text="p2p"] [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
 - [PixivUtil2](https://github.com/Nandaka/PixivUtil2){target="_blank"}
 
 > You can find more PC related tools [**here**](/addons.md/#tools)
