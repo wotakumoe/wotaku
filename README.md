@@ -2,14 +2,18 @@
 
 Welcome to Wotaku! Here you'll find a diverse range of resources related to japanese media and language.
 
-<br/>
 
-[<img align="center" src="https://invidget.switchblade.xyz/vShRGx8ZBC" style="width: 400px;"/>](https://discord.gg/vShRGx8ZBC)
+<p align="center">
+  <a href="https://discord.gg/vShRGx8ZBC">
+    <img src="https://invidget.switchblade.xyz/vShRGx8ZBC" alt="Image Description" style="width: 400px; display: block; margin: 0 auto;">
+  </a>
+</p>
 
 <br/>
 
 [![cover](/static/thumb/cover.png)](https://wotaku.pages.dev/)
-___
+
+<br/>
 
 # <img src="/static/rm/repo.svg" width="24px"> What is in the Wiki?
 
@@ -20,16 +24,15 @@ ___
 - Various resources for scanlation.
 - Websites and software that are in the early stage of development.
 
-___
+<br/>
 
 # <img src="/static/rm/pr.svg" width="24px"> Submitting a link
 If you want to submit or correct a link instead of creating a pull request, please post an [issue](https://github.com/anotherduckling/Wotaku/issues/new). This makes it easier for me to add it to the wiki, since I need to maintain the categories and markdown style.
 
-___
-
+<br/>
 > Please note that I may choose not to add the site if it is redundant or if it does not meet my preferences.
 
-___
+<br/>
 
 # Wotaku Stonk 🚀
 
