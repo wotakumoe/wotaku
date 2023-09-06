@@ -1,6 +1,12 @@
 # <img src="/static/asset/inaspin.gif" width="30px"> Wotaku
 
-Welcome to Wotaku! Here you'll find a diverse range of resources related to japanese media and language. [<img align="right" src="https://invidget.switchblade.xyz/2thee7zzHZ" style="width: 400px;"/>](https://invidget.switchblade.xyz/vShRGx8ZBC)
+Welcome to Wotaku! Here you'll find a diverse range of resources related to japanese media and language.
+
+<br/>
+
+[<img align="center" src="https://invidget.switchblade.xyz/vShRGx8ZBC" style="width: 400px;"/>](https://discord.gg/vShRGx8ZBC)
+
+<br/>
 
 [![cover](/static/thumb/cover.png)](https://wotaku.pages.dev/)
 ___
