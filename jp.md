@@ -129,6 +129,16 @@ Interested in learning the japanese language? Here you can find resources to aid
     - [Dramacool](https://dramacool.pa/){target="_blank"}
     - [KissAsian](https://kissasian.mx/){target="_blank"}
     - [Tokuzilla](https://tokuzilla.net/){target="_blank"}
+- TV
+    - [IPTV-Org](https://iptv-org.github.io/iptv/countries/jp.m3u){target="_blank"}
+    - [IPTV-JP](https://raw.githubusercontent.com/luongz/iptv-jp/main/jp.m3u){target="_blank"}
+    - [AQ Stream](https://aqstream.com/jp){target="_blank"}
+    - [ANNnewsCH](https://www.youtube.com/@ANNnewsCH/){target="_blank"}
+    - [FNNプライムオンライン](https://www.youtube.com/@FNNnewsCH){target="_blank"}
+    - [HTB北海道ニュース ](https://www.youtube.com/@htbnews/){target="_blank"}
+    - [日テレNEWS](https://www.youtube.com/@ntv_news){target="_blank"}
+    - [TBS NEWS DIG Powered by JNN](https://www.youtube.com/@tbsnewsdig){target="_blank"}
+    - [ウェザーニュース | Weathernews](https://www.youtube.com/@weathernews/){target="_blank"}
 - Podcast
     - [Japanese with Noriko](https://www.japanesewithnoriko.com/){target="_blank"}
     - [Learn Japanese Podcast](https://learnjapanesepod.com/){target="_blank"}

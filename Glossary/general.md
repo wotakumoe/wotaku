@@ -70,8 +70,9 @@ ___
 | Doujinshi | Doujinshi refers to self-published works, which can be original creations or fan fictions, such as manga, novels, artworks, music, and games. |
 | Ecchi | Lewd. |
 |  Fujoshi  | 'Rotten Girl'. Refers to a girl that fantasizes about guys being in a relationship with other guys, specially shipping male characters with other male characters in manga and anime.   |
+| Gijinka | A type of fan-art or cosplay in which a non-human character is depicted in a human-like way (akin to personification) |
 |  Gyaru  |  English slang equivalent of "Gal". It refers to a subculture and fashion style in Japan where girls wear dramatic tan makeup, sport big hair, and embrace 2000s fashion trends. Example: [Kitagawa Marin](https://anidb.net/character/120646){target="_blank"}   |
-| Hentai | Pervert. |
+| Hentai | A term literally meaning pervert that is also used as a synonym for both animated and drawn pornography |
 |  Hikikomori  |  The people who don't go out of their home. The phenomenon can also be termed as Hikikomori. You can watch [this video](https://www.youtube.com/watch?v=tnFVot15KcI){target="_blank"} to get a clearer idea.  |
 | Idol | Idols are live entertainers who are expected to be 'Seiso' or pure, meaning they do not engage in romantic relationships. Their primary goal is to entertain their fans. Idol culture is particularly popular in Asia, especially Japan and Korea. Idols are usually local, but occasionally, they can be foreigners too. However, the idol culture can be dark and questionable despite being portrayed as glamorous in anime and manga. Idols group can be girls or boys group. Example: [AKB48](https://www.akb48.co.jp/){target="_blank"}. Nowadays, vtuber groups such as [Hololive](https://www.youtube.com/@hololive){target="_blank"} are managed as an idol group. |
 |  JK  |  "Joshi Kousei". Meaning high-school girl.   |

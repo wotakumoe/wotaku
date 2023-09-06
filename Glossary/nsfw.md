@@ -18,10 +18,8 @@ Want to learn what those elusive tags on hentai sites mean? Then this page is fo
 | Eromanga | Derived from "erotic manga", a term for sexually-explicit manga, targeted toward men |
 | Fundoshi | A traditional Japanese undergarment that covers the genitals, often worn by men during festivals or other cultural events |
 | Futanari | A genre of hentai that features women with both male and female genitalia |
-| Gijinka | A type of fan-art or cosplay in which a non-human character is depicted in a human-like way (akin to personification) |
 | Gokkun | A sexual act in which a person drinks semen from a container or directly from a partner's body |
 | Guro | A genre of hentai that features extreme violence, gore, and mutilation |
-| Hentai | A term literally meaning pervert that is also used as a synonym for both animated and drawn pornography |
 | Incest | Sexual relations between blood-related characters |
 | Inseki | Sexual relations between family members not related by blood |
 | Kemonomimi | Meaning animal ears, a term used for hentai involving humans with animal ears and/or other animal-like features |

@@ -36,6 +36,7 @@ ___
 - [Anica](https://anica.jp/){target="_blank"}
 - [AniChart](https://anichart.net/){target="_blank"}
 - [AnimeSchedule](https://animeschedule.net/){target="_blank"}
+- [Anime Countdown](https://animecountdown.com/){target="_blank"}
 - [Livechart](https://www.livechart.me/){target="_blank"}
 - [Monthly.moe](https://www.monthly.moe/){target="_blank"}
 - [Notify.moe](https://notify.moe/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/animenotifier/notify.moe){target="_blank"}

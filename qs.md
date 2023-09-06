@@ -63,7 +63,7 @@ ___
 +++ Adblocker
 - [Adaway](https://adaway.org/){target="_blank"} [!badge variant="ghost" size="xs" text="Android"]
 - [RethinkDNS](https://rethinkdns.com/){target="_blank"} [!badge variant="ghost" size="xs" text="Android"]
-- [AhaDNS](https://blitz-setup.ahadns.com/){target="_blank"} [!badge variant="ghost" size="xs" text="iOS"] [!badge variant="ghost" size="xs" text="Profile"]
+- [AhaDNS](https://blitz-setup.ahadns.com/){target="_blank"} [!badge variant="ghost" size="xs" text="iOS"]
 - [uBlock Origin](https://ublockorigin.com/){target="_blank"} [!badge variant="ghost" size="xs" text="Browser"]
 
 +++ Browsers

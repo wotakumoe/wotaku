@@ -45,6 +45,7 @@ ___
 - [Innertune](https://github.com/z-huang/InnerTune){target="_blank"} [!badge variant="ghost" text="Youtube Music"]
 - [mpv-android](https://github.com/mpv-android/mpv-android){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=is.xyz.mpv&hl=en&gl=US){target="_blank"}
 - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en&gl=US){target="_blank"} [!button target="blank" variant="dark" size="xs" text="Mobilism"](https://forum.mobilism.me/search.php?keywords=mx+player&sr=topics&sf=titleonly){target="_blank"}
+- [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287){target="_blank"} [!badge variant="ghost" size="xs" text="iOS"]
 - [Poweramp](https://powerampapp.com/){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer&hl=en&gl=US){target="_blank"}
 - [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus){target="_blank"} [!badge variant="ghost" size="xs" text="iOS"] [!badge variant="ghost" text="Spotify"]
 - [Spotify++](https://appdb.to/app/cydia/1900000540){target="_blank"} [!badge variant="ghost" size="xs" text="iOS"]
@@ -67,89 +68,6 @@ ___
     - Pixiv [!badge variant="dark" target="blank" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=jp.pxv.android){target="_blank"}
 - [KizzyRPC](https://github.com/dead8309/KizzyRPC){target="_blank"}
 +++
-
-
-![](/static/banner/ext.png)
-## Extensions
-___
-
-+++ Anime
-
-- [Anime Watch Parties](https://github.com/Dragicafit/Anime-Watch-Parties/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://animewatchparties.com/){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/anime-watch-parties/goinehmnmhnoaepodbngfgdgjeibgelh/){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/){target="_blank"}
-- [Animepahe Plus](https://github.com/Cyan903/Animepahe-plus){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-CA/firefox/addon/animepahe-plus/){target="_blank"}
-- [Anime Skip Player](https://github.com/anime-skip/player){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://anime-skip.com/){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/anime-skip/mgmdkjcljneegjfajchedjpdhbadklcf){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-skip){target="_blank"}
-- [Aniskip](https://github.com/lexesjan/typescript-aniskip-extension){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/aniskip/npfcdmjgaocepmpdnmliimijgfjbgcdd){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/aniskip/){target="_blank"}
-- [MALSync](https://github.com/MALSync/MALSync){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://malsync.moe/){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/mal-sync/){target="_blank"}
-- Substital [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://substital.com/){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/substital/){target="_blank"}
-
-
-+++ Manga
-
-- [All Manga Reader](https://gitlab.com/all-mangas-reader/all-mangas-reader-2){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://www.allmangasreader.com/){target="_blank"}
-- [MALSync](https://github.com/MALSync/MALSync){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://malsync.moe/){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/mal-sync/){target="_blank"}
-- [Similar Manga](https://github.com/similar-manga/similar){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg){target="_blank"}
-
-
-+++ Others
-
-- [Booru Shinshi](https://github.com/kuanyui/BooruShinshi){target="_blank"}  [!badge variant="dark" target="blank" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/booru-shinshi/){target="_blank"}
-- Improve Crunchyroll [!badge variant="dark" target="blank" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh){target="_blank"}
-- [KellyC Image Downloader](https://github.com/NC22/KellyC-Image-Downloader){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://kellydownloader.com/en/){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/kellyc-image-downloader/mbhkdmjolnhcppnkldbdfaomeabjiofm){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/ru/firefox/addon/kellyc-favorites/){target="_blank"}
-- [MAL Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/myanimelist-redesign/knegaeodgehajemjpfbhlgjdcloklkal){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/myanimelist-redesign/){target="_blank"}
-- [Pixiv Batch Downloader](https://github.com/xuejianxianzun/PixivBatchDownloader){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://pixiv.download/){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/powerful-pixiv-downloader/dkndmhgdcmjdmkdonmbgjpijejdcilfh){target="_blank"}
-- [Search by Image](https://github.com/dessant/search-by-image){target="_blank"}
-+++
-
-![](/static/banner/script.png)
-
-## Scripts
-___
-
-+++ Anime
-
-- 9anime Bingewatcher+ [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher){target="_blank"}
-- [Anifilters](https://github.com/Karmesinrot/Anifiltrs){target="_blank"}
-- [Anime Website Buttons Plus](https://github.com/Deatthwing/anime-website-buttons-plus){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/398046-anime-website-custom-buttons-plus){target="_blank"}
-- Find on Nyaa [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/379776-find-on-nyaa){target="_blank"}
-- [MAL-Sync](https://github.com/MALSync/MALSync/releases/latest/download/malsync.user.js){target="_blank"}
-
-+++ Anilist
-
-- [AniList Unlimited](https://github.com/mysticflute/ani-list-unlimited){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/404465-anilist-unlimited-score-in-header){target="_blank"}
-- Anilist External Links [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/442599-anilist-external-links){target="_blank"}
-- Anisongs [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/374785-anisongs){target="_blank"}
-- [Automail](https://github.com/hohMiyazawa/Automail){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/370473-automail){target="_blank"}
-
-+++ MyAnimeList
-
-- Affinity to you [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/423918-affinity-to-you){target="_blank"}
-- Auto Date Add [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/407730-automatically-add-start-finish-dates-for-animes-mangas-helpful-buttons){target="_blank"}
-- Endless MAL Search Pages [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/409957-endless-mal-search-pages){target="_blank"}
-- [MAL Dubs](https://github.com/MAL-Dubs/MAL-Dubs){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/376546-mal-myanimelist-dubs){target="_blank"}
-- [MAL English Titles](https://github.com/Animorphs/MAL-English-Titles){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/420200-mal-english-titles){target="_blank"}
-- Series Highlighter [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/424774-series-highlighter-mal){target="_blank"}
-
-+++ Manga
-
-- MangaDex Condensed [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/429495-mangadex-condensed){target="_blank"}
-- Mangadex Follows [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/430295-new-mangadex-follows){target="_blank"}
-- [Manga Online Viewer](https://github.com/TagoDR/MangaOnlineViewer){target="_blank"}
-
-+++ Pixiv & Booru
-
-- Pixiv Downloader [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/432150-pixiv-downloader){target="_blank"}
-- [Pixiv Preview](https://github.com/NightLancer/PixivPreview){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/39387-pixiv-arts-preview-followed-atrists-coloring-extended-history){target="_blank"}
-- [ppixiv for Pixiv](https://github.com/ppixiv/ppixiv){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/370418-ppixiv-for-pixiv){target="_blank"}
-- [Max URL](https://github.com/qsniyg/maxurl){target="_blank"}
-- [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE%2B){target="_blank"}
-- [Handy Image](https://github.com/Owyn/HandyImage){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/109-handy-image){target="_blank"}
-
-+++
-
-!!!warning Scripts may not function correctly or reliably all the time
-Active maintenance is necessary for scripts to work properly. If a script fails, try reinstalling it; otherwise, wait for a fix to be released. Install [**Violentmonkey**](https://violentmonkey.github.io/){target="_blank"} or [**Tampermonkey**](https://www.tampermonkey.net/){target="_blank"} to use scripts.
-!!!
-
 
 ![](/static/banner/tools.png)
 
@@ -231,9 +149,91 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
     - [Foobar2000](https://www.foobar2000.org/){target="_blank"}
     - [MPC-HC](https://codecguide.com/download_kl.htm){target="_blank"}
     - [Potplayer](https://potplayer.daum.net/){target="_blank"}
+    - [IINA](https://iina.io/){target="_blank"} [!badge variant="ghost" size="xs" text="MacOS"]
     - [Spicetify](https://spicetify.app/){target="_blank"}
     - [WACUP](https://getwacup.com/){target="_blank"}
 - [osu! Cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner){target="_blank"}
 - [Textractor](https://github.com/Artikash/Textractor){target="_blank"}
 
 +++
+
+![](/static/banner/ext.png)
+## Extensions
+___
+
++++ Anime
+
+- [Anime Watch Parties](https://github.com/Dragicafit/Anime-Watch-Parties/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://animewatchparties.com/){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/anime-watch-parties/goinehmnmhnoaepodbngfgdgjeibgelh/){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/){target="_blank"}
+- [Animepahe Plus](https://github.com/Cyan903/Animepahe-plus){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-CA/firefox/addon/animepahe-plus/){target="_blank"}
+- [Anime Skip Player](https://github.com/anime-skip/player){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://anime-skip.com/){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/anime-skip/mgmdkjcljneegjfajchedjpdhbadklcf){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-skip){target="_blank"}
+- [Aniskip](https://github.com/lexesjan/typescript-aniskip-extension){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/aniskip/npfcdmjgaocepmpdnmliimijgfjbgcdd){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/aniskip/){target="_blank"}
+- [MALSync](https://github.com/MALSync/MALSync){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://malsync.moe/){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/mal-sync/){target="_blank"}
+- Substital [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://substital.com/){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/substital/){target="_blank"}
+
+
++++ Manga
+
+- [All Manga Reader](https://gitlab.com/all-mangas-reader/all-mangas-reader-2){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://www.allmangasreader.com/){target="_blank"}
+- [MALSync](https://github.com/MALSync/MALSync){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://malsync.moe/){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/mal-sync/){target="_blank"}
+- [Similar Manga](https://github.com/similar-manga/similar){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg){target="_blank"}
+
+
++++ Others
+
+- [Booru Shinshi](https://github.com/kuanyui/BooruShinshi){target="_blank"}  [!badge variant="dark" target="blank" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/booru-shinshi/){target="_blank"}
+- Improve Crunchyroll [!badge variant="dark" target="blank" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh){target="_blank"}
+- [KellyC Image Downloader](https://github.com/NC22/KellyC-Image-Downloader){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://kellydownloader.com/en/){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/kellyc-image-downloader/mbhkdmjolnhcppnkldbdfaomeabjiofm){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/ru/firefox/addon/kellyc-favorites/){target="_blank"}
+- [MAL Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/myanimelist-redesign/knegaeodgehajemjpfbhlgjdcloklkal){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/myanimelist-redesign/){target="_blank"}
+- [Pixiv Batch Downloader](https://github.com/xuejianxianzun/PixivBatchDownloader){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://pixiv.download/){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/powerful-pixiv-downloader/dkndmhgdcmjdmkdonmbgjpijejdcilfh){target="_blank"}
+- [Search by Image](https://github.com/dessant/search-by-image){target="_blank"}
++++
+
+![](/static/banner/script.png)
+
+## Scripts
+___
+
++++ Anime
+
+- 9anime Bingewatcher+ [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher){target="_blank"}
+- [Anifilters](https://github.com/Karmesinrot/Anifiltrs){target="_blank"}
+- [Anime Website Buttons Plus](https://github.com/Deatthwing/anime-website-buttons-plus){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/398046-anime-website-custom-buttons-plus){target="_blank"}
+- Find on Nyaa [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/379776-find-on-nyaa){target="_blank"}
+- [MAL-Sync](https://github.com/MALSync/MALSync/releases/latest/download/malsync.user.js){target="_blank"}
+
++++ Anilist
+
+- [AniList Unlimited](https://github.com/mysticflute/ani-list-unlimited){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/404465-anilist-unlimited-score-in-header){target="_blank"}
+- Anilist External Links [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/442599-anilist-external-links){target="_blank"}
+- Anisongs [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/374785-anisongs){target="_blank"}
+- [Automail](https://github.com/hohMiyazawa/Automail){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/370473-automail){target="_blank"}
+
++++ MyAnimeList
+
+- Affinity to you [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/423918-affinity-to-you){target="_blank"}
+- Auto Date Add [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/407730-automatically-add-start-finish-dates-for-animes-mangas-helpful-buttons){target="_blank"}
+- Endless MAL Search Pages [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/409957-endless-mal-search-pages){target="_blank"}
+- [MAL Dubs](https://github.com/MAL-Dubs/MAL-Dubs){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/376546-mal-myanimelist-dubs){target="_blank"}
+- [MAL English Titles](https://github.com/Animorphs/MAL-English-Titles){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/420200-mal-english-titles){target="_blank"}
+- Series Highlighter [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/424774-series-highlighter-mal){target="_blank"}
+
++++ Manga
+
+- MangaDex Condensed [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/429495-mangadex-condensed){target="_blank"}
+- Mangadex Follows [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/430295-new-mangadex-follows){target="_blank"}
+- [Manga Online Viewer](https://github.com/TagoDR/MangaOnlineViewer){target="_blank"}
+
++++ Pixiv & Booru
+
+- Pixiv Downloader [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/432150-pixiv-downloader){target="_blank"}
+- [Pixiv Preview](https://github.com/NightLancer/PixivPreview){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/39387-pixiv-arts-preview-followed-atrists-coloring-extended-history){target="_blank"}
+- [ppixiv for Pixiv](https://github.com/ppixiv/ppixiv){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/370418-ppixiv-for-pixiv){target="_blank"}
+- [Max URL](https://github.com/qsniyg/maxurl){target="_blank"}
+- [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE%2B){target="_blank"}
+- [Handy Image](https://github.com/Owyn/HandyImage){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/109-handy-image){target="_blank"}
+
++++
+
+!!!warning Scripts may not function correctly or reliably all the time
+Active maintenance is necessary for scripts to work properly. If a script fails, try reinstalling it; otherwise, wait for a fix to be released. Install [**Violentmonkey**](https://violentmonkey.github.io/){target="_blank"} or [**Tampermonkey**](https://www.tampermonkey.net/){target="_blank"} to use scripts.
+!!!

@@ -2,7 +2,7 @@
 
 The wiki that contains (almost) everything related to manga, anime, and light novels.
 
-[![cover](/static/thumb/cover.png)](https://wotaku.pages.dev/){target="_blank"}
+[![cover](/static/thumb/cover.png)](https://wotaku.pages.dev/)
 ___
 
 # <img src="/static/rm/repo.svg" width="24px"> What is in the Wiki?
@@ -17,7 +17,7 @@ ___
 ___
 
 # <img src="/static/rm/pr.svg" width="24px"> Submitting a link
-If you want to submit or correct a link instead of creating a pull request, please post an [issue](https://github.com/anotherduckling/Wotaku/issues/new){target="_blank"}. This makes it easier for me to add it to the wiki, since I need to maintain the categories and markdown style.
+If you want to submit or correct a link instead of creating a pull request, please post an [issue](https://github.com/anotherduckling/Wotaku/issues/new). This makes it easier for me to add it to the wiki, since I need to maintain the categories and markdown style.
 
 ___
 
