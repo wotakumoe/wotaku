@@ -88,14 +88,11 @@ ___
 - [U2](https://u2.dmhy.org/portal.php){target="_blank"} [!badge variant="ghost" size="xs" text="Private tracker"]
 
 ==- :icon-light-bulb: Quick Tips
-
-> For torrent related terms, [click here](https://rentry.org/The-Piracy-Glossary#torrenting-terms){target="_blank"}.
-
-> Recommended torrent client for Android is [!badge variant="dark" target="blank" icon="/static/icon/lt.png" text="libretorrent"](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent){target="_blank"}. For Windows, Linux & macOS, use [!badge variant="dark" target="blank" icon="/static/icon/qb.svg" text="qBittorrent"](https://www.qbittorrent.org/){target="_blank"} or [!badge variant="dark" target="blank" icon="/static/icon/trans.png" text="Transmission"](https://transmissionbt.com/){target="_blank"}.
-
-> For VPN, use [!badge variant="dark" target="blank" icon="/static/icon/mv.png" text="Mullvad"](https://mullvad.net/){target="_blank"} or [!badge variant="dark" target="blank" icon="/static/icon/ivpn.png" text="IVPN"](https://www.ivpn.net/){target="_blank"}. If you want free alternative, use [!badge variant="dark" target="blank" icon="/static/icon/wind.png" text="Windscribe"](https://windscribe.com/){target="_blank"}.
-
-> Use [Seadex](https://releases.moe/){target="_blank"} or [Sneedex](https://sneedex.moe/){target="_blank"} to find the best uploads available.
+1. [Torrent Terms](https://en.wikipedia.org/wiki/Glossary_of_BitTorrent_terms){target="_blank"}.
+2. [Private Tracker Guide](https://rentry.co/private-trackers)
+3. Recommended torrent client for Android is [!badge variant="dark" target="blank" icon="/static/icon/lt.png" text="libretorrent"](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent){target="_blank"}. For Windows, Linux & macOS, use [!badge variant="dark" target="blank" icon="/static/icon/qb.svg" text="qBittorrent"](https://www.qbittorrent.org/){target="_blank"} or [!badge variant="dark" target="blank" icon="/static/icon/trans.png" text="Transmission"](https://transmissionbt.com/){target="_blank"}.
+4. For VPN, use [!badge variant="dark" target="blank" icon="/static/icon/mv.png" text="Mullvad"](https://mullvad.net/){target="_blank"} or [!badge variant="dark" target="blank" icon="/static/icon/ivpn.png" text="IVPN"](https://www.ivpn.net/){target="_blank"}. If you want free alternative, use [!badge variant="dark" target="blank" icon="/static/icon/wind.png" text="Windscribe"](https://windscribe.com/){target="_blank"}.
+5. Use [Seadex](https://releases.moe/){target="_blank"} or [Sneedex](https://sneedex.moe/){target="_blank"} to find the best uploads available.
 
 ===
 
@@ -145,7 +142,7 @@ ___
 
 ## Manga
 
-For Offcial releases(web, volume, omnibus etc.), download from [**Nyaa**](#nyaa-uploaders) or [**Madokami**](#step-1). They have very little compression, if any.
+For Offcial releases(web, volume, omnibus etc.), download from [**Nyaa**](#nyaa-uploaders) or [**Madokami**](#madokami). They have very little compression, if any.
 ___
 
 ### Reader
@@ -198,7 +195,8 @@ ___
 
 #### Scanlator
 
-==- Manga
++++ Manga
+
 - [Animated Glitched Scans](https://anigliscans.com/){target="_blank"} + `KR` | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/1dde9054-11fd-4f5e-a575-a50f7bd22d5f/animated-glitched-scans){target="_blank"} [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/15ncn1v/animated-glitched-scans){target="_blank"}
 - [Assorted Scans](https://assortedscans.com/){target="_blank"}
 - [Danke fürs Lesen Scans](https://danke.moe/){target="_blank"} | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/91035fe1-d6b0-4816-be51-b54d05d546cf/danke-furs-lesen){target="_blank"} [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/xlp7424/danke-fuers-lesen){target="_blank"}
@@ -206,7 +204,9 @@ ___
 - [Scylla Scans](https://scyllascans.org/r){target="_blank"} | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/4209a4a9-b838-4817-be40-0c8ef2f7be4a/scylla-scans){target="_blank"} [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/groups.html?id=14042){target="_blank"}
 - [TCB Scans](https://onepiecechapters.com/){target="_blank"} | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/db85f2a1-d69b-4181-a7a0-aa37db4bcbcf/tcb-scans){target="_blank"} [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/wn8v9bv/tcb-scans){target="_blank"}
 - [Tritinia](https://tritinia.org/){target="_blank"} + `CN` `KR` | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/zfxsenj/tritinia-scans){target="_blank"}
-==- Mangadex group
+
++++ Mangadex group
+
 - [Ace Scans](https://mangadex.org/group/6cdcccb1-5ed9-4cbd-b391-675b42de3ee6){target="_blank"} | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/189byvu/ace-scans){target="_blank"}
 - [Boredom society](https://mangadex.org/group/f62c0c65-d7bb-42ee-8d44-f14d9ae974af/boredom-society){target="_blank"} | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/stxl2b5/boredom-society-scanlations){target="_blank"}
 - [Circle](https://mangadex.org/group/916a8c9a-c743-426f-8660-6bc7c0590b35/circle){target="_blank"} | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/mzq2toi/circle){target="_blank"}
@@ -216,13 +216,15 @@ ___
 - [Kouhai scanlations](https://mangadex.org/group/b25e068a-5363-4f1d-872b-eba5b0224ae9/kouhai-scanlations){target="_blank"} | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/2995jae/kouhai-scanlations){target="_blank"}
 - [Laughing in quarantine](https://mangadex.org/group/71ade5cd-93cf-4397-a5cc-d5c6181d8697/laughing-in-quarantine){target="_blank"} | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/hef6zqd/laughing-in-quarantine){target="_blank"}
 - [Random scans](https://mangadex.org/group/8bc0f2aa-90b0-4423-afd4-501b9d623d41/random-scans-en){target="_blank"} + `KR` `ID` `CN` 💀 | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/gja9x6m/random-scans){target="_blank"}
-- [SleepySlimeTL
-  ](https://mangadex.org/group/a074ddce-798c-4b3c-8568-fa6f2833dc96/sleepyslimetl) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/1mls20r/sleepyslimetl){target="_blank"}
+- [Sho Habby Scans](https://mangadex.org/group/2015e273-89af-41f6-9488-cae400463c93/sho-habby-scans) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/12je778/sho-habby-scans){target="_blank"}
+- [SleepySlimeTL](https://mangadex.org/group/a074ddce-798c-4b3c-8568-fa6f2833dc96/sleepyslimetl) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/1mls20r/sleepyslimetl){target="_blank"}
 - [Tonikaku scans](https://mangadex.org/group/063cf1b0-9e25-495b-b234-296579a34496/tonikaku-scans){target="_blank"} | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/85x42f0/tonikaku-scans){target="_blank"}
 - [Toor Scans](https://mangadex.org/group/428fa899-6f51-4330-a4e0-2a8aeaab44b0/toor-scans){target="_blank"} | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/qzru5y0/toor-scans){target="_blank"}
 - [Toru Scans](https://mangadex.org/group/69148b88-5740-434d-b62f-b67711ca490b/toruscans){target="_blank"} | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/vsugigg/toruscans){target="_blank"}
 - [What's typesetting](https://mangadex.org/group/d93016fa-0af4-4967-a1b3-7bd8a6a87483/what-s-typesetting){target="_blank"} | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/qmoi94j/what-s-typesetting){target="_blank"}
-==- Manhwa
+
++++ Manhwa
+
 - [Asura Scans](https://www.asurascans.com/){target="_blank"} + `CN` | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/juxsa9z/asura){target="_blank"}
 - [Flame Scans](https://flamescans.org/){target="_blank"} + `CN` | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/fdad9851-164f-43fc-9ab0-25b8054c99ed/flame-scans){target="_blank"} [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/btgsdiy/flame-scans){target="_blank"}
 - [Immortal Updates](https://immortalupdates.com/){target="_blank"} + `CN` | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/1296f28d-7888-4fcc-8861-93edb6c05e8c/immortal-updates-scan){target="_blank"} [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/10z1hxo/immortal-updates-scan){target="_blank"}
@@ -235,7 +237,9 @@ ___
 - [Tritinia Scans](https://tritinia.org/){target="_blank"} +`JP` `CN` [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/zfxsenj/tritinia-scans){target="_blank"}
 - [Void Scans](https://void-scans.com/){target="_blank"} + `CN`
 - [Zero Scans](https://zeroscans.com/){target="_blank"} + `CN` | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/dd0a3018-21f1-4488-948c-08499b179fcf/zero-scans){target="_blank"} [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/vlkvmk7/zero-scans-discord){target="_blank"}
-==- Manhua
+
++++ Manhua
+
 - [Ansh Scans](https://anshscans.org/){target="_blank"} | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/43a13d2b-21d5-4453-ad78-cba547b7e879/ansh-scans){target="_blank"} [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/tmszmfv/ansh-scans){target="_blank"}
 - [Disaster Scans](https://disasterscans.com/){target="_blank"}
 - [Drake Scans](https://drakescans.com/){target="_blank"} | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/50caf96d-fe2b-4638-9d13-4954b782e112/drake-scans){target="_blank"} [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/ktajd9u/drake-scans){target="_blank"}
@@ -244,7 +248,8 @@ ___
 - [Manhua SY](https://www.manhuasy.com/manhua/){target="_blank"} | [Manga SY](https://www.mangasy.com/){target="_blank"}
 - [Realm Scans](https://realmscans.com/){target="_blank"} + `KR` | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/g8dqjxt/realm-scans){target="_blank"}
 - [xCaliBR Scans](https://xcalibrscans.com/){target="_blank"} | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/ynopo9s/cursed-xcalibr){target="_blank"}
-===
+
++++
 
 > I have added all the well-known scanlators for manhwa and manhua, but for manga, it's not practical or possible to add all the famous ones. So I have added my favorite ones. Yes, this section is kind of biased.
 
@@ -265,7 +270,10 @@ ___
 - [Ushi](https://nyaa.si/user/bakaushi){target="_blank"} [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="yen"]
 - [XRA9](https://nyaa.si/?f=0&c=0_0&q=XRA9){target="_blank"} 
 
-==- Madokami Guide
+
+#### Madokami
+
+==- Joining Guide
 #### Step 1
 Choose an [IRC client](https://ircv3.net/software/clients){target="_blank"} you're comfortable with, as you can't use web IRC.
 
