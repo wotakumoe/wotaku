@@ -49,7 +49,7 @@ ___
     - Marin has a good amount of missing titles, especially movies
 - [**KickAssAnime**](https://kickassanime.am/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Proxies"](https://kickassanimes.info/){target="_blank"}
     - Scrapes **Crunchyroll**(duckstream) and **Bilibili**(birdstream)
-    - KAA encodes(videstreaming) are decent with lower overall bitrate. Use the previous two if available. Duck has the highest overall bitrate
+    - KAA encodes(videstreaming) are quite good too(new encodes). Use the previous two if available. Duck has the highest overall bitrate
     - Has both hardsub(duck) & softsub(rest) 
     - Has missing titles. But, you can request them in their support server
 - [**Aniwatch**](https://aniwatch.to/home){target="_blank"} [!badge variant="dark" target="blank" size="xs" text="formerly Zoro"]

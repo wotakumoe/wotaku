@@ -30,6 +30,7 @@ Welcome to Wotaku! Here you'll find a diverse range of resources related to japa
 If you want to submit or correct a link instead of creating a pull request, please post an [issue](https://github.com/anotherduckling/Wotaku/issues/new). This makes it easier for me to add it to the wiki, since I need to maintain the categories and markdown style.
 
 <br/>
+
 > Please note that I may choose not to add the site if it is redundant or if it does not meet my preferences.
 
 <br/>
