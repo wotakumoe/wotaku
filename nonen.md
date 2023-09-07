@@ -115,6 +115,7 @@ ___
 - [Mior Subs](https://miorosubs.pl/){target="_blank"}
 - [Nana Subs](https://nanasubs.com/){target="_blank"}
 - [Okami-subs](https://okami-subs.pl/){target="_blank"}
+- [Oglądaj Anime](https://ogladajanime.pl/){target="_blank"}
 - [Wbijam](https://wbijam.pl/){target="_blank"}
 
 #### Portuguese
