@@ -61,7 +61,7 @@ ___
 - [MoeList](https://github.com/axiel7/MoeList){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://moelist.net/){target="_blank"} [!badge variant="ghost" size="xs" text="MyAnimeList"]
 
 +++ Others
-
+- [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa&hl=en&gl=US){target="_blank"}
 - Illustrations
     - Anime Boxes [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://www.animebox.es/){target="_blank"}
     - [Boorusphere](https://github.com/nullxception/boorusphere){target="_blank"}

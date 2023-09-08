@@ -126,18 +126,35 @@ ___
 ## Portals
 ____
 
++++ General
+- [Anime News Network](https://www.animenewsnetwork.com/){target="_blank"}
+- [Crunchyroll News](https://www.crunchyroll.com/news){target="_blank"}
+- [MAL News](https://myanimelist.net/news){target="_blank"}
+
++++ Anime
 - [Anime Corner](https://animecorner.me/){target="_blank"}
 - [Anitrendz](https://anitrendz.net/news/){target="_blank"}
-- [Anime News Network](https://www.animenewsnetwork.com/){target="_blank"}
-- [Anime Senpai](https://www.animesenpai.net/){target="_blank"}
-- [Crunchyroll News](https://www.crunchyroll.com/news){target="_blank"}
+- [AnimeTV](https://twitter.com/animetv_jp){target="_blank"}
+
++++ Manga
 - [Josu Ke](https://twitter.com/Josu_ke){target="_blank"}
-- [Make Believe Mailer](https://mbmelodies.substack.com/){target="_blank"}
-- [MAL News](https://myanimelist.net/news){target="_blank"}
 - [Manga Alerts](https://twitter.com/MangaAlerts){target="_blank"}
 - [Manga Mogura RE](https://twitter.com/MangaMoguraRE){target="_blank"}
-- [](https://twitter.com/WSJ_manga)
+- [Shonen Jump News](https://twitter.com/WSJ_manga)
+
++++ Games
+- [4Gamer](https://www.4gamer.net/){target="_blank"}
+- [Famitsu](https://www.famitsu.com/){target="_blank"}
+- [Gematsu](https://www.gematsu.com/){target="_blank"}
+- [Esuteru](https://blog.esuteru.com/){target="_blank"}
+- [Gamenyarth](https://gamenyarth.blog.fc2.com/){target="_blank"}
+- [Atwiki](https://atwiki.jp/){target="_blank"}
+
++++ Others
+- [Make Believe Mailer](https://mbmelodies.substack.com/){target="_blank"}
 - [Vocasphere](https://vocasphere.net/){target="_blank"}
++++
+
 
 
 ![](/static/banner/tools.png)

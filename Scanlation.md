@@ -20,6 +20,7 @@ ___
 ## Raw
 ___
 ### Reader
+- [Bilingual Manga](https://bilingualmanga.net/){target="_blank"}
 - [Hachi Raw](https://hachiraw.com/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
 - [KL Manga](https://klmanga.com/){target="_blank"} [!badge variant="ghost" size="xs" text="R"]
 - [Mangaraw Japan](https://mangaraw.to/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]

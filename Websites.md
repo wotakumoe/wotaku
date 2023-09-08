@@ -49,7 +49,7 @@ ___
     - Marin has a good amount of missing titles, especially movies
 - [**KickAssAnime**](https://kickassanime.am/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Proxies"](https://kickassanimes.info/){target="_blank"}
     - Scrapes **Crunchyroll**(duckstream) and **Bilibili**(birdstream)
-    - KAA encodes(videstreaming) are quite good too(new encodes). Use the previous two if available. Duck has the highest overall bitrate
+    - KAA encodes(videstreaming) are decent with lower overall bitrate. Use the previous two if available. Duck has the highest overall bitrate
     - Has both hardsub(duck) & softsub(rest) 
     - Has missing titles. But, you can request them in their support server
 - [**Aniwatch**](https://aniwatch.to/home){target="_blank"} [!badge variant="dark" target="blank" size="xs" text="formerly Zoro"]
@@ -65,7 +65,7 @@ ___
 - [Animeflix](https://animeflix.live/){target="_blank"}
 - [AnimeUI](https://animeui.com/){target="_blank"} [!badge variant="ghost" size="xs" text="IPFS"] [!badge variant="ghost" size="xs" text="Small library"] [!badge variant="ghost" size="xs" text="Great Quality"]
 - [Kaguya](https://kaguya.app){target="_blank"} [!badge variant="ghost" size="xs" text="Needs extension"]
-- [One Pace](https://onepace.net/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Stremio"](https://6b8ba440e405-onepace-stremio-v2.baby-beamup.club/manifest.json) [!button target="blank" variant="primary" size="xs" text="Direct Stream"](https://rentry.co/onepace){target="_blank"} [!badge variant="ghost" size="xs" text="Torrent"]
+- [One Pace](https://onepace.net/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Streamio"](hhttps://fedew04.github.io/OnePaceStremio/manifest.json) [!button target="blank" variant="primary" size="xs" text="Direct Stream"](https://rentry.co/onepace){target="_blank"} [!badge variant="ghost" size="xs" text="Torrent"]
 - [Pokémon TV](https://poke-tv.vercel.app/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/seiya-dev/pokemon-tv){target="_blank"} [!badge variant="ghost" size="xs" text="Multi-lang"]
 - [AnimeXin](https://animexin.vip/){target="_blank"} [!badge variant="ghost" size="xs" text="Donghua"]
 - [Lucifer Donghua](https://luciferdonghua.in/){target="_blank"} [!badge variant="ghost" size="xs" text="Donghua"]
@@ -88,12 +88,12 @@ ___
 - [U2](https://u2.dmhy.org/portal.php){target="_blank"} [!badge variant="ghost" size="xs" text="Private tracker"]
 
 ==- :icon-light-bulb: Quick Tips
-1. [Torrent Terminologies](https://en.wikipedia.org/wiki/Glossary_of_BitTorrent_terms){target="_blank"}
+1. [Torrent Terms](https://en.wikipedia.org/wiki/Glossary_of_BitTorrent_terms){target="_blank"}.
 2. [Private Tracker Guide](https://rentry.co/private-trackers)
 3. Recommended torrent client for Android is [!badge variant="dark" target="blank" icon="/static/icon/lt.png" text="libretorrent"](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent){target="_blank"}. For Windows, Linux & macOS, use [!badge variant="dark" target="blank" icon="/static/icon/qb.svg" text="qBittorrent"](https://www.qbittorrent.org/){target="_blank"} or [!badge variant="dark" target="blank" icon="/static/icon/trans.png" text="Transmission"](https://transmissionbt.com/){target="_blank"}.
 4. For VPN, use [!badge variant="dark" target="blank" icon="/static/icon/mv.png" text="Mullvad"](https://mullvad.net/){target="_blank"} or [!badge variant="dark" target="blank" icon="/static/icon/ivpn.png" text="IVPN"](https://www.ivpn.net/){target="_blank"}. If you want free alternative, use [!badge variant="dark" target="blank" icon="/static/icon/wind.png" text="Windscribe"](https://windscribe.com/){target="_blank"}.
 5. Use [Seadex](https://releases.moe/){target="_blank"} or [Sneedex](https://sneedex.moe/){target="_blank"} to find the best uploads available.
-
+6. Use [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa&hl=en&gl=US){target="_blank"} as a Nyaa client on android.
 ===
 
 ### Direct Download
@@ -272,7 +272,6 @@ ___
 
 
 #### Madokami
-
 ==- Joining Guide
 #### Step 1
 Choose an [IRC client](https://ircv3.net/software/clients){target="_blank"} you're comfortable with, as you can't use web IRC.
@@ -364,22 +363,39 @@ ___
 - [Stick](https://nyaa.si/user/dumbboy58){target="_blank"}
 
 
-![](/static/banner/vn.png)
-## Visual Novels
+![](/static/banner/games.png)
+## Games
 ___
 
-- [Anime-sharing](http://www.anime-sharing.com/forum/) [!badge variant="danger" size="xs" text="R+"]
-- [CPG Repacks](https://cpgrepacks.site){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
-- [Crane Anime](https://docs.google.com/spreadsheets/d/1ECqqhEm2kDS0hgxZ0tD_73e04v5FUxQGkfCbfi0Kb9k/pubhtml#){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
-- [Eroge Download](https://erogedownload.com/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
-- [F95Zone](https://f95zone.to/){target="_blank"} [!badge variant="danger" size="xs" text="R+"] [!badge variant="ghost" size="xs" text="Needs account"]
-- [GOG](https://gog-games.to/){target="_blank"} [!badge variant="dark" target="blank" text="Library"](https://www.gog.com/en/games?genres=visual-novel&hideDLCs=true){target="_blank"}  [!badge variant="danger" size="xs" text="R+"]
-- [Kimochi](https://kimochi.info){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
++++ General
 - [Nyaa](https://nyaa.si/?f=0&c=6_2&q=){target="_blank"} [!badge size="xs" variant="success" text="E"]
-- [Nyaa sukebei](https://sukebei.nyaa.si/?f=0&c=1_3&q=){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
-- [Ryuu blogger](https://ryuubloggerv2.blogspot.com/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
-- [Ryuu games](https://www.ryuugames.com/tag/japanese/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
-- [Anime Bytes](https://animebytes.tv/){target="_blank"} [!badge variant="ghost" size="xs" text="Private tracker"]
+- [Nyaa sukebei](https://sukebei.nyaa.si/?f=0&c=1_3&q=){target="_blank"}
+- [Ova Games](https://www.ovagames.com/){target="_blank"}
+- [GOG](https://gog-games.to/){target="_blank"}
+- [Dodi](https://dodi-repacks.site/){target="_blank"}
+- [Gload](https://gload.to/){target="_blank"}
+- [F95Zone](https://f95zone.to/){target="_blank"} [!badge variant="ghost" size="xs" text="Needs account"]
+- [Doujin Style](https://doujinstyle.com/) [!badge variant="ghost" size="xs" text="Doujin"]
+- [Anime-sharing](http://www.anime-sharing.com/forum/)
+- [Crackhub Scene](https://scene.crackhub.site/){target="_blank"}
+- [Kimochi](https://kimochi.info){target="_blank"}
+- [Anime Bytes](https://animebytes.tv/){target="_blank"} [!badge variant="ghost" size="xs" text="Private tracker"] 
 - [Gazelle Games](https://gazellegames.net/login.php){target="_blank"} [!badge variant="ghost" size="xs" text="Private tracker"]
 
-> Try searching with Japanese titles on Nyaa/Sukebei
++++ ROM
+- [r/roms](https://r-roms.github.io/){target="_blank"} [!badge variant="ghost" size="xs" text="ROM"]
+- [nsw2u](https://nsw2u.xyz/){target="_blank"} [!badge variant="ghost" size="xs" text="Switch"]
+- [Ziperto](https://www.ziperto.com/){target="_blank"} [!badge variant="ghost" size="xs" text="Switch"]
+- [hShop](https://hshop.erista.me/){target="_blank"} [!badge variant="ghost" size="xs" text="3DS"]
+- [NoPayStation](https://nopaystation.com/){target="_blank"} [!badge variant="ghost" size="xs" text="Playstation"]
+- [AlvRo's Collection](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml){target="_blank"}
+- [Vimm's Lair](https://vimm.net/vault/){target="_blank"}
+
++++ VN
+- [CPG Repacks](https://cpgrepacks.site){target="_blank"}
+- [Eroge Download](https://erogedownload.com/){target="_blank"}
+- [Ryuu games](https://www.ryuugames.com/){target="_blank"}
+
++++
+
+> Try searching with Japanese titles on Nyaa/Sukebei. Also, for Sukebei, try searching with the [DLSite](https://www.dlsite.com/index.html?locale=en_US) product ID.
