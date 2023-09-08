@@ -88,7 +88,7 @@ ___
 - [U2](https://u2.dmhy.org/portal.php){target="_blank"} [!badge variant="ghost" size="xs" text="Private tracker"]
 
 ==- :icon-light-bulb: Quick Tips
-1. [Torrent Terms](https://en.wikipedia.org/wiki/Glossary_of_BitTorrent_terms){target="_blank"}.
+1. [Torrent Terminologies](https://en.wikipedia.org/wiki/Glossary_of_BitTorrent_terms){target="_blank"}
 2. [Private Tracker Guide](https://rentry.co/private-trackers)
 3. Recommended torrent client for Android is [!badge variant="dark" target="blank" icon="/static/icon/lt.png" text="libretorrent"](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent){target="_blank"}. For Windows, Linux & macOS, use [!badge variant="dark" target="blank" icon="/static/icon/qb.svg" text="qBittorrent"](https://www.qbittorrent.org/){target="_blank"} or [!badge variant="dark" target="blank" icon="/static/icon/trans.png" text="Transmission"](https://transmissionbt.com/){target="_blank"}.
 4. For VPN, use [!badge variant="dark" target="blank" icon="/static/icon/mv.png" text="Mullvad"](https://mullvad.net/){target="_blank"} or [!badge variant="dark" target="blank" icon="/static/icon/ivpn.png" text="IVPN"](https://www.ivpn.net/){target="_blank"}. If you want free alternative, use [!badge variant="dark" target="blank" icon="/static/icon/wind.png" text="Windscribe"](https://windscribe.com/){target="_blank"}.

@@ -136,6 +136,7 @@ ____
 - [MAL News](https://myanimelist.net/news){target="_blank"}
 - [Manga Alerts](https://twitter.com/MangaAlerts){target="_blank"}
 - [Manga Mogura RE](https://twitter.com/MangaMoguraRE){target="_blank"}
+- [](https://twitter.com/WSJ_manga)
 - [Vocasphere](https://vocasphere.net/){target="_blank"}
 
 
