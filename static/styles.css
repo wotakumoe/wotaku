@@ -9,3 +9,15 @@ aside ul:nth-child(3) {
     overflow-x: auto;
     white-space: nowrap;
 }
+
+.flex.border.dark\:border-dark-650.-mb-px.rounded-t::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+.flex.border.dark\:border-dark-650.-mb-px.rounded-t::-webkit-scrollbar {
+  height: 5px;
+}
+
+.flex.border.dark\:border-dark-650.-mb-px.rounded-t::-webkit-scrollbar-thumb {
+  background-color: rgba(255, 255, 255, 0.5);
+}
