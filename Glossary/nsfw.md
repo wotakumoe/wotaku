@@ -22,11 +22,8 @@ Want to learn what those elusive tags on hentai sites mean? Then this page is fo
 | Guro | A genre of hentai that features extreme violence, gore, and mutilation |
 | Incest | Sexual relations between blood-related characters |
 | Inseki | Sexual relations between family members not related by blood |
-| Kemonomimi | Meaning animal ears, a term used for hentai involving humans with animal ears and/or other animal-like features |
-| Kitsune | Meaning fox, a term for a form of kemonomimi involving humans with fox ears and/or other fox-like features |
 | Mosaic censorship | A form of censorship commonly used in Japanese pornography where genitals are obscured by pixelation or a mosaic effect |
 | Nakadashi | Creampie, the act of ejaculating inside of your partner |
-| Nekomimi | Meaning cat ears, a term for a form of kemonomimi involving humans with cat ears and/or other cat-like features |
 | Netorare (NTR) | Cuckoldry where the MC's love interest (or important person) is 'stolen' by another person |
 | Netorase | Cuckoldry where the MC enjoys / is willing to have the love interest get stolen by another person |
 | Netori | Cuckoldry where the MC steals another characters love interest |

@@ -99,7 +99,7 @@ ___
 ## Others
 ___
 
-### VTubers
+### VTuber
 
 +++ General
 
