@@ -87,7 +87,7 @@ ___
 - [Baka BT](https://bakabt.me/){target="_blank"} [!badge variant="ghost" size="xs" text="Private tracker"]
 - [U2](https://u2.dmhy.org/portal.php){target="_blank"} [!badge variant="ghost" size="xs" text="Private tracker"]
 
-==- :icon-light-bulb: Quick Tips
+==- :bulb: Quick Tips
 1. [Torrent Terms](https://en.wikipedia.org/wiki/Glossary_of_BitTorrent_terms){target="_blank"}.
 2. [Private Tracker Guide](https://rentry.co/private-trackers)
 3. Recommended torrent client for Android is [!badge variant="dark" target="blank" icon="/static/icon/lt.png" text="libretorrent"](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent){target="_blank"}. For Windows, Linux & macOS, use [!badge variant="dark" target="blank" icon="/static/icon/qb.svg" text="qBittorrent"](https://www.qbittorrent.org/){target="_blank"} or [!badge variant="dark" target="blank" icon="/static/icon/trans.png" text="Transmission"](https://transmissionbt.com/){target="_blank"}.
@@ -399,3 +399,5 @@ ___
 +++
 
 > Try searching with Japanese titles on Nyaa/Sukebei. Also, for Sukebei, try searching with the [DLSite](https://www.dlsite.com/index.html?locale=en_US) product ID.
+
+> :no_entry_sign: [List of untrusted game downloading sites](https://rentry.org/pgames#untrusted-sites).

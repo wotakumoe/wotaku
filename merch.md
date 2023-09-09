@@ -44,9 +44,9 @@ There are several ways to avoid paying for customs taxes. Additional information
 #### Agent Types
 
 - **Forwarder**
-    - Goods/Items you can buy from Japan, but the service or person won't ship overseas, in that case, you rely on a forwarder, they give you a temporary Japanese address, and with that address, you then ship the goods you buy to them, the forwarder will charge you storage fees + international shipping to send goods/item to you. You can simply think of this someone that literally ships the goods to you, because you need an address.
+    - Used in cases when you want to buy goods/Items, but the service or person doesn't ship overseas. You then rely on a forwarder, that will give you a temporary Japanese address to which you can ship the things you need. The forwarder will charge you storage fees + international shipping to send the goods/items to you. You can simply think of this as someone that literally forwards the goods to you, because you don't have a Japanese address of your own.
 - **Proxy**
-    - Someone in your behalf that buys, accepts, and ships the goods to you, unlike a forwarder. Generally, recommended for beginners (especially if you are nervous about buying stuff online), however more expensive. They will charge you the purchase fees for the goods + domestic shipping + international shipping fees + any additional fees as per their policy. 
+    - Someone acting on your behalf that buys, accepts, and ships the goods to you, unlike a forwarder. Generally, recommended for beginners (especially if you are nervous about buying stuff online), however more expensive. They will charge you the purchase fees for the goods + domestic shipping + international shipping fees + any additional fees as per their policy. 
 
 #### Additional Guides
 - [Types of Merch](https://buyfags.moe/Details_for_each_type_of_buyfaggotry){target="_blank"}
