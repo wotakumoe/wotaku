@@ -104,9 +104,9 @@ ___
 +++ General
 
 - [Holodex](https://holodex.net/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Music"](https://music.holodex.net/){target="_blank"} [!badge variant="ghost" size="xs" text="Frontend"]
-- [VChama](https://vchama.xyz){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Ranking"](https://live-ranking.userlocal.jp/vtuber-ranking){target="_blank"} [!badge variant="ghost" size="xs" text="Stats"] [!badge variant="ghost" size="xs" text="Schedule"]
+- [VChama](https://vchama.xyz){target="_blank"} [!badge variant="ghost" size="xs" text="Stats"] [!badge variant="ghost" size="xs" text="Schedule"]
 - [Virtual YouTuber Wiki ](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki){target="_blank"} [!badge variant="ghost" size="xs" text="DB"]
-- [Userlocal Vtuber](https://virtual-youtuber.userlocal.jp/){target="_blank"} [!badge variant="ghost" size="xs" text="Stats"] [!badge variant="ghost" size="xs" text="Schedule"]
+- [Userlocal Vtuber](https://virtual-youtuber.userlocal.jp/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Ranking"](https://live-ranking.userlocal.jp/vtuber-ranking){target="_blank"} [!badge variant="ghost" size="xs" text="Stats"] [!badge variant="ghost" size="xs" text="Schedule"]
 - [vTubie](https://vtubie.com/){target="_blank"} [!badge variant="ghost" size="xs" text="DB"] [!badge variant="ghost" size="xs" text="Schedule"]
 - [Hololyzer](https://www.hololyzer.net/){target="_blank"} [!badge variant="ghost" size="xs" text="Schedule"]
 
