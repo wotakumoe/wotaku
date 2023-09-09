@@ -1,7 +1,7 @@
 ---
 label: Non-English
 description: Websites and software for non-en demand.
-icon: ":u7533:"
+icon: ":world_map:"
 order: 800
 ---
 

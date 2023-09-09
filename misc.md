@@ -106,6 +106,8 @@ ___
 - [Holodex](https://holodex.net/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Music"](https://music.holodex.net/){target="_blank"} [!badge variant="ghost" size="xs" text="Frontend"]
 - [VChama](https://vchama.xyz){target="_blank"} [!badge variant="ghost" size="xs" text="Stats"] [!badge variant="ghost" size="xs" text="Schedule"]
 - [Virtual YouTuber Wiki ](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki){target="_blank"} [!badge variant="ghost" size="xs" text="DB"]
+- [VSTATS](https://www.vstats.jp/){target="_blank"} [!badge variant="ghost" size="xs" text="Stats"]
+- [Hololist](https://hololist.net/){target="_blank"} [!badge variant="ghost" size="xs" text="DB"]
 - [Userlocal Vtuber](https://virtual-youtuber.userlocal.jp/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Stream Rank"](https://live-ranking.userlocal.jp/vtuber-ranking){target="_blank"} [!badge variant="ghost" size="xs" text="Stats"] [!badge variant="ghost" size="xs" text="Schedule"]
 - [vTubie](https://vtubie.com/){target="_blank"} [!badge variant="ghost" size="xs" text="DB"] [!badge variant="ghost" size="xs" text="Schedule"]
 - [Hololyzer](https://www.hololyzer.net/){target="_blank"} [!badge variant="ghost" size="xs" text="Schedule"]
@@ -116,6 +118,7 @@ ___
 - [HoloStats](https://holo.poi.cat/youtube-stream){target="_blank"} [!badge variant="ghost" size="xs" text="Stats"] [!badge variant="ghost" size="xs" text="Schedule"]
 - [Hololive Production](https://hololive.hololivepro.com/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Schedule"](https://schedule.hololive.tv/lives){target="_blank"} [!badge variant="ghost" size="xs" text="DB"] [!badge variant="ghost" size="xs" text="News"]
 - [Holotracker](https://trackholo.live/en/){target="_blank"} [!badge variant="ghost" size="xs" text="Stats"]
+- [hololive TODAY](https://hololivetoday.com/){target="_blank"} [!badge variant="ghost" size="xs" text="News"]
 - [Quick Reference](https://monkonius.github.io/hololive-quick-reference/){target="_blank"} [!badge variant="ghost" size="xs" text="DB"]
 
 +++ Games
@@ -143,6 +146,7 @@ ___
     - [Khyo](https://www.youtube.com/@Khyo){target="_blank"}
     - [Depressed Nousagi](https://www.youtube.com/@DepressedNousagi/){target="_blank"}
 - Twitter
+    - [Holoデータ分析](https://twitter.com/Holo_Data)
     - [Tentacult Temple](https://twitter.com/Takodachis){target="_blank"}
     - [VTubers Out Of Context](https://twitter.com/ENVTubersOOC){target="_blank"}
     - [Chroneco](https://twitter.com/chrone_co){target="_blank"}
@@ -196,6 +200,7 @@ ____
 - [4Gamer](https://www.4gamer.net/){target="_blank"}
 - [Famitsu](https://www.famitsu.com/){target="_blank"}
 - [Gematsu](https://www.gematsu.com/){target="_blank"}
+- [Gamespark](https://www.gamespark.jp/){target="_blank"}
 - [Esuteru](https://blog.esuteru.com/){target="_blank"}
 - [Gamenyarth](https://gamenyarth.blog.fc2.com/){target="_blank"}
 - [Atwiki](https://atwiki.jp/){target="_blank"}
