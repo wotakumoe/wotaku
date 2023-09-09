@@ -17,7 +17,17 @@ ___
 
 #### Special Thanks to
 
-[!badge variant="dark" target="blank" size="xl" text="**Abyss**"](https://github.com/knightmob){target="_blank"} [!badge variant="dark" target="blank" size="xl" text="**Fahim**"](https://github.com/farahnur42){target="_blank"} [!badge variant="dark" target="blank" size="xl" text="**Helmasko**"](https://github.com/Helmasko){target="_blank"} [!badge variant="dark" target="blank" size="xl" text="**Ishtar**"](https://ishtar.wtf/){target="_blank"} [!badge variant="dark" target="blank" size="xl" text="**KAI**"](https://github.com/Kai-FMHY){target="_blank"} [!badge variant="dark" target="blank" size="xl" text="**loocool**"](https://github.com/loocool2){target="_blank"} [!badge variant="dark" target="blank" size="xl" text="**nuff**"](https://github.com/gengotech){target="_blank"} [!badge variant="dark" target="blank" size="xl" text="**Static**"](https://github.com/whitenoisy){target="_blank"} [!badge variant="dark" target="blank" size="xl" text="**Taskylizard**"](https://github.com/taskylizard){target="_blank"} [!badge variant="dark" target="blank" size="xl" text="**TubaApollo**"](https://github.com/TubaApollo){target="_blank"}
+- [**Abyss**](https://github.com/knightmob){target="_blank"}
+- [**Fahim**](https://github.com/farahnur42){target="_blank"}
+- [**Helmasko**](https://github.com/Helmasko){target="_blank"}
+- [**Ishtar**](https://ishtar.wtf/){target="_blank"}
+- [**KAI**](https://github.com/Kai-FMHY){target="_blank"}
+- [**loocool**](https://github.com/loocool2){target="_blank"}
+- [**nuff**](https://github.com/gengotech){target="_blank"}
+- [**Static**](https://github.com/whitenoisy){target="_blank"}
+- [**Taskylizard**](https://github.com/taskylizard){target="_blank"}
+- [**TubaApollo**](https://github.com/TubaApollo){target="_blank"}
+
 
 ## Art Credits
 - AO-chan by [3ton](https://www.pixiv.net/en/artworks/110412826){target="_blank"}

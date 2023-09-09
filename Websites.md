@@ -397,7 +397,6 @@ ___
 - [Ryuu games](https://www.ryuugames.com/){target="_blank"}
 
 +++
+> :no_entry_sign: [**List of Untrusted Game Downloading Websites**](https://rentry.org/pgames#untrusted-sites)
 
 > Try searching with Japanese titles on Nyaa/Sukebei. Also, for Sukebei, try searching with the [DLSite](https://www.dlsite.com/index.html?locale=en_US) product ID.
-
-> :no_entry_sign: [List of untrusted game downloading sites](https://rentry.org/pgames#untrusted-sites).
