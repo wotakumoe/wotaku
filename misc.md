@@ -99,6 +99,50 @@ ___
 ## Others
 ___
 
+### VTubers
+
++++ General
+
+- [Holodex](https://holodex.net/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Music"](https://music.holodex.net/){target="_blank"} [!badge variant="ghost" size="xs" text="Frontend"]
+- [VChama](https://vchama.xyz){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Ranking"](https://live-ranking.userlocal.jp/vtuber-ranking){target="_blank"} [!badge variant="ghost" size="xs" text="Stats"] [!badge variant="ghost" size="xs" text="Schedule"]
+- [Virtual YouTuber Wiki ](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki){target="_blank"} [!badge variant="ghost" size="xs" text="DB"]
+- [Userlocal Vtuber](https://virtual-youtuber.userlocal.jp/){target="_blank"} [!badge variant="ghost" size="xs" text="Stats"] [!badge variant="ghost" size="xs" text="Schedule"]
+- [vTubie](https://vtubie.com/){target="_blank"} [!badge variant="ghost" size="xs" text="DB"] [!badge variant="ghost" size="xs" text="Schedule"]
+- [Hololyzer](https://www.hololyzer.net/){target="_blank"} [!badge variant="ghost" size="xs" text="Schedule"]
+
++++ Hololive
+
+- [Hololive Fan Wiki](https://hololive.wiki/wiki/Main_Page){target="_blank"} [!badge variant="ghost" size="xs" text="DB"]
+- [HoloStats](https://holo.poi.cat/youtube-stream){target="_blank"} [!badge variant="ghost" size="xs" text="Stats"] [!badge variant="ghost" size="xs" text="Schedule"]
+- [Hololive Production](https://hololive.hololivepro.com/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Schedule"](https://schedule.hololive.tv/lives){target="_blank"} [!badge variant="ghost" size="xs" text="DB"] [!badge variant="ghost" size="xs" text="News"]
+- [Holotracker](https://trackholo.live/en/){target="_blank"} [!badge variant="ghost" size="xs" text="Stats"]
+- [Quick Reference](https://monkonius.github.io/hololive-quick-reference/){target="_blank"} [!badge variant="ghost" size="xs" text="DB"]
+
++++ Games
+
+- [Holocure](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/){target="_blank"}
+- [Idol Showdown](https://store.steampowered.com/app/1742020/Idol_Showdown/){target="_blank"}
+- [Hololive Councilrys RPG](https://kebbie.itch.io/councilrysrpg){target="_blank"}
+- [smol Ame](https://moocow-games.itch.io/smol-ame){target="_blank"}
+- [Mumei's Memory Juggling](https://david-wu-softdev.itch.io/mumeis-memory-juggling){target="_blank"}
+- [hololive ERROR](https://store.steampowered.com/app/2062550/hololive_ERROR/){target="_blank"}
+
++++ Others
+
+- Animations
+    - [Myth's Bad Ending by Mazumaro](https://www.youtube.com/watch?v=euPfAilSpuU){target="_blank"}
+    - [2ManySnacks](https://www.youtube.com/@2ManySnacks/){target="_blank"}
+    - [Kanauru](https://www.youtube.com/@kanauru/){target="_blank"}
+    - [Crash Landing Studios](https://www.youtube.com/@CrashLandingStudio){target="_blank"}
+    - [Tripl3en](https://www.youtube.com/@Tripl3en){target="_blank"}
+    - [H and Mr.H](https://www.youtube.com/@HandMrH){target="_blank"}
+- Twitter
+    - [Tentacult Temple](https://twitter.com/Takodachis)
+    - [VTubers Out Of Context](https://twitter.com/ENVTubersOOC)
+    - [Chroneco](https://twitter.com/chrone_co)
+    - [JQHN](https://twitter.com/JQHNHARQLD)
++++
+
 ### Recommendations
 - ANN TOP 100 [Manga](https://www.animenewsnetwork.com/encyclopedia/ratings-manga.php?top50=best_bayesian&n=100){target="_blank"} | [Anime](https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=popular&n=100){target="_blank"}
 - [r/Anime Recommendations](https://www.reddit.com/r/anime/wiki/recommendations/){target="_blank"}
@@ -151,6 +195,7 @@ ____
 - [Atwiki](https://atwiki.jp/){target="_blank"}
 
 +++ Others
+- [Hatsune Miku](https://twitter.com/cfm_miku_en)
 - [Make Believe Mailer](https://mbmelodies.substack.com/){target="_blank"}
 - [Vocasphere](https://vocasphere.net/){target="_blank"}
 +++

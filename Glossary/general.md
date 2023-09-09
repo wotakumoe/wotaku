@@ -221,7 +221,7 @@ Example: [Mizuno Kaede from Nyan Koi!](https://anidb.net/character/10841){target
 ![Mizuno Kaede](/static/glossary/General/nyandere.png)
 
 ==- Sadodere
-Character(s) that indulge in the manipulation of their crush's feelings and humiliating them. They are cold, violent and merciless to others, hence making them difficult to connect with others. The are also sadistic due to finding job joy in inflicting pain to their crush. Example: [Nagatoro from Don`t Toy with Me, Miss Nagatoro](https://anidb.net/anime/15622){target="_blank"}
+Character(s) that indulge in the manipulation of their crush's feelings and humiliating them. They are cold, violent and merciless to others, hence making them difficult to connect with others. The are also sadistic due to finding joy in inflicting pain to their crush. Example: [Nagatoro from Don`t Toy with Me, Miss Nagatoro](https://anidb.net/anime/15622){target="_blank"}
 
 ![Nagatoro](/static/glossary/General/Sadodere.png)
 

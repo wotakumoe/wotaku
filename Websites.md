@@ -65,7 +65,7 @@ ___
 - [Animeflix](https://animeflix.live/){target="_blank"}
 - [AnimeUI](https://animeui.com/){target="_blank"} [!badge variant="ghost" size="xs" text="IPFS"] [!badge variant="ghost" size="xs" text="Small library"] [!badge variant="ghost" size="xs" text="Great Quality"]
 - [Kaguya](https://kaguya.app){target="_blank"} [!badge variant="ghost" size="xs" text="Needs extension"]
-- [One Pace](https://onepace.net/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Streamio"](hhttps://fedew04.github.io/OnePaceStremio/manifest.json) [!button target="blank" variant="primary" size="xs" text="Direct Stream"](https://rentry.co/onepace){target="_blank"} [!badge variant="ghost" size="xs" text="Torrent"]
+- [One Pace](https://onepace.net/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Stremio"](https://app.strem.io/shell-v4.4/#/addons/community/all?addon=https%3A%2F%2F6b8ba440e405-onepace-stremio-v2.baby-beamup.club%2Fmanifest.json) [!button target="blank" variant="primary" size="xs" text="Direct Stream"](https://rentry.co/onepace){target="_blank"} [!badge variant="ghost" size="xs" text="Torrent"]
 - [Pokémon TV](https://poke-tv.vercel.app/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/seiya-dev/pokemon-tv){target="_blank"} [!badge variant="ghost" size="xs" text="Multi-lang"]
 - [AnimeXin](https://animexin.vip/){target="_blank"} [!badge variant="ghost" size="xs" text="Donghua"]
 - [Lucifer Donghua](https://luciferdonghua.in/){target="_blank"} [!badge variant="ghost" size="xs" text="Donghua"]
