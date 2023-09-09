@@ -95,6 +95,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide){target="_blank"} 
 - [Big in Japan](http://biginjap.com/)
 - [Hobby Link](https://www.hlj.com/){target="_blank"}
 - [Hobby Search](https://www.1999.co.jp/eng/){target="_blank"}
+- [FAKKU Merch](https://merch.fakku.net/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
 - [Mandarake](https://order.mandarake.co.jp/order/){target="_blank"}
 - [Right Stuff Anime](https://www.rightstufanime.com/){target="_blank"}
 

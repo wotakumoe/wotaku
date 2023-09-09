@@ -106,7 +106,7 @@ ___
 - [Holodex](https://holodex.net/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Music"](https://music.holodex.net/){target="_blank"} [!badge variant="ghost" size="xs" text="Frontend"]
 - [VChama](https://vchama.xyz){target="_blank"} [!badge variant="ghost" size="xs" text="Stats"] [!badge variant="ghost" size="xs" text="Schedule"]
 - [Virtual YouTuber Wiki ](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki){target="_blank"} [!badge variant="ghost" size="xs" text="DB"]
-- [Userlocal Vtuber](https://virtual-youtuber.userlocal.jp/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Ranking"](https://live-ranking.userlocal.jp/vtuber-ranking){target="_blank"} [!badge variant="ghost" size="xs" text="Stats"] [!badge variant="ghost" size="xs" text="Schedule"]
+- [Userlocal Vtuber](https://virtual-youtuber.userlocal.jp/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Stream Rank"](https://live-ranking.userlocal.jp/vtuber-ranking){target="_blank"} [!badge variant="ghost" size="xs" text="Stats"] [!badge variant="ghost" size="xs" text="Schedule"]
 - [vTubie](https://vtubie.com/){target="_blank"} [!badge variant="ghost" size="xs" text="DB"] [!badge variant="ghost" size="xs" text="Schedule"]
 - [Hololyzer](https://www.hololyzer.net/){target="_blank"} [!badge variant="ghost" size="xs" text="Schedule"]
 
@@ -136,11 +136,17 @@ ___
     - [Crash Landing Studios](https://www.youtube.com/@CrashLandingStudio){target="_blank"}
     - [Tripl3en](https://www.youtube.com/@Tripl3en){target="_blank"}
     - [H and Mr.H](https://www.youtube.com/@HandMrH){target="_blank"}
+- Youtube
+    - [HOLOLIVE Original Songs](https://www.youtube.com/playlist?list=PLcA50eR_E8Zbi4hdQHU5Rl1J6KrWRlHpM){target="_blank"}
+    - [Hololive Songs&Covers](https://www.youtube.com/playlist?list=PLQmVFdwvZgfXlb2RDXWV1NaPXgYPu786G){target="_blank"}
+    - [FalseEyeD](https://www.youtube.com/@FalseEyeD){target="_blank"}
+    - [Khyo](https://www.youtube.com/@Khyo){target="_blank"}
+    - [Depressed Nousagi](https://www.youtube.com/@DepressedNousagi/){target="_blank"}
 - Twitter
-    - [Tentacult Temple](https://twitter.com/Takodachis)
-    - [VTubers Out Of Context](https://twitter.com/ENVTubersOOC)
-    - [Chroneco](https://twitter.com/chrone_co)
-    - [JQHN](https://twitter.com/JQHNHARQLD)
+    - [Tentacult Temple](https://twitter.com/Takodachis){target="_blank"}
+    - [VTubers Out Of Context](https://twitter.com/ENVTubersOOC){target="_blank"}
+    - [Chroneco](https://twitter.com/chrone_co){target="_blank"}
+    - [JQHN](https://twitter.com/JQHNHARQLD){target="_blank"}
 +++
 
 ### Recommendations
