@@ -66,6 +66,13 @@ ___
 +++
 
 ### Miscellaneous
++++ Blogs
+- [Web Japan](https://web-japan.org/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Old"](https://web-japan.org/atlas/index.html)
+- [Do You Know Japan?](https://doyouknowjapan.com/){target="_blank"}
+- [japan-guide.com](https://www.japan-guide.com/){target="_blank"}
+- [Japan Reference](https://jref.com/){target="_blank"}
+- [JTCO](https://www.jtco.or.jp/en/){target="_blank"}
+
 +++ Light Novels
 - [Novel updates](https://www.novelupdates.com/){target="_blank"}
 - [Bookmeter](https://bookmeter.com/){target="_blank"} [!badge variant="ghost" icon="/static/icon/jp.png" text="JP"]
