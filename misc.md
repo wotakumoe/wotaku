@@ -67,11 +67,16 @@ ___
 
 ### Miscellaneous
 +++ Blogs
-- [Web Japan](https://web-japan.org/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Old"](https://web-japan.org/atlas/index.html)
+- [Web Japan](https://web-japan.org/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Old"](https://web-japan.org/atlas/index.html){target="_blank"}
 - [Do You Know Japan?](https://doyouknowjapan.com/){target="_blank"}
 - [japan-guide.com](https://www.japan-guide.com/){target="_blank"}
 - [Japan Reference](https://jref.com/){target="_blank"}
 - [JTCO](https://www.jtco.or.jp/en/){target="_blank"}
+
+
+- Specials
+    - [the peculiar case of japanese web design](https://sabrinas.space/) [!button target="blank" variant="primary" size="xs" text="Video"](https://www.youtube.com/watch?v=z6ep308goxQ){target="_blank"}
+        - [Cynthia Zhou] [How culture made Japanese Internet design "Weird"](https://www.youtube.com/watch?v=Opy-SjDU0UY){target="_blank"}
 
 +++ Light Novels
 - [Novel updates](https://www.novelupdates.com/){target="_blank"}
@@ -174,6 +179,7 @@ ___
 ### Recommendations
 - ANN TOP 100 [Manga](https://www.animenewsnetwork.com/encyclopedia/ratings-manga.php?top50=best_bayesian&n=100){target="_blank"} | [Anime](https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=popular&n=100){target="_blank"}
 - [r/Anime Recommendations](https://www.reddit.com/r/anime/wiki/recommendations/){target="_blank"}
+- [u/FetchFrosh Recommendations](https://www.reddit.com/r/anime/comments/o16ipm/rebuild_of_the_ultimate_anime_recommendation/){target="_blank"}
 - Visual Novel Recommendations
     - [VNDB](https://vndb.org/v?f=022gja3gja&s=34w){target="_blank"}
     - [Starter pack](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub){target="_blank"}

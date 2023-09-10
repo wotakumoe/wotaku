@@ -44,6 +44,9 @@ ___
 - [Visual Novels](https://www.reddit.com/r/visualnovels/){target="_blank"}
 - [Anime Piracy](https://www.reddit.com/r/animepiracy){target="_blank"}
 - [Manga Piracy](https://www.reddit.com/r/mangapiracy/){target="_blank"}
+- [Japan Pics](https://www.reddit.com/r/japanpics/){target="_blank"}
+- [Japan Life](https://www.reddit.com/r/japanlife/){target="_blank"}
+- [Japan Travel](https://www.reddit.com/r/JapanTravel/){target="_blank"}
 - [Vocaloid](https://www.reddit.com/r/vocaloid/){target="_blank"}
 
 
