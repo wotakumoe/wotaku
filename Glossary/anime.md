@@ -21,6 +21,8 @@ ___
 | Original Anime | Anime that's not an adaptation of existing material such as Manga, Light novel, picture book etc. |
 | OVA | Original Video Animation. Anime that was originally released on a physically medium. |
 | PV | Promotional videos of the anime. Generally teaser, trailer, preview etc. |
+| Simulcast | Simultaneous broadcast or stream of the latest episodes alongside their country of origin. |
+| Simuldub | Simultaneous dub release of the latest episodes alongside their country of origin. |
 | Seiyuu/VA | The voice actor/actress of the anime. |
 
 

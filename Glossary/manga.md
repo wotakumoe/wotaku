@@ -18,7 +18,6 @@ ___
 #### Adaptation
 Not original content and was addapted from other sources (light novel, anime, picture book etc.). Example: [Josee, the Tiger and the Fish](https://mangadex.org/search?q=Josee%2C+the+Tiger+and+the+Fish){target="_blank"} which was a [Light Novel](https://yenpress.com/titles/9781975340469-josee-the-tiger-and-the-fish-light-novel){target="_blank"} adapatation.
 
-
 #### Doujinshi
 Basically, it means indie works. If the mangaka publishes the manga on their own, then it counts as a doujinshi. It can be derivative work from a licensed franchise too. Also, it doesn't necessarily mean NSFW content. 
 
@@ -46,6 +45,12 @@ The term 'RAW' refers to manga (Japan), manhwa (Korea), or manhua (China) that h
 
 ![We are Magical Boys](/static/glossary/manga/raw.jpg)
 
+#### Simulpub
+Simultaneous publication, meaning releasing and translating the latest chapters alongside their country of origin.
+
+#### Backfilling
+When the translation of a series starts at the latest chapters, with the publisher later working on the rest, starting from the beginning.
+
 #### Sound Effects
 Sound effects in manga visualizes the characters physical or mental state, environment of the scenario, motions or just sounds(obviously).
 
@@ -56,18 +61,35 @@ Sound effects in manga visualizes the characters physical or mental state, envir
 
 
 #### Splash Page
-
-A splash page is a single panel that covers the entire page (or two) and is typically reserved for depicting an action-packed or dramatic scene.
+A splash page is a single panel that covers the entire page and is typically reserved for depicting an action-packed or dramatic scene.
 
 ![Attack on Titan ch. 95 (single page)](/static/glossary/manga/singlepage.jpg)
 
-![One Punch-Man ch. 155 (two page)](/static/glossary/manga/twopage.jpeg)
+#### Spread
+A panel/artwork that is spread out over two pages, reserved for particularly impactful moments.
 
+![One Punch-Man ch. 155 (2-page)](/static/glossary/manga/twopage.jpeg)
+
+They can sometimes cover multiple pages, which is solved by having fold-outs.
+
+![Sengoku Youko ch. 48 (5-page)](https://i.imgur.com/EL32U55.jpg)
 
 #### Tankoubon
 Tankoubon means the volume release. Many manga are initially published in magazines such as [Weekly Shonen Jump](http://www.shonenjump.com/j/index.html). If a manga becomes very popular, it can receive a volume release a.k.a. Tankoubon. These volumes often include redrawn content, extra chapters, and notes from the mangaka. Sometimes, Tankoubon collections can feature various works by the mangaka, similar to an anthology.
 
 ![One Piece](/static/glossary/manga/Tankoubon.jpg)
+
+#### Other volume types
+
+| Term | Meaning |
+| --- | --- |
+| Aizouban ("loving collection edition") | Collector's edition volumes, usually printed in limited runs. These volumes are generally more expensive and come with special features such as new covers, higher quality paper, a special slipcase, etc. |
+| Bunkoban ("paperback edition") | A volume printed in bunko format, or a typical Japanese novel-sized volume. Generally A6 size and thicker than tankoubon, usually with new covers. Bunkoban tends to contain considerably more pages than a tankoubon, meaning the bunko edition of a given manga will consist of fewer volumes. |
+| Goukaaizouban ("luxury favorite edition") | Another term occasionally used to designate a type of special release. |
+| Kanzenban ("perfect complete edition") | A special complete edition. Volumes are generally A5 size and will typically include individual chapter covers, color pages, and side-stories from its original magazine run, all of which are often omitted or converted to grayscale in standard tankoubon releases. |
+| Shinsouban ("new decoration edition") | A new edition, usually with special covers, new color pages and other extras. They can even feature completely redrawn pages and rewritten dialogue. |
+| Soushuuhen ("complete collection") | A format published by Shueisha beginning in 2008. Volumes are B5 size, larger than a kanzenban. They include chapter covers, color pages, and various bonus features such as posters and interviews. They're usually reserved for popular manga with ongoing serializations and contain far more pages than a standard tankoubon, thus feature more chapters in fewer volumes. |
+| Wide-ban | A larger (A5 size) edition. Many manga, particularly seinen and josei, are published in wide-ban editions after magazine serialization, and are never released in the tankoubon format that is common in shounen and shoujo manga. When a series originally published in tankoubon format is re-released in wide-ban, each volume will contain more pages than the original edition, thus consisting of fewer volumes. |
 
 
 #### Webcomic/Webmanga

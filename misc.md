@@ -120,6 +120,17 @@ ___
 - [Holotracker](https://trackholo.live/en/){target="_blank"} [!badge variant="ghost" size="xs" text="Stats"]
 - [hololive TODAY](https://hololivetoday.com/){target="_blank"} [!badge variant="ghost" size="xs" text="News"]
 - [Quick Reference](https://monkonius.github.io/hololive-quick-reference/){target="_blank"} [!badge variant="ghost" size="xs" text="DB"]
+- [Hololive MMD Models](https://3d.nicovideo.jp/users/89765617/works){target="_blank"} 
+
++++ Discord
+- [Hololive Fan Server](https://discord.gg/holofans){target="_blank"} 
+- [Nijisanji EN Fan Server](https://discord.gg/nijienfans){target="_blank"} 
+- [VShojo Fan Server](https://discord.com/invite/vshojo-fan-server-598886416545611790){target="_blank"} 
+- [PhaseConnect Community](https://discord.gg/phaseconnect){target="_blank"} 
+- [idol - Official server](https://discord.gg/idolcorp){target="_blank"} 
+- [PRISM](https://discord.gg/prismworld){target="_blank"} 
+- [EIEN Project Official Community](https://discord.gg/eienproject){target="_blank"} 
+- [KAWA Entertainment](https://discord.com/invite/kawa-entertainment){target="_blank"} 
 
 +++ Games
 
