@@ -74,9 +74,9 @@ ___
 - [JTCO](https://www.jtco.or.jp/en/){target="_blank"}
 
 
-- Specials
-    - [the peculiar case of japanese web design](https://sabrinas.space/) [!button target="blank" variant="primary" size="xs" text="Video"](https://www.youtube.com/watch?v=z6ep308goxQ){target="_blank"}
-        - [Cynthia Zhou] [How culture made Japanese Internet design "Weird"](https://www.youtube.com/watch?v=Opy-SjDU0UY){target="_blank"}
+#### Specials
+- [the peculiar case of japanese web design](https://sabrinas.space/) [!button target="blank" variant="primary" size="xs" text="Video"](https://www.youtube.com/watch?v=z6ep308goxQ){target="_blank"}
+    - [Cynthia Zhou] [How culture made Japanese Internet design "Weird"](https://www.youtube.com/watch?v=Opy-SjDU0UY){target="_blank"}
 
 +++ Light Novels
 - [Novel updates](https://www.novelupdates.com/){target="_blank"}
@@ -107,11 +107,9 @@ ___
 - [Zerochan](https://www.zerochan.net/){target="_blank"} [!badge variant="ghost" size="xs" text="R"]
 - [/w/](http://catalog.neet.tv/w/) [!badge variant="danger" size="xs" text="R+"]
 ___
-![](/static/banner/others.png)
-## Others
-___
 
-### VTuber
+![](/static/banner/vt.png)
+## VTuber
 
 +++ General
 
@@ -134,6 +132,23 @@ ___
 - [Quick Reference](https://monkonius.github.io/hololive-quick-reference/){target="_blank"} [!badge variant="ghost" size="xs" text="DB"]
 - [Hololive MMD Models](https://3d.nicovideo.jp/users/89765617/works){target="_blank"} 
 
++++ Youtube
+- Animations
+    - [Myth's Bad Ending by Mazumaro](https://www.youtube.com/watch?v=euPfAilSpuU){target="_blank"}
+    - [2ManySnacks](https://www.youtube.com/@2ManySnacks/){target="_blank"}
+    - [Kanauru](https://www.youtube.com/@kanauru/){target="_blank"}
+    - [Crash Landing Studios](https://www.youtube.com/@CrashLandingStudio){target="_blank"}
+    - [Tripl3en](https://www.youtube.com/@Tripl3en){target="_blank"}
+    - [H and Mr.H](https://www.youtube.com/@HandMrH){target="_blank"}
+- News
+    - [FalseEyeD](https://www.youtube.com/@FalseEyeD){target="_blank"}
+    - [Khyo](https://www.youtube.com/@Khyo){target="_blank"}
+    - [Depressed Nousagi](https://www.youtube.com/@DepressedNousagi/){target="_blank"}
+- Playlists
+    - [HOLOLIVE Original Songs](https://www.youtube.com/playlist?list=PLcA50eR_E8Zbi4hdQHU5Rl1J6KrWRlHpM){target="_blank"}
+    - [Hololive Songs&Covers](https://www.youtube.com/playlist?list=PLQmVFdwvZgfXlb2RDXWV1NaPXgYPu786G){target="_blank"}
+    - [Hologra](https://www.youtube.com/playlist?list=PL1NeGg1woXqngQytLzL8lJJLYwmzk1Wuq){target="_blank"}
+
 +++ Discord
 - [Hololive Fan Server](https://discord.gg/holofans){target="_blank"} 
 - [Nijisanji EN Fan Server](https://discord.gg/nijienfans){target="_blank"} 
@@ -154,20 +169,6 @@ ___
 - [hololive ERROR](https://store.steampowered.com/app/2062550/hololive_ERROR/){target="_blank"}
 
 +++ Others
-
-- Animations
-    - [Myth's Bad Ending by Mazumaro](https://www.youtube.com/watch?v=euPfAilSpuU){target="_blank"}
-    - [2ManySnacks](https://www.youtube.com/@2ManySnacks/){target="_blank"}
-    - [Kanauru](https://www.youtube.com/@kanauru/){target="_blank"}
-    - [Crash Landing Studios](https://www.youtube.com/@CrashLandingStudio){target="_blank"}
-    - [Tripl3en](https://www.youtube.com/@Tripl3en){target="_blank"}
-    - [H and Mr.H](https://www.youtube.com/@HandMrH){target="_blank"}
-- Youtube
-    - [HOLOLIVE Original Songs](https://www.youtube.com/playlist?list=PLcA50eR_E8Zbi4hdQHU5Rl1J6KrWRlHpM){target="_blank"}
-    - [Hololive Songs&Covers](https://www.youtube.com/playlist?list=PLQmVFdwvZgfXlb2RDXWV1NaPXgYPu786G){target="_blank"}
-    - [FalseEyeD](https://www.youtube.com/@FalseEyeD){target="_blank"}
-    - [Khyo](https://www.youtube.com/@Khyo){target="_blank"}
-    - [Depressed Nousagi](https://www.youtube.com/@DepressedNousagi/){target="_blank"}
 - Twitter
     - [Holoデータ分析](https://twitter.com/Holo_Data)
     - [Tentacult Temple](https://twitter.com/Takodachis){target="_blank"}
@@ -175,6 +176,10 @@ ___
     - [Chroneco](https://twitter.com/chrone_co){target="_blank"}
     - [JQHN](https://twitter.com/JQHNHARQLD){target="_blank"}
 +++
+___
+![](/static/banner/others.png)
+## Others
+___
 
 ### Recommendations
 - ANN TOP 100 [Manga](https://www.animenewsnetwork.com/encyclopedia/ratings-manga.php?top50=best_bayesian&n=100){target="_blank"} | [Anime](https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=popular&n=100){target="_blank"}

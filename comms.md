@@ -47,6 +47,7 @@ ___
 - [Japan Pics](https://www.reddit.com/r/japanpics/){target="_blank"}
 - [Japan Life](https://www.reddit.com/r/japanlife/){target="_blank"}
 - [Japan Travel](https://www.reddit.com/r/JapanTravel/){target="_blank"}
+- [Learn Japanese](https://www.reddit.com/r/LearnJapanese){target="_blank"}
 - [Vocaloid](https://www.reddit.com/r/vocaloid/){target="_blank"}
 
 
