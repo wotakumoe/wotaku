@@ -38,9 +38,7 @@ A bonus/extra chapter which doesn't really affect the main story. Generally give
 #### Omnibus
 A release type characteristic of western publishers where multiple tankoubon volumes are contained in one book. It's most commonly seen as 2-in-1 or 3-in-1 editions, tho it can sometimes contain an entire series, like in the case of the Death Note All-in-One volume. They're usually larger format and can contain extras, especially if the series already had a tankoubon release previously.
 
-![Naruto 3-in-1 volume](/static/glossary/manga/Naruto-3-in-1-Vol-1-3-Manga-jpeg.webp)
-
-![Death Note All-in-One](/static/glossary/manga/deathnote.jpg)
+![Naruto 3-in-1 volume(left) & Death Note All-in-One (right)](/static/glossary/manga/omnibus.png)
 
 #### One-Shot
 A manga that's been published at once. The length of the story depends on the mangaka. Also, it can be serialized later. Example: [Kimi no Kaketeru Tokomo Suki](https://mangadex.org/title/690540ab-5f55-4b44-910d-4d2ed0a0faa9/kimi-no-kaketeru-tokomo-suki){target="_blank"}
