@@ -13,7 +13,7 @@ ___
 
 ## Contributors
 
-[!badge variant="dark" target="blank" size="2xl" icon="/static/asset/meme.png" text="**Memenami**"] [!badge variant="dark" target="blank" size="2xl" icon="/static/asset/meme.png" text="**Static**"](https://github.com/whitenoisy){target="_blank"} [!badge variant="dark" target="blank" size="2xl" icon="/static/asset/ven.png" text="**Venlicht**"](https://github.com/RenaraScope){target="_blank"} [!badge variant="dark" target="blank" size="2xl" icon="/static/asset/zinc.png" text="**Zinklog**"](https://github.com/zinklog2){target="_blank"}
+[!badge variant="dark" target="blank" size="2xl" icon="/static/asset/meme.png" text="**Memenami**"] [!badge variant="dark" target="blank" size="2xl" icon="/static/asset/static.png" text="**Static**"](https://github.com/whitenoisy){target="_blank"} [!badge variant="dark" target="blank" size="2xl" icon="/static/asset/ven.png" text="**Venlicht**"](https://github.com/RenaraScope){target="_blank"} [!badge variant="dark" target="blank" size="2xl" icon="/static/asset/zinc.png" text="**Zinklog**"](https://github.com/zinklog2){target="_blank"}
 
 #### Special Thanks to
 
