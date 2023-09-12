@@ -56,7 +56,7 @@ Simultaneous publication, meaning releasing and translating the latest chapters 
 When the translation of a series starts at the latest chapters, with the publisher later working on the rest, starting from the beginning.
 
 #### Sound Effects
-Sound effects in manga visualizes the characters physical or mental state, environment of the scenario, motions or just sounds(obviously).
+Sound effects in manga visualizes the characters physical or mental state, environment of the scenario, motions or just sounds(obviously). A [collection](https://www.muri.se/misc/soundfx.html){target="_blank"} of Japanese Sound effects.
 
 ![365 Days To The Wedding; The sfx here is どよおーん” (“Doyoooon”) which means “depressed atmosphere”](/static/glossary/manga/sfx.png)
 
