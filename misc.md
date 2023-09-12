@@ -89,6 +89,7 @@ ___
 - [Web Japan](https://web-japan.org/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Old"](https://web-japan.org/atlas/index.html){target="_blank"}
 - [Do You Know Japan?](https://doyouknowjapan.com/){target="_blank"}
 - [Japan Reference](https://jref.com/){target="_blank"}
+- [Japan: Below the tip of the iceberg](https://prezi.com/9_lvn6v3fzgt/japan-below-the-tip-of-the-iceberg/){target="_blank"}
 - [JTCO](https://www.jtco.or.jp/en/){target="_blank"}
 
 #### Books
@@ -133,7 +134,8 @@ ___
 - [Abroad in Japan](https://www.youtube.com/@AbroadinJapan){target="_blank"}
     - Journey Across Japan [S1](https://www.youtube.com/playlist?list=PLSOR9_iNzVfl4ghftQDpTA4CXUvCKRlsL){target="_blank"} | [S2](https://www.youtube.com/playlist?list=PLSOR9_iNzVflVY0eQlZY4V0gArxUiOMLR){target="_blank"} | [S3](https://www.youtube.com/playlist?list=PLSOR9_iNzVflGF8OZwBqYH4mxDXvlkpSX){target="_blank"} | [S4](https://www.youtube.com/playlist?list=PLdd050JRcXCJlhiSBMjIwvB7wQ8PR-JzV){target="_blank"} | [S5](https://www.youtube.com/playlist?list=PLSOR9_iNzVflb2CWbcuXX8JQoVTcXCh2X){target="_blank"}
     - [WACKY WEEKEND](https://www.youtube.com/playlist?list=PL3BrCRgvsZ9DbueHiNITARMRqi0YfCgbT)
-- [Lets Ask Shogo](https://www.youtube.com/@LetsaskShogo){target="_blank"}
+- [Lets ask Shogo](https://www.youtube.com/@LetsaskShogo){target="_blank"}
+    - [Social problems in Japan](https://www.youtube.com/playlist?list=PLpIWoYf9KNFV_I-719B3pk673xaHZ6fYY){target="_blank"}
 - [Paolo from TOKYO](https://www.youtube.com/@PaolofromTOKYO){target="_blank"}
 - [Tokyo Lens](https://www.youtube.com/@TokyoLens){target="_blank"}
 - [Sora the Troll](https://www.youtube.com/@sorathetroll){target="_blank"}
