@@ -82,6 +82,18 @@ ___
 - [VGMDB](https://vgmdb.net/){target="_blank"}
 +++
 
+![](/static/banner/illust.png)
+## Illustrations
+- [Pixiv](https://www.pixiv.net){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
+- [Anime Pictures](https://anime-pictures.net/){target="_blank"}
+- [Danbooru](https://danbooru.donmai.us/){target="_blank"} [!badge variant="success" target="blank" text="SFW Ver"](https://safebooru.donmai.us/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
+- [Gelbooru](https://gelbooru.com/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
+- [Kona chan](https://konachan.com/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
+- [Safebooru](https://safebooru.org/){target="_blank"} [!badge variant="success" size="xs" text="E"]
+- [Yandere](https://yande.re/post){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
+- [Zerochan](https://www.zerochan.net/){target="_blank"} [!badge variant="ghost" size="xs" text="R"]
+- [/w/](http://catalog.neet.tv/w/) [!badge variant="danger" size="xs" text="R+"]
+
 ![](/static/banner/jp.png)
 ## Japan
 +++ Culture & History
@@ -163,19 +175,6 @@ ___
 - [Mini Tokyo 3D](https://minitokyo3d.com/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/nagix/mini-tokyo-3d){target="_blank"}
 
 +++
-
-![](/static/banner/illust.png)
-## Illustrations
-- [Pixiv](https://www.pixiv.net){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
-- [Anime Pictures](https://anime-pictures.net/){target="_blank"}
-- [Danbooru](https://danbooru.donmai.us/){target="_blank"} [!badge variant="success" target="blank" text="SFW Ver"](https://safebooru.donmai.us/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
-- [Gelbooru](https://gelbooru.com/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
-- [Kona chan](https://konachan.com/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
-- [Safebooru](https://safebooru.org/){target="_blank"} [!badge variant="success" size="xs" text="E"]
-- [Yandere](https://yande.re/post){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
-- [Zerochan](https://www.zerochan.net/){target="_blank"} [!badge variant="ghost" size="xs" text="R"]
-- [/w/](http://catalog.neet.tv/w/) [!badge variant="danger" size="xs" text="R+"]
-
 
 ![](/static/banner/others.png)
 ## Others
@@ -335,6 +334,7 @@ ___
     - [FalseEyeD](https://www.youtube.com/@FalseEyeD){target="_blank"}
     - [Khyo](https://www.youtube.com/@Khyo){target="_blank"}
     - [Depressed Nousagi](https://www.youtube.com/@DepressedNousagi/){target="_blank"}
+    - [Penumbral](https://www.youtube.com/@PenumbralVT/shorts){target="_blank"}
 - Playlists
     - [HOLOLIVE Original Songs](https://www.youtube.com/playlist?list=PLcA50eR_E8Zbi4hdQHU5Rl1J6KrWRlHpM){target="_blank"}
     - [Hololive Songs&Covers](https://www.youtube.com/playlist?list=PLQmVFdwvZgfXlb2RDXWV1NaPXgYPu786G){target="_blank"}
@@ -358,6 +358,27 @@ ___
 - [smol Ame](https://moocow-games.itch.io/smol-ame){target="_blank"}
 - [Mumei's Memory Juggling](https://david-wu-softdev.itch.io/mumeis-memory-juggling){target="_blank"}
 - [hololive ERROR](https://store.steampowered.com/app/2062550/hololive_ERROR/){target="_blank"}
+
++++ Tools
+
+- [**Live2D**](https://www.live2d.com/en/about/){target="_blank"}
+    - Needs model split into many different layers, you can use Photoshop(paid), Clip Studio Paint(paid) or Krita(paid) for this
+    - Very feature-rich and difficult program and takes a lot of time to practice
+    - Pricing: ~100€ per Year for Indie License, ~60€ 3 Years Student Indie License
+    - Free 42 days trial after that limited free version
+    - Tutorials out there on YouTube, you still will have to invest a massive amount of time
+- [**VTubeStudio**](https://denchisoft.com/){target="_blank"}[!badge variant="dark" target="blank" text="Steam"](https://store.steampowered.com/app/1325860/VTube_Studio/){target="_blank"}
+    - Converts tracking input into model movement, needed if you want to bring your model to "life"
+    - Free with a paid version which removes a small watermark, it costs 12,50€ (one-time)
+- [**VBridger**](https://store.steampowered.com/app/1898830/VBridger/){target="_blank"}
+    - Add-On for VTubeStudio to improve tracking
+    - Costs 8,19€ (one-time)
+    - Has to be used with a tracking input application like ifacialmocap (IOS), FaceMotion3D (IOS), Meowface (Android)
+
+### Tutorials
+- Although they may not be 100% up to date, [**Brian Tsui**](https://www.youtube.com/@brian_tsui/){target="_blank"}'s tutorials give a good understanding of how rigging works and what you need to know before you start
+- Introduction to Tools and Technical Concepts [Video](https://www.youtube.com/watch?v=Wr37T3S6LQU&list=PLhha8OGApHGMkC4F41zN3fFaSBRu-YIrc){target="_blank"}
+- Full Workflow [Video](https://www.youtube.com/watch?v=Cg4nqVl1vBQ&list=PLhha8OGApHGPTpHFNp22MWhZMO4BFmxCW){target="_blank"}
 
 +++ Others
 - Twitter
