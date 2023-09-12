@@ -367,7 +367,7 @@ ___
     - Pricing: ~100€ per Year for Indie License, ~60€ 3 Years Student Indie License
     - Free 42 days trial after that limited free version
     - Tutorials out there on YouTube, you still will have to invest a massive amount of time
-- [**VTubeStudio**](https://denchisoft.com/){target="_blank"}[!badge variant="dark" target="blank" text="Steam"](https://store.steampowered.com/app/1325860/VTube_Studio/){target="_blank"}
+- [**VTubeStudio**](https://denchisoft.com/){target="_blank"} [!badge variant="dark" target="blank" text="Steam"](https://store.steampowered.com/app/1325860/VTube_Studio/){target="_blank"}
     - Converts tracking input into model movement, needed if you want to bring your model to "life"
     - Free with a paid version which removes a small watermark, it costs 12,50€ (one-time)
 - [**VBridger**](https://store.steampowered.com/app/1898830/VBridger/){target="_blank"}
