@@ -338,7 +338,7 @@ ___
 - Playlists
     - [HOLOLIVE Original Songs](https://www.youtube.com/playlist?list=PLcA50eR_E8Zbi4hdQHU5Rl1J6KrWRlHpM){target="_blank"}
     - [Hololive Songs&Covers](https://www.youtube.com/playlist?list=PLQmVFdwvZgfXlb2RDXWV1NaPXgYPu786G){target="_blank"}
-    - [Hologra](https://www.youtube.com/playlist?list=PL1NeGg1woXqngQytLzL8lJJLYwmzk1Wuq){target="_blank"}
+    - [Holo no Graffiti](https://www.youtube.com/playlist?list=PL1NeGg1woXqngQytLzL8lJJLYwmzk1Wuq){target="_blank"} | [Privated](https://www.youtube.com/playlist?list=PLMcxQWd8jwdk2YHXPScsjcw22VSZxiViL){target="_blank"}
 
 +++ Discord
 - [Hololive Fan Server](https://discord.gg/holofans){target="_blank"} 
