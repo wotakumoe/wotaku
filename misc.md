@@ -373,7 +373,7 @@ ___
 - [**VBridger**](https://store.steampowered.com/app/1898830/VBridger/){target="_blank"}
     - Add-On for VTubeStudio to improve tracking
     - Costs 8,19€ (one-time)
-    - Has to be used with a tracking input application like ifacialmocap (IOS), FaceMotion3D (IOS), Meowface (Android)
+    - Has to be used with a tracking input application like [**ifacialmocap**](https://apps.apple.com/us/app/ifacialmocap/id1489470545){target="_blank"} [!badge variant="ghost" size="xs" text="iOS"], [**Facemotion3d**](https://apps.apple.com/us/app/facemotion3d/id1507538005){target="_blank"} [!badge variant="ghost" size="xs" text="iOS"], [**Meowface**](https://play.google.com/store/apps/details?id=com.suvidriel.meowface&hl=en_US){target="_blank"} [!badge variant="ghost" size="xs" text="Android"]
 
 ### Tutorials
 - Although they may not be 100% up to date, [**Brian Tsui**](https://www.youtube.com/@brian_tsui/){target="_blank"}'s tutorials give a good understanding of how rigging works and what you need to know before you start
