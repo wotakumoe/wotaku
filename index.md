@@ -6,7 +6,7 @@ image: https://cdn.apollo.moe/img/cover.png
 
 [![](https://cdn.apollo.moe/img/invite.png){target="_blank"}](https://discord.gg/vShRGx8ZBC)
 
-# The Japanese Piracy Index
+# The Otaku Index
 
 Welcome to Wotaku! Here you'll find a diverse range of resources related to japanese media and language. Enjoy your stay!
 

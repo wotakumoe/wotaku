@@ -80,7 +80,8 @@ ___
 - Arr [!badge variant="dark" target="blank" text="Radarr"](https://radarr.video/){target="_blank"} [!badge variant="dark" target="blank" text="Sonarr"](https://sonarr.tv/){target="_blank"} [!badge variant="dark" target="blank" text="Prowlarr"](https://prowlarr.com/){target="_blank"} [!badge variant="dark" target="blank" text="Overseerr"](https://overseerr.dev/){target="_blank"} [!badge variant="dark" target="blank" text="Guide"](https://wiki.servarr.com/){target="_blank"}
 - [Emby](https://emby.media/){target="_blank"}
 - [Jellyfin](https://jellyfin.org/){target="_blank"}
-- [mpv](https://mpv.io/){target="_blank"} [!badge variant="dark" target="blank" text="Upscale 2x"](https://github.com/the-database/mpv-upscale-2x_animejanai){target="_blank"} [!badge variant="dark" target="blank" text="Guide"](https://iamscum.wordpress.com/guides/videoplayback-guide/){target="_blank"}
+- [mpv](https://mpv.io/){target="_blank"} [!badge variant="dark" target="blank" text="Scripts"](https://github.com/mpv-player/mpv/wiki/User-Scripts){target="_blank"} [!badge variant="dark" target="blank" text="Upscale 2x"](https://github.com/the-database/mpv-upscale-2x_animejanai){target="_blank"} [!badge variant="dark" target="blank" text="Guide"](https://iamscum.wordpress.com/guides/videoplayback-guide/){target="_blank"}
+- [MPV Shim for Plex](https://github.com/iwalton3/plex-mpv-shim){target="_blank"}
 - [Plex](https://www.plex.tv/){target="_blank"}
 - [Plex Anisync](https://github.com/RickDB/PlexAniSync){target="_blank"}
 - [PlexAniSync-Mappings](https://github.com/mizz141/PlexAniSync-Mappings){target="_blank"}

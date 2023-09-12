@@ -50,7 +50,7 @@ ___
 - [**KickAssAnime**](https://kickassanime.am/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Proxies"](https://kickassanimes.info/){target="_blank"}
     - Scrapes **Crunchyroll**(duckstream) and **Bilibili**(birdstream)
     - KAA encodes(videstreaming) are quite good(the new encodes) and loads better.
-    - Duck has the highest overall bitrate but may has buffer issue.
+    - Duck has the highest overall bitrate but may have buffer issue.
     - Has both hardsub(duck) & softsub(rest) 
     - Has missing titles. But, you can request them in their support server
 - [**Aniwatch**](https://aniwatch.to/home){target="_blank"} [!badge variant="dark" target="blank" size="xs" text="formerly Zoro"]
@@ -189,7 +189,7 @@ ___
 - [Mangahub](https://mangahub.io/){target="_blank"} [!badge variant="danger" size="xs" text="R+"] [!badge variant="ghost" size="xs" text="Needs account"]
 - [Manga Buddy](https://mangabuddy.com/home){target="_blank"} | [Manga Forest](https://mangaforest.com/home){target="_blank"} | [Manga Mirror](https://mangamirror.com/home-page){target="_blank"} [!badge variant="ghost" size="xs" text="R"] [!badge variant="ghost" size="xs" text="Manhwa/hua centric"]
 - [Mangacultivator](https://mangacultivator.com){target="_blank"} [!badge variant="success" size="xs" text="E"] [!badge variant="ghost" size="xs" text="Manhwa/hua centric"]
-- [1st Kiss Manga](https://1stkissmanga.me/){target="_blank"} [!badge variant="ghost" size="xs" text="R-"] [!badge variant="ghost" size="xs" text="Manhwa/hua centric"]
+- [Like Manga](https://likemanga.io){target="_blank"} [!badge variant="ghost" size="xs" text="R-"] [!badge variant="ghost" size="xs" text="Manhwa/hua centric"]
 - [Manga Here](https://www.mangahere.cc/){target="_blank"} | [Manga Fox](https://fanfox.net/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
 - [Manganato](https://chapmanganato.com/nato){target="_blank"} [!badge variant="ghost" size="xs" text="R"]
 ===

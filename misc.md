@@ -9,7 +9,7 @@ icon: ":card_file_box:"
 
 # Misc-sites
 Welcome to the misc-sites page, home to various communities, guides, and tools for your otaku needs and interests.
-___
+
 
 ![](/static/banner/info.png)
 ## Info
@@ -66,18 +66,6 @@ ___
 +++
 
 ### Miscellaneous
-+++ Blogs
-- [Web Japan](https://web-japan.org/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Old"](https://web-japan.org/atlas/index.html){target="_blank"}
-- [Do You Know Japan?](https://doyouknowjapan.com/){target="_blank"}
-- [japan-guide.com](https://www.japan-guide.com/){target="_blank"}
-- [Japan Reference](https://jref.com/){target="_blank"}
-- [JTCO](https://www.jtco.or.jp/en/){target="_blank"}
-
-
-#### Specials
-- [the peculiar case of japanese web design](https://sabrinas.space/) [!button target="blank" variant="primary" size="xs" text="Video"](https://www.youtube.com/watch?v=z6ep308goxQ){target="_blank"}
-    - [Cynthia Zhou] [How culture made Japanese Internet design "Weird"](https://www.youtube.com/watch?v=Opy-SjDU0UY){target="_blank"}
-
 +++ Light Novels
 - [Novel updates](https://www.novelupdates.com/){target="_blank"}
 - [Bookmeter](https://bookmeter.com/){target="_blank"} [!badge variant="ghost" icon="/static/icon/jp.png" text="JP"]
@@ -93,7 +81,85 @@ ___
 - [AnimeCons](https://animecons.com/){target="_blank"}
 - [VGMDB](https://vgmdb.net/){target="_blank"}
 +++
-___
+
+![](/static/banner/jp.png)
+## Japan
++++ Culture & History
+
+- [Web Japan](https://web-japan.org/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Old"](https://web-japan.org/atlas/index.html){target="_blank"}
+- [Do You Know Japan?](https://doyouknowjapan.com/){target="_blank"}
+- [Japan Reference](https://jref.com/){target="_blank"}
+- [JTCO](https://www.jtco.or.jp/en/){target="_blank"}
+
+#### Books
+- [The Cambridge History of Japan](https://www.cambridge.org/core/series/cambridge-history-of-japan/18F050C94D8B0E2BFAAF5CCAE19E87FE){target="_blank"}
+- [The Japanese Experience: A Short History of Japan](https://www.amazon.com/Japanese-Experience-Short-History-Civilisation/dp/0520225600){target="_blank"}
+- [A Short History of Japan: From Samurai to Sony](https://www.amazon.com/Short-History-Japan-Samurai-Sony/dp/1865085162){target="_blank"}
+
++++ Mythology
+
+#### Websites
+- [Japanese Gods](https://mythopedia.com/topics/japanese-gods){target="_blank"}
+- [Japanese folklore and mythology](https://www.newworldencyclopedia.org/entry/Japanese_folklore_and_mythology){target="_blank"}
+- [Yokai.com](https://yokai.com/){target="_blank"}
+- [Home of Japanese Mythology 'SHIMANE'](https://www.kankou-shimane.com/en/japanesemythology/){target="_blank"}
+- [Folktales from Japan](https://sites.pitt.edu/~dash/japan.html){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Books"](https://sites.pitt.edu/~dash/japantales.html){target="_blank"}
+
+#### Books
+- [The Japanese Myths: A Guide to Gods, Heroes and Spirits](https://www.amazon.com/Japanese-Myths-Guide-Heroes-Spirits/dp/0500252319){target="_blank"}
+- [Kwaidan: Stories and Studies of Strange Things](https://www.amazon.com/Kwaidan-Stories-Studies-Strange-Classics/dp/0804836620){target="_blank"}
+- [The Kojiki: An Account of Ancient Matters](https://www.amazon.com/Kojiki-Account-Ancient-Translations-Classics/dp/0231163894){target="_blank"}
+- [The Book of Yokai: Mysterious Creatures of Japanese Folklore](https://www.amazon.com/Book-Yokai-Mysterious-Creatures-Japanese/dp/0520271025){target="_blank"}
+- [Tales of Moonlight and Rain](https://www.amazon.com/Tales-Moonlight-Translations-Classics-Paperback/dp/0231139136){target="_blank"}
+- [Yokai Attack!: The Japanese Monster Survival Guide](https://www.amazon.com/Yokai-Attack-Japanese-Monster-Survival/dp/480531219X){target="_blank"}
+- [Yurei Attack!: The Japanese Ghost Survival Guide](https://www.amazon.com/Yurei-Attack-Japanese-Survival-ATTACK/dp/4805312149){target="_blank"}
+
+#### Youtube
+- [Mythology & Fiction Explained] [Japanese Folklore](https://www.youtube.com/playlist?list=PLgZdqfi4SZ0q-BLpzfuzWrXgxkyNcqagc){target="_blank"}
+- [GenoSamuel3] [Yokai: Monsters of Japan](https://www.youtube.com/playlist?list=PLiHkvPlOtVBCPoN70Edn_Sosl5PeeAiFW){target="_blank"}
+- [Inaka Adventure] [Japanese WEIRD Yokai, Monsters & Folklore Compilation](https://www.youtube.com/watch?v=LEH_9iygWvw){target="_blank"}
+
++++ Travel
+
+- [japan-guide.com](https://www.japan-guide.com/){target="_blank"}
+- [LIVE JAPAN](https://livejapan.com/){target="_blank"}
+- [Boutique Japan](https://boutiquejapan.com/){target="_blank"}
+- [Japan Specialist](https://japanspecialist.com/){target="_blank"}
+- [Ghibli Museum](https://www.ghibli-museum.jp/en/){target="_blank"}
+- [JRailPass](https://www.jrailpass.com/blog/){target="_blank"}
+
++++ Youtube
+
+- [Abroad in Japan](https://www.youtube.com/@AbroadinJapan){target="_blank"}
+    - Journey Across Japan [S1](https://www.youtube.com/playlist?list=PLSOR9_iNzVfl4ghftQDpTA4CXUvCKRlsL){target="_blank"} | [S2](https://www.youtube.com/playlist?list=PLSOR9_iNzVflVY0eQlZY4V0gArxUiOMLR){target="_blank"} | [S3](https://www.youtube.com/playlist?list=PLSOR9_iNzVflGF8OZwBqYH4mxDXvlkpSX){target="_blank"} | [S4](https://www.youtube.com/playlist?list=PLdd050JRcXCJlhiSBMjIwvB7wQ8PR-JzV){target="_blank"} | [S5](https://www.youtube.com/playlist?list=PLSOR9_iNzVflb2CWbcuXX8JQoVTcXCh2X){target="_blank"}
+    - [WACKY WEEKEND](https://www.youtube.com/playlist?list=PL3BrCRgvsZ9DbueHiNITARMRqi0YfCgbT)
+- [Lets Ask Shogo](https://www.youtube.com/@LetsaskShogo){target="_blank"}
+- [Paolo from TOKYO](https://www.youtube.com/@PaolofromTOKYO){target="_blank"}
+- [Tokyo Lens](https://www.youtube.com/@TokyoLens){target="_blank"}
+- [Sora the Troll](https://www.youtube.com/@sorathetroll){target="_blank"}
+- [Japanalysis](https://www.youtube.com/@Japanalysis){target="_blank"}
+- [Rion Ishida](https://www.youtube.com/@RionIshida){target="_blank"}
+
+==- No Voice-over
+- [Experience JAPAN](https://www.youtube.com/@experience_japan){target="_blank"}
+- [It's Time to Trave](https://www.youtube.com/@its_time_to_travel){target="_blank"}
+- [ITSUKA JAPAN](https://www.youtube.com/@itsukajapantravel){target="_blank"}
+- [Rambalac](https://www.youtube.com/@rambalac){target="_blank"}
+- [Solo Solo Travel](https://www.youtube.com/@solosolotravel){target="_blank"}
+- [SUKIYAKI Travel](https://www.youtube.com/@sukiyakitravel){target="_blank"}
+- [travelgeek](https://www.youtube.com/@travelgeekphotography){target="_blank"}
+===
+
++++ Specials
+
+- [the peculiar case of japanese web design](https://sabrinas.space/) [!button target="blank" variant="primary" size="xs" text="Video"](https://www.youtube.com/watch?v=z6ep308goxQ){target="_blank"}
+    - [Cynthia Zhou] [How culture made Japanese Internet design "Weird"](https://www.youtube.com/watch?v=Opy-SjDU0UY){target="_blank"}
+
++++ Others
+
+- [Mini Tokyo 3D](https://minitokyo3d.com/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/nagix/mini-tokyo-3d){target="_blank"}
+
++++
 
 ![](/static/banner/illust.png)
 ## Illustrations
@@ -106,7 +172,8 @@ ___
 - [Yandere](https://yande.re/post){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
 - [Zerochan](https://www.zerochan.net/){target="_blank"} [!badge variant="ghost" size="xs" text="R"]
 - [/w/](http://catalog.neet.tv/w/) [!badge variant="danger" size="xs" text="R+"]
-___
+
+
 ![](/static/banner/others.png)
 ## Others
 ___
@@ -227,7 +294,7 @@ ___
 - [Waif2x](https://unlimited.waifu2x.net/){target="_blank"} [!badge variant="dark" target="blank" text="udp"](https://waifu2x.udp.jp/){target="_blank"}  [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/nagadomi/waifu2x){target="_blank"}
 - [WaifuXL](https://waifuxl.com/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/TheFutureGadgetsLab/WaifuXL){target="_blank"}
 +++
-___
+
 
 ![](/static/banner/vt2.png)
 ## VTuber
