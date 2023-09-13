@@ -22,6 +22,7 @@ Welcome to Wotaku! Here you'll find a diverse range of resources related to japa
 - Various utilities for stats about shows and profiles.
 - Websites for information, guides, communities, and portals.
 - Various resources for scanlation.
+- A rich list of resources to help you study the japanese language and culture.
 - Websites and software that are in the early stage of development.
 
 <br/>

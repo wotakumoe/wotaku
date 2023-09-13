@@ -310,32 +310,33 @@ ___
 
 +++ Stream
 
-- OP/ED
+- **OP/ED**
     - [Anithemes.moe](https://animethemes.moe/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/AnimeThemes){target="_blank"}
     - [Themes.moe](https://themes.moe/){target="_blank"}
     - [Karaoke Mugen](https://kara.moe){target="_blank"}
     - [Squidify](https://www.squidify.org/){target="_blank"}
-- General
+- **General**
     - [Spotify](https://spotify.com/){target="_blank"}
     - [Youtube Music](https://music.youtube.com/){target="_blank"} [!badge variant="dark" target="blank" text="Beatbump"](https://beatbump.io/home){target="_blank"} [!badge variant="dark" target="blank" text="Hyperpipe"](https://hyperpipe.surge.sh/){target="_blank"}
     - [Deezer](https://www.deezer.com/){target="_blank"}
     - [SoundCloud](https://soundcloud.com/){target="_blank"}
-- Radio
+- **Radio**
     - [Yggdrasil Radio](https://yggdrasilradio.com/){target="_blank"}
     - [LISTEN.moe](https://listen.moe/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/LISTEN-moe){target="_blank"}
     - [Gensokyo Radio](https://gensokyoradio.net/){target="_blank"} [!badge variant="ghost" size="xs" text="Touhou"]
-- Others
+- **Others**
     - [Touhou Disc](https://alist.thdisc.tk){target="_blank"}
 
 +++ Download
 
-- FLAC
+- **FLAC**
     - [Sitting on Clouds](https://www.sittingonclouds.net/){target="_blank"} [!badge variant="ghost" size="xs" text="Mega"] [!badge variant="ghost" size="xs" text="Mediafire"]
     - [SquidBoard](https://www.squid-board.org/){target="_blank"} [!badge variant="Dark" text="Alt"](https://sqb.moe/){target="_blank"} [!badge variant="ghost" size="xs" text="Needs account"] [!badge variant="ghost" size="xs" text="Mega"] [!badge variant="ghost" size="xs" text="Mediafire"] [!badge variant="ghost" size="xs" text="GDrive"]
     - [Sukidesu OST](https://sukidesuost.info/){target="_blank"} [!badge variant="ghost" size="xs" text="Mega"]
     - [Asia Media Blog](https://asiamediablog.com/media/music/){target="_blank"} [!badge variant="ghost" size="xs" text="Host"]
     - [MikuDB](https://mikudb.moe/){target="_blank"} [!badge variant="ghost" size="xs" text="GDrive"]
-- MP3
+    - [Moriya Shrine](https://moriyashrine.org/){target="_blank"} [!badge variant="ghost" size="xs" text="Torrent"]
+- **MP3**
     - [OS Anime](https://osanime.com/){target="_blank"} [!badge variant="ghost" size="xs" text="Direct"]
     - [Hiyori OST](https://www.hiyoriost.com/){target="_blank"} [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="Host"]
     - [Sakura OST](https://www.sakuraost.com/){target="_blank"} [!badge variant="ghost" size="xs" text="Host"]
@@ -343,19 +344,24 @@ ___
 
 +++ Others
 
-- Index/Wiki
+- **Index/Wiki**
     - [Aniplaylist](https://aniplaylist.com/){target="_blank"}
     - [Voca DB](https://vocadb.net/){target="_blank"}
     - [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki){target="_blank"}
     - [THB Wiki](https://thwiki.cc/){target="_blank"}
     - [Touhou Spotify Music](https://www.thspotify.moe/){target="_blank"}
-- Portal
+    - [Utaite DB](https://utaitedb.net/){target="_blank"}
+- **Portal**
     - [Make Believe Mailer](https://mbmelodies.substack.com/){target="_blank"}
     - [Vocasphere](https://vocasphere.net/){target="_blank"}
     - [Merami fan](https://meramifan.wordpress.com/){target="_blank"}
     - [Hatsune Miku](https://twitter.com/cfm_miku_en){target="_blank"}
-- Others
-    - [RYM Ultimate Box Set: Japanese Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-japanese-music/){target="_blank"}
+- [**RYM Ultimate Box Set**](https://rymboxset.blogspot.com/2018/06/japanese-music.html){target="_blank"}
+    - [Japanese Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-japanese-music/){target="_blank"}
+    - [Doujin Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-doujin-music/){target="_blank"}
+    - [Touhou Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-touhou-music/){target="_blank"}
+    - [Vocaloid](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-vocaloid/){target="_blank"}
+    - [Utaite Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-utaite-music/){target="_blank"}
 
 +++
 

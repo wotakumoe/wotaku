@@ -360,7 +360,7 @@ ___
 +++ Tools
 
 - [**Live2D**](https://www.live2d.com/en/about/){target="_blank"}
-    - Needs model split into many different layers, you can use Photoshop(paid), Clip Studio Paint(paid) or Krita(paid) for this
+    - Needs model split into many different layers, you can use Photoshop(paid), Clip Studio Paint(paid) or Krita(free) for this
     - Very feature-rich and difficult program and takes a lot of time to practice
     - Pricing: ~100€ per Year for Indie License, ~60€ 3 Years Student Indie License
     - Free 42 days trial after that limited free version
@@ -390,9 +390,9 @@ ___
 
 ![](/static/banner/random.png)
 ## rando.moe
-- [Absolute Territory](https://absoluteterritory.moe/){target="_blank"}
-- [Endless Eight](https://endless8.moe/){target="_blank"}
-- [MakeGirlsMoe](https://make.girls.moe/){target="_blank"}
-- [Satania](https://satania.moe/){target="_blank"}
 - [Smug](https://smug.moe/){target="_blank"}
+- [Endless Eight](https://endless8.moe/){target="_blank"}
+- [Satania](https://satania.moe/){target="_blank"}
+- [MakeGirlsMoe](https://make.girls.moe/){target="_blank"}
+- [Absolute Territory](https://absoluteterritory.moe/){target="_blank"}
 - [Wanwan](https://wanwan.moe/){target="_blank"}
