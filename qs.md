@@ -24,7 +24,7 @@ ___
 
 +++ Music
 - [Sitting on Clouds](https://www.sittingonclouds.net/){target="_blank"} [!badge variant="ghost" size="xs" text="DDL"]
-- [SquidBoard](https://www.squid-board.org/){target="_blank"} [!badge variant="ghost" text="Alt"](https://sqb.moe/){target="_blank"} [!badge variant="ghost" size="xs" text="DDL"] [!badge variant="ghost" size="xs" text="Needs account"]
+- [SquidBoard](https://www.squid-board.org/){target="_blank"} [!badge variant="Dark" text="Alt"](https://sqb.moe/){target="_blank"} [!badge variant="ghost" size="xs" text="DDL"] [!badge variant="ghost" size="xs" text="Needs account"]
 - [Anithemes.moe](https://animethemes.moe/){target="_blank"} [!badge variant="ghost" size="xs" text="stream"]
 - [Squidify](https://www.squidify.org/){target="_blank"} [!badge variant="ghost" size="xs" text="stream"]
 

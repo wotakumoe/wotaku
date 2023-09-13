@@ -322,7 +322,7 @@ ___
     - [SoundCloud](https://soundcloud.com/){target="_blank"}
 - Radio
     - [Yggdrasil Radio](https://yggdrasilradio.com/){target="_blank"}
-    - [LISTEN.moe](https://listen.moe/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/LISTEN-moe){target="_blank"} [!badge variant="ghost" size="xs" text="Radio"]
+    - [LISTEN.moe](https://listen.moe/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/LISTEN-moe){target="_blank"}
     - [Gensokyo Radio](https://gensokyoradio.net/){target="_blank"} [!badge variant="ghost" size="xs" text="Touhou"]
 - Others
     - [Touhou Disc](https://alist.thdisc.tk){target="_blank"}
@@ -331,7 +331,7 @@ ___
 
 - FLAC
     - [Sitting on Clouds](https://www.sittingonclouds.net/){target="_blank"} [!badge variant="ghost" size="xs" text="Mega"] [!badge variant="ghost" size="xs" text="Mediafire"]
-    - [SquidBoard](https://www.squid-board.org/){target="_blank"} [!badge variant="ghost" text="Alt"](https://sqb.moe/){target="_blank"} [!badge variant="ghost" size="xs" text="Needs account"] [!badge variant="ghost" size="xs" text="Mega"] [!badge variant="ghost" size="xs" text="Mediafire"] [!badge variant="ghost" size="xs" text="GDrive"]
+    - [SquidBoard](https://www.squid-board.org/){target="_blank"} [!badge variant="Dark" text="Alt"](https://sqb.moe/){target="_blank"} [!badge variant="ghost" size="xs" text="Needs account"] [!badge variant="ghost" size="xs" text="Mega"] [!badge variant="ghost" size="xs" text="Mediafire"] [!badge variant="ghost" size="xs" text="GDrive"]
     - [Sukidesu OST](https://sukidesuost.info/){target="_blank"} [!badge variant="ghost" size="xs" text="Mega"]
     - [Asia Media Blog](https://asiamediablog.com/media/music/){target="_blank"} [!badge variant="ghost" size="xs" text="Host"]
     - [MikuDB](https://mikudb.moe/){target="_blank"} [!badge variant="ghost" size="xs" text="GDrive"]
