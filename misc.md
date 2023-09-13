@@ -358,7 +358,7 @@ ___
 - [hololive ERROR](https://store.steampowered.com/app/2062550/hololive_ERROR/){target="_blank"}
 
 +++ Tools
-
+#### 2D
 - [**Live2D**](https://www.live2d.com/en/about/){target="_blank"}
     - Needs model split into many different layers, you can use Photoshop(paid), Clip Studio Paint(paid) or Krita(free) for this
     - Very feature-rich and difficult program and takes a lot of time to practice
@@ -373,10 +373,35 @@ ___
     - Costs 8,19€ (one-time)
     - Has to be used with a tracking input application like [**ifacialmocap**](https://apps.apple.com/us/app/ifacialmocap/id1489470545){target="_blank"} [!badge variant="ghost" size="xs" text="iOS"], [**Facemotion3d**](https://apps.apple.com/us/app/facemotion3d/id1507538005){target="_blank"} [!badge variant="ghost" size="xs" text="iOS"], [**Meowface**](https://play.google.com/store/apps/details?id=com.suvidriel.meowface&hl=en_US){target="_blank"} [!badge variant="ghost" size="xs" text="Android"]
 
-### Tutorials
-- Although they may not be 100% up to date, [**Brian Tsui**](https://www.youtube.com/@brian_tsui/){target="_blank"}'s tutorials give a good understanding of how rigging works and what you need to know before you start
-- Introduction to Tools and Technical Concepts [Video](https://www.youtube.com/watch?v=Wr37T3S6LQU&list=PLhha8OGApHGMkC4F41zN3fFaSBRu-YIrc){target="_blank"}
-- Full Workflow [Video](https://www.youtube.com/watch?v=Cg4nqVl1vBQ&list=PLhha8OGApHGPTpHFNp22MWhZMO4BFmxCW){target="_blank"}
+#### 3D
+- [**VRoidStudio**](https://vroid.com/en/studio){target="_blank"}
+     - Used for model creation
+     - Very easy to use, free but not really professional, most of the time you will not get great results.
+- [**Blender**](https://www.blender.org/){target="_blank"}
+     - Used for model creation (preferred)
+     - Free & Open Source and very popular therefore has many resources to use 
+     - Allows you to create complex models, but at the same time it can get quite complicated
+- [**cats blender plugin**](https://github.com/absolute-quantum/cats-blender-plugin){target="_blank"}
+     - Free & Open Source Blender plugin to optimize your model and make eye and lip syncing much easier.
+- [**Mixamo**](https://www.mixamo.com/){target="_blank"}
+     - Makes rigging your character easier, although you will get better results if you rig it manually using Blender.
+- [**UniVRM**](https://github.com/vrm-c/UniVRM/releases){target="_blank"}
+     - Free & Open Source: Import VRoid Models into Unity
+- [**3Tene**](https://3tene.com/free/){target="_blank"} [!badge variant="dark" target="blank" text="Steam"](https://store.steampowered.com/app/871170/3tene/){target="_blank"} 
+     - Free, there are other Versions with different functionality on their website
+     - Used to track your 3D Model using your webcam/phone etc.
+- [**VSeeFace**](https://www.vseeface.icu/){target="_blank"}
+     - Free
+     - Feature rich and great functionality, you may still prefer 3Tene for its UI, just test both out.
+
+#### Tutorials
+- **2D**
+    - Although they may not be 100% up to date, [**Brian Tsui**](https://www.youtube.com/@brian_tsui/){target="_blank"}'s tutorials give a good understanding of how rigging works and what you need to know before you start
+    - Introduction to Tools and Technical Concepts [Video](https://www.youtube.com/watch?v=Wr37T3S6LQU&list=PLhha8OGApHGMkC4F41zN3fFaSBRu-YIrc){target="_blank"}
+    - Full Workflow [Video](https://www.youtube.com/watch?v=Cg4nqVl1vBQ&list=PLhha8OGApHGPTpHFNp22MWhZMO4BFmxCW){target="_blank"}
+- **3D**
+    - [VanillaLog] [The art of making 3D vtuber models (for dummies)](https://www.youtube.com/watch?v=eFkwu7p1LhU){target="_blank"}
+        - [Blender tutorials for 3D Vtuber Making](https://docs.google.com/document/d/1GIfrXKHr2ndUh10DVIoS4lRw99misyzHZfo0fnwK8uk/edit){target="_blank"}
 
 +++ Others
 - Twitter

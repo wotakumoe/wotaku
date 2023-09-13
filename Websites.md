@@ -324,8 +324,10 @@ ___
     - [Yggdrasil Radio](https://yggdrasilradio.com/){target="_blank"}
     - [LISTEN.moe](https://listen.moe/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/LISTEN-moe){target="_blank"}
     - [Gensokyo Radio](https://gensokyoradio.net/){target="_blank"} [!badge variant="ghost" size="xs" text="Touhou"]
-- **Others**
+- **Touhou**
     - [Touhou Disc](https://alist.thdisc.tk){target="_blank"}
+    - [Touhou Player](https://touhou.kuukunen.net/){target="_blank"}
+    - [TMLC](https://tlmc.pf-n.co/tlmc){target="_blank"}
 
 +++ Download
 
@@ -334,14 +336,15 @@ ___
     - [SquidBoard](https://www.squid-board.org/){target="_blank"} [!badge variant="Dark" text="Alt"](https://sqb.moe/){target="_blank"} [!badge variant="ghost" size="xs" text="Needs account"] [!badge variant="ghost" size="xs" text="Mega"] [!badge variant="ghost" size="xs" text="Mediafire"] [!badge variant="ghost" size="xs" text="GDrive"]
     - [Sukidesu OST](https://sukidesuost.info/){target="_blank"} [!badge variant="ghost" size="xs" text="Mega"]
     - [Asia Media Blog](https://asiamediablog.com/media/music/){target="_blank"} [!badge variant="ghost" size="xs" text="Host"]
-    - [MikuDB](https://mikudb.moe/){target="_blank"} [!badge variant="ghost" size="xs" text="GDrive"]
-    - [Moriya Shrine](https://moriyashrine.org/){target="_blank"} [!badge variant="ghost" size="xs" text="Torrent"]
 - **MP3**
     - [OS Anime](https://osanime.com/){target="_blank"} [!badge variant="ghost" size="xs" text="Direct"]
     - [Hiyori OST](https://www.hiyoriost.com/){target="_blank"} [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="Host"]
     - [Sakura OST](https://www.sakuraost.com/){target="_blank"} [!badge variant="ghost" size="xs" text="Host"]
+- **Doujin**
+    - [MikuDB](https://mikudb.moe/){target="_blank"} [!badge variant="ghost" size="xs" text="GDrive"]
+    - [Moriya Shrine](https://moriyashrine.org/){target="_blank"} [!badge variant="ghost" size="xs" text="Torrent"]
     - [Doujin Style](https://doujinstyle.com/){target="_blank"} [!badge variant="ghost" size="xs" text="Mediafire"]
-
+        - [Touhou Lossless Music Collection](https://doujinstyle.com/?p=tlmc){target="_blank"}
 +++ Others
 
 - **Index/Wiki**
