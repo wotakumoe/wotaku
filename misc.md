@@ -31,6 +31,15 @@ ___
 - [AniSearch](https://www.anisearch.com/){target="_blank"}
 - [MyAnimeList](https://myanimelist.net/){target="_blank"}
 
++++ Index
+- [Seadex](https://releases.moe/){target="_blank"}
+- [Sneedex](https://sneedex.moe/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="/static/icon/discord.svg" text="Invite"](https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot){target="_blank"}
+- [A Certain Fansubber's Index](https://index.fansubcar.tel/){target="_blank"}
+- [Fansub Database](https://fansubdb.com/){target="_blank"}
+- [German Fansubbers' Index](https://anime-fansubs.de/){target="_blank"}
+- [Indonesian Fansubbers' Index](https://www.fansub.id/home){target="_blank"}
+- [https://seiyuu.moe/](https://seiyuu.moe/){target="_blank"}
+- [Anime voice actor and seiyuu comparison](https://avac.moe/index.php){target="_blank"}
 
 +++ Schedule
 - [Anica](https://anica.jp/){target="_blank"}
@@ -53,15 +62,6 @@ ___
 - [Related Anime](https://relatedanime.com/){target="_blank"}
 - [r/Anime Watch Order](https://www.reddit.com/r/anime/wiki/watch_order/){target="_blank"}
 
-
-+++ Index
-- [Aniplaylist](https://aniplaylist.com/){target="_blank"}
-- [Seadex](https://releases.moe/){target="_blank"}
-- [Sneedex](https://sneedex.moe/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="/static/icon/discord.svg" text="Invite"](https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot){target="_blank"}
-- [A Certain Fansubber's Index](https://index.fansubcar.tel/){target="_blank"}
-- [Fansub Database](https://fansubdb.com/){target="_blank"}
-- [German Fansubbers' Index](https://anime-fansubs.de/){target="_blank"}
-- [Indonesian Fansubbers' Index](https://www.fansub.id/home){target="_blank"}
 
 +++
 
@@ -233,10 +233,6 @@ ____
 - [Gamenyarth](https://gamenyarth.blog.fc2.com/){target="_blank"}
 - [Atwiki](https://atwiki.jp/){target="_blank"}
 
-+++ Others
-- [Hatsune Miku](https://twitter.com/cfm_miku_en)
-- [Make Believe Mailer](https://mbmelodies.substack.com/){target="_blank"}
-- [Vocasphere](https://vocasphere.net/){target="_blank"}
 +++
 
 
@@ -249,6 +245,7 @@ ___
 - [MAL Badges](https://www.mal-badges.com/){target="_blank"} [!badge variant="ghost" size="xs" text="MAL"]
 - [Sekai](https://sekai.rl404.com/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/rl404/sekai){target="_blank"} [!badge variant="ghost" size="xs" text="MAL"]
 - [Sprout Anime Recommender](https://anime.ameo.dev/){target="_blank"} [!badge variant="ghost" size="xs" text="MAL"]  [!badge variant="ghost" size="xs" text="AL"]
+- [Randime](https://randime.moe/){target="_blank"}
 
 +++ Image search
 - [Multi-service image search](https://iqdb.org/){target="_blank"}
@@ -304,6 +301,7 @@ ___
 +++ General
 
 - [Holodex](https://holodex.net/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Music"](https://music.holodex.net/){target="_blank"} [!badge variant="ghost" size="xs" text="Frontend"]
+- [Good VTuber Subs](https://goodvtubersubs.com/){target="_blank"} [!badge variant="ghost" size="xs" text="DB"]
 - [VChama](https://vchama.xyz){target="_blank"} [!badge variant="ghost" size="xs" text="Stats"] [!badge variant="ghost" size="xs" text="Schedule"]
 - [Virtual YouTuber Wiki ](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki){target="_blank"} [!badge variant="ghost" size="xs" text="DB"]
 - [VSTATS](https://www.vstats.jp/){target="_blank"} [!badge variant="ghost" size="xs" text="Stats"]
@@ -382,7 +380,8 @@ ___
 
 +++ Others
 - Twitter
-    - [Holoデータ分析](https://twitter.com/Holo_Data)
+    - [Holoデータ分析](https://twitter.com/Holo_Data){target="_blank"}
+    - [HoloENFans](https://twitter.com/HEFSdiscord){target="_blank"}
     - [Tentacult Temple](https://twitter.com/Takodachis){target="_blank"}
     - [VTubers Out Of Context](https://twitter.com/ENVTubersOOC){target="_blank"}
     - [Chroneco](https://twitter.com/chrone_co){target="_blank"}

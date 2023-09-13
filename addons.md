@@ -122,6 +122,7 @@ ___
 - [Yuuko](https://github.com/YuuCorp/Yuuko){target="_blank"}
 - [MangaUpdates Bot](https://github.com/jckli/mangaupdates-bot){target="_blank"}
 - [Manhwa Updates Bot](https://github.com/MooshiMochi/ManhwaUpdatesBot){target="_blank"}
+- [Rinbot](https://rinbot.moe/){target="_blank"}
 - [Michelle](https://github.com/JacenBoy/michelle){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://michelle.jacenboy.com/){target="_blank"}
 - Sneedex [!button target="blank" variant="primary" size="xs" icon="/static/icon/discord.svg" text="Invite"](https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot){target="_blank"}
 - [Picsiv](https://github.com/jckli/picsiv){target="_blank"}

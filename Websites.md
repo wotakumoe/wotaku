@@ -308,23 +308,50 @@ You may now use your credentials to log into https://manga.madokami.al and enjoy
 ## Music
 ___
 
-### Stream
-- [Anithemes.moe](https://animethemes.moe/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/AnimeThemes){target="_blank"}
-- [Themes.moe](https://themes.moe/){target="_blank"}
-- [Squidify](https://www.squidify.org/){target="_blank"}
-- [LISTEN.moe](https://listen.moe/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/LISTEN-moe){target="_blank"} [!badge variant="ghost" size="xs" text="Radio"]
-- [Spotify](https://spotify.com/){target="_blank"} [!badge variant="ghost" size="xs" text="General"]
-- [Youtube Music](https://music.youtube.com/){target="_blank"} [!badge variant="dark" target="blank" text="Beatbump"](https://beatbump.io/home){target="_blank"} [!badge variant="dark" target="blank" text="Hyperpipe"](https://hyperpipe.surge.sh/){target="_blank"} [!badge variant="ghost" size="xs" text="General"]
++++ Stream
+- OP/ED
+    - [Anithemes.moe](https://animethemes.moe/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/AnimeThemes){target="_blank"}
+    - [Themes.moe](https://themes.moe/){target="_blank"}
+    - [Karaoke Mugen](https://kara.moe){target="_blank"}
+    - [Squidify](https://www.squidify.org/){target="_blank"}
+- General
+    - [Spotify](https://spotify.com/){target="_blank"} [!badge variant="ghost" size="xs" text="General"]
+    - [Youtube Music](https://music.youtube.com/){target="_blank"} [!badge variant="dark" target="blank" text="Beatbump"](https://beatbump.io/home){target="_blank"} [!badge variant="dark" target="blank" text="Hyperpipe"](https://hyperpipe.surge.sh/){target="_blank"} [!badge variant="ghost" size="xs" text="General"]
+- Doujin
+    - [Doujin Style](https://doujinstyle.com/){target="_blank"}
+    - [Touhou Disc](https://alist.thdisc.tk){target="_blank"}
+- Radio
+    - [Yggdrasil Radio](https://yggdrasilradio.com/){target="_blank"}
+    - [LISTEN.moe](https://listen.moe/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/LISTEN-moe){target="_blank"} [!badge variant="ghost" size="xs" text="Radio"]
+    - [Gensokyo Radio](https://gensokyoradio.net/){target="_blank"} [!badge variant="ghost" size="xs" text="Doujin"]
 
-### Direct Download
++++ Download
+
 - [Sitting on Clouds](https://www.sittingonclouds.net/){target="_blank"} [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Mega"] [!badge variant="ghost" size="xs" text="Mediafire"]
 - [SquidBoard](https://www.squid-board.org/){target="_blank"} [!badge variant="ghost" size="xs" text="Needs account"] [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Mega"] [!badge variant="ghost" size="xs" text="Mediafire"] [!badge variant="ghost" size="xs" text="GDrive"]
+- [MikuDB](https://mikudb.moe/){target="_blank"} [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="GDrive"]
 - [Sukidesu OST](https://sukidesuost.info/){target="_blank"} [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Mega"]
 - [Asia Media Blog](https://asiamediablog.com/media/music/){target="_blank"} [!badge variant="ghost" size="xs" text="FLAC"] [!badge variant="ghost" size="xs" text="Host"]
 - [OS Anime](https://osanime.com/){target="_blank"} [!badge variant="ghost" size="xs" text="Direct"]
 - [Hiyori OST](https://www.hiyoriost.com/){target="_blank"} [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="Host"]
 - [Sakura OST](https://www.sakuraost.com/){target="_blank"} [!badge variant="ghost" size="xs" text="Host"]
 
++++ Others
+
+- Index/Wiki
+    - [Aniplaylist](https://aniplaylist.com/){target="_blank"}
+    - [Touhou Spotify Music](https://www.thspotify.moe/){target="_blank"}
+    - [Voca DB](https://vocadb.net/){target="_blank"}
+    - [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki){target="_blank"}
+    - [THB Wiki](https://thwiki.cc/){target="_blank"}
+- Portal
+    - [Hatsune Miku](https://twitter.com/cfm_miku_en)
+    - [Make Believe Mailer](https://mbmelodies.substack.com/){target="_blank"}
+    - [Vocasphere](https://vocasphere.net/){target="_blank"}
+    - [Merami fan](https://meramifan.wordpress.com/){target="_blank"}
+- Others
+    - [RYM Ultimate Box Set: Japanese Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-japanese-music/){target="_blank"}
++++
 
 
 ![](/static/banner/ln.png)
@@ -376,7 +403,7 @@ ___
 - [Dodi](https://dodi-repacks.site/){target="_blank"}
 - [Gload](https://gload.to/){target="_blank"}
 - [F95Zone](https://f95zone.to/){target="_blank"} [!badge variant="ghost" size="xs" text="Needs account"]
-- [Doujin Style](https://doujinstyle.com/) [!badge variant="ghost" size="xs" text="Doujin"]
+- [Doujin Style](https://doujinstyle.com/){target="_blank"} [!badge variant="ghost" size="xs" text="Doujin"]
 - [Anime-sharing](http://www.anime-sharing.com/forum/)
 - [Crackhub Scene](https://scene.crackhub.site/){target="_blank"}
 - [Kimochi](https://kimochi.info){target="_blank"}
