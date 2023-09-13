@@ -342,6 +342,7 @@ ___
     - [Sakura OST](https://www.sakuraost.com/){target="_blank"} [!badge variant="ghost" size="xs" text="Host"]
 - **Doujin**
     - [MikuDB](https://mikudb.moe/){target="_blank"} [!badge variant="ghost" size="xs" text="GDrive"]
+    - [Touhou Disc](https://alist.thdisc.tk){target="_blank"}
     - [Moriya Shrine](https://moriyashrine.org/){target="_blank"} [!badge variant="ghost" size="xs" text="Torrent"]
     - [Doujin Style](https://doujinstyle.com/){target="_blank"} [!badge variant="ghost" size="xs" text="Mediafire"]
         - [Touhou Lossless Music Collection](https://doujinstyle.com/?p=tlmc){target="_blank"}
@@ -352,7 +353,7 @@ ___
     - [Voca DB](https://vocadb.net/){target="_blank"}
     - [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki){target="_blank"}
     - [THB Wiki](https://thwiki.cc/){target="_blank"}
-    - [Touhou Spotify Music](https://www.thspotify.moe/){target="_blank"}
+    - [Touhou Spotify Music](https://www.thspotify.moe/){target="_blank"} | [Docs](https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit#gid=0){target="_blank"}
     - [Utaite DB](https://utaitedb.net/){target="_blank"}
 - **Portal**
     - [Make Believe Mailer](https://mbmelodies.substack.com/){target="_blank"}
