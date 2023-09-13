@@ -38,7 +38,7 @@ ___
 - [Fansub Database](https://fansubdb.com/){target="_blank"}
 - [German Fansubbers' Index](https://anime-fansubs.de/){target="_blank"}
 - [Indonesian Fansubbers' Index](https://www.fansub.id/home){target="_blank"}
-- [https://seiyuu.moe/](https://seiyuu.moe/){target="_blank"}
+- [Seiyuu.moe](https://seiyuu.moe/){target="_blank"}
 - [Anime voice actor and seiyuu comparison](https://avac.moe/index.php){target="_blank"}
 
 +++ Schedule
@@ -236,16 +236,16 @@ ____
 +++
 
 
-
 ![](/static/banner/tools.png)
 ## Tools
 ___
 +++ Analysis
 - [anime.plus](https://anime.plus/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/anime-plus/graph){target="_blank"} [!badge variant="ghost" size="xs" text="MAL"]
 - [MAL Badges](https://www.mal-badges.com/){target="_blank"} [!badge variant="ghost" size="xs" text="MAL"]
-- [Sekai](https://sekai.rl404.com/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/rl404/sekai){target="_blank"} [!badge variant="ghost" size="xs" text="MAL"]
-- [Sprout Anime Recommender](https://anime.ameo.dev/){target="_blank"} [!badge variant="ghost" size="xs" text="MAL"]  [!badge variant="ghost" size="xs" text="AL"]
 - [Randime](https://randime.moe/){target="_blank"}
+- [Sekai](https://sekai.rl404.com/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/rl404/sekai){target="_blank"} [!badge variant="ghost" size="xs" text="MAL"]
+- [Spin.moe](https://spin.moe/){target="_blank"}
+- [Sprout Anime Recommender](https://anime.ameo.dev/){target="_blank"} [!badge variant="ghost" size="xs" text="MAL"]  [!badge variant="ghost" size="xs" text="AL"]
 
 +++ Image search
 - [Multi-service image search](https://iqdb.org/){target="_blank"}
@@ -387,3 +387,12 @@ ___
     - [Chroneco](https://twitter.com/chrone_co){target="_blank"}
     - [JQHN](https://twitter.com/JQHNHARQLD){target="_blank"}
 +++
+
+![](/static/banner/random.png)
+## rando.moe
+- [Absolute Territory](https://absoluteterritory.moe/){target="_blank"}
+- [Endless Eight](https://endless8.moe/){target="_blank"}
+- [MakeGirlsMoe](https://make.girls.moe/){target="_blank"}
+- [Satania](https://satania.moe/){target="_blank"}
+- [Smug](https://smug.moe/){target="_blank"}
+- [Wanwan](https://wanwan.moe/){target="_blank"}

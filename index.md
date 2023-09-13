@@ -1,10 +1,9 @@
 ---
 label: Welcome
 icon: ":wave:"
-image: https://cdn.apollo.moe/img/cover.png
 ---
 
-[![](https://cdn.apollo.moe/img/invite.png){target="_blank"}](https://discord.gg/vShRGx8ZBC)
+![](https://cdn.apollo.moe/img/cover.png)
 
 # The Otaku Index
 
