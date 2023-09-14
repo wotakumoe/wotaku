@@ -350,11 +350,13 @@ ___
 
 - **Index/Wiki**
     - [Aniplaylist](https://aniplaylist.com/){target="_blank"}
-    - [Voca DB](https://vocadb.net/){target="_blank"}
+    - [VocaDB](https://vocadb.net/){target="_blank"}
+    - [TouhouDB](https://touhoudb.com/){target="_blank"}
+    - [UtaiteDB](https://utaitedb.net/){target="_blank"}
     - [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki){target="_blank"}
     - [THB Wiki](https://thwiki.cc/){target="_blank"}
     - [Touhou Spotify Music](https://www.thspotify.moe/){target="_blank"} | [Docs](https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit#gid=0){target="_blank"}
-    - [Utaite DB](https://utaitedb.net/){target="_blank"}
+    - [Utaite Key](https://utaite-key.info/){target="_blank"}
 - **Portal**
     - [Make Believe Mailer](https://mbmelodies.substack.com/){target="_blank"}
     - [Vocasphere](https://vocasphere.net/){target="_blank"}
@@ -366,6 +368,8 @@ ___
     - [Touhou Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-touhou-music/){target="_blank"}
     - [Vocaloid](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-vocaloid/){target="_blank"}
     - [Utaite Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-utaite-music/){target="_blank"}
+- **Others**
+    - [Songle](https://songle.jp/){target="_blank"}
 
 +++
 

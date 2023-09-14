@@ -228,6 +228,7 @@ ____
 - [4Gamer](https://www.4gamer.net/){target="_blank"}
 - [Famitsu](https://www.famitsu.com/){target="_blank"}
 - [Gematsu](https://www.gematsu.com/){target="_blank"}
+- [Touhou Yomoyama News](https://touhou-project.news/){target="_blank"}
 - [Gamespark](https://www.gamespark.jp/){target="_blank"}
 - [Esuteru](https://blog.esuteru.com/){target="_blank"}
 - [Gamenyarth](https://gamenyarth.blog.fc2.com/){target="_blank"}
@@ -418,6 +419,7 @@ ___
 - [Smug](https://smug.moe/){target="_blank"}
 - [Endless Eight](https://endless8.moe/){target="_blank"}
 - [Satania](https://satania.moe/){target="_blank"}
+- [AIDN](https://aidn.jp/contents/){target="_blank"}
 - [MakeGirlsMoe](https://make.girls.moe/){target="_blank"}
 - [Absolute Territory](https://absoluteterritory.moe/){target="_blank"}
 - [Wanwan](https://wanwan.moe/){target="_blank"}
