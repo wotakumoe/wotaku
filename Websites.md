@@ -272,7 +272,15 @@ ___
 - [XRA9](https://nyaa.si/?f=0&c=0_0&q=XRA9){target="_blank"} 
 
 
+### Direct Download
+- [Madokami](https://manga.madokami.al){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Guide"](#madokami)
+- [mp4directs](https://mp4directs.com/){target="_blank"}
+- [jnovels](https://jnovels.com/manga-cbz-cbr-pdfs-download101/){target="_blank"}
+- [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
+- [Anna's Archive](https://annas-archive.org/){target="_blank"}
+
 #### Madokami
+
 ==- Joining Guide
 #### Step 1
 Choose an [IRC client](https://ircv3.net/software/clients){target="_blank"} you're comfortable with, as you can't use web IRC.
@@ -295,13 +303,8 @@ Repeat this until you get an account, the cooldown should be 4 hours.
 You may now use your credentials to log into https://manga.madokami.al and enjoy their manga DDL directory (note that you can only download 3 files at the same time, but don't have limits besides that). They also have Tachiyomi extensions.
 ===
 
-> All the **Legal** manga reading sites are listed [here](https://otakulogy.github.io/manga-platform/){target="_blank"} and [here](https://wherecanireadmanga.com/){target="_blank"}.
 
-### Direct Download
-- [mp4directs](https://mp4directs.com/){target="_blank"}
-- [jnovels](https://jnovels.com/manga-cbz-cbr-pdfs-download101/){target="_blank"}
-- [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
-- [Anna's Archive](https://annas-archive.org/){target="_blank"}
+> All the **Legal** manga reading sites are listed [here](https://otakulogy.github.io/manga-platform/){target="_blank"} and [here](https://wherecanireadmanga.com/){target="_blank"}.
 
 ![](/static/banner/msuic.png)
 

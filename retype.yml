@@ -20,7 +20,7 @@ meta:
 links:
   - text: Anime
     link: /anime.md
-    icon: /static/icon/tv.png
+    icon: /static/icon/toto.png
 
   - text: Manga
     link: /manga.md

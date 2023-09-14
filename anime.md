@@ -8,12 +8,12 @@ Everrything Anime Related!
 
 If you want to get the best quality, use [Direct Download](/Websites.md/#direct-download-1), [IRC](/Websites.md/#irc), or [Torrent](/Websites.md/#torrents). You can obtain full web release quality on a streaming site that scrapes the official site API, such as [KickAssAnime](https://kickassanime.am/){target="_blank"} for Crunchyroll and Bilibili content. Otherwise, it is hard to maintain the full quality while managing space & traffic. You can [**network stream**](/Guides/ns.md) files from direct download, irc and torrents.
 ___
-
 ### Stream
 
-- [**Aniwave**](https://aniwave.to/home){target="_blank"} [!badge variant="dark" target="blank" text="Anix"](https://anix.to/home){target="_blank"} [!badge variant="dark" target="blank" text="Alt UI"](https://9animehq.to/home){target="_blank"} [!badge variant="dark" target="blank" size="xs" text="formerly 9anime"]
+- [**Aniwave**](https://aniwave.to/home){target="_blank"} [!badge variant="dark" target="blank" size="xs" text="formerly 9anime"]
     - Huge library with Watch Together feature
     - Less amount of compression compared to other sites that use 3rd party hosts
+    - Original site's UI is bloated. Use [Anix](https://anix.to/home){target="_blank"} or [9animehq](https://9animehq.to/home){target="_blank"} for more minimal experience.
 - [**Marin**](https://marin.moe/){target="_blank"}
     - Re-encodes files of other encoder groups while keeping the quality consistent
     - Uploads encoded **Blu-ray** versions if available
@@ -21,9 +21,10 @@ ___
     - Marin has a good amount of missing titles, especially movies
 - [**KickAssAnime**](https://kickassanime.am/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Proxies"](https://kickassanimes.info/){target="_blank"}
     - Scrapes **Crunchyroll**(duckstream) and **Bilibili**(birdstream)
-    - KAA encodes(videstreaming) are decent with lower overall bitrate. Use the previous two if available. Duck has the highest overall bitrate
+    - KAA encodes(videstreaming) are quite good(the new encodes) and loads better.
+    - Duck has the highest overall bitrate but may have buffer issue.
     - Has both hardsub(duck) & softsub(rest) 
-    - Still a beta site and has missing titles. But, you can request them in their support server
+    - Has missing titles. But, you can request them in their support server
 - [**Aniwatch**](https://aniwatch.to/home){target="_blank"} [!badge variant="dark" target="blank" size="xs" text="formerly Zoro"]
     - Huge library with Watch Together feature
     - Re-encodes shows for smaller size with lower overall bitrate.
@@ -37,7 +38,7 @@ ___
 - [Animeflix](https://animeflix.live/){target="_blank"}
 - [AnimeUI](https://animeui.com/){target="_blank"} [!badge variant="ghost" size="xs" text="IPFS"] [!badge variant="ghost" size="xs" text="Small library"] [!badge variant="ghost" size="xs" text="Great Quality"]
 - [Kaguya](https://kaguya.app){target="_blank"} [!badge variant="ghost" size="xs" text="Needs extension"]
-- [One Pace](https://onepace.net/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Streamio"](hhttps://fedew04.github.io/OnePaceStremio/manifest.json) [!button target="blank" variant="primary" size="xs" text="Direct Stream"](https://rentry.co/onepace){target="_blank"} [!badge variant="ghost" size="xs" text="Torrent"]
+- [One Pace](https://onepace.net/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Stremio"](https://app.strem.io/shell-v4.4/#/addons/community/all?addon=https%3A%2F%2F6b8ba440e405-onepace-stremio-v2.baby-beamup.club%2Fmanifest.json) [!button target="blank" variant="primary" size="xs" text="Direct Stream"](https://rentry.co/onepace){target="_blank"} [!badge variant="ghost" size="xs" text="Torrent"]
 - [Pokémon TV](https://poke-tv.vercel.app/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/seiya-dev/pokemon-tv){target="_blank"} [!badge variant="ghost" size="xs" text="Multi-lang"]
 - [AnimeXin](https://animexin.vip/){target="_blank"} [!badge variant="ghost" size="xs" text="Donghua"]
 - [Lucifer Donghua](https://luciferdonghua.in/){target="_blank"} [!badge variant="ghost" size="xs" text="Donghua"]
@@ -45,6 +46,27 @@ ___
 - [Myanime](https://myanime.live/){target="_blank"} [!badge variant="ghost" size="xs" text="Donghua"]
 - [Muse Asia](https://www.youtube.com/@MuseAsia/){target="_blank"} [!badge variant="ghost" size="xs" text="Legal"] [!badge variant="ghost" size="xs" text="Regional"]
 - [Ani-One Asia](https://www.youtube.com/AniOneAsia/){target="_blank"} [!badge variant="ghost" size="xs" text="Legal"] [!badge variant="ghost" size="xs" text="Regional"]
+===
+
+### Torrents
+
+- [Nyaa](https://nyaa.si/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Proxy 1"](https://nyaa.iss.one/){target="_blank"}  [!button target="blank" variant="primary" size="xs" text="Proxy 2"](https://nyaa.iss.ink/){target="_blank"}
+- [Animek](https://animek.fun/){target="_blank"}
+- [Anime Tosho](https://animetosho.org/){target="_blank"} [!badge variant="ghost" size="xs" text="DDL"]
+- [Anidex](https://anidex.info/){target="_blank"}
+- [Anirena](https://www.anirena.com/){target="_blank"}
+- [Shana Project](https://www.shanaproject.com/){target="_blank"} | [Tokyo tosho](https://www.tokyotosho.info/){target="_blank"}
+- [Anime Bytes](https://animebytes.tv/){target="_blank"} [!badge variant="ghost" size="xs" text="Private tracker"]
+- [Baka BT](https://bakabt.me/){target="_blank"} [!badge variant="ghost" size="xs" text="Private tracker"]
+- [U2](https://u2.dmhy.org/portal.php){target="_blank"} [!badge variant="ghost" size="xs" text="Private tracker"]
+
+==- :bulb: Quick Tips
+1. [Torrent Terms](https://en.wikipedia.org/wiki/Glossary_of_BitTorrent_terms){target="_blank"}.
+2. [Private Tracker Guide](https://rentry.co/private-trackers)
+3. Recommended torrent client for Android is [!badge variant="dark" target="blank" icon="/static/icon/lt.png" text="libretorrent"](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent){target="_blank"}. For Windows, Linux & macOS, use [!badge variant="dark" target="blank" icon="/static/icon/qb.svg" text="qBittorrent"](https://www.qbittorrent.org/){target="_blank"} or [!badge variant="dark" target="blank" icon="/static/icon/trans.png" text="Transmission"](https://transmissionbt.com/){target="_blank"}.
+4. For VPN, use [!badge variant="dark" target="blank" icon="/static/icon/mv.png" text="Mullvad"](https://mullvad.net/){target="_blank"} or [!badge variant="dark" target="blank" icon="/static/icon/ivpn.png" text="IVPN"](https://www.ivpn.net/){target="_blank"}. If you want free alternative, use [!badge variant="dark" target="blank" icon="/static/icon/wind.png" text="Windscribe"](https://windscribe.com/){target="_blank"}.
+5. Use [Seadex](https://releases.moe/){target="_blank"} or [Sneedex](https://sneedex.moe/){target="_blank"} to find the best uploads available.
+6. Use [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa&hl=en&gl=US){target="_blank"} as a Nyaa client on android.
 ===
 
 ### Direct Download
@@ -86,31 +108,8 @@ ___
 
 > To learn how to use IRC, you can read [**the guide**](/Guides/IRC.md).
 
-### Torrents
-
-- [Nyaa](https://nyaa.si/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Proxy 1"](https://nyaa.iss.one/){target="_blank"}  [!button target="blank" variant="primary" size="xs" text="Proxy 2"](https://nyaa.iss.ink/){target="_blank"}
-- [Animek](https://animek.fun/){target="_blank"}
-- [Anime Tosho](https://animetosho.org/){target="_blank"} [!badge variant="ghost" size="xs" text="DDL"]
-- [Anidex](https://anidex.info/){target="_blank"}
-- [Anirena](https://www.anirena.com/){target="_blank"}
-- [Shana Project](https://www.shanaproject.com/){target="_blank"} | [Tokyo tosho](https://www.tokyotosho.info/){target="_blank"}
-- [Anime Bytes](https://animebytes.tv/){target="_blank"} [!badge variant="ghost" size="xs" text="Private tracker"]
-- [Baka BT](https://bakabt.me/){target="_blank"} [!badge variant="ghost" size="xs" text="Private tracker"]
-- [U2](https://u2.dmhy.org/portal.php){target="_blank"} [!badge variant="ghost" size="xs" text="Private tracker"]
-
-==- :icon-light-bulb: Quick Tips
-
-> For torrent related terms, [click here](https://rentry.org/The-Piracy-Glossary#torrenting-terms){target="_blank"}.
-
-> Recommended torrent client for Android is [!badge variant="dark" target="blank" icon="/static/icon/lt.png" text="libretorrent"](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent){target="_blank"}. For Windows, Linux & macOS, use [!badge variant="dark" target="blank" icon="/static/icon/qb.svg" text="qBittorrent"](https://www.qbittorrent.org/){target="_blank"} or [!badge variant="dark" target="blank" icon="/static/icon/trans.png" text="Transmission"](https://transmissionbt.com/){target="_blank"}.
-
-> For VPN, use [!badge variant="dark" target="blank" icon="/static/icon/mv.png" text="Mullvad"](https://mullvad.net/){target="_blank"} or [!badge variant="dark" target="blank" icon="/static/icon/ivpn.png" text="IVPN"](https://www.ivpn.net/){target="_blank"}. If you want free alternative, use [!badge variant="dark" target="blank" icon="/static/icon/wind.png" text="Windscribe"](https://windscribe.com/){target="_blank"}.
-
-> Use [Seadex](https://releases.moe/){target="_blank"} or [Sneedex](https://sneedex.moe/){target="_blank"} to find the best uploads available.
-
-===
-
 > All the **Legal** anime streaming services are listed [here](https://otakulogy.github.io/anime-streaming/){target="_blank"}.
+
 
 
 ![](/static/banner/software.png)
