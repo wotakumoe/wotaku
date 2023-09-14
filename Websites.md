@@ -360,7 +360,7 @@ ___
     - [Vocasphere](https://vocasphere.net/){target="_blank"}
     - [Merami fan](https://meramifan.wordpress.com/){target="_blank"}
     - [Hatsune Miku](https://twitter.com/cfm_miku_en){target="_blank"}
-- [**RYM Ultimate Box Set**](https://rymboxset.blogspot.com/2018/06/japanese-music.html){target="_blank"}
+- **RYM Ultimate Box Set**
     - [Japanese Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-japanese-music/){target="_blank"}
     - [Doujin Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-doujin-music/){target="_blank"}
     - [Touhou Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-touhou-music/){target="_blank"}

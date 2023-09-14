@@ -20,11 +20,11 @@ meta:
 links:
   - text: Anime
     link: /anime.md
-    icon: ":tv:"
+    icon: /static/icon/tv.png
 
   - text: Manga
     link: /manga.md
-    icon: ":speech_balloon:"
+    icon: /static/icon/bubble.png
 
   - text: Discord
     link: https://discord.gg/vShRGx8ZBC
