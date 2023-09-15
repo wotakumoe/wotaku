@@ -41,6 +41,7 @@ ___
 - [**Aniwave**](https://aniwave.to/home){target="_blank"} [!badge variant="dark" target="blank" size="xs" text="formerly 9anime"]
     - Huge library with Watch Together feature
     - Less amount of compression compared to other sites that use 3rd party hosts
+    - Has both hardsub and softsub (multilingual)
     - Original site's UI is bloated. Use [Anix](https://anix.to/home){target="_blank"} or [9animehq](https://9animehq.to/home){target="_blank"} for more minimal experience.
 - [**Marin**](https://marin.moe/){target="_blank"}
     - Re-encodes files of other encoder groups while keeping the quality consistent
@@ -364,6 +365,7 @@ ___
     - [Make Believe Mailer](https://mbmelodies.substack.com/){target="_blank"}
     - [Vocasphere](https://vocasphere.net/){target="_blank"}
     - [Merami fan](https://meramifan.wordpress.com/){target="_blank"}
+    - [Touhou Memories](https://touhou-memories.com/){target="_blank"}
     - [Hatsune Miku](https://twitter.com/cfm_miku_en){target="_blank"}
 - **RYM Ultimate Box Set**
     - [Japanese Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-japanese-music/){target="_blank"}
@@ -393,6 +395,7 @@ ___
 - [Light Novel Pub](https://www.lightnovelpub.com/){target="_blank"} [!badge variant="dark" target="blank" text="Light Novel World"](https://www.lightnovelworld.com/){target="_blank"}
 - [Novel Buddy](https://novelbuddy.com/home){target="_blank"}
 - [Novel Hall](https://www.novelhall.com/){target="_blank"}
+- [Novels Online](https://novelsonline.net/){target="_blank"}
 - [Octopii](https://octopii.co/){target="_blank"}
 - [Ranobes](https://ranobes.top/){target="_blank"}
 - [Read Light Novel](https://www.readlightnovel.me/){target="_blank"}
@@ -401,6 +404,7 @@ ___
 
 
 ### Direct Download
+- [Ganba's DDL sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSvd0SjjPYZKzhUwTYK2n2peZD_n6_wDmEKV3I37nuM-FnOtAU5xZkec35GabjrZ6olJTbr_CMXS6AH/pubhtml){target="_blank"}
 - [Just Light Novels](https://www.justlightnovels.com/){target="_blank"}
 - [That Novel Corner](https://thatnovelcorner.com/){target="_blank"}
 - [MP4 Directs](https://mp4directs.com/){target="_blank"}
