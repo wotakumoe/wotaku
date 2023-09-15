@@ -100,6 +100,7 @@ ___
 
 - [Web Japan](https://web-japan.org/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Old"](https://web-japan.org/atlas/index.html){target="_blank"}
 - [Do You Know Japan?](https://doyouknowjapan.com/){target="_blank"}
+- [Japanese Wiki](https://www.japanesewiki.com/){target="_blank"}
 - [Japan Reference](https://jref.com/){target="_blank"}
 - [Japan: Below the tip of the iceberg](https://prezi.com/9_lvn6v3fzgt/japan-below-the-tip-of-the-iceberg/){target="_blank"} | [Gaijin](https://www.reddit.com/r/IcebergCharts/comments/n4edop/gaijin_foreigners_in_japan_iceberg/){target="_blank"}
 - [JTCO](https://www.jtco.or.jp/en/){target="_blank"}
@@ -132,14 +133,24 @@ ___
 - [GenoSamuel3] [Yokai: Monsters of Japan](https://www.youtube.com/playlist?list=PLiHkvPlOtVBCPoN70Edn_Sosl5PeeAiFW){target="_blank"}
 - [Inaka Adventure] [Japanese WEIRD Yokai, Monsters & Folklore Compilation](https://www.youtube.com/watch?v=LEH_9iygWvw){target="_blank"}
 
-+++ Travel
-
-- [japan-guide.com](https://www.japan-guide.com/){target="_blank"}
-- [LIVE JAPAN](https://livejapan.com/){target="_blank"}
-- [Boutique Japan](https://boutiquejapan.com/){target="_blank"}
-- [Japan Specialist](https://japanspecialist.com/){target="_blank"}
-- [Ghibli Museum](https://www.ghibli-museum.jp/en/){target="_blank"}
-- [JRailPass](https://www.jrailpass.com/blog/){target="_blank"}
++++ Festivals & Travel
+- **English**
+    - [japan-guide.com](https://www.japan-guide.com/){target="_blank"}
+    - [LIVE JAPAN](https://livejapan.com/){target="_blank"}
+    - [Boutique Japan](https://boutiquejapan.com/){target="_blank"}
+    - [Japan Specialist](https://japanspecialist.com/){target="_blank"}
+    - [JRailPass](https://www.jrailpass.com/blog/){target="_blank"}
+- **Japanese**
+    - [Omatsuri Japan](https://omatsurijapan.com/){target="_blank"}
+    - [Travel Research](https://www.homemate-research-tour.com/){target="_blank"}
+    - [Japan 47 go](https://www.japan47go.travel/ja){target="_blank"}
+    - [Ghibli Museum](https://www.ghibli-museum.jp/en/){target="_blank"}
+    - [Let's learn about Japanese events!](https://www.kyosei-tairyu.jp/){target="_blank"}
+    - **City Specific**
+        - [Tokyojin](http://tokyojin.info/){target="_blank"}
+        - [Souda Kyoto](https://souda-kyoto.jp/index.html){target="_blank"}
+        - [Kyoto Travel](https://kyototravel.info/){target="_blank"}
+        - [Hokkaido Guide](https://hokkaidoguide.com/){target="_blank"} [!badge variant="ghost" size="xs" text="English"]
 
 +++ Youtube
 
