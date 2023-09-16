@@ -436,6 +436,7 @@ ___
 - [Satania](https://satania.moe/){target="_blank"}
 - [AIDN](https://aidn.jp/contents/){target="_blank"}
 - [MakeGirlsMoe](https://make.girls.moe/){target="_blank"}
+- [Anianimals](https://www.anianimals.moe/en){target="_blank"}
 - [Absolute Territory](https://absoluteterritory.moe/){target="_blank"}
 - [Wanwan](https://wanwan.moe/){target="_blank"}
 
@@ -449,5 +450,19 @@ ___
     - Watch this for the introduction only (till `21:42`), since the software section is outdated.
 - [So, you wanna get into VSynth Covers](https://www.youtube.com/watch?v=ySledv37IrQ){target="_blank"}
 - [IDOL - The Terrifying Reality of Perfect Blue](https://www.youtube.com/watch?v=WAcb_57r1Bo){target="_blank"}
+
++++ Other Media
+- Mvoies & TV Series
+    - [Dramacool](https://dramacool.pa/){target="_blank"}
+    - [KissAsian](https://kissasian.mx/){target="_blank"}
+    - [Drama Otaku](https://drama-otaku.com/){target="_blank"}
+    - [Tokuzilla](https://tokuzilla.net/){target="_blank"}
+    - [KRDL](https://krdl.moe/){target="_blank"}
+- Live TV
+    - [IPTV-Org](https://iptv-org.github.io/iptv/countries/jp.m3u){target="_blank"}
+    - [IPTV-JP](https://raw.githubusercontent.com/luongz/iptv-jp/main/jp.m3u){target="_blank"}
+    - [AQ Stream](https://aqstream.com/jp){target="_blank"}
+    - [Keylabo](http://www.keylabo.com/watch-tv-online-for-free/){target="_blank"}
+    - [ANNnewsCH](https://www.youtube.com/@ANNnewsCH/){target="_blank"}
 
 +++

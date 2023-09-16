@@ -326,6 +326,7 @@ ___
     - [SoundCloud](https://soundcloud.com/){target="_blank"}
 - **Radio**
     - [Yggdrasil Radio](https://yggdrasilradio.com/){target="_blank"}
+    - [Anime(bits)](https://radio.animebits.moe/){target="_blank"}
     - [LISTEN.moe](https://listen.moe/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/LISTEN-moe){target="_blank"}
     - [Gensokyo Radio](https://gensokyoradio.net/){target="_blank"} [!badge variant="ghost" size="xs" text="Touhou"]
 - **Touhou**
