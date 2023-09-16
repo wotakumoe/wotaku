@@ -144,6 +144,7 @@ ___
     - [Omatsuri Japan](https://omatsurijapan.com/){target="_blank"}
     - [Travel Research](https://www.homemate-research-tour.com/){target="_blank"}
     - [Japan 47 go](https://www.japan47go.travel/ja){target="_blank"}
+    - [Collab Cafe](https://collabo-cafe.com/){target="_blank"}
     - [Ghibli Museum](https://www.ghibli-museum.jp/en/){target="_blank"}
     - [Let's learn about Japanese events!](https://www.kyosei-tairyu.jp/){target="_blank"}
     - **City Specific**
@@ -445,7 +446,8 @@ ___
 - [What is Touhou? A Brief Introduction](https://www.youtube.com/watch?v=livReBXdiek){target="_blank"}
 - [Explaining Vocaloid in under 3 minutes](https://www.youtube.com/watch?v=GODXMGAMpVc){target="_blank"}
 - [So, you wanna get into VOCALOID](https://www.youtube.com/watch?v=y5pPALER7WU){target="_blank"}
-    - Watch this for the introduction (till `21:42`) only, since the software section is outdated.
+    - Watch this for the introduction only (till `21:42`), since the software section is outdated.
 - [So, you wanna get into VSynth Covers](https://www.youtube.com/watch?v=ySledv37IrQ){target="_blank"}
+- [IDOL - The Terrifying Reality of Perfect Blue](https://www.youtube.com/watch?v=WAcb_57r1Bo){target="_blank"}
 
 +++
