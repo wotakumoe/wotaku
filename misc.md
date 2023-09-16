@@ -427,6 +427,9 @@ ___
 
 ![](/static/banner/random.png)
 ## rando.moe
+
++++ Websites
+
 - [Smug](https://smug.moe/){target="_blank"}
 - [Endless Eight](https://endless8.moe/){target="_blank"}
 - [Satania](https://satania.moe/){target="_blank"}
@@ -434,3 +437,15 @@ ___
 - [MakeGirlsMoe](https://make.girls.moe/){target="_blank"}
 - [Absolute Territory](https://absoluteterritory.moe/){target="_blank"}
 - [Wanwan](https://wanwan.moe/){target="_blank"}
+
++++ Explainers
+
+- [Understanding the Japanese Writing System](https://www.youtube.com/watch?v=r7a8OjvViwE){target="_blank"}
+- [Doujinshi: Japan's Most Misunderstood Medium](https://www.youtube.com/watch?v=5N0VerI9DxE){target="_blank"}
+- [What is Touhou? A Brief Introduction](https://www.youtube.com/watch?v=livReBXdiek){target="_blank"}
+- [Explaining Vocaloid in under 3 minutes](https://www.youtube.com/watch?v=GODXMGAMpVc){target="_blank"}
+- [So, you wanna get into VOCALOID](https://www.youtube.com/watch?v=y5pPALER7WU){target="_blank"}
+    - Watch this for the introduction (till `21:42`) only, since the software section is outdated.
+- [So, you wanna get into VSynth Covers](https://www.youtube.com/watch?v=ySledv37IrQ){target="_blank"}
+
++++
