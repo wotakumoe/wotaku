@@ -158,9 +158,9 @@ ___
 - [Abroad in Japan](https://www.youtube.com/@AbroadinJapan){target="_blank"}
     - Journey Across Japan [S1](https://www.youtube.com/playlist?list=PLSOR9_iNzVfl4ghftQDpTA4CXUvCKRlsL){target="_blank"} | [S2](https://www.youtube.com/playlist?list=PLSOR9_iNzVflVY0eQlZY4V0gArxUiOMLR){target="_blank"} | [S3](https://www.youtube.com/playlist?list=PLSOR9_iNzVflGF8OZwBqYH4mxDXvlkpSX){target="_blank"} | [S4](https://www.youtube.com/playlist?list=PLdd050JRcXCJlhiSBMjIwvB7wQ8PR-JzV){target="_blank"} | [S5](https://www.youtube.com/playlist?list=PLSOR9_iNzVflb2CWbcuXX8JQoVTcXCh2X){target="_blank"}
     - [WACKY WEEKEND](https://www.youtube.com/playlist?list=PL3BrCRgvsZ9DbueHiNITARMRqi0YfCgbT){target="_blank"}
+    - [Documentaries](https://www.youtube.com/playlist?list=PLSOR9_iNzVfnEAmyp9QbIQk3xkeLVTUTq){target="_blank"}
 - [The Japan Reporter](https://www.youtube.com/@TheJapanReporter){target="_blank"}
 - [Lets ask Shogo](https://www.youtube.com/@LetsaskShogo){target="_blank"}
-    - [Social problems in Japan](https://www.youtube.com/playlist?list=PLpIWoYf9KNFV_I-719B3pk673xaHZ6fYY){target="_blank"}
 - [Paolo from TOKYO](https://www.youtube.com/@PaolofromTOKYO){target="_blank"}
 - [Tokyo Lens](https://www.youtube.com/@TokyoLens){target="_blank"}
 - [Sora the Troll](https://www.youtube.com/@sorathetroll){target="_blank"}
@@ -184,6 +184,7 @@ ___
 - [Understanding the Japanese Writing System](https://www.youtube.com/watch?v=r7a8OjvViwE){target="_blank"}
 - [the peculiar case of japanese web design](https://sabrinas.space/) [!button target="blank" variant="primary" size="xs" text="Video"](https://www.youtube.com/watch?v=z6ep308goxQ){target="_blank"}
     - [How culture made Japanese Internet design "Weird"](https://www.youtube.com/watch?v=Opy-SjDU0UY){target="_blank"}
+- [Social problems in Japan](https://www.youtube.com/playlist?list=PLpIWoYf9KNFV_I-719B3pk673xaHZ6fYY){target="_blank"}
 
 #### Otaku
 - [Doujinshi: Japan's Most Misunderstood Medium](https://www.youtube.com/watch?v=5N0VerI9DxE){target="_blank"}
