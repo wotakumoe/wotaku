@@ -98,6 +98,7 @@ ___
 - [Mynimeku](https://www.mynimeku.com/){target="_blank"}
 - [Neonime](https://neonime.fun/){target="_blank"}
 - [Kusonime](https://kusonime.com/){target="_blank"} [!badge variant="ghost" size="xs" text="DDL"]
+- [Meownime](https://m.meownime.ai/){target="_blank"} [!badge variant="ghost" size="xs" text="DDL"]
 
 #### Italian
 - [Anime Saturn](https://www.animesaturn.tv/){target="_blank"}

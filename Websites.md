@@ -279,6 +279,7 @@ ___
 - [jnovels](https://jnovels.com/manga-cbz-cbr-pdfs-download101/){target="_blank"}
 - [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
 - [Anna's Archive](https://annas-archive.org/){target="_blank"}
+- [Desuarchive](https://desuarchive.org/){target="_blank"} [!badge variant="Dark" text="Win-O'-Thread"](https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/){target="_blank"}
 
 #### Madokami
 
@@ -325,10 +326,13 @@ ___
     - [Deezer](https://www.deezer.com/){target="_blank"}
     - [SoundCloud](https://soundcloud.com/){target="_blank"}
 - **Radio**
-    - [Yggdrasil Radio](https://yggdrasilradio.com/){target="_blank"}
-    - [Anime(bits)](https://radio.animebits.moe/){target="_blank"}
-    - [LISTEN.moe](https://listen.moe/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/LISTEN-moe){target="_blank"}
-    - [Gensokyo Radio](https://gensokyoradio.net/){target="_blank"} [!badge variant="ghost" size="xs" text="Touhou"]
+    - [Anison.fm](https://en.anison.fm/){target="_blank"} [!badge variant="info" size="xs" text="320kbps"]
+    - [Yggdrasil Radio](https://yggdrasilradio.com/){target="_blank"} [!badge variant="info" size="xs" text="128kbps"]
+    - [Anime(bits)](https://radio.animebits.moe/){target="_blank"} [!badge variant="info" size="xs" text="FLAC"]
+    - [LISTEN.moe](https://listen.moe/){target="_blank"} [!badge variant="info" size="xs" text="128kbps"]
+    - [Doujin Style](https://embed.radio.co/player/735ee7b.html){target="_blank"} [!badge variant="info" size="xs" text="128kbps"]
+    - [Gensokyo Radio](https://gensokyoradio.net/){target="_blank"} [!badge variant="ghost" size="xs" text="Touhou"] [!badge variant="info" size="xs" text="256kbps"]
+    - [Phate](https://phate.io/){target="_blank"} [!badge variant="info" size="xs" text="192kbps"]
 - **Touhou**
     - [Touhou Disc](https://alist.thdisc.tk){target="_blank"}
     - [Touhou Player](https://touhou.kuukunen.net/){target="_blank"}
@@ -349,8 +353,8 @@ ___
     - [MikuDB](https://mikudb.moe/){target="_blank"} [!badge variant="ghost" size="xs" text="GDrive"]
     - [Touhou Disc](https://alist.thdisc.tk){target="_blank"}
     - [Moriya Shrine](https://moriyashrine.org/){target="_blank"} [!badge variant="ghost" size="xs" text="Torrent"]
-    - [Doujin Style](https://doujinstyle.com/){target="_blank"} [!badge variant="ghost" size="xs" text="Mediafire"]
-        - [Touhou Lossless Music Collection](https://doujinstyle.com/?p=tlmc){target="_blank"}
+    - [Doujin Style](https://doujinstyle.com/){target="_blank"} [!badge variant="Dark" text="Touhou"](https://doujinstyle.com/?p=tlmc){target="_blank"} [!badge variant="ghost" size="xs" text="Mediafire"]
+    
 +++ Others
 
 - **Index/Wiki**
