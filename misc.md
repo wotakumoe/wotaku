@@ -177,11 +177,6 @@ ___
 - [travelgeek](https://www.youtube.com/@travelgeekphotography){target="_blank"}
 ===
 
-+++ Specials
-
-- [the peculiar case of japanese web design](https://sabrinas.space/) [!button target="blank" variant="primary" size="xs" text="Video"](https://www.youtube.com/watch?v=z6ep308goxQ){target="_blank"}
-    - [Cynthia Zhou] [How culture made Japanese Internet design "Weird"](https://www.youtube.com/watch?v=Opy-SjDU0UY){target="_blank"}
-
 +++ Others
 
 - [Mini Tokyo 3D](https://minitokyo3d.com/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/nagix/mini-tokyo-3d){target="_blank"}
@@ -448,8 +443,12 @@ ___
 - [Explaining Vocaloid in under 3 minutes](https://www.youtube.com/watch?v=GODXMGAMpVc){target="_blank"}
 - [So, you wanna get into VOCALOID](https://www.youtube.com/watch?v=y5pPALER7WU){target="_blank"}
     - Watch this for the introduction only (till `21:42`), since the software section is outdated.
-- [So, you wanna get into VSynth Covers](https://www.youtube.com/watch?v=ySledv37IrQ){target="_blank"}
+    - [So, you wanna get into VSynth Covers](https://www.youtube.com/watch?v=ySledv37IrQ){target="_blank"}
 - [IDOL - The Terrifying Reality of Perfect Blue](https://www.youtube.com/watch?v=WAcb_57r1Bo){target="_blank"}
+- [the peculiar case of japanese web design](https://sabrinas.space/) [!button target="blank" variant="primary" size="xs" text="Video"](https://www.youtube.com/watch?v=z6ep308goxQ){target="_blank"}
+    - [Cynthia Zhou] [How culture made Japanese Internet design "Weird"](https://www.youtube.com/watch?v=Opy-SjDU0UY){target="_blank"}
+- [Smoother animation ≠ Better animation [AI ENHANCED]](https://www.youtube.com/watch?v=_KRb_qV9P4g){target="_blank"}
+    - [reviewing your takes on animation](https://www.youtube.com/watch?v=OhcLATiI9Is){target="_blank"}
 
 +++ Other Media
 - Mvoies & TV Series

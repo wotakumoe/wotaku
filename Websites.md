@@ -331,7 +331,7 @@ ___
     - [Anime(bits)](https://radio.animebits.moe/){target="_blank"} [!badge variant="info" size="xs" text="FLAC"]
     - [Listen.moe](https://listen.moe/){target="_blank"} [!badge variant="info" size="xs" text="128kbps"]
     - [Doujin Style](https://embed.radio.co/player/735ee7b.html){target="_blank"} [!badge variant="info" size="xs" text="128kbps"]
-    - [Gensokyo Radio](https://gensokyoradio.net/){target="_blank"} [!badge variant="info" size="xs" text="256kbps"] [!badge variant="ghost" size="xs" text="Touhou"]
+    - [Gensokyo Radio](https://gensokyoradio.net/playing/){target="_blank"} [!badge variant="info" size="xs" text="256kbps"]
     - [Phate](https://phate.io/){target="_blank"} [!badge variant="info" size="xs" text="192kbps"]
 - **Touhou**
     - [Touhou Disc](https://alist.thdisc.tk){target="_blank"}
