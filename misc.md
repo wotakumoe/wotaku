@@ -425,8 +425,9 @@ ___
 #### Tutorials
 - **2D**
     - Although they may not be 100% up to date, [**Brian Tsui**](https://www.youtube.com/@brian_tsui/){target="_blank"}'s tutorials give a good understanding of how rigging works and what you need to know before you start
-    - Introduction to Tools and Technical Concepts [Video](https://www.youtube.com/watch?v=Wr37T3S6LQU&list=PLhha8OGApHGMkC4F41zN3fFaSBRu-YIrc){target="_blank"}
-    - Full Workflow [Video](https://www.youtube.com/watch?v=Cg4nqVl1vBQ&list=PLhha8OGApHGPTpHFNp22MWhZMO4BFmxCW){target="_blank"}
+        - Introduction to Tools and Technical Concepts [Video](https://www.youtube.com/watch?v=Wr37T3S6LQU&list=PLhha8OGApHGMkC4F41zN3fFaSBRu-YIrc){target="_blank"}
+        - Full Workflow [Video](https://www.youtube.com/watch?v=Cg4nqVl1vBQ&list=PLhha8OGApHGPTpHFNp22MWhZMO4BFmxCW){target="_blank"}
+    - [【 how to rig expressive eyes ! 】 live2d step-by-step guide](https://youtu.be/NdU4aZOu-cA){target="_blank"}
 - **3D**
     - [VanillaLog] [The art of making 3D vtuber models (for dummies)](https://www.youtube.com/watch?v=eFkwu7p1LhU){target="_blank"}
         - [Blender tutorials for 3D Vtuber Making](https://docs.google.com/document/d/1GIfrXKHr2ndUh10DVIoS4lRw99misyzHZfo0fnwK8uk/edit){target="_blank"}
