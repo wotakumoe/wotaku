@@ -329,9 +329,9 @@ ___
     - [Anison.fm](https://en.anison.fm/){target="_blank"} [!badge variant="info" size="xs" text="320kbps"]
     - [Yggdrasil Radio](https://yggdrasilradio.com/){target="_blank"} [!badge variant="info" size="xs" text="128kbps"]
     - [Anime(bits)](https://radio.animebits.moe/){target="_blank"} [!badge variant="info" size="xs" text="FLAC"]
-    - [LISTEN.moe](https://listen.moe/){target="_blank"} [!badge variant="info" size="xs" text="128kbps"]
+    - [Listen.moe](https://listen.moe/){target="_blank"} [!badge variant="info" size="xs" text="128kbps"]
     - [Doujin Style](https://embed.radio.co/player/735ee7b.html){target="_blank"} [!badge variant="info" size="xs" text="128kbps"]
-    - [Gensokyo Radio](https://gensokyoradio.net/){target="_blank"} [!badge variant="ghost" size="xs" text="Touhou"] [!badge variant="info" size="xs" text="256kbps"]
+    - [Gensokyo Radio](https://gensokyoradio.net/){target="_blank"} [!badge variant="info" size="xs" text="256kbps"] [!badge variant="ghost" size="xs" text="Touhou"]
     - [Phate](https://phate.io/){target="_blank"} [!badge variant="info" size="xs" text="192kbps"]
 - **Touhou**
     - [Touhou Disc](https://alist.thdisc.tk){target="_blank"}
