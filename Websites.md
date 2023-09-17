@@ -326,13 +326,13 @@ ___
     - [Deezer](https://www.deezer.com/){target="_blank"}
     - [SoundCloud](https://soundcloud.com/){target="_blank"}
 - **Radio**
-    - [Anison.fm](https://en.anison.fm/){target="_blank"} [!badge variant="info" size="xs" text="320kbps"]
-    - [Yggdrasil Radio](https://yggdrasilradio.com/){target="_blank"} [!badge variant="info" size="xs" text="128kbps"]
-    - [Anime(bits)](https://radio.animebits.moe/){target="_blank"} [!badge variant="info" size="xs" text="FLAC"]
-    - [Listen.moe](https://listen.moe/){target="_blank"} [!badge variant="info" size="xs" text="128kbps"]
-    - [Doujin Style](https://embed.radio.co/player/735ee7b.html){target="_blank"} [!badge variant="info" size="xs" text="128kbps"]
-    - [Gensokyo Radio](https://gensokyoradio.net/playing/){target="_blank"} [!badge variant="info" size="xs" text="256kbps"]  [!badge variant="ghost" size="xs" text="Touhou"]
-    - [Phate](https://phate.io/){target="_blank"} [!badge variant="info" size="xs" text="192kbps"]  [!badge variant="ghost" size="xs" text="Utaite"]
+    - [Anison.fm](https://en.anison.fm/){target="_blank"} [!badge variant="info" size="xs" text="320kbps"](https://anison.fm/anison.m3u){target="_blank"}
+    - [Yggdrasil Radio](https://yggdrasilradio.com/){target="_blank"} [!badge variant="info" size="xs" text="128kbps"](https://yggdrasilradio.net/yggdrasilradio_mp3_128kbps.pls){target="_blank"}
+    - [Anime(bits)](https://radio.animebits.moe/){target="_blank"} [!badge variant="info" size="xs" text="FLAC"](https://radio.animebits.moe/m3u/stream192.mp3.m3u){target="_blank"}
+    - [Listen.moe](https://listen.moe/){target="_blank"} [!badge variant="info" size="xs" text="128kbps"](https://listen.moe/m3u8/jpop.m3u){target="_blank"}
+    - [Doujin Style](https://embed.radio.co/player/735ee7b.html){target="_blank"} [!badge variant="info" size="xs" text="128kbps"](https://doujinstyle.com/listen.m3u){target="_blank"}
+    - [Gensokyo Radio](https://gensokyoradio.net/playing/){target="_blank"} [!badge variant="info" size="xs" text="256kbps"](https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u){target="_blank"}  [!badge variant="ghost" size="xs" text="Touhou"]
+    - [Phate](https://phate.io/){target="_blank"} [!badge variant="info" size="xs" text="192kbps"](https://phate.io/phate.m3u){target="_blank"}  [!badge variant="ghost" size="xs" text="Utaite"]
 - **Touhou**
     - [Touhou Disc](https://alist.thdisc.tk){target="_blank"}
     - [Touhou Player](https://touhou.kuukunen.net/){target="_blank"}
