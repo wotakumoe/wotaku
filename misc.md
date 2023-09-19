@@ -184,6 +184,7 @@ ___
 - [Understanding the Japanese Writing System](https://www.youtube.com/watch?v=r7a8OjvViwE){target="_blank"}
 - [the peculiar case of japanese web design](https://sabrinas.space/) [!button target="blank" variant="primary" size="xs" text="Video"](https://www.youtube.com/watch?v=z6ep308goxQ){target="_blank"}
     - [How culture made Japanese Internet design "Weird"](https://www.youtube.com/watch?v=Opy-SjDU0UY){target="_blank"}
+- [Pachinko: Japan's Biggest Gaming Obsession Explained](https://www.youtube.com/watch?v=-tBy2jemw4s){target="_blank"}
 - [Social problems in Japan](https://www.youtube.com/playlist?list=PLpIWoYf9KNFV_I-719B3pk673xaHZ6fYY){target="_blank"}
 
 #### Otaku
