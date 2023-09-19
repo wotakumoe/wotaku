@@ -153,6 +153,22 @@ ___
         - [Kyoto Travel](https://kyototravel.info/){target="_blank"}
         - [Hokkaido Guide](https://hokkaidoguide.com/){target="_blank"} [!badge variant="ghost" size="xs" text="English"]
 
++++ Cooking
+
+- **Blog**
+    - [Just One Cookbook](https://www.justonecookbook.com/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Youtube"](https://www.youtube.com/@justonecookbook){target="_blank"}
+    - [Sirogohan](https://www.sirogohan.com/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Youtube"](https://www.youtube.com/@sirogohancom/){target="_blank"}
+    - [Cooking with Dog](https://cookingwithdog.com/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Youtube"](https://www.youtube.com/@cookingwithdog){target="_blank"}
+    - [Japanese Cooking 101](https://www.japanesecooking101.com/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Youtube"](https://www.youtube.com/@JapaneseCooking101){target="_blank"}
+    - [Okonomiyaki World](http://okonomiyakiworld.com/index.html){target="_blank"}
+    - [Japan food addict](https://www.japanfoodaddict.com/){target="_blank"}
+- **Youtube**
+    - [Champ's Japanese Kitchen](https://www.youtube.com/@ChampsJapaneseKitchen){target="_blank"}
+    - [CHEF'S LABO](https://www.youtube.com/@CHEFSLABO){target="_blank"}
+    - [Nigiricco](https://www.youtube.com/@nigiricco){target="_blank"}
+    - [ochikeron](https://www.youtube.com/@ochikeron){target="_blank"}
+    - [Taiji's Kitchen](https://www.youtube.com/@taijiskitchen/){target="_blank"}
+
 +++ Youtube
 
 - [Abroad in Japan](https://www.youtube.com/@AbroadinJapan){target="_blank"}
@@ -186,6 +202,7 @@ ___
     - [How culture made Japanese Internet design "Weird"](https://www.youtube.com/watch?v=Opy-SjDU0UY){target="_blank"}
 - [Pachinko: Japan's Biggest Gaming Obsession Explained](https://www.youtube.com/watch?v=-tBy2jemw4s){target="_blank"}
 - [Social problems in Japan](https://www.youtube.com/playlist?list=PLpIWoYf9KNFV_I-719B3pk673xaHZ6fYY){target="_blank"}
+- [Why Most Japanese Clip Art Looks Like This](https://www.youtube.com/watch?v=g3CyRZY90M4){target="_blank"}
 
 #### Otaku
 - [Doujinshi: Japan's Most Misunderstood Medium](https://www.youtube.com/watch?v=5N0VerI9DxE){target="_blank"}

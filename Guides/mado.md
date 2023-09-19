@@ -36,7 +36,9 @@ Connect to **Rizon IRC network**.
 Now, your nickname is registered, and you've automatically been identified.
 Upon your next visit to Rizon IRC network, use the same nickname, and identify using the following command: `/msg NickServ IDENTIFY yourPassword`
 
-You can also set up your client to do this automatically by adding it to the Connect/Autorun commands for the Rizon network.
+You can also set up your client to do this automatically by adding it to the **Connect/Autorun commands** for the Rizon network.
+- Hexchat: `HexChat (field in the upper left corner) > Network list > Rizon > Edit > Connect commands > Add`
+- Revolution: `Long press on the network > Edit > Autorun command field > Paste > Save`
 
 ## Step 4
 
@@ -53,8 +55,10 @@ Repeat this step until you get an account, the cooldown should be 4 hours.
 
 ## Tachiyomi
 
-1. Go to extension list and search `Madokami`.
+1. Go to extension list and search **Madokami**.
 2. Install the extension and go to it's settings page.
 3. Add your login credentials.
 
 That should get the job done. The homepage doesn't have infinite scroll due to rate limit. You can search the manga you want and read it.
+
+![](/static/ss/tachi.png)

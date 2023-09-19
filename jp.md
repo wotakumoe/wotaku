@@ -155,6 +155,7 @@ Interested in learning the japanese language? Here you can find resources to aid
     - [JISHO](https://jisho.org/){target="_blank"}
     - [JPDB](https://jpdb.io/){target="_blank"}
     - [JapanDict](https://www.japandict.com/){target="_blank"}
+    - [fujiPod](https://fujipod.com/){target="_blank"}
     - [ichi.moe](https://ichi.moe/){target="_blank"}
     - [Takoboto](https://takoboto.jp/){target="_blank"}
     - [Tangorin](https://tangorin.com/){target="_blank"}
