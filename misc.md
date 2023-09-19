@@ -180,7 +180,7 @@ ___
 +++ Explainers
 
 #### Japan
-- [Japan's History and Geography](https://www.youtube.com/playlist?list=PLdd050JRcXCJ4t-BKGiNlCLKNOfj71RoG){target="_blank"}
+- [Japan's History and Geography](https://www.youtube.com/playlist?list=PLZZ0o0vuqmrOKvwEDnlb_ogILpBlo3RoW){target="_blank"}
 - [Understanding the Japanese Writing System](https://www.youtube.com/watch?v=r7a8OjvViwE){target="_blank"}
 - [the peculiar case of japanese web design](https://sabrinas.space/) [!button target="blank" variant="primary" size="xs" text="Video"](https://www.youtube.com/watch?v=z6ep308goxQ){target="_blank"}
     - [How culture made Japanese Internet design "Weird"](https://www.youtube.com/watch?v=Opy-SjDU0UY){target="_blank"}

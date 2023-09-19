@@ -6,7 +6,7 @@ Label: Madokami
 
 # Madokami Joining Guide
 
-[Madokami](https://manga.madokami.al/){target="_blank"} is a private website that hosts manga, novels, artbooks etc. They mirros manga rips from nyaa without compression. So, you can download from their site (upto 3 parallel download) or directly read in tachiyomi using their extension. To sign up in their website, you have to join their IRC channel and play gacha.
+[Madokami](https://manga.madokami.al/){target="_blank"} is a private website that hosts manga, novels and artbooks. They upload the same manga rips found on nyaa without compression. You can either download from their site (upto 3 parallel downloads) or directly read in tachiyomi using their extension. You sign up by joining their IRC channel and trying your luck at gacha rolls.
 
 ## Step 1
 Install an IRC client, [!badge variant="dark" target="blank" icon="/static/icon/hex.svg" text="**HexChat**"](https://hexchat.github.io/){target="_blank"} if PC and [!badge variant="dark" target="blank" icon="/static/icon/rvl.png" text="**Revolution IRC**"](https://play.google.com/store/apps/details?id=io.mrarm.irc&hl=en&gl=US){target="_blank"} if Android. You can't use web IRC clients.
@@ -55,3 +55,6 @@ Repeat this step until you get an account, the cooldown should be 4 hours.
 
 1. Go to extension list and search `Madokami`.
 2. Install the extension and go to it's settings page.
+3. Add your login credentials.
+
+That should get the job done. The homepage doesn't have infinite scroll due to rate limit. You can search the manga you want and read it.

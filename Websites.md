@@ -274,37 +274,12 @@ ___
 
 
 ### Direct Download
-- [Madokami](https://manga.madokami.al){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Guide"](#madokami)
+- [Madokami](https://manga.madokami.al){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Guide"](/Guides/mado.md)
 - [mp4directs](https://mp4directs.com/){target="_blank"}
 - [jnovels](https://jnovels.com/manga-cbz-cbr-pdfs-download101/){target="_blank"}
 - [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
 - [Anna's Archive](https://annas-archive.org/){target="_blank"}
 - [Desuarchive](https://desuarchive.org/){target="_blank"} [!badge variant="Dark" text="Win-O'-Thread"](https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/){target="_blank"}
-
-#### Madokami
-
-==- Joining Guide
-#### Step 1
-Choose an [IRC client](https://ircv3.net/software/clients){target="_blank"} you're comfortable with, as you can't use web IRC.
-
-#### Step 2
-Connect to **Rizon IRC network**.
-
-#### Step 3
-Register your nickname (all explained in detail [here](https://wiki.rizon.net/index.php?title=Register_your_nickname){target="_blank"}) and then add the IDENTIFY command to the Connect commands for Rizon
-
-#### Step 4
-Type `/join #madokami`
-
-#### Step 5
-Once there, type the following command into the channel - `/msg sola REGISTER username password` (you **shouldn't reuse the password** from [Step 2](/Websites.md/#step-2))
-
-Repeat this until you get an account, the cooldown should be 4 hours.
-
-#### Step 6
-You may now use your credentials to log into https://manga.madokami.al and enjoy their manga DDL directory (note that you can only download 3 files at the same time, but don't have limits besides that). They also have Tachiyomi extensions.
-===
-
 
 > All the **Legal** manga reading sites are listed [here](https://otakulogy.github.io/manga-platform/){target="_blank"} and [here](https://wherecanireadmanga.com/){target="_blank"}.
 
