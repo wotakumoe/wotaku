@@ -49,6 +49,7 @@ ___
 - [Animiru](https://github.com/Quickdesh/Animiru){target="_blank"} [!badge variant="ghost" size="xs" text="Anime only"] [!badge variant="ghost" size="xs" text="RPC"]
 - [Animity](https://github.com/kl3jvi/animity){target="_blank"}
 - [Enimax](https://github.com/enimax-anime/enimax){target="_blank"}
+- [Miru](https://miru.js.org/){target="_blank"}
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap){target="_blank"}
   ===
 
@@ -260,17 +261,43 @@ ___
 
 ___
 
-### Anime
++++ Anime
 
-- [Hakuneko](https://github.com/manga-download/hakuneko){target="_blank"}
-- [AnimeDL](https://github.com/justfoolingaround/animdl){target="_blank"}
-- [adl](https://github.com/RaitaroH/adl){target="_blank"}
-- [Crunchy-cli](https://github.com/crunchy-labs/crunchy-cli){target="_blank"}
-- [Crunchyroll Downloader v3.0](https://github.com/hama3254/Crunchyroll-Downloader-v3.0){target="_blank"}
-- [Nyaa Downloader](https://github.com/marcpinet/nyaadownloader){target="_blank"}
+- [**Hakuneko**](https://github.com/manga-download/hakuneko){target="_blank"}
+  - No Crunchyroll implementation
+  - You have to index each site first, which takes quite a long time, after that the search is almost instant, but loading episodes for anime again takes some time depending on the source.
+  - Not a great interface, but it does the job, and you can tell it is more thought out for manga.
+  - Not too many anime sources, some of them do not work.
+  - Hakuneko 7 working sources, 1 is nsfw
+- [**animdl**](https://github.com/justfoolingaround/animdl){target="_blank"}
+  - No UI, terminal based
+  - Easy to use once installed
+  - Not too many anime sources, some of them do not work.
+  - AnimDL 7 working sources, 1 is nsfw
+- [**ADL**](https://github.com/RaitaroH/adl){target="_blank"}
+  - No UI, terminal based
+  - "Complicated" installation, especially on Windows
+  - Uses many different scripts, including animedl, so lots of functionality
+  - Tracking capability & many more
+  - Same amount of sources as AnimDL
+- [**Crunchy-cli**](https://github.com/crunchy-labs/crunchy-cli){target="_blank"}
+  - No UI, terminal based
+  - "Simple" installation
+  - Crunchyroll account required, Premium if you want all the anime available
+  - No streaming, only download
+- [**Crunchyroll Downloader v3.0**](https://github.com/hama3254/Crunchyroll-Downloader-v3.0){target="_blank"}
+  - Straightforward UI
+  - Easy to use
+  - Crunchyroll account required if you want premium content
+  - About the same functionality as Crunchy-cli
+  - No streaming, only download
+- [**Nyaa Downloader**](https://github.com/marcpinet/nyaadownloader){target="_blank"}
+  - Runs via terminal, has a pretty simple UI
+  - Used for torrent downloads that can be redirected/downloaded directly into a BitTorrent client - no DDL functionality
+  - for nyaa.si only
 
 
-### Manga
++++ Manga
 
 - [**Hakuneko**](https://github.com/manga-download/hakuneko){target="_blank"}
   - Currently the best downloader
@@ -294,16 +321,35 @@ ___
 - [**Hitomi Downloader**](https://github.com/KurtBestor/Hitomi-Downloader){target="_blank"}
   - Supports mostly nsfw sites but works great for the supported ones
 
-### Light Novel
++++ Light Novel
 
-- [Light novel Crawler](https://github.com/dipu-bd/lightnovel-crawler){target="_blank"}
-- [Novel Grabber](https://github.com/Flameish/Novel-Grabber){target="_blank"}
+- [**WebtoEpub**](https://chrome.google.com/webstore/detail/webtoepub/akiljllkbielkidmammnifcnibaigelm){target="_blank"}
+  - Rich with epub settings and customization
+  - Include authors and precise detailed information
+  - Works with 3k chap of novels (pretty slow conversion time)
+  - Advance option with additional settings and customization
+  - Ability to generate epub 3 version
+  - Conversion time is slow (depends on the novel you're converting for)
+- [**Epublifier**](https://github.com/maoserr/epublifier){target="_blank"}
+  - Decent ui and unique pop-up tabs
+  - Fast conversion (Novelupdate tested)
+  - Faster parser compared to WebtoEpub extension
+  - Don't have a way to add table of contents
+  - Chapter name is reverted back to title instead so no precise info
+  - No detailed epub info like authors and metadata
+- [**Novel Crawler**](https://github.com/dipu-bd/lightnovel-crawler){target="_blank"}
+  - Command Line base
+  - Easy fetch for chapters
+  - Fast expertience
+  - needs a basic knowlege for Command prompt
 
-### Others
++++ Others
 
 - [gallery-dl](https://github.com/mikf/gallery-dl){target="_blank"}
 - [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/){target="_blank"}
 - [Nicotine+](https://nicotine-plus.org/){target="_blank"} [!badge variant="ghost" size="xs" text="p2p"] [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
 - [PixivUtil2](https://github.com/Nandaka/PixivUtil2){target="_blank"}
+
++++
 
 > You can find more PC related tools [**here**](/addons.md/#tools)

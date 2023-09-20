@@ -38,6 +38,7 @@ ___
 - [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi){target="_blank"} [!badge variant="ghost" size="xs" text="Android"]
 - [ADM](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US){target="_blank"} [!badge variant="ghost" size="xs" text="Android"]
 - [libretorrent](https://github.com/proninyaroslav/libretorrent){target="_blank"} [!badge variant="ghost" size="xs" text="Android"]
+- [iTorrent](https://github.com/XITRIX/iTorrent){target="_blank"} [!badge variant="ghost" size="xs" text="iOS"]
 
 +++ Media
 
