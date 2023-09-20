@@ -159,15 +159,24 @@ ___
     - [Just One Cookbook](https://www.justonecookbook.com/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Youtube"](https://www.youtube.com/@justonecookbook){target="_blank"}
     - [Sirogohan](https://www.sirogohan.com/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Youtube"](https://www.youtube.com/@sirogohancom/){target="_blank"}
     - [Cooking with Dog](https://cookingwithdog.com/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Youtube"](https://www.youtube.com/@cookingwithdog){target="_blank"}
-    - [Japanese Cooking 101](https://www.japanesecooking101.com/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Youtube"](https://www.youtube.com/@JapaneseCooking101){target="_blank"}
+    - [Japanese Cooking 101](https://www.japanesecooking101.com/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Youtube"](https://www.youtube.com/@recipetinjapan3806/){target="_blank"}
+    - [RecipeTin Japan](https://japan.recipetineats.com/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Youtube"](https://www.youtube.com/@JapaneseCooking101){target="_blank"}
+    - [Chopstick Chronicles](https://www.chopstickchronicles.com/){target="_blank"}
     - [Okonomiyaki World](http://okonomiyakiworld.com/index.html){target="_blank"}
     - [Japan food addict](https://www.japanfoodaddict.com/){target="_blank"}
+    - [Just Hungry](https://www.justhungry.com/recipes){target="_blank"}
 - **Youtube**
     - [Champ's Japanese Kitchen](https://www.youtube.com/@ChampsJapaneseKitchen){target="_blank"}
     - [CHEF'S LABO](https://www.youtube.com/@CHEFSLABO){target="_blank"}
     - [Nigiricco](https://www.youtube.com/@nigiricco){target="_blank"}
     - [ochikeron](https://www.youtube.com/@ochikeron){target="_blank"}
     - [Taiji's Kitchen](https://www.youtube.com/@taijiskitchen/){target="_blank"}
+- **Cookbook**
+    - [Japanese Cooking: A Simple Art](https://www.amazon.com/Japanese-Cooking-Simple-Shizuo-Tsuji/dp/1568363885){target="_blank"}
+    - [Washoku: Recipes from the Japanese Home Kitchen](https://www.amazon.com/Washoku-Recipes-Japanese-Home-Kitchen/dp/1580085199){target="_blank"}
+    - [Japanese Farm Food](https://www.amazon.com/Japanese-Farm-Nancy-Singleton-Hachisu/dp/1449418295){target="_blank"}
+    - [The Japanese Kitchen: 250 Recipes in a Traditional Spirit](https://www.amazon.com/Japanese-Kitchen-Recipes-Traditional-Spirit/dp/1558321772){target="_blank"}
+    - [My Japanese Table: A Lifetime of Cooking with Friends and Family](https://www.amazon.com/My-Japanese-Table-Lifetime-Cooking/dp/4805311185){target="_blank"}
 
 +++ Youtube
 
@@ -445,7 +454,10 @@ ___
     - Although they may not be 100% up to date, [**Brian Tsui**](https://www.youtube.com/@brian_tsui/){target="_blank"}'s tutorials give a good understanding of how rigging works and what you need to know before you start
         - Introduction to Tools and Technical Concepts [Video](https://www.youtube.com/watch?v=Wr37T3S6LQU&list=PLhha8OGApHGMkC4F41zN3fFaSBRu-YIrc){target="_blank"}
         - Full Workflow [Video](https://www.youtube.com/watch?v=Cg4nqVl1vBQ&list=PLhha8OGApHGPTpHFNp22MWhZMO4BFmxCW){target="_blank"}
-    - [【 how to rig expressive eyes ! 】 live2d step-by-step guide](https://youtu.be/NdU4aZOu-cA){target="_blank"}
+    - [beginner live2d tutorials](https://www.youtube.com/playlist?list=PLs1M2_VbQOf6bDLan8j-Tr7R-k9VDo3Pi){target="_blank"}
+    - Live2d Tutorial by enma
+        - [Standard Componen](https://www.youtube.com/playlist?list=PL3sGye8NKCQ-DHy01xNkRLSKlzZ5VPL6z){target="_blank"}
+        - [Advanced Componen](https://www.youtube.com/playlist?list=PL3sGye8NKCQ-pJ2EcUCFVK53JxntA9FLU){target="_blank"}
 - **3D**
     - [VanillaLog] [The art of making 3D vtuber models (for dummies)](https://www.youtube.com/watch?v=eFkwu7p1LhU){target="_blank"}
         - [Blender tutorials for 3D Vtuber Making](https://docs.google.com/document/d/1GIfrXKHr2ndUh10DVIoS4lRw99misyzHZfo0fnwK8uk/edit){target="_blank"}
