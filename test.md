@@ -14,9 +14,9 @@ The usual reading direction for manga is right to left, whereas manhwa and manhu
 
 ![Sousou no Frieren Vol. 3(Left) & Solo Leveling Vol. 7(right)](/static/glossary/panel/gnrl.png)
 
-For a merged spread, you can set an imaginary line based on the page number.
+For a spread, you can set an imaginary line based on the page number.
 
-![Black Clover](/static/glossary/panel/gnrlspread.png)
+![Black Clover (2 page)](/static/glossary/panel/gnrlspread.png)
 
 +++ 4 Koma
 
