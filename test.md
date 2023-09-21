@@ -21,11 +21,13 @@ The usual reading direction for manga is right to left, whereas manhwa and manhu
 
 ![Mousou Telepathy ch. 622(left), Tsurezure Children ch. 20(center) & Komi-san wa Komyushou Desu.(right)](/static/glossary/panel/4koma.png)
 
-To get what will be the path, you can look for the space between rows or column.
+To get what will be the path, you can look for the space between rows or column. If the column has more space, then it's up to down. If otherwise, then right to left.
+
+![](/static/glossary/panel/4koma%202.png)
 
 +++ Long strip
 
-It's newer type of comics format. Long strip comics are made for smartphone readers. The flow of the panels is up-down instead of traditional right-left. The panels are scrollable vertically so that it is easier to read in smartphone. As a result you have to follow [different rules](https://www.webtoons.com/en/tiptoon/lozolz/webtoon-editing-tips/viewer?title_no=1268&episode_no=24){target="_blank"} than the traditional manga format. This format is widely used in the manhwa and manhua industries.
+It's newer type of comics format. Long strip comics are made for smartphone readers. The flow of the panels is up-down instead of traditional right-left. The panels are scrollable vertically so that it is easier to read in smartphone. As a result you have to follow [different rules](https://www.webtoons.com/en/tiptoon/lozolz/webtoon-editing-tips/viewer?title_no=1268&episode_no=24){target="_blank"} than the traditional manga format. This format is widely used in the manhwa and manhua industries. But it's available for every region.
 
 
 +++ Splash
