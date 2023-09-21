@@ -14,6 +14,9 @@ The usual reading direction for manga is right to left, whereas manhwa and manhu
 
 ![Sousou no Frieren Vol. 3(Left) & Solo Leveling Vol. 7(right)](/static/glossary/panel/gnrl.png)
 
+For a merged spread, you can set an imaginary line based on the page number.
+
+![Black Clover](/static/glossary/panel/gnrlspread.jpeg)
 
 +++ 4 Koma
 
@@ -23,7 +26,7 @@ The usual reading direction for manga is right to left, whereas manhwa and manhu
 
 To get what will be the path, you can look for the space between rows or column. If the column has more space, then it's up to down. If otherwise, then right to left.
 
-![](/static/glossary/panel/4koma%202.png)
+![](/static/glossary/panel/4komagrid.png)
 
 +++ Long strip
 
