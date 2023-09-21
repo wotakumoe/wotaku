@@ -144,7 +144,7 @@ ___
 
 ## Manga
 
-For Offcial releases(web, volume, omnibus etc.), download from [**Nyaa**](#nyaa-uploaders) or [**Madokami**](#madokami). They have very little compression, if any.
+For Offcial releases(web, volume, omnibus etc.), download from [**Nyaa**](#nyaa-uploaders) or [**Madokami**](/Guides/mado.md). They have very little compression, if any.
 ___
 
 ### Reader
@@ -347,6 +347,11 @@ ___
     - [Merami fan](https://meramifan.wordpress.com/){target="_blank"}
     - [Touhou Memories](https://touhou-memories.com/){target="_blank"}
     - [Hatsune Miku](https://twitter.com/cfm_miku_en){target="_blank"}
+- **Discovery**
+    - [Rate Your Music](https://rateyourmusic.com/){target="_blank"}
+    - [Every Noise](https://everynoise.com){target="_blank"}
+    - [Discover Quickly](https://discoverquickly.com/){target="_blank"}
+    - [Dubolt](https://dubolt.com/){target="_blank"}
 - **RYM Ultimate Box Set**
     - [Japanese Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-japanese-music/){target="_blank"}
     - [Doujin Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-doujin-music/){target="_blank"}

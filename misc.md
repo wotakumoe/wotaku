@@ -171,6 +171,7 @@ ___
     - [Nigiricco](https://www.youtube.com/@nigiricco){target="_blank"}
     - [ochikeron](https://www.youtube.com/@ochikeron){target="_blank"}
     - [Taiji's Kitchen](https://www.youtube.com/@taijiskitchen/){target="_blank"}
+    - [Anime with Alvin](https://www.youtube.com/playlist?list=PLopY4n17t8RAHz5OSGQP6I9z7UZqAZ4WW){target="_blank"}
 - **Cookbook**
     - [Japanese Cooking: A Simple Art](https://www.amazon.com/Japanese-Cooking-Simple-Shizuo-Tsuji/dp/1568363885){target="_blank"}
     - [Washoku: Recipes from the Japanese Home Kitchen](https://www.amazon.com/Washoku-Recipes-Japanese-Home-Kitchen/dp/1580085199){target="_blank"}
@@ -188,6 +189,7 @@ ___
 - [Lets ask Shogo](https://www.youtube.com/@LetsaskShogo){target="_blank"}
 - [Paolo from TOKYO](https://www.youtube.com/@PaolofromTOKYO){target="_blank"}
 - [Tokyo Lens](https://www.youtube.com/@TokyoLens){target="_blank"}
+- [Robcdee](https://www.youtube.com/@Robcdee){target="_blank"}
 - [Sora the Troll](https://www.youtube.com/@sorathetroll){target="_blank"}
 - [Japanalysis](https://www.youtube.com/@Japanalysis){target="_blank"}
 - [Rion Ishida](https://www.youtube.com/@RionIshida){target="_blank"}
