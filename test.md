@@ -16,7 +16,7 @@ The usual reading direction for manga is right to left, whereas manhwa and manhu
 
 For a merged spread, you can set an imaginary line based on the page number.
 
-![Black Clover](/static/glossary/panel/gnrlspread.jpeg)
+![Black Clover](/static/glossary/panel/gnrlspread.png)
 
 +++ 4 Koma
 
