@@ -12,7 +12,7 @@ visibility: hidden
 
 The usual reading direction for manga is right to left, whereas manhwa and manhua are read left to right (like standard comics). In the case of manga, the individual panels are read right to left and top to bottom, then top again upon reaching the next page.
 
-![Sousou no Frieren Vol. 3](/static/glossary/panel/gnrl_manga.png)
+![Sousou no Frieren Vol. 3(Left) & Solo Leveling Vol. 7(right)](/static/glossary/panel/gnrl.png)
 
 
 +++ 4 Koma
@@ -42,7 +42,7 @@ A panel/artwork that is spread out over two pages, reserved for particularly imp
 
 Another type of spread where the panel covers more than one page, but not the whole 2 pages.
 
-![Solo Leveling Vol. 7 (Yen Press)](/static/glossary/panel/spread_1_5.jpg)
+![Solo Leveling Vol. 7](/static/glossary/panel/spread_1_5.jpg)
 
 They can sometimes cover multiple pages, which is solved by having fold-outs.
 
