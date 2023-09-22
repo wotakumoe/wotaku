@@ -10,10 +10,6 @@ Manga portion of the Wotaku glossary!
 ___
 ## Terms 
 
----
-visibility: hidden
----
-
 #### Panels
 
 +++ General
