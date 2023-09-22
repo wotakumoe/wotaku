@@ -19,9 +19,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 ## Android
 
-
-
-### Anime
++++ Anime
 
 - [**Saikou**](https://github.com/saikou-app/saikou/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="video" text="TV"](https://github.com/siennaXD/SaikouTV/){target="_blank"}  [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://saikou.pages.dev/){target="_blank"}
   - Decent UI but limited customization
@@ -53,7 +51,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap){target="_blank"}
   ===
 
-### Manga
++++ Manga
 
 - [**Tachiyomi**](https://github.com/tachiyomiorg/tachiyomi/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://tachiyomi.org/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/){target="_blank"}
   - Great Customizable UI
@@ -74,8 +72,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
   - Tracking & sync support
   - Lacks some basic features
 
-
-### Light Novel
++++ Light Novel
 
 - [**Moon+ Reader Pro**](https://play.google.com/store/apps/details?id=com.flyersoft.moonreaderp&hl=en&gl=US){target="_blank"}
   - Customizable UI
@@ -110,11 +107,11 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 - [Lithium: EPUB Reader](https://play.google.com/store/apps/details?id=com.faultexception.reader&hl=en&gl=US){target="_blank"}
   ===
 
++++
+
 ![](/static/banner/pc.png)
 
 ## PC
-
-
 
 ### Manga
 
@@ -186,6 +183,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
     - No MALSync support. Tracking support, alongside some other features, is paywalled behind Kavita+.
 
 +++
+
 === More
 - [Yomikiru](https://github.com/mienaiyami/yomikiru){target="_blank"} [!badge variant="ghost" size="xs" text="offline"]
 - [LANraragi](https://github.com/Difegue/LANraragi){target="_blank"} [!badge variant="ghost" size="xs" text="Self-hosted"]
@@ -210,9 +208,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 ## iOS
 
-
-
-### Anime
++++ Anime
 
 - [**Anime Now**](https://github.com/AnimeNow-Team/AnimeNow){target="_blank"}
   - Great UI with extension support
@@ -228,7 +224,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
   - Small number of extensions 
   - Only available trough sideloading
 
-### Manga
++++ Manga
 
 - [**Paperback**](https://github.com/Paperback-iOS/app){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://paperback.moe/){target="_blank"}
   - Very clean UI with changeable theme
@@ -255,11 +251,11 @@ Apps and programs for your various devices to take your hobbies wherever you go.
   - Old looking UI but very functional and customizable.
   - Good amount of features paywalled
 
++++
+
 ![](/static/banner/dler.png)
 
 ## Downloader
-
-
 
 +++ Anime
 
@@ -295,7 +291,6 @@ Apps and programs for your various devices to take your hobbies wherever you go.
   - Runs via terminal, has a pretty simple UI
   - Used for torrent downloads that can be redirected/downloaded directly into a BitTorrent client - no DDL functionality
   - for nyaa.si only
-
 
 +++ Manga
 
