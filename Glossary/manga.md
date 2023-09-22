@@ -63,7 +63,7 @@ A panel/artwork that is spread out over two pages, reserved for particularly imp
 
 Another type of spread where the panel covers more than one page, but not the whole 2 pages.
 
-![Boku No Hero Academia ch. 1](/static/glossary/panel/spread_1andahalf.png)
+![Haikyu!! ch. 39](/static/glossary/panel/spread_1andahalf.png)
 
 They can sometimes cover multiple pages, which is solved by having fold-outs.
 
