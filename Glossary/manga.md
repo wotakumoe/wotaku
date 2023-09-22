@@ -75,7 +75,7 @@ They can sometimes cover multiple pages, which is solved by having fold-outs.
 Not original content and was addapted from other sources (light novel, anime, picture book etc.). Example: [Josee, the Tiger and the Fish](https://mangadex.org/search?q=Josee%2C+the+Tiger+and+the+Fish){target="_blank"} which was a [Light Novel](https://yenpress.com/titles/9781975340469-josee-the-tiger-and-the-fish-light-novel){target="_blank"} adapatation.
 
 #### Doujinshi
-Basically, it means indie works. If the mangaka publishes the manga on their own, then it counts as a doujinshi. It can be derivative work from a licensed franchise too. Also, it doesn't necessarily mean NSFW content. 
+Doujinshi refers to self-published works. It can be a standalone self-published work, but it can also be a derivative of an existing published franchise or work. Doujinshi need not be NSFW, anything self-published counts.
 
 
 #### Mangaka
