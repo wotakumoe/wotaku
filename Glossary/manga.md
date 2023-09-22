@@ -36,6 +36,10 @@ To easier understand the reading order, you can look for the space between rows 
 
 ![](/static/glossary/panel/4komagrid.png)
 
+At times, the beginning of a 4koma manga may feature a sizable illustration, spanning either half the page vertically or horizontally.
+
+![Kawaii Joushi wo Komarasetai ch. 62, 56, 46, 29 (left to right)](/static/glossary/panel/4komaillust.png)
+
 +++ Long strip
 
 It's newer type of comics format. Long strip comics are made for smartphone readers. The flow of the panels is up-down instead of traditional right-left. The panels are scrollable vertically so that it is easier to read in smartphone. As a result you have to follow [different rules](https://www.webtoons.com/en/tiptoon/lozolz/webtoon-editing-tips/viewer?title_no=1268&episode_no=24){target="_blank"} than the traditional manga format. This format is widely used in the manhwa and manhua industries. But it's available for every region.
