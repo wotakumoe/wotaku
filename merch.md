@@ -94,6 +94,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide){target="_blank"} 
 ## Retailers
 - [AmiAmi](https://www.amiami.com){target="_blank"}
 - [Big in Japan](http://biginjap.com/){target="_blank"}
+- [Crunchyroll](https://store.crunchyroll.com/){target="_blank"}
 - [Dekai Anime](https://www.dekaianime.com/){target="_blank"}
 - [Hobby Link](https://www.hlj.com/){target="_blank"}
 - [Hobby Search](https://www.1999.co.jp/eng/){target="_blank"}

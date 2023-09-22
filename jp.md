@@ -267,6 +267,7 @@ Interested in learning the japanese language? Here you can find resources to aid
     - [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380){target="_blank"}
 	- Takoboto [!badge variant="dark" target="blank" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=jp.takoboto){target="_blank"}
 - Media Player
+    - [Anime Subtitle Player](https://github.com/LostArrows27/anime-subtitle-player){target="_blank"}
 	- [mpvacious](https://github.com/Ajatt-Tools/mpvacious){target="_blank"}
 	- [memento](https://github.com/ripose-jp/Memento){target="_blank"}
     - [Asbplayer](https://killergerbah.github.io/asbplayer/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/killergerbah/asbplayer){target="_blank"}

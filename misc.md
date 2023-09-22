@@ -278,7 +278,9 @@ ____
 - [Josu Ke](https://twitter.com/Josu_ke){target="_blank"}
 - [Manga Alerts](https://twitter.com/MangaAlerts){target="_blank"}
 - [Manga Mogura RE](https://twitter.com/MangaMoguraRE){target="_blank"}
+- [Manga Splaining](https://www.mangasplaining.com/){target="_blank"}
 - [Shonen Jump News](https://twitter.com/WSJ_manga)
+- [Deb Aoki](https://twitter.com/debaoki){target="_blank"}
 
 +++ Games
 - [4Gamer](https://www.4gamer.net/){target="_blank"}
@@ -517,7 +519,7 @@ ____
     - [XOXO Comics](https://xoxocomics.com/){target="_blank"}
 - Direct Download
     - [Anna’s Archive](https://annas-archive.org/){target="_blank"}
-    - [Desuarchive](https://desuarchive.org/){target="_blank"}
+    - [Desuarchive](https://desuarchive.org/){target="_blank"} [!badge variant="Dark" text="Win-O'-Thread"](https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/){target="_blank"}
     - [Get Comics](https://getcomics.info/){target="_blank"}
     - [Comics All](https://comics-all.com/){target="_blank"} | [New comic](https://newcomic.info/){target="_blank"}
     - [Libgen](https://libgen.is/){target="_blank"}
