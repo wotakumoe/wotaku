@@ -100,7 +100,6 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide){target="_blank"} 
 - [FAKKU Merch](https://merch.fakku.net/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
 - [Mandarake](https://order.mandarake.co.jp/order/){target="_blank"}
 - [Otaku Mode](https://otakumode.com/){target="_blank"}
-- [Right Stuff Anime](https://www.rightstufanime.com/){target="_blank"}
 
 ## Agents
 - [Black Sheep](https://blackship.com/){target="_blank"}

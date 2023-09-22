@@ -509,14 +509,23 @@ ____
 - Reader
     - [Comicastle](https://www.comicastle.org/){target="_blank"}
     - [Comic Extra](https://ww1.comicextra.com/){target="_blank"}
+    - [Read All Comics](https://readallcomics.com/){target="_blank"}
     - [Read Comics Free](https://readcomicsfree.com/){target="_blank"}
     - [Read Comic Online](https://readcomiconline.li/){target="_blank"}
     - [Read Comics Online](https://readcomicsonline.ru/){target="_blank"}
     - [View Comics](https://viewcomics.me/){target="_blank"}
     - [XOXO Comics](https://xoxocomics.com/){target="_blank"}
 - Direct Download
-    - [booksDL](https://booksdl.org/comics0/){target="_blank"}
-    - [Comics All](https://comics-all.com/){target="_blank"} | [New comic](https://newcomic.info/){target="_blank"}
+    - [Anna’s Archive](https://annas-archive.org/){target="_blank"}
+    - [Desuarchive](https://desuarchive.org/){target="_blank"}
     - [Get Comics](https://getcomics.info/){target="_blank"}
-
+    - [Comics All](https://comics-all.com/){target="_blank"} | [New comic](https://newcomic.info/){target="_blank"}
+    - [Libgen](https://libgen.is/){target="_blank"}
+- Tracker
+    - [League of Comic Geeks](https://leagueofcomicgeeks.com/){target="_blank"}
+    - [Comic Vine](https://comicvine.gamespot.com/){target="_blank"}
+- Info
+    - [Comic Book Reading Orders](https://comicbookreadingorders.com/){target="_blank"}
+    - [Comic Book Herald](https://www.comicbookherald.com/){target="_blank"}
+    - [CMRO](https://cmro.travis-starnes.com/)
 +++
