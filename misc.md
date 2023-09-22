@@ -484,13 +484,13 @@ ___
 - [Satania](https://satania.moe/){target="_blank"}
 - [AIDN](https://aidn.jp/contents/){target="_blank"}
 - [MakeGirlsMoe](https://make.girls.moe/){target="_blank"}
-- [Anianimals](https://www.anianimals.moe/en){target="_blank"}
+- [Anianimals](https://www.anianimals.moe/){target="_blank"}
 - [Absolute Territory](https://absoluteterritory.moe/){target="_blank"}
 - [Wanwan](https://wanwan.moe/){target="_blank"}
 
 
 +++ Other Media
-- Mvoies & TV Series
+- Movies & TV Series
     - [Dramacool](https://dramacool.pa/){target="_blank"}
     - [KissAsian](https://kissasian.mx/){target="_blank"}
     - [Drama Otaku](https://drama-otaku.com/){target="_blank"}

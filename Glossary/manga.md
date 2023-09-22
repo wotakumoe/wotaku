@@ -10,10 +10,62 @@ Manga portion of the Wotaku glossary!
 ___
 ## Terms 
 
-#### 4-Koma
-4-Koma (a.k.a. Yonkoma manga) features four panels, follows a specific pattern where every four panels lead up to a punchline. These are read up-down instead of traditional right-left. The right column is always the starting column. Example: [Tsurezure Children](https://mangadex.org/title/a840d47c-4080-4783-9c42-af8100e48079/tsurezure-children){target="_blank"}
+---
+visibility: hidden
+---
 
-![Tsurezure Children ch. 20](/static/glossary/manga/4koma.jpg)
+#### Panels
+
++++ General
+
+| Type      | Manga         | Manhwa        | Manhua     { class="compact" }   |
+|:---------:|:-------------:|:-------------:|:-------------:|
+| Direction | Right to Left | Left to Right | Left to Right |
+
+The usual reading direction for manga is right to left, whereas manhwa and manhua are read left to right (like standard comics). In the case of manga, the individual panels are read right to left and top to bottom, then top again upon reaching the next page.
+
+![Sousou no Frieren Vol. 3(Left) & Solo Leveling Vol. 7(right)](/static/glossary/panel/gnrl.png)
+
+For a spread, you can set an imaginary line based on the page number.
+
+![Black Clover ch. 361 (2 page)](/static/glossary/panel/gnrlspread.png)
+
++++ 4 Koma
+
+4-Koma (a.k.a. Yonkoma manga) features four panels, follows a specific pattern where every four panels lead up to a punchline. These are generally read up-down instead of traditional right-left. The right column is always the starting column. It can be single column or double column. For some manga or omake, it may follow right to left a.k.a. the traditional way.
+
+![Mousou Telepathy ch. 622(left), Tsurezure Children ch. 20(center) & Komi-san wa Komyushou Desu. ch 382(right)](/static/glossary/panel/4koma.png)
+
+To easier understand the reading order, you can look for the space between rows or column. If the column has more space, then it's up to down. If otherwise, then right to left.
+
+![](/static/glossary/panel/4komagrid.png)
+
++++ Long strip
+
+It's newer type of comics format. Long strip comics are made for smartphone readers. The flow of the panels is up-down instead of traditional right-left. The panels are scrollable vertically so that it is easier to read in smartphone. As a result you have to follow [different rules](https://www.webtoons.com/en/tiptoon/lozolz/webtoon-editing-tips/viewer?title_no=1268&episode_no=24){target="_blank"} than the traditional manga format. This format is widely used in the manhwa and manhua industries. But it's available for every region.
+
+
++++ Splash
+
+A splash page is a single panel that covers the entire page and is typically reserved for depicting an action-packed or dramatic scene.
+
+![Attack on Titan ch. 95 (single page)](/static/glossary/panel/spread_1.jpg)
+
++++ Spread
+
+A panel/artwork that is spread out over two pages, reserved for particularly impactful moments.
+
+![One Punch-Man ch. 155 (2-page)](/static/glossary/panel/spread_2.jpeg)
+
+Another type of spread where the panel covers more than one page, but not the whole 2 pages.
+
+![Solo Leveling Vol. 7](/static/glossary/panel/spread_1_5.jpg)
+
+They can sometimes cover multiple pages, which is solved by having fold-outs.
+
+![Sengoku Youko ch. 48 (5-page)](/static/glossary/panel/spread_5.jpg)
+
++++
 
 #### Adaptation
 Not original content and was addapted from other sources (light novel, anime, picture book etc.). Example: [Josee, the Tiger and the Fish](https://mangadex.org/search?q=Josee%2C+the+Tiger+and+the+Fish){target="_blank"} which was a [Light Novel](https://yenpress.com/titles/9781975340469-josee-the-tiger-and-the-fish-light-novel){target="_blank"} adapatation.
@@ -26,10 +78,6 @@ Basically, it means indie works. If the mangaka publishes the manga on their own
 Mangaka means the artist of the manga. Mangaka can also be the story writer. Generally, mangaka does everything by himself, but sometimes he may employ assistants to speed up the work and cope with the weekly release schedule.
 
 [!embed](https://www.youtube-nocookie.com/embed/zp6_kvcEI_4){target="_blank"}
-
-
-#### Long strip
-It's newer type of comics format. Long strip comics are made for smartphone readers. The flow of the panels is up-down instead of traditional right-left. The panels are scrollable vertically so that it is easier to read in smartphone. As a result you have to follow [different rules](https://www.webtoons.com/en/tiptoon/lozolz/webtoon-editing-tips/viewer?title_no=1268&episode_no=24){target="_blank"} than the traditional manga format. This format is widely used in the manhwa and manhua industries.
 
 
 #### Omake
@@ -45,7 +93,7 @@ A manga that's been published at once. The length of the story depends on the ma
 
 
 #### Raw
-The term 'RAW' refers to manga (Japan), manhwa (Korea), or manhua (China) that has not been modified in any way from its original form.
+The term 'RAW' refers to manga (Japan), manhwa (Korea), or manhua (China) that has not been modified in any way from its original form. It can be both physical (scanned) or digital (ripped). Nowadays most of the raws are digital.
 
 ![We are Magical Boys](/static/glossary/manga/raw.jpg)
 
@@ -63,20 +111,6 @@ Sound effects in manga visualizes the characters physical or mental state, envir
 > In the sfx image you can see the parallel lines at the tops. These are symbols; works like sfx. These symbols may be used with or without sfx. They can have multiple meaning depending on the context. Like in the next image, it means shock.
 ![Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout ep. 5](/static/glossary/manga/symbol.gif)
 
-
-#### Splash Page
-A splash page is a single panel that covers the entire page and is typically reserved for depicting an action-packed or dramatic scene.
-
-![Attack on Titan ch. 95 (single page)](/static/glossary/manga/singlepage.jpg)
-
-#### Spread
-A panel/artwork that is spread out over two pages, reserved for particularly impactful moments.
-
-![One Punch-Man ch. 155 (2-page)](/static/glossary/manga/twopage.jpeg)
-
-They can sometimes cover multiple pages, which is solved by having fold-outs.
-
-![Sengoku Youko ch. 48 (5-page)](https://i.imgur.com/EL32U55.jpg)
 
 #### Tankoubon
 Tankoubon means the volume release. Many manga are initially published in magazines such as [Weekly Shonen Jump](http://www.shonenjump.com/j/index.html). If a manga becomes very popular, it can receive a volume release a.k.a. Tankoubon. These volumes often include redrawn content, extra chapters, and notes from the mangaka. Sometimes, Tankoubon collections can feature various works by the mangaka, similar to an anthology.

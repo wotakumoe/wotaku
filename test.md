@@ -24,7 +24,7 @@ For a spread, you can set an imaginary line based on the page number.
 
 ![Mousou Telepathy ch. 622(left), Tsurezure Children ch. 20(center) & Komi-san wa Komyushou Desu.(right)](/static/glossary/panel/4koma.png)
 
-To get what will be the path, you can look for the space between rows or column. If the column has more space, then it's up to down. If otherwise, then right to left.
+To easier understand the reading order, you can look for the space between rows or column. If the column has more space, then it's up to down. If otherwise, then right to left.
 
 ![](/static/glossary/panel/4komagrid.png)
 
