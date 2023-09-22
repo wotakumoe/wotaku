@@ -7,7 +7,7 @@ icon: ":page_with_curl:"
 ![](https://cdn.apollo.moe/img/scan.png){target="_blank"}
 # Scanlation
 Information and guides pertaining to the world of fan translation, everything from behind-the-scenes looks to tutorials.
-___
+
 
 ![](/static/banner/comms.png)
 ## Communities
@@ -18,7 +18,7 @@ ___
 
 ![](/static/banner/raw.png)
 ## Raw
-___
+
 ### Reader
 - [Bilingual Manga](https://bilingualmanga.net/){target="_blank"}
 - [Hachi Raw](https://hachiraw.com/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
@@ -47,7 +47,7 @@ ___
 
 ![](/static/banner/res.png)
 ## Resources
-___
+
 
 ### Assets
 - [Jaded Network's SFX library](http://thejadednetwork.com/sfx/)
@@ -79,7 +79,7 @@ ___
 
 ![](/static/banner/tools.png)
 ## Tools
-___
+
 ### Software
 - Adobe Software
 	- [Ecoterica Avenue](https://rentry.org/adobesoftware){target="_blank"}

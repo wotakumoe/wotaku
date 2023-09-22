@@ -13,7 +13,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 ![](/static/banner/info.png)
 ## Info
-___
+
 
 ### Manga
 - [Anilist](https://anilist.co/){target="_blank"}
@@ -234,7 +234,7 @@ ___
 
 ![](/static/banner/others.png)
 ## Others
-___
+
 
 ### Recommendations
 - ANN TOP 100 [Manga](https://www.animenewsnetwork.com/encyclopedia/ratings-manga.php?top50=best_bayesian&n=100){target="_blank"} | [Anime](https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=popular&n=100){target="_blank"}
@@ -295,7 +295,7 @@ ____
 
 ![](/static/banner/tools.png)
 ## Tools
-___
+
 +++ Analysis
 - [anime.plus](https://anime.plus/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/anime-plus/graph){target="_blank"} [!badge variant="ghost" size="xs" text="MAL"]
 - [MAL Badges](https://www.mal-badges.com/){target="_blank"} [!badge variant="ghost" size="xs" text="MAL"]
@@ -488,8 +488,8 @@ ___
 - [Absolute Territory](https://absoluteterritory.moe/){target="_blank"}
 - [Wanwan](https://wanwan.moe/){target="_blank"}
 
-
 +++ Other Media
+
 - Movies & TV Series
     - [Dramacool](https://dramacool.pa/){target="_blank"}
     - [KissAsian](https://kissasian.mx/){target="_blank"}
@@ -502,5 +502,21 @@ ___
     - [AQ Stream](https://aqstream.com/jp){target="_blank"}
     - [Keylabo](http://www.keylabo.com/watch-tv-online-for-free/){target="_blank"}
     - [ANNnewsCH](https://www.youtube.com/@ANNnewsCH/){target="_blank"}
+
++++ Western
+
+#### Comics
+- Reader
+    - [Comicastle](https://www.comicastle.org/){target="_blank"}
+    - [Comic Extra](https://ww1.comicextra.com/){target="_blank"}
+    - [Read Comics Free](https://readcomicsfree.com/){target="_blank"}
+    - [Read Comic Online](https://readcomiconline.li/){target="_blank"}
+    - [Read Comics Online](https://readcomicsonline.ru/){target="_blank"}
+    - [View Comics](https://viewcomics.me/){target="_blank"}
+    - [XOXO Comics](https://xoxocomics.com/){target="_blank"}
+- Direct Download
+    - [booksDL](https://booksdl.org/comics0/){target="_blank"}
+    - [Comics All](https://comics-all.com/){target="_blank"} | [New comic](https://newcomic.info/){target="_blank"}
+    - [Get Comics](https://getcomics.info/){target="_blank"}
 
 +++

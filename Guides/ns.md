@@ -6,7 +6,7 @@ label: Network Stream
 # Network Stream
 
 Network streaming DDL, IRC and Torrent video files.
-___
+
 ## DDL
 The basic process:
 1. Copy the download link
@@ -16,11 +16,11 @@ The basic process:
 
 [!embed text="Network streaming DDL"](https://youtu.be/1dsTb8YoNDM){target="_blank"}
 
-___
+
 ## IRC
 Read the [full guide](/Guides/IRC.md) on IRC. When you start the download, a file will be created in the download destination. If you open the file while it is still downloading, you can play the downloaded sections. Technically, you are only able to play the parts that have been downloaded, so you cannot skip ahead and play the non-downloaded parts. This method works because the downloader downloads the file sequentially.
 
-___
+
 ## Torrent
 The same procedure as DDL network streaming, you have to use magnet link instead. For the software, we are using [Webtorrent](https://webtorrent.io/desktop/){target="_blank"} to network streaming. If you don't like the internal player of webtorrent, you can choose external player in the webtorrent settings.
 

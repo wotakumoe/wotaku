@@ -8,20 +8,20 @@ WAH!
 
 ![](/static/banner/sites.png)
 ## Websites
-___
+
 ### Analysis
 - [anime.plus](https://anime.plus/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/anime-plus/graph){target="_blank"} [!badge variant="ghost" size="xs" text="MAL"]
 - [MAL Badges](https://www.mal-badges.com/){target="_blank"} [!badge variant="ghost" size="xs" text="MAL"]
 - [Sekai](https://sekai.rl404.com/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/rl404/sekai){target="_blank"} [!badge variant="ghost" size="xs" text="MAL"]
 - [Sprout Anime Recommender](https://anime.ameo.dev/){target="_blank"} [!badge variant="ghost" size="xs" text="MAL"]  [!badge variant="ghost" size="xs" text="AL"]
 
-___
+
 ### Image search
 - [SauceKudasai](https://saucekudasai.com/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/ayushgptaa/SauceKudasai){target="_blank"}
 - [SauceNAO](https://saucenao.com/){target="_blank"}
 - [Trace](https://trace.moe/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/soruly/trace.moe){target="_blank"}
 
-___
+
 ### Trackers
 - [Anilist](https://anilist.co/){target="_blank"}
 - [Anime-Planet](https://www.anime-planet.com/){target="_blank"}
@@ -31,7 +31,7 @@ ___
 - [Mangaupdates](https://www.mangaupdates.com/){target="_blank"}
 - [Novel updates](https://www.novelupdates.com/){target="_blank"}
 
-___
+
 ### Others
 - [3x3 Generator](https://gqgs.github.io/3x3-generator/){target="_blank"}
 - [Imgtrans](https://touhou.ai/imgtrans/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/zyddnys/manga-image-translator){target="_blank"}

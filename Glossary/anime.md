@@ -7,7 +7,7 @@ order: 100
 # Anime Glossary
 Anime portion of the Wotaku glossary!
 
-___
+
 ## Terms
 
 | Terms     | Meaning { class="compact" } |
@@ -34,7 +34,7 @@ In Japanese TV, the broadcast schedule is divided into four seasons: Spring (Mar
 - **Split-cour:** When the anime season isn't continuous and has a break of one or two cour. Example: [Spy x Family](https://anilist.co/anime/142838/SPYFAMILY-Part-2){target="_blank"}
 
 ===
-___
+
 
 ## Sections
 

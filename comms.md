@@ -10,7 +10,7 @@ icon: ":speaking_head_in_silhouette:"
 # Communities
 A list of other otaku communities to check out based on your specific interests.
 
-___
+
 
 ## Forums
 - [Animesuki](https://forums.animesuki.com/){target="_blank"}

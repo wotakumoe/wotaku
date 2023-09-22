@@ -9,7 +9,7 @@ icon: ":sparkling_heart:"
 
 # Credits
 Thank you to all the contributors for your dedications and resources.
-___
+
 
 ## Contributors
 

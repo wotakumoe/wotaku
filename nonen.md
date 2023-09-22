@@ -9,11 +9,11 @@ order: 800
 # Non-English
 
 Otaku resources for other languages/regions.
-___
+
 
 ![](/static/banner/anime.png)
 ## Anime
-___
+
 
 #### Multi
 - [Aniwatch](https://aniwatch.to/home){target="_blank"} [!badge variant="dark" target="blank" size="xs" text="formerly Zoro"]
@@ -173,11 +173,11 @@ ___
 - [AnimeVsub](https://animevsub.eu.org/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/anime-vsub/desktop-web){target="_blank"}
 - [Unime](https://unime.vercel.app/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/huy232/Unime){target="_blank"}
 
-___
+
 
 ![](/static/banner/manga.png)
 ## Manga
-___
+
 
 #### Multi
 - [Mangadex](https://mangadex.org/){target="_blank"}
@@ -240,7 +240,7 @@ ___
 - [Kyoto manga](https://kyotomanga.live/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/leephan2k1/manga-app){target="_blank"}
 - [Net Truyen](https://www.nettruyenplus.com/){target="_blank"}
 
-___
+
 
 ![](/static/banner/others.png)
 ## Others

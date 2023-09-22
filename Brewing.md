@@ -7,11 +7,11 @@ icon: ":alembic:"
 ![](https://cdn.apollo.moe/img/brew.png){target="_blank"}
 # Brewing
 Cool prospective projects under works worth looking into, or maybe contributing too!
-___
+
 
 ![](/static/banner/sites.png)
  ## Websites
- ___
+ 
 
 ### Manga
 - [Atsumaru](https://atsu.moe/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/TheUndo/Atsumaru){target="_blank"} [!badge variant="ghost" size="xs" text="Mangasee"]
@@ -26,7 +26,7 @@ ___
 
 ![](/static/banner/software.png)
 ## Software
-___
+
 
 ### Android
 - [Animite](https://github.com/imashnake0/Animite){target="_blank"}

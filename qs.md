@@ -7,7 +7,7 @@ icon: ":zap:"
 ![](https://cdn.apollo.moe/img/qs.png){target="_blank"}
 # Quick Start
 The most important things to get you started.
-___
+
 
 ## Websites
 
@@ -34,7 +34,7 @@ ___
 - [Anime Tosho](https://animetosho.org/){target="_blank"}
 
 +++
-___
+
 
 ## Software
 

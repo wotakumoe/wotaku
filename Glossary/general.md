@@ -28,7 +28,7 @@ Want to increase your otaku knowledge? Look for no further! Presenting the Gloss
 | Josei    | Women (19-40+)  |
 
 > Demography refers to the target audience for a piece of content. Studios and publishers need to market their content towards that specific audience, but it does not mean that only one demography will enjoy the show. Additionally, many anime/manga incorporate elements that appeal to various demographics.
-___
+
 
 ## Genre
 
@@ -56,7 +56,7 @@ Shows that mostly focuses on the day-to-day lives of fictional characters. They 
 #### Wuxia
 Literally means “Martial Heroes”. Fictional stories about regular humans who can achieve supernatural fighting ability through Chinese martial arts training and internal energy cultivation. Themes of chivalry, tragedy, revenge & romance are common.
 
-___
+
 
 ## Terms
 
@@ -93,7 +93,7 @@ ___
 |  Yamato Nadeshiko  |  Japanese term used to describe an ideal Japanese woman. They are the epitome of pure, feminine beauty.   |
 |  Zettai Ryouiki  |   Translates to 'Absolute Territory'. Refers to the space of bare thighs between the skirt and above knee-length socks.  |
 
-___
+
 ## Common Honorifics 
 
 | Terms     | Meaning { class="compact" } |
@@ -109,7 +109,7 @@ ___
 
 > If you want to mention a family member in formal way, here is the [guide](https://rentry.org/jpfamily){target="_blank"}.
 
-___
+
 ## Doujin Basics
 | Terms     | Meaning { class="compact" } |
 | ------  | ------ |
@@ -118,7 +118,7 @@ ___
 | Doujin | 'Doujin' refers to **a group** of people who share a common interest. |
 | Circle | The term 'circle' refers to the group that **releases doujinshi**, the circle may consist a group of people or a single individual. |
 
-___
+
 ## Kemonomimi
 
 "Kemonomimi" means "animal ears." They are human-like characters who possess animal features such as ears, tails etc. Example: [Tokai Teiou from Uma Musume](https://anidb.net/character/94007){target="_blank"}
@@ -133,7 +133,7 @@ ___
 |  Usagimimi   | Rabbit ears |
 |  Ryumimi | Dragon ears |
 
-___
+
 ## Dere Types
 
 Words used to describe anime girls based on their personality.

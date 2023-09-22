@@ -51,7 +51,7 @@
 Join the [**telegram bot**](https://telegram.me/olam_gdtot_bypassbot){target="_blank"} and send `/start` to activate the bote. Then send `/bypass <GDToT URL>` and you will get a direct workerster a few moments.
 ![](https://media.discordapp.net/attachments/1044322950725259274/1066047589180526602/w6V9M4T.png){target="_blank"}
 !!!
-___
+
 
 ### GDrive
 

@@ -9,12 +9,12 @@ icon: ":jigsaw:"
 # Add-ons
 
 Various add-ons to enhance your otaku experience. Includes anime/manga tracking, Discord bots, browser extensions, scripts and more!
-___
+
 
 
 ![](/static/banner/apps.png)
 ## Apps
-___
+
 +++ Essentials
 
 - Browsers
@@ -73,7 +73,7 @@ ___
 ![](/static/banner/tools.png)
 
 ## Tools
-___
+
 
 +++ Anime
 
@@ -162,7 +162,7 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 
 ![](/static/banner/ext.png)
 ## Extensions
-___
+
 
 +++ Anime
 
@@ -194,7 +194,7 @@ ___
 ![](/static/banner/script.png)
 
 ## Scripts
-___
+
 
 +++ Anime
 

@@ -7,7 +7,7 @@ visibility: Hidden
 Everrything Anime Related!
 
 If you want to get the best quality, use [Direct Download](/Websites.md/#direct-download-1), [IRC](/Websites.md/#irc), or [Torrent](/Websites.md/#torrents). You can obtain full web release quality on a streaming site that scrapes the official site API, such as [KickAssAnime](https://kickassanime.am/){target="_blank"} for Crunchyroll and Bilibili content. Otherwise, it is hard to maintain the full quality while managing space & traffic. You can [**network stream**](/Guides/ns.md) files from direct download, irc and torrents.
-___
+
 ### Stream
 
 - [**Aniwave**](https://aniwave.to/home){target="_blank"} [!badge variant="dark" target="blank" size="xs" text="formerly 9anime"]
@@ -261,7 +261,7 @@ ___
 - [Trace](https://trace.moe/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/soruly/trace.moe){target="_blank"}
 
 ### Trackers
-___
+
 
 #### Android and iOS
 

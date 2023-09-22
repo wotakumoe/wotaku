@@ -9,7 +9,7 @@ icon: ":package:"
 # Merch
 
 Looking to buy memorabilia from your favourite series and support the creators? Here you will find information on figurines, plushes, books, CDs and more!
-___
+
 
 ==- :warning: Important Information
 
@@ -27,12 +27,12 @@ ___
 
 ![Illustration of speed of the options](/static/ss/shipping.gif)
 
-___
+
 - [Beginners guide to international mail shipping](https://www.post.japanpost.jp/int/howto/index_en.html){target="_blank"}
 - [Checking service avaliability in your country](https://www.post.japanpost.jp/int/information/overview_en.html){target="_blank"}
 - [Further details on delivery types offered by Japan Post](https://www.post.japanpost.jp/int/service/index_en.html){target="_blank"}
 
-___
+
 - Aside from Japan post you also have your usual private couriers, like DHL, FEDEX, UPS, etc. They are also  very expensive, you will have to go to their respective site to see their policies and prices they offer, or at checkout, storefronts usual show the full price of shipping in your country.
 - [Here](https://www.post.japanpost.jp/cgi-charge/index.php?lang=_en){target="_blank"} you will find JP Post's rates and delivery days calculator if you want to get an idea on the estimate of what you are ordering
 - When it comes to customs, be sure to visit your country's goverment customs website for information on duties and taxes

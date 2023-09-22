@@ -13,13 +13,13 @@ icon: ":floppy_disk:"
 
 Apps and programs for your various devices to take your hobbies wherever you go. Covering (almost) all the operating systems.
 
-___
+
 
 ![](/static/banner/and.png)
 
 ## Android
 
-___
+
 
 ### Anime
 
@@ -114,7 +114,7 @@ ___
 
 ## PC
 
-___
+
 
 ### Manga
 
@@ -210,7 +210,7 @@ ___
 
 ## iOS
 
-___
+
 
 ### Anime
 
@@ -259,7 +259,7 @@ ___
 
 ## Downloader
 
-___
+
 
 +++ Anime
 

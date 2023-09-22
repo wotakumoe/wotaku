@@ -6,7 +6,7 @@ visibility: hidden
 ![](/static/thumb/dumpster.png)
 # Dumpster
 Content that does not fit within the wiki.
-___
+
 
 ## Comics
 

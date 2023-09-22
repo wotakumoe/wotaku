@@ -7,8 +7,32 @@ order: 95
 # Manga Glossary
 Manga portion of the Wotaku glossary!
 
-___
+
 ## Terms 
+
+#### Adaptation
+Not original content but based on an already existing work (light novel, anime, picture book etc.). Example: [Josee, the Tiger and the Fish](https://mangadex.org/search?q=Josee%2C+the+Tiger+and+the+Fish){target="_blank"} which was a [Light Novel](https://yenpress.com/titles/9781975340469-josee-the-tiger-and-the-fish-light-novel){target="_blank"} adapatation.
+
+#### Doujinshi
+Doujinshi refers to self-published works. It can be a standalone self-published work, but it can also be a derivative of an existing published franchise or work. Doujinshi need not be NSFW, anything self-published counts.
+
+
+#### Mangaka
+Mangaka means the artist of the manga. Mangaka can also be the story writer. Generally, mangaka does everything by himself, but sometimes he may employ assistants to speed up the work and cope with the weekly release schedule.
+
+[!embed](https://www.youtube-nocookie.com/embed/zp6_kvcEI_4){target="_blank"}
+
+
+#### Omake
+A bonus/extra chapter which doesn't really affect the main story. Generally gives artworks, character backgrounds, mangaka notes or an extra story.
+
+#### Omnibus
+A release type characteristic of western publishers where multiple tankoubon volumes are contained in one book. It's most commonly seen as 2-in-1 or 3-in-1 editions, tho it can sometimes contain an entire series, like in the case of the Death Note All-in-One volume. They're usually larger format and can contain extras, especially if the series already had a tankoubon release previously.
+
+![Naruto 3-in-1 volume(left) & Death Note All-in-One (right)](/static/glossary/manga/omnibus.png)
+
+#### One-Shot
+A manga that's been published at once. The length of the story depends on the mangaka. Also, it can be serialized later. Example: [Kimi no Kaketeru Tokomo Suki](https://mangadex.org/title/690540ab-5f55-4b44-910d-4d2ed0a0faa9/kimi-no-kaketeru-tokomo-suki){target="_blank"}
 
 #### Panels
 
@@ -71,31 +95,6 @@ They can sometimes cover multiple pages, which is solved by having fold-outs.
 
 +++
 
-#### Adaptation
-Not original content and was addapted from other sources (light novel, anime, picture book etc.). Example: [Josee, the Tiger and the Fish](https://mangadex.org/search?q=Josee%2C+the+Tiger+and+the+Fish){target="_blank"} which was a [Light Novel](https://yenpress.com/titles/9781975340469-josee-the-tiger-and-the-fish-light-novel){target="_blank"} adapatation.
-
-#### Doujinshi
-Doujinshi refers to self-published works. It can be a standalone self-published work, but it can also be a derivative of an existing published franchise or work. Doujinshi need not be NSFW, anything self-published counts.
-
-
-#### Mangaka
-Mangaka means the artist of the manga. Mangaka can also be the story writer. Generally, mangaka does everything by himself, but sometimes he may employ assistants to speed up the work and cope with the weekly release schedule.
-
-[!embed](https://www.youtube-nocookie.com/embed/zp6_kvcEI_4){target="_blank"}
-
-
-#### Omake
-A bonus/extra chapter which doesn't really affect the main story. Generally gives artworks, character backgrounds, mangaka notes or an extra story.
-
-#### Omnibus
-A release type characteristic of western publishers where multiple tankoubon volumes are contained in one book. It's most commonly seen as 2-in-1 or 3-in-1 editions, tho it can sometimes contain an entire series, like in the case of the Death Note All-in-One volume. They're usually larger format and can contain extras, especially if the series already had a tankoubon release previously.
-
-![Naruto 3-in-1 volume(left) & Death Note All-in-One (right)](/static/glossary/manga/omnibus.png)
-
-#### One-Shot
-A manga that's been published at once. The length of the story depends on the mangaka. Also, it can be serialized later. Example: [Kimi no Kaketeru Tokomo Suki](https://mangadex.org/title/690540ab-5f55-4b44-910d-4d2ed0a0faa9/kimi-no-kaketeru-tokomo-suki){target="_blank"}
-
-
 #### Raw
 The term 'RAW' refers to manga (Japan), manhwa (Korea), or manhua (China) that has not been modified in any way from its original form. It can be both physical (scanned) or digital (ripped). Nowadays most of the raws are digital.
 
@@ -137,7 +136,7 @@ Tankoubon means the volume release. Many manga are initially published in magazi
 #### Webcomic/Webmanga
 Was originally published on a web platform. The platform can be free(twitter, pixiv etc) or paid (Comico, comic-walker etc.). Example: [ReLife](https://mangadex.org/title/6e3553b9-ddb5-4d37-b7a3-99998044774e/relife){target="_blank"} ([comico](https://www.comico.jp/comic/23){target="_blank"}) & [A Story About Smoking at the Back of the Supermarket](https://mangadex.org/title/baa95345-24fb-47a9-83e9-434ff671f968/super-no-ura-de-yani-suu-hanashi){target="_blank"} ([twitter](https://twitter.com/jinusi822){target="_blank"})
 
-___
+
 ## Scanlation
 
 #### Scanlator

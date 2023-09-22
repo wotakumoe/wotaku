@@ -9,7 +9,7 @@ icon: ":underage:"
 # NSFW
 Everyone has to let off some steam once in a while, we don't judge.
 
-___
+
 ![](/static/banner/sites.png)
 ## Websites
 
@@ -80,7 +80,7 @@ ___
 - [Yandere](https://yande.re/post){target="_blank"}
 
 +++
-___
+
 ![](/static/banner/software.png)
 ## Software
 
@@ -116,7 +116,7 @@ ___
 - [Tomoe](https://github.com/sinkaroid/tomoe){target="_blank"}
 ===
 +++
-___
+
 
 ![](/static/banner/others.png)
 

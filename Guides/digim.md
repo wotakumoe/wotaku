@@ -32,7 +32,7 @@ Store | Resolution | DRM Removal | SFW | Recommended { class="compact" } |
 2. Excluding Humble PDFs and a few publishers
 3. Unless they have exclusives or discounts, as other platforms are easier
 
-___
+
 
 ## Publishers
 Store | Resolution | DRM-Free | SFW | Highest Quality { class="compact" } |
