@@ -14,34 +14,30 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 ![](/static/banner/info.png)
 ## Info
 
-### Database
+### Database & Tracker
 
-- [aniDB](https://anidb.net/){target="_blank"}
++++ General
 - [Anilist](https://anilist.co/){target="_blank"}
 - [Anime Planet](https://www.anime-planet.com/){target="_blank"}
 - [AniSearch](https://www.anisearch.com/){target="_blank"}
 - [Kitsu](https://kitsu.io/){target="_blank"}
 - [MyAnimeList](https://myanimelist.net/){target="_blank"}
 
-### Manga
++++ Anime
+- [aniDB](https://anidb.net/){target="_blank"}
+- [Annict](https://annict.com/){target="_blank"}
+- [SIMKL](https://simkl.com/){target="_blank"}
 
-+++ Info
-
++++ Manga & LN
+- [Kenmei](https://www.kenmei.co/){target="_blank"}
 - [Mangaupdates](https://www.mangaupdates.com/){target="_blank"}
-- [Manga Codex](http://www.mangacodex.com/)
-- [Manga Groups Portal](https://discord.gg/9KGMzP2){target="_blank"}
-- [Scan Updates](https://www.scanupdates.com/){target="_blank"}
+- [Novel updates](https://www.novelupdates.com/){target="_blank"}
 
-+++ Vol. Schedule
-
-- [Otaku Calendar](https://otakucalendar.com/Release/?filterCategory=2){target="_blank"}
-- [VIZ](https://www.viz.com/calendar/ ){target="_blank"} [!badge variant="ghost" size="xs" text="Light Novel"]
-- [Kodansha](https://kodansha.us/calendar/){target="_blank"}
-- [Yen Press](https://yenpress.com/calendar){target="_blank"} [!badge variant="ghost" size="xs" text="Light Novel"]
-- [Seven Seas](https://sevenseasentertainment.com/release-dates/){target="_blank"} [!badge variant="ghost" size="xs" text="Light Novel"]
-- [J-Novel Club](https://j-novel.club/calendar){target="_blank"} [!badge variant="ghost" size="xs" text="Light Novel"]
-- [Sublime](https://www.sublimemanga.com/calendar){target="_blank"}
-- [Tokyo POP](https://tokyopop.com/collections/comingsoon){target="_blank"}
++++ Others
+- [The Visual Novel Database](https://vndb.org/){target="_blank"}
+- [VNStat](https://vnstat.net/){target="_blank"}
+- [VGMDB](https://vgmdb.net/){target="_blank"}
+- [Anilinks](https://anilinks.neocities.org/){target="_blank"}
 
 +++
 
@@ -83,27 +79,29 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 +++
 
-### Miscellaneous
+### Manga & LN
 
-+++ Light Novels
++++ Info
 
-- [Novel updates](https://www.novelupdates.com/){target="_blank"}
+- [Manga Codex](http://www.mangacodex.com/)
+- [Manga Groups Portal](https://discord.gg/9KGMzP2){target="_blank"}
+- [Scan Updates](https://www.scanupdates.com/){target="_blank"}
 - [Bookmeter](https://bookmeter.com/){target="_blank"} [!badge variant="ghost" icon="/static/icon/jp.png" text="JP"]
 - [r/LightNovels reading order](https://www.reddit.com/r/LightNovels/wiki/reading_order){target="_blank"}
 
-+++ Visual Novels
++++ Vol. Schedule
 
-- [The Visual Novel Database](https://vndb.org/){target="_blank"}
-- [VNStat](https://vnstat.net/){target="_blank"}
-- [r/Visualnovels' links](https://www.reddit.com/r/visualnovels/wiki/links/){target="_blank"}
-
-+++ More
-
-- [Anilinks](https://anilinks.neocities.org/){target="_blank"}
-- [AnimeCons](https://animecons.com/){target="_blank"}
-- [VGMDB](https://vgmdb.net/){target="_blank"}
+- [Otaku Calendar](https://otakucalendar.com/Release/?filterCategory=2){target="_blank"}
+- [J-Novel Club](https://j-novel.club/calendar){target="_blank"}
+- [Kodansha](https://kodansha.us/calendar/){target="_blank"}
+- [Seven Seas](https://sevenseasentertainment.com/release-dates/){target="_blank"}
+- [Sublime](https://www.sublimemanga.com/calendar){target="_blank"}
+- [Tokyo POP](https://tokyopop.com/collections/comingsoon){target="_blank"}
+- [VIZ](https://www.viz.com/calendar/ ){target="_blank"}
+- [Yen Press](https://yenpress.com/calendar){target="_blank"}
 
 +++
+
 
 ![](/static/banner/illust.png)
 ## Illustrations
@@ -260,7 +258,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 ![](/static/banner/others.png)
 ## Others
 
-### Recommendations
++++ Recommendations
 
 - ANN TOP 100 [Manga](https://www.animenewsnetwork.com/encyclopedia/ratings-manga.php?top50=best_bayesian&n=100){target="_blank"} | [Anime](https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=popular&n=100){target="_blank"}
 - [r/Anime Recommendations](https://www.reddit.com/r/anime/wiki/recommendations/){target="_blank"}
@@ -273,7 +271,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [r/VN's 2018](https://vnrecs.github.io/){target="_blank"}
     - [What are you reading?](https://some-guy.org/vnswayrarchive/recommendations){target="_blank"}
 
-### Fansubbing Guide
++++ Fansubbing
 
 - [Encode](https://guide.encode.moe/){target="_blank"}
 - [Goodjob Media](https://www.goodjobmedia.com/fansubbing/){target="_blank"}
@@ -281,11 +279,12 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Unanimated](https://unanimated.github.io/guides.htm){target="_blank"}
 - [Yukisubs](https://yukisubs.wordpress.com/guides/){target="_blank"}
 
-### More
++++ More
 
 - [r/visualnovels' guide](https://www.reddit.com/r/visualnovels/wiki/links/#wiki_guides){target="_blank"}
 - [vocaloid pastebin for /jp/](https://pastebin.com/jDHxU1Jw){target="_blank"}
 
++++
 
 ![](/static/banner/portals.png)
 
@@ -293,6 +292,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 +++ General
 
+- [AnimeCons](https://animecons.com/){target="_blank"}
 - [Anime News Network](https://www.animenewsnetwork.com/){target="_blank"}
 - [Crunchyroll News](https://www.crunchyroll.com/news){target="_blank"}
 - [MAL News](https://myanimelist.net/news){target="_blank"}
@@ -363,17 +363,6 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Manga Updates](https://www.mangaupdates.com/){target="_blank"}
 - [nyaa](https://nyaa.si/){target="_blank"}
 - [RSS Bridge](https://rss-bridge.org/bridge01/){target="_blank"}
-
-+++ Trackers
-- [Anilist](https://anilist.co/){target="_blank"}
-- [Anime-Planet](https://www.anime-planet.com/){target="_blank"}
-- [Annict](https://annict.com/){target="_blank"}
-- [MyAnimeList](https://myanimelist.net/){target="_blank"}
-- [Kenmei](https://www.kenmei.co/){target="_blank"}
-- [Kitsu](https://kitsu.io/){target="_blank"}
-- [Mangaupdates](https://www.mangaupdates.com/){target="_blank"}
-- [Novel updates](https://www.novelupdates.com/){target="_blank"}
-- [SIMKL](https://simkl.com/){target="_blank"}
 
 +++ Others
 - [3x3 Generator](https://gqgs.github.io/3x3-generator/){target="_blank"}
