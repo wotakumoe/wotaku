@@ -99,7 +99,7 @@ They can sometimes cover multiple pages, which is solved by having fold-outs.
 #### Raw
 The term 'RAW' refers to manga (Japan), manhwa (Korea), or manhua (China) that has not been modified in any way from its original form. It can be both physical (scanned) or digital (ripped). Nowadays most of the raws are digital.
 
-![We are Magical Boys](/static/glossary/manga/raw.jpg)
+![We are Magical Boys (left) & Jujustsu Kaisen(right)](/static/glossary/manga/raw.png)
 
 #### Simulpub
 Simultaneous publication, meaning releasing and translating the latest chapters alongside their country of origin.
