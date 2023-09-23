@@ -414,7 +414,6 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [PZG](https://nyaa.si/user/Phantom132){target="_blank"}
 - [Stick](https://nyaa.si/user/dumbboy58){target="_blank"}
 - [AudioBook Bay](https://audiobookbay.is/){target="_blank"}
-- [Tokyo Book](https://tokybook.com/){target="_blank"}
 
 +++
 

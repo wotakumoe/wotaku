@@ -25,11 +25,25 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 ### Manga
 
++++ Info
+
 - [Mangaupdates](https://www.mangaupdates.com/){target="_blank"}
 - [Manga Codex](http://www.mangacodex.com/)
 - [Manga Groups Portal](https://discord.gg/9KGMzP2){target="_blank"}
-- [Otaku Calendar](https://otakucalendar.com/Release/?filterCategory=2){target="_blank"}
 - [Scan Updates](https://www.scanupdates.com/){target="_blank"}
+
++++ Vol. Schedule
+
+- [Otaku Calendar](https://otakucalendar.com/Release/?filterCategory=2){target="_blank"}
+- [VIZ](https://www.viz.com/calendar/ ){target="_blank"} [!badge variant="ghost" size="xs" text="Light Novel"]
+- [Kodansha](https://kodansha.us/calendar/){target="_blank"}
+- [Yen Press](https://yenpress.com/calendar){target="_blank"} [!badge variant="ghost" size="xs" text="Light Novel"]
+- [Seven Seas](https://sevenseasentertainment.com/release-dates/){target="_blank"} [!badge variant="ghost" size="xs" text="Light Novel"]
+- [J-Novel Club](https://j-novel.club/calendar){target="_blank"} [!badge variant="ghost" size="xs" text="Light Novel"]
+- [Sublime](https://www.sublimemanga.com/calendar){target="_blank"}
+- [Tokyo POP](https://tokyopop.com/collections/comingsoon){target="_blank"}
+
++++
 
 ### Anime
 
