@@ -161,6 +161,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [Boutique Japan](https://boutiquejapan.com/){target="_blank"}
     - [Japan Specialist](https://japanspecialist.com/){target="_blank"}
     - [JRailPass](https://www.jrailpass.com/blog/){target="_blank"}
+    - [Mini Tokyo 3D](https://minitokyo3d.com/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/nagix/mini-tokyo-3d){target="_blank"}
 - **Japanese**
     - [Omatsuri Japan](https://omatsurijapan.com/){target="_blank"}
     - [Travel Research](https://www.homemate-research-tour.com/){target="_blank"}
@@ -247,10 +248,6 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Smoother animation ≠ Better animation [AI ENHANCED]](https://www.youtube.com/watch?v=_KRb_qV9P4g){target="_blank"}
     - [reviewing your takes on animation](https://www.youtube.com/watch?v=OhcLATiI9Is){target="_blank"}
 
-+++ Others
-
-- [Mini Tokyo 3D](https://minitokyo3d.com/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/nagix/mini-tokyo-3d){target="_blank"}
-
 +++
 
 > You can use [**Anna’s Archive**](https://annas-archive.org){target="_blank"}, [**Z-Library**](https://singlelogin.re/){target="_blank"}, [**PDF Drive**](https://www.pdfdrive.com/){target="_blank"} & [**Mobilism**](https://forum.mobilism.org/viewforum.php?f=106){target="_blank"} to download books.
@@ -278,11 +275,6 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Subarashii Tutorial](https://subarashii-no-fansub.github.io/Subbing-Tutorial/){target="_blank"}
 - [Unanimated](https://unanimated.github.io/guides.htm){target="_blank"}
 - [Yukisubs](https://yukisubs.wordpress.com/guides/){target="_blank"}
-
-+++ More
-
-- [r/visualnovels' guide](https://www.reddit.com/r/visualnovels/wiki/links/#wiki_guides){target="_blank"}
-- [vocaloid pastebin for /jp/](https://pastebin.com/jDHxU1Jw){target="_blank"}
 
 +++
 
