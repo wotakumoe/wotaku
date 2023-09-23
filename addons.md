@@ -107,7 +107,6 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 - [Taiga](https://github.com/erengy/taiga){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://taiga.moe/){target="_blank"} [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Downloader"]
 - [Trackma](https://github.com/z411/trackma){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://z411.github.io/trackma/){target="_blank"} [!badge variant="ghost" size="xs" text="Linux"]
 - [Tundra](https://github.com/m4tx/tundra){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://tundra.moe/){target="_blank"} [!badge variant="ghost" size="xs" text="Linux"]
-- [Kenmei](https://www.kenmei.co/){target="_blank"} [!badge variant="ghost" size="xs" text="Web"]
 
 +++ Fansubbing
 

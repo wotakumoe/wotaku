@@ -14,24 +14,27 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 ![](/static/banner/info.png)
 ## Info
 
+### Database
+
+- [aniDB](https://anidb.net/){target="_blank"}
+- [Anilist](https://anilist.co/){target="_blank"}
+- [Anime Planet](https://www.anime-planet.com/){target="_blank"}
+- [AniSearch](https://www.anisearch.com/){target="_blank"}
+- [Kitsu](https://kitsu.io/){target="_blank"}
+- [MyAnimeList](https://myanimelist.net/){target="_blank"}
 
 ### Manga
-- [Anilist](https://anilist.co/){target="_blank"}
+
 - [Mangaupdates](https://www.mangaupdates.com/){target="_blank"}
 - [Manga Codex](http://www.mangacodex.com/)
 - [Manga Groups Portal](https://discord.gg/9KGMzP2){target="_blank"}
-- [MyAnimeList](https://myanimelist.net/){target="_blank"}
+- [Otaku Calendar](https://otakucalendar.com/Release/?filterCategory=2){target="_blank"}
 - [Scan Updates](https://www.scanupdates.com/){target="_blank"}
 
 ### Anime
-+++ Database
-- [aniDB](https://anidb.net/){target="_blank"}
-- [Anilist](https://anilist.co/){target="_blank"}
-- [Anime News Network](https://www.animenewsnetwork.com/){target="_blank"}
-- [AniSearch](https://www.anisearch.com/){target="_blank"}
-- [MyAnimeList](https://myanimelist.net/){target="_blank"}
 
 +++ Index
+
 - [Seadex](https://releases.moe/){target="_blank"}
 - [Sneedex](https://sneedex.moe/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="/static/icon/discord.svg" text="Invite"](https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot){target="_blank"}
 - [A Certain Fansubber's Index](https://index.fansubcar.tel/){target="_blank"}
@@ -42,6 +45,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Anime voice actor and seiyuu comparison](https://avac.moe/index.php){target="_blank"}
 
 +++ Schedule
+
 - [Anica](https://anica.jp/){target="_blank"}
 - [AniChart](https://anichart.net/){target="_blank"}
 - [AnimeSchedule](https://animeschedule.net/){target="_blank"}
@@ -53,6 +57,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 
 +++ Stats/Watch guide
+
 - [Anime Karma List](https://animekarmalist.com/){target="_blank"}
 - [Anime Stats](https://anime-stats.net/){target="_blank"}
 - [Kitsu Season Trends](https://season.moe/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/wopian/kitsu-season-trends){target="_blank"}
@@ -62,24 +67,28 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Related Anime](https://relatedanime.com/){target="_blank"}
 - [r/Anime Watch Order](https://www.reddit.com/r/anime/wiki/watch_order/){target="_blank"}
 
-
 +++
 
 ### Miscellaneous
+
 +++ Light Novels
+
 - [Novel updates](https://www.novelupdates.com/){target="_blank"}
 - [Bookmeter](https://bookmeter.com/){target="_blank"} [!badge variant="ghost" icon="/static/icon/jp.png" text="JP"]
 - [r/LightNovels reading order](https://www.reddit.com/r/LightNovels/wiki/reading_order){target="_blank"}
 
 +++ Visual Novels
+
 - [The Visual Novel Database](https://vndb.org/){target="_blank"}
 - [VNStat](https://vnstat.net/){target="_blank"}
 - [r/Visualnovels' links](https://www.reddit.com/r/visualnovels/wiki/links/){target="_blank"}
 
 +++ More
+
 - [Anilinks](https://anilinks.neocities.org/){target="_blank"}
 - [AnimeCons](https://animecons.com/){target="_blank"}
 - [VGMDB](https://vgmdb.net/){target="_blank"}
+
 +++
 
 ![](/static/banner/illust.png)
@@ -232,11 +241,13 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 +++
 
+> You can use [**Anna’s Archive**](https://annas-archive.org){target="_blank"}, [**Z-Library**](https://singlelogin.re/){target="_blank"}, [**PDF Drive**](https://www.pdfdrive.com/){target="_blank"} & [**Mobilism**](https://forum.mobilism.org/viewforum.php?f=106){target="_blank"} to download books.
+
 ![](/static/banner/others.png)
 ## Others
 
-
 ### Recommendations
+
 - ANN TOP 100 [Manga](https://www.animenewsnetwork.com/encyclopedia/ratings-manga.php?top50=best_bayesian&n=100){target="_blank"} | [Anime](https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=popular&n=100){target="_blank"}
 - [r/Anime Recommendations](https://www.reddit.com/r/anime/wiki/recommendations/){target="_blank"}
 - [u/FetchFrosh Recommendations](https://www.reddit.com/r/anime/comments/o16ipm/rebuild_of_the_ultimate_anime_recommendation/){target="_blank"}
@@ -249,6 +260,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [What are you reading?](https://some-guy.org/vnswayrarchive/recommendations){target="_blank"}
 
 ### Fansubbing Guide
+
 - [Encode](https://guide.encode.moe/){target="_blank"}
 - [Goodjob Media](https://www.goodjobmedia.com/fansubbing/){target="_blank"}
 - [Subarashii Tutorial](https://subarashii-no-fansub.github.io/Subbing-Tutorial/){target="_blank"}
@@ -256,25 +268,29 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Yukisubs](https://yukisubs.wordpress.com/guides/){target="_blank"}
 
 ### More
+
 - [r/visualnovels' guide](https://www.reddit.com/r/visualnovels/wiki/links/#wiki_guides){target="_blank"}
 - [vocaloid pastebin for /jp/](https://pastebin.com/jDHxU1Jw){target="_blank"}
 
 
 ![](/static/banner/portals.png)
+
 ## Portals
-____
 
 +++ General
+
 - [Anime News Network](https://www.animenewsnetwork.com/){target="_blank"}
 - [Crunchyroll News](https://www.crunchyroll.com/news){target="_blank"}
 - [MAL News](https://myanimelist.net/news){target="_blank"}
 
 +++ Anime
+
 - [Anime Corner](https://animecorner.me/){target="_blank"}
 - [Anitrendz](https://anitrendz.net/news/){target="_blank"}
 - [AnimeTV](https://twitter.com/animetv_jp){target="_blank"}
 
 +++ Manga
+
 - [Josu Ke](https://twitter.com/Josu_ke){target="_blank"}
 - [Manga Alerts](https://twitter.com/MangaAlerts){target="_blank"}
 - [Manga Mogura RE](https://twitter.com/MangaMoguraRE){target="_blank"}
@@ -283,6 +299,7 @@ ____
 - [Deb Aoki](https://twitter.com/debaoki){target="_blank"}
 
 +++ Games
+
 - [4Gamer](https://www.4gamer.net/){target="_blank"}
 - [Famitsu](https://www.famitsu.com/){target="_blank"}
 - [Gematsu](https://www.gematsu.com/){target="_blank"}
@@ -338,6 +355,7 @@ ____
 - [Anime-Planet](https://www.anime-planet.com/){target="_blank"}
 - [Annict](https://annict.com/){target="_blank"}
 - [MyAnimeList](https://myanimelist.net/){target="_blank"}
+- [Kenmei](https://www.kenmei.co/){target="_blank"}
 - [Kitsu](https://kitsu.io/){target="_blank"}
 - [Mangaupdates](https://www.mangaupdates.com/){target="_blank"}
 - [Novel updates](https://www.novelupdates.com/){target="_blank"}
@@ -351,6 +369,7 @@ ____
 - [Trakt to MAL](https://anitrakt.huere.net/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/ryuuganime/aniTrakt-IndexParser){target="_blank"}
 - [Waif2x](https://unlimited.waifu2x.net/){target="_blank"} [!badge variant="dark" target="blank" text="udp"](https://waifu2x.udp.jp/){target="_blank"}  [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/nagadomi/waifu2x){target="_blank"}
 - [WaifuXL](https://waifuxl.com/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/TheFutureGadgetsLab/WaifuXL){target="_blank"}
+
 +++
 
 
@@ -485,6 +504,7 @@ ____
 - [Endless Eight](https://endless8.moe/){target="_blank"}
 - [Satania](https://satania.moe/){target="_blank"}
 - [AIDN](https://aidn.jp/contents/){target="_blank"}
+- [Anime Girls Holding Programming Books](https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/){target="_blank"}
 - [MakeGirlsMoe](https://make.girls.moe/){target="_blank"}
 - [Anianimals](https://www.anianimals.moe/){target="_blank"}
 - [Absolute Territory](https://absoluteterritory.moe/){target="_blank"}
