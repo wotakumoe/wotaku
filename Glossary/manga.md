@@ -70,8 +70,11 @@ At times, the beginning of a 4koma manga may feature a sizable illustration, spa
 
 +++ Long strip
 
-It's newer type of comics format. Long strip comics are made for smartphone readers. The flow of the panels is up-down instead of traditional right-left. The panels are scrollable vertically so that it is easier to read in smartphone. As a result you have to follow [different rules](https://www.webtoons.com/en/tiptoon/lozolz/webtoon-editing-tips/viewer?title_no=1268&episode_no=24){target="_blank"} than the traditional manga format. This format is widely used in the manhwa and manhua industries. But it's available for every region. Sometimes they publish the [physical version](https://www.youtube-nocookie.com/embed/BY5h7v9Ll_E){target="_blank"} too. Example: [Solo Leveling](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0/solo-leveling){target="_blank"} (Manhwa), [Relife](https://mangadex.org/title/6e3553b9-ddb5-4d37-b7a3-99998044774e/relife){target="_blank"} (Manga), [The Beginning After the End](https://comick.app/comic/00-the-beginning-after-the-end-1){target="_blank"} (OEL).
+It's newer type of comics format. Long strip comics are drawn for smartphone readers. The flow of the panels is up-down instead of traditional right-left/left-right. For long strip comics, artist has to follow [different rules](https://www.webtoons.com/en/tiptoon/lozolz/webtoon-editing-tips/viewer?title_no=1268&episode_no=24){target="_blank"} than the traditional manga format. This format is widely used in the manhwa and manhua industries. But it's available for every region. Example: [Solo Leveling](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0/solo-leveling){target="_blank"} (Manhwa), [Relife](https://mangadex.org/title/6e3553b9-ddb5-4d37-b7a3-99998044774e/relife){target="_blank"} (Manga), [The Beginning After the End](https://comick.app/comic/00-the-beginning-after-the-end-1){target="_blank"} (OEL).
 
+"Occasionally, the publisher also releases the physical version, with panels strategically rearranged to accommodate the right-left/left-right reading direction."
+
+[!embed](https://www.youtube-nocookie.com/embed/BY5h7v9Ll_E)
 
 +++ Splash
 
