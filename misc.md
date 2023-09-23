@@ -96,6 +96,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Kodansha](https://kodansha.us/calendar/){target="_blank"}
 - [Seven Seas](https://sevenseasentertainment.com/release-dates/){target="_blank"}
 - [SuBLime](https://www.sublimemanga.com/calendar){target="_blank"}  [!badge variant="danger" size="xs" text="R+"]
+- [TITAN Comics](https://titan-comics.com/manga/){target="_blank"}
 - [TOKYOPOP](https://tokyopop.com/collections/comingsoon){target="_blank"}
 - [VIZ](https://www.viz.com/calendar/ ){target="_blank"}
 - [Yen Press](https://yenpress.com/calendar){target="_blank"}
@@ -276,46 +277,31 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Unanimated](https://unanimated.github.io/guides.htm){target="_blank"}
 - [Yukisubs](https://yukisubs.wordpress.com/guides/){target="_blank"}
 
-+++
++++ Portals
 
-![](/static/banner/portals.png)
-
-## Portals
-
-+++ General
-
-- [AnimeCons](https://animecons.com/){target="_blank"}
-- [Anime Collective](https://animecollective.com/){target="_blank"}
-- [Anime News Network](https://www.animenewsnetwork.com/){target="_blank"}
-- [Crunchyroll News](https://www.crunchyroll.com/news){target="_blank"}
-- [MAL News](https://myanimelist.net/news){target="_blank"}
-
-+++ Anime
-
-- [Anime Corner](https://animecorner.me/){target="_blank"}
-- [Anitrendz](https://anitrendz.net/news/){target="_blank"}
-- [AnimeTV](https://twitter.com/animetv_jp){target="_blank"}
-
-+++ Manga
-
-- [Josu Ke](https://twitter.com/Josu_ke){target="_blank"}
-- [Manga Alerts](https://twitter.com/MangaAlerts){target="_blank"}
-- [Manga Mogura RE](https://twitter.com/MangaMoguraRE){target="_blank"}
-- [Manga Splaining](https://www.mangasplaining.com/){target="_blank"}
-- [Shonen Jump News](https://twitter.com/WSJ_manga)
-- [Deb Aoki](https://twitter.com/debaoki){target="_blank"}
-
-+++ Games
-
-- [4Gamer](https://www.4gamer.net/){target="_blank"}
-- [Famitsu](https://www.famitsu.com/){target="_blank"}
-- [Gematsu](https://www.gematsu.com/){target="_blank"}
-- [Touhou Yomoyama News](https://touhou-project.news/){target="_blank"}
-- [Gamespark](https://www.gamespark.jp/){target="_blank"}
-- [Esuteru](https://blog.esuteru.com/){target="_blank"}
-- [Gamenyarth](https://gamenyarth.blog.fc2.com/){target="_blank"}
-- [Atwiki](https://atwiki.jp/){target="_blank"}
-
+- **General**
+    - [AnimeCons](https://animecons.com/){target="_blank"}
+    - [Anime Collective](https://animecollective.com/){target="_blank"}
+    - [Anime News Network](https://www.animenewsnetwork.com/){target="_blank"}
+    - [Crunchyroll News](https://www.crunchyroll.com/news){target="_blank"}
+    - [MAL News](https://myanimelist.net/news){target="_blank"}
+- **Anime**
+    - [Anime Corner](https://animecorner.me/){target="_blank"}
+    - [Anitrendz](https://anitrendz.net/news/){target="_blank"}
+    - [AnimeTV](https://twitter.com/animetv_jp){target="_blank"}
+- **Manga**
+    - [Josu Ke](https://twitter.com/Josu_ke){target="_blank"}
+    - [Manga Alerts](https://twitter.com/MangaAlerts){target="_blank"}
+    - [Manga Mogura RE](https://twitter.com/MangaMoguraRE){target="_blank"}
+    - [Manga Splaining](https://www.mangasplaining.com/){target="_blank"}
+    - [Shonen Jump News](https://twitter.com/WSJ_manga)
+    - [Deb Aoki](https://twitter.com/debaoki){target="_blank"}
+- **Games**
+    - [4Gamer](https://www.4gamer.net/){target="_blank"}
+    - [Famitsu](https://www.famitsu.com/){target="_blank"}
+    - [Gematsu](https://www.gematsu.com/){target="_blank"}
+    - [Touhou Yomoyama News](https://touhou-project.news/){target="_blank"}
+    
 +++
 
 
@@ -395,19 +381,19 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Hololive MMD Models](https://3d.nicovideo.jp/users/89765617/works){target="_blank"} 
 
 +++ Youtube
-- Animations
+- **Animations**
     - [Myth's Bad Ending by Mazumaro](https://www.youtube.com/watch?v=euPfAilSpuU){target="_blank"}
     - [2ManySnacks](https://www.youtube.com/@2ManySnacks/){target="_blank"}
     - [Kanauru](https://www.youtube.com/@kanauru/){target="_blank"}
     - [Crash Landing Studios](https://www.youtube.com/@CrashLandingStudio){target="_blank"}
     - [Tripl3en](https://www.youtube.com/@Tripl3en){target="_blank"}
     - [H and Mr.H](https://www.youtube.com/@HandMrH){target="_blank"}
-- News
+- **News**
     - [FalseEyeD](https://www.youtube.com/@FalseEyeD){target="_blank"}
     - [Khyo](https://www.youtube.com/@Khyo){target="_blank"}
     - [Depressed Nousagi](https://www.youtube.com/@DepressedNousagi/){target="_blank"}
     - [Penumbral](https://www.youtube.com/@PenumbralVT/shorts){target="_blank"}
-- Playlists
+- **Playlists**
     - [HOLOLIVE Original Songs](https://www.youtube.com/playlist?list=PLcA50eR_E8Zbi4hdQHU5Rl1J6KrWRlHpM){target="_blank"}
     - [Hololive Songs&Covers](https://www.youtube.com/playlist?list=PLQmVFdwvZgfXlb2RDXWV1NaPXgYPu786G){target="_blank"}
     - [Holo no Graffiti](https://www.youtube.com/playlist?list=PL1NeGg1woXqngQytLzL8lJJLYwmzk1Wuq){target="_blank"} | [Privated](https://www.youtube.com/playlist?list=PLMcxQWd8jwdk2YHXPScsjcw22VSZxiViL){target="_blank"}
