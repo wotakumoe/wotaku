@@ -96,7 +96,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Kodansha](https://kodansha.us/calendar/){target="_blank"}
 - [Seven Seas](https://sevenseasentertainment.com/release-dates/){target="_blank"}
 - [SuBLime](https://www.sublimemanga.com/calendar){target="_blank"}  [!badge variant="danger" size="xs" text="R+"]
-- [TOKYoPOP](https://tokyopop.com/collections/comingsoon){target="_blank"}
+- [TOKYOPOP](https://tokyopop.com/collections/comingsoon){target="_blank"}
 - [VIZ](https://www.viz.com/calendar/ ){target="_blank"}
 - [Yen Press](https://yenpress.com/calendar){target="_blank"}
 
