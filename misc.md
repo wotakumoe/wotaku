@@ -95,8 +95,8 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [J-Novel Club](https://j-novel.club/calendar){target="_blank"}
 - [Kodansha](https://kodansha.us/calendar/){target="_blank"}
 - [Seven Seas](https://sevenseasentertainment.com/release-dates/){target="_blank"}
-- [Sublime](https://www.sublimemanga.com/calendar){target="_blank"}
-- [Tokyo POP](https://tokyopop.com/collections/comingsoon){target="_blank"}
+- [SuBLime](https://www.sublimemanga.com/calendar){target="_blank"}  [!badge variant="danger" size="xs" text="R+"]
+- [TOKYoPOP](https://tokyopop.com/collections/comingsoon){target="_blank"}
 - [VIZ](https://www.viz.com/calendar/ ){target="_blank"}
 - [Yen Press](https://yenpress.com/calendar){target="_blank"}
 
@@ -293,6 +293,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 +++ General
 
 - [AnimeCons](https://animecons.com/){target="_blank"}
+- [Anime Collective](https://animecollective.com/){target="_blank"}
 - [Anime News Network](https://www.animenewsnetwork.com/){target="_blank"}
 - [Crunchyroll News](https://www.crunchyroll.com/news){target="_blank"}
 - [MAL News](https://myanimelist.net/news){target="_blank"}
