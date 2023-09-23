@@ -13,14 +13,13 @@ Manga portion of the Wotaku glossary!
 #### Adaptation
 Not original content but based on an already existing work (light novel, anime, picture book etc.). Example: [Josee, the Tiger and the Fish](https://mangadex.org/search?q=Josee%2C+the+Tiger+and+the+Fish){target="_blank"} which was a [Light Novel](https://yenpress.com/titles/9781975340469-josee-the-tiger-and-the-fish-light-novel){target="_blank"} adapatation.
 
+
 #### Doujinshi
-Doujinshi refers to self-published works. It can be a standalone self-published work, but it can also be a derivative of an existing published franchise or work. Doujinshi need not be NSFW, anything self-published counts.
+Doujinshi refers to self-published works. It can be a standalone self-published work, but it can also be a derivative of an existing published franchise or work. Doujinshi need not be NSFW, anything self-published counts. Example: [Ganbare, Douki-chan (Pre-serialization)](https://mangadex.org/title/190616bc-7da6-45fd-abd4-dd2ca656c183/ganbare-douki-chan){target="_blank"}
 
 
 #### Mangaka
 Mangaka means the artist of the manga. Mangaka can also be the story writer. Generally, mangaka does everything by himself, but sometimes he may employ assistants to speed up the work and cope with the weekly release schedule.
-
-[!embed](https://www.youtube-nocookie.com/embed/zp6_kvcEI_4)
 
 
 #### Omake
@@ -72,9 +71,7 @@ At times, the beginning of a 4koma manga may feature a sizable illustration, spa
 
 It's newer type of comics format. Long strip comics are drawn for smartphone readers. The flow of the panels is up-down instead of traditional right-left/left-right. For long strip comics, artist has to follow [different rules](https://www.webtoons.com/en/tiptoon/lozolz/webtoon-editing-tips/viewer?title_no=1268&episode_no=24){target="_blank"} than the traditional manga format. This format is widely used in the manhwa and manhua industries. But it's available for every region. Example: [Solo Leveling](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0/solo-leveling){target="_blank"} (Manhwa), [Relife](https://mangadex.org/title/6e3553b9-ddb5-4d37-b7a3-99998044774e/relife){target="_blank"} (Manga), [The Beginning After the End](https://comick.app/comic/00-the-beginning-after-the-end-1){target="_blank"} (OEL).
 
-Occasionally, the publisher also releases the physical version, with panels strategically rearranged to accommodate the right-left/left-right reading direction.
-
-[!embed](https://www.youtube.com/embed/BY5h7v9Ll_E)
+Occasionally, the publisher also releases the physical version, with panels strategically rearranged to accommodate the right-left/left-right reading direction. Example: [Solo Leveling Vol. 1 by Yen Press](https://youtu.be/BY5h7v9Ll_E){target="_blank"}
 
 
 +++ Splash
@@ -126,7 +123,7 @@ Tankoubon means the volume release. Many manga are initially published in magazi
 
 #### Other volume types
 
-| Term | Meaning |
+| Term | Meaning { class="compact" } |
 | --- | --- |
 | Aizouban ("loving collection edition") | Collector's edition volumes, usually printed in limited runs. These volumes are generally more expensive and come with special features such as new covers, higher quality paper, a special slipcase, etc. |
 | Bunkoban ("paperback edition") | A volume printed in bunko format, or a typical Japanese novel-sized volume. Generally A6 size and thicker than tankoubon, usually with new covers. Bunkoban tends to contain considerably more pages than a tankoubon, meaning the bunko edition of a given manga will consist of fewer volumes. |
