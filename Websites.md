@@ -267,7 +267,6 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Lord_ne](https://nyaa.si/user/lord_ne){target="_blank"} [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="lezhin"] [!badge variant="ghost" size="xs" text="yen"]
 - [LuCaZ](https://nyaa.si/user/LuCaZ){target="_blank"} [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="yen"]
 - [Oakminati](https://nyaa.si/user/Oakminati){target="_blank"} [!badge variant="dark" target="blank" text="Releases"](https://sheet.zohopublic.com/sheet/published/3v5my3d014d3b97064f55b7114631ac87efda?sheetid=1&range=A1){target="_blank"} [!badge variant="ghost" size="xs" text="comikey"] [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="mangamo"] [!badge variant="ghost" size="xs" text="plus"] [!badge variant="ghost" size="xs" text="sq. enix"] [!badge variant="ghost" size="xs" text="up!"]
-- [PZG](https://nyaa.si/user/Phantom132){target="_blank"} [!badge variant="ghost" size="xs" text="audio"]
 - [Shellshock](https://nyaa.si/user/shellshock){target="_blank"} [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
 - [Shizu](https://nyaa.si/user/wolfsbanes){target="_blank"} [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="sublime"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
 - [Stick](https://nyaa.si/user/dumbboy58){target="_blank"} [!badge variant="ghost" size="xs" text="audio"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
@@ -410,6 +409,12 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [How Unfortunate](https://nyaa.si/user/HowUnfortunate){target="_blank"}
 - [Lucaz](https://nyaa.si/user/LuCaZ){target="_blank"}
 - [Stick](https://nyaa.si/user/dumbboy58){target="_blank"}
+
++++ :icon-unmute: Audiobook
+- [PZG](https://nyaa.si/user/Phantom132){target="_blank"}
+- [Stick](https://nyaa.si/user/dumbboy58){target="_blank"}
+- [AudioBook Bay](https://audiobookbay.is/){target="_blank"}
+- [Tokyo Book](https://tokybook.com/){target="_blank"}
 
 +++
 
