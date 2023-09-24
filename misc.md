@@ -91,7 +91,9 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 +++ Vol. Schedule
 
+- [Yatta-Tachi](https://yattatachi.com/tag/releases){target="_blank"}
 - [Otaku Calendar](https://otakucalendar.com/Release/?filterCategory=2){target="_blank"}
+- [r/LightNovels upcoming releases](https://www.reddit.com/r/LightNovels/wiki/upcomingreleases/)
 - [J-Novel Club](https://j-novel.club/calendar){target="_blank"}
 - [Kodansha](https://kodansha.us/calendar/){target="_blank"}
 - [Seven Seas](https://sevenseasentertainment.com/release-dates/){target="_blank"}
@@ -285,6 +287,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [Anime News Network](https://www.animenewsnetwork.com/){target="_blank"}
     - [Crunchyroll News](https://www.crunchyroll.com/news){target="_blank"}
     - [MAL News](https://myanimelist.net/news){target="_blank"}
+    - [Yatta-Tachi](https://yattatachi.com/){target="_blank"}
 - **Anime**
     - [Anime Corner](https://animecorner.me/){target="_blank"}
     - [Anitrendz](https://anitrendz.net/news/){target="_blank"}
@@ -484,6 +487,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 - [Smug](https://smug.moe/){target="_blank"}
 - [Endless Eight](https://endless8.moe/){target="_blank"}
+- [Neko Network](https://live.neko-network.net/){target="_blank"}
 - [Satania](https://satania.moe/){target="_blank"}
 - [AIDN](https://aidn.jp/contents/){target="_blank"}
 - [Anime Girls Holding Programming Books](https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/){target="_blank"}
