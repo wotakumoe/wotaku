@@ -115,7 +115,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Anime Pictures](https://anime-pictures.net/){target="_blank"}
 - [Danbooru](https://danbooru.donmai.us/){target="_blank"} [!badge variant="success" target="blank" text="SFW Ver"](https://safebooru.donmai.us/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
 - [Gelbooru](https://gelbooru.com/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
-- [Ghibli](https://www.ghibli.jp/info/013772/){target="_blank"}
+- [Studio Ghibli](https://www.ghibli.jp/info/013772/){target="_blank"}
 - [Kona chan](https://konachan.com/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
 - [Safebooru](https://safebooru.org/){target="_blank"} [!badge variant="success" size="xs" text="E"]
 - [Yandere](https://yande.re/post){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
@@ -498,6 +498,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Anime Girls Holding Programming Books](https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/){target="_blank"}
 - [MakeGirlsMoe](https://make.girls.moe/){target="_blank"}
 - [Anianimals](https://www.anianimals.moe/){target="_blank"}
+- [VAGABOND HIATUS CHART](https://vagabond-hiatus-chart.vercel.app/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/falsepopsky/vagabond-hiatus-chart){target="_blank"}
 - [Absolute Territory](https://absoluteterritory.moe/){target="_blank"}
 - [Wanwan](https://wanwan.moe/){target="_blank"}
 
