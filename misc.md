@@ -83,25 +83,25 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 +++ Info
 
-- [Manga Codex](http://www.mangacodex.com/)
 - [Manga Groups Portal](https://discord.gg/9KGMzP2){target="_blank"}
-- [Scan Updates](https://www.scanupdates.com/){target="_blank"}
 - [Bookmeter](https://bookmeter.com/){target="_blank"} [!badge variant="ghost" icon="/static/icon/jp.png" text="JP"]
 - [r/LightNovels reading order](https://www.reddit.com/r/LightNovels/wiki/reading_order){target="_blank"}
 
 +++ Vol. Schedule
 
-- [Yatta-Tachi](https://yattatachi.com/tag/releases){target="_blank"}
-- [Otaku Calendar](https://otakucalendar.com/Release/?filterCategory=2){target="_blank"}
-- [r/LightNovels upcoming releases](https://www.reddit.com/r/LightNovels/wiki/upcomingreleases/)
-- [J-Novel Club](https://j-novel.club/calendar){target="_blank"}
-- [Kodansha](https://kodansha.us/calendar/){target="_blank"}
-- [Seven Seas](https://sevenseasentertainment.com/release-dates/){target="_blank"}
-- [SuBLime](https://www.sublimemanga.com/calendar){target="_blank"}  [!badge variant="danger" size="xs" text="R+"]
-- [TITAN Comics](https://titan-comics.com/manga/){target="_blank"}
-- [TOKYOPOP](https://tokyopop.com/collections/comingsoon){target="_blank"}
-- [VIZ](https://www.viz.com/calendar/ ){target="_blank"}
-- [Yen Press](https://yenpress.com/calendar){target="_blank"}
+- **Index**
+    - [Yatta-Tachi](https://yattatachi.com/tag/releases){target="_blank"}
+    - [Otaku Calendar](https://otakucalendar.com/Release/?filterCategory=2){target="_blank"}
+    - [r/LightNovels upcoming releases](https://www.reddit.com/r/LightNovels/wiki/upcomingreleases/)
+- **Publisher**
+    - [J-Novel Club](https://j-novel.club/calendar){target="_blank"}
+    - [Kodansha](https://kodansha.us/calendar/){target="_blank"}
+    - [Seven Seas](https://sevenseasentertainment.com/release-dates/){target="_blank"}
+    - [SuBLime](https://www.sublimemanga.com/calendar){target="_blank"}  [!badge variant="danger" size="xs" text="R+"]
+    - [TITAN Comics](https://titan-comics.com/manga/){target="_blank"}
+    - [TOKYOPOP](https://tokyopop.com/collections/comingsoon){target="_blank"}
+    - [VIZ](https://www.viz.com/calendar/ ){target="_blank"}
+    - [Yen Press](https://yenpress.com/calendar){target="_blank"}
 
 +++
 

@@ -170,6 +170,7 @@ Interested in learning the japanese language? Here you can find resources to aid
     - [Kana Pro](https://kana.pro/){target="_blank"}
     - [Kenji Sugimoto](https://www.kenjisugimoto.com/shuji/index.html?shuji=%E3%81%8A%E6%89%8B%E6%9C%AC){target="_blank"}
     - [Real Kana](https://realkana.com/){target="_blank"}
+    - [Type Kana](https://type-kana.furudean.com/){target="_blank"}
     - [Tobira Study Resources](https://sethclydesdale.github.io/tobira-study-resources/){target="_blank"}
     - [Kanji Game](https://kotobaweb.com/kanjigame/create){target="_blank"}
     - [Japanese Numbers](https://langpractice.com/japanese){target="_blank"}
