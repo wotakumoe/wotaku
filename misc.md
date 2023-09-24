@@ -83,21 +83,24 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 +++ Info
 
-- [Manga Groups Portal](https://discord.gg/9KGMzP2){target="_blank"}
 - [Bookmeter](https://bookmeter.com/){target="_blank"} [!badge variant="ghost" icon="/static/icon/jp.png" text="JP"]
+- [Manga Groups Portal](https://discord.gg/9KGMzP2){target="_blank"}
 - [r/LightNovels reading order](https://www.reddit.com/r/LightNovels/wiki/reading_order){target="_blank"}
 
-+++ Vol. Schedule
++++ Calendar
 
 - **Index**
-    - [Yatta-Tachi](https://yattatachi.com/tag/releases){target="_blank"}
     - [Otaku Calendar](https://otakucalendar.com/Release/?filterCategory=2){target="_blank"}
     - [r/LightNovels upcoming releases](https://www.reddit.com/r/LightNovels/wiki/upcomingreleases/)
+    - [Yatta-Tachi](https://yattatachi.com/tag/releases){target="_blank"}
 - **Publisher**
+    - [Azuki](https://www.azuki.co/release-calendar){target="_blank"} [!badge variant="ghost" size="xs" text="CaaS"]
+    - [Dark Horse](https://www.darkhorse.com/Manga/Upcoming){target="_blank"}
     - [J-Novel Club](https://j-novel.club/calendar){target="_blank"}
     - [Kodansha](https://kodansha.us/calendar/){target="_blank"}
     - [Seven Seas](https://sevenseasentertainment.com/release-dates/){target="_blank"}
     - [SuBLime](https://www.sublimemanga.com/calendar){target="_blank"}  [!badge variant="danger" size="xs" text="R+"]
+    - [SQUARE ENIX](https://squareenixmangaandbooks.square-enix-games.com/en-us/release-calendar){target="_blank"}
     - [TITAN Comics](https://titan-comics.com/manga/){target="_blank"}
     - [TOKYOPOP](https://tokyopop.com/collections/comingsoon){target="_blank"}
     - [VIZ](https://www.viz.com/calendar/ ){target="_blank"}
@@ -112,6 +115,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Anime Pictures](https://anime-pictures.net/){target="_blank"}
 - [Danbooru](https://danbooru.donmai.us/){target="_blank"} [!badge variant="success" target="blank" text="SFW Ver"](https://safebooru.donmai.us/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
 - [Gelbooru](https://gelbooru.com/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
+- [Ghibli](https://www.ghibli.jp/info/013772/){target="_blank"}
 - [Kona chan](https://konachan.com/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
 - [Safebooru](https://safebooru.org/){target="_blank"} [!badge variant="success" size="xs" text="E"]
 - [Yandere](https://yande.re/post){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
@@ -304,7 +308,19 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [Famitsu](https://www.famitsu.com/){target="_blank"}
     - [Gematsu](https://www.gematsu.com/){target="_blank"}
     - [Touhou Yomoyama News](https://touhou-project.news/){target="_blank"}
-    
+
+==- RSS
+- [Anidex](https://anidex.info/){target="_blank"}
+- [Anime News Network](https://www.animenewsnetwork.com/newsfeed/){target="_blank"}
+- [Anime RSS](https://github.com/ArjixWasTaken/anime-rss){target="_blank"}
+- [Anime tosho](https://animetosho.org/){target="_blank"}
+- [Crunchyroll](https://www.crunchyroll.com/feed){target="_blank"}
+- [Livechart](https://www.livechart.me/pages/rss){target="_blank"}
+- [Manga Updates](https://www.mangaupdates.com/){target="_blank"}
+- [nyaa](https://nyaa.si/){target="_blank"}
+- [RSS Bridge](https://rss-bridge.org/bridge01/){target="_blank"}
+===
+
 +++
 
 
@@ -334,17 +350,6 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [osu!pp](https://osu-pps.com){target="_blank"}
 - [osu!search](https://osusearch.com/){target="_blank"}
 - [o!rdr](https://ordr.issou.best/){target="_blank"}
-
-+++ RSS
-- [Anidex](https://anidex.info/){target="_blank"}
-- [Anime News Network](https://www.animenewsnetwork.com/newsfeed/){target="_blank"}
-- [Anime RSS](https://github.com/ArjixWasTaken/anime-rss){target="_blank"}
-- [Anime tosho](https://animetosho.org/){target="_blank"}
-- [Crunchyroll](https://www.crunchyroll.com/feed){target="_blank"}
-- [Livechart](https://www.livechart.me/pages/rss){target="_blank"}
-- [Manga Updates](https://www.mangaupdates.com/){target="_blank"}
-- [nyaa](https://nyaa.si/){target="_blank"}
-- [RSS Bridge](https://rss-bridge.org/bridge01/){target="_blank"}
 
 +++ Others
 - [3x3 Generator](https://gqgs.github.io/3x3-generator/){target="_blank"}
