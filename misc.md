@@ -137,6 +137,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [The Cambridge History of Japan](https://www.cambridge.org/core/series/cambridge-history-of-japan/18F050C94D8B0E2BFAAF5CCAE19E87FE){target="_blank"}
 - [The Japanese Experience: A Short History of Japan](https://www.amazon.com/Japanese-Experience-Short-History-Civilisation/dp/0520225600){target="_blank"}
 - [A Short History of Japan: From Samurai to Sony](https://www.amazon.com/Short-History-Japan-Samurai-Sony/dp/1865085162){target="_blank"}
+- [Pure Invention: How Japan Made the Modern World](https://www.amazon.com/gp/product/1984826719){target="_blank"}
 
 +++ Mythology
 
@@ -296,6 +297,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - **Anime**
     - [Anime Corner](https://animecorner.me/){target="_blank"}
     - [Anitrendz](https://anitrendz.net/news/){target="_blank"}
+    - [Animétudes](https://animetudes.com/){target="_blank"}
     - [AnimeTV](https://twitter.com/animetv_jp){target="_blank"}
     - [Let's Anime](https://letsanime.blogspot.com/){target="_blank"}
 - **Manga**
@@ -482,6 +484,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 +++ Websites
 
+- [Wired Sound For Wired People](https://fauux.neocities.org/){target="_blank"}
 - [Smug](https://smug.moe/){target="_blank"}
 - [Endless Eight](https://endless8.moe/){target="_blank"}
 - [Neko Network](https://live.neko-network.net/){target="_blank"}
