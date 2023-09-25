@@ -74,7 +74,6 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide){target="_blank"} 
 ## Info
 - [Buyfrag Store Digest](https://docs.google.com/document/u/0/d/1W4fAKQzCOhiWK6mJ_tvkZHIfzfzBZN57oGSaVB47TCQ/pub){target="_blank"}
 - [JOSIC](https://www.japanonlineshopping.com/){target="_blank"}
-- [Zimmerit](https://www.zimmerit.moe/){target="_blank"}
 - [Gundam Kits Collection](https://www.gundamkitscollection.com/){target="_blank"}
 - [Gunjap](https://www.gunjap.net/){target="_blank"}
 - [r/Anime's legal stream list](https://www.reddit.com/r/anime/wiki/Legal%20Streams){target="_blank"}

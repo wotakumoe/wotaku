@@ -292,10 +292,12 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [Crunchyroll News](https://www.crunchyroll.com/news){target="_blank"}
     - [MAL News](https://myanimelist.net/news){target="_blank"}
     - [Yatta-Tachi](https://yattatachi.com/){target="_blank"}
+    - [Zimmerit](https://www.zimmerit.moe/){target="_blank"}
 - **Anime**
     - [Anime Corner](https://animecorner.me/){target="_blank"}
     - [Anitrendz](https://anitrendz.net/news/){target="_blank"}
     - [AnimeTV](https://twitter.com/animetv_jp){target="_blank"}
+    - [Let's Anime](https://letsanime.blogspot.com/){target="_blank"}
 - **Manga**
     - [Josu Ke](https://twitter.com/Josu_ke){target="_blank"}
     - [Manga Alerts](https://twitter.com/MangaAlerts){target="_blank"}
@@ -340,16 +342,6 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [SauceKudasai](https://saucekudasai.com/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/ayushgptaa/SauceKudasai){target="_blank"}
 - [SauceNAO](https://saucenao.com/){target="_blank"}
 - [Trace](https://trace.moe/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/soruly/trace.moe){target="_blank"}
-
-+++ osu!
-- [Anisync](https://anisync.live/){target="_blank"}
-- [BeatConnect](https://beatconnect.io/){target="_blank"}
-- [osu skinner](https://osuskinner.com/){target="_blank"}
-- [osu!chan](https://osuchan.syrin.me/){target="_blank"}
-- [osu!next Signature Generator](https://lemmmy.pw/osusig/){target="_blank"}
-- [osu!pp](https://osu-pps.com){target="_blank"}
-- [osu!search](https://osusearch.com/){target="_blank"}
-- [o!rdr](https://ordr.issou.best/){target="_blank"}
 
 +++ Others
 - [3x3 Generator](https://gqgs.github.io/3x3-generator/){target="_blank"}
@@ -486,7 +478,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 +++
 
 ![](/static/banner/random.png)
-## rando.moe
+## Random
 
 +++ Websites
 
@@ -507,6 +499,8 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - Movies & TV Series
     - [Dramacool](https://dramacool.pa/){target="_blank"}
     - [KissAsian](https://kissasian.mx/){target="_blank"}
+    - [Sflix](https://sflix.to/country/JP){target="_blank"}
+    - [FMovies](https://fmoviesz.to/filter?keyword=&country%5B%5D=36&sort=recently_updated){target="_blank"}
     - [Drama Otaku](https://drama-otaku.com/){target="_blank"}
     - [Tokuzilla](https://tokuzilla.net/){target="_blank"}
     - [KRDL](https://krdl.moe/){target="_blank"}
@@ -516,6 +510,17 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [AQ Stream](https://aqstream.com/jp){target="_blank"}
     - [Keylabo](http://www.keylabo.com/watch-tv-online-for-free/){target="_blank"}
     - [ANNnewsCH](https://www.youtube.com/@ANNnewsCH/){target="_blank"}
+
++++ osu!
+
+- [Anisync](https://anisync.live/){target="_blank"}
+- [BeatConnect](https://beatconnect.io/){target="_blank"}
+- [osu skinner](https://osuskinner.com/){target="_blank"}
+- [osu!chan](https://osuchan.syrin.me/){target="_blank"}
+- [osu!next Signature Generator](https://lemmmy.pw/osusig/){target="_blank"}
+- [osu!pp](https://osu-pps.com){target="_blank"}
+- [osu!search](https://osusearch.com/){target="_blank"}
+- [o!rdr](https://ordr.issou.best/){target="_blank"}
 
 +++ Western
 
