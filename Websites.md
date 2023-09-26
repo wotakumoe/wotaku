@@ -141,9 +141,10 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
     - Uploads own encodes too with decent quality but not available for every title
 
 +++ Series Specific
-- [One Pace](https://onepace.net/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Stremio"]() [!button target="blank" variant="primary" size="xs" text="Direct Stream"] [!badge variant="ghost" size="xs" text="Torrent"]
+- [One Pace](https://onepace.net/){target="_blank"}
     - Condensed anime episodes, removing filler scenes and merging episodes
     - Some arcs are still in [development](https://docs.google.com/presentation/d/1br66Z5J0GXPLk5B_kLN9A7gn7hFgDJFhW_pY2bDxOZc/view), with missing episodes or low resolution (480p) uploads
+    - Main source is torrent based
     - Unofficial uploads on Stremio with [**One Pace add-on**](https://app.strem.io/shell-v4.4/#/addons/community/all?addon=https%3A%2F%2F6b8ba440e405-onepace-stremio-v2.baby-beamup.club%2Fmanifest.json) or on [**Rentry**](https://rentry.co/onepace){target="_blank"}
 - [Pokémon TV](https://poke-tv.vercel.app/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/seiya-dev/pokemon-tv){target="_blank"}
     - Organizes everything pokemon related
