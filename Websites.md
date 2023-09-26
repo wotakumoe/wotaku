@@ -58,29 +58,6 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
     - Uploads **Blu-ray** and **DVD** versions if available
     - Has a good amount of missing titles
 
-=== More
-
-- **Others**
-    - [Animeflix](https://animeflix.live/){target="_blank"}
-    - [AnimeUI](https://animeui.com/){target="_blank"} [!badge variant="ghost" size="xs" text="IPFS"] [!badge variant="ghost" size="xs" text="Small library"] [!badge variant="ghost" size="xs" text="Great Quality"]
-    - [Kaguya](https://kaguya.app){target="_blank"} [!badge variant="ghost" size="xs" text="Needs extension"]
-- **Series Specific**
-    - [One Pace](https://onepace.net/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Stremio"](https://app.strem.io/shell-v4.4/#/addons/community/all?addon=https%3A%2F%2F6b8ba440e405-onepace-stremio-v2.baby-beamup.club%2Fmanifest.json) [!button target="blank" variant="primary" size="xs" text="Direct Stream"](https://rentry.co/onepace){target="_blank"} [!badge variant="ghost" size="xs" text="Torrent"]
-    - [Pokémon TV](https://poke-tv.vercel.app/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/seiya-dev/pokemon-tv){target="_blank"} [!badge variant="ghost" size="xs" text="Multi-lang"]
-- **Donghua**
-    - [AnimeXin](https://animexin.vip/){target="_blank"}
-    - [Lucifer Donghua](https://luciferdonghua.in/){target="_blank"}
-    - [LM Anime](https://lmanime.com/){target="_blank"}
-    - [Myanime](https://myanime.live/){target="_blank"}
-- **Regional**
-    - [Muse Asia](https://www.youtube.com/@MuseAsia/){target="_blank"}
-    - [Ani-One Asia](https://www.youtube.com/AniOneAsia/){target="_blank"}
-- **TV**
-    - [Funcube](https://funcube.space/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Backup"](https://backup.funcube.space/){target="_blank"} 
-    - [Toonami Aftermath](https://www.toonamiaftermath.com/){target="_blank"}
-
-===
-
 +++ :icon-unfold: Torrent
 
 - [Nyaa](https://nyaa.si/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Proxy 1"](https://nyaa.iss.one/){target="_blank"}  [!button target="blank" variant="primary" size="xs" text="Proxy 2"](https://nyaa.iss.ink/){target="_blank"}
@@ -139,7 +116,53 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 - [**SunXDCC**](https://sunxdcc.com/){target="_blank"}
 - [**Anidex**](https://xdcc.anidex.moe/){target="_blank"} (`Michiko` bot is over at `#Doki`)
 
+
 > To learn how to use IRC, you can read [**the guide**](/Guides/IRC.md).
+
++++
+
+#### More
+
++++ Anime
+
+- [**Kaguya**](https://kaguya.app){target="_blank"}
+    - Scraping based website
+    - Has a good amount of sources including Crunchyroll, Aniwave, Kickassanime
+    - Scrapes manga sites too (Mangadex, Katana, Batoto)
+    - Needs browser extension to work
+    - Only chromium browsers are supported
+- [**AnimeUI**](https://animeui.com/){target="_blank"}
+    - Great upload quality
+    - Uses IPFS to stream anime
+    - Small library & firefox isn't supported yet
+- [**Animeflix**](https://animeflix.live/){target="_blank"}
+    - The main sources are scraper based (Gogo & Zoro)
+    - Crunchyroll is available for some of the titles
+    - Uploads own encodes too with decent quality but not available for every title
+
++++ Series Specific
+- [One Pace](https://onepace.net/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Stremio"]() [!button target="blank" variant="primary" size="xs" text="Direct Stream"] [!badge variant="ghost" size="xs" text="Torrent"]
+    - Condensed anime episodes, removing filler scenes and merging episodes
+    - Some arcs are still in [development](https://docs.google.com/presentation/d/1br66Z5J0GXPLk5B_kLN9A7gn7hFgDJFhW_pY2bDxOZc/view), with missing episodes or low resolution (480p) uploads
+    - Unofficial uploads on Stremio with [**One Pace add-on**](https://app.strem.io/shell-v4.4/#/addons/community/all?addon=https%3A%2F%2F6b8ba440e405-onepace-stremio-v2.baby-beamup.club%2Fmanifest.json) or on [**Rentry**](https://rentry.co/onepace){target="_blank"}
+- [Pokémon TV](https://poke-tv.vercel.app/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/seiya-dev/pokemon-tv){target="_blank"}
+    - Organizes everything pokemon related
+    - Has uploads for various dub but no JP dub
+    - Uploads are upto 720p, sometimes even lower
+
++++ Donghua
+- [Lucifer Donghua](https://luciferdonghua.in/){target="_blank"}
+- [LM Anime](https://lmanime.com/){target="_blank"}
+- [Myanime](https://myanime.live/){target="_blank"}
+
++++ Others
+
+- **Regional**
+    - [Muse Asia](https://www.youtube.com/@MuseAsia/){target="_blank"}
+    - [Ani-One Asia](https://www.youtube.com/AniOneAsia/){target="_blank"}
+- **TV**
+    - [Funcube](https://funcube.space/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Backup"](https://backup.funcube.space/){target="_blank"} 
+    - [Toonami Aftermath](https://www.toonamiaftermath.com/){target="_blank"}
 
 +++
 
