@@ -305,7 +305,8 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [Manga Alerts](https://twitter.com/MangaAlerts){target="_blank"}
     - [Manga Mogura RE](https://twitter.com/MangaMoguraRE){target="_blank"}
     - [Manga Splaining](https://www.mangasplaining.com/){target="_blank"}
-    - [Shonen Jump News](https://twitter.com/WSJ_manga)
+    - [Shonen Jump News](https://twitter.com/WSJ_manga){target="_blank"}
+    - [TheOASG](https://twitter.com/TheOASG){target="_blank"}
     - [Deb Aoki](https://twitter.com/debaoki){target="_blank"}
 - **Games**
     - [4Gamer](https://www.4gamer.net/){target="_blank"}
