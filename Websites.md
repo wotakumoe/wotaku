@@ -168,9 +168,6 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 
 +++
 
-> All the **Legal** anime streaming services are listed [here](https://otakulogy.github.io/anime-streaming/){target="_blank"}.
-
-
 ![](/static/banner/manga.png)
 
 ## Manga
@@ -312,8 +309,6 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Desuarchive](https://desuarchive.org/){target="_blank"} [!badge variant="Dark" text="Win-O'-Thread"](https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/){target="_blank"}
 
 +++
-
-> All the **Legal** manga reading sites are listed [here](https://otakulogy.github.io/manga-platform/){target="_blank"} and [here](https://wherecanireadmanga.com/){target="_blank"}.
 
 ![](/static/banner/msuic.png)
 
@@ -535,11 +530,19 @@ Websites for volume releases are added [here](/Guides/digim.md){target="_blank"}
 +++ Music
 
 #### Stream
-- [Spotify](https://spotify.com/){target="_blank"}
-- [Youtube Music](https://music.youtube.com/){target="_blank"} [!badge variant="dark" target="blank" text="Beatbump"](https://beatbump.io/home){target="_blank"} [!badge variant="dark" target="blank" text="Hyperpipe"](https://hyperpipe.surge.sh/){target="_blank"}
-- [Deezer](https://www.deezer.com/){target="_blank"}
+
+- **Freemium**
+    - [Spotify](https://spotify.com/){target="_blank"}
+    - [Youtube Music](https://music.youtube.com/){target="_blank"} [!badge variant="dark" target="blank" text="Beatbump"](https://beatbump.io/home){target="_blank"} [!badge variant="dark" target="blank" text="Hyperpipe"](https://hyperpipe.surge.sh/){target="_blank"}
+    - [Amazon Music](https://music.amazon.com/){target="_blank"}
+    - [Deezer](https://www.deezer.com/){target="_blank"}
+- **Subscription**
+    - [Apple Music](https://music.apple.com/){target="_blank"}
+    - [Qobuz](https://play.qobuz.com/){target="_blank"}
+    - [Tidal](https://tidal.com/){target="_blank"}
 
 #### Purchase
+
 - **Physical**
     - [CDJapan](https://www.cdjapan.co.jp/){target="_blank"}
     - [Play-Asia](https://www.play-asia.com/){target="_blank"}
