@@ -314,7 +314,6 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 ## Music
 
-
 +++ :icon-Play: Stream
 
 - **OP/ED**
@@ -534,9 +533,9 @@ Websites for volume releases are added [here](/Guides/digim.md){target="_blank"}
 - **Freemium**
     - [Spotify](https://spotify.com/){target="_blank"}
     - [Youtube Music](https://music.youtube.com/){target="_blank"} [!badge variant="dark" target="blank" text="Beatbump"](https://beatbump.io/home){target="_blank"} [!badge variant="dark" target="blank" text="Hyperpipe"](https://hyperpipe.surge.sh/){target="_blank"}
-    - [Amazon Music](https://music.amazon.com/){target="_blank"}
     - [Deezer](https://www.deezer.com/){target="_blank"}
 - **Subscription**
+    - [Amazon Music](https://music.amazon.com/){target="_blank"}
     - [Apple Music](https://music.apple.com/){target="_blank"}
     - [Qobuz](https://play.qobuz.com/){target="_blank"}
     - [Tidal](https://tidal.com/){target="_blank"}
@@ -544,11 +543,13 @@ Websites for volume releases are added [here](/Guides/digim.md){target="_blank"}
 #### Purchase
 
 - **Physical**
+    - [Amazon](https://www.amazon.com/){target="_blank"}
     - [CDJapan](https://www.cdjapan.co.jp/){target="_blank"}
     - [Play-Asia](https://www.play-asia.com/){target="_blank"}
     - [HMV & Books](https://www.hmv.co.jp/){target="_blank"}
     - [Ototoy](https://ototoy.jp/){target="_blank"}
 - **Digital**
+    - [Amazon](https://www.amazon.com/){target="_blank"}
     - [Qobuz](https://www.qobuz.com/us-en/shop){target="_blank"}
     - [Mora](https://mora.jp/){target="_blank"}
     - [Recochoku](https://recochoku.jp/){target="_blank"}
