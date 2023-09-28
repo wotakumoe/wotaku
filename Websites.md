@@ -484,3 +484,70 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 > :no_entry_sign: [**List of Untrusted Game Downloading Websites**](https://rentry.org/pgames#untrusted-sites)
 
 > Try searching with Japanese titles on Nyaa/Sukebei. Also, for Sukebei, try searching with the [DLSite](https://www.dlsite.com/index.html?locale=en_US) product ID.
+
+![](/static/banner/legal.png)
+
+## Legal
+
++++ Anime
+
+- [Bilibili](https://www.bilibili.tv/en/anime){target="_blank"}
+- [Crunchyroll](https://www.crunchyroll.com/){target="_blank"}
+- [Disney+](https://www.disneyplus.com/){target="_blank"}
+- [HBO Max](https://www.hbomax.com/){target="_blank"}
+- [Hidive](https://www.hidive.com/){target="_blank"}
+- [Hulu](https://www.hulu.com/){target="_blank"}
+- [Netflix](https://www.netflix.com){target="_blank"}
+- [Prime Video](https://www.primevideo.com/){target="_blank"}
+
++++ Manga/hwa/hua
+
+- **Manga**
+    - [Azuki](https://www.azuki.co/){target="_blank"}
+    - [Comikey](https://comikey.com/){target="_blank"}
+    - [INKR](https://comics.inkr.com/){target="_blank"}
+    - [KManga](https://kmanga.kodansha.com/){target="_blank"}
+    - [Renta](https://www.ebookrenta.com/){target="_blank"}
+    - [Manga Plus](https://mangaplus.shueisha.co.jp/){target="_blank"}
+    - [Manga UP!](https://global.manga-up.com/){target="_blank"}
+    - [Mangamo](https://www.mangamo.com/){target="_blank"}
+- **Manwha/hua**
+    - [Lezhin](https://www.lezhinus.com/en){target="_blank"}
+    - [Manta](https://manta.net/en){target="_blank"}
+    - [Pocket Comics](https://www.pocketcomics.com/){target="_blank"}
+    - [Tapas](https://tapas.io/){target="_blank"}
+    - [Tappytoon](https://www.tappytoon.com/en/comics/home){target="_blank"}
+    - [Webtoons](https://www.webtoons.com/en/){target="_blank"}
+
+Websites for volume releases are added [here](/Guides/digim.md){target="_blank"}
+
++++ Light Novel
+
+- [BookWalker](https://global.bookwalker.jp/){target="_blank"}
+- [Dark Horse Comics](https://www.darkhorse.com/){target="_blank"}
+- [J-Novel Club](https://j-novel.club/){target="_blank"}
+- [Kodansha](https://kodansha.us/){target="_blank"}
+- [Square Enix](https://squareenixmangaandbooks.square-enix-games.com/en-us){target="_blank"}
+- [Tentai Books](https://tentaibooks.com/en/){target="_blank"}
+- [VIZ](https://www.viz.com/){target="_blank"}
+- [Yen Press](https://yenpress.com/){target="_blank"}
+
++++ Music
+
+#### Stream
+- [Spotify](https://spotify.com/){target="_blank"}
+- [Youtube Music](https://music.youtube.com/){target="_blank"} [!badge variant="dark" target="blank" text="Beatbump"](https://beatbump.io/home){target="_blank"} [!badge variant="dark" target="blank" text="Hyperpipe"](https://hyperpipe.surge.sh/){target="_blank"}
+- [Deezer](https://www.deezer.com/){target="_blank"}
+
+#### Purchase
+- **Physical**
+    - [CDJapan](https://www.cdjapan.co.jp/){target="_blank"}
+    - [Play-Asia](https://www.play-asia.com/){target="_blank"}
+    - [HMV & Books](https://www.hmv.co.jp/){target="_blank"}
+    - [Ototoy](https://ototoy.jp/){target="_blank"}
+- **Digital**
+    - [Qobuz](https://www.qobuz.com/us-en/shop){target="_blank"}
+    - [Mora](https://mora.jp/){target="_blank"}
+    - [Recochoku](https://recochoku.jp/){target="_blank"}
+
++++

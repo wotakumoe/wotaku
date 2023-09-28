@@ -334,6 +334,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 +++ Analysis
 - [anime.plus](https://anime.plus/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/anime-plus/graph){target="_blank"} [!badge variant="ghost" size="xs" text="MAL"]
+- [Anistats](https://mayudev.github.io/anistats/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/mayudev/anistats){target="_blank"} [!badge variant="ghost" size="xs" text="AL"]
 - [MAL Badges](https://www.mal-badges.com/){target="_blank"} [!badge variant="ghost" size="xs" text="MAL"]
 - [Randime](https://randime.moe/){target="_blank"}
 - [Sekai](https://sekai.rl404.com/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/rl404/sekai){target="_blank"} [!badge variant="ghost" size="xs" text="MAL"]
