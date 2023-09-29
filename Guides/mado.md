@@ -83,10 +83,10 @@ That should get the job done. The homepage doesn't have infinite scroll due to r
 1. Download and install JDL2 from [**here**](https://rentry.org/jdownloader2){target="_blank"}
 2. Go to `Settings > Basic Authetication` and click the **Add** button at the bottom
 3. Now add the details
-    - Server type: **`http://`**
-    - Host/URL: **`manga.madokami.al`**
-    - Username: **[Your Madokami Username]**
-    - Password: **[Your Madokmai Password]**
+    - Server type: `http://`
+    - Host/URL: `manga.madokami.al`
+    - Username: [Your Madokami Username]
+    - Password: [Your Madokmai Password]
     - :warning: Enable **Always** checkmark (at the last column) to avoid errors while scraping files in **Link grabber**
 4. Now go to **Link grabber** and paste the folder url. It will scrape the manga files.
     - It may scrape corrupted/unavailable cbz files with websites path in the name. Sort the files on name basis and ignore those.
