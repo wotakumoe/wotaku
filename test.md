@@ -22,31 +22,19 @@ visibility: hidden
 - [](){target="_blank"}
 
 
-+++ Audio
-
-- [](){target="_blank"}
-- [](){target="_blank"}
-- [](){target="_blank"}
-- [](){target="_blank"}
-
-
 +++ Video
 
+- [Autocrop](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autocrop.lua){target="_blank"}
 - [Autoload](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua){target="_blank"}
 - [Eisa's Scripts](https://github.com/Eisa01/mpv-scripts){target="_blank"}
 - [thumbfast](https://github.com/po5/thumbfast/){target="_blank"}
-- [](){target="_blank"}
-- [](){target="_blank"}
-- [](){target="_blank"}
 
 
 +++ QoL
 
-- [Autocrop](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autocrop.lua){target="_blank"}
 - [mpv Playlistmanager](https://github.com/jonniek/mpv-playlistmanager){target="_blank"}
 - [trackselect](https://github.com/po5/trackselect){target="_blank"}
 - [pause when minimize](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/pause-when-minimize.lua){target="_blank"}
-- [](){target="_blank"}
 
 
 +++ Addons

@@ -126,6 +126,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 - [Michelle](https://github.com/JacenBoy/michelle){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://michelle.jacenboy.com/){target="_blank"}
 - Sneedex [!button target="blank" variant="primary" size="xs" icon="/static/icon/discord.svg" text="Invite"](https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot){target="_blank"}
 - [Picsiv](https://github.com/jckli/picsiv){target="_blank"}
+- [Poketwo](https://poketwo.net/){target="_blank"}
 
 +++ OCR
 

@@ -312,9 +312,10 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [4Gamer](https://www.4gamer.net/){target="_blank"}
     - [Famitsu](https://www.famitsu.com/){target="_blank"}
     - [Gematsu](https://www.gematsu.com/){target="_blank"}
+    - [Frontline](https://www.frontlinejp.net/){target="_blank"}
     - [Touhou Yomoyama News](https://touhou-project.news/){target="_blank"}
 
-==- RSS
+==- :icon-rss: RSS
 - **Uploads**
     - [Anidex](https://anidex.info/){target="_blank"}
     - [nyaa](https://nyaa.si/){target="_blank"}

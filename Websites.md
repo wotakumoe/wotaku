@@ -462,12 +462,15 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 +++ :icon-codespaces: ROM
 - [r/roms](https://r-roms.github.io/){target="_blank"} [!badge variant="ghost" size="xs" text="ROM"]
+- [ROMSpure](https://romspure.cc/roms){target="_blank"} [!badge variant="ghost" size="xs" text="General"]
 - [nsw2u](https://nsw2u.xyz/){target="_blank"} [!badge variant="ghost" size="xs" text="Switch"]
 - [Ziperto](https://www.ziperto.com/){target="_blank"} [!badge variant="ghost" size="xs" text="Switch"]
 - [hShop](https://hshop.erista.me/){target="_blank"} [!badge variant="ghost" size="xs" text="3DS"]
 - [NoPayStation](https://nopaystation.com/){target="_blank"} [!badge variant="ghost" size="xs" text="Playstation"]
 - [AlvRo's Collection](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml){target="_blank"}
 - [Vimm's Lair](https://vimm.net/vault/){target="_blank"}
+
+> For emulation, check [**Emulation General Wiki**](https://emulation.gametechwiki.com/index.php/Main_Page){target="_blank"}
 
 +++ :icon-comment: VN
 - [CPG Repacks](https://cpgrepacks.site){target="_blank"}
@@ -483,7 +486,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 ## Legal
 
-+++ Anime
++++ :icon-play: Anime
 
 - [Bilibili](https://www.bilibili.tv/en/anime){target="_blank"}
 - [Crunchyroll](https://www.crunchyroll.com/){target="_blank"}
@@ -494,7 +497,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Netflix](https://www.netflix.com){target="_blank"}
 - [Prime Video](https://www.primevideo.com/){target="_blank"}
 
-+++ Manga/hwa/hua
++++ :icon-comment: Manga/hwa/hua
 
 - **Manga**
     - [Azuki](https://www.azuki.co/){target="_blank"}
@@ -515,7 +518,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 Websites for volume releases are added [here](/Guides/digim.md){target="_blank"}
 
-+++ Light Novel
++++ :icon-book: Light Novel
 
 - [BookWalker](https://global.bookwalker.jp/){target="_blank"}
 - [Dark Horse Comics](https://www.darkhorse.com/){target="_blank"}
@@ -526,7 +529,7 @@ Websites for volume releases are added [here](/Guides/digim.md){target="_blank"}
 - [VIZ](https://www.viz.com/){target="_blank"}
 - [Yen Press](https://yenpress.com/){target="_blank"}
 
-+++ Music
++++ :icon-unmute: Music
 
 #### Stream
 
