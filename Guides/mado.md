@@ -63,3 +63,7 @@ Repeat this step until you get an account, the cooldown should be 4 hours.
 That should get the job done. The homepage doesn't have infinite scroll due to rate limit. You can search the manga you want and read it.
 
 ![](/static/ss/tachi.png)
+
+## Batch Download
+
+[!embed](https://www.youtube.com/embed/BR3GR8S_Oqo)
