@@ -21,12 +21,6 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 +++ Anime
 
-- [**Saikou**](https://github.com/saikou-app/saikou/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="video" text="TV"](https://github.com/siennaXD/SaikouTV/){target="_blank"}  [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://saikou.pages.dev/){target="_blank"}
-  - Decent UI but limited customization
-  - Can be used offline
-  - Also offers manga reader & ln
-  - Anime streaming/reading only
-  - Anilist and MAL sync
 - [**Cloudstream**](https://github.com/recloudstream/cloudstream){target="_blank"} [!button variant="primary" size="xs" icon="globe" text="Web"](https://cloudstream.on.fleek.co/)
   - Minimalist Customizable UI
   - Offers other types of media too

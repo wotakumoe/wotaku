@@ -111,12 +111,6 @@ If you want to get the best quality, use [Direct Download](/Websites.md/#direct-
 ## Software
 
 ### Android
-- [**Saikou**](https://github.com/saikou-app/saikou/){target="_blank"} [!badge variant="ghost" icon="video" text="TV"](https://github.com/siennaXD/SaikouTV/){target="_blank"}  [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://saikou.pages.dev/){target="_blank"}
-    - Decent UI but limited customization
-    - Can be used offline
-    - Also offers manga reader & ln
-    - Anime streaming/reading only
-    - Anilist and MAL sync
 - [**Cloudstream**](https://github.com/recloudstream/cloudstream){target="_blank"}
     - Minimalist Customizable UI
     - Offers other types of media too

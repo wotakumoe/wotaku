@@ -39,7 +39,6 @@ The most important things to get you started.
 
 +++ Android
 - [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://tachiyomi.org/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/){target="_blank"} [!badge variant="ghost" size="xs" text="Manga"]
-- [Saikou](https://github.com/saikou-app/saikou/){target="_blank"} [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="Manga"]
 - [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta){target="_blank"} [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="Manga"]
 - [Quicknovel](https://github.com/LagradOst/QuickNovel){target="_blank"} [!badge variant="ghost" size="xs" text="LN"]
 
