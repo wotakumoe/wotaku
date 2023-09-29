@@ -315,15 +315,21 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [Touhou Yomoyama News](https://touhou-project.news/){target="_blank"}
 
 ==- RSS
-- [Anidex](https://anidex.info/){target="_blank"}
-- [Anime News Network](https://www.animenewsnetwork.com/newsfeed/){target="_blank"}
-- [Anime RSS](https://github.com/ArjixWasTaken/anime-rss){target="_blank"}
-- [Anime tosho](https://animetosho.org/){target="_blank"}
-- [Crunchyroll](https://www.crunchyroll.com/feed){target="_blank"}
-- [Livechart](https://www.livechart.me/pages/rss){target="_blank"}
-- [Manga Updates](https://www.mangaupdates.com/){target="_blank"}
-- [nyaa](https://nyaa.si/){target="_blank"}
-- [RSS Bridge](https://rss-bridge.org/bridge01/){target="_blank"}
+- **Uploads**
+    - [Anidex](https://anidex.info/){target="_blank"}
+    - [nyaa](https://nyaa.si/){target="_blank"}
+    - [Anime tosho](https://animetosho.org/){target="_blank"}
+    - [Anime RSS](https://github.com/ArjixWasTaken/anime-rss){target="_blank"}
+- **News**
+    - [Anime News Network](https://www.animenewsnetwork.com/newsfeed/){target="_blank"}
+    - [Crunchyroll](https://www.crunchyroll.com/feed){target="_blank"}
+    - [Manga Updates](https://www.mangaupdates.com/){target="_blank"}
+- **Schedule**
+    - [Livechart](https://www.livechart.me/pages/rss){target="_blank"}
+    - [Anime Schedule](https://animeschedule.net/rss){target="_blank"}
+
+
+[RSS Bridge](https://rss-bridge.org/bridge01/){target="_blank"} can be used to get rss feed from other websites. `https://nitter.cz/[AccountID]/rss` for twitter RSS feed.
 ===
 
 +++
