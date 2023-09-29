@@ -87,7 +87,7 @@ That should get the job done. The homepage doesn't have infinite scroll due to r
     - Host/URL: **`manga.madokami.al`**
     - Username: **[Your Madokami Username]**
     - Password: **[Your Madokmai Password]**
-    - **Enable Always checkmark to avoid errors while grabbig**
+    - :warning: Enable **Always** checkmark to avoid errors while grabbing
 4. Now go to **Link grabber** and paste the folder url. It will scrape the manga files.
     - It may scrape cbz files with websites path in the name. Sort the files on name basis and ignore those.
 5. Now select the cbz files and right click. Then press **Start Downloads**
