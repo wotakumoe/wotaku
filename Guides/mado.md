@@ -17,7 +17,7 @@ Connect to **Rizon IRC network**.
 1. Add nickname for your account
 2. Select RIZON in the networks list
 3. Click Connect
-![](/static/ss/cnnctrzn.png)
+![](/static/ss/mado/cnnctrzn.png)
 
 ## Step 2
 
@@ -29,7 +29,7 @@ Connect to **Rizon IRC network**.
 
 1. Register your current nickname by typing the following: `/msg NickServ REGISTER yourPassword your@email.address`
 2. Now you should get a confirmation code like this
-![](/static/ss/rzncnfrm.png)
+![](/static/ss/mado/rzncnfrm.png)
 3. Copy and paste the confirmation code into the following command: `/msg NickServ CONFIRM ConfirmationCodeFromEmail`
 
 > If the confirmation code above was copied correctly and still gives you an error, just type it out by hand. Copying seems to break it in some cases.
@@ -47,7 +47,7 @@ You can also set up your client to do this automatically by adding it to the **C
 2. Now type `/msg sola REGISTER username password` in the Madokami channel. You shouldn't reuse the RIZON password here.
 
 You will now see **Sola** at the left sidebar.
-![](/static/ss/madohome.png)
+![](/static/ss/mado/madohome.png)
 
 - If your lucky, sola will say "**ok enjoy ur account**"
 - If unlucky, sola will say "**you are not favored, try again later**"
@@ -62,7 +62,7 @@ Repeat this step until you get an account, the cooldown should be 4 hours.
 
 That should get the job done. The homepage doesn't have infinite scroll due to rate limit. You can search the manga you want and read it.
 
-![](/static/ss/tachi.png)
+![](/static/ss/mado/tachi.png)
 
 ## Batch Download
 
@@ -76,7 +76,27 @@ That should get the job done. The homepage doesn't have infinite scroll due to r
 
 [!embed](https://www.youtube.com/embed/BR3GR8S_Oqo)
 
-> By default, FMD2 will save it as folder. You can change it in `Options > Save to`. Also, FMD2 can't download 3 files at a time. For that use JDL2.
+==- More settings
+
+#### Auto Scan
+
+You can scan a Madokami folder automatically.
+1. Go to **Manga info** and paste the URL in **Input URL here** and click :arrow_right:
+2. Click **Add to favorites**. It will be added in the **Favorites** tab
+![](/static/ss/mado/fav1.png)
+3. Go to `Options > General` and check **Minimize on start**
+4. Then go to `Options > Updates > Favorites` and check
+    - Auto check for new chapter at startup
+    - Auto check for new chapter in an interval. Default 60 should be good enough
+    - Automatically diwbkiad after finish checking
+
+#### Save as
+
+By default, FMD2 will save it as folder. Go to `Options > Save to > Save download chapter as` and choose your format.
+
+===
+
+> FMD2 can't download 3 files at a time. For that use **JDL2**.
 
 ### JDL2
 
