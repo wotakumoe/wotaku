@@ -37,20 +37,20 @@ Squidify is a public music streaming service that offers a vast collection of An
 
 +++ Desktop
 
-- [Sonixd](https://github.com/jeffvli/sonixd) (Windows/Linux/macOS)
-- [Feishin](https://github.com/jeffvli/feishin) (Linux/macOS)
-- [Sublime Music](https://sublimemusic.app/) (Linux)
-- [Supersonic](https://github.com/dweymouth/supersonic) (Windows/Linux/macOS)
-- [Submariner](https://submarinerapp.com/) (macOS)
+- [Sonixd](https://github.com/jeffvli/sonixd) [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
+- [Feishin](https://github.com/jeffvli/feishin) [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
+- [Sublime Music](https://sublimemusic.app/) [!badge variant="ghost" size="xs" text="Linux"]
+- [Supersonic](https://github.com/dweymouth/supersonic) [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
+- [Submariner](https://submarinerapp.com/) [!badge variant="ghost" size="xs" text="MacOS"]
 - **CLI**
-    - [Jellycli](https://github.com/tryffel/jellycli#readme) (Windows/Linux)
-    - [STMP](https://github.com/wildeyedskies/stmp#readme) (Linux/macOS)
+    - [Jellycli](https://github.com/tryffel/jellycli#readme) [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"]
+    - [STMP](https://github.com/wildeyedskies/stmp#readme) [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
 
 +++ Others
 
 - **Connected Speakers**
-  - Sonos: [bonob](https://github.com/simojenki/bonob#readme)
-  - Alexa: [AskSonic](https://github.com/srichter/asksonic#readme)
+  - [bonob](https://github.com/simojenki/bonob#readme) [!badge variant="ghost" size="xs" text="Sonos"]
+  - [AskSonic](https://github.com/srichter/asksonic#readme) [!badge variant="ghost" size="xs" text="Alexa"]
 - [Subsonic Kodi Plugin](https://github.com/warwickh/plugin.audio.subsonic#readme)
 - [Navidrome Kodi Plugin](https://github.com/BobHasNoSoul/plugin.audio.navidrome#readme)
 - [HTTPDirFS](https://github.com/fangfufu/httpdirfs#readme)
@@ -64,11 +64,11 @@ Squidify is a public music streaming service that offers a vast collection of An
 
 Connecting to Squidify is very easy, just login with the following credentials:
 
-- **Server Address:** https://www.squidify.org
-- **Port (If needed):** 443
-- **Username:** Guest
-- **Password:** Guest
-- **Force Clear Text Password*:** Disabled / Off
+- Server Address: `https://www.squidify.org`
+- Port (If needed): `443`
+- Username: `Guest`
+- Password: `Guest`
+- Force Clear Text Password^:warning:^: Disabled / Off
 
 > :warning: We recommend sending the Password as Token + Salt. Not all Clients have this option though.
 
