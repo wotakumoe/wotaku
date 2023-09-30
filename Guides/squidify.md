@@ -9,56 +9,57 @@ Squidify is a public music streaming service that offers a vast collection of An
 
 ## Clients
 
-[Squidify](https://www.squidify.org) is based on Navidrome which has its own set of third-party Apps besides its own [Web UI](https://www.squidify.org/). It should be compatible with all Subsonic clients. The following clients are tested and confirmed to work properly:
+Squidify is based on Navidrome which has its own set of third-party Apps besides its own [Web UI](https://www.squidify.org/){target="_blank"}. It should be compatible with all Subsonic clients. The following clients are tested and confirmed to work properly:
 
 +++ Android
 
-- [DSub](https://play.google.com/store/apps/details?id=github.daneren2005.dsub)
-- [Subtracks](https://github.com/austinried/subtracks#readme)
-- [substreamer](https://substreamerapp.com/)
-- [Symfonium](https://symfonium.app/)
-- [Ultrasonic](https://ultrasonic.gitlab.io/)
+- [DSub](https://play.google.com/store/apps/details?id=github.daneren2005.dsub){target="_blank"}
+- [Subtracks](https://github.com/austinried/subtracks#readme){target="_blank"}
+- [substreamer](https://substreamerapp.com/){target="_blank"}
+- [Symfonium](https://symfonium.app/){target="_blank"}
+- [Ultrasonic](https://ultrasonic.gitlab.io/){target="_blank"}
 
 +++ iOS
 
-- [play:Sub](http://michaelsapps.dk/playsubapp/)
-- [substreamer](https://substreamerapp.com/)
-- [Amperfy](https://github.com/BLeeEZ/amperfy#readme)
-- [iSub](https://isub.app)
+- [play:Sub](http://michaelsapps.dk/playsubapp/){target="_blank"}
+- [substreamer](https://substreamerapp.com/){target="_blank"}
+- [Amperfy](https://github.com/BLeeEZ/amperfy#readme){target="_blank"}
+- [iSub](https://isub.app){target="_blank"}
 
 +++ Web
 
-- [Thunderdrome](https://thunderdrome.netlify.app/)
-- [Airsonic Refix](https://airsonic.netlify.com/)
-- [Subplayer](https://subplayer.netlify.app/)
-- [Aurial](http://shrimpza.github.io/aurial/)
-- [Jamstash](http://jamstash.com)
-- [Subfire](http://p.subfireplayer.net/)
+- [Thunderdrome](https://thunderdrome.netlify.app/){target="_blank"}
+- [Airsonic Refix](https://airsonic.netlify.com/){target="_blank"}
+- [Subplayer](https://subplayer.netlify.app/){target="_blank"}
+- [Aurial](http://shrimpza.github.io/aurial/){target="_blank"}
+- [Jamstash](http://jamstash.com){target="_blank"}
+- [Subfire](http://p.subfireplayer.net/){target="_blank"}
 
 +++ Desktop
 
-- [Sonixd](https://github.com/jeffvli/sonixd) [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
-- [Feishin](https://github.com/jeffvli/feishin) [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
-- [Sublime Music](https://sublimemusic.app/) [!badge variant="ghost" size="xs" text="Linux"]
-- [Supersonic](https://github.com/dweymouth/supersonic) [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
-- [Submariner](https://submarinerapp.com/) [!badge variant="ghost" size="xs" text="MacOS"]
+- [Sonixd](https://github.com/jeffvli/sonixd){target="_blank"} [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
+- [Feishin](https://github.com/jeffvli/feishin){target="_blank"} [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
+- [Sublime Music](https://sublimemusic.app/){target="_blank"} [!badge variant="ghost" size="xs" text="Linux"]
+- [Supersonic](https://github.com/dweymouth/supersonic){target="_blank"} [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
+- [Submariner](https://submarinerapp.com/){target="_blank"} [!badge variant="ghost" size="xs" text="MacOS"]
 - **CLI**
-    - [Jellycli](https://github.com/tryffel/jellycli#readme) [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"]
-    - [STMP](https://github.com/wildeyedskies/stmp#readme) [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
+    - [Jellycli](https://github.com/tryffel/jellycli#readme){target="_blank"} [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"]
+    - [STMP](https://github.com/wildeyedskies/stmp#readme){target="_blank"} [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
 
 +++ Others
 
 - **Connected Speakers**
-  - [bonob](https://github.com/simojenki/bonob#readme) [!badge variant="ghost" size="xs" text="Sonos"]
-  - [AskSonic](https://github.com/srichter/asksonic#readme) [!badge variant="ghost" size="xs" text="Alexa"]
-- [Subsonic Kodi Plugin](https://github.com/warwickh/plugin.audio.subsonic#readme)
-- [Navidrome Kodi Plugin](https://github.com/BobHasNoSoul/plugin.audio.navidrome#readme)
-- [HTTPDirFS](https://github.com/fangfufu/httpdirfs#readme)
-- [upmpdcli](https://www.lesbonscomptes.com/upmpdcli/index.html): expose Navidrome as a UPnP/DLNA media library. See the [discussion](https://github.com/navidrome/navidrome/discussions/2324).
+  - [bonob](https://github.com/simojenki/bonob#readme){target="_blank"} [!badge variant="ghost" size="xs" text="Sonos"]
+  - [AskSonic](https://github.com/srichter/asksonic#readme){target="_blank"} [!badge variant="ghost" size="xs" text="Alexa"]
+- [Subsonic Kodi Plugin](https://github.com/warwickh/plugin.audio.subsonic#readme){target="_blank"}
+- [Navidrome Kodi Plugin](https://github.com/BobHasNoSoul/plugin.audio.navidrome#readme){target="_blank"}
+- [HTTPDirFS](https://github.com/fangfufu/httpdirfs#readme){target="_blank"}
+- [upmpdcli](https://www.lesbonscomptes.com/upmpdcli/index.html)
+    - Expose Navidrome as a UPnP/DLNA media library. See the [!badge variant="dark" target="blank" text="discussion"](https://github.com/navidrome/navidrome/discussions/2324){target="_blank"}
 
 +++
 
-> For more options, look at the [list of clients](https://airsonic.github.io/docs/apps/) maintained by the Airsonic project.
+> For more options, look at the [list of clients](https://airsonic.github.io/docs/apps/){target="_blank"} maintained by the Airsonic project.
 
 ## Credentials
 
@@ -68,9 +69,9 @@ Connecting to Squidify is very easy, just login with the following credentials:
 - Port (If needed): `443`
 - Username: `Guest`
 - Password: `Guest`
-- Force Clear Text Password^:warning:^: Disabled / Off
+- Force Clear Text Password^1^: Disabled / Off
 
-> :warning: We recommend sending the Password as Token + Salt. Not all Clients have this option though.
+> 1. We recommend sending the Password as Token + Salt. Not all Clients have this option though.
 
 !!! Query
 To request additional soundtracks or inquire about Squidify, join [**SquidBoard**](https://www.squid-board.org/){target="_blank"}.
