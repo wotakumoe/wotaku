@@ -13,11 +13,11 @@ Squidify is based on Navidrome which has its own set of third-party Apps besides
 
 +++ Android
 
-- [DSub](https://play.google.com/store/apps/details?id=github.daneren2005.dsub){target="_blank"}
 - [Subtracks](https://github.com/austinried/subtracks#readme){target="_blank"}
 - [substreamer](https://substreamerapp.com/){target="_blank"}
-- [Symfonium](https://symfonium.app/){target="_blank"}
 - [Ultrasonic](https://ultrasonic.gitlab.io/){target="_blank"}
+- [DSub](https://play.google.com/store/apps/details?id=github.daneren2005.dsub){target="_blank"}
+- [Symfonium](https://symfonium.app/){target="_blank"} [!badge variant="ghost" size="xs" text="Paid"]
 
 +++ iOS
 
@@ -26,25 +26,19 @@ Squidify is based on Navidrome which has its own set of third-party Apps besides
 - [Amperfy](https://github.com/BLeeEZ/amperfy#readme){target="_blank"}
 - [iSub](https://isub.app){target="_blank"}
 
-+++ Web
-
-- [Thunderdrome](https://thunderdrome.netlify.app/){target="_blank"}
-- [Airsonic Refix](https://airsonic.netlify.com/){target="_blank"}
-- [Subplayer](https://subplayer.netlify.app/){target="_blank"}
-- [Aurial](http://shrimpza.github.io/aurial/){target="_blank"}
-- [Jamstash](http://jamstash.com){target="_blank"}
-- [Subfire](http://p.subfireplayer.net/){target="_blank"}
 
 +++ Desktop
 
 - [Sonixd](https://github.com/jeffvli/sonixd){target="_blank"} [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
-- [Feishin](https://github.com/jeffvli/feishin){target="_blank"} [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
 - [Sublime Music](https://sublimemusic.app/){target="_blank"} [!badge variant="ghost" size="xs" text="Linux"]
 - [Supersonic](https://github.com/dweymouth/supersonic){target="_blank"} [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
 - [Submariner](https://submarinerapp.com/){target="_blank"} [!badge variant="ghost" size="xs" text="MacOS"]
-- **CLI**
-    - [Jellycli](https://github.com/tryffel/jellycli#readme){target="_blank"} [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"]
-    - [STMP](https://github.com/wildeyedskies/stmp#readme){target="_blank"} [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
+- [Feishin](https://github.com/jeffvli/feishin){target="_blank"} [!badge variant="danger" size="xs" text="Buggy"] [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
+
++++ CLI
+
+- [Jellycli](https://github.com/tryffel/jellycli#readme){target="_blank"} [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"]
+- [STMP](https://github.com/wildeyedskies/stmp#readme){target="_blank"} [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
 
 +++ Others
 
@@ -71,7 +65,7 @@ Connecting to Squidify is very easy, just login with the following credentials:
 - Password: `Guest`
 - Force Clear Text Password^1^: Disabled / Off
 
-> 1. We recommend sending the Password as Token + Salt. Not all Clients have this option though.
+ 1. We recommend sending the Password as Token + Salt. Not all Clients have this option though.
 
 !!! Query
 To request additional soundtracks or inquire about Squidify, join [**SquidBoard**](https://www.squid-board.org/){target="_blank"}.
