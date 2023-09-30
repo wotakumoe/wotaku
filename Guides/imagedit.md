@@ -3,7 +3,7 @@ label: Manga Image Editing
 author:  
   name: "Oakminati"
   link: https://nyaa.si/user/Oakminati
-  avatar: https://cdn.discordapp.com/avatars/109449756652109824/6f7f3df9cc46a1c7d48eb893276c1d6e.png?size=64
+  avatar: /static/pfp/oak.png
 ---
 
 ![](/static/thumb/imgedit.png)
