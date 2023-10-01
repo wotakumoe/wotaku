@@ -110,7 +110,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 +++ mpv
 
 - **Resources**
-    - [mpv](https://mpv.io/){target="_blank"}
+    - [mpv](https://mpv.io/){target="_blank"} [!badge variant="dark" target="blank" text="Manual"](https://mpv.io/manual/stable/)
     - [Scum's Setup Guide](https://iamscum.wordpress.com/guides/videoplayback-guide/){target="_blank"}
     - [Kokomins Configuration Guide](https://kokomins.wordpress.com/2019/10/14/mpv-config-guide/){target="_blank"}
     - [mpv Script Wiki](https://github.com/mpv-player/mpv/wiki/User-Scripts){target="_blank"}

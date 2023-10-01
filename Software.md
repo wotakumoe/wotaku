@@ -235,6 +235,12 @@ Apps and programs for your various devices to take your hobbies wherever you go.
   - Multiple transfer options and local reader support
   - Support for cbz, cbr, zip, tar, arj, pdf, and rar formats as well as image formats
   - Ability to backup comics
+- [**Tachimanga**](https://tachimanga.github.io/){target="_blank"}
+  - Based on tachiyomi (tachidesk server and sorayomi) (but not developed by tachiyomi team)
+  - Supports tachiyomi extensions
+  - Has all the basic features and more in developement
+  - Has ad on opening or as banner (probably blockable using adblocking dns)
+  - Lifetime premium is 18€ (with ad-removal and more upcoming features)
 - [**Hanami**](https://github.com/oolxg/Hanami){target="_blank"}
   - Available on Testflight (no Sideloading required)
   - OK-ish UI with some lags

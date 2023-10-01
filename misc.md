@@ -492,21 +492,21 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 ![](/static/banner/random.png)
 ## Random
 
-+++ Websites
++++ Drawing
 
-- [Wired Sound For Wired People](https://fauux.neocities.org/){target="_blank"}
-- [Smug](https://smug.moe/){target="_blank"}
-- [Endless Eight](https://endless8.moe/){target="_blank"}
-- [Showdown!](https://play.pokemonshowdown.com/){target="_blank"}
-- [Neko Network](https://live.neko-network.net/){target="_blank"}
-- [Satania](https://satania.moe/){target="_blank"}
-- [AIDN](https://aidn.jp/contents/){target="_blank"}
-- [Anime Girls Holding Programming Books](https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/){target="_blank"}
-- [MakeGirlsMoe](https://make.girls.moe/){target="_blank"}
-- [Anianimals](https://www.anianimals.moe/){target="_blank"}
-- [VAGABOND HIATUS CHART](https://vagabond-hiatus-chart.vercel.app/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/falsepopsky/vagabond-hiatus-chart){target="_blank"}
-- [Absolute Territory](https://absoluteterritory.moe/){target="_blank"}
-- [Wanwan](https://wanwan.moe/){target="_blank"}
+
+
++++ osu!
+
+- [Anisync](https://anisync.live/){target="_blank"}
+- [BeatConnect](https://beatconnect.io/){target="_blank"}
+- [osu skinner](https://osuskinner.com/){target="_blank"}
+- [osu!chan](https://osuchan.syrin.me/){target="_blank"}
+- [osu!next Signature Generator](https://lemmmy.pw/osusig/){target="_blank"}
+- [osu!pp](https://osu-pps.com){target="_blank"}
+- [osu!search](https://osusearch.com/){target="_blank"}
+- [o!rdr](https://ordr.issou.best/){target="_blank"}
+
 
 +++ Other Media
 
@@ -525,16 +525,21 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [Keylabo](http://www.keylabo.com/watch-tv-online-for-free/){target="_blank"}
     - [ANNnewsCH](https://www.youtube.com/@ANNnewsCH/){target="_blank"}
 
-+++ osu!
++++ Websites
 
-- [Anisync](https://anisync.live/){target="_blank"}
-- [BeatConnect](https://beatconnect.io/){target="_blank"}
-- [osu skinner](https://osuskinner.com/){target="_blank"}
-- [osu!chan](https://osuchan.syrin.me/){target="_blank"}
-- [osu!next Signature Generator](https://lemmmy.pw/osusig/){target="_blank"}
-- [osu!pp](https://osu-pps.com){target="_blank"}
-- [osu!search](https://osusearch.com/){target="_blank"}
-- [o!rdr](https://ordr.issou.best/){target="_blank"}
+- [Wired Sound For Wired People](https://fauux.neocities.org/){target="_blank"}
+- [Smug](https://smug.moe/){target="_blank"}
+- [Endless Eight](https://endless8.moe/){target="_blank"}
+- [Showdown!](https://play.pokemonshowdown.com/){target="_blank"}
+- [Neko Network](https://live.neko-network.net/){target="_blank"}
+- [Satania](https://satania.moe/){target="_blank"}
+- [AIDN](https://aidn.jp/contents/){target="_blank"}
+- [Anime Girls Holding Programming Books](https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/){target="_blank"}
+- [MakeGirlsMoe](https://make.girls.moe/){target="_blank"}
+- [Anianimals](https://www.anianimals.moe/){target="_blank"}
+- [VAGABOND HIATUS CHART](https://vagabond-hiatus-chart.vercel.app/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/falsepopsky/vagabond-hiatus-chart){target="_blank"}
+- [Absolute Territory](https://absoluteterritory.moe/){target="_blank"}
+- [Wanwan](https://wanwan.moe/){target="_blank"}
 
 +++ Western
 

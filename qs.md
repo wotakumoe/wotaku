@@ -14,7 +14,7 @@ The most important things to get you started.
 +++ Anime
 - [Aniwave](https://aniwave.to/home){target="_blank"} | [Alt UI](https://9animehq.to/home){target="_blank"} [!badge variant="dark" target="blank" size="xs" text="formerly 9anime"]
 - [KickAssAnime](https://kickassanime.am/){target="_blank"} (use duck or birdstream if available)
-- [Anime out](https://www.animeout.xyz/){target="_blank"} [!badge variant="ghost" size="xs" text="DDL"]
+- [Tokyo Insider](https://www.tokyoinsider.com/){target="_blank"} [!badge variant="ghost" size="xs" text="DDL"]
 
 +++ Manga
 - [Comick](https://comick.app/home){target="_blank"}
