@@ -81,8 +81,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 - Arr [!badge variant="dark" target="blank" text="Radarr"](https://radarr.video/){target="_blank"} [!badge variant="dark" target="blank" text="Sonarr"](https://sonarr.tv/){target="_blank"} [!badge variant="dark" target="blank" text="Prowlarr"](https://prowlarr.com/){target="_blank"} [!badge variant="dark" target="blank" text="Overseerr"](https://overseerr.dev/){target="_blank"} [!badge variant="dark" target="blank" text="Guide"](https://wiki.servarr.com/){target="_blank"}
 - [Emby](https://emby.media/){target="_blank"}
 - [Jellyfin](https://jellyfin.org/){target="_blank"}
-- [mpv](https://mpv.io/){target="_blank"} [!badge variant="dark" target="blank" text="Scripts"](https://github.com/mpv-player/mpv/wiki/User-Scripts){target="_blank"} [!badge variant="dark" target="blank" text="Prescalers"](https://github.com/bjin/mpv-prescalers){target="_blank"} [!badge variant="dark" target="blank" text="Upscale 2x"](https://github.com/the-database/mpv-upscale-2x_animejanai){target="_blank"} [!badge variant="dark" target="blank" text="Guide"](https://iamscum.wordpress.com/guides/videoplayback-guide/){target="_blank"}
-- [MPV Shim for Plex](https://github.com/iwalton3/plex-mpv-shim){target="_blank"}
+- [mpv](https://mpv.io/){target="_blank"}
 - [Plex](https://www.plex.tv/){target="_blank"}
 - [Plex Anisync](https://github.com/RickDB/PlexAniSync){target="_blank"}
 - [PlexAniSync-Mappings](https://github.com/mizz141/PlexAniSync-Mappings){target="_blank"}
@@ -107,6 +106,33 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 - [Taiga](https://github.com/erengy/taiga){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://taiga.moe/){target="_blank"} [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Downloader"]
 - [Trackma](https://github.com/z411/trackma){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://z411.github.io/trackma/){target="_blank"} [!badge variant="ghost" size="xs" text="Linux"]
 - [Tundra](https://github.com/m4tx/tundra){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://tundra.moe/){target="_blank"} [!badge variant="ghost" size="xs" text="Linux"]
+
++++ mpv
+
+- **Resources**
+    - [mpv](https://mpv.io/){target="_blank"}
+    - [Scum's Setup Guide](https://iamscum.wordpress.com/guides/videoplayback-guide/){target="_blank"}
+    - [Kokomins Configuration Guide](https://kokomins.wordpress.com/2019/10/14/mpv-config-guide/){target="_blank"}
+    - [mpv Script Wiki](https://github.com/mpv-player/mpv/wiki/User-Scripts){target="_blank"}
+    - [Awesome mpv](https://github.com/stax76/awesome-mpv){target="_blank"}
+- **Alt UI**
+    - [ModernX](https://github.com/cyl0/ModernX){target="_blank"}
+    - [Tethys](https://github.com/Zren/mpv-osc-tethys){target="_blank"}
+    - [uosc](https://github.com/tomasklaen/uosc){target="_blank"}
+- **Video**
+    - [Autocrop](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autocrop.lua){target="_blank"}
+    - [Autoload](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua){target="_blank"}
+    - [Eisa's Scripts](https://github.com/Eisa01/mpv-scripts){target="_blank"}
+    - [thumbfast](https://github.com/po5/thumbfast/){target="_blank"}
+- **QoL**
+    - [mpv Playlistmanager](https://github.com/jonniek/mpv-playlistmanager){target="_blank"}
+    - [trackselect](https://github.com/po5/trackselect){target="_blank"}
+    - [pause when minimize](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/pause-when-minimize.lua){target="_blank"}
+- **Addons**
+    - [webtorrent mpv hook](https://github.com/mrxdst/webtorrent-mpv-hook){target="_blank"}
+    - [MPV Shim for Plex](https://github.com/iwalton3/plex-mpv-shim){target="_blank"}
+    - [Prescalers](https://github.com/bjin/mpv-prescalers){target="_blank"}
+    - [Upscale 2x](https://github.com/the-database/mpv-upscale-2x_animejanai){target="_blank"}
 
 +++ Fansubbing
 

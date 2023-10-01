@@ -64,6 +64,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Monthly.moe](https://www.monthly.moe/){target="_blank"}
 - [Notify.moe](https://notify.moe/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/animenotifier/notify.moe){target="_blank"}
 - [Senpai.moe](https://www.senpai.moe/){target="_blank"}
+- [Syoboi Calendar](https://cal.syoboi.jp/){target="_blank"}
 
 
 +++ Stats/Watch guide
