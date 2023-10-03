@@ -87,6 +87,6 @@ The most important things to get you started.
 - [Mullvad](https://mullvad.net/){target="_blank"} [!badge variant="ghost" size="xs" text="Paid"]
 - [IVPN](https://www.ivpn.net/){target="_blank"} [!badge variant="ghost" size="xs" text="Paid"]
 - [Windscribe](https://windscribe.com/){target="_blank"} [!badge variant="ghost" size="xs" text="Freemium"]
-- [TunnerBear](https://www.tunnelbear.com/){target="_blank"} [!badge variant="ghost" size="xs" text="Freemium"]
+- [TunnelBear](https://www.tunnelbear.com/){target="_blank"} [!badge variant="ghost" size="xs" text="Freemium"]
 
 +++
