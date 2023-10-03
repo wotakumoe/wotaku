@@ -153,6 +153,7 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 
 +++ Donghua
 
+- [Animekhor](https://animekhor.xyz/){target="_blank"}
 - [Lucifer Donghua](https://luciferdonghua.in/){target="_blank"}
 - [LM Anime](https://lmanime.com/){target="_blank"}
 - [Myanime](https://myanime.live/){target="_blank"}
@@ -449,7 +450,6 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Nyaa](https://nyaa.si/?f=0&c=6_2&q=){target="_blank"} [!badge size="xs" variant="success" text="E"]
 - [Nyaa sukebei](https://sukebei.nyaa.si/?f=0&c=1_3&q=){target="_blank"}
 - [Ova Games](https://www.ovagames.com/){target="_blank"}
-- [GOG](https://gog-games.to/){target="_blank"}
 - [Dodi](https://dodi-repacks.site/){target="_blank"}
 - [Gload](https://gload.to/){target="_blank"}
 - [F95Zone](https://f95zone.to/){target="_blank"} [!badge variant="ghost" size="xs" text="Needs account"]

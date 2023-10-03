@@ -88,7 +88,7 @@ Information and guides pertaining to the world of fan translation, everything fr
 
 +++ Software
 - Adobe Software
-	- [Ecoterica Avenue](https://rentry.org/adobesoftware){target="_blank"}
+	- [Esoterica Avenue](https://rentry.org/adobesoftware){target="_blank"}
 	- [Guide by Anna](https://docs.google.com/document/d/17PheyyF9dm7YYjaTZ9JAAY3hhdeIQ7sJ4sylTG9_6xI/edit){target="_blank"}
 	- [macOS Guide](https://telegra.ph/MacOS-Adobe-CC-Guide-11-29){target="_blank"}
 - [Clip Stuio Paint EX](https://www.clipstudio.net/en/function_ex/){target="_blank"}
