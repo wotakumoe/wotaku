@@ -65,10 +65,10 @@ The most important things to get you started.
 - [uBlock Origin](https://ublockorigin.com/){target="_blank"} [!badge variant="ghost" size="xs" text="Browser"]
 
 +++ Browsers
+- [Brave](https://brave.com/){target="_blank"} [!badge variant="ghost" size="xs" text="Android"] [!badge variant="ghost" size="xs" text="iOS"] [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
 - [Iceraven](https://github.com/fork-maintainers/iceraven-browser){target="_blank"} [!badge variant="ghost" size="xs" text="Android"]
 - [Mull](https://github.com/Divested-Mobile/Mull-Fenix){target="_blank"} [!badge variant="ghost" size="xs" text="Android"]
 - [Librewolf](https://librewolf.net/){target="_blank"} [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
-- [Brave](https://brave.com/){target="_blank"} [!badge variant="ghost" size="xs" text="Android"] [!badge variant="ghost" size="xs" text="iOS"] [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
 - [Cromite](https://github.com/uazo/cromite){target="_blank"} [!badge variant="ghost" size="xs" text="Android"]
 
 +++ Downloader
@@ -87,5 +87,6 @@ The most important things to get you started.
 - [Mullvad](https://mullvad.net/){target="_blank"} [!badge variant="ghost" size="xs" text="Paid"]
 - [IVPN](https://www.ivpn.net/){target="_blank"} [!badge variant="ghost" size="xs" text="Paid"]
 - [Windscribe](https://windscribe.com/){target="_blank"} [!badge variant="ghost" size="xs" text="Freemium"]
+- [TunnerBear](https://www.tunnelbear.com/){target="_blank"} [!badge variant="ghost" size="xs" text="Freemium"]
 
 +++
