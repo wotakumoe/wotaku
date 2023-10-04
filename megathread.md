@@ -12,7 +12,7 @@ icon: ":file_cabinet:"
 The most important things to get you started.
 
 
-## Websites
+### Websites
 
 +++ Anime
 - [Aniwave](https://aniwave.to/home){target="_blank"} | [Alt UI](https://9animehq.to/home){target="_blank"} [!badge variant="dark" target="blank" size="xs" text="formerly 9anime"]
@@ -38,7 +38,7 @@ The most important things to get you started.
 +++
 
 
-## Software
+### Software
 
 +++ Android
 - [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://tachiyomi.org/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/){target="_blank"} [!badge variant="ghost" size="xs" text="Manga"]
@@ -59,7 +59,7 @@ The most important things to get you started.
 
 +++
 
-## Essentials
+### Essentials
 
 +++ Adblocker
 - [Adaway](https://adaway.org/){target="_blank"} [!badge variant="ghost" size="xs" text="Android"]
@@ -95,7 +95,7 @@ The most important things to get you started.
 
 ![](https://cdn.apollo.moe/img/web.png){target="_blank"}
 
-# Websites
+## Websites
 
 Online resources for anime, manga, light novels and more. All links have been carefully selected and vetted by our contributors.
 
@@ -119,7 +119,7 @@ Online resources for anime, manga, light novels and more. All links have been ca
 
 ![](/static/banner/anime.png)
 
-## Anime
+### Anime
 
 If you want to get the best quality, use direct download, IRC, or torrent. You can obtain full web release quality on a streaming site that scrapes the official site API, such as [KickAssAnime](https://kickassanime.am/){target="_blank"} for Crunchyroll and Bilibili content. Otherwise, it is hard to maintain the full quality while managing space & traffic. You can [**network stream**](/Guides/ns.md) files from direct download, irc and torrents.
 
@@ -209,7 +209,7 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 
 +++
 
-#### More
+##### More
 
 +++ Anime
 
@@ -259,7 +259,7 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 
 ![](/static/banner/manga.png)
 
-## Manga
+### Manga
 
 For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Madokami**](/Guides/mado.md). They have very little compression, if any.
 
@@ -401,7 +401,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 ![](/static/banner/msuic.png)
 
-## Music
+### Music
 
 +++ :icon-Play: Stream
 
@@ -486,7 +486,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 ![](/static/banner/ln.png)
 
-## Light Novels
+### Light Novels
 
 
 +++ :icon-book: Reader
@@ -531,7 +531,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 
 ![](/static/banner/games.png)
-## Games
+### Games
 
 
 +++ :icon-archive: General
@@ -572,7 +572,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 ![](/static/banner/legal.png)
 
-## Legal
+### Legal
 
 +++ :icon-play: Anime
 
@@ -619,7 +619,7 @@ Websites for volume releases are added [here](/Guides/digim.md){target="_blank"}
 
 +++ :icon-unmute: Music
 
-#### Stream
+##### Stream
 
 - **Freemium**
     - [Spotify](https://spotify.com/){target="_blank"}
@@ -631,7 +631,7 @@ Websites for volume releases are added [here](/Guides/digim.md){target="_blank"}
     - [Qobuz](https://play.qobuz.com/){target="_blank"}
     - [Tidal](https://tidal.com/){target="_blank"}
 
-#### Purchase
+##### Purchase
 
 - **Physical**
     - [Amazon](https://www.amazon.com/){target="_blank"}
@@ -650,7 +650,7 @@ Websites for volume releases are added [here](/Guides/digim.md){target="_blank"}
 
 ![](https://cdn.apollo.moe/img/soft.png){target="_blank"}
 
-# Software
+## Software
 
 Apps and programs for your various devices to take your hobbies wherever you go. Covering (almost) all the operating systems.
 
@@ -658,7 +658,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 ![](/static/banner/and.png)
 
-## Android
+### Android
 
 +++ Anime
 
@@ -746,9 +746,9 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 ![](/static/banner/pc.png)
 
-## PC
+### PC
 
-### Manga
+#### Manga
 
 +++ Online
 
@@ -824,7 +824,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 - [LANraragi](https://github.com/Difegue/LANraragi){target="_blank"} [!badge variant="ghost" size="xs" text="Self-hosted"]
 ===
 
-### Anime
+#### Anime
 
 - [Miru](https://github.com/ThaUnknown/miru/){target="_blank"}
   - Torrent based
@@ -832,7 +832,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
   - Has AL tracking and RSS feed
   - Can stream external magnet link and it'll auto detect the anime.
 
-### Light Novel
+#### Light Novel
 
 - [Kavita](https://github.com/Kareadita/Kavita){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://www.kavitareader.com/){target="_blank"}
 - [Thorium reader](https://github.com/edrlab/thorium-reader){target="_blank"}
@@ -841,7 +841,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 ![](/static/banner/ios.png)
 
-## iOS
+### iOS
 
 +++ Anime
 
@@ -896,7 +896,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 ![](/static/banner/dler.png)
 
-## Downloader
+### Downloader
 
 +++ Anime
 
@@ -992,14 +992,14 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 ![](https://cdn.apollo.moe/img/ms.png){target="_blank"}
 
-# Misc-sites
+## Misc-sites
 Welcome to the misc-sites page, home to various communities, guides, and tools for your otaku needs and interests.
 
 
 ![](/static/banner/info.png)
-## Info
+### Info
 
-### Database & Tracker
+#### Database & Tracker
 
 +++ General
 - [Anilist](https://anilist.co/){target="_blank"}
@@ -1026,7 +1026,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 +++
 
-### Anime
+#### Anime
 
 +++ Index
 
@@ -1065,7 +1065,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 +++
 
-### Manga & LN
+#### Manga & LN
 
 +++ Info
 
@@ -1096,7 +1096,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 
 ![](/static/banner/illust.png)
-## Illustrations
+### Illustrations
 - [Pixiv](https://www.pixiv.net){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
 - [Anime Pictures](https://anime-pictures.net/){target="_blank"}
 - [Danbooru](https://danbooru.donmai.us/){target="_blank"} [!badge variant="success" target="blank" text="SFW Ver"](https://safebooru.donmai.us/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
@@ -1109,7 +1109,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [/w/](http://catalog.neet.tv/w/) [!badge variant="danger" size="xs" text="R+"]
 
 ![](/static/banner/jp.png)
-## Japan
+### Japan
 +++ Culture & History
 
 - [Web Japan](https://web-japan.org/){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Old"](https://web-japan.org/atlas/index.html){target="_blank"}
@@ -1119,7 +1119,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Japan: Below the tip of the iceberg](https://prezi.com/9_lvn6v3fzgt/japan-below-the-tip-of-the-iceberg/){target="_blank"} | [Gaijin](https://www.reddit.com/r/IcebergCharts/comments/n4edop/gaijin_foreigners_in_japan_iceberg/){target="_blank"}
 - [JTCO](https://www.jtco.or.jp/en/){target="_blank"}
 
-#### Books
+##### Books
 - [The Cambridge History of Japan](https://www.cambridge.org/core/series/cambridge-history-of-japan/18F050C94D8B0E2BFAAF5CCAE19E87FE){target="_blank"}
 - [The Japanese Experience: A Short History of Japan](https://www.amazon.com/Japanese-Experience-Short-History-Civilisation/dp/0520225600){target="_blank"}
 - [A Short History of Japan: From Samurai to Sony](https://www.amazon.com/Short-History-Japan-Samurai-Sony/dp/1865085162){target="_blank"}
@@ -1127,14 +1127,14 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 +++ Mythology
 
-#### Websites
+##### Websites
 - [Japanese Gods](https://mythopedia.com/topics/japanese-gods){target="_blank"}
 - [Japanese folklore and mythology](https://www.newworldencyclopedia.org/entry/Japanese_folklore_and_mythology){target="_blank"}
 - [Yokai.com](https://yokai.com/){target="_blank"}
 - [Home of Japanese Mythology 'SHIMANE'](https://www.kankou-shimane.com/en/japanesemythology/){target="_blank"}
 - [Folktales from Japan](https://sites.pitt.edu/~dash/japan.html){target="_blank"} [!button target="blank" variant="primary" size="xs" text="Books"](https://sites.pitt.edu/~dash/japantales.html){target="_blank"}
 
-#### Books
+##### Books
 - [The Japanese Myths: A Guide to Gods, Heroes and Spirits](https://www.amazon.com/Japanese-Myths-Guide-Heroes-Spirits/dp/0500252319){target="_blank"}
 - [Kwaidan: Stories and Studies of Strange Things](https://www.amazon.com/Kwaidan-Stories-Studies-Strange-Classics/dp/0804836620){target="_blank"}
 - [The Kojiki: An Account of Ancient Matters](https://www.amazon.com/Kojiki-Account-Ancient-Translations-Classics/dp/0231163894){target="_blank"}
@@ -1143,7 +1143,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Yokai Attack!: The Japanese Monster Survival Guide](https://www.amazon.com/Yokai-Attack-Japanese-Monster-Survival/dp/480531219X){target="_blank"}
 - [Yurei Attack!: The Japanese Ghost Survival Guide](https://www.amazon.com/Yurei-Attack-Japanese-Survival-ATTACK/dp/4805312149){target="_blank"}
 
-#### Youtube
+##### Youtube
 - [Mythology & Fiction Explained] [Japanese Folklore](https://www.youtube.com/playlist?list=PLgZdqfi4SZ0q-BLpzfuzWrXgxkyNcqagc){target="_blank"}
 - [GenoSamuel3] [Yokai: Monsters of Japan](https://www.youtube.com/playlist?list=PLiHkvPlOtVBCPoN70Edn_Sosl5PeeAiFW){target="_blank"}
 - [Inaka Adventure] [Japanese WEIRD Yokai, Monsters & Folklore Compilation](https://www.youtube.com/watch?v=LEH_9iygWvw){target="_blank"}
@@ -1222,7 +1222,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 +++ Explainers
 
-#### Japan
+##### Japan
 - [Japan's History and Geography](https://www.youtube.com/playlist?list=PLZZ0o0vuqmrOKvwEDnlb_ogILpBlo3RoW){target="_blank"}
 - [Understanding the Japanese Writing System](https://www.youtube.com/watch?v=r7a8OjvViwE){target="_blank"}
 - [the peculiar case of japanese web design](https://sabrinas.space/) [!button target="blank" variant="primary" size="xs" text="Video"](https://www.youtube.com/watch?v=z6ep308goxQ){target="_blank"}
@@ -1231,7 +1231,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Social problems in Japan](https://www.youtube.com/playlist?list=PLpIWoYf9KNFV_I-719B3pk673xaHZ6fYY){target="_blank"}
 - [Why Most Japanese Clip Art Looks Like This](https://www.youtube.com/watch?v=g3CyRZY90M4){target="_blank"}
 
-#### Otaku
+##### Otaku
 - [Doujinshi: Japan's Most Misunderstood Medium](https://www.youtube.com/watch?v=5N0VerI9DxE){target="_blank"}
 - [What is Touhou? A Brief Introduction](https://www.youtube.com/watch?v=livReBXdiek){target="_blank"}
 - [Explaining Vocaloid in under 3 minutes](https://www.youtube.com/watch?v=GODXMGAMpVc){target="_blank"}
@@ -1248,7 +1248,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 > You can use [**Anna’s Archive**](https://annas-archive.org){target="_blank"}, [**Z-Library**](https://singlelogin.re/){target="_blank"}, [**PDF Drive**](https://www.pdfdrive.com/){target="_blank"} & [**Mobilism**](https://forum.mobilism.org/viewforum.php?f=106){target="_blank"} to download books.
 
 ![](/static/banner/others.png)
-## Others
+### Others
 
 +++ Recommendations
 
@@ -1324,7 +1324,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 
 ![](/static/banner/tools.png)
-## Tools
+### Tools
 
 +++ Analysis
 - [anime.plus](https://anime.plus/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/anime-plus/graph){target="_blank"} [!badge variant="ghost" size="xs" text="MAL"]
@@ -1354,7 +1354,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 
 ![](/static/banner/vt2.png)
-## VTuber
+### VTuber
 
 +++ General
 
@@ -1416,7 +1416,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [hololive ERROR](https://store.steampowered.com/app/2062550/hololive_ERROR/){target="_blank"}
 
 +++ Tools
-#### 2D
+##### 2D
 - [**Live2D**](https://www.live2d.com/en/about/){target="_blank"}
     - Needs model split into many different layers, you can use Photoshop(paid), Clip Studio Paint(paid) or Krita(free) for this
     - Very feature-rich and difficult program and takes a lot of time to practice
@@ -1431,7 +1431,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - Costs 8,19€ (one-time)
     - Has to be used with a tracking input application like [**ifacialmocap**](https://apps.apple.com/us/app/ifacialmocap/id1489470545){target="_blank"} [!badge variant="ghost" size="xs" text="iOS"], [**Facemotion3d**](https://apps.apple.com/us/app/facemotion3d/id1507538005){target="_blank"} [!badge variant="ghost" size="xs" text="iOS"], [**Meowface**](https://play.google.com/store/apps/details?id=com.suvidriel.meowface&hl=en_US){target="_blank"} [!badge variant="ghost" size="xs" text="Android"]
 
-#### 3D
+##### 3D
 - [**VRoidStudio**](https://vroid.com/en/studio){target="_blank"}
      - Used for model creation
      - Very easy to use, free but not really professional, most of the time you will not get great results.
@@ -1452,7 +1452,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
      - Free
      - Feature rich and great functionality, you may still prefer 3Tene for its UI, just test both out.
 
-#### Tutorials
+##### Tutorials
 - **2D**
     - Although they may not be 100% up to date, [**Brian Tsui**](https://www.youtube.com/@brian_tsui/){target="_blank"}'s tutorials give a good understanding of how rigging works and what you need to know before you start
         - Introduction to Tools and Technical Concepts [Video](https://www.youtube.com/watch?v=Wr37T3S6LQU&list=PLhha8OGApHGMkC4F41zN3fFaSBRu-YIrc){target="_blank"}
@@ -1476,7 +1476,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 +++
 
 ![](/static/banner/random.png)
-## Random
+### Random
 
 +++ Drawing
 
@@ -1529,7 +1529,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 +++ Western
 
-#### Comics
+##### Comics
 - Reader
     - [Comicastle](https://www.comicastle.org/){target="_blank"}
     - [Comic Extra](https://ww1.comicextra.com/){target="_blank"}
@@ -1556,14 +1556,14 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 ![](https://cdn.apollo.moe/img/addons.png){target="_blank"}
 
-# Add-ons
+## Add-ons
 
 Various add-ons to enhance your otaku experience. Includes anime/manga tracking, Discord bots, browser extensions, scripts and more!
 
 
 
 ![](/static/banner/apps.png)
-## Apps
+### Apps
 
 +++ Essentials
 
@@ -1622,7 +1622,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 
 ![](/static/banner/tools.png)
 
-## Tools
+### Tools
 
 
 +++ Anime
@@ -1737,7 +1737,7 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 +++
 
 ![](/static/banner/ext.png)
-## Extensions
+### Extensions
 
 
 +++ Anime
@@ -1769,7 +1769,7 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 
 ![](/static/banner/script.png)
 
-## Scripts
+### Scripts
 
 
 +++ Anime
@@ -1818,11 +1818,11 @@ Active maintenance is necessary for scripts to work properly. If a script fails,
 !!!
 
 ![](https://cdn.apollo.moe/img/jp.png){target="_blank"}
-# Learning Japanese
+## Learning Japanese
 Interested in learning the japanese language? Here you can find resources to aid you on your journey.
 
 ![](/static/banner/sites.png)
-## Websites
+### Websites
 
 +++ Starter
 - [Tatsumoto's Guide to Learn Japanese](https://tatsumoto.neocities.org/){target="_blank"}
@@ -1895,7 +1895,7 @@ Interested in learning the japanese language? Here you can find resources to aid
     - [NALA](www.tufs.ac.jp/st/personal/99/kawatsu/nala/)
 
 +++ Youtube
-#### Channels
+##### Channels
 - Grammar/Guide
     - [JapanesePod101](https://www.youtube.com/@JapanesePod101){target="_blank"}
     - [Japanese with Yuka](https://www.youtube.com/@japanesewithyuka){target="_blank"}
@@ -1917,13 +1917,13 @@ Interested in learning the japanese language? Here you can find resources to aid
     - [YUYUの日本語Podcast](https://www.youtube.com/@yuyunihongopodcast){target="_blank"}
     - [Seeder Playlist](https://zenith-raincoat-5cf.notion.site/Japanese-Seeder-Playlist-15fc740a87d843a2a2a5f36a913af551){target="_blank"}
 
-#### Playlists
+##### Playlists
 - [Learn Japanese From Zero!] [Japanese From Zero! Books 1-5 VIDEOS](https://www.youtube.com/playlist?list=PLOcym2c7xnBwU12Flkm5RcLIEhvURQ8TB){target="_blank"}
 - [ToKini Andy] [【JLPT N5】GENKI Grammar Made Clear](https://www.youtube.com/playlist?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2){target="_blank"}
 - [ToKini Andy] [【JLPT N4】GENKI 2 Grammar Made Clear](https://www.youtube.com/playlist?list=PLA_RcUI8km1P8bJzp3_TMMv1jhL3BcKQk){target="_blank"}
 - [Folktales](https://www.youtube.com/playlist?list=PL1DnK3_eexijBUgFRq9Vlc1mW3gQv6gPf){target="_blank"} | [2](https://www.youtube.com/playlist?list=PL1DnK3_eexigbTRh6rIZIIY8MJfvnlw9Q){target="_blank"}
 
-#### Videos
+##### Videos
 - [ToKini Andy] [How I would learn japanese (if I could start over)](https://www.youtube.com/watch?v=L1NQoQivkIY){target="_blank"}
 - [JapanesePod101] [Learn ALL hiragana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=6p9Il_j0zjc){target="_blank"}
 - [JapanesePod101] [Learn ALL katakana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=s6DKRgtVLGA){target="_blank"}
@@ -2001,7 +2001,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 +++
 
 ![](/static/banner/books.png)
-## Books
+### Books
 
 +++ N5 & N4
 - Grammar
@@ -2059,7 +2059,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 +++
 
 ![](/static/banner/software.png)
-## Software
+### Software
 +++ Anki
 - [Anki](https://apps.ankiweb.net/){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.ichi2.anki){target="_blank"} [!badge variant="dark" target="blank" icon="/static/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387){target="_blank"} [!badge variant="dark" target="blank" text="Guide"](https://tatsumoto.neocities.org/blog/setting-up-anki){target="_blank"}
 - Card templates
@@ -2121,7 +2121,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 
 
 ![](/static/banner/comms.png)
-## Communities
+### Communities
 - [Japanese Language Study Space](https://discord.gg/jlss){target="_blank"}
 - [Marshall's Server](https://discord.com/invite/ejmrfwSYAH){target="_blank"}
 - [NativShark](https://discord.com/invite/nativshark){target="_blank"}
@@ -2131,14 +2131,14 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [JPDB](https://discord.gg/jWwVD7D2sZ){target="_blank"}
 
 ![](https://cdn.apollo.moe/img/merch.png){target="_blank"}
-# Merch
+## Merch
 
 Looking to buy memorabilia from your favourite series and support the creators? Here you will find information on figurines, plushes, books, CDs and more!
 
 
 ==- :warning: Important Information
 
-#### Delivery Types
+##### Delivery Types
 
 | Delivery Types             | Value        | Shipping Speed | Offered as Option | Mode of Tranportation { class="compact" } |
 |---|---|---|---|---| 
@@ -2166,14 +2166,14 @@ Looking to buy memorabilia from your favourite series and support the creators? 
 There are several ways to avoid paying for customs taxes. Additional information can be found [**here**](https://buyfags.moe/Shipping#How_do_I_avoid_paying_customs_taxes.3F){target="_blank"}. Be sure to visit the country specific information from the link provided.
 !!!
 
-#### Agent Types
+##### Agent Types
 
 - **Forwarder**
     - Used in cases when you want to buy goods/Items, but the service or person doesn't ship overseas. You then rely on a forwarder, that will give you a temporary Japanese address to which you can ship the things you need. The forwarder will charge you storage fees + international shipping to send the goods/items to you. You can simply think of this as someone that literally forwards the goods to you, because you don't have a Japanese address of your own.
 - **Proxy**
     - Someone acting on your behalf that buys, accepts, and ships the goods to you, unlike a forwarder. Generally, recommended for beginners (especially if you are nervous about buying stuff online), however more expensive. They will charge you the purchase fees for the goods + domestic shipping + international shipping fees + any additional fees as per their policy. 
 
-#### Additional Guides
+##### Additional Guides
 - [Types of Merch](https://buyfags.moe/Details_for_each_type_of_buyfaggotry){target="_blank"}
     - An overall good coverage of all the types of merch out there
 - [Bootleg Guide](https://solarisjapan.com/blogs/news/ultimate-guide-bootlegs-fake-anime-figures){target="_blank"}
@@ -2185,7 +2185,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide){target="_blank"} 
 ===
 
 
-## Guides
+### Guides
 - [A Complete Guide by BuyFag](https://www.buyfags.moe/Full_guide){target="_blank"}
 - [Bootleg Figure Spotting Guide by Solaris](https://solarisjapan.com/blogs/news/ultimate-guide-bootlegs-fake-anime-figures){target="_blank"}
 - [Dakimakuras guide](https://daki.info/){target="_blank"}
@@ -2196,7 +2196,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide){target="_blank"} 
 - [Gunpla Wiki r/Gunpla](https://www.reddit.com/r/Gunpla/wiki/){target="_blank"}
 - [Music Stuff from Japan by Dimsim](https://www.reddit.com/r/japanesemusic/comments/dagaj8/how_to_buy_music_stuff_from_japan_a_guide/){target="_blank"}
 
-## Info
+### Info
 - [Buyfrag Store Digest](https://docs.google.com/document/u/0/d/1W4fAKQzCOhiWK6mJ_tvkZHIfzfzBZN57oGSaVB47TCQ/pub){target="_blank"}
 - [JOSIC](https://www.japanonlineshopping.com/){target="_blank"}
 - [Gundam Kits Collection](https://www.gundamkitscollection.com/){target="_blank"}
@@ -2205,7 +2205,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide){target="_blank"} 
 - [Buying visual novels](https://reddit.com/r/visualnovels/wiki/buy){target="_blank"}
 - [Otaku Calendar](https://otakucalendar.com/){target="_blank"}
 
-## Communities
+### Communities
 - [My Figure Collection](https://myfigurecollection.net/){target="_blank"}
 - [Anime Deals](https://www.reddit.com/r/AnimeDeals){target="_blank"}
 - [Anime Figures](https://www.reddit.com/r/AnimeFigures/){target="_blank"}
@@ -2215,7 +2215,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide){target="_blank"} 
 - [Gunpla](https://www.reddit.com/r/Gunpla){target="_blank"}
 - [Dakimakuras](https://www.reddit.com/r/Dakimakuras){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
 
-## Retailers
+### Retailers
 - [AmiAmi](https://www.amiami.com){target="_blank"}
 - [Big in Japan](http://biginjap.com/){target="_blank"}
 - [Crunchyroll](https://store.crunchyroll.com/){target="_blank"}
@@ -2226,7 +2226,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide){target="_blank"} 
 - [Mandarake](https://order.mandarake.co.jp/order/){target="_blank"}
 - [Otaku Mode](https://otakumode.com/){target="_blank"}
 
-## Agents
+### Agents
 - [Black Sheep](https://blackship.com/){target="_blank"}
 - [Buyee](https://buyee.jp/?lang=en){target="_blank"}
 - [Buy Smart Japan](https://www.buysmartjapan.com/){target="_blank"}
@@ -2236,13 +2236,13 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide){target="_blank"} 
 - [Zen Market](https://zenmarket.jp/en/){target="_blank"}
 
 
-## Tracker
+### Tracker
 - [Buy finder](https://buyfinder.moe/){target="_blank"}
 - [Buy Friend](https://buyfriend.moe/){target="_blank"}
 - [Manga Restock Dates Spreadsheet](https://docs.google.com/spreadsheets/d/1tOGtBsGqNvlOxCBOg3HxBkvgqQyC_ehjBvr4Bx1PG4M/){target="_blank"}
 
 
-## Manga, Anime, OST & Others
+### Manga, Anime, OST & Others
 - [CDJapan](https://www.cdjapan.co.jp/){target="_blank"} [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="LN"]  [!badge variant="ghost" size="xs" text="Merch"] [!badge variant="ghost" size="xs" text="Physical"]
 - [Play-Asia](https://www.play-asia.com/){target="_blank"} [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Merch"] [!badge variant="ghost" size="xs" text="Physical"]
 - [HMV & Books](https://www.hmv.co.jp/){target="_blank"} [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Merch"] [!badge variant="ghost" size="xs" text="Physical"]
@@ -2252,19 +2252,19 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide){target="_blank"} 
 - [Recochoku](https://recochoku.jp/){target="_blank"} [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Digital"]
 
 ![](https://cdn.apollo.moe/img/scan.png){target="_blank"}
-# Scanlation
+## Scanlation
 Information and guides pertaining to the world of fan translation, everything from behind-the-scenes looks to tutorials.
 
 
 ![](/static/banner/comms.png)
-## Communities
+### Communities
 - [Scanner Usage School Server](https://discord.com/invite/NCzxVB9){target="_blank"}
 - [r/Scanlation](https://www.reddit.com/r/Scanlation/){target="_blank"}
 - [Manga Helpers](https://mangahelpers.com/){target="_blank"}
 - [Font recommendations](https://discord.gg/kgZ4MXgzpx){target="_blank"}
 
 ![](/static/banner/raw.png)
-## Raw
+### Raw
 
 +++ Reader
 
@@ -2297,7 +2297,7 @@ Information and guides pertaining to the world of fan translation, everything fr
 +++
 
 ![](/static/banner/res.png)
-## Resources
+### Resources
 
 +++ Assets
 - [Jaded Network's SFX library](http://thejadednetwork.com/sfx/){target="_blank"}
@@ -2331,7 +2331,7 @@ Information and guides pertaining to the world of fan translation, everything fr
 +++
 
 ![](/static/banner/tools.png)
-## Tools
+### Tools
 
 +++ Software
 - Adobe Software
@@ -2365,12 +2365,12 @@ Information and guides pertaining to the world of fan translation, everything fr
 +++
 
 ![](https://cdn.apollo.moe/img/nsfw.png){target="_blank"}
-# NSFW
+## NSFW
 Everyone has to let off some steam once in a while, we don't judge.
 
 
 ![](/static/banner/sites.png)
-## Websites
+### Websites
 
 
 +++ Anime
@@ -2441,7 +2441,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 +++
 
 ![](/static/banner/software.png)
-## Software
+### Software
 
 +++ Android
 - [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY){target="_blank"}
@@ -2479,7 +2479,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 
 ![](/static/banner/others.png)
 
-## Others
+### Others
 +++ Scripts
 - E-HENTAI-VIEW-ENHANCE [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/397848-e-hentai-view-enhance){target="_blank"}
 - Eza's Image Glutton [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/4713-eza-s-image-glutton){target="_blank"}
@@ -2501,12 +2501,12 @@ Everyone has to let off some steam once in a while, we don't judge.
 
 
 ![](https://cdn.apollo.moe/img/comms.png){target="_blank"}
-# Communities
+## Communities
 A list of other otaku communities to check out based on your specific interests.
 
 
 
-## Forums
+### Forums
 - [Animesuki](https://forums.animesuki.com/){target="_blank"}
 - [Anime Music Videos](https://www.animemusicvideos.org/forum/){target="_blank"}
 - [Fuwanovel](https://forums.fuwanovel.net/){target="_blank"}
@@ -2515,7 +2515,7 @@ A list of other otaku communities to check out based on your specific interests.
 - [SquidBoard](https://www.squid-board.org/){target="_blank"}
 
 
-## Discord servers
+### Discord servers
 - [Doujin Cafe](https://discord.gg/doujincafe){target="_blank"}
 - [Japanese Language Study Space](https://discord.gg/jlss){target="_blank"}
 - [Mangadex](https://discord.com/invite/mangadex){target="_blank"}
@@ -2530,7 +2530,7 @@ A list of other otaku communities to check out based on your specific interests.
 - [TypesettingTools](https://discord.com/invite/AZaVyPr){target="_blank"}
 
 
-## Subreddits
+### Subreddits
 - [Anime](https://www.reddit.com/r/anime){target="_blank"}
 - [Manga](https://www.reddit.com/r/manga){target="_blank"}
 - [Manhwa](https://www.reddit.com/r/manhwa){target="_blank"}
@@ -2545,7 +2545,7 @@ A list of other otaku communities to check out based on your specific interests.
 - [Vocaloid](https://www.reddit.com/r/vocaloid/){target="_blank"}
 
 
-## Boards
+### Boards
 - [Anime & Manga](https://boards.4channel.org/a/){target="_blank"} [!badge variant="ghost" size="xs" text="R"]
 - [Anime/Cute](https://boards.4channel.org/c/catalog){target="_blank"} [!badge variant="ghost" size="xs" text="R"]
 - [Anime/Wallpapers](https://boards.4channel.org/w/catalog){target="_blank"} [!badge variant="ghost" size="xs" text="R"]

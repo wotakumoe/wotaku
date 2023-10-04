@@ -26,15 +26,23 @@ icon: ":file_cabinet:"
 def remove_frontmatter(content: str) -> str:
     return re.sub(r'^---[\s\S]*?---', '', content, flags=re.MULTILINE)
 
-def patch_quick_links(content: str) -> str:
-    return re.sub(r'^# Quick Start', '## Quick Start', content, flags=re.MULTILINE)
+def inc(match):
+    heading_level = match.group(1)
+    heading_text = match.group(2)
+    new_heading_level = '#' * (len(heading_level) + 1)
+    new_heading = f"{new_heading_level} {heading_text}"
+    return new_heading
+
+
+def increment_headings(content: str) -> str:
+    return re.sub(r'^(#+)\s(.+)$', inc, content, flags=re.MULTILINE)
 
 def output():
     content = ""
     for file in files:
             with open(file, "r") as f:
                 filecont = f.read()
-                newcont = patch_quick_links(remove_frontmatter(filecont))
+                newcont = increment_headings(remove_frontmatter(filecont))
                 content += newcont
     return content
 
