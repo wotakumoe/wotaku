@@ -14,13 +14,13 @@ files = [
     "comms.md"
 ]
 
-frontmatter = """
----
+frontmatter = """---
 label: Megathread
 order: -100
 icon: ":file_cabinet:"
 ---
 # Megathread
+
 """
 
 def output():

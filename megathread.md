@@ -1,10 +1,10 @@
-
 ---
 label: Megathread
 order: -100
 icon: ":file_cabinet:"
 ---
 # Megathread
+
 
 
 ![](https://cdn.apollo.moe/img/qs.png){target="_blank"}
