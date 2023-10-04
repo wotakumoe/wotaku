@@ -1,0 +1,36 @@
+name: Update Megathread
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update:
+    name: Update Megathread
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Update
+        shell: bash
+        run: |
+          python .github/megathread.py
+
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          committer_name: GitHub Actions
+          committer_email: 41898282+github-actions[bot]@users.noreply.github.com
+          message: Update megathread
+          push: true
