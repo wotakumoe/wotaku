@@ -23,13 +23,19 @@ icon: ":file_cabinet:"
 
 """
 
+def remove_frontmatter(content: str) -> str:
+    return re.sub(r'^---[\s\S]*?---', '', content, flags=re.MULTILINE)
+
+def patch_quick_links(content: str) -> str:
+    return re.sub(r'^# Quick Start', '## Quick Start', content, flags=re.MULTILINE)
+
 def output():
     content = ""
     for file in files:
             with open(file, "r") as f:
                 filecont = f.read()
-                frontmatterless = re.sub(r'^---[\s\S]*?---', '', filecont, flags=re.MULTILINE)
-                content += frontmatterless
+                newcont = patch_quick_links(remove_frontmatter(filecont))
+                content += newcont
     return content
 
 def main():

@@ -8,7 +8,7 @@ icon: ":file_cabinet:"
 
 
 ![](https://cdn.apollo.moe/img/qs.png){target="_blank"}
-# Quick Start
+## Quick Start
 The most important things to get you started.
 
 
