@@ -453,7 +453,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Dodi](https://dodi-repacks.site/){target="_blank"}
 - [Gload](https://gload.to/){target="_blank"}
 - [F95Zone](https://f95zone.to/){target="_blank"} [!badge variant="ghost" size="xs" text="Needs account"]
-- [GOG](https://gog-games.to/){target="_blank"}
+- [GOG](https://gog-games.to/){target="_blank"}  
 - [Doujin Style](https://doujinstyle.com/){target="_blank"} [!badge variant="ghost" size="xs" text="Doujin"]
 - [Anime-sharing](http://www.anime-sharing.com/forum/)
 - [Crackhub Scene](https://scene.crackhub.site/){target="_blank"}
