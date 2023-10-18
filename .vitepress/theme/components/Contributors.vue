@@ -20,11 +20,6 @@ const contribs = [
     site: "https://github.com/TubaApollo",
   },
   {
-    name: "Duckling",
-    avatar: "https://github.com/anotherduckling.png",
-    site: "https://github.com/anotherduckling",
-  },
-  {
     avatar: "/pfp/meme.png",
     name: "Memenami",
   },
