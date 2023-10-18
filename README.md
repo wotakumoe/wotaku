@@ -3,7 +3,6 @@
 
 Welcome to Wotaku! Here you'll find a diverse range of resources related to japanese media and language.
 
-
 <p align="center">
   <a href="https://discord.gg/vShRGx8ZBC">
     <img src="https://invidget.switchblade.xyz/vShRGx8ZBC" alt="Image Description" style="width: 400px; display: block; margin: 0 auto;">
