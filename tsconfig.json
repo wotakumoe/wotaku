@@ -3,10 +3,7 @@
     "baseUrl": ".",
     "module": "esnext",
     "target": "esnext",
-    "lib": [
-      "DOM",
-      "ESNext"
-    ],
+    "lib": ["DOM", "ESNext"],
     "strict": true,
     "jsx": "preserve",
     "esModuleInterop": true,
@@ -16,18 +13,8 @@
     "noUnusedLocals": true,
     "strictNullChecks": true,
     "forceConsistentCasingInFileNames": true,
-    "types": [
-      "vite/client",
-      "vite-plugin-pwa/client",
-      "vitepress"
-    ]
+    "types": ["vite/client", "vite-plugin-pwa/client", "vitepress"]
   },
-  "include": [
-    "./.vitepress/**/*.ts",
-    "./.vitepress/**/*.vue"
-  ],
-  "exclude": [
-    "dist",
-    "node_modules"
-  ]
+  "include": ["./.vitepress/**/*.ts", "./.vitepress/**/*.vue"],
+  "exclude": ["dist", "node_modules"]
 }

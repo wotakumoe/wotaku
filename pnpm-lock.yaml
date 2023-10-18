@@ -6,23 +6,23 @@ settings:
 
 dependencies:
   '@mdit/plugin-align':
-    specifier: ^0.4.8
-    version: 0.4.8
+    specifier: ^0.5.0
+    version: 0.5.0(markdown-it@13.0.2)
   '@mdit/plugin-figure':
-    specifier: ^0.4.8
-    version: 0.4.8
+    specifier: ^0.5.0
+    version: 0.5.0(markdown-it@13.0.2)
   '@mdit/plugin-footnote':
-    specifier: ^0.4.8
-    version: 0.4.8
+    specifier: ^0.5.0
+    version: 0.5.0(markdown-it@13.0.2)
   '@mdit/plugin-img-lazyload':
-    specifier: ^0.4.8
-    version: 0.4.8
+    specifier: ^0.5.0
+    version: 0.5.0(markdown-it@13.0.2)
   '@mdit/plugin-img-size':
-    specifier: ^0.4.8
-    version: 0.4.8
+    specifier: ^0.5.0
+    version: 0.5.0(markdown-it@13.0.2)
   '@mdit/plugin-mark':
-    specifier: ^0.4.8
-    version: 0.4.8
+    specifier: ^0.5.0
+    version: 0.5.0(markdown-it@13.0.2)
   '@resvg/resvg-js':
     specifier: ^2.5.0
     version: 2.5.0
@@ -230,7 +230,7 @@ packages:
     engines: {node: '>=6.0.0'}
     dependencies:
       '@jridgewell/gen-mapping': 0.3.3
-      '@jridgewell/trace-mapping': 0.3.19
+      '@jridgewell/trace-mapping': 0.3.20
     dev: false
 
   /@antfu/install-pkg@0.1.1:
@@ -296,7 +296,7 @@ packages:
     dependencies:
       '@babel/types': 7.23.0
       '@jridgewell/gen-mapping': 0.3.3
-      '@jridgewell/trace-mapping': 0.3.19
+      '@jridgewell/trace-mapping': 0.3.20
       jsesc: 2.5.2
     dev: false
 
@@ -1705,7 +1705,7 @@ packages:
     dependencies:
       '@jridgewell/set-array': 1.1.2
       '@jridgewell/sourcemap-codec': 1.4.15
-      '@jridgewell/trace-mapping': 0.3.19
+      '@jridgewell/trace-mapping': 0.3.20
     dev: false
 
   /@jridgewell/resolve-uri@3.1.1:
@@ -1722,74 +1722,106 @@ packages:
     resolution: {integrity: sha512-UTYAUj/wviwdsMfzoSJspJxbkH5o1snzwX0//0ENX1u/55kkZZkcTZP6u9bwKGkv+dkk9at4m1Cpt0uY80kcpQ==}
     dependencies:
       '@jridgewell/gen-mapping': 0.3.3
-      '@jridgewell/trace-mapping': 0.3.19
+      '@jridgewell/trace-mapping': 0.3.20
     dev: false
 
   /@jridgewell/sourcemap-codec@1.4.15:
     resolution: {integrity: sha512-eF2rxCRulEKXHTRiDrDy6erMYWqNw4LPdQ8UQA4huuxaQsVeRPFl2oM8oDGxMFhJUWZf9McpLtJasDDZb/Bpeg==}
     dev: false
 
-  /@jridgewell/trace-mapping@0.3.19:
-    resolution: {integrity: sha512-kf37QtfW+Hwx/buWGMPcR60iF9ziHa6r/CZJIHbmcm4+0qrXiVdxegAH0F6yddEVQ7zdkjcGCgCzUu+BcbhQxw==}
+  /@jridgewell/trace-mapping@0.3.20:
+    resolution: {integrity: sha512-R8LcPeWZol2zR8mmH3JeKQ6QRCFb7XgUhV9ZlGhHLGyg4wpPiPZNQOOWhFZhxKw8u//yTbNGI42Bx/3paXEQ+Q==}
     dependencies:
       '@jridgewell/resolve-uri': 3.1.1
       '@jridgewell/sourcemap-codec': 1.4.15
     dev: false
 
-  /@mdit/plugin-align@0.4.8:
-    resolution: {integrity: sha512-n6dNMqXb2wZmQ2dod8fq18ehEq+KtMNFoDpC6H3oCaAv/kXT7fYSry0fqrFBP5I3l8yevrgAwo+zZC+c3cyZig==}
-    engines: {node: '>= 14'}
+  /@mdit/plugin-align@0.5.0(markdown-it@13.0.2):
+    resolution: {integrity: sha512-k75Y190Bgq1apmGyJoxMPIQCN0F++icUqV4TXwqxT0G0qf2us2oW0JnbE+ZXhp1/SqS7WdhDS/uin7QH3J8cKA==}
+    engines: {node: '>= 18'}
+    peerDependencies:
+      markdown-it: ^13.0.2
+    peerDependenciesMeta:
+      markdown-it:
+        optional: true
     dependencies:
-      '@mdit/plugin-container': 0.4.8
-      '@types/markdown-it': 12.2.3
+      '@mdit/plugin-container': 0.5.0(markdown-it@13.0.2)
+      '@types/markdown-it': 13.0.2
       markdown-it: 13.0.2
     dev: false
 
-  /@mdit/plugin-container@0.4.8:
-    resolution: {integrity: sha512-ruiP9XrJ6Uaru/9ZO7iBGm96Fiqr/4Ecn6zHER3/GzWpRJ9oPjrDBWoQ9eFrmINoq1C89puZG0lmAJJ9KCTeAw==}
-    engines: {node: '>= 14'}
+  /@mdit/plugin-container@0.5.0(markdown-it@13.0.2):
+    resolution: {integrity: sha512-B1hfGaQINDfRU2Sv1qGDJ4qovF/ziirLuh016H0luRxmLFu7B1fSr7fmjcwmppQcvYPUNf1KO6jFBw0jwXIN2g==}
+    engines: {node: '>= 18'}
+    peerDependencies:
+      markdown-it: ^13.0.2
+    peerDependenciesMeta:
+      markdown-it:
+        optional: true
     dependencies:
-      '@types/markdown-it': 12.2.3
+      '@types/markdown-it': 13.0.2
       markdown-it: 13.0.2
     dev: false
 
-  /@mdit/plugin-figure@0.4.8:
-    resolution: {integrity: sha512-fzFwKlE34pnenqAshqHtCrgv5Ro9QE0Cjd0BR/wxkFCy4ZyyVHZUNA007HOz/j9t5ryVimdZQPcqfcQEcBk8sA==}
-    engines: {node: '>= 14'}
+  /@mdit/plugin-figure@0.5.0(markdown-it@13.0.2):
+    resolution: {integrity: sha512-08qyI37MrOjzDgr9XMKxe/4l50l7pRKGkwrby6Wx+b0uyitIf2FXX0gB0rPsXAwUFLkaa8r+uvQg6bWGznQSYQ==}
+    engines: {node: '>= 18'}
+    peerDependencies:
+      markdown-it: ^13.0.2
+    peerDependenciesMeta:
+      markdown-it:
+        optional: true
     dependencies:
-      '@types/markdown-it': 12.2.3
+      '@types/markdown-it': 13.0.2
       markdown-it: 13.0.2
     dev: false
 
-  /@mdit/plugin-footnote@0.4.8:
-    resolution: {integrity: sha512-D2OOOoiMEdgI4p5NAtAK8wjOK3th4qIB6ZkOZ38USN+nzTwNy51Prq/elKiqhEd95q0BtWobrPsrY7qO1BW7kA==}
-    engines: {node: '>= 14'}
+  /@mdit/plugin-footnote@0.5.0(markdown-it@13.0.2):
+    resolution: {integrity: sha512-OexmXxIbzWg4l4bX/XDxvCP5Hs0MxIwBIptJsJyLSl8a0LL2jBywed04SduXomLRaKIPldE1ix6D5Q1IMfUNrA==}
+    engines: {node: '>= 18'}
+    peerDependencies:
+      markdown-it: ^13.0.2
     dependencies:
-      '@types/markdown-it': 12.2.3
+      '@types/markdown-it': 13.0.2
       markdown-it: 13.0.2
     dev: false
 
-  /@mdit/plugin-img-lazyload@0.4.8:
-    resolution: {integrity: sha512-GGppqJQhl5pZ2CftLxstxMVSZQCdOiJB/1aKEMjpi+EehYV1MlKPzaQp+XTyVDJAkv/k6pe+91ZnsSZgHnIUcA==}
-    engines: {node: '>= 14'}
+  /@mdit/plugin-img-lazyload@0.5.0(markdown-it@13.0.2):
+    resolution: {integrity: sha512-xhwDVedwqokv4GSw9nFT9wHboLkCSynOitBrdXBbemNfIlhOHG0a7590Cy1WIGpEcX2dx6E4Y5PW7tuvJv/K1A==}
+    engines: {node: '>= 18'}
+    peerDependencies:
+      markdown-it: ^13.0.2
+    peerDependenciesMeta:
+      markdown-it:
+        optional: true
     dependencies:
-      '@types/markdown-it': 12.2.3
+      '@types/markdown-it': 13.0.2
       markdown-it: 13.0.2
     dev: false
 
-  /@mdit/plugin-img-size@0.4.8:
-    resolution: {integrity: sha512-+fkNRrhkwZgIRJi6ucginEzy95pmhekOer23gBbOOezZev9D4XpA1tFhLAu1srvUVAKh+JmRXiVJUT71Xw9LTg==}
-    engines: {node: '>= 14'}
+  /@mdit/plugin-img-size@0.5.0(markdown-it@13.0.2):
+    resolution: {integrity: sha512-VrC90Du7dvmTsrgKGuULCLxveZNZ0mtsBkaqNPeZ6SmqWpt3YK8jWlpGZ6IaSwp1hBZvb3RvoARhAufqYvRYvw==}
+    engines: {node: '>= 18'}
+    peerDependencies:
+      markdown-it: ^13.0.2
+    peerDependenciesMeta:
+      markdown-it:
+        optional: true
     dependencies:
-      '@types/markdown-it': 12.2.3
+      '@types/markdown-it': 13.0.2
       markdown-it: 13.0.2
     dev: false
 
-  /@mdit/plugin-mark@0.4.8:
-    resolution: {integrity: sha512-51sV7MsPPoW+oa47mwUoD44a3N6XcnYBCOixuDtPzpmKH7ueUJ/ULOGJoBsbveo/ZqTCivJ+3cwoTujaGua8mQ==}
-    engines: {node: '>= 14'}
+  /@mdit/plugin-mark@0.5.0(markdown-it@13.0.2):
+    resolution: {integrity: sha512-GtxhNzhojVQKH68gT3zXYzafPZraN4sLyZGg1j8SE1vXJ+gjF4qGx4fDQggmBbNn/8o3SmEauU03+9LxRAJliw==}
+    engines: {node: '>= 18'}
+    peerDependencies:
+      markdown-it: ^13.0.2
+    peerDependenciesMeta:
+      markdown-it:
+        optional: true
     dependencies:
-      '@types/markdown-it': 12.2.3
+      '@types/markdown-it': 13.0.2
       markdown-it: 13.0.2
     dev: false
 
@@ -2007,7 +2039,7 @@ packages:
       rollup:
         optional: true
     dependencies:
-      '@types/estree': 1.0.2
+      '@types/estree': 1.0.3
       estree-walker: 2.0.2
       picomatch: 2.3.1
       rollup: 2.79.1
@@ -2035,19 +2067,12 @@ packages:
     resolution: {integrity: sha512-EYNwp3bU+98cpU4lAWYYL7Zz+2gryWH1qbdDTidVd6hkiR6weksdbMadyXKXNPEkQFhXM+hVO9ZygomHXp+AIw==}
     dev: false
 
-  /@types/estree@1.0.2:
-    resolution: {integrity: sha512-VeiPZ9MMwXjO32/Xu7+OwflfmeoRwkE/qzndw42gGtgJwZopBnzy2gD//NN1+go1mADzkDcqf/KnFRSjTJ8xJA==}
+  /@types/estree@1.0.3:
+    resolution: {integrity: sha512-CS2rOaoQ/eAgAfcTfq6amKG7bsN+EMcgGY4FAFQdvSj2y1ixvOZTUA9mOtCai7E1SYu283XNw7urKK30nP3wkQ==}
     dev: false
 
   /@types/linkify-it@3.0.3:
     resolution: {integrity: sha512-pTjcqY9E4nOI55Wgpz7eiI8+LzdYnw3qxXCfHyBDdPbYvbyLgWLJGh8EdPvqawwMK1Uo1794AUkkR38Fr0g+2g==}
-    dev: false
-
-  /@types/markdown-it@12.2.3:
-    resolution: {integrity: sha512-GKMHFfv3458yYy+v/N8gjufHO6MSZKCOXpZc5GXIWWy8uldwfmPn98vp81gZ5f9SVw8YYBctgfJ22a2d7AOMeQ==}
-    dependencies:
-      '@types/linkify-it': 3.0.3
-      '@types/mdurl': 1.0.3
     dev: false
 
   /@types/markdown-it@13.0.2:
@@ -2662,8 +2687,8 @@ packages:
     engines: {node: ^6 || ^7 || ^8 || ^9 || ^10 || ^11 || ^12 || >=13.7}
     hasBin: true
     dependencies:
-      caniuse-lite: 1.0.30001549
-      electron-to-chromium: 1.4.554
+      caniuse-lite: 1.0.30001550
+      electron-to-chromium: 1.4.557
       node-releases: 2.0.13
       update-browserslist-db: 1.0.13(browserslist@4.22.1)
     dev: false
@@ -2698,8 +2723,8 @@ packages:
     resolution: {integrity: sha512-dU+Tx2fsypxTgtLoE36npi3UqcjSSMNYfkqgmoEhtZrraP5VWq0K7FkWVTYa8eMPtnU/G2txVsfdCJTn9uzpuQ==}
     dev: false
 
-  /caniuse-lite@1.0.30001549:
-    resolution: {integrity: sha512-qRp48dPYSCYaP+KurZLhDYdVE+yEyht/3NlmcJgVQ2VMGt6JL36ndQ/7rgspdZsJuxDPFIo/OzBT2+GmIJ53BA==}
+  /caniuse-lite@1.0.30001550:
+    resolution: {integrity: sha512-p82WjBYIypO0ukTsd/FG3Xxs+4tFeaY9pfT4amQL8KWtYH7H9nYwReGAbMTJ0hsmRO8IfDtsS6p3ZWj8+1c2RQ==}
     dev: false
 
   /chalk@2.4.2:
@@ -2933,12 +2958,12 @@ packages:
       jake: 10.8.7
     dev: false
 
-  /electron-to-chromium@1.4.554:
-    resolution: {integrity: sha512-Q0umzPJjfBrrj8unkONTgbKQXzXRrH7sVV7D9ea2yBV3Oaogz991yhbpfvo2LMNkJItmruXTEzVpP9cp7vaIiQ==}
+  /electron-to-chromium@1.4.557:
+    resolution: {integrity: sha512-6x0zsxyMXpnMJnHrondrD3SuAeKcwij9S+83j2qHAQPXbGTDDfgImzzwgGlzrIcXbHQ42tkG4qA6U860cImNhw==}
     dev: false
 
-  /emoji-regex@10.2.1:
-    resolution: {integrity: sha512-97g6QgOk8zlDRdgq1WxwgTMgEWGVAQvB5Fdpgc1MkNy56la5SKP9GsMXKDOdqwn90/41a8yPwIGk1Y6WVbeMQA==}
+  /emoji-regex@10.3.0:
+    resolution: {integrity: sha512-QpLs9D9v9kArv4lfDEgg1X/gN5XLnf/A6l9cs8SPZLRZR3ZkY9+kwIQTxm+fsSej5UMYGE8fdoaZVIBlqG0XTw==}
     dev: false
 
   /encodeurl@1.0.2:
@@ -4143,7 +4168,7 @@ packages:
       jest-worker: 26.6.2
       rollup: 2.79.1
       serialize-javascript: 4.0.0
-      terser: 5.21.0
+      terser: 5.22.0
     dev: false
 
   /rollup@2.79.1:
@@ -4208,7 +4233,7 @@ packages:
       css-background-parser: 0.1.0
       css-box-shadow: 1.0.0-3
       css-to-react-native: 3.2.0
-      emoji-regex: 10.2.1
+      emoji-regex: 10.3.0
       escape-html: 1.0.3
       linebreak: 1.1.0
       parse-css-color: 0.2.1
@@ -4445,8 +4470,8 @@ packages:
       unique-string: 2.0.0
     dev: false
 
-  /terser@5.21.0:
-    resolution: {integrity: sha512-WtnFKrxu9kaoXuiZFSGrcAvvBqAdmKx0SFNmVNYdJamMu9yyN3I/QF0FbH4QcqJQ+y1CJnzxGIKH0cSj+FGYRw==}
+  /terser@5.22.0:
+    resolution: {integrity: sha512-hHZVLgRA2z4NWcN6aS5rQDc+7Dcy58HOf2zbYwmFcQ+ua3h6eEFf5lIDKTzbWwlazPyOZsFQO8V80/IjVNExEw==}
     engines: {node: '>=10'}
     hasBin: true
     dependencies:
@@ -4651,7 +4676,6 @@ packages:
       - postcss
       - rollup
       - supports-color
-    dev: false
 
   /unpipe@1.0.0:
     resolution: {integrity: sha512-pjy2bYhSsufwWlKwPc+l3cN7+wuJlK6uz0YdJEOlQDbl6jo/YlPi4mb8agUkVC8BF7V8NuzeyPNqRksA3hztKQ==}
