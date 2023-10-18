@@ -1,5 +1,5 @@
 
-# <img src="/public/asset/inaidle.png" width="30px"> Wotaku
+# <img src="/public/asset/inaidle.webp" width="30px"> Wotaku
 
 Welcome to Wotaku! Here you'll find a diverse range of resources related to japanese media and language.
 
@@ -12,7 +12,7 @@ Welcome to Wotaku! Here you'll find a diverse range of resources related to japa
 
 <br/>
 
-<!-- [![cover](/static/thumb/cover.png)](https://wotaku.pages.dev/) -->
+[![cover](https://files.catbox.moe/6u2m66.png](https://wotaku.pages.dev/)
 
 <br/>
 
