@@ -150,7 +150,7 @@ Cleaner takes the raw file, fixes any faults (such as artifacts due to scanning,
 ### Redrawer (RD)
 Redrawer redraws all the erased parts by the cleaner and makes them as smooth as possible. They patch everything that was affected due to scanning or other issues. Nowadays, cleaning and redrawing are often done by a single person since these two tasks are closely related.
 
-<div class="video_wrapper"><iframe src="https://youtube.com/embed/ZboF1sNhzI8" frameborder="0" allowfullscreen></iframe></div>
+<div class="video_wrapper"><iframe src="https://iv.ggtyler.dev/embed/ZboF1sNhzI8" frameborder="0" allowfullscreen></iframe></div>
 
 ### Translator (TL)
 The translator translates all the text in the manga, including dialogues, sound effects, and other texts in the panels. They also provide explanations for all the jokes, cultural references, or wordplays.
