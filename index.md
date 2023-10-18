@@ -1,33 +1,39 @@
 ---
-label: Welcome
-icon: ":wave:"
+title: Home
+layout: home
+
+hero:
+  name: "Wotaku"
+  text: "The Otaku Index"
+  tagline: A diverse range of resources related to japanese media and language
+  image: /asset/Padoru.png
+  actions:
+    - theme: brand
+      text: Quick Start
+      link: /qs.md
+    - theme: alt
+      text: Discord
+      link: https://discord.wotaku.moe/
+      
+aside: left
+
+features:
+  - title: Websites
+    details: Websites for anime, manga, music, light novels & games
+    icon: 🌏
+    link: /websites.md
+  - title: Software
+    details: Software for every Operating System
+    icon: 💾
+    link: /software.md
+  - title: Non-English
+    details: Otaku resources for other regions
+    icon: 🗺️
+    link: /nonen.md
+  - title: NSFW
+    details: ahem... ahem....
+    icon: 🔞
+    link: /nsfw.md
+
+
 ---
-
-![](https://cdn.apollo.moe/img/cover.png)
-
-# The Otaku Index
-
-Welcome to Wotaku! Here you'll find a diverse range of resources related to japanese media and language. Enjoy your stay!
-
-<style>
-    .sample {
-        text-align: center;
-        padding-top: 3px;
-        margin-bottom: 10px;
-    }
-</style>
-
-:::sample
-[!badge variant="dark" icon="/static/asset/ina.gif" size="xl" text="CLICK HERE!"](/qs.md)
-:::
-
-==- Duck's Note
-- The lists are by default alphabetically ordered. If the list isn't in alphabetical order, it means that it has been arranged based on someone's preference, either mine or that of a contributor.
-- The wiki contains ratings for various sites, which I have categorized to provide more detailed information than just using 'NSFW'.
-	- [!badge variant="danger" text="R+"] Uploads NSFW content on a regular basis.
-	- [!badge variant="ghost" text="R"] Uploads NSFW content, but not always/all of them.
-	- [!badge variant="ghost" text="R-"] Rarely uploads NSFW content.
-	- [!badge variant="success" text="E"] Only SFW content.
-	- [!badge variant="ghost" text="NR"] Haven't been rated yet.
-- If you encounter any issues with the websites or software listed, please reach out to their respective communities for assistance. If available, I have provided links to their GitHub pages where you can report the issue.
-===

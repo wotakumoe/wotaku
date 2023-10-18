@@ -1,3 +1,0 @@
----
-visibility: hidden
----

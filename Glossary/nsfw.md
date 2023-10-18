@@ -1,11 +1,9 @@
 ---
-label: NSFW
-order: 90
+title: NSFW
 ---
-
-![](https://cdn.apollo.moe/img/nsfw.png){target="_blank"}
 # NSFW
 Want to learn what those elusive tags on hentai sites mean? Then this page is for you!
+<br>
 
 | Term | Meaning |
 | --- | --- |
@@ -42,4 +40,4 @@ Want to learn what those elusive tags on hentai sites mean? Then this page is fo
 | Yuri (GL) | Meaning “Girls’ Love”, a term for girl on girl lesbian hentai |
 | Zettai Ryouiki | A term for the area of bare skin between ones over-knee socks or stockings and ones miniskirt, skirt, dress or shorts |
 
-> [Zone-tan's Ecchication](https://www.youtube.com/playlist?list=PLyD77dL4TECbsBqjxtaK9Q0wuncOuku3b){target="_blank"} series for further research.
+>[Zone-tan's Ecchication](https://www.youtube.com/playlist?list=PLyD77dL4TECbsBqjxtaK9Q0wuncOuku3b) series for further research.

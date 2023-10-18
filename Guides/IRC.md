@@ -1,74 +1,71 @@
 ---
-label: IRC
+title: IRC
 ---
-![](https://cdn.apollo.moe/img/irc.png){target="_blank"}
 # IRC & XDCC
-
->IRC stands for Internet Relay Chat. It's a real-time chat protocol that allows people to communicate with each other in online chat rooms. IRC has been around since the late 1980s and is still used today, although it has largely been replaced by newer chat technologies like Discord.
-
->XDCC is a file-sharing protocol that is often used on IRC. XDCC stands for "eXtended DCC," and it allows users to send and receive files through direct client-to-client (DCC) transfers. This is typically done using a bot, which acts as a file server and manages the file transfers. XDCC has been used for many years as a way to share files, but it has become less popular over time due to the rise of other file-sharing technologies.
-
+IRC (Internet Relay Chat) is a real-time messaging protocol, while XDCC (eXtended DCC) is a method used on IRC to facilitate file sharing through direct client-to-client connections. In this guide, we explaned how to use bots in IRC.
+<br>
 
 # Getting Started
 1. Install an [**IRC Client**](#irc-client) on your device.
 2. Go to a [**XDCC Packlists**](#xdcc-packlists) and search for your content
 3. Click on the search result for the command message 
-!!!info
+
+::: info 💡
 Standard XDCC command `/msg [bot name] xdcc send #[packet number]`
-!!!
+:::
 4. Join the server and the channel of the bot and send the command message
 5. It will show a pop up for the download.
 
-!!!warning
-You may face some issue if you turn on SSL while logging in.
-!!!
+> ⚠️You may face some issue if you turn on SSL while logging in.
 
 
 ## IRC Client
-- [Revolution IRC](https://play.google.com/store/apps/details?id=io.mrarm.irc){target="_blank"}		[!badge variant="ghost" text="Android"]
-- [AndroIRC](https://play.google.com/store/apps/details?id=com.androirc&hl=en&gl=US){target="_blank"}		[!badge variant="ghost" text="Android"]
-- [hexchat](https://hexchat.github.io/){target="_blank"}		[!badge variant="ghost" text="Windows"]
-- [mIRC](https://www.mirc.com/){target="_blank"}		[!badge variant="ghost" text="Windows"]
-- [AdiIRC](https://adiirc.com/){target="_blank"}	[!badge variant="ghost" text="Windows"]
-- [KVIrc](https://github.com/kvirc/KVIrc/releases){target="_blank"} [!badge variant="ghost" text="Windows"] [!badge variant="ghost" text="Linux"] [!badge variant="ghost" text="macOS"]
-- [Irssi](https://irssi.org/){target="_blank"}	[!badge variant="ghost" text="Linux"]
-- [WeeChat](https://weechat.org/){target="_blank"}	[!badge variant="ghost" text="Linux"] [!badge variant="ghost" text="macOS"]
-- [LimeChat](https://apps.apple.com/us/app/limechat/id414030210){target="_blank"} [!badge variant="ghost" text="macOS"]
-!!!info
-More clients [**here.**](https://ircv3.net/software/clients){target="_blank"}
-!!!
+- [Revolution IRC](https://play.google.com/store/apps/details?id=io.mrarm.irc)		<Badge type="info" text="Android" />
+- [AndroIRC](https://play.google.com/store/apps/details?id=com.androirc&hl=en&gl=US)		<Badge type="info" text="Android" />
+- [hexchat](https://hexchat.github.io/)		<Badge type="info" text="Windows" />
+- [mIRC](https://www.mirc.com/)		<Badge type="info" text="Windows" />
+- [AdiIRC](https://adiirc.com/)	<Badge type="info" text="Windows" />
+- [KVIrc](https://github.com/kvirc/KVIrc/releases) <Badge type="info" text="Windows" /><Badge type="info" text="Linux" /><Badge type="info" text="macOS" />
+- [Irssi](https://irssi.org/)	<Badge type="info" text="Linux" />
+- [WeeChat](https://weechat.org/)	<Badge type="info" text="Linux" /><Badge type="info" text="macOS" />
+- [LimeChat](https://apps.apple.com/us/app/limechat/id414030210) <Badge type="info" text="macOS" />
+
+<Button link="https://ircv3.net/software/clients" icon="i-octicon-command-palette-16">More clients here. </Button>
+
 
 
 ## XDCC Packlists
-- [**nibl**](https://nibl.co.uk/search){target="_blank"}	[!badge variant="ghost" text="Anime"]
+- [**nibl**](https://nibl.co.uk/search)	<Badge type="info" text="Anime" />
 	- Server: `irc.rizon.net`
 	- Port: `6697`
 	- Channel: `#nibl`
-- [**subsplease**](https://subsplease.org/xdcc/){target="_blank"} [!badge variant="ghost" text="Anime"]
+- [**subsplease**](https://subsplease.org/xdcc/) <Badge type="info" text="Anime" />
 	- Server: `irc.rizon.net`
 	- Port: `6697`
 	- Channel: `#subsplease`
-- [**animk**](https://animk.info/xdcc/){target="_blank"} [!badge variant="ghost" text="Anime"]
+- [**animk**](https://animk.info/xdcc/) <Badge type="info" text="Anime" />
 	- Server: `irc.xertion.org`
 	- Port: `6697`
 	- Channel: `#MK` or `XDCCLeech`
-- [**XDCC EU**](https://www.xdcc.eu/){target="_blank"}	[!badge variant="ghost" text="General"]
-- [**SunXDCC**](https://sunxdcc.com/){target="_blank"}	[!badge variant="ghost" text="General"]
+- [**XDCC EU**](https://www.xdcc.eu/)	<Badge type="info" text="General" />
+- [**SunXDCC**](https://sunxdcc.com/)	<Badge type="info" text="General" />
 
-!!!light Both **XDCC EU** and **SunXDCC** don't have a single bot channel. They mention the server and the channel address in the search result.
-!!!
 
-!!!info XDCC EU
+> 💡 Both **XDCC EU** and **SunXDCC** don't have a single bot channel. They mention the server and the channel address in the search result.
+
+
+:::info XDCC EU
 1. Click on the ℹ️ button
 2. Join the server and the channel of the bot
 3. copy and send the bot command in the channel
-    ![XDCC EU](/static/ss/irc/xdcceu.png)
-!!!
-!!!info SunXDCC
+    ![XDCC EU](/ss/irc/xdcceu.png)
+:::
+
+::: info SunXDCC
 1. Join the server and the channel of the bot. 
 2. Make the bot command according to the standard form. For this screenshot the bot command will be `/msg [FutureBot]-[C21] xdcc send #530`
-	![SunXDCC](/static/ss/irc/sunxdcc.png)
-!!!
+	![SunXDCC](/ss/irc/sunxdcc.png)
+:::
 
 ## Batch DL
 
@@ -78,5 +75,5 @@ More clients [**here.**](https://ircv3.net/software/clients){target="_blank"}
 - `/msg [botname] XDCC BATCH [a],[b],[c] [password]` → Request packs with numbers [a],[b] and [c], with password "password" from the bot.
 - `/msg [botname] XDCC BATCH [a],[b],[c]-[d]` → Request packs with numbers a, b and c to d from the bot. (i.e, you can combine the two methods of saying which set of packs you want)
 
-!!!light More commands are [**here**](https://wiki.xertion.org/w/XDCC_Commands){target="_blank"}.
-!!!
+
+<Button link="https://wiki.xertion.org/w/XDCC_Commands" icon="i-octicon-command-palette-16">More commands here. </Button>

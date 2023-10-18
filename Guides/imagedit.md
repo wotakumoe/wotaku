@@ -1,15 +1,9 @@
 ---
-label: Manga Image Editing
-author:  
-  name: "Oakminati"
-  link: https://nyaa.si/user/Oakminati
-  avatar: /static/pfp/oak.png
+title: Manga Image Editing
 ---
-
-![](/static/thumb/imgedit.png)
 # Manga Image Editing
 A simple to understand guide covering the most important page edits.
-
+<Authors page="imagedit" />
 
 ## Simple Denoising
 
@@ -17,7 +11,7 @@ One can simple denoise pages using waifu2x, which in contradiction is not only u
 
 Using the `2-D Illust (CUnet Model)` on `Level 2 Denoise Only` and `Use TTA Mode`  unchecked is generally "good enough" for denoising on low to mid machines.
 
-![generic denoising](/static/ss/waifu.jpg)
+![generic denoising](/ss/waifu.jpg)
 
 Under processing Speed Settings it is recommended to leave the Split Size on default, unless you are getting weird/incorrect outputs which you might need to adjust this then. You can increase the Batch Size if your GPU can handle more load to process the splits parallel to speed up the denoising.
 
@@ -30,9 +24,9 @@ On a final note, it is recommended to have the Output Extension set to PNG as th
 ### Tools
 
 The following tools would be used for any kind of grayscaling, leveling, and lastly lossless optimizing;
-- [ImageMagic](https://imagemagick.org/index.php){target="_blank"}
-- [Pingo](https://css-ig.net/pingo){target="_blank"}
-- [imgdanke](https://github.com/DrWhoCares/imgdanke){target="_blank"}
+- [ImageMagic](https://imagemagick.org/index.php)
+- [Pingo](https://css-ig.net/pingo)
+- [imgdanke](https://github.com/DrWhoCares/imgdanke)
     - optional for GUI but does not support Pingo v1+ at the moment.
 
 ### Grayscaling
@@ -41,13 +35,16 @@ The majority of the panels are black and white and can safely be grayscaled if t
 
 The command (CLI) to use with ImageMagic to batch process all images inside the current folder (that your command prompt is in) would be;
 
-`magick mogrify -format png -dither None -colorspace Gray *.png`
+```
+magick mogrify -format png -dither None -colorspace Gray *.png
+
+```
 
 ### Leveling
 
 Leveling images would only be required when blacks ain't actual black, and after grayscaling it would look a bit washed. Before grayscaling it can even have a hue or colored tint.
 
-![leveling example](/static/ss/scaling.png)
+![leveling example](/ss/scaling.png)
 
 #### Stretching
 
@@ -55,7 +52,9 @@ A simple method without too much effort would be using the -contrast-stretch opt
 
 The command (CLI) to use with ImageMagic to batch process all images inside a folder would be;
 
-`magick mogrify -format png -dither None -colorspace Gray -contrast-stretch 0%x0% *.png`
+```
+magick mogrify -format png -dither None -colorspace Gray -contrast-stretch 0%x0% *.png
+```
 
 #### Manual Leveling
 
@@ -63,10 +62,14 @@ With manual leveling you would needed find the minimum black point to have your 
 
 The command (CLI) to use with ImageMagic to batch process all images inside a folder would be;
 
-`magick mogrify -format png -dither None -colorspace Gray -level 13,100%,1.3 *.png`
+```
+magick mogrify -format png -dither None -colorspace Gray -level 13,100%,1.3 *.png
+```
 
 ### Optimizing
 
 You can safely and lossless optimize images to reduce filesize even more, using the following command (CLI) with Pingo version 1+;
 
-`pingo -lossless -s4 path-to-folder`
+```
+pingo -lossless -s4 path-to-folder
+```

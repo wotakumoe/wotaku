@@ -1,58 +1,53 @@
 ---
-label: Communities
-description: All the great communities!
-order: 650
-icon: ":speaking_head_in_silhouette:"
+title: Communities
+description: All the great otaku communities!
 ---
-
-
-![](https://cdn.apollo.moe/img/comms.png){target="_blank"}
 # Communities
 A list of other otaku communities to check out based on your specific interests.
-
-
+<br>
 
 ## Forums
-- [Animesuki](https://forums.animesuki.com/){target="_blank"}
-- [Anime Music Videos](https://www.animemusicvideos.org/forum/){target="_blank"}
-- [Fuwanovel](https://forums.fuwanovel.net/){target="_blank"}
-- [Mangadex](https://forums.mangadex.org/){target="_blank"}
-- [Manga Helper](https://mangahelpers.com/){target="_blank"}
-- [SquidBoard](https://www.squid-board.org/){target="_blank"}
 
+- [Animesuki](https://forums.animesuki.com/)
+- [Anime Music Videos](https://www.animemusicvideos.org/forum/)
+- [Fuwanovel](https://forums.fuwanovel.net/)
+- [Mangadex](https://forums.mangadex.org/)
+- [Manga Helper](https://mangahelpers.com/)
+- [SquidBoard](https://www.squid-board.org/)
 
 ## Discord servers
-- [Doujin Cafe](https://discord.gg/doujincafe){target="_blank"}
-- [Japanese Language Study Space](https://discord.gg/jlss){target="_blank"}
-- [Mangadex](https://discord.com/invite/mangadex){target="_blank"}
-- [Manga Piracy](https://discord.com/invite/ZgMtAyxFSU){target="_blank"}
-- [r/Anime](https://discord.gg/r-anime){target="_blank"}
-- [r/Manga](https://discord.com/invite/manga){target="_blank"}
-- [Scanner Usage School Server](https://discord.com/invite/NCzxVB9){target="_blank"}
-- [Sitting on Clouds](https://discord.gg/x23SFbE){target="_blank"}
-- [SquidBoard](https://discord.gg/ATjPbzR){target="_blank"}
-- [Tachiyomi](https://discord.com/invite/tachiyomi){target="_blank"}
-- [TheMoeWay](https://discord.com/invite/nhqjydaR8j){target="_blank"}
-- [TypesettingTools](https://discord.com/invite/AZaVyPr){target="_blank"}
 
+- [Doujin Cafe](https://discord.gg/doujincafe)
+- [Japanese Language Study Space](https://discord.gg/jlss)
+- [Mangadex](https://discord.com/invite/mangadex)
+- [Manga Piracy](https://discord.com/invite/ZgMtAyxFSU)
+- [r/Anime](https://discord.gg/r-anime)
+- [r/Manga](https://discord.com/invite/manga)
+- [Scanner Usage School Server](https://discord.com/invite/NCzxVB9)
+- [Sitting on Clouds](https://discord.gg/x23SFbE)
+- [SquidBoard](https://discord.gg/ATjPbzR)
+- [Tachiyomi](https://discord.com/invite/tachiyomi)
+- [TheMoeWay](https://discord.com/invite/nhqjydaR8j)
+- [TypesettingTools](https://discord.com/invite/AZaVyPr)
 
 ## Subreddits
-- [Anime](https://www.reddit.com/r/anime){target="_blank"}
-- [Manga](https://www.reddit.com/r/manga){target="_blank"}
-- [Manhwa](https://www.reddit.com/r/manhwa){target="_blank"}
-- [Light Novels](https://www.reddit.com/r/LightNovels/){target="_blank"}
-- [Visual Novels](https://www.reddit.com/r/visualnovels/){target="_blank"}
-- [Anime Piracy](https://www.reddit.com/r/animepiracy){target="_blank"}
-- [Manga Piracy](https://www.reddit.com/r/mangapiracy/){target="_blank"}
-- [Japan Pics](https://www.reddit.com/r/japanpics/){target="_blank"}
-- [Japan Life](https://www.reddit.com/r/japanlife/){target="_blank"}
-- [Japan Travel](https://www.reddit.com/r/JapanTravel/){target="_blank"}
-- [Learn Japanese](https://www.reddit.com/r/LearnJapanese){target="_blank"}
-- [Vocaloid](https://www.reddit.com/r/vocaloid/){target="_blank"}
 
+- [Anime](https://www.reddit.com/r/anime)
+- [Manga](https://www.reddit.com/r/manga)
+- [Manhwa](https://www.reddit.com/r/manhwa)
+- [Light Novels](https://www.reddit.com/r/LightNovels/)
+- [Visual Novels](https://www.reddit.com/r/visualnovels/)
+- [Anime Piracy](https://www.reddit.com/r/animepiracy)
+- [Manga Piracy](https://www.reddit.com/r/mangapiracy/)
+- [Japan Pics](https://www.reddit.com/r/japanpics/)
+- [Japan Life](https://www.reddit.com/r/japanlife/)
+- [Japan Travel](https://www.reddit.com/r/JapanTravel/)
+- [Learn Japanese](https://www.reddit.com/r/LearnJapanese)
+- [Vocaloid](https://www.reddit.com/r/vocaloid/)
 
 ## Boards
-- [Anime & Manga](https://boards.4channel.org/a/){target="_blank"} [!badge variant="ghost" size="xs" text="R"]
-- [Anime/Cute](https://boards.4channel.org/c/catalog){target="_blank"} [!badge variant="ghost" size="xs" text="R"]
-- [Anime/Wallpapers](https://boards.4channel.org/w/catalog){target="_blank"} [!badge variant="ghost" size="xs" text="R"]
-- [Otaku Culture](https://boards.4channel.org/jp/catalog){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
+
+- [Anime & Manga](https://boards.4channel.org/a/) <Badge type="warning" text="R" />
+- [Anime/Cute](https://boards.4channel.org/c/catalog) <Badge type="warning" text="R" />
+- [Anime/Wallpapers](https://boards.4channel.org/w/catalog) <Badge type="warning" text="R" />
+- [Otaku Culture](https://boards.4channel.org/jp/catalog) <Badge type="danger" text="R+" />
