@@ -16,7 +16,7 @@ import { resolve } from "node:path";
 import { FileSystemIconLoader } from "@iconify/utils/lib/loader/node-loaders";
 
 // FIXME: remove this after we are done
-const hostname: string = "https://wvite.pages.dev";
+const hostname: string = "https://wotaku.moe";
 export const githubSourceContentRegex = new RegExp(
   "^https://(((raw|user-images|camo).githubusercontent.com))/.*",
   "i",
