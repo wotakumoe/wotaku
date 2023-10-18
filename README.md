@@ -16,7 +16,7 @@ Welcome to Wotaku! Here you'll find a diverse range of resources related to japa
 
 <br/>
 
-# <img src="/public/rm/repo.svg" width="24px"> What is in the Wiki?
+# What is in the Wiki?
 
 - Websites and software for manga, anime, and light novels.
 - Extensions, scripts, trackers, and Discord bots.
@@ -28,7 +28,7 @@ Welcome to Wotaku! Here you'll find a diverse range of resources related to japa
 
 <br/>
 
-# <img src="/public/rm/pr.svg" width="24px"> Submitting a link
+# Submitting a link
 If you want to submit or correct a link instead of creating a pull request, please post an [issue](https://github.com/anotherduckling/Wotaku/issues/new). This makes it easier for me to add it to the wiki, since I need to maintain the categories and markdown style.
 
 <br/>
