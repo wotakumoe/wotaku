@@ -1,0 +1,184 @@
+:root {
+  --vp-layout-max-width: 1490px;
+  --vp-sidebar-width: 280px;
+  --vp-nav-logo-height: 36px;
+  --vp-c-brand: #7bc5e4;
+  --vp-c-brand-light: #a4d5ec;
+  --vp-c-brand-lighter: #c4e2f2;
+  --vp-c-brand-lightest: #e1f0f8;
+  --vp-c-brand-dark: #198cc6;
+  --vp-c-brand-darker: #36678c;
+  --vp-c-brand-dimm: rgba(123, 197, 228, 0.08);
+  --vp-button-brand-border: var(--vp-c-brand-light);
+  --vp-button-brand-text: var(--vp-c-white);
+  --vp-button-brand-bg: var(--vp-c-brand);
+  --vp-button-brand-hover-border: var(--vp-c-brand-light);
+  --vp-button-brand-hover-text: var(--vp-c-white);
+  --vp-button-brand-hover-bg: var(--vp-c-brand-light);
+  --vp-button-brand-active-border: var(--vp-c-brand-light);
+  --vp-button-brand-active-text: var(--vp-c-white);
+  --vp-button-brand-active-bg: var(--vp-button-brand-bg);
+  --vp-custom-block-tip-border: var(--vp-c-brand);
+  --vp-custom-block-tip-text: var(--vp-c-brand-darker);
+  --vp-custom-block-tip-bg: var(--vp-c-brand-dimm);
+  --vp-custom-block-tip-border: var(--vp-c-brand);
+  --vp-custom-block-tip-text: var(--vp-c-brand-lightest);
+  --vp-custom-block-tip-bg: var(--vp-c-brand-dimm);
+  --vp-c-green-light: #16a891;
+  --vp-button-alt-bg: #f5f5f5;
+  --vp-button-alt-text: rgb(75, 85, 99);
+  --vp-button-alt-hover-bg: #efeeee;
+  --vp-button-alt-hover-text: rgb(75, 85, 99);
+  --vp-c-bg-nav: rgba(255, 255, 255, 0.7);
+  --vp-c-bg-mark: rgb(232, 232, 232);
+  --vp-custom-block-info-bg: rgba(171, 210, 244, 0.05);
+  --vp-custom-block-info-border: #60c4fa;
+  --vp-custom-block-info-text: rgb(39, 115, 145);
+  --vp-custom-block-info-text-deep: rgb(18, 121, 162);
+  --vp-custom-block-tip-bg: rgba(137, 202, 176, 0.05);
+  --vp-custom-block-tip-border: rgba(34, 197, 94, 1);
+  --vp-custom-block-tip-text: rgb(10, 128, 90);
+  --vp-custom-block-tip-text-deep: rgb(11, 133, 94);
+  --vp-custom-block-warning-bg: rgba(250, 204, 21, 0.05);
+  --vp-custom-block-warning-border: rgba(245, 158, 11, 1);
+  --vp-custom-block-warning-text: rgb(166, 114, 35);
+  --vp-custom-block-warning-text-deep: rgb(199, 109, 6);
+  --vp-custom-block-danger-bg: rgba(220, 38, 38, 0.05);
+  --vp-custom-block-danger-border: rgba(248, 113, 113, 1);
+  --vp-custom-block-danger-text: rgb(196, 46, 46);
+  --vp-custom-block-danger-text-deep: rgba(220, 38, 38, 1);
+}
+
+.dark {
+  --vp-c-bg: rgb(26, 26, 26);
+  --vp-c-bg-alt: rgb(23, 23, 23);
+  --vp-c-bg-nav: rgba(23, 23, 23, 0.8);
+  --vp-c-bg-mark: rgb(0, 0, 0);
+  --vp-button-brand-bg: var(--vp-c-brand-dark);
+  --vp-button-alt-bg: #484848;
+  --vp-button-alt-text: #f0eeee;
+  --vp-button-alt-hover-bg: #484848;
+  --vp-button-alt-hover-text: #f0eeee;
+  --vp-custom-block-info-bg: rgba(84, 110, 155, 0.1);
+  --vp-custom-block-info-border: #3686b1;
+  --vp-custom-block-info-text: #52b0e3;
+  --vp-custom-block-info-text-deep: #00b7ff;
+  --vp-custom-block-tip-bg: rgba(51, 130, 118, 0.1);
+  --vp-custom-block-tip-border: rgba(4, 120, 87, 1);
+  --vp-custom-block-tip-text: rgb(25, 190, 129);
+  --vp-custom-block-tip-text-deep: rgba(52, 211, 153, 1);
+  --vp-custom-block-warning-bg: rgba(253, 224, 71, 0.1);
+  --vp-custom-block-warning-border: rgba(202, 138, 4, 1);
+  --vp-custom-block-warning-text: rgba(234, 179, 8, 1);
+  --vp-custom-block-warning-text-deep: rgba(250, 204, 21, 1);
+  --vp-custom-block-danger-bg: rgba(239, 68, 68, 0.1);
+  --vp-custom-block-danger-border: rgba(127, 29, 29, 1);
+  --vp-custom-block-danger-text: rgba(248, 113, 113, 1);
+  --vp-custom-block-danger-text-deep: rgba(248, 113, 113, 1);
+}
+
+.vp-doc a {
+  color: var(--vp-c-brand);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-decoration-style: solid;
+  text-decoration-color: transparent;
+  -webkit-text-decoration-color: transparent;
+  transition: text-decoration-color 0.25s;
+}
+
+.vp-doc a:hover {
+  color: var(--vp-c-brand);
+  text-decoration-color: var(--vp-c-brand);
+  -webkit-text-decoration-color: var(--vp-c-brand);
+}
+
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #198cc6 20%, var(--vp-c-brand));
+  --vp-home-hero-image-background-image: linear-gradient(-45deg, #6247aa 60%, #a594f9 20%);
+  --vp-home-hero-image-filter: blur(40px);
+}
+
+@media (min-width: 640px) {
+  :root {
+    --vp-home-hero-image-filter: blur(56px);
+  }
+}
+
+@media (min-width: 960px) {
+  :root {
+    --vp-home-hero-image-filter: blur(72px);
+  }
+}
+
+.VPNavBarTitle .title {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.medium-zoom-overlay {
+  background-color: var(--vp-c-bg) !important;
+  z-index: 100;
+}
+
+.medium-zoom-overlay ~ img {
+  z-index: 101;
+}
+
+.medium-zoom--opened .medium-zoom-overlay {
+  opacity: 0.98 !important;
+}
+
+.video_wrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+}
+
+iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.VPSidebarItem.level-1.is-active > .item > .indicator,
+.VPSidebarItem.level-2.is-active > .item > .indicator,
+.VPSidebarItem.level-3.is-active > .item > .indicator,
+.VPSidebarItem.level-4.is-active > .item > .indicator,
+.VPSidebarItem.level-5.is-active > .item > .indicator {
+  background-color: var(--vp-c-brand-1);
+  transition-duration: 0.1s;
+  transition-property: opacity;
+}
+
+main figure {
+  margin: 2rem 0;
+  transition: transform var(--vp-tt);
+}
+
+main figure img {
+  margin: 0 auto;
+  border-radius: 12px;
+  box-shadow: 2px 2px 8px 4px var(--vp-c-bg-alt);
+}
+
+main figure figcaption {
+  text-align: center;
+  margin-top: 1.25rem;
+  font-size: 0.875rem;
+  color: var(--vp-c-text-2);
+}
+
+@media (min-width: 1440px) {
+  :root {
+    --vp-layout-max-width: 100% !important; /* 100% of the viewport width */
+    --vp-sidebar-width: 300px !important; /* increase sidebar width from default 272px */
+  }
+
+  /* target a div with class .content-container*/
+  .content-container {
+    max-width: 70% !important; /* 888px is the default max-width */
+  }
+}
