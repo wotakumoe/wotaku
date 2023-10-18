@@ -3,7 +3,8 @@ title: Websites
 description: Websites for anime, manga, light novels & more
 ---
 # Websites
-Online resources for anime, manga, light novels and more. All links have been carefully selected and vetted by our contributors.
+Online resources for anime, manga, light novels and more.
+
 <br>
 
 ::: details Rating System
