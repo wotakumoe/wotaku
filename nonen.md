@@ -158,6 +158,7 @@ Otaku resources for other languages/regions.
 == Others
 - **Community**
     - [Animexx](https://www.animexx.de/)
+    - [Baka Board](https://baka-bewerbung.me/form/jPQXDZ) <Badge type="info" text="Usenet" />
     - [Proxer](https://proxer.me/)
 :::
 
