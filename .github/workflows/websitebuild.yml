@@ -19,6 +19,6 @@ jobs:
         ssh-keyscan -H ${{ secrets.SSH_HOST }} > ~/.ssh/known_hosts
     - name: connect and pull
       run: |
-        ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} "cd ${{ secrets.WORK_DIR }} && git reset --hard origin/main && git pull && npm install && npm run docs:build && exit"
+        ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} "cd ${{ secrets.WORK_DIR }} && git reset --hard origin/main && git pull && npm install && npm run docs:build && cp -R /home/wotaku/htdocs/github/.vitepress/dist/* /home/wotaku/htdocs/wotaku.moe && exit"
     - name: cleanup
       run: rm -rf ~/.ssh
