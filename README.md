@@ -12,7 +12,7 @@ Welcome to Wotaku! Here you'll find a diverse range of resources related to japa
 
 <br/>
 
-[![cover](https://files.catbox.moe/6u2m66.png](https://wotaku.pages.dev/)
+[![cover](https://files.catbox.moe/6u2m66.png)](https://wotaku.pages.dev/)
 
 <br/>
 
