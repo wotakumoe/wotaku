@@ -1,6 +1,0 @@
-node_modules
-.vitepress/dist
-.vitepress/cache
-dev-dist
-# There should be only pnpm-lock.yaml for faster builds on Pages
-package-lock.json
