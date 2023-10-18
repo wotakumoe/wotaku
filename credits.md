@@ -2,13 +2,14 @@
 title: Credits
 description: All the contributors of Wotaku
 lastUpdated: false
+Previous: false
 ---
 
 <script setup>
 import Credits from './.vitepress/theme/components/Contributors.vue'
 </script>
 
-### Contributors
+# Contributors
 Thank you to all the contributors for your dedications and resources.
 
 <Credits />

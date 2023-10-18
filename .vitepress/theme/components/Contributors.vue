@@ -63,6 +63,11 @@ const contribs = [
     site: "https://github.com/Kai-FMHY",
   },
   {
+    name: "Kobayashi",
+    avatar: "https://github.com/kobayashi90.png",
+    site: "https://www.ryuko.space/",
+  },
+  {
     name: "loocool",
     avatar: "https://github.com/loocool2.png",
     site: "https://github.com/loocool2",
