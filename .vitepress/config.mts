@@ -47,7 +47,7 @@ export default withPwa(
       ["link", { rel: "mask-icon", href: "/asset/podarufav.png", color: "#7bc5e4" }],
       // prettier-ignore
       ["meta", { name: "keywords", content: "Anime, Manga, Otaku, Hentai, Weeb" }],
-      ["link", { rel: "apple-touch-icon", href: "/assets/podarufav.png", sizes: "192x192" }],
+      ["link", { rel: "apple-touch-icon", href: "/asset/podarufav.png", sizes: "192x192" }],
     ],
     transformHead: async (context) => generateMeta(context, hostname),
     buildEnd: async (context) => {
@@ -134,6 +134,23 @@ export default withPwa(
       ],
       nav: [
         {
+          text: "Pages",
+          items: [
+            { text: "⚡ Quick Start", link: "/qs" },
+            { text: "🌏 Websites", link: "/websites" },
+            { text: "💾 Software", link: "/software" },
+            { text: "🗃️ Misc-sites", link: "/misc" },
+            { text: "🧩 Add-ons", link: "/addons" },
+            { text: "🗺️ Non-English", link: "/nonen" },
+            { text: "🔞 NSFW", link: "/nsfw" },
+            { text: "🗾 Learning Japanese", link: "/jp" },
+            { text: "📦 Merch", link: "/merch" },
+            { text: "🗣️ Communities", link: "/comms" },
+            { text: "📃 Scanlation", link: "/scanlation" },
+            { text: "⚗️ Brewing", link: "/brewing" },
+          ],
+        },
+        {
           text: "Glossary",
           items: [
             { text: "General", link: "/glossary/general" },
@@ -151,17 +168,6 @@ export default withPwa(
             { text: "Manga Image Editing", link: "/guides/imagedit" },
             { text: "Network Stream", link: "/guides/ns" },
             { text: "Squidify", link: "/guides/squidify" },
-          ],
-        },
-        {
-          text: "Others",
-          items: [
-            { text: "Misc-sites", link: "/misc" },
-            { text: "Add-ons", link: "/addons" },
-            { text: "Learning Japanese", link: "/jp" },
-            { text: "Merch", link: "/merch" },
-            { text: "Communities", link: "/comms" },
-            { text: "Scanlation", link: "/scanlation" },
           ],
         },
       ],
