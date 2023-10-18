@@ -32,10 +32,16 @@ const fonts: SatoriOptions["fonts"] = [
   },
 ];
 
-export default defineSatoriConfig({
-  width: 1098,
-  height: 530,
+export const satoriConfig: SatoriOptions = {
+  width: 1200,
+  height: 628,
   fonts,
+};
+
+// Dev server
+export default defineSatoriConfig({
+  ...satoriConfig,
+  debug: true,
   props: {
     title: "Title",
     description:

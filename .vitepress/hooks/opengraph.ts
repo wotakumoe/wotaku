@@ -5,9 +5,9 @@ import { createContentLoader } from "vitepress";
 import type { ContentData, SiteConfig } from "vitepress";
 import { type SatoriOptions, satoriVue } from "x-satori/vue";
 import { renderAsync } from "@resvg/resvg-js";
+import { satoriConfig } from "./satoriConfig";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const __fonts = resolve(__dirname, "../fonts");
 
 export async function generateImages(config: SiteConfig) {
   const pages = await createContentLoader("**/*.md", { excerpt: true }).load();
@@ -16,33 +16,6 @@ export async function generateImages(config: SiteConfig) {
     "utf-8",
   );
 
-  const fonts: SatoriOptions["fonts"] = [
-    {
-      name: "Inter",
-      data: await readFile(resolve(__fonts, "Inter-Regular.otf")),
-      weight: 400,
-      style: "normal",
-    },
-    {
-      name: "Inter",
-      data: await readFile(resolve(__fonts, "Inter-Medium.otf")),
-      weight: 500,
-      style: "normal",
-    },
-    {
-      name: "Inter",
-      data: await readFile(resolve(__fonts, "Inter-SemiBold.otf")),
-      weight: 600,
-      style: "normal",
-    },
-    {
-      name: "Inter",
-      data: await readFile(resolve(__fonts, "Inter-Bold.otf")),
-      weight: 700,
-      style: "normal",
-    },
-  ];
-
   const filteredPages = pages.filter((p) => p.frontmatter.image === undefined);
 
   for (const page of filteredPages) {
@@ -50,7 +23,6 @@ export async function generateImages(config: SiteConfig) {
       page,
       template,
       outDir: config.outDir,
-      fonts,
     });
   }
 }
@@ -59,7 +31,6 @@ interface GenerateImagesOptions {
   page: ContentData;
   template: string;
   outDir: string;
-  fonts: SatoriOptions["fonts"];
 }
 
 function getDir(url: string) {
@@ -73,13 +44,11 @@ function getDir(url: string) {
   return undefined;
 }
 
-async function generateImage({ page, template, outDir, fonts }: GenerateImagesOptions) {
+async function generateImage({ page, template, outDir }: GenerateImagesOptions) {
   const { frontmatter, url } = page;
 
   const options: SatoriOptions = {
-    width: 1098,
-    height: 530,
-    fonts,
+    ...satoriConfig,
     props: {
       title:
         frontmatter.layout === "home"

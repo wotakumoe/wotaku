@@ -5,7 +5,7 @@ defineProps<{ title: string; description?: string; dir?: string }>();
 <template>
   <div
     tw="w-full h-full bg-black flex flex-col"
-    style="background-image: url(https://cdn.apollo.moe/img/embed.png)">
+    style="background-image: url(https://files.catbox.moe/tj0pzx.png)">
     <div tw="p-10 w-full min-h-0 grow flex flex-col items-center justify-between">
       <div tw="w-full flex justify-between items-center text-4xl font-medium">
         <div tw="flex items-center">
