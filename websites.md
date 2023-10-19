@@ -401,7 +401,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 :::
 
 
-![](/banner/ln.png)
+![](/banner/novels.png)
 
 ## Novels
 
