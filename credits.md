@@ -11,7 +11,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 
 ::: center
 # Contributors
-Thank you to all the contributors for your dedications and resources.
+A big thanks to everyone, for your dedications and resources
 
 <br>
 
@@ -19,7 +19,13 @@ Thank you to all the contributors for your dedications and resources.
 
 <Credits />
 
-### Resource Credits
+
+<br>
+
+
+:::center
+# Resource Credits
+:::
 
 :::tabs
 

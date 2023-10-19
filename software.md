@@ -148,8 +148,8 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
     - Comes with YAClibrary, which is like calibre for comics
     - No vertical reading mode
 - [**OpenComic**](https://github.com/ollm/OpenComic) <Badge type="info" text="win" /><Badge type="info" text="mac" /><Badge type="info" text="lin" />
-    - Decent UI
-    - Initial load times is slightly slower than above two readers
+    - FOSS & Decent UI
+    - Initial load times is slightly slower than previous readers
     - Has vertical reading mode with limited amount of customization
     - Does not clear cache automatically. Have to do it manually
 

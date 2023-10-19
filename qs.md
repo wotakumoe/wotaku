@@ -42,12 +42,8 @@ The basic things to get you started.
 
 == Android
 
-- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/)
-  <Badge icon="i-octicon-globe" text="Web" link="https://tachiyomi.org/"/>
-  <Badge icon="i-octicon-repo-forked" text="Forks" link="https://tachiyomi.org/forks/" />
-  <Badge text="Manga" />
-- [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta) <Badge text="Anime" />
-  <Badge text="Manga" />
+- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/) <Badge icon="i-octicon-globe" text="Web" link="https://tachiyomi.org/"/> <Badge icon="i-octicon-repo-forked" text="Forks" link="https://tachiyomi.org/forks/" /> <Badge text="Manga" />
+- [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta) <Badge text="Anime" /> <Badge text="Manga" />
 - [Quicknovel](https://github.com/LagradOst/QuickNovel) <Badge text="LN" />
 
 == iOS
@@ -59,12 +55,10 @@ The basic things to get you started.
 == PC
 
 - [Houdoku](https://github.com/xgi/houdoku) <Badge text="Manga" />
-- [CDisplayEx](https://www.cdisplayex.com/) <Badge text="Manga" />
+- [MComix](https://sourceforge.net/projects/mcomix/files/) <Badge text="Manga" />
 - [Miru](https://github.com/ThaUnknown/miru/) <Badge text="Anime" />
-- [Hakuneko](https://github.com/manga-download/hakuneko) <Badge text="Downloader" />
-  <Badge text="Anime" /> <Badge  text="Manga" />
-- [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2)
-  <Badge text="Downloader" /> <Badge  text="Manga" />
+- [Hakuneko](https://github.com/manga-download/hakuneko) <Badge text="Downloader" /> <Badge text="Anime" /> <Badge  text="Manga" />
+- [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) <Badge text="Downloader" /> <Badge  text="Manga" />
 
 :::
 
@@ -81,14 +75,10 @@ The basic things to get you started.
 
 == Browsers
 
-- [Iceraven](https://github.com/fork-maintainers/iceraven-browser)
-  <Badge text="Android" />
+- [Iceraven](https://github.com/fork-maintainers/iceraven-browser) <Badge text="Android" />
 - [Mull](https://github.com/Divested-Mobile/Mull-Fenix) <Badge text="Android" />
-- [Librewolf](https://librewolf.net/) <Badge text="Windows" />
-  <Badge text="Linux" /> <Badge  text="MacOS" />
-- [Brave](https://brave.com/) <Badge text="Android" /> <Badge  text="iOS" />
-  <Badge text="Windows" /> <Badge  text="Linux" />
-  <Badge text="MacOS" />
+- [Librewolf](https://librewolf.net/) <Badge text="Windows" /> <Badge text="Linux" /> <Badge  text="MacOS" />
+- [Brave](https://brave.com/) <Badge text="Android" /> <Badge  text="iOS" /> <Badge text="Windows" /> <Badge  text="Linux" /> <Badge text="MacOS" />
 - [Cromite](https://github.com/uazo/cromite) <Badge text="Android" />
 
 == Downloader

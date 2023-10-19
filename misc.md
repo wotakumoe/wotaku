@@ -308,6 +308,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [Animétudes](https://animetudes.com/)
     - [AnimeTV](https://twitter.com/animetv_jp)
     - [Let's Anime](https://letsanime.blogspot.com/)
+    - [Sakuga Blog](https://blog.sakugabooru.com/)
 - **Manga**
     - [Josu Ke](https://twitter.com/Josu_ke)
     - [Manga Alerts](https://twitter.com/MangaAlerts)
