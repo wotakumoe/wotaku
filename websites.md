@@ -36,7 +36,7 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
   - Huge library with Watch Together feature
   - Less amount of compression compared to other sites that use 3rd party hosts
   - Has both hardsub and softsub (multilingual)
-  - Original site's UI is bloated. Use [Anix](https://anix.to/home) or [9animehq](https://9animehq.to/home) for more minimal experience.
+  - Original site's UI is bloated. Use [Anix](https://anix.to/home) for more minimal experience.
 - [**KickAssAnime**](https://kickassanime.am/) <Badge type="info" text="Proxies" link="https://kickassanimes.info/" />
   - Scrapes **Crunchyroll**(duckstream) and **Bilibili**(birdstream)
   - KAA encodes(videstreaming) are quite good(the new encodes) and loads better.
