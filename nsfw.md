@@ -94,6 +94,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [Jasmine](https://github.com/niuhuan/jasmine)
 
 == PC
+- [ExHentai Manga Manager](https://github.com/SchneeHertz/exhentai-manga-manager)
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
 - [Jasmine](https://github.com/niuhuan/jasmine)
 - [Happypandax](https://github.com/happypandax/happypandax)

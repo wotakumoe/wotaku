@@ -1,9 +1,10 @@
 ---
 title: Websites
-description: Websites for anime, manga, light novels & more
+description: Websites for anime, manga, novels & more
 ---
 # Websites
-Online resources for anime, manga, light novels and more. All links have been carefully selected and vetted by our contributors.
+Online resources for anime, manga, novels and more.
+
 <br>
 
 ::: details Rating System
@@ -402,7 +403,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 ![](/banner/ln.png)
 
-## Light Novels
+## Novels
 
 :::tabs
 == Reader
@@ -416,6 +417,8 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Free web novel](https://freewebnovel.com/)
 - [Light Novel Pub](https://www.lightnovelpub.com/) <Badge type="tip" text="Light Novel World" link="https://www.lightnovelworld.com/" />
 - [Novel Buddy](https://novelbuddy.com/home)
+- [Novel Cool](https://www.novelcool.com/)
+- [Novel Full](https://novelfull.net/)
 - [Novel Hall](https://www.novelhall.com/)
 - [Novels Online](https://novelsonline.net/)
 - [Octopii](https://octopii.co/)
@@ -423,6 +426,8 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Read Light Novel](https://www.readlightnovel.me/)
 - [Read Novel Full](https://readnovelfull.com/)
 - [Royal Road](https://www.royalroad.com/home)
+- [VyNovel](https://vynovel.com/)
+- [Wuxia World](https://www.wuxiaworld.com/) <Badge type="info" text="Legal" />
 
 == Direct Download
 
@@ -565,7 +570,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 Websites for volume releases are added [here](/guides/digim.md)
 
-== Light Novel
+== Novel
 
 - [BookWalker](https://global.bookwalker.jp/)
 - [Dark Horse Comics](https://www.darkhorse.com/)

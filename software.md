@@ -58,7 +58,7 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
   - Tracking & sync support
   - Lacks some basic features
 
-== Light Novel
+== Novel
 
 - [**Moon+ Reader Pro**](https://play.google.com/store/apps/details?id=com.flyersoft.moonreaderp&hl=en&gl=US)
   - Customizable UI
@@ -181,7 +181,7 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
   - Has AL tracking and RSS feed
   - Can stream external magnet link and it'll auto detect the anime.
 
-### Light Novel
+### Novel
 
 - [Kavita](https://github.com/Kareadita/Kavita) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://www.kavitareader.com/" />
 - [Thorium reader](https://github.com/edrlab/thorium-reader)
@@ -308,7 +308,7 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
 - [**Hitomi Downloader**](https://github.com/KurtBestor/Hitomi-Downloader)
   - Supports mostly nsfw sites but works great for the supported ones
 
-== Light Novel
+== Novels
 
 - [**WebtoEpub**](https://chrome.google.com/webstore/detail/webtoepub/akiljllkbielkidmammnifcnibaigelm)
   - Rich with epub settings and customization

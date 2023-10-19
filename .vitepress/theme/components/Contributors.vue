@@ -20,11 +20,6 @@ const contribs = [
     site: "https://github.com/TubaApollo",
   },
   {
-    name: "Duckling",
-    avatar: "https://github.com/anotherduckling.png",
-    site: "https://github.com/anotherduckling",
-  },
-  {
     avatar: "/pfp/meme.png",
     name: "Memenami",
   },
@@ -66,6 +61,11 @@ const contribs = [
     name: "Kai",
     avatar: "https://github.com/Kai-FMHY.png",
     site: "https://github.com/Kai-FMHY",
+  },
+  {
+    name: "Kobayashi",
+    avatar: "https://github.com/kobayashi90.png",
+    site: "https://www.ryuko.space/",
   },
   {
     name: "loocool",

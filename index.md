@@ -19,7 +19,7 @@ aside: left
 
 features:
   - title: Websites
-    details: Websites for anime, manga, music, light novels & games
+    details: Websites for anime, manga, music, novels & games
     icon: 🌏
     link: /websites.md
   - title: Software
