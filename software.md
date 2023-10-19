@@ -132,12 +132,12 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
     - new tab window while stream reading
 
 == Offline
-- [**MComix**](https://sourceforge.net/p/mcomix/wiki/Installation/) <Badge type="info" text="win" /> <Badge type="info" text="lin" />
+- [**MComix**](https://sourceforge.net/projects/mcomix/files/) <Badge type="info" text="win" /> <Badge type="info" text="lin" />
     - FOSS and minimal UI
     - Quite responsive with good amount of customization
     - Has nice library option, also remembers last reading options
     - Has 3 scaling options. Normal, Bilinear (default) and hyperbolic
-    - No vertical reading mode 
+    - No vertical reading mode
 - [**CDisplayEx**](https://www.cdisplayex.com/) <Badge type="info" text="win" />
     - Minimalist UI
     - Fast and simple reader with good amount of configuration
