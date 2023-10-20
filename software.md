@@ -140,10 +140,11 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
     - Minimalist UI
     - Fast and simple reader with good amount of configuration
     - Has Nearest, Draft, linear and Lanczos (with various level) as scaling options
-    - Not FOSS and not maintained since the development team has marked it as complete.
+    - Not FOSS and not maintained since the development team has marked it as complete
+    - No library view, only recent reads
 - [**YACReader**](https://www.yacreader.com/) <Badge type="info" text="win" /><Badge type="info" text="mac" /><Badge type="info" text="lin" />
     - The reader has all the necessary stuff and remembers last read history
-    - The Reader has no built in library like MComix, only recent reads
+    - It doesn't have built in library like MComix, only recent reads
     - The bundled YACLibrary is better than all the other readers
     - You can customize a lot of things there and can act like a local manga server like calibre
     - But the server client for [Android](https://play.google.com/store/apps/details?id=com.yacreader.yacreader&hl=en&gl=US) and [iOS](https://apps.apple.com/ca/app/yacreader-comic-reader/id635717885) is paid
