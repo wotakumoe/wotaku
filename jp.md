@@ -321,6 +321,7 @@ Interested in learning the japanese language? Here you can find resources to aid
   - [Asbplayer](https://killergerbah.github.io/asbplayer/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/killergerbah/asbplayer" />
   - [Voracious](https://voracious.app/)
 - Extension
+  - [10ten Japanese Reader](https://github.com/birchill/10ten-ja-reader)
   - [jimaku player](https://github.com/sheodox/jimaku-player)
   - [JP Study tools](https://github.com/rudnam/JP-study)
   - [Language Reactor](https://www.languagereactor.com/)
