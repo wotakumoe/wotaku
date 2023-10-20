@@ -26,6 +26,7 @@
     "x-satori": "^0.1.5"
   },
   "devDependencies": {
+    "@iconify-json/fluent-emoji": "^1.1.15",
     "@iconify-json/fxemoji": "^1.1.5",
     "@iconify-json/gg": "^1.1.6",
     "@iconify-json/ic": "^1.1.14",

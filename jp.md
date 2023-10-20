@@ -200,7 +200,10 @@ Interested in learning the japanese language? Here you can find resources to aid
 
 :::
 
+<Button link="/misc#japan" icon="i-fluent-emoji-map-of-japan">For more about Japan's history and culture click here</Button>
+
 ![](/banner/books.png)
+
 
 ## Books
 
