@@ -136,22 +136,24 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
     - Minimal & resposive UI with good amount of customization
     - Has nice library option, also remembers last reading options
     - Has 3 scaling options. Normal, Bilinear (default) and hyperbolic
+- [**YACReader**](https://www.yacreader.com/) <Badge type="info" text="win" /><Badge type="info" text="mac" /><Badge type="info" text="lin" />
+    - Has all the standard features, keeps last read history
+    - Doesn't have built-in library like MComix, only the history
+    - The bundled YACLibrary is excellent
+    - Lots of customization
+    - Can act like a local manga server like calibre
+    - But the server client for [Android](https://play.google.com/store/apps/details?id=com.yacreader.yacreader&hl=en&gl=US) and [iOS](https://apps.apple.com/ca/app/yacreader-comic-reader/id635717885) is paid
 - [**CDisplayEx**](https://www.cdisplayex.com/) <Badge type="info" text="win" />
     - Minimalist UI
     - Fast and simple reader with good amount of configuration
     - Has Nearest, Draft, linear and Lanczos (with various level) as scaling options
     - Not FOSS and not maintained since the development team has marked it as complete
     - No library view, only recent reads
-- [**YACReader**](https://www.yacreader.com/) <Badge type="info" text="win" /><Badge type="info" text="mac" /><Badge type="info" text="lin" />
-    - The reader has all the necessary stuff and remembers last read history
-    - It doesn't have built in library like MComix, only recent reads
-    - The bundled YACLibrary is better than all the other readers
-    - You can customize a lot of things there and can act like a local manga server like calibre
-    - But the server client for [Android](https://play.google.com/store/apps/details?id=com.yacreader.yacreader&hl=en&gl=US) and [iOS](https://apps.apple.com/ca/app/yacreader-comic-reader/id635717885) is paid
-- [**OpenComic**](https://github.com/ollm/OpenComic) <Badge type="info" text="win" /><Badge type="info" text="mac" /><Badge type="info" text="lin" />
-    - Decent UI but a bit laggier than others
-    - Has vertical reading mode with limited amount of customization
-    - Does not clear cache automatically. Have to do it manually
+- [**SumatraPDF**](https://www.sumatrapdfreader.org/free-pdf-reader) <Badge type="info" text="win" />
+    - Very simple program with all the standard features
+    - Doesn't have a library, but keeps track of recently opened files
+    - Includes vertical mode
+    - Can open a variety of ebook formats (PDF, epub, mobi, cbz/cbr, DjVu, XPS, CHM)
 
 == Hosting
 - [**Komga**](https://komga.org/)
@@ -174,6 +176,7 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
 :::
 
 :::details More {open}
+- [OpenComic](https://github.com/ollm/OpenComic) <Badge type="info" text="offline" />
 - [Yomikiru](https://github.com/mienaiyami/yomikiru) <Badge type="info" text="offline" />
 - [LANraragi](https://github.com/Difegue/LANraragi) <Badge type="info" text="Self-hosted" />
 :::
