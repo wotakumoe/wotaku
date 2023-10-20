@@ -133,23 +133,22 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
 
 == Offline
 - [**MComix**](https://sourceforge.net/projects/mcomix/files/) <Badge type="info" text="win" /> <Badge type="info" text="lin" />
-    - FOSS and minimal UI
-    - Quite responsive with good amount of customization
+    - Minimal & resposive UI with good amount of customization
     - Has nice library option, also remembers last reading options
     - Has 3 scaling options. Normal, Bilinear (default) and hyperbolic
-    - No vertical reading mode
 - [**CDisplayEx**](https://www.cdisplayex.com/) <Badge type="info" text="win" />
     - Minimalist UI
     - Fast and simple reader with good amount of configuration
-    - Has more scaling options with Lanczos
-    - No vertical reading mode
+    - Has Nearest, Draft, linear and Lanczos (with various level) as scaling options
+    - Not FOSS and not maintained since the development team has marked it as complete.
 - [**YACReader**](https://www.yacreader.com/) <Badge type="info" text="win" /><Badge type="info" text="mac" /><Badge type="info" text="lin" />
-    - Fast and customizable
-    - Comes with YAClibrary, which is like calibre for comics
-    - No vertical reading mode
+    - The reader has all the necessary stuff and remembers last read history
+    - The Reader has no built in library like MComix, only recent reads
+    - The bundled YACLibrary is better than all the other readers
+    - You can customize a lot of things there and can act like a local manga server like calibre
+    - But the server client for [Android](https://play.google.com/store/apps/details?id=com.yacreader.yacreader&hl=en&gl=US) and [iOS](https://apps.apple.com/ca/app/yacreader-comic-reader/id635717885) is paid
 - [**OpenComic**](https://github.com/ollm/OpenComic) <Badge type="info" text="win" /><Badge type="info" text="mac" /><Badge type="info" text="lin" />
-    - FOSS & Decent UI
-    - Initial load times is slightly slower than previous readers
+    - Decent UI but a bit laggier than others
     - Has vertical reading mode with limited amount of customization
     - Does not clear cache automatically. Have to do it manually
 
