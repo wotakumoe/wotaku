@@ -257,6 +257,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - Watch this for the introduction only (till `21:42`), since the software section is outdated.
     - [So, you wanna get into VSynth Covers](https://www.youtube.com/watch?v=ySledv37IrQ)
 - [The Foundations of Making Vocaloid - A Beginner's Guide Tutorial](https://www.youtube.com/watch?v=6cisVNaOJXY)
+- [A guide to Vocaloid concerts](https://www.youtube.com/watch?v=2JtLAwllxI8) <Badge type="info" text="Part 2" link="https://www.youtube.com/watch?v=OzPKF-DMuUE" />
 - [IDOL - The Terrifying Reality of Perfect Blue](https://www.youtube.com/watch?v=WAcb_57r1Bo)
 - [The Philosophy of Vtubers](https://www.youtube.com/watch?v=Z8r6jFyISBg)
 - [Smoother animation ≠ Better animation [AI ENHANCED]](https://www.youtube.com/watch?v=_KRb_qV9P4g)

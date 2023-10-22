@@ -394,6 +394,8 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
   - [Touhou Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-touhou-music/)
   - [Vocaloid](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-vocaloid/)
   - [Utaite Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-utaite-music/)
+- **Playlists**
+  - [Vocaloid Big Hits](https://music.youtube.com/playlist?list=RDCLAK5uy_mgu07-HoqLSU-WqjK2ldEQWLuPPm3CAy8)
 - **Others**
   - [Songle](https://songle.jp/)
 
