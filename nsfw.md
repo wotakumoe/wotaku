@@ -11,8 +11,8 @@ Everyone has to let off some steam once in a while, we don't judge.
 
 :::tabs
 == Anime
-- [AnimeID Hentai](https://animeidhentai.com/)
 - [Eronews](https://en.eroeronews.com/) <Badge type="tip" text="Schedule & News" />
+- [AnimeID Hentai](https://animeidhentai.com/)
 - [Haho](https://haho.moe/)
 - [Hanime](https://hanime.tv/) <Badge type="info" text="720p" />
 - [Hentai Bar](https://hentaibar.com/)
@@ -46,6 +46,8 @@ Everyone has to let off some steam once in a while, we don't judge.
     - NSFW portion of nyaa.
 - [Chika Panda](https://panda.chaika.moe/)
     - Archive of stuff removed from E-Hentai due to DMCA complaints. has fakku/irodori stuff.
+- [Pururin](https://pururin.to/)
+- [Tsumino](https://www.tsumino.com/)
 - [nyanpantsu](https://nyanpantsu.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/purpleblueslime/nyanpantsu" />
 - [Wholesome Hentai God List](https://wholesomelist.com/)
 
