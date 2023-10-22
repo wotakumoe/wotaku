@@ -82,7 +82,6 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 - [Anime Senpai](https://www.animesenpai4u.com/) <Badge type="info" text="GDrive" /><Badge type="info" text="Mega" /><Badge type="info" text="no ad" />
 - [Kayo anime](https://kayoanime.com/) <Badge type="info" text="GDrive" /><Badge type="info" text="no ad" />
 - [Chauthanh](https://chauthanh.info/) <Badge type="info" text="Direct" /><Badge type="info" text="no ad" />
-- [Anime time](https://www.animetime.pw/) <Badge type="info" text="GDrive" /><Badge type="info" text="ad" />
 - [RIP Crabby Anime](https://ripcrabbyanime.in/) <Badge type="info" text="GDrive" /><Badge type="info" text="no ad" />
 - [JPFiles](https://jpfiles.eu/) <Badge type="info" text="Blu-ray" /><Badge type="info" text="Misc" /><Badge type="info" text="Host" />
 - [JPLearner](http://www.jplearner.to/) <Badge type="info" text="Blu-ray" /><Badge type="info" text="Misc" /><Badge type="info" text="Host" />
@@ -521,11 +520,46 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [PKHeX](https://github.com/kwsch/PKHeX)
 - [Universal Pokémon Randomizer ZX](https://github.com/Ajarmar/universal-pokemon-randomizer-zx/)
 
-== VN
+== Yu-Gi-Oh!
 
+### Databases
+- [Official card database](https://www.db.yugioh-card.com/yugiohdb/)
+- [YGOrganization](https://db.ygorganization.com/) <Badge type="info" text="Cards and Rulings" />
+- [Master Duel Meta](https://www.masterduelmeta.com/)
+- [Duel Links Meta](https://www.duellinksmeta.com/)
+- [YGOPro Deck](https://ygoprodeck.com/) <Badge type="info" icon="i-iconoir-community" text="Forum" link="https://ygoprodeck.com/forum/" /> <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.com/invite/nx24PSBGFE" />
+- [Yugipedia](https://yugipedia.com/wiki/Yugipedia)
+- [Fandom Wiki](https://yugioh.fandom.com/wiki/Yu-Gi-Oh!_Wiki)
+
+### Official Simulators
+- [Master Duel](https://www.konami.com/yugioh/masterduel/us/en/)
+- [Duel Links](https://www.konami.com/yugioh/duel_links/en/)
+- [Yu-Gi-Oh! Neuron](https://www.konami.com/yugioh/neuron/en/)
+
+### Unofficial Simulators
+- [Dueling Book](https://www.duelingbook.com/) <Badge type="info" text="Website" />
+- [EDO Pro](https://projectignis.github.io/download.html) <Badge type="info" text="Client" /> <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/ygopro-percy" />
+- [YGO Omega](https://omega.duelistsunite.org/) <Badge type="info" text="Client" /> <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/duelistsunite" />
+
+### Alternative/Historic Formats
+- [Goat Format](https://www.goatformat.com/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/Mjgy3fN " />
+- [Edison Format](https://www.edisonformat.com/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.com/invite/rceESCvNkf" />
+
+### Subreddits
+- [Yu-Gi-Oh!](https://www.reddit.com/r/yugioh/)
+- [Master Duel](https://www.reddit.com/r/masterduel/)
+- [Duel Links](https://www.reddit.com/r/DuelLinks/)
+- [Goat Format](https://www.reddit.com/r/Goat_Format/)
+
+== More
+
+### VN
 - [CPG Repacks](https://cpgrepacks.site)
 - [Eroge Download](https://erogedownload.com/)
 - [Ryuu games](https://www.ryuugames.com/)
+
+### Others
+- [Digimon Basic](https://digimon-basic.org/)
 
 :::
 

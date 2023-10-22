@@ -27,7 +27,13 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
   - Has manga reader too
   - Tracking support with enhanced type
   - Good amount of extensions are broken
-
+- [**Dantotsu**](https://github.com/rebelonion/Dantotsu#dantotsu){target="_blank"}
+  - App is based on saikou, uses tachiyomi & aniyomi plugins
+  - ⚠️ App is alpha. So there are optimzation & stability issues
+  - Decent UI but limited customization
+  - Can be used offline
+  - Also offers manga reader
+  - Anilist and MAL sync
 :::details More {open}
 
 - [Kaizoyu!](https://github.com/astarivi/Kaizoyu) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://kaizoyu.ovh" /><Badge type="info" text="XDCC" />
