@@ -548,7 +548,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 ### Subreddits
 - [Yu-Gi-Oh!](https://www.reddit.com/r/yugioh/)
 - [Master Duel](https://www.reddit.com/r/masterduel/)
-- [Duel Links](https://www.reddit.com/r/DuelLinks/)
+- [Duel Links](https://www.reddit.com/r/DuelLinks/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discordapp.com/invite/DuelLinks" />
 - [Goat Format](https://www.reddit.com/r/Goat_Format/)
 
 == More
