@@ -123,7 +123,7 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
     - complicated requirements such as JAVA
 - [**Sorayomi**](https://github.com/Suwayomi/Tachidesk-Sorayomi)
     - Needs Tachidesk server to work
-    - Minimal and easy to use, outdated 2022
+    - Minimal and easy to use
     - insufficient features
     - loads slowly (depends on your internet)
 - [**Tachidesk JUI**](https://github.com/Suwayomi/Tachidesk-JUI)

@@ -32,6 +32,8 @@ Everyone has to let off some steam once in a while, we don't judge.
     - Hidden domain of e-hentai that also has more extreme tags. 
 - [nHentai](https://nhentai.net/)
     - Most popular. Decent UI but compresses images
+- [Anchira](https://anchira.to/)
+    - fakku/irodori rips (official TLs)
 - [IMHentai](https://imhentai.xxx/)
     - Big Library and great search filters.
 - [Hitomi](https://hitomi.la/)
