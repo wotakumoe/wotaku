@@ -538,7 +538,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Yu-Gi-Oh! Neuron](https://www.konami.com/yugioh/neuron/en/)
 
 ### Unofficial Simulators
-- [Dueling Book](https://www.duelingbook.com/) <Badge type="info" text="Website" />
+- [Dueling Book](https://www.duelingbook.com/) <Badge type="info" text="Website" /> <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/VE3xQZc" />
 - [EDO Pro](https://projectignis.github.io/download.html) <Badge type="info" text="Client" /> <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/ygopro-percy" />
 - [YGO Omega](https://omega.duelistsunite.org/) <Badge type="info" text="Client" /> <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/duelistsunite" />
 

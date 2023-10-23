@@ -1,5 +1,6 @@
 ---
-title: Anime
+title: Fate Anime W/O
+description: Good Luck!
 ---
 # Fate Anime Watch Order
 
@@ -17,9 +18,9 @@ It's the Main series/arc. Fate Zero is the series that tooks place before [**Shi
 8. [Fate/stay night [Heaven’s Feel] III. spring song](https://anilist.co/anime/21719/Fatestay-night-Heavens-Feel-III-spring-song/)
 
 ::: tip Notes 
-1. Fate/stay night by Studio DEEN is the Saber Arc. You can skip it if u don't like the animation.
-2. Fate/stay night: Unlimited Blade Works is the Rin Tohsaka Arc.
-3. Fate/stay night [Heaven's Feel] is the Sakura Matou Arc.
+1. "**Fate/stay night**" by Studio DEEN is the Saber Arc. You can skip it if u don't like the animation.
+2. "**Fate/stay night: Unlimited Blade Works**" is the Rin Tohsaka Arc.
+3. "**Fate/stay night [Heaven's Feel]**" is the Sakura Matou Arc.
 :::
 
 
@@ -28,7 +29,7 @@ It's the Main series/arc. Fate Zero is the series that tooks place before [**Shi
 :::tabs
 
 == Release Order
-1. [Fate/Grand Order: First Order ](https://anilist.co/anime/97815/FateGrand-Order-First-Order/)
+1. [Fate/Grand Order: First Order](https://anilist.co/anime/97815/FateGrand-Order-First-Order/)
 2. [Fate/Grand Order Absolute Demonic Front: Babylonia - Initium Iter](https://anilist.co/anime/110851/FateGrand-Order-Absolute-Demonic-Front-Babylonia--Initium-Iter/)
 3. [Fate/Grand Order Absolute Demonic Front: Babylonia](https://anilist.co/anime/103275/FateGrand-Order-Absolute-Demonic-Front-Babylonia/)
 4. [Fate/Grand Order Divine Realm of the Round Table: Camelot - Wandering; Agateram](https://anilist.co/anime/103276/FateGrand-Order-Divine-Realm-of-the-Round-Table-Camelot--Wandering-Agateram/)
@@ -50,12 +51,12 @@ It's the Main series/arc. Fate Zero is the series that tooks place before [**Shi
 - After "**Fate/Grand Order: First Order**" there's a big story skip to "**Fate/Grand Order Divine Realm of the Round Table: Camelot - Paladin; Agateram**". 
 - Camelot is the Sixth [Singularity](https://typemoon.fandom.com/wiki/Singularity) of the Fate/Grand Order series. There are six more singularites before Camelot including "Singularity F".
 
-![Singularities of Fate/Grand](/ss/singularity.png)
+![Singularities of Fate/Grand Order](/ss/singularity.png)
 
 :::
 
 ::: info Games
-Fate/Grand Order is gacha RPG game. To know the stories before Camelot, you can play the "Fate/Grand Order" which is available in both iOS and Android. There are two versions of the game. One is Japanese Version and another is the North American version. The Japanese version is 2 years ahead of the NA version. App downloads are region locked but you can sideload them from anywhere also playable without VPN.
+Fate/Grand Order is gacha RPG game. To know the stories before Camelot, you can play the "**Fate/Grand Order**" which is available in both iOS and Android. There are two versions of the game. One is Japanese Version and another is the North American version. The Japanese version is 2 years ahead of the NA version. App downloads are region locked but you can sideload them from anywhere also playable without VPN.
 
 - **Japanese** <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.aniplex.fategrandorder" /> <Badge type="tip" icon="i-logos-apple-app-store" text="iOS" link="https://apps.apple.com/jp/app/fate-grand-order/id1015521325" />
 
@@ -64,7 +65,7 @@ Fate/Grand Order is gacha RPG game. To know the stories before Camelot, you can 
 :::
 
 ## Lord El-Melloi II's Case Files
-This is connected to Fate/stay night cause it has characters and events from that series.
+This is connected to "**Fate/stay night**" cause it has characters and events from that series.
 
 1. [Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note - A Grave Keeper, a Cat, and a Mage](https://anilist.co/anime/106862/Lord-ElMelloi-IIs-Case-Files-Rail-Zeppelin-Grace-note--A-Grave-Keeper-a-Cat-and-a-Mage/)
 2. [Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note](https://anilist.co/anime/106918/Lord-ElMelloi-IIs-Case-Files-Rail-Zeppelin-Grace-note/)
@@ -80,7 +81,7 @@ Watch this after finishing the "**Lord El-Melloi II's Case Files**" series.
 
 
 ## Unrelated Spin Offs
-These aren't related to the Main Series nor the Fate/Grand Order Series.
+These aren't related to the "**Fate**" main series nor the "**Fate/Grand Order**" series.
 
 1. [Fate/Apocrypha](https://anilist.co/anime/98035/FateApocrypha/)
 2. [Fate/EXTRA Last Encore](https://anilist.co/anime/21717/FateEXTRA-Last-Encore/)
@@ -97,7 +98,7 @@ These aren't related to the Main Series nor the Fate/Grand Order Series.
 13. [Today's Menu for the Emiya Family](https://anilist.co/anime/100855/Todays-Menu-for-the-Emiya-Family/)
 
 ::: tip Notes
-- Fate/EXTRA Last Encore is a pseudo sequel to Fate/EXTRA which is a video game.
+- "**Fate/EXTRA Last Encore**" is a pseudo sequel to "**Fate/EXTRA**" which is a video game.
 - The list of "**Fate/kaleid liner Prisma☆Illya**" is in watch order.
 :::
 
@@ -127,7 +128,7 @@ These aren't related to the Main Series nor the Fate/Grand Order Series.
 
 == Chronological Order
 
-Don't Use this If you are watching Kara no Kyouokai for the first time. Only watch in this order if you have watched it in the Release Order before and are confident enough that you'll be abe to understand it by watching it in the Chronological Order.
+Don't Use this If you are watching "**Kara no Kyouokai**" for the first time. Only watch in this order if you have watched it in the Release Order before and are confident enough that you'll be abe to understand it by watching it in the Chronological Order.
 
 1. [Kara no Kyoukai 2: Satsujin Kousatsu I](https://anilist.co/anime/3782/the-Garden-of-sinners-Chapter-2-and-nothing-heart-Murder-Speculation-Part-A/)
 2. [Kara no Kyoukai 4: Gara no Dou](https://anilist.co/anime/4280/the-Garden-of-sinners-Chapter-4-garannodou-The-Hollow-Shrine/)
