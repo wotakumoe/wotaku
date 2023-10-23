@@ -5,7 +5,7 @@ title: Anime
 
 ## Fate Series
 
-It's the Main series/arc. Fate Zero is the series that tooks place before Shirou Emiya was introduced [The MC of the Series] and its also the first Holy Grail War of the Fate Series. The MC of this series is Kiritsugu Emiya and this is where the story begins.
+It's the Main series/arc. Fate Zero is the series that tooks place before [**Shirou Emiya**](https://typemoon.fandom.com/wiki/Shirou_Emiya) was introduced [The MC of the Series] and its also the first Holy Grail War of the Fate Series. The MC of this series is Kiritsugu Emiya and this is where the story begins.
 
 1. [Fate/Zero 1<sup>st</sup> Season](https://anilist.co/anime/10087/FateZero/)
 2. [Fate/Zero 2<sup>nd</sup> Season](https://anilist.co/anime/11741/FateZero-Season-2/)
@@ -47,8 +47,11 @@ It's the Main series/arc. Fate Zero is the series that tooks place before Shirou
 
 
 ::: tip Notes
-- After "Fate/Grand Order: First Order" there's a big story skip to "Fate/Grand Order Divine Realm of the Round Table: Camelot - Paladin; Agateram". 
-- Camelot is the Sixth Singularity of the Fate/Grand Order series. There are six more singularites before Camelot including "Singularity F".
+- After "**Fate/Grand Order: First Order**" there's a big story skip to "**Fate/Grand Order Divine Realm of the Round Table: Camelot - Paladin; Agateram**". 
+- Camelot is the Sixth [Singularity](https://typemoon.fandom.com/wiki/Singularity) of the Fate/Grand Order series. There are six more singularites before Camelot including "Singularity F".
+
+![Singularities of Fate/Grand](/ss/singularity.png)
+
 :::
 
 ::: info Games
@@ -70,13 +73,13 @@ This is connected to Fate/stay night cause it has characters and events from tha
 
 
 ## Fate/strange Fake
-Watch this after finishing the "Lord El-Melloi II's Case Files" series.
+Watch this after finishing the "**Lord El-Melloi II's Case Files**" series.
 
 1. [Fate/strange Fake -Whispers of Dawn-](https://anilist.co/anime/154966/Fatestrange-Fake-Whispers-of-Dawn/)
 2. [Fate/strange Fake](https://anilist.co/anime/166617/Fatestrange-Fake/) [Not Yet Released]
 
 
-## Unrelated spin offs
+## Unrelated Spin Offs
 These aren't related to the Main Series nor the Fate/Grand Order Series.
 
 1. [Fate/Apocrypha](https://anilist.co/anime/98035/FateApocrypha/)
@@ -95,7 +98,7 @@ These aren't related to the Main Series nor the Fate/Grand Order Series.
 
 ::: tip Notes
 - Fate/EXTRA Last Encore is a pseudo sequel to Fate/EXTRA which is a video game.
-- The list of "Fate/kaleid liner Prisma☆Illya" is in watch order.
+- The list of "**Fate/kaleid liner Prisma☆Illya**" is in watch order.
 :::
 
 <br>
@@ -118,13 +121,13 @@ These aren't related to the Main Series nor the Fate/Grand Order Series.
 9. [Kara no Kyoukai: Shuushou](https://anilist.co/anime/6954/the-Garden-of-sinners-Chapter-8-The-Final-Chapter/) <Badge type="info" text="Epilogue" />
 
 ::: tip Note
-- Kara no Kyoukai Remix: Gate of seventh heaven is an optional watch. It recaps the previous movies with a few new scenes. Often it can help make things a little more clear and help understand what's going on.
-- You should also watch the movie [Kara no Kyoukai: Mirai Fukuin (2013)](https://anilist.co/anime/14807/the-Garden-of-sinners-recalled-out-summer/) and [Mirai Fukuin Extra Chorus](https://anilist.co/anime/20697/the-Garden-of-sinners-recalled-out-summer-extra-chorus/) to top it off.
+- "**Kara no Kyoukai Remix: Gate of seventh heaven**" is an optional watch. It recaps the previous movies with a few new scenes. Often it can help make things a little more clear and help understand what's going on.
+- You should also watch the movie [**Kara no Kyoukai: Mirai Fukuin (2013)**](https://anilist.co/anime/14807/the-Garden-of-sinners-recalled-out-summer/) and [Mirai Fukuin Extra Chorus](https://anilist.co/anime/20697/the-Garden-of-sinners-recalled-out-summer-extra-chorus/) to top it off.
 
 
 == Chronological Order
 
-> Don't Use this If you are watching Kara no Kyouokai for the first time. Only watch in this order if you have watched it in the Release Order before and are confident enough that you'll be abe to understand it by watching it in the Chronological Order.
+Don't Use this If you are watching Kara no Kyouokai for the first time. Only watch in this order if you have watched it in the Release Order before and are confident enough that you'll be abe to understand it by watching it in the Chronological Order.
 
 1. [Kara no Kyoukai 2: Satsujin Kousatsu I](https://anilist.co/anime/3782/the-Garden-of-sinners-Chapter-2-and-nothing-heart-Murder-Speculation-Part-A/)
 2. [Kara no Kyoukai 4: Gara no Dou](https://anilist.co/anime/4280/the-Garden-of-sinners-Chapter-4-garannodou-The-Hollow-Shrine/)
