@@ -287,7 +287,6 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 == Manhwa
 
 - [Asura Scans](https://www.asurascans.com/) + 🇨🇳 | <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/juxsa9z/asura" />
-- [Flame Scans](https://flamescans.org/) + 🇨🇳 | <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/fdad9851-164f-43fc-9ab0-25b8054c99ed/flame-scans" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/btgsdiy/flame-scans" />
 - [Immortal Updates](https://immortalupdates.com/) + 🇨🇳 | <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/1296f28d-7888-4fcc-8861-93edb6c05e8c/immortal-updates-scan" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/10z1hxo/immortal-updates-scan" />
 - [Leviatan scans](https://en.leviatanscans.com/home/) + 🇨🇳 | <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/rot79ib/leviatanscans" />
 - [Luminous Scans](https://luminousscans.com/) | <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/jufm30w/luminous" />
@@ -307,7 +306,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Manhua Ga](https://manhuaga.com/)
 - [Manhua Plus](https://manhuaplus.com/) | <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/3apm0du/manhua-plus" />
 - [Manhua SY](https://www.manhuasy.com/manhua/) | [Manga SY](https://www.mangasy.com/)
-- [Realm Scans](https://realmscans.com/) + 🇰🇷 | <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/g8dqjxt/realm-scans" />
+- [Realm Scans](https://rizzcomic.com/) + 🇰🇷 | <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/g8dqjxt/realm-scans" />
 - [xCaliBR Scans](https://xcalibrscans.com/) | <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/ynopo9s/cursed-xcalibr" />
 
 
