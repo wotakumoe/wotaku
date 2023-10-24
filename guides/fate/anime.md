@@ -6,7 +6,9 @@ description: Good Luck!
 
 ## Fate Series
 
-It's the Main series/arc. Fate Zero is the series that tooks place before [**Shirou Emiya**](https://typemoon.fandom.com/wiki/Shirou_Emiya) was introduced [The MC of the Series] and its also the first Holy Grail War of the Fate Series. The MC of this series is Kiritsugu Emiya and this is where the story begins.
+This is the main series.
+
+Fate/Zero is the series that tooks place before [**Shirou Emiya**](https://typemoon.fandom.com/wiki/Shirou_Emiya) (the MC of the series) was introduced and its also the first Holy Grail War of the Fate Series. The MC of this series is Kiritsugu Emiya and this is where the story begins.
 
 1. [Fate/Zero 1<sup>st</sup> Season](https://anilist.co/anime/10087/FateZero/)
 2. [Fate/Zero 2<sup>nd</sup> Season](https://anilist.co/anime/11741/FateZero-Season-2/)
@@ -48,7 +50,7 @@ It's the Main series/arc. Fate Zero is the series that tooks place before [**Shi
 
 
 ::: tip Notes
-- After "**Fate/Grand Order: First Order**" there's a big story skip to "**Fate/Grand Order Divine Realm of the Round Table: Camelot - Paladin; Agateram**". 
+- After "**Fate/Grand Order: First Order**" there's a big story skip to "**Fate/Grand Order Divine Realm of the Round Table: Camelot - Paladin; Agateram**". "**Fate/Grand Order: First Order**" covered singularity F
 - Camelot is the Sixth [Singularity](https://typemoon.fandom.com/wiki/Singularity) of the Fate/Grand Order series. There are six more singularites before Camelot including "Singularity F".
 
 ![Singularities of Fate/Grand Order](/ss/singularity.png)

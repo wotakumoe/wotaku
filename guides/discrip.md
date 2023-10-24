@@ -148,6 +148,6 @@ You may also want to try rental services. If you're in the US (which good luck i
 
 :::details I have another question not answered here.
 
-If it's related to MakeMKV, you can ask on [their forums.](https://forum.makemkv.com/forum/) If it's related to AnyDVD, you can ask on [RedFox's forums.](https://forum.redfox.bz/) These two have very helpful members (although you shouldn't mention that you're using it for piracy. Obviously.) You can also try asking on [FMHY](https://fmhy.divolt.xyz/)
+If it's related to MakeMKV, you can ask on [their forums.](https://forum.makemkv.com/forum/) If it's related to AnyDVD, you can ask on [RedFox's forums.](https://forum.redfox.bz/) These two have very helpful members (although you shouldn't mention that you're using it for piracy. Obviously.) You can also try asking on [FMHY](https://fmhy.divolt.xyz/) or  on [c/piracy](https://lemmy.dbzer0.com/c/piracy).
 :::
 
