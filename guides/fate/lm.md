@@ -4,7 +4,7 @@ title: Type-Moon's Novels and Manga
 
 # Type-Moon's Novels and Manga
 
-
+![](/banner/novels.png)
 ## Novels & Light Novels
 1. Kara no Kyoukai <Badge type="info" text="Novel Updates" link="https://www.novelupdates.com/series/kara-no-kyoukai/" />
 2. Fate/zero <Badge type="info" text="AniList" link="https://anilist.co/manga/33649/FateZero/" /> <Badge type="info" text="Novel Updates" link="https://www.novelupdates.com/series/fatezero/" />
@@ -19,6 +19,8 @@ title: Type-Moon's Novels and Manga
 11. Notes (Angel Notes) <Badge type="info" text="MyAnimeList" link="https://myanimelist.net/manga/4594/Notes" />
 12. Fate/stay night: Garden of Avalon <Badge type="info" text="MyAnimeList" link="https://myanimelist.net/manga/85773/Fate_stay_night__Garden_of_Avalon" /> <Badge type="info" text="Novel Updates" link="https://www.novelupdates.com/series/garden-of-avalon/" />
 
+
+![](/banner/manga.png)
 ## MANGA
 1. Fate/stay night <Badge type="info" text="AniList" link="https://anilist.co/manga/30715/Fatestay-night/" />
 2. Fate/Zero <Badge type="info" text="AniList" link="https://anilist.co/manga/55191/FateZero/" />

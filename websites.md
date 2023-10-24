@@ -288,7 +288,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 - [Asura Scans](https://www.asurascans.com/) + 🇨🇳 | <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/juxsa9z/asura" />
 - [Immortal Updates](https://immortalupdates.com/) + 🇨🇳 | <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/1296f28d-7888-4fcc-8861-93edb6c05e8c/immortal-updates-scan" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/10z1hxo/immortal-updates-scan" />
-- [Leviatan scans](https://en.leviatanscans.com/home/) + 🇨🇳 | <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/rot79ib/leviatanscans" />
+- [LSComic](https://lscomic.com/) + 🇨🇳 | <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/rot79ib/leviatanscans" />
 - [Luminous Scans](https://luminousscans.com/) | <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/jufm30w/luminous" />
 - [Manhwa Freak](https://manhwafreak.com/) | <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/3cc5b54a-b20e-4fc5-b2aa-bb51fed328dc/manhwafreak" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/busmxbf/manhwafreak" />
 - [MM Scans](https://mm-scans.org/) | <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/35ab5df4-f668-4ca4-895d-3e02cef509b6/mmscans" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/wctgyjk/mmscans" />
@@ -306,7 +306,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Manhua Ga](https://manhuaga.com/)
 - [Manhua Plus](https://manhuaplus.com/) | <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/3apm0du/manhua-plus" />
 - [Manhua SY](https://www.manhuasy.com/manhua/) | [Manga SY](https://www.mangasy.com/)
-- [Realm Scans](https://rizzcomic.com/) + 🇰🇷 | <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/g8dqjxt/realm-scans" />
+- [Rizz Comic](https://rizzcomic.com/) + 🇰🇷 | <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/g8dqjxt/realm-scans" />
 - [xCaliBR Scans](https://xcalibrscans.com/) | <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/ynopo9s/cursed-xcalibr" />
 
 
