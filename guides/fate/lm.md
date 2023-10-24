@@ -1,8 +1,8 @@
 ---
-title: Type-Moon's Novels and Manga
+title: Type-Moon Novels & Manga
 ---
 
-# Type-Moon's Novels and Manga
+# Type-Moon Novels & Manga
 
 ![](/banner/novels.png)
 ## Novels & Light Novels
@@ -21,7 +21,7 @@ title: Type-Moon's Novels and Manga
 
 
 ![](/banner/manga.png)
-## MANGA
+## Manga
 1. Fate/stay night <Badge type="info" text="AniList" link="https://anilist.co/manga/30715/Fatestay-night/" />
 2. Fate/Zero <Badge type="info" text="AniList" link="https://anilist.co/manga/55191/FateZero/" />
 3. Himuro no Tenchi - Fate/school life <Badge type="info" text="AniList" link="https://anilist.co/manga/49381/Himuro-no-Tenchi-Fateschool-Life/" />

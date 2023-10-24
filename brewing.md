@@ -11,12 +11,15 @@ Cool prospective projects under works worth looking into, or maybe contributing 
 
 ## Websites
 
-- **Manga**
-    - [Atsumaru](https://atsu.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/TheUndo/Atsumaru" /><Badge type="info" text="Mangasee" />
-- **Anime**
-    - [CoreProject](https://coreproject.moe/anime) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/baseplate-admin/CoreProject" />
-- **Miscellaneous**
-    - [Tankobon](https://tankobon.net/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/crxssed7/tankobon" />
+### Manga
+- [Atsumaru](https://atsu.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/TheUndo/Atsumaru" /><Badge type="info" text="Mangasee" />
+
+### Anime
+- [CoreProject](https://coreproject.moe/anime) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/baseplate-admin/CoreProject" />
+
+### Miscellaneous
+- [Tankobon](https://tankobon.net/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/crxssed7/tankobon" />
+
 
 ![](/banner/software.png)
 
@@ -32,22 +35,24 @@ Cool prospective projects under works worth looking into, or maybe contributing 
 
 == PC
 
-- **Manga**
-    - [Atsumeru](https://github.com/AtsumeruDev/Atsumeru) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://atsumeru.xyz/" />
-    - [Fukayo](https://github.com/JiPaix/Fukayo/)
-    - [Special Eureka](https://github.com/tonymushah/special-eureka)
-- **Anime**
-    - [Akari-DL](https://github.com/keisanng/akari-dl/)
-    - [Anikki](https://github.com/Kylart/Anikki)
-    - [Keroro](https://github.com/hotsno/keroro)
-    - [NineAnimator-Tauri](https://github.com/Layendan/NineAnimator-Tauri)
-    - [Totoro](https://github.com/insomniachi/Totoro)
+### Manga
+- [Atsumeru](https://github.com/AtsumeruDev/Atsumeru) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://atsumeru.xyz/" />
+- [Fukayo](https://github.com/JiPaix/Fukayo/)
+- [Special Eureka](https://github.com/tonymushah/special-eureka)
+
+### Anime
+- [Akari-DL](https://github.com/keisanng/akari-dl/)
+- [Anikki](https://github.com/Kylart/Anikki)
+- [Keroro](https://github.com/hotsno/keroro)
+- [NineAnimator-Tauri](https://github.com/Layendan/NineAnimator-Tauri)
+- [Totoro](https://github.com/insomniachi/Totoro)
+
 
 == iOS
 
-- **Anime**
-    - [Chouten beta](https://testflight.apple.com/join/Cg1rAPB8)
-    - [Soshiki](https://github.com/soshikimoe/soshiki-ios)
+### Anime
+- [Chouten beta](https://testflight.apple.com/join/Cg1rAPB8)
+- [Soshiki](https://github.com/soshikimoe/soshiki-ios)
 
 == macOS
 

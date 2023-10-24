@@ -13,19 +13,20 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 :::tabs
 == Essentials
 
-- Browsers
-  - [Iceraven](https://github.com/fork-maintainers/iceraven-browser) <Badge type="info" text="Android" />
-  - [Mull](https://github.com/Divested-Mobile/Mull-Fenix) <Badge type="info" text="Android" />
-  - [Brave](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en&gl=US) <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
-  - [Cromite](https://github.com/uazo/cromite) <Badge type="info" text="Android" />
-  - [DuckDuckGo Private Browser](https://duckduckgo.com/) <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
-- Ad blocking
-  - [Adaway](https://adaway.org/) <Badge type="info" text="Android" />
-  - [Adguard](https://adguard.com/en/welcome.html) <Badge type="info" text="Android" />
-  - [Adguard DNS](https://adguard-dns.io/en/welcome.html) <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
-  - [AhaDNS](https://blitz-setup.ahadns.com/) <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
-  - [NextDNS](https://nextdns.io/) <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
-  - [RethinkDNS](https://rethinkdns.com/) <Badge type="info" text="Android" />
+### Browsers
+- [Iceraven](https://github.com/fork-maintainers/iceraven-browser) <Badge type="info" text="Android" />
+- [Mull](https://github.com/Divested-Mobile/Mull-Fenix) <Badge type="info" text="Android" />
+- [Brave](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en&gl=US) <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
+- [Cromite](https://github.com/uazo/cromite) <Badge type="info" text="Android" />
+- [DuckDuckGo Private Browser](https://duckduckgo.com/) <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
+
+### Ad blocking
+- [Adaway](https://adaway.org/) <Badge type="info" text="Android" />
+- [Adguard](https://adguard.com/en/welcome.html) <Badge type="info" text="Android" />
+- [Adguard DNS](https://adguard-dns.io/en/welcome.html) <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
+- [AhaDNS](https://blitz-setup.ahadns.com/) <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
+- [NextDNS](https://nextdns.io/) <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
+- [RethinkDNS](https://rethinkdns.com/) <Badge type="info" text="Android" />
 
 == Downloaders
 
@@ -85,6 +86,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 - [PlexAniSync-Mappings](https://github.com/mizz141/PlexAniSync-Mappings)
 - [Shoko Anime](https://github.com/shokoanime) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://shokoanime.com/" />
 - [Shokofin](https://github.com/ShokoAnime/Shokofin)
+- [Sushi.net](https://github.com/maxpiva/Sushi.Net)
 
 == Manga
 
@@ -94,6 +96,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 - [komf](https://github.com/Snd-R/komf)
 - [kurp](https://github.com/Snd-R/kurp)
 - [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager)
+- [Sigil-Ebook](https://sigil-ebook.com/)
 - [Tachisync](https://github.com/axiel7/Tachisync)
 
 == Trackers
@@ -107,30 +110,35 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 
 == mpv
 
-- **Resources**
-  - [mpv](https://mpv.io/) <Badge type="tip" text="Manual" link="https://mpv.io/manual/stable/" />
-  - [Scum's Setup Guide](https://iamscum.wordpress.com/guides/videoplayback-guide/)
-  - [Kokomins Configuration Guide](https://kokomins.wordpress.com/2019/10/14/mpv-config-guide/)
-  - [mpv Script Wiki](https://github.com/mpv-player/mpv/wiki/User-Scripts)
-  - [Awesome mpv](https://github.com/stax76/awesome-mpv)
-- **Alt UI**
-  - [ModernX](https://github.com/cyl0/ModernX)
-  - [Tethys](https://github.com/Zren/mpv-osc-tethys)
-  - [uosc](https://github.com/tomasklaen/uosc)
-- **Video**
-  - [Autocrop](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autocrop.lua)
-  - [Autoload](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua)
-  - [Eisa's Scripts](https://github.com/Eisa01/mpv-scripts)
-  - [thumbfast](https://github.com/po5/thumbfast/)
-- **QoL**
-  - [mpv Playlistmanager](https://github.com/jonniek/mpv-playlistmanager)
-  - [trackselect](https://github.com/po5/trackselect)
-  - [pause when minimize](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/pause-when-minimize.lua)
-- **Addons**
-  - [webtorrent mpv hook](https://github.com/mrxdst/webtorrent-mpv-hook)
-  - [MPV Shim for Plex](https://github.com/iwalton3/plex-mpv-shim)
-  - [Prescalers](https://github.com/bjin/mpv-prescalers)
-  - [Upscale 2x](https://github.com/the-database/mpv-upscale-2x_animejanai)
+### Resources
+- [mpv](https://mpv.io/) <Badge type="tip" text="Manual" link="https://mpv.io/manual/stable/" />
+- [Scum's Setup Guide](https://iamscum.wordpress.com/guides/videoplayback-guide/)
+- [Kokomins Configuration Guide](https://kokomins.wordpress.com/2019/10/14/mpv-config-guide/)
+- [mpv Script Wiki](https://github.com/mpv-player/mpv/wiki/User-Scripts)
+- [Awesome mpv](https://github.com/stax76/awesome-mpv)
+
+### Alt UI
+- [ModernX](https://github.com/cyl0/ModernX)
+- [Tethys](https://github.com/Zren/mpv-osc-tethys)
+- [uosc](https://github.com/tomasklaen/uosc)
+
+### Video
+- [Autocrop](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autocrop.lua)
+- [Autoload](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua)
+- [Eisa's Scripts](https://github.com/Eisa01/mpv-scripts)
+- [thumbfast](https://github.com/po5/thumbfast/)
+
+### QoL
+- [mpv Playlistmanager](https://github.com/jonniek/mpv-playlistmanager)
+- [trackselect](https://github.com/po5/trackselect)
+- [pause when minimize](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/pause-when-minimize.lua)
+
+### Addons
+- [webtorrent mpv hook](https://github.com/mrxdst/webtorrent-mpv-hook)
+- [MPV Shim for Plex](https://github.com/iwalton3/plex-mpv-shim)
+- [Prescalers](https://github.com/bjin/mpv-prescalers)
+- [Upscale 2x](https://github.com/the-database/mpv-upscale-2x_animejanai)
+
 
 == Fansubbing
 
