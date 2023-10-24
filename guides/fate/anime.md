@@ -4,6 +4,7 @@ description: Good Luck!
 ---
 # Fate Anime Watch Order
 
+![](/banner/fate.png)
 ## Fate Series
 
 This is the main series.
@@ -25,7 +26,7 @@ Fate/Zero is the series that tooks place before [**Shirou Emiya**](https://typem
 3. "**Fate/stay night [Heaven's Feel]**" is the Sakura Matou Arc.
 :::
 
-
+![](/banner/fg.png)
 ## Fate/Grand
 
 :::tabs
@@ -66,6 +67,7 @@ Fate/Grand Order is gacha RPG game. To know the stories before Camelot, you can 
 
 :::
 
+![](/banner/lord.png)
 ## Lord El-Melloi II's Case Files
 This is connected to "**Fate/stay night**" cause it has characters and events from that series.
 
@@ -74,7 +76,7 @@ This is connected to "**Fate/stay night**" cause it has characters and events fr
 3. [Lord El-Melloi II’s Case Files {Rail Zeppelin} Grace note -Special Episode-](https://anilist.co/anime/136344/Lord-ElMelloi-IIs-Case-Files-Rail-Zeppelin-Grace-note-Special-Episode/)
 
 
-
+![](/banner/fake.png)
 ## Fate/strange Fake
 Watch this after finishing the "**Lord El-Melloi II's Case Files**" series.
 
@@ -82,6 +84,7 @@ Watch this after finishing the "**Lord El-Melloi II's Case Files**" series.
 2. [Fate/strange Fake](https://anilist.co/anime/166617/Fatestrange-Fake/) [Not Yet Released]
 
 
+![](/banner/spin.png)
 ## Unrelated Spin Offs
 These aren't related to the "**Fate**" main series nor the "**Fate/Grand Order**" series.
 
@@ -108,6 +111,7 @@ These aren't related to the "**Fate**" main series nor the "**Fate/Grand Order**
 
 # Other Typemoon Anime
 
+![](/banner/kara.png)
 ## Kara no Kyoukai
 
 ::: tabs
@@ -147,7 +151,8 @@ Don't Use this If you are watching "**Kara no Kyouokai**" for the first time. On
 
 <br>
 
-###  [Witch on the Holy Night](https://anilist.co/anime/143103/Witch-on-the-Holy-Night/) [Not Yet Released]
+![](/banner/yoru.png)
+###  [Mahoutsukai no Yoru](https://anilist.co/anime/143103/Witch-on-the-Holy-Night/) [Not Yet Released]
 
 Near the end of the Showa era in the late 1980s, in Misaki town, an old mansion is rumored to be the home of a witch. After moving into the mansion, Aoko Aozaki begins to learn sorcery from a young mage, Alice Kuonji, the rumored witch of the mansion. The Aozaki family oversees the land on which Misaki is built and the heir (Aoko) is tasked with protecting it.
 
