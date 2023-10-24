@@ -13,7 +13,7 @@ hero:
       link: /qs.md
     - theme: alt
       text: Discord
-      link: https://https://discord.gg/Cxz9myaaex/
+      link: https://discord.gg/vShRGx8ZBC
       
 aside: left
 
