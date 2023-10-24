@@ -27,7 +27,7 @@ Fate/Zero is the series that tooks place before [**Shirou Emiya**](https://typem
 :::
 
 ![](/banner/fg.png)
-## Fate/Grand
+## Fate/Grand Order
 
 :::tabs
 
