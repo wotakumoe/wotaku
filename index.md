@@ -13,7 +13,7 @@ hero:
       link: /qs.md
     - theme: alt
       text: Discord
-      link: https://discord.wotaku.moe/
+      link: https://https://discord.gg/Cxz9myaaex/
       
 aside: left
 
