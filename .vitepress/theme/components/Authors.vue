@@ -22,6 +22,13 @@ const credits = {
       avatar: "/pfp/oak.png",
     },
   ],
+  discrip: [
+    { 
+      name: "nullishcat",
+      site: "https://nullish.cat/",
+      avatar: "https://github.com/nullish-cat.png",
+    },
+  ],
 } satisfies CreditsInfo;
 
 const Credits = computed(() => credits[props.page] || ([] as CreditsInfo[]));
