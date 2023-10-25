@@ -20,7 +20,7 @@ const contribs = [
     site: "https://github.com/TubaApollo",
   },
   {
-    avatar: "/pfp/meme.png",
+    avatar: "https://yt3.googleusercontent.com/ZDmI8iWPd7kE0fHNRuH5DiNNY5tzyRKSVhW-X5YardXoS_vJ9CdqpfsWZwFbJ7tRMJKhdzeoew",
     name: "Memenami",
   },
   {
@@ -35,7 +35,7 @@ const contribs = [
   },
   {
     name: "Zinklog",
-    avatar: "/pfp/zinc.png",
+    avatar: "https://github.com/zinklog2.png",
     site: "https://github.com/zinklog2",
   },
   {

@@ -65,5 +65,6 @@ title: Novels & Manga
 41. Take Moon <Badge type="info" text="AniList" link="https://anilist.co/manga/30780/Take-Moon/" />
 42. ALL AROUND TYPE-MOON <Badge type="info" text="AniList" link="https://anilist.co/manga/57327/ALL-AROUND-TYPEMOON/" />
 43. Type-Moon Gakuen: Chibichuki! <Badge type="info" text="AniList" link="https://anilist.co/manga/87196/TypeMoon-Gakuen-Chibichuki/" />
+44. Tsuki no Sango  <Badge type="info" text="AniList" link="https://anilist.co/manga/71957/Tsuki-no-Sango/" />
 
 > Check [Type-Moon fandom](https://typemoon.fandom.com/wiki/TYPE-MOON_Wiki) for manga and ln/novel info and everything related to typemoon.
