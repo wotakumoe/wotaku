@@ -239,6 +239,7 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 - [Anime Website Buttons Plus](https://github.com/Deatthwing/anime-website-buttons-plus) <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/398046-anime-website-custom-buttons-plus" />
 - Find on Nyaa <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/379776-find-on-nyaa" />
 - [MAL-Sync](https://github.com/MALSync/MALSync/releases/latest/download/malsync.user.js)
+- nyaablue <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/441017-nyaablue" />
 
 == AniList
 

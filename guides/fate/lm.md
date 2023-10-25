@@ -1,8 +1,8 @@
 ---
-title: Type-Moon Novels & Manga
+title: Novels & Manga
 ---
 
-# Type-Moon Novels & Manga
+# Type-Moon's Novels & Manga
 
 ![](/banner/novels.png)
 ## Novels & Light Novels

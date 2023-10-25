@@ -1,5 +1,5 @@
 ---
-title: Fate Anime W/O
+title: Anime W/O
 description: Good Luck!
 ---
 # Fate Anime Watch Order

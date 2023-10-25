@@ -18,6 +18,8 @@ Doujinshi refers to self-published works. It can be a standalone self-published 
 ### Mangaka
 Mangaka means the artist of the manga. Mangaka can also be the story writer. Generally, mangaka does everything by himself, but sometimes he may employ assistants to speed up the work and cope with the weekly release schedule.
 
+### OEL Comics
+OEL, or Original English-language comics, originate in English-speaking countries. They prominently feature Asian cultural influences in their art styles, themes, and storytelling, while the creators, including artists and production, are primarily non-Asian. Prominent examples include [Bizenghast](https://www.mangaupdates.com/series/ia6dfoc/bizenghast), [Attack on Titan Anthology](https://www.mangaupdates.com/series/bo81id9/attack-on-titan-anthology), [Ghost in the Shell: Global Neural Network](https://www.mangaupdates.com/series/29bycqg/the-ghost-in-the-shell-global-neural-network) and [The Beginning After the End](https://www.mangaupdates.com/series/rwg23en/the-beginning-after-the-end).
 
 ### Omake
 A bonus/extra chapter which doesn't really affect the main story. Generally gives artworks, character backgrounds, mangaka notes or an extra story.

@@ -67,6 +67,7 @@ Literally means “Martial Heroes”. Fictional stories about regular humans who
 | Ecchi | Lewd. |
 |  Fujoshi  | 'Rotten Girl'. Refers to a girl that fantasizes about guys being in a relationship with other guys, specially shipping male characters with other male characters in manga and anime.   |
 | Gijinka | A type of fan-art or cosplay in which a non-human character is depicted in a human-like way (akin to personification) |
+| Gravure idol | Gravure idols are models who pose in provocative swimsuit and lingerie photographs in magazines and photo books marketed towards teens (often in shonen magazine), men, similar to pin-up models. |
 |  Gyaru  |  English slang equivalent of "Gal". It refers to a subculture and fashion style in Japan where girls wear dramatic tan makeup, sport big hair, and embrace 2000s fashion trends. Example: [Kitagawa Marin](https://anidb.net/character/120646)   |
 | Hentai | A term literally meaning pervert that is also used as a synonym for both animated and drawn pornography |
 |  Hikikomori  |  The people who don't go out of their home. The phenomenon can also be termed as Hikikomori. You can watch [this video](https://www.youtube.com/watch?v=tnFVot15KcI) to get a clearer idea.  |
