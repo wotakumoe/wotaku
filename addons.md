@@ -90,14 +90,19 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 
 == Manga
 
-- [ACBR - Comic Book Reader](https://github.com/binarynonsense/comic-book-reader)
 - [ComicTagger](https://github.com/comictagger/comictagger)
-- [Kindle Comic Converter](https://github.com/ciromattia/kcc)
 - [komf](https://github.com/Snd-R/komf)
 - [kurp](https://github.com/Snd-R/kurp)
 - [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager)
-- [Sigil-Ebook](https://sigil-ebook.com/)
 - [Tachisync](https://github.com/axiel7/Tachisync)
+
+== EBook
+- [ACBR - Comic Book Reader](https://github.com/binarynonsense/comic-book-reader)
+- [Calibre](https://calibre-ebook.com/)
+- [KOReader](https://koreader.rocks/)
+- [Kindle Comic Converter](https://github.com/ciromattia/kcc)
+- [Sigil-Ebook](https://sigil-ebook.com/)
+
 
 == Trackers
 

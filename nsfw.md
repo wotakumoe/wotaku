@@ -137,6 +137,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [nhentai konnichiwa](https://github.com/naiymu/nhentai-konnichiwa)
 
 == Misc
+- [ASMR](https://asmr.one/)
 - [/h/ Hentai](https://boards.4chan.org/h/)
 - [HDGFAQ](https://rentry.org/hdgfaq)
 - [Hent-AI](https://github.com/natethegreate/hent-AI)
