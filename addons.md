@@ -99,10 +99,10 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 == EBook
 - [ACBR - Comic Book Reader](https://github.com/binarynonsense/comic-book-reader)
 - [Calibre](https://calibre-ebook.com/)
-- [KOReader](https://koreader.rocks/)
 - [Kindle Comic Converter](https://github.com/ciromattia/kcc)
+- [KOReader](https://koreader.rocks/)
+- [Okular](https://okular.kde.org/)
 - [Sigil-Ebook](https://sigil-ebook.com/)
-
 
 == Trackers
 

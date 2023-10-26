@@ -140,6 +140,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [ASMR](https://asmr.one/)
 - [/h/ Hentai](https://boards.4chan.org/h/)
 - [HDGFAQ](https://rentry.org/hdgfaq)
+- [HMV Mania](https://hmvmania.com/)
 - [Hent-AI](https://github.com/natethegreate/hent-AI)
 - [nHentai Discord Bot](https://github.com/the-urban-inc/nhentai-discord-bot)
 - [nHentai Telegram Bot](https://github.com/sleroq/nhentai-telegram-bot)

@@ -530,53 +530,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 :::tabs
 
-== osu!
-
-- [Anisync](https://anisync.live/)
-- [BeatConnect](https://beatconnect.io/)
-- [osu skinner](https://osuskinner.com/)
-- [osu!chan](https://osuchan.syrin.me/)
-- [osu!next Signature Generator](https://lemmmy.pw/osusig/)
-- [osu!pp](https://osu-pps.com)
-- [osu!search](https://osusearch.com/)
-- [o!rdr](https://ordr.issou.best/)
-
-
-== Other Media
-
-### Movies & TV Series
-- [Dramacool](https://dramacool.pa/)
-- [KissAsian](https://kissasian.mx/)
-- [Sflix](https://sflix.to/country/JP)
-- [FMovies](https://fmoviesz.to/filter?keyword=&country%5B%5D=36&sort=recently_updated)
-- [Drama Otaku](https://drama-otaku.com/)
-- [Tokuzilla](https://tokuzilla.net/)
-- [KRDL](https://krdl.moe/)
-
-### Live TV
-- [IPTV-Org](https://iptv-org.github.io/iptv/countries/jp.m3u)
-- [IPTV-JP](https://raw.githubusercontent.com/luongz/iptv-jp/main/jp.m3u)
-- [AQ Stream](https://aqstream.com/jp)
-- [Keylabo](http://www.keylabo.com/watch-tv-online-for-free/)
-- [ANNnewsCH](https://www.youtube.com/@ANNnewsCH/)
-
-
-== Websites
-
-- [Wired Sound For Wired People](https://fauux.neocities.org/)
-- [Smug](https://smug.moe/)
-- [Endless Eight](https://endless8.moe/)
-- [Neko Network](https://live.neko-network.net/)
-- [Satania](https://satania.moe/)
-- [AIDN](https://aidn.jp/contents/)
-- [Anime Girls Holding Programming Books](https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/)
-- [MakeGirlsMoe](https://make.girls.moe/)
-- [Anianimals](https://www.anianimals.moe/)
-- [VAGABOND HIATUS CHART](https://vagabond-hiatus-chart.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/falsepopsky/vagabond-hiatus-chart" />
-- [Absolute Territory](https://absoluteterritory.moe/)
-- [Wanwan](https://wanwan.moe/)
-
-== Western Comics
+== Comics
 
 ### Reader
 - [Comicastle](https://www.comicastle.org/)
@@ -603,5 +557,100 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Comic Book Reading Orders](https://comicbookreadingorders.com/)
 - [Comic Book Herald](https://www.comicbookherald.com/)
 - [CMRO](https://cmro.travis-starnes.com/)
+
+== osu!
+
+- [Anisync](https://anisync.live/)
+- [BeatConnect](https://beatconnect.io/)
+- [osu skinner](https://osuskinner.com/)
+- [osu!chan](https://osuchan.syrin.me/)
+- [osu!next Signature Generator](https://lemmmy.pw/osusig/)
+- [osu!pp](https://osu-pps.com)
+- [osu!search](https://osusearch.com/)
+- [o!rdr](https://ordr.issou.best/)
+
+
+== Other Media
+
+### Movies & TV Series
+- [Dramacool](https://dramacool.pa/)
+- [KissAsian](https://kissasian.mx/)
+- [Sflix](https://sflix.to/country/JP)
+- [FMovies](https://fmoviesz.to/filter?keyword=&country%5B%5D=36&sort=recently_updated)
+- [Drama Otaku](https://drama-otaku.com/)
+
+### Live TV
+- [IPTV-Org](https://iptv-org.github.io/iptv/countries/jp.m3u)
+- [IPTV-JP](https://raw.githubusercontent.com/luongz/iptv-jp/main/jp.m3u)
+- [AQ Stream](https://aqstream.com/jp)
+- [Keylabo](http://www.keylabo.com/watch-tv-online-for-free/)
+- [ANNnewsCH](https://www.youtube.com/@ANNnewsCH/)
+
+== Tokusatsu
+
+### Wikis
+
+- [Tokupedia](https://tokusatsu.fandom.com/wiki/Main_Page) <Badge type="info" text="Hub"  />
+- [GARO Wiki](https://garo.fandom.com/wiki/GARO_Wiki)
+- [Gojipedia](https://godzilla.fandom.com/wiki/Main_Page)
+- [Kamen Rider Wiki](https://kamenrider.fandom.com/wiki/Kamen_Rider_Wiki)
+- [King Kong Wiki](https://kingkong.fandom.com/wiki/King_Kong_Wiki)
+- [Metal Heroes Wiki](https://metalheroes.fandom.com/wiki/Metal_Heroes_Wiki)
+- [RangerWiki](https://powerrangers.fandom.com/wiki/RangerWiki)
+- [Ultraman Wiki](https://ultra.fandom.com/wiki/Ultraman_Wiki)
+- [Wikizilla](https://wikizilla.org/wiki/Main_Page)
+
+### News / Blogs
+
+- [Tokunation](https://news.tokunation.com/)
+- [The Tokusatsu Network](https://tokusatsunetwork.com/)
+- [Tsuburaya](https://tsuburaya-prod.com/)
+- [JEFusion](https://www.jefusion.com/) <Badge type="danger" icon="i-fxemoji-warningsign" text="Spoiler" /> 
+- [Morphin Legacy](https://morphinlegacy.com/)
+- [Henshin Grid](https://henshingrid.blogspot.com/)
+- [My shiny Toy Robots](https://www.myshinytoyrobots.com/)
+
+### Resouces
+- **General**
+    - [Zekozimo](https://zekozimo.blogspot.com/)
+- **Streaming**
+    - [Dramacool](https://dramacool.pa/)
+    - [KissAsian](https://kissasian.mx/)
+    - [Power Rangers Official](https://www.youtube.com/@PowerRangersOfficial/)
+    - [TokuWatch](https://tokuwatch.net/)
+    - [Tokuzilla](https://tokuzilla.net/)
+    - [Zokaj](https://zokaj.com/)
+    - [Legal Tokusatsu Streaming List](https://otakulogy.github.io/tokusatsu-streaming/)
+- **Download**
+    - [KRDL](https://krdl.moe/)
+    - [Metallic Subs](https://metallicsubs.wordpress.com/)
+    - [Nyaa](https://nyaa.si/)
+
+### Communities
+- [r/Tokusatsu](https://reddit.com/r/Tokusatsu/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/Rf2dDaJSp3" />
+- [/r/Godzilla](https://reddit.com/r/Godzilla/)
+- [/r/Kaiju](https://reddit.com/r/Kaiju/)
+- [/r/Ultraman](https://reddit.com/r/Ultraman/)
+- [/r/GARO](https://reddit.com/r/GARO/)
+- [/r/SuperSentai](https://reddit.com/r/SuperSentai/)
+- [/r/PowerRangers](https://reddit.com/r/PowerRangers/)
+- [/r/KamenRider](https://reddit.com/r/KamenRider/)
+
+
+== Websites
+
+- [Wired Sound For Wired People](https://fauux.neocities.org/)
+- [Smug](https://smug.moe/)
+- [Endless Eight](https://endless8.moe/)
+- [Neko Network](https://live.neko-network.net/)
+- [Satania](https://satania.moe/)
+- [AIDN](https://aidn.jp/contents/)
+- [Anime Girls Holding Programming Books](https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/)
+- [MakeGirlsMoe](https://make.girls.moe/)
+- [Anianimals](https://www.anianimals.moe/)
+- [VAGABOND HIATUS CHART](https://vagabond-hiatus-chart.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/falsepopsky/vagabond-hiatus-chart" />
+- [Absolute Territory](https://absoluteterritory.moe/)
+- [Wanwan](https://wanwan.moe/)
+
 
 :::
