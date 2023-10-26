@@ -628,14 +628,13 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 ### Communities
 - [r/Tokusatsu](https://reddit.com/r/Tokusatsu/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/Rf2dDaJSp3" />
+- [/r/GARO](https://reddit.com/r/GARO/)
 - [/r/Godzilla](https://reddit.com/r/Godzilla/)
 - [/r/Kaiju](https://reddit.com/r/Kaiju/)
-- [/r/Ultraman](https://reddit.com/r/Ultraman/)
-- [/r/GARO](https://reddit.com/r/GARO/)
-- [/r/SuperSentai](https://reddit.com/r/SuperSentai/)
-- [/r/PowerRangers](https://reddit.com/r/PowerRangers/)
 - [/r/KamenRider](https://reddit.com/r/KamenRider/)
-
+- [/r/PowerRangers](https://reddit.com/r/PowerRangers/)
+- [/r/SuperSentai](https://reddit.com/r/SuperSentai/)
+- [/r/Ultraman](https://reddit.com/r/Ultraman/)
 
 == Websites
 
