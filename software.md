@@ -1,6 +1,6 @@
 ---
 title: Software
-description: Software for every OS
+description: Discover a wide range of software for every OS, from Android anime and manga apps to PC manga readers and iOS manga downloaders. Explore now!
 ---
 # Software
 Apps and programs for your various devices to watch or read stuff. Covering all the operating systems.
