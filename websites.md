@@ -396,6 +396,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - **Playlists**
   - [Vocaloid Big Hits](https://music.youtube.com/playlist?list=RDCLAK5uy_mgu07-HoqLSU-WqjK2ldEQWLuPPm3CAy8)
 - **Others**
+  - [Cover Search Engine](https://covers.musichoarders.xyz/)
   - [Songle](https://songle.jp/)
 
 :::
