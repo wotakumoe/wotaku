@@ -21,7 +21,7 @@ Connect to **Rizon IRC network**.
 
 ## Step 2
 
-:::warning Readme
+:::danger Readme
 - Use a real e-mail address. Temporary and throw-away e-mail addresses are not acceptable.
 - Check spam/junk folder too, if you don't see any reply in the inbox.
 - Make sure that your password is longer than 5 characters
@@ -29,7 +29,9 @@ Connect to **Rizon IRC network**.
 
 1. Register your current nickname by typing the following: `/msg NickServ REGISTER yourPassword your@email.address`
 2. Now you should get a confirmation code like this
+
 ![](/ss/mado/rzncnfrm.png)
+
 3. Copy and paste the confirmation code into the following command: `/msg NickServ CONFIRM ConfirmationCodeFromEmail`
 
 >If the confirmation code above was copied correctly and still gives you an error, just type it out by hand. Copying seems to break it in some cases.
@@ -47,6 +49,7 @@ You can also set up your client to do this automatically by adding it to the **C
 2. Now type `/msg sola REGISTER username password` in the Madokami channel. You shouldn't reuse the RIZON password here.
 
 You will now see **Sola** at the left sidebar.
+
 ![](/ss/mado/madohome.png)
 
 - If your lucky, sola will say "**ok enjoy ur account**"
