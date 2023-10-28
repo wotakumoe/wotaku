@@ -80,14 +80,16 @@ That should get the job done. The homepage doesn't have infinite scroll due to r
 
 <div class="video_wrapper"><iframe src="https://youtube.com/embed/BR3GR8S_Oqo" frameborder="0" allowfullscreen></iframe></div>
 
-::: details More settings
+::: details More FMD2 Settings
 
 #### Auto Scan
 
 You can scan a Madokami folder automatically.
 1. Go to **Manga info** and paste the URL in **Input URL here** and click :arrow_right:
 2. Click **Add to favorites**. It will be added in the **Favorites** tab
+
 ![](/ss/mado/fav1.png)
+
 3. Go to `Options > General` and check **Minimize on start**
 4. Then go to `Options > Updates > Favorites` and check
     - Auto check for new chapter at startup
