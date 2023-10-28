@@ -1,5 +1,6 @@
 ---
 title: Network Stream
+description: Stream video files through DDL, IRC, and Torrent. Enjoy seamless online video streaming!
 ---
 # Network Stream
 Network streaming DDL, IRC and Torrent video files.
