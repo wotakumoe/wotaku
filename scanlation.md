@@ -1,6 +1,6 @@
 ---
 title: Scanlation
-description: Guides and resources for scanlation
+description: Unlock scanlation success with expert guides, resources, communities, raw manga sources, fonts, tools, and pro tips. Start scanlating like a pro!
 ---
 # Scanlation
 Guides and resources for scanlating manga.
