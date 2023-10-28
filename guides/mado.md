@@ -5,6 +5,10 @@ title: Madokami
 [Madokami](https://manga.madokami.al/) is a private website that hosts manga, novels and artbooks. They upload the same manga rips found on nyaa without compression. You can either download from their site (upto 3 parallel downloads) or directly read in tachiyomi using their extension. You sign up by joining their IRC channel and trying your luck at gacha rolls.
 <br>
 
+:::info IRC Clients
+Install an IRC client, [**HexChat**](https://hexchat.github.io/) if PC and [**Revolution IRC**](https://play.google.com/store/apps/details?id=io.mrarm.irc&hl=en&gl=US) if Android. You can't use web IRC clients. You can find more clients [**here**](https://ircv3.net/software/clients).
+:::
+
 
 ## Step 1
 
@@ -17,11 +21,11 @@ Connect to **Rizon IRC network**.
 
 ## Step 2
 
-!!!warning Readme
+:::warning Readme
 - Use a real e-mail address. Temporary and throw-away e-mail addresses are not acceptable.
 - Check spam/junk folder too, if you don't see any reply in the inbox.
 - Make sure that your password is longer than 5 characters
-!!!
+:::
 
 1. Register your current nickname by typing the following: `/msg NickServ REGISTER yourPassword your@email.address`
 2. Now you should get a confirmation code like this
