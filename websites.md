@@ -1,6 +1,6 @@
 ---
 title: Websites
-description: Websites for anime, manga, novels & more
+description: Discover the best websites for anime, manga, novels & more. Explore streaming, torrent, and direct download options for your favorite content.
 ---
 # Websites
 Online resources for anime, manga, novels and more.
