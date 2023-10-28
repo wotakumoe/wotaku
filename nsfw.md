@@ -1,6 +1,6 @@
 ---
 title: NSFW
-description: huh... ahem...
+description: Explore a wide range of NSFW websites, manga, manhwa, illustrations, and software. Find the best adult content with these curated resources.
 ---
 # NSFW
 Everyone has to let off some steam once in a while, we don't judge.
