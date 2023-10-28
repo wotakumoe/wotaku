@@ -1,6 +1,6 @@
 ---
 title: Add-ons
-description: Sofware to make life easier
+description: Boost your otaku experience with various add-ons. Includes anime/manga tracking, Discord bots, browser extensions, apps, tools, and scripts for enhanced usage.
 ---
 # Add-ons
 Various add-ons to enhance your otaku experience. Includes anime/manga tracking, Discord bots, browser extensions, scripts and more!
