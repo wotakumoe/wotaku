@@ -17,26 +17,27 @@ export function generateMeta(context: TransformContext, hostname: string) {
   if (pageData.frontmatter.type) {
     head.push(["meta", { property: "og:type", content: pageData.frontmatter.type }]);
   }
-  if (pageData.frontmatter.customMetaTitle) {
+  if (pageData.frontmatter.customDescription) {
     head.push([
       "meta",
       {
         property: "og:title",
-        content: pageData.frontmatter.customMetaTitle,
+        content: pageData.frontmatter.customDescription,
       },
     ]);
     head.push([
       "meta",
       {
         name: "twitter:title",
-        content: pageData.frontmatter.customMetaTitle,
+        content: pageData.frontmatter.customDescription,
       },
     ]);
     head.push(["meta", { property: "og:site_name", content: "" }]);
-  } else {
-    head.push(["meta", { property: "og:title", content: pageData.frontmatter.title }]);
-    head.push(["meta", { name: "twitter:title", content: pageData.frontmatter.title }]);
   }
+  
+  head.push(["meta", { property: "og:title", content: pageData.frontmatter.title }]);
+  head.push(["meta", { name: "twitter:title", content: pageData.frontmatter.title }]);
+  
   if (pageData.frontmatter.description) {
     head.push([
       "meta",
