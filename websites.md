@@ -469,7 +469,6 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [GOG](https://gog-games.to/)
 - [Doujin Style](https://doujinstyle.com/) <Badge type="info" text="Doujin" />
 - [Anime-sharing](http://www.anime-sharing.com/forum/)
-- [Crackhub Scene](https://scene.crackhub.site/)
 - [Kimochi](https://kimochi.info)
 - [Anime Bytes](https://animebytes.tv/) <Badge type="info" text="Private tracker" />
 - [Gazelle Games](https://gazellegames.net/login.php) <Badge type="info" text="Private tracker" />

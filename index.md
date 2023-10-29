@@ -6,7 +6,7 @@ hero:
   name: "Wotaku"
   text: "The Otaku Index"
   tagline: A diverse range of resources related to japanese media and language
-  image: /asset/Padoru.png
+  image: /asset/padoru.png
   actions:
     - theme: brand
       text: Quick Start
