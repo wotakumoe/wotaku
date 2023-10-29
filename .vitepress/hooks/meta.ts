@@ -21,24 +21,18 @@ export function generateMeta(context: TransformContext, hostname: string) {
     head.push([
       "meta",
       {
-        property: "og:title",
+        property: "og:description",
         content: pageData.frontmatter.customDescription,
       },
     ]);
     head.push([
       "meta",
       {
-        name: "twitter:title",
+        name: "twitter:description",
         content: pageData.frontmatter.customDescription,
       },
     ]);
-    head.push(["meta", { property: "og:site_name", content: "" }]);
-  }
-  
-  head.push(["meta", { property: "og:title", content: pageData.frontmatter.title }]);
-  head.push(["meta", { name: "twitter:title", content: pageData.frontmatter.title }]);
-  
-  if (pageData.frontmatter.description) {
+  } else if (pageData.frontmatter.description) {
     head.push([
       "meta",
       {
@@ -54,6 +48,9 @@ export function generateMeta(context: TransformContext, hostname: string) {
       },
     ]);
   }
+  head.push(["meta", { property: "og:title", content: pageData.frontmatter.title }]);
+  head.push(["meta", { name: "twitter:title", content: pageData.frontmatter.title }]);
+
   if (pageData.frontmatter.image) {
     head.push([
       "meta",
