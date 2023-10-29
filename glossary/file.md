@@ -1,5 +1,6 @@
 ---
 title: File Naming
+customDescription: Discover the standard file naming scheme for Anime & Manga files. Learn about release groups, sources, resolutions, video codecs, audio formats, subtitles, file hashes, and more. Explore the world of Anime & Manga file naming!
 ---
 # File Naming
 Standard file naming scheme for Anime & Manga file.

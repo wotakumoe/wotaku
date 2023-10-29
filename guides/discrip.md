@@ -1,5 +1,6 @@
 ---
 title: Disc Ripping
+customDescription: Master the art of Disc Ripping with this comprehensive guide, covering DVD, Blu-ray, and UHD conversions to MKV and ISO formats. Get started today!
 ---
 
 # Disc Ripping Guide

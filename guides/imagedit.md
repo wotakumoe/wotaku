@@ -1,5 +1,6 @@
 ---
 title: Manga Image Editing
+customDescription: Enhance manga images with denoising, grayscale, leveling, and optimization techniques. Improve visibility and attract more readers with professional image editing.
 ---
 # Manga Image Editing
 A simple to understand guide covering the most important page edits.
