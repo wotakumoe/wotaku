@@ -1,10 +1,13 @@
 ---
-title: Anime W/O
-description: Good Luck!
+title: Fate Watch Order
+Description: Good Luck!
 ---
-# Fate Anime Watch Order
 
-![](/banner/fate.png)
+![](/public/banner/anime.png)
+
+# Anime
+
+
 ## Fate Series
 
 This is the main series.
@@ -21,12 +24,13 @@ Fate/Zero is the series that tooks place before [**Shirou Emiya**](https://typem
 8. [Fate/stay night [Heaven’s Feel] III. spring song](https://anilist.co/anime/21719/Fatestay-night-Heavens-Feel-III-spring-song/)
 
 ::: tip Notes 
-1. "**Fate/stay night**" by Studio DEEN is the Saber Arc. You can skip it if u don't like the animation.
+1. "**Fate/stay night**" by Studio DEEN is the Saber Arc.
 2. "**Fate/stay night: Unlimited Blade Works**" is the Rin Tohsaka Arc.
 3. "**Fate/stay night [Heaven's Feel]**" is the Sakura Matou Arc.
 :::
 
-![](/banner/fg.png)
+<br>
+
 ## Fate/Grand Order
 
 :::tabs
@@ -67,7 +71,9 @@ Fate/Grand Order is gacha RPG game. To know the stories before Camelot, you can 
 
 :::
 
-![](/banner/lord.png)
+<br>
+
+
 ## Lord El-Melloi II's Case Files
 This is connected to "**Fate/stay night**" cause it has characters and events from that series.
 
@@ -75,16 +81,18 @@ This is connected to "**Fate/stay night**" cause it has characters and events fr
 2. [Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note](https://anilist.co/anime/106918/Lord-ElMelloi-IIs-Case-Files-Rail-Zeppelin-Grace-note/)
 3. [Lord El-Melloi II’s Case Files {Rail Zeppelin} Grace note -Special Episode-](https://anilist.co/anime/136344/Lord-ElMelloi-IIs-Case-Files-Rail-Zeppelin-Grace-note-Special-Episode/)
 
+<br>
 
-![](/banner/fake.png)
+
 ## Fate/strange Fake
 Watch this after finishing the "**Lord El-Melloi II's Case Files**" series.
 
 1. [Fate/strange Fake -Whispers of Dawn-](https://anilist.co/anime/154966/Fatestrange-Fake-Whispers-of-Dawn/)
 2. [Fate/strange Fake](https://anilist.co/anime/166617/Fatestrange-Fake/) [Not Yet Released]
 
+<br>
 
-![](/banner/spin.png)
+
 ## Unrelated Spin Offs
 These aren't related to the "**Fate**" main series nor the "**Fate/Grand Order**" series.
 
@@ -111,7 +119,6 @@ These aren't related to the "**Fate**" main series nor the "**Fate/Grand Order**
 
 # Other Typemoon Anime
 
-![](/banner/kara.png)
 ## Kara no Kyoukai
 
 ::: tabs
@@ -151,11 +158,117 @@ Don't Use this If you are watching "**Kara no Kyouokai**" for the first time. On
 
 <br>
 
-![](/banner/yoru.png)
-###  [Mahoutsukai no Yoru](https://anilist.co/anime/143103/Witch-on-the-Holy-Night/) [Not Yet Released]
+## [Mahoutsukai no Yoru](https://anilist.co/anime/143103/Witch-on-the-Holy-Night/) [Not Yet Released]
 
 Near the end of the Showa era in the late 1980s, in Misaki town, an old mansion is rumored to be the home of a witch. After moving into the mansion, Aoko Aozaki begins to learn sorcery from a young mage, Alice Kuonji, the rumored witch of the mansion. The Aozaki family oversees the land on which Misaki is built and the heir (Aoko) is tasked with protecting it.
 
 Mysterious intruders have been disrupting the bounded field in Misaki, leading Alice and Aoko to investigate. A mannequin or puppet attacks them and is incinerated. As this happens, both of them spot someone running away, a civilian who must not get away having seen magic alive.
 
 Unexpectedly, a young boy named Soujuurou Shizuki is drawn to the mansion and comes to reside with them as well.
+
+<br>
+
+
+![](/banner/vn.png)
+
+# Visual Novels
+1. [Fate/stay night](https://vndb.org/v11)
+2. [Fate/hollow ataraxia](https://vndb.org/v50)
+3. [Kagetsu Tohya](https://vndb.org/v47)
+4. [Mahoutsukai no Yoru](https://vndb.org/v777)
+5. [Tsukihime](https://vndb.org/v7)
+6. [Tsukihime -A piece of blue glass moon-](https://vndb.org/v17909)
+7. [Tsukihime -The other side of red garden-](https://vndb.org/v32053)
+8. [Tsukihime PLUS-DISC](https://vndb.org/v49)
+
+<br>
+
+
+![](/banner/games.png)
+
+# Games
+
+1. [Fate/unlimited codes](https://typemoon.fandom.com/wiki/Fate/unlimited_codes)
+2. [Fate/tiger colosseum](https://typemoon.fandom.com/wiki/Fate/tiger_colosseum)
+3. [Fate/tiger colosseum UPPER](https://typemoon.fandom.com/wiki/Fate/tiger_colosseum_UPPER)
+4. [Fate/EXTRA](https://typemoon.fandom.com/wiki/Fate/EXTRA)
+5. [Fate/EXTRA CCC](https://typemoon.fandom.com/wiki/Fate/EXTRA_CCC)
+6. [Fate/EXTELLA](https://store.steampowered.com/app/511680/FateEXTELLA/)
+7. [Fate/EXTELLA LINK](https://store.steampowered.com/app/622220/FateEXTELLA_LINK/)
+8. [Everyday♪ Today's MENU for EMIYA Family](https://typemoon.fandom.com/wiki/Everyday%E2%99%AA_Today%27s_MENU_for_EMIYA_Family)
+9. [Fate/Samurai Remnant](https://store.steampowered.com/app/1902690/FateSamurai_Remnant/)
+10. [MELTY BLOOD: TYPE LUMINA](https://store.steampowered.com/app/1372280/MELTY_BLOOD_TYPE_LUMINA/)
+
+<br>
+
+![](/banner/novels.png)
+
+# Novels & Light Novels
+
+1. [Kara no Kyoukai](https://www.novelupdates.com/series/kara-no-kyoukai/)
+2. [Fate/zero](https://anilist.co/manga/33649/FateZero/) <Badge type="info" text="Novel Updates" link="https://www.novelupdates.com/series/fatezero/" />
+3. [Fate/Apocrypha](https://anilist.co/manga/63005/FateApocrypha/) <Badge type="info" text="Novel Updates" link="https://www.novelupdates.com/series/fateapocrypha/" />
+4. [Lord El-Melloi II's Case Files](https://anilist.co/manga/87197/Lord-ElMelloi-IIsei-no-Jikenbo/)
+5. [Fate/strange Fake](https://anilist.co/manga/50006/Fatestrange-Fake/) <Badge type="info" text="Novel Updates" link="https://www.novelupdates.com/series/fatestrange-fake/" />
+6. [Fate:Lost Einherjar - Kyokkou no Aslaug](https://anilist.co/manga/153991/FateLost-Einherjar--Kyokkou-no-Aslaug/) <Badge type="info" text="Prologue" link="https://forums.nrvnqsr.com/showthread.php/9230-Fate-Lost-Einhejar-Translation" />
+7. [Fate/Requiem](https://anilist.co/manga/108493/FateRequiem/) <Badge type="info" text="Novel Updates" link="https://www.novelupdates.com/series/fate-requiem/" />
+8. [Fate/Prototype: Fragments of Sky Silver](https://anilist.co/manga/85754/FatePrototype-Sougin-no-Fragments/) <Badge type="info" text="Novel Updates" link="https://www.novelupdates.com/series/fate-prototype-fragments-of-blue-and-silver/" />
+9. [Fate/Labyrinth](https://anilist.co/manga/94656/FateLabyrinth/)
+10. [The Adventures of Lord El-Melloi II](https://anilist.co/manga/127693/Lord-ElMelloi-IIsei-no-Bouken/)
+11. [Notes (Angel Notes)](https://myanimelist.net/manga/4594/Notes)
+12. [Fate/stay night: Garden of Avalon](https://www.novelupdates.com/series/garden-of-avalon/) <Badge type="info" text="Novel Updates" link="https://www.novelupdates.com/series/garden-of-avalon/" />
+
+
+<br>
+
+
+![](/banner/manga.png)
+
+# Manga
+1. [Fate/stay night](https://anilist.co/manga/30715/Fatestay-night/)
+2. [Fate/Zero](https://anilist.co/manga/55191/FateZero/)
+3. [Himuro no Tenchi - Fate/school life](https://anilist.co/manga/49381/Himuro-no-Tenchi-Fateschool-Life/)
+4. [Fate/kaleid liner Prisma☆Illya](https://anilist.co/manga/33526/Fatekaleid-liner-PrismaIllya/)
+5. [Fate/kaleid liner Prisma☆Illya 2wei!](https://anilist.co/manga/85136/Fatekaleid-liner-PrismaIllya-2wei/)
+6. [Fate/kaleid liner Prisma ☆ Illya Drei 3!!](https://anilist.co/manga/66131/Fatekaleid-liner-Prisma--Illya-Drei-3/)
+7. [Fate/strange Fake](https://anilist.co/manga/86753/Fatestrange-Fake/)
+8. [Fate/EXTRA](https://anilist.co/manga/62425/FateEXTRA/)
+9. [Fate/Extra CCC](https://anilist.co/manga/87201/FateExtra-CCC/)
+10. [Fate/Extra CCC Trial](https://anilist.co/manga/110891/FateExtra-CCC-Trial/)
+11. [Fate/Extra CCC: Fox Tail](https://anilist.co/manga/87200/FateExtra-CCC-Fox-Tail/)
+12. [Fate/hollow ataraxia](https://anilist.co/manga/81987/Fatehollow-ataraxia/)
+13. [Fate/GUDAGUDA Order](https://anilist.co/manga/110442/FateGudaguda-Order/)
+14. [Fate/stay night - Heaven's Feel](https://anilist.co/manga/86182/Fatestay-night-Heavens-Feel/)
+15. [Fate/mahjong night: Holy Tile War](https://typemoon.fandom.com/wiki/Fate/mahjong_night:_Holy_Tile_War)
+16. [Learn with Manga! FGO](https://typemoon.fandom.com/wiki/Learn_with_Manga!_FGO)
+17. [Today's Menu for Emiya Family](https://anilist.co/manga/87199/Todays-Menu-for-the-Emiya-Family/)
+18. [Fate/Apocrypha](https://anilist.co/manga/87251/FateApocrypha/)
+19. [Fate/Grand Order -mortalis:stella-](https://anilist.co/manga/108178/FateGrand-Order-mortalisstella/)
+20. [Fate/Grand Order -turas réalta-](https://anilist.co/manga/110297/FateGrand-Order-turas-ralta/)
+21. [Lord El-Melloi II's Case Files](https://www.mangaupdates.com/series/u42wdc7/lord-el-melloi-ii-sei-no-jikenbo)
+22. [Teach Us FGO! The Grand Order of Greats and Legends](https://anilist.co/manga/123865/Oshiete-FGO-Ijin-to-Shinwa-no-Grand-Order-/)
+23. [Fate/Grand Order: Epic of Remnant - Subspecies Singularity I: Malignant Quarantined Demonic Realm Shinjuku](https://anilist.co/manga/107553/FateGrand-Order-Epic-of-Remnant--Ashu-Tokuiten-I-Akushou-Kakuzetsu-Makyou-Shinjuku--Shinjuku-Maboroshi-Tamashi-Jiken/)
+24. [Fate/Grand Order: Epic of Remnant - Subspecies Singularity II: Legendary Subterranean World Agartha](https://anilist.co/manga/107554/FateGrand-Order-Epic-of-Remnant--Ashu-Tokuiten-II-Denshou-Chitei-Sekai-Agartha--Agartha-no-Onna/)
+25. [Fate/Grand Order: Epic of Remnant - Subspecies Singularity III: Scene of a Deadly Battle Shimousa](https://anilist.co/manga/107555/FateGrand-Order-Epic-of-Remnant-PseudoSingularity-III-The-Stage-of-Carnage-Shimousa--Seven-Duels-of-Swordmasters/)
+26. [Fate/Grand Order -Epic of Remnant- Subspecies Singularity IV: Taboo Advent Salem: Salem of Heresy](https://anilist.co/manga/107556/FateGrand-Order-Epic-of-Remnant--Ashu-Tokuiten-IV-Kinki-Kourin-Teien-Salem--Itan-Naru-Salem/)
+27. [Fate/Grand Order: Epic of Remnant - Pseudo-Singularity EX Abyssal Cyber Paradise SE.RA.PH](https://anilist.co/manga/108299/FateGrand-Order-Epic-of-Remnant--Ashutokuiten-EX-Shinkai-Dennou-Rakudo-SERAPH/)
+28. [Teito Seihai Kitan: Fate/type Redline](https://anilist.co/manga/113981/Teito-Seihai-Kitan-Fatetype-Redline/)
+29. [Fate/Grand Order: Fujimaru Ritsuka Doesn't Get It](https://anilist.co/manga/147108/FateGrand-Order-Fujimaru-Ritsuka-wa-Wakaranai/)
+30. [Fate/Grand Order SABER WARS II Extra Edition](https://www.mangaupdates.com/series/pyn4m9k/fate-grand-order-saber-wars-ii-bangai-hen-jane-ishtar-100-man-kounen-no-nagareboshi/)
+31. [Fate/stay night: Unlimited Blade Works](https://anilist.co/manga/131587/Fatestay-night-Unlimited-Blade-Works/)
+32. [Fate/Prototype: Fragments of Sky Silver (Manga)](https://anilist.co/manga/167469/FatePrototype-Sougin-no-Fragments/)
+33. [Lunar Legend Tsukihime](https://anilist.co/manga/30705/Lunar-Legend-Tsukihime/)
+34. [Melty Blood](https://anilist.co/manga/30707/Melty-Blood/)
+35. [Melty Blood X](https://anilist.co/manga/55629/Melty-Blood-X/)
+36. [Melty Blood: Rojiura Nightmare](https://anilist.co/manga/109431/Melty-Blood-Rojiura-Nightmare/)
+37. [Tsukihime: A piece of blue glass moon - Anthology Comic STAR](https://anilist.co/manga/146943/Tsukihime-A-piece-of-blue-glass-moon--Anthology-Comic-STAR/)
+38. [Koha-Ace](https://anilist.co/manga/100260/KohaAce/)
+39. [Koha-Ace GO: Teito Seihai Kitan](https://anilist.co/manga/100259/KohaAce-GO-Teito-Seihai-Kitan/)
+40. [Kara no Kyoukai: The Garden of Sinners](https://anilist.co/manga/53947/Kara-no-Kyoukai-The-Garden-of-Sinners/)
+41. [Take Moon](https://anilist.co/manga/30780/Take-Moon/)
+42. [ALL AROUND TYPE-MOON](https://anilist.co/manga/57327/ALL-AROUND-TYPEMOON/)
+43. [Type-Moon Gakuen: Chibichuki!](https://anilist.co/manga/87196/TypeMoon-Gakuen-Chibichuki/)
+44. [Tsuki no Sango](https://anilist.co/manga/71957/Tsuki-no-Sango/)
+
+
+> Check [Type-Moon fandom](https://typemoon.fandom.com/wiki/TYPE-MOON_Wiki) for manga and ln/novel info and everything related to typemoon.
