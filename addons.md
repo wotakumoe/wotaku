@@ -80,7 +80,6 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 - Arr <Badge type="tip" text="Radarr" link="https://radarr.video/" /><Badge type="tip" text="Sonarr" link="https://sonarr.tv/" /><Badge type="tip" text="Prowlarr" link="https://prowlarr.com/" /><Badge type="tip" text="Overseerr" link="https://overseerr.dev/" /><Badge type="tip" text="Guide" link="https://wiki.servarr.com/" />
 - [Emby](https://emby.media/)
 - [Jellyfin](https://jellyfin.org/)
-- [mpv](https://mpv.io/)
 - [Plex](https://www.plex.tv/)
 - [Plex Anisync](https://github.com/RickDB/PlexAniSync)
 - [PlexAniSync-Mappings](https://github.com/mizz141/PlexAniSync-Mappings)
@@ -112,6 +111,26 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 - [Taiga](https://github.com/erengy/taiga) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://taiga.moe/" /><Badge type="info" text="Windows" /><Badge type="info" text="Downloader" />
 - [Trackma](https://github.com/z411/trackma) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://z411.github.io/trackma/" /><Badge type="info" text="Linux" />
 - [Tundra](https://github.com/m4tx/tundra) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://tundra.moe/" /><Badge type="info" text="Linux" />
+
+== Media
+
+### Audio
+- [AIMP](https://www.aimp.ru/)
+- [Foobar2000](https://www.foobar2000.org/) <Badge type="info" text="Synced Lyrics" link="https://rentry.co/FB2K-SyncedLyrics" />
+- [MusicBee](https://www.getmusicbee.com/)
+- [WACUP](https://getwacup.com/)
+
+### Video
+- [IINA](https://iina.io/) <Badge type="info" text="MacOS" />
+- [MPC-HC](https://codecguide.com/download_kl.htm)
+- [mpv](https://mpv.io/)
+- [Potplayer](https://potplayer.daum.net/)
+
+### Online
+- [FreeTube](https://freetubeapp.io/)
+- [Spicetify](https://spicetify.app/)
+- [SPOTX](https://github.com/SpotX-Official/SpotX)
+- [Youtube Music](https://github.com/th-ch/youtube-music)
 
 == mpv
 
@@ -184,14 +203,6 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 == Others
 
 - [Hydrus network](https://hydrusnetwork.github.io/hydrus/)
-- Media
-  - [AIMP](https://www.aimp.ru/)
-  - [Foobar2000](https://www.foobar2000.org/)
-  - [MPC-HC](https://codecguide.com/download_kl.htm)
-  - [Potplayer](https://potplayer.daum.net/)
-  - [IINA](https://iina.io/) <Badge type="info" text="MacOS" />
-  - [Spicetify](https://spicetify.app/)
-  - [WACUP](https://getwacup.com/)
 - [osu! Cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner)
 - [PreMiD](https://premid.app/)
 - [Textractor](https://github.com/Artikash/Textractor)
