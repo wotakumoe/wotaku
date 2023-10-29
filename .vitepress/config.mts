@@ -15,7 +15,6 @@ import fg from "fast-glob";
 import { resolve } from "node:path";
 import { FileSystemIconLoader } from "@iconify/utils/lib/loader/node-loaders";
 
-// FIXME: remove this after we are done
 const hostname: string = "https://wotaku.moe";
 export const githubSourceContentRegex = new RegExp(
   "^https://(((raw|user-images|camo).githubusercontent.com))/.*",
@@ -29,7 +28,8 @@ export const jsdelivrCDNRegex = new RegExp("^https://cdn.jsdelivr.net/.*", "i");
 export default withPwa(
   defineConfig({
     title: "Wotaku",
-    description: "Wotaku, the one-stop-shop for all your otaku interests. Here you can find websites for Anime, Manga, Light Novels, Music, Soundtracks, Games and Hentai. Our japanese learning section has books and videos about language, history and culture.",
+    description:
+      "Wotaku, the one-stop-shop for all your otaku interests. Here you can find websites for Anime, Manga, Light Novels, Music, Soundtracks, Games and Hentai. Our japanese learning section has books and videos about language, history and culture.",
     lang: "en-US",
     lastUpdated: true,
     cleanUrls: true,
@@ -37,14 +37,14 @@ export default withPwa(
     appearance: "dark",
     titleTemplate: ":title • Wotaku.moe by Duck",
     head: [
-      ["meta", { name: "theme-color", content: "#7bc5e4" }],
+      ["meta", { name: "theme-color", content: "#a594f9" }],
       ["meta", { name: "og:type", content: "website" }],
       ["meta", { name: "og:locale", content: "en" }],
       ["link", { rel: "icon", href: "/asset/podarufav.png" }],
       // PWA
       ["link", { rel: "icon", href: "/asset/podarufav.png", type: "image/svg+xml" }],
       ["link", { rel: "alternate icon", href: "/asset/podarufav.png" }],
-      ["link", { rel: "mask-icon", href: "/asset/podarufav.png", color: "#7bc5e4" }],
+      ["link", { rel: "mask-icon", href: "/asset/podarufav.png", color: "#a594f9" }],
       // prettier-ignore
       ["meta", { name: "keywords", content: "Anime, Manga, Otaku, Hentai, Weeb" }],
       ["link", { rel: "apple-touch-icon", href: "/asset/podarufav.png", sizes: "192x192" }],
@@ -191,7 +191,7 @@ export default withPwa(
         description: "The Otaku Index",
         categories: ["anime", "manga", "weeb", "hentai", "otaku"],
         short_name: "Wotaku",
-        theme_color: "#7bc5e4",
+        theme_color: "#a594f9",
         icons: [
           {
             src: "/asset/pwa-192x192.png",

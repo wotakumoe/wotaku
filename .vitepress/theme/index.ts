@@ -22,7 +22,7 @@ export default {
   enhanceApp({ app, router, siteData }) {
     enhanceAppWithTabs(app);
     app.component("Button", Button);
-    app.component("Authors", Authors)
+    app.component("Authors", Authors);
     createMediumZoomProvider(app, router);
   },
 };
