@@ -1,6 +1,7 @@
 ---
 title: Quick Start
 description: Bitsized Wotaku!
+customDescription: Discover websites, software, and essentials for anime, manga, music, and more. Get started with these curated resources for otaku enthusiasts.
 ---
 # Quick Start
 The basic things to get you started.
