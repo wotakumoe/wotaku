@@ -71,13 +71,13 @@ export function generateMeta(context: TransformContext, hostname: string) {
     const imageUrl = `${url}/__og_image__/og.png`.replace(/\/\//g, "/").replace(/^\//, "");
 
     head.push(["meta", { property: "og:image", content: `${hostname}/${imageUrl}` }]);
-    head.push(["meta", { property: "og:image:width", content: "1200" }]);
-    head.push(["meta", { property: "og:image:height", content: "628" }]);
+    head.push(["meta", { property: "og:image:width", content: "1098" }]);
+    head.push(["meta", { property: "og:image:height", content: "530" }]);
     head.push(["meta", { property: "og:image:type", content: "image/png" }]);
     head.push(["meta", { property: "og:image:alt", content: pageData.frontmatter.title }]);
     head.push(["meta", { name: "twitter:image", content: `${hostname}/${imageUrl}` }]);
-    head.push(["meta", { name: "twitter:image:width", content: "1200" }]);
-    head.push(["meta", { name: "twitter:image:height", content: "628" }]);
+    head.push(["meta", { name: "twitter:image:width", content: "1098" }]);
+    head.push(["meta", { name: "twitter:image:height", content: "530" }]);
     head.push(["meta", { name: "twitter:image:alt", content: pageData.frontmatter.title }]);
   }
   if (pageData.frontmatter.tag) {
