@@ -228,7 +228,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [1r0n](https://nyaa.si/user/tsuna69) <Badge type="info" text="7seas" /><Badge type="info" text="comikey" /><Badge type="info" text="jnovel" /><Badge type="info" text="kmanga" /><Badge type="info" text="kodansha" /><Badge type="info" text="sq. enix" /><Badge type="info" text="up!" /><Badge type="info" text="viz" /><Badge type="info" text="yen" />
 - [anadius](https://nyaa.si/user/anadius) <Badge type="info" text="viz" />
 - [Danke](https://nyaa.si/?f=0&c=0_0&q=danke-empire) <Badge type="info" text="7seas" /><Badge type="info" text="kodansha" /><Badge type="info" text="viz" /><Badge type="info" text="yen" />
-- [Digital Manga Fan](https://nyaa.si/user/digitalmangafan) <Badge type="info" text="7seas" /><Badge type="info" text="jnovel" /><Badge type="info" text="kodansha" /><Badge type="info" text="op" /><Badge type="info" text="yen" />
+- [Digital Manga Fan](https://nyaa.si/user/digitalmangafan) <Badge type="info" text="7seas" /><Badge type="info" text="jnovel" /><Badge type="info" text="kodansha" /><Badge type="info" text="op" /><Badge type="info" text="viz" /><Badge type="info" text="yen" />
 - [Empy](https://nyaa.si/user/empyrealarrow) <Badge type="info" text="compilation" /><Badge type="info" text="glacier" /><Badge type="info" text="plus" />
 - [Lord_ne](https://nyaa.si/user/lord_ne) <Badge type="info" text="crunchy" /><Badge type="info" text="lezhin" /><Badge type="info" text="yen" />
 - [LuCaZ](https://nyaa.si/user/LuCaZ) <Badge type="info" text="7seas" /><Badge type="info" text="yen" />
@@ -287,6 +287,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 == Manhwa
 
 - [Asura Scans](https://www.asurascans.com/) + 🇨🇳 | <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/juxsa9z/asura" />
+- [Flame Scans](https://flamecomics.com/) + 🇨🇳 | <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/fdad9851-164f-43fc-9ab0-25b8054c99ed/flame-scans" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/btgsdiy/flame-scans" />
 - [Immortal Updates](https://immortalupdates.com/) + 🇨🇳 | <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/1296f28d-7888-4fcc-8861-93edb6c05e8c/immortal-updates-scan" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/10z1hxo/immortal-updates-scan" />
 - [LSComic](https://lscomic.com/) + 🇨🇳 | <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/rot79ib/leviatanscans" />
 - [Luminous Scans](https://luminousscans.com/) | <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/jufm30w/luminous" />
