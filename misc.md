@@ -399,6 +399,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Holodex](https://holodex.net/) <Badge type="info" text="Music" link="https://music.holodex.net/" /><Badge type="info" text="Frontend" />
 - [Good VTuber Subs](https://goodvtubersubs.com/) <Badge type="info" text="DB" />
 - [VChama](https://vchama.xyz) <Badge type="info" text="Stats" /><Badge type="info" text="Schedule" />
+- [VTuber Highlights](https://vtuber.atodeyo.com/)
 - [Virtual YouTuber Wiki ](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki) <Badge type="info" text="DB" />
 - [VSTATS](https://www.vstats.jp/) <Badge type="info" text="Stats" />
 - [Hololist](https://hololist.net/) <Badge type="info" text="DB" />

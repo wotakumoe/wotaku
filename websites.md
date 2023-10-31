@@ -320,85 +320,103 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 :::tabs
 == Stream
 
-- **OP/ED**
-  - [Anithemes.moe](https://animethemes.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/AnimeThemes" />
-  - [Themes.moe](https://themes.moe/)
-  - [Karaoke Mugen](https://kara.moe)
-  - [Squidify](https://www.squidify.org/)
-- **General**
-  - [Spotify](https://spotify.com/)
-  - [Youtube Music](https://music.youtube.com/) <Badge type="tip" text="Beatbump" link="https://beatbump.io/home" /><Badge type="tip" text="Hyperpipe" link="https://hyperpipe.surge.sh/" />
-  - [Deezer](https://www.deezer.com/)
-  - [SoundCloud](https://soundcloud.com/)
-- **Radio**
-  - [Anison.fm](https://en.anison.fm/) <Badge type="info" text="320kbps" link="https://anison.fm/anison.m3u" />
-  - [Yggdrasil Radio](https://yggdrasilradio.com/) <Badge type="info" text="128kbps" link="https://yggdrasilradio.net/yggdrasilradio_mp3_128kbps.pls" />
-  - [Anime(bits)](https://radio.animebits.moe/) <Badge type="info" text="FLAC" link="https://radio.animebits.moe/m3u/stream192.mp3.m3u" />
-  - [Listen.moe](https://listen.moe/) <Badge type="info" text="128kbps" link="https://listen.moe/m3u8/jpop.m3u" />
-  - [Doujin Style](https://embed.radio.co/player/735ee7b.html) <Badge type="info" text="128kbps" link="https://doujinstyle.com/listen.m3u" />
-  - [Gensokyo Radio](https://gensokyoradio.net/playing/) <Badge type="info" text="256kbps" link="https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u" /><Badge type="info" text="Touhou" />
-  - [Phate](https://phate.io/) <Badge type="info" text="192kbps" link="https://phate.io/phate.m3u" /><Badge type="info" text="Utaite" />
-  - [Sasalele](https://basic.pp.ua/)  <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/Mikeexe2/Internet-radio-stream-links" /><Badge type="info" text="Compilation" />
-- **Touhou**
-  - [Touhou Disc](https://alist.thdisc.tk)
-  - [Touhou Player](https://touhou.kuukunen.net/)
-  - [TMLC](https://tlmc.pf-n.co/tlmc)
+### OP/ED
+- [Anithemes.moe](https://animethemes.moe/) [Github](https://github.com/AnimeThemes)
+- [Themes.moe](https://themes.moe/)
+- [Karaoke Mugen](https://kara.moe)
+- [Squidify](https://www.squidify.org/)
+
+### General
+- [Spotify](https://spotify.com/)
+- [Youtube Music](https://music.youtube.com/) <Badge type="tip" text="Beatbump" link="https://beatbump.io/home" /><Badge type="tip" text="Hyperpipe" link="https://hyperpipe.surge.sh/" />
+- [Deezer](https://www.deezer.com/)
+- [SoundCloud](https://soundcloud.com/)
+
+### Radio
+- [Anison.fm](https://en.anison.fm/) <Badge type="info" text="320kbps" link="https://anison.fm/anison.m3u" />
+- [Yggdrasil Radio](https://yggdrasilradio.com/) <Badge type="info" text="128kbps" link="https://yggdrasilradio.net/yggdrasilradio_mp3_128kbps.pls" />
+- [Anime(bits)](https://radio.animebits.moe/) <Badge type="info" text="FLAC" link="https://radio.animebits.moe/m3u/stream192.mp3.m3u" />
+- [Listen.moe](https://listen.moe/) <Badge type="info" text="128kbps" link="https://listen.moe/m3u8/jpop.m3u" />
+
 
 == Download
 
-- **FLAC**
-  - [Sitting on Clouds](https://www.sittingonclouds.net/) <Badge type="info" text="Mega" /><Badge type="info" text="Mediafire" />
-  - [SquidBoard](https://www.squid-board.org/) <Badge type="tip" text="Alt" link="https://sqb.moe/" /><Badge type="info" text="Needs account" /><Badge type="info" text="Mega" /><Badge type="info" text="Mediafire" /><Badge type="info" text="GDrive" />
-  - [Sukidesu OST](https://sukidesuost.info/) <Badge type="info" text="Mega" />
-  - [Asia Media Blog](https://asiamediablog.com/media/music/) <Badge type="info" text="Host" />
-- **MP3**
-  - [OS Anime](https://osanime.com/) <Badge type="info" text="Direct" />
-  - [Hiyori OST](https://www.hiyoriost.com/) <Badge type="info" text="GDrive" /><Badge type="info" text="Host" />
-  - [Sakura OST](https://www.sakuraost.com/) <Badge type="info" text="Host" />
-- **Doujin**
-  - [MikuDB](https://mikudb.moe/) <Badge type="info" text="GDrive" />
-  - [Touhou Disc](https://alist.thdisc.tk)
-  - [Doujin Cafe](https://discord.com/invite/doujincafe)
-  - [Doujin Music](https://vk.com/wall-60027733)
-  - [Moriya Shrine](https://moriyashrine.org/) <Badge type="info" text="Torrent" />
-  - [Doujin Style](https://doujinstyle.com/) <Badge type="tip" text="Touhou" link="https://doujinstyle.com/?p=tlmc" /><Badge type="info" text="Mediafire" />
+### FLAC
+- [Sitting on Clouds](https://www.sittingonclouds.net/) <Badge type="info" text="Mega" /><Badge type="info" text="Mediafire" />
+- [SquidBoard](https://www.squid-board.org/) <Badge type="tip" text="Alt" link="https://sqb.moe/" /><Badge type="info" text="Needs account" /><Badge type="info" text="Mega" /><Badge type="info" text="Mediafire" /><Badge type="info" text="GDrive" />
+- [Sukidesu OST](https://sukidesuost.info/) <Badge type="info" text="Mega" />
+- [Asia Media Blog](https://asiamediablog.com/media/music/) <Badge type="info" text="Host" />
+
+### MP3
+- [OS Anime](https://osanime.com/) <Badge type="info" text="Direct" />
+- [Hiyori OST](https://www.hiyoriost.com/) <Badge type="info" text="GDrive" /><Badge type="info" text="Host" />
+- [Sakura OST](https://www.sakuraost.com/) <Badge type="info" text="Host" />
+
+
+== Doujin
+
+### Touhou
+- [Touhou Disc](https://alist.thdisc.tk)
+- [Touhou Player](https://touhou.kuukunen.net/)
+- [TMLC](https://tlmc.pf-n.co/tlmc)
+
+### Download
+- [MikuDB](https://mikudb.moe/) <Badge type="info" text="GDrive" />
+- [Touhou Disc](https://alist.thdisc.tk)
+- [Doujin Cafe](https://discord.com/invite/doujincafe)
+- [Doujin Music](https://vk.com/wall-60027733)
+- [Moriya Shrine](https://moriyashrine.org/) <Badge type="info" text="Torrent" />
+- [Doujin Style](https://doujinstyle.com/) <Badge type="tip" text="Touhou" link="https://doujinstyle.com/?p=tlmc" /><Badge type="info" text="Mediafire" />
+
+### Radio
+- [Doujin Style](https://embed.radio.co/player/735ee7b.html) <Badge type="info" text="128kbps" link="https://doujinstyle.com/listen.m3u" />
+- [Gensokyo Radio](https://gensokyoradio.net/playing/) <Badge type="info" text="256kbps" link="https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u" /><Badge type="info" text="Touhou" />
+- [Phate](https://phate.io/) <Badge type="info" text="192kbps" link="https://phate.io/phate.m3u" /><Badge type="info" text="Utaite" />
+
 
 == Others
 
-- **Index/Wiki**
-  - [Aniplaylist](https://aniplaylist.com/)
-  - [VocaDB](https://vocadb.net/)
-  - [TouhouDB](https://touhoudb.com/)
-  - [UtaiteDB](https://utaitedb.net/)
-  - [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)
-  - [THB Wiki](https://thwiki.cc/)
-  - [Touhou Spotify Music](https://www.thspotify.moe/) | [Docs](https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit#gid=0)
-  - [Utaite Key](https://utaite-key.info/)
-  - [VGMdb](https://vgmdb.net/)
-  - [Discogs](https://www.discogs.com/)
-  - [MusicBrainz](https://musicbrainz.org/)
-- **Portal**
-  - [Make Believe Mailer](https://mbmelodies.substack.com/)
-  - [Vocasphere](https://vocasphere.net/)
-  - [Merami fan](https://meramifan.wordpress.com/)
-  - [Touhou Memories](https://touhou-memories.com/)
-  - [Hatsune Miku](https://twitter.com/cfm_miku_en)
-- **Discovery**
-  - [Rate Your Music](https://rateyourmusic.com/)
-  - [Every Noise](https://everynoise.com)
-  - [Discover Quickly](https://discoverquickly.com/)
-  - [Dubolt](https://dubolt.com/)
-- **RYM Ultimate Box Set**
-  - [Japanese Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-japanese-music/)
-  - [Doujin Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-doujin-music/)
-  - [Touhou Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-touhou-music/)
-  - [Vocaloid](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-vocaloid/)
-  - [Utaite Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-utaite-music/)
-- **Playlists**
-  - [Vocaloid Big Hits](https://music.youtube.com/playlist?list=RDCLAK5uy_mgu07-HoqLSU-WqjK2ldEQWLuPPm3CAy8)
-- **Others**
-  - [Cover Search Engine](https://covers.musichoarders.xyz/)
-  - [Songle](https://songle.jp/)
+### Index/Wiki
+- [Aniplaylist](https://aniplaylist.com/)
+- [VGMdb](https://vgmdb.net/)
+- [Discogs](https://www.discogs.com/)
+- [MusicBrainz](https://musicbrainz.org/)
+- [VocaDB](https://vocadb.net/)
+- [TouhouDB](https://touhoudb.com/)
+- [UtaiteDB](https://utaitedb.net/)
+- [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)
+- [THB Wiki](https://thwiki.cc/)
+- [Touhou Spotify Music](https://www.thspotify.moe/) <Badge type="tip" text="Docs" link="https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit#gid=0" />
+- [Utaite Key](https://utaite-key.info/)
+
+### Portal
+- [Make Believe Mailer](https://mbmelodies.substack.com/)
+- [Uta-Net](https://www.uta-net.com/)
+- [UtaTen](https://utaten.com/)
+- [Vocasphere](https://vocasphere.net/)
+- [Merami fan](https://meramifan.wordpress.com/)
+- [Touhou Memories](https://touhou-memories.com/)
+- [Hatsune Miku](https://twitter.com/cfm_miku_en)
+
+### Discovery
+- [Rate Your Music](https://rateyourmusic.com/)
+- [Every Noise](https://everynoise.com)
+- [Discover Quickly](https://discoverquickly.com/)
+- [Dubolt](https://dubolt.com/)
+
+### RYM Ultimate Box Set
+- [Japanese Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-japanese-music/)
+- [Doujin Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-doujin-music/)
+- [Touhou Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-touhou-music/)
+- [Vocaloid](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-vocaloid/)
+- [Utaite Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-utaite-music/)
+
+### Others
+- [Cover Search Engine](https://covers.musichoarders.xyz/)
+- [Songle](https://songle.jp/)
+
+### Misc
+- [Vocaloid Big Hits](https://music.youtube.com/playlist?list=RDCLAK5uy_mgu07-HoqLSU-WqjK2ldEQWLuPPm3CAy8)
 
 :::
 

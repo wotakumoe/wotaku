@@ -5,7 +5,7 @@ title: IRC
 IRC (Internet Relay Chat) is a real-time messaging protocol, while XDCC (eXtended DCC) is a method used on IRC to facilitate file sharing through direct client-to-client connections. In this guide, we explaned how to use bots in IRC.
 <br>
 
-# Getting Started
+## Getting Started
 1. Install an [**IRC Client**](#irc-client) on your device.
 2. Go to a [**XDCC Packlists**](#xdcc-packlists) and search for your content
 3. Click on the search result for the command message 
