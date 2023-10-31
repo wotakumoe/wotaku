@@ -128,6 +128,7 @@ On Android, use <Badge type="tip" icon="i-custom-1dm" text="1DM" link="https://p
   - Has a good amount of sources (Crunchyroll, Aniwave, Kickassanime etc.)
   - Scrapes manga sites too (Mangadex, Katana, Batoto etc.)
   - Only chromium browsers are supported & needs browser extension to work
+  - Crunchyroll may display incorrect shows that, in some cases, cannot be fixed due to limitations
 - [**AnimeUI**](https://animeui.com/)
   - Great upload quality
   - Uses IPFS to stream anime
@@ -545,7 +546,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 ### Databases
 - [Official card database](https://www.db.yugioh-card.com/yugiohdb/)
-- [YGOrganization](https://db.ygorganization.com/) <Badge type="info" text="Cards and Rulings" />
+- [YGOrganization](https://yugipedia.com/wiki/Yugipedia) <Badge type="info" text="Cards and Rulings" />
 - [Master Duel Meta](https://www.masterduelmeta.com/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/invite/masterduelmeta" />
 - [Duel Links Meta](https://www.duellinksmeta.com/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/invite/duellinksmeta" />
 - [YGOPro Deck](https://ygoprodeck.com/) <Badge type="info" icon="i-iconoir-community" text="Forum" link="https://ygoprodeck.com/forum/" /> <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.com/invite/nx24PSBGFE" />
