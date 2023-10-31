@@ -546,7 +546,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 ### Databases
 - [Official card database](https://www.db.yugioh-card.com/yugiohdb/)
-- [YGOrganization](https://yugipedia.com/wiki/Yugipedia) <Badge type="info" text="Cards and Rulings" />
+- [Yugipedia](https://yugipedia.com/wiki/Yugipedia) <Badge type="info" text="Cards and Rulings" />
 - [Master Duel Meta](https://www.masterduelmeta.com/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/invite/masterduelmeta" />
 - [Duel Links Meta](https://www.duellinksmeta.com/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/invite/duellinksmeta" />
 - [YGOPro Deck](https://ygoprodeck.com/) <Badge type="info" icon="i-iconoir-community" text="Forum" link="https://ygoprodeck.com/forum/" /> <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.com/invite/nx24PSBGFE" />
