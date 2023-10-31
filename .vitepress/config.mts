@@ -49,6 +49,7 @@ export default withPwa(
       ["meta", { name: "keywords", content: "Anime, Manga, Otaku, Hentai, Weeb" }],
       ["link", { rel: "apple-touch-icon", href: "/asset/podarufav.png", sizes: "192x192" }],
     ],
+    srcExclude: ["README.md"],
     transformHead: async (context) => generateMeta(context, hostname),
     buildEnd: async (context) => {
       generateImages(context);
