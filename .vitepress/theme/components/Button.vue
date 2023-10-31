@@ -11,14 +11,15 @@ withDefaults(
 </script>
 
 <template>
-  <a
-    target="_blank"
+  <component
+    :target="link ? '_blank' : undefined"
+    :is="link ? 'a' : 'span'"
     :href="link"
     :class="type"
     class="VButton px4 py3 rounded-md block mt2 flex items-center gap2">
     <div :class="icon" />
     <slot>{{ text }}</slot>
-  </a>
+  </component>
 </template>
 
 <style scoped>

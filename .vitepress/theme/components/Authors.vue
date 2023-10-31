@@ -23,7 +23,7 @@ const credits = {
     },
   ],
   discrip: [
-    { 
+    {
       name: "nullishcat",
       site: "https://nullish.cat/",
       avatar: "https://github.com/nullish-cat.png",

@@ -1,6 +1,7 @@
 ---
 title: Merch
 description: Everything merch related!
+customDescription: Discover and buy anime merch from your favorite series. Get information on figurines, plushes, books, CDs, and more. Learn about delivery types and agents.
 ---
 # Merch
 Looking to buy memorabilia from your favourite series and support the creators? Here you will find information on figurines, plushes, books, CDs and more!

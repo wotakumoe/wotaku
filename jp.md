@@ -1,6 +1,7 @@
 ---
 title: Learning Japanese
 description: Japanese learning resources
+customDescription: Get started on your journey to fluency in Japanese! Explore an extensive collection of resources, from beginner guides to advanced learning tools, to master the language.
 ---
 # Learning Japanese
 Interested in learning the japanese language? Here you can find resources to aid you on your journey.

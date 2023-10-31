@@ -1,6 +1,7 @@
 ---
 title: Brewing
 description: Cool projects under development.
+customDescription: Discover and contribute to exciting projects under development! Enhance your manga and anime experience with these upcoming websites and software.
 next: false
 ---
 # Brewing

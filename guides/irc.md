@@ -1,5 +1,6 @@
 ---
 title: IRC
+customDescription: Learn how to use IRC and XDCC for real-time messaging and file sharing. Install an IRC client, search for XDCC packlists, and download files through direct client-to-client connections.
 ---
 # IRC & XDCC
 IRC (Internet Relay Chat) is a real-time messaging protocol, while XDCC (eXtended DCC) is a method used on IRC to facilitate file sharing through direct client-to-client connections. In this guide, we explaned how to use bots in IRC.
@@ -10,9 +11,7 @@ IRC (Internet Relay Chat) is a real-time messaging protocol, while XDCC (eXtende
 2. Go to a [**XDCC Packlists**](#xdcc-packlists) and search for your content
 3. Click on the search result for the command message 
 
-::: info 💡
-Standard XDCC command `/msg [bot name] xdcc send #[packet number]`
-:::
+<Button icon="i-octicon-light-bulb">Standard XDCC command `/msg [bot name] xdcc send #[packet number]`</Button>
 4. Join the server and the channel of the bot and send the command message
 5. It will show a pop up for the download.
 
@@ -31,8 +30,6 @@ Standard XDCC command `/msg [bot name] xdcc send #[packet number]`
 - [LimeChat](https://apps.apple.com/us/app/limechat/id414030210) <Badge type="info" text="macOS" />
 
 <Button link="https://ircv3.net/software/clients" icon="i-octicon-command-palette-16">More clients here. </Button>
-
-
 
 ## XDCC Packlists
 - [**nibl**](https://nibl.co.uk/search)	<Badge type="info" text="Anime" />

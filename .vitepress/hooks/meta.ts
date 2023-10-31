@@ -17,27 +17,22 @@ export function generateMeta(context: TransformContext, hostname: string) {
   if (pageData.frontmatter.type) {
     head.push(["meta", { property: "og:type", content: pageData.frontmatter.type }]);
   }
-  if (pageData.frontmatter.customMetaTitle) {
+  if (pageData.frontmatter.customDescription) {
     head.push([
       "meta",
       {
-        property: "og:title",
-        content: pageData.frontmatter.customMetaTitle,
+        property: "og:description",
+        content: pageData.frontmatter.customDescription,
       },
     ]);
     head.push([
       "meta",
       {
-        name: "twitter:title",
-        content: pageData.frontmatter.customMetaTitle,
+        name: "twitter:description",
+        content: pageData.frontmatter.customDescription,
       },
     ]);
-    head.push(["meta", { property: "og:site_name", content: "" }]);
-  } else {
-    head.push(["meta", { property: "og:title", content: pageData.frontmatter.title }]);
-    head.push(["meta", { name: "twitter:title", content: pageData.frontmatter.title }]);
-  }
-  if (pageData.frontmatter.description) {
+  } else if (pageData.frontmatter.description) {
     head.push([
       "meta",
       {
@@ -53,6 +48,9 @@ export function generateMeta(context: TransformContext, hostname: string) {
       },
     ]);
   }
+  head.push(["meta", { property: "og:title", content: pageData.frontmatter.title }]);
+  head.push(["meta", { name: "twitter:title", content: pageData.frontmatter.title }]);
+
   if (pageData.frontmatter.image) {
     head.push([
       "meta",
@@ -73,13 +71,13 @@ export function generateMeta(context: TransformContext, hostname: string) {
     const imageUrl = `${url}/__og_image__/og.png`.replace(/\/\//g, "/").replace(/^\//, "");
 
     head.push(["meta", { property: "og:image", content: `${hostname}/${imageUrl}` }]);
-    head.push(["meta", { property: "og:image:width", content: "1200" }]);
-    head.push(["meta", { property: "og:image:height", content: "628" }]);
+    head.push(["meta", { property: "og:image:width", content: "1098" }]);
+    head.push(["meta", { property: "og:image:height", content: "530" }]);
     head.push(["meta", { property: "og:image:type", content: "image/png" }]);
     head.push(["meta", { property: "og:image:alt", content: pageData.frontmatter.title }]);
     head.push(["meta", { name: "twitter:image", content: `${hostname}/${imageUrl}` }]);
-    head.push(["meta", { name: "twitter:image:width", content: "1200" }]);
-    head.push(["meta", { name: "twitter:image:height", content: "628" }]);
+    head.push(["meta", { name: "twitter:image:width", content: "1098" }]);
+    head.push(["meta", { name: "twitter:image:height", content: "530" }]);
     head.push(["meta", { name: "twitter:image:alt", content: pageData.frontmatter.title }]);
   }
   if (pageData.frontmatter.tag) {
