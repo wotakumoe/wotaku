@@ -318,7 +318,6 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 ## Music
 
-
 :::tabs
 == Stream
 
@@ -354,8 +353,36 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Hiyori OST](https://www.hiyoriost.com/) <Badge type="info" text="GDrive" /><Badge type="info" text="Host" />
 - [Sakura OST](https://www.sakuraost.com/) <Badge type="info" text="Host" />
 
+
 == Doujin
 
+### Touhou
+- [Touhou Disc](https://alist.thdisc.tk)
+- [Touhou Player](https://touhou.kuukunen.net/)
+- [TMLC](https://tlmc.pf-n.co/tlmc)
+
+### Download
+- [MikuDB](https://mikudb.moe/) <Badge type="info" text="GDrive" />
+- [Touhou Disc](https://alist.thdisc.tk)
+- [Doujin Cafe](https://discord.com/invite/doujincafe)
+- [Doujin Music](https://vk.com/wall-60027733)
+- [Moriya Shrine](https://moriyashrine.org/) <Badge type="info" text="Torrent" />
+- [Doujin Style](https://doujinstyle.com/) <Badge type="tip" text="Touhou" link="https://doujinstyle.com/?p=tlmc" /><Badge type="info" text="Mediafire" />
+
+### Radio
+- [Doujin Style](https://embed.radio.co/player/735ee7b.html) <Badge type="info" text="128kbps" link="https://doujinstyle.com/listen.m3u" />
+- [Gensokyo Radio](https://gensokyoradio.net/playing/) <Badge type="info" text="256kbps" link="https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u" /><Badge type="info" text="Touhou" />
+- [Phate](https://phate.io/) <Badge type="info" text="192kbps" link="https://phate.io/phate.m3u" /><Badge type="info" text="Utaite" />
+
+
+== Others
+
+### Index/Wiki
+- [Aniplaylist](https://aniplaylist.com/)
+- [VGMdb](https://vgmdb.net/)
+- [Discogs](https://www.discogs.com/)
+- [MusicBrainz](https://musicbrainz.org/)
+- [VocaDB](https://vocadb.net/)
 - [TouhouDB](https://touhoudb.com/)
 - [UtaiteDB](https://utaitedb.net/)
 - [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)
@@ -393,6 +420,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Vocaloid Big Hits](https://music.youtube.com/playlist?list=RDCLAK5uy_mgu07-HoqLSU-WqjK2ldEQWLuPPm3CAy8)
 
 :::
+
 
 ![](/banner/novels.png)
 
