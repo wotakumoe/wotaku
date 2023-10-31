@@ -92,6 +92,7 @@ export default withPwa(
     },
     themeConfig: {
       search: {
+        options: { detailedView: true },
         provider: "local",
       },
       logo: { src: "/asset/inaidle.webp", width: 29, height: 24 },
