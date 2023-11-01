@@ -2,6 +2,8 @@
 title: IRC
 customDescription: Learn how to use IRC and XDCC for real-time messaging and file sharing. Install an IRC client, search for XDCC packlists, and download files through direct client-to-client connections.
 ---
+
+![](/thumb/irc.webp)
 # IRC & XDCC
 IRC (Internet Relay Chat) is a real-time messaging protocol, while XDCC (eXtended DCC) is a method used on IRC to facilitate file sharing through direct client-to-client connections. In this guide, we explaned how to use bots in IRC.
 <br>
@@ -21,7 +23,7 @@ IRC (Internet Relay Chat) is a real-time messaging protocol, while XDCC (eXtende
 ## IRC Client
 - [Revolution IRC](https://play.google.com/store/apps/details?id=io.mrarm.irc)		<Badge type="info" text="Android" />
 - [AndroIRC](https://play.google.com/store/apps/details?id=com.androirc&hl=en&gl=US)		<Badge type="info" text="Android" />
-- [hexchat](https://hexchat.github.io/)		<Badge type="info" text="Windows" />
+- [HexChat](https://hexchat.github.io/)		<Badge type="info" text="Windows" />
 - [mIRC](https://www.mirc.com/)		<Badge type="info" text="Windows" />
 - [AdiIRC](https://adiirc.com/)	<Badge type="info" text="Windows" />
 - [KVIrc](https://github.com/kvirc/KVIrc/releases) <Badge type="info" text="Windows" /><Badge type="info" text="Linux" /><Badge type="info" text="macOS" />
