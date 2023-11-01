@@ -252,6 +252,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Understanding the Japanese Writing System](https://www.youtube.com/watch?v=r7a8OjvViwE)
 - [the peculiar case of japanese web design](https://sabrinas.space/) <Badge type="info" text="Video" link="https://www.youtube.com/watch?v=z6ep308goxQ" />
     - [How culture made Japanese Internet design "Weird"](https://www.youtube.com/watch?v=Opy-SjDU0UY)
+- [Diggin' In The Carts: Japanese Video Game Music Documentary](https://www.youtube.com/playlist?list=PLdd050JRcXCIefOzuG_gw-KNUlq_beHar)
 - [Pachinko: Japan's Biggest Gaming Obsession Explained](https://www.youtube.com/watch?v=-tBy2jemw4s)
 - [Social problems in Japan](https://www.youtube.com/playlist?list=PLpIWoYf9KNFV_I-719B3pk673xaHZ6fYY)
 - [Why some Asian accents swap Ls and Rs in English](https://www.youtube.com/watch?v=2yzMUs3badc)

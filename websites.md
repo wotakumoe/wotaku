@@ -379,26 +379,31 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 == Others
 
 ### Index/Wiki
-- [Aniplaylist](https://aniplaylist.com/)
-- [VGMdb](https://vgmdb.net/)
-- [Discogs](https://www.discogs.com/)
-- [MusicBrainz](https://musicbrainz.org/)
-- [VocaDB](https://vocadb.net/)
-- [TouhouDB](https://touhoudb.com/)
-- [UtaiteDB](https://utaitedb.net/)
-- [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)
-- [THB Wiki](https://thwiki.cc/)
-- [Touhou Spotify Music](https://www.thspotify.moe/) <Badge type="tip" text="Docs" link="https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit#gid=0" />
-- [Utaite Key](https://utaite-key.info/)
+- **Anime**
+  - [Aniplaylist](https://aniplaylist.com/)
+- **Doujin**
+  - [VocaDB](https://vocadb.net/)
+  - [TouhouDB](https://touhoudb.com/)
+  - [UtaiteDB](https://utaitedb.net/)
+  - [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)
+  - [THB Wiki](https://thwiki.cc/)
+  - [Touhou Spotify Music](https://www.thspotify.moe/) <Badge type="tip" text="Docs" link="https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit#gid=0" />
+  - [Utaite Key](https://utaite-key.info/)
+- **General**
+  - [VGMdb](https://vgmdb.net/)
+  - [Discogs](https://www.discogs.com/)
+  - [MusicBrainz](https://musicbrainz.org/)
 
 ### Portal
-- [Make Believe Mailer](https://mbmelodies.substack.com/)
-- [Uta-Net](https://www.uta-net.com/)
-- [UtaTen](https://utaten.com/)
-- [Vocasphere](https://vocasphere.net/)
-- [Merami fan](https://meramifan.wordpress.com/)
-- [Touhou Memories](https://touhou-memories.com/)
-- [Hatsune Miku](https://twitter.com/cfm_miku_en)
+- **General**
+  - [Make Believe Mailer](https://mbmelodies.substack.com/)
+  - [Uta-Net](https://www.uta-net.com/)
+  - [UtaTen](https://utaten.com/)
+- **Doujin / Vocaloid**
+  - [Vocasphere](https://vocasphere.net/)
+  - [Merami fan](https://meramifan.wordpress.com/)
+  - [Touhou Memories](https://touhou-memories.com/)
+  - [Hatsune Miku](https://twitter.com/cfm_miku_en)
 
 ### Discovery
 - [Rate Your Music](https://rateyourmusic.com/)
@@ -413,11 +418,9 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Vocaloid](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-vocaloid/)
 - [Utaite Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-utaite-music/)
 
-### Others
+### More
 - [Cover Search Engine](https://covers.musichoarders.xyz/)
 - [Songle](https://songle.jp/)
-
-### Misc
 - [Vocaloid Big Hits](https://music.youtube.com/playlist?list=RDCLAK5uy_mgu07-HoqLSU-WqjK2ldEQWLuPPm3CAy8)
 
 :::

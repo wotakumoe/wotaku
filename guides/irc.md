@@ -29,7 +29,7 @@ IRC (Internet Relay Chat) is a real-time messaging protocol, while XDCC (eXtende
 - [WeeChat](https://weechat.org/)	<Badge type="info" text="Linux" /><Badge type="info" text="macOS" />
 - [LimeChat](https://apps.apple.com/us/app/limechat/id414030210) <Badge type="info" text="macOS" />
 
-<Button link="https://ircv3.net/software/clients" icon="i-octicon-command-palette-16">More clients here. </Button>
+<Button link="https://ircv3.net/software/clients" icon="i-octicon-command-palette-16">More clients here</Button>
 
 ## XDCC Packlists
 - [**nibl**](https://nibl.co.uk/search)	<Badge type="info" text="Anime" />
