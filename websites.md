@@ -583,8 +583,8 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Ryuu games](https://www.ryuugames.com/)
 
 ### Others
-- [Digimon Basic](https://digimon-basic.org/)
-- [Sonic Zone](https://soniczone.net/)
+- [Digimon Basic](https://digimon-basic.org/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.com/invite/B3RXtnXRSG" />
+- [Sonic Zone](https://soniczone.net/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.com/invite/caxcReqh93" />
 
 :::
 
