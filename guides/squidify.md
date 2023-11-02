@@ -52,7 +52,7 @@ Squidify is based on Navidrome which has its own set of third-party Apps besides
 
 :::
 
->For more options, look at the [list of clients](https://airsonic.github.io/docs/apps/) maintained by the Airsonic project.
+<Button link="https://airsonic.github.io/docs/apps/" icon="i-fxemoji-lightbulb">For more options, look at the list of clients maintained by the Airsonic project</Button>
 
 ## Credentials
 
@@ -67,9 +67,7 @@ Connecting to Squidify is very easy, just login with the following credentials:
 > 1. We recommend sending the Password as Token + Salt. Not all Clients have this option though.
 
 
-:::tip Query
-To request additional soundtracks or inquire about Squidify, join [**SquidBoard**](https://www.squid-board.org/).
-:::
+<Button link="https://www.squid-board.org/" icon="i-fxemoji-lightbulb">To request additional soundtracks or inquire about Squidify, join SquidBoard</Button>
 
 
 

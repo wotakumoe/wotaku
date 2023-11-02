@@ -2,6 +2,8 @@
 title: Network Stream
 customDescription: Stream video files through DDL, IRC, and Torrent. Enjoy seamless online video streaming!
 ---
+
+![](/thumb/ns.png)
 # Network Stream
 Network streaming DDL, IRC and Torrent video files.
 <br>

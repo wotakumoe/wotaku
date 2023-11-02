@@ -70,10 +70,13 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [Aksy Scans](https://mangadex.org/group/258e6c49-e780-408e-bc48-c981d8e58c75/aksyscans)
 
 == Illustrations
+- [Booruwf](https://booru.pixiv.pics/) <Badge type="tip" text="Moeview" link="https://moeview.pixiv.pics/" /> <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/asadahimeka/booruwf-web" />
 - [Danbooru](https://danbooru.donmai.us/)
 - [Gelbooru](https://gelbooru.com/)
 - [Kemono](https://kemono.party/)
 - [Kona chan](https://konachan.com/)
+- [Pixiv](https://www.pixiv.net)
+- [Pixiv Viewer](https://pixiv.pics/)
 - [Rule34](https://rule34.xxx/)
 - [Rule34.dev](https://rule34.dev/)
 - [Sankaku Complex](https://chan.sankakucomplex.com/)

@@ -114,12 +114,14 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 ![](/banner/illust.png)
 
 ## Illustrations
-- [Pixiv](https://www.pixiv.net) <Badge type="danger" text="R+" />
 - [Anime Pictures](https://anime-pictures.net/) <Badge type="warning" text="R" />
+- [Booruwf](https://booru.pixiv.pics/) <Badge type="tip" text="Moeview" link="https://moeview.pixiv.pics/" /> <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/asadahimeka/booruwf-web" /><Badge type="danger" text="R+" />
 - [Danbooru](https://danbooru.donmai.us/) <Badge type="danger" text="R+" /> <Badge type="green" link="https://safebooru.donmai.us/" text="SFW Ver"/>
 - [Gelbooru](https://gelbooru.com/) <Badge type="danger" text="R+" />
 - [Studio Ghibli](https://www.ghibli.jp/info/013772/) <Badge type="green" text="E" />
 - [Kona chan](https://konachan.com/) <Badge type="danger" text="R+" />
+- [Pixiv](https://www.pixiv.net) <Badge type="danger" text="R+" />
+- [Pixiv Viewer](https://pixiv.pics/) <Badge type="danger" text="R+" />
 - [Safebooru](https://safebooru.org/) <Badge type="green" text="E" />
 - [Yandere](https://yande.re/post) <Badge type="danger" text="R+" />
 - [Zerochan](https://www.zerochan.net/) <Badge type="warning" text="R" />
@@ -596,7 +598,6 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 - [Tokupedia](https://tokusatsu.fandom.com/wiki/Main_Page) <Badge type="info" text="Hub"  />
 - [GARO Wiki](https://garo.fandom.com/wiki/GARO_Wiki)
-- [Gojipedia](https://godzilla.fandom.com/wiki/Main_Page)
 - [Kamen Rider Wiki](https://kamenrider.fandom.com/wiki/Kamen_Rider_Wiki)
 - [King Kong Wiki](https://kingkong.fandom.com/wiki/King_Kong_Wiki)
 - [Metal Heroes Wiki](https://metalheroes.fandom.com/wiki/Metal_Heroes_Wiki)

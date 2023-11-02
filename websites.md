@@ -549,11 +549,10 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 ### Databases
 - [Official card database](https://www.db.yugioh-card.com/yugiohdb/)
-- [Yugipedia](https://yugipedia.com/wiki/Yugipedia) <Badge type="info" text="Cards and Rulings" />
+- [YGOrganization](https://ygorganization.com/) <Badge type="tip" text="Cards DB" link="https://db.ygorganization.com/" /> <Badge type="tip" text="Yugipedia" link="https://yugipedia.com/wiki/Yugipedia" />
 - [Master Duel Meta](https://www.masterduelmeta.com/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/invite/masterduelmeta" />
 - [Duel Links Meta](https://www.duellinksmeta.com/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/invite/duellinksmeta" />
 - [YGOPro Deck](https://ygoprodeck.com/) <Badge type="info" icon="i-iconoir-community" text="Forum" link="https://ygoprodeck.com/forum/" /> <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.com/invite/nx24PSBGFE" />
-- [Yugipedia](https://yugipedia.com/wiki/Yugipedia)
 - [Fandom Wiki](https://yugioh.fandom.com/wiki/Yu-Gi-Oh!_Wiki)
 
 ### Official Simulators
@@ -585,6 +584,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 ### Others
 - [Digimon Basic](https://digimon-basic.org/)
+- [Sonic Zone](https://soniczone.net/)
 
 :::
 

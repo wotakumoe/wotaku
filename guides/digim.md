@@ -2,6 +2,8 @@
 title: Digital Manga
 customDescription: "Guide to buying digital manga: Find platforms like Kindle, Apple Books, Google Play, and Kobo. Explore publishers for resolution and DRM-free options."
 ---
+
+![](/thumb/digim.webp)
 # Digital Manga Buyer's Guide
 This guide is intended to help you decide where to purchase your digital manga depending on your needs.
 <br>
