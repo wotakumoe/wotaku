@@ -195,7 +195,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
   - Compresses chapter images
   - Chapter updates are relatively slow
   - [Atsumaru](https://atsu.moe/) scrapes from Mangasee but has better UI
-- [**Colored Manga**](https://coloredmanga.com/) <Badge type="warning" text="R" /> <Badge type="warning" icon="i-fxemoji-constructionsign" text="Down" /> 
+- [**Colored Manga**](https://coloredmanga.com/) <Badge type="warning" text="R" />
   - Uploads without compression but mostly Shounen centric
   - Has both B&W and colored releases
   - Uploads official translations & volume releases (if available)

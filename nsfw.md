@@ -47,6 +47,8 @@ Everyone has to let off some steam once in a while, we don't judge.
     - NSFW portion of nyaa.
 - [Chika Panda](https://panda.chaika.moe/)
     - Archive of stuff removed from E-Hentai due to DMCA complaints. has fakku/irodori stuff.
+
+:::details More {open}
 - [Pururin](https://pururin.to/)
 - [Tsumino](https://www.tsumino.com/)
 - [nyanpantsu](https://nyanpantsu.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/purpleblueslime/nyanpantsu" />
@@ -73,7 +75,6 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [Booruwf](https://booru.pixiv.pics/) <Badge type="tip" text="Moeview" link="https://moeview.pixiv.pics/" /> <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/asadahimeka/booruwf-web" />
 - [Danbooru](https://danbooru.donmai.us/)
 - [Gelbooru](https://gelbooru.com/)
-- [Kemono](https://kemono.party/)
 - [Kona chan](https://konachan.com/)
 - [Pixiv](https://www.pixiv.net)
 - [Pixiv Viewer](https://pixiv.pics/)
@@ -128,8 +129,15 @@ Everyone has to let off some steam once in a while, we don't judge.
 ## Others
 
 :::tabs
+== Websites
+
+- [ASMR.moe](https://asmr.one/)
+- [/h/ Hentai](https://boards.4chan.org/h/)
+- [HMV Mania](https://hmvmania.com/)
+- [Kemono](https://kemono.party/)
 
 == Scripts
+
 - E-HENTAI-VIEW-ENHANCE <Badge type="tip" icon="i-custom-fork" text="Sleezy" link="https://sleazyfork.org/en/scripts/397848-e-hentai-view-enhance" />
 - Eza's Image Glutton <Badge type="tip" icon="i-custom-fork" text="Sleezy" link="https://sleazyfork.org/en/scripts/4713-eza-s-image-glutton" />
 - Image Board Enhancer <Badge type="tip" icon="i-custom-fork" text="Sleezy" link="https://sleazyfork.org/en/scripts/387312-image-board-enhancer-rule34-gelbooru-e621-and-more" />
@@ -141,10 +149,8 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [nhentai konnichiwa](https://github.com/naiymu/nhentai-konnichiwa)
 
 == Misc
-- [ASMR](https://asmr.one/)
-- [/h/ Hentai](https://boards.4chan.org/h/)
+
 - [HDGFAQ](https://rentry.org/hdgfaq)
-- [HMV Mania](https://hmvmania.com/)
 - [Hent-AI](https://github.com/natethegreate/hent-AI)
 - [nHentai Discord Bot](https://github.com/the-urban-inc/nhentai-discord-bot)
 - [nHentai Telegram Bot](https://github.com/sleroq/nhentai-telegram-bot)
