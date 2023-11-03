@@ -440,6 +440,8 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Utaite Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-utaite-music/)
 
 ### More
+- [Anime Music Quiz](https://animemusicquiz.com/)
+- [Anime Song Lyrics](https://www.animesonglyrics.com/)
 - [Cover Search Engine](https://covers.musichoarders.xyz/)
 - [Game Tabs](https://www.gametabs.net/)
 - [Songle](https://songle.jp/)
