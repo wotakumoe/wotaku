@@ -375,6 +375,27 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Gensokyo Radio](https://gensokyoradio.net/playing/) <Badge type="info" text="256kbps" link="https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u" /><Badge type="info" text="Touhou" />
 - [Phate](https://phate.io/) <Badge type="info" text="192kbps" link="https://phate.io/phate.m3u" /><Badge type="info" text="Utaite" />
 
+== Games
+
+### DDL
+- [Sitting on Clouds](https://www.sittingonclouds.net/)
+- [SquidBoard](https://www.squid-board.org/)
+- [HCS VGM Archive](https://vgm.hcs64.com/)
+- [VGM Preservation Foundation](https://www.vgmpf.com/Wiki/index.php)
+- [VGMusic](https://vgmusic.com/)
+
+### Stream
+- [Squidify](https://www.squidify.org)
+- [Zophar's Domain](https://www.zophar.net/music) <Badge type="info" text="DDL" />
+- [Vidya Intarweb Playlist](https://www.vipvgm.net/)
+- [VGMRips](https://vgmrips.net/packs/) <Badge type="info" text="DDL" />
+- [SMS Power](https://vgm.impulseinformatica.com.br/)
+
+### Radio
+- [SquidRadio](https://www.squid-radio.net/)
+- [Rainwave VGM Radio](https://rainwave.cc/all/)
+- [muki](https://muki.io/)
+
 
 == Others
 
@@ -420,6 +441,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 ### More
 - [Cover Search Engine](https://covers.musichoarders.xyz/)
+- [Game Tabs](https://www.gametabs.net/)
 - [Songle](https://songle.jp/)
 - [Vocaloid Big Hits](https://music.youtube.com/playlist?list=RDCLAK5uy_mgu07-HoqLSU-WqjK2ldEQWLuPPm3CAy8)
 

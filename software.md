@@ -241,6 +241,10 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
   - Multiple transfer options and local reader support
   - Support for cbz, cbr, zip, tar, arj, pdf, and rar formats as well as image formats
   - Ability to backup comics
+- [**SideBooks**](https://apps.apple.com/us/app/sidebooks/id409777225)
+  - Supports PDF,ZIP,CBZ,RAR and CBR
+  - Has most the basic features (but no long strip support)
+  - Old looking UI but functional and customizable.
 - [**Tachimanga**](https://tachimanga.github.io/)
   - Based on tachiyomi (tachidesk server and sorayomi) (but not developed by tachiyomi team)
   - Supports tachiyomi extensions
@@ -251,11 +255,6 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
   - Available on Testflight (no Sideloading required)
   - OK-ish UI with some lags
   - only MangaDex as a source. So, therefore no official releases
-- [**SideBooks**](https://apps.apple.com/us/app/sidebooks/id409777225) <Badge type="info" text="Cloud" />
-  - Supports PDF,ZIP,CBZ,RAR and CBR
-  - Has all the necessary features
-  - Old looking UI but very functional and customizable.
-  - Good amount of features paywalled
 
 :::
 
