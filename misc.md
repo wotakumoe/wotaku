@@ -460,6 +460,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Idol Showdown](https://store.steampowered.com/app/1742020/Idol_Showdown/)
 - [Hololive Councilrys RPG](https://kebbie.itch.io/councilrysrpg)
 - [smol Ame](https://moocow-games.itch.io/smol-ame)
+- [Delivering Hope](https://david-wu-softdev.itch.io/delivering-hope-hololive-fangame)
 - [Mumei's Memory Juggling](https://david-wu-softdev.itch.io/mumeis-memory-juggling)
 - [Pebble Jame](https://gioba-games.itch.io/pebble-jame)
 - [Holo on Watermelon](https://unityroom.com/games/holo_watermelon)

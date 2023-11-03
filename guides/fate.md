@@ -1,6 +1,7 @@
 ---
 title: Fate Watch Order
 Description: Good Luck!
+outline: 1
 ---
 
 ![](/public/banner/anime.png)

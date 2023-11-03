@@ -132,9 +132,22 @@ Everyone has to let off some steam once in a while, we don't judge.
 == Websites
 
 - [ASMR.moe](https://asmr.one/)
-- [/h/ Hentai](https://boards.4chan.org/h/)
 - [HMV Mania](https://hmvmania.com/)
-- [Kemono](https://kemono.party/)
+- [Kemono](https://kemono.su/)
+
+== Community
+
+- [r/hentai](https://www.reddit.com/r/hentai/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.com/invite/rhentai" />
+- [r/pornhwa](https://www.reddit.com/r/pornhwa/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.com/invite/epjkRVp7gD" />
+- [/h/ Hentai](https://boards.4chan.org/h/)
+- [r/Artistic_Hentai](https://www.reddit.com/r/Artistic_Hentai/)
+- [r/Artistic_Ecchi](https://www.reddit.com/r/Artistic_Ecchi/)
+- [r/doujinshi](https://www.reddit.com/r/doujinshi/)
+- [r/ecchi](https://www.reddit.com/r/ecchi/)
+- [r/hentaimemes](https://www.reddit.com/r/hentaimemes/)
+- [r/HENTAI_GIF](https://www.reddit.com/r/HENTAI_GIF/)
+- [r/rule34](https://www.reddit.com/r/rule34/)
+- [r/thighdeology](https://www.reddit.com/r/thighdeology/)
 
 == Scripts
 
