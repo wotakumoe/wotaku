@@ -243,7 +243,7 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
   - Ability to backup comics
 - [**SideBooks**](https://apps.apple.com/us/app/sidebooks/id409777225)
   - Supports PDF,ZIP,CBZ,RAR and CBR
-  - Has most the basic features (but no long strip support)
+  - Has most the basic features
   - Old looking UI but functional and customizable.
 - [**Tachimanga**](https://tachimanga.github.io/)
   - Based on tachiyomi (tachidesk server and sorayomi) (but not developed by tachiyomi team)
@@ -300,13 +300,16 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
 
 == Manga
 
+- [**Free Manga Downloader 2**](https://github.com/dazedcat19/FMD2)
+  - Supports  almost every major site
+  - You can add your own account
+  - Higly configuarable with downloading automation
+  - Has converter and a lot of great tools
 - [**Hakuneko**](https://github.com/manga-download/hakuneko)
   - Currently the best downloader
   - Huge number of sites supported
   - Customizable UI
   - Can dowload anime too
-- [**Free Manga Downloader 2**](https://github.com/dazedcat19/FMD2)
-  - Supports  almost every major site
 - [**MangaL**](https://github.com/metafates/mangal)
   - TUI based
   - Very Fast
