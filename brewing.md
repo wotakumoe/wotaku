@@ -17,6 +17,7 @@ Cool prospective projects under works worth looking into, or maybe contributing 
 
 ### Anime
 - [CoreProject](https://coreproject.moe/anime) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/baseplate-admin/CoreProject" />
+- [Hikari](https://hikari-anime.com/) 
 
 ### Miscellaneous
 - [Tankobon](https://tankobon.net/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/crxssed7/tankobon" />

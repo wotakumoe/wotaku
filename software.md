@@ -21,11 +21,11 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
   - Tracking & backup support
   - Local player support
   - Extensions often break
-- [**Aniyomi**](https://github.com/aniyomiorg/aniyomi) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://aniyomi.org/" /><Badge type="info" text="MPV" link="https://github.com/jmir1/aniyomi-mpv-beta" /><Badge type="info" text="Manga" />
+- [**Aniyomi**](https://github.com/aniyomiorg/aniyomi) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://aniyomi.org/" /><Badge type="info" text="Preview" link="https://github.com/aniyomiorg/aniyomi-preview/releases/latest" />
   - Unofficial Tachiyomi fork for anime
+  - ⚠️ Use preview version for better experience (& the stable version is quite outdated)
   - Clean and minimal design
-  - Offers other types of media too
-  - Has manga reader too
+  - Offers other types of media too including manga
   - Tracking support with enhanced type
   - Good amount of extensions are broken
 - [**Dantotsu**](https://github.com/rebelonion/Dantotsu#dantotsu){target="_blank"}

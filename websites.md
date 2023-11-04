@@ -577,7 +577,6 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Master Duel Meta](https://www.masterduelmeta.com/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/invite/masterduelmeta" />
 - [Duel Links Meta](https://www.duellinksmeta.com/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/invite/duellinksmeta" />
 - [YGOPro Deck](https://ygoprodeck.com/) <Badge type="info" icon="i-iconoir-community" text="Forum" link="https://ygoprodeck.com/forum/" /> <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.com/invite/nx24PSBGFE" />
-- [Fandom Wiki](https://yugioh.fandom.com/wiki/Yu-Gi-Oh!_Wiki)
 
 ### Official Simulators
 - [Master Duel](https://www.konami.com/yugioh/masterduel/us/en/)
