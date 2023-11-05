@@ -15,12 +15,6 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
 
 == Anime
 
-- [**Cloudstream**](https://github.com/recloudstream/cloudstream) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://cloudstream.on.fleek.co/" />
-  - Minimalist Customizable UI
-  - Offers other types of media too
-  - Tracking & backup support
-  - Local player support
-  - Extensions often break
 - [**Aniyomi**](https://github.com/aniyomiorg/aniyomi) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://aniyomi.org/" /><Badge type="info" text="Preview" link="https://github.com/aniyomiorg/aniyomi-preview/releases/latest" />
   - Unofficial Tachiyomi fork for anime
   - ⚠️ Use preview version for better experience (& the stable version is quite outdated)
@@ -28,6 +22,12 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
   - Offers other types of media too including manga
   - Tracking support with enhanced type
   - Good amount of extensions are broken
+- [**Cloudstream**](https://github.com/recloudstream/cloudstream) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://cloudstream.on.fleek.co/" />
+  - Minimalist Customizable UI
+  - Offers other types of media too
+  - Tracking & backup support
+  - Local player support
+  - Extensions often break
 - [**Dantotsu**](https://github.com/rebelonion/Dantotsu#dantotsu){target="_blank"}
   - App is based on saikou, uses tachiyomi & aniyomi plugins
   - ⚠️ App is alpha. So there are optimzation & stability issues
