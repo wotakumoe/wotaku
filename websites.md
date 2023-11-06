@@ -339,7 +339,8 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Yggdrasil Radio](https://yggdrasilradio.com/) <Badge type="info" text="128kbps" link="https://yggdrasilradio.net/yggdrasilradio_mp3_128kbps.pls" />
 - [Anime(bits)](https://radio.animebits.moe/) <Badge type="info" text="FLAC" link="https://radio.animebits.moe/m3u/stream192.mp3.m3u" />
 - [Listen.moe](https://listen.moe/) <Badge type="info" text="128kbps" link="https://listen.moe/m3u8/jpop.m3u" />
-
+- [Sasalele Music Station](https://github.com/Mikeexe2/Sasalele-Music-Station) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/Mikeexe2/Sasalele-Music-Station" /> <Badge type="info" text="Compilation" />
+- [JPopSuki](http://jpopsuki.fm/) <Badge type="info" text="192kbps" link="http://jpopsuki.fm:2199/tunein/jpopsuki-stream.pls" />
 
 == Download
 

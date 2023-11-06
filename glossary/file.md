@@ -62,7 +62,7 @@ The publisher can be mainly two types.
 - **Volume**: Sells the whole volume with better quality. Example: VIZ, Kodansha, Square Enix etc.
 
 ### Source
-Nowadays the primary source is digital, since it's is easier to rip, higher quality and more common. But there can be scanned versions too.
+Nowadays the primary source is digital, since it's is easier to rip and usually higher quality. In the case of scans, the most used tag is c2c - cover to cover.
 
 ### Uploader
 The ripper of the manga. Sometimes, it can be more than one person too. Also, if the manga is scanlated, the scanlation group is credited here.

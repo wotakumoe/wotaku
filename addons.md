@@ -66,7 +66,9 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
   - Anime Boxes <Badge type="info" icon="i-octicon-globe" text="Web" link="https://www.animebox.es/" />
   - [Boorusphere](https://github.com/nullxception/boorusphere)
   - Pixiv <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=jp.pxv.android" />
+- [APKUpdater](https://github.com/rumboalla/apkupdater)
 - [KizzyRPC](https://github.com/dead8309/KizzyRPC)
+
   :::
 
 
