@@ -40,7 +40,6 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
 - [Kaizoyu!](https://github.com/astarivi/Kaizoyu) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://kaizoyu.ovh" /><Badge type="info" text="XDCC" />
 - [Animiru](https://github.com/Quickdesh/Animiru) <Badge type="info" text="Anime only" /><Badge type="info" text="RPC" />
 - [Animity](https://github.com/kl3jvi/animity)
-- [Enimax](https://github.com/enimax-anime/enimax)
 - [Miru](https://miru.js.org/)
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
 
