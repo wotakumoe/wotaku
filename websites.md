@@ -244,8 +244,6 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 == Direct Download
 
 - [Madokami](https://manga.madokami.al) <Badge type="info" text="Guide" link="/guides/mado.md" />
-- [mp4directs](https://mp4directs.com/)
-- [jnovels](https://jnovels.com/manga-cbz-cbr-pdfs-download101/)
 - [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) <Badge type="danger" text="R+" />
 - [Anna's Archive](https://annas-archive.org/)
 - [Desuarchive](https://desuarchive.org/) <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
@@ -484,7 +482,6 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Ganba's DDL sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSvd0SjjPYZKzhUwTYK2n2peZD_n6_wDmEKV3I37nuM-FnOtAU5xZkec35GabjrZ6olJTbr_CMXS6AH/pubhtml)
 - [Just Light Novels](https://www.justlightnovels.com/)
 - [That Novel Corner](https://thatnovelcorner.com/)
-- [MP4 Directs](https://mp4directs.com/)
 - [All EPUBs](https://boroboro.neocities.org/listfullepub) 🇯🇵
 
 == Nyaa
