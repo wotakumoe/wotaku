@@ -274,6 +274,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [The Philosophy of Vtubers](https://www.youtube.com/watch?v=Z8r6jFyISBg)
 - [Smoother animation ≠ Better animation [AI ENHANCED]](https://www.youtube.com/watch?v=_KRb_qV9P4g)
     - [reviewing your takes on animation](https://www.youtube.com/watch?v=OhcLATiI9Is)
+- [Anime Figures 101](https://youtube.com/playlist?list=PL67Usptllz-RMadnMX0oCWXqdiD2pAHnS)
 
 :::
 
