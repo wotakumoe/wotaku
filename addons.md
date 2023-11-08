@@ -68,6 +68,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
   - Pixiv <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=jp.pxv.android" />
 - [APKUpdater](https://github.com/rumboalla/apkupdater)
 - [KizzyRPC](https://github.com/dead8309/KizzyRPC)
+- [Pano Scrobbler for LastFM](https://play.google.com/store/apps/details?id=com.arn.scrobble)
 
   :::
 

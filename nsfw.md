@@ -52,7 +52,6 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [Pururin](https://pururin.to/)
 - [Tsumino](https://www.tsumino.com/)
 - [nyanpantsu](https://nyanpantsu.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/purpleblueslime/nyanpantsu" />
-- [Wholesome Hentai God List](https://wholesomelist.com/)
 
 == Manhwa
 - [Hiperdex](https://hiperdex.com/)
@@ -134,6 +133,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [ASMR.moe](https://asmr.one/)
 - [HMV Mania](https://hmvmania.com/)
 - [Kemono](https://kemono.su/)
+- [Wholesome Hentai God List](https://wholesomelist.com/)
 
 == Community
 

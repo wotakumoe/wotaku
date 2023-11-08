@@ -50,6 +50,10 @@ const contribs = [
     site: "https://github.com/farahnur42",
   },
   {
+    avatar: "/pfp/green.webp",
+    name: "Green",
+  },
+  {
     avatar: "https://github.com/Helmasko.png",
     name: "Helmasko",
     site: "https://github.com/Helmasko",
