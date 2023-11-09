@@ -9,6 +9,7 @@ import { createMediumZoomProvider } from "./composables";
 import ReloadPrompt from "./components/ReloadPrompt.vue";
 // @ts-expect-error
 import Button from "./components/Button.vue";
+import Tooltip from "./components/Tooltip.vue";
 import Authors from "./components/Authors.vue";
 
 export default {
@@ -23,6 +24,7 @@ export default {
     enhanceAppWithTabs(app);
     app.component("Button", Button);
     app.component("Authors", Authors);
+    app.component("Tooltip", Tooltip);
     createMediumZoomProvider(app, router);
   },
 };

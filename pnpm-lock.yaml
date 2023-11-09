@@ -73,6 +73,9 @@ devDependencies:
   '@iconify-json/logos':
     specifier: ^1.1.37
     version: 1.1.37
+  '@iconify-json/mdi':
+    specifier: ^1.1.55
+    version: 1.1.55
   '@iconify-json/octicon':
     specifier: ^1.1.49
     version: 1.1.49
@@ -1686,6 +1689,12 @@ packages:
 
   /@iconify-json/logos@1.1.37:
     resolution: {integrity: sha512-H2S8frTEznk6paX2kMzeUGn4KSiykghvO0b8UvEDd1fFFzt0WxCXpP1tBv67XaWK99e6JgA34hhv4lRGAm1hJg==}
+    dependencies:
+      '@iconify/types': 2.0.0
+    dev: true
+
+  /@iconify-json/mdi@1.1.55:
+    resolution: {integrity: sha512-ycnFub+EQx+3D/aDCg6iC7sjexOUa5GzxUNIZFFl0Pq7aDxbmhIludoyYnguEO3REyWf9FcOOmvVcQkdtwKHTw==}
     dependencies:
       '@iconify/types': 2.0.0
     dev: true
@@ -4719,6 +4728,7 @@ packages:
       - postcss
       - rollup
       - supports-color
+    dev: false
 
   /unpipe@1.0.0:
     resolution: {integrity: sha512-pjy2bYhSsufwWlKwPc+l3cN7+wuJlK6uz0YdJEOlQDbl6jo/YlPi4mb8agUkVC8BF7V8NuzeyPNqRksA3hztKQ==}
