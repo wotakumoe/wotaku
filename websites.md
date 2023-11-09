@@ -38,7 +38,7 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
   - Less amount of compression compared to other sites that use 3rd party hosts
   - Has both hardsub and softsub (multilingual)
   - Original site's UI is bloated. Use [Anix](https://anix.to/home) for more minimal experience.
-- [**KickAssAnime**](https://kickassanime.am/) <Badge type="info" text="Proxies" link="https://kickassanimes.info/" />
+- [**KickAssAnime**](https://kickassanime.am/) <Badge type="info" text="Proxies" link="https://kickassanimes.info/" /> 🦆
   - Scrapes **Crunchyroll**(duckstream) and **Bilibili**(birdstream)
   - KAA encodes(videstreaming) are quite good(the new encodes) and loads better.
   - Duck has the highest overall bitrate but may have buffer issue.
@@ -55,7 +55,7 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 
 == Torrent
 
-- [Nyaa](https://nyaa.si/) <Badge type="info" text="Proxy 1" link="https://nyaa.iss.one/" /><Badge type="info" text="Proxy 2" link="https://nyaa.iss.ink/" />
+- [Nyaa](https://nyaa.si/) <Badge type="info" text="Proxy 1" link="https://nyaa.iss.one/" /><Badge type="info" text="Proxy 2" link="https://nyaa.iss.ink/" /> 🦆
 - [Anime Tosho](https://animetosho.org/) <Badge type="info" text="DDL" />
 - [Anidex](https://anidex.info/)
 - [Animetime](https://animetime.cc/)
@@ -72,7 +72,7 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 3. Recommended torrent client for Android is <Badge type="tip" icon="i-custom-lt" text="libretorrent" link="https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent" />. For Windows, Linux & macOS, use <Badge type="tip" icon="i-custom-qb" text="qBittorrent" link="https://www.qbittorrent.org/" /> or <Badge type="tip" icon="i-custom-trans" text="Transmission" link="https://transmissionbt.com/" />
 4. For VPN, use <Badge type="tip" icon="i-custom-mv" text="Mullvad" link="https://mullvad.net/" /> or <Badge type="tip" icon="i-custom-ivpn" text="IVPN" link="https://www.ivpn.net/" />. If you want free alternative, use <Badge type="tip" icon="i-custom-wind" text="Windscribe" link="https://windscribe.com/" />.
 5. Use [Seadex](https://releases.moe/) or [Sneedex](https://sneedex.moe/) to find the best uploads available.
-6. Use [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa&hl=en&gl=US) as a Nyaa client on android.
+6. Use [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa&hl=en&gl=US) as a Nyaa client on android. 🦆
 
 == Direct Download
 
@@ -185,7 +185,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
   - Uploads from various scanlation groups
   - No official translations<sup>[*](https://mangadex.org/rules#content_restrictions)</sup> since it was created for fansub
   - May remove content if there is a DMCA request by the publisher or doesn't allow upload at all (e.g. One Punch-Man)
-- [**Comick**](https://comick.app/home) <Badge type="tip" text="Alt" link="https://comick.ink/" /><Badge type="danger" text="R+" />
+- [**Comick**](https://comick.app/home) <Badge type="tip" text="Alt" link="https://comick.ink/" /><Badge type="danger" text="R+" /> 🦆
   - Minimal compression
   - Aggregates from various scanlation groups
   - Has official translations
@@ -321,7 +321,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 == Stream
 
 ### OP/ED
-- [Anithemes.moe](https://animethemes.moe/) [Github](https://github.com/AnimeThemes)
+- [Anithemes.moe](https://animethemes.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/AnimeThemes" />
 - [Themes.moe](https://themes.moe/)
 - [Karaoke Mugen](https://kara.moe)
 - [Squidify](https://www.squidify.org/)

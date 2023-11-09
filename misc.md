@@ -44,7 +44,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == Index
 
 - [Seadex](https://releases.moe/)
-- [Sneedex](https://sneedex.moe/) <Badge type="info" icon="i-logos-discord-icon" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" />
+- [Sneedex](https://sneedex.moe/) <Badge type="info" icon="i-logos-discord-icon" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" /> 🦆
 - [A Certain Fansubber's Index](https://index.fansubcar.tel/)
 - [Fansub Database](https://fansubdb.com/)
 - [German Fansubbers' Index](https://anime-fansubs.de/)
@@ -58,7 +58,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [AniChart](https://anichart.net/)
 - [AnimeSchedule](https://animeschedule.net/)
 - [Anime Countdown](https://animecountdown.com/)
-- [Eronews](https://en.eroeronews.com/) <Badge type="danger" text="R+" />
+- [Eronews](https://en.eroeronews.com/) <Badge type="danger" text="R+" /> 🦆
 - [Livechart](https://www.livechart.me/)
 - [Monthly.moe](https://www.monthly.moe/)
 - [Notify.moe](https://notify.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/animenotifier/notify.moe" />
@@ -69,7 +69,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == Stats/Watch guide
 
 - [Anime Karma List](https://animekarmalist.com/)
-- [Anime Stats](https://anime-stats.net/)
+- [Anime Stats](https://anime-stats.net/) 🦆
 - [Kitsu Season Trends](https://season.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/wopian/kitsu-season-trends" />
 - [Anime Filler Guide](https://www.animefillerguide.com/)
 - [Anime Filler List](https://www.animefillerlist.com/)
@@ -115,13 +115,13 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 ## Illustrations
 - [Anime Pictures](https://anime-pictures.net/) <Badge type="warning" text="R" />
-- [Booruwf](https://booru.pixiv.pics/) <Badge type="tip" text="Moeview" link="https://moeview.pixiv.pics/" /> <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/asadahimeka/booruwf-web" /><Badge type="danger" text="R+" />
+- [Booruwf](https://booru.pixiv.pics/) <Badge type="tip" text="Moeview" link="https://moeview.pixiv.pics/" /> <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/asadahimeka/booruwf-web" /><Badge type="danger" text="R+" /> 🦆
 - [Danbooru](https://danbooru.donmai.us/) <Badge type="danger" text="R+" /> <Badge type="green" link="https://safebooru.donmai.us/" text="SFW Ver"/>
 - [Gelbooru](https://gelbooru.com/) <Badge type="danger" text="R+" />
 - [Studio Ghibli](https://www.ghibli.jp/info/013772/) <Badge type="green" text="E" />
 - [Kona chan](https://konachan.com/) <Badge type="danger" text="R+" />
 - [Pixiv](https://www.pixiv.net) <Badge type="danger" text="R+" />
-- [Pixiv Viewer](https://pixiv.pics/) <Badge type="danger" text="R+" />
+- [Pixiv Viewer](https://pixiv.pics/) <Badge type="danger" text="R+" /> 🦆
 - [Safebooru](https://safebooru.org/) <Badge type="green" text="E" />
 - [Yandere](https://yande.re/post) <Badge type="danger" text="R+" />
 - [Zerochan](https://www.zerochan.net/) <Badge type="warning" text="R" />
@@ -134,7 +134,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 == Culture & History
 
-- [Web Japan](https://web-japan.org/) <Badge type="info" text="Old" link="https://web-japan.org/atlas/index.html" />
+- [Web Japan](https://web-japan.org/) <Badge type="info" text="Old" link="https://web-japan.org/atlas/index.html" /> 🦆
 - [Do You Know Japan?](https://doyouknowjapan.com/)
 - [Japanese Wiki](https://www.japanesewiki.com/)
 - [Japan Reference](https://jref.com/)
@@ -178,11 +178,11 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Boutique Japan](https://boutiquejapan.com/)
 - [Japan Specialist](https://japanspecialist.com/)
 - [JRailPass](https://www.jrailpass.com/blog/)
-- [Mini Tokyo 3D](https://minitokyo3d.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/nagix/mini-tokyo-3d" />
+- [Mini Tokyo 3D](https://minitokyo3d.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/nagix/mini-tokyo-3d" /> 🦆
 
 ### Japanese
 - [Omatsuri Japan](https://omatsurijapan.com/)
-- [Travel Research](https://www.homemate-research-tour.com/)
+- [Travel Research](https://www.homemate-research-tour.com/) 🦆
 - [Japan 47 go](https://www.japan47go.travel/ja)
 - [Collab Cafe](https://collabo-cafe.com/)
 - [Ghibli Museum](https://www.ghibli-museum.jp/en/)
@@ -227,7 +227,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 - [Abroad in Japan](https://www.youtube.com/@AbroadinJapan)
     - Journey Across Japan [S1](https://www.youtube.com/playlist?list=PLSOR9_iNzVfl4ghftQDpTA4CXUvCKRlsL) | [S2](https://www.youtube.com/playlist?list=PLSOR9_iNzVflVY0eQlZY4V0gArxUiOMLR) | [S3](https://www.youtube.com/playlist?list=PLSOR9_iNzVflGF8OZwBqYH4mxDXvlkpSX) | [S4](https://www.youtube.com/playlist?list=PLdd050JRcXCJlhiSBMjIwvB7wQ8PR-JzV) | [S5](https://www.youtube.com/playlist?list=PLSOR9_iNzVflb2CWbcuXX8JQoVTcXCh2X)
-    - [WACKY WEEKEND](https://www.youtube.com/playlist?list=PL3BrCRgvsZ9DbueHiNITARMRqi0YfCgbT)
+    - [WACKY WEEKEND](https://www.youtube.com/playlist?list=PL3BrCRgvsZ9DbueHiNITARMRqi0YfCgbT) 🦆
     - [Documentaries](https://www.youtube.com/playlist?list=PLSOR9_iNzVfnEAmyp9QbIQk3xkeLVTUTq)
 - [The Japan Reporter](https://www.youtube.com/@TheJapanReporter)
 - [Lets ask Shogo](https://www.youtube.com/@LetsaskShogo)
@@ -235,7 +235,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Tokyo Lens](https://www.youtube.com/@TokyoLens)
 - [Robcdee](https://www.youtube.com/@Robcdee)
 - [Sora the Troll](https://www.youtube.com/@sorathetroll)
-- [Japanalysis](https://www.youtube.com/@Japanalysis)
+- [Japanalysis](https://www.youtube.com/@Japanalysis) 🦆
 - [Rion Ishida](https://www.youtube.com/@RionIshida)
 
 :::details No Voice-over
@@ -252,7 +252,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 ### Japan
 - [Japan's History and Geography](https://www.youtube.com/playlist?list=PLZZ0o0vuqmrOKvwEDnlb_ogILpBlo3RoW)
 - [Understanding the Japanese Writing System](https://www.youtube.com/watch?v=r7a8OjvViwE)
-- [the peculiar case of japanese web design](https://sabrinas.space/) <Badge type="info" text="Video" link="https://www.youtube.com/watch?v=z6ep308goxQ" />
+- [the peculiar case of japanese web design](https://sabrinas.space/) <Badge type="info" text="Video" link="https://www.youtube.com/watch?v=z6ep308goxQ" /> 🦆
     - [How culture made Japanese Internet design "Weird"](https://www.youtube.com/watch?v=Opy-SjDU0UY)
 - [Diggin' In The Carts: Japanese Video Game Music Documentary](https://www.youtube.com/playlist?list=PLdd050JRcXCIefOzuG_gw-KNUlq_beHar)
 - [Pachinko: Japan's Biggest Gaming Obsession Explained](https://www.youtube.com/watch?v=-tBy2jemw4s)
@@ -328,7 +328,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 ### Manga
 - [Josu Ke](https://twitter.com/Josu_ke)
 - [Manga Alerts](https://twitter.com/MangaAlerts)
-- [Manga Mogura RE](https://twitter.com/MangaMoguraRE)
+- [Manga Mogura RE](https://twitter.com/MangaMoguraRE) 🦆
 - [Manga Splaining](https://www.mangasplaining.com/)
 - [Shonen Jump News](https://twitter.com/WSJ_manga)
 - [TheOASG](https://twitter.com/TheOASG)
@@ -373,14 +373,14 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Anistats](https://mayudev.github.io/anistats/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/mayudev/anistats" /><Badge type="info" text="AL" />
 - [MAL Badges](https://www.mal-badges.com/) <Badge type="info" text="MAL" />
 - [Randime](https://randime.moe/)
-- [Sekai](https://sekai.rl404.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/rl404/sekai" /><Badge type="info" text="MAL" />
+- [Sekai](https://sekai.rl404.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/rl404/sekai" /><Badge type="info" text="MAL" /> 🦆
 - [Spin.moe](https://spin.moe/)
-- [Sprout Anime Recommender](https://anime.ameo.dev/) <Badge type="info" text="MAL" /><Badge type="info" text="AL" />
+- [Sprout Anime Recommender](https://anime.ameo.dev/) <Badge type="info" text="MAL" /><Badge type="info" text="AL" /> 🦆
 
 == Image search
 - [Multi-service image search](https://iqdb.org/)
 - [SauceKudasai](https://saucekudasai.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/ayushgptaa/SauceKudasai" />
-- [SauceNAO](https://saucenao.com/)
+- [SauceNAO](https://saucenao.com/) 🦆
 - [Trace](https://trace.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/soruly/trace.moe" />
 
 == Others
@@ -401,9 +401,9 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 :::tabs
 == General
 
-- [Holodex](https://holodex.net/) <Badge type="info" text="Music" link="https://music.holodex.net/" /><Badge type="info" text="Frontend" />
-- [Good VTuber Subs](https://goodvtubersubs.com/) <Badge type="info" text="DB" />
-- [VChama](https://vchama.xyz) <Badge type="info" text="Stats" /><Badge type="info" text="Schedule" />
+- [Holodex](https://holodex.net/) <Badge type="info" text="Music" link="https://music.holodex.net/" /><Badge type="info" text="Frontend" /> 🦆
+- [Good VTuber Subs](https://goodvtubersubs.com/) <Badge type="info" text="DB" /> 🦆
+- [VChama](https://vchama.xyz) <Badge type="info" text="Stats" /><Badge type="info" text="Schedule" /> 🦆
 - [VTuber Highlights](https://vtuber.atodeyo.com/)
 - [Virtual YouTuber Wiki ](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki) <Badge type="info" text="DB" />
 - [VSTATS](https://www.vstats.jp/) <Badge type="info" text="Stats" />
@@ -553,7 +553,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 ### Direct Download
 - [Anna’s Archive](https://annas-archive.org/)
 - [Desuarchive](https://desuarchive.org/) <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
-- [Get Comics](https://getcomics.info/)
+- [Get Comics](https://getcomics.info/) 🦆
 - [Comics All](https://comics-all.com/) | [New comic](https://newcomic.info/)
 - [Libgen](https://libgen.is/)
 

@@ -23,7 +23,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 
 ### Ad blocking
 - [Adaway](https://adaway.org/) <Badge type="info" text="Android" />
-- [Adguard](https://adguard.com/en/welcome.html) <Badge type="info" text="Android" />
+- [Adguard](https://adguard.com/en/welcome.html) <Badge type="info" text="Android" /> 🦆
 - [Adguard DNS](https://adguard-dns.io/en/welcome.html) <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
 - [AhaDNS](https://blitz-setup.ahadns.com/) <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
 - [NextDNS](https://nextdns.io/) <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
@@ -41,11 +41,11 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 == Media
 
 - [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player)
-- [Innertune](https://github.com/z-huang/InnerTune) <Badge type="info" text="Youtube Music" />
+- [Innertune](https://github.com/z-huang/InnerTune) <Badge type="info" text="Youtube Music" /> 🦆
 - [mpv-android](https://github.com/mpv-android/mpv-android) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=is.xyz.mpv&hl=en&gl=US" />
 - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en&gl=US) <Badge type="tip" text="Mobilism" link="https://forum.mobilism.me/search.php?keywords=mx+player&sr=topics&sf=titleonly" />
 - [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) <Badge type="info" text="iOS" />
-- [Poweramp](https://powerampapp.com/) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer&hl=en&gl=US" />
+- [Poweramp](https://powerampapp.com/) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer&hl=en&gl=US" /> 🦆
 - [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) <Badge type="info" text="iOS" /><Badge type="info" text="Spotify" />
 - [Spotify++](https://appdb.to/app/cydia/1900000540) <Badge type="info" text="iOS" />
 - [xManager](https://www.xmanagerapp.com/) <Badge type="info" text="Android" /><Badge type="info" text="Spotify" />
@@ -181,7 +181,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 - [Ryuuzaki Ryuusei](https://github.com/nattadasu/ryuuRyuusei)
 - [Yuuko](https://github.com/YuuCorp/Yuuko)
 - [MangaUpdates Bot](https://github.com/jckli/mangaupdates-bot)
-- [Manhwa Updates Bot](https://github.com/MooshiMochi/ManhwaUpdatesBot)
+- [Manhwa Updates Bot](https://github.com/MooshiMochi/ManhwaUpdatesBot) 🦆
 - [Rinbot](https://rinbot.moe/)
 - [Michelle](https://github.com/JacenBoy/michelle) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://michelle.jacenboy.com/" />
 - Sneedex <Badge type="info" icon="i-logos-discord-icon" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" />
@@ -227,13 +227,13 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 - [Anime Skip Player](https://github.com/anime-skip/player) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://anime-skip.com/" /><Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chrome.google.com/webstore/detail/anime-skip/mgmdkjcljneegjfajchedjpdhbadklcf" /><Badge type="tip" icon="i-logos-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/anime-skip" />
 - [Aniskip](https://github.com/lexesjan/typescript-aniskip-extension) <Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chrome.google.com/webstore/detail/aniskip/npfcdmjgaocepmpdnmliimijgfjbgcdd" /><Badge type="tip" icon="i-logos-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/aniskip/" />
 - [Crunchyroll With Better Seasons](https://github.com/Dragicafit/Crunchyroll-With-Better-Seasons)
-- [MALSync](https://github.com/MALSync/MALSync) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://malsync.moe/" /><Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel" /><Badge type="tip" icon="i-logos-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/mal-sync/" />
+- [MALSync](https://github.com/MALSync/MALSync) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://malsync.moe/" /><Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel" /><Badge type="tip" icon="i-logos-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/mal-sync/" /> 🦆
 - Substital <Badge type="info" icon="i-octicon-globe" text="Web" link="https://substital.com/" /><Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg" /><Badge type="tip" icon="i-logos-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/substital/" />
 
 == Manga
 
 - [All Manga Reader](https://gitlab.com/all-mangas-reader/all-mangas-reader-2) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://www.allmangasreader.com/" />
-- [MALSync](https://github.com/MALSync/MALSync) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://malsync.moe/" /><Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel" /><Badge type="tip" icon="i-logos-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/mal-sync/" />
+- [MALSync](https://github.com/MALSync/MALSync) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://malsync.moe/" /><Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel" /><Badge type="tip" icon="i-logos-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/mal-sync/" /> 🦆
 - [Similar Manga](https://github.com/similar-manga/similar) <Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg" />
 
 == Others
