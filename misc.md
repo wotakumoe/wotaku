@@ -110,6 +110,66 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 :::
 
+### Music
+
+:::tabs
+
+==  Wiki / Index
+
+### Anime
+- [Aniplaylist](https://aniplaylist.com/)
+
+### Doujin
+- [VocaDB](https://vocadb.net/)
+- [TouhouDB](https://touhoudb.com/)
+- [UtaiteDB](https://utaitedb.net/)
+- [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)
+- [THB Wiki](https://thwiki.cc/)
+- [Touhou Spotify Music](https://www.thspotify.moe/) <Badge type="tip" text="Docs" link="https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit#gid=0" />
+- [Utaite Key](https://utaite-key.info/)
+
+### General
+- [VGMdb](https://vgmdb.net/)
+- [Discogs](https://www.discogs.com/)
+- [MusicBrainz](https://musicbrainz.org/)
+
+== Portal
+
+### General
+- [Uta-Net](https://www.uta-net.com/)
+- [UtaTen](https://utaten.com/)
+- [Make Believe Mailer](https://mbmelodies.substack.com/) 🦆
+- [The Needle Drop](https://www.theneedledrop.com/)
+
+### Doujin / Vocaloid
+- [Vocasphere](https://vocasphere.net/)
+- [Merami fan](https://meramifan.wordpress.com/) 🦆
+- [Touhou Memories](https://touhou-memories.com/)
+- [Hatsune Miku](https://twitter.com/cfm_miku_en)
+
+### RYM Ultimate Box Set 🦆
+- [Japanese Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-japanese-music/)
+- [Doujin Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-doujin-music/)
+- [Touhou Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-touhou-music/)
+- [Vocaloid](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-vocaloid/)
+- [Utaite Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-utaite-music/)
+
+== Tools
+
+### Discovery
+- [Rate Your Music](https://rateyourmusic.com/)
+- [Every Noise](https://everynoise.com) 🦆
+- [Discover Quickly](https://discoverquickly.com/)
+- [Dubolt](https://dubolt.com/)
+
+### More
+- [Anime Music Quiz](https://animemusicquiz.com/)
+- [Anime Song Lyrics](https://www.animesonglyrics.com/)
+- [Cover Search Engine](https://covers.musichoarders.xyz/) 🦆
+- [Game Tabs](https://www.gametabs.net/)
+- [Songle](https://songle.jp/)
+- [Vocaloid Big Hits](https://music.youtube.com/playlist?list=RDCLAK5uy_mgu07-HoqLSU-WqjK2ldEQWLuPPm3CAy8)
+:::
 
 ![](/banner/illust.png)
 
@@ -146,6 +206,10 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [The Japanese Experience: A Short History of Japan](https://www.amazon.com/Japanese-Experience-Short-History-Civilisation/dp/0520225600)
 - [A Short History of Japan: From Samurai to Sony](https://www.amazon.com/Short-History-Japan-Samurai-Sony/dp/1865085162)
 - [Pure Invention: How Japan Made the Modern World](https://www.amazon.com/gp/product/1984826719)
+
+### Youtube
+- [Japan's History and Geography](https://www.youtube.com/playlist?list=PLZZ0o0vuqmrOKvwEDnlb_ogILpBlo3RoW) 🦆
+- [The Shogunate](https://www.youtube.com/@TheShogunate/)
 
 == Mythology
 
@@ -250,7 +314,6 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == Explainers
 
 ### Japan
-- [Japan's History and Geography](https://www.youtube.com/playlist?list=PLZZ0o0vuqmrOKvwEDnlb_ogILpBlo3RoW)
 - [Understanding the Japanese Writing System](https://www.youtube.com/watch?v=r7a8OjvViwE)
 - [the peculiar case of japanese web design](https://sabrinas.space/) <Badge type="info" text="Video" link="https://www.youtube.com/watch?v=z6ep308goxQ" /> 🦆
     - [How culture made Japanese Internet design "Weird"](https://www.youtube.com/watch?v=Opy-SjDU0UY)
