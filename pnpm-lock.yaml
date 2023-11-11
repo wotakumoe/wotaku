@@ -11,16 +11,7 @@ dependencies:
   '@mdit/plugin-figure':
     specifier: ^0.5.2
     version: 0.5.2(markdown-it@13.0.2)
-  '@mdit/plugin-footnote':
-    specifier: ^0.5.2
-    version: 0.5.2(markdown-it@13.0.2)
   '@mdit/plugin-img-lazyload':
-    specifier: ^0.5.2
-    version: 0.5.2(markdown-it@13.0.2)
-  '@mdit/plugin-img-size':
-    specifier: ^0.5.2
-    version: 0.5.2(markdown-it@13.0.2)
-  '@mdit/plugin-mark':
     specifier: ^0.5.2
     version: 0.5.2(markdown-it@13.0.2)
   '@resvg/resvg-js':
@@ -32,6 +23,9 @@ dependencies:
   fast-glob:
     specifier: ^3.3.1
     version: 3.3.1
+  markdown-it:
+    specifier: ^13.0.2
+    version: 13.0.2
   medium-zoom:
     specifier: ^1.0.8
     version: 1.0.8
@@ -1803,44 +1797,8 @@ packages:
       markdown-it: 13.0.2
     dev: false
 
-  /@mdit/plugin-footnote@0.5.2(markdown-it@13.0.2):
-    resolution: {integrity: sha512-TSDh+IhsMIgieXmfHX0NHHyHIB2ilBxiDnr3d8c6gWdGwmAFgZk2ACgTxy1qkip3lTiHX7CVuLTHkrOwBPToMA==}
-    engines: {node: '>= 18'}
-    peerDependencies:
-      markdown-it: ^13.0.2
-    dependencies:
-      '@types/markdown-it': 13.0.5
-      markdown-it: 13.0.2
-    dev: false
-
   /@mdit/plugin-img-lazyload@0.5.2(markdown-it@13.0.2):
     resolution: {integrity: sha512-oTsB2VT/suB/qK2GHNQWJvrvggJwPbzJWPz4FPLQ1GgD71kWi1iaaY+Eo5fJMdeSePRcLaSJBSsr7j9JbRv9Vw==}
-    engines: {node: '>= 18'}
-    peerDependencies:
-      markdown-it: ^13.0.2
-    peerDependenciesMeta:
-      markdown-it:
-        optional: true
-    dependencies:
-      '@types/markdown-it': 13.0.5
-      markdown-it: 13.0.2
-    dev: false
-
-  /@mdit/plugin-img-size@0.5.2(markdown-it@13.0.2):
-    resolution: {integrity: sha512-uv1NyH2e/sLSFpq7tkUjZbOLjVo56mPSPjnsNNwFDEd4jy+1P9s3jTMfpFpX+zEyAje9TrvkFDw39AiZdO+EDw==}
-    engines: {node: '>= 18'}
-    peerDependencies:
-      markdown-it: ^13.0.2
-    peerDependenciesMeta:
-      markdown-it:
-        optional: true
-    dependencies:
-      '@types/markdown-it': 13.0.5
-      markdown-it: 13.0.2
-    dev: false
-
-  /@mdit/plugin-mark@0.5.2(markdown-it@13.0.2):
-    resolution: {integrity: sha512-9crdRx/auXIoIZ2Ze02WirfiY0/zMVNwbTDEjgqFdF4OL5p2ort1l6rkw0cieiSKNo+GoaV+prrCFbTXeDlLIg==}
     engines: {node: '>= 18'}
     peerDependencies:
       markdown-it: ^13.0.2

@@ -3,9 +3,6 @@ import { fileURLToPath, URL } from "node:url";
 import { figure } from "@mdit/plugin-figure";
 import { imgLazyload } from "@mdit/plugin-img-lazyload";
 import { align } from "@mdit/plugin-align";
-import { footnote } from "@mdit/plugin-footnote";
-import { imgSize } from "@mdit/plugin-img-size";
-import { mark } from "@mdit/plugin-mark";
 import { tabsMarkdownPlugin } from "vitepress-plugin-tabs";
 import UnoCSS from "unocss/vite";
 import { presetUno, presetAttributify, presetIcons } from "unocss";
@@ -56,12 +53,9 @@ export default withPwa(
     },
     markdown: {
       config(md) {
-        md.use(footnote);
         md.use(align);
         md.use(imgLazyload);
-        md.use(mark);
         md.use(figure);
-        md.use(imgSize);
         md.use(tabsMarkdownPlugin);
       },
     },
