@@ -462,7 +462,6 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [F95Zone](https://f95zone.to/) <Badge type="info" text="Needs account" />
 - [GOG](https://gog-games.to/)
 - [Doujin Style](https://doujinstyle.com/) <Badge type="info" text="Doujin" />
-- [Anime-sharing](http://www.anime-sharing.com/forum/)
 - [Kimochi](https://kimochi.info)
 - [Anime Bytes](https://animebytes.tv/) <Badge type="info" text="Private tracker" />
 - [Gazelle Games](https://gazellegames.net/login.php) <Badge type="info" text="Private tracker" />

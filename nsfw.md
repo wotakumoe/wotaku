@@ -132,7 +132,9 @@ Everyone has to let off some steam once in a while, we don't judge.
 
 - [ASMR.moe](https://asmr.one/)
 - [HMV Mania](https://hmvmania.com/)
+- [F95Zone](https://f95zone.to/) <Badge type="info" text="Needs account" />
 - [Kemono](https://kemono.su/)
+- [Anime-sharing](http://www.anime-sharing.com/forum/)
 - [Wholesome Hentai God List](https://wholesomelist.com/)
 
 == Community
