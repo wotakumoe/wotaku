@@ -208,13 +208,6 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
 
 :::tabs
 == Anime
-
-- [**Anime Now**](https://github.com/AnimeNow-Team/AnimeNow)
-  - Great UI with extension support
-  - Downloading episode is supported support
-  - Casting support
-  - Tracking support
-  - Only available trough sideloading
 - [**9Animator**](https://github.com/SuperMarcus/NineAnimator)
   - Decent UI with extension integration
   - Casting & notification support

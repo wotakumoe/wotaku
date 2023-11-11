@@ -237,7 +237,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Oakminati](https://nyaa.si/user/Oakminati) <Badge type="tip" text="Releases" link="https://sheet.zohopublic.com/sheet/published/3v5my3d014d3b97064f55b7114631ac87efda?sheetid=1&range=A1" /><Badge type="info" text="plus" /><Badge type="info" text="sq. enix" /><Badge type="info" text="up!" />
 - [Shellshock](https://nyaa.si/user/shellshock) <Badge type="info" text="kodansha" /><Badge type="info" text="viz" /><Badge type="info" text="yen" />
 - [Shizu](https://nyaa.si/user/wolfsbanes) <Badge type="info" text="kodansha" /><Badge type="info" text="sublime" /><Badge type="info" text="viz" /><Badge type="info" text="yen" />
-- [Stick](https://nyaa.si/user/dumbboy58) <Badge type="info" text="audio" /><Badge type="info" text="viz" /><Badge type="info" text="yen" />
+- [Stick](https://nyaa.si/user/dumbboy58) <Badge type="info" text="viz" /><Badge type="info" text="yen" />
 - [Ushi](https://nyaa.si/user/bakaushi) <Badge type="info" text="7seas" /><Badge type="info" text="yen" />
 - [XRA9](https://nyaa.si/?f=0&c=0_0&q=XRA9)
 
@@ -329,7 +329,6 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 ### General
 - [Spotify](https://spotify.com/)
 - [Youtube Music](https://music.youtube.com/) <Badge type="tip" text="Beatbump" link="https://beatbump.io/home" /><Badge type="tip" text="Hyperpipe" link="https://hyperpipe.surge.sh/" />
-- [Deezer](https://www.deezer.com/)
 - [SoundCloud](https://soundcloud.com/)
 
 ### Radio
@@ -490,7 +489,6 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Serebii.net](https://www.serebii.net/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://www.serebii.net/pokemon/" />
 - [Pokémon Database](https://pokemondb.net/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://pokemondb.net/pokedex" />
 - [The Cave of Dragonflies](https://www.dragonflycave.com/)
-- [Pokémon Fandom](https://pokemon.fandom.com/wiki/Pok%C3%A9mon_Wiki) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://pokemon.fandom.com/wiki/List_of_Pok%C3%A9mon" />
 - [Smogon University](https://www.smogon.com/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://www.smogon.com/dex/" />
 - [Pokés](https://www.pokeos.com/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://www.pokeos.com/dex/" />
 - [PokéHarbor](https://www.pokeharbor.com/) <Badge type="info" text="Download" />
