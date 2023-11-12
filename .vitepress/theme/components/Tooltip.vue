@@ -6,11 +6,15 @@ const show = ref<boolean>(false);
 function toggleTooltip() {
   show.value = !show.value;
 }
+
+withDefaults(defineProps<{ icon: string}>(), {
+  icon: "i-mdi-star-four-points-circle-outline"
+})
 </script>
 
 <template>
   <button @click="toggleTooltip" class="tooltip-button">
-    <div class="i-mdi-star-four-points-circle-outline" />
+    <div :class="icon" />
   </button>
   <p v-if="show" class="tooltip">
     <slot />
