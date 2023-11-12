@@ -27,26 +27,16 @@ Everyone has to let off some steam once in a while, we don't judge.
 
 
 == Manga
-- [E-Hentai](https://e-hentai.org/)
-    - Mangadex of doujins. Everything is uploaded here.
-- [ExHentai](https://exhentai.org/)
-    - Hidden domain of e-hentai that also has more extreme tags. 
-- [nHentai](https://nhentai.net/)
-    - Most popular. Decent UI but compresses images
-- [Anchira](https://anchira.to/)
-    - fakku/irodori rips (official TLs)
-- [IMHentai](https://imhentai.xxx/)
-    - Big Library and great search filters.
-- [Hitomi](https://hitomi.la/)
-    - Big Library but difficult to navigate.
-- [Hentaifox](https://hentaifox.com/ )
-    - Fast Updates and English only library.
-- [Hentai2read](https://hentai2read.com/)
-    - Combines Chapters of a series into a single entry unlike most sites so good to read doujin series.
-- [Nyaa Sukebei](https://sukebei.nyaa.si/)
-    - NSFW portion of nyaa.
-- [Chika Panda](https://panda.chaika.moe/)
-    - Archive of stuff removed from E-Hentai due to DMCA complaints. has fakku/irodori stuff.
+- [E-Hentai](https://e-hentai.org/) <tooltip>Mangadex of doujins. Everything is uploaded here.</tooltip>
+- [ExHentai](https://exhentai.org/) <tooltip>Hidden domain of e-hentai that also has more extreme tags.</tooltip>
+- [nHentai](https://nhentai.net/) <tooltip>Most popular. Decent UI but compresses images.</tooltip>
+- [Anchira](https://anchira.to/) <tooltip>fakku/irodori rips (official TLs)</tooltip>
+- [IMHentai](https://imhentai.xxx/) <tooltip>Big Library and great search filters.</tooltip>
+- [Hitomi](https://hitomi.la/) <tooltip>Big Library but difficult to navigate.</tooltip>
+- [Hentaifox](https://hentaifox.com/ ) <tooltip>Fast Updates and English only library.</tooltip>
+- [Hentai2read](https://hentai2read.com/) <tooltip>Combines Chapters of a series into a single entry unlike most sites so good to read doujin series.</tooltip>
+- [Nyaa Sukebei](https://sukebei.nyaa.si/) <tooltip>NSFW portion of nyaa.</tooltip>
+- [Chika Panda](https://panda.chaika.moe/) <tooltip>Archive of stuff removed from E-Hentai due to DMCA complaints. has fakku/irodori stuff.</tooltip>
 
 :::details More {open}
 - [Pururin](https://pururin.to/)
@@ -75,6 +65,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [Danbooru](https://danbooru.donmai.us/)
 - [Gelbooru](https://gelbooru.com/)
 - [Kona chan](https://konachan.com/)
+- [Oreno3D](https://oreno3d.com/)
 - [Pixiv](https://www.pixiv.net)
 - [Pixiv Viewer](https://pixiv.pics/)
 - [Rule34](https://rule34.xxx/)
@@ -91,6 +82,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 == Android
 - [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY)
 - [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta)
+- [EhViewer](https://github.com/FooIbar/EhViewer)
 - [Hentaoid](https://github.com/avluis/Hentoid)
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
 - [Jasmine](https://github.com/niuhuan/jasmine)
@@ -106,6 +98,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
 - [Jasmine](https://github.com/niuhuan/jasmine)
 - [Happypandax](https://github.com/happypandax/happypandax)
+- [SadPanda](https://github.com/Klainx/Sad-Panda)
 - [Tsuki](https://github.com/Gusb3ll/Tsuki)
 
 :::details Downloader {open}
@@ -130,9 +123,10 @@ Everyone has to let off some steam once in a while, we don't judge.
 :::tabs
 == Websites
 
-- [ASMR.moe](https://asmr.one/)
-- [HMV Mania](https://hmvmania.com/)
+- [ASMR Online](https://asmr.one/)
 - [F95Zone](https://f95zone.to/) <Badge type="info" text="Needs account" />
+- [HMV Mania](https://hmvmania.com/) <Badge type="tip" text="/h/ thread" link="https://anychans.github.io/4chan/h/7621997" /><Badge type="tip" text="Archive" link="https://archived.moe/h/thread/7621997/" />
+- [Kasumi](http://xdcc.kasumi.moe/) <Badge type="tip" text="Guide" link="http://kasumi.moe/guide/" />
 - [Kemono](https://kemono.su/)
 - [Anime-sharing](http://www.anime-sharing.com/forum/)
 - [Wholesome Hentai God List](https://wholesomelist.com/)
@@ -141,7 +135,8 @@ Everyone has to let off some steam once in a while, we don't judge.
 
 - [r/hentai](https://www.reddit.com/r/hentai/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.com/invite/rhentai" />
 - [r/pornhwa](https://www.reddit.com/r/pornhwa/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.com/invite/epjkRVp7gD" />
-- [/h/ Hentai](https://boards.4chan.org/h/)
+- [/h/ Hentai](https://boards.4chan.org/h/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/h/" /><Badge type="tip" text="Archive" link="https://archived.moe/h/" />
+- [/e/ Ecchi](https://boards.4chan.org/e/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/e/" /><Badge type="tip" text="Archive" link="https://archived.moe/e/" />
 - [r/Artistic_Hentai](https://www.reddit.com/r/Artistic_Hentai/)
 - [r/Artistic_Ecchi](https://www.reddit.com/r/Artistic_Ecchi/)
 - [r/doujinshi](https://www.reddit.com/r/doujinshi/)
@@ -155,6 +150,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 
 - E-HENTAI-VIEW-ENHANCE <Badge type="tip" icon="i-custom-fork" text="Sleezy" link="https://sleazyfork.org/en/scripts/397848-e-hentai-view-enhance" />
 - Eza's Image Glutton <Badge type="tip" icon="i-custom-fork" text="Sleezy" link="https://sleazyfork.org/en/scripts/4713-eza-s-image-glutton" />
+- ExResurrect <Badge type="tip" icon="i-custom-fork" text="Sleezy" link="https://sleazyfork.org/en/scripts/411277-exresurrect" />
 - Image Board Enhancer <Badge type="tip" icon="i-custom-fork" text="Sleezy" link="https://sleazyfork.org/en/scripts/387312-image-board-enhancer-rule34-gelbooru-e621-and-more" />
 - Let's panda! <Badge type="tip" icon="i-custom-fork" text="Sleezy" link="https://sleazyfork.org/en/scripts/33979-let-s-panda" />
 - MALSync Adult <Badge type="tip" icon="i-custom-fork" text="Sleezy" link="https://sleazyfork.org/en/scripts/387981-mal-sync-adult-fatexxxblood-edition" />
