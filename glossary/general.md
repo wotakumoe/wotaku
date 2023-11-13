@@ -139,25 +139,25 @@ Words used to describe anime girls based on their personality.
 :::details Bakadere
 As clear by the word "baka", these character(s) are literally idiots, clumsy, and do things that are questionable, but due to their child-like innocence and optimism, they are kind-hearted to other characters, even though they may not realize that, and are very annoying to a protagonist. Example: [Hanabatake Yoshiko from Aho-Girl](https://anidb.net/character/89068)
 
-![Hanabatake Yoshiko](/glossary/General/bakadare.png)
+![Hanabatake Yoshiko](/glossary/general/bakadare.png)
 :::
 
 :::details Byoukidere
 'Byouki' mean illness, so these character(s) usually has some kind of physical disease, often fatal. They are mostly confined to a wheelchair or a hospital room. Generally they are kind, caring and sweet in nature. Example: [Miyazono Kaori from Shigatsu wa Kimi no Uso](https://anidb.net/character/65811)
 
-![Miyazono Kaori](/glossary/General/Byoukidere.png)
+![Miyazono Kaori](/glossary/general/byoukidere.png)
 :::
 
 :::details Dandere
 Introverted character(s) that are shy, quiet, and asocial, they don't like to get involved in conflicts, but their affection is shown when they are alone or with a small group of people that they love and care. Example: [Komi Shouko from Komi-san wa, Komyushou Desu.](https://anidb.net/character/117224)
 
-![Komi Shouko](/glossary/General/Dandere.png)
+![Komi Shouko](/glossary/general/dandere.png)
 :::
 
 :::details Deredere
 'Dere' mean love, so a deredere character is all about being lovey-dovey. These character(s) are sweet, kind and very affectionate towards the person they love, while also being generally friendly towards other characters. Example: [Miia from Monster Musume](https://anidb.net/character/73747)
 
-![Miia](/glossary/General/Deredere.png)
+![Miia](/glossary/general/deredere.png)
 
 | Terms     | Meaning |
 | ------  | ------ |
@@ -168,13 +168,13 @@ Introverted character(s) that are shy, quiet, and asocial, they don't like to ge
 :::details Goudere
 Over-achieving character(s) that are loyal to their masters, they view their masters as their savior and grace, so they do anything to their ability to keep them happy, and can also involve other characters as a means to contribute to their happiness, even though their master doesn't ask for that. Example: [Tooru from Miss Kobayashi's Dragon Maid](https://anidb.net/character/85812)
 
-![Tooru](/glossary/General/Goudere.png)
+![Tooru](/glossary/general/goudere.png)
 :::
 
 :::details Hajidere
 Character(s) that isn't nervous and embarrassed with others, but on the contrary are when they are around their crush. Example: [Boa Hancok from One Piece](https://anidb.net/character/6071)
 
-![Boa Hancock](/glossary/General/Hajidere.png)
+![Boa Hancock](/glossary/general/hajidere.png)
 :::
 
 :::details Himedere/Oujidere/Kamidere
@@ -190,30 +190,30 @@ Character(s) that isn't nervous and embarrassed with others, but on the contrary
 :::details Hinedere
 A Character(s) who has cynical world views, is cold-hearted, and are is highly arrogant. They will get easily annoyed by other people, including their love interest at first. Example:[Annie Leonhart from Attack on Titan](https://anidb.net/character/51168)
 
-![Annie Leonhart](/glossary/General/Hinedere.png)
+![Annie Leonhart](/glossary/general/hinedere.png)
 :::
 
 :::details Hiyakasudere
 'Hiyakasu' means 'to tease'. They are character who likes to tease others and sometimes flirt with those they like. They will act really seductive in front of other people and will tease those that get embarrassed easily by their actions and words, possibly the love interest. Example: [Holo from Spice & Wolf](https://anidb.net/character/29)
 
-![Holo](/glossary/General/Hiyakasudere.png)
+![Holo](/glossary/general/hiyakasudere.png)
 :::
 
 :::details Kanedere
 'Kane' means money. They are the anime equivalent of gold diggers. They often just care about how much money a person has, and nothing else. However, if they truly love someone the habit can be broken. Example: [Eva Heinemann from Monster](https://anidb.net/character/4909)
-![Eva Heinemann](/glossary/General/Kanedere.png)
+![Eva Heinemann](/glossary/general/kanedere.png)
 :::
 
 :::details Mayadere
 A character who used to be an antagonist or villain of the series but switched sides after falling in love or becoming fond of another character. Example: [Esdeath from Akame ga Kill!](https://anidb.net/character/67551)
 
-![Esdeath](/glossary/General/Mayadere.png)
+![Esdeath](/glossary/general/mayadere.png)
 :::
 
 :::details Nemuidere
 Character(s) that are sleepy - they sleep with or without an intent to do so, they will also try to get as much sleep as they can. Accompanied by those qualities they may also be lazy (which in this case they'd be both a nemuidere and darudere), so they need motivation from others to do something, but they are usually very smart and artsy when they are too much of a sleepyhead. Example: [Princess Syalis from Sleepy Princess in the Demon Castle](https://anidb.net/character/108007)
 
-![Princess Syalis](/glossary/General/Nemuidere.png)
+![Princess Syalis](/glossary/general/nemuidere.png)
 
 | Terms     | Meaning { class="compact" } |
 | ------  | ------ |
@@ -228,13 +228,13 @@ Character(s) that are cat-loving fanatics, it could come in several variations:
     - A regular human that is normal or show no emotion to others, but show their nyandere side when around cats, portrayed through showing imaginary cat ears and paws
 
 Example: [Mizuno Kaede from Nyan Koi!](https://anidb.net/character/10841)
-![Mizuno Kaede](/glossary/General/nyandere.png)
+![Mizuno Kaede](/glossary/general/nyandere.png)
 :::
 
 :::details Sadodere
 Character(s) that indulge in the manipulation of their crush's feelings and humiliating them. They are cold, violent and merciless to others, hence making them difficult to connect with others. The are also sadistic due to finding joy in inflicting pain to their crush. Example: [Nagatoro from Don`t Toy with Me, Miss Nagatoro](https://anidb.net/anime/15622)
 
-![Nagatoro](/glossary/General/Sadodere.png)
+![Nagatoro](/glossary/general/sadodere.png)
 
 | Terms     | Meaning { class="compact" } |
 | ------  | ------ |
@@ -244,14 +244,14 @@ Character(s) that indulge in the manipulation of their crush's feelings and humi
 :::details Kekkondere
 
 Character(s) type that is obsessed with getting married right away, even if it's someone they just met, in other words love at first sight, Their insistence on getting married comes from wanting to spent the rest of their life with their love interest, it could be get to the point where it becomes unhealthy, where they may turn into yanderes! Example: [Fujinomiya Neko from Masamune-kun no Revenge](https://anidb.net/character/85802)
-![Fujinomiya Neko](/glossary/General/Kekkondere.png)
+![Fujinomiya Neko](/glossary/general/kekkondere.png)
 :::
 
 :::details Kuudere
 
 Character(s) who is always calm and collected, especially in the most stressful of situations. They never panic and usually analyze and think through things til' they solve the problem, its rare for them to show affection or emotion to others in varying situations, however they could be hiding how the actually feel deep down. Example: [Hishiro Chizuru from ReLife](https://anidb.net/character/79913)
 
-![Hishiro Chizuru](/glossary/General/Kuudere.png)
+![Hishiro Chizuru](/glossary/general/kuudere.png)
 
 | Terms     | Meaning { class="compact" } |
 | ------  | ------ |
