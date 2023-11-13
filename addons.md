@@ -236,6 +236,15 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 - [MALSync](https://github.com/MALSync/MALSync) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://malsync.moe/" /><Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel" /><Badge type="tip" icon="i-logos-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/mal-sync/" /> 🦆
 - [Similar Manga](https://github.com/similar-manga/similar) <Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg" />
 
+== General
+
+- [uBlock Origin](https://ublockorigin.com/)
+- [FastForward](https://fastforward.team/)
+- [ClearURLs](https://docs.clearurls.xyz/)
+- [Violentmonkey](https://violentmonkey.github.io/)
+- [hektCaptcha](https://github.com/Wikidepia/hektCaptcha-extension)
+
+
 == Others
 
 - [Booru Shinshi](https://github.com/kuanyui/BooruShinshi) <Badge type="tip" icon="i-logos-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/booru-shinshi/" />
