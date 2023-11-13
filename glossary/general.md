@@ -105,7 +105,7 @@ Literally means “Martial Heroes”. Fictional stories about regular humans who
 |  -sensei  |  A respectful term for teachers, artists, or high-level professionals.    |
 |  No honorific  |   Indicates familiarity or closeness; if used without permission or reason, addressing someone in this manner would constitute an insult.   |
 
->If you want to mention a family member in formal way, here is the [guide](https://rentry.org/jpfamily).
+<Button link="https://rentry.org/jpfamily" icon="i-fxemoji-lightbulb">If you want to mention a family member in formal way, here is the guide.</Button>
 
 
 ## Doujin Basics
