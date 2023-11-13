@@ -275,7 +275,7 @@ Character(s) that show coldness and hostility on the outside, but have a heart o
 
 Character(s) whose love and devotion is so strong that they become excessively obsessive and possessive. They are depicted as becoming crazy after falling in love, capable of doing any number of immoral things if it means being able to get closer with their love interest. Also, if they ever think they can't be with their love interest or that he is cheating on her, they'd rather kill him and then herself rather than letting him be with someone else. Example: [Yuno Gasai from Mirai Nikki](https://anidb.net/character/25306)
 
-![Yuno Gasai from Mirai Nikki](/glossary/General/yandere.png)
+![Yuno Gasai from Mirai Nikki](/glossary/general/yandere.png)
 :::
 
 :::details Yottadere
