@@ -120,6 +120,7 @@ export default withPwa(
           items: [
             { text: "Digital Manga", link: "/guides/digim" },
             { text: "Disc Ripping", link: "/guides/discrip" },
+            { text: "Fate / Type-Moon", link: "/guides/fate" },
             { text: "IRC", link: "/guides/irc" },
             { text: "Madokami", link: "/guides/mado" },
             { text: "Manga Image Editing", link: "/guides/imagedit" },
@@ -163,6 +164,7 @@ export default withPwa(
           items: [
             { text: "Digital Manga", link: "/guides/digim" },
             { text: "Disc Ripping", link: "/guides/discrip" },
+            { text: "Fate / Type-Moon", link: "/guides/fate" },
             { text: "IRC", link: "/guides/irc" },
             { text: "Madokami", link: "/guides/mado" },
             { text: "Manga Image Editing", link: "/guides/imagedit" },

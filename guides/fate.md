@@ -4,16 +4,21 @@ Description: Good Luck!
 outline: 1
 ---
 
-![](/public/banner/anime.png)
+![](/thumb/fate.webp)
+# Fate / Type-Moon
+The Fate series is a popular Japanese visual novel, anime, and video game franchise created by Type-Moon. It centers around the concept of the "Holy Grail War," a battle royale in which participants, known as "Masters," summon historical, mythological, and fictional figures, known as "Servants," to fight on their behalf.
+
+:::details What's Type-Moon {open}
+Type-Moon is a Japanese visual novel studio known for its contributions to the anime, manga, and video game industries. It was founded by [Kinoko Nasu](https://anidb.net/creator/2174) and [Takashi Takeuchi](https://anidb.net/creator/2173) and is acclaimed for its influential "**Fate**" series, as well as the "**Tsukihime**" and "**Kara no Kyoukai**" franchises. Type-Moon's works often incorporate elements of fantasy, mythology, and the supernatural, and the studio has gained a significant following for its engaging narratives and unique art style.
+:::
+
+![](/banner/anime.png)
 
 # Anime
 
-
 ## Fate Series
 
-This is the main series.
-
-Fate/Zero is the series that tooks place before [**Shirou Emiya**](https://typemoon.fandom.com/wiki/Shirou_Emiya) (the MC of the series) was introduced and its also the first Holy Grail War of the Fate Series. The MC of this series is Kiritsugu Emiya and this is where the story begins.
+This is the main series. **Fate/Zero** is the series that tooks place before [**Shirou Emiya**](https://typemoon.fandom.com/wiki/Shirou_Emiya) (the MC of the series) was introduced and its also the first Holy Grail War of the Fate Series. The MC of this series is Kiritsugu Emiya and this is where the story begins.
 
 1. [Fate/Zero 1<sup>st</sup> Season](https://anilist.co/anime/10087/FateZero/)
 2. [Fate/Zero 2<sup>nd</sup> Season](https://anilist.co/anime/11741/FateZero-Season-2/)
@@ -118,7 +123,7 @@ These aren't related to the "**Fate**" main series nor the "**Fate/Grand Order**
 
 <br>
 
-# Other Typemoon Anime
+# Other Type-Moon Anime
 
 ## Kara no Kyoukai
 
@@ -272,4 +277,6 @@ Unexpectedly, a young boy named Soujuurou Shizuki is drawn to the mansion and co
 44. [Tsuki no Sango](https://anilist.co/manga/71957/Tsuki-no-Sango/)
 
 
-> Check [Type-Moon fandom](https://typemoon.fandom.com/wiki/TYPE-MOON_Wiki) for manga and ln/novel info and everything related to typemoon.
+<Button link="https://typemoon.fandom.com/wiki/TYPE-MOON_Wiki" icon="i-fxemoji-lightbulb">Check Type-Moon fandom for manga and ln/novel info and everything related to Type-Moon.</Button>
+
+<Button link="https://discord.com/invite/fate" icon="i-ic-round-discord">Explore the Fate and Type-Moon universe alongside fellow fans in their Discord server!</Button>
