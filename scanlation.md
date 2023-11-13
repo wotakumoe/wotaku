@@ -100,6 +100,7 @@ Guides and resources for scanlating manga.
 == Software
 
 - Adobe Software
+  - [GenP Guide](https://genpguides.github.io/)
   - [Esoterica Avenue](https://rentry.org/adobesoftware)
   - [Guide by Anna](https://docs.google.com/document/d/17PheyyF9dm7YYjaTZ9JAAY3hhdeIQ7sJ4sylTG9_6xI/edit)
   - [macOS Guide](https://telegra.ph/MacOS-Adobe-CC-Guide-11-29)

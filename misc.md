@@ -154,21 +154,14 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Vocaloid](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-vocaloid/)
 - [Utaite Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-utaite-music/)
 
-== Tools
+== Discovery
 
-### Discovery
 - [Rate Your Music](https://rateyourmusic.com/)
 - [Every Noise](https://everynoise.com) 🦆
 - [Discover Quickly](https://discoverquickly.com/)
+- [Music-Map](https://www.music-map.com/)
 - [Dubolt](https://dubolt.com/)
 
-### More
-- [Anime Music Quiz](https://animemusicquiz.com/)
-- [Anime Song Lyrics](https://www.animesonglyrics.com/)
-- [Cover Search Engine](https://covers.musichoarders.xyz/) 🦆
-- [Game Tabs](https://www.gametabs.net/)
-- [Songle](https://songle.jp/)
-- [Vocaloid Big Hits](https://music.youtube.com/playlist?list=RDCLAK5uy_mgu07-HoqLSU-WqjK2ldEQWLuPPm3CAy8)
 :::
 
 ![](/banner/illust.png)
@@ -231,6 +224,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 ### Youtube
 - [Mythology & Fiction Explained] [Japanese Folklore](https://www.youtube.com/playlist?list=PLgZdqfi4SZ0q-BLpzfuzWrXgxkyNcqagc)
+- [See U in History / Mythology] [Japanese Mythology](https://www.youtube.com/playlist?list=PLY7BFnOZ_ONQF02Aj2gfFKyC-RmsdgQHL)
 - [GenoSamuel3] [Yokai: Monsters of Japan](https://www.youtube.com/playlist?list=PLiHkvPlOtVBCPoN70Edn_Sosl5PeeAiFW)
 - [Inaka Adventure] [Japanese WEIRD Yokai, Monsters & Folklore Compilation](https://www.youtube.com/watch?v=LEH_9iygWvw)
 
@@ -445,6 +439,14 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [SauceKudasai](https://saucekudasai.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/ayushgptaa/SauceKudasai" />
 - [SauceNAO](https://saucenao.com/) 🦆
 - [Trace](https://trace.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/soruly/trace.moe" />
+
+=== Music
+
+- [Anime Music Quiz](https://animemusicquiz.com/)
+- [Anime Song Lyrics](https://www.animesonglyrics.com/)
+- [Cover Search Engine](https://covers.musichoarders.xyz/) 🦆
+- [Game Tabs](https://www.gametabs.net/)
+- [Songle](https://songle.jp/)
 
 == Others
 - [3x3 Generator](https://gqgs.github.io/3x3-generator/)
