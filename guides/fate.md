@@ -1,6 +1,6 @@
 ---
-title: Fate Watch Order
-Description: Good Luck!
+title: Fate / Type-Moon
+customDescription: Deep dive into the world of Type-Moon!
 outline: 1
 ---
 
