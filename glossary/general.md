@@ -283,5 +283,5 @@ Character(s) whose love and devotion is so strong that they become excessively o
 Character(s) that can never stop having alcohol, they usually will always have alcohol with them, they usually are sober when they are with someone they love. They can also have different personality types, from someone serious and passionate - to someone wild and brute. Example: [Vanessa Enoteca
  from Black Clover](https://anidb.net/character/90830)
 
-![Vanessa Enoteca](/glossary/General/Yottadere.png)
+![Vanessa Enoteca](/glossary/general/yottadere.png)
 :::
