@@ -27,10 +27,11 @@ Everyone has to let off some steam once in a while, we don't judge.
 
 
 == Manga
-- [E-Hentai](https://e-hentai.org/) <tooltip>Mangadex of doujins. Everything is uploaded here.</tooltip>
-- [ExHentai](https://exhentai.org/) <tooltip>Hidden domain of e-hentai that also has more extreme tags.</tooltip>
+- [E-Hentai](https://e-hentai.org/) <tooltip>It is the mangadex for doujins. Almost every doujin is first uploaded here before being scraped by other sites. Online viewer compresses the images but has the option to download stuff in original quality.<br>
+<a href="https://exhentai.org/">Exhentai</a> is it's sister site, which also hosts the more extreme and questionable content. You'll need an account on e-hentai to gain access.</tooltip>
 - [nHentai](https://nhentai.net/) <tooltip>Most popular. Decent UI but compresses images.</tooltip>
 - [Anchira](https://anchira.to/) <tooltip>fakku/irodori rips (official TLs)</tooltip>
+- [Fakku.cc](https://fakku.cc/) <tooltip>fakku/irodori rips (official TLs). Scrapes the content from anchira so good as a backup in case anchira ever goes down</tooltip>
 - [IMHentai](https://imhentai.xxx/) <tooltip>Big Library and great search filters.</tooltip>
 - [Hitomi](https://hitomi.la/) <tooltip>Big Library but difficult to navigate.</tooltip>
 - [Hentaifox](https://hentaifox.com/ ) <tooltip>Fast Updates and English only library.</tooltip>
@@ -75,6 +76,8 @@ Everyone has to let off some steam once in a while, we don't judge.
 
 :::
 
+<Button link="/glossary/nsfw" icon="i-fluent-emoji-open-book">Not sure what the Japanese term means when browsing? Check out the nsfw glossary</Button>
+
 ![](/banner/software.png)
 ## Software
 
@@ -98,20 +101,19 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
 - [Jasmine](https://github.com/niuhuan/jasmine)
 - [Happypandax](https://github.com/happypandax/happypandax)
-- [SadPanda](https://github.com/Klainx/Sad-Panda)
 - [Tsuki](https://github.com/Gusb3ll/Tsuki)
 
 :::details Downloader {open}
 
-- [Hakuneko](https://github.com/manga-download/hakuneko) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://hakuneko.download/" />
-- [HDoujin Downloader](https://github.com/HDoujinDownloader/HDoujinDownloader) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://doujindownloader.com/" />
-- [Hentai downloader](https://github.com/touno-io/hentai-downloader)
-- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) <Badge type="info" text="Anime" />
-- [E-Hentai Downloader](https://github.com/ccloli/E-Hentai-Downloader)
-- [nHentai](https://github.com/RicterZ/nhentai)
-- [nHentai Downloader](https://github.com/Xwilarg/NHentaiDownloader)
-- [NSFW Box](https://github.com/Kisspeace/NsfwBox)
-- [Tomoe](https://github.com/sinkaroid/tomoe)
+- [Hakuneko](https://github.com/manga-download/hakuneko) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://hakuneko.download/" /><Badge type="info" text="Multi" />
+- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) <Badge type="info" text="Multi" /><Badge type="info" text="Anime" />
+- [HDoujin Downloader](https://github.com/HDoujinDownloader/HDoujinDownloader) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://doujindownloader.com/" /><Badge type="info" text="Multi" />
+- [Hentai downloader](https://github.com/touno-io/hentai-downloader)<Badge type="info" text="E-Hentai" />
+- [E-Hentai Downloader](https://github.com/ccloli/E-Hentai-Downloader)<Badge type="info" text="E-Hentai" />
+- [nHentai](https://github.com/RicterZ/nhentai)<Badge type="info" text="nHentai" />
+- [nHentai Downloader](https://github.com/Xwilarg/NHentaiDownloader)<Badge type="info" text="nHentai" />
+- [Anchira Watcher Downloader](https://github.com/ndbiaw/anchira-watcher-downloader)<Badge type="info" text="Anchira" />
+- [NSFW Box](https://github.com/Kisspeace/NsfwBox)<Badge type="info" text="Multi" />
 
 :::
 
@@ -125,6 +127,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 
 - [ASMR Online](https://asmr.one/)
 - [F95Zone](https://f95zone.to/) <Badge type="info" text="Needs account" />
+- [HentTag](https://hentag.com/)
 - [HMV Mania](https://hmvmania.com/) <Badge type="tip" text="/h/ thread" link="https://anychans.github.io/4chan/h/7621997" /><Badge type="tip" text="Archive" link="https://archived.moe/h/thread/7621997/" />
 - [Kasumi](http://xdcc.kasumi.moe/) <Badge type="tip" text="Guide" link="http://kasumi.moe/guide/" />
 - [Kemono](https://kemono.su/)
