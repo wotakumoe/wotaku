@@ -13,7 +13,7 @@ The basic things to get you started.
 == Anime
 
 - [Aniwave](https://aniwave.to/home) | [Alt UI](https://9animehq.to/home) <Badge text="Formerly 9anime"/>
-- [KickAssAnime](https://kickassanime.am/) (use duckstream if available)
+- [KickAssAnime](https://kickassanime.am/) <tooltip>Use duckstream if available because it scrapes crunchyroll. If that's not available use Vidstream.</tooltip>
 - [Tokyo Insider](https://www.tokyoinsider.com/) <Badge text="DDL" />
 
 == Manga
@@ -24,8 +24,8 @@ The basic things to get you started.
 
 == Music
 
+- [Sukidesu OST](https://sukidesuost.info/) <Badge type="info" text="Mega" /><Badge type="info" text="Torrent" />
 - [Sitting on Clouds](https://www.sittingonclouds.net/) <Badge text="DDL" />
-- [SquidBoard](https://www.squid-board.org/) <Badge text="Alt" link="https://sqb.moe/" /> <Badge text="DDL" /> <Badge text="Needs account" />
 - [Anithemes.moe](https://animethemes.moe/) <Badge text="stream" />
 - [Squidify](https://www.squidify.org/) <Badge text="stream" />
 
@@ -51,7 +51,6 @@ The basic things to get you started.
 
 - [Aidoku](https://github.com/Aidoku/Aidoku) <Badge text="Manga" />
 - [Paperback](https://github.com/Paperback-iOS/app) <Badge text="Manga" />
-- [Anime Now](https://github.com/AnimeNow-Team/AnimeNow) <Badge text="Anime" />
 
 == PC
 
