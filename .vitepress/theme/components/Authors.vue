@@ -29,6 +29,13 @@ const credits = {
       avatar: "https://github.com/nullish-cat.png",
     },
   ],
+  fate: [
+    {
+      name: "Archziac",
+      site: "https://www.behance.net/archziac",
+      avatar: "https://github.com/archziac.png",
+    },
+  ],
 } satisfies CreditsInfo;
 
 const Credits = computed(() => credits[props.page] || ([] as CreditsInfo[]));

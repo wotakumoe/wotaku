@@ -8,6 +8,8 @@ outline: 1
 # Fate / Type-Moon
 The Fate series is a popular Japanese visual novel, anime, and video game franchise created by Type-Moon. It centers around the concept of the "Holy Grail War," a battle royale in which participants, known as "Masters," summon historical, mythological, and fictional figures, known as "Servants," to fight on their behalf.
 
+<Authors page="fate" />
+
 :::details What's Type-Moon {open}
 Type-Moon is a Japanese visual novel studio known for its contributions to the anime, manga, and video game industries. It was founded by [Kinoko Nasu](https://anidb.net/creator/2174) and [Takashi Takeuchi](https://anidb.net/creator/2173) and is acclaimed for its influential "**Fate**" series, as well as the "**Tsukihime**" and "**Kara no Kyoukai**" franchises. Type-Moon's works often incorporate elements of fantasy, mythology, and the supernatural, and the studio has gained a significant following for its engaging narratives and unique art style.
 :::
