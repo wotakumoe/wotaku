@@ -86,7 +86,7 @@ The basic things to get you started.
 - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) <Badge text="Android" />
 - [IDM](https://www.internetdownloadmanager.com/) <Badge text="Activator" link="https://massgrave.dev/idm-activation-script.html" /> <Badge text="Windows" />
 - [JDL](https://jdownloader.org/) <Badge text="Debloat" link="https://rentry.org/jdownloader2" /> <Badge text="Windows" /> <Badge  text="Linux" /> <Badge  text="MacOS" />
-- [Nicotine+](https://nicotine-plus.org/) <Badge text="p2p" /> <Badge  text="Windows" /> <Badge  text="Linux" /> <Badge  text="MacOS" />
+- [Nicotine+](https://nicotine-plus.org/) <Badge text="p2p" /> <Badge  text="Windows" /> <Badge  text="Linux" /> <Badge  text="MacOS" /> <tooltip>just like Direct peer-to-peer sharing network, primarily used for music</tooltip>
 
 == Torrent
 
