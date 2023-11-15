@@ -447,5 +447,6 @@ Otaku resources for other languages/regions.
 
 ### Apps
 - [Anime VSub](https://github.com/anime-vsub/app)
+- [Raiku](https://github.com/manga-raiku/raiku-app) <Badge type="tip" text="PWA" link="https://mangaraiku.eu.org/" />
 
 :::
