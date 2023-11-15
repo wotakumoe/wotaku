@@ -66,7 +66,7 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
 
 == Novel
 
-- [**Moon+ Reader Pro**](https://play.google.com/store/apps/details?id=com.flyersoft.moonreaderp&hl=en&gl=US)
+- [**Moon+ Reader Pro**](https://play.google.com/store/apps/details?id=com.flyersoft.moonreaderp&hl=en&gl=US) <Badge type="tip" text="Themeing" link="https://rentry.co/moontheme" />
   - Customizable UI
   - Online source support
   - In-app reading analytics
