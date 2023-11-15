@@ -120,7 +120,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 
 ### Audio
 - [AIMP](https://www.aimp.ru/)
-- [Foobar2000](https://www.foobar2000.org/) <Badge type="info" text="Synced Lyrics" link="https://rentry.co/FB2K-SyncedLyrics" />
+- [Foobar2000](https://www.foobar2000.org/) <Badge type="info" text="Synced Lyrics" link="/guides/foobar#synced-lyrics" />
 - [MusicBee](https://www.getmusicbee.com/)
 - [WACUP](https://getwacup.com/)
 
