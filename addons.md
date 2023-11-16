@@ -120,7 +120,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 
 ### Audio
 - [AIMP](https://www.aimp.ru/)
-- [Foobar2000](https://www.foobar2000.org/) <Badge type="info" text="Synced Lyrics" link="/guides/foobar#synced-lyrics" />
+- [Foobar2000](https://www.foobar2000.org/) <Badge type="info" text="Georgia-ReBORN" link="https://github.com/TT-ReBORN/Georgia-ReBORN"/> <Badge type="info" text="Synced Lyrics" link="/guides/foobar#synced-lyrics" /> 🦆
 - [MusicBee](https://www.getmusicbee.com/)
 - [WACUP](https://getwacup.com/)
 
@@ -210,6 +210,7 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 - [osu! Cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner)
 - [PreMiD](https://premid.app/)
 - [Textractor](https://github.com/Artikash/Textractor)
+- [yt-dlp GUI](https://github.com/kazukikasama/youtube-dlp-gui-installer) 🦆
 
 :::
 
