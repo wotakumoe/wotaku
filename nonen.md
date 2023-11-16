@@ -32,7 +32,9 @@ Otaku resources for other languages/regions.
 
 ## Arabic
 
-### Anime
+:::tabs
+
+== Anime
 - [Anime titans](https://animetitans.net/)
 - [Anime4up](https://w1.anime4up.tv/)
 - [Animeblkom](https://blkom.com/)
@@ -41,6 +43,11 @@ Otaku resources for other languages/regions.
 - [Arabsama](https://arabsama.net/)
 - [Wit anime](https://witanime.com/)
 - [XSAnime](https://v.xsanime.com/)
+
+== Manga
+- [3asQ](https://3asq.org/)
+
+:::
 
 
 ## Balkan
@@ -163,6 +170,10 @@ Otaku resources for other languages/regions.
 - [Anime Loads](https://www.anime-loads.org/) <Badge type="info" text="Stream" /><Badge type="info" text="DDL" />
 - [Animes](https://www.animes.so/) <Badge type="info" text="DDL" />
 - [AnimeWorld](https://animeworld.cx/) <Badge type="info" text="Torrent" />
+
+== Manga
+
+- [Comic Mafia](https://comicmafia.to/)
 
 == Others
 ### Community
@@ -440,6 +451,7 @@ Otaku resources for other languages/regions.
 
 - [Bao Tang Truyen Tranh](https://baotangtruyengo.com/)
 - [Kaguya](https://kaguya.app/manga)
+- [Raiku](https://mangaraiku.eu.org)
 - [Kyoto manga](https://kyotomanga.live/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/leephan2k1/manga-app" />
 - [Net Truyen](https://www.nettruyenplus.com/)
 
@@ -447,6 +459,6 @@ Otaku resources for other languages/regions.
 
 ### Apps
 - [Anime VSub](https://github.com/anime-vsub/app)
-- [Raiku](https://github.com/manga-raiku/raiku-app) <Badge type="tip" text="PWA" link="https://mangaraiku.eu.org/" />
+- [Raiku](https://github.com/manga-raiku/raiku-app)
 
 :::
