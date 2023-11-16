@@ -189,7 +189,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 - [Poketwo](https://poketwo.net/)
 
 
-== OCR
+== Translator
 
 - [Ballons Translator](https://github.com/dmMaze/BallonsTranslator)
 - [Capture2text](https://capture2text.sourceforge.net/)
@@ -207,6 +207,7 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 == Others
 
 - [Hydrus network](https://hydrusnetwork.github.io/hydrus/)
+- [Koneko](https://github.com/irevenko/koneko)
 - [osu! Cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner)
 - [PreMiD](https://premid.app/)
 - [Textractor](https://github.com/Artikash/Textractor)

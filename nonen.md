@@ -254,7 +254,6 @@ Otaku resources for other languages/regions.
 == Manga
 
 ### Reader
-- [Bilingual Manga](https://bilingualmanga.net/)
 - [Hachi Raw](https://hachiraw.com/) <Badge type="danger" text="R+" />
 - [KL Manga](https://klmanga.com/) <Badge type="warning" text="R" />
 - [Mangaraw Japan](https://mangaraw.to/) <Badge type="danger" text="R+" />
