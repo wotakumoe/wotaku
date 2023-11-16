@@ -396,6 +396,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Famitsu](https://www.famitsu.com/)
 - [Gematsu](https://www.gematsu.com/)
 - [Frontline](https://www.frontlinejp.net/)
+- [Siliconera](https://www.siliconera.com/)
 - [Touhou Yomoyama News](https://touhou-project.news/)
 
 
@@ -440,7 +441,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [SauceNAO](https://saucenao.com/) 🦆
 - [Trace](https://trace.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/soruly/trace.moe" />
 
-=== Music
+== Music
 
 - [Anime Music Quiz](https://animemusicquiz.com/)
 - [Anime Song Lyrics](https://www.animesonglyrics.com/)
@@ -469,6 +470,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Holodex](https://holodex.net/) <Badge type="info" text="Music" link="https://music.holodex.net/" /><Badge type="info" text="Frontend" /> 🦆
 - [Good VTuber Subs](https://goodvtubersubs.com/) <Badge type="info" text="DB" /> 🦆
 - [VChama](https://vchama.xyz) <Badge type="info" text="Stats" /><Badge type="info" text="Schedule" /> 🦆
+- [vtstats](https://vt.poi.cat/) <Badge type="info" text="Stats" /><Badge type="info" text="Schedule" />
 - [VTuber Highlights](https://vtuber.atodeyo.com/)
 - [Virtual YouTuber Wiki ](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki) <Badge type="info" text="DB" />
 - [VSTATS](https://www.vstats.jp/) <Badge type="info" text="Stats" />
@@ -480,7 +482,6 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == Hololive
 
 - [Hololive Fan Wiki](https://hololive.wiki/wiki/Main_Page) <Badge type="info" text="DB" />
-- [HoloStats](https://holo.poi.cat/youtube-stream) <Badge type="info" text="Stats" /><Badge type="info" text="Schedule" />
 - [Hololive Production](https://hololive.hololivepro.com/) <Badge type="info" text="Schedule" link="https://schedule.hololive.tv/lives" /><Badge type="info" text="DB" /><Badge type="info" text="News" />
 - [Holotracker](https://trackholo.live/en/) <Badge type="info" text="Stats" />
 - [hololive TODAY](https://hololivetoday.com/) <Badge type="info" text="News" />
