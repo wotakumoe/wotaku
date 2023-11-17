@@ -41,6 +41,9 @@ export default withPwa(
       ["link", { rel: "apple-touch-icon", href: "/asset/podarufav.png", sizes: "192x192" }],
     ],
     srcExclude: ["README.md"],
+    sitemap: {
+      hostname: hostname,
+    },
     transformHead: async (context) => generateMeta(context, hostname),
     buildEnd: async (context) => {
       generateImages(context);
