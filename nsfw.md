@@ -36,8 +36,9 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [Hitomi](https://hitomi.la/) <tooltip>Big Library but difficult to navigate.</tooltip>
 - [Hentaifox](https://hentaifox.com/ ) <tooltip>Fast Updates and English only library.</tooltip>
 - [Hentai2read](https://hentai2read.com/) <tooltip>Combines Chapters of a series into a single entry unlike most sites so good to read doujin series.</tooltip>
+- [Akuma](https://akuma.moe/) <tooltip>EHentai clone.</tooltip>
 - [Nyaa Sukebei](https://sukebei.nyaa.si/) <tooltip>NSFW portion of nyaa.</tooltip>
-- [Chika Panda](https://panda.chaika.moe/) <tooltip>Archive of stuff removed from E-Hentai due to DMCA complaints. has fakku/irodori stuff.</tooltip>
+- [Chika Panda](https://panda.chaika.moe/) <tooltip>Archive of stuff removed from E-Hentai due to DMCA complaints. Has some obscure stuff deleted on most sites.</tooltip>
 
 :::details More {open}
 - [Pururin](https://pururin.to/)
