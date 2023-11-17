@@ -87,6 +87,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Bookmeter](https://bookmeter.com/) 🇯🇵
 - [Manga Groups Portal](https://discord.gg/9KGMzP2)
 - [r/LightNovels reading order](https://www.reddit.com/r/LightNovels/wiki/reading_order)
+- [Touhou Doujinshi Index](https://scarlet.nanoskript.dev/) <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" /> <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/nanoskript/touhou-doujinshi-index" /> 🦆 
 
 == Calendar
 

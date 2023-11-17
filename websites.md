@@ -44,7 +44,7 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
   - Duck has the highest overall bitrate but may have buffer issue.
   - Has both hardsub(duck) & softsub(rest)
   - Has missing titles. But, you can request them in their support server
-- [**Aniwatch**](https://aniwatch.to/home) <Badge text="formerly Zoro"/>
+- [**Aniwatch**](https://aniwatch.to/home) <Badge text="formerly Zoro"/> <Badge type="info" text="Proxies" link="https://aniwatch.gg/" />
   - Huge library with Watch Together feature
   - Re-encodes shows for smaller size with lower overall bitrate.
   - Softsubs may create issues in different scenarios, but can be beneficial for multi-language support
