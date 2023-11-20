@@ -36,6 +36,7 @@ withDefaults(defineProps<Props>(), {
   align-items: center;
   gap: 0.2rem;
   padding-right: 10px;
+  vertical-align: middle;
 }
 
 .vp-doc h1 > .VPBadge {
