@@ -17,6 +17,8 @@ hero:
       
 aside: left
 
+customDescription: A diverse range of resources related to japanese media and language
+
 features:
   - title: Websites
     details: Websites for anime, manga, music, novels & games

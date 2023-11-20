@@ -61,7 +61,8 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 
 == Others
 
-- [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa&hl=en&gl=US)
+- [Audile](https://github.com/aleksey-saenko/MusicRecognizer) 🦆
+- [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa&hl=en&gl=US) 🦆
 - Illustrations
   - Anime Boxes <Badge type="info" icon="i-octicon-globe" text="Web" link="https://www.animebox.es/" />
   - [Boorusphere](https://github.com/nullxception/boorusphere)
