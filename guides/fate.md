@@ -213,7 +213,7 @@ Unexpectedly, a young boy named Soujuurou Shizuki is drawn to the mansion and co
 
 # Novels & Light Novels
 
-1. [Kara no Kyoukai](https://www.novelupdates.com/series/kara-no-kyoukai/)
+1. [Kara no Kyoukai](https://myanimelist.net/manga/2062/Kara_no_Kyoukai__The_Garden_of_Sinners) <Badge type="info" text="Novel Updates" link="https://www.novelupdates.com/series/kara-no-kyoukai/" />
 2. [Fate/zero](https://anilist.co/manga/33649/FateZero/) <Badge type="info" text="Novel Updates" link="https://www.novelupdates.com/series/fatezero/" />
 3. [Fate/Apocrypha](https://anilist.co/manga/63005/FateApocrypha/) <Badge type="info" text="Novel Updates" link="https://www.novelupdates.com/series/fateapocrypha/" />
 4. [Lord El-Melloi II's Case Files](https://anilist.co/manga/87197/Lord-ElMelloi-IIsei-no-Jikenbo/)
@@ -225,7 +225,6 @@ Unexpectedly, a young boy named Soujuurou Shizuki is drawn to the mansion and co
 10. [The Adventures of Lord El-Melloi II](https://anilist.co/manga/127693/Lord-ElMelloi-IIsei-no-Bouken/)
 11. [Notes (Angel Notes)](https://myanimelist.net/manga/4594/Notes)
 12. [Fate/stay night: Garden of Avalon](https://www.novelupdates.com/series/garden-of-avalon/) <Badge type="info" text="Novel Updates" link="https://www.novelupdates.com/series/garden-of-avalon/" />
-
 
 <br>
 
