@@ -34,6 +34,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [The Visual Novel Database](https://vndb.org/)
 - [VNStat](https://vnstat.net/)
 - [VGMDB](https://vgmdb.net/)
+- [Last.fm]
 - [Anilinks](https://anilinks.neocities.org/)
 
 :::
@@ -530,6 +531,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [smol Ame](https://moocow-games.itch.io/smol-ame)
 - [Delivering Hope](https://david-wu-softdev.itch.io/delivering-hope-hololive-fangame)
 - [Mumei's Memory Juggling](https://david-wu-softdev.itch.io/mumeis-memory-juggling)
+- [Nameless](https://itch.io/queue/c/1018682/hololive-fangames?game_id=2365224)
 - [Pebble Jame](https://gioba-games.itch.io/pebble-jame)
 - [Holo on Watermelon](https://unityroom.com/games/holo_watermelon)
 - [hololive ERROR](https://store.steampowered.com/app/2062550/hololive_ERROR/)
