@@ -135,7 +135,7 @@ Clean and clean again. If that doesn't work, you'll probably want to return it. 
 ### Online Retailer
 Amazon has basically everything, especially newer releases. [Blu-ray.com](https://www.blu-ray.com) is a great database for BD and UHD discs, and on each entry, there's an Amazon link. (It also has some DVDs but it's not as extensive). You can also try eBay, but obviously be wary of its condition.
 
-### Physcial Retailer
+### Physical Retailer
 Walmart sells BDs (sometimes UHDs,) and [Best Buy will sell them until Early 2024.](https://variety.com/2023/digital/news/best-buy-ending-dvd-blu-ray-disc-sales-1235754919/) There are plenty of other stores that sell them and you'll need to look at your local areas.
 
 <br>
