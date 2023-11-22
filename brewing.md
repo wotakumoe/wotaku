@@ -32,6 +32,7 @@ Cool prospective projects under works worth looking into, or maybe contributing 
 
 - [Animite](https://github.com/imashnake0/Animite)
 - [AniTrend V2](https://github.com/AniTrend/anitrend-v2)
+- [Kaguya](https://github.com/hoangvu12/kaguya-app/)
 - [Kurumi](https://play.google.com/store/apps/details?id=com.subrotokumar.kurumi)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 
