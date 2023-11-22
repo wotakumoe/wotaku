@@ -135,6 +135,22 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [Anime-sharing](http://www.anime-sharing.com/forum/)
 - [Wholesome Hentai God List](https://wholesomelist.com/)
 
+== AV
+
+### Stream
+- [MissAV](https://missav.com/en) <Badge type="tip" text="2" link="https://myav.com/" /> <Badge type="tip" text="3" link="https://thisav.com/" />
+- [SexTB](https://sextb.net/)
+- [JavGuru](https://jav.guru/)
+- [JAVSeen](https://javseen.tv/)
+- [JAVGG](https://javgg.net/)
+
+### Torrent
+- [Nyaa Sukebei](https://sukebei.nyaa.si/)
+- [Project JAV](https://projectjav.com/)
+- [One JAV](https://onejav.com/)
+- [141 JAV](https://www.141jav.com/) <Badge type="tip" text="2" link="https://www.141ppv.com/" />
+- [Next JAV](https://nextjav.com/)
+
 == Community
 
 - [r/hentai](https://www.reddit.com/r/hentai/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.com/invite/rhentai" />
@@ -149,6 +165,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [r/HENTAI_GIF](https://www.reddit.com/r/HENTAI_GIF/)
 - [r/rule34](https://www.reddit.com/r/rule34/)
 - [r/thighdeology](https://www.reddit.com/r/thighdeology/)
+- [jdc](https://discord.gg/jdc)
 
 == Scripts
 
