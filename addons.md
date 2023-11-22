@@ -61,13 +61,13 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 
 == Others
 
-- [Audile](https://github.com/aleksey-saenko/MusicRecognizer) 🦆
+- [APKUpdater](https://github.com/rumboalla/apkupdater)
+- [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play)
 - [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa&hl=en&gl=US) 🦆
 - Illustrations
   - Anime Boxes <Badge type="info" icon="i-octicon-globe" text="Web" link="https://www.animebox.es/" />
   - [Boorusphere](https://github.com/nullxception/boorusphere)
   - Pixiv <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=jp.pxv.android" />
-- [APKUpdater](https://github.com/rumboalla/apkupdater)
 - [KizzyRPC](https://github.com/dead8309/KizzyRPC)
 - [Pano Scrobbler for LastFM](https://play.google.com/store/apps/details?id=com.arn.scrobble)
 
@@ -127,9 +127,10 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 
 ### Video
 - [IINA](https://iina.io/) <Badge type="info" text="MacOS" />
-- [MPC-HC](https://codecguide.com/download_kl.htm)
-- [mpv](https://mpv.io/)
+- [MPC-HC](https://github.com/clsid2/mpc-hc) <Badge type="info" text="Codec guide" link="https://codecguide.com/media_player_classic.htm"/>
+- [mpv](https://mpv.io/) <Badge type="info" text="mpv.net" link="https://github.com/mpvnet-player/mpv.net"/>
 - [Potplayer](https://potplayer.daum.net/)
+- [K-Lite Codec Pack](https://codecguide.com/download_kl.htm)
 
 ### Online
 - [FreeTube](https://freetubeapp.io/)
