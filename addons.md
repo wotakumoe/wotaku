@@ -258,6 +258,7 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 - [MAL Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://hritikvaishnav.github.io/Project-Redesign/mal.html" /><Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chrome.google.com/webstore/detail/myanimelist-redesign/knegaeodgehajemjpfbhlgjdcloklkal" /><Badge type="tip" icon="i-logos-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/myanimelist-redesign/" />
 - [Pixiv Batch Downloader](https://github.com/xuejianxianzun/PixivBatchDownloader) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://pixiv.download/" /><Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chrome.google.com/webstore/detail/powerful-pixiv-downloader/dkndmhgdcmjdmkdonmbgjpijejdcilfh" />
 - [Search by Image](https://github.com/dessant/search-by-image)
+- [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler)
 
 :::
 
@@ -289,6 +290,7 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 - Endless MAL Search Pages <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/409957-endless-mal-search-pages" />
 - [MAL Dubs](https://github.com/MAL-Dubs/MAL-Dubs) <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/376546-mal-myanimelist-dubs" />
 - [MAL English Titles](https://github.com/Animorphs/MAL-English-Titles) <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/420200-mal-english-titles" />
+- MAL tierlist <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/474521-mal-tierlist" />
 - Series Highlighter <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/424774-series-highlighter-mal" />
 
 == Manga

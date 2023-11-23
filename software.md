@@ -183,7 +183,7 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
 
 :::details More {open}
 - [OpenComic](https://github.com/ollm/OpenComic) <Badge type="info" text="offline" />
-- [Yomikiru](https://github.com/mienaiyami/yomikiru) <Badge type="info" text="offline" />
+- [Yomikiru](https://github.com/mienaiyami/yomikiru) <Badge type="info" text="offline" /> <tooltip>Simple UI with all the basic settings but has moiré issue. Has longstip mode and anilist tracking.</tooltip>
 - [LANraragi](https://github.com/Difegue/LANraragi) <Badge type="info" text="Self-hosted" />
 :::
 

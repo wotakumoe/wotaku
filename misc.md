@@ -34,7 +34,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [The Visual Novel Database](https://vndb.org/)
 - [VNStat](https://vnstat.net/)
 - [VGMDB](https://vgmdb.net/)
-- [Last.fm]
+- [Last.fm](https://www.last.fm/)
 - [Anilinks](https://anilinks.neocities.org/)
 
 :::
