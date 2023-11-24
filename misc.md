@@ -35,7 +35,6 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [VNStat](https://vnstat.net/)
 - [VGMDB](https://vgmdb.net/)
 - [Last.fm](https://www.last.fm/)
-- [Anilinks](https://anilinks.neocities.org/)
 
 :::
 
@@ -93,6 +92,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == Calendar
 
 ### Index
+- [Mynewworm](https://myneworm.katsurin.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/Butterstroke/Myneworm" />
 - [Otaku Calendar](https://otakucalendar.com/Release/?filterCategory=2)
 - [r/LightNovels upcoming releases](https://www.reddit.com/r/LightNovels/wiki/upcomingreleases/)
 - [Yatta-Tachi](https://yattatachi.com/tag/releases)
@@ -165,6 +165,9 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Dubolt](https://dubolt.com/)
 
 :::
+
+### Others
+- [GACHAREVENUE](https://www.gacharevenue.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/zigamacele/gacharevenue" />
 
 ![](/banner/illust.png)
 
