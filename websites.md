@@ -206,7 +206,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
   - Basic reader UI
   - Watermark on almost every manga chapters
   - Manga uploads are upto x1600
-- [**Batoto**](https://battwo.com/v3x) <Badge type="tip" text="Mangatoto" link="https://mangatoto.com/" /><Badge type="danger" text="R+" />
+- [**Batoto**](https://battwo.com/v3x) <Badge type="tip" text="2" link="https://mangatoto.net/" /><Badge type="tip" text="3" link="https://mangatoto.com/" /><Badge type="danger" text="R+" />
   - Has both scanlated and official releases
   - Has some exclusive uploads
   - Decent filtering options with site theme options

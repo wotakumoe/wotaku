@@ -46,6 +46,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [nyanpantsu](https://nyanpantsu.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/purpleblueslime/nyanpantsu" />
 
 == Manhwa
+- [Batoto](https://battwo.com/v3x) <Badge type="tip" text="2" link="https://mangatoto.net/" /><Badge type="tip" text="3" link="https://mangatoto.com/" />
 - [Hiperdex](https://hiperdex.com/)
 - [Manhwa18](http://manhwa18.com/)
 - [Manytoon](https://manytoon.com/)
