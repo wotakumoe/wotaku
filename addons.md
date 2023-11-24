@@ -134,6 +134,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 
 ### Online
 - [FreeTube](https://freetubeapp.io/)
+- [Karaoke Mugen](https://mugen.karaokes.moe/en/)
 - [Spicetify](https://spicetify.app/)
 - [SPOTX](https://github.com/SpotX-Official/SpotX)
 - [Youtube Music](https://github.com/th-ch/youtube-music)
