@@ -73,7 +73,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [JOSIC](https://www.japanonlineshopping.com/)
 - [Gundam Kits Collection](https://www.gundamkitscollection.com/)
 - [Gunjap](https://www.gunjap.net/)
-- [r/Anime's legal stream list](https://www.reddit.com/r/anime/wiki/Legal%20Streams)
+- [r/Anime's legal stream list](https://www.reddit.com/r/anime/wiki/legal_streams)
 - [Buying visual novels](https://reddit.com/r/visualnovels/wiki/buy)
 - [Otaku Calendar](https://otakucalendar.com/)
 
