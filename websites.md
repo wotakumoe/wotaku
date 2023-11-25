@@ -33,22 +33,21 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 
 == Stream
 
-- [**Aniwave**](https://aniwave.to/home) <Badge text="formerly 9anime"/>
+- [**Aniwave**](https://aniwave.to/home) <Badge type="info" text="Lite" link="https://lite.aniwave.to/home" /><Badge type="info" text="Alt" link="https://anix.to/home" /><Badge type="info" text="Proxies" link="https://aniwave.tv/" />
   - Huge library with Watch Together feature
   - Less amount of compression compared to other sites that use 3rd party hosts
   - Has both hardsub and softsub (multilingual)
-  - Original site's UI is bloated. Use [Anix](https://anix.to/home) for more minimal experience.
 - [**KickAssAnime**](https://kickassanime.am/) <Badge type="info" text="Proxies" link="https://kickassanimes.info/" /> 🦆
   - Scrapes **Crunchyroll**(duckstream) and **Bilibili**(birdstream)
   - KAA encodes(videstreaming) are quite good(the new encodes) and loads better.
   - Duck has the highest overall bitrate but may have buffer issue.
   - Has both hardsub(duck) & softsub(rest)
   - Has missing titles. But, you can request them in their support server
-- [**Aniwatch**](https://aniwatch.to/home) <Badge text="formerly Zoro"/> <Badge type="info" text="Proxies" link="https://aniwatch.gg/" />
+- [**Aniwatch**](https://aniwatch.to/home) <Badge type="info" text="Proxies" link="https://aniwatch.gg/" />
   - Huge library with Watch Together feature
   - Re-encodes shows for smaller size with lower overall bitrate.
   - Softsubs may create issues in different scenarios, but can be beneficial for multi-language support
-- [**Animepahe**](https://animepahe.com/)
+- [**Animepahe**](https://animepahe.ru/) <Badge type="tip" text="2" link="https://animepahe.com/" /><Badge type="tip" text="3" link="https://animepahe.org" />
   - Uploads mini encoded files, useful if you want smaller files or have low bandwidth
   - Uploads **Blu-ray** and **DVD** versions if available
   - Has a good amount of missing titles
@@ -133,7 +132,7 @@ On Android, use <Badge type="tip" icon="i-custom-1dm" text="1DM" link="https://p
   - Great upload quality
   - Uses IPFS to stream anime
   - Small library & firefox isn't supported yet
-- [**Animeflix**](https://animeflix.live/)
+- [**Animeflix**](https://animeflix.live/) <Badge type="info" text="2" link="https://animeflix.icu/" />
   - The main sources are scraper based (Gogo & Zoro)
   - Crunchyroll is available for some of the titles
   - Uploads own encodes too with decent quality but not available for every title
