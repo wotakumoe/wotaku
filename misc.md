@@ -382,7 +382,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Siliconera](https://www.siliconera.com/)
 - [Touhou Yomoyama News](https://touhou-project.news/)
 
-:::details RSS
+== RSS
 
 ### Uploads
 - [Anidex](https://anidex.info/)
@@ -399,8 +399,11 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Livechart](https://www.livechart.me/pages/rss)
 - [Anime Schedule](https://animeschedule.net/rss)
 
+:::tip 💡 Quick Tips {open}
 
-[RSS Bridge](https://rss-bridge.org/bridge01/) can be used to get rss feed from other websites. `https://nitter.cz/[AccountID]/rss` for twitter RSS feed.
+- [RSS Bridge](https://rss-bridge.org/bridge01/) can be used to get rss feed from other websites.
+- `https://nitter.cz/[AccountID]/rss` for twitter RSS feed.
+-  Try [inoreader](https://www.inoreader.com/), [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) <Badge type="info" text="Android" /> .
 :::
 
 ![](/banner/others.png)
