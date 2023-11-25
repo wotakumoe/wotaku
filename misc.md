@@ -342,35 +342,11 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 >You can use [**Anna’s Archive**](https://annas-archive.org), [**Z-Library**](https://singlelogin.re/), [**PDF Drive**](https://www.pdfdrive.com/) & [**Mobilism**](https://forum.mobilism.org/viewforum.php?f=106) to download books.
 
-![](/banner/others.png)
-## Others
+![](/banner/portals.png)
+## Portals
 
 :::tabs
-== Recommendations
-
-- ANN TOP 100 [Manga](https://www.animenewsnetwork.com/encyclopedia/ratings-manga.php?top50=best_bayesian&n=100) | [Anime](https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=popular&n=100)
-- [r/Anime Recommendations](https://www.reddit.com/r/anime/wiki/recommendations/)
-- [u/FetchFrosh Recommendations](https://www.reddit.com/r/anime/comments/o16ipm/rebuild_of_the_ultimate_anime_recommendation/)
-- Visual Novel Recommendations
-    - [VNDB](https://vndb.org/v?f=022gja3gja&s=34w)
-    - [Starter pack](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub)
-    - [VN-chart by difficulty](https://anacreondjt.gitlab.io/vn-chart/)
-    - [r/Visualnovels](https://sites.google.com/view/rvisualnovels-recs/home)
-    - [r/VN's 2018](https://vnrecs.github.io/)
-    - [What are you reading?](https://some-guy.org/vnswayrarchive/recommendations)
-
-== Fansubbing
-
-- [Encode](https://guide.encode.moe/)
-- [Goodjob Media](https://www.goodjobmedia.com/fansubbing/)
-- [Subarashii Tutorial](https://subarashii-no-fansub.github.io/Subbing-Tutorial/)
-- [Unanimated](https://unanimated.github.io/guides.htm)
-- [Yukisubs](https://yukisubs.wordpress.com/guides/)
-- [Zeriyu's Fansub Guide](https://github.com/zeriyu/fansub-guide)
-
-== Portals
-
-### General
+== General
 - [AnimeCons](https://animecons.com/)
 - [Anime Collective](https://animecollective.com/)
 - [Anime News Network](https://www.animenewsnetwork.com/)
@@ -380,7 +356,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Yatta-Tachi](https://yattatachi.com/)
 - [Zimmerit](https://www.zimmerit.moe/)
 
-### Anime
+== Anime
 - [Anime Corner](https://animecorner.me/)
 - [Anitrendz](https://anitrendz.net/news/)
 - [Animétudes](https://animetudes.com/)
@@ -388,7 +364,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Let's Anime](https://letsanime.blogspot.com/)
 - [Sakuga Blog](https://blog.sakugabooru.com/)
 
-### Manga & LN
+== Manga & LN
 - [Ezrat](https://twitter.com/Erzat110)
 - [Josu Ke](https://twitter.com/Josu_ke)
 - [Manga Alerts](https://twitter.com/MangaAlerts)
@@ -398,7 +374,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [TheOASG](https://twitter.com/TheOASG)
 - [Deb Aoki](https://twitter.com/debaoki)
 
-### Games
+== Games
 - [4Gamer](https://www.4gamer.net/) 🇯🇵
 - [Famitsu](https://www.famitsu.com/) 🇯🇵
 - [Gematsu](https://www.gematsu.com/)
@@ -425,6 +401,33 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 
 [RSS Bridge](https://rss-bridge.org/bridge01/) can be used to get rss feed from other websites. `https://nitter.cz/[AccountID]/rss` for twitter RSS feed.
+:::
+
+![](/banner/others.png)
+## Others
+
+:::tabs
+== Recommendations
+
+- ANN TOP 100 [Manga](https://www.animenewsnetwork.com/encyclopedia/ratings-manga.php?top50=best_bayesian&n=100) | [Anime](https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=popular&n=100)
+- [r/Anime Recommendations](https://www.reddit.com/r/anime/wiki/recommendations/)
+- [u/FetchFrosh Recommendations](https://www.reddit.com/r/anime/comments/o16ipm/rebuild_of_the_ultimate_anime_recommendation/)
+- Visual Novel Recommendations
+    - [VNDB](https://vndb.org/v?f=022gja3gja&s=34w)
+    - [Starter pack](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub)
+    - [VN-chart by difficulty](https://anacreondjt.gitlab.io/vn-chart/)
+    - [r/Visualnovels](https://sites.google.com/view/rvisualnovels-recs/home)
+    - [r/VN's 2018](https://vnrecs.github.io/)
+    - [What are you reading?](https://some-guy.org/vnswayrarchive/recommendations)
+
+== Fansubbing
+
+- [Encode](https://guide.encode.moe/)
+- [Goodjob Media](https://www.goodjobmedia.com/fansubbing/)
+- [Subarashii Tutorial](https://subarashii-no-fansub.github.io/Subbing-Tutorial/)
+- [Unanimated](https://unanimated.github.io/guides.htm)
+- [Yukisubs](https://yukisubs.wordpress.com/guides/)
+- [Zeriyu's Fansub Guide](https://github.com/zeriyu/fansub-guide)
 
 :::
 
