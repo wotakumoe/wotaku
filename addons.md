@@ -138,6 +138,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 - [Spicetify](https://spicetify.app/)
 - [SPOTX](https://github.com/SpotX-Official/SpotX)
 - [Youtube Music](https://github.com/th-ch/youtube-music)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) <Badge type="info" text="GUI" link="https://github.com/kannagi0303/yt-dlp-gui" /><Badge type="info" text="GUI Installer" link="https://github.com/kazukikasama/youtube-dlp-gui-installer" /><Badge type="info" text="Stacher" link="https://stacher.io/" /> 🦆
 
 == mpv
 
@@ -214,7 +215,6 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 - [osu! Cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner)
 - [PreMiD](https://premid.app/)
 - [Textractor](https://github.com/Artikash/Textractor)
-- [yt-dlp GUI](https://github.com/kazukikasama/youtube-dlp-gui-installer) 🦆
 
 :::
 
@@ -308,6 +308,10 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 - [Max URL](https://github.com/qsniyg/maxurl)
 - [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE%2B)
 - [Handy Image](https://github.com/Owyn/HandyImage) <Badge type="tip" icon="i-custom-fork" text="Sleezy" link="https://sleazyfork.org/en/scripts/109-handy-image" />
+
+== Others
+
+- [Fandom Fixed](https://raw.githubusercontent.com/squabbled/FandomFixed/main/uBlock.txt)
 
 :::
 

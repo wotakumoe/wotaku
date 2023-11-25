@@ -376,6 +376,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Anime News Network](https://www.animenewsnetwork.com/)
 - [Crunchyroll News](https://www.crunchyroll.com/news)
 - [MAL News](https://myanimelist.net/news)
+- [ORICON NEWS](https://www.oricon.co.jp/) 🇯🇵
 - [Yatta-Tachi](https://yattatachi.com/)
 - [Zimmerit](https://www.zimmerit.moe/)
 
@@ -387,7 +388,8 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Let's Anime](https://letsanime.blogspot.com/)
 - [Sakuga Blog](https://blog.sakugabooru.com/)
 
-### Manga
+### Manga & LN
+- [Ezrat](https://twitter.com/Erzat110)
 - [Josu Ke](https://twitter.com/Josu_ke)
 - [Manga Alerts](https://twitter.com/MangaAlerts)
 - [Manga Mogura RE](https://twitter.com/MangaMoguraRE) 🦆
@@ -397,13 +399,12 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Deb Aoki](https://twitter.com/debaoki)
 
 ### Games
-- [4Gamer](https://www.4gamer.net/)
-- [Famitsu](https://www.famitsu.com/)
+- [4Gamer](https://www.4gamer.net/) 🇯🇵
+- [Famitsu](https://www.famitsu.com/) 🇯🇵
 - [Gematsu](https://www.gematsu.com/)
 - [Frontline](https://www.frontlinejp.net/)
 - [Siliconera](https://www.siliconera.com/)
 - [Touhou Yomoyama News](https://touhou-project.news/)
-
 
 :::details RSS
 
