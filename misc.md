@@ -401,9 +401,10 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 :::tip 💡 Quick Tips {open}
 
-- [RSS Bridge](https://rss-bridge.org/bridge01/) can be used to get rss feed from other websites.
+- [RSS Bridge](https://rss-bridge.org/bridge01/) & [RSSHub](https://docs.rsshub.app/) can be used to get rss feed from other websites.
 - `https://nitter.cz/[AccountID]/rss` for twitter RSS feed.
--  Try [inoreader](https://www.inoreader.com/), [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) <Badge type="info" text="Android" /> .
+- You can use [RSSHub](https://docs.rsshub.app/routes/social-media#pixiv) for Pixiv
+- Try [inoreader](https://www.inoreader.com/) & [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) as RSS Feed client.
 :::
 
 ![](/banner/others.png)
