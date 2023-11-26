@@ -138,7 +138,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 - [Spicetify](https://spicetify.app/)
 - [SPOTX](https://github.com/SpotX-Official/SpotX)
 - [Youtube Music](https://github.com/th-ch/youtube-music)
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) <Badge type="info" text="GUI" link="https://github.com/kannagi0303/yt-dlp-gui" /><Badge type="info" text="GUI Installer" link="https://github.com/kazukikasama/youtube-dlp-gui-installer" /><Badge type="info" text="Stacher" link="https://stacher.io/" /> 🦆
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) <Badge type="info" text="GUI" link="https://github.com/kannagi0303/yt-dlp-gui" /><Badge type="info" text="GUI Installer" link="https://github.com/kazukikasama/youtube-dlp-gui-installer" /> 🦆
 
 == mpv
 

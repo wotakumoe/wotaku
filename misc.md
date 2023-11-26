@@ -403,7 +403,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 - [RSS Bridge](https://rss-bridge.org/bridge01/) & [RSSHub](https://docs.rsshub.app/) can be used to get rss feed from other websites.
 - `https://nitter.cz/[AccountID]/rss` for twitter RSS feed.
-- You can use [RSSHub](https://docs.rsshub.app/routes/social-media#pixiv) for Pixiv
+- You can use [RSSHub](https://docs.rsshub.app/routes/social-media#pixiv) for Pixiv and other ACG sites.
 - Try [inoreader](https://www.inoreader.com/) & [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) as RSS Feed client.
 :::
 
