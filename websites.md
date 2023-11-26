@@ -54,10 +54,9 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 
 == Torrent
 
-- [Nyaa](https://nyaa.si/) <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /> 🦆
+- [Nyaa](https://nyaa.si/) <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="Alt" link="https://animetime.cc/" /> 🦆
 - [Anime Tosho](https://animetosho.org/) <Badge type="info" text="DDL" />
 - [Anidex](https://anidex.info/)
-- [Animetime](https://animetime.cc/)
 - [Anirena](https://www.anirena.com/)
 - [Shana Project](https://www.shanaproject.com/) <Badge type="info" text="Tokyo tosho" link="https://www.tokyotosho.info/" />
 - [Anime Bytes](https://animebytes.tv/) <Badge type="info" text="Private tracker" />
@@ -158,12 +157,13 @@ On Android, use <Badge type="tip" icon="i-custom-1dm" text="1DM" link="https://p
 
 == Others
 
-- **Regional**
-  - [Muse Asia](https://www.youtube.com/@MuseAsia/)
-  - [Ani-One Asia](https://www.youtube.com/AniOneAsia/)
-- **TV**
-  - [Funcube](https://funcube.space/) <Badge text="Backup" link="https://backup.funcube.space/" />
-  - [Toonami Aftermath](https://www.toonamiaftermath.com/)
+### Regional
+- [Muse Asia](https://www.youtube.com/@MuseAsia/)
+- [Ani-One Asia](https://www.youtube.com/AniOneAsia/)
+
+### TV
+- [Funcube](https://funcube.space/) <Badge text="Backup" link="https://backup.funcube.space/" />
+- [Toonami Aftermath](https://www.toonamiaftermath.com/)
 
 :::
 
@@ -222,7 +222,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Mangacultivator](https://mangacultivator.com) <Badge type="green" text="E" /><Badge type="info" text="Manhwa/hua centric" />
 - [Like Manga](https://likemanga.io) <Badge type="info" text="R-" /><Badge type="info" text="Manhwa/hua centric" />
 - [Manga Here](https://www.mangahere.cc/) <Badge type="info" text="2" link="https://fanfox.net/" /> <Badge type="danger" text="R+" />
-- [Manganato](https://chapmanganato.com/nato) <Badge type="warning" text="R" />
+- [Manganato](https://manganato.com/) <Badge type="warning" text="R" />
 
 == Nyaa
 
@@ -305,7 +305,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Drake Scans](https://drakescans.com/)  <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/50caf96d-fe2b-4638-9d13-4954b782e112/drake-scans" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/ktajd9u/drake-scans" />
 - [Manhua Ga](https://manhuaga.com/)
 - [Manhua Plus](https://manhuaplus.com/)  <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/3apm0du/manhua-plus" />
-- [Manhua SY](https://www.manhuasy.com/manhua/)  [Manga SY](https://www.mangasy.com/)
+- [Manhua SY](https://www.manhuasy.com/manhua/) & [Manga SY](https://www.mangasy.com/)
 - [Rizz Comic](https://rizzcomic.com/) + 🇰🇷  <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/g8dqjxt/realm-scans" />
 - [xCaliBR Scans](https://xcalibrscans.com/)  <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/ynopo9s/cursed-xcalibr" />
 
@@ -320,8 +320,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 == Stream
 
 ### OP/ED
-- [Anithemes.moe](https://animethemes.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/AnimeThemes" />
-- [Themes.moe](https://themes.moe/)
+- [Anithemes.moe](https://animethemes.moe/) <Badge type="info" text="Alt" link="https://themes.moe/" /><Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/AnimeThemes" />
 - [Karaoke Mugen](https://kara.moe)
 - [Squidify](https://www.squidify.org/)
 
@@ -559,7 +558,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 <Button link="https://rentry.org/pgames#untrusted-sites" icon="i-fxemoji-noentrysign"> List of Untrusted Game Downloading Websites</Button>
 
->Try searching with Japanese titles on Nyaa/Sukebei. Also, for Sukebei, try searching with the [DLSite](https://www.dlsite.com/index.html?locale=en_US) product ID.
+<Button link="https://www.dlsite.com/index.html?locale=en_US" icon="i-fxemoji-lightbulb">Try searching with Japanese titles on Nyaa/Sukebei. Also, for Sukebei, try searching with the DLSite product ID.</Button>
 
 ![](/banner/legal.png)
 
@@ -596,7 +595,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
   - [Tappytoon](https://www.tappytoon.com/en/comics/home)
   - [Webtoons](https://www.webtoons.com/en/)
 
-Websites for volume releases are added [here](/guides/digim.md)
+<Button link="/guides/digim.md" icon="i-fxemoji-lightbulb">Websites for volume releases are added here</Button>
 
 == Novel
 
