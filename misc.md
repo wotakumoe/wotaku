@@ -349,17 +349,18 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == General
 - [AnimeCons](https://animecons.com/)
 - [Anime Collective](https://animecollective.com/)
-- [Anime News Network](https://www.animenewsnetwork.com/)
+- [Anime News Network](https://www.animenewsnetwork.com/) 🦆
 - [Crunchyroll News](https://www.crunchyroll.com/news)
 - [MAL News](https://myanimelist.net/news)
 - [ORICON NEWS](https://www.oricon.co.jp/) 🇯🇵
+- [Otaku News](https://www.otakunews.com/)
 - [Yatta-Tachi](https://yattatachi.com/)
-- [Zimmerit](https://www.zimmerit.moe/)
+- [Zimmerit](https://www.zimmerit.moe/) 🦆
 
 == Anime
-- [Anime Corner](https://animecorner.me/)
+- [Anime Corner](https://animecorner.me/) 🦆
 - [Anitrendz](https://anitrendz.net/news/)
-- [Animétudes](https://animetudes.com/)
+- [Animétudes](https://animetudes.com/) 🦆
 - [AnimeTV](https://twitter.com/animetv_jp)
 - [Let's Anime](https://letsanime.blogspot.com/)
 - [Sakuga Blog](https://blog.sakugabooru.com/)
@@ -370,8 +371,8 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Manga Alerts](https://twitter.com/MangaAlerts)
 - [Manga Mogura RE](https://twitter.com/MangaMoguraRE) 🦆
 - [Manga Splaining](https://www.mangasplaining.com/)
-- [Shonen Jump News](https://twitter.com/WSJ_manga)
-- [TheOASG](https://twitter.com/TheOASG)
+- [Shonen Jump News](https://twitter.com/WSJ_manga) 🦆
+- [TheOASG](https://twitter.com/TheOASG) 🦆
 - [Deb Aoki](https://twitter.com/debaoki)
 
 == Games
@@ -385,19 +386,20 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == RSS
 
 ### Uploads
+- [nyaa](https://nyaa.si/) 🦆
 - [Anidex](https://anidex.info/)
-- [nyaa](https://nyaa.si/)
-- [Anime tosho](https://animetosho.org/)
+- [Anime tosho](https://animetosho.org/) 🦆
 - [Anime RSS](https://github.com/ArjixWasTaken/anime-rss)
 
 ### News
 - [Anime News Network](https://www.animenewsnetwork.com/newsfeed/)
 - [Crunchyroll](https://www.crunchyroll.com/feed)
 - [Manga Updates](https://www.mangaupdates.com/)
+- [Otaku News](https://www.otakunews.com/)
 
 ### Schedule
 - [Livechart](https://www.livechart.me/pages/rss)
-- [Anime Schedule](https://animeschedule.net/rss)
+- [Anime Schedule](https://animeschedule.net/rss) 🦆
 
 :::tip 💡 Quick Tips {open}
 
