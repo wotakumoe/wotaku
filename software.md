@@ -28,7 +28,7 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
   - Tracking & backup support
   - Local player support
   - Extensions often break
-- [**Dantotsu**](https://github.com/rebelonion/Dantotsu#dantotsu){target="_blank"}
+- [**Dantotsu**](https://github.com/rebelonion/Dantotsu#dantotsu){target="_blank"} <Badge type="info" icon="i-octicon-globe" text="Web" link="https://dantotsu.app/" />
   - App is based on saikou, uses tachiyomi & aniyomi plugins
   - ⚠️ App is alpha. So there are optimzation & stability issues
   - Decent UI but limited customization
@@ -189,7 +189,7 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
 
 ### Anime
 
-- [Miru](https://github.com/ThaUnknown/miru/)
+- [Miru](https://github.com/ThaUnknown/miru/) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://miru.pages.dev/" />
   - Torrent based
   - Pretty good UI with schedule and advanced search
   - Has AL tracking and RSS feed
