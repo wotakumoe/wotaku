@@ -120,6 +120,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 ### Anime
 - [Aniplaylist](https://aniplaylist.com/)
+- [Anime Song Lyrics](https://www.animesonglyrics.com/)
 
 ### Doujin
 - [VocaDB](https://vocadb.net/)
@@ -460,7 +461,6 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == Music
 
 - [Anime Music Quiz](https://animemusicquiz.com/)
-- [Anime Song Lyrics](https://www.animesonglyrics.com/)
 - [Cover Search Engine](https://covers.musichoarders.xyz/) 🦆
 - [Game Tabs](https://www.gametabs.net/)
 - [Songle](https://songle.jp/)
