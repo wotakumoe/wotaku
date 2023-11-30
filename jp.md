@@ -298,6 +298,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 
 - Dictionary
   - jidoujisho <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://github.com/lrorpilla/jidoujisho" />
+  - [JS-Dict](https://github.com/petlyh/JS-Dict)
   - [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380)
   - Takoboto <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=jp.takoboto" />
 - Practice
