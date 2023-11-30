@@ -392,7 +392,8 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Anime RSS](https://github.com/ArjixWasTaken/anime-rss)
 
 ### News
-- [Anime News Network](https://www.animenewsnetwork.com/newsfeed/)
+- [Anime Corner](https://animecorner.me/) 🦆
+- [Anime News Network](https://www.animenewsnetwork.com/newsfeed/) 🦆
 - [Crunchyroll](https://www.crunchyroll.com/feed)
 - [Manga Updates](https://www.mangaupdates.com/)
 - [Otaku News](https://www.otakunews.com/)
