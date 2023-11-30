@@ -210,6 +210,7 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 
 == Others
 
+- [Anicon](https://github.com/notdedsec/anicon)  <Badge type="info" text="Anilist" link="https://github.com/EnArvy/AniconforAnilist"/>
 - [Hydrus network](https://hydrusnetwork.github.io/hydrus/)
 - [Koneko](https://github.com/irevenko/koneko)
 - [osu! Cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner)
