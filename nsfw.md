@@ -38,7 +38,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [Hentai2read](https://hentai2read.com/) <tooltip>Combines Chapters of a series into a single entry unlike most sites so good to read doujin series.</tooltip>
 - [Akuma](https://akuma.moe/) <tooltip>EHentai clone.</tooltip>
 - [Nyaa Sukebei](https://sukebei.nyaa.si/) <tooltip>NSFW portion of nyaa.</tooltip>
-- [Chika Panda](https://panda.chaika.moe/) <tooltip>Archive of stuff removed from E-Hentai due to DMCA complaints. Has some obscure stuff deleted on most sites.</tooltip>
+- [Chaika Panda](https://panda.chaika.moe/) <tooltip>Archive of stuff removed from E-Hentai due to DMCA complaints. Has some obscure stuff deleted on most sites.</tooltip>
 
 :::details More {open}
 - [Pururin](https://pururin.to/)
@@ -46,6 +46,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [nyanpantsu](https://nyanpantsu.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/purpleblueslime/nyanpantsu" />
 
 == Manhwa
+- [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13)  <Badge type="info" text="DDL" />
 - [Batoto](https://battwo.com/v3x) <Badge type="tip" text="2" link="https://mangatoto.net/" /><Badge type="tip" text="3" link="https://mangatoto.com/" />
 - [Hiperdex](https://hiperdex.com/)
 - [Manhwa18](http://manhwa18.com/)
