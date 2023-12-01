@@ -539,6 +539,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 == Games
 
+### Free
 - [Holocure](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/)
 - [Idol Showdown](https://store.steampowered.com/app/1742020/Idol_Showdown/)
 - [Hololive Councilrys RPG](https://kebbie.itch.io/councilrysrpg)
@@ -548,7 +549,10 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Nameless](https://itch.io/queue/c/1018682/hololive-fangames?game_id=2365224)
 - [Pebble Jame](https://gioba-games.itch.io/pebble-jame)
 - [Holo on Watermelon](https://unityroom.com/games/holo_watermelon)
+
+### Paid
 - [hololive ERROR](https://store.steampowered.com/app/2062550/hololive_ERROR/)
+- [HoloParade](https://store.steampowered.com/app/2647230/HoloParade/)
 
 == Tools
 
