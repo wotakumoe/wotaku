@@ -387,7 +387,7 @@ Otaku resources for other languages/regions.
 - [Exmanga](https://github.com/skoniks/exmanga-ext)
 
 ### Brewing
-- [ANIFOX](https://anifox.club/anime) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/YockyMai/ANIFOX" /><Badge type="info" icon="/icon/russia.png" text="RU" />
+- [ANIFOX](https://anifox.club/anime) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/ANIFOX-CLUB/ANIFOX" /><Badge type="info" icon="/icon/russia.png" text="RU" />
 
 
 :::
