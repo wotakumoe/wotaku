@@ -44,10 +44,9 @@ Cool prospective projects under works worth looking into, or maybe contributing 
 - [Special Eureka](https://github.com/tonymushah/special-eureka)
 
 ### Anime
-- [Akari-DL](https://github.com/keisanng/akari-dl/)
 - [Anikki](https://github.com/Kylart/Anikki)
 - [Keroro](https://github.com/hotsno/keroro)
-- [NineAnimator-Tauri](https://github.com/Layendan/NineAnimator-Tauri)
+- [Layendanimator](https://github.com/Layendan/Layendanimator)
 - [Totoro](https://github.com/insomniachi/Totoro)
 
 
