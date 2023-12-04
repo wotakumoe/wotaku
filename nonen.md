@@ -368,7 +368,7 @@ Otaku resources for other languages/regions.
 
 ### Other Sites
 - [RanobeLib](https://ranobelib.me/)
-- [HentaiLib](https://hentailib.me/)
+- [HentaiLib](https://hentailib.me/) <Badge type="danger" text="R+" />
 
 ### Android
 - [AnilabX](https://github.com/CrazyXacker/anilabx) <Badge type="warning" text="Freemium" />
