@@ -14,21 +14,21 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 :::tabs
 == General
-- [AniList](https://anilist.co/)
+- [AniList](https://anilist.co/) 🦆
 - [Anime Planet](https://www.anime-planet.com/)
 - [AniSearch](https://www.anisearch.com/)
 - [Kitsu](https://kitsu.io/)
-- [MyAnimeList](https://myanimelist.net/)
+- [MyAnimeList](https://myanimelist.net/) 🦆
 
 == Anime
-- [aniDB](https://anidb.net/)
+- [aniDB](https://anidb.net/) 🦆
 - [Annict](https://annict.com/)
 - [SIMKL](https://simkl.com/)
 
 == Manga & LN
 - [Kenmei](https://www.kenmei.co/)
-- [Mangaupdates](https://www.mangaupdates.com/)
-- [Novel updates](https://www.novelupdates.com/)
+- [Mangaupdates](https://www.mangaupdates.com/) 🦆
+- [Novel updates](https://www.novelupdates.com/) 🦆
 
 == Others
 - [The Visual Novel Database](https://vndb.org/)
@@ -49,18 +49,18 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Fansub Database](https://fansubdb.com/)
 - [German Fansubbers' Index](https://anime-fansubs.de/)
 - [Indonesian Fansubbers' Index](https://www.fansub.id/home)
-- [Seiyuu.moe](https://seiyuu.moe/)
+- [Seiyuu.moe](https://seiyuu.moe/) 🦆
 - [Anime voice actor and seiyuu comparison](https://avac.moe/index.php)
 
 == Schedule
 
 - [Anica](https://anica.jp/)
-- [AniChart](https://anichart.net/)
+- [AniChart](https://anichart.net/) 🦆
 - [AnimeSchedule](https://animeschedule.net/)
 - [Anime Countdown](https://animecountdown.com/)
 - [Eronews](https://en.eroeronews.com/) <Badge type="danger" text="R+" /> 🦆
 - [Livechart](https://www.livechart.me/)
-- [Monthly.moe](https://www.monthly.moe/)
+- [Monthly.moe](https://www.monthly.moe/) 🦆
 - [Notify.moe](https://notify.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/animenotifier/notify.moe" />
 - [Senpai.moe](https://www.senpai.moe/)
 - [Syoboi Calendar](https://cal.syoboi.jp/)
@@ -631,19 +631,19 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 ### Reader
 - [Comicastle](https://www.comicastle.org/)
 - [Comic Extra](https://ww1.comicextra.com/)
-- [Read All Comics](https://readallcomics.com/)
+- [Read All Comics](https://readallcomics.com/) 🦆
 - [Read Comics Free](https://readcomicsfree.com/)
-- [Read Comic Online](https://readcomiconline.li/)
+- [Read Comic Online](https://readcomiconline.li/) 🦆
 - [Read Comics Online](https://readcomicsonline.ru/)
 - [View Comics](https://viewcomics.me/)
-- [XOXO Comics](https://xoxocomics.com/)
+- [XOXO Comics](https://xoxocomics.com/) 🦆
 
 ### Direct Download
 - [Anna’s Archive](https://annas-archive.org/)
 - [Desuarchive](https://desuarchive.org/) <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
 - [Get Comics](https://getcomics.info/) 🦆
 - [Comics All](https://comics-all.com/) | [New comic](https://newcomic.info/)
-- [Libgen](https://libgen.is/)
+- [Libgen](https://libgen.li/)
 
 ### Tracker
 - [League of Comic Geeks](https://leagueofcomicgeeks.com/)
