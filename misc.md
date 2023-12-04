@@ -546,9 +546,10 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Hololive Councilrys RPG](https://kebbie.itch.io/councilrysrpg)
 - [Idol Showdown](https://store.steampowered.com/app/1742020/Idol_Showdown/) 🦆
 - [Mumei's Memory Juggling](https://david-wu-softdev.itch.io/mumeis-memory-juggling)
-- [Nameless](https://itch.io/queue/c/1018682/hololive-fangames?game_id=2365224) 🦆
+- [Nameless](https://sk-jynx.itch.io/nameless) 🦆
 - [Pebble Jame](https://gioba-games.itch.io/pebble-jame)
 - [smol Ame](https://moocow-games.itch.io/smol-ame)
+- [Hololive itch.io collection by David Wu SoftDev](https://itch.io/c/1018682/hololive-fangames)
 
 ### Paid
 - [hololive ERROR](https://store.steampowered.com/app/2062550/hololive_ERROR/)
