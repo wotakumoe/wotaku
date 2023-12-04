@@ -184,7 +184,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
   - Uploads from various scanlation groups
   - No official translations<sup>[*](https://mangadex.org/rules#content_restrictions)</sup> since it was created for fansub
   - May remove content if there is a DMCA request by the publisher or doesn't allow upload at all (e.g. One Punch-Man)
-- [**Comick**](https://comick.app/home) <Badge type="tip" text="2" link="https://comick.ink/" /><Badge type="tip" text="3" link="https://comick.cc/" /><Badge type="danger" text="R+" /> 🦆
+- [**Comick**](https://comick.ink/home) <Badge type="tip" text="2" link="https://comick.cc/" /><Badge type="danger" text="R+" /> 🦆
   - Minimal compression
   - Aggregates from various scanlation groups
   - Has official translations
