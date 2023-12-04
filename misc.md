@@ -540,15 +540,15 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == Games
 
 ### Free
-- [Holocure](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/)
-- [Idol Showdown](https://store.steampowered.com/app/1742020/Idol_Showdown/)
-- [Hololive Councilrys RPG](https://kebbie.itch.io/councilrysrpg)
-- [smol Ame](https://moocow-games.itch.io/smol-ame)
 - [Delivering Hope](https://david-wu-softdev.itch.io/delivering-hope-hololive-fangame)
-- [Mumei's Memory Juggling](https://david-wu-softdev.itch.io/mumeis-memory-juggling)
-- [Nameless](https://itch.io/queue/c/1018682/hololive-fangames?game_id=2365224)
-- [Pebble Jame](https://gioba-games.itch.io/pebble-jame)
 - [Holo on Watermelon](https://unityroom.com/games/holo_watermelon)
+- [Holocure](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/) 🦆
+- [Hololive Councilrys RPG](https://kebbie.itch.io/councilrysrpg)
+- [Idol Showdown](https://store.steampowered.com/app/1742020/Idol_Showdown/) 🦆
+- [Mumei's Memory Juggling](https://david-wu-softdev.itch.io/mumeis-memory-juggling)
+- [Nameless](https://itch.io/queue/c/1018682/hololive-fangames?game_id=2365224) 🦆
+- [Pebble Jame](https://gioba-games.itch.io/pebble-jame)
+- [smol Ame](https://moocow-games.itch.io/smol-ame)
 
 ### Paid
 - [hololive ERROR](https://store.steampowered.com/app/2062550/hololive_ERROR/)
