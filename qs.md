@@ -24,10 +24,10 @@ The basic things to get you started.
 
 == Music
 
+- [Nyaa](https://nyaa.si/) <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="Torrent" />
 - [Sukidesu OST](https://sukidesuost.info/) <Badge type="info" text="Mega" /><Badge type="info" text="Torrent" />
 - [Sitting on Clouds](https://www.sittingonclouds.net/) <Badge text="DDL" />
 - [Anithemes.moe](https://animethemes.moe/) <Badge text="stream" />
-- [Squidify](https://www.squidify.org/) <Badge text="stream" />
 
 == Torrent
 
