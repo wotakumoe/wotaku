@@ -15,8 +15,8 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [Eronews](https://en.eroeronews.com/) <Badge type="tip" text="Schedule & News" />
 - [AnimeID Hentai](https://animeidhentai.com/)
 - [Haho](https://haho.moe/)
-- [Hanime](https://hanime.tv/) <Badge type="info" text="720p" />
-- [Hentai Bar](https://hentaibar.com/)
+- [Hanime](https://hanime.tv/) <Badge type="info" text="720p" /> 🦆
+- [Hentai Bar](https://hentaibar.com/) 🦆
 - [Hentai Haven](https://hentaihaven.xxx/)
 - [Hentai Mama](https://hentaimama.io/)
 - [Hentai Stream](https://hstream.moe/) <Badge type="info" text="4K" />
@@ -50,9 +50,9 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [Batoto](https://battwo.com/v3x) <Badge type="tip" text="2" link="https://mangatoto.net/" /><Badge type="tip" text="3" link="https://mangatoto.com/" />
 - [Hiperdex](https://hiperdex.com/)
 - [Manhwa18](http://manhwa18.com/)
-- [Manytoon](https://manytoon.com/)
-- [Oppai Stream](https://read.oppai.stream/)
-- [Toonily](https://toonily.com/)
+- [Manytoon](https://manytoon.com/) 🦆
+- [Oppai Stream](https://read.oppai.stream/) 🦆
+- [Toonily](https://toonily.com/) 🦆
 - [Webtoon](https://www.webtoon.xyz/)
 
 :::details Scanlators {open}
@@ -65,13 +65,13 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [Aksy Scans](https://mangadex.org/group/258e6c49-e780-408e-bc48-c981d8e58c75/aksyscans)
 
 == Illustrations
-- [Booruwf](https://booru.pixiv.pics/) <Badge type="tip" text="Moeview" link="https://moeview.pixiv.pics/" /> <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/asadahimeka/booruwf-web" />
+- [Booruwf](https://booru.pixiv.pics/) <Badge type="tip" text="Moeview" link="https://moeview.pixiv.pics/" /> <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/asadahimeka/booruwf-web" /> 🦆
 - [Danbooru](https://danbooru.donmai.us/)
 - [Gelbooru](https://gelbooru.com/)
 - [Kona chan](https://konachan.com/)
 - [Oreno3D](https://oreno3d.com/)
 - [Pixiv](https://www.pixiv.net)
-- [Pixiv Viewer](https://pixiv.pics/)
+- [Pixiv Viewer](https://pixiv.pics/) 🦆
 - [Rule34](https://rule34.xxx/)
 - [Rule34.dev](https://rule34.dev/)
 - [Sankaku Complex](https://chan.sankakucomplex.com/)
@@ -89,7 +89,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY)
 - [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta)
 - [EhViewer](https://github.com/FooIbar/EhViewer)
-- [Hentaoid](https://github.com/avluis/Hentoid)
+- [Hentoid](https://github.com/avluis/Hentoid)
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
 - [Jasmine](https://github.com/niuhuan/jasmine)
 - [NClientV2](https://github.com/Dar9586/NClientV2)
