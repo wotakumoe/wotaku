@@ -312,7 +312,8 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 
 == Others
 
-- [Fandom Fixed](https://raw.githubusercontent.com/squabbled/FandomFixed/main/uBlock.txt)
+- [Fandom Fixed](https://github.com/squabbled/FandomFixed)
+- Game DL Links on <Badge type="tip" text="GOG" link="https://greasyfork.org/en/scripts/481134-gog-to-free-download-site" /> <Badge type="tip" text="Steam" link="https://greasyfork.org/en/scripts/481139-steam-to-free-download-site" />
 
 :::
 
