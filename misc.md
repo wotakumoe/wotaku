@@ -184,7 +184,8 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Safebooru](https://safebooru.org/) <Badge type="green" text="E" />
 - [Yandere](https://yande.re/post) <Badge type="danger" text="R+" />
 - [Zerochan](https://www.zerochan.net/) <Badge type="warning" text="R" />
-- [/w/](http://catalog.neet.tv/w/) <Badge type="danger" text="R+" />
+- [Wallhave](https://wallhaven.cc/)
+- [🍀/w/](http://catalog.neet.tv/w/) <Badge type="danger" text="R+" />
 
 ![](/banner/jp.png)
 

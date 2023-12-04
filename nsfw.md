@@ -131,7 +131,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [ASMR Online](https://asmr.one/)
 - [F95Zone](https://f95zone.to/) <Badge type="info" text="Needs account" />
 - [HentTag](https://hentag.com/)
-- [HMV Mania](https://hmvmania.com/) <Badge type="tip" text="/h/ thread" link="https://anychans.github.io/4chan/h/7621997" /><Badge type="tip" text="Archive" link="https://archived.moe/h/thread/7621997/" />
+- [HMV Mania](https://hmvmania.com/) <Badge type="tip" text="🍀/h/ thread" link="https://anychans.github.io/4chan/h/7621997" /><Badge type="tip" text="Archive" link="https://archived.moe/h/thread/7621997/" />
 - [Kasumi](http://xdcc.kasumi.moe/) <Badge type="tip" text="Guide" link="http://kasumi.moe/guide/" />
 - [Kemono](https://kemono.su/)
 - [Anime-sharing](http://www.anime-sharing.com/forum/)
@@ -157,8 +157,8 @@ Everyone has to let off some steam once in a while, we don't judge.
 
 - [r/hentai](https://www.reddit.com/r/hentai/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.com/invite/rhentai" />
 - [r/pornhwa](https://www.reddit.com/r/pornhwa/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.com/invite/epjkRVp7gD" />
-- [/h/ Hentai](https://boards.4chan.org/h/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/h/" /><Badge type="tip" text="Archive" link="https://archived.moe/h/" />
-- [/e/ Ecchi](https://boards.4chan.org/e/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/e/" /><Badge type="tip" text="Archive" link="https://archived.moe/e/" />
+- [🍀/h/](https://boards.4chan.org/h/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/h/" /><Badge type="tip" text="Archive" link="https://archived.moe/h/" />
+- [🍀/e/](https://boards.4chan.org/e/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/e/" /><Badge type="tip" text="Archive" link="https://archived.moe/e/" />
 - [r/Artistic_Hentai](https://www.reddit.com/r/Artistic_Hentai/)
 - [r/Artistic_Ecchi](https://www.reddit.com/r/Artistic_Ecchi/)
 - [r/doujinshi](https://www.reddit.com/r/doujinshi/)
@@ -167,7 +167,6 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [r/HENTAI_GIF](https://www.reddit.com/r/HENTAI_GIF/)
 - [r/rule34](https://www.reddit.com/r/rule34/)
 - [r/thighdeology](https://www.reddit.com/r/thighdeology/)
-- [jdc](https://discord.gg/jdc)
 
 == Scripts
 
