@@ -281,67 +281,75 @@ Interested in learning the japanese language? Here you can find resources to aid
 == Anki
 
 - [Anki](https://apps.ankiweb.net/) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.ichi2.anki" /><Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/ankimobile-flashcards/id373493387" /><Badge type="tip" text="Guide" link="https://tatsumoto.neocities.org/blog/setting-up-anki" />
-- Card templates
-  - [jp-mining-note](https://aquafina-water-bottle.github.io/jp-mining-note/)
-  - [Xelieu's Modified Anime Card](https://xelieu.github.io/jp-lazy-guide/)
-  - [Anki Prettify](https://github.com/pranavdeshai/anki-prettify)
-- Decks
-  - [Core 2k/6k Optimized Japanese Vocabulary Anki](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) 
-  - [DoJG Deck](https://dojgdeck.neocities.org/) 
-  - [Japanese course based on Tae Kim's grammar guide & anime](https://ankiweb.net/shared/info/911122782) 
-  - [KanjiDamage](https://ankiweb.net/shared/info/748570187) 
-  - [Kanken Deck](https://ankiweb.net/shared/info/759825185) | [2](https://ankiweb.net/shared/info/1113953752) 
-  - [Kodansha kanji learner's course with vocabulary](https://ankiweb.net/shared/info/779483253) 
-  - [Wanikani Ultimate 3](https://www.mediafire.com/file/i9vusrdzr20v43z/Wanikani_Ultimate_3__Tokyo_Drift_-\_2023-06-24.apkg/file) <Badge type="tip" text="Support" link="https://discord.gg/cSEXEB5DgF" />
+
+### Card templates
+- [jp-mining-note](https://aquafina-water-bottle.github.io/jp-mining-note/)
+- [Xelieu's Modified Anime Card](https://xelieu.github.io/jp-lazy-guide/)
+- [Anki Prettify](https://github.com/pranavdeshai/anki-prettify)
+
+### Decks
+- [Core 2k/6k Optimized Japanese Vocabulary Anki](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) 
+- [DoJG Deck](https://dojgdeck.neocities.org/) 
+- [Japanese course based on Tae Kim's grammar guide & anime](https://ankiweb.net/shared/info/911122782) 
+- [KanjiDamage](https://ankiweb.net/shared/info/748570187) 
+- [Kanken Deck](https://ankiweb.net/shared/info/759825185) | [2](https://ankiweb.net/shared/info/1113953752) 
+- [Kodansha kanji learner's course with vocabulary](https://ankiweb.net/shared/info/779483253) 
+- [Wanikani Ultimate 3](https://www.mediafire.com/file/i9vusrdzr20v43z/Wanikani_Ultimate_3__Tokyo_Drift_-\_2023-06-24.apkg/file) <Badge type="tip" text="Support" link="https://discord.gg/cSEXEB5DgF" />
 
   == Learning tools
 
-- Dictionary
-  - jidoujisho <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://github.com/lrorpilla/jidoujisho" />
-  - [JS-Dict](https://github.com/petlyh/JS-Dict)
-  - [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380)
-  - Takoboto <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=jp.takoboto" />
-- Practice
-  - Learn Japanese! - Kanji <Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/learn-japanese-kanji/id1078107994" />
-  - Kana - Hiragana and Katakana <Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/kana-hiragana-and-katakana/id1454200955" />
-  - [Kanji Garden](https://kanji.garden/) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=is.ky.kanjigarden&hl=en&gl=US" /><Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/kanji-garden-japanese/id1338967114" />
-- Reader 
-  - [Easy Japanese](https://easyjapanese.net/) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=mobi.eup.jpnews&hl=en&gl=US" /><Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/easy-japanese-news-%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/id1107177166" />
-  - [Immersion Reader](https://reader.immersionkit.com/) <Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/immersion-reader/id6443721334" />
-  - Japanese Kanji Study <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy&hl=en&gl=US" />
-  - [mokuro](https://github.com/kha-white/mokuro) 
-  - [ttu ttu Ebook Reader](https://github.com/ttu-ttu/ebook-reader) 
-  - [Typhon Reader](https://play.google.com/store/apps/details?id=net.zorgblub.typhon) 
-  - [Satori Reader](https://www.satorireader.com/) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.braksoftware.SatoriReader&hl=en&gl=US" /><Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/satori-reader/id1382950847" />
-  - Write It! Japanese <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.jernung.writeit.jpn&hl=en&gl=US" /><Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/write-it-japanese/id1268225663" />
-- Word Lookup
-  - [JL](https://github.com/rampaa/JL)
+### Dictionary
+- jidoujisho <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://github.com/lrorpilla/jidoujisho" />
+- [JS-Dict](https://github.com/petlyh/JS-Dict)
+- [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380)
+- Takoboto <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=jp.takoboto" />
+
+### Practice
+- Learn Japanese! - Kanji <Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/learn-japanese-kanji/id1078107994" />
+- Kana - Hiragana and Katakana <Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/kana-hiragana-and-katakana/id1454200955" />
+- [Kanji Garden](https://kanji.garden/) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=is.ky.kanjigarden&hl=en&gl=US" /><Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/kanji-garden-japanese/id1338967114" />
+
+### Reader 
+- [Easy Japanese](https://easyjapanese.net/) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=mobi.eup.jpnews&hl=en&gl=US" /><Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/easy-japanese-news-%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/id1107177166" />
+- [Immersion Reader](https://reader.immersionkit.com/) <Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/immersion-reader/id6443721334" />
+- Japanese Kanji Study <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy&hl=en&gl=US" />
+- [mokuro](https://github.com/kha-white/mokuro) 
+- [ttu ttu Ebook Reader](https://github.com/ttu-ttu/ebook-reader) 
+- [Typhon Reader](https://play.google.com/store/apps/details?id=net.zorgblub.typhon) 
+- [Satori Reader](https://www.satorireader.com/) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.braksoftware.SatoriReader&hl=en&gl=US" /><Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/satori-reader/id1382950847" />
+- Write It! Japanese <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.jernung.writeit.jpn&hl=en&gl=US" /><Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/write-it-japanese/id1268225663" />
+
+### Word Lookup
+- [JL](https://github.com/rampaa/JL)
   
 == Tools
 
-- Media Player
-  - [Anime Subtitle Player](https://github.com/LostArrows27/anime-subtitle-player)
-  - [mpvacious](https://github.com/Ajatt-Tools/mpvacious)
-  - [memento](https://github.com/ripose-jp/Memento)
-  - [Asbplayer](https://killergerbah.github.io/asbplayer/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/killergerbah/asbplayer" />
-  - [Voracious](https://voracious.app/)
-- Extension
-  - [10ten Japanese Reader](https://github.com/birchill/10ten-ja-reader)
-  - [jimaku player](https://github.com/sheodox/jimaku-player)
-  - [JP Study tools](https://github.com/rudnam/JP-study)
-  - [Language Reactor](https://www.languagereactor.com/)
-  - [mirigana](https://github.com/mirigana/mirigana)
-  - [rikaikun](https://github.com/melink14/rikaikun)
-  - [Yomichan](https://foosoft.net/projects/yomichan/) <Badge type="tip" text="Guide" link="https://learnjapanese.moe/yomichan/" />
-  - [Yomichan Dictionaries](https://github.com/MarvNC/yomichan-dictionaries/)
-  - [Yomichan Grammar Dictionaries](https://github.com/aiko-tanaka/Grammar-Dictionaries)
-  - [JPDB Web Reader](https://github.com/max-kamps/jpd-breader)
-- Condensed Audio
-  - [subs2cia](https://github.com/dxing97/subs2cia)
-  - [Automatic Condensed Audio Dialogue Script](https://anacreondjt.gitlab.io/docs/condensed_audio/)
-- Misc
-  - [EXSTATIC](https://github.com/KamWithK/exSTATic)
-  - [Textractor](https://github.com/Artikash/Textractor)
+### Media Player
+- [Anime Subtitle Player](https://github.com/LostArrows27/anime-subtitle-player)
+- [mpvacious](https://github.com/Ajatt-Tools/mpvacious)
+- [memento](https://github.com/ripose-jp/Memento)
+- [Asbplayer](https://killergerbah.github.io/asbplayer/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/killergerbah/asbplayer" />
+- [Voracious](https://voracious.app/)
+
+### Extension
+- [10ten Japanese Reader](https://github.com/birchill/10ten-ja-reader)
+- [jimaku player](https://github.com/sheodox/jimaku-player)
+- [JP Study tools](https://github.com/rudnam/JP-study)
+- [Language Reactor](https://www.languagereactor.com/)
+- [mirigana](https://github.com/mirigana/mirigana)
+- [rikaikun](https://github.com/melink14/rikaikun)
+- [Yomichan](https://foosoft.net/projects/yomichan/) <Badge type="tip" text="Guide" link="https://learnjapanese.moe/yomichan/" />
+- [Yomichan Dictionaries](https://github.com/MarvNC/yomichan-dictionaries/)
+- [Yomichan Grammar Dictionaries](https://github.com/aiko-tanaka/Grammar-Dictionaries)
+- [JPDB Web Reader](https://github.com/max-kamps/jpd-breader)
+
+### Condensed Audio
+- [subs2cia](https://github.com/dxing97/subs2cia)
+- [Automatic Condensed Audio Dialogue Script](https://anacreondjt.gitlab.io/docs/condensed_audio/)
+
+### Misc
+- [EXSTATIC](https://github.com/KamWithK/exSTATic)
+- [Textractor](https://github.com/Artikash/Textractor)
 
 :::
 
