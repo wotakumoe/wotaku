@@ -13,7 +13,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 :::tabs
 == Starter
 - [Tatsumoto's Guide to Learn Japanese](https://tatsumoto.neocities.org/)
-- [Refold Japanese](https://refold.la/) | [Docs](https://docs.google.com/document/d/1tQmoGwCJQqmjdmaQdigAG0Ph1ODSMsGhsD7qOhlUuc0/edit)
+- [Refold Japanese](https://refold.la/) <Badge type="tip" text="Docs" link="https://docs.google.com/document/d/1tQmoGwCJQqmjdmaQdigAG0Ph1ODSMsGhsD7qOhlUuc0/edit" />
 - [Perdition](https://perdition-japanese.github.io/posts/how-to-study-japanese/)
 - [Acquiring Japanese Efficiently](https://docs.google.com/document/d/1LH82FjsCqCgp6-TFqUcS_EB15V7sx7O1VCjREp6Lexw/edit)
 - [r/LearnJapanese](https://www.reddit.com/r/LearnJapanese/wiki/index/startersguide/)
@@ -23,8 +23,8 @@ Interested in learning the japanese language? Here you can find resources to aid
 
 == Guides
 - [TOFUGU](https://www.tofugu.com/)
-    - [Learn Hiragana](https://www.tofugu.com/japanese/learn-hiragana/) | [PDF](https://www.tofugu.com/japanese/learn-hiragana-book-pdf/)
-    - [Learn Katakana](https://www.tofugu.com/japanese/learn-katakana/) | [PDF](https://www.tofugu.com/japanese/learn-katakana-book-pdf/)
+    - [Learn Hiragana](https://www.tofugu.com/japanese/learn-hiragana/) <Badge type="tip" text="PDF" link="https://www.tofugu.com/japanese/learn-hiragana-book-pdf/" />
+    - [Learn Katakana](https://www.tofugu.com/japanese/learn-katakana/) <Badge type="tip" text="PDF" link="https://www.tofugu.com/japanese/learn-katakana-book-pdf/" />
     - [The Best Kanji Learning Programs](https://www.tofugu.com/japanese/best-kanji-learning-programs/)
 - [itazuraneko](https://djtguide.github.io/learn/learnmain.html)
 - [Tae Kim's Guide](https://guidetojapanese.org/learn/)
@@ -54,7 +54,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 ### Guides
 - [TOFUGU](https://www.tofugu.com/japanese/japanese-pronunciation/)
 - [Kanshudo](https://www.kanshudo.com/howto/pitch)
-- [Kezi](https://kez.io/notes/japanese/accent) | [Gist](https://gist.github.com/k3zi/3f38070efffa38db83cd5745d83b1235)
+- [Kezi](https://kez.io/notes/japanese/accent) <Badge type="tip" text="Gist" link="https://gist.github.com/k3zi/3f38070efffa38db83cd5745d83b1235" />
 - [The Pitch Accent Journey](https://docs.google.com/document/d/1ReBf08JFK4n0PXdOxThAfWuiK9UWVZEWWzeKSECWTQo/edit)
 - [Resources for pitch accent](https://xythh.github.io/resources)
 
@@ -88,7 +88,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Kaname Naito](https://www.youtube.com/@kanamenaito)
 - [Miku Real Japanese](https://www.youtube.com/channel/UCsQCbl3a9FtYvA55BxdzYiQ/)
 - [Onomappu](https://www.youtube.com/@Onomappu/)
-- [Organic Japanese with Cure Dolly](https://www.youtube.com/channel/UCkdmU8hGK4Fg3LghTVtKltQ) | [Textbook](https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit)
+- [Organic Japanese with Cure Dolly](https://www.youtube.com/channel/UCkdmU8hGK4Fg3LghTVtKltQ) <Badge type="tip" text="Textbook" link="https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit" />
 - [Sambon Juku](https://www.youtube.com/channel/UC0ujXryUUwILURRKt9Eh7Nw)
 - [Tae Kim](https://www.youtube.com/@taekimjapanese)
 - [ToKini Andy](https://www.youtube.com/@ToKiniAndy)
@@ -155,7 +155,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 
 ### Others
 - [Condensed Audio Catalog](https://condensedaudiocatalog.com/)
-- [Japanese Condensed Audio](https://mega.nz/folder/8HhhWDyJ#SHw5xsYxyhWUX536UcqkeQ) | [2](https://mega.nz/folder/N4d3STJC#w3wPPgk9UgD6qE_UvjtB8Q)
+- [Japanese Condensed Audio](https://mega.nz/folder/8HhhWDyJ#SHw5xsYxyhWUX536UcqkeQ) <Badge type="tip" text="2" link="https://mega.nz/folder/N4d3STJC#w3wPPgk9UgD6qE_UvjtB8Q" />
 
 == Others
 
@@ -204,15 +204,15 @@ Interested in learning the japanese language? Here you can find resources to aid
 
 == N5 & N4
 ### Grammar
-- [Genki Textbook Volume 1](https://www.amazon.com/Genki-Vol-1-Textbook-3e-ed/dp/4789017303) | [Workbook](https://www.amazon.com/Genki-Vol-1-Workbook-3e-ed/dp/4789017311)
-- [Genki Textbook Volume 2](https://www.amazon.com/Genki-Integrated-Elementary-Japanese-Multilingual/dp/478901732X) | [Workbook](https://www.amazon.com/Genki-Integrated-Elementary-Japanese-Multilingual/dp/4789017338)
+- [Genki Textbook Volume 1](https://www.amazon.com/Genki-Vol-1-Textbook-3e-ed/dp/4789017303) <Badge type="tip" text="Workbook" link="https://www.amazon.com/Genki-Vol-1-Workbook-3e-ed/dp/4789017311" />
+- [Genki Textbook Volume 2](https://www.amazon.com/Genki-Integrated-Elementary-Japanese-Multilingual/dp/478901732X) <Badge type="tip" text="Workbook" link="https://www.amazon.com/Genki-Integrated-Elementary-Japanese-Multilingual/dp/4789017338" />
 - [Genki Answer Key](https://www.amazon.com/GENKI-Integrated-Elementary-Japanese-E8-A7-A3-E7-AD-94-E3-80-90-E7-AC-AC3-E7-89-88-E3-80-91-dp-478/dp/4789017362)
-- [Tobira 1: Beginning Japanese](https://www.amazon.com/Tobira-Beginning-Japanese-Resources-Multilingual/dp/4874248705) | [2](https://www.amazon.com/Tobira-II-Beginning-Japanese-Multilingual/dp/4874249000)
+- [Tobira 1: Beginning Japanese](https://www.amazon.com/Tobira-Beginning-Japanese-Resources-Multilingual/dp/4874248705) <Badge type="tip" text="2" link="https://www.amazon.com/Tobira-II-Beginning-Japanese-Multilingual/dp/4874249000" />
 - [Nihongo Fun&Easy](https://www.amazon.com/NIHONGO-FUN-EASY-Conversation-Beginners/dp/4872177215)
-- [Minna No Nihongo 1](https://www.amazon.com/Minna-No-Nihongo-Beginner-2nd/dp/4883196038) | [2](https://www.amazon.com/Minna-Nihongo-II-Main-Textbook/dp/4883196461) | [Workbook](https://www.amazon.com/Nihongo-Shokyu-Workbook-Hyojun-Mondaishu/dp/4883196631/)
+- [Minna No Nihongo 1](https://www.amazon.com/Minna-No-Nihongo-Beginner-2nd/dp/4883196038) <Badge type="tip" text="2" link="https://www.amazon.com/Minna-Nihongo-II-Main-Textbook/dp/4883196461" /> <Badge type="tip" text="Workbook" link="https://www.amazon.com/Nihongo-Shokyu-Workbook-Hyojun-Mondaishu/dp/4883196631/" />
 
 ### Kanji
-- [Remembering the Kanji 1](https://www.amazon.com/gp/product/0824835921) | [2](https://www.amazon.com/gp/product/0824836693) <Badge type="info" text="General" />
+- [Remembering the Kanji 1](https://www.amazon.com/gp/product/0824835921) <Badge type="tip" text="2" link="https://www.amazon.com/gp/product/0824836693" /> <Badge type="info" text="General" />
 - [The Kodansha Kanji Learner's Course](https://www.amazon.com/Kodansha-Kanji-Learners-Course-Step/dp/1568365268)
 - [Kanji Look and Learn](https://www.amazon.com/Kanji-Look-Learn-Eri-Banno/dp/4789013499)
 - [Tobira: Power Up Your Kanji](https://www.amazon.com/gp/product/4874244874)
@@ -221,7 +221,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Tadoku Books](https://www.reddit.com/r/LearnJapanese/comments/o7x7ha/2021_updated_free_tadoku_graded_reader_pdfs_1796/) <Badge type="info" text="General" />
 
 ### Vocabulary
-- [JLPT Tango N5](https://www.amazon.com/Japanese-Vocabulary-Words-Language-Proficiency/dp/4872179811) | [N4](https://www.amazon.com/JAPANESE-VOCABULARY-WORDS-Trilingue-Japonais/dp/487217982X)
+- [JLPT Tango N5](https://www.amazon.com/Japanese-Vocabulary-Words-Language-Proficiency/dp/4872179811) <Badge type="tip" text="N4" link="https://www.amazon.com/JAPANESE-VOCABULARY-WORDS-Trilingue-Japonais/dp/487217982X" />
 
 == N3
 
@@ -294,7 +294,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [DoJG Deck](https://dojgdeck.neocities.org/) 
 - [Japanese course based on Tae Kim's grammar guide & anime](https://ankiweb.net/shared/info/911122782) 
 - [KanjiDamage](https://ankiweb.net/shared/info/748570187) 
-- [Kanken Deck](https://ankiweb.net/shared/info/759825185) | [2](https://ankiweb.net/shared/info/1113953752) 
+- [Kanken Deck](https://ankiweb.net/shared/info/759825185) <Badge type="tip" text="2" link="https://ankiweb.net/shared/info/1113953752" />
 - [Kodansha kanji learner's course with vocabulary](https://ankiweb.net/shared/info/779483253) 
 - [Wanikani Ultimate 3](https://www.mediafire.com/file/i9vusrdzr20v43z/Wanikani_Ultimate_3__Tokyo_Drift_-\_2023-06-24.apkg/file) <Badge type="tip" text="Support" link="https://discord.gg/cSEXEB5DgF" />
 
