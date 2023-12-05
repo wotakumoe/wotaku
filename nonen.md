@@ -105,6 +105,7 @@ Otaku resources for other languages/regions.
 == Others
 
 ### Android
+- [AGETV](https://github.com/muedsa/AGETV) <Badge text="Stream" />
 - [Bangumi](https://github.com/czy0729/Bangumi) <Badge text="Apple" /><Badge text="Android" /><Badge text="Tracker" />
 - [Bangumi MX](http://bgmx.mysxl.cn/) <Badge text="Tracker" />
 - [Copy MangaX](https://github.com/CrowForKotlin/CopyMangaX) <Badge text="Manga" />
