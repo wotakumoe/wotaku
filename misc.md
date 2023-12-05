@@ -615,6 +615,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 ### Twitter
 - [Holoデータ分析](https://twitter.com/Holo_Data)
 - [HoloENFans](https://twitter.com/HEFSdiscord)
+- [Kris the Holoprosimp](https://twitter.com/KHolosimp)
 - [Tentacult Temple](https://twitter.com/Takodachis)
 - [VTubers Out Of Context](https://twitter.com/ENVTubersOOC)
 - [Chroneco](https://twitter.com/chrone_co)

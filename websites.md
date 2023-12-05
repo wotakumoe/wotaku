@@ -19,7 +19,7 @@ Online resources for anime, manga, novels and more.
 :::
 
 ::: tip Ad blocking {open}
-Use <Badge type="tip" icon="i-custom-ada" text="AdAway" link="https://adaway.org/" /> or <Badge type="tip" icon="i-custom-adg" text="Adguard" link="https://adguard.com/en/welcome.html" /> on Android and <Badge type="tip" icon="i-custom-ubo" text="uBlock Origin" link="https://ublockorigin.com/" /> in browsers to get rid of all the ads and trackers. For iOS, use <Badge type="tip" icon="i-custom-ahadns" text="AhaDNS" link="https://blitz-setup.ahadns.com/" /> as profile.
+Use <Badge type="tip" icon="i-custom-ada" text="AdAway" link="https://adaway.org/" /> or <Badge type="tip" icon="i-custom-adg" text="Adguard" link="https://adguard.com/en/welcome.html" /> on Android and <Badge type="tip" icon="i-custom-ubo" text="uBlock Origin" link="https://ublockorigin.com/" /> in browsers to get rid of all the ads and trackers. For iOS, use <Badge type="tip" icon="i-custom-adg" text="AdGuard DNS" link="https://adguard-dns.io/" /> as profile.
 :::
 
 
@@ -322,6 +322,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 ### OP/ED
 - [Anithemes.moe](https://animethemes.moe/) <Badge type="info" text="Alt" link="https://themes.moe/" /><Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/AnimeThemes" />
 - [Karaoke Mugen](https://kara.moe)
+- [Anisong Database](https://anisongdb.com/) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" /><Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/xSardine/AMQ-Artists-DB" />
 - [Squidify](https://www.squidify.org/)
 
 ### General
