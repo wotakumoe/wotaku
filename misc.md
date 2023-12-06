@@ -349,6 +349,14 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Quick Reference](https://monkonius.github.io/hololive-quick-reference/) <Badge type="info" text="DB" />
 - [Hololive MMD Models](https://3d.nicovideo.jp/users/89765617/works) 
 
+== NIJISANJI
+
+- [NIJISANJI](https://www.nijisanji.jp/en) <Badge type="info" text="Schedule" /><Badge type="info" text="DB" /><Badge type="info" text="News" />
+- [NijiEN Calender](https://nijien.vercel.app/) <Badge type="info" text="DB" />
+- [NijiMado](https://niji-mado.web.app/home) <Badge type="info" text="Steam" /> <tooltip> Go to DevTools (press F12 key) > Console tab & input the following code. After that refresh the page. `localStorage.setItem('rulePauseOther', 0);`. You only need to do this once, or until your browser data is cleared. </tooltip>
+- [NijisanjiEN Teamup](https://teamup.com/ks1mraas71v3fjf1c2) <Badge type="info" text="Schedule" />
+- [NIJISANJI EN songs](https://www.youtube.com/playlist?list=PLKN0vyOK8SHelderZX3Vb84zwoAWoTKwR)
+
 == Youtube
 
 ### Animations
