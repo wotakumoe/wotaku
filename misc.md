@@ -144,11 +144,21 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Make Believe Mailer](https://mbmelodies.substack.com/) 🦆
 - [The Needle Drop](https://www.theneedledrop.com/)
 
-### Doujin / Vocaloid
+### Doujin & Vocaloid
 - [Vocasphere](https://vocasphere.net/)
 - [Merami fan](https://meramifan.wordpress.com/) 🦆
 - [Touhou Memories](https://touhou-memories.com/)
 - [Hatsune Miku](https://twitter.com/cfm_miku_en)
+
+
+== Discovery
+
+### General
+- [Rate Your Music](https://rateyourmusic.com/) 🦆
+- [Every Noise](https://everynoise.com) 🦆
+- [Discover Quickly](https://discoverquickly.com/)
+- [Music-Map](https://www.music-map.com/)
+- [Dubolt](https://dubolt.com/)
 
 ### RYM Ultimate Box Set 🦆
 - [Japanese Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-japanese-music/)
@@ -157,13 +167,9 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Vocaloid](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-vocaloid/)
 - [Utaite Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-utaite-music/)
 
-== Discovery
-
-- [Rate Your Music](https://rateyourmusic.com/)
-- [Every Noise](https://everynoise.com) 🦆
-- [Discover Quickly](https://discoverquickly.com/)
-- [Music-Map](https://www.music-map.com/)
-- [Dubolt](https://dubolt.com/)
+### Playlists
+- [🍀/jp/ vocaloid playlist ](https://www.youtube.com/playlist?list=PLQqLx44OgzZybkIf7LZ2YI8iLL9b3BpJw)
+- [Vocaloid Big Hits](https://music.youtube.com/playlist?list=RDCLAK5uy_mgu07-HoqLSU-WqjK2ldEQWLuPPm3CAy8)
 
 :::
 
