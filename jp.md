@@ -554,5 +554,5 @@ Culture, History, Mythology & Festival. Everything about Japan!
 - [Japan Pics](https://www.reddit.com/r/japanpics/)
 - [Japan Life](https://www.reddit.com/r/japanlife/)
 - [Japan Travel](https://www.reddit.com/r/JapanTravel/)
-- [🍀/jp/](https://boards.4channel.org/jp/catalog) <Badge type="danger" text="R+" />
+- [🍀/jp/](https://boards.4channel.org/jp/catalog) <Badge type="tip" text="Archive" link="https://warosu.org/jp/" /><Badge type="danger" text="R+" />
 :::
