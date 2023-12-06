@@ -153,6 +153,12 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [141 JAV](https://www.141jav.com/) <Badge type="tip" text="2" link="https://www.141ppv.com/" />
 - [Next JAV](https://nextjav.com/)
 
+### Others
+- [Gravure idol ranking](https://gravure-idol-ranking.com/)
+- [Mabui Onna](https://mabui-onna.com/)
+- [JAV Library](https://www.javlibrary.com/en/)
+- [Sougou Wiki](http://sougouwiki.com/)
+
 == Community
 
 - [r/hentai](https://www.reddit.com/r/hentai/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.com/invite/rhentai" />
@@ -167,6 +173,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [r/HENTAI_GIF](https://www.reddit.com/r/HENTAI_GIF/)
 - [r/rule34](https://www.reddit.com/r/rule34/)
 - [r/thighdeology](https://www.reddit.com/r/thighdeology/)
+- [🍀JAV Thread](https://4channel.org/jp/jav) <Badge type="tip" text="FAQ" link="https://jav.now.sh/" />
 
 == Scripts
 
