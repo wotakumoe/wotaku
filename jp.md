@@ -6,7 +6,7 @@ outline: [1,2]
 ---
 
 # Everything Japan
-Everything about Japan in one page! Language, culture, history, mytholody & more.
+Everything about Japan in one page! Language, culture, history, mythology & more.
 
 <br>
 
@@ -361,7 +361,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 
 ![](/banner/abtjpn.png)
 # About Japan
-Culture, History, Mytholody & Festival. Everything about Japan!
+Culture, History, Mythology & Festival. Everything about Japan!
 
 ## Culture & History
 
