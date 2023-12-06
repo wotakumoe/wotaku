@@ -372,7 +372,7 @@ Culture, History, Mytholody & Festival. Everything about Japan!
 - [Do You Know Japan?](https://doyouknowjapan.com/)
 - [Japanese Wiki](https://www.japanesewiki.com/)
 - [Japan Reference](https://jref.com/)
-- [Japan: Below the tip of the iceberg](https://prezi.com/9_lvn6v3fzgt/japan-below-the-tip-of-the-iceberg/) | [Gaijin](https://www.reddit.com/r/IcebergCharts/comments/n4edop/gaijin_foreigners_in_japan_iceberg/)
+- [Japan: Below the tip of the iceberg](https://prezi.com/9_lvn6v3fzgt/japan-below-the-tip-of-the-iceberg/) <Badge type="tip" text="Gaijin" link="https://www.reddit.com/r/IcebergCharts/comments/n4edop/gaijin_foreigners_in_japan_iceberg/" />
 - [JTCO](https://www.jtco.or.jp/en/)
 
 == Books
@@ -475,7 +475,7 @@ Culture, History, Mytholody & Festival. Everything about Japan!
 
 == Vlogs
 - [Abroad in Japan](https://www.youtube.com/@AbroadinJapan)
-    - Journey Across Japan [S1](https://www.youtube.com/playlist?list=PLSOR9_iNzVfl4ghftQDpTA4CXUvCKRlsL) | [S2](https://www.youtube.com/playlist?list=PLSOR9_iNzVflVY0eQlZY4V0gArxUiOMLR) | [S3](https://www.youtube.com/playlist?list=PLSOR9_iNzVflGF8OZwBqYH4mxDXvlkpSX) | [S4](https://www.youtube.com/playlist?list=PLdd050JRcXCJlhiSBMjIwvB7wQ8PR-JzV) | [S5](https://www.youtube.com/playlist?list=PLSOR9_iNzVflb2CWbcuXX8JQoVTcXCh2X)
+    - Journey Across Japan <Badge type="tip" text="S1" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVfl4ghftQDpTA4CXUvCKRlsL" /> <Badge type="tip" text="S2" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVflVY0eQlZY4V0gArxUiOMLR" /> <Badge type="tip" text="S3" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVflGF8OZwBqYH4mxDXvlkpSX" /> <Badge type="tip" text="S4" link="https://www.youtube.com/playlist?list=PLdd050JRcXCJlhiSBMjIwvB7wQ8PR-JzV" /> <Badge type="tip" text="S5" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVflb2CWbcuXX8JQoVTcXCh2X" />
     - [WACKY WEEKEND](https://www.youtube.com/playlist?list=PL3BrCRgvsZ9DbueHiNITARMRqi0YfCgbT) 🦆
     - [Documentaries](https://www.youtube.com/playlist?list=PLSOR9_iNzVfnEAmyp9QbIQk3xkeLVTUTq)
 - [The Japan Reporter](https://www.youtube.com/@TheJapanReporter)
@@ -512,8 +512,7 @@ Culture, History, Mytholody & Festival. Everything about Japan!
 - [Doujinshi: Japan's Most Misunderstood Medium](https://www.youtube.com/watch?v=5N0VerI9DxE)
 - [What is Touhou? A Brief Introduction](https://www.youtube.com/watch?v=livReBXdiek)
 - [Explaining Vocaloid in under 3 minutes](https://www.youtube.com/watch?v=GODXMGAMpVc)
-- [So, you wanna get into VOCALOID](https://www.youtube.com/watch?v=y5pPALER7WU)
-    - Watch this for the introduction only (till `21:42`), since the software section is outdated.
+- [So, you wanna get into VOCALOID](https://www.youtube.com/watch?v=y5pPALER7WU) <tooltip>Watch this for the introduction only (till `21:42`), since the software section is outdated. </tooltip>
     - [So, you wanna get into VSynth Covers](https://www.youtube.com/watch?v=ySledv37IrQ)
 - [The Foundations of Making Vocaloid - A Beginner's Guide Tutorial](https://www.youtube.com/watch?v=6cisVNaOJXY)
 - [A guide to Vocaloid concerts](https://www.youtube.com/watch?v=2JtLAwllxI8) <Badge type="info" text="Part 2" link="https://www.youtube.com/watch?v=OzPKF-DMuUE" />
