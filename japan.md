@@ -108,7 +108,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Learn Japanese From Zero!] [Japanese From Zero! Books 1-5 VIDEOS](https://www.youtube.com/playlist?list=PLOcym2c7xnBwU12Flkm5RcLIEhvURQ8TB)
 - [ToKini Andy] [【JLPT N5】GENKI Grammar Made Clear](https://www.youtube.com/playlist?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2)
 - [ToKini Andy] [【JLPT N4】GENKI 2 Grammar Made Clear](https://www.youtube.com/playlist?list=PLA_RcUI8km1P8bJzp3_TMMv1jhL3BcKQk)
-- [Folktales](https://www.youtube.com/playlist?list=PL1DnK3_eexijBUgFRq9Vlc1mW3gQv6gPf) | [2](https://www.youtube.com/playlist?list=PL1DnK3_eexigbTRh6rIZIIY8MJfvnlw9Q)
+- [Folktales](https://www.youtube.com/playlist?list=PL1DnK3_eexijBUgFRq9Vlc1mW3gQv6gPf) <Badge type="tip" text="2" link="https://www.youtube.com/playlist?list=PL1DnK3_eexigbTRh6rIZIIY8MJfvnlw9Q" />
 
 ### Videos
 - [ToKini Andy] [How I would learn japanese (if I could start over)](https://www.youtube.com/watch?v=L1NQoQivkIY)
@@ -302,8 +302,8 @@ Interested in learning the japanese language? Here you can find resources to aid
 
 ### Dictionary
 - jidoujisho <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://github.com/lrorpilla/jidoujisho" />
-- [JS-Dict](https://github.com/petlyh/JS-Dict)
-- [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380)
+- JS-Dict <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://github.com/petlyh/JS-Dict" />
+- Shirabe Jisho <Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/shirabe-jisho/id1005203380" />
 - Takoboto <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=jp.takoboto" />
 
 ### Media Player
