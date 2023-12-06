@@ -501,29 +501,36 @@ Culture, History, Mythology & Festival. Everything about Japan!
 == Explainers
 
 ### Japan
-- [Understanding the Japanese Writing System](https://www.youtube.com/watch?v=r7a8OjvViwE)
-- [the peculiar case of japanese web design](https://sabrinas.space/) <Badge type="info" text="Video" link="https://www.youtube.com/watch?v=z6ep308goxQ" /> 🦆
-    - [How culture made Japanese Internet design "Weird"](https://www.youtube.com/watch?v=Opy-SjDU0UY)
+
 - [Diggin' In The Carts: Japanese Video Game Music Documentary](https://www.youtube.com/playlist?list=PLdd050JRcXCIefOzuG_gw-KNUlq_beHar)
 - [Pachinko: Japan's Biggest Gaming Obsession Explained](https://www.youtube.com/watch?v=-tBy2jemw4s)
 - [Social problems in Japan](https://www.youtube.com/playlist?list=PLpIWoYf9KNFV_I-719B3pk673xaHZ6fYY)
+- [the peculiar case of japanese web design](https://sabrinas.space/) <Badge type="info" text="Video" link="https://www.youtube.com/watch?v=z6ep308goxQ" /> 🦆
+    - [How culture made Japanese Internet design "Weird"](https://www.youtube.com/watch?v=Opy-SjDU0UY)
+- [Understanding the Japanese Writing System](https://www.youtube.com/watch?v=r7a8OjvViwE)
 - [Why some Asian accents swap Ls and Rs in English](https://www.youtube.com/watch?v=2yzMUs3badc)
 - [Why Most Japanese Clip Art Looks Like This](https://www.youtube.com/watch?v=g3CyRZY90M4)
 
 ### Otaku
+
+- [Anime Figures 101](https://youtube.com/playlist?list=PL67Usptllz-RMadnMX0oCWXqdiD2pAHnS)
 - [Doujinshi: Japan's Most Misunderstood Medium](https://www.youtube.com/watch?v=5N0VerI9DxE)
+- [IDOL - The Terrifying Reality of Perfect Blue](https://www.youtube.com/watch?v=WAcb_57r1Bo)
+- [Smoother animation ≠ Better animation [AI ENHANCED]](https://www.youtube.com/watch?v=_KRb_qV9P4g)
+    - [reviewing your takes on animation](https://www.youtube.com/watch?v=OhcLATiI9Is)
+- [What Are Gacha Games, and Why Do People Play Them?](https://www.youtube.com/watch?v=IIVjnRAJkZ8)
 - [What is Touhou? A Brief Introduction](https://www.youtube.com/watch?v=livReBXdiek)
+- [wtf is a vtuber?](https://www.youtube.com/watch?v=r8blCsTOc2I)
+- [The Philosophy of Vtubers](https://www.youtube.com/watch?v=Z8r6jFyISBg)
+
+### Vocaloid
+
 - [Explaining Vocaloid in under 3 minutes](https://www.youtube.com/watch?v=GODXMGAMpVc)
+- [A guide to Vocaloid concerts](https://www.youtube.com/watch?v=2JtLAwllxI8) <Badge type="info" text="Part 2" link="https://www.youtube.com/watch?v=OzPKF-DMuUE" />
+- [My First Miku Concert!](https://www.youtube.com/watch?v=XIgANZCBRKo)
 - [So, you wanna get into VOCALOID](https://www.youtube.com/watch?v=y5pPALER7WU) <tooltip>Watch this for the introduction only (till `21:42`), since the software section is outdated. </tooltip>
     - [So, you wanna get into VSynth Covers](https://www.youtube.com/watch?v=ySledv37IrQ)
 - [The Foundations of Making Vocaloid - A Beginner's Guide Tutorial](https://www.youtube.com/watch?v=6cisVNaOJXY)
-- [A guide to Vocaloid concerts](https://www.youtube.com/watch?v=2JtLAwllxI8) <Badge type="info" text="Part 2" link="https://www.youtube.com/watch?v=OzPKF-DMuUE" />
-- [My First Miku Concert!](https://www.youtube.com/watch?v=XIgANZCBRKo)
-- [IDOL - The Terrifying Reality of Perfect Blue](https://www.youtube.com/watch?v=WAcb_57r1Bo)
-- [The Philosophy of Vtubers](https://www.youtube.com/watch?v=Z8r6jFyISBg)
-- [Smoother animation ≠ Better animation [AI ENHANCED]](https://www.youtube.com/watch?v=_KRb_qV9P4g)
-    - [reviewing your takes on animation](https://www.youtube.com/watch?v=OhcLATiI9Is)
-- [Anime Figures 101](https://youtube.com/playlist?list=PL67Usptllz-RMadnMX0oCWXqdiD2pAHnS)
 
 :::
 
