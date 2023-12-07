@@ -55,27 +55,33 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == Schedule
 
 - [Anica](https://anica.jp/)
-- [AniChart](https://anichart.net/) 🦆
+- [AniChart](https://anichart.net/airing) 🦆
 - [AnimeSchedule](https://animeschedule.net/)
 - [Anime Countdown](https://animecountdown.com/)
 - [Eronews](https://en.eroeronews.com/) <Badge type="danger" text="R+" /> 🦆
 - [Livechart](https://www.livechart.me/)
 - [Monthly.moe](https://www.monthly.moe/) 🦆
-- [Notify.moe](https://notify.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/animenotifier/notify.moe" />
+- [Notify.moe](https://notify.moe/calendar) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/animenotifier/notify.moe" />
 - [Senpai.moe](https://www.senpai.moe/)
-- [Syoboi Calendar](https://cal.syoboi.jp/)
+- [Syoboi Calendar](https://cal.syoboi.jp/) 🇯🇵
 
 
-== Stats/Watch guide
+== Stats & Watch guide
 
-- [Anime Karma List](https://animekarmalist.com/)
-- [Anime Stats](https://anime-stats.net/) 🦆
-- [Kitsu Season Trends](https://season.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/wopian/kitsu-season-trends" />
-- [Anime Filler Guide](https://www.animefillerguide.com/)
-- [Anime Filler List](https://www.animefillerlist.com/)
+### Watch Order
 - [Chiaki](https://chiaki.site/)
 - [Related Anime](https://relatedanime.com/)
 - [r/Anime Watch Order](https://www.reddit.com/r/anime/wiki/watch_order/)
+
+### Filler
+- [Anime Filler Guide](https://www.animefillerguide.com/)
+- [Anime Filler List](https://www.animefillerlist.com/)
+
+### Ranking
+- [Anime Karma List](https://animekarmalist.com/)
+- [Anime Stats](https://anime-stats.net/) 🦆
+- [Anime Corner](https://animecorner.me/category/anime-corner/rankings/)
+- [Anitrendz](https://anitrendz.com/charts/top-anime)
 
 :::
 
