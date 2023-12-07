@@ -136,21 +136,6 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Discogs](https://www.discogs.com/)
 - [MusicBrainz](https://musicbrainz.org/)
 
-== Portal
-
-### General
-- [JaME](https://www.jame-world.com/en/)
-- [Uta-Net](https://www.uta-net.com/)
-- [UtaTen](https://utaten.com/)
-- [Make Believe Mailer](https://mbmelodies.substack.com/) 🦆
-- [The Needle Drop](https://www.theneedledrop.com/)
-
-### Doujin & Vocaloid
-- [Vocasphere](https://vocasphere.net/)
-- [Merami fan](https://meramifan.wordpress.com/) 🦆
-- [Touhou Memories](https://touhou-memories.com/)
-- [Hatsune Miku](https://twitter.com/cfm_miku_en)
-
 
 == Discovery
 
@@ -208,6 +193,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 :::tabs
 == General
+
 - [AnimeCons](https://animecons.com/)
 - [Anime Collective](https://animecollective.com/)
 - [Anime News Network](https://www.animenewsnetwork.com/) 🦆
@@ -219,6 +205,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Zimmerit](https://www.zimmerit.moe/) 🦆
 
 == Anime
+
 - [Anime Corner](https://animecorner.me/) 🦆
 - [Anitrendz](https://anitrendz.net/news/)
 - [Animétudes](https://animetudes.com/) 🦆
@@ -227,6 +214,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Sakuga Blog](https://blog.sakugabooru.com/)
 
 == Manga & LN
+
 - [Ezrat](https://twitter.com/Erzat110)
 - [Josu Ke](https://twitter.com/Josu_ke)
 - [Manga Alerts](https://twitter.com/MangaAlerts)
@@ -236,7 +224,23 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [TheOASG](https://twitter.com/TheOASG) 🦆
 - [Deb Aoki](https://twitter.com/debaoki)
 
+== Portal
+
+### General
+- [JaME](https://www.jame-world.com/en/)
+- [Uta-Net](https://www.uta-net.com/)
+- [UtaTen](https://utaten.com/)
+- [Make Believe Mailer](https://mbmelodies.substack.com/) 🦆
+- [The Needle Drop](https://www.theneedledrop.com/)
+
+### Doujin & Vocaloid
+- [Vocasphere](https://vocasphere.net/)
+- [Merami fan](https://meramifan.wordpress.com/) 🦆
+- [Touhou Memories](https://touhou-memories.com/)
+- [Hatsune Miku](https://twitter.com/cfm_miku_en)
+
 == Games
+
 - [4Gamer](https://www.4gamer.net/) 🇯🇵
 - [Famitsu](https://www.famitsu.com/) 🇯🇵
 - [Gematsu](https://www.gematsu.com/)
