@@ -160,6 +160,11 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 == Others
 
+### Ranking
+- [ORICON](https://www.oricon.co.jp/music/rankinglab/) <Badge type="tip" text="Full" link="https://www.oricon.co.jp/rank/" />
+- [Uta-Net](https://www.uta-net.com/ranking/)
+- [UtaTen](https://utaten.com/ranking/)
+
 ### Events
 - [JaME](https://www.jame-world.com/en/event)
 - [List of J-pop concerts held outside Asia](https://en.wikipedia.org/wiki/List_of_J-pop_concerts_held_outside_Asia) <Badge type="tip" text="Wand" link="https://www.wikiwand.com/en/List_of_J-pop_concerts_held_outside_Asia" />
