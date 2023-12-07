@@ -235,7 +235,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [TheOASG](https://twitter.com/TheOASG) 🦆
 - [Deb Aoki](https://twitter.com/debaoki)
 
-== Portal
+== Music
 
 ### General
 - [JaME](https://www.jame-world.com/en/)
@@ -286,33 +286,6 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - Try [inoreader](https://www.inoreader.com/) & [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) as RSS Feed client.
 :::
 
-![](/banner/others.png)
-## Others
-
-:::tabs
-== Recommendations
-
-- ANN TOP 100 [Manga](https://www.animenewsnetwork.com/encyclopedia/ratings-manga.php?top50=best_bayesian&n=100) | [Anime](https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=popular&n=100)
-- [r/Anime Recommendations](https://www.reddit.com/r/anime/wiki/recommendations/)
-- [u/FetchFrosh Recommendations](https://www.reddit.com/r/anime/comments/o16ipm/rebuild_of_the_ultimate_anime_recommendation/)
-- Visual Novel Recommendations
-    - [VNDB](https://vndb.org/v?f=022gja3gja&s=34w)
-    - [Starter pack](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub)
-    - [VN-chart by difficulty](https://anacreondjt.gitlab.io/vn-chart/)
-    - [r/Visualnovels](https://sites.google.com/view/rvisualnovels-recs/home)
-    - [r/VN's 2018](https://vnrecs.github.io/)
-    - [What are you reading?](https://some-guy.org/vnswayrarchive/recommendations)
-
-== Fansubbing
-
-- [Encode](https://guide.encode.moe/)
-- [Goodjob Media](https://www.goodjobmedia.com/fansubbing/)
-- [Subarashii Tutorial](https://subarashii-no-fansub.github.io/Subbing-Tutorial/)
-- [Unanimated](https://unanimated.github.io/guides.htm)
-- [Yukisubs](https://yukisubs.wordpress.com/guides/)
-- [Zeriyu's Fansub Guide](https://github.com/zeriyu/fansub-guide)
-
-:::
 
 ![](/banner/tools.png)
 ## Tools
@@ -505,10 +478,11 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 :::
 
-![](/banner/random.png)
-## Random
+![](/banner/others.png)
+## Others
 
 :::tabs
+
 
 == Comics
 
@@ -526,7 +500,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Anna’s Archive](https://annas-archive.org/)
 - [Desuarchive](https://desuarchive.org/) <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
 - [Get Comics](https://getcomics.info/) 🦆
-- [Comics All](https://comics-all.com/) | [New comic](https://newcomic.info/)
+- [Comics All](https://comics-all.com/) <Badge type="tip" text="2" link="https://newcomic.info/" />
 - [Libgen](https://libgen.li/)
 
 ### Tracker
@@ -537,6 +511,15 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Comic Book Reading Orders](https://comicbookreadingorders.com/)
 - [Comic Book Herald](https://www.comicbookherald.com/)
 - [CMRO](https://cmro.travis-starnes.com/)
+
+== Fansubbing
+
+- [Encode](https://guide.encode.moe/)
+- [Goodjob Media](https://www.goodjobmedia.com/fansubbing/)
+- [Subarashii Tutorial](https://subarashii-no-fansub.github.io/Subbing-Tutorial/)
+- [Unanimated](https://unanimated.github.io/guides.htm)
+- [Yukisubs](https://yukisubs.wordpress.com/guides/)
+- [Zeriyu's Fansub Guide](https://github.com/zeriyu/fansub-guide)
 
 == osu!
 
@@ -549,22 +532,21 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [osu!search](https://osusearch.com/)
 - [o!rdr](https://ordr.issou.best/)
 
+== REC
 
-== Other Media
+### Anime & Manga
+- ANN TOP 100 <Badge type="tip" text="Anime" link="https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=popular&n=100" /><Badge type="tip" text="Manga" link="https://www.animenewsnetwork.com/encyclopedia/ratings-manga.php?top50=best_bayesian&n=100" />
+- [r/Anime Recommendations](https://www.reddit.com/r/anime/wiki/recommendations/)
+- [u/FetchFrosh Recommendations](https://www.reddit.com/r/anime/comments/o16ipm/rebuild_of_the_ultimate_anime_recommendation/)
 
-### Movies & TV Series
-- [Dramacool](https://dramacool.pa/)
-- [KissAsian](https://kissasian.mx/)
-- [Sflix](https://sflix.to/country/JP)
-- [FMovies](https://fmoviesz.to/filter?keyword=&country%5B%5D=36&sort=recently_updated)
-- [Drama Otaku](https://drama-otaku.com/)
+### Visual Novel
+- [VNDB](https://vndb.org/v?f=022gja3gja&s=34w)
+- [Starter pack](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub)
+- [VN-chart by difficulty](https://anacreondjt.gitlab.io/vn-chart/)
+- [r/Visualnovels](https://sites.google.com/view/rvisualnovels-recs/home)
+- [r/VN's 2018](https://vnrecs.github.io/)
+- [What are you reading?](https://some-guy.org/vnswayrarchive/recommendations)
 
-### Live TV
-- [IPTV-Org](https://iptv-org.github.io/iptv/countries/jp.m3u)
-- [IPTV-JP](https://raw.githubusercontent.com/luongz/iptv-jp/main/jp.m3u)
-- [AQ Stream](https://aqstream.com/jp)
-- [Keylabo](http://www.keylabo.com/watch-tv-online-for-free/)
-- [ANNnewsCH](https://www.youtube.com/@ANNnewsCH/)
 
 == Tokusatsu
 
@@ -588,6 +570,8 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Morphin Legacy](https://morphinlegacy.com/)
 - [Henshin Grid](https://henshingrid.blogspot.com/)
 - [My shiny Toy Robots](https://www.myshinytoyrobots.com/)
+
+
 
 ### Resouces
 - **General**
@@ -615,7 +599,24 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [/r/SuperSentai](https://reddit.com/r/SuperSentai/)
 - [/r/Ultraman](https://reddit.com/r/Ultraman/)
 
-== Websites
+
+== TV
+
+### Movies & TV Series
+- [Dramacool](https://dramacool.pa/)
+- [KissAsian](https://kissasian.mx/)
+- [Sflix](https://sflix.to/country/JP)
+- [FMovies](https://fmoviesz.to/filter?keyword=&country%5B%5D=36&sort=recently_updated)
+- [Drama Otaku](https://drama-otaku.com/)
+
+### Live TV
+- [IPTV-Org](https://iptv-org.github.io/iptv/countries/jp.m3u)
+- [IPTV-JP](https://raw.githubusercontent.com/luongz/iptv-jp/main/jp.m3u)
+- [AQ Stream](https://aqstream.com/jp)
+- [Keylabo](http://www.keylabo.com/watch-tv-online-for-free/)
+- [ANNnewsCH](https://www.youtube.com/@ANNnewsCH/)
+
+== Random
 
 - [Wired Sound For Wired People](https://fauux.neocities.org/)
 - [Smug](https://smug.moe/)
