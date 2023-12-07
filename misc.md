@@ -238,7 +238,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == Music
 
 ### General
-- [JaME](https://www.jame-world.com/en/)
+- [JaME](https://www.jame-world.com/en/) 🦆
 - [Uta-Net](https://www.uta-net.com/)
 - [UtaTen](https://utaten.com/)
 - [Make Believe Mailer](https://mbmelodies.substack.com/) 🦆

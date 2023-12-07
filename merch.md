@@ -66,7 +66,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [Gunpla Guide by Gelgoog Guy](https://docs.google.com/document/d/1Tr8UyF2Xg5Ojqw0sxcO7oIG7IIsJPes3lMO5pHZKu5o/pub)
 - [Gunpla Guide by Layman](https://otakurevolution.com/content/laymans-gunpla-guide)
 - [Gunpla Wiki r/Gunpla](https://www.reddit.com/r/Gunpla/wiki/)
-- [Merami Fan](https://meramifan.wordpress.com/)
+- [Meramifan's guide to support doujin artists/circles](https://meramifan.wordpress.com/)
 - [Music Stuff from Japan by Dimsim](https://www.reddit.com/r/japanesemusic/comments/dagaj8/how_to_buy_music_stuff_from_japan_a_guide/)
 
 ## Info
