@@ -139,6 +139,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == Portal
 
 ### General
+- [JaME](https://www.jame-world.com/en/)
 - [Uta-Net](https://www.uta-net.com/)
 - [UtaTen](https://utaten.com/)
 - [Make Believe Mailer](https://mbmelodies.substack.com/) 🦆
@@ -158,6 +159,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Every Noise](https://everynoise.com) 🦆
 - [Discover Quickly](https://discoverquickly.com/)
 - [Music-Map](https://www.music-map.com/)
+- [Japanese music by year](https://en.wikipedia.org/wiki/Category:Japanese_music_by_year) <Badge type="tip" text="Wand" link="https://www.wikiwand.com/en/Category:Japanese_music_by_year" />
 - [Dubolt](https://dubolt.com/)
 
 ### RYM Ultimate Box Set 🦆
@@ -170,6 +172,13 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 ### Playlists
 - [🍀/jp/ vocaloid playlist ](https://www.youtube.com/playlist?list=PLQqLx44OgzZybkIf7LZ2YI8iLL9b3BpJw)
 - [Vocaloid Big Hits](https://music.youtube.com/playlist?list=RDCLAK5uy_mgu07-HoqLSU-WqjK2ldEQWLuPPm3CAy8)
+
+== Others
+
+### Events
+- [JaME](https://www.jame-world.com/en/event)
+- [List of J-pop concerts held outside Asia](https://en.wikipedia.org/wiki/List_of_J-pop_concerts_held_outside_Asia) <Badge type="tip" text="Wand" link="https://www.wikiwand.com/en/List_of_J-pop_concerts_held_outside_Asia" />
+- [Songkick](https://www.songkick.com/) <Badge type="info" text="General" />
 
 :::
 
