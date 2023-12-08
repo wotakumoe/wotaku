@@ -335,6 +335,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Good VTuber Subs](https://goodvtubersubs.com/) <Badge type="info" text="DB" /> 🦆
 - [VChama](https://vchama.xyz) <Badge type="info" text="Stats" /><Badge type="info" text="Schedule" /> 🦆
 - [vtstats](https://vt.poi.cat/) <Badge type="info" text="Stats" /><Badge type="info" text="Schedule" />
+- [VTuber Schedule](https://vtuberschedules.com/) <Badge type="info" text="Schedule" />
 - [VTuber Highlights](https://vtuber.atodeyo.com/)
 - [Virtual YouTuber Wiki ](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki) <Badge type="info" text="DB" />
 - [VSTATS](https://www.vstats.jp/) <Badge type="info" text="Stats" />
@@ -355,10 +356,11 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == NIJISANJI
 
 - [NIJISANJI](https://www.nijisanji.jp/en) <Badge type="info" text="Schedule" /><Badge type="info" text="DB" /><Badge type="info" text="News" />
+- [Nijisanji unofficial wiki](https://wikiwiki.jp/nijisanji/) <Badge type="info" text="Schedule" /><Badge type="info" text="DB" /><Badge type="info" text="News" />
 - [NijiEN Calender](https://nijien.vercel.app/) <Badge type="info" text="DB" />
 - [NijiMado](https://niji-mado.web.app/home) <Badge type="info" text="Steam" /> <tooltip> Go to DevTools (press F12 key) > Console tab & input the following code. After that refresh the page. `localStorage.setItem('rulePauseOther', 0);`. You only need to do this once, or until your browser data is cleared. </tooltip>
 - [NijisanjiEN Teamup](https://teamup.com/ks1mraas71v3fjf1c2) <Badge type="info" text="Schedule" />
-- [NIJISANJI EN songs](https://www.youtube.com/playlist?list=PLKN0vyOK8SHelderZX3Vb84zwoAWoTKwR)
+- [Liver](https://github.com/zigamacele/liver) <Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chromewebstore.google.com/detail/liver/pjnhlmepkmjikjjmbaiabncnhcbkphfh?hl=en" />
 
 == Youtube
 
@@ -381,6 +383,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [HOLOLIVE Original Songs](https://www.youtube.com/playlist?list=PLcA50eR_E8Zbi4hdQHU5Rl1J6KrWRlHpM)
 - [Hololive Songs&Covers](https://www.youtube.com/playlist?list=PLQmVFdwvZgfXlb2RDXWV1NaPXgYPu786G)
 - [Holo no Graffiti](https://www.youtube.com/playlist?list=PL1NeGg1woXqngQytLzL8lJJLYwmzk1Wuq) | [Privated](https://www.youtube.com/playlist?list=PLMcxQWd8jwdk2YHXPScsjcw22VSZxiViL)
+- [NIJISANJI EN songs](https://www.youtube.com/playlist?list=PLKN0vyOK8SHelderZX3Vb84zwoAWoTKwR)
 
 == Discord
 
