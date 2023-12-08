@@ -300,6 +300,13 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [SauceNAO](https://saucenao.com/) 🦆
 - [Trace](https://trace.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/soruly/trace.moe" />
 
+### Upscaling
+- [Waif2x](https://unlimited.waifu2x.net/) <Badge type="tip" text="Cloud Ver" link="https://waifu2x.udp.jp/" /> <Badge type="tip" icon="mark-github" text="Github" link="https://github.com/nagadomi/waifu2x" />
+- [WaifuXL](https://waifuxl.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/TheFutureGadgetsLab/WaifuXL" />
+
+### Others
+- [Imgtrans](https://touhou.ai/imgtrans/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/zyddnys/manga-image-translator" />
+
 == Stats
 
 ### Visualizer
@@ -312,12 +319,6 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Spin.moe](https://spin.moe/)
 - [Sprout Anime Recommender](https://anime.ameo.dev/) <Badge type="info" text="MAL" /><Badge type="info" text="AL" /> 🦆
 
-### Upscaling
-- [Waif2x](https://unlimited.waifu2x.net/) <Badge type="tip" text="Cloud Ver" link="https://waifu2x.udp.jp/" /> <Badge type="tip" icon="mark-github" text="Github" link="https://github.com/nagadomi/waifu2x" />
-- [WaifuXL](https://waifuxl.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/TheFutureGadgetsLab/WaifuXL" />
-
-### Others
-- [Imgtrans](https://touhou.ai/imgtrans/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/zyddnys/manga-image-translator" />
 
 == Music
 
