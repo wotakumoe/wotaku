@@ -295,10 +295,10 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == Image
 
 ### Search
-- [Multi-service image search](https://iqdb.org/)
-- [SauceKudasai](https://saucekudasai.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/ayushgptaa/SauceKudasai" />
 - [SauceNAO](https://saucenao.com/) 🦆
 - [Trace](https://trace.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/soruly/trace.moe" />
+- [SauceKudasai](https://saucekudasai.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/ayushgptaa/SauceKudasai" />
+- [Multi-service image search](https://iqdb.org/)
 
 ### Upscaling
 - [Waif2x](https://unlimited.waifu2x.net/) <Badge type="tip" text="Cloud Ver" link="https://waifu2x.udp.jp/" /> <Badge type="tip" icon="mark-github" text="Github" link="https://github.com/nagadomi/waifu2x" />
@@ -310,10 +310,10 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == Stats
 
 ### Visualizer
+- [Sekai](https://sekai.rl404.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/rl404/sekai" /><Badge type="info" text="MAL" /> 🦆
+- [MAL Badges](https://www.mal-badges.com/) <Badge type="info" text="MAL" />
 - [anime.plus](https://anime.plus/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/anime-plus/graph" /><Badge type="info" text="MAL" />
 - [Anistats](https://mayudev.github.io/anistats/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/mayudev/anistats" /><Badge type="info" text="AL" />
-- [MAL Badges](https://www.mal-badges.com/) <Badge type="info" text="MAL" />
-- [Sekai](https://sekai.rl404.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/rl404/sekai" /><Badge type="info" text="MAL" /> 🦆
 
 ### Recommender
 - [Spin.moe](https://spin.moe/)
@@ -343,18 +343,27 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 :::tabs
 == General
 
-- [Holodex](https://holodex.net/) <Badge type="info" text="Music" link="https://music.holodex.net/" /><Badge type="info" text="Frontend" /> 🦆
-- [Good VTuber Subs](https://goodvtubersubs.com/) <Badge type="info" text="DB" /> 🦆
-- [VChama](https://vchama.xyz) <Badge type="info" text="Stats" /><Badge type="info" text="Schedule" /> 🦆
-- [vtstats](https://vt.poi.cat/) <Badge type="info" text="Stats" /><Badge type="info" text="Schedule" />
-- [VTuber Schedule](https://vtuberschedules.com/) <Badge type="info" text="Schedule" />
-- [VTuber Highlights](https://vtuber.atodeyo.com/)
-- [Virtual YouTuber Wiki ](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki) <Badge type="info" text="DB" />
-- [VSTATS](https://www.vstats.jp/) <Badge type="info" text="Stats" />
-- [Hololist](https://hololist.net/) <Badge type="info" text="DB" />
-- [Userlocal Vtuber](https://virtual-youtuber.userlocal.jp/) <Badge type="info" text="Stream Rank" link="https://live-ranking.userlocal.jp/vtuber-ranking" /><Badge type="info" text="Stats" /><Badge type="info" text="Schedule" />
-- [vTubie](https://vtubie.com/) <Badge type="info" text="DB" /><Badge type="info" text="Schedule" />
-- [Hololyzer](https://www.hololyzer.net/) <Badge type="info" text="Schedule" />
+🦆 [Holodex](https://holodex.net/) <Badge type="info" text="Music" link="https://music.holodex.net/" /><Badge type="info" text="Frontend" />
+
+### DB
+- [Good VTuber Subs](https://goodvtubersubs.com/) 🦆
+- [Virtual YouTuber Wiki ](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki)
+- [Hololist](https://hololist.net/)
+
+### Stats
+- [vtstats](https://vt.poi.cat/) <Badge type="info" text="Schedule" /> 🦆
+- [VChama](https://vchama.xyz) <Badge type="info" text="Schedule" /> 🦆
+- [VSTATS](https://www.vstats.jp/)
+- [Userlocal Vtuber](https://virtual-youtuber.userlocal.jp/) <Badge type="info" text="Stream Rank" link="https://live-ranking.userlocal.jp/vtuber-ranking" /><Badge type="info" text="Schedule" />
+
+### Schedule
+- [VTuber Schedule](https://vtuberschedules.com/)
+- [Hololyzer](https://www.hololyzer.net/)
+- [vTubie](https://vtubie.com/)
+
+### Others
+- [VTuber Highlights](https://vtuber.atodeyo.com/) 🇯🇵 <Badge type="info" text="News" />
+- [HoloSongs](https://github.com/themintchoco/holosongs) <Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chromewebstore.google.com/detail/holosongs/ipibfcnlipdkimfmajnddpboejkocplf" />
 
 == Hololive
 
@@ -364,6 +373,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [hololive TODAY](https://hololivetoday.com/) <Badge type="info" text="News" />
 - [Quick Reference](https://monkonius.github.io/hololive-quick-reference/) <Badge type="info" text="DB" />
 - [Hololive MMD Models](https://3d.nicovideo.jp/users/89765617/works) 
+- [HoloSchedule](https://github.com/YunzheZJU/holo-schedule) <Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chromewebstore.google.com/detail/holoschedule/fjicegllhddldnnkgfefblholeegpcad" /><Badge type="tip" icon="i-logos-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/holo-schedule/" />
 
 == NIJISANJI
 
