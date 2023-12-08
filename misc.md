@@ -287,24 +287,37 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 :::
 
 
-![](/banner/tools.png)
-## Tools
+![](/banner/utility.png)
+## Utility
 
 :::tabs
-== Analysis
-- [anime.plus](https://anime.plus/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/anime-plus/graph" /><Badge type="info" text="MAL" />
-- [Anistats](https://mayudev.github.io/anistats/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/mayudev/anistats" /><Badge type="info" text="AL" />
-- [MAL Badges](https://www.mal-badges.com/) <Badge type="info" text="MAL" />
-- [Randime](https://randime.moe/)
-- [Sekai](https://sekai.rl404.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/rl404/sekai" /><Badge type="info" text="MAL" /> 🦆
-- [Spin.moe](https://spin.moe/)
-- [Sprout Anime Recommender](https://anime.ameo.dev/) <Badge type="info" text="MAL" /><Badge type="info" text="AL" /> 🦆
 
-== Image search
+== Image
+
+### Search
 - [Multi-service image search](https://iqdb.org/)
 - [SauceKudasai](https://saucekudasai.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/ayushgptaa/SauceKudasai" />
 - [SauceNAO](https://saucenao.com/) 🦆
 - [Trace](https://trace.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/soruly/trace.moe" />
+
+== Stats
+
+### Visualizer
+- [anime.plus](https://anime.plus/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/anime-plus/graph" /><Badge type="info" text="MAL" />
+- [Anistats](https://mayudev.github.io/anistats/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/mayudev/anistats" /><Badge type="info" text="AL" />
+- [MAL Badges](https://www.mal-badges.com/) <Badge type="info" text="MAL" />
+- [Sekai](https://sekai.rl404.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/rl404/sekai" /><Badge type="info" text="MAL" /> 🦆
+
+### Recommender
+- [Spin.moe](https://spin.moe/)
+- [Sprout Anime Recommender](https://anime.ameo.dev/) <Badge type="info" text="MAL" /><Badge type="info" text="AL" /> 🦆
+
+### Upscaling
+- [Waif2x](https://unlimited.waifu2x.net/) <Badge type="tip" text="Cloud Ver" link="https://waifu2x.udp.jp/" /> <Badge type="tip" icon="mark-github" text="Github" link="https://github.com/nagadomi/waifu2x" />
+- [WaifuXL](https://waifuxl.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/TheFutureGadgetsLab/WaifuXL" />
+
+### Others
+- [Imgtrans](https://touhou.ai/imgtrans/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/zyddnys/manga-image-translator" />
 
 == Music
 
@@ -316,11 +329,9 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == Others
 - [3x3 Generator](https://gqgs.github.io/3x3-generator/)
 - [Anipool](https://www.anipool.app/)
-- [Imgtrans](https://touhou.ai/imgtrans/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/zyddnys/manga-image-translator" />
 - [MAL/AL/K/AP lists XML Exporter](https://malscraper.azurewebsites.net/)
+- [Randime](https://randime.moe/)
 - [Trakt to MAL](https://anitrakt.huere.net/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/ryuuganime/aniTrakt-IndexParser" />
-- [Waif2x](https://unlimited.waifu2x.net/) <Badge type="tip" icon="mark-github" text="Github" link="https://github.com/nagadomi/waifu2x" />
-- [WaifuXL](https://waifuxl.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/TheFutureGadgetsLab/WaifuXL" />
 
 :::
 
