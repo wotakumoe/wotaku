@@ -142,7 +142,6 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Discogs](https://www.discogs.com/)
 - [MusicBrainz](https://musicbrainz.org/)
 
-
 == Discovery
 
 ### General
@@ -150,6 +149,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Every Noise](https://everynoise.com) 🦆
 - [Discover Quickly](https://discoverquickly.com/)
 - [Music-Map](https://www.music-map.com/)
+- [Chosic](https://www.chosic.com/) 🦆
 - [Japanese music by year](https://en.wikipedia.org/wiki/Category:Japanese_music_by_year) <Badge type="tip" text="Wand" link="https://www.wikiwand.com/en/Category:Japanese_music_by_year" />
 - [Dubolt](https://dubolt.com/)
 
@@ -168,6 +168,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 ### Ranking
 - [ORICON](https://www.oricon.co.jp/music/rankinglab/) <Badge type="tip" text="Full" link="https://www.oricon.co.jp/rank/" />
+- [Billboard JAPAN](https://www.billboard-japan.com/charts/)
 - [Uta-Net](https://www.uta-net.com/ranking/)
 - [UtaTen](https://utaten.com/ranking/)
 
@@ -239,8 +240,9 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 ### General
 - [JaME](https://www.jame-world.com/en/) 🦆
-- [Uta-Net](https://www.uta-net.com/)
-- [UtaTen](https://utaten.com/)
+- [Billboard JAPAN](https://www.billboard-japan.com/d_news/jpn/) 🇯🇵
+- [Uta-Net](https://www.uta-net.com/) 🇯🇵
+- [UtaTen](https://utaten.com/) 🇯🇵
 - [Make Believe Mailer](https://mbmelodies.substack.com/) 🦆
 - [The Needle Drop](https://www.theneedledrop.com/)
 
@@ -323,6 +325,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == Music
 
 - [Anime Music Quiz](https://animemusicquiz.com/)
+- [Chosic](https://www.chosic.com/) 🦆
 - [Cover Search Engine](https://covers.musichoarders.xyz/) 🦆
 - [Game Tabs](https://www.gametabs.net/)
 - [Songle](https://songle.jp/)
