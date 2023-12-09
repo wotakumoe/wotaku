@@ -14,11 +14,11 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 :::tabs
 == General
-- [AniList](https://anilist.co/) 🦆
+- [AniList](https://anilist.co/)
+- [MyAnimeList](https://myanimelist.net/)
 - [Anime Planet](https://www.anime-planet.com/)
 - [AniSearch](https://www.anisearch.com/)
 - [Kitsu](https://kitsu.io/)
-- [MyAnimeList](https://myanimelist.net/) 🦆
 
 == Anime
 - [aniDB](https://anidb.net/) 🦆
@@ -26,9 +26,9 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [SIMKL](https://simkl.com/)
 
 == Manga & LN
-- [Kenmei](https://www.kenmei.co/)
 - [Mangaupdates](https://www.mangaupdates.com/) 🦆
-- [Novel updates](https://www.novelupdates.com/) 🦆
+- [Novel updates](https://www.novelupdates.com/)
+- [Kenmei](https://www.kenmei.co/)
 
 == Others
 - [The Visual Novel Database](https://vndb.org/)
@@ -146,10 +146,10 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 ### General
 - [Rate Your Music](https://rateyourmusic.com/) 🦆
-- [Every Noise](https://everynoise.com) 🦆
+- [Every Noise](https://everynoise.com)
+- [Chosic](https://www.chosic.com/) 🦆
 - [Discover Quickly](https://discoverquickly.com/)
 - [Music-Map](https://www.music-map.com/)
-- [Chosic](https://www.chosic.com/) 🦆
 - [Japanese music by year](https://en.wikipedia.org/wiki/Category:Japanese_music_by_year) <Badge type="tip" text="Wand" link="https://www.wikiwand.com/en/Category:Japanese_music_by_year" />
 - [Dubolt](https://dubolt.com/)
 
