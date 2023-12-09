@@ -354,8 +354,8 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Hololist](https://hololist.net/)
 
 ### Stats
-- [vtstats](https://vt.poi.cat/) <Badge type="info" text="Schedule" /> 🦆
 - [VChama](https://vchama.xyz) <Badge type="info" text="Schedule" /> 🦆
+- [vtstats](https://vt.poi.cat/) <Badge type="info" text="Schedule" /> 🦆
 - [VSTATS](https://www.vstats.jp/)
 - [Userlocal Vtuber](https://virtual-youtuber.userlocal.jp/) <Badge type="info" text="Stream Rank" link="https://live-ranking.userlocal.jp/vtuber-ranking" /><Badge type="info" text="Schedule" />
 
@@ -366,6 +366,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 ### Others
 - [VTuber Highlights](https://vtuber.atodeyo.com/) 🇯🇵 <Badge type="info" text="News" />
+- [VTuber Newsdrop](https://vtubernewsdrop.com/) <Badge type="info" text="News" />
 - [HoloSongs](https://github.com/themintchoco/holosongs) <Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chromewebstore.google.com/detail/holosongs/ipibfcnlipdkimfmajnddpboejkocplf" />
 
 == Hololive
@@ -389,7 +390,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 == Youtube
 
-### Animations
+### Animators
 - [Myth's Bad Ending by Mazumaro](https://www.youtube.com/watch?v=euPfAilSpuU)
 - [2ManySnacks](https://www.youtube.com/@2ManySnacks/)
 - [Kanauru](https://www.youtube.com/@kanauru/)
@@ -410,16 +411,16 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Holo no Graffiti](https://www.youtube.com/playlist?list=PL1NeGg1woXqngQytLzL8lJJLYwmzk1Wuq) | [Privated](https://www.youtube.com/playlist?list=PLMcxQWd8jwdk2YHXPScsjcw22VSZxiViL)
 - [NIJISANJI EN songs](https://www.youtube.com/playlist?list=PLKN0vyOK8SHelderZX3Vb84zwoAWoTKwR)
 
-== Discord
+== Socials
 
-- [Hololive Fan Server](https://discord.gg/holofans) 
-- [Nijisanji EN Fan Server](https://discord.gg/nijienfans) 
-- [VShojo Fan Server](https://discord.com/invite/vshojo-fan-server-598886416545611790) 
-- [PhaseConnect Community](https://discord.gg/phaseconnect) 
-- [idol - Official server](https://discord.gg/idolcorp) 
-- [PRISM](https://discord.gg/prismworld) 
-- [EIEN Project Official Community](https://discord.gg/eienproject) 
-- [KAWA Entertainment](https://discord.com/invite/kawa-entertainment) 
+- Hololive <Badge type="tip" icon="i-logos-twitter" text="JP" link="https://twitter.com/hololivetv" /><Badge type="tip" icon="i-logos-twitter" text="EN" link="https://twitter.com/hololive_En" /><Badge type="tip" icon="i-logos-discord-icon" text="Fan Discord" link="https://discord.gg/holofans" /><Badge type="tip" icon="i-logos-reddit-icon" text="Reddit" link="https://www.reddit.com/r/Hololive/" />
+- Nijisanji <Badge type="tip" icon="i-logos-twitter" text="JP" link="https://twitter.com/nijisanji_app" /><Badge type="tip" icon="i-logos-twitter" text="EN" link="https://twitter.com/NIJISANJI_World" /><Badge type="tip" icon="i-logos-discord-icon" text="EN Fan Discord" link="https://discord.gg/nijienfans" /><Badge type="tip" icon="i-logos-reddit-icon" text="Reddit" link="https://www.reddit.com/r/Nijisanji/" />
+- VShojo <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/VShojo" /><Badge type="tip" icon="i-logos-discord-icon" text="Fan Discord" link="https://discord.com/invite/vshojo-fan-server-598886416545611790" /><Badge type="tip" icon="i-logos-reddit-icon" text="Reddit" link="https://www.reddit.com/r/VShojo/" />
+- PhaseConnect <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/PhaseConnect" /><Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/phaseconnect" />
+- idol <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/idol_corp" /><Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/idolcorp" />
+- PRISM <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/PRISMproj" /><Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/prismworld" />
+- EIEN Project <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/EIENproj" /><Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/eienproject" />
+- KAWA Entertainment <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/kawa_entertain" /><Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.com/invite/kawa-entertainment" />
 
 == Games
 
