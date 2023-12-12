@@ -498,6 +498,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == Others
 
 ### Twitter
+
 - [Holoデータ分析](https://twitter.com/Holo_Data)
 - [HoloENFans](https://twitter.com/HEFSdiscord)
 - [Kris the Holoprosimp](https://twitter.com/KHolosimp)
@@ -517,6 +518,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == Comics
 
 ### Reader
+
 - [Comicastle](https://www.comicastle.org/)
 - [Comic Extra](https://ww1.comicextra.com/)
 - [Read All Comics](https://readallcomics.com/) 🦆
@@ -527,6 +529,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [XOXO Comics](https://xoxocomics.com/) 🦆
 
 ### Direct Download
+
 - [Anna’s Archive](https://annas-archive.org/)
 - [Desuarchive](https://desuarchive.org/) <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
 - [Get Comics](https://getcomics.info/) 🦆
@@ -534,10 +537,12 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Libgen](https://libgen.li/)
 
 ### Tracker
+
 - [League of Comic Geeks](https://leagueofcomicgeeks.com/)
 - [Comic Vine](https://comicvine.gamespot.com/)
 
 ### Info
+
 - [Comic Book Reading Orders](https://comicbookreadingorders.com/)
 - [Comic Book Herald](https://www.comicbookherald.com/)
 - [CMRO](https://cmro.travis-starnes.com/)
@@ -565,6 +570,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == REC
 
 ### Anime & Manga
+
 - ANN TOP 100 <Badge type="tip" text="Anime" link="https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=popular&n=100" /><Badge type="tip" text="Manga" link="https://www.animenewsnetwork.com/encyclopedia/ratings-manga.php?top50=best_bayesian&n=100" />
 - [r/Anime Recommendations](https://www.reddit.com/r/anime/wiki/recommendations/)
 - [u/FetchFrosh Recommendations](https://www.reddit.com/r/anime/comments/o16ipm/rebuild_of_the_ultimate_anime_recommendation/)
@@ -602,8 +608,8 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [My shiny Toy Robots](https://www.myshinytoyrobots.com/)
 
 
-
 ### Resouces
+
 - **General**
     - [Zekozimo](https://zekozimo.blogspot.com/)
 - **Streaming**
@@ -620,6 +626,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [Nyaa](https://nyaa.si/)
 
 ### Communities
+
 - [r/Tokusatsu](https://reddit.com/r/Tokusatsu/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/Rf2dDaJSp3" />
 - [/r/GARO](https://reddit.com/r/GARO/)
 - [/r/Godzilla](https://reddit.com/r/Godzilla/)
@@ -629,10 +636,10 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [/r/SuperSentai](https://reddit.com/r/SuperSentai/)
 - [/r/Ultraman](https://reddit.com/r/Ultraman/)
 
-
 == TV
 
 ### Movies & TV Series
+
 - [Dramacool](https://dramacool.pa/)
 - [KissAsian](https://kissasian.mx/)
 - [Sflix](https://sflix.to/country/JP)
@@ -640,6 +647,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Drama Otaku](https://drama-otaku.com/)
 
 ### Live TV
+
 - [IPTV-Org](https://iptv-org.github.io/iptv/countries/jp.m3u)
 - [IPTV-JP](https://raw.githubusercontent.com/luongz/iptv-jp/main/jp.m3u)
 - [AQ Stream](https://aqstream.com/jp)
@@ -648,18 +656,18 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 == Random
 
-- [Wired Sound For Wired People](https://fauux.neocities.org/)
-- [Smug](https://smug.moe/)
+- [Absolute Territory](https://absoluteterritory.moe/)
+- [AIDN](https://aidn.jp/contents/)
+- [Anianimals](https://www.anianimals.moe/)
+- [Anime Girls Holding Programming Books](https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/)
 - [Endless Eight](https://endless8.moe/)
+- [MakeGirlsMoe](https://make.girls.moe/)
 - [Neko Network](https://live.neko-network.net/)
 - [Satania](https://satania.moe/)
-- [AIDN](https://aidn.jp/contents/)
-- [Anime Girls Holding Programming Books](https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/)
-- [MakeGirlsMoe](https://make.girls.moe/)
-- [Anianimals](https://www.anianimals.moe/)
+- [Smug](https://smug.moe/)
 - [VAGABOND HIATUS CHART](https://vagabond-hiatus-chart.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/falsepopsky/vagabond-hiatus-chart" />
-- [Absolute Territory](https://absoluteterritory.moe/)
 - [Wanwan](https://wanwan.moe/)
+- [Wired Sound For Wired People](https://fauux.neocities.org/)
 
 
 :::

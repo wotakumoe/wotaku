@@ -168,18 +168,18 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 == Reader
 
-- [**Mangadex**](https://mangadex.org/)
+- [**Mangadex**](https://mangadex.org/) <Badge type="danger" text="18+" />
   - Uploads without compression
   - Best reader UI
   - Uploads from various scanlation groups
   - No official translations<sup>[*](https://mangadex.org/rules#content_restrictions)</sup> since it was created for fansub
   - May remove content if there is a DMCA request by the publisher or doesn't allow upload at all (e.g. One Punch-Man)
-- [**Comick**](https://comick.cc/home) 🦆
+- [**Comick**](https://comick.cc/home) 🦆 <Badge type="danger" text="18+" />
   - Minimal compression
   - Aggregates from various scanlation groups
   - Has official translations
   - Reader isn't as good as mangadex
-- [**Mangasee**](https://mangasee123.com/) <Badge type="tip" text="2" link="https://manga4life.com/" /><Badge type="tip" text="Alt" link="https://atsu.moe/" /><Badge type="danger" text="18+" />
+- [**Mangasee**](https://mangasee123.com/) <Badge type="tip" text="2" link="https://manga4life.com/" /><Badge type="tip" text="Alt" link="https://atsu.moe/" />
   - Has official translations
   - Compresses chapter images
   - Chapter updates are relatively slow
@@ -189,7 +189,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
   - Basic reader UI
   - Watermark on almost every manga chapters
   - Manga uploads are upto x1600
-- [**Batoto**](https://battwo.com/v3x) <Badge type="tip" text="2" link="https://mangatoto.net/" /><Badge type="tip" text="3" link="https://mangatoto.com/" /><Badge type="danger" text="18+" />
+- [**Batoto**](https://battwo.com/v3x) <Badge type="tip" text="2" link="https://mangatoto.net/" /><Badge type="tip" text="3" link="https://mangatoto.com/" /> <Badge type="danger" text="18+" />
   - Has both scanlated and official releases
   - Has some exclusive uploads
   - Decent filtering options with site theme options
@@ -197,14 +197,14 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 ::: details More
 
-- [Cubari Proxy](https://proxy.cubari.moe/)
+- [Cubari Proxy](https://proxy.cubari.moe/) <Badge type="danger" text="18+" />
 - [Manga Katana](https://mangakatana.com/)
 - [Mangapark](https://mangapark.net/)
 - [Mangahasu](https://mangahasu.se/)
-- [Mangahub](https://mangahub.io/)<Badge type="info" text="Needs account" />
-- [Manga Buddy](https://mangabuddy.com/home) <Badge type="info" text="2" link="https://mangamirror.com/home-page" /> <Badge type="info" text="3" link="https://mangaforest.com/home" /><Badge type="info" text="Manhwa/hua centric" />
-- [Mangacultivator](https://mangacultivator.com)<Badge type="info" text="Manhwa/hua centric" />
-- [Like Manga](https://likemanga.io)<Badge type="info" text="Manhwa/hua centric" />
+- [Mangahub](https://mangahub.io/)<Badge type="info" text="Needs account" /><Badge type="danger" text="18+" />
+- [Manga Buddy](https://mangabuddy.com/home) <Badge type="info" text="2" link="https://mangamirror.com/home-page" /> <Badge type="info" text="3" link="https://mangaforest.com/home" /><Badge type="danger" text="18+" />
+- [Mangacultivator](https://mangacultivator.com)
+- [Like Manga](https://likemanga.io)
 - [Manga Here](https://www.mangahere.cc/) <Badge type="info" text="2" link="https://fanfox.net/" />
 - [Manganato](https://manganato.com/)
 
@@ -227,7 +227,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 == Direct Download
 
 - [Madokami](https://manga.madokami.al) <Badge type="info" text="Guide" link="/guides/mado.md" />
-- [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13)
+- [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) <Badge type="danger" text="18+" />
 - [Anna's Archive](https://annas-archive.org/)
 - [Desuarchive](https://desuarchive.org/) <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
 
