@@ -8,16 +8,6 @@ Online resources for anime, manga, novels and more.
 
 <br>
 
-::: details Rating System
-- <Badge type="danger" text="18+" /> Uploads NSFW content on a regular basis.
-- <Badge type="danger" text="18+" /> Uploads NSFW content, but not always/all of them.
-- <Badge type="info" text="R-" /> Rarely uploads NSFW content.
-- Only SFW content.
-
-**Note**: None of the websites mentioned are exclusively dedicated to NSFW content. [**Click here**](/nsfw.md) for the dedicated sites.
-
-:::
-
 ::: tip Ad blocking {open}
 Use <Badge type="tip" icon="i-custom-ada" text="AdAway" link="https://adaway.org/" /> or <Badge type="tip" icon="i-custom-adg" text="Adguard" link="https://adguard.com/en/welcome.html" /> on Android and <Badge type="tip" icon="i-custom-ubo" text="uBlock Origin" link="https://ublockorigin.com/" /> in browsers to get rid of all the ads and trackers. For iOS, use <Badge type="tip" icon="i-custom-adg" text="AdGuard DNS" link="https://adguard-dns.io/" /> as profile.
 :::
@@ -220,7 +210,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Mangahub](https://mangahub.io/) <Badge type="danger" text="18+" /><Badge type="info" text="Needs account" />
 - [Manga Buddy](https://mangabuddy.com/home) <Badge type="info" text="2" link="https://mangamirror.com/home-page" /> <Badge type="info" text="3" link="https://mangaforest.com/home" /> <Badge type="danger" text="18+" /><Badge type="info" text="Manhwa/hua centric" />
 - [Mangacultivator](https://mangacultivator.com)<Badge type="info" text="Manhwa/hua centric" />
-- [Like Manga](https://likemanga.io) <Badge type="info" text="R-" /><Badge type="info" text="Manhwa/hua centric" />
+- [Like Manga](https://likemanga.io) <Badge type="danger" text="18+" /><Badge type="info" text="Manhwa/hua centric" />
 - [Manga Here](https://www.mangahere.cc/) <Badge type="info" text="2" link="https://fanfox.net/" /> <Badge type="danger" text="18+" />
 - [Manganato](https://manganato.com/) <Badge type="danger" text="18+" />
 
