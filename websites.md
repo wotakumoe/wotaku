@@ -566,7 +566,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 == Manga
 
-- **Manga**
+### Manga
   - [Azuki](https://www.azuki.co/)
   - [Comikey](https://comikey.com/)
   - [INKR](https://comics.inkr.com/)
@@ -575,7 +575,9 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
   - [Manga Plus](https://mangaplus.shueisha.co.jp/)
   - [Manga UP!](https://global.manga-up.com/)
   - [Mangamo](https://www.mangamo.com/)
-- **Manwha/hua**
+  - [YURI HUB](https://www.yurihub.com/)  <Badge type="danger" text="18+" />
+
+### Manwha/hua
   - [Lezhin](https://www.lezhinus.com/en)
   - [Manta](https://manta.net/en)
   - [Pocket Comics](https://www.pocketcomics.com/)
@@ -598,19 +600,19 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 == Music
 
-#### Stream
+### Stream
 
 - **Freemium**
   - [Spotify](https://spotify.com/)
   - [Youtube Music](https://music.youtube.com/) <Badge type="tip" text="Beatbump" link="https://beatbump.io/home" /><Badge type="tip" text="Hyperpipe" link="https://hyperpipe.surge.sh/" />
-  - [Deezer](https://www.deezer.com/)
 - **Subscription**
   - [Amazon Music](https://music.amazon.com/)
-  - [Apple Music](https://music.apple.com/)
+  - [Apple Music](https://music.apple.com/) 🦆
+  - [Deezer](https://www.deezer.com/)
   - [Qobuz](https://play.qobuz.com/)
   - [Tidal](https://tidal.com/)
 
-#### Purchase
+### Purchase
 
 - **Physical**
   - [Amazon](https://www.amazon.com/)
