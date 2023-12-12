@@ -9,10 +9,10 @@ Online resources for anime, manga, novels and more.
 <br>
 
 ::: details Rating System
-- <Badge type="danger" text="R+" /> Uploads NSFW content on a regular basis.
-- <Badge type="warning" text="R" /> Uploads NSFW content, but not always/all of them.
+- <Badge type="danger" text="18+" /> Uploads NSFW content on a regular basis.
+- <Badge type="danger" text="18+" /> Uploads NSFW content, but not always/all of them.
 - <Badge type="info" text="R-" /> Rarely uploads NSFW content.
-- <Badge type="green" text="E" /> Only SFW content.
+- Only SFW content.
 
 **Note**: None of the websites mentioned are exclusively dedicated to NSFW content. [**Click here**](/nsfw.md) for the dedicated sites.
 
@@ -178,34 +178,34 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 == Reader
 
-- [**Mangadex**](https://mangadex.org/) <Badge type="danger" text="R+" />
+- [**Mangadex**](https://mangadex.org/) <Badge type="danger" text="18+" />
   - Uploads without compression
   - Best reader UI
   - Uploads from various scanlation groups
   - No official translations<sup>[*](https://mangadex.org/rules#content_restrictions)</sup> since it was created for fansub
   - May remove content if there is a DMCA request by the publisher or doesn't allow upload at all (e.g. One Punch-Man)
-- [**Comick**](https://comick.cc/home) <Badge type="danger" text="R+" /> 🦆
+- [**Comick**](https://comick.cc/home) <Badge type="danger" text="18+" /> 🦆
   - Minimal compression
   - Aggregates from various scanlation groups
   - Has official translations
   - Reader isn't as good as mangadex
-- [**Mangasee**](https://mangasee123.com/) <Badge type="tip" text="2" link="https://manga4life.com/" /><Badge type="tip" text="Alt UI" link="https://atsu.moe/" /><Badge type="warning" text="R" />
+- [**Mangasee**](https://mangasee123.com/) <Badge type="tip" text="2" link="https://manga4life.com/" /><Badge type="tip" text="Alt UI" link="https://atsu.moe/" /><Badge type="danger" text="18+" />
   - Has official translations
   - Compresses chapter images
   - Chapter updates are relatively slow
   - [Atsumaru](https://atsu.moe/) scrapes from Mangasee but has better UI
-- [**Colored Manga**](https://coloredmanga.com/) <Badge type="warning" text="R" />
+- [**Colored Manga**](https://coloredmanga.com/) <Badge type="danger" text="18+" />
   - Uploads without compression but mostly Shounen centric
   - Has both B&W and colored releases
   - Uploads official translations & volume releases (if available)
   - Lacks in library and upload schedule
-- [**Manga Fire**](https://mangafire.to/home) <Badge type="warning" text="R" />
+- [**Manga Fire**](https://mangafire.to/home) <Badge type="danger" text="18+" />
   - The UI is very clean with notification system
   - Uploads both chapter(multi-lang) & volume releases
   - Basic reader UI
   - Watermark on almost every manga chapters
   - Manga uploads are upto x1600
-- [**Batoto**](https://battwo.com/v3x) <Badge type="tip" text="2" link="https://mangatoto.net/" /><Badge type="tip" text="3" link="https://mangatoto.com/" /><Badge type="danger" text="R+" />
+- [**Batoto**](https://battwo.com/v3x) <Badge type="tip" text="2" link="https://mangatoto.net/" /><Badge type="tip" text="3" link="https://mangatoto.com/" /><Badge type="danger" text="18+" />
   - Has both scanlated and official releases
   - Has some exclusive uploads
   - Decent filtering options with site theme options
@@ -213,16 +213,16 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 ::: details More
 
-- [Cubari Proxy](https://proxy.cubari.moe/) <Badge type="danger" text="R+" />
-- [Manga Katana](https://mangakatana.com/) <Badge type="danger" text="R+" />
-- [Mangapark](https://mangapark.net/) <Badge type="danger" text="R+" />
-- [Mangahasu](https://mangahasu.se/) <Badge type="danger" text="R+" />
-- [Mangahub](https://mangahub.io/) <Badge type="danger" text="R+" /><Badge type="info" text="Needs account" />
-- [Manga Buddy](https://mangabuddy.com/home) <Badge type="info" text="2" link="https://mangamirror.com/home-page" /> <Badge type="info" text="3" link="https://mangaforest.com/home" /> <Badge type="warning" text="R" /><Badge type="info" text="Manhwa/hua centric" />
-- [Mangacultivator](https://mangacultivator.com) <Badge type="green" text="E" /><Badge type="info" text="Manhwa/hua centric" />
+- [Cubari Proxy](https://proxy.cubari.moe/) <Badge type="danger" text="18+" />
+- [Manga Katana](https://mangakatana.com/) <Badge type="danger" text="18+" />
+- [Mangapark](https://mangapark.net/) <Badge type="danger" text="18+" />
+- [Mangahasu](https://mangahasu.se/) <Badge type="danger" text="18+" />
+- [Mangahub](https://mangahub.io/) <Badge type="danger" text="18+" /><Badge type="info" text="Needs account" />
+- [Manga Buddy](https://mangabuddy.com/home) <Badge type="info" text="2" link="https://mangamirror.com/home-page" /> <Badge type="info" text="3" link="https://mangaforest.com/home" /> <Badge type="danger" text="18+" /><Badge type="info" text="Manhwa/hua centric" />
+- [Mangacultivator](https://mangacultivator.com)<Badge type="info" text="Manhwa/hua centric" />
 - [Like Manga](https://likemanga.io) <Badge type="info" text="R-" /><Badge type="info" text="Manhwa/hua centric" />
-- [Manga Here](https://www.mangahere.cc/) <Badge type="info" text="2" link="https://fanfox.net/" /> <Badge type="danger" text="R+" />
-- [Manganato](https://manganato.com/) <Badge type="warning" text="R" />
+- [Manga Here](https://www.mangahere.cc/) <Badge type="info" text="2" link="https://fanfox.net/" /> <Badge type="danger" text="18+" />
+- [Manganato](https://manganato.com/) <Badge type="danger" text="18+" />
 
 == Nyaa
 
@@ -243,7 +243,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 == Direct Download
 
 - [Madokami](https://manga.madokami.al) <Badge type="info" text="Guide" link="/guides/mado.md" />
-- [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) <Badge type="danger" text="R+" />
+- [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) <Badge type="danger" text="18+" />
 - [Anna's Archive](https://annas-archive.org/)
 - [Desuarchive](https://desuarchive.org/) <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
 
@@ -457,7 +457,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 :::tabs
 == General
 
-- [Nyaa](https://nyaa.si/?f=0&c=6_2&q=) <Badge type="green" text="E" />
+- [Nyaa](https://nyaa.si/?f=0&c=6_2&q=)
 - [Nyaa sukebei](https://sukebei.nyaa.si/?f=0&c=1_3&q=)
 - [Ova Games](https://www.ovagames.com/)
 - [Dodi](https://dodi-repacks.site/)

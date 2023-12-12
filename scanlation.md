@@ -24,28 +24,28 @@ Guides and resources for scanlating manga.
 
 == Reader
 
-- [Hachi Raw](https://hachiraw.com/) <Badge type="danger" text="R+" />
-- [KL Manga](https://klmanga.com/) <Badge type="warning" text="R" />
-- [Mangaraw Japan](https://mangaraw.to/) <Badge type="danger" text="R+" />
+- [Hachi Raw](https://hachiraw.com/) <Badge type="danger" text="18+" />
+- [KL Manga](https://klmanga.com/) <Badge type="danger" text="18+" />
+- [Mangaraw Japan](https://mangaraw.to/) <Badge type="danger" text="18+" />
 - [Mangaraw+](https://mangarawplus.co/)
-- [Raw Kuma](https://rawkuma.com/) <Badge type="warning" text="R" />
-- [Sen Manga](https://raw.senmanga.com/) <Badge type="danger" text="R+" />
-- [We Love Manga](https://welovemanga.one/) | [Manga 1000](https://manga1000.top/) <Badge type="warning" text="R" />
+- [Raw Kuma](https://rawkuma.com/) <Badge type="danger" text="18+" />
+- [Sen Manga](https://raw.senmanga.com/) <Badge type="danger" text="18+" />
+- [We Love Manga](https://welovemanga.one/) | [Manga 1000](https://manga1000.top/) <Badge type="danger" text="18+" />
 
 == Direct Download
 
-- [A-Z Manga](https://www.a-zmanga.net/) <Badge type="danger" text="R+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
+- [A-Z Manga](https://www.a-zmanga.net/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
 - [Asia Media Blog](https://asiamediablog.com/media/comic/manga/) <Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [Book Share Zip](https://bszip.com/) <Badge type="warning" text="R" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [Comic 77](https://comic77.com/) <Badge type="danger" text="R+" />
-- [Comics 888](https://comics888.com/) <Badge type="warning" text="R" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [DL Raw co](https://dl-raw.co/) <Badge type="warning" text="R" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [DL Raw net](https://dlraw.net/category/raw-manga/) [Manga Zip](https://manga-zip.info/category/raw-manga/) <Badge type="danger" text="R+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [DL Zip](https://dl-zip.com/) <Badge type="warning" text="R" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
+- [Book Share Zip](https://bszip.com/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
+- [Comic 77](https://comic77.com/) <Badge type="danger" text="18+" />
+- [Comics 888](https://comics888.com/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
+- [DL Raw co](https://dl-raw.co/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
+- [DL Raw net](https://dlraw.net/category/raw-manga/) [Manga Zip](https://manga-zip.info/category/raw-manga/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
+- [DL Zip](https://dl-zip.com/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
 - [Itazura Neko](https://djtguide.github.io/library/manga/subete) <Badge type="info" text="Novel" />
-- [JP DDL](https://jpddl.com/manga) <Badge type="warning" text="R" />
+- [JP DDL](https://jpddl.com/manga) <Badge type="danger" text="18+" />
 - [Manga Zone](http://www.manga-zone.org/) <Badge type="info" text="Novel" />
-- [Raw Cans](http://raw-cans.net/) <Badge type="danger" text="R+" /><Badge type="info" text="Magazine" />
+- [Raw Cans](http://raw-cans.net/) <Badge type="danger" text="18+" /><Badge type="info" text="Magazine" />
 
 >You can use [okdebrid](https://okdebrid.com/), [rapidgrab](https://rapidgrab.pl/), & [newscon](https://www.newscon.net/d/) to download free & premium files from the file hosters.
 
