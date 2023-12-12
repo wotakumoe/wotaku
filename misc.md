@@ -58,7 +58,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [AniChart](https://anichart.net/airing) 🦆
 - [AnimeSchedule](https://animeschedule.net/)
 - [Anime Countdown](https://animecountdown.com/)
-- [Eronews](https://en.eroeronews.com/) <Badge type="danger" text="R+" /> 🦆
+- [Eronews](https://en.eroeronews.com/) <Badge type="danger" text="18+" /> 🦆
 - [Livechart](https://www.livechart.me/)
 - [Monthly.moe](https://www.monthly.moe/) 🦆
 - [Notify.moe](https://notify.moe/calendar) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/animenotifier/notify.moe" />
@@ -109,7 +109,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [J-Novel Club](https://j-novel.club/calendar)
 - [Kodansha](https://kodansha.us/calendar/)
 - [Seven Seas](https://sevenseasentertainment.com/release-dates/)
-- [SuBLime](https://www.sublimemanga.com/calendar)  <Badge type="danger" text="R+" />
+- [SuBLime](https://www.sublimemanga.com/calendar)  <Badge type="danger" text="18+" />
 - [SQUARE ENIX](https://squareenixmangaandbooks.square-enix-games.com/en-us/release-calendar)
 - [TITAN Comics](https://titan-comics.com/manga/)
 - [TOKYOPOP](https://tokyopop.com/collections/comingsoon)
@@ -185,19 +185,20 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 ![](/banner/illust.png)
 
 ## Illustrations
-- [Anime Pictures](https://anime-pictures.net/) <Badge type="warning" text="R" />
-- [Booruwf](https://booru.pixiv.pics/) <Badge type="tip" text="Moeview" link="https://moeview.pixiv.pics/" /> <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/asadahimeka/booruwf-web" /><Badge type="danger" text="R+" /> 🦆
-- [Danbooru](https://danbooru.donmai.us/) <Badge type="danger" text="R+" /> <Badge type="green" link="https://safebooru.donmai.us/" text="SFW Ver"/>
-- [Gelbooru](https://gelbooru.com/) <Badge type="danger" text="R+" />
-- [Studio Ghibli](https://www.ghibli.jp/info/013772/) <Badge type="green" text="E" />
-- [Kona chan](https://konachan.com/) <Badge type="danger" text="R+" />
-- [Pixiv](https://www.pixiv.net) <Badge type="danger" text="R+" />
-- [Pixiv Viewer](https://pixiv.pics/) <Badge type="danger" text="R+" /> 🦆
-- [Safebooru](https://safebooru.org/) <Badge type="green" text="E" />
-- [Yandere](https://yande.re/post) <Badge type="danger" text="R+" />
-- [Zerochan](https://www.zerochan.net/) <Badge type="warning" text="R" />
-- [Wallhaven](https://wallhaven.cc/) <Badge type="danger" text="R+" />
-- [🍀/w/](http://catalog.neet.tv/w/) <Badge type="danger" text="R+" />
+- [Anime Pictures](https://anime-pictures.net/) <Badge type="danger" text="18+" />
+- [Booruwf](https://booru.pixiv.pics/) <Badge type="tip" text="Moeview" link="https://moeview.pixiv.pics/" /> <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/asadahimeka/booruwf-web" /><Badge type="danger" text="18+" /> 🦆
+- [Danbooru](https://danbooru.donmai.us/) <Badge type="danger" text="18+" /> <Badge type="green" link="https://safebooru.donmai.us/" text="SFW Ver"/>
+- [DeviantArt](https://www.deviantart.com/) <Badge type="danger" text="18+" />
+- [Gelbooru](https://gelbooru.com/) <Badge type="danger" text="18+" />
+- [Studio Ghibli](https://www.ghibli.jp/info/013772/)
+- [Kona chan](https://konachan.com/) <Badge type="danger" text="18+" />
+- [Pixiv](https://www.pixiv.net) <Badge type="danger" text="18+" />
+- [Pixiv Viewer](https://pixiv.pics/) <Badge type="danger" text="18+" /> 🦆
+- [Safebooru](https://safebooru.org/)
+- [Yandere](https://yande.re/post) <Badge type="danger" text="18+" />
+- [Zerochan](https://www.zerochan.net/) <Badge type="danger" text="18+" />
+- [Wallhaven](https://wallhaven.cc/) <Badge type="danger" text="18+" />
+- [🍀/w/](http://catalog.neet.tv/w/) <Badge type="danger" text="18+" />
 
 
 ![](/banner/portals.png)
@@ -426,7 +427,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 ### Free
 - [Delivering Hope](https://david-wu-softdev.itch.io/delivering-hope-hololive-fangame)
-- [Holo on Watermelon](https://unityroom.com/games/holo_watermelon)
+- [Holo on Suika](https://tkgames.jp/holo_watermelon.html)
 - [Holocure](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/) 🦆
 - [Hololive Councilrys RPG](https://kebbie.itch.io/councilrysrpg)
 - [Idol Showdown](https://store.steampowered.com/app/1742020/Idol_Showdown/) 🦆

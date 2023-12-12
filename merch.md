@@ -86,7 +86,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [Manga Collectors](https://www.reddit.com/r/MangaCollectors)
 - [Gundam Forums](https://www.gundamforums.com/)
 - [Gunpla](https://www.reddit.com/r/Gunpla)
-- [Dakimakuras](https://www.reddit.com/r/Dakimakuras) <Badge type="danger" text="R+" />
+- [Dakimakuras](https://www.reddit.com/r/Dakimakuras) <Badge type="danger" text="18+" />
 
 ## Retailers
 - [AmiAmi](https://www.amiami.com)
@@ -95,7 +95,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [Dekai Anime](https://www.dekaianime.com/)
 - [Hobby Link](https://www.hlj.com/)
 - [Hobby Search](https://www.1999.co.jp/eng/)
-- [FAKKU Merch](https://merch.fakku.net/) <Badge type="danger" text="R+" />
+- [FAKKU Merch](https://merch.fakku.net/) <Badge type="danger" text="18+" />
 - [Mandarake](https://order.mandarake.co.jp/order/)
 - [Otaku Mode](https://otakumode.com/)
 

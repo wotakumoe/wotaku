@@ -48,7 +48,7 @@ A list of other otaku communities to check out based on your specific interests.
 
 ## Boards
 
-- [Anime & Manga](https://boards.4channel.org/a/) <Badge type="warning" text="R" />
-- [Anime/Cute](https://boards.4channel.org/c/catalog) <Badge type="warning" text="R" />
-- [Anime/Wallpapers](https://boards.4channel.org/w/catalog) <Badge type="warning" text="R" />
-- [Otaku Culture](https://boards.4channel.org/jp/catalog) <Badge type="danger" text="R+" />
+- [Anime & Manga](https://boards.4channel.org/a/) <Badge type="danger" text="18+" />
+- [Anime/Cute](https://boards.4channel.org/c/catalog) <Badge type="danger" text="18+" />
+- [Anime/Wallpapers](https://boards.4channel.org/w/catalog) <Badge type="danger" text="18+" />
+- [Otaku Culture](https://boards.4channel.org/jp/catalog) <Badge type="danger" text="18+" />
