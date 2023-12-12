@@ -1,6 +1,7 @@
 {
   "type": "module",
   "scripts": {
+    "postinstall": "nitropack prepare",
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview",
