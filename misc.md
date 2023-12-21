@@ -209,9 +209,9 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == General
 ### News
 - [Anime Collective](https://animecollective.com/)
-- [Anime News Network](https://www.animenewsnetwork.com/) 🦆
+- [Anime News Network](https://www.animenewsnetwork.com/) <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/anime" />🦆
 - [Crunchyroll News](https://www.crunchyroll.com/news)
-- [MAL News](https://myanimelist.net/news)
+- [MAL News](https://myanimelist.net/news) <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/myanimelist" />
 - [ORICON NEWS](https://www.oricon.co.jp/) 🇯🇵
 - [Otaku News](https://www.otakunews.com/)
 
@@ -219,14 +219,14 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Anime Nano](https://www.animenano.com/)
 - [Animétudes](https://animetudes.com/) 🦆
 - [Let's Anime](https://letsanime.blogspot.com/)
-- [Sakuga Blog](https://blog.sakugabooru.com/)
+- [Sakuga Blog](https://blog.sakugabooru.com/) <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/SakugaBlog" /><Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/sakugaclips" />
 - [Zimmerit](https://www.zimmerit.moe/)
 
 == Anime
 
-- [Anime Corner](https://animecorner.me/) 🦆
-- [Anitrendz](https://anitrendz.net/news/)
-- [AnimeTV](https://twitter.com/animetv_jp)
+- [Anime Corner](https://animecorner.me/) <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/animecorner_ac" />🦆
+- [Anitrendz](https://anitrendz.net/news/) <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/anitrendz" />
+- [AnimeTV](https://animetv-jp.net/) <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/animetv_jp" />
 
 
 == Manga & LN
@@ -443,6 +443,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Nameless](https://sk-jynx.itch.io/nameless) 🦆
 - [Pebble Jame](https://gioba-games.itch.io/pebble-jame)
 - [smol Ame](https://moocow-games.itch.io/smol-ame)
+- [Takos Organised Neatly](https://ae-lux-production.itch.io/takos-organised-neatly)
 - [Hololive itch.io collection by David Wu SoftDev](https://itch.io/c/1018682/hololive-fangames)
 
 ### Paid
