@@ -155,6 +155,12 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
     - Has Nearest, Draft, linear and Lanczos (with various level) as scaling options
     - Not FOSS and not maintained since the development team has marked it as complete
     - No library view, only recent reads
+- [**OpenComic**](https://github.com/ollm/OpenComic) <Badge type="info" text="win" /><Badge type="info" text="mac" /><Badge type="info" text="lin" />
+    - Nice clean UI, has dark mode
+    - Has all the standard functions, including recent history
+    - Has long strip mode which is pretty smooth
+    - Has anilist tracket built in as well as controller support
+    - Still at an early stage.
 - [**SumatraPDF**](https://www.sumatrapdfreader.org/free-pdf-reader) <Badge type="info" text="win" />
     - Very simple program with all the standard features
     - Doesn't have a library, but keeps track of recently opened files
@@ -182,7 +188,6 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
 :::
 
 :::details More {open}
-- [OpenComic](https://github.com/ollm/OpenComic) <Badge type="info" text="offline" />
 - [Yomikiru](https://github.com/mienaiyami/yomikiru) <Badge type="info" text="offline" /> <tooltip>Simple UI with all the basic settings but has moiré issue. Has longstrip mode and anilist tracking.</tooltip>
 - [LANraragi](https://github.com/Difegue/LANraragi) <Badge type="info" text="Self-hosted" />
 :::
