@@ -81,6 +81,7 @@ Otaku resources for other languages/regions.
 - [CC](https://ccdm.cc/)
 - [ddys](https://ddys.art/category/anime/)
 - [MoMoVod](https://momovod.app/show/30.html)
+- [Silisili Fun](https://www.silisilifun.com/)
 - [Tangrenjie](https://www.tangrenjie.tv/vod/type/id/4.html)
 - [XG Cartoon](https://www.xgcartoon.com/)
 - [Yinghuacd](http://www.yinghuacd.com/)
@@ -112,6 +113,7 @@ Otaku resources for other languages/regions.
 - [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi) <Badge text="Tracker" />
 - [Mediabox](https://github.com/RyensX/MediaBox) <Badge text="Stream" />
 - [Miru](https://miru.js.org/) <Badge text="Stream" />  <Badge text="Manga" />
+- [Sakura Anime](https://github.com/670848654/SakuraAnime) <Badge text="Stream" />
 
 ### PC
 - [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) <Badge text="Downloader" />
