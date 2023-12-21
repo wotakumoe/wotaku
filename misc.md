@@ -64,7 +64,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Notify.moe](https://notify.moe/calendar) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/animenotifier/notify.moe" />
 - [Senpai.moe](https://www.senpai.moe/)
 - [Syoboi Calendar](https://cal.syoboi.jp/) 🇯🇵
-
+- [Yatta-Tachi](https://yattatachi.com/)
 
 == Stats & Watch guide
 
@@ -214,10 +214,10 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [MAL News](https://myanimelist.net/news)
 - [ORICON NEWS](https://www.oricon.co.jp/) 🇯🇵
 - [Otaku News](https://www.otakunews.com/)
-- [Yatta-Tachi](https://yattatachi.com/)
 
 ### Blog / Interview
 - [Anime Nano](https://www.animenano.com/)
+- [Animétudes](https://animetudes.com/) 🦆
 - [Let's Anime](https://letsanime.blogspot.com/)
 - [Sakuga Blog](https://blog.sakugabooru.com/)
 - [Zimmerit](https://www.zimmerit.moe/)
@@ -226,7 +226,6 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 - [Anime Corner](https://animecorner.me/) 🦆
 - [Anitrendz](https://anitrendz.net/news/)
-- [Animétudes](https://animetudes.com/) 🦆
 - [AnimeTV](https://twitter.com/animetv_jp)
 
 
@@ -264,6 +263,8 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Gematsu](https://www.gematsu.com/)
 - [Frontline](https://www.frontlinejp.net/)
 - [Siliconera](https://www.siliconera.com/)
+- [RPGFan](https://www.rpgfan.com/) 
+- [RPG Site](https://www.rpgsite.net/)
 - [Touhou Yomoyama News](https://touhou-project.news/)
 
 == RSS
