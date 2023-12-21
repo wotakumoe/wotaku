@@ -34,7 +34,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [The Visual Novel Database](https://vndb.org/)
 - [VNStat](https://vnstat.net/)
 - [VGMDB](https://vgmdb.net/)
-- [Last.fm](https://www.last.fm/)
+- [Last.fm](https://www.last.fm/) 🦆
 
 :::
 
@@ -181,6 +181,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 ### Others
 - [GACHAREVENUE](https://www.gacharevenue.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/zigamacele/gacharevenue" />
+- [FanCons](https://fancons.com/) <Badge type="tip" text="2" link="https://animecons.com/" />
 
 ![](/banner/illust.png)
 
@@ -206,8 +207,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 :::tabs
 == General
-
-- [AnimeCons](https://animecons.com/)
+### News
 - [Anime Collective](https://animecollective.com/)
 - [Anime News Network](https://www.animenewsnetwork.com/) 🦆
 - [Crunchyroll News](https://www.crunchyroll.com/news)
@@ -215,7 +215,12 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [ORICON NEWS](https://www.oricon.co.jp/) 🇯🇵
 - [Otaku News](https://www.otakunews.com/)
 - [Yatta-Tachi](https://yattatachi.com/)
-- [Zimmerit](https://www.zimmerit.moe/) 🦆
+
+### Blog / Interview
+- [Anime Nano](https://www.animenano.com/)
+- [Let's Anime](https://letsanime.blogspot.com/)
+- [Sakuga Blog](https://blog.sakugabooru.com/)
+- [Zimmerit](https://www.zimmerit.moe/)
 
 == Anime
 
@@ -223,8 +228,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Anitrendz](https://anitrendz.net/news/)
 - [Animétudes](https://animetudes.com/) 🦆
 - [AnimeTV](https://twitter.com/animetv_jp)
-- [Let's Anime](https://letsanime.blogspot.com/)
-- [Sakuga Blog](https://blog.sakugabooru.com/)
+
 
 == Manga & LN
 
@@ -329,6 +333,9 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Chosic](https://www.chosic.com/) 🦆
 - [Cover Search Engine](https://covers.musichoarders.xyz/) 🦆
 - [Game Tabs](https://www.gametabs.net/)
+- [Last History](https://anhuynh.github.io/last-history)
+- [musicorum](https://musicorumapp.com/)
+- [Scatter.FM](https://scatterfm.markhansen.co.nz/)
 - [Songle](https://songle.jp/)
 
 == Others
