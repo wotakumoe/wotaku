@@ -96,6 +96,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 
 == iOS
 - [EhPanda](https://github.com/EhPanda-Team/EhPanda)
+- [FEhViewer](https://github.com/3003h/FEhViewer)
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
 - [Jasmine](https://github.com/niuhuan/jasmine)
 
@@ -178,7 +179,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 
 == Scripts
 
-- E-HENTAI-VIEW-ENHANCE <Badge type="tip" icon="i-custom-fork" text="Sleezy" link="https://sleazyfork.org/en/scripts/397848-e-hentai-view-enhance" />
+- [E-HENTAI-VIEW-ENHANCE](https://github.com/MapoMagpie/eh-view-enhance) <Badge type="tip" icon="i-custom-fork" text="Sleezy" link="https://sleazyfork.org/en/scripts/397848-e-hentai-view-enhance" />
 - Eza's Image Glutton <Badge type="tip" icon="i-custom-fork" text="Sleezy" link="https://sleazyfork.org/en/scripts/4713-eza-s-image-glutton" />
 - ExResurrect <Badge type="tip" icon="i-custom-fork" text="Sleezy" link="https://sleazyfork.org/en/scripts/411277-exresurrect" />
 - Image Board Enhancer <Badge type="tip" icon="i-custom-fork" text="Sleezy" link="https://sleazyfork.org/en/scripts/387312-image-board-enhancer-rule34-gelbooru-e621-and-more" />
