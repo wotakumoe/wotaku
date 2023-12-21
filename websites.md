@@ -72,7 +72,7 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 - [Kayo anime](https://kayoanime.com/) <Badge type="info" text="GDrive" /><Badge type="info" text="no ad" />
 - [Chauthanh](https://chauthanh.info/) <Badge type="info" text="Direct" /><Badge type="info" text="no ad" />
 - [RIP Crabby Anime](https://ripcrabbyanime.in/) <Badge type="info" text="GDrive" /><Badge type="info" text="no ad" />
-- [JPFiles](https://jpfiles.eu/) <Badge type="info" text="Blu-ray" /><Badge type="info" text="Misc" /><Badge type="info" text="Host" />
+- [JPFiles](https://jpfiles.net/) <Badge type="info" text="Blu-ray" /><Badge type="info" text="Misc" /><Badge type="info" text="Host" />
 - [JPLearner](http://www.jplearner.to/) <Badge type="info" text="Blu-ray" /><Badge type="info" text="Misc" /><Badge type="info" text="Host" />
 - [AnimeRSS](https://animerss.com/) <Badge type="info" text="Blu-ray" /><Badge type="info" text="Host" />
 
@@ -326,12 +326,13 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 == Download
 
 ### FLAC
-- [Nyaa](https://nyaa.si/) <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="Torrent" />
+- [Nyaa](https://nyaa.si/) <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="Torrent" /> 🦆
 - [Sukidesu OST](https://sukidesuost.info/) <Badge type="info" text="Mega" /><Badge type="info" text="Torrent" />
 - [Sitting on Clouds](https://www.sittingonclouds.net/) <Badge type="info" text="Mega" /><Badge type="info" text="Mediafire" />
 - [SquidBoard](https://www.squid-board.org/) <Badge type="tip" text="Alt" link="https://sqb.moe/" /><Badge type="info" text="Needs account" /><Badge type="info" text="Mega" /><Badge type="info" text="Mediafire" /><Badge type="info" text="GDrive" />
 - [Asia Media Blog](https://asiamediablog.com/media/music/) <Badge type="tip" text="2" link="https://jpmusicblog.com/" /><Badge type="info" text="Host" />
-- [Free MP3 Download](https://free-mp3-download.net/)
+- [DoubleDouble](https://doubledouble.top/) <Badge type="info" text="Downloader" /> 🦆
+- [Free MP3 Download](https://free-mp3-download.net/) <Badge type="info" text="Downloader" />
 
 ### MP3
 - [OS Anime](https://osanime.com/) <Badge type="info" text="Direct" />
