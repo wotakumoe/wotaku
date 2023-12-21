@@ -334,10 +334,14 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Chosic](https://www.chosic.com/) 🦆
 - [Cover Search Engine](https://covers.musichoarders.xyz/) 🦆
 - [Game Tabs](https://www.gametabs.net/)
-- [Last History](https://anhuynh.github.io/last-history)
-- [musicorum](https://musicorumapp.com/)
-- [Scatter.FM](https://scatterfm.markhansen.co.nz/)
 - [Songle](https://songle.jp/)
+
+### Last.fm
+- [Last.fm stats](https://lastfmstats.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/felhag/lastfm-stats-web" />
+- [Last History](https://anhuynh.github.io/last-history)
+- [musicorum](https://musicorumapp.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/musicorum-app" />
+- [Scatter.FM](https://scatterfm.markhansen.co.nz/)
+- [Last.fm Time Chart](https://pmcdonough8133.github.io/last.timer/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/pmcdonough8133/last.timer?tab=readme-ov-file" />
 
 == Others
 - [3x3 Generator](https://gqgs.github.io/3x3-generator/)
