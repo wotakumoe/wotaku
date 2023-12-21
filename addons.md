@@ -105,6 +105,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 - [Calibre](https://calibre-ebook.com/)
 - [Kindle Comic Converter](https://github.com/ciromattia/kcc)
 - [KOReader](https://koreader.rocks/)
+- [Libation](https://getlibation.com/)
 - [Okular](https://okular.kde.org/)
 - [Sigil-Ebook](https://sigil-ebook.com/)
 
