@@ -20,7 +20,7 @@ The basic things to get you started.
 
 - [Comick](https://comick.app/home)
 - [Mangadex](https://mangadex.org/)
-- [Mangasee](https://mangasee123.com/) | [Atsumaru](https://atsu.moe/)
+- [Mangasee](https://mangasee123.com/) <Badge type="tip" text="Alt" link="https://atsu.moe/" />
 
 == Music
 
