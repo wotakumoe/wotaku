@@ -1,12 +1,12 @@
 ---
-title: Japan
-description: Everything about Japan!
+title: Everything Japan
+description: Everything about Japan in one page!
 customDescription: Culture, History, Festival & Language. One page for everything about Japan!
 outline: [1,2]
 ---
 
-# Japan
-Everything about Japan in one page! Language, culture, history, mytholody & more.
+# Everything Japan
+Everything about Japan in one page! Language, culture, history, mythology & more.
 
 <br>
 
@@ -15,7 +15,7 @@ Everything about Japan in one page! Language, culture, history, mytholody & more
 Interested in learning the japanese language? Here you can find resources to aid you on your journey.
 
 
-## Websites
+## Resources
 
 :::tabs
 == Starter
@@ -30,9 +30,6 @@ Interested in learning the japanese language? Here you can find resources to aid
 
 == Guides
 - [TOFUGU](https://www.tofugu.com/)
-    - [Learn Hiragana](https://www.tofugu.com/japanese/learn-hiragana/) <Badge type="tip" text="PDF" link="https://www.tofugu.com/japanese/learn-hiragana-book-pdf/" />
-    - [Learn Katakana](https://www.tofugu.com/japanese/learn-katakana/) <Badge type="tip" text="PDF" link="https://www.tofugu.com/japanese/learn-katakana-book-pdf/" />
-    - [The Best Kanji Learning Programs](https://www.tofugu.com/japanese/best-kanji-learning-programs/)
 - [itazuraneko](https://djtguide.github.io/learn/learnmain.html)
 - [Tae Kim's Guide](https://guidetojapanese.org/learn/)
 - [An introduction to Japanese](https://pomax.github.io/nrGrammar/)
@@ -41,49 +38,6 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Kanji by Sight](https://www.nihongoshark.com/post/kanji-by-sight)
 - [Kanji Damage](http://www.kanjidamage.com/)
 - [Maggie sensei](https://maggiesensei.com/) <Badge type="info" text="Conversation" />
-
-== Kanji
-
-### Practice
-- [Wanikani](https://www.wanikani.com/) <Badge type="warning" text="Freemium" />
-- [NativShark](https://www.nativshark.com/) <Badge type="warning" text="Freemium" />
-- [Kanji Garden](https://kanji.garden/)
-- [Kanji Koohii](https://kanji.koohii.com/)
-- [Kotobaweb](https://kotobaweb.com/)
-
-### Dictionary
-- [Japanese KANJI Names Dictionary](https://kanji.reader.bz/en/)
-- [Kanjipedia](https://www.kanjipedia.jp/)
-- [The Kanji Map](https://thekanjimap.com/)
-
-== Pitch Accent
-
-### Guides
-- [TOFUGU](https://www.tofugu.com/japanese/japanese-pronunciation/)
-- [Kanshudo](https://www.kanshudo.com/howto/pitch)
-- [Kezi](https://kez.io/notes/japanese/accent) <Badge type="tip" text="Gist" link="https://gist.github.com/k3zi/3f38070efffa38db83cd5745d83b1235" />
-- [The Pitch Accent Journey](https://docs.google.com/document/d/1ReBf08JFK4n0PXdOxThAfWuiK9UWVZEWWzeKSECWTQo/edit)
-- [Resources for pitch accent](https://xythh.github.io/resources)
-
-### Youtube
-- [Darius Jahandarie] [Strategies for Acquiring Pitch Accent in Japanese](https://www.youtube.com/watch?v=I-dRbTnLmBY)
-- [Dogen] [Japanese pitch-accent & pronunciation playlist](https://www.youtube.com/playlist?list=PLxMXdmBM9wPvsySiMoBzgh8d68xqKz1YP)
-- [Speak Japanese Naturally] [Japanese Pitch Accent and Intonation](https://www.youtube.com/playlist?list=PLFGs3d9Sobfgr4clmLcHUM_X4JBCyIP2n)
-- [Yudai Sensei] [Pitch Accent for Absolute Beginners](https://www.youtube.com/playlist?list=PLAmROvem8e1LhXfCUqCDshBLAdi_LlR6y)
-- [Seize Japanese] [Verb Pitch Accent and Verbs' Conjugations](https://www.youtube.com/playlist?list=PLbEVYkEj81RzdzDWujEkfjJZrzsqV3Q8O)
-
-### Tools
-- [Filmot](https://filmot.com/)
-- [YouGlish](https://youglish.com/japanese)
-
-### Pronunciation
-- [Forvo](https://forvo.com/)
-- [OJAD AI Reader](https://www.gavo.t.u-tokyo.ac.jp/ojad/phrasing/index)
-
-### Practice
-- [Kotu](https://kotu.io/)
-- [NALA](www.tufs.ac.jp/st/personal/99/kawatsu/nala/)
-- [Migaku Pitch Trainer](https://pitch-demo.migaku.io/)
 
 == Youtube
 
@@ -119,8 +73,6 @@ Interested in learning the japanese language? Here you can find resources to aid
 
 ### Videos
 - [ToKini Andy] [How I would learn japanese (if I could start over)](https://www.youtube.com/watch?v=L1NQoQivkIY)
-- [JapanesePod101] [Learn ALL hiragana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=6p9Il_j0zjc)
-- [JapanesePod101] [Learn ALL katakana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=s6DKRgtVLGA)
 
 == Media
 
@@ -165,7 +117,6 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Japanese Condensed Audio](https://mega.nz/folder/8HhhWDyJ#SHw5xsYxyhWUX536UcqkeQ) <Badge type="tip" text="2" link="https://mega.nz/folder/N4d3STJC#w3wPPgk9UgD6qE_UvjtB8Q" />
 
 == Others
-
 ### Dictionary
 - [JISHO](https://jisho.org/)
 - [JPDB](https://jpdb.io/)
@@ -179,15 +130,6 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [A Dictionary of Japanese Grammar](https://core6000.neocities.org/dojg/)
 - [Visualizing Japanese Grammar](https://www2.gwu.edu/~eall/vjgnew/vjghomepage/vjghome.htm)
 
-### Practice
-- [Genki Study Resources](https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/)
-- [Kana Pro](https://kana.pro/)
-- [Kenji Sugimoto](https://www.kenjisugimoto.com/shuji/index.html?shuji=%E3%81%8A%E6%89%8B%E6%9C%AC)
-- [Real Kana](https://realkana.com/)
-- [Tobira Study Resources](https://sethclydesdale.github.io/tobira-study-resources/)
-- [Kanji Game](https://kotobaweb.com/kanjigame/create)
-- [Japanese Numbers](https://langpractice.com/japanese)
-
 ### Resources
 - [Japanese with Anime](https://www.japanesewithanime.com/)
 - [JLPT Grammar List and Example Sentences](https://japanasubi-en.com/lp/jlptgrammarlist/)
@@ -199,6 +141,92 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Sentence Search](https://sentencesearch.neocities.org/)
 - [Massif](https://massif.la/ja)
 - [Similar word finder](https://hinoki-project.org/natsume/)
+
+:::
+
+
+## Topics
+
+:::tabs
+
+== Kana
+
+### Guides
+- [TOFUGU: Learn Hiragana](https://www.tofugu.com/japanese/learn-hiragana/) <Badge type="tip" text="PDF" link="https://www.tofugu.com/japanese/learn-hiragana-book-pdf/" />
+- [TOFUGU: Learn Katakana](https://www.tofugu.com/japanese/learn-katakana/) <Badge type="tip" text="PDF" link="https://www.tofugu.com/japanese/learn-katakana-book-pdf/" />
+- [JapanesePod101] [Learn ALL hiragana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=6p9Il_j0zjc)
+- [JapanesePod101] [Learn ALL katakana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=s6DKRgtVLGA)
+
+
+:::tip Tips
+aaaa
+
+== Kanji
+
+### Guides
+- [TOFUGU: The Best Kanji Learning Programs](https://www.tofugu.com/japanese/best-kanji-learning-programs/)
+
+### Dictionary
+- [Japanese KANJI Names Dictionary](https://kanji.reader.bz/en/)
+- [Kanjipedia](https://www.kanjipedia.jp/)
+- [The Kanji Map](https://thekanjimap.com/)
+
+:::tip Tips
+aaaa
+
+== Pitch Accent
+
+### Guides
+- [TOFUGU](https://www.tofugu.com/japanese/japanese-pronunciation/)
+- [Kanshudo](https://www.kanshudo.com/howto/pitch)
+- [Kezi](https://kez.io/notes/japanese/accent) <Badge type="tip" text="Gist" link="https://gist.github.com/k3zi/3f38070efffa38db83cd5745d83b1235" />
+- [The Pitch Accent Journey](https://docs.google.com/document/d/1ReBf08JFK4n0PXdOxThAfWuiK9UWVZEWWzeKSECWTQo/edit)
+- [Resources for pitch accent](https://xythh.github.io/resources)
+
+### Youtube
+- [Darius Jahandarie] [Strategies for Acquiring Pitch Accent in Japanese](https://www.youtube.com/watch?v=I-dRbTnLmBY)
+- [Dogen] [Japanese pitch-accent & pronunciation playlist](https://www.youtube.com/playlist?list=PLxMXdmBM9wPvsySiMoBzgh8d68xqKz1YP)
+- [Speak Japanese Naturally] [Japanese Pitch Accent and Intonation](https://www.youtube.com/playlist?list=PLFGs3d9Sobfgr4clmLcHUM_X4JBCyIP2n)
+- [Yudai Sensei] [Pitch Accent for Absolute Beginners](https://www.youtube.com/playlist?list=PLAmROvem8e1LhXfCUqCDshBLAdi_LlR6y)
+- [Seize Japanese] [Verb Pitch Accent and Verbs' Conjugations](https://www.youtube.com/playlist?list=PLbEVYkEj81RzdzDWujEkfjJZrzsqV3Q8O)
+
+
+### Others
+- **Tools**
+    - [Filmot](https://filmot.com/)
+    - [YouGlish](https://youglish.com/japanese)
+- **Pronunciation**
+    - [Forvo](https://forvo.com/)
+    - [OJAD AI Reader](https://www.gavo.t.u-tokyo.ac.jp/ojad/phrasing/index)
+
+
+:::tip Tips
+aaaa
+
+== Practice
+
+### General
+- [Kotobaweb](https://kotobaweb.com/)
+- [Genki Study Resources](https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/)
+- [Tobira Study Resources](https://sethclydesdale.github.io/tobira-study-resources/)
+- [Japanese Numbers](https://langpractice.com/japanese)
+
+### Kana
+- [Kana Pro](https://kana.pro/)
+- [Real Kana](https://realkana.com/)
+
+### Kanji
+- [Wanikani](https://www.wanikani.com/) <Badge type="warning" text="Freemium" />
+- [NativShark](https://www.nativshark.com/) <Badge type="warning" text="Freemium" />
+- [Kanji Garden](https://kanji.garden/)
+- [Kanji Koohii](https://kanji.koohii.com/)
+- [Kenji Sugimoto](https://www.kenjisugimoto.com/shuji/index.html?shuji=%E3%81%8A%E6%89%8B%E6%9C%AC)
+- [Kanji Game](https://kotobaweb.com/kanjigame/create)
+
+### Pitch
+- [Kotu](https://kotu.io/)
+- [NALA](www.tufs.ac.jp/st/personal/99/kawatsu/nala/)
+- [Migaku Pitch Trainer](https://pitch-demo.migaku.io/)
 
 :::
 
@@ -277,6 +305,10 @@ Interested in learning the japanese language? Here you can find resources to aid
 
 ### Vocabulary
 - [Kanzen Master N1 Vocabulary](https://www.amazon.com/Kanzen-Master-Vocabulary-Language-Proficiency/dp/4883195732)
+:::
+
+:::details Downloading books {open}
+You can use [**Anna’s Archive**](https://annas-archive.org), [**Z-Library**](https://singlelogin.re/), [**PDF Drive**](https://www.pdfdrive.com/) & [**Mobilism**](https://forum.mobilism.org/viewforum.php?f=106) to download books.
 :::
 
 ## Software
@@ -361,7 +393,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 
 ![](/banner/abtjpn.png)
 # About Japan
-Culture, History, Mytholody & Festival. Everything about Japan!
+Culture, History, Mythology & Festival. Everything about Japan!
 
 ## Culture & History
 
@@ -385,6 +417,7 @@ Culture, History, Mytholody & Festival. Everything about Japan!
 - [Japan's History and Geography](https://www.youtube.com/playlist?list=PLZZ0o0vuqmrOKvwEDnlb_ogILpBlo3RoW) 🦆
 - [The Shogunate](https://www.youtube.com/@TheShogunate/)
 :::
+
 
 ## Mythology
 
@@ -499,29 +532,36 @@ Culture, History, Mytholody & Festival. Everything about Japan!
 == Explainers
 
 ### Japan
-- [Understanding the Japanese Writing System](https://www.youtube.com/watch?v=r7a8OjvViwE)
-- [the peculiar case of japanese web design](https://sabrinas.space/) <Badge type="info" text="Video" link="https://www.youtube.com/watch?v=z6ep308goxQ" /> 🦆
-    - [How culture made Japanese Internet design "Weird"](https://www.youtube.com/watch?v=Opy-SjDU0UY)
+
 - [Diggin' In The Carts: Japanese Video Game Music Documentary](https://www.youtube.com/playlist?list=PLdd050JRcXCIefOzuG_gw-KNUlq_beHar)
 - [Pachinko: Japan's Biggest Gaming Obsession Explained](https://www.youtube.com/watch?v=-tBy2jemw4s)
 - [Social problems in Japan](https://www.youtube.com/playlist?list=PLpIWoYf9KNFV_I-719B3pk673xaHZ6fYY)
+- [the peculiar case of japanese web design](https://sabrinas.space/) <Badge type="info" text="Video" link="https://www.youtube.com/watch?v=z6ep308goxQ" /> 🦆
+    - [How culture made Japanese Internet design "Weird"](https://www.youtube.com/watch?v=Opy-SjDU0UY)
+- [Understanding the Japanese Writing System](https://www.youtube.com/watch?v=r7a8OjvViwE)
 - [Why some Asian accents swap Ls and Rs in English](https://www.youtube.com/watch?v=2yzMUs3badc)
 - [Why Most Japanese Clip Art Looks Like This](https://www.youtube.com/watch?v=g3CyRZY90M4)
 
 ### Otaku
+
+- [Anime Figures 101](https://youtube.com/playlist?list=PL67Usptllz-RMadnMX0oCWXqdiD2pAHnS)
 - [Doujinshi: Japan's Most Misunderstood Medium](https://www.youtube.com/watch?v=5N0VerI9DxE)
+- [IDOL - The Terrifying Reality of Perfect Blue](https://www.youtube.com/watch?v=WAcb_57r1Bo)
+- [Smoother animation ≠ Better animation [AI ENHANCED]](https://www.youtube.com/watch?v=_KRb_qV9P4g)
+    - [reviewing your takes on animation](https://www.youtube.com/watch?v=OhcLATiI9Is)
+- [What Are Gacha Games, and Why Do People Play Them?](https://www.youtube.com/watch?v=IIVjnRAJkZ8)
 - [What is Touhou? A Brief Introduction](https://www.youtube.com/watch?v=livReBXdiek)
+- [wtf is a vtuber?](https://www.youtube.com/watch?v=r8blCsTOc2I)
+- [The Philosophy of Vtubers](https://www.youtube.com/watch?v=Z8r6jFyISBg)
+
+### Vocaloid
+
 - [Explaining Vocaloid in under 3 minutes](https://www.youtube.com/watch?v=GODXMGAMpVc)
+- [A guide to Vocaloid concerts](https://www.youtube.com/watch?v=2JtLAwllxI8) <Badge type="info" text="Part 2" link="https://www.youtube.com/watch?v=OzPKF-DMuUE" />
+- [My First Miku Concert!](https://www.youtube.com/watch?v=XIgANZCBRKo)
 - [So, you wanna get into VOCALOID](https://www.youtube.com/watch?v=y5pPALER7WU) <tooltip>Watch this for the introduction only (till `21:42`), since the software section is outdated. </tooltip>
     - [So, you wanna get into VSynth Covers](https://www.youtube.com/watch?v=ySledv37IrQ)
 - [The Foundations of Making Vocaloid - A Beginner's Guide Tutorial](https://www.youtube.com/watch?v=6cisVNaOJXY)
-- [A guide to Vocaloid concerts](https://www.youtube.com/watch?v=2JtLAwllxI8) <Badge type="info" text="Part 2" link="https://www.youtube.com/watch?v=OzPKF-DMuUE" />
-- [My First Miku Concert!](https://www.youtube.com/watch?v=XIgANZCBRKo)
-- [IDOL - The Terrifying Reality of Perfect Blue](https://www.youtube.com/watch?v=WAcb_57r1Bo)
-- [The Philosophy of Vtubers](https://www.youtube.com/watch?v=Z8r6jFyISBg)
-- [Smoother animation ≠ Better animation [AI ENHANCED]](https://www.youtube.com/watch?v=_KRb_qV9P4g)
-    - [reviewing your takes on animation](https://www.youtube.com/watch?v=OhcLATiI9Is)
-- [Anime Figures 101](https://youtube.com/playlist?list=PL67Usptllz-RMadnMX0oCWXqdiD2pAHnS)
 
 :::
 
@@ -545,5 +585,5 @@ Culture, History, Mytholody & Festival. Everything about Japan!
 - [Japan Pics](https://www.reddit.com/r/japanpics/)
 - [Japan Life](https://www.reddit.com/r/japanlife/)
 - [Japan Travel](https://www.reddit.com/r/JapanTravel/)
-- [🍀/jp/](https://boards.4channel.org/jp/catalog) <Badge type="danger" text="18+" />
+- [🍀/jp/](https://boards.4channel.org/jp/catalog) <Badge type="tip" text="Archive" link="https://warosu.org/jp/" /><Badge type="danger" text="18+" />
 :::
