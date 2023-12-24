@@ -82,6 +82,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Anime Stats](https://anime-stats.net/) 🦆
 - [Anime Corner](https://animecorner.me/category/anime-corner/rankings/)
 - [Anitrendz](https://anitrendz.com/charts/top-anime)
+- [Kitsu Season Trends](https://season.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/wopian/kitsu-season-trends" />
 
 :::
 
