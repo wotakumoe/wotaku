@@ -12,7 +12,7 @@ The basic things to get you started.
 
 == Anime
 
-- [Aniwave](https://aniwave.to/home) | [Alt UI](https://9animehq.to/home) <Badge text="Formerly 9anime"/>
+- [Aniwave](https://aniwave.to/home) <Badge type="info" text="Lite" link="https://lite.aniwave.to/home" /><Badge type="info" text="Alt" link="https://anix.to/home" /><Badge type="info" text="Proxies" link="https://aniwave.tv/" />
 - [KickAssAnime](https://kickassanime.am/) <tooltip>Use duckstream if available because it scrapes crunchyroll. If that's not available use Vidstream.</tooltip>
 - [Tokyo Insider](https://www.tokyoinsider.com/) <Badge text="DDL" />
 
@@ -31,7 +31,7 @@ The basic things to get you started.
 
 == Torrent
 
-- [Nyaa](https://nyaa.si/)
+- [Nyaa](https://nyaa.si/) <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" />
 - [Anime Tosho](https://animetosho.org/)
 - [Anidex](https://anidex.info/)
 
@@ -57,8 +57,8 @@ The basic things to get you started.
 - [Houdoku](https://github.com/xgi/houdoku) <Badge text="Manga" />
 - [MComix](https://sourceforge.net/projects/mcomix/files/) <Badge text="Manga" />
 - [Miru](https://github.com/ThaUnknown/miru/) <Badge text="Anime" />
-- [Hakuneko](https://github.com/manga-download/hakuneko) <Badge text="Downloader" /> <Badge text="Anime" /> <Badge  text="Manga" />
 - [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) <Badge text="Downloader" /> <Badge  text="Manga" />
+- [Hakuneko](https://github.com/manga-download/hakuneko) <Badge text="Downloader" /> <Badge text="Anime" /> <Badge  text="Manga" />
 
 :::
 
@@ -75,7 +75,7 @@ The basic things to get you started.
 
 == Browsers
 
-- [Iceraven](https://github.com/fork-maintainers/iceraven-browser) <Badge text="Android" />
+- [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) <Badge text="Android" />
 - [Mull](https://github.com/Divested-Mobile/Mull-Fenix) <Badge text="Android" />
 - [Librewolf](https://librewolf.net/) <Badge text="Windows" /> <Badge text="Linux" /> <Badge  text="MacOS" />
 - [Brave](https://brave.com/) <Badge text="Android" /> <Badge  text="iOS" /> <Badge text="Windows" /> <Badge  text="Linux" /> <Badge text="MacOS" />
