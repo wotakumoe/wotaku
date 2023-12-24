@@ -6,10 +6,20 @@ customDescription: Discover the best websites for anime, manga, novels & more. E
 # Websites
 Online resources for anime, manga, novels and more.
 
-<br>
+### Blocking Ads
 
-::: tip Ad blocking {open}
-Use <Badge type="tip" icon="i-custom-ada" text="AdAway" link="https://adaway.org/" /> or <Badge type="tip" icon="i-custom-adg" text="Adguard" link="https://adguard.com/en/welcome.html" /> on Android and <Badge type="tip" icon="i-custom-ubo" text="uBlock Origin" link="https://ublockorigin.com/" /> in browsers to get rid of all the ads and trackers. For iOS, use <Badge type="tip" icon="i-custom-adg" text="AdGuard DNS" link="https://adguard-dns.io/" /> as profile.
+:::tabs
+
+== Android
+Install [**Firefox**](https://play.google.com/store/apps/details?id=org.mozilla.firefox) and add [**uBlock Origin**](https://addons.mozilla.org/en-US/android/addon/ublock-origin/). This should be more than enough. If you want system-wide support, install [**Adguard**](https://adguard.com/en/adguard-android/overview.html) or try [**NextDNS**](https://nextdns.io/). You can watch [**this video**](https://youtu.be/WUG57ynLb8I), if you need guidance.
+
+== PC
+Install [**uBlock Origin**](https://ublockorigin.com/) in your browser and it's done! If you want system-wide solution, you *can* use [**NextDNS**](https://nextdns.io/) but it won't be as effective as 
+uBlock Origin.
+
+== iOS
+[**NextDNS**](https://nextdns.io/) should cover everything for system-wide ads & trackers. You can also try [**AhaDNS**](https://ahadns.com/).
+
 :::
 
 
@@ -330,7 +340,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Sukidesu OST](https://sukidesuost.info/) <Badge type="info" text="Mega" /><Badge type="info" text="Torrent" />
 - [Sitting on Clouds](https://www.sittingonclouds.net/) <Badge type="info" text="Mega" /><Badge type="info" text="Mediafire" />
 - [SquidBoard](https://www.squid-board.org/) <Badge type="tip" text="Alt" link="https://sqb.moe/" /><Badge type="info" text="Needs account" /><Badge type="info" text="Mega" /><Badge type="info" text="Mediafire" /><Badge type="info" text="GDrive" />
-- [Asia Media Blog](https://asiamediablog.com/media/music/) <Badge type="tip" text="2" link="https://jpmusicblog.com/" /><Badge type="tip" text="3" link="https://jpmediadl.com/" /><Badge type="danger" text="18+" /><Badge type="info" text="Host" />
+- [Asia Media Blog](https://asiamediablog.com/media/music/) <Badge type="tip" text="2" link="https://jpmusicblog.com/music/" /><Badge type="tip" text="3" link="https://jpmediadl.com/music/" /><Badge type="danger" text="18+" /><Badge type="info" text="Host" />
 - [DoubleDouble](https://doubledouble.top/) <Badge type="info" text="Downloader" /> 🦆
 - [Free MP3 Download](https://free-mp3-download.net/) <Badge type="info" text="Downloader" />
 
