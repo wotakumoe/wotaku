@@ -30,11 +30,18 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Novel updates](https://www.novelupdates.com/)
 - [Kenmei](https://www.kenmei.co/)
 
-== Others
-- [The Visual Novel Database](https://vndb.org/)
+== Games
+- [Backloggd](https://www.backloggd.com/)
+- [IGDB](https://www.igdb.com/)
+- [Infinite Backlog](https://infinitebacklog.net/) 🦆
+- [MobyGames](https://www.mobygames.com/)
+- [SteamDB](https://steamdb.info/)
+- [The Visual Novel Database (VNDB)](https://vndb.org/) 🦆
 - [VNStat](https://vnstat.net/)
-- [VGMDB](https://vgmdb.net/)
+
+== Others
 - [Last.fm](https://www.last.fm/) 🦆
+- [VGMdb](https://vgmdb.net/)
 
 :::
 
