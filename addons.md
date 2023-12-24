@@ -1,10 +1,10 @@
 ---
 title: Add-ons
 description: Sofware to make life easier
-customDescription: Boost your otaku experience with various add-ons. Includes anime/manga tracking, Discord bots, browser extensions, apps, tools, and scripts for enhanced usage.
+customDescription: Various add-ons to enhance your experience; not all of them are necessarily weeb-related, but they can be genuinely helpful.
 ---
 # Add-ons
-Various add-ons to enhance your otaku experience. Includes anime/manga tracking, Discord bots, browser extensions, scripts and more!
+Various add-ons to enhance your experience; not all of them are necessarily weeb-related, but they can be genuinely helpful.
 <br>
 
 ![](/banner/apps.png)
@@ -55,7 +55,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
   - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en&gl=US) <Badge type="tip" text="Mobilism" link="https://forum.mobilism.me/search.php?keywords=mx+player&sr=topics&sf=titleonly" />
   - [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) <Badge type="info" text="iOS" />
 - **Online**
-  - [Revanced](https://revanced.app/)
+  - [Revanced](https://revanced.app/) <Badge type="tip" text="MicroG RE" link="https://github.com/WSTxda/MicroG-RE" />
   - [Libretube](https://libretube.dev/)
   - [Grayjay](https://grayjay.app/)
 

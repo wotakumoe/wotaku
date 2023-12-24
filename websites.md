@@ -11,7 +11,7 @@ Online resources for anime, manga, novels and more.
 :::tabs
 
 == Android
-Install [**Firefox**](https://play.google.com/store/apps/details?id=org.mozilla.firefox) and add [**uBlock Origin**](https://addons.mozilla.org/en-US/android/addon/ublock-origin/). This should be more than enough. If you want system-wide support, install [**Adguard**](https://adguard.com/en/adguard-android/overview.html) or try [**NextDNS**](https://nextdns.io/). You can watch [**this video**](https://youtu.be/WUG57ynLb8I), if you need guidance.
+Install [**Firefox**](https://play.google.com/store/apps/details?id=org.mozilla.firefox) and add [**uBlock Origin**](https://addons.mozilla.org/en-US/android/addon/ublock-origin/). This should be more than enough. If you want system-wide support, try [**Adguard**](https://adguard.com/en/adguard-android/overview.html) or [**NextDNS**](https://nextdns.io/). You can watch [**this video**](https://youtu.be/WUG57ynLb8I), if you need guidance.
 
 == PC
 Install [**uBlock Origin**](https://ublockorigin.com/) in your browser and it's done! If you want system-wide solution, you *can* use [**NextDNS**](https://nextdns.io/) but it won't be as effective as 
