@@ -30,7 +30,7 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
   - Extensions often break
 - [**Dantotsu**](https://github.com/rebelonion/Dantotsu#dantotsu){target="_blank"} <Badge type="info" icon="i-octicon-globe" text="Web" link="https://dantotsu.app/" />
   - App is based on saikou, uses tachiyomi & aniyomi plugins
-  - ⚠️ App is alpha. So there are optimzation & stability issues
+  - Has Novel support
   - Decent UI but limited customization
   - Can be used offline
   - Also offers manga reader
