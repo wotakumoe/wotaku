@@ -15,11 +15,10 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 == Essentials
 
 ### Browsers
-- [Iceraven](https://github.com/fork-maintainers/iceraven-browser) <Badge type="info" text="Android" />
+- [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) <Badge text="Android" />
 - [Mull](https://github.com/Divested-Mobile/Mull-Fenix) <Badge type="info" text="Android" />
 - [Brave](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en&gl=US) <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
 - [Cromite](https://github.com/uazo/cromite) <Badge type="info" text="Android" />
-- [DuckDuckGo Private Browser](https://duckduckgo.com/) <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
 
 ### Ad blocking
 - [Adaway](https://adaway.org/) <Badge type="info" text="Android" />
@@ -32,7 +31,6 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 == Downloaders
 
 - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) <Badge type="info" text="Android" />
-- [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm&hl=en&gl=US) <Badge type="info" text="Android" />
 - [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) <Badge type="info" text="Android" />
 - [ADM](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US) <Badge type="info" text="Android" />
 - [libretorrent](https://github.com/proninyaroslav/libretorrent) <Badge type="info" text="Android" />
@@ -40,24 +38,43 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 
 == Media
 
-- [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player)
-- [Innertune](https://github.com/z-huang/InnerTune) <Badge type="info" text="Youtube Music" /> 🦆
-- [mpv-android](https://github.com/mpv-android/mpv-android) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=is.xyz.mpv&hl=en&gl=US" />
-- [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en&gl=US) <Badge type="tip" text="Mobilism" link="https://forum.mobilism.me/search.php?keywords=mx+player&sr=topics&sf=titleonly" />
-- [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) <Badge type="info" text="iOS" />
-- [Poweramp](https://powerampapp.com/) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer&hl=en&gl=US" /> 🦆
-- [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) <Badge type="info" text="iOS" /><Badge type="info" text="Spotify" />
-- [Spotify++](https://appdb.to/app/cydia/1900000540) <Badge type="info" text="iOS" />
-- [xManager](https://www.xmanagerapp.com/) <Badge type="info" text="Android" /><Badge type="info" text="Spotify" />
+### Audio
+- **Local**
+  - [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player)
+  - [Poweramp](https://powerampapp.com/) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer&hl=en&gl=US" /> 🦆
+  - [Oto Music Player](https://play.google.com/store/apps/details?id=com.piyush.music)
+- **Online**
+  - [Innertune](https://github.com/z-huang/InnerTune) <Badge type="info" text="Youtube Music" /> 🦆
+  - [xManager](https://www.xmanagerapp.com/) <Badge type="info" text="Android" /><Badge type="info" text="Spotify" />
+  - [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) <Badge type="info" text="iOS" /><Badge type="info" text="Spotify" />
+  - [Spotify++](https://appdb.to/app/cydia/1900000540) <Badge type="info" text="iOS" />
+
+### Video
+- **Local**
+  - [mpv-android](https://github.com/mpv-android/mpv-android) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=is.xyz.mpv&hl=en&gl=US" />
+  - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en&gl=US) <Badge type="tip" text="Mobilism" link="https://forum.mobilism.me/search.php?keywords=mx+player&sr=topics&sf=titleonly" />
+  - [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) <Badge type="info" text="iOS" />
+- **Online**
+  - [Revanced](https://revanced.app/)
+  - [Libretube](https://libretube.dev/)
+  - [Grayjay](https://grayjay.app/)
 
 == Trackers
 
-- [AniHyou](https://github.com/axiel7/AniHyou-android) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.axiel7.anihyou" /><Badge type="info" text="AL" />
-- [Apps for AniList](https://AniList.co/apps) <Badge type="info" text="AL" />
-- DailyAL <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.teen.dailyanimelist&hl=en&gl=US" /><Badge type="info" text="MAL" />
+### AniList
+- [AniHyou](https://github.com/axiel7/AniHyou-android) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.axiel7.anihyou" />
+- [Apps for AniList](https://AniList.co/apps)
+- [Kurumi](https://play.google.com/store/apps/details?id=com.subrotokumar.kurumi)
+
+### MyAnimeList
+- DailyAL <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.teen.dailyanimelist&hl=en&gl=US" />
+- [MoeList](https://github.com/axiel7/MoeList) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://moelist.net/" />
+
+### Others
 - [Kitsu](https://github.com/hummingbird-me/kitsu-mobile) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.everfox.animetrackerandroid&hl=en&gl=US" /><Badge type="tip" icon="i-logos-apple-app-store" text="iOS" link="https://apps.apple.com/us/app/kitsu-anime/id590452826" /><Badge type="info" text="Kitsu" />
 - [Kitsune](https://github.com/Drumber/Kitsune) <Badge type="info" text="Kitsu" />
-- [MoeList](https://github.com/axiel7/MoeList) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://moelist.net/" /><Badge type="info" text="MAL" />
+- [Pano Scrobbler for LastFM](https://play.google.com/store/apps/details?id=com.arn.scrobble) <Badge type="info" text="Last.fm" />
+
 
 == Others
 
@@ -69,7 +86,6 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
   - [Boorusphere](https://github.com/nullxception/boorusphere)
   - Pixiv <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=jp.pxv.android" />
 - [KizzyRPC](https://github.com/dead8309/KizzyRPC)
-- [Pano Scrobbler for LastFM](https://play.google.com/store/apps/details?id=com.arn.scrobble)
 
   :::
 
@@ -128,9 +144,8 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 
 ### Video
 - [IINA](https://iina.io/) <Badge type="info" text="MacOS" />
-- [MPC-HC](https://github.com/clsid2/mpc-hc) <Badge type="info" text="Codec guide" link="https://codecguide.com/media_player_classic.htm"/>
+- [MPC-HC](https://github.com/clsid2/mpc-hc) <Badge type="info" text="Codec guide" link="https://codecguide.com/media_player_classic.htm"/><Badge type="tip" text="Guide" link="https://kokomins.wordpress.com/2021/03/27/mpc-hc-and-madvr-setup-guide/" />
 - [mpv](https://mpv.io/) <Badge type="info" text="mpv.net" link="https://github.com/mpvnet-player/mpv.net"/>
-- [Potplayer](https://potplayer.daum.net/)
 - [K-Lite Codec Pack](https://codecguide.com/download_kl.htm)
 
 ### Online
@@ -260,7 +275,7 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 - [KellyC Image Downloader](https://github.com/NC22/KellyC-Image-Downloader) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://kellydownloader.com/en/" /><Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chrome.google.com/webstore/detail/kellyc-image-downloader/mbhkdmjolnhcppnkldbdfaomeabjiofm" /><Badge type="tip" icon="i-logos-firefox" text="Firefox" link="https://addons.mozilla.org/ru/firefox/addon/kellyc-favorites/" />
 - [MAL Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://hritikvaishnav.github.io/Project-Redesign/mal.html" /><Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chrome.google.com/webstore/detail/myanimelist-redesign/knegaeodgehajemjpfbhlgjdcloklkal" /><Badge type="tip" icon="i-logos-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/myanimelist-redesign/" />
 - [Pixiv Batch Downloader](https://github.com/xuejianxianzun/PixivBatchDownloader) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://pixiv.download/" /><Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chrome.google.com/webstore/detail/powerful-pixiv-downloader/dkndmhgdcmjdmkdonmbgjpijejdcilfh" />
-- [Search by Image](https://github.com/dessant/search-by-image)
+- [Search by Image](https://github.com/dessant/search-by-image) 🦆
 - [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler)
 
 :::
