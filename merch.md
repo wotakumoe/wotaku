@@ -49,6 +49,7 @@ Looking to buy memorabilia from your favourite series and support the creators? 
     - An overall good coverage of all the types of merch out there
 - [Bootleg Guide](https://solarisjapan.com/blogs/news/ultimate-guide-bootlegs-fake-anime-figures)
     - Bootleg (Fake product) spotting guide
+- [Meramifan's Fowrarding and Proxy guide](https://meramifan.wordpress.com/guide/#forwarding-and-proxy-shopping-services)
 
 :::
 
@@ -57,7 +58,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 :::
 
 
-## Guides
+## Guides 🦆
 - [A Complete Guide by BuyFag](https://www.buyfags.moe/Full_guide)
 - [Bootleg Figure Spotting Guide by Solaris](https://solarisjapan.com/blogs/news/ultimate-guide-bootlegs-fake-anime-figures)
 - [Dakimakuras guide](https://daki.info/)
