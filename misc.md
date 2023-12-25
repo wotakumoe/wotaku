@@ -196,13 +196,14 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Danbooru](https://danbooru.donmai.us/) <Badge type="danger" text="18+" /> <Badge type="green" link="https://safebooru.donmai.us/" text="SFW Ver"/>
 - [DeviantArt](https://www.deviantart.com/) <Badge type="danger" text="18+" />
 - [Gelbooru](https://gelbooru.com/) <Badge type="danger" text="18+" />
-- [Studio Ghibli](https://www.ghibli.jp/info/013772/)
-- [Kona chan](https://konachan.com/) <Badge type="danger" text="18+" />
+- [Konachan](https://konachan.com/) <Badge type="danger" text="18+" />
 - [Pixiv](https://www.pixiv.net) <Badge type="danger" text="18+" />
 - [Pixiv Viewer](https://pixiv.pics/) <Badge type="danger" text="18+" /> 🦆
 - [Safebooru](https://safebooru.org/)
-- [Yandere](https://yande.re/post) <Badge type="danger" text="18+" />
-- [Zerochan](https://www.zerochan.net/) <Badge type="danger" text="18+" />
+- [Sakuga Booru](https://www.sakugabooru.com/) <Badge type="tip" icon="i-logos-twitter" text="1" link="https://twitter.com/SakugaBlog" /><Badge type="tip" icon="i-logos-twitter" text="2" link="https://twitter.com/sakugaclips" />
+- [Studio Ghibli](https://www.ghibli.jp/info/013772/)
+- [Yandere](https://yande.re/) <Badge type="danger" text="18+" />
+- [Zerochan](https://www.zerochan.net/)
 - [Wallhaven](https://wallhaven.cc/) <Badge type="danger" text="18+" />
 - [🍀/w/](http://catalog.neet.tv/w/) <Badge type="danger" text="18+" />
 
@@ -224,7 +225,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Anime Nano](https://www.animenano.com/)
 - [Animétudes](https://animetudes.com/) 🦆
 - [Let's Anime](https://letsanime.blogspot.com/)
-- [Sakuga Blog](https://blog.sakugabooru.com/) <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/SakugaBlog" /><Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/sakugaclips" />
+- [Sakuga Blog](https://blog.sakugabooru.com/)
 - [Zimmerit](https://www.zimmerit.moe/)
 
 == Anime

@@ -326,6 +326,7 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 - [Max URL](https://github.com/qsniyg/maxurl)
 - [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE%2B)
 - [Handy Image](https://github.com/Owyn/HandyImage) <Badge type="tip" icon="i-custom-fork" text="Sleezy" link="https://sleazyfork.org/en/scripts/109-handy-image" />
+- [Sakuga Extended](https://github.com/ftLoic/Sakuga-Extended) <Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chromewebstore.google.com/detail/khmnmdaghmhkcbooicndamlhkcmpklmc" /><Badge type="tip" icon="i-logos-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/sakuga-extended/" />
 
 == Others
 
