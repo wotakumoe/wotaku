@@ -39,9 +39,26 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [The Visual Novel Database (VNDB)](https://vndb.org/) 🦆
 - [VNStat](https://vnstat.net/)
 
-== Others
+== Music
+
+### General
 - [Last.fm](https://www.last.fm/) 🦆
+- [Discogs](https://www.discogs.com/)
+- [MusicBrainz](https://musicbrainz.org/)
 - [VGMdb](https://vgmdb.net/)
+
+### Anime
+- [Aniplaylist](https://aniplaylist.com/)
+- [Anime Song Lyrics](https://www.animesonglyrics.com/)
+
+### Doujin
+- [VocaDB](https://vocadb.net/)
+- [TouhouDB](https://touhoudb.com/)
+- [UtaiteDB](https://utaitedb.net/)
+- [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)
+- [THB Wiki](https://thwiki.cc/)
+- [Touhou Spotify Music](https://www.thspotify.moe/) <Badge type="tip" text="Docs" link="https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit#gid=0" />
+- [Utaite Key](https://utaite-key.info/)
 
 :::
 
@@ -130,25 +147,18 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 :::tabs
 
-==  Wiki / Index
+== info
 
-### Anime
-- [Aniplaylist](https://aniplaylist.com/)
-- [Anime Song Lyrics](https://www.animesonglyrics.com/)
+### Ranking
+- [ORICON](https://www.oricon.co.jp/music/rankinglab/) <Badge type="tip" text="Full" link="https://www.oricon.co.jp/rank/" />
+- [Billboard JAPAN](https://www.billboard-japan.com/charts/)
+- [Uta-Net](https://www.uta-net.com/ranking/)
+- [UtaTen](https://utaten.com/ranking/)
 
-### Doujin
-- [VocaDB](https://vocadb.net/)
-- [TouhouDB](https://touhoudb.com/)
-- [UtaiteDB](https://utaitedb.net/)
-- [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)
-- [THB Wiki](https://thwiki.cc/)
-- [Touhou Spotify Music](https://www.thspotify.moe/) <Badge type="tip" text="Docs" link="https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit#gid=0" />
-- [Utaite Key](https://utaite-key.info/)
-
-### General
-- [VGMdb](https://vgmdb.net/)
-- [Discogs](https://www.discogs.com/)
-- [MusicBrainz](https://musicbrainz.org/)
+### Events
+- [JaME](https://www.jame-world.com/en/event)
+- [List of J-pop concerts held outside Asia](https://en.wikipedia.org/wiki/List_of_J-pop_concerts_held_outside_Asia) <Badge type="tip" text="Wand" link="https://www.wikiwand.com/en/List_of_J-pop_concerts_held_outside_Asia" />
+- [Songkick](https://www.songkick.com/) <Badge type="info" text="General" />
 
 == Discovery
 
@@ -171,19 +181,6 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 ### Playlists
 - [🍀/jp/ vocaloid playlist ](https://www.youtube.com/playlist?list=PLQqLx44OgzZybkIf7LZ2YI8iLL9b3BpJw)
 - [Vocaloid Big Hits](https://music.youtube.com/playlist?list=RDCLAK5uy_mgu07-HoqLSU-WqjK2ldEQWLuPPm3CAy8)
-
-== Others
-
-### Ranking
-- [ORICON](https://www.oricon.co.jp/music/rankinglab/) <Badge type="tip" text="Full" link="https://www.oricon.co.jp/rank/" />
-- [Billboard JAPAN](https://www.billboard-japan.com/charts/)
-- [Uta-Net](https://www.uta-net.com/ranking/)
-- [UtaTen](https://utaten.com/ranking/)
-
-### Events
-- [JaME](https://www.jame-world.com/en/event)
-- [List of J-pop concerts held outside Asia](https://en.wikipedia.org/wiki/List_of_J-pop_concerts_held_outside_Asia) <Badge type="tip" text="Wand" link="https://www.wikiwand.com/en/List_of_J-pop_concerts_held_outside_Asia" />
-- [Songkick](https://www.songkick.com/) <Badge type="info" text="General" />
 
 :::
 
@@ -273,7 +270,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Siliconera](https://www.siliconera.com/)
 - [RPGFan](https://www.rpgfan.com/) 
 - [RPG Site](https://www.rpgsite.net/)
-- [Touhou Yomoyama News](https://touhou-project.news/)
+- [Touhou Yomoyama News](https://touhou-project.news/) 🇯🇵
 
 == RSS
 
