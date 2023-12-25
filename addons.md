@@ -49,6 +49,11 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
   - [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) <Badge type="info" text="iOS" /><Badge type="info" text="Spotify" />
   - [Spotify++](https://appdb.to/app/cydia/1900000540) <Badge type="info" text="iOS" />
 
+### Illustrations
+- [Boorusphere](https://github.com/nullxception/boorusphere)
+- Pixiv <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=jp.pxv.android" />
+- Anime Boxes <Badge type="info" icon="i-octicon-globe" text="Web" link="https://www.animebox.es/" /> <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
+
 ### Video
 - **Local**
   - [mpv-android](https://github.com/mpv-android/mpv-android) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=is.xyz.mpv&hl=en&gl=US" />
@@ -64,7 +69,7 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 ### AniList
 - [AniHyou](https://github.com/axiel7/AniHyou-android) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.axiel7.anihyou" />
 - [Apps for AniList](https://AniList.co/apps)
-- [Kurumi](https://play.google.com/store/apps/details?id=com.subrotokumar.kurumi)
+- [Kurumi](https://github.com/subrotokumar/kurumi)
 
 ### MyAnimeList
 - DailyAL <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.teen.dailyanimelist&hl=en&gl=US" />
@@ -81,10 +86,6 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 - [APKUpdater](https://github.com/rumboalla/apkupdater)
 - [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play)
 - [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa&hl=en&gl=US) 🦆
-- Illustrations
-  - Anime Boxes <Badge type="info" icon="i-octicon-globe" text="Web" link="https://www.animebox.es/" />
-  - [Boorusphere](https://github.com/nullxception/boorusphere)
-  - Pixiv <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=jp.pxv.android" />
 - [KizzyRPC](https://github.com/dead8309/KizzyRPC)
 
   :::
