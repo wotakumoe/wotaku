@@ -11,7 +11,7 @@ Guides and resources for scanlating manga.
 
 ## Communities
 
-- [Scanner Usage School Server](https://discord.com/invite/NCzxVB9)
+- [Scanner Usage School Server](https://discord.com/invite/NCzxVB9) 🦆
 - [r/Scanlation](https://www.reddit.com/r/Scanlation/)
 - [Manga Helpers](https://mangahelpers.com/)
 - [Font recommendations](https://discord.gg/kgZ4MXgzpx)
@@ -66,11 +66,11 @@ Guides and resources for scanlating manga.
 - [CSP Retouch Library](https://docs.google.com/spreadsheets/d/1mqIqqSoddaZYu3NhCfIXJ9PzPbCLBOe1Y6mD_7s3we4/edit#gid=2085357266)
 - [DK Hanoded Fonts by Sr.Xlr11](https://drive.google.com/drive/folders/1TQTA1FGU_Ow6WDb3fv8-1mTRF_v_NzHh)
 
->You can find a lot more free assests in the [**Scanner Usage School Server**](https://discord.com/invite/NCzxVB9).
+<Button link="https://discord.com/invite/NCzxVB9" icon="i-ic-round-discord">You can find a lot more free assests in the Scanner Usage School Server</Button>
 
 == Blogs & Collections
 
-- [Quick Sand Scans Resource](https://quicksandscans.wordpress.com/resources/)
+- [Quick Sand Scans Resource](https://quicksandscans.wordpress.com/resources/) 🦆
 - [Inside Scanlation](https://www.insidescanlation.com/backgrounds/index.html)
 - [Scanlation Snacks](https://scanlationsnacks.wordpress.com/)
 - [Scanlation Font Sheets](https://cubari.moe/read/imgur/UmEpOL1/)
@@ -94,37 +94,37 @@ Guides and resources for scanlating manga.
 
 ## Tools
 
-:::tabs
+::: tabs
 
-== Software
-
-- Adobe Software
-  - [GenP Guide](https://genpguides.github.io/)
-  - [Esoterica Avenue](https://rentry.org/adobesoftware)
-  - [Guide by Anna](https://docs.google.com/document/d/17PheyyF9dm7YYjaTZ9JAAY3hhdeIQ7sJ4sylTG9_6xI/edit)
-  - [macOS Guide](https://telegra.ph/MacOS-Adobe-CC-Guide-11-29)
+== General
+- Adobe Software <Badge type="tip" text="Esoterica" link="https://rentry.org/adobesoftware" /><Badge type="tip" text="GenP" link="https://genpguides.github.io/" /><Badge type="tip" text="Anna" link="https://docs.google.com/document/d/17PheyyF9dm7YYjaTZ9JAAY3hhdeIQ7sJ4sylTG9_6xI/edit" /><Badge type="tip" text="macOS" link="https://telegra.ph/MacOS-Adobe-CC-Guide-11-29" />
 - [Clip Stuio Paint EX](https://www.clipstudio.net/en/function_ex/)
 - [MediaBang Paint](https://medibangpaint.com/en/)
 - [GIMP](https://www.gimp.org/)
-- [Real ESRGAN](https://github.com/xinntao/Real-ESRGAN)
-- [SickZil-Machine](https://github.com/KUR-creative/SickZil-Machine)
-- [Waifu2X](https://github.com/nagadomi/waifu2x) <Badge type="tip" text="caffe" link="https://github.com/lltcggie/waifu2x-caffe" /><Badge type="tip" text="ncnn Vulkan" link="https://github.com/nihui/waifu2x-ncnn-vulkan" /><Badge type="tip" text="Ext GUI" link="https://github.com/AaronFeng753/Waifu2x-Extension-GUI" /><Badge type="tip" text="nunif" link="https://github.com/nagadomi/nunif" />
-- [chaiNNer](https://github.com/chaiNNer-org/chaiNNer)
 
-== Miscellaneous
-
-- [Alex's Raw Downloader](https://raws.alexeliot.xyz/) <Badge type="info" text="Free chapters only" />
+== Cleaning
 - [Bubble Blaster](https://github.com/Aeonss/BubbleBlaster)
-- [DeDRM tools](https://github.com/noDRM/DeDRM_tools)
-- Font Finder <Badge type="tip" text="Font Spring" link="https://www.fontspring.com/matcherator" /><Badge type="tip" text="Font Squirrel" link="https://www.fontsquirrel.com/matcherator" /><Badge type="tip" text="MyFonts" link="https://www.myfonts.com/pages/whatthefont" /><Badge type="tip" text="What font is" link="https://www.whatfontis.com/" />
 - [Manga Bubble Shaper](https://github.com/Codecy2160/manga-bubble-shaper)
-- [Manga downloader](https://github.com/xuzhengyi1995/Manga_downloader)
-- [Monochrome](https://github.com/MonochromeCMS/monochrome)
 - [Panel Cleaner](https://github.com/VoxelCubes/PanelCleaner)
-- [ScanFolders](https://github.com/Fris44/ScanFolders)
+
+== Typesetting
+- Font Finder <Badge type="tip" text="Font Spring" link="https://www.fontspring.com/matcherator" /><Badge type="tip" text="Font Squirrel" link="https://www.fontsquirrel.com/matcherator" /><Badge type="tip" text="MyFonts" link="https://www.myfonts.com/pages/whatthefont" /><Badge type="tip" text="What font is" link="https://www.whatfontis.com/" />
 - [Smart Stitch](https://github.com/MechTechnology/SmartStitch)
 - [Stitch Tool](https://github.com/Aeonss/StitchTool)
 - [Typertools](https://swirt.github.io/typertools/)
 - [Typesetter*er*](https://illuminati-manga.com/illiteracy/typesetterer/)
 
+== Upscaling
+- [Real ESRGAN](https://github.com/xinntao/Real-ESRGAN)
+- [SickZil-Machine](https://github.com/KUR-creative/SickZil-Machine)
+- [Waifu2X](https://github.com/nagadomi/waifu2x) <Badge type="tip" text="caffe" link="https://github.com/lltcggie/waifu2x-caffe" /><Badge type="tip" text="ncnn Vulkan" link="https://github.com/nihui/waifu2x-ncnn-vulkan" /><Badge type="tip" text="Ext GUI" link="https://github.com/AaronFeng753/Waifu2x-Extension-GUI" /><Badge type="tip" text="nunif" link="https://github.com/nagadomi/nunif" />
+- [chaiNNer](https://github.com/chaiNNer-org/chaiNNer)
+
+== Others
+- [Manga downloader](https://github.com/xuzhengyi1995/Manga_downloader)
+- [Monochrome](https://github.com/MonochromeCMS/monochrome)
+- [ScanFolders](https://github.com/Fris44/ScanFolders)
+
 :::
+
+<Button link="https://rutracker.org/forum/index.php" icon="i-fxemoji-lightbulb">Use RuTracker to download crack</Button>
