@@ -164,7 +164,6 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 ### General
 - [Rate Your Music](https://rateyourmusic.com/) 🦆
-- [Every Noise](https://everynoise.com)
 - [Chosic](https://www.chosic.com/) 🦆
 - [Discover Quickly](https://discoverquickly.com/)
 - [Music-Map](https://www.music-map.com/)
