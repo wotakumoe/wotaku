@@ -150,6 +150,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == info
 
 ### Ranking
+- [Kworb](https://kworb.net/)
 - [ORICON](https://www.oricon.co.jp/music/rankinglab/) <Badge type="tip" text="Full" link="https://www.oricon.co.jp/rank/" />
 - [Billboard JAPAN](https://www.billboard-japan.com/charts/)
 - [Uta-Net](https://www.uta-net.com/ranking/)
@@ -166,6 +167,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Rate Your Music](https://rateyourmusic.com/) 🦆
 - [Chosic](https://www.chosic.com/) 🦆
 - [Discover Quickly](https://discoverquickly.com/)
+- [Skiley](https://skiley.net/)
 - [Music-Map](https://www.music-map.com/)
 - [Japanese music by year](https://en.wikipedia.org/wiki/Category:Japanese_music_by_year) <Badge type="tip" text="Wand" link="https://www.wikiwand.com/en/Category:Japanese_music_by_year" />
 - [Dubolt](https://dubolt.com/)
@@ -341,7 +343,11 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Chosic](https://www.chosic.com/) 🦆
 - [Cover Search Engine](https://covers.musichoarders.xyz/) 🦆
 - [Game Tabs](https://www.gametabs.net/)
+- [Skiley](https://skiley.net/) 🦆
 - [Songle](https://songle.jp/)
+- [Spotify Dedup](https://spotify-dedup.com/)
+- [TuneMyMusic](https://www.tunemymusic.com/)
+- [Soundiiz](https://soundiiz.com/)
 
 ### Last.fm
 - [Last.fm stats](https://lastfmstats.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/felhag/lastfm-stats-web" />

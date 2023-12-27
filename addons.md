@@ -81,6 +81,7 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 - [Kitsu](https://github.com/hummingbird-me/kitsu-mobile) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.everfox.animetrackerandroid&hl=en&gl=US" /><Badge type="tip" icon="i-logos-apple-app-store" text="iOS" link="https://apps.apple.com/us/app/kitsu-anime/id590452826" /><Badge type="info" text="Kitsu" />
 - [Kitsune](https://github.com/Drumber/Kitsune) <Badge type="info" text="Kitsu" />
 - [Pano Scrobbler for LastFM](https://play.google.com/store/apps/details?id=com.arn.scrobble) <Badge type="info" text="Last.fm" />
+- [Marvis Pro](https://apps.apple.com/au/app/marvis-pro/id1447768809) <Badge type="info" text="iOS" />
 
 == Others
 
