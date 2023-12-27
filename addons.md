@@ -12,29 +12,31 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 ## Apps
 
 :::tabs
-== Essentials
 
-### Browsers
-- [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) <Badge text="Android" />
-- [Mull](https://github.com/Divested-Mobile/Mull-Fenix) <Badge type="info" text="Android" />
+== Essential
+
+### Browser
+- [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
+- [Mull](https://github.com/Divested-Mobile/Mull-Fenix)
 - [Brave](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en&gl=US) <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
-- [Cromite](https://github.com/uazo/cromite) <Badge type="info" text="Android" />
+- [Cromite](https://github.com/uazo/cromite)
 
-### Ad blocking
-- [Adaway](https://adaway.org/) <Badge type="info" text="Android" />
-- [Adguard](https://adguard.com/en/welcome.html) <Badge type="info" text="Android" /> 🦆
+### Ad blocker
+- [Adaway](https://adaway.org/) 
+- [Adguard](https://adguard.com/en/welcome.html) <Badge type="info" text="Android" /><Badge type="info" text="iOS" /> 🦆
 - [Adguard DNS](https://adguard-dns.io/en/welcome.html) <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
 - [AhaDNS](https://blitz-setup.ahadns.com/) <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
 - [NextDNS](https://nextdns.io/) <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
 - [RethinkDNS](https://rethinkdns.com/) <Badge type="info" text="Android" />
 
-== Downloaders
+== Downloader
 
-- [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) <Badge type="info" text="Android" />
-- [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) <Badge type="info" text="Android" />
-- [ADM](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US) <Badge type="info" text="Android" />
-- [libretorrent](https://github.com/proninyaroslav/libretorrent) <Badge type="info" text="Android" />
+- [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US)
+- [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi)
+- [ADM](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US)
 - [iTorrent](https://github.com/XITRIX/iTorrent) <Badge type="info" text="iOS" />
+- [libretorrent](https://github.com/proninyaroslav/libretorrent)
+- [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa&hl=en&gl=US) 🦆
 
 == Media
 
@@ -49,7 +51,7 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
   - [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) <Badge type="info" text="iOS" /><Badge type="info" text="Spotify" />
   - [Spotify++](https://appdb.to/app/cydia/1900000540) <Badge type="info" text="iOS" />
 
-### Illustrations
+### Illustration
 - [Boorusphere](https://github.com/nullxception/boorusphere)
 - Pixiv <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=jp.pxv.android" />
 - Anime Boxes <Badge type="info" icon="i-octicon-globe" text="Web" link="https://www.animebox.es/" /> <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
@@ -64,7 +66,7 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
   - [Libretube](https://libretube.dev/)
   - [Grayjay](https://grayjay.app/)
 
-== Trackers
+== Tracker
 
 ### AniList
 - [AniHyou](https://github.com/axiel7/AniHyou-android) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.axiel7.anihyou" />
@@ -80,12 +82,18 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 - [Kitsune](https://github.com/Drumber/Kitsune) <Badge type="info" text="Kitsu" />
 - [Pano Scrobbler for LastFM](https://play.google.com/store/apps/details?id=com.arn.scrobble) <Badge type="info" text="Last.fm" />
 
-
 == Others
 
+### Store
+- [Aurora Store](https://auroraoss.com/)
+- [Neo Store](https://github.com/NeoApplications/Neo-Store)
+- [Droid-ify](https://github.com/Droid-ify/client)
+- [Obtainium](https://github.com/ImranR98/Obtainium)
 - [APKUpdater](https://github.com/rumboalla/apkupdater)
+- [FlekSt0re](https://flekstore.com/) <Badge type="info" text="iOS" />
+
+### Misc
 - [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play)
-- [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa&hl=en&gl=US) 🦆
 - [KizzyRPC](https://github.com/dead8309/KizzyRPC)
 
   :::
