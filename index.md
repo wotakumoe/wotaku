@@ -12,8 +12,8 @@ hero:
       text: Quick Start
       link: /qs.md
     - theme: alt
-      text: Discord
-      link: https://discord.gg/vShRGx8ZBC
+      text: Star the Project
+      link: https://github.com/anotherduckling/Wotaku
       
 aside: left
 
