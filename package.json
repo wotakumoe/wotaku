@@ -44,8 +44,7 @@
     "@iconify-json/simple-icons": "^1.1.76",
     "@iconify/utils": "^2.1.11",
     "@types/node": "^20.8.9",
-    "prettier": "^3.0.3",
-    "unocss": "^0.56.5"
+    "prettier": "^3.0.3"
   },
   "pnpm": {
     "peerDependencyRules": {

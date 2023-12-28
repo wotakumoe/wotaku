@@ -9,6 +9,7 @@ import { createMediumZoomProvider } from "./composables";
 import ReloadPrompt from "./components/ReloadPrompt.vue";
 // @ts-expect-error
 import Button from "./components/Button.vue";
+import Feedback from "./components/Modal.vue"
 import Tooltip from "./components/Tooltip.vue";
 import Authors from "./components/Authors.vue";
 
@@ -17,6 +18,7 @@ export default {
   Layout: () => {
     return h(Theme.Layout, null, {
       "layout-bottom": () => h(ReloadPrompt),
+      "sidebar-nav-after": () => h(Feedback)
       // https://vitepress.dev/guide/extending-default-theme#layout-slots
     });
   },
