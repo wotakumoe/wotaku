@@ -151,66 +151,93 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 == Media
 
 ### Audio
-- [AIMP](https://www.aimp.ru/)
-- [Foobar2000](https://www.foobar2000.org/) <Badge type="info" text="Georgia-ReBORN" link="https://github.com/TT-ReBORN/Georgia-ReBORN"/> <Badge type="info" text="Synced Lyrics" link="/guides/foobar#synced-lyrics" /> 🦆
-- [MusicBee](https://www.getmusicbee.com/)
-- [WACUP](https://getwacup.com/)
+
+- **Local**
+  - [AIMP](https://www.aimp.ru/)
+  - [Foobar2000](https://www.foobar2000.org/) <Badge type="info" text="Georgia-ReBORN" link="https://github.com/TT-ReBORN/Georgia-ReBORN"/> <Badge type="info" text="Synced Lyrics" link="/guides/foobar#synced-lyrics" /> 🦆
+  - [MusicBee](https://www.getmusicbee.com/)
+  - [WACUP](https://getwacup.com/)
+- **Online**
+  - [Spicetify](https://spicetify.app/)
+  - [SPOTX](https://github.com/SpotX-Official/SpotX)
+  - [Youtube Music](https://github.com/th-ch/youtube-music)
+  - [Karaoke Mugen](https://mugen.karaokes.moe/en/)
 
 ### Video
-- [IINA](https://iina.io/) <Badge type="info" text="MacOS" />
-- [MPC-HC](https://github.com/clsid2/mpc-hc) <Badge type="info" text="Codec guide" link="https://codecguide.com/media_player_classic.htm"/><Badge type="tip" text="Guide" link="https://kokomins.wordpress.com/2021/03/27/mpc-hc-and-madvr-setup-guide/" />
-- [mpv](https://mpv.io/) <Badge type="info" text="mpv.net" link="https://github.com/mpvnet-player/mpv.net"/>
-- [K-Lite Codec Pack](https://codecguide.com/download_kl.htm)
 
-### Online
-- [FreeTube](https://freetubeapp.io/)
-- [Karaoke Mugen](https://mugen.karaokes.moe/en/)
-- [Spicetify](https://spicetify.app/)
-- [SPOTX](https://github.com/SpotX-Official/SpotX)
-- [Youtube Music](https://github.com/th-ch/youtube-music)
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) <Badge type="info" text="GUI" link="https://github.com/kannagi0303/yt-dlp-gui" /><Badge type="info" text="GUI Installer" link="https://github.com/kazukikasama/youtube-dlp-gui-installer" /> 🦆
+- **Local**
+  - [IINA](https://iina.io/) <Badge type="info" text="MacOS" />
+  - [MPC-HC](https://github.com/clsid2/mpc-hc) <Badge type="info" text="Codec guide" link="https://codecguide.com/media_player_classic.htm"/><Badge type="tip" text="Guide" link="https://kokomins.wordpress.com/2021/03/27/mpc-hc-and-madvr-setup-guide/" />
+  - [mpv](https://mpv.io/) <Badge type="info" text="mpv.net" link="https://github.com/mpvnet-player/mpv.net"/>
+  - [K-Lite Codec Pack](https://codecguide.com/download_kl.htm)
+- **Online**
+  - [FreeTube](https://freetubeapp.io/)
+  - [yt-dlp](https://github.com/yt-dlp/yt-dlp) <Badge type="info" text="GUI" link="https://github.com/kannagi0303/yt-dlp-gui" /><Badge type="info" text="GUI Installer" link="https://github.com/kazukikasama/youtube-dlp-gui-installer" /> 🦆
 
-== mpv
+::: details 💡 **mpv Resources**
+- **Resources**
+  - [mpv](https://mpv.io/) <Badge type="tip" text="Manual" link="https://mpv.io/manual/stable/" />
+  - [Scum's Setup Guide](https://iamscum.wordpress.com/guides/videoplayback-guide/)
+  - [Kokomins Configuration Guide](https://kokomins.wordpress.com/2019/10/14/mpv-config-guide/)
+  - [mpv Script Wiki](https://github.com/mpv-player/mpv/wiki/User-Scripts)
+  - [Awesome mpv](https://github.com/stax76/awesome-mpv)
+- **Alt UI**
+  - [ModernX](https://github.com/cyl0/ModernX)
+  - [Tethys](https://github.com/Zren/mpv-osc-tethys)
+  - [uosc](https://github.com/tomasklaen/uosc)
+- **Video**
+  - [Autocrop](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autocrop.lua)
+  - [Autoload](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua)
+  - [Eisa's Scripts](https://github.com/Eisa01/mpv-scripts)
+  - [thumbfast](https://github.com/po5/thumbfast/)
+- **QoL**
+  - [mpv Playlistmanager](https://github.com/jonniek/mpv-playlistmanager)
+  - [trackselect](https://github.com/po5/trackselect)
+  - [pause when minimize](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/pause-when-minimize.lua)
+- **Addons**
+  - [webtorrent mpv hook](https://github.com/mrxdst/webtorrent-mpv-hook)
+  - [MPV Shim for Plex](https://github.com/iwalton3/plex-mpv-shim)
+  - [Prescalers](https://github.com/bjin/mpv-prescalers)
+  - [Upscale 2x](https://github.com/the-database/mpv-upscale-2x_animejanai)
 
-### Resources
-- [mpv](https://mpv.io/) <Badge type="tip" text="Manual" link="https://mpv.io/manual/stable/" />
-- [Scum's Setup Guide](https://iamscum.wordpress.com/guides/videoplayback-guide/)
-- [Kokomins Configuration Guide](https://kokomins.wordpress.com/2019/10/14/mpv-config-guide/)
-- [mpv Script Wiki](https://github.com/mpv-player/mpv/wiki/User-Scripts)
-- [Awesome mpv](https://github.com/stax76/awesome-mpv)
+== Downloader
 
-### Alt UI
-- [ModernX](https://github.com/cyl0/ModernX)
-- [Tethys](https://github.com/Zren/mpv-osc-tethys)
-- [uosc](https://github.com/tomasklaen/uosc)
+### General
+- **Direct**
+  - [IDM](https://www.internetdownloadmanager.com/) <Badge text="Activator" link="https://massgrave.dev/idm-activation-script.html" />
+  - [JDL](https://jdownloader.org/) <Badge text="Debloat" link="https://rentry.org/jdownloader2" />
+  - [XDM](https://xtremedownloadmanager.com/)
+- **Torrent**
+  - [qBittorrent](https://www.qbittorrent.org/)
+  - [Transmission](https://transmissionbt.com/)
 
-### Video
-- [Autocrop](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autocrop.lua)
-- [Autoload](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua)
-- [Eisa's Scripts](https://github.com/Eisa01/mpv-scripts)
-- [thumbfast](https://github.com/po5/thumbfast/)
+### Music
+- [Nicotine+](https://nicotine-plus.org/) <Badge text="p2p" /><tooltip>Direct peer-to-peer sharing network, primarily used for music</tooltip>
+- [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD)
+- [Soggfy](https://github.com/Rafiuth/Soggfy)
+- [Spotify AAC Downloader](https://github.com/glomatico/spotify-aac-downloader)
+- [ZSpotify](https://github.com/jsavargas/zspotify) <Badge type="tip" text="GUI" link="https://github.com/PacketSurf/ZSpotifyGUI" />
 
-### QoL
-- [mpv Playlistmanager](https://github.com/jonniek/mpv-playlistmanager)
-- [trackselect](https://github.com/po5/trackselect)
-- [pause when minimize](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/pause-when-minimize.lua)
+<Button link="https://rentry.org/firehawk52" icon="i-fxemoji-lightbulb">Firehawk's Guide for Premium Access</Button>
 
-### Addons
-- [webtorrent mpv hook](https://github.com/mrxdst/webtorrent-mpv-hook)
-- [MPV Shim for Plex](https://github.com/iwalton3/plex-mpv-shim)
-- [Prescalers](https://github.com/bjin/mpv-prescalers)
-- [Upscale 2x](https://github.com/the-database/mpv-upscale-2x_animejanai)
+== Translator
+
+- [Sugoi Translation Toolkit](https://www.patreon.com/mingshiba)
+- [Ballons Translator](https://github.com/dmMaze/BallonsTranslator)
+- [Capture2text](https://capture2text.sourceforge.net/)
+- [Imagetrans](https://www.basiccat.org/imagetrans/)
+- [Kanji tomo](https://www.kanjitomo.net/)
+- [Manga OCR](https://github.com/kha-white/manga-ocr)
+- [Mokuro](https://github.com/kha-white/mokuro)
+- [Poricom](https://github.com/blueaxis/Poricom)
+- [Yomiwa](https://www.yomiwa.net/)
+
+:::danger Don't use MTL
+Using Machine Translation to translate manga will be a mess. Manga has lots of slang, cultural references, and visual elements that MTL won't understand. So, it's better to have a human translator who knows the language and culture well. You don't want to end up with a wonky or inaccurate translation!
 
 
-== Fansubbing
-
-- [Aegisub](https://aegisub.org/) <Badge type="tip" icon="i-octicon-repo-forked" text="Fork" link="https://github.com/arch1t3cht/Aegisub" />
-- [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper)
-- [mpvQC](https://github.com/mpvqc/mpvQC)
-- [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter)
-
-== Discord bots
-
+== Others
+### Discord Bots
 - [AniSearch](https://github.com/IchBinLeoon/anisearch-discord-bot) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://ichbinleoon.github.io/anisearch-discord-bot/#/" />
 - [Ryuuzaki Ryuusei](https://github.com/nattadasu/ryuuRyuusei)
 - [Yuuko](https://github.com/YuuCorp/Yuuko)
@@ -222,24 +249,13 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 - [Picsiv](https://github.com/jckli/picsiv)
 - [Poketwo](https://poketwo.net/)
 
+### Fansubbing
+- [Aegisub](https://aegisub.org/) <Badge type="tip" icon="i-octicon-repo-forked" text="Fork" link="https://github.com/arch1t3cht/Aegisub" />
+- [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper)
+- [mpvQC](https://github.com/mpvqc/mpvQC)
+- [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter)
 
-== Translator
-
-- [Ballons Translator](https://github.com/dmMaze/BallonsTranslator)
-- [Capture2text](https://capture2text.sourceforge.net/)
-- [Imagetrans](https://www.basiccat.org/imagetrans/)
-- [Kanji tomo](https://www.kanjitomo.net/)
-- [Manga OCR](https://github.com/kha-white/manga-ocr)
-- [Mokuro](https://github.com/kha-white/mokuro)
-- [Poricom](https://github.com/blueaxis/Poricom)
-- [Sugoi Translation Toolkit](https://www.patreon.com/mingshiba)
-- [Yomiwa](https://www.yomiwa.net/)
-
-:::danger Don't use MTL
-Using Machine Translation to translate manga will be a mess. Manga has lots of slang, cultural references, and visual elements that MTL won't understand. So, it's better to have a human translator who knows the language and culture well. You don't want to end up with a wonky or inaccurate translation!
-
-== Others
-
+### Misc
 - [Anicon](https://github.com/notdedsec/anicon)  <Badge type="info" text="Anilist" link="https://github.com/EnArvy/AniconforAnilist"/>
 - [Hydrus network](https://hydrusnetwork.github.io/hydrus/)
 - [Koneko](https://github.com/irevenko/koneko)
