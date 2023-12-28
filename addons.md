@@ -22,21 +22,23 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 - [Cromite](https://github.com/uazo/cromite)
 
 ### Ad blocker
-- [Adaway](https://adaway.org/) 
-- [Adguard](https://adguard.com/en/welcome.html) <Badge type="info" text="Android" /><Badge type="info" text="iOS" /> 🦆
-- [Adguard DNS](https://adguard-dns.io/en/welcome.html) <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
-- [AhaDNS](https://blitz-setup.ahadns.com/) <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
-- [NextDNS](https://nextdns.io/) <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
-- [RethinkDNS](https://rethinkdns.com/) <Badge type="info" text="Android" />
+- **App**
+  - [Adguard](https://adguard.com/en/welcome.html) <Badge type="info" text="Android" /><Badge type="info" text="iOS" /> 🦆
+  - [Adaway](https://adaway.org/) 
+  - [RethinkDNS](https://rethinkdns.com/) <Badge type="info" text="Android" />
+- **DNS**
+  - [NextDNS](https://nextdns.io/) <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
+  - [Adguard DNS](https://adguard-dns.io/en/welcome.html) <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
+  - [AhaDNS](https://blitz-setup.ahadns.com/) <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
 
 == Downloader
 
 - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US)
-- [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi)
 - [ADM](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US)
 - [iTorrent](https://github.com/XITRIX/iTorrent) <Badge type="info" text="iOS" />
 - [libretorrent](https://github.com/proninyaroslav/libretorrent)
-- [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa&hl=en&gl=US) 🦆
+- [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa&hl=en&gl=US) <Badge type="info" text="Nyaa.si" />🦆
+- [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi)
 
 == Media
 
@@ -54,6 +56,8 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 ### Illustration
 - [Boorusphere](https://github.com/nullxception/boorusphere)
 - Pixiv <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=jp.pxv.android" />
+- [Wallflow](https://github.com/ammargitham/WallFlow)
+- [RWalls](https://github.com/meh430/RWalls)
 - Anime Boxes <Badge type="info" icon="i-octicon-globe" text="Web" link="https://www.animebox.es/" /> <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
 
 ### Video
