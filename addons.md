@@ -111,15 +111,17 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 :::tabs
 == Anime
 
-- [Anitomy](https://github.com/erengy/anitomy)
+### Hosting
 - Arr <Badge type="tip" text="Radarr" link="https://radarr.video/" /><Badge type="tip" text="Sonarr" link="https://sonarr.tv/" /><Badge type="tip" text="Prowlarr" link="https://prowlarr.com/" /><Badge type="tip" text="Overseerr" link="https://overseerr.dev/" /><Badge type="tip" text="Guide" link="https://wiki.servarr.com/" />
 - [Emby](https://emby.media/)
 - [Jellyfin](https://jellyfin.org/)
-- [Plex](https://www.plex.tv/)
-- [Plex Anisync](https://github.com/RickDB/PlexAniSync)
-- [PlexAniSync-Mappings](https://github.com/mizz141/PlexAniSync-Mappings)
-- [Shoko Anime](https://github.com/shokoanime) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://shokoanime.com/" />
-- [Shokofin](https://github.com/ShokoAnime/Shokofin)
+- [Plex](https://www.plex.tv/) <Badge type="tip" text="Anisync" link="https://github.com/RickDB/PlexAniSync" /><Badge type="tip" text="Mappings" link="https://github.com/mizz141/PlexAniSync-Mappings" />
+- [Shoko Anime](https://shokoanime.com/) <Badge type="tip" text="Shokofin" link="https://github.com/ShokoAnime/Shokofin" />
+
+### Tools
+- [Anicon](https://github.com/notdedsec/anicon)  <Badge type="info" text="Anilist" link="https://github.com/EnArvy/AniconforAnilist"/>
+- [Anitomy](https://github.com/erengy/anitomy)
+- [Koneko](https://github.com/irevenko/koneko)
 - [Sushi.net](https://github.com/maxpiva/Sushi.Net)
 
 == Manga
@@ -148,10 +150,9 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 - [Trackma](https://github.com/z411/trackma) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://z411.github.io/trackma/" /><Badge type="info" text="Linux" />
 - [Tundra](https://github.com/m4tx/tundra) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://tundra.moe/" /><Badge type="info" text="Linux" />
 
-== Media
+== Music
 
-### Audio
-
+### Player
 - **Local**
   - [AIMP](https://www.aimp.ru/)
   - [Foobar2000](https://www.foobar2000.org/) <Badge type="info" text="Georgia-ReBORN" link="https://github.com/TT-ReBORN/Georgia-ReBORN"/> <Badge type="info" text="Synced Lyrics" link="/guides/foobar#synced-lyrics" /> 🦆
@@ -163,16 +164,23 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
   - [Youtube Music](https://github.com/th-ch/youtube-music)
   - [Karaoke Mugen](https://mugen.karaokes.moe/en/)
 
-### Video
+### Tools
+- [Helium](https://www.imploded.com/)
+- [MP3Tag](https://www.mp3tag.de/en/)
+- [Sonic Visualiser](https://www.sonicvisualiser.org/)
+- [Spek](https://www.spek.cc/)
 
-- **Local**
-  - [IINA](https://iina.io/) <Badge type="info" text="MacOS" />
-  - [MPC-HC](https://github.com/clsid2/mpc-hc) <Badge type="info" text="Codec guide" link="https://codecguide.com/media_player_classic.htm"/><Badge type="tip" text="Guide" link="https://kokomins.wordpress.com/2021/03/27/mpc-hc-and-madvr-setup-guide/" />
-  - [mpv](https://mpv.io/) <Badge type="info" text="mpv.net" link="https://github.com/mpvnet-player/mpv.net"/>
-  - [K-Lite Codec Pack](https://codecguide.com/download_kl.htm)
-- **Online**
-  - [FreeTube](https://freetubeapp.io/)
-  - [yt-dlp](https://github.com/yt-dlp/yt-dlp) <Badge type="info" text="GUI" link="https://github.com/kannagi0303/yt-dlp-gui" /><Badge type="info" text="GUI Installer" link="https://github.com/kazukikasama/youtube-dlp-gui-installer" /> 🦆
+== Video
+
+### Local
+- [IINA](https://iina.io/) <Badge type="info" text="MacOS" />
+- [MPC-HC](https://github.com/clsid2/mpc-hc) <Badge type="info" text="Codec guide" link="https://codecguide.com/media_player_classic.htm"/><Badge type="tip" text="Guide" link="https://kokomins.wordpress.com/2021/03/27/mpc-hc-and-madvr-setup-guide/" />
+- [mpv](https://mpv.io/) <Badge type="info" text="mpv.net" link="https://github.com/mpvnet-player/mpv.net"/>
+- [K-Lite Codec Pack](https://codecguide.com/download_kl.htm)
+
+### Online
+- [FreeTube](https://freetubeapp.io/)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) <Badge type="info" text="GUI" link="https://github.com/kannagi0303/yt-dlp-gui" /><Badge type="info" text="GUI Installer" link="https://github.com/kazukikasama/youtube-dlp-gui-installer" /> 🦆
 
 ::: details 💡 **mpv Resources**
 - **Resources**
@@ -219,49 +227,6 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 - [ZSpotify](https://github.com/jsavargas/zspotify) <Badge type="tip" text="GUI" link="https://github.com/PacketSurf/ZSpotifyGUI" />
 
 <Button link="https://rentry.org/firehawk52" icon="i-fxemoji-lightbulb">Firehawk's Guide for Premium Access</Button>
-
-== Translator
-
-- [Sugoi Translation Toolkit](https://www.patreon.com/mingshiba)
-- [Ballons Translator](https://github.com/dmMaze/BallonsTranslator)
-- [Capture2text](https://capture2text.sourceforge.net/)
-- [Imagetrans](https://www.basiccat.org/imagetrans/)
-- [Kanji tomo](https://www.kanjitomo.net/)
-- [Manga OCR](https://github.com/kha-white/manga-ocr)
-- [Mokuro](https://github.com/kha-white/mokuro)
-- [Poricom](https://github.com/blueaxis/Poricom)
-- [Yomiwa](https://www.yomiwa.net/)
-
-:::danger Don't use MTL
-Using Machine Translation to translate manga will be a mess. Manga has lots of slang, cultural references, and visual elements that MTL won't understand. So, it's better to have a human translator who knows the language and culture well. You don't want to end up with a wonky or inaccurate translation!
-
-
-== Others
-### Discord Bots
-- [AniSearch](https://github.com/IchBinLeoon/anisearch-discord-bot) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://ichbinleoon.github.io/anisearch-discord-bot/#/" />
-- [Ryuuzaki Ryuusei](https://github.com/nattadasu/ryuuRyuusei)
-- [Yuuko](https://github.com/YuuCorp/Yuuko)
-- [MangaUpdates Bot](https://github.com/jckli/mangaupdates-bot)
-- [Manhwa Updates Bot](https://github.com/MooshiMochi/ManhwaUpdatesBot) 🦆
-- [Rinbot](https://rinbot.moe/)
-- [Michelle](https://github.com/JacenBoy/michelle) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://michelle.jacenboy.com/" />
-- Sneedex <Badge type="info" icon="i-logos-discord-icon" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" />
-- [Picsiv](https://github.com/jckli/picsiv)
-- [Poketwo](https://poketwo.net/)
-
-### Fansubbing
-- [Aegisub](https://aegisub.org/) <Badge type="tip" icon="i-octicon-repo-forked" text="Fork" link="https://github.com/arch1t3cht/Aegisub" />
-- [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper)
-- [mpvQC](https://github.com/mpvqc/mpvQC)
-- [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter)
-
-### Misc
-- [Anicon](https://github.com/notdedsec/anicon)  <Badge type="info" text="Anilist" link="https://github.com/EnArvy/AniconforAnilist"/>
-- [Hydrus network](https://hydrusnetwork.github.io/hydrus/)
-- [Koneko](https://github.com/irevenko/koneko)
-- [osu! Cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner)
-- [PreMiD](https://premid.app/)
-- [Textractor](https://github.com/Artikash/Textractor)
 
 :::
 
@@ -366,4 +331,52 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 
 :::warning Scripts may not function correctly or reliably all the time
 Active maintenance is necessary for scripts to work properly. If a script fails, try reinstalling it; otherwise, wait for a fix to be released. Install [**Violentmonkey**](https://violentmonkey.github.io/) or [**Tampermonkey**](https://www.tampermonkey.net/) to use scripts.
+:::
+
+
+![](/banner/misc.png)
+## Miscellaneous
+
+:::tabs
+
+== Translator
+
+- [Sugoi Translation Toolkit](https://www.patreon.com/mingshiba)
+- [Ballons Translator](https://github.com/dmMaze/BallonsTranslator)
+- [Capture2text](https://capture2text.sourceforge.net/)
+- [Imagetrans](https://www.basiccat.org/imagetrans/)
+- [Kanji tomo](https://www.kanjitomo.net/)
+- [Manga OCR](https://github.com/kha-white/manga-ocr)
+- [Mokuro](https://github.com/kha-white/mokuro)
+- [Poricom](https://github.com/blueaxis/Poricom)
+- [Yomiwa](https://www.yomiwa.net/)
+
+:::danger Don't use MTL
+Using Machine Translation to translate manga will be a mess. Manga has lots of slang, cultural references, and visual elements that MTL won't understand. So, it's better to have a human translator who knows the language and culture well. You don't want to end up with a wonky or inaccurate translation!
+
+== Fansubbing
+- [Aegisub](https://aegisub.org/) <Badge type="tip" icon="i-octicon-repo-forked" text="Fork" link="https://github.com/arch1t3cht/Aegisub" />
+- [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper)
+- [mpvQC](https://github.com/mpvqc/mpvQC)
+- [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter)
+
+== Discord Bots
+- [AniSearch](https://github.com/IchBinLeoon/anisearch-discord-bot) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://ichbinleoon.github.io/anisearch-discord-bot/#/" />
+- [Ryuuzaki Ryuusei](https://github.com/nattadasu/ryuuRyuusei)
+- [Yuuko](https://github.com/YuuCorp/Yuuko)
+- [MangaUpdates Bot](https://github.com/jckli/mangaupdates-bot)
+- [Manhwa Updates Bot](https://github.com/MooshiMochi/ManhwaUpdatesBot) 🦆
+- [Rinbot](https://rinbot.moe/)
+- [Michelle](https://github.com/JacenBoy/michelle) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://michelle.jacenboy.com/" />
+- Sneedex <Badge type="info" icon="i-logos-discord-icon" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" />
+- [Picsiv](https://github.com/jckli/picsiv)
+- [Poketwo](https://poketwo.net/)
+
+== Others
+
+- [Hydrus network](https://hydrusnetwork.github.io/hydrus/)
+- [osu! Cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner)
+- [PreMiD](https://premid.app/)
+- [Textractor](https://github.com/Artikash/Textractor)
+
 :::
