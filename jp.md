@@ -15,7 +15,7 @@ Everything about Japan in one page! Language, culture, history, mythology & more
 Interested in learning the japanese language? Here you can find resources to aid you on your journey.
 
 
-## Websites
+## Resources
 
 :::tabs
 == Starter
@@ -30,9 +30,6 @@ Interested in learning the japanese language? Here you can find resources to aid
 
 == Guides
 - [TOFUGU](https://www.tofugu.com/)
-    - [Learn Hiragana](https://www.tofugu.com/japanese/learn-hiragana/) <Badge type="tip" text="PDF" link="https://www.tofugu.com/japanese/learn-hiragana-book-pdf/" />
-    - [Learn Katakana](https://www.tofugu.com/japanese/learn-katakana/) <Badge type="tip" text="PDF" link="https://www.tofugu.com/japanese/learn-katakana-book-pdf/" />
-    - [The Best Kanji Learning Programs](https://www.tofugu.com/japanese/best-kanji-learning-programs/)
 - [itazuraneko](https://djtguide.github.io/learn/learnmain.html)
 - [Tae Kim's Guide](https://guidetojapanese.org/learn/)
 - [An introduction to Japanese](https://pomax.github.io/nrGrammar/)
@@ -41,49 +38,6 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Kanji by Sight](https://www.nihongoshark.com/post/kanji-by-sight)
 - [Kanji Damage](http://www.kanjidamage.com/)
 - [Maggie sensei](https://maggiesensei.com/) <Badge type="info" text="Conversation" />
-
-== Kanji
-
-### Practice
-- [Wanikani](https://www.wanikani.com/) <Badge type="warning" text="Freemium" />
-- [NativShark](https://www.nativshark.com/) <Badge type="warning" text="Freemium" />
-- [Kanji Garden](https://kanji.garden/)
-- [Kanji Koohii](https://kanji.koohii.com/)
-- [Kotobaweb](https://kotobaweb.com/)
-
-### Dictionary
-- [Japanese KANJI Names Dictionary](https://kanji.reader.bz/en/)
-- [Kanjipedia](https://www.kanjipedia.jp/)
-- [The Kanji Map](https://thekanjimap.com/)
-
-== Pitch Accent
-
-### Guides
-- [TOFUGU](https://www.tofugu.com/japanese/japanese-pronunciation/)
-- [Kanshudo](https://www.kanshudo.com/howto/pitch)
-- [Kezi](https://kez.io/notes/japanese/accent) <Badge type="tip" text="Gist" link="https://gist.github.com/k3zi/3f38070efffa38db83cd5745d83b1235" />
-- [The Pitch Accent Journey](https://docs.google.com/document/d/1ReBf08JFK4n0PXdOxThAfWuiK9UWVZEWWzeKSECWTQo/edit)
-- [Resources for pitch accent](https://xythh.github.io/resources)
-
-### Youtube
-- [Darius Jahandarie] [Strategies for Acquiring Pitch Accent in Japanese](https://www.youtube.com/watch?v=I-dRbTnLmBY)
-- [Dogen] [Japanese pitch-accent & pronunciation playlist](https://www.youtube.com/playlist?list=PLxMXdmBM9wPvsySiMoBzgh8d68xqKz1YP)
-- [Speak Japanese Naturally] [Japanese Pitch Accent and Intonation](https://www.youtube.com/playlist?list=PLFGs3d9Sobfgr4clmLcHUM_X4JBCyIP2n)
-- [Yudai Sensei] [Pitch Accent for Absolute Beginners](https://www.youtube.com/playlist?list=PLAmROvem8e1LhXfCUqCDshBLAdi_LlR6y)
-- [Seize Japanese] [Verb Pitch Accent and Verbs' Conjugations](https://www.youtube.com/playlist?list=PLbEVYkEj81RzdzDWujEkfjJZrzsqV3Q8O)
-
-### Tools
-- [Filmot](https://filmot.com/)
-- [YouGlish](https://youglish.com/japanese)
-
-### Pronunciation
-- [Forvo](https://forvo.com/)
-- [OJAD AI Reader](https://www.gavo.t.u-tokyo.ac.jp/ojad/phrasing/index)
-
-### Practice
-- [Kotu](https://kotu.io/)
-- [NALA](www.tufs.ac.jp/st/personal/99/kawatsu/nala/)
-- [Migaku Pitch Trainer](https://pitch-demo.migaku.io/)
 
 == Youtube
 
@@ -94,7 +48,6 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Japanese with Yuka](https://www.youtube.com/@japanesewithyuka)
 - [Kaname Naito](https://www.youtube.com/@kanamenaito)
 - [Miku Real Japanese](https://www.youtube.com/channel/UCsQCbl3a9FtYvA55BxdzYiQ/)
-- [Onomappu](https://www.youtube.com/@Onomappu/)
 - [Organic Japanese with Cure Dolly](https://www.youtube.com/channel/UCkdmU8hGK4Fg3LghTVtKltQ) <Badge type="tip" text="Textbook" link="https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit" />
 - [Sambon Juku](https://www.youtube.com/channel/UC0ujXryUUwILURRKt9Eh7Nw)
 - [Tae Kim](https://www.youtube.com/@taekimjapanese)
@@ -102,6 +55,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Yudai Sensei](https://www.youtube.com/@yudaisensei2020)
 
 #### Listening/Podcast/Vlog
+- [Onomappu](https://www.youtube.com/@Onomappu/)
 - [Akane's JapaneseClass](https://www.youtube.com/@Akane-JapaneseClass)
 - [Japanese Immersion with Asami](https://www.youtube.com/@japaneseimmersionwithasami4249)
 - [Learn Japanese with Tanaka san](https://www.youtube.com/@japanese_tanakasan)
@@ -112,6 +66,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Seeder Playlist](https://zenith-raincoat-5cf.notion.site/Japanese-Seeder-Playlist-15fc740a87d843a2a2a5f36a913af551)
 
 ### Playlists
+- [Cure Doly] [Japanese from Scratch](https://www.youtube.com/watch?v=pSvH9vH60Ig&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)
 - [Learn Japanese From Zero!] [Japanese From Zero! Books 1-5 VIDEOS](https://www.youtube.com/playlist?list=PLOcym2c7xnBwU12Flkm5RcLIEhvURQ8TB)
 - [ToKini Andy] [【JLPT N5】GENKI Grammar Made Clear](https://www.youtube.com/playlist?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2)
 - [ToKini Andy] [【JLPT N4】GENKI 2 Grammar Made Clear](https://www.youtube.com/playlist?list=PLA_RcUI8km1P8bJzp3_TMMv1jhL3BcKQk)
@@ -119,8 +74,6 @@ Interested in learning the japanese language? Here you can find resources to aid
 
 ### Videos
 - [ToKini Andy] [How I would learn japanese (if I could start over)](https://www.youtube.com/watch?v=L1NQoQivkIY)
-- [JapanesePod101] [Learn ALL hiragana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=6p9Il_j0zjc)
-- [JapanesePod101] [Learn ALL katakana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=s6DKRgtVLGA)
 
 == Media
 
@@ -128,7 +81,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Animelon](https://animelon.com/)
 - [Nyaa](https://nyaa.si/?f=0&c=1_4&q=) <Badge type="info" text="Raw" />
 - [Aniwatch](https://aniwatch.to/home) <Badge type="info" text="Raw" />
-- [itazuraneko](https://djtguide.github.io/library/sub)
+- [itazuraneko](https://djtguide.github.io/library/sub) <Badge type="info" text="Subs" />
 - [Kitsunekko](https://kitsunekko.net/) <Badge type="info" text="Subs" />
 - [JP Subtitles](https://github.com/Matchoo95/JP-Subtitles) <Badge type="info" text="Subs" />
 - [Classics](https://animation.filmarchives.jp/index.html)
@@ -165,7 +118,6 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Japanese Condensed Audio](https://mega.nz/folder/8HhhWDyJ#SHw5xsYxyhWUX536UcqkeQ) <Badge type="tip" text="2" link="https://mega.nz/folder/N4d3STJC#w3wPPgk9UgD6qE_UvjtB8Q" />
 
 == Others
-
 ### Dictionary
 - [JISHO](https://jisho.org/)
 - [JPDB](https://jpdb.io/)
@@ -174,19 +126,11 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Takoboto](https://takoboto.jp/)
 - [Tangorin](https://tangorin.com/)
 - [Weblio](https://ejje.weblio.jp/)
+- [Wiktionary](https://wiktionary.org) <Badge type="tip" text="EN" link="https://en.wiktionary.org/" /><Badge type="tip" text="JP" link="https://ja.wiktionary.org/" />
 - [Gengo](https://gengo.tech/) <Badge type="tip" text="Prefectures" link="https://prefectures.gengo.tech/" /> 
-- [Bunpro](https://bunpro.jp/) <Badge type="warning" text="Difficult" />
+- [Bunpro](https://bunpro.jp/) <>
 - [A Dictionary of Japanese Grammar](https://core6000.neocities.org/dojg/)
 - [Visualizing Japanese Grammar](https://www2.gwu.edu/~eall/vjgnew/vjghomepage/vjghome.htm)
-
-### Practice
-- [Genki Study Resources](https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/)
-- [Kana Pro](https://kana.pro/)
-- [Kenji Sugimoto](https://www.kenjisugimoto.com/shuji/index.html?shuji=%E3%81%8A%E6%89%8B%E6%9C%AC)
-- [Real Kana](https://realkana.com/)
-- [Tobira Study Resources](https://sethclydesdale.github.io/tobira-study-resources/)
-- [Kanji Game](https://kotobaweb.com/kanjigame/create)
-- [Japanese Numbers](https://langpractice.com/japanese)
 
 ### Resources
 - [Japanese with Anime](https://www.japanesewithanime.com/)
@@ -202,6 +146,78 @@ Interested in learning the japanese language? Here you can find resources to aid
 
 :::
 
+
+## Topics
+
+:::tabs
+
+== Kana
+
+### Guides
+- [TOFUGU: Learn Hiragana](https://www.tofugu.com/japanese/learn-hiragana/) <Badge type="tip" text="PDF" link="https://www.tofugu.com/japanese/learn-hiragana-book-pdf/" />
+- [TOFUGU: Learn Katakana](https://www.tofugu.com/japanese/learn-katakana/) <Badge type="tip" text="PDF" link="https://www.tofugu.com/japanese/learn-katakana-book-pdf/" />
+- [JapanesePod101] [Learn ALL hiragana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=6p9Il_j0zjc)
+- [JapanesePod101] [Learn ALL katakana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=s6DKRgtVLGA)
+
+### Practice
+- [Kana Pro](https://kana.pro/)
+- [Real Kana](https://realkana.com/)
+
+== Kanji
+
+### Guides
+- [TOFUGU: The Best Kanji Learning Programs](https://www.tofugu.com/japanese/best-kanji-learning-programs/)
+
+### Dictionary
+- [Japanese KANJI Names Dictionary](https://kanji.reader.bz/en/)
+- [Kanjipedia](https://www.kanjipedia.jp/)
+- [The Kanji Map](https://thekanjimap.com/)
+
+### Practice
+- [Wanikani](https://www.wanikani.com/) <Badge type="warning" text="Freemium" />
+- [NativShark](https://www.nativshark.com/) <Badge type="warning" text="Freemium" />
+- [Kanji Garden](https://kanji.garden/)
+- [Kanji Koohii](https://kanji.koohii.com/)
+- [Kenji Sugimoto](https://www.kenjisugimoto.com/shuji/index.html?shuji=%E3%81%8A%E6%89%8B%E6%9C%AC)
+- [Kanji Game](https://kotobaweb.com/kanjigame/create)
+
+== Pitch Accent
+
+### Guides
+- [TOFUGU](https://www.tofugu.com/japanese/japanese-pronunciation/)
+- [Kanshudo](https://www.kanshudo.com/howto/pitch)
+- [Kezi](https://kez.io/notes/japanese/accent) <Badge type="tip" text="Gist" link="https://gist.github.com/k3zi/3f38070efffa38db83cd5745d83b1235" />
+- [The Pitch Accent Journey](https://docs.google.com/document/d/1ReBf08JFK4n0PXdOxThAfWuiK9UWVZEWWzeKSECWTQo/edit)
+- [Resources for pitch accent](https://xythh.github.io/resources)
+
+### Youtube
+- [Dogen] [Japanese pitch-accent & pronunciation playlist](https://www.youtube.com/playlist?list=PLxMXdmBM9wPvsySiMoBzgh8d68xqKz1YP)
+- [Darius Jahandarie] [Strategies for Acquiring Pitch Accent in Japanese](https://www.youtube.com/watch?v=I-dRbTnLmBY)
+- [Speak Japanese Naturally] [Japanese Pitch Accent and Intonation](https://www.youtube.com/playlist?list=PLFGs3d9Sobfgr4clmLcHUM_X4JBCyIP2n)
+- [Yudai Sensei] [Pitch Accent for Absolute Beginners](https://www.youtube.com/playlist?list=PLAmROvem8e1LhXfCUqCDshBLAdi_LlR6y)
+- [Seize Japanese] [Verb Pitch Accent and Verbs' Conjugations](https://www.youtube.com/playlist?list=PLbEVYkEj81RzdzDWujEkfjJZrzsqV3Q8O)
+
+### Others
+- **Tools**
+    - [Filmot](https://filmot.com/)
+    - [YouGlish](https://youglish.com/japanese)
+- **Pronunciation**
+    - [Forvo](https://forvo.com/)
+    - [OJAD AI Reader](https://www.gavo.t.u-tokyo.ac.jp/ojad/phrasing/index)
+
+### Practice
+- [Kotu](https://kotu.io/)
+- [Migaku Pitch Trainer](https://pitch-demo.migaku.io/) <Badge type="warning" text="Freemium" />
+
+== General
+
+- [Kotobaweb](https://kotobaweb.com/)
+- [Genki Study Resources](https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/)
+- [Tobira Study Resources](https://sethclydesdale.github.io/tobira-study-resources/)
+- [Japanese Numbers](https://langpractice.com/japanese)
+
+
+:::
 
 ## Books
 
@@ -249,6 +265,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 ### Grammar
 - [Kanzen Master Grammar N2](https://www.amazon.com/Grammar-Japanese-Language-Proficiency-Nihongo/dp/4883195651)
 - [Try! JLPT N2](https://www.amazon.com/JAPANESE-LANGUAGE-PROFICIENCY-REVISED-JAPONAIS/dp/487217903X)
+- [Tobira: Gateway to Advanced Japanese](https://www.amazon.com/Tobira-Advanced-Japanese-Learning-Multimedia/dp/4874244475/)
 
 ### Kanji
 - [Nihongo Somatome N2 Kanji](https://www.amazon.com/Nihongo-So-matome-Japanese-Language-Proficiency/dp/4872177274)
@@ -279,6 +296,10 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Kanzen Master N1 Vocabulary](https://www.amazon.com/Kanzen-Master-Vocabulary-Language-Proficiency/dp/4883195732)
 :::
 
+:::details Downloading books {open}
+You can use [**Anna’s Archive**](https://annas-archive.org), [**Z-Library**](https://singlelogin.re/), [**PDF Drive**](https://www.pdfdrive.com/) & [**Mobilism**](https://forum.mobilism.org/viewforum.php?f=106) to download books.
+:::
+
 ## Software
 
 :::tabs
@@ -291,6 +312,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [jp-mining-note](https://aquafina-water-bottle.github.io/jp-mining-note/)
 - [Xelieu's Modified Anime Card](https://xelieu.github.io/jp-lazy-guide/)
 - [Anki Prettify](https://github.com/pranavdeshai/anki-prettify)
+- [JP Study tools](https://github.com/rudnam/JP-study)
 
 ### Decks
 - [Core 2k/6k Optimized Japanese Vocabulary Anki](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) 
@@ -304,45 +326,43 @@ Interested in learning the japanese language? Here you can find resources to aid
 == Learning tools
 
 ### Dictionary
-- jidoujisho <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://github.com/lrorpilla/jidoujisho" />
 - JS-Dict <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://github.com/petlyh/JS-Dict" />
 - Shirabe Jisho <Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/shirabe-jisho/id1005203380" />
 - Takoboto <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=jp.takoboto" />
 
 ### Media Player
-- [Anime Subtitle Player](https://github.com/LostArrows27/anime-subtitle-player)
+- jidoujisho <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://github.com/lrorpilla/jidoujisho" />
+- [Asbplayer](https://killergerbah.github.io/asbplayer/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/killergerbah/asbplayer" />
+- [Anime Subtitle Player](https://anime-subtitle-player.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/LostArrows27/anime-subtitle-player" />
 - [mpvacious](https://github.com/Ajatt-Tools/mpvacious)
 - [memento](https://github.com/ripose-jp/Memento)
-- [Asbplayer](https://killergerbah.github.io/asbplayer/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/killergerbah/asbplayer" />
 - [Voracious](https://voracious.app/)
 
 ### Practice
 - Learn Japanese! - Kanji <Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/learn-japanese-kanji/id1078107994" />
 - Kana - Hiragana and Katakana <Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/kana-hiragana-and-katakana/id1454200955" />
 - [Kanji Garden](https://kanji.garden/) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=is.ky.kanjigarden&hl=en&gl=US" /><Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/kanji-garden-japanese/id1338967114" />
+- Japanese Kanji Study <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy&hl=en&gl=US" />
 
 ### Reader
 - [Easy Japanese](https://easyjapanese.net/) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=mobi.eup.jpnews&hl=en&gl=US" /><Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/easy-japanese-news-%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/id1107177166" />
 - [Immersion Reader](https://reader.immersionkit.com/) <Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/immersion-reader/id6443721334" />
-- Japanese Kanji Study <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy&hl=en&gl=US" />
 - [mokuro](https://github.com/kha-white/mokuro) 
-- [ttu ttu Ebook Reader](https://github.com/ttu-ttu/ebook-reader) 
-- [Typhon Reader](https://play.google.com/store/apps/details?id=net.zorgblub.typhon) 
+- [ttsu Ebook Reader](https://reader.ttsu.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/ttu-ttu/ebook-reader" /> 
 - [Satori Reader](https://www.satorireader.com/) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.braksoftware.SatoriReader&hl=en&gl=US" /><Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/satori-reader/id1382950847" />
 - Write It! Japanese <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.jernung.writeit.jpn&hl=en&gl=US" /><Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/write-it-japanese/id1268225663" />
+- Typhon Reader <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=net.zorgblub.typhon" />
 
 == Tools
 
 ### Extension
+- [Yomitan](https://github.com/themoeway/yomitan) <Badge type="tip" text="Guide" link="https://learnjapanese.moe/yomichan/" />
+    - [Yomitan Dictionaries](https://github.com/MarvNC/yomichan-dictionaries/)
+    - [Yomitan Grammar Dictionaries](https://github.com/aiko-tanaka/Grammar-Dictionaries)
 - [10ten Japanese Reader](https://github.com/birchill/10ten-ja-reader)
 - [jimaku player](https://github.com/sheodox/jimaku-player)
-- [JP Study tools](https://github.com/rudnam/JP-study)
 - [Language Reactor](https://www.languagereactor.com/)
 - [mirigana](https://github.com/mirigana/mirigana)
-- [rikaikun](https://github.com/melink14/rikaikun)
-- [Yomichan](https://foosoft.net/projects/yomichan/) <Badge type="tip" text="Guide" link="https://learnjapanese.moe/yomichan/" />
-- [Yomichan Dictionaries](https://github.com/MarvNC/yomichan-dictionaries/)
-- [Yomichan Grammar Dictionaries](https://github.com/aiko-tanaka/Grammar-Dictionaries)
 - [JPDB Web Reader](https://github.com/max-kamps/jpd-breader)
 
 ### Word Lookup
@@ -386,7 +406,6 @@ Culture, History, Mythology & Festival. Everything about Japan!
 - [The Shogunate](https://www.youtube.com/@TheShogunate/)
 :::
 
->You can use [**Anna’s Archive**](https://annas-archive.org), [**Z-Library**](https://singlelogin.re/), [**PDF Drive**](https://www.pdfdrive.com/) & [**Mobilism**](https://forum.mobilism.org/viewforum.php?f=106) to download books.
 
 ## Mythology
 

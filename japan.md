@@ -126,8 +126,9 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Takoboto](https://takoboto.jp/)
 - [Tangorin](https://tangorin.com/)
 - [Weblio](https://ejje.weblio.jp/)
+- [Wiktionary](https://wiktionary.org) <Badge type="tip" text="EN" link="https://en.wiktionary.org/" /><Badge type="tip" text="JP" link="https://ja.wiktionary.org/" />
 - [Gengo](https://gengo.tech/) <Badge type="tip" text="Prefectures" link="https://prefectures.gengo.tech/" /> 
-- [Bunpro](https://bunpro.jp/) <Badge type="warning" text="Difficult" />
+- [Bunpro](https://bunpro.jp/) <>
 - [A Dictionary of Japanese Grammar](https://core6000.neocities.org/dojg/)
 - [Visualizing Japanese Grammar](https://www2.gwu.edu/~eall/vjgnew/vjghomepage/vjghome.htm)
 
@@ -162,10 +163,6 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Kana Pro](https://kana.pro/)
 - [Real Kana](https://realkana.com/)
 
-
-:::tip Tips
-aaaa
-
 == Kanji
 
 ### Guides
@@ -184,9 +181,6 @@ aaaa
 - [Kenji Sugimoto](https://www.kenjisugimoto.com/shuji/index.html?shuji=%E3%81%8A%E6%89%8B%E6%9C%AC)
 - [Kanji Game](https://kotobaweb.com/kanjigame/create)
 
-:::tip Tips
-aaaa
-
 == Pitch Accent
 
 ### Guides
@@ -197,12 +191,11 @@ aaaa
 - [Resources for pitch accent](https://xythh.github.io/resources)
 
 ### Youtube
-- [Darius Jahandarie] [Strategies for Acquiring Pitch Accent in Japanese](https://www.youtube.com/watch?v=I-dRbTnLmBY)
 - [Dogen] [Japanese pitch-accent & pronunciation playlist](https://www.youtube.com/playlist?list=PLxMXdmBM9wPvsySiMoBzgh8d68xqKz1YP)
+- [Darius Jahandarie] [Strategies for Acquiring Pitch Accent in Japanese](https://www.youtube.com/watch?v=I-dRbTnLmBY)
 - [Speak Japanese Naturally] [Japanese Pitch Accent and Intonation](https://www.youtube.com/playlist?list=PLFGs3d9Sobfgr4clmLcHUM_X4JBCyIP2n)
 - [Yudai Sensei] [Pitch Accent for Absolute Beginners](https://www.youtube.com/playlist?list=PLAmROvem8e1LhXfCUqCDshBLAdi_LlR6y)
 - [Seize Japanese] [Verb Pitch Accent and Verbs' Conjugations](https://www.youtube.com/playlist?list=PLbEVYkEj81RzdzDWujEkfjJZrzsqV3Q8O)
-
 
 ### Others
 - **Tools**
@@ -214,11 +207,7 @@ aaaa
 
 ### Practice
 - [Kotu](https://kotu.io/)
-- [NALA](www.tufs.ac.jp/st/personal/99/kawatsu/nala/)
-- [Migaku Pitch Trainer](https://pitch-demo.migaku.io/)
-
-:::tip Tips
-aaaa
+- [Migaku Pitch Trainer](https://pitch-demo.migaku.io/) <Badge type="warning" text="Freemium" />
 
 == General
 
