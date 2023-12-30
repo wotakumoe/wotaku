@@ -33,7 +33,7 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 
 == Stream
 
-- [**Aniwave**](https://aniwave.to/home) <Badge type="info" text="Lite" link="https://lite.aniwave.to/home" /><Badge type="info" text="Alt" link="https://anix.to/home" /><Badge type="info" text="Proxies" link="https://aniwave.tv/" />
+- [**Aniwave**](https://aniwave.to/home) <Badge type="info" text="Lite" link="https://lite.aniwave.to/home" /><Badge type="info" text="Alt" link="https://anix.to/home" /><Badge type="info" text="Proxies" link="https://aniwave.live/" />
   - Huge library with Watch Together feature
   - Less amount of compression compared to other sites that use 3rd party hosts
   - Has both hardsub and softsub (multilingual)
