@@ -128,7 +128,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Weblio](https://ejje.weblio.jp/)
 - [Wiktionary](https://wiktionary.org) <Badge type="tip" text="EN" link="https://en.wiktionary.org/" /><Badge type="tip" text="JP" link="https://ja.wiktionary.org/" />
 - [Gengo](https://gengo.tech/) <Badge type="tip" text="Prefectures" link="https://prefectures.gengo.tech/" /> 
-- [Bunpro](https://bunpro.jp/) <>
+- [Bunpro](https://bunpro.jp/)
 - [A Dictionary of Japanese Grammar](https://core6000.neocities.org/dojg/)
 - [Visualizing Japanese Grammar](https://www2.gwu.edu/~eall/vjgnew/vjghomepage/vjghome.htm)
 
@@ -215,7 +215,6 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Genki Study Resources](https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/)
 - [Tobira Study Resources](https://sethclydesdale.github.io/tobira-study-resources/)
 - [Japanese Numbers](https://langpractice.com/japanese)
-
 
 :::
 
