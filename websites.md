@@ -629,11 +629,11 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
   - [CDJapan](https://www.cdjapan.co.jp/)
   - [Play-Asia](https://www.play-asia.com/)
   - [HMV & Books](https://www.hmv.co.jp/)
-  - [Ototoy](https://ototoy.jp/)
 - **Digital**
   - [Amazon](https://www.amazon.com/)
   - [Qobuz](https://www.qobuz.com/us-en/shop)
   - [Mora](https://mora.jp/)
+  - [Ototoy](https://ototoy.jp/)
   - [Recochoku](https://recochoku.jp/)
 
 :::
