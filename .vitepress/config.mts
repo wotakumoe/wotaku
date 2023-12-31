@@ -195,6 +195,7 @@ export default withPwa(
             { text: "Squidify", link: "/guides/squidify" },
           ],
         },
+        { text: "Changelog", link: "https://github.com/anotherduckling/Wotaku/commits/main/" },
       ],
       socialLinks: [
         { icon: "github", link: "https://github.com/anotherduckling/Wotaku" },
