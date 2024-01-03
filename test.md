@@ -15,6 +15,18 @@ Not original content but based on an already existing work (light novel, anime, 
 ### Mangaka
 Mangaka means the artist of the manga. Mangaka can also be the story writer. Generally, mangaka does everything by himself, but sometimes he may employ assistants to speed up the work and cope with the weekly release schedule.
 
+### Origin
+
+| Comics   | Country              |
+| ------   | ------               |
+| Manga    | Japan                |
+| Manhwa   | Korea                |
+| Manhua   | China                |
+| Manfra   | France               |
+| OEL      | English-speaking countries |
+| Komik    | Indonesia            |
+
+
 ### Sound Effects
 Sound effects in manga visualizes the characters physical or mental state, environment of the scenario, motions or just sounds(obviously). [**Here**](https://www.muri.se/misc/soundfx.html) is a collection of Japanese Sound effects.
 
@@ -97,12 +109,12 @@ They can sometimes cover multiple pages, which is solved by having fold-outs.
 When the translation of a series starts at the latest chapters, with the publisher later working on the rest, starting from the beginning.
 
 ### Doujinshi
-Doujinshi refers to self-published works. It can be a standalone self-published work, but it can also be a derivative of an existing published franchise or work. Doujinshi need not be NSFW, anything self-published counts. Example: [Ganbare, Douki-chan (Pre-serialization)](https://mangadex.org/title/190616bc-7da6-45fd-abd4-dd2ca656c183/ganbare-douki-chan)
+Doujinshi refers to self-published works. It can be a standalone self-published work, but it can also be a derivative of an existing published franchise or work. Doujinshi need not be NSFW, anything self-published counts.
 
+Sometimes, mangaka publish their work as a doujin before an official serialization. Example: [Ganbare, Douki-chan (Pre-serialization)](https://mangadex.org/title/190616bc-7da6-45fd-abd4-dd2ca656c183/ganbare-douki-chan). Sometimes after the serialization has ended. Example: [Mangaka-sensei and the Zashiki Warashi (post ch. 29)](https://nukyui.booth.pm/)
 
 ### OEL Comics
 OEL, or Original English-language comics, originate in English-speaking countries. They prominently feature Asian cultural influences in their art styles, themes, and storytelling, while the creators, including artists and production, are primarily non-Asian. Prominent examples include [Bizenghast](https://www.mangaupdates.com/series/ia6dfoc/bizenghast), [Attack on Titan Anthology](https://www.mangaupdates.com/series/bo81id9/attack-on-titan-anthology), [Ghost in the Shell: Global Neural Network](https://www.mangaupdates.com/series/29bycqg/the-ghost-in-the-shell-global-neural-network) and [The Beginning After the End](https://www.mangaupdates.com/series/rwg23en/the-beginning-after-the-end).
-
 
 ### Omake
 A bonus/extra chapter which doesn't really affect the main story. Generally gives artworks, character backgrounds, mangaka notes or an extra story.
@@ -132,7 +144,7 @@ Tankoubon means the volume release. Many manga are initially published in magazi
 
 ![One Piece](/glossary/manga/Tankoubon.jpg)
 
-### Other volume types
+#### Other volume types
 
 | Term | Meaning { class="compact" } |
 | --- | --- |
