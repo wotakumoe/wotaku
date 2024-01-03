@@ -25,7 +25,7 @@
     "nitro-cors": "^0.7.0",
     "nitropack": "^2.8.1",
     "unocss": "^0.57.1",
-    "vitepress": "npm:@taskylizard/vitepress@1.0.3",
+    "vitepress": "npm:@taskylizard/vitepress@1.0.4",
     "vitepress-plugin-tabs": "^0.4.1",
     "vue": "^3.3.7",
     "workbox-window": "^7.0.0",

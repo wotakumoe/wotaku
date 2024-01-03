@@ -40,13 +40,13 @@ dependencies:
     version: 2.8.1
   unocss:
     specifier: ^0.57.1
-    version: 0.57.1(postcss@8.4.31)(rollup@2.79.1)(vite@4.5.0)
+    version: 0.57.1(postcss@8.4.32)(rollup@2.79.1)(vite@4.5.0)
   vitepress:
-    specifier: npm:@taskylizard/vitepress@1.0.3
-    version: /@taskylizard/vitepress@1.0.3(@types/node@20.8.9)(postcss@8.4.31)
+    specifier: npm:@taskylizard/vitepress@1.0.4
+    version: /@taskylizard/vitepress@1.0.4(@types/node@20.8.9)(postcss@8.4.32)
   vitepress-plugin-tabs:
     specifier: ^0.4.1
-    version: 0.4.1(@taskylizard/vitepress@1.0.3)(vue@3.3.7)
+    version: 0.4.1(@taskylizard/vitepress@1.0.4)(vue@3.3.7)
   vue:
     specifier: ^3.3.7
     version: 3.3.7
@@ -292,7 +292,7 @@ packages:
       '@babel/helper-compilation-targets': 7.22.15
       '@babel/helper-module-transforms': 7.23.0(@babel/core@7.23.2)
       '@babel/helpers': 7.23.2
-      '@babel/parser': 7.23.0
+      '@babel/parser': 7.23.6
       '@babel/template': 7.22.15
       '@babel/traverse': 7.23.2
       '@babel/types': 7.23.0
@@ -1400,7 +1400,7 @@ packages:
     engines: {node: '>=6.9.0'}
     dependencies:
       '@babel/code-frame': 7.22.13
-      '@babel/parser': 7.23.0
+      '@babel/parser': 7.23.6
       '@babel/types': 7.23.0
     dev: false
 
@@ -1414,7 +1414,7 @@ packages:
       '@babel/helper-function-name': 7.23.0
       '@babel/helper-hoist-variables': 7.22.5
       '@babel/helper-split-export-declaration': 7.22.6
-      '@babel/parser': 7.23.0
+      '@babel/parser': 7.23.6
       '@babel/types': 7.23.0
       debug: 4.3.4
       globals: 11.12.0
@@ -2728,8 +2728,8 @@ packages:
       string.prototype.matchall: 4.0.10
     dev: false
 
-  /@taskylizard/vitepress@1.0.3(@types/node@20.8.9)(postcss@8.4.31):
-    resolution: {integrity: sha512-euJ5JqiGfspdriSBB/pEguVMF4yE3G1w6+IGS88moSVvIdWj0PKqZoE7/qdT3mJEXZ1X5yxDRYpQ4czHlT+sAg==}
+  /@taskylizard/vitepress@1.0.4(@types/node@20.8.9)(postcss@8.4.32):
+    resolution: {integrity: sha512-sYoG2KEvIVE3na69TyUbLs91/0AO7geVmlev4AaxGNqZPEqXBz1otKbtMLVMkBr9oOZH3YreRZ4Lb5VSWueXWQ==}
     hasBin: true
     peerDependencies:
       markdown-it-mathjax3: ^4.3.2
@@ -2751,7 +2751,7 @@ packages:
       mark.js: 8.11.1
       minisearch: 6.3.0
       mrmime: 2.0.0
-      postcss: 8.4.31
+      postcss: 8.4.32
       shikiji: 0.9.17
       shikiji-transformers: 0.9.17
       vite: 5.0.10(@types/node@20.8.9)
@@ -2907,7 +2907,7 @@ packages:
       sirv: 2.0.3
     dev: false
 
-  /@unocss/postcss@0.57.1(postcss@8.4.31):
+  /@unocss/postcss@0.57.1(postcss@8.4.32):
     resolution: {integrity: sha512-DexrV+v/qkVh6t660rXigNr2Y6lON8jxD1z2KVk2bjHKhFflF6q6seps6d/MquyLJI1mXF2uANTeFAeL2q6evw==}
     engines: {node: '>=14'}
     peerDependencies:
@@ -2919,7 +2919,7 @@ packages:
       css-tree: 2.3.1
       fast-glob: 3.3.1
       magic-string: 0.30.5
-      postcss: 8.4.31
+      postcss: 8.4.32
     dev: false
 
   /@unocss/preset-attributify@0.57.1:
@@ -6640,7 +6640,7 @@ packages:
     engines: {node: '>= 10.0.0'}
     dev: false
 
-  /unocss@0.57.1(postcss@8.4.31)(rollup@2.79.1)(vite@4.5.0):
+  /unocss@0.57.1(postcss@8.4.32)(rollup@2.79.1)(vite@4.5.0):
     resolution: {integrity: sha512-xLsyJ8+T1/Ux93yrqOvuQy268wF5rSzydlsbqZ5EVfi01PxYyydez3nycPqbyPZientkJ0Yohzd5aBqmZgku3A==}
     engines: {node: '>=14'}
     peerDependencies:
@@ -6656,7 +6656,7 @@ packages:
       '@unocss/cli': 0.57.1(rollup@2.79.1)
       '@unocss/core': 0.57.1
       '@unocss/extractor-arbitrary-variants': 0.57.1
-      '@unocss/postcss': 0.57.1(postcss@8.4.31)
+      '@unocss/postcss': 0.57.1(postcss@8.4.32)
       '@unocss/preset-attributify': 0.57.1
       '@unocss/preset-icons': 0.57.1
       '@unocss/preset-mini': 0.57.1
@@ -6850,7 +6850,7 @@ packages:
     dependencies:
       '@types/node': 20.8.9
       esbuild: 0.18.20
-      postcss: 8.4.31
+      postcss: 8.4.32
       rollup: 3.29.4
     optionalDependencies:
       fsevents: 2.3.3
@@ -6892,13 +6892,13 @@ packages:
       fsevents: 2.3.3
     dev: false
 
-  /vitepress-plugin-tabs@0.4.1(@taskylizard/vitepress@1.0.3)(vue@3.3.7):
+  /vitepress-plugin-tabs@0.4.1(@taskylizard/vitepress@1.0.4)(vue@3.3.7):
     resolution: {integrity: sha512-hJFQmANgneLwy3/gcel5L4gj/bopPLj1pdoMwUhTAjd2pDNBPlWzOpuCXaVYnV0i0GrXbSuK9XZXt6M7ZHNbsg==}
     peerDependencies:
       vitepress: ^1.0.0-rc.14
       vue: ^3.3.4
     dependencies:
-      vitepress: /@taskylizard/vitepress@1.0.3(@types/node@20.8.9)(postcss@8.4.31)
+      vitepress: /@taskylizard/vitepress@1.0.4(@types/node@20.8.9)(postcss@8.4.32)
       vue: 3.3.7
     dev: false
 
