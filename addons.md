@@ -29,6 +29,7 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 - **DNS**
   - [NextDNS](https://nextdns.io/) <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
   - [Adguard DNS](https://adguard-dns.io/en/welcome.html) <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
+  - [dnswarden](https://dnswarden.com/index.html)
   - [AhaDNS](https://blitz-setup.ahadns.com/) <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
 
 == Downloader
