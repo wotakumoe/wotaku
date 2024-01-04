@@ -327,6 +327,12 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 
 == Others
 
+### Music
+- [Ame](https://notabug.org/SuperSaltyGamer/ame/)
+- [MusicBrainz Userscripts](https://musicbrainz.org/doc/Guides/Userscripts)
+- [Slav Art User Scripts](https://rentry.org/slavartuserscripts)
+
+### Misc
 - [Fandom Fixed](https://github.com/squabbled/FandomFixed)
 - Game DL Links on <Badge type="tip" text="GOG" link="https://greasyfork.org/en/scripts/481134-gog-to-free-download-site" /> <Badge type="tip" text="Steam" link="https://greasyfork.org/en/scripts/481139-steam-to-free-download-site" />
 
