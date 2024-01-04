@@ -33,7 +33,7 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 
 == Stream
 
-- [**Aniwave**](https://aniwave.to/home) <Badge type="info" text="Lite" link="https://lite.aniwave.to/home" /><Badge type="info" text="Alt" link="https://anix.to/home" /><Badge type="info" text="Proxies" link="https://aniwave.live/" />
+- [**Aniwave**](https://aniwave.to/home) <Badge type="info" text="Lite" link="https://lite.aniwave.to/home" /><Badge type="info" text="Alt" link="https://anix.to/home" /><Badge type="info" text="Proxies" link="https://aniwave.live/" /><Badge type="info" text="Alt Proxies" link="https://anix.me/" />
   - Huge library with Watch Together feature
   - Less amount of compression compared to other sites that use 3rd party hosts
   - Has both hardsub and softsub (multilingual)
@@ -81,7 +81,7 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 - [Anime Senpai](https://www.animesenpai4u.com/) <Badge type="info" text="GDrive" /><Badge type="info" text="Mega" /><Badge type="info" text="no ad" />
 - [Kayo anime](https://kayoanime.com/) <Badge type="info" text="GDrive" /><Badge type="info" text="no ad" />
 - [Chauthanh](https://chauthanh.info/) <Badge type="info" text="Direct" /><Badge type="info" text="no ad" />
-- [RIP Crabby Anime](https://ripcrabbyanime.in/) <Badge type="info" text="GDrive" /><Badge type="info" text="no ad" />
+- [RIP Crabby Anime](https://ripcrabbyanime.com/) <Badge type="info" text="GDrive" /><Badge type="info" text="no ad" />
 - [JPFiles](https://jpfiles.net/) <Badge type="info" text="Blu-ray" /><Badge type="info" text="Misc" /><Badge type="info" text="Host" />
 - [JPLearner](http://www.jplearner.to/) <Badge type="info" text="Blu-ray" /><Badge type="info" text="Misc" /><Badge type="info" text="Host" />
 - [AnimeRSS](https://animerss.com/) <Badge type="info" text="Blu-ray" /><Badge type="info" text="Host" />
@@ -425,6 +425,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 == Direct Download
 
 - [Ganba's DDL sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSvd0SjjPYZKzhUwTYK2n2peZD_n6_wDmEKV3I37nuM-FnOtAU5xZkec35GabjrZ6olJTbr_CMXS6AH/pubhtml)
+- [Elscione Official LNs](https://server.elscione.com/Officially%20Translated%20Light%20Novels/)
 - [Novel Onedrive Index](https://novel-indx.vercel.app/)
 - [Just Light Novels](https://www.justlightnovels.com/)
 - [That Novel Corner](https://thatnovelcorner.com/)
