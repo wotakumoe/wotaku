@@ -49,9 +49,12 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13)  <Badge type="info" text="DDL" />
 - [Batoto](https://battwo.com/v3x) <Badge type="tip" text="2" link="https://mangatoto.net/" /><Badge type="tip" text="3" link="https://mangatoto.com/" />
 - [Hiperdex](https://hiperdex.com/)
+- [Manga District](https://mangadistrict.com/)
 - [Manhwa18](http://manhwa18.com/)
+- [Manhwas](https://manhwas.men/) <Badge type="tip" text="Raw" /><Badge type="tip" text="Eng" />
 - [Manytoon](https://manytoon.com/) 🦆
-- [Oppai Stream](https://read.oppai.stream/) 🦆
+- [OKToon](https://oktoon.org/webtoon/adult) <Badge type="tip" text="Raw" />
+- [Oppai Stream](https://read.oppai.stream/) <tooltip>Late releases but less compressed than other aggregators'</tooltip>🦆
 - [Toonily](https://toonily.com/) 🦆
 - [Webtoon](https://www.webtoon.xyz/)
 
