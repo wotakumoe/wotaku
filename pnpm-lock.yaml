@@ -42,11 +42,11 @@ dependencies:
     specifier: ^0.57.1
     version: 0.57.1(postcss@8.4.32)(rollup@2.79.1)(vite@4.5.1)
   vitepress:
-    specifier: npm:@taskylizard/vitepress@1.0.6
-    version: /@taskylizard/vitepress@1.0.6(@types/node@20.8.9)(postcss@8.4.32)
+    specifier: npm:@taskylizard/vitepress@1.0.7
+    version: /@taskylizard/vitepress@1.0.7(@types/node@20.8.9)(postcss@8.4.32)
   vitepress-plugin-tabs:
     specifier: ^0.4.1
-    version: 0.4.1(@taskylizard/vitepress@1.0.6)(vue@3.3.7)
+    version: 0.4.1(@taskylizard/vitepress@1.0.7)(vue@3.3.7)
   vue:
     specifier: ^3.3.7
     version: 3.3.7
@@ -3065,8 +3065,8 @@ packages:
       string.prototype.matchall: 4.0.10
     dev: false
 
-  /@taskylizard/vitepress@1.0.6(@types/node@20.8.9)(postcss@8.4.32):
-    resolution: {integrity: sha512-aLsBZnamk3fW1mGkJopcsQeoWFPsBkp2NRt3qXeY7TAdlRSjaoe3meZ8OLxOH8d6F55xpri16hysf7EMbvLMgA==}
+  /@taskylizard/vitepress@1.0.7(@types/node@20.8.9)(postcss@8.4.32):
+    resolution: {integrity: sha512-AbM89O3sEIvBHZxXj5eXHiWyZf0EahkavTUDqR1hoztp16fRIDGuEOvJKpKHLekrH3LxChEE8I/FgJDz/9W4Vg==}
     hasBin: true
     peerDependencies:
       markdown-it-mathjax3: ^4.3.2
@@ -7316,13 +7316,13 @@ packages:
       fsevents: 2.3.3
     dev: false
 
-  /vitepress-plugin-tabs@0.4.1(@taskylizard/vitepress@1.0.6)(vue@3.3.7):
+  /vitepress-plugin-tabs@0.4.1(@taskylizard/vitepress@1.0.7)(vue@3.3.7):
     resolution: {integrity: sha512-hJFQmANgneLwy3/gcel5L4gj/bopPLj1pdoMwUhTAjd2pDNBPlWzOpuCXaVYnV0i0GrXbSuK9XZXt6M7ZHNbsg==}
     peerDependencies:
       vitepress: ^1.0.0-rc.14
       vue: ^3.3.4
     dependencies:
-      vitepress: /@taskylizard/vitepress@1.0.6(@types/node@20.8.9)(postcss@8.4.32)
+      vitepress: /@taskylizard/vitepress@1.0.7(@types/node@20.8.9)(postcss@8.4.32)
       vue: 3.3.7
     dev: false
 
