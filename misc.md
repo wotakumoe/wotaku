@@ -340,6 +340,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == Music
 
 - [Anime Music Quiz](https://animemusicquiz.com/)
+- [Apple Music Artwork Fetcher](https://artwork.thekvt.eu.org/)
 - [Chosic](https://www.chosic.com/) 🦆
 - [Cover Search Engine](https://covers.musichoarders.xyz/) 🦆
 - [Game Tabs](https://www.gametabs.net/)
