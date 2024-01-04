@@ -166,7 +166,8 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
   - [Karaoke Mugen](https://mugen.karaokes.moe/en/)
 
 ### Tools
-- [Helium](https://www.imploded.com/)
+- [dBpoweramp](https://www.dbpoweramp.com/) <Badge type="warning" text="Trialware" />
+- [fre:ac](https://www.freac.org/)
 - [MP3Tag](https://www.mp3tag.de/en/)
 - [Sonic Visualiser](https://www.sonicvisualiser.org/)
 - [Spek](https://www.spek.cc/)
@@ -181,7 +182,6 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 
 ### Online
 - [FreeTube](https://freetubeapp.io/)
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) <Badge type="info" text="GUI" link="https://github.com/kannagi0303/yt-dlp-gui" /><Badge type="info" text="GUI Installer" link="https://github.com/kazukikasama/youtube-dlp-gui-installer" /> 🦆
 
 ::: details 💡 **mpv Resources**
 - **Resources**
@@ -216,6 +216,7 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
   - [IDM](https://www.internetdownloadmanager.com/) <Badge text="Activator" link="https://massgrave.dev/idm-activation-script.html" />
   - [JDL](https://jdownloader.org/) <Badge text="Debloat" link="https://rentry.org/jdownloader2" />
   - [XDM](https://xtremedownloadmanager.com/)
+  - [yt-dlp](https://github.com/yt-dlp/yt-dlp) <Badge type="info" text="GUI" link="https://github.com/kannagi0303/yt-dlp-gui" /><Badge type="info" text="GUI Installer" link="https://github.com/kazukikasama/youtube-dlp-gui-installer" /> 🦆
 - **Torrent**
   - [qBittorrent](https://www.qbittorrent.org/)
   - [Transmission](https://transmissionbt.com/)
@@ -223,6 +224,7 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 ### Music
 - [Nicotine+](https://nicotine-plus.org/) <Badge text="p2p" /><tooltip>Direct peer-to-peer sharing network, primarily used for music</tooltip>
 - [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD)
+- [Deemix](https://download.deemix.workers.dev/)
 - [Soggfy](https://github.com/Rafiuth/Soggfy)
 - [Spotify AAC Downloader](https://github.com/glomatico/spotify-aac-downloader)
 - [ZSpotify](https://github.com/jsavargas/zspotify) <Badge type="tip" text="GUI" link="https://github.com/PacketSurf/ZSpotifyGUI" />
