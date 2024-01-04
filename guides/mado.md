@@ -55,7 +55,7 @@ You will now see **Sola** at the left sidebar.
 
 ![](/ss/mado/madohome.png)
 
-- If your lucky, sola will say "**ok enjoy ur account**"
+- If you are lucky, sola will say "**ok enjoy ur account**"
 - If unlucky, sola will say "**you are not favored, try again later**"
 
 Repeat this step until you get an account, the cooldown should be 4 hours.
