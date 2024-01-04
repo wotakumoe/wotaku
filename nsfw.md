@@ -50,8 +50,8 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [Batoto](https://battwo.com/v3x) <Badge type="tip" text="2" link="https://mangatoto.net/" /><Badge type="tip" text="3" link="https://mangatoto.com/" />
 - [Hiperdex](https://hiperdex.com/)
 - [Manga District](https://mangadistrict.com/)
-- [Manhwa18](http://manhwa18.com/)
 - [Manhwas](https://manhwas.men/) <Badge type="tip" text="Raw" /><Badge type="tip" text="Eng" />
+- [Manhwa18](http://manhwa18.com/)
 - [Manytoon](https://manytoon.com/) 🦆
 - [OKToon](https://oktoon.org/webtoon/adult) <Badge type="tip" text="Raw" />
 - [Oppai Stream](https://read.oppai.stream/) <tooltip>Late releases but less compressed than other aggregators'</tooltip>🦆
