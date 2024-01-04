@@ -201,7 +201,9 @@ A Character(s) who has cynical world views, is cold-hearted, and are is highly a
 
 :::details Kanedere
 'Kane' means money. They are the anime equivalent of gold diggers. They often just care about how much money a person has, and nothing else. However, if they truly love someone the habit can be broken. Example: [Eva Heinemann from Monster](https://anidb.net/character/4909)
+
 ![Eva Heinemann](/glossary/general/kanedere.png)
+
 :::
 
 :::details Mayadere
@@ -228,6 +230,7 @@ Character(s) that are cat-loving fanatics, it could come in several variations:
     - A regular human that is normal or show no emotion to others, but show their nyandere side when around cats, portrayed through showing imaginary cat ears and paws
 
 Example: [Mizuno Kaede from Nyan Koi!](https://anidb.net/character/10841)
+
 ![Mizuno Kaede](/glossary/general/nyandere.png)
 :::
 
@@ -244,6 +247,7 @@ Character(s) that indulge in the manipulation of their crush's feelings and humi
 :::details Kekkondere
 
 Character(s) type that is obsessed with getting married right away, even if it's someone they just met, in other words love at first sight, Their insistence on getting married comes from wanting to spent the rest of their life with their love interest, it could be get to the point where it becomes unhealthy, where they may turn into yanderes! Example: [Fujinomiya Neko from Masamune-kun no Revenge](https://anidb.net/character/85802)
+
 ![Fujinomiya Neko](/glossary/general/kekkondere.png)
 :::
 
