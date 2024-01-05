@@ -49,6 +49,7 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
   - [Poweramp](https://powerampapp.com/) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer&hl=en&gl=US" /> 🦆
   - [Oto Music Player](https://play.google.com/store/apps/details?id=com.piyush.music)
 - **Online**
+  - [Audire](https://github.com/alexmercerind/audire) <Badge type="info" text="Identifier" />
   - [Innertune](https://github.com/z-huang/InnerTune) <Badge type="info" text="Youtube Music" /> 🦆
   - [xManager](https://www.xmanagerapp.com/) <Badge type="info" text="Android" /><Badge type="info" text="Spotify" />
   - [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) <Badge type="info" text="iOS" /><Badge type="info" text="Spotify" />
