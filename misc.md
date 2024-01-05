@@ -339,16 +339,19 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 == Music
 
+### General
 - [Anime Music Quiz](https://animemusicquiz.com/)
 - [Apple Music Artwork Fetcher](https://artwork.thekvt.eu.org/)
-- [Chosic](https://www.chosic.com/) 🦆
 - [Cover Search Engine](https://covers.musichoarders.xyz/) 🦆
-- [Game Tabs](https://www.gametabs.net/)
+- [Songle](https://songle.jp/) <Badge type="tip" text="Vocaloid"/>
+- [TuneMyMusic](https://www.tunemymusic.com/) <Badge type="tip" text="Trasnfer"/>
+- [Soundiiz](https://soundiiz.com/) <Badge type="tip" text="Trasnfer"/>
+
+### Spotify
+- [Chosic](https://www.chosic.com/) 🦆
 - [Skiley](https://skiley.net/) 🦆
-- [Songle](https://songle.jp/)
+- [Spotify Release List](https://spotifyreleaselist.netlify.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/jakubito/spotify-release-list" />
 - [Spotify Dedup](https://spotify-dedup.com/)
-- [TuneMyMusic](https://www.tunemymusic.com/)
-- [Soundiiz](https://soundiiz.com/)
 
 ### Last.fm
 - [Last.fm stats](https://lastfmstats.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/felhag/lastfm-stats-web" />
