@@ -257,7 +257,6 @@ Otaku resources for other languages/regions.
 == Manga
 
 ### Reader
-- [Hachi Raw](https://hachiraw.com/) <Badge type="danger" text="18+" />
 - [KL Manga](https://klmanga.com/) <Badge type="danger" text="18+" />
 - [Mangaraw Japan](https://mangaraw.to/) <Badge type="danger" text="18+" />
 - [Mangaraw+](https://mangarawplus.co/)
@@ -271,7 +270,6 @@ Otaku resources for other languages/regions.
 - [Book Share Zip](https://bszip.com/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
 - [Comic 77](https://comic77.com/) <Badge type="danger" text="18+" />
 - [Comics 888](https://comics888.com/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [DL Raw co](https://dl-raw.co/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
 - [DL Raw net](https://dlraw.net/category/raw-manga/) [Manga Zip](https://manga-zip.info/category/raw-manga/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
 - [DL Zip](https://dl-zip.com/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
 - [Itazura Neko](https://djtguide.github.io/library/manga/subete) <Badge type="info" text="Novel" />

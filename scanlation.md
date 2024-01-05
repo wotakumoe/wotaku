@@ -23,8 +23,6 @@ Guides and resources for scanlating manga.
 :::tabs
 
 == Reader
-
-- [Hachi Raw](https://hachiraw.com/) <Badge type="danger" text="18+" />
 - [KL Manga](https://klmanga.com/) <Badge type="danger" text="18+" />
 - [Mangaraw Japan](https://mangaraw.to/) <Badge type="danger" text="18+" />
 - [Mangaraw+](https://mangarawplus.co/)
