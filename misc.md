@@ -344,14 +344,14 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Apple Music Artwork Fetcher](https://artwork.thekvt.eu.org/)
 - [Cover Search Engine](https://covers.musichoarders.xyz/) 🦆
 - [Songle](https://songle.jp/) <Badge type="tip" text="Vocaloid"/>
-- [TuneMyMusic](https://www.tunemymusic.com/) <Badge type="tip" text="Trasnfer"/>
 - [Soundiiz](https://soundiiz.com/) <Badge type="tip" text="Trasnfer"/>
+- [TuneMyMusic](https://www.tunemymusic.com/) <Badge type="tip" text="Trasnfer"/>
 
 ### Spotify
 - [Chosic](https://www.chosic.com/) 🦆
 - [Skiley](https://skiley.net/) 🦆
+- [Spotify Dedup](https://spotify-dedup.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/JMPerez/spotify-dedup/" />
 - [Spotify Release List](https://spotifyreleaselist.netlify.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/jakubito/spotify-release-list" />
-- [Spotify Dedup](https://spotify-dedup.com/)
 
 ### Last.fm
 - [Last.fm stats](https://lastfmstats.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/felhag/lastfm-stats-web" />
