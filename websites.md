@@ -236,7 +236,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 == Direct Download
 
-- [Madokami](https://manga.madokami.al) <Badge type="info" text="Guide" link="/guides/mado.md" />
+- [Madokami](https://manga.madokami.al) <Badge type="info" text="Guide" link="/guides/mado" />
 - [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) <Badge type="danger" text="18+" />
 - [Anna's Archive](https://annas-archive.org/)
 - [Desuarchive](https://desuarchive.org/) <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
