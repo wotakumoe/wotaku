@@ -15,7 +15,7 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
 
 == Anime
 
-- [**Aniyomi**](https://github.com/aniyomiorg/aniyomi) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://aniyomi.org/" /><Badge type="info" text="Preview" link="https://github.com/aniyomiorg/aniyomi-preview/releases/latest" />
+- [**Aniyomi**](https://github.com/aniyomiorg/aniyomi) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://aniyomi.org/" /><Badge type="info" text="Preview" link="https://github.com/aniyomiorg/aniyomi-preview/releases/latest" /><Badge type="tip" text="Animiru" link="https://github.com/Quickdesh/Animiru" />
   - Unofficial Tachiyomi fork for anime
   - ⚠️ Use preview version for better experience (& the stable version is quite outdated)
   - Clean and minimal design
@@ -35,13 +35,13 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
   - Can be used offline
   - Also offers manga reader
   - Anilist and MAL sync
-:::details More {open}
 
-- [Kaizoyu!](https://github.com/astarivi/Kaizoyu) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://kaizoyu.ovh" /><Badge type="info" text="XDCC" />
-- [Animiru](https://github.com/Quickdesh/Animiru) <Badge type="info" text="Anime only" /><Badge type="info" text="RPC" />
-- [Animity](https://github.com/kl3jvi/animity)
+:::details More {open}
 - [Miru](https://miru.js.org/)
+- [Kaizoyu!](https://github.com/astarivi/Kaizoyu) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://kaizoyu.ovh" /><Badge type="info" text="XDCC" />
+- [Animity](https://github.com/kl3jvi/animity)
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
+
 
 == Manga
 
@@ -61,7 +61,7 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
   - Minimalist UI with limited customization
   - Offers Manga Suggestions
   - Download and local reader support
-  - Tracking & sync support
+  - Tracking & cross-device sync support
   - Lacks some basic features
 
 == Novel
