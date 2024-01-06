@@ -117,6 +117,7 @@ Otaku resources for other languages/regions.
 
 ### PC
 - [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) <Badge text="Downloader" />
+- [Bangumi Renamer](https://github.com/nuthx/bangumi-renamer)
 - [Bilibili manga downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) <Badge text="Downloader" />
 - [JProxy](https://github.com/LuckyPuppy514/jproxy) <Badge text=" Downloader" />
 
@@ -198,6 +199,7 @@ Otaku resources for other languages/regions.
 - **Stream**
     - [Dead Toons](https://www.deadtoons.co/)
     - [PureToons](https://puretoons.cc/)
+    - [Animerulez](https://animerulz.in/home/)
     - [Animesaga](https://www.animesaga.in/)
     - [ToonsHub](https://www.toonshub.xyz/)
     - [ToonStream](https://toonstream.in/)
@@ -205,8 +207,6 @@ Otaku resources for other languages/regions.
     - [Anime Academy](https://animeacademy.in/)
     - [Toonworld4all](https://toonworld4all.me/)
     - [Toonworld Tamil](https://toonworldtamil.com)
-
-
 
 
 ## Indonesian
