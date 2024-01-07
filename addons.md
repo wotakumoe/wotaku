@@ -317,8 +317,8 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 - Mangadex Follows <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/430295-new-mangadex-follows" />
 - [Manga Online Viewer](https://github.com/TagoDR/MangaOnlineViewer)
 
-== Pixiv & Booru
-
+== Imageboars
+- [4chan X](https://github.com/ccd0/4chan-x)
 - Pixiv Downloader <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/432150-pixiv-downloader" />
 - [Pixiv Preview](https://github.com/NightLancer/PixivPreview) <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/39387-pixiv-arts-preview-followed-atrists-coloring-extended-history" />
 - [ppixiv for Pixiv](https://github.com/ppixiv/ppixiv) <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/370418-ppixiv-for-pixiv" />
