@@ -98,7 +98,7 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 - [Droid-ify](https://github.com/Droid-ify/client)
 - [Obtainium](https://github.com/ImranR98/Obtainium)
 - [APKUpdater](https://github.com/rumboalla/apkupdater)
-- [FlekSt0re](https://flekstore.com/) <Badge type="info" text="iOS" />
+- [Sideloadly](https://sideloadly.io/) <Badge type="info" text="iOS" />
 
 ### Misc
 - [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play)
