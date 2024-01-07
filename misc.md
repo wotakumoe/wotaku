@@ -425,6 +425,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 ### Animators
 - [Myth's Bad Ending by Mazumaro](https://www.youtube.com/watch?v=euPfAilSpuU)
 - [2ManySnacks](https://www.youtube.com/@2ManySnacks/)
+- [Komainu EN](https://www.youtube.com/@komainu_EN)
 - [Kanauru](https://www.youtube.com/@kanauru/)
 - [Crash Landing Studios](https://www.youtube.com/@CrashLandingStudio)
 - [Tripl3en](https://www.youtube.com/@Tripl3en)
