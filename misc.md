@@ -343,9 +343,9 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Anime Music Quiz](https://animemusicquiz.com/)
 - [Apple Music Artwork Fetcher](https://artwork.thekvt.eu.org/)
 - [Cover Search Engine](https://covers.musichoarders.xyz/) 🦆
-- [Songle](https://songle.jp/) <Badge type="tip" text="Vocaloid"/>
-- [Soundiiz](https://soundiiz.com/) <Badge type="tip" text="Trasnfer"/>
-- [TuneMyMusic](https://www.tunemymusic.com/) <Badge type="tip" text="Trasnfer"/>
+- [Songle](https://songle.jp/) <Badge text="Vocaloid"/>
+- [Soundiiz](https://soundiiz.com/) <Badge text="Trasnfer"/>
+- [TuneMyMusic](https://www.tunemymusic.com/) <Badge text="Trasnfer"/>
 
 ### Spotify
 - [Chosic](https://www.chosic.com/) 🦆
@@ -385,7 +385,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 ### Stats
 - [VChama](https://vchama.xyz) <Badge type="info" text="Schedule" /> 🦆
-- [vtstats](https://vt.poi.cat/) <Badge type="info" text="Schedule" /> 🦆
+- [vtstats](https://vt.poi.cat/) <Badge type="info" text="Schedule" /><Badge text="Revenue"/> 🦆
 - [VSTATS](https://www.vstats.jp/)
 - [Userlocal Vtuber](https://virtual-youtuber.userlocal.jp/) <Badge type="info" text="Stream Rank" link="https://live-ranking.userlocal.jp/vtuber-ranking" /><Badge type="info" text="Schedule" />
 
