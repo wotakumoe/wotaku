@@ -176,7 +176,6 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
     - Supports ComicInfo.xml and info.json for metadata.
     - Supported as a source in MALSync, for AniList/MAL tracking
     - Follows the 1-folder-to-1-series paradigm (unless you designate a folder as a folder of oneshots) so you'll need to organize your files accordingly.
-    - Only supports image-based formats. Can't be used to LNs
 - [**Kavita**](https://www.kavitareader.com/)
     - Kavita is a media server for Manga and Light Novels (or eBooks).
     - Supports Tachiyomi, Paperback, OPDS readers, and REST API.
