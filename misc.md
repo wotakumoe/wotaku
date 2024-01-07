@@ -349,6 +349,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 ### Spotify
 - [Album Availability on Spotify](https://kaaes.github.io/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/kaaes/albums-availability" />
+- [Check Track Availability](https://spotify-check-track-availability.vercel.app/)
 - [Chosic](https://www.chosic.com/) 🦆
 - [Skiley](https://skiley.net/) 🦆
 - [Spotify Dedup](https://spotify-dedup.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/JMPerez/spotify-dedup/" />
