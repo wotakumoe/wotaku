@@ -348,6 +348,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [TuneMyMusic](https://www.tunemymusic.com/) <Badge text="Trasnfer"/>
 
 ### Spotify
+- [Album Availability on Spotify](https://kaaes.github.io/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/kaaes/albums-availability" />
 - [Chosic](https://www.chosic.com/) 🦆
 - [Skiley](https://skiley.net/) 🦆
 - [Spotify Dedup](https://spotify-dedup.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/JMPerez/spotify-dedup/" />
