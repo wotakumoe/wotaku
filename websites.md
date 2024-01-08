@@ -131,7 +131,7 @@ On Android, use <Badge type="tip" icon="i-custom-1dm" text="1DM" link="https://p
   - Great upload quality
   - Uses IPFS to stream anime
   - Small library & firefox isn't supported yet
-- [**Animeflix**](https://animeflix.live/) <Badge type="info" text="2" link="https://animeflix.icu/" />
+- [**Animeflix**](https://animeflix.live/) <Badge type="info" text="Proxies" link="https://animeflix.domains/" />
   - The main sources are scraper based (Gogo & Zoro)
   - Crunchyroll is available for some of the titles
   - Uploads own encodes too with decent quality but not available for every title
