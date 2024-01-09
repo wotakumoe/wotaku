@@ -455,6 +455,7 @@ Otaku resources for other languages/regions.
 - [Raiku](https://mangaraiku.eu.org)
 - [Kyoto manga](https://kyotomanga.live/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/leephan2k1/manga-app" />
 - [Net Truyen](https://www.nettruyenplus.com/)
+- [Blog Truyen](https://blogtruyen.vn/)
 
 == Others
 
