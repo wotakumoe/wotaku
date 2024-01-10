@@ -8,7 +8,7 @@ Want to increase your otaku knowledge? Look for no further! Presenting the Gloss
 
 ## Region
 
-| Country   | Comics   | Animation  |
+| Country   | Comics   | Animation { class="compact" }  |
 | :------:  | :------: | :------: |
 | Japan     | Manga    | Anime    |
 | Korea     | Manhwa   | Aeni     |
@@ -17,7 +17,7 @@ Want to increase your otaku knowledge? Look for no further! Presenting the Gloss
 
 ## Demography
 
-| Genre     | Target audience |
+| Genre     | Target audience { class="compact" }  |
 | :------:  | :------: |
 | Kodomo    | Kids (under 12)    |
 | Shounen   | Boys (12-18)     |
@@ -30,40 +30,27 @@ Want to increase your otaku knowledge? Look for no further! Presenting the Gloss
 
 ## Genre
 
-### Ecchi
-Anime or manga with lewd scenes but is not necessarily explicit or pornographic. Example: [Highschool DxD](https://anilist.co/anime/11617/High-School-DxD/)
-
-### Isekai
-Type of story where MC is transported to another world. Example: [Mushoku Tensei](https://anilist.co/anime/108465/Mushoku-Tensei-Jobless-Reincarnation/)
-
-### Mahou Shoujo
-Literally 'Magical Girl', it's a subgenre of fantasy centered around young girls who possess magical abilities, which they typically use through an ideal alter ego into which they can transform. Example: [Sailor Moon](https://anilist.co/anime/530/Sailor-Moon/)
-
-### Mecha
-Abbreviation for 'Mechanical', these shows heavily feature or focus on mechanical innovation. Robots, cyborgs, androids, and space stations, for example, all fall under the wide umbrella of mecha; however, robots are usually the primary focus. Example: [Neon Genesis Evangelion](https://anilist.co/anime/30/Shin-Seiki-Evangelion)
-
-### Shoujo-ai
-Anime and manga that explore emotional, but largely platonic, homoerotic relationships between women. Stories with explicit content of such type, are generally referred to as 'Yuri' or 'GL'. Note that this distinction is only used by western audiences.
-
-### Shounen-ai
-Anime and manga that explore emotional, but largely platonic, homoerotic relationships between men. Stories with explicit content of such type, are generally referred to as 'Yaoi' or 'BL'. Note that this distinction is only used by western audiences.
-
-### Slice of Life
-Shows that mostly focuses on the day-to-day lives of fictional characters. They are usually chill experiences focusing on relatability and feel-good vibes.Example: [Nichijou](https://anilist.co/anime/10165/Nichijou)
-
-### Wuxia
-Literally means “Martial Heroes”. Fictional stories about regular humans who can achieve supernatural fighting ability through Chinese martial arts training and internal energy cultivation. Themes of chivalry, tragedy, revenge & romance are common.
+| Genre         | Description { class="compact" }                                                                                                                                      |
+|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| Ecchi         | Anime or manga with lewd scenes but is not necessarily explicit or pornographic. Example: [Highschool DxD](https://anilist.co/anime/11617/High-School-DxD/)     |
+| Isekai        | Type of story where MC is transported to another world. Example: [Mushoku Tensei](https://anilist.co/anime/108465/Mushoku-Tensei-Jobless-Reincarnation/)  |
+| Mahou Shoujo  | Literally 'Magical Girl', subgenre of fantasy centered around young girls with magical abilities. Example: [Sailor Moon](https://anilist.co/anime/530/Sailor-Moon/) |
+| Mecha         | Abbreviation for 'Mechanical', shows heavily feature or focus on mechanical innovation. Example: [Neon Genesis Evangelion](https://anilist.co/anime/30/Shin-Seiki-Evangelion) |
+| Shoujo-ai     | Anime and manga exploring emotional, platonic, homoerotic relationships between women. *Note: Explicit content is generally referred to as 'Yuri' or 'GL'.* |
+| Shounen-ai    | Anime and manga exploring emotional, platonic, homoerotic relationships between men. *Note: Explicit content is generally referred to as 'Yaoi' or 'BL'.* |
+| Slice of Life  | Shows that focus on the day-to-day lives of fictional characters, offering chill experiences. Example: [Nichijou](https://anilist.co/anime/10165/Nichijou) |
+| Wuxia         | Literally means “Martial Heroes”. Fictional stories about humans with supernatural fighting ability. Themes of chivalry, tragedy, revenge & romance are common. |
 
 
 ## Terms
 
-| Terms     | Meaning  |
+| Terms     | Meaning { class="compact" }  |
 | ------  | ------ |
 | Ahoge    | Literally 'Stupid Hair'. refers to a strand of hair that springs upwards from the character's head.  Example: [Izumi Konata](https://anidb.net/character/2999)  |
 | Baka  |   Stupid.  |
 | Chibi  |  Literally "Small/Short". In real life it can be insulting but in anime it's used for cutesy style. Example: [Doma Umaru](https://anidb.net/character/75170)  |
 | Chuunibyou  |   *It's not possible to make a justified explanation without oversimplifying things. So, read [this post](https://rentry.org/whatisChuunibyou) instead.*  |
-| Doujinka/Doujinshika | Doujinka is the creator of doujinshi and is a member of a doujin circle. |
+| Doujinka / Doujinshika | Doujinka is the creator of doujinshi and is a member of a doujin circle. |
 | Doujinshi | Doujinshi refers to self-published works, which can be original creations or fan fictions, such as manga, novels, artworks, music, and games. |
 | Ecchi | Lewd. |
 | Fujoshi  | 'Rotten Girl'. Refers to a girl that fantasizes about guys being in a relationship with other guys, shipping male characters with other male characters in manga and anime.   |
@@ -83,7 +70,7 @@ Literally means “Martial Heroes”. Fictional stories about regular humans who
 | Nakama  |  Literally "Comrade". Popularized by the series 'One Piece', it is nowadays used for a group of people who are closer than family.   |
 | Oshi | One's favourite idol. The fan himself is known as **gachikoi**. It's generally used when the affection is on a serious level.|
 | Seiso | *"Seiso" (清楚) refers to a particular aesthetic of purity and cleanliness that is often emphasized in the presentation of female idols. This can involve elements such as modest clothing, subtle makeup, and a generally wholesome image.* |
-| Senpai/Sempai  |   Senior. Can be in a workplace or school.  |
+| Senpai / Sempai  |   Senior. Can be in a workplace or school.  |
 | Sensei  |  Generally Teacher. But this can also be used to address someone  who is a respected professional or very senior in the position.   |
 | Shikishi | It is a high-quality art board mainly used for calligraphy and painting. Due to its exceptional quality, it is often utilized for collecting autographs featuring both simple and highly detailed artwork. Additionally, it is sometimes used as a promotional material for the show. [Examples of shikishi](https://www.reddit.com/r/Shikishi/). |
 | Shota  |  Young or young-looking boy in anime and manga.  |
@@ -95,7 +82,7 @@ Literally means “Martial Heroes”. Fictional stories about regular humans who
 
 ## Common Honorifics 
 
-| Terms     | Meaning  |
+| Terms     | Meaning { class="compact" }  |
 | ------  | ------ |
 |  -san  |   It is used after a person's name to show respect. It is equivalent to 'Mr.', 'Mrs.', or 'Miss' in English.   |
 |  -kun  |   Used most often when referring to boys, this indicates affection or familiarity. Although it may occasionally be used by older men within their social circle, it can also be employed by anyone in reference to someone of lower status.   |
@@ -113,7 +100,7 @@ Literally means “Martial Heroes”. Fictional stories about regular humans who
 | Terms     | Meaning { class="compact" } |
 | ------  | ------ |
 | Doujinshi | Doujinshi refers to **self-published works**, which can be **original creations or fan fictions**, such as manga, novels, artworks, music, and games. |
-| Doujinka/Doujinshika | Doujinka is **the creator** of doujinshi and is a member of a doujin circle. |
+| Doujinka / Doujinshika | Doujinka is **the creator** of doujinshi and is a member of a doujin circle. |
 | Doujin | 'Doujin' refers to **a group** of people who share a common interest. |
 | Circle | The term 'circle' refers to the group that **releases doujinshi**, the circle may consist a group of people or a single individual. |
 
@@ -122,7 +109,7 @@ Literally means “Martial Heroes”. Fictional stories about regular humans who
 
 "Kemonomimi" means "animal ears." They are human-like characters who possess animal features such as ears, tails etc. Example: [Tokai Teiou from Uma Musume](https://anidb.net/character/94007)
 
-| Types    |   Meaning  |
+| Types    |   Meaning { class="compact" }  |
 | :---: | :---: |
 |  Inumimi   | Dog ears |
 |  Kitsunemimi | Fox ears |
