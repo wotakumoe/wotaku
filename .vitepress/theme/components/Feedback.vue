@@ -57,7 +57,10 @@ async function handleSubmit(type?: FeedbackType["type"]) {
           </div>
         </div>
         <div class="button-container">
-          <button v-for="item in feedbackOptions" :key="item.value" class="btn"
+          <button
+            v-for="item in feedbackOptions"
+            :key="item.value"
+            class="btn"
             @click="handleSubmit(item.value as FeedbackType['type'])">
             <span>{{ item.label }}</span>
           </button>
@@ -74,8 +77,11 @@ async function handleSubmit(type?: FeedbackType["type"]) {
           </div>
         </div>
         <textarea v-model="feedback.message" autofocus class="input" />
-        <button type="submit" class="btn btn-primary"
-          :disabled="feedback.message.length < 5 || feedback.message.length > 1000" @click="handleSubmit()">
+        <button
+          type="submit"
+          class="btn btn-primary"
+          :disabled="feedback.message.length < 5 || feedback.message.length > 1000"
+          @click="handleSubmit()">
           Submit
         </button>
       </div>
@@ -87,7 +93,7 @@ async function handleSubmit(type?: FeedbackType["type"]) {
 </template>
 
 <style scoped>
-.step>*+* {
+.step > * + * {
   margin-top: 1rem;
 }
 

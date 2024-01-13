@@ -1,4 +1,4 @@
-import { defineConfig } from "vitepress";
+import { defineConfig, type MarkdownRenderer } from "vitepress";
 import { fileURLToPath, URL } from "node:url";
 import { figure } from "@mdit/plugin-figure";
 import { imgLazyload } from "@mdit/plugin-img-lazyload";
@@ -11,6 +11,48 @@ import { withPwa } from "@vite-pwa/vitepress";
 import fg from "fast-glob";
 import { resolve } from "node:path";
 import { FileSystemIconLoader } from "@iconify/utils/lib/loader/node-loaders";
+import { icons } from "@iconify-json/octicon";
+
+const defs = Object.fromEntries(
+  Object.entries(icons.icons).map(([key]) => {
+    return [key, ""];
+  }),
+);
+
+const shortcuts = Object.fromEntries(
+  Object.entries(icons.aliases || {}).map(([key, value]) => {
+    return [key, value.parent];
+  }),
+);
+
+function emojiRender(md: MarkdownRenderer) {
+  md.renderer.rules.emoji = (token, idx) => {
+    return `<span class="i-octicon-${token[idx].markup}"></span>`;
+  };
+}
+
+function movePlugin(
+  plugins: { name: string }[],
+  pluginAName: string,
+  order: "before" | "after",
+  pluginBName: string,
+) {
+  const pluginBIndex = plugins.findIndex((p) => p.name === pluginBName);
+  if (pluginBIndex === -1) return;
+
+  const pluginAIndex = plugins.findIndex((p) => p.name === pluginAName);
+  if (pluginAIndex === -1) return;
+
+  if (order === "before" && pluginAIndex > pluginBIndex) {
+    const pluginA = plugins.splice(pluginAIndex, 1)[0];
+    plugins.splice(pluginBIndex, 0, pluginA);
+  }
+
+  if (order === "after" && pluginAIndex < pluginBIndex) {
+    const pluginA = plugins.splice(pluginAIndex, 1)[0];
+    plugins.splice(pluginBIndex, 0, pluginA);
+  }
+}
 
 const hostname: string = "https://wotaku.moe";
 export const githubSourceContentRegex = new RegExp(
@@ -55,9 +97,11 @@ export default withPwa(
       generateImages(context);
     },
     markdown: {
+      emoji: { defs, shortcuts },
       config(md) {
-        md.use(align);
+        md.use(emojiRender);
         md.use(imgLazyload);
+        md.use(align);
         md.use(figure);
         md.use(tabsMarkdownPlugin);
       },
@@ -73,11 +117,20 @@ export default withPwa(
               collections: {
                 custom: FileSystemIconLoader(resolve(__dirname, "../public/custom")),
               },
-              extraProperties: {},
+              extraProperties: {
+                display: "inline-block",
+                "vertical-align": "middle",
+              },
               scale: 1.2,
             }),
           ],
         }),
+        {
+          name: "custom:adjust-order",
+          configResolved(c) {
+            movePlugin(c.plugins as any, "vitepress", "before", "unocss:transformers:pre");
+          },
+        },
       ],
       resolve: {
         alias: [
