@@ -12,13 +12,13 @@ Otaku resources for other languages/regions.
 :::tabs
 
 == Anime
-- [**Aniwave**](https://aniwave.to/home) <Badge text="formerly 9anime"/>
+- [Aniwave](https://aniwave.to/home)
 - [Kickassanime](https://kaas.am/)
-- [Aniwatch](https://aniwatch.to/home) <Badge text="formerly Zoro" />
+- [Aniwatch](https://aniwatch.to/home)
 
 == Manga
 - [Mangadex](https://mangadex.org/)
-- [Comick](https://comick.app/home)
+- [Comick](https://comick.cc/home)
 - [Batoto](https://battwo.com/v3x)
 - [Nine Manga](https://www.ninemanga.com/)
 - [Novel Cool](https://novelcool.com/)
@@ -55,7 +55,7 @@ Otaku resources for other languages/regions.
 :::tabs
 
 == Anime
-- [Anime Balkan](https://animebalkan.org/) | [.gg](https://animebalkan.gg/)
+- [Anime Balkan](https://animebalkan.org/) <Badge type="tip" text="2" link="https://animebalkan.gg/" />
 - [Anime Srbija](https://www.animesrbija.com/)
 
 == Mnaga
@@ -100,7 +100,7 @@ Otaku resources for other languages/regions.
 
 - [Manhua Gui](https://www.manhuagui.com/)
 - [8Comic](https://www.comicabc.com/)
-- [Baozimh](https://www.baozimh.com/) | [Kukuc](https://www.kukuc.co/) | [Webmota](https://www.webmota.com/)
+- [Baozimh](https://www.baozimh.com/) <Badge type="tip" text="2" link="https://www.kukuc.co/" /><Badge type="tip" text="3" link="https://www.webmota.com/" />
 - [Qumanku](http://www.sumanku.com/)
 
 == Others
@@ -189,7 +189,7 @@ Otaku resources for other languages/regions.
 ## Greek
 
 ### Anime
-- [An1me](https://an1me.to/) (Adblock filter `an1me.to##+js(acis, Math)`)
+- [An1me](https://an1me.to/) <tooltip>Adblock filter `an1me.to##+js(acis, Math)`</tooltip>
 
 
 ## Indian
@@ -266,7 +266,7 @@ Otaku resources for other languages/regions.
 - [Mangaraw+](https://mangarawplus.co/)
 - [Raw Kuma](https://rawkuma.com/) <Badge type="danger" text="18+" />
 - [Sen Manga](https://raw.senmanga.com/) <Badge type="danger" text="18+" />
-- [We Love Manga](https://welovemanga.one/) | [Manga 1000](https://manga1000.top/) <Badge type="danger" text="18+" />
+- [We Love Manga](https://welovemanga.one/) <Badge type="tip" text="2" link="https://manga1000.top/" /> <Badge type="danger" text="18+" />
 
 ### Direct Download
 - [A-Z Manga](https://www.a-zmanga.net/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
@@ -274,13 +274,12 @@ Otaku resources for other languages/regions.
 - [Book Share Zip](https://bszip.com/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
 - [Comic 77](https://comic77.com/) <Badge type="danger" text="18+" />
 - [Comics 888](https://comics888.com/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [DL Raw net](https://dlraw.net/category/raw-manga/) [Manga Zip](https://manga-zip.info/category/raw-manga/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
+- [DL Raw net](https://dlraw.net/category/raw-manga/) <Badge type="tip" text="2" link="https://manga-zip.info/category/raw-manga/" /> <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
 - [DL Zip](https://dl-zip.com/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
 - [Itazura Neko](https://djtguide.github.io/library/manga/subete) <Badge type="info" text="Novel" />
 - [JP DDL](https://jpddl.com/manga) <Badge type="danger" text="18+" />
 - [Manga Zone](http://www.manga-zone.org/) <Badge type="info" text="Novel" />
 - [Raw Cans](http://raw-cans.net/) <Badge type="danger" text="18+" /><Badge type="info" text="Magazine" />
-
 
 == Others
 ### Community
@@ -405,7 +404,7 @@ Otaku resources for other languages/regions.
 == Anime
 
 - [Animeblix](https://animeblix.com/)
-- [AnimeFLV](https://animeflv.io/) | [.net](https://www3.animeflv.net/)
+- [AnimeFLV](https://animeflv.io/) <Badge type="tip" text="2" link="https://www3.animeflv.net/" />
 - [JKAnime](https://jkanime.net/)
 - [Mundo Donghua](https://www.mundodonghua.com/)
 - [OtakusTV](https://www1.otakustv.com/)
