@@ -453,7 +453,6 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - idol <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/idol_corp" /><Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/idolcorp" />
 - PRISM <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/PRISMproj" /><Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/prismworld" />
 - EIEN Project <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/EIENproj" /><Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/eienproject" />
-- KAWA Entertainment <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/kawa_entertain" /><Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.com/invite/kawa-entertainment" />
 
 == Games
 
