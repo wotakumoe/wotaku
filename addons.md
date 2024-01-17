@@ -115,17 +115,37 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 == Anime
 
 ### Hosting
-- Arr <Badge type="tip" text="Radarr" link="https://radarr.video/" /><Badge type="tip" text="Sonarr" link="https://sonarr.tv/" /><Badge type="tip" text="Prowlarr" link="https://prowlarr.com/" /><Badge type="tip" text="Overseerr" link="https://overseerr.dev/" /><Badge type="tip" text="Guide" link="https://wiki.servarr.com/" />
+
 - [Emby](https://emby.media/)
 - [Jellyfin](https://jellyfin.org/)
 - [Plex](https://www.plex.tv/) <Badge type="tip" text="Anisync" link="https://github.com/RickDB/PlexAniSync" /><Badge type="tip" text="Mappings" link="https://github.com/mizz141/PlexAniSync-Mappings" />
 - [Shoko Anime](https://shokoanime.com/) <Badge type="tip" text="Shokofin" link="https://github.com/ShokoAnime/Shokofin" />
+
 
 ### Tools
 - [Anicon](https://github.com/notdedsec/anicon)  <Badge type="info" text="Anilist" link="https://github.com/EnArvy/AniconforAnilist"/>
 - [Anitomy](https://github.com/erengy/anitomy)
 - [Koneko](https://github.com/irevenko/koneko)
 - [Sushi.net](https://github.com/maxpiva/Sushi.Net)
+
+:::details Arr tools
+### Media Automation
+- [Radarr](https://radarr.video/) <Badge text="Movies" />
+- [Sonarr](https://sonarr.tv/) <Badge text="TV Series" />
+
+### Tools
+- [Overseerr](https://overseerr.dev/)
+- [Prowlarr](https://prowlarr.com/)
+- [Ombi](https://ombi.io/)
+- [Tdarr](https://home.tdarr.io/)
+- [Bazarr](https://www.bazarr.media/)
+- [Sonarr/Radarr/Lidarr autosearch](https://chromewebstore.google.com/detail/jmmjjcddjldjdjgckdiokhfokccdnekc)
+- [Doplarr](https://github.com/kiranshila/Doplarr)
+- [requestrr](https://github.com/thomst08/requestrr)
+
+### Guides
+- [Servarr Wiki](https://wiki.servarr.com/)
+- [TRaSH Guides](https://trash-guides.info/)
 
 == Manga
 
