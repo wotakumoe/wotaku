@@ -177,7 +177,6 @@ export default withPwa(
         { text: "🔞 NSFW", link: "/nsfw" },
         { text: "🗾 Everything Japan", link: "/jp" },
         { text: "📦 Merch", link: "/merch" },
-        { text: "🗣️ Communities", link: "/comms" },
         { text: "📃 Scanlation", link: "/scanlation" },
         {
           text: "📖 Glossary",
@@ -205,6 +204,7 @@ export default withPwa(
           ],
         },
         { text: "⚗️ Brewing", link: "/brewing" },
+        { text: "🗣️ Communities", link: "/comms" },
         { text: "💖 Credits", link: "/credits" },
       ],
       nav: [
@@ -220,9 +220,9 @@ export default withPwa(
             { text: "🔞 NSFW", link: "/nsfw" },
             { text: "🗾 Everything Japan", link: "/jp" },
             { text: "📦 Merch", link: "/merch" },
-            { text: "🗣️ Communities", link: "/comms" },
             { text: "📃 Scanlation", link: "/scanlation" },
             { text: "⚗️ Brewing", link: "/brewing" },
+            { text: "🗣️ Communities", link: "/comms" },
           ],
         },
         {
