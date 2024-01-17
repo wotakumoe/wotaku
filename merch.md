@@ -69,6 +69,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [Gunpla Wiki r/Gunpla](https://www.reddit.com/r/Gunpla/wiki/)
 - [Meramifan's guide to support doujin artists/circles](https://meramifan.wordpress.com/guide/)
 - [Music Stuff from Japan by Dimsim](https://www.reddit.com/r/japanesemusic/comments/dagaj8/how_to_buy_music_stuff_from_japan_a_guide/)
+- [Solaris Japan](https://www.youtube.com/@Solaris_Japan)
 
 ## Info
 - [Buyfrag Store Digest](https://docs.google.com/document/u/0/d/1W4fAKQzCOhiWK6mJ_tvkZHIfzfzBZN57oGSaVB47TCQ/pub)
