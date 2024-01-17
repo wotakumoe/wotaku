@@ -7,9 +7,9 @@ function toggleTooltip() {
   show.value = !show.value;
 }
 
-withDefaults(defineProps<{ icon: string}>(), {
-  icon: "i-mdi-information-slab-circle-outline"
-})
+withDefaults(defineProps<{ icon: string }>(), {
+  icon: "i-mdi-information-slab-circle-outline",
+});
 </script>
 
 <template>
