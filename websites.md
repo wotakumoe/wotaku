@@ -358,7 +358,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [TMLC](https://tlmc.pf-n.co/tlmc)
 
 ### Download
-- [MikuDB](https://mikudb.moe/) <Badge type="info" text="GDrive" />
+- [MikuDB](https://mikudb.moe/) <Badge type="info" text="GDrive" /><Badge text="Torrent" />
 - [Touhou Disc](https://alist.thdisc.tk)
 - [Doujin Cafe](https://discord.com/invite/doujincafe)
 - [Doujin Music](https://vk.com/wall-60027733)
