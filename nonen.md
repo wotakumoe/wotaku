@@ -197,17 +197,21 @@ Otaku resources for other languages/regions.
 ### Anime
 
 - **Stream**
-    - [Dead Toons](https://www.deadtoons.co/)
-    - [PureToons](https://puretoons.cc/)
     - [Animerulez](https://animerulz.in/home/)
     - [Animesaga](https://www.animesaga.in/)
-    - [ToonsHub](https://www.toonshub.xyz/)
+    - [Animeworld](https://anime-world.in/)
+    - [Dora Bash](https://doraemontheanime.com/)
     - [ToonStream](https://toonstream.in/)
 - **DDL**
+    - [1XAnime](https://www.1xanime.in/)
+    - [Anilot](https://anilot.in/)
     - [Anime Academy](https://animeacademy.in/)
+    - [ATOZ CARTOONIST](https://www.atozcartoonist.com/)
+    - [Puretoons](https://puretoons.in/)
+    - [Toonhub4u](https://toonhub4u.net/)
+    - [ToonsHub](https://www.toonshub.xyz/)
     - [Toonworld4all](https://toonworld4all.me/)
     - [Toonworld Tamil](https://toonworldtamil.com)
-
 
 ## Indonesian
 
