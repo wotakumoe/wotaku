@@ -343,6 +343,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Anime Music Quiz](https://animemusicquiz.com/)
 - [Apple Music Artwork Fetcher](https://artwork.thekvt.eu.org/)
 - [Cover Search Engine](https://covers.musichoarders.xyz/) 🦆
+- [Instafest](https://www.instafest.app/)
 - [Songle](https://songle.jp/) <Badge text="Vocaloid"/>
 - [Soundiiz](https://soundiiz.com/) <Badge text="Trasnfer"/>
 - [TuneMyMusic](https://www.tunemymusic.com/) <Badge text="Trasnfer"/>
@@ -351,9 +352,12 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Album Availability on Spotify](https://kaaes.github.io/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/kaaes/albums-availability" />
 - [Check Track Availability](https://spotify-check-track-availability.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/wcelery/spotify-check-track-availability" />
 - [Chosic](https://www.chosic.com/) 🦆
+- [Discover Quickly](https://discoverquickly.com/)
 - [Skiley](https://skiley.net/) 🦆
 - [Spotify Dedup](https://spotify-dedup.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/JMPerez/spotify-dedup/" />
 - [Spotify Release List](https://spotifyreleaselist.netlify.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/jakubito/spotify-release-list" />
+- [Stats for Spotify](https://www.statsforspotify.com/)
+- [Volt.fm](https://volt.fm/) 🦆
 
 ### Last.fm
 - [Last.fm stats](https://lastfmstats.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/felhag/lastfm-stats-web" />

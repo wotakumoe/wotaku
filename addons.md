@@ -88,6 +88,7 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 - [Kitsune](https://github.com/Drumber/Kitsune) <Badge type="info" text="Kitsu" />
 - [OpenComicVine](https://github.com/proninyaroslav/OpenComicVine) <Badge type="info" text="ComicVine" />
 - [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) <Badge type="info" text="Last.fm" />
+- [Stats.fm](https://stats.fm/) <Badge text="Spotify" />
 - [Marvis Pro](https://apps.apple.com/au/app/marvis-pro/id1447768809) <Badge type="info" text="iOS" />
 
 == Others
