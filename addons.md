@@ -199,7 +199,7 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 ### Local
 - [IINA](https://iina.io/) <Badge type="info" text="MacOS" />
 - [MPC-HC](https://github.com/clsid2/mpc-hc) <Badge type="info" text="Codec guide" link="https://codecguide.com/media_player_classic.htm"/><Badge type="tip" text="Guide" link="https://kokomins.wordpress.com/2021/03/27/mpc-hc-and-madvr-setup-guide/" />
-- [mpv](https://mpv.io/) <Badge type="info" text="mpv.net" link="https://github.com/mpvnet-player/mpv.net"/>
+- [mpv](https://mpv.io/) <Badge type="info" text="mpv.net" link="https://github.com/mpvnet-player/mpv.net"/> 🦆
 - [K-Lite Codec Pack](https://codecguide.com/download_kl.htm)
 
 ### Online
