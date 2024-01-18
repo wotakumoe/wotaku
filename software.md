@@ -44,12 +44,15 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
 
 == Manga
 
-- [**Mihon**](https://github.com/mihonapp/mihon) <Badge type="tip" text="Ext" link="https://keiyoushi.github.io/extensions/" /><Badge type="tip" text="SY" link="https://github.com/jobobby04/TachiyomiSY" /><Badge type="tip" text="Yokai" link="https://github.com/null2264/yokai" />
+- [**Mihon**](https://github.com/mihonapp/mihon) <Badge type="tip" text="Extensions" link="https://keiyoushi.github.io/extensions/" /><Badge type="tip" text="SY" link="https://github.com/jobobby04/TachiyomiSY" /><Badge type="tip" text="Yokai" link="https://github.com/null2264/yokai" />
   - Great Customizable UI
   - Ton of manga sources
   - Download and local reader support
   - Tracking & sync support
   - High cache consumption
+
+<Button link="https://keiyoushi.github.io/extensions/" icon="i-fxemoji-lightbulb">By default, Mihon or other tachiyomi forks won't have any extensions. You have to sideload them</Button>
+
 - [**Perfect Viewer**](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) <Badge type="info" text="Local" />
   - The reader itself is really good with a lot of filters
   - Has plugin support for the cloud services but not for manga websites
