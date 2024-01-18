@@ -17,7 +17,6 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
 
 - [**Aniyomi**](https://github.com/aniyomiorg/aniyomi) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://aniyomi.org/" /><Badge type="info" text="Preview" link="https://github.com/aniyomiorg/aniyomi-preview/releases/latest" /><Badge type="tip" text="Animiru" link="https://github.com/Quickdesh/Animiru" />
   - Unofficial Tachiyomi fork for anime
-  - ⚠️ Use preview version for better experience (& the stable version is quite outdated)
   - Clean and minimal design
   - Offers other types of media too including manga
   - Tracking support with enhanced type
@@ -45,7 +44,7 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
 
 == Manga
 
-- [**Tachiyomi**](https://github.com/tachiyomiorg/tachiyomi/) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://tachiyomi.org/" /><Badge type="info" icon="i-octicon-repo-forked" text="Forks" link="https://tachiyomi.org/forks/" />
+- [**Mihon**](https://github.com/mihonapp/mihon) <Badge type="tip" text="Ext" link="https://keiyoushi.github.io/extensions/" /><Badge type="tip" text="SY" link="https://github.com/jobobby04/TachiyomiSY" /><Badge type="tip" text="Yokai" link="https://github.com/null2264/yokai" />
   - Great Customizable UI
   - Ton of manga sources
   - Download and local reader support

@@ -43,7 +43,7 @@ The basic things to get you started.
 
 == Android
 
-- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/) <Badge icon="i-octicon-globe" text="Web" link="https://tachiyomi.org/"/> <Badge icon="i-octicon-repo-forked" text="Forks" link="https://tachiyomi.org/forks/" /> <Badge text="Manga" />
+- [Mihon](https://github.com/mihonapp/mihon) <Badge type="tip" text="Ext" link="https://keiyoushi.github.io/extensions/" /><Badge type="tip" text="SY" link="https://github.com/jobobby04/TachiyomiSY" /><Badge type="tip" text="Yokai" link="https://github.com/null2264/yokai" />
 - [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta) <Badge text="Anime" /> <Badge text="Manga" />
 - [Quicknovel](https://github.com/LagradOst/QuickNovel) <Badge text="LN" />
 
