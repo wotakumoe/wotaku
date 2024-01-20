@@ -487,6 +487,11 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - Pricing: ~100€ per Year for Indie License, ~60€ 3 Years Student Indie License
     - Free 42 days trial after that limited free version
     - Tutorials out there on YouTube, you still will have to invest a massive amount of time
+  [**Inochi2D**](https://inochi2d.com/) <Badge type="tip" text="Docs" link="https://docs.inochi2d.com/" /><Badge type="tip" text="Github" link="https://github.com/Inochi2D" />
+    - Open Source and free alternative to Live2D
+    - similar functionality and structure
+    - split into Inochi Creator (used to create rigs) and Inochi Session (to use Inochi2D models for VTubing)
+    - see [advantages over Live2D](https://docs.inochi2d.com/en/latest/inochi2d/faq.html#what-advantages-does-inochi2d-have-over-live2d)
 - [**VTubeStudio**](https://denchisoft.com/) <Badge type="tip" text="Steam" link="https://store.steampowered.com/app/1325860/VTube_Studio/" />
     - Converts tracking input into model movement, needed if you want to bring your model to "life"
     - Free with a paid version which removes a small watermark, it costs 12,50€ (one-time)
@@ -528,7 +533,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
         - [Standard Componen](https://www.youtube.com/playlist?list=PL3sGye8NKCQ-DHy01xNkRLSKlzZ5VPL6z)
         - [Advanced Componen](https://www.youtube.com/playlist?list=PL3sGye8NKCQ-pJ2EcUCFVK53JxntA9FLU)
 - **3D**
-    - [VanillaLog] [The art of making 3D vtuber models (for dummies)](https://www.youtube.com/watch?v=eFkwu7p1LhU)
+    - [VanillaLog](https://www.youtube.com/@TheVanillaLog) [The art of making 3D vtuber models (for dummies)](https://www.youtube.com/watch?v=eFkwu7p1LhU)
         - [Blender tutorials for 3D Vtuber Making](https://docs.google.com/document/d/1GIfrXKHr2ndUh10DVIoS4lRw99misyzHZfo0fnwK8uk/edit)
 
 == Others
