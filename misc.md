@@ -487,7 +487,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - Pricing: ~100€ per Year for Indie License, ~60€ 3 Years Student Indie License
     - Free 42 days trial after that limited free version
     - Tutorials out there on YouTube, you still will have to invest a massive amount of time
-  [**Inochi2D**](https://inochi2d.com/) <Badge type="tip" text="Docs" link="https://docs.inochi2d.com/" /><Badge type="tip" text="Github" link="https://github.com/Inochi2D" />
+- [**Inochi2D**](https://inochi2d.com/) <Badge type="tip" text="Docs" link="https://docs.inochi2d.com/" /><Badge type="tip" text="Github" link="https://github.com/Inochi2D" />
     - Open Source and free alternative to Live2D
     - similar functionality and structure
     - split into Inochi Creator (used to create rigs) and Inochi Session (to use Inochi2D models for VTubing)
