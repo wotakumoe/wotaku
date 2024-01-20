@@ -62,6 +62,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [The Blank](https://mangadex.org/group/d53b6ec6-bbbf-4fad-a254-2b7ddda84c2c/the-blank) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://theblank.net/" />
 - [Omega scans](https://mangadex.org/group/8295f3f9-7462-403b-8fc0-f93a6c245a5c/omegascans) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://omegascans.org/" />
 - [Constellar Scans](https://constellarcomic.com/)
+- [Lunar Scans](https://lunarscan.org/)
 - [Acera the great](https://mangadex.org/group/ea35447d-5035-485f-8eda-841bafc4b215/acerathegreat)
 - [Mangazuki](https://mangadex.org/group/4b11e95f-a9c2-417d-a179-d6a20255b68d/mangazuki)
 - [Shinsei Scans](https://mangadex.org/group/f6f2ab9e-4997-4401-80a2-3840ee8558a2/shinsei-scans)
