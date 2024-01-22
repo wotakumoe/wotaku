@@ -117,14 +117,18 @@ Otaku resources for other languages/regions.
 == Software
 
 ### Android
-- [AGETV](https://github.com/muedsa/AGETV) <Badge text="Stream" />
-- [Bangumi](https://github.com/czy0729/Bangumi) <Badge text="Apple" /><Badge text="Android" /><Badge text="Tracker" />
-- [Bangumi MX](http://bgmx.mysxl.cn/) <Badge text="Tracker" />
-- [Copy MangaX](https://github.com/CrowForKotlin/CopyMangaX) <Badge text="Manga" />
-- [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi) <Badge text="Tracker" />
-- [Mediabox](https://github.com/RyensX/MediaBox) <Badge text="Stream" />
-- [Miru](https://miru.js.org/) <Badge text="Stream" />  <Badge text="Manga" />
-- [Sakura Anime](https://github.com/670848654/SakuraAnime) <Badge text="Stream" />
+- **Anime**
+    - [AGETV](https://github.com/muedsa/AGETV)
+    - [Mediabox](https://github.com/RyensX/MediaBox)
+    - [Miru](https://miru.js.org/) <Badge text="Manga" /> 🦆
+    - [Sakura Anime](https://github.com/670848654/SakuraAnime)
+- **Manga**
+    - [Copy MangaX](https://github.com/CrowForKotlin/CopyMangaX)
+    - [Manga Reader](https://github.com/youniaogu/MangaReader)
+- **Tracker**
+    - [Bangumi](https://github.com/czy0729/Bangumi) <Badge text="Apple" /><Badge text="Android" />
+    - [Bangumi MX](http://bgmx.mysxl.cn/)
+    - [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi)
 
 ### PC
 - [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) <Badge text="Downloader" />
