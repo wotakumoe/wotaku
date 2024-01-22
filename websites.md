@@ -592,7 +592,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
   - [Tappytoon](https://www.tappytoon.com/en/comics/home)
   - [Webtoons](https://www.webtoons.com/en/)
 
-<Button link="/guides/digim.md" icon="i-fxemoji-lightbulb">Websites for volume releases are added here</Button>
+<Button link="/guides/digim" icon="i-fxemoji-lightbulb">Websites for volume releases are added here</Button>
 
 == Novel
 
