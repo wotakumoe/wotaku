@@ -366,6 +366,8 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Check Track Availability](https://spotify-check-track-availability.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/wcelery/spotify-check-track-availability" />
 - [Chosic](https://www.chosic.com/) 🦆
 - [Discover Quickly](https://discoverquickly.com/)
+- [Musicalyst](https://musicalyst.com/)
+- [Playlist Sorter](https://www.playlistsorter.com/)
 - [Skiley](https://skiley.net/) 🦆
 - [Spotify Dedup](https://spotify-dedup.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/JMPerez/spotify-dedup/" />
 - [Spotify Release List](https://spotifyreleaselist.netlify.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/jakubito/spotify-release-list" />
