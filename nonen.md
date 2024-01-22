@@ -25,7 +25,7 @@ Otaku resources for other languages/regions.
 
 == Others
 ### Apps
-- [Mihon](https://github.com/mihonapp/mihon) <Badge type="tip" text="Ext" link="https://keiyoushi.github.io/extensions/" /><Badge type="tip" text="SY" link="https://github.com/jobobby04/TachiyomiSY" /><Badge type="tip" text="Yokai" link="https://github.com/null2264/yokai" />
+- [Mihon](https://github.com/mihonapp/mihon) <Badge type="tip" text="Ext" link="https://keiyoushi.github.io/extensions/" /><Badge type="tip" text="J2K" link="https://github.com/Jays2Kings/tachiyomiJ2K" /><Badge type="tip" text="SY" link="https://github.com/jobobby04/TachiyomiSY" />
 - [Aniyomi](https://github.com/jmir1/aniyomi/) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://aniyomi.org/" /><Badge text="Anime" /><Badge type="info" text="Manga" />
 :::
 
