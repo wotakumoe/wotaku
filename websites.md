@@ -47,6 +47,9 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
   - Huge library with Watch Together feature
   - Re-encodes shows for smaller size with lower overall bitrate.
   - Softsubs may create issues in different scenarios, but can be beneficial for multi-language support
+- [**Animerulz**](https://animerulz.in/)
+  - Best site to watch Anime in Hindi, Telugu, Tamil for Free.
+  - Updates Every Day.
 - [**Animepahe**](https://animepahe.ru/) <Badge type="tip" text="2" link="https://animepahe.com/" /><Badge type="tip" text="3" link="https://animepahe.org" />
   - Uploads mini encoded files, useful if you want smaller files or have low bandwidth
   - Uploads **Blu-ray** and **DVD** versions if available
