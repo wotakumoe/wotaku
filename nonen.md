@@ -70,6 +70,13 @@ Otaku resources for other languages/regions.
 
 ## Chinese
 
+
+
+
+
+
+
+
 :::tabs
 
 == Anime
@@ -95,15 +102,19 @@ Otaku resources for other languages/regions.
 - [ACG](https://acg.rip/)
 - [ACGNX](https://share.acgnx.se/)
 
-
 == Manga
-
-- [Manhua Gui](https://www.manhuagui.com/)
+- [69xinshu](https://www.69xinshu.com/)
 - [8Comic](https://www.comicabc.com/)
-- [Baozimh](https://www.baozimh.com/) <Badge type="tip" text="2" link="https://www.kukuc.co/" /><Badge type="tip" text="3" link="https://www.webmota.com/" />
+- [Baozimh.com](https://www.baozimh.com/) <Badge type="tip" text="2" link="https://www.kukuc.co/" /><Badge type="tip" text="3" link="https://www.webmota.com/" />
+- [Baozimh.org](https://baozimh.org/)
+- [Colamanga](https://www.colamanga.com/)
+- [Godamanga](https://godamanga.site/)
+- [KanManhuala](https://www.kanmanhuala.cc/)
+- [Manhua Gui](https://www.manhuagui.com/)
 - [Qumanku](http://www.sumanku.com/)
+- [XManhua](https://xmanhua.com/)
 
-== Others
+== Software
 
 ### Android
 - [AGETV](https://github.com/muedsa/AGETV) <Badge text="Stream" />
@@ -121,12 +132,15 @@ Otaku resources for other languages/regions.
 - [Bilibili manga downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) <Badge text="Downloader" />
 - [JProxy](https://github.com/LuckyPuppy514/jproxy) <Badge text=" Downloader" />
 
+== Others
+
 ### Tracker
 - [Bangumi](https://bangumi.tv/)
 - [Anime Tracker List](https://github.com/DeSireFire/animeTrackerList)
 
 ### Script
 - [AniList Chinese](https://github.com/soruly/AniList-chinese)
+- [Bilibili Evolved](https://github.com/the1812/Bilibili-Evolved)
 - [Score comparison assistant](https://greasyfork.org/en/scripts/451809-%E8%AF%84%E5%88%86%E5%AF%B9%E6%AF%94%E5%8A%A9%E6%89%8B)
 
 ### Brewing
