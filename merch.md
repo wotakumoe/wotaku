@@ -61,6 +61,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 ## Guides 🦆
 - [A Complete Guide by BuyFag](https://www.buyfags.moe/Full_guide)
 - [Bootleg Figure Spotting Guide by Solaris](https://solarisjapan.com/blogs/news/ultimate-guide-bootlegs-fake-anime-figures)
+- [chastetiddy’s Arcade Sticks Guide](https://docs.google.com/document/d/1fYqVRt_99AGFv7k7oBuEsW5POb50PdTdT5qirqZLS6w/edit)
 - [Dakimakuras guide](https://daki.info/)
 - [Fumo Buying guide](https://fumo.website/)
 - [Garage Kit Guide by Muntoe](https://www.plumworkshop.com/gk-compendium/part-1-bg-supplies)
