@@ -119,7 +119,7 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 
 - [Emby](https://emby.media/)
 - [Jellyfin](https://jellyfin.org/)
-- [Plex](https://www.plex.tv/) <Badge type="tip" text="Anisync" link="https://github.com/RickDB/PlexAniSync" /><Badge type="tip" text="Mappings" link="https://github.com/mizz141/PlexAniSync-Mappings" />
+- [Plex](https://www.plex.tv/) <Badge type="tip" text="Anisync" link="https://github.com/RickDB/PlexAniSync" /><Badge type="tip" text="Maintainerr" link="https://github.com/jorenn92/Maintainerr" /><Badge type="tip" text="Mappings" link="https://github.com/mizz141/PlexAniSync-Mappings" />
 - [Shoko Anime](https://shokoanime.com/) <Badge type="tip" text="Shokofin" link="https://github.com/ShokoAnime/Shokofin" />
 
 
