@@ -189,6 +189,7 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
   - [Karaoke Mugen](https://mugen.karaokes.moe/en/)
 
 ### Tools
+- [Bitter](https://www.stillwellaudio.com/plugins/bitter/)
 - [dBpoweramp](https://www.dbpoweramp.com/) <Badge type="warning" text="Trialware" />
 - [fre:ac](https://www.freac.org/)
 - [MP3Tag](https://www.mp3tag.de/en/)
@@ -352,6 +353,10 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 
 == Others
 
+### Game
+- [CS RIN RU Enhanced](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external)
+- Game DL Links on <Badge type="tip" text="GOG" link="https://greasyfork.org/en/scripts/481134-gog-to-free-download-site" /> <Badge type="tip" text="Steam" link="https://greasyfork.org/en/scripts/481139-steam-to-free-download-site" />
+
 ### Music
 - [Ame](https://notabug.org/SuperSaltyGamer/ame/)
 - [MusicBrainz Userscripts](https://musicbrainz.org/doc/Guides/Userscripts)
@@ -359,7 +364,6 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 
 ### Misc
 - [Fandom Fixed](https://github.com/squabbled/FandomFixed)
-- Game DL Links on <Badge type="tip" text="GOG" link="https://greasyfork.org/en/scripts/481134-gog-to-free-download-site" /> <Badge type="tip" text="Steam" link="https://greasyfork.org/en/scripts/481139-steam-to-free-download-site" />
 
 :::
 
