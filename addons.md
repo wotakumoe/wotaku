@@ -340,13 +340,14 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 
 == Imageboars
 - [4chan X](https://github.com/ccd0/4chan-x)
+- [Handy Image](https://github.com/Owyn/HandyImage) <Badge type="tip" icon="i-custom-fork" text="Sleezy" link="https://sleazyfork.org/en/scripts/109-handy-image" />
+- [Max URL](https://github.com/qsniyg/maxurl)
+- [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE%2B)
 - Pixiv Downloader <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/432150-pixiv-downloader" />
 - [Pixiv Preview](https://github.com/NightLancer/PixivPreview) <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/39387-pixiv-arts-preview-followed-atrists-coloring-extended-history" />
 - [ppixiv for Pixiv](https://github.com/ppixiv/ppixiv) <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/370418-ppixiv-for-pixiv" />
-- [Max URL](https://github.com/qsniyg/maxurl)
-- [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE%2B)
-- [Handy Image](https://github.com/Owyn/HandyImage) <Badge type="tip" icon="i-custom-fork" text="Sleezy" link="https://sleazyfork.org/en/scripts/109-handy-image" />
 - [Sakuga Extended](https://github.com/ftLoic/Sakuga-Extended) <Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chromewebstore.google.com/detail/khmnmdaghmhkcbooicndamlhkcmpklmc" /><Badge type="tip" icon="i-logos-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/sakuga-extended/" />
+- [StyleChan](https://github.com/3nly/StyleChan)
 
 == Others
 
