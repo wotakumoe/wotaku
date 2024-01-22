@@ -198,7 +198,7 @@ Otaku resources for other languages/regions.
 
 - **Stream**
     - [Animerulez](https://animerulz.in/home/)
-    - [Animesaga](https://www.animesaga.in/)
+    - [Anplay](https://anplay.in/)
     - [Animeworld](https://anime-world.in/)
     - [Dora Bash](https://doraemontheanime.com/)
     - [ToonStream](https://toonstream.in/)
