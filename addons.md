@@ -299,6 +299,7 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 - [KellyC Image Downloader](https://github.com/NC22/KellyC-Image-Downloader) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://kellydownloader.com/en/" /><Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chrome.google.com/webstore/detail/kellyc-image-downloader/mbhkdmjolnhcppnkldbdfaomeabjiofm" /><Badge type="tip" icon="i-logos-firefox" text="Firefox" link="https://addons.mozilla.org/ru/firefox/addon/kellyc-favorites/" />
 - [MAL Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://hritikvaishnav.github.io/Project-Redesign/mal.html" /><Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chrome.google.com/webstore/detail/myanimelist-redesign/knegaeodgehajemjpfbhlgjdcloklkal" /><Badge type="tip" icon="i-logos-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/myanimelist-redesign/" />
 - [Pixiv Batch Downloader](https://github.com/xuejianxianzun/PixivBatchDownloader) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://pixiv.download/" /><Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chrome.google.com/webstore/detail/powerful-pixiv-downloader/dkndmhgdcmjdmkdonmbgjpijejdcilfh" />
+- [Sakuga Extended](https://github.com/ftLoic/Sakuga-Extended) <Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chromewebstore.google.com/detail/khmnmdaghmhkcbooicndamlhkcmpklmc" /><Badge type="tip" icon="i-logos-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/sakuga-extended/" />
 - [Search by Image](https://github.com/dessant/search-by-image) 🦆
 - [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler)
 
@@ -341,16 +342,22 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 - Mangadex Follows <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/430295-new-mangadex-follows" />
 - [Manga Online Viewer](https://github.com/TagoDR/MangaOnlineViewer)
 
-== Imageboars
-- [4chan X](https://github.com/ccd0/4chan-x)
-- [Handy Image](https://github.com/Owyn/HandyImage) <Badge type="tip" icon="i-custom-fork" text="Sleezy" link="https://sleazyfork.org/en/scripts/109-handy-image" />
-- [Max URL](https://github.com/qsniyg/maxurl)
+== Imageboards
+
+### Pixiv
 - [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE%2B)
 - Pixiv Downloader <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/432150-pixiv-downloader" />
 - [Pixiv Preview](https://github.com/NightLancer/PixivPreview) <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/39387-pixiv-arts-preview-followed-atrists-coloring-extended-history" />
 - [ppixiv for Pixiv](https://github.com/ppixiv/ppixiv) <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/370418-ppixiv-for-pixiv" />
-- [Sakuga Extended](https://github.com/ftLoic/Sakuga-Extended) <Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chromewebstore.google.com/detail/khmnmdaghmhkcbooicndamlhkcmpklmc" /><Badge type="tip" icon="i-logos-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/sakuga-extended/" />
+
+### 4Chan 
+- [4chan X](https://github.com/ccd0/4chan-x)
 - [StyleChan](https://github.com/3nly/StyleChan)
+- [Desu X](https://greasyfork.org/en/scripts/483282-desu-x-enhancement-script-for-desuarchive-org)
+
+### Others
+- [Handy Image](https://github.com/Owyn/HandyImage) <Badge type="tip" icon="i-custom-fork" text="Sleezy" link="https://sleazyfork.org/en/scripts/109-handy-image" />
+- [Max URL](https://github.com/qsniyg/maxurl)
 
 == Others
 
