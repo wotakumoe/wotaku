@@ -11,23 +11,28 @@ import { withPwa } from "@vite-pwa/vitepress";
 import fg from "fast-glob";
 import { resolve } from "node:path";
 import { FileSystemIconLoader } from "@iconify/utils/lib/loader/node-loaders";
-import { icons } from "@iconify-json/octicon";
+import { icons as octicon } from "@iconify-json/octicon";
+import { icons as twemoji } from "@iconify-json/twemoji";
 
-const defs = Object.fromEntries(
-  Object.entries(icons.icons).map(([key]) => {
-    return [key, ""];
-  }),
-);
-
-const shortcuts = Object.fromEntries(
-  Object.entries(icons.aliases || {}).map(([key, value]) => {
-    return [key, value.parent];
-  }),
-);
+const defs = {
+  ...Object.fromEntries(
+    Object.entries(octicon.icons).map(([key]) => {
+      return [`octicon-${key}`, ""];
+    }),
+  ),
+  ...Object.fromEntries(
+    Object.entries(twemoji.icons).map(([key]) => {
+      return [key, ""];
+    }),
+  ),
+};
 
 function emojiRender(md: MarkdownRenderer) {
-  md.renderer.rules.emoji = (token, idx) => {
-    return `<span class="i-octicon-${token[idx].markup}"></span>`;
+  md.renderer.rules.emoji = (tokens, idx) => {
+    if (tokens[idx].markup.startsWith("octicon-")) {
+      return `<span class="i-${tokens[idx].markup}"></span>`;
+    }
+    return `<span class="i-twemoji-${tokens[idx].markup}"></span>`;
   };
 }
 
@@ -97,7 +102,7 @@ export default withPwa(
       generateImages(context);
     },
     markdown: {
-      emoji: { defs, shortcuts },
+      emoji: { defs },
       config(md) {
         md.use(emojiRender);
         md.use(imgLazyload);
@@ -107,6 +112,7 @@ export default withPwa(
       },
     },
     vite: {
+      optimizeDeps: { exclude: ["workbox-window"] },
       plugins: [
         UnoCSS({
           presets: [
