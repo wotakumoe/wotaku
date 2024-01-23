@@ -240,6 +240,7 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
   - [IDM](https://www.internetdownloadmanager.com/) <Badge text="Activator" link="https://massgrave.dev/idm-activation-script.html" />
   - [JDL](https://jdownloader.org/) <Badge text="Debloat" link="https://rentry.org/jdownloader2" />
   - [XDM](https://xtremedownloadmanager.com/)
+  - [MegaBasterd](https://github.com/tonikelope/megabasterd) <Badge type="tip" text="Account gen" link="https://github.com/qtchaos/py_mega_account_generator" /><Badge type="tip" text="MegaDoctor" link="https://github.com/tonikelope/megadoctor" />
   - [yt-dlp](https://github.com/yt-dlp/yt-dlp) <Badge type="info" text="GUI" link="https://github.com/kannagi0303/yt-dlp-gui" /><Badge type="info" text="GUI Installer" link="https://github.com/kazukikasama/youtube-dlp-gui-installer" /> 🦆
 - **Torrent**
   - [qBittorrent](https://www.qbittorrent.org/)
