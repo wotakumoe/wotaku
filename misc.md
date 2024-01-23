@@ -186,8 +186,13 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 :::
 
 ### Others
-- [GACHAREVENUE](https://www.gacharevenue.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/zigamacele/gacharevenue" />
-- [FanCons](https://fancons.com/) <Badge type="tip" text="2" link="https://animecons.com/" />
+- **Games**
+    - [Deku Deals](https://www.dekudeals.com/)
+    - [GACHAREVENUE](https://www.gacharevenue.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/zigamacele/gacharevenue" />
+    - [GG.deals](https://gg.deals/)
+    - [psprices](https://psprices.com/)
+- **Misc**
+    - [FanCons](https://fancons.com/) <Badge type="tip" text="2" link="https://animecons.com/" />
 
 ![](/banner/illust.png)
 
@@ -196,7 +201,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 :::tabs
 
 == Platforms
-- [ArtStation](https://www.artstation.com/)
+- [ArtStation](https://www.artstation.com/) <Badge type="danger" text="18+" />
 - [DeviantArt](https://www.deviantart.com/) <Badge type="danger" text="18+" />
 - [Misskey.io](https://misskey.io/) <Badge type="tip" text="Others" link="https://misskey-hub.net/en/servers/" />
 - [Pixiv](https://www.pixiv.net) <Badge type="tip" text="Fanbox" link="https://www.fanbox.cc/" /><Badge type="danger" text="18+" />
