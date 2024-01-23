@@ -42,6 +42,7 @@
     "@iconify-json/mdi": "^1.1.55",
     "@iconify-json/octicon": "^1.1.52",
     "@iconify-json/simple-icons": "^1.1.76",
+    "@iconify-json/twemoji": "^1.1.15",
     "@iconify/utils": "^2.1.11",
     "@types/node": "^20.8.9",
     "prettier": "^3.2.1"
