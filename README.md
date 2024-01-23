@@ -36,8 +36,7 @@ You can submit any feedback in our [discord server](https://discord.gg/vShRGx8ZB
 <br/>
 
 > [!NOTE]  
-> Please note that I may choose not to add the site if it is redundant or if it does not meet my preferences.
-
+> I may choose not to add the site if it is redundant or if it does not meet my preferences.
 
 # Wotaku Star History
 
