@@ -387,6 +387,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [MAL/AL/K/AP lists XML Exporter](https://malscraper.azurewebsites.net/)
 - [Randime](https://randime.moe/)
 - [Trakt to MAL](https://anitrakt.huere.net/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/ryuuganime/aniTrakt-IndexParser" />
+- [uNoGS.com](https://unogs.com/)
 
 :::
 
@@ -409,6 +410,8 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [vtstats](https://vt.poi.cat/) <Badge type="info" text="Schedule" /><Badge text="Revenue"/> 🦆
 - [VSTATS](https://www.vstats.jp/)
 - [Userlocal Vtuber](https://virtual-youtuber.userlocal.jp/) <Badge type="info" text="Stream Rank" link="https://live-ranking.userlocal.jp/vtuber-ranking" /><Badge type="info" text="Schedule" />
+- [TwitchTracker](https://twitchtracker.com/)
+- [Streams Charts](https://streamscharts.com/)
 
 ### Schedule
 - [VTuber Schedule](https://vtuberschedules.com/)
