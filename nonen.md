@@ -215,6 +215,7 @@ Otaku resources for other languages/regions.
 ### Anime
 
 - **Stream**
+    - [Anime Fever](https://animefever.fun/)
     - [Animerulez](https://animerulz.in/home/)
     - [Anplay](https://anplay.in/)
     - [Animeworld](https://anime-world.in/)
