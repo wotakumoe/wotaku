@@ -1,4 +1,4 @@
-import { defineConfig, type MarkdownRenderer } from "vitepress";
+import { defineConfig } from "vitepress";
 import { fileURLToPath, URL } from "node:url";
 import { figure } from "@mdit/plugin-figure";
 import { imgLazyload } from "@mdit/plugin-img-lazyload";
@@ -11,62 +11,17 @@ import { withPwa } from "@vite-pwa/vitepress";
 import fg from "fast-glob";
 import { resolve } from "node:path";
 import { FileSystemIconLoader } from "@iconify/utils/lib/loader/node-loaders";
-import { icons as octicon } from "@iconify-json/octicon";
-import { icons as twemoji } from "@iconify-json/twemoji";
-
-const defs = {
-  ...Object.fromEntries(
-    Object.entries(octicon.icons).map(([key]) => {
-      return [`octicon-${key}`, ""];
-    }),
-  ),
-  ...Object.fromEntries(
-    Object.entries(twemoji.icons).map(([key]) => {
-      return [key, ""];
-    }),
-  ),
-};
-
-function emojiRender(md: MarkdownRenderer) {
-  md.renderer.rules.emoji = (tokens, idx) => {
-    if (tokens[idx].markup.startsWith("octicon-")) {
-      return `<span class="i-${tokens[idx].markup}"></span>`;
-    }
-    return `<span class="i-twemoji-${tokens[idx].markup}"></span>`;
-  };
-}
-
-function movePlugin(
-  plugins: { name: string }[],
-  pluginAName: string,
-  order: "before" | "after",
-  pluginBName: string,
-) {
-  const pluginBIndex = plugins.findIndex((p) => p.name === pluginBName);
-  if (pluginBIndex === -1) return;
-
-  const pluginAIndex = plugins.findIndex((p) => p.name === pluginAName);
-  if (pluginAIndex === -1) return;
-
-  if (order === "before" && pluginAIndex > pluginBIndex) {
-    const pluginA = plugins.splice(pluginAIndex, 1)[0];
-    plugins.splice(pluginBIndex, 0, pluginA);
-  }
-
-  if (order === "after" && pluginAIndex < pluginBIndex) {
-    const pluginA = plugins.splice(pluginAIndex, 1)[0];
-    plugins.splice(pluginBIndex, 0, pluginA);
-  }
-}
-
-const hostname: string = "https://wotaku.moe";
-export const githubSourceContentRegex = new RegExp(
-  "^https://(((raw|user-images|camo).githubusercontent.com))/.*",
-  "i",
-);
-export const googleFontRegex = new RegExp("^https://fonts.googleapis.com/.*", "i");
-export const googleStaticFontRegex = new RegExp("^https://fonts.gstatic.com/.*", "i");
-export const jsdelivrCDNRegex = new RegExp("^https://cdn.jsdelivr.net/.*", "i");
+import {
+  emojiRender,
+  defs,
+  movePlugin,
+  search,
+  hostname,
+  googleFontRegex,
+  googleStaticFontRegex,
+  githubSourceContentRegex,
+  jsdelivrCDNRegex,
+} from "./configs";
 
 // https://vitepress.dev/reference/site-config
 export default withPwa(
@@ -148,30 +103,7 @@ export default withPwa(
       },
     },
     themeConfig: {
-      search: {
-        options: {
-          miniSearch: {
-            searchOptions: {
-              combineWith: "AND",
-              fuzzy: false,
-              // @ts-ignore
-              boostDocument: (_, term, storedFields: Record<string, string | string[]>) => {
-                const titles = (storedFields?.titles as string[])
-                  .filter((t) => Boolean(t))
-                  .map((t) => t.toLowerCase());
-                // Uprate if term appears in titles. Add bonus for higher levels (i.e. lower index)
-                const titleIndex =
-                  titles.map((t, i) => (t?.includes(term) ? i : -1)).find((i) => i >= 0) ?? -1;
-                if (titleIndex >= 0) return 10000 - titleIndex;
-
-                return 1;
-              },
-            },
-          },
-          detailedView: true,
-        },
-        provider: "local",
-      },
+      search: search,
       logo: { src: "/asset/inaidle.webp", width: 29, height: 24 },
       sidebar: [
         { text: "⚡ Quick Start", link: "/qs" },
@@ -256,10 +188,7 @@ export default withPwa(
         },
         { text: "Updates", link: "https://github.com/anotherduckling/Wotaku/commits/main/" },
       ],
-      socialLinks: [
-        { icon: "github", link: "https://github.com/anotherduckling/Wotaku" },
-        { icon: "discord", link: "https://discord.gg/vShRGx8ZBC" },
-      ],
+      socialLinks: [],
     },
     pwa: {
       base: "/",
