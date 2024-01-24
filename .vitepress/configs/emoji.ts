@@ -1,6 +1,10 @@
-import { icons as octicon, type IconifyJSON } from "@iconify-json/octicon";
-import { icons as twemoji } from "@iconify-json/twemoji";
 import type { MarkdownRenderer } from "vitepress";
+import type { IconifyJSON } from "@iconify-json/octicon";
+
+// Icons that need to be used should be imported here
+import { icons as twemoji } from "@iconify-json/twemoji";
+import { icons as octicon } from "@iconify-json/octicon";
+import { icons as logos } from "@iconify-json/logos";
 
 // 1. Install emoji pack with `pnpm add -g @iconify-json/<icon>`
 // 2. Import them like I did above
@@ -10,6 +14,7 @@ const emojis: { pack: IconifyJSON; prefix?: string }[] = [
   { pack: twemoji },
   // octicon emojis, prefixed with "octicon-"
   { pack: octicon, prefix: "octicon-" },
+  { pack: logos, prefix: "logos-" },
 ];
 
 const defs: Record<string, string> = {};
