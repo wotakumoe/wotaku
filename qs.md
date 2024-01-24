@@ -73,7 +73,7 @@ The basic things to get you started.
 - [Adaway](https://adaway.org/) :mdi-android:
 - [RethinkDNS](https://rethinkdns.com/) :mdi-android::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [NexDNS](https://nextdns.io/) :mdi-android::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [uBlock Origin](https://ublockorigin.com/) :logos-firefox: :logos-chrome:
+- [uBlock Origin](https://ublockorigin.com/) :mdi-firefox::mingcute-chrome-fill:
 
 == Browsers
 

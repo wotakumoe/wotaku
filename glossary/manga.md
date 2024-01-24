@@ -209,7 +209,7 @@ The ripper of the manga. Sometimes, it can be more than one person too. Also, if
 It indicated this is a fixed version after the initial upload. If there are further fixes, it will be put as f2, f3 etc.
 
 ### PRE
-It indicates publishers has released the manga with issues. PRE2 means publishers have fixed some of those issues but not all of them.
+It indicates that a digital release has issues the publisher has yet to fix (like missing/duplicated pages). PRE2 means the publisher has fixed some of those issues, but not all of them.
 
 ### Format
 CBZ is the most common file format for manga. CBZ is just a Zip container. There are also CBR(RAR), CB7(7zip), PDF, ePub etc. The image files inside is generally jpeg and png.

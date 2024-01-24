@@ -9,6 +9,7 @@ import { icons as ic } from "@iconify-json/ic";
 import { icons as mingcute} from "@iconify-json/mingcute";
 import { icons as mdi} from "@iconify-json/mdi";
 import { icons as materials} from "@iconify-json/material-symbols";
+import { icons as simple} from "@iconify-json/simple-icons";
 
 // 1. Install emoji pack with `pnpm add -g @iconify-json/<icon>`
 // 2. Import them like I did above
@@ -23,6 +24,7 @@ const emojis: { pack: IconifyJSON; prefix?: string }[] = [
   {pack: mingcute, prefix: "mingcute-"},
   {pack: mdi, prefix: "mdi-"},
   {pack: materials, prefix: "ms-"},
+  {pack: simple, prefix: "simple-"},
 ];
 
 const defs: Record<string, string> = {};
