@@ -16,57 +16,57 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 == Essential
 
 ### Browser
-- [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
-- [Mull](https://github.com/Divested-Mobile/Mull-Fenix)
-- [Brave](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en&gl=US) <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
-- [Cromite](https://github.com/uazo/cromite)
+- [Firefox](https://www.mozilla.org/en-US/firefox/browsers/) :mdi-android::ic-baseline-apple:
+- [Mull](https://github.com/Divested-Mobile/Mull-Fenix) :mdi-android:
+- [Brave](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en&gl=US) :mdi-android::ic-baseline-apple:
+- [Cromite](https://github.com/uazo/cromite) :mdi-android:
 
 ### Ad blocker
 - **App**
-  - [Adguard](https://adguard.com/en/welcome.html) <Badge type="info" text="Android" /><Badge type="info" text="iOS" /> 🦆
-  - [Adaway](https://adaway.org/) 
-  - [RethinkDNS](https://rethinkdns.com/) <Badge type="info" text="Android" />
+  - [Adguard](https://adguard.com/en/welcome.html) :mdi-android::ic-baseline-apple: 🦆
+  - [Adaway](https://adaway.org/) :mdi-android:
+  - [RethinkDNS](https://rethinkdns.com/) :mdi-android:
 - **DNS**
-  - [NextDNS](https://nextdns.io/) <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
-  - [Adguard DNS](https://adguard-dns.io/en/welcome.html) <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
-  - [dnswarden](https://dnswarden.com/index.html)
-  - [AhaDNS](https://blitz-setup.ahadns.com/) <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
+  - [NextDNS](https://nextdns.io/) :mdi-android::ic-baseline-apple:
+  - [Adguard DNS](https://adguard-dns.io/en/welcome.html) :mdi-android::ic-baseline-apple:
+  - [dnswarden](https://dnswarden.com/index.html) :mdi-android::ic-baseline-apple:
+  - [AhaDNS](https://blitz-setup.ahadns.com/) :mdi-android::ic-baseline-apple:
 
 == Downloader
 
-- [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US)
-- [ADM](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US)
-- [iTorrent](https://github.com/XITRIX/iTorrent) <Badge type="info" text="iOS" />
-- [libretorrent](https://github.com/proninyaroslav/libretorrent)
-- [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa&hl=en&gl=US) <Badge type="info" text="Nyaa.si" />🦆
-- [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi)
+- [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) :mdi-android:
+- [ADM](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US) :mdi-android:
+- [iTorrent](https://github.com/XITRIX/iTorrent) :ic-baseline-apple:
+- [libretorrent](https://github.com/proninyaroslav/libretorrent) :mdi-android:
+- [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa&hl=en&gl=US) :mdi-android:<Badge type="info" text="Nyaa.si" />🦆
+- [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) :mdi-android:
 
 == Media
 
 ### Audio
 - **Local**
-  - [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player)
-  - [Poweramp](https://powerampapp.com/) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer&hl=en&gl=US" /> 🦆
-  - [Oto Music Player](https://play.google.com/store/apps/details?id=com.piyush.music)
+  - [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player) :mdi-android:
+  - [Poweramp](https://powerampapp.com/) :mdi-android:🦆
+  - [Oto Music Player](https://play.google.com/store/apps/details?id=com.piyush.music) :mdi-android:
 - **Online**
-  - [Audire](https://github.com/alexmercerind/audire) <Badge type="info" text="Identifier" />
-  - [Innertune](https://github.com/z-huang/InnerTune) <Badge type="info" text="Youtube Music" /> 🦆
-  - [xManager](https://www.xmanagerapp.com/) <Badge type="info" text="Android" /><Badge type="info" text="Spotify" />
-  - [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) <Badge type="info" text="iOS" /><Badge type="info" text="Spotify" />
-  - [Spotify++](https://appdb.to/app/cydia/1900000540) <Badge type="info" text="iOS" />
+  - [Audire](https://github.com/alexmercerind/audire) :mdi-android: <Badge type="info" text="Identifier" />
+  - [Innertune](https://github.com/z-huang/InnerTune) :ms-youtube-music:🦆
+  - [xManager](https://www.xmanagerapp.com/) :mdi-android::mdi-spotify:
+  - [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) :ic-baseline-apple::mdi-spotify:
+  - [Spotify++](https://appdb.to/app/cydia/1900000540) :ic-baseline-apple::mdi-spotify:
 
 ### Illustration
-- [Boorusphere](https://github.com/nullxception/boorusphere)
-- Pixiv <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=jp.pxv.android" />
-- [Wallflow](https://github.com/ammargitham/WallFlow)
-- [RWalls](https://github.com/meh430/RWalls)
-- Anime Boxes <Badge type="info" icon="i-octicon-globe" text="Web" link="https://www.animebox.es/" /> <Badge type="info" text="Android" /><Badge type="info" text="iOS" />
+- [Boorusphere](https://github.com/nullxception/boorusphere) :mdi-android:
+- Pixiv <Badge type="tip" icon="i-mdi-android" text="Android" link="https://play.google.com/store/apps/details?id=jp.pxv.android" />
+- [Wallflow](https://github.com/ammargitham/WallFlow) :mdi-android:
+- [RWalls](https://github.com/meh430/RWalls) :mdi-android:
+- Anime Boxes <Badge type="info" icon="i-octicon-globe" text="Web" link="https://www.animebox.es/" />:mdi-android::ic-baseline-apple:
 
 ### Video
 - **Local**
-  - [mpv-android](https://github.com/mpv-android/mpv-android) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=is.xyz.mpv&hl=en&gl=US" />
-  - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en&gl=US) <Badge type="tip" text="Mobilism" link="https://forum.mobilism.me/search.php?keywords=mx+player&sr=topics&sf=titleonly" />
-  - [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) <Badge type="info" text="iOS" />
+  - [mpv-android](https://github.com/mpv-android/mpv-android) <Badge type="tip" icon="i-mdi-android" text="Android" link="https://play.google.com/store/apps/details?id=is.xyz.mpv&hl=en&gl=US" />
+  - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en&gl=US) :mdi-android:<Badge type="tip" text="Mobilism" link="https://forum.mobilism.me/search.php?keywords=mx+player&sr=topics&sf=titleonly" />
+  - [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) :ic-baseline-apple:
 - **Online**
   - [Revanced](https://revanced.app/) <Badge type="tip" text="MicroG RE" link="https://github.com/WSTxda/MicroG-RE" />
   - [Libretube](https://libretube.dev/)
@@ -75,16 +75,16 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 == Tracker
 
 ### AniList
-- [AniHyou](https://github.com/axiel7/AniHyou-android) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.axiel7.anihyou" />
+- [AniHyou](https://github.com/axiel7/AniHyou-android) <Badge type="tip" icon="i-mdi-android" text="Android" link="https://play.google.com/store/apps/details?id=com.axiel7.anihyou" />
 - [Apps for AniList](https://AniList.co/apps)
 - [Kurumi](https://github.com/subrotokumar/kurumi)
 
 ### MyAnimeList
-- DailyAL <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.teen.dailyanimelist&hl=en&gl=US" />
+- DailyAL <Badge type="tip" icon="i-mdi-android" text="Android" link="https://play.google.com/store/apps/details?id=com.teen.dailyanimelist&hl=en&gl=US" />
 - [MoeList](https://github.com/axiel7/MoeList) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://moelist.net/" />
 
 ### Others
-- [Kitsu](https://github.com/hummingbird-me/kitsu-mobile) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.everfox.animetrackerandroid&hl=en&gl=US" /><Badge type="tip" icon="i-logos-apple-app-store" text="iOS" link="https://apps.apple.com/us/app/kitsu-anime/id590452826" /><Badge type="info" text="Kitsu" />
+- [Kitsu](https://github.com/hummingbird-me/kitsu-mobile) <Badge type="tip" icon="i-mdi-android" text="Android" link="https://play.google.com/store/apps/details?id=com.everfox.animetrackerandroid&hl=en&gl=US" /><Badge type="tip" icon="i-ic-baseline-apple" text="iOS" link="https://apps.apple.com/us/app/kitsu-anime/id590452826" /><Badge type="info" text="Kitsu" />
 - [Kitsune](https://github.com/Drumber/Kitsune) <Badge type="info" text="Kitsu" />
 - [OpenComicVine](https://github.com/proninyaroslav/OpenComicVine) <Badge type="info" text="ComicVine" />
 - [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) <Badge type="info" text="Last.fm" />
@@ -199,13 +199,13 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 == Video
 
 ### Local
-- [IINA](https://iina.io/) <Badge type="info" text="MacOS" />
-- [MPC-HC](https://github.com/clsid2/mpc-hc) <Badge type="info" text="Codec guide" link="https://codecguide.com/media_player_classic.htm"/><Badge type="tip" text="Guide" link="https://kokomins.wordpress.com/2021/03/27/mpc-hc-and-madvr-setup-guide/" />
-- [mpv](https://mpv.io/) <Badge type="info" text="mpv.net" link="https://github.com/mpvnet-player/mpv.net"/> 🦆
-- [K-Lite Codec Pack](https://codecguide.com/download_kl.htm)
+- [IINA](https://iina.io/) :ic-baseline-apple:
+- [MPC-HC](https://github.com/clsid2/mpc-hc) :ic-baseline-window:<Badge type="info" text="Codec guide" link="https://codecguide.com/media_player_classic.htm"/><Badge type="tip" text="Guide" link="https://kokomins.wordpress.com/2021/03/27/mpc-hc-and-madvr-setup-guide/" />
+- [mpv](https://mpv.io/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge type="info" text="mpv.net" link="https://github.com/mpvnet-player/mpv.net"/> 🦆
+- [K-Lite Codec Pack](https://codecguide.com/download_kl.htm) :ic-baseline-window:
 
 ### Online
-- [FreeTube](https://freetubeapp.io/)
+- [FreeTube](https://freetubeapp.io/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
 ::: details 💡 **mpv Resources**
 - **Resources**

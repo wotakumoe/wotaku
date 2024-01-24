@@ -126,7 +126,7 @@ Otaku resources for other languages/regions.
     - [Copy MangaX](https://github.com/CrowForKotlin/CopyMangaX)
     - [Manga Reader](https://github.com/youniaogu/MangaReader)
 - **Tracker**
-    - [Bangumi](https://github.com/czy0729/Bangumi) <Badge text="Apple" /><Badge text="Android" />
+    - [Bangumi](https://github.com/czy0729/Bangumi) <Badge text="Apple" />:mdi-android:
     - [Bangumi MX](http://bgmx.mysxl.cn/)
     - [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi)
 

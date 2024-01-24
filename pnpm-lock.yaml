@@ -79,9 +79,15 @@ devDependencies:
   '@iconify-json/logos':
     specifier: ^1.1.37
     version: 1.1.37
+  '@iconify-json/material-symbols':
+    specifier: ^1.1.71
+    version: 1.1.71
   '@iconify-json/mdi':
     specifier: ^1.1.55
     version: 1.1.55
+  '@iconify-json/mingcute':
+    specifier: ^1.1.15
+    version: 1.1.15
   '@iconify-json/octicon':
     specifier: ^1.1.52
     version: 1.1.52
@@ -1983,8 +1989,20 @@ packages:
       '@iconify/types': 2.0.0
     dev: true
 
+  /@iconify-json/material-symbols@1.1.71:
+    resolution: {integrity: sha512-6zW73qQjzxPgQV0zJRyV9RabSJiVVGvDQtcZV4eZyw5Xpt5WZSJ7Gq3J0w+AkxAf5B21jMydJysQV6umrUMnrA==}
+    dependencies:
+      '@iconify/types': 2.0.0
+    dev: true
+
   /@iconify-json/mdi@1.1.55:
     resolution: {integrity: sha512-ycnFub+EQx+3D/aDCg6iC7sjexOUa5GzxUNIZFFl0Pq7aDxbmhIludoyYnguEO3REyWf9FcOOmvVcQkdtwKHTw==}
+    dependencies:
+      '@iconify/types': 2.0.0
+    dev: true
+
+  /@iconify-json/mingcute@1.1.15:
+    resolution: {integrity: sha512-QipLTzA5xE8gJiq9ajlqVuQufFzoMy18vKIqimJRV39+X1qqKbj8vDEbnIJPlfMpLlmBqmHtIdpiRSf4+S/wLA==}
     dependencies:
       '@iconify/types': 2.0.0
     dev: true

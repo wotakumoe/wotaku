@@ -504,7 +504,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 ### Tool
 - [Stat calculator](https://veekun.com/dex/gadgets/stat_calculator)
-- Nuzlocke Chart <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.pseudocode.nuzlockechart" /> <Badge type="tip" icon="i-logos-apple-app-store" text="iOS" link="https://apps.apple.com/us/app/nuzlocke-chart/id1573090300" />
+- Nuzlocke Chart <Badge type="tip" icon="i-mdi-android" text="Android" link="https://play.google.com/store/apps/details?id=com.pseudocode.nuzlockechart" /> <Badge type="tip" icon="i-logos-apple-app-store" text="iOS" link="https://apps.apple.com/us/app/nuzlocke-chart/id1573090300" />
 - [Nuzlock tracker](https://nuzlocke.app/)
 - [PKHeX](https://github.com/kwsch/PKHeX)
 - [Universal Pokémon Randomizer ZX](https://github.com/Ajarmar/universal-pokemon-randomizer-zx/)

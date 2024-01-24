@@ -70,32 +70,31 @@ The basic things to get you started.
 
 == Adblocker
 
-- [Adaway](https://adaway.org/) <Badge text="Android" />
-- [RethinkDNS](https://rethinkdns.com/) <Badge text="Android" />
-- [AhaDNS](https://blitz-setup.ahadns.com/) <Badge text="iOS" />
-- [uBlock Origin](https://ublockorigin.com/) <Badge text="Browser" />
+- [Adaway](https://adaway.org/) :mdi-android:
+- [RethinkDNS](https://rethinkdns.com/) :mdi-android::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [NexDNS](https://nextdns.io/) :mdi-android::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [uBlock Origin](https://ublockorigin.com/) :logos-firefox: :logos-chrome:
 
 == Browsers
 
-- [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) <Badge text="Android" />
-- [Mull](https://github.com/Divested-Mobile/Mull-Fenix) <Badge text="Android" />
-- [Librewolf](https://librewolf.net/) <Badge text="Windows" /> <Badge text="Linux" /> <Badge  text="MacOS" />
-- [Brave](https://brave.com/) <Badge text="Android" /> <Badge  text="iOS" /> <Badge text="Windows" /> <Badge  text="Linux" /> <Badge text="MacOS" />
-- [Cromite](https://github.com/uazo/cromite) <Badge text="Android" />
+- [Firefox](https://www.mozilla.org/en-US/firefox/browsers/) :mdi-android::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Mull](https://github.com/Divested-Mobile/Mull-Fenix) :mdi-android:
+- [Librewolf](https://librewolf.net/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Brave](https://brave.com/) :mdi-android::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Cromite](https://github.com/uazo/cromite) :mdi-android::ic-baseline-window:
 
 == Downloader
 
-- [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) <Badge text="Android" />
-- [IDM](https://www.internetdownloadmanager.com/) <Badge text="Activator" link="https://massgrave.dev/idm-activation-script.html" /> <Badge text="Windows" />
-- [JDL](https://jdownloader.org/) <Badge text="Debloat" link="https://rentry.org/jdownloader2" /> <Badge text="Windows" /> <Badge  text="Linux" /> <Badge  text="MacOS" />
-- [Nicotine+](https://nicotine-plus.org/) <Badge text="p2p" /> <Badge  text="Windows" /> <Badge  text="Linux" /> <Badge  text="MacOS" /> <tooltip>Direct peer-to-peer sharing network, primarily used for music</tooltip>
+- [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) :mdi-android:
+- [IDM](https://www.internetdownloadmanager.com/) <Badge text="Activator" link="https://massgrave.dev/idm-activation-script.html" /> :ic-baseline-window:
+- [JDL](https://jdownloader.org/) <Badge text="Debloat" link="https://rentry.org/jdownloader2" /> :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Nicotine+](https://nicotine-plus.org/) <Badge text="p2p" />:mdi-android::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <tooltip>Direct peer-to-peer sharing network, primarily used for music</tooltip>
 
 == Torrent
 
-- [libretorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) <Badge text="Android" />
-- [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) <Badge text="Android" />
-- [qBittorrent](https://www.qbittorrent.org/) <Badge text="Enhanced" link="https://github.com/c0re100/qBittorrent-Enhanced-Edition" /> <Badge text="Dark theme" link="https://github.com/maboroshin/qBittorrentDarktheme" /> <Badge text="Windows" /> <Badge  text="Linux" /> <Badge  text="MacOS" />
-- [Transmission](https://transmissionbt.com/) <Badge text="Windows" /> <Badge  text="Linux" /> <Badge  text="MacOS" />
+- [libretorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) :mdi-android:
+- [qBittorrent](https://www.qbittorrent.org/) <Badge text="Enhanced" link="https://github.com/c0re100/qBittorrent-Enhanced-Edition" /> <Badge text="Dark theme" link="https://github.com/maboroshin/qBittorrentDarktheme" /> :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Transmission](https://transmissionbt.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
 == VPN
 

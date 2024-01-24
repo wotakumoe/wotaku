@@ -62,6 +62,6 @@ Cool prospective projects under works worth looking into, or maybe contributing 
 - [Novee](https://github.com/ZhichGaming/Novee)
 
 == Misc
-- [Kurozora](https://kurozora.app/welcome) <Badge type="tip" icon="i-logos-apple-app-store" text="iOS" link="https://github.com/Kurozora/kurozora-app" /><Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://github.com/Kurozora/kurozora-android" /><Badge type="tip" icon="i-logos-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/" /><Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://github.com/Kurozora/kurozora-discord-bot" />
+- [Kurozora](https://kurozora.app/welcome) <Badge type="tip" icon="i-logos-apple-app-store" text="iOS" link="https://github.com/Kurozora/kurozora-app" /><Badge type="tip" icon="i-mdi-android" text="Android" link="https://github.com/Kurozora/kurozora-android" /><Badge type="tip" icon="i-logos-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/" /><Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://github.com/Kurozora/kurozora-discord-bot" />
 
 :::

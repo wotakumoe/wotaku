@@ -111,13 +111,13 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
 :::tabs
 == Online
 
-- [**Houdoku**](https://houdoku.netlify.app/) <Badge type="info" text="win" /><Badge type="info" text="mac" /><Badge type="info" text="lin" />
+- [**Houdoku**](https://houdoku.netlify.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
     - Easy to setup
     - Good Customizable UI
     - Has good amount of extensions
     - Tracker integration
     - Can download manga
-- [**Tachidesk**](https://github.com/Suwayomi/Tachidesk-Server) <Badge type="info" text="win" /><Badge type="info" text="mac" /><Badge type="info" text="lin" />
+- [**Tachidesk**](https://github.com/Suwayomi/Tachidesk-Server) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
     - Uses the same extensions and backups as tachiyomi so good extension support
     - UI is same as tachiyomi
     - Can download manga
@@ -140,30 +140,30 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
     - new tab window while stream reading
 
 == Offline
-- [**MComix**](https://sourceforge.net/projects/mcomix/files/) <Badge type="info" text="win" /> <Badge type="info" text="lin" />
+- [**MComix**](https://sourceforge.net/projects/mcomix/files/) :ic-baseline-window::mingcute-linux-fill:
     - Minimal & resposive UI with good amount of customization
     - Has nice library option, also remembers last reading options
     - Has 3 scaling options. Normal, Bilinear (default) and hyperbolic
-- [**YACReader**](https://www.yacreader.com/) <Badge type="info" text="win" /><Badge type="info" text="mac" /><Badge type="info" text="lin" />
+- [**YACReader**](https://www.yacreader.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
     - Has all the standard features, keeps last read history
     - Doesn't have built-in library like MComix, only the history
     - The bundled YACLibrary is excellent
     - Lots of customization
     - Can act like a local manga server like calibre
     - But the server client for [Android](https://play.google.com/store/apps/details?id=com.yacreader.yacreader&hl=en&gl=US) and [iOS](https://apps.apple.com/ca/app/yacreader-comic-reader/id635717885) is paid
-- [**CDisplayEx**](https://www.cdisplayex.com/) <Badge type="info" text="win" />
+- [**CDisplayEx**](https://www.cdisplayex.com/) :ic-baseline-window:
     - Minimalist UI
     - Fast and simple reader with good amount of configuration
     - Has Nearest, Draft, linear and Lanczos (with various level) as scaling options
     - Not FOSS and not maintained since the development team has marked it as complete
     - No library view, only recent reads
-- [**OpenComic**](https://github.com/ollm/OpenComic) <Badge type="info" text="win" /><Badge type="info" text="mac" /><Badge type="info" text="lin" />
+- [**OpenComic**](https://github.com/ollm/OpenComic) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
     - Nice clean UI, has dark mode
     - Has all the standard functions, including recent history
     - Has long strip mode which is pretty smooth
     - Has anilist tracket built in as well as controller support
     - Still at an early stage.
-- [**SumatraPDF**](https://www.sumatrapdfreader.org/free-pdf-reader) <Badge type="info" text="win" />
+- [**SumatraPDF**](https://www.sumatrapdfreader.org/free-pdf-reader) :ic-baseline-window:
     - Very simple program with all the standard features
     - Doesn't have a library, but keeps track of recently opened files
     - Includes vertical mode
