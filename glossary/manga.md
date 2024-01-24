@@ -188,3 +188,28 @@ PR reviews all translated text to correct any typos, awkward translations, or gr
 Quality checker oversees all processes, including checking the translated manga for typos, grammar errors, translation issues, and redrawing problems. However, whether or not this role exists depends on the project or group's working strategy.
 
 ![Kilroy Was Here (SL by Atelier du Noir)](/glossary/manga/compare.jpg)
+
+
+
+![](/glossary/file/mf.png)
+## File Naming
+
+### Publisher
+The publisher can be mainly two types.
+- **CaaS(Chapters as a Service)**: These sites release chapters indvidually instead of volume. Examples: Manga Plus, Manga UP!, Comikey, Tapas etc.
+- **Volume**: Sells the whole volume with better quality. Example: VIZ, Kodansha, Square Enix etc.
+
+### Source
+Nowadays the primary source is digital, since it's is easier to rip and usually higher quality. In the case of scans, the most used tag is c2c - cover to cover.
+
+### Uploader
+The ripper of the manga. Sometimes, it can be more than one person too. Also, if the manga is scanlated, the scanlation group is credited here.
+
+### f
+It indicated this is a fixed version after the initial upload. If there are further fixes, it will be put as f2, f3 etc.
+
+### PRE
+It indicates publishers has released the manga with issues. PRE2 means publishers have fixed some of those issues but not all of them.
+
+### Format
+CBZ is the most common file format for manga. CBZ is just a Zip container. There are also CBR(RAR), CB7(7zip), PDF, ePub etc. The image files inside is generally jpeg and png.

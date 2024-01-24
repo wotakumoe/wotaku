@@ -58,3 +58,47 @@ In Japanese TV, the broadcast schedule is divided into four seasons: Spring (Mar
 | Terms     | Meaning { class="compact" } |
 | ------ | ------ |
 | Genga | The raw keyframes of an anime scene. Dong Chang has explained the whole proces in [**his video**](https://www.youtube.com/watch?v=iOB7t6KtIFE). Example: [Jujutsu Kaisen](https://www.youtube.com/watch?v=XosvkKK1HCc) |
+
+![](/glossary/file/af.png)
+
+## File Naming
+
+### Release group
+The individual or team behind the release, also called Encoder in the case of encodes. Example: SubsPlease, Erai-raws, EMBER, Yameii etc. Sometimes, the release group name is mentioned at the end.
+
+### Source
+The origin of the release, so streaming sites or different disc releases (DVD, LaserDisc, BluRay, etc).
+
+- **WEB-DL**: Untouched videos, downloaded from streaming sites without encoding
+- **WEB-Rip**: Videos sourced from streaming sites that went through screen-capture and/or encoding methods
+- **BDMV**: A capture of the raw file structure of a BluRay disc, needs to be mounted as a disc in order to be played and is used for making encodes or remuxes.
+- **Remux**: Videos sourced from disc releases without encoding, making them have very high quality and file sizes.
+- **Encode**: A video that has gone through lossless or lossy compression processes in order to save file size, also called a DVDRip of BDRip.
+- **Re-Encode**: An encode that has gone through the process of further encoding, thus degrading in quality.
+- **Mini-Encode**: A video where the priority is the smallest possible file size, even if the quality would greatly suffer as a result.
+
+### Resolution
+The number of pixels contained in each frame, a higher value means improved quality (unless it's an upscaled release). The most common ones are 360p, 480p, 576p, 720p, 1080p, 2160p. Most anime nowadays are made in 1080p. So, most of the 2160p anime are interpolated. This interpolation can cause artifacts, over sharpening, or aggressive denoising since it's not really possible to add details out of nothing.
+
+### Video Codec
+The encoding process for the video file. The most popular encoders today are **x264** (AVC) and **x265** (HEVC), with the latter being newer and able to achieve higher compression rates with less quality loss.
+
+<Button link="https://wiki.x266.mov/docs/introduction/prologue" icon="i-fxemoji-lightbulb">To learn more about encoding, visit Codec Wiki</Button>
+
+### Audio Format
+Used in the encoding process for encoding audio, divided into lossless and lossy formats.
+
+- **Lossless**: These retain the  highest audio quality and have larger file sizes as a consequence. The most common ones are DTS, PCM, TrueHD, FLAC and WMA.
+- **Lossy**: These formats aim to provide good quality while keeping file size small. The most popular ones today are AAC, AC3, EAC3 (all commonly found in Web releases), with MP3 being found in older releases.
+
+### Subtitles
+- **Raw**: A video wtihout subtitles.
+- **Fansubs**: Unofficial aka fan-made translations or editted version of the official subtitle.
+- **Hardsubs**: Subtitles that are burned into the frames and are part of the video track itself, can't be turned off.
+- **Softsubs**: Subtitles that are contained on their own track inside a video file or a separate file that's loaded with the video, can be turned on or off.
+
+### File Hash
+These are [CRC32](https://en.wikipedia.org/wiki/Cyclic_redundancy_check) codes, used to detect errors during file transmission. For example: 7BAAC64C. CRC generates a 32-bit code for each file (in hexadecimal, it's 8 digits). Fansubbers include these codes in the filename so that users can easily [check](https://animechecker.sourceforge.net/) whether the downloaded file is corrupted or not. If the file is corrupted, the user will receive a different code than the one written in the file name.
+
+### Video Format
+The container used for the video file, with the most widely used one today being **MKV**, for the ability to put miltiple audio/subtitle tracks in one video file. The most popular one in the past was **MP4**, focused on being compatible with a wide range of devices, but only being able to have burned-in hardsubs.

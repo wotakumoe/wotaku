@@ -124,7 +124,6 @@ export default withPwa(
             { text: "Anime", link: "/glossary/anime" },
             { text: "Manga", link: "/glossary/manga" },
             { text: "NSFW", link: "/glossary/nsfw" },
-            { text: "File Naming", link: "/glossary/file" },
           ],
         },
         {
@@ -170,7 +169,6 @@ export default withPwa(
             { text: "Anime", link: "/glossary/anime" },
             { text: "Manga", link: "/glossary/manga" },
             { text: "NSFW", link: "/glossary/nsfw" },
-            { text: "File Naming", link: "/glossary/file" },
           ],
         },
         {
