@@ -190,6 +190,39 @@ Quality checker oversees all processes, including checking the translated manga 
 ![Kilroy Was Here (SL by Atelier du Noir)](/glossary/manga/compare.jpg)
 
 
+## Technical Terms
+### Moiré 
+[Moiré](https://en.wikipedia.org/wiki/Moir%C3%A9_pattern) is the creation of a new pattern by overlapping two patterns / [halftone](https://en.wikipedia.org/wiki/Halftone). It can occur due to several factors:
+
+![](https://celcliptipsprod.s3-ap-northeast-1.amazonaws.com/tips_article_body/525f/558219/06dfd17c7df58d666530e6112efa7857 =500x)
+
+
+#### **Artist-side**
+Artists often overlap two or more pattern to create a new pattern. Although it's technically moiré, it's an intended effect, thus when we talk about moiré, we focus more on the uneven or the unintentional ones. Moiré can also happen if the artist uses higher frequency of halftone during drawing since those can't be printed with 100% scale or published digitally.
+
+![](https://files.catbox.moe/8z3vgf.png =500x)
+
+<br>
+
+#### **Publisher-side**
+Sometimes, the publisher messes it up during release (digital or physical). Example: [Boy's Abyss vol. 3](https://slow.pics/c/PwgOYQtw)
+
+#### **Reader-side**
+If the image render resolution is lower than the image native resolution (even if the screen resolution itself is high), it can cause moiré when scaling down. The effect may be more pronounced depending on the screen's DPI and on the physical screen size. It can also depend on the reader app/program used, as some handle this process better than others.
+
+![](https://files.catbox.moe/wgkku5.png =500x)
+
+<br>
+
+#### **Solution**
+If it's due to artist or publisher's side, it's not really fixable without redraw. If it's due to screen resolution/DPI,
+- The level of moiré can be lowered by using a better image scaling algorithm, such as Lanczos scaling. For example: [CDisplayEx](https://www.cdisplayex.com/) (Windows) and [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer) (Android). You can tweak the Lanczos level in the settings to get better result. The level depends on the
+	- image DPI of the comic
+	- screen DPI of the user
+	- comic reader
+- Reading a version downscaled by a third party (aggregators or nyaa uploads with "SD" tag) or manually downscaling them
+- Or using a higher resolution and/or bigger display
+
 
 ![](/glossary/file/mf.png)
 ## File Naming
