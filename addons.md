@@ -50,7 +50,7 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
   - [Oto Music Player](https://play.google.com/store/apps/details?id=com.piyush.music) :mdi-android:
 - **Online**
   - [Audire](https://github.com/alexmercerind/audire) :mdi-android: <Badge type="info" text="Identifier" />
-  - [Innertune](https://github.com/z-huang/InnerTune) :ms-youtube-music:🦆
+  - [Innertune](https://github.com/z-huang/InnerTune) :material-symbols-youtube-music:🦆
   - [xManager](https://www.xmanagerapp.com/) :mdi-android::mdi-spotify:
   - [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) :ic-baseline-apple::mdi-spotify:
   - [Spotify++](https://appdb.to/app/cydia/1900000540) :ic-baseline-apple::mdi-spotify:
@@ -84,8 +84,8 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 - [MoeList](https://github.com/axiel7/MoeList) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://moelist.net/" />
 
 ### Others
-- [Kitsu](https://github.com/hummingbird-me/kitsu-mobile) <Badge type="tip" icon="i-mdi-android" text="Android" link="https://play.google.com/store/apps/details?id=com.everfox.animetrackerandroid&hl=en&gl=US" /><Badge type="tip" icon="i-ic-baseline-apple" text="iOS" link="https://apps.apple.com/us/app/kitsu-anime/id590452826" /> :simple-kitsu:
-- [Kitsune](https://github.com/Drumber/Kitsune) :simple-kitsu:
+- [Kitsu](https://github.com/hummingbird-me/kitsu-mobile) <Badge type="tip" icon="i-mdi-android" text="Android" link="https://play.google.com/store/apps/details?id=com.everfox.animetrackerandroid&hl=en&gl=US" /><Badge type="tip" icon="i-ic-baseline-apple" text="iOS" link="https://apps.apple.com/us/app/kitsu-anime/id590452826" /> :simple-icons-kitsu:
+- [Kitsune](https://github.com/Drumber/Kitsune) :simple-icons-kitsu:
 - [OpenComicVine](https://github.com/proninyaroslav/OpenComicVine) <Badge type="info" text="ComicVine" />
 - [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) :mdi-lastfm::mdi-android:
 - [Stats.fm](https://stats.fm/) :mdi-spotify::mdi-android::ic-baseline-apple:
@@ -103,7 +103,6 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 
 ### Misc
 - [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) :mdi-android:
-- [KizzyRPC](https://github.com/dead8309/KizzyRPC) :mdi-android:
 
   :::
 

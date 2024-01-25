@@ -21,6 +21,7 @@ import {
   googleStaticFontRegex,
   githubSourceContentRegex,
   jsdelivrCDNRegex,
+  socials,
 } from "./configs";
 
 // https://vitepress.dev/reference/site-config
@@ -186,7 +187,7 @@ export default withPwa(
         },
         { text: "Updates", link: "https://github.com/anotherduckling/Wotaku/commits/main/" },
       ],
-      socialLinks: [],
+      socialLinks: socials,
     },
     pwa: {
       base: "/",
