@@ -191,7 +191,7 @@ Quality checker oversees all processes, including checking the translated manga 
 
 
 ## Technical Terms
-### Moiré 
+### Moiré / Moire
 [Moiré](https://en.wikipedia.org/wiki/Moir%C3%A9_pattern) is the creation of a new pattern by overlapping two patterns / [halftone](https://en.wikipedia.org/wiki/Halftone). It can occur due to several factors:
 
 ![](/glossary/manga/pattern.png)
