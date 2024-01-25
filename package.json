@@ -16,6 +16,7 @@
     "@mdit/plugin-align": "^0.5.2",
     "@mdit/plugin-figure": "^0.5.2",
     "@mdit/plugin-img-lazyload": "^0.5.2",
+    "@mdit/plugin-img-size": "^0.8.0",
     "@resvg/resvg-js": "^2.6.0",
     "@vite-pwa/vitepress": "^0.2.3",
     "fast-glob": "^3.3.1",

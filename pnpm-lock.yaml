@@ -14,6 +14,9 @@ dependencies:
   '@mdit/plugin-img-lazyload':
     specifier: ^0.5.2
     version: 0.5.2(markdown-it@13.0.2)
+  '@mdit/plugin-img-size':
+    specifier: ^0.8.0
+    version: 0.8.0(markdown-it@13.0.2)
   '@resvg/resvg-js':
     specifier: ^2.6.0
     version: 2.6.0
@@ -2143,7 +2146,7 @@ packages:
       markdown-it:
         optional: true
     dependencies:
-      '@types/markdown-it': 13.0.5
+      '@types/markdown-it': 13.0.7
       markdown-it: 13.0.2
     dev: false
 
@@ -2170,6 +2173,19 @@ packages:
         optional: true
     dependencies:
       '@types/markdown-it': 13.0.5
+      markdown-it: 13.0.2
+    dev: false
+
+  /@mdit/plugin-img-size@0.8.0(markdown-it@13.0.2):
+    resolution: {integrity: sha512-r+LbAizP/hw5SisY44VbHEnR7XUKpcHM2k2fwu5wb1+V1crxeigG4sa8rzrJEddU+k6uCl27yL5FTGbHjAl82Q==}
+    engines: {node: '>= 18'}
+    peerDependencies:
+      markdown-it: ^14.0.0
+    peerDependenciesMeta:
+      markdown-it:
+        optional: true
+    dependencies:
+      '@types/markdown-it': 13.0.7
       markdown-it: 13.0.2
     dev: false
 

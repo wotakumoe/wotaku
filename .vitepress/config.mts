@@ -3,6 +3,7 @@ import { fileURLToPath, URL } from "node:url";
 import { figure } from "@mdit/plugin-figure";
 import { imgLazyload } from "@mdit/plugin-img-lazyload";
 import { align } from "@mdit/plugin-align";
+import { imgSize } from "@mdit/plugin-img-size";
 import { tabsMarkdownPlugin } from "vitepress-plugin-tabs";
 import UnoCSS from "unocss/vite";
 import { presetUno, presetAttributify, presetIcons } from "unocss";
@@ -65,6 +66,7 @@ export default withPwa(
         md.use(align);
         md.use(figure);
         md.use(tabsMarkdownPlugin);
+        md.use(imgSize);
       },
     },
     vite: {
