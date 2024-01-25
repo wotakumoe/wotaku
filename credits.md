@@ -35,6 +35,7 @@ A big thanks to everyone, for your dedications and resources
 - Ninomae Ina'nis's Padoru by [how-dee](https://www.reddit.com/r/Padoru/comments/iu6jvx/ninomae_inanis_hololive/)
 - Ninomae Ina'nis's pixel art by [Holocure team](https://holocure.fandom.com/wiki/Ninomae_Ina%27nis)
 - Artoria Pendragon (Fate) by [MinJaeCucheoo](https://www.deviantart.com/minjaecucheoo/art/Transparent-PNG-Artoria-Pendragon-Fate-845014345)
+- Moié vs Non-Moiré Pattern Comparison [by konijnsate](https://tips.clip-studio.com/en-us/articles/3489)
 
 == Glossary
 
