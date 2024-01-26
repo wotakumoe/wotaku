@@ -103,3 +103,46 @@ The basic things to get you started.
 - [Windscribe](https://windscribe.com/) <Badge text="Freemium" />
 
 :::
+
+## 4chan
+
+<Button icon="i-fxemoji-warningsign">Only use this if you know what you're getting yourselves into</Button>
+
+:::tabs
+
+== Websites
+- [4Chan](https://4chan.org/) <Badge type="tip" text="Mobile" link="https://p.4chan.org/" />
+- [Anychans](https://anychans.github.io/4chan/) :mdi-desktop-mac:
+- [Luckychan](https://luckychan.app/) :mdi-cellphone-iphone:
+
+== Boards
+- [🍀/a/ - Anime & Manga](https://boards.4channel.org/a/)
+- [🍀/c/ - Anime/Cute](https://boards.4channel.org/c/)
+- [🍀/cgl/ - Cosplay & EGL](https://boards.4channel.org/cgl/)
+- [🍀/co/ - Comics & Cartoons](https://boards.4channel.org/co/)
+- [🍀/e/ - Ecchi](https://boards.4channel.org/e/)
+- [🍀/h/ - Hentai](https://boards.4channel.org/h/)
+- [🍀/m/ - Mecha](https://boards.4channel.org/m/)
+- [🍀/jp/ - Otaku Culture](https://boards.4channel.org/jp/)
+- [🍀/vt/ - Virtual YouTubers](https://boards.4channel.org/vt/)
+- [🍀/w/ - Anime/Wallpapers](https://boards.4channel.org/w/)
+
+== Archive
+- [Desuarchive](https://desuarchive.org/)
+- [Archived.Moe](https://archived.moe/)
+- [Fuuka](https://warosu.org/)
+
+== Others
+### Clients
+- [KurobaEx](https://github.com/K1rakishou/Kuroba-Experimental/) :mdi-android:
+- [Read Chan](https://play.google.com/store/apps/details?id=com.deezus.pchan) :mdi-android:
+- [TUI-Chan](https://github.com/tuqqu/tui-chan) :ic-baseline-window:
+
+### Extension / Script
+- [4chan X](https://github.com/ccd0/4chan-x) :mingcute-chrome-fill::mdi-language-javascript:
+    - [OneeChan](https://github.com/KevinParnell/OneeChan) :mdi-language-javascript:
+    - [StyleChan](https://github.com/3nly/StyleChan) :mdi-language-javascript:
+- [Desu X](https://greasyfork.org/en/scripts/483282-desu-x-enhancement-script-for-desuarchive-org) :mdi-language-javascript:
+- [Dollchan](https://github.com/SthephanShinkufag/Dollchan-Extension-Tools/) :mdi-firefox::mdi-language-javascript:
+
+:::
