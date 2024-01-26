@@ -142,6 +142,7 @@ The basic things to get you started.
 - [4chan X](https://github.com/ccd0/4chan-x) :mingcute-chrome-fill::mdi-language-javascript:
     - [OneeChan](https://github.com/KevinParnell/OneeChan) :mdi-language-javascript:
     - [StyleChan](https://github.com/3nly/StyleChan) :mdi-language-javascript:
+    - [SS21](https://github.com/saxamaphone69/ss21) :mdi-language-javascript::mdi-format-paint:
 - [Desu X](https://greasyfork.org/en/scripts/483282-desu-x-enhancement-script-for-desuarchive-org) :mdi-language-javascript:
 - [Dollchan](https://github.com/SthephanShinkufag/Dollchan-Extension-Tools/) :mdi-firefox::mdi-language-javascript:
 
