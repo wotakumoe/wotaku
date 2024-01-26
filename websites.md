@@ -398,25 +398,23 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 == Reader
 
 - [Novel Updates](https://www.novelupdates.com/)
-- [Allnovel](https://allnovel.org/)
 - [Baka-tsuki](https://www.baka-tsuki.org/project/index.php?title=main_page)
 - [Boxnovel](https://boxnovel.com/)
-- [Comrademao](https://comrademao.com/)
-- [Dao Novel](https://daonovel.com/)
-- [Free web novel](https://freewebnovel.com/)
+- [VyNovel](https://vynovel.com/)
 - [Light Novel Pub](https://www.lightnovelpub.com/) <Badge type="tip" text="Light Novel World" link="https://www.lightnovelworld.com/" />
 - [Novel Buddy](https://novelbuddy.com/home)
+- [Wuxia World](https://www.wuxiaworld.com/) <Badge type="info" text="Legal" />
+
+:::details More
+- [Allnovel](https://allnovel.org/)
+- [Free web novel](https://freewebnovel.com/)
 - [Novel Cool](https://www.novelcool.com/)
 - [Novel Full](https://novelfull.net/)
 - [Novel Hall](https://www.novelhall.com/)
 - [Novels Online](https://novelsonline.net/)
-- [Octopii](https://octopii.co/)
 - [Ranobes](https://ranobes.top/)
 - [Read Light Novel](https://www.readlightnovel.me/)
-- [Read Novel Full](https://readnovelfull.com/)
 - [Royal Road](https://www.royalroad.com/home)
-- [VyNovel](https://vynovel.com/)
-- [Wuxia World](https://www.wuxiaworld.com/) <Badge type="info" text="Legal" />
 
 == Direct Download
 
