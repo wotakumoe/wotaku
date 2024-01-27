@@ -87,7 +87,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Monthly.moe](https://www.monthly.moe/) 🦆
 - [Notify.moe](https://notify.moe/calendar) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/animenotifier/notify.moe" />
 - [Senpai.moe](https://www.senpai.moe/)
-- [Syoboi Calendar](https://cal.syoboi.jp/) 🇯🇵
+- [Syoboi Calendar](https://cal.syoboi.jp/) :flag-japan:
 - [Yatta-Tachi](https://yattatachi.com/)
 
 == Stats & Watch guide
@@ -115,7 +115,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 :::tabs
 == Info
 
-- [Bookmeter](https://bookmeter.com/) 🇯🇵
+- [Bookmeter](https://bookmeter.com/) :flag-japan:
 - [Manga Groups Portal](https://discord.gg/9KGMzP2)
 - [r/LightNovels reading order](https://www.reddit.com/r/LightNovels/wiki/reading_order)
 - [Touhou Doujinshi Index](https://scarlet.nanoskript.dev/) <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" /> <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/nanoskript/touhou-doujinshi-index" /> 🦆 
@@ -239,7 +239,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Anime News Network](https://www.animenewsnetwork.com/) <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/anime" />🦆
 - [Crunchyroll News](https://www.crunchyroll.com/news)
 - [MAL News](https://myanimelist.net/news) <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/myanimelist" />
-- [ORICON NEWS](https://www.oricon.co.jp/) 🇯🇵
+- [ORICON NEWS](https://www.oricon.co.jp/) :flag-japan:
 - [Otaku News](https://www.otakunews.com/)
 
 ### Blog / Interview
@@ -271,9 +271,9 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 ### General
 - [JaME](https://www.jame-world.com/en/) 🦆
-- [Billboard JAPAN](https://www.billboard-japan.com/d_news/jpn/) 🇯🇵
-- [Uta-Net](https://www.uta-net.com/) 🇯🇵
-- [UtaTen](https://utaten.com/) 🇯🇵
+- [Billboard JAPAN](https://www.billboard-japan.com/d_news/jpn/) :flag-japan:
+- [Uta-Net](https://www.uta-net.com/) :flag-japan:
+- [UtaTen](https://utaten.com/) :flag-japan:
 - [Make Believe Mailer](https://mbmelodies.substack.com/) 🦆
 - [The Needle Drop](https://www.theneedledrop.com/)
 
@@ -285,14 +285,14 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 == Games
 
-- [4Gamer](https://www.4gamer.net/) 🇯🇵
-- [Famitsu](https://www.famitsu.com/) 🇯🇵
+- [4Gamer](https://www.4gamer.net/) :flag-japan:
+- [Famitsu](https://www.famitsu.com/) :flag-japan:
 - [Gematsu](https://www.gematsu.com/)
 - [Frontline](https://www.frontlinejp.net/)
 - [Siliconera](https://www.siliconera.com/)
 - [RPGFan](https://www.rpgfan.com/) 
 - [RPG Site](https://www.rpgsite.net/)
-- [Touhou Yomoyama News](https://touhou-project.news/) 🇯🇵
+- [Touhou Yomoyama News](https://touhou-project.news/) :flag-japan:
 
 == RSS
 
@@ -424,7 +424,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [vTubie](https://vtubie.com/)
 
 ### Others
-- [VTuber Highlights](https://vtuber.atodeyo.com/) 🇯🇵 <Badge type="info" text="News" />
+- [VTuber Highlights](https://vtuber.atodeyo.com/) :flag-japan: <Badge type="info" text="News" />
 - [VTuber Newsdrop](https://vtubernewsdrop.com/) <Badge type="info" text="News" />
 - [HoloSongs](https://github.com/themintchoco/holosongs) <Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chromewebstore.google.com/detail/holosongs/ipibfcnlipdkimfmajnddpboejkocplf" />
 

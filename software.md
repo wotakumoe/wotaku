@@ -44,7 +44,7 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
 
 == Manga
 
-- [**Mihon**](https://github.com/mihonapp/mihon) <Badge type="tip" text="Extensions" link="https://keiyoushi.github.io/extensions/" /><Badge type="tip" text="J2K" link="https://github.com/Jays2Kings/tachiyomiJ2K" /><Badge type="tip" text="SY" link="https://github.com/jobobby04/TachiyomiSY" />
+- [**Mihon**](https://github.com/mihonapp/mihon) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://kaizoyu.ovh" /><Badge type="tip" text="Extensions" link="https://keiyoushi.github.io/extensions/" /><Badge type="tip" text="J2K" link="https://github.com/Jays2Kings/tachiyomiJ2K" /><Badge type="tip" text="SY" link="https://github.com/jobobby04/TachiyomiSY" />
   - Great Customizable UI
   - Ton of manga sources
   - Download and local reader support
