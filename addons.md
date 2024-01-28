@@ -7,9 +7,9 @@ customDescription: Various add-ons to enhance your experience; not all of them a
 Various add-ons to enhance your experience; not all of them are necessarily weeb-related, but they can be genuinely helpful.
 <br>
 
-![](/banner/apps.png)
+![](/banner/phone.png)
 
-## Apps
+## Phone
 
 :::tabs
 
@@ -110,9 +110,71 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
   :::
 
 
-![](/banner/tools.png)
+![](/banner/pc.png)
 
-## Tools
+## PC
+
+### Downloader
+
+:::tabs
+== Anime
+
+- [**Hakuneko**](https://github.com/manga-download/hakuneko) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<tooltip><ul><li>No Crunchyroll implementation</li><li>You have to index each site first, which takes quite a long time, after that the search is almost instant, but loading episodes for anime again takes some time depending on the source.</li><li>Not a great interface, but it does the job, and you can tell it is more thought out for manga.</li><li>Not too many anime sources, some of them do not work.</li></ul></tooltip>
+- [**animdl**](https://github.com/justfoolingaround/animdl) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<tooltip><ul><li>No UI, terminal based</li><li>Easy to use once installed</li><li>Not too many anime sources, some of them do not work.</li></ul></tooltip>
+- [**ADL**](https://github.com/RaitaroH/adl) :ic-baseline-window::mingcute-linux-fill:<tooltip><ul><li>No UI, terminal based</li><li>"Complicated" installation, especially on Windows</li><li>Uses many different scripts, including animedl, so lots of functionality</li><li>Tracking capability & many more</li><li>Same amount of sources as AnimDL</li></ul></tooltip>
+- [**Crunchy-cli**](https://github.com/crunchy-labs/crunchy-cli) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<tooltip><ul><li>No UI, terminal based</li><li>"Simple" installation</li><li>Crunchyroll account required, Premium if you want all the anime available</li><li>No streaming, only download</li></ul></tooltip>
+- [**Crunchyroll Downloader v3.0**](https://github.com/hama3254/Crunchyroll-Downloader-v3.0) :ic-baseline-window:<tooltip><ul><li>Straightforward UI</li><li>Easy to use</li><li>Crunchyroll account required if you want premium content</li><li>About the same functionality as Crunchy-cli</li><li>No streaming, only download</li></ul></tooltip>
+- [**Nyaa Downloader**](https://github.com/marcpinet/nyaadownloader) :ic-baseline-window:<tooltip><ul><li>Runs via terminal, has a pretty simple UI</li><li>Used for torrent downloads that can be redirected/downloaded directly into a BitTorrent client - no DDL functionality</li><li>For nyaa.si only</li></ul></tooltip>
+
+== Manga
+
+- [**Free Manga Downloader 2**](https://github.com/dazedcat19/FMD2) :ic-baseline-window:<tooltip><ul><li>Supports almost every major site</li><li>You can add your own account</li><li>Highly configurable with downloading automation</li><li>Has converter and a lot of great tools</li></ul></tooltip>
+- [**Hakuneko**](https://github.com/manga-download/hakuneko) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<tooltip><ul><li>Currently the best downloader</li><li>Huge number of sites supported</li><li>Customizable UI</li><li>Can download anime too</li></ul></tooltip>
+- [**MangaL**](https://github.com/metafates/mangal) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<tooltip><ul><li>TUI based</li><li>Very Fast</li><li>You can add your own lua scrapers for non-supported sites (mangadex and mangasee already supported)</li></ul></tooltip>
+- [**Mangadex Downloader**](https://github.com/mansuf/mangadex-downloader) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<tooltip><ul><li>CLI based</li><li>Mangadex downloader</li><li>Easy to use and fast</li></ul></tooltip>
+- [**HDoujin Downloader**](https://github.com/HDoujinDownloader/HDoujinDownloader) :ic-baseline-window:<tooltip><ul><li>Huge list of supported nsfw sites</li><li>Good UI, many settings and amazing speed</li><li>But has a 25 chapter daily limit</li></ul></tooltip>
+- [**Hitomi Downloader**](https://github.com/KurtBestor/Hitomi-Downloader) :ic-baseline-window::ic-baseline-apple:<tooltip><ul><li>Supports mostly nsfw sites but works great for the supported ones</li></ul></tooltip>
+
+== Novels
+
+- [**WebtoEpub**](https://github.com/dteviot/WebToEpub) :mdi-firefox::mingcute-chrome-fill:<tooltip><ul><li>Rich with epub settings and customization</li><li>Includes authors and precise detailed information</li><li>Works with 3k chap of novels (pretty slow conversion time)</li><li>Advanced options with additional settings and customization</li><li>Ability to generate epub 3 version</li><li>Conversion time is slow (depends on the novel you're converting for)</li></ul></tooltip>
+- [**Epublifier**](https://github.com/maoserr/epublifier) :mdi-firefox::mingcute-chrome-fill:<tooltip><ul><li>Decent UI and unique pop-up tabs</li><li>Fast conversion (Novelupdate tested)</li><li>Faster parser compared to WebtoEpub extension</li><li>Don't have a way to add table of contents</li><li>Chapter name is reverted back to title instead so no precise info</li><li>No detailed epub info like authors and metadata</li></ul></tooltip>
+- [**Novel Crawler**](https://github.com/dipu-bd/lightnovel-crawler) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<tooltip><ul><li>Command Line based</li><li>Easy fetch for chapters</li><li>Fast experience</li><li>Needs basic knowledge for Command prompt</li></ul></tooltip>
+
+== Others
+
+### General
+- **Direct**
+  - [IDM](https://www.internetdownloadmanager.com/) :ic-baseline-window:<Badge text="Activator" link="https://massgrave.dev/idm-activation-script.html" />
+  - [JDL](https://jdownloader.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge text="Debloat" link="https://rentry.org/jdownloader2" />
+  - [XDM](https://xtremedownloadmanager.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+  - [MegaBasterd](https://github.com/tonikelope/megabasterd) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge type="tip" text="Account gen" link="https://github.com/qtchaos/py_mega_account_generator" /><Badge type="tip" text="MegaDoctor" link="https://github.com/tonikelope/megadoctor" />
+- **Torrent**
+  - [qBittorrent](https://www.qbittorrent.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+  - [Transmission](https://transmissionbt.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+
+### Media
+- **Image**
+  - [gallery-dl](https://github.com/mikf/gallery-dl) :ic-baseline-window::mingcute-linux-fill: 🦆
+  - [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-android:
+  - [PixivUtil2](https://github.com/Nandaka/PixivUtil2) :ic-baseline-window:
+- **Video**
+  - [yt-dlp](https://github.com/yt-dlp/yt-dlp) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge type="info" text="GUI" link="https://github.com/kannagi0303/yt-dlp-gui" /><Badge type="info" text="GUI Installer" link="https://github.com/kazukikasama/youtube-dlp-gui-installer" /> 🦆
+- **Music**
+  - [Nicotine+](https://nicotine-plus.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-lan-pending:<tooltip>Direct peer-to-peer sharing network, primarily used for music</tooltip>
+  - [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD)
+  - [Deemix](https://download.deemix.workers.dev/)
+  - [Soggfy](https://github.com/Rafiuth/Soggfy) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+  - [Spotify AAC Downloader](https://github.com/glomatico/spotify-aac-downloader)
+  - [ZSpotify](https://github.com/jsavargas/zspotify) <Badge type="tip" text="GUI" link="https://github.com/PacketSurf/ZSpotifyGUI" />
+
+<Button link="https://rentry.org/firehawk52" icon="i-fxemoji-lightbulb">Firehawk's Guide for Premium Access</Button>
+
+:::
+
+<br>
+
+### Tools
 
 :::tabs
 == Anime
@@ -234,35 +296,25 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
   - [Prescalers](https://github.com/bjin/mpv-prescalers)
   - [Upscale 2x](https://github.com/the-database/mpv-upscale-2x_animejanai)
 
-== Downloader
+== Image
 
-### General
-- **Direct**
-  - [IDM](https://www.internetdownloadmanager.com/) :ic-baseline-window:<Badge text="Activator" link="https://massgrave.dev/idm-activation-script.html" />
-  - [JDL](https://jdownloader.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge text="Debloat" link="https://rentry.org/jdownloader2" />
-  - [XDM](https://xtremedownloadmanager.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-  - [MegaBasterd](https://github.com/tonikelope/megabasterd) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge type="tip" text="Account gen" link="https://github.com/qtchaos/py_mega_account_generator" /><Badge type="tip" text="MegaDoctor" link="https://github.com/tonikelope/megadoctor" />
-- **Torrent**
-  - [qBittorrent](https://www.qbittorrent.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-  - [Transmission](https://transmissionbt.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+### Viewer+
+- [IrfanView](https://www.irfanview.com/)
+- [XnView MP](https://www.xnview.com/en/xnviewmp/)
 
-### Media
-- **Image**
-  - [gallery-dl](https://github.com/mikf/gallery-dl) :ic-baseline-window::mingcute-linux-fill: 🦆
-  - [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-android:
-  - [PixivUtil2](https://github.com/Nandaka/PixivUtil2) :ic-baseline-window:
-- **Video**
-  - [yt-dlp](https://github.com/yt-dlp/yt-dlp) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge type="info" text="GUI" link="https://github.com/kannagi0303/yt-dlp-gui" /><Badge type="info" text="GUI Installer" link="https://github.com/kazukikasama/youtube-dlp-gui-installer" /> 🦆
-- **Music**
-  - [Nicotine+](https://nicotine-plus.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-lan-pending:<tooltip>Direct peer-to-peer sharing network, primarily used for music</tooltip>
-  - [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD)
-  - [Deemix](https://download.deemix.workers.dev/)
-  - [Soggfy](https://github.com/Rafiuth/Soggfy) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-  - [Spotify AAC Downloader](https://github.com/glomatico/spotify-aac-downloader)
-  - [ZSpotify](https://github.com/jsavargas/zspotify) <Badge type="tip" text="GUI" link="https://github.com/PacketSurf/ZSpotifyGUI" />
+### Optimizer
+- [imgdanke](https://github.com/DrWhoCares/imgdanke) <tooltip>Optional for GUI but does not support Pingo v1+ at the moment.</tooltip>
+- [ImageMagic](https://imagemagick.org/index.php) <Badge type="tip" text="Scripts" link="https://www.fmwconcepts.com/imagemagick/index.php" />
+- [Pingo](https://css-ig.net/pingo) <Badge type="tip" text="Pinga" link="https://css-ig.net/pinga" />
 
-<Button link="https://rentry.org/firehawk52" icon="i-fxemoji-lightbulb">Firehawk's Guide for Premium Access</Button>
+### Processor
+- [chaiNNer](https://github.com/chaiNNer-org/chaiNNer)
+- [Waifu2X](https://github.com/nagadomi/waifu2x) <Badge type="tip" text="caffe" link="https://github.com/lltcggie/waifu2x-caffe" /><Badge type="tip" text="ncnn Vulkan" link="https://github.com/nihui/waifu2x-ncnn-vulkan" /><Badge type="tip" text="Ext GUI" link="https://github.com/AaronFeng753/Waifu2x-Extension-GUI" /><Badge type="tip" text="nunif" link="https://github.com/nagadomi/nunif" />
 
+### Others
+- [Hydrus network](https://hydrusnetwork.github.io/hydrus/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+
+<Button link="/scanlation#tools" icon="i-octicon-tools-16">You can find more image tools here.</Button>
 :::
 
 ### More
@@ -273,20 +325,6 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 - [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) :ic-baseline-window:
 - [mpvQC](https://github.com/mpvqc/mpvQC) :ic-baseline-window:
 - [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-
-== Image
-
-### Downloader
-
-
-### Optimizer
-- [imgdanke](https://github.com/DrWhoCares/imgdanke) <tooltip>Optional for GUI but does not support Pingo v1+ at the moment.</tooltip>
-- [ImageMagic](https://imagemagick.org/index.php)
-- [Pingo](https://css-ig.net/pingo)
-
-### Others
-- [Hydrus network](https://hydrusnetwork.github.io/hydrus/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-
 
 == Translator
 
