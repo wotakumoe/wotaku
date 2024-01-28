@@ -44,7 +44,7 @@ The basic things to get you started.
 == Android
 
 - [Mihon](https://github.com/mihonapp/mihon) <Badge type="tip" text="Extensions" link="https://keiyoushi.github.io/extensions/" /><Badge type="tip" text="J2K" link="https://github.com/Jays2Kings/tachiyomiJ2K" /><Badge type="tip" text="SY" link="https://github.com/jobobby04/TachiyomiSY" />
-- [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta) <Badge text="Anime" /> <Badge text="Manga" />
+- [Aniyomi](https://github.com/aniyomiorg/aniyomi) <Badge text="Anime" /> <Badge text="Manga" /><Badge type="tip" text="Animiru" link="https://github.com/Quickdesh/Animiru" />
 - [Quicknovel](https://github.com/LagradOst/QuickNovel) <Badge text="LN" />
 
 <Button link="https://keiyoushi.github.io/extensions/" icon="i-fxemoji-lightbulb">By default, Mihon or other tachiyomi forks won't have any extensions. You have to sideload them</Button>
