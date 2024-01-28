@@ -345,13 +345,6 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
   - Fast expertience
   - needs a basic knowlege for Command prompt
 
-:::details Others {open}
-
-- [gallery-dl](https://github.com/mikf/gallery-dl)
-- [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/)
-- [Nicotine+](https://nicotine-plus.org/) <Badge type="info" text="p2p" /><Badge type="info" text="Windows" /><Badge type="info" text="Linux" /><Badge type="info" text="MacOS" />
-- [PixivUtil2](https://github.com/Nandaka/PixivUtil2)
-
 :::
 
 <Button link="/addons#tools" icon="i-octicon-tools-16">You can find more PC related tools here.</Button>

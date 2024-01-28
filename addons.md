@@ -242,22 +242,87 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
   - [JDL](https://jdownloader.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge text="Debloat" link="https://rentry.org/jdownloader2" />
   - [XDM](https://xtremedownloadmanager.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
   - [MegaBasterd](https://github.com/tonikelope/megabasterd) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge type="tip" text="Account gen" link="https://github.com/qtchaos/py_mega_account_generator" /><Badge type="tip" text="MegaDoctor" link="https://github.com/tonikelope/megadoctor" />
-  - [yt-dlp](https://github.com/yt-dlp/yt-dlp) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge type="info" text="GUI" link="https://github.com/kannagi0303/yt-dlp-gui" /><Badge type="info" text="GUI Installer" link="https://github.com/kazukikasama/youtube-dlp-gui-installer" /> 🦆
 - **Torrent**
   - [qBittorrent](https://www.qbittorrent.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
   - [Transmission](https://transmissionbt.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
-### Music
-- [Nicotine+](https://nicotine-plus.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-lan-pending:<tooltip>Direct peer-to-peer sharing network, primarily used for music</tooltip>
-- [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD)
-- [Deemix](https://download.deemix.workers.dev/)
-- [Soggfy](https://github.com/Rafiuth/Soggfy) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Spotify AAC Downloader](https://github.com/glomatico/spotify-aac-downloader)
-- [ZSpotify](https://github.com/jsavargas/zspotify) <Badge type="tip" text="GUI" link="https://github.com/PacketSurf/ZSpotifyGUI" />
+### Media
+- **Image**
+  - [gallery-dl](https://github.com/mikf/gallery-dl) :ic-baseline-window::mingcute-linux-fill: 🦆
+  - [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-android:
+  - [PixivUtil2](https://github.com/Nandaka/PixivUtil2) :ic-baseline-window:
+- **Video**
+  - [yt-dlp](https://github.com/yt-dlp/yt-dlp) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge type="info" text="GUI" link="https://github.com/kannagi0303/yt-dlp-gui" /><Badge type="info" text="GUI Installer" link="https://github.com/kazukikasama/youtube-dlp-gui-installer" /> 🦆
+- **Music**
+  - [Nicotine+](https://nicotine-plus.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-lan-pending:<tooltip>Direct peer-to-peer sharing network, primarily used for music</tooltip>
+  - [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD)
+  - [Deemix](https://download.deemix.workers.dev/)
+  - [Soggfy](https://github.com/Rafiuth/Soggfy) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+  - [Spotify AAC Downloader](https://github.com/glomatico/spotify-aac-downloader)
+  - [ZSpotify](https://github.com/jsavargas/zspotify) <Badge type="tip" text="GUI" link="https://github.com/PacketSurf/ZSpotifyGUI" />
 
 <Button link="https://rentry.org/firehawk52" icon="i-fxemoji-lightbulb">Firehawk's Guide for Premium Access</Button>
 
 :::
+
+### More
+
+:::tabs
+== Fansubbing
+- [Aegisub](https://aegisub.org/) :ic-baseline-window::mingcute-linux-fill:<Badge type="tip" icon="i-octicon-repo-forked" text="Fork" link="https://github.com/arch1t3cht/Aegisub" />
+- [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) :ic-baseline-window:
+- [mpvQC](https://github.com/mpvqc/mpvQC) :ic-baseline-window:
+- [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+
+== Image
+
+### Downloader
+
+
+### Optimizer
+- [imgdanke](https://github.com/DrWhoCares/imgdanke) <tooltip>Optional for GUI but does not support Pingo v1+ at the moment.</tooltip>
+- [ImageMagic](https://imagemagick.org/index.php)
+- [Pingo](https://css-ig.net/pingo)
+
+### Others
+- [Hydrus network](https://hydrusnetwork.github.io/hydrus/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+
+
+== Translator
+
+- [Sugoi Translation Toolkit](https://blog.sugoitoolkit.com/)
+- [Ballons Translator](https://github.com/dmMaze/BallonsTranslator)
+- [Capture2text](https://capture2text.sourceforge.net/)
+- [Imagetrans](https://www.basiccat.org/imagetrans/)
+- [Kanji tomo](https://www.kanjitomo.net/)
+- [Manga OCR](https://github.com/kha-white/manga-ocr)
+- [Mokuro](https://github.com/kha-white/mokuro)
+- [Poricom](https://github.com/blueaxis/Poricom)
+- [Yomiwa](https://www.yomiwa.net/)
+
+:::danger Don't use MTL
+Using Machine Translation to translate manga will be a mess. Manga has lots of slang, cultural references, and visual elements that MTL won't understand. So, it's better to have a human translator who knows the language and culture well. You don't want to end up with a wonky or inaccurate translation!
+
+== Discord Bots
+- [AniSearch](https://github.com/IchBinLeoon/anisearch-discord-bot) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://ichbinleoon.github.io/anisearch-discord-bot/#/" />
+- [Ryuuzaki Ryuusei](https://github.com/nattadasu/ryuuRyuusei)
+- [Yuuko](https://github.com/YuuCorp/Yuuko)
+- [MangaUpdates Bot](https://github.com/jckli/mangaupdates-bot)
+- [Manhwa Updates Bot](https://github.com/MooshiMochi/ManhwaUpdatesBot) 🦆
+- [Rinbot](https://rinbot.moe/)
+- [Michelle](https://github.com/JacenBoy/michelle) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://michelle.jacenboy.com/" />
+- Sneedex <Badge type="info" icon="i-logos-discord-icon" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" />
+- [Picsiv](https://github.com/jckli/picsiv)
+- [Poketwo](https://poketwo.net/)
+
+== Others
+
+- [osu! Cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner) :ic-baseline-window:
+- [PreMiD](https://premid.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Textractor](https://github.com/Artikash/Textractor) :ic-baseline-window:
+
+:::
+
 
 
 ![](/banner/ext.png)
@@ -376,52 +441,4 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 
 :::warning Scripts may not function correctly or reliably all the time
 Active maintenance is necessary for scripts to work properly. If a script fails, try reinstalling it; otherwise, wait for a fix to be released. Install [**Violentmonkey**](https://violentmonkey.github.io/) or [**Tampermonkey**](https://www.tampermonkey.net/) to use scripts.
-:::
-
-
-![](/banner/misc.png)
-## Miscellaneous
-
-:::tabs
-
-== Translator
-
-- [Sugoi Translation Toolkit](https://blog.sugoitoolkit.com/)
-- [Ballons Translator](https://github.com/dmMaze/BallonsTranslator)
-- [Capture2text](https://capture2text.sourceforge.net/)
-- [Imagetrans](https://www.basiccat.org/imagetrans/)
-- [Kanji tomo](https://www.kanjitomo.net/)
-- [Manga OCR](https://github.com/kha-white/manga-ocr)
-- [Mokuro](https://github.com/kha-white/mokuro)
-- [Poricom](https://github.com/blueaxis/Poricom)
-- [Yomiwa](https://www.yomiwa.net/)
-
-:::danger Don't use MTL
-Using Machine Translation to translate manga will be a mess. Manga has lots of slang, cultural references, and visual elements that MTL won't understand. So, it's better to have a human translator who knows the language and culture well. You don't want to end up with a wonky or inaccurate translation!
-
-== Fansubbing
-- [Aegisub](https://aegisub.org/) :ic-baseline-window::mingcute-linux-fill:<Badge type="tip" icon="i-octicon-repo-forked" text="Fork" link="https://github.com/arch1t3cht/Aegisub" />
-- [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) :ic-baseline-window:
-- [mpvQC](https://github.com/mpvqc/mpvQC) :ic-baseline-window:
-- [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-
-== Discord Bots
-- [AniSearch](https://github.com/IchBinLeoon/anisearch-discord-bot) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://ichbinleoon.github.io/anisearch-discord-bot/#/" />
-- [Ryuuzaki Ryuusei](https://github.com/nattadasu/ryuuRyuusei)
-- [Yuuko](https://github.com/YuuCorp/Yuuko)
-- [MangaUpdates Bot](https://github.com/jckli/mangaupdates-bot)
-- [Manhwa Updates Bot](https://github.com/MooshiMochi/ManhwaUpdatesBot) 🦆
-- [Rinbot](https://rinbot.moe/)
-- [Michelle](https://github.com/JacenBoy/michelle) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://michelle.jacenboy.com/" />
-- Sneedex <Badge type="info" icon="i-logos-discord-icon" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" />
-- [Picsiv](https://github.com/jckli/picsiv)
-- [Poketwo](https://poketwo.net/)
-
-== Others
-
-- [Hydrus network](https://hydrusnetwork.github.io/hydrus/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [osu! Cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner) :ic-baseline-window:
-- [PreMiD](https://premid.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Textractor](https://github.com/Artikash/Textractor) :ic-baseline-window:
-
 :::
