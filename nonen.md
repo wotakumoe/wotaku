@@ -70,13 +70,6 @@ Otaku resources for other languages/regions.
 
 ## Chinese
 
-
-
-
-
-
-
-
 :::tabs
 
 == Anime
@@ -102,7 +95,9 @@ Otaku resources for other languages/regions.
 - [ACG](https://acg.rip/)
 - [ACGNX](https://share.acgnx.se/)
 
-== Manga
+== Comic
+
+### General
 - [69xinshu](https://www.69xinshu.com/)
 - [8Comic](https://www.comicabc.com/)
 - [Baozimh.com](https://www.baozimh.com/) <Badge type="tip" text="2" link="https://www.kukuc.co/" /><Badge type="tip" text="3" link="https://www.webmota.com/" />
@@ -113,6 +108,21 @@ Otaku resources for other languages/regions.
 - [Manhua Gui](https://www.manhuagui.com/)
 - [Qumanku](http://www.sumanku.com/)
 - [XManhua](https://xmanhua.com/)
+
+### NSFW
+- [55Comic](https://www.55comic.com/)
+- [HD Comic](https://www.hdcomic.com/)
+- [JAV Comics](https://javcomics.com/)
+- [JMWU](https://jmwu.xyz/) <Badge type="tip" text="2" link="https://jmzj.xyz/" />
+- [VIPToon](https://viptoon.xyz/)
+
+== Novel
+
+- [Light Novel](https://www.lightnovel.us/)
+- [23qb](https://www.23qb.net/)
+- [SF ACG](https://book.sfacg.com/)
+- [ESJ Zone](https://www.esjzone.cc/)
+
 
 == Software
 
