@@ -324,12 +324,14 @@ Otaku resources for other languages/regions.
 
 ### Anime
 - [Anime Odcinki](https://anime-odcinki.pl/)
+- [Animesub](http://animesub.info/)
 - [Anime Zone](https://www.animezone.pl/)
 - [Desu Online](https://desu-online.pl/)
 - [Docchi](https://docchi.pl/) <Badge text="Github" link="https://github.com/docchipl/shinden-description" />
 - [Dragon Subs](https://dragonsubs.pl/)
 - [Frixy Subs](https://frixysubs.pl/)
 - [Fumetsu](https://fumetsu.pl/)
+- [Grupa Mirai](https://www.grupa-mirai.pl/)
 - [Mior Subs](https://miorosubs.pl/)
 - [Nana Subs](https://nanasubs.com/)
 - [Okami-subs](https://okami-subs.pl/)
