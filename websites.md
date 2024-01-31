@@ -27,7 +27,10 @@ uBlock Origin. You can also use [FastForward](https://fastforward.team/) or [Byp
 
 ## Anime
 
-If you want to get the best quality, use direct download, IRC, or torrent. You can obtain full web release quality on a streaming site that scrapes the official site API, such as [KickAssAnime](https://kickassanime.am/) for Crunchyroll and Bilibili content. Otherwise, it is hard to maintain the full quality while managing space & traffic. You can [**network stream**](/Guides/ns.md) files from direct download, irc and torrents.
+:::details :material-symbols-chat-info: Anime File Quality
+
+The quality of the anime file depends on the [**source**](/glossary/anime#source) as well as how it's been ripped and encoded. In general blu-ray release contains the best quality with reanimated, uncensored or extra scenes. [**Nyaa**](https://nyaa.si/), IRC and some DDL websites don't compress the uploaded file. On the other hand, aggregators like [**Aniwave**](https://aniwave.to/home), [**KickAssAnime**](https://kickassanime.am/) & [**Aniwatch**](https://aniwatch.to/home) re-encode them further. They sacrifice some of the quality in favor of smaller file sizes, thereby maintaining a smoother user experience on their sites. [**KickAssAnime**](https://kickassanime.am/) has a player (duckstream) that streams using Crunchyroll API, so you can get full WebDL quality from there. [**SeaDex**](https://releases.moe/) & [**Sneedex**](https://sneedex.moe/) rank their picks of the best quality rips for a variety of shows.
+:::
 
 :::tabs
 
@@ -167,29 +170,32 @@ On Android, use <Badge type="tip" icon="i-custom-1dm" text="1DM" link="https://p
 
 ## Manga
 
+:::details :material-symbols-chat-info: Manga File Quality
 
-For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Madokami**](/guides/mado.md). They have very little compression, if any (ignoring jpeg or other image formats' compression).
+Just like with anime, manga image quality depends on the [**source**](/guides/digim) and how it's been ripped, with volume release usually being better than [**CaaS**](/glossary/manga#publisher) release. If you want to download officially translated manga, [**Nyaa**](https://nyaa.si/) is always the best source, though some of the rippers upload upscalled SD rips. We have listed the most trusted rippers in the Nyaa section. Some of the DDL sites reupload their releases, but with added compression (e.g. [**Comick**](https://comick.cc/home), [**Mangasee**](https://mangasee123.com/), [**MangaFire**](https://mangafire.to/home), [**Batoto**](https://battwo.com/v3x), [**Mangapark**](https://mangapark.net/)). On the other hand, [**Madokami**](/guides/mado) doesn't do any compression, but you need a bit of luck to quickly gain access.
+
+:::
 
 :::tabs
 
 == Reader
 
+- [**Comick**](https://comick.cc/home) 🦆 <Badge type="danger" text="18+" />
+  - Minimal compression
+  - Aggregates from various scanlation groups
+  - Has official translations
+  - Reader isn't as good as mangadex
 - [**Mangadex**](https://mangadex.org/) <Badge type="danger" text="18+" />
   - Uploads without compression
   - Best reader UI
   - Uploads from various scanlation groups
   - No official translations<sup>[*](https://mangadex.org/rules#content_restrictions)</sup> since it was created for fansub
   - May remove content if there is a DMCA request by the publisher or doesn't allow upload at all (e.g. One Punch-Man)
-- [**Comick**](https://comick.cc/home) 🦆 <Badge type="danger" text="18+" />
-  - Minimal compression
-  - Aggregates from various scanlation groups
-  - Has official translations
-  - Reader isn't as good as mangadex
 - [**Mangasee**](https://mangasee123.com/) <Badge type="tip" text="2" link="https://manga4life.com/" /><Badge type="tip" text="Alt" link="https://atsu.moe/" />
   - Has official translations
   - Compresses chapter images
   - Chapter updates are relatively slow
-- [**Manga Fire**](https://mangafire.to/home)
+- [**MangaFire**](https://mangafire.to/home)
   - The UI is very clean with notification system
   - Uploads both chapter(multi-lang) & volume releases
   - Basic reader UI
