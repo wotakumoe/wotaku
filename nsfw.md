@@ -23,7 +23,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [Hentai World](https://hentaiworld.tv/)
 - [Mucho Hentai](https://muchohentai.com/) <Badge type="info" text="Schedule" /><Badge type="info" text="PV" />
 - [Oppai](https://oppai.stream/) <Badge type="info" text="4K" />
-- [Rule34](https://www.rule34.dev/)
+- [Rule34](https://rule34video.com/)
 
 
 == Manga
@@ -78,6 +78,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [Pixiv Viewer](https://pixiv.pics/) 🦆
 - [Rule34](https://rule34.xxx/)
 - [Rule34.dev](https://rule34.dev/)
+- [Rule 34 Paheal](https://rule34.paheal.net/)
 - [Sankaku Complex](https://chan.sankakucomplex.com/)
 - [Yandere](https://yande.re/post)
 
