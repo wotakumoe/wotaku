@@ -79,6 +79,7 @@ The quality of the anime file depends on the [**source**](/glossary/anime#source
 
 - [Tokyo Insider](https://www.tokyoinsider.com/) <Badge type="info" text="Direct" /><Badge type="info" text="no ad" />
 - [Anime out](https://www.animeout.xyz/) <Badge type="info" text="Direct" /><Badge type="info" text="no ad" />
+- [Flugel Anime](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9mbHVnZWwtYW5pbWUuY29tLw) <Badge type="info" text="Direct" /><Badge type="info" text="no ad" />
 - [Judas](https://rentry.org/judas-ddl) <Badge type="info" text="GDrive" /><Badge type="info" text="no ad" />
 - [hi10anime](https://hi10anime.com/) <Badge type="info" text="Direct" /><Badge type="info" text="ad" />
 - [Anime Senpai](https://www.animesenpai4u.com/) <Badge type="info" text="GDrive" /><Badge type="info" text="Mega" /><Badge type="info" text="no ad" />
