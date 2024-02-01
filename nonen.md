@@ -305,7 +305,6 @@ Otaku resources for other languages/regions.
 - [Comics 888](https://comics888.com/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
 - [DL Raw net](https://dlraw.net/category/raw-manga/) <Badge type="tip" text="2" link="https://manga-zip.info/category/raw-manga/" /> <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
 - [DL Zip](https://dl-zip.com/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [Itazura Neko](https://djtguide.github.io/library/manga/subete) <Badge type="info" text="Novel" />
 - [JP DDL](https://jpddl.com/manga) <Badge type="danger" text="18+" />
 - [Manga Zone](http://www.manga-zone.org/) <Badge type="info" text="Novel" />
 - [Raw Cans](http://raw-cans.net/) <Badge type="danger" text="18+" /><Badge type="info" text="Magazine" />
