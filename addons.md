@@ -129,6 +129,7 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 == Manga
 
 - [**Free Manga Downloader 2**](https://github.com/dazedcat19/FMD2) :ic-baseline-window:<tooltip><ul><li>Supports almost every major site</li><li>You can add your own account</li><li>Highly configurable with downloading automation</li><li>Has converter and a lot of great tools</li></ul></tooltip>
+- [**Red Squirrel's Manga Downloader**](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader) :ic-baseline-window::mingcute-linux-fill:
 - [**Hakuneko**](https://github.com/manga-download/hakuneko) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<tooltip><ul><li>Currently the best downloader</li><li>Huge number of sites supported</li><li>Customizable UI</li><li>Can download anime too</li></ul></tooltip>
 - [**MangaL**](https://github.com/metafates/mangal) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<tooltip><ul><li>TUI based</li><li>Very Fast</li><li>You can add your own lua scrapers for non-supported sites (mangadex and mangasee already supported)</li></ul></tooltip>
 - [**Mangadex Downloader**](https://github.com/mansuf/mangadex-downloader) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<tooltip><ul><li>CLI based</li><li>Mangadex downloader</li><li>Easy to use and fast</li></ul></tooltip>
