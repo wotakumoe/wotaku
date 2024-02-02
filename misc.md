@@ -204,8 +204,8 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [ArtStation](https://www.artstation.com/) <Badge type="danger" text="18+" />
 - [DeviantArt](https://www.deviantart.com/) <Badge type="danger" text="18+" />
 - [Misskey.io](https://misskey.io/) <Badge type="tip" text="Others" link="https://misskey-hub.net/en/servers/" />
-- [Pixiv](https://www.pixiv.net) <Badge type="tip" text="Fanbox" link="https://www.fanbox.cc/" /><Badge type="danger" text="18+" />
-- [Pixiv Viewer](https://pixiv.pics/) <Badge type="danger" text="18+" /> 🦆
+- [Newgrounds](https://www.newgrounds.com/art)
+- [Pixiv](https://www.pixiv.net) <Badge type="tip" text="Fanbox" link="https://www.fanbox.cc/" /><Badge type="tip" text="Alt" link="https://pixiv.pics/" /><Badge type="danger" text="18+" /> 🦆
 - [Tumblr](https://www.tumblr.com/) <Badge type="danger" text="18+" />
 - [Twitter](https://twitter.com/home) <Badge type="tip" text="Alt" link="https://nitter.cz/" /><Badge type="danger" text="18+" />
 
@@ -224,7 +224,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Kemono](https://kemono.su/) <Badge type="danger" text="18+" />
 - [Studio Ghibli](https://www.ghibli.jp/info/013772/)
 - [Wallhaven](https://wallhaven.cc/) <Badge type="danger" text="18+" />
-- [🍀/w/](http://catalog.neet.tv/w/) <Badge type="danger" text="18+" />
+- [🍀/w/](http://catalog.neet.tv/w/) <Badge type="danger" text="18+" /><Badge type="danger" text="NSFL" />
 
 :::
 
