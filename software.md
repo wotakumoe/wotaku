@@ -34,9 +34,9 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
   - Can be used offline
   - Also offers manga reader
   - Anilist and MAL sync
-
 :::details More {open}
-- [Miru](https://miru.js.org/)
+- [Miru](https://miru.js.org/) <Badge text="manga" />
+- [Kaguya](https://github.com/hoangvu12/kaguya-app) <Badge type="tip" text="Guide" link="https://rentry.co/zz8r7dsy" /> <tooltip><ul><li>Anilist API based app</li><li>Have to sideload extensions</li><li>Official repo contains popular sites including Crunchyroll</li><li>Still a new app and lacks customization</li><li>Due to API, may face indexing issues</li><li>Some of the extensions may not work</li></ul></tooltip>
 - [Kaizoyu!](https://github.com/astarivi/Kaizoyu) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://kaizoyu.ovh" /><Badge type="info" text="XDCC" />
 - [Animity](https://github.com/kl3jvi/animity)
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
