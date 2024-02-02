@@ -319,7 +319,7 @@ Just like with anime, manga image quality depends on the [**source**](/guides/di
 - [Anithemes.moe](https://animethemes.moe/) <Badge type="info" text="Alt" link="https://themes.moe/" /><Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/AnimeThemes" />
 - [Karaoke Mugen](https://kara.moe)
 - [Anisong Database](https://anisongdb.com/) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" /><Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/xSardine/AMQ-Artists-DB" />
-- [Squidify](https://www.squidify.org/)
+- [Squidify](https://www.squidify.org/) <Badge type="tip" text="Guide" link="/guides/squidify" />
 
 ### General
 - [Spotify](https://spotify.com/)
