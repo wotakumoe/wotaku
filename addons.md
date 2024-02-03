@@ -81,9 +81,10 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 == Tracker
 
 ### AniList
-- [AniHyou](https://github.com/axiel7/AniHyou-android) <Badge type="tip" icon="i-mdi-android" text="Android" link="https://play.google.com/store/apps/details?id=com.axiel7.anihyou" />
-- [Apps for AniList](https://AniList.co/apps)
+- [AL-Chan](https://play.google.com/store/apps/details?id=com.zen.alchan) :mdi-android:
+- AniHyou <Badge type="tip" icon="i-mdi-android" text="Android" link="https://github.com/axiel7/AniHyou-android" /><Badge type="tip" icon="i-ic-baseline-apple" text="iOS" link="https://github.com/axiel7/AniHyou-iOS" />
 - [Kurumi](https://github.com/subrotokumar/kurumi) :mdi-android:
+- [More Apps for AniList](https://AniList.co/apps) :mdi-android::ic-baseline-apple:
 
 ### MyAnimeList
 - DailyAL <Badge type="tip" icon="i-mdi-android" text="Android" link="https://play.google.com/store/apps/details?id=com.teen.dailyanimelist&hl=en&gl=US" />
