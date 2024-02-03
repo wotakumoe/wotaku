@@ -34,12 +34,16 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 
 == Downloader
 
+### Direct
 - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) :mdi-android:
-- [ADM](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US) :mdi-android:
+- [ADM](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US) :mdi-magnet::mdi-android:
+- [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) :mdi-android:
+
+### Torrent
 - [iTorrent](https://github.com/XITRIX/iTorrent) :ic-baseline-apple:
 - [libretorrent](https://github.com/proninyaroslav/libretorrent) :mdi-android:
+- [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) :mdi-android:
 - [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa&hl=en&gl=US) :mdi-android:<Badge type="info" text="Nyaa.si" />🦆
-- [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) :mdi-android:
 
 == Media
 
