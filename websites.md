@@ -181,7 +181,7 @@ Just like with anime, manga image quality depends on the [**source**](/guides/di
 
 == Reader
 
-- [**Comick**](https://comick.cc/home) 🦆 <Badge type="danger" text="18+" />
+- [**Comick**](https://comick.cc/home) <Badge type="tip" text="RSS" icon="i-material-symbols-rss-feed-rounded" link="https://manga.ldez.workers.dev/" /> <Badge type="danger" text="18+" /> 🦆
   - Minimal compression
   - Aggregates from various scanlation groups
   - Has official translations
