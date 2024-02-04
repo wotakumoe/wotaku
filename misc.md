@@ -235,7 +235,6 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 :::tabs
 == General
 ### News
-- [Anime Collective](https://animecollective.com/)
 - [Anime News Network](https://www.animenewsnetwork.com/) <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/anime" />🦆
 - [Crunchyroll News](https://www.crunchyroll.com/news)
 - [MAL News](https://myanimelist.net/news) <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/myanimelist" />
@@ -243,10 +242,12 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Otaku News](https://www.otakunews.com/)
 
 ### Blog / Interview
-- [Anime Nano](https://www.animenano.com/)
+- [Anime Blog Tracker](https://aniblogtracker.com/) <Badge text="Aggregator" /> 🦆
+- [Anime Nano](https://www.animenano.com/) <Badge text="Aggregator" />
 - [Animétudes](https://animetudes.com/) 🦆
+- [artist_unknown](https://artistunknown.info/)
 - [Let's Anime](https://letsanime.blogspot.com/)
-- [Sakuga Blog](https://blog.sakugabooru.com/)
+- [Sakuga Blog](https://blog.sakugabooru.com/) 🦆
 - [Zimmerit](https://www.zimmerit.moe/)
 
 == Anime
@@ -258,9 +259,10 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 == Manga & LN
 
-- [Ezrat](https://twitter.com/Erzat110)
+- [Ezrat](https://twitter.com/Erzat110)  <Badge type="info" icon="i-octicon-globe" text="Web" link="https://erzat.blog/" />
 - [Josu Ke](https://twitter.com/Josu_ke)
 - [Manga Alerts](https://twitter.com/MangaAlerts)
+- [Manga Bookshelf](https://mangabookshelf.com/)
 - [Manga Mogura RE](https://twitter.com/MangaMoguraRE) 🦆
 - [Manga Splaining](https://www.mangasplaining.com/)
 - [Shonen Jump News](https://twitter.com/WSJ_manga) 🦆
