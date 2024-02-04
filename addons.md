@@ -479,6 +479,7 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 - [Slav Art User Scripts](https://rentry.org/slavartuserscripts)
 
 ### Misc
+- [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)
 - [Fandom Fixed](https://github.com/squabbled/FandomFixed)
 
 :::
