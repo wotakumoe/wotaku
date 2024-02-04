@@ -266,6 +266,14 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 - [Sonic Visualiser](https://www.sonicvisualiser.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Spek](https://www.spek.cc/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
+:::details **Must Read Guides** {open}
+- [redacted Interview Prep](https://interviewfor.red/en/index.html) 🦆
+- [Sharky's Guide](https://docs.google.com/document/d/1Poj4p2W0C0Napmwd7bcustlgWrkgp71dy9HlZwUr46w/edit) 🦆
+  - [Exact Audio Copy: A Guide to Perfect CD Rips](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg)
+  - [EAC: CD Burning Guide](https://docs.google.com/document/d/1f0ZtHC8phVccLWc-81gNNpy1HARasN07B3j0otwS0cI/edit)
+  - [XLD Guide](https://docs.google.com/document/d/1JPErA-6_2yN-WMVcFGNdIurwFS5cpqNC8GtKrOorDf8/edit)
+- [Music Hoarders Wiki](https://musichoarders.xyz/)
+
 == Video
 
 ### Local
