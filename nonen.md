@@ -226,7 +226,7 @@ Otaku resources for other languages/regions.
 
 - **Stream**
     - [Anime Fever](https://animefever.fun/)
-    - [Animerulez](https://animerulz.in/home/)
+    - [Animerulz](https://animerulz.pro/home/)
     - [Anplay](https://anplay.in/)
     - [Animeworld](https://anime-world.in/)
     - [Dora Bash](https://doraemontheanime.com/)
