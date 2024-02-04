@@ -258,17 +258,23 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
   - [Karaoke Mugen](https://mugen.karaokes.moe/en/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
 ### Tools
-- [Bitter](https://www.stillwellaudio.com/plugins/bitter/) :ic-baseline-window::ic-baseline-apple:
-- [dBpoweramp](https://www.dbpoweramp.com/) :ic-baseline-window::ic-baseline-apple:<Badge type="warning" text="Trialware" />
-- [Exact Audio Copy](https://exactaudiocopy.de/) :ic-baseline-window:
-- [fre:ac](https://www.freac.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [MP3Tag](https://www.mp3tag.de/en/) :ic-baseline-window::ic-baseline-apple:
-- [Sonic Visualiser](https://www.sonicvisualiser.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Spek](https://www.spek.cc/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- **Converter & Ripper**
+  - [dBpoweramp](https://www.dbpoweramp.com/) :ic-baseline-window::ic-baseline-apple:<Badge type="warning" text="Trialware" />
+  - [Exact Audio Copy](https://exactaudiocopy.de/) :ic-baseline-window:
+  - [fre:ac](https://www.freac.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+  - [X Lossless Decoder](https://tmkk.undo.jp/xld/index_e.html) :ic-baseline-apple:
+  - [Whipper](https://github.com/whipper-team/whipper) :mingcute-linux-fill:
+- **Checker / Visualizer**
+  - [Bitter](https://www.stillwellaudio.com/plugins/bitter/) :ic-baseline-window::ic-baseline-apple:
+  - [cambia LogTools](https://logs.musichoarders.xyz/) :mdi-firefox::mingcute-chrome-fill:
+  - [Sonic Visualiser](https://www.sonicvisualiser.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+  - [Spek](https://www.spek.cc/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- **Tagger**
+  - [MP3Tag](https://www.mp3tag.de/en/) :ic-baseline-window::ic-baseline-apple:
 
 :::details **Must Read Guides** {open}
-- [redacted Interview Prep](https://interviewfor.red/en/index.html) 🦆
-- [Sharky's Guide](https://docs.google.com/document/d/1Poj4p2W0C0Napmwd7bcustlgWrkgp71dy9HlZwUr46w/edit) 🦆
+- [redacted Interview Prep](https://interviewfor.red/en/index.html)
+- [Sharky's Guide](https://docs.google.com/document/d/1Poj4p2W0C0Napmwd7bcustlgWrkgp71dy9HlZwUr46w/edit)
   - [Exact Audio Copy: A Guide to Perfect CD Rips](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg)
   - [EAC: CD Burning Guide](https://docs.google.com/document/d/1f0ZtHC8phVccLWc-81gNNpy1HARasN07B3j0otwS0cI/edit)
   - [XLD Guide](https://docs.google.com/document/d/1JPErA-6_2yN-WMVcFGNdIurwFS5cpqNC8GtKrOorDf8/edit)
