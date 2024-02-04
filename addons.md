@@ -347,7 +347,9 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 :::danger Don't use MTL
 Using Machine Translation to translate manga will be a mess. Manga has lots of slang, cultural references, and visual elements that MTL won't understand. So, it's better to have a human translator who knows the language and culture well. You don't want to end up with a wonky or inaccurate translation!
 
-== Discord Bots
+
+== Others
+### Discord bots
 - [AniSearch](https://github.com/IchBinLeoon/anisearch-discord-bot) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://ichbinleoon.github.io/anisearch-discord-bot/#/" />
 - [Ryuuzaki Ryuusei](https://github.com/nattadasu/ryuuRyuusei)
 - [Yuuko](https://github.com/YuuCorp/Yuuko)
@@ -357,10 +359,8 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 - [Michelle](https://github.com/JacenBoy/michelle) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://michelle.jacenboy.com/" />
 - Sneedex <Badge type="info" icon="i-logos-discord-icon" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" />
 - [Picsiv](https://github.com/jckli/picsiv)
-- [Poketwo](https://poketwo.net/)
 
-== Others
-
+### Misc
 - [osu! Cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner) :ic-baseline-window:
 - [PreMiD](https://premid.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Textractor](https://github.com/Artikash/Textractor) :ic-baseline-window:
