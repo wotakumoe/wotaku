@@ -22,9 +22,27 @@ Connect to **Rizon IRC network**.
 
 ![](/ss/mado/cnnctrzn.png)
 
+:::details For Revolution IRC {open}
+
+![](/ss/mado/rirc.png)
+
+By default, Revolution IRC doesn't list any networks, so you will need to add Rizon manually by following these steps:
+1. Tap the :mdi-plus-circle: button in the bottom right corner of the screen
+2. Set network name as `Rizon`
+3. Set server address as `irc.rizon.net`
+4. The port used is `6697` by default, set it to `9999` in case of connection issues
+5. **Enable** SSL/TLS
+6. Set your desired nickname
+7. Save the configuration
+8. You will now see the Rizon network on the main screen. Click on it to start the joining process
+
+:::
+
+<Button icon="i-fxemoji-warningsign">If you face any issues when connecting, try enabling "Accept invalid SSL certificates" in the network options</Button>
+
 ## Step 2
 
-:::danger Readme
+:::danger ⚠️ **Important**
 - Use a real e-mail address. Temporary and throw-away e-mail addresses are not acceptable.
 - Check spam/junk folder too, if you don't see any reply in the inbox.
 - Make sure that your password is longer than 5 characters
@@ -42,10 +60,6 @@ Connect to **Rizon IRC network**.
 Now, your nickname is registered, and you've automatically been identified. You are eligible to join Madokami.
 Upon your next visit to Rizon IRC network, use the same nickname, and identify using the following command: `/msg NickServ IDENTIFY yourPassword`
 
-You can also set up your client to do this automatically by adding it to the **Connect/Autorun commands** for the Rizon network.
-- Hexchat: `HexChat (field in the upper left corner) > Network list > Rizon > Edit > Connect commands > Add`
-- Revolution: `Long press on the network > Edit > Autorun command field > Paste > Save`
-
 ## Step 3
 
 1. Type `/join #madokami` at the bottom command bar to join Madokami channel.
@@ -58,7 +72,36 @@ You will now see **Sola** at the left sidebar.
 - If you are lucky, sola will say "**ok enjoy ur account**"
 - If unlucky, sola will say "**you are not favored, try again later**"
 
+![](/ss/mado/gacha.gif)
+
 Repeat this step until you get an account, the cooldown should be 4 hours.
+
+
+:::details 💡Auto-join Madokami Channel {open}
+You can also set up your client to do this automatically by adding it to the **Connect/Autorun commands** for the Rizon network.
+### Hexchat
+1. Press `Ctrl + S` to open Network List & select **Rizon** in the network list
+2. Click **Edit**
+3. In **Connection Command**, click on **Add**
+4. Add `msg NickServ IDENTIFY yourPassword`
+5. In **Autojoin Channels**, click on **Add**
+6. Add `#madokami`
+7. **Check** "Connect to this network automatically"
+8. **Uncheck** "Use global user information"
+9. In **Nick name** add your registered nickname
+10. In **Second choice** add your registered nickname with "_" at the end
+
+![](/ss/mado/autohex.png)
+
+### Revolution IRC
+1. Long press on the rizon network
+2. Click on **Edit**
+3. Add `#madokami` in **Auto-join channels**
+4. Add `msg NickServ IDENTIFY yourPassword` in **Auto-run commands**
+
+![](/ss/mado/autorev.png)
+:::
+
 
 ## Tachiyomi
 

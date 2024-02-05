@@ -17,7 +17,7 @@ IRC (Internet Relay Chat) is a real-time messaging protocol, while XDCC (eXtende
 4. Join the server and the channel of the bot and send the command message
 5. It will show a pop up for the download.
 
-<Button icon="i-fxemoji-warningsign">You may face some issue if you turn on SSL while logging in</Button>
+<Button icon="i-fxemoji-warningsign">If you face any issues when connecting, try enabling "Accept invalid SSL certificates" in the network options</Button>
 
 ## IRC Client
 - [Revolution IRC](https://play.google.com/store/apps/details?id=io.mrarm.irc)		<Badge type="info" text="Android" />
