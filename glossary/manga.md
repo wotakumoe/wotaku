@@ -82,7 +82,7 @@ It's newer type of comics format. Long strip comics are drawn for smartphone rea
 
 <br>
 
-Occasionally, the publisher also releases the physical version, with panels strategically rearranged to accommodate the right-left/left-right reading direction. Example: [Solo Leveling Vol. 1 by Yen Press](https://yenpress.com/titles/9781975319458-solo-leveling-vol-2-comic)
+Occasionally, the publisher also releases the physical version, with panels strategically rearranged to accommodate the right-left/left-right reading direction. Example: [Solo Leveling Vol. 2 by Yen Press](https://yenpress.com/titles/9781975319458-solo-leveling-vol-2-comic)
 
 
 <div class="video_wrapper"><iframe src="https://iv.ggtyler.dev/embed/S6EloIXKWj4" frameborder="0" allowfullscreen></iframe></div>
