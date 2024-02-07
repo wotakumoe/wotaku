@@ -440,15 +440,6 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Hololive MMD Models](https://3d.nicovideo.jp/users/89765617/works) 
 - [HoloSchedule](https://github.com/YunzheZJU/holo-schedule) <Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chromewebstore.google.com/detail/holoschedule/fjicegllhddldnnkgfefblholeegpcad" /><Badge type="tip" icon="i-logos-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/holo-schedule/" />
 
-== NIJISANJI
-
-- [NIJISANJI](https://www.nijisanji.jp/en) <Badge type="info" text="Schedule" /><Badge type="info" text="DB" /><Badge type="info" text="News" />
-- [Nijisanji unofficial wiki](https://wikiwiki.jp/nijisanji/) <Badge type="info" text="Schedule" /><Badge type="info" text="DB" /><Badge type="info" text="News" />
-- [NijiEN Calender](https://nijien.vercel.app/) <Badge type="info" text="DB" />
-- [NijiMado](https://niji-mado.web.app/home) <Badge type="info" text="Steam" /> <tooltip> Go to DevTools (press F12 key) > Console tab & input the following code. After that refresh the page. `localStorage.setItem('rulePauseOther', 0);`. You only need to do this once, or until your browser data is cleared. </tooltip>
-- [NijisanjiEN Teamup](https://teamup.com/ks1mraas71v3fjf1c2) <Badge type="info" text="Schedule" />
-- [Liver](https://github.com/zigamacele/liver) <Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chromewebstore.google.com/detail/liver/pjnhlmepkmjikjjmbaiabncnhcbkphfh?hl=en" />
-
 == Youtube
 
 ### Animators
