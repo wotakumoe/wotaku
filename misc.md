@@ -467,7 +467,6 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == Socials
 
 - Hololive <Badge type="tip" icon="i-logos-twitter" text="JP" link="https://twitter.com/hololivetv" /><Badge type="tip" icon="i-logos-twitter" text="EN" link="https://twitter.com/hololive_En" /><Badge type="tip" icon="i-logos-discord-icon" text="Fan Discord" link="https://discord.gg/holofans" /><Badge type="tip" icon="i-logos-reddit-icon" text="Reddit" link="https://www.reddit.com/r/Hololive/" />
-- Nijisanji <Badge type="tip" icon="i-logos-twitter" text="JP" link="https://twitter.com/nijisanji_app" /><Badge type="tip" icon="i-logos-twitter" text="EN" link="https://twitter.com/NIJISANJI_World" /><Badge type="tip" icon="i-logos-discord-icon" text="EN Fan Discord" link="https://discord.gg/nijienfans" /><Badge type="tip" icon="i-logos-reddit-icon" text="Reddit" link="https://www.reddit.com/r/Nijisanji/" />
 - VShojo <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/VShojo" /><Badge type="tip" icon="i-logos-discord-icon" text="Fan Discord" link="https://discord.com/invite/vshojo-fan-server-598886416545611790" /><Badge type="tip" icon="i-logos-reddit-icon" text="Reddit" link="https://www.reddit.com/r/VShojo/" />
 - PhaseConnect <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/PhaseConnect" /><Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/phaseconnect" />
 - idol <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/idol_corp" /><Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/idolcorp" />
@@ -561,6 +560,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Kris the Holoprosimp](https://twitter.com/KHolosimp)
 - [Tentacult Temple](https://twitter.com/Takodachis)
 - [VTubers Out Of Context](https://twitter.com/ENVTubersOOC)
+- [Screenshots from /vt/](https://twitter.com/VT_Screens)
 - [Chroneco](https://twitter.com/chrone_co)
 - [JQHN](https://twitter.com/JQHNHARQLD)
 
@@ -617,6 +617,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 - [Anisync](https://anisync.live/)
 - [BeatConnect](https://beatconnect.io/)
+- [/nise.moe/](https://nise.moe/)
 - [osu skinner](https://osuskinner.com/)
 - [osu!chan](https://osuchan.syrin.me/)
 - [osu!next Signature Generator](https://lemmmy.pw/osusig/)
