@@ -180,6 +180,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Utaite Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-utaite-music/)
 
 ### Playlists
+- [Vocamed](https://www.youtube.com/@vocamed)
 - [🍀/jp/ vocaloid playlist ](https://www.youtube.com/playlist?list=PLQqLx44OgzZybkIf7LZ2YI8iLL9b3BpJw)
 - [Vocaloid Big Hits](https://music.youtube.com/playlist?list=RDCLAK5uy_mgu07-HoqLSU-WqjK2ldEQWLuPPm3CAy8)
 
