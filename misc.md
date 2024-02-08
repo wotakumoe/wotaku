@@ -202,33 +202,42 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 :::tabs
 
 == Platforms
-- [ArtStation](https://www.artstation.com/) <Badge type="danger" text="18+" />
-- [DeviantArt](https://www.deviantart.com/) <Badge type="danger" text="18+" />
+
+- [ArtStation](https://www.artstation.com/)
+- [DeviantArt](https://www.deviantart.com/)
 - [Misskey.io](https://misskey.io/) <Badge type="tip" text="Others" link="https://misskey-hub.net/en/servers/" />
 - [Newgrounds](https://www.newgrounds.com/art)
-- [Pixiv](https://www.pixiv.net) <Badge type="tip" text="Fanbox" link="https://www.fanbox.cc/" /><Badge type="tip" text="Alt" link="https://pixiv.pics/" /><Badge type="danger" text="18+" /> 🦆
-- [Tumblr](https://www.tumblr.com/) <Badge type="danger" text="18+" />
-- [Twitter](https://twitter.com/home) <Badge type="tip" text="Alt" link="https://nitter.cz/" /><Badge type="danger" text="18+" />
+- [Pixiv](https://www.pixiv.net) <Badge type="tip" text="Alt" link="https://pixiv.pics/" />🦆
+- [Tumblr](https://www.tumblr.com/)
+- [Twitter](https://twitter.com/home) <Badge type="tip" text="Alt" link="https://nitter.cz/" />
+
+:::details Support Platforms
+- [BOOTH](https://booth.pm/en)
+- [Fantia](https://fantia.jp/)
+- [pixivFANBOX](https://www.fanbox.cc/)
+- [Skeb](https://skeb.jp/)
+- [VGen](https://vgen.co/)
 
 == Booru
-- [Booruwf](https://booru.pixiv.pics/) <Badge type="tip" text="Moeview" link="https://moeview.pixiv.pics/" /> <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/asadahimeka/booruwf-web" /><Badge type="danger" text="18+" /> 🦆
-- [Danbooru](https://danbooru.donmai.us/) <Badge type="danger" text="18+" /> <Badge type="green" link="https://safebooru.donmai.us/" text="SFW Ver"/>
-- [Gelbooru](https://gelbooru.com/) <Badge type="danger" text="18+" />
-- [Konachan](https://konachan.com/) <Badge type="danger" text="18+" />
-- [Safebooru](https://safebooru.org/)
-- [Sakuga Booru](https://www.sakugabooru.com/) <Badge type="tip" icon="i-logos-twitter" text="1" link="https://twitter.com/SakugaBlog" /><Badge type="tip" icon="i-logos-twitter" text="2" link="https://twitter.com/sakugaclips" />
-- [Yandere](https://yande.re/) <Badge type="danger" text="18+" />
-- [Zerochan](https://www.zerochan.net/)
+- [Booruwf](https://booru.pixiv.pics/) <Badge type="tip" text="Moeview" link="https://moeview.pixiv.pics/" /> <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/asadahimeka/booruwf-web" /> 🦆
+- [Danbooru](https://danbooru.donmai.us/) <Badge type="green" link="" text="SFW Version"/>
+- [Gelbooru](https://gelbooru.com/)
+- [Konachan](https://konachan.com/)
+- [Safebooru](https://safebooru.org/) <Badge type="green" text="SFW" />
+- [Sakuga Booru](https://www.sakugabooru.com/) <Badge type="tip" icon="i-logos-twitter" text="1" link="https://twitter.com/SakugaBlog" /><Badge type="tip" icon="i-logos-twitter" text="2" link="https://twitter.com/sakugaclips" /> <Badge type="green" text="SFW" />
+- [Yandere](https://yande.re/)
+- [Zerochan](https://www.zerochan.net/) <Badge type="green" text="SFW" />
 
 == Others
-- [Anime Pictures](https://anime-pictures.net/) <Badge type="danger" text="18+" />
-- [Kemono](https://kemono.su/) <Badge type="danger" text="18+" />
-- [Studio Ghibli](https://www.ghibli.jp/info/013772/)
-- [Wallhaven](https://wallhaven.cc/) <Badge type="danger" text="18+" />
-- [🍀/w/](http://catalog.neet.tv/w/) <Badge type="danger" text="18+" /><Badge type="danger" text="NSFL" />
+- [Anime Pictures](https://anime-pictures.net/) <Badge type="green" text="SFW" />
+- [Kemono](https://kemono.su/)
+- [Studio Ghibli](https://www.ghibli.jp/info/013772/) <Badge type="green" text="SFW" />
+- [Wallhaven](https://wallhaven.cc/)
+- [🍀/w/](http://catalog.neet.tv/w/) <Badge type="danger" icon="i-fxemoji-skull" text="NSFL" />
 
 :::
 
+<Button icon="i-fxemoji-nooneunder18symbol">All listed sites have NSFW content unless specified otherwise</Button>
 
 ![](/banner/portals.png)
 ## Portals
