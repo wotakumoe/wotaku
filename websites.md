@@ -6,31 +6,9 @@ customDescription: Discover the best websites for anime, manga, novels & more. E
 # Websites
 Online resources for anime, manga, novels and more.
 
-### Blocking Ads
-
-:::tabs
-
-== Android
-Install [**Firefox**](https://play.google.com/store/apps/details?id=org.mozilla.firefox) and add [**uBlock Origin**](https://addons.mozilla.org/en-US/android/addon/ublock-origin/). This should be more than enough. If you want system-wide support, try [**Adguard**](https://adguard.com/en/adguard-android/overview.html) or [**NextDNS**](https://nextdns.io/). You can watch [**this video**](https://youtu.be/WUG57ynLb8I), if you need guidance.
-
-== PC
-Install [**uBlock Origin**](https://ublockorigin.com/) in your browser and it's done! If you want system-wide solution, you *can* use [**NextDNS**](https://nextdns.io/) but it won't be as effective as 
-uBlock Origin. You can also use [FastForward](https://fastforward.team/) or [Bypass.city](https://bypass.city/) to *bypass* redirects.
-
-== iOS
-[**NextDNS**](https://nextdns.io/) should cover everything for system-wide ads & trackers. You can also try [**AhaDNS**](https://ahadns.com/).
-
-:::
-
-
 ![](/banner/anime.png)
 
 ## Anime
-
-:::details :material-symbols-chat-info: Anime File Quality
-
-The quality of the anime file depends on the [**source**](/glossary/anime#source) as well as how it's been ripped and encoded. In general blu-ray release contains the best quality with reanimated, uncensored or extra scenes. [**Nyaa**](https://nyaa.si/), IRC and some DDL websites don't compress the uploaded file. On the other hand, aggregators like [**Aniwave**](https://aniwave.to/home), [**KickAssAnime**](https://kickassanime.am/) & [**Aniwatch**](https://aniwatch.to/home) re-encode them further. They sacrifice some of the quality in favor of smaller file sizes, thereby maintaining a smoother user experience on their sites. [**KickAssAnime**](https://kickassanime.am/) has a player (duckstream) that streams using Crunchyroll API, so you can get full WebDL quality from there. [**SeaDex**](https://releases.moe/) & [**Sneedex**](https://sneedex.moe/) rank their picks of the best quality rips for a variety of shows.
-:::
 
 :::tabs
 
@@ -66,15 +44,6 @@ The quality of the anime file depends on the [**source**](/glossary/anime#source
 - [Baka BT](https://bakabt.me/) <Badge type="info" text="Private tracker" />
 - [U2](https://u2.dmhy.org/portal.php) <Badge type="info" text="Private tracker" />
 
-::: tip :bulb: Quick Tips {open}
-
-1. [Torrent Terms](https://en.wikipedia.org/wiki/Glossary_of_BitTorrent_terms).
-2. [Private Tracker Guide](https://rentry.co/private-trackers)
-3. Recommended torrent client for Android is <Badge type="tip" icon="i-custom-lt" text="libretorrent" link="https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent" />. For Windows, Linux & macOS, use <Badge type="tip" icon="i-custom-qb" text="qBittorrent" link="https://www.qbittorrent.org/" /> or <Badge type="tip" icon="i-custom-trans" text="Transmission" link="https://transmissionbt.com/" />
-4. For VPN, use <Badge type="tip" icon="i-custom-mv" text="Mullvad" link="https://mullvad.net/" /> or <Badge type="tip" icon="i-custom-ivpn" text="IVPN" link="https://www.ivpn.net/" />. If you want free alternative, use <Badge type="tip" icon="i-custom-wind" text="Windscribe" link="https://windscribe.com/" />.
-5. Use [Seadex](https://releases.moe/) or [Sneedex](https://sneedex.moe/) to find the best uploads available.
-6. Use [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa&hl=en&gl=US) as a Nyaa client on android. 🦆
-
 == Direct Download
 
 - [Tokyo Insider](https://www.tokyoinsider.com/) <Badge type="info" text="Direct" /><Badge type="info" text="no ad" />
@@ -89,9 +58,6 @@ The quality of the anime file depends on the [**source**](/glossary/anime#source
 - [JPFiles](https://jpfiles.net/) <Badge type="info" text="Blu-ray" /><Badge type="info" text="Misc" /><Badge type="info" text="Host" />
 - [JPLearner](http://www.jplearner.to/) <Badge type="info" text="Blu-ray" /><Badge type="info" text="Misc" /><Badge type="info" text="Host" />
 - [AnimeRSS](https://animerss.com/) <Badge type="info" text="Blu-ray" /><Badge type="info" text="Host" />
-
-:::tip Downloader {open}
-On Android, use <Badge type="tip" icon="i-custom-1dm" text="1DM" link="https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US" />. For PC, use <Badge type="tip" icon="i-custom-idm" text="IDM" link="https://www.internetdownloadmanager.com/" /> or <Badge type="tip" icon="i-custom-jdl" text="JDL" link="https://jdownloader.org/" /> . You can use JDL on Linux & macOS too. Use [**IAS**](https://massgrave.dev/idm-activation-script.html) to activate IDM. Read [**this guide**](https://rentry.org/jdownloader2) to debloat JDL.
 
 == IRC
 
@@ -131,10 +97,6 @@ On Android, use <Badge type="tip" icon="i-custom-1dm" text="1DM" link="https://p
   - Scrapes manga sites too (Mangadex, Katana, Batoto etc.)
   - Only chromium browsers are supported & needs browser extension to work
   - Crunchyroll may display incorrect shows that, in some cases, cannot be fixed due to limitations
-- [**AnimeUI**](https://animeui.com/)
-  - Great upload quality
-  - Uses IPFS to stream anime
-  - Small library & firefox isn't supported yet
 - [**Animeflix**](https://animeflix.live/) <Badge type="info" text="Proxies" link="https://animeflix.domains/" />
   - The main sources are scraper based (Gogo & Zoro)
   - Crunchyroll is available for some of the titles
@@ -171,15 +133,9 @@ On Android, use <Badge type="tip" icon="i-custom-1dm" text="1DM" link="https://p
 
 ## Manga
 
-:::details :material-symbols-chat-info: Manga File Quality
-
-Just like with anime, manga image quality depends on the [**source**](/guides/digim) and how it's been ripped, with volume release usually being better than [**CaaS**](/glossary/manga#publisher) release. If you want to download officially translated manga, [**Nyaa**](https://nyaa.si/) is always the best source, though some of the rippers upload upscalled SD rips. We have listed the most trusted rippers in the Nyaa section. Some of the DDL sites reupload their releases, but with added compression (e.g. [**Comick**](https://comick.cc/home), [**Mangasee**](https://mangasee123.com/), [**MangaFire**](https://mangafire.to/home), [**Batoto**](https://battwo.com/v3x), [**Mangapark**](https://mangapark.net/)). On the other hand, [**Madokami**](/guides/mado) doesn't do any compression, but you need a bit of luck to quickly gain access.
-
-:::
-
 :::tabs
 
-== Reader
+== Online
 
 - [**Comick**](https://comick.cc/home) <Badge type="tip" text="RSS" icon="i-material-symbols-rss-feed-rounded" link="https://manga.ldez.workers.dev/" /> <Badge type="danger" text="18+" /> 🦆
   - Minimal compression
@@ -278,7 +234,8 @@ Just like with anime, manga image quality depends on the [**source**](/guides/di
 - [Toru Scans](https://mangadex.org/group/69148b88-5740-434d-b62f-b67711ca490b/toruscans)  <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/vsugigg/toruscans" />
 - [What's typesetting](https://mangadex.org/group/d93016fa-0af4-4967-a1b3-7bd8a6a87483/what-s-typesetting)  <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/qmoi94j/what-s-typesetting" />
 
->I have tried to add all the well-known scanlators for manhwa and manhua, but for manga, it's not practical or possible to add all the famous ones. So I have added my favorite ones. Yes, this section is kind of biased.
+:::details Duck's Note
+I have tried to add all the well-known scanlators for manhwa and manhua, but for manga, it's not practical or possible to add all the famous ones. So I have added my favorite ones. Yes, this section is kind of biased.
 
 == Manhwa
 
@@ -453,7 +410,7 @@ Just like with anime, manga image quality depends on the [**source**](/guides/di
 :::tabs
 == General
 
-- [Nyaa](https://nyaa.si/?f=0&c=6_2&q=)
+- [Nyaa](https://nyaa.si/?f=0&c=6_2&q=)  <Badge type="green" text="SFW" />
 - [Nyaa sukebei](https://sukebei.nyaa.si/?f=0&c=1_3&q=)
 - [Ova Games](https://www.ovagames.com/)
 - [Dodi](https://dodi-repacks.site/)
@@ -464,6 +421,8 @@ Just like with anime, manga image quality depends on the [**source**](/guides/di
 - [Kimochi](https://kimochi.info)
 - [Anime Bytes](https://animebytes.tv/) <Badge type="info" text="Private tracker" />
 - [Gazelle Games](https://gazellegames.net/login.php) <Badge type="info" text="Private tracker" />
+
+<Button icon="i-fxemoji-nooneunder18symbol">All listed sites have NSFW content unless specified otherwise</Button>
 
 == ROM
 
