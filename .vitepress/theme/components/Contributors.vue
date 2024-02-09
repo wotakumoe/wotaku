@@ -25,10 +25,6 @@ const contribs = [
     site: "https://github.com/memenami",
   },
   {
-    avatar: "https://github.com/TubaApollo.png",
-    name: "Memenami",
-  },
-  {
     name: "Static",
     avatar: "https://github.com/whitenoisy.png",
     site: "https://github.com/whitenoisy",
