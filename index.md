@@ -11,6 +11,9 @@ hero:
     - theme: brand
       text: Quick Start
       link: /qs.md
+    - theme: brand
+      text: FAQs
+      link: /faq.md
     - theme: alt
       text: Star the Project
       link: https://github.com/anotherduckling/Wotaku

@@ -110,6 +110,7 @@ export default withPwa(
       logo: { src: "/asset/inaidle.webp", width: 29, height: 24 },
       sidebar: [
         { text: "⚡ Quick Start", link: "/qs" },
+        { text: "💬 FAQs", link: "/faq" },
         { text: "🌏 Websites", link: "/websites" },
         { text: "💾 Software", link: "/software" },
         { text: "🗃️ Misc-sites", link: "/misc" },
@@ -152,6 +153,7 @@ export default withPwa(
           text: "Pages",
           items: [
             { text: "⚡ Quick Start", link: "/qs" },
+            { text: "💬 FAQs", link: "/faq" },
             { text: "🌏 Websites", link: "/websites" },
             { text: "💾 Software", link: "/software" },
             { text: "🗃️ Misc-sites", link: "/misc" },
