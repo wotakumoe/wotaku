@@ -20,8 +20,12 @@ const contribs = [
     site: "https://github.com/TubaApollo",
   },
   {
-    avatar:
-      "https://yt3.googleusercontent.com/ZDmI8iWPd7kE0fHNRuH5DiNNY5tzyRKSVhW-X5YardXoS_vJ9CdqpfsWZwFbJ7tRMJKhdzeoew",
+    name: "Memenami",
+    avatar: "https://github.com/memenami.png",
+    site: "https://github.com/memenami",
+  },
+  {
+    avatar: "https://github.com/TubaApollo.png",
     name: "Memenami",
   },
   {
