@@ -220,7 +220,7 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
   - Tracking support
   - Downloading episode available
   - Small number of extensions 
-  - Only available trough sideloading
+  - Only available through sideloading
 
 == Manga
 
@@ -230,7 +230,7 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
   - Many different download options
   - AppStore Release only for selected countries
 - [**Aidoku**](https://github.com/Aidoku/Aidoku) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://aidoku.app/" />
-  - Available on Tesflight (no Sideloading needed)
+  - Available on Testflight (no Sideloading needed)
   - Many sources
   - Tracker support
   - Chapter download possible
