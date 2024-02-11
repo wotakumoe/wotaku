@@ -64,8 +64,8 @@ const contribs = [
   },
   {
     name: "Kai",
-    avatar: "https://github.com/Kai-FMHY.png",
-    site: "https://github.com/Kai-FMHY",
+    avatar: "https://github.com/officialkaizen.png",
+    site: "https://github.com/officialkaizen",
   },
   {
     name: "Kobayashi",
