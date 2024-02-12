@@ -76,7 +76,14 @@ You can use multiple sources. [Nyaa.si](https://nyaa.si/), [Madokami](/guides/ma
 :::
 
 
+:::details Where can I download manga in PDF?
+Use CBZ/CBR/ZIP for manga. PDF can create issues in spread and other scenarios. If you really wanna read manga in PDF, use [**Free Manga Downloader 2**](https://github.com/dazedcat19/FMD2) to download as PDF (you have to select PDF format in settings) or [**ACBR**](https://github.com/binarynonsense/comic-book-reader) to convert CBZ to pdf.
 
+:::
+
+:::details How do I setup my own manga server?
+Use [**Komga**](https://komga.org/). It will cover everything for you. Join their discord server for help (read docs before that!).
+:::
 
 ## Anime
 
