@@ -76,8 +76,8 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [Oreno3D](https://oreno3d.com/)
 - [Pixiv](https://www.pixiv.net)
 - [Pixiv Viewer](https://pixiv.pics/) 🦆
-- [Rule34.xxx](https://rule34.xxx/) <tooltip><ul><li>Paheal predates xxx.</li><li>xxx is built upon the Gelbooru platform, while Paheal utilizes the Shimmie2 engine.</li><li>xxx boasts a larger content library compared to Paheal.</li><li>xxx features an extensive tagging system, allowing searches based on descriptions or depicted acts, whereas Paheal categorizes content by characters, franchises, events (such as holidays), animations, and sound.</li><li>Paheal consistently offers featured posts, although occasionally they may be shocking. xxx does not have a regular feature post.</li><li>xxx permits larger file uploads, up to 100MB, whereas Paheal limits uploads to 10MB.</li><li>Paheal employs IP blocking for users who misuse the platform, including certain connections like proxies or lesser-known VPNs, resulting in indirect blocking or limitations. xxx does not have such extensive IP blocking measures.</li><li>Searching is more user-friendly on xxx compared to Paheal.</li></ul></tooltip>
-- [Rule 34 Paheal](https://rule34.paheal.net/)
+- [Rule34.xxx](https://rule34.xxx/) <tooltip><ul><li>Boasts a larger content library compared to Paheal.</li><li>Features an extensive tagging system, allowing searches based on descriptions or depicted acts.</li><li>Permits larger file uploads, up to 100MB.</li><li>Searching is more user-friendly compared to Paheal.</li></ul></tooltip>
+- [Rule 34 Paheal](https://rule34.paheal.net/) <tooltip><ul><li>Categorizes content by characters, franchises, events (such as holidays), animations, and sound.</li><li>Limits uploads to 10MB.</li></ul></tooltip>
 - [Rule34.dev](https://rule34.dev/)
 - [Sankaku Complex](https://chan.sankakucomplex.com/)
 - [Yandere](https://yande.re/post)
