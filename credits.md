@@ -9,19 +9,10 @@ prev: false
 import Credits from './.vitepress/theme/components/Contributors.vue'
 </script>
 
-::: center
-# Contributors
-A big thanks to everyone, for your dedications and resources
-
-<br>
-
-:::
 
 <Credits />
 
-
 <br>
-
 
 :::center
 # Resource Credits

@@ -1,99 +1,41 @@
 <script setup lang="ts">
 import { computed } from "vue";
+import { contribs, type Contributors } from "../../credits";
 
-interface ContributorInfo {
-  name: string;
-  avatar: string;
-  // Optional.
-  site?: string;
-}
-
-const contribs = [
-  {
-    name: "taskylizard",
-    avatar: "https://github.com/taskylizard.png",
-    site: "https://github.com/taskylizard",
-  },
-  {
-    name: "TubaApollo",
-    avatar: "https://github.com/TubaApollo.png",
-    site: "https://github.com/TubaApollo",
-  },
-  {
-    name: "Memenami",
-    avatar: "https://github.com/memenami.png",
-    site: "https://github.com/memenami",
-  },
-  {
-    name: "Static",
-    avatar: "https://github.com/whitenoisy.png",
-    site: "https://github.com/whitenoisy",
-  },
-  {
-    name: "Venlicht",
-    avatar: "https://github.com/RenaraScope.png",
-    site: "https://github.com/RenaraScope",
-  },
-  {
-    name: "Zinklog",
-    avatar: "https://github.com/zinklog2.png",
-    site: "https://github.com/zinklog2",
-  },
-  {
-    avatar: "https://github.com/knightmob.png",
-    name: "Abyss",
-    site: "https://github.com/knightmob",
-  },
-  {
-    avatar: "https://github.com/farahnur42.png",
-    name: "Fahim",
-    site: "https://github.com/farahnur42",
-  },
-  {
-    avatar: "/pfp/green.webp",
-    name: "Green",
-  },
-  {
-    avatar: "https://github.com/Helmasko.png",
-    name: "Helmasko",
-    site: "https://github.com/Helmasko",
-  },
-  {
-    name: "Ishtar",
-    avatar: "/pfp/ishtar.png",
-  },
-  {
-    name: "Kai",
-    avatar: "https://github.com/officialkaizen.png",
-    site: "https://github.com/officialkaizen",
-  },
-  {
-    name: "Kobayashi",
-    avatar: "https://github.com/kobayashi90.png",
-    site: "https://www.ryuko.space/",
-  },
-  {
-    name: "loocool",
-    avatar: "https://github.com/loocool2.png",
-    site: "https://github.com/loocool2",
-  },
-  {
-    name: "nuff",
-    avatar: "https://github.com/gengotech.png",
-    site: "https://github.com/gengotech",
-  },
-] satisfies ContributorInfo[];
-
-const contributors = computed(() => contribs || ([] as ContributorInfo[]));
+const contributors = computed(() => contribs || ({} as Contributors));
 </script>
 
 <template>
+  <h1 class="text-center">Core Team</h1>
+  <hr />
   <div class="flex flex-wrap gap-4 pt-2">
-    <div v-for="(c, index) of contributors" class="flex gap-2 items-center">
+    <div v-for="(c, index) of contributors.core" class="flex gap-2 items-center">
       <img :src="c.avatar" class="w-8 h-8 rounded-full" />
       <a v-if="c.site" :href="c.site">{{ c.name }}</a>
       <span v-else>{{ c.name }}</span>
-      <span v-if="index < contributors.length - 1"> • </span>
+      <span v-if="index < contributors.core.length - 1"> • </span>
+    </div>
+  </div>
+  <span />
+  <h1 class="text-center">Contributors</h1>
+  <hr />
+  <div class="flex flex-wrap gap-4 pt-2">
+    <div v-for="(c, index) of contributors.contributors" class="flex gap-2 items-center">
+      <img :src="c.avatar" class="w-8 h-8 rounded-full" />
+      <a v-if="c.site" :href="c.site">{{ c.name }}</a>
+      <span v-else>{{ c.name }}</span>
+      <span v-if="index < contributors.contributors.length - 1"> • </span>
+    </div>
+  </div>
+  <span />
+  <h1 class="text-center">Special Thanks to</h1>
+  <hr />
+  <div class="flex flex-wrap gap-4 pt-2">
+    <div v-for="(c, index) of contributors.special" class="flex gap-2 items-center">
+      <img :src="c.avatar" class="w-8 h-8 rounded-full" />
+      <a v-if="c.site" :href="c.site">{{ c.name }}</a>
+      <span v-else>{{ c.name }}</span>
+      <span v-if="index < contributors.special.length - 1"> • </span>
     </div>
   </div>
 </template>
