@@ -47,6 +47,12 @@ Otaku resources for other languages/regions.
 == Manga
 - [3asQ](https://3asq.org/)
 
+== Software
+
+### Android
+- [AnimeSlayer](https://anslayer.com/download.html) <Badge type="danger" text="Non-Foss" />
+- [Mangamello](https://play.google.com/store/apps/details?id=com.wael.mangamello) <Badge type="tip" text="Plus" link="https://play.google.com/store/apps/details?id=com.wael.mmplus"/> <Badge type="danger" text="Non-Foss" />
+
 :::
 
 
