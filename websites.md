@@ -417,6 +417,7 @@ I have tried to add all the well-known scanlators for manhwa and manhua, but for
 - [Gload](https://gload.to/)
 - [F95Zone](https://f95zone.to/) <Badge type="info" text="Needs account" />
 - [GOG](https://gog-games.to/)
+- [Moriya Shrine](https://moriyashrine.org/)  <Badge type="info" text="Touhou" />
 - [Doujin Style](https://doujinstyle.com/) <Badge type="info" text="Doujin" />
 - [Kimochi](https://kimochi.info)
 - [Anime Bytes](https://animebytes.tv/) <Badge type="info" text="Private tracker" />
@@ -426,16 +427,18 @@ I have tried to add all the well-known scanlators for manhwa and manhua, but for
 
 == ROM
 
-- [r/roms](https://r-roms.github.io/) <Badge type="info" text="ROM" />
-- [ROMSpure](https://romspure.cc/roms) <Badge type="info" text="General" />
-- [CDRomance](https://cdromance.com/) <Badge type="info" text="General" />
-- [nsw2u](https://nsw2u.xyz/) <Badge type="info" text="Switch" />
-- [Ziperto](https://www.ziperto.com/) <Badge type="info" text="Switch" />
-- [hShop](https://hshop.erista.me/) <Badge type="info" text="3DS" />
-- [NoPayStation](https://nopaystation.com/) <Badge type="info" text="Playstation" />
-- [AlvRo's Collection](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml)
-- [Vimm's Lair](https://vimm.net/vault/)
-- [Squid Proxy](https://www.squid-proxy.xyz/) <Badge type="info" text="General" />
+- **General**
+  - [r/roms](https://r-roms.github.io/) 🦆
+  - [ROMSpure](https://romspure.cc/roms)
+  - [CDRomance](https://cdromance.com/)
+  - [AlvRo's Collection](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml)
+  - [Vimm's Lair](https://vimm.net/vault/)
+  - [Squid Proxy](https://www.squid-proxy.xyz/)
+- **Platform Specific**
+  - [hShop](https://hshop.erista.me/) :simple-icons-nintendo3ds:
+  - [NoPayStation](https://nopaystation.com/) :simple-icons-playstation:
+  - [nsw2u](https://nsw2u.xyz/) :simple-icons-nintendoswitch:
+  - [Ziperto](https://www.ziperto.com/) :simple-icons-nintendoswitch:
 
 <Button link="https://emulation.gametechwiki.com/index.php/Main_Page" icon="i-octicon-codespaces-24 ">For emulation, check Emulation General Wiki</Button>
 
