@@ -63,6 +63,11 @@ export const contribs = {
       site: "https://github.com/farahnur42",
     },
     {
+      name: "gengotech",
+      avatar: "https://github.com/gengotech.png",
+      site: "https://github.com/gengotech",
+    },
+    {
       avatar: "/pfp/green.webp",
       name: "Green",
     },
@@ -84,11 +89,6 @@ export const contribs = {
       name: "loocool",
       avatar: "https://github.com/loocool2.png",
       site: "https://github.com/loocool2",
-    },
-    {
-      name: "nuff",
-      avatar: "https://github.com/gengotech.png",
-      site: "https://github.com/gengotech",
     },
   ],
   special: [
