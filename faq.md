@@ -18,20 +18,28 @@ Install [**uBlock Origin**](https://ublockorigin.com/) in your browser and you'r
 :::
 
 :::details Do I need to use VPN while downloading?
-The necessity of using a VPN depends on the method of downloading. For direct downloads, a VPN is typically unnecessary. However, if you're engaging in peer-to-peer (P2P) activities such as torrenting, it's advisable to employ a VPN for enhanced security and privacy. Additionally, the legal ramifications in your area play a crucial role; if the consequences are lenient, you might opt to forgo using a VPN altogether.
+The necessity of using a VPN depends on the method of downloading. For direct downloads, a VPN is typically unnecessary. However, if you're engaging in peer-to-peer (P2P) activities such as torrenting, it's advisable to employ a VPN for enhanced security and privacy. Additionally, the legal ramifications in your area play a crucial role; if the consequences are lenient, you might opt to forgo using a VPN altogether. We have recommended some in [**quick start**](/qs.md#essentials).
 :::
 
 :::details Why's the download so slow?
-Use a download manager. Some websites impose file transfer limits for a single thread, thereby restricting download speeds. Download managers overcome this limitation by leveraging multiple threads for downloading, resulting in faster download speeds. We have listed the recommended ones for pc and android.
+Use a download manager. Some websites impose file transfer limits for a single thread, thereby restricting download speeds. Download managers overcome this limitation by leveraging multiple threads for downloading, resulting in faster download speeds. We have listed the recommended ones for [**pc**](/addons.md#downloader) and [**android**](/addons.md#phone).
 :::
 
 :::details What does X term mean?
-We have explained meanings of a lot a weeb related terms in our [**glossary section**](/glossary/general.md). For more general piracy related terms, you can check out [this](https://rentry.org/The-Piracy-Glossary). 
+We have explained meanings of a lot a weeb related terms in our glossary section.
+- [**General glossary**](/glossary/general.md) for terms that are common in every medium
+- [**Anime glossary**](/glossary/anime.md) for only anime specific terms
+- [**Manga glossary**](/glossary/manga.md) for manga specific terms
+
+For more general piracy related terms, you can check out [FMHY glossary](https://rentry.org/The-Piracy-Glossary). 
 :::
 
 :::details Why are some of the torrents red and some green on Nyaa.si?
 - **Green**: Uploaded by trusted uploader.
+![](/ss/nyaagreen.png)
+
 - **Red**: For anime, it indicates a re-encoded video. For manga, it indicates that an edit of someone else's release, usually for the purposes of joining spread pages. Sometimes it's indicated with "ED" tag.
+![](/ss/nyaared.png)
 :::
 
 :::details What is PT / Private Tracker?
@@ -75,10 +83,8 @@ You can use multiple sources. [**Nyaa.si**](https://nyaa.si/), [**Madokami**](/g
 - For DDL sites, tachiyomi / mihon is more than enough.
 :::
 
-
 :::details Where can I download manga in PDF?
-Use CBZ / CBR / ZIP for manga. PDF can create issues in spread and other scenarios. If you really wanna read manga in PDF, use [**Free Manga Downloader 2**](https://github.com/dazedcat19/FMD2) to download as PDF (you have to select PDF format in settings) or [**ACBR**](https://github.com/binarynonsense/comic-book-reader) to convert CBZ to pdf.
-
+Use CBZ / CBR / ZIP for manga. PDF can create issues in spread and other scenarios. If you really wanna read manga in PDF, use [**Free Manga Downloader 2**](https://github.com/dazedcat19/FMD2) to download as PDF (you have to select PDF format in settings) or [**ACBR**](https://github.com/binarynonsense/comic-book-reader) to convert CBZ into pdf.
 :::
 
 :::details How do I setup my own manga server?
@@ -88,7 +94,6 @@ Use [**Komga**](https://komga.org/). Read their [**docs**](https://komga.org/doc
 ## Anime
 
 :::details Where can I get the highest quality anime releases?
-
 The quality of the anime file depends on the [**source**](/glossary/anime#source) as well as how it's been ripped and encoded. In general blu-ray release contains the best quality with reanimated, uncensored or extra scenes. [**Nyaa**](https://nyaa.si/), IRC and some DDL websites don't compress the uploaded file.
 
 <br>
@@ -101,13 +106,11 @@ On the other hand, aggregators like [**Aniwave**](https://aniwave.to/home), [**K
 :::
 
 :::details Which player should I use?
-
 ### PC
 [**mpv**](https://mpv.io/) kinda covers everything for pc. We have listed everything you need for mpv in the [**video section**](/addons.md#tools).
 
 ### Android
 For android, there is also [mpv-android](https://github.com/mpv-android/mpv-android) but the UI is too limited. You can use [**Aniyomi**](https://github.com/aniyomiorg/aniyomi)'s local option to watch anime. The UI is optimized with good amount of options.
-
 :::
 
 
