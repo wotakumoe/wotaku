@@ -45,7 +45,7 @@ Torrent trackers that don't allow you to freely make an account, but require you
 :::
 
 :::details What's the best website to read manga?
-Personal preference. Good online manga reading sites generally reupload nyaa releases (when it's available replacing/alongside the fantranslated one), but with added compression (e.g. [**Comick**](https://comick.cc/home), [**Mangasee**](https://mangasee123.com/), [**MangaFire**](https://mangafire.to/home), [**Batoto**](https://battwo.com/v3x), [**Mangapark**](https://mangapark.net/)) & watermark on (almost) every page (mangafire🙂). On the other hand, generic ones only keep the fantranslated ones. You can read a short description about the sites [**here**](/websites.md#manga).
+Personal preference. Good online manga reading sites generally reupload nyaa releases (when it's available replacing/alongside the fantranslated one), but with added compression (e.g. [**Comick**](https://comick.cc/home), [**Mangasee**](https://mangasee123.com/), [**MangaFire**](https://mangafire.to/home), [**Batoto**](https://battwo.com/v3x), [**Mangapark**](https://mangapark.net/)) & watermark on (almost) every page (mangafire🙂). On the other hand, generic ones only keep the fan-translated ones. You can read a short description about the sites [**here**](/websites.md#manga).
 :::
 
 :::details What's the best reader for manga?
@@ -56,33 +56,33 @@ There are a few options. [**CDisplayEx**](https://www.cdisplayex.com/), [**YACRe
 :::
 
 :::details What's the best extension for mihon / tachiyomi?
-Like websites, it's also personal preference. But to us, [Madokami](/guides/mado.md) (in terms of quality) & [Comick](https://comick.cc/home) (in terms of flexibility). There are also mangadex, batoto & others.
+Like websites, it's also personal preference. But to us, [**Madokami**](/guides/mado.md) (in terms of quality) & [**Comick**](https://comick.cc/home) (in terms of flexibility). There are also mangadex, batoto & others.
 :::
 
 :::details Why are the manga pages filled with squares / artifacts?
-Moiré. It generally happens during image downscaling. You can read about it in more detail [here](/glossary/manga.md#moire-moire).
+Moiré. It generally happens during image downscaling. You can read about it in more detail [**here**](/glossary/manga.md#moire-moire).
 :::
 
 :::details Where can I download manga in bulk?
-You can use multiple sources. [Nyaa.si](https://nyaa.si/), [Madokami](/guides/mado.md) or any other direct download websites like Comick or mangadex.
+You can use multiple sources. [**Nyaa.si**](https://nyaa.si/), [**Madokami**](/guides/mado.md) or any other direct download websites like Comick or mangadex.
 
 ### PC
-- For Nyaa.si, just use [qBittorrent](https://www.qbittorrent.org/). It's more than enough.
-- For other DDL sites (mangadex, comick, madokami), use [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2).
+- For Nyaa.si, just use [**qBittorrent**](https://www.qbittorrent.org/). It's more than enough.
+- For other DDL sites (mangadex, comick, madokami), use [**Free Manga Downloader 2**](https://github.com/dazedcat19/FMD2).
 
 ### Android
-- For Nyaa.si, you can use [libretorrent](https://github.com/proninyaroslav/libretorrent), [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) or [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US). To browse nyaa.si, a browser is enough but there is also [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa) which is pretty nice.
+- For Nyaa.si, you can use [**libretorrent**](https://github.com/proninyaroslav/libretorrent), [**Flud**](https://play.google.com/store/apps/details?id=com.delphicoder.flud) or [**1DM**](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US). To browse nyaa.si, a browser is enough but there is also [**Nyanpasu**](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa) which is pretty nice.
 - For DDL sites, tachiyomi / mihon is more than enough.
 :::
 
 
 :::details Where can I download manga in PDF?
-Use CBZ/CBR/ZIP for manga. PDF can create issues in spread and other scenarios. If you really wanna read manga in PDF, use [**Free Manga Downloader 2**](https://github.com/dazedcat19/FMD2) to download as PDF (you have to select PDF format in settings) or [**ACBR**](https://github.com/binarynonsense/comic-book-reader) to convert CBZ to pdf.
+Use CBZ / CBR / ZIP for manga. PDF can create issues in spread and other scenarios. If you really wanna read manga in PDF, use [**Free Manga Downloader 2**](https://github.com/dazedcat19/FMD2) to download as PDF (you have to select PDF format in settings) or [**ACBR**](https://github.com/binarynonsense/comic-book-reader) to convert CBZ to pdf.
 
 :::
 
 :::details How do I setup my own manga server?
-Use [**Komga**](https://komga.org/). It will cover everything for you. Join their discord server for help (read docs before that!).
+Use [**Komga**](https://komga.org/). Read their [**docs**](https://komga.org/docs/introduction) to understand the setup process. You can join their [:ic-outline-discord:**discord server**](https://discord.gg/TdRpkDu) for further support.
 :::
 
 ## Anime
@@ -110,8 +110,26 @@ For android, there is also [mpv-android](https://github.com/mpv-android/mpv-andr
 
 :::
 
+
 ## Music
 
-:::details What's the best source for anime songs?
-For anison, [**Nyaa**](https://nyaa.si/) generally has a good amount of them. There are also [**DoubleDouble**](https://doubledouble.top/) & [**Free MP3 Download**](https://free-mp3-download.net/) which can rip multiple hi-res sources. [**Sitting on Clouds**](https://www.sittingonclouds.net/) & [**Sukidesu OST**](https://sukidesuost.info/) upload ripped music from hi-res sources. You can find more sources [**here**](/websites.md#music)
+:::details What's the best source for anime songs / OST?
+- [**Nyaa**](https://nyaa.si/) generally has a good amount of them. They upload both Digital-Rip & CD-Rip. 
+- [**Sitting on Clouds**](https://www.sittingonclouds.net/), [SquidBoard](https://www.squid-board.org/) & [**Sukidesu OST**](https://sukidesuost.info/) upload ripped music from hi-res sources.
+- Anime songs are uploaded on legal music streaming services. You can rip from these services using [:ic-outline-discord:**yet another music server**](https://discord.gg/JHCTtMVK), [**DoubleDouble**](https://doubledouble.top/) & [**Free MP3 Download**](https://free-mp3-download.net/),  which can rip multiple hi-res sources.
+- You can also check out [**Nicotine+**](https://nicotine-plus.org/), a [**Soulseek**](https://www.slsknet.org/) client. People share their downloaded/own rips here. It uses P2P to transfer files, so a VPN is recommended.
+- You can find more sources [**here**](/websites.md#music). If you want more ripping tools, you can check out more ripping tools in [others section](/addons.md#downloader).
+:::
+
+:::details What player should I use for music?
+Personal preference.
+### Android
+There are FOSS player [**Oto Music**](https://play.google.com/store/apps/details?id=com.piyush.music), [**Musicolet Music Player**](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) & [**Retro Music Player**](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic). There is also [**Poweramp**](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer.unlock) which is paid but it's really good.
+
+### PC
+You can try [**Foobar2000**](https://www.foobar2000.org/), [**Musicbee**](https://www.getmusicbee.com/) or [**AIMP**](https://www.aimp.ru/). Foobar2000, out of the box, has very outdated UI out of the box. You can sideload skins to make it more cool looking. Example: [Georgia-ReBORN](https://github.com/TT-ReBORN/Georgia-ReBORN), [Eole](https://github.com/Ottodix/Eole-foobar-theme) etc.
+:::
+
+:::details Can I track my music like anime or manga?
+Yes. [**Last.fm**](https://www.last.fm/). It's not anime songs centric but a general music tracker.
 :::
