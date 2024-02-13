@@ -342,6 +342,7 @@ I have tried to add all the well-known scanlators for manhwa and manhua, but for
 - [Squidify](https://www.squidify.org)
 - [Zophar's Domain](https://www.zophar.net/music) <Badge type="info" text="DDL" />
 - [Vidya Intarweb Playlist](https://www.vipvgm.net/)
+- [Keygen Music](https://keygenmusic.tk/)
 - [VGMRips](https://vgmrips.net/packs/) <Badge type="info" text="DDL" />
 - [SMS Power](https://vgm.impulseinformatica.com.br/)
 
