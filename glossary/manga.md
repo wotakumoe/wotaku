@@ -198,8 +198,12 @@ Quality checker oversees all processes, including checking the translated manga 
 
 
 ## Technical Terms
+
+### Halftone & Screentone
+In general printing, halftones refer to the technique of using different sized dots to create the illusion of shades and tones. This is achieved by breaking down an image into tiny black and white dots of varying densities. Screentone is by the artist to create different types of shades in art.
+
 ### Moiré / Moire
-[Moiré](https://en.wikipedia.org/wiki/Moir%C3%A9_pattern) is the creation of a new pattern by overlapping two patterns / [halftone](https://en.wikipedia.org/wiki/Halftone). It can occur due to several factors:
+[Moiré](https://en.wikipedia.org/wiki/Moir%C3%A9_pattern) is the creation of a new pattern by overlapping two patterns / halftone / screentone. It can occur due to several factors:
 
 ![](/glossary/manga/pattern.png)
 
