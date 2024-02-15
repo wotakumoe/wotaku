@@ -114,6 +114,17 @@ For android, there is also [mpv-android](https://github.com/mpv-android/mpv-andr
 :::
 
 
+:::details Can I get Crunchyroll for free?
+You can't get crunchyroll account for free but you can access their library for free using these methods
+- [**Aniyomi**](https://aniyomi.org/): Yomiroll extension.
+- [**Cloudstream 3**](https://cloudstream.on.fleek.co/): Anichi, Yomiroll (through Aniyomi Repo), Kronch
+- [**KickAssAnime**](https://www1.kickassanime.mx/): Duckstream Server
+- [**Kaguya**](https://kaguya.app/en/anime): Crunchyroll server
+- [**Kaguya App**](https://github.com/hoangvu12/kaguya-app): Crunchyroll server
+
+[**Subsplease**](https://subsplease.org/) & [**Erai-raws**](https://nyaa.si/user/Erai-raws) upload Crunchyroll rips.
+:::
+
 ## Music
 
 :::details What's the best source for anime songs / OST?
@@ -135,4 +146,11 @@ You can try [**Foobar2000**](https://www.foobar2000.org/), [**Musicbee**](https:
 
 :::details Can I track my music like anime or manga?
 Yes. [**Last.fm**](https://www.last.fm/). It's not anime songs centric but a general music tracker.
+:::
+
+:::details What should I use to convert my music files?
+Most of the PC music player can convert music files to your desired formats. For example [**Foobar2000**](https://www.foobar2000.org/) & [**Musicbee**](https://www.getmusicbee.com/). For Foobar200, you have to install [encoder pack](https://www.foobar2000.org/encoderpack). 
+
+<Button link="/guides/transcoding" icon="i-fxemoji-lightbulb">Read our transcoding audio guide to learn the basics.</Button>
+
 :::
