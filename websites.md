@@ -137,7 +137,7 @@ Online resources for anime, manga, novels and more.
 
 == Online
 
-- [**Comick**](https://comick.cc/home) <Badge type="tip" text="RSS" icon="i-material-symbols-rss-feed-rounded" link="https://manga.ldez.workers.dev/" /> <Badge type="danger" text="18+" /> 🦆
+- [**Comick**](https://comick.io/home) <Badge type="tip" text="RSS" icon="i-material-symbols-rss-feed-rounded" link="https://manga.ldez.workers.dev/" /> <Badge type="danger" text="18+" /> 🦆
   - Minimal compression
   - Aggregates from various scanlation groups
   - Has official translations

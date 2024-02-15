@@ -53,7 +53,7 @@ Torrent trackers that don't allow you to freely make an account, but require you
 :::
 
 :::details What's the best website to read manga?
-Personal preference. Good online manga reading sites generally reupload nyaa releases (when it's available replacing/alongside the fantranslated one), but with added compression (e.g. [**Comick**](https://comick.cc/home), [**Mangasee**](https://mangasee123.com/), [**MangaFire**](https://mangafire.to/home), [**Batoto**](https://battwo.com/v3x), [**Mangapark**](https://mangapark.net/)) & watermark on (almost) every page (mangafire🙂). On the other hand, generic ones only keep the fan-translated ones. You can read a short description about the sites [**here**](/websites.md#manga).
+Personal preference. Good online manga reading sites generally reupload nyaa releases (when it's available replacing/alongside the fantranslated one), but with added compression (e.g. [**Comick**](https://comick.io/home), [**Mangasee**](https://mangasee123.com/), [**MangaFire**](https://mangafire.to/home), [**Batoto**](https://battwo.com/v3x), [**Mangapark**](https://mangapark.net/)) & watermark on (almost) every page (mangafire🙂). On the other hand, generic ones only keep the fan-translated ones. You can read a short description about the sites [**here**](/websites.md#manga).
 :::
 
 :::details What's the best reader for manga?
@@ -64,7 +64,7 @@ There are a few options. [**CDisplayEx**](https://www.cdisplayex.com/), [**YACRe
 :::
 
 :::details What's the best extension for mihon / tachiyomi?
-Like websites, it's also personal preference. But to us, [**Madokami**](/guides/mado.md) (in terms of quality) & [**Comick**](https://comick.cc/home) (in terms of flexibility). There are also mangadex, batoto & others.
+Like websites, it's also personal preference. But to us, [**Madokami**](/guides/mado.md) (in terms of quality) & [**Comick**](https://comick.io/home) (in terms of flexibility). There are also mangadex, batoto & others.
 :::
 
 :::details Why are the manga pages filled with squares / artifacts?

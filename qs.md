@@ -18,7 +18,7 @@ The basic things to get you started.
 
 == Manga
 
-- [Comick](https://comick.app/home) <Badge type="tip" text="RSS" icon="i-material-symbols-rss-feed-rounded" link="https://manga.ldez.workers.dev/" />
+- [Comick](https://comick.io/home) <Badge type="tip" text="RSS" icon="i-material-symbols-rss-feed-rounded" link="https://manga.ldez.workers.dev/" />
 - [Mangadex](https://mangadex.org/)
 - [Mangasee](https://mangasee123.com/) <Badge type="tip" text="Alt" link="https://atsu.moe/" />
 
