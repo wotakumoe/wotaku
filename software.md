@@ -15,7 +15,7 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
 
 == Anime
 
-- [**Aniyomi**](https://github.com/aniyomiorg/aniyomi) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://aniyomi.org/" /><Badge type="info" text="Preview" link="https://github.com/aniyomiorg/aniyomi-preview/releases/latest" /><Badge type="tip" text="Animiru" link="https://github.com/Quickdesh/Animiru" />
+- [**Aniyomi**](https://github.com/aniyomiorg/aniyomi) :glowing-star: <Badge type="info" icon="i-octicon-globe" text="Web" link="https://aniyomi.org/" /><Badge type="info" text="Preview" link="https://github.com/aniyomiorg/aniyomi-preview/releases/latest" /><Badge type="tip" text="Animiru" link="https://github.com/Quickdesh/Animiru" />
   - Unofficial Tachiyomi fork for anime
   - Clean and minimal design
   - Offers other types of media too including manga
@@ -44,7 +44,7 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
 
 == Manga
 
-- [**Mihon**](https://github.com/mihonapp/mihon) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://kaizoyu.ovh" /><Badge type="tip" text="Extensions" link="https://keiyoushi.github.io/extensions/" /><Badge type="tip" text="J2K" link="https://github.com/Jays2Kings/tachiyomiJ2K" /><Badge type="tip" text="SY" link="https://github.com/jobobby04/TachiyomiSY" />
+- [**Mihon**](https://github.com/mihonapp/mihon) :glowing-star: <Badge type="info" icon="i-octicon-globe" text="Web" link="https://kaizoyu.ovh" /><Badge type="tip" text="Extensions" link="https://keiyoushi.github.io/extensions/" /><Badge type="tip" text="J2K" link="https://github.com/Jays2Kings/tachiyomiJ2K" /><Badge type="tip" text="SY" link="https://github.com/jobobby04/TachiyomiSY" />
   - Great Customizable UI
   - Ton of manga sources
   - Download and local reader support
@@ -53,7 +53,7 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
 
 <Button link="https://keiyoushi.github.io/extensions/" icon="i-fxemoji-lightbulb">By default, Mihon or other tachiyomi forks won't have any extensions. You have to sideload them</Button>
 
-- [**Perfect Viewer**](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) <Badge type="info" text="Local" />
+- [**Perfect Viewer**](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :glowing-star: <Badge type="info" text="Local" />
   - The reader itself is really good with a lot of filters
   - Has plugin support for the cloud services but not for manga websites
   - Support for all the comic formats.

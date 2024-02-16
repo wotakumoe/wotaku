@@ -15,8 +15,8 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [Eronews](https://en.eroeronews.com/) <Badge type="tip" text="Schedule & News" />
 - [AnimeID Hentai](https://animeidhentai.com/)
 - [Haho](https://haho.moe/)
-- [Hanime](https://hanime.tv/) <Badge type="info" text="720p" /> 🦆
-- [Hentai Bar](https://hentaibar.com/) 🦆
+- [Hanime](https://hanime.tv/) :glowing-star: <Badge type="info" text="720p" /> 
+- [Hentai Bar](https://hentaibar.com/) :glowing-star:
 - [Hentai Haven](https://hentaihaven.xxx/)
 - [Hentai Mama](https://hentaimama.io/)
 - [Hentai Stream](https://hstream.moe/) <Badge type="info" text="4K" />
@@ -49,18 +49,18 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13)  <Badge type="info" text="DDL" />
 - [Batoto](https://battwo.com/v3x) <Badge type="tip" text="2" link="https://mangatoto.net/" /><Badge type="tip" text="3" link="https://mangatoto.com/" />
 - [Hiperdex](https://hiperdex.com/)
-- [Manga District](https://mangadistrict.com/)
+- [Manga District](https://mangadistrict.com/) :glowing-star:
 - [Manhwas](https://manhwas.men/) <Badge type="tip" text="Raw" /><Badge type="tip" text="Eng" />
 - [Manhwa18](http://manhwa18.com/)
-- [Manytoon](https://manytoon.com/) 🦆
+- [Manytoon](https://manytoon.com/) :glowing-star:
 - [OKToon](https://oktoon.org/webtoon/adult) <Badge type="tip" text="Raw" />
-- [Oppai Stream](https://read.oppai.stream/) <tooltip>Late releases but less compressed than other aggregators'</tooltip>🦆
-- [Toonily](https://toonily.com/) 🦆
+- [Oppai Stream](https://read.oppai.stream/) :glowing-star: <tooltip>Late releases but less compressed than other aggregators'</tooltip>
+- [Toonily](https://toonily.com/) :glowing-star:
 - [Webtoon](https://www.webtoon.xyz/)
 
 :::details Scanlators {open}
-- [The Blank](https://mangadex.org/group/d53b6ec6-bbbf-4fad-a254-2b7ddda84c2c/the-blank) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://theblank.net/" />
-- [Omega scans](https://mangadex.org/group/8295f3f9-7462-403b-8fc0-f93a6c245a5c/omegascans) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://omegascans.org/" />
+- [The Blank](https://mangadex.org/group/d53b6ec6-bbbf-4fad-a254-2b7ddda84c2c/the-blank) :glowing-star: <Badge type="info" icon="i-octicon-globe" text="Web" link="https://theblank.net/" />
+- [Omega scans](https://mangadex.org/group/8295f3f9-7462-403b-8fc0-f93a6c245a5c/omegascans) :glowing-star: <Badge type="info" icon="i-octicon-globe" text="Web" link="https://omegascans.org/" />
 - [Constellar Scans](https://constellarcomic.com/)
 - [Lunar Scans](https://lunarscan.org/)
 - [Acera the great](https://mangadex.org/group/ea35447d-5035-485f-8eda-841bafc4b215/acerathegreat)
@@ -69,13 +69,13 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [Aksy Scans](https://mangadex.org/group/258e6c49-e780-408e-bc48-c981d8e58c75/aksyscans)
 
 == Illustrations
-- [Booruwf](https://booru.pixiv.pics/) <Badge type="tip" text="Moeview" link="https://moeview.pixiv.pics/" /> <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/asadahimeka/booruwf-web" /> 🦆
+- [Booruwf](https://booru.pixiv.pics/) :glowing-star: <Badge type="tip" text="Moeview" link="https://moeview.pixiv.pics/" /> <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/asadahimeka/booruwf-web" /> 
 - [Danbooru](https://danbooru.donmai.us/)
 - [Gelbooru](https://gelbooru.com/)
 - [Kona chan](https://konachan.com/)
 - [Oreno3D](https://oreno3d.com/)
 - [Pixiv](https://www.pixiv.net)
-- [Pixiv Viewer](https://pixiv.pics/) 🦆
+- [Pixiv Viewer](https://pixiv.pics/) :glowing-star:
 - [Rule34.xxx](https://rule34.xxx/) <tooltip><ul><li>Boasts a larger content library compared to Paheal.</li><li>Features an extensive tagging system, allowing searches based on descriptions or depicted acts.</li><li>Permits larger file uploads, up to 100MB.</li><li>Searching is more user-friendly compared to Paheal.</li></ul></tooltip>
 - [Rule 34 Paheal](https://rule34.paheal.net/) <tooltip><ul><li>Categorizes content by characters, franchises, events (such as holidays), animations, and sound.</li><li>Limits uploads to 10MB.</li></ul></tooltip>
 - [Rule34.dev](https://rule34.dev/)

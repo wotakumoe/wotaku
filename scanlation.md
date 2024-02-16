@@ -11,7 +11,7 @@ Guides and resources for scanlating manga.
 
 ## Communities
 
-- [Scanner Usage School Server](https://discord.com/invite/NCzxVB9) 🦆
+- [Scanner Usage School Server](https://discord.com/invite/NCzxVB9) :glowing-star:
 - [r/Scanlation](https://www.reddit.com/r/Scanlation/)
 - [Manga Helpers](https://mangahelpers.com/)
 - [Font recommendations](https://discord.gg/kgZ4MXgzpx)
@@ -32,7 +32,7 @@ Guides and resources for scanlating manga.
 
 == Download
 ### Torrent
-- [Nyaa](https://nyaa.si/) <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="Alt" link="https://animetime.cc/" /> 🦆
+- :glowing-star: [Nyaa](https://nyaa.si/) <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="Alt" link="https://animetime.cc/" /> 
 
 ### Direct
 - [A-Z Manga](https://www.a-zmanga.net/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
@@ -69,7 +69,7 @@ Guides and resources for scanlating manga.
 
 == Blogs & Collections
 
-- [Quick Sand Scans Resource](https://quicksandscans.wordpress.com/resources/) 🦆
+- [Quick Sand Scans Resource](https://quicksandscans.wordpress.com/resources/) :glowing-star:
 - [Inside Scanlation](https://www.insidescanlation.com/backgrounds/index.html)
 - [Scanlation Snacks](https://scanlationsnacks.wordpress.com/)
 - [Scanlation Font Sheets](https://cubari.moe/read/imgur/UmEpOL1/)

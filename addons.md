@@ -23,7 +23,7 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 
 ### Ad blocker
 - **App**
-  - [Adguard](https://adguard.com/en/welcome.html) :mdi-android::ic-baseline-apple: 🦆
+  - [Adguard](https://adguard.com/en/welcome.html) :glowing-star: :mdi-android::ic-baseline-apple:
   - [Adaway](https://adaway.org/) :mdi-android:
   - [RethinkDNS](https://rethinkdns.com/) :mdi-android:
 - **DNS**
@@ -43,18 +43,18 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 - [iTorrent](https://github.com/XITRIX/iTorrent) :ic-baseline-apple:
 - [libretorrent](https://github.com/proninyaroslav/libretorrent) :mdi-android:
 - [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) :mdi-android:
-- [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa&hl=en&gl=US) :mdi-android:<Badge type="info" text="Nyaa.si" />🦆
+- [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa&hl=en&gl=US) :glowing-star: :mdi-android:<Badge type="info" text="Nyaa.si" />
 
 == Media
 
 ### Audio
 - **Local**
   - [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player) :mdi-android:
-  - [Poweramp](https://powerampapp.com/) :mdi-android:🦆
+  - [Poweramp](https://powerampapp.com/) :glowing-star: :mdi-android:
   - [Oto Music Player](https://play.google.com/store/apps/details?id=com.piyush.music) :mdi-android:
 - **Online**
   - [Audire](https://github.com/alexmercerind/audire) :simple-icons-shazam::mdi-android:
-  - [Innertune](https://github.com/z-huang/InnerTune) :material-symbols-youtube-music::mdi-android:🦆
+  - [Innertune](https://github.com/z-huang/InnerTune) :glowing-star: :material-symbols-youtube-music::mdi-android:
   - [xManager](https://www.xmanagerapp.com/) :mdi-spotify::mdi-android:
   - [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) :mdi-spotify::ic-baseline-apple:
   - [Spotify++](https://appdb.to/app/cydia/1900000540) :mdi-spotify::ic-baseline-apple:
@@ -161,11 +161,11 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 
 ### Media
 - **Image**
-  - [gallery-dl](https://github.com/mikf/gallery-dl) :ic-baseline-window::mingcute-linux-fill: 🦆
+  - [gallery-dl](https://github.com/mikf/gallery-dl) :glowing-star: :ic-baseline-window::mingcute-linux-fill:
   - [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-android:
   - [PixivUtil2](https://github.com/Nandaka/PixivUtil2) :ic-baseline-window:
 - **Video**
-  - [yt-dlp](https://github.com/yt-dlp/yt-dlp) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge type="info" text="GUI" link="https://github.com/kannagi0303/yt-dlp-gui" /><Badge type="info" text="GUI Installer" link="https://github.com/kazukikasama/youtube-dlp-gui-installer" /> 🦆
+  - [yt-dlp](https://github.com/yt-dlp/yt-dlp) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge type="info" text="GUI" link="https://github.com/kannagi0303/yt-dlp-gui" /><Badge type="info" text="GUI Installer" link="https://github.com/kazukikasama/youtube-dlp-gui-installer" />
 - **Music**
   - [Nicotine+](https://nicotine-plus.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-lan-pending:<tooltip>Direct peer-to-peer sharing network, primarily used for music</tooltip>
   - [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD)
@@ -248,7 +248,7 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 ### Player
 - **Local**
   - [AIMP](https://www.aimp.ru/) :ic-baseline-window:
-  - [Foobar2000](https://www.foobar2000.org/) :ic-baseline-window:<Badge type="info" text="Georgia-ReBORN" link="https://github.com/TT-ReBORN/Georgia-ReBORN"/> <Badge type="info" text="Synced Lyrics" link="/guides/foobar#synced-lyrics" /> 🦆
+  - [Foobar2000](https://www.foobar2000.org/) :glowing-star: :ic-baseline-window:<Badge type="info" text="Georgia-ReBORN" link="https://github.com/TT-ReBORN/Georgia-ReBORN"/> <Badge type="info" text="Synced Lyrics" link="/guides/foobar#synced-lyrics" />
   - [MusicBee](https://www.getmusicbee.com/) :ic-baseline-window:
   - [WACUP](https://getwacup.com/) :ic-baseline-window:
 - **Online**
@@ -285,7 +285,7 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 ### Local
 - [IINA](https://iina.io/) :ic-baseline-apple:
 - [MPC-HC](https://github.com/clsid2/mpc-hc) :ic-baseline-window:<Badge type="info" text="Codec guide" link="https://codecguide.com/media_player_classic.htm"/><Badge type="tip" text="Guide" link="https://kokomins.wordpress.com/2021/03/27/mpc-hc-and-madvr-setup-guide/" />
-- [mpv](https://mpv.io/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge type="info" text="mpv.net" link="https://github.com/mpvnet-player/mpv.net"/> 🦆
+- [mpv](https://mpv.io/) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge type="info" text="mpv.net" link="https://github.com/mpvnet-player/mpv.net"/> 
 - [K-Lite Codec Pack](https://codecguide.com/download_kl.htm) :ic-baseline-window:
 
 ### Online
@@ -369,7 +369,7 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 - [Ryuuzaki Ryuusei](https://github.com/nattadasu/ryuuRyuusei)
 - [Yuuko](https://github.com/YuuCorp/Yuuko)
 - [MangaUpdates Bot](https://github.com/jckli/mangaupdates-bot)
-- [Manhwa Updates Bot](https://github.com/MooshiMochi/ManhwaUpdatesBot) 🦆
+- [Manhwa Updates Bot](https://github.com/MooshiMochi/ManhwaUpdatesBot) :glowing-star:
 - [Rinbot](https://rinbot.moe/)
 - [Michelle](https://github.com/JacenBoy/michelle) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://michelle.jacenboy.com/" />
 - Sneedex <Badge type="info" icon="i-logos-discord-icon" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" />
@@ -398,14 +398,14 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 - [Aniskip](https://github.com/lexesjan/typescript-aniskip-extension) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chrome.google.com/webstore/detail/aniskip/npfcdmjgaocepmpdnmliimijgfjbgcdd" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/aniskip/" />
 - [Crunchyroll With Better Seasons](https://github.com/Dragicafit/Crunchyroll-With-Better-Seasons)
 - Improve Crunchyroll <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-CA/firefox/addon/improve-crunchyroll/" />
-- [MALSync](https://github.com/MALSync/MALSync) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://malsync.moe/" /><Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/mal-sync/" /> 🦆
+- [MALSync](https://github.com/MALSync/MALSync) :glowing-star: <Badge type="info" icon="i-octicon-globe" text="Web" link="https://malsync.moe/" /><Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/mal-sync/" /> 
 - [Streaming enhanced](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/streaming-enhanced-netfli/akaimhgappllmlkadblbdknhbfghdgle" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/netflix-prime-auto-skip/" />
 - Substital <Badge type="info" icon="i-octicon-globe" text="Web" link="https://substital.com/" /><Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/substital/" />
 
 == Manga
 
 - [All Manga Reader](https://gitlab.com/all-mangas-reader/all-mangas-reader-2) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://www.allmangasreader.com/" />
-- [MALSync](https://github.com/MALSync/MALSync) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://malsync.moe/" /><Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/mal-sync/" /> 🦆
+- [MALSync](https://github.com/MALSync/MALSync) :glowing-star: <Badge type="info" icon="i-octicon-globe" text="Web" link="https://malsync.moe/" /><Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/mal-sync/" /> 
 - [Similar Manga](https://github.com/similar-manga/similar) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg" />
 
 == General
@@ -423,7 +423,7 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 - [MAL Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://hritikvaishnav.github.io/Project-Redesign/mal.html" /><Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chrome.google.com/webstore/detail/myanimelist-redesign/knegaeodgehajemjpfbhlgjdcloklkal" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/myanimelist-redesign/" />
 - [Pixiv Batch Downloader](https://github.com/xuejianxianzun/PixivBatchDownloader) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://pixiv.download/" /><Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chrome.google.com/webstore/detail/powerful-pixiv-downloader/dkndmhgdcmjdmkdonmbgjpijejdcilfh" />
 - [Sakuga Extended](https://github.com/ftLoic/Sakuga-Extended) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/khmnmdaghmhkcbooicndamlhkcmpklmc" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/sakuga-extended/" />
-- [Search by Image](https://github.com/dessant/search-by-image) 🦆
+- [Search by Image](https://github.com/dessant/search-by-image) :glowing-star:
 - [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler)
 
 :::

@@ -21,28 +21,28 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Kitsu](https://kitsu.io/)
 
 == Anime
-- [aniDB](https://anidb.net/) 🦆
+- [aniDB](https://anidb.net/) :glowing-star:
 - [Annict](https://annict.com/)
 - [SIMKL](https://simkl.com/)
 
 == Manga & LN
-- [Mangaupdates](https://www.mangaupdates.com/) 🦆
+- [Mangaupdates](https://www.mangaupdates.com/) :glowing-star:
 - [Novel updates](https://www.novelupdates.com/)
 - [Kenmei](https://www.kenmei.co/)
 
 == Games
 - [Backloggd](https://www.backloggd.com/)
 - [IGDB](https://www.igdb.com/)
-- [Infinite Backlog](https://infinitebacklog.net/) 🦆
+- [Infinite Backlog](https://infinitebacklog.net/) :glowing-star:
 - [MobyGames](https://www.mobygames.com/)
 - [SteamDB](https://steamdb.info/)
-- [The Visual Novel Database (VNDB)](https://vndb.org/) 🦆
+- [The Visual Novel Database (VNDB)](https://vndb.org/) :glowing-star:
 - [VNStat](https://vnstat.net/)
 
 == Music
 
 ### General
-- [Last.fm](https://www.last.fm/) 🦆
+- [Last.fm](https://www.last.fm/) :glowing-star: 
 - [Discogs](https://www.discogs.com/)
 - [MusicBrainz](https://musicbrainz.org/)
 - [VGMdb](https://vgmdb.net/)
@@ -68,23 +68,23 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == Index
 
 - [Seadex](https://releases.moe/)
-- [Sneedex](https://sneedex.moe/) <Badge type="info" icon="i-logos-discord-icon" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" /> 🦆
+- [Sneedex](https://sneedex.moe/):glowing-star: <Badge type="info" icon="i-logos-discord-icon" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" /> 
 - [A Certain Fansubber's Index](https://index.fansubcar.tel/)
 - [Fansub Database](https://fansubdb.com/)
 - [German Fansubbers' Index](https://anime-fansubs.de/)
 - [Indonesian Fansubbers' Index](https://www.fansub.id/home)
-- [Seiyuu.moe](https://seiyuu.moe/) 🦆
+- [Seiyuu.moe](https://seiyuu.moe/):glowing-star: 
 - [Anime voice actor and seiyuu comparison](https://avac.moe/index.php)
 
 == Schedule
 
 - [Anica](https://anica.jp/)
-- [AniChart](https://anichart.net/airing) 🦆
+- [AniChart](https://anichart.net/airing) :glowing-star:
 - [AnimeSchedule](https://animeschedule.net/)
 - [Anime Countdown](https://animecountdown.com/)
-- [Eronews](https://en.eroeronews.com/) <Badge type="danger" text="18+" /> 🦆
+- [Eronews](https://en.eroeronews.com/) :glowing-star: <Badge type="danger" text="18+" /> 
 - [Livechart](https://www.livechart.me/)
-- [Monthly.moe](https://www.monthly.moe/) 🦆
+- [Monthly.moe](https://www.monthly.moe/) :glowing-star: 
 - [Notify.moe](https://notify.moe/calendar) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/animenotifier/notify.moe" />
 - [Senpai.moe](https://www.senpai.moe/)
 - [Syoboi Calendar](https://cal.syoboi.jp/) :flag-japan:
@@ -103,7 +103,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 ### Ranking
 - [Anime Karma List](https://animekarmalist.com/)
-- [Anime Stats](https://anime-stats.net/) 🦆
+- [Anime Stats](https://anime-stats.net/) :glowing-star:
 - [Anime Corner](https://animecorner.me/category/anime-corner/rankings/)
 - [Anitrendz](https://anitrendz.com/charts/top-anime)
 - [Kitsu Season Trends](https://season.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/wopian/kitsu-season-trends" />
@@ -118,7 +118,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Bookmeter](https://bookmeter.com/) :flag-japan:
 - [Manga Groups Portal](https://discord.gg/9KGMzP2)
 - [r/LightNovels reading order](https://www.reddit.com/r/LightNovels/wiki/reading_order)
-- [Touhou Doujinshi Index](https://scarlet.nanoskript.dev/) <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" /> <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/nanoskript/touhou-doujinshi-index" /> 🦆 
+- [Touhou Doujinshi Index](https://scarlet.nanoskript.dev/) :glowing-star: <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" /> <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/nanoskript/touhou-doujinshi-index" />  
 
 == Calendar
 
@@ -164,15 +164,15 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == Discovery
 
 ### General
-- [Rate Your Music](https://rateyourmusic.com/) 🦆
-- [Chosic](https://www.chosic.com/) 🦆
+- [Rate Your Music](https://rateyourmusic.com/) :glowing-star:
+- [Chosic](https://www.chosic.com/) :glowing-star:
 - [Discover Quickly](https://discoverquickly.com/)
 - [Skiley](https://skiley.net/)
 - [Music-Map](https://www.music-map.com/)
 - [Japanese music by year](https://en.wikipedia.org/wiki/Category:Japanese_music_by_year) <Badge type="tip" text="Wand" link="https://www.wikiwand.com/en/Category:Japanese_music_by_year" />
 - [Dubolt](https://dubolt.com/)
 
-### RYM Ultimate Box Set 🦆
+### RYM Ultimate Box Set :glowing-star:
 - [Japanese Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-japanese-music/)
 - [Doujin Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-doujin-music/)
 - [Touhou Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-touhou-music/)
@@ -207,7 +207,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [DeviantArt](https://www.deviantart.com/)
 - [Misskey.io](https://misskey.io/) <Badge type="tip" text="Others" link="https://misskey-hub.net/en/servers/" />
 - [Newgrounds](https://www.newgrounds.com/art)
-- [Pixiv](https://www.pixiv.net) <Badge type="tip" text="Alt" link="https://pixiv.pics/" />🦆
+- [Pixiv](https://www.pixiv.net) :glowing-star: <Badge type="tip" text="Alt" link="https://pixiv.pics/" />
 - [Tumblr](https://www.tumblr.com/)
 - [Twitter](https://twitter.com/home) <Badge type="tip" text="Alt" link="https://nitter.cz/" />
 
@@ -219,7 +219,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [VGen](https://vgen.co/)
 
 == Booru
-- [Booruwf](https://booru.pixiv.pics/) <Badge type="tip" text="Moeview" link="https://moeview.pixiv.pics/" /> <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/asadahimeka/booruwf-web" /> 🦆
+- [Booruwf](https://booru.pixiv.pics/) :glowing-star: <Badge type="tip" text="Moeview" link="https://moeview.pixiv.pics/" /> <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/asadahimeka/booruwf-web" /> 
 - [Danbooru](https://danbooru.donmai.us/) <Badge type="green" link="" text="SFW Version"/>
 - [Gelbooru](https://gelbooru.com/)
 - [Konachan](https://konachan.com/)
@@ -245,24 +245,24 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 :::tabs
 == General
 ### News
-- [Anime News Network](https://www.animenewsnetwork.com/) <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/anime" />🦆
+- [Anime News Network](https://www.animenewsnetwork.com/) :glowing-star: <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/anime" />
 - [Crunchyroll News](https://www.crunchyroll.com/news)
 - [MAL News](https://myanimelist.net/news) <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/myanimelist" />
 - [ORICON NEWS](https://www.oricon.co.jp/) :flag-japan:
 - [Otaku News](https://www.otakunews.com/)
 
 ### Blog / Interview
-- [Anime Blog Tracker](https://aniblogtracker.com/) <Badge text="Aggregator" /> 🦆
+- [Anime Blog Tracker](https://aniblogtracker.com/) :glowing-star: <Badge text="Aggregator" /> 
 - [Anime Nano](https://www.animenano.com/) <Badge text="Aggregator" />
-- [Animétudes](https://animetudes.com/) 🦆
+- [Animétudes](https://animetudes.com/) :glowing-star:
 - [artist_unknown](https://artistunknown.info/)
 - [Let's Anime](https://letsanime.blogspot.com/)
-- [Sakuga Blog](https://blog.sakugabooru.com/) 🦆
+- [Sakuga Blog](https://blog.sakugabooru.com/) :glowing-star:
 - [Zimmerit](https://www.zimmerit.moe/)
 
 == Anime
 
-- [Anime Corner](https://animecorner.me/) <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/animecorner_ac" />🦆
+- [Anime Corner](https://animecorner.me/) :glowing-star: <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/animecorner_ac" />
 - [Anitrendz](https://anitrendz.net/news/) <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/anitrendz" />
 - [AnimeTV](https://animetv-jp.net/) <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/animetv_jp" />
 
@@ -273,25 +273,25 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Josu Ke](https://twitter.com/Josu_ke)
 - [Manga Alerts](https://twitter.com/MangaAlerts)
 - [Manga Bookshelf](https://mangabookshelf.com/)
-- [Manga Mogura RE](https://twitter.com/MangaMoguraRE) 🦆
+- [Manga Mogura RE](https://twitter.com/MangaMoguraRE) :glowing-star:
 - [Manga Splaining](https://www.mangasplaining.com/)
-- [Shonen Jump News](https://twitter.com/WSJ_manga) 🦆
-- [TheOASG](https://twitter.com/TheOASG) 🦆
+- [Shonen Jump News](https://twitter.com/WSJ_manga) :glowing-star:
+- [TheOASG](https://twitter.com/TheOASG) :glowing-star:
 - [Deb Aoki](https://twitter.com/debaoki)
 
 == Music
 
 ### General
-- [JaME](https://www.jame-world.com/en/) 🦆
+- [JaME](https://www.jame-world.com/en/) :glowing-star:
 - [Billboard JAPAN](https://www.billboard-japan.com/d_news/jpn/) :flag-japan:
 - [Uta-Net](https://www.uta-net.com/) :flag-japan:
 - [UtaTen](https://utaten.com/) :flag-japan:
-- [Make Believe Mailer](https://mbmelodies.substack.com/) 🦆
+- [Make Believe Mailer](https://mbmelodies.substack.com/) :glowing-star:
 - [The Needle Drop](https://www.theneedledrop.com/)
 
 ### Doujin & Vocaloid
 - [Vocasphere](https://vocasphere.net/)
-- [Merami fan](https://meramifan.wordpress.com/) 🦆
+- [Merami fan](https://meramifan.wordpress.com/) :glowing-star:
 - [Touhou Memories](https://touhou-memories.com/)
 - [Hatsune Miku](https://twitter.com/cfm_miku_en)
 
@@ -309,21 +309,21 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == RSS
 
 ### Uploads
-- [nyaa](https://nyaa.si/) 🦆
+- [nyaa](https://nyaa.si/) :glowing-star:
 - [Anidex](https://anidex.info/)
-- [Anime tosho](https://animetosho.org/) 🦆
+- [Anime tosho](https://animetosho.org/) :glowing-star:
 - [Anime RSS](https://github.com/ArjixWasTaken/anime-rss)
 
 ### News
-- [Anime Corner](https://animecorner.me/) 🦆
-- [Anime News Network](https://www.animenewsnetwork.com/newsfeed/) 🦆
+- [Anime Corner](https://animecorner.me/) :glowing-star:
+- [Anime News Network](https://www.animenewsnetwork.com/newsfeed/) :glowing-star:
 - [Crunchyroll](https://www.crunchyroll.com/feed)
 - [Manga Updates](https://www.mangaupdates.com/)
 - [Otaku News](https://www.otakunews.com/)
 
 ### Schedule
 - [Livechart](https://www.livechart.me/pages/rss)
-- [Anime Schedule](https://animeschedule.net/rss) 🦆
+- [Anime Schedule](https://animeschedule.net/rss) :glowing-star:
 
 :::tip 💡 Quick Tips {open}
 
@@ -342,7 +342,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == Image
 
 ### Search
-- [SauceNAO](https://saucenao.com/) 🦆
+- [SauceNAO](https://saucenao.com/) :glowing-star:
 - [Trace](https://trace.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/soruly/trace.moe" />
 - [SauceKudasai](https://saucekudasai.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/ayushgptaa/SauceKudasai" />
 - [Multi-service image search](https://iqdb.org/)
@@ -357,14 +357,14 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == Stats
 
 ### Visualizer
-- [Sekai](https://sekai.rl404.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/rl404/sekai" /><Badge type="info" text="MAL" /> 🦆
+- [Sekai](https://sekai.rl404.com/) :glowing-star: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/rl404/sekai" /><Badge type="info" text="MAL" /> 
 - [MAL Badges](https://www.mal-badges.com/) <Badge type="info" text="MAL" />
 - [anime.plus](https://anime.plus/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/anime-plus/graph" /><Badge type="info" text="MAL" />
 - [Anistats](https://mayudev.github.io/anistats/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/mayudev/anistats" /><Badge type="info" text="AL" />
 
 ### Recommender
 - [Spin.moe](https://spin.moe/)
-- [Sprout Anime Recommender](https://anime.ameo.dev/) <Badge type="info" text="MAL" /><Badge type="info" text="AL" /> 🦆
+- [Sprout Anime Recommender](https://anime.ameo.dev/) :glowing-star: <Badge type="info" text="MAL" /><Badge type="info" text="AL" /> 
 
 
 == Music
@@ -372,7 +372,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 ### General
 - [Anime Music Quiz](https://animemusicquiz.com/)
 - [Apple Music Artwork Fetcher](https://artwork.thekvt.eu.org/)
-- [Cover Search Engine](https://covers.musichoarders.xyz/) 🦆
+- [Cover Search Engine](https://covers.musichoarders.xyz/) :glowing-star:
 - [Instafest](https://www.instafest.app/)
 - [Songle](https://songle.jp/) <Badge text="Vocaloid"/>
 - [Soundiiz](https://soundiiz.com/) <Badge text="Trasnfer"/>
@@ -381,15 +381,15 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 ### Spotify
 - [Album Availability on Spotify](https://kaaes.github.io/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/kaaes/albums-availability" />
 - [Check Track Availability](https://spotify-check-track-availability.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/wcelery/spotify-check-track-availability" />
-- [Chosic](https://www.chosic.com/) 🦆
+- [Chosic](https://www.chosic.com/) :glowing-star:
 - [Discover Quickly](https://discoverquickly.com/)
 - [Musicalyst](https://musicalyst.com/)
 - [Playlist Sorter](https://www.playlistsorter.com/)
-- [Skiley](https://skiley.net/) 🦆
+- [Skiley](https://skiley.net/) :glowing-star:
 - [Spotify Dedup](https://spotify-dedup.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/JMPerez/spotify-dedup/" />
 - [Spotify Release List](https://spotifyreleaselist.netlify.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/jakubito/spotify-release-list" />
 - [Stats for Spotify](https://www.statsforspotify.com/)
-- [Volt.fm](https://volt.fm/) 🦆
+- [Volt.fm](https://volt.fm/) :glowing-star:
 
 ### Last.fm
 - [Last.fm stats](https://lastfmstats.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/felhag/lastfm-stats-web" />
@@ -415,16 +415,16 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 :::tabs
 == General
 
-🦆 [Holodex](https://holodex.net/) <Badge type="info" text="Music" link="https://music.holodex.net/" /><Badge type="info" text="Frontend" />
+:glowing-star: [Holodex](https://holodex.net/) <Badge type="info" text="Music" link="https://music.holodex.net/" /><Badge type="info" text="Frontend" />
 
 ### DB
-- [Good VTuber Subs](https://goodvtubersubs.com/) 🦆
+- [Good VTuber Subs](https://goodvtubersubs.com/) :glowing-star:
 - [Virtual YouTuber Wiki ](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki)
 - [Hololist](https://hololist.net/)
 
 ### Stats
-- [VChama](https://vchama.xyz) <Badge type="info" text="Schedule" /> 🦆
-- [vtstats](https://vt.poi.cat/) <Badge type="info" text="Schedule" /><Badge text="Revenue"/> 🦆
+- [VChama](https://vchama.xyz) :glowing-star: <Badge type="info" text="Schedule" />
+- [vtstats](https://vt.poi.cat/) :glowing-star: <Badge type="info" text="Schedule" /><Badge text="Revenue"/> 
 - [VSTATS](https://www.vstats.jp/)
 - [Userlocal Vtuber](https://virtual-youtuber.userlocal.jp/) <Badge type="info" text="Stream Rank" link="https://live-ranking.userlocal.jp/vtuber-ranking" /><Badge type="info" text="Schedule" />
 - [TwitchTracker](https://twitchtracker.com/)
@@ -488,11 +488,11 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 ### Free
 - [Delivering Hope](https://david-wu-softdev.itch.io/delivering-hope-hololive-fangame)
 - [Holo on Suika](https://tkgames.jp/holo_watermelon.html)
-- [Holocure](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/) 🦆
+- [Holocure](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/) :glowing-star:
 - [Hololive Councilrys RPG](https://kebbie.itch.io/councilrysrpg)
-- [Idol Showdown](https://store.steampowered.com/app/1742020/Idol_Showdown/) 🦆
+- [Idol Showdown](https://store.steampowered.com/app/1742020/Idol_Showdown/) :glowing-star:
 - [Mumei's Memory Juggling](https://david-wu-softdev.itch.io/mumeis-memory-juggling)
-- [Nameless](https://sk-jynx.itch.io/nameless) 🦆
+- [Nameless](https://sk-jynx.itch.io/nameless) :glowing-star:
 - [Pebble Jame](https://gioba-games.itch.io/pebble-jame)
 - [smol Ame](https://moocow-games.itch.io/smol-ame)
 - [Takos Organised Neatly](https://ae-lux-production.itch.io/takos-organised-neatly)
@@ -588,18 +588,18 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 - [Comicastle](https://www.comicastle.org/)
 - [Comic Extra](https://ww1.comicextra.com/)
-- [Read All Comics](https://readallcomics.com/) 🦆
+- [Read All Comics](https://readallcomics.com/) :glowing-star:
 - [Read Comics Free](https://readcomicsfree.com/)
-- [Read Comic Online](https://readcomiconline.li/) 🦆
+- [Read Comic Online](https://readcomiconline.li/) :glowing-star:
 - [Read Comics Online](https://readcomicsonline.ru/)
 - [View Comics](https://viewcomics.me/)
-- [XOXO Comics](https://xoxocomics.com/) 🦆
+- [XOXO Comics](https://xoxocomics.com/) :glowing-star:
 
 ### Direct Download
 
 - [Anna’s Archive](https://annas-archive.org/)
 - [Desuarchive](https://desuarchive.org/) <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
-- [Get Comics](https://getcomics.info/) 🦆
+- [Get Comics](https://getcomics.info/) :glowing-star:
 - [Comics All](https://comics-all.com/) <Badge type="tip" text="2" link="https://newcomic.info/" />
 - [Libgen](https://libgen.li/)
 

@@ -8,8 +8,8 @@ import Feedback from "./Modal.vue";
     <div class="card-header">
       <div class="card-title">Emoji Legend</div>
     </div>
-    <Field icon="i-twemoji-duck">Recommendations</Field>
-    <Field icon="i-mdi-information-slab-circle-outline">Extra Info</Field>
+    <Field icon="i-twemoji-glowing-star">Favorite</Field>
+    <Field icon="i-mdi-information-slab-circle-outline">More Info</Field>
     <div class="mb-2 mt-2 gap" />
     <Feedback />
   </div>

@@ -18,7 +18,7 @@ Online resources for anime, manga, novels and more.
   - Huge library with Watch Together feature
   - Less amount of compression compared to other sites that use 3rd party hosts
   - Has both hardsub and softsub (multilingual)
-- [**KickAssAnime**](https://kickassanime.am/) <Badge type="info" text="Proxies" link="https://kickassanimes.info/" /> 🦆
+- [**KickAssAnime**](https://kickassanime.am/) :glowing-star: <Badge type="info" text="Proxies" link="https://kickassanimes.info/" /> 
   - Scrapes **Crunchyroll**(duckstream) and **Bilibili**(birdstream)
   - KAA encodes(videstreaming) are quite good(the new encodes) and loads better.
   - Duck has the highest overall bitrate but may have buffer issue.
@@ -35,7 +35,7 @@ Online resources for anime, manga, novels and more.
 
 == Torrent
 
-- [Nyaa](https://nyaa.si/) <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="Alt" link="https://animetime.cc/" /> 🦆
+- [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="Alt" link="https://animetime.cc/" /> 
 - [Anime Tosho](https://animetosho.org/) <Badge type="info" text="DDL" />
 - [Anidex](https://anidex.info/)
 - [Anirena](https://www.anirena.com/)
@@ -137,7 +137,7 @@ Online resources for anime, manga, novels and more.
 
 == Online
 
-- [**Comick**](https://comick.io/home) <Badge type="tip" text="RSS" icon="i-material-symbols-rss-feed-rounded" link="https://manga.ldez.workers.dev/" /> <Badge type="danger" text="18+" /> 🦆
+- [**Comick**](https://comick.io/home) :glowing-star: <Badge type="tip" text="RSS" icon="i-material-symbols-rss-feed-rounded" link="https://manga.ldez.workers.dev/" /> <Badge type="danger" text="18+" /> 
   - Minimal compression
   - Aggregates from various scanlation groups
   - Has official translations
@@ -295,12 +295,12 @@ I have tried to add all the well-known scanlators for manhwa and manhua, but for
 == Download
 
 ### FLAC
-- [Nyaa](https://nyaa.si/) <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="Torrent" /> 🦆
+- [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="Torrent" /> 
 - [Sukidesu OST](https://sukidesuost.info/) <Badge type="info" text="Mega" /><Badge type="info" text="Torrent" />
 - [Sitting on Clouds](https://www.sittingonclouds.net/) <Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" /><Badge type="info" text="Mega" /><Badge type="info" text="Mediafire" />
 - [SquidBoard](https://www.squid-board.org/) <Badge type="tip" text="Alt" link="https://sqb.moe/" /><Badge type="info" text="Needs account" /><Badge type="info" text="Mega" /><Badge type="info" text="Mediafire" /><Badge type="info" text="GDrive" />
 - [Asia Media Blog](https://asiamediablog.com/media/music/) <Badge type="tip" text="2" link="https://jpmusicblog.com/music/" /><Badge type="tip" text="3" link="https://jpmediadl.com/music/" /><Badge type="danger" text="18+" /><Badge type="info" text="Host" />
-- [DoubleDouble](https://doubledouble.top/) <Badge type="info" text="Downloader" /> 🦆
+- [DoubleDouble](https://doubledouble.top/) :glowing-star: <Badge type="info" text="Downloader" /> 
 - [Free MP3 Download](https://free-mp3-download.net/) <Badge type="info" text="Downloader" />
 
 ### MP3
@@ -429,7 +429,7 @@ I have tried to add all the well-known scanlators for manhwa and manhua, but for
 == ROM
 
 - **General**
-  - [r/roms](https://r-roms.github.io/) 🦆
+  - [r/roms](https://r-roms.github.io/) :glowing-star:
   - [ROMSpure](https://romspure.cc/roms)
   - [CDRomance](https://cdromance.com/)
   - [AlvRo's Collection](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml)
@@ -581,7 +581,7 @@ I have tried to add all the well-known scanlators for manhwa and manhua, but for
   - [Youtube Music](https://music.youtube.com/) <Badge type="tip" text="Beatbump" link="https://beatbump.io/home" /><Badge type="tip" text="Hyperpipe" link="https://hyperpipe.surge.sh/" />
 - **Subscription**
   - [Amazon Music](https://music.amazon.com/)
-  - [Apple Music](https://music.apple.com/) 🦆
+  - [Apple Music](https://music.apple.com/) :glowing-star:
   - [Deezer](https://www.deezer.com/)
   - [Qobuz](https://play.qobuz.com/)
   - [Tidal](https://tidal.com/)
