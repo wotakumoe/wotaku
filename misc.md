@@ -179,7 +179,8 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Vocaloid](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-vocaloid/)
 - [Utaite Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-utaite-music/)
 
-### Playlists
+### Vocaloid
+- [Imo Danshaku](https://www.youtube.com/@user-oc3nr5dv6v/)
 - [Vocamed](https://www.youtube.com/@vocamed)
 - [🍀/jp/ vocaloid playlist ](https://www.youtube.com/playlist?list=PLQqLx44OgzZybkIf7LZ2YI8iLL9b3BpJw)
 - [Vocaloid Big Hits](https://music.youtube.com/playlist?list=RDCLAK5uy_mgu07-HoqLSU-WqjK2ldEQWLuPPm3CAy8)
