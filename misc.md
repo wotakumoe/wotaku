@@ -68,12 +68,12 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == Index
 
 - [Seadex](https://releases.moe/)
-- [Sneedex](https://sneedex.moe/):glowing-star: <Badge type="info" icon="i-logos-discord-icon" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" /> 
+- [Sneedex](https://sneedex.moe/) :glowing-star: <Badge type="info" icon="i-logos-discord-icon" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" /> 
 - [A Certain Fansubber's Index](https://index.fansubcar.tel/)
 - [Fansub Database](https://fansubdb.com/)
 - [German Fansubbers' Index](https://anime-fansubs.de/)
 - [Indonesian Fansubbers' Index](https://www.fansub.id/home)
-- [Seiyuu.moe](https://seiyuu.moe/):glowing-star: 
+- [Seiyuu.moe](https://seiyuu.moe/) :glowing-star: 
 - [Anime voice actor and seiyuu comparison](https://avac.moe/index.php)
 
 == Schedule

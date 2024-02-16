@@ -6,7 +6,7 @@ import Feedback from "./Modal.vue";
 <template>
   <div class="card">
     <div class="card-header">
-      <div class="card-title">Emoji Legend</div>
+      <div class="card-title">Legend</div>
     </div>
     <Field icon="i-twemoji-glowing-star">Favorite</Field>
     <Field icon="i-mdi-information-slab-circle-outline">More Info</Field>
