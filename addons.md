@@ -219,7 +219,6 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 - [TRaSH Guides](https://trash-guides.info/)
 
 == Manga
-
 - [ComicTagger](https://github.com/comictagger/comictagger) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [komf](https://github.com/Snd-R/komf) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-docker:
 - [kurp](https://github.com/Snd-R/kurp) :ic-baseline-window::mingcute-linux-fill::mdi-docker:
@@ -235,7 +234,6 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 - [Sigil-Ebook](https://sigil-ebook.com/) :ic-baseline-window::ic-baseline-apple:
 
 == Trackers
-
 - [Animeo](https://github.com/Jenrykster/animeo) <Badge type="info" text="Stremio" />
 - [Hachidori](https://github.com/Atelier-Shiori/hachidori) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://malupdaterosx.moe/hachidori/" />:ic-baseline-apple:
 - [MALClient](https://github.com/Drutol/MALClient) <Badge type="tip" icon="i-octicon-globe" text="Store" link="https://apps.microsoft.com/store/detail/malclient/9NBLGGH5F3BL" />:ic-baseline-window:
@@ -262,6 +260,7 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
   - [dBpoweramp](https://www.dbpoweramp.com/) :ic-baseline-window::ic-baseline-apple:<Badge type="warning" text="Trialware" />
   - [Exact Audio Copy](https://exactaudiocopy.de/) :ic-baseline-window:
   - [fre:ac](https://www.freac.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+  - [SoX](https://sourceforge.net/projects/sox/) :ic-baseline-window::ic-baseline-apple:
   - [X Lossless Decoder](https://tmkk.undo.jp/xld/index_e.html) :ic-baseline-apple:
   - [Whipper](https://github.com/whipper-team/whipper) :mingcute-linux-fill:
 - **Checker / Visualizer**
