@@ -6,7 +6,7 @@ import { enhanceAppWithTabs } from "vitepress-plugin-tabs/client";
 import { createMediumZoomProvider } from "./composables";
 import ReloadPrompt from "./components/ReloadPrompt.vue";
 import Button from "./components/Button.vue";
-import Feedback from "./components/Modal.vue";
+import SidebarCard from "./components/SidebarCard.vue";
 import Tooltip from "./components/Tooltip.vue";
 import Authors from "./components/Authors.vue";
 import "virtual:uno.css";
@@ -16,7 +16,7 @@ export default {
   Layout: () => {
     return h(Theme.Layout, null, {
       "layout-bottom": () => h(ReloadPrompt),
-      "sidebar-nav-after": () => h(Feedback),
+      "sidebar-nav-after": () => h(SidebarCard),
       // https://vitepress.dev/guide/extending-default-theme#layout-slots
     });
   },

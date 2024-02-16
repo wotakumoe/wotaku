@@ -6,12 +6,11 @@ const showModal = ref(false);
 </script>
 
 <template>
-  <a
-    @click="showModal = true"
-    class="c VButton px4 py3 rounded-md block mt2 flex items-center gap2">
+  <button @click="showModal = true"
+    class="VButton c block font-medium px10 py3 rounded-md block mt2 flex items-center gap2">
     <div class="i-octicon-heart-fill-24" />
     Send Feedback!
-  </a>
+  </button>
 
   <Teleport to="body">
     <Transition name="modal">
