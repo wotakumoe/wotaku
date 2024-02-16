@@ -102,7 +102,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 
 ### Reading
 - [NHK News Web Easy](https://www3.nhk.or.jp/news/easy/)
-- [Manga](/Scanlation.md/#raw)
+- [Manga](/nonen.md#japanese)
 - [Watanoc](https://watanoc.com/)
 - [Yomujp](https://yomujp.com/)
 - [Aozora Bunko](https://www.aozora.gr.jp/) <Badge type="warning" text="Difficult" />
