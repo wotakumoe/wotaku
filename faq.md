@@ -34,6 +34,10 @@ We have explained meanings of a lot a weeb related terms in our glossary section
 For more general piracy related terms, you can check out [FMHY glossary](https://rentry.org/The-Piracy-Glossary). 
 :::
 
+:::details Can I track my anime/manga progress on websites?
+Yes. Try [**MAL-Sync**](https://malsync.moe/). It has support for MyAnimeList, AniList, Kitsu, Simkl & Shikimori.
+:::
+
 :::details Why are some of the torrents red and some green on Nyaa.si?
 - **Green**: Uploaded by trusted uploader.
 ![](/ss/nyaagreen.png)
@@ -42,8 +46,15 @@ For more general piracy related terms, you can check out [FMHY glossary](https:/
 ![](/ss/nyaared.png)
 :::
 
-:::details What is PT / Private Tracker?
+:::details What is PT/Private Tracker, IRC, Usenet?
+### PT/Private Tracker
 Torrent trackers that don't allow you to freely make an account, but require you to get an invitation from an existing member or pass an interview. Some PTs also have specific periods where they allow for open signups.
+
+### IRC
+IRC (Internet Relay Chat) is a really old messaging protocol. It uses client and server connection to communicate. You can use various bot to download files in high speed. Follow [**our guide**](/guides/irc.md) to get started.
+
+### Usenet
+Usenet is a subscription-based service. You can download files using `.nzb` file (which is like a `.torrent`) and a usenet client. Even though it's really old, it's really convinient.
 :::
 
 ## Manga
@@ -85,6 +96,10 @@ You can use multiple sources. [**Nyaa.si**](https://nyaa.si/), [**Madokami**](/g
 
 :::details Where can I download manga in PDF?
 Use CBZ / CBR / ZIP for manga. PDF can create issues in spread and other scenarios. If you really wanna read manga in PDF, use [**Free Manga Downloader 2**](https://github.com/dazedcat19/FMD2) to download as PDF (you have to select PDF format in settings) or [**ACBR**](https://github.com/binarynonsense/comic-book-reader) to convert CBZ into pdf.
+:::
+
+:::details How to compress cbz / cbr easily?
+You can use the [**cbz/cbr file converter**](http://tomeko.net/software/CbxConverter/) to compress your comic files. It utilizes **ImageMagick 7.1.0** to convert the images. By default, it will use `.webp` and `-quality 75` as output parameters. You can configure these settings in the options menu.
 :::
 
 :::details How do I setup my own manga server?
