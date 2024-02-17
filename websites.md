@@ -286,6 +286,7 @@ I have tried to add all the well-known scanlators for manhwa and manhua, but for
 ### Radio
 - [Anison.fm](https://en.anison.fm/) <Badge type="info" text="320kbps" link="https://anison.fm/anison.m3u" />
 - [Yggdrasil Radio](https://yggdrasilradio.com/) <Badge type="info" text="128kbps" link="https://yggdrasilradio.net/yggdrasilradio_mp3_128kbps.pls" />
+- [R/a/dio](https://r-a-d.io/) <Badge type="info" text="192kbps" link="https://r-a-d.io/assets/main.mp3.m3u" />
 - [Anime(bits)](https://radio.animebits.moe/) <Badge type="info" text="FLAC" link="https://radio.animebits.moe/m3u/stream192.mp3.m3u" />
 - [Listen.moe](https://listen.moe/) <Badge type="info" text="128kbps" link="https://listen.moe/m3u8/jpop.m3u" />
 - [chiru.no](https://chiru.no/) <Badge type="info" text="FLAC" link="https://chiru.no/?chiru.no.m3u" />
