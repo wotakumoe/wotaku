@@ -231,6 +231,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 == Others
 - [Anime Pictures](https://anime-pictures.net/) <Badge type="green" text="SFW" />
+- [wanderer.moe](https://wanderer.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/wanderer-moe/site" />
 - [Kemono](https://kemono.su/)
 - [Studio Ghibli](https://www.ghibli.jp/info/013772/) <Badge type="green" text="SFW" />
 - [Wallhaven](https://wallhaven.cc/)
