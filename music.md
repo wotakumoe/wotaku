@@ -234,6 +234,7 @@ aaa
 - [Foobar2000](https://www.foobar2000.org/) :glowing-star: :ic-baseline-window:<Badge type="info" text="Georgia-ReBORN" link="https://github.com/TT-ReBORN/Georgia-ReBORN"/> <Badge type="info" text="Synced Lyrics" link="/guides/foobar#synced-lyrics" />
 - [MusicBee](https://www.getmusicbee.com/) :ic-baseline-window:
 - [WACUP](https://getwacup.com/) :ic-baseline-window:
+- [Amberol](https://apps.gnome.org/Amberol/) :mingcute-linux-fill:
 
 ### Online
 - [Spicetify](https://spicetify.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
