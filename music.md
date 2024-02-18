@@ -7,21 +7,17 @@ customDescription: Everything Music!
 # Music
 Everything Music Related
 
-## Websites
+## Stream
 
 :::tabs
-== Stream
+
+== Anime
 
 ### OP/ED
 - [Anithemes.moe](https://animethemes.moe/) <Badge type="info" text="Alt" link="https://themes.moe/" /><Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/AnimeThemes" />
 - [Karaoke Mugen](https://kara.moe)
 - [Anisong Database](https://anisongdb.com/) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" /><Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/xSardine/AMQ-Artists-DB" />
 - [Squidify](https://www.squidify.org/) <Badge type="tip" text="Guide" link="/guides/squidify" />
-
-### General
-- [Spotify](https://spotify.com/)
-- [Youtube Music](https://music.youtube.com/) <Badge type="tip" text="Beatbump" link="https://beatbump.io/home" /><Badge type="tip" text="Hyperpipe" link="https://hyperpipe.surge.sh/" />
-- [SoundCloud](https://soundcloud.com/)
 
 ### Radio
 - [Anison.fm](https://en.anison.fm/) <Badge type="info" text="320kbps" link="https://anison.fm/anison.m3u" />
@@ -32,7 +28,54 @@ Everything Music Related
 - [Sasalele Music Station](https://github.com/Mikeexe2/Sasalele-Music-Station) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/Mikeexe2/Sasalele-Music-Station" /> <Badge type="info" text="Compilation" />
 - [JPopSuki](http://jpopsuki.fm/) <Badge type="info" text="192kbps" link="http://jpopsuki.fm:2199/tunein/jpopsuki-stream.pls" />
 
-== Download
+== Doujin
+
+### Touhou
+- [Touhou Disc](https://alist.thdisc.tk)
+- [Touhou Player](https://touhou.kuukunen.net/)
+- [TMLC](https://tlmc.pf-n.co/tlmc)
+
+### Radio
+- [Doujin Style](https://embed.radio.co/player/735ee7b.html) <Badge type="info" text="128kbps" link="https://doujinstyle.com/listen.m3u" />
+- [Gensokyo Radio](https://gensokyoradio.net/playing/) <Badge type="info" text="256kbps" link="https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u" /><Badge type="info" text="Touhou" />
+- [Phate](https://phate.io/) <Badge type="info" text="192kbps" link="https://phate.io/phate.m3u" /><Badge type="info" text="Utaite" />
+
+== Games
+
+### Stream
+- [Squidify](https://www.squidify.org)
+- [Zophar's Domain](https://www.zophar.net/music) <Badge type="info" text="DDL" />
+- [Vidya Intarweb Playlist](https://www.vipvgm.net/)
+- [Keygen Music](https://keygenmusic.tk/)
+- [VGMRips](https://vgmrips.net/packs/) <Badge type="info" text="DDL" />
+- [SMS Power](https://vgm.impulseinformatica.com.br/)
+
+### Radio
+- [SquidRadio](https://www.squid-radio.net/)
+- [Rainwave VGM Radio](https://rainwave.cc/all/)
+- [muki](https://muki.io/)
+
+== Legal
+
+### Freemium
+- [Spotify](https://spotify.com/)
+- [Youtube Music](https://music.youtube.com/) <Badge type="tip" text="Beatbump" link="https://beatbump.io/home" /><Badge type="tip" text="Hyperpipe" link="https://hyperpipe.surge.sh/" />
+
+### Subscription
+- [Amazon Music](https://music.amazon.com/)
+- [Apple Music](https://music.apple.com/) :glowing-star:
+- [Deezer](https://www.deezer.com/)
+- [Qobuz](https://play.qobuz.com/)
+- [Tidal](https://tidal.com/)
+
+:::
+
+
+## Download
+
+:::tabs
+
+== Anime
 
 ### FLAC
 - [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="Torrent" /> 
@@ -50,15 +93,8 @@ Everything Music Related
 - [Hiyori OST](https://www.hiyoriost.com/) <Badge type="info" text="GDrive" /><Badge type="info" text="Host" />
 - [Sakura OST](https://www.sakuraost.com/) <Badge type="info" text="Host" />
 
-
 == Doujin
 
-### Touhou
-- [Touhou Disc](https://alist.thdisc.tk)
-- [Touhou Player](https://touhou.kuukunen.net/)
-- [TMLC](https://tlmc.pf-n.co/tlmc)
-
-### Download
 - [MikuDB](https://mikudb.moe/) <Badge type="info" text="GDrive" /><Badge text="Torrent" />
 - [Touhou Disc](https://alist.thdisc.tk)
 - [Doujin Cafe](https://discord.com/invite/doujincafe)
@@ -66,54 +102,58 @@ Everything Music Related
 - [Moriya Shrine](https://moriyashrine.org/) <Badge type="info" text="Torrent" />
 - [Doujin Style](https://doujinstyle.com/) <Badge type="tip" text="Touhou" link="https://doujinstyle.com/?p=tlmc" /><Badge type="info" text="Mediafire" />
 
-### Radio
-- [Doujin Style](https://embed.radio.co/player/735ee7b.html) <Badge type="info" text="128kbps" link="https://doujinstyle.com/listen.m3u" />
-- [Gensokyo Radio](https://gensokyoradio.net/playing/) <Badge type="info" text="256kbps" link="https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u" /><Badge type="info" text="Touhou" />
-- [Phate](https://phate.io/) <Badge type="info" text="192kbps" link="https://phate.io/phate.m3u" /><Badge type="info" text="Utaite" />
-
 == Games
 
-### DDL
 - [Sitting on Clouds](https://www.sittingonclouds.net/)
 - [SquidBoard](https://www.squid-board.org/)
 - [HCS VGM Archive](https://vgm.hcs64.com/)
 - [VGM Preservation Foundation](https://www.vgmpf.com/Wiki/index.php)
 - [VGMusic](https://vgmusic.com/)
 
-### Stream
-- [Squidify](https://www.squidify.org)
-- [Zophar's Domain](https://www.zophar.net/music) <Badge type="info" text="DDL" />
-- [Vidya Intarweb Playlist](https://www.vipvgm.net/)
-- [Keygen Music](https://keygenmusic.tk/)
-- [VGMRips](https://vgmrips.net/packs/) <Badge type="info" text="DDL" />
-- [SMS Power](https://vgm.impulseinformatica.com.br/)
+== Legal (temp)
+aaa
 
-### Radio
-- [SquidRadio](https://www.squid-radio.net/)
-- [Rainwave VGM Radio](https://rainwave.cc/all/)
-- [muki](https://muki.io/)
+:::
+
+## Utility Sites
+
+:::tabs
+
+== General
+- [Anime Music Quiz](https://animemusicquiz.com/)
+- [Apple Music Artwork Fetcher](https://artwork.thekvt.eu.org/)
+- [Cover Search Engine](https://covers.musichoarders.xyz/) :glowing-star:
+- [Instafest](https://www.instafest.app/)
+- [Songle](https://songle.jp/) <Badge text="Vocaloid"/>
+- [Soundiiz](https://soundiiz.com/) <Badge text="Trasnfer"/>
+- [TuneMyMusic](https://www.tunemymusic.com/) <Badge text="Trasnfer"/>
+
+== Spotify
+- [Album Availability on Spotify](https://kaaes.github.io/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/kaaes/albums-availability" />
+- [Check Track Availability](https://spotify-check-track-availability.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/wcelery/spotify-check-track-availability" />
+- [Chosic](https://www.chosic.com/) :glowing-star:
+- [Discover Quickly](https://discoverquickly.com/)
+- [Musicalyst](https://musicalyst.com/)
+- [Playlist Sorter](https://www.playlistsorter.com/)
+- [Skiley](https://skiley.net/) :glowing-star:
+- [Spotify Dedup](https://spotify-dedup.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/JMPerez/spotify-dedup/" />
+- [Spotify Release List](https://spotifyreleaselist.netlify.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/jakubito/spotify-release-list" />
+- [Stats for Spotify](https://www.statsforspotify.com/)
+- [Volt.fm](https://volt.fm/) :glowing-star:
+
+== Last.fm
+- [Last.fm stats](https://lastfmstats.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/felhag/lastfm-stats-web" />
+- [Last History](https://anhuynh.github.io/last-history)
+- [musicorum](https://musicorumapp.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/musicorum-app" />
+- [Scatter.FM](https://scatterfm.markhansen.co.nz/)
+- [Last.fm Time Chart](https://pmcdonough8133.github.io/last.timer/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/pmcdonough8133/last.timer?tab=readme-ov-file" />
 
 :::
 
 
-
-## Misc-sites
+## Info Sites
 
 :::tabs
-
-== info
-
-### Ranking
-- [Kworb](https://kworb.net/)
-- [ORICON](https://www.oricon.co.jp/music/rankinglab/) <Badge type="tip" text="Full" link="https://www.oricon.co.jp/rank/" />
-- [Billboard JAPAN](https://www.billboard-japan.com/charts/)
-- [Uta-Net](https://www.uta-net.com/ranking/)
-- [UtaTen](https://utaten.com/ranking/)
-
-### Events
-- [JaME](https://www.jame-world.com/en/event)
-- [List of J-pop concerts held outside Asia](https://en.wikipedia.org/wiki/List_of_J-pop_concerts_held_outside_Asia) <Badge type="tip" text="Wand" link="https://www.wikiwand.com/en/List_of_J-pop_concerts_held_outside_Asia" />
-- [Songkick](https://www.songkick.com/) <Badge type="info" text="General" />
 
 == Discovery
 
@@ -141,7 +181,6 @@ Everything Music Related
 
 == Portal
 
-
 ### General
 - [JaME](https://www.jame-world.com/en/) :glowing-star:
 - [Billboard JAPAN](https://www.billboard-japan.com/d_news/jpn/) :flag-japan:
@@ -156,94 +195,66 @@ Everything Music Related
 - [Touhou Memories](https://touhou-memories.com/)
 - [Hatsune Miku](https://twitter.com/cfm_miku_en)
 
-== Tools
+== Ranking
+- [Kworb](https://kworb.net/)
+- [ORICON](https://www.oricon.co.jp/music/rankinglab/) <Badge type="tip" text="Full" link="https://www.oricon.co.jp/rank/" />
+- [Billboard JAPAN](https://www.billboard-japan.com/charts/)
+- [Uta-Net](https://www.uta-net.com/ranking/)
+- [UtaTen](https://utaten.com/ranking/)
 
-### General
-- [Anime Music Quiz](https://animemusicquiz.com/)
-- [Apple Music Artwork Fetcher](https://artwork.thekvt.eu.org/)
-- [Cover Search Engine](https://covers.musichoarders.xyz/) :glowing-star:
-- [Instafest](https://www.instafest.app/)
-- [Songle](https://songle.jp/) <Badge text="Vocaloid"/>
-- [Soundiiz](https://soundiiz.com/) <Badge text="Trasnfer"/>
-- [TuneMyMusic](https://www.tunemymusic.com/) <Badge text="Trasnfer"/>
-
-### Spotify
-- [Album Availability on Spotify](https://kaaes.github.io/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/kaaes/albums-availability" />
-- [Check Track Availability](https://spotify-check-track-availability.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/wcelery/spotify-check-track-availability" />
-- [Chosic](https://www.chosic.com/) :glowing-star:
-- [Discover Quickly](https://discoverquickly.com/)
-- [Musicalyst](https://musicalyst.com/)
-- [Playlist Sorter](https://www.playlistsorter.com/)
-- [Skiley](https://skiley.net/) :glowing-star:
-- [Spotify Dedup](https://spotify-dedup.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/JMPerez/spotify-dedup/" />
-- [Spotify Release List](https://spotifyreleaselist.netlify.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/jakubito/spotify-release-list" />
-- [Stats for Spotify](https://www.statsforspotify.com/)
-- [Volt.fm](https://volt.fm/) :glowing-star:
-
-### Last.fm
-- [Last.fm stats](https://lastfmstats.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/felhag/lastfm-stats-web" />
-- [Last History](https://anhuynh.github.io/last-history)
-- [musicorum](https://musicorumapp.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/musicorum-app" />
-- [Scatter.FM](https://scatterfm.markhansen.co.nz/)
-- [Last.fm Time Chart](https://pmcdonough8133.github.io/last.timer/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/pmcdonough8133/last.timer?tab=readme-ov-file" />
+== Events (imp)
+- [JaME](https://www.jame-world.com/en/event)
+- [List of J-pop concerts held outside Asia](https://en.wikipedia.org/wiki/List_of_J-pop_concerts_held_outside_Asia) <Badge type="tip" text="Wand" link="https://www.wikiwand.com/en/List_of_J-pop_concerts_held_outside_Asia" />
+- [Songkick](https://www.songkick.com/) <Badge type="info" text="General" />
 
 :::
 
-## Software
+
+## Player
+
+:::tabs
+== Android
+### Local
+- [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player) :mdi-android:
+- [Poweramp](https://powerampapp.com/) :glowing-star: :mdi-android:
+- [Oto Music Player](https://play.google.com/store/apps/details?id=com.piyush.music) :mdi-android:
+
+### Online
+- [Innertune](https://github.com/z-huang/InnerTune) :glowing-star: :material-symbols-youtube-music::mdi-android:
+- [xManager](https://www.xmanagerapp.com/) :mdi-spotify::mdi-android:
+- [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) :mdi-spotify::ic-baseline-apple:
+- [Spotify++](https://appdb.to/app/cydia/1900000540) :mdi-spotify::ic-baseline-apple:
+
+== iOS (temp)
+aaa
+
+== PC
+### Local
+- [AIMP](https://www.aimp.ru/) :ic-baseline-window:
+- [Foobar2000](https://www.foobar2000.org/) :glowing-star: :ic-baseline-window:<Badge type="info" text="Georgia-ReBORN" link="https://github.com/TT-ReBORN/Georgia-ReBORN"/> <Badge type="info" text="Synced Lyrics" link="/guides/foobar#synced-lyrics" />
+- [MusicBee](https://www.getmusicbee.com/) :ic-baseline-window:
+- [WACUP](https://getwacup.com/) :ic-baseline-window:
+
+### Online
+- [Spicetify](https://spicetify.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [SPOTX](https://github.com/SpotX-Official/SpotX) :ic-baseline-window:
+- [Youtube Music](https://github.com/th-ch/youtube-music) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Karaoke Mugen](https://mugen.karaokes.moe/en/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+
+== Hosting (temp)
+aaa
+
+:::
+
+## Tools
 
 :::tabs
 
-== Player
-### Android
-- **Local**
-  - [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player) :mdi-android:
-  - [Poweramp](https://powerampapp.com/) :glowing-star: :mdi-android:
-  - [Oto Music Player](https://play.google.com/store/apps/details?id=com.piyush.music) :mdi-android:
-- **Online**
-  - [Audire](https://github.com/alexmercerind/audire) :simple-icons-shazam::mdi-android:
-  - [Innertune](https://github.com/z-huang/InnerTune) :glowing-star: :material-symbols-youtube-music::mdi-android:
-  - [xManager](https://www.xmanagerapp.com/) :mdi-spotify::mdi-android:
-  - [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) :mdi-spotify::ic-baseline-apple:
-  - [Spotify++](https://appdb.to/app/cydia/1900000540) :mdi-spotify::ic-baseline-apple:
-
-### PC
-- **Local**
-  - [AIMP](https://www.aimp.ru/) :ic-baseline-window:
-  - [Foobar2000](https://www.foobar2000.org/) :glowing-star: :ic-baseline-window:<Badge type="info" text="Georgia-ReBORN" link="https://github.com/TT-ReBORN/Georgia-ReBORN"/> <Badge type="info" text="Synced Lyrics" link="/guides/foobar#synced-lyrics" />
-  - [MusicBee](https://www.getmusicbee.com/) :ic-baseline-window:
-  - [WACUP](https://getwacup.com/) :ic-baseline-window:
-- **Online**
-  - [Spicetify](https://spicetify.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-  - [SPOTX](https://github.com/SpotX-Official/SpotX) :ic-baseline-window:
-  - [Youtube Music](https://github.com/th-ch/youtube-music) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-  - [Karaoke Mugen](https://mugen.karaokes.moe/en/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-
-== Tools
-
-### Converter & Ripper
-- [dBpoweramp](https://www.dbpoweramp.com/) :ic-baseline-window::ic-baseline-apple:<Badge type="warning" text="Trialware" />
-- [Exact Audio Copy](https://exactaudiocopy.de/) :ic-baseline-window:
-- [fre:ac](https://www.freac.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [SoX](https://sourceforge.net/projects/sox/) :ic-baseline-window::ic-baseline-apple:
-- [X Lossless Decoder](https://tmkk.undo.jp/xld/index_e.html) :ic-baseline-apple:
-- [Whipper](https://github.com/whipper-team/whipper) :mingcute-linux-fill:
-
-### Checker / Visualizer
-- [Bitter](https://www.stillwellaudio.com/plugins/bitter/) :ic-baseline-window::ic-baseline-apple:
-- [cambia LogTools](https://logs.musichoarders.xyz/) :mdi-firefox::mingcute-chrome-fill:
-- [Sonic Visualiser](https://www.sonicvisualiser.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Spek](https://www.spek.cc/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-
-### Tagger
-- [MP3Tag](https://www.mp3tag.de/en/) :ic-baseline-window::ic-baseline-apple:
-
-:::details **Must Read Guides** {open}
-- [redacted Interview Prep](https://interviewfor.red/en/index.html)
-- [Sharky's Guide](https://docs.google.com/document/d/1Poj4p2W0C0Napmwd7bcustlgWrkgp71dy9HlZwUr46w/edit)
-  - [Exact Audio Copy: A Guide to Perfect CD Rips](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg)
-  - [EAC: CD Burning Guide](https://docs.google.com/document/d/1f0ZtHC8phVccLWc-81gNNpy1HARasN07B3j0otwS0cI/edit)
-  - [XLD Guide](https://docs.google.com/document/d/1JPErA-6_2yN-WMVcFGNdIurwFS5cpqNC8GtKrOorDf8/edit)
-- [Music Hoarders Wiki](https://musichoarders.xyz/)
+== Android & iOS (temp)
+- [Audire](https://github.com/alexmercerind/audire) :simple-icons-shazam::mdi-android:
+- [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) :mdi-lastfm::mdi-android:
+- [Stats.fm](https://stats.fm/) :mdi-spotify::mdi-android::ic-baseline-apple:
+- [Marvis Pro](https://apps.apple.com/au/app/marvis-pro/id1447768809) :mdi-lastfm::ic-baseline-apple:
 
 == Donwloader
 
@@ -255,5 +266,32 @@ Everything Music Related
 - [ZSpotify](https://github.com/jsavargas/zspotify) <Badge type="tip" text="GUI" link="https://github.com/PacketSurf/ZSpotifyGUI" />
 
 <Button link="https://rentry.org/firehawk52" icon="i-fxemoji-lightbulb">Firehawk's Guide for Premium Access</Button>
+
+== Converter & Ripper
+- [dBpoweramp](https://www.dbpoweramp.com/) :ic-baseline-window::ic-baseline-apple:<Badge type="warning" text="Trialware" />
+- [Exact Audio Copy](https://exactaudiocopy.de/) :ic-baseline-window:
+- [fre:ac](https://www.freac.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [SoX](https://sourceforge.net/projects/sox/) :ic-baseline-window::ic-baseline-apple:
+- [X Lossless Decoder](https://tmkk.undo.jp/xld/index_e.html) :ic-baseline-apple:
+- [Whipper](https://github.com/whipper-team/whipper) :mingcute-linux-fill:
+
+:::details **Must Read Guides** {open}
+- [redacted Interview Prep](https://interviewfor.red/en/index.html)
+- [Sharky's Guide](https://docs.google.com/document/d/1Poj4p2W0C0Napmwd7bcustlgWrkgp71dy9HlZwUr46w/edit)
+  - [Exact Audio Copy: A Guide to Perfect CD Rips](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg)
+  - [EAC: CD Burning Guide](https://docs.google.com/document/d/1f0ZtHC8phVccLWc-81gNNpy1HARasN07B3j0otwS0cI/edit)
+  - [XLD Guide](https://docs.google.com/document/d/1JPErA-6_2yN-WMVcFGNdIurwFS5cpqNC8GtKrOorDf8/edit)
+- [Music Hoarders Wiki](https://musichoarders.xyz/)
+
+== Checker / Visualizer
+- [Bitter](https://www.stillwellaudio.com/plugins/bitter/) :ic-baseline-window::ic-baseline-apple:
+- [cambia LogTools](https://logs.musichoarders.xyz/) :mdi-firefox::mingcute-chrome-fill:
+- [Sonic Visualiser](https://www.sonicvisualiser.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Spek](https://www.spek.cc/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+
+
+== Tagger
+- [MP3Tag](https://www.mp3tag.de/en/) :ic-baseline-window::ic-baseline-apple:
+
 
 :::
