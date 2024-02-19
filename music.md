@@ -22,6 +22,7 @@ Everything Music Related
 ### Radio
 - [Anison.fm](https://en.anison.fm/) <Badge type="info" text="320kbps" link="https://anison.fm/anison.m3u" />
 - [Yggdrasil Radio](https://yggdrasilradio.com/) <Badge type="info" text="128kbps" link="https://yggdrasilradio.net/yggdrasilradio_mp3_128kbps.pls" />
+- [R/a/dio](https://r-a-d.io/) <Badge type="info" text="192kbps" link="https://r-a-d.io/assets/main.mp3.m3u" />
 - [Anime(bits)](https://radio.animebits.moe/) <Badge type="info" text="FLAC" link="https://radio.animebits.moe/m3u/stream192.mp3.m3u" />
 - [Listen.moe](https://listen.moe/) <Badge type="info" text="128kbps" link="https://listen.moe/m3u8/jpop.m3u" />
 - [chiru.no](https://chiru.no/) <Badge type="info" text="FLAC" link="https://chiru.no/?chiru.no.m3u" />
@@ -31,7 +32,6 @@ Everything Music Related
 == Doujin
 
 ### Touhou
-- [Touhou Disc](https://alist.thdisc.tk)
 - [Touhou Player](https://touhou.kuukunen.net/)
 - [TMLC](https://tlmc.pf-n.co/tlmc)
 
@@ -78,10 +78,10 @@ Everything Music Related
 == Anime
 
 ### FLAC
-- [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="Torrent" /> 
+- [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="Torrent" />
 - [Sitting on Clouds](https://www.sittingonclouds.net/) :glowing-star: <Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" /><Badge type="info" text="Mega" /><Badge type="info" text="Mediafire" />
-- [OKAMIMI OST](https://okamimiost.com/) <Badge type="info" text="Terabox" />
 - [SquidBoard](https://www.squid-board.org/) <Badge type="tip" text="Alt" link="https://sqb.moe/" /><Badge type="info" text="Needs account" /><Badge type="info" text="Mega" /><Badge type="info" text="Mediafire" /><Badge type="info" text="GDrive" />
+- [OKAMIMI OST](https://okamimiost.com/) <Badge type="info" text="Terabox" />
 - [Sukidesu OST](https://sukidesuost.info/) <Badge type="info" text="Mega" /><Badge type="info" text="Torrent" />
 - [Asia Media Blog](https://asiamediablog.com/media/music/) <Badge type="tip" text="2" link="https://jpmusicblog.com/music/" /><Badge type="tip" text="3" link="https://jpmediadl.com/music/" /><Badge type="danger" text="18+" /><Badge type="info" text="Host" />
 - [DoubleDouble](https://doubledouble.top/) :glowing-star: <Badge type="info" text="Downloader" /> 
@@ -110,8 +110,13 @@ Everything Music Related
 - [VGM Preservation Foundation](https://www.vgmpf.com/Wiki/index.php)
 - [VGMusic](https://vgmusic.com/)
 
-== Legal (temp)
-aaa
+== Legal
+
+- [Amazon](https://www.amazon.com/)
+- [Qobuz](https://www.qobuz.com/us-en/shop)
+- [Mora](https://mora.jp/)
+- [Ototoy](https://ototoy.jp/)
+- [Recochoku](https://recochoku.jp/)
 
 :::
 
@@ -155,6 +160,28 @@ aaa
 
 :::tabs
 
+== Database
+
+### General
+- [Last.fm](https://www.last.fm/) :glowing-star: 
+- [Discogs](https://www.discogs.com/)
+- [MusicBrainz](https://musicbrainz.org/)
+- [VGMdb](https://vgmdb.net/)
+
+### Anime
+- [Aniplaylist](https://aniplaylist.com/)
+- [Anime Song Lyrics](https://www.animesonglyrics.com/)
+
+### Doujin
+- [VocaDB](https://vocadb.net/)
+- [TouhouDB](https://touhoudb.com/)
+- [UtaiteDB](https://utaitedb.net/)
+- [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)
+- [THB Wiki](https://thwiki.cc/)
+- [Touhou Spotify Music](https://www.thspotify.moe/) <Badge type="tip" text="Docs" link="https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit#gid=0" />
+- [Utaite Key](https://utaite-key.info/)
+
+
 == Discovery
 
 ### General
@@ -195,14 +222,16 @@ aaa
 - [Touhou Memories](https://touhou-memories.com/)
 - [Hatsune Miku](https://twitter.com/cfm_miku_en)
 
-== Ranking
+== Others
+
+### Ranking
 - [Kworb](https://kworb.net/)
 - [ORICON](https://www.oricon.co.jp/music/rankinglab/) <Badge type="tip" text="Full" link="https://www.oricon.co.jp/rank/" />
 - [Billboard JAPAN](https://www.billboard-japan.com/charts/)
 - [Uta-Net](https://www.uta-net.com/ranking/)
 - [UtaTen](https://utaten.com/ranking/)
 
-== Events (imp)
+### Events
 - [JaME](https://www.jame-world.com/en/event)
 - [List of J-pop concerts held outside Asia](https://en.wikipedia.org/wiki/List_of_J-pop_concerts_held_outside_Asia) <Badge type="tip" text="Wand" link="https://www.wikiwand.com/en/List_of_J-pop_concerts_held_outside_Asia" />
 - [Songkick](https://www.songkick.com/) <Badge type="info" text="General" />
@@ -210,10 +239,10 @@ aaa
 :::
 
 
-## Player
+## Phone
 
 :::tabs
-== Android
+== Player
 ### Local
 - [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player) :mdi-android:
 - [Poweramp](https://powerampapp.com/) :glowing-star: :mdi-android:
@@ -225,13 +254,26 @@ aaa
 - [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) :mdi-spotify::ic-baseline-apple:
 - [Spotify++](https://appdb.to/app/cydia/1900000540) :mdi-spotify::ic-baseline-apple:
 
-== iOS (temp)
-aaa
 
-== PC
+== Tools
+
+- [Audire](https://github.com/alexmercerind/audire) :simple-icons-shazam::mdi-android:
+- [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) :mdi-lastfm::mdi-android:
+- [Stats.fm](https://stats.fm/) :mdi-spotify::mdi-android::ic-baseline-apple:
+- [Marvis Pro](https://apps.apple.com/au/app/marvis-pro/id1447768809) :mdi-lastfm::ic-baseline-apple:
+
+
+:::
+
+## PC
+
+:::tabs
+
+== Player
+
 ### Local
-- [AIMP](https://www.aimp.ru/) :ic-baseline-window:
-- [Foobar2000](https://www.foobar2000.org/) :glowing-star: :ic-baseline-window:<Badge type="info" text="Georgia-ReBORN" link="https://github.com/TT-ReBORN/Georgia-ReBORN"/> <Badge type="info" text="Synced Lyrics" link="/guides/foobar#synced-lyrics" />
+- [AIMP](https://www.aimp.ru/) :ic-baseline-window::mingcute-linux-fill:
+- [Foobar2000](https://www.foobar2000.org/) :glowing-star: :ic-baseline-window::ic-baseline-apple:<Badge type="info" text="Georgia-ReBORN" link="https://github.com/TT-ReBORN/Georgia-ReBORN"/> <Badge type="info" text="Synced Lyrics" link="/guides/foobar#synced-lyrics" />
 - [MusicBee](https://www.getmusicbee.com/) :ic-baseline-window:
 - [WACUP](https://getwacup.com/) :ic-baseline-window:
 - [Amberol](https://apps.gnome.org/Amberol/) :mingcute-linux-fill:
@@ -241,21 +283,6 @@ aaa
 - [SPOTX](https://github.com/SpotX-Official/SpotX) :ic-baseline-window:
 - [Youtube Music](https://github.com/th-ch/youtube-music) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Karaoke Mugen](https://mugen.karaokes.moe/en/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-
-== Hosting (temp)
-aaa
-
-:::
-
-## Tools
-
-:::tabs
-
-== Android & iOS (temp)
-- [Audire](https://github.com/alexmercerind/audire) :simple-icons-shazam::mdi-android:
-- [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) :mdi-lastfm::mdi-android:
-- [Stats.fm](https://stats.fm/) :mdi-spotify::mdi-android::ic-baseline-apple:
-- [Marvis Pro](https://apps.apple.com/au/app/marvis-pro/id1447768809) :mdi-lastfm::ic-baseline-apple:
 
 == Donwloader
 
@@ -284,15 +311,64 @@ aaa
   - [XLD Guide](https://docs.google.com/document/d/1JPErA-6_2yN-WMVcFGNdIurwFS5cpqNC8GtKrOorDf8/edit)
 - [Music Hoarders Wiki](https://musichoarders.xyz/)
 
-== Checker / Visualizer
+== Others
+### Checker / Visualizer
 - [Bitter](https://www.stillwellaudio.com/plugins/bitter/) :ic-baseline-window::ic-baseline-apple:
 - [cambia LogTools](https://logs.musichoarders.xyz/) :mdi-firefox::mingcute-chrome-fill:
 - [Sonic Visualiser](https://www.sonicvisualiser.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Spek](https://www.spek.cc/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
 
-== Tagger
+### Tagger
 - [MP3Tag](https://www.mp3tag.de/en/) :ic-baseline-window::ic-baseline-apple:
+- [MusicBrainz Picard](https://picard.musicbrainz.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
+:::
+
+## Server
+
+:::tabs
+
+== Server
+- [Airsonic](https://airsonic.github.io/)
+- [Jellyfin](https://jellyfin.org/)
+- [Navidrome](https://www.navidrome.org/)
+- [Subsonic](https://www.subsonic.org/pages/index.jsp)
+
+== Android
+- [Subtracks](https://github.com/austinried/subtracks#readme)
+- [substreamer](https://substreamerapp.com/)
+- [Ultrasonic](https://ultrasonic.gitlab.io/)
+- [DSub](https://play.google.com/store/apps/details?id=github.daneren2005.dsub) <Badge type="warning" text="Paid" />
+- [Symfonium](https://symfonium.app/) <Badge type="warning" text="Paid" />
+
+== iOS
+
+- [play:Sub](http://michaelsapps.dk/playsubapp/)
+- [substreamer](https://substreamerapp.com/)
+- [Amperfy](https://github.com/BLeeEZ/amperfy#readme)
+- [iSub](https://isub.app)
+
+
+== Desktop
+
+- [Sonixd](https://github.com/jeffvli/sonixd) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Sublime Music](https://sublimemusic.app/) :mingcute-linux-fill:
+- [Supersonic](https://github.com/dweymouth/supersonic)  :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Submariner](https://submarinerapp.com/) :ic-baseline-apple:
+- **CLI**
+    - [Jellycli](https://github.com/tryffel/jellycli#readme) :ic-baseline-window::mingcute-linux-fill:
+    - [STMP](https://github.com/wildeyedskies/stmp#readme) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+
+== Others
+- [SonicLair](https://play.google.com/store/apps/details?id=tech.logica10.soniclair) <Badge type="info" text="Android TV" />
+- **Connected Speakers**
+  - [bonob](https://github.com/simojenki/bonob#readme) <Badge type="info" text="Sonos" />
+  - [AskSonic](https://github.com/srichter/asksonic#readme) <Badge type="info" text="Alexa" />
+- [Subsonic Kodi Plugin](https://github.com/warwickh/plugin.audio.subsonic#readme)
+- [Navidrome Kodi Plugin](https://github.com/BobHasNoSoul/plugin.audio.navidrome#readme)
+- [HTTPDirFS](https://github.com/fangfufu/httpdirfs#readme)
+- [upmpdcli](https://www.lesbonscomptes.com/upmpdcli/index.html)
+    - Expose Navidrome as a UPnP/DLNA media library. See the <Badge type="tip" text="discussion" link="https://github.com/navidrome/navidrome/discussions/2324" />
 
 :::
