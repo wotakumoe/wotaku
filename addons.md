@@ -47,18 +47,6 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 
 == Media
 
-### Audio
-- **Local**
-  - [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player) :mdi-android:
-  - [Poweramp](https://powerampapp.com/) :glowing-star: :mdi-android:
-  - [Oto Music Player](https://play.google.com/store/apps/details?id=com.piyush.music) :mdi-android:
-- **Online**
-  - [Audire](https://github.com/alexmercerind/audire) :simple-icons-shazam::mdi-android:
-  - [Innertune](https://github.com/z-huang/InnerTune) :glowing-star: :material-symbols-youtube-music::mdi-android:
-  - [xManager](https://www.xmanagerapp.com/) :mdi-spotify::mdi-android:
-  - [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) :mdi-spotify::ic-baseline-apple:
-  - [Spotify++](https://appdb.to/app/cydia/1900000540) :mdi-spotify::ic-baseline-apple:
-
 ### Illustration
 - [Boorusphere](https://github.com/nullxception/boorusphere) :mdi-android:
 - Pixiv <Badge type="tip" icon="i-mdi-android" text="Android" link="https://play.google.com/store/apps/details?id=jp.pxv.android" />
@@ -94,9 +82,6 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 - [Kitsu](https://github.com/hummingbird-me/kitsu-mobile) <Badge type="tip" icon="i-mdi-android" text="Android" link="https://play.google.com/store/apps/details?id=com.everfox.animetrackerandroid&hl=en&gl=US" /><Badge type="tip" icon="i-ic-baseline-apple" text="iOS" link="https://apps.apple.com/us/app/kitsu-anime/id590452826" />
 - [Kitsune](https://github.com/Drumber/Kitsune) :simple-icons-kitsu:
 - [OpenComicVine](https://github.com/proninyaroslav/OpenComicVine) <Badge type="info" text="ComicVine" />
-- [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) :mdi-lastfm::mdi-android:
-- [Stats.fm](https://stats.fm/) :mdi-spotify::mdi-android::ic-baseline-apple:
-- [Marvis Pro](https://apps.apple.com/au/app/marvis-pro/id1447768809) :mdi-lastfm::ic-baseline-apple:
 
 == Others
 
@@ -166,15 +151,6 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
   - [PixivUtil2](https://github.com/Nandaka/PixivUtil2) :ic-baseline-window:
 - **Video**
   - [yt-dlp](https://github.com/yt-dlp/yt-dlp) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge type="info" text="GUI" link="https://github.com/kannagi0303/yt-dlp-gui" /><Badge type="info" text="GUI Installer" link="https://github.com/kazukikasama/youtube-dlp-gui-installer" />
-- **Music**
-  - [Nicotine+](https://nicotine-plus.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-lan-pending:<tooltip>Direct peer-to-peer sharing network, primarily used for music</tooltip>
-  - [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD)
-  - [Deemix](https://download.deemix.workers.dev/)
-  - [Soggfy](https://github.com/Rafiuth/Soggfy) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-  - [Spotify AAC Downloader](https://github.com/glomatico/spotify-aac-downloader)
-  - [ZSpotify](https://github.com/jsavargas/zspotify) <Badge type="tip" text="GUI" link="https://github.com/PacketSurf/ZSpotifyGUI" />
-
-<Button link="https://rentry.org/firehawk52" icon="i-fxemoji-lightbulb">Firehawk's Guide for Premium Access</Button>
 
 :::
 
@@ -241,43 +217,6 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 - [Trackma](https://github.com/z411/trackma) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://z411.github.io/trackma/" />:mingcute-linux-fill:
 - [Tundra](https://github.com/m4tx/tundra) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://tundra.moe/" />:mingcute-linux-fill:
 
-== Music
-
-### Player
-- **Local**
-  - [AIMP](https://www.aimp.ru/) :ic-baseline-window:
-  - [Foobar2000](https://www.foobar2000.org/) :glowing-star: :ic-baseline-window:<Badge type="info" text="Georgia-ReBORN" link="https://github.com/TT-ReBORN/Georgia-ReBORN"/> <Badge type="info" text="Synced Lyrics" link="/guides/foobar#synced-lyrics" />
-  - [MusicBee](https://www.getmusicbee.com/) :ic-baseline-window:
-  - [WACUP](https://getwacup.com/) :ic-baseline-window:
-- **Online**
-  - [Spicetify](https://spicetify.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-  - [SPOTX](https://github.com/SpotX-Official/SpotX) :ic-baseline-window:
-  - [Youtube Music](https://github.com/th-ch/youtube-music) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-  - [Karaoke Mugen](https://mugen.karaokes.moe/en/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-
-### Tools
-- **Converter & Ripper**
-  - [dBpoweramp](https://www.dbpoweramp.com/) :ic-baseline-window::ic-baseline-apple:<Badge type="warning" text="Trialware" />
-  - [Exact Audio Copy](https://exactaudiocopy.de/) :ic-baseline-window:
-  - [fre:ac](https://www.freac.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-  - [SoX](https://sourceforge.net/projects/sox/) :ic-baseline-window::ic-baseline-apple:
-  - [X Lossless Decoder](https://tmkk.undo.jp/xld/index_e.html) :ic-baseline-apple:
-  - [Whipper](https://github.com/whipper-team/whipper) :mingcute-linux-fill:
-- **Checker / Visualizer**
-  - [Bitter](https://www.stillwellaudio.com/plugins/bitter/) :ic-baseline-window::ic-baseline-apple:
-  - [cambia LogTools](https://logs.musichoarders.xyz/) :mdi-firefox::mingcute-chrome-fill:
-  - [Sonic Visualiser](https://www.sonicvisualiser.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-  - [Spek](https://www.spek.cc/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- **Tagger**
-  - [MP3Tag](https://www.mp3tag.de/en/) :ic-baseline-window::ic-baseline-apple:
-
-:::details **Must Read Guides** {open}
-- [redacted Interview Prep](https://interviewfor.red/en/index.html)
-- [Sharky's Guide](https://docs.google.com/document/d/1Poj4p2W0C0Napmwd7bcustlgWrkgp71dy9HlZwUr46w/edit)
-  - [Exact Audio Copy: A Guide to Perfect CD Rips](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg)
-  - [EAC: CD Burning Guide](https://docs.google.com/document/d/1f0ZtHC8phVccLWc-81gNNpy1HARasN07B3j0otwS0cI/edit)
-  - [XLD Guide](https://docs.google.com/document/d/1JPErA-6_2yN-WMVcFGNdIurwFS5cpqNC8GtKrOorDf8/edit)
-- [Music Hoarders Wiki](https://musichoarders.xyz/)
 
 == Video
 

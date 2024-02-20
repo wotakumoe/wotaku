@@ -265,97 +265,11 @@ I have tried to add all the well-known scanlators for manhwa and manhua, but for
 
 :::
 
-![](/banner/msuic.png)
+</br>
 
-## Music
+<Button link="/music" icon="i-fxemoji-warningsign">Music now has it's own megathread!</Button>
 
-:::tabs
-== Stream
-
-### OP/ED
-- [Anithemes.moe](https://animethemes.moe/) <Badge type="info" text="Alt" link="https://themes.moe/" /><Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/AnimeThemes" />
-- [Karaoke Mugen](https://kara.moe)
-- [Anisong Database](https://anisongdb.com/) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" /><Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/xSardine/AMQ-Artists-DB" />
-- [Squidify](https://www.squidify.org/) <Badge type="tip" text="Guide" link="/guides/squidify" />
-
-### General
-- [Spotify](https://spotify.com/)
-- [Youtube Music](https://music.youtube.com/) <Badge type="tip" text="Beatbump" link="https://beatbump.io/home" /><Badge type="tip" text="Hyperpipe" link="https://hyperpipe.surge.sh/" />
-- [SoundCloud](https://soundcloud.com/)
-
-### Radio
-- [Anison.fm](https://en.anison.fm/) <Badge type="info" text="320kbps" link="https://anison.fm/anison.m3u" />
-- [Yggdrasil Radio](https://yggdrasilradio.com/) <Badge type="info" text="128kbps" link="https://yggdrasilradio.net/yggdrasilradio_mp3_128kbps.pls" />
-- [R/a/dio](https://r-a-d.io/) <Badge type="info" text="192kbps" link="https://r-a-d.io/assets/main.mp3.m3u" />
-- [Anime(bits)](https://radio.animebits.moe/) <Badge type="info" text="FLAC" link="https://radio.animebits.moe/m3u/stream192.mp3.m3u" />
-- [Listen.moe](https://listen.moe/) <Badge type="info" text="128kbps" link="https://listen.moe/m3u8/jpop.m3u" />
-- [chiru.no](https://chiru.no/) <Badge type="info" text="FLAC" link="https://chiru.no/?chiru.no.m3u" />
-- [Sasalele Music Station](https://github.com/Mikeexe2/Sasalele-Music-Station) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/Mikeexe2/Sasalele-Music-Station" /> <Badge type="info" text="Compilation" />
-- [JPopSuki](http://jpopsuki.fm/) <Badge type="info" text="192kbps" link="http://jpopsuki.fm:2199/tunein/jpopsuki-stream.pls" />
-
-== Download
-
-### FLAC
-- [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="Torrent" /> 
-- [Sitting on Clouds](https://www.sittingonclouds.net/) :glowing-star: <Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" /><Badge type="info" text="Mega" /><Badge type="info" text="Mediafire" />
-- [OKAMIMI OST](https://okamimiost.com/) <Badge type="info" text="Terabox" />
-- [SquidBoard](https://www.squid-board.org/) <Badge type="tip" text="Alt" link="https://sqb.moe/" /><Badge type="info" text="Needs account" /><Badge type="info" text="Mega" /><Badge type="info" text="Mediafire" /><Badge type="info" text="GDrive" />
-- [Sukidesu OST](https://sukidesuost.info/) <Badge type="info" text="Mega" /><Badge type="info" text="Torrent" />
-- [Asia Media Blog](https://asiamediablog.com/media/music/) <Badge type="tip" text="2" link="https://jpmusicblog.com/music/" /><Badge type="tip" text="3" link="https://jpmediadl.com/music/" /><Badge type="danger" text="18+" /><Badge type="info" text="Host" />
-- [DoubleDouble](https://doubledouble.top/) :glowing-star: <Badge type="info" text="Downloader" /> 
-- [yet another music server](https://discord.gg/JHCTtMVK) :ic-outline-discord:  <Badge type="info" text="Downloader" />
-- [Free MP3 Download](https://free-mp3-download.net/) <Badge type="info" text="Downloader" />
-
-### MP3
-- [OS Anime](https://osanime.com/) <Badge type="info" text="Direct" />
-- [Hiyori OST](https://www.hiyoriost.com/) <Badge type="info" text="GDrive" /><Badge type="info" text="Host" />
-- [Sakura OST](https://www.sakuraost.com/) <Badge type="info" text="Host" />
-
-
-== Doujin
-
-### Touhou
-- [Touhou Disc](https://alist.thdisc.tk)
-- [Touhou Player](https://touhou.kuukunen.net/)
-- [TMLC](https://tlmc.pf-n.co/tlmc)
-
-### Download
-- [MikuDB](https://mikudb.moe/) <Badge type="info" text="GDrive" /><Badge text="Torrent" />
-- [Touhou Disc](https://alist.thdisc.tk)
-- [Doujin Cafe](https://discord.com/invite/doujincafe)
-- [Doujin Music](https://vk.com/wall-60027733)
-- [Moriya Shrine](https://moriyashrine.org/) <Badge type="info" text="Torrent" />
-- [Doujin Style](https://doujinstyle.com/) <Badge type="tip" text="Touhou" link="https://doujinstyle.com/?p=tlmc" /><Badge type="info" text="Mediafire" />
-
-### Radio
-- [Doujin Style](https://embed.radio.co/player/735ee7b.html) <Badge type="info" text="128kbps" link="https://doujinstyle.com/listen.m3u" />
-- [Gensokyo Radio](https://gensokyoradio.net/playing/) <Badge type="info" text="256kbps" link="https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u" /><Badge type="info" text="Touhou" />
-- [Phate](https://phate.io/) <Badge type="info" text="192kbps" link="https://phate.io/phate.m3u" /><Badge type="info" text="Utaite" />
-
-== Games
-
-### DDL
-- [Sitting on Clouds](https://www.sittingonclouds.net/)
-- [SquidBoard](https://www.squid-board.org/)
-- [HCS VGM Archive](https://vgm.hcs64.com/)
-- [VGM Preservation Foundation](https://www.vgmpf.com/Wiki/index.php)
-- [VGMusic](https://vgmusic.com/)
-
-### Stream
-- [Squidify](https://www.squidify.org)
-- [Zophar's Domain](https://www.zophar.net/music) <Badge type="info" text="DDL" />
-- [Vidya Intarweb Playlist](https://www.vipvgm.net/)
-- [Keygen Music](https://keygenmusic.tk/)
-- [VGMRips](https://vgmrips.net/packs/) <Badge type="info" text="DDL" />
-- [SMS Power](https://vgm.impulseinformatica.com.br/)
-
-### Radio
-- [SquidRadio](https://www.squid-radio.net/)
-- [Rainwave VGM Radio](https://rainwave.cc/all/)
-- [muki](https://muki.io/)
-
-:::
-
+</br>
 
 ![](/banner/novels.png)
 

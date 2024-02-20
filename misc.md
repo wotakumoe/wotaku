@@ -39,27 +39,6 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [The Visual Novel Database (VNDB)](https://vndb.org/) :glowing-star:
 - [VNStat](https://vnstat.net/)
 
-== Music
-
-### General
-- [Last.fm](https://www.last.fm/) :glowing-star: 
-- [Discogs](https://www.discogs.com/)
-- [MusicBrainz](https://musicbrainz.org/)
-- [VGMdb](https://vgmdb.net/)
-
-### Anime
-- [Aniplaylist](https://aniplaylist.com/)
-- [Anime Song Lyrics](https://www.animesonglyrics.com/)
-
-### Doujin
-- [VocaDB](https://vocadb.net/)
-- [TouhouDB](https://touhoudb.com/)
-- [UtaiteDB](https://utaitedb.net/)
-- [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)
-- [THB Wiki](https://thwiki.cc/)
-- [Touhou Spotify Music](https://www.thspotify.moe/) <Badge type="tip" text="Docs" link="https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit#gid=0" />
-- [Utaite Key](https://utaite-key.info/)
-
 :::
 
 ### Anime
@@ -143,49 +122,6 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 :::
 
-### Music
-
-:::tabs
-
-== info
-
-### Ranking
-- [Kworb](https://kworb.net/)
-- [ORICON](https://www.oricon.co.jp/music/rankinglab/) <Badge type="tip" text="Full" link="https://www.oricon.co.jp/rank/" />
-- [Billboard JAPAN](https://www.billboard-japan.com/charts/)
-- [Uta-Net](https://www.uta-net.com/ranking/)
-- [UtaTen](https://utaten.com/ranking/)
-
-### Events
-- [JaME](https://www.jame-world.com/en/event)
-- [List of J-pop concerts held outside Asia](https://en.wikipedia.org/wiki/List_of_J-pop_concerts_held_outside_Asia) <Badge type="tip" text="Wand" link="https://www.wikiwand.com/en/List_of_J-pop_concerts_held_outside_Asia" />
-- [Songkick](https://www.songkick.com/) <Badge type="info" text="General" />
-
-== Discovery
-
-### General
-- [Rate Your Music](https://rateyourmusic.com/) :glowing-star:
-- [Chosic](https://www.chosic.com/) :glowing-star:
-- [Discover Quickly](https://discoverquickly.com/)
-- [Skiley](https://skiley.net/)
-- [Music-Map](https://www.music-map.com/)
-- [Japanese music by year](https://en.wikipedia.org/wiki/Category:Japanese_music_by_year) <Badge type="tip" text="Wand" link="https://www.wikiwand.com/en/Category:Japanese_music_by_year" />
-- [Dubolt](https://dubolt.com/)
-
-### RYM Ultimate Box Set :glowing-star:
-- [Japanese Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-japanese-music/)
-- [Doujin Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-doujin-music/)
-- [Touhou Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-touhou-music/)
-- [Vocaloid](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-vocaloid/)
-- [Utaite Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-utaite-music/)
-
-### Vocaloid
-- [Imo Danshaku](https://www.youtube.com/@user-oc3nr5dv6v/)
-- [Vocamed](https://www.youtube.com/@vocamed)
-- [🍀/jp/ vocaloid playlist ](https://www.youtube.com/playlist?list=PLQqLx44OgzZybkIf7LZ2YI8iLL9b3BpJw)
-- [Vocaloid Big Hits](https://music.youtube.com/playlist?list=RDCLAK5uy_mgu07-HoqLSU-WqjK2ldEQWLuPPm3CAy8)
-
-:::
 
 ### Others
 - **Games**
@@ -281,21 +217,6 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [TheOASG](https://twitter.com/TheOASG) :glowing-star:
 - [Deb Aoki](https://twitter.com/debaoki)
 
-== Music
-
-### General
-- [JaME](https://www.jame-world.com/en/) :glowing-star:
-- [Billboard JAPAN](https://www.billboard-japan.com/d_news/jpn/) :flag-japan:
-- [Uta-Net](https://www.uta-net.com/) :flag-japan:
-- [UtaTen](https://utaten.com/) :flag-japan:
-- [Make Believe Mailer](https://mbmelodies.substack.com/) :glowing-star:
-- [The Needle Drop](https://www.theneedledrop.com/)
-
-### Doujin & Vocaloid
-- [Vocasphere](https://vocasphere.net/)
-- [Merami fan](https://meramifan.wordpress.com/) :glowing-star:
-- [Touhou Memories](https://touhou-memories.com/)
-- [Hatsune Miku](https://twitter.com/cfm_miku_en)
 
 == Games
 
@@ -368,37 +289,6 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Spin.moe](https://spin.moe/)
 - [Sprout Anime Recommender](https://anime.ameo.dev/) :glowing-star: <Badge type="info" text="MAL" /><Badge type="info" text="AL" /> 
 
-
-== Music
-
-### General
-- [Anime Music Quiz](https://animemusicquiz.com/)
-- [Apple Music Artwork Fetcher](https://artwork.thekvt.eu.org/)
-- [Cover Search Engine](https://covers.musichoarders.xyz/) :glowing-star:
-- [Instafest](https://www.instafest.app/)
-- [Songle](https://songle.jp/) <Badge text="Vocaloid"/>
-- [Soundiiz](https://soundiiz.com/) <Badge text="Trasnfer"/>
-- [TuneMyMusic](https://www.tunemymusic.com/) <Badge text="Trasnfer"/>
-
-### Spotify
-- [Album Availability on Spotify](https://kaaes.github.io/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/kaaes/albums-availability" />
-- [Check Track Availability](https://spotify-check-track-availability.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/wcelery/spotify-check-track-availability" />
-- [Chosic](https://www.chosic.com/) :glowing-star:
-- [Discover Quickly](https://discoverquickly.com/)
-- [Musicalyst](https://musicalyst.com/)
-- [Playlist Sorter](https://www.playlistsorter.com/)
-- [Skiley](https://skiley.net/) :glowing-star:
-- [Spotify Dedup](https://spotify-dedup.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/JMPerez/spotify-dedup/" />
-- [Spotify Release List](https://spotifyreleaselist.netlify.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/jakubito/spotify-release-list" />
-- [Stats for Spotify](https://www.statsforspotify.com/)
-- [Volt.fm](https://volt.fm/) :glowing-star:
-
-### Last.fm
-- [Last.fm stats](https://lastfmstats.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/felhag/lastfm-stats-web" />
-- [Last History](https://anhuynh.github.io/last-history)
-- [musicorum](https://musicorumapp.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/musicorum-app" />
-- [Scatter.FM](https://scatterfm.markhansen.co.nz/)
-- [Last.fm Time Chart](https://pmcdonough8133.github.io/last.timer/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/pmcdonough8133/last.timer?tab=readme-ov-file" />
 
 == Others
 - [3x3 Generator](https://gqgs.github.io/3x3-generator/)

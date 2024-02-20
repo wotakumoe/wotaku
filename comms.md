@@ -38,7 +38,6 @@ A list of other otaku communities to check out based on your specific interests.
 - [Manhwa](https://www.reddit.com/r/manhwa)
 - [Light Novels](https://www.reddit.com/r/LightNovels/)
 - [Visual Novels](https://www.reddit.com/r/visualnovels/)
-- [Anime Piracy](https://www.reddit.com/r/animepiracy)
 - [Manga Piracy](https://www.reddit.com/r/mangapiracy/)
 - [Japan Pics](https://www.reddit.com/r/japanpics/)
 - [Japan Life](https://www.reddit.com/r/japanlife/)
