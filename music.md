@@ -135,6 +135,7 @@ Everything Music Related in One Page!
 - [Apple Music Artwork Fetcher](https://artwork.thekvt.eu.org/)
 - [Cover Search Engine](https://covers.musichoarders.xyz/) :glowing-star:
 - [Instafest](https://www.instafest.app/)
+- [Jukebox](https://jukebox.today/)
 - [Songle](https://songle.jp/) <Badge text="Vocaloid"/>
 - [Soundiiz](https://soundiiz.com/) <Badge text="Trasnfer"/>
 - [TuneMyMusic](https://www.tunemymusic.com/) <Badge text="Trasnfer"/>
@@ -222,7 +223,6 @@ Everything Music Related in One Page!
 - [Uta-Net](https://www.uta-net.com/) :flag-japan:
 - [UtaTen](https://utaten.com/) :flag-japan:
 - [Make Believe Mailer](https://mbmelodies.substack.com/) :glowing-star:
-- [The Needle Drop](https://www.theneedledrop.com/)
 
 ### Doujin & Vocaloid
 - [Vocasphere](https://vocasphere.net/)
@@ -313,6 +313,20 @@ Everything Music Related in One Page!
 <Button link="https://rentry.org/firehawk52" icon="i-fxemoji-lightbulb">Firehawk's Guide for Premium Access</Button>
 
 
+== Browser
+### Extension
+- [AHA Music](https://aha-music.com/) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/aha-music-song-finder-for/dpacanjfikmhoddligfbehkpomnbgblf" />
+- [AudD Music](https://github.com/AudDMusic) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/lhhohkfofnfbnildpdhhjeeenapeceei" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/audd/" />
+- [BetterRYM](https://github.com/jgchk/better-rym) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/pdbgknkejapoehgogijhmahhpiimlhjg" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/better-rym/" />
+- [Spotify New Releases](https://spotify-new-releases.web.app/) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/spotify-new-releases/badbmkjnnimjfhhmknfoikappgmelpjo" />
+- [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chrome.google.com/webstore/detail/lastfm-scrobbler/hhinaapppaileiechjoiifaancjggfjm" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/web-scrobbler/" />
+
+### Script
+- [Ame](https://notabug.org/SuperSaltyGamer/ame/) :simple-icons-applemusic::simple-icons-musicbrainz:<Badge text="VGMdb" />
+- [Gallery Mode for Lists - RateYourMusic](https://greasyfork.org/en/scripts/434865-gallery-mode-for-lists-rateyourmusic)
+- [MusicBrainz Userscripts](https://musicbrainz.org/doc/Guides/Userscripts)
+- [Slav Art User Scripts](https://rentry.org/slavartuserscripts) <Badge text="Qobuz" />
+
 == Converter & Ripper
 - [dBpoweramp](https://www.dbpoweramp.com/) :ic-baseline-window::ic-baseline-apple:<Badge type="warning" text="Trialware" />
 - [Exact Audio Copy](https://exactaudiocopy.de/) :ic-baseline-window:
@@ -330,17 +344,6 @@ Everything Music Related in One Page!
   - [XLD Guide](https://docs.google.com/document/d/1JPErA-6_2yN-WMVcFGNdIurwFS5cpqNC8GtKrOorDf8/edit)
 - [Music Hoarders Wiki](https://musichoarders.xyz/)
 
-== Browser
-### Extension
-- [AHA Music](https://aha-music.com/) :mingcute-chrome-fill:
-- [AudD Music](https://github.com/AudDMusic) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/lhhohkfofnfbnildpdhhjeeenapeceei" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/audd/" />
-- [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chrome.google.com/webstore/detail/lastfm-scrobbler/hhinaapppaileiechjoiifaancjggfjm" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/web-scrobbler/" />
-
-### Script
-- [Ame](https://notabug.org/SuperSaltyGamer/ame/) :simple-icons-applemusic::simple-icons-musicbrainz:<Badge text="VGMdb" />
-- [MusicBrainz Userscripts](https://musicbrainz.org/doc/Guides/Userscripts)
-- [Slav Art User Scripts](https://rentry.org/slavartuserscripts) <Badge text="Qobuz" />
-
 == Others
 ### Checker / Visualizer
 - [Bitter](https://www.stillwellaudio.com/plugins/bitter/) :ic-baseline-window::ic-baseline-apple:
@@ -352,6 +355,10 @@ Everything Music Related in One Page!
 - [MP3Tag](https://www.mp3tag.de/en/) :ic-baseline-window::ic-baseline-apple:
 - [MusicBrainz Picard](https://picard.musicbrainz.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [beets](https://beets.io/) <Badge type="tip" link="https://beets.readthedocs.io/en/stable/index.html#" />
+
+### Vocaloid
+- [Vocaloid](https://www.vocaloid.com/en/) <Badge text="Nyaa" link="https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTE3MTc5OQ.RHVjaw" />
+- [Synthesizer V](https://dreamtonics.com/synthesizerv/) <Badge text="Nyaa" link="https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTE3NTQ1Mg.RHVjaw" />
 
 ### Misc
 - [Karaoke Mugen](https://mugen.karaokes.moe/en/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
