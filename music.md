@@ -169,9 +169,7 @@ Everything Music Related in One Page!
 == Database
 
 ### General
-- [Last.fm](https://www.last.fm/) :glowing-star: 
 - [Discogs](https://www.discogs.com/)
-- [MusicBrainz](https://musicbrainz.org/)
 - [VGMdb](https://vgmdb.net/)
 
 ### Anime
@@ -187,6 +185,10 @@ Everything Music Related in One Page!
 - [Touhou Spotify Music](https://www.thspotify.moe/) <Badge type="tip" text="Docs" link="https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit#gid=0" />
 - [Utaite Key](https://utaite-key.info/)
 
+### Scrobbler
+- [Last.fm](https://www.last.fm/) :glowing-star:
+- [MusicBrainz](https://musicbrainz.org/)
+- [Libre.fm](https://libre.fm/)
 
 == Discovery
 
@@ -253,15 +255,21 @@ Everything Music Related in One Page!
 == Player
 ### Local
 - [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player) :mdi-android:
-- [Poweramp](https://powerampapp.com/) :glowing-star: :mdi-android:
+- [Apple Music](https://apps.apple.com/us/app/apple-music/id1108187390) :ic-baseline-apple:
 - [Oto Music Player](https://play.google.com/store/apps/details?id=com.piyush.music) :mdi-android:
+- [Poweramp](https://powerampapp.com/) :glowing-star: <Badge type="warning" text="Paid" /> <Badge type="warning" text="Mod" link="https://links.gamesdrive.net/#/link/aHR0cHM6Ly93d3cucm9ja21vZHMubmV0LzIwMTgvMDYvcGFtcC5odG1s.ZHVjaw" /> :mdi-android:
+- [USB Audio Player PRO](https://play.google.com/store/apps/details?id=com.extreamsd.usbaudioplayerpro&hl=en&gl=US) <Badge type="warning" text="Paid" /> :mdi-android:
 
 ### Online
-- [Innertune](https://github.com/z-huang/InnerTune) :glowing-star: :material-symbols-youtube-music::mdi-android:
-- [xManager](https://www.xmanagerapp.com/) :mdi-spotify::mdi-android:
-- [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) :mdi-spotify::ic-baseline-apple:
-- [Spotify++](https://appdb.to/app/cydia/1900000540) :mdi-spotify::ic-baseline-apple:
-
+- [**Youtube Music**](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
+  - [Revanced Music](https://github.com/j-hc/revanced-magisk-module/releases)
+  - [Innertune](https://github.com/z-huang/InnerTune) :glowing-star: :mdi-android:
+- [**Spotify**](https://www.spotify.com/us/download/)
+  - [Spotify Mod by Blatan](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5tZS9zZWFyY2gucGhwP3N0PTAmc2s9dCZzZD1kJnNyPXBvc3RzJmF1dGhvcl9pZD02MzY0MDk.ZHVjaw) :glowing-star: <Badge type="info" text="Needs Account" /> :mdi-android:
+  - [xManager](https://www.xmanagerapp.com/) :mdi-android:
+  - [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) :ic-baseline-apple:
+  - [Spotify++](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9hcHBkYi50by9hcHAvY3lkaWEvMTkwMDAwMDU0MA) :ic-baseline-apple:
+- [Apple Music](https://apps.apple.com/us/app/apple-music/id1108187390) :ic-baseline-apple:
 
 == Tools
 
@@ -269,7 +277,6 @@ Everything Music Related in One Page!
 - [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) :mdi-lastfm::mdi-android:
 - [Stats.fm](https://stats.fm/) :mdi-spotify::mdi-android::ic-baseline-apple:
 - [Marvis Pro](https://apps.apple.com/au/app/marvis-pro/id1447768809) :mdi-lastfm::ic-baseline-apple:
-
 
 :::
 
@@ -293,10 +300,8 @@ Everything Music Related in One Page!
 - [Spicetify](https://spicetify.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [SPOTX](https://github.com/SpotX-Official/SpotX) :ic-baseline-window:
 - [Youtube Music](https://github.com/th-ch/youtube-music) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Karaoke Mugen](https://mugen.karaokes.moe/en/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
 == Donwloader
-
 - [Deemix](https://download.deemix.workers.dev/)
 - [Lidarr](https://lidarr.audio/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Nicotine+](https://nicotine-plus.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-lan-pending:<tooltip>Direct peer-to-peer sharing network, primarily used for music</tooltip>
@@ -307,9 +312,11 @@ Everything Music Related in One Page!
 
 <Button link="https://rentry.org/firehawk52" icon="i-fxemoji-lightbulb">Firehawk's Guide for Premium Access</Button>
 
+
 == Converter & Ripper
 - [dBpoweramp](https://www.dbpoweramp.com/) :ic-baseline-window::ic-baseline-apple:<Badge type="warning" text="Trialware" />
 - [Exact Audio Copy](https://exactaudiocopy.de/) :ic-baseline-window:
+- [FFmpeg](https://ffmpeg.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [fre:ac](https://www.freac.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [SoX](https://sourceforge.net/projects/sox/) :ic-baseline-window::ic-baseline-apple:
 - [X Lossless Decoder](https://tmkk.undo.jp/xld/index_e.html) :ic-baseline-apple:
@@ -323,6 +330,17 @@ Everything Music Related in One Page!
   - [XLD Guide](https://docs.google.com/document/d/1JPErA-6_2yN-WMVcFGNdIurwFS5cpqNC8GtKrOorDf8/edit)
 - [Music Hoarders Wiki](https://musichoarders.xyz/)
 
+== Browser
+### Extension
+- [AHA Music](https://aha-music.com/) :mingcute-chrome-fill:
+- [AudD Music](https://github.com/AudDMusic) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/lhhohkfofnfbnildpdhhjeeenapeceei" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/audd/" />
+- [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chrome.google.com/webstore/detail/lastfm-scrobbler/hhinaapppaileiechjoiifaancjggfjm" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/web-scrobbler/" />
+
+### Script
+- [Ame](https://notabug.org/SuperSaltyGamer/ame/) :simple-icons-applemusic::simple-icons-musicbrainz:<Badge text="VGMdb" />
+- [MusicBrainz Userscripts](https://musicbrainz.org/doc/Guides/Userscripts)
+- [Slav Art User Scripts](https://rentry.org/slavartuserscripts) <Badge text="Qobuz" />
+
 == Others
 ### Checker / Visualizer
 - [Bitter](https://www.stillwellaudio.com/plugins/bitter/) :ic-baseline-window::ic-baseline-apple:
@@ -330,14 +348,13 @@ Everything Music Related in One Page!
 - [Sonic Visualiser](https://www.sonicvisualiser.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Spek](https://www.spek.cc/) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
-### Script
-- [Ame](https://notabug.org/SuperSaltyGamer/ame/) :simple-icons-applemusic::simple-icons-musicbrainz:<Badge text="VGMdb" />
-- [MusicBrainz Userscripts](https://musicbrainz.org/doc/Guides/Userscripts)
-- [Slav Art User Scripts](https://rentry.org/slavartuserscripts) <Badge text="Qobuz" />
-
 ### Tagger
 - [MP3Tag](https://www.mp3tag.de/en/) :ic-baseline-window::ic-baseline-apple:
 - [MusicBrainz Picard](https://picard.musicbrainz.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [beets](https://beets.io/) <Badge type="tip" link="https://beets.readthedocs.io/en/stable/index.html#" />
+
+### Misc
+- [Karaoke Mugen](https://mugen.karaokes.moe/en/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
 :::
 
