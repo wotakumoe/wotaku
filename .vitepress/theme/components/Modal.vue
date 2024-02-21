@@ -8,8 +8,7 @@ const showModal = ref(false);
 <template>
   <button @click="showModal = true"
     class="VButton c block font-medium px10 py3 rounded-md block mt2 flex items-center gap2">
-    <div class="i-octicon-heart-fill-24" />
-    Send Feedback!
+  <strong>Feedback</strong>
   </button>
 
   <Teleport to="body">
