@@ -246,7 +246,7 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
 - [**Tachimanga**](https://tachimanga.github.io/)
   - Based on tachiyomi (tachidesk server and sorayomi) (but not developed by tachiyomi team)
   - Supports tachiyomi extensions
-  - Has all the basic features and more in developement
+  - Has all the basic features and more in development
   - Has ad on opening or as banner (probably blockable using adblocking dns)
   - Lifetime premium is 18€ (with ad-removal and more upcoming features)
 - [**Hanami**](https://github.com/oolxg/Hanami)
