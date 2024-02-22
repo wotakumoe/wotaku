@@ -68,7 +68,7 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
 
 == Novel
 
-- [**Moon+ Reader Pro**](https://play.google.com/store/apps/details?id=com.flyersoft.moonreaderp&hl=en&gl=US) <Badge type="tip" text="Themeing" link="https://rentry.co/moontheme" />
+- [**Moon+ Reader Pro**](https://play.google.com/store/apps/details?id=com.flyersoft.moonreaderp&hl=en&gl=US) <Badge type="tip" text="Theming" link="https://rentry.co/moontheme" />
   - Customizable UI
   - Online source support
   - In-app reading analytics
@@ -84,11 +84,11 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
 - [**Shosetsu**](https://gitlab.com/shosetsuorg/shosetsu) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://shosetsu.app/" />
   - Minimal UI with a lot of customization
   - Has CSS support
-  - Slow dowload and no epub conversion
+  - Slow download and no epub conversion
   - No image, single page & tracking support
 - [**Quicknovel**](https://github.com/LagradOst/QuickNovel)
   - Good UI with lots of customization including fonts
-  - Fast dowload and epub conversion
+  - Fast download and epub conversion
   - Support images (only for supported sources)
   - Slow app update with broken sources
   - No single page & tracking support
@@ -141,7 +141,7 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
 
 == Offline
 - [**MComix**](https://sourceforge.net/projects/mcomix/files/) :ic-baseline-window::mingcute-linux-fill:
-    - Minimal & resposive UI with good amount of customization
+    - Minimal & responsive UI with good amount of customization
     - Has nice library option, also remembers last reading options
     - Has 3 scaling options. Normal, Bilinear (default) and hyperbolic
 - [**YACReader**](https://www.yacreader.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
@@ -161,7 +161,7 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
     - Nice clean UI, has dark mode
     - Has all the standard functions, including recent history
     - Has long strip mode which is pretty smooth
-    - Has anilist tracket built in as well as controller support
+    - Has anilist tracking built in as well as controller support
     - Still at an early stage.
 - [**SumatraPDF**](https://www.sumatrapdfreader.org/free-pdf-reader) :ic-baseline-window:
     - Very simple program with all the standard features
@@ -181,7 +181,7 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
 - [**Kavita**](https://www.kavitareader.com/)
     - Kavita is a media server for Manga and Light Novels (or eBooks).
     - Supports Tachiyomi, Paperback, OPDS readers, and REST API.
-    - User management is done through email invites. By detault, it uses the Kavita mail server, but other mail servers can be used too.
+    - User management is done through email invites. By default, it uses the Kavita mail server, but other mail servers can be used too.
     - The admin can specify permissions such as enabling downloads, SFW/NSFW filter, and library selection.
     - Reliant on filename parsing, requires strict adherence to expected filename formats and embedded metadata is near mandatory for edge-cases.
     - No MALSync support. Tracking support, alongside some other features, is paywalled behind Kavita+.
