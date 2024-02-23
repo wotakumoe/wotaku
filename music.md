@@ -189,7 +189,7 @@ Everything Music Related in One Page!
 
 ### Scrobbler
 - [Last.fm](https://www.last.fm/) :glowing-star:
-- [MusicBrainz](https://musicbrainz.org/)
+- [ListenBrainz](https://listenbrainz.org/)
 - [Libre.fm](https://libre.fm/)
 
 == Discovery
