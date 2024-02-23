@@ -157,6 +157,7 @@ Everything Music Related in One Page!
 - [Last.fm stats](https://lastfmstats.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/felhag/lastfm-stats-web" />
 - [Last History](https://anhuynh.github.io/last-history)
 - [musicorum](https://musicorumapp.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/musicorum-app" />
+- [Open Scrobbler](https://openscrobbler.com/)
 - [Scatter.FM](https://scatterfm.markhansen.co.nz/)
 - [Last.fm Time Chart](https://pmcdonough8133.github.io/last.timer/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/pmcdonough8133/last.timer?tab=readme-ov-file" />
 
