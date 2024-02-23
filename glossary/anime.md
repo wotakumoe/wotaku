@@ -12,7 +12,7 @@ Anime portion of the Wotaku glossary!
 | ------ | ------ |
 | Anison | The abbreviated form of Anime Song. It indicates the songs present in the Anime. Generally opening (OP) and ending (ED). More info [here](#episode-sections)  |
 | Anime Original | Content that was not present in the original source material. Can be canon or filler. |
-| Canon | Canon refers to content that was not present in the original source material but is part of the anime storyline. Canon is used to expand the world-building of the anime, fix the pacing of the source material or more character developement. |
+| Canon | Canon refers to content that was not present in the original source material but is part of the anime storyline. Canon is used to expand the world-building of the anime, fix the pacing of the source material or more character development. |
 | Filler | Filler refers to content that was not present in the original source material & doesn't affect the storyline. During filler, story doesn't get any progression. |
 | Original Anime | Anime that's not an adaptation of existing material such as Manga, Light novel, picture book etc. |
 | PV | Promotional videos of the anime. Generally teaser, trailer, preview etc. |
@@ -41,7 +41,7 @@ In Japanese TV, the broadcast schedule is divided into four seasons: Spring (Mar
 | Terms     | Meaning { class="compact" } |
 | ------ | ------ |
 |  Branding  | The logo animation of studious and distributor of the anime are shown here. [Example](https://www.youtube.com/watch?v=Dt-BaKnnIRI) |
-|  Recap  |   Recaps the previous epsisode(s). Generally it's found in long running shounen series. [Example](https://www.youtube.com/watch?v=R8jVqCKt4ZI) |
+|  Recap  |   Recaps the previous episode(s). Generally it's found in long running shounen series. [Example](https://www.youtube.com/watch?v=R8jVqCKt4ZI) |
 |  Cold Opening |   It's the portion of the anime before the OP. Sometimes it can be just recap or a setup for the episode.  |
 |  OP  | Opening sequence of the anime, generally 1.5 minutes long. Depending on the episode they can also be placed closer to the middle or at the very end (example: Solo leveling s01e01). The scenes shown in them can be made for the OP only and not appear in the actual show. |
 |  Title Card  |  Also known as Title sequence. It is a part of the OP. [Example](https://youtu.be/QoGM9hCxr4k?t=19)  |
@@ -57,7 +57,7 @@ In Japanese TV, the broadcast schedule is divided into four seasons: Spring (Mar
 
 | Terms     | Meaning { class="compact" } |
 | ------ | ------ |
-| Genga | The raw keyframes of an anime scene. Dong Chang has explained the whole proces in [**his video**](https://www.youtube.com/watch?v=iOB7t6KtIFE). Example: [Jujutsu Kaisen](https://www.youtube.com/watch?v=XosvkKK1HCc) |
+| Genga | The raw keyframes of an anime scene. Dong Chang has explained the whole process in [**his video**](https://www.youtube.com/watch?v=iOB7t6KtIFE). Example: [Jujutsu Kaisen](https://www.youtube.com/watch?v=XosvkKK1HCc) |
 
 ![](/glossary/file/af.png)
 
@@ -92,8 +92,8 @@ Used in the encoding process for encoding audio, divided into lossless and lossy
 - **Lossy**: These formats aim to provide good quality while keeping file size small. The most popular ones today are AAC, AC3, EAC3 (all commonly found in Web releases), with MP3 being found in older releases.
 
 ### Subtitles
-- **Raw**: A video wtihout subtitles.
-- **Fansubs**: Unofficial aka fan-made translations or editted version of the official subtitle.
+- **Raw**: A video without subtitles.
+- **Fansubs**: Unofficial aka fan-made translations or edited version of the official subtitle.
 - **Hardsubs**: Subtitles that are burned into the frames and are part of the video track itself, can't be turned off.
 - **Softsubs**: Subtitles that are contained on their own track inside a video file or a separate file that's loaded with the video, can be turned on or off.
 
@@ -101,4 +101,4 @@ Used in the encoding process for encoding audio, divided into lossless and lossy
 These are [CRC32](https://en.wikipedia.org/wiki/Cyclic_redundancy_check) codes, used to detect errors during file transmission. For example: 7BAAC64C. CRC generates a 32-bit code for each file (in hexadecimal, it's 8 digits). Fansubbers include these codes in the filename so that users can easily [check](https://animechecker.sourceforge.net/) whether the downloaded file is corrupted or not. If the file is corrupted, the user will receive a different code than the one written in the file name.
 
 ### Video Format
-The container used for the video file, with the most widely used one today being **MKV**, for the ability to put miltiple audio/subtitle tracks in one video file. The most popular one in the past was **MP4**, focused on being compatible with a wide range of devices, but only being able to have burned-in hardsubs.
+The container used for the video file, with the most widely used one today being **MKV**, for the ability to put multiple audio/subtitle tracks in one video file. The most popular one in the past was **MP4**, focused on being compatible with a wide range of devices, but only being able to have burned-in hardsubs.

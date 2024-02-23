@@ -74,7 +74,7 @@ Want to increase your otaku knowledge? Look for no further! Presenting the Gloss
 | Sensei  |  Generally Teacher. But this can also be used to address someone  who is a respected professional or very senior in the position.   |
 | Shikishi | It is a high-quality art board mainly used for calligraphy and painting. Due to its exceptional quality, it is often utilized for collecting autographs featuring both simple and highly detailed artwork. Additionally, it is sometimes used as a promotional material for the show. [Examples of shikishi](https://www.reddit.com/r/Shikishi/). |
 | Shota  |  Young or young-looking boy in anime and manga.  |
-| Tokusatsu  |   Literally "Special effects". These term can be applied to movies and tv shows with superheroes with a reconizable style of special effects. [Examples of Tokusatsu](https://www.youtube.com/watch?v=bBsDwQ1by_o) |
+| Tokusatsu  |   Literally "Special effects". These term can be applied to movies and tv shows with superheroes with a recognizable style of special effects. [Examples of Tokusatsu](https://www.youtube.com/watch?v=bBsDwQ1by_o) |
 | Trap  |  A word used in anime community to refer to a person who looks the opposite gender. Most commonly used for male characters who look female. Example: [Urushibara Ruka from Steins; Gate](https://anidb.net/character/23270)   |
 | Yamato Nadeshiko  |  Japanese term used to describe an ideal Japanese woman. They are the epitome of pure, feminine beauty.   |
 | Zettai Ryouiki  |   Translates to 'Absolute Territory'. Refers to the space of bare thighs between the skirt and above knee-length socks.  |

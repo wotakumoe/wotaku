@@ -65,7 +65,7 @@ Guides and resources for scanlating manga.
 - [CSP Retouch Library](https://docs.google.com/spreadsheets/d/1mqIqqSoddaZYu3NhCfIXJ9PzPbCLBOe1Y6mD_7s3we4/edit#gid=2085357266)
 - [DK Hanoded Fonts by Sr.Xlr11](https://drive.google.com/drive/folders/1TQTA1FGU_Ow6WDb3fv8-1mTRF_v_NzHh)
 
-<Button link="https://discord.com/invite/NCzxVB9" icon="i-ic-round-discord">You can find a lot more free assests in the Scanner Usage School Server</Button>
+<Button link="https://discord.com/invite/NCzxVB9" icon="i-ic-round-discord">You can find a lot more free assets in the Scanner Usage School Server</Button>
 
 == Blogs & Collections
 
@@ -97,7 +97,7 @@ Guides and resources for scanlating manga.
 
 == General
 - Adobe Software <Badge type="tip" text="Esoterica" link="https://rentry.org/adobesoftware" /><Badge type="tip" text="GenP" link="https://genpguides.github.io/" /><Badge type="tip" text="Anna" link="https://docs.google.com/document/d/17PheyyF9dm7YYjaTZ9JAAY3hhdeIQ7sJ4sylTG9_6xI/edit" /><Badge type="tip" text="macOS" link="https://telegra.ph/MacOS-Adobe-CC-Guide-11-29" />
-- [Clip Stuio Paint EX](https://www.clipstudio.net/en/function_ex/)
+- [Clip Studio Paint EX](https://www.clipstudio.net/en/function_ex/)
 - [MediaBang Paint](https://medibangpaint.com/en/)
 - [GIMP](https://www.gimp.org/)
 

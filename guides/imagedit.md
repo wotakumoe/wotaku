@@ -16,7 +16,7 @@ Using the `2-D Illust (CUnet Model)` on `Level 2 Denoise Only` and `Use TTA Mode
 
 Under processing Speed Settings it is recommended to leave the Split Size on default, unless you are getting weird/incorrect outputs which you might need to adjust this then. You can increase the Batch Size if your GPU can handle more load to process the splits parallel to speed up the denoising.
 
-The `Use TTA Mode` will process each split piece multiple times rotated around, this will generally improve the denosing but the total processing will take 8 times longer, so for simple fast good-enough denoising you can leave it unchecked, unless you have the time for it to do so.
+The `Use TTA Mode` will process each split piece multiple times rotated around, this will generally improve the denoising but the total processing will take 8 times longer, so for simple fast good-enough denoising you can leave it unchecked, unless you have the time for it to do so.
 
 On a final note, it is recommended to have the Output Extension set to PNG as this is a lossless fileformat, unlike Jpeg which would introduce artifacts again you just took the effort in to denoise.
 
@@ -59,7 +59,7 @@ magick mogrify -format png -dither None -colorspace Gray -contrast-stretch 0%x0%
 
 #### Manual Leveling
 
-With manual leveling you would needed find the minimum black point to have your targeted blacks be actual black (#000) and raise the gamma to compensate for the raised blacks to have the image not be over leveled. This can be somewhat of a trial-and-error till you get a satifying result. As a starting point you can use the following value for ImageMagic `13,100%,1.3` (used in the example image shown above), where 13 is the raised black point and 1.3 is the gamma adjustment value.
+With manual leveling you would needed find the minimum black point to have your targeted blacks be actual black (#000) and raise the gamma to compensate for the raised blacks to have the image not be over leveled. This can be somewhat of a trial-and-error till you get a satisfying result. As a starting point you can use the following value for ImageMagic `13,100%,1.3` (used in the example image shown above), where 13 is the raised black point and 1.3 is the gamma adjustment value.
 
 The command (CLI) to use with ImageMagic to batch process all images inside a folder would be;
 

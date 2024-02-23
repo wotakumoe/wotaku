@@ -52,7 +52,7 @@ Transcoding means converting/encoding audio files from one format to another. In
 - ABR is a mix of CBR & VBR. The audio bitrate will vary (like VBR) & the average bitrate will be the user given one (like CBR)
 
 
-## The Porcess
+## The Process
 
 ::: danger Read before transcoding {open}
 - Audio can't be legitimately transcoded to higher quality since you can't generate new details after compression has been applied. That's why you shouldn't transcode

@@ -7,7 +7,7 @@ customDescription: Answers to some of the most commonly asked questions about ma
 ## General
 
 :::details Why does X site have so many ads?
-**Use an Adblocker**. Ads keep the websites running, but sometimes the ad ruin the experience or even link malware. If you want ad-free experiece you can do take these steps.
+**Use an Adblocker**. Ads keep the websites running, but sometimes the ad ruin the experience or even link malware. If you want ad-free experience you can do take these steps.
 
 ### Android
 Install [**Firefox**](https://play.google.com/store/apps/details?id=org.mozilla.firefox) and add [**uBlock Origin**](https://addons.mozilla.org/en-US/android/addon/ublock-origin/). This should be more than enough. If you want system-wide support, try [**Adguard**](https://adguard.com/en/adguard-android/overview.html) or [**NextDNS**](https://nextdns.io/). You can watch [**this video**](https://youtu.be/WUG57ynLb8I), if you need guidance.
@@ -54,13 +54,13 @@ Torrent trackers that don't allow you to freely make an account, but require you
 IRC (Internet Relay Chat) is a really old messaging protocol. It uses client and server connection to communicate. You can use various bot to download files in high speed. Follow [**our guide**](/guides/irc.md) to get started.
 
 ### Usenet
-Usenet is a subscription-based service. You can download files using `.nzb` file (which is like a `.torrent`) and a usenet client. Even though it's really old, it's really convinient.
+Usenet is a subscription-based service. You can download files using `.nzb` file (which is like a `.torrent`) and a usenet client. Even though it's really old, it's really convenient.
 :::
 
 ## Manga
 
 :::details Where can I get the highest quality manga releases?
-[Nyaa.si](https://nyaa.si/), [🍀/co/](https://boards.4channel.org/co/) & [Madokami](/guides/mado.md). Manga image quality depends on the [**source**](/guides/digim) and how it's been ripped, with volume release usually being better than [**CaaS**](/glossary/manga#publisher) release. If you want to download officially translated manga, [**Nyaa**](https://nyaa.si/) is always the best source, though some of the rippers upload upscalled SD rips. We have listed the most trusted rippers in the Nyaa section. Madokami mainly mirrors the nyaa releases.
+[Nyaa.si](https://nyaa.si/), [🍀/co/](https://boards.4channel.org/co/) & [Madokami](/guides/mado.md). Manga image quality depends on the [**source**](/guides/digim) and how it's been ripped, with volume release usually being better than [**CaaS**](/glossary/manga#publisher) release. If you want to download officially translated manga, [**Nyaa**](https://nyaa.si/) is always the best source, though some of the rippers upload upscaled SD rips. We have listed the most trusted rippers in the Nyaa section. Madokami mainly mirrors the nyaa releases.
 :::
 
 :::details What's the best website to read manga?

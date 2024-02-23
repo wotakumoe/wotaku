@@ -140,7 +140,7 @@ You can scan a Madokami folder automatically.
 4. Then go to `Options > Updates > Favorites` and check
     - Auto check for new chapter at startup
     - Auto check for new chapter in an interval. Default 60 should be good enough
-    - Automatically diwbkiad after finish checking
+    - Automatically download after finish checking
 
 #### Save as
 
@@ -153,12 +153,12 @@ By default, FMD2 will save it as folder. Go to `Options > Save to > Save downloa
 ### JDL2
 
 1. Download and install JDL2 from [**here**](https://rentry.org/jdownloader2)
-2. Go to `Settings > Basic Authetication` and click the **Add** button at the bottom
+2. Go to `Settings > Basic Authentication` and click the **Add** button at the bottom
 3. Now add the details
     - Server type: `http://`
     - Host/URL: `manga.madokami.al`
     - Username: [Your Madokami Username]
-    - Password: [Your Madokmai Password]
+    - Password: [Your Madokami Password]
     - :warning: Enable **Always** checkmark (at the last column) to avoid errors while scraping files in **Link grabber**
 4. Now go to **Link grabber** and paste the folder url. It will scrape the manga files.
     - It may scrape corrupted/unavailable cbz files with websites path in the name. Sort the files on name basis and ignore those.
