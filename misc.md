@@ -161,11 +161,17 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Gelbooru](https://gelbooru.com/)
 - [Konachan](https://konachan.com/)
 - [Safebooru](https://safebooru.org/) <Badge type="green" text="SFW" />
-- [Sakuga Booru](https://www.sakugabooru.com/) <Badge type="tip" icon="i-logos-twitter" text="1" link="https://twitter.com/SakugaBlog" /><Badge type="tip" icon="i-logos-twitter" text="2" link="https://twitter.com/sakugaclips" /> <Badge type="green" text="SFW" />
+- [Sakuga Booru](https://www.sakugabooru.com/) <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/SakugaBlog" /><Badge type="green" text="SFW" />
 - [Yandere](https://yande.re/)
 - [Zerochan](https://www.zerochan.net/) <Badge type="green" text="SFW" />
 
 == Others
+### Twitter
+- [D.K.](https://twitter.com/DanKantori)
+- [randomsakuga](https://twitter.com/randomsakuga)
+- [Sakuga Clips](https://twitter.com/sakugaclips)
+
+### Websites
 - [Anime Pictures](https://anime-pictures.net/) <Badge type="green" text="SFW" />
 - [wanderer.moe](https://wanderer.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/wanderer-moe/site" />
 - [Kemono](https://kemono.su/)
