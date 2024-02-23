@@ -25,7 +25,7 @@ Select the downloaded OpenLyrics component file and open. Then click **Apply** t
 ![](/ss/foobar/fbs3.png)
 
 ### Step 5
-Then go to `Tools > OpenLyrics > Searching`. Click on Musicxmatch in **Available sources**. Then **<<** to move it in the main section. Then select Musicxmatch again and click **UP** to the top 3. Click **Aplly**.
+Then go to `Tools > OpenLyrics > Searching`. Click on Musicxmatch in **Available sources**. Then **<<** to move it in the main section. Then select Musicxmatch again and click **UP** to the top 3. Click **Apply**.
 
 ![](/ss/foobar/fbs4.png)
 
@@ -40,7 +40,7 @@ Go to `Tools > OpenLyrics > Searching > Metadata tags`. Set **LYRICS** as value 
 ![](/ss/foobar/fb5_5.png)
 
 ### Step 8
-Go to `Foobar > View > OpenLysics Panel`
+Go to `Foobar > View > OpenLyrics Panel`
 
 ![](/ss/foobar/fbs6.png)
 

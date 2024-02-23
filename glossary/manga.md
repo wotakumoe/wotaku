@@ -10,7 +10,7 @@ Manga portion of the Wotaku glossary!
 ## Basic Terms 
 
 ### Adaptation
-Not original content but based on an already existing work (light novel, anime, picture book etc.). Example: [Josee, the Tiger and the Fish](https://mangadex.org/search?q=Josee%2C+the+Tiger+and+the+Fish) which was a [Light Novel](https://yenpress.com/titles/9781975340469-josee-the-tiger-and-the-fish-light-novel) adapatation.
+Not original content but based on an already existing work (light novel, anime, picture book etc.). Example: [Josee, the Tiger and the Fish](https://mangadex.org/search?q=Josee%2C+the+Tiger+and+the+Fish) which was a [Light Novel](https://yenpress.com/titles/9781975340469-josee-the-tiger-and-the-fish-light-novel) adaptation.
 
 ### Mangaka
 Mangaka means the artist of the manga. Mangaka can also be the story writer. Generally, mangaka does everything by himself, but sometimes he may employ assistants to speed up the work and cope with the weekly release schedule.

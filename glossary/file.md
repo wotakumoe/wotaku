@@ -41,7 +41,7 @@ Used in the encoding process for encoding audio, divided into lossless and lossy
 - **Lossy**: These formats aim to provide good quality while retaining smaller sizes. The most popular ones today are AAC, AC3, EAC3 (all commonly found in Web releases), with MP3 being found in older releases.
 
 ### Subtitles
-- **Raw**: A video wtihout subtitles.
+- **Raw**: A video without subtitles.
 - **Fansubs**: Unofficial aka fan-made translations.
 - **Hardsubs**: Subtitles that are burned into the frames and are part of the video track itself, can't be turned off.
 - **Softsubs**: Subtitles that are contained on their own track inside a video file or a separate file that's loaded with the video, can be turned on or off.
@@ -50,7 +50,7 @@ Used in the encoding process for encoding audio, divided into lossless and lossy
 A unique string of letters and numbers that’s calculated for each file, used to check its integrity and origin. An example would be 7BAAC64C.
 
 ### Video Format
-The container used for the video file, with the most widely used one today being **MKV**, for the ability to put miltiple audio/subtitle tracks in one video file. The most popular one in the past was **MP4**, focused on being compatible with a wide range of devices, but only being able to have burned-in hardsubs.
+The container used for the video file, with the most widely used one today being **MKV**, for the ability to put multiple audio/subtitle tracks in one video file. The most popular one in the past was **MP4**, focused on being compatible with a wide range of devices, but only being able to have burned-in hardsubs.
 
 
 ![](/glossary/file/mf.png)
@@ -58,7 +58,7 @@ The container used for the video file, with the most widely used one today being
 
 ### Publisher
 The publisher can be mainly two types.
-- **CaaS(Chapters as a Service)**: These sites release chapters indvidually instead of volume. Examples: Manga Plus, Manga UP!, Comikey, Tapas etc.
+- **CaaS(Chapters as a Service)**: These sites release chapters individually instead of volume. Examples: Manga Plus, Manga UP!, Comikey, Tapas etc.
 - **Volume**: Sells the whole volume with better quality. Example: VIZ, Kodansha, Square Enix etc.
 
 ### Source
