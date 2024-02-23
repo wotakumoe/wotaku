@@ -211,7 +211,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Josu Ke](https://twitter.com/Josu_ke)
 - [Manga Alerts](https://twitter.com/MangaAlerts)
 - [Manga Bookshelf](https://mangabookshelf.com/)
-- [Manga Mogura RE](https://twitter.com/MangaMoguraRE) :glowing-star:
+- [Manga Mogura RE](https://twitter.com/MangaMoguraRE) :glowing-star: <Badge type="danger" icon="i-logos-twitter" text="Ecchi" link="https://twitter.com/EcchiMogura" />
 - [Manga Splaining](https://www.mangasplaining.com/)
 - [Shonen Jump News](https://twitter.com/WSJ_manga) :glowing-star:
 - [TheOASG](https://twitter.com/TheOASG) :glowing-star:
