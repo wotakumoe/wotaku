@@ -20,7 +20,7 @@ hero:
       
 aside: left
 
-customDescription: A diverse range of resources related to japanese media and language
+customDescription: A wiki that covers everything weeb-related!
 
 features:
   - title: Websites
