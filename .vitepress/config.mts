@@ -6,12 +6,9 @@ import { align } from "@mdit/plugin-align";
 import { imgSize } from "@mdit/plugin-img-size";
 import { tabsMarkdownPlugin } from "vitepress-plugin-tabs";
 import UnoCSS from "unocss/vite";
-import { presetUno, presetAttributify, presetIcons } from "unocss";
 import { generateImages, generateMeta } from "./hooks";
 import { withPwa } from "@vite-pwa/vitepress";
 import fg from "fast-glob";
-import { resolve } from "node:path";
-import { FileSystemIconLoader } from "@iconify/utils/lib/loader/node-loaders";
 import {
   emojiRender,
   defs,
@@ -24,6 +21,9 @@ import {
   jsdelivrCDNRegex,
   socials,
 } from "./configs";
+import { resolve } from "node:path";
+
+// @unocss-include
 
 // https://vitepress.dev/reference/site-config
 export default withPwa(
@@ -47,8 +47,18 @@ export default withPwa(
       ["link", { rel: "alternate icon", href: "/asset/podarufav.png" }],
       ["link", { rel: "mask-icon", href: "/asset/podarufav.png", color: "#a594f9" }],
       // prettier-ignore
-      ["meta", { name: "keywords", content: "Anime, Manga, Otaku, Hentai, Weeb" }],
-      ["link", { rel: "apple-touch-icon", href: "/asset/podarufav.png", sizes: "192x192" }],
+      [
+				"meta",
+				{ name: "keywords", content: "Anime, Manga, Otaku, Hentai, Weeb" },
+			],
+      [
+        "link",
+        {
+          rel: "apple-touch-icon",
+          href: "/asset/podarufav.png",
+          sizes: "192x192",
+        },
+      ],
     ],
     srcExclude: ["README.md"],
     sitemap: {
@@ -73,21 +83,7 @@ export default withPwa(
       optimizeDeps: { exclude: ["workbox-window"] },
       plugins: [
         UnoCSS({
-          presets: [
-            presetUno(),
-            presetAttributify(),
-            presetIcons({
-              warn: true,
-              collections: {
-                custom: FileSystemIconLoader(resolve(__dirname, "../public/custom")),
-              },
-              extraProperties: {
-                display: "inline-block",
-                "vertical-align": "middle",
-              },
-              scale: 1.2,
-            }),
-          ],
+          configFile: "../unocss.config.ts",
         }),
         {
           name: "custom:adjust-order",
@@ -109,7 +105,10 @@ export default withPwa(
       search: search,
       logo: { src: "/asset/inaidle.webp", width: 29, height: 24 },
       sidebar: [
-        { text: "⚡ Quick Start", link: "/qs" },
+        {
+          text: '<span class="i-twemoji:glowing-star"></span> Quick Start',
+          link: "/qs",
+        },
         { text: "💬 FAQs", link: "/faq" },
         { text: "🌏 Websites", link: "/websites" },
         { text: "💾 Software", link: "/software" },
@@ -193,7 +192,10 @@ export default withPwa(
             { text: "Transcoding Audio", link: "/guides/transcoding" },
           ],
         },
-        { text: "Updates", link: "https://github.com/anotherduckling/Wotaku/commits/main/" },
+        {
+          text: "Updates",
+          link: "https://github.com/anotherduckling/Wotaku/commits/main/",
+        },
       ],
       socialLinks: socials,
     },
