@@ -111,7 +111,7 @@ export default withPwa(
         { text: '<span class="i-twemoji:floppy-disk"></span> Software', link: "/software" },
         { text: '<span class="i-twemoji:card-file-box"></span> Misc-sites', link: "/misc" },
         { text: '<span class="i-twemoji:puzzle-piece"></span> Add-ons', link: "/addons" },
-        { text: '<span class="i-twemoji:headphone"></span> Music', link: "/music" },
+        { text: '<span class="i-twemoji:musical-note"></span> Music', link: "/music" },
         { text: '<span class="i-twemoji:world-map"></span> Non-English', link: "/nonen" },
         { text: '<span class="i-twemoji:no-one-under-eighteen"></span> NSFW', link: "/nsfw" },
         { text: '<span class="i-twemoji:flag-japan"></span> Everything Japan', link: "/jp" },
