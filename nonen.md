@@ -14,6 +14,7 @@ Otaku resources for other languages/regions.
 == Anime
 - [Aniwave](https://aniwave.to/home)
 - [Kickassanime](https://kaas.am/)
+- [Kaguya](https://kaguya.app/anime) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/kaguya/jhinkdokgbijplmedcpkjdbcmjgockgc" />
 - [Aniwatch](https://aniwatch.to/home)
 
 == Manga
@@ -443,23 +444,32 @@ Otaku resources for other languages/regions.
 
 == Anime
 
-- [Animeblix](https://animeblix.com/)
-- [AnimeFLV](https://animeflv.io/) <Badge type="tip" text="2" link="https://www3.animeflv.net/" />
+### Stream
+- [MonosChinos](https://monoschinos2.com/)
+- [AnimeFenix](https://animefenix.tv/)
+- [AnimeFLV](https://www3.animeflv.net/)
+- [Latanime](https://latanime.org/)
+- [AnimeOnlineNinja](https://ww3.animeonline.ninja/)
 - [JKAnime](https://jkanime.net/)
-- [Mundo Donghua](https://www.mundodonghua.com/)
+- [TioAnime](https://tioanime.com/)
 - [OtakusTV](https://www1.otakustv.com/)
+- [Mundo Donghua](https://www.mundodonghua.com/)
 - [Tio Donghua](https://tiodonghua.com/)
-- [Sphin X Anime](https://sphinxanime.com/) <Badge type="info" text="DDL" />
-- [Japan Paw](https://japan-paw.net/) <Badge type="info" text="DDL" />
-- [Ivanime](https://www.ivanime.com/) <Badge type="info" text="DDL" />
-- [DW Anime](https://dw-anime.net/) <Badge type="info" text="DDL" />
+
+### Download
+- [Sphin X Anime](https://sphinxanime.com/)
+- [Japan Paw](https://japan-paw.net/)
+- [Ivanime](https://www.ivanime.com/)
+- [DW Anime](https://dw-anime.net/)
 - [Frozen Layer](https://www.frozen-layer.com/) <Badge type="info" text="Torrent" />
 
 == Manga
 
-- [Lectortmo](https://lectortmo.com/)
+- [Lector Manga](https://lectormanga.com/)
 - [Leer Manga](https://r2.leermanga.xyz/)
 - [Manga Crab](https://mangacrab.com/)
+- [Notasanime](https://ver.notasanime.me/)
+- [TuMangaOnline](https://visortmo.com/)
 
 == Others
 ### Apps
