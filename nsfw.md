@@ -155,7 +155,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 
 ### Torrent
 - [Nyaa Sukebei](https://sukebei.nyaa.si/)
-- [ExoticaZ](https://exoticaz.to/)  <Badge text="Private Tracker" /><Badge type="tip" icon="i-logos-discord-icon" text="Waitlist" link="https://discord.gg/pfmAegk8bD" />
+- [ExoticaZ](https://exoticaz.to/)  <Badge text="Private Tracker" /><Badge type="tip" icon="i-ic-outline-discord" text="Waitlist" link="https://discord.gg/pfmAegk8bD" />
 - [Project JAV](https://projectjav.com/)
 - [One JAV](https://onejav.com/)
 - [141 JAV](https://www.141jav.com/) <Badge type="tip" text="2" link="https://www.141ppv.com/" />
@@ -169,8 +169,8 @@ Everyone has to let off some steam once in a while, we don't judge.
 
 == Community
 
-- [r/hentai](https://www.reddit.com/r/hentai/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.com/invite/rhentai" />
-- [r/pornhwa](https://www.reddit.com/r/pornhwa/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.com/invite/epjkRVp7gD" />
+- [r/hentai](https://www.reddit.com/r/hentai/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.com/invite/rhentai" />
+- [r/pornhwa](https://www.reddit.com/r/pornhwa/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.com/invite/epjkRVp7gD" />
 - [🍀/h/](https://boards.4chan.org/h/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/h/" /><Badge type="tip" text="Archive" link="https://archived.moe/h/" />
 - [🍀/e/](https://boards.4chan.org/e/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/e/" /><Badge type="tip" text="Archive" link="https://archived.moe/e/" />
 - [r/Artistic_Hentai](https://www.reddit.com/r/Artistic_Hentai/)

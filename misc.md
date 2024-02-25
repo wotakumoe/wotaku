@@ -47,7 +47,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == Index
 
 - [Seadex](https://releases.moe/)
-- [Sneedex](https://sneedex.moe/) :glowing-star: <Badge type="info" icon="i-logos-discord-icon" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" /> 
+- [Sneedex](https://sneedex.moe/) :glowing-star: <Badge type="info" icon="i-ic-outline-discord" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" /> 
 - [A Certain Fansubber's Index](https://index.fansubcar.tel/)
 - [Fansub Database](https://fansubdb.com/)
 - [German Fansubbers' Index](https://anime-fansubs.de/)
@@ -161,17 +161,19 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Gelbooru](https://gelbooru.com/)
 - [Konachan](https://konachan.com/)
 - [Safebooru](https://safebooru.org/) <Badge type="green" text="SFW" />
-- [Sakuga Booru](https://www.sakugabooru.com/) <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/SakugaBlog" /><Badge type="green" text="SFW" />
 - [Yandere](https://yande.re/)
 - [Zerochan](https://www.zerochan.net/) <Badge type="green" text="SFW" />
 
-== Others
-### Twitter
-- [D.K.](https://twitter.com/DanKantori)
-- [randomsakuga](https://twitter.com/randomsakuga)
-- [Sakuga Clips](https://twitter.com/sakugaclips)
+== Sakuga
+- [Sakuga Booru](https://www.sakugabooru.com/) :glowing-star: <Badge type="green" text="SFW" />
+- [Sakuga.video](https://sakuga.video/)
+- [ArtSakuga](https://twitter.com/artsakuga) :mdi-twitter:
+- [D.K.](https://twitter.com/DanKantori) :glowing-star: :mdi-twitter:
+- [randomsakuga](https://twitter.com/randomsakuga) :mdi-twitter:
+- [Sakuga Clips](https://twitter.com/sakugaclips) :mdi-twitter:
 
-### Websites
+== Others
+
 - [Anime Pictures](https://anime-pictures.net/) <Badge type="green" text="SFW" />
 - [wanderer.moe](https://wanderer.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/wanderer-moe/site" />
 - [Kemono](https://kemono.su/)
@@ -189,9 +191,9 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 :::tabs
 == General
 ### News
-- [Anime News Network](https://www.animenewsnetwork.com/) :glowing-star: <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/anime" />
+- [Anime News Network](https://www.animenewsnetwork.com/) :glowing-star: <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/anime" />
 - [Crunchyroll News](https://www.crunchyroll.com/news)
-- [MAL News](https://myanimelist.net/news) <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/myanimelist" />
+- [MAL News](https://myanimelist.net/news) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/myanimelist" />
 - [ORICON NEWS](https://www.oricon.co.jp/) :flag-japan:
 - [Otaku News](https://www.otakunews.com/)
 
@@ -201,27 +203,26 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Animétudes](https://animetudes.com/) :glowing-star:
 - [artist_unknown](https://artistunknown.info/)
 - [Let's Anime](https://letsanime.blogspot.com/)
-- [Sakuga Blog](https://blog.sakugabooru.com/) :glowing-star:
+- [Sakuga Blog](https://blog.sakugabooru.com/) :glowing-star: <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/SakugaBlog" />
 - [Zimmerit](https://www.zimmerit.moe/)
 
 == Anime
 
-- [Anime Corner](https://animecorner.me/) :glowing-star: <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/animecorner_ac" />
-- [Anitrendz](https://anitrendz.net/news/) <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/anitrendz" />
-- [AnimeTV](https://animetv-jp.net/) <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/animetv_jp" />
-
+- [Anime Corner](https://animecorner.me/) :glowing-star: <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/animecorner_ac" />
+- [Anitrendz](https://anitrendz.net/news/) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/anitrendz" />
+- [AnimeTV](https://animetv-jp.net/) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/animetv_jp" />
 
 == Manga & LN
 
-- [Ezrat](https://twitter.com/Erzat110)  <Badge type="info" icon="i-octicon-globe" text="Web" link="https://erzat.blog/" />
-- [Josu Ke](https://twitter.com/Josu_ke)
-- [Manga Alerts](https://twitter.com/MangaAlerts)
-- [Manga Bookshelf](https://mangabookshelf.com/)
-- [Manga Mogura RE](https://twitter.com/MangaMoguraRE) :glowing-star: <Badge type="danger" icon="i-logos-twitter" text="Ecchi" link="https://twitter.com/EcchiMogura" />
+- [Ezrat](https://twitter.com/Erzat110) :mdi-twitter:  <Badge type="info" icon="i-octicon-globe" text="Web" link="https://erzat.blog/" />
+- [Josu Ke](https://twitter.com/Josu_ke) :mdi-twitter:
+- [Manga Alerts](https://twitter.com/MangaAlerts) :mdi-twitter:
+- [Manga Bookshelf](https://mangabookshelf.com/) :mdi-twitter:
+- [Manga Mogura RE](https://twitter.com/MangaMoguraRE) :glowing-star: :mdi-twitter: <Badge type="danger" icon="i-mdi-twitter" text="Ecchi" link="https://twitter.com/EcchiMogura" />
 - [Manga Splaining](https://www.mangasplaining.com/)
-- [Shonen Jump News](https://twitter.com/WSJ_manga) :glowing-star:
-- [TheOASG](https://twitter.com/TheOASG) :glowing-star:
-- [Deb Aoki](https://twitter.com/debaoki)
+- [Shonen Jump News](https://twitter.com/WSJ_manga) :glowing-star: :mdi-twitter:
+- [TheOASG](https://twitter.com/TheOASG) :glowing-star: :mdi-twitter:
+- [Deb Aoki](https://twitter.com/debaoki) :mdi-twitter:
 
 
 == Games
@@ -374,12 +375,12 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 == Socials
 
-- Hololive <Badge type="tip" icon="i-logos-twitter" text="JP" link="https://twitter.com/hololivetv" /><Badge type="tip" icon="i-logos-twitter" text="EN" link="https://twitter.com/hololive_En" /><Badge type="tip" icon="i-logos-discord-icon" text="Fan Discord" link="https://discord.gg/holofans" /><Badge type="tip" icon="i-logos-reddit-icon" text="Reddit" link="https://www.reddit.com/r/Hololive/" />
-- VShojo <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/VShojo" /><Badge type="tip" icon="i-logos-discord-icon" text="Fan Discord" link="https://discord.com/invite/vshojo-fan-server-598886416545611790" /><Badge type="tip" icon="i-logos-reddit-icon" text="Reddit" link="https://www.reddit.com/r/VShojo/" />
-- PhaseConnect <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/PhaseConnect" /><Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/phaseconnect" />
-- idol <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/idol_corp" /><Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/idolcorp" />
-- PRISM <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/PRISMproj" /><Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/prismworld" />
-- EIEN Project <Badge type="tip" icon="i-logos-twitter" text="Twitter" link="https://twitter.com/EIENproj" /><Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/eienproject" />
+- Hololive <Badge type="tip" icon="i-mdi-twitter" text="JP" link="https://twitter.com/hololivetv" /><Badge type="tip" icon="i-mdi-twitter" text="EN" link="https://twitter.com/hololive_En" /><Badge type="tip" icon="i-ic-outline-discord" text="Fan Discord" link="https://discord.gg/holofans" /><Badge type="tip" icon="i-logos-reddit-icon" text="Reddit" link="https://www.reddit.com/r/Hololive/" />
+- VShojo <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/VShojo" /><Badge type="tip" icon="i-ic-outline-discord" text="Fan Discord" link="https://discord.com/invite/vshojo-fan-server-598886416545611790" /><Badge type="tip" icon="i-logos-reddit-icon" text="Reddit" link="https://www.reddit.com/r/VShojo/" />
+- PhaseConnect <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/PhaseConnect" /><Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/phaseconnect" />
+- idol <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/idol_corp" /><Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/idolcorp" />
+- PRISM <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/PRISMproj" /><Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/prismworld" />
+- EIEN Project <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/EIENproj" /><Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/eienproject" />
 
 == Games
 
@@ -593,7 +594,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 ### Communities
 
-- [r/Tokusatsu](https://reddit.com/r/Tokusatsu/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/Rf2dDaJSp3" />
+- [r/Tokusatsu](https://reddit.com/r/Tokusatsu/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/Rf2dDaJSp3" />
 - [/r/GARO](https://reddit.com/r/GARO/)
 - [/r/Godzilla](https://reddit.com/r/Godzilla/)
 - [/r/Kaiju](https://reddit.com/r/Kaiju/)

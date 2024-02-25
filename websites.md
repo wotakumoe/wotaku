@@ -398,9 +398,9 @@ I have tried to add all the well-known scanlators for manhwa and manhua, but for
 ### Databases
 - [Official card database](https://www.db.yugioh-card.com/yugiohdb/)
 - [YGOrganization](https://ygorganization.com/) <Badge type="tip" text="Cards DB" link="https://db.ygorganization.com/" /> <Badge type="tip" text="Yugipedia" link="https://yugipedia.com/wiki/Yugipedia" />
-- [Master Duel Meta](https://www.masterduelmeta.com/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/invite/masterduelmeta" />
-- [Duel Links Meta](https://www.duellinksmeta.com/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/invite/duellinksmeta" />
-- [YGOPro Deck](https://ygoprodeck.com/) <Badge type="info" icon="i-iconoir-community" text="Forum" link="https://ygoprodeck.com/forum/" /> <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.com/invite/nx24PSBGFE" />
+- [Master Duel Meta](https://www.masterduelmeta.com/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/invite/masterduelmeta" />
+- [Duel Links Meta](https://www.duellinksmeta.com/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/invite/duellinksmeta" />
+- [YGOPro Deck](https://ygoprodeck.com/) <Badge type="info" icon="i-iconoir-community" text="Forum" link="https://ygoprodeck.com/forum/" /> <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.com/invite/nx24PSBGFE" />
 
 ### Official Simulators
 - [Master Duel](https://www.konami.com/yugioh/masterduel/us/en/)
@@ -408,18 +408,18 @@ I have tried to add all the well-known scanlators for manhwa and manhua, but for
 - [Yu-Gi-Oh! Neuron](https://www.konami.com/yugioh/neuron/en/)
 
 ### Unofficial Simulators
-- [Dueling Book](https://www.duelingbook.com/) <Badge type="info" text="Website" /> <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/VE3xQZc" />
-- [EDO Pro](https://projectignis.github.io/download.html) <Badge type="info" text="Client" /> <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/ygopro-percy" />
-- [YGO Omega](https://omega.duelistsunite.org/) <Badge type="info" text="Client" /> <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/duelistsunite" />
+- [Dueling Book](https://www.duelingbook.com/) <Badge type="info" text="Website" /> <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/VE3xQZc" />
+- [EDO Pro](https://projectignis.github.io/download.html) <Badge type="info" text="Client" /> <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/ygopro-percy" />
+- [YGO Omega](https://omega.duelistsunite.org/) <Badge type="info" text="Client" /> <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/duelistsunite" />
 
 ### Alternative/Historic Formats
-- [Goat Format](https://www.goatformat.com/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.gg/Mjgy3fN " />
-- [Edison Format](https://www.edisonformat.com/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.com/invite/rceESCvNkf" />
+- [Goat Format](https://www.goatformat.com/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/Mjgy3fN " />
+- [Edison Format](https://www.edisonformat.com/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.com/invite/rceESCvNkf" />
 
 ### Subreddits
 - [Yu-Gi-Oh!](https://www.reddit.com/r/yugioh/)
 - [Master Duel](https://www.reddit.com/r/masterduel/)
-- [Duel Links](https://www.reddit.com/r/DuelLinks/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discordapp.com/invite/DuelLinks" />
+- [Duel Links](https://www.reddit.com/r/DuelLinks/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discordapp.com/invite/DuelLinks" />
 - [Goat Format](https://www.reddit.com/r/Goat_Format/)
 
 == More
@@ -430,8 +430,8 @@ I have tried to add all the well-known scanlators for manhwa and manhua, but for
 - [Ryuu games](https://www.ryuugames.com/)
 
 ### Others
-- [Digimon Basic](https://digimon-basic.org/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.com/invite/B3RXtnXRSG" />
-- [Sonic Zone](https://soniczone.net/) <Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://discord.com/invite/caxcReqh93" />
+- [Digimon Basic](https://digimon-basic.org/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.com/invite/B3RXtnXRSG" />
+- [Sonic Zone](https://soniczone.net/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.com/invite/caxcReqh93" />
 
 :::
 

@@ -313,7 +313,7 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 - [Manhwa Updates Bot](https://github.com/MooshiMochi/ManhwaUpdatesBot) :glowing-star:
 - [Rinbot](https://rinbot.moe/)
 - [Michelle](https://github.com/JacenBoy/michelle) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://michelle.jacenboy.com/" />
-- Sneedex <Badge type="info" icon="i-logos-discord-icon" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" />
+- Sneedex <Badge type="info" icon="i-ic-outline-discord" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" />
 - [Picsiv](https://github.com/jckli/picsiv)
 
 ### Misc
