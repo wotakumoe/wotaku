@@ -169,6 +169,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Sakuga.video](https://sakuga.video/)
 - [ArtSakuga](https://twitter.com/artsakuga) :mdi-twitter:
 - [D.K.](https://twitter.com/DanKantori) :glowing-star: :mdi-twitter:
+- [Mack Bay](https://twitter.com/SaberzzSeiba) :mdi-twitter:
 - [randomsakuga](https://twitter.com/randomsakuga) :mdi-twitter:
 - [Sakuga Clips](https://twitter.com/sakugaclips) :mdi-twitter:
 
@@ -202,6 +203,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Anime Nano](https://www.animenano.com/) <Badge text="Aggregator" />
 - [Animétudes](https://animetudes.com/) :glowing-star:
 - [artist_unknown](https://artistunknown.info/)
+- [Full Frontal](https://fullfrontal.moe/) :glowing-star:
 - [Let's Anime](https://letsanime.blogspot.com/)
 - [Sakuga Blog](https://blog.sakugabooru.com/) :glowing-star: <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/SakugaBlog" />
 - [Zimmerit](https://www.zimmerit.moe/)
