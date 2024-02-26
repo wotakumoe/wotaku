@@ -47,12 +47,22 @@ Otaku resources for other languages/regions.
 
 == Manga
 - [3asQ](https://3asq.org/)
+- [Ares Manga](https://fl-ares.com/)
+- [Azora Moon](https://azoramoon.com/)
+- [G Manga](https://gmanga.org/)
+- [Manga Arabic](https://mangarabic.com/)
+- [Manga Lek](https://manga-lek.net/)
+- [Manga Lionz](https://mangalionz.org/)
+- [Swat Manhua](https://swatmanhua.com/)
+- [Team x](https://team11x11.com/)
 
 == Software
 
 ### Android
 - [AnimeSlayer](https://anslayer.com/download.html) <Badge type="danger" text="Non-Foss" />
 - [Mangamello](https://play.google.com/store/apps/details?id=com.wael.mangamello) <Badge type="tip" text="Plus" link="https://play.google.com/store/apps/details?id=com.wael.mmplus"/> <Badge type="danger" text="Non-Foss" />
+- [Manga Library](https://play.google.com/store/apps/details?id=com.manga.library.online) <Badge type="danger" text="Non-Foss" />
+- [Qaraa manga araby](https://play.google.com/store/apps/details?id=org.hamak.mangareader) <Badge type="danger" text="Non-Foss" />
 - [Spacetoon](https://play.google.com/store/apps/details?id=com.spacetoon.vod) <Badge type="info" text="Legal" />
 
 :::
