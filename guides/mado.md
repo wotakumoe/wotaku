@@ -97,7 +97,7 @@ You can also set up your client to do this automatically by adding it to the **C
 1. Long press on the rizon network
 2. Click on **Edit**
 3. Add `#madokami` in **Auto-join channels**
-4. Add `msg NickServ IDENTIFY yourPassword` in **Auto-run commands**
+4. Add `/msg NickServ IDENTIFY yourPassword` in **Auto-run commands**
 
 ![](/ss/mado/autorev.png)
 :::
