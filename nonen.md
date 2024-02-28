@@ -59,11 +59,17 @@ Otaku resources for other languages/regions.
 == Software
 
 ### Android
-- [AnimeSlayer](https://anslayer.com/download.html) <Badge type="danger" text="Non-Foss" />
-- [Mangamello](https://play.google.com/store/apps/details?id=com.wael.mangamello) <Badge type="tip" text="Plus" link="https://play.google.com/store/apps/details?id=com.wael.mmplus"/> <Badge type="danger" text="Non-Foss" />
-- [Manga Library](https://play.google.com/store/apps/details?id=com.manga.library.online) <Badge type="danger" text="Non-Foss" />
-- [Qaraa manga araby](https://play.google.com/store/apps/details?id=org.hamak.mangareader) <Badge type="danger" text="Non-Foss" />
-- [Spacetoon](https://play.google.com/store/apps/details?id=com.spacetoon.vod) <Badge type="info" text="Legal" />
+
+- **Anime**
+  - [AnimeSlayer](https://anslayer.com/download.html) <Badge type="danger" text="Non-Foss" />
+  - [Spacetoon](https://play.google.com/store/apps/details?id=com.spacetoon.vod) <Badge type="info" text="Legal" />
+- **Manga**
+  - [Mangamello](https://play.google.com/store/apps/details?id=com.wael.mangamello) <Badge type="tip" text="Plus" link="https://play.google.com/store/apps/details?id=com.wael.mmplus"/> <Badge type="danger" text="Non-Foss" />
+  - [Manga Library](https://play.google.com/store/apps/details?id=com.manga.library.online) <Badge type="danger" text="Non-Foss" />
+  - [Qaraa manga araby](https://play.google.com/store/apps/details?id=org.hamak.mangareader) <Badge type="danger" text="Non-Foss" />
+- **Tracker**
+  - [Kunaiu](https://play.google.com/store/apps/details?id=com.kunaiu.android) <Badge type="danger" text="Non-Foss" />
+
 
 :::
 
