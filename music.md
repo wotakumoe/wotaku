@@ -288,7 +288,7 @@ Everything Music Related in One Page!
 
 == Player
 ### Local
-- [AIMP](https://www.aimp.ru/) :ic-baseline-window::mingcute-linux-fill:
+- [AIMP](https://www.aimp.ru/) :glowing-star: :ic-baseline-window::mingcute-linux-fill:
 - [DeaDBeeF](https://deadbeef.sourceforge.io/) :mingcute-linux-fill:
 - [Elisa](https://apps.kde.org/elisa/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Foobar2000](https://www.foobar2000.org/) :glowing-star: :ic-baseline-window::ic-baseline-apple:<Badge type="info" text="Georgia-ReBORN" link="https://github.com/TT-ReBORN/Georgia-ReBORN"/> <Badge type="info" text="Synced Lyrics" link="/guides/foobar#synced-lyrics" />
@@ -315,9 +315,10 @@ Everything Music Related in One Page!
 
 
 == Browser
+
 ### Extension
+- [AudD Music](https://github.com/AudDMusic) :glowing-star: <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/lhhohkfofnfbnildpdhhjeeenapeceei" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/audd/" />
 - [AHA Music](https://aha-music.com/) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/aha-music-song-finder-for/dpacanjfikmhoddligfbehkpomnbgblf" />
-- [AudD Music](https://github.com/AudDMusic) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/lhhohkfofnfbnildpdhhjeeenapeceei" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/audd/" />
 - [BetterRYM](https://github.com/jgchk/better-rym) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/pdbgknkejapoehgogijhmahhpiimlhjg" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/better-rym/" />
 - [Spotify New Releases](https://spotify-new-releases.web.app/) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/spotify-new-releases/badbmkjnnimjfhhmknfoikappgmelpjo" />
 - [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chrome.google.com/webstore/detail/lastfm-scrobbler/hhinaapppaileiechjoiifaancjggfjm" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/web-scrobbler/" />
