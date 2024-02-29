@@ -169,29 +169,11 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
     - Includes vertical mode
     - Can open a variety of ebook formats (PDF, epub, mobi, cbz/cbr, DjVu, XPS, CHM)
 
-== Hosting
-- [**Komga**](https://komga.org/)
-    - Media server for manga/comics (like plex for manga).
-    - Integrates with tachiyomi, OPDS reader or anything else using komga rest api.
-    - Community built tools can be added though it's rest api for extra features like dupe detection, media analysis for corrupt files, .cbl read lists and much more.
-    - User authentication using Github, Google or any other OAuth provider. Can restrict sections of library for different users.
-    - Supports ComicInfo.xml and info.json for metadata.
-    - Supported as a source in MALSync, for AniList/MAL tracking
-    - Follows the 1-folder-to-1-series paradigm (unless you designate a folder as a folder of oneshots) so you'll need to organize your files accordingly.
-- [**Kavita**](https://www.kavitareader.com/)
-    - Kavita is a media server for Manga and Light Novels (or eBooks).
-    - Supports Tachiyomi, Paperback, OPDS readers, and REST API.
-    - User management is done through email invites. By default, it uses the Kavita mail server, but other mail servers can be used too.
-    - The admin can specify permissions such as enabling downloads, SFW/NSFW filter, and library selection.
-    - Reliant on filename parsing, requires strict adherence to expected filename formats and embedded metadata is near mandatory for edge-cases.
-    - No MALSync support. Tracking support, alongside some other features, is paywalled behind Kavita+.
-
-:::
-
 :::details More {open}
 - [Yomikiru](https://github.com/mienaiyami/yomikiru) <Badge type="info" text="offline" /> <tooltip>Simple UI with all the basic settings but has moiré issue. Has longstrip mode and anilist tracking.</tooltip>
-- [LANraragi](https://github.com/Difegue/LANraragi) <Badge type="info" text="Self-hosted" />
+
 :::
+
 
 ### Anime
 

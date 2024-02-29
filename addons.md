@@ -154,25 +154,51 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 
 :::
 
-<br>
+<hr>
+
+### Hosting
+
+:::tabs
+
+== Anime
+
+- [Plex](https://www.plex.tv/) :glowing-star:
+- [Jellyfin](https://jellyfin.org/)
+- [Emby](https://emby.media/)
+
+== Manga
+
+- [Komga](https://komga.org/) :glowing-star: <tooltip><ul><li>Media server for manga/comics (like Plex for manga).</li><li>Integrates with Tachiyomi, OPDS reader, or anything else using Komga REST API.</li><li>Community-built tools can be added through its REST API for extra features like dupe detection, media analysis for corrupt files, .cbl read lists, and much more.</li><li>User authentication using GitHub, Google, or any other OAuth provider. Can restrict sections of the library for different users.</li><li>Supports ComicInfo.xml and info.json for metadata.</li><li>Supported as a source in MALSync, for AniList/MAL tracking.</li><li>Follows the 1-folder-to-1-series paradigm (unless you designate a folder as a folder of oneshots) so you'll need to organize your files accordingly.</li></ul></tooltip>
+- [Kavita](https://www.kavitareader.com/) <tooltip><ul><li>Kavita is a media server for Manga and Light Novels (or eBooks).</li><li>Supports Tachiyomi, Paperback, OPDS readers, and REST API.</li><li>User management is done through email invites. By default, it uses the Kavita mail server, but other mail servers can be used too.</li><li>The admin can specify permissions such as enabling downloads, SFW/NSFW filter, and library selection.</li><li>Reliant on filename parsing, requires strict adherence to expected filename formats and embedded metadata is near mandatory for edge-cases.</li><li>No MALSync support. Tracking support, alongside some other features, is paywalled behind Kavita+.</li></ul></tooltip>
+- [LANraragi](https://github.com/Difegue/LANraragi)
+
+== Novels
+
+- [Komga](https://komga.org/)
+- [Kavita](https://www.kavitareader.com/)
+- [Calibre-Web](https://github.com/janeczku/calibre-web)
+- [Librium](https://librumreader.com/)
+
+:::
+
+<hr>
 
 ### Tools
 
 :::tabs
 == Anime
 
-### Hosting
-
-- [Emby](https://emby.media/)
-- [Jellyfin](https://jellyfin.org/)
-- [Plex](https://www.plex.tv/) <Badge type="tip" text="Anisync" link="https://github.com/RickDB/PlexAniSync" /><Badge type="tip" text="Maintainerr" link="https://github.com/jorenn92/Maintainerr" /><Badge type="tip" text="Mappings" link="https://github.com/mizz141/PlexAniSync-Mappings" />
-- [Shoko Anime](https://shokoanime.com/) <Badge type="tip" text="Shokofin" link="https://github.com/ShokoAnime/Shokofin" />
-
-
-### Tools
+### General
 - [Anicon](https://github.com/notdedsec/anicon) <Badge type="info" text="Anilist" link="https://github.com/EnArvy/AniconforAnilist"/>:ic-baseline-window:
 - [Anitomy](https://github.com/erengy/anitomy)
+- [GetFnative](https://github.com/YomikoR/GetFnative) <Badge type="info" text="getfscaler" link="https://github.com/Jaded-Encoding-Thaumaturgy/getfscaler"/>
 - [Koneko](https://github.com/irevenko/koneko)
+- **Plex**
+  - [Plex to AniList Sync](https://github.com/RickDB/PlexAniSync)
+  - [PlexAniSync-Mappings](https://github.com/mizz141/PlexAniSync-Mappings)
+  - [Maintainerr](https://github.com/jorenn92/Maintainerr)
+- [**Shoko Anime**](https://shokoanime.com/)
+  - [Shokofin](https://github.com/ShokoAnime/Shokofin)
 - [Sushi.net](https://github.com/maxpiva/Sushi.Net) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
 :::details Arr tools
@@ -183,6 +209,8 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 ### Tools
 - [Overseerr](https://overseerr.dev/)
 - [Prowlarr](https://prowlarr.com/)
+- [Jackett](https://github.com/Jackett/Jackett)
+- [autobrr](https://autobrr.com/)
 - [Ombi](https://ombi.io/)
 - [Tdarr](https://home.tdarr.io/)
 - [Bazarr](https://www.bazarr.media/)
