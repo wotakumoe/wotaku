@@ -407,46 +407,22 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 ### 2D
 
-- [**Live2D**](https://www.live2d.com/en/about/)
-    - Needs model split into many different layers, you can use Photoshop(paid), Clip Studio Paint(paid) or Krita(free) for this
-    - Very feature-rich and difficult program and takes a lot of time to practice
-    - Pricing: ~100€ per Year for Indie License, ~60€ 3 Years Student Indie License
-    - Free 42 days trial after that limited free version
-    - Tutorials out there on YouTube, you still will have to invest a massive amount of time
-- [**Inochi2D**](https://inochi2d.com/) <Badge type="tip" text="Docs" link="https://docs.inochi2d.com/" /><Badge type="tip" text="Github" link="https://github.com/Inochi2D" />
-    - Open Source and free alternative to Live2D
-    - similar functionality and structure
-    - split into Inochi Creator (used to create rigs) and Inochi Session (to use Inochi2D models for VTubing)
-    - see [advantages over Live2D](https://docs.inochi2d.com/en/latest/inochi2d/faq.html#what-advantages-does-inochi2d-have-over-live2d)
-- [**VTubeStudio**](https://denchisoft.com/) <Badge type="tip" text="Steam" link="https://store.steampowered.com/app/1325860/VTube_Studio/" />
-    - Converts tracking input into model movement, needed if you want to bring your model to "life"
-    - Free with a paid version which removes a small watermark, it costs 12,50€ (one-time)
-- [**VBridger**](https://store.steampowered.com/app/1898830/VBridger/)
-    - Add-On for VTubeStudio to improve tracking
-    - Costs 8,19€ (one-time)
-    - Has to be used with a tracking input application like [**ifacialmocap**](https://apps.apple.com/us/app/ifacialmocap/id1489470545) <Badge type="info" text="iOS" />, [**Facemotion3d**](https://apps.apple.com/us/app/facemotion3d/id1507538005) <Badge type="info" text="iOS" />, [**Meowface**](https://play.google.com/store/apps/details?id=com.suvidriel.meowface&hl=en_US) <Badge type="info" text="Android" />
+- [Live2D](https://www.live2d.com/en/about/) <tooltip><ul><li>Needs model split into many different layers, you can use Photoshop (paid), Clip Studio Paint (paid), or Krita (free) for this</li><li>Very feature-rich and difficult program and takes a lot of time to practice</li><li>Pricing: ~100€ per Year for Indie License, ~60€ 3 Years Student Indie License</li><li>Free 42 days trial after that limited free version</li><li>Tutorials out there on YouTube, you still will have to invest a massive amount of time</li></ul></tooltip>
+- [Inochi2D](https://inochi2d.com/) <Badge type="tip" text="Docs" link="https://docs.inochi2d.com/" /><Badge type="tip" text="Github" link="https://github.com/Inochi2D" /> <tooltip><ul><li>Open Source and free alternative to Live2D</li><li>Similar functionality and structure</li><li>Split into Inochi Creator (used to create rigs) and Inochi Session (to use Inochi2D models for VTubing)</li><li>See <a href="https://docs.inochi2d.com/en/latest/inochi2d/faq.html#what-advantages-does-inochi2d-have-over-live2d">advantages over Live2D</a></li></ul></tooltip>
+- [VTubeStudio](https://denchisoft.com/) <Badge type="tip" text="Steam" link="https://store.steampowered.com/app/1325860/VTube_Studio/" /> <tooltip><ul><li>Converts tracking input into model movement, needed if you want to bring your model to "life"</li><li>Free with a paid version which removes a small watermark, it costs 12,50€ (one-time)</li></ul></tooltip>
+- [VBridger](https://store.steampowered.com/app/1898830/VBridger/) <tooltip><ul><li>Add-On for VTubeStudio to improve tracking</li><li>Costs 8,19€ (one-time)</li><li>Has to be used with a tracking input application like <a href="https://apps.apple.com/us/app/ifacialmocap/id1489470545">ifacialmocap</a> (iOS), <a href="https://apps.apple.com/us/app/facemotion3d/id1507538005">Facemotion3d</a> (iOS), <a href="https://play.google.com/store/apps/details?id=com.suvidriel.meowface&hl=en_US">Meowface</a> (Android)</li></ul></tooltip>
 
 ### 3D
 
-- [**VRoidStudio**](https://vroid.com/en/studio)
-     - Used for model creation
-     - Very easy to use, free but not really professional, most of the time you will not get great results.
-- [**Blender**](https://www.blender.org/)
-     - Used for model creation (preferred)
-     - Free & Open Source and very popular therefore has many resources to use 
-     - Allows you to create complex models, but at the same time it can get quite complicated
-- [**cats blender plugin**](https://github.com/absolute-quantum/cats-blender-plugin)
-     - Free & Open Source Blender plugin to optimize your model and make eye and lip syncing much easier.
-- [**Mixamo**](https://www.mixamo.com/)
-     - Makes rigging your character easier, although you will get better results if you rig it manually using Blender.
-- [**UniVRM**](https://github.com/vrm-c/UniVRM/releases)
-     - Free & Open Source: Import VRoid Models into Unity
-- [**3Tene**](https://3tene.com/free/) <Badge type="tip" text="Steam" link="https://store.steampowered.com/app/871170/3tene/" />
-     - Free, there are other Versions with different functionality on their website
-     - Used to track your 3D Model using your webcam/phone etc.
-- [**VSeeFace**](https://www.vseeface.icu/)
-     - Free
-     - Feature rich and great functionality, you may still prefer 3Tene for its UI, just test both out.
+- [VRoidStudio](https://vroid.com/en/studio) <tooltip><ul><li>Used for model creation</li><li>Very easy to use, free but not really professional, most of the time you will not get great results.</li></ul></tooltip>
+- [Blender](https://www.blender.org/) <tooltip><ul><li>Used for model creation (preferred)</li><li>Free & Open Source and very popular therefore has many resources to use</li><li>Allows you to create complex models, but at the same time it can get quite complicated</li></ul></tooltip>
+- [cats blender plugin](https://github.com/absolute-quantum/cats-blender-plugin) <tooltip>Makes rigging your character easier, although you will get better results if you rig it manually using Blender.</tooltip>
+- [Mixamo](https://www.mixamo.com/)
+- [UniVRM](https://github.com/vrm-c/UniVRM/releases) <tooltip>Free & Open Source. Import VRoid Models into Unity</tooltip>
+- [3Tene](https://3tene.com/free/) <Badge type="tip" text="Steam" link="https://store.steampowered.com/app/871170/3tene/" />  <tooltip>Free, there are other Versions with different functionality on their website. Used to track your 3D Model using your webcam/phone etc.</tooltip>
+- [VSeeFace](https://www.vseeface.icu/)  <tooltip>Free, Feature rich and great functionality, you may still prefer 3Tene for its UI, just test both out.</tooltip>
+
+<hr>
 
 ### Tutorials
 
