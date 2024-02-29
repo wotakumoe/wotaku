@@ -149,6 +149,7 @@ Everything Music Related in One Page!
 - [Playlist Sorter](https://www.playlistsorter.com/)
 - [Skiley](https://skiley.net/) :glowing-star:
 - [Spotify Dedup](https://spotify-dedup.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/JMPerez/spotify-dedup/" />
+- [Spotify Playlist Archive](https://spotifyplaylistarchive.com/)
 - [Spotify Release List](https://spotifyreleaselist.netlify.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/jakubito/spotify-release-list" />
 - [Stats for Spotify](https://www.statsforspotify.com/)
 - [Volt.fm](https://volt.fm/) :glowing-star:
