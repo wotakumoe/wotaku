@@ -213,6 +213,7 @@ Online resources for anime, manga, novels and more.
 - [Danke fürs Lesen Scans](https://danke.moe/)  <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/91035fe1-d6b0-4816-be51-b54d05d546cf/danke-furs-lesen" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/xlp7424/danke-fuers-lesen" />
 - [LHTranslation](https://lhtranslation.net/)  <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/24adf288-d0e3-4d34-b342-bf8c189aacaa/lhtranslation" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/f6nc2yt/lhtranslation" />
 - [Scylla Scans](https://scyllascans.org/r)  <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/4209a4a9-b838-4817-be40-0c8ef2f7be4a/scylla-scans" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/groups.html?id=14042" />
+- [TCB Scans](https://onepiecechapters.com/)  <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/db85f2a1-d69b-4181-a7a0-aa37db4bcbcf/tcb-scans" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/wn8v9bv/tcb-scans" />
 - [Tritinia](https://tritinia.org/) + :flag-china: :flag-south-korea:  <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/zfxsenj/tritinia-scans" />
 
 :::details Mangadex group
