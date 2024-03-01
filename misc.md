@@ -157,7 +157,8 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 == Booru
 - [Booruwf](https://booru.pixiv.pics/) :glowing-star: <Badge type="tip" text="Moeview" link="https://moeview.pixiv.pics/" /> <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/asadahimeka/booruwf-web" /> 
-- [Danbooru](https://danbooru.donmai.us/) <Badge type="green" link="" text="SFW Version"/>
+- [Danbooru](https://danbooru.donmai.us/) 
+- [Donmai](https://donmai.moe/) <Badge type="green" link="" text="SFW"/>
 - [Gelbooru](https://gelbooru.com/)
 - [Konachan](https://konachan.com/)
 - [Safebooru](https://safebooru.org/) <Badge type="green" text="SFW" />
