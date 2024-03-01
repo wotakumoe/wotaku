@@ -113,7 +113,7 @@ The quality of the anime file depends on the [**source**](/glossary/anime#source
 
 <br>
 
-On the other hand, aggregators like [**Aniwave**](https://aniwave.to/home), [**KickAssAnime**](https://kickassanime.am/) & [**Aniwatch**](https://aniwatch.to/home) re-encode them further. They sacrifice some of the quality in favor of smaller file sizes, thereby maintaining a smoother user experience on their sites. [**KickAssAnime**](https://kickassanime.am/) has a player (duckstream) that streams using Crunchyroll API, so you can get full WebDL quality from there.
+On the other hand, aggregators like [**Aniwave**](https://aniwave.to/home), [**KickAssAnime**](https://kickassanime.am/) & [**HiAnime**](https://hianime.to/home) re-encode them further. They sacrifice some of the quality in favor of smaller file sizes, thereby maintaining a smoother user experience on their sites. [**KickAssAnime**](https://kickassanime.am/) has a player (duckstream) that streams using Crunchyroll API, so you can get full WebDL quality from there.
 
 <br>
 

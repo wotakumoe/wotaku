@@ -24,7 +24,7 @@ Online resources for anime, manga, novels and more.
   - Duck has the highest overall bitrate but may have buffer issue.
   - Has both hardsub(duck) & softsub(rest)
   - Has missing titles. But, you can request them in their support server
-- [**Aniwatch**](https://aniwatch.to/home) <Badge type="info" text="Proxies" link="https://aniwatch.gg/" />
+- [**HiAnime**](https://hianime.to/home)
   - Huge library with Watch Together feature
   - Re-encodes shows for smaller size with lower overall bitrate.
   - Softsubs may create issues in different scenarios, but can be beneficial for multi-language support

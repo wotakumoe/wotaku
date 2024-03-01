@@ -15,7 +15,7 @@ Otaku resources for other languages/regions.
 - [Aniwave](https://aniwave.to/home)
 - [Kickassanime](https://kaas.am/)
 - [Kaguya](https://kaguya.app/anime) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/kaguya/jhinkdokgbijplmedcpkjdbcmjgockgc" />
-- [Aniwatch](https://aniwatch.to/home)
+- [HiAnime](https://hianime.to/home)
 
 == Manga
 - [Mangadex](https://mangadex.org/)

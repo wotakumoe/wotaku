@@ -80,7 +80,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 ### Anime
 - [Animelon](https://animelon.com/)
 - [Nyaa](https://nyaa.si/?f=0&c=1_4&q=) <Badge type="info" text="Raw" />
-- [Aniwatch](https://aniwatch.to/home) <Badge type="info" text="Raw" />
+- [HiAnime](https://hianime.to/home) <Badge type="info" text="Raw" />
 - [itazuraneko](https://djtguide.github.io/library/sub) <Badge type="info" text="Subs" />
 - [Kitsunekko](https://kitsunekko.net/) <Badge type="info" text="Subs" />
 - [JP Subtitles](https://github.com/Matchoo95/JP-Subtitles) <Badge type="info" text="Subs" />
