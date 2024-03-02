@@ -105,7 +105,7 @@ export default withPwa(
       search: search,
       logo: { src: "/asset/inaidle.webp", width: 29, height: 24 },
       sidebar: [
-        { text: '<span class="i-twemoji:high-voltage"></span> FAQs', link: "/faq" },
+        { text: '<span class="i-twemoji:high-voltage"></span> Quick Start', link: "/qs" },
         { text: '<span class="i-twemoji:left-speech-bubble"></span> FAQs', link: "/faq" },
         { text: '<span class="i-twemoji:globe-showing-asia-australia"></span> Websites', link: "/websites" },
         { text: '<span class="i-twemoji:floppy-disk"></span> Software', link: "/software" },
