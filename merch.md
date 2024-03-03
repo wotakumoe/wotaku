@@ -54,7 +54,7 @@ Looking to buy memorabilia from your favorite series and support the creators? H
 :::
 
 ::: warning Don't be impulsive.
-Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed decisions. It's always a good idea to read the most recent reviews or ask for advice in a [related community](/merch.md/#communities) before making your final decision.
+Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed decisions. It's always a good idea to read the most recent reviews or ask for advice in a [related community](/merch#communities) before making your final decision.
 :::
 
 
