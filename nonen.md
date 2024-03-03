@@ -82,7 +82,7 @@ Otaku resources for other languages/regions.
 - [Anime Balkan](https://animebalkan.org/) <Badge type="tip" text="2" link="https://animebalkan.gg/" />
 - [Anime Srbija](https://www.animesrbija.com/)
 
-== Mnaga
+== Manga
 - [Manga Balkan](https://mangabalkan.org/)
 :::
 
