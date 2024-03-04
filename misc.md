@@ -166,10 +166,11 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Zerochan](https://www.zerochan.net/) <Badge type="green" text="SFW" />
 
 == Sakuga
-- [Sakuga Booru](https://www.sakugabooru.com/) :glowing-star: <Badge type="green" text="SFW" />
+- [Sakuga Booru](https://www.sakugabooru.com/) :glowing-star:  <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/khmnmdaghmhkcbooicndamlhkcmpklmc" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/sakuga-extended/" /><Badge type="green" text="SFW" />
 - [Sakuga.video](https://sakuga.video/)
 - [ArtSakuga](https://twitter.com/artsakuga) :mdi-twitter:
 - [D.K.](https://twitter.com/DanKantori) :glowing-star: :mdi-twitter:
+- [Extra Sakuga](https://twitter.com/EffectsSakuga) :mdi-twitter:
 - [Mack Bay](https://twitter.com/SaberzzSeiba) :mdi-twitter:
 - [randomsakuga](https://twitter.com/randomsakuga) :mdi-twitter:
 - [Sakuga Clips](https://twitter.com/sakugaclips) :mdi-twitter:
