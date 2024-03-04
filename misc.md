@@ -317,7 +317,10 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 :::tabs
 == General
 
-:glowing-star: [Holodex](https://holodex.net/) <Badge type="info" text="Music" link="https://music.holodex.net/" /><Badge type="info" text="Frontend" />
+### :glowing-star: Fan Projects
+- [Holodex](https://holodex.net/) <Badge type="info" text="Musicdex" link="https://music.holodex.net/" /> <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/HolodexNet" />
+- [Ragtag Archive](https://archive.ragtag.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/ragtag-archive" />
+- [Patchwork Archive](https://patchwork.moekyun.me/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/Patchwork-Archive/" />
 
 ### DB
 - [Good VTuber Subs](https://goodvtubersubs.com/) :glowing-star:
