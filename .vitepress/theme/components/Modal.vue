@@ -6,9 +6,10 @@ const showModal = ref(false);
 </script>
 
 <template>
-  <button @click="showModal = true"
+  <button
+    @click="showModal = true"
     class="VButton c block font-medium px10 py3 rounded-md block mt2 flex items-center gap2">
-  <strong>Feedback</strong>
+    <strong>Feedback</strong>
   </button>
 
   <Teleport to="body">
