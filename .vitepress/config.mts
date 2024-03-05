@@ -107,7 +107,10 @@ export default withPwa(
       sidebar: [
         { text: '<span class="i-twemoji:high-voltage"></span> Quick Start', link: "/qs" },
         { text: '<span class="i-twemoji:left-speech-bubble"></span> FAQs', link: "/faq" },
-        { text: '<span class="i-twemoji:globe-showing-asia-australia"></span> Websites', link: "/websites" },
+        {
+          text: '<span class="i-twemoji:globe-showing-asia-australia"></span> Websites',
+          link: "/websites",
+        },
         { text: '<span class="i-twemoji:floppy-disk"></span> Software', link: "/software" },
         { text: '<span class="i-twemoji:card-file-box"></span> Misc-sites', link: "/misc" },
         { text: '<span class="i-twemoji:puzzle-piece"></span> Add-ons', link: "/addons" },
@@ -117,7 +120,7 @@ export default withPwa(
         { text: '<span class="i-twemoji:flag-japan"></span> Everything Japan', link: "/jp" },
         { text: '<span class="i-twemoji:package"></span> Merch', link: "/merch" },
         { text: '<span class="i-twemoji:page-with-curl"></span> Scanlation', link: "/scanlation" },
-        
+
         {
           text: '<span class="i-twemoji:open-book"></span> Glossary',
           collapsed: true,
@@ -145,7 +148,7 @@ export default withPwa(
         },
         { text: '<span class="i-twemoji:alembic"></span> Brewing', link: "/brewing" },
         { text: '<span class="i-twemoji:speaking-head"></span> Communities', link: "/comms" },
-        { text: '<span class="i-twemoji:sparkling-heart"></span> Credits', link: "/credits" },        
+        { text: '<span class="i-twemoji:sparkling-heart"></span> Credits', link: "/credits" },
       ],
       nav: [
         {
