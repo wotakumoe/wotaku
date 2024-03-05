@@ -17,7 +17,7 @@ const contributors = computed(() => contribs || ({} as Contributors));
     </div>
   </div>
   <span />
-  <h1 class="text-center">Contributors</h1>
+  <h1 class="mt-30px text-center">Contributors</h1>
   <hr />
   <div class="flex flex-wrap gap-4 pt-2">
     <div v-for="(c, index) of contributors.contributors" class="flex gap-2 items-center">
@@ -28,7 +28,7 @@ const contributors = computed(() => contribs || ({} as Contributors));
     </div>
   </div>
   <span />
-  <h1 class="text-center">Special Thanks to</h1>
+  <h1 class="mt-30px text-center">Special Thanks to</h1>
   <hr />
   <div class="flex flex-wrap gap-4 pt-2">
     <div v-for="(c, index) of contributors.special" class="flex gap-2 items-center">
