@@ -93,6 +93,10 @@
   -webkit-text-decoration-color: var(--vp-c-brand);
 }
 
+.vp-doc h1:not(:first-child) {
+  margin-top: 30px;
+}
+
 :root {
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(-30deg, #62cff4, #1473e6);
