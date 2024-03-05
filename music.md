@@ -317,13 +317,14 @@ Everything Music Related in One Page!
 - [Strawberry](https://www.strawberrymusicplayer.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [WACUP](https://getwacup.com/) :ic-baseline-window:
 - [Amberol](https://apps.gnome.org/Amberol/) :mingcute-linux-fill:
+- [Tauon Music Box](https://tauonmusicbox.rocks/) :ic-baseline-window::mingcute-linux-fill: <Badge type="info" text="Synced Lyrics" link="https://github.com/Taiko2k/TauonMusicBox/wiki/Lyrics#synced-lyrics" />
 
 ### Online
 - [Spicetify](https://spicetify.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [SPOTX](https://github.com/SpotX-Official/SpotX) :ic-baseline-window:
 - [Youtube Music](https://github.com/th-ch/youtube-music) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
-== Donwloader
+== Downloader
 - [Deemix](https://download.deemix.workers.dev/)
 - [Lidarr](https://lidarr.audio/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Nicotine+](https://nicotine-plus.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-lan-pending:<tooltip>Direct peer-to-peer sharing network, primarily used for music</tooltip>
