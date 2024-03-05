@@ -144,9 +144,11 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [DeviantArt](https://www.deviantart.com/)
 - [Misskey.io](https://misskey.io/) <Badge type="tip" text="Others" link="https://misskey-hub.net/en/servers/" />
 - [Newgrounds](https://www.newgrounds.com/art)
-- [Pixiv](https://www.pixiv.net) :glowing-star: <Badge type="tip" text="Alt" link="https://pixiv.pics/" />
+- [Pixiv](https://www.pixiv.net) :glowing-star:
+- [Pixiv Viewer](https://pixiv.pics/)
 - [Tumblr](https://www.tumblr.com/)
-- [Twitter](https://twitter.com/home) <Badge type="tip" text="Alt" link="https://nitter.cz/" />
+- [Twitter](https://twitter.com/home)
+- [Twucan](https://twoucan.com/) :glowing-star:
 
 :::details Support Platforms
 - [BOOTH](https://booth.pm/en)
