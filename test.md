@@ -1,20 +1,13 @@
-**Radio Stations**
-
-Anime
-
-
-Jpop and Anime Mix
-
-1. Gensokyo Radio [256 kbps] - https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u
-2. Yumi Co. Radio [256 kbps] - http://yumicoradio.net:8000/stream
-3. Greek Otaku Radio [310 kbps] - http://usa2.fastcast4u.com:3684/;
-4. Radio Nami [320 kbps] - http://5.9.2.139:8000/any-anime.ru
-
-Vocaloids
-
-1. Vocaloid Radio VRX [256 kbps] - https://vrx.piro.moe/stream-256.m3u
-2. Vocaloid Radio [192 kbps] - https://vocaloid.radioca.st/stream
-
-Vtubers and Doujinstyle
-
-1. Doujinstyle Radio [192 kbps] - https://streams.radio.co/s5ff57669c/listen.m3u
+- divide resource section
+- add media & youtube section
+- merge the starter and guide tab with topics and name it to guide section
+- move the rest of the resource tabs before software
+- merge the starter and guide tab and name it general
+- rank all the general guides
+- fix links inconsistency in general guide, tv tab
+- add audiobook section in audio section
+- resort all the sections
+- divide software section in anki, phone & pc section
+- add anki related 3rd party apps
+- change writing style for youtube creators
+- move easy reading & manga to books
