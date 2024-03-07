@@ -470,7 +470,6 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 ### Reader
 
-- [Comicastle](https://www.comicastle.org/)
 - [Comic Extra](https://ww1.comicextra.com/)
 - [Read All Comics](https://readallcomics.com/) :glowing-star:
 - [Read Comics Free](https://readcomicsfree.com/)
