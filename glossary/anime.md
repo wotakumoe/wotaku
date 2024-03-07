@@ -40,7 +40,7 @@ In Japanese TV, the broadcast schedule is divided into four seasons: Spring (Mar
 
 | Terms     | Meaning { class="compact" } |
 | ------ | ------ |
-|  Branding  | The logo animation of studious and distributor of the anime are shown here. [Example](https://www.youtube.com/watch?v=Dt-BaKnnIRI) |
+|  Branding  | The logo animation of studious and distributor of the anime are shown here. The topic is really well-explained by [**Channel 45**](https://youtu.be/m29FhW1e3_g) |
 |  Recap  |   Recaps the previous episode(s). Generally it's found in long running shounen series. [Example](https://www.youtube.com/watch?v=R8jVqCKt4ZI) |
 |  Cold Opening |   It's the portion of the anime before the OP. Sometimes it can be just recap or a setup for the episode.  |
 |  OP  | Opening sequence of the anime, generally 1.5 minutes long. Depending on the episode they can also be placed closer to the middle or at the very end (example: Solo leveling s01e01). The scenes shown in them can be made for the OP only and not appear in the actual show. |
