@@ -147,8 +147,8 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Pixiv](https://www.pixiv.net) :glowing-star:
 - [Pixiv Viewer](https://pixiv.pics/)
 - [Tumblr](https://www.tumblr.com/)
-- [Twitter](https://twitter.com/home)
-- [Twucan](https://twoucan.com/) :glowing-star:
+- [Twitter](https://twitter.com/home) :glowing-star:
+- [Twucan](https://twoucan.com/)
 
 :::details Support Platforms
 - [BOOTH](https://booth.pm/en)
