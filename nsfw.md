@@ -179,9 +179,10 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [r/ecchi](https://www.reddit.com/r/ecchi/)
 - [r/hentaimemes](https://www.reddit.com/r/hentaimemes/)
 - [r/HENTAI_GIF](https://www.reddit.com/r/HENTAI_GIF/)
-- [r/rule34](https://www.reddit.com/r/rule34/)
+- [r/rule34](https://www.reddit.com/r/rule34/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/zMrMhpZ" />
 - [r/thighdeology](https://www.reddit.com/r/thighdeology/)
 - [🍀JAV Thread](https://4channel.org/jp/jav) <Badge type="tip" text="FAQ" link="https://jav.now.sh/" />
+- [:ic-outline-discord: Rule34.xxx](https://discord.gg/rule34xxx)
 
 == Scripts
 
