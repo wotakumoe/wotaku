@@ -150,7 +150,10 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
   - [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-android:
   - [PixivUtil2](https://github.com/Nandaka/PixivUtil2) :ic-baseline-window:
 - **Video**
-  - [yt-dlp](https://github.com/yt-dlp/yt-dlp) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge type="info" text="GUI" link="https://github.com/kannagi0303/yt-dlp-gui" /><Badge type="info" text="GUI Installer" link="https://github.com/kazukikasama/youtube-dlp-gui-installer" />
+  - [yt-dlp](https://github.com/yt-dlp/yt-dlp) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+    - [yt-dlp interface](https://github.com/ErrorFlynn/ytdlp-interface)
+    - [yt-dlp GUI](https://github.com/kannagi0303/yt-dlp-gui)
+    - [yt-dlp GUI Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer)
 
 :::
 
