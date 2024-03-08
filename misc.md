@@ -95,8 +95,11 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == Info
 
 - [Bookmeter](https://bookmeter.com/) :flag-japan:
-- [Manga Groups Portal](https://discord.gg/9KGMzP2)
+- [Bunko Light Novel Ranking](http://bunkoranoberanking.blog.fc2.com/)
+- [Ezrat](https://erzat.blog/)
+- [:ic-outline-discord: Manga Groups Portal](https://discord.gg/9KGMzP2)
 - [r/LightNovels reading order](https://www.reddit.com/r/LightNovels/wiki/reading_order)
+- [Shoseki Ranking](http://shosekiranking.blog.fc2.com/)
 - [Touhou Doujinshi Index](https://scarlet.nanoskript.dev/) :glowing-star: <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" /> <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/nanoskript/touhou-doujinshi-index" />  
 
 == Calendar
@@ -220,7 +223,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 == Manga & LN
 
-- [Ezrat](https://twitter.com/Erzat110) :mdi-twitter:  <Badge type="info" icon="i-octicon-globe" text="Web" link="https://erzat.blog/" />
+- [Ezrat](https://twitter.com/Erzat110) :mdi-twitter:
 - [Josu Ke](https://twitter.com/Josu_ke) :mdi-twitter:
 - [Manga Alerts](https://twitter.com/MangaAlerts) :mdi-twitter:
 - [Manga Bookshelf](https://mangabookshelf.com/) :mdi-twitter:
@@ -264,7 +267,6 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 :::tip 💡 Quick Tips {open}
 
 - [RSS Bridge](https://rss-bridge.org/bridge01/) & [RSSHub](https://docs.rsshub.app/) can be used to get rss feed from other websites.
-- `https://nitter.cz/[AccountID]/rss` for twitter RSS feed.
 - You can use [RSSHub](https://docs.rsshub.app/routes/social-media#pixiv) for Pixiv and other ACG sites.
 - Try [inoreader](https://www.inoreader.com/) & [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) as RSS Feed client.
 :::
