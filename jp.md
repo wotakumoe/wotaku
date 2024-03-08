@@ -30,6 +30,30 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Inhae's blog](https://notes.inhae.blog/learning-japanese/)
 
 
+
+## Kana
+
+:::tabs
+
+== Sites
+- [**TOFUGU**](https://www.tofugu.com/)
+  - [Hiragana](https://www.tofugu.com/japanese/learn-hiragana/) <Badge type="tip" text="PDF" link="https://www.tofugu.com/japanese/learn-hiragana-book-pdf/" />
+  - [Katakana](https://www.tofugu.com/japanese/learn-katakana/) <Badge type="tip" text="PDF" link="https://www.tofugu.com/japanese/learn-katakana-book-pdf/" />
+- [**Japanese-lesson.com**](http://japanese-lesson.com/)
+  - [Hiragana](http://japanese-lesson.com/characters/hiragana/hiragana_drill/index.html) <Badge type="tip" text="PDF" link="http://japanese-lesson.com/resources/pdf/characters/hiragana_chart.pdf" /><Badge type="tip" text="Practice" link="http://japanese-lesson.com/resources/pdf/characters/hiragana_writing_practice_sheets.pdf" />
+  - [Katakana](http://japanese-lesson.com/characters/katakana/katakana_drill/index.html) <Badge type="tip" text="PDF" link="http://japanese-lesson.com/resources/pdf/characters/katakana_chart.pdf" /><Badge type="tip" text="Practice" link="http://japanese-lesson.com/resources/pdf/characters/katakana_writing_practice_sheets.pdf" />
+
+== Videos
+- [Learn ALL hiragana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=6p9Il_j0zjc) `by JapanesePod101`
+- [Learn ALL katakana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=s6DKRgtVLGA) `by JapanesePod101`
+
+== Practice
+- [Kana Pro](https://kana.pro/)
+- [Real Kana](https://realkana.com/)
+:::
+
+
+
 ## Kanji / Vocabulary
 
 :::tabs
@@ -37,7 +61,8 @@ Interested in learning the japanese language? Here you can find resources to aid
 == Sites
 - [TOFUGU: The Best Kanji Learning Programs](https://www.tofugu.com/japanese/best-kanji-learning-programs/)
 - [Kanji by Sight](https://www.nihongoshark.com/post/kanji-by-sight)
-- [Kanji Damage](http://www.kanjidamage.com/)
+- [KanjiDamage](http://www.kanjidamage.com/)
+- [KanjiDamage+](https://kanjidamageplus.neocities.org/)
 - [Marshall's Site](https://marshallyin.com/) <Badge type="warning" text="Freemium" /> <tooltip>Marshall's site contain almost everything. So to avoid dupe, it will be linked once.</tooltip>
 
 == Dictionary
@@ -137,11 +162,14 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Tatoeba](https://tatoeba.org/en/)
 - [Sentence Search](https://sentencesearch.neocities.org/)
 - [Massif](https://massif.la/ja)
+- [RTK Search](https://hochanh.github.io/rtk/)
 - [Similar word finder](https://hinoki-project.org/natsume/)
 
 :::
 
-
+::: tip **Downloading books**
+You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanese Books**](https://freejapanesebooks.com/), [**Z-Library**](https://singlelogin.re/), [**PDF Drive**](https://www.pdfdrive.com/) & [**Nyaa**](https://nyaa.si/?c=3_3) to download books.
+:::
 
 ## Grammar
 
@@ -207,31 +235,6 @@ Interested in learning the japanese language? Here you can find resources to aid
 ### Number
 - [Japanese Numbers](https://langpractice.com/japanese)
 
-:::
-
-::: tip **Downloading books**
-You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanese Books**](https://freejapanesebooks.com/), [**Z-Library**](https://singlelogin.re/), [**PDF Drive**](https://www.pdfdrive.com/) & [**Nyaa**](https://nyaa.si/?c=3_3) to download books.
-:::
-
-## Kana
-
-:::tabs
-
-== Sites
-- [**TOFUGU**](https://www.tofugu.com/)
-  - [Hiragana](https://www.tofugu.com/japanese/learn-hiragana/) <Badge type="tip" text="PDF" link="https://www.tofugu.com/japanese/learn-hiragana-book-pdf/" />
-  - [Katakana](https://www.tofugu.com/japanese/learn-katakana/) <Badge type="tip" text="PDF" link="https://www.tofugu.com/japanese/learn-katakana-book-pdf/" />
-- [**Japanese-lesson.com**](http://japanese-lesson.com/)
-  - [Hiragana](http://japanese-lesson.com/characters/hiragana/hiragana_drill/index.html) <Badge type="tip" text="PDF" link="http://japanese-lesson.com/resources/pdf/characters/hiragana_chart.pdf" /><Badge type="tip" text="Practice" link="http://japanese-lesson.com/resources/pdf/characters/hiragana_writing_practice_sheets.pdf" />
-  - [Katakana](http://japanese-lesson.com/characters/katakana/katakana_drill/index.html) <Badge type="tip" text="PDF" link="http://japanese-lesson.com/resources/pdf/characters/katakana_chart.pdf" /><Badge type="tip" text="Practice" link="http://japanese-lesson.com/resources/pdf/characters/katakana_writing_practice_sheets.pdf" />
-
-== Videos
-- [Learn ALL hiragana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=6p9Il_j0zjc) `by JapanesePod101`
-- [Learn ALL katakana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=s6DKRgtVLGA) `by JapanesePod101`
-
-== Practice
-- [Kana Pro](https://kana.pro/)
-- [Real Kana](https://realkana.com/)
 :::
 
 
@@ -353,6 +356,7 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 - [Anki](https://apps.ankiweb.net/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [AnkiDroid Flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki) :mdi-android:
 - [AnkiMobile Flashcards](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) :ic-baseline-apple: <Badge type="warning" text="Paid"/>
+- [Ankiconnect Android](https://github.com/KamWithK/AnkiconnectAndroid) :mdi-android:
 - [FSRS4Anki](https://github.com/open-spaced-repetition/fsrs4anki) <Badge type="tip" icon="i-mdi-puzzle" text="Addon"/>
 
 ### Guide
@@ -386,16 +390,19 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 - [Akebi Japanese Dictionary](https://play.google.com/store/apps/details?id=com.craxic.akebifree) :mdi-android:
 - [Aedict3 Japanese Dictionary](https://play.google.com/store/apps/details?id=sk.baka.aedict3) :mdi-android:
 - [Japanese Dictionary Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto) :mdi-android:
+- [Nani?](https://f-droid.org/en/packages/eu.lepiller.nani/)
+- [Sumatora Japanese Dictionary](https://play.google.com/store/apps/details?id=org.happypeng.sumatora.android.sumatoradictionary)
 - [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380) :ic-baseline-apple:
 
 == Learning
 - [jidoujisho](https://github.com/lrorpilla/jidoujisho) :glowing-star: :mdi-android:
+- [Kakugo](https://play.google.com/store/apps/details?id=org.kaqui)
 - [Japanese Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy) :mdi-android:
 - [Kata](https://play.google.com/store/apps/details?id=im.dacer.kata) :mdi-android:
 - [Learn Japanese! - Kanji](https://apps.apple.com/us/app/learn-japanese-kanji/id1078107994) :ic-baseline-apple:
 - [Kana - Hiragana and Katakana](https://apps.apple.com/us/app/kana-hiragana-and-katakana/id1454200955) :ic-baseline-apple:
 - [Kanji Garden](https://kanji.garden/) <Badge type="tip" icon="i-mdi-android" text="Android" link="https://play.google.com/store/apps/details?id=is.ky.kanjigarden&hl=en&gl=US" /><Badge type="tip" icon="i-ic-baseline-apple" text="Apple" link="https://apps.apple.com/us/app/kanji-garden-japanese/id1338967114" />
-- [Japanese Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistud) :mdi-android:
+- [Real Kana](https://apps.apple.com/us/app/real-kana/id343807473) :ic-baseline-apple:
 - [Vocal Pitch Monitor](https://play.google.com/store/apps/details?id=com.tadaoyamaoka.vocalpitchmonitor)
 
 == Reader
@@ -410,7 +417,7 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 ### PC
 :::tabs
 
-== Player | Reader
+== Media
 
 ### Video Player
 - [mpvacious](https://github.com/Ajatt-Tools/mpvacious)
@@ -424,11 +431,16 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 - [mokuro](https://github.com/kha-white/mokuro)
 - [ttsu Ebook Reader](https://reader.ttsu.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/ttu-ttu/ebook-reader" /> 
 
-== Extension
+
+### Audio Player
+- [Music Player Daemon](https://www.musicpd.org/)
+
+== Browser
 
 - [Yomitan](https://github.com/themoeway/yomitan) <Badge type="tip" text="Guide" link="https://learnjapanese.moe/yomichan/" />
     - [Yomitan Dictionaries](https://github.com/MarvNC/yomichan-dictionaries/)
     - [Yomitan Grammar Dictionaries](https://github.com/aiko-tanaka/Grammar-Dictionaries)
+- [Rikitan](https://github.com/Ajatt-Tools/rikaitan) <Badge type="tip" text="Guide" link="https://tatsumoto.neocities.org/blog/setting-up-yomichan" /><Badge type="tip" text="Dictionary" link="https://tatsumoto.neocities.org/blog/yomichan-and-epwing-dictionaries" />
 - [10ten Japanese Reader](https://github.com/birchill/10ten-ja-reader)
 - [Japanese.io](https://www.japanese.io/)
 - [jimaku player](https://github.com/sheodox/jimaku-player)
@@ -436,10 +448,29 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 - [mirigana](https://github.com/mirigana/mirigana)
 - [JPDB Web Reader](https://github.com/max-kamps/jpd-breader)
 
+== Translator / OCR
+
+- [Sugoi Translation Toolkit](https://blog.sugoitoolkit.com/)
+- [Ballons Translator](https://github.com/dmMaze/BallonsTranslator)
+- [Capture2text](https://capture2text.sourceforge.net/)
+- [Imagetrans](https://www.basiccat.org/imagetrans/)
+- [Kanji tomo](https://www.kanjitomo.net/)
+- [Manga OCR](https://github.com/kha-white/manga-ocr)
+- [Mokuro](https://github.com/kha-white/mokuro)
+- [Poricom](https://github.com/blueaxis/Poricom)
+- [Yomiwa](https://www.yomiwa.net/)
+
+:::danger MTL won't be perfect
+Using Machine Translation to translate manga will be a mess. Manga has lots of slang, cultural references, and visual elements that MTL won't understand. So, it's better to have a human translator who knows the language and culture well. So don't expect it to be perfect.
+
 == Others
 
+- [GoldenDict-NG](https://xiaoyifang.github.io/goldendict-ng/)  <Badge type="tip" text="Guide" link="https://tatsumoto.neocities.org/blog/setting-up-goldendict" /><Badge type="tip" text="Tools" link="https://github.com/Ajatt-Tools/gd-tools" />
+- [Kamite](https://github.com/fauu/Kamite)
 - [JL](https://github.com/rampaa/JL)
+- [Subtitle Edit](https://www.nikse.dk/subtitleedit)
 - [subs2srs](https://subs2srs.sourceforge.net/)
+- [FFsubsync](https://github.com/smacke/ffsubsync)
 - [subs2cia](https://github.com/dxing97/subs2cia)
 - [Automatic Condensed Audio Dialogue Script](https://anacreondjt.gitlab.io/docs/condensed_audio/)
 - [EXSTATIC](https://github.com/KamWithK/exSTATic)
@@ -632,6 +663,7 @@ Culture, History, Mythology & Festival. Everything about Japan!
 == Language Study
 
 - [Japanese Language Study Space](https://discord.gg/jlss)
+- [Tatsumoto](https://tatsumoto.neocities.org/blog/join-our-community)
 - [Marshall's Server](https://discord.com/invite/ejmrfwSYAH)
 - [NativShark](https://discord.com/invite/nativshark)
 - [r/LearnJapanese](https://www.reddit.com/r/LearnJapanese/)
