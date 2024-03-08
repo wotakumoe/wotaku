@@ -15,7 +15,7 @@ Everything about Japan in one page! Language, culture, history, mythology & more
 Interested in learning the japanese language? Here you can find resources to aid you on your journey.
 
 
-## Starter's Guide
+## Starter Guide
 - [Tatsumoto's Guide](https://tatsumoto.neocities.org/)
 - [Perdition's Guide](https://perdition-japanese.github.io/posts/how-to-study-japanese/)
 - [Acquiring Japanese Efficiently](https://docs.google.com/document/d/1LH82FjsCqCgp6-TFqUcS_EB15V7sx7O1VCjREp6Lexw/edit)
@@ -27,101 +27,18 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Animecards Site](https://animecards.site/)
 - [Japanese with Anime](https://www.japanesewithanime.com/)
 - [r/LearnJapanese Starter's Guide](https://www.reddit.com/r/LearnJapanese/wiki/index/startersguide/)
-- [Maggie Sensei's Conversation Guide](https://maggiesensei.com/)
-
-
-## Grammar
-
-:::tabs
-
-== Learning Sites
-
-- [A Dictionary of Japanese Grammar](https://core6000.neocities.org/dojg/)
-- [Tae Kim's Guide](https://guidetojapanese.org/learn/)
-- [Pomax's An introduction to Japanese](https://pomax.github.io/nrGrammar/)
-- [IMABI](https://imabi.org/)
-- [CURE DOLLY TEXTBOOK](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit) <Badge type="tip" text="original" link="https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit" />
-- [Visualizing Japanese Grammar](https://www2.gwu.edu/~eall/vjgnew/vjghomepage/vjghome.htm)
-- [Marshall's Site](https://marshallyin.com/) <Badge type="warning" text="Freemium" /> <tooltip>Marshall's site contain almost everything. So to avoid dupe, it will be linked once.</tooltip>
-- [Bunpro](https://bunpro.jp/) <Badge type="warning" text="Freemium" />
-
-== Youtube
-
-### Channels
-- [JapanesePod101](https://www.youtube.com/@JapanesePod101)
-- [Japanese with Yuka](https://www.youtube.com/@japanesewithyuka)
-- [Kaname Naito](https://www.youtube.com/@kanamenaito)
-- [Miku Real Japanese](https://www.youtube.com/channel/UCsQCbl3a9FtYvA55BxdzYiQ/)
-- [Organic Japanese with Cure Dolly](https://www.youtube.com/channel/UCkdmU8hGK4Fg3LghTVtKltQ)
-- [Sambon Juku](https://www.youtube.com/channel/UC0ujXryUUwILURRKt9Eh7Nw)
-- [Tae Kim](https://www.youtube.com/@taekimjapanese)
-- [ToKini Andy](https://www.youtube.com/@ToKiniAndy)
-- [Yudai Sensei](https://www.youtube.com/@yudaisensei2020)
-
-### Playlists
-- [Japanese from Scratch](https://www.youtube.com/watch?v=pSvH9vH60Ig&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) `by Cure Doly`
-- [Japanese From Zero! Books 1-5 VIDEOS](https://www.youtube.com/playlist?list=PLOcym2c7xnBwU12Flkm5RcLIEhvURQ8TB) `by Learn Japanese From Zero!`
-- [【JLPT N5】GENKI Grammar Made Clear](https://www.youtube.com/playlist?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2) `by ToKini Andy`
-- [【JLPT N4】GENKI 2 Grammar Made Clear](https://www.youtube.com/playlist?list=PLA_RcUI8km1P8bJzp3_TMMv1jhL3BcKQk) `by ToKini Andy`
-
-== Books
-
-### N5 / N4
-- [Genki Textbook Volume 1](https://www.amazon.com/Genki-Vol-1-Textbook-3e-ed/dp/4789017303) <Badge type="tip" text="Workbook" link="https://www.amazon.com/Genki-Vol-1-Workbook-3e-ed/dp/4789017311" />
-- [Genki Textbook Volume 2](https://www.amazon.com/Genki-Integrated-Elementary-Japanese-Multilingual/dp/478901732X) <Badge type="tip" text="Workbook" link="https://www.amazon.com/Genki-Integrated-Elementary-Japanese-Multilingual/dp/4789017338" />
-- [Genki Answer Key](https://www.amazon.com/GENKI-Integrated-Elementary-Japanese-E8-A7-A3-E7-AD-94-E3-80-90-E7-AC-AC3-E7-89-88-E3-80-91-dp-478/dp/4789017362)
-- [Tobira 1: Beginning Japanese](https://www.amazon.com/Tobira-Beginning-Japanese-Resources-Multilingual/dp/4874248705) <Badge type="tip" text="2" link="https://www.amazon.com/Tobira-II-Beginning-Japanese-Multilingual/dp/4874249000" />
-- [Nihongo Fun&Easy](https://www.amazon.com/NIHONGO-FUN-EASY-Conversation-Beginners/dp/4872177215)
-- [Minna No Nihongo 1](https://www.amazon.com/Minna-No-Nihongo-Beginner-2nd/dp/4883196038) <Badge type="tip" text="2" link="https://www.amazon.com/Minna-Nihongo-II-Main-Textbook/dp/4883196461" /> <Badge type="tip" text="Workbook" link="https://www.amazon.com/Nihongo-Shokyu-Workbook-Hyojun-Mondaishu/dp/4883196631/" />
-
-### N3
-- [Kanzen Master Grammar N3](https://www.amazon.com/Grammar-Japanese-Language-Proficiency-Complete/dp/4883196100)
-- [TRY! JLPT N3](https://www.amazon.com/Japanese-Language-Proficiency-Test-Revised/dp/4872179021)
-
-### N2
-- [Kanzen Master Grammar N2](https://www.amazon.com/Grammar-Japanese-Language-Proficiency-Nihongo/dp/4883195651)
-- [Try! JLPT N2](https://www.amazon.com/JAPANESE-LANGUAGE-PROFICIENCY-REVISED-JAPONAIS/dp/487217903X)
-- [Tobira: Gateway to Advanced Japanese](https://www.amazon.com/Tobira-Advanced-Japanese-Learning-Multimedia/dp/4874244475/)
-
-### N1
-- [Kanzen Master Grammar N1](https://www.amazon.com/Grammar-Japanese-Language-Proficiency-Nihongo/dp/4883195643)
-
-:::
-
-::: tip **Downloading books**
-You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanese Books**](https://freejapanesebooks.com/), [**Z-Library**](https://singlelogin.re/), [**PDF Drive**](https://www.pdfdrive.com/) & [**Nyaa**](https://nyaa.si/?c=3_3) to download books.
-:::
-
-## Kana
-
-:::tabs
-
-== Sites
-- [**TOFUGU**](https://www.tofugu.com/)
-  - [Hiragana](https://www.tofugu.com/japanese/learn-hiragana/) <Badge type="tip" text="PDF" link="https://www.tofugu.com/japanese/learn-hiragana-book-pdf/" />
-  - [Katakana](https://www.tofugu.com/japanese/learn-katakana/) <Badge type="tip" text="PDF" link="https://www.tofugu.com/japanese/learn-katakana-book-pdf/" />
-- [**Japanese-lesson.com**](http://japanese-lesson.com/)
-  - [Hiragana](http://japanese-lesson.com/characters/hiragana/hiragana_drill/index.html) <Badge type="tip" text="PDF" link="http://japanese-lesson.com/resources/pdf/characters/hiragana_chart.pdf" /><Badge type="tip" text="Practice" link="http://japanese-lesson.com/resources/pdf/characters/hiragana_writing_practice_sheets.pdf" />
-  - [Katakana](http://japanese-lesson.com/characters/katakana/katakana_drill/index.html) <Badge type="tip" text="PDF" link="http://japanese-lesson.com/resources/pdf/characters/katakana_chart.pdf" /><Badge type="tip" text="Practice" link="http://japanese-lesson.com/resources/pdf/characters/katakana_writing_practice_sheets.pdf" />
-
-== Videos
-- [Learn ALL hiragana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=6p9Il_j0zjc) `by JapanesePod101`
-- [Learn ALL katakana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=s6DKRgtVLGA) `by JapanesePod101`
-
-== Practice
-- [Kana Pro](https://kana.pro/)
-- [Real Kana](https://realkana.com/)
-:::
+- [Inhae's blog](https://notes.inhae.blog/learning-japanese/)
 
 
 ## Kanji / Vocabulary
 
 :::tabs
 
-== Learning Sites
+== Sites
 - [TOFUGU: The Best Kanji Learning Programs](https://www.tofugu.com/japanese/best-kanji-learning-programs/)
 - [Kanji by Sight](https://www.nihongoshark.com/post/kanji-by-sight)
 - [Kanji Damage](http://www.kanjidamage.com/)
+- [Marshall's Site](https://marshallyin.com/) <Badge type="warning" text="Freemium" /> <tooltip>Marshall's site contain almost everything. So to avoid dupe, it will be linked once.</tooltip>
 
 == Dictionary
 - [Wiktionary](https://wiktionary.org) <Badge type="tip" text="EN" link="https://en.wiktionary.org/" /><Badge type="tip" text="JP" link="https://ja.wiktionary.org/" />
@@ -195,6 +112,8 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 - [Kezi](https://kez.io/notes/japanese/accent) <Badge type="tip" text="Gist" link="https://gist.github.com/k3zi/3f38070efffa38db83cd5745d83b1235" />
 - [The Pitch Accent Journey](https://docs.google.com/document/d/1ReBf08JFK4n0PXdOxThAfWuiK9UWVZEWWzeKSECWTQo/edit)
 - [Resources for pitch accent](https://xythh.github.io/resources)
+- [Maggie Sensei's Conversation Guide](https://maggiesensei.com/)
+
 
 ### Youtube
 - [Japanese pitch-accent & pronunciation playlist](https://www.youtube.com/playlist?list=PLxMXdmBM9wPvsySiMoBzgh8d68xqKz1YP) `by Dogen`
@@ -220,6 +139,99 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 - [Massif](https://massif.la/ja)
 - [Similar word finder](https://hinoki-project.org/natsume/)
 
+:::
+
+
+
+## Grammar
+
+:::tabs
+
+== Sites
+
+- [A Dictionary of Japanese Grammar](https://core6000.neocities.org/dojg/)
+- [Tae Kim's Guide](https://guidetojapanese.org/learn/)
+- [Pomax's An introduction to Japanese](https://pomax.github.io/nrGrammar/)
+- [IMABI](https://imabi.org/)
+- [CURE DOLLY TEXTBOOK](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit) <Badge type="tip" text="original" link="https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit" />
+- [Visualizing Japanese Grammar](https://www2.gwu.edu/~eall/vjgnew/vjghomepage/vjghome.htm)
+- [Bunpro](https://bunpro.jp/) <Badge type="warning" text="Freemium" />
+
+== Youtube
+
+### Channels
+- [JapanesePod101](https://www.youtube.com/@JapanesePod101)
+- [Japanese with Yuka](https://www.youtube.com/@japanesewithyuka)
+- [Kaname Naito](https://www.youtube.com/@kanamenaito)
+- [Miku Real Japanese](https://www.youtube.com/channel/UCsQCbl3a9FtYvA55BxdzYiQ/)
+- [Organic Japanese with Cure Dolly](https://www.youtube.com/channel/UCkdmU8hGK4Fg3LghTVtKltQ)
+- [Sambon Juku](https://www.youtube.com/channel/UC0ujXryUUwILURRKt9Eh7Nw)
+- [Tae Kim](https://www.youtube.com/@taekimjapanese)
+- [ToKini Andy](https://www.youtube.com/@ToKiniAndy)
+- [Yudai Sensei](https://www.youtube.com/@yudaisensei2020)
+
+### Playlists
+- [Japanese from Scratch](https://www.youtube.com/watch?v=pSvH9vH60Ig&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) `by Cure Doly`
+- [Japanese From Zero! Books 1-5 VIDEOS](https://www.youtube.com/playlist?list=PLOcym2c7xnBwU12Flkm5RcLIEhvURQ8TB) `by Learn Japanese From Zero!`
+- [【JLPT N5】GENKI Grammar Made Clear](https://www.youtube.com/playlist?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2) `by ToKini Andy`
+- [【JLPT N4】GENKI 2 Grammar Made Clear](https://www.youtube.com/playlist?list=PLA_RcUI8km1P8bJzp3_TMMv1jhL3BcKQk) `by ToKini Andy`
+
+== Books
+
+### N5 / N4
+- [Genki Textbook Volume 1](https://www.amazon.com/Genki-Vol-1-Textbook-3e-ed/dp/4789017303) <Badge type="tip" text="Workbook" link="https://www.amazon.com/Genki-Vol-1-Workbook-3e-ed/dp/4789017311" />
+- [Genki Textbook Volume 2](https://www.amazon.com/Genki-Integrated-Elementary-Japanese-Multilingual/dp/478901732X) <Badge type="tip" text="Workbook" link="https://www.amazon.com/Genki-Integrated-Elementary-Japanese-Multilingual/dp/4789017338" />
+- [Genki Answer Key](https://www.amazon.com/GENKI-Integrated-Elementary-Japanese-E8-A7-A3-E7-AD-94-E3-80-90-E7-AC-AC3-E7-89-88-E3-80-91-dp-478/dp/4789017362)
+- [Tobira 1: Beginning Japanese](https://www.amazon.com/Tobira-Beginning-Japanese-Resources-Multilingual/dp/4874248705) <Badge type="tip" text="2" link="https://www.amazon.com/Tobira-II-Beginning-Japanese-Multilingual/dp/4874249000" />
+- [Nihongo Fun&Easy](https://www.amazon.com/NIHONGO-FUN-EASY-Conversation-Beginners/dp/4872177215)
+- [Minna No Nihongo 1](https://www.amazon.com/Minna-No-Nihongo-Beginner-2nd/dp/4883196038) <Badge type="tip" text="2" link="https://www.amazon.com/Minna-Nihongo-II-Main-Textbook/dp/4883196461" /> <Badge type="tip" text="Workbook" link="https://www.amazon.com/Nihongo-Shokyu-Workbook-Hyojun-Mondaishu/dp/4883196631/" />
+
+### N3
+- [Kanzen Master Grammar N3](https://www.amazon.com/Grammar-Japanese-Language-Proficiency-Complete/dp/4883196100)
+- [TRY! JLPT N3](https://www.amazon.com/Japanese-Language-Proficiency-Test-Revised/dp/4872179021)
+
+### N2
+- [Kanzen Master Grammar N2](https://www.amazon.com/Grammar-Japanese-Language-Proficiency-Nihongo/dp/4883195651)
+- [Try! JLPT N2](https://www.amazon.com/JAPANESE-LANGUAGE-PROFICIENCY-REVISED-JAPONAIS/dp/487217903X)
+- [Tobira: Gateway to Advanced Japanese](https://www.amazon.com/Tobira-Advanced-Japanese-Learning-Multimedia/dp/4874244475/)
+
+### N1
+- [Kanzen Master Grammar N1](https://www.amazon.com/Grammar-Japanese-Language-Proficiency-Nihongo/dp/4883195643)
+
+::: Practice
+
+### General
+- [Genki Study Resources](https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/)
+- [Tobira Study Resources](https://sethclydesdale.github.io/tobira-study-resources/)
+
+### Number
+- [Japanese Numbers](https://langpractice.com/japanese)
+
+:::
+
+::: tip **Downloading books**
+You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanese Books**](https://freejapanesebooks.com/), [**Z-Library**](https://singlelogin.re/), [**PDF Drive**](https://www.pdfdrive.com/) & [**Nyaa**](https://nyaa.si/?c=3_3) to download books.
+:::
+
+## Kana
+
+:::tabs
+
+== Sites
+- [**TOFUGU**](https://www.tofugu.com/)
+  - [Hiragana](https://www.tofugu.com/japanese/learn-hiragana/) <Badge type="tip" text="PDF" link="https://www.tofugu.com/japanese/learn-hiragana-book-pdf/" />
+  - [Katakana](https://www.tofugu.com/japanese/learn-katakana/) <Badge type="tip" text="PDF" link="https://www.tofugu.com/japanese/learn-katakana-book-pdf/" />
+- [**Japanese-lesson.com**](http://japanese-lesson.com/)
+  - [Hiragana](http://japanese-lesson.com/characters/hiragana/hiragana_drill/index.html) <Badge type="tip" text="PDF" link="http://japanese-lesson.com/resources/pdf/characters/hiragana_chart.pdf" /><Badge type="tip" text="Practice" link="http://japanese-lesson.com/resources/pdf/characters/hiragana_writing_practice_sheets.pdf" />
+  - [Katakana](http://japanese-lesson.com/characters/katakana/katakana_drill/index.html) <Badge type="tip" text="PDF" link="http://japanese-lesson.com/resources/pdf/characters/katakana_chart.pdf" /><Badge type="tip" text="Practice" link="http://japanese-lesson.com/resources/pdf/characters/katakana_writing_practice_sheets.pdf" />
+
+== Videos
+- [Learn ALL hiragana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=6p9Il_j0zjc) `by JapanesePod101`
+- [Learn ALL katakana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=s6DKRgtVLGA) `by JapanesePod101`
+
+== Practice
+- [Kana Pro](https://kana.pro/)
+- [Real Kana](https://realkana.com/)
 :::
 
 
@@ -326,6 +338,7 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 - [Learn Natively](https://learnnatively.com/)
 - [Perdition](https://perdition-japanese.github.io/posts/how-to-study-japanese/#step-1-h--immersion-optional)
 - [Acquiring Japanese Efficiently](https://docs.google.com/document/d/1LH82FjsCqCgp6-TFqUcS_EB15V7sx7O1VCjREp6Lexw/edit#heading=h.ct5zhbvvh3b8)
+- [Inhae's blog](https://notes.inhae.blog/)
 
 :::
 
