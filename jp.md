@@ -50,6 +50,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 == Practice
 - [Kana Pro](https://kana.pro/)
 - [Real Kana](https://realkana.com/)
+- Freerice <Badge type="tip" text="hiragana" link="https://play.freerice.com/categories/hiragana" /><Badge type="tip" text="katakana" link="https://play.freerice.com/categories/katakana" />
 :::
 
 
@@ -148,7 +149,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Verb Pitch Accent and Verbs' Conjugations](https://www.youtube.com/playlist?list=PLbEVYkEj81RzdzDWujEkfjJZrzsqV3Q8O) `by Seize Japanese`
 
 ### Practice
-- [Kotu](https://kotu.io/)
+- [Kotu](https://kotu.io/) `Needs Account`
 - [Migaku Pitch Trainer](https://pitch-demo.migaku.io/) <Badge type="warning" text="Freemium" />
 
 ### Others
@@ -183,6 +184,7 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 - [IMABI](https://imabi.org/)
 - [CURE DOLLY TEXTBOOK](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit) <Badge type="tip" text="original" link="https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit" />
 - [Visualizing Japanese Grammar](https://www2.gwu.edu/~eall/vjgnew/vjghomepage/vjghome.htm)
+- [DoJK](https://dojgdeck.neocities.org/)
 - [Bunpro](https://bunpro.jp/) <Badge type="warning" text="Freemium" />
 
 == Youtube
@@ -226,7 +228,7 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 ### N1
 - [Kanzen Master Grammar N1](https://www.amazon.com/Grammar-Japanese-Language-Proficiency-Nihongo/dp/4883195643)
 
-::: Practice
+== Practice
 
 ### General
 - [Genki Study Resources](https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/)
@@ -241,6 +243,22 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 ## Immersion
 
 :::tabs
+
+== Guide
+### General
+- **jpdb difficulty list** <Badge type="tip" text="Anime" link="https://jpdb.io/anime-difficulty-list" /><Badge type="tip" text="Live Action" link="https://jpdb.io/live-action-difficulty-list" /> <Badge type="tip" text="Novel" link="https://jpdb.io/novel-difficulty-list" /><Badge type="tip" text="Visual Novel" link="https://jpdb.io/visual-novel-difficulty-list" /><Badge type="tip" text="Web Novel" link="https://jpdb.io/web-novel-difficulty-list" /> 
+- [Learn Natively](https://learnnatively.com/)
+- [Perdition](https://perdition-japanese.github.io/posts/how-to-study-japanese/#step-1-h--immersion-optional)
+- [Acquiring Japanese Efficiently](https://docs.google.com/document/d/1LH82FjsCqCgp6-TFqUcS_EB15V7sx7O1VCjREp6Lexw/edit#heading=h.ct5zhbvvh3b8)
+- [Inhae's blog](https://notes.inhae.blog/)
+
+### VN
+- [List of starter Japanese Media](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub)
+- [VN-chart by difficulty](https://anacreondjt.gitlab.io/vn-chart/)
+- [r/Visualnovels](https://sites.google.com/view/rvisualnovels-recs/home)
+- [VNDB Ranking](https://vndb.org/v?f=022gja3gja&s=34w)
+- [r/VN's 2018](https://vnrecs.github.io/)
+- [What are you reading?](https://some-guy.org/vnswayrarchive/recommendations)
 
 == Anime
 - [Animelon](https://animelon.com/)
@@ -337,14 +355,6 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 
 :::
 
-::: tip **Immersion Guide**
-- [Learn Natively](https://learnnatively.com/)
-- [Perdition](https://perdition-japanese.github.io/posts/how-to-study-japanese/#step-1-h--immersion-optional)
-- [Acquiring Japanese Efficiently](https://docs.google.com/document/d/1LH82FjsCqCgp6-TFqUcS_EB15V7sx7O1VCjREp6Lexw/edit#heading=h.ct5zhbvvh3b8)
-- [Inhae's blog](https://notes.inhae.blog/)
-
-:::
-
 ## Software
 
 ### Anki
@@ -358,10 +368,13 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 - [AnkiMobile Flashcards](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) :ic-baseline-apple: <Badge type="warning" text="Paid"/>
 - [Ankiconnect Android](https://github.com/KamWithK/AnkiconnectAndroid) :mdi-android:
 - [FSRS4Anki](https://github.com/open-spaced-repetition/fsrs4anki) <Badge type="tip" icon="i-mdi-puzzle" text="Addon"/>
+- [Kotu](https://kotu.io/) :mdi-earth:<Badge type="tip" icon="i-mdi-puzzle" text="Addon"/>
 
 ### Guide
+- [Anki Manual](https://docs.ankiweb.net/)
 - [Tatsumoto](https://tatsumoto.neocities.org/blog/setting-up-anki) :glowing-star:
 - [vladsperspective](https://vladsperspective.wordpress.com/2020/07/15/using-anime-decks-subs2srs-mediafire-premade-decks/)
+- [Optimizing Anki For Language Learning](https://cademcniven.com/posts/20210410/)
 
 
 == Card templates
@@ -371,15 +384,22 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 - [JP Study tools](https://github.com/rudnam/JP-study)
 
 == Decks
-- [Anime decks (Sub2Srs)](https://links.gamesdrive.net/#/link/aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9mb2xkZXIvcDE3ZzV1azRwaGI0MS9Vc2VyX1VwbG9hZGVkX0Fua2lfRGVja3M)
+
+### Kanji
+- [KanjiDamage](https://ankiweb.net/shared/info/748570187) 
+- [Kanken Deck](https://ankiweb.net/shared/info/759825185) <Badge type="tip" text="2" link="https://ankiweb.net/shared/info/1113953752" /> `Advanced`
+- [Kodansha kanji learner's course with vocabulary](https://ankiweb.net/shared/info/779483253) 
+- [RRTK450 Anki deck](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9tZWdhLm56L2ZpbGUvMlNKaVdDNGIjaEw5OHF0Q19oaUxsUURnMExxVkpvcUQyLTV5d1QyTndkNGtqUk9ZX0t3UQ.ZHVjaw) `Beginner`
+- [Wanikani Ultimate 3](https://links.gamesdrive.net/#/link/aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2k5dnVzcmR6cjIwdjQzei9XYW5pa2FuaV9VbHRpbWF0ZV8zX19Ub2t5b19EcmlmdF8tXF8yMDIzLTA2LTI0LmFwa2cvZmlsZQ.ZHVjaw) <Badge type="tip" text="Support" link="https://discord.gg/cSEXEB5DgF" />
+
+### Vocab
 - [Anime decks (Official AnkiWeb)](https://ankiweb.net/shared/decks?search=anime)
-- [Core 2k/6k Optimized Japanese Vocabulary Anki](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vZG9jdW1lbnQvZC8xenl5dWlXa2l6MklGMkNDUk9lSmVibDhtZ1JkSEJxTmZTNUQ3TUZqRFR6RS9lZGl0.ZHVjaw) 
+- [Anime decks (Sub2Srs)](https://links.gamesdrive.net/#/link/aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9mb2xkZXIvcDE3ZzV1azRwaGI0MS9Vc2VyX1VwbG9hZGVkX0Fua2lfRGVja3M)
+- [Core 2k/6k Optimized Japanese Vocabulary Anki](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) 
 - [DoJG Deck](https://dojgdeck.neocities.org/) 
 - [Japanese course based on Tae Kim's grammar guide & anime](https://ankiweb.net/shared/info/911122782) 
-- [KanjiDamage](https://ankiweb.net/shared/info/748570187) 
-- [Kanken Deck](https://ankiweb.net/shared/info/759825185) <Badge type="tip" text="2" link="https://ankiweb.net/shared/info/1113953752" />
-- [Kodansha kanji learner's course with vocabulary](https://ankiweb.net/shared/info/779483253) 
-- [Wanikani Ultimate 3](https://links.gamesdrive.net/#/link/aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2k5dnVzcmR6cjIwdjQzei9XYW5pa2FuaV9VbHRpbWF0ZV8zX19Ub2t5b19EcmlmdF8tXF8yMDIzLTA2LTI0LmFwa2cvZmlsZQ.ZHVjaw) <Badge type="tip" text="Support" link="https://discord.gg/cSEXEB5DgF" />
+- [Tango N5 omega deck](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9tZWdhLm56L2ZpbGUvdUh4V2pUYUMjWDJoQkFZZ19jTHR0UW1VdkpRV21sazhRYm5RdElJb1hIN3hVNUR1REZlVQ.ZHVjaw) `Beginner`
+
 :::
 
 ### Phone
@@ -390,20 +410,20 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 - [Akebi Japanese Dictionary](https://play.google.com/store/apps/details?id=com.craxic.akebifree) :mdi-android:
 - [Aedict3 Japanese Dictionary](https://play.google.com/store/apps/details?id=sk.baka.aedict3) :mdi-android:
 - [Japanese Dictionary Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto) :mdi-android:
-- [Nani?](https://f-droid.org/en/packages/eu.lepiller.nani/)
-- [Sumatora Japanese Dictionary](https://play.google.com/store/apps/details?id=org.happypeng.sumatora.android.sumatoradictionary)
+- [Nani?](https://f-droid.org/en/packages/eu.lepiller.nani/) :mdi-android:
+- [Sumatora Japanese Dictionary](https://play.google.com/store/apps/details?id=org.happypeng.sumatora.android.sumatoradictionary) :mdi-android:
 - [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380) :ic-baseline-apple:
 
 == Learning
 - [jidoujisho](https://github.com/lrorpilla/jidoujisho) :glowing-star: :mdi-android:
-- [Kakugo](https://play.google.com/store/apps/details?id=org.kaqui)
+- [Kakugo](https://play.google.com/store/apps/details?id=org.kaqui) :mdi-android:
 - [Japanese Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy) :mdi-android:
 - [Kata](https://play.google.com/store/apps/details?id=im.dacer.kata) :mdi-android:
 - [Learn Japanese! - Kanji](https://apps.apple.com/us/app/learn-japanese-kanji/id1078107994) :ic-baseline-apple:
 - [Kana - Hiragana and Katakana](https://apps.apple.com/us/app/kana-hiragana-and-katakana/id1454200955) :ic-baseline-apple:
 - [Kanji Garden](https://kanji.garden/) <Badge type="tip" icon="i-mdi-android" text="Android" link="https://play.google.com/store/apps/details?id=is.ky.kanjigarden&hl=en&gl=US" /><Badge type="tip" icon="i-ic-baseline-apple" text="Apple" link="https://apps.apple.com/us/app/kanji-garden-japanese/id1338967114" />
 - [Real Kana](https://apps.apple.com/us/app/real-kana/id343807473) :ic-baseline-apple:
-- [Vocal Pitch Monitor](https://play.google.com/store/apps/details?id=com.tadaoyamaoka.vocalpitchmonitor)
+- [Vocal Pitch Monitor](https://play.google.com/store/apps/details?id=com.tadaoyamaoka.vocalpitchmonitor) :mdi-android:
 
 == Reader
 - [Easy Japanese](https://easyjapanese.net/) <Badge type="tip" icon="i-mdi-android" text="Android" link="https://play.google.com/store/apps/details?id=mobi.eup.jpnews&hl=en&gl=US" /><Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/easy-japanese-news-%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/id1107177166" />
@@ -411,7 +431,7 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 - [Manabi Reader](https://reader.manabi.io/) :ic-baseline-apple:
 - [Satori Reader](https://www.satorireader.com/) <Badge type="tip" icon="i-mdi-android" text="Android" link="https://play.google.com/store/apps/details?id=com.braksoftware.SatoriReader&hl=en&gl=US" /><Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/satori-reader/id1382950847" />
 - Write It! Japanese <Badge type="tip" icon="i-mdi-android" text="Android" link="https://play.google.com/store/apps/details?id=com.jernung.writeit.jpn&hl=en&gl=US" /><Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/write-it-japanese/id1268225663" />
-- [Typhon Reader](https://play.google.com/store/apps/details?id=net.zorgblub.typhon)
+- [Typhon Reader](https://play.google.com/store/apps/details?id=net.zorgblub.typhon) :mdi-android:
 :::
 
 ### PC
@@ -437,16 +457,17 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 
 == Browser
 
-- [Yomitan](https://github.com/themoeway/yomitan) <Badge type="tip" text="Guide" link="https://learnjapanese.moe/yomichan/" />
+- [Yomitan](https://github.com/themoeway/yomitan) :mdi-firefox::mingcute-chrome-fill: <Badge type="tip" text="Guide" link="https://learnjapanese.moe/yomichan/" />
     - [Yomitan Dictionaries](https://github.com/MarvNC/yomichan-dictionaries/)
     - [Yomitan Grammar Dictionaries](https://github.com/aiko-tanaka/Grammar-Dictionaries)
-- [Rikitan](https://github.com/Ajatt-Tools/rikaitan) <Badge type="tip" text="Guide" link="https://tatsumoto.neocities.org/blog/setting-up-yomichan" /><Badge type="tip" text="Dictionary" link="https://tatsumoto.neocities.org/blog/yomichan-and-epwing-dictionaries" />
-- [10ten Japanese Reader](https://github.com/birchill/10ten-ja-reader)
-- [Japanese.io](https://www.japanese.io/)
-- [jimaku player](https://github.com/sheodox/jimaku-player)
-- [Language Reactor](https://www.languagereactor.com/)
-- [mirigana](https://github.com/mirigana/mirigana)
-- [JPDB Web Reader](https://github.com/max-kamps/jpd-breader)
+- [Rikitan](https://github.com/Ajatt-Tools/rikaitan) :mdi-firefox::mingcute-chrome-fill: <Badge type="tip" text="Guide" link="https://tatsumoto.neocities.org/blog/setting-up-yomichan" /><Badge type="tip" text="Dictionary" link="https://tatsumoto.neocities.org/blog/yomichan-and-epwing-dictionaries" />
+- [10ten Japanese Reader](https://github.com/birchill/10ten-ja-reader) :mdi-firefox::mingcute-chrome-fill::mingcute-safari-fill:
+- [Japanese.io](https://www.japanese.io/) :mingcute-chrome-fill:
+- [jimaku player](https://github.com/sheodox/jimaku-player) :mdi-language-javascript:
+- [Language Reactor](https://www.languagereactor.com/) :mingcute-chrome-fill:
+- [mirigana](https://github.com/mirigana/mirigana) :mdi-firefox::mingcute-chrome-fill:
+- [JPDB Web Reader](https://github.com/max-kamps/jpd-breader) :mdi-firefox::mingcute-chrome-fill:
+- [Rikaikun](https://github.com/melink14/rikaikun) :mingcute-chrome-fill:
 
 == Translator / OCR
 
@@ -463,18 +484,31 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 :::danger MTL won't be perfect
 Using Machine Translation to translate manga will be a mess. Manga has lots of slang, cultural references, and visual elements that MTL won't understand. So, it's better to have a human translator who knows the language and culture well. So don't expect it to be perfect.
 
-== Others
+== Tools
 
+### Word Lookup
 - [GoldenDict-NG](https://xiaoyifang.github.io/goldendict-ng/)  <Badge type="tip" text="Guide" link="https://tatsumoto.neocities.org/blog/setting-up-goldendict" /><Badge type="tip" text="Tools" link="https://github.com/Ajatt-Tools/gd-tools" />
 - [Kamite](https://github.com/fauu/Kamite)
 - [JL](https://github.com/rampaa/JL)
+
+### Subtitle
 - [Subtitle Edit](https://www.nikse.dk/subtitleedit)
 - [subs2srs](https://subs2srs.sourceforge.net/)
 - [FFsubsync](https://github.com/smacke/ffsubsync)
+- [Subtitle Character Counter](https://cademcniven.com/subtitleCharacterCounter.html)
 - [subs2cia](https://github.com/dxing97/subs2cia)
+
+### Audio tools
 - [Automatic Condensed Audio Dialogue Script](https://anacreondjt.gitlab.io/docs/condensed_audio/)
+- [Tenacity](https://tenacityaudio.org/)
+
+### VN
 - [EXSTATIC](https://github.com/KamWithK/exSTATic)
-- [Textractor](https://github.com/Artikash/Textractor)
+- [Textractor](https://github.com/Artikash/Textractor) <Badge type="tip" text="Guide" link="https://xelieu.github.io/jp-lazy-guide/setupVnOnPC/" />
+- [Textractor websocket](https://github.com/kuroahna/textractor_websocket)
+
+### Others
+- [Supermemo](https://super-memory.com/) <Badge type="warning" text="Trialware"/><Badge type="tip" text="Wiki" link="https://www.supermemo.wiki/en/home" />
 :::
 
 
