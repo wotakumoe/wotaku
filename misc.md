@@ -97,6 +97,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Bookmeter](https://bookmeter.com/) :flag-japan:
 - [Bunko Light Novel Ranking](http://bunkoranoberanking.blog.fc2.com/)
 - [Ezrat](https://erzat.blog/)
+- [Josu Ke](https://twitter.com/Josu_ke) :mdi-twitter:
 - [:ic-outline-discord: Manga Groups Portal](https://discord.gg/9KGMzP2)
 - [r/LightNovels reading order](https://www.reddit.com/r/LightNovels/wiki/reading_order)
 - [Shoseki Ranking](http://shosekiranking.blog.fc2.com/)
@@ -224,7 +225,6 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == Manga & LN
 
 - [Ezrat](https://twitter.com/Erzat110) :mdi-twitter:
-- [Josu Ke](https://twitter.com/Josu_ke) :mdi-twitter:
 - [Manga Alerts](https://twitter.com/MangaAlerts) :mdi-twitter:
 - [Manga Bookshelf](https://mangabookshelf.com/) :mdi-twitter:
 - [Manga Mogura RE](https://twitter.com/MangaMoguraRE) :glowing-star: :mdi-twitter: <Badge type="danger" icon="i-mdi-twitter" text="Ecchi" link="https://twitter.com/EcchiMogura" />
