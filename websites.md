@@ -252,7 +252,7 @@ I have tried to add all the well-known scanlators for manhwa and manhua, but for
 - [Void Scans](https://void-scans.com/) + :flag-china: <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/10nt2ki/infernal-void-scans" />
 - [Zero Scans](https://zeroscans.com/) + :flag-china:  <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/dd0a3018-21f1-4488-948c-08499b179fcf/zero-scans" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/vlkvmk7/zero-scans-discord" />
 
-== manhua
+== Manhua
 
 - [Ansh Scans](https://anshscans.org/)  <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/43a13d2b-21d5-4453-ad78-cba547b7e879/ansh-scans" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/tmszmfv/ansh-scans" />
 - [Disaster Scans](https://disasterscans.com/)
