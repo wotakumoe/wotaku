@@ -117,6 +117,57 @@
   font-weight: 600;
 }
 
+.VPNavBarTitle .title:after {
+  content: "";
+  margin-left: 2px;
+  margin-top: -6px;
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  image-rendering: pixelated;
+  background-image: url("/asset/oneko.gif");
+  animation: sleep 1s infinite;
+  cursor: pointer;
+}
+
+.VPNavBarTitle .title:hover:after {
+  animation: wakeup 2.5s 1 forwards;
+}
+
+@keyframes sleep {
+  0%,
+  50% {
+      background-position: -64px 0;
+  }
+  50.00001%,
+  100% {
+      background-position: -64px -32px;
+  }
+}
+
+@keyframes wakeup {
+  0%,
+  20% {
+      background-position: -160px 0;
+  }
+  20.00001%,
+  40% {
+      background-position: -192px 0;
+  }
+  40.00001%,
+  60% {
+      background-position: -224px 0;
+  }
+  60.00001%,
+  80% {
+      background-position: -96px -64px;
+  }
+  80.00001%,
+  100% {
+      background-position: -96px -96px;
+  }
+}
+
 .medium-zoom-overlay {
   background-color: var(--vp-c-bg) !important;
   z-index: 100;
