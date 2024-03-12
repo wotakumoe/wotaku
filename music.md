@@ -218,6 +218,7 @@ Everything Music Related in One Page!
 == Discovery
 
 ### General
+- [Every Noise at Once](https://everynoise.com/) :glowing-star:
 - [Rate Your Music](https://rateyourmusic.com/) :glowing-star:
 - [Chosic](https://www.chosic.com/) :glowing-star:
 - [Discover Quickly](https://discoverquickly.com/)
