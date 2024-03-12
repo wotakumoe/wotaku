@@ -159,6 +159,8 @@ Everything Music Related in One Page!
 - [Songle](https://songle.jp/) <Badge text="Vocaloid"/>
 - [Soundiiz](https://soundiiz.com/) <Badge text="Trasnfer"/>
 - [TuneMyMusic](https://www.tunemymusic.com/) <Badge text="Trasnfer"/>
+- [YADG](https://yadg.cc/) <Badge text="Tracklist"/>
+
 
 == Spotify
 - [Album Availability on Spotify](https://kaaes.github.io/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/kaaes/albums-availability" />
@@ -239,9 +241,14 @@ Everything Music Related in One Page!
 
 == Portal
 
+### Release
+- [Japanese Music Calendar](https://docs.google.com/spreadsheets/d/1VcrXXQKn_wuwtiExqZK9Ahj2R4jqwDIgL4O7xPBKAIs/edit#gid=928410087)
+- [ORICON](https://www.oricon.co.jp/release/album/)
+
 ### General
-- [JaME](https://www.jame-world.com/en/) :glowing-star:
 - [Billboard JAPAN](https://www.billboard-japan.com/d_news/jpn/) :flag-japan:
+- [JaME](https://www.jame-world.com/en/) :glowing-star:
+- [Natalie](https://natalie.mu/music/news/)
 - [Uta-Net](https://www.uta-net.com/) :flag-japan:
 - [UtaTen](https://utaten.com/) :flag-japan:
 - [Make Believe Mailer](https://mbmelodies.substack.com/) :glowing-star:
@@ -368,6 +375,27 @@ Everything Music Related in One Page!
   - [XLD Guide](https://docs.google.com/document/d/1JPErA-6_2yN-WMVcFGNdIurwFS5cpqNC8GtKrOorDf8/edit)
 - [Music Hoarders Wiki](https://musichoarders.xyz/)
 
+== Vocaloid
+
+### Editors
+- [Vocaloid](https://www.vocaloid.com/en/)
+- [Synthesizer V](https://dreamtonics.com/synthesizerv/) <Badge text="Nyaa" link="https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTE3NTQ1Mg.RHVjaw" />
+- [Piapro Studio](https://piaprostudio.com/?lang=en)
+- [CeVIO](https://cevio.jp/)
+
+### DAW / Digital Audio Workstation
+- [Ableton](https://www.ableton.com/en/)
+- [Cubase](https://www.steinberg.net/cubase/)
+- [FL Studio](https://www.image-line.com/fl-studio/)
+- [Studio One](https://www.presonus.com/en-US/studio-one.html)
+
+### Related Links
+- [EL RINCÓN DEL KITSUNE NEO](https://elrincondelkitsuneneo2-0.blogspot.com/)
+- [VOCALOID Voicebanks (v1 to v5)](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTE3MTc5OQ.RHVjaw)
+- [CeVIO Voice Database Installer Archive](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vc3ByZWFkc2hlZXRzL2QvMWJsUGRuN1V1Tk5TVWJUczNGUnRCVjVtZERVQ2Y3MjhOSkM3eVpoT2FlLU0vZWRpdCNnaWQ9MA.ZHVjaw)
+- [RuTracker.org](https://rutracker.org/forum/index.php)
+- [r/VocaTorrent](https://www.reddit.com/r/VocaTorrent/)
+
 == Others
 ### Checker / Visualizer
 - [Bitter](https://www.stillwellaudio.com/plugins/bitter/) :ic-baseline-window::ic-baseline-apple:
@@ -379,10 +407,6 @@ Everything Music Related in One Page!
 - [MP3Tag](https://www.mp3tag.de/en/) :ic-baseline-window::ic-baseline-apple:
 - [MusicBrainz Picard](https://picard.musicbrainz.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [beets](https://beets.io/) <Badge type="tip" link="https://beets.readthedocs.io/en/stable/index.html#" />
-
-### Vocaloid
-- [Vocaloid](https://www.vocaloid.com/en/) <Badge text="Nyaa" link="https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTE3MTc5OQ.RHVjaw" />
-- [Synthesizer V](https://dreamtonics.com/synthesizerv/) <Badge text="Nyaa" link="https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTE3NTQ1Mg.RHVjaw" />
 
 ### Misc
 - [Karaoke Mugen](https://mugen.karaokes.moe/en/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
