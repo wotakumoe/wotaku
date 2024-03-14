@@ -125,7 +125,7 @@ On the other hand, aggregators like [**Aniwave**](https://aniwave.to/home), [**K
 [**mpv**](https://mpv.io/) kinda covers everything for pc. We have listed everything you need for mpv in the [**video section**](/addons.md#tools).
 
 ### Android
-For android, there is also [mpv-android](https://github.com/mpv-android/mpv-android) but the UI is too limited. You can use [**Aniyomi**](https://github.com/aniyomiorg/aniyomi)'s local option to watch anime. The UI is optimized with good amount of options.
+For android, there is also [mpv-android](https://github.com/mpv-android/mpv-android) but the UI is too limited. You can use [**Aniyomi**](https://github.com/aniyomiorg/aniyomi)'s local option to watch anime. The UI is optimized with a good amount of options.
 :::
 
 
@@ -145,7 +145,7 @@ You can't get crunchyroll account for free but you can access their library for 
 :::details What's the best source for anime songs / OST?
 - [**Nyaa**](https://nyaa.si/) generally has a good amount of them. They upload both Digital-Rip & CD-Rip. 
 - [**Sitting on Clouds**](https://www.sittingonclouds.net/), [SquidBoard](https://www.squid-board.org/) & [**Sukidesu OST**](https://sukidesuost.info/) upload ripped music from hi-res sources.
-- Anime songs are uploaded on legal music streaming services. You can rip from these services using [:ic-outline-discord:**yet another music server**](https://discord.gg/JHCTtMVK), [**DoubleDouble**](https://doubledouble.top/) & [**Free MP3 Download**](https://free-mp3-download.net/),  which can rip multiple hi-res sources.
+- Anime songs are uploaded on legal music streaming services. You can rip from these services using [:ic-outline-discord:**yet another music server**](https://discord.gg/JHCTtMVK) & [**DoubleDouble**](https://doubledouble.top/),  which can rip multiple hi-res sources.
 - You can also check out [**Nicotine+**](https://nicotine-plus.org/), a [**Soulseek**](https://www.slsknet.org/) client. People share their downloaded/own rips here. It uses P2P to transfer files, so a VPN is recommended.
 - You can find more sources [**here**](/websites.md#music). If you want more ripping tools, you can check out more ripping tools in [others section](/addons.md#downloader).
 :::
