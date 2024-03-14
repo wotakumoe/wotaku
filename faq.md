@@ -64,7 +64,11 @@ Usenet is a subscription-based service. You can download files using `.nzb` file
 :::
 
 :::details What's the best website to read manga?
-Personal preference. Good online manga reading sites generally reupload nyaa releases (when it's available replacing/alongside the fantranslated one), but with added compression (e.g. [**Comick**](https://comick.io/home), [**Mangasee**](https://mangasee123.com/), [**MangaFire**](https://mangafire.to/home), [**Batoto**](https://battwo.com/v3x), [**Mangapark**](https://mangapark.net/)) & watermark on (almost) every page (mangafire🙂). On the other hand, generic ones only keep the fan-translated ones. You can read a short description about the sites [**here**](/websites.md#manga).
+Personal preference. Good online manga reading sites generally reupload nyaa releases (when it's available replacing/alongside the fantranslated one), but with added compression (e.g. [**Comick**](https://comick.io/home), [**Mangasee**](https://mangasee123.com/), [**MangaFire**](https://mangafire.to/home), [**Batoto**](https://battwo.com/v3x), [**Mangapark**](https://mangapark.net/)) & watermark on (almost) every page (mangafire :slightly-smiling-face: ). On the other hand, generic ones only keep the fan-translated ones. You can read a short description about the sites [**here**](/websites.md#manga).
+:::
+
+:::details When will the new volume of "X" get ripped?
+Rippers upload what they like, without following any specific schedule (even in the case of chapter uploaders). Generally speaking there's a good chance, but no guarantee, of seeing an upload after a new volume is officially released. A series can also be uploaded by multiple rippers (with no or very little differences due to image processing or the source of the file).
 :::
 
 :::details What's the best reader for manga?
