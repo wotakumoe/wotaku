@@ -168,6 +168,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Gelbooru](https://gelbooru.com/)
 - [Konachan](https://konachan.com/)
 - [Safebooru](https://safebooru.org/) <Badge type="green" text="SFW" />
+- [TBIB](https://tbib.org/)
 - [Yandere](https://yande.re/)
 - [Zerochan](https://www.zerochan.net/) <Badge type="green" text="SFW" />
 
@@ -184,10 +185,11 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 == Others
 
 - [Anime Pictures](https://anime-pictures.net/) <Badge type="green" text="SFW" />
-- [wanderer.moe](https://wanderer.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/wanderer-moe/site" />
+- [Hentai Game CG](https://hentaigamecg.com/)
 - [Kemono](https://kemono.su/)
 - [Studio Ghibli](https://www.ghibli.jp/info/013772/) <Badge type="green" text="SFW" />
 - [Wallhaven](https://wallhaven.cc/)
+- [wanderer.moe](https://wanderer.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/wanderer-moe/site" />
 - [🍀/w/](http://catalog.neet.tv/w/) <Badge type="danger" icon="i-fxemoji-skull" text="NSFL" />
 
 :::
