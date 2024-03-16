@@ -304,7 +304,6 @@ I have tried to add all the well-known scanlators for manhwa and manhua, but for
 - [Novel Onedrive Index](https://novel-indx.vercel.app/)
 - [Just Light Novels](https://www.justlightnovels.com/)
 - [That Novel Corner](https://thatnovelcorner.com/)
-- [All EPUBs](https://boroboro.neocities.org/listfullepub) :flag-japan:
 
 == Nyaa
 

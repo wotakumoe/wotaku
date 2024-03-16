@@ -275,8 +275,9 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 
 
 ### Subs
-- [Kitsunekko](https://kitsunekko.net/) :glowing-star: <Badge type="tip" text="backup" link="https://learnjapanese.moe/kitsubackup.html#/ja" />
+- [Kitsunekko](https://kitsunekko.net/) :glowing-star: <Badge type="tip" text="2" link="https://learnjapanese.moe/kitsubackup.html#/ja" /><Badge type="tip" text="3" link="https://jimaku.cc/" />
 - [itazuraneko](https://djtguide.github.io/library/sub)
+- [Xavier's Retimed JP Sub Pack](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTA0NDM1NA.ZHVjaw)
 - [JP Subtitles](https://github.com/Matchoo95/JP-Subtitles)
 
 == TV
@@ -290,13 +291,11 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 - [NHK Learn Japanese](https://www3.nhk.or.jp/nhkworld/en/ondemand/category/28/)
 - [NHK Easy Japanese](https://www.nhk.or.jp/lesson/)
 
-== Reading
+== Easy Reading
 
-- [Aozora Bunko](https://www.aozora.gr.jp/) <Badge type="warning" text="Difficult" />
 - [NHK News Web Easy](https://www3.nhk.or.jp/news/easy/)
 - [Easy Japanese](https://easyjapanese.net/)
 - [e-douwa](https://www.e-douwa.com/)
-- [Japanese Learner’s Anthology](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTM1MDUyMw.ZHVjaw)  <Badge type="tip" text="v2" link="https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTU0ODk0Mw.ZHVjaw" />
 - [Satori Reader](https://www.satorireader.com/)
 - [Watanoc](https://watanoc.com/)
 - [Yomujp](https://yomujp.com/)
@@ -325,6 +324,17 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 - [Manga Zone](http://www.manga-zone.org/) <Badge type="info" text="Novel" />
 - [Raw Cans](http://raw-cans.net/) <Badge type="danger" text="18+" /><Badge type="info" text="Magazine" />
 
+== Novel
+
+- [All EPUBs](https://boroboro.neocities.org/listfullepub)
+- [Aozora Bunko](https://www.aozora.gr.jp/)
+- [itazuraneko](https://yonde.itazuraneko.org/)
+- [Japanese Learner’s Anthology](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTM1MDUyMw.ZHVjaw)  <Badge type="tip" text="v2" link="https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTU0ODk0Mw.ZHVjaw" />
+- [Kakuyomu](https://kakuyomu.jp/) `WN`
+- [Nyaa](https://nyaa.si/?f=0&c=3_3&q=) :glowing-star:
+- [Syosetu](https://syosetu.com/) `WN`
+
+<Button icon="i-fxemoji-lightbulb">More in manga direct download tab</Button>
 
 == Audio
 ### Audiobook
