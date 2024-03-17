@@ -13,7 +13,7 @@ The basic things to get you started.
 == Anime
 
 - [Aniwave](https://aniwave.to/home) <Badge type="info" text="Lite" link="https://lite.aniwave.to/home" /><Badge type="info" text="Alt" link="https://anix.to/home" /><Badge type="info" text="Proxies" link="https://aniwave.tv/" />
-- [KickAssAnime](https://kickassanime.am/) <tooltip>Use duckstream if available because it scrapes crunchyroll. If that's not available use Vidstream.</tooltip>
+- [KickAssAnime](https://kickassanime.am/)
 - [Tokyo Insider](https://www.tokyoinsider.com/) <Badge text="DDL" />
 
 == Manga

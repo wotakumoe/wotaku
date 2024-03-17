@@ -117,7 +117,7 @@ The quality of the anime file depends on the [**source**](/glossary/anime#source
 
 <br>
 
-On the other hand, aggregators like [**Aniwave**](https://aniwave.to/home), [**KickAssAnime**](https://kickassanime.am/) & [**HiAnime**](https://hianime.to/home) re-encode them further. They sacrifice some of the quality in favor of smaller file sizes, thereby maintaining a smoother user experience on their sites. [**KickAssAnime**](https://kickassanime.am/) has a player (duckstream) that streams using Crunchyroll API, so you can get full WebDL quality from there.
+On the other hand, aggregators like [**Aniwave**](https://aniwave.to/home), [**KickAssAnime**](https://kickassanime.am/) & [**HiAnime**](https://hianime.to/home) re-encode them further. They sacrifice some of the quality in favor of smaller file sizes, thereby maintaining a smoother user experience on their sites.
 
 <br>
 
@@ -130,18 +130,6 @@ On the other hand, aggregators like [**Aniwave**](https://aniwave.to/home), [**K
 
 ### Android
 For android, there is also [mpv-android](https://github.com/mpv-android/mpv-android) but the UI is too limited. You can use [**Aniyomi**](https://github.com/aniyomiorg/aniyomi)'s local option to watch anime. The UI is optimized with a good amount of options.
-:::
-
-
-:::details Can I get Crunchyroll for free?
-You can't get crunchyroll account for free but you can access their library for free using these methods
-- [**Aniyomi**](https://aniyomi.org/): Yomiroll extension.
-- [**Cloudstream 3**](https://cloudstream.on.fleek.co/): Anichi, Yomiroll (through Aniyomi Repo), Kronch
-- [**KickAssAnime**](https://www1.kickassanime.mx/): Duckstream Server
-- [**Kaguya**](https://kaguya.app/en/anime): Crunchyroll server
-- [**Kaguya App**](https://github.com/hoangvu12/kaguya-app): Crunchyroll server
-
-[**Subsplease**](https://subsplease.org/) & [**Erai-raws**](https://nyaa.si/user/Erai-raws) upload Crunchyroll rips.
 :::
 
 ## Music

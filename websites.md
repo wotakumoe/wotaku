@@ -19,8 +19,7 @@ Online resources for anime, manga, novels and more.
   - Less amount of compression compared to other sites that use 3rd party hosts
   - Has both hardsub and softsub (multilingual)
 - [**KickAssAnime**](https://kickassanime.am/) :glowing-star: <Badge type="info" text="Proxies" link="https://kickassanimes.info/" /> 
-  - Scrapes **Crunchyroll**(duckstream) and **Bilibili**(birdstream)
-  - KAA encodes(videstreaming) are quite good(the new encodes) and loads better.
+  - KAA encodes(videstreaming) are decent (the new encodes) and loads better.
   - Duck has the highest overall bitrate but may have buffer issue.
   - Has both hardsub(duck) & softsub(rest)
   - Has missing titles. But, you can request them in their support server
@@ -93,13 +92,11 @@ Online resources for anime, manga, novels and more.
 
 - [**Kaguya**](https://kaguya.app)
   - Scraping based website
-  - Has a good amount of sources (Crunchyroll, Aniwave, Kickassanime etc.)
+  - Has a good amount of sources (Aniwave, Kickassanime etc.)
   - Scrapes manga sites too (Mangadex, Katana, Batoto etc.)
   - Only chromium browsers are supported & needs browser extension to work
-  - Crunchyroll may display incorrect shows that, in some cases, cannot be fixed due to limitations
 - [**Animeflix**](https://animeflix.live/) <Badge type="info" text="Proxies" link="https://animeflix.domains/" />
   - The main sources are scraper based (Gogo & Zoro)
-  - Crunchyroll is available for some of the titles
   - Uploads own encodes too with decent quality but not available for every title
 
 == Series Specific
