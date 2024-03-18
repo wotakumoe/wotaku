@@ -292,6 +292,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [WaifuXL](https://waifuxl.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/TheFutureGadgetsLab/WaifuXL" />
 
 ### Others
+- [Ermitteln](https://ermitteln.ihateani.me/)
 - [Imgtrans](https://touhou.ai/imgtrans/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/zyddnys/manga-image-translator" />
 
 == Stats
