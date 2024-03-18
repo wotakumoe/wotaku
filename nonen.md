@@ -225,7 +225,6 @@ Otaku resources for other languages/regions.
 - [Aniflix](https://aniflix.cc/)
 - [Anime Loads](https://www.anime-loads.org/) <Badge type="info" text="Stream" /><Badge type="info" text="DDL" />
 - [Animes](https://www.animes.so/) <Badge type="info" text="DDL" />
-- [AnimeWorld](https://animeworld.cx/) <Badge type="info" text="Torrent" />
 
 == Manga
 

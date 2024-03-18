@@ -14,23 +14,30 @@ Online resources for anime, manga, novels and more.
 
 == Stream
 
-- [**Aniwave**](https://aniwave.to/home) <Badge type="info" text="Lite" link="https://lite.aniwave.to/home" /><Badge type="info" text="Alt" link="https://anix.to/home" /><Badge type="info" text="Proxies" link="https://aniwave.live/" /><Badge type="info" text="Alt Proxies" link="https://anix.me/" />
-  - Huge library with Watch Together feature
-  - Less amount of compression compared to other sites that use 3rd party hosts
-  - Has both hardsub and softsub (multilingual)
-- [**KickAssAnime**](https://kickassanime.am/) :glowing-star: <Badge type="info" text="Proxies" link="https://kickassanimes.info/" /> 
-  - KAA encodes(videstreaming) are decent (the new encodes) and loads better.
-  - Duck has the highest overall bitrate but may have buffer issue.
-  - Has both hardsub(duck) & softsub(rest)
-  - Has missing titles. But, you can request them in their support server
-- [**HiAnime**](https://hianime.to/home)
-  - Huge library with Watch Together feature
-  - Re-encodes shows for smaller size with lower overall bitrate.
-  - Softsubs may create issues in different scenarios, but can be beneficial for multi-language support
-- [**Animepahe**](https://animepahe.ru/) <Badge type="tip" text="2" link="https://animepahe.com/" /><Badge type="tip" text="3" link="https://animepahe.org" />
-  - Uploads mini encoded files, useful if you want smaller files or have low bandwidth
-  - Uploads **Blu-ray** and **DVD** versions if available
-  - Has a good amount of missing titles
+- [Aniwave](https://aniwave.to/home) <Badge type="info" text="Lite" link="https://lite.aniwave.to/home" /><Badge type="info" text="Alt" link="https://anix.to/home" /><Badge type="info" text="Proxies" link="https://aniwave.live/" /><Badge type="info" text="Alt Proxies" link="https://anix.me/" /> <tooltip><ul><li>Huge library with Watch Together feature</li><li>Less amount of compression compared to other sites that use 3rd party hosts</li><li>Has both hardsub and softsub (multilingual)</li></ul></tooltip>
+- [KickAssAnime](https://kickassanime.am/) <Badge type="info" text="Proxies" link="https://kickassanimes.info/" /> <tooltip><ul><li>KAA encodes (videstreaming) are decent (the new encodes) and loads better.</li><li>Birdstream player scrapes Bilibili.</li><li>Has missing titles. But, you can request them in their support server.</li></ul></tooltip>
+- [HiAnime](https://hianime.to/home) <tooltip><ul><li>Huge library with Watch Together feature</li><li>Re-encodes shows for smaller size with lower overall bitrate.</li><li>Softsubs may create issues in different scenarios, but can be beneficial for multi-language support</li></ul></tooltip>
+- [Animepahe](https://animepahe.ru/) <Badge type="tip" text="2" link="https://animepahe.com/" /><Badge type="tip" text="3" link="https://animepahe.org" /><tooltip><ul><li>Uploads mini encoded files, useful if you want smaller files or have low bandwidth</li><li>Uploads Blu-ray and DVD versions if available</li><li>Has a good amount of missing titles</li></ul></tooltip>
+- [Kaguya](https://kaguya.app) <tooltip><ul><li>Scraping based website</li><li>Has a good amount of sources (Aniwave, Kickassanime etc.)</li><li>Scrapes manga sites too (Mangadex, Katana, Batoto etc.)</li><li>Only chromium browsers are supported & needs browser extension to work</li></ul></tooltip>
+- [One Pace](https://onepace.net/) <tooltip><ul><li>For One Piece only</li><li>Condensed anime episodes, removing filler scenes and merging episodes</li><li>Some arcs are still in <a href="https://docs.google.com/presentation/d/1br66Z5J0GXPLk5B_kLN9A7gn7hFgDJFhW_pY2bDxOZc/view">development</a>, with missing episodes or low resolution (480p) uploads</li><li>Main source is torrent based</li><li>Unofficial uploads on Stremio with <a href="https://app.strem.io/shell-v4.4/#/addons/community/all?addon=https%3A%2F%2F6b8ba440e405-onepace-stremio-v2.baby-beamup.club%2Fmanifest.json">One Pace add-on</a> or on <a href="https://rentry.co/onepace">Rentry</a></li></ul></tooltip>
+
+
+:::details More
+
+### Donghua
+- [Animekhor](https://animekhor.xyz/)
+- [Lucifer Donghua](https://luciferdonghua.in/)
+- [LM Anime](https://lmanime.com/)
+- [Myanime](https://myanime.live/)
+
+### Regional
+- [Muse Asia](https://www.youtube.com/@MuseAsia/)
+- [Ani-One Asia](https://www.youtube.com/AniOneAsia/)
+
+### TV
+- [Funcube](https://funcube.space/) <Badge text="Backup" link="https://backup.funcube.space/" />
+- [Toonami Aftermath](https://www.toonamiaftermath.com/)
+
 
 == Torrent
 
@@ -39,9 +46,7 @@ Online resources for anime, manga, novels and more.
 - [Anidex](https://anidex.info/)
 - [Anirena](https://www.anirena.com/)
 - [Shana Project](https://www.shanaproject.com/) <Badge type="info" text="Tokyo tosho" link="https://www.tokyotosho.info/" />
-- [Anime Bytes](https://animebytes.tv/) <Badge type="info" text="Private tracker" />
-- [Baka BT](https://bakabt.me/) <Badge type="info" text="Private tracker" />
-- [U2](https://u2.dmhy.org/portal.php) <Badge type="info" text="Private tracker" />
+
 
 == Direct Download
 
@@ -60,69 +65,14 @@ Online resources for anime, manga, novels and more.
 
 == IRC
 
-- [**nibl**](https://nibl.co.uk/search)
-  - Server: `irc.rizon.net`
-  - Port: `6697`
-  - Channel: `#nibl`
-- [**subsplease**](https://subsplease.org/xdcc/)
-  - Server: `irc.rizon.net`
-  - Port: `6697`
-  - Channel: `#subsplease`
-- **madokami**
-  - Server: `irc.rizon.net`
-  - Port: `6697`
-  - Channel: `#madokami`
-- [**animk**](https://animk.info/xdcc/)
-  - Server: `irc.xertion.org`
-  - Port: `6697`
-  - Channel: `#MK` or `XDCCLeech`
-- [**XDCC EU**](https://www.xdcc.eu/)
-- [**SunXDCC**](https://sunxdcc.com/)
-- [**Anidex**](https://xdcc.anidex.moe/) (`Michiko` bot is over at `#Doki`)
+- [nibl](https://nibl.co.uk/search) <tooltip><ul><li>Server: <code>irc.rizon.net</code></li><li>Port: <code>6697</code></li><li>Channel: <code>#nibl</code></li></ul></tooltip>
+- [subsplease](https://subsplease.org/xdcc/) <tooltip><ul><li>Server: <code>irc.rizon.net</code></li><li>Port: <code>6697</code></li><li>Channel: <code>#subsplease</code></li></ul></tooltip>
+- [animk](https://animk.info/xdcc/) <tooltip><ul><li>Server: <code>irc.xertion.org</code></li><li>Port: <code>6697</code></li><li>Channel: <code>#MK</code> or <code>XDCCLeech</code></li></ul></tooltip>
+- [XDCC EU](https://www.xdcc.eu/)
+- [SunXDCC](https://sunxdcc.com/)
+- [Anidex](https://xdcc.anidex.moe/) (`Michiko` bot is over at `#Doki`)
 
 <Button link="/guides/irc" icon="i-octicon-command-palette-16">To learn how to use IRC, you can read the guide</Button>
-
-:::
-
-#### More
-
-:::tabs
-
-== Anime
-
-- [**Kaguya**](https://kaguya.app)
-  - Scraping based website
-  - Has a good amount of sources (Aniwave, Kickassanime etc.)
-  - Scrapes manga sites too (Mangadex, Katana, Batoto etc.)
-  - Only chromium browsers are supported & needs browser extension to work
-- [**Animeflix**](https://animeflix.live/) <Badge type="info" text="Proxies" link="https://animeflix.domains/" />
-  - The main sources are scraper based (Gogo & Zoro)
-  - Uploads own encodes too with decent quality but not available for every title
-
-== Series Specific
-
-- [**One Pace**](https://onepace.net/)
-  - Condensed anime episodes, removing filler scenes and merging episodes
-  - Some arcs are still in [development](https://docs.google.com/presentation/d/1br66Z5J0GXPLk5B_kLN9A7gn7hFgDJFhW_pY2bDxOZc/view), with missing episodes or low resolution (480p) uploads
-  - Main source is torrent based
-  - Unofficial uploads on Stremio with [**One Pace add-on**](https://app.strem.io/shell-v4.4/#/addons/community/all?addon=https%3A%2F%2F6b8ba440e405-onepace-stremio-v2.baby-beamup.club%2Fmanifest.json) or on [**Rentry**](https://rentry.co/onepace)
-
-== Donghua
-
-- [Animekhor](https://animekhor.xyz/)
-- [Lucifer Donghua](https://luciferdonghua.in/)
-- [LM Anime](https://lmanime.com/)
-- [Myanime](https://myanime.live/)
-
-== Others
-
-### Regional
-- [Muse Asia](https://www.youtube.com/@MuseAsia/)
-- [Ani-One Asia](https://www.youtube.com/AniOneAsia/)
-
-### TV
-- [Funcube](https://funcube.space/) <Badge text="Backup" link="https://backup.funcube.space/" />
-- [Toonami Aftermath](https://www.toonamiaftermath.com/)
 
 :::
 
@@ -134,32 +84,12 @@ Online resources for anime, manga, novels and more.
 
 == Online
 
-- [**Comick**](https://comick.io/home) :glowing-star: <Badge type="tip" text="RSS" icon="i-material-symbols-rss-feed-rounded" link="https://manga.ldez.workers.dev/" /> <Badge type="danger" text="18+" /> 
-  - Minimal compression
-  - Aggregates from various scanlation groups
-  - Has official translations
-  - Reader isn't as good as mangadex
-- [**Mangadex**](https://mangadex.org/) <Badge type="danger" text="18+" />
-  - Uploads without compression
-  - Best reader UI
-  - Uploads from various scanlation groups
-  - No official translations<sup>[*](https://mangadex.org/rules#content_restrictions)</sup> since it was created for fansub
-  - May remove content if there is a DMCA request by the publisher or doesn't allow upload at all (e.g. One Punch-Man)
-- [**Mangasee**](https://mangasee123.com/) <Badge type="tip" text="2" link="https://manga4life.com/" /><Badge type="tip" text="Alt" link="https://atsu.moe/" />
-  - Has official translations
-  - Compresses chapter images
-  - Chapter updates are relatively slow
-- [**MangaFire**](https://mangafire.to/home)
-  - The UI is very clean with notification system
-  - Uploads both chapter(multi-lang) & volume releases
-  - Basic reader UI
-  - Watermark on almost every manga chapters
-  - Manga uploads are upto x1600
-- [**Batoto**](https://battwo.com/v3x) <Badge type="tip" text="Proxies" link="https://rentry.co/batoto" /><Badge type="danger" text="18+" />
-  - Has both scanlated and official releases
-  - Has some exclusive uploads
-  - Decent filtering options with site theme options
-  - Indexing is really poor
+- [Comick](https://comick.io/home) :glowing-star: <Badge type="tip" text="RSS" icon="i-material-symbols-rss-feed-rounded" link="https://manga.ldez.workers.dev/" /> <Badge type="danger" text="18+" /> <tooltip><ul><li>Minimal compression</li><li>Aggregates from various scanlation groups</li><li>Has official translations</li><li>Reader isn't as good as mangadex</li></ul></tooltip>
+- [Mangadex](https://mangadex.org/) <Badge type="danger" text="18+" /> <tooltip><ul><li>Uploads without compression</li><li>Best reader UI (for a web reader)</li><li>Uploads from various scanlation groups</li><li>No <a href="https://mangadex.org/rules#content_restrictions">official translations</a> since it was created for fansub</li><li>May remove content if there is a DMCA request by the publisher or doesn't allow upload at all (e.g. One Punch-Man)</li></ul></tooltip>
+- [Mangasee](https://mangasee123.com/) <Badge type="tip" text="2" link="https://manga4life.com/" /><Badge type="tip" text="Alt" link="https://atsu.moe/" /> <tooltip><ul><li>Has official translations</li><li>Compresses chapter images</li><li>Chapter updates are relatively slow</li></ul></tooltip>
+- [MangaFire](https://mangafire.to/home) <tooltip><ul><li>The UI is very clean with notification system</li><li>Uploads both chapter (multi-lang) & volume releases</li><li>Basic reader UI</li><li>Watermark on almost every manga chapters</li><li>Manga uploads are up to x1600</li></ul></tooltip>
+- [Batoto](https://battwo.com/v3x) <Badge type="tip" text="Proxies" link="https://rentry.co/batoto" /><Badge type="danger" text="18+" /><tooltip><ul><li>Has both scanlated and official releases</li><li>Has some exclusive uploads</li><li>Decent filtering options with site theme options</li><li>Indexing is really poor</li></ul></tooltip>
+
 
 ::: details More
 
@@ -334,8 +264,6 @@ I have tried to add all the well-known scanlators for manhwa and manhua, but for
 - [Moriya Shrine](https://moriyashrine.org/)  <Badge type="info" text="Touhou" />
 - [Doujin Style](https://doujinstyle.com/) <Badge type="info" text="Doujin" />
 - [Kimochi](https://kimochi.info)
-- [Anime Bytes](https://animebytes.tv/) <Badge type="info" text="Private tracker" />
-- [Gazelle Games](https://gazellegames.net/login.php) <Badge type="info" text="Private tracker" />
 
 <Button icon="i-fxemoji-nooneunder18symbol">All listed sites have NSFW content unless specified otherwise</Button>
 
@@ -434,6 +362,53 @@ I have tried to add all the well-known scanlators for manhwa and manhua, but for
 <Button link="https://rentry.org/pgames#untrusted-sites" icon="i-fxemoji-noentrysign"> List of Untrusted Game Downloading Websites</Button>
 
 <Button link="https://www.dlsite.com/index.html?locale=en_US" icon="i-fxemoji-lightbulb">Try searching with Japanese titles on Nyaa/Sukebei. Also, for Sukebei, try searching with the DLSite product ID.</Button>
+
+
+![](/banner/pt.png)
+## Private Trackers
+
+:::tabs
+
+== Anime
+
+- [Anime Bytes](https://animebytes.tv/) `General`
+- [Animeworld](https://animeworld.cx/) :flag-germany:
+- [Baka BT](https://bakabt.me/)
+- [U2](https://u2.dmhy.org/portal.php)
+
+== Music
+- [Redacted](https://redacted.ch/)
+- [JPopsuki](https://jpopsuki.eu/)
+- [Orpheus](https://orpheus.network/)
+- [Sugoi Music](https://sugoimusic.me/)
+- [Bemaniso](https://bemaniso.ws/) `Rhythm`
+- [Aidoru](https://aidoru-online.me/) `Idol`
+
+== Others
+
+### Games
+- [Gazelle Games](https://gazellegames.net/login.php)
+
+### Movies/TV
+- [AvistaZ](https://avistaz.to/) <Badge type="tip" icon="i-ic-outline-discord" text="Waitlist" link="https://discord.gg/pfmAegk8bD" />
+- [JPTV.club](https://jptv.club/)
+- [AsianCinema](https://asiancinema.me/)
+- [jptvts](https://jptvts.us/)
+
+### NSFW
+- [ExoticAZ](https://exoticaz.to/)
+- [Empornium](https://www.empornium.is/)
+
+:::
+
+:::details Resources
+- [InstallGentoo Wiki](https://wiki.installgentoo.com/wiki/Private_trackers)
+- [Invite route graph](https://inviteroute.github.io/graph/)
+- [Redacted Interview Prep](https://interviewfor.red/en/index.html)
+- [BakaBT Wiki](https://wiki.bakabt.me/index.php/Sign_up)
+
+:::
+
 
 ![](/banner/legal.png)
 

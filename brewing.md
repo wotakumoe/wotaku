@@ -49,13 +49,6 @@ Cool prospective projects under works worth looking into, or maybe contributing 
 - [Totoro](https://github.com/insomniachi/Totoro)
 
 
-== iOS
-
-### Anime
-- [Chouten beta](https://testflight.apple.com/join/Cg1rAPB8)
-- [Soshiki](https://github.com/soshikimoe/soshiki-ios)
-- [Mochi](https://mochi.errorerrorerror.dev/)
-
 == macOS
 
 - [Novee](https://github.com/ZhichGaming/Novee)
