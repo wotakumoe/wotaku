@@ -18,6 +18,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 ## Starter Guide
 - [Tatsumoto's Guide](https://tatsumoto.neocities.org/)
 - [TheMoeWay Guide](https://learnjapanese.moe/)
+- [Kuri's Immersion-Based Japanese Learning](https://donkuri.github.io/learn-japanese/)
 - [Acquiring Japanese Efficiently](https://docs.google.com/document/d/1LH82FjsCqCgp6-TFqUcS_EB15V7sx7O1VCjREp6Lexw/edit)
 - [DJT GUIDE](https://djtguide.neocities.org/guide)
 - [itazuraneko](https://djtguide.github.io/learn/guide.html)
@@ -66,6 +67,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [KanjiDamage](http://www.kanjidamage.com/)
 - [KanjiDamage+](https://kanjidamageplus.neocities.org/)
 - [Marshall's Site](https://marshallyin.com/) <Badge type="warning" text="Freemium" /> <tooltip>Marshall's site contain almost everything. So to avoid dupe, it will be linked once.</tooltip>
+- [THE KANJI VISUAL LANGUAGE PROJECT](https://kvlp.org/)
 
 == Dictionary
 - [Wiktionary](https://wiktionary.org) <Badge type="tip" text="EN" link="https://en.wiktionary.org/" /><Badge type="tip" text="JP" link="https://ja.wiktionary.org/" />
@@ -77,6 +79,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Japanese KANJI Names Dictionary](https://kanji.reader.bz/en/)
 - [Kanjipedia](https://www.kanjipedia.jp/)
 - [The Kanji Map](https://thekanjimap.com/)
+- [JapaneseGraph](https://japanesegraph.com/)
 - [Takoboto](https://takoboto.jp/)
 - [Tangorin](https://tangorin.com/)
 - [Weblio](https://ejje.weblio.jp/)
@@ -137,6 +140,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [TOFUGU](https://www.tofugu.com/japanese/japanese-pronunciation/)
 - [Kanshudo](https://www.kanshudo.com/howto/pitch)
 - [Kezi](https://kez.io/notes/japanese/accent) <Badge type="tip" text="Gist" link="https://gist.github.com/k3zi/3f38070efffa38db83cd5745d83b1235" />
+- [Minimal Pairs](https://kuuuube.github.io/minimal-pairs/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/Kuuuube/minimal-pairs" />
 - [The Pitch Accent Journey](https://docs.google.com/document/d/1ReBf08JFK4n0PXdOxThAfWuiK9UWVZEWWzeKSECWTQo/edit)
 - [Resources for pitch accent](https://xythh.github.io/resources)
 - [Maggie Sensei's Conversation Guide](https://maggiesensei.com/)
@@ -248,6 +252,7 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 == Guide
 ### General
 - **jpdb difficulty list** <Badge type="tip" text="Anime" link="https://jpdb.io/anime-difficulty-list" /><Badge type="tip" text="Live Action" link="https://jpdb.io/live-action-difficulty-list" /> <Badge type="tip" text="Novel" link="https://jpdb.io/novel-difficulty-list" /><Badge type="tip" text="Visual Novel" link="https://jpdb.io/visual-novel-difficulty-list" /><Badge type="tip" text="Web Novel" link="https://jpdb.io/web-novel-difficulty-list" /> 
+- [Kuri's Japanese Media Recommendations](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/edit#gid=1019246469)
 - [Learn Natively](https://learnnatively.com/)
 - [Perdition](https://perdition-japanese.github.io/posts/how-to-study-japanese/#step-1-h--immersion-optional)
 - [Acquiring Japanese Efficiently](https://docs.google.com/document/d/1LH82FjsCqCgp6-TFqUcS_EB15V7sx7O1VCjREp6Lexw/edit#heading=h.ct5zhbvvh3b8)
@@ -265,20 +270,12 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 - [Fully Automatic Retiming of Subtitles](https://youtu.be/x0h3ooBHrpk)
 
 == Anime
-
-### Streaming
 - [Animelon](https://animelon.com/) :glowing-star:
 - [Nyaa](https://nyaa.si/?f=0&c=1_4&q=)
 - [Aniwave](https://aniwave.to/home)
 - [HiAnime](https://hianime.to/home)
 - [Classics](https://animation.filmarchives.jp/index.html)
 
-
-### Subs
-- [Kitsunekko](https://kitsunekko.net/) :glowing-star: <Badge type="tip" text="2" link="https://learnjapanese.moe/kitsubackup.html#/ja" /><Badge type="tip" text="3" link="https://jimaku.cc/" />
-- [itazuraneko](https://djtguide.github.io/library/sub)
-- [Xavier's Retimed JP Sub Pack](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTA0NDM1NA.ZHVjaw)
-- [JP Subtitles](https://github.com/Matchoo95/JP-Subtitles)
 
 == TV
 ### Movies & Drama
@@ -291,6 +288,15 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 - [NHK Learn Japanese](https://www3.nhk.or.jp/nhkworld/en/ondemand/category/28/)
 - [NHK Easy Japanese](https://www.nhk.or.jp/lesson/)
 
+
+== Subs
+- [Kitsunekko](https://kitsunekko.net/) :glowing-star: <Badge type="tip" text="2" link="https://learnjapanese.moe/kitsubackup.html#/ja" /><Badge type="tip" text="3" link="https://jimaku.cc/" />
+- [itazuraneko](https://djtguide.github.io/library/sub)
+- [Xavier's Retimed JP Sub Pack](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTA0NDM1NA.ZHVjaw)
+- [Nekomoe Kissaten's Subtitles](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage)
+- [JP Subtitles](https://github.com/Matchoo95/JP-Subtitles)
+
+
 == Easy Reading
 
 - [NHK News Web Easy](https://www3.nhk.or.jp/news/easy/)
@@ -299,6 +305,7 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 - [Satori Reader](https://www.satorireader.com/)
 - [Watanoc](https://watanoc.com/)
 - [Yomujp](https://yomujp.com/)
+
 
 == Manga
 ### Reader
@@ -389,13 +396,16 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 - [Ankiconnect Android](https://github.com/KamWithK/AnkiconnectAndroid) :mdi-android:
 - [FSRS4Anki](https://github.com/open-spaced-repetition/fsrs4anki) <Badge type="tip" icon="i-mdi-puzzle" text="Addon"/>
 - [Kotu](https://kotu.io/) :mdi-earth:<Badge type="tip" icon="i-mdi-puzzle" text="Addon"/>
+- [Kanji Grid](https://github.com/Kuuuube/kanjigrid) <Badge type="tip" icon="i-mdi-puzzle" text="Addon"/>
 
 ### Guide
 - [Anki Manual](https://docs.ankiweb.net/)
 - [Tatsumoto](https://tatsumoto.neocities.org/blog/setting-up-anki) :glowing-star:
+- [jp-mining-note](https://aquafina-water-bottle.github.io/jp-mining-note/)
+- [Xelieu's Modified Anime Card](https://xelieu.github.io/jp-lazy-guide/)
 - [vladsperspective](https://vladsperspective.wordpress.com/2020/07/15/using-anime-decks-subs2srs-mediafire-premade-decks/)
 - [Optimizing Anki For Language Learning](https://cademcniven.com/posts/20210410/)
-
+- [Mokuro's Guide to mining manga](https://mokuro.moe/)
 
 == Card templates
 - [jp-mining-note](https://aquafina-water-bottle.github.io/jp-mining-note/)
@@ -412,10 +422,12 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 - [RRTK450 Anki deck](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9tZWdhLm56L2ZpbGUvMlNKaVdDNGIjaEw5OHF0Q19oaUxsUURnMExxVkpvcUQyLTV5d1QyTndkNGtqUk9ZX0t3UQ.ZHVjaw) `Beginner`
 - [Usagi Chan Kanji Phonetics Deck](https://drive.google.com/file/d/1xyynMQiOuqlC_cBBTwG9t3snRubHqU7e/view)
 - [Wanikani Ultimate 3](https://links.gamesdrive.net/#/link/aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2k5dnVzcmR6cjIwdjQzei9XYW5pa2FuaV9VbHRpbWF0ZV8zX19Ub2t5b19EcmlmdF8tXF8yMDIzLTA2LTI0LmFwa2cvZmlsZQ.ZHVjaw) <Badge type="tip" text="Support" link="https://discord.gg/cSEXEB5DgF" />
+- [Kanji de Go](https://github.com/MarvNC/kanjidego-yomitan-anki)
 
 ### Vocab
 - [Anime decks (Official AnkiWeb)](https://ankiweb.net/shared/decks?search=anime)
 - [Anime decks (Sub2Srs)](https://links.gamesdrive.net/#/link/aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9mb2xkZXIvcDE3ZzV1azRwaGI0MS9Vc2VyX1VwbG9hZGVkX0Fua2lfRGVja3M)
+- [Kaishi](https://github.com/donkuri/Kaishi) `Beginner`
 - [Core 2k/6k Optimized Japanese Vocabulary Anki](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) 
 - [DoJG Deck](https://dojgdeck.neocities.org/) 
 - [Japanese course based on Tae Kim's grammar guide & anime](https://ankiweb.net/shared/info/911122782) 
@@ -445,10 +457,12 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 == Learning
 
 ### Android
+
+- [Japanese Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy)
 - [jidoujisho](https://github.com/lrorpilla/jidoujisho) :glowing-star:
 - [Kakugo](https://play.google.com/store/apps/details?id=org.kaqui)
-- [Japanese Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy)
 - [Kanji Garden](https://play.google.com/store/apps/details?id=is.ky.kanjigarden) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://kanji.garden/" />
+- [Kanji Dojo](https://play.google.com/store/apps/details?id=ua.syt0r.kanji)
 - [Kata](https://play.google.com/store/apps/details?id=im.dacer.kata)
 - [Vocal Pitch Monitor](https://play.google.com/store/apps/details?id=com.tadaoyamaoka.vocalpitchmonitor)
 
@@ -503,6 +517,7 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
     - [Yomitan Dictionaries](https://github.com/MarvNC/yomichan-dictionaries/)
     - [Yomitan Grammar Dictionaries](https://github.com/aiko-tanaka/Grammar-Dictionaries)
     - [Local Audio Server for Yomichan](https://github.com/themoeway/local-audio-yomichan)
+    - [VNDB Names for Yomitan](https://github.com/kaanium/VNDB-Names-for-Yomitan)
 - [Rikitan](https://github.com/Ajatt-Tools/rikaitan) :mdi-firefox::mingcute-chrome-fill: <Badge type="tip" text="Guide" link="https://tatsumoto.neocities.org/blog/setting-up-yomichan" /><Badge type="tip" text="Dictionary" link="https://tatsumoto.neocities.org/blog/yomichan-and-epwing-dictionaries" />
 - [10ten Japanese Reader](https://github.com/birchill/10ten-ja-reader) :mdi-firefox::mingcute-chrome-fill::mingcute-safari-fill:
 - [Japanese.io](https://www.japanese.io/) :mingcute-chrome-fill:
@@ -514,14 +529,15 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 
 == Translator / OCR
 
-- [Sugoi Translation Toolkit](https://blog.sugoitoolkit.com/)
 - [Ballons Translator](https://github.com/dmMaze/BallonsTranslator)
 - [Capture2text](https://capture2text.sourceforge.net/)
 - [Imagetrans](https://www.basiccat.org/imagetrans/)
 - [Kanji tomo](https://www.kanjitomo.net/)
 - [Manga OCR](https://github.com/kha-white/manga-ocr)
 - [Mokuro](https://github.com/kha-white/mokuro)
+- [OwOCR](https://github.com/AuroraWright/owocr)
 - [Poricom](https://github.com/blueaxis/Poricom)
+- [Sugoi Translation Toolkit](https://blog.sugoitoolkit.com/)
 - [Yomiwa](https://www.yomiwa.net/)
 
 :::danger MTL won't be perfect
@@ -650,8 +666,10 @@ Culture, History, Mythology & Festival. Everything about Japan!
 - [Cooking with Dog](https://cookingwithdog.com/) <Badge type="info" text="Youtube" link="https://www.youtube.com/@cookingwithdog" />
 - [Japanese Cooking 101](https://www.japanesecooking101.com/) <Badge type="info" text="Youtube" link="https://www.youtube.com/@recipetinjapan3806/" />
 - [RecipeTin Japan](https://japan.recipetineats.com/) <Badge type="info" text="Youtube" link="https://www.youtube.com/@JapaneseCooking101" />
+- [Kurashiru](https://www.kurashiru.com/)
 - [Chopstick Chronicles](https://www.chopstickchronicles.com/)
 - [Okonomiyaki World](http://okonomiyakiworld.com/index.html)
+- [Delish Kitchen](https://delishkitchen.tv/)
 - [Japan food addict](https://www.japanfoodaddict.com/)
 - [Just Hungry](https://www.justhungry.com/recipes)
 
