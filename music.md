@@ -14,8 +14,6 @@ Everything Music Related in One Page!
 :::tabs
 
 == Anime
-
-### OP/ED
 - [Anithemes.moe](https://animethemes.moe/) :glowing-star: <Badge type="info" text="Alt" link="https://themes.moe/" /><Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/AnimeThemes" />
 - [Karaoke Mugen](https://kara.moe)
 - [Anisong Database](https://anisongdb.com/) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" /><Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/xSardine/AMQ-Artists-DB" />
@@ -23,15 +21,11 @@ Everything Music Related in One Page!
 - [One Piece Tracklist](http://onepiecetracklist.com/)
 
 == Doujin
-
-### Touhou
 - [Touhou Player](https://touhou.kuukunen.net/)
 - [TMLC](https://tlmc.pf-n.co/tlmc)
 
 
 == Games
-
-### Stream
 - [Squidify](https://www.squidify.org) :glowing-star:
 - [Zophar's Domain](https://www.zophar.net/music) <Badge type="info" text="DDL" />
 - [Vidya Intarweb Playlist](https://www.vipvgm.net/)
