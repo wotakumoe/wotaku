@@ -58,6 +58,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 
 == Pitch Accent
 ### Guides
+- [Dogen Pronunciation Course](https://pastebin.com/01tmVBiA)
 - [TOFUGU](https://www.tofugu.com/japanese/japanese-pronunciation/)
 - [Kanshudo](https://www.kanshudo.com/howto/pitch)
 - [Kezi](https://kez.io/notes/japanese/accent) <Badge type="tip" text="Gist" link="https://gist.github.com/k3zi/3f38070efffa38db83cd5745d83b1235" />
