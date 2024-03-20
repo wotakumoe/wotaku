@@ -152,7 +152,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Pixiv Viewer](https://pixiv.pics/)
 - [Tumblr](https://www.tumblr.com/)
 - [Twitter](https://twitter.com/home) :glowing-star:
-- [Twucan](https://twoucan.com/)
+- [Twoucan](https://twoucan.com/)
 
 :::details Support Platforms
 - [BOOTH](https://booth.pm/en)
@@ -226,7 +226,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 == Manga & LN
 
-- [Ezrat](https://twitter.com/Erzat110) :mdi-twitter:
+- [Erzat](https://twitter.com/Erzat110) :mdi-twitter:
 - [Manga Alerts](https://twitter.com/MangaAlerts) :mdi-twitter:
 - [Manga Bookshelf](https://mangabookshelf.com/) :mdi-twitter:
 - [Manga Mogura RE](https://twitter.com/MangaMoguraRE) :glowing-star: :mdi-twitter: <Badge type="danger" icon="i-mdi-twitter" text="Ecchi" link="https://twitter.com/EcchiMogura" />
