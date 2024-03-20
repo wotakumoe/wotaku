@@ -93,6 +93,8 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [Kimochi](https://kimochi.info)
 - [Ryuu games](https://www.ryuugames.com/)
 
+<Button icon="i-fxemoji-lightbulb">Try searching with Japanese titles or DLSite product ID on Sukebei.</Button>
+
 :::
 
 <Button link="/glossary/nsfw" icon="i-fluent-emoji-open-book">Not sure what the Japanese term means when browsing? Check out the nsfw glossary</Button>

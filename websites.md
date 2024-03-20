@@ -263,8 +263,7 @@ I have tried to add all the well-known scanlators for manhwa and manhua, but for
 - [Moriya Shrine](https://moriyashrine.org/)  <Badge type="info" text="Touhou" />
 - [Doujin Style](https://doujinstyle.com/) <Badge type="info" text="Doujin" />
 
-
-<Button icon="i-fxemoji-nooneunder18symbol">All listed sites have NSFW content unless specified otherwise</Button>
+<Button icon="i-fxemoji-noentrysign">All listed sites have NSFW content unless specified otherwise</Button>
 
 == ROM
 
@@ -353,8 +352,6 @@ I have tried to add all the well-known scanlators for manhwa and manhua, but for
 :::
 
 <Button link="https://rentry.org/pgames#untrusted-sites" icon="i-fxemoji-noentrysign"> List of Untrusted Game Downloading Websites</Button>
-
-<Button link="https://www.dlsite.com/index.html?locale=en_US" icon="i-fxemoji-lightbulb">Try searching with Japanese titles on Nyaa/Sukebei. Also, for Sukebei, try searching with the DLSite product ID.</Button>
 
 
 ![](/banner/pt.png)
