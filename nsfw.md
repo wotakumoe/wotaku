@@ -82,6 +82,17 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [Sankaku Complex](https://chan.sankakucomplex.com/)
 - [Yandere](https://yande.re/post)
 
+== Games
+
+- [DLsite](https://www.dlsite.com/) <Badge type="warning" text="Legal" />
+- [Nyaa sukebei](https://sukebei.nyaa.si/?f=0&c=1_3&q=)
+- [Anime-sharing](https://www.anime-sharing.com/) <Badge type="info" text="Needs account" />
+- [CPG Repacks](https://cpgrepacks.site)
+- [Eroge Download](https://erogedownload.com/)
+- [F95Zone](https://f95zone.to/) <Badge type="info" text="Needs account" />
+- [Kimochi](https://kimochi.info)
+- [Ryuu games](https://www.ryuugames.com/)
+
 :::
 
 <Button link="/glossary/nsfw" icon="i-fluent-emoji-open-book">Not sure what the Japanese term means when browsing? Check out the nsfw glossary</Button>

@@ -255,15 +255,14 @@ I have tried to add all the well-known scanlators for manhwa and manhua, but for
 == General
 
 - [Nyaa](https://nyaa.si/?f=0&c=6_2&q=)  <Badge type="green" text="SFW" />
-- [Nyaa sukebei](https://sukebei.nyaa.si/?f=0&c=1_3&q=)
 - [Ova Games](https://www.ovagames.com/)
 - [Dodi](https://dodi-repacks.site/)
 - [Gload](https://gload.to/)
-- [F95Zone](https://f95zone.to/) <Badge type="info" text="Needs account" />
-- [GOG](https://gog-games.to/)
+- [Free GOG PC Games](https://freegogpcgames.com/)
+- [Torrminatorr](https://torrminatorr.com/)
 - [Moriya Shrine](https://moriyashrine.org/)  <Badge type="info" text="Touhou" />
 - [Doujin Style](https://doujinstyle.com/) <Badge type="info" text="Doujin" />
-- [Kimochi](https://kimochi.info)
+
 
 <Button icon="i-fxemoji-nooneunder18symbol">All listed sites have NSFW content unless specified otherwise</Button>
 
@@ -348,12 +347,6 @@ I have tried to add all the well-known scanlators for manhwa and manhua, but for
 
 == More
 
-### VN
-- [CPG Repacks](https://cpgrepacks.site)
-- [Eroge Download](https://erogedownload.com/)
-- [Ryuu games](https://www.ryuugames.com/)
-
-### Others
 - [Digimon Basic](https://digimon-basic.org/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.com/invite/B3RXtnXRSG" />
 - [Sonic Zone](https://soniczone.net/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.com/invite/caxcReqh93" />
 
