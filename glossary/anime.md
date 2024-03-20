@@ -67,11 +67,12 @@ In Japanese TV, the broadcast schedule is divided into four seasons: Spring (Mar
 The individual or team behind the release, also called Encoder in the case of encodes. Example: SubsPlease, Erai-raws, EMBER, Yameii etc. Sometimes, the release group name is mentioned at the end.
 
 ### Source
-The origin of the release, so streaming sites or different disc releases (DVD, LaserDisc, BluRay, etc).
+The origin of the release, so streaming sites or different disc releases (DVD, LaserDisc, Blu-ray, etc).
 
 - **WEB-DL**: Untouched videos, downloaded from streaming sites without encoding
 - **WEB-Rip**: Videos sourced from streaming sites that went through screen-capture and/or encoding methods
-- **BDMV**: A capture of the raw file structure of a BluRay disc, needs to be mounted as a disc in order to be played and is used for making encodes or remuxes.
+- **BDISO**: A disk image of a Blu-ray disc, needs to be mounted in order to be played (like other ISOs) and is used for making encodes or remuxes.
+- **BDMV**: Short for “Blu-ray Disc Movie”, a container format used to store high-definition video, audio, and other related content on Blu-ray discs.
 - **Remux**: Videos sourced from disc releases without encoding, making them have very high quality and file sizes.
 - **Encode**: A video that has gone through lossless or lossy compression processes in order to save file size, also called a DVDRip of BDRip.
 - **Re-Encode**: An encode that has gone through the process of further encoding, thus degrading in quality.
