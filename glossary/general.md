@@ -60,7 +60,6 @@ Want to increase your otaku knowledge? Look for no further! Presenting the Gloss
 | Gyaru  |  English slang equivalent of "Gal". It refers to a subculture and fashion style in Japan where girls wear dramatic tan makeup, sport big hair, and embrace 2000s fashion trends. Example: [Kitagawa Marin](https://anidb.net/character/120646)   |
 | Hentai | A term literally meaning pervert that is also used as a synonym for both animated and drawn pornography |
 | Hikikomori  |  The people who don't go out of their home. The phenomenon can also be termed as Hikikomori. You can watch [this video](https://www.youtube.com/watch?v=tnFVot15KcI) to get a clearer idea.  |
-| Idol | Idols are live entertainers who are expected to be 'Seiso' or pure, meaning they do not engage in romantic relationships. Their primary goal is to entertain their fans. Idol culture is particularly popular in Asia, especially Japan and Korea. Idols are usually local, but occasionally, they can be foreigners too. However, the idol culture can be dark and questionable despite being portrayed as glamorous in anime and manga. Idols group can be girls or boys group. Example: [AKB48](https://www.akb48.co.jp/). Nowadays, vtuber groups such as [Hololive](https://www.youtube.com/@hololive) are managed as an idol group. |
 | JK  |  "Joshi Kousei". Meaning high-school girl.   |
 | Kaiju  |   Giant monsters. It can be mentioned as a genre too. |
 | Kawaii  |   Adorable. |
@@ -68,7 +67,6 @@ Want to increase your otaku knowledge? Look for no further! Presenting the Gloss
 | Loli  |   Young or young-looking girl in anime and manga.  |
 | Moe  |  The feeling of emotional attraction when you see something cute in manga, anime or other weeb stuff. These are SFW and can be any gender.  |
 | Nakama  |  Literally "Comrade". Popularized by the series 'One Piece', it is nowadays used for a group of people who are closer than family.   |
-| Oshi | One's favourite idol. The fan himself is known as **gachikoi**. It's generally used when the affection is on a serious level.|
 | Seiso | *"Seiso" (清楚) refers to a particular aesthetic of purity and cleanliness that is often emphasized in the presentation of female idols. This can involve elements such as modest clothing, subtle makeup, and a generally wholesome image.* |
 | Senpai / Sempai  |   Senior. Can be in a workplace or school.  |
 | Sensei  |  Generally Teacher. But this can also be used to address someone  who is a respected professional or very senior in the position.   |
@@ -103,6 +101,21 @@ Want to increase your otaku knowledge? Look for no further! Presenting the Gloss
 | Doujinka / Doujinshika | Doujinka is **the creator** of doujinshi and is a member of a doujin circle. |
 | Doujin | 'Doujin' refers to **a group** of people who share a common interest. |
 | Circle | The term 'circle' refers to the group that **releases doujinshi**, the circle may consist a group of people or a single individual. |
+
+
+## Idol / VTuber terms
+| Terms     | Meaning { class="compact" }  |
+| ------  | ------ |
+| Idol | Idols are live entertainers who are expected to be 'Seiso' or pure, meaning they do not engage in romantic relationships. Their primary goal is to entertain their fans. Idol culture is particularly popular in Asia, especially Japan and Korea. Idols are usually local, but occasionally, they can be foreigners too. However, the idol culture can be dark and questionable despite being portrayed as glamorous in anime and manga. Idols group can be girls or boys group. Example: [AKB48](https://www.akb48.co.jp/). Nowadays, vtuber groups such as [Hololive](https://www.youtube.com/@hololive) are managed as an idol group. |
+| VTuber | A content creator, typically a streamer, who utilizes a 2D or 3D avatar instead of appearing as themselves. However, it is becoming increasingly common for vtubers to reveal themselves on social media or during streams. This often depends on the policies of the managing agency. |
+| Oshi | One's favourite idol. Also known as bias. |
+| Gachikoi / Riako | The fan himself. It's generally used when the affection is on a serious level. |
+| Kamioshi | If someone has more than one oshi, then his/her most favourite oshi is known as kamioshi. |
+| DD / Daredemo Daisuki | Literally means "I like everyone". Used when one likes everyone in the idol group. |
+| Chika Idol | Underground Idol. |
+| Corpo / Corporate VTuber | A vtuber under contract with an agency is known as a corporate vtuber. |
+| Indie / Independent VTuber | If she/he is not under any sort of contract. |
+| Oshi Mark | It's used to indicate an idol or vtuber. It can be based their name, their vtuber model, inside joke or just random. For example, [**Hoshimachi Suisei**](https://www.youtube.com/@HoshimachiSuisei)'s oshi mark is :comet:. It's because the term "Suisei (彗星)" means comet. [**Ninomae Ina'nis**](https://www.youtube.com/@NinomaeInanis)'s :octopus: because of her model. |
 
 
 ## Kemonomimi
