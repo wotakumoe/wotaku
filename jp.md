@@ -288,6 +288,15 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 - [NHK Learn Japanese](https://www3.nhk.or.jp/nhkworld/en/ondemand/category/28/)
 - [NHK Easy Japanese](https://www.nhk.or.jp/lesson/)
 
+### Live TV
+- [IPTV-Org jp.m3u](https://iptv-org.github.io/iptv/countries/jp.m3u)
+- [IPTV-Org jpn.m3u](https://iptv-org.github.io/iptv/languages/jpn.m3u)
+- [IPTV-JP](https://raw.githubusercontent.com/luongz/iptv-jp/main/jp.m3u)
+- [AQ Stream](https://aqstream.com/jp)
+- [TVer](https://tver.jp/) <Badge type="info" text="Needs VPN" />
+- [Keylabo](http://www.keylabo.com/watch-tv-online-for-free/)
+- [ANNnewsCH](https://www.youtube.com/@ANNnewsCH/)
+- [9tsu](https://9tsu.cc/) <Badge type="info" text="VOD" />
 
 == Subs
 - [Kitsunekko](https://kitsunekko.net/) :glowing-star: <Badge type="tip" text="2" link="https://learnjapanese.moe/kitsubackup.html#/ja" /><Badge type="tip" text="3" link="https://jimaku.cc/" />
@@ -309,6 +318,7 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 
 == Manga
 ### Reader
+- [Hachiraw](https://hachiraw.net/) <Badge type="danger" text="18+" />
 - [KL Manga](https://klmanga.com/) <Badge type="danger" text="18+" />
 - [Mangaraw Japan](https://mangaraw.to/) <Badge type="danger" text="18+" />
 - [Mangaraw+](https://mangarawplus.co/)
@@ -401,7 +411,7 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 ### Guide
 - [Anki Manual](https://docs.ankiweb.net/)
 - [Tatsumoto](https://tatsumoto.neocities.org/blog/setting-up-anki) :glowing-star:
-- [jp-mining-note](https://aquafina-water-bottle.github.io/jp-mining-note/)
+- [jp-mining-note](https://arbyste.github.io/jp-mining-note/) <Badge type="tip" text="original" link="https://aquafina-water-bottle.github.io/jp-mining-note/"/>
 - [Xelieu's Modified Anime Card](https://xelieu.github.io/jp-lazy-guide/)
 - [vladsperspective](https://vladsperspective.wordpress.com/2020/07/15/using-anime-decks-subs2srs-mediafire-premade-decks/)
 - [Optimizing Anki For Language Learning](https://cademcniven.com/posts/20210410/)
@@ -490,7 +500,6 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 - [Satori Reader](https://apps.apple.com/us/app/satori-reader/id1382950847) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://www.satorireader.com/" />
 - [Write It! Japanese](https://apps.apple.com/us/app/write-it-japanese/id1268225663)
 
-
 :::
 
 ### PC
@@ -507,7 +516,9 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 - [Voracious](https://voracious.app/)
 
 ### Reader
-- [mokuro](https://github.com/kha-white/mokuro)
+- [Mokuro](https://github.com/kha-white/mokuro)
+  - [Mokuro Catalog](https://catalog.mokuro.moe/)
+  - [2500 Volume Mokuro OCR Manga PDF Collection](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTY0MTI2NQ.RHVjaw)
 - [ttsu Ebook Reader](https://reader.ttsu.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/ttu-ttu/ebook-reader" /> 
 
 
@@ -564,7 +575,7 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 - [Tenacity](https://tenacityaudio.org/)
 - [Immersion pod](https://github.com/Ajatt-Tools/impd)
 
-### VN
+### Games/VN
 - [EXSTATIC](https://github.com/KamWithK/exSTATic)
 - [Textractor](https://github.com/Artikash/Textractor) <Badge type="tip" text="Guide" link="https://xelieu.github.io/jp-lazy-guide/setupVnOnPC/" />
 - [Textractor websocket](https://github.com/kuroahna/textractor_websocket)
