@@ -37,7 +37,8 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
 
 ### Local
 - [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :glowing-star: <Badge type="warning" text="Freemium" />
-- [Kuro Reader +](https://github.com/VandersonQk/KuroReaderReleases/)  <Badge type="info" icon="i-octicon-globe" text="Web" link="https://kurotoshiro.dev/" /> <Badge type="warning" text="Freemium" />
+- [Kuro Reader +](https://kurotoshiro.dev/) <Badge type="warning" text="Freemium" />
+- [CDisplayEx Comic Reader](https://play.google.com/store/apps/details?id=com.progdigy.cdisplay.free) <Badge type="warning" text="Freemium" />
 
 == Novel
 
