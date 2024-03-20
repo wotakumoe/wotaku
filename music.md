@@ -113,7 +113,7 @@ Everything Music Related in One Page!
 - [chiru.no](https://chiru.no/) <Badge type="info" icon="i-material-symbols-download-2" text="FLAC" link="https://chiru.no/?chiru.no.m3u" />
 - [Sasalele Music Station](https://github.com/Mikeexe2/Sasalele-Music-Station) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/Mikeexe2/Sasalele-Music-Station" /> <Badge type="tip" text="Compilation" />
 - [JPopSuki](http://jpopsuki.fm/) <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="http://jpopsuki.fm:2199/tunein/jpopsuki-stream.pls" />
-- [Strereo Anime](https://www.stereoanime.net/) <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="http://yp.shoutcast.com/sbin/tunein-station.m3u?id=99543276" /> :flag-spain:
+- [Stereo Anime](https://www.stereoanime.net/) <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="http://yp.shoutcast.com/sbin/tunein-station.m3u?id=99543276" /> :flag-spain:
 - [AnimeRadio.de](https://www.animeradio.de/) <tooltip>Stream URL (192kbps) : https://stream.animeradio.de/animeradio.mp3</tooltip> :flag-germany:
 - [Rádio Animu](https://www.animu.com.br/) <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="http://yp.shoutcast.com/sbin/tunein-station.m3u?id=99545187" /> :flag-brazil:
 - [Radio Anime24](https://www.radioanime24.pl/) <tooltip>Stream URL (320kbps) : http://91.232.4.33:7028</tooltip> :flag-poland:
@@ -150,8 +150,8 @@ Everything Music Related in One Page!
 - [Instafest](https://www.instafest.app/)
 - [Jukebox](https://jukebox.today/)
 - [Songle](https://songle.jp/) <Badge text="Vocaloid"/>
-- [Soundiiz](https://soundiiz.com/) <Badge text="Trasnfer"/>
-- [TuneMyMusic](https://www.tunemymusic.com/) <Badge text="Trasnfer"/>
+- [Soundiiz](https://soundiiz.com/) <Badge text="Transfer"/>
+- [TuneMyMusic](https://www.tunemymusic.com/) <Badge text="Transfer"/>
 - [YADG](https://yadg.cc/) <Badge text="Tracklist"/>
 
 

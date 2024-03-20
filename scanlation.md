@@ -61,7 +61,7 @@ Guides and resources for scanlating manga.
 - [Japanese SFX](https://gist.github.com/UserUnknownFactor/093a2296c5a4d9ef7b404728ebde94a3)
 - [Manga Fonts Dictionary](https://mangafonts.carrd.co/)
 - [Scanlator School Fonts](https://drive.google.com/drive/folders/1hPV4o8fmxY2Ab9tXi84l0vVOUQEgFIbU)
-- [Creative Favrica's Fonts by /MiniSheep/](https://drive.google.com/drive/folders/1WLt0y72LtqpdGK-EhQP3DV3_T_vxSvaP)
+- [Creative Fabrica's Fonts by /MiniSheep/](https://drive.google.com/drive/folders/1WLt0y72LtqpdGK-EhQP3DV3_T_vxSvaP)
 - [CSP Retouch Library](https://docs.google.com/spreadsheets/d/1mqIqqSoddaZYu3NhCfIXJ9PzPbCLBOe1Y6mD_7s3we4/edit#gid=2085357266)
 - [DK Hanoded Fonts by Sr.Xlr11](https://drive.google.com/drive/folders/1TQTA1FGU_Ow6WDb3fv8-1mTRF_v_NzHh)
 
