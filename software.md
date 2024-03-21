@@ -33,7 +33,7 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
 - [Neko](https://github.com/nekomangaorg/Neko)
 - [Kotatsu](https://github.com/KotatsuApp/Kotatsu)  <Badge type="info" icon="i-octicon-globe" text="Web" link="https://kotatsu.app/" />
 
-<Button link="https://keiyoushi.github.io/extensions/" icon="i-fxemoji-lightbulb">By default, Mihon or other tachiyomi forks won't have any extensions. You have to sideload them.</Button>
+<Button link="https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo" icon="i-fxemoji-lightbulb">By default, Mihon or other tachiyomi forks won't have any extensions. You have to sideload them.</Button>
 
 ### Local
 - [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :glowing-star: <Badge type="warning" text="Freemium" />
