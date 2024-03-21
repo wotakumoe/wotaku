@@ -91,53 +91,54 @@ export default defineConfig({
     logo: { src: "/asset/inaidle.webp", width: 29, height: 24 },
     sidebar: [
       {
-        text: '<span class="i-twemoji:high-voltage"></span> Quick Start',
+        text: '<span class="i-lucide:zap"></span> Quick Start',
         link: "/qs",
       },
       {
-        text: '<span class="i-twemoji:left-speech-bubble"></span> FAQs',
+        text: '<span class="i-lucide:message-circle-question"></span> FAQs',
         link: "/faq",
       },
       {
-        text: '<span class="i-twemoji:globe-showing-asia-australia"></span> Websites',
+        text: '<span class="i-lucide:earth"></span> Websites',
         link: "/websites",
       },
       {
-        text: '<span class="i-twemoji:floppy-disk"></span> Software',
+        text: '<span class="i-lucide:box"></span> Software',
         link: "/software",
       },
       {
-        text: '<span class="i-twemoji:card-file-box"></span> Misc-sites',
+        text: '<span class="i-lucide:folder-open"></span> Misc-sites',
         link: "/misc",
       },
       {
-        text: '<span class="i-twemoji:puzzle-piece"></span> Add-ons',
+        text: '<span class="i-lucide:puzzle"></span> Add-ons',
         link: "/addons",
       },
       {
-        text: '<span class="i-twemoji:musical-note"></span> Music',
+        text: '<span class="i-lucide:music"></span> Music',
         link: "/music",
       },
       {
-        text: '<span class="i-twemoji:world-map"></span> Non-English',
+        text: '<span class="i-lucide:map"></span> Non-English',
         link: "/nonen",
       },
       {
-        text: '<span class="i-twemoji:no-one-under-eighteen"></span> NSFW',
+        text: '<span class="i-lucide:ban"></span> NSFW',
         link: "/nsfw",
       },
       {
-        text: '<span class="i-twemoji:flag-japan"></span> Everything Japan',
+        text: '<span class="i-uil:letter-japanese-a"></span> Everything Japan',
         link: "/jp",
       },
-      { text: '<span class="i-twemoji:package"></span> Merch', link: "/merch" },
+      { text: '<span class="i-lucide:package-2"></span> Merch',
+        link: "/merch" },
       {
-        text: '<span class="i-twemoji:page-with-curl"></span> Scanlation',
+        text: '<span class="i-lucide:scroll-text"></span> Scanlation',
         link: "/scanlation",
       },
 
       {
-        text: '<span class="i-twemoji:open-book"></span> Glossary',
+        text: '<span class="i-lucide:book-open"></span> Glossary',
         collapsed: true,
         items: [
           { text: "General", link: "/glossary/general" },
@@ -147,7 +148,7 @@ export default defineConfig({
         ],
       },
       {
-        text: '<span class="i-twemoji:file-folder"></span> Guides',
+        text: '<span class="i-lucide:book-key"></span> Guides',
         collapsed: true,
         items: [
           { text: "Digital Manga", link: "/guides/digim" },
@@ -162,15 +163,15 @@ export default defineConfig({
         ],
       },
       {
-        text: '<span class="i-twemoji:alembic"></span> Brewing',
+        text: '<span class="i-lucide:flask-round"></span> Brewing',
         link: "/brewing",
       },
       {
-        text: '<span class="i-twemoji:speaking-head"></span> Communities',
+        text: '<span class="i-lucide:messages-square"></span> Communities',
         link: "/comms",
       },
       {
-        text: '<span class="i-twemoji:sparkling-heart"></span> Credits',
+        text: '<span class="i-lucide:heart-handshake"></span> Credits',
         link: "/credits",
       },
     ],
