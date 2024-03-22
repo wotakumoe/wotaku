@@ -8,7 +8,7 @@ function toggleTooltip() {
 }
 
 withDefaults(defineProps<{ icon: string }>(), {
-  icon: "i-mdi-information-slab-circle-outline",
+  icon: "i-lucide-info",
 });
 </script>
 

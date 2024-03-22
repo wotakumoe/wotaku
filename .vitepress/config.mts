@@ -163,7 +163,7 @@ export default defineConfig({
         ],
       },
       {
-        text: '<span class="i-lucide:flask-round"></span> Brewing',
+        text: '<span class="i-lucide:flask-conical"></span> Brewing',
         link: "/brewing",
       },
       {

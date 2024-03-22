@@ -9,7 +9,7 @@ import Feedback from "./Modal.vue";
       <div class="card-title">Legend</div>
     </div>
     <Field icon="i-twemoji-glowing-star">Favorite</Field>
-    <Field icon="i-mdi-information-slab-circle-outline">More Info</Field>
+    <Field icon="i-lucide-info">More Info</Field>
     <div class="mb-2 mt-2 gap" />
     <Feedback />
   </div>
