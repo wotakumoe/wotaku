@@ -584,6 +584,30 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 - [Supermemo](https://super-memory.com/) <Badge type="warning" text="Trialware"/><Badge type="tip" text="Wiki" link="https://www.supermemo.wiki/en/home" />
 :::
 
+## Communities
+
+:::tabs
+
+== Discord
+- [Japanese Language Study Space](https://discord.gg/jlss)
+- [Marshall's Server](https://discord.com/invite/ejmrfwSYAH)
+- [NativShark](https://discord.com/invite/nativshark)
+- [Perdition](https://discord.gg/uK4HeGN)
+- [TheMoeWay](https://discord.gg/nhqjydaR8j) :glowing-star:
+- [ToKini Andy](https://discord.gg/WP7zYHC)
+- [JPDB](https://discord.gg/jWwVD7D2sZ)
+
+
+== Reddit
+- [AJATT](https://www.reddit.com/r/ajatt/)
+- [LearnJapanese](https://www.reddit.com/r/LearnJapanese/)
+
+
+== Others
+- [Japanese Language Stack Exchange](https://japanese.stackexchange.com/)
+- [Tatsumoto](https://tatsumoto.neocities.org/blog/join-our-community)
+
+:::
 
 <br>
 
@@ -761,28 +785,4 @@ Culture, History, Mythology & Festival. Everything about Japan!
     - [So, you wanna get into VSynth Covers](https://www.youtube.com/watch?v=ySledv37IrQ)
 - [The Foundations of Making Vocaloid - A Beginner's Guide Tutorial](https://www.youtube.com/watch?v=6cisVNaOJXY)
 
-:::
-
-![](/banner/comms.png)
-
-# Communities
-
-:::tabs
-
-== Language Study
-
-- [Japanese Language Study Space](https://discord.gg/jlss)
-- [Tatsumoto](https://tatsumoto.neocities.org/blog/join-our-community)
-- [Marshall's Server](https://discord.com/invite/ejmrfwSYAH)
-- [NativShark](https://discord.com/invite/nativshark)
-- [r/LearnJapanese](https://www.reddit.com/r/LearnJapanese/)
-- [TheMoeWay](https://discord.gg/nhqjydaR8j)
-- [ToKini Andy](https://discord.gg/WP7zYHC)
-- [JPDB](https://discord.gg/jWwVD7D2sZ)
-
-== Japan
-- [Japan Pics](https://www.reddit.com/r/japanpics/)
-- [Japan Life](https://www.reddit.com/r/japanlife/)
-- [Japan Travel](https://www.reddit.com/r/JapanTravel/)
-- [🍀/jp/](https://boards.4channel.org/jp/catalog) <Badge type="tip" text="Archive" link="https://warosu.org/jp/" /><Badge type="danger" text="18+" />
 :::
