@@ -27,7 +27,7 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
 == Manga
 
 ### Online
-- [Mihon](https://github.com/mihonapp/mihon) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://mihon.app/" />
+- [Mihon](https://github.com/mihonapp/mihon) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://mihon.app/" /> <Badge type="tip" text="Extensions" link="https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo" />
 - [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) :glowing-star:
 - [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY)
 - [Neko](https://github.com/nekomangaorg/Neko)
