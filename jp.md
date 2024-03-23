@@ -28,6 +28,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Animecards Site](https://animecards.site/)
 - [Japanese with Anime](https://www.japanesewithanime.com/)
 - [r/LearnJapanese Starter's Guide](https://www.reddit.com/r/LearnJapanese/wiki/index/startersguide/)
+- [Jazzy's Guide](https://rentry.co/jazzy180)
 - [Inhae's blog](https://notes.inhae.blog/learning-japanese/)
 
 
@@ -145,7 +146,6 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Resources for pitch accent](https://xythh.github.io/resources)
 - [Maggie Sensei's Conversation Guide](https://maggiesensei.com/)
 
-
 ### Youtube
 - [Japanese pitch-accent & pronunciation playlist](https://www.youtube.com/playlist?list=PLxMXdmBM9wPvsySiMoBzgh8d68xqKz1YP) `by Dogen`
 - [Strategies for Acquiring Pitch Accent in Japanese](https://www.youtube.com/watch?v=I-dRbTnLmBY) `by Darius Jahandarie`
@@ -157,19 +157,21 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Kotu](https://kotu.io/) `Needs Account`
 - [Migaku Pitch Trainer](https://pitch-demo.migaku.io/) <Badge type="warning" text="Freemium" />
 
-### Others
-- [Filmot](https://filmot.com/) <Badge type="info" text="Tools" />
-- [YouGlish](https://youglish.com/japanese) <Badge type="info" text="Tools" />
-- [Forvo](https://forvo.com/) <Badge type="info" text="Tools" />
-- [OJAD AI Reader](https://www.gavo.t.u-tokyo.ac.jp/ojad/phrasing/index) <Badge type="info" text="Tools" />
+### Tools
+- [Filmot](https://filmot.com/)
+- [YouGlish](https://youglish.com/japanese)
+- [Forvo](https://forvo.com/)
+- [OJAD AI Reader](https://www.gavo.t.u-tokyo.ac.jp/ojad/phrasing/index)
 
 == Resources
 
-- [Tatoeba](https://tatoeba.org/en/)
-- [Sentence Search](https://sentencesearch.neocities.org/)
+- [Hiragana](https://www.hiragana.jp/en/)
+- [Kanji Tools](https://kanji.sljfaq.org/)
 - [Massif](https://massif.la/ja)
 - [RTK Search](https://hochanh.github.io/rtk/)
+- [Sentence Search](https://sentencesearch.neocities.org/)
 - [Similar word finder](https://hinoki-project.org/natsume/)
+- [Tatoeba](https://tatoeba.org/en/)
 
 :::
 
@@ -467,13 +469,13 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 == Learning
 
 ### Android
-
 - [Japanese Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy)
 - [jidoujisho](https://github.com/lrorpilla/jidoujisho) :glowing-star:
 - [Kakugo](https://play.google.com/store/apps/details?id=org.kaqui)
 - [Kanji Garden](https://play.google.com/store/apps/details?id=is.ky.kanjigarden) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://kanji.garden/" />
 - [Kanji Dojo](https://play.google.com/store/apps/details?id=ua.syt0r.kanji)
 - [Kata](https://play.google.com/store/apps/details?id=im.dacer.kata)
+- [renshuu](https://play.google.com/store/apps/details?id=com.renshuu.renshuu_org) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://www.renshuu.org/" />
 - [Vocal Pitch Monitor](https://play.google.com/store/apps/details?id=com.tadaoyamaoka.vocalpitchmonitor)
 
 ### Apple
@@ -481,6 +483,7 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 - [Kana - Hiragana and Katakana](https://apps.apple.com/us/app/kana-hiragana-and-katakana/id1454200955)
 - [Kanji Garden](https://apps.apple.com/us/app/kanji-garden-japanese/id1338967114) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://kanji.garden/" />
 - [Real Kana](https://apps.apple.com/us/app/real-kana/id343807473)
+- [renshuu](https://apps.apple.com/us/app/renshuu-japanese-learning/id1542730063) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://www.renshuu.org/" />
 
 == Reader
 
@@ -566,6 +569,7 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 - [Subtitle Edit](https://www.nikse.dk/subtitleedit)
 - [subs2srs](https://subs2srs.sourceforge.net/)
 - [FFsubsync](https://github.com/smacke/ffsubsync)
+- [SubPlease](https://github.com/kanjieater/SubPlease)
 - [Subtitle Character Counter](https://cademcniven.com/subtitleCharacterCounter.html)
 - [Sub transition](https://github.com/Ajatt-Tools/sub-transition)
 - [subs2cia](https://github.com/dxing97/subs2cia)
@@ -581,14 +585,18 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 - [Textractor websocket](https://github.com/kuroahna/textractor_websocket)
 
 ### Others
+- [ComicEater](https://github.com/kanjieater/ComicEater)
 - [Supermemo](https://super-memory.com/) <Badge type="warning" text="Trialware"/><Badge type="tip" text="Wiki" link="https://www.supermemo.wiki/en/home" />
+
 :::
 
-## Communities
+## Others
 
 :::tabs
 
-== Discord
+== Communities 
+
+### Discord
 - [Japanese Language Study Space](https://discord.gg/jlss)
 - [Marshall's Server](https://discord.com/invite/ejmrfwSYAH)
 - [NativShark](https://discord.com/invite/nativshark)
@@ -597,15 +605,22 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 - [ToKini Andy](https://discord.gg/WP7zYHC)
 - [JPDB](https://discord.gg/jWwVD7D2sZ)
 
-
-== Reddit
+### Reddit
 - [AJATT](https://www.reddit.com/r/ajatt/)
 - [LearnJapanese](https://www.reddit.com/r/LearnJapanese/)
 
-
-== Others
+### Others
 - [Japanese Language Stack Exchange](https://japanese.stackexchange.com/)
 - [Tatsumoto](https://tatsumoto.neocities.org/blog/join-our-community)
+
+== Course Sites
+
+- [Bunpro](https://bunpro.jp/) `Grammar`
+- [MaruMori](https://marumori.io/) `General`
+- [Migaku](https://migaku.com/)
+- [NativShark](https://www.nativshark.com/) `General`
+- [WaniKani](https://www.wanikani.com/) `Kanji`
+
 
 :::
 
