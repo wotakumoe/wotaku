@@ -55,7 +55,6 @@ Online resources for anime, manga, novels and more.
 - [Flugel Anime](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9mbHVnZWwtYW5pbWUuY29tLw) + :flag-spain: <Badge type="info" text="Direct" /><Badge type="info" text="no ad" />
 - [Judas](https://rentry.org/judas-ddl) <Badge type="info" text="GDrive" /><Badge type="info" text="no ad" />
 - [hi10anime](https://hi10anime.com/) <Badge type="info" text="Direct" /><Badge type="info" text="ad" />
-- [Anime Senpai](https://www.animesenpai4u.com/) <Badge type="info" text="GDrive" /><Badge type="info" text="Mega" /><Badge type="info" text="no ad" />
 - [Kayo anime](https://kayoanime.com/) <Badge type="info" text="GDrive" /><Badge type="info" text="no ad" />
 - [Chauthanh](https://chauthanh.info/) <Badge type="info" text="Direct" /><Badge type="info" text="no ad" />
 - [RIP Crabby Anime](https://ripcrabbyanime.com/) <Badge type="info" text="GDrive" /><Badge type="info" text="no ad" />

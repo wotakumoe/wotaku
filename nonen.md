@@ -361,7 +361,6 @@ Otaku resources for other languages/regions.
 - [Nana Subs](https://nanasubs.com/)
 - [Okami-subs](https://okami-subs.pl/)
 - [Oglądaj Anime](https://ogladajanime.pl/)
-- [Wbijam](https://wbijam.pl/)
 
 
 ## Portuguese
