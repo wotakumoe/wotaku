@@ -15,7 +15,7 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
 
 == Anime
 
-- [Aniyomi](https://github.com/aniyomiorg/aniyomi)
+- [Aniyomi](https://github.com/aniyomiorg/aniyomi) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://aniyomi.org/" />
 - [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) :glowing-star:
 - [Cloudstream](https://github.com/recloudstream/cloudstream) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://cloudstream.on.fleek.co/" />
 - [Dantotsu](https://github.com/rebelonion/Dantotsu#dantotsu){target="_blank"} <Badge type="info" icon="i-octicon-globe" text="Web" link="https://dantotsu.app/" /> 
@@ -69,8 +69,8 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
 - [Miru](https://github.com/ThaUnknown/miru/) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-globe" text="Web" link="https://miru.watch/" /> <Badge type="tip" text="Torrent" />
 - [WebTorrent](https://github.com/webtorrent/webtorrent) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-globe" text="Web" link="https://webtorrent.io/" /> <Badge type="tip" text="Torrent" />
 - [Anikki](https://github.com/Kylart/Anikki) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="tip" text="Torrent" /><Badge type="tip" text="Online" />
-- [Layendanimator](https://github.com/Layendan/Layendanimator) <Badge type="tip" text="Online" />
-- [Totoro](https://github.com/insomniachi/Totoro) <Badge type="tip" text="Torrent" /><Badge type="tip" text="Online" />
+- [Layendanimator](https://github.com/Layendan/Layendanimator) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="tip" text="Online" />
+- [Totoro](https://github.com/insomniachi/Totoro) :ic-baseline-window: <Badge type="tip" text="Torrent" /><Badge type="tip" text="Online" />
 
 == Manga
 
