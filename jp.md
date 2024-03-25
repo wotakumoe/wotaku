@@ -314,12 +314,15 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 - [Easy Japanese](https://easyjapanese.net/)
 - [e-douwa](https://www.e-douwa.com/)
 - [Satori Reader](https://www.satorireader.com/)
+- [Tadoku](https://tadoku.org/japanese/)
 - [Watanoc](https://watanoc.com/)
 - [Yomujp](https://yomujp.com/)
 
 
 == Manga
+
 ### Reader
+- [Bilingual Manga](https://bilingualmanga.org/) :glowing-star: <Badge type="tip" text="Backup" link="https://github.com/B-M-dev/Bilingual_Manga-home-" />
 - [Hachiraw](https://hachiraw.net/) <Badge type="danger" text="18+" />
 - [KL Manga](https://klmanga.com/) <Badge type="danger" text="18+" />
 - [Mangaraw Japan](https://mangaraw.to/) <Badge type="danger" text="18+" />
