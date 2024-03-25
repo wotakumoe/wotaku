@@ -42,12 +42,6 @@ Cool prospective projects under works worth looking into, or maybe contributing 
 - [Fukayo](https://github.com/JiPaix/Fukayo/)
 - [Special Eureka](https://github.com/tonymushah/special-eureka)
 
-### Anime
-- [Anikki](https://github.com/Kylart/Anikki)
-- [Keroro](https://github.com/hotsno/keroro)
-- [Layendanimator](https://github.com/Layendan/Layendanimator)
-- [Totoro](https://github.com/insomniachi/Totoro)
-
 
 == macOS
 
