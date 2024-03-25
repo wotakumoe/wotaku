@@ -18,6 +18,7 @@ Everything Music Related in One Page!
 - [Karaoke Mugen](https://kara.moe)
 - [Anisong Database](https://anisongdb.com/) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" /><Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/xSardine/AMQ-Artists-DB" />
 - [Squidify](https://www.squidify.org/) <Badge type="tip" text="Guide" link="/guides/squidify" />
+- [Animusic](https://animusic.moe/) 
 - [One Piece Tracklist](http://onepiecetracklist.com/)
 
 == Doujin
@@ -166,6 +167,7 @@ Everything Music Related in One Page!
 - [Spotify Dedup](https://spotify-dedup.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/JMPerez/spotify-dedup/" />
 - [Spotify Playlist Archive](https://spotifyplaylistarchive.com/)
 - [Spotify Release List](https://spotifyreleaselist.netlify.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/jakubito/spotify-release-list" />
+- [Spotlistr](https://www.spotlistr.com/)
 - [Stats for Spotify](https://www.statsforspotify.com/)
 - [Volt.fm](https://volt.fm/) :glowing-star:
 
