@@ -111,22 +111,33 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
 :::tabs
 == Anime
 - [9Animator](https://github.com/SuperMarcus/NineAnimator)
-- [Chouten beta](https://testflight.apple.com/join/Cg1rAPB8)
+- [Chouten beta](https://testflight.apple.com/join/Cg1rAPB8) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/GJGMJRPJ5j" />
 - [Soshiki](https://github.com/soshikimoe/soshiki-ios)
-- [Mochi](https://mochi.errorerrorerror.dev/)
 
 == Manga
 
 ### Online
 - [Paperback](https://github.com/Paperback-iOS/app)
 - [Aidoku](https://github.com/Aidoku/Aidoku)
+- [Suwatte](https://suwatte.mantton.com/)  <Badge type="tip" text="Sources" link="https://rentry.co/suwatte" />
 - [Tachimanga](https://tachimanga.github.io/)
 - [Hanami](https://github.com/oolxg/Hanami)
-
 
 ### Local
 - [YACReader](https://apps.apple.com/app/id635717885) :glowing-star:
 - [SideBooks](https://apps.apple.com/us/app/sidebooks/id409777225)
+
+:::
+
+::: tip "iOS app not working. What should i do?"
+
+![](https://media1.tenor.com/m/QpBNOvlNfPQAAAAC/nichijou-cope.gif)
+
+:::center
+
+or buy an Android phone :ic-twotone-thumb-up:
+
+<br>
 
 :::
 
