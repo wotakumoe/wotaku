@@ -19,6 +19,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Anime Planet](https://www.anime-planet.com/)
 - [AniSearch](https://www.anisearch.com/)
 - [Kitsu](https://kitsu.io/)
+- [Kurozora](https://kurozora.app/)
 
 == Anime
 - [aniDB](https://anidb.net/) :glowing-star:

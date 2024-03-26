@@ -164,10 +164,6 @@ export default defineConfig({
         ],
       },
       {
-        text: '<span class="i-lucide:flask-conical"></span> Brewing',
-        link: "/brewing",
-      },
-      {
         text: '<span class="i-lucide:messages-square"></span> Communities',
         link: "/comms",
       },
@@ -192,7 +188,6 @@ export default defineConfig({
           { text: "Everything Japan", link: "/jp" },
           { text: "Merch", link: "/merch" },
           { text: "Scanlation", link: "/scanlation" },
-          { text: "Brewing", link: "/brewing" },
           { text: "Communities", link: "/comms" },
         ],
       },
