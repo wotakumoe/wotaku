@@ -157,22 +157,23 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Kotu](https://kotu.io/) `Needs Account`
 - [Migaku Pitch Trainer](https://pitch-demo.migaku.io/) <Badge type="warning" text="Freemium" />
 
-### Tools
-- [Filmot](https://filmot.com/)
-- [YouGlish](https://youglish.com/japanese)
-- [Forvo](https://forvo.com/)
-- [OJAD AI Reader](https://www.gavo.t.u-tokyo.ac.jp/ojad/phrasing/index)
-
 == Resources
 
-- [Hiragana](https://www.hiragana.jp/en/)
-- [Kanji Tools](https://kanji.sljfaq.org/)
-- [Massif](https://massif.la/ja)
-- [RTK Search](https://hochanh.github.io/rtk/)
-- [Sentence Search](https://sentencesearch.neocities.org/)
-- [Similar word finder](https://hinoki-project.org/natsume/)
-- [Tatoeba](https://tatoeba.org/en/)
+### Search Pronunciation through Subtitles
+- [Immersion Kit](https://www.immersionkit.com/) :glowing-star: `Japanese Media`
+- [YouGlish](https://youglish.com/japanese) `Youtube`
+- [Filmot](https://filmot.com/) `Youtube`
+- [Sentence Search](https://sentencesearch.neocities.org/) `Book / Deck / Web`
 
+
+### Misc
+- [Hinoki Project](https://hinoki-project.org/)
+- [Hiragana](https://www.hiragana.jp/en/) `Add Hiragana over Kanji`
+- [Kanji Tools](https://kanji.sljfaq.org/)
+- [Massif](https://massif.la/ja) `Search throuh Book / WN / Web`
+- [OJAD AI Reader](https://www.gavo.t.u-tokyo.ac.jp/ojad/phrasing/index) `Generate Pitch Accent`
+- [RTK Search](https://hochanh.github.io/rtk/)
+- [Tatoeba](https://tatoeba.org/en/) `Crowd-sourced Sentence`
 :::
 
 ::: tip **Downloading books**
@@ -619,6 +620,7 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 == Course Sites
 
 - [Bunpro](https://bunpro.jp/) `Grammar`
+- [Forvo](https://forvo.com/)
 - [MaruMori](https://marumori.io/) `General`
 - [Migaku](https://migaku.com/)
 - [NativShark](https://www.nativshark.com/) `General`
