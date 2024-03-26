@@ -98,7 +98,8 @@ Guides and resources for scanlating manga.
 == General
 - Adobe Software <Badge type="tip" text="Esoterica" link="https://rentry.org/adobesoftware" /><Badge type="tip" text="GenP" link="https://genpguides.github.io/" /><Badge type="tip" text="Anna" link="https://docs.google.com/document/d/17PheyyF9dm7YYjaTZ9JAAY3hhdeIQ7sJ4sylTG9_6xI/edit" /><Badge type="tip" text="macOS" link="https://telegra.ph/MacOS-Adobe-CC-Guide-11-29" />
 - [Clip Studio Paint EX](https://www.clipstudio.net/en/function_ex/)
-- [MediaBang Paint](https://medibangpaint.com/en/)
+- [MediBang Paint](https://medibangpaint.com/en/)
+- [Krita](https://krita.org/en/)
 - [GIMP](https://www.gimp.org/)
 
 == Cleaning
