@@ -17,8 +17,8 @@ Install [**uBlock Origin**](https://ublockorigin.com/) in your browser and you'r
 [**NextDNS**](https://nextdns.io/) should cover everything for system-wide ads & trackers. You can also try [**AhaDNS**](https://ahadns.com/).
 :::
 
-:::details Do I need to use VPN while downloading?
-The necessity of using a VPN depends on the method of downloading. For direct downloads, a VPN is typically unnecessary. However, if you're engaging in peer-to-peer (P2P) activities such as torrenting, it's advisable to employ a VPN for enhanced security and privacy. Additionally, the legal ramifications in your area play a crucial role; if the consequences are lenient, you might opt to forgo using a VPN altogether. We have recommended some in [**quick start**](/qs.md#essentials).
+:::details Do I need to use VPN while direct downloading?
+The necessity of using a VPN depends on the method of downloading. For direct downloads, a VPN is typically unnecessary.
 :::
 
 :::details Why's the download so slow?
@@ -31,7 +31,6 @@ We have explained meanings of a lot a weeb related terms in our glossary section
 - [**Anime glossary**](/glossary/anime.md) for only anime specific terms
 - [**Manga glossary**](/glossary/manga.md) for manga specific terms
 
-For more general piracy related terms, you can check out [FMHY glossary](https://rentry.org/The-Piracy-Glossary). 
 :::
 
 :::details Can I track my anime/manga progress on websites?
@@ -56,6 +55,56 @@ IRC (Internet Relay Chat) is a really old messaging protocol. It uses client and
 ### Usenet
 Usenet is a subscription-based service. You can download files using `.nzb` file (which is like a `.torrent`) and a usenet client. Even though it's really old, it's really convenient.
 :::
+
+
+## Torrent
+
+:::details What does X term mean?
+
+Check out our [torrent glossary](/glossary/torrent), you should find all important terms there.
+
+:::
+
+:::details What torrent client should I use?
+
+- **Android**: [LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent)
+- **iOS**: [iTorrent](https://github.com/XITRIX/iTorrent)
+- **Windows / Linux / MacOS**: [qBittorrent](https://www.qbittorrent.org/)
+
+:::
+
+:::details Can I stream torrent files?
+You *can* stream torrent files (by download the files sequentially). You can stream torrent files easily using [**Miru**](https://miru.watch/) & [**WebTorrent**](https://webtorrent.io/). You can stream in [**qBittorrent**](https://www.qbittorrent.org/) too. For that, before you start downloading the file, check "**Download in sequential order**" in torrent settings at left hand side.
+
+:::
+
+:::details Do I need VPN while torrenting?
+
+The distribution (here seeding / uploading) of pireated content is illegal. In peer-to-peer (P2P) connections such as torrenting, it exposes your IP to everyone connected. So, it's advisable to use a VPN which will mask your IP. But if your country / ISP doesn't care about pirating stuff, you can skip VPN. To know whether your country / ISP cares about it, ask in your local forum.
+
+:::
+
+:::details What VPN should I use? Free or Paid?
+
+It has various variables. The free VPNs are very limited such as untrusted owner, data cap, very few servers or very slow speed. Also, it's not like, all the paid VPNs are great. The ownership of the VPN company, the transparency or how they handle government bodies matter a lot.
+
+### Paid VPNs
+- [IVPN](https://www.ivpn.net/)
+- [Proton VPN](https://protonvpn.com/)
+- [Windscribe](https://windscribe.com/) <Badge type="tip" text="Freemium" />
+- [AirVPN](https://airvpn.org/)
+
+### Free VPNs
+- [WARP](https://one.one.one.one/) <Badge type="tip" text="WireGuard" link="https://rentry.co/foss-warp" /><Badge type="tip" text="Generate" link="https://github.com/nxvvvv/warp-plus" />
+- [RiseupVPN](https://riseup.net/en/vpn)
+
+<Button link="https://www.techlore.tech/vpn" icon="i-fxemoji-lightbulb">Go through Techlores VPNs comparison for more details</Button>
+
+::: danger Never use Cracked / Modded VPN {open}
+You should never use cracked or modded VPN cause all of your traffic will go through that VPN. So using a compromised VPN is extremely risky.
+
+:::
+
 
 ## Manga
 
