@@ -145,6 +145,7 @@ export default defineConfig({
           { text: "Anime", link: "/glossary/anime" },
           { text: "Manga", link: "/glossary/manga" },
           { text: "NSFW", link: "/glossary/nsfw" },
+          { text: "Torrent", link: "/glossary/torrent" },
         ],
       },
       {
@@ -202,6 +203,7 @@ export default defineConfig({
           { text: "Anime", link: "/glossary/anime" },
           { text: "Manga", link: "/glossary/manga" },
           { text: "NSFW", link: "/glossary/nsfw" },
+          { text: "Torrent", link: "/glossary/torrent" },
         ],
       },
       {
