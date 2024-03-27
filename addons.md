@@ -75,7 +75,7 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 - [More Apps for AniList](https://AniList.co/apps) :mdi-android::ic-baseline-apple:
 
 ### MyAnimeList
-- DailyAL <Badge type="tip" icon="i-mdi-android" text="Android" link="https://play.google.com/store/apps/details?id=com.teen.dailyanimelist&hl=en&gl=US" />
+- [DailyAL](https://github.com/JICA98/DailyAL) :mdi-android:
 - [MoeList](https://github.com/axiel7/MoeList) :mdi-android:<Badge type="info" icon="i-octicon-globe" text="Web" link="https://moelist.net/" />
 
 ### Others
