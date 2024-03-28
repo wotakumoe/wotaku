@@ -159,12 +159,12 @@ Interested in learning the japanese language? Here you can find resources to aid
 
 == Resources
 
-### Search Pronunciation through Subtitles
+### Pronunciation
 - [Immersion Kit](https://www.immersionkit.com/) :glowing-star: `Japanese Media`
 - [YouGlish](https://youglish.com/japanese) `Youtube`
 - [Filmot](https://filmot.com/) `Youtube`
+- [Forvo](https://forvo.com/languages/ja/) `Native Speaker`
 - [Sentence Search](https://sentencesearch.neocities.org/) `Book / Deck / Web`
-
 
 ### Misc
 - [Hinoki Project](https://hinoki-project.org/)
@@ -174,6 +174,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [OJAD AI Reader](https://www.gavo.t.u-tokyo.ac.jp/ojad/phrasing/index) `Generate Pitch Accent`
 - [RTK Search](https://hochanh.github.io/rtk/)
 - [Tatoeba](https://tatoeba.org/en/) `Crowd-sourced Sentence`
+
 :::
 
 ::: tip **Downloading books**
@@ -410,9 +411,6 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 - [AnkiDroid Flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki) :mdi-android:
 - [AnkiMobile Flashcards](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) :ic-baseline-apple: <Badge type="warning" text="Paid"/>
 - [Ankiconnect Android](https://github.com/KamWithK/AnkiconnectAndroid) :mdi-android:
-- [FSRS4Anki](https://github.com/open-spaced-repetition/fsrs4anki) <Badge type="tip" icon="i-mdi-puzzle" text="Addon"/>
-- [Kotu](https://kotu.io/) :mdi-earth:<Badge type="tip" icon="i-mdi-puzzle" text="Addon"/>
-- [Kanji Grid](https://github.com/Kuuuube/kanjigrid) <Badge type="tip" icon="i-mdi-puzzle" text="Addon"/>
 
 ### Guide
 - [Anki Manual](https://docs.ankiweb.net/)
@@ -422,6 +420,18 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 - [vladsperspective](https://vladsperspective.wordpress.com/2020/07/15/using-anime-decks-subs2srs-mediafire-premade-decks/)
 - [Optimizing Anki For Language Learning](https://cademcniven.com/posts/20210410/)
 - [Mokuro's Guide to mining manga](https://mokuro.moe/)
+
+== Addons
+
+- [Advanced Browser](https://ankiweb.net/shared/info/874215009)
+- [Forvo Pronunciation Downloader fully automatic](https://ankiweb.net/shared/info/1784714388)
+- [FSRS4Anki](https://github.com/open-spaced-repetition/fsrs4anki)
+- [Japanese Support](https://ankiweb.net/shared/info/3918629684)
+- [Kanji Grid](https://github.com/Kuuuube/kanjigrid)
+- [Kotu](https://kotu.io/) :mdi-earth:
+- [MorphMan](https://ankiweb.net/shared/info/900801631)  <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/kaegi/MorphMan" />
+- [Review Heatmap](https://ankiweb.net/shared/info/1771074083)
+- [Yomichan Forvo Server](https://ankiweb.net/shared/info/580654285) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/jamesnicolas/yomichan-forvo-server" />
 
 == Card templates
 - [jp-mining-note](https://aquafina-water-bottle.github.io/jp-mining-note/)
