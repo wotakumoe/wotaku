@@ -262,7 +262,6 @@ I have tried to add all the well-known scanlators for manhwa and manhua, but for
 - [Moriya Shrine](https://moriyashrine.org/)  <Badge type="info" text="Touhou" />
 - [Doujin Style](https://doujinstyle.com/) <Badge type="info" text="Doujin" />
 
-<Button icon="i-fxemoji-noentrysign">All listed sites have NSFW content unless specified otherwise</Button>
 
 == ROM
 
@@ -353,6 +352,68 @@ I have tried to add all the well-known scanlators for manhwa and manhua, but for
 <Button link="https://rentry.org/pgames#untrusted-sites" icon="i-fxemoji-noentrysign"> List of Untrusted Game Downloading Websites</Button>
 
 
+![](/banner/toku.png)
+
+## Tokusatsu
+
+:::tabs
+
+== Media
+
+### Streaming
+
+- [Tokuzilla](https://tokuzilla.net/) :glowing-star: <Badge type="tip" text="Backup" link="https://tokuzl.net/" />
+- [Zokaj](https://zokaj.com/)
+- [Dramacool](https://dramacool.pa/)
+- [KissAsian](https://kissasian.mx/)
+- [Power Rangers Official](https://www.youtube.com/@PowerRangersOfficial/)
+- [Legal Tokusatsu Streaming List](https://otakulogy.github.io/tokusatsu-streaming/)
+
+### Download
+- [Zekozimo](https://zekozimo.blogspot.com/) :glowing-star: <Badge type="tip" text="General"  />
+- [KRDL](https://krdl.moe/) :glowing-star:
+- [Nyaa](https://nyaa.si/)
+- [AniDex](https://anidex.info/)
+- [Metallic Subs](https://metallicsubs.wordpress.com/)
+- [Megabeast Empire](https://megabeastempire.wordpress.com/)
+
+== Wikis
+
+- [Tokupedia](https://tokusatsu.fandom.com/wiki/Main_Page) <Badge type="tip" text="Hub"  />
+- [GARO Wiki](https://garo.fandom.com/wiki/GARO_Wiki)
+- [Kamen Rider Wiki](https://kamenrider.fandom.com/wiki/Kamen_Rider_Wiki)
+- [King Kong Wiki](https://kingkong.fandom.com/wiki/King_Kong_Wiki)
+- [Metal Heroes Wiki](https://metalheroes.fandom.com/wiki/Metal_Heroes_Wiki)
+- [RangerWiki](https://powerrangers.fandom.com/wiki/RangerWiki)
+- [Ultraman Wiki](https://ultra.fandom.com/wiki/Ultraman_Wiki)
+- [Wikizilla](https://wikizilla.org/wiki/Main_Page)
+
+== Portals
+
+- [Tokunation](https://news.tokunation.com/)
+- [The Tokusatsu Network](https://tokusatsunetwork.com/)
+- [Tsuburaya](https://tsuburaya-prod.com/)
+- [JEFusion](https://www.jefusion.com/) <Badge type="danger" icon="i-fxemoji-warningsign" text="Spoiler" /> 
+- [Morphin Legacy](https://morphinlegacy.com/)
+- [Henshin Grid](https://henshingrid.blogspot.com/)
+- [My shiny Toy Robots](https://www.myshinytoyrobots.com/)
+
+
+== Communities
+
+- [r/Tokusatsu](https://reddit.com/r/Tokusatsu/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/Rf2dDaJSp3" />
+- [/r/GARO](https://reddit.com/r/GARO/)
+- [/r/Godzilla](https://reddit.com/r/Godzilla/)
+- [/r/Kaiju](https://reddit.com/r/Kaiju/)
+- [/r/KamenRider](https://reddit.com/r/KamenRider/)
+- [/r/PowerRangers](https://reddit.com/r/PowerRangers/)
+- [/r/SuperSentai](https://reddit.com/r/SuperSentai/)
+- [/r/Ultraman](https://reddit.com/r/Ultraman/)
+
+:::
+
+
+
 ![](/banner/pt.png)
 ## Private Trackers
 
@@ -385,7 +446,7 @@ I have tried to add all the well-known scanlators for manhwa and manhua, but for
 - [jptvts](https://jptvts.us/)
 
 ### NSFW
-- [ExoticAZ](https://exoticaz.to/)
+- [ExoticaZ](https://exoticaz.to/) <Badge type="tip" icon="i-ic-outline-discord" text="Waitlist" link="https://discord.gg/pfmAegk8bD" />
 - [Empornium](https://www.empornium.is/)
 
 :::
