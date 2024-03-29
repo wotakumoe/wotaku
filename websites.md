@@ -402,13 +402,13 @@ I have tried to add all the well-known scanlators for manhwa and manhua, but for
 == Communities
 
 - [r/Tokusatsu](https://reddit.com/r/Tokusatsu/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/Rf2dDaJSp3" />
-- [/r/GARO](https://reddit.com/r/GARO/)
-- [/r/Godzilla](https://reddit.com/r/Godzilla/)
-- [/r/Kaiju](https://reddit.com/r/Kaiju/)
-- [/r/KamenRider](https://reddit.com/r/KamenRider/)
-- [/r/PowerRangers](https://reddit.com/r/PowerRangers/)
-- [/r/SuperSentai](https://reddit.com/r/SuperSentai/)
-- [/r/Ultraman](https://reddit.com/r/Ultraman/)
+- [r/GARO](https://reddit.com/r/GARO/)
+- [r/Godzilla](https://reddit.com/r/Godzilla/)
+- [r/Kaiju](https://reddit.com/r/Kaiju/)
+- [r/KamenRider](https://reddit.com/r/KamenRider/)
+- [r/PowerRangers](https://reddit.com/r/PowerRangers/)
+- [r/SuperSentai](https://reddit.com/r/SuperSentai/)
+- [r/Ultraman](https://reddit.com/r/Ultraman/)
 
 :::
 
