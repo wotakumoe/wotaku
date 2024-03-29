@@ -23,18 +23,18 @@ export default defineConfig({
   appearance: "dark",
   titleTemplate: ":title • Wotaku.moe by Duck",
   head: [
-    ["meta", { name: "theme-color", content: "#a594f9" }],
+    ["meta", { name: "theme-color", content: "#56b4fc" }],
     ["meta", { name: "og:type", content: "website" }],
     ["meta", { name: "og:locale", content: "en" }],
     ["link", { rel: "icon", href: "/asset/podarufav.png" }],
     // PWA
     ["link", { rel: "icon", href: "/asset/podarufav.png", type: "image/svg+xml" }],
     ["link", { rel: "alternate icon", href: "/asset/podarufav.png" }],
-    ["link", { rel: "mask-icon", href: "/asset/podarufav.png", color: "#a594f9" }],
+    ["link", { rel: "mask-icon", href: "/asset/podarufav.png", color: "#56b4fc" }],
     // prettier-ignore
     [
 			"meta",
-			{ name: "keywords", content: "Anime, Manga, Otaku, Hentai, Weeb" },
+			{ name: "keywords", content: "Anime Piracy, Manga Piracy, VTuber, Hentai, Japan, Weeb, Otaku" },
 		],
     [
       "link",

@@ -33,11 +33,11 @@ const fonts: SatoriOptions["fonts"] = [
 ];
 
 export default defineSatoriConfig({
-  width: 1098,
-  height: 530,
+  width: 1400,
+  height: 750,
   fonts,
   props: {
-    title: "Title",
+    title: "Very Long Title so that I Can See How Shit Looks",
     description:
       "Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.",
     dir: "/j",

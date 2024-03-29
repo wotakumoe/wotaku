@@ -77,8 +77,8 @@ async function generateImage({ page, template, outDir, fonts }: GenerateImagesOp
   const { frontmatter, url } = page;
 
   const options: SatoriOptions = {
-    width: 1098,
-    height: 530,
+    width: 1400,
+    height: 750,
     fonts,
     props: {
       title:
