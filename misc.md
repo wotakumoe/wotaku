@@ -1,7 +1,7 @@
 ---
 title: Misc-sites
 description: Various sites for info, guide & tools
-customDescription: Dive into the ultimate guide to otaku culture. Discover a mix of info, guides, and tools for anime, manga, illustrations, and Japanese culture. 
+customDescription: Discover a mix of info, guides, and tools for anime, manga & illustrations.
 ---
 # Misc-sites
 Welcome to the misc-sites page, home to various communities, guides, and tools for your otaku needs and interests.

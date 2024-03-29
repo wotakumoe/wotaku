@@ -1,6 +1,6 @@
 ---
-title: NSFW
-customDescription: A comprehensive list of NSFW terms commonly used in hentai, including their meanings and explanations. Learn about Ahegao, Bukkake, Yaoi, Yuri, and more.
+title: NSFW Glossary
+customDescription: Why not learn some words while reading or watching? Can help while searching.
 ---
 # NSFW
 Want to learn what those elusive tags on hentai sites mean? Then this page is for you!

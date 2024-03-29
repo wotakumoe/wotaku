@@ -34,7 +34,7 @@ export default defineConfig({
     // prettier-ignore
     [
 			"meta",
-			{ name: "keywords", content: "Anime Piracy, Manga Piracy, VTuber, Hentai, Japan, Weeb, Otaku" },
+			{ name: "keywords", content: "Anime, Anime Piracy, Manga, Manga Piracy, VTuber, Hentai, JPOP, Music, Japan, Learning Japanese, Weeb, Otaku" },
 		],
     [
       "link",

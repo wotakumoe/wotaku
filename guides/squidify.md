@@ -1,6 +1,6 @@
 ---
 title: Squidify
-customDescription: Stream Anime, Video Game, Movie & TV Soundtracks on Squidify. Access from any device, compatible with Subsonic/Airsonic API. Enjoy your favorite music!
+customDescription: Guide on how to using squidify on various devices. 
 ---
 
 ![](/thumb/squidify.webp)

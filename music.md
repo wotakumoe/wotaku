@@ -1,7 +1,7 @@
 ---
 title: Music
 description: Wotaku Music Megathread!
-customDescription: Wotaku Music Megathread!
+customDescription: Wotaku Music Megathread! Everything Music Related in One Page.
 ---
 
 # Music

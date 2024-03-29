@@ -1,6 +1,6 @@
 ---
 title: IRC
-customDescription: Learn how to use IRC and XDCC for real-time messaging and file sharing. Install an IRC client, search for XDCC packlists, and download files through direct client-to-client connections.
+customDescription: Basic guide on how to use IRC.
 ---
 
 ![](/thumb/irc.webp)

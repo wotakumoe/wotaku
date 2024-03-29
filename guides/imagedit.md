@@ -1,6 +1,6 @@
 ---
 title: Manga Image Editing
-customDescription: Enhance manga images with denoising, grayscale, leveling, and optimization techniques. Improve visibility and attract more readers with professional image editing.
+customDescription: Image Magick guide for Grayscaling, Leveling, and Optimizing
 ---
 # Manga Image Editing
 A simple to understand guide covering the most important page edits.

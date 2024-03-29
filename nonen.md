@@ -1,7 +1,7 @@
 ---
 title: Non-English
 description: Otaku resources for other regions
-customDescription: Explore Otaku resources for non-English regions. Discover anime, manga, and other related content in multiple languages including Arabic, Balkan, Bangla, Chinese, French, German, Greek, Indian, Indonesian, Italian, Japanese, Polish, Portuguese, Romanian, Russian, and more.
+customDescription: Discover anime, manga, and other related content for all the languages.
 ---
 # Non-English
 Otaku resources for other languages/regions.

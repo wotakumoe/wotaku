@@ -22,6 +22,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 
 == Art 
 
+- Embed art by [夕城](https://twitter.com/yukiyasa1/status/1770385782379020322)
 - AO-chan by [3ton](https://www.pixiv.net/en/artworks/110412826)
 - Ninomae Ina'nis's Padoru by [how-dee](https://www.reddit.com/r/Padoru/comments/iu6jvx/ninomae_inanis_hololive/)
 - Ninomae Ina'nis's pixel art by [Holocure team](https://holocure.fandom.com/wiki/Ninomae_Ina%27nis)

@@ -1,6 +1,6 @@
 ---
-title: General
-customDescription: Elevate your otaku knowledge with the Wotaku Glossary. Explore terms, genres, and more to become a true anime and manga aficionado!
+title: General Glossary
+customDescription: Weeb terms that you will see everywhere!
 ---
 # Wotaku Glossary
 Want to increase your otaku knowledge? Look for no further! Presenting the Glossary section.

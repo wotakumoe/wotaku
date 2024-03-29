@@ -1,5 +1,5 @@
 ---
-title: Torrent
+title: Torrent Glossary
 customDescription: All the basic torrent related terms
 ---
 

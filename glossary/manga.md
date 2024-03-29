@@ -1,6 +1,6 @@
 ---
-title: Manga
-customDescription: Unlock the world of manga with the Manga Glossary. Explore key terms, scanlation insights, and discover the magic of webcomics and more!
+title: Manga Glossary
+customDescription: Manga related terms that you have to know!
 outline: [2,3]
 ---
 # Manga Glossary

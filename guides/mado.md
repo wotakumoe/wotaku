@@ -1,6 +1,6 @@
 ---
-title: Madokami
-customDescription: Join Madokami through IRC for manga, novels, and artbooks. Use Tachiyomi or FMD2/JDL2 for batch downloading. Enjoy reading and downloading!
+title: Madokami Joining Guide
+customDescription: The Joining guide for Madokami through IRC. Also how to download stuff fromm Madokami.
 ---
 
 ![](/thumb/mado.webp)

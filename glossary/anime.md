@@ -1,6 +1,6 @@
 ---
-title: Anime
-customDescription: Discover the Anime Glossary, covering terms like Anison, Canon, Filler, Genga, OAD, ONA, Original Anime, OVA, PV, Simulcast, and more. Expand your anime knowledge!
+title: Anime Glossary
+customDescription: Discover the anime related terms you should know!
 ---
 # Anime Glossary
 Anime portion of the Wotaku glossary!
