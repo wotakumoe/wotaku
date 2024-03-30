@@ -139,10 +139,10 @@ Everything Games Related in One Page!
 
 == Databases
 - [Official card database](https://www.db.yugioh-card.com/yugiohdb/)
-- [YGOrganization](https://ygorganization.com/) <Badge type="tip" text="Cards DB" link="https://db.ygorganization.com/" /> <Badge type="tip" text="Yugipedia" link="https://yugipedia.com/wiki/Yugipedia" />
-- [Master Duel Meta](https://www.masterduelmeta.com/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/invite/masterduelmeta" />
-- [Duel Links Meta](https://www.duellinksmeta.com/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/invite/duellinksmeta" />
-- [YGOPro Deck](https://ygoprodeck.com/) <Badge type="info" icon="i-iconoir-community" text="Forum" link="https://ygoprodeck.com/forum/" /> <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.com/invite/nx24PSBGFE" />
+- [YGOrganization](https://ygorganization.com/)
+- [Master Duel Meta](https://www.masterduelmeta.com/)
+- [Duel Links Meta](https://www.duellinksmeta.com/)
+- [YGOPro Deck](https://ygoprodeck.com/) <Badge type="info" icon="i-iconoir-community" text="Forum" link="https://ygoprodeck.com/forum/" /> 
 
 == Simulators
 
@@ -152,13 +152,14 @@ Everything Games Related in One Page!
 - [Yu-Gi-Oh! Neuron](https://www.konami.com/yugioh/neuron/en/)
 
 ### Unofficial
-- [Dueling Book](https://www.duelingbook.com/) <Badge type="info" text="Website" /> <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/VE3xQZc" />
-- [EDO Pro](https://projectignis.github.io/download.html) <Badge type="info" text="Client" /> <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/ygopro-percy" />
-- [YGO Omega](https://omega.duelistsunite.org/) <Badge type="info" text="Client" /> <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/duelistsunite" />
+- [Dueling Book](https://www.duelingbook.com/) <Badge type="info" text="Website" />
+- [EDO Pro](https://projectignis.github.io/download.html) <Badge type="info" text="Client" />
+- [YGO Omega](https://omega.duelistsunite.org/) <Badge type="info" text="Client" />
 
 ### Alternative/Historic Formats
-- [Goat Format](https://www.goatformat.com/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/Mjgy3fN " />
-- [Edison Format](https://www.edisonformat.com/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.com/invite/rceESCvNkf" />
+- [Goat Format](https://www.goatformat.com/)
+- [Edison Format](https://www.edisonformat.com/)
+- [Format Library](https://www.formatlibrary.com/)
 
 == Subreddits
 - [Yu-Gi-Oh!](https://old.reddit.com/r/yugioh/)
@@ -169,6 +170,6 @@ Everything Games Related in One Page!
 
 
 ## Uncats
-- [Digimon Basic](https://digimon-basic.org/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.com/invite/B3RXtnXRSG" />
-- [Sonic Zone](https://soniczone.net/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.com/invite/caxcReqh93" />
+- [Digimon Basic](https://digimon-basic.org/)
+- [Sonic Zone](https://soniczone.net/)
 
