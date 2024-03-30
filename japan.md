@@ -23,7 +23,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Refold Japanese](https://refold.la/) <Badge type="tip" text="Docs" link="https://docs.google.com/document/d/1tQmoGwCJQqmjdmaQdigAG0Ph1ODSMsGhsD7qOhlUuc0/edit" />
 - [Perdition](https://perdition-japanese.github.io/posts/how-to-study-japanese/)
 - [Acquiring Japanese Efficiently](https://docs.google.com/document/d/1LH82FjsCqCgp6-TFqUcS_EB15V7sx7O1VCjREp6Lexw/edit)
-- [r/LearnJapanese](https://www.reddit.com/r/LearnJapanese/wiki/index/startersguide/)
+- [r/LearnJapanese](https://old.reddit.com/r/LearnJapanese/wiki/index/startersguide/)
 - [TheMoeWay](https://learnjapanese.moe/)
 - [DJT Guide](https://djtguide.neocities.org/guide)
 - [Animecards](https://animecards.site/)
@@ -102,7 +102,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Tobira: Power Up Your Kanji](https://www.amazon.com/gp/product/4874244874)
 
 ### Reading
-- [Tadoku Books](https://www.reddit.com/r/LearnJapanese/comments/o7x7ha/2021_updated_free_tadoku_graded_reader_pdfs_1796/) <Badge type="info" text="General" />
+- [Tadoku Books](https://old.reddit.com/r/LearnJapanese/comments/o7x7ha/2021_updated_free_tadoku_graded_reader_pdfs_1796/) <Badge type="info" text="General" />
 
 ### Vocabulary
 - [JLPT Tango N5](https://www.amazon.com/Japanese-Vocabulary-Words-Language-Proficiency/dp/4872179811) <Badge type="tip" text="N4" link="https://www.amazon.com/JAPANESE-VOCABULARY-WORDS-Trilingue-Japonais/dp/487217982X" />
@@ -469,7 +469,7 @@ Culture, History, Mythology & Festival. Everything about Japan!
 - [Do You Know Japan?](https://doyouknowjapan.com/)
 - [Japanese Wiki](https://www.japanesewiki.com/)
 - [Japan Reference](https://jref.com/)
-- [Japan: Below the tip of the iceberg](https://prezi.com/9_lvn6v3fzgt/japan-below-the-tip-of-the-iceberg/) <Badge type="tip" text="Gaijin" link="https://www.reddit.com/r/IcebergCharts/comments/n4edop/gaijin_foreigners_in_japan_iceberg/" />
+- [Japan: Below the tip of the iceberg](https://prezi.com/9_lvn6v3fzgt/japan-below-the-tip-of-the-iceberg/) <Badge type="tip" text="Gaijin" link="https://old.reddit.com/r/IcebergCharts/comments/n4edop/gaijin_foreigners_in_japan_iceberg/" />
 - [JTCO](https://www.jtco.or.jp/en/)
 
 == Books
@@ -641,14 +641,14 @@ Culture, History, Mythology & Festival. Everything about Japan!
 - [Japanese Language Study Space](https://discord.gg/jlss)
 - [Marshall's Server](https://discord.com/invite/ejmrfwSYAH)
 - [NativShark](https://discord.com/invite/nativshark)
-- [r/LearnJapanese](https://www.reddit.com/r/LearnJapanese/)
+- [r/LearnJapanese](https://old.reddit.com/r/LearnJapanese/)
 - [TheMoeWay](https://discord.gg/nhqjydaR8j)
 - [ToKini Andy](https://discord.gg/WP7zYHC)
 - [JPDB](https://discord.gg/jWwVD7D2sZ)
 
 == Japan
-- [Japan Pics](https://www.reddit.com/r/japanpics/)
-- [Japan Life](https://www.reddit.com/r/japanlife/)
-- [Japan Travel](https://www.reddit.com/r/JapanTravel/)
+- [Japan Pics](https://old.reddit.com/r/japanpics/)
+- [Japan Life](https://old.reddit.com/r/japanlife/)
+- [Japan Travel](https://old.reddit.com/r/JapanTravel/)
 - [🍀/jp/](https://boards.4channel.org/jp/catalog) <Badge type="tip" text="Archive" link="https://warosu.org/jp/" /><Badge type="danger" text="18+" />
 :::

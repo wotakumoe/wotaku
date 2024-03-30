@@ -75,7 +75,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 ### Watch Order
 - [Chiaki](https://chiaki.site/)
 - [Related Anime](https://relatedanime.com/)
-- [r/Anime Watch Order](https://www.reddit.com/r/anime/wiki/watch_order/)
+- [r/Anime Watch Order](https://old.reddit.com/r/anime/wiki/watch_order/)
 
 ### Filler
 - [Anime Filler Guide](https://www.animefillerguide.com/)
@@ -100,7 +100,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Erzat](https://erzat.blog/)
 - [Josu Ke](https://twitter.com/Josu_ke) :mdi-twitter:
 - [:ic-outline-discord: Manga Groups Portal](https://discord.gg/9KGMzP2)
-- [r/LightNovels reading order](https://www.reddit.com/r/LightNovels/wiki/reading_order)
+- [r/LightNovels reading order](https://old.reddit.com/r/LightNovels/wiki/reading_order)
 - [Shoseki Ranking](http://shosekiranking.blog.fc2.com/)
 - [Touhou Doujinshi Index](https://scarlet.nanoskript.dev/) :glowing-star: <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" /> <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/nanoskript/touhou-doujinshi-index" />  
 
@@ -109,7 +109,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 ### Index
 - [Mynewworm](https://myneworm.katsurin.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/Butterstroke/Myneworm" />
 - [Otaku Calendar](https://otakucalendar.com/Release/?filterCategory=2)
-- [r/LightNovels upcoming releases](https://www.reddit.com/r/LightNovels/wiki/upcomingreleases/)
+- [r/LightNovels upcoming releases](https://old.reddit.com/r/LightNovels/wiki/upcomingreleases/)
 - [Yatta-Tachi](https://yattatachi.com/tag/releases)
 
 ### Publisher
@@ -390,8 +390,8 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 == Socials
 
-- Hololive <Badge type="tip" icon="i-mdi-twitter" text="JP" link="https://twitter.com/hololivetv" /><Badge type="tip" icon="i-mdi-twitter" text="EN" link="https://twitter.com/hololive_En" /><Badge type="tip" icon="i-ic-outline-discord" text="Fan Discord" link="https://discord.gg/holofans" /><Badge type="tip" icon="i-logos-reddit-icon" text="Reddit" link="https://www.reddit.com/r/Hololive/" />
-- VShojo <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/VShojo" /><Badge type="tip" icon="i-ic-outline-discord" text="Fan Discord" link="https://discord.com/invite/vshojo-fan-server-598886416545611790" /><Badge type="tip" icon="i-logos-reddit-icon" text="Reddit" link="https://www.reddit.com/r/VShojo/" />
+- Hololive <Badge type="tip" icon="i-mdi-twitter" text="JP" link="https://twitter.com/hololivetv" /><Badge type="tip" icon="i-mdi-twitter" text="EN" link="https://twitter.com/hololive_En" /><Badge type="tip" icon="i-ic-outline-discord" text="Fan Discord" link="https://discord.gg/holofans" /><Badge type="tip" icon="i-logos-reddit-icon" text="Reddit" link="https://old.reddit.com/r/Hololive/" />
+- VShojo <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/VShojo" /><Badge type="tip" icon="i-ic-outline-discord" text="Fan Discord" link="https://discord.com/invite/vshojo-fan-server-598886416545611790" /><Badge type="tip" icon="i-logos-reddit-icon" text="Reddit" link="https://old.reddit.com/r/VShojo/" />
 - PhaseConnect <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/PhaseConnect" /><Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/phaseconnect" />
 - idol <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/idol_corp" /><Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/idolcorp" />
 - PRISM <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/PRISMproj" /><Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/prismworld" />
@@ -529,8 +529,8 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 ### Anime & Manga
 
 - ANN TOP 100 <Badge type="tip" text="Anime" link="https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=popular&n=100" /><Badge type="tip" text="Manga" link="https://www.animenewsnetwork.com/encyclopedia/ratings-manga.php?top50=best_bayesian&n=100" />
-- [r/Anime Recommendations](https://www.reddit.com/r/anime/wiki/recommendations/)
-- [u/FetchFrosh Recommendations](https://www.reddit.com/r/anime/comments/o16ipm/rebuild_of_the_ultimate_anime_recommendation/)
+- [r/Anime Recommendations](https://old.reddit.com/r/anime/wiki/recommendations/)
+- [u/FetchFrosh Recommendations](https://old.reddit.com/r/anime/comments/o16ipm/rebuild_of_the_ultimate_anime_recommendation/)
 
 ### Visual Novel
 - [VNDB](https://vndb.org/v?f=022gja3gja&s=34w)

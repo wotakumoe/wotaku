@@ -67,9 +67,9 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [Garage Kit Guide by Muntoe](https://www.plumworkshop.com/gk-compendium/part-1-bg-supplies)
 - [Gunpla Guide by Gelgoog Guy](https://docs.google.com/document/d/1Tr8UyF2Xg5Ojqw0sxcO7oIG7IIsJPes3lMO5pHZKu5o/pub)
 - [Gunpla Guide by Layman](https://otakurevolution.com/content/laymans-gunpla-guide)
-- [Gunpla Wiki r/Gunpla](https://www.reddit.com/r/Gunpla/wiki/)
+- [Gunpla Wiki r/Gunpla](https://old.reddit.com/r/Gunpla/wiki/)
 - [Meramifan's guide to support doujin artists/circles](https://meramifan.wordpress.com/guide/)
-- [Music Stuff from Japan by Dimsim](https://www.reddit.com/r/japanesemusic/comments/dagaj8/how_to_buy_music_stuff_from_japan_a_guide/)
+- [Music Stuff from Japan by Dimsim](https://old.reddit.com/r/japanesemusic/comments/dagaj8/how_to_buy_music_stuff_from_japan_a_guide/)
 - [Solaris Japan](https://www.youtube.com/@Solaris_Japan)
 
 ## Info
@@ -77,19 +77,19 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [JOSIC](https://www.japanonlineshopping.com/)
 - [Gundam Kits Collection](https://www.gundamkitscollection.com/)
 - [Gunjap](https://www.gunjap.net/)
-- [r/Anime's legal stream list](https://www.reddit.com/r/anime/wiki/legal_streams)
+- [r/Anime's legal stream list](https://old.reddit.com/r/anime/wiki/legal_streams)
 - [Buying visual novels](https://reddit.com/r/visualnovels/wiki/buy)
 - [Otaku Calendar](https://otakucalendar.com/)
 
 ## Communities
 - [My Figure Collection](https://myfigurecollection.net/)
-- [Anime Deals](https://www.reddit.com/r/AnimeDeals)
-- [Anime Figures](https://www.reddit.com/r/AnimeFigures/)
-- [Anime Merchandise](https://www.reddit.com/r/AnimeMerchandise)
-- [Manga Collectors](https://www.reddit.com/r/MangaCollectors)
+- [Anime Deals](https://old.reddit.com/r/AnimeDeals)
+- [Anime Figures](https://old.reddit.com/r/AnimeFigures/)
+- [Anime Merchandise](https://old.reddit.com/r/AnimeMerchandise)
+- [Manga Collectors](https://old.reddit.com/r/MangaCollectors)
 - [Gundam Forums](https://www.gundamforums.com/)
-- [Gunpla](https://www.reddit.com/r/Gunpla)
-- [Dakimakuras](https://www.reddit.com/r/Dakimakuras) <Badge type="danger" text="18+" />
+- [Gunpla](https://old.reddit.com/r/Gunpla)
+- [Dakimakuras](https://old.reddit.com/r/Dakimakuras) <Badge type="danger" text="18+" />
 
 ## Retailers
 - [AmiAmi](https://www.amiami.com)

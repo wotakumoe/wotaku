@@ -27,7 +27,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [A Year to Learn Japanese](https://docs.google.com/document/d/10bRzVblKVOsQJjTc2PIi1Gbj_LrsJCkMkh0SutXCZdI/edit)
 - [Animecards Site](https://animecards.site/)
 - [Japanese with Anime](https://www.japanesewithanime.com/)
-- [r/LearnJapanese Starter's Guide](https://www.reddit.com/r/LearnJapanese/wiki/index/startersguide/)
+- [r/LearnJapanese Starter's Guide](https://old.reddit.com/r/LearnJapanese/wiki/index/startersguide/)
 - [Jazzy's Guide](https://rentry.co/jazzy180)
 - [Inhae's blog](https://notes.inhae.blog/learning-japanese/)
 
@@ -102,7 +102,7 @@ Interested in learning the japanese language? Here you can find resources to aid
   - [Kanji Look and Learn](https://www.amazon.com/Kanji-Look-Learn-Eri-Banno/dp/4789013499)
   - [Tobira: Power Up Your Kanji](https://www.amazon.com/gp/product/4874244874)
 - **Reading**
-  - [Tadoku Books](https://www.reddit.com/r/LearnJapanese/comments/o7x7ha/2021_updated_free_tadoku_graded_reader_pdfs_1796/) <Badge type="info" text="General" />
+  - [Tadoku Books](https://old.reddit.com/r/LearnJapanese/comments/o7x7ha/2021_updated_free_tadoku_graded_reader_pdfs_1796/) <Badge type="info" text="General" />
 - **Vocabulary**
   - [JLPT Tango N5](https://www.amazon.com/Japanese-Vocabulary-Words-Language-Proficiency/dp/4872179811) <Badge type="tip" text="N4" link="https://www.amazon.com/JAPANESE-VOCABULARY-WORDS-Trilingue-Japonais/dp/487217982X" />
 
@@ -620,8 +620,8 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 - [JPDB](https://discord.gg/jWwVD7D2sZ)
 
 ### Reddit
-- [AJATT](https://www.reddit.com/r/ajatt/)
-- [LearnJapanese](https://www.reddit.com/r/LearnJapanese/)
+- [AJATT](https://old.reddit.com/r/ajatt/)
+- [LearnJapanese](https://old.reddit.com/r/LearnJapanese/)
 
 ### Others
 - [Japanese Language Stack Exchange](https://japanese.stackexchange.com/)
@@ -654,7 +654,7 @@ Culture, History, Mythology & Festival. Everything about Japan!
 - [Do You Know Japan?](https://doyouknowjapan.com/)
 - [Japanese Wiki](https://www.japanesewiki.com/)
 - [Japan Reference](https://jref.com/)
-- [Japan: Below the tip of the iceberg](https://prezi.com/9_lvn6v3fzgt/japan-below-the-tip-of-the-iceberg/) <Badge type="tip" text="Gaijin" link="https://www.reddit.com/r/IcebergCharts/comments/n4edop/gaijin_foreigners_in_japan_iceberg/" />
+- [Japan: Below the tip of the iceberg](https://prezi.com/9_lvn6v3fzgt/japan-below-the-tip-of-the-iceberg/) <Badge type="tip" text="Gaijin" link="https://old.reddit.com/r/IcebergCharts/comments/n4edop/gaijin_foreigners_in_japan_iceberg/" />
 - [JTCO](https://www.jtco.or.jp/en/)
 
 == Books

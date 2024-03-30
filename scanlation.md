@@ -12,7 +12,7 @@ Guides and resources for scanlating manga.
 ## Communities
 
 - [Scanner Usage School Server](https://discord.com/invite/NCzxVB9) :glowing-star:
-- [r/Scanlation](https://www.reddit.com/r/Scanlation/)
+- [r/Scanlation](https://old.reddit.com/r/Scanlation/)
 - [Manga Helpers](https://mangahelpers.com/)
 - [Font recommendations](https://discord.gg/kgZ4MXgzpx)
 

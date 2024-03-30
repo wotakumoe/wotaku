@@ -15,7 +15,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [A Year to Learn Japanese](https://docs.google.com/document/d/10bRzVblKVOsQJjTc2PIi1Gbj_LrsJCkMkh0SutXCZdI/edit)
 - [Animecards Site](https://animecards.site/)
 - [Japanese with Anime](https://www.japanesewithanime.com/)
-- [r/LearnJapanese Starter's Guide](https://www.reddit.com/r/LearnJapanese/wiki/index/startersguide/)
+- [r/LearnJapanese Starter's Guide](https://old.reddit.com/r/LearnJapanese/wiki/index/startersguide/)
 - [Maggie Sensei's Conversation Guide](https://maggiesensei.com/)
 
 
@@ -143,7 +143,7 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
   - [Kanji Look and Learn](https://www.amazon.com/Kanji-Look-Learn-Eri-Banno/dp/4789013499)
   - [Tobira: Power Up Your Kanji](https://www.amazon.com/gp/product/4874244874)
 - **Reading**
-  - [Tadoku Books](https://www.reddit.com/r/LearnJapanese/comments/o7x7ha/2021_updated_free_tadoku_graded_reader_pdfs_1796/) <Badge type="info" text="General" />
+  - [Tadoku Books](https://old.reddit.com/r/LearnJapanese/comments/o7x7ha/2021_updated_free_tadoku_graded_reader_pdfs_1796/) <Badge type="info" text="General" />
 - **Vocabulary**
   - [JLPT Tango N5](https://www.amazon.com/Japanese-Vocabulary-Words-Language-Proficiency/dp/4872179811) <Badge type="tip" text="N4" link="https://www.amazon.com/JAPANESE-VOCABULARY-WORDS-Trilingue-Japonais/dp/487217982X" />
 

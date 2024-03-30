@@ -79,19 +79,18 @@ Everything Games Related in One Page!
 
 :::tabs
 
-== General
 
+== Guides
+- [Prydwen](https://www.prydwen.gg/) :glowing-star:
+- 
+
+== Info
 - [GACHAREVENUE](https://www.gacharevenue.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/zigamacele/gacharevenue" />
 
-
-== a 
-a
-
-== b
-a
-
-== c
-a
+== Tools
+- [Enka.Network](https://enka.network/) `GI` `HSR`
+- [Genshin Impact Interactive Map](https://genshin-impact-map.appsample.com/) `GI`
+- 
 
 :::
 
@@ -162,10 +161,10 @@ a
 - [Edison Format](https://www.edisonformat.com/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.com/invite/rceESCvNkf" />
 
 == Subreddits
-- [Yu-Gi-Oh!](https://www.reddit.com/r/yugioh/)
-- [Master Duel](https://www.reddit.com/r/masterduel/)
-- [Duel Links](https://www.reddit.com/r/DuelLinks/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discordapp.com/invite/DuelLinks" />
-- [Goat Format](https://www.reddit.com/r/Goat_Format/)
+- [Yu-Gi-Oh!](https://old.reddit.com/r/yugioh/)
+- [Master Duel](https://old.reddit.com/r/masterduel/)
+- [Duel Links](https://old.reddit.com/r/DuelLinks/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discordapp.com/invite/DuelLinks" />
+- [Goat Format](https://old.reddit.com/r/Goat_Format/)
 :::
 
 

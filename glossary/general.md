@@ -70,7 +70,7 @@ Want to increase your otaku knowledge? Look for no further! Presenting the Gloss
 | Seiso | *"Seiso" (清楚) refers to a particular aesthetic of purity and cleanliness that is often emphasized in the presentation of female idols. This can involve elements such as modest clothing, subtle makeup, and a generally wholesome image.* |
 | Senpai / Sempai  |   Senior. Can be in a workplace or school.  |
 | Sensei  |  Generally Teacher. But this can also be used to address someone  who is a respected professional or very senior in the position.   |
-| Shikishi | It is a high-quality art board mainly used for calligraphy and painting. Due to its exceptional quality, it is often utilized for collecting autographs featuring both simple and highly detailed artwork. Additionally, it is sometimes used as a promotional material for the show. [Examples of shikishi](https://www.reddit.com/r/Shikishi/). |
+| Shikishi | It is a high-quality art board mainly used for calligraphy and painting. Due to its exceptional quality, it is often utilized for collecting autographs featuring both simple and highly detailed artwork. Additionally, it is sometimes used as a promotional material for the show. [Examples of shikishi](https://old.reddit.com/r/Shikishi/). |
 | Shota  |  Young or young-looking boy in anime and manga.  |
 | Tokusatsu  |   Literally "Special effects". These term can be applied to movies and tv shows with superheroes with a recognizable style of special effects. [Examples of Tokusatsu](https://www.youtube.com/watch?v=bBsDwQ1by_o) |
 | Trap  |  A word used in anime community to refer to a person who looks the opposite gender. Most commonly used for male characters who look female. Example: [Urushibara Ruka from Steins; Gate](https://anidb.net/character/23270)   |

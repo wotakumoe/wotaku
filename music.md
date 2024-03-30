@@ -390,7 +390,7 @@ Everything Music Related in One Page!
 - [VOCALOID Voicebanks (v1 to v5)](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTE3MTc5OQ.RHVjaw)
 - [CeVIO Voice Database Installer Archive](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vc3ByZWFkc2hlZXRzL2QvMWJsUGRuN1V1Tk5TVWJUczNGUnRCVjVtZERVQ2Y3MjhOSkM3eVpoT2FlLU0vZWRpdCNnaWQ9MA.ZHVjaw)
 - [RuTracker.org](https://rutracker.org/forum/index.php)
-- [r/VocaTorrent](https://www.reddit.com/r/VocaTorrent/)
+- [r/VocaTorrent](https://old.reddit.com/r/VocaTorrent/)
 
 == Others
 ### Checker / Visualizer
@@ -480,4 +480,4 @@ Everything Music Related in One Page!
 - [SquidBoard](https://discord.gg/ATjPbzR)
 
 ### Subreddits
-- [Vocaloid](https://www.reddit.com/r/vocaloid/)
+- [Vocaloid](https://old.reddit.com/r/vocaloid/)

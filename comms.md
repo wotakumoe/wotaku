@@ -33,17 +33,17 @@ A list of other otaku communities to check out based on your specific interests.
 
 ## Subreddits
 
-- [Anime](https://www.reddit.com/r/anime)
-- [Manga](https://www.reddit.com/r/manga)
-- [Manhwa](https://www.reddit.com/r/manhwa)
-- [Light Novels](https://www.reddit.com/r/LightNovels/)
-- [Visual Novels](https://www.reddit.com/r/visualnovels/)
-- [Manga Piracy](https://www.reddit.com/r/mangapiracy/)
-- [Japan Pics](https://www.reddit.com/r/japanpics/)
-- [Japan Life](https://www.reddit.com/r/japanlife/)
-- [Japan Travel](https://www.reddit.com/r/JapanTravel/)
-- [Learn Japanese](https://www.reddit.com/r/LearnJapanese)
-- [Vocaloid](https://www.reddit.com/r/vocaloid/)
+- [Anime](https://old.reddit.com/r/anime)
+- [Manga](https://old.reddit.com/r/manga)
+- [Manhwa](https://old.reddit.com/r/manhwa)
+- [Light Novels](https://old.reddit.com/r/LightNovels/)
+- [Visual Novels](https://old.reddit.com/r/visualnovels/)
+- [Manga Piracy](https://old.reddit.com/r/mangapiracy/)
+- [Japan Pics](https://old.reddit.com/r/japanpics/)
+- [Japan Life](https://old.reddit.com/r/japanlife/)
+- [Japan Travel](https://old.reddit.com/r/JapanTravel/)
+- [Learn Japanese](https://old.reddit.com/r/LearnJapanese)
+- [Vocaloid](https://old.reddit.com/r/vocaloid/)
 
 ## Boards
 
