@@ -33,9 +33,9 @@ export default defineConfig({
     ["link", { rel: "mask-icon", href: "/asset/podarufav.png", color: "#56b4fc" }],
     // prettier-ignore
     [
-			"meta",
-			{ name: "keywords", content: "Anime, Anime Piracy, Manga, Manga Piracy, VTuber, Hentai, JPOP, Music, Japan, Learning Japanese, Weeb, Otaku" },
-		],
+      "meta",
+      { name: "keywords", content: "Anime, Anime Piracy, Manga, Manga Piracy, VTuber, Hentai, JPOP, Music, Japan, Learning Japanese, Weeb, Otaku" },
+    ],
     [
       "link",
       {
@@ -65,6 +65,9 @@ export default defineConfig({
     },
   },
   vite: {
+    ssr: {
+      noExternal: ["@fmhy/components"],
+    },
     optimizeDeps: { exclude: ["workbox-window"] },
     plugins: [
       UnoCSS({
@@ -130,8 +133,7 @@ export default defineConfig({
         text: '<span class="i-uil:letter-japanese-a"></span> Everything Japan',
         link: "/jp",
       },
-      { text: '<span class="i-lucide:package-2"></span> Merch',
-        link: "/merch" },
+      { text: '<span class="i-lucide:package-2"></span> Merch', link: "/merch" },
       {
         text: '<span class="i-lucide:scroll-text"></span> Scanlation',
         link: "/scanlation",
