@@ -18,6 +18,7 @@ A list of other otaku communities to check out based on your specific interests.
 
 ## Discord servers
 
+- [DigimonBasic](https://discord.com/invite/Rf2dDaJSp3)
 - [Doujin Cafe](https://discord.gg/doujincafe)
 - [Japanese Language Study Space](https://discord.gg/jlss)
 - [Mangadex](https://discord.com/invite/mangadex)
@@ -25,10 +26,12 @@ A list of other otaku communities to check out based on your specific interests.
 - [r/Anime](https://discord.gg/r-anime)
 - [r/Manga](https://discord.com/invite/manga)
 - [Scanner Usage School Server](https://discord.com/invite/NCzxVB9)
+- [Sonic Zone](https://discord.com/invite/bj5vmb96YT)
 - [Sitting on Clouds](https://discord.gg/x23SFbE)
 - [SquidBoard](https://discord.gg/ATjPbzR)
 - [Tachiyomi](https://discord.com/invite/tachiyomi)
 - [TheMoeWay](https://discord.com/invite/nhqjydaR8j)
+- [r/Tokusatsu](https://discord.com/invite/Rf2dDaJSp3)
 - [TypesettingTools](https://discord.com/invite/AZaVyPr)
 
 ## Subreddits

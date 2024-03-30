@@ -10,7 +10,7 @@ Torrent portion of the Wotaku glossary!
 |------------------|----------------------|
 | Client           | A program that enables peer-to-peer file sharing via the BitTorrent protocol (qBit, Transmission, etc) |
 | Freeleech        | Downloading torrents with this tag won't impact your ratio.  |
-| Hit-and-Run      | To intentionally download a file while seeding as little as possible, if at all. Abbreviated HnR or H&R. |
+| Hit-and-Run      | To download a torrent without following the tracker's minimum seeding requirement. Abbreviated HnR or H&R. |
 | Leech / Leecher  | Can have two meanings: either a downloader in general or peers with a very low share ratio.  |
 | Peer             | A client connected to the internet transferring data. Can be a downloader or seeder.   |
 | Peer-to-Peer / p2p | A file sharing network in which every computer/client both uploads and downloads data.   |

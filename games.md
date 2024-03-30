@@ -157,9 +157,9 @@ Everything Games Related in One Page!
 - [YGO Omega](https://omega.duelistsunite.org/) <Badge type="info" text="Client" />
 
 ### Alternative/Historic Formats
+- [Format Library](https://www.formatlibrary.com/)
 - [Goat Format](https://www.goatformat.com/)
 - [Edison Format](https://www.edisonformat.com/)
-- [Format Library](https://www.formatlibrary.com/)
 
 == Subreddits
 - [Yu-Gi-Oh!](https://old.reddit.com/r/yugioh/)
