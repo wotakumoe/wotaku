@@ -4,6 +4,9 @@ customDescription: Answers to some of the most commonly asked questions about ma
 ---
 # Frequently Asked Questions
 
+<GradientCard title="wotaku" description="Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat." tag="cheese" theme="swarm" />
+
+
 ## General
 
 :::details Why does X site have so many ads?

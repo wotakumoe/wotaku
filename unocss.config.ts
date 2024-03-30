@@ -1,13 +1,20 @@
+import { colors } from "@fmhy/colors";
 import { FileSystemIconLoader } from "@iconify/utils/lib/loader/node-loaders";
 import { resolve } from "node:path";
 import { defineConfig, presetUno, presetAttributify, presetIcons } from "unocss";
+
+const safelist = Object.entries(colors).flatMap(([group, shades]) =>
+  Object.keys(shades).flatMap((shade) => [`text-${group}-${shade}`, `bg-${group}-${shade}`]),
+);
 
 export default defineConfig({
   content: {
     filesystem: [".vitepress/config.mts"],
   },
+  safelist,
   theme: {
     colors: {
+      ...colors,
       primary: "var(--vp-c-brand-1)",
       bg: "var(--vp-c-bg)",
       "bg-alt": "var(--vp-c-bg-alt)",

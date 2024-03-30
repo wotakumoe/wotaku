@@ -5,6 +5,12 @@ settings:
   excludeLinksFromLockfile: false
 
 dependencies:
+  '@fmhy/colors':
+    specifier: ^0.0.11
+    version: 0.0.11
+  '@fmhy/components':
+    specifier: ^0.0.1
+    version: 0.0.1(typescript@5.4.3)(vue@3.4.12)
   '@mdit/plugin-align':
     specifier: ^0.8.0
     version: 0.8.0(markdown-it@14.0.0)
@@ -46,13 +52,13 @@ dependencies:
     version: 0.58.6(postcss@8.4.35)(rollup@2.79.1)(vite@5.0.11)
   vitepress:
     specifier: npm:@taskylizard/vitepress@1.0.10
-    version: /@taskylizard/vitepress@1.0.10(@types/node@20.8.9)(postcss@8.4.35)
+    version: /@taskylizard/vitepress@1.0.10(@types/node@20.8.9)(postcss@8.4.35)(typescript@5.4.3)
   vitepress-plugin-tabs:
     specifier: ^0.5.0
     version: 0.5.0(@taskylizard/vitepress@1.0.10)(vue@3.4.12)
   vue:
     specifier: ^3.4.5
-    version: 3.4.12
+    version: 3.4.12(typescript@5.4.3)
   workbox-window:
     specifier: ^7.0.0
     version: 7.0.0
@@ -1987,6 +1993,22 @@ packages:
     engines: {node: '>=14'}
     dev: false
 
+  /@fmhy/colors@0.0.11:
+    resolution: {integrity: sha512-sNwSoifyPi+9s/wOXXl9B3qpcfMDNj4HtNlxtf6FQs2LUshcxx226KIJgnxRwawGmQq26Vck1dcJESC6s4QwiA==}
+    engines: {node: '>=18.16.1'}
+    dev: false
+
+  /@fmhy/components@0.0.1(typescript@5.4.3)(vue@3.4.12):
+    resolution: {integrity: sha512-n5SESifG0Tr5ciJ42S6pQ6lbzW+93WVhqOlXPamNg1npu8/GLlsPbZLvAMj0FTmw7qUFi3Xb/i5C29KNsxFE6Q==}
+    engines: {node: '>=18.16.1'}
+    peerDependencies:
+      typescript: ^5.0.0
+      vue: ^3.4.21
+    dependencies:
+      typescript: 5.4.3
+      vue: 3.4.12(typescript@5.4.3)
+    dev: false
+
   /@iconify-json/fluent-emoji@1.1.15:
     resolution: {integrity: sha512-C0HajGHrQpLsI7P8/C113xuV8vr8QTD8RG50SuEEG7OMRRA1TkuR+s5lJTuvq/9//yrzI9HMIO5dodh/hKo2sA==}
     dependencies:
@@ -3025,7 +3047,7 @@ packages:
       string.prototype.matchall: 4.0.10
     dev: false
 
-  /@taskylizard/vitepress@1.0.10(@types/node@20.8.9)(postcss@8.4.35):
+  /@taskylizard/vitepress@1.0.10(@types/node@20.8.9)(postcss@8.4.35)(typescript@5.4.3):
     resolution: {integrity: sha512-RujuaVtPmoWis1b1B+BdAkakRPRxsZ+y4g35auJZpf7m+xt+vG2Bw6MdwdpJVPfkfqAuNRYyEaYJRQVpmlNnsw==}
     hasBin: true
     peerDependencies:
@@ -3052,7 +3074,7 @@ packages:
       shikiji-core: 0.9.19
       shikiji-transformers: 0.9.19
       vite: 5.0.11(@types/node@20.8.9)
-      vue: 3.4.21
+      vue: 3.4.21(typescript@5.4.3)
     transitivePeerDependencies:
       - '@algolia/client-search'
       - '@types/node'
@@ -3398,7 +3420,7 @@ packages:
       vue: ^3.2.25
     dependencies:
       vite: 5.0.11(@types/node@20.8.9)
-      vue: 3.4.21
+      vue: 3.4.21(typescript@5.4.3)
     dev: false
 
   /@vue/compiler-core@3.4.12:
@@ -3530,7 +3552,7 @@ packages:
     dependencies:
       '@vue/compiler-ssr': 3.4.12
       '@vue/shared': 3.4.12
-      vue: 3.4.12
+      vue: 3.4.12(typescript@5.4.3)
     dev: false
 
   /@vue/server-renderer@3.4.21(vue@3.4.21):
@@ -3540,7 +3562,7 @@ packages:
     dependencies:
       '@vue/compiler-ssr': 3.4.21
       '@vue/shared': 3.4.21
-      vue: 3.4.21
+      vue: 3.4.21(typescript@5.4.3)
     dev: false
 
   /@vue/shared@3.4.12:
@@ -6871,6 +6893,12 @@ packages:
       is-typed-array: 1.1.12
     dev: false
 
+  /typescript@5.4.3:
+    resolution: {integrity: sha512-KrPd3PKaCLr78MalgiwJnA25Nm8HAmdwN3mYUYZgG/wizIo9EainNVQI9/yDavtVFRN2h3k8uf3GLHuhDMgEHg==}
+    engines: {node: '>=14.17'}
+    hasBin: true
+    dev: false
+
   /uc.micro@2.1.0:
     resolution: {integrity: sha512-ARDJmphmdvUk6Glw7y9DQ2bFkKBHwQHLi2lsaH6PPmz/Ka9sFOBsBluozhDltWmnv9u/cF6Rt87znRTPV+yp/A==}
     dev: false
@@ -7230,8 +7258,8 @@ packages:
       vitepress: ^1.0.0-rc.27
       vue: ^3.3.8
     dependencies:
-      vitepress: /@taskylizard/vitepress@1.0.10(@types/node@20.8.9)(postcss@8.4.35)
-      vue: 3.4.12
+      vitepress: /@taskylizard/vitepress@1.0.10(@types/node@20.8.9)(postcss@8.4.35)(typescript@5.4.3)
+      vue: 3.4.12(typescript@5.4.3)
     dev: false
 
   /vue-demi@0.14.7(vue@3.4.21):
@@ -7246,10 +7274,10 @@ packages:
       '@vue/composition-api':
         optional: true
     dependencies:
-      vue: 3.4.21
+      vue: 3.4.21(typescript@5.4.3)
     dev: false
 
-  /vue@3.4.12:
+  /vue@3.4.12(typescript@5.4.3):
     resolution: {integrity: sha512-A4vK2vRnLOAsbfslcRBYDnteWVs4rLu5WKKsiiUB4tmzIYgsLVps1OrZ5VHhGOBPuTdC6kr4DMIgUJoTPf2V7w==}
     peerDependencies:
       typescript: '*'
@@ -7262,9 +7290,10 @@ packages:
       '@vue/runtime-dom': 3.4.12
       '@vue/server-renderer': 3.4.12(vue@3.4.12)
       '@vue/shared': 3.4.12
+      typescript: 5.4.3
     dev: false
 
-  /vue@3.4.21:
+  /vue@3.4.21(typescript@5.4.3):
     resolution: {integrity: sha512-5hjyV/jLEIKD/jYl4cavMcnzKwjMKohureP8ejn3hhEjwhWIhWeuzL2kJAjzl/WyVsgPY56Sy4Z40C3lVshxXA==}
     peerDependencies:
       typescript: '*'
@@ -7277,6 +7306,7 @@ packages:
       '@vue/runtime-dom': 3.4.21
       '@vue/server-renderer': 3.4.21(vue@3.4.21)
       '@vue/shared': 3.4.21
+      typescript: 5.4.3
     dev: false
 
   /webidl-conversions@3.0.1:
@@ -7423,7 +7453,6 @@ packages:
 
   /workbox-google-analytics@7.0.0:
     resolution: {integrity: sha512-MEYM1JTn/qiC3DbpvP2BVhyIH+dV/5BjHk756u9VbwuAhu0QHyKscTnisQuz21lfRpOwiS9z4XdqeVAKol0bzg==}
-    deprecated: It is not compatible with newer versions of GA starting with v4, as long as you are using GAv3 it should be ok, but the package is not longer being maintained
     dependencies:
       workbox-background-sync: 7.0.0
       workbox-core: 7.0.0

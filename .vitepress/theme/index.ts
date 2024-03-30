@@ -8,6 +8,7 @@ import Button from "./components/Button.vue";
 import SidebarCard from "./components/SidebarCard.vue";
 import Tooltip from "./components/Tooltip.vue";
 import Authors from "./components/Authors.vue";
+import Components from "@fmhy/components";
 import "virtual:uno.css";
 
 export default {
@@ -24,5 +25,6 @@ export default {
     app.component("Authors", Authors);
     app.component("Tooltip", Tooltip);
     createMediumZoomProvider(app, router);
+    app.use(Components);
   },
 };
