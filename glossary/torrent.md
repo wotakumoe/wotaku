@@ -14,7 +14,7 @@ Torrent portion of the Wotaku glossary!
 | Leech / Leecher  | Can have two meanings: either a downloader in general or peers with a very low share ratio.  |
 | Peer             | A client connected to the internet transferring data. Can be a downloader or seeder.   |
 | Peer-to-Peer / p2p | A file sharing network in which every computer/client both uploads and downloads data.   |
-| Port Forwarding      | Port forwarding allows computers to become connectable, thus being able to interact with a larger number of peers and improving transfer speeds. [Video Explaining Port Forwaring](https://www.youtube.com/watch?v=2G1ueMDgwxw) or [Beginners Guide to Port Forwarding.](https://learn.g2.com/port-forwarding) |
+| Port Forwarding      | Port forwarding allows computers to become connectable, thus being able to interact with a larger number of peers and improving transfer speeds. [Video Explaining Port Forwarding](https://www.youtube.com/watch?v=2G1ueMDgwxw) or [Beginners Guide to Port Forwarding.](https://learn.g2.com/port-forwarding) |
 | Proxy     | A proxy server acts as a gateway between you and the internet. They're commonly used to mask your true IP address or avoid geoblocks. |
 | Ratio            | The relation between the amounts of uploaded and downloaded data. Trackers usually require you to have more upload than download, thus keeping it at a value above 1. |
 | Seed / Seeding   | A seed is a peer that has fully downloaded a torrent. Seeding is uploading that data to other peers. Partial seeds are also possible, but not encouraged by trackers, as they're bad for file retention. | 

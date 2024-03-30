@@ -74,13 +74,13 @@ Check out our [torrent glossary](/glossary/torrent), you should find all importa
 :::
 
 :::details Can I stream torrent files?
-You *can* stream torrent files (by download the files sequentially). You can stream torrent files easily using [**Miru**](https://miru.watch/) & [**WebTorrent**](https://webtorrent.io/). You can stream in [**qBittorrent**](https://www.qbittorrent.org/) too. For that, before you start downloading the file, check "**Download in sequential order**" in torrent settings at left hand side.
+You *can* stream torrent files (by downloading the files sequentially). You can stream torrent files easily using [**Miru**](https://miru.watch/) & [**WebTorrent**](https://webtorrent.io/). You can stream in [**qBittorrent**](https://www.qbittorrent.org/) too. For that, before you start downloading the file, check "**Download in sequential order**" in torrent settings at left hand side.
 
 :::
 
 :::details Do I need VPN while torrenting?
 
-The distribution (here seeding / uploading) of pireated content is illegal. In peer-to-peer (P2P) connections such as torrenting, it exposes your IP to everyone connected. So, it's advisable to use a VPN which will mask your IP. But if your country / ISP doesn't care about pirating stuff, you can skip VPN. To know whether your country / ISP cares about it, ask in your local forum.
+The distribution (here seeding / uploading) of pirated content is illegal. In peer-to-peer (P2P) connections such as torrenting, it exposes your IP to everyone connected. So, it's advisable to use a VPN which will mask your IP. But if your country / ISP doesn't care about pirating stuff, you can skip VPN. To know whether your country / ISP cares about it, ask in your local forum.
 
 :::
 
@@ -98,7 +98,7 @@ It has various variables. The free VPNs are very limited such as untrusted owner
 - [WARP](https://one.one.one.one/) <Badge type="tip" text="WireGuard" link="https://rentry.co/foss-warp" /><Badge type="tip" text="Generate" link="https://github.com/nxvvvv/warp-plus" />
 - [RiseupVPN](https://riseup.net/en/vpn)
 
-<Button link="https://www.techlore.tech/vpn" icon="i-fxemoji-lightbulb">Go through Techlores VPNs comparison for more details</Button>
+<Button link="https://www.techlore.tech/vpn" icon="i-fxemoji-lightbulb">Go through Techlore's VPNs comparison for more details</Button>
 
 ::: danger Never use Cracked / Modded VPN {open}
 You should never use cracked or modded VPN cause all of your traffic will go through that VPN. So using a compromised VPN is extremely risky.

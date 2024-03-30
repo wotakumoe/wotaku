@@ -25,7 +25,7 @@ On a final note, it is recommended to have the Output Extension set to PNG as th
 ### Tools
 
 The following tools would be used for any kind of grayscaling, leveling, and lastly lossless optimizing;
-- [ImageMagic](https://imagemagick.org/index.php)
+- [ImageMagick](https://imagemagick.org/index.php)
 - [Pingo](https://css-ig.net/pingo)
 - [imgdanke](https://github.com/DrWhoCares/imgdanke)
     - optional for GUI but does not support Pingo v1+ at the moment.
@@ -34,7 +34,7 @@ The following tools would be used for any kind of grayscaling, leveling, and las
 
 The majority of the panels are black and white and can safely be grayscaled if they are not already are (e.g. 24-bit jpegs or pngs for example) to reduce the filesize of those images.
 
-The command (CLI) to use with ImageMagic to batch process all images inside the current folder (that your command prompt is in) would be;
+The command (CLI) to use with ImageMagick to batch process all images inside the current folder (that your command prompt is in) would be;
 
 ```
 magick mogrify -format png -dither None -colorspace Gray *.png
@@ -49,9 +49,9 @@ Leveling images would only be required when blacks ain't actual black, and after
 
 #### Stretching
 
-A simple method without too much effort would be using the -contrast-stretch option from ImageMagic which will try to stretch the (closest) blacks to #000 and (highest) whites to #fff however this does not properly work if there are pixels closer to black than the intended targeted blacks, as the stretch finds the lowest/highest colors.
+A simple method without too much effort would be using the -contrast-stretch option from ImageMagick which will try to stretch the (closest) blacks to #000 and (highest) whites to #fff however this does not properly work if there are pixels closer to black than the intended targeted blacks, as the stretch finds the lowest/highest colors.
 
-The command (CLI) to use with ImageMagic to batch process all images inside a folder would be;
+The command (CLI) to use with ImageMagick to batch process all images inside a folder would be;
 
 ```
 magick mogrify -format png -dither None -colorspace Gray -contrast-stretch 0%x0% *.png
@@ -59,9 +59,9 @@ magick mogrify -format png -dither None -colorspace Gray -contrast-stretch 0%x0%
 
 #### Manual Leveling
 
-With manual leveling you would needed find the minimum black point to have your targeted blacks be actual black (#000) and raise the gamma to compensate for the raised blacks to have the image not be over leveled. This can be somewhat of a trial-and-error till you get a satisfying result. As a starting point you can use the following value for ImageMagic `13,100%,1.3` (used in the example image shown above), where 13 is the raised black point and 1.3 is the gamma adjustment value.
+With manual leveling you would needed find the minimum black point to have your targeted blacks be actual black (#000) and raise the gamma to compensate for the raised blacks to have the image not be over leveled. This can be somewhat of a trial-and-error till you get a satisfying result. As a starting point you can use the following value for ImageMagick `13,100%,1.3` (used in the example image shown above), where 13 is the raised black point and 1.3 is the gamma adjustment value.
 
-The command (CLI) to use with ImageMagic to batch process all images inside a folder would be;
+The command (CLI) to use with ImageMagick to batch process all images inside a folder would be;
 
 ```
 magick mogrify -format png -dither None -colorspace Gray -level 13,100%,1.3 *.png
