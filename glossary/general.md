@@ -106,16 +106,16 @@ Want to increase your otaku knowledge? Look for no further! Presenting the Gloss
 ## Idol / VTuber terms
 | Terms     | Meaning { class="compact" }  |
 | ------  | ------ |
-| Idol | Idols are live entertainers who are expected to be 'Seiso' or pure, meaning they do not engage in romantic relationships. Their primary goal is to entertain their fans. Idol culture is particularly popular in Asia, especially Japan and Korea. Idols are usually local, but occasionally, they can be foreigners too. However, the idol culture can be dark and questionable despite being portrayed as glamorous in anime and manga. Idols group can be girls or boys group. Example: [AKB48](https://www.akb48.co.jp/). Nowadays, Vtuber groups such as [Hololive](https://www.youtube.com/@hololive) are managed as an idol group. |
-| VTuber | A content creator, typically a streamer, who utilizes a 2D or 3D avatar instead of appearing as themselves. However, it is becoming increasingly common for Vtubers to reveal themselves on social media or during streams. This often depends on the policies of the managing agency. |
+| Idol | Idols are live entertainers who are expected to be 'Seiso' or pure, meaning they do not engage in romantic relationships. Their primary goal is to entertain their fans. Idol culture is particularly popular in Asia, especially Japan and Korea. Idols are usually local, but occasionally, they can be foreigners too. However, the idol culture can be dark and questionable despite being portrayed as glamorous in anime and manga. Idols group can be girls or boys group. Example: [AKB48](https://www.akb48.co.jp/). Nowadays, VTuber groups such as [Hololive](https://www.youtube.com/@hololive) are managed as an idol group. |
+| VTuber | A content creator, typically a streamer, who utilizes a 2D or 3D avatar instead of appearing as themselves. However, it is becoming increasingly common for VTubers to reveal themselves on social media or during streams. This often depends on the policies of the managing agency. |
 | Oshi | One's favourite idol. Also known as bias. |
 | Gachikoi / Riako | The fan himself. It's generally used when the affection is on a serious level. |
 | Kamioshi | If someone has more than one oshi, then his/her most favourite oshi is known as kamioshi. |
 | DD / Daredemo Daisuki | Literally means "I like everyone". Used when one likes everyone in the idol group. |
 | Chika Idol | Underground Idol. |
-| Corpo / Corporate VTuber | A Vtuber under contract with an agency is known as a corporate Vtuber. |
+| Corpo / Corporate VTuber | A VTuber under contract with an agency is known as a corporate VTuber. |
 | Indie / Independent VTuber | If she/he is not under any sort of contract. |
-| Oshi Mark | It's used to indicate an idol or Vtuber. It can be based their name, their Vtuber model, inside joke or just random. For example, [**Hoshimachi Suisei**](https://www.youtube.com/@HoshimachiSuisei)'s oshi mark is :comet:. It's because the term "Suisei (彗星)" means comet. [**Ninomae Ina'nis**](https://www.youtube.com/@NinomaeInanis)'s :octopus: because of her model. |
+| Oshi Mark | It's used to indicate an idol or VTuber. It can be based their name, their VTuber model, inside joke or just random. For example, [**Hoshimachi Suisei**](https://www.youtube.com/@HoshimachiSuisei)'s oshi mark is :comet:. It's because the term "Suisei (彗星)" means comet. [**Ninomae Ina'nis**](https://www.youtube.com/@NinomaeInanis)'s :octopus: because of her model. |
 
 
 ## Kemonomimi
