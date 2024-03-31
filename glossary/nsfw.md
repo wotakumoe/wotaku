@@ -30,7 +30,7 @@ Want to learn what those elusive tags on hentai sites mean? Then this page is fo
 | Oppai | Breasts, regardless of their size |
 | Paizuri | Titfucking, the act of sticking one's penis between their partner's breasts |
 | Pantsu | Japanese term for panties |
-| Pettanko | Flat-cheasted characters who are obsessed or insecure about said features |
+| Pettanko | Flat-chested characters who are obsessed or insecure about said features |
 | Redikomi | Eromanga equivalent targeted at adult women |
 | Shibari | A tem used to describe the sexual act of bondage |
 | Shimapan | A term for panties with stripes |

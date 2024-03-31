@@ -617,7 +617,7 @@ Culture, History, Mythology & Festival. Everything about Japan!
 - [What Are Gacha Games, and Why Do People Play Them?](https://www.youtube.com/watch?v=IIVjnRAJkZ8)
 - [What is Touhou? A Brief Introduction](https://www.youtube.com/watch?v=livReBXdiek)
 - [wtf is a vtuber?](https://www.youtube.com/watch?v=r8blCsTOc2I)
-- [The Philosophy of Vtubers](https://www.youtube.com/watch?v=Z8r6jFyISBg)
+- [The Philosophy of VTubers](https://www.youtube.com/watch?v=Z8r6jFyISBg)
 
 ### Vocaloid
 

@@ -297,7 +297,7 @@ Various add-ons to enhance your experience; not all of them are necessarily weeb
 
 ### Optimizer
 - [imgdanke](https://github.com/DrWhoCares/imgdanke) <tooltip>Optional for GUI but does not support Pingo v1+ at the moment.</tooltip>
-- [ImageMagic](https://imagemagick.org/index.php) <Badge type="tip" text="Scripts" link="https://www.fmwconcepts.com/imagemagick/index.php" />
+- [ImageMagick](https://imagemagick.org/index.php) <Badge type="tip" text="Scripts" link="https://www.fmwconcepts.com/imagemagick/index.php" />
 - [Pingo](https://css-ig.net/pingo) <Badge type="tip" text="Pinga" link="https://css-ig.net/pinga" />
 
 ### Processor

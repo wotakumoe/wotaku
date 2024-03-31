@@ -25,12 +25,12 @@ Select the downloaded OpenLyrics component file and open. Then click **Apply** t
 ![](/ss/foobar/fbs3.png)
 
 ### Step 5
-Then go to `Tools > OpenLyrics > Searching`. Click on Musicxmatch in **Available sources**. Then **<<** to move it in the main section. Then select Musicxmatch again and click **UP** to the top 3. Click **Apply**.
+Then go to `Tools > OpenLyrics > Searching`. Click on Musixmatch in **Available sources**. Then **<<** to move it in the main section. Then select Musixmatch again and click **UP** to the top 3. Click **Apply**.
 
 ![](/ss/foobar/fbs4.png)
 
 ### Step 6
-Go to `Tools > OpenLyrics > Searching > Musicxmatch`. Click **?** and then **Yes**. Hit **Apply**.
+Go to `Tools > OpenLyrics > Searching > Musixmatch`. Click **?** and then **Yes**. Hit **Apply**.
 
 ![](/ss/foobar/fbs5.png)
 

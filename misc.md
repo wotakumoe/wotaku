@@ -340,7 +340,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [VChama](https://vchama.xyz) :glowing-star: <Badge type="info" text="Schedule" />
 - [vtstats](https://vt.poi.cat/) :glowing-star: <Badge type="info" text="Schedule" /><Badge text="Revenue"/> 
 - [VSTATS](https://www.vstats.jp/)
-- [Userlocal Vtuber](https://virtual-youtuber.userlocal.jp/) <Badge type="info" text="Stream Rank" link="https://live-ranking.userlocal.jp/vtuber-ranking" /><Badge type="info" text="Schedule" />
+- [Userlocal VTuber](https://virtual-youtuber.userlocal.jp/) <Badge type="info" text="Stream Rank" link="https://live-ranking.userlocal.jp/vtuber-ranking" /><Badge type="info" text="Schedule" />
 - [TwitchTracker](https://twitchtracker.com/)
 - [Streams Charts](https://streamscharts.com/)
 
@@ -449,7 +449,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
         - [Advanced Componen](https://www.youtube.com/playlist?list=PL3sGye8NKCQ-pJ2EcUCFVK53JxntA9FLU)
 - **3D**
     - [VanillaLog](https://www.youtube.com/@TheVanillaLog) [The art of making 3D vtuber models (for dummies)](https://www.youtube.com/watch?v=eFkwu7p1LhU)
-        - [Blender tutorials for 3D Vtuber Making](https://docs.google.com/document/d/1GIfrXKHr2ndUh10DVIoS4lRw99misyzHZfo0fnwK8uk/edit)
+        - [Blender tutorials for 3D VTuber Making](https://docs.google.com/document/d/1GIfrXKHr2ndUh10DVIoS4lRw99misyzHZfo0fnwK8uk/edit)
 
 == Others
 
