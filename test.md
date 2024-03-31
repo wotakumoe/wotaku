@@ -2,9 +2,13 @@
 title: Frequently Asked Questions
 customDescription: Answers to some of the most commonly asked questions about manga and anime we've seen in the otaku community.
 ---
-# Frequently Asked Questions
 
-<GradientCard title="wotaku" description="Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat." tag="cheese" theme="swarm" />
+<GradientCard title="よくある質問" tag="Frequently Asked Questions" description="Answers to some of the most commonly asked questions about manga and anime we've seen in the otaku community." theme="turquoise"/>
+
+
+<br>
+
+<GradientCard title="ウェブサイト" tag="Websites" theme="turquoise" variant="thin"/>
 
 
 ## General

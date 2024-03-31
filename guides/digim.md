@@ -1,25 +1,24 @@
 ---
-title: Digital Manga
-customDescription: "Guide to buying digital manga: Find platforms like Kindle, Apple Books, Google Play, and Kobo. Explore publishers for resolution and DRM-free options."
+title: Digital Manga & Manhwa Info
+customDescription: "Information about digital manga & manhwa publishers on resul"
 outline: [2,3]
 ---
 
 ![](/thumb/digim.webp)
-# Digital Manga Buyer's Guide
-This guide is intended to help you decide where to purchase your digital manga depending on your needs.
+# Digital Manga & Manhwa Info
+Information about various types of publishers for manga and manhwa.
 <br>
 
-## Things to consider when buying
+::: info Things to consider when buying {open}
 - Image quality varies by publisher **and** by platform
 - Convenience of platform apps varies, consider testing them if you plan to read without removing DRM.
 - If you're not able to back up your purchases locally you could lose them entirely if a platform closes.
 - DRM-free does not always mean "free from identifiable info".
----
+:::
 
 >To simplify the guide, here "resolution" essentially means "quality". Although some publishers (e.g. Yen Press) offer low resolution images with minimal JPEG compression as "high quality", we will still consider this as low quality since most readers would see it that way.
 
 ## Volumes
----
 
 ### General Platforms
 
@@ -54,11 +53,13 @@ This guide is intended to help you decide where to purchase your digital manga d
 | [J-Novel Club](https://j-novel.club/)         | x3840      | :check-mark-button: | :check-mark-button: | Own Store |
 | [Kaiten Books](https://www.kaitenbooks.com/)  | ~x2400     | :check-mark-button: | :check-mark-button: | Own Store |
 | [Kodansha USA](https://kodansha.us/)         | ~x3000<sup>4</sup> | :cross-mark: | :check-mark-button: | Humble Bundle / Kindle HD |
-| [Seven Seas Entertainment](https://sevenseasentertainment.com/) | x3000<sup>5</sup> | :cross-mark: | :check-mark-button: | Kindle HD |
+| [Medibang](https://medibang.itch.io/) <sup>5</sup>   | x2048 | - | :cross-mark: | - |
+| Media Do/Coamix <sup>5</sup> | x1800 | - | :cross-mark: | - |
+| [Seven Seas Entertainment](https://sevenseasentertainment.com/) | x3000<sup>6</sup> | :cross-mark: | :check-mark-button: | Kindle HD |
 | [Square Enix Manga & Books](https://squareenixmangaandbooks.square-enix-games.com/en-us)| ~x2230 | :cross-mark: | :check-mark-button: | Same Everywhere |
 | [Star Fruit Books](https://starfruitbooks.com/) | Varies | :check-mark-button: | :check-mark-button: | Own Store |
-| [TOKYOPOP](https://tokyopop.com/)            | ~x2300<sup>6</sup> | :cross-mark: | :check-mark-button: | Same Everywhere |
-| [VAST Visual](https://vastmanga.com/)        | ~x2250<sup>7</sup> | :cross-mark: | :check-mark-button: | Apple Books |
+| [TOKYOPOP](https://tokyopop.com/)            | ~x2300<sup>7</sup> | :cross-mark: | :check-mark-button: | Same Everywhere |
+| [VAST Visual](https://vastmanga.com/)        | ~x2250<sup>8</sup> | :cross-mark: | :check-mark-button: | Apple Books |
 | [VIZ](https://www.viz.com/read)              | x2100-x2475 | :cross-mark: | :check-mark-button: | Kobo |
 | [Yen Press](https://yenpress.com/)            | x1291-x1350 | :cross-mark: | :check-mark-button: | Same Everywhere |
 
@@ -68,9 +69,10 @@ This guide is intended to help you decide where to purchase your digital manga d
 2. Standard non-CMX/Amazon HD resolution is x2048 everywhere, ~~including their own store~~ they have silently upgraded their own storefront to 1800x (~x25xx).
 3. Their store has a broken download issue with no ETA for a fix. It's recommended to use Kobo to get any of their books for now. Their own store is DRM-free.
 4. Humble Bundle PDF export resolution (at 600 dpi) ranges from x4200 - x4913. CMX resolution varies, older volumes were mostly between x3056 and x3684, and post-CMX Amazon HD volumes are ~x2700. Standard non-CMX/Amazon HD resolution is 1600x -> x227x - x2400 (except for their own storefront which should be avoided, as it offers the worst quality and resolution combination at x2160 q40).
-5. Ranges between x3206 - x3713 for Comixology volumes. Post-CMX Amazon HD volume res has been downgraded to x2565 - ~x272x. Standard non-CMX/Amazon HD resolution is x2000 everywhere (except for Bookwalker Web where it is x1500).
-6. ~x2300 for newer (~post mid-2021) releases, but ~x1600 for older releases. Same quality no matter where you buy.
-7. Older titles are low quality, recent titles are decent quality. Apple Books has the highest quality.
+5. Both do NSFW releases on FAKKU, and anything on Fakku that isn't their unlimited chapters is x3200 more or less.
+6. Ranges between x3206 - x3713 for Comixology volumes. Post-CMX Amazon HD volume res has been downgraded to x2565 - ~x272x. Standard non-CMX/Amazon HD resolution is x2000 everywhere (except for Bookwalker Web where it is x1500).
+7. ~x2300 for newer (~post mid-2021) releases, but ~x1600 for older releases. Same quality no matter where you buy.
+8. Older titles are low quality, recent titles are decent quality. Apple Books has the highest quality.
 :::
 
 ## Chapters

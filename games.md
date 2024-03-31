@@ -90,7 +90,6 @@ Everything Games Related in One Page!
 == Tools
 - [Enka.Network](https://enka.network/) `GI` `HSR`
 - [Genshin Impact Interactive Map](https://genshin-impact-map.appsample.com/) `GI`
-- 
 
 :::
 

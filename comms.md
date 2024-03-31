@@ -18,14 +18,23 @@ A list of other otaku communities to check out based on your specific interests.
 
 ## Discord servers
 
+:::tabs
+
+== A-E
+- [r/Anime](https://discord.gg/r-anime)
 - [DigimonBasic](https://discord.com/invite/B3RXtnXRSG)
 - [Doujin Cafe](https://discord.gg/doujincafe)
+
+== F-J
 - [Japanese Language Study Space](https://discord.gg/jlss)
+
+== K-O
+- [r/Manga](https://discord.com/invite/manga)
 - [Mangadex](https://discord.com/invite/mangadex)
 - [Manga Piracy](https://discord.com/invite/ZgMtAyxFSU)
-- [r/Anime](https://discord.gg/r-anime)
-- [r/Manga](https://discord.com/invite/manga)
-- [Scanner Usage School Server](https://discord.com/invite/NCzxVB9)
+
+== P-T
+- [Scanner Usage School](https://discord.com/invite/NCzxVB9)
 - [Sonic Zone](https://discord.com/invite/bj5vmb96YT)
 - [Sitting on Clouds](https://discord.gg/x23SFbE)
 - [SquidBoard](https://discord.gg/ATjPbzR)
@@ -33,6 +42,21 @@ A list of other otaku communities to check out based on your specific interests.
 - [TheMoeWay](https://discord.com/invite/nhqjydaR8j)
 - [r/Tokusatsu](https://discord.com/invite/Rf2dDaJSp3)
 - [TypesettingTools](https://discord.com/invite/AZaVyPr)
+
+== U-Z
+a
+
+:::
+
+
+
+
+
+
+
+
+
+
 
 ## Subreddits
 

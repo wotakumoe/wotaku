@@ -321,7 +321,7 @@ I have tried to add all the well-known scanlators for manhwa and manhua, but for
 - [Master Duel Meta](https://www.masterduelmeta.com/)
 - [Duel Links Meta](https://www.duellinksmeta.com/)
 - [YGOPro Deck](https://ygoprodeck.com/) <Badge type="info" icon="i-iconoir-community" text="Forum" link="https://ygoprodeck.com/forum/" /> 
-- 
+
 ### Official Simulators
 - [Master Duel](https://www.konami.com/yugioh/masterduel/us/en/)
 - [Duel Links](https://www.konami.com/yugioh/duel_links/en/)
