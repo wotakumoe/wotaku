@@ -3,7 +3,7 @@ title: Anime Glossary
 customDescription: Discover the anime related terms you should know!
 ---
 
-[![](https://files.catbox.moe/bf68dp.png)](https://mangaplus.shueisha.co.jp/titles/100274)
+[![](https://files.catbox.moe/os4m0e.png)](https://mangaplus.shueisha.co.jp/titles/100274)
 
 # Anime Glossary
 Anime portion of the Wotaku glossary!

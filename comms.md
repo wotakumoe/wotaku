@@ -4,7 +4,7 @@ description: All the great otaku communities!
 customDescription: Explore a wide array of otaku communities! From forums and Discord servers to Subreddits and boards, find your ideal space for anime and manga discussions.
 ---
 
-[![](https://files.catbox.moe/bf68dp.png)](https://mangaplus.shueisha.co.jp/titles/100274)
+[![](https://files.catbox.moe/os4m0e.png)](https://mangaplus.shueisha.co.jp/titles/100274)
 
 # Communities
 A list of other otaku communities to check out based on your specific interests.

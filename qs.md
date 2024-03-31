@@ -4,7 +4,7 @@ description: Bitsized Wotaku!
 customDescription: Discover websites, software, and essentials for anime, manga, music, and more. Get started with these curated resources for otaku enthusiasts.
 ---
 
-[![](https://files.catbox.moe/bf68dp.png)](https://mangaplus.shueisha.co.jp/titles/100274)
+[![](https://files.catbox.moe/os4m0e.png)](https://mangaplus.shueisha.co.jp/titles/100274)
 
 # Quick Start
 The basic things to get you started.

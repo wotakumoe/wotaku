@@ -4,7 +4,7 @@ customDescription: "Information about digital manga & manhwa publishers on resul
 outline: [2,3]
 ---
 
-[![](https://files.catbox.moe/bf68dp.png)](https://mangaplus.shueisha.co.jp/titles/100274)
+[![](https://files.catbox.moe/os4m0e.png)](https://mangaplus.shueisha.co.jp/titles/100274)
 
 # Digital Manga & Manhwa Info
 Information about various types of publishers for manga and manhwa.

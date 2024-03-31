@@ -3,7 +3,7 @@ title: Manga Image Editing
 customDescription: Image Magick guide for Grayscaling, Leveling, and Optimizing
 ---
 
-[![](https://files.catbox.moe/bf68dp.png)](https://mangaplus.shueisha.co.jp/titles/100274)
+[![](https://files.catbox.moe/os4m0e.png)](https://mangaplus.shueisha.co.jp/titles/100274)
 
 # Manga Image Editing
 A simple to understand guide covering the most important page edits.

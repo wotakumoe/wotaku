@@ -4,7 +4,7 @@ description: Basic guide for transcoding audio file using foobar2000
 customDescription: Basic guide for transcoding audio file using foobar2000
 ---
 
-[![](https://files.catbox.moe/bf68dp.png)](https://mangaplus.shueisha.co.jp/titles/100274)
+[![](https://files.catbox.moe/os4m0e.png)](https://mangaplus.shueisha.co.jp/titles/100274)
 
 # Transcoding Audio
 Transcoding means converting/encoding audio files from one format to another. In this guide, we will discuss the basics and procedures of transcoding audio files. For the transcoding, we will use [**foobar200**](https://www.foobar2000.org/) but the process should be similar in other programs also.

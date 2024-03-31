@@ -4,7 +4,7 @@ description: Sofware to make life easier
 customDescription: Various add-ons to enhance your experience; not all of them are necessarily weeb-related, but they can be genuinely helpful.
 ---
 
-[![](https://files.catbox.moe/bf68dp.png)](https://mangaplus.shueisha.co.jp/titles/100274)
+[![](https://files.catbox.moe/os4m0e.png)](https://mangaplus.shueisha.co.jp/titles/100274)
 
 # Add-ons
 Various add-ons to enhance your experience; not all of them are necessarily weeb-related, but they can be genuinely helpful.

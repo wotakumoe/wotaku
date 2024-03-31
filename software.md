@@ -4,7 +4,7 @@ description: Software for every OS
 customDescription: Software to read manga or watch anime for every OS!
 ---
 
-[![](https://files.catbox.moe/bf68dp.png)](https://mangaplus.shueisha.co.jp/titles/100274)
+[![](https://files.catbox.moe/os4m0e.png)](https://mangaplus.shueisha.co.jp/titles/100274)
 
 # Software
 Software for your various devices to watch or read stuff. Covering all the operating systems.

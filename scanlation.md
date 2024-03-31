@@ -4,7 +4,7 @@ description: Guides and resources for scanlation
 customDescription: Guides and resources for everything scanlation related!
 ---
 
-[![](https://files.catbox.moe/bf68dp.png)](https://mangaplus.shueisha.co.jp/titles/100274)
+[![](https://files.catbox.moe/os4m0e.png)](https://mangaplus.shueisha.co.jp/titles/100274)
 
 # Scanlation
 Guides and resources for scanlating manga.

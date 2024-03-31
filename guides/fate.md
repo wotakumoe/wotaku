@@ -4,7 +4,7 @@ customDescription: Deep dive into the world of Type-Moon!
 outline: 1
 ---
 
-[![](https://files.catbox.moe/bf68dp.png)](https://mangaplus.shueisha.co.jp/titles/100274)
+[![](https://files.catbox.moe/os4m0e.png)](https://mangaplus.shueisha.co.jp/titles/100274)
 
 # Fate / Type-Moon
 The Fate series is a popular Japanese visual novel, anime, and video game franchise created by Type-Moon. It centers around the concept of the "Holy Grail War," a battle royale in which participants, known as "Masters," summon historical, mythological, and fictional figures, known as "Servants," to fight on their behalf.
