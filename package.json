@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@fmhy/colors": "^0.0.11",
-    "@fmhy/components": "^0.0.1",
+    "@fmhy/components": "^0.0.2",
     "@mdit/plugin-align": "^0.8.0",
     "@mdit/plugin-figure": "^0.8.0",
     "@mdit/plugin-img-lazyload": "^0.8.0",
