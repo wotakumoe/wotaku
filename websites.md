@@ -3,6 +3,9 @@ title: Websites
 description: Websites for anime, manga, novels & more
 customDescription: Discover the best websites for anime, manga, novels & more.
 ---
+
+[![](https://files.catbox.moe/bf68dp.png)](https://mangaplus.shueisha.co.jp/titles/100274)
+
 # Websites
 Online resources for anime, manga, novels and more.
 

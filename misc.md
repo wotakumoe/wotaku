@@ -3,6 +3,9 @@ title: Misc-sites
 description: Various sites for info, guide & tools
 customDescription: Discover a mix of info, guides, and tools for anime, manga & illustrations.
 ---
+
+[![](https://files.catbox.moe/bf68dp.png)](https://mangaplus.shueisha.co.jp/titles/100274)
+
 # Misc-sites
 Welcome to the misc-sites page, home to various communities, guides, and tools for your otaku needs and interests.
 <br>

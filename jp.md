@@ -5,6 +5,8 @@ customDescription: Culture, History, Festival & Language. One page for everythin
 outline: [1,2]
 ---
 
+[![](https://files.catbox.moe/bf68dp.png)](https://mangaplus.shueisha.co.jp/titles/100274)
+
 # Everything Japan
 Everything about Japan in one page! Language, culture, history, mythology & more.
 

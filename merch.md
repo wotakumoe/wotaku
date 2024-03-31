@@ -3,6 +3,9 @@ title: Merch
 description: Everything merch related!
 customDescription: Get information & guides on figurines, plushes, books, CDs, and more.
 ---
+
+[![](https://files.catbox.moe/bf68dp.png)](https://mangaplus.shueisha.co.jp/titles/100274)
+
 # Merch
 Looking to buy memorabilia from your favorite series and support the creators? Here you will find information on figurines, plushes, books, CDs and more!
 <br>

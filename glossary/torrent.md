@@ -3,6 +3,8 @@ title: Torrent Glossary
 customDescription: All the basic torrent related terms
 ---
 
+[![](https://files.catbox.moe/bf68dp.png)](https://mangaplus.shueisha.co.jp/titles/100274)
+
 # Torrent Glossary
 Torrent portion of the Wotaku glossary!
 

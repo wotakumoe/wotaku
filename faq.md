@@ -2,6 +2,9 @@
 title: Frequently Asked Questions
 customDescription: Answers to some of the most commonly asked questions about manga and anime we've seen in the otaku community.
 ---
+
+[![](https://files.catbox.moe/bf68dp.png)](https://mangaplus.shueisha.co.jp/titles/100274)
+
 # Frequently Asked Questions
 
 ## General

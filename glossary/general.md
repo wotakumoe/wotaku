@@ -2,6 +2,9 @@
 title: General Glossary
 customDescription: Weeb terms that you will see everywhere!
 ---
+
+[![](https://files.catbox.moe/bf68dp.png)](https://mangaplus.shueisha.co.jp/titles/100274)
+
 # Wotaku Glossary
 Want to increase your otaku knowledge? Look for no further! Presenting the Glossary section.
 <br>

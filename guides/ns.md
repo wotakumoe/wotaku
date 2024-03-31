@@ -3,6 +3,8 @@ title: Network Stream
 customDescription: Stream video files through DDL, IRC, and Torrent. Enjoy seamless online video streaming!
 ---
 
+[![](https://files.catbox.moe/bf68dp.png)](https://mangaplus.shueisha.co.jp/titles/100274)
+
 # Network Stream
 Network streaming DDL, IRC and Torrent video files.
 <br>
