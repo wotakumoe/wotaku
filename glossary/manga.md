@@ -28,13 +28,13 @@ Mangaka means the artist of the manga. Mangaka can also be the story writer. Gen
 
 
 ### Sound Effects
-Sound effects in manga visualizes the characters physical or mental state, environment of the scenario, motions or just sounds (obviously). [**Here**](https://www.muri.se/misc/soundfx.html) is a collection of Japanese Sound effects.
+Sound effects in manga visualizes the character's physical or mental state, the environment of the scenario, motions or just sounds (obviously). [**Here**](https://www.muri.se/misc/soundfx.html) is a collection of Japanese Sound effects.
 
 ![365 Days To The Wedding; The sfx here is どよおーん” (“Doyoooon”) which means “depressed atmosphere”](/glossary/manga/sfx.png)
 
 
 :::details **Example** {open}
-In the sfx image you can see the parallel lines at the tops. These are symbols; works like sfx. These symbols may be used with or without sfx. They can have multiple meaning depending on the context. Like in the next image, it means shock.
+In the sfx image you can see the parallel lines at the tops. These are symbols; works like sfx. These symbols may be used with or without sfx. They can have multiple meanings depending on the context. Like in the next image, it means shock.
 :::center
 ![Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout ep. 5](/glossary/manga/symbol.gif)
 :::
@@ -58,15 +58,15 @@ For a spread, you can set an imaginary line based on the page number.
 
 ### 4-Koma
 
-4-Koma (a.k.a. Yonkoma manga) features four panels, follows a specific pattern where every four panels lead up to a punchline. These are generally read up-down instead of traditional right-left. The right column is always the starting column. It can be single column or double column. For some manga or omake, it may follow right to left a.k.a. the traditional way.
+4-Koma (a.k.a. Yonkoma manga) features four panels and follows a specific pattern where every four panels lead up to a punchline. These are generally read up-down instead of the traditional right-left. The right column is always the starting column. It can be a single column or a double column. For some manga or omake, it may follow right to left a.k.a. the traditional way.
 
 ![Mousou Telepathy ch. 622 (left), Tsurezure Children ch. 20 (center) & Komi-san wa Komyushou Desu. ch 382 (right)](/glossary/panel/4koma.png)
 
-To easily understand the reading order, you can look for the space between rows or column. If the column has more space, then it's up to down. If otherwise, then right to left.
+To easily understand the reading order, you can look for the space between rows or columns. If the column has more space, then it's up to down. If otherwise, then right to left.
 
 ![](/glossary/panel/4komagrid.png)
 
-Occasionally, panel sizes or column gaps may exhibit variations, resulting in a change in the reading direction
+Occasionally, panel sizes or column gaps may exhibit variations, resulting in a change in the reading direction.
 
 ![](/glossary/panel/4komapanels.png)
 
@@ -76,7 +76,7 @@ At times, the beginning of a 4-Koma manga may feature a sizable illustration, sp
 
 ### Long strip
 
-It's newer type of comics format. Long strip comics are drawn for smartphone readers. The flow of the panels is up-down instead of traditional right-left/left-right. For long strip comics, artist has to follow [different rules](https://www.webtoons.com/en/tiptoon/lozolz/webtoon-editing-tips/viewer?title_no=1268&episode_no=24) than the traditional manga format. This format is widely used in the manhwa and manhua industries. But it's available for every region. Example: [Solo Leveling](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0/solo-leveling) (Manhwa), [Relife](https://mangadex.org/title/6e3553b9-ddb5-4d37-b7a3-99998044774e/relife) (Manga), [The Beginning After the End](https://comick.io/comic/00-the-beginning-after-the-end-1) (OEL).
+It's a newer type of comics format. Long strip comics are drawn for smartphone readers. The flow of the panels is up-down instead of traditional right-left/left-right. For long strip comics, the artist has to follow [different rules](https://www.webtoons.com/en/tiptoon/lozolz/webtoon-editing-tips/viewer?title_no=1268&episode_no=24) than in the traditional manga format. This format is widely used in the manhwa and manhua industries. But it's available for every region. Example: [Solo Leveling](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0/solo-leveling) (Manhwa), [Relife](https://mangadex.org/title/6e3553b9-ddb5-4d37-b7a3-99998044774e/relife) (Manga), [The Beginning After the End](https://comick.io/comic/00-the-beginning-after-the-end-1) (OEL).
 
 <div class="video_wrapper"><iframe src="https://iv.ggtyler.dev/embed/0hESrODhTMk" frameborder="0" allowfullscreen></iframe></div>
 
@@ -100,7 +100,7 @@ A panel/artwork that is spread out over two pages, reserved for particularly imp
 
 ![One Punch-Man ch. 155 (2-page)](/glossary/panel/spread_2.jpeg)
 
-Another type of spread where the panel covers more than one page, but not the whole 2 pages.
+Another type of spread where the panel covers more than one page, but not the whole two pages.
 
 ![Haikyu!! ch. 39](/glossary/panel/spread_1andahalf.png)
 
@@ -113,7 +113,7 @@ They can sometimes cover multiple pages, which is solved by having fold-outs.
 ## Release Terms
 
 ### Backfilling
-When the translation of a series starts at the latest chapters, with the publisher later working on the rest, starting from the beginning.
+When the translation of a series starts with the latest chapters, with the publisher later working on the rest, starting from the beginning.
 
 ### Doujinshi
 Doujinshi refers to self-published works. It can be a standalone self-published work, but it can also be a derivative of an existing published franchise or work. Doujinshi need not be NSFW, anything self-published counts.
@@ -124,7 +124,7 @@ Sometimes, mangaka publish their work as a doujin before an official serializati
 OEL, or Original English-language comics, originate in English-speaking countries. They prominently feature Asian cultural influences in their art styles, themes, and storytelling, while the creators, including artists and production, are primarily non-Asian. Prominent examples include [Bizenghast](https://www.mangaupdates.com/series/ia6dfoc/bizenghast), [Attack on Titan Anthology](https://www.mangaupdates.com/series/bo81id9/attack-on-titan-anthology), [Ghost in the Shell: Global Neural Network](https://www.mangaupdates.com/series/29bycqg/the-ghost-in-the-shell-global-neural-network) and [The Beginning After the End](https://www.mangaupdates.com/series/rwg23en/the-beginning-after-the-end).
 
 ### Omake
-A bonus/extra chapter which doesn't really affect the main story. Generally gives artworks, character backgrounds, mangaka notes or an extra story.
+A bonus/extra chapter that doesn't really affect the main story. Generally it gives artworks, character backgrounds, mangaka notes or an extra story.
 
 ### Omnibus
 A release type characteristic of western publishers where multiple tankoubon volumes are contained in one book. It's most commonly seen as 2-in-1 or 3-in-1 editions, tho it can sometimes contain an entire series, like in the case of the Death Note All-in-One volume. They're usually larger format and can contain extras, especially if the series already had a tankoubon release previously.
@@ -155,13 +155,13 @@ Tankoubon means the volume release. Many manga are initially published in magazi
 
 | Term | Meaning { class="compact" } |
 | --- | --- |
-| Aizouban ("loving collection edition") | Collector's edition volumes, usually printed in limited runs. These volumes are generally more expensive and come with special features such as new covers, higher quality paper, a special slipcase, etc. |
+| Aizouban ("loving collection edition") | Collector's edition volumes, usually printed in limited runs. These volumes are generally more expensive and come with special features such as new covers, higher-quality paper, a special slipcase, etc. |
 | Bunkoban ("paperback edition") | A volume printed in bunko format, or a typical Japanese novel-sized volume. Generally A6 size and thicker than tankoubon, usually with new covers. Bunkoban tends to contain considerably more pages than a tankoubon, meaning the bunko edition of a given manga will consist of fewer volumes. |
 | Goukaaizouban ("luxury favorite edition") | Another term occasionally used to designate a type of special release. |
 | Kanzenban ("perfect complete edition") | A special complete edition. Volumes are generally A5 size and will typically include individual chapter covers, color pages, and side-stories from its original magazine run, all of which are often omitted or converted to grayscale in standard tankoubon releases. |
 | Shinsouban ("new decoration edition") | A new edition, usually with special covers, new color pages and other extras. They can even feature completely redrawn pages and rewritten dialogue. |
 | Soushuuhen ("complete collection") | A format published by Shueisha beginning in 2008. Volumes are B5 size, larger than a kanzenban. They include chapter covers, color pages, and various bonus features such as posters and interviews. They're usually reserved for popular manga with ongoing serializations and contain far more pages than a standard tankoubon, thus feature more chapters in fewer volumes. |
-| Wide-ban | A larger (A5 size) edition. Many manga, particularly seinen and josei, are published in wide-ban editions after magazine serialization, and are never released in the tankoubon format that is common in shounen and shoujo manga. When a series originally published in tankoubon format is re-released in wide-ban, each volume will contain more pages than the original edition, thus consisting of fewer volumes. |
+| Wide-ban | A larger (A5 size) edition. Many manga, particularly seinen and josei, are published in wide-ban editions after magazine serialization, and are never released in the tankoubon format that is common in shounen and shoujo manga. When a series is originally published in tankoubon format and then re-released in wide-ban, each volume will contain more pages than the original edition, thus consisting of fewer volumes. |
 
 ### Webcomic/Webmanga
 Was originally published on a web platform. The platform can be free(twitter, pixiv etc) or paid (Comico, comic-walker etc.). Example: [ReLife](https://mangadex.org/title/6e3553b9-ddb5-4d37-b7a3-99998044774e/relife) ([comico](https://www.comico.jp/comic/23)) & [A Story About Smoking at the Back of the Supermarket](https://mangadex.org/title/baa95345-24fb-47a9-83e9-434ff671f968/super-no-ura-de-yani-suu-hanashi) ([twitter](https://twitter.com/jinusi822))

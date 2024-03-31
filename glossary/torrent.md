@@ -8,7 +8,7 @@ Torrent portion of the Wotaku glossary!
 
 | Term             | Definition  { class="compact" }     |
 |------------------|----------------------|
-| Client           | A program that enables peer-to-peer file sharing via the BitTorrent protocol (qBit, Transmission, etc) |
+| Client           | A program that enables peer-to-peer file sharing via the BitTorrent protocol (qBit, Transmission, etc.) |
 | Freeleech        | Downloading torrents with this tag won't impact your ratio.  |
 | Hit-and-Run      | To download a torrent without following the tracker's minimum seeding requirement. Abbreviated HnR or H&R. |
 | Leech / Leecher  | Can have two meanings: either a downloader in general or peers with a very low share ratio.  |
