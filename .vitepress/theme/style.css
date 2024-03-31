@@ -270,3 +270,12 @@ main figure figcaption {
   background-color: currentColor;
   color: inherit;
 }
+
+/*css fix for tooltip button*/
+
+.i-lucide-info {
+  max-height: 16px !important;
+}
+.tooltip-button {
+  padding: 1px !important;
+}
