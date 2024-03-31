@@ -18,7 +18,7 @@ A list of other otaku communities to check out based on your specific interests.
 
 ## Discord servers
 
-- [DigimonBasic](https://discord.com/invite/Rf2dDaJSp3)
+- [DigimonBasic](https://discord.com/invite/B3RXtnXRSG)
 - [Doujin Cafe](https://discord.gg/doujincafe)
 - [Japanese Language Study Space](https://discord.gg/jlss)
 - [Mangadex](https://discord.com/invite/mangadex)
