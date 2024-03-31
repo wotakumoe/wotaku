@@ -73,8 +73,8 @@ Want to increase your otaku knowledge? Look for no further! Presenting the Gloss
 | Shikishi | It is a high-quality art board mainly used for calligraphy and painting. Due to its exceptional quality, it is often utilized for collecting autographs featuring both simple and highly detailed artwork. Additionally, it is sometimes used as a promotional material for the show. [Examples of shikishi](https://old.reddit.com/r/Shikishi/). |
 | Shota  |  Young or young-looking boy in anime and manga.  |
 | Tokusatsu  |   Literally "Special effects". These term can be applied to movies and tv shows with superheroes with a recognizable style of special effects. [Examples of Tokusatsu](https://www.youtube.com/watch?v=bBsDwQ1by_o) |
-| Trap  |  A word used in anime community to refer to a person who looks the opposite gender. Most commonly used for male characters who look female. Example: [Urushibara Ruka from Steins; Gate](https://anidb.net/character/23270)   |
-| Yamato Nadeshiko  |  Japanese term used to describe an ideal Japanese woman. They are the epitome of pure, feminine beauty.   |
+| Trap  |  A word used in the anime community to refer to a person who looks the opposite gender. Most commonly used for male characters who look female. Example: [Urushibara Ruka from Steins; Gate](https://anidb.net/character/23270)   |
+| Yamato Nadeshiko  |  A Japanese term used to describe an ideal Japanese woman. They are the epitome of pure, feminine beauty.   |
 | Zettai Ryouiki  |   Translates to 'Absolute Territory'. Refers to the space of bare thighs between the skirt and above knee-length socks.  |
 
 
@@ -84,12 +84,12 @@ Want to increase your otaku knowledge? Look for no further! Presenting the Gloss
 | ------  | ------ |
 |  -san  |   It is used after a person's name to show respect. It is equivalent to 'Mr.', 'Mrs.', or 'Miss' in English.   |
 |  -kun  |   Used most often when referring to boys, this indicates affection or familiarity. Although it may occasionally be used by older men within their social circle, it can also be employed by anyone in reference to someone of lower status.   |
-|  -chan  |   An affectionate honorific indicating familiarity used mostly in reference to girls; also used in reference to cute persons or animals of either gender.   |
+|  -chan  |   An affectionate honorific indicating familiarity used mostly in reference to girls; it is also used in reference to cute people or animals of either gender.   |
 |  -(o)nii-chan  |   A familiar, somewhat childish way to refer to one’s older brother.   |
 |  -(o)nee-chan  |   A familiar, somewhat childish way to refer to one's older sister.   |
 |  -senpai  |  It is used to address upperclassmen or more experienced coworkers.    |
 |  -sensei  |  A respectful term for teachers, artists, or high-level professionals.    |
-|  No honorific  |   Indicates familiarity or closeness; if used without permission or reason, addressing someone in this manner would constitute an insult.   |
+|  No honorific  |   Indicates familiarity or closeness; if used without permission or reason, addressing someone in this manner would constitute as an insult.   |
 
 <Button link="https://rentry.org/jpfamily" icon="i-fxemoji-lightbulb">If you want to mention a family member in formal way, here is the guide.</Button>
 
@@ -100,13 +100,13 @@ Want to increase your otaku knowledge? Look for no further! Presenting the Gloss
 | Doujinshi | Doujinshi refers to **self-published works**, which can be **original creations or fan fictions**, such as manga, novels, artworks, music, and games. |
 | Doujinka / Doujinshika | Doujinka is **the creator** of doujinshi and is a member of a doujin circle. |
 | Doujin | 'Doujin' refers to **a group** of people who share a common interest. |
-| Circle | The term 'circle' refers to the group that **releases doujinshi**, the circle may consist a group of people or a single individual. |
+| Circle | The term 'circle' refers to the group that **releases doujinshi**, the circle may consist of a group of people or a single individual. |
 
 
 ## Idol / VTuber terms
 | Terms     | Meaning { class="compact" }  |
 | ------  | ------ |
-| Idol | Idols are live entertainers who are expected to be 'Seiso' or pure, meaning they do not engage in romantic relationships. Their primary goal is to entertain their fans. Idol culture is particularly popular in Asia, especially Japan and Korea. Idols are usually local, but occasionally, they can be foreigners too. However, the idol culture can be dark and questionable despite being portrayed as glamorous in anime and manga. Idols group can be girls or boys group. Example: [AKB48](https://www.akb48.co.jp/). Nowadays, VTuber groups such as [Hololive](https://www.youtube.com/@hololive) are managed as an idol group. |
+| Idol | Idols are live entertainers who are expected to be 'Seiso' or pure, meaning they do not engage in romantic relationships. Their primary goal is to entertain their fans. Idol culture is particularly popular in Asia, especially Japan and Korea. Idols are usually local, but occasionally, they can be foreigners too. However, the idol culture can be dark and questionable, despite being portrayed as glamorous in anime and manga. Idol groups can be a girls or boys group. Example: [AKB48](https://www.akb48.co.jp/). Nowadays, VTuber groups such as [Hololive](https://www.youtube.com/@hololive) are managed as an idol group. |
 | VTuber | A content creator, typically a streamer, who utilizes a 2D or 3D avatar instead of appearing as themselves. However, it is becoming increasingly common for VTubers to reveal themselves on social media or during streams. This often depends on the policies of the managing agency. |
 | Oshi | One's favourite idol. Also known as bias. |
 | Gachikoi / Riako | The fan himself. It's generally used when the affection is on a serious level. |
@@ -115,7 +115,7 @@ Want to increase your otaku knowledge? Look for no further! Presenting the Gloss
 | Chika Idol | Underground Idol. |
 | Corpo / Corporate VTuber | A VTuber under contract with an agency is known as a corporate VTuber. |
 | Indie / Independent VTuber | If she/he is not under any sort of contract. |
-| Oshi Mark | It's used to indicate an idol or VTuber. It can be based their name, their VTuber model, inside joke or just random. For example, [**Hoshimachi Suisei**](https://www.youtube.com/@HoshimachiSuisei)'s oshi mark is :comet:. It's because the term "Suisei (彗星)" means comet. [**Ninomae Ina'nis**](https://www.youtube.com/@NinomaeInanis)'s :octopus: because of her model. |
+| Oshi Mark | It's used to indicate an idol or VTuber. It can be based by their name, their VTuber model, inside joke or just random. For example, [**Hoshimachi Suisei**](https://www.youtube.com/@HoshimachiSuisei)'s oshi mark is :comet:. It's because the term "Suisei (彗星)" means comet. [**Ninomae Ina'nis**](https://www.youtube.com/@NinomaeInanis)'s :octopus: because of her model. |
 
 
 ## Kemonomimi
@@ -144,7 +144,7 @@ As clear by the word "baka", these character(s) are literally idiots, clumsy, an
 :::
 
 :::details Byoukidere
-'Byouki' mean illness, so these character(s) usually has some kind of physical disease, often fatal. They are mostly confined to a wheelchair or a hospital room. Generally they are kind, caring and sweet in nature. Example: [Miyazono Kaori from Shigatsu wa Kimi no Uso](https://anidb.net/character/65811)
+'Byouki' means illness, so these character(s) usually have some kind of physical disease, often fatal. They are mostly confined to a wheelchair or a hospital room. Generally, they are kind, caring and sweet in nature. Example: [Miyazono Kaori from Shigatsu wa Kimi no Uso](https://anidb.net/character/65811)
 
 ![Miyazono Kaori](/glossary/general/byoukidere.png)
 :::
@@ -156,7 +156,7 @@ Introverted character(s) that are shy, quiet, and asocial, they don't like to ge
 :::
 
 :::details Deredere
-'Dere' mean love, so a deredere character is all about being lovey-dovey. These character(s) are sweet, kind and very affectionate towards the person they love, while also being generally friendly towards other characters. Example: [Miia from Monster Musume](https://anidb.net/character/73747)
+'Dere' means love, so a deredere character is all about being lovey-dovey. These character(s) are sweet, kind and very affectionate towards the person they love, while also being generally friendly towards other characters. Example: [Miia from Monster Musume](https://anidb.net/character/73747)
 
 ![Miia](/glossary/general/deredere.png)
 
@@ -173,7 +173,7 @@ Over-achieving character(s) that are loyal to their masters, they view their mas
 :::
 
 :::details Hajidere
-Character(s) that isn't nervous and embarrassed with others, but on the contrary are when they are around their crush. Example: [Boa Hancok from One Piece](https://anidb.net/character/6071)
+Character(s) that aren't nervous and embarrassed with others, but on the contrary, are when they are around their crush. Example: [Boa Hancok from One Piece](https://anidb.net/character/6071)
 
 ![Boa Hancock](/glossary/general/hajidere.png)
 :::
@@ -189,26 +189,26 @@ Character(s) that isn't nervous and embarrassed with others, but on the contrary
 :::
 
 :::details Hinedere
-A Character(s) who has cynical world views, is cold-hearted, and are is highly arrogant. They will get easily annoyed by other people, including their love interest at first. Example:[Annie Leonhart from Attack on Titan](https://anidb.net/character/51168)
+A Character(s) who has cynical world views, is cold-hearted, and is highly arrogant. They will get easily annoyed by other people, including their love interest at first. Example:[Annie Leonhart from Attack on Titan](https://anidb.net/character/51168)
 
 ![Annie Leonhart](/glossary/general/hinedere.png)
 :::
 
 :::details Hiyakasudere
-'Hiyakasu' means 'to tease'. They are character who likes to tease others and sometimes flirt with those they like. They will act really seductive in front of other people and will tease those that get embarrassed easily by their actions and words, possibly the love interest. Example: [Holo from Spice & Wolf](https://anidb.net/character/29)
+'Hiyakasu' means 'to tease'. They are character(s) who likes to tease others and sometimes flirt with those they like. They will act really seductively in front of other people and will tease those that get embarrassed easily by their actions and words, possibly the love interest. Example: [Holo from Spice & Wolf](https://anidb.net/character/29)
 
 ![Holo](/glossary/general/hiyakasudere.png)
 :::
 
 :::details Kanedere
-'Kane' means money. They are the anime equivalent of gold diggers. They often just care about how much money a person has, and nothing else. However, if they truly love someone the habit can be broken. Example: [Eva Heinemann from Monster](https://anidb.net/character/4909)
+'Kane' means money. They are the anime equivalent of gold diggers. They often just care about how much money a person has, and nothing else. However, if they truly love someone, the habit can be broken. Example: [Eva Heinemann from Monster](https://anidb.net/character/4909)
 
 ![Eva Heinemann](/glossary/general/kanedere.png)
 
 :::
 
 :::details Mayadere
-A character who used to be an antagonist or villain of the series but switched sides after falling in love or becoming fond of another character. Example: [Esdeath from Akame ga Kill!](https://anidb.net/character/67551)
+A character(s) who used to be an antagonist or villain of the series but switched sides after falling in love or becoming fond of another character. Example: [Esdeath from Akame ga Kill!](https://anidb.net/character/67551)
 
 ![Esdeath](/glossary/general/mayadere.png)
 :::
@@ -236,7 +236,7 @@ Example: [Mizuno Kaede from Nyan Koi!](https://anidb.net/character/10841)
 :::
 
 :::details Sadodere
-Character(s) that indulge in the manipulation of their crush's feelings and humiliating them. They are cold, violent and merciless to others, hence making them difficult to connect with others. The are also sadistic due to finding joy in inflicting pain to their crush. Example: [Nagatoro from Don`t Toy with Me, Miss Nagatoro](https://anidb.net/anime/15622)
+Character(s) that indulge in the manipulation of their crush's feelings and humiliating them. They are cold, violent and merciless to others, hence making them difficult to connect with others. They are also sadistic due to finding joy in inflicting pain on their crush. Example: [Nagatoro from Don`t Toy with Me, Miss Nagatoro](https://anidb.net/anime/15622)
 
 ![Nagatoro](/glossary/general/sadodere.png)
 
@@ -247,46 +247,45 @@ Character(s) that indulge in the manipulation of their crush's feelings and humi
 
 :::details Kekkondere
 
-Character(s) type that is obsessed with getting married right away, even if it's someone they just met, in other words love at first sight, Their insistence on getting married comes from wanting to spent the rest of their life with their love interest, it could be get to the point where it becomes unhealthy, where they may turn into yanderes! Example: [Fujinomiya Neko from Masamune-kun no Revenge](https://anidb.net/character/85802)
+Character(s) type that is obsessed with getting married right away, even if it's someone they just met, in other words love at first sight, Their insistence on getting married comes from wanting to spend the rest of their life with their love interest, it could get to the point where it becomes unhealthy, where they may turn into yanderes! Example: [Fujinomiya Neko from Masamune-kun no Revenge](https://anidb.net/character/85802)
 
 ![Fujinomiya Neko](/glossary/general/kekkondere.png)
 :::
 
 :::details Kuudere
 
-Character(s) who is always calm and collected, especially in the most stressful of situations. They never panic and usually analyze and think through things til' they solve the problem, its rare for them to show affection or emotion to others in varying situations, however they could be hiding how the actually feel deep down. Example: [Hishiro Chizuru from ReLife](https://anidb.net/character/79913)
+Character(s) who is always calm and collected, especially in the most stressful of situations. They never panic and usually analyze and think through things til' they solve the problem, it's rare for them to show affection or emotion to others in varying situations, however they could be hiding how they actually feel deep down. Example: [Hishiro Chizuru from ReLife](https://anidb.net/character/79913)
 
 ![Hishiro Chizuru](/glossary/general/kuudere.png)
 
 | Terms     | Meaning { class="compact" } |
 | ------  | ------ |
-| Shundere | Shundere is an extreme version kuudere version, where they are emotionless all the time due to sadness or depression. They choose to lock  themselves from others and fully hide their emotions more than the Kuudere . Example: [Kuroki Tomoko from Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui!](https://anidb.net/character/56080) |
+| Shundere | Shundere is an extreme version kuudere version, where they are emotionless all the time due to sadness or depression. They choose to lock themselves away from others and fully hide their emotions more than the Kuudere. Example: [Kuroki Tomoko from Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui!](https://anidb.net/character/56080) |
 :::
 
 :::details Tsundere 
 
-Character(s) that show coldness and hostility on the outside, but have a heart of gold on the inside. Due do their prideful character, they tend to act mean to their love interest as a means to hide how they actually feel, because they don't want to hurt their pride, so they are not honest with themselves.
+Character(s) that show coldness and hostility on the outside, but have a heart of gold on the inside. Due to their prideful character, they tend to act mean to their love interest as a means to hide how they actually feel, because they don't want to hurt their pride, so they are not honest with themselves.
 
 
 | Types     | Meaning { class="compact" } |
 | ------  | ------ |
-|  Type A: TsunTsun  | Harsh by default. Only someone close will be able to bring their soft side. Can't seem to control their temper and will lash out for any reason. Example: [Taiga Aisaka from Toradora!](https://anidb.net/character/1009) |
-|  Type B: DereDere  |   Sweet by default. Their Tsun side comes out when they get embarrassed. Feeling of awkwardness around feelings and convos about love, overprotective of their partner, this can result in a lash out if their love interest or their relationship is threatened. Example: [Makise Kurisu from Steins;Gate](https://anidb.net/character/23271) |
+|  Type A: TsunTsun  | Harsh by default. Only someone close will be able to bring out their soft side. They can't seem to control their temper and will lash out for any reason. Example: [Taiga Aisaka from Toradora!](https://anidb.net/character/1009) |
+|  Type B: DereDere  |   Sweet by default. Their Tsun side comes out when they get embarrassed. Feelings of awkwardness around feelings and convos about love, overprotective of their partner, this can result in a lash out if their love interest or their relationship is threatened. Example: [Makise Kurisu from Steins;Gate](https://anidb.net/character/23271) |
 
 >There are several variations of the Tsundere types, which you can check out [here](https://the-dere-types.fandom.com/wiki/Tsundere#Variations_and_Similar_Japanese_Archetypes)
 :::
 
 :::details Yandere
 
-Character(s) whose love and devotion is so strong that they become excessively obsessive and possessive. They are depicted as becoming crazy after falling in love, capable of doing any number of immoral things if it means being able to get closer with their love interest. Also, if they ever think they can't be with their love interest or that he is cheating on her, they'd rather kill him and then herself rather than letting him be with someone else. Example: [Yuno Gasai from Mirai Nikki](https://anidb.net/character/25306)
+Character(s) whose love and devotion are so strong that they become excessively obsessive and possessive. They are depicted as becoming crazy after falling in love, capable of doing any number of immoral things if it means being able to get closer with their love interest. Also, if they ever think they can't be with their love interest or that he is cheating on her, they'd rather kill him and then herself rather than letting him be with someone else. Example: [Yuno Gasai from Mirai Nikki](https://anidb.net/character/25306)
 
 ![Yuno Gasai from Mirai Nikki](/glossary/general/yandere.png)
 :::
 
 :::details Yottadere
 
-Character(s) that can never stop having alcohol, they usually will always have alcohol with them, they usually are sober when they are with someone they love. They can also have different personality types, from someone serious and passionate - to someone wild and brute. Example: [Vanessa Enoteca
- from Black Clover](https://anidb.net/character/90830)
+Character(s) that can never stop having alcohol, they usually will always have alcohol with them, and they are usually sober when they are with someone they love. They can also have different personality types, from someone serious and passionate - to someone wild and brute. Example: [Vanessa Enoteca from Black Clover](https://anidb.net/character/90830)
 
 ![Vanessa Enoteca](/glossary/general/yottadere.png)
 :::
