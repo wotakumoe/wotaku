@@ -23,6 +23,7 @@ Software for your various devices to watch or read stuff. Covering all the opera
 - [Kaguya](https://github.com/hoangvu12/kaguya-app) <Badge type="tip" text="Guide" link="https://rentry.co/zz8r7dsy" />
 - [AnimeTV](https://github.com/amarullz/AnimeTV) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://amarullz.com/" />
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
+- [Kaizoyu!](https://github.com/astarivi/Kaizoyu) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://kaizoyu.ovh" /><Badge type="info" text="XDCC" />
 - [Miru](https://miru.js.org/)
 - [Animity](https://github.com/kl3jvi/animity)
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
