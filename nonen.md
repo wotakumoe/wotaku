@@ -249,6 +249,7 @@ Otaku resources for other languages/regions.
 ### Anime
 
 - **Stream**
+    - [AllWish](https://all-wish.me/home)
     - [Anime Fever](https://animefever.fun/)
     - [Animerulz](https://animerulz.pro/home/)
     - [Anplay](https://anplay.in/)
@@ -261,6 +262,7 @@ Otaku resources for other languages/regions.
     - [Anime Academy](https://animeacademy.in/)
     - [ATOZ CARTOONIST](https://www.atozcartoonist.com/)
     - [Puretoons](https://puretoons.in/)
+    - [SDToons](https://sdtoons.in/)
     - [Toonhub4u](https://toonhub4u.net/)
     - [ToonsHub](https://www.toonshub.xyz/)
     - [Toonworld4all](https://toonworld4all.me/)
