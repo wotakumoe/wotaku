@@ -4,8 +4,6 @@ description: Wotaku Music Megathread!
 customDescription: Wotaku Music Megathread! Everything Music Related in One Page.
 ---
 
-[![](https://files.catbox.moe/os4m0e.png)](https://mangaplus.shueisha.co.jp/titles/100274)
-
 # Music
 Everything Music Related in One Page!
 

@@ -4,8 +4,6 @@ description: Otaku resources for other regions
 customDescription: Discover anime, manga, and other related content for all the languages.
 ---
 
-[![](https://files.catbox.moe/os4m0e.png)](https://mangaplus.shueisha.co.jp/titles/100274)
-
 # Non-English
 Otaku resources for other languages/regions.
 <br>

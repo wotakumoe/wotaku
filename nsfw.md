@@ -4,8 +4,6 @@ description: huh... ahem...
 customDescription: Explore a wide range of NSFW websites, manga, manhwa, illustrations, and software.
 ---
 
-[![](https://files.catbox.moe/os4m0e.png)](https://mangaplus.shueisha.co.jp/titles/100274)
-
 # NSFW
 Everyone has to let off some steam once in a while, we don't judge.
 <br>

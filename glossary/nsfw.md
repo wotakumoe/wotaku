@@ -3,8 +3,6 @@ title: NSFW Glossary
 customDescription: Why not learn some words while reading or watching? Can help while searching.
 ---
 
-[![](https://files.catbox.moe/os4m0e.png)](https://mangaplus.shueisha.co.jp/titles/100274)
-
 # NSFW
 Want to learn what those elusive tags on hentai sites mean? Then this page is for you!
 <br>
