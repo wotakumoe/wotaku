@@ -16,8 +16,12 @@ Install an IRC client, [**HexChat**](https://hexchat.github.io/) if PC and [**Re
 
 Connect to **Rizon IRC network**.
 1. Add nickname for your account
-2. Select RIZON in the networks list
-3. Click Connect
+2. Select Rizon in the network list
+3. Click Edit
+4. Enable **Use SSL for all the servers  on this network**
+5. Enable **Accept invalid SSL certificates**
+6. Click Close
+7. Click Connect
 
 ![](/ss/mado/cnnctrzn.png)
 
@@ -37,7 +41,6 @@ By default, Revolution IRC doesn't list any networks, so you will need to add Ri
 
 :::
 
-<Button icon="i-fxemoji-warningsign">If you face any issues when connecting, try enabling "Accept invalid SSL certificates" in the network options</Button>
 
 ## Step 2
 
