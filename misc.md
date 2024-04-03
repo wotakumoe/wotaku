@@ -115,6 +115,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 ### Publisher
 - [Azuki](https://www.azuki.co/release-calendar) <Badge type="info" text="CaaS" />
+- [Cross Infinite World](https://www.crossinfworld.com/Calendar.html)
 - [Dark Horse](https://www.darkhorse.com/Manga/Upcoming)
 - [J-Novel Club](https://j-novel.club/calendar)
 - [Kodansha](https://kodansha.us/calendar/)
