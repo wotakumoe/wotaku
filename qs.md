@@ -117,16 +117,16 @@ The basic things to get you started.
 - [Luckychan](https://luckychan.app/) :mdi-cellphone-iphone:
 
 == Boards
-- [🍀/a/ - Anime & Manga](https://boards.4channel.org/a/)
-- [🍀/c/ - Anime/Cute](https://boards.4channel.org/c/)
-- [🍀/cgl/ - Cosplay & EGL](https://boards.4channel.org/cgl/)
-- [🍀/co/ - Comics & Cartoons](https://boards.4channel.org/co/)
-- [🍀/e/ - Ecchi](https://boards.4channel.org/e/)
-- [🍀/h/ - Hentai](https://boards.4channel.org/h/)
-- [🍀/m/ - Mecha](https://boards.4channel.org/m/)
-- [🍀/jp/ - Otaku Culture](https://boards.4channel.org/jp/)
-- [🍀/vt/ - Virtual YouTubers](https://boards.4channel.org/vt/)
-- [🍀/w/ - Anime/Wallpapers](https://boards.4channel.org/w/)
+- [:four-leaf-clover:/a/ - Anime & Manga](https://boards.4channel.org/a/)
+- [:four-leaf-clover:/c/ - Anime/Cute](https://boards.4channel.org/c/)
+- [:four-leaf-clover:/cgl/ - Cosplay & EGL](https://boards.4channel.org/cgl/)
+- [:four-leaf-clover:/co/ - Comics & Cartoons](https://boards.4channel.org/co/)
+- [:four-leaf-clover:/e/ - Ecchi](https://boards.4channel.org/e/)
+- [:four-leaf-clover:/h/ - Hentai](https://boards.4channel.org/h/)
+- [:four-leaf-clover:/m/ - Mecha](https://boards.4channel.org/m/)
+- [:four-leaf-clover:/jp/ - Otaku Culture](https://boards.4channel.org/jp/)
+- [:four-leaf-clover:/vt/ - Virtual YouTubers](https://boards.4channel.org/vt/)
+- [:four-leaf-clover:/w/ - Anime/Wallpapers](https://boards.4channel.org/w/)
 
 == Archive
 - [Desuarchive](https://desuarchive.org/)

@@ -110,7 +110,7 @@ You should never use cracked or modded VPN cause all of your traffic will go thr
 ## Manga
 
 :::details Where can I get the highest quality manga releases?
-[Nyaa.si](https://nyaa.si/), [🍀/co/](https://boards.4channel.org/co/) & [Madokami](/guides/mado.md). Manga image quality depends on the [**source**](/guides/digim) and how it's been ripped, with volume release usually being better than [**CaaS**](/glossary/manga#publisher) release. If you want to download officially translated manga, [**Nyaa**](https://nyaa.si/) is always the best source, though some of the rippers upload upscaled SD rips. We have listed the most trusted rippers in the Nyaa section. Madokami mainly mirrors the nyaa releases.
+[Nyaa.si](https://nyaa.si/), [:four-leaf-clover:/co/](https://boards.4channel.org/co/) & [Madokami](/guides/mado.md). Manga image quality depends on the [**source**](/guides/digim) and how it's been ripped, with volume release usually being better than [**CaaS**](/glossary/manga#publisher) release. If you want to download officially translated manga, [**Nyaa**](https://nyaa.si/) is always the best source, though some of the rippers upload upscaled SD rips. We have listed the most trusted rippers in the Nyaa section. Madokami mainly mirrors the nyaa releases.
 :::
 
 :::details What's the best website to read manga?

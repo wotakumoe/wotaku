@@ -152,7 +152,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [F95Zone](https://f95zone.to/) <Badge type="info" text="Needs account" />
 - [Hemdomblog](https://www.hemdomblog.com/)
 - [HentTag](https://hentag.com/)
-- [HMV Mania](https://hmvmania.com/) <Badge type="tip" text="🍀/h/ thread" link="https://anychans.github.io/4chan/h/7621997" /><Badge type="tip" text="Archive" link="https://archived.moe/h/thread/7621997/" />
+- [HMV Mania](https://hmvmania.com/) <Badge type="tip" text=":four-leaf-clover:/h/ thread" link="https://anychans.github.io/4chan/h/7621997" /><Badge type="tip" text="Archive" link="https://archived.moe/h/thread/7621997/" />
 - [Kasumi](http://xdcc.kasumi.moe/) <Badge type="tip" text="Guide" link="http://kasumi.moe/guide/" />
 - [Kemono](https://kemono.su/)
 - [Anime-sharing](http://www.anime-sharing.com/forum/)
@@ -184,8 +184,8 @@ Everyone has to let off some steam once in a while, we don't judge.
 
 - [r/hentai](https://old.reddit.com/r/hentai/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.com/invite/rhentai" />
 - [r/pornhwa](https://old.reddit.com/r/pornhwa/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.com/invite/epjkRVp7gD" />
-- [🍀/h/](https://boards.4chan.org/h/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/h/" /><Badge type="tip" text="Archive" link="https://archived.moe/h/" />
-- [🍀/e/](https://boards.4chan.org/e/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/e/" /><Badge type="tip" text="Archive" link="https://archived.moe/e/" />
+- [:four-leaf-clover:/h/](https://boards.4chan.org/h/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/h/" /><Badge type="tip" text="Archive" link="https://archived.moe/h/" />
+- [:four-leaf-clover:/e/](https://boards.4chan.org/e/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/e/" /><Badge type="tip" text="Archive" link="https://archived.moe/e/" />
 - [r/Artistic_Hentai](https://old.reddit.com/r/Artistic_Hentai/)
 - [r/Artistic_Ecchi](https://old.reddit.com/r/Artistic_Ecchi/)
 - [r/doujinshi](https://old.reddit.com/r/doujinshi/)
@@ -194,7 +194,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [r/HENTAI_GIF](https://old.reddit.com/r/HENTAI_GIF/)
 - [r/rule34](https://old.reddit.com/r/rule34/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/zMrMhpZ" />
 - [r/thighdeology](https://old.reddit.com/r/thighdeology/)
-- [🍀JAV Thread](https://4channel.org/jp/jav) <Badge type="tip" text="FAQ" link="https://jav.now.sh/" />
+- [:four-leaf-clover:JAV Thread](https://4channel.org/jp/jav) <Badge type="tip" text="FAQ" link="https://jav.now.sh/" />
 - [:ic-outline-discord: Rule34.xxx](https://discord.gg/rule34xxx)
 
 == Scripts

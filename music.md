@@ -232,7 +232,7 @@ Everything Music Related in One Page!
 ### Vocaloid
 - [Imo Danshaku](https://www.youtube.com/@user-oc3nr5dv6v/)
 - [Vocamed](https://www.youtube.com/@vocamed)
-- [🍀/jp/ vocaloid playlist ](https://www.youtube.com/playlist?list=PLQqLx44OgzZybkIf7LZ2YI8iLL9b3BpJw)
+- [:four-leaf-clover:/jp/ vocaloid playlist ](https://www.youtube.com/playlist?list=PLQqLx44OgzZybkIf7LZ2YI8iLL9b3BpJw)
 - [Vocaloid Big Hits](https://music.youtube.com/playlist?list=RDCLAK5uy_mgu07-HoqLSU-WqjK2ldEQWLuPPm3CAy8)
 
 == Portal
