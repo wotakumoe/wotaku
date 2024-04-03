@@ -258,6 +258,7 @@ I have tried to add all the well-known scanlators for manhwa and manhua, but for
 - [Ova Games](https://www.ovagames.com/)
 - [Dodi](https://dodi-repacks.site/)
 - [Gload](https://gload.to/)
+- [GOG Games](https://gog-games.to/)
 - [Free GOG PC Games](https://freegogpcgames.com/)
 - [Torrminatorr](https://torrminatorr.com/)
 - [Moriya Shrine](https://moriyashrine.org/)  <Badge type="info" text="Touhou" />

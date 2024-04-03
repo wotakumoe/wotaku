@@ -10,4 +10,4 @@
 <GradientCard title="日本のすべて" tag="Everything Japan" description="Everything about Japan in one page! Language, culture, history, mythology & more." theme="turquoise"/>
 <GradientCard title="商品" tag="Merch" description="Looking to buy memorabilia from your favorite series and support the creators? Here you will find information on figurines, plushes, books, CDs and more!" theme="turquoise"/>
 <GradientCard title="スキャンレーション" tag="Scanlation" description="Guides and resources for scanlating manga." theme="turquoise"/>
-<GradientCard title="コミュニティ" tag="Communities" description="A list of other otaku communities to check out based on your specific interests." theme="turquoise"/>
+<GradientCard title="コミュニティ" tag="Communities" description="A list of other otaku communities to check out based on your specific interests." theme="turquoise" variant="thin"/>
