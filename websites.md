@@ -19,11 +19,15 @@ Online resources for anime, manga, novels and more.
 - [KickAssAnime](https://kickassanime.am/) <Badge type="info" text="Proxies" link="https://kickassanimes.info/" /> <tooltip><ul><li>KAA encodes (videstreaming) are decent (the new encodes) and loads better.</li><li>Birdstream player scrapes Bilibili.</li><li>Has missing titles. But, you can request them in their support server.</li></ul></tooltip>
 - [HiAnime](https://hianime.to/home) <tooltip><ul><li>Huge library with Watch Together feature</li><li>Re-encodes shows for smaller size with lower overall bitrate.</li><li>Softsubs may create issues in different scenarios, but can be beneficial for multi-language support</li></ul></tooltip>
 - [Animepahe](https://animepahe.ru/) <Badge type="tip" text="2" link="https://animepahe.com/" /><Badge type="tip" text="3" link="https://animepahe.org" /><tooltip><ul><li>Uploads mini encoded files, useful if you want smaller files or have low bandwidth</li><li>Uploads Blu-ray and DVD versions if available</li><li>Has a good amount of missing titles</li></ul></tooltip>
-- [Kaguya](https://kaguya.app) <tooltip><ul><li>Scraping based website</li><li>Has a good amount of sources (Aniwave, Kickassanime etc.)</li><li>Scrapes manga sites too (Mangadex, Katana, Batoto etc.)</li><li>Only chromium browsers are supported & needs browser extension to work</li></ul></tooltip>
-- [One Pace](https://onepace.net/) <tooltip><ul><li>For One Piece only</li><li>Condensed anime episodes, removing filler scenes and merging episodes</li><li>Some arcs are still in <a href="https://docs.google.com/presentation/d/1br66Z5J0GXPLk5B_kLN9A7gn7hFgDJFhW_pY2bDxOZc/view">development</a>, with missing episodes or low resolution (480p) uploads</li><li>Main source is torrent based</li><li>Unofficial uploads on Stremio with <a href="https://app.strem.io/shell-v4.4/#/addons/community/all?addon=https%3A%2F%2F6b8ba440e405-onepace-stremio-v2.baby-beamup.club%2Fmanifest.json">One Pace add-on</a> or on <a href="https://rentry.co/onepace">Rentry</a></li></ul></tooltip>
 
 
 :::details More
+
+### Others
+- [Kaguya](https://kaguya.app) <tooltip><ul><li>Scraping based website</li><li>Has a good amount of sources (Aniwave, Kickassanime etc.)</li><li>Scrapes manga sites too (Mangadex, Katana, Batoto etc.)</li><li>Only chromium browsers are supported & needs browser extension to work</li></ul></tooltip>
+- [Hikari](https://watch.hikaritv.xyz/home)
+- [AnimeUI](https://animeui.com/)
+- [One Pace](https://onepace.net/) <tooltip><ul><li>For One Piece only</li><li>Condensed anime episodes, removing filler scenes and merging episodes</li><li>Some arcs are still in <a href="https://docs.google.com/presentation/d/1br66Z5J0GXPLk5B_kLN9A7gn7hFgDJFhW_pY2bDxOZc/view">development</a>, with missing episodes or low resolution (480p) uploads</li><li>Main source is torrent based</li><li>Unofficial uploads on Stremio with <a href="https://app.strem.io/shell-v4.4/#/addons/community/all?addon=https%3A%2F%2F6b8ba440e405-onepace-stremio-v2.baby-beamup.club%2Fmanifest.json">One Pace add-on</a> or on <a href="https://rentry.co/onepace">Rentry</a></li></ul></tooltip>
 
 ### Donghua
 - [Animekhor](https://animekhor.xyz/)
