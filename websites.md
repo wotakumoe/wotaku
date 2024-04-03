@@ -106,30 +106,39 @@ Online resources for anime, manga, novels and more.
 
 == Nyaa
 
-- [1r0n](https://nyaa.si/user/tsuna69) <Badge type="info" text="7seas" /><Badge type="info" text="comikey" /><Badge type="info" text="jnovel" /><Badge type="info" text="kmanga" /><Badge type="info" text="kodansha" /><Badge type="info" text="sq. enix" /><Badge type="info" text="up!" /><Badge type="info" text="viz" /><Badge type="info" text="yen" />
-- [anadius](https://nyaa.si/user/anadius) <Badge type="info" text="viz" />
-- [Danke](https://nyaa.si/?f=0&c=0_0&q=danke-empire) <Badge type="info" text="7seas" /><Badge type="info" text="kodansha" /><Badge type="info" text="viz" /><Badge type="info" text="yen" />
-- [Digital Manga Fan](https://nyaa.si/user/digitalmangafan) <Badge type="info" text="7seas" /><Badge type="info" text="jnovel" /><Badge type="info" text="kodansha" /><Badge type="info" text="op" /><Badge type="info" text="viz" /><Badge type="info" text="yen" />
-- [Empy](https://nyaa.si/user/empyrealarrow) <Badge type="info" text="compilation" /><Badge type="info" text="glacier" /><Badge type="info" text="plus" />
-- [Lord_ne](https://nyaa.si/user/lord_ne) <Badge type="info" text="crunchy" /><Badge type="info" text="lezhin" /><Badge type="info" text="yen" />
-- [LuCaZ](https://nyaa.si/user/LuCaZ) <Badge type="info" text="7seas" /><Badge type="info" text="yen" />
-- [Oakminati](https://nyaa.si/user/Oakminati) <Badge type="tip" text="Releases" link="https://sheet.zohopublic.com/sheet/published/3v5my3d014d3b97064f55b7114631ac87efda?sheetid=1&range=A1" /><Badge type="info" text="plus" /><Badge type="info" text="sq. enix" /><Badge type="info" text="up!" />
-- [Shellshock](https://nyaa.si/user/shellshock) <Badge type="info" text="kodansha" /><Badge type="info" text="viz" /><Badge type="info" text="yen" />
-- [Shizu](https://nyaa.si/user/wolfsbanes) <Badge type="info" text="kodansha" /><Badge type="info" text="sublime" /><Badge type="info" text="viz" /><Badge type="info" text="yen" />
-- [Stick](https://nyaa.si/user/dumbboy58) <Badge type="info" text="viz" /><Badge type="info" text="yen" />
-- [Ushi](https://nyaa.si/user/bakaushi) <Badge type="info" text="7seas" /><Badge type="info" text="yen" />
-- [XRA9](https://nyaa.si/?f=0&c=0_0&q=XRA9)
+- [1r0n](https://nyaa.si/user/tsuna69) <Badge type="info" text="Chapters"/><tooltip>[Comikey](https://comikey.com/), [J-Novel Club](https://j-novel.club/), [K Manga](https://kmanga.kodansha.com/), [Kodansha](https://kodansha.us/), [Manga UP!](https://global.manga-up.com/), [Seven Seas](https://sevenseasentertainment.com/), [SQUARE ENIX](https://squareenixmangaandbooks.square-enix-games.com/en-us), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
+- [anadius](https://nyaa.si/user/anadius) <Badge type="warning" text="Retired"/> <Badge type="info" text="Chapters"/> <tooltip>[VIZ](https://www.viz.com/)</tooltip>
+- [Danke](https://nyaa.si/?f=0&c=0_0&q=danke-empire) <Badge icon="i-twemoji-four-leaf-clover" type="tip" text="Desuarchive" link="" /><tooltip>[Seven Seas](https://sevenseasentertainment.com/), [Kodansha](https://kodansha.us/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
+- [Digital Manga Fan](https://nyaa.si/user/digitalmangafan) <tooltip>[J-Novel Club](https://j-novel.club/), [Kodansha](https://kodansha.us/), [ONE PEACE BOOKS](https://www.onepeacebooks.com/), [Seven Seas](https://sevenseasentertainment.com/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
+- [Empy](https://nyaa.si/user/empyrealarrow) <Badge type="info" text="Chapters"/> <Badge type="info" text="Compilations"/> <tooltip>[Glacier Bay Books](https://glacierbaybooks.com/), [MANGA Plus](https://mangaplus.shueisha.co.jp/)</tooltip>
+- [Lord_ne](https://nyaa.si/user/lord_ne) <tooltip>[Crunchyroll](https://store.crunchyroll.com/collections/manga/), [Lezhin Comics](https://www.lezhinus.com/en), [Yen Press](https://yenpress.com/)</tooltip>
+- [LuCaZ](https://nyaa.si/user/LuCaZ) <Badge type="info" text="Chapters"/> <tooltip>[Kodansha](https://kodansha.us/), [Seven Seas](https://sevenseasentertainment.com/), [Yen Press](https://yenpress.com/)</tooltip>
+- [Oakminati](https://nyaa.si/user/Oakminati) <Badge type="info" text="Compilations"/> <Badge type="tip" text="Releases" link="https://sheet.zohopublic.com/sheet/published/3v5my3d014d3b97064f55b7114631ac87efda?sheetid=1&range=A1" /> <tooltip>[MANGA Plus](https://mangaplus.shueisha.co.jp/), [Manga UP!](https://global.manga-up.com/) (Main), [SQUARE ENIX](https://squareenixmangaandbooks.square-enix-games.com/en-us)</tooltip>
+- [Shellshock](https://nyaa.si/user/shellshock) <tooltip>[Kodansha](https://kodansha.us/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
+- [Shizu](https://nyaa.si/user/wolfsbanes) <tooltip>[Kodansha](https://kodansha.us/), [SuBLime](https://www.sublimemanga.com/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
+- [Stick](https://nyaa.si/user/dumbboy58) <tooltip>[Cross Infinite World](https://www.crossinfworld.com/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
+- [Ushi](https://nyaa.si/user/bakaushi) <tooltip>[Seven Seas](https://sevenseasentertainment.com/), [Yen Press](https://yenpress.com/)</tooltip>
+- [XRA](https://nyaa.si/?f=0&c=0_0&q=XRA) <Badge type="tip" icon="i-twemoji-four-leaf-clover" text="Desuarchive" link="https://desuarchive.org/_/search/text/(digital)%20(xra-empire)/" /><Badge type="tip" text="Old Releases" link="https://links.gamesdrive.net/#/link/aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci94VGgyZ1M2YSNLWHR6WlpUc3YyZHVMVVdFZXpQZ1p3.RHVjaw" />
 
 == Direct Download
 
-- [Madokami](https://manga.madokami.al) <Badge type="info" text="Guide" link="/guides/mado" />
-- [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) <Badge type="danger" text="18+" />
+### Aggregators
+- [Madokami](https://manga.madokami.al) :glowing-star: <Badge type="info" text="Guide" link="/guides/mado" />
 - [Anna's Archive](https://annas-archive.org/)
-- [Desuarchive](https://desuarchive.org/) <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
+- [Desuarchive](https://desuarchive.org/) :four-leaf-clover: <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
+- [Library Genesis](https://libgen.li/)
+
+### Rippers
+- [1r0n](https://nyaa.si/user/tsuna69) <tooltip>Available in description</tooltip>
+- [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) <Badge type="danger" text="18+" />
+- [Danke](https://desuarchive.org/_/search/text/(digital)%20(danke-empire)/)
+- [LuCaZ](https://nyaa.si/user/LuCaZ) <tooltip>Available in description</tooltip>
+- [Stick](https://nyaa.si/user/dumbboy58) <tooltip>Available in description</tooltip>
+- [XRA](https://desuarchive.org/_/search/text/(digital)%20(xra-empire)/) <Badge type="tip" text="Old Releases" link="https://links.gamesdrive.net/#/link/aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci94VGgyZ1M2YSNLWHR6WlpUc3YyZHVMVVdFZXpQZ1p3.RHVjaw" />
 
 :::
 
-#### Scanlators
+### Scanlators
 
 :::tabs
 
