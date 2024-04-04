@@ -362,8 +362,10 @@ Otaku resources for other languages/regions.
 - [Grupa Mirai](https://www.grupa-mirai.pl/)
 - [Mior Subs](https://miorosubs.pl/)
 - [Nana Subs](https://nanasubs.com/)
-- [Okami-subs](https://okami-subs.pl/)
 - [Oglądaj Anime](https://ogladajanime.pl/)
+- [Okami-subs](https://okami-subs.pl/)
+- [Twoja Mała Japonia (aka. Wbijam)](https://twojamalajaponia.pl/)
+- [Wbijam](https://wbijam.pl/)
 
 
 ## Portuguese
