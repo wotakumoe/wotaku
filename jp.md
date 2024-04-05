@@ -22,15 +22,14 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Acquiring Japanese Efficiently](https://docs.google.com/document/d/1LH82FjsCqCgp6-TFqUcS_EB15V7sx7O1VCjREp6Lexw/edit)
 - [DJT GUIDE](https://djtguide.neocities.org/guide)
 - [itazuraneko](https://djtguide.github.io/learn/guide.html)
+- [Refold Japanese](https://refold.la/roadmap/)  <Badge type="tip" text="Docs" link="https://docs.google.com/document/d/1tQmoGwCJQqmjdmaQdigAG0Ph1ODSMsGhsD7qOhlUuc0/edit" />
 - [Perdition's Guide](https://perdition-japanese.github.io/posts/how-to-study-japanese/)
-- [Refold Japanese](https://docs.google.com/document/d/1tQmoGwCJQqmjdmaQdigAG0Ph1ODSMsGhsD7qOhlUuc0/edit)
 - [A Year to Learn Japanese](https://docs.google.com/document/d/10bRzVblKVOsQJjTc2PIi1Gbj_LrsJCkMkh0SutXCZdI/edit)
 - [Animecards Site](https://animecards.site/)
 - [Japanese with Anime](https://www.japanesewithanime.com/)
 - [r/LearnJapanese Starter's Guide](https://old.reddit.com/r/LearnJapanese/wiki/index/startersguide/)
 - [Jazzy's Guide](https://rentry.co/jazzy180)
 - [Inhae's blog](https://notes.inhae.blog/learning-japanese/)
-
 
 
 ## Kana
@@ -258,6 +257,7 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 - **jpdb difficulty list** <Badge type="tip" text="Anime" link="https://jpdb.io/anime-difficulty-list" /><Badge type="tip" text="Live Action" link="https://jpdb.io/live-action-difficulty-list" /> <Badge type="tip" text="Novel" link="https://jpdb.io/novel-difficulty-list" /><Badge type="tip" text="Visual Novel" link="https://jpdb.io/visual-novel-difficulty-list" /><Badge type="tip" text="Web Novel" link="https://jpdb.io/web-novel-difficulty-list" /> 
 - [Kuri's Japanese Media Recommendations](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/edit#gid=1019246469)
 - [Learn Natively](https://learnnatively.com/)
+- [Moeclub LN Recommendations](https://bookmeter.com/users/1313898/)
 - [Perdition](https://perdition-japanese.github.io/posts/how-to-study-japanese/#step-1-h--immersion-optional)
 - [Acquiring Japanese Efficiently](https://docs.google.com/document/d/1LH82FjsCqCgp6-TFqUcS_EB15V7sx7O1VCjREp6Lexw/edit#heading=h.ct5zhbvvh3b8)
 - [Inhae's blog](https://notes.inhae.blog/)
@@ -525,37 +525,72 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 == Media
 
 ### Video Player
-- [mpvacious](https://github.com/Ajatt-Tools/mpvacious)
-- [Animebook](https://animebook.github.io/) <Badge type="info" text="Guide" link="https://cademcniven.com/posts/20210703/" />
-- [memento](https://github.com/ripose-jp/Memento)
+- [mpvacious](https://github.com/Ajatt-Tools/mpvacious) :ic-baseline-window::mingcute-linux-fill:
+- [Animebook](https://animebook.github.io/) :mdi-earth: <Badge type="info" text="Guide" link="https://cademcniven.com/posts/20210703/" />
+- [memento](https://github.com/ripose-jp/Memento) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Asbplayer](https://killergerbah.github.io/asbplayer/) :mdi-earth::mingcute-chrome-fill: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/killergerbah/asbplayer" />
-- [Anime Subtitle Player](https://anime-subtitle-player.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/LostArrows27/anime-subtitle-player" />
-- [Voracious](https://voracious.app/)
+- [Anime Subtitle Player](https://anime-subtitle-player.vercel.app/) :mdi-earth: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/LostArrows27/anime-subtitle-player" />
+- [Voracious](https://voracious.app/) :ic-baseline-window::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/rsimmons/voracious" /> 
 
 ### Reader
-- [Mokuro](https://github.com/kha-white/mokuro)
+- [Mokuro](https://github.com/kha-white/mokuro) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
   - [Mokuro Catalog](https://catalog.mokuro.moe/)
   - [2500 Volume Mokuro OCR Manga PDF Collection](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTY0MTI2NQ.RHVjaw)
-- [ttsu Ebook Reader](https://reader.ttsu.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/ttu-ttu/ebook-reader" /> 
+- [ttsu Ebook Reader](https://reader.ttsu.app/) :mdi-earth: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/ttu-ttu/ebook-reader" /> 
 
 
 == Browser
 
-- [Yomitan](https://github.com/themoeway/yomitan) :mdi-firefox::mingcute-chrome-fill: <Badge type="tip" text="Guide" link="https://learnjapanese.moe/yomichan/" />
+- [Yomitan](https://github.com/themoeway/yomitan) :mdi-firefox::mingcute-chrome-fill: <Badge type="tip" text="Guide" link="https://learnjapanese.moe/yomichan/" /> `Pop-up dictionary`
     - [Yomitan Dictionaries](https://github.com/MarvNC/yomichan-dictionaries/)
     - [Yomitan Grammar Dictionaries](https://github.com/aiko-tanaka/Grammar-Dictionaries)
     - [Local Audio Server for Yomichan](https://github.com/themoeway/local-audio-yomichan)
     - [VNDB Names for Yomitan](https://github.com/kaanium/VNDB-Names-for-Yomitan)
-- [Rikitan](https://github.com/Ajatt-Tools/rikaitan) :mdi-firefox::mingcute-chrome-fill: <Badge type="tip" text="Guide" link="https://tatsumoto.neocities.org/blog/setting-up-yomichan" /><Badge type="tip" text="Dictionary" link="https://tatsumoto.neocities.org/blog/yomichan-and-epwing-dictionaries" />
-- [10ten Japanese Reader](https://github.com/birchill/10ten-ja-reader) :mdi-firefox::mingcute-chrome-fill::mingcute-safari-fill:
-- [Japanese.io](https://www.japanese.io/) :mingcute-chrome-fill:
-- [jimaku player](https://github.com/sheodox/jimaku-player) :mdi-language-javascript:
-- [Language Reactor](https://www.languagereactor.com/) :mingcute-chrome-fill:
-- [mirigana](https://github.com/mirigana/mirigana) :mdi-firefox::mingcute-chrome-fill:
+- [Rikitan](https://github.com/Ajatt-Tools/rikaitan) :mdi-firefox::mingcute-chrome-fill: <Badge type="tip" text="Guide" link="https://tatsumoto.neocities.org/blog/setting-up-yomichan" /><Badge type="tip" text="Dictionaries" link="https://tatsumoto.neocities.org/blog/yomichan-and-epwing-dictionaries" /> `Pop-up dictionary`
+- [10ten Japanese Reader](https://github.com/birchill/10ten-ja-reader) :mdi-firefox::mingcute-chrome-fill::mingcute-safari-fill: `Pop-up dictionary`
+- [Japanese.io](https://www.japanese.io/) :mingcute-chrome-fill: `Pop-up dictionary`
+- [jimaku player](https://github.com/sheodox/jimaku-player) :mdi-language-javascript: `Custom subs for CR`
+- [Language Reactor](https://www.languagereactor.com/) :mingcute-chrome-fill: `Pop-up dictionary & immersion helper` <Badge type="warning" text="Freemium" />
+- [mirigana](https://github.com/mirigana/mirigana) :mdi-firefox::mingcute-chrome-fill: `Insert furigana on Twitter`
 - [JPDB Web Reader](https://github.com/max-kamps/jpd-breader) :mdi-firefox::mingcute-chrome-fill:
-- [Rikaikun](https://github.com/melink14/rikaikun) :mingcute-chrome-fill:
+- [Rikaikun](https://github.com/melink14/rikaikun) :mingcute-chrome-fill: `Pop-up dictionary`
+- [Subadub](https://github.com/rsimmons/subadub) :mdi-firefox::mingcute-chrome-fill: `Netflix subs tool w/ pop-up dictionary`
 
-== Translator / OCR
+
+== Tools
+
+### Dictionary
+- [GoldenDict-NG](https://xiaoyifang.github.io/goldendict-ng/)  <Badge type="tip" text="Guide" link="https://tatsumoto.neocities.org/blog/setting-up-goldendict" /><Badge type="tip" text="Tools" link="https://github.com/Ajatt-Tools/gd-tools" />
+- [Kamite](https://github.com/fauu/Kamite)
+- [JL](https://github.com/rampaa/JL)
+
+### Subtitle
+- [Ageisub](https://aegisub.org/) :ic-baseline-window::ic-baseline-apple: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/Aegisub/Aegisub" />  `Subtitle editor`
+- [Subtitle Edit](https://www.nikse.dk/subtitleedit) :ic-baseline-window: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/SubtitleEdit/subtitleedit" />  `Subtitle editor`
+- [subs2srs](https://subs2srs.sourceforge.net/) :ic-baseline-window: `Generates audio clip from media using subs for Anki/SRS`
+- [subs2cia](https://github.com/dxing97/subs2cia) :ic-baseline-apple::mingcute-linux-fill: `Generates audio clip from media using subs for Anki/SRS`
+- [FFsubsync](https://github.com/smacke/ffsubsync) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: `Auto-sync subs with video`
+- [SubPlease](https://github.com/kanjieater/SubPlease) :ic-baseline-window::mingcute-linux-fill: `Generate accurate subtitles from audio`
+- [Subtitle Character Counter](https://cademcniven.com/subtitleCharacterCounter.html) :mdi-earth:
+- [Sub transition](https://github.com/Ajatt-Tools/sub-transition) `Speed up the video parts with no subs`
+
+
+### Audio tools
+- [Automatic Condensed Audio Dialogue Script](https://anacreondjt.gitlab.io/docs/condensed_audio/)
+- [Tenacity](https://tenacityaudio.org/) :ic-baseline-window::mingcute-linux-fill: `Audio Editor`
+- [Immersion pod](https://github.com/Ajatt-Tools/impd) `Condensed audio tools through mpd`
+
+### Games/VN
+- [EXSTATIC](https://github.com/KamWithK/exSTATic)
+- [Textractor](https://github.com/Artikash/Textractor) <Badge type="tip" text="Guide" link="https://xelieu.github.io/jp-lazy-guide/setupVnOnPC/" />
+- [Textractor websocket](https://github.com/kuroahna/textractor_websocket)
+
+### Others
+- [ComicEater](https://github.com/kanjieater/ComicEater)
+- [Supermemo](https://super-memory.com/) <Badge type="warning" text="Trialware"/><Badge type="tip" text="Wiki" link="https://www.supermemo.wiki/en/home" />
+
+
+== OCR
 
 - [Ballons Translator](https://github.com/dmMaze/BallonsTranslator)
 - [Capture2text](https://capture2text.sourceforge.net/)
@@ -570,37 +605,6 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 
 :::danger MTL won't be perfect
 Using Machine Translation to translate manga will be a mess. Manga has lots of slang, cultural references, and visual elements that MTL won't understand. So, it's better to have a human translator who knows the language and culture well. So don't expect it to be perfect.
-
-== Tools
-
-### Word Lookup
-- [GoldenDict-NG](https://xiaoyifang.github.io/goldendict-ng/)  <Badge type="tip" text="Guide" link="https://tatsumoto.neocities.org/blog/setting-up-goldendict" /><Badge type="tip" text="Tools" link="https://github.com/Ajatt-Tools/gd-tools" />
-- [Kamite](https://github.com/fauu/Kamite)
-- [JL](https://github.com/rampaa/JL)
-
-### Subtitle
-- [Ageisub](https://aegisub.org/)
-- [Subtitle Edit](https://www.nikse.dk/subtitleedit)
-- [subs2srs](https://subs2srs.sourceforge.net/)
-- [FFsubsync](https://github.com/smacke/ffsubsync)
-- [SubPlease](https://github.com/kanjieater/SubPlease)
-- [Subtitle Character Counter](https://cademcniven.com/subtitleCharacterCounter.html)
-- [Sub transition](https://github.com/Ajatt-Tools/sub-transition)
-- [subs2cia](https://github.com/dxing97/subs2cia)
-
-### Audio tools
-- [Automatic Condensed Audio Dialogue Script](https://anacreondjt.gitlab.io/docs/condensed_audio/)
-- [Tenacity](https://tenacityaudio.org/)
-- [Immersion pod](https://github.com/Ajatt-Tools/impd)
-
-### Games/VN
-- [EXSTATIC](https://github.com/KamWithK/exSTATic)
-- [Textractor](https://github.com/Artikash/Textractor) <Badge type="tip" text="Guide" link="https://xelieu.github.io/jp-lazy-guide/setupVnOnPC/" />
-- [Textractor websocket](https://github.com/kuroahna/textractor_websocket)
-
-### Others
-- [ComicEater](https://github.com/kanjieater/ComicEater)
-- [Supermemo](https://super-memory.com/) <Badge type="warning" text="Trialware"/><Badge type="tip" text="Wiki" link="https://www.supermemo.wiki/en/home" />
 
 :::
 
