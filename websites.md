@@ -103,7 +103,6 @@ Online resources for anime, manga, novels and more.
 - [Mangahasu](https://mangahasu.se/)
 - [Mangahub](https://mangahub.io/)<Badge type="info" text="Needs account" /><Badge type="danger" text="18+" />
 - [Manga Buddy](https://mangabuddy.com/home) <Badge type="info" text="2" link="https://mangamirror.com/home-page" /> <Badge type="info" text="3" link="https://mangaforest.com/home" /><Badge type="danger" text="18+" />
-- [Mangacultivator](https://mangacultivator.com)
 - [Like Manga](https://likemanga.io)
 - [Manga Here](https://www.mangahere.cc/) <Badge type="info" text="2" link="https://fanfox.net/" />
 - [Manganato](https://manganato.com/)
@@ -148,7 +147,7 @@ Online resources for anime, manga, novels and more.
 
 == Manga
 
-- [Animated Glitched Scans](https://anigliscans.com/) + :flag-south-korea:  <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/1dde9054-11fd-4f5e-a575-a50f7bd22d5f/animated-glitched-scans" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/15ncn1v/animated-glitched-scans" />
+- [Animated Glitched Scans](https://agscomics.com/) + :flag-south-korea:  <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/1dde9054-11fd-4f5e-a575-a50f7bd22d5f/animated-glitched-scans" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/15ncn1v/animated-glitched-scans" />
 - [Assorted Scans](https://assortedscans.com/)
 - [Danke fürs Lesen Scans](https://danke.moe/)  <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/91035fe1-d6b0-4816-be51-b54d05d546cf/danke-furs-lesen" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/xlp7424/danke-fuers-lesen" />
 - [LHTranslation](https://lhtranslation.net/)  <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/24adf288-d0e3-4d34-b342-bf8c189aacaa/lhtranslation" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/f6nc2yt/lhtranslation" />
