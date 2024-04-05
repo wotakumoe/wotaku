@@ -22,9 +22,20 @@ A list of other otaku communities to check out based on your specific interests.
 :::tabs
 
 == A-E
+- [ACE SCANS](https://discord.com/invite/e5kFjW8u3Q)
 - [r/Anime](https://discord.gg/r-anime)
+- [Animated Glitched Scans](https://discord.gg/YjuSSE273C)
+- [AniWave](https://discord.com/invite/KRQQKzQ6CS)
+- [Aniyomi](https://discord.gg/F32UjdJZrR)
+- [Batoto](https://discord.gg/batoto)
+- [Boredom Society Scanlations](https://discord.com/invite/NNS8cRR)
+- [Circle](https://discord.gg/85KtgSjkJJ)
+- [Comick](https://discord.gg/comick)
+- [Danke fürs Lesen](https://discord.com/invite/nxkDPvDhgv)
 - [DigimonBasic](https://discord.com/invite/B3RXtnXRSG)
 - [Doujin Cafe](https://discord.gg/doujincafe)
+- [HiAnime](https://discord.gg/hianime)
+- [Hikari](https://discord.gg/4bvsQS5555)
 
 == F-J
 - [Japanese Language Study Space](https://discord.gg/jlss)
@@ -32,29 +43,34 @@ A list of other otaku communities to check out based on your specific interests.
 == K-O
 - [r/Manga](https://discord.com/invite/manga)
 - [Mangadex](https://discord.com/invite/mangadex)
+- [Manga Katana](https://discord.com/invite/bXfTCCtdXQ)
+- [MangaPark](https://discord.gg/HXKXBTSGKS)
 - [Manga Piracy](https://discord.com/invite/ZgMtAyxFSU)
+- [Kaguya](https://discord.gg/382BEFfER6)
+- [KickAssAnime](https://discord.com/invite/qduzrvTG6p)
+- [Kirei](https://discord.com/invite/55y8apc)
+- [Knox](https://discord.com/invite/HcDZFB9Gub)
+- [Kuukiyomi](https://discord.gg/s82Vu589Ya)
+- [Laughing in Quarantine](https://discord.com/invite/x6AuGp7)
+- [LHTranslation](https://discord.com/invite/wxVRX4j)
 
 == P-T
 - [Scanner Usage School](https://discord.com/invite/NCzxVB9)
 - [Sonic Zone](https://discord.com/invite/bj5vmb96YT)
 - [Sitting on Clouds](https://discord.gg/x23SFbE)
+- [Sho Habby Scans](https://discord.gg/GdV76sQs7d)
 - [SquidBoard](https://discord.gg/ATjPbzR)
 - [Tachiyomi](https://discord.com/invite/tachiyomi)
+- [TCB Scans](https://discord.com/invite/tcbscans)
 - [TheMoeWay](https://discord.com/invite/nhqjydaR8j)
 - [r/Tokusatsu](https://discord.com/invite/Rf2dDaJSp3)
+- [Tritinia](https://discord.com/invite/NKXKeDNFB7)
 - [TypesettingTools](https://discord.com/invite/AZaVyPr)
 
 == U-Z
 a
 
 :::
-
-
-
-
-
-
-
 
 
 
