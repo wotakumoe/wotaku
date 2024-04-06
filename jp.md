@@ -572,7 +572,7 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 - [FFsubsync](https://github.com/smacke/ffsubsync) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: `Auto-sync subs with video`
 - [SubPlease](https://github.com/kanjieater/SubPlease) :ic-baseline-window::mingcute-linux-fill: `Generate accurate subtitles from audio`
 - [Subtitle Character Counter](https://cademcniven.com/subtitleCharacterCounter.html) :mdi-earth:
-- [Sub transition](https://github.com/Ajatt-Tools/sub-transition) `Speed up the video parts with no subs`
+- [Sub transition](https://github.com/Ajatt-Tools/sub-transition) :simple-icons-mpv: `Speed up the video parts with no subs`
 
 
 ### Audio tools
