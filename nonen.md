@@ -364,7 +364,7 @@ Otaku resources for other languages/regions.
 - [Nana Subs](https://nanasubs.com/)
 - [Oglądaj Anime](https://ogladajanime.pl/)
 - [Okami-subs](https://okami-subs.pl/)
-- [Wbijam](https://web.archive.org/web/20240327095022/https://wbijam.pl/) | [Players DB](https://docs.google.com/spreadsheets/d/1fnl__p0FmHxVLXBgtZmsYji6156z7i_4)
+- [Wbijam](https://web.archive.org/web/20240327095022/https://wbijam.pl/)  <Badge text="Players DB" link="https://docs.google.com/spreadsheets/d/1fnl__p0FmHxVLXBgtZmsYji6156z7i_4" />
 
 
 ## Portuguese
