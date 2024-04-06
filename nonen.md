@@ -362,8 +362,9 @@ Otaku resources for other languages/regions.
 - [Grupa Mirai](https://www.grupa-mirai.pl/)
 - [Mior Subs](https://miorosubs.pl/)
 - [Nana Subs](https://nanasubs.com/)
-- [Okami-subs](https://okami-subs.pl/)
 - [Oglądaj Anime](https://ogladajanime.pl/)
+- [Okami-subs](https://okami-subs.pl/)
+- [Wbijam](https://web.archive.org/web/20240327095022/https://wbijam.pl/) | [Players DB](https://docs.google.com/spreadsheets/d/1fnl__p0FmHxVLXBgtZmsYji6156z7i_4)
 
 
 ## Portuguese
