@@ -104,7 +104,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [Otaku Mode](https://otakumode.com/)
 
 ## Agents
-- [Black Sheep](https://blackship.com/)
+- [Black Ship](https://blackship.com/)
 - [Buyee](https://buyee.jp/?lang=en)
 - [Buy Smart Japan](https://www.buysmartjapan.com/)
 - [From Japan](https://www.fromjapan.co.jp/en)
