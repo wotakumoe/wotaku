@@ -45,7 +45,8 @@ export default defineConfig({
       },
     ],
   ],
-  srcExclude: ["README.md"],
+  srcDir: './docs',
+  srcExclude: ["**/README.md"],
   sitemap: {
     hostname: hostname,
   },
