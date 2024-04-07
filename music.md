@@ -66,7 +66,7 @@ Everything Music Related in One Page!
 - [Sukidesu OST](https://sukidesuost.info/) <Badge type="info" text="Mega" /><Badge type="info" text="Torrent" />
 - [Asia Media Blog](https://asiamediablog.com/media/music/) <Badge type="tip" text="2" link="https://jpmusicblog.com/music/" /><Badge type="tip" text="3" link="https://jpmediadl.com/music/" /><Badge type="danger" text="18+" /><Badge type="info" text="Host" />
 - [DoubleDouble](https://doubledouble.top/) :glowing-star: <Badge type="info" text="Downloader" /> 
-- [yet another music server](https://discord.gg/JHCTtMVK) :ic-outline-discord:  <Badge type="info" text="Downloader" />
+- [yet another music server](https://discord.gg/MVGEWUjZJP) :ic-outline-discord:  <Badge type="info" text="Downloader" />
 
 ### MP3
 - [OS Anime](https://osanime.com/) <Badge type="info" text="Direct" />
