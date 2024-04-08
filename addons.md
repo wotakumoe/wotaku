@@ -240,10 +240,11 @@ outline: 1
 - [Okular](https://okular.kde.org/) :ic-baseline-window::mingcute-linux-fill:
 - [Sigil-Ebook](https://sigil-ebook.com/) :ic-baseline-window::ic-baseline-apple:
 
-### Trackers
+### Tracker
 - [Animeo](https://github.com/Jenrykster/animeo) <Badge type="info" text="Stremio" />
 - [Hachidori](https://github.com/Atelier-Shiori/hachidori) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://malupdaterosx.moe/hachidori/" />:ic-baseline-apple:
 - [MALClient](https://github.com/Drutol/MALClient) <Badge type="tip" icon="i-octicon-globe" text="Store" link="https://apps.microsoft.com/store/detail/malclient/9NBLGGH5F3BL" />:ic-baseline-window:
+- [MAL-Sync](https://malsync.moe/) <Badge type="info" text="Browser" />
 - [Taiga](https://github.com/erengy/taiga) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://taiga.moe/" />:ic-baseline-window::mdi-download::mdi-rss:
 - [Trackma](https://github.com/z411/trackma) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://z411.github.io/trackma/" />:mingcute-linux-fill:
 - [Tundra](https://github.com/m4tx/tundra) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://tundra.moe/" />:mingcute-linux-fill:

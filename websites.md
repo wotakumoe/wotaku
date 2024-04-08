@@ -77,6 +77,13 @@ outline: 1
 <Button link="/guides/irc" icon="i-octicon-command-palette-16">To learn how to use IRC, you can read the guide</Button>
 
 
+::: info Related resources
+- [Anime apps for Android](/software.md#anime) and [PC](/software.md#anime-1)
+- [Anime downloader for PC](/addons.md#anime)
+- [Anime info sites](/misc.md#anime-1) and [tracking sites](/misc.md#general)
+- [Miscellaneous tools](/addons.md#anime-2) & [Extensions](/addons.md#anime-3)
+:::
+
 
 ![](/banner/manga.png)
 
@@ -175,6 +182,15 @@ outline: 1
 - [Manhua SY](https://www.manhuasy.com/manhua/) & [Manga SY](https://www.mangasy.com/)
 - [Rizz Comic](https://rizzcomic.com/) + :flag-south-korea:  <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/g8dqjxt/realm-scans" />
 - [xCaliBR Scans](https://xcalibrscans.com/)  <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/ynopo9s/cursed-xcalibr" />
+
+
+::: info Related resources
+- [Manga apps for Android](/software.md#manga) and [PC](/software.md#manga-1)
+- [Manga downloader for PC](/addons.md#manga)
+- [Manga related tools](/addons.md#manga-2)
+- [Manga hosting solutions](/addons.md#manga-1)
+
+:::
 
 
 ![](/banner/novels.png)

@@ -31,6 +31,12 @@ outline: 1
 - [Kenmei](https://www.kenmei.co/)
 
 
+::: info Related resources
+- [Tracker apps for phone](/addons.md#tracker)
+- [Tracker software for pc](/addons.md#tracker-1)
+
+:::
+
 ## Anime
 
 ### Index
@@ -163,7 +169,6 @@ outline: 1
 ## Others
 
 - [Anime Pictures](https://anime-pictures.net/) <Badge type="green" text="SFW" />
-- [Hentai Game CG](https://hentaigamecg.com/)
 - [Kemono](https://kemono.su/)
 - [Studio Ghibli](https://www.ghibli.jp/info/013772/) <Badge type="green" text="SFW" />
 - [Wallhaven](https://wallhaven.cc/)
@@ -172,6 +177,13 @@ outline: 1
 
 
 <Button icon="i-fxemoji-nooneunder18symbol">All listed sites have NSFW content unless specified otherwise</Button>
+
+::: info Related resources
+- [Illustration downloader](/addons.md#media-1)
+- [Related Extensions](/addons.md#others-5) & [scripts](/addons.md#imageboards)
+- [NSFW-specific ones](/nsfw.md#illustrations)
+:::
+
 
 ![](/banner/portals.png)
 # Portals
@@ -287,7 +299,7 @@ outline: 1
 ### Others
 - [VTuber Highlights](https://vtuber.atodeyo.com/) :flag-japan: <Badge type="info" text="News" />
 - [VTuber Newsdrop](https://vtubernewsdrop.com/) <Badge type="info" text="News" />
-- [HoloSongs](https://github.com/themintchoco/holosongs) <Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chromewebstore.google.com/detail/holosongs/ipibfcnlipdkimfmajnddpboejkocplf" />
+- [HoloSongs](https://github.com/themintchoco/holosongs) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/holosongs/ipibfcnlipdkimfmajnddpboejkocplf" />
 
 ## Hololive
 
@@ -297,7 +309,7 @@ outline: 1
 - [hololive TODAY](https://hololivetoday.com/) <Badge type="info" text="News" />
 - [Quick Reference](https://monkonius.github.io/hololive-quick-reference/) <Badge type="info" text="DB" />
 - [Hololive MMD Models](https://3d.nicovideo.jp/users/89765617/works) 
-- [HoloSchedule](https://github.com/YunzheZJU/holo-schedule) <Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chromewebstore.google.com/detail/holoschedule/fjicegllhddldnnkgfefblholeegpcad" /><Badge type="tip" icon="i-logos-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/holo-schedule/" />
+- [HoloSchedule](https://github.com/YunzheZJU/holo-schedule) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/holoschedule/fjicegllhddldnnkgfefblholeegpcad" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/holo-schedule/" />
 
 ## Youtube
 
@@ -325,8 +337,8 @@ outline: 1
 
 ## Socials
 
-- Hololive <Badge type="tip" icon="i-mdi-twitter" text="JP" link="https://twitter.com/hololivetv" /><Badge type="tip" icon="i-mdi-twitter" text="EN" link="https://twitter.com/hololive_En" /><Badge type="tip" icon="i-ic-outline-discord" text="Fan Discord" link="https://discord.gg/holofans" /><Badge type="tip" icon="i-logos-reddit-icon" text="Reddit" link="https://old.reddit.com/r/Hololive/" />
-- VShojo <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/VShojo" /><Badge type="tip" icon="i-ic-outline-discord" text="Fan Discord" link="https://discord.com/invite/vshojo-fan-server-598886416545611790" /><Badge type="tip" icon="i-logos-reddit-icon" text="Reddit" link="https://old.reddit.com/r/VShojo/" />
+- Hololive <Badge type="tip" icon="i-mdi-twitter" text="JP" link="https://twitter.com/hololivetv" /><Badge type="tip" icon="i-mdi-twitter" text="EN" link="https://twitter.com/hololive_En" /><Badge type="tip" icon="i-ic-outline-discord" text="Fan Discord" link="https://discord.gg/holofans" /><Badge type="tip" icon="i-mdi-reddit" text="Reddit" link="https://old.reddit.com/r/Hololive/" />
+- VShojo <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/VShojo" /><Badge type="tip" icon="i-ic-outline-discord" text="Fan Discord" link="https://discord.com/invite/vshojo-fan-server-598886416545611790" /><Badge type="tip" icon="i-mdi-reddit" text="Reddit" link="https://old.reddit.com/r/VShojo/" />
 - PhaseConnect <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/PhaseConnect" /><Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/phaseconnect" />
 - idol <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/idol_corp" /><Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/idolcorp" />
 - PRISM <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/PRISMproj" /><Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/prismworld" />
@@ -337,6 +349,7 @@ outline: 1
 ### Free
 - [Delivering Hope](https://david-wu-softdev.itch.io/delivering-hope-hololive-fangame)
 - [Holo on Suika](https://tkgames.jp/holo_watermelon.html)
+- [Holo X Break](https://store.steampowered.com/app/2719150/Holo_X_Break/)
 - [Holocure](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/) :glowing-star:
 - [Hololive Councilrys RPG](https://kebbie.itch.io/councilrysrpg)
 - [Idol Showdown](https://store.steampowered.com/app/1742020/Idol_Showdown/) :glowing-star:
@@ -399,7 +412,6 @@ outline: 1
 - [Chroneco](https://twitter.com/chrone_co)
 - [JQHN](https://twitter.com/JQHNHARQLD)
 
-:::
 
 ![](/banner/others.png)
 # Others
