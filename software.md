@@ -2,19 +2,16 @@
 title: Software
 description: Software for every OS
 customDescription: Software to read manga or watch anime for every OS!
+outline: [1,2]
 ---
 
-# Software
-Software for your various devices to watch or read stuff. Covering all the operating systems.
-<br>
+<GradientCard title="ソフトウェア" tag="Software" description="Software for your various devices to watch or read stuff. Covering all the operating systems." theme="turquoise"/>
 
 ![](/banner/and.png)
 
-## Android
+# Android
 
-:::tabs
-
-== Anime
+## Anime
 
 - [Aniyomi](https://github.com/aniyomiorg/aniyomi) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://aniyomi.org/" />
 - [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) :glowing-star:
@@ -28,8 +25,7 @@ Software for your various devices to watch or read stuff. Covering all the opera
 - [Animity](https://github.com/kl3jvi/animity)
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
 
-
-== Manga
+## Manga
 
 ### Online
 - [Mihon](https://github.com/mihonapp/mihon) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://mihon.app/" /> <Badge type="tip" text="Extensions" link="https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo" />
@@ -46,7 +42,7 @@ Software for your various devices to watch or read stuff. Covering all the opera
 - [Kuro Reader +](https://kurotoshiro.dev/) <Badge type="warning" text="Freemium" />
 - [CDisplayEx Comic Reader](https://play.google.com/store/apps/details?id=com.progdigy.cdisplay.free) <Badge type="warning" text="Freemium" />
 
-== Novel
+## Novel
 
 ### Online
 - [Shosetsu](https://gitlab.com/shosetsuorg/shosetsu) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://shosetsu.app/" />
@@ -55,21 +51,17 @@ Software for your various devices to watch or read stuff. Covering all the opera
 - [Ranobe](https://github.com/ranobe-org/ranobe)
 - [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha)
 
-
 ### Local
 - [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) <Badge type="warning" text="Freemium" />
 - [ReadEra](https://play.google.com/store/apps/details?id=org.readera) <Badge type="warning" text="Freemium" />
 - [Lithium: EPUB Reader](https://play.google.com/store/apps/details?id=com.faultexception.reader&hl=en&gl=US)
 
-:::
 
 ![](/banner/pc.png)
 
-## PC
+# PC
 
-:::tabs
-
-== Anime
+## Anime
 
 - [Miru](https://github.com/ThaUnknown/miru/) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-globe" text="Web" link="https://miru.watch/" /> <Badge type="tip" text="Torrent" />
 - [WebTorrent](https://github.com/webtorrent/webtorrent) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-globe" text="Web" link="https://webtorrent.io/" /> <Badge type="tip" text="Torrent" />
@@ -78,7 +70,7 @@ Software for your various devices to watch or read stuff. Covering all the opera
 - [Layendanimator](https://github.com/Layendan/Layendanimator) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="tip" text="Online" />
 - [Totoro](https://github.com/insomniachi/Totoro) :ic-baseline-window: <Badge type="tip" text="Torrent" /><Badge type="tip" text="Online" />
 
-== Manga
+## Manga
 
 ### Online
 
@@ -99,7 +91,7 @@ Software for your various devices to watch or read stuff. Covering all the opera
 - [Yomikiru](https://github.com/mienaiyami/yomikiru) :ic-baseline-window::mingcute-linux-fill: <tooltip>Simple UI with all the basic settings but has moiré issue. Has longstrip mode and anilist tracking.</tooltip>
 
 
-== Novel
+## Novel
 
 - [Kavita](https://github.com/Kareadita/Kavita) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-globe" text="Web" link="https://www.kavitareader.com/" />
 - [Komga](https://komga.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
@@ -108,19 +100,18 @@ Software for your various devices to watch or read stuff. Covering all the opera
 - [Koodo Reader](https://github.com/koodo-reader/koodo-reader) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-globe" text="Web" link="https://www.koodoreader.com/" />
 - [Thorium reader](https://github.com/edrlab/thorium-reader) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
-:::
+
 
 ![](/banner/ios.png)
 
-## iOS
+# iOS
 
-:::tabs
-== Anime
+## Anime
 - [9Animator](https://github.com/SuperMarcus/NineAnimator)
 - [Chouten beta](https://testflight.apple.com/join/Cg1rAPB8) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/GJGMJRPJ5j" />
 - [Soshiki](https://github.com/soshikimoe/soshiki-ios)
 
-== Manga
+## Manga
 
 ### Online
 - [Paperback](https://github.com/Paperback-iOS/app)
@@ -133,7 +124,7 @@ Software for your various devices to watch or read stuff. Covering all the opera
 - [YACReader](https://apps.apple.com/app/id635717885) :glowing-star:
 - [SideBooks](https://apps.apple.com/us/app/sidebooks/id409777225)
 
-:::
+
 
 ::: tip "iOS app not working. What should i do?"
 

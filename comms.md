@@ -5,6 +5,9 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 ---
 
 # Communities
+
+<br>
+
 A list of other otaku communities to check out based on your specific interests.
 <br>
 
@@ -19,9 +22,9 @@ A list of other otaku communities to check out based on your specific interests.
 
 ## Discord servers
 
-:::tabs
 
-== A-E
+### A-E
+
 - [ACE SCANS](https://discord.com/invite/e5kFjW8u3Q)
 - [r/Anime](https://discord.gg/r-anime)
 - [Animated Glitched Scans](https://discord.gg/YjuSSE273C)
@@ -37,10 +40,10 @@ A list of other otaku communities to check out based on your specific interests.
 - [HiAnime](https://discord.gg/hianime)
 - [Hikari](https://discord.gg/4bvsQS5555)
 
-== F-J
+### F-J
 - [Japanese Language Study Space](https://discord.gg/jlss)
 
-== K-O
+### K-O
 - [r/Manga](https://discord.com/invite/manga)
 - [Mangadex](https://discord.com/invite/mangadex)
 - [Manga Katana](https://discord.com/invite/bXfTCCtdXQ)
@@ -66,13 +69,6 @@ A list of other otaku communities to check out based on your specific interests.
 - [r/Tokusatsu](https://discord.com/invite/Rf2dDaJSp3)
 - [Tritinia](https://discord.com/invite/NKXKeDNFB7)
 - [TypesettingTools](https://discord.com/invite/AZaVyPr)
-
-== U-Z
-a
-
-:::
-
-
 
 
 ## Subreddits

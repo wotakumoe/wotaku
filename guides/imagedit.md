@@ -4,6 +4,9 @@ customDescription: Image Magick guide for Grayscaling, Leveling, and Optimizing
 ---
 
 # Manga Image Editing
+
+<br>
+
 A simple to understand guide covering the most important page edits.
 <Authors page="imagedit" />
 

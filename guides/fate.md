@@ -5,6 +5,9 @@ outline: 1
 ---
 
 # Fate / Type-Moon
+
+<br>
+
 The Fate series is a popular Japanese visual novel, anime, and video game franchise created by Type-Moon. It centers around the concept of the "Holy Grail War," a battle royale in which participants, known as "Masters," summon historical, mythological, and fictional figures, known as "Servants," to fight on their behalf.
 
 <Authors page="fate" />
@@ -40,9 +43,7 @@ This is the main series. **Fate/Zero** is the series that took place before [**S
 
 ## Fate/Grand Order
 
-:::tabs
-
-== Release Order
+### Release Order
 1. [Fate/Grand Order: First Order](https://anilist.co/anime/97815/FateGrand-Order-First-Order/)
 2. [Fate/Grand Order Absolute Demonic Front: Babylonia - Initium Iter](https://anilist.co/anime/110851/FateGrand-Order-Absolute-Demonic-Front-Babylonia--Initium-Iter/)
 3. [Fate/Grand Order Absolute Demonic Front: Babylonia](https://anilist.co/anime/103275/FateGrand-Order-Absolute-Demonic-Front-Babylonia/)
@@ -50,7 +51,7 @@ This is the main series. **Fate/Zero** is the series that took place before [**S
 5. [Fate/Grand Order Divine Realm of the Round Table: Camelot - Paladin; Agateram](https://anilist.co/anime/103277/FateGrand-Order-Divine-Realm-of-the-Round-Table-Camelot--Paladin-Agateram/)
 6. [Fate/Grand Order Final Singularity - Grand Temple of Time: Solomon](https://anilist.co/anime/116756/FateGrand-Order-Final-Singularity--Grand-Temple-of-Time-Solomon/)
 
-== Chronological Order
+### Chronological Order
 1. [Fate/Grand Order: First Order](https://anilist.co/anime/97815/FateGrand-Order-First-Order/)
 2. [Fate/Grand Order Divine Realm of the Round Table: Camelot - Wandering; Agateram](https://anilist.co/anime/103276/FateGrand-Order-Divine-Realm-of-the-Round-Table-Camelot--Wandering-Agateram/)
 3. [Fate/Grand Order Divine Realm of the Round Table: Camelot - Paladin; Agateram](https://anilist.co/anime/103277/FateGrand-Order-Divine-Realm-of-the-Round-Table-Camelot--Paladin-Agateram/)
@@ -58,7 +59,6 @@ This is the main series. **Fate/Zero** is the series that took place before [**S
 5. [Fate/Grand Order Absolute Demonic Front: Babylonia](https://anilist.co/anime/103275/FateGrand-Order-Absolute-Demonic-Front-Babylonia/)
 6. [Fate/Grand Order Final Singularity - Grand Temple of Time: Solomon](https://anilist.co/anime/116756/FateGrand-Order-Final-Singularity--Grand-Temple-of-Time-Solomon/)
 
-:::
 
 
 ::: tip Notes
@@ -89,7 +89,6 @@ This is connected to "**Fate/stay night**" cause it has characters and events fr
 3. [Lord El-Melloi II’s Case Files {Rail Zeppelin} Grace note -Special Episode-](https://anilist.co/anime/136344/Lord-ElMelloi-IIs-Case-Files-Rail-Zeppelin-Grace-note-Special-Episode/)
 
 <br>
-
 
 ## Fate/strange Fake
 Watch this after finishing the "**Lord El-Melloi II's Case Files**" series.
@@ -128,9 +127,7 @@ These aren't related to the "**Fate**" main series nor the "**Fate/Grand Order**
 
 ## Kara no Kyoukai
 
-::: tabs
-
-== Release order
+### Release order
 1. [Kara no Kyoukai 1: Fukan Fuukei](https://anilist.co/anime/2593/the-Garden-of-sinners-Chapter-1-Thanatos-Overlooking-View/)
 2. [Kara no Kyoukai 2: Satsujin Kousatsu I](https://anilist.co/anime/3782/the-Garden-of-sinners-Chapter-2-and-nothing-heart-Murder-Speculation-Part-A/)
 3. [Kara no Kyoukai 3: Tsuukaku Zanryuu](https://anilist.co/anime/3783/the-Garden-of-sinners-Chapter-3-ever-cry-never-life-Remaining-Sense-of-Pain/)
@@ -145,8 +142,9 @@ These aren't related to the "**Fate**" main series nor the "**Fate/Grand Order**
 - "**Kara no Kyoukai Remix: Gate of seventh heaven**" is an optional watch. It recaps the previous movies with a few new scenes. Often it can help make things a little more clear and help understand what's going on.
 - You should also watch the movie [**Kara no Kyoukai: Mirai Fukuin (2013)**](https://anilist.co/anime/14807/the-Garden-of-sinners-recalled-out-summer/) and [Mirai Fukuin Extra Chorus](https://anilist.co/anime/20697/the-Garden-of-sinners-recalled-out-summer-extra-chorus/) to top it off.
 
+:::
 
-== Chronological Order
+### Chronological Order
 
 Don't Use this If you are watching "**Kara no Kyouokai**" for the first time. Only watch in this order if you have watched it in the Release Order before and are confident enough that you'll be abe to understand it by watching it in the Chronological Order.
 
@@ -161,7 +159,6 @@ Don't Use this If you are watching "**Kara no Kyouokai**" for the first time. On
 9. [Kara no Kyoukai: Shuushou](https://anilist.co/anime/6954/the-Garden-of-sinners-Chapter-8-The-Final-Chapter/) <Badge type="info" text="Epilogue" />
 10. [Kara no Kyoukai: Mirai Fukuin](https://anilist.co/anime/14807/the-Garden-of-sinners-recalled-out-summer/)
 
-::: 
 
 <br>
 
@@ -179,6 +176,9 @@ Unexpectedly, a young boy named Soujuurou Shizuki is drawn to the mansion and co
 ![](/banner/vn.png)
 
 # Visual Novels
+
+<br>
+
 1. [Fate/stay night](https://vndb.org/v11)
 2. [Fate/hollow ataraxia](https://vndb.org/v50)
 3. [Kagetsu Tohya](https://vndb.org/v47)
@@ -194,6 +194,8 @@ Unexpectedly, a young boy named Soujuurou Shizuki is drawn to the mansion and co
 ![](/banner/games.png)
 
 # Games
+
+<br>
 
 1. [Fate/unlimited codes](https://typemoon.fandom.com/wiki/Fate/unlimited_codes)
 2. [Fate/tiger colosseum](https://typemoon.fandom.com/wiki/Fate/tiger_colosseum)
@@ -211,6 +213,8 @@ Unexpectedly, a young boy named Soujuurou Shizuki is drawn to the mansion and co
 ![](/banner/novels.png)
 
 # Novels & Light Novels
+
+<br>
 
 1. [Kara no Kyoukai](https://myanimelist.net/manga/2062/Kara_no_Kyoukai__The_Garden_of_Sinners) <Badge type="info" text="Novel Updates" link="https://www.novelupdates.com/series/kara-no-kyoukai/" />
 2. [Fate/zero](https://anilist.co/manga/33649/FateZero/) <Badge type="info" text="Novel Updates" link="https://www.novelupdates.com/series/fatezero/" />
@@ -231,6 +235,9 @@ Unexpectedly, a young boy named Soujuurou Shizuki is drawn to the mansion and co
 ![](/banner/manga.png)
 
 # Manga
+
+<br>
+
 1. [Fate/stay night](https://anilist.co/manga/30715/Fatestay-night/)
 2. [Fate/Zero](https://anilist.co/manga/55191/FateZero/)
 3. [Himuro no Tenchi - Fate/school life](https://anilist.co/manga/49381/Himuro-no-Tenchi-Fateschool-Life/)

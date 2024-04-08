@@ -2,15 +2,15 @@
 title: Scanlation
 description: Guides and resources for scanlation
 customDescription: Guides and resources for everything scanlation related!
+outline: [1,2]
 ---
 
-# Scanlation
-Guides and resources for scanlating manga.
-<br>
+<GradientCard title="スキャンレーション" tag="Scanlation" description="Guides and resources for scanlating manga." theme="turquoise"/>
 
 ![](/banner/comms.png)
+# Communities
 
-## Communities
+<br>
 
 - [Scanner Usage School Server](https://discord.com/invite/NCzxVB9) :glowing-star:
 - [r/Scanlation](https://old.reddit.com/r/Scanlation/)
@@ -18,12 +18,9 @@ Guides and resources for scanlating manga.
 - [Font recommendations](https://discord.gg/kgZ4MXgzpx)
 
 ![](/banner/raw.png)
+# Raw
 
-## Raw
-
-:::tabs
-
-== Reader
+## Reader
 - [KL Manga](https://klmanga.com/) <Badge type="danger" text="18+" />
 - [Mangaraw Japan](https://mangaraw.to/) <Badge type="danger" text="18+" />
 - [Mangaraw+](https://mangarawplus.co/)
@@ -31,7 +28,8 @@ Guides and resources for scanlating manga.
 - [Sen Manga](https://raw.senmanga.com/) <Badge type="danger" text="18+" />
 - [We Love Manga](https://welovemanga.one/) | [Manga 1000](https://manga1000.top/) <Badge type="danger" text="18+" />
 
-== Download
+## Download
+
 ### Torrent
 - :glowing-star: [Nyaa](https://nyaa.si/) <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.mom/" /><Badge type="info" text="Alt" link="https://animetime.cc/" /> 
 
@@ -49,14 +47,11 @@ Guides and resources for scanlating manga.
 
 >You can use [okdebrid](https://okdebrid.com/), [rapidgrab](https://rapidgrab.pl/), & [newscon](https://www.newscon.net/d/) to download free & premium files from the file hosters.
 
-:::
 
 ![](/banner/res.png)
+# Resources
 
-## Resources
-
-:::tabs
-== Assets
+## Assets
 
 - [Jaded Network's SFX library](http://thejadednetwork.com/sfx/)
 - [Japanese SFX](https://gist.github.com/UserUnknownFactor/093a2296c5a4d9ef7b404728ebde94a3)
@@ -68,7 +63,7 @@ Guides and resources for scanlating manga.
 
 <Button link="https://discord.com/invite/NCzxVB9" icon="i-ic-round-discord">You can find a lot more free assets in the Scanner Usage School Server</Button>
 
-== Blogs & Collections
+## Blogs & Collections
 
 - [Quick Sand Scans Resource](https://quicksandscans.wordpress.com/resources/) :glowing-star:
 - [Inside Scanlation](https://www.insidescanlation.com/backgrounds/index.html)
@@ -78,37 +73,33 @@ Guides and resources for scanlating manga.
 - [CSP Material List](https://cspmasterlist.carrd.co/)
 - [Tips & Tricks mega Library](https://well-zinc-cd5.notion.site/Tips-Tricks-mega-Library-586dbc3ed4bc482285180ee4aac92d92)
 
-== Typesetting guides
+## Typesetting guides
 
 - [Anonblack's typesetting guide](https://mangadex.org/title/08e1f85a-bb12-4fe4-aec5-0d7a80b3a261/anonblack-s-typesetting-guide)
 - [Typesetting tutorial by Fallen Syndicate](https://coloredmanga.com/rhss-comprehensive-typesetting-guide-re-hosted-version-from-fallen-syndicates-rehost/)
 
-== Redrawing guides
+## Redrawing guides
 
 - Fascans Redrawing guide <Badge type="tip" text="Part 1" link="https://fascans.com/featured/basic-redrawing-tutorials-part-1-using-clone-stamp-tool-effectively/" /><Badge type="tip" text="Part 2" link="https://fascans.com/position/redrawer/basic-redrawing-tutorials-part-2-dealing-with-linesspeed-lines/" />
 - [Rain's Redraw Tutorials](https://web.archive.org/web/20140814131939/http://www.redhawkscans.com/showthread.php?7057-Rain-s-Redraw-Tutorials&p=112119&viewfull=1#post112119)
 
-:::
 
 ![](/banner/tools.png)
+# Tools
 
-## Tools
-
-::: tabs
-
-== General
+## General
 - Adobe Software <Badge type="tip" text="Esoterica" link="https://rentry.org/adobesoftware" /><Badge type="tip" text="GenP" link="https://genpguides.github.io/" /><Badge type="tip" text="Anna" link="https://docs.google.com/document/d/17PheyyF9dm7YYjaTZ9JAAY3hhdeIQ7sJ4sylTG9_6xI/edit" /><Badge type="tip" text="macOS" link="https://telegra.ph/MacOS-Adobe-CC-Guide-11-29" />
 - [Clip Studio Paint EX](https://www.clipstudio.net/en/function_ex/)
 - [MediBang Paint](https://medibangpaint.com/en/)
 - [Krita](https://krita.org/en/)
 - [GIMP](https://www.gimp.org/)
 
-== Cleaning
+## Cleaning
 - [Bubble Blaster](https://github.com/Aeonss/BubbleBlaster)
 - [Manga Bubble Shaper](https://github.com/Codecy2160/manga-bubble-shaper)
 - [Panel Cleaner](https://github.com/VoxelCubes/PanelCleaner)
 
-== Typesetting
+## Typesetting
 - Font Finder <Badge type="tip" text="Font Spring" link="https://www.fontspring.com/matcherator" /><Badge type="tip" text="Font Squirrel" link="https://www.fontsquirrel.com/matcherator" /><Badge type="tip" text="MyFonts" link="https://www.myfonts.com/pages/whatthefont" /><Badge type="tip" text="What font is" link="https://www.whatfontis.com/" />
 - [Smart Stitch](https://github.com/MechTechnology/SmartStitch)
 - [Stitch Tool](https://github.com/Aeonss/StitchTool)
@@ -116,17 +107,15 @@ Guides and resources for scanlating manga.
 - [Typesetter*er*](https://illuminati-manga.com/illiteracy/typesetterer/)
 - [TypeX](https://github.com/XandeKK/TypeX)
 
-== Upscaling
+## Upscaling
 - [Real ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 - [SickZil-Machine](https://github.com/KUR-creative/SickZil-Machine)
 - [Waifu2X](https://github.com/nagadomi/waifu2x) <Badge type="tip" text="caffe" link="https://github.com/lltcggie/waifu2x-caffe" /><Badge type="tip" text="ncnn Vulkan" link="https://github.com/nihui/waifu2x-ncnn-vulkan" /><Badge type="tip" text="Ext GUI" link="https://github.com/AaronFeng753/Waifu2x-Extension-GUI" /><Badge type="tip" text="nunif" link="https://github.com/nagadomi/nunif" />
 - [chaiNNer](https://github.com/chaiNNer-org/chaiNNer)
 
-== Others
+## Others
 - [Manga downloader](https://github.com/xuzhengyi1995/Manga_downloader)
 - [Monochrome](https://github.com/MonochromeCMS/monochrome)
 - [ScanFolders](https://github.com/Fris44/ScanFolders)
-
-:::
 
 <Button link="https://rutracker.org/forum/index.php" icon="i-fxemoji-lightbulb">Use RuTracker to download crack</Button>

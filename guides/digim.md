@@ -5,6 +5,9 @@ outline: [2,3]
 ---
 
 # Digital Manga & Manhwa Info
+
+<br>
+
 Information about various types of publishers for manga and manhwa.
 <br>
 

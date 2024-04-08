@@ -4,6 +4,9 @@ customDescription: Guide on how to rip DVD, Blu-ray, and UHD Discs conversions t
 ---
 
 # Disc Ripping Guide
+
+<br>
+
 This guide covers the essentials of converting DVDs, BDs, and UHDs into digital formats (MKVs and ISOs.) While setup may be a bit intricate, the workflow becomes straightforward once established.
 <Authors page="discrip" />
 
@@ -41,9 +44,7 @@ After this is done, your MKV file is ready! You can convert it to an MP4 or othe
 
 ## Making ISO
 
-:::tabs
-
-== MakeMKV + ImgBurn
+### MakeMKV + ImgBurn
 
 1. Get a USB player, open up MakeMKV, and insert the disc. [**Patch**](#setting-up-uhd-rips) your USB player if you're doing UHD
 2. Press the folder icon on the top left.
@@ -62,7 +63,7 @@ After this is done, your MKV file is ready! You can convert it to an MP4 or othe
 
 You now have a full digital copy of your disc. This allows you to do a variety of things, such as watch with disc menus on VLC or make a full backup onto a physical disc (essentially making an identical copy). As mentioned previously, you can also use this ISO file to get an MKV on MakeMKV.
 
-== AnyDVD HD
+### AnyDVD HD
 
 1. Configure AnyDVD if you haven't already.
     - The main things you want to enable are Blu-ray support and Remove Blu-Ray Region Code (set to Automatic.) Both of these are under Video Blu-ray.
@@ -74,7 +75,6 @@ You now have a full digital copy of your disc. This allows you to do a variety o
 
 You now have a full digital copy of your disc, with the addition of a lack of region lock. This ISO file allows you to do a variety of things, such as watch with disc menus on VLC or make a full backup onto a physical disc (essentially making an identical copy.) As mentioned previously, you can also use this file to get an MKV on MakeMKV.
 
-:::
 
 ## Setting up UHD rips
 

@@ -4,6 +4,9 @@ customDescription: Guide on how to using squidify on various devices.
 ---
 
 # Squidify
+
+<br>
+
 Squidify is a public music streaming service that offers a vast collection of Anime, Video Game, Movie & TV Soundtracks. You listen to your music collection from any browser or mobile device. Squidify is compatible with the Subsonic/Airsonic API, allowing you to use a wide range of third-party mobile apps to access your music.
 <br>
 

@@ -2,41 +2,38 @@
 title: Non-English
 description: Otaku resources for other regions
 customDescription: Discover anime, manga, and other related content for all the languages.
+outline: [1,2]
 ---
 
-# Non-English
-Otaku resources for other languages/regions.
+<GradientCard title="非英語" tag="Non-English" description="Otaku resources for other languages/regions." theme="turquoise"/>
+
 <br>
 
-## Multi
+# Multi
 
-:::tabs
-
-== Anime
+## Anime
 - [Aniwave](https://aniwave.to/home)
 - [Kickassanime](https://kaas.am/)
 - [Kaguya](https://kaguya.app/anime) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/kaguya/jhinkdokgbijplmedcpkjdbcmjgockgc" />
 - [HiAnime](https://hianime.to/home)
 
-== Manga
+## Manga
 - [Mangadex](https://mangadex.org/)
 - [Comick](https://comick.io/home)  <Badge type="tip" text="RSS" icon="i-material-symbols-rss-feed-rounded" link="https://manga.ldez.workers.dev/" />
 - [Batoto](https://battwo.com/v3x)
 - [Nine Manga](https://www.ninemanga.com/)
 - [Novel Cool](https://novelcool.com/)
 
-== Others
-### Apps
+## Others
+
 - [Mihon](https://github.com/mihonapp/mihon) <Badge type="tip" text="Ext" link="https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo" /><Badge type="tip" text="J2K" link="https://github.com/Jays2Kings/tachiyomiJ2K" /><Badge type="tip" text="SY" link="https://github.com/jobobby04/TachiyomiSY" />
 - [Aniyomi](https://github.com/jmir1/aniyomi/) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://aniyomi.org/" /><Badge text="Anime" /><Badge type="info" text="Manga" />
-:::
 
+<br>
 
-## Arabic
+# Arabic
 
-:::tabs
-
-== Anime
+## Anime
 - [Anime titans](https://animetitans.net/)
 - [Anime4up](https://w1.anime4up.tv/)
 - [Animeblkom](https://blkom.com/)
@@ -46,7 +43,7 @@ Otaku resources for other languages/regions.
 - [Wit anime](https://witanime.com/)
 - [XSAnime](https://v.xsanime.com/)
 
-== Manga
+## Manga
 - [3asQ](https://3asq.org/)
 - [Ares Manga](https://fl-ares.com/)
 - [Azora Moon](https://azoramoon.com/)
@@ -57,47 +54,45 @@ Otaku resources for other languages/regions.
 - [Swat Manhua](https://swatmanhua.com/)
 - [Team x](https://team11x11.com/)
 
-== Software
+## Software
 
 ### Android
 
-- **Anime**
-  - [AnimeSlayer](https://anslayer.com/download.html) <Badge type="danger" text="Non-Foss" />
-  - [Spacetoon](https://play.google.com/store/apps/details?id=com.spacetoon.vod) <Badge type="info" text="Legal" />
-- **Manga**
-  - [Mangamello](https://play.google.com/store/apps/details?id=com.wael.mangamello) <Badge type="tip" text="Plus" link="https://play.google.com/store/apps/details?id=com.wael.mmplus"/> <Badge type="danger" text="Non-Foss" />
-  - [Manga Library](https://play.google.com/store/apps/details?id=com.manga.library.online) <Badge type="danger" text="Non-Foss" />
-  - [Qaraa manga araby](https://play.google.com/store/apps/details?id=org.hamak.mangareader) <Badge type="danger" text="Non-Foss" />
-- **Tracker**
-  - [Kunaiu](https://play.google.com/store/apps/details?id=com.kunaiu.android) <Badge type="danger" text="Non-Foss" />
+#### Anime
+- [AnimeSlayer](https://anslayer.com/download.html) <Badge type="danger" text="Non-Foss" />
+- [Spacetoon](https://play.google.com/store/apps/details?id=com.spacetoon.vod) <Badge type="info" text="Legal" />
 
+### Manga
+- [Mangamello](https://play.google.com/store/apps/details?id=com.wael.mangamello) <Badge type="tip" text="Plus" link="https://play.google.com/store/apps/details?id=com.wael.mmplus"/> <Badge type="danger" text="Non-Foss" />
+- [Manga Library](https://play.google.com/store/apps/details?id=com.manga.library.online) <Badge type="danger" text="Non-Foss" />
+- [Qaraa manga araby](https://play.google.com/store/apps/details?id=org.hamak.mangareader) <Badge type="danger" text="Non-Foss" />
 
-:::
+#### Tracker
+- [Kunaiu](https://play.google.com/store/apps/details?id=com.kunaiu.android) <Badge type="danger" text="Non-Foss" />
 
+<br>
 
-## Balkan
+# Balkan
 
-:::tabs
-
-== Anime
+## Anime
 - [Anime Balkan](https://animebalkan.org/) <Badge type="tip" text="2" link="https://animebalkan.gg/" />
 - [Anime Srbija](https://www.animesrbija.com/)
 
-== Manga
+## Manga
 - [Manga Balkan](https://mangabalkan.org/)
-:::
 
-## Bangla
+<br>
 
-### Anime
+# Bangla
+
+## Anime
 - [Bangla Dub Zone](http://bangladubzone.xyz/)
 
+<br>
 
-## Chinese
+# Chinese
 
-:::tabs
-
-== Anime
+## Anime
 
 ### Stream
 - [555dy1](https://555dy1.com/vodshow/4-%E6%97%A5%E6%9C%AC----------.html) <Badge text="BD" />
@@ -120,7 +115,7 @@ Otaku resources for other languages/regions.
 - [ACG](https://acg.rip/)
 - [ACGNX](https://share.acgnx.se/)
 
-== Comic
+## Comic
 
 ### General
 - [69xinshu](https://www.69xinshu.com/)
@@ -141,7 +136,7 @@ Otaku resources for other languages/regions.
 - [JMWU](https://jmwu.xyz/) <Badge type="tip" text="2" link="https://jmzj.xyz/" />
 - [VIPToon](https://viptoon.xyz/)
 
-== Novel
+## Novel
 
 - [Light Novel](https://www.lightnovel.us/)
 - [23qb](https://www.23qb.net/)
@@ -149,21 +144,24 @@ Otaku resources for other languages/regions.
 - [ESJ Zone](https://www.esjzone.cc/)
 
 
-== Software
+## Software
 
 ### Android
-- **Anime**
-    - [AGETV](https://github.com/muedsa/AGETV)
-    - [Mediabox](https://github.com/RyensX/MediaBox)
-    - [Miru](https://miru.js.org/) :glowing-star: <Badge text="Manga" />
-    - [Sakura Anime](https://github.com/670848654/SakuraAnime)
-- **Manga**
-    - [Copy MangaX](https://github.com/CrowForKotlin/CopyMangaX)
-    - [Manga Reader](https://github.com/youniaogu/MangaReader)
-- **Tracker**
-    - [Bangumi](https://github.com/czy0729/Bangumi) <Badge text="Apple" />:mdi-android:
-    - [Bangumi MX](http://bgmx.mysxl.cn/)
-    - [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi)
+
+#### Anime
+- [AGETV](https://github.com/muedsa/AGETV)
+- [Mediabox](https://github.com/RyensX/MediaBox)
+- [Miru](https://miru.js.org/) :glowing-star: <Badge text="Manga" />
+- [Sakura Anime](https://github.com/670848654/SakuraAnime)
+
+#### Manga
+- [Copy MangaX](https://github.com/CrowForKotlin/CopyMangaX)
+- [Manga Reader](https://github.com/youniaogu/MangaReader)
+
+#### Tracker
+- [Bangumi](https://github.com/czy0729/Bangumi) <Badge text="Apple" />:mdi-android:
+- [Bangumi MX](http://bgmx.mysxl.cn/)
+- [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi)
 
 ### PC
 - [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) <Badge text="Downloader" />
@@ -171,7 +169,7 @@ Otaku resources for other languages/regions.
 - [Bilibili manga downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) <Badge text="Downloader" />
 - [JProxy](https://github.com/LuckyPuppy514/jproxy) <Badge text=" Downloader" />
 
-== Others
+## Others
 
 ### Tracker
 - [Bangumi](https://bangumi.tv/)
@@ -185,14 +183,11 @@ Otaku resources for other languages/regions.
 ### Brewing
 - [Neko Anime](https://github.com/xioneko/neko-anime)
 
+<br>
 
-:::
+# French
 
-## French
-
-:::tabs
-
-== Anime
+## Anime
 
 - [Anime vostfr](https://animevostfr.tv/)
 - [Anime sama](https://anime-sama.fr/)
@@ -203,23 +198,21 @@ Otaku resources for other languages/regions.
 - [Voiranime](https://v3.voiranime.com/)
 - [Vostfree](https://vostfree.ws/)
 
-== Manga
+## Manga
 
 - [JapScan](https://www.japscan.lol/)
 - [Bento Manga](https://www.bentomanga.com/)
 - [Sushi Scan](https://sushiscan.net/)
 
-== Others
+## Others
 ### PC
 - [Otakuapuri](https://github.com/Dorian25/otakuapuri) <Badge text=" Downloader" /><Badge text=" Stream" />
 
-:::
+<br>
 
-## German
+# German
 
-:::tabs
-
-== Anime
+## Anime
 
 - [Anime Archive](https://anime-archive.com/)
 - [AniWorld](https://aniworld.to/)
@@ -227,52 +220,55 @@ Otaku resources for other languages/regions.
 - [Anime Loads](https://www.anime-loads.org/) <Badge type="info" text="Stream" /><Badge type="info" text="DDL" />
 - [Animes](https://www.animes.so/) <Badge type="info" text="DDL" />
 
-== Manga
+## Manga
 
 - [Comic Mafia](https://comicmafia.to/)
 
-== Others
+## Others
 ### Community
 - [Animexx](https://www.animexx.de/)
 - [Baka Board](https://baka-bewerbung.me/form/jPQXDZ) <Badge type="info" text="Usenet" />
 - [Proxer](https://proxer.me/)
-:::
 
-## Greek
+<br>
 
-### Anime
+# Greek
+
+## Anime
 - [An1me](https://an1me.to/) <tooltip>Adblock filter `an1me.to##+js(acis, Math)`</tooltip>
 
+<br>
 
-## Indian
+# Indian
 
-### Anime
+## Anime
 
-- **Stream**
-    - [AllWish](https://all-wish.me/home)
-    - [Anime Fever](https://animefever.fun/)
-    - [Animerulz](https://animerulz.pro/home/)
-    - [Anplay](https://anplay.in/)
-    - [Animeworld](https://anime-world.in/)
-    - [Dora Bash](https://doraemontheanime.com/)
-    - [ToonStream](https://toonstream.in/)
-- **DDL**
-    - [1XAnime](https://www.1xanime.in/)
-    - [Anilot](https://anilot.in/)
-    - [Anime Academy](https://animeacademy.in/)
-    - [ATOZ CARTOONIST](https://www.atozcartoonist.com/)
-    - [Puretoons](https://puretoons.in/)
-    - [SDToons](https://sdtoons.in/)
-    - [Toonhub4u](https://toonhub4u.net/)
-    - [ToonsHub](https://www.toonshub.xyz/)
-    - [Toonworld4all](https://toonworld4all.me/)
-    - [Toonworld Tamil](https://toonworldtamil.com)
+### Stream
+- [AllWish](https://all-wish.me/home)
+- [Anime Fever](https://animefever.fun/)
+- [Animerulz](https://animerulz.pro/home/)
+- [Anplay](https://anplay.in/)
+- [Animeworld](https://anime-world.in/)
+- [Dora Bash](https://doraemontheanime.com/)
+- [ToonStream](https://toonstream.in/)
 
-## Indonesian
+### DDL
+- [1XAnime](https://www.1xanime.in/)
+- [Anilot](https://anilot.in/)
+- [Anime Academy](https://animeacademy.in/)
+- [ATOZ CARTOONIST](https://www.atozcartoonist.com/)
+- [Puretoons](https://puretoons.in/)
+- [SDToons](https://sdtoons.in/)
+- [Toonhub4u](https://toonhub4u.net/)
+- [ToonsHub](https://www.toonshub.xyz/)
+- [Toonworld4all](https://toonworld4all.me/)
+- [Toonworld Tamil](https://toonworldtamil.com)
 
-:::tabs
+<br>
 
-== Anime
+# Indonesian
+
+## Anime
 
 - [Anichin](https://anichin.vip/)
 - [Anime Indo](https://animeindo.cfd/)
@@ -286,34 +282,34 @@ Otaku resources for other languages/regions.
 - [Kusonime](https://kusonime.com/) <Badge type="info" text="DDL" />
 - [Meownime](https://m.meownime.ai/) <Badge type="info" text="DDL" />
 
-== Manga
+## Manga
 - [KomikID](https://komikid.com/)
 - [Komiku](https://komiku.id/)
 - [Komik Cast](https://komikcast.site/)
 - [Mangaku](https://mangaku.fun/)
 - [Ryukomik](https://komik.ryukoproject.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/AzwarKusumah/ryukomik" />
 - [Shinigami ID](https://shinigami.id/)
-:::
 
-## Italian
 
-:::tabs
+<br>
 
-== Anime
+# Italian
+
+## Anime
 
 - [Anime Saturn](https://www.animesaturn.tv/)
 - [Anime Force](https://www.animeforce.it/)
 
-== Others
+## Others
+
 ### PC
 - [Sonarr Anime Downloader](https://github.com/MainKronos/Sonarr-AnimeDownloader) <Badge text="Downloader" />
-:::
 
-## Japanese
+<br>
 
-:::tabs
+# Japanese
 
-== Manga
+## Manga
 
 ### Reader
 - [KL Manga](https://klmanga.com/) <Badge type="danger" text="18+" />
@@ -338,19 +334,20 @@ Otaku resources for other languages/regions.
 - [Manga Zone](http://www.manga-zone.org/) <Badge type="info" text="Novel" />
 - [Raw Cans](http://raw-cans.net/) <Badge type="danger" text="18+" /><Badge type="info" text="Magazine" />
 
-== Others
+## Others
+
 ### Community
 - [Annict](https://annict.com/)
 
 ### Tracker
 - [EroGamescape](https://erogamescape.org/) <Badge text="EN Guide" link="https://www.youtube.com/watch?v=oPIWgXDllzQ"/>
 
-:::
 
+<br>
 
-## Polish
+# Polish
 
-### Anime
+## Anime
 - [Anime Odcinki](https://anime-odcinki.pl/)
 - [Animesub](http://animesub.info/)
 - [Anime Zone](https://www.animezone.pl/)
@@ -366,12 +363,11 @@ Otaku resources for other languages/regions.
 - [Okami-subs](https://okami-subs.pl/)
 - [Wbijam](https://web.archive.org/web/20240327095022/https://wbijam.pl/)  <Badge text="Players DB" link="https://docs.google.com/spreadsheets/d/1fnl__p0FmHxVLXBgtZmsYji6156z7i_4" />
 
+<br>
 
-## Portuguese
+# Portuguese
 
-:::tabs
-
-== Anime
+## Anime
 - [Anime Fire](https://animefire.net/)
 - [Anime Online HD](https://animesonlinehd.vip/)
 - [Animes Zone](https://animeszone.net/)
@@ -379,23 +375,23 @@ Otaku resources for other languages/regions.
 - [Anime Kage](https://ak560.anime-kage.eu/) <Badge type="info" text="DDL" />
 - [Kero Seed](https://www.keroseed.com/)  <Badge type="info" text="Torrent" />
 
-== Manga
+## Manga
 - [Manga Livre](https://mangalivre.net/)
 - [Union Mangas](https://orchidcommerce.com/home)
-:::
 
+<br>
 
-## Romanian
+# Romanian
 
-### Anime
+## Anime
 - [AnimeAZU](https://www.animeazu.net/)
 - [Anime Kage](https://ak538.anime-kage.eu/)
 
-## Russian
+<br>
 
-:::tabs
+# Russian
 
-== Anime
+## Anime
 
 - [Akari Anime](https://akari-anime.com/)
 - [Anidub](https://anidub.live/)
@@ -415,7 +411,7 @@ Otaku resources for other languages/regions.
 - [Anime Layer](http://animelayer.ru/) <Badge type="info" text="Torrent" />
 - [Dark Libria](https://darklibria.it/) <Badge type="info" text="Stream" /><Badge type="info" text="DDL" />
 
-== Manga
+## Manga
 
 - [Com-X](https://com-x.life/comx)
 - [Desu](https://desu.me/)
@@ -427,7 +423,7 @@ Otaku resources for other languages/regions.
 - [ReadManga](https://readmanga.live/)
 - [ReManga](https://remanga.org/)
 
-== Others
+## Others
 
 ### Other Sites
 - [RanobeLib](https://ranobelib.me/)
@@ -451,15 +447,11 @@ Otaku resources for other languages/regions.
 ### Brewing
 - [ANIFOX](https://anifox.club/anime) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/ANIFOX-CLUB/ANIFOX" /><Badge type="info" icon="/icon/russia.png" text="RU" />
 
+<br>
 
-:::
+# Spanish
 
-
-## Spanish
-
-:::tabs
-
-== Anime
+## Anime
 
 ### Stream
 - [MonosChinos](https://monoschinos2.com/)
@@ -480,7 +472,7 @@ Otaku resources for other languages/regions.
 - [DW Anime](https://dw-anime.net/)
 - [Frozen Layer](https://www.frozen-layer.com/) <Badge type="info" text="Torrent" />
 
-== Manga
+## Manga
 
 - [Lector Manga](https://lectormanga.com/)
 - [Leer Manga](https://r2.leermanga.xyz/)
@@ -488,37 +480,35 @@ Otaku resources for other languages/regions.
 - [Notasanime](https://ver.notasanime.me/)
 - [TuMangaOnline](https://visortmo.com/)
 
-== Others
+## Others
+
 ### Apps
 - [UKIKU](https://ukiku.app/)  <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/jordyamc/UKIKU" />
 
-:::
+<br>
 
-## Turkish
+# Turkish
 
-:::tabs
-
-== Anime
+## Anime
 
 - [Anizm](https://anizm.net/)
 - [TRanimeizle](https://www.tranimeizle.co/)
 - [Turk Anime](https://www.turkanime.co/)
 
-== Manga
+## Manga
 - [Seri Manga](https://serimanga.com/)
-:::
 
-## Vietnamese
+<br>
 
-:::tabs
+# Vietnamese
 
-== Anime
+## Anime
 - [Kaguya](https://kaguya.app/)
 - [Ani4u](https://ani4u.org/)
 - [AnimeVsub](https://animevsub.eu.org/) <Badge text="Github" link="https://github.com/anime-vsub/desktop-web" />
 - [Unime](https://unime.vercel.app/) <Badge text="Github" link="https://github.com/huy232/Unime" />
 
-== Manga
+## Manga
 
 - [Bao Tang Truyen Tranh](https://baotangtruyengo.com/)
 - [Kaguya](https://kaguya.app/manga)
@@ -527,11 +517,10 @@ Otaku resources for other languages/regions.
 - [Net Truyen](https://www.nettruyenplus.com/)
 - [Blog Truyen](https://blogtruyen.vn/)
 
-== Others
+## Others
 
 ### Apps
 - [Anime VSub](https://github.com/anime-vsub/app)
 - [Raiku](https://github.com/manga-raiku/raiku-app)
 - [Paperback Extension](https://github.com/huynlx/Extensions-Viet)
 
-:::

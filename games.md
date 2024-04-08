@@ -1,11 +1,12 @@
 ---
 title: Games
 description: Wotaku Games Megathread!
-customDescription: Wotaku Games Megathread!
+customDescription: Wotaku Games Megathread! Everything Games Related in One Page.
+outline: [2,3]
 ---
 
-# Games
-Everything Games Related in One Page!
+<GradientCard title="ゲーム" tag="Games" description="Everything Games Related in One Page!" theme="turquoise"/>
+
 
 ## General Download
 
@@ -23,8 +24,8 @@ Everything Games Related in One Page!
 
 ## ROM
 
-:::tabs
-== General
+
+### General
 - [r/roms](https://r-roms.github.io/) :glowing-star:
 - [ROMSpure](https://romspure.cc/roms)
 - [CDRomance](https://cdromance.com/)
@@ -32,12 +33,12 @@ Everything Games Related in One Page!
 - [Vimm's Lair](https://vimm.net/vault/)
 - [Squid Proxy](https://www.squid-proxy.xyz/)
 
-== Platform Specific
+### Platform Specific
 - [hShop](https://hshop.erista.me/) :simple-icons-nintendo3ds:
 - [NoPayStation](https://nopaystation.com/) :simple-icons-playstation:
 - [nsw2u](https://nsw2u.xyz/) :simple-icons-nintendoswitch:
 - [Ziperto](https://www.ziperto.com/) :simple-icons-nintendoswitch:
-:::
+
 
 <Button link="https://emulation.gametechwiki.com/index.php/Main_Page" icon="i-octicon-codespaces-24 ">For emulation, check Emulation General Wiki</Button>
 
@@ -45,9 +46,7 @@ Everything Games Related in One Page!
 
 ## Info
 
-:::tabs
-
-== Tracker
+### Tracker
 
 - [Backloggd](https://www.backloggd.com/)
 - [IGDB](https://www.igdb.com/)
@@ -57,7 +56,7 @@ Everything Games Related in One Page!
 - [The Visual Novel Database (VNDB)](https://vndb.org/) :glowing-star:
 - [VNStat](https://vnstat.net/)
 
-== News
+### News
 
 - [4Gamer](https://www.4gamer.net/) :flag-japan:
 - [Famitsu](https://www.famitsu.com/) :flag-japan:
@@ -68,38 +67,16 @@ Everything Games Related in One Page!
 - [RPG Site](https://www.rpgsite.net/)
 - [Touhou Yomoyama News](https://touhou-project.news/) :flag-japan:
 
-== Price
+### Price
 - [Deku Deals](https://www.dekudeals.com/)
 - [GG.deals](https://gg.deals/)
 - [psprices](https://psprices.com/)
 
-:::
-
-
-## Gacha
-
-:::tabs
-
-
-== Guides
-- [Prydwen](https://www.prydwen.gg/) :glowing-star:
-- 
-
-== Info
-- [GACHAREVENUE](https://www.gacharevenue.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/zigamacele/gacharevenue" />
-
-== Tools
-- [Enka.Network](https://enka.network/) `GI` `HSR`
-- [Genshin Impact Interactive Map](https://genshin-impact-map.appsample.com/) `GI`
-
-:::
 
 
 ## Pokémon
 
-:::tabs
-
-== Wiki / Websites
+### Wiki / Websites
 
 - [Pokémon](https://www.pokemon.com/us) <Badge type="info" text="Official" />
 - [Bulbagarden](https://bulbagarden.net/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_National_Pok%C3%A9dex_number" />
@@ -112,64 +89,56 @@ Everything Games Related in One Page!
 - [PokéJungle](https://pokejungle.net/)
 - [PokePalette](https://pokemonpalette.com/)
 
-== Pokédex
+### Pokédex
 - [ER Dex](https://ydarissep.github.io/Elite-Redux-Pokedex/)
 - [Prokedex](https://play.google.com/store/apps/details?id=com.locuthor.prodex) <Badge type="info" text="Android" />
 - [Pocket Gallery](https://play.google.com/store/apps/details?id=com.eurekaffeine.pokedex) <Badge type="info" text="Android" />
 
-== Online Games
+### Online Games
 - [Pokémon Showdown!](https://play.pokemonshowdown.com/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://dex.pokemonshowdown.com/" />
 - [Deluge RPG](https://www.delugerpg.com/)
 - [Pokemon Revolution](https://pokemonrevolution.net/home)
 - [Who's that Pokémon?](https://gearoid.me/pokemon/)
 - [Pokedoku](https://pokedoku.com/)
 
-== Tools
+### Tools
 - [Stat calculator](https://veekun.com/dex/gadgets/stat_calculator)
 - Nuzlocke Chart <Badge type="tip" icon="i-mdi-android" text="Android" link="https://play.google.com/store/apps/details?id=com.pseudocode.nuzlockechart" /> <Badge type="tip" icon="i-logos-apple-app-store" text="iOS" link="https://apps.apple.com/us/app/nuzlocke-chart/id1573090300" />
 - [Nuzlocke tracker](https://nuzlocke.app/)
 - [PKHeX](https://github.com/kwsch/PKHeX)
 - [Universal Pokémon Randomizer ZX](https://github.com/Ajarmar/universal-pokemon-randomizer-zx/)
-:::
+
 
 
 ## Yu-Gi-Oh!
 
-:::tabs
 
-== Databases
+### Databases
 - [Official card database](https://www.db.yugioh-card.com/yugiohdb/)
 - [YGOrganization](https://ygorganization.com/)
 - [Master Duel Meta](https://www.masterduelmeta.com/)
 - [Duel Links Meta](https://www.duellinksmeta.com/)
 - [YGOPro Deck](https://ygoprodeck.com/) <Badge type="info" icon="i-iconoir-community" text="Forum" link="https://ygoprodeck.com/forum/" /> 
 
-== Simulators
+### Simulators
 
 ### Official
 - [Master Duel](https://www.konami.com/yugioh/masterduel/us/en/)
 - [Duel Links](https://www.konami.com/yugioh/duel_links/en/)
 - [Yu-Gi-Oh! Neuron](https://www.konami.com/yugioh/neuron/en/)
 
-### Unofficial
+#### Unofficial
 - [Dueling Book](https://www.duelingbook.com/) <Badge type="info" text="Website" />
 - [EDO Pro](https://projectignis.github.io/download.html) <Badge type="info" text="Client" />
 - [YGO Omega](https://omega.duelistsunite.org/) <Badge type="info" text="Client" />
 
-### Alternative/Historic Formats
+#### Alternative/Historic Formats
 - [Format Library](https://www.formatlibrary.com/)
 - [Goat Format](https://www.goatformat.com/)
 - [Edison Format](https://www.edisonformat.com/)
 
-== Subreddits
+#### Subreddits
 - [Yu-Gi-Oh!](https://old.reddit.com/r/yugioh/)
 - [Master Duel](https://old.reddit.com/r/masterduel/)
-- [Duel Links](https://old.reddit.com/r/DuelLinks/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discordapp.com/invite/DuelLinks" />
+- [Duel Links](https://old.reddit.com/r/DuelLinks/)
 - [Goat Format](https://old.reddit.com/r/Goat_Format/)
-:::
-
-
-## Uncats
-- [Digimon Basic](https://digimon-basic.org/)
-- [Sonic Zone](https://soniczone.net/)
-

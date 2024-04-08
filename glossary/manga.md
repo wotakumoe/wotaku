@@ -4,9 +4,8 @@ customDescription: Manga related terms that you have to know!
 outline: [2,3]
 ---
 
-# Manga Glossary
-Manga portion of the Wotaku glossary!
-<br>
+<GradientCard title="マンガ用語集" tag="Manga Glossary" description="Manga portion of the Wotaku glossary!" theme="turquoise"/>
+
 
 ## Basic Terms 
 

@@ -122,6 +122,10 @@ export default defineConfig({
         link: "/music",
       },
       {
+        text: '<span class="i-lucide:gamepad-2"></span> Games',
+        link: "/games",
+      },
+      {
         text: '<span class="i-lucide:map"></span> Non-English',
         link: "/nonen",
       },
@@ -129,16 +133,21 @@ export default defineConfig({
         text: '<span class="i-lucide:ban"></span> NSFW',
         link: "/nsfw",
       },
-      {
-        text: '<span class="i-uil:letter-japanese-a"></span> Everything Japan',
-        link: "/jp",
-      },
       { text: '<span class="i-lucide:package-2"></span> Merch', link: "/merch" },
       {
         text: '<span class="i-lucide:scroll-text"></span> Scanlation',
         link: "/scanlation",
       },
-
+      {
+        text: '<span class="i-uil:letter-japanese-a"></span> Japan',
+        collapsed: true,
+        items: [
+          { text: "Language", link: "/japan/language" },
+          { text: "Immersion", link: "/japan/immersion" },
+          { text: "Software", link: "/japan/software" },
+          { text: "Culture", link: "/japan/culture" },
+        ],
+      },
       {
         text: '<span class="i-lucide:book-open"></span> Glossary',
         collapsed: true,
@@ -185,12 +194,21 @@ export default defineConfig({
           { text: "Misc-sites", link: "/misc" },
           { text: "Add-ons", link: "/addons" },
           { text: "Music", link: "/music" },
+          { text: "Games", link: "/games" },
           { text: "Non-English", link: "/nonen" },
           { text: "NSFW", link: "/nsfw" },
-          { text: "Everything Japan", link: "/jp" },
           { text: "Merch", link: "/merch" },
           { text: "Scanlation", link: "/scanlation" },
           { text: "Communities", link: "/comms" },
+        ],
+      },
+      {
+        text: "Japan",
+        items: [
+          { text: "Language", link: "/japan/language" },
+          { text: "Immersion", link: "/japan/immersion" },
+          { text: "Software", link: "/japan/software" },
+          { text: "Culture", link: "/japan/culture" },
         ],
       },
       {

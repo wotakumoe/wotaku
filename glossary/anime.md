@@ -3,9 +3,8 @@ title: Anime Glossary
 customDescription: Discover the anime related terms you should know!
 ---
 
-# Anime Glossary
-Anime portion of the Wotaku glossary!
-<br>
+<GradientCard title="アニメ用語集" tag="Anime Glossary" description="Anime portion of the Wotaku glossary!" theme="turquoise"/>
+
 
 ## Basic Terms
 
