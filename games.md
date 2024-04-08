@@ -2,7 +2,7 @@
 title: Games
 description: Wotaku Games Megathread!
 customDescription: Wotaku Games Megathread! Everything Games Related in One Page.
-outline: [2,3]
+outline: 2
 ---
 
 <GradientCard title="ゲーム" tag="Games" description="Everything Games Related in One Page!" theme="turquoise"/>

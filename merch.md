@@ -2,7 +2,7 @@
 title: Merch
 description: Everything merch related!
 customDescription: Get information & guides on figurines, plushes, books, CDs, and more.
-outline: [1,2]
+outline: 2
 ---
 
 <GradientCard title="商品" tag="Merch" description="Looking to buy memorabilia from your favorite series and support the creators? Here you will find information on figurines, plushes, books, CDs and more!" theme="turquoise"/>

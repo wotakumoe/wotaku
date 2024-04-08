@@ -2,7 +2,7 @@
 title: Add-ons
 description: Sofware to make life easier
 customDescription: Various add-ons to enhance your experience; not all of them are necessarily weeb-related, but they can be genuinely helpful.
-outline: [1,2]
+outline: 1
 ---
 
 <GradientCard title="アドオン" tag="Add-ons" description="Various add-ons to enhance your experience; not all of them are necessarily weeb-related, but they can be genuinely helpful." theme="turquoise"/>

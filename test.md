@@ -2,7 +2,7 @@
 title: Websites
 description: Websites for anime, manga, novels & more
 customDescription: Discover the best websites for anime, manga, novels & more.
-outline: [1,2]
+outline: 1
 ---
 
 <GradientCard title="ウェブサイト" tag="Websites" description="Online resources for anime, manga, novels and more." theme="turquoise"/>

@@ -2,7 +2,7 @@
 title: Quick Start
 description: Bitsized Wotaku!
 customDescription: Discover websites, software, and essentials for anime, manga, music, and more. Get started with these curated resources for otaku enthusiasts.
-outline: [1,2]
+outline: 1
 ---
 
 <GradientCard title="クイックスタート" tag="Quick Start" description="The basic things to get you started." theme="turquoise"/>

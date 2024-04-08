@@ -2,7 +2,7 @@
 title: Software
 description: Software for every OS
 customDescription: Software to read manga or watch anime for every OS!
-outline: [1,2]
+outline: 1
 ---
 
 <GradientCard title="ソフトウェア" tag="Software" description="Software for your various devices to watch or read stuff. Covering all the operating systems." theme="turquoise"/>

@@ -2,7 +2,7 @@
 title: NSFW
 description: huh... ahem...
 customDescription: Explore a wide range of NSFW websites, manga, manhwa, illustrations, and software.
-outline: [1,2]
+outline: 1
 ---
 
 <GradientCard title="エロ" tag="NSFW" description="Everyone has to let off some steam once in a while, we don't judge." theme="turquoise"/>

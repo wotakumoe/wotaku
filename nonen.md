@@ -2,7 +2,7 @@
 title: Non-English
 description: Otaku resources for other regions
 customDescription: Discover anime, manga, and other related content for all the languages.
-outline: [1,2]
+outline: 1
 ---
 
 <GradientCard title="非英語" tag="Non-English" description="Otaku resources for other languages/regions." theme="turquoise"/>
