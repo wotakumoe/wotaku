@@ -161,12 +161,6 @@ By default, FMD2 will save it as folder. Go to `Options > Save to > Save downloa
     - It may scrape corrupted/unavailable cbz files with websites path in the name. Sort the files on name basis and ignore those.
 5. Now select the cbz files and right click. Then press **Start Downloads**
 
-### Aria2
-
-1. Install [**Aria2**](https://aria2.github.io/)
-2. Run this cmd `aria2c --header="Authorization: Basic <base64 of username:password>" -j 3 -Z <urls here>`
-
-
 
 ### Tachiyomi
 
