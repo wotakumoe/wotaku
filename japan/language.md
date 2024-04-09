@@ -147,15 +147,18 @@ outline: [2,3]
 #### Practice
 - [Kotu](https://kotu.io/) `Needs Account`
 - [Migaku Pitch Trainer](https://pitch-demo.migaku.io/) <Badge type="warning" text="Freemium" />
+- [SuperNative](https://supernative.tv/ja/)
+- [MyKikitori](https://www.mykikitori.com/)
 
 ### Resources
 
 #### Pronunciation
-- [Immersion Kit](https://www.immersionkit.com/) :glowing-star: `Japanese Media`
-- [YouGlish](https://youglish.com/japanese) `Youtube`
+- [CaptionPop](https://www.captionpop.com/japanese?nl=en) `Youtbe`
 - [Filmot](https://filmot.com/) `Youtube`
 - [Forvo](https://forvo.com/languages/ja/) `Native Speaker`
+- [Immersion Kit](https://www.immersionkit.com/) :glowing-star: `Japanese Media`
 - [Sentence Search](https://sentencesearch.neocities.org/) `Book / Deck / Web`
+- [YouGlish](https://youglish.com/japanese) :glowing-star: `Youtube`
 
 #### Misc
 - [Hinoki Project](https://hinoki-project.org/)
@@ -255,7 +258,9 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 - [LearnJapanese](https://old.reddit.com/r/LearnJapanese/)
 
 #### Others
+- [Conversation Exchange](https://www.conversationexchange.com/)
 - [Japanese Language Stack Exchange](https://japanese.stackexchange.com/)
+- [My Language Exchange](https://www.mylanguageexchange.com/)
 - [Tatsumoto](https://tatsumoto.neocities.org/blog/join-our-community)
 
 ### Course Sites

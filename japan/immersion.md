@@ -128,12 +128,6 @@ outline: [2,3]
 - [Librivox](https://librivox.org/)
 - [Aozora Roudoku](https://aozoraroudoku.jp/index.html)
 
-### General / Practice
-- [SuperNative](https://supernative.tv/ja/)
-- [MyKikitori](https://www.mykikitori.com/)
-- [Immersion Kit](https://www.immersionkit.com/)
-- [CaptionPop](https://www.captionpop.com/japanese?nl=en)
-
 ### Podcast
 - [Japanese Podcast Spreadsheet](https://docs.google.com/spreadsheets/d/17P2dBQHnBnHcG3ua_24IO6sP9RDC-5b3WHV9Ri2N5qU/edit#gid=0)
 - [Japanese with Noriko](https://www.japanesewithnoriko.com/)
