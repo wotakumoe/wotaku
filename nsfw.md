@@ -110,12 +110,14 @@ outline: 1
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
 - [Jasmine](https://github.com/niuhuan/jasmine)
 - [NClientV2](https://github.com/Dar9586/NClientV2)
+- [Pica Comic](https://github.com/wgh136/PicaComic)
 
 ## iOS
 - [EhPanda](https://github.com/EhPanda-Team/EhPanda)
 - [FEhViewer](https://github.com/3003h/FEhViewer)
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
 - [Jasmine](https://github.com/niuhuan/jasmine)
+- [Pica Comic](https://github.com/wgh136/PicaComic)
 
 ## PC
 
@@ -125,6 +127,7 @@ outline: 1
 - [Jasmine](https://github.com/niuhuan/jasmine)
 - [Happypandax](https://github.com/happypandax/happypandax)
 - [Tsuki](https://github.com/Gusb3ll/Tsuki)
+- [Pica Comic](https://github.com/wgh136/PicaComic)
 
 ### Downloader
 - [Hakuneko](https://github.com/manga-download/hakuneko) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://hakuneko.download/" /><Badge type="info" text="Multi" />
