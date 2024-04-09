@@ -26,7 +26,7 @@ outline: 1
 
 
 ## Manga
-- [E-Hentai](https://e-hentai.org/) <tooltip>It is the mangadex for doujins. Almost every doujin is first uploaded here before being scraped by other sites. Online viewer compresses the images but has the option to download stuff in original quality.<br>
+- [E-Hentai](https://e-hentai.org/) <Badge type="tip" text="Search Guide" link="https://e-hentaitagsearch.blogspot.com/" /> <tooltip>It is the mangadex for doujins. Almost every doujin is first uploaded here before being scraped by other sites. Online viewer compresses the images but has the option to download stuff in original quality.<br>
 <a href="https://exhentai.org/">Exhentai</a> is it's sister site, which also hosts the more extreme and questionable content. You'll need an account on e-hentai to gain access.</tooltip>
 - [nHentai](https://nhentai.net/) <tooltip>Most popular. Decent UI but compresses images.</tooltip>
 - [Anchira](https://anchira.to/) <tooltip>fakku/irodori rips (official TLs)</tooltip>
@@ -146,7 +146,7 @@ outline: 1
 - [F95Zone](https://f95zone.to/) <Badge type="info" text="Needs account" />
 - [Hemdomblog](https://www.hemdomblog.com/)
 - [HentTag](https://hentag.com/)
-- [HMV Mania](https://hmvmania.com/) <Badge type="tip" text=":four-leaf-clover:/h/ thread" link="https://anychans.github.io/4chan/h/7621997" /><Badge type="tip" text="Archive" link="https://archived.moe/h/thread/7621997/" />
+- [HMV Mania](https://hmvmania.com/) <Badge type="tip" text="/h/ thread" link="https://anychans.github.io/4chan/h/7621997" /><Badge type="tip" text="Archive" link="https://archived.moe/h/thread/7621997/" />
 - [Kasumi](http://xdcc.kasumi.moe/) <Badge type="tip" text="Guide" link="http://kasumi.moe/guide/" />
 - [Kemono](https://kemono.su/)
 - [Anime-sharing](http://www.anime-sharing.com/forum/)
@@ -173,6 +173,7 @@ outline: 1
 - [Mabui Onna](https://mabui-onna.com/)
 - [JAV Library](https://www.javlibrary.com/en/)
 - [Sougou Wiki](http://sougouwiki.com/)
+- [X-IDOL](https://xidol.net/) <Badge type="tip" text="2" link="https://www.ivworld.net/" />
 
 ## Community
 
