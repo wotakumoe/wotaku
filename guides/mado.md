@@ -1,6 +1,7 @@
 ---
 title: Madokami Joining Guide
 customDescription: The Joining guide for Madokami through IRC. Also how to download stuff fromm Madokami.
+outline: [2,3]
 ---
 
 # Madokami Joining Guide
@@ -10,12 +11,14 @@ customDescription: The Joining guide for Madokami through IRC. Also how to downl
 [Madokami](https://manga.madokami.al/) is a private website that hosts manga, novels and artbooks. They upload the same manga rips found on nyaa without compression. You can either download from their site (upto 3 parallel downloads) or directly read in tachiyomi using their extension. You sign up by joining their IRC channel and trying your luck at gacha rolls.
 <br>
 
+## Creating Account
+
 :::info IRC Clients
 Install an IRC client, [**HexChat**](https://hexchat.github.io/) if PC and [**Revolution IRC**](https://play.google.com/store/apps/details?id=io.mrarm.irc&hl=en&gl=US) if Android. You can't use web IRC clients. You can find more clients [**here**](https://ircv3.net/software/clients).
 :::
 
 
-## Step 1
+### Step 1
 
 Connect to **Rizon IRC network**.
 1. Add nickname for your account
@@ -45,7 +48,7 @@ By default, Revolution IRC doesn't list any networks, so you will need to add Ri
 :::
 
 
-## Step 2
+### Step 2
 
 :::danger ⚠️ **Important**
 - Use a real e-mail address. Temporary and throw-away e-mail addresses are not acceptable.
@@ -65,7 +68,7 @@ By default, Revolution IRC doesn't list any networks, so you will need to add Ri
 Now, your nickname is registered, and you've automatically been identified. You are eligible to join Madokami.
 Upon your next visit to Rizon IRC network, use the same nickname, and identify using the following command: `/msg NickServ IDENTIFY yourPassword`
 
-## Step 3
+### Step 3
 
 1. Type `/join #madokami` at the bottom command bar to join Madokami channel.
 2. Now type `/msg sola REGISTER username password` in the Madokami channel. You shouldn't reuse the RIZON password here.
@@ -84,7 +87,7 @@ Repeat this step until you get an account, the cooldown should be 4 hours.
 
 :::details 💡Auto-join Madokami Channel {open}
 You can also set up your client to do this automatically by adding it to the **Connect/Autorun commands** for the Rizon network.
-### Hexchat
+#### Hexchat
 1. Press `Ctrl + S` to open Network List & select **Rizon** in the network list
 2. Click **Edit**
 3. In **Connection Command**, click on **Add**
@@ -98,7 +101,7 @@ You can also set up your client to do this automatically by adding it to the **C
 
 ![](/ss/mado/autohex.png)
 
-### Revolution IRC
+#### Revolution IRC
 1. Long press on the rizon network
 2. Click on **Edit**
 3. Add `#madokami` in **Auto-join channels**
@@ -108,25 +111,14 @@ You can also set up your client to do this automatically by adding it to the **C
 :::
 
 
-## Tachiyomi
-
-1. Go to extension list and search **Madokami**.
-2. Install the extension and go to it's settings page.
-3. Add your login credentials.
-
-That should get the job done. The homepage doesn't have infinite scroll due to rate limit. You can search the manga you want and read it.
-
-![](/ss/mado/tachi.png)
-
-
-## Batch Download
+## Downloading Files
 
 ### FMD2
 
 1. Download and install FMD2 from [**here**](https://github.com/dazedcat19/FMD2)
 2. Update all the modules and restart FMD2 after the update is complete. You can check the update process in `Options > Websites > Modules`
 3. Then go to `Options > Websites > Accounts` andd add your Madokami credentials. After that select Madokami and click apply.
-4. Now go to **Manga info** and paste the URL in **Input URL here** and click :arrow_right:
+4. Now go to **Manga info** and paste the URL in **Input URL here** and click :right-arrow:
 5. After it loads the chapters, select the chapters you want to download and click **Download**
 
 <div class="video_wrapper"><iframe src="https://youtube.com/embed/BR3GR8S_Oqo" frameborder="0" allowfullscreen></iframe></div>
@@ -136,7 +128,7 @@ That should get the job done. The homepage doesn't have infinite scroll due to r
 #### Auto Scan
 
 You can scan a Madokami folder automatically.
-1. Go to **Manga info** and paste the URL in **Input URL here** and click :arrow_right:
+1. Go to **Manga info** and paste the URL in **Input URL here** and click :right-arrow:
 2. Click **Add to favorites**. It will be added in the **Favorites** tab
 
 ![](/ss/mado/fav1.png)
@@ -169,7 +161,18 @@ By default, FMD2 will save it as folder. Go to `Options > Save to > Save downloa
     - It may scrape corrupted/unavailable cbz files with websites path in the name. Sort the files on name basis and ignore those.
 5. Now select the cbz files and right click. Then press **Start Downloads**
 
+### Aria2
 
-<Button icon="i-fxemoji-lightbulb">You can also use Tachiyomi to download files from Madokami.</Button>
+1. Install [**Aria2**](https://aria2.github.io/)
+2. Run this cmd `aria2c --header="Authorization: Basic <base64 of username:password>" -j 3 -Z <urls here>`
 
-<Button icon="i-fxemoji-lightbulb">To get the subfolders in tachiyomi, search the subfolder name.</Button>
+
+
+### Tachiyomi
+
+1. Add [Keiyoushi repo](https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo) in your tachiyomi forks
+2. Go to extension list and search **Madokami**.
+3. Install the extension and go to it's settings page.
+4. Add your login credentials.
+5. Now enter the extension and download your desired manga.
+
