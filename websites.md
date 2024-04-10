@@ -217,7 +217,6 @@ outline: 1
 - [Manga apps for Android](/software.md#manga) and [PC](/software.md#manga-1)
 - [Manga downloader for PC](/addons.md#manga)
 - [Manga related tools](/addons.md#manga-2)
-- [Manga hosting solutions](/addons.md#manga-1)
 
 :::
 
