@@ -74,7 +74,7 @@ The origin of the release, so streaming sites or different disc releases (DVD, L
 - **BDISO**: A disk image of a Blu-ray disc, needs to be mounted in order to be played (like other ISOs) and is used for making encodes or remuxes.
 - **BDMV**: Short for “Blu-ray Disc Movie”, a container format used to store high-definition video, audio, and other related content on Blu-ray discs.
 - **Remux**: Videos sourced from disc releases without encoding, making them have very high quality and file sizes.
-- **Encode**: A video that has gone through lossless or lossy compression processes in order to save file size, also called a DVDRip of BDRip.
+- **Encode**: A video that has gone through lossless or lossy compression processes in order to save file size, also called a DVDRip or BDRip.
 - **Re-Encode**: An encode that has gone through the process of further encoding, thus degrading in quality.
 - **Mini-Encode**: A video where the priority is the smallest possible file size, even if the quality would greatly suffer as a result.
 
