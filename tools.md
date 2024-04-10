@@ -1,11 +1,11 @@
 ---
-title: Add-ons
+title: Tools
 description: Sofware to make life easier
-customDescription: Various add-ons to enhance your experience; not all of them are necessarily weeb-related, but they can be genuinely helpful.
+customDescription: Various tools to enhance your experience; not all of them are necessarily weeb-related, but they can be genuinely helpful.
 outline: [1,2]
 ---
 
-<GradientCard title="アドオン" tag="Add-ons" description="Various add-ons to enhance your experience; not all of them are necessarily weeb-related, but they can be genuinely helpful." theme="turquoise"/>
+<GradientCard title="ツール" tag="Tools" description="Various tools to enhance your experience; not all of them are necessarily weeb-related, but they can be genuinely helpful." theme="turquoise"/>
 
 ![](/banner/phone.png)
 # Phone

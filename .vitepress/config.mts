@@ -114,8 +114,8 @@ export default defineConfig({
         link: "/misc",
       },
       {
-        text: '<span class="i-lucide:puzzle"></span> Add-ons',
-        link: "/addons",
+        text: '<span class="i-lucide:wrench"></span> Tools',
+        link: "/tools",
       },
       {
         text: '<span class="i-lucide:music"></span> Music',
@@ -192,7 +192,7 @@ export default defineConfig({
           { text: "Websites", link: "/websites" },
           { text: "Software", link: "/software" },
           { text: "Misc-sites", link: "/misc" },
-          { text: "Add-ons", link: "/addons" },
+          { text: "Tools", link: "/tools" },
           { text: "Music", link: "/music" },
           { text: "Games", link: "/games" },
           { text: "Non-English", link: "/nonen" },
