@@ -19,10 +19,39 @@ outline: 1
 - [Animepahe](https://animepahe.ru/) <Badge type="tip" text="2" link="https://animepahe.com/" /><Badge type="tip" text="3" link="https://animepahe.org" /><tooltip><ul><li>Uploads mini encoded files, useful if you want smaller files or have low bandwidth</li><li>Uploads Blu-ray and DVD versions if available</li><li>Has a good amount of missing titles</li></ul></tooltip>
 
 
+:::details Scrapers
+
+### Host Site
+
+| Host Site                                         | Symbol  { class="compact" }  |
+|---------------------------------------------------|--------|
+| [Aniwave / 9anime](https://aniwave.to/)           | 9      |
+| [BiliBili](https://www.bilibili.tv/)              | b      |
+| [GogoAnime](https://gogotaku.info/)               | g      |
+| [Animepahe](https://animepahe.ru/)                | p      |
+| [HiAnime / Aniwatch / Zoro](https://hianime.to/)  | z      |
+
+
+### Multi Host
+- [Animeflix](https://animeflix.live/) <Badge type="info" text="Proxies" link="https://animeflix.domains/" /> `gz`
+- [Kaguya](https://kaguya.app) :mingcute-chrome-fill: `bgpz`
+- [AniPlay](https://aniplaynow.live/) <Badge type="info" text="2" link="https://makima.xyz/" /> `gz`
+- [Gojo](https://gojo.live/) `gz`
+- [Streamsora](https://streamsora.live/en) `gp`
+
+
+### Single Host
+- [AnimeSuge](https://animesuge.to/home) `9`
+- [Kaido](https://kaido.to/) `z`
+- [Moopa](https://moopa.live/) `g`
+- [Miruro](https://www.miruro.tv/) `g`
+- [YugenAnime](https://yugenanime.tv/) `g`
+
+:::
+
 :::details More
 
 ### Others
-- [Kaguya](https://kaguya.app) <tooltip><ul><li>Scraping based website</li><li>Has a good amount of sources (Aniwave, Kickassanime etc.)</li><li>Scrapes manga sites too (Mangadex, Katana, Batoto etc.)</li><li>Only chromium browsers are supported & needs browser extension to work</li></ul></tooltip>
 - [Hikari](https://watch.hikaritv.xyz/home)
 - [AnimeUI](https://animeui.com/)
 - [One Pace](https://onepace.net/)  <Badge text="Stremio" link="https://github.com/au2001/onepace-stremio" />
