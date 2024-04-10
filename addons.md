@@ -2,7 +2,7 @@
 title: Add-ons
 description: Sofware to make life easier
 customDescription: Various add-ons to enhance your experience; not all of them are necessarily weeb-related, but they can be genuinely helpful.
-outline: 1
+outline: [1,2]
 ---
 
 <GradientCard title="アドオン" tag="Add-ons" description="Various add-ons to enhance your experience; not all of them are necessarily weeb-related, but they can be genuinely helpful." theme="turquoise"/>
@@ -20,29 +20,28 @@ outline: 1
 
 ### Ad blocker
 
-#### App
-- [Adguard](https://adguard.com/en/welcome.html) :glowing-star: :mdi-android::ic-baseline-apple:
-- [Adaway](https://adaway.org/) :mdi-android:
-- [RethinkDNS](https://rethinkdns.com/) :mdi-android:
-
-#### DNS
-- [NextDNS](https://nextdns.io/) :mdi-android::ic-baseline-apple:
-- [Adguard DNS](https://adguard-dns.io/en/welcome.html) :mdi-android::ic-baseline-apple:
-- [dnswarden](https://dnswarden.com/index.html) :mdi-android::ic-baseline-apple:
-- [AhaDNS](https://blitz-setup.ahadns.com/) :mdi-android::ic-baseline-apple:
+- **App**
+  - [Adguard](https://adguard.com/en/welcome.html) :glowing-star: :mdi-android::ic-baseline-apple:
+  - [Adaway](https://adaway.org/) :mdi-android:
+  - [RethinkDNS](https://rethinkdns.com/) :mdi-android:
+- **DNS**
+  - [NextDNS](https://nextdns.io/) :mdi-android::ic-baseline-apple:
+  - [Adguard DNS](https://adguard-dns.io/en/welcome.html) :mdi-android::ic-baseline-apple:
+  - [dnswarden](https://dnswarden.com/index.html) :mdi-android::ic-baseline-apple:
+  - [AhaDNS](https://blitz-setup.ahadns.com/) :mdi-android::ic-baseline-apple:
 
 ## Downloader
 
-### Direct
-- [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) :mdi-android:
-- [ADM](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US) :mdi-magnet::mdi-android:
-- [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) :mdi-android:
+- **Direct**
+  - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) :mdi-android:
+  - [ADM](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US) :mdi-magnet::mdi-android:
+  - [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) :mdi-android:
+- **Torrent**
+  - [iTorrent](https://github.com/XITRIX/iTorrent) :ic-baseline-apple:
+  - [libretorrent](https://github.com/proninyaroslav/libretorrent) :mdi-android:
+  - [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) :mdi-android:
+  - [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa&hl=en&gl=US) :glowing-star: :mdi-android:<Badge type="info" text="Nyaa.si" />
 
-### Torrent
-- [iTorrent](https://github.com/XITRIX/iTorrent) :ic-baseline-apple:
-- [libretorrent](https://github.com/proninyaroslav/libretorrent) :mdi-android:
-- [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) :mdi-android:
-- [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa&hl=en&gl=US) :glowing-star: :mdi-android:<Badge type="info" text="Nyaa.si" />
 
 ## Media
 
@@ -55,34 +54,31 @@ outline: 1
 
 ### Video
 
-#### Local
-- [mpv-android](https://github.com/mpv-android/mpv-android) <Badge type="tip" icon="i-mdi-android" text="Android" link="https://play.google.com/store/apps/details?id=is.xyz.mpv&hl=en&gl=US" />
-- [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en&gl=US) :mdi-android:
-- [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) :ic-baseline-apple:
-
-#### Online
-- [Revanced](https://revanced.app/) <Badge type="tip" text="MicroG RE" link="https://github.com/WSTxda/MicroG-RE" /> :mdi-youtube::mdi-android:
-- [Libretube](https://libretube.dev/) :mdi-youtube::mdi-android:
-- [Grayjay](https://grayjay.app/) :mdi-youtube::mdi-twitch::mdi-android:
-- [uYou+](https://github.com/qnblackcat/uYouPlus) :mdi-youtube::ic-baseline-apple:
-- [Twire](https://github.com/twireapp/Twire) :mdi-twitch::mdi-android:
+- **Local**
+  - [mpv-android](https://github.com/mpv-android/mpv-android) <Badge type="tip" icon="i-mdi-android" text="Android" link="https://play.google.com/store/apps/details?id=is.xyz.mpv&hl=en&gl=US" />
+  - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en&gl=US) :mdi-android:
+  - [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) :ic-baseline-apple:
+- **Online**
+  - [Revanced](https://revanced.app/) <Badge type="tip" text="MicroG RE" link="https://github.com/WSTxda/MicroG-RE" /> :mdi-youtube::mdi-android:
+  - [Libretube](https://libretube.dev/) :mdi-youtube::mdi-android:
+  - [Grayjay](https://grayjay.app/) :mdi-youtube::mdi-twitch::mdi-android:
+  - [uYou+](https://github.com/qnblackcat/uYouPlus) :mdi-youtube::ic-baseline-apple:
+  - [Twire](https://github.com/twireapp/Twire) :mdi-twitch::mdi-android:
 
 ## Tracker
 
-### AniList
-- [AL-Chan](https://play.google.com/store/apps/details?id=com.zen.alchan) :mdi-android:
-- AniHyou <Badge type="tip" icon="i-mdi-android" text="Android" link="https://github.com/axiel7/AniHyou-android" /><Badge type="tip" icon="i-ic-baseline-apple" text="iOS" link="https://github.com/axiel7/AniHyou-iOS" />
-- [Kurumi](https://github.com/subrotokumar/kurumi) :mdi-android:
-- [More Apps for AniList](https://AniList.co/apps) :mdi-android::ic-baseline-apple:
-
-### MyAnimeList
-- [DailyAL](https://github.com/JICA98/DailyAL) :mdi-android:
-- [MoeList](https://github.com/axiel7/MoeList) :mdi-android:<Badge type="info" icon="i-octicon-globe" text="Web" link="https://moelist.net/" />
-
-### Others
-- [Kitsu](https://github.com/hummingbird-me/kitsu-mobile) <Badge type="tip" icon="i-mdi-android" text="Android" link="https://play.google.com/store/apps/details?id=com.everfox.animetrackerandroid&hl=en&gl=US" /><Badge type="tip" icon="i-ic-baseline-apple" text="iOS" link="https://apps.apple.com/us/app/kitsu-anime/id590452826" />
-- [Kitsune](https://github.com/Drumber/Kitsune) :simple-icons-kitsu:
-- [OpenComicVine](https://github.com/proninyaroslav/OpenComicVine) <Badge type="info" text="ComicVine" />
+- **AniList**
+  - [AL-Chan](https://play.google.com/store/apps/details?id=com.zen.alchan) :mdi-android:
+  - AniHyou <Badge type="tip" icon="i-mdi-android" text="Android" link="https://github.com/axiel7/AniHyou-android" /><Badge type="tip" icon="i-ic-baseline-apple" text="iOS" link="https://github.com/axiel7/AniHyou-iOS" />
+  - [Kurumi](https://github.com/subrotokumar/kurumi) :mdi-android:
+  - [More Apps for AniList](https://AniList.co/apps) :mdi-android::ic-baseline-apple:
+- **MyAnimeList**
+  - [DailyAL](https://github.com/JICA98/DailyAL) :mdi-android:
+  - [MoeList](https://github.com/axiel7/MoeList) :mdi-android:<Badge type="info" icon="i-octicon-globe" text="Web" link="https://moelist.net/" />
+- **Others**
+  - [Kitsu](https://github.com/hummingbird-me/kitsu-mobile) <Badge type="tip" icon="i-mdi-android" text="Android" link="https://play.google.com/store/apps/details?id=com.everfox.animetrackerandroid&hl=en&gl=US" /><Badge type="tip" icon="i-ic-baseline-apple" text="iOS" link="https://apps.apple.com/us/app/kitsu-anime/id590452826" />
+  - [Kitsune](https://github.com/Drumber/Kitsune) :simple-icons-kitsu:
+  - [OpenComicVine](https://github.com/proninyaroslav/OpenComicVine) <Badge type="info" text="ComicVine" />
 
 ## Others
 
@@ -136,9 +132,10 @@ outline: 1
 #### General
 
 - **Direct**
-  - [IDM](https://www.internetdownloadmanager.com/) :ic-baseline-window:<Badge text="Activator" link="https://massgrave.dev/idm-activation-script.html" />
-  - [JDL](https://jdownloader.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge text="Debloat" link="https://rentry.org/jdownloader2" />
-  - [XDM](https://xtremedownloadmanager.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+  - [Internet Download Manager](https://www.internetdownloadmanager.com/) :ic-baseline-window:<Badge text="Activator" link="https://massgrave.dev/idm-activation-script.html" />
+  - [JDownloader](https://jdownloader.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge text="Debloat" link="https://rentry.org/jdownloader2" />
+  - [Free Download Manager](https://www.freedownloadmanager.org/)
+  - [Xtreme Download Manager](https://xtremedownloadmanager.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
   - [MegaBasterd](https://github.com/tonikelope/megabasterd) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge type="tip" text="Account gen" link="https://github.com/qtchaos/py_mega_account_generator" /><Badge type="tip" text="MegaDoctor" link="https://github.com/tonikelope/megadoctor" />
 - **Torrent**
   - [qBittorrent](https://www.qbittorrent.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
@@ -157,36 +154,26 @@ outline: 1
     - [yt-dlp GUI Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer)
 
 
-
 ## Hosting
 
-### Anime
-
-- [Plex](https://www.plex.tv/) :glowing-star:
-- [Jellyfin](https://jellyfin.org/)
-- [Emby](https://emby.media/)
-
-### Manga
-
-- [Komga](https://komga.org/) :glowing-star: <tooltip><ul><li>Media server for manga/comics (like Plex for manga).</li><li>Integrates with Tachiyomi, OPDS reader, or anything else using Komga REST API.</li><li>Community-built tools can be added through its REST API for extra features like dupe detection, media analysis for corrupt files, .cbl read lists, and much more.</li><li>User authentication using GitHub, Google, or any other OAuth provider. Can restrict sections of the library for different users.</li><li>Supports ComicInfo.xml and info.json for metadata.</li><li>Supported as a source in MALSync, for AniList/MAL tracking.</li><li>Follows the 1-folder-to-1-series paradigm (unless you designate a folder as a folder of oneshots) so you'll need to organize your files accordingly.</li></ul></tooltip>
-- [Kavita](https://www.kavitareader.com/) <tooltip><ul><li>Kavita is a media server for Manga and Light Novels (or eBooks).</li><li>Supports Tachiyomi, Paperback, OPDS readers, and REST API.</li><li>User management is done through email invites. By default, it uses the Kavita mail server, but other mail servers can be used too.</li><li>The admin can specify permissions such as enabling downloads, SFW/NSFW filter, and library selection.</li><li>Reliant on filename parsing, requires strict adherence to expected filename formats and embedded metadata is near mandatory for edge-cases.</li><li>No MALSync support. Tracking support, alongside some other features, is paywalled behind Kavita+.</li></ul></tooltip>
-- [LANraragi](https://github.com/Difegue/LANraragi)
-
-### Novels
-
-- [Komga](https://komga.org/)
-- [Kavita](https://www.kavitareader.com/)
-- [Calibre-Web](https://github.com/janeczku/calibre-web)
-- [Librium](https://librumreader.com/)
+- **Anime**
+  - [Plex](https://www.plex.tv/) :glowing-star:
+  - [Jellyfin](https://jellyfin.org/)
+  - [Emby](https://emby.media/)
+- **Manga**
+  - [Komga](https://komga.org/) :glowing-star: <tooltip><ul><li>Media server for manga/comics (like Plex for manga).</li><li>Integrates with Tachiyomi, OPDS reader, or anything else using Komga REST API.</li><li>Community-built tools can be added through its REST API for extra features like dupe detection, media analysis for corrupt files, .cbl read lists, and much more.</li><li>User authentication using GitHub, Google, or any other OAuth provider. Can restrict sections of the library for different users.</li><li>Supports ComicInfo.xml and info.json for metadata.</li><li>Supported as a source in MALSync, for AniList/MAL tracking.</li><li>Follows the 1-folder-to-1-series paradigm (unless you designate a folder as a folder of oneshots) so you'll need to organize your files accordingly.</li></ul></tooltip>
+  - [Kavita](https://www.kavitareader.com/) <tooltip><ul><li>Kavita is a media server for Manga and Light Novels (or eBooks).</li><li>Supports Tachiyomi, Paperback, OPDS readers, and REST API.</li><li>User management is done through email invites. By default, it uses the Kavita mail server, but other mail servers can be used too.</li><li>The admin can specify permissions such as enabling downloads, SFW/NSFW filter, and library selection.</li><li>Reliant on filename parsing, requires strict adherence to expected filename formats and embedded metadata is near mandatory for edge-cases.</li><li>No MALSync support. Tracking support, alongside some other features, is paywalled behind Kavita+.</li></ul></tooltip>
+  - [LANraragi](https://github.com/Difegue/LANraragi)
+- **Novels**
+  - [Komga](https://komga.org/)
+  - [Kavita](https://www.kavitareader.com/)
+  - [Calibre-Web](https://github.com/janeczku/calibre-web)
+  - [Librium](https://librumreader.com/)
 
 
+## Anime
 
-## Tools
-
-
-### Anime
-
-#### General
+### General
 
 - [Anicon](https://github.com/notdedsec/anicon) <Badge type="info" text="Anilist" link="https://github.com/EnArvy/AniconforAnilist"/>:ic-baseline-window:
 - [Anitomy](https://github.com/erengy/anitomy)
@@ -222,7 +209,7 @@ outline: 1
 - [TRaSH Guides](https://trash-guides.info/)
 :::
 
-### Manga
+## Manga
 - [ACBR - Comic Book Reader](https://github.com/binarynonsense/comic-book-reader) :ic-baseline-window::mingcute-linux-fill:
 - [cbz/cbr file converter](http://tomeko.net/software/CbxConverter/)
 - [ComicTagger](https://github.com/comictagger/comictagger) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
@@ -231,7 +218,7 @@ outline: 1
 - [kurp](https://github.com/Snd-R/kurp) :ic-baseline-window::mingcute-linux-fill::mdi-docker:
 - [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
-### EBook
+## EBook
 - [ACBR - Comic Book Reader](https://github.com/binarynonsense/comic-book-reader) :ic-baseline-window::mingcute-linux-fill:
 - [Calibre](https://calibre-ebook.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Kindle Comic Converter](https://github.com/ciromattia/kcc) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-docker:
@@ -240,7 +227,7 @@ outline: 1
 - [Okular](https://okular.kde.org/) :ic-baseline-window::mingcute-linux-fill:
 - [Sigil-Ebook](https://sigil-ebook.com/) :ic-baseline-window::ic-baseline-apple:
 
-### Tracker
+## Tracker
 - [Animeo](https://github.com/Jenrykster/animeo) <Badge type="info" text="Stremio" />
 - [Hachidori](https://github.com/Atelier-Shiori/hachidori) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://malupdaterosx.moe/hachidori/" />:ic-baseline-apple:
 - [MALClient](https://github.com/Drutol/MALClient) <Badge type="tip" icon="i-octicon-globe" text="Store" link="https://apps.microsoft.com/store/detail/malclient/9NBLGGH5F3BL" />:ic-baseline-window:
@@ -250,73 +237,83 @@ outline: 1
 - [Tundra](https://github.com/m4tx/tundra) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://tundra.moe/" />:mingcute-linux-fill:
 
 
+## Video
+
+- **Local**
+  - [IINA](https://iina.io/) :ic-baseline-apple:
+  - [MPC-HC](https://github.com/clsid2/mpc-hc) :ic-baseline-window:<Badge type="info" text="Codec guide" link="https://codecguide.com/media_player_classic.htm"/><Badge type="tip" text="Guide" link="https://kokomins.wordpress.com/2021/03/27/mpc-hc-and-madvr-setup-guide/" />
+  - [mpv](https://mpv.io/) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge type="info" text="mpv.net" link="https://github.com/mpvnet-player/mpv.net"/> 
+  - [K-Lite Codec Pack](https://codecguide.com/download_kl.htm) :ic-baseline-window:
+- **Online**
+  - [FreeTube](https://freetubeapp.io/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+
+::: details **mpv Resources**
+
+### Resources
+- [mpv](https://mpv.io/) <Badge type="tip" text="Manual" link="https://mpv.io/manual/stable/" />
+- [Scum's Setup Guide](https://iamscum.wordpress.com/guides/videoplayback-guide/)
+- [Kokomins Configuration Guide](https://kokomins.wordpress.com/2019/10/14/mpv-config-guide/)
+- [mpv Script Wiki](https://github.com/mpv-player/mpv/wiki/User-Scripts)
+- [Awesome mpv](https://github.com/stax76/awesome-mpv)
+
+### Alt UI
+- [ModernX](https://github.com/cyl0/ModernX)
+- [Tethys](https://github.com/Zren/mpv-osc-tethys)
+- [uosc](https://github.com/tomasklaen/uosc)
+
 ### Video
+- [Autocrop](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autocrop.lua)
+- [Autoload](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua)
+- [Eisa's Scripts](https://github.com/Eisa01/mpv-scripts)
+- [thumbfast](https://github.com/po5/thumbfast/)
 
-#### Local
-- [IINA](https://iina.io/) :ic-baseline-apple:
-- [MPC-HC](https://github.com/clsid2/mpc-hc) :ic-baseline-window:<Badge type="info" text="Codec guide" link="https://codecguide.com/media_player_classic.htm"/><Badge type="tip" text="Guide" link="https://kokomins.wordpress.com/2021/03/27/mpc-hc-and-madvr-setup-guide/" />
-- [mpv](https://mpv.io/) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge type="info" text="mpv.net" link="https://github.com/mpvnet-player/mpv.net"/> 
-- [K-Lite Codec Pack](https://codecguide.com/download_kl.htm) :ic-baseline-window:
+### QoL
+- [mpv Playlistmanager](https://github.com/jonniek/mpv-playlistmanager)
+- [trackselect](https://github.com/po5/trackselect)
+- [pause when minimize](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/pause-when-minimize.lua)
 
-#### Online
-- [FreeTube](https://freetubeapp.io/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-
-::: details 💡 **mpv Resources**
-- **Resources**
-  - [mpv](https://mpv.io/) <Badge type="tip" text="Manual" link="https://mpv.io/manual/stable/" />
-  - [Scum's Setup Guide](https://iamscum.wordpress.com/guides/videoplayback-guide/)
-  - [Kokomins Configuration Guide](https://kokomins.wordpress.com/2019/10/14/mpv-config-guide/)
-  - [mpv Script Wiki](https://github.com/mpv-player/mpv/wiki/User-Scripts)
-  - [Awesome mpv](https://github.com/stax76/awesome-mpv)
-- **Alt UI**
-  - [ModernX](https://github.com/cyl0/ModernX)
-  - [Tethys](https://github.com/Zren/mpv-osc-tethys)
-  - [uosc](https://github.com/tomasklaen/uosc)
-- **Video**
-  - [Autocrop](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autocrop.lua)
-  - [Autoload](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua)
-  - [Eisa's Scripts](https://github.com/Eisa01/mpv-scripts)
-  - [thumbfast](https://github.com/po5/thumbfast/)
-- **QoL**
-  - [mpv Playlistmanager](https://github.com/jonniek/mpv-playlistmanager)
-  - [trackselect](https://github.com/po5/trackselect)
-  - [pause when minimize](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/pause-when-minimize.lua)
-- **Addons**
-  - [webtorrent mpv hook](https://github.com/mrxdst/webtorrent-mpv-hook)
-  - [MPV Shim for Plex](https://github.com/iwalton3/plex-mpv-shim)
-  - [Prescalers](https://github.com/bjin/mpv-prescalers)
-  - [Upscale 2x](https://github.com/the-database/mpv-upscale-2x_animejanai)
+### Addons
+- [webtorrent mpv hook](https://github.com/mrxdst/webtorrent-mpv-hook)
+- [MPV Shim for Plex](https://github.com/iwalton3/plex-mpv-shim)
+- [Prescalers](https://github.com/bjin/mpv-prescalers)
+- [Upscale 2x](https://github.com/the-database/mpv-upscale-2x_animejanai)
 :::
 
-### Image
+## Image
 
-#### Viewer+
-- [IrfanView](https://www.irfanview.com/)
-- [XnView MP](https://www.xnview.com/en/xnviewmp/)
-
-#### Optimizer
-- [imgdanke](https://github.com/DrWhoCares/imgdanke) <tooltip>Optional for GUI but does not support Pingo v1+ at the moment.</tooltip>
-- [ImageMagick](https://imagemagick.org/index.php) <Badge type="tip" text="Scripts" link="https://www.fmwconcepts.com/imagemagick/index.php" />
-- [Pingo](https://css-ig.net/pingo) <Badge type="tip" text="Pinga" link="https://css-ig.net/pinga" />
-
-#### Processor
-- [chaiNNer](https://github.com/chaiNNer-org/chaiNNer)
-- [Waifu2X](https://github.com/nagadomi/waifu2x) <Badge type="tip" text="caffe" link="https://github.com/lltcggie/waifu2x-caffe" /><Badge type="tip" text="ncnn Vulkan" link="https://github.com/nihui/waifu2x-ncnn-vulkan" /><Badge type="tip" text="Ext GUI" link="https://github.com/AaronFeng753/Waifu2x-Extension-GUI" /><Badge type="tip" text="nunif" link="https://github.com/nagadomi/nunif" />
-
-#### Others
-- [Hydrus network](https://hydrusnetwork.github.io/hydrus/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-
-<Button link="/scanlation#tools" icon="i-octicon-tools-16">You can find more image tools here.</Button>
+- **Viewer+**
+  - [IrfanView](https://www.irfanview.com/)
+  - [XnView MP](https://www.xnview.com/en/xnviewmp/)
+- **Optimizer**
+  - [imgdanke](https://github.com/DrWhoCares/imgdanke) <tooltip>Optional for GUI but does not support Pingo v1+ at the moment.</tooltip>
+  - [ImageMagick](https://imagemagick.org/index.php) <Badge type="tip" text="Scripts" link="https://www.fmwconcepts.com/imagemagick/index.php" />
+  - [Pingo](https://css-ig.net/pingo) <Badge type="tip" text="Pinga" link="https://css-ig.net/pinga" />
+- **Processor**
+  - [chaiNNer](https://github.com/chaiNNer-org/chaiNNer)
+  - [Waifu2X](https://github.com/nagadomi/waifu2x) <Badge type="tip" text="caffe" link="https://github.com/lltcggie/waifu2x-caffe" /><Badge type="tip" text="ncnn Vulkan" link="https://github.com/nihui/waifu2x-ncnn-vulkan" /><Badge type="tip" text="Ext GUI" link="https://github.com/AaronFeng753/Waifu2x-Extension-GUI" /><Badge type="tip" text="nunif" link="https://github.com/nagadomi/nunif" />
+- **Others**
+  - [Hydrus network](https://hydrusnetwork.github.io/hydrus/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
 
-### Fansubbing
-- [Aegisub](https://aegisub.org/) :ic-baseline-window::mingcute-linux-fill:<Badge type="tip" icon="i-octicon-repo-forked" text="Fork" link="https://github.com/arch1t3cht/Aegisub" />
+::: info Related resources
+- [Scanlation related tools](/scanlation#tools)
+
+:::
+
+
+
+## Fansubbing
+- [Aegisub](https://github.com/arch1t3cht/Aegisub) :ic-baseline-window::mingcute-linux-fill:<Badge type="tip" icon="i-octicon-repo-forked" text="Main" link="https://github.com/arch1t3cht/Aegisub" />
 - [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) :ic-baseline-window:
 - [mpvQC](https://github.com/mpvqc/mpvQC) :ic-baseline-window:
 - [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
-### OCR
+::: info Related resources
+- [Fansubbing guide](/misc.md#fansubbing)
 
+:::
+
+## OCR
 - [Sugoi Translation Toolkit](https://blog.sugoitoolkit.com/)
 - [Ballons Translator](https://github.com/dmMaze/BallonsTranslator)
 - [Capture2text](https://capture2text.sourceforge.net/)
@@ -331,10 +328,7 @@ outline: 1
 Using Machine Translation to translate manga will be a mess. Manga has lots of slang, cultural references, and visual elements that MTL won't understand. So, it's better to have a human translator who knows the language and culture well. You don't want to end up with a wonky or inaccurate translation!
 :::
 
-
-### Others
-
-#### Discord bots
+## Discord bots
 - [AniSearch](https://github.com/IchBinLeoon/anisearch-discord-bot) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://ichbinleoon.github.io/anisearch-discord-bot/#/" />
 - [Ryuuzaki Ryuusei](https://github.com/nattadasu/ryuuRyuusei)
 - [Yuuko](https://github.com/YuuCorp/Yuuko)
@@ -345,7 +339,7 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 - Sneedex <Badge type="info" icon="i-ic-outline-discord" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" />
 - [Picsiv](https://github.com/jckli/picsiv)
 
-#### Misc
+## Misc
 - [osu! Cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner) :ic-baseline-window:
 - [PreMiD](https://premid.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Textractor](https://github.com/Artikash/Textractor) :ic-baseline-window:
@@ -433,35 +427,31 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 
 ## Imageboards
 
-### Pixiv
-- [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE%2B)
-- Pixiv Downloader <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/432150-pixiv-downloader" />
-- [Pixiv Preview](https://github.com/NightLancer/PixivPreview) <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/39387-pixiv-arts-preview-followed-atrists-coloring-extended-history" />
-- [ppixiv for Pixiv](https://github.com/ppixiv/ppixiv) <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/370418-ppixiv-for-pixiv" />
-
-### 4Chan 
-- [4chan X](https://github.com/ccd0/4chan-x)
-- [StyleChan](https://github.com/3nly/StyleChan)
-- [Desu X](https://greasyfork.org/en/scripts/483282-desu-x-enhancement-script-for-desuarchive-org)
-
-### Others
-- [Handy Image](https://github.com/Owyn/HandyImage) <Badge type="tip" icon="i-custom-fork" text="Sleezy" link="https://sleazyfork.org/en/scripts/109-handy-image" />
-- [Max URL](https://github.com/qsniyg/maxurl)
+- **Pixiv**
+  - [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE%2B)
+  - Pixiv Downloader <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/432150-pixiv-downloader" />
+  - [Pixiv Preview](https://github.com/NightLancer/PixivPreview) <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/39387-pixiv-arts-preview-followed-atrists-coloring-extended-history" />
+  - [ppixiv for Pixiv](https://github.com/ppixiv/ppixiv) <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/370418-ppixiv-for-pixiv" />
+- **4Chan** 
+  - [4chan X](https://github.com/ccd0/4chan-x)
+  - [StyleChan](https://github.com/3nly/StyleChan)
+  - [Desu X](https://greasyfork.org/en/scripts/483282-desu-x-enhancement-script-for-desuarchive-org)
+- **Others**
+  - [Handy Image](https://github.com/Owyn/HandyImage) <Badge type="tip" icon="i-custom-fork" text="Sleezy" link="https://sleazyfork.org/en/scripts/109-handy-image" />
+  - [Max URL](https://github.com/qsniyg/maxurl)
 
 ## Others
 
-### Game
-- [CS RIN RU Enhanced](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external)
-- Game DL Links on <Badge type="tip" text="GOG" link="https://greasyfork.org/en/scripts/481134-gog-to-free-download-site" /> <Badge type="tip" text="Steam" link="https://greasyfork.org/en/scripts/481139-steam-to-free-download-site" />
-
-### Music
-- [Ame](https://notabug.org/SuperSaltyGamer/ame/)
-- [MusicBrainz Userscripts](https://musicbrainz.org/doc/Guides/Userscripts)
-- [Slav Art User Scripts](https://rentry.org/slavartuserscripts)
-
-### Misc
-- [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)
-- [Fandom Fixed](https://github.com/squabbled/FandomFixed)
+- **Game**
+  - [CS RIN RU Enhanced](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external)
+  - Game DL Links on <Badge type="tip" text="GOG" link="https://greasyfork.org/en/scripts/481134-gog-to-free-download-site" /> <Badge type="tip" text="Steam" link="https://greasyfork.org/en/scripts/481139-steam-to-free-download-site" />
+- **Music**
+  - [Ame](https://notabug.org/SuperSaltyGamer/ame/)
+  - [MusicBrainz Userscripts](https://musicbrainz.org/doc/Guides/Userscripts)
+  - [Slav Art User Scripts](https://rentry.org/slavartuserscripts)
+- **Misc**
+  - [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)
+  - [Fandom Fixed](https://github.com/squabbled/FandomFixed)
 
 :::warning Scripts may not function correctly or reliably all the time
 Active maintenance is necessary for scripts to work properly. If a script fails, try reinstalling it; otherwise, wait for a fix to be released. Install [**Violentmonkey**](https://violentmonkey.github.io/) or [**Tampermonkey**](https://www.tampermonkey.net/) to use scripts.

@@ -456,6 +456,12 @@ outline: 1
 - [Yukisubs](https://yukisubs.wordpress.com/guides/)
 - [Zeriyu's Fansub Guide](https://github.com/zeriyu/fansub-guide)
 
+::: info Related resources
+- [Fansubbing tools](/addons.md#fansubbing)
+
+:::
+
+
 ## osu!
 
 - [Anisync](https://anisync.live/)
