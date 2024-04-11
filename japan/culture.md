@@ -1,5 +1,5 @@
 ---
-title: Culute
+title: Culure
 description: Learn about Japanese Culture, History & Festivals!
 customDescription: Learn about Japanese Culture, History & Festivals!
 outline: [2,3]
