@@ -83,8 +83,9 @@ outline: 1
 ## Downloader
 
 - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) :mdi-android:
-- [IDM](https://www.internetdownloadmanager.com/) <Badge text="Activator" link="https://massgrave.dev/idm-activation-script.html" /> :ic-baseline-window:
-- [JDL](https://jdownloader.org/) <Badge text="Debloat" link="https://rentry.org/jdownloader2" /> :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [IDM](https://www.internetdownloadmanager.com/) :ic-baseline-window:
+- [JDL](https://jdownloader.org/) <Badge text="Debloat" link="/guides/misc#jdownloader-ad-removal" /> :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Free Download Manager](https://www.freedownloadmanager.org/)
 - [Nicotine+](https://nicotine-plus.org/) <Badge text="p2p" />:mdi-android::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <tooltip>Direct peer-to-peer sharing network, primarily used for music</tooltip>
 
 ## Torrent

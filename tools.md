@@ -105,11 +105,10 @@ outline: [1,2]
 
 ## Anime
 
-### General
-
 - [Anicon](https://github.com/notdedsec/anicon) <Badge type="info" text="Anilist" link="https://github.com/EnArvy/AniconforAnilist"/>:ic-baseline-window:
 - [Anitomy](https://github.com/erengy/anitomy)
 - [GetFnative](https://github.com/YomikoR/GetFnative) <Badge type="info" text="getfscaler" link="https://github.com/Jaded-Encoding-Thaumaturgy/getfscaler"/>
+- [Getnative](https://github.com/Infiziert90/getnative)
 - [Koneko](https://github.com/irevenko/koneko)
 - **Plex**
   - [Plex to AniList Sync](https://github.com/RickDB/PlexAniSync)
@@ -146,7 +145,6 @@ outline: [1,2]
 - [ACBR - Comic Book Reader](https://github.com/binarynonsense/comic-book-reader) :ic-baseline-window::mingcute-linux-fill:
 - [cbz/cbr file converter](http://tomeko.net/software/CbxConverter/) :ic-baseline-window:
 - [ComicTagger](https://github.com/comictagger/comictagger) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Kindle Comic Converter](https://github.com/ciromattia/kcc) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [komf](https://github.com/Snd-R/komf) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-docker:
 - [kurp](https://github.com/Snd-R/kurp) :ic-baseline-window::mingcute-linux-fill::mdi-docker:
 - [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
@@ -158,6 +156,7 @@ outline: [1,2]
 - [KOReader](https://koreader.rocks/) :mdi-android::mingcute-linux-fill::gg-ereader:
 - [Libation](https://getlibation.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Okular](https://okular.kde.org/) :ic-baseline-window::mingcute-linux-fill:
+- [Send to Kindle](https://www.amazon.com/sendtokindle) :mdi-earth::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Sigil-Ebook](https://sigil-ebook.com/) :ic-baseline-window::ic-baseline-apple:
 
 
@@ -203,8 +202,8 @@ outline: [1,2]
 #### General
 
 - **Direct**
-  - [Internet Download Manager](https://www.internetdownloadmanager.com/) :ic-baseline-window:<Badge text="Activator" link="https://massgrave.dev/idm-activation-script.html" />
-  - [JDownloader](https://jdownloader.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge text="Debloat" link="https://rentry.org/jdownloader2" />
+  - [Internet Download Manager](https://www.internetdownloadmanager.com/) :ic-baseline-window:
+  - [JDownloader](https://jdownloader.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge text="Debloat" link="/guides/misc#jdownloader-ad-removal" />
   - [Free Download Manager](https://www.freedownloadmanager.org/)
   - [Xtreme Download Manager](https://xtremedownloadmanager.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
   - [MegaBasterd](https://github.com/tonikelope/megabasterd) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge type="tip" text="Account gen" link="https://github.com/qtchaos/py_mega_account_generator" /><Badge type="tip" text="MegaDoctor" link="https://github.com/tonikelope/megadoctor" />
