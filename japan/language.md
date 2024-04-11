@@ -46,6 +46,9 @@ outline: [2,3]
 ### Practice
 - [Kana Pro](https://kana.pro/)
 - [Real Kana](https://realkana.com/)
+- [Kana Review](https://kanareview.com/)
+- [Type Kana](https://lab.fleon.org/type-kana/)
+- [Steven Kraft’s Japanese Projects](https://steven-kraft.com/projects/japanese/) <Badge type="warning" text="general" />
 - Freerice <Badge type="tip" text="hiragana" link="https://play.freerice.com/categories/hiragana" /><Badge type="tip" text="katakana" link="https://play.freerice.com/categories/katakana" />
 
 
@@ -163,7 +166,9 @@ outline: [2,3]
 #### Misc
 - [Hinoki Project](https://hinoki-project.org/)
 - [Hiragana](https://www.hiragana.jp/en/) `Add Hiragana over Kanji`
+- [Kanji Portraits](https://kanjiportraits.wordpress.com/) `Kanji Origins`
 - [Kanji Tools](https://kanji.sljfaq.org/)
+- [Kanji Worksheets](https://jensechu.github.io/kanji/index.html) `Printable Kanji Worksheet`
 - [Massif](https://massif.la/ja) `Search throuh Book / WN / Web`
 - [OJAD AI Reader](https://www.gavo.t.u-tokyo.ac.jp/ojad/phrasing/index) `Generate Pitch Accent`
 - [RTK Search](https://hochanh.github.io/rtk/)
@@ -184,9 +189,14 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 - [Pomax's An introduction to Japanese](https://pomax.github.io/nrGrammar/)
 - [IMABI](https://imabi.org/)
 - [CURE DOLLY TEXTBOOK](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit) <Badge type="tip" text="original" link="https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit" />
+- [Learning Japanese When You Think In A Western Language](https://kimallen.sheepdogdesign.net/)
+- [昨日 Sakubi: Yesterday's Grammar Guide](https://sakubi.neocities.org/)
+- [A Beginner’s Japanese Grammar Guide](https://www.japanistry.com/japanese-grammar-guide/)
 - [Visualizing Japanese Grammar](https://www2.gwu.edu/~eall/vjgnew/vjghomepage/vjghome.htm)
 - [DoJK](https://dojgdeck.neocities.org/)
 - [Bunpro](https://bunpro.jp/) <Badge type="warning" text="Freemium" />
+- [JLPT Grammar List](https://jlptgrammarlist.neocities.org/)
+- [Ultra Handy Japanese Verb Conjugator](https://www.japaneseverbconjugator.com/)
 
 ### Youtube
 
@@ -234,10 +244,12 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 #### General
 - [Genki Study Resources](https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/)
 - [Tobira Study Resources](https://sethclydesdale.github.io/tobira-study-resources/)
+- [Japanese Conjugation Practice](https://baileysnyder.com/jconj/)
+- [Don's Japanese Conjugation Drill](https://wkdonc.github.io/conjugation/drill.html)
 
 #### Number
 - [Japanese Numbers](https://langpractice.com/japanese)
-
+- [助数詞を練習](https://www.jyosuushi.com/)
 
 
 ## Others
@@ -265,8 +277,10 @@ You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanes
 
 ### Course Sites
 
+- [80/20 Japanese](https://8020japanese.com/)
 - [Bunpro](https://bunpro.jp/) `Grammar`
 - [Forvo](https://forvo.com/)
+- [Kanshudo](https://www.kanshudo.com/) `General`
 - [MaruMori](https://marumori.io/) `General`
 - [Migaku](https://migaku.com/)
 - [NativShark](https://www.nativshark.com/) `General`
