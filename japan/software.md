@@ -172,7 +172,7 @@ outline: [2,3]
 - [JL](https://github.com/rampaa/JL)
 
 #### Subtitle
-- [Ageisub](https://aegisub.org/) :ic-baseline-window::ic-baseline-apple: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/Aegisub/Aegisub" />  `Subtitle editor`
+- [Ageisub](https://github.com/arch1t3cht/Aegisub) :ic-baseline-window::ic-baseline-apple:  `Subtitle editor`
 - [Subtitle Edit](https://www.nikse.dk/subtitleedit) :ic-baseline-window: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/SubtitleEdit/subtitleedit" />  `Subtitle editor`
 - [subs2srs](https://subs2srs.sourceforge.net/) :ic-baseline-window: `Generates audio clip from media using subs for Anki/SRS`
 - [subs2cia](https://github.com/dxing97/subs2cia) :ic-baseline-apple::mingcute-linux-fill: `Generates audio clip from media using subs for Anki/SRS`
@@ -180,6 +180,7 @@ outline: [2,3]
 - [SubPlease](https://github.com/kanjieater/SubPlease) :ic-baseline-window::mingcute-linux-fill: `Generate accurate subtitles from audio`
 - [Subtitle Character Counter](https://cademcniven.com/subtitleCharacterCounter.html) :mdi-earth:
 - [Sub transition](https://github.com/Ajatt-Tools/sub-transition) :simple-icons-mpv: `Speed up the video parts with no subs`
+- [Nekomoe JP Formatter](https://jp-formatter.pages.dev/) :mdi-earth: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/Nekomoekissaten-SUB/nekomoe-jp-formatter" />  `Clean up subtitles`
 
 
 #### Audio tools
@@ -189,6 +190,8 @@ outline: [2,3]
 
 #### Games/VN
 - [EXSTATIC](https://github.com/KamWithK/exSTATic)
+- [Luna Hook](https://github.com/HIllya51/LunaHook)
+- [Luna Translator](https://github.com/HIllya51/LunaTranslator)
 - [Textractor](https://github.com/Artikash/Textractor) <Badge type="tip" text="Guide" link="https://xelieu.github.io/jp-lazy-guide/setupVnOnPC/" />
 - [Textractor websocket](https://github.com/kuroahna/textractor_websocket)
 
