@@ -123,7 +123,7 @@ outline: 1
 ## Online
 
 - [Comick](https://comick.io/home) :glowing-star: <Badge type="tip" text="RSS" icon="i-material-symbols-rss-feed-rounded" link="https://manga.ldez.workers.dev/" /> <Badge type="danger" text="18+" /> <tooltip><ul><li>Minimal compression</li><li>Aggregates from various scanlation groups</li><li>Has official translations</li><li>Reader isn't as good as mangadex</li></ul></tooltip>
-- [Mangadex](https://mangadex.org/) <Badge type="danger" text="18+" /> <tooltip><ul><li>Uploads without compression</li><li>Best reader UI (for a web reader)</li><li>Uploads from various scanlation groups</li><li>No <a href="https://mangadex.org/rules#content_restrictions">official translations</a> since it was created for fansub</li><li>May remove content if there is a DMCA request by the publisher or doesn't allow upload at all (e.g. One Punch-Man)</li></ul></tooltip>
+- [Mangadex](https://mangadex.org/) <Badge type="tip" text="RSS" icon="i-material-symbols-rss-feed-rounded" link="https://mdrss.tijlvdb.me/" /> <Badge type="danger" text="18+" /> <tooltip><ul><li>Uploads without compression</li><li>Best reader UI (for a web reader)</li><li>Uploads from various scanlation groups</li><li>No <a href="https://mangadex.org/rules#content_restrictions">official translations</a> since it was created for fansub</li><li>May remove content if there is a DMCA request by the publisher or doesn't allow upload at all (e.g. One Punch-Man)</li></ul></tooltip>
 - [Mangasee](https://mangasee123.com/) <Badge type="tip" text="2" link="https://manga4life.com/" /><Badge type="tip" text="Alt" link="https://atsu.moe/" /> <tooltip><ul><li>Has official translations</li><li>Compresses chapter images</li><li>Chapter updates are relatively slow</li></ul></tooltip>
 - [MangaFire](https://mangafire.to/home) <tooltip><ul><li>The UI is very clean with notification system</li><li>Uploads both chapter (multi-lang) & volume releases</li><li>Basic reader UI</li><li>Watermark on almost every manga chapters</li><li>Manga uploads are up to x1600</li></ul></tooltip>
 - [Batoto](https://battwo.com/v3x) <Badge type="tip" text="Proxies" link="https://rentry.co/batoto" /><Badge type="danger" text="18+" /><tooltip><ul><li>Has both scanlated and official releases</li><li>Has some exclusive uploads</li><li>Decent filtering options with site theme options</li><li>Indexing is really poor</li></ul></tooltip>
@@ -145,14 +145,28 @@ outline: 1
 
 ## Nyaa
 
-- [1r0n](https://nyaa.si/user/tsuna69) <Badge type="info" text="Chapters"/><tooltip>[Comikey](https://comikey.com/), [J-Novel Club](https://j-novel.club/), [K Manga](https://kmanga.kodansha.com/), [Kodansha](https://kodansha.us/), [Manga UP!](https://global.manga-up.com/), [Seven Seas](https://sevenseasentertainment.com/), [SQUARE ENIX](https://squareenixmangaandbooks.square-enix-games.com/en-us), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
-- [anadius](https://nyaa.si/user/anadius) <Badge type="warning" text="Retired"/> <Badge type="info" text="Chapters"/> <tooltip>[VIZ](https://www.viz.com/)</tooltip>
+:::details Symbols
+
+| Type        | Symbol |
+| ----------- | ------ |
+| Chapters    | Ch     |
+| Compilation | Comp   |
+| Volume      | Vol    |
+
+**Note:**
+- The default ripping type is volume.
+- :four-leaf-clover: :mdi-arrow-right-thin: the ripper uploads to 4chan first.
+
+:::
+
+- [1r0n](https://nyaa.si/user/tsuna69) `Ch` `Vol`<tooltip>[Comikey](https://comikey.com/), [J-Novel Club](https://j-novel.club/), [K Manga](https://kmanga.kodansha.com/), [Kodansha](https://kodansha.us/), [Manga UP!](https://global.manga-up.com/), [Seven Seas](https://sevenseasentertainment.com/), [SQUARE ENIX](https://squareenixmangaandbooks.square-enix-games.com/en-us), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
+- [anadius](https://nyaa.si/user/anadius) <Badge type="warning" text="Retired"/> `Ch` <tooltip>[VIZ](https://www.viz.com/)</tooltip>
 - [Danke](https://nyaa.si/?f=0&c=0_0&q=danke-empire) :four-leaf-clover: <tooltip>[Seven Seas](https://sevenseasentertainment.com/), [Kodansha](https://kodansha.us/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
 - [Digital Manga Fan](https://nyaa.si/user/digitalmangafan) <tooltip>[J-Novel Club](https://j-novel.club/), [Kodansha](https://kodansha.us/), [ONE PEACE BOOKS](https://www.onepeacebooks.com/), [Seven Seas](https://sevenseasentertainment.com/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
-- [Empy](https://nyaa.si/user/empyrealarrow) <Badge type="info" text="Chapters"/> <Badge type="info" text="Compilations"/> <tooltip>[Glacier Bay Books](https://glacierbaybooks.com/), [MANGA Plus](https://mangaplus.shueisha.co.jp/)</tooltip>
+- [Empy](https://nyaa.si/user/empyrealarrow) `Ch` `Comp` <tooltip>[Glacier Bay Books](https://glacierbaybooks.com/), [MANGA Plus](https://mangaplus.shueisha.co.jp/)</tooltip>
 - [Lord_ne](https://nyaa.si/user/lord_ne) <tooltip>[Crunchyroll](https://store.crunchyroll.com/collections/manga/), [Lezhin Comics](https://www.lezhinus.com/en), [Yen Press](https://yenpress.com/)</tooltip>
-- [LuCaZ](https://nyaa.si/user/LuCaZ) <Badge type="info" text="Chapters"/> <tooltip>[Kodansha](https://kodansha.us/), [Seven Seas](https://sevenseasentertainment.com/), [Yen Press](https://yenpress.com/)</tooltip>
-- [Oakminati](https://nyaa.si/user/Oakminati) <Badge type="info" text="Compilations"/> <Badge type="tip" text="Releases" link="https://sheet.zohopublic.com/sheet/published/3v5my3d014d3b97064f55b7114631ac87efda?sheetid=1&range=A1" /> <tooltip>[MANGA Plus](https://mangaplus.shueisha.co.jp/), [Manga UP!](https://global.manga-up.com/) (Main), [SQUARE ENIX](https://squareenixmangaandbooks.square-enix-games.com/en-us)</tooltip>
+- [LuCaZ](https://nyaa.si/user/LuCaZ) `Ch` `Vol` <tooltip>[Kodansha](https://kodansha.us/), [Seven Seas](https://sevenseasentertainment.com/), [Yen Press](https://yenpress.com/)</tooltip>
+- [Oakminati](https://nyaa.si/user/Oakminati) `Ch` `Comp` <Badge type="tip" text="Releases" link="https://sheet.zohopublic.com/sheet/published/3v5my3d014d3b97064f55b7114631ac87efda?sheetid=1&range=A1" /> <tooltip>[MANGA Plus](https://mangaplus.shueisha.co.jp/), [Manga UP!](https://global.manga-up.com/) (Main), [SQUARE ENIX](https://squareenixmangaandbooks.square-enix-games.com/en-us)</tooltip>
 - [Shellshock](https://nyaa.si/user/shellshock) <tooltip>[Kodansha](https://kodansha.us/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
 - [Shizu](https://nyaa.si/user/wolfsbanes) <tooltip>[Kodansha](https://kodansha.us/), [SuBLime](https://www.sublimemanga.com/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
 - [Stick](https://nyaa.si/user/dumbboy58) <tooltip>[Cross Infinite World](https://www.crossinfworld.com/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
