@@ -108,6 +108,7 @@ outline: 1
 - [ysgc](https://www.ysgc.vip/vodtype/4.html)
 
 ### Torrent
+- [Anime Garden](https://garden.onekuma.cn/)
 - [Bangumi](https://bangumi.moe/)
 - [DMHY](https://dmhy.org/)
 - [Mikanani](https://mikanani.me/)
