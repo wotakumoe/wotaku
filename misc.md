@@ -190,7 +190,7 @@ outline: 1
 
 ## General
 
-- **News**
+- **Info / News**
   - [Anime News Network](https://www.animenewsnetwork.com/) :glowing-star: <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/anime" />
   - [Crunchyroll News](https://www.crunchyroll.com/news)
   - [MAL News](https://myanimelist.net/news) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/myanimelist" />
@@ -199,29 +199,35 @@ outline: 1
 - **Blog / Interview**
   - [Anime Blog Tracker](https://aniblogtracker.com/) :glowing-star: <Badge text="Aggregator" /> 
   - [Anime Nano](https://www.animenano.com/) <Badge text="Aggregator" />
-  - [Animétudes](https://animetudes.com/) :glowing-star:
-  - [artist_unknown](https://artistunknown.info/)
-  - [Full Frontal](https://fullfrontal.moe/) :glowing-star:
-  - [Let's Anime](https://letsanime.blogspot.com/)
-  - [Sakuga Blog](https://blog.sakugabooru.com/) :glowing-star: <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/SakugaBlog" />
   - [Zimmerit](https://www.zimmerit.moe/)
 
 ## Anime
 
-- [Anime Corner](https://animecorner.me/) :glowing-star: <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/animecorner_ac" />
-- [Anitrendz](https://anitrendz.net/news/) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/anitrendz" />
-- [AnimeTV](https://animetv-jp.net/) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/animetv_jp" />
+- **Info / News**
+  - [Anime Corner](https://animecorner.me/) :glowing-star: <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/animecorner_ac" />
+  - [Anitrendz](https://anitrendz.net/news/) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/anitrendz" />
+  - [AnimeTV](https://animetv-jp.net/) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/animetv_jp" />
+- **Blog / Interview**
+  - [Animétudes](https://animetudes.com/) :glowing-star:
+  - [artist_unknown](https://artistunknown.info/)
+  - [Full Frontal](https://fullfrontal.moe/) :glowing-star:
+  - [Furaba Anime search](https://furaba-animeseichi.blog.jp/)
+  - [Let's Anime](https://letsanime.blogspot.com/)
+  - [Sakuga Blog](https://blog.sakugabooru.com/) :glowing-star: <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/SakugaBlog" />
+
 
 ## Manga & LN
 
-- [Erzat](https://twitter.com/Erzat110) :mdi-twitter:
-- [Manga Alerts](https://twitter.com/MangaAlerts) :mdi-twitter:
-- [Manga Bookshelf](https://mangabookshelf.com/) :mdi-twitter:
-- [Manga Mogura RE](https://twitter.com/MangaMoguraRE) :glowing-star: :mdi-twitter: <Badge type="danger" icon="i-mdi-twitter" text="Ecchi" link="https://twitter.com/EcchiMogura" />
-- [Manga Splaining](https://www.mangasplaining.com/)
-- [Shonen Jump News](https://twitter.com/WSJ_manga) :glowing-star: :mdi-twitter:
-- [TheOASG](https://twitter.com/TheOASG) :glowing-star: :mdi-twitter:
-- [Deb Aoki](https://twitter.com/debaoki) :mdi-twitter:
+- **Info / News**
+  - [Erzat](https://twitter.com/Erzat110) :mdi-twitter:
+  - [Manga Alerts](https://twitter.com/MangaAlerts) :mdi-twitter:
+  - [Manga Bookshelf](https://mangabookshelf.com/) :mdi-twitter:
+  - [Manga Mogura RE](https://twitter.com/MangaMoguraRE) :glowing-star: :mdi-twitter: <Badge type="danger" icon="i-mdi-twitter" text="Ecchi" link="https://twitter.com/EcchiMogura" />
+  - [Shonen Jump News](https://twitter.com/WSJ_manga) :glowing-star: :mdi-twitter:
+  - [TheOASG](https://twitter.com/TheOASG) :glowing-star: :mdi-twitter:
+  - [Deb Aoki](https://twitter.com/debaoki) :mdi-twitter:
+- **Blog / Interview**
+  - [Manga Splaining](https://www.mangasplaining.com/)
 
 
 
