@@ -47,6 +47,7 @@ outline: [2,3]
 - [Kana Pro](https://kana.pro/)
 - [Real Kana](https://realkana.com/)
 - [Kana Review](https://kanareview.com/)
+- [Japanese Practice](https://japanesepractice.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/RichiePowell/japanese-practice" />
 - [Type Kana](https://lab.fleon.org/type-kana/)
 - [Steven Kraft’s Japanese Projects](https://steven-kraft.com/projects/japanese/) <Badge type="warning" text="general" />
 - Freerice <Badge type="tip" text="hiragana" link="https://play.freerice.com/categories/hiragana" /><Badge type="tip" text="katakana" link="https://play.freerice.com/categories/katakana" />
