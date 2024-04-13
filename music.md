@@ -141,6 +141,7 @@ outline: 1
 - [Instafest](https://www.instafest.app/)
 - [Jukebox](https://jukebox.today/)
 - [Songle](https://songle.jp/) <Badge text="Vocaloid"/>
+- [Songlink](https://odesli.co/)
 - [Soundiiz](https://soundiiz.com/) <Badge text="Transfer"/>
 - [TuneMyMusic](https://www.tunemymusic.com/) <Badge text="Transfer"/>
 - [YADG](https://yadg.cc/) <Badge text="Tracklist"/>
@@ -153,6 +154,7 @@ outline: 1
 - [Discover Quickly](https://discoverquickly.com/)
 - [Musicalyst](https://musicalyst.com/)
 - [Playlist Sorter](https://www.playlistsorter.com/)
+- [Random Music Generator](https://random-song.com/)
 - [Skiley](https://skiley.net/) :glowing-star:
 - [Spotify Dedup](https://spotify-dedup.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/JMPerez/spotify-dedup/" />
 - [Spotify Playlist Archive](https://spotifyplaylistarchive.com/)
@@ -186,6 +188,7 @@ outline: 1
 
 ### Doujin
 - [VocaDB](https://vocadb.net/)
+- [Vocaloid Rankings](https://vocaloid-rankings.fly.dev/en)
 - [TouhouDB](https://touhoudb.com/)
 - [UtaiteDB](https://utaitedb.net/)
 - [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)
@@ -365,6 +368,7 @@ outline: 1
 - [Synthesizer V](https://dreamtonics.com/synthesizerv/) <Badge text="Nyaa" link="https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTE3NTQ1Mg.RHVjaw" />
 - [Piapro Studio](https://piaprostudio.com/?lang=en)
 - [CeVIO](https://cevio.jp/)
+- [Open UTAU](https://www.openutau.com/)
 
 ### DAW / Digital Audio Workstation
 - [Ableton](https://www.ableton.com/en/)
@@ -377,7 +381,18 @@ outline: 1
 - [VOCALOID Voicebanks (v1 to v5)](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTE3MTc5OQ.RHVjaw)
 - [CeVIO Voice Database Installer Archive](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vc3ByZWFkc2hlZXRzL2QvMWJsUGRuN1V1Tk5TVWJUczNGUnRCVjVtZERVQ2Y3MjhOSkM3eVpoT2FlLU0vZWRpdCNnaWQ9MA.ZHVjaw)
 - [RuTracker.org](https://rutracker.org/forum/index.php)
-- [r/VocaTorrent](https://old.reddit.com/r/VocaTorrent/)
+
+
+::: info Introduction / Guide
+
+- [Explaining Vocaloid in under 3 minutes](https://www.youtube.com/watch?v=GODXMGAMpVc)
+- [My First Miku Concert!](https://www.youtube.com/watch?v=XIgANZCBRKo)
+- [A guide to Vocaloid concerts](https://www.youtube.com/watch?v=2JtLAwllxI8) <Badge type="info" text="Part 2" link="https://www.youtube.com/watch?v=OzPKF-DMuUE" />
+- [So, you wanna get into VOCALOID](https://www.youtube.com/watch?v=y5pPALER7WU) <tooltip>Watch this for the introduction only (till `21:42`), since the software section is outdated. </tooltip>
+    - [So, you wanna get into VSynth Covers](https://www.youtube.com/watch?v=ySledv37IrQ)
+- [The Foundations of Making Vocaloid - A Beginner's Guide Tutorial](https://www.youtube.com/watch?v=6cisVNaOJXY)
+:::
+
 
 ## Others
 
@@ -455,6 +470,7 @@ outline: 1
 ## Forums
 - [Anime Music Videos](https://www.animemusicvideos.org/forum/)
 - [SquidBoard](https://www.squid-board.org/)
+- [VocaVerse Network](https://vocaverse.network/)
 
 ## Discord
 - [Doujin Cafe](https://discord.gg/doujincafe)
@@ -466,3 +482,4 @@ outline: 1
 
 ## Subreddits
 - [Vocaloid](https://old.reddit.com/r/vocaloid/)
+- [VocaTorrent](https://old.reddit.com/r/VocaTorrent/)
