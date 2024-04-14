@@ -32,8 +32,8 @@ outline: 1
 
 
 ::: info Related resources
-- [Tracker apps for phone](/tools.md#tracker)
-- [Tracker software for pc](/tools.md#tracker-1)
+- [Tracker apps for phone](/software.md#trackers)
+- [Tracker software for pc](/software.md#trackers-1)
 
 :::
 
@@ -179,8 +179,8 @@ outline: 1
 <Button icon="i-fxemoji-nooneunder18symbol">All listed sites have NSFW content unless specified otherwise</Button>
 
 ::: info Related resources
-- [Illustration downloader](/tools.md#media-1)
-- [Related Extensions](/tools.md#others-5) & [scripts](/tools.md#imageboards)
+- [Illustration downloader](/software.md#image)
+- [Related Extensions](/tools.md#image-1) & [scripts](/tools.md#imageboards)
 - [NSFW-specific ones](/nsfw.md#illustrations)
 :::
 
@@ -441,7 +441,7 @@ outline: 1
 - [Zeriyu's Fansub Guide](https://github.com/zeriyu/fansub-guide)
 
 ::: info Related resources
-- [Fansubbing tools](/tools.md#fansubbing)
+- [Fansubbing tools](/software.md#fansubbing)
 :::
 
 ## osu!

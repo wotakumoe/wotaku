@@ -109,10 +109,10 @@ outline: 1
 
 
 ::: info Related resources
-- [Anime apps for Android](/software.md#anime) and [PC](/software.md#anime-1)
-- [Anime downloader for PC](/tools.md#anime)
+- [Anime apps for Android](/software.md#anime-streaming) and [PC](/software.md#anime-streaming-2)
+- [Anime downloader for PC](/software.md#anime)
 - [Anime info sites](/misc.md#anime-1) and [tracking sites](/misc.md#general)
-- [Miscellaneous tools](/tools.md#anime-2) & [Extensions](/tools.md#anime-3)
+- [Miscellaneous tools](/software.md#anime-tools) & [Extensions](/tools.md#anime)
 :::
 
 
@@ -230,9 +230,9 @@ outline: 1
 
 
 ::: info Related resources
-- [Manga apps for Android](/software.md#manga) and [PC](/software.md#manga-1)
-- [Manga downloader for PC](/tools.md#manga)
-- [Manga related tools](/tools.md#manga-2)
+- [Manga apps for Android](/software.md#manga-readers) and [PC](/software.md#manga-readers-2)
+- [Manga downloader for PC](/software.md#manga)
+- [Manga related tools](/software.md#manga-tools)
 
 :::
 

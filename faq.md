@@ -28,7 +28,7 @@ The necessity of using a VPN depends on the method of downloading. For direct do
 :::
 
 :::details Why's the download so slow?
-Use a download manager. Some websites impose file transfer limits for a single thread, thereby restricting download speeds. Download managers overcome this limitation by leveraging multiple threads for downloading, resulting in faster download speeds. We have listed the recommended ones for [**pc**](/tools.md#downloader) and [**android**](/tools.md#phone).
+Use a download manager. Some websites impose file transfer limits for a single thread, thereby restricting download speeds. Download managers overcome this limitation by leveraging multiple threads for downloading, resulting in faster download speeds. We have listed the recommended ones for [**pc**](/tools.md#downloader) and [**android**](/tools.md#downloader).
 :::
 
 :::details What does X term mean?
@@ -195,7 +195,7 @@ On the other hand, aggregators like [**Aniwave**](https://aniwave.to/home), [**K
 
 :::details Which player should I use?
 ## PC
-[**mpv**](https://mpv.io/) kinda covers everything for pc. We have listed everything you need for mpv in the [**video section**](/tools.md#tools).
+[**mpv**](https://mpv.io/) kinda covers everything for pc. We have listed everything you need for mpv in the [**video section**](/tools.md#mpv).
 
 ## Android
 For android, there is also [mpv-android](https://github.com/mpv-android/mpv-android) but the UI is too limited. You can use [**Aniyomi**](https://github.com/aniyomiorg/aniyomi)'s local option to watch anime. The UI is optimized with a good amount of options.
@@ -214,7 +214,7 @@ For android, there is also [mpv-android](https://github.com/mpv-android/mpv-andr
 - [**Sitting on Clouds**](https://www.sittingonclouds.net/), [SquidBoard](https://www.squid-board.org/) & [**Sukidesu OST**](https://sukidesuost.info/) upload ripped music from hi-res sources.
 - Anime songs are uploaded on legal music streaming services. You can rip from these services using [:ic-outline-discord:**yet another music server**](https://discord.gg/MVGEWUjZJP) & [**DoubleDouble**](https://doubledouble.top/),  which can rip multiple hi-res sources.
 - You can also check out [**Nicotine+**](https://nicotine-plus.org/), a [**Soulseek**](https://www.slsknet.org/) client. People share their downloaded/own rips here. It uses P2P to transfer files, so a VPN is recommended.
-- You can find more sources [**here**](/websites.md#music). If you want more ripping tools, you can check out more ripping tools in [others section](/tools.md#downloader).
+- You can find more sources [**here**](/websites.md#music). If you want more ripping tools, you can check out more ripping tools in [others section](/music.md#downloader).
 :::
 
 :::details What player should I use for music?
