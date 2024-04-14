@@ -167,6 +167,7 @@ outline: 1
 - [Lord_ne](https://nyaa.si/user/lord_ne) <tooltip>[Crunchyroll](https://store.crunchyroll.com/collections/manga/), [Lezhin Comics](https://www.lezhinus.com/en), [Yen Press](https://yenpress.com/)</tooltip>
 - [LuCaZ](https://nyaa.si/user/LuCaZ) `Ch` `Vol` <tooltip>[Kodansha](https://kodansha.us/), [Seven Seas](https://sevenseasentertainment.com/), [Yen Press](https://yenpress.com/)</tooltip>
 - [Oakminati](https://nyaa.si/user/Oakminati) `Ch` `Comp` <Badge type="tip" text="Releases" link="https://sheet.zohopublic.com/sheet/published/3v5my3d014d3b97064f55b7114631ac87efda?sheetid=1&range=A1" /> <tooltip>[MANGA Plus](https://mangaplus.shueisha.co.jp/), [Manga UP!](https://global.manga-up.com/) (Main), [SQUARE ENIX](https://squareenixmangaandbooks.square-enix-games.com/en-us)</tooltip>
+- [Rillant](https://nyaa.si/user/Rillant) `Ch` <tooltip>[K Manga](https://kmanga.kodansha.com/), [Kodansha](https://kodansha.us/), [MANGA Plus](https://mangaplus.shueisha.co.jp/), [VIZ](https://www.viz.com/)</tooltip>
 - [Shellshock](https://nyaa.si/user/shellshock) <tooltip>[Kodansha](https://kodansha.us/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
 - [Shizu](https://nyaa.si/user/wolfsbanes) <tooltip>[Kodansha](https://kodansha.us/), [SuBLime](https://www.sublimemanga.com/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
 - [Stick](https://nyaa.si/user/dumbboy58) <tooltip>[Cross Infinite World](https://www.crossinfworld.com/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
