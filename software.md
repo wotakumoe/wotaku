@@ -213,7 +213,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 - [PixivUtil2](https://github.com/Nandaka/PixivUtil2) :ic-baseline-window:
 
 
-## Anime tools
+## Anime Tools
 - [Anicon](https://github.com/notdedsec/anicon) <Badge type="info" text="Anilist" link="https://github.com/EnArvy/AniconforAnilist"/>:ic-baseline-window:
 - [Anitomy](https://github.com/erengy/anitomy)
 - [GetFnative](https://github.com/YomikoR/GetFnative) <Badge type="info" text="getfscaler" link="https://github.com/Jaded-Encoding-Thaumaturgy/getfscaler"/>
@@ -250,7 +250,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 :::
 
 
-## Manga tools
+## Manga Tools
 - [ACBR - Comic Book Reader](https://github.com/binarynonsense/comic-book-reader) :ic-baseline-window::mingcute-linux-fill:
 - [cbz/cbr file converter](http://tomeko.net/software/CbxConverter/) :ic-baseline-window:
 - [ComicTagger](https://github.com/comictagger/comictagger) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
@@ -259,7 +259,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 - [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
 
-## eBook tools
+## eBook Tools
 - [Calibre](https://calibre-ebook.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Kindle Comic Converter](https://github.com/ciromattia/kcc) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-docker:
 - [KOReader](https://koreader.rocks/) :mingcute-linux-fill::gg-ereader:
