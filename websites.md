@@ -84,17 +84,35 @@ outline: 1
 
 ## Direct Download
 
-- [Tokyo Insider](https://www.tokyoinsider.com/) <Badge type="info" text="Direct" /><Badge type="info" text="no ad" />
-- [Anime out](https://www.animeout.xyz/) <Badge type="info" text="Direct" /><Badge type="info" text="no ad" />
-- [Flugel Anime](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9mbHVnZWwtYW5pbWUuY29tLw) + :flag-spain: <Badge type="info" text="Direct" /><Badge type="info" text="no ad" />
-- [Judas](https://rentry.org/judas-ddl) <Badge type="info" text="GDrive" /><Badge type="info" text="no ad" />
-- [hi10anime](https://hi10anime.com/) <Badge type="info" text="Direct" /><Badge type="info" text="ad" />
-- [Kayo anime](https://kayoanime.com/) <Badge type="info" text="GDrive" /><Badge type="info" text="no ad" />
-- [Chauthanh](https://chauthanh.info/) <Badge type="info" text="Direct" /><Badge type="info" text="no ad" />
-- [RIP Crabby Anime](https://ripcrabbyanime.com/) <Badge type="info" text="GDrive" /><Badge type="info" text="no ad" />
-- [JPFiles](https://jpfiles.net/) <Badge type="info" text="Blu-ray" /><Badge type="info" text="Misc" /><Badge type="info" text="Host" />
-- [JPLearner](http://www.jplearner.to/) <Badge type="info" text="Blu-ray" /><Badge type="info" text="Misc" /><Badge type="info" text="Host" />
-- [AnimeRSS](https://animerss.com/) <Badge type="info" text="Blu-ray" /><Badge type="info" text="Host" />
+::: details Symbols
+
+- Uploaded on own server :mdi-arrow-right-thin: :mdi-download:
+- Uploaded on Google Drive :mdi-arrow-right-thin: :mdi-google-drive:
+- Uploaded on Host sites :mdi-arrow-right-thin: :mdi-snail:
+- Batch Download :mdi-arrow-right-thin: :material-symbols-package-2:
+- Torrent Download :mdi-arrow-right-thin: :mdi-magnet:
+- Account Needed :mdi-arrow-right-thin: :mdi-account:
+- Blu-ray :mdi-arrow-right-thin: :mdi-disc:
+
+:::
+
+
+### Reuploads / Untouched 
+- [Tokyo Insider](https://www.tokyoinsider.com/) :mdi-download:
+- [JPFiles](https://jpfiles.net/) :mdi-snail::mdi-disc:
+- [JPLearner](http://www.jplearner.to/) :mdi-snail::mdi-disc:
+- [AnimeRSS](https://animerss.com/) :mdi-snail::mdi-disc:
+
+### Re-encodes
+- [Flugel Anime](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9mbHVnZWwtYW5pbWUuY29tLw) + :flag-spain: :mdi-download:
+- [Kayo anime](https://kayoanime.com/) :mdi-google-drive::material-symbols-package-2:
+- [Anime out](https://www.animeout.xyz/) :mdi-download::mdi-account:
+- [Chauthanh](https://chauthanh.info/) :mdi-download::mdi-account:
+- [RIP Crabby Anime](https://ripcrabbyanime.com/) :mdi-google-drive::mdi-account::material-symbols-package-2:
+
+### Mini-encodes
+- [hi10anime](https://hi10anime.com/) :mdi-download::mdi-magnet::mdi-account::material-symbols-package-2:
+- [Judas](https://rentry.org/judas-ddl) :mdi-google-drive::mdi-account::material-symbols-package-2:
 
 ## IRC
 
