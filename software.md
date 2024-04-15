@@ -21,7 +21,7 @@ outline: [1,2]
 
 ::: details More Apps
 
-- [Kaguya](https://rentry.co/zz8r7dsy) <Badge type="tip" text="Guide" link="https://github.com/hoangvu12/kaguya-app" />
+- [Kaguya](https://github.com/hoangvu12/kaguya-app) <Badge type="tip" text="Guide" link="https://rentry.co/zz8r7dsy" />
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [Kaizoyu!](https://kaizoyu.ovh) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/astarivi/Kaizoyu" /><Badge type="info" text="XDCC" />
 - [Miru](https://miru.js.org/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/miru-project/miru-app" />
