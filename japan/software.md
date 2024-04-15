@@ -96,6 +96,7 @@ outline: [2,3]
 - [Kanji Garden](https://play.google.com/store/apps/details?id=is.ky.kanjigarden) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://kanji.garden/" />
 - [Kanji Dojo](https://play.google.com/store/apps/details?id=ua.syt0r.kanji)
 - [Kata](https://play.google.com/store/apps/details?id=im.dacer.kata)
+- [kawaiiNihongo](https://play.google.com/store/apps/details?id=de.mardukcorp.kawaiinihongo)
 - [renshuu](https://play.google.com/store/apps/details?id=com.renshuu.renshuu_org) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://www.renshuu.org/" />
 - [Vocal Pitch Monitor](https://play.google.com/store/apps/details?id=com.tadaoyamaoka.vocalpitchmonitor)
 
@@ -103,6 +104,7 @@ outline: [2,3]
 - [Learn Japanese! - Kanji](https://apps.apple.com/us/app/learn-japanese-kanji/id1078107994)
 - [Kana - Hiragana and Katakana](https://apps.apple.com/us/app/kana-hiragana-and-katakana/id1454200955)
 - [Kanji Garden](https://apps.apple.com/us/app/kanji-garden-japanese/id1338967114) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://kanji.garden/" />
+- [kawaiiNihongo](https://apps.apple.com/us/app/kawaiinihongo-learn-japanese/id1015333181)
 - [Real Kana](https://apps.apple.com/us/app/real-kana/id343807473)
 - [renshuu](https://apps.apple.com/us/app/renshuu-japanese-learning/id1542730063) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://www.renshuu.org/" />
 
