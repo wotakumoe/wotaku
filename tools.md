@@ -91,7 +91,9 @@ outline: [1,2]
   - [MegaBasterd](https://github.com/tonikelope/megabasterd) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge type="tip" text="Account gen" link="https://github.com/qtchaos/py_mega_account_generator" /><Badge type="tip" text="MegaDoctor" link="https://github.com/tonikelope/megadoctor" />
 - **Torrent**
   - [qBittorrent](https://www.qbittorrent.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+  - [Deluge](https://www.deluge-torrent.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
   - [Transmission](https://transmissionbt.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+
 
 ### Media
 
