@@ -65,9 +65,10 @@ outline: 1
 - [LM Anime](https://lmanime.com/)
 - [Myanime](https://myanime.live/)
 
-### Regional
+### Youtube
 - [Muse Asia](https://www.youtube.com/@MuseAsia/)
 - [Ani-One Asia](https://www.youtube.com/AniOneAsia/)
+> Most of them are regionals
 
 ### TV
 - [Funcube](https://funcube.space/) <Badge text="Backup" link="https://backup.funcube.space/" />
@@ -114,6 +115,13 @@ outline: 1
 ### Mini-encodes
 - [hi10anime](https://hi10anime.com/) :mdi-download::mdi-magnet::mdi-account::material-symbols-package-2:
 - [Judas](https://rentry.org/judas-ddl) :mdi-google-drive::mdi-account::material-symbols-package-2:
+
+::: tip Batch Downloading from Google Drive
+- To batch download from Google Drive, use [**JDownloader 2**](https://jdownloader.org/).
+- Keep the "**Max. Chunks per Download**" low, so that google doesn't rate limit you. You will find it at the **Settings** in the top bar.
+- To remove the annoyences in JDL2, [**follow this guide**](/guides/misc.md#jdownloader-ad-removal)
+
+:::
 
 ## IRC
 
