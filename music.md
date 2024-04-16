@@ -22,7 +22,7 @@ outline: 1
 ## Doujin
 - [Touhou Player](https://touhou.kuukunen.net/)
 - [THDISC](https://alist.thdisc.tk/)
-- [TMLC](https://tlmc.pf-n.co/tlmc)
+- [TLMC](https://tlmc.pf-n.co/tlmc)
 
 
 ## Games
