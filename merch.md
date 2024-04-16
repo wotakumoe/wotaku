@@ -62,7 +62,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [A Complete Guide by BuyFag](https://www.buyfags.moe/Full_guide)
 - [Bootleg Figure Spotting Guide by Solaris](https://solarisjapan.com/blogs/news/ultimate-guide-bootlegs-fake-anime-figures)
 - [chastetiddy’s Arcade Sticks Guide](https://docs.google.com/document/d/1fYqVRt_99AGFv7k7oBuEsW5POb50PdTdT5qirqZLS6w/edit)
-- [Dakimakuras guide](https://daki.info/)
+- [A Comprehensive Guide to Dakimakuras as a Hobby](https://daki.info/)
 - [Fumo Buying guide](https://fumo.website/)
 - [Garage Kit Guide by Muntoe](https://www.plumworkshop.com/gk-compendium/part-1-bg-supplies)
 - [Gunpla Guide by Gelgoog Guy](https://docs.google.com/document/d/1Tr8UyF2Xg5Ojqw0sxcO7oIG7IIsJPes3lMO5pHZKu5o/pub)
@@ -72,14 +72,17 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [Music Stuff from Japan by Dimsim](https://old.reddit.com/r/japanesemusic/comments/dagaj8/how_to_buy_music_stuff_from_japan_a_guide/)
 - [Solaris Japan](https://www.youtube.com/@Solaris_Japan)
 
+
 ## Info
 - [Buyfrag Store Digest](https://docs.google.com/document/u/0/d/1W4fAKQzCOhiWK6mJ_tvkZHIfzfzBZN57oGSaVB47TCQ/pub)
-- [JOSIC](https://www.japanonlineshopping.com/)
+- [Buying visual novels](https://old.reddit.com/r/visualnovels/wiki/buy)
+- [Dakindex!](https://dakidex.com/) <Badge type="danger" text="18+" />
 - [Gundam Kits Collection](https://www.gundamkitscollection.com/)
 - [Gunjap](https://www.gunjap.net/)
-- [r/Anime's legal stream list](https://old.reddit.com/r/anime/wiki/legal_streams)
-- [Buying visual novels](https://reddit.com/r/visualnovels/wiki/buy)
+- [JOSIC](https://www.japanonlineshopping.com/)
+- [Omiai](http://omiai-dakimakura.com/) <Badge type="danger" text="18+" />
 - [Otaku Calendar](https://otakucalendar.com/)
+
 
 ## Communities
 - [My Figure Collection](https://myfigurecollection.net/)
@@ -91,16 +94,34 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [Gunpla](https://old.reddit.com/r/Gunpla)
 - [Dakimakuras](https://old.reddit.com/r/Dakimakuras) <Badge type="danger" text="18+" />
 
-## Retailers
-- [AmiAmi](https://www.amiami.com)
-- [Big in Japan](http://biginjap.com/)
-- [Crunchyroll](https://store.crunchyroll.com/)
-- [Dekai Anime](https://www.dekaianime.com/)
-- [Hobby Link](https://www.hlj.com/)
-- [Hobby Search](https://www.1999.co.jp/eng/)
-- [FAKKU Merch](https://merch.fakku.net/) <Badge type="danger" text="18+" />
-- [Mandarake](https://order.mandarake.co.jp/order/)
-- [Otaku Mode](https://otakumode.com/)
+
+## Shops
+
+- **General**
+  - [Amazon](https://www.amazon.com/) <Badge type="danger" text="18+" />
+  - [AmiAmi](https://www.amiami.com) <Badge type="danger" text="18+" />
+  - [CDJapan](https://www.cdjapan.co.jp/) <Badge type="danger" text="18+" />
+  - [Crunchyroll](https://store.crunchyroll.com/)
+  - [Fakku](https://www.fakku.net/) <Badge type="danger" text="18+" />
+  - [HMV & Books](https://www.hmv.co.jp/) <Badge type="danger" text="18+" />
+  - [Mandarake](https://order.mandarake.co.jp/order/?lang=en/) <Badge type="danger" text="18+" />
+  - [Play-Asia](https://www.play-asia.com/)
+- **Figures / Merch**
+  - [Big in Japan](http://biginjap.com/) <Badge type="danger" text="18+" />
+  - [E2046.com](https://www.e2046.com/)
+  - [Hobby Link](https://www.hlj.com/) <Badge type="danger" text="18+" />
+  - [Hobby Search](https://www.1999.co.jp/eng/) <Badge type="danger" text="18+" />
+  - [Otaku Mode](https://otakumode.com/)
+- **Manga**
+  - [honto](https://honto.jp/) <Badge type="danger" text="18+" />
+  - [Mangaoh](https://www.mangaoh.co.jp/) <Badge type="danger" text="18+" />
+- **Digital Music**
+  - [Bandcamp](https://bandcamp.com/)
+  - [Mora](https://mora.jp/)
+  - [Ototoy](https://ototoy.jp/)
+  - [Recochoku](https://recochoku.jp/)
+  - [Qobuz](https://www.qobuz.com/us-en/shop) 
+
 
 ## Agents
 - [Black Ship](https://blackship.com/)
@@ -116,13 +137,3 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [Buy finder](https://buyfinder.moe/)
 - [Buy Friend](https://buyfriend.moe/)
 - [Manga Restock Dates Spreadsheet](https://docs.google.com/spreadsheets/d/1tOGtBsGqNvlOxCBOg3HxBkvgqQyC_ehjBvr4Bx1PG4M/)
-
-
-## Manga, Anime, OST & Others
-- [CDJapan](https://www.cdjapan.co.jp/) <Badge type="info" text="Manga" /><Badge type="info" text="Anime" /><Badge type="info" text="OST" /><Badge type="info" text="LN" /><Badge type="info" text="Merch" /><Badge type="info" text="Physical" />
-- [Play-Asia](https://www.play-asia.com/) <Badge type="info" text="Manga" /><Badge type="info" text="Anime" /><Badge type="info" text="OST" /><Badge type="info" text="Merch" /><Badge type="info" text="Physical" />
-- [HMV & Books](https://www.hmv.co.jp/) <Badge type="info" text="Manga" /><Badge type="info" text="Anime" /><Badge type="info" text="OST" /><Badge type="info" text="Merch" /><Badge type="info" text="Physical" />
-- [Qobuz](https://www.qobuz.com/us-en/shop) <Badge type="info" text="OST" /><Badge type="info" text="Digital" />
-- [Ototoy](https://ototoy.jp/) <Badge type="info" text="OST" /><Badge type="info" text="Physical" />
-- [Mora](https://mora.jp/) <Badge type="info" text="OST" /><Badge type="info" text="Digital" />
-- [Recochoku](https://recochoku.jp/) <Badge type="info" text="OST" /><Badge type="info" text="Digital" />
