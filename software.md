@@ -104,7 +104,7 @@ outline: [1,2]
 
 ### Online
 - [Paperback](https://github.com/Paperback-iOS/app)
-- [Aidoku](https://github.com/Aidoku/Aidoku)
+- [Aidoku](https://github.com/Aidoku/Aidoku) <Badge type="tip" text="Sources" link="https://github.com/Skittyblock/aidoku-community-sources" />
 - [Suwatte](https://suwatte.mantton.com/)  <Badge type="tip" text="Sources" link="https://rentry.co/suwatte" />
 - [Tachimanga](https://tachimanga.github.io/)
 - [Hanami](https://github.com/oolxg/Hanami)
