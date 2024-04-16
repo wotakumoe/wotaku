@@ -19,41 +19,58 @@ For this guide we will use OpenLyrics. You can also try [ESLyric](https://github
 ### Step 2
 Open `Foobar > File > Preferences` or click **CTRL + P**.
 
+::: details Image Preview
 ![](/ss/foobar/fbs1.png)
+:::
+
 
 ### Step 3
 Go to **Components** and click **Install**.
 
+::: details Image Preview
 ![](/ss/foobar/fbs2.png)
+:::
 
 ### Step 4
 Select the downloaded OpenLyrics component file and open. Then click **Apply** to load it and **OK** to restart the app.
 
+::: details Image Preview
 ![](/ss/foobar/fbs3.png)
+:::
 
 ### Step 5
 Then go to `Tools > OpenLyrics > Searching`. Click on Musixmatch in **Available sources**. Then **<<** to move it in the main section. Then select Musixmatch again and click **UP** to the top 3. Click **Apply**.
 
+::: details Image Preview
 ![](/ss/foobar/fbs4.png)
+:::
 
 ### Step 6
 Go to `Tools > OpenLyrics > Searching > Musixmatch`. Click **?** and then **Yes**. Hit **Apply**.
 
+::: details Image Preview
 ![](/ss/foobar/fbs5.png)
+:::
 
 ### Step 7
 Go to `Tools > OpenLyrics > Searching > Metadata tags`. Set **LYRICS** as value for both Unsynced and Synced lyrics
 
+::: details Image Preview
 ![](/ss/foobar/fb5_5.png)
+:::
 
 ### Step 8
 Go to `Foobar > View > OpenLyrics Panel`
 
+::: details Image Preview
 ![](/ss/foobar/fbs6.png)
+:::
 
 Now play any song and the panel will show synced lyrics (if it's in the database)
 
+::: details Image Preview
 ![](/ss/foobar/fbs7.png)
+:::
 
 :::details More Settings
 ### Saving synced lyrics as metadata
