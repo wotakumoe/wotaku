@@ -73,6 +73,21 @@ outline: 2
 - [psprices](https://psprices.com/)
 
 
+## osu!
+
+### Websites
+- [Anisync](https://anisync.live/)
+- [BeatConnect](https://beatconnect.io/)
+- [/nise.moe/](https://nise.moe/)
+- [osu skinner](https://osuskinner.com/)
+- [osu!chan](https://osuchan.syrin.me/)
+- [osu!next Signature Generator](https://lemmmy.pw/osusig/)
+- [osu-pps](https://osu-pps.com)
+- [o!rdr](https://ordr.issou.best/)
+
+### Software
+- [Batch Beatmap Downloader](https://github.com/nzbasic/batch-beatmap-downloader) :ic-baseline-window:
+- [osu! Cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner) :ic-baseline-window:
 
 ## Pokémon
 
@@ -111,7 +126,6 @@ outline: 2
 
 
 ## Yu-Gi-Oh!
-
 
 ### Databases
 - [Official card database](https://www.db.yugioh-card.com/yugiohdb/)

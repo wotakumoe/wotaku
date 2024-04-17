@@ -444,16 +444,6 @@ outline: 1
 - [Fansubbing tools](/software.md#fansubbing)
 :::
 
-## osu!
-- [Anisync](https://anisync.live/)
-- [BeatConnect](https://beatconnect.io/)
-- [/nise.moe/](https://nise.moe/)
-- [osu skinner](https://osuskinner.com/)
-- [osu!chan](https://osuchan.syrin.me/)
-- [osu!next Signature Generator](https://lemmmy.pw/osusig/)
-- [osu!pp](https://osu-pps.com)
-- [osu!search](https://osusearch.com/)
-- [o!rdr](https://ordr.issou.best/)
 
 ## Recommendations
 
