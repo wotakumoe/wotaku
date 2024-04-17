@@ -88,7 +88,6 @@ outline: [1,2]
 
 ## Others
 - [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa&hl=en&gl=US) :glowing-star: <Badge type="info" text="Nyaa.si" />
-- [Seeker](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1) :mdi-android:<Badge type="info" text="Soulseek" />
 - [Tachisync](https://github.com/axiel7/Tachisync) 
 
 ![](/banner/ios.png)

@@ -62,7 +62,7 @@ outline: 1
 - Uploaded on Mediafire :mdi-arrow-right-thin: :simple-icons-mediafire:
 - Upload on different cloud storage site :mdi-arrow-right-thin: :ic-round-cloud-download:
 - Uploaded on Host sites :mdi-arrow-right-thin: :mdi-snail:
-- Torrent Download :mdi-arrow-right-thin: :mdi-magnet:
+- Torrent/p2p Download :mdi-arrow-right-thin: :mdi-magnet:
 - Account Needed :mdi-arrow-right-thin: :mdi-account:
 
 :::
@@ -82,7 +82,7 @@ outline: 1
   - [Sakura OST](https://www.sakuraost.com/) :mdi-snail:
 
 ## Downloader
-- [DoubleDouble](https://doubledouble.top/) 
+- [DoubleDouble](https://doubledouble.top/)
 - [:ic-outline-discord: yet another music server](https://discord.gg/MVGEWUjZJP)
 - [:ic-outline-telegram: Beatspot Music](https://t.me/BeatSpotBot)
 
@@ -294,7 +294,6 @@ outline: 1
 - [USB Audio Player PRO](https://play.google.com/store/apps/details?id=com.extreamsd.usbaudioplayerpro&hl=en&gl=US) <Badge type="warning" text="Paid" /> :mdi-android:
 
 ### Online
-
 - [**Youtube Music**](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
   - [Revanced Music](https://github.com/j-hc/revanced-magisk-module/releases)
   - [Innertune](https://github.com/z-huang/InnerTune) :glowing-star: :mdi-android:
@@ -306,9 +305,9 @@ outline: 1
 - [Apple Music](https://apps.apple.com/us/app/apple-music/id1108187390) :ic-baseline-apple:
 
 ## Tools
-
 - [Audire](https://github.com/alexmercerind/audire) :simple-icons-shazam::mdi-android:
 - [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) :mdi-lastfm::mdi-android:
+- [Seeker](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1) :mdi-android:<Badge type="info" text="Soulseek" />
 - [Stats.fm](https://stats.fm/) :mdi-spotify::mdi-android::ic-baseline-apple:
 - [Marvis Pro](https://apps.apple.com/au/app/marvis-pro/id1447768809) :mdi-lastfm::ic-baseline-apple:
 

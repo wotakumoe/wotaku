@@ -86,7 +86,7 @@ outline: 1
 - [IDM](https://www.internetdownloadmanager.com/) :ic-baseline-window:
 - [JDL](https://jdownloader.org/) <Badge text="Debloat" link="/guides/misc#jdownloader-ad-removal" /> :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Free Download Manager](https://www.freedownloadmanager.org/)
-- [Nicotine+](https://nicotine-plus.org/) <Badge text="p2p" />:mdi-android::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <tooltip>Direct peer-to-peer sharing network, primarily used for music</tooltip>
+- [Nicotine+](https://nicotine-plus.org/) <Badge text="p2p" />:ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <tooltip>Direct peer-to-peer sharing network, primarily used for music</tooltip>
 
 ## Torrent
 
