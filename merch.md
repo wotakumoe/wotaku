@@ -98,29 +98,31 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 ## Shops
 
 - **General**
-  - [Amazon](https://www.amazon.com/) <Badge type="danger" text="18+" />
-  - [AmiAmi](https://www.amiami.com) <Badge type="danger" text="18+" />
-  - [CDJapan](https://www.cdjapan.co.jp/) <Badge type="danger" text="18+" />
-  - [Crunchyroll](https://store.crunchyroll.com/)
-  - [Fakku](https://www.fakku.net/) <Badge type="danger" text="18+" />
-  - [HMV & Books](https://www.hmv.co.jp/) <Badge type="danger" text="18+" />
-  - [Mandarake](https://order.mandarake.co.jp/order/?lang=en/) <Badge type="danger" text="18+" />
+  - [Amazon](https://www.amazon.com/)
+  - [AmiAmi](https://www.amiami.com)
+  - [animate](https://www.animate-onlineshop.jp/)
+  - [CDJapan](https://www.cdjapan.co.jp/)
+  - [Crunchyroll](https://store.crunchyroll.com/) <Badge type="green" link="" text="SFW"/>
+  - [Fakku](https://www.fakku.net/)
+  - [HMV & Books](https://www.hmv.co.jp/)
+  - [Mandarake](https://order.mandarake.co.jp/order/?lang=en/)
   - [Play-Asia](https://www.play-asia.com/)
+  - [YESASIA](https://www.yesasia.com/global/en/home.html)
 - **Figures / Merch**
-  - [Big in Japan](http://biginjap.com/) <Badge type="danger" text="18+" />
+  - [Big in Japan](http://biginjap.com/)
   - [E2046.com](https://www.e2046.com/)
-  - [Hobby Link](https://www.hlj.com/) <Badge type="danger" text="18+" />
-  - [Hobby Search](https://www.1999.co.jp/eng/) <Badge type="danger" text="18+" />
-  - [Otaku Mode](https://otakumode.com/)
+  - [Hobby Link](https://www.hlj.com/)
+  - [Hobby Search](https://www.1999.co.jp/eng/)
+  - [Otaku Mode](https://otakumode.com/) <Badge type="green" link="" text="SFW"/>
 - **Manga**
-  - [honto](https://honto.jp/) <Badge type="danger" text="18+" />
-  - [Mangaoh](https://www.mangaoh.co.jp/) <Badge type="danger" text="18+" />
+  - [honto](https://honto.jp/)
+  - [Mangaoh](https://www.mangaoh.co.jp/)
 - **Digital Music**
   - [Bandcamp](https://bandcamp.com/)
   - [Mora](https://mora.jp/)
   - [Ototoy](https://ototoy.jp/)
-  - [Recochoku](https://recochoku.jp/)
   - [Qobuz](https://www.qobuz.com/us-en/shop) 
+  - [Recochoku](https://recochoku.jp/)
 
 
 ## Agents
