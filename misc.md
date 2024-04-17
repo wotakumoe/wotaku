@@ -354,6 +354,7 @@ outline: 1
   - [Pebble Jame](https://gioba-games.itch.io/pebble-jame)
   - [smol Ame](https://moocow-games.itch.io/smol-ame)
   - [Takos Organised Neatly](https://ae-lux-production.itch.io/takos-organised-neatly)
+  - [WOWOWOW KORONE BOX](https://store.steampowered.com/app/2825180/WOWOWOW_KORONE_BOX/)
   - [Hololive itch.io collection by David Wu SoftDev](https://itch.io/c/1018682/hololive-fangames)
 - **Paid**
   - [hololive ERROR](https://store.steampowered.com/app/2062550/hololive_ERROR/)
