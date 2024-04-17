@@ -52,39 +52,57 @@ outline: 1
 
 # Download
 
+<br>
+
+::: details Symbols
+
+- Uploaded on own server :mdi-arrow-right-thin: :mdi-download:
+- Uploaded on Google Drive :mdi-arrow-right-thin: :mdi-google-drive:
+- Uploaded on Mega :mdi-arrow-right-thin: :simple-icons-mega:
+- Uploaded on Mediafire :mdi-arrow-right-thin: :simple-icons-mediafire:
+- Upload on different cloud storage site :mdi-arrow-right-thin: :ic-round-cloud-download:
+- Uploaded on Host sites :mdi-arrow-right-thin: :mdi-snail:
+- Torrent Download :mdi-arrow-right-thin: :mdi-magnet:
+- Account Needed :mdi-arrow-right-thin: :mdi-account:
+
+:::
+
 ## Anime
 
-### FLAC
-- [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.mom/" /><Badge type="info" text="Torrent" />
-- [Sitting on Clouds](https://www.sittingonclouds.net/) :glowing-star: <Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" /><Badge type="info" text="Mega" /><Badge type="info" text="Mediafire" />
-- [SquidBoard](https://www.squid-board.org/) <Badge type="tip" text="Alt" link="https://sqb.moe/" /><Badge type="tip" text="Status" link="https://status.lyratris.com/" /><Badge type="info" text="Needs account" /><Badge type="info" text="Mega" /><Badge type="info" text="Mediafire" /><Badge type="info" text="GDrive" />
-- [OKAMIMI OST](https://okamimiost.com/) <Badge type="info" text="Terabox" />
-- [Sukidesu OST](https://sukidesuost.info/) <Badge type="info" text="Mega" /><Badge type="info" text="Torrent" />
-- [Asia Media Blog](https://asiamediablog.com/media/music/) <Badge type="tip" text="2" link="https://jpmusicblog.com/music/" /><Badge type="tip" text="3" link="https://jpmediadl.com/music/" /><Badge type="danger" text="18+" /><Badge type="info" text="Host" />
-- [DoubleDouble](https://doubledouble.top/) :glowing-star: <Badge type="info" text="Downloader" /> 
-- [yet another music server](https://discord.gg/MVGEWUjZJP) :ic-outline-discord:  <Badge type="info" text="Downloader" />
+- **FLAC**
+  - [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.mom/" />:mdi-magnet:
+  - [Sitting on Clouds](https://www.sittingonclouds.net/) :glowing-star: <Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" />:simple-icons-mega::simple-icons-mediafire:
+  - [SquidBoard](https://www.squid-board.org/) <Badge type="tip" text="Alt" link="https://sqb.moe/" /><Badge type="tip" text="Status" link="https://status.lyratris.com/" />:mdi-account::simple-icons-mega::simple-icons-mediafire::mdi-google-drive:
+  - [OKAMIMI OST](https://okamimiost.com/) :ic-round-cloud-download:
+  - [Sukidesu OST](https://sukidesuost.info/) :simple-icons-mega::mdi-magnet:
+  - [Asia Media Blog](https://asiamediablog.com/media/music/) <Badge type="tip" text="2" link="https://jpmusicblog.com/music/" /><Badge type="tip" text="3" link="https://jpmediadl.com/music/" /><Badge type="danger" text="18+" />:mdi-snail:
+- **MP3**
+  - [OS Anime](https://osanime.com/) :mdi-download:
+  - [Hiyori OST](https://www.hiyoriost.com/) :mdi-google-drive::mdi-snail:
+  - [Sakura OST](https://www.sakuraost.com/) :mdi-snail:
 
-### MP3
-- [OS Anime](https://osanime.com/) <Badge type="info" text="Direct" />
-- [Hiyori OST](https://www.hiyoriost.com/) <Badge type="info" text="GDrive" /><Badge type="info" text="Host" />
-- [Sakura OST](https://www.sakuraost.com/) <Badge type="info" text="Host" />
+## Downloader
+- [DoubleDouble](https://doubledouble.top/) 
+- [:ic-outline-discord: yet another music server](https://discord.gg/MVGEWUjZJP)
+- [:ic-outline-telegram: Beatspot Music](https://t.me/BeatSpotBot)
 
 ## Doujin
 
-- [MikuDB](https://mikudb.moe/) <Badge type="info" text="GDrive" /><Badge text="Torrent" />
-- [Touhou Disc](https://alist.thdisc.tk)
-- [Doujin Cafe](https://discord.com/invite/doujincafe)
-- [Doujin Music](https://vk.com/wall-60027733)
-- [Moriya Shrine](https://moriyashrine.org/) <Badge type="info" text="Torrent" />
-- [Doujin Style](https://doujinstyle.com/) <Badge type="tip" text="Touhou" link="https://doujinstyle.com/?p=tlmc" /><Badge type="info" text="Mediafire" />
+- [Doujin Cafe](https://discord.com/invite/doujincafe) :simple-icons-mega::simple-icons-mediafire::ic-round-cloud-download:
+- [Doujin Music](https://vk.com/wall-60027733) :mdi-download:
+- [Doujin Style](https://doujinstyle.com/) <Badge type="tip" text="Touhou" link="https://doujinstyle.com/?p=tlmc" /> <Badge type="tip" text="Downloader" link="https://github.com/Relepega/doujinstyle-downloader"/>:simple-icons-mediafire:
+- [MikuDB](https://mikudb.moe/) :mdi-google-drive::mdi-magnet:
+- [Moriya Shrine](https://moriyashrine.org/) :mdi-magnet:
+- [Touhou Disc](https://alist.thdisc.tk) :mdi-download:
+
 
 ## Games
 
-- [Sitting on Clouds](https://www.sittingonclouds.net/)
-- [SquidBoard](https://www.squid-board.org/)
-- [HCS VGM Archive](https://vgm.hcs64.com/)
-- [VGM Preservation Foundation](https://www.vgmpf.com/Wiki/index.php)
-- [VGMusic](https://vgmusic.com/)
+- [Sitting on Clouds](https://www.sittingonclouds.net/) <Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" />:simple-icons-mega::simple-icons-mediafire:
+- [SquidBoard](https://www.squid-board.org/) <Badge type="tip" text="Alt" link="https://sqb.moe/" /><Badge type="tip" text="Status" link="https://status.lyratris.com/" />:mdi-account::simple-icons-mega::simple-icons-mediafire::mdi-google-drive:
+- [HCS VGM Archive](https://vgm.hcs64.com/) :mdi-download:
+- [VGM Preservation Foundation](https://www.vgmpf.com/Wiki/index.php) :mdi-download:
+- [VGMusic](https://vgmusic.com/) :mdi-download:
 
 ## Legal
 
