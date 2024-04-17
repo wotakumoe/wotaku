@@ -299,6 +299,7 @@ outline: 1
 - [Ganba's DDL sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSvd0SjjPYZKzhUwTYK2n2peZD_n6_wDmEKV3I37nuM-FnOtAU5xZkec35GabjrZ6olJTbr_CMXS6AH/pubhtml)
 - [Elscione Official LNs](https://server.elscione.com/Officially%20Translated%20Light%20Novels/)
 - [Novel Onedrive Index](https://novel-indx.vercel.app/)
+- [Madokami](https://manga.madokami.al)
 - [Just Light Novels](https://www.justlightnovels.com/)
 - [That Novel Corner](https://thatnovelcorner.com/)
 
