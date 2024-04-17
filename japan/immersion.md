@@ -85,10 +85,10 @@ outline: [2,3]
 
 ### Reader
 - [Bilingual Manga](https://bilingualmanga.org/) :glowing-star: <Badge type="tip" text="Backup" link="https://github.com/B-M-dev/Bilingual_Manga-home-" />
+- [Mokuro Catalog](https://catalog.mokuro.moe/)
+- [2500 Volume Mokuro OCR Manga PDF Collection](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTY0MTI2NQ.RHVjaw)
 - [Hachiraw](https://hachiraw.net/) <Badge type="danger" text="18+" />
 - [KL Manga](https://klmanga.com/) <Badge type="danger" text="18+" />
-- [Mangaraw Japan](https://mangaraw.to/) <Badge type="danger" text="18+" />
-- [Mangaraw+](https://mangarawplus.co/)
 - [Raw Kuma](https://rawkuma.com/) <Badge type="danger" text="18+" />
 - [Sen Manga](https://raw.senmanga.com/) <Badge type="danger" text="18+" />
 - [We Love Manga](https://welovemanga.one/) <Badge type="tip" text="2" link="https://manga1000.top/" /> <Badge type="danger" text="18+" />
