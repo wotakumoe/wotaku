@@ -37,7 +37,6 @@ outline: 1
 
 ### Multi Host
 - [Animeflix](https://animeflix.live/) <Badge type="info" text="Proxies" link="https://animeflix.domains/" /> `gz`
-- [Kaguya](https://kaguya.app) :mingcute-chrome-fill: `bgpz`
 - [AniPlay](https://aniplaynow.live/) <Badge type="info" text="2" link="https://makima.xyz/" /> `gz`
 - [Gojo](https://gojo.live/) `gz`
 - [Streamsora](https://streamsora.live/en) `gp`

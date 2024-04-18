@@ -14,7 +14,6 @@ outline: 1
 ## Anime
 - [Aniwave](https://aniwave.to/home)
 - [Kickassanime](https://kaas.am/)
-- [Kaguya](https://kaguya.app/anime) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/kaguya/jhinkdokgbijplmedcpkjdbcmjgockgc" />
 - [HiAnime](https://hianime.to/home)
 
 ## Manga
@@ -502,7 +501,6 @@ outline: 1
 # Vietnamese
 
 ## Anime
-- [Kaguya](https://kaguya.app/)
 - [Ani4u](https://ani4u.org/)
 - [AnimeVsub](https://animevsub.eu.org/) <Badge text="Github" link="https://github.com/anime-vsub/desktop-web" />
 - [Unime](https://unime.vercel.app/) <Badge text="Github" link="https://github.com/huy232/Unime" />
@@ -510,7 +508,6 @@ outline: 1
 ## Manga
 
 - [Bao Tang Truyen Tranh](https://baotangtruyengo.com/)
-- [Kaguya](https://kaguya.app/manga)
 - [Raiku](https://mangaraiku.eu.org)
 - [Kyoto manga](https://kyotomanga.live/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/leephan2k1/manga-app" />
 - [Net Truyen](https://www.nettruyenplus.com/)

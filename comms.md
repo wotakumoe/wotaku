@@ -49,7 +49,6 @@ A list of other otaku communities to check out based on your specific interests.
 - [Manga Katana](https://discord.com/invite/bXfTCCtdXQ)
 - [MangaPark](https://discord.gg/HXKXBTSGKS)
 - [Manga Piracy](https://discord.com/invite/ZgMtAyxFSU)
-- [Kaguya](https://discord.gg/382BEFfER6)
 - [KickAssAnime](https://discord.com/invite/qduzrvTG6p)
 - [Kirei](https://discord.com/invite/55y8apc)
 - [Knox](https://discord.com/invite/HcDZFB9Gub)
