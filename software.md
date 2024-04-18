@@ -95,6 +95,7 @@ outline: [1,2]
 ## Anime Streanubg
 - [9Animator](https://github.com/SuperMarcus/NineAnimator)
 - [Chouten beta](https://testflight.apple.com/join/Cg1rAPB8) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/GJGMJRPJ5j" />
+- [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [Soshiki](https://github.com/soshikimoe/soshiki-ios)
 
 ## Manga Readers
@@ -102,6 +103,7 @@ outline: [1,2]
 ### Online
 - [Paperback](https://github.com/Paperback-iOS/app)
 - [Aidoku](https://github.com/Aidoku/Aidoku) <Badge type="tip" text="Sources" link="https://github.com/Skittyblock/aidoku-community-sources" />
+- [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [Suwatte](https://suwatte.mantton.com/)  <Badge type="tip" text="Sources" link="https://rentry.co/suwatte" />
 - [Tachimanga](https://tachimanga.github.io/)
 - [Hanami](https://github.com/oolxg/Hanami)
