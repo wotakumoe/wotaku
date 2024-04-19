@@ -163,7 +163,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 - [YACReader](https://www.yacreader.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/YACReader/yacreader" /> <tooltip><ul><li>Has all the standard features, keeps last read history</li><li>Doesn't have built-in library like MComix, only the history</li><li>The bundled YACLibrary is excellent</li><li>Lots of customization</li><li>Can act like a local manga server like calibre</li><li>But the server client for <a href="https://play.google.com/store/apps/details?id=com.yacreader.yacreader&hl=en&gl=US">Android</a> and <a href="https://apps.apple.com/ca/app/yacreader-comic-reader/id635717885">iOS</a> is paid</li></ul></tooltip>
 - [CDisplayEx](https://www.cdisplayex.com/) :ic-baseline-window: <tooltip><ul><li>Minimalist UI</li><li>Fast and simple reader with good amount of configuration</li><li>Has Nearest, Draft, linear and Lanczos (with various level) as scaling options</li><li>Not FOSS and not maintained since the development team has marked it as complete</li><li>No library view, only recent reads</li></ul></tooltip>
 - [MComix](https://sourceforge.net/projects/mcomix/files/) :ic-baseline-window::mingcute-linux-fill: <tooltip><ul><li>Minimal & responsive UI with good amount of customization</li><li>Has nice library option, also remembers last reading options</li><li>Has 3 scaling options. Normal, Bilinear (default) and hyperbolic</li></ul></tooltip>
-- [OpenComic](https://github.com/ollm/OpenComic) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <tooltip><ul><li>Nice clean UI, has dark mode</li><li>Has all the standard functions, including recent history</li><li>Has long strip mode which is pretty smooth</li><li>Has Anilist tracking built in as well as controller support</li><li>Still at an early stage.</li></ul></tooltip>
+- [OpenComic](https://github.com/ollm/OpenComic) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <tooltip><ul><li>Nice clean UI, has dark mode</li><li>Has all the standard functions, including recent history</li><li>Has long strip mode which is pretty smooth</li><li>Has Anilist tracking built in as well as controller support</li><li>Supports Lanczos and other scaling methods.</li></ul></tooltip>
 - [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) :ic-baseline-window: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/sumatrapdfreader/sumatrapdf" /> <tooltip><ul><li>Very simple program with all the standard features</li><li>Doesn't have a library, but keeps track of recently opened files</li><li>Includes vertical mode</li><li>Can open a variety of ebook formats (PDF, epub, mobi, cbz/cbr, DjVu, XPS, CHM)</li></ul></tooltip>
 - [Yomikiru](https://github.com/mienaiyami/yomikiru) :ic-baseline-window::mingcute-linux-fill: <tooltip>Simple UI with all the basic settings but has moiré issue. Has longstrip mode and anilist tracking.</tooltip>
 
@@ -217,7 +217,6 @@ or buy an Android phone :ic-twotone-thumb-up:
 - [Anitomy](https://github.com/erengy/anitomy)
 - [GetFnative](https://github.com/YomikoR/GetFnative) <Badge type="info" text="getfscaler" link="https://github.com/Jaded-Encoding-Thaumaturgy/getfscaler"/>
 - [Getnative](https://github.com/Infiziert90/getnative)
-- [Koneko](https://github.com/irevenko/koneko)
 - **Plex**
   - [Plex to AniList Sync](https://github.com/RickDB/PlexAniSync)
   - [PlexAniSync-Mappings](https://github.com/mizz141/PlexAniSync-Mappings)
@@ -268,6 +267,11 @@ or buy an Android phone :ic-twotone-thumb-up:
 - [Sigil-Ebook](https://sigil-ebook.com/) :ic-baseline-window::ic-baseline-apple:
 
 
+## Other Tools
+- [nyaa](https://github.com/Beastwick18/nyaa)
+- [Koneko](https://github.com/irevenko/koneko)
+
+
 ## Trackers
 - [Animeo](https://github.com/Jenrykster/animeo) <Badge type="info" text="Stremio" />
 - [Hachidori](https://malupdaterosx.moe/hachidori/) :ic-baseline-apple: <Badge type="info" text="Github" icon="i-octicon-mark-github" link="https://github.com/Atelier-Shiori/hachidori" />
@@ -278,9 +282,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 - [Tundra](https://tundra.moe/) :mingcute-linux-fill: <Badge type="info" text="Github" icon="i-octicon-mark-github" link="https://github.com/m4tx/tundra" />
 
 
-
 ## Hosting
-
 - **Anime**
   - [Plex](https://www.plex.tv/) :glowing-star:
   - [Jellyfin](https://jellyfin.org/)
