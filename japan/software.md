@@ -29,8 +29,9 @@ outline: [2,3]
 - [Mokuro's Guide to mining manga](https://mokuro.moe/)
 
 ### Addons
-
 - [Advanced Browser](https://ankiweb.net/shared/info/874215009)
+- [AnkiMorphs](https://mortii.github.io/anki-morphs/intro.html)
+- [Batch Installer For Immersion Kit](https://github.com/kaanium/Batch-Installer-For-Immersion-Kit)
 - [Forvo Pronunciation Downloader fully automatic](https://ankiweb.net/shared/info/1784714388)
 - [FSRS4Anki](https://github.com/open-spaced-repetition/fsrs4anki)
 - [Japanese Support](https://ankiweb.net/shared/info/3918629684)
@@ -177,6 +178,7 @@ outline: [2,3]
 - [Ageisub](https://github.com/arch1t3cht/Aegisub) :ic-baseline-window::ic-baseline-apple:  `Subtitle editor`
 - [Subtitle Edit](https://www.nikse.dk/subtitleedit) :ic-baseline-window: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/SubtitleEdit/subtitleedit" />  `Subtitle editor`
 - [subs2srs](https://subs2srs.sourceforge.net/) :ic-baseline-window: `Generates audio clip from media using subs for Anki/SRS`
+- [subtitles-rs](https://github.com/emk/subtitles-rs) :ic-baseline-apple::mingcute-linux-fill: `Various subtitle related tools`
 - [subs2cia](https://github.com/dxing97/subs2cia) :ic-baseline-apple::mingcute-linux-fill: `Generates audio clip from media using subs for Anki/SRS`
 - [FFsubsync](https://github.com/smacke/ffsubsync) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: `Auto-sync subs with video`
 - [SubPlease](https://github.com/kanjieater/SubPlease) :ic-baseline-window::mingcute-linux-fill: `Generate accurate subtitles from audio`
