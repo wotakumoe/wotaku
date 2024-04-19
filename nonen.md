@@ -137,7 +137,6 @@ outline: 1
 - [VIPToon](https://viptoon.xyz/)
 
 ## Novel
-
 - [Light Novel](https://www.lightnovel.us/)
 - [23qb](https://www.23qb.net/)
 - [SF ACG](https://book.sfacg.com/)
@@ -150,6 +149,7 @@ outline: 1
 
 #### Anime
 - [AGETV](https://github.com/muedsa/AGETV)
+- [Ani](https://github.com/open-ani/ani)
 - [Mediabox](https://github.com/RyensX/MediaBox)
 - [Miru](https://miru.js.org/) :glowing-star: <Badge text="Manga" />
 - [Sakura Anime](https://github.com/670848654/SakuraAnime)
@@ -159,7 +159,8 @@ outline: 1
 - [Manga Reader](https://github.com/youniaogu/MangaReader)
 
 #### Tracker
-- [Bangumi](https://github.com/czy0729/Bangumi) <Badge text="Apple" />:mdi-android:
+- [Bangumi](https://github.com/czy0729/Bangumi)
+- [Bangumi for Android](https://github.com/xiaoyvyv/bangumi)
 - [Bangumi MX](http://bgmx.mysxl.cn/)
 - [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi)
 
