@@ -451,6 +451,7 @@ outline: 1
 - [Plexamp](https://www.plex.tv/plexamp/) <Badge type="warning" text="Freemium" />
 - [DSub](https://play.google.com/store/apps/details?id=github.daneren2005.dsub) <Badge type="warning" text="Paid" />
 - [Symfonium](https://symfonium.app/) <Badge type="warning" text="Paid" />
+- [Tempo](https://github.com/CappielloAntonio/tempo)
 
 ## iOS
 
