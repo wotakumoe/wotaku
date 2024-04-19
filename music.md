@@ -36,16 +36,15 @@ outline: 1
 
 ## Legal
 
-### Freemium
-- [Spotify](https://spotify.com/)
-- [Youtube Music](https://music.youtube.com/) <Badge type="tip" text="Beatbump" link="https://beatbump.io/home" /><Badge type="tip" text="Hyperpipe" link="https://hyperpipe.surge.sh/" />
-
-### Subscription
-- [Amazon Music](https://music.amazon.com/)
-- [Apple Music](https://music.apple.com/) :glowing-star:
-- [Deezer](https://www.deezer.com/)
-- [Qobuz](https://play.qobuz.com/)
-- [Tidal](https://tidal.com/)
+- **Freemium**
+  - [Spotify](https://spotify.com/)
+  - [Youtube Music](https://music.youtube.com/) <Badge type="tip" text="Beatbump" link="https://beatbump.io/home" /><Badge type="tip" text="Hyperpipe" link="https://hyperpipe.surge.sh/" />
+- **Subscription**
+  - [Amazon Music](https://music.amazon.com/)
+  - [Apple Music](https://music.apple.com/) :glowing-star:
+  - [Deezer](https://www.deezer.com/)
+  - [Qobuz](https://play.qobuz.com/)
+  - [Tidal](https://tidal.com/)
 
 
 ![](/music/mdl.png)
@@ -73,7 +72,7 @@ outline: 1
   - [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.mom/" />:mdi-magnet:
   - [Sitting on Clouds](https://www.sittingonclouds.net/) :glowing-star: <Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" />:simple-icons-mega::simple-icons-mediafire:
   - [SquidBoard](https://www.squid-board.org/) <Badge type="tip" text="Alt" link="https://sqb.moe/" /><Badge type="tip" text="Status" link="https://status.lyratris.com/" />:mdi-account::simple-icons-mega::simple-icons-mediafire::mdi-google-drive:
-  - [OKAMIMI OST](https://okamimiost.com/) :ic-round-cloud-download:
+  - [OKAMIMI OST](https://okamimiost.com/) :ic-round-cloud-download: <Badge type="tip" text="Direct Link" link="https://indexsubtitle.cc/terabox-direct-link-generator" />
   - [Sukidesu OST](https://sukidesuost.info/) :simple-icons-mega::mdi-magnet:
   - [Asia Media Blog](https://asiamediablog.com/media/music/) <Badge type="tip" text="2" link="https://jpmusicblog.com/music/" /><Badge type="tip" text="3" link="https://jpmediadl.com/music/" /><Badge type="danger" text="18+" />:mdi-snail:
 - **MP3**
@@ -130,7 +129,7 @@ outline: 1
 - [Rádio Animu](https://www.animu.com.br/) <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="http://yp.shoutcast.com/sbin/tunein-station.m3u?id=99545187" /> :flag-brazil:
 - [Radio Anime24](https://www.radioanime24.pl/) <tooltip>Stream URL (320kbps) : http://91.232.4.33:7028</tooltip> :flag-poland:
 
-## Doujin | Voca
+## Doujin & Vocaloid
 
 - [Doujin Style](https://embed.radio.co/player/735ee7b.html) <Badge type="tip" icon="i-material-symbols-download-2" text="192kbps" link="https://streams.radio.co/s5ff57669c/listen.m3u" />
 - [Gensokyo Radio](https://gensokyoradio.net/playing/) <Badge type="tip" icon="i-material-symbols-download-2" text="256kbps" link="https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u" /><Badge type="tip" text="Touhou" />
@@ -140,13 +139,12 @@ outline: 1
 
 ## Others
 
-### Games
-- [SquidRadio](https://www.squid-radio.net/)
-- [Rainwave VGM Radio](https://rainwave.cc/all/)
-- [muki](https://muki.io/)
-
-### Misc
-- [Patchwork Radio](https://patchwork.moekyun.me/radio) :glowing-star: <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://a4.asurahosting.com/public/patchworkarchive/playlist.m3u" /> <Badge type="tip" text="VTuber" />
+- **Games**
+  - [SquidRadio](https://www.squid-radio.net/)
+  - [Rainwave VGM Radio](https://rainwave.cc/all/)
+  - [muki](https://muki.io/)
+- **Misc**
+  - [Patchwork Radio](https://patchwork.moekyun.me/radio) :glowing-star: <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://a4.asurahosting.com/public/patchworkarchive/playlist.m3u" /> <Badge type="tip" text="VTuber" />
 
 
 ![](/music/mus.png)
@@ -196,89 +194,82 @@ outline: 1
 
 ## Database
 
-### General
-- [Discogs](https://www.discogs.com/)
-- [VGMdb](https://vgmdb.net/)
-
-### Anime
-- [Aniplaylist](https://aniplaylist.com/) :glowing-star:
-- [Anime Song Lyrics](https://www.animesonglyrics.com/)
-
-### Doujin
-- [VocaDB](https://vocadb.net/)
-- [Vocaloid Rankings](https://vocaloid-rankings.fly.dev/en)
-- [TouhouDB](https://touhoudb.com/)
-- [UtaiteDB](https://utaitedb.net/)
-- [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)
-- [THB Wiki](https://thwiki.cc/)
-- [Touhou Spotify Music](https://www.thspotify.moe/) <Badge type="tip" text="Docs" link="https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit#gid=0" />
-- [Utaite Key](https://utaite-key.info/)
-
-### Scrobbler
-- [Last.fm](https://www.last.fm/) :glowing-star:
-- [ListenBrainz](https://listenbrainz.org/)
-- [Libre.fm](https://libre.fm/)
+- **General**
+  - [Discogs](https://www.discogs.com/)
+  - [VGMdb](https://vgmdb.net/)
+- **Anime**
+  - [Aniplaylist](https://aniplaylist.com/) :glowing-star:
+  - [Anime Song Lyrics](https://www.animesonglyrics.com/)
+- **Doujin**
+  - [Dojin Music](https://www.dojin-music.info/)
+  - [VocaDB](https://vocadb.net/)
+  - [Vocaloid Rankings](https://vocaloid-rankings.fly.dev/en)
+  - [TouhouDB](https://touhoudb.com/)
+  - [UtaiteDB](https://utaitedb.net/)
+  - [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)
+  - [THB Wiki](https://thwiki.cc/)
+  - [Touhou Spotify Music](https://www.thspotify.moe/) <Badge type="tip" text="Docs" link="https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit#gid=0" />
+  - [Utaite Key](https://utaite-key.info/)
+- **Scrobbler**
+  - [Last.fm](https://www.last.fm/) :glowing-star:
+  - [ListenBrainz](https://listenbrainz.org/)
+  - [Libre.fm](https://libre.fm/)
 
 ## Discovery
 
-### General
-- [Every Noise at Once](https://everynoise.com/) :glowing-star:
-- [Rate Your Music](https://rateyourmusic.com/) :glowing-star:
-- [Chosic](https://www.chosic.com/) :glowing-star:
-- [Discover Quickly](https://discoverquickly.com/)
-- [Skiley](https://skiley.net/)
-- [Music-Map](https://www.music-map.com/)
-- [Japanese music by year](https://en.wikipedia.org/wiki/Category:Japanese_music_by_year) <Badge type="tip" text="Wand" link="https://www.wikiwand.com/en/Category:Japanese_music_by_year" />
-- [Dubolt](https://dubolt.com/)
-
-### RYM Ultimate Box Set :glowing-star:
-- [Japanese Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-japanese-music/)
-- [Doujin Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-doujin-music/)
-- [Touhou Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-touhou-music/)
-- [Vocaloid](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-vocaloid/)
-- [Utaite Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-utaite-music/)
-
-### Vocaloid
-- [Imo Danshaku](https://www.youtube.com/@user-oc3nr5dv6v/)
-- [Vocamed](https://www.youtube.com/@vocamed)
-- [:four-leaf-clover:/jp/ vocaloid playlist ](https://www.youtube.com/playlist?list=PLQqLx44OgzZybkIf7LZ2YI8iLL9b3BpJw)
-- [Vocaloid Big Hits](https://music.youtube.com/playlist?list=RDCLAK5uy_mgu07-HoqLSU-WqjK2ldEQWLuPPm3CAy8)
+- **General**
+  - [Every Noise at Once](https://everynoise.com/) :glowing-star:
+  - [Rate Your Music](https://rateyourmusic.com/) :glowing-star:
+  - [Chosic](https://www.chosic.com/) :glowing-star:
+  - [Discover Quickly](https://discoverquickly.com/)
+  - [Skiley](https://skiley.net/)
+  - [Music-Map](https://www.music-map.com/)
+  - [Japanese music by year](https://en.wikipedia.org/wiki/Category:Japanese_music_by_year) <Badge type="tip" text="Wand" link="https://www.wikiwand.com/en/Category:Japanese_music_by_year" />
+  - [Dubolt](https://dubolt.com/)
+- **RYM Ultimate Box Set** :glowing-star:
+  - [Japanese Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-japanese-music/)
+  - [Doujin Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-doujin-music/)
+  - [Touhou Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-touhou-music/)
+  - [Vocaloid](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-vocaloid/)
+  - [Utaite Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-utaite-music/)
+- **Vocaloid**
+  - [Imo Danshaku](https://www.youtube.com/@user-oc3nr5dv6v/)
+  - [Vocamed](https://www.youtube.com/@vocamed)
+  - [:four-leaf-clover:/jp/ vocaloid playlist ](https://www.youtube.com/playlist?list=PLQqLx44OgzZybkIf7LZ2YI8iLL9b3BpJw)
+  - [Vocaloid Big Hits](https://music.youtube.com/playlist?list=RDCLAK5uy_mgu07-HoqLSU-WqjK2ldEQWLuPPm3CAy8)
 
 ## Portal
 
-### Release
-- [Japanese Music Calendar](https://docs.google.com/spreadsheets/d/1VcrXXQKn_wuwtiExqZK9Ahj2R4jqwDIgL4O7xPBKAIs/edit#gid=928410087)
-- [ORICON](https://www.oricon.co.jp/release/album/)
-
-### General
-- [Billboard JAPAN](https://www.billboard-japan.com/d_news/jpn/) :flag-japan:
-- [JaME](https://www.jame-world.com/en/) :glowing-star:
-- [Natalie](https://natalie.mu/music/news/)
-- [Uta-Net](https://www.uta-net.com/) :flag-japan:
-- [UtaTen](https://utaten.com/) :flag-japan:
-- [Make Believe Mailer](https://mbmelodies.substack.com/) :glowing-star:
-
-### Doujin & Vocaloid
-- [Vocasphere](https://vocasphere.net/)
-- [Merami fan](https://meramifan.wordpress.com/) :glowing-star:
-- [Touhou Memories](https://touhou-memories.com/)
-- [Hatsune Miku](https://twitter.com/cfm_miku_en)
+- **Release**
+  - [Japanese Music Calendar](https://docs.google.com/spreadsheets/d/1VcrXXQKn_wuwtiExqZK9Ahj2R4jqwDIgL4O7xPBKAIs/edit#gid=928410087)
+  - [ORICON](https://www.oricon.co.jp/release/album/)
+- **General**
+  - [Billboard JAPAN](https://www.billboard-japan.com/d_news/jpn/) :flag-japan:
+  - [JaME](https://www.jame-world.com/en/) :glowing-star:
+  - [Natalie](https://natalie.mu/music/news/)
+  - [Uta-Net](https://www.uta-net.com/) :flag-japan:
+  - [UtaTen](https://utaten.com/) :flag-japan:
+  - [Make Believe Mailer](https://mbmelodies.substack.com/) :glowing-star:
+- **Doujin & Vocaloid**
+  - [Vocasphere](https://vocasphere.net/)
+  - [Merami fan](https://meramifan.wordpress.com/) :glowing-star:
+  - [Touhou Memories](https://touhou-memories.com/)
+  - [Hatsune Miku](https://twitter.com/cfm_miku_en)
 
 ## Others
 
-### Ranking
-- [Kworb](https://kworb.net/) :glowing-star:
-- [ORICON](https://www.oricon.co.jp/music/rankinglab/) :glowing-star: <Badge type="tip" text="Full" link="https://www.oricon.co.jp/rank/" />
-- [Billboard JAPAN](https://www.billboard-japan.com/charts/)
-- [Uta-Net](https://www.uta-net.com/ranking/)
-- [UtaTen](https://utaten.com/ranking/)
-
-### Events
-- [JaME](https://www.jame-world.com/en/event) :glowing-star:
-- [Tokyo Dross](https://tokyodross.blogspot.com/) :glowing-star:
-- [List of J-pop concerts held outside Asia](https://en.wikipedia.org/wiki/List_of_J-pop_concerts_held_outside_Asia) <Badge type="tip" text="Wand" link="https://www.wikiwand.com/en/List_of_J-pop_concerts_held_outside_Asia" />
-- [Songkick](https://www.songkick.com/) <Badge type="info" text="General" />
-
+- **Ranking**
+  - [Kworb](https://kworb.net/) :glowing-star:
+  - [ORICON](https://www.oricon.co.jp/music/rankinglab/) :glowing-star: <Badge type="tip" text="Full" link="https://www.oricon.co.jp/rank/" />
+  - [Billboard JAPAN](https://www.billboard-japan.com/charts/)
+  - [Uta-Net](https://www.uta-net.com/ranking/)
+  - [UtaTen](https://utaten.com/ranking/)
+- **Events**
+  - [JaME](https://www.jame-world.com/en/event) :glowing-star:
+  - [Tokyo Dross](https://tokyodross.blogspot.com/) :glowing-star:
+  - [Doujin Events](https://docs.google.com/document/d/1Kf4gf2Dtnc_Cd2ndRWacw9QGy8kYvUTZ7K9rkR8D2-0/edit)
+  - [List of J-pop concerts held outside Asia](https://en.wikipedia.org/wiki/List_of_J-pop_concerts_held_outside_Asia) <Badge type="tip" text="Wand" link="https://www.wikiwand.com/en/List_of_J-pop_concerts_held_outside_Asia" />
+  - [Songkick](https://www.songkick.com/) <Badge type="info" text="General" />
 
 
 ![](/music/mph.png)
