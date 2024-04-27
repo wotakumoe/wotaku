@@ -18,6 +18,7 @@ outline: [2,3]
 - [AnkiDroid Flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki) :mdi-android:
 - [AnkiMobile Flashcards](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) :ic-baseline-apple: <Badge type="warning" text="Paid"/>
 - [Ankiconnect Android](https://github.com/KamWithK/AnkiconnectAndroid) :mdi-android:
+- [VocabSieve](https://docs.freelanguagetools.org/)
 
 #### Guide
 - [Anki Manual](https://docs.ankiweb.net/)
