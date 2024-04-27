@@ -131,6 +131,12 @@ outline: [2,3]
 - **Vocabulary**
   - [Kanzen Master N1 Vocabulary](https://www.amazon.com/Kanzen-Master-Vocabulary-Language-Proficiency/dp/4883195732)
 
+
+::: tip **Downloading books**
+Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTM3MjM2Nw.RHVjaw). You can visit these sites to download books. [**Free Japanese Books**](https://freejapanesebooks.com/), [**Learn Japanese Online**](https://tailieuhoctiengnhat.com/), [**Nyaa**](https://nyaa.si/?c=3_3), [**Anna’s Archive**](https://annas-archive.org), [**Z-Library**](https://singlelogin.re/) & [**PDF Drive**](https://www.pdfdrive.com/).
+:::
+
+
 ### Pitch Accent
 
 #### Guides
@@ -176,11 +182,6 @@ outline: [2,3]
 - [RTK Search](https://hochanh.github.io/rtk/)
 - [Tatoeba](https://tatoeba.org/en/) `Crowd-sourced Sentence`
 
-
-
-::: tip **Downloading books**
-You can visit [**Anna’s Archive**](https://annas-archive.org), [**Free Japanese Books**](https://freejapanesebooks.com/), [**Z-Library**](https://singlelogin.re/), [**PDF Drive**](https://www.pdfdrive.com/) & [**Nyaa**](https://nyaa.si/?c=3_3) to download books.
-:::
 
 ## Grammar
 
