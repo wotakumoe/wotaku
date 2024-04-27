@@ -393,18 +393,16 @@ outline: 1
 
 ## Others
 
-### Games
-- [Gazelle Games](https://gazellegames.net/login.php)
-
-### Movies/TV
-- [AvistaZ](https://avistaz.to/) <Badge type="tip" icon="i-ic-outline-discord" text="Waitlist" link="https://discord.gg/pfmAegk8bD" />
-- [JPTV.club](https://jptv.club/)
-- [AsianCinema](https://asiancinema.me/)
-- [jptvts](https://jptvts.us/)
-
-### NSFW
-- [ExoticaZ](https://exoticaz.to/) <Badge type="tip" icon="i-ic-outline-discord" text="Waitlist" link="https://discord.gg/pfmAegk8bD" />
-- [Empornium](https://www.empornium.is/)
+- **Games**
+  - [Gazelle Games](https://gazellegames.net/login.php)
+- **Movies & TV**
+  - [AvistaZ](https://avistaz.to/) <Badge type="tip" icon="i-ic-outline-discord" text="Waitlist" link="https://discord.gg/pfmAegk8bD" />
+  - [JPTV.club](https://jptv.club/)
+  - [AsianCinema](https://asiancinema.me/)
+  - [jptvts](https://jptvts.us/)
+- **NSFW**
+  - [ExoticaZ](https://exoticaz.to/) <Badge type="tip" icon="i-ic-outline-discord" text="Waitlist" link="https://discord.gg/pfmAegk8bD" />
+  - [Empornium](https://www.empornium.is/)
 
 :::details Resources
 - [InstallGentoo Wiki](https://wiki.installgentoo.com/wiki/Private_trackers)
@@ -420,7 +418,6 @@ outline: 1
 # Legal
 
 ## Anime
-
 - [Bilibili](https://www.bilibili.tv/en/anime)
 - [Crunchyroll](https://www.crunchyroll.com/)
 - [Disney+](https://www.disneyplus.com/)
@@ -432,7 +429,7 @@ outline: 1
 
 ## Manga
 
-### Manga
+- **Manga**
   - [Azuki](https://www.azuki.co/)
   - [Comikey](https://comikey.com/)
   - [INKR](https://comics.inkr.com/)
@@ -442,8 +439,7 @@ outline: 1
   - [Manga UP!](https://global.manga-up.com/)
   - [Mangamo](https://www.mangamo.com/)
   - [YURI HUB](https://www.yurihub.com/)  <Badge type="danger" text="18+" />
-
-### Manwha/hua
+- **Manwha & Manhua**
   - [Lezhin](https://www.lezhinus.com/en)
   - [Manta](https://manta.net/en)
   - [Pocket Comics](https://www.pocketcomics.com/)
