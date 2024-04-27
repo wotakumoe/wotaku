@@ -191,6 +191,7 @@ outline: [1,2]
 
 ## Manga
 - [All Manga Reader](https://gitlab.com/all-mangas-reader/all-mangas-reader-2) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://www.allmangasreader.com/" />
+- [Image Max URL](https://github.com/qsniyg/maxurl)
 - [Similar Manga](https://github.com/similar-manga/similar) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg" />
 
 
@@ -214,7 +215,9 @@ outline: [1,2]
 - [uBlock Origin](https://ublockorigin.com/)
 - [FastForward](https://fastforward.team/)
 - [ClearURLs](https://docs.clearurls.xyz/)
+- [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)
 - [Violentmonkey](https://violentmonkey.github.io/)
+- [FastStream](https://faststream.online/)
 - [Indie Wiki Buddy](https://getindie.wiki/) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/indie-wiki-buddy/fkagelmloambgokoeokbpihmgpkbgbfm" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/indie-wiki-buddy/" />
 
 
@@ -264,7 +267,7 @@ outline: [1,2]
   - [Desu X](https://greasyfork.org/en/scripts/483282-desu-x-enhancement-script-for-desuarchive-org)
 - **Others**
   - [Handy Image](https://github.com/Owyn/HandyImage) <Badge type="tip" icon="i-custom-fork" text="Sleezy" link="https://sleazyfork.org/en/scripts/109-handy-image" />
-  - [Max URL](https://github.com/qsniyg/maxurl)
+  - [Image Max URL](https://github.com/qsniyg/maxurl)
 
 ## Others
 
