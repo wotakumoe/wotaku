@@ -67,7 +67,10 @@ outline: [2,3]
 - [9tsu](https://9tsu.cc/) <Badge type="info" text="VOD" />
 
 ## Subtitles
-- [Kitsunekko](https://kitsunekko.net/) :glowing-star: <Badge type="tip" text="2" link="https://learnjapanese.moe/kitsubackup.html#/ja" /><Badge type="tip" text="3" link="https://jimaku.cc/" />
+- [Kitsunekko](https://kitsunekko.net/)
+  - [Jimaku](https://jimaku.cc/) :glowing-star:
+  - [TheMoeWay](https://learnjapanese.moe/kitsubackup.html#/ja)
+  - [Ajatt-Tools](https://github.com/Ajatt-Tools/kitsunekko-mirror)
 - [itazuraneko](https://djtguide.github.io/library/sub)
 - [Xavier's Retimed JP Sub Pack](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTA0NDM1NA.ZHVjaw)
 - [Nekomoe Kissaten's Subtitles](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage)
