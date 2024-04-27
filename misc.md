@@ -288,6 +288,7 @@ outline: 1
   - [Good VTuber Subs](https://goodvtubersubs.com/) :glowing-star:
   - [Virtual YouTuber Wiki ](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki)
   - [Hololist](https://hololist.net/)
+  - [VTBs in Bilibili!](https://vtbs.moe/)
 - **Stats**
   - [VChama](https://vchama.xyz) :glowing-star: <Badge type="info" text="Schedule" />
   - [vtstats](https://vt.poi.cat/) :glowing-star: <Badge type="info" text="Schedule" /><Badge text="Revenue"/> 
@@ -309,9 +310,12 @@ outline: 1
 - [Hololive Fan Wiki](https://hololive.wiki/wiki/Main_Page) <Badge type="info" text="DB" />
 - [Hololive Production](https://hololive.hololivepro.com/) <Badge type="info" text="Schedule" link="https://schedule.hololive.tv/lives" /><Badge type="info" text="DB" /><Badge type="info" text="News" />
 - [Holotracker](https://trackholo.live/en/) <Badge type="info" text="Stats" />
+- [Superchat Currency Stats](https://sc-stats.gaato.net/) <Badge type="info" text="Stats" />
+- [Hololize Zone](https://hololive.zone/) <Badge type="info" text="Stats" />
 - [hololive TODAY](https://hololivetoday.com/) <Badge type="info" text="News" />
 - [Quick Reference](https://monkonius.github.io/hololive-quick-reference/) <Badge type="info" text="DB" />
-- [Hololive MMD Models](https://3d.nicovideo.jp/users/89765617/works) 
+- [Hololive MMD Models](https://3d.nicovideo.jp/users/89765617/works)
+- [Hololive Member Sorter](https://hololive.sorter.my.id/)
 - [HoloSchedule](https://github.com/YunzheZJU/holo-schedule) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/holoschedule/fjicegllhddldnnkgfefblholeegpcad" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/holo-schedule/" />
 
 ## Youtube
@@ -393,7 +397,7 @@ outline: 1
   - [UniVRM](https://github.com/vrm-c/UniVRM/releases) <tooltip>Free & Open Source. Import VRoid Models into Unity</tooltip>
   - [3Tene](https://3tene.com/free/) <Badge type="tip" text="Steam" link="https://store.steampowered.com/app/871170/3tene/" />  <tooltip>Free, there are other Versions with different functionality on their website. Used to track your 3D Model using your webcam/phone etc.</tooltip>
   - [VSeeFace](https://www.vseeface.icu/)  <tooltip>Free, Feature rich and great functionality, you may still prefer 3Tene for its UI, just test both out.</tooltip>
-
+  - [SysMocap](https://github.com/xianfei/SysMocap)
 
 :::details Tutorials
 
