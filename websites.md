@@ -55,7 +55,6 @@ outline: 1
 ### Others
 - [Hikari](https://watch.hikaritv.xyz/home)
 - [Sudatachi](https://sudatchi.com/)
-- [AnimeUI](https://animeui.com/) `IPFS`
 - [One Pace](https://onepace.net/)  <Badge text="Stremio" link="https://github.com/au2001/onepace-stremio" />
 
 ### Donghua
