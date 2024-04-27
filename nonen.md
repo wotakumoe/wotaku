@@ -215,6 +215,7 @@ outline: 1
 
 ## Anime
 
+- [German Fansubbers' Index](https://anime-fansubs.de/)
 - [Anime Archive](https://anime-archive.com/)
 - [AniWorld](https://aniworld.to/)
 - [Aniflix](https://aniflix.cc/)
@@ -271,6 +272,7 @@ outline: 1
 
 ## Anime
 
+- [Indonesian Fansubbers' Index](https://www.fansub.id/home)
 - [Anichin](https://anichin.vip/)
 - [Anime Indo](https://animeindo.cfd/)
 - [AnimeForce](https://www.animeforce.it/)
@@ -282,11 +284,13 @@ outline: 1
 - [Neonime](https://neonime.fun/)
 - [Kusonime](https://kusonime.com/) <Badge type="info" text="DDL" />
 - [Meownime](https://m.meownime.ai/) <Badge type="info" text="DDL" />
+- [Perpusindo](https://www.perpusindo.info/)
+- [Samehadaku](https://samehadaku.email/)
 
 ## Manga
-- [KomikID](https://komikid.com/)
+- [Komikid](https://komikid.com/)
 - [Komiku](https://komiku.id/)
-- [Komik Cast](https://komikcast.site/)
+- [Komikcast](https://komikcast.site/)
 - [Mangaku](https://mangaku.fun/)
 - [Ryukomik](https://komik.ryukoproject.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/AzwarKusumah/ryukomik" />
 - [Shinigami ID](https://shinigami.id/)
