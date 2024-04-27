@@ -102,6 +102,7 @@ outline: [2,3]
 - [Vocal Pitch Monitor](https://play.google.com/store/apps/details?id=com.tadaoyamaoka.vocalpitchmonitor)
 
 #### Apple
+- [Japanese](https://apps.apple.com/us/app/japanese/id290664053)
 - [Learn Japanese! - Kanji](https://apps.apple.com/us/app/learn-japanese-kanji/id1078107994)
 - [Kana - Hiragana and Katakana](https://apps.apple.com/us/app/kana-hiragana-and-katakana/id1454200955)
 - [Kanji Garden](https://apps.apple.com/us/app/kanji-garden-japanese/id1338967114) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://kanji.garden/" />
