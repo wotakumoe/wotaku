@@ -365,7 +365,7 @@ outline: 1
   - [hololive ERROR](https://store.steampowered.com/app/2062550/hololive_ERROR/)
   - [HoloParade](https://store.steampowered.com/app/2647230/HoloParade/)
 
-## Tools
+## Modeling Tools
 
 - **2D Tools**
   - [Live2D](https://www.live2d.com/en/about/) <tooltip><ul><li>Needs model split into many different layers, you can use Photoshop (paid), Clip Studio Paint (paid), or Krita (free) for this</li><li>Very feature-rich and difficult program and takes a lot of time to practice</li><li>Pricing: ~100€ per Year for Indie License, ~60€ 3 Years Student Indie License</li><li>Free 42 days trial after that limited free version</li><li>Tutorials out there on YouTube, you still will have to invest a massive amount of time</li></ul></tooltip>
@@ -382,7 +382,7 @@ outline: 1
   - [VSeeFace](https://www.vseeface.icu/)  <tooltip>Free, Feature rich and great functionality, you may still prefer 3Tene for its UI, just test both out.</tooltip>
 
 
-## Tutorials
+:::details Tutorials
 
 - **2D Tools**
   - Although they may not be 100% up to date, [**Brian Tsui**](https://www.youtube.com/@brian_tsui/)'s tutorials give a good understanding of how rigging works and what you need to know before you start
@@ -396,6 +396,7 @@ outline: 1
 - **3D Tools**
   - [VanillaLog](https://www.youtube.com/@TheVanillaLog) [The art of making 3D vtuber models (for dummies)](https://www.youtube.com/watch?v=eFkwu7p1LhU)
       - [Blender tutorials for 3D VTuber Making](https://docs.google.com/document/d/1GIfrXKHr2ndUh10DVIoS4lRw99misyzHZfo0fnwK8uk/edit)
+:::
 
 ## Others
 
