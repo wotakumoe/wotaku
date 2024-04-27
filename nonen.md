@@ -156,6 +156,7 @@ outline: 1
 
 #### Manga
 - [Copy MangaX](https://github.com/CrowForKotlin/CopyMangaX)
+- [kobi](https://github.com/niuhuan/kobi)
 - [Manga Reader](https://github.com/youniaogu/MangaReader)
 
 #### Tracker
@@ -331,6 +332,7 @@ outline: 1
 - [Book Share Zip](https://bszip.com/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
 - [Comic 77](https://comic77.com/) <Badge type="danger" text="18+" />
 - [Comics 888](https://comics888.com/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
+- [DL-Raw](https://dl-raw.se/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
 - [DL Raw net](https://dlraw.net/category/raw-manga/) <Badge type="tip" text="2" link="https://manga-zip.info/category/raw-manga/" /> <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
 - [DL Zip](https://dl-zip.com/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
 - [JP DDL](https://jpddl.com/manga) <Badge type="danger" text="18+" />
@@ -364,6 +366,7 @@ outline: 1
 - [Nana Subs](https://nanasubs.com/)
 - [Oglądaj Anime](https://ogladajanime.pl/)
 - [Okami-subs](https://okami-subs.pl/)
+- [Shinden](https://shinden.pl/main)
 - [Wbijam](https://web.archive.org/web/20240327095022/https://wbijam.pl/)  <Badge text="Players DB" link="https://docs.google.com/spreadsheets/d/1fnl__p0FmHxVLXBgtZmsYji6156z7i_4" />
 
 <br>
@@ -372,11 +375,10 @@ outline: 1
 
 ## Anime
 - [Anime Fire](https://animefire.net/)
-- [Anime Online HD](https://animesonlinehd.vip/)
+- [Animes Vision](https://animes.vision/)
 - [Animes Zone](https://animeszone.net/)
 - [Better Anime](https://betteranime.net/)
 - [Anime Kage](https://ak560.anime-kage.eu/) <Badge type="info" text="DDL" />
-- [Kero Seed](https://www.keroseed.com/)  <Badge type="info" text="Torrent" />
 
 ## Manga
 - [Manga Livre](https://mangalivre.net/)
@@ -400,11 +402,11 @@ outline: 1
 - [Anidub](https://anidub.live/)
 - [Anifilm](https://anifilm.net/)
 - [Anilibria](https://anilibria.life/) <Badge type="info" text="Sub" />
-- [Anime Buff](https://animebuff.ru/) <Badge type="info" text="Sub" />
+- [AnimeBuff](https://animebuff.ru/) <Badge type="info" text="Sub" />
 - [AnimeLib](https://animelib.me)
 - [Anime Stars](https://animestars.org/) <Badge type="info" text="Sub" />
 - [AnimeGO](https://animego.org/) <Badge type="info" text="Sub" />
-- [Averlist](https://averlist.xyz/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/Averito/Averlist" />
+- [Averlist](https://averlist.ru/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/Averito/Averlist" />
 - [Dream Cast](https://dreamerscast.com/)
 - [Freedub Studio](https://freedubstudio.club/)
 - [JUT.SU](https://jut.su/)
@@ -437,6 +439,7 @@ outline: 1
 
 ### PC
 - [Aniship](https://github.com/progzone122/AniShip) <Badge text="Stream" />
+- [AndLibria.Qt](https://github.com/anilibria/anilibria-winmaclinux) <Badge text="Stream" />
 
 ### Tracker
 - [Shikimori](https://shikimori.one/)
