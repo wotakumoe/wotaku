@@ -365,6 +365,19 @@ outline: 1
   - [hololive ERROR](https://store.steampowered.com/app/2062550/hololive_ERROR/)
   - [HoloParade](https://store.steampowered.com/app/2647230/HoloParade/)
 
+## User Tools
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+    - [yt-dlp interface](https://github.com/ErrorFlynn/ytdlp-interface)
+- [ytarchive](https://github.com/Kethsar/ytarchive)
+    - [hoshinova](https://github.com/HoloArchivists/hoshinova)
+- [Chat Downloader](https://github.com/xenova/chat-downloader)
+- [Youtube Community Tab](https://github.com/HoloArchivists/youtube-community-tab)
+- [Twspace-dl](https://github.com/HoloArchivists/twspace-dl)
+- [Holoscrape](https://github.com/dannylty/holoscrape)
+- [Ragtag Player](https://archive.ragtag.moe/player)
+- [ffmprovisr](https://amiaopensource.github.io/ffmprovisr/)
+
+
 ## Modeling Tools
 
 - **2D Tools**
