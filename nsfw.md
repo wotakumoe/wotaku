@@ -106,6 +106,7 @@ outline: 1
 - [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY)
 - [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta)
 - [EhViewer](https://github.com/FooIbar/EhViewer)
+- [ErosFE](https://github.com/3003h/Eros-FE)
 - [Hentoid](https://github.com/avluis/Hentoid)
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
 - [Jasmine](https://github.com/niuhuan/jasmine)
@@ -114,6 +115,7 @@ outline: 1
 
 ## iOS
 - [EhPanda](https://github.com/EhPanda-Team/EhPanda)
+- [ErosFE](https://github.com/3003h/Eros-FE)
 - [FEhViewer](https://github.com/3003h/FEhViewer)
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
 - [Jasmine](https://github.com/niuhuan/jasmine)
@@ -121,13 +123,15 @@ outline: 1
 
 ## PC
 
-### Viewer
+### Viewer / Tools
 - [ExHentai Manga Manager](https://github.com/SchneeHertz/exhentai-manga-manager)
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
 - [Jasmine](https://github.com/niuhuan/jasmine)
 - [Happypandax](https://github.com/happypandax/happypandax)
 - [Tsuki](https://github.com/Gusb3ll/Tsuki)
 - [Pica Comic](https://github.com/wgh136/PicaComic)
+- [Javinizer](https://github.com/javinizer/Javinizer)
+
 
 ### Downloader
 - [Hakuneko](https://github.com/manga-download/hakuneko) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://hakuneko.download/" /><Badge type="info" text="Multi" />
@@ -146,6 +150,8 @@ outline: 1
 
 ## Websites
 - [ASMR Online](https://asmr.one/)
+- [Hentai ASMR](https://www.hentaiasmr.moe/)
+- [FC2 VTuber Archive](https://stash.sussy.moe/fc2)
 - [F95Zone](https://f95zone.to/) <Badge type="info" text="Needs account" />
 - [Hemdomblog](https://www.hemdomblog.com/)
 - [HentTag](https://hentag.com/)
@@ -159,6 +165,7 @@ outline: 1
 
 ### Stream
 - [MissAV](https://missav.com/en) <Badge type="tip" text="2" link="https://myav.com/" /> <Badge type="tip" text="3" link="https://thisav.com/" />
+- [JAVLibrary](https://www.javlibrary.com/en/)
 - [SexTB](https://sextb.net/)
 - [JavGuru](https://jav.guru/)
 - [JAVSeen](https://javseen.tv/)
