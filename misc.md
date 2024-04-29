@@ -364,10 +364,12 @@ outline: 1
   - [Nameless](https://sk-jynx.itch.io/nameless) :glowing-star:
   - [Pebble Jame](https://gioba-games.itch.io/pebble-jame)
   - [smol Ame](https://moocow-games.itch.io/smol-ame)
+  - [Snowed In](https://shiorinovella.itch.io/shiorivisualnovella)
   - [Takos Organised Neatly](https://ae-lux-production.itch.io/takos-organised-neatly)
   - [WOWOWOW KORONE BOX](https://store.steampowered.com/app/2825180/WOWOWOW_KORONE_BOX/)
   - [Hololive itch.io collection by David Wu SoftDev](https://itch.io/c/1018682/hololive-fangames)
 - **Paid**
+  - [Days With Ollie](https://store.steampowered.com/app/2776750/Days_With_Ollie/)
   - [hololive ERROR](https://store.steampowered.com/app/2062550/hololive_ERROR/)
   - [HoloParade](https://store.steampowered.com/app/2647230/HoloParade/)
 
