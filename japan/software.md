@@ -179,6 +179,7 @@ outline: [2,3]
 #### Subtitle
 - [Ageisub](https://github.com/arch1t3cht/Aegisub) :ic-baseline-window::ic-baseline-apple:  `Subtitle editor`
 - [Subtitle Edit](https://www.nikse.dk/subtitleedit) :ic-baseline-window: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/SubtitleEdit/subtitleedit" />  `Subtitle editor`
+- [Subtitle Downloader](https://github.com/wayneclub/Subtitle-Downloader) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: `Download subtitle from streaming services`
 - [subs2srs](https://subs2srs.sourceforge.net/) :ic-baseline-window: `Generates audio clip from media using subs for Anki/SRS`
 - [subtitles-rs](https://github.com/emk/subtitles-rs) :ic-baseline-apple::mingcute-linux-fill: `Various subtitle related tools`
 - [subs2cia](https://github.com/dxing97/subs2cia) :ic-baseline-apple::mingcute-linux-fill: `Generates audio clip from media using subs for Anki/SRS`

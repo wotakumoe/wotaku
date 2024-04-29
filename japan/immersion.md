@@ -149,6 +149,8 @@ outline: [2,3]
 
 
 ## Youtube
+- [Seeder Playlist](https://zenith-raincoat-5cf.notion.site/Japanese-Seeder-Playlist-15fc740a87d843a2a2a5f36a913af551)
+- [Kaname Naito](https://www.youtube.com/@kanamenaito)
 - [Onomappu](https://www.youtube.com/@Onomappu/)
 - [Akane's JapaneseClass](https://www.youtube.com/@Akane-JapaneseClass)
 - [Japanese Immersion with Asami](https://www.youtube.com/@japaneseimmersionwithasami4249)
@@ -158,5 +160,4 @@ outline: [2,3]
 - [Seichan Bungaku](https://www.youtube.com/@seichan_bungaku/featured)
 - [Speak Japanese Naturally](https://www.youtube.com/@SpeakJapaneseNaturally)
 - [YUYUの日本語Podcast](https://www.youtube.com/@yuyunihongopodcast)
-- [Seeder Playlist](https://zenith-raincoat-5cf.notion.site/Japanese-Seeder-Playlist-15fc740a87d843a2a2a5f36a913af551)
 - [Folktales](https://www.youtube.com/playlist?list=PL1DnK3_eexijBUgFRq9Vlc1mW3gQv6gPf) <Badge type="tip" text="2" link="https://www.youtube.com/playlist?list=PL1DnK3_eexigbTRh6rIZIIY8MJfvnlw9Q" />

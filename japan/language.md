@@ -149,6 +149,7 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 - [Maggie Sensei's Conversation Guide](https://maggiesensei.com/)
 
 #### Youtube
+- :left-arrow-curving-right: [Related Channels](/japan/immersion.md#youtube)
 - [Japanese pitch-accent & pronunciation playlist](https://www.youtube.com/playlist?list=PLxMXdmBM9wPvsySiMoBzgh8d68xqKz1YP) `by Dogen`
 - [Strategies for Acquiring Pitch Accent in Japanese](https://www.youtube.com/watch?v=I-dRbTnLmBY) `by Darius Jahandarie`
 - [Japanese Pitch Accent and Intonation](https://www.youtube.com/playlist?list=PLFGs3d9Sobfgr4clmLcHUM_X4JBCyIP2n) `by Speak Japanese Naturally`
@@ -160,6 +161,7 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 - [Migaku Pitch Trainer](https://pitch-demo.migaku.io/) <Badge type="warning" text="Freemium" />
 - [SuperNative](https://supernative.tv/ja/)
 - [MyKikitori](https://www.mykikitori.com/)
+
 
 ### Resources
 
