@@ -26,11 +26,11 @@ export default defineConfig({
     ["meta", { name: "theme-color", content: "#56b4fc" }],
     ["meta", { name: "og:type", content: "website" }],
     ["meta", { name: "og:locale", content: "en" }],
-    ["link", { rel: "icon", href: "/asset/podarufav.png" }],
+    ["link", { rel: "icon", href: "/asset/fav.png" }],
     // PWA
-    ["link", { rel: "icon", href: "/asset/podarufav.png", type: "image/svg+xml" }],
-    ["link", { rel: "alternate icon", href: "/asset/podarufav.png" }],
-    ["link", { rel: "mask-icon", href: "/asset/podarufav.png", color: "#56b4fc" }],
+    ["link", { rel: "icon", href: "/asset/fav.png", type: "image/svg+xml" }],
+    ["link", { rel: "alternate icon", href: "/asset/fav.png" }],
+    ["link", { rel: "mask-icon", href: "/asset/fav.png", color: "#56b4fc" }],
     // prettier-ignore
     [
       "meta",
@@ -40,7 +40,7 @@ export default defineConfig({
       "link",
       {
         rel: "apple-touch-icon",
-        href: "/asset/podarufav.png",
+        href: "/asset/fav.png",
         sizes: "192x192",
       },
     ],
