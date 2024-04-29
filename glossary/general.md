@@ -84,13 +84,17 @@ customDescription: Weeb terms that you will see everywhere!
 | Terms     | Meaning { class="compact" }  |
 | ------  | ------ |
 |  -san  |   It is used after a person's name to show respect. It is equivalent to 'Mr.', 'Mrs.', or 'Miss' in English.   |
+|  -sama | Formal version of -san, used to address a person of higher rank/importance, also commonly used by employees when addressing customers. |
 |  -kun  |   Used most often when referring to boys, this indicates affection or familiarity. Although it may occasionally be used by older men within their social circle, it can also be employed by anyone in reference to someone of lower status.   |
 |  -chan  |   An affectionate honorific indicating familiarity used mostly in reference to girls; it is also used in reference to cute people or animals of either gender.   |
+|  -chin | Cutesy way of saying chan among girls. Can be sarcastic sometimes, depending on the context. |
+|  -tan | Generally used for childish-talk among girls. It's also used in romantic talk (in private scenario), adding [moe](#terms)-vibe in ther coversation or in bar where hostess address themselves as -tan. |
 |  -(o)nii-chan  |   A familiar, somewhat childish way to refer to one’s older brother.   |
 |  -(o)nee-chan  |   A familiar, somewhat childish way to refer to one's older sister.   |
 |  -senpai  |  It is used to address upperclassmen or more experienced coworkers.    |
 |  -sensei  |  A respectful term for teachers, artists, or high-level professionals.    |
 |  No honorific  |   Indicates familiarity or closeness; if used without permission or reason, addressing someone in this manner would constitute as an insult.   |
+
 
 <Button link="https://rentry.org/jpfamily" icon="i-fxemoji-lightbulb">If you want to mention a family member in formal way, here is the guide.</Button>
 
