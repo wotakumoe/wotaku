@@ -175,6 +175,7 @@ outline: 1
 
 - [Anime Pictures](https://anime-pictures.net/) <Badge type="green" text="SFW" />
 - [Kemono](https://kemono.su/)
+- [Minitokyo](http://www.minitokyo.net/)
 - [Studio Ghibli](https://www.ghibli.jp/info/013772/) <Badge type="green" text="SFW" />
 - [Wallhaven](https://wallhaven.cc/)
 - [wanderer.moe](https://wanderer.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/wanderer-moe/site" />
@@ -228,6 +229,7 @@ outline: 1
   - [Manga Alerts](https://twitter.com/MangaAlerts) :mdi-twitter:
   - [Manga Bookshelf](https://mangabookshelf.com/) :mdi-twitter:
   - [Manga Mogura RE](https://twitter.com/MangaMoguraRE) :glowing-star: :mdi-twitter: <Badge type="danger" icon="i-mdi-twitter" text="Ecchi" link="https://twitter.com/EcchiMogura" />
+  - [Randomanga](https://randomanga.wordpress.com/)
   - [Shonen Jump News](https://twitter.com/WSJ_manga) :glowing-star: :mdi-twitter:
   - [TheOASG](https://twitter.com/TheOASG) :glowing-star: :mdi-twitter:
   - [Deb Aoki](https://twitter.com/debaoki) :mdi-twitter:
