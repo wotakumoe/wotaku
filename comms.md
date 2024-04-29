@@ -56,7 +56,7 @@ A list of other otaku communities to check out based on your specific interests.
 - [Laughing in Quarantine](https://discord.com/invite/x6AuGp7)
 - [LHTranslation](https://discord.com/invite/wxVRX4j)
 
-== P-T
+### P-T
 - [Scanner Usage School](https://discord.com/invite/NCzxVB9)
 - [Sonic Zone](https://discord.com/invite/bj5vmb96YT)
 - [Sitting on Clouds](https://discord.gg/x23SFbE)
