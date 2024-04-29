@@ -296,6 +296,7 @@ outline: 1
 - [Apple Music](https://apps.apple.com/us/app/apple-music/id1108187390) :ic-baseline-apple:
 
 ## Tools
+- [Audile](https://github.com/aleksey-saenko/MusicRecognizer) :mdi-android:
 - [Audire](https://github.com/alexmercerind/audire) :simple-icons-shazam::mdi-android:
 - [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) :mdi-lastfm::mdi-android:
 - [Seeker](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1) :mdi-android:<Badge type="info" text="Soulseek" />
