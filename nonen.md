@@ -375,14 +375,20 @@ outline: 1
 
 ## Anime
 - [Anime Fire](https://animefire.net/)
-- [Animes Vision](https://animes.vision/)
 - [Animes Zone](https://animeszone.net/)
 - [Better Anime](https://betteranime.net/)
-- [Anime Kage](https://ak560.anime-kage.eu/) <Badge type="info" text="DDL" />
+- [Saikoni](https://saikoani.me/)
 
 ## Manga
 - [Manga Livre](https://mangalivre.net/)
+- [Tao Sect](https://taosect.com/)
 - [Union Mangas](https://orchidcommerce.com/home)
+
+## Tokusatsu
+- [DGB Catálogo](https://dgbcatalogo.carrd.co/)
+- [NewZect](https://newzect.com/)
+- [:ic-outline-telegram: TOKUSHARE](https://t.me/s/tokushareoficial)
+- [Rádio Toku Hero Club](https://www.radiotokuheroclub.com/)
 
 <br>
 
