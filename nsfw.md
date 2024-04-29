@@ -124,13 +124,12 @@ outline: 1
 ## PC
 
 ### Viewer / Tools
-- [ExHentai Manga Manager](https://github.com/SchneeHertz/exhentai-manga-manager)
-- [JHenTai](https://github.com/jiangtian616/JHenTai)
-- [Jasmine](https://github.com/niuhuan/jasmine)
-- [Happypandax](https://github.com/happypandax/happypandax)
-- [Tsuki](https://github.com/Gusb3ll/Tsuki)
-- [Pica Comic](https://github.com/wgh136/PicaComic)
-- [Javinizer](https://github.com/javinizer/Javinizer)
+- [Enma](https://github.com/alexandresenpai/Enma) :ic-baseline-window::mingcute-linux-fill:
+- [ExHentai Manga Manager](https://github.com/SchneeHertz/exhentai-manga-manager) :ic-baseline-window:
+- [JHenTai](https://github.com/jiangtian616/JHenTai) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Jasmine](https://github.com/niuhuan/jasmine) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Pica Comic](https://github.com/wgh136/PicaComic) :ic-baseline-window::ic-baseline-apple:
+- [Javinizer](https://github.com/javinizer/Javinizer) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
 
 ### Downloader
