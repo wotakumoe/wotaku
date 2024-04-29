@@ -191,7 +191,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 - [**Nyaa Downloader**](https://github.com/marcpinet/nyaadownloader) :ic-baseline-window:<tooltip><ul><li>Runs via terminal, has a pretty simple UI</li><li>Used for torrent downloads that can be redirected/downloaded directly into a BitTorrent client - no DDL functionality</li><li>For nyaa.si only</li></ul></tooltip>
 
 ### Manga
-
+- [**Enma**](https://github.com/alexandresenpai/Enma) :ic-baseline-window::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/alexandresenpai/Enma" /><tooltip><ul><li>Cross-Site manga favorites</li><li>Highly extensible and flexible</li><li>Easy to setup as a server or cli</li></ul></tooltip>
 - [**Free Manga Downloader 2**](https://github.com/dazedcat19/FMD2) :ic-baseline-window:<tooltip><ul><li>Supports almost every major site</li><li>You can add your own account</li><li>Highly configurable with downloading automation</li><li>Has converter and a lot of great tools</li></ul></tooltip>
 - [**Red Squirrel's Manga Downloader**](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader) :ic-baseline-window::mingcute-linux-fill:
 - [**Hakuneko**](https://github.com/manga-download/hakuneko) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<tooltip><ul><li>Currently the best downloader</li><li>Huge number of sites supported</li><li>Customizable UI</li><li>Can download anime too</li></ul></tooltip>

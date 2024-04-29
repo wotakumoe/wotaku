@@ -124,6 +124,7 @@ outline: 1
 ## PC
 
 ### Viewer / Tools
+- [Enma](https://github.com/alexandresenpai/Enma)
 - [ExHentai Manga Manager](https://github.com/SchneeHertz/exhentai-manga-manager)
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
 - [Jasmine](https://github.com/niuhuan/jasmine)
