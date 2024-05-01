@@ -16,8 +16,8 @@ outline: 2
 - [Gload](https://gload.to/)
 - [GOG Games](https://gog-games.to/)
 - [Free GOG PC Games](https://freegogpcgames.com/)
-- [Torrminatorr](https://torrminatorr.com/)
-- [Moriya Shrine](https://moriyashrine.org/)  <Badge type="info" text="Touhou" />
+- [Torrminatorr](https://torrminatorr.com/) <Badge type="info" text="Needs Account" />
+- [Moriya Shrine](https://moriyashrine.org/) <Badge type="info" text="Touhou" />
 - [Doujin Style](https://doujinstyle.com/) <Badge type="info" text="Doujin" />
 
 <Button link="https://rentry.org/pgames#untrusted-sites" icon="i-fxemoji-noentrysign"> List of Untrusted Game Downloading Websites</Button>
