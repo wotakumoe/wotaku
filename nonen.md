@@ -152,6 +152,7 @@ outline: 1
 - [Ani](https://github.com/open-ani/ani)
 - [Mediabox](https://github.com/RyensX/MediaBox)
 - [Miru](https://miru.js.org/) :glowing-star: <Badge text="Manga" />
+- [oneAnime](https://github.com/Predidit/oneAnime)
 - [Sakura Anime](https://github.com/670848654/SakuraAnime)
 
 #### Manga
