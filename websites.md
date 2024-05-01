@@ -55,6 +55,7 @@ outline: 1
 - [Hikari](https://watch.hikaritv.xyz/home)
 - [Sudatachi](https://sudatchi.com/)
 - [One Pace](https://onepace.net/)  <Badge text="Stremio" link="https://github.com/au2001/onepace-stremio" />
+- [Pokémon TV](https://poke-tv.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/seiya-dev/pokemon-tv" />
 
 ### Donghua
 - [Animekhor](https://animekhor.xyz/)
