@@ -61,9 +61,8 @@ outline: 1
 - [AniChart](https://anichart.net/airing) :glowing-star:
 - [AnimeSchedule](https://animeschedule.net/)
 - [Anime Countdown](https://animecountdown.com/)
-- [Eronews](https://en.eroeronews.com/) :glowing-star: <Badge type="danger" text="18+" /> 
-- [Livechart](https://www.livechart.me/)
-- [Monthly.moe](https://www.monthly.moe/) :glowing-star: 
+- [Livechart](https://www.livechart.me/) :glowing-star: 
+- [Monthly.moe](https://www.monthly.moe/)
 - [Notify.moe](https://notify.moe/calendar) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/animenotifier/notify.moe" />
 - [Senpai.moe](https://www.senpai.moe/)
 - [Syoboi Calendar](https://cal.syoboi.jp/) :flag-japan:
