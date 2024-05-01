@@ -290,6 +290,7 @@ outline: 1
   - [Good VTuber Subs](https://goodvtubersubs.com/) :glowing-star:
   - [Virtual YouTuber Wiki ](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki)
   - [Hololist](https://hololist.net/)
+  - [ironmouse Model Index](https://www.ironmousemodelindex.com/)
   - [VTBs in Bilibili!](https://vtbs.moe/)
 - **Stats**
   - [VChama](https://vchama.xyz) :glowing-star: <Badge type="info" text="Schedule" />
