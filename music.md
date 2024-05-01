@@ -82,7 +82,7 @@ outline: 1
 
 ## Downloader
 - [DoubleDouble](https://doubledouble.top/)
-- [:ic-outline-discord: yet another music server](https://discord.gg/MVGEWUjZJP)
+- [:simple-icons-revoltdotchat: yet another music server](https://yetanothermusicserver.top/invite/AaWeY6kV)
 - [:ic-outline-telegram: Beatspot Music](https://t.me/BeatSpotBot)
 
 ## Doujin
