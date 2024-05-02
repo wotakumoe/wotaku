@@ -314,7 +314,13 @@ outline: 1
 - [AIMP](https://www.aimp.ru/) :glowing-star: :ic-baseline-window::mingcute-linux-fill:
 - [DeaDBeeF](https://deadbeef.sourceforge.io/) :mingcute-linux-fill:
 - [Elisa](https://apps.kde.org/elisa/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Foobar2000](https://www.foobar2000.org/) :glowing-star: :ic-baseline-window::ic-baseline-apple:<Badge type="info" text="Georgia-ReBORN" link="https://github.com/TT-ReBORN/Georgia-ReBORN"/> <Badge type="info" text="Synced Lyrics" link="/guides/misc#foobar2000-synced-lyrics" />
+- [Foobar2000](https://www.foobar2000.org/) :glowing-star: :ic-baseline-window::ic-baseline-apple:
+  - [Discord Rich Presence Integration](https://github.com/s0hv/foo_discord_rich) `component` <Badge type="info" text="Catbox" link="https://github.com/realoksi/foobar2000-catbox" /><Badge type="info" text="Guide" link="https://s0hv.github.io/foo_discord_rich/" />
+  - [Encoder Pack](https://www.foobar2000.org/encoderpack) `component`
+  - [ESLyric](https://github.com/ESLyric/release) `component`
+  - [OpenLyrics](https://www.foobar2000.org/components/view/foo_openlyrics) `component` <Badge type="info" text="Guide" link="/guides/misc#foobar2000-synced-lyrics" />
+  - [Georgia-ReBORN](https://github.com/TT-ReBORN/Georgia-ReBORN) `theme`
+  - [Eole](https://github.com/Ottodix/Eole-foobar-theme) `theme`
 - [MusicBee](https://www.getmusicbee.com/) :ic-baseline-window:
 - [Strawberry](https://www.strawberrymusicplayer.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [WACUP](https://getwacup.com/) :ic-baseline-window:
