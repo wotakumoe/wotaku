@@ -49,6 +49,7 @@ outline: 2
 ### Tracker
 
 - [Backloggd](https://www.backloggd.com/)
+- [GOG Database](https://www.gogdb.org/)
 - [IGDB](https://www.igdb.com/)
 - [Infinite Backlog](https://infinitebacklog.net/) :glowing-star:
 - [MobyGames](https://www.mobygames.com/)
