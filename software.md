@@ -290,9 +290,10 @@ or buy an Android phone :ic-twotone-thumb-up:
   - [Jellyfin](https://jellyfin.org/)
   - [Emby](https://emby.media/)
 - **Manga**
-  - [Komga](https://komga.org/) :glowing-star: <tooltip><ul><li>Media server for manga/comics (like Plex for manga).</li><li>Integrates with Tachiyomi, OPDS reader, or anything else using Komga REST API.</li><li>Community-built tools can be added through its REST API for extra features like dupe detection, media analysis for corrupt files, .cbl read lists, and much more.</li><li>User authentication using GitHub, Google, or any other OAuth provider. Can restrict sections of the library for different users.</li><li>Supports ComicInfo.xml and info.json for metadata.</li><li>Supported as a source in MALSync, for AniList/MAL tracking.</li><li>Follows the 1-folder-to-1-series paradigm (unless you designate a folder as a folder of oneshots) so you'll need to organize your files accordingly.</li></ul></tooltip>
-  - [Kavita](https://www.kavitareader.com/) <tooltip><ul><li>Kavita is a media server for Manga and Light Novels (or eBooks).</li><li>Supports Tachiyomi, Paperback, OPDS readers, and REST API.</li><li>User management is done through email invites. By default, it uses the Kavita mail server, but other mail servers can be used too.</li><li>The admin can specify permissions such as enabling downloads, SFW/NSFW filter, and library selection.</li><li>Reliant on filename parsing, requires strict adherence to expected filename formats and embedded metadata is near mandatory for edge-cases.</li><li>No MALSync support. Tracking support, alongside some other features, is paywalled behind Kavita+.</li></ul></tooltip>
+  - [Komga](https://komga.org/) :glowing-star: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/gotson/komga" />
+  - [Kavita](https://www.kavitareader.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/Kareadita/Kavita" />
   - [LANraragi](https://github.com/Difegue/LANraragi)
+  - [Teemii](https://www.teemii.io/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/dokkaner/teemii" />
 - **Novels**
   - [Komga](https://komga.org/)
   - [Kavita](https://www.kavitareader.com/)
