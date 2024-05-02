@@ -54,6 +54,7 @@ outline: 1
 - [Manytoon](https://manytoon.com/) :glowing-star:
 - [OKToon](https://oktoon.org/webtoon/adult) <Badge type="tip" text="Raw" />
 - [Oppai Stream](https://read.oppai.stream/) :glowing-star: <tooltip>Late releases but less compressed than other aggregators'</tooltip>
+- [Toomics Free](https://toomicsfree.com/)
 - [Toonily](https://toonily.com/) :glowing-star:
 - [Webtoon](https://www.webtoon.xyz/)
 
@@ -112,6 +113,7 @@ outline: 1
 - [Jasmine](https://github.com/niuhuan/jasmine)
 - [NClientV2](https://github.com/Dar9586/NClientV2)
 - [Pica Comic](https://github.com/wgh136/PicaComic)
+- [Pupil](https://github.com/tom5079/Pupil)
 
 ## iOS
 - [EhPanda](https://github.com/EhPanda-Team/EhPanda)
@@ -128,6 +130,7 @@ outline: 1
 - [ExHentai Manga Manager](https://github.com/SchneeHertz/exhentai-manga-manager) :ic-baseline-window:
 - [JHenTai](https://github.com/jiangtian616/JHenTai) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Jasmine](https://github.com/niuhuan/jasmine) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Konomi Viewer](https://konomiviewer.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Pica Comic](https://github.com/wgh136/PicaComic) :ic-baseline-window::ic-baseline-apple:
 - [Javinizer](https://github.com/javinizer/Javinizer) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
