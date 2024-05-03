@@ -140,12 +140,19 @@ or buy an Android phone :ic-twotone-thumb-up:
 ## Anime Streaming
 
 - [Miru](https://miru.watch/) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/ThaUnknown/miru/" /> <Badge type="info" text="Torrent" />
-- [WebTorrent](https://webtorrent.io/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/webtorrent/webtorrent" /> <Badge type="info" text="Torrent" />
 - [Anikki](https://github.com/Kylart/Anikki) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
+- [Toru](https://github.com/sweetbbak/toru) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" />
 - [Mangayomi](https://github.com/kodjodevf/mangayomi) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
 - [Layendanimator](https://github.com/Layendan/Layendanimator) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Online" />
 - [Totoro](https://github.com/insomniachi/Totoro) :ic-baseline-window: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
 
+:::details **Streaming torrents without a dedicated anime client**
+You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're currently downloading. For this, check the "**Download in sequential order**" and go to the containing folder. Now open the file and it will play as more chunks are downloaded.
+
+![](/ss/seq.png)
+
+[WebTorrent](https://webtorrent.io/) can also be used to stream torrents. By default, it will play using it's own player. You can change it in settings.
+:::
 
 ## Manga Readers
 
