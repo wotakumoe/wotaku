@@ -315,12 +315,7 @@ outline: 1
 - [DeaDBeeF](https://deadbeef.sourceforge.io/) :mingcute-linux-fill:
 - [Elisa](https://apps.kde.org/elisa/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Foobar2000](https://www.foobar2000.org/) :glowing-star: :ic-baseline-window::ic-baseline-apple:
-  - [Discord Rich Presence Integration](https://github.com/s0hv/foo_discord_rich) `component` <Badge type="info" text="Catbox" link="https://github.com/realoksi/foobar2000-catbox" /><Badge type="info" text="Guide" link="https://s0hv.github.io/foo_discord_rich/" />
-  - [Encoder Pack](https://www.foobar2000.org/encoderpack) `component`
-  - [ESLyric](https://github.com/ESLyric/release) `component`
-  - [OpenLyrics](https://www.foobar2000.org/components/view/foo_openlyrics) `component` <Badge type="info" text="Guide" link="/guides/misc#foobar2000-synced-lyrics" />
-  - [Georgia-ReBORN](https://github.com/TT-ReBORN/Georgia-ReBORN) `theme`
-  - [Eole](https://github.com/Ottodix/Eole-foobar-theme) `theme`
+  - :left-arrow-curving-right: [Foobar2000 add-ons](#foobar2000-add-ons)
 - [MusicBee](https://www.getmusicbee.com/) :ic-baseline-window:
 - [Strawberry](https://www.strawberrymusicplayer.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [WACUP](https://getwacup.com/) :ic-baseline-window:
@@ -331,6 +326,20 @@ outline: 1
 - [Spicetify](https://spicetify.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [SPOTX](https://github.com/SpotX-Official/SpotX) :ic-baseline-window:
 - [Youtube Music](https://github.com/th-ch/youtube-music) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+
+
+### Foobar2000 add-ons
+- **Component**
+  - [Coverflow](https://www.foobar2000.org/components/view/foo_chronflow)
+  - [Discord Rich Presence Integration](https://github.com/s0hv/foo_discord_rich) <Badge type="info" text="Catbox" link="https://github.com/realoksi/foobar2000-catbox" /><Badge type="info" text="Guide" link="https://s0hv.github.io/foo_discord_rich/" />
+  - [Encoder Pack](https://www.foobar2000.org/encoderpack)
+  - [ESLyric](https://github.com/ESLyric/release)
+  - [OpenLyrics](https://www.foobar2000.org/components/view/foo_openlyrics) <Badge type="info" text="Guide" link="/guides/misc#foobar2000-synced-lyrics" />
+  - [ReplayGain DSP](https://www.foobar2000.org/components/view/foo_dsp_replaygain)
+- **Theme**
+  - [Georgia-ReBORN](https://github.com/TT-ReBORN/Georgia-ReBORN) 
+  - [Eole](https://github.com/Ottodix/Eole-foobar-theme) 
+
 
 ## Downloader
 - [Deemix](https://download.deemix.workers.dev/)
