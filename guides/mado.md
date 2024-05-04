@@ -1,6 +1,6 @@
 ---
 title: Madokami Joining Guide
-customDescription: The Joining guide for Madokami through IRC. Also how to download stuff fromm Madokami.
+customDescription: The Joining guide for Madokami through IRC. Also how to download stuff from Madokami.
 outline: [2,3]
 ---
 
