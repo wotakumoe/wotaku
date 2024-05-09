@@ -101,6 +101,8 @@ outline: [2,3]
 - **Vocabulary**
   - [JLPT Tango N5](https://www.amazon.com/Japanese-Vocabulary-Words-Language-Proficiency/dp/4872179811) <Badge type="tip" text="N4" link="https://www.amazon.com/JAPANESE-VOCABULARY-WORDS-Trilingue-Japonais/dp/487217982X" />
 
+<br>
+
 #### N3
 - **Kanji**
   - [Jlpt N3 Nihongo Somatome Kanji](https://www.amazon.com/Jlpt-N3-Nihongo-Somatome-Kanji/dp/4872177304)
@@ -109,6 +111,8 @@ outline: [2,3]
 - **Vocabulary**
   - [Nihongo Somatome N3 Vocabulary](https://www.amazon.com/So-matome-Essential-Practice-Proficiency-Vocabulary/dp/4872177312)
   - [2000 Essential Vocabulary for the JLPT N3](https://www.amazon.com/Japanese-Vocabulary-Words-Language-Proficiency/dp/4872179838)
+
+<br>
 
 #### N2
 - **Kanji**
@@ -120,6 +124,8 @@ outline: [2,3]
   - [日本語能力試験 N2 Wokbook](https://www.amazon.com/%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%83%BD%E5%8A%9B%E8%A9%A6%E9%A8%93-N2%E7%9B%B4%E5%89%8D%E5%AF%BE%E7%AD%96%E3%83%89%E3%83%AA%E3%83%AB-%E6%A8%A1%E8%A9%A6-%E6%96%87%E5%AD%97%E3%83%BB%E8%AA%9E%E5%BD%99%E3%83%BB%E6%96%87%E6%B3%95/dp/4863924062)
 - **Vocabulary**
   - [ミニストーリーで覚える ベスト単語合格２４００](https://www.amazon.co.jp/dp/4789017966)
+
+<br>
 
 #### N1
 - **Kanji**
@@ -148,13 +154,17 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 - [Resources for pitch accent](https://xythh.github.io/resources)
 - [Maggie Sensei's Conversation Guide](https://maggiesensei.com/)
 
+<br>
+
 #### Youtube
-- :left-arrow-curving-right: [Related Channels](/japan/immersion.md#youtube)
 - [Japanese pitch-accent & pronunciation playlist](https://www.youtube.com/playlist?list=PLxMXdmBM9wPvsySiMoBzgh8d68xqKz1YP) `by Dogen`
 - [Strategies for Acquiring Pitch Accent in Japanese](https://www.youtube.com/watch?v=I-dRbTnLmBY) `by Darius Jahandarie`
 - [Japanese Pitch Accent and Intonation](https://www.youtube.com/playlist?list=PLFGs3d9Sobfgr4clmLcHUM_X4JBCyIP2n) `by Speak Japanese Naturally`
 - [Pitch Accent for Absolute Beginners](https://www.youtube.com/playlist?list=PLAmROvem8e1LhXfCUqCDshBLAdi_LlR6y) `by Yudai Sensei`
 - [Verb Pitch Accent and Verbs' Conjugations](https://www.youtube.com/playlist?list=PLbEVYkEj81RzdzDWujEkfjJZrzsqV3Q8O) `by Seize Japanese`
+- :material-symbols-subdirectory-arrow-right: [Related Channels](/japan/immersion.md#youtube)
+
+<br>
 
 #### Practice
 - [Kotu](https://kotu.io/) `Needs Account`
@@ -173,6 +183,8 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 - [Sentence Search](https://sentencesearch.neocities.org/) `Book / Deck / Web`
 - [YouGlish](https://youglish.com/japanese) :glowing-star: `Youtube`
 
+<br>
+
 #### Misc
 - [Hinoki Project](https://hinoki-project.org/)
 - [Hiragana](https://www.hiragana.jp/en/) `Add Hiragana over Kanji`
@@ -183,7 +195,6 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 - [OJAD AI Reader](https://www.gavo.t.u-tokyo.ac.jp/ojad/phrasing/index) `Generate Pitch Accent`
 - [RTK Search](https://hochanh.github.io/rtk/)
 - [Tatoeba](https://tatoeba.org/en/) `Crowd-sourced Sentence`
-
 
 ## Grammar
 
@@ -232,14 +243,20 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 - [Nihongo Fun&Easy](https://www.amazon.com/NIHONGO-FUN-EASY-Conversation-Beginners/dp/4872177215)
 - [Minna No Nihongo 1](https://www.amazon.com/Minna-No-Nihongo-Beginner-2nd/dp/4883196038) <Badge type="tip" text="2" link="https://www.amazon.com/Minna-Nihongo-II-Main-Textbook/dp/4883196461" /> <Badge type="tip" text="Workbook" link="https://www.amazon.com/Nihongo-Shokyu-Workbook-Hyojun-Mondaishu/dp/4883196631/" />
 
+<br>
+
 #### N3
 - [Kanzen Master Grammar N3](https://www.amazon.com/Grammar-Japanese-Language-Proficiency-Complete/dp/4883196100)
 - [TRY! JLPT N3](https://www.amazon.com/Japanese-Language-Proficiency-Test-Revised/dp/4872179021)
+
+<br>
 
 #### N2
 - [Kanzen Master Grammar N2](https://www.amazon.com/Grammar-Japanese-Language-Proficiency-Nihongo/dp/4883195651)
 - [Try! JLPT N2](https://www.amazon.com/JAPANESE-LANGUAGE-PROFICIENCY-REVISED-JAPONAIS/dp/487217903X)
 - [Tobira: Gateway to Advanced Japanese](https://www.amazon.com/Tobira-Advanced-Japanese-Learning-Multimedia/dp/4874244475/)
+
+<br>
 
 #### N1
 - [Kanzen Master Grammar N1](https://www.amazon.com/Grammar-Japanese-Language-Proficiency-Nihongo/dp/4883195643)
@@ -270,9 +287,13 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 - [ToKini Andy](https://discord.gg/WP7zYHC)
 - [JPDB](https://discord.gg/jWwVD7D2sZ)
 
+<br>
+
 #### Reddit
 - [AJATT](https://old.reddit.com/r/ajatt/)
 - [LearnJapanese](https://old.reddit.com/r/LearnJapanese/)
+
+<br>
 
 #### Others
 - [Conversation Exchange](https://www.conversationexchange.com/)

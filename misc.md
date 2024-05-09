@@ -38,7 +38,7 @@ outline: 1
 - [MyFigureCollection](https://myfigurecollection.net/)
 - [MyAnimeShelf](https://myanimeshelf.com/)
 
-::: info Related resources
+::: details :material-symbols-subdirectory-arrow-right: Related resources
 - [Tracker apps for phone](/software.md#trackers)
 - [Tracker software for pc](/software.md#trackers-1)
 
@@ -183,7 +183,7 @@ outline: 1
 
 <Button icon="i-fxemoji-nooneunder18symbol">All listed sites have NSFW content unless specified otherwise</Button>
 
-::: info Related resources
+::: details :material-symbols-subdirectory-arrow-right: Related resources
 - [Illustration downloader](/software.md#image)
 - [Related Extensions](/tools.md#image-1) & [scripts](/tools.md#imageboards)
 - [NSFW-specific ones](/nsfw.md#illustrations)
@@ -467,10 +467,8 @@ outline: 1
 - [Unanimated](https://unanimated.github.io/guides.htm)
 - [Yukisubs](https://yukisubs.wordpress.com/guides/)
 - [Zeriyu's Fansub Guide](https://github.com/zeriyu/fansub-guide)
+- :material-symbols-subdirectory-arrow-right: [Fansubbing tools](/software.md#fansubbing)
 
-::: info Related resources
-- [Fansubbing tools](/software.md#fansubbing)
-:::
 
 
 ## Recommendations

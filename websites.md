@@ -133,7 +133,7 @@ outline: 1
 <Button link="/guides/irc" icon="i-octicon-command-palette-16">To learn how to use IRC, you can read the guide</Button>
 
 
-::: info Related resources
+::: details :material-symbols-subdirectory-arrow-right: Related resources
 - [Anime apps for Android](/software.md#anime-streaming) and [PC](/software.md#anime-streaming-2)
 - [Anime downloader for PC](/software.md#anime)
 - [Anime info sites](/misc.md#anime-1) and [tracking sites](/misc.md#general)
@@ -256,11 +256,10 @@ outline: 1
 - [xCaliBR Scans](https://xcalibrscans.com/)  <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/ynopo9s/cursed-xcalibr" />
 
 
-::: info Related resources
+::: details :material-symbols-subdirectory-arrow-right: Related resources
 - [Manga apps for Android](/software.md#manga-readers) and [PC](/software.md#manga-readers-2)
 - [Manga downloader for PC](/software.md#manga)
 - [Manga related tools](/software.md#manga-tools)
-
 :::
 
 
@@ -404,7 +403,7 @@ outline: 1
   - [ExoticaZ](https://exoticaz.to/) <Badge type="tip" icon="i-ic-outline-discord" text="Waitlist" link="https://discord.gg/pfmAegk8bD" />
   - [Empornium](https://www.empornium.is/)
 
-:::details Resources
+::: details :material-symbols-subdirectory-arrow-right: Related resources
 - [InstallGentoo Wiki](https://wiki.installgentoo.com/wiki/Private_trackers)
 - [Invite route graph](https://inviteroute.github.io/graph/)
 - [Redacted Interview Prep](https://interviewfor.red/en/index.html)

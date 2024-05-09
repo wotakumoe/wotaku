@@ -116,10 +116,9 @@ outline: [1,2]
   - [chaiNNer](https://github.com/chaiNNer-org/chaiNNer)
   - [Waifu2X](https://github.com/nagadomi/waifu2x) <Badge type="tip" text="caffe" link="https://github.com/lltcggie/waifu2x-caffe" /><Badge type="tip" text="ncnn Vulkan" link="https://github.com/nihui/waifu2x-ncnn-vulkan" /><Badge type="tip" text="Ext GUI" link="https://github.com/AaronFeng753/Waifu2x-Extension-GUI" /><Badge type="tip" text="nunif" link="https://github.com/nagadomi/nunif" />
 
-::: info Related resources
+::: details :material-symbols-subdirectory-arrow-right: Related resources
 - [Illustration sites](/misc.md#illustrations)
 - [Scanlation related tools](/scanlation#tools)
-
 :::
 
 

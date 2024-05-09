@@ -313,11 +313,8 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) :ic-baseline-window:
 - [mpvQC](https://github.com/mpvqc/mpvQC) :ic-baseline-window:
 - [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-
-::: info Related resources
-- [Fansubbing guide](/misc.md#fansubbing)
-:::
-
+- :material-symbols-subdirectory-arrow-right: [Fansubbing guide](/misc.md#fansubbing)
+- :material-symbols-subdirectory-arrow-right: [Fansubbing tools](/japan/software.md#subtitle)
 
 ## OCR / Translator
 - [Sugoi Translation Toolkit](https://blog.sugoitoolkit.com/)

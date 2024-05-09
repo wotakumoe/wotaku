@@ -315,7 +315,7 @@ outline: 1
 - [DeaDBeeF](https://deadbeef.sourceforge.io/) :mingcute-linux-fill:
 - [Elisa](https://apps.kde.org/elisa/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Foobar2000](https://www.foobar2000.org/) :glowing-star: :ic-baseline-window::ic-baseline-apple:
-  - :left-arrow-curving-right: [Foobar2000 add-ons](#foobar2000-add-ons)
+  - :material-symbols-subdirectory-arrow-right: [Foobar2000 add-ons](#foobar2000-add-ons)
 - [MusicBee](https://www.getmusicbee.com/) :ic-baseline-window:
 - [Strawberry](https://www.strawberrymusicplayer.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [WACUP](https://getwacup.com/) :ic-baseline-window:
@@ -376,7 +376,7 @@ outline: 1
 - [X Lossless Decoder](https://tmkk.undo.jp/xld/index_e.html) :ic-baseline-apple:
 - [Whipper](https://github.com/whipper-team/whipper) :mingcute-linux-fill:
 
-:::details **Must Read Guides** {open}
+::: details :material-symbols-subdirectory-arrow-right: Must Read Guides
 - [redacted Interview Prep](https://interviewfor.red/en/index.html)
 - [Sharky's Guide](https://docs.google.com/document/d/1Poj4p2W0C0Napmwd7bcustlgWrkgp71dy9HlZwUr46w/edit)
   - [Exact Audio Copy: A Guide to Perfect CD Rips](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg)
