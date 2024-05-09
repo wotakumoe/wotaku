@@ -295,6 +295,12 @@ outline: 1
   - [Spotify++](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9hcHBkYi50by9hcHAvY3lkaWEvMTkwMDAwMDU0MA) :ic-baseline-apple:
 - [Apple Music](https://apps.apple.com/us/app/apple-music/id1108187390) :ic-baseline-apple:
 
+### Audiobook
+- [Voice](https://github.com/PaulWoitaschek/Voice) :mdi-android:
+- [mAbook Audiobook Player](https://play.google.com/store/apps/details?id=mindmine.audiobook) :mdi-android: <Badge type="warning" text="Freemium" />
+- [Smart AudioBook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer) :mdi-android: <Badge type="warning" text="Freemium" />
+- [Sirin Audiobook Player](https://play.google.com/store/apps/details?id=com.sirin.android) :mdi-android: <Badge type="warning" text="Freemium" />
+
 ## Tools
 - [Audile](https://github.com/aleksey-saenko/MusicRecognizer) :mdi-android:
 - [Audire](https://github.com/alexmercerind/audire) :simple-icons-shazam::mdi-android:

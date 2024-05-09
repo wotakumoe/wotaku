@@ -178,8 +178,6 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 ## Novel Readers
 
-- [Kavita](https://www.kavitareader.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/Kareadita/Kavita" />
-- [Komga](https://komga.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/gotson/komga" />
 - [Calibre](https://calibre-ebook.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/kovidgoyal/calibre" />
 - [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) :ic-baseline-window: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/sumatrapdfreader/sumatrapdf" />
 - [Koodo Reader](https://www.koodoreader.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/koodo-reader/koodo-reader" />
@@ -306,6 +304,9 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
   - [Kavita](https://www.kavitareader.com/)
   - [Calibre-Web](https://github.com/janeczku/calibre-web)
   - [Librium](https://librumreader.com/)
+- **Audiobook**
+  - [audiobookshelf](https://www.audiobookshelf.org/)
+  - [Booksonic](https://booksonic.org/)
 
 
 ## Fansubbing

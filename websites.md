@@ -312,6 +312,7 @@ outline: 1
 - [PZG](https://nyaa.si/user/Phantom132)
 - [Stick](https://nyaa.si/user/dumbboy58)
 - [AudioBook Bay](https://audiobookbay.is/)
+- :material-symbols-subdirectory-arrow-right: [Audiobook player for phone](/music.md#audiobook)
 
 
 
