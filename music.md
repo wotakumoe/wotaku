@@ -115,6 +115,12 @@ outline: 1
 ![](/music/radio.png)
 # Radio
 
+## General
+- [asia DREAM radio](https://asiadreamradio.torontocast.stream/stations/en/index.html) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://asiadreamradio.torontocast.stream/stations/newstream.html" />
+- [J1 Radio](https://www.j1fm.tokyo/player/j1hits/) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://www.j1fm.tokyo/listen/" />
+- [Patchwork Radio](https://patchwork.moekyun.me/radio) :glowing-star: <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://a4.asurahosting.com/public/patchworkarchive/playlist.m3u" /> <Badge type="info" text="VTuber" />
+- [Sasalele Music Station](https://github.com/Mikeexe2/Sasalele-Music-Station) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/Mikeexe2/Sasalele-Music-Station" /> <Badge type="info" text="Compilation" />
+
 ## Anime
 - [Anison.fm](https://en.anison.fm/) :glowing-star: <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="https://anison.fm/anison.m3u" /> :flag-russia:
 - [Yggdrasil Radio](https://yggdrasilradio.com/) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://yggdrasilradio.net/yggdrasilradio_mp3_128kbps.pls" />
@@ -122,7 +128,6 @@ outline: 1
 - [Anime(bits)](https://radio.animebits.moe/) <Badge type="info" icon="i-material-symbols-download-2" text="FLAC" link="https://radio.animebits.moe/m3u/stream192.mp3.m3u" />
 - [Listen.moe](https://listen.moe/) <Badge type="info" text="128kbps" icon="i-material-symbols-download-2" link="https://listen.moe/m3u8/jpop.m3u" />
 - [chiru.no](https://chiru.no/) <Badge type="info" icon="i-material-symbols-download-2" text="FLAC" link="https://chiru.no/?chiru.no.m3u" />
-- [Sasalele Music Station](https://github.com/Mikeexe2/Sasalele-Music-Station) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/Mikeexe2/Sasalele-Music-Station" /> <Badge type="tip" text="Compilation" />
 - [JPopSuki](http://jpopsuki.fm/) <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="http://jpopsuki.fm:2199/tunein/jpopsuki-stream.pls" />
 - [Stereo Anime](https://www.stereoanime.net/) <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="http://yp.shoutcast.com/sbin/tunein-station.m3u?id=99543276" /> :flag-spain:
 - [AnimeRadio.de](https://www.animeradio.de/) <tooltip>Stream URL (192kbps) : https://stream.animeradio.de/animeradio.mp3</tooltip> :flag-germany:
@@ -132,19 +137,16 @@ outline: 1
 ## Doujin & Vocaloid
 
 - [Doujin Style](https://embed.radio.co/player/735ee7b.html) <Badge type="tip" icon="i-material-symbols-download-2" text="192kbps" link="https://streams.radio.co/s5ff57669c/listen.m3u" />
-- [Gensokyo Radio](https://gensokyoradio.net/playing/) <Badge type="tip" icon="i-material-symbols-download-2" text="256kbps" link="https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u" /><Badge type="tip" text="Touhou" />
-- [Phate](https://phate.io/) <Badge type="tip" icon="i-material-symbols-download-2" text="192kbps" link="https://phate.io/phate.m3u" /><Badge type="tip" text="Utaite" />
+- [Gensokyo Radio](https://gensokyoradio.net/playing/) <Badge type="tip" icon="i-material-symbols-download-2" text="256kbps" link="https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u" /><Badge type="info" text="Touhou" />
+- [Phate](https://phate.io/) <Badge type="tip" icon="i-material-symbols-download-2" text="192kbps" link="https://phate.io/phate.m3u" /><Badge type="info" text="Utaite" />
 - [Vocaloid Radio VRX](https://vrx.piro.moe/) <Badge type="tip" icon="i-material-symbols-download-2" text="256kbps" link="https://vrx.piro.moe/stream-256.m3u" />
-- [Vocaloid Radio](https://vocaloidradio.com/) <Badge type="tip" text="General" /><tooltip>Stream URL (192kbps) : https://vocaloid.radioca.st/stream</tooltip>
+- [Vocaloid Radio](https://vocaloidradio.com/) <Badge type="info" text="General" /><tooltip>Stream URL (192kbps) : https://vocaloid.radioca.st/stream</tooltip>
 
-## Others
-
-- **Games**
+## Games
   - [SquidRadio](https://www.squid-radio.net/)
   - [Rainwave VGM Radio](https://rainwave.cc/all/)
   - [muki](https://muki.io/)
-- **Misc**
-  - [Patchwork Radio](https://patchwork.moekyun.me/radio) :glowing-star: <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://a4.asurahosting.com/public/patchworkarchive/playlist.m3u" /> <Badge type="tip" text="VTuber" />
+
 
 
 ![](/music/mus.png)
