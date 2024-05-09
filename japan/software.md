@@ -171,9 +171,10 @@ outline: [2,3]
 
 ### Tools
 
-#### Dictionary
+#### Dictionary / Word Lookup
 - [GoldenDict-NG](https://xiaoyifang.github.io/goldendict-ng/)  <Badge type="tip" text="Guide" link="https://tatsumoto.neocities.org/blog/setting-up-goldendict" /><Badge type="tip" text="Tools" link="https://github.com/Ajatt-Tools/gd-tools" />
 - [Kamite](https://github.com/fauu/Kamite)
+- [japReader](https://github.com/marisukukise/japReader)
 - [JL](https://github.com/rampaa/JL)
 
 #### Subtitle
