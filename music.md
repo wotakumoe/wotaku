@@ -158,6 +158,7 @@ outline: 1
 - [Cover Search Engine](https://covers.musichoarders.xyz/) :glowing-star:
 - [Instafest](https://www.instafest.app/)
 - [Jukebox](https://jukebox.today/)
+- [Metadata Lookup Engine](https://seed.musichoarders.xyz/)
 - [Songle](https://songle.jp/) <Badge text="Vocaloid"/>
 - [Songlink](https://odesli.co/)
 - [Soundiiz](https://soundiiz.com/) <Badge text="Transfer"/>
@@ -281,8 +282,9 @@ outline: 1
 
 ### Local
 - [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player) :mdi-android:
-- [Apple Music](https://apps.apple.com/us/app/apple-music/id1108187390) :ic-baseline-apple:
+- [Flacbox](https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256) :ic-baseline-apple:
 - [Oto Music Player](https://play.google.com/store/apps/details?id=com.piyush.music) :mdi-android:
+- [Musicolet Music Player](https://play.google.com/store/apps/details?id=in.krosbits.musicolet)
 - [Poweramp](https://powerampapp.com/) :glowing-star: <Badge type="warning" text="Paid" /> <Badge type="warning" text="Mod" link="https://links.gamesdrive.net/#/link/aHR0cHM6Ly93d3cucm9ja21vZHMubmV0LzIwMTgvMDYvcGFtcC5odG1s.ZHVjaw" /> :mdi-android:
 - [USB Audio Player PRO](https://play.google.com/store/apps/details?id=com.extreamsd.usbaudioplayerpro&hl=en&gl=US) <Badge type="warning" text="Paid" /> :mdi-android:
 
@@ -333,6 +335,7 @@ outline: 1
 ### Online
 - [Spicetify](https://spicetify.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [SPOTX](https://github.com/SpotX-Official/SpotX) :ic-baseline-window:
+- [spmp](https://github.com/toasterofbread/spmp) :ic-baseline-window::mingcute-linux-fill:
 - [Youtube Music](https://github.com/th-ch/youtube-music) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
 
