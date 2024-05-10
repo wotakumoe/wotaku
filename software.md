@@ -227,9 +227,10 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
   - [Plex to AniList Sync](https://github.com/RickDB/PlexAniSync)
   - [PlexAniSync-Mappings](https://github.com/mizz141/PlexAniSync-Mappings)
   - [Maintainerr](https://github.com/jorenn92/Maintainerr)
+- [Seanime](https://seanime.rahim.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/5rahim/seanime" />
 - [**Shoko Anime**](https://shokoanime.com/)
   - [Shokofin](https://github.com/ShokoAnime/Shokofin)
-- [Sushi.net](https://github.com/maxpiva/Sushi.Net) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Sushi.net](https://github.com/maxpiva/Sushi.Net)
 
 :::details Arr tools
 ### Media Automation
