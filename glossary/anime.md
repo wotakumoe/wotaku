@@ -84,7 +84,9 @@ The number of pixels contained in each frame, a higher value means improved qual
 ### Video Codec
 The encoding process for the video file. The most popular encoders today are **x264** (AVC) and **x265** (HEVC), with the latter being newer and able to achieve higher compression rates with less quality loss.
 
-<Button link="https://wiki.x266.mov/docs/introduction/prologue" icon="i-fxemoji-lightbulb">To learn more about encoding, visit Codec Wiki</Button>
+::: info To learn more about encoding, visit [**Codec Wiki**](https://wiki.x266.mov/docs/introduction/prologue).
+:::
+
 
 ### Audio Format
 Used in the encoding process for encoding audio, divided into lossless and lossy formats.

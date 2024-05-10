@@ -47,7 +47,8 @@ customDescription: Discover websites, software, and essentials for anime, manga,
   - [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) :glowing-star:
 - [Quicknovel](https://github.com/LagradOst/QuickNovel)
 
-<Button link="https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo" icon="i-fxemoji-lightbulb">By default, Mihon or other tachiyomi forks won't have any extensions. You have to sideload them</Button>
+::: info By default, Mihon or other tachiyomi forks won't have any extensions. You have to [**sideload them**](https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo).
+:::
 
 ### iOS
 - **Manga**
@@ -57,14 +58,18 @@ customDescription: Discover websites, software, and essentials for anime, manga,
   - [Chouten beta](https://testflight.apple.com/join/Cg1rAPB8) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/GJGMJRPJ5j" />
   - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 
-> **duck note:** iOS app development whack. so, shit can break any time.
+
+::: info **duck note:** iOS app development whack. so, shit can break any time.
+:::
 
 ### PC
 - **Manga**
   - [Houdoku](https://github.com/xgi/houdoku) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+  - [CDisplayEx](https://www.cdisplayex.com/) :ic-baseline-window:
   - [OpenComic](https://github.com/ollm/OpenComic) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - **Anime**
-  - [Miru](https://github.com/ThaUnknown/miru/)
+  - [Miru](https://github.com/ThaUnknown/miru/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" />
+  - [Anikki](https://github.com/Kylart/Anikki) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
 - **Downloader**
   - [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2)
   - [Hakuneko](https://github.com/manga-download/hakuneko)
@@ -114,8 +119,8 @@ customDescription: Discover websites, software, and essentials for anime, manga,
 
 ## 4chan
 
-<Button icon="i-fxemoji-warningsign">Only use this if you know what you're getting yourselves into</Button>
-
+::: warning Only use this if you know what you're getting yourselves into.
+:::
 
 ### Websites
 - [4Chan](https://4chan.org/) <Badge type="tip" text="Mobile" link="https://p.4chan.org/" />

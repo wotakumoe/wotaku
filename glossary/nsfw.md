@@ -41,4 +41,6 @@ customDescription: Why not learn some words while reading or watching? Can help 
 | Yuri (GL) | Meaning “Girls’ Love”, a term for girl on girl lesbian hentai |
 | Zettai Ryouiki | A term for the area of bare skin between ones over-knee socks or stockings and ones miniskirt, skirt, dress or shorts |
 
-<Button link="https://www.youtube.com/playlist?list=PLyD77dL4TECbsBqjxtaK9Q0wuncOuku3b" icon="i-fxemoji-lightbulb">Zone-tan's Ecchication series for further research.</Button>
+
+::: info [Zone-tan's Ecchication series](https://www.youtube.com/playlist?list=PLyD77dL4TECbsBqjxtaK9Q0wuncOuku3) for further research.
+:::

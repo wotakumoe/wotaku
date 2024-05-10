@@ -63,7 +63,9 @@ By default, Revolution IRC doesn't list any networks, so you will need to add Ri
 
 3. Copy and paste the confirmation code into the following command: `/msg NickServ CONFIRM ConfirmationCodeFromEmail`
 
->If the confirmation code above was copied correctly and still gives you an error, just type it out by hand. Copying seems to break it in some cases.
+::: info If the confirmation code above was copied correctly and still gives you an error, just type it out by hand. Copying seems to break it in some cases.
+:::
+
 
 Now, your nickname is registered, and you've automatically been identified. You are eligible to join Madokami.
 Upon your next visit to Rizon IRC network, use the same nickname, and identify using the following command: `/msg NickServ IDENTIFY yourPassword`
@@ -145,11 +147,13 @@ By default, FMD2 will save it as folder. Go to `Options > Save to > Save downloa
 
 :::
 
->FMD2 can't download 3 files at a time. For that use **JDL2**.
+::: info FMD2 can't download 3 files at a time. For that use **JDL2**.
+:::
+
 
 ### JDL2
 
-1. Download and install JDL2 from [**here**](https://rentry.org/jdownloader2)
+1. Download and install JDL2 from [**here**](/guides/misc.md#jdownloader-ad-removal)
 2. Go to `Settings > Basic Authentication` and click the **Add** button at the bottom
 3. Now add the details
     - Server type: `http://`

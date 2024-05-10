@@ -95,10 +95,13 @@ outline: 1
 - [Kimochi](https://kimochi.info)
 - [Ryuu games](https://www.ryuugames.com/)
 
-<Button icon="i-fxemoji-lightbulb">Try searching with Japanese titles or DLSite product ID on Sukebei.</Button>
 
+::: info Try searching with Japanese titles or DLSite product ID on Sukebei.
+:::
 
-<Button link="/glossary/nsfw" icon="i-fluent-emoji-open-book">Not sure what the Japanese term means when browsing? Check out the nsfw glossary</Button>
+::: info Not sure what the Japanese term means when browsing? Check out the [**nsfw glossary**](/glossary/nsfw)
+:::
+
 
 ![](/banner/software.png)
 # Software

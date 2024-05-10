@@ -284,6 +284,8 @@ Unexpectedly, a young boy named Soujuurou Shizuki is drawn to the mansion and co
 44. [Tsuki no Sango](https://anilist.co/manga/71957/Tsuki-no-Sango/)
 
 
-<Button link="https://typemoon.fandom.com/wiki/TYPE-MOON_Wiki" icon="i-fxemoji-lightbulb">Check Type-Moon fandom for manga and ln/novel info and everything related to Type-Moon.</Button>
+::: info Check [**Type-Moon fandom**](https://typemoon.fandom.com/wiki/TYPE-MOON_Wiki) for manga and ln/novel info and everything related to Type-Moon.
+:::
 
-<Button link="https://discord.com/invite/fate" icon="i-ic-round-discord">Explore the Fate and Type-Moon universe alongside fellow fans in their Discord server!</Button>
+::: info Explore the Fate and Type-Moon universe alongside fellow fans in their [**Discord server**](https://discord.com/invite/fate)!
+:::

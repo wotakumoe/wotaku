@@ -120,4 +120,5 @@ outline: 1
 - [Monochrome](https://github.com/MonochromeCMS/monochrome)
 - [ScanFolders](https://github.com/Fris44/ScanFolders)
 
-<Button link="https://rutracker.org/forum/index.php" icon="i-fxemoji-lightbulb">Use RuTracker to download crack</Button>
+::: info Use [**RuTracker**](https://rutracker.org/forum/index.php) to download crack
+:::

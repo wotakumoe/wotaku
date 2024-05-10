@@ -447,7 +447,9 @@ outline: 1
   - [Tappytoon](https://www.tappytoon.com/en/comics/home)
   - [Webtoons](https://www.webtoons.com/en/)
 
-<Button link="/guides/digim" icon="i-fxemoji-lightbulb">Websites for volume releases are added here</Button>
+
+::: info Websites for volume releases are [**added here**](/guides/digim)
+:::
 
 ## Novel
 

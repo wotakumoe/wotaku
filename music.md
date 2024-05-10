@@ -361,7 +361,10 @@ outline: 1
 - [Spotify AAC Downloader](https://github.com/glomatico/spotify-aac-downloader)
 - [ZSpotify](https://github.com/jsavargas/zspotify) <Badge type="tip" text="GUI" link="https://github.com/PacketSurf/ZSpotifyGUI" />
 
-<Button link="https://rentry.org/firehawk52" icon="i-fxemoji-lightbulb">Firehawk's Guide for Premium Access</Button>
+
+::: info You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Premium ARL.
+:::
+
 
 ## Browser
 

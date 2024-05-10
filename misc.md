@@ -180,8 +180,8 @@ outline: 1
 - [wanderer.moe](https://wanderer.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/wanderer-moe/site" />
 - [:four-leaf-clover:/w/](http://catalog.neet.tv/w/) <Badge type="danger" icon="i-fxemoji-skull" text="NSFL" />
 
-
-<Button icon="i-fxemoji-nooneunder18symbol">All listed sites have NSFW content unless specified otherwise</Button>
+::: danger All listed sites have NSFW content unless specified otherwise.
+:::
 
 ::: details :material-symbols-subdirectory-arrow-right: Related resources
 - [Illustration downloader](/software.md#image)

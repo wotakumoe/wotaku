@@ -20,7 +20,9 @@ outline: 2
 - [Moriya Shrine](https://moriyashrine.org/) <Badge type="info" text="Touhou" />
 - [Doujin Style](https://doujinstyle.com/) <Badge type="info" text="Doujin" />
 
-<Button link="https://rentry.org/pgames#untrusted-sites" icon="i-fxemoji-noentrysign"> List of Untrusted Game Downloading Websites</Button>
+
+::: danger [**Click here to get the list**](https://rentry.org/pgames#untrusted-sites) of Untrusted Game Downloading Websites.
+:::
 
 ## ROM
 
@@ -40,9 +42,8 @@ outline: 2
 - [Ziperto](https://www.ziperto.com/) :simple-icons-nintendoswitch:
 
 
-<Button link="https://emulation.gametechwiki.com/index.php/Main_Page" icon="i-octicon-codespaces-24 ">For emulation, check Emulation General Wiki</Button>
-
-
+::: info For emulation, check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page).
+:::
 
 ## Info
 
