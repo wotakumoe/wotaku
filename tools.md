@@ -84,7 +84,7 @@ outline: [1,2]
 ### General
 
 - **Direct**
-  - [Internet Download Manager](https://www.internetdownloadmanager.com/) :ic-baseline-window:
+  - [Internet Download Manager](https://www.internetdownloadmanager.com/) :ic-baseline-window: <Badge text="Guide" link="https://rentry.org/installidm" />
   - [JDownloader](https://jdownloader.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge text="Debloat" link="/guides/misc#jdownloader-ad-removal" />
   - [Free Download Manager](https://www.freedownloadmanager.org/)
   - [Xtreme Download Manager](https://xtremedownloadmanager.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
