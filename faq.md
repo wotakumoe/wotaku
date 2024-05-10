@@ -212,7 +212,7 @@ For android, there is also [mpv-android](https://github.com/mpv-android/mpv-andr
 :::details What's the best source for anime songs / OST?
 - [**Nyaa**](https://nyaa.si/) generally has a good amount of them. They upload both Digital-Rip & CD-Rip. 
 - [**Sitting on Clouds**](https://www.sittingonclouds.net/), [SquidBoard](https://www.squid-board.org/) & [**Sukidesu OST**](https://sukidesuost.info/) upload ripped music from hi-res sources.
-- Anime songs are uploaded on legal music streaming services. You can rip from these services using [:simple-icons-revoltdotchat: **yet another music server**](https://yetanothermusicserver.top/invite/AaWeY6kV) & [**DoubleDouble**](https://doubledouble.top/),  which can rip multiple hi-res sources.
+- Anime songs are uploaded on legal music streaming services. You can rip from these services using [:simple-icons-revoltdotchat: **yet another music server**](https://yetanothermusicserver.top/invite/AaWeY6kV), [Squid.wtf](https://squid.wtf/) <Badge text="DDL" /> & [**DoubleDouble**](https://doubledouble.top/),  which can rip multiple hi-res sources.
 - You can also check out [**Nicotine+**](https://nicotine-plus.org/), a [**Soulseek**](https://www.slsknet.org/) client. People share their downloaded/own rips here. It uses P2P to transfer files, so a VPN is recommended.
 - You can find more sources [**here**](/websites.md#music). If you want more ripping tools, you can check out more ripping tools in [others section](/music.md#downloader).
 :::
