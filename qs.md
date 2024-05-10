@@ -2,35 +2,34 @@
 title: Quick Start
 description: Bitsized Wotaku!
 customDescription: Discover websites, software, and essentials for anime, manga, music, and more. Get started with these curated resources for otaku enthusiasts.
-outline: 1
 ---
 
 <GradientCard title="クイックスタート" tag="Quick Start" description="The basic things to get you started." theme="turquoise"/>
 
 ![](/banner/sites.png)
 
-# Websites
+## Websites
 
-## Anime
+### Anime
 
 - [Aniwave](https://aniwave.to/home) <Badge type="info" text="Lite" link="https://lite.aniwave.to/home" /><Badge type="info" text="Alt" link="https://anix.to/home" /><Badge type="info" text="Proxies" link="https://aniwave.tv/" />
 - [KickAssAnime](https://kickassanime.am/)
 - [Tokyo Insider](https://www.tokyoinsider.com/) <Badge text="DDL" />
 
-## Manga
+### Manga
 
 - [Comick](https://comick.io/home) <Badge type="tip" text="RSS" icon="i-material-symbols-rss-feed-rounded" link="https://manga.ldez.workers.dev/" />
 - [Mangadex](https://mangadex.org/)
 - [Mangasee](https://mangasee123.com/) <Badge type="tip" text="Alt" link="https://atsu.moe/" />
 
-## Music
+### Music
 
 - [Nyaa](https://nyaa.si/) <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.mom/" /><Badge type="info" text="Torrent" />
 - [Sitting on Clouds](https://www.sittingonclouds.net/) <Badge text="DDL" />
 - [OKAMIMI OST](https://okamimiost.com/) <Badge text="DDL" />
 - [Anithemes.moe](https://animethemes.moe/) <Badge text="stream" />
 
-## Torrent
+### Torrent
 
 - [Nyaa](https://nyaa.si/) <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.mom/" />
 - [Anime Tosho](https://animetosho.org/)
@@ -38,28 +37,37 @@ outline: 1
 
 ![](/banner/software.png)
 
-# Software
+## Software
 
-## Android
-
-- [Mihon](https://github.com/mihonapp/mihon) <Badge type="tip" text="Extensions" link="https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo" /><Badge type="tip" text="J2K" link="https://github.com/Jays2Kings/tachiyomiJ2K" /><Badge type="tip" text="SY" link="https://github.com/jobobby04/TachiyomiSY" />
-- [Aniyomi](https://github.com/aniyomiorg/aniyomi) <Badge text="Anime" /> <Badge text="Manga" /><Badge type="tip" text="Animiru" link="https://github.com/Quickdesh/Animiru" />
-- [Quicknovel](https://github.com/LagradOst/QuickNovel) <Badge text="LN" />
+### Android
+- [Mihon](https://github.com/mihonapp/mihon) <Badge type="tip" text="Extensions" link="https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo" />
+  - [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) :glowing-star:
+  - [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY)
+- [Aniyomi](https://github.com/aniyomiorg/aniyomi)
+  - [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) :glowing-star:
+- [Quicknovel](https://github.com/LagradOst/QuickNovel)
 
 <Button link="https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo" icon="i-fxemoji-lightbulb">By default, Mihon or other tachiyomi forks won't have any extensions. You have to sideload them</Button>
 
-## iOS
+### iOS
+- **Manga**
+  - [Aidoku](https://github.com/Aidoku/Aidoku)
+  - [Paperback](https://github.com/Paperback-iOS/app)
+- **Anime**
+  - [Chouten beta](https://testflight.apple.com/join/Cg1rAPB8) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/GJGMJRPJ5j" />
+  - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 
-- [Aidoku](https://github.com/Aidoku/Aidoku) <Badge text="Manga" />
-- [Paperback](https://github.com/Paperback-iOS/app) <Badge text="Manga" />
+> **duck note:** iOS app development whack. so, shit can break any time.
 
-## PC
-
-- [Houdoku](https://github.com/xgi/houdoku) <Badge text="Manga" />
-- [MComix](https://sourceforge.net/projects/mcomix/files/) <Badge text="Manga" />
-- [Miru](https://github.com/ThaUnknown/miru/) <Badge text="Anime" />
-- [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) <Badge text="Downloader" /> <Badge  text="Manga" />
-- [Hakuneko](https://github.com/manga-download/hakuneko) <Badge text="Downloader" /> <Badge text="Anime" /> <Badge  text="Manga" />
+### PC
+- **Manga**
+  - [Houdoku](https://github.com/xgi/houdoku) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+  - [OpenComic](https://github.com/ollm/OpenComic) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- **Anime**
+  - [Miru](https://github.com/ThaUnknown/miru/)
+- **Downloader**
+  - [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2)
+  - [Hakuneko](https://github.com/manga-download/hakuneko)
 
 ![](/banner/essentails.png)
 
@@ -67,10 +75,11 @@ outline: 1
 
 ## Adblocker
 
+- [uBlock Origin](https://ublockorigin.com/) :mdi-firefox::mingcute-chrome-fill:
+- [Adguard](https://adguard.com/en/welcome.html) :mdi-android::ic-baseline-window::ic-baseline-apple::mdi-firefox::mingcute-chrome-fill:
 - [Adaway](https://adaway.org/) :mdi-android:
 - [RethinkDNS](https://rethinkdns.com/) :mdi-android::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [NextDNS](https://nextdns.io/) :mdi-android::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [uBlock Origin](https://ublockorigin.com/) :mdi-firefox::mingcute-chrome-fill:
 
 ## Browsers
 
@@ -82,39 +91,38 @@ outline: 1
 
 ## Downloader
 
+### Direct
 - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) :mdi-android:
-- [IDM](https://www.internetdownloadmanager.com/) <Badge text="Guide" link="https://rentry.org/installidm" /> :ic-baseline-window:
-- [JDL](https://jdownloader.org/) <Badge text="Debloat" link="/guides/misc#jdownloader-ad-removal" /> :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Free Download Manager](https://www.freedownloadmanager.org/)
-- [Nicotine+](https://nicotine-plus.org/) <Badge text="p2p" />:ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <tooltip>Direct peer-to-peer sharing network, primarily used for music</tooltip>
+- [Internet Download Manager](https://www.internetdownloadmanager.com/) <Badge text="Install Guide" link="https://rentry.org/installidm" /> :ic-baseline-window:
+- [JDownloader 2](https://jdownloader.org/) <Badge text="Debloat" link="/guides/misc#jdownloader-ad-removal" /> :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Free Download Manager](https://www.freedownloadmanager.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
-## Torrent
 
+### Torrent / p2p
 - [libretorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) :mdi-android:
 - [qBittorrent](https://www.qbittorrent.org/) <Badge text="Enhanced" link="https://github.com/c0re100/qBittorrent-Enhanced-Edition" /> <Badge text="Dark theme" link="https://github.com/maboroshin/qBittorrentDarktheme" /> :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Transmission](https://transmissionbt.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Nicotine+](https://nicotine-plus.org/) <Badge text="p2p" />:ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <tooltip>Direct peer-to-peer sharing network, primarily used for music</tooltip>
 
-## VPN
-
-- [Mullvad](https://mullvad.net/) <Badge text="Paid" />
+### VPN
 - [IVPN](https://www.ivpn.net/) <Badge text="Paid" />
+- [Proton VPN](https://protonvpn.com/) <Badge text="Paid" />
+- [Mullvad](https://mullvad.net/) <Badge text="Paid" />
 - [Windscribe](https://windscribe.com/) <Badge text="Freemium" />
 
 ![](/banner/4ch.png)
 
-# 4chan
-
-<br>
+## 4chan
 
 <Button icon="i-fxemoji-warningsign">Only use this if you know what you're getting yourselves into</Button>
 
 
-## Websites
+### Websites
 - [4Chan](https://4chan.org/) <Badge type="tip" text="Mobile" link="https://p.4chan.org/" />
 - [Anychans](https://anychans.github.io/4chan/) :mdi-desktop-mac:
 - [Luckychan](https://luckychan.app/) :mdi-cellphone-iphone:
 
-## Boards
+### Boards
 - [:four-leaf-clover:/a/ - Anime & Manga](https://boards.4channel.org/a/)
 - [:four-leaf-clover:/c/ - Anime/Cute](https://boards.4channel.org/c/)
 - [:four-leaf-clover:/cgl/ - Cosplay & EGL](https://boards.4channel.org/cgl/)
@@ -126,18 +134,19 @@ outline: 1
 - [:four-leaf-clover:/vt/ - Virtual YouTubers](https://boards.4channel.org/vt/)
 - [:four-leaf-clover:/w/ - Anime/Wallpapers](https://boards.4channel.org/w/)
 
-## Archive
+### Archive
 - [Desuarchive](https://desuarchive.org/)
 - [Archived.Moe](https://archived.moe/)
 - [Fuuka](https://warosu.org/)
 
-## Others
-### Clients
+### Others
+
+#### Clients
 - [KurobaEx](https://github.com/K1rakishou/Kuroba-Experimental/) :mdi-android:
 - [Read Chan](https://play.google.com/store/apps/details?id=com.deezus.pchan) :mdi-android:
 - [TUI-Chan](https://github.com/tuqqu/tui-chan) :ic-baseline-window:
 
-### Extension / Script
+#### Extension / Script
 - [4chan X](https://github.com/ccd0/4chan-x) :mingcute-chrome-fill::mdi-language-javascript:
     - [OneeChan](https://github.com/KevinParnell/OneeChan) :mdi-language-javascript:
     - [StyleChan](https://github.com/3nly/StyleChan) :mdi-language-javascript:
