@@ -31,7 +31,7 @@ Connect to **Rizon IRC network**.
 
 ![](/ss/mado/cnnctrzn.png)
 
-:::details For Revolution IRC {open}
+:::details For Revolution IRC
 
 ![](/ss/mado/rirc.png)
 
@@ -50,7 +50,7 @@ By default, Revolution IRC doesn't list any networks, so you will need to add Ri
 
 ### Step 2
 
-:::danger ⚠️ **Important**
+::: warning Important
 - Use a real e-mail address. Temporary and throw-away e-mail addresses are not acceptable.
 - Check spam/junk folder too, if you don't see any reply in the inbox.
 - Make sure that your password is longer than 5 characters
@@ -63,9 +63,6 @@ By default, Revolution IRC doesn't list any networks, so you will need to add Ri
 
 3. Copy and paste the confirmation code into the following command: `/msg NickServ CONFIRM ConfirmationCodeFromEmail`
 
-::: info If the confirmation code above was copied correctly and still gives you an error, just type it out by hand. Copying seems to break it in some cases.
-:::
-
 
 Now, your nickname is registered, and you've automatically been identified. You are eligible to join Madokami.
 Upon your next visit to Rizon IRC network, use the same nickname, and identify using the following command: `/msg NickServ IDENTIFY yourPassword`
@@ -75,19 +72,20 @@ Upon your next visit to Rizon IRC network, use the same nickname, and identify u
 1. Type `/join #madokami` at the bottom command bar to join Madokami channel.
 2. Now type `/msg sola REGISTER username password` in the Madokami channel. You shouldn't reuse the RIZON password here.
 
-You will now see **Sola** at the left sidebar.
-
 ![](/ss/mado/madohome.png)
 
-- If you are lucky, sola will say "**ok enjoy ur account**"
-- If unlucky, sola will say "**you are not favored, try again later**"
+
+If everything worked, you will now see a **sola** tab on the left (or at the top on Android). Clicking on it, you will find the bot's reply. If it says that you aren't favored, you can try again after about **4 hours**.
+
 
 ![](/ss/mado/gacha.gif)
 
-Repeat this step until you get an account, the cooldown should be 4 hours.
+
+::: info In case you followed this guide perfectly, but still aren't getting a reply from sola in the side tab, try picking a different nick in the command. It could be that the current one was already registered by someone else, thereby causing a conflict.
+:::
 
 
-:::details 💡Auto-join Madokami Channel {open}
+:::details Auto-join Madokami Channel
 You can also set up your client to do this automatically by adding it to the **Connect/Autorun commands** for the Rizon network.
 #### Hexchat
 1. Press `Ctrl + S` to open Network List & select **Rizon** in the network list
@@ -115,7 +113,7 @@ You can also set up your client to do this automatically by adding it to the **C
 
 ## Downloading Files
 
-### FMD2
+### Free Manga Downloader 2
 
 1. Download and install FMD2 from [**here**](https://github.com/dazedcat19/FMD2)
 2. Update all the modules and restart FMD2 after the update is complete. You can check the update process in `Options > Websites > Modules`
@@ -151,7 +149,7 @@ By default, FMD2 will save it as folder. Go to `Options > Save to > Save downloa
 :::
 
 
-### JDL2
+### JDownloader 2
 
 1. Download and install JDL2 from [**here**](/guides/misc.md#jdownloader-ad-removal)
 2. Go to `Settings > Basic Authentication` and click the **Add** button at the bottom
@@ -166,7 +164,7 @@ By default, FMD2 will save it as folder. Go to `Options > Save to > Save downloa
 5. Now select the cbz files and right click. Then press **Start Downloads**
 
 
-### Tachiyomi
+### Tachiyomi forks
 
 1. Add [Keiyoushi repo](https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo) in your tachiyomi forks
 2. Go to extension list and search **Madokami**.
