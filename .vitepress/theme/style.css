@@ -117,6 +117,7 @@
   font-weight: 600;
 }
 
+/*
 .VPNavBarTitle .title:after {
   content: "";
   margin-left: 2px;
@@ -167,6 +168,8 @@
       background-position: -96px -96px;
   }
 }
+
+*/
 
 .medium-zoom-overlay {
   background-color: var(--vp-c-bg) !important;
