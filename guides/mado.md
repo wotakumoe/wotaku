@@ -159,9 +159,14 @@ By default, FMD2 will save it as folder. Go to `Options > Save to > Save downloa
     - Username: [Your Madokami Username]
     - Password: [Your Madokami Password]
     - :warning: Enable **Always** checkmark (at the last column) to avoid errors while scraping files in **Link grabber**
-4. Now go to **Link grabber** and paste the folder url. It will scrape the manga files.
-    - It may scrape corrupted/unavailable cbz files with websites path in the name. Sort the files on name basis and ignore those.
-5. Now select the cbz files and right click. Then press **Start Downloads**
+4. Now go to **Link grabber** and paste the folder url. It will scrape the manga files. It may scrape non-cbz files with websites path in the name. Sort the files on name basis and ignore those. Move the cbz files to a new package.
+5. Change the download settings to
+   - Max. Chunks per Download: **1**
+   - Max. simultaneous Downloads: **3**
+6. Now select the cbz files and right click. Then press **Start Downloads**
+
+
+<div class="video_wrapper"><iframe src="https://youtube.com/embed/Ar2ZMXjMRDQ" frameborder="0" allowfullscreen></iframe></div>
 
 
 ### Tachiyomi forks
@@ -171,4 +176,3 @@ By default, FMD2 will save it as folder. Go to `Options > Save to > Save downloa
 3. Install the extension and go to it's settings page.
 4. Add your login credentials.
 5. Now enter the extension and download your desired manga.
-
