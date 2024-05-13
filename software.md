@@ -17,6 +17,8 @@ outline: [1,2]
   - [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) :glowing-star:
 - [Cloudstream](https://cloudstream.on.fleek.co/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/recloudstream/cloudstream" />
 - [Dantotsu](https://dantotsu.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/rebelonion/Dantotsu#dantotsu" /> 
+  - [Himitsu](https://github.com/RepoDevil/Himitsu/)
+  - [Awery](https://github.com/MrBoomDeveloper/Awery)
 - [AnimeTV](https://amarullz.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/amarullz/AnimeTV" />
 
 ::: details More Apps
@@ -151,7 +153,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 ![](/ss/seq.png)
 
-[WebTorrent](https://webtorrent.io/) can also be used to stream torrents. By default, it will play using it's own player. You can change it in settings.
+[TorrServer](https://github.com/YouROK/TorrServer) & [WebTorrent](https://webtorrent.io/) can also be used to stream torrents.
 :::
 
 ## Manga Readers
