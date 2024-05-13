@@ -24,6 +24,10 @@ Read the [full guide](/guides/IRC.md) on IRC. When you start the download, a fil
 
 
 ## Torrent
-The same procedure as DDL network streaming, you have to use magnet link instead. For the software, we are using [Webtorrent](https://webtorrent.io/desktop/) to network streaming. If you don't like the internal player of webtorrent, you can choose external player in the webtorrent settings.
+You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're currently downloading. For this, check the "**Download in sequential order**" and go to the containing folder. Now open the file and it will play as more chunks are downloaded.
+
+![](/ss/seq.png)
+
+[TorrServer](https://github.com/YouROK/TorrServer) & [WebTorrent](https://webtorrent.io/) can also be used to stream torrents.
 
 <div class="video_wrapper"><iframe src="https://youtube.com/embed/abkKsVsyRdE" frameborder="0" allowfullscreen></iframe></div>
