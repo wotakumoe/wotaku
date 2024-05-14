@@ -56,6 +56,7 @@ outline: 1
 - [Sudatachi](https://sudatchi.com/)
 - [One Pace](https://onepace.net/)  <Badge text="Stremio" link="https://github.com/au2001/onepace-stremio" />
 - [Pokémon TV](https://poke-tv.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/seiya-dev/pokemon-tv" />
+- [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html)
 
 ### Donghua
 - [Animekhor](https://animekhor.xyz/)
