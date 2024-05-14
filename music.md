@@ -444,6 +444,7 @@ outline: 1
 ### Tagger
 - [MP3Tag](https://www.mp3tag.de/en/) :ic-baseline-window::ic-baseline-apple:
 - [MusicBrainz Picard](https://picard.musicbrainz.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [TagScanner](https://www.xdlab.ru/en/) :ic-baseline-window:
 - [beets](https://beets.io/) <Badge type="tip" link="https://beets.readthedocs.io/en/stable/index.html#" />
 
 ### Misc
