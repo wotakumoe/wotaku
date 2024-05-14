@@ -34,8 +34,9 @@ outline: [1,2]
 ## Downloader
 
 - **Direct**
-  - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) :mdi-android:
+  - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) :mdi-magnet::mdi-android:
   - [ADM](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US) :mdi-magnet::mdi-android:
+  - [ytdlnis](https://github.com/deniscerri/ytdlnis) :mdi-android:
   - [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) :mdi-android:
 - **Torrent / p2p**
   - [iTorrent](https://github.com/XITRIX/iTorrent) :ic-baseline-apple:
@@ -49,6 +50,7 @@ outline: [1,2]
 
 - **Local**
   - [mpv-android](https://github.com/mpv-android/mpv-android) <Badge type="tip" icon="i-mdi-android" text="Android" link="https://play.google.com/store/apps/details?id=is.xyz.mpv&hl=en&gl=US" />
+  - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) :mdi-android:
   - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en&gl=US) :mdi-android:
   - [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) :ic-baseline-apple:
 - **Online**
@@ -77,9 +79,7 @@ outline: [1,2]
 
 # PC
 
-
 ## Downloader
-
 
 ### General
 
