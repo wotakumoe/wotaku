@@ -96,6 +96,7 @@ outline: 1
 - [Bunko Light Novel Ranking](http://bunkoranoberanking.blog.fc2.com/)
 - [Erzat](https://erzat.blog/)
 - [Josu Ke](https://twitter.com/Josu_ke) :mdi-twitter:
+- [Mangacodex](https://www.mangacodex.com/) :glowing-star:
 - [:ic-outline-discord: Manga Groups Portal](https://discord.gg/9KGMzP2)
 - [r/LightNovels reading order](https://old.reddit.com/r/LightNovels/wiki/reading_order)
 - [Shoseki Ranking](http://shosekiranking.blog.fc2.com/)
@@ -108,6 +109,7 @@ outline: 1
 - [Otaku Calendar](https://otakucalendar.com/Release/?filterCategory=2)
 - [r/LightNovels upcoming releases](https://old.reddit.com/r/LightNovels/wiki/upcomingreleases/)
 - [Yatta-Tachi](https://yattatachi.com/tag/releases)
+- :material-symbols-subdirectory-arrow-right: [Manga release portals](#manga-ln-2)
 
 #### Publisher
 - [Azuki](https://www.azuki.co/release-calendar) <Badge type="info" text="CaaS" />
@@ -227,7 +229,7 @@ outline: 1
   - [Erzat](https://twitter.com/Erzat110) :mdi-twitter:
   - [Manga Alerts](https://twitter.com/MangaAlerts) :mdi-twitter:
   - [Manga Bookshelf](https://mangabookshelf.com/) :mdi-twitter:
-  - [Manga Mogura RE](https://twitter.com/MangaMoguraRE) :glowing-star: :mdi-twitter: <Badge type="danger" icon="i-mdi-twitter" text="Ecchi" link="https://twitter.com/EcchiMogura" />
+  - [Manga Reporter](https://twitter.com/MangaReporter) <Badge type="tip" text="Old" link="https://twitter.com/MangaMoguraRE" /> :glowing-star: :mdi-twitter: <Badge icon="i-mdi-twitter" text="Ecchi" link="https://twitter.com/EcchiMogura" />
   - [Randomanga](https://randomanga.wordpress.com/)
   - [Shonen Jump News](https://twitter.com/WSJ_manga) :glowing-star: :mdi-twitter:
   - [TheOASG](https://twitter.com/TheOASG) :glowing-star: :mdi-twitter:
