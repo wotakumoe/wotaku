@@ -60,7 +60,7 @@ customDescription: Discover websites, software, and essentials for anime, manga,
   - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 
 
-::: info **duck note:** iOS app development whack. so, shit can break any time.
+::: info **duck note:** iOS app development is whack. so, shit can break any time.
 :::
 
 ### PC
