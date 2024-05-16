@@ -232,28 +232,12 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Seanime](https://seanime.rahim.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/5rahim/seanime" />
 - [**Shoko Anime**](https://shokoanime.com/)
   - [Shokofin](https://github.com/ShokoAnime/Shokofin)
-- [Sushi.net](https://github.com/maxpiva/Sushi.Net)
 
-:::details Arr tools
-### Media Automation
-- [Radarr](https://radarr.video/) <Badge text="Movies" />
-- [Sonarr](https://sonarr.tv/) <Badge text="TV Series" />
-
-### Tools
-- [Overseerr](https://overseerr.dev/)
-- [Prowlarr](https://prowlarr.com/)
-- [Jackett](https://github.com/Jackett/Jackett)
-- [autobrr](https://autobrr.com/)
-- [Ombi](https://ombi.io/)
-- [Tdarr](https://home.tdarr.io/)
-- [Bazarr](https://www.bazarr.media/)
-- [Sonarr/Radarr/Lidarr autosearch](https://chromewebstore.google.com/detail/jmmjjcddjldjdjgckdiokhfokccdnekc)
-- [Doplarr](https://github.com/kiranshila/Doplarr)
-- [requestrr](https://github.com/thomst08/requestrr)
-
-### Guides
-- [Servarr Wiki](https://wiki.servarr.com/)
-- [TRaSH Guides](https://trash-guides.info/)
+::: details :material-symbols-subdirectory-arrow-right: Related resources
+- [Video Players](/tools.md#video-1)
+- [mpv tools](/tools.md#mpv)
+- [arr tools](/tools.md#arr-tools)
+- [Subtitle tools](#fansubbing--subtitle-tools)
 :::
 
 
@@ -277,11 +261,6 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Sigil-Ebook](https://sigil-ebook.com/) :ic-baseline-window::ic-baseline-apple:
 
 
-## Other Tools
-- [nyaa](https://github.com/Beastwick18/nyaa)
-- [Koneko](https://github.com/irevenko/koneko)
-
-
 ## Trackers
 - [Animeo](https://github.com/Jenrykster/animeo) <Badge type="info" text="Stremio" />
 - [Hachidori](https://malupdaterosx.moe/hachidori/) :ic-baseline-apple: <Badge type="info" text="Github" icon="i-octicon-mark-github" link="https://github.com/Atelier-Shiori/hachidori" />
@@ -290,6 +269,24 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Taiga](https://taiga.moe/) :ic-baseline-window::mdi-download::mdi-rss: <Badge type="info" text="Github" icon="i-octicon-mark-github" link="https://github.com/erengy/taiga" />
 - [Trackma](https://z411.github.io/trackma/) :mingcute-linux-fill: <Badge type="info" text="Github" icon="i-octicon-mark-github" link="https://github.com/z411/trackma" />
 - [Tundra](https://tundra.moe/) :mingcute-linux-fill: <Badge type="info" text="Github" icon="i-octicon-mark-github" link="https://github.com/m4tx/tundra" />
+
+
+## Fansubbing / Subtitle Tools
+- [Aegisub](https://github.com/arch1t3cht/Aegisub) :ic-baseline-window::mingcute-linux-fill:<Badge type="tip" text="Original" link="https://github.com/arch1t3cht/Aegisub" />
+- [AviSynth+](https://avs-plus.net/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/AviSynth/AviSynthPlus" />
+- [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) :ic-baseline-window:
+- [mpvQC](https://github.com/mpvqc/mpvQC) :ic-baseline-window:
+- [Sushi.net](https://github.com/maxpiva/Sushi.Net) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [VapourSynth](https://www.vapoursynth.com/) :ic-baseline-window: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/vapoursynth/vapoursynth" />
+  - :material-symbols-subdirectory-arrow-right: [VSDB](https://vsdb.top/)
+- [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- :material-symbols-subdirectory-arrow-right: [Fansubbing guide](/misc.md#fansubbing)
+- :material-symbols-subdirectory-arrow-right: [More subtitle tools](/japan/software.md#subtitle)
+
+
+## Other Tools
+- [nyaa](https://github.com/Beastwick18/nyaa)
+- [Koneko](https://github.com/irevenko/koneko)
 
 
 ## Hosting
@@ -311,14 +308,6 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
   - [audiobookshelf](https://www.audiobookshelf.org/)
   - [Booksonic](https://booksonic.org/)
 
-
-## Fansubbing
-- [Aegisub](https://github.com/arch1t3cht/Aegisub) :ic-baseline-window::mingcute-linux-fill:<Badge type="tip" text="Original" link="https://github.com/arch1t3cht/Aegisub" />
-- [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) :ic-baseline-window:
-- [mpvQC](https://github.com/mpvqc/mpvQC) :ic-baseline-window:
-- [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- :material-symbols-subdirectory-arrow-right: [Fansubbing guide](/misc.md#fansubbing)
-- :material-symbols-subdirectory-arrow-right: [Fansubbing tools](/japan/software.md#subtitle)
 
 ## OCR / Translator
 - [Sugoi Translation Toolkit](https://blog.sugoitoolkit.com/)

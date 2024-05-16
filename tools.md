@@ -61,7 +61,7 @@ outline: [1,2]
   - [Twire](https://github.com/twireapp/Twire) :mdi-twitch::mdi-android:
 
 
-## Others
+## General
 
 - **Store**
   - [Aurora Store](https://auroraoss.com/) :mdi-android:
@@ -162,6 +162,26 @@ outline: [1,2]
   - [MPV Shim for Plex](https://github.com/iwalton3/plex-mpv-shim)
 
 
+## arr Tools
+
+- **Media Automation**
+  - [Radarr](https://radarr.video/) <Badge text="Movies" />
+  - [Sonarr](https://sonarr.tv/) <Badge text="TV Series" />
+- **Tools**
+  - [Overseerr](https://overseerr.dev/)
+  - [Prowlarr](https://prowlarr.com/)
+  - [Jackett](https://github.com/Jackett/Jackett)
+  - [autobrr](https://autobrr.com/)
+  - [Ombi](https://ombi.io/)
+  - [Tdarr](https://home.tdarr.io/)
+  - [Bazarr](https://www.bazarr.media/)
+  - [Sonarr/Radarr/Lidarr autosearch](https://chromewebstore.google.com/detail/jmmjjcddjldjdjgckdiokhfokccdnekc)
+  - [Doplarr](https://github.com/kiranshila/Doplarr)
+  - [requestrr](https://github.com/thomst08/requestrr)
+- **Guides**
+  - [Servarr Wiki](https://wiki.servarr.com/)
+  - [TRaSH Guides](https://trash-guides.info/)
+
 ## Discord bots
 - [AniSearch](https://github.com/IchBinLeoon/anisearch-discord-bot) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://ichbinleoon.github.io/anisearch-discord-bot/#/" />
 - [Ryuuzaki Ryuusei](https://github.com/nattadasu/ryuuRyuusei)
@@ -211,13 +231,14 @@ outline: [1,2]
 
 
 ## General
-- [uBlock Origin](https://ublockorigin.com/)
-- [FastForward](https://fastforward.team/)
 - [ClearURLs](https://docs.clearurls.xyz/)
-- [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)
-- [Violentmonkey](https://violentmonkey.github.io/)
+- [FastForward](https://fastforward.team/)
 - [FastStream](https://faststream.online/)
-- [Indie Wiki Buddy](https://getindie.wiki/) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/indie-wiki-buddy/fkagelmloambgokoeokbpihmgpkbgbfm" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/indie-wiki-buddy/" />
+- [Indie Wiki Buddy](https://getindie.wiki/)
+- [Selection](https://github.com/emvaized/selecton-extension) :glowing-star:
+- [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web) :glowing-star:
+- [uBlock Origin](https://ublockorigin.com/) :glowing-star:
+- [Violentmonkey](https://violentmonkey.github.io/) :glowing-star:
 
 
 ![](/banner/script.png)
