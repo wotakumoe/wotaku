@@ -12,7 +12,6 @@ outline: 2
 
 - [Nyaa](https://nyaa.si/?f=0&c=6_2&q=)  <Badge type="green" text="SFW" />
 - [Ova Games](https://www.ovagames.com/)
-- [Dodi](https://dodi-repacks.site/)
 - [Gload](https://gload.to/)
 - [GOG Games](https://gog-games.to/)
 - [Free GOG PC Games](https://freegogpcgames.com/)
