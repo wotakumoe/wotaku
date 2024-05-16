@@ -26,11 +26,11 @@ export default defineConfig({
     ["meta", { name: "theme-color", content: "#56b4fc" }],
     ["meta", { name: "og:type", content: "website" }],
     ["meta", { name: "og:locale", content: "en" }],
-    ["link", { rel: "icon", href: "/asset/fav.png" }],
+    ["link", { rel: "icon", href: "/asset/inaread.png" }],
     // PWA
-    ["link", { rel: "icon", href: "/asset/fav.png", type: "image/svg+xml" }],
-    ["link", { rel: "alternate icon", href: "/asset/fav.png" }],
-    ["link", { rel: "mask-icon", href: "/asset/fav.png", color: "#56b4fc" }],
+    ["link", { rel: "icon", href: "/asset/inaread.png", type: "image/svg+xml" }],
+    ["link", { rel: "alternate icon", href: "/asset/inaread.png" }],
+    ["link", { rel: "mask-icon", href: "/asset/inaread.png", color: "#56b4fc" }],
     // prettier-ignore
     [
       "meta",
@@ -40,7 +40,7 @@ export default defineConfig({
       "link",
       {
         rel: "apple-touch-icon",
-        href: "/asset/fav.png",
+        href: "/asset/inaread.png",
         sizes: "192x192",
       },
     ],
@@ -91,7 +91,7 @@ export default defineConfig({
   },
   themeConfig: {
     search: search,
-    logo: { src: "/asset/inaidle.webp", width: 29, height: 24 },
+    logo: { src: "/asset/inaread.png"},
     sidebar: [
       {
         text: '<span class="i-lucide:zap"></span> Quick Start',
