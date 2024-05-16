@@ -237,7 +237,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Video Players](/tools.md#video-1)
 - [mpv tools](/tools.md#mpv)
 - [arr tools](/tools.md#arr-tools)
-- [Subtitle tools](#fansubbing--subtitle-tools)
+- [Subtitle tools](#fansubbing-subtitle-tools)
 :::
 
 
