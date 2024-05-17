@@ -103,7 +103,7 @@ outline: [1,2]
     - [yt-dlp GUI Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer)
 
 
-## Image
+## Image Tools
 
 - **Viewer+**
   - [IrfanView](https://www.irfanview.com/)
@@ -122,7 +122,7 @@ outline: [1,2]
 :::
 
 
-## Video
+## Video Tools
 
 - **Local**
   - [IINA](https://iina.io/) :ic-baseline-apple:
@@ -182,7 +182,25 @@ outline: [1,2]
   - [Servarr Wiki](https://wiki.servarr.com/)
   - [TRaSH Guides](https://trash-guides.info/)
 
+
+## Usenet Tools
+
+- [NZBHydra 2](https://github.com/theotherp/nzbhydra2)
+- [SABnzbd](https://sabnzbd.org/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/sabnzbd/sabnzbd" />
+- [NZBget](https://nzbget.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/nzbgetcom/nzbget" />
+- [NZB Unity](https://github.com/tumblfeed/nzbunity)
+- [Nyuu](https://github.com/animetosho/Nyuu)
+- [ngPost](https://github.com/mbruel/ngPost)
+
+::: details :material-symbols-subdirectory-arrow-right: Related resources
+- [r/usenet](https://old.reddit.com/r/usenet/) :glowing-star:
+- [r/UsenetInvites](https://old.reddit.com/r/UsenetInvites/)
+- [A Guideline to usenet and how to setup Automation](https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/mobilebasic)
+
+:::
+
 ## Discord bots
+
 - [AniSearch](https://github.com/IchBinLeoon/anisearch-discord-bot) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://ichbinleoon.github.io/anisearch-discord-bot/#/" />
 - [Ryuuzaki Ryuusei](https://github.com/nattadasu/ryuuRyuusei)
 - [Yuuko](https://github.com/YuuCorp/Yuuko)

@@ -234,7 +234,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
   - [Shokofin](https://github.com/ShokoAnime/Shokofin)
 
 ::: details :material-symbols-subdirectory-arrow-right: Related resources
-- [Video Players](/tools.md#video-1)
+- [Video Players](/tools.md#video-tools)
 - [mpv tools](/tools.md#mpv)
 - [arr tools](/tools.md#arr-tools)
 - [Subtitle tools](#fansubbing-subtitle-tools)
