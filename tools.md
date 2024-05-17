@@ -124,13 +124,16 @@ outline: [1,2]
 
 ## Video Tools
 
-- **Local**
+- **Player**
   - [IINA](https://iina.io/) :ic-baseline-apple:
   - [MPC-HC](https://github.com/clsid2/mpc-hc) :ic-baseline-window:<Badge type="info" text="Codec guide" link="https://codecguide.com/media_player_classic.htm"/><Badge type="tip" text="Guide" link="https://kokomins.wordpress.com/2021/03/27/mpc-hc-and-madvr-setup-guide/" />
-  - [mpv](https://mpv.io/) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge type="info" text="mpv.net" link="https://github.com/mpvnet-player/mpv.net"/> 
+  - [mpv](https://mpv.io/) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+    - :material-symbols-subdirectory-arrow-right: [mpv Resources](#mpv)
+  - [SMPlayer](https://www.smplayer.info/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
   - [K-Lite Codec Pack](https://codecguide.com/download_kl.htm) :ic-baseline-window:
-- **Online**
-  - [FreeTube](https://freetubeapp.io/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- **Tools**
+  - [FFmpeg](https://ffmpeg.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+  - [HandBrake](https://handbrake.fr/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
 ## mpv
 
