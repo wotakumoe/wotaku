@@ -36,15 +36,30 @@ outline: 1
 
 ## Legal
 
+### Stream
 - **Freemium**
   - [Spotify](https://spotify.com/)
   - [Youtube Music](https://music.youtube.com/) <Badge type="tip" text="Beatbump" link="https://beatbump.io/home" /><Badge type="tip" text="Hyperpipe" link="https://hyperpipe.surge.sh/" />
 - **Subscription**
   - [Amazon Music](https://music.amazon.com/)
-  - [Apple Music](https://music.apple.com/) :glowing-star:
+  - [Apple Music](https://music.apple.com/)
   - [Deezer](https://www.deezer.com/)
   - [Qobuz](https://play.qobuz.com/)
   - [Tidal](https://tidal.com/)
+
+
+### Purchase
+- **Physical**
+  - [Amazon](https://www.amazon.com/)
+  - [CDJapan](https://www.cdjapan.co.jp/)
+  - [Play-Asia](https://www.play-asia.com/)
+  - [HMV & Books](https://www.hmv.co.jp/)
+- **Digital**
+  - [Amazon](https://www.amazon.com/)
+  - [Qobuz](https://www.qobuz.com/us-en/shop)
+  - [Mora](https://mora.jp/)
+  - [Ototoy](https://ototoy.jp/)
+  - [Recochoku](https://recochoku.jp/)
 
 
 ![](/music/mdl.png)
