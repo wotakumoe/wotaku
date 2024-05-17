@@ -97,6 +97,7 @@ outline: 1
 - [Erzat](https://erzat.blog/)
 - [Josu Ke](https://twitter.com/Josu_ke) :mdi-twitter:
 - [Mangacodex](https://www.mangacodex.com/) :glowing-star:
+- [MANGA Plus Top 40](https://manga.tumeo.space/)
 - [:ic-outline-discord: Manga Groups Portal](https://discord.gg/9KGMzP2)
 - [r/LightNovels reading order](https://old.reddit.com/r/LightNovels/wiki/reading_order)
 - [Shoseki Ranking](http://shosekiranking.blog.fc2.com/)
