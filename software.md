@@ -195,7 +195,6 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [**ADL**](https://github.com/RaitaroH/adl) :ic-baseline-window::mingcute-linux-fill:<tooltip><ul><li>No UI, terminal based</li><li>"Complicated" installation, especially on Windows</li><li>Uses many different scripts, including animedl, so lots of functionality</li><li>Tracking capability & many more</li><li>Same amount of sources as AnimDL</li></ul></tooltip>
 - [**Crunchy-cli**](https://github.com/crunchy-labs/crunchy-cli) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<tooltip><ul><li>No UI, terminal based</li><li>"Simple" installation</li><li>Crunchyroll account required, Premium if you want all the anime available</li><li>No streaming, only download</li></ul></tooltip>
 - [**Crunchyroll Downloader v3.0**](https://github.com/hama3254/Crunchyroll-Downloader-v3.0) :ic-baseline-window:<tooltip><ul><li>Straightforward UI</li><li>Easy to use</li><li>Crunchyroll account required if you want premium content</li><li>About the same functionality as Crunchy-cli</li><li>No streaming, only download</li></ul></tooltip>
-- [**Nyaa Downloader**](https://github.com/marcpinet/nyaadownloader) :ic-baseline-window:<tooltip><ul><li>Runs via terminal, has a pretty simple UI</li><li>Used for torrent downloads that can be redirected/downloaded directly into a BitTorrent client - no DDL functionality</li><li>For nyaa.si only</li></ul></tooltip>
 
 ### Manga
 
@@ -225,16 +224,17 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Anitomy](https://github.com/erengy/anitomy)
 - [GetFnative](https://github.com/YomikoR/GetFnative) <Badge type="info" text="getfscaler" link="https://github.com/Jaded-Encoding-Thaumaturgy/getfscaler"/>
 - [Getnative](https://github.com/Infiziert90/getnative)
+- [Nyaa Downloader](https://github.com/marcpinet/nyaadownloader) :ic-baseline-window:
 - **Plex**
   - [Plex to AniList Sync](https://github.com/RickDB/PlexAniSync)
   - [PlexAniSync-Mappings](https://github.com/mizz141/PlexAniSync-Mappings)
   - [Maintainerr](https://github.com/jorenn92/Maintainerr)
-- [Seanime](https://seanime.rahim.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/5rahim/seanime" />
-- [**Shoko Anime**](https://shokoanime.com/)
+- [Seanime](https://seanime.rahim.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/5rahim/seanime" />
+- [Shoko Anime](https://shokoanime.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
   - [Shokofin](https://github.com/ShokoAnime/Shokofin)
 
 ::: details :material-symbols-subdirectory-arrow-right: Related resources
-- [Video Players](/tools.md#video-tools)
+- [Video tools](/tools.md#video-tools)
 - [mpv tools](/tools.md#mpv)
 - [arr tools](/tools.md#arr-tools)
 - [Subtitle tools](#fansubbing-subtitle-tools)
@@ -271,7 +271,12 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Tundra](https://tundra.moe/) :mingcute-linux-fill: <Badge type="info" text="Github" icon="i-octicon-mark-github" link="https://github.com/m4tx/tundra" />
 
 
-## Fansubbing / Subtitle Tools
+## Fansubbing & Sub Tools
+- Adobe Software
+  - [m0nkrus](https://w14.monkrus.ws/) :ic-baseline-window::ic-baseline-apple:
+  - [RuTracker](https://rutracker.org/forum/index.php) :ic-baseline-window::ic-baseline-apple:
+  - [GenP](https://genpguides.github.io) :ic-baseline-window:
+  - [Download Pirate](https://www.downloadpirate.com/) :ic-baseline-window:
 - [Aegisub](https://github.com/arch1t3cht/Aegisub) :ic-baseline-window::mingcute-linux-fill:<Badge type="tip" text="Original" link="https://github.com/arch1t3cht/Aegisub" />
 - [AviSynth+](https://avs-plus.net/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/AviSynth/AviSynthPlus" />
 - [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) :ic-baseline-window:

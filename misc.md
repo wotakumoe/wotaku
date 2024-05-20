@@ -470,7 +470,7 @@ outline: 1
 - [Unanimated](https://unanimated.github.io/guides.htm)
 - [Yukisubs](https://yukisubs.wordpress.com/guides/)
 - [Zeriyu's Fansub Guide](https://github.com/zeriyu/fansub-guide)
-- :material-symbols-subdirectory-arrow-right: [Fansubbing tools](/software.md#fansubbing-subtitle-tools)
+- :material-symbols-subdirectory-arrow-right: [Fansubbing tools](/software.md#fansubbing-sub-tools)
 
 
 
