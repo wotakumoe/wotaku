@@ -90,7 +90,11 @@ outline: 1
 # Tools
 
 ## General
-- Adobe Software <Badge type="tip" text="Esoterica" link="https://rentry.org/adobesoftware" /><Badge type="tip" text="GenP" link="https://genpguides.github.io/" /><Badge type="tip" text="Anna" link="https://docs.google.com/document/d/17PheyyF9dm7YYjaTZ9JAAY3hhdeIQ7sJ4sylTG9_6xI/edit" /><Badge type="tip" text="macOS" link="https://telegra.ph/MacOS-Adobe-CC-Guide-11-29" />
+- Adobe Software
+  - [m0nkrus](https://w14.monkrus.ws/) :ic-baseline-window::ic-baseline-apple:
+  - [RuTracker](https://rutracker.org/forum/index.php) :ic-baseline-window::ic-baseline-apple:
+  - [GenP](https://genpguides.github.io) :ic-baseline-window:
+  - [Download Pirate](https://www.downloadpirate.com/) :ic-baseline-window:
 - [Clip Studio Paint EX](https://www.clipstudio.net/en/function_ex/)
 - [MediBang Paint](https://medibangpaint.com/en/)
 - [Krita](https://krita.org/en/)
