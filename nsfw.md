@@ -2,7 +2,7 @@
 title: NSFW
 description: huh... ahem...
 customDescription: Explore a wide range of NSFW websites, manga, manhwa, illustrations, and software.
-outline: 1
+outline: [1,2]
 ---
 
 <GradientCard title="エロ" tag="NSFW" description="Everyone has to let off some steam once in a while, we don't judge." theme="turquoise"/>
@@ -209,7 +209,7 @@ outline: 1
 
 ## Scripts
 
-- [E-HENTAI-VIEW-ENHANCE](https://github.com/MapoMagpie/eh-view-enhance) <Badge type="tip" icon="i-custom-fork" text="Sleezy" link="https://sleazyfork.org/en/scripts/397848-e-hentai-view-enhance" />
+- [Cosmos Comic Viewer](https://github.com/MapoMagpie/eh-view-enhance) <Badge type="tip" icon="i-custom-fork" text="Sleezy" link="https://sleazyfork.org/en/scripts/397848-e-hentai-view-enhance" />
 - Eza's Image Glutton <Badge type="tip" icon="i-custom-fork" text="Sleezy" link="https://sleazyfork.org/en/scripts/4713-eza-s-image-glutton" />
 - ExResurrect <Badge type="tip" icon="i-custom-fork" text="Sleezy" link="https://sleazyfork.org/en/scripts/411277-exresurrect" />
 - Image Board Enhancer <Badge type="tip" icon="i-custom-fork" text="Sleezy" link="https://sleazyfork.org/en/scripts/387312-image-board-enhancer-rule34-gelbooru-e621-and-more" />
