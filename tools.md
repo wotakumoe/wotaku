@@ -268,7 +268,7 @@ outline: [1,2]
 
 ## Anime
 - 9anime Bingewatcher+ <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/401339-9anime-bingewatcher" />
-- [Anifilters](https://github.com/Karmesinrot/Anifiltrs)
+- [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs)
 - [Anime Website Buttons Plus](https://github.com/Deatthwing/anime-website-buttons-plus) <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/398046-anime-website-custom-buttons-plus" />
 - Find on Nyaa <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/379776-find-on-nyaa" />
 - [MAL-Sync](https://github.com/MALSync/MALSync/releases/latest/download/malsync.user.js)
@@ -307,7 +307,7 @@ outline: [1,2]
   - [StyleChan](https://github.com/3nly/StyleChan)
   - [Desu X](https://greasyfork.org/en/scripts/483282-desu-x-enhancement-script-for-desuarchive-org)
 - **Others**
-  - [Handy Image](https://github.com/Owyn/HandyImage) <Badge type="tip" icon="i-custom-fork" text="Sleezy" link="https://sleazyfork.org/en/scripts/109-handy-image" />
+  - [Handy Image](https://github.com/Owyn/HandyImage) <Badge type="tip" icon="i-custom-fork" text="Sleazy" link="https://sleazyfork.org/en/scripts/109-handy-image" />
   - [Image Max URL](https://github.com/qsniyg/maxurl)
 
 ## Others

@@ -59,7 +59,7 @@ outline: [2,3]
 ### Sites
 - [TOFUGU: The Best Kanji Learning Programs](https://www.tofugu.com/japanese/best-kanji-learning-programs/)
 - [Kanji by Sight](https://www.nihongoshark.com/post/kanji-by-sight)
-- [KanjiDamage](http://www.kanjidamage.com/)
+- [KanjiDamage](https://www.kanjidamage.com/)
 - [KanjiDamage+](https://kanjidamageplus.neocities.org/)
 - [Marshall's Site](https://marshallyin.com/) <Badge type="warning" text="Freemium" /> <tooltip>Marshall's site contain almost everything. So to avoid dupe, it will be linked once.</tooltip>
 - [THE KANJI VISUAL LANGUAGE PROJECT](https://kvlp.org/)

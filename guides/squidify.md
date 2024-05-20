@@ -26,7 +26,7 @@ Squidify is based on Navidrome which has its own set of third-party Apps besides
 
 == iOS
 
-- [play:Sub](http://michaelsapps.dk/playsubapp/)
+- [play:Sub](https://michaelsapps.dk/playsubapp/)
 - [substreamer](https://substreamerapp.com/)
 - [Amperfy](https://github.com/BLeeEZ/amperfy#readme)
 - [iSub](https://isub.app)

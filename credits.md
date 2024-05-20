@@ -27,7 +27,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 - Smol Ina's diary by [**underdatv**](https://twitter.com/underdatv/status/1790765775349072046)
 - AO-chan by [**3ton**](https://www.pixiv.net/en/artworks/110412826)
 - Artoria Pendragon (Fate) by [**MinJaeCucheoo**](https://www.deviantart.com/minjaecucheoo/art/Transparent-PNG-Artoria-Pendragon-Fate-845014345)
-- Moié vs Non-Moiré Pattern Comparison by [**konijnsate**](https://tips.clip-studio.com/en-us/articles/3489)
+- Moiré vs Non-Moiré Pattern Comparison by [**konijnsate**](https://tips.clip-studio.com/en-us/articles/3489)
 
 == Glossary
 

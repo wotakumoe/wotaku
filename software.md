@@ -94,7 +94,7 @@ outline: [1,2]
 
 # iOS
 
-## Anime Streanubg
+## Anime Streaming
 - [9Animator](https://github.com/SuperMarcus/NineAnimator)
 - [Chouten beta](https://testflight.apple.com/join/Cg1rAPB8) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/GJGMJRPJ5j" />
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
