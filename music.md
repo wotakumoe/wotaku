@@ -96,7 +96,7 @@ outline: 1
   - [Sakura OST](https://www.sakuraost.com/) :mdi-snail:
 
 ## Downloader
-- [Squid.wtf](https://squid.wtf/) <Badge type="info" text="Alpha" />
+- [Squid.wtf](https://squid.wtf/)
 - [DoubleDouble](https://doubledouble.top/)
 - [:simple-icons-revoltdotchat: yet another music server](https://yetanothermusicserver.top/invite/AaWeY6kV)
 - [:ic-outline-telegram: Beatspot Music](https://t.me/BeatSpotBot)
