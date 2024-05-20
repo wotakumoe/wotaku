@@ -51,15 +51,29 @@ Yes. Try [**MAL-Sync**](https://malsync.moe/). It has support for MyAnimeList, A
 ![](/ss/nyaared.png)
 :::
 
-:::details What is PT/Private Tracker, IRC, Usenet?
-## PT/Private Tracker
+:::details What is PT, IRC & Usenet? {open}
+### PT / Private Tracker
 Torrent trackers that don't allow you to freely make an account, but require you to get an invitation from an existing member or pass an interview. Some PTs also have specific periods where they allow for open signups.
 
-## IRC
+### IRC
 IRC (Internet Relay Chat) is a really old messaging protocol. It uses client and server connection to communicate. You can use various bot to download files in high speed. Follow [**our guide**](/guides/irc.md) to get started.
 
-## Usenet
-Usenet is a subscription-based service. You can download files using `.nzb` file (which is like a `.torrent`) and a usenet client. Even though it's really old, it's really convenient.
+### Usenet
+Usenet is a subscription-based service. Though really old, it's still very reliable. Its system consists of a few elements:
+
+- **.nzb:** The file you need in order to download your wanted file, similar to `.torrent` files. In usenet, files are hosted in multiple parts. These parts are stored as different articles, each having its own message ID. `.nzb` contains all the message IDs, so that the provider can locate the parts.
+- **Indexers:** The search engines of usenet, either paid or free (with limits). One such free indexer for anime is [Anime Tosho](https://animetosho.org/), mirroring Nyaa uploads upto 16GB.
+- **Providers:** The hosts of all the content, all of them are paid.
+
+:::
+
+:::details What is seedbox & debrid service? {open}
+### Seedbox
+A seedbox is a remote service that can download (leech) & upload (seed) from p2p networks. Since it's always online, it keeps the torrents alive, thus helping you keep a high ratio in [PTs](#pt-private-tracker). Examples: [Ultra.cc](https://ultra.cc/), [RapidSeedbox](https://www.rapidseedbox.com/) & [Pulsed Media](https://pulsedmedia.com/).
+
+### Debrid
+Like a seedbox, it's also a remote service. It can download from p2p and various host sites (e.g. [MEGA](https://mega.io/), [RapidGator](https://rapidgators.net/)). One of the big differences is that they (generally) don't seed p2p files and keep the downloaded files cached on their servers, meaning you can download currently dead torrents that have already been cached in the past. Examples: [Real-Debrid](https://real-debrid.com/) & [AllDebrid](https://alldebrid.com/).
+
 :::
 
 
