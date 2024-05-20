@@ -147,7 +147,7 @@ Simultaneous publication, meaning releasing and translating the latest chapters 
 
 
 ### Tankoubon
-Tankoubon means the volume release. Many manga are initially published in magazines such as [Weekly Shonen Jump](http://www.shonenjump.com/j/index.html). If a manga becomes very popular, it can receive a volume release a.k.a. Tankoubon. These volumes often include redrawn content, extra chapters, and notes from the mangaka. Sometimes, Tankoubon collections can feature various works by the mangaka, similar to an anthology.
+Tankoubon means the volume release. Many manga are initially published in magazines such as [Weekly Shonen Jump](https://www.shonenjump.com/j/index.html). If a manga becomes very popular, it can receive a volume release a.k.a. Tankoubon. These volumes often include redrawn content, extra chapters, and notes from the mangaka. Sometimes, Tankoubon collections can feature various works by the mangaka, similar to an anthology.
 
 ![One Piece](/glossary/manga/tankoubon.jpg)
 

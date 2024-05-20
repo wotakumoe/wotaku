@@ -63,7 +63,7 @@ outline: [2,3]
 - [IPTV-JP](https://raw.githubusercontent.com/luongz/iptv-jp/main/jp.m3u)
 - [AQ Stream](https://aqstream.com/jp)
 - [TVer](https://tver.jp/) <Badge type="info" text="Needs VPN" />
-- [Keylabo](http://www.keylabo.com/watch-tv-online-for-free/)
+- [Keylabo](https://www.keylabo.com/watch-tv-online-for-free/)
 - [ANNnewsCH](https://www.youtube.com/@ANNnewsCH/)
 - [9tsu](https://9tsu.cc/) <Badge type="info" text="VOD" />
 
@@ -116,7 +116,7 @@ outline: [2,3]
 - [DL Raw net](https://dlraw.net/category/raw-manga/) <Badge type="tip" text="2" link="https://manga-zip.info/category/raw-manga/" /> <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
 - [DL Zip](https://dl-zip.com/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
 - [JP DDL](https://jpddl.com/manga) <Badge type="danger" text="18+" />
-- [Manga Zone](http://www.manga-zone.org/) <Badge type="info" text="Novel" />
+- [Manga Zone](https://www.manga-zone.org/) <Badge type="info" text="Novel" />
 - [Raw Cans](http://raw-cans.net/) <Badge type="danger" text="18+" /><Badge type="info" text="Magazine" />
 
 ## Novel

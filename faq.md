@@ -166,7 +166,7 @@ Use CBZ / CBR / ZIP for manga. PDF can create issues in spread and other scenari
 :::
 
 :::details How to compress cbz / cbr easily?
-You can use the [**cbz/cbr file converter**](http://tomeko.net/software/CbxConverter/) to compress your comic files. It utilizes **ImageMagick 7.1.0** to convert the images. By default, it will use `.webp` and `-quality 75` as output parameters. You can configure these settings in the options menu.
+You can use the [**cbz/cbr file converter**](https://tomeko.net/software/CbxConverter/) to compress your comic files. It utilizes **ImageMagick 7.1.0** to convert the images. By default, it will use `.webp` and `-quality 75` as output parameters. You can configure these settings in the options menu.
 :::
 
 :::details How do I setup my own manga server?

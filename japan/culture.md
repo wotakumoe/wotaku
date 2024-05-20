@@ -75,7 +75,7 @@ outline: [2,3]
 - [Let's learn about Japanese events!](https://www.kyosei-tairyu.jp/)
   
 ### City Specific
-- [Tokyojin](http://tokyojin.info/)
+- [Tokyojin](https://tokyojin.info/)
 - [Souda Kyoto](https://souda-kyoto.jp/index.html)
 - [Kyoto Travel](https://kyototravel.info/)
 - [Hokkaido Guide](https://hokkaidoguide.com/) <Badge type="info" text="English" />
@@ -92,7 +92,7 @@ outline: [2,3]
 - [RecipeTin Japan](https://japan.recipetineats.com/) <Badge type="info" text="Youtube" link="https://www.youtube.com/@JapaneseCooking101" />
 - [Kurashiru](https://www.kurashiru.com/)
 - [Chopstick Chronicles](https://www.chopstickchronicles.com/)
-- [Okonomiyaki World](http://okonomiyakiworld.com/index.html)
+- [Okonomiyaki World](https://okonomiyakiworld.com/index.html)
 - [Delish Kitchen](https://delishkitchen.tv/)
 - [Japan food addict](https://www.japanfoodaddict.com/)
 - [Just Hungry](https://www.justhungry.com/recipes)

@@ -80,7 +80,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [Gundam Kits Collection](https://www.gundamkitscollection.com/)
 - [Gunjap](https://www.gunjap.net/)
 - [JOSIC](https://www.japanonlineshopping.com/)
-- [Omiai](http://omiai-dakimakura.com/) <Badge type="danger" text="18+" />
+- [Omiai](https://omiai-dakimakura.com/) <Badge type="danger" text="18+" />
 - [Otaku Calendar](https://otakucalendar.com/)
 
 
@@ -109,7 +109,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
   - [Play-Asia](https://www.play-asia.com/)
   - [YESASIA](https://www.yesasia.com/global/en/home.html)
 - **Figures / Merch**
-  - [Big in Japan](http://biginjap.com/)
+  - [Big in Japan](https://biginjap.com/)
   - [E2046.com](https://www.e2046.com/)
   - [Hobby Link](https://www.hlj.com/)
   - [Hobby Search](https://www.1999.co.jp/eng/)
