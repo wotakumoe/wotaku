@@ -70,7 +70,7 @@ outline: [2,3]
 - [Omatsuri Japan](https://omatsurijapan.com/)
 - [Travel Research](https://www.homemate-research-tour.com/) :glowing-star:
 - [Japan 47 go](https://www.japan47go.travel/ja)
-- [Collab Cafe](https://collabo-cafe.com/)
+- [Collabo Cafe](https://collabo-cafe.com/)
 - [Ghibli Museum](https://www.ghibli-museum.jp/en/)
 - [Let's learn about Japanese events!](https://www.kyosei-tairyu.jp/)
   
