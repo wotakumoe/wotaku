@@ -87,6 +87,7 @@ outline: [2,3]
 - [Kanji Koohii](https://kanji.koohii.com/)
 - [Kenji Sugimoto](https://www.kenjisugimoto.com/shuji/index.html?shuji=%E3%81%8A%E6%89%8B%E6%9C%AC)
 - [Kanji Game](https://kotobaweb.com/kanjigame/create)
+- [Onomato Project](https://onomatoproject.com/)
 
 ### Books
 
@@ -188,13 +189,14 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 #### Misc
 - [Hinoki Project](https://hinoki-project.org/)
 - [Hiragana](https://www.hiragana.jp/en/) `Add Hiragana over Kanji`
-- [Kanji Portraits](https://kanjiportraits.wordpress.com/) `Kanji Origins`
+- [jReadability](https://jreadability.net/) `Text eadability measurement`
+- [Kanji Portraits](https://kanjiportraits.wordpress.com/) `Kanji mrigins`
 - [Kanji Tools](https://kanji.sljfaq.org/)
-- [Kanji Worksheets](https://jensechu.github.io/kanji/index.html) `Printable Kanji Worksheet`
+- [Kanji Worksheets](https://jensechu.github.io/kanji/index.html) `Printable Kanji worksheet`
 - [Massif](https://massif.la/ja) `Search throuh Book / WN / Web`
-- [OJAD AI Reader](https://www.gavo.t.u-tokyo.ac.jp/ojad/phrasing/index) `Generate Pitch Accent`
+- [OJAD AI Reader](https://www.gavo.t.u-tokyo.ac.jp/ojad/phrasing/index) `Generate pitch accent`
 - [RTK Search](https://hochanh.github.io/rtk/)
-- [Tatoeba](https://tatoeba.org/en/) `Crowd-sourced Sentence`
+- [Tatoeba](https://tatoeba.org/en/) `Crowd-sourced sentence`
 
 ## Grammar
 
