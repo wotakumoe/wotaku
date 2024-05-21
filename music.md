@@ -178,6 +178,7 @@ outline: 1
 - [Songle](https://songle.jp/) <Badge text="Vocaloid"/>
 - [Songlink](https://odesli.co/)
 - [Soundiiz](https://soundiiz.com/) <Badge text="Transfer"/>
+- [tagger.site](https://martinbarker.me/tagger)
 - [TuneMyMusic](https://www.tunemymusic.com/) <Badge text="Transfer"/>
 - [YADG](https://yadg.cc/) <Badge text="Tracklist"/>
 
