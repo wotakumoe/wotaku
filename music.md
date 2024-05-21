@@ -399,6 +399,7 @@ outline: 1
 - [Slav Art User Scripts](https://rentry.org/slavartuserscripts) <Badge text="Qobuz" />
 
 ## Converter & Ripper
+- [CUETools](http://cue.tools/wiki/Main_Page) :ic-baseline-window:
 - [dBpoweramp](https://www.dbpoweramp.com/) :ic-baseline-window::ic-baseline-apple:<Badge type="warning" text="Trialware" />
 - [Exact Audio Copy](https://exactaudiocopy.de/) :ic-baseline-window:
 - [FFmpeg](https://ffmpeg.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
