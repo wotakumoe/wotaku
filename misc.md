@@ -338,15 +338,12 @@ outline: 1
 
 ::: details Hosting sites
 
-
 | Website                                     | Storage   | Expire        |
 | ------------------------------------------- | --------- | ------------- |
 | [buzzheavier](https://tabletomarkdown.com/) | Unlimited | :cross-mark:  |
 | [bzzhr](https://bzzhr.co/)                  | Unlimited | :cross-mark:  |
 | [file.haus](https://filehaus.pk/)           | Unlimited | :cross-mark:  |
 | [Gofile](https://gofile.io/)                | Unlimited | 10 days       |
-
-
 
 :::
 
@@ -357,6 +354,8 @@ outline: 1
 - [HoloSongs](https://github.com/themintchoco/holosongs) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/holosongs/ipibfcnlipdkimfmajnddpboejkocplf" />
 - [HoloSchedule](https://github.com/YunzheZJU/holo-schedule) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/holoschedule/fjicegllhddldnnkgfefblholeegpcad" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/holo-schedule/" />
 - [HyperChat](https://livetl.app/hyperchat) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/hyperchat-improved-youtub/naipgebhooiiccifflecbffmnjbabdbh" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/hyperchat/" />
+- [TTV LOL PRO](https://github.com/younesaassila/ttv-lol-pro) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chrome.google.com/webstore/detail/ttv-lol-pro/bpaoeijjlplfjbagceilcgbkcdjbomjd" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/addon/ttv-lol-pro/" />
+  - :material-symbols-subdirectory-arrow-right: More [Twitch Ad Solutions](https://github.com/pixeltris/TwitchAdSolutions/blob/master/full-list.md)
 - [ytcFilter](https://github.com/LiveTL/ytcfilter) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/ytcfilter/mnldnbhgfocmkehnlkeanlhfmopepnko" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/ytcfilter/" />
 
 ## Socials
