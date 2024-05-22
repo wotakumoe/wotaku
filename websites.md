@@ -54,6 +54,8 @@ outline: 1
 ### Others
 - [Hikari](https://watch.hikaritv.xyz/home)
 - [Sudatachi](https://sudatchi.com/)
+- [All Anime](https://allmanga.to/)
+- [Gogoanime](https://anitaku.so/) <Badge text="Proxies" link="https://gogotaku.info/" />
 - [One Pace](https://onepace.net/)  <Badge text="Stremio" link="https://github.com/au2001/onepace-stremio" />
 - [Pokémon TV](https://poke-tv.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/seiya-dev/pokemon-tv" />
 - [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html)
@@ -422,9 +424,9 @@ outline: 1
 - [Bilibili](https://www.bilibili.tv/en/anime)
 - [Crunchyroll](https://www.crunchyroll.com/)
 - [Disney+](https://www.disneyplus.com/)
-- [HBO Max](https://www.hbomax.com/)
 - [Hidive](https://www.hidive.com/)
 - [Hulu](https://www.hulu.com/)
+- [Max](https://www.max.com/)
 - [Netflix](https://www.netflix.com)
 - [Prime Video](https://www.primevideo.com/)
 
