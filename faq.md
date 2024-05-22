@@ -51,7 +51,7 @@ Yes. Try [**MAL-Sync**](https://malsync.moe/). It has support for MyAnimeList, A
 ![](/ss/nyaared.png)
 :::
 
-:::details What is PT, IRC & Usenet? {open}
+:::details What is PT, IRC & Usenet?
 ### PT / Private Tracker
 Torrent trackers that don't allow you to freely make an account, but require you to get an invitation from an existing member or pass an interview. Some PTs also have specific periods where they allow for open signups.
 
@@ -67,7 +67,7 @@ Usenet is a subscription-based service. Though really old, it's still very relia
 
 :::
 
-:::details What is seedbox & debrid service? {open}
+:::details What is seedbox & debrid service?
 ### Seedbox
 A seedbox is a remote service that can download (leech) & upload (seed) from p2p networks. Since it's always online, it keeps the torrents alive, thus helping you keep a high ratio in [PTs](#pt-private-tracker). Examples: [Ultra.cc](https://ultra.cc/), [RapidSeedbox](https://www.rapidseedbox.com/) & [Pulsed Media](https://pulsedmedia.com/).
 
