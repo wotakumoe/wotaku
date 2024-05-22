@@ -140,6 +140,7 @@ outline: 1
 - [Newgrounds](https://www.newgrounds.com/art)
 - [Pixiv](https://www.pixiv.net) :glowing-star:
 - [Pixiv Viewer](https://pixiv.pics/)
+- [Pixiv Yearbook](https://pixiv.navirank.com/) :glowing-star:
 - [Tumblr](https://www.tumblr.com/)
 - [Twitter](https://twitter.com/home) :glowing-star:
 - [Twoucan](https://twoucan.com/)
