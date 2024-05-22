@@ -308,7 +308,7 @@ outline: 1
 - **Others**
   - [VTuber Highlights](https://vtuber.atodeyo.com/) :flag-japan: <Badge type="info" text="News" />
   - [VTuber Newsdrop](https://vtubernewsdrop.com/) <Badge type="info" text="News" />
-  - [HoloSongs](https://github.com/themintchoco/holosongs) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/holosongs/ipibfcnlipdkimfmajnddpboejkocplf" />
+
 
 ## Hololive
 
@@ -321,29 +321,29 @@ outline: 1
 - [Quick Reference](https://monkonius.github.io/hololive-quick-reference/) <Badge type="info" text="DB" />
 - [Hololive MMD Models](https://3d.nicovideo.jp/users/89765617/works)
 - [Hololive Member Sorter](https://hololive.sorter.my.id/)
+
+
+## User Tools
+
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+    - [yt-dlp interface](https://github.com/ErrorFlynn/ytdlp-interface)
+- [ytarchive](https://github.com/Kethsar/ytarchive)
+    - [hoshinova](https://github.com/HoloArchivists/hoshinova)
+- [Chat Downloader](https://github.com/xenova/chat-downloader)
+- [Youtube Community Tab](https://github.com/HoloArchivists/youtube-community-tab)
+- [Twspace-dl](https://github.com/HoloArchivists/twspace-dl)
+- [Holoscrape](https://github.com/dannylty/holoscrape)
+- [Ragtag Player](https://archive.ragtag.moe/player)
+- [ffmprovisr](https://amiaopensource.github.io/ffmprovisr/)
+
+
+## Extensions
+
+- [Holodex+](https://github.com/HolodexNet/Holodex-Plus) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/holodex-plus/mjcecbpccklceljomllkhilglcdcncbh" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/holodex-plus/" />
+- [HoloSongs](https://github.com/themintchoco/holosongs) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/holosongs/ipibfcnlipdkimfmajnddpboejkocplf" />
 - [HoloSchedule](https://github.com/YunzheZJU/holo-schedule) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/holoschedule/fjicegllhddldnnkgfefblholeegpcad" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/holo-schedule/" />
-
-## Youtube
-
-- **Animators**
-  - [Myth's Bad Ending by Mazumaro](https://www.youtube.com/watch?v=euPfAilSpuU)
-  - [2ManySnacks](https://www.youtube.com/@2ManySnacks/)
-  - [Komainu EN](https://www.youtube.com/@komainu_EN)
-  - [Kanauru](https://www.youtube.com/@kanauru/)
-  - [Crash Landing Studios](https://www.youtube.com/@CrashLandingStudio)
-  - [Tripl3en](https://www.youtube.com/@Tripl3en)
-  - [H and Mr.H](https://www.youtube.com/@HandMrH)
-  - [cbo](https://www.youtube.com/@cbo_ch)
-- **News**
-  - [FalseEyeD](https://www.youtube.com/@FalseEyeD)
-  - [Khyo](https://www.youtube.com/@Khyo)
-  - [Depressed Nousagi](https://www.youtube.com/@DepressedNousagi/)
-  - [Penumbral](https://www.youtube.com/@PenumbralVT/shorts)
-- **Playlists**
-  - [HOLOLIVE Original Songs](https://www.youtube.com/playlist?list=PLcA50eR_E8Zbi4hdQHU5Rl1J6KrWRlHpM)
-  - [Hololive Songs&Covers](https://www.youtube.com/playlist?list=PLQmVFdwvZgfXlb2RDXWV1NaPXgYPu786G)
-  - [Holo no Graffiti](https://www.youtube.com/playlist?list=PL1NeGg1woXqngQytLzL8lJJLYwmzk1Wuq) | [Privated](https://www.youtube.com/playlist?list=PLMcxQWd8jwdk2YHXPScsjcw22VSZxiViL)
-  - [NIJISANJI EN songs](https://www.youtube.com/playlist?list=PLKN0vyOK8SHelderZX3Vb84zwoAWoTKwR)
+- [HyperChat](https://livetl.app/hyperchat) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/hyperchat-improved-youtub/naipgebhooiiccifflecbffmnjbabdbh" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/hyperchat/" />
+- [ytcFilter](https://github.com/LiveTL/ytcfilter) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/ytcfilter/mnldnbhgfocmkehnlkeanlhfmopepnko" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/ytcfilter/" />
 
 ## Socials
 
@@ -376,17 +376,28 @@ outline: 1
   - [hololive ERROR](https://store.steampowered.com/app/2062550/hololive_ERROR/)
   - [HoloParade](https://store.steampowered.com/app/2647230/HoloParade/)
 
-## User Tools
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
-    - [yt-dlp interface](https://github.com/ErrorFlynn/ytdlp-interface)
-- [ytarchive](https://github.com/Kethsar/ytarchive)
-    - [hoshinova](https://github.com/HoloArchivists/hoshinova)
-- [Chat Downloader](https://github.com/xenova/chat-downloader)
-- [Youtube Community Tab](https://github.com/HoloArchivists/youtube-community-tab)
-- [Twspace-dl](https://github.com/HoloArchivists/twspace-dl)
-- [Holoscrape](https://github.com/dannylty/holoscrape)
-- [Ragtag Player](https://archive.ragtag.moe/player)
-- [ffmprovisr](https://amiaopensource.github.io/ffmprovisr/)
+
+## Youtube
+
+- **Animators**
+  - [Myth's Bad Ending by Mazumaro](https://www.youtube.com/watch?v=euPfAilSpuU)
+  - [2ManySnacks](https://www.youtube.com/@2ManySnacks/)
+  - [Komainu EN](https://www.youtube.com/@komainu_EN)
+  - [Kanauru](https://www.youtube.com/@kanauru/)
+  - [Crash Landing Studios](https://www.youtube.com/@CrashLandingStudio)
+  - [Tripl3en](https://www.youtube.com/@Tripl3en)
+  - [H and Mr.H](https://www.youtube.com/@HandMrH)
+  - [cbo](https://www.youtube.com/@cbo_ch)
+- **News**
+  - [FalseEyeD](https://www.youtube.com/@FalseEyeD)
+  - [Khyo](https://www.youtube.com/@Khyo)
+  - [Depressed Nousagi](https://www.youtube.com/@DepressedNousagi/)
+  - [Penumbral](https://www.youtube.com/@PenumbralVT/shorts)
+- **Playlists**
+  - [HOLOLIVE Original Songs](https://www.youtube.com/playlist?list=PLcA50eR_E8Zbi4hdQHU5Rl1J6KrWRlHpM)
+  - [Hololive Songs&Covers](https://www.youtube.com/playlist?list=PLQmVFdwvZgfXlb2RDXWV1NaPXgYPu786G)
+  - [Holo no Graffiti](https://www.youtube.com/playlist?list=PL1NeGg1woXqngQytLzL8lJJLYwmzk1Wuq) | [Privated](https://www.youtube.com/playlist?list=PLMcxQWd8jwdk2YHXPScsjcw22VSZxiViL)
+  - [NIJISANJI EN songs](https://www.youtube.com/playlist?list=PLKN0vyOK8SHelderZX3Vb84zwoAWoTKwR)
 
 
 ## Modeling Tools
