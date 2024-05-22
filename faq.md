@@ -15,11 +15,13 @@ outline: 1
 :::details Why does X site have so many ads?
 **Use an Adblocker**. Ads keep the websites running, but sometimes the ad ruin the experience or even link malware. If you want ad-free experience you can do take these steps.
 
-## Android
+### Android
 Install [**Firefox**](https://play.google.com/store/apps/details?id=org.mozilla.firefox) and add [**uBlock Origin**](https://addons.mozilla.org/en-US/android/addon/ublock-origin/). This should be more than enough. If you want system-wide support, try [**Adguard**](https://adguard.com/en/adguard-android/overview.html) or [**NextDNS**](https://nextdns.io/). You can watch [**this video**](https://youtu.be/WUG57ynLb8I), if you need guidance.
-## PC
+
+### PC
 Install [**uBlock Origin**](https://ublockorigin.com/) in your browser and you're done! If you want system-wide solution, you *can* use [**NextDNS**](https://nextdns.io/) but it won't be as effective as uBlock Origin. You can also use [FastForward](https://fastforward.team/) or [Bypass.city](https://bypass.city/) to *bypass* redirects.
-## iOS
+
+### iOS
 [**NextDNS**](https://nextdns.io/) should cover everything for system-wide ads & trackers. You can also try [**AhaDNS**](https://ahadns.com/).
 :::
 
@@ -28,7 +30,7 @@ The necessity of using a VPN depends on the method of downloading. For direct do
 :::
 
 :::details Why's the download so slow?
-Use a download manager. Some websites impose file transfer limits for a single thread, thereby restricting download speeds. Download managers overcome this limitation by leveraging multiple threads for downloading, resulting in faster download speeds. We have listed the recommended ones for [**pc**](/tools.md#downloader) and [**android**](/tools.md#downloader).
+Use a download manager. Some websites impose file transfer limits for a single thread, thereby restricting download speeds. Download managers overcome this limitation by leveraging multiple threads for downloading, resulting in faster download speeds. We have listed the recommended ones for [**pc**](/tools.md#downloader-1) and [**android**](/tools.md#downloader).
 :::
 
 :::details What does X term mean?
@@ -44,10 +46,13 @@ Yes. Try [**MAL-Sync**](https://malsync.moe/). It has support for MyAnimeList, A
 :::
 
 :::details Why are some of the torrents red and some green on Nyaa.si?
-- **Green**: Uploaded by trusted uploader.
+
+### Green
+Uploaded by trusted uploader. Also it's not a re-encoded version of the original file.
 ![](/ss/nyaagreen.png)
 
-- **Red**: For anime, it indicates a re-encoded video. For manga, it indicates that an edit of someone else's release, usually for the purposes of joining spread pages. Sometimes it's indicated with "ED" tag.
+### Red
+For anime, it indicates a re-encoded video. For manga, it indicates that an edit of someone else's release, usually for the purposes of joining spread pages. Sometimes it's indicated with "ED" tag.
 ![](/ss/nyaared.png)
 :::
 
@@ -97,7 +102,13 @@ Check out our [torrent glossary](/glossary/torrent), you should find all importa
 :::
 
 :::details Can I stream torrent files?
-You *can* stream torrent files (by downloading the files sequentially). You can stream torrent files easily using [**Miru**](https://miru.watch/) & [**WebTorrent**](https://webtorrent.io/). You can stream in [**qBittorrent**](https://www.qbittorrent.org/) too. For that, before you start downloading the file, check "**Download in sequential order**" in torrent settings at left hand side.
+You *can* stream torrent files (by downloading the files sequentially).
+
+### Android
+[Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) & [Himitsu](https://github.com/RepoDevil/Himitsu/) can stream torrents from various sources including Nyaa.si. For that, install the Torrentio extension. You can customize good amount of things in extension settings.
+
+### PC
+There are a few listed in [**software page**](/software.md#anime-streaming-2). [Miru](https://miru.watch/) is the most feature-rich one. You can also [qBittorrent](https://www.qbittorrent.org/), [TorrServer](https://github.com/YouROK/TorrServer) & [WebTorrent](https://webtorrent.io/). You can read the info tab below the software list for How-to.
 
 :::
 
@@ -111,13 +122,13 @@ The distribution (here seeding / uploading) of pirated content is illegal. In pe
 
 It has various variables. The free VPNs are very limited such as untrusted owner, data cap, very few servers or very slow speed. Also, it's not like, all the paid VPNs are great. The ownership of the VPN company, the transparency or how they handle government bodies matter a lot.
 
-## Paid VPNs
+### Paid VPNs
 - [IVPN](https://www.ivpn.net/)
 - [Proton VPN](https://protonvpn.com/)
 - [Windscribe](https://windscribe.com/) <Badge type="tip" text="Freemium" />
 - [AirVPN](https://airvpn.org/)
 
-## Free VPNs
+### Free VPNs
 - [WARP](https://one.one.one.one/) <Badge type="tip" text="WireGuard" link="https://rentry.co/foss-warp" /><Badge type="tip" text="Generate" link="https://github.com/nxvvvv/warp-plus" />
 - [RiseupVPN](https://riseup.net/en/vpn)
 
@@ -149,9 +160,11 @@ Rippers upload what they like, without following any specific schedule (even in 
 :::
 
 :::details What's the best reader for manga?
-## Android
+
+### Android
 [**Perfect viewer**](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer). Why? Because it has better scaling algorithm than others (including tachiyomi / mihon and kotatsu). But you wont get the luxury of directly reading from online sources in Perfect viewer. So, you have to balance between the sources.
-## PC
+
+### PC
 There are a few options. [**CDisplayEx**](https://www.cdisplayex.com/), [**YACReader**](https://www.yacreader.com/), [**MComix**](https://sourceforge.net/projects/mcomix/files/). You should give them a try and see which ones works the best for you. There is also [**OpenComic**](https://github.com/ollm/OpenComic) which is really good for long strip comic.
 :::
 
@@ -166,11 +179,11 @@ Moiré. It generally happens during image downscaling. You can read about it in 
 :::details Where can I download manga in bulk?
 You can use multiple sources. [**Nyaa.si**](https://nyaa.si/), [**Madokami**](/guides/mado.md) or any other direct download websites like Comick or mangadex.
 
-## PC
+### PC
 - For Nyaa.si, just use [**qBittorrent**](https://www.qbittorrent.org/). It's more than enough.
 - For other DDL sites (mangadex, comick, madokami), use [**Free Manga Downloader 2**](https://github.com/dazedcat19/FMD2).
 
-## Android
+### Android
 - For Nyaa.si, you can use [**libretorrent**](https://github.com/proninyaroslav/libretorrent), [**Flud**](https://play.google.com/store/apps/details?id=com.delphicoder.flud) or [**1DM**](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US). To browse nyaa.si, a browser is enough but there is also [**Nyanpasu**](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa) which is pretty nice.
 - For DDL sites, tachiyomi / mihon is more than enough.
 :::
@@ -208,12 +221,14 @@ On the other hand, aggregators like [**Aniwave**](https://aniwave.to/home), [**K
 :::
 
 :::details Which player should I use?
-## PC
-[**mpv**](https://mpv.io/) kinda covers everything for pc. We have listed everything you need for mpv in the [**video section**](/tools.md#mpv).
 
-## Android
+### PC
+[**mpv**](https://mpv.io/) kinda covers everything for pc. We have listed everything you need for mpv in the [**tools page**](/tools.md#mpv).
+
+### Android
 For android, there is also [mpv-android](https://github.com/mpv-android/mpv-android) but the UI is too limited. You can use [**Aniyomi**](https://github.com/aniyomiorg/aniyomi)'s local option to watch anime. The UI is optimized with a good amount of options.
 :::
+
 
 <br>
 
@@ -226,17 +241,18 @@ For android, there is also [mpv-android](https://github.com/mpv-android/mpv-andr
 :::details What's the best source for anime songs / OST?
 - [**Nyaa**](https://nyaa.si/) generally has a good amount of them. They upload both Digital-Rip & CD-Rip. 
 - [**Sitting on Clouds**](https://www.sittingonclouds.net/), [SquidBoard](https://www.squid-board.org/) & [**Sukidesu OST**](https://sukidesuost.info/) upload ripped music from hi-res sources.
-- Anime songs are uploaded on legal music streaming services. You can rip from these services using [:simple-icons-revoltdotchat: **yet another music server**](https://yetanothermusicserver.top/invite/AaWeY6kV), [Squid.wtf](https://squid.wtf/) <Badge text="DDL" /> & [**DoubleDouble**](https://doubledouble.top/),  which can rip multiple hi-res sources.
+- Anime songs are uploaded on legal music streaming services. You can rip from these services using [:simple-icons-revoltdotchat: **yet another music server**](https://yetanothermusicserver.top/invite/AaWeY6kV), [Squid.wtf](https://squid.wtf/) & [**DoubleDouble**](https://doubledouble.top/),  which can rip multiple hi-res sources.
 - You can also check out [**Nicotine+**](https://nicotine-plus.org/), a [**Soulseek**](https://www.slsknet.org/) client. People share their downloaded/own rips here. It uses P2P to transfer files, so a VPN is recommended.
 - You can find more sources [**here**](/websites.md#music). If you want more ripping tools, you can check out more ripping tools in [others section](/music.md#downloader).
 :::
 
 :::details What player should I use for music?
 Personal preference.
-## Android
+
+### Android
 There are FOSS player [**Oto Music**](https://play.google.com/store/apps/details?id=com.piyush.music), [**Musicolet Music Player**](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) & [**Retro Music Player**](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic). There is also [**Poweramp**](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer.unlock) which is paid but it's really good.
 
-## PC
+### PC
 You can try [**Foobar2000**](https://www.foobar2000.org/), [**Musicbee**](https://www.getmusicbee.com/) or [**AIMP**](https://www.aimp.ru/). Foobar2000, out of the box, has very outdated UI out of the box. You can sideload skins to make it more cool looking. Example: [Georgia-ReBORN](https://github.com/TT-ReBORN/Georgia-ReBORN), [Eole](https://github.com/Ottodix/Eole-foobar-theme) etc.
 :::
 
