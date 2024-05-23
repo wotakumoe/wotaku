@@ -28,7 +28,7 @@ outline: 1
 ### Manga & LN
 - [Mangaupdates](https://www.mangaupdates.com/) :glowing-star:
 - [Novel updates](https://www.novelupdates.com/)
-- [Bookmeter]https://bookmeter.com/
+- [Bookmeter](https://bookmeter.com/)
 - [Goodreads](https://www.goodreads.com/)
 - [Kenmei](https://www.kenmei.co/)
 
