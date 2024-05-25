@@ -250,6 +250,8 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [komf](https://github.com/Snd-R/komf) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-docker:
 - [kurp](https://github.com/Snd-R/kurp) :ic-baseline-window::mingcute-linux-fill::mdi-docker:
 - [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- :material-symbols-subdirectory-arrow-right: [Image Tools](/tools.md#image-tools)
+- :material-symbols-subdirectory-arrow-right: [Manga image editing guide](/guides/imagedit.md)
 
 
 ## eBook Tools
