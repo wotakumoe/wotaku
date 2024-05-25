@@ -105,9 +105,11 @@ outline: [1,2]
 
 ## Image Tools
 
-- **Viewer+**
+- **Viewer**
   - [IrfanView](https://www.irfanview.com/)
   - [XnView MP](https://www.xnview.com/en/xnviewmp/)
+  - [JPEGView](https://github.com/sylikc/jpegview)
+  - [qView](https://interversehq.com/qview/)
 - **Optimizer**
   - [imgdanke](https://github.com/DrWhoCares/imgdanke) <tooltip>Optional for GUI but does not support Pingo v1+ at the moment.</tooltip>
   - [ImageMagick](https://imagemagick.org/index.php) <Badge type="tip" text="Scripts" link="https://www.fmwconcepts.com/imagemagick/index.php" />
@@ -119,6 +121,7 @@ outline: [1,2]
 ::: details :material-symbols-subdirectory-arrow-right: Related resources
 - [Illustration sites](/misc.md#illustrations)
 - [Scanlation related tools](/scanlation#tools)
+- [Manga Tools](/software.md#manga-tools)
 :::
 
 
