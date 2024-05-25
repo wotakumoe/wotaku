@@ -323,7 +323,7 @@ outline: 1
 - [KL Manga](https://klmanga.com/) <Badge type="danger" text="18+" />
 - [Raw Kuma](https://rawkuma.com/) <Badge type="danger" text="18+" />
 - [Sen Manga](https://raw.senmanga.com/) <Badge type="danger" text="18+" />
-- [Tuicomi](https://twicomi.com/) <Badge type="danger" text="18+" />
+- [Twicomi](https://twicomi.com/) <Badge type="danger" text="18+" />
 - [We Love Manga](https://welovemanga.one/) <Badge type="tip" text="2" link="https://manga1000.top/" /> <Badge type="danger" text="18+" />
 
 ### Torrent

@@ -87,7 +87,7 @@ outline: [1,2]
 ## Games
 
 - [DLsite](https://www.dlsite.com/) <Badge type="warning" text="Legal" />
-- [Nyaa sukebei](https://sukebei.nyaa.si/?f=0&c=1_3&q=)
+- [Nyaa Sukebei](https://sukebei.nyaa.si/?f=0&c=1_3&q=)
 - [Anime-sharing](https://www.anime-sharing.com/) <Badge type="info" text="Needs account" />
 - [CPG Repacks](https://cpgrepacks.site)
 - [Eroge Download](https://erogedownload.com/)
