@@ -24,7 +24,7 @@ outline: [1,2]
 ::: details More Apps
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [Kaizoyu!](https://kaizoyu.ovh) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/astarivi/Kaizoyu" /><Badge type="info" text="XDCC" />
-- [Miru](https://miru.js.org/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/miru-project/miru-app" />
+- [Miru App](https://miru.js.org/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/miru-project/miru-app" />
 - [Animity](https://github.com/kl3jvi/animity)
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
 :::
@@ -147,7 +147,15 @@ or buy an Android phone :ic-twotone-thumb-up:
 - [Toru](https://github.com/sweetbbak/toru) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" />
 - [Mangayomi](https://github.com/kodjodevf/mangayomi) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
 - [Layendanimator](https://github.com/Layendan/Layendanimator) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Online" />
+
+:::details More
 - [Totoro](https://github.com/insomniachi/Totoro) :ic-baseline-window: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
+- [Miru App](https://miru.js.org/) :ic-baseline-window: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/miru-project/miru-app" /> <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
+- [Seanime](https://seanime.rahim.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Online" />
+- [ani-cli](https://github.com/pystardust/ani-cli) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Online" />
+- [Akuse](https://github.com/akuse-app/Akuse) :ic-baseline-window: <Badge type="info" text="Online" />
+
+:::
 
 :::details **Streaming torrents without a dedicated anime client**
 You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're currently downloading. For this, check the "**Download in sequential order**" and go to the containing folder. Now open the file and it will play as more chunks are downloaded.
