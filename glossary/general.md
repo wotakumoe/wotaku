@@ -60,7 +60,7 @@ customDescription: Weeb terms that you will see everywhere!
 | Gravure idol | Gravure idols are models who pose in provocative swimsuit and lingerie photographs in magazines and photo books marketed towards teens (often in shonen magazine), men, similar to pin-up models. |
 | Gyaru  |  English slang equivalent of "Gal". It refers to a subculture and fashion style in Japan where girls wear dramatic tan makeup, sport big hair, and embrace 2000s fashion trends. Example: [Kitagawa Marin](https://anidb.net/character/120646)   |
 | Hentai | A term literally meaning pervert that is also used as a synonym for both animated and drawn pornography |
-| Hikikomori  |  The people who don't go out of their home. The phenomenon can also be termed as Hikikomori. You can watch [this video](https://www.youtube.com/watch?v=tnFVot15KcI) to get a clearer idea.  |
+| Hikikomori  |  Shut-ins, people who have cut themselves off from society and don't leave their homes, or even their rooms in the most extreme cases. The word Hikikomori can be used both for the phenomenon and the recluses themselves.  |
 | JK  |  "Joshi Kousei". Meaning high-school girl.   |
 | Kaiju  |   Giant monsters. It can be mentioned as a genre too. |
 | Kawaii  |   Adorable. |
@@ -68,7 +68,7 @@ customDescription: Weeb terms that you will see everywhere!
 | Loli  |   Young or young-looking girl in anime and manga.  |
 | Moe  |  The feeling of emotional attraction when you see something cute in manga, anime or other weeb stuff. These are SFW and can be any gender.  |
 | Nakama  |  Literally "Comrade". Popularized by the series 'One Piece', it is nowadays used for a group of people who are closer than family.   |
-| Seiso | *"Seiso" (清楚) refers to a particular aesthetic of purity and cleanliness that is often emphasized in the presentation of female idols. This can involve elements such as modest clothing, subtle makeup, and a generally wholesome image.* |
+| Seiso | "Seiso" (清楚) refers to a particular aesthetic of purity and cleanliness that is often emphasized in the presentation of female idols. This can involve elements such as modest clothing, subtle makeup, and a generally wholesome image. |
 | Senpai / Sempai  |   Senior. Can be in a workplace or school.  |
 | Sensei  |  Generally Teacher. But this can also be used to address someone  who is a respected professional or very senior in the position.   |
 | Shikishi | It is a high-quality art board mainly used for calligraphy and painting. Due to its exceptional quality, it is often utilized for collecting autographs featuring both simple and highly detailed artwork. Additionally, it is sometimes used as a promotional material for the show. [Examples of shikishi](https://old.reddit.com/r/Shikishi/). |
@@ -112,7 +112,7 @@ customDescription: Weeb terms that you will see everywhere!
 ## Idol / VTuber terms
 | Terms     | Meaning { class="compact" }  |
 | ------  | ------ |
-| Idol | Idols are live entertainers who are expected to be 'Seiso' or pure, meaning they do not engage in romantic relationships. Their primary goal is to entertain their fans. Idol culture is particularly popular in Asia, especially Japan and Korea. Idols are usually local, but occasionally, they can be foreigners too. However, the idol culture can be dark and questionable, despite being portrayed as glamorous in anime and manga. Idol groups can be a girls or boys group. Example: [AKB48](https://www.akb48.co.jp/). Nowadays, VTuber groups such as [Hololive](https://www.youtube.com/@hololive) are managed as an idol group. |
+| Idol | Idols are live entertainers who are expected to be 'Seiso' or pure, meaning they do not engage in romantic relationships. Their primary goal is to entertain their fans. Idol culture is particularly popular in Asia, especially Japan and Korea. Idols are usually local, but occasionally, they can be foreigners too. <br> However, the idol culture can be dark and questionable, despite being portrayed as glamorous in anime and manga. Idol groups can be a girls or boys group. Example: [AKB48](https://www.akb48.co.jp/). Nowadays, VTuber groups such as [Hololive](https://www.youtube.com/@hololive) are managed as an idol group. |
 | VTuber | A content creator, typically a streamer, who utilizes a 2D or 3D avatar instead of appearing as themselves. However, it is becoming increasingly common for VTubers to reveal themselves on social media or during streams. This often depends on the policies of the managing agency. |
 | Oshi | One's favourite idol. Also known as bias. |
 | Gachikoi / Riako | The fan himself. It's generally used when the affection is on a serious level. |
@@ -122,7 +122,8 @@ customDescription: Weeb terms that you will see everywhere!
 | Corpo / Corporate VTuber | A VTuber under contract with an agency is known as a corporate VTuber. |
 | Indie / Independent VTuber | If she/he is not under any sort of contract. |
 | Oshi Mark | It's used to indicate an idol or VTuber. It can be based by their name, their VTuber model, inside joke or just random. For example, [**Hoshimachi Suisei**](https://www.youtube.com/@HoshimachiSuisei)'s oshi mark is :comet:. It's because the term "Suisei (彗星)" means comet. [**Ninomae Ina'nis**](https://www.youtube.com/@NinomaeInanis)'s :octopus: because of her model. |
-
+| Graduation | When an idol or VTuber bids farewell to their fans. This can happen for various reasons, such as a change in goals, lack of progress, or management issues. <br> Graduation is generally viewed positively. However, if the idol or VTuber breaks any rules, depending on the severity, they may be terminated from the group, which is viewed much more negatively. Many corporate VTubers return to their past persona or adopt a new model to stream again, either as an indie or with a different corporation. |
+| PL / Past life | Refers to a VTuber's previous streaming activities, which can include another VTubing account or IRL streaming. Generally, discussing a VTuber's past life on stream or in servers is not appreciated, although there are exceptions." |
 
 ## Kemonomimi
 
