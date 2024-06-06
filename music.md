@@ -96,9 +96,10 @@ outline: 1
   - [Sakura OST](https://www.sakuraost.com/) :mdi-snail:
 
 ## Downloader
+- [YAMS](https://yams.tf/)
 - [Squid.wtf](https://squid.wtf/)
 - [DoubleDouble](https://doubledouble.top/)
-- [:simple-icons-revoltdotchat: yet another music server](https://yetanothermusicserver.top/invite/AaWeY6kV)
+- [MP3Daddy](https://mp3-daddy.com/) <tooltip>Don't download WAV and AIFF versions. It's pointless bloat. Use Squid.wtf or YAMS deezer. Better service.</tooltip>
 - [:ic-outline-telegram: Beatspot Music](https://t.me/BeatSpotBot)
 
 ## Doujin
