@@ -112,7 +112,7 @@ outline: [1,2]
 - [Hanami](https://github.com/oolxg/Hanami)
 
 ### Local
-- [YACReader](https://apps.apple.com/app/id635717885) :glowing-star:
+- [YACReader](https://apps.apple.com/app/id635717885) :glowing-star: <Badge type="tip" text="TestFlight" icon="i-ic-twotone-money-off" link="https://testflight.apple.com/join/5zhB7sRP" />
 - [SideBooks](https://apps.apple.com/us/app/sidebooks/id409777225)
 
 ::: details "iOS app not working. What should i do?"
