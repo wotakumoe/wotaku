@@ -29,9 +29,9 @@ outline: [1,2]
 - [E-Hentai](https://e-hentai.org/) <Badge type="tip" text="Search Guide" link="https://e-hentaitagsearch.blogspot.com/" /> <tooltip>It is the mangadex for doujins. Almost every doujin is first uploaded here before being scraped by other sites. Online viewer compresses the images but has the option to download stuff in original quality.<br>
 <a href="https://exhentai.org/">Exhentai</a> is it's sister site, which also hosts the more extreme and questionable content. You'll need an account on e-hentai to gain access.</tooltip>
 - [nHentai](https://nhentai.net/) <tooltip>Most popular. Decent UI but compresses images.</tooltip>
-- [Anchira](https://anchira.to/) <tooltip>fakku/irodori rips (official TLs)</tooltip>
-- [Fakku.cc](https://fakku.cc/) <tooltip>fakku/irodori rips (official TLs). Scrapes the content from anchira so good as a backup in case anchira ever goes down</tooltip>
+- [Fakku.cc](https://spy.fakku.cc/) <tooltip>fakku/irodori rips (official TLs).</tooltip>
 - [IMHentai](https://imhentai.xxx/) <tooltip>Big Library and great search filters.</tooltip>
+- [Hentai Nexus](https://hentainexus.com/)  <tooltip>fakku/irodori rips (official TLs).</tooltip>
 - [Hitomi](https://hitomi.la/) <tooltip>Big Library but difficult to navigate.</tooltip>
 - [Hentaifox](https://hentaifox.com/ ) <tooltip>Fast Updates and English only library.</tooltip>
 - [Hentai2read](https://hentai2read.com/) <tooltip>Combines Chapters of a series into a single entry unlike most sites so good to read doujin series.</tooltip>
