@@ -206,6 +206,19 @@ outline: [1,2]
 
 :::
 
+## General Tools
+
+- [BleachBit](https://www.bleachbit.org/)
+- [Bulk Crap Uninstaller](https://www.bcuninstaller.com/)
+- [Everything](https://www.voidtools.com/)
+  - [EverythingToolbar](https://github.com/srwi/EverythingToolbar)
+- [LocalSend](https://localsend.org/)
+- [NanaZip](https://github.com/M2Team/NanaZip)
+- [ShareX](https://getsharex.com/)
+- [Syncthing](https://syncthing.net/)
+- [TeraCopy](https://www.codesector.com/teracopy)
+
+
 ## Discord bots
 
 - [AniSearch](https://github.com/IchBinLeoon/anisearch-discord-bot) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://ichbinleoon.github.io/anisearch-discord-bot/#/" />
