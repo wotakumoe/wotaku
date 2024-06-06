@@ -1,6 +1,6 @@
 ---
 title: Squidify
-customDescription: Guide on how to using squidify on various devices. 
+customDescription: Guide on how to use squidify on various devices. 
 ---
 
 # Squidify
@@ -23,6 +23,7 @@ Squidify is based on Navidrome which has its own set of third-party Apps besides
 - [DSub](https://play.google.com/store/apps/details?id=github.daneren2005.dsub) <Badge type="info" text="Paid" />
 - [Symfonium](https://symfonium.app/) <Badge type="info" text="Paid" />
 - [Tempo](https://github.com/CappielloAntonio/tempo)
+- [Chora](https://github.com/CraftWorksMC/Chora)
 
 == iOS
 
@@ -35,6 +36,7 @@ Squidify is based on Navidrome which has its own set of third-party Apps besides
 == Desktop
 
 - [Sonixd](https://github.com/jeffvli/sonixd) <Badge type="info" text="Windows" /><Badge type="info" text="Linux" /><Badge type="info" text="MacOS" />
+- [Feishin](https://github.com/jeffvli/feishin) <Badge type="info" text="Windows" /><Badge type="info" text="Linux" /><Badge type="info" text="MacOS" />
 - [Sublime Music](https://sublimemusic.app/) <Badge type="info" text="Linux" />
 - [Supersonic](https://github.com/dweymouth/supersonic) <Badge type="info" text="Windows" /><Badge type="info" text="Linux" /><Badge type="info" text="MacOS" />
 - [Submariner](https://submarinerapp.com/) <Badge type="info" text="MacOS" />
