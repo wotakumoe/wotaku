@@ -135,6 +135,7 @@ outline: 1
 ## Platforms
 
 - [ArtStation](https://www.artstation.com/)
+- [Cara](https://cara.app/explore)
 - [DeviantArt](https://www.deviantart.com/)
 - [Misskey.io](https://misskey.io/) <Badge type="tip" text="Others" link="https://misskey-hub.net/en/servers/" />
 - [Newgrounds](https://www.newgrounds.com/art)
