@@ -170,10 +170,10 @@ Was originally published on a web platform. The platform can be free(twitter, pi
 ## Scanlation
 
 ### Scanlator
-A group that fan translate a manga/manhwa/manhua. The group takes the raw file and translate the whole manga (including dialogue, sfx & other forms of text). Also, sometimes the [wordplays](https://psychology.fandom.com/wiki/Japanese_wordplay) & cultural references provided in that chapter are explained in the credit section.
+A group that fan translate a manga/manhwa/manhua. The group takes the raw file and translates the whole manga (including dialogue, sfx & other forms of text). Also, sometimes the [wordplays](https://psychology.fandom.com/wiki/Japanese_wordplay) & cultural references provided in that chapter are explained in the credit section.
 
 ### Cleaner (CL)
-Cleaner takes the raw file, fixes any faults (such as artifacts due to scanning, color shifts, tilts, etc.), and cleans all of the original text including SFX, if necessary. But these days, this can be only removing texts since digital raw is widely available.
+Cleaner takes the raw file, fixes any faults (such as artifacts due to scanning, color shifts, tilts, etc.), and cleans all of the original text including SFX, if necessary. But these days, it is usually only removing text since digital raws are widely available.
 
 ### Redrawer (RD)
 Redrawer redraws all the erased parts by the cleaner and makes them as smooth as possible. They patch everything that was affected due to scanning or other issues. Nowadays, cleaning and redrawing are often done by a single person since these two tasks are closely related.
@@ -186,7 +186,7 @@ The translator translates all the text in the manga, including dialogues, sound 
 ![TL script of Living, Eating, and Sleeping Together ch. 1 (Page 1-5) (Helvetica Scans)](/glossary/manga/tl.png)
 
 ### Typesetter (TS)
-Typesetter takes the translated script from the translator and typeset it on the panel with appropriate font, formatting & sfx drawing. Sometimes TS can do both translation and typesetting.
+Typesetter takes the translated script from the translator and typesets it on the panel with appropriate font, formatting & sfx drawing. Sometimes TS can do both translation and typesetting.
 
 ### Proof reader (PR)
 PR reviews all translated text to correct any typos, awkward translations, or grammar issues. It is essential that PR is fluent in the translation language. The job of PR may become unnecessary if the TL is highly experienced, as QC could potentially take on the responsibilities.
@@ -200,7 +200,7 @@ Quality checker oversees all processes, including checking the translated manga 
 ## Technical Terms
 
 ### Halftone & Screentone
-In general printing, halftones refer to the technique of using different sized dots to create the illusion of shades and tones. This is achieved by breaking down an image into tiny black and white dots of varying densities. Screentone is by the artist to create different types of shades in art.
+In general printing, halftones refer to the technique of using different sized dots to create the illusion of shades and tones. This is achieved by breaking down an image into tiny black and white dots of varying densities. Screentones are utilized by the artist to create different types of shades in art.
 
 ### Moiré / Moire
 [Moiré](https://en.wikipedia.org/wiki/Moir%C3%A9_pattern) is the creation of a new pattern by overlapping two patterns / halftone / screentone. It can occur due to several factors:
@@ -227,7 +227,7 @@ If the image render resolution is lower than the image native resolution (even i
 
 #### **Solution**
 If it's due to artist or publisher's side, it's not really fixable without redraw. If it's due to screen resolution/DPI,
-- The level of moiré can be lowered by using a better image scaling algorithm, such as Lanczos scaling. For example: [CDisplayEx](https://www.cdisplayex.com/) (Windows) and [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer) (Android). You can tweak the Lanczos level in the settings to get better result. The level depends on the
+- The level of moiré can be lowered by using a better image scaling algorithm, such as Lanczos scaling. For example: [CDisplayEx](https://www.cdisplayex.com/) (Windows) and [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer) (Android). You can tweak the Lanczos level in the settings to get a better result. The level depends on the
 	- image DPI of the comic
 	- screen DPI of the user
 	- comic reader
@@ -244,7 +244,7 @@ The publisher can be mainly two types.
 - **Volume**: Sells the whole volume with better quality. Example: VIZ, Kodansha, Square Enix etc.
 
 ### Source
-Nowadays the primary source is digital, since it's is easier to rip and usually higher quality. In the case of scans, the most used tag is c2c - cover to cover.
+Nowadays the primary source is digital, since it is easier to rip and usually higher quality. In the case of scans, the most used tag is c2c - cover to cover.
 
 ### Uploader
 The ripper of the manga. Sometimes, it can be more than one person too. Also, if the manga is scanlated, the scanlation group is credited here.
@@ -263,4 +263,4 @@ It indicates that a digital release has issues the publisher has yet to fix (lik
 | [] | Light Novel |
 
 ### Format
-CBZ is the most common file format for manga. CBZ is just a Zip container. There are also CBR(RAR), CB7(7zip), PDF, ePub etc. The image files inside is generally jpeg and png.
+CBZ is the most common file format for manga. CBZ is just a Zip container. There are also CBR(RAR), CB7(7zip), PDF, ePub etc. The image files inside are generally jpeg and png.

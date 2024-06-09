@@ -26,7 +26,7 @@ customDescription: Weeb terms that you will see everywhere!
 | Seinen    | Men (19-40+)  |
 | Josei    | Women (19-40+)  |
 
-> Demography refers to the target audience for a piece of content. Studios and publishers need to market their content towards that specific audience, but it does not mean that only one demography will enjoy the show. Additionally, many anime/manga incorporate elements that appeal to various demographics.
+> Demography refers to the target audience for a piece of content. Studios and publishers need to market their content towards that specific audience, but it does not mean that only one demographic will enjoy the show. Additionally, many anime/manga incorporate elements that appeal to various demographics.
 
 
 ## Genre
@@ -73,7 +73,7 @@ customDescription: Weeb terms that you will see everywhere!
 | Sensei  |  Generally Teacher. But this can also be used to address someone  who is a respected professional or very senior in the position.   |
 | Shikishi | It is a high-quality art board mainly used for calligraphy and painting. Due to its exceptional quality, it is often utilized for collecting autographs featuring both simple and highly detailed artwork. Additionally, it is sometimes used as a promotional material for the show. [Examples of shikishi](https://old.reddit.com/r/Shikishi/). |
 | Shota  |  Young or young-looking boy in anime and manga.  |
-| Tokusatsu  |   Literally "Special effects". These term can be applied to movies and tv shows with superheroes with a recognizable style of special effects. [Examples of Tokusatsu](https://www.youtube.com/watch?v=bBsDwQ1by_o) |
+| Tokusatsu  |   Literally "Special effects". This term can be applied to movies and tv shows with superheroes with a recognizable style of special effects. [Examples of Tokusatsu](https://www.youtube.com/watch?v=bBsDwQ1by_o) |
 | Trap  |  A word used in the anime community to refer to a person who looks the opposite gender. Most commonly used for male characters who look female. Example: [Urushibara Ruka from Steins; Gate](https://anidb.net/character/23270)   |
 | Yamato Nadeshiko  |  A Japanese term used to describe an ideal Japanese woman. They are the epitome of pure, feminine beauty.   |
 | Zettai Ryouiki  |   Translates to 'Absolute Territory'. Refers to the space of bare thighs between the skirt and above knee-length socks.  |
@@ -88,7 +88,7 @@ customDescription: Weeb terms that you will see everywhere!
 |  -kun  |   Used most often when referring to boys, this indicates affection or familiarity. Although it may occasionally be used by older men within their social circle, it can also be employed by anyone in reference to someone of lower status.   |
 |  -chan  |   An affectionate honorific indicating familiarity used mostly in reference to girls; it is also used in reference to cute people or animals of either gender.   |
 |  -chin | Cutesy way of saying chan among girls. Can be sarcastic sometimes, depending on the context. |
-|  -tan | Generally used for childish-talk among girls. It's also used in romantic talk (in private scenario), adding [moe](#terms)-vibe in ther coversation or in bar where hostess address themselves as -tan. |
+|  -tan | Generally used for childish-talk among girls. It's also used in romantic talk (in private scenario), adding [moe](#terms)-vibe in their conversations or in a bar where hostess address themselves as -tan. |
 |  -(o)nii-chan  |   A familiar, somewhat childish way to refer to one’s older brother.   |
 |  -(o)nee-chan  |   A familiar, somewhat childish way to refer to one's older sister.   |
 |  -senpai  |  It is used to address upperclassmen or more experienced coworkers.    |
@@ -96,7 +96,7 @@ customDescription: Weeb terms that you will see everywhere!
 |  No honorific  |   Indicates familiarity or closeness; if used without permission or reason, addressing someone in this manner would constitute as an insult.   |
 
 
-::: info If you want to mention a family member in formal way, here is [**the guide**](https://rentry.org/jpfamily).
+::: info If you want to mention a family member in a formal way, here is [**the guide**](https://rentry.org/jpfamily).
 :::
 
 
@@ -127,7 +127,7 @@ customDescription: Weeb terms that you will see everywhere!
 
 ## Kemonomimi
 
-"Kemonomimi" means "animal ears." They are human-like characters who possess animal features such as ears, tails etc. Example: [Tokai Teiou from Uma Musume](https://anidb.net/character/94007)
+"Kemonomimi" means "animal ears." They are human-like characters who possess animal features such as ears, tails etc. Example: [Toukai Teiou from Uma Musume](https://anidb.net/character/94007)
 
 | Types    |   Meaning { class="compact" }  |
 | :---: | :---: |
@@ -261,7 +261,7 @@ Character(s) type that is obsessed with getting married right away, even if it's
 
 :::details Kuudere
 
-Character(s) who is always calm and collected, especially in the most stressful of situations. They never panic and usually analyze and think through things til' they solve the problem, it's rare for them to show affection or emotion to others in varying situations, however they could be hiding how they actually feel deep down. Example: [Hishiro Chizuru from ReLife](https://anidb.net/character/79913)
+Character(s) who are always calm and collected, especially in the most stressful of situations. They never panic and usually analyze and think through things til' they solve the problem, it's rare for them to show affection or emotion to others in varying situations, however they could be hiding how they actually feel deep down. Example: [Hishiro Chizuru from ReLife](https://anidb.net/character/79913)
 
 ![Hishiro Chizuru](/glossary/general/kuudere.png)
 

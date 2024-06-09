@@ -252,7 +252,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 ## Manga Tools
 - [ACBR - Comic Book Reader](https://github.com/binarynonsense/comic-book-reader) :ic-baseline-window::mingcute-linux-fill:
-- [CBconvert](https://github.com/gen2brain/cbconvert) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:****
+- [CBconvert](https://github.com/gen2brain/cbconvert) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [cbz/cbr file converter](http://tomeko.net/software/CbxConverter/) :ic-baseline-window:
 - [ComicTagger](https://github.com/comictagger/comictagger) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Enma](https://github.com/alexandresenpai/Enma) :ic-baseline-window::mingcute-linux-fill:
