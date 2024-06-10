@@ -69,7 +69,7 @@ Information about various types of publishers for manga and manhwa.
 :::tip Notes {open}
 1. Standard resolution outside of their own storefront is x2400, chapters are ~~also x2400~~ now x3000 - these figures are only validated for their own licenses.
 2. Standard non-CMX/Amazon HD resolution is x2048 everywhere, ~~including their own store~~ they have silently upgraded their own storefront to 1800x (~x25xx).
-3. Their store has a broken download issue with no ETA for a fix. It's recommended to use Kobo to get any of their books for now. Their own store is DRM-free.
+3. ~~Their store has a broken download issue with no ETA for a fix.~~ They've fixed their store as of May 2024, but they've not updated their catalog post ~March 2023. It's recommended to use Kobo to get any of their newer books for now. Their own store is DRM-free.
 4. Humble Bundle PDF export resolution (at 600 dpi) ranges from x4200 - x4913. CMX resolution varies, older volumes were mostly between x3056 and x3684, and post-CMX Amazon HD volumes are ~x2700. Standard non-CMX/Amazon HD resolution is 1600x -> x227x - x2400 (except for their own storefront which should be avoided, as it offers the worst quality and resolution combination at x2160 q40).
 5. Both do NSFW releases on FAKKU, and anything on Fakku that isn't their unlimited chapters is x3200 more or less.
 6. Ranges between x3206 - x3713 for Comixology volumes. Post-CMX Amazon HD volume res has been downgraded to x2565 - ~x272x. Standard non-CMX/Amazon HD resolution is x2000 everywhere (except for Bookwalker Web where it is x1500).
