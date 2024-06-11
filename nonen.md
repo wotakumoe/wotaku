@@ -218,7 +218,7 @@ outline: 1
 ## Anime
 
 - [German Fansubbers' Index](https://anime-fansubs.de/)
-- [Anime Archive](https://anime-archive.com/)
+- [Anime Archive](https://anime-archive.com/) <Badge type="info" text="DDL" />
 - [AniWorld](https://aniworld.to/)
 - [Aniflix](https://aniflix.cc/)
 - [Anime Loads](https://www.anime-loads.org/) <Badge type="info" text="Stream" /><Badge type="info" text="DDL" />
@@ -226,12 +226,13 @@ outline: 1
 
 ## Manga
 
-- [Comic Mafia](https://comicmafia.to/)
+- [ComicMafia](https://comicmafia.to/) <Badge type="info" text="DDL" />
 
 ## Others
 ### Community
 - [Animexx](https://www.animexx.de/)
 - [Baka Board](https://baka-bewerbung.me/form/jPQXDZ) <Badge type="info" text="Usenet" />
+- [myGully](https://mygully.com/) <Badge type="info" text="Needs account" /><Badge type="info" text="DDL" />
 - [Proxer](https://proxer.me/)
 
 <br>
