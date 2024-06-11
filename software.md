@@ -99,6 +99,8 @@ outline: [1,2]
 - [9Animator](https://github.com/SuperMarcus/NineAnimator)
 - [Chouten beta](https://testflight.apple.com/join/Cg1rAPB8) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/GJGMJRPJ5j" />
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
+- [Miru](https://mirutv.app/)
+- [Mochi](https://azlan.works/work/Mochi)
 - [Soshiki](https://github.com/soshikimoe/soshiki-ios)
 
 ## Manga Readers
@@ -130,6 +132,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 
 ## Trackers
 - [AniHyou](https://apps.apple.com/us/app/anihyou-anilist-client/id1635777325)
+- [Kitsune for MyAnimeList](https://apps.apple.com/us/app/kitsune-for-myanimelist/id6466716447)
 - [MyAniList](https://apps.apple.com/us/app/myanilist/id741257899)
 - [MyAnimeList Official](https://apps.apple.com/us/app/myanimelist-official/id1469330778)
 - [Risuto for AniList](https://apps.apple.com/us/app/risuto-for-anilist/id6455685990)
