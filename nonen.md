@@ -253,6 +253,7 @@ outline: 1
 - [Animerulz](https://animerulz.pro/home/)
 - [Anplay](https://anplay.in/)
 - [Animeworld](https://anime-world.in/)
+- [Ani/Time](https://anitime.aniwow.in/)
 - [Dora Bash](https://doraemontheanime.com/)
 - [ToonStream](https://toonstream.in/)
 
@@ -384,6 +385,7 @@ outline: 1
 
 ## Manga
 - [Manga Livre](https://mangalivre.net/)
+- [SlimeRead](https://slimeread.com/)
 - [Tao Sect](https://taosect.com/)
 - [Union Mangas](https://orchidcommerce.com/home)
 
