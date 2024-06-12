@@ -78,14 +78,14 @@ At times, the beginning of a 4-Koma manga may feature a sizable illustration, sp
 
 It's a newer type of comics format. Long strip comics are drawn for smartphone readers. The flow of the panels is up-down instead of traditional right-left/left-right. For long strip comics, the artist has to follow [different rules](https://www.webtoons.com/en/tiptoon/lozolz/webtoon-editing-tips/viewer?title_no=1268&episode_no=24) than in the traditional manga format. This format is widely used in the manhwa and manhua industries. But it's available for every region. Example: [Solo Leveling](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0/solo-leveling) (Manhwa), [Relife](https://mangadex.org/title/6e3553b9-ddb5-4d37-b7a3-99998044774e/relife) (Manga), [The Beginning After the End](https://comick.io/comic/00-the-beginning-after-the-end-1) (OEL).
 
-<div class="video_wrapper"><iframe src="https://iv.ggtyler.dev/embed/0hESrODhTMk" frameborder="0" allowfullscreen></iframe></div>
+<div class="video_wrapper"><iframe src="https://www.youtube.com/embed/0hESrODhTMk" frameborder="0" allowfullscreen></iframe></div>
 
 <br>
 
 Occasionally, the publisher also releases the physical version, with panels strategically rearranged to accommodate the right-left/left-right reading direction. Example: [Solo Leveling Vol. 2 by Yen Press](https://yenpress.com/titles/9781975319458-solo-leveling-vol-2-comic)
 
 
-<div class="video_wrapper"><iframe src="https://iv.ggtyler.dev/embed/S6EloIXKWj4" frameborder="0" allowfullscreen></iframe></div>
+<div class="video_wrapper"><iframe src="https://www.youtube.com/embed/S6EloIXKWj4" frameborder="0" allowfullscreen></iframe></div>
 
 
 ### Splash
@@ -178,7 +178,7 @@ Cleaner takes the raw file, fixes any faults (such as artifacts due to scanning,
 ### Redrawer (RD)
 Redrawer redraws all the erased parts by the cleaner and makes them as smooth as possible. They patch everything that was affected due to scanning or other issues. Nowadays, cleaning and redrawing are often done by a single person since these two tasks are closely related.
 
-<div class="video_wrapper"><iframe src="https://iv.ggtyler.dev/embed/lwOTTa8F3bM" frameborder="0" allowfullscreen></iframe></div>
+<div class="video_wrapper"><iframe src="https://www.youtube.com/embed/lwOTTa8F3bM" frameborder="0" allowfullscreen></iframe></div>
 
 ### Translator (TL)
 The translator translates all the text in the manga, including dialogues, sound effects, and other texts in the panels. They also provide explanations for all the jokes, cultural references, or wordplays.
