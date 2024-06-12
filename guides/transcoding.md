@@ -23,15 +23,15 @@ Transcoding means converting/encoding audio files from one format to another. In
   - **Lossless**: Qobuz, Apple Music, Tidal, Amazon Music & Deezer
   - **Lossy**: Spotify & Youtube Music
 
-## Audio Format / Container
+## Audio Codec
 
-| Type | Container |
+| Type | Codec |
 |---|---|
 | Uncompressed Lossless | WAV, AIFF |
 | Compressed Lossless | FLAC, ALAC, APE, WavPack |
-| Compressed Lossy | MP3, Ogg Vorbis, Opus, AAC, WMA |
+| Compressed Lossy | MP3, Vorbis, Opus, AAC, WMA |
 
-- **Open source**: FLAC, APE, WavPack, Ogg Vorbis, Opus.
+- **Open source**: FLAC, APE, WavPack, Vorbis, Opus.
 - Uncompressed Lossless is usually used for studio mastering and editing. huge in size since everything is recorded with same bitrate (including silences).
 - Compressed Lossless efficiently compresses the audio and reduces the file size by a good margin.
 - Lossy formats remove the audio ranges that humans can't hear.
@@ -74,9 +74,9 @@ Transcoding means converting/encoding audio files from one format to another. In
 
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/VjPCHhot_k8" frameborder="0" allowfullscreen></iframe></div>
 
-### Standard Quality for Common Containers
+### Standard Quality for Common Codecs
 
-| Container | Quality |
+| Codec | Quality |
 |---|---|
 | FLAC | Lvl 8 |
 | MP3 (VBR) | Lvl 0 |
