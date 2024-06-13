@@ -23,9 +23,11 @@ outline: [1,2]
 
 ::: details More Apps
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
-- [Kaizoyu!](https://kaizoyu.ovh) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/astarivi/Kaizoyu" /><Badge type="info" text="XDCC" />
+- [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one)
+  - :material-symbols-subdirectory-arrow-right: [Stremio Tools](#anime-tools)
 - [Miru App](https://miru.js.org/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/miru-project/miru-app" />
 - [Animity](https://github.com/kl3jvi/animity)
+- [Kaizoyu!](https://kaizoyu.ovh) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/astarivi/Kaizoyu" /><Badge type="info" text="XDCC" />
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
 :::
 
@@ -152,6 +154,8 @@ or buy an Android phone :ic-twotone-thumb-up:
 - [Layendanimator](https://github.com/Layendan/Layendanimator) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Online" />
 
 :::details More
+- [Stremio](https://www.stremio.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
+  - :material-symbols-subdirectory-arrow-right: [Stremio Tools](#anime-tools)
 - [Totoro](https://github.com/insomniachi/Totoro) :ic-baseline-window: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
 - [Miru App](https://miru.js.org/) :ic-baseline-window: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/miru-project/miru-app" /> <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
 - [Seanime](https://seanime.rahim.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Online" />
@@ -232,7 +236,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 
 ## Anime Tools
-- [Anicon](https://github.com/notdedsec/anicon) <Badge type="info" text="Anilist" link="https://github.com/EnArvy/AniconforAnilist"/>:ic-baseline-window:
+- [Anicon](https://github.com/notdedsec/anicon) <Badge type="info" text="AniList" link="https://github.com/EnArvy/AniconforAnilist"/>:ic-baseline-window:
 - [Anitomy](https://github.com/erengy/anitomy)
 - [GetFnative](https://github.com/YomikoR/GetFnative) <Badge type="info" text="getfscaler" link="https://github.com/Jaded-Encoding-Thaumaturgy/getfscaler"/>
 - [Getnative](https://github.com/Infiziert90/getnative)
@@ -244,6 +248,12 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Seanime](https://seanime.rahim.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/5rahim/seanime" />
 - [Shoko Anime](https://shokoanime.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
   - [Shokofin](https://github.com/ShokoAnime/Shokofin)
+- **Stremio**
+  - [Stremio Community Addons List](https://stremio-addons.netlify.app/)
+  - [Stremio Addon Manager](https://stremio-addon-manager.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/pancake3000/stremio-addon-manager" />
+  - [Animeo: AniList Tracking](https://7a625ac658ec-animeo.baby-beamup.club/configure) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/Jenrykster/animeo" />
+  - [SIMKL Addon](https://simkl.com/apps/stremio/)
+  - [Anime Catalogs](https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/configure)
 
 ::: details :material-symbols-subdirectory-arrow-right: Related resources
 - [Video tools](/tools.md#video-tools)
@@ -277,7 +287,6 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 
 ## Trackers
-- [Animeo](https://github.com/Jenrykster/animeo) <Badge type="info" text="Stremio" />
 - [Hachidori](https://malupdaterosx.moe/hachidori/) :ic-baseline-apple: <Badge type="info" text="Github" icon="i-octicon-mark-github" link="https://github.com/Atelier-Shiori/hachidori" />
 - [MALClient](https://apps.microsoft.com/store/detail/malclient/9NBLGGH5F3BL) :ic-baseline-window: <Badge type="tip" text="Github" icon="i-octicon-mark-github" link="https://github.com/Drutol/MALClient" />
 - [MAL-Sync](https://malsync.moe/) :mdi-earth: <Badge type="tip" text="Github" icon="i-octicon-mark-github" link="https://github.com/MALSync/MALSync" />
