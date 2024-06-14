@@ -9,6 +9,12 @@ outline: 1
 
 <br>
 
+::: tip Contribute :index-pointing-at-the-viewer:
+If you have recommendations for good sites in your native language or want to report an issue with an already added site, please use the feedback option in the left sidebar. You can also join our [Discord server](https://discord.gg/wZMuSGpZ8s) to submit your suggestions. 
+:::
+
+<br>
+
 # Multi
 
 ## Anime
@@ -256,7 +262,7 @@ outline: 1
 - [Animeworld](https://anime-world.in/)
 - [Ani/Time](https://anitime.aniwow.in/)
 - [Dora Bash](https://doraemontheanime.com/)
-- [ToonStream](https://toonstream.in/)
+- [ToonStream](https://toonstream.day/)
 
 ### DDL
 - [1XAnime](https://www.1xanime.in/)
