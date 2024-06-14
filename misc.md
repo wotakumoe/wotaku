@@ -261,14 +261,11 @@ outline: 1
 
 ## Stats
 
-- **Visualizer**
   - [Sekai](https://sekai.rl404.com/) :glowing-star: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/rl404/sekai" /><Badge type="info" text="MAL" /> 
   - [MAL Badges](https://www.mal-badges.com/) <Badge type="info" text="MAL" />
   - [anime.plus](https://anime.plus/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/anime-plus/graph" /><Badge type="info" text="MAL" />
   - [Anistats](https://mayudev.github.io/anistats/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/mayudev/anistats" /><Badge type="info" text="AL" />
-- **Recommendation**
-  - [Spin.moe](https://spin.moe/)
-  - [Sprout Anime Recommender](https://anime.ameo.dev/) :glowing-star: <Badge type="info" text="MAL" /><Badge type="info" text="AL" /> 
+
 
 ## Others
 
@@ -503,9 +500,14 @@ outline: 1
 ## Recommendations
 
 ### Anime & Manga
-- ANN TOP 100 <Badge type="tip" text="Anime" link="https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=popular&n=100" /><Badge type="tip" text="Manga" link="https://www.animenewsnetwork.com/encyclopedia/ratings-manga.php?top50=best_bayesian&n=100" />
-- [r/Anime Recommendations](https://old.reddit.com/r/anime/wiki/recommendations/)
-- [u/FetchFrosh Recommendations](https://old.reddit.com/r/anime/comments/o16ipm/rebuild_of_the_ultimate_anime_recommendation/)
+- **User Recommendations**
+  - ANN TOP 100 <Badge type="tip" text="Anime" link="https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=popular&n=100" /><Badge type="tip" text="Manga" link="https://www.animenewsnetwork.com/encyclopedia/ratings-manga.php?top50=best_bayesian&n=100" />
+  - [r/Anime Recommendations](https://old.reddit.com/r/anime/wiki/recommendations/)
+  - [u/FetchFrosh Recommendations](https://old.reddit.com/r/anime/comments/o16ipm/rebuild_of_the_ultimate_anime_recommendation/)
+- **Algorithm Based**
+  - [AniBrain](https://anibrain.ai/)
+  - [Spin.moe](https://spin.moe/)
+  - [Sprout Anime Recommender](https://anime.ameo.dev/) :glowing-star: <Badge type="info" text="MAL" /><Badge type="info" text="AL" /> 
 
 ### Visual Novel
 - [VNDB](https://vndb.org/v?f=022gja3gja&s=34w)
