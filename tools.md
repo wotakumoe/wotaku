@@ -138,6 +138,7 @@ outline: [1,2]
 - **Tools**
   - [FFmpeg](https://ffmpeg.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
   - [HandBrake](https://handbrake.fr/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+  - [Videomass](https://jeanslack.github.io/Videomass/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
 ## mpv
 
