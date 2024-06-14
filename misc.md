@@ -245,6 +245,15 @@ outline: 1
 ![](/banner/utility.png)
 # Utility
 
+## Anime & Manga
+- [3x3 Generator](https://gqgs.github.io/3x3-generator/)
+- [Anipool](https://www.anipool.app/)
+- [Randime](https://randime.moe/)
+- [Related Anime](https://relatedanime.com/)
+- [Spin.moe](https://spin.moe/)
+- [uNoGS.com](https://unogs.com/)
+
+
 ## Image
 
 - **Search**
@@ -268,13 +277,9 @@ outline: 1
 
 
 ## Others
-
-- [3x3 Generator](https://gqgs.github.io/3x3-generator/)
-- [Anipool](https://www.anipool.app/)
 - [MAL/AL/K/AP lists XML Exporter](https://malscraper.azurewebsites.net/)
-- [Randime](https://randime.moe/)
 - [Trakt to MAL](https://anitrakt.huere.net/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/ryuuganime/aniTrakt-IndexParser" />
-- [uNoGS.com](https://unogs.com/)
+
 
 
 
@@ -506,7 +511,6 @@ outline: 1
   - [u/FetchFrosh Recommendations](https://old.reddit.com/r/anime/comments/o16ipm/rebuild_of_the_ultimate_anime_recommendation/)
 - **Algorithm Based**
   - [AniBrain](https://anibrain.ai/)
-  - [Spin.moe](https://spin.moe/)
   - [Sprout Anime Recommender](https://anime.ameo.dev/) :glowing-star: <Badge type="info" text="MAL" /><Badge type="info" text="AL" /> 
 
 ### Visual Novel
