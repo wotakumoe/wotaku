@@ -349,7 +349,6 @@ outline: 1
 | ------------------------------------------- | --------- | ------------- |
 | [buzzheavier](https://tabletomarkdown.com/) | Unlimited | :cross-mark:  |
 | [bzzhr](https://bzzhr.co/)                  | Unlimited | :cross-mark:  |
-| [HIDAN](https://hidan.co/)                  | Unlimited | :cross-mark:  |
 | [file.haus](https://filehaus.pk/)           | Unlimited | :cross-mark:  |
 | [Gofile](https://gofile.io/)                | Unlimited | 10 days       |
 
