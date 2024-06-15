@@ -21,6 +21,15 @@ outline: [1,2]
   - [Awery](https://github.com/MrBoomDeveloper/Awery)
 - [AnimeTV](https://amarullz.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/amarullz/AnimeTV" />
 
+::: info Extensions for Aniyomi & others
+You have to sideload anime extension repos in aniyomi, its forks & others that use aniyomi's extensions. 
+
+- **Auto**
+  - Click on [**this URL**]([aniyomi://add-repo?url=https%3A%2F%2Fraw.githubusercontent.com%2Falmightyhak%2Faniyomi-anime-repo%2Fmain%2Findex.min.json) & it will sideload the repo automatically.
+- **Manual**.
+  - You can copy [**this URL**](https://github.com/almightyhak/aniyomi-anime-repo/blob/main/index.min.json) and put it in **:mdi-dots-horizontal:More :mdi-arrow-right-thin: :mdi-cog-outline:Settings :mdi-arrow-right-thin: :mdi-compass-outline:Browse :mdi-arrow-right-thin: Anime extension repos**.
+:::
+
 ::: details More Apps
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one)
@@ -42,7 +51,8 @@ outline: [1,2]
 - [Kotatsu](https://kotatsu.app/)  <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/KotatsuApp/Kotatsu" />
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 
-::: info By default, Mihon or other tachiyomi forks won't have any extensions. You have to [**sideload them**](https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo).
+::: info Extensions for Mihon forks
+By default, Mihon or other forks won't have any extensions. You have to [**sideload them**](https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo).
 :::
 
 ### Local

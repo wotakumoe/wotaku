@@ -48,7 +48,14 @@ customDescription: Discover websites, software, and essentials for anime, manga,
   - [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) :glowing-star:
 - [Quicknovel](https://github.com/LagradOst/QuickNovel)
 
-::: info By default, Mihon or other tachiyomi forks won't have any extensions. You have to [**sideload them**](https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo).
+::: info Extensions for Mihon, Aniyomi & other forks
+You have to sideload extension repos in mihon, aniyomi & its forks to get extensions. 
+
+- **Auto:** 
+  - Click on the following links and the repos will be sideloaded automatically. For [**anime**](aniyomi://add-repo?url=https%3A%2F%2Fraw.githubusercontent.com%2Falmightyhak%2Faniyomi-anime-repo%2Fmain%2Findex.min.json) and [**manga**](tachiyomi://add-repo?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkeiyoushi%2Fextensions%2Frepo%2Findex.min.json).
+
+- **Manual:**
+  - Copy the links and put them in **:mdi-dots-horizontal:More :mdi-arrow-right-thin: :mdi-cog-outline:Settings :mdi-arrow-right-thin: :mdi-compass-outline:Browse :mdi-arrow-right-thin: Extension repos**. For [**anime**](https://github.com/almightyhak/aniyomi-anime-repo/blob/main/index.min.json) and [**manga**](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json).
 :::
 
 ### iOS
