@@ -20,7 +20,8 @@ outline: 2
 - [Doujin Style](https://doujinstyle.com/) <Badge type="info" text="Doujin" />
 
 
-::: danger [**Click here to get the list**](https://rentry.org/pgames#untrusted-sites) of Untrusted Game Downloading Websites.
+::: danger Untrusted sites
+[**Click here to get the list**](https://rentry.org/pgames#untrusted-sites) of Untrusted Game Downloading Websites.
 :::
 
 ## ROM
@@ -41,7 +42,8 @@ outline: 2
 - [Ziperto](https://www.ziperto.com/) :simple-icons-nintendoswitch:
 
 
-::: info For emulation, check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page).
+::: info Emulation
+check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page).
 :::
 
 ## Info

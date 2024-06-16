@@ -21,7 +21,7 @@ outline: [1,2]
   - [Awery](https://github.com/MrBoomDeveloper/Awery)
 - [AnimeTV](https://amarullz.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/amarullz/AnimeTV" />
 
-::: info Extensions for Aniyomi & others
+::: tip Extensions for Aniyomi & others
 You have to sideload anime extension repos in aniyomi, its forks & others that use aniyomi's extensions. 
 
 - **Auto**
@@ -51,7 +51,7 @@ You have to sideload anime extension repos in aniyomi, its forks & others that u
 - [Kotatsu](https://kotatsu.app/)  <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/KotatsuApp/Kotatsu" />
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 
-::: info Extensions for Mihon forks
+::: tip Extensions for Mihon forks
 By default, Mihon or other forks won't have any extensions. You have to [**sideload them**](https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo).
 :::
 

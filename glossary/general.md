@@ -96,7 +96,8 @@ customDescription: Weeb terms that you will see everywhere!
 |  No honorific  |   Indicates familiarity or closeness; if used without permission or reason, addressing someone in this manner would constitute as an insult.   |
 
 
-::: info If you want to mention a family member in a formal way, here is [**the guide**](https://rentry.org/jpfamily).
+::: info More words
+If you want to mention a family member in a formal way, here is [**the guide**](https://rentry.org/jpfamily).
 :::
 
 

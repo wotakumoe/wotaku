@@ -42,5 +42,6 @@ customDescription: Why not learn some words while reading or watching? Can help 
 | Zettai Ryouiki | A term for the area of bare skin between ones over-knee socks or stockings and ones miniskirt, skirt, dress or shorts |
 
 
-::: info [Zone-tan's Ecchication series](https://www.youtube.com/playlist?list=PLyD77dL4TECbsBqjxtaK9Q0wuncOuku3) for further research.
+::: info More words
+[Zone-tan's Ecchication series](https://www.youtube.com/playlist?list=PLyD77dL4TECbsBqjxtaK9Q0wuncOuku3) for further research.
 :::

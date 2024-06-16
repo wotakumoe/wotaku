@@ -48,7 +48,7 @@ customDescription: Discover websites, software, and essentials for anime, manga,
   - [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) :glowing-star:
 - [Quicknovel](https://github.com/LagradOst/QuickNovel)
 
-::: info Extensions for Mihon, Aniyomi & other forks
+::: tip Extensions for Mihon, Aniyomi & other forks
 You have to sideload extension repos in mihon, aniyomi & its forks to get extensions. 
 
 - **Auto:** 
@@ -67,7 +67,8 @@ You have to sideload extension repos in mihon, aniyomi & its forks to get extens
   - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 
 
-::: info **duck note:** iOS app development is whack. so, shit can break any time.
+::: info **duck note**
+iOS app development is whack. so, shit can break any time.
 :::
 
 ### PC

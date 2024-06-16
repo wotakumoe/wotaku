@@ -145,7 +145,8 @@ By default, FMD2 will save it as folder. Go to `Options > Save to > Save downloa
 
 :::
 
-::: info FMD2 can't download 3 files at a time. For that use **JDL2**.
+::: info FMD2 limitation
+FMD2 can't download 3 files at a time. For that use **JDL2**.
 :::
 
 

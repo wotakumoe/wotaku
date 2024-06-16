@@ -99,7 +99,8 @@ outline: [1,2]
 ::: info Try searching with Japanese titles or DLSite product ID on Sukebei.
 :::
 
-::: info Not sure what the Japanese term means when browsing? Check out the [**nsfw glossary**](/glossary/nsfw)
+::: info NSFW Glossary
+Not sure what the Japanese term means when browsing? Check out the [**nsfw glossary**](/glossary/nsfw)
 :::
 
 

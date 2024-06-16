@@ -15,13 +15,14 @@ IRC (Internet Relay Chat) is a real-time messaging protocol, while XDCC (eXtende
 2. Go to a [**XDCC Packlists**](#xdcc-packlists) and search for your content
 3. Click on the search result for the command message 
 
-::: info Standard XDCC command `/msg [bot name] xdcc send #[packet number]`
-:::
+**Standard XDCC command** `/msg [bot name] xdcc send #[packet number]`
 
-4. Join the server and the channel of the bot and send the command message
-5. It will show a pop up for the download.
 
-::: info If you face any issues when connecting, try enabling **"Accept invalid SSL certificates"** in the network options.
+1. Join the server and the channel of the bot and send the command message
+2. It will show a pop up for the download.
+
+::: info SSL issue
+If you face any issues when connecting, try enabling **"Accept invalid SSL certificates"** in the network options.
 :::
 
 
@@ -37,7 +38,8 @@ IRC (Internet Relay Chat) is a real-time messaging protocol, while XDCC (eXtende
 - [LimeChat](https://apps.apple.com/us/app/limechat/id414030210) <Badge type="info" text="macOS" />
 
 
-::: info [**Click here**](https://ircv3.net/software/clients) more clients.
+::: info Client info
+[**Click here**](https://ircv3.net/software/clients) more clients.
 :::
 
 

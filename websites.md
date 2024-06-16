@@ -451,7 +451,8 @@ outline: 1
   - [Webtoons](https://www.webtoons.com/en/)
 
 
-::: info Websites for volume releases are [**added here**](/guides/digim)
+::: info More sites
+You can go through [**digital manga info**](/guides/digim) to get more sites including sites for volume releases.
 :::
 
 ## Novel

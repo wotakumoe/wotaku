@@ -380,7 +380,8 @@ outline: 1
 - [ZSpotify](https://github.com/jsavargas/zspotify) <Badge type="tip" text="GUI" link="https://github.com/PacketSurf/ZSpotifyGUI" />
 
 
-::: info You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Premium ARL.
+::: info Free premium accounts
+You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Premium ARL.
 :::
 
 
