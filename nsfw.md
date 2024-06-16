@@ -14,14 +14,14 @@ outline: [1,2]
 - [Eronews](https://en.eroeronews.com/) <Badge type="tip" text="Schedule & News" />
 - [AnimeID Hentai](https://animeidhentai.com/)
 - [Haho](https://haho.moe/)
-- [Hanime](https://hanime.tv/) :glowing-star: <Badge type="info" text="720p" /> 
-- [Hentai Bar](https://hentaibar.com/) :glowing-star:
+- [Hanime](https://hanime.tv/) <Badge type="info" text="720p" /> 
+- [Hentai Bar](https://hentaibar.com/)
 - [Hentai Haven](https://hentaihaven.xxx/)
 - [Hentai Mama](https://hentaimama.io/)
-- [Hentai Stream](https://hstream.moe/) <Badge type="info" text="4K" />
+- [Hentai Stream](https://hstream.moe/) <Badge type="info" text="Upscale" />
 - [Hentai World](https://hentaiworld.tv/)
 - [Mucho Hentai](https://muchohentai.com/) <Badge type="info" text="Schedule" /><Badge type="info" text="PV" />
-- [Oppai](https://oppai.stream/) <Badge type="info" text="4K" />
+- [Oppai](https://oppai.stream/) <Badge type="info" text="Upscale" />
 - [Rule34video](https://rule34video.com/)
 
 
