@@ -32,8 +32,6 @@ outline: 2
 - [ROMSpure](https://romspure.cc/roms)
 - [CDRomance](https://cdromance.com/)
 - [AlvRo's Collection](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml)
-- [Vimm's Lair](https://vimm.net/vault/)
-- [Squid Proxy](https://www.squid-proxy.xyz/)
 
 ### Platform Specific
 - [hShop](https://hshop.erista.me/) :simple-icons-nintendo3ds:
