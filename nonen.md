@@ -386,15 +386,15 @@ If you have recommendations for good sites in your native language or want to re
 
 ## Anime
 - [Anime Fire](https://animefire.net/)
+- [Animes House](https://animeshouse.app/)
 - [Animes Zone](https://animeszone.net/)
 - [Better Anime](https://betteranime.net/)
+- [Hinata Soul](https://www.hinatasoul.com/)
 - [Saikoni](https://saikoani.me/)
 
 ## Manga
-- [Manga Livre](https://mangalivre.net/)
 - [SlimeRead](https://slimeread.com/)
 - [Tao Sect](https://taosect.com/)
-- [Union Mangas](https://orchidcommerce.com/home)
 
 ## Tokusatsu
 - [DGB Catálogo](https://dgbcatalogo.carrd.co/)
