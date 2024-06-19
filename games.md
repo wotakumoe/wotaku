@@ -28,9 +28,10 @@ outline: 2
 
 
 ### General
-- [r/roms](https://r-roms.github.io/) :glowing-star:
+- [/r/Roms Megathread](https://r-roms.github.io/) :glowing-star:
 - [ROMSpure](https://romspure.cc/roms)
 - [CDRomance](https://cdromance.com/)
+- [Myrient](https://myrient.erista.me/)
 - [AlvRo's Collection](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml)
 
 ### Platform Specific
