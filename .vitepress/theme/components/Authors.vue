@@ -21,7 +21,13 @@ const credits = {
       site: "https://nyaa.si/user/Oakminati",
       avatar: "/pfp/oak.png",
     },
+    {
+      name: "XRA-Empire",
+      site: "https://nyaa.si/user/Oakminati",
+      avatar: "/pfp/xra.png",
+    }
   ],
+
   discrip: [
     {
       name: "nullishcat",
@@ -37,6 +43,7 @@ const credits = {
     },
   ],
 } satisfies CreditsInfo;
+
 
 const Credits = computed(() => credits[props.page] || ([] as CreditsInfo[]));
 </script>
