@@ -39,12 +39,12 @@ outline: 1
 - [Animeflix](https://animeflix.gg/) <Badge type="info" text="Proixes" link="https://animeflix.domains/" /> `gz`
 - [AniPlay](https://aniplaynow.live/) <Badge type="info" text="2" link="https://makima.xyz/" /> `gz`
 - [Gojo](https://gojo.live/) `gz`
+- [Miruro](https://www.miruro.tv/) `gz`
 - [Shiroko](https://shiroko.co/en) `gz`
 - [Streamsora](https://streamsora.live/en) `gp`
 
 ### Single Host
 - [Kaido](https://kaido.to/) `z`
-- [Miruro](https://www.miruro.tv/) `g`
 - [YugenAnime](https://yugenanime.tv/) `g`
 
 :::
