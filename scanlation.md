@@ -95,6 +95,7 @@ outline: 1
   - [RuTracker](https://rutracker.org/forum/index.php) :ic-baseline-window::ic-baseline-apple:
   - [GenP](https://genpguides.github.io) :ic-baseline-window:
   - [Download Pirate](https://www.downloadpirate.com/) :ic-baseline-window:
+  - [a.dove.isdumb.one](https://github.com/ignaciocastro/a-dove-is-dumb)
 - [Clip Studio Paint EX](https://www.clipstudio.net/en/function_ex/)
 - [MediBang Paint](https://medibangpaint.com/en/)
 - [Krita](https://krita.org/en/)
