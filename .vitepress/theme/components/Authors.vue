@@ -23,7 +23,7 @@ const credits = {
     },
     {
       name: "XRA-Empire",
-      site: "https://nyaa.si/user/Oakminati",
+      site: "https://nyaa.si/?f=0&c=3_1&q=xra",
       avatar: "/pfp/xra.png",
     }
   ],
