@@ -213,6 +213,7 @@ outline: [1,2]
 - [Bulk Crap Uninstaller](https://www.bcuninstaller.com/)
 - [Everything](https://www.voidtools.com/)
   - [EverythingToolbar](https://github.com/srwi/EverythingToolbar)
+- [File Converter](https://file-converter.io/index.html)
 - [LocalSend](https://localsend.org/)
 - [NanaZip](https://github.com/M2Team/NanaZip)
 - [ShareX](https://getsharex.com/)
