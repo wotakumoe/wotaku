@@ -29,7 +29,7 @@ outline: [1,2]
 - [E-Hentai](https://e-hentai.org/) <Badge type="tip" text="Search Guide" link="https://e-hentaitagsearch.blogspot.com/" /> <tooltip>It is the mangadex for doujins. Almost every doujin is first uploaded here before being scraped by other sites. Online viewer compresses the images but has the option to download stuff in original quality.<br>
 <a href="https://exhentai.org/">Exhentai</a> is it's sister site, which also hosts the more extreme and questionable content. You'll need an account on e-hentai to gain access.</tooltip>
 - [nHentai](https://nhentai.net/) <tooltip>Most popular. Decent UI but compresses images.</tooltip>
-- [Fakku.cc](https://spy.fakku.cc/) <tooltip>fakku/irodori rips (official TLs).</tooltip>
+- [Fakku.cc](https://fakku.cc/) <tooltip>fakku/irodori rips (official TLs).</tooltip>
 - [IMHentai](https://imhentai.xxx/) <tooltip>Big Library and great search filters.</tooltip>
 - [Hentai Nexus](https://hentainexus.com/)  <tooltip>fakku/irodori rips (official TLs).</tooltip>
 - [Hitomi](https://hitomi.la/) <tooltip>Big Library but difficult to navigate.</tooltip>
