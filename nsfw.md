@@ -10,6 +10,11 @@ outline: [1,2]
 ![](/banner/sites.png)
 # Websites
 
+<br>
+
+::: info [**Sukebei**](https://sukebei.nyaa.si/) for everything
+:::
+
 ## Anime
 - [Eronews](https://en.eroeronews.com/) <Badge type="tip" text="Schedule & News" />
 - [AnimeID Hentai](https://animeidhentai.com/)
@@ -19,6 +24,7 @@ outline: [1,2]
 - [Hentai Haven](https://hentaihaven.xxx/)
 - [Hentai Mama](https://hentaimama.io/)
 - [Hentai Stream](https://hstream.moe/) <Badge type="info" text="Upscale" />
+- [Hentai.tv](https://hentai.tv/)
 - [Hentai World](https://hentaiworld.tv/)
 - [Mucho Hentai](https://muchohentai.com/) <Badge type="info" text="Schedule" /><Badge type="info" text="PV" />
 - [Oppai](https://oppai.stream/) <Badge type="info" text="Upscale" />
@@ -36,7 +42,6 @@ outline: [1,2]
 - [Hentaifox](https://hentaifox.com/ ) <tooltip>Fast Updates and English only library.</tooltip>
 - [Hentai2read](https://hentai2read.com/) <tooltip>Combines Chapters of a series into a single entry unlike most sites so good to read doujin series.</tooltip>
 - [Akuma](https://akuma.moe/) <tooltip>EHentai clone.</tooltip>
-- [Nyaa Sukebei](https://sukebei.nyaa.si/) <tooltip>NSFW portion of nyaa.</tooltip>
 - [Chaika Panda](https://panda.chaika.moe/) <tooltip>Archive of stuff removed from E-Hentai due to DMCA complaints. Has some obscure stuff deleted on most sites.</tooltip>
 - [Pururin](https://pururin.to/)
 - [Tsumino](https://www.tsumino.com/)
@@ -87,7 +92,6 @@ outline: [1,2]
 ## Games
 
 - [DLsite](https://www.dlsite.com/) <Badge type="warning" text="Legal" />
-- [Nyaa Sukebei](https://sukebei.nyaa.si/?f=0&c=1_3&q=)
 - [Anime-sharing](https://www.anime-sharing.com/) <Badge type="info" text="Needs account" />
 - [CPG Repacks](https://cpgrepacks.site)
 - [Eroge Download](https://erogedownload.com/)
@@ -178,7 +182,6 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [JAVGG](https://javgg.net/)
 
 ### Torrent
-- [Nyaa Sukebei](https://sukebei.nyaa.si/)
 - [Project JAV](https://projectjav.com/)
 - [One JAV](https://onejav.com/)
 - [141 JAV](https://www.141jav.com/) <Badge type="tip" text="2" link="https://www.141ppv.com/" />
