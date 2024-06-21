@@ -13,22 +13,14 @@ outline: [1,2]
 
 ## Anime Streaming
 
-- [Aniyomi](https://aniyomi.org/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/aniyomiorg/aniyomi" />
+- [Aniyomi](https://aniyomi.org/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/misc#anime-manga-ext-repos" /><Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/aniyomiorg/aniyomi" />
   - [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) :glowing-star:
 - [Cloudstream](https://cloudstream.on.fleek.co/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/recloudstream/cloudstream" />
-- [Dantotsu](https://dantotsu.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/rebelonion/Dantotsu#dantotsu" /> 
+- [Dantotsu](https://dantotsu.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/misc#anime-manga-ext-repos" /><Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/rebelonion/Dantotsu#dantotsu" />
   - [Himitsu](https://github.com/RepoDevil/Himitsu/)
   - [Awery](https://github.com/MrBoomDeveloper/Awery)
 - [AnimeTV](https://amarullz.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/amarullz/AnimeTV" />
 
-::: tip Extensions for Aniyomi & others
-You have to sideload anime extension repos in aniyomi, its forks & others that use aniyomi's extensions. 
-
-- **Auto**
-  - Click on [**this URL**]([aniyomi://add-repo?url=https%3A%2F%2Fraw.githubusercontent.com%2Falmightyhak%2Faniyomi-anime-repo%2Fmain%2Findex.min.json) & it will sideload the repo automatically.
-- **Manual**.
-  - You can copy [**this URL**](https://github.com/almightyhak/aniyomi-anime-repo/blob/main/index.min.json) and put it in **:mdi-dots-horizontal:More :mdi-arrow-right-thin: :mdi-cog-outline:Settings :mdi-arrow-right-thin: :mdi-compass-outline:Browse :mdi-arrow-right-thin: Anime extension repos**.
-:::
 
 ::: details More Apps
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
@@ -40,20 +32,15 @@ You have to sideload anime extension repos in aniyomi, its forks & others that u
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
 :::
 
-
 ## Manga Readers
 
 ### Online
-- [Mihon](https://mihon.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/mihonapp/mihon" /> <Badge type="tip" text="Extensions" link="https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo" />
+- [Mihon](https://mihon.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/misc#anime-manga-ext-repos" /><Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/mihonapp/mihon" />
   - [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) :glowing-star:
   - [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY)
   - [Neko](https://github.com/nekomangaorg/Neko)
 - [Kotatsu](https://kotatsu.app/)  <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/KotatsuApp/Kotatsu" />
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
-
-::: tip Extensions for Mihon forks
-By default, Mihon or other forks won't have any extensions. You have to [**sideload them**](https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo).
-:::
 
 ### Local
 - [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :glowing-star: <Badge type="warning" text="Freemium" />

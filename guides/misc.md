@@ -9,6 +9,20 @@ customDescription: Collections of small guides
 
 Collections of small guides.
 
+## Anime & Manga Ext Repos
+
+You have to sideload extension repos in [mihon](https://mihon.app/), [aniyomi](https://aniyomi.org/), [dantotsu](https://dantotsu.app/) and their forks to get extensions. 
+
+- **Auto:** Click on the **Auto links** and the repos will be sideloaded automatically.
+- **Manual:** Copy the **Manual links** and put them in **:mdi-dots-horizontal:More :mdi-arrow-right-thin: :mdi-cog-outline:Settings :mdi-arrow-right-thin: :mdi-compass-outline:Browse :mdi-arrow-right-thin: Extension repos**.
+
+| Name                                                                                           | Type  | Auto                                                                                                                                                   | Manual                                                                                                      |
+|------------------------------------------------------------------------------------------------|-------|--------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| [Keiyoushi](https://keiyoushi.github.io/)                                                      | Manga | [Link](tachiyomi://add-repo?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkeiyoushi%2Fextensions%2Frepo%2Findex.min.json)                                | [Link](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)                           |
+| [Almighty Hak](https://github.com/almightyhak/aniyomi-anime-repo)                              | Anime | [Link](aniyomi://add-repo?url=https%3A%2F%2Fraw.githubusercontent.com%2Falmightyhak%2Faniyomi-anime-repo%2Fmain%2Findex.min.json)                       | [Link](https://raw.githubusercontent.com/almightyhak/aniyomi-anime-repo/main/index.min.json)                |
+| [ni3x](https://github.com/ni3x/aniyomi-extensions)                                             | Anime | [Link](aniyomi://add-repo?url=https%3A%2F%2Fraw.githubusercontent.com%2Fni3x%2Faniyomi-extensions%2Frepo%2Findex.min.json)                              | [Link](https://raw.githubusercontent.com/ni3x/aniyomi-extensions/repo/index.min.json)                       |
+
+
 ## Foobar2000 Synced Lyrics
 
 For this guide we will use OpenLyrics. You can also try [ESLyric](https://github.com/ESLyric/release).
