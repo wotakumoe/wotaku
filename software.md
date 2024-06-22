@@ -39,6 +39,7 @@ outline: [1,2]
   - [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) :glowing-star:
   - [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY)
   - [Neko](https://github.com/nekomangaorg/Neko)
+  - [Yokai](https://github.com/null2264/yokai)
 - [Kotatsu](https://kotatsu.app/)  <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/KotatsuApp/Kotatsu" />
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 
