@@ -15,7 +15,7 @@ outline: [1,2]
 
 - [Aniyomi](https://aniyomi.org/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/misc#anime-manga-ext-repos" /><Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/aniyomiorg/aniyomi" />
   - [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) :glowing-star:
-- [Cloudstream](https://cloudstream.on.fleek.co/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/recloudstream/cloudstream" />
+- [Cloudstream](https://cloudstream.on.fleek.co/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/recloudstream/cloudstream" /><Badge type="info" icon="i-mdi-puzzle-outline" text="Plugins" link="https://discord.com/invite/wpX5Rfcx87" />
 - [Dantotsu](https://dantotsu.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/misc#anime-manga-ext-repos" /><Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/rebelonion/Dantotsu#dantotsu" />
   - [Himitsu](https://github.com/RepoDevil/Himitsu/)
   - [Awery](https://github.com/MrBoomDeveloper/Awery)
