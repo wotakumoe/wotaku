@@ -5,17 +5,17 @@ layout: home
 hero:
   name: "Wotaku"
   text: "The Otaku Index"
-  tagline: A diverse range of resources related to japanese media and language
+  tagline: A wide array of weeb resources
   image: /asset/plush.png
   actions:
     - theme: brand
       text: Quick Start
       link: /qs.md
-    - theme: brand
-      text: FAQs
-      link: /faq.md
     - theme: alt
-      text: Star the Project
+      text: Discord
+      link: https://discord.gg/vShRGx8ZBC
+    - theme: alt
+      text: Github
       link: https://github.com/anotherduckling/Wotaku
       
 aside: left
