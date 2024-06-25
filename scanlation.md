@@ -15,7 +15,7 @@ outline: 1
 - [Scanner Usage School Server](https://discord.com/invite/NCzxVB9) :glowing-star:
 - [r/Scanlation](https://old.reddit.com/r/Scanlation/)
 - [Manga Helpers](https://mangahelpers.com/)
-- [Font recommendations](https://discord.gg/kgZ4MXgzpx)
+- [Font recommendations](https://discord.gg/ghGWcYSSUP)
 - [Krita Artists](https://krita-artists.org/)
 
 ![](/banner/raw.png)
