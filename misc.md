@@ -248,6 +248,7 @@ outline: 1
 
 ## Anime & Manga
 - [3x3 Generator](https://gqgs.github.io/3x3-generator/)
+- [Anicheck](https://anicheck.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/gubo97000/aniCheck" />
 - [AniGuessr](https://aniguessr.com/)
 - [Anipool](https://www.anipool.app/)
 - [Randime](https://randime.moe/)
