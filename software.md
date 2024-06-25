@@ -309,6 +309,9 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
   - [GenP](https://genpguides.github.io) :ic-baseline-window:
   - [Download Pirate](https://www.downloadpirate.com/) :ic-baseline-window:
   - [a.dove.isdumb.one](https://github.com/ignaciocastro/a-dove-is-dumb)
+  - :material-symbols-subdirectory-arrow-right: Adobe Alternatives
+    - [KennyNL](https://github.com/KenneyNL/Adobe-Alternatives)
+    - [XdanielArt](https://rentry.org/adobealt)
 - [Aegisub](https://github.com/arch1t3cht/Aegisub) :ic-baseline-window::mingcute-linux-fill:<Badge type="tip" text="Original" link="https://github.com/arch1t3cht/Aegisub" />
 - [AviSynth+](https://avs-plus.net/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/AviSynth/AviSynthPlus" />
 - [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) :ic-baseline-window:

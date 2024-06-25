@@ -96,10 +96,14 @@ outline: 1
   - [GenP](https://genpguides.github.io) :ic-baseline-window:
   - [Download Pirate](https://www.downloadpirate.com/) :ic-baseline-window:
   - [a.dove.isdumb.one](https://github.com/ignaciocastro/a-dove-is-dumb)
+  - :material-symbols-subdirectory-arrow-right: Adobe Alternatives
+    - [KennyNL](https://github.com/KenneyNL/Adobe-Alternatives)
+    - [XdanielArt](https://rentry.org/adobealt)
 - [Clip Studio Paint EX](https://www.clipstudio.net/en/function_ex/)
 - [MediBang Paint](https://medibangpaint.com/en/)
 - [Krita](https://krita.org/en/)
 - [GIMP](https://www.gimp.org/)
+
 
 ## Cleaning
 - [Bubble Blaster](https://github.com/Aeonss/BubbleBlaster)
