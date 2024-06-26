@@ -184,7 +184,7 @@ You can use multiple sources. [**Nyaa.si**](https://nyaa.si/), [**Madokami**](/g
 - For other DDL sites (mangadex, comick, madokami), use [**Free Manga Downloader 2**](https://github.com/dazedcat19/FMD2).
 
 ### Android
-- For Nyaa.si, you can use [**libretorrent**](https://github.com/proninyaroslav/libretorrent), [**Flud**](https://play.google.com/store/apps/details?id=com.delphicoder.flud) or [**1DM**](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US). To browse nyaa.si, a browser is enough but there is also [**Nyanpasu**](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa) which is pretty nice.
+- For Nyaa.si, you can use [**libretorrent**](https://github.com/proninyaroslav/libretorrent), [**Flud**](https://play.google.com/store/apps/details?id=com.delphicoder.flud) or [**1DM**](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US).
 - For DDL sites, tachiyomi / mihon is more than enough.
 :::
 
