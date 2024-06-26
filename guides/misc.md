@@ -15,7 +15,7 @@ Due to DMCA takedown notices, [Tachiyomi](https://tachiyomi.org/) (now continued
 
 ### Sideloading Methods
 - **Auto:** Click on **Install** and the repo will be sideloaded automatically.
-- **Manual:** Copy the **URL** (in the manual) and put it in **:mdi-dots-horizontal:More :mdi-arrow-right-thin: :mdi-cog-outline:Settings :mdi-arrow-right-thin: :mdi-compass-outline:Browse :mdi-arrow-right-thin: Extension repos**.
+- **Manual:** Copy the **URL** (from the manual column) and put it in **:mdi-dots-horizontal:More :mdi-arrow-right-thin: :mdi-cog-outline:Settings :mdi-arrow-right-thin: :mdi-compass-outline:Browse :mdi-arrow-right-thin: Extension repos**.
 
 | Repo                                                                                           | Type  | Region                            | Auto                                                                                                                   | Manual                                                                                                      |
 |------------------------------------------------------------------------------------------------|-------|---------------------------------|----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
