@@ -258,6 +258,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - **Stremio**
   - [Stremio Community Addons List](https://stremio-addons.netlify.app/)
   - [Stremio Addon Manager](https://stremio-addon-manager.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/pancake3000/stremio-addon-manager" />
+  - [Stremio Jackett Addon](https://github.com/aymene69/stremio-jackett)
   - [Animeo: AniList Tracking](https://7a625ac658ec-animeo.baby-beamup.club/configure) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/Jenrykster/animeo" />
   - [SIMKL Addon](https://simkl.com/apps/stremio/)
   - [Anime Catalogs](https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/configure)
