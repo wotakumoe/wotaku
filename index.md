@@ -12,11 +12,11 @@ hero:
       text: Quick Start
       link: /qs.md
     - theme: alt
+      text: GitHub
+      link: https://github.com/anotherduckling/Wotaku
+    - theme: alt
       text: Discord
       link: https://discord.gg/vShRGx8ZBC
-    - theme: alt
-      text: Github
-      link: https://github.com/anotherduckling/Wotaku
       
 aside: left
 
