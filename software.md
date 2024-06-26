@@ -158,6 +158,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 - [Seanime](https://seanime.rahim.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Online" />
 - [ani-cli](https://github.com/pystardust/ani-cli) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Online" />
 - [Akuse](https://github.com/akuse-app/Akuse) :ic-baseline-window: <Badge type="info" text="Online" />
+- [Unyo](https://github.com/K3vinb5/Unyo)  :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Online" />
 
 :::
 
