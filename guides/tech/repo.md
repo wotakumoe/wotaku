@@ -1,6 +1,6 @@
 ---
 title: Extension Repos for Mihon & Aniyomi
-customDescription: Configure RSS in qBittorrent
+customDescription: Repo list & guide for Mihon & Aniyomi
 ---
 
 # Extension Repos for Mihon & Aniyomi
