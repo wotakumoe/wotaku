@@ -205,7 +205,7 @@ outline: 1
 ## Direct Download
 
 ### Aggregators
-- [Madokami](https://manga.madokami.al) :glowing-star: <Badge type="info" text="Guide" link="/guides/mado" />
+- [Madokami](https://manga.madokami.al) :glowing-star: <Badge type="info" text="Guide" link="/guides/manga/madokami" />
 - [Anna's Archive](https://annas-archive.org/)
 - [Desuarchive](https://desuarchive.org/) :four-leaf-clover: <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
 - [Library Genesis](https://libgen.li/)

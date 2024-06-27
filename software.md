@@ -13,10 +13,10 @@ outline: [1,2]
 
 ## Anime Streaming
 
-- [Aniyomi](https://aniyomi.org/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/misc#anime-manga-ext-repos" /><Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/aniyomiorg/aniyomi" />
+- [Aniyomi](https://aniyomi.org/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" /><Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/aniyomiorg/aniyomi" />
   - [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) :glowing-star:
 - [Cloudstream](https://cloudstream.on.fleek.co/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/recloudstream/cloudstream" /><Badge type="info" icon="i-mdi-puzzle-outline" text="Plugins" link="https://discord.com/invite/wpX5Rfcx87" />
-- [Dantotsu](https://github.com/rebelonion/Dantotsu) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/misc#anime-manga-ext-repos" />
+- [Dantotsu](https://github.com/rebelonion/Dantotsu) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />
   - [Himitsu](https://github.com/RepoDevil/Himitsu/)
   - [Awery](https://github.com/MrBoomDeveloper/Awery)
 - [AnimeTV](https://amarullz.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/amarullz/AnimeTV" />
@@ -35,7 +35,7 @@ outline: [1,2]
 ## Manga Readers
 
 ### Online
-- [Mihon](https://mihon.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/misc#anime-manga-ext-repos" /><Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/mihonapp/mihon" />
+- [Mihon](https://mihon.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" /><Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/mihonapp/mihon" />
   - [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) :glowing-star:
   - [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY)
   - [Neko](https://github.com/nekomangaorg/Neko)

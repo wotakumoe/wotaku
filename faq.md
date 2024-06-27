@@ -146,7 +146,7 @@ You should never use cracked or modded VPN cause all of your traffic will go thr
 <br>
 
 :::details Where can I get the highest quality manga releases?
-[Nyaa.si](https://nyaa.si/), [:four-leaf-clover:/co/](https://boards.4channel.org/co/) & [Madokami](/guides/mado.md). Manga image quality depends on the [**source**](/guides/digim) and how it's been ripped, with volume release usually being better than [**CaaS**](/glossary/manga#publisher) release. If you want to download officially translated manga, [**Nyaa**](https://nyaa.si/) is always the best source, though some of the rippers upload upscaled SD rips. 
+[Nyaa.si](https://nyaa.si/), [:four-leaf-clover:/co/](https://boards.4channel.org/co/) & [Madokami](/guides/manga/madokami). Manga image quality depends on the [**source**](/guides/digim) and how it's been ripped, with volume release usually being better than [**CaaS**](/glossary/manga#publisher) release. If you want to download officially translated manga, [**Nyaa**](https://nyaa.si/) is always the best source, though some of the rippers upload upscaled SD rips. 
 
 We have listed the most trusted rippers in the [**Nyaa section**](/websites.md#nyaa). Madokami mainly mirrors the nyaa releases.
 :::
@@ -169,7 +169,7 @@ There are a few options. [**CDisplayEx**](https://www.cdisplayex.com/), [**YACRe
 :::
 
 :::details What's the best extension for mihon / tachiyomi?
-Like websites, it's also personal preference. But to us, [**Madokami**](/guides/mado.md) (in terms of quality) & [**Comick**](https://comick.io/home) (in terms of flexibility). There are also mangadex, batoto & others.
+Like websites, it's also personal preference. But to us, [**Madokami**](/guides/manga/madokami) (in terms of quality) & [**Comick**](https://comick.io/home) (in terms of flexibility). There are also mangadex, batoto & others.
 :::
 
 :::details Why are the manga pages filled with squares / artifacts?
@@ -177,7 +177,7 @@ Moiré. It generally happens during image downscaling. You can read about it in 
 :::
 
 :::details Where can I download manga in bulk?
-You can use multiple sources. [**Nyaa.si**](https://nyaa.si/), [**Madokami**](/guides/mado.md) or any other direct download websites like Comick or mangadex.
+You can use multiple sources. [**Nyaa.si**](https://nyaa.si/), [**Madokami**](/guides/manga/madokami) or any other direct download websites like Comick or mangadex.
 
 ### PC
 - For Nyaa.si, just use [**qBittorrent**](https://www.qbittorrent.org/). It's more than enough.
@@ -263,6 +263,6 @@ Yes. [**Last.fm**](https://www.last.fm/). It's not anime songs centric but a gen
 :::details What should I use to convert my music files?
 Most of the PC music player can convert music files to your desired formats. For example [**Foobar2000**](https://www.foobar2000.org/) & [**Musicbee**](https://www.getmusicbee.com/). For Foobar200, you have to install [encoder pack](https://www.foobar2000.org/encoderpack). 
 
-<Button link="/guides/transcoding" icon="i-fxemoji-lightbulb">Read our transcoding audio guide to learn the basics.</Button>
+<Button link="/guides/music/transcoding" icon="i-fxemoji-lightbulb">Read our transcoding audio guide to learn the basics.</Button>
 
 :::

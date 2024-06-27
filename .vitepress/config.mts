@@ -163,17 +163,44 @@ export default defineConfig({
         text: '<span class="i-lucide:book-key"></span> Guides',
         collapsed: true,
         items: [
-          { text: "Digital Manga", link: "/guides/digim" },
-          { text: "Disc Ripping", link: "/guides/discrip" },
-          { text: "Fate / Type-Moon", link: "/guides/fate" },
-          { text: "IRC", link: "/guides/irc" },
-          { text: "Madokami", link: "/guides/mado" },
-          { text: "Manga Image Editing", link: "/guides/imagedit" },
-          { text: "Miscellaneous", link: "/guides/misc" },
-          { text: "Network Stream", link: "/guides/ns" },
-          { text: "Squidify", link: "/guides/squidify" },
-          { text: "Transcoding Audio", link: "/guides/transcoding" },
-        ],
+          {
+            text: "Anime",
+            collapsed: true,
+            items: [
+              { text: "Disc Ripping", link: "/guides/anime/discrip" },
+              { text: "Fate / Type-Moon", link: "/guides/anime/fate" },
+              { text: "Network Streaming", link: "/guides/anime/ns" }
+            ]
+          },
+          {
+            text: "Manga",
+            collapsed: true,
+            items: [
+              { text: "Digital Manga Info", link: "/guides/manga/digim" },
+              { text: "Madokami", link: "/guides/manga/madokami" },
+              { text: "Manga Image Editing", link: "/guides/manga/imagedit" }
+            ]
+          },
+          {
+            text: "Music",
+            collapsed: true,
+            items: [
+              { text: "FB2K Synced Lyrics", link: "/guides/music/fb2klyrics" },
+              { text: "Squidify", link: "/guides/music/squidify" },
+              { text: "Transcoding Audio", link: "/guides/music/transcoding" }
+            ]
+          },
+          {
+            text: "Technical",
+            collapsed: true,
+            items: [
+              { text: "IRC & XDCC", link: "/guides/tech/irc" },
+              { text: "JDL2 Ad-removal", link: "/guides/tech/jdl" },
+              { text: "Extension Repos", link: "/guides/tech/repo" },
+              { text: "qBittorent RSS", link: "/guides/tech/qbitrss" }
+            ]
+          }
+        ]
       },
       {
         text: '<span class="i-lucide:messages-square"></span> Communities',
@@ -224,19 +251,43 @@ export default defineConfig({
       },
       {
         text: "Guides",
+        collapsed: true,
         items: [
-          { text: "Digital Manga", link: "/guides/digim" },
-          { text: "Disc Ripping", link: "/guides/discrip" },
-          { text: "Fate / Type-Moon", link: "/guides/fate" },
-          { text: "IRC", link: "/guides/irc" },
-          { text: "Madokami", link: "/guides/mado" },
-          { text: "Manga Image Editing", link: "/guides/imagedit" },
-          { text: "Miscellaneous", link: "/guides/misc" },
-          { text: "Network Stream", link: "/guides/ns" },
-          { text: "Squidify", link: "/guides/squidify" },
-          { text: "Transcoding Audio", link: "/guides/transcoding" },
-        ],
-      },
+          {
+            text: "Anime",
+            items: [
+              { text: "Disc Ripping", link: "/guides/anime/discrip" },
+              { text: "Fate / Type-Moon", link: "/guides/anime/fate" },
+              { text: "Network Streaming", link: "/guides/anime/ns" }
+            ]
+          },
+          {
+            text: "Manga",
+            items: [
+              { text: "Digital Manga Info", link: "/guides/manga/digim" },
+              { text: "Madokami", link: "/guides/manga/madokami" },
+              { text: "Manga Image Editing", link: "/guides/manga/imagedit" }
+            ]
+          },
+          {
+            text: "Music",
+            items: [
+              { text: "FB2K Synced Lyrics", link: "/guides/music/fb2klyrics" },
+              { text: "Squidify", link: "/guides/music/squidify" },
+              { text: "Transcoding Audio", link: "/guides/music/transcoding" }
+            ]
+          },
+          {
+            text: "Technical",
+            items: [
+              { text: "IRC & XDCC", link: "/guides/tech/irc" },
+              { text: "JDL2 Ad-removal", link: "/guides/tech/jdl" },
+              { text: "Extension Repos", link: "/guides/tech/repo" },
+              { text: "qBittorent RSS", link: "/guides/tech/qbitrss" }
+            ]
+          }
+        ]
+      },      
       {
         text: "Updates",
         link: "https://github.com/anotherduckling/Wotaku/commits/main/",

@@ -41,10 +41,10 @@ customDescription: Discover websites, software, and essentials for anime, manga,
 ## Software
 
 ### Android
-- [Mihon](https://github.com/mihonapp/mihon) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/misc#anime-manga-ext-repos" />
+- [Mihon](https://github.com/mihonapp/mihon) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />
   - [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) :glowing-star:
   - [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY)
-- [Aniyomi](https://github.com/aniyomiorg/aniyomi) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/misc#anime-manga-ext-repos" />
+- [Aniyomi](https://github.com/aniyomiorg/aniyomi) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />
   - [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) :glowing-star:
 - [Quicknovel](https://github.com/LagradOst/QuickNovel)
 

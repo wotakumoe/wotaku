@@ -1,10 +1,10 @@
 ---
-title: Madokami Joining Guide
+title: Madokami Guide
 customDescription: The Joining guide for Madokami through IRC. Also how to download stuff from Madokami.
 outline: [2,3]
 ---
 
-# Madokami Joining Guide
+# Madokami Guide
 
 <br>
 
@@ -170,10 +170,10 @@ FMD2 can't download 3 files at a time. For that use **JDL2**.
 <div class="video_wrapper"><iframe src="https://youtube.com/embed/Ar2ZMXjMRDQ" frameborder="0" allowfullscreen></iframe></div>
 
 
-### Tachiyomi forks
+### Mihon forks
 
 1. Add [Keiyoushi repo](https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo) in your tachiyomi forks
 2. Go to extension list and search **Madokami**.
 3. Install the extension and go to it's settings page.
 4. Add your login credentials.
-5. Now enter the extension and download your desired manga.
+5. Now go to the Source page and click on Madokami to read/download the available manga.

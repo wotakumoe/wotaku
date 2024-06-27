@@ -363,7 +363,7 @@ outline: 1
   - [Discord Rich Presence Integration](https://github.com/s0hv/foo_discord_rich) <Badge type="info" text="Catbox" link="https://github.com/realoksi/foobar2000-catbox" /><Badge type="info" text="Guide" link="https://s0hv.github.io/foo_discord_rich/" />
   - [Encoder Pack](https://www.foobar2000.org/encoderpack)
   - [ESLyric](https://github.com/ESLyric/release)
-  - [OpenLyrics](https://www.foobar2000.org/components/view/foo_openlyrics) <Badge type="info" text="Guide" link="/guides/misc#foobar2000-synced-lyrics" />
+  - [OpenLyrics](https://www.foobar2000.org/components/view/foo_openlyrics) <Badge type="info" text="Guide" link="/guides/music/fb2klyrics" />
   - [ReplayGain DSP](https://www.foobar2000.org/components/view/foo_dsp_replaygain)
 - **Theme**
   - [Georgia-ReBORN](https://github.com/TT-ReBORN/Georgia-ReBORN) 
