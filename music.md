@@ -12,9 +12,9 @@ outline: 1
 # Stream
 
 ## Anime
-- [Anithemes.moe](https://animethemes.moe/) :glowing-star: <Badge type="info" text="Alt" link="https://themes.moe/" /><Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/AnimeThemes" />
+- [Anithemes.moe](https://animethemes.moe/) :glowing-star: <Badge type="info" text="Alt" link="https://themes.moe/" /><Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/AnimeThemes" />
 - [Karaoke Mugen](https://kara.moe)
-- [Anisong Database](https://anisongdb.com/) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" /><Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/xSardine/AMQ-Artists-DB" />
+- [Anisong Database](https://anisongdb.com/) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" /><Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/xSardine/AMQ-Artists-DB" />
 - [Squidify](https://www.squidify.org/) <Badge type="tip" text="Guide" link="/guides/squidify" />
 - [Animusic](https://animusic.moe/) 
 - [One Piece Tracklist](http://onepiecetracklist.com/)
@@ -136,7 +136,7 @@ outline: 1
 - [asia DREAM radio](https://asiadreamradio.torontocast.stream/stations/en/index.html) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://asiadreamradio.torontocast.stream/stations/newstream.html" />
 - [J1 Radio](https://www.j1fm.tokyo/player/j1hits/) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://www.j1fm.tokyo/listen/" />
 - [Patchwork Radio](https://patchwork.moekyun.me/radio) :glowing-star: <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://a4.asurahosting.com/public/patchworkarchive/playlist.m3u" /> <Badge type="info" text="VTuber" />
-- [Sasalele Music Station](https://github.com/Mikeexe2/Sasalele-Music-Station) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/Mikeexe2/Sasalele-Music-Station" /> <Badge type="info" text="Compilation" />
+- [Sasalele Music Station](https://github.com/Mikeexe2/Sasalele-Music-Station) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/Mikeexe2/Sasalele-Music-Station" /> <Badge type="info" text="Compilation" />
 
 ## Anime
 - [Anison.fm](https://en.anison.fm/) :glowing-star: <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="https://anison.fm/anison.m3u" /> :flag-russia:
@@ -185,28 +185,28 @@ outline: 1
 
 
 ## Spotify
-- [Album Availability on Spotify](https://kaaes.github.io/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/kaaes/albums-availability" />
-- [Check Track Availability](https://spotify-check-track-availability.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/wcelery/spotify-check-track-availability" />
+- [Album Availability on Spotify](https://kaaes.github.io/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/kaaes/albums-availability" />
+- [Check Track Availability](https://spotify-check-track-availability.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/wcelery/spotify-check-track-availability" />
 - [Chosic](https://www.chosic.com/) :glowing-star:
 - [Discover Quickly](https://discoverquickly.com/)
 - [Musicalyst](https://musicalyst.com/)
 - [Playlist Sorter](https://www.playlistsorter.com/)
 - [Random Music Generator](https://random-song.com/)
 - [Skiley](https://skiley.net/) :glowing-star:
-- [Spotify Dedup](https://spotify-dedup.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/JMPerez/spotify-dedup/" />
+- [Spotify Dedup](https://spotify-dedup.com/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/JMPerez/spotify-dedup/" />
 - [Spotify Playlist Archive](https://spotifyplaylistarchive.com/)
-- [Spotify Release List](https://spotifyreleaselist.netlify.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/jakubito/spotify-release-list" />
+- [Spotify Release List](https://spotifyreleaselist.netlify.app/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/jakubito/spotify-release-list" />
 - [Spotlistr](https://www.spotlistr.com/)
 - [Stats for Spotify](https://www.statsforspotify.com/)
 - [Volt.fm](https://volt.fm/) :glowing-star:
 
 ## Last.fm
-- [Last.fm stats](https://lastfmstats.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/felhag/lastfm-stats-web" />
+- [Last.fm stats](https://lastfmstats.com/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/felhag/lastfm-stats-web" />
 - [Last History](https://anhuynh.github.io/last-history)
-- [musicorum](https://musicorumapp.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/musicorum-app" />
+- [musicorum](https://musicorumapp.com/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/musicorum-app" />
 - [Open Scrobbler](https://openscrobbler.com/)
 - [Scatter.FM](https://scatterfm.markhansen.co.nz/)
-- [Last.fm Time Chart](https://pmcdonough8133.github.io/last.timer/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/pmcdonough8133/last.timer?tab=readme-ov-file" />
+- [Last.fm Time Chart](https://pmcdonough8133.github.io/last.timer/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/pmcdonough8133/last.timer?tab=readme-ov-file" />
 
 
 

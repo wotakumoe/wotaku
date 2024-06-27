@@ -302,7 +302,7 @@ If you have recommendations for good sites in your native language or want to re
 - [Komiku](https://komiku.id/)
 - [Komikcast](https://komikcast.site/)
 - [Mangaku](https://mangaku.fun/)
-- [Ryukomik](https://komik.ryukoproject.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/AzwarKusumah/ryukomik" />
+- [Ryukomik](https://komik.ryukoproject.app/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/AzwarKusumah/ryukomik" />
 - [Shinigami ID](https://shinigami.id/)
 
 
@@ -368,7 +368,7 @@ If you have recommendations for good sites in your native language or want to re
 - [Animesub](http://animesub.info/)
 - [Anime Zone](https://www.animezone.pl/)
 - [Desu Online](https://desu-online.pl/)
-- [Docchi](https://docchi.pl/) <Badge text="Github" link="https://github.com/docchipl/shinden-description" />
+- [Docchi](https://docchi.pl/) <Badge text="GitHub" link="https://github.com/docchipl/shinden-description" />
 - [Dragon Subs](https://dragonsubs.pl/)
 - [Frixy Subs](https://frixysubs.pl/)
 - [Fumetsu](https://fumetsu.pl/)
@@ -424,13 +424,13 @@ If you have recommendations for good sites in your native language or want to re
 - [AnimeLib](https://animelib.me)
 - [Anime Stars](https://animestars.org/) <Badge type="info" text="Sub" />
 - [AnimeGO](https://animego.org/) <Badge type="info" text="Sub" />
-- [Averlist](https://averlist.ru/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/Averito/Averlist" />
+- [Averlist](https://averlist.ru/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/Averito/Averlist" />
 - [Dream Cast](https://dreamerscast.com/)
 - [Freedub Studio](https://freedubstudio.club/)
 - [JUT.SU](https://jut.su/)
 - [YUMMY ANIME](https://yummyanime.org/)
 - [SovetRomantica](https://sovetromantica.com/) <Badge type="info" text="Sub" />
-- [Tunime](https://an0ncer.github.io/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/AN0NCER/an0ncer.github.io" /><Badge type="info" text="Sub" />
+- [Tunime](https://an0ncer.github.io/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/AN0NCER/an0ncer.github.io" /><Badge type="info" text="Sub" />
 - [Anime Layer](http://animelayer.ru/) <Badge type="info" text="Torrent" />
 - [Dark Libria](https://darklibria.it/) <Badge type="info" text="Stream" /><Badge type="info" text="DDL" />
 
@@ -469,7 +469,7 @@ If you have recommendations for good sites in your native language or want to re
 - [Shikimorist](https://github.com/Hokid/shikimorist) <Badge text="Chrome" />
 
 ### Brewing
-- [ANIFOX](https://anifox.club/anime) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/ANIFOX-CLUB/ANIFOX" /><Badge type="info" icon="/icon/russia.png" text="RU" />
+- [ANIFOX](https://anifox.club/anime) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/ANIFOX-CLUB/ANIFOX" /><Badge type="info" icon="/icon/russia.png" text="RU" />
 
 <br>
 
@@ -507,7 +507,7 @@ If you have recommendations for good sites in your native language or want to re
 ## Others
 
 ### Apps
-- [UKIKU](https://ukiku.app/)  <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/jordyamc/UKIKU" />
+- [UKIKU](https://ukiku.app/)  <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/jordyamc/UKIKU" />
 
 <br>
 
@@ -528,14 +528,14 @@ If you have recommendations for good sites in your native language or want to re
 
 ## Anime
 - [Ani4u](https://ani4u.org/)
-- [AnimeVsub](https://animevsub.eu.org/) <Badge text="Github" link="https://github.com/anime-vsub/desktop-web" />
-- [Unime](https://unime.vercel.app/) <Badge text="Github" link="https://github.com/huy232/Unime" />
+- [AnimeVsub](https://animevsub.eu.org/) <Badge text="GitHub" link="https://github.com/anime-vsub/desktop-web" />
+- [Unime](https://unime.vercel.app/) <Badge text="GitHub" link="https://github.com/huy232/Unime" />
 
 ## Manga
 
 - [Bao Tang Truyen Tranh](https://baotangtruyengo.com/)
 - [Raiku](https://mangaraiku.eu.org)
-- [Kyoto manga](https://kyotomanga.live/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/leephan2k1/manga-app" />
+- [Kyoto manga](https://kyotomanga.live/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/leephan2k1/manga-app" />
 - [Net Truyen](https://www.nettruyenplus.com/)
 - [Blog Truyen](https://blogtruyen.vn/)
 

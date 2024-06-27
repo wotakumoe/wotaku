@@ -64,7 +64,7 @@ outline: [2,3]
 - [Boutique Japan](https://boutiquejapan.com/)
 - [Japan Specialist](https://japanspecialist.com/)
 - [JRailPass](https://www.jrailpass.com/blog/)
-- [Mini Tokyo 3D](https://minitokyo3d.com/) :glowing-star: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/nagix/mini-tokyo-3d" /> 
+- [Mini Tokyo 3D](https://minitokyo3d.com/) :glowing-star: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/nagix/mini-tokyo-3d" /> 
 
 ### Japanese
 - [Omatsuri Japan](https://omatsurijapan.com/)

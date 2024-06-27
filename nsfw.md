@@ -45,7 +45,7 @@ outline: [1,2]
 - [Chaika Panda](https://panda.chaika.moe/) <tooltip>Archive of stuff removed from E-Hentai due to DMCA complaints. Has some obscure stuff deleted on most sites.</tooltip>
 - [Pururin](https://pururin.to/)
 - [Tsumino](https://www.tsumino.com/)
-- [nyanpantsu](https://nyanpantsu.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/purpleblueslime/nyanpantsu" />
+- [nyanpantsu](https://nyanpantsu.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/purpleblueslime/nyanpantsu" />
 
 ## Manhwa
 
@@ -75,7 +75,7 @@ outline: [1,2]
 
 
 ## Illustrations
-- [Booruwf](https://booru.pixiv.pics/) :glowing-star: <Badge type="tip" text="Moeview" link="https://moeview.pixiv.pics/" /> <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/asadahimeka/booruwf-web" /> 
+- [Booruwf](https://booru.pixiv.pics/) :glowing-star: <Badge type="tip" text="Moeview" link="https://moeview.pixiv.pics/" /> <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/asadahimeka/booruwf-web" /> 
 - [Danbooru](https://danbooru.donmai.us/)
 - [Gelbooru](https://gelbooru.com/)
 - [Hentai Game CG](https://hentaigamecg.com/)

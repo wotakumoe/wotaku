@@ -63,7 +63,7 @@ outline: 1
 - [Anime Countdown](https://animecountdown.com/)
 - [Livechart](https://www.livechart.me/) :glowing-star: 
 - [Monthly.moe](https://www.monthly.moe/)
-- [Notify.moe](https://notify.moe/calendar) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/animenotifier/notify.moe" />
+- [Notify.moe](https://notify.moe/calendar) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/animenotifier/notify.moe" />
 - [Senpai.moe](https://www.senpai.moe/)
 - [Syoboi Calendar](https://cal.syoboi.jp/) :flag-japan:
 - [Yatta-Tachi](https://yattatachi.com/)
@@ -84,7 +84,7 @@ outline: 1
 - [Anime Stats](https://anime-stats.net/) :glowing-star:
 - [Anime Corner](https://animecorner.me/category/anime-corner/rankings/)
 - [Anitrendz](https://anitrendz.com/charts/top-anime)
-- [Kitsu Season Trends](https://season.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/wopian/kitsu-season-trends" />
+- [Kitsu Season Trends](https://season.moe/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/wopian/kitsu-season-trends" />
 
 
 
@@ -101,12 +101,12 @@ outline: 1
 - [:ic-outline-discord: Manga Groups Portal](https://discord.gg/9KGMzP2)
 - [r/LightNovels reading order](https://old.reddit.com/r/LightNovels/wiki/reading_order)
 - [Shoseki Ranking](http://shosekiranking.blog.fc2.com/)
-- [Touhou Doujinshi Index](https://scarlet.nanoskript.dev/) :glowing-star: <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" /> <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/nanoskript/touhou-doujinshi-index" />  
+- [Touhou Doujinshi Index](https://scarlet.nanoskript.dev/) :glowing-star: <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" /> <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/nanoskript/touhou-doujinshi-index" />  
 
 ### Calendar
 
 #### Index
-- [Mynewworm](https://myneworm.katsurin.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/Butterstroke/Myneworm" />
+- [Mynewworm](https://myneworm.katsurin.com/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/Butterstroke/Myneworm" />
 - [Otaku Calendar](https://otakucalendar.com/Release/?filterCategory=2)
 - [r/LightNovels upcoming releases](https://old.reddit.com/r/LightNovels/wiki/upcomingreleases/)
 - [Yatta-Tachi](https://yattatachi.com/tag/releases)
@@ -155,7 +155,7 @@ outline: 1
 :::
 
 ## Booru
-- [Booruwf](https://booru.pixiv.pics/) :glowing-star: <Badge type="tip" text="Moeview" link="https://moeview.pixiv.pics/" /> <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/asadahimeka/booruwf-web" /> 
+- [Booruwf](https://booru.pixiv.pics/) :glowing-star: <Badge type="tip" text="Moeview" link="https://moeview.pixiv.pics/" /> <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/asadahimeka/booruwf-web" /> 
 - [Danbooru](https://danbooru.donmai.us/) 
 - [Donmai](https://donmai.moe/) <Badge type="green" link="" text="SFW"/>
 - [Gelbooru](https://gelbooru.com/)
@@ -182,7 +182,7 @@ outline: 1
 - [Minitokyo](http://www.minitokyo.net/)
 - [Studio Ghibli](https://www.ghibli.jp/info/013772/) <Badge type="green" text="SFW" />
 - [Wallhaven](https://wallhaven.cc/)
-- [wanderer.moe](https://wanderer.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/wanderer-moe/site" />
+- [wanderer.moe](https://wanderer.moe/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/wanderer-moe/site" />
 - [:four-leaf-clover:/w/](http://catalog.neet.tv/w/) <Badge type="danger" icon="i-fxemoji-skull" text="NSFL" />
 
 ::: danger All listed sites have NSFW content unless specified otherwise.
@@ -248,7 +248,7 @@ outline: 1
 
 ## Anime & Manga
 - [3x3 Generator](https://gqgs.github.io/3x3-generator/)
-- [Anicheck](https://anicheck.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/gubo97000/aniCheck" />
+- [Anicheck](https://anicheck.moe/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/gubo97000/aniCheck" />
 - [AniGuessr](https://aniguessr.com/)
 - [Anipool](https://www.anipool.app/)
 - [Randime](https://randime.moe/)
@@ -261,27 +261,27 @@ outline: 1
 
 - **Search**
   - [SauceNAO](https://saucenao.com/) :glowing-star:
-  - [Trace](https://trace.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/soruly/trace.moe" />
-  - [SauceKudasai](https://saucekudasai.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/ayushgptaa/SauceKudasai" />
+  - [Trace](https://trace.moe/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/soruly/trace.moe" />
+  - [SauceKudasai](https://saucekudasai.com/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/ayushgptaa/SauceKudasai" />
   - [Multi-service image search](https://iqdb.org/)
 - **Upscaling**
-  - [Waif2x](https://unlimited.waifu2x.net/) <Badge type="tip" text="Cloud Ver" link="https://waifu2x.udp.jp/" /> <Badge type="tip" icon="mark-github" text="Github" link="https://github.com/nagadomi/waifu2x" />
-  - [WaifuXL](https://waifuxl.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/TheFutureGadgetsLab/WaifuXL" />
+  - [Waif2x](https://unlimited.waifu2x.net/) <Badge type="tip" text="Cloud Ver" link="https://waifu2x.udp.jp/" /> <Badge type="tip" icon="mark-github" text="GitHub" link="https://github.com/nagadomi/waifu2x" />
+  - [WaifuXL](https://waifuxl.com/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/TheFutureGadgetsLab/WaifuXL" />
 - **Others**
   - [Ermitteln](https://ermitteln.ihateani.me/)
-  - [Imgtrans](https://touhou.ai/imgtrans/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/zyddnys/manga-image-translator" />
+  - [Imgtrans](https://touhou.ai/imgtrans/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/zyddnys/manga-image-translator" />
 
 ## Stats
 
-  - [Sekai](https://sekai.rl404.com/) :glowing-star: <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/rl404/sekai" /><Badge type="info" text="MAL" /> 
+  - [Sekai](https://sekai.rl404.com/) :glowing-star: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/rl404/sekai" /><Badge type="info" text="MAL" /> 
   - [MAL Badges](https://www.mal-badges.com/) <Badge type="info" text="MAL" />
-  - [anime.plus](https://anime.plus/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/anime-plus/graph" /><Badge type="info" text="MAL" />
-  - [Anistats](https://mayudev.github.io/anistats/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/mayudev/anistats" /><Badge type="info" text="AL" />
+  - [anime.plus](https://anime.plus/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/anime-plus/graph" /><Badge type="info" text="MAL" />
+  - [Anistats](https://mayudev.github.io/anistats/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/mayudev/anistats" /><Badge type="info" text="AL" />
 
 
 ## Others
 - [MAL/AL/K/AP lists XML Exporter](https://malscraper.azurewebsites.net/)
-- [Trakt to MAL](https://anitrakt.huere.net/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/ryuuganime/aniTrakt-IndexParser" />
+- [Trakt to MAL](https://anitrakt.huere.net/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/ryuuganime/aniTrakt-IndexParser" />
 
 
 
@@ -292,9 +292,9 @@ outline: 1
 ## General
 
 - **:glowing-star: Fan Projects**
-  - [Holodex](https://holodex.net/) <Badge type="info" text="Musicdex" link="https://music.holodex.net/" /> <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/HolodexNet" />
-  - [Ragtag Archive](https://archive.ragtag.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/ragtag-archive" />
-  - [Patchwork Archive](https://patchwork.moekyun.me/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/Patchwork-Archive/" />
+  - [Holodex](https://holodex.net/) <Badge type="info" text="Musicdex" link="https://music.holodex.net/" /> <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/HolodexNet" />
+  - [Ragtag Archive](https://archive.ragtag.moe/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/ragtag-archive" />
+  - [Patchwork Archive](https://patchwork.moekyun.me/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/Patchwork-Archive/" />
 - **Database**
   - [Good VTuber Subs](https://goodvtubersubs.com/) :glowing-star:
   - [Virtual YouTuber Wiki ](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki)
@@ -379,7 +379,7 @@ outline: 1
 
 - **2D Tools**
   - [Live2D](https://www.live2d.com/en/about/) <tooltip><ul><li>Needs model split into many different layers, you can use Photoshop (paid), Clip Studio Paint (paid), or Krita (free) for this</li><li>Very feature-rich and difficult program and takes a lot of time to practice</li><li>Pricing: ~100€ per Year for Indie License, ~60€ 3 Years Student Indie License</li><li>Free 42 days trial after that limited free version</li><li>Tutorials out there on YouTube, you still will have to invest a massive amount of time</li></ul></tooltip>
-  - [Inochi2D](https://inochi2d.com/) <Badge type="tip" text="Docs" link="https://docs.inochi2d.com/" /><Badge type="tip" text="Github" link="https://github.com/Inochi2D" /> <tooltip><ul><li>Open Source and free alternative to Live2D</li><li>Similar functionality and structure</li><li>Split into Inochi Creator (used to create rigs) and Inochi Session (to use Inochi2D models for VTubing)</li><li>See <a href="https://docs.inochi2d.com/en/latest/inochi2d/faq.html#what-advantages-does-inochi2d-have-over-live2d">advantages over Live2D</a></li></ul></tooltip>
+  - [Inochi2D](https://inochi2d.com/) <Badge type="tip" text="Docs" link="https://docs.inochi2d.com/" /><Badge type="tip" text="GitHub" link="https://github.com/Inochi2D" /> <tooltip><ul><li>Open Source and free alternative to Live2D</li><li>Similar functionality and structure</li><li>Split into Inochi Creator (used to create rigs) and Inochi Session (to use Inochi2D models for VTubing)</li><li>See <a href="https://docs.inochi2d.com/en/latest/inochi2d/faq.html#what-advantages-does-inochi2d-have-over-live2d">advantages over Live2D</a></li></ul></tooltip>
   - [VTubeStudio](https://denchisoft.com/) <Badge type="tip" text="Steam" link="https://store.steampowered.com/app/1325860/VTube_Studio/" /> <tooltip><ul><li>Converts tracking input into model movement, needed if you want to bring your model to "life"</li><li>Free with a paid version which removes a small watermark, it costs 12,50€ (one-time)</li></ul></tooltip>
   - [VBridger](https://store.steampowered.com/app/1898830/VBridger/) <tooltip><ul><li>Add-On for VTubeStudio to improve tracking</li><li>Costs 8,19€ (one-time)</li><li>Has to be used with a tracking input application like <a href="https://apps.apple.com/us/app/ifacialmocap/id1489470545">ifacialmocap</a> (iOS), <a href="https://apps.apple.com/us/app/facemotion3d/id1507538005">Facemotion3d</a> (iOS), <a href="https://play.google.com/store/apps/details?id=com.suvidriel.meowface&hl=en_US">Meowface</a> (Android)</li></ul></tooltip>
 - **3D Tools**
@@ -547,6 +547,6 @@ outline: 1
 - [Neko Network](https://live.neko-network.net/)
 - [Satania](https://satania.moe/)
 - [Smug](https://smug.moe/)
-- [VAGABOND HIATUS CHART](https://vagabond-hiatus-chart.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/falsepopsky/vagabond-hiatus-chart" />
+- [VAGABOND HIATUS CHART](https://vagabond-hiatus-chart.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/falsepopsky/vagabond-hiatus-chart" />
 - [Wanwan](https://wanwan.moe/)
 - [Wired Sound For Wired People](https://fauux.neocities.org/)

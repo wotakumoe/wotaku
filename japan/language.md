@@ -48,7 +48,7 @@ outline: [2,3]
 - [Kana Pro](https://kana.pro/)
 - [Real Kana](https://realkana.com/)
 - [Kana Review](https://kanareview.com/)
-- [Japanese Practice](https://japanesepractice.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/RichiePowell/japanese-practice" />
+- [Japanese Practice](https://japanesepractice.app/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/RichiePowell/japanese-practice" />
 - [Type Kana](https://lab.fleon.org/type-kana/)
 - [Steven Kraft’s Japanese Projects](https://steven-kraft.com/projects/japanese/) <Badge type="warning" text="general" />
 - Freerice <Badge type="tip" text="hiragana" link="https://play.freerice.com/categories/hiragana" /><Badge type="tip" text="katakana" link="https://play.freerice.com/categories/katakana" />
@@ -150,7 +150,7 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 - [TOFUGU](https://www.tofugu.com/japanese/japanese-pronunciation/)
 - [Kanshudo](https://www.kanshudo.com/howto/pitch)
 - [Kezi](https://kez.io/notes/japanese/accent) <Badge type="tip" text="Gist" link="https://gist.github.com/k3zi/3f38070efffa38db83cd5745d83b1235" />
-- [Minimal Pairs](https://kuuuube.github.io/minimal-pairs/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/Kuuuube/minimal-pairs" />
+- [Minimal Pairs](https://kuuuube.github.io/minimal-pairs/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/Kuuuube/minimal-pairs" />
 - [The Pitch Accent Journey](https://docs.google.com/document/d/1ReBf08JFK4n0PXdOxThAfWuiK9UWVZEWWzeKSECWTQo/edit)
 - [Resources for pitch accent](https://xythh.github.io/resources)
 - [Maggie Sensei's Conversation Guide](https://maggiesensei.com/)
