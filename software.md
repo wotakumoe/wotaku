@@ -17,8 +17,8 @@ outline: [1,2]
   - [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) :glowing-star:
 - [Cloudstream](https://cloudstream.on.fleek.co/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/recloudstream/cloudstream" /><Badge type="info" icon="i-mdi-puzzle-outline" text="Plugins" link="https://discord.com/invite/wpX5Rfcx87" />
 - [Dantotsu](https://github.com/rebelonion/Dantotsu) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />
-  - [Himitsu](https://github.com/RepoDevil/Himitsu/)
   - [Awery](https://github.com/MrBoomDeveloper/Awery)
+  - [Himitsu](https://repodevil.vercel.app/) <Badge type="info" icon="i-mdi-gitlab" text="GitLab" link="https://gitlab.com/RepoDevil/himitsu" />
 - [AnimeTV](https://amarullz.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/amarullz/AnimeTV" />
 
 
