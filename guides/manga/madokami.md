@@ -172,8 +172,8 @@ FMD2 can't download 3 files at a time. For that use **JDL2**.
 
 ### Mihon forks
 
-1. Add [Keiyoushi repo](https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo) in your tachiyomi forks
-2. Go to extension list and search **Madokami**.
-3. Install the extension and go to it's settings page.
+1. Add the [Keiyoushi repo](https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo) in your Mihon forks.
+2. Go to the extension list and search **Madokami**.
+3. Install the extension and go to its settings page.
 4. Add your login credentials.
 5. Now go to the Source page and click on Madokami to read/download the available manga.
