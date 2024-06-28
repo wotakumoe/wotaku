@@ -194,9 +194,9 @@ export default defineConfig({
             text: "Technical",
             collapsed: true,
             items: [
+              { text: "Extension Repos", link: "/guides/tech/repo" },
               { text: "IRC & XDCC", link: "/guides/tech/irc" },
               { text: "JDL2 Ad-removal", link: "/guides/tech/jdl" },
-              { text: "Extension Repos", link: "/guides/tech/repo" },
               { text: "qBittorent RSS", link: "/guides/tech/qbitrss" }
             ]
           }
@@ -280,9 +280,9 @@ export default defineConfig({
           {
             text: "Technical",
             items: [
+              { text: "Extension Repos", link: "/guides/tech/repo" },
               { text: "IRC & XDCC", link: "/guides/tech/irc" },
               { text: "JDL2 Ad-removal", link: "/guides/tech/jdl" },
-              { text: "Extension Repos", link: "/guides/tech/repo" },
               { text: "qBittorent RSS", link: "/guides/tech/qbitrss" }
             ]
           }
