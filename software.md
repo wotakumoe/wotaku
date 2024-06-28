@@ -99,7 +99,6 @@ outline: [1,2]
 - [Chouten beta](https://testflight.apple.com/join/Cg1rAPB8) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/GJGMJRPJ5j" />
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [Miru](https://mirutv.app/)
-- [Mochi](https://azlan.works/work/Mochi)
 - [Soshiki](https://github.com/soshikimoe/soshiki-ios)
 
 ## Manga Readers
