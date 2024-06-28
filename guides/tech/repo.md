@@ -1,6 +1,7 @@
 ---
 title: Extension Repos for Mihon & Aniyomi
 customDescription: Repo list & guide for Mihon & Aniyomi
+outline: 3
 ---
 
 # Extension Repos for Mihon & Aniyomi
@@ -13,7 +14,9 @@ Due to DMCA takedown notices, [Tachiyomi](https://tachiyomi.org/) (now continued
 - **Auto:** Click on **Install** and the repo will be sideloaded automatically.
 - **Manual:** Copy the **URL** (from the manual column) and put it in **:mdi-dots-horizontal:More :mdi-arrow-right-thin: :mdi-cog-outline:Settings :mdi-arrow-right-thin: :mdi-compass-outline:Browse :mdi-arrow-right-thin: Extension repos**.
 
-| Repo                                                                                           | Type  | Region                            | Auto                                                                                                                   | Manual                                                                                                      |
+
+### Repositories
+| Name                                                                                           | Type  | Region                            | Auto                                                                                                                   | Manual                                                                                                      |
 |------------------------------------------------------------------------------------------------|-------|---------------------------------|----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 | [Keiyoushi](https://keiyoushi.github.io/)                                                      | Manga | :globe-showing-asia-australia:  | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)             | [URL](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)                           |
 | [Almighty Hak](https://github.com/almightyhak/aniyomi-anime-repo)                              | Anime | :globe-showing-asia-australia:  | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/almightyhak/aniyomi-anime-repo/main/index.min.json)     | [URL](https://raw.githubusercontent.com/almightyhak/aniyomi-anime-repo/main/index.min.json)                |
