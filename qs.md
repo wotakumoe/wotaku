@@ -80,7 +80,7 @@ iOS app development is whack. so, shit can break any time.
 
 ## Adblocker
 
-- [uBlock Origin](https://ublockorigin.com/) :mdi-firefox::mingcute-chrome-fill:
+- [uBlock Origin](https://github.com/gorhill/uBlock) :mdi-firefox::mingcute-chrome-fill:
 - [Adguard](https://adguard.com/en/welcome.html) :mdi-android::ic-baseline-window::ic-baseline-apple::mdi-firefox::mingcute-chrome-fill:
 - [Adaway](https://adaway.org/) :mdi-android:
 - [RethinkDNS](https://rethinkdns.com/) :mdi-android::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
