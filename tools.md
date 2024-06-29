@@ -277,7 +277,7 @@ outline: [1,2]
 - [Indie Wiki Buddy](https://getindie.wiki/)
 - [Selection](https://github.com/emvaized/selecton-extension) :glowing-star:
 - [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web) :glowing-star:
-- [uBlock Origin](https://ublockorigin.com/) :glowing-star:
+- [uBlock Origin](https://github.com/gorhill/uBlock) :glowing-star:
 - [Violentmonkey](https://violentmonkey.github.io/) :glowing-star:
 
 
