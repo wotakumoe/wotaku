@@ -19,7 +19,7 @@ outline: 1
 Install [**Firefox**](https://play.google.com/store/apps/details?id=org.mozilla.firefox) and add [**uBlock Origin**](https://addons.mozilla.org/en-US/android/addon/ublock-origin/). This should be more than enough. If you want system-wide support, try [**Adguard**](https://adguard.com/en/adguard-android/overview.html) or [**NextDNS**](https://nextdns.io/). You can watch [**this video**](https://youtu.be/WUG57ynLb8I), if you need guidance.
 
 ### PC
-Install [**uBlock Origin**](https://ublockorigin.com/) in your browser and you're done! If you want system-wide solution, you *can* use [**NextDNS**](https://nextdns.io/) but it won't be as effective as uBlock Origin. You can also use [FastForward](https://fastforward.team/) or [Bypass.city](https://bypass.city/) to *bypass* redirects.
+Install [**uBlock Origin**](https://github.com/gorhill/uBlock) in your browser and you're done! If you want system-wide solution, you *can* use [**NextDNS**](https://nextdns.io/) but it won't be as effective as uBlock Origin. You can also use [FastForward](https://fastforward.team/) or [Bypass.city](https://bypass.city/) to *bypass* redirects.
 
 ### iOS
 [**NextDNS**](https://nextdns.io/) should cover everything for system-wide ads & trackers. You can also try [**AhaDNS**](https://ahadns.com/).
