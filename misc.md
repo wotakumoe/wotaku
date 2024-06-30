@@ -38,6 +38,7 @@ outline: 1
 - [Seiyuu.moe](https://seiyuu.moe/) :glowing-star:
 - [Anime voice actor and seiyuu comparison](https://avac.moe/index.php)
 - [Seiyuu (voice actor) database](http://www.usagi.org/doi/seiyuu/index.html)
+- [Behind The Voice Actors](https://www.behindthevoiceactors.com/)
 
 ### Others
 - [MyDramaList](https://mydramalist.com/)
