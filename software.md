@@ -205,9 +205,9 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [ADL](https://github.com/RaitaroH/adl) :ic-baseline-window::mingcute-linux-fill:<tooltip><ul><li>No UI, terminal based</li><li>"Complicated" installation, especially on Windows</li><li>Uses many different scripts, including animedl, so lots of functionality</li><li>Tracking capability & many more</li><li>Same amount of sources as AnimDL</li></ul></tooltip>
 
 ::: details More
-- [Crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<tooltip><ul><li>No UI, terminal based</li><li>"Simple" installation</li><li>Crunchyroll account required, Premium if you want all the anime available</li><li>No streaming, only download</li></ul></tooltip>
-- [Crunchyroll Downloader v3.0](https://github.com/hama3254/Crunchyroll-Downloader-v3.0) :ic-baseline-window:<tooltip><ul><li>Straightforward UI</li><li>Easy to use</li><li>Crunchyroll account required if you want premium content</li><li>About the same functionality as Crunchy-cli</li><li>No streaming, only download</li></ul></tooltip>
-
+- [Crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Crunchyroll-Downloader](https://github.com/Crunchy-DL/Crunchy-Downloader) :ic-baseline-window:
+- [Crunchyroll Downloader v3.0](https://github.com/hama3254/Crunchyroll-Downloader-v3.0) :ic-baseline-window:
 :::
 
 ### Manga
