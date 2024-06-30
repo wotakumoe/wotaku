@@ -22,7 +22,9 @@ outline: 1
 
 ### Anime
 - [aniDB](https://anidb.net/) :glowing-star:
+- [Anime Music Videos .Org](https://www.animemusicvideos.org/home/home.php)
 - [Annict](https://annict.com/)
+- [Aniplaylist](https://aniplaylist.com/)
 - [SIMKL](https://simkl.com/)
 
 ### Manga & LN
@@ -32,8 +34,12 @@ outline: 1
 - [Goodreads](https://www.goodreads.com/)
 - [Kenmei](https://www.kenmei.co/)
 
+### Seiyuu / Voice Actor
+- [Seiyuu.moe](https://seiyuu.moe/) :glowing-star:
+- [Anime voice actor and seiyuu comparison](https://avac.moe/index.php)
+- [Seiyuu (voice actor) database](http://www.usagi.org/doi/seiyuu/index.html)
+
 ### Others
-- [Aniplaylist](https://aniplaylist.com/)
 - [MyDramaList](https://mydramalist.com/)
 - [MyFigureCollection](https://myfigurecollection.net/)
 - [MyAnimeShelf](https://myanimeshelf.com/)
@@ -52,8 +58,6 @@ outline: 1
 - [Sneedex](https://sneedex.moe/) :glowing-star: <Badge type="info" icon="i-ic-outline-discord" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" /> 
 - [A Certain Fansubber's Index](https://index.fansubcar.tel/)
 - [Fansub Database](https://fansubdb.com/)
-- [Seiyuu.moe](https://seiyuu.moe/) :glowing-star: 
-- [Anime voice actor and seiyuu comparison](https://avac.moe/index.php)
 
 ### Schedule
 
