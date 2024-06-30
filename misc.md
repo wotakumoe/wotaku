@@ -204,6 +204,7 @@ outline: 1
   - [Anime News Network](https://www.animenewsnetwork.com/) :glowing-star: <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/anime" />
   - [Crunchyroll News](https://www.crunchyroll.com/news)
   - [GUNDAM.INFO](https://en.gundam.info/)
+  - [Japan Anime News](https://us.oricon-group.com/) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/JapanAnimeNews_" />
   - [MAL News](https://myanimelist.net/news) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/myanimelist" />
   - [ORICON NEWS](https://www.oricon.co.jp/) :flag-japan:
   - [Otaku News](https://www.otakunews.com/)
