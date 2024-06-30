@@ -87,9 +87,6 @@ outline: [1,2]
 - [Anime Boxes](https://www.animebox.es/)
 
 
-## Others
-- [Tachisync](https://github.com/axiel7/Tachisync) 
-
 ![](/banner/ios.png)
 
 # iOS
@@ -326,6 +323,9 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 ## Other Tools
 - [AMV Tracker](https://github.com/bsobotka/amv_tracker) :ic-baseline-window:
+- **For Android**
+  - [Nekotatsu](https://github.com/PhantomShift/nekotatsu)
+  - [Tachisync](https://github.com/axiel7/Tachisync)
 - **[Nyaa](https://nyaa.si/) Tools**
   - [nyaa](https://github.com/Beastwick18/nyaa) :ic-baseline-window::mingcute-linux-fill:
   - [Nyaa Downloader](https://github.com/marcpinet/nyaadownloader) :ic-baseline-window:
