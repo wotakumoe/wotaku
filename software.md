@@ -40,6 +40,7 @@ outline: [1,2]
   - [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY)
   - [Neko](https://github.com/nekomangaorg/Neko)
   - [Yokai](https://github.com/null2264/yokai)
+  - [Komikku](https://github.com/komikku-app/komikku)
 - [Kotatsu](https://kotatsu.app/)  <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/KotatsuApp/Kotatsu" />
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 
