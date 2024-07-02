@@ -17,12 +17,12 @@ outline: [1,2]
   - [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) :glowing-star:
 - [Cloudstream](https://cloudstream.on.fleek.co/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/recloudstream/cloudstream" /><Badge type="info" icon="i-mdi-puzzle-outline" text="Plugins" link="https://discord.com/invite/wpX5Rfcx87" />
 - [Dantotsu](https://github.com/rebelonion/Dantotsu) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />
-  - [Awery](https://github.com/MrBoomDeveloper/Awery)
-  - [Himitsu](https://repodevil.vercel.app/) <Badge type="info" icon="i-mdi-gitlab" text="GitLab" link="https://gitlab.com/RepoDevil/himitsu" />
 - [AnimeTV](https://amarullz.com/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/amarullz/AnimeTV" />
 
 
 ::: details More Apps
+- [Awery](https://github.com/MrBoomDeveloper/Awery)
+- [Himitsu](https://repodevil.vercel.app/) <Badge type="info" icon="i-mdi-gitlab" text="GitLab" link="https://gitlab.com/RepoDevil/himitsu" />
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one)
   - :material-symbols-subdirectory-arrow-right: [Stremio Tools](#anime-tools)
@@ -35,14 +35,21 @@ outline: [1,2]
 ## Manga Readers
 
 ### Online
-- [Mihon](https://mihon.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" /><Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/mihonapp/mihon" />
-  - [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) :glowing-star:
-  - [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY)
-  - [Neko](https://github.com/nekomangaorg/Neko)
+- [Mihon](https://mihon.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" /> <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/mihonapp/mihon" />
+  - [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/jobobby04/TachiyomiSY" />
+  - [TachiyomiJ2K](https://mihon.app/forks/TachiyomiJ2K/) :glowing-star: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/Jays2Kings/tachiyomiJ2K" />
   - [Yokai](https://github.com/null2264/yokai)
   - [Komikku](https://github.com/komikku-app/komikku)
-- [Kotatsu](https://kotatsu.app/)  <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/KotatsuApp/Kotatsu" />
+- [Kotatsu](https://kotatsu.app/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/KotatsuApp/Kotatsu" />
+
+::: details More
+- [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi)
+- [TachiyomiAZ](https://mihon.app/forks/TachiyomiAZ/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/az4521/tachiyomiAZ" />
+- [Aniyomi](https://aniyomi.org/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/aniyomiorg/aniyomi" />
+- [Dantotsu](https://github.com/rebelonion/Dantotsu) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />
+- [Neko](https://github.com/nekomangaorg/Neko)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
+:::
 
 ### Local
 - [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :glowing-star: <Badge type="warning" text="Freemium" />
