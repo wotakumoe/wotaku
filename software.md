@@ -180,10 +180,11 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 - [Houdoku](https://houdoku.netlify.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Mangayomi](https://github.com/kodjodevf/mangayomi) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Tachidesk](https://github.com/Suwayomi/Tachidesk-Server) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-  - [Tachidesk base](https://github.com/Suwayomi/Tachidesk-Server)
-  - [Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi)
-  - [Tachidesk JUI](https://github.com/Suwayomi/Tachidesk-JUI)
+- [Suwayomi](https://github.com/Suwayomi/Suwayomi-Server) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+  - [Tachidesk Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi)
+  - [Suwayomi-JUI](https://github.com/Suwayomi/Tachidesk-JUI)
+  - [Tachidesk-VaadinUI](https://github.com/Suwayomi/Suwayomi-VaadinUI)
+  - [Suwayomi-VUI](https://github.com/Suwayomi/Suwayomi-VUI)
 
 ### Local
 
