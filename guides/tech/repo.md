@@ -14,11 +14,10 @@ Due to DMCA takedown notices, [Tachiyomi](https://tachiyomi.org/) (now continued
 - **Auto:** Click on **Install** and the repo will be sideloaded automatically.
 - **Manual:** Copy the **URL** (from the manual column) and put it in **:mdi-dots-horizontal:More :mdi-arrow-right-thin: :mdi-cog-outline:Settings :mdi-arrow-right-thin: :mdi-compass-outline:Browse :mdi-arrow-right-thin: Extension repos**.
 
-::: tip For Dantotsu & it's forks
+::: tip For Dantotsu & its forks
 Copy the **URL** (from the manual column) and put it in: **Profile avatar (top right) :mdi-arrow-right-thin: :mdi-cog:Settings :mdi-arrow-right-thin: :mdi-puzzle:Extensions :mdi-arrow-right-thin: Add Anime/Manga Repo**.
 
-To activate torrent features, navigate to **Profile avatar (top right) :mdi-arrow-right-thin: :mdi-cog:Settings :mdi-arrow-right-thin: :mdi-silverware-fork-knife:Add-ons**. Then download and install the **:mdi-magnet:Torrent Add-on**. Afterward, switch on **:mdi-server:Enable Torrent**.
-
+To activate torrent features, navigate to **Profile avatar (top right) :mdi-arrow-right-thin: :mdi-cog:Settings :mdi-arrow-right-thin: :mdi-silverware-fork-knife:Add-ons**. Then download and install the **:mdi-magnet:Torrent Add-on**. Afterwards, switch on **:mdi-server:Enable Torrent**.
 :::
 
 ### Repositories
