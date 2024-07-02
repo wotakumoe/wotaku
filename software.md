@@ -109,7 +109,7 @@ outline: [1,2]
 ## Manga Readers
 
 ### Online
-- [Paperback](https://github.com/Paperback-iOS/app)
+- [Paperback](https://github.com/Paperback-iOS/app) <Badge type="tip" text="Sources" link="https://thenetsky.github.io/netskys-extensions/" />
 - [Aidoku](https://github.com/Aidoku/Aidoku) <Badge type="tip" text="Sources" link="https://github.com/Skittyblock/aidoku-community-sources" />
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [Suwatte](https://suwatte.mantton.com/)  <Badge type="tip" text="Sources" link="https://rentry.co/suwatte" />
@@ -119,6 +119,8 @@ outline: [1,2]
 ### Local
 - [YACReader](https://apps.apple.com/app/id635717885) :glowing-star: <Badge type="tip" text="TestFlight" icon="i-ic-twotone-money-off" link="https://testflight.apple.com/join/5zhB7sRP" />
 - [SideBooks](https://apps.apple.com/us/app/sidebooks/id409777225)
+- [Panels](https://apps.apple.com/us/app/panels-comic-reader/id1236567663)
+- [Manga Viewer](https://apps.apple.com/us/app/manga-viewer-cbz-cbr-reader/id1309007086)
 
 ::: details "iOS app not working. What should i do?"
 
