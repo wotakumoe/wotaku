@@ -1,10 +1,9 @@
 ---
-title: Extension Repos for Mihon & Aniyomi
-customDescription: Repo list & guide for Mihon & Aniyomi
+title: Extension Repos for Mihon, Aniyomi & Dantotsu
+customDescription: Repo list & guide for Mihon, Aniyomi & Dantotsu
 outline: [3,4]
 ---
-
-# Extension Repos for Mihon & Aniyomi
+## Extension Repos for Mihon, Aniyomi & Dantotsu
 
 <br>
 
@@ -18,6 +17,21 @@ Due to DMCA takedown notices, [Tachiyomi](https://tachiyomi.org/) (now continued
 Copy the **URL** (from the manual column) and put it in: **Profile avatar (top right) :mdi-arrow-right-thin: :mdi-cog:Settings :mdi-arrow-right-thin: :mdi-puzzle:Extensions :mdi-arrow-right-thin: Add Anime/Manga Repo**.
 
 To activate torrent features, navigate to **Profile avatar (top right) :mdi-arrow-right-thin: :mdi-cog:Settings :mdi-arrow-right-thin: :mdi-silverware-fork-knife:Add-ons**. Then download and install the **:mdi-magnet:Torrent Add-on**. Afterwards, switch on **:mdi-server:Enable Torrent**.
+:::
+
+
+:::details Video guide for sideloading
+
+<br>
+
+<div class="video_wrapper"><iframe src="https://www.youtube.com/embed/wemPCkUCyxo" frameborder="0" allowfullscreen></iframe></div>
+
+<br>
+
+<div class="video_wrapper"><iframe src="https://www.youtube.com/embed/dubXV-R9lUM" frameborder="0" allowfullscreen></iframe></div>
+
+<br>
+
 :::
 
 ### Repositories
