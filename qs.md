@@ -34,7 +34,6 @@ customDescription: Discover websites, software, and essentials for anime, manga,
 
 - [Nyaa](https://nyaa.si/) <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.mom/" />
 - [Anime Tosho](https://animetosho.org/)
-- [Anidex](https://anidex.info/)
 
 ![](/banner/software.png)
 

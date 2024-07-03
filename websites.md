@@ -80,7 +80,6 @@ outline: 1
 
 - [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.mom/" /><Badge type="info" text="Alt" link="https://animetime.cc/" /> 
 - [Anime Tosho](https://animetosho.org/) <Badge type="info" text="DDL" />
-- [Anidex](https://anidex.info/)
 - [Anirena](https://www.anirena.com/)
 - [Shana Project](https://www.shanaproject.com/) <Badge type="info" text="Tokyo tosho" link="https://www.tokyotosho.info/" />
 
@@ -338,7 +337,6 @@ outline: 1
 - [Zekozimo](https://zekozimo.blogspot.com/) :glowing-star: <Badge type="tip" text="General"  />
 - [KRDL](https://krdl.moe/) :glowing-star:
 - [Nyaa](https://nyaa.si/)
-- [AniDex](https://anidex.info/)
 - [Metallic Subs](https://metallicsubs.wordpress.com/)
 - [Megabeast Empire](https://megabeastempire.wordpress.com/)
 
