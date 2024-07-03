@@ -105,7 +105,7 @@ outline: 1
 - [AnimeRSS](https://animerss.com/) :mdi-snail::mdi-disc:
 
 ### Re-encodes
-- [Flugel Anime](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9mbHVnZWwtYW5pbWUuY29tLw) + :flag-spain: :mdi-download:
+- [Flugel Anime](https://flugelanime.com/) + :flag-spain: :mdi-download:
 - [Kayo anime](https://kayoanime.com/) :mdi-google-drive::material-symbols-package-2:
 - [Anime out](https://www.animeout.xyz/) :mdi-download::mdi-account:
 - [Chauthanh](https://chauthanh.info/) :mdi-download::mdi-account:
