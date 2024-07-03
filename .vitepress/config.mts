@@ -44,6 +44,10 @@ export default defineConfig({
         sizes: "192x192",
       },
     ],
+    [
+      'script',
+      { defer: '', 'data-domain': 'wotaku.moe', src: 'https://simp.mom/js/asdasdasd.js' }
+    ]
   ],
   srcExclude: ["README.md"],
   sitemap: {
