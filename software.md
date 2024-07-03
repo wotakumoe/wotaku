@@ -44,7 +44,7 @@ outline: [1,2]
 
 ::: details More
 - [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi)
-- [TachiyomiAZ](https://mihon.app/forks/TachiyomiAZ/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/az4521/tachiyomiAZ" />
+- [TachiyomiAZ](https://mihon.app/forks/TachiyomiAZ/) <Badge type="info" text="Dev build" link="https://crafty.moe/tachiyomiAZ.apk" /><Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/az4521/tachiyomiAZ" />
 - [Aniyomi](https://aniyomi.org/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/aniyomiorg/aniyomi" />
 - [Dantotsu](https://github.com/rebelonion/Dantotsu) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />
 - [Neko](https://github.com/nekomangaorg/Neko)
