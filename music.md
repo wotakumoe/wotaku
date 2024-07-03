@@ -372,6 +372,7 @@ outline: 1
 
 ## Downloader
 - [Deemix](https://download.deemix.workers.dev/)
+- [Onthespot](https://github.com/casualsnek/onthespot)
 - [Lidarr](https://lidarr.audio/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Nicotine+](https://nicotine-plus.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-lan-pending:<tooltip>Direct peer-to-peer sharing network, primarily used for music</tooltip>
 - [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD)
@@ -396,6 +397,7 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 
 ### Script
 - [Ame](https://notabug.org/SuperSaltyGamer/ame/) :simple-icons-applemusic::simple-icons-musicbrainz:<Badge text="VGMdb" />
+- [dzunlock](https://uhwotgit.fly.dev/uhwot/dzunlock)
 - [Gallery Mode for Lists - RateYourMusic](https://greasyfork.org/en/scripts/434865-gallery-mode-for-lists-rateyourmusic)
 - [MusicBrainz Userscripts](https://musicbrainz.org/doc/Guides/Userscripts)
 - [Slav Art User Scripts](https://rentry.org/slavartuserscripts) <Badge text="Qobuz" />
