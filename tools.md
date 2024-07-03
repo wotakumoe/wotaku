@@ -1,6 +1,6 @@
 ---
 title: Tools
-description: Sofware to make life easier
+description: Software to make life easier
 customDescription: Various tools to enhance your experience; not all of them are necessarily weeb-related, but they can be genuinely helpful.
 outline: [1,2]
 ---

@@ -29,7 +29,7 @@ outline: [2,3]
 - [r/VN's 2018](https://vnrecs.github.io/)
 - [What are you reading?](https://some-guy.org/vnswayrarchive/recommendations)
 
-### Techinical
+### Technical
 - [Fully Automatic Retiming of Subtitles](https://youtu.be/x0h3ooBHrpk)
 
 

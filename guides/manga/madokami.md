@@ -117,7 +117,7 @@ You can also set up your client to do this automatically by adding it to the **C
 
 1. Download and install FMD2 from [**here**](https://github.com/dazedcat19/FMD2)
 2. Update all the modules and restart FMD2 after the update is complete. You can check the update process in `Options > Websites > Modules`
-3. Then go to `Options > Websites > Accounts` andd add your Madokami credentials. After that select Madokami and click apply.
+3. Then go to `Options > Websites > Accounts` and add your Madokami credentials. After that select Madokami and click apply.
 4. Now go to **Manga info** and paste the URL in **Input URL here** and click :right-arrow:
 5. After it loads the chapters, select the chapters you want to download and click **Download**
 

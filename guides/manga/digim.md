@@ -1,6 +1,6 @@
 ---
 title: Digital Manga & Manhwa Info
-customDescription: "Information about digital manga & manhwa publishers on resul"
+customDescription: "Information about digital manga & manhwa publishers on result"
 outline: [2,3]
 ---
 

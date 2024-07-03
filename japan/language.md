@@ -193,7 +193,7 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 - [Kanji Portraits](https://kanjiportraits.wordpress.com/) `Kanji mrigins`
 - [Kanji Tools](https://kanji.sljfaq.org/)
 - [Kanji Worksheets](https://jensechu.github.io/kanji/index.html) `Printable Kanji worksheet`
-- [Massif](https://massif.la/ja) `Search throuh Book / WN / Web`
+- [Massif](https://massif.la/ja) `Search through Book / WN / Web`
 - [OJAD AI Reader](https://www.gavo.t.u-tokyo.ac.jp/ojad/phrasing/index) `Generate pitch accent`
 - [RTK Search](https://hochanh.github.io/rtk/)
 - [Tatoeba](https://tatoeba.org/en/) `Crowd-sourced sentence`
