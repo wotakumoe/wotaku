@@ -6,6 +6,9 @@ hero:
   name: "Wotaku"
   text: "The Otaku Index"
   tagline: A wide array of weeb resources
+  prelink:
+    title: Mihon & Aniyomi Extensions
+    link: /guides/tech/repo
   image: /asset/plush.png
   actions:
     - theme: brand
