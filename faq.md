@@ -67,7 +67,7 @@ IRC (Internet Relay Chat) is a really old messaging protocol. It uses client and
 Usenet is a subscription-based service. Though really old, it's still very reliable. Its system consists of a few elements:
 
 - **.nzb:** The file you need in order to download your wanted file, similar to `.torrent` files. In usenet, files are hosted in multiple parts. These parts are stored as different articles, each having its own message ID. `.nzb` contains all the message IDs, so that the provider can locate the parts.
-- **Indexers:** The search engines of usenet, either paid or free (with limits). One such free indexer for anime is [Anime Tosho](https://animetosho.org/), mirroring Nyaa uploads upto 16GB.
+- **Indexers:** The search engines of usenet, either paid or free (with limits).
 - **Providers:** The hosts of all the content, all of them are paid.
 
 :::
