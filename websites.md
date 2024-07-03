@@ -38,6 +38,7 @@ outline: 1
 ### Multi Host
 - [Animeflix](https://animeflix.gg/) <Badge type="info" text="Proixes" link="https://animeflix.domains/" /> `gz`
 - [AniPlay](https://aniplaynow.live/) <Badge type="info" text="2" link="https://makima.xyz/" /> `gz`
+- [Dantotsu](https://dantotsuweb.vercel.app/)
 - [Gojo](https://gojo.live/) `gz`
 - [Miruro](https://www.miruro.tv/) `gz`
 - [Shiroko](https://shiroko.co/en) `gz`
@@ -157,6 +158,7 @@ outline: 1
 
 ::: details More
 
+- [Colored Manga](https://coloredmanga.net/)
 - [Cubari Proxy](https://proxy.cubari.moe/) <Badge type="danger" text="18+" />
 - [Manga Katana](https://mangakatana.com/)
 - [Mangapark](https://mangapark.net/)
