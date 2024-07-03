@@ -9,6 +9,7 @@ import SidebarCard from "./components/SidebarCard.vue";
 import Tooltip from "./components/Tooltip.vue";
 import Authors from "./components/Authors.vue";
 import Components from "@fmhy/components";
+import AnnouncementPill from "./components/AnnouncementPill.vue";
 import "virtual:uno.css";
 
 export default {
@@ -16,6 +17,7 @@ export default {
   Layout: () => {
     return h(Theme.Layout, null, {
       "sidebar-nav-after": () => h(SidebarCard),
+      "home-hero-prelink": () => h(AnnouncementPill),
       // https://vitepress.dev/guide/extending-default-theme#layout-slots
     });
   },
