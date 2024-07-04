@@ -344,6 +344,7 @@ outline: 1
 - [Elisa](https://apps.kde.org/elisa/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Foobar2000](https://www.foobar2000.org/) :glowing-star: :ic-baseline-window::ic-baseline-apple:
   - :material-symbols-subdirectory-arrow-right: [Foobar2000 add-ons](#foobar2000-add-ons)
+- [Fooyin](https://github.com/fooyin/fooyin)
 - [MusicBee](https://www.getmusicbee.com/) :ic-baseline-window:
 - [Strawberry](https://www.strawberrymusicplayer.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [WACUP](https://getwacup.com/) :ic-baseline-window:
@@ -351,6 +352,7 @@ outline: 1
 - [Tauon Music Box](https://tauonmusicbox.rocks/) :ic-baseline-window::mingcute-linux-fill: <Badge type="info" text="Synced Lyrics" link="https://github.com/Taiko2k/TauonMusicBox/wiki/Lyrics#synced-lyrics" />
 
 ### Online
+- [SoundCloud](https://github.com/makufelis/SoundCloud-Client) :ic-baseline-window:
 - [Spicetify](https://spicetify.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [SPOTX](https://github.com/SpotX-Official/SpotX) :ic-baseline-window:
 - [spmp](https://github.com/toasterofbread/spmp) :ic-baseline-window::mingcute-linux-fill:
