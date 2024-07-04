@@ -152,6 +152,7 @@ outline: [2,3]
 
 ## Youtube
 - [Seeder Playlist](https://zenith-raincoat-5cf.notion.site/Japanese-Seeder-Playlist-15fc740a87d843a2a2a5f36a913af551)
+- [Volt's Japanese subtitles playlist](https://www.youtube.com/playlist?list=PLiPR3922q7iAsSm2EsQVMou0kCVavNR2c)
 - [Kaname Naito](https://www.youtube.com/@kanamenaito)
 - [Onomappu](https://www.youtube.com/@Onomappu/)
 - [Akane's JapaneseClass](https://www.youtube.com/@Akane-JapaneseClass)
