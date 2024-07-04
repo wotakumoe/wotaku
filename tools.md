@@ -261,6 +261,7 @@ outline: [1,2]
 
 
 ## Image
+- [Betterviewer](https://github.com/Ademking/Betterviewer)
 - [Booru Shinshi](https://github.com/kuanyui/BooruShinshi) <Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/booru-shinshi/" />
 - [Control Panel for Twitter](https://jbscript.dev/control-panel-for-twitter)
 - [Journey Buster 3](https://journeybuster.com/)
