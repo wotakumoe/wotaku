@@ -95,6 +95,7 @@ outline: [2,3]
 - [Japanese Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy)
 - [jidoujisho](https://github.com/lrorpilla/jidoujisho) :glowing-star:
 - [Kakugo](https://play.google.com/store/apps/details?id=org.kaqui) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/blastrock/kakugo" />
+- [KankenToNews](https://play.google.com/store/apps/details?id=jp.kyoto.nlp.kanken)
 - [Kanji Garden](https://play.google.com/store/apps/details?id=is.ky.kanjigarden) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://kanji.garden/" />
 - [Kanji Dojo](https://play.google.com/store/apps/details?id=ua.syt0r.kanji)
 - [Kata](https://play.google.com/store/apps/details?id=im.dacer.kata)
@@ -105,6 +106,7 @@ outline: [2,3]
 #### Apple
 - [Japanese](https://apps.apple.com/us/app/japanese/id290664053)
 - [Learn Japanese! - Kanji](https://apps.apple.com/us/app/learn-japanese-kanji/id1078107994)
+- [KankenToNews](https://apps.apple.com/us/app/kankentonews/id1449966937)
 - [Kana - Hiragana and Katakana](https://apps.apple.com/us/app/kana-hiragana-and-katakana/id1454200955)
 - [Kanji Garden](https://apps.apple.com/us/app/kanji-garden-japanese/id1338967114) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://kanji.garden/" />
 - [kawaiiNihongo](https://apps.apple.com/us/app/kawaiinihongo-learn-japanese/id1015333181)
@@ -137,12 +139,14 @@ outline: [2,3]
 ### Media
 
 #### Video Player
-- [mpvacious](https://github.com/Ajatt-Tools/mpvacious) :ic-baseline-window::mingcute-linux-fill:
-- [Animebook](https://animebook.github.io/) :mdi-earth: <Badge type="info" text="Guide" link="https://cademcniven.com/posts/20210703/" />
-- [memento](https://github.com/ripose-jp/Memento) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Asbplayer](https://killergerbah.github.io/asbplayer/) :mdi-earth::mingcute-chrome-fill: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/killergerbah/asbplayer" />
 - [Anime Subtitle Player](https://anime-subtitle-player.vercel.app/) :mdi-earth: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/LostArrows27/anime-subtitle-player" />
-- [Voracious](https://voracious.app/) :ic-baseline-window::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/rsimmons/voracious" /> 
+- [Animebook](https://animebook.github.io/) :mdi-earth: <Badge type="info" text="Guide" link="https://cademcniven.com/posts/20210703/" />
+- [Asbplayer](https://killergerbah.github.io/asbplayer/) :mdi-earth::mingcute-chrome-fill: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/killergerbah/asbplayer" />
+- [memento](https://github.com/ripose-jp/Memento) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [mpvacious](https://github.com/Ajatt-Tools/mpvacious) :ic-baseline-window::mingcute-linux-fill:
+- [mpv-subversive](https://github.com/nairyosangha/mpv-subversive)
+- [Voracious](https://voracious.app/) :ic-baseline-window::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/rsimmons/voracious" />
+
 
 #### Reader
 - [Mokuro](https://github.com/kha-white/mokuro) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
@@ -205,6 +209,7 @@ outline: [2,3]
 
 #### Others
 - [ComicEater](https://github.com/kanjieater/ComicEater)
+- [LN Readability](https://colab.research.google.com/github/Gilfaro/ln-recommender/blob/main/LNReadability.ipynb)
 - [Supermemo](https://super-memory.com/) <Badge type="warning" text="Trialware"/><Badge type="tip" text="Wiki" link="https://www.supermemo.wiki/en/home" />
 
 
