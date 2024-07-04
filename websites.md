@@ -38,7 +38,7 @@ outline: 1
 ### Multi Host
 - [Animeflix](https://animeflix.gg/) <Badge type="info" text="Proixes" link="https://animeflix.domains/" /> `gz`
 - [AniPlay](https://aniplaynow.live/) <Badge type="info" text="2" link="https://makima.xyz/" /> `gz`
-- [Dantotsu](https://dantotsuweb.vercel.app/)
+- [Dantotsu](https://dantotsuweb.vercel.app/) `gz`
 - [Gojo](https://gojo.live/) `gz`
 - [Miruro](https://www.miruro.tv/) `gz`
 - [Shiroko](https://shiroko.co/en) `gz`
@@ -301,7 +301,6 @@ outline: 1
 - [Novel Onedrive Index](https://novel-indx.vercel.app/)
 - [Madokami](https://manga.madokami.al)
 - [Just Light Novels](https://www.justlightnovels.com/)
-- [That Novel Corner](https://thatnovelcorner.com/)
 
 ## Nyaa
 
