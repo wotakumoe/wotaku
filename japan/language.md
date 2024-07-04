@@ -46,10 +46,12 @@ outline: [2,3]
 
 ### Practice
 - [Kana Pro](https://kana.pro/)
+- [Kuuuube Kana](https://kuuuube.github.io/kana-quiz/kana/kana-dark/index.html)
 - [Real Kana](https://realkana.com/)
 - [Kana Review](https://kanareview.com/)
 - [Japanese Practice](https://japanesepractice.app/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/RichiePowell/japanese-practice" />
 - [Type Kana](https://lab.fleon.org/type-kana/)
+- [Hentaigana Quiz](https://kuuuube.github.io/kana-quiz/hentaigana/hentaigana-dark/index.html)
 - [Steven Kraft’s Japanese Projects](https://steven-kraft.com/projects/japanese/) <Badge type="warning" text="general" />
 - Freerice <Badge type="tip" text="hiragana" link="https://play.freerice.com/categories/hiragana" /><Badge type="tip" text="katakana" link="https://play.freerice.com/categories/katakana" />
 
@@ -63,6 +65,7 @@ outline: [2,3]
 - [KanjiDamage+](https://kanjidamageplus.neocities.org/)
 - [Marshall's Site](https://marshallyin.com/) <Badge type="warning" text="Freemium" /> <tooltip>Marshall's site contain almost everything. So to avoid dupe, it will be linked once.</tooltip>
 - [THE KANJI VISUAL LANGUAGE PROJECT](https://kvlp.org/)
+- [Proverb encyclopedia](https://proverb-encyclopedia.com/)
 
 ### Dictionary
 - [Wiktionary](https://wiktionary.org) <Badge type="tip" text="EN" link="https://en.wiktionary.org/" /><Badge type="tip" text="JP" link="https://ja.wiktionary.org/" />
@@ -266,6 +269,7 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 ### Practice
 
 #### General
+- [Grindmaster](https://goshintai.xyz/projects/grindmaster/)
 - [Genki Study Resources](https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/)
 - [Tobira Study Resources](https://sethclydesdale.github.io/tobira-study-resources/)
 - [Japanese Conjugation Practice](https://baileysnyder.com/jconj/)
