@@ -41,6 +41,7 @@ outline: [2,3]
 - [MorphMan](https://ankiweb.net/shared/info/900801631)  <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/kaegi/MorphMan" />
 - [Review Heatmap](https://ankiweb.net/shared/info/1771074083)
 - [Yomichan Forvo Server](https://ankiweb.net/shared/info/580654285) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/jamesnicolas/yomichan-forvo-server" />
+- [WaniAnki](https://damiansh.github.io/waniAnki/instructions)
 
 ### Card templates
 - [jp-mining-note](https://aquafina-water-bottle.github.io/jp-mining-note/)
