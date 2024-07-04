@@ -94,7 +94,7 @@ outline: [2,3]
 #### Android
 - [Japanese Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy)
 - [jidoujisho](https://github.com/lrorpilla/jidoujisho) :glowing-star:
-- [Kakugo](https://play.google.com/store/apps/details?id=org.kaqui)
+- [Kakugo](https://play.google.com/store/apps/details?id=org.kaqui) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/blastrock/kakugo" />
 - [Kanji Garden](https://play.google.com/store/apps/details?id=is.ky.kanjigarden) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://kanji.garden/" />
 - [Kanji Dojo](https://play.google.com/store/apps/details?id=ua.syt0r.kanji)
 - [Kata](https://play.google.com/store/apps/details?id=im.dacer.kata)
