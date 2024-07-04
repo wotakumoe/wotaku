@@ -36,7 +36,6 @@ outline: 1
 
 
 ### Multi Host
-- [Animeflix](https://animeflix.gg/) <Badge type="info" text="Proixes" link="https://animeflix.domains/" /> `gz`
 - [AniPlay](https://aniplaynow.live/) <Badge type="info" text="2" link="https://makima.xyz/" /> `gz`
 - [Dantotsu](https://dantotsuweb.vercel.app/) `gz`
 - [Gojo](https://gojo.live/) `gz`
