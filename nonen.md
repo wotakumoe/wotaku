@@ -393,6 +393,7 @@ If you have recommendations for good sites in your native language or want to re
 - [Saikoni](https://saikoani.me/)
 
 ## Manga
+- [Ler Mangas](https://lermangas.me/)
 - [SlimeRead](https://slimeread.com/)
 - [Tao Sect](https://taosect.com/)
 
