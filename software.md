@@ -94,6 +94,9 @@ outline: [1,2]
 - [Pixiv for Muzei 3](https://github.com/yellowbluesky/PixivforMuzei3)
 - [Anime Boxes](https://www.animebox.es/)
 
+## Others
+- [SauceNAO](https://github.com/LuK1337/SauceNAO)
+- [Tachisync](https://github.com/axiel7/Tachisync)
 
 ![](/banner/ios.png)
 
@@ -334,14 +337,11 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 ## Other Tools
 - [AMV Tracker](https://github.com/bsobotka/amv_tracker) :ic-baseline-window:
-- **For Android**
-  - [Nekotatsu](https://github.com/PhantomShift/nekotatsu)
-  - [Tachisync](https://github.com/axiel7/Tachisync)
 - **[Nyaa](https://nyaa.si/) Tools**
   - [nyaa](https://github.com/Beastwick18/nyaa) :ic-baseline-window::mingcute-linux-fill:
   - [Nyaa Downloader](https://github.com/marcpinet/nyaadownloader) :ic-baseline-window:
   - [Koneko](https://github.com/irevenko/koneko)
-
+- [Nekotatsu](https://github.com/PhantomShift/nekotatsu)
 
 ## Hosting
 - **Anime**
