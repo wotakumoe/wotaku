@@ -43,6 +43,7 @@ To activate torrent features, navigate to **Profile avatar (top right) :mdi-arro
 | [Almighty Hak](https://github.com/almightyhak/aniyomi-anime-repo) | :globe-showing-asia-australia: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/almightyhak/aniyomi-anime-repo/main/index.min.json) | [URL](https://raw.githubusercontent.com/almightyhak/aniyomi-anime-repo/main/index.min.json) |
 | [ni3x](https://github.com/ni3x/aniyomi-extensions) | :globe-showing-asia-australia: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/ni3x/aniyomi-extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/ni3x/aniyomi-extensions/repo/index.min.json) |
 | [hollow](https://codeberg.org/hollow/aniyomi-extensions-fr) | :flag-france: | [Install](aniyomi://add-repo?url=https://codeberg.org/hollow/aniyomi-extensions-fr/media/branch/repo/index.min.json) | [URL](https://codeberg.org/hollow/aniyomi-extensions-fr/media/branch/repo/index.min.json) |
+| [Claudemirovsky](https://github.com/Claudemirovsky/cursedyomi-extensions) | :flag-brazil: :flag-turkiye: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/Claudemirovsky/cursedyomi-extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Claudemirovsky/cursedyomi-extensions/repo/index.min.json) |
 
 
 #### Manga
