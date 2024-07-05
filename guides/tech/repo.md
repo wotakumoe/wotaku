@@ -10,8 +10,16 @@ outline: [3,4]
 Due to DMCA takedown notices, [Tachiyomi](https://tachiyomi.org/) (now continued as [Mihon](https://mihon.app/)) and [Aniyomi](https://aniyomi.org/) no longer come with preloaded extensions. You have to sideload extension repos in [Mihon](https://mihon.app/), [Aniyomi](https://aniyomi.org/), [Dantotsu](https://github.com/rebelonion/Dantotsu) and their forks to get extensions.
 
 ### Sideloading Methods
+
+#### Adding Repo
 - **Auto:** Click on **Install** and the repo will be sideloaded automatically.
 - **Manual:** Copy the **URL** (from the manual column) and put it in **:mdi-dots-horizontal:More :mdi-arrow-right-thin: :mdi-cog-outline:Settings :mdi-arrow-right-thin: :mdi-compass-outline:Browse :mdi-arrow-right-thin: Extension repos**.
+
+#### Adding Extension
+1. After [**adding the repo**](#adding-repo), go to **Home :mdi-arrow-right-thin: :mdi-compass:Browse :mdi-arrow-right-thin: Anime/Manga Extension**.
+2. Download & install your desired extension by clicking :mdi-download-outline:.
+3. Find it in the "**Installed**" section (at the top of the list) with :mdi-close-octagon: beside it.
+4. The extension is disabled by default, so click on the :mdi-shield-check-outline: icon to enable it.
 
 ::: tip For Dantotsu & its forks
 Copy the **URL** (from the manual column) and put it in: **Profile avatar (top right) :mdi-arrow-right-thin: :mdi-cog:Settings :mdi-arrow-right-thin: :mdi-puzzle:Extensions :mdi-arrow-right-thin: Add Anime/Manga Repo**.
