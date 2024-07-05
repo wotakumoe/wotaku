@@ -95,8 +95,10 @@ outline: [1,2]
 - [Anime Boxes](https://www.animebox.es/)
 
 ## Others
+- [AniVu](https://github.com/SkyD666/AniVu)
+- [Nekotatsu](https://github.com/PhantomShift/nekotatsu) <Badge type="info" text="Needs PC" />
 - [SauceNAO](https://github.com/LuK1337/SauceNAO)
-- [Tachisync](https://github.com/axiel7/Tachisync)
+- [Tachisync](https://github.com/axiel7/Tachisync) <Badge type="info" text="Needs PC" />
 
 ![](/banner/ios.png)
 
@@ -341,7 +343,6 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
   - [nyaa](https://github.com/Beastwick18/nyaa) :ic-baseline-window::mingcute-linux-fill:
   - [Nyaa Downloader](https://github.com/marcpinet/nyaadownloader) :ic-baseline-window:
   - [Koneko](https://github.com/irevenko/koneko)
-- [Nekotatsu](https://github.com/PhantomShift/nekotatsu)
 
 ## Hosting
 - **Anime**
