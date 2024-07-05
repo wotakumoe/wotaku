@@ -114,6 +114,7 @@ outline: 1
 - [Mynewworm](https://myneworm.katsurin.com/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/Butterstroke/Myneworm" />
 - [Otaku Calendar](https://otakucalendar.com/Release/?filterCategory=2)
 - [r/LightNovels upcoming releases](https://old.reddit.com/r/LightNovels/wiki/upcomingreleases/)
+- [Von's Manga Calendar](https://v0n.notion.site/Manga-297a9ad3a4904173b3a4ce319f9b2879)
 - [Yatta-Tachi](https://yattatachi.com/tag/releases)
 - :material-symbols-subdirectory-arrow-right: [Manga release portals](#manga-ln-2)
 
