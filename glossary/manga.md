@@ -164,7 +164,7 @@ Tankoubon means the volume release. Many manga are initially published in magazi
 | Wide-ban | A larger (A5 size) edition. Many manga, particularly seinen and josei, are published in wide-ban editions after magazine serialization, and are never released in the tankoubon format that is common in shounen and shoujo manga. When a series is originally published in tankoubon format and then re-released in wide-ban, each volume will contain more pages than the original edition, thus consisting of fewer volumes. |
 
 ### Webcomic/Webmanga
-Was originally published on a web platform. The platform can be free(twitter, pixiv etc) or paid (Comico, comic-walker etc.). Example: [ReLife](https://mangadex.org/title/6e3553b9-ddb5-4d37-b7a3-99998044774e/relife) ([comico](https://www.comico.jp/comic/23)) & [A Story About Smoking at the Back of the Supermarket](https://mangadex.org/title/baa95345-24fb-47a9-83e9-434ff671f968/super-no-ura-de-yani-suu-hanashi) ([twitter](https://twitter.com/jinusi822))
+Was originally published on a web platform. The platform can be free(twitter, pixiv etc) or paid (Comico, comic-walker etc.). Example: [ReLife](https://mangadex.org/title/6e3553b9-ddb5-4d37-b7a3-99998044774e/relife) ([comico](https://www.comico.jp/comic/23)) & [A Story About Smoking at the Back of the Supermarket](https://mangadex.org/title/baa95345-24fb-47a9-83e9-434ff671f968/super-no-ura-de-yani-suu-hanashi) ([twitter](https://x.com/jinusi822))
 
 
 ## Scanlation

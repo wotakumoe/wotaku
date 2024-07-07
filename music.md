@@ -275,7 +275,7 @@ outline: 1
   - [Vocasphere](https://vocasphere.net/)
   - [Merami fan](https://meramifan.wordpress.com/) :glowing-star:
   - [Touhou Memories](https://touhou-memories.com/)
-  - [Hatsune Miku](https://twitter.com/cfm_miku_en)
+  - [Hatsune Miku](https://x.com/cfm_miku_en)
 
 ## Others
 
