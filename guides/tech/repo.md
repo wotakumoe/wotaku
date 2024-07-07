@@ -1,9 +1,9 @@
 ---
-title: Extension Repos for Mihon, Aniyomi & Dantotsu
-customDescription: Repo list & guide for Mihon, Aniyomi & Dantotsu
+title: Mihon, Aniyomi & Dantotsu Extension Repos
+customDescription: Mihon, Aniyomi & Dantotsu Extension Repos & Guides
 outline: [3,4]
 ---
-## Extension Repos for Mihon, Aniyomi & Dantotsu
+## Mihon, Aniyomi & Dantotsu Extension Repos
 
 <br>
 
