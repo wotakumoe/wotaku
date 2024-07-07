@@ -371,6 +371,34 @@ outline: 1
 - [r/SuperSentai](https://old.reddit.com/r/SuperSentai/)
 - [r/Ultraman](https://old.reddit.com/r/Ultraman/)
 
+![](/banner/comics.png)
+# Comics
+
+## Online
+- [Comic Extra](https://comixextra.com/)
+- [GoComics](https://www.gocomics.com/)
+- [Old Comics World](https://oldcomicsworld.blogspot.com/)
+- [Read All Comics](https://readallcomics.com/) :glowing-star:
+- [Read Comic Online (.li)](https://readcomiconline.li/) :glowing-star:
+- [Read Comics Online (.ru)](https://readcomicsonline.ru/)
+- [View Comics](https://azcomix.net/)
+- [XOXO Comics](https://xoxocomic.com/) :glowing-star:
+
+## Direct Download
+- [Anna’s Archive](https://annas-archive.org/)
+- [Desuarchive](https://desuarchive.org/) <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
+- [Get Comics](https://getcomics.info/) :glowing-star:
+- [Comics All](https://comics-all.com/) <Badge type="tip" text="2" link="https://newcomic.info/" />
+- [Libgen](https://libgen.li/)
+
+## Others
+- **Tracker**
+  - [League of Comic Geeks](https://leagueofcomicgeeks.com/)
+  - [Comic Vine](https://comicvine.gamespot.com/)
+- **Info**
+  - [Comic Book Reading Orders](https://comicbookreadingorders.com/)
+  - [Comic Book Herald](https://www.comicbookherald.com/)
+  - [CMRO](https://cmro.travis-starnes.com/)
 
 
 ![](/banner/pt.png)

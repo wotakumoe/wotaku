@@ -488,30 +488,6 @@ outline: 1
 ![](/banner/others.png)
 # Others
 
-## Comics
-
-- **Online**
-  - [Comic Extra](https://ww1.comicextra.com/)
-  - [Read All Comics](https://readallcomics.com/) :glowing-star:
-  - [Read Comics Free](https://readcomicsfree.com/)
-  - [Read Comic Online](https://readcomiconline.li/) :glowing-star:
-  - [Read Comics Online](https://readcomicsonline.ru/)
-  - [View Comics](https://viewcomics.me/)
-  - [XOXO Comics](https://xoxocomics.com/) :glowing-star:
-- **Direct Download**
-  - [Anna’s Archive](https://annas-archive.org/)
-  - [Desuarchive](https://desuarchive.org/) <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
-  - [Get Comics](https://getcomics.info/) :glowing-star:
-  - [Comics All](https://comics-all.com/) <Badge type="tip" text="2" link="https://newcomic.info/" />
-  - [Libgen](https://libgen.li/)
-- **Tracker**
-  - [League of Comic Geeks](https://leagueofcomicgeeks.com/)
-  - [Comic Vine](https://comicvine.gamespot.com/)
-- **Info**
-  - [Comic Book Reading Orders](https://comicbookreadingorders.com/)
-  - [Comic Book Herald](https://www.comicbookherald.com/)
-  - [CMRO](https://cmro.travis-starnes.com/)
-
 ## Fansubbing
 
 - [Encode](https://guide.encode.moe/)
