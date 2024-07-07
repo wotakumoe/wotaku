@@ -38,8 +38,8 @@ outline: 1
 ### Multi Host
 - [AniPlay](https://aniplaynow.live/) <Badge type="info" text="2" link="https://makima.xyz/" /> `gz`
 - [Dantotsu](https://dantotsuweb.vercel.app/) `gz`
-- [Gojo](https://gojo.live/) `gz`
-- [Miruro](https://www.miruro.tv/) `gz`
+- [Gojo](https://gojo.live/) <Badge type="info" text="2" link="https://gojo.wtf" /> `gz`
+- [Miruro](https://www.miruro.tv/) <Badge type="info" text="Proxies" link="https://www.miruro.com" /> `gz`
 - [Shiroko](https://shiroko.co/en) `gz`
 - [Streamsora](https://streamsora.live/en) `gp`
 
