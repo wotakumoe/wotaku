@@ -15,6 +15,7 @@ outline: [1,2]
 
 - [Aniyomi](https://aniyomi.org/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" /><Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/aniyomiorg/aniyomi" />
   - [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) :glowing-star:
+- [Miru](https://miru.watch/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/ThaUnknown/miru/" /> <Badge type="info" text="Torrent" />
 - [Cloudstream](https://cloudstream.on.fleek.co/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/recloudstream/cloudstream" /><Badge type="info" icon="i-mdi-puzzle-outline" text="Plugins" link="https://discord.com/invite/wpX5Rfcx87" />
 - [Dantotsu](https://github.com/rebelonion/Dantotsu) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />
 - [AnimeTV](https://amarullz.com/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/amarullz/AnimeTV" />
@@ -26,7 +27,7 @@ outline: [1,2]
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one)
   - :material-symbols-subdirectory-arrow-right: [Stremio Tools](#anime-tools)
-- [Miru App](https://miru.js.org/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/miru-project/miru-app" />
+- [Miru Project](https://miru.js.org/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/miru-project/miru-app" />
 - [Animity](https://github.com/kl3jvi/animity)
 - [Kaizoyu!](https://kaizoyu.ovh) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/astarivi/Kaizoyu" /><Badge type="info" text="XDCC" />
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
@@ -106,7 +107,7 @@ outline: [1,2]
 - [9Animator](https://github.com/SuperMarcus/NineAnimator)
 - [Chouten beta](https://testflight.apple.com/join/Cg1rAPB8) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/GJGMJRPJ5j" />
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
-- [Miru](https://mirutv.app/)
+- [MiruTV](https://mirutv.app/)
 - [Soshiki](https://github.com/soshikimoe/soshiki-ios)
 
 ## Manga Readers
@@ -163,7 +164,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 - [Stremio](https://www.stremio.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
   - :material-symbols-subdirectory-arrow-right: [Stremio Tools](#anime-tools)
 - [Totoro](https://github.com/insomniachi/Totoro) :ic-baseline-window: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
-- [Miru App](https://miru.js.org/) :ic-baseline-window: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/miru-project/miru-app" /> <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
+- [Miru Project](https://miru.js.org/) :ic-baseline-window: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/miru-project/miru-app" /> <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
 - [Seanime](https://seanime.rahim.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Online" />
 - [ani-cli](https://github.com/pystardust/ani-cli) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Online" />
 - [Akuse](https://github.com/akuse-app/Akuse) :ic-baseline-window: <Badge type="info" text="Online" />

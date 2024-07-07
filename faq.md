@@ -102,13 +102,13 @@ Check out our [torrent glossary](/glossary/torrent), you should find all importa
 :::
 
 :::details Can I stream torrent files?
-You *can* stream torrent files (by downloading the files sequentially).
+You *can* stream torrent files.
 
 ### Android
-[Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) & [Himitsu](https://github.com/RepoDevil/Himitsu/) can stream torrents from various sources including Nyaa.si. For that, install the Torrentio extension. You can customize good amount of things in extension settings.
+[Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) & [Himitsu](https://github.com/RepoDevil/Himitsu/) can stream torrents from various sources including Nyaa.si. For that, install the Torrentio extension. You can customize good amount of things in extension settings. [Miru](https://miru.watch/) can also stream torrents however it's paid on Android/AndroidTV.
 
 ### PC
-There are a few listed in [**software page**](/software.md#anime-streaming-2). [Miru](https://miru.watch/) is the most feature-rich one. You can also [qBittorrent](https://www.qbittorrent.org/), [TorrServer](https://github.com/YouROK/TorrServer) & [WebTorrent](https://webtorrent.io/). You can read the info tab below the software list for How-to.
+There are a few listed in [**software page**](/software.md#anime-streaming-2). [Miru](https://miru.watch/) is the most feature-rich one. You can also [qBittorrent](https://www.qbittorrent.org/) with sequential download, [TorrServer](https://github.com/YouROK/TorrServer) & [WebTorrent](https://webtorrent.io/). You can read the info tab below the software list for How-to.
 
 :::
 
