@@ -47,6 +47,7 @@ In Japanese TV, the broadcast schedule is divided into four seasons: Spring (Mar
 |  Title Card  |  Also known as Title sequence. It is a part of the OP. [Example](https://youtu.be/QoGM9hCxr4k?t=19)  |
 |  Mixed OP  |  When the OP is overlaid with the plot of the anime.  |
 |  Eyecatch  | The animated sequence before the ad break or the end of the first part. It's generally a still frame. [Example](https://www.youtube.com/watch?v=9h4IQHBX63k)  |
+| Insert song | A song or musical piece that occurs within the body of the anime. [Example](https://www.youtube.com/watch?v=1_PWdjym25g) |
 |  ED |   The ending sequence of the anime.  |
 |  Mixed ED  |  Same as Mixed OP but for ED. [Chainsaw-man Ep 12](https://www.youtube.com/watch?v=2ikL1vGhMLw) & [Relife Ep 13](https://animethemes.moe/anime/relife/ED13-NCBD1080)  |
 |  Omake  |   An extra portion of the episode. Generally a filler. [Example](https://www.youtube.com/watch?v=Dtu_1bzSmL8)   |
@@ -106,3 +107,14 @@ These are [CRC32](https://en.wikipedia.org/wiki/Cyclic_redundancy_check) codes, 
 
 ### Video Format
 The container used for the video file, with the most widely used one today being **MKV**, for the ability to put multiple audio/subtitle tracks in one video file. The most popular one in the past was **MP4**, which focused on being compatible with a wide range of devices, but was only able to have burned-in hardsubs.
+
+
+## Subtitle types
+
+| Type                              | Description                                                                                                             |
+|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| Closed Captions (CC)              | Also known as soft subtitles; text overlays on a video that provide translated dialogue or just audio transcription in case they're following the dub; can be turned off if not needed. |
+| Open Captions (OC)                | Also known as burned-in/hard subtitles; non-interactive subtitles that have been permanently 'burned' into the video file itself and can't be turned off. |
+| SDH (Subtitles for the Deaf and Hard of Hearing) | A type of subtitle that includes not only dialogue but also annotations for sound effects and other audio information to aid viewers who are deaf or hard of hearing. |
+| Forced Subtitles                  | Subtitles that automatically appear when a portion of dialogue or text is in a different language from the main audio track; they are 'forced' on screen to provide necessary translation or context. |
+| Karaoke Subtitles                 | Karaoke subtitles highlight the lyrics in time with the Opening/Ending/Insert songs.                            |
