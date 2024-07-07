@@ -22,9 +22,9 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 
 == Art 
 
-- Ina plush art by [**CLERO**](https://twitter.com/CLERO_ART/status/1788894299007971680)
-- Embed art by [**夕城**](https://twitter.com/yukiyasa1/status/1770385782379020322)
-- Smol Ina's diary by [**underdatv**](https://twitter.com/underdatv/status/1790765775349072046)
+- Ina plush art by [**CLERO**](https://x.com/CLERO_ART/status/1788894299007971680)
+- Embed art by [**夕城**](https://x.com/yukiyasa1/status/1770385782379020322)
+- Smol Ina's diary by [**underdatv**](https://x.com/underdatv/status/1790765775349072046)
 - AO-chan by [**3ton**](https://www.pixiv.net/en/artworks/110412826)
 - Artoria Pendragon (Fate) by [**MinJaeCucheoo**](https://www.deviantart.com/minjaecucheoo/art/Transparent-PNG-Artoria-Pendragon-Fate-845014345)
 - Moiré vs Non-Moiré Pattern Comparison by [**konijnsate**](https://tips.clip-studio.com/en-us/articles/3489)

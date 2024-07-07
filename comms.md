@@ -52,7 +52,6 @@ A list of other otaku communities to check out based on your specific interests.
 - [KickAssAnime](https://discord.com/invite/qduzrvTG6p)
 - [Kirei](https://discord.com/invite/55y8apc)
 - [Knox](https://discord.com/invite/HcDZFB9Gub)
-- [Kuukiyomi](https://discord.gg/s82Vu589Ya)
 - [Laughing in Quarantine](https://discord.com/invite/x6AuGp7)
 - [LHTranslation](https://discord.com/invite/wxVRX4j)
 

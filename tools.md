@@ -68,6 +68,7 @@ outline: [1,2]
   - [Neo Store](https://github.com/NeoApplications/Neo-Store) :mdi-android:
   - [Droid-ify](https://github.com/Droid-ify/client) :mdi-android:
   - [Sideloadly](https://sideloadly.io/) :ic-baseline-apple:
+  - [SideStore](https://sidestore.io/) :ic-baseline-apple:
 - **Misc**
   - [APKUpdater](https://github.com/rumboalla/apkupdater) :mdi-android:
   - [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) :mdi-android:

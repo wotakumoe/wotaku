@@ -13,8 +13,7 @@ outline: [1,2]
 
 ## Anime Streaming
 
-- [Aniyomi](https://aniyomi.org/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" /><Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/aniyomiorg/aniyomi" />
-  - [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) :glowing-star:
+- [Aniyomi](https://aniyomi.org/) :glowing-star: <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" /><Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/aniyomiorg/aniyomi" />
 - [Miru](https://miru.watch/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/ThaUnknown/miru/" /> <Badge type="info" text="Torrent" />
 - [Cloudstream](https://cloudstream.on.fleek.co/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/recloudstream/cloudstream" /><Badge type="info" icon="i-mdi-puzzle-outline" text="Plugins" link="https://discord.com/invite/wpX5Rfcx87" />
 - [Dantotsu](https://github.com/rebelonion/Dantotsu) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />
@@ -44,7 +43,6 @@ outline: [1,2]
 - [Kotatsu](https://kotatsu.app/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/KotatsuApp/Kotatsu" />
 
 ::: details More
-- [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi)
 - [TachiyomiAZ](https://mihon.app/forks/TachiyomiAZ/) <Badge type="info" text="Dev build" link="https://crafty.moe/tachiyomiAZ.apk" /><Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/az4521/tachiyomiAZ" />
 - [Aniyomi](https://aniyomi.org/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/aniyomiorg/aniyomi" />
 - [Dantotsu](https://github.com/rebelonion/Dantotsu) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />
@@ -96,8 +94,10 @@ outline: [1,2]
 - [Anime Boxes](https://www.animebox.es/)
 
 ## Others
+- [AniVu](https://github.com/SkyD666/AniVu)
+- [Nekotatsu](https://github.com/PhantomShift/nekotatsu) <Badge type="info" text="Needs PC" />
 - [SauceNAO](https://github.com/LuK1337/SauceNAO)
-- [Tachisync](https://github.com/axiel7/Tachisync)
+- [Tachisync](https://github.com/axiel7/Tachisync) <Badge type="info" text="Needs PC" />
 
 ![](/banner/ios.png)
 
@@ -159,6 +159,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 - [Toru](https://github.com/sweetbbak/toru) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" />
 - [Mangayomi](https://github.com/kodjodevf/mangayomi) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
 - [Layendanimator](https://github.com/Layendan/Layendanimator) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Online" />
+- [AnimeTV](https://amarullz.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/amarullz/AnimeTV" /><Badge type="info" text="Online" />
 
 :::details More
 - [Stremio](https://www.stremio.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
@@ -342,7 +343,6 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
   - [nyaa](https://github.com/Beastwick18/nyaa) :ic-baseline-window::mingcute-linux-fill:
   - [Nyaa Downloader](https://github.com/marcpinet/nyaadownloader) :ic-baseline-window:
   - [Koneko](https://github.com/irevenko/koneko)
-- [Nekotatsu](https://github.com/PhantomShift/nekotatsu)
 
 ## Hosting
 - **Anime**

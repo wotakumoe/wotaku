@@ -171,6 +171,7 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 <br>
 
 #### Practice
+- [Kanken](https://www.kanken.or.jp/kanken/meyasucheck/)
 - [Kotu](https://kotu.io/) `Needs Account`
 - [Migaku Pitch Trainer](https://pitch-demo.migaku.io/) <Badge type="warning" text="Freemium" />
 - [SuperNative](https://supernative.tv/ja/)

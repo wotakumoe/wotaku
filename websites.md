@@ -38,8 +38,8 @@ outline: 1
 ### Multi Host
 - [AniPlay](https://aniplaynow.live/) <Badge type="info" text="2" link="https://makima.xyz/" /> `gz`
 - [Dantotsu](https://dantotsuweb.vercel.app/) `gz`
-- [Gojo](https://gojo.live/) `gz`
-- [Miruro](https://www.miruro.tv/) `gz`
+- [Gojo](https://gojo.live/) <Badge type="info" text="2" link="https://gojo.wtf" /> `gz`
+- [Miruro](https://www.miruro.tv/) <Badge type="info" text="Proxies" link="https://www.miruro.com" /> `gz`
 - [Shiroko](https://shiroko.co/en) `gz`
 - [Streamsora](https://streamsora.live/en) `gp`
 
@@ -154,13 +154,12 @@ outline: 1
 - [Batoto](https://battwo.com/v3x) <Badge type="tip" text="Proxies" link="https://rentry.co/batoto" /><Badge type="danger" text="18+" /><tooltip><ul><li>Has both scanlated and official releases</li><li>Has some exclusive uploads</li><li>Decent filtering options with site theme options</li><li>Indexing is poor</li></ul></tooltip>
 - [MangaFire](https://mangafire.to/home) <tooltip><ul><li>The UI is very clean with notification system</li><li>Uploads both chapter (multi-lang) & volume releases</li><li>Basic reader UI</li><li>Watermark on almost every manga chapters</li><li>Manga uploads are up to x1600</li></ul></tooltip>
 
-
 ::: details More
-
-- [Colored Manga](https://coloredmanga.net/)
-- [Cubari Proxy](https://proxy.cubari.moe/) <Badge type="danger" text="18+" />
 - [Manga Katana](https://mangakatana.com/)
 - [Mangapark](https://mangapark.net/)
+- [Hachi](https://hachi.moe/)
+- [Colored Manga](https://coloredmanga.net/)
+- [Cubari Proxy](https://proxy.cubari.moe/) <Badge type="danger" text="18+" />
 - [Mangahasu](https://mangahasu.se/)
 - [Mangahub](https://mangahub.io/)<Badge type="info" text="Needs account" /><Badge type="danger" text="18+" />
 - [Manga Buddy](https://mangabuddy.com/home) <Badge type="info" text="2" link="https://mangamirror.com/home-page" /> <Badge type="info" text="3" link="https://mangaforest.com/home" /><Badge type="danger" text="18+" />
@@ -372,6 +371,34 @@ outline: 1
 - [r/SuperSentai](https://old.reddit.com/r/SuperSentai/)
 - [r/Ultraman](https://old.reddit.com/r/Ultraman/)
 
+![](/banner/comics.png)
+# Comics
+
+## Online
+- [Comic Extra](https://comixextra.com/)
+- [GoComics](https://www.gocomics.com/)
+- [Old Comics World](https://oldcomicsworld.blogspot.com/)
+- [Read All Comics](https://readallcomics.com/) :glowing-star:
+- [Read Comic Online (.li)](https://readcomiconline.li/) :glowing-star:
+- [Read Comics Online (.ru)](https://readcomicsonline.ru/)
+- [View Comics](https://azcomix.net/)
+- [XOXO Comics](https://xoxocomic.com/) :glowing-star:
+
+## Direct Download
+- [Anna’s Archive](https://annas-archive.org/)
+- [Desuarchive](https://desuarchive.org/) <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
+- [Get Comics](https://getcomics.info/) :glowing-star:
+- [Comics All](https://comics-all.com/) <Badge type="tip" text="2" link="https://newcomic.info/" />
+- [Libgen](https://libgen.li/)
+
+## Others
+- **Tracker**
+  - [League of Comic Geeks](https://leagueofcomicgeeks.com/)
+  - [Comic Vine](https://comicvine.gamespot.com/)
+- **Info**
+  - [Comic Book Reading Orders](https://comicbookreadingorders.com/)
+  - [Comic Book Herald](https://www.comicbookherald.com/)
+  - [CMRO](https://cmro.travis-starnes.com/)
 
 
 ![](/banner/pt.png)

@@ -42,8 +42,7 @@ customDescription: Discover websites, software, and essentials for anime, manga,
 - [Mihon](https://github.com/mihonapp/mihon) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />
   - [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) :glowing-star:
   - [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY)
-- [Aniyomi](https://github.com/aniyomiorg/aniyomi) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />
-  - [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) :glowing-star:
+- [Aniyomi](https://github.com/aniyomiorg/aniyomi) :glowing-star: <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />
 - [Quicknovel](https://github.com/LagradOst/QuickNovel)
 
 

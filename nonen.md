@@ -454,6 +454,7 @@ If you have recommendations for good sites in your native language or want to re
 - [HentaiLib](https://hentailib.me/) <Badge type="danger" text="18+" />
 
 ### Android
+- [ShiraBox](https://shirabox.org/)
 - [AnilabX](https://github.com/CrazyXacker/anilabx) <Badge type="warning" text="Freemium" />
 
 ### PC

@@ -100,7 +100,7 @@ outline: 1
 - [Bookmeter](https://bookmeter.com/) :flag-japan:
 - [Bunko Light Novel Ranking](http://bunkoranoberanking.blog.fc2.com/)
 - [Erzat](https://erzat.blog/)
-- [Josu Ke](https://twitter.com/Josu_ke) :mdi-twitter:
+- [Josu Ke](https://x.com/Josu_ke) :mdi-twitter:
 - [Mangacodex](https://www.mangacodex.com/) :glowing-star:
 - [MANGA Plus Top 40](https://manga.tumeo.space/)
 - [:ic-outline-discord: Manga Groups Portal](https://discord.gg/9KGMzP2)
@@ -114,6 +114,7 @@ outline: 1
 - [Mynewworm](https://myneworm.katsurin.com/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/Butterstroke/Myneworm" />
 - [Otaku Calendar](https://otakucalendar.com/Release/?filterCategory=2)
 - [r/LightNovels upcoming releases](https://old.reddit.com/r/LightNovels/wiki/upcomingreleases/)
+- [Von's Manga Calendar](https://v0n.notion.site/Manga-297a9ad3a4904173b3a4ce319f9b2879)
 - [Yatta-Tachi](https://yattatachi.com/tag/releases)
 - :material-symbols-subdirectory-arrow-right: [Manga release portals](#manga-ln-2)
 
@@ -148,7 +149,7 @@ outline: 1
 - [Pixiv Viewer](https://pixiv.pics/)
 - [Pixiv Yearbook](https://pixiv.navirank.com/) :glowing-star:
 - [Tumblr](https://www.tumblr.com/)
-- [Twitter](https://twitter.com/home) :glowing-star:
+- [Twitter](https://x.com/home) :glowing-star:
 - [Twoucan](https://twoucan.com/)
 
 :::details Support Platforms
@@ -173,12 +174,13 @@ outline: 1
 ## Sakuga
 - [Sakuga Booru](https://www.sakugabooru.com/) :glowing-star:  <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/khmnmdaghmhkcbooicndamlhkcmpklmc" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/sakuga-extended/" /><Badge type="green" text="SFW" />
 - [Sakuga.video](https://sakuga.video/)
-- [ArtSakuga](https://twitter.com/artsakuga) :mdi-twitter:
-- [D.K.](https://twitter.com/DanKantori) :glowing-star: :mdi-twitter:
-- [Extra Sakuga](https://twitter.com/EffectsSakuga) :mdi-twitter:
-- [Mack Bay](https://twitter.com/SaberzzSeiba) :mdi-twitter:
-- [randomsakuga](https://twitter.com/randomsakuga) :mdi-twitter:
-- [Sakuga Clips](https://twitter.com/sakugaclips) :mdi-twitter:
+- [ArtSakuga](https://x.com/artsakuga) :mdi-twitter:
+- [D.K.](https://x.com/DanKantori) :glowing-star: :mdi-twitter:
+- [Extra Sakuga](https://x.com/EffectsSakuga) :mdi-twitter:
+- [Mack Bay](https://x.com/SaberzzSeiba) :mdi-twitter:
+- [randomsakuga](https://x.com/randomsakuga) :mdi-twitter:
+- [Sakuga Clips](https://x.com/sakugaclips) :mdi-twitter:
+- [SakugaDEYO](https://x.com/SakugaDEYO) :mdi-twitter:
 
 ## Others
 
@@ -206,11 +208,11 @@ outline: 1
 ## General
 
 - **Info / News**
-  - [Anime News Network](https://www.animenewsnetwork.com/) :glowing-star: <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/anime" />
+  - [Anime News Network](https://www.animenewsnetwork.com/) :glowing-star: <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/anime" />
   - [Crunchyroll News](https://www.crunchyroll.com/news)
   - [GUNDAM.INFO](https://en.gundam.info/)
   - [Japan Anime News](https://us.oricon-group.com/) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/JapanAnimeNews_" />
-  - [MAL News](https://myanimelist.net/news) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/myanimelist" />
+  - [MAL News](https://myanimelist.net/news) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/myanimelist" />
   - [ORICON NEWS](https://www.oricon.co.jp/) :flag-japan:
   - [Otaku News](https://www.otakunews.com/)
 - **Blog / Interview**
@@ -221,29 +223,29 @@ outline: 1
 ## Anime
 
 - **Info / News**
-  - [Anime Corner](https://animecorner.me/) :glowing-star: <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/animecorner_ac" />
-  - [Anitrendz](https://anitrendz.net/news/) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/anitrendz" />
-  - [AnimeTV](https://animetv-jp.net/) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/animetv_jp" />
+  - [Anime Corner](https://animecorner.me/) :glowing-star: <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/animecorner_ac" />
+  - [Anitrendz](https://anitrendz.net/news/) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/anitrendz" />
+  - [AnimeTV](https://animetv-jp.net/) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/animetv_jp" />
 - **Blog / Interview**
   - [Animétudes](https://animetudes.com/) :glowing-star:
   - [artist_unknown](https://artistunknown.info/)
   - [Full Frontal](https://fullfrontal.moe/) :glowing-star:
   - [Furaba Anime search](https://furaba-animeseichi.blog.jp/)
   - [Let's Anime](https://letsanime.blogspot.com/)
-  - [Sakuga Blog](https://blog.sakugabooru.com/) :glowing-star: <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/SakugaBlog" />
+  - [Sakuga Blog](https://blog.sakugabooru.com/) :glowing-star: <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/SakugaBlog" />
 
 
 ## Manga & LN
 
 - **Info / News**
-  - [Erzat](https://twitter.com/Erzat110) :mdi-twitter:
-  - [Manga Alerts](https://twitter.com/MangaAlerts) :mdi-twitter:
+  - [Erzat](https://x.com/Erzat110) :mdi-twitter:
+  - [Manga Alerts](https://x.com/MangaAlerts) :mdi-twitter:
   - [Manga Bookshelf](https://mangabookshelf.com/) :mdi-twitter:
-  - [Manga Reporter](https://twitter.com/MangaReporter) <Badge type="tip" text="Old" link="https://twitter.com/MangaMoguraRE" /> :glowing-star: :mdi-twitter: <Badge icon="i-mdi-twitter" text="Ecchi" link="https://twitter.com/EcchiMogura" />
+  - [Manga Reporter](https://x.com/MangaReporter) <Badge type="tip" text="Old" link="https://x.com/MangaMoguraRE" /> :glowing-star: :mdi-twitter: <Badge icon="i-mdi-twitter" text="Ecchi" link="https://x.com/EcchiMogura" />
   - [Randomanga](https://randomanga.wordpress.com/)
-  - [Shonen Jump News](https://twitter.com/WSJ_manga) :glowing-star: :mdi-twitter:
-  - [TheOASG](https://twitter.com/TheOASG) :glowing-star: :mdi-twitter:
-  - [Deb Aoki](https://twitter.com/debaoki) :mdi-twitter:
+  - [Shonen Jump News](https://x.com/WSJ_manga) :glowing-star: :mdi-twitter:
+  - [TheOASG](https://x.com/TheOASG) :glowing-star: :mdi-twitter:
+  - [Deb Aoki](https://x.com/debaoki) :mdi-twitter:
 - **Blog / Interview**
   - [Manga Splaining](https://www.mangasplaining.com/)
 
@@ -417,12 +419,12 @@ outline: 1
 
 ## Socials
 
-- Hololive <Badge type="tip" icon="i-mdi-twitter" text="JP" link="https://twitter.com/hololivetv" /><Badge type="tip" icon="i-mdi-twitter" text="EN" link="https://twitter.com/hololive_En" /><Badge type="tip" icon="i-ic-outline-discord" text="Fan Discord" link="https://discord.gg/holofans" /><Badge type="tip" icon="i-mdi-reddit" text="Reddit" link="https://old.reddit.com/r/Hololive/" />
-- VShojo <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/VShojo" /><Badge type="tip" icon="i-ic-outline-discord" text="Fan Discord" link="https://discord.com/invite/vshojo-fan-server-598886416545611790" /><Badge type="tip" icon="i-mdi-reddit" text="Reddit" link="https://old.reddit.com/r/VShojo/" />
-- PhaseConnect <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/PhaseConnect" /><Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/phaseconnect" />
-- idol <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/idol_corp" /><Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/idolcorp" />
-- PRISM <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/PRISMproj" /><Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/prismworld" />
-- EIEN Project <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://twitter.com/EIENproj" /><Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/eienproject" />
+- Hololive <Badge type="tip" icon="i-mdi-twitter" text="JP" link="https://x.com/hololivetv" /><Badge type="tip" icon="i-mdi-twitter" text="EN" link="https://x.com/hololive_En" /><Badge type="tip" icon="i-ic-outline-discord" text="Fan Discord" link="https://discord.gg/holofans" /><Badge type="tip" icon="i-mdi-reddit" text="Reddit" link="https://old.reddit.com/r/Hololive/" />
+- VShojo <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/VShojo" /><Badge type="tip" icon="i-ic-outline-discord" text="Fan Discord" link="https://discord.com/invite/vshojo-fan-server-598886416545611790" /><Badge type="tip" icon="i-mdi-reddit" text="Reddit" link="https://old.reddit.com/r/VShojo/" />
+- PhaseConnect <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/PhaseConnect" /><Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/phaseconnect" />
+- idol <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/idol_corp" /><Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/idolcorp" />
+- PRISM <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/PRISMproj" /><Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/prismworld" />
+- EIEN Project <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/EIENproj" /><Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/eienproject" />
 
 ## Games
 
@@ -473,42 +475,18 @@ outline: 1
 ## Others
 
 - **Twitter**
-  - [Holoデータ分析](https://twitter.com/Holo_Data)
-  - [HoloENFans](https://twitter.com/HEFSdiscord)
-  - [Kris the Holoprosimp](https://twitter.com/KHolosimp)
-  - [Tentacult Temple](https://twitter.com/Takodachis)
-  - [VTubers Out Of Context](https://twitter.com/ENVTubersOOC)
-  - [Screenshots from /vt/](https://twitter.com/VT_Screens)
-  - [Chroneco](https://twitter.com/chrone_co)
-  - [JQHN](https://twitter.com/JQHNHARQLD)
+  - [Holoデータ分析](https://x.com/Holo_Data)
+  - [HoloENFans](https://x.com/HEFSdiscord)
+  - [Kris the Holoprosimp](https://x.com/KHolosimp)
+  - [Tentacult Temple](https://x.com/Takodachis)
+  - [VTubers Out Of Context](https://x.com/ENVTubersOOC)
+  - [Screenshots from /vt/](https://x.com/VT_Screens)
+  - [Chroneco](https://x.com/chrone_co)
+  - [JQHN](https://x.com/JQHNHARQLD)
 
 
 ![](/banner/others.png)
 # Others
-
-## Comics
-
-- **Online**
-  - [Comic Extra](https://ww1.comicextra.com/)
-  - [Read All Comics](https://readallcomics.com/) :glowing-star:
-  - [Read Comics Free](https://readcomicsfree.com/)
-  - [Read Comic Online](https://readcomiconline.li/) :glowing-star:
-  - [Read Comics Online](https://readcomicsonline.ru/)
-  - [View Comics](https://viewcomics.me/)
-  - [XOXO Comics](https://xoxocomics.com/) :glowing-star:
-- **Direct Download**
-  - [Anna’s Archive](https://annas-archive.org/)
-  - [Desuarchive](https://desuarchive.org/) <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
-  - [Get Comics](https://getcomics.info/) :glowing-star:
-  - [Comics All](https://comics-all.com/) <Badge type="tip" text="2" link="https://newcomic.info/" />
-  - [Libgen](https://libgen.li/)
-- **Tracker**
-  - [League of Comic Geeks](https://leagueofcomicgeeks.com/)
-  - [Comic Vine](https://comicvine.gamespot.com/)
-- **Info**
-  - [Comic Book Reading Orders](https://comicbookreadingorders.com/)
-  - [Comic Book Herald](https://www.comicbookherald.com/)
-  - [CMRO](https://cmro.travis-starnes.com/)
 
 ## Fansubbing
 
@@ -520,7 +498,18 @@ outline: 1
 - [Zeriyu's Fansub Guide](https://github.com/zeriyu/fansub-guide)
 - :material-symbols-subdirectory-arrow-right: [Fansubbing tools](/software.md#fansubbing-sub-tools)
 
+## Fun sites
 
+- [AIDN](https://aidn.jp/contents/)
+- [Anianimals](https://www.anianimals.moe/)
+- [Anime Girls Holding Programming Books](https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/)
+- [Endless Eight](https://endless8.moe/)
+- [HUNTER×HUNTER Hiatus Chart](https://hiatus-hiatus.github.io/)
+- [Satania](https://satania.moe/)
+- [Smug](https://smug.moe/)
+- [VAGABOND HIATUS CHART](https://vagabond-hiatus-chart.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/falsepopsky/vagabond-hiatus-chart" />
+- [Wanwan](https://wanwan.moe/)
+- [Wired Sound For Wired People](https://fauux.neocities.org/)
 
 ## Recommendations
 
@@ -540,19 +529,3 @@ outline: 1
 - [r/Visualnovels](https://sites.google.com/view/rvisualnovels-recs/home)
 - [r/VN's 2018](https://vnrecs.github.io/)
 - [What are you reading?](https://some-guy.org/vnswayrarchive/recommendations)
-
-
-## Random
-- [Absolute Territory](https://absoluteterritory.moe/)
-- [AIDN](https://aidn.jp/contents/)
-- [Anianimals](https://www.anianimals.moe/)
-- [Anime Girls Holding Programming Books](https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/)
-- [Endless Eight](https://endless8.moe/)
-- [HUNTER×HUNTER Hiatus Chart](https://hiatus-hiatus.github.io/)
-- [MakeGirlsMoe](https://make.girls.moe/)
-- [Neko Network](https://live.neko-network.net/)
-- [Satania](https://satania.moe/)
-- [Smug](https://smug.moe/)
-- [VAGABOND HIATUS CHART](https://vagabond-hiatus-chart.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/falsepopsky/vagabond-hiatus-chart" />
-- [Wanwan](https://wanwan.moe/)
-- [Wired Sound For Wired People](https://fauux.neocities.org/)
