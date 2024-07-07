@@ -522,7 +522,18 @@ outline: 1
 - [Zeriyu's Fansub Guide](https://github.com/zeriyu/fansub-guide)
 - :material-symbols-subdirectory-arrow-right: [Fansubbing tools](/software.md#fansubbing-sub-tools)
 
+## Fun sites
 
+- [AIDN](https://aidn.jp/contents/)
+- [Anianimals](https://www.anianimals.moe/)
+- [Anime Girls Holding Programming Books](https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/)
+- [Endless Eight](https://endless8.moe/)
+- [HUNTER×HUNTER Hiatus Chart](https://hiatus-hiatus.github.io/)
+- [Satania](https://satania.moe/)
+- [Smug](https://smug.moe/)
+- [VAGABOND HIATUS CHART](https://vagabond-hiatus-chart.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/falsepopsky/vagabond-hiatus-chart" />
+- [Wanwan](https://wanwan.moe/)
+- [Wired Sound For Wired People](https://fauux.neocities.org/)
 
 ## Recommendations
 
@@ -542,19 +553,3 @@ outline: 1
 - [r/Visualnovels](https://sites.google.com/view/rvisualnovels-recs/home)
 - [r/VN's 2018](https://vnrecs.github.io/)
 - [What are you reading?](https://some-guy.org/vnswayrarchive/recommendations)
-
-
-## Random
-- [Absolute Territory](https://absoluteterritory.moe/)
-- [AIDN](https://aidn.jp/contents/)
-- [Anianimals](https://www.anianimals.moe/)
-- [Anime Girls Holding Programming Books](https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/)
-- [Endless Eight](https://endless8.moe/)
-- [HUNTER×HUNTER Hiatus Chart](https://hiatus-hiatus.github.io/)
-- [MakeGirlsMoe](https://make.girls.moe/)
-- [Neko Network](https://live.neko-network.net/)
-- [Satania](https://satania.moe/)
-- [Smug](https://smug.moe/)
-- [VAGABOND HIATUS CHART](https://vagabond-hiatus-chart.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/falsepopsky/vagabond-hiatus-chart" />
-- [Wanwan](https://wanwan.moe/)
-- [Wired Sound For Wired People](https://fauux.neocities.org/)
