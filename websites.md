@@ -329,6 +329,7 @@ outline: 1
 - [Dramacool](https://dramacool.pa/)
 - [KissAsian](https://kissasian.mx/)
 - [Power Rangers Official](https://www.youtube.com/@PowerRangersOfficial/)
+- [ULTRAMAN Official](https://www.youtube.com/@ULTRAMAN_OFFICIAL/) <Badge type="tip" text="New" link="https://www.youtube.com/@ultraman_english_official/" />
 - [Legal Tokusatsu Streaming List](https://otakulogy.github.io/tokusatsu-streaming/)
 
 ### Download
