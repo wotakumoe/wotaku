@@ -98,7 +98,7 @@ outline: [1,2]
 - [F95Zone](https://f95zone.to/) <Badge type="info" text="Needs account" />
 - [Kimochi](https://kimochi.info)
 - [Ryuu games](https://www.ryuugames.com/)
-
+- [VNPocket](https://vnpocket.com/)
 
 ::: info Try searching with Japanese titles or DLSite product ID on Sukebei.
 :::
