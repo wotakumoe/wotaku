@@ -120,7 +120,8 @@ outline: [1,2]
 - [Hanami](https://github.com/oolxg/Hanami)
 
 ### Local
-- [YACReader](https://apps.apple.com/app/id635717885) :glowing-star: <Badge type="tip" text="TestFlight" icon="i-ic-twotone-money-off" link="https://testflight.apple.com/join/5zhB7sRP" />
+- [YACReader](https://apps.apple.com/app/id635717885) :glowing-star: <Badge type="warning" text="Paid" /> <Badge type="tip" text="TestFlight" icon="i-ic-twotone-money-off" link="https://testflight.apple.com/join/5zhB7sRP" />
+- [iComics](https://apps.apple.com/us/app/icomics/id493845493) <Badge type="warning" text="Paid" />
 - [SideBooks](https://apps.apple.com/us/app/sidebooks/id409777225)
 - [Panels](https://apps.apple.com/us/app/panels-comic-reader/id1236567663)
 - [Manga Viewer](https://apps.apple.com/us/app/manga-viewer-cbz-cbr-reader/id1309007086)
