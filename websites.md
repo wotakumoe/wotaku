@@ -7,7 +7,7 @@ outline: 1
 
 <GradientCard title="ウェブサイト" tag="Websites" description="Online resources for anime, manga, novels and more." theme="turquoise"/>
 
-![](/banner/anime.png)
+![](/banner/wanime.png)
 
 # Anime
 
@@ -142,7 +142,7 @@ outline: 1
 :::
 
 
-![](/banner/manga.png)
+![](/banner/wmanga.png)
 
 # Manga
 
@@ -264,7 +264,7 @@ outline: 1
 :::
 
 
-![](/banner/novels.png)
+![](/banner/wnovel.png)
 
 # Novels
 
@@ -401,7 +401,7 @@ outline: 1
   - [CMRO](https://cmro.travis-starnes.com/)
 
 
-![](/banner/pt.png)
+![](/banner/wpt.png)
 # Private Trackers
 
 
@@ -441,7 +441,7 @@ outline: 1
 :::
 
 
-![](/banner/legal.png)
+![](/banner/wlegal.png)
 
 # Legal
 
