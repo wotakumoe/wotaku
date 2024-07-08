@@ -476,12 +476,6 @@ outline: 1
   - [Tapas](https://tapas.io/)
   - [Tappytoon](https://www.tappytoon.com/en/comics/home)
   - [Webtoons](https://www.webtoons.com/en/)
-- **Comics**
-  - [Comics Kingdom](https://comicskingdom.com/)
-  - [Cyanide & Happiness](https://explosm.net/)
-  - [GoComics](https://www.gocomics.com/)
-  - [Marvel Unlimited](https://www.marvel.com/unlimited)
-
 
 ::: info More sites
 You can go through [**digital manga info**](/guides/manga/digim) to get more sites including sites for volume releases.
@@ -497,4 +491,11 @@ You can go through [**digital manga info**](/guides/manga/digim) to get more sit
 - [Tentai Books](https://tentaibooks.com/en/)
 - [VIZ](https://www.viz.com/)
 - [Yen Press](https://yenpress.com/)
+
+## Comics
+- [Comics Kingdom](https://comicskingdom.com/)
+- [Cyanide & Happiness](https://explosm.net/)
+- [DC Universe Infinite](https://www.dcuniverseinfinite.com/)
+- [GoComics](https://www.gocomics.com/)
+- [Marvel Unlimited](https://www.marvel.com/unlimited)
 
