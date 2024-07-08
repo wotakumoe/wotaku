@@ -157,7 +157,7 @@ outline: 1
 ::: details More
 - [Manga Katana](https://mangakatana.com/)
 - [Mangapark](https://mangapark.net/)
-- [Hachi](https://hachi.moe/)
+- [Hachi](https://hachi.moe/) <Badge type="danger" text="18+" /> 
 - [Colored Manga](https://coloredmanga.net/)
 - [Cubari Proxy](https://proxy.cubari.moe/) <Badge type="danger" text="18+" />
 - [Mangahasu](https://mangahasu.se/)
