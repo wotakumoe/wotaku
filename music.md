@@ -85,7 +85,7 @@ outline: 1
 
 - **FLAC**
   - [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.mom/" />:mdi-magnet:
-  - [Sitting on Clouds](https://www.sittingonclouds.net/) :glowing-star: <Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" />:simple-icons-mega::simple-icons-mediafire:
+  - [Sitting on Clouds](https://www.sittingonclouds.net/) :glowing-star: <Badge type="info" text="2" link="https://www.sittingonclouds.com/" /><Badge type="info" text="3" link="https://www.sittingonclouds.org/" /><Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" />:simple-icons-mega::simple-icons-mediafire:
   - [SquidBoard](https://www.squid-board.org/) <Badge type="tip" text="Alt" link="https://sqb.moe/" /><Badge type="tip" text="Status" link="https://status.lyratris.com/" />:mdi-account::simple-icons-mega::simple-icons-mediafire::mdi-google-drive:
   - [OKAMIMI OST](https://okamimiost.com/) :ic-round-cloud-download: <Badge type="tip" text="Direct Link" link="https://indexsubtitle.cc/terabox-direct-link-generator" />
   - [Sukidesu OST](https://sukidesuost.info/) :simple-icons-mega::mdi-magnet:
@@ -114,7 +114,7 @@ outline: 1
 
 ## Games
 
-- [Sitting on Clouds](https://www.sittingonclouds.net/) <Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" />:simple-icons-mega::simple-icons-mediafire:
+- [Sitting on Clouds](https://www.sittingonclouds.net/) <Badge type="info" text="2" link="https://www.sittingonclouds.com/" /><Badge type="info" text="3" link="https://www.sittingonclouds.org/" /><Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" />:simple-icons-mega::simple-icons-mediafire:
 - [SquidBoard](https://www.squid-board.org/) <Badge type="tip" text="Alt" link="https://sqb.moe/" /><Badge type="tip" text="Status" link="https://status.lyratris.com/" />:mdi-account::simple-icons-mega::simple-icons-mediafire::mdi-google-drive:
 - [HCS VGM Archive](https://vgm.hcs64.com/) :mdi-download:
 - [VGM Preservation Foundation](https://www.vgmpf.com/Wiki/index.php) :mdi-download:
