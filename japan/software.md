@@ -199,6 +199,7 @@ outline: [2,3]
 
 #### Audio tools
 - [Automatic Condensed Audio Dialogue Script](https://anacreondjt.gitlab.io/docs/condensed_audio/)
+- [Koemoe](https://condense.moe/)
 - [Tenacity](https://tenacityaudio.org/) :ic-baseline-window::mingcute-linux-fill: `Audio Editor`
 - [Immersion pod](https://github.com/Ajatt-Tools/impd) `Condensed audio tools through mpd`
 
