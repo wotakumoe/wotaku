@@ -316,6 +316,8 @@ outline: 1
   - [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) :ic-baseline-apple:
   - [Spotify++](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9hcHBkYi50by9hcHAvY3lkaWEvMTkwMDAwMDU0MA) :ic-baseline-apple:
 - [Apple Music](https://apps.apple.com/us/app/apple-music/id1108187390) :ic-baseline-apple:
+- [Echo](https://github.com/brahmkshatriya/echo) :mdi-android: `General`
+- [Soundbound](https://soundbound.app/) :mdi-android: `General`
 
 ### Audiobook
 - [Voice](https://github.com/PaulWoitaschek/Voice) :mdi-android:
