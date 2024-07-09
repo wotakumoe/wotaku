@@ -99,6 +99,7 @@ outline: 1
   - :material-symbols-subdirectory-arrow-right: Adobe Alternatives
     - [KennyNL](https://github.com/KenneyNL/Adobe-Alternatives)
     - [XdanielArt](https://rentry.org/adobealt)
+- [Affinity](https://affinity.serif.com/en-gb/)
 - [Clip Studio Paint EX](https://www.clipstudio.net/en/function_ex/)
 - [MediBang Paint](https://medibangpaint.com/en/)
 - [Krita](https://krita.org/en/)
