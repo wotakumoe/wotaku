@@ -41,7 +41,6 @@ outline: 1
 - [Gojo](https://gojo.live/) <Badge type="info" text="2" link="https://gojo.wtf" /> `gz`
 - [Miruro](https://www.miruro.tv/) <Badge type="info" text="Proxies" link="https://www.miruro.com" /> `gz`
 - [Shiroko](https://shiroko.co/en) `gz`
-- [Streamsora](https://streamsora.live/en) `gp`
 
 ### Single Host
 - [Kaido](https://kaido.to/) `z`
