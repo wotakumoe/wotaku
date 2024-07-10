@@ -18,6 +18,8 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 # Resource Credits
 :::
 
+<br>
+
 :::tabs
 
 == Art 
@@ -31,12 +33,25 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 
 == Glossary
 
+#### General
 - [Japanese with Anime](https://www.japanesewithanime.com/)
 - [Horimiya Vol. 15 by Yen Press](https://yenpress.com/titles/9781975324735-horimiya-vol-15)
 - [The Dere Types Wiki](https://the-dere-types.fandom.com/wiki/The_Dere_Types_Wiki)
+
+#### Manga
 - [A Practical Guide to Translating Japanese Manga Sound Effects](https://nomansguy.wordpress.com/2023/02/04/translating-manga-sfx-guide-part-1/)
 - [Bentoki from Helvetica Scans](https://discord.com/users/91862190709014528)
 - [u/rui_is_dead from Atelier du Noir](https://old.reddit.com/r/manga/comments/tc90d8/guys_can_you_explain_the_process_of/)
+
+#### Audio
+
+- [A Digital Media Primer For Geeks (Monty Montgomery @ xiph.org)](https://youtu.be/FG9jemV1T7I)
+- [Digital Show and Tell (Monty Montgomery @ xiph.org)](https://youtu.be/cIQ9IXSUzuM)
+- [24/192 Music Downloads... and why they make no sense](https://people.xiph.org/~xiphmont/demo/neil-young.html)
+- [Dynamic range](https://en.wikipedia.org/wiki/Dynamic_range#:~:text=The%2016-bit%20compact%20disc,response%20of%20the%20human%20ear)
+- [Transparency (data compression)](https://en.wikipedia.org/wiki/Transparency_(data_compression))
+- [Digital Audio Fundamentals](https://www.youtube.com/playlist?list=PLbqhA-NKGP6B6V_AiS-jbvSzdd7nbwwCw)
+- [DSD: The Good, The Bad & The Test](https://youtu.be/eu5I-z7f6is)
 
 == Guide
 
