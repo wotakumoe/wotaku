@@ -71,6 +71,7 @@ outline: 1
 - [Notify.moe](https://notify.moe/calendar) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/animenotifier/notify.moe" />
 - [Senpai.moe](https://www.senpai.moe/)
 - [Syoboi Calendar](https://cal.syoboi.jp/) :flag-japan:
+- [Moon Phase](https://m-p.sakura.ne.jp/) :flag-japan:
 - [Yatta-Tachi](https://yattatachi.com/)
 
 ### Stats & Watch guide
