@@ -74,6 +74,12 @@ outline: [2,3]
 - [Ghibli Museum](https://www.ghibli-museum.jp/en/)
 - [Let's learn about Japanese events!](https://www.kyosei-tairyu.jp/)
   
+### Anime Sights
+- [Anime Tourism](https://anime-tourism.jp/) :glowing-star:
+- [anitabi](https://anitabi.cn/) :glowing-star:
+- [Odakyu Railway Anime Map](https://www.odakyu.jp/sc/anime/)
+- [Anime Tourism Association](https://x.com/animetourism88)
+
 ### City Specific
 - [Tokyojin](https://tokyojin.info/)
 - [Souda Kyoto](https://souda-kyoto.jp/index.html)
