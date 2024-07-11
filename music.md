@@ -331,7 +331,9 @@ outline: 1
 - [Audire](https://github.com/alexmercerind/audire) :simple-icons-shazam::mdi-android:
 - [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) :mdi-lastfm::mdi-android:
 - [Seeker](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1) :mdi-android:<Badge type="info" text="Soulseek" />
+- [SongSync](https://github.com/Lambada10/SongSync)
 - [Stats.fm](https://stats.fm/) :mdi-spotify::mdi-android::ic-baseline-apple:
+- [Rush](https://github.com/shub39/Rush)
 - [Marvis Pro](https://apps.apple.com/au/app/marvis-pro/id1447768809) :mdi-lastfm::ic-baseline-apple:
 
 
