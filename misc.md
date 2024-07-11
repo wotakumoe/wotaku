@@ -18,6 +18,7 @@ outline: 1
 - [Anime Planet](https://www.anime-planet.com/)
 - [AniSearch](https://www.anisearch.com/)
 - [Kitsu](https://kitsu.io/)
+- [Sakuhin Database](https://sakuhindb.com/) :flag-japan:
 - [Kurozora](https://kurozora.app/)
 
 ### Anime
@@ -26,6 +27,7 @@ outline: 1
 - [Annict](https://annict.com/)
 - [Aniplaylist](https://aniplaylist.com/)
 - [SIMKL](https://simkl.com/)
+- [Anikore](https://www.anikore.jp/) :flag-japan:
 
 ### Manga & LN
 - [Mangaupdates](https://www.mangaupdates.com/) :glowing-star:
