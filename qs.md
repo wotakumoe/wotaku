@@ -27,6 +27,7 @@ customDescription: Discover websites, software, and essentials for anime, manga,
 - [Nyaa](https://nyaa.si/) <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.mom/" /><Badge type="info" text="Torrent" />
 - [Sitting on Clouds](https://www.sittingonclouds.net/) <Badge type="info" text="2" link="https://www.sittingonclouds.com/" /><Badge type="info" text="3" link="https://www.sittingonclouds.org/" /> <Badge text="DDL" />
 - [OKAMIMI OST](https://okamimiost.com/) <Badge text="DDL" />
+- [Lucida](https://lucida.to/)
 - [Squid.wtf](https://squid.wtf/) <Badge text="DDL" />
 - [Anithemes.moe](https://animethemes.moe/) <Badge text="stream" />
 

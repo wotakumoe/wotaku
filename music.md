@@ -97,6 +97,7 @@ outline: 1
 
 ## Downloader
 - [YAMS](https://yams.tf/)
+- [Lucida](https://lucida.to/)
 - [Squid.wtf](https://squid.wtf/)
 - [DoubleDouble](https://doubledouble.top/)
 - [MP3Daddy](https://mp3-daddy.com/) <tooltip>Don't download WAV and AIFF versions. It's pointless bloat. Use Squid.wtf or YAMS deezer. Better service.</tooltip>
