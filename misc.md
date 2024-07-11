@@ -503,6 +503,7 @@ outline: 1
 
 - [AIDN](https://aidn.jp/contents/)
 - [Anianimals](https://www.anianimals.moe/)
+- [Anime Bath Scene Wiki](https://animebathscenewiki.com/index.php?title=Main_Page)
 - [Anime Girls Holding Programming Books](https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/)
 - [Endless Eight](https://endless8.moe/)
 - [HUNTER×HUNTER Hiatus Chart](https://hiatus-hiatus.github.io/)
