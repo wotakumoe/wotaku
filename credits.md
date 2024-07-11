@@ -30,6 +30,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 - AO-chan by [**3ton**](https://www.pixiv.net/en/artworks/110412826)
 - Artoria Pendragon (Fate) by [**MinJaeCucheoo**](https://www.deviantart.com/minjaecucheoo/art/Transparent-PNG-Artoria-Pendragon-Fate-845014345)
 - Moiré vs Non-Moiré Pattern Comparison by [**konijnsate**](https://tips.clip-studio.com/en-us/articles/3489)
+- NSFW banner art taken from [**Mogudan Illust Works**](https://www.fakku.net/hentai/mogudan-illust-works-english)
 
 == Glossary
 

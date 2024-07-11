@@ -7,7 +7,7 @@ outline: [1,2]
 
 <GradientCard title="エロ" tag="NSFW" description="Everyone has to let off some steam once in a while, we don't judge." theme="turquoise"/>
 
-![](/banner/sites.png)
+![](/banner/hweb.png)
 # Websites
 
 <br>
@@ -109,7 +109,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 :::
 
 
-![](/banner/software.png)
+![](/banner/hsoft.png)
 # Software
 
 ## Android
@@ -156,7 +156,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [NSFW Box](https://github.com/Kisspeace/NsfwBox)<Badge type="info" text="Multi" />
 
 
-![](/banner/others.png)
+![](/banner/hoth.png)
 # Others
 
 ## Websites
