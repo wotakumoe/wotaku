@@ -184,6 +184,7 @@ outline: 1
 - [randomsakuga](https://x.com/randomsakuga) :mdi-twitter:
 - [Sakuga Clips](https://x.com/sakugaclips) :mdi-twitter:
 - [SakugaDEYO](https://x.com/SakugaDEYO) :mdi-twitter:
+- [Sakuga 作画](https://x.com/sakugacontent) :mdi-twitter:
 
 ## Others
 
