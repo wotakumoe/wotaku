@@ -512,6 +512,7 @@ outline: 1
 - [HUNTER×HUNTER Hiatus Chart](https://hiatus-hiatus.github.io/)
 - [Satania](https://satania.moe/)
 - [Smug](https://smug.moe/)
+- [TV Tropes](https://tvtropes.org/)
 - [VAGABOND HIATUS CHART](https://vagabond-hiatus-chart.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/falsepopsky/vagabond-hiatus-chart" />
 - [Wanwan](https://wanwan.moe/)
 - [Wired Sound For Wired People](https://fauux.neocities.org/)
