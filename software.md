@@ -70,7 +70,7 @@ outline: [1,2]
 - [Lithium: EPUB Reader](https://play.google.com/store/apps/details?id=com.faultexception.reader&hl=en&gl=US)
 
 
-## Tracker
+## Trackers
 
 - **AniList**
   - [AL-Chan](https://play.google.com/store/apps/details?id=com.zen.alchan)
