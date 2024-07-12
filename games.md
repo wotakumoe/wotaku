@@ -129,7 +129,8 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 
 ## Yu-Gi-Oh!
 
-### Databases
+### Databases / News
+- [Yu-Gi-Oh! Official Website](https://www.yugioh-card.com/en/)
 - [Official card database](https://www.db.yugioh-card.com/yugiohdb/)
 - [YGOrganization](https://ygorganization.com/)
 - [Master Duel Meta](https://www.masterduelmeta.com/)
@@ -138,7 +139,7 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 
 ### Simulators
 
-### Official
+#### Official
 - [Master Duel](https://www.konami.com/yugioh/masterduel/us/en/)
 - [Duel Links](https://www.konami.com/yugioh/duel_links/en/)
 - [Yu-Gi-Oh! Neuron](https://www.konami.com/yugioh/neuron/en/)
