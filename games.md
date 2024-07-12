@@ -11,14 +11,15 @@ outline: 2
 ## General Download
 
 - [Nyaa](https://nyaa.si/?f=0&c=6_2&q=)  <Badge type="green" text="SFW" />
-- [Ova Games](https://www.ovagames.com/)
+- [Doujin Style](https://doujinstyle.com/) <Badge type="info" text="Doujin" />
+- [Free GOG PC Games](https://freegogpcgames.com/)
 - [Gload](https://gload.to/)
 - [GOG Games](https://gog-games.to/)
-- [Free GOG PC Games](https://freegogpcgames.com/)
-- [Torrminatorr](https://torrminatorr.com/) <Badge type="info" text="Needs Account" />
+- [Legends World](https://legendsworld.net/main/legendsworld/)
 - [Moriya Shrine](https://moriyashrine.org/) <Badge type="info" text="Touhou" />
-- [Doujin Style](https://doujinstyle.com/) <Badge type="info" text="Doujin" />
-
+- [My Abandonware](https://www.myabandonware.com/)
+- [Ova Games](https://www.ovagames.com/)
+- [Torrminatorr](https://torrminatorr.com/) <Badge type="info" text="Needs Account" />
 
 ::: danger Untrusted sites
 [**Click here to get the list**](https://rentry.org/pgames#untrusted-sites) of Untrusted Game Downloading Websites.
@@ -111,12 +112,16 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 - [Prokedex](https://play.google.com/store/apps/details?id=com.locuthor.prodex) <Badge type="info" text="Android" />
 - [Pocket Gallery](https://play.google.com/store/apps/details?id=com.eurekaffeine.pokedex) <Badge type="info" text="Android" />
 
-### Online Games
-- [Pokémon Showdown!](https://play.pokemonshowdown.com/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://dex.pokemonshowdown.com/" />
+### Fan Games
 - [Deluge RPG](https://www.delugerpg.com/)
+- [Eevee Expo](https://eeveeexpo.com/)
+- [PokéRogue](https://pokerogue.net/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/pagefaultgames/pokerogue" />
+- [Pokémon Infinite Fusion](https://infinitefusion.fandom.com/wiki/Pok%C3%A9mon_Infinite_Fusion_Wiki)
+- [Pokémon Showdown!](https://play.pokemonshowdown.com/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://dex.pokemonshowdown.com/" />
 - [Pokemon Revolution](https://pokemonrevolution.net/home)
-- [Who's that Pokémon?](https://gearoid.me/pokemon/)
 - [Pokedoku](https://pokedoku.com/)
+- [Who's that Pokémon?](https://gearoid.me/pokemon/)
+
 
 ### Tools
 - [Stat calculator](https://veekun.com/dex/gadgets/stat_calculator)
