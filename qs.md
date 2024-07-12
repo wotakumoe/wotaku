@@ -104,8 +104,13 @@ outline: [2,3]
 
 ### Downloaders
 
+- **Anime & Manga**
+  - [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) :ic-baseline-window: <Badge type="info" text="Manga" />
+  - [Hakuneko](https://github.com/manga-download/hakuneko) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="General" />
+  - [Red Squirrel's Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader) :ic-baseline-window::mingcute-linux-fill: <Badge type="info" text="Manga" />
 - **Direct**
   - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) :mdi-android:
+  - [LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) :mdi-android:
   - [Internet Download Manager](https://www.internetdownloadmanager.com/) <Badge text="Install Guide" link="https://rentry.org/installidm" /> :ic-baseline-window:
   - [JDownloader 2](https://jdownloader.org/) <Badge text="Debloat" link="/guides/misc#jdownloader-ad-removal" /> :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - **Torrent**
