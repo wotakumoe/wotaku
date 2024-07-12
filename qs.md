@@ -2,81 +2,79 @@
 title: Quick Start
 description: Bitsized Wotaku!
 customDescription: Discover websites, software, and essentials for anime, manga, music, and more. Get started with these curated resources for otaku enthusiasts.
+outline: [2,3]
 ---
 
 <GradientCard title="クイックスタート" tag="Quick Start" description="The basic things to get you started." theme="turquoise"/>
 
-![](/banner/sites.png)
+![](/banner/wanime.png)
 
-## Websites
+## Anime
 
-### Anime
+### Websites
 
-- [Aniwave](https://aniwave.to/home) <Badge type="info" text="Lite" link="https://lite.aniwave.to/home" /><Badge type="info" text="Alt" link="https://anix.to/home" /><Badge type="info" text="Proxies" link="https://aniwave.tv/" />
-- [KickAssAnime](https://kickassanime.am/)
-- [Tokyo Insider](https://www.tokyoinsider.com/) <Badge text="DDL" />
+- **Streaming**
+  - [Aniwave](https://aniwave.to/home) <Badge type="info" text="Lite" link="https://lite.aniwave.to/home" /><Badge type="info" text="Alt" link="https://anix.to/home" />
+  - [KickAssAnime](https://www1.kickassanime.mx/)
+  - [Animepahe](https://animepahe.ru/) `Mini-Encode`
+  - [Sudatachi](https://sudatchi.com/) <tooltip>There upload quality is pretty good but the library is quite small. Should be good for airing series.</tooltip>
+- **Download**
+  - [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" /><Badge type="info" text="Alt" link="https://animetime.cc/" /> <Badge type="info" text="Torrent" />
+  - [Tokyo Insider](https://www.tokyoinsider.com/) <Badge type="info" text="Direct" />
+  - [Kayo anime](https://kayoanime.com/) <Badge type="info" text="Direct" /> `Batch`
 
-### Manga
+### Software
 
-- [Comick](https://comick.io/home) <Badge type="tip" text="RSS" icon="i-material-symbols-rss-feed-rounded" link="https://manga.ldez.workers.dev/" />
-- [Mangadex](https://mangadex.org/)
-- [Mangasee](https://mangasee123.com/) <Badge type="tip" text="Alt" link="https://atsu.moe/" />
-
-### Music
-
-- [Nyaa](https://nyaa.si/) <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" /><Badge type="info" text="Torrent" />
-- [Sitting on Clouds](https://www.sittingonclouds.net/) <Badge type="info" text="2" link="https://www.sittingonclouds.com/" /><Badge type="info" text="3" link="https://www.sittingonclouds.org/" /> <Badge text="DDL" />
-- [OKAMIMI OST](https://okamimiost.com/) <Badge text="DDL" />
-- [Lucida](https://lucida.to/)
-- [Squid.wtf](https://squid.wtf/) <Badge text="DDL" />
-- [Anithemes.moe](https://animethemes.moe/) <Badge text="stream" />
-
-### Torrent
-
-- [Nyaa](https://nyaa.si/) <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" />
-
-![](/banner/software.png)
-
-## Software
-
-### Android
-- [Mihon](https://github.com/mihonapp/mihon) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />
-  - [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) :glowing-star:
-  - [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY)
-- [Aniyomi](https://github.com/aniyomiorg/aniyomi) :glowing-star: <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />
-- [Quicknovel](https://github.com/LagradOst/QuickNovel)
-
-
-### iOS
-- **Manga**
-  - [Aidoku](https://github.com/Aidoku/Aidoku)
-  - [Paperback](https://github.com/Paperback-iOS/app)
-- **Anime**
-  - [Chouten beta](https://testflight.apple.com/join/Cg1rAPB8) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/GJGMJRPJ5j" />
+- **Android**
+  - [Aniyomi](https://aniyomi.org/) :glowing-star: <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" /><Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/aniyomiorg/aniyomi" />
+  - [Dantotsu](https://github.com/rebelonion/Dantotsu) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />
+  - [AnimeTV](https://amarullz.com/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/amarullz/AnimeTV" />
+- **iOS**
   - [Mangayomi](https://github.com/kodjodevf/mangayomi)
-
-
-::: info **duck note**
-iOS app development is whack. so, shit can break any time.
-:::
-
-### PC
-- **Manga**
-  - [Houdoku](https://github.com/xgi/houdoku) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-  - [CDisplayEx](https://www.cdisplayex.com/) :ic-baseline-window:
-  - [OpenComic](https://github.com/ollm/OpenComic) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- **Anime**
-  - [Miru](https://github.com/ThaUnknown/miru/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" />
+  - [MiruTV](https://mirutv.app/)
+  - [9Animator](https://github.com/SuperMarcus/NineAnimator)
+- **PC**
+  - [Miru](https://miru.watch/) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/ThaUnknown/miru/" /> <Badge type="info" text="Torrent" />
   - [Anikki](https://github.com/Kylart/Anikki) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
-- **Downloader**
-  - [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2)
-  - [Hakuneko](https://github.com/manga-download/hakuneko)
+  - [Mangayomi](https://github.com/kodjodevf/mangayomi) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
+
+![](/banner/wmanga.png)
+
+## Manga
+
+### Websites
+
+- **Online**
+  - [Comick](https://comick.io/home) <Badge type="tip" text="RSS" icon="i-material-symbols-rss-feed-rounded" link="https://manga.ldez.workers.dev/" />
+  - [Mangadex](https://mangadex.org/)
+  - [Mangasee](https://mangasee123.com/) <Badge type="tip" text="Alt" link="https://atsu.moe/" />
+- **Download**
+  - [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" /><Badge type="info" text="Alt" link="https://animetime.cc/" /> <Badge type="info" text="Torrent" />
+  - [Madokami](https://manga.madokami.al) :glowing-star: <Badge type="info" text="Guide" link="/guides/manga/madokami" />
+  - [Library Genesis](https://libgen.li/)
+
+### Software
+
+- **Android**
+  - [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/jobobby04/TachiyomiSY" />
+  - [TachiyomiJ2K](https://mihon.app/forks/TachiyomiJ2K/) :glowing-star: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/Jays2Kings/tachiyomiJ2K" />
+  - [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :glowing-star: <Badge type="warning" text="Freemium" /><Badge type="info" text="Local" />
+- **iOS**
+  - [Paperback](https://github.com/Paperback-iOS/app) <Badge type="tip" text="Sources" link="https://thenetsky.github.io/netskys-extensions/" />
+  - [Aidoku](https://github.com/Aidoku/Aidoku) <Badge type="tip" text="Sources" link="https://github.com/Skittyblock/aidoku-community-sources" />
+  - [YACReader](https://apps.apple.com/app/id635717885) :glowing-star: <Badge type="warning" text="Paid" /> <Badge type="tip" text="TestFlight" icon="i-ic-twotone-money-off" link="https://testflight.apple.com/join/5zhB7sRP" /><Badge type="info" text="Local" />
+- **PC**
+  - [Houdoku](https://houdoku.netlify.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+  - [CDisplayEx](https://www.cdisplayex.com/) :ic-baseline-window: <Badge type="info" text="Local" />
+  - [YACReader](https://www.yacreader.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Local" />
+
+
 
 ![](/banner/essentails.png)
 
-# Essentials
+## Essentials
 
-## Adblocker
+### Adblockers
 
 - [uBlock Origin](https://github.com/gorhill/uBlock) :mdi-firefox::mingcute-chrome-fill:
 - [Adguard](https://adguard.com/en/welcome.html) :mdi-android::ic-baseline-window::ic-baseline-apple::mdi-firefox::mingcute-chrome-fill:
@@ -84,34 +82,43 @@ iOS app development is whack. so, shit can break any time.
 - [RethinkDNS](https://rethinkdns.com/) :mdi-android::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [NextDNS](https://nextdns.io/) :mdi-android::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
-## Browsers
+### Browsers
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/browsers/) :mdi-android::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Mull](https://github.com/Divested-Mobile/Mull-Fenix) :mdi-android:
-- [Librewolf](https://librewolf.net/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Brave](https://brave.com/) :mdi-android::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Cromite](https://github.com/uazo/cromite) :mdi-android::ic-baseline-window:
-
-## Downloader
-
-### Direct
-- [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) :mdi-android:
-- [Internet Download Manager](https://www.internetdownloadmanager.com/) <Badge text="Install Guide" link="https://rentry.org/installidm" /> :ic-baseline-window:
-- [JDownloader 2](https://jdownloader.org/) <Badge text="Debloat" link="/guides/misc#jdownloader-ad-removal" /> :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Free Download Manager](https://www.freedownloadmanager.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Librewolf](https://librewolf.net/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
 
-### Torrent / p2p
-- [libretorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) :mdi-android:
-- [qBittorrent](https://www.qbittorrent.org/) <Badge text="Enhanced" link="https://github.com/c0re100/qBittorrent-Enhanced-Edition" /> <Badge text="Dark theme" link="https://github.com/maboroshin/qBittorrentDarktheme" /> :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Transmission](https://transmissionbt.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Nicotine+](https://nicotine-plus.org/) <Badge text="p2p" />:ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <tooltip>Direct peer-to-peer sharing network, primarily used for music</tooltip>
+### Database & Tracker
 
-### VPN
+- **Websites**
+  - [AniList](https://anilist.co/) <Badge type="info" text="General" />
+  - [MyAnimeList](https://myanimelist.net/) <Badge type="info" text="General" />
+  - [aniDB](https://anidb.net/) <Badge type="info" text="Anime" />
+  - [Mangaupdates](https://www.mangaupdates.com/) <Badge type="info" text="Manga" />
+- **Software**
+  - [Android trackers](/software#trackers)
+  - [iOS trackers](/software#trackers-1)
+  - [PC trackers](/software#trackers-2)
+
+
+### Downloaders
+
+- **Direct**
+  - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) :mdi-android:
+  - [Internet Download Manager](https://www.internetdownloadmanager.com/) <Badge text="Install Guide" link="https://rentry.org/installidm" /> :ic-baseline-window:
+  - [JDownloader 2](https://jdownloader.org/) <Badge text="Debloat" link="/guides/misc#jdownloader-ad-removal" /> :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- **Torrent**
+  - [libretorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) :mdi-android:
+  - [qBittorrent](https://www.qbittorrent.org/) <Badge text="Enhanced" link="https://github.com/c0re100/qBittorrent-Enhanced-Edition" /> <Badge text="Dark theme" link="https://github.com/maboroshin/qBittorrentDarktheme" /> :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+  - [Transmission](https://transmissionbt.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+
+::: tip Suggested VPN services
 - [IVPN](https://www.ivpn.net/) <Badge text="Paid" />
 - [Proton VPN](https://protonvpn.com/) <Badge text="Paid" />
 - [Mullvad](https://mullvad.net/) <Badge text="Paid" />
 - [Windscribe](https://windscribe.com/) <Badge text="Freemium" />
+:::
 
 ![](/banner/4ch.png)
 
@@ -144,15 +151,14 @@ iOS app development is whack. so, shit can break any time.
 
 ### Others
 
-#### Clients
-- [KurobaEx](https://github.com/K1rakishou/Kuroba-Experimental/) :mdi-android:
-- [Read Chan](https://play.google.com/store/apps/details?id=com.deezus.pchan) :mdi-android:
-- [TUI-Chan](https://github.com/tuqqu/tui-chan) :ic-baseline-window:
-
-#### Extension / Script
-- [4chan X](https://github.com/ccd0/4chan-x) :mingcute-chrome-fill::mdi-language-javascript:
-    - [OneeChan](https://github.com/KevinParnell/OneeChan) :mdi-language-javascript:
-    - [StyleChan](https://github.com/3nly/StyleChan) :mdi-language-javascript:
-    - [SS21](https://github.com/saxamaphone69/ss21) :mdi-language-javascript::mdi-format-paint:
-- [Desu X](https://greasyfork.org/en/scripts/483282-desu-x-enhancement-script-for-desuarchive-org) :mdi-language-javascript:
-- [Dollchan](https://github.com/SthephanShinkufag/Dollchan-Extension-Tools/) :mdi-firefox::mdi-language-javascript:
+- **Clients**
+  - [KurobaEx](https://github.com/K1rakishou/Kuroba-Experimental/) :mdi-android:
+  - [Read Chan](https://play.google.com/store/apps/details?id=com.deezus.pchan) :mdi-android:
+  - [TUI-Chan](https://github.com/tuqqu/tui-chan) :ic-baseline-window:
+- **Extension / Script**
+  - [4chan X](https://github.com/ccd0/4chan-x) :mingcute-chrome-fill::mdi-language-javascript:
+      - [OneeChan](https://github.com/KevinParnell/OneeChan) :mdi-language-javascript:
+      - [StyleChan](https://github.com/3nly/StyleChan) :mdi-language-javascript:
+      - [SS21](https://github.com/saxamaphone69/ss21) :mdi-language-javascript::mdi-format-paint:
+  - [Desu X](https://greasyfork.org/en/scripts/483282-desu-x-enhancement-script-for-desuarchive-org) :mdi-language-javascript:
+  - [Dollchan](https://github.com/SthephanShinkufag/Dollchan-Extension-Tools/) :mdi-firefox::mdi-language-javascript:
