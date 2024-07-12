@@ -526,6 +526,26 @@ If you have recommendations for good sites in your native language or want to re
 
 <br>
 
+# Ukranian
+
+## Anime
+- [ANIMEUA](https://animeua.club/)
+- [AniTube](https://anitube.in.ua/)
+- [HigoTV](https://higotv.fun/)
+- [Unimay Media](https://unimay.media/)
+- [HentaiUKR](https://hentaiukr.com/) <Badge type="danger" text="18+" />
+
+## Manga
+- [Manga.in.ua](https://manga.in.ua/)
+- [Zenko](https://zenko.online/)
+
+## Asian
+- [BambooUA](https://bambooua.com/)
+
+
+<br>
+
+
 # Vietnamese
 
 ## Anime
