@@ -187,7 +187,7 @@ outline: 1
 - [Sakuga 作画](https://x.com/sakugacontent) :mdi-twitter:
 
 ## Others
-
+- [Settai Dreams](https://setteidreams.net/) :glowing-star:
 - [Anime Pictures](https://anime-pictures.net/) <Badge type="green" text="SFW" />
 - [Kemono](https://kemono.su/)
 - [Minitokyo](http://www.minitokyo.net/)
