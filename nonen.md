@@ -497,6 +497,7 @@ If you have recommendations for good sites in your native language or want to re
 - [Ivanime](https://www.ivanime.com/)
 - [DW Anime](https://dw-anime.net/)
 - [Frozen Layer](https://www.frozen-layer.com/) <Badge type="info" text="Torrent" />
+- [Union Fansub](https://foro.unionfansub.com/index.php) <Badge type="info" text="Torrent" />
 
 ## Manga
 
