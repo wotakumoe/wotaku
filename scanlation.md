@@ -21,31 +21,11 @@ outline: 1
 ![](/banner/raw.png)
 # Raw
 
-## Reader
-- [KL Manga](https://klmanga.com/) <Badge type="danger" text="18+" />
-- [Raw Kuma](https://rawkuma.com/) <Badge type="danger" text="18+" />
-- [Sen Manga](https://raw.senmanga.com/) <Badge type="danger" text="18+" />
-- [We Love Manga](https://welovemanga.one/) | [Manga 1000](https://manga1000.top/) <Badge type="danger" text="18+" />
+<br>
 
-## Download
-
-### Torrent
-- :glowing-star: [Nyaa](https://nyaa.si/) <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" /><Badge type="info" text="Alt" link="https://animetime.cc/" /> 
-
-### Direct
-- [A-Z Manga](https://www.a-zmanga.net/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [Asia Media Blog](https://asiamediablog.com/media/comic/manga/) <Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [Book Share Zip](https://bszip.com/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [Comic 77](https://comic77.com/) <Badge type="danger" text="18+" />
-- [Comics 888](https://comics888.com/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [DL-Raw](https://dl-raw.se/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [DL Raw net](https://dlraw.net/category/raw-manga/) [Manga Zip](https://manga-zip.info/category/raw-manga/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [DL Zip](https://dl-zip.com/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [JP DDL](https://jpddl.com/manga) <Badge type="danger" text="18+" />
-- [Manga Zone](http://www.manga-zone.org/) <Badge type="info" text="Novel" />
-- [Raw Cans](http://raw-cans.net/) <Badge type="danger" text="18+" /><Badge type="info" text="Magazine" />
-
->You can use [okdebrid](https://okdebrid.com/), [rapidgrab](https://rapidgrab.pl/), & [newscon](https://www.newscon.net/d/) to download free & premium files from the file hosters.
+::: info Raw section has been moved
+To remove clutter and dupe links, raw manga websites have been move to [**Non-English**](/nonen#manga-8).
+:::
 
 
 ![](/banner/res.png)

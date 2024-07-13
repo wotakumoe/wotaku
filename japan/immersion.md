@@ -91,36 +91,15 @@ outline: [2,3]
 
 ## Manga
 
-### Online
 - [Bilingual Manga](https://bilingualmanga.org/) :glowing-star: <Badge type="tip" text="Backup" link="https://github.com/B-M-dev/Bilingual_Manga-home-" />
 - [Mokuro Catalog](https://catalog.mokuro.moe/)
 - [2500 Volume Mokuro OCR Manga PDF Collection](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTY0MTI2NQ.RHVjaw)
-- [MangaFire](https://mangafire.to/home)
-- [MangaReader](https://mangareader.to/home)
-- [Hachiraw](https://hachiraw.net/) <Badge type="danger" text="18+" />
-- [KL Manga](https://klmanga.com/) <Badge type="danger" text="18+" />
-- [Raw Kuma](https://rawkuma.com/) <Badge type="danger" text="18+" />
-- [Sen Manga](https://raw.senmanga.com/) <Badge type="danger" text="18+" />
-- [We Love Manga](https://welovemanga.one/) <Badge type="tip" text="2" link="https://manga1000.top/" /> <Badge type="danger" text="18+" />
 
-### Torrent
-- [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" /><Badge type="info" text="Alt" link="https://animetime.cc/" /> 
-
-### Direct Download
-- [A-Z Manga](https://www.a-zmanga.net/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [Asia Media Blog](https://asiamediablog.com/media/comic/manga/) <Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [Book Share Zip](https://bszip.com/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [Comic 77](https://comic77.com/) <Badge type="danger" text="18+" />
-- [Comics 888](https://comics888.com/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [DL-Raw](https://dl-raw.se/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [DL Raw net](https://dlraw.net/category/raw-manga/) <Badge type="tip" text="2" link="https://manga-zip.info/category/raw-manga/" /> <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [DL Zip](https://dl-zip.com/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [JP DDL](https://jpddl.com/manga) <Badge type="danger" text="18+" />
-- [Manga Zone](https://www.manga-zone.org/) <Badge type="info" text="Novel" />
-- [Raw Cans](http://raw-cans.net/) <Badge type="danger" text="18+" /><Badge type="info" text="Magazine" />
+::: info Raw section has been moved
+To remove clutter and dupe links, raw manga websites have been move to [**Non-English**](/nonen#manga-8). Only OCR-ed manga or those specifically uploaded for learning japanese will stay here.
+:::
 
 ## Novel
-
 - [All EPUBs](https://boroboro.neocities.org/listfullepub)
 - [Aozora Bunko](https://www.aozora.gr.jp/)
 - [itazuraneko](https://yonde.itazuraneko.org/)
@@ -129,7 +108,7 @@ outline: [2,3]
 - [Nyaa](https://nyaa.si/?f=0&c=3_3&q=) :glowing-star:
 - [Syosetu](https://syosetu.com/) `WN`
 
-<Button icon="i-fxemoji-lightbulb">More in manga direct download tab</Button>
+<Button icon="i-fxemoji-lightbulb" link="/nonen#manga-8" >More in manga direct download</Button>
 
 ## Audio
 
