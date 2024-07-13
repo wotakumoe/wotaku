@@ -326,29 +326,41 @@ If you have recommendations for good sites in your native language or want to re
 
 ## Manga
 
-### Reader
+::: danger Adult content
+Websites may contain adult content, partner with adult sites, or feature adult-themed first-party ads.
+:::
 
-- [KL Manga](https://klmanga.com/) <Badge type="danger" text="18+" />
-- [Raw Kuma](https://rawkuma.com/) <Badge type="danger" text="18+" />
-- [Sen Manga](https://raw.senmanga.com/) <Badge type="danger" text="18+" />
-- [Twicomi](https://twicomi.com/) <Badge type="danger" text="18+" />
-- [We Love Manga](https://welovemanga.one/) <Badge type="tip" text="2" link="https://manga1000.top/" /> <Badge type="danger" text="18+" />
+::: details Symbols
 
-### Torrent
-- [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" /><Badge type="info" text="Alt" link="https://animetime.cc/" /> 
+- Uploads novels :mdi-arrow-right-thin: :material-symbols-book-5:
+- Uploads magazines :mdi-arrow-right-thin: :ic-outline-menu-book:
+- Uploaded on Host sites :mdi-arrow-right-thin: :mdi-snail:
 
-### Direct Download
-- [A-Z Manga](https://www.a-zmanga.net/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [Asia Media Blog](https://asiamediablog.com/media/comic/manga/) <Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [Book Share Zip](https://bszip.com/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [Comic 77](https://comic77.com/) <Badge type="danger" text="18+" />
-- [Comics 888](https://comics888.com/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [DL-Raw](https://dl-raw.se/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [DL Raw net](https://dlraw.net/category/raw-manga/) <Badge type="tip" text="2" link="https://manga-zip.info/category/raw-manga/" /> <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [DL Zip](https://dl-zip.com/) <Badge type="danger" text="18+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [JP DDL](https://jpddl.com/manga) <Badge type="danger" text="18+" />
-- [Manga Zone](http://www.manga-zone.org/) <Badge type="info" text="Novel" />
-- [Raw Cans](http://raw-cans.net/) <Badge type="danger" text="18+" /><Badge type="info" text="Magazine" />
+:::
+
+- **Reader**
+  - [KL Manga](https://klmanga.com/)
+  - [MangaFire](https://mangafire.to/home)
+  - [MangaReader](https://mangareader.to/home)
+  - [Raw Kuma](https://rawkuma.com/)
+  - [Raw lazy](https://rawlazy.si/)
+  - [Sen Manga](https://raw.senmanga.com/)
+  - [Twicomi](https://twicomi.com/)
+  - [We Love Manga](https://welovemanga.one/) <Badge type="tip" text="2" link="https://manga1000.top/" />
+- **Torrent Download**
+  - [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" /><Badge type="info" text="Alt" link="https://animetime.cc/" />
+- **Direct Download**
+  - [A-Z Manga](https://www.a-zmanga.net/) :material-symbols-book-5::ic-outline-menu-book::mdi-snail:
+  - [Asia Media Blog](https://asiamediablog.com/media/comic/manga/) :material-symbols-book-5::ic-outline-menu-book::mdi-snail:
+  - [Book Share Zip](https://bszip.com/) :material-symbols-book-5::ic-outline-menu-book::mdi-snail:
+  - [Comic 77](https://comic77.com/) :mdi-snail:
+  - [Comics 888](https://comics888.com/) :material-symbols-book-5::ic-outline-menu-book::mdi-snail:
+  - [DL-Raw](https://dl-raw.se/) :material-symbols-book-5::ic-outline-menu-book::mdi-snail:
+  - [DL Raw net](https://dlraw.net/category/raw-manga/) <Badge type="tip" text="2" link="https://manga-zip.info/category/raw-manga/" /><Badge type="tip" text="3" link="https://13dl.me/home.i1/" /> :material-symbols-book-5::ic-outline-menu-book::mdi-snail:
+  - [DL Zip](https://dl-zip.com/) :material-symbols-book-5::ic-outline-menu-book::mdi-snail:
+  - [JP DDL](https://jpddl.com/manga) :mdi-snail:
+  - [Manga Zone](http://www.manga-zone.org/) :material-symbols-book-5::mdi-snail:
+  - [Raw Cans](http://raw-cans.net/) :ic-outline-menu-book::mdi-snail:
 
 ## Others
 
