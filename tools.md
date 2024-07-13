@@ -140,6 +140,7 @@ outline: [1,2]
   - [FFmpeg](https://ffmpeg.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
   - [HandBrake](https://handbrake.fr/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
   - [Videomass](https://jeanslack.github.io/Videomass/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+  - [ffmpeg.wasm](https://ffmpegwasm.netlify.app/)
 
 ## mpv
 
