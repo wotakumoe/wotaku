@@ -189,7 +189,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [Next JAV](https://nextjav.com/)
 
 ### Others
-- [Gravure idol ranking](https://gravure-idol-ranking.com/)
+- [Gravure Idols](https://gravureidols.top/)
 - [Mabui Onna](https://mabui-onna.com/)
 - [JAV Library](https://www.javlibrary.com/en/)
 - [Sougou Wiki](http://sougouwiki.com/)
