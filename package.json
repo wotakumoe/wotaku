@@ -51,6 +51,7 @@
     "@iconify-json/twemoji": "^1.1.15",
     "@iconify-json/uil": "^1.1.8",
     "@iconify/utils": "^2.1.22",
+    "@nolebase/vitepress-plugin-git-changelog": "^2.2.2",
     "@types/node": "^20.12.4",
     "prettier": "^3.2.5"
   },

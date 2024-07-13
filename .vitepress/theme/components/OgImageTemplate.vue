@@ -1,20 +1,15 @@
 <script setup lang="ts">
-defineProps<{ title: string; description?: string }>()
+defineProps<{ title: string; description?: string }>();
 </script>
 
 <template>
   <div
     tw="w-full h-full bg-black flex flex-col"
-    style="background-image: url(https://i.ibb.co/9w9MYDf/og2-1.png)"
-  >
-    <div
-      tw="p-10 w-full min-h-0 grow flex flex-col items-center justify-between"
-    >
+    style="background-image: url(https://i.ibb.co/9w9MYDf/og2-1.png)">
+    <div tw="p-10 w-full min-h-0 grow flex flex-col items-center justify-between">
       <div tw="w-full flex justify-between items-center text-4xl font-medium">
         <div tw="flex items-center">
-          <div tw="text-zinc-100 ml-2 mt-1 font-semibold">
-            Wotaku.moe
-          </div>
+          <div tw="text-zinc-100 ml-2 mt-1 font-semibold">Wotaku.moe</div>
         </div>
       </div>
       <div tw="w-full pr-56 flex flex-col items-start justify-end">

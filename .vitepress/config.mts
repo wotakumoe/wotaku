@@ -8,10 +8,12 @@ import { tabsMarkdownPlugin } from "vitepress-plugin-tabs";
 import UnoCSS from "unocss/vite";
 import { generateImages, generateMeta } from "./hooks";
 import { emojiRender, defs, movePlugin, search, hostname, socials } from "./configs";
+import {
+  GitChangelog,
+  GitChangelogMarkdownSection,
+} from "@nolebase/vitepress-plugin-git-changelog/vite";
 
 // @unocss-include
-
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Wotaku",
   description:
@@ -34,7 +36,11 @@ export default defineConfig({
     // prettier-ignore
     [
       "meta",
-      { name: "keywords", content: "Anime, Anime Piracy, Manga, Manga Piracy, VTuber, Hentai, JPOP, Music, Japan, Learning Japanese, Weeb, Otaku" },
+      {
+        name: "keywords",
+        content:
+          "Anime, Anime Piracy, Manga, Manga Piracy, VTuber, Hentai, JPOP, Music, Japan, Learning Japanese, Weeb, Otaku",
+      },
     ],
     [
       "link",
@@ -45,9 +51,13 @@ export default defineConfig({
       },
     ],
     [
-      'script',
-      { defer: '', 'data-domain': 'wotaku.moe', src: 'https://simp.mom/js/asdasdasd.js' }
-    ]
+      "script",
+      {
+        defer: "",
+        "data-domain": "wotaku.moe",
+        src: "https://simp.mom/js/asdasdasd.js",
+      },
+    ],
   ],
   srcExclude: ["README.md"],
   sitemap: {
@@ -69,10 +79,12 @@ export default defineConfig({
     },
   },
   vite: {
-    ssr: {
-      noExternal: ["@fmhy/components"],
+    optimizeDeps: {
+      exclude: ["workbox-window", "@nolebase/vitepress-plugin-git-changelog/client"],
     },
-    optimizeDeps: { exclude: ["workbox-window"] },
+    ssr: {
+      noExternal: ["@nolebase/vitepress-plugin-git-changelog", "@nolebase/ui", "@fmhy/components"],
+    },
     plugins: [
       UnoCSS({
         configFile: "../unocss.config.ts",
@@ -83,6 +95,11 @@ export default defineConfig({
           movePlugin(c.plugins as any, "vitepress", "before", "unocss:transformers:pre");
         },
       },
+      GitChangelog({
+        maxGitLogCount: 2000,
+        repoURL: () => "https://github.com/anotherduckling/Wotaku",
+      }),
+      GitChangelogMarkdownSection(),
     ],
     resolve: {
       alias: [
@@ -95,7 +112,7 @@ export default defineConfig({
   },
   themeConfig: {
     search: search,
-    logo: { src: "/asset/inaread.png"},
+    logo: { src: "/asset/inaread.png" },
     sidebar: [
       {
         text: '<span class="i-lucide:zap"></span> Quick Start',
@@ -137,7 +154,10 @@ export default defineConfig({
         text: '<span class="i-lucide:ban"></span> NSFW',
         link: "/nsfw",
       },
-      { text: '<span class="i-lucide:package-2"></span> Merch', link: "/merch" },
+      {
+        text: '<span class="i-lucide:package-2"></span> Merch',
+        link: "/merch",
+      },
       {
         text: '<span class="i-lucide:scroll-text"></span> Scanlation',
         link: "/scanlation",
@@ -173,8 +193,8 @@ export default defineConfig({
             items: [
               { text: "Disc Ripping", link: "/guides/anime/discrip" },
               { text: "Fate / Type-Moon", link: "/guides/anime/fate" },
-              { text: "Network Streaming", link: "/guides/anime/ns" }
-            ]
+              { text: "Network Streaming", link: "/guides/anime/ns" },
+            ],
           },
           {
             text: "Manga",
@@ -182,8 +202,8 @@ export default defineConfig({
             items: [
               { text: "Digital Manga Info", link: "/guides/manga/digim" },
               { text: "Madokami", link: "/guides/manga/madokami" },
-              { text: "Manga Image Editing", link: "/guides/manga/imagedit" }
-            ]
+              { text: "Manga Image Editing", link: "/guides/manga/imagedit" },
+            ],
           },
           {
             text: "Music",
@@ -191,8 +211,8 @@ export default defineConfig({
             items: [
               { text: "FB2K Synced Lyrics", link: "/guides/music/fb2klyrics" },
               { text: "Squidify", link: "/guides/music/squidify" },
-              { text: "Transcoding Audio", link: "/guides/music/transcoding" }
-            ]
+              { text: "Transcoding Audio", link: "/guides/music/transcoding" },
+            ],
           },
           {
             text: "Technical",
@@ -201,10 +221,10 @@ export default defineConfig({
               { text: "Extension Repos", link: "/guides/tech/repo" },
               { text: "IRC & XDCC", link: "/guides/tech/irc" },
               { text: "JDL2 Ad-removal", link: "/guides/tech/jdl" },
-              { text: "qBittorent RSS", link: "/guides/tech/qbitrss" }
-            ]
-          }
-        ]
+              { text: "qBittorent RSS", link: "/guides/tech/qbitrss" },
+            ],
+          },
+        ],
       },
       {
         text: '<span class="i-lucide:messages-square"></span> Communities',
@@ -262,24 +282,24 @@ export default defineConfig({
             items: [
               { text: "Disc Ripping", link: "/guides/anime/discrip" },
               { text: "Fate / Type-Moon", link: "/guides/anime/fate" },
-              { text: "Network Streaming", link: "/guides/anime/ns" }
-            ]
+              { text: "Network Streaming", link: "/guides/anime/ns" },
+            ],
           },
           {
             text: "Manga",
             items: [
               { text: "Digital Manga Info", link: "/guides/manga/digim" },
               { text: "Madokami", link: "/guides/manga/madokami" },
-              { text: "Manga Image Editing", link: "/guides/manga/imagedit" }
-            ]
+              { text: "Manga Image Editing", link: "/guides/manga/imagedit" },
+            ],
           },
           {
             text: "Music",
             items: [
               { text: "FB2K Synced Lyrics", link: "/guides/music/fb2klyrics" },
               { text: "Squidify", link: "/guides/music/squidify" },
-              { text: "Transcoding Audio", link: "/guides/music/transcoding" }
-            ]
+              { text: "Transcoding Audio", link: "/guides/music/transcoding" },
+            ],
           },
           {
             text: "Technical",
@@ -287,11 +307,11 @@ export default defineConfig({
               { text: "Extension Repos", link: "/guides/tech/repo" },
               { text: "IRC & XDCC", link: "/guides/tech/irc" },
               { text: "JDL2 Ad-removal", link: "/guides/tech/jdl" },
-              { text: "qBittorent RSS", link: "/guides/tech/qbitrss" }
-            ]
-          }
-        ]
-      },      
+              { text: "qBittorent RSS", link: "/guides/tech/qbitrss" },
+            ],
+          },
+        ],
+      },
       {
         text: "Updates",
         link: "https://github.com/anotherduckling/Wotaku/commits/main/",

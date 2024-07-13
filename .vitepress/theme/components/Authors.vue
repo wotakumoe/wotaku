@@ -25,7 +25,7 @@ const credits = {
       name: "XRA-Empire",
       site: "https://nyaa.si/?f=0&c=3_1&q=xra",
       avatar: "/pfp/xra.png",
-    }
+    },
   ],
 
   discrip: [
@@ -43,7 +43,6 @@ const credits = {
     },
   ],
 } satisfies CreditsInfo;
-
 
 const Credits = computed(() => credits[props.page] || ([] as CreditsInfo[]));
 </script>
