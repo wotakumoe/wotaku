@@ -89,6 +89,7 @@ outline: 1
   - [SquidBoard](https://www.squid-board.org/) <Badge type="tip" text="Alt" link="https://sqb.moe/" /><Badge type="tip" text="Status" link="https://status.lyratris.com/" />:mdi-account::simple-icons-mega::simple-icons-mediafire::mdi-google-drive:
   - [OKAMIMI OST](https://okamimiost.com/) :ic-round-cloud-download: <Badge type="tip" text="Direct Link" link="https://indexsubtitle.cc/terabox-direct-link-generator" />
   - [Sukidesu OST](https://sukidesuost.info/) :simple-icons-mega::mdi-magnet:
+  - [RuTracker.org](https://rutracker.org/forum/index.php) :mdi-magnet:
   - [Asia Media Blog](https://asiamediablog.com/media/music/) <Badge type="tip" text="2" link="https://jpmusicblog.com/music/" /><Badge type="tip" text="3" link="https://jpmediadl.com/music/" /><Badge type="danger" text="18+" />:mdi-snail:
 - **MP3**
   - [OS Anime](https://osanime.com/) :mdi-download:
