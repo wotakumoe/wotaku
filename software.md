@@ -27,7 +27,6 @@ outline: [1,2]
   - :material-symbols-subdirectory-arrow-right: [Stremio Tools](#anime-tools)
 - [Miru App](https://miru.js.org/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/miru-project/miru-app" />
 - [Animity](https://github.com/kl3jvi/animity)
-- [Kaizoyu!](https://kaizoyu.ovh) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/astarivi/Kaizoyu" /><Badge type="info" text="XDCC" />
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
 :::
 
