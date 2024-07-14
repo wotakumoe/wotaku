@@ -31,6 +31,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 - Artoria Pendragon (Fate) by [**MinJaeCucheoo**](https://www.deviantart.com/minjaecucheoo/art/Transparent-PNG-Artoria-Pendragon-Fate-845014345)
 - Moiré vs Non-Moiré Pattern Comparison by [**konijnsate**](https://tips.clip-studio.com/en-us/articles/3489)
 - NSFW banner art taken from [**Mogudan Illust Works**](https://www.fakku.net/hentai/mogudan-illust-works-english)
+- Suisei music banner art by [**フカヒレ**](https://x.com/fuka_hire/status/1619998921757192195)
 
 == Glossary
 
