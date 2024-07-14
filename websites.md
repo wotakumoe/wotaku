@@ -75,14 +75,17 @@ outline: 1
 - [Toonami Aftermath](https://www.toonamiaftermath.com/)
 :::
 
-## Torrent
+
+## Download
+
+### Torrent
 
 - [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" /><Badge type="info" text="Alt" link="https://animetime.cc/" /> 
 - [Anirena](https://www.anirena.com/)
 - [Shana Project](https://www.shanaproject.com/) <Badge type="info" text="Tokyo tosho" link="https://www.tokyotosho.info/" />
 
 
-## Direct Download
+### Direct Download
 
 ::: details Symbols
 
@@ -97,20 +100,20 @@ outline: 1
 :::
 
 
-### Reuploads / Untouched 
+#### Reuploads / Untouched 
 - [Tokyo Insider](https://www.tokyoinsider.com/) :mdi-download:
 - [JPFiles](https://jpfiles.net/) :mdi-snail::mdi-disc:
 - [JPLearner](http://www.jplearner.to/) :mdi-snail::mdi-disc:
 - [AnimeRSS](https://animerss.com/) :mdi-snail::mdi-disc:
 
-### Re-encodes
+#### Re-encodes
 - [Flugel Anime](https://flugelanime.com/) + :flag-spain: :mdi-download:
 - [Kayo anime](https://kayoanime.com/) :mdi-google-drive::material-symbols-package-2:
 - [Anime out](https://www.animeout.xyz/) :mdi-download::mdi-account:
 - [Chauthanh](https://chauthanh.info/) :mdi-download::mdi-account:
 - [RIP Crabby Anime](https://ripcrabbyanime.com/) :mdi-google-drive::mdi-account::material-symbols-package-2:
 
-### Mini-encodes
+#### Mini-encodes
 - [hi10anime](https://hi10anime.com/) :mdi-download::mdi-magnet::mdi-account::material-symbols-package-2:
 - [Judas](https://rentry.org/judas-ddl) :mdi-google-drive::mdi-account::material-symbols-package-2:
 
@@ -121,7 +124,7 @@ outline: 1
 
 :::
 
-## IRC
+### IRC
 
 - [nibl](https://nibl.co.uk/search) <tooltip><ul><li>Server: <code>irc.rizon.net</code></li><li>Port: <code>6697</code></li><li>Channel: <code>#nibl</code></li></ul></tooltip>
 - [subsplease](https://subsplease.org/xdcc/) <tooltip><ul><li>Server: <code>irc.rizon.net</code></li><li>Port: <code>6697</code></li><li>Channel: <code>#subsplease</code></li></ul></tooltip>
@@ -168,7 +171,9 @@ outline: 1
 
 :::
 
-## Nyaa
+## Download
+
+### Nyaa
 
 :::details Symbols
 
@@ -199,16 +204,16 @@ outline: 1
 - [Ushi](https://nyaa.si/user/bakaushi) <tooltip>[Seven Seas](https://sevenseasentertainment.com/), [Yen Press](https://yenpress.com/)</tooltip>
 - [XRA](https://nyaa.si/?f=0&c=0_0&q=XRA) :four-leaf-clover:
 
-## Direct Download
+### Direct Download
 
-### Aggregators
+#### Aggregators
 - [Madokami](https://manga.madokami.al) :glowing-star: <Badge type="info" text="Guide" link="/guides/manga/madokami" />
 - [Anna's Archive](https://annas-archive.org/)
 - [Desuarchive](https://desuarchive.org/) :four-leaf-clover: <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
 - [Library Genesis](https://libgen.li/)
 - [Internet Archive](https://archive.org/)
 
-### Rippers
+#### Rippers
 - [1r0n](https://nyaa.si/user/tsuna69) <tooltip>Available in description</tooltip>
 - [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) <Badge type="danger" text="18+" />
 - [Danke](https://desuarchive.org/_/search/text/(digital)%20(danke-empire)/)
@@ -291,7 +296,16 @@ outline: 1
 
 :::
 
-## Direct Download
+## Download
+
+### Nyaa
+
+- [Ganba](https://nyaa.si/user/Ganba)
+- [How Unfortunate](https://nyaa.si/user/HowUnfortunate)
+- [Lucaz](https://nyaa.si/user/LuCaZ)
+- [Stick](https://nyaa.si/user/dumbboy58)
+
+### Direct Download
 
 - [Ganba's DDL sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSvd0SjjPYZKzhUwTYK2n2peZD_n6_wDmEKV3I37nuM-FnOtAU5xZkec35GabjrZ6olJTbr_CMXS6AH/pubhtml)
 - [Elscione Official LNs](https://server.elscione.com/Officially%20Translated%20Light%20Novels/)
@@ -299,12 +313,6 @@ outline: 1
 - [Madokami](https://manga.madokami.al)
 - [Just Light Novels](https://www.justlightnovels.com/)
 
-## Nyaa
-
-- [Ganba](https://nyaa.si/user/Ganba)
-- [How Unfortunate](https://nyaa.si/user/HowUnfortunate)
-- [Lucaz](https://nyaa.si/user/LuCaZ)
-- [Stick](https://nyaa.si/user/dumbboy58)
 
 ## Audiobook
 
