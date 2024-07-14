@@ -82,7 +82,7 @@ outline: [2,3]
 - **General**
   - [Apple Music](https://music.apple.com/) <Badge type="info" text="Lossless" />
   - [Spotify](https://spotify.com/)
-  - [Youtube Music](https://music.youtube.com/) <Badge type="tip" text="Beatbump" link="https://beatbump.io/home" /><Badge type="tip" text="Hyperpipe" link="https://hyperpipe.surge.sh/" />
+  - [Youtube Music](https://music.youtube.com/) <Badge type="tip" text="2" link="https://beatbump.io/home" /><Badge type="tip" text="3" link="https://hyperpipe.surge.sh/" />
 
 ### Download
 
