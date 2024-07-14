@@ -69,6 +69,48 @@ outline: [2,3]
   - [YACReader](https://www.yacreader.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Local" />
 
 
+![](/banner/music.png)
+
+## Music
+
+### Streaming
+
+- **Dedicated**
+  - [Anithemes.moe](https://animethemes.moe/) :glowing-star: <Badge type="info" text="Alt" link="https://themes.moe/" /><Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/AnimeThemes" />
+  - [Karaoke Mugen](https://kara.moe)
+  - [Anisong Database](https://anisongdb.com/) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" /><Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/xSardine/AMQ-Artists-DB" />
+- **General**
+  - [Apple Music](https://music.apple.com/) <Badge type="info" text="Lossless" />
+  - [Spotify](https://spotify.com/)
+  - [Youtube Music](https://music.youtube.com/) <Badge type="tip" text="Beatbump" link="https://beatbump.io/home" /><Badge type="tip" text="Hyperpipe" link="https://hyperpipe.surge.sh/" />
+
+### Download
+
+- **Dedicated**
+  - [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" />
+  - [Sitting on Clouds](https://www.sittingonclouds.net/) :glowing-star: <Badge type="info" text="2" link="https://www.sittingonclouds.com/" /><Badge type="info" text="3" link="https://www.sittingonclouds.org/" /><Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" />
+  - [SquidBoard](https://www.squid-board.org/) <Badge type="tip" text="Alt" link="https://sqb.moe/" /><Badge type="tip" text="Status" link="https://status.lyratris.com/" />
+- **General**
+  - [YAMS](https://yams.tf/)
+  - [Lucida](https://lucida.to/)
+  - [Squid.wtf](https://squid.wtf/)
+
+### Software
+
+- **Android**
+  - [Poweramp](https://powerampapp.com/) :glowing-star: <Badge type="warning" text="Paid" /> <Badge type="warning" text="Mod" link="https://links.gamesdrive.net/#/link/aHR0cHM6Ly93d3cucm9ja21vZHMubmV0LzIwMTgvMDYvcGFtcC5odG1s.ZHVjaw" />
+  - [Musicolet Music Player](https://play.google.com/store/apps/details?id=in.krosbits.musicolet)
+  - [Innertune](https://github.com/z-huang/InnerTune)
+  - [xManager](https://www.xmanagerapp.com/)
+- **iOS**
+  - [Flacbox](https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256)
+- **PC**
+  - [Foobar2000](https://www.foobar2000.org/) :glowing-star: :ic-baseline-window::ic-baseline-apple:
+  - [AIMP](https://www.aimp.ru/) :glowing-star: :ic-baseline-window::mingcute-linux-fill:
+  - [MusicBee](https://www.getmusicbee.com/) :ic-baseline-window:
+  - [Spicetify](https://spicetify.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+  - [SPOTX](https://github.com/SpotX-Official/SpotX) :ic-baseline-window:
+
 
 ![](/banner/essentails.png)
 
