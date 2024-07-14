@@ -361,7 +361,7 @@ outline: 1
 
 | Website                                     | Storage   | Expire        |
 | ------------------------------------------- | --------- | ------------- |
-| [buzzheavier](https://tabletomarkdown.com/) | Unlimited | :cross-mark:  |
+| [buzzheavier](https://buzzheavier.com/) | Unlimited | :cross-mark:  |
 | [bzzhr](https://bzzhr.co/)                  | Unlimited | :cross-mark:  |
 | [file.haus](https://filehaus.pk/)           | Unlimited | :cross-mark:  |
 | [Gofile](https://gofile.io/)                | Unlimited | 10 days       |
