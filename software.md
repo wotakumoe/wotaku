@@ -30,6 +30,14 @@ outline: [1,2]
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
 :::
 
+::: details :material-symbols-tv-gen-outline: Android TV ranking
+- [Cloudstream](https://cloudstream.on.fleek.co/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/recloudstream/cloudstream" /><Badge type="info" icon="i-mdi-puzzle-outline" text="Plugins" link="https://discord.com/invite/wpX5Rfcx87" />
+- [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
+- [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one)
+  - :material-symbols-subdirectory-arrow-right: [Stremio Tools](#anime-tools)
+- [AnimeTV](https://amarullz.com/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/amarullz/AnimeTV" />
+:::
+
 ## Manga Readers
 
 ### Online
