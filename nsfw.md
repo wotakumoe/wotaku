@@ -29,7 +29,7 @@ outline: [1,2]
 - [Mucho Hentai](https://muchohentai.com/) <Badge type="info" text="Schedule" /><Badge type="info" text="PV" />
 - [Oppai](https://oppai.stream/) <Badge type="info" text="Upscale" />
 - [Rule34video](https://rule34video.com/)
-
+- [Sakura Circle](https://sakuracircle.com/) <Badge type="info" text="DDL" />
 
 ## Manga
 - [E-Hentai](https://e-hentai.org/) <Badge type="tip" text="Search Guide" link="https://e-hentaitagsearch.blogspot.com/" /> <tooltip>It is the mangadex for doujins. Almost every doujin is first uploaded here before being scraped by other sites. Online viewer compresses the images but has the option to download stuff in original quality.<br>
@@ -59,7 +59,7 @@ outline: [1,2]
 - [Manhwa18](http://manhwa18.com/)
 - [Manytoon](https://manytoon.com/) :glowing-star:
 - [OKToon](https://oktoon.org/webtoon/adult) <Badge type="tip" text="Raw" />
-- [Oppai Stream](https://read.oppai.stream/) :glowing-star: <tooltip>Late releases but less compressed than other aggregators'</tooltip>
+- [Oppai](https://read.oppai.stream/) :glowing-star: <tooltip>Late releases but less compressed than other aggregators'</tooltip>
 - [Toomics Free](https://toomicsfree.com/)
 - [Toonily](https://toonily.com/) :glowing-star:
 - [Webtoon](https://www.webtoon.xyz/)
