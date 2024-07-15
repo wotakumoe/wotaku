@@ -274,10 +274,12 @@ outline: [1,2]
 
 
 ## General
+- [Buster](https://github.com/dessant/buster)
 - [ClearURLs](https://docs.clearurls.xyz/)
 - [FastForward](https://fastforward.team/)
 - [FastStream](https://faststream.online/)
 - [Indie Wiki Buddy](https://getindie.wiki/)
+- [NopeCHA](https://nopecha.com/)
 - [Selection](https://github.com/emvaized/selecton-extension) :glowing-star:
 - [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web) :glowing-star:
 - [uBlock Origin](https://github.com/gorhill/uBlock) :glowing-star:
