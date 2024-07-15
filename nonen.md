@@ -229,6 +229,7 @@ If you have recommendations for good sites in your native language or want to re
 - [Aniflix](https://aniflix.cc/)
 - [Anime Loads](https://www.anime-loads.org/) <Badge type="info" text="Stream" /><Badge type="info" text="DDL" />
 - [Animes](https://www.animes.so/) <Badge type="info" text="DDL" />
+- [NanaOne](https://nanaone.net/)
 
 ## Manga
 
