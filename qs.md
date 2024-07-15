@@ -161,9 +161,9 @@ outline: [2,3]
   - [Transmission](https://transmissionbt.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
 ::: tip Suggested VPN services
-- [IVPN](https://www.ivpn.net/) <Badge text="Paid" />
-- [Proton VPN](https://protonvpn.com/) <Badge text="Paid" />
+- [Proton VPN](https://protonvpn.com/) <Badge text="Freemium" />
 - [Mullvad](https://mullvad.net/) <Badge text="Paid" />
+- [IVPN](https://www.ivpn.net/) <Badge text="Paid" />
 - [Windscribe](https://windscribe.com/) <Badge text="Freemium" />
 :::
 
