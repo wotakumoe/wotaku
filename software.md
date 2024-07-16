@@ -366,6 +366,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
   - [Kavita](https://www.kavitareader.com/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/Kareadita/Kavita" />
   - [LANraragi](https://github.com/Difegue/LANraragi)
   - [Teemii](https://www.teemii.io/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/dokkaner/teemii" />
+  - [Mango](https://github.com/getmango/Mango) <Badge type="warning" text="Outdated" />
 - **Novels**
   - [Kavita](https://www.kavitareader.com/) :glowing-star: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/Kareadita/Kavita" />
   - [Komga](https://komga.org/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/gotson/komga" />
