@@ -405,10 +405,14 @@ outline: 1
   - [League of Comic Geeks](https://leagueofcomicgeeks.com/)
   - [Comic Vine](https://comicvine.gamespot.com/)
 - **Info**
-  - [Comic Book Reading Orders](https://comicbookreadingorders.com/)
-  - [Comic Book Herald](https://www.comicbookherald.com/)
   - [CMRO](https://cmro.travis-starnes.com/)
-
+  - [Comic Book Herald](https://www.comicbookherald.com/)
+  - [Comic Book Reading Orders](https://comicbookreadingorders.com/)
+  - [Comic Book Treasury](https://www.comicbooktreasury.com/)
+  - [Comic Shop Locator](https://www.comicshoplocator.com/)
+  - [Comic Watch](https://comic-watch.com/)
+  - [Marvel Guides](https://marvelguides.com/)
+  - [The Comics Journal](https://www.tcj.com/)
 
 ![](/banner/wpt.png)
 # Private Trackers
