@@ -17,7 +17,6 @@ outline: [2,3]
   - [Aniwave](https://aniwave.to/home) <Badge type="info" text="Lite" link="https://lite.aniwave.to/home" /><Badge type="info" text="Alt" link="https://anix.to/home" />
   - [KickAssAnime](https://www1.kickassanime.mx/)
   - [Animepahe](https://animepahe.ru/) `Mini-Encode`
-  - [Sudatachi](https://sudatchi.com/) <tooltip>Their upload quality is pretty good but the library is quite small. Should be good for airing series.</tooltip>
 - **Download**
   - [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" /><Badge type="info" text="Alt" link="https://animetime.cc/" /> <Badge type="info" text="Torrent" />
   - [Tokyo Insider](https://www.tokyoinsider.com/) <Badge type="info" text="Direct" />
