@@ -351,7 +351,7 @@ outline: 1
   - :material-symbols-subdirectory-arrow-right: [Foobar2000 add-ons](#foobar2000-add-ons)
 - [Fooyin](https://github.com/fooyin/fooyin)
 - [MusicBee](https://www.getmusicbee.com/) :ic-baseline-window:
-- [Strawberry](https://www.strawberrymusicplayer.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Strawberry](https://www.strawberrymusicplayer.org/) :mingcute-linux-fill:
 - [WACUP](https://getwacup.com/) :ic-baseline-window:
 - [Amberol](https://apps.gnome.org/Amberol/) :mingcute-linux-fill:
 - [Tauon Music Box](https://tauonmusicbox.rocks/) :ic-baseline-window::mingcute-linux-fill: <Badge type="info" text="Synced Lyrics" link="https://github.com/Taiko2k/TauonMusicBox/wiki/Lyrics#synced-lyrics" />
