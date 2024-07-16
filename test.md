@@ -88,7 +88,7 @@ Check out our [torrent glossary](/glossary/torrent), where you should find all t
 You *can* stream torrent files by downloading the files sequentially.
 
 #### Android
-[Aniyomi](https://aniyomi.org/) & [Dantotsu](https://github.com/rebelonion/Dantotsu) can stream torrents from various sources including Nyaa.si. For that, install the Torrentio extension and customize the settings as needed.
+[Aniyomi](https://aniyomi.org/) & [Dantotsu](https://dantotsuapp.netlify.app/) can stream torrents from various sources including Nyaa.si. For that, install the Torrentio extension and customize the settings as needed.
 
 #### PC
 There are a few listed in the [**software page**](/software.md#anime-streaming-2). [Miru](https://miru.watch/) is the most feature-rich one. You can also use [qBittorrent](https://www.qbittorrent.org/), [TorrServer](https://github.com/YouROK/TorrServer), and [WebTorrent](https://webtorrent.io/). Check the info tab below the software list for instructions.

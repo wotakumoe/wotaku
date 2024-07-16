@@ -15,7 +15,7 @@ outline: [1,2]
 
 - [Aniyomi](https://aniyomi.org/) :glowing-star: <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" /><Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/aniyomiorg/aniyomi" />
 - [Cloudstream](https://cloudstream.on.fleek.co/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/recloudstream/cloudstream" /><Badge type="info" icon="i-mdi-puzzle-outline" text="Plugins" link="https://discord.com/invite/wpX5Rfcx87" />
-- [Dantotsu](https://github.com/rebelonion/Dantotsu) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />
+- [Dantotsu](https://dantotsuapp.netlify.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" /><Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/rebelonion/Dantotsu" />
 - [AnimeTV](https://amarullz.com/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/amarullz/AnimeTV" />
 
 
@@ -51,7 +51,7 @@ outline: [1,2]
 ::: details More
 - [TachiyomiAZ](https://mihon.app/forks/TachiyomiAZ/) <Badge type="info" text="Dev build" link="https://crafty.moe/tachiyomiAZ.apk" /><Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/az4521/tachiyomiAZ" />
 - [Aniyomi](https://aniyomi.org/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/aniyomiorg/aniyomi" />
-- [Dantotsu](https://github.com/rebelonion/Dantotsu) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />
+- [Dantotsu](https://dantotsuapp.netlify.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" /><Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/rebelonion/Dantotsu" />
 - [Neko](https://github.com/nekomangaorg/Neko)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 :::

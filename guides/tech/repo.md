@@ -7,7 +7,7 @@ outline: [3,4]
 
 <br>
 
-Due to DMCA takedown notices, [Tachiyomi](https://tachiyomi.org/) (now continued as [Mihon](https://mihon.app/)) and [Aniyomi](https://aniyomi.org/) no longer come with preloaded extensions. You have to sideload extension repos in [Mihon](https://mihon.app/), [Aniyomi](https://aniyomi.org/), [Dantotsu](https://github.com/rebelonion/Dantotsu) and their forks to get extensions.
+Due to DMCA takedown notices, [Tachiyomi](https://tachiyomi.org/) (now continued as [Mihon](https://mihon.app/)) and [Aniyomi](https://aniyomi.org/) no longer come with preloaded extensions. You have to sideload extension repos in [Mihon](https://mihon.app/), [Aniyomi](https://aniyomi.org/), [Dantotsu](https://dantotsuapp.netlify.app/) and their forks to get extensions.
 
 ### Sideloading Methods
 
