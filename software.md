@@ -14,8 +14,8 @@ outline: [1,2]
 ## Anime Streaming
 
 - [Aniyomi](https://aniyomi.org/) :glowing-star: <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" /><Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/aniyomiorg/aniyomi" />
-- [Cloudstream](https://cloudstream.on.fleek.co/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/recloudstream/cloudstream" /><Badge type="info" icon="i-mdi-puzzle-outline" text="Plugins" link="https://discord.com/invite/wpX5Rfcx87" />
 - [Dantotsu](https://dantotsuapp.netlify.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" /><Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/rebelonion/Dantotsu" />
+- [Cloudstream](https://cloudstream.on.fleek.co/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/recloudstream/cloudstream" /><Badge type="info" icon="i-mdi-puzzle-outline" text="Plugins" link="https://discord.com/invite/wpX5Rfcx87" />
 - [AnimeTV](https://amarullz.com/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/amarullz/AnimeTV" />
 
 
