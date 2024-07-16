@@ -384,8 +384,9 @@ outline: 1
 
 ## Online
 - [Comic Extra](https://comixextra.com/)
-- [Comics For All](https://comicsforall269084760.wordpress.com/)
-- [Old Comics World](https://oldcomicsworld.blogspot.com/)
+- [Comics For All](https://comicsforall269084760.wordpress.com/) <Badge type="info" text="Old stuff"/>
+- [Digital Comic Museum](https://digitalcomicmuseum.com/) <Badge type="info" text="Old stuff"/>
+- [Old Comics World](https://oldcomicsworld.blogspot.com/) <Badge type="info" text="Old stuff"/>
 - [Read All Comics](https://readallcomics.com/) :glowing-star:
 - [Read Comic Online (.li)](https://readcomiconline.li/) :glowing-star:
 - [Read Comics Online (.ru)](https://readcomicsonline.ru/)
@@ -501,7 +502,6 @@ You can go through [**digital manga info**](/guides/manga/digim) to get more sit
 
 ## Comics
 - [Comics Kingdom](https://comicskingdom.com/)
-- [Cyanide & Happiness](https://explosm.net/)
 - [DC Universe Infinite](https://www.dcuniverseinfinite.com/)
 - [GoComics](https://www.gocomics.com/)
 - [Marvel Unlimited](https://www.marvel.com/unlimited)
