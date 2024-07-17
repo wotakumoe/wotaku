@@ -171,7 +171,6 @@ outline: 1
 # Utility Sites
 
 ## General
-- [Anime Music Quiz](https://animemusicquiz.com/)
 - [Apple Music Artwork Fetcher](https://artwork.thekvt.eu.org/)
 - [Cover Search Engine](https://covers.musichoarders.xyz/) :glowing-star:
 - [Instafest](https://www.instafest.app/)

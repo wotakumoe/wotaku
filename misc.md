@@ -260,9 +260,6 @@ outline: 1
 
 ## Anime & Manga
 - [3x3 Generator](https://gqgs.github.io/3x3-generator/)
-- [Anicheck](https://anicheck.moe/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/gubo97000/aniCheck" />
-- [AniGuessr](https://aniguessr.com/)
-- [Anipool](https://www.anipool.app/)
 - [Randime](https://randime.moe/)
 - [Related Anime](https://relatedanime.com/)
 - [Spin.moe](https://spin.moe/)
@@ -506,17 +503,25 @@ outline: 1
 
 ## Fun sites
 
+### Quiz
+- [AniGuessr](https://aniguessr.com/)
+- [Anicheck](https://anicheck.moe/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/gubo97000/aniCheck" />
+- [Anime Music Quiz](https://animemusicquiz.com/)
+- [AnimeGuess](https://www.animeguess.moe/)
+- [Animerdle](https://www.animerdle.com/)
+- [Anipool](https://www.anipool.app/)
+- [Chiaki Anime Quiz](https://chiaki.site/?/quiz)
+- [Guess The Anime Opening](https://guesstheopening.com/anime)
+
+
+### Others
 - [AIDN](https://aidn.jp/contents/)
-- [Anianimals](https://www.anianimals.moe/)
+- [AniAnimals.moe](https://www.anianimals.moe/)
 - [Anime Bath Scene Wiki](https://animebathscenewiki.com/index.php?title=Main_Page)
 - [Anime Girls Holding Programming Books](https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/)
-- [Endless Eight](https://endless8.moe/)
 - [HUNTER×HUNTER Hiatus Chart](https://hiatus-hiatus.github.io/)
-- [Satania](https://satania.moe/)
-- [Smug](https://smug.moe/)
 - [TV Tropes](https://tvtropes.org/)
-- [VAGABOND HIATUS CHART](https://vagabond-hiatus-chart.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/falsepopsky/vagabond-hiatus-chart" />
-- [Wanwan](https://wanwan.moe/)
+- [Vagabond Hiatus Chart](https://vagabond-hiatus-chart.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/falsepopsky/vagabond-hiatus-chart" />
 - [Wired Sound For Wired People](https://fauux.neocities.org/)
 
 ## Recommendations
