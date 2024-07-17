@@ -401,9 +401,6 @@ outline: 1
 - [Libgen](https://libgen.li/)
 
 ## Others
-- **Tracker**
-  - [League of Comic Geeks](https://leagueofcomicgeeks.com/)
-  - [Comic Vine](https://comicvine.gamespot.com/)
 - **Info**
   - [CMRO](https://cmro.travis-starnes.com/)
   - [Comic Book Herald](https://www.comicbookherald.com/)
@@ -413,6 +410,12 @@ outline: 1
   - [Comic Watch](https://comic-watch.com/)
   - [Marvel Guides](https://marvelguides.com/)
   - [The Comics Journal](https://www.tcj.com/)
+- **Tools**
+  - [Mylar3](https://github.com/mylar3/mylar3)
+  - [Kapowarr](https://casvt.github.io/Kapowarr/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/Casvt/Kapowarr" />
+- **Tracker**
+  - [League of Comic Geeks](https://leagueofcomicgeeks.com/)
+  - [Comic Vine](https://comicvine.gamespot.com/)
 
 ![](/banner/wpt.png)
 # Private Trackers
