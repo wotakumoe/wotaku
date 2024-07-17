@@ -19,6 +19,6 @@ jobs:
         ssh-keyscan -H ${{ secrets.SSH_HOST }} > ~/.ssh/known_hosts
     - name: connect and pull
       run: |
-        ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} "cd ${{ secrets.WORK_DIR }} && git reset --hard origin/main && git pull && pnpm i && pnpm run docs:build && cp -u -R /home/wotaku/htdocs/github/.vitepress/dist/* /home/wotaku/htdocs/wotaku.moe && exit"
+        ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} "cd ${{ secrets.WORK_DIR }} && git reset --hard origin/main && git pull && pnpm i && pnpm run docs:build && cp -u -R /home/wotaku/htdocs/github/.vitepress/dist/* /home/wotaku/htdocs/wotaku.moe && sleep 4 && curl --request POST --url https://api.cloudflare.com/client/v4/zones/${{ secrets.cf_zone_id }}/purge_cache --header 'Content-Type: application/json' --header 'X-Auth-Email: ${{ secrets.cf_account_mail }}' --header 'Authorization: Bearer ${{ secrets.cf_api_token }}' --data '{"purge_everything": true}' && exit"
     - name: cleanup
       run: rm -rf ~/.ssh
