@@ -19,7 +19,7 @@ jobs:
         ssh-keyscan -H ${{ secrets.SSH_HOST }} > ~/.ssh/known_hosts
     - name: connect and pull
       run: |
-        ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} "cd ${{ secrets.WORK_DIR }} && git reset --hard origin/main && git pull && pnpm i && pnpm run docs:build && cp -u -R /home/wotaku/htdocs/github/.vitepress/dist/* /home/wotaku/htdocs/wotaku.moe && exit"
+        ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} "cd ${{ secrets.WORK_DIR }} && git reset --hard origin/main && git pull && pnpm i && pnpm run docs:build && rsync -av --update --delete /home/wotaku/htdocs/github/.vitepress/dist/ /home/wotaku/htdocs/wotaku.moe/ && exit"
     - name: Purge Cloudflare Cache
       run: |
         curl --request POST \
