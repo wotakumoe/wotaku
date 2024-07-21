@@ -484,13 +484,14 @@ outline: 1
   - [Mangamo](https://www.mangamo.com/)
   - [Shonen Jump](https://www.viz.com/sj-offer)
   - [YURI HUB](https://www.yurihub.com/)  <Badge type="danger" text="18+" />
-- **Manwha & Manhua**
+- **Manhwa & Manhua**
   - [Lezhin](https://www.lezhinus.com/en)
   - [Manta](https://manta.net/en)
   - [Pocket Comics](https://www.pocketcomics.com/)
   - [Tapas](https://tapas.io/)
   - [Tappytoon](https://www.tappytoon.com/en/comics/home)
-  - [Webtoons](https://www.webtoons.com/en/)
+  - [WebComics](https://webcomicsapp.com/)
+  - [Webtoon](https://www.webtoons.com/en/)
 
 ::: info More sites
 You can go through [**digital manga info**](/guides/manga/digim) to get more sites including sites for volume releases.
