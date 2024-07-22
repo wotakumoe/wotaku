@@ -15,6 +15,7 @@ outline: 2
 - [Free GOG PC Games](https://freegogpcgames.com/)
 - [Gload](https://gload.to/)
 - [GOG Games](https://gog-games.to/)
+- [Japanese PC Compendium](https://japanesepccompendium.blogspot.com/)
 - [Legends World](https://legendsworld.net/main/legendsworld/)
 - [Moriya Shrine](https://moriyashrine.org/) <Badge type="info" text="Touhou" />
 - [My Abandonware](https://www.myabandonware.com/)
@@ -30,10 +31,11 @@ outline: 2
 
 ### General
 - [/r/Roms Megathread](https://r-roms.github.io/) :glowing-star:
-- [ROMSpure](https://romspure.cc/roms)
 - [CDRomance](https://cdromance.com/)
 - [Crocdb](https://crocdb.net/)
 - [Myrient](https://myrient.erista.me/)
+- [Romheaven](https://romheaven.com/) <Badge type="info" text="2" link="https://romheaven.su/" />
+- [ROMsPURE](https://romspure.cc/roms)
 - [AlvRo's Collection](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml)
 
 ### Platform Specific
