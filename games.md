@@ -32,6 +32,7 @@ outline: 2
 - [/r/Roms Megathread](https://r-roms.github.io/) :glowing-star:
 - [ROMSpure](https://romspure.cc/roms)
 - [CDRomance](https://cdromance.com/)
+- [Crocdb](https://crocdb.net/)
 - [Myrient](https://myrient.erista.me/)
 - [AlvRo's Collection](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml)
 
