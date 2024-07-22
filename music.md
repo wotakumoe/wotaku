@@ -149,6 +149,7 @@ outline: 1
 - [JPopSuki](http://jpopsuki.fm/) <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="http://jpopsuki.fm:2199/tunein/jpopsuki-stream.pls" />
 - [Stereo Anime](https://www.stereoanime.net/) <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="http://yp.shoutcast.com/sbin/tunein-station.m3u?id=99543276" /> :flag-spain:
 - [AnimeRadio.de](https://www.animeradio.de/) <tooltip>Stream URL (192kbps) : https://stream.animeradio.de/animeradio.mp3</tooltip> :flag-germany:
+- [Kibo.FM](https://kibo.fm/) <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://kibo.fm/kibo.m3u" /> :flag-germany:
 - [Rádio Animu](https://www.animu.com.br/) <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="http://yp.shoutcast.com/sbin/tunein-station.m3u?id=99545187" /> :flag-brazil:
 - [Radio Anime24](https://www.radioanime24.pl/) <tooltip>Stream URL (320kbps) : http://91.232.4.33:7028</tooltip> :flag-poland:
 
