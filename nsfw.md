@@ -114,6 +114,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 
 ## Android
 - [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY)
+- [Komikku](https://github.com/komikku-app/komikku)
 - [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta)
 - [EhViewer](https://github.com/FooIbar/EhViewer)
 - [ErosFE](https://github.com/3003h/Eros-FE)
