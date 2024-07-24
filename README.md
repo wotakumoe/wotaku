@@ -53,4 +53,4 @@ You can submit any feedback in our [discord server](https://discord.gg/vShRGx8ZB
 
 # Wotaku Star History
 
-![Stargazers over time](https://starchart.cc/anotherduckling/Wotaku.svg?variant=adaptive)
+![Stargazers over time](https://starchart.cc/wotakumoe/Wotaku.svg?variant=adaptive)

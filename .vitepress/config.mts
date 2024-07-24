@@ -97,7 +97,7 @@ export default defineConfig({
       },
       GitChangelog({
         maxGitLogCount: 2000,
-        repoURL: () => "https://github.com/anotherduckling/Wotaku",
+        repoURL: () => "https://github.com/wotakumoe/Wotaku",
       }),
       GitChangelogMarkdownSection(),
     ],

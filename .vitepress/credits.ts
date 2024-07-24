@@ -20,8 +20,8 @@ export const contribs = {
     },
     {
       name: "Duck",
-      avatar: "https://github.com/anotherduckling.png",
-      site: "https://github.com/anotherduckling",
+      avatar: "https://github.com/woducku.png",
+      site: "https://github.com/woducku",
     },
     {
       name: "Memenami",
