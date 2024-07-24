@@ -18,7 +18,7 @@ outline: [2,3]
   - [KickAssAnime](https://www1.kickassanime.mx/)
   - [Animepahe](https://animepahe.ru/) `Mini-Encode`
 - **Download**
-  - [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" /><Badge type="info" text="Alt" link="https://animetime.cc/" /> <Badge type="info" text="Torrent" />
+  - [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" /> <Badge type="info" text="Torrent" />
   - [Tokyo Insider](https://www.tokyoinsider.com/) <Badge type="info" text="Direct" />
   - [Kayo anime](https://kayoanime.com/) <Badge type="info" text="Direct" /> `Batch`
 
@@ -48,7 +48,7 @@ outline: [2,3]
   - [Mangadex](https://mangadex.org/)
   - [Mangasee](https://mangasee123.com/) <Badge type="tip" text="Alt" link="https://atsu.moe/" />
 - **Download**
-  - [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" /><Badge type="info" text="Alt" link="https://animetime.cc/" /> <Badge type="info" text="Torrent" />
+  - [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" /> <Badge type="info" text="Torrent" />
   - [Madokami](https://manga.madokami.al) :glowing-star: <Badge type="info" text="Guide" link="/guides/manga/madokami" />
   - [Library Genesis](https://libgen.li/)
 
