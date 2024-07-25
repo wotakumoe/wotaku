@@ -311,7 +311,6 @@ If you have recommendations for good sites in your native language or want to re
 ## Anime
 
 - [Anime Saturn](https://www.animesaturn.tv/)
-- [Anime Force](https://www.animeforce.it/)
 
 ## Others
 
