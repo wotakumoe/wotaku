@@ -50,7 +50,7 @@ outline: [2,3]
 - **Download**
   - [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" /> <Badge type="info" text="Torrent" />
   - [Madokami](https://manga.madokami.al) :glowing-star: <Badge type="info" text="Guide" link="/guides/manga/madokami" />
-  - [Library Genesis](https://libgen.li/)
+  - [Library Genesis](https://libgen.gs/)
 
 ### Software
 
