@@ -72,7 +72,6 @@ outline: [2,3]
 - [Jisho](https://jisho.org/)
 - [jpdb.io](https://jpdb.io/)
 - [ichi.moe](https://ichi.moe/)
-- [gengo.tech](https://gengo.tech/)
 - [JapanDict](https://www.japandict.com/)
 - [Japanese KANJI Names Dictionary](https://kanji.reader.bz/en/)
 - [Kanjipedia](https://www.kanjipedia.jp/)
