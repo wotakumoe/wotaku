@@ -265,8 +265,8 @@ If you have recommendations for good sites in your native language or want to re
 - [ToonStream](https://toonstream.day/)
 
 ### DDL
-- [1XAnime](https://www.1xanime.in/)
-- [Anilot](https://anilot.in/)
+- [1XAnime](https://www.1xanimes.in/)
+- [Animeraja](https://www.animeraja.in/)
 - [Anime Academy](https://animeacademy.in/)
 - [ATOZ CARTOONIST](https://www.atozcartoonist.com/)
 - [Puretoons](https://puretoons.in/)
@@ -274,7 +274,6 @@ If you have recommendations for good sites in your native language or want to re
 - [Toonhub4u](https://toonhub4u.net/)
 - [ToonsHub](https://www.toonshub.xyz/)
 - [Toonworld4all](https://toonworld4all.me/)
-- [Toonworld Tamil](https://toonworldtamil.com)
 
 <br>
 
@@ -285,7 +284,6 @@ If you have recommendations for good sites in your native language or want to re
 - [Indonesian Fansubbers' Index](https://www.fansub.id/home)
 - [Anichin](https://anichin.vip/)
 - [Anime Indo](https://animeindo.cfd/)
-- [AnimeForce](https://www.animeforce.it/)
 - [AnimeSail](https://154.26.137.28/)
 - [Anoboy](https://anoboy.ch/)
 - [Kazefuri](https://kazefuri.net/)
@@ -381,7 +379,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Anime Zone](https://www.animezone.pl/)
 - [Desu Online](https://desu-online.pl/)
 - [Docchi](https://docchi.pl/) <Badge text="GitHub" link="https://github.com/docchipl/shinden-description" />
-- [Dragon Subs](https://dragonsubs.pl/)
 - [Frixy Subs](https://frixysubs.pl/)
 - [Fumetsu](https://fumetsu.pl/)
 - [Grupa Mirai](https://www.grupa-mirai.pl/)
