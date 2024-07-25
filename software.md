@@ -248,6 +248,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) :ic-baseline-window::ic-baseline-apple:<tooltip><ul><li>Supports mostly nsfw sites but works great for the supported ones</li></ul></tooltip>
 - [Mangadex Downloader](https://github.com/mansuf/mangadex-downloader) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<tooltip><ul><li>CLI based</li><li>Mangadex downloader</li><li>Easy to use and fast</li></ul></tooltip>
 - [Manga downloader](https://github.com/xuzhengyi1995/Manga_downloader)
+- [Manga Scraper](https://github.com/YofaGh/MangaScraper)
 
 :::
 
