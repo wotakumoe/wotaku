@@ -384,6 +384,7 @@ outline: 1
 
 ## Online
 - [Comic Extra](https://comixextra.com/)
+- [Comic Book Plus](http://comicbookplus.com/) <Badge type="info" text="Old stuff"/>
 - [Comics For All](https://comicsforall269084760.wordpress.com/) <Badge type="info" text="Old stuff"/>
 - [Digital Comic Museum](https://digitalcomicmuseum.com/) <Badge type="info" text="Old stuff"/>
 - [Old Comics World](https://oldcomicsworld.blogspot.com/) <Badge type="info" text="Old stuff"/>
