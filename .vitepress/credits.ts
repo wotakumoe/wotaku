@@ -63,9 +63,8 @@ export const contribs = {
       site: "https://github.com/farahnur42",
     },
     {
-      name: "gengotech",
-      avatar: "https://github.com/gengotech.png",
-      site: "https://github.com/gengotech",
+      name: "nuff",
+      avatar: "/pfp/nuff.png",
     },
     {
       avatar: "/pfp/green.webp",
