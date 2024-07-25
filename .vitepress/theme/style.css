@@ -312,3 +312,8 @@ main figure figcaption {
   margin-top: 1rem; /* Adjust the top margin as needed */
   margin-bottom: 1rem; /* Adjust the bottom margin as needed */
 }
+
+.vp-doc._credits div h1 {
+  margin-top: 35px;
+  margin-bottom: 15px;
+}
