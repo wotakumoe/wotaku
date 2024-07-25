@@ -567,12 +567,8 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Unime](https://unime.vercel.app/) <Badge text="GitHub" link="https://github.com/huy232/Unime" />
 
 ## Manga
-
-- [Bao Tang Truyen Tranh](https://baotangtruyengo.com/)
 - [Raiku](https://mangaraiku.eu.org)
-- [Kyoto manga](https://kyotomanga.live/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/leephan2k1/manga-app" />
-- [Net Truyen](https://www.nettruyenplus.com/)
-- [Blog Truyen](https://blogtruyen.vn/)
+- [Blog Truyen](https://blogtruyenmoi.com/)
 
 ## Others
 
