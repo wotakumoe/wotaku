@@ -399,7 +399,7 @@ outline: 1
 - [Desuarchive](https://desuarchive.org/) <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
 - [Get Comics](https://getcomics.info/) :glowing-star:
 - [Comics All](https://comics-all.com/) <Badge type="tip" text="2" link="https://newcomic.info/" />
-- [Libgen](https://libgen.li/)
+- [Libgen](https://libgen.gs/)
 
 ## Others
 - **Info**
