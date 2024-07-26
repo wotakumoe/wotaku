@@ -479,10 +479,10 @@ outline: 1
   - [Comikey](https://comikey.com/)
   - [INKR](https://comics.inkr.com/)
   - [KManga](https://kmanga.kodansha.com/) :flag-united-states:
-  - [Renta](https://www.ebookrenta.com/)
   - [Manga Plus](https://mangaplus.shueisha.co.jp/)
   - [Manga UP!](https://global.manga-up.com/)
   - [Mangamo](https://www.mangamo.com/)
+  - [Renta](https://www.ebookrenta.com/)
   - [Shonen Jump](https://www.viz.com/sj-offer) <tooltip>Available in the United States, Canada, the United Kingdom, Ireland, New Zealand, Australia, South Africa, the Philippines, Singapore, and India.</tooltip> 
   - [VIZ Manga](https://www.viz.com/vm-offer) <tooltip>Available in the United States, the United Kingdom, Canada, Australia, New Zealand and Ireland.</tooltip> 
   - [YURI HUB](https://www.yurihub.com/)  <Badge type="danger" text="18+" />
@@ -512,7 +512,7 @@ You can go through [**digital manga info**](/guides/manga/digim) to get more sit
 
 ## Comics
 - [Comics Kingdom](https://comicskingdom.com/)
-- [DC Universe Infinite](https://www.dcuniverseinfinite.com/)
+- [DC Universe Infinite](https://www.dcuniverseinfinite.com/) <tooltip>Available in the United States, the United Kingdom, Canada, Australia and New Zealand.</tooltip>
 - [GoComics](https://www.gocomics.com/)
 - [Marvel Unlimited](https://www.marvel.com/unlimited)
 
