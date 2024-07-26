@@ -478,12 +478,13 @@ outline: 1
   - [Azuki](https://www.azuki.co/)
   - [Comikey](https://comikey.com/)
   - [INKR](https://comics.inkr.com/)
-  - [KManga](https://kmanga.kodansha.com/)
+  - [KManga](https://kmanga.kodansha.com/) :flag-united-states:
   - [Renta](https://www.ebookrenta.com/)
   - [Manga Plus](https://mangaplus.shueisha.co.jp/)
   - [Manga UP!](https://global.manga-up.com/)
   - [Mangamo](https://www.mangamo.com/)
-  - [Shonen Jump](https://www.viz.com/sj-offer)
+  - [Shonen Jump](https://www.viz.com/sj-offer) <tooltip>Available in the United States, Canada, the United Kingdom, Ireland, New Zealand, Australia, South Africa, the Philippines, Singapore, and India.</tooltip> 
+  - [VIZ Manga](https://www.viz.com/vm-offer) <tooltip>Available in the United States, the United Kingdom, Canada, Australia, New Zealand and Ireland.</tooltip> 
   - [YURI HUB](https://www.yurihub.com/)  <Badge type="danger" text="18+" />
 - **Manhwa & Manhua**
   - [Lezhin](https://www.lezhinus.com/en)
