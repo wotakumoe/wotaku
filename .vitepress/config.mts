@@ -59,7 +59,7 @@ export default defineConfig({
       },
     ],
   ],
-  srcExclude: ["README.md", "sandbox/"],
+  srcExclude: ["README.md", "/sandbox/"],
   sitemap: {
     hostname: hostname,
   },
