@@ -314,7 +314,7 @@ If you have recommendations for good sites in your native language or want to re
 - [YuuManga](https://yuumanga.blogspot.com/)
 
 ## Light Novels
-- [BacaLightNovel/](https://bacalightnovel.co/)
+- [BacaLightNovel](https://bacalightnovel.co/)
 - [Meionovel](https://meionovel.id/)
 - [Novelgo](https://novelgo.id/)
 - [Sakuranovel](https://sakuranovel.id/)
