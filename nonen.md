@@ -198,20 +198,27 @@ If you have recommendations for good sites in your native language or want to re
 
 ## Anime
 
+- [AnimeKO](https://animeko.co/)
+- [Anime-Sama](https://anime-sama.fr/)
 - [Anime vostfr](https://animevostfr.tv/)
-- [Anime sama](https://anime-sama.fr/)
-- [Franime](https://franime.fr/)
-- [Jet Anime](https://vww.jetanimes.com/)
-- [Neko-sama](https://www.neko-sama.fr/)
-- [Toon Anime](https://v2.toonanime.tv/)
+- [FRAnime](https://franime.fr/)
+- [French Anime](https://french-anime.com/)
+- [JetAnime](https://vww.jetanimes.com/)
+- [Mavanimes](https://mavanimes.cc/)
+- [Neko Sama](https://www.neko-sama.fr/)
+- [OtakuFR](https://otakufr.cc/)
+- [Sekai](https://sekai.one/)
+- [Streaming-integrale](https://streaming-integrale.com/)
 - [Voiranime](https://v3.voiranime.com/)
 - [Vostfree](https://vostfree.ws/)
 
 ## Manga
 
-- [JapScan](https://www.japscan.lol/)
-- [Bento Manga](https://www.bentomanga.com/)
-- [Sushi Scan](https://sushiscan.net/)
+- [Japscan](https://www.japscan.lol/)
+- [Mangadraft](https://www.mangadraft.com/)
+- [Raijin Scans](https://raijinscans.fr/)
+- [Planete-BD](https://planete-bd.org/)
+- [Sushi-Scan](https://sushiscan.net/)
 
 ## Others
 ### PC
@@ -229,6 +236,7 @@ If you have recommendations for good sites in your native language or want to re
 - [Anime Loads](https://www.anime-loads.org/) <Badge type="info" text="Stream" /><Badge type="info" text="DDL" />
 - [Animes](https://www.animes.so/) <Badge type="info" text="Needs account" /><Badge type="info" text="DDL" />
 - [NanaOne](https://nanaone.net/) <Badge type="info" text="DDL" />
+- [S.to](https://s.to/) <Badge type="info" text="Stream" />
 
 ## Manga
 
@@ -397,10 +405,10 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Frixy Subs](https://frixysubs.pl/)
 - [Fumetsu](https://fumetsu.pl/)
 - [Grupa Mirai](https://www.grupa-mirai.pl/)
-- [Mior Subs](https://miorosubs.pl/)
-- [Nana Subs](https://nanasubs.com/)
+- [Mioro-Subs](https://miorosubs.pl/)
+- [NanaSubs](https://nanasubs.com/)
 - [Oglądaj Anime](https://ogladajanime.pl/)
-- [Okami-subs](https://okami-subs.pl/)
+- [Okami-Subs](https://okami-subs.pl/)
 - [Shinden](https://shinden.pl/main)
 - [Wbijam](https://web.archive.org/web/20240327095022/https://wbijam.pl/)  <Badge text="Players DB" link="https://docs.google.com/spreadsheets/d/1fnl__p0FmHxVLXBgtZmsYji6156z7i_4" />
 
@@ -435,6 +443,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 ## Anime
 - [AnimeAZU](https://www.animeazu.net/)
 - [Anime Kage](https://ak538.anime-kage.eu/)
+- [DozaAnimata](https://www.dozaanimata.net/)
 
 <br>
 
