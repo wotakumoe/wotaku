@@ -262,6 +262,7 @@ If you have recommendations for good sites in your native language or want to re
 - [Animeworld](https://anime-world.in/)
 - [Ani/Time](https://anitime.aniwow.in/)
 - [Dora Bash](https://doraemontheanime.com/)
+- [HindiAnime](https://hindianime.fun/)
 - [ToonStream](https://toonstream.day/)
 
 ### DDL
@@ -393,6 +394,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 # Portuguese
 
 ## Anime
+- [AniBunker](https://www.anibunker.com/)
 - [Anime Fire](https://animefire.net/)
 - [Animes House](https://animeshouse.app/)
 - [Animes Zone](https://animeszone.net/)
@@ -560,7 +562,10 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 ## Anime
 - [Ani4u](https://ani4u.org/)
 - [AnimeVsub](https://animevsub.eu.org/) <Badge text="GitHub" link="https://github.com/anime-vsub/desktop-web" />
+- [HHNINJA6](https://hhninja6.tv/)
 - [Unime](https://unime.vercel.app/) <Badge text="GitHub" link="https://github.com/huy232/Unime" />
+- [Vui Ghe](https://vuighe3.com/)
+- [WebLinhTinh](https://weblinhtinh.net/)
 
 ## Manga
 - [Raiku](https://mangaraiku.eu.org)
