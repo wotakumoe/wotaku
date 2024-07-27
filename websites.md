@@ -383,23 +383,23 @@ outline: 1
 # Comics
 
 ## Online
+- [Comic Book Plus](http://comicbookplus.com/) <Badge type="info" text="Vintage"/>
 - [Comic Extra](https://comixextra.com/)
-- [Comic Book Plus](http://comicbookplus.com/) <Badge type="info" text="Old stuff"/>
-- [Comics For All](https://comicsforall269084760.wordpress.com/) <Badge type="info" text="Old stuff"/>
-- [Digital Comic Museum](https://digitalcomicmuseum.com/) <Badge type="info" text="Old stuff"/>
-- [Old Comics World](https://oldcomicsworld.blogspot.com/) <Badge type="info" text="Old stuff"/>
+- [Digital Comic Museum](https://digitalcomicmuseum.com/) <Badge type="info" text="Vintage"/>
 - [Read All Comics](https://readallcomics.com/) :glowing-star:
 - [Read Comic Online (.li)](https://readcomiconline.li/) :glowing-star:
-- [Read Comics Online (.ru)](https://readcomicsonline.ru/) :glowing-star:
+- [Read Comics Online (.ru)](https://readcomicsonline.ru/)
 - [View Comics](https://azcomix.net/)
-- [XOXO Comics](https://xoxocomic.com/) :glowing-star:
+- [XOXO Comics](https://xoxocomic.com/)
 
 ## Direct Download
 - [Anna’s Archive](https://annas-archive.org/)
+- [Comics All](https://comics-all.com/) <Badge type="tip" text="2" link="https://newcomic.info/" />
+- [Comics For All](https://comicsforall269084760.wordpress.com/) <Badge type="info" text="Vintage"/>
 - [Desuarchive](https://desuarchive.org/) <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
 - [Get Comics](https://getcomics.info/) :glowing-star:
-- [Comics All](https://comics-all.com/) <Badge type="tip" text="2" link="https://newcomic.info/" />
 - [Library Genesis](https://libgen.gs/)
+- [Old Comics World](https://oldcomicsworld.blogspot.com/) <Badge type="info" text="Vintage"/>
 
 ## Others
 - **Info**
