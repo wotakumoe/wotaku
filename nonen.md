@@ -250,6 +250,13 @@ If you have recommendations for good sites in your native language or want to re
 
 <br>
 
+# Hebrew
+
+## Anime
+- [AnimeIL-TV](https://www.animeil-tv.com/)
+
+<br>
+
 # Indian
 
 ## Anime
@@ -257,9 +264,9 @@ If you have recommendations for good sites in your native language or want to re
 ### Stream
 - [AllWish](https://all-wish.me/home)
 - [Anime Fever](https://animefever.fun/)
+- [Anime World](https://anime-world.in/)
 - [Animerulz](https://animerulz.pro/home/)
 - [Anplay](https://anplay.in/)
-- [Animeworld](https://anime-world.in/)
 - [Ani/Time](https://anitime.aniwow.in/)
 - [Dora Bash](https://doraemontheanime.com/)
 - [HindiAnime](https://hindianime.fun/)
@@ -289,10 +296,11 @@ If you have recommendations for good sites in your native language or want to re
 - [Anoboy](https://anoboy.ch/)
 - [Kazefuri](https://kazefuri.net/)
 - [Kuramanime](https://kuramanime.net/)
-- [Mynimeku](https://www.mynimeku.com/)
-- [Neonime](https://neonime.fun/)
 - [Kusonime](https://kusonime.com/) <Badge type="info" text="DDL" />
 - [Meownime](https://m.meownime.ai/) <Badge type="info" text="DDL" />
+- [Mynimeku](https://www.mynimeku.com/)
+- [Neonime](https://neonime.fun/)
+- [Otaku Desu](https://otakudesu.cloud/)
 - [Perpusindo](https://www.perpusindo.info/)
 - [Samehadaku](https://samehadaku.email/)
 
@@ -303,7 +311,13 @@ If you have recommendations for good sites in your native language or want to re
 - [Mangaku](https://mangaku.fun/)
 - [Ryukomik](https://komik.ryukoproject.app/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/AzwarKusumah/ryukomik" />
 - [Shinigami ID](https://shinigami.id/)
+- [YuuManga](https://yuumanga.blogspot.com/)
 
+## Light Novels
+- [BacaLightNovel/](https://bacalightnovel.co/)
+- [Meionovel](https://meionovel.id/)
+- [Novelgo](https://novelgo.id/)
+- [Sakuranovel](https://sakuranovel.id/)
 
 <br>
 
@@ -312,6 +326,7 @@ If you have recommendations for good sites in your native language or want to re
 ## Anime
 
 - [Anime Saturn](https://www.animesaturn.tv/)
+- [AnimeWorld](https://www.animeworld.so/)
 
 ## Others
 

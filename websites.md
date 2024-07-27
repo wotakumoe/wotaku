@@ -390,7 +390,7 @@ outline: 1
 - [Old Comics World](https://oldcomicsworld.blogspot.com/) <Badge type="info" text="Old stuff"/>
 - [Read All Comics](https://readallcomics.com/) :glowing-star:
 - [Read Comic Online (.li)](https://readcomiconline.li/) :glowing-star:
-- [Read Comics Online (.ru)](https://readcomicsonline.ru/)
+- [Read Comics Online (.ru)](https://readcomicsonline.ru/) :glowing-star:
 - [View Comics](https://azcomix.net/)
 - [XOXO Comics](https://xoxocomic.com/) :glowing-star:
 
