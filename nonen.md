@@ -585,8 +585,11 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 ## Anime
 - [Ani4u](https://ani4u.org/)
+- [Anime47](https://anime47.link/)
+- [AnimeHay](https://animehay.in/)
 - [AnimeVsub](https://animevsub.eu.org/) <Badge text="GitHub" link="https://github.com/anime-vsub/desktop-web" />
 - [HHNINJA6](https://hhninja6.tv/)
+- [Phimplay](https://phimplay24h.com/)
 - [Unime](https://unime.vercel.app/) <Badge text="GitHub" link="https://github.com/huy232/Unime" />
 - [Vui Ghe](https://vuighe3.com/)
 - [WebLinhTinh](https://weblinhtinh.net/)
