@@ -133,7 +133,7 @@ outline: 1
 - [SunXDCC](https://sunxdcc.com/)
 - [Anidex](https://xdcc.anidex.moe/) (`Michiko` bot is over at `#Doki`)
 
-<Button link="/guides/irc" icon="i-octicon-command-palette-16">To learn how to use IRC, you can read the guide</Button>
+<Button link="/guides/tech/irc" icon="i-octicon-command-palette-16">To learn how to use IRC, you can read the guide</Button>
 
 
 ::: details :material-symbols-subdirectory-arrow-right: Related resources
