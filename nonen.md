@@ -605,3 +605,5 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Raiku](https://github.com/manga-raiku/raiku-app)
 - [Paperback Extension](https://github.com/huynlx/Extensions-Viet)
 
+### Tokusatsu
+- [Tokuvn](https://tokuvn.com/)
