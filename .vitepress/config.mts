@@ -218,6 +218,7 @@ export default defineConfig({
             text: "Technical",
             collapsed: true,
             items: [
+              { text: "Blocking Ads", link: "/guides/tech/adblock" },
               { text: "Extension Repos", link: "/guides/tech/repo" },
               { text: "IRC & XDCC", link: "/guides/tech/irc" },
               { text: "JDL2 Ad-removal", link: "/guides/tech/jdl" },
@@ -304,6 +305,7 @@ export default defineConfig({
           {
             text: "Technical",
             items: [
+              { text: "Blocking Ads", link: "/guides/tech/adblock" },
               { text: "Extension Repos", link: "/guides/tech/repo" },
               { text: "IRC & XDCC", link: "/guides/tech/irc" },
               { text: "JDL2 Ad-removal", link: "/guides/tech/jdl" },
