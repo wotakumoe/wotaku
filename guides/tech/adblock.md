@@ -26,6 +26,7 @@ Adblocking Solutions for every device
 
 - **Extension**
   - [uBlock Origin](https://github.com/gorhill/uBlock) :glowing-star: :mdi-firefox::mingcute-chrome-fill:
+    - [uBO Website Fixes](https://old.reddit.com/r/uBlockOrigin/wiki/solutions/)
   - [uBO Lite](https://github.com/uBlockOrigin/uBOL-home) :mdi-firefox::mingcute-chrome-fill:
   - [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html) :mdi-firefox::mingcute-chrome-fill:
   - [ClearURLs](https://docs.clearurls.xyz/) :mdi-firefox::mingcute-chrome-fill:
@@ -46,6 +47,7 @@ Adblocking Solutions for every device
   - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)
 
 ::: details More
+- [OpenBLD.net DNS](https://openbld.net/)
 - [AhaDNS](https://blitz-setup.ahadns.com/)
 - [BlahDNS](https://blahdns.com/)
 - [Control D](https://controld.com/free-dns)
@@ -53,11 +55,12 @@ Adblocking Solutions for every device
 - [LibreDNS](https://libredns.gr/)
 :::
 
+### Filters
+
 ::: warning Before adding filters
 Adding a lot of filters to your adblocker (that you don't specifically need) can impact the performance of your browser and cause slowdowns. It may also break the normal capabilities of UBO, so try to stick with the default filters.
 :::
 
-### Filters
 - [Actually Legitimate URL Shortener Tool](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt)
 - [FMHY Filterlist](https://windowsaurora.github.io/FMHYFilterlist/site/index.html)
 - [Hagezi DNS Blocklists](https://github.com/hagezi/dns-blocklists)
