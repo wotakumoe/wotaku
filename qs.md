@@ -31,7 +31,7 @@ outline: [2,3]
 - **iOS**
   - [Mangayomi](https://github.com/kodjodevf/mangayomi)
   - [MiruTV](https://mirutv.app/)
-  - [9Animator](https://github.com/SuperMarcus/NineAnimator)
+  - [Mochi](https://discord.gg/HnETzt89cH)
 - **PC**
   - [Miru](https://miru.watch/) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/ThaUnknown/miru/" /> <Badge type="info" text="Torrent" />
   - [Anikki](https://github.com/Kylart/Anikki) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />

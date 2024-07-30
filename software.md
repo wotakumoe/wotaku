@@ -110,20 +110,20 @@ outline: [1,2]
 # iOS
 
 ## Anime Streaming
-- [9Animator](https://github.com/SuperMarcus/NineAnimator)
+- [9Animator](https://nineanimator.marcuszhou.com/) <Badge type="tip" icon="i-ic-outline-discord" text="Nightly" link="https://discord.gg/dzTVzeW" /> <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/SuperMarcus/NineAnimator" />
 - [Chouten beta](https://testflight.apple.com/join/Cg1rAPB8) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/GJGMJRPJ5j" />
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [MiruTV](https://mirutv.app/)
-- [Soshiki](https://github.com/soshikimoe/soshiki-ios)
+- [Soshiki](https://github.com/soshikimoe/soshiki-ios)  <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="https://phiefferj24.github.io/soshiki-sources/sources.soshikisources" />
 
 ## Manga Readers
 
 ### Online
-- [Paperback](https://github.com/Paperback-iOS/app) <Badge type="tip" text="Sources" link="https://thenetsky.github.io/netskys-extensions/" />
-- [Aidoku](https://github.com/Aidoku/Aidoku) <Badge type="tip" text="Sources" link="https://github.com/Skittyblock/aidoku-community-sources" />
+- [Paperback](https://paperback.moe/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/Paperback-iOS/app" /> <Badge type="tip" text="Sources" link="https://thenetsky.github.io/netskys-extensions/" />
+- [Aidoku](https://aidoku.app/)  <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/Aidoku/Aidoku" /> <Badge type="tip" text="Sources" link="https://github.com/Skittyblock/aidoku-community-sources" />
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
-- [Suwatte](https://suwatte.mantton.com/)  <Badge type="tip" text="Sources" link="https://rentry.co/suwatte" />
-- [Tachimanga](https://tachimanga.github.io/)
+- [Suwatte](https://suwatte.mantton.com/) <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="https://rentry.co/suwatte2" />
+- [Tachimanga](https://tachimanga.github.io/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="https://tachimanga.app/help/guides/adding-repos.html" /> <Badge type="warning" text="Freemium" />
 - [Hanami](https://github.com/oolxg/Hanami)
 
 ### Local
