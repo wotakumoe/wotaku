@@ -123,6 +123,9 @@ outline: [2,3]
 - [RethinkDNS](https://rethinkdns.com/) :mdi-android::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [NextDNS](https://nextdns.io/) :mdi-android::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
+::: tip [**Click here**](/guides/tech/adblock.md) for full adblock solutions.
+:::
+
 ### Browsers
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/browsers/) :mdi-android::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:

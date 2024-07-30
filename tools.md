@@ -30,6 +30,8 @@ outline: [1,2]
   - [dnswarden](https://dnswarden.com/index.html) :mdi-android::ic-baseline-apple:
   - [AhaDNS](https://blitz-setup.ahadns.com/) :mdi-android::ic-baseline-apple:
 
+::: tip [**Click here**](/guides/tech/adblock.md) for full adblock solutions.
+:::
 
 ## Downloader
 
@@ -285,6 +287,8 @@ outline: [1,2]
 - [uBlock Origin](https://github.com/gorhill/uBlock) :glowing-star:
 - [Violentmonkey](https://violentmonkey.github.io/) :glowing-star:
 
+::: tip [**Click here**](/guides/tech/adblock.md) for full adblock solutions.
+:::
 
 ![](/banner/script.png)
 
