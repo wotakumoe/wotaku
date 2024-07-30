@@ -119,8 +119,8 @@ outline: [1,2]
 ## Manga Readers
 
 ### Online
-- [Paperback](https://paperback.moe/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/Paperback-iOS/app" /> <Badge type="tip" text="Sources" link="https://thenetsky.github.io/netskys-extensions/" />
-- [Aidoku](https://aidoku.app/)  <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/Aidoku/Aidoku" /> <Badge type="tip" text="Sources" link="https://github.com/Skittyblock/aidoku-community-sources" />
+- [Paperback](https://paperback.moe/) <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="https://thenetsky.github.io/netskys-extensions/" /><Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/Paperback-iOS/app" />
+- [Aidoku](https://aidoku.app/) <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="https://github.com/Skittyblock/aidoku-community-sources" /><Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/Aidoku/Aidoku" />
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [Suwatte](https://suwatte.mantton.com/) <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="https://rentry.co/suwatte2" />
 - [Tachimanga](https://tachimanga.github.io/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="https://tachimanga.app/help/guides/adding-repos.html" /> <Badge type="warning" text="Freemium" />
