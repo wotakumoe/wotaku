@@ -25,11 +25,11 @@ Adblocking Solutions for every device
 ### Browser
 
 - **Extension**
-  - [uBlock Origin](https://github.com/gorhill/uBlock) :glowing-star:
-  - [BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay)
-  - [FastForward](https://fastforward.team/)
-  - [Buster](https://github.com/dessant/buster)
-  - [NopeCHA](https://nopecha.com/)
+  - [uBlock Origin](https://github.com/gorhill/uBlock) :glowing-star: :mdi-firefox::mingcute-chrome-fill:
+  - [uBO Lite](https://github.com/uBlockOrigin/uBOL-home) :mdi-firefox::mingcute-chrome-fill:
+  - [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html) :mdi-firefox::mingcute-chrome-fill:
+  - [ClearURLs](https://docs.clearurls.xyz/) :mdi-firefox::mingcute-chrome-fill:
+  - [FastForward](https://fastforward.team/) :mdi-firefox::mingcute-chrome-fill:
 - **Script**
   - [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)
   - [Bypass.city](https://bypass.city/how-to-install-userscript)
@@ -52,6 +52,24 @@ Adblocking Solutions for every device
 - [YogaDNS](https://yogadns.com/) :ic-baseline-window:
 - [LibreDNS](https://libredns.gr/)
 :::
+
+::: warning Before adding filters
+Adding a lot of filters to your adblocker (that you don't specifically need) can impact the performance of your browser and cause slowdowns. It may also break the normal capabilities of UBO, so try to stick with the default filters.
+:::
+
+### Filters
+- [Actually Legitimate URL Shortener Tool](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt)
+- [FMHY Filterlist](https://windowsaurora.github.io/FMHYFilterlist/site/index.html)
+- [Hagezi DNS Blocklists](https://github.com/hagezi/dns-blocklists)
+- [Yokoffing Filterlists](https://github.com/yokoffing/filterlists) 
+
+### Annoyances
+
+| Topic | Solutions |
+|-|-|
+| Captcha | [Buster](https://github.com/dessant/buster) :mdi-firefox::mingcute-chrome-fill: <br> [NopeCHA](https://nopecha.com/) :mdi-firefox::mingcute-chrome-fill: |
+| Paywall | [Bypass Paywalls Clean](https://github.com/bpc-clone/bpc_updates) :mdi-firefox::mingcute-chrome-fill: <br> [Bypass Paywalls Clean Filters](https://github.com/bpc-clone/bypass-paywalls-clean-filters) :mdi-filter: |
+| Others | [BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) :mdi-firefox::mingcute-chrome-fill: |
 
 
 ### Site-specific
