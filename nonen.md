@@ -234,7 +234,6 @@ If you have recommendations for good sites in your native language or want to re
 - [AniWorld](https://aniworld.to/) <Badge type="info" text="Stream" />
 - [Anime Archive](https://anime-archive.com/) <Badge type="info" text="DDL" />
 - [Anime Loads](https://www.anime-loads.org/) <Badge type="info" text="Stream" /><Badge type="info" text="DDL" />
-- [Animes](https://www.animes.so/) <Badge type="info" text="Needs account" /><Badge type="info" text="DDL" />
 - [Melon-Subs](https://melon-subs.de/) <Badge type="info" text="DDL" />
 - [NanaOne](https://nanaone.net/) <Badge type="info" text="DDL" />
 - [Shiroi-Fansubs](https://shiroi-fansubs.de/) <Badge type="info" text="DDL" />
@@ -246,6 +245,7 @@ If you have recommendations for good sites in your native language or want to re
 
 ## Others
 ### Community
+- [Animes](https://www.animes.so/) <Badge type="info" text="Needs account" /><Badge type="info" text="DDL" />
 - [Animexx](https://www.animexx.de/)
 - [Baka Board](https://baka-bewerbung.me/form/jPQXDZ) <Badge type="info" text="Usenet" />
 - [myGully](https://mygully.com/) <Badge type="info" text="Needs account" /><Badge type="info" text="DDL" />
