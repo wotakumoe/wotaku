@@ -43,10 +43,10 @@ outline: [1,2]
 - [Hitomi](https://hitomi.la/) <tooltip>Big Library but difficult to navigate.</tooltip>
 - [HentaiRead](https://hentairead.com/)
 - [Panda Backup](https://panda.chaika.moe/) <tooltip>Archive of stuff removed from E-Hentai due to DMCA complaints. Has some obscure stuff deleted on most sites.</tooltip>
-- [Sukidesu/](https://sukidesu.moe/)
+- [Sukidesu](https://sukidesu.moe/)
 - [Yabai](https://yabai.si/)
 
-### English
+### English-only
 - [Faccina](https://fakku.cc/) <tooltip>fakku/irodori rips (official TLs).</tooltip>
 - [Hentai Nexus](https://hentainexus.com/)  <tooltip>fakku/irodori rips (official TLs).</tooltip>
 - [HentaiFox](https://hentaifox.com/ ) <tooltip>Fast Updates and English only library.</tooltip>
