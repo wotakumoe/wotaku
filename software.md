@@ -227,12 +227,10 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Hakuneko](https://hakuneko.download/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/manga-download/hakuneko" /> <tooltip><ul><li>No Crunchyroll implementation</li><li>You have to index each site first, which takes quite a long time, after that the search is almost instant, but loading episodes for anime again takes some time depending on the source.</li><li>Not a great interface, but it does the job, and you can tell it is more thought out for manga.</li><li>Not too many anime sources, some of them do not work.</li></ul></tooltip>
 - [animdl](https://github.com/justfoolingaround/animdl) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<tooltip><ul><li>No UI, terminal based</li><li>Easy to use once installed</li><li>Not too many anime sources, some of them do not work.</li></ul></tooltip>
 - [ADL](https://github.com/RaitaroH/adl) :ic-baseline-window::mingcute-linux-fill:<tooltip><ul><li>No UI, terminal based</li><li>"Complicated" installation, especially on Windows</li><li>Uses many different scripts, including animedl, so lots of functionality</li><li>Tracking capability & many more</li><li>Same amount of sources as AnimDL</li></ul></tooltip>
-
-::: details More
-- [Crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Crunchyroll-Downloader](https://github.com/Crunchy-DL/Crunchy-Downloader) :ic-baseline-window:
-- [Crunchyroll Downloader v3.0](https://github.com/hama3254/Crunchyroll-Downloader-v3.0) :ic-baseline-window:
-:::
+  - :material-symbols-subdirectory-arrow-right: [Guide for getting DRM content](https://simpcity.su/threads/guide-for-getting-drm-content-wip.181199/)
+
+
 
 ### Manga
 
