@@ -20,11 +20,11 @@ outline: [1,2]
 - [AnimeID Hentai](https://animeidhentai.com/)
 - [Haho](https://haho.moe/)
 - [Hanime](https://hanime.tv/) <Badge type="info" text="720p" /> 
+- [Hentai.tv](https://hentai.tv/)
 - [Hentai Bar](https://hentaibar.com/)
 - [Hentai Haven](https://hentaihaven.xxx/)
 - [Hentai Mama](https://hentaimama.io/)
 - [Hentai Stream](https://hstream.moe/) <Badge type="info" text="Upscale" />
-- [Hentai.tv](https://hentai.tv/)
 - [Hentai World](https://hentaiworld.tv/)
 - [Mucho Hentai](https://muchohentai.com/) <Badge type="info" text="Schedule" /><Badge type="info" text="PV" />
 - [Oppai](https://oppai.stream/) <Badge type="info" text="Upscale" />
@@ -32,21 +32,26 @@ outline: [1,2]
 - [Sakura Circle](https://sakuracircle.com/) <Badge type="info" text="DDL" />
 
 ## Manga
+
+### General
 - [E-Hentai](https://e-hentai.org/) <Badge type="tip" text="Search Guide" link="https://e-hentaitagsearch.blogspot.com/" /> <tooltip>It is the mangadex for doujins. Almost every doujin is first uploaded here before being scraped by other sites. Online viewer compresses the images but has the option to download stuff in original quality.<br>
 <a href="https://exhentai.org/">Exhentai</a> is it's sister site, which also hosts the more extreme and questionable content. You'll need an account on e-hentai to gain access.</tooltip>
 - [nHentai](https://nhentai.net/) <tooltip>Most popular. Decent UI but compresses images.</tooltip>
 - [Koharu](https://koharu.to/) <tooltip>fakku/irodori rips (official TLs).</tooltip>
-- [Fakku.cc](https://fakku.cc/) <tooltip>fakku/irodori rips (official TLs).</tooltip>
-- [IMHentai](https://imhentai.xxx/) <tooltip>Big Library and great search filters.</tooltip>
-- [Hentai Nexus](https://hentainexus.com/)  <tooltip>fakku/irodori rips (official TLs).</tooltip>
-- [Hitomi](https://hitomi.la/) <tooltip>Big Library but difficult to navigate.</tooltip>
-- [Hentaifox](https://hentaifox.com/ ) <tooltip>Fast Updates and English only library.</tooltip>
-- [Hentai2read](https://hentai2read.com/) <tooltip>Combines Chapters of a series into a single entry unlike most sites so good to read doujin series.</tooltip>
 - [Akuma](https://akuma.moe/) <tooltip>EHentai clone.</tooltip>
-- [Chaika Panda](https://panda.chaika.moe/) <tooltip>Archive of stuff removed from E-Hentai due to DMCA complaints. Has some obscure stuff deleted on most sites.</tooltip>
+- [IMHentai](https://imhentai.xxx/) <tooltip>Big Library and great search filters.</tooltip>
+- [Hitomi](https://hitomi.la/) <tooltip>Big Library but difficult to navigate.</tooltip>
+- [HentaiRead](https://hentairead.com/)
+- [Panda Backup](https://panda.chaika.moe/) <tooltip>Archive of stuff removed from E-Hentai due to DMCA complaints. Has some obscure stuff deleted on most sites.</tooltip>
+- [Sukidesu/](https://sukidesu.moe/)
+- [Yabai](https://yabai.si/)
+
+### English
+- [Faccina](https://fakku.cc/) <tooltip>fakku/irodori rips (official TLs).</tooltip>
+- [Hentai Nexus](https://hentainexus.com/)  <tooltip>fakku/irodori rips (official TLs).</tooltip>
+- [HentaiFox](https://hentaifox.com/ ) <tooltip>Fast Updates and English only library.</tooltip>
 - [Pururin](https://pururin.to/)
 - [Tsumino](https://www.tsumino.com/)
-- [nyanpantsu](https://nyanpantsu.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/purpleblueslime/nyanpantsu" />
 
 ## Manhwa
 
