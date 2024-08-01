@@ -225,6 +225,14 @@ outline: [1,2]
 - [TeraCopy](https://www.codesector.com/teracopy)
 
 
+## Piracy Sites
+- [RuTracker.org](https://rutracker.org/) :glowing-star:
+- [Soft98](https://soft98.ir/)
+- [Nsane Forums](https://nsaneforums.com/)
+- [LRepacks](https://lrepacks.net/)
+- [Game Bounty](https://gamebounty.world/)
+
+
 ## Discord bots
 
 - [AniSearch](https://github.com/IchBinLeoon/anisearch-discord-bot) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://ichbinleoon.github.io/anisearch-discord-bot/#/" />
