@@ -59,14 +59,16 @@ outline: [1,2]
 ### Aggregator
 - [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13)  <Badge type="info" text="DDL" />
 - [Batoto](https://battwo.com/v3x) <Badge type="tip" text="2" link="https://mangatoto.net/" /><Badge type="tip" text="3" link="https://mangatoto.com/" />
+- [Doujindesu](https://doujindesu.tv/) <Badge type="info" text="Raw" />
 - [Hiperdex](https://hiperdex.com/)
 - [Manga District](https://mangadistrict.com/) :glowing-star:
-- [Manhwas](https://manhwas.men/) <Badge type="tip" text="Raw" /><Badge type="tip" text="Eng" />
+- [Manhwas](https://manhwas.men/) <Badge type="info" text="+Raw" />
 - [Manhwa18](http://manhwa18.com/)
 - [Manytoon](https://manytoon.com/) :glowing-star:
-- [OKToon](https://oktoon.org/webtoon/adult) <Badge type="tip" text="Raw" />
 - [Oppai](https://read.oppai.stream/) :glowing-star: <tooltip>Late releases but less compressed than other aggregators'</tooltip>
+- [Sauce Manhwa](https://saucemanhwa.com/) <Badge type="info" text="+Raw" />
 - [Toomics Free](https://toomicsfree.com/)
+- [TOONKOR](https://toonkor424.com/%EC%9B%B9%ED%88%B0) <Badge type="info" text="Raw" />
 - [Toonily](https://toonily.com/) :glowing-star:
 - [Webtoon](https://www.webtoon.xyz/)
 
