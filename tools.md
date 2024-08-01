@@ -89,6 +89,8 @@ outline: [1,2]
 - **Direct**
   - [Internet Download Manager](https://www.internetdownloadmanager.com/) :ic-baseline-window: <Badge text="Guide" link="https://rentry.org/installidm" />
   - [JDownloader](https://jdownloader.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge text="Debloat" link="/guides/misc#jdownloader-ad-removal" />
+  - [aria2](https://aria2.github.io/)  :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/aria2/aria2" />
+    - [Persepolis](https://persepolisdm.github.io/)  :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/persepolisdm/persepolis" />
   - [Free Download Manager](https://www.freedownloadmanager.org/)
   - [Xtreme Download Manager](https://xtremedownloadmanager.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
   - [MegaBasterd](https://github.com/tonikelope/megabasterd) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge type="tip" text="Account gen" link="https://github.com/qtchaos/py_mega_account_generator" /><Badge type="tip" text="MegaDoctor" link="https://github.com/tonikelope/megadoctor" />
