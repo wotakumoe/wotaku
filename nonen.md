@@ -243,6 +243,7 @@ If you have recommendations for good sites in your native language or want to re
   - [Animeraja](https://www.animeraja.in/)
   - [Anime Academy](https://animeacademy.in/)
   - [ATOZ CARTOONIST](https://www.atozcartoonist.com/)
+  - [Dead Toons India](https://deadtoons.us/)
   - [Puretoons](https://puretoons.in/)
   - [SDToons](https://sdtoons.in/)
   - [Toonhub4u](https://toonhub4u.net/)
