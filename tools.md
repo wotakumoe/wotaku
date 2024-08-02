@@ -87,18 +87,21 @@ outline: [1,2]
 ### General
 
 - **Direct**
-  - [Internet Download Manager](https://www.internetdownloadmanager.com/) :ic-baseline-window: <Badge text="Guide" link="https://rentry.org/installidm" />
+  - [Internet Download Manager](https://www.internetdownloadmanager.com/) :glowing-star: :ic-baseline-window: <Badge text="Guide" link="https://rentry.org/installidm" />
   - [JDownloader](https://jdownloader.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge text="Debloat" link="/guides/misc#jdownloader-ad-removal" />
-  - [aria2](https://aria2.github.io/)  :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/aria2/aria2" />
+  - [aria2](https://aria2.github.io/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/aria2/aria2" />
+    - [AriaNg](https://ariang.mayswind.net/) :mdi-earth::ic-baseline-window::ic-baseline-apple: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/mayswind/AriaNg" />
     - [Persepolis](https://persepolisdm.github.io/)  :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/persepolisdm/persepolis" />
-  - [Free Download Manager](https://www.freedownloadmanager.org/)
+  - [Free Download Manager](https://www.freedownloadmanager.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
   - [Xtreme Download Manager](https://xtremedownloadmanager.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
   - [MegaBasterd](https://github.com/tonikelope/megabasterd) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge type="tip" text="Account gen" link="https://github.com/qtchaos/py_mega_account_generator" /><Badge type="tip" text="MegaDoctor" link="https://github.com/tonikelope/megadoctor" />
 - **Torrent**
-  - [qBittorrent](https://www.qbittorrent.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+  - [qBittorrent](https://www.qbittorrent.org/) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
   - [Deluge](https://www.deluge-torrent.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
   - [Transmission](https://transmissionbt.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-
+  - [TIXATI](https://www.tixati.com/) :ic-baseline-window::mingcute-linux-fill:
+  - [aria2](https://aria2.github.io/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/aria2/aria2" />
+    - [AriaNg](https://ariang.mayswind.net/) :mdi-earth::ic-baseline-window::ic-baseline-apple: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/mayswind/AriaNg" />
 
 ### Media
 
