@@ -79,7 +79,7 @@ Adding a lot of filters to your adblocker (that you don't specifically need) can
 
 | Websites | Solutions |
 |-|-|
-| [Discord](https://discord.com/) | [DisblockOrigin](https://gist.github.com/TheSunCat/58fedaa19d6154ef3e4b2b676c286906) :ic-twotone-css: |
+| [Discord](https://discord.com/) | [Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin) :ic-twotone-css: |
 | [Fandom](https://www.fandom.com/) | [Fandom Fixed](https://github.com/squabbled/FandomFixed) :mdi-language-javascript: |
 | [Spotify](https://www.spotify.com/) |  [Spicetify](https://spicetify.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <br> [SPOTX](https://github.com/SpotX-Official/SpotX) :ic-baseline-window: <br> [SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) :ic-baseline-apple::mingcute-linux-fill: |
 | [Twitch](https://www.twitch.tv/) | [TTV LOL PRO](https://github.com/younesaassila/ttv-lol-pro) :mdi-firefox::mingcute-chrome-fill: <br> [Purple Adblock](https://github.com/arthurbolsoni/Purple-adblock/) :mdi-firefox::mingcute-chrome-fill::mdi-language-javascript:  <br> More [Twitch Ad Solutions](https://github.com/pixeltris/TwitchAdSolutions/blob/master/full-list.md) |
