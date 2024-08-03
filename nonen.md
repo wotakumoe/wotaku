@@ -257,6 +257,7 @@ If you have recommendations for good sites in your native language or want to re
 
 - **Stream**
   - [Indonesian Fansubbers' Index](https://www.fansub.id/home)
+  - [Database Tontonan Wibu Indonesia](https://db.silveryasha.id/)
   - [Anichin](https://anichin.vip/)
   - [Anime Indo](https://animeindo.cfd/)
   - [AnimeSail](https://154.26.137.28/)
