@@ -86,22 +86,32 @@ outline: [1,2]
 
 ### General
 
-- **Direct**
-  - [Internet Download Manager](https://www.internetdownloadmanager.com/) :glowing-star: :ic-baseline-window: <Badge text="Guide" link="https://rentry.org/installidm" />
-  - [JDownloader](https://jdownloader.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge text="Debloat" link="/guides/misc#jdownloader-ad-removal" />
-  - [aria2](https://aria2.github.io/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/aria2/aria2" />
-    - [AriaNg](https://ariang.mayswind.net/) :mdi-earth::ic-baseline-window::ic-baseline-apple: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/mayswind/AriaNg" />
-    - [Persepolis](https://persepolisdm.github.io/)  :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/persepolisdm/persepolis" />
-  - [Free Download Manager](https://www.freedownloadmanager.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-  - [Xtreme Download Manager](https://xtremedownloadmanager.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-  - [MegaBasterd](https://github.com/tonikelope/megabasterd) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge type="tip" text="Account gen" link="https://github.com/qtchaos/py_mega_account_generator" /><Badge type="tip" text="MegaDoctor" link="https://github.com/tonikelope/megadoctor" />
-- **Torrent**
-  - [qBittorrent](https://www.qbittorrent.org/) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-  - [Deluge](https://www.deluge-torrent.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-  - [Transmission](https://transmissionbt.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-  - [TIXATI](https://www.tixati.com/) :ic-baseline-window::mingcute-linux-fill:
-  - [aria2](https://aria2.github.io/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/aria2/aria2" />
-    - [AriaNg](https://ariang.mayswind.net/) :mdi-earth::ic-baseline-window::ic-baseline-apple: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/mayswind/AriaNg" />
+| Software | OS | DDL | P2P | FOSS |
+|-|-|-|-|-|
+| [Internet Download Manager](https://www.internetdownloadmanager.com/) :glowing-star: | :ic-baseline-window: | :check-mark-button: | :cross-mark: | :cross-mark: |
+| [qBittorrent](https://www.qbittorrent.org/) :glowing-star: | :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: | :cross-mark: | :check-mark-button: | :check-mark-button: |
+| [aria2](https://aria2.github.io/) | :octicon-command-palette-16: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
+| [AriaNg](https://ariang.mayswind.net/) | :mdi-earth::ic-baseline-window::ic-baseline-apple: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
+| [ArrowDL](https://www.arrow-dl.com/) | :ic-baseline-window: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
+| [Deluge](https://www.deluge-torrent.org/) | :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: | :cross-mark: | :check-mark-button: | :check-mark-button: |
+| [Free Download Manager](https://www.freedownloadmanager.org/) | :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: | :check-mark-button: | :check-mark-button: | :cross-mark: |
+| [Gopeed](https://gopeed.com/) | :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
+| [JDownloader](https://jdownloader.org/) | :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: | :check-mark-button: | :cross-mark: | :cross-mark: |
+| [libtorrent](https://www.libtorrent.org/index.html) | :octicon-command-palette-16: | :cross-mark: | :check-mark-button: | :check-mark-button: |
+| [MegaBasterd](https://github.com/tonikelope/megabasterd) | :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: | :check-mark-button: | :cross-mark: | :check-mark-button: |
+| [Persepolis](https://persepolisdm.github.io/) | :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: | :check-mark-button: | :cross-mark: | :check-mark-button: |
+| [TIXATI](https://www.tixati.com/) | :ic-baseline-window::mingcute-linux-fill: | :cross-mark: | :check-mark-button: | :check-mark-button: |
+| [Transmission](https://transmissionbt.com/) | :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: | :cross-mark: | :check-mark-button: | :check-mark-button: |
+| [Xtreme Download Manager](https://xtremedownloadmanager.com/) | :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: | :check-mark-button: | :cross-mark: | :check-mark-button: |
+
+#### Related materials
+
+| Software | Materials |
+|-|-|
+| [Internet Download Manager](https://www.internetdownloadmanager.com/) | [Installation Guide](https://rentry.org/installidm) |
+| [qBittorrent](https://www.qbittorrent.org/) | [Theme Index](https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-qBittorrent-themes) <br> [Search Plugins](https://github.com/qbittorrent/search-plugins) <br> [qBitController](https://github.com/Bartuzen/qBitController) <br> [VueTorrent](https://github.com/VueTorrent/VueTorrent) |
+| [JDownloader](https://jdownloader.org/) | [Remove ads](/guides/tech/jdl.md) |
+| [MegaBasterd](https://github.com/tonikelope/megabasterd) | [Account generator](https://github.com/qtchaos/py_mega_account_generator) <br> [MegaDoctor](https://github.com/tonikelope/megadoctor) |
 
 ### Media
 
