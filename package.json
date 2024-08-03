@@ -2,15 +2,15 @@
   "type": "module",
   "scripts": {
     "postinstall": "nitropack prepare",
-    "docs:dev": "vitepress dev",
-    "docs:build": "vitepress build",
-    "docs:preview": "vitepress preview",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
     "api:prepare": "nitropack prepare",
     "api:dev": "nitropack dev",
     "api:build": "nitropack build",
     "api:preview": "node .output/server/index.mjs",
     "format": "prettier --cache -w .",
-    "og:dev": "x-satori -t ./.vitepress/theme/components/OgImageTemplate.vue -c ./.vitepress/hooks/satoriConfig.ts --dev"
+    "og:dev": "x-satori -t ./docs/.vitepress/theme/components/OgImageTemplate.vue -c ./.vitepress/hooks/satoriConfig.ts --dev"
   },
   "dependencies": {
     "@fmhy/colors": "^0.0.11",

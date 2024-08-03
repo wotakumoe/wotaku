@@ -35,7 +35,7 @@ export default defineConfig({
       },
       warn: true,
       collections: {
-        custom: FileSystemIconLoader(resolve(__dirname, "./public/custom")),
+        custom: FileSystemIconLoader(resolve(__dirname, ".docs/public/custom")),
       },
     }),
   ],

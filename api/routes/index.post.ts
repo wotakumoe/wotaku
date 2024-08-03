@@ -1,5 +1,5 @@
 import { fetcher } from "itty-fetcher";
-import { FeedbackSchema, getFeedbackOption } from "../types/Feedback";
+import { FeedbackSchema, getFeedbackOption } from "../../docs/.vitepress/types/Feedback";
 
 export default defineEventHandler(async (event) => {
   const { message, page, type } = await readValidatedBody(event, FeedbackSchema.parseAsync);
