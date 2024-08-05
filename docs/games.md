@@ -134,7 +134,20 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 - [PKHeX](https://github.com/kwsch/PKHeX)
 - [Universal Pokémon Randomizer ZX](https://github.com/Ajarmar/universal-pokemon-randomizer-zx/)
 
+## Sonic
 
+### Wiki / Websites
+- [Sonic City](https://sonic-city.net/)
+- [Sonic Stadium](https://www.sonicstadium.org/)
+- [Sonic Zone](https://soniczone.net/index.html) :glowing-star:
+
+### Fan Games
+- [SAGE](https://sagexpo.org/)
+- [Sonic 1 Forever](https://teamforeveronline.wixsite.com/home/sonic-1-forever)
+- [Sonic 2 Absolute](https://teamforeveronline.wixsite.com/home/sonic-2-absolute)
+- [Sonic 3 A.I.R.](https://sonic3air.org/)
+- [Sonic Robo Blast 2](https://www.srb2.org/)
+- [Sonic Robo Blast 2 Kart](https://mb.srb2.org/threads/srb2kart.25868/)
 
 ## Yu-Gi-Oh!
 
