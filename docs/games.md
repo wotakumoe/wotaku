@@ -143,11 +143,11 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 - [Sonic Zone](https://soniczone.net/index.html) :glowing-star:
 
 ### Fan Games
-- [SAGE](https://sagexpo.org/)
 - [SHC Vault](https://shc.zone/vault/)
 - [Sonic 1 Forever](https://teamforeveronline.wixsite.com/home/sonic-1-forever)
 - [Sonic 2 Absolute](https://teamforeveronline.wixsite.com/home/sonic-2-absolute)
 - [Sonic 3 A.I.R.](https://sonic3air.org/)
+- [Sonic Fan Games HQ](https://sonicfangameshq.com/forums/)
 - [Sonic Project 06](https://archive.org/details/project-06-silver-release)
 - [Sonic Robo Blast 2](https://www.srb2.org/)
 

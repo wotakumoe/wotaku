@@ -424,7 +424,7 @@ outline: 1
 ## Anime
 - [AnimeBytes](https://animebytes.tv/) `General`
 - [AnimeWorld](https://animeworld.cx/) :flag-germany:
-- [Baka BT](https://bakabt.me/)
+- [BakaBT](https://bakabt.me/)
 - [U2](https://u2.dmhy.org/portal.php)
 
 ## Music
