@@ -293,6 +293,13 @@ If you have recommendations for good sites in your native language or want to re
 ### Anime
 - [Anime Saturn](https://www.animesaturn.tv/)
 - [AnimeWorld](https://www.animeworld.so/)
+- [HentaiWorld](https://www.hentaiworld.me/) <Badge type="danger" text="18+" />
+- [One Piece Power](https://onepiecepower.com/anime18/lista-anime)
+
+### Manga
+- [MangaWorld](https://www.mangaworld.ac/)
+- [MangaWorldAdult](https://www.mangaworldadult.net/) <Badge type="danger" text="18+" />
+- [One Piece Power](https://onepiecepower.com/manga8/lista-manga)
 
 ### Others
 
