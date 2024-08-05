@@ -404,7 +404,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 ### Anime
 - [AnimeAZU](https://www.animeazu.net/)
 - [Anime Kage](https://ak538.anime-kage.eu/)
-- [DozaAnimata](https://www.dozaanimata.net/)
+- [DozaAnimată](https://www.dozaanimata.net/)
 
 
 ## Russian
