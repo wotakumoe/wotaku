@@ -15,6 +15,7 @@ A list of other otaku communities to check out based on your specific interests.
 
 - [Animesuki](https://forums.animesuki.com/)
 - [Anime Music Videos](https://www.animemusicvideos.org/forum/)
+- [EvaGeeks](https://forum.evageeks.org/index.php)
 - [Fuwanovel](https://forums.fuwanovel.net/)
 - [Mangadex](https://forums.mangadex.org/)
 - [Manga Helper](https://mangahelpers.com/)
