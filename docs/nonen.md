@@ -202,11 +202,14 @@ If you have recommendations for good sites in your native language or want to re
 - [Shiroi-Fansubs](https://shiroi-fansubs.de/) <Badge type="info" text="DDL" />
 - [S.to](https://s.to/) <Badge type="info" text="Stream" />
 
-### Others
+### Communities
 
-| Category | Resources |
-|-|-|
-| Community | [Animes](https://www.animes.so/) <Badge type="info" text="Needs account" /><Badge type="info" text="DDL" /> <br> [Animexx](https://www.animexx.de/) <br> [Baka Board](https://baka-bewerbung.me/form/jPQXDZ) <Badge type="info" text="Usenet" /> <br> [myGully](https://mygully.com/) <Badge type="info" text="Needs account" /><Badge type="info" text="DDL" /> <br> [Proxer](https://proxer.me/) |
+- [Animes](https://www.animes.so/) <Badge type="info" text="Needs account" /><Badge type="info" text="DDL" />
+- [Animexx](https://www.animexx.de/)
+- [Baka Board](https://baka-bewerbung.me/form/jPQXDZ) <Badge type="info" text="Usenet" />
+- [myGully](https://mygully.com/) <Badge type="info" text="Needs account" /><Badge type="info" text="DDL" />
+- [Proxer](https://proxer.me/)
+
 
 ## Greek
 
