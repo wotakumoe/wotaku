@@ -206,7 +206,7 @@ If you have recommendations for good sites in your native language or want to re
 
 - [Animes](https://www.animes.so/) <Badge type="info" text="Needs account" /><Badge type="info" text="DDL" />
 - [Animexx](https://www.animexx.de/)
-- [Baka Board](https://baka-bewerbung.me/form/jPQXDZ) <Badge type="info" text="Usenet" />
+- [Baka Board](https://baka-bewerbung.me/) <Badge type="info" text="Usenet" />
 - [myGully](https://mygully.com/) <Badge type="info" text="Needs account" /><Badge type="info" text="DDL" />
 - [Proxer](https://proxer.me/)
 
