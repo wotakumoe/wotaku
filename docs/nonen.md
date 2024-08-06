@@ -202,10 +202,6 @@ If you have recommendations for good sites in your native language or want to re
 - [Shiroi-Fansubs](https://shiroi-fansubs.de/) <Badge type="info" text="DDL" />
 - [S.to](https://s.to/) <Badge type="info" text="Stream" />
 
-### Manga
-
-- [ComicMafia](https://comicmafia.to/) <Badge type="info" text="DDL" />
-
 ### Others
 
 | Category | Resources |
