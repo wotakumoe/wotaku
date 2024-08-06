@@ -420,33 +420,13 @@ outline: 1
 ![](/banner/wpt.png)
 # Private Trackers
 
-
-## Anime
-- [AnimeBytes](https://animebytes.tv/) `General`
-- [AnimeWorld](https://animeworld.cx/) :flag-germany:
-- [BakaBT](https://bakabt.me/)
-- [U2](https://u2.dmhy.org/portal.php)
-
-## Music
-- [Redacted](https://redacted.ch/)
-- [JPopsuki](https://jpopsuki.eu/)
-- [Orpheus](https://orpheus.network/)
-- [Sugoi Music](https://sugoimusic.me/)
-- [Bemaniso](https://bemaniso.ws/) `Rhythm`
-- [Aidoru](https://aidoru-online.me/) `Idol`
-
-## Others
-
-- **Games**
-  - [Gazelle Games](https://gazellegames.net/login.php)
-- **Movies & TV**
-  - [AvistaZ](https://avistaz.to/) <Badge type="tip" icon="i-ic-outline-discord" text="Waitlist" link="https://discord.gg/pfmAegk8bD" />
-  - [JPTV.club](https://jptv.club/)
-  - [AsianCinema](https://asiancinema.me/)
-  - [jptvts](https://jptvts.us/)
-- **NSFW**
-  - [ExoticaZ](https://exoticaz.to/) <Badge type="tip" icon="i-ic-outline-discord" text="Waitlist" link="https://discord.gg/pfmAegk8bD" />
-  - [Empornium](https://www.empornium.is/)
+| Category | Websites |
+|-|-|
+| Anime | [AnimeBytes](https://animebytes.tv/) `General` <br> [AnimeWorld](https://animeworld.cx/) :flag-germany: <br> [BakaBT](https://bakabt.me/) <br> [U2](https://u2.dmhy.org/portal.php) |
+| Games | [Gazelle Games](https://gazellegames.net/login.php) |
+| Movies & TV | [AvistaZ](https://avistaz.to/) <Badge type="tip" icon="i-ic-outline-discord" text="Waitlist" link="https://discord.gg/pfmAegk8bD" /> <br> [JPTV.club](https://jptv.club/) <br> [AsianCinema](https://asiancinema.me/) <br> [jptvts](https://jptvts.us/) |
+| Music | [Redacted](https://redacted.ch/) <br> [JPopsuki](https://jpopsuki.eu/) <br> [Orpheus](https://orpheus.network/) <br> [Sugoi Music](https://sugoimusic.me/) <br> [Bemaniso](https://bemaniso.ws/) `Rhythm` <br> [Aidoru](https://aidoru-online.me/) `Idol` |
+| NSFW | [ExoticaZ](https://exoticaz.to/) <Badge type="tip" icon="i-ic-outline-discord" text="Waitlist" link="https://discord.gg/pfmAegk8bD" /> <br> [Empornium](https://www.empornium.is/) |
 
 ::: details :material-symbols-subdirectory-arrow-right: Related resources
 - [InstallGentoo Wiki](https://wiki.installgentoo.com/wiki/Private_trackers)
