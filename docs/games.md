@@ -32,6 +32,7 @@ outline: 2
 ### General
 - [/r/Roms Megathread](https://r-roms.github.io/) :glowing-star:
 - [CDRomance](https://cdromance.com/)
+- [ConsoleRoms](https://www.consoleroms.com/)
 - [Crocdb](https://crocdb.net/)
 - [Myrient](https://myrient.erista.me/)
 - [Romheaven](https://romheaven.com/) <Badge type="info" text="2" link="https://romheaven.su/" />
