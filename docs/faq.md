@@ -104,6 +104,11 @@ There are a few listed in [**software page**](/software.md#anime-streaming-2). [
 
 :::
 
+::: What does VPN do?
+Watch [**Tom Scott's video**](https://youtu.be/WVDQEoe6ZWY) for the explanation.
+
+:::
+
 :::details Do I need VPN while torrenting?
 
 The distribution (here seeding / uploading) of pirated content is illegal. In peer-to-peer (P2P) connections such as torrenting, it exposes your IP to everyone connected. So, it's advisable to use a VPN which will mask your IP. But if your country / ISP doesn't care about pirating stuff, you can skip VPN. To know whether your country / ISP cares about it, ask in your local forum.
