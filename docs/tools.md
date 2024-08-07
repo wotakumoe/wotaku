@@ -90,6 +90,7 @@ outline: [1,2]
 |-|-|-|-|-|
 | [Internet Download Manager](https://www.internetdownloadmanager.com/) :glowing-star: | :ic-baseline-window: | :check-mark-button: | :cross-mark: | :cross-mark: |
 | [qBittorrent](https://www.qbittorrent.org/) :glowing-star: | :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: | :cross-mark: | :check-mark-button: | :check-mark-button: |
+| [AB Download Manager](https://abdownloadmanager.com/) | :ic-baseline-window::mingcute-linux-fill: | :check-mark-button: | :cross-mark: | :check-mark-button: |
 | [aria2](https://aria2.github.io/) | :octicon-command-palette-16: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
 | [AriaNg](https://ariang.mayswind.net/) | :mdi-earth::ic-baseline-window::ic-baseline-apple: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
 | [ArrowDL](https://www.arrow-dl.com/) | :ic-baseline-window: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
