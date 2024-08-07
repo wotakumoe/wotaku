@@ -1,4 +1,4 @@
-export const hostname: string = "https://wotaku.moe";
+export const hostname: string = "https://wotaku.wiki";
 export const githubSourceContentRegex = new RegExp(
   "^https://(((raw|user-images|camo).githubusercontent.com))/.*",
   "i",

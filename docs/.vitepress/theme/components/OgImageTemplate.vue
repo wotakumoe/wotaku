@@ -9,7 +9,7 @@ defineProps<{ title: string; description?: string }>();
     <div tw="p-10 w-full min-h-0 grow flex flex-col items-center justify-between">
       <div tw="w-full flex justify-between items-center text-4xl font-medium">
         <div tw="flex items-center">
-          <div tw="text-zinc-100 ml-2 mt-1 font-semibold">Wotaku.moe</div>
+          <div tw="text-zinc-100 ml-2 mt-1 font-semibold">wotaku.wiki</div>
         </div>
       </div>
       <div tw="w-full pr-56 flex flex-col items-start justify-end">

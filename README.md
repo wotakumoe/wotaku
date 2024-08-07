@@ -5,22 +5,22 @@ enhance the wiki further. Also, don't hesitate to [suggest ideas](#submitting-a-
 
 # What is in the Wiki?
 
-- Curated Websites for [anime](https://wotaku.moe/websites#anime),
-  [manga](https://wotaku.moe/websites#manga), [music](https://wotaku.moe/music),
-  [novels](https://wotaku.moe/websites#novels) & [games](https://wotaku.moe/games).
-- Anime, manga & novel software for [Android](https://wotaku.moe/software#android),
-  [PC](https://wotaku.moe/software#pc) & [iOS](https://wotaku.moe/software#ios).
-- Various sites for [db, tracker & info](https://wotaku.moe/misc#info),
-  [illustrations](https://wotaku.moe/misc#illustrations), [utility](https://wotaku.moe/misc#utility)
-  & [vtuber](https://wotaku.moe/misc#vtuber)
-- Other related software for [phone](https://wotaku.moe/addons#apps) &
-  [PC](https://wotaku.moe/addons#tools), [extensions](https://wotaku.moe/addons#extensions) &
-  [scripts](https://wotaku.moe/addons#scripts)
+- Curated Websites for [anime](https://wotaku.wiki/websites#anime),
+  [manga](https://wotaku.wiki/websites#manga), [music](https://wotaku.wiki/music),
+  [novels](https://wotaku.wiki/websites#novels) & [games](https://wotaku.wiki/games).
+- Anime, manga & novel software for [Android](https://wotaku.wiki/software#android),
+  [PC](https://wotaku.wiki/software#pc) & [iOS](https://wotaku.wiki/software#ios).
+- Various sites for [db, tracker & info](https://wotaku.wiki/misc#info),
+  [illustrations](https://wotaku.wiki/misc#illustrations), [utility](https://wotaku.wiki/misc#utility)
+  & [vtuber](https://wotaku.wiki/misc#vtuber)
+- Other related software for [phone](https://wotaku.wiki/addons#apps) &
+  [PC](https://wotaku.wiki/addons#tools), [extensions](https://wotaku.wiki/addons#extensions) &
+  [scripts](https://wotaku.wiki/addons#scripts)
 - A rich list of resources to help you study the
-  [japanese language](https://wotaku.moe/japan/language) and
-  [culture](https://wotaku.moe/japan/culture).
-- Various resources for [merch](https://wotaku.moe/merch) &
-  [scanlation](https://wotaku.moe/scanlation).
+  [japanese language](https://wotaku.wiki/japan/language) and
+  [culture](https://wotaku.wiki/japan/culture).
+- Various resources for [merch](https://wotaku.wiki/merch) &
+  [scanlation](https://wotaku.wiki/scanlation).
 
 # Submitting a link
 

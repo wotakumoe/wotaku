@@ -23,7 +23,7 @@ export default defineConfig({
   cleanUrls: true,
   ignoreDeadLinks: true,
   appearance: "dark",
-  titleTemplate: ":title • Wotaku.moe by Duck",
+  titleTemplate: ":title • Wotaku.wiki by Duck",
   head: [
     ["meta", { name: "theme-color", content: "#56b4fc" }],
     ["meta", { name: "og:type", content: "website" }],
@@ -54,7 +54,7 @@ export default defineConfig({
       "script",
       {
         defer: "",
-        "data-domain": "wotaku.moe",
+        "data-domain": "wotaku.wiki",
         src: "https://simp.mom/js/asdasdasd.js",
       },
     ],
