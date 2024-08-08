@@ -532,6 +532,10 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 - [HTTPDirFS](https://github.com/fangfufu/httpdirfs#readme)
 - [upmpdcli](https://www.lesbonscomptes.com/upmpdcli/index.html) <tooltip>Expose Navidrome as a UPnP/DLNA media library. Read the [discussion](https://github.com/navidrome/navidrome/discussions/2324)</tooltip>
 
+:::details Related Resources
+- [Self-hosted Music Overview](https://github.com/basings/selfhosted-music-overview)
+
+:::
 
 ![](/music/mcm.png)
 # Communities
