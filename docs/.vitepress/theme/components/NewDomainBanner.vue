@@ -1,35 +1,25 @@
 <script setup lang="ts">
-import { ref, onMounted, watchEffect } from "vue";
+import { ref, watchEffect } from "vue";
 import { useElementSize } from "@vueuse/core";
 
 const el = ref<HTMLElement>();
 // @ts-expect-error
 const { height } = useElementSize(el);
 
-const isBannerVisible = ref(true);
-
-const dismiss = () => {
-  isBannerVisible.value = false;
-  localStorage.setItem("ackDomainChange", "true");
-  document.documentElement.classList.add("banner-dismissed");
-};
-
-onMounted(() => {
-  const bannerClosed = localStorage.getItem("ackDomainChange");
-  if (bannerClosed === "true") {
-    isBannerVisible.value = false;
-  }
-});
-
 watchEffect(() => {
   if (height.value) {
     document.documentElement.style.setProperty("--vp-layout-top-height", `${height.value + 16}px`);
   }
 });
+
+const dismiss = () => {
+  localStorage.setItem("ackDomainChange", "true");
+  document.documentElement.classList.add("banner-dismissed");
+};
 </script>
 
 <template>
-  <div rel="el" v-if="isBannerVisible" class="banner">
+  <div rel="el" class="banner">
     <div class="text">
       wotaku.<bold class="font-bold">moe</bold> is now
       <a class="underline" href="https://wotaku.wiki">wotaku.wiki</a>. Bookmark & share!!
@@ -45,7 +35,7 @@ watchEffect(() => {
 
 <style>
 .banner-dismissed {
-  --vp-layout-top-height: 0px;
+  --vp-layout-top-height: 0px !important;
 }
 
 html {
@@ -64,6 +54,7 @@ html {
   }
 }
 </style>
+
 <style scoped>
 .banner-dismissed .banner {
   display: none;
@@ -80,7 +71,7 @@ html {
   text-align: center;
 
   background: var(--vp-c-bg-soft);
-  color: #fff;
+  color: var(--vp-c-text-1);
 
   display: flex;
   justify-content: space-between;
@@ -88,12 +79,6 @@ html {
 
 .text {
   flex: 1;
-}
-
-.banner-image {
-  width: 100%;
-  max-width: 100%;
-  height: auto;
 }
 
 svg {

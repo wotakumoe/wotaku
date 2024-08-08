@@ -35,13 +35,13 @@ export default defineConfig({
     ["link", { rel: "mask-icon", href: "/asset/inaread.png", color: "#56b4fc" }],
     // prettier-ignore
     [
-      "meta",
-      {
-        name: "keywords",
-        content:
-          "Anime, Anime Piracy, Manga, Manga Piracy, VTuber, Hentai, JPOP, Music, Japan, Learning Japanese, Weeb, Otaku",
-      },
-    ],
+			"meta",
+			{
+				name: "keywords",
+				content:
+					"Anime, Anime Piracy, Manga, Manga Piracy, VTuber, Hentai, JPOP, Music, Japan, Learning Japanese, Weeb, Otaku",
+			},
+		],
     [
       "link",
       {
@@ -57,6 +57,20 @@ export default defineConfig({
         "data-domain": "wotaku.wiki",
         src: "https://simp.mom/js/asdasdasd.js",
       },
+    ],
+    [
+      "script",
+      { id: "restore-banner-preference" },
+      `
+(() => {
+  const restore = (key, cls, def = false) => {
+    const saved = localStorage.getItem(key);
+    if (saved) {
+      document.documentElement.classList.add(cls);
+    }
+  };
+  restore('ackDomainChange', 'banner-dismissed');
+})();`,
     ],
   ],
   srcExclude: ["README.md", "sandbox/**/*.md"],

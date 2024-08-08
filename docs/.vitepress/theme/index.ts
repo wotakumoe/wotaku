@@ -1,4 +1,4 @@
-import { h } from "vue";
+import { defineAsyncComponent, h } from "vue";
 import { type Theme } from "vitepress";
 import DefaultTheme from "vitepress/theme";
 import "@nolebase/vitepress-plugin-git-changelog/client/style.css";
@@ -12,14 +12,13 @@ import Tooltip from "./components/Tooltip.vue";
 import Authors from "./components/Authors.vue";
 import Components from "@fmhy/components";
 import AnnouncementPill from "./components/AnnouncementPill.vue";
-import NewDomainBanner from "./components/NewDomainBanner.vue";
 import "virtual:uno.css";
 
 export default {
   extends: DefaultTheme,
   Layout: () => {
     return h(DefaultTheme.Layout, null, {
-      "layout-top": () => h(NewDomainBanner),
+      "layout-top": () => h(defineAsyncComponent(() => import("./components/NewDomainBanner.vue"))),
       "sidebar-nav-after": () => h(SidebarCard),
       "home-hero-prelink": () => h(AnnouncementPill),
       // https://vitepress.dev/guide/extending-default-theme#layout-slots
