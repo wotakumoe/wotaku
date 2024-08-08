@@ -104,7 +104,7 @@ There are a few listed in [**software page**](/software.md#anime-streaming-2). [
 
 :::
 
-::: What does VPN do?
+:::details What does VPN do?
 Watch [**Tom Scott's video**](https://youtu.be/WVDQEoe6ZWY) for the explanation.
 
 :::
