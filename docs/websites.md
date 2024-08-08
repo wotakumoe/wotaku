@@ -130,7 +130,7 @@ outline: 1
 - [animk](https://animk.info/xdcc/) <tooltip><ul><li>Server: <code>irc.xertion.org</code></li><li>Port: <code>6697</code></li><li>Channel: <code>#MK</code> or <code>XDCCLeech</code></li></ul></tooltip>
 - [XDCC EU](https://www.xdcc.eu/)
 - [SunXDCC](https://sunxdcc.com/)
-- [Anidex](https://xdcc.anidex.moe/) (`Michiko` bot is over at `#Doki`)
+- [Anidex](https://xdcc.anidex.moe/) <tooltip>`Michiko` bot is over at `#Doki`</tooltip>
 
 <Button link="/guides/tech/irc" icon="i-octicon-command-palette-16">To learn how to use IRC, you can read the guide</Button>
 
@@ -153,11 +153,12 @@ outline: 1
 - [Mangadex](https://mangadex.org/) <Badge type="tip" text="RSS" icon="i-material-symbols-rss-feed-rounded" link="https://mdrss.tijlvdb.me/" /> <Badge type="danger" text="18+" /> <tooltip><ul><li>Uploads without compression</li><li>Best reader UI (for a web reader)</li><li>Uploads from various scanlation groups</li><li>No official translations, barring [**some exceptions**](https://mangadex.org/rules#content_restrictions)</li><li>May remove content if there is a DMCA request by the publisher or doesn't allow upload at all (e.g. One Punch-Man)</li></ul></tooltip>
 - [Mangasee](https://mangasee123.com/) <Badge type="tip" text="2" link="https://manga4life.com/" /><Badge type="tip" text="Alt" link="https://atsu.moe/" /> <tooltip><ul><li>Has official translations</li><li>Compresses chapter images</li><li>Chapter updates are relatively slow</li></ul></tooltip>
 - [Batoto](https://battwo.com/v3x) <Badge type="tip" text="Proxies" link="https://rentry.co/batoto" /><Badge type="danger" text="18+" /><tooltip><ul><li>Has both scanlated and official releases</li><li>Has some exclusive uploads</li><li>Decent filtering options with site theme options</li><li>Indexing is poor</li></ul></tooltip>
+- [Mangapark](https://mangapark.net/) <Badge type="danger" text="18+" /> 
 - [MangaFire](https://mangafire.to/home) <tooltip><ul><li>The UI is very clean with notification system</li><li>Uploads both chapter (multi-lang) & volume releases</li><li>Basic reader UI</li><li>Watermark on almost every manga chapters</li><li>Manga uploads are up to x1600</li></ul></tooltip>
+
 
 ::: details More
 - [Manga Katana](https://mangakatana.com/)
-- [Mangapark](https://mangapark.net/)
 - [Hachi](https://hachi.moe/) <Badge type="danger" text="18+" /> 
 - [Colored Manga](https://coloredmanga.net/)
 - [Cubari Proxy](https://proxy.cubari.moe/) <Badge type="danger" text="18+" />
