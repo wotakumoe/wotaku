@@ -106,6 +106,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
   - [Fakku](https://www.fakku.net/)
   - [HMV & Books](https://www.hmv.co.jp/)
   - [Mandarake](https://order.mandarake.co.jp/order/?lang=en/)
+  - [Melonbooks](https://www.melonbooks.co.jp/)
   - [Play-Asia](https://www.play-asia.com/)
   - [YESASIA](https://www.yesasia.com/global/en/home.html)
 - **Figures / Merch**
