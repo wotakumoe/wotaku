@@ -1,11 +1,17 @@
 <script setup lang="ts">
-import { ref, onMounted } from "vue";
+import { ref, onMounted, watchEffect } from "vue";
+import { useElementSize } from "@vueuse/core";
+
+const el = ref<HTMLElement>();
+// @ts-expect-error
+const { height } = useElementSize(el);
 
 const isBannerVisible = ref(true);
 
-const closeBanner = () => {
+const dismiss = () => {
   isBannerVisible.value = false;
   localStorage.setItem("ackDomainChange", "true");
+  document.documentElement.classList.add("banner-dismissed");
 };
 
 onMounted(() => {
@@ -14,18 +20,85 @@ onMounted(() => {
     isBannerVisible.value = false;
   }
 });
+
+watchEffect(() => {
+  if (height.value) {
+    document.documentElement.style.setProperty("--vp-layout-top-height", `${height.value + 16}px`);
+  }
+});
 </script>
 
 <template>
-  <div v-if="isBannerVisible" class="bg-blue-500 text-white p-4 mb-5">
-    <div class="flex justify-between items-center">
-      <span>
-        wotaku.<bold class="font-bold">moe</bold> is now
-        <a class="underline" href="https://wotaku.wiki">wotaku.wiki</a>.
-      </span>
-      <br />
-      <button @click="closeBanner" class="text-white font-bold">✕</button>
+  <div rel="el" v-if="isBannerVisible" class="banner">
+    <div class="text">
+      wotaku.<bold class="font-bold">moe</bold> is now
+      <a class="underline" href="https://wotaku.wiki">wotaku.wiki</a>. Bookmark & share!!
     </div>
-    <img src="/newdomainbanner.png" alt="wotaku.wiki banner" class="mt-2 w-full h-auto" />
+    <button type="button" @click="dismiss">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+        <path
+          d="M6.28 5.22a.75.75 0 00-1.06 1.06L8.94 10l-3.72 3.72a.75.75 0 101.06 1.06L10 11.06l3.72 3.72a.75.75 0 101.06-1.06L11.06 10l3.72-3.72a.75.75 0 00-1.06-1.06L10 8.94 6.28 5.22z" />
+      </svg>
+    </button>
   </div>
 </template>
+
+<style>
+.banner-dismissed {
+  --vp-layout-top-height: 0px;
+}
+
+html {
+  --vp-layout-top-height: 88px;
+}
+
+@media (min-width: 375px) {
+  html {
+    --vp-layout-top-height: 64px;
+  }
+}
+
+@media (min-width: 768px) {
+  html {
+    --vp-layout-top-height: 40px;
+  }
+}
+</style>
+<style scoped>
+.banner-dismissed .banner {
+  display: none;
+}
+
+.banner {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: var(--vp-z-index-layout-top);
+
+  padding: 8px;
+  text-align: center;
+
+  background: var(--vp-c-bg-soft);
+  color: #fff;
+
+  display: flex;
+  justify-content: space-between;
+}
+
+.text {
+  flex: 1;
+}
+
+.banner-image {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+svg {
+  width: 20px;
+  height: 20px;
+  margin-left: 8px;
+}
+</style>
