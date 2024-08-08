@@ -259,7 +259,9 @@ outline: 1
 # Utility
 
 ## Anime & Manga
-- [3x3 Generator](https://gqgs.github.io/3x3-generator/)
+- [3x3 Generator](https://gqgs.github.io/3x3-generator/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/gqgs/3x3-generator" />
+- [MangaAdaptations for AniList](https://anilist-adaptations.timschneeberger.me/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/timschneeb/manga-adaptations-anilist" />
+- [Mitsukeru for AniList](https://mitsukeru.timschneeberger.me/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/timschneeb/Mitsukeru" />
 - [Randime](https://randime.moe/)
 - [Related Anime](https://relatedanime.com/)
 - [Spin.moe](https://spin.moe/)
