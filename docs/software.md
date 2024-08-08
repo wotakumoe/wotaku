@@ -36,6 +36,7 @@ outline: [1,2]
 - [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one)
   - :material-symbols-subdirectory-arrow-right: [Stremio Tools](#anime-tools)
 - [AnimeTV](https://amarullz.com/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/amarullz/AnimeTV" />
+- [Crunchyroll for TIZEN](https://github.com/jhassan8/crunchyroll-tizen)
 :::
 
 ## Manga Readers
