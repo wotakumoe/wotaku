@@ -152,7 +152,7 @@ If you have recommendations for good sites in your native language or want to re
 |-|-|
 | Anime | [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) <Badge text="Downloader" /> <br> [Bangumi Renamer](https://github.com/nuthx/bangumi-renamer) |
 | Manga |  [Bilibili manga downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) <Badge text="Downloader" /> |
-| Others | [JProxy](https://github.com/LuckyPuppy514/jproxy) <Badge text=" Downloader" /> |
+| Others | [JProxy](https://github.com/LuckyPuppy514/jproxy) <Badge text=" Downloader" /> <br> [Novel downloader](https://github.com/404-novel-project/novel-downloader) |
 
 ### Others
 
