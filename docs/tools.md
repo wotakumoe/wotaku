@@ -35,15 +35,25 @@ outline: [1,2]
 
 ## Downloader
 
-- **Direct**
-  - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) :mdi-magnet::mdi-android:
-  - [ADM](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US) :mdi-magnet::mdi-android:
-  - [ytdlnis](https://github.com/deniscerri/ytdlnis) :mdi-android:
-  - [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) :mdi-android:
-- **Torrent / p2p**
-  - [iTorrent](https://github.com/XITRIX/iTorrent) :ic-baseline-apple:
-  - [libretorrent](https://github.com/proninyaroslav/libretorrent) :mdi-android:
-  - [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) :mdi-android:
+#### Android
+
+| Name | DDL | P2P | FOSS | Free |
+|-|-|-|-|-|
+| [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) :glowing-star: | :check-mark-button: | :check-mark-button: | :cross-mark: | Ads, feature limit |
+| [LibreTorrent](https://github.com/proninyaroslav/libretorrent) :glowing-star: | :cross-mark: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
+| [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) | :check-mark-button: | :check-mark-button: | :cross-mark: | Ads |
+| [Aria2App](https://github.com/devgianlu/Aria2App) | :check-mark-button: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
+| [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) | :cross-mark: | :check-mark-button: | :cross-mark: | Ads, theme limit |
+| [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) | :check-mark-button: | :check-mark-button: | :cross-mark: | :check-mark-button: |
+
+
+#### iOS
+
+| Name | DDL | P2P | FOSS |
+|-|-|-|-|
+| [fGet](https://apps.apple.com/us/app/fget-file-manager-browser/id1582654012) | :check-mark-button: | :cross-mark: | :cross-mark: |
+| [iTorrent](https://github.com/XITRIX/iTorrent) | :cross-mark: | :check-mark-button: | :check-mark-button: |
+
 
 
 ## Media
