@@ -452,6 +452,11 @@ outline: 1
 - [Netflix](https://www.netflix.com)
 - [Prime Video](https://www.primevideo.com/)
 
+::: details Regional Websites
+- [Otakulogy List](https://github.com/otakulogy/anime-streaming)
+- [YATTA-TACHI List](https://yattatachi.com/legal-anime-streaming-sites)
+:::
+
 ## Manga
 
 - **Manga**
