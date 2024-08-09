@@ -194,7 +194,15 @@ export default defineConfig({
           { text: "Anime", link: "/glossary/anime" },
           { text: "Manga", link: "/glossary/manga" },
           { text: "NSFW", link: "/glossary/nsfw" },
-          { text: "Torrent", link: "/glossary/torrent" },
+        ],
+      },
+      {
+        text: '<span class="i-lucide:magnet"></span> Torrenting',
+        collapsed: true,
+        items: [
+          { text: "FAQs", link: "/torrenting/faq" },
+          { text: "Glossary", link: "/torrenting/glossary" },
+          { text: "qBittorent", link: "/torrenting/qbit" },
         ],
       },
       {
@@ -236,7 +244,6 @@ export default defineConfig({
               { text: "Extension Repos", link: "/guides/tech/repo" },
               { text: "IRC & XDCC", link: "/guides/tech/irc" },
               { text: "JDL2 Ad-removal", link: "/guides/tech/jdl" },
-              { text: "qBittorent RSS", link: "/guides/tech/qbitrss" },
             ],
           },
         ],
@@ -285,7 +292,15 @@ export default defineConfig({
           { text: "Anime", link: "/glossary/anime" },
           { text: "Manga", link: "/glossary/manga" },
           { text: "NSFW", link: "/glossary/nsfw" },
-          { text: "Torrent", link: "/glossary/torrent" },
+        ],
+      },
+      {
+        text: "Torrenting",
+        collapsed: true,
+        items: [
+          { text: "FAQs", link: "/torrenting/faq" },
+          { text: "Glossary", link: "/torrenting/glossary" },
+          { text: "qBittorent", link: "/torrenting/qbit" },
         ],
       },
       {
@@ -323,14 +338,9 @@ export default defineConfig({
               { text: "Extension Repos", link: "/guides/tech/repo" },
               { text: "IRC & XDCC", link: "/guides/tech/irc" },
               { text: "JDL2 Ad-removal", link: "/guides/tech/jdl" },
-              { text: "qBittorent RSS", link: "/guides/tech/qbitrss" },
             ],
           },
         ],
-      },
-      {
-        text: "Updates",
-        link: "https://github.com/anotherduckling/Wotaku/commits/main/",
       },
     ],
     socialLinks: socials,
