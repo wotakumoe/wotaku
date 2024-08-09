@@ -88,4 +88,10 @@ Torrent trackers that don't allow you to freely make an account, but require you
 | Music | [Redacted](https://redacted.ch/) <br> [JPopsuki](https://jpopsuki.eu/) <br> [Orpheus](https://orpheus.network/) <br> [Sugoi Music](https://sugoimusic.me/) <br> [Bemaniso](https://bemaniso.ws/) `Rhythm` <br> [Aidoru](https://aidoru-online.me/) `Idol` |
 | NSFW | [ExoticaZ](https://exoticaz.to/) <Badge type="tip" icon="i-ic-outline-discord" text="Waitlist" link="https://discord.gg/pfmAegk8bD" /> <br> [Empornium](https://www.empornium.is/) |
 
+### Related resources
+- [InstallGentoo Wiki](https://wiki.installgentoo.com/wiki/Private_trackers)
+- [Invite route graph](https://inviteroute.github.io/graph/)
+- [Redacted Interview Prep](https://interviewfor.red/en/index.html)
+- [BakaBT Wiki](https://wiki.bakabt.me/index.php/Sign_up)
+
 :::
