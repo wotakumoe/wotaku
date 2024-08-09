@@ -4,7 +4,7 @@
 
 :::details What does X term mean?
 
-Check out our [torrent glossary](/glossary/torrent), you should find all important terms there.
+Check out our [torrent glossary](/torrenting/glossary), you should find all important terms there.
 
 :::
 
@@ -51,5 +51,23 @@ It has various variables. The free VPNs are very limited such as untrusted owner
 
 ::: danger Never use Cracked / Modded VPN {open}
 You should never use cracked or modded VPN cause all of your traffic will go through that VPN. So using a compromised VPN is extremely risky.
+
+:::
+
+:::details What is a private tracker?
+
+A special kind of tracker that, unlike the public ones, reequires you to pass an interview or (more often) get an invite from an existing member in order to join. Some privte trackers also have periods of open signups, during which you can freely make an account. It is important to note that you shouldn't use a VPN when signing up for a torrent tracker, as the site has to make sure you are a new unique member. Once you joined, you should carefully read the rules and see what kind of VPN usage they allow on their site. On the other hand, using VPNs for torrenting is most often allowed, and encouraged.
+
+:::
+
+:::details What are some good private trackers?
+
+| Category | Websites |
+|-|-|
+| Anime | [AnimeBytes](https://animebytes.tv/) `General` <br> [AnimeWorld](https://animeworld.cx/) :flag-germany: <br> [BakaBT](https://bakabt.me/) <br> [U2](https://u2.dmhy.org/portal.php) |
+| Games | [Gazelle Games](https://gazellegames.net/login.php) |
+| Movies & TV | [AvistaZ](https://avistaz.to/) <Badge type="tip" icon="i-ic-outline-discord" text="Waitlist" link="https://discord.gg/pfmAegk8bD" /> <br> [JPTV.club](https://jptv.club/) <br> [AsianCinema](https://asiancinema.me/) <br> [jptvts](https://jptvts.us/) |
+| Music | [Redacted](https://redacted.ch/) <br> [JPopsuki](https://jpopsuki.eu/) <br> [Orpheus](https://orpheus.network/) <br> [Sugoi Music](https://sugoimusic.me/) <br> [Bemaniso](https://bemaniso.ws/) `Rhythm` <br> [Aidoru](https://aidoru-online.me/) `Idol` |
+| NSFW | [ExoticaZ](https://exoticaz.to/) <Badge type="tip" icon="i-ic-outline-discord" text="Waitlist" link="https://discord.gg/pfmAegk8bD" /> <br> [Empornium](https://www.empornium.is/) |
 
 :::
