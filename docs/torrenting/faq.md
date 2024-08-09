@@ -27,6 +27,20 @@ There are a few listed in [**software page**](/software.md#anime-streaming-2). [
 
 :::
 
+:::details Why is my torrent not downloading?
+There are a few possible causes: the torrent currently has 0 seeders, it has 1 seeder with a bad/limited connection, or you have bad peering (which could be fixed by using a seedbox or VPN). In the case of 0 or bad seeders, you will have to wait for a new seeder to join, or check if a deebrid service has the torrent cached.
+
+:::
+
+:::details What is seedbox & debrid service?
+### Seedbox
+A seedbox is a remote service that can download (leech) & upload (seed) from p2p networks. Since it's always online, it keeps the torrents alive, thus helping you keep a high ratio in [PTs](#pt-private-tracker). Examples: [Ultra.cc](https://ultra.cc/), [RapidSeedbox](https://www.rapidseedbox.com/) & [Pulsed Media](https://pulsedmedia.com/).
+
+### Debrid
+Like a seedbox, it's also a remote service. It can download from p2p and various host sites (e.g. [MEGA](https://mega.io/), [RapidGator](https://rapidgators.net/)). One of the big differences is that they (generally) don't seed p2p files and keep the downloaded files cached on their servers, meaning you can download currently dead torrents that have already been cached in the past. Examples: [Real-Debrid](https://real-debrid.com/) & [AllDebrid](https://alldebrid.com/).
+
+:::
+
 :::details What does a VPN do?
 Watch [**Tom Scott's video**](https://youtu.be/WVDQEoe6ZWY) for an honest explanation.
 
@@ -59,9 +73,8 @@ You should never use cracked or modded VPN cause all of your traffic will go thr
 
 :::
 
-:::details What is a private tracker?
-
-A special kind of tracker that, unlike the public ones, requires you to pass an interview or (more often) get an invite from an existing member in order to join. Some privte trackers also have periods of open signups, during which you can freely make an account. It is important to note that you shouldn't use a VPN when signing up for a torrent tracker, as the site has to make sure you are a new unique member. Once joined, you should carefully read the rules and see what kind of VPN usage they allow on their site. On the other hand, using VPNs for torrenting is most often allowed, and encouraged.
+:::details What are private trackers?
+Torrent trackers that don't allow you to freely make an account, but require you to get an invitation from an existing member or pass an interview. Some PTs also have specific periods where they allow for open signups. It is important to note that you shouldn't use a VPN when signing up for a private tracker, as the site has to make sure you are a new unique member. Once joined, you should carefully read the rules and see what kind of VPN usage they allow on their site. On the other hand, using VPNs for torrenting is most often allowed, and encouraged.
 
 :::
 
