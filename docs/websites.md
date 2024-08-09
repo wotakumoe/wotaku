@@ -419,7 +419,10 @@ outline: 1
   - [Comic Vine](https://comicvine.gamespot.com/)
 
 ![](/banner/wpt.png)
+
 # Private Trackers
+
+<br>
 
 | Category | Websites |
 |-|-|
