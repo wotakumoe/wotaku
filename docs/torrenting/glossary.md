@@ -3,7 +3,7 @@ title: Torrent Glossary
 customDescription: All the basic torrent related terms
 ---
 
-<GradientCard tag="Torrent Glossary" description="Torrent portion of the Wotaku glossary!" theme="turquoise"/>
+<GradientCard title="用語集" tag="Glossary" description="Learn about basic torrent terms" theme="turquoise"/>
 
 
 | Term             | Definition  { class="compact" }     |
