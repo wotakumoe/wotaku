@@ -56,7 +56,7 @@ You should never use cracked or modded VPN cause all of your traffic will go thr
 
 :::details What is a private tracker?
 
-A special kind of tracker that, unlike the public ones, reequires you to pass an interview or (more often) get an invite from an existing member in order to join. Some privte trackers also have periods of open signups, during which you can freely make an account. It is important to note that you shouldn't use a VPN when signing up for a torrent tracker, as the site has to make sure you are a new unique member. Once you joined, you should carefully read the rules and see what kind of VPN usage they allow on their site. On the other hand, using VPNs for torrenting is most often allowed, and encouraged.
+A special kind of tracker that, unlike the public ones, requires you to pass an interview or (more often) get an invite from an existing member in order to join. Some privte trackers also have periods of open signups, during which you can freely make an account. It is important to note that you shouldn't use a VPN when signing up for a torrent tracker, as the site has to make sure you are a new unique member. Once joined, you should carefully read the rules and see what kind of VPN usage they allow on their site. On the other hand, using VPNs for torrenting is most often allowed, and encouraged.
 
 :::
 
