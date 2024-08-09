@@ -277,7 +277,7 @@ If you have recommendations for good sites in your native language or want to re
 - [Komiku](https://komiku.id/)
 - [Komikcast](https://komikcast.site/)
 - [Mangaku](https://mangaku.fun/)
-- [Ryukomik](https://komik.ryukoproject.app/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/AzwarKusumah/ryukomik" />
+- [Ryukomik](https://komik.ryukoproject.app/) [:mdi-github:](https://github.com/AzwarKusumah/ryukomik)
 - [Shinigami ID](https://shinigami.id/)
 - [YuuManga](https://yuumanga.blogspot.com/)
 
@@ -416,16 +416,16 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Anilibria](https://anilibria.life/) <Badge type="info" text="Sub" />
 - [AnimeBuff](https://animebuff.ru/) <Badge type="info" text="Sub" />
 - [AnimeLib](https://animelib.me)
-- [ANIFOX](https://anifox.club/anime) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/ANIFOX-CLUB/ANIFOX" /><Badge type="info" icon="/icon/russia.png" text="RU" />
+- [ANIFOX](https://anifox.club/anime) [:mdi-github:](https://github.com/ANIFOX-CLUB/ANIFOX)<Badge type="info" icon="/icon/russia.png" text="RU" />
 - [Anime Stars](https://animestars.org/) <Badge type="info" text="Sub" />
 - [AnimeGO](https://animego.org/) <Badge type="info" text="Sub" />
-- [Averlist](https://averlist.ru/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/Averito/Averlist" />
+- [Averlist](https://averlist.ru/) [:mdi-github:](https://github.com/Averito/Averlist)
 - [Dream Cast](https://dreamerscast.com/)
 - [Freedub Studio](https://freedubstudio.club/)
 - [JUT.SU](https://jut.su/)
 - [YUMMY ANIME](https://yummyanime.org/)
 - [SovetRomantica](https://sovetromantica.com/) <Badge type="info" text="Sub" />
-- [Tunime](https://an0ncer.github.io/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/AN0NCER/an0ncer.github.io" /><Badge type="info" text="Sub" />
+- [Tunime](https://an0ncer.github.io/) [:mdi-github:](https://github.com/AN0NCER/an0ncer.github.io)<Badge type="info" text="Sub" />
 - [Anime Layer](http://animelayer.ru/) <Badge type="info" text="Torrent" />
 - [Dark Libria](https://darklibria.it/) <Badge type="info" text="Stream" /><Badge type="info" text="DDL" />
 
@@ -505,7 +505,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 | Category | Resources |
 |-|-|
-| Anime | [UKIKU](https://ukiku.app/)  <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/jordyamc/UKIKU" /> |
+| Anime | [UKIKU](https://ukiku.app/)  [:mdi-github:](https://github.com/jordyamc/UKIKU) |
 
 
 ## Turkish

@@ -38,9 +38,9 @@ outline: [2,3]
 - [Japanese Support](https://ankiweb.net/shared/info/3918629684)
 - [Kanji Grid](https://github.com/Kuuuube/kanjigrid)
 - [Kotu](https://kotu.io/) :mdi-earth:
-- [MorphMan](https://ankiweb.net/shared/info/900801631)  <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/kaegi/MorphMan" />
+- [MorphMan](https://ankiweb.net/shared/info/900801631)  [:mdi-github:](https://github.com/kaegi/MorphMan)
 - [Review Heatmap](https://ankiweb.net/shared/info/1771074083)
-- [Yomichan Forvo Server](https://ankiweb.net/shared/info/580654285) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/jamesnicolas/yomichan-forvo-server" />
+- [Yomichan Forvo Server](https://ankiweb.net/shared/info/580654285) [:mdi-github:](https://github.com/jamesnicolas/yomichan-forvo-server)
 - [WaniAnki](https://damiansh.github.io/waniAnki/instructions)
 
 ### Card templates
@@ -95,7 +95,7 @@ outline: [2,3]
 #### Android
 - [Japanese Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy)
 - [jidoujisho](https://github.com/lrorpilla/jidoujisho) :glowing-star:
-- [Kakugo](https://play.google.com/store/apps/details?id=org.kaqui) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/blastrock/kakugo" />
+- [Kakugo](https://play.google.com/store/apps/details?id=org.kaqui) [:mdi-github:](https://github.com/blastrock/kakugo)
 - [KankenToNews](https://play.google.com/store/apps/details?id=jp.kyoto.nlp.kanken)
 - [Kanji Garden](https://play.google.com/store/apps/details?id=is.ky.kanjigarden) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://kanji.garden/" />
 - [Kanji Dojo](https://play.google.com/store/apps/details?id=ua.syt0r.kanji)
@@ -140,21 +140,21 @@ outline: [2,3]
 ### Media
 
 #### Video Player
-- [Anime Subtitle Player](https://anime-subtitle-player.vercel.app/) :mdi-earth: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/LostArrows27/anime-subtitle-player" />
+- [Anime Subtitle Player](https://anime-subtitle-player.vercel.app/) :mdi-earth: [:mdi-github:](https://github.com/LostArrows27/anime-subtitle-player)
 - [Animebook](https://animebook.github.io/) :mdi-earth: <Badge type="info" text="Guide" link="https://cademcniven.com/posts/20210703/" />
-- [Asbplayer](https://killergerbah.github.io/asbplayer/) :mdi-earth::mingcute-chrome-fill: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/killergerbah/asbplayer" />
+- [Asbplayer](https://killergerbah.github.io/asbplayer/) :mdi-earth::mingcute-chrome-fill: [:mdi-github:](https://github.com/killergerbah/asbplayer)
 - [memento](https://github.com/ripose-jp/Memento) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [mpvacious](https://github.com/Ajatt-Tools/mpvacious) :ic-baseline-window::mingcute-linux-fill:
 - [mpv sub scripts](https://github.com/peldas/mpv-sub-scripts)
 - [mpv subversive](https://github.com/nairyosangha/mpv-subversive)
-- [Voracious](https://voracious.app/) :ic-baseline-window::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/rsimmons/voracious" />
+- [Voracious](https://voracious.app/) :ic-baseline-window::mingcute-linux-fill: [:mdi-github:](https://github.com/rsimmons/voracious)
 
 
 #### Reader
 - [Mokuro](https://github.com/kha-white/mokuro) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
   - [Mokuro Catalog](https://catalog.mokuro.moe/)
   - [2500 Volume Mokuro OCR Manga PDF Collection](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTY0MTI2NQ.RHVjaw)
-- [ttsu Ebook Reader](https://reader.ttsu.app/) :mdi-earth: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/ttu-ttu/ebook-reader" /> 
+- [ttsu Ebook Reader](https://reader.ttsu.app/) :mdi-earth: [:mdi-github:](https://github.com/ttu-ttu/ebook-reader) 
 
 
 ### Browser
@@ -185,7 +185,7 @@ outline: [2,3]
 
 #### Subtitle
 - [Ageisub](https://github.com/arch1t3cht/Aegisub) :ic-baseline-window::ic-baseline-apple:  `Subtitle editor`
-- [Subtitle Edit](https://www.nikse.dk/subtitleedit) :ic-baseline-window: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/SubtitleEdit/subtitleedit" />  `Subtitle editor`
+- [Subtitle Edit](https://www.nikse.dk/subtitleedit) :ic-baseline-window: [:mdi-github:](https://github.com/SubtitleEdit/subtitleedit)  `Subtitle editor`
 - [Subtitle Downloader](https://github.com/wayneclub/Subtitle-Downloader) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: `Download subtitle from streaming services`
 - [subs2srs](https://subs2srs.sourceforge.net/) :ic-baseline-window: `Generates audio clip from media using subs for Anki/SRS`
 - [subtitles-rs](https://github.com/emk/subtitles-rs) :ic-baseline-apple::mingcute-linux-fill: `Various subtitle related tools`
@@ -194,7 +194,7 @@ outline: [2,3]
 - [SubPlease](https://github.com/kanjieater/SubPlease) :ic-baseline-window::mingcute-linux-fill: `Generate accurate subtitles from audio`
 - [Subtitle Character Counter](https://cademcniven.com/subtitleCharacterCounter.html) :mdi-earth:
 - [Sub transition](https://github.com/Ajatt-Tools/sub-transition) :simple-icons-mpv: `Speed up the video parts with no subs`
-- [Nekomoe JP Formatter](https://jp-formatter.pages.dev/) :mdi-earth: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/Nekomoekissaten-SUB/nekomoe-jp-formatter" />  `Clean up subtitles`
+- [Nekomoe JP Formatter](https://jp-formatter.pages.dev/) :mdi-earth: [:mdi-github:](https://github.com/Nekomoekissaten-SUB/nekomoe-jp-formatter)  `Clean up subtitles`
 
 
 #### Audio tools

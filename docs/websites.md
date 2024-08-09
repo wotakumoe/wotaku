@@ -55,7 +55,7 @@ outline: 1
 - [All Anime](https://allmanga.to/)
 - [Gogoanime](https://anitaku.so/) <Badge text="Proxies" link="https://gogotaku.info/" />
 - [One Pace](https://onepace.net/)  <Badge text="Stremio" link="https://github.com/au2001/onepace-stremio" />
-- [Pokémon TV](https://poke-tv.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/seiya-dev/pokemon-tv" />
+- [Pokémon TV](https://poke-tv.vercel.app/) [:mdi-github:](https://github.com/seiya-dev/pokemon-tv)
 - [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html)
 
 ### Donghua
@@ -413,7 +413,7 @@ outline: 1
   - [The Comics Journal](https://www.tcj.com/)
 - **Tools**
   - [Mylar3](https://github.com/mylar3/mylar3)
-  - [Kapowarr](https://casvt.github.io/Kapowarr/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/Casvt/Kapowarr" />
+  - [Kapowarr](https://casvt.github.io/Kapowarr/) [:mdi-github:](https://github.com/Casvt/Kapowarr)
 - **Tracker**
   - [League of Comic Geeks](https://leagueofcomicgeeks.com/)
   - [Comic Vine](https://comicvine.gamespot.com/)

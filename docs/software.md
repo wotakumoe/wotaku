@@ -13,46 +13,46 @@ outline: [1,2]
 
 ## Anime Streaming
 
-- [Aniyomi](https://aniyomi.org/) :glowing-star: <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" /><Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/aniyomiorg/aniyomi" />
-- [Dantotsu](https://dantotsuapp.netlify.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" /><Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/rebelonion/Dantotsu" />
-- [Cloudstream](https://cloudstream.on.fleek.co/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/recloudstream/cloudstream" /><Badge type="info" icon="i-mdi-puzzle-outline" text="Plugins" link="https://discord.com/invite/wpX5Rfcx87" />
-- [AnimeTV](https://amarullz.com/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/amarullz/AnimeTV" />
+- [Aniyomi](https://aniyomi.org/) :glowing-star: <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />[:mdi-github:](https://github.com/aniyomiorg/aniyomi)
+- [Dantotsu](https://dantotsuapp.netlify.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />[:mdi-github:](https://github.com/rebelonion/Dantotsu)
+- [Cloudstream](https://cloudstream.on.fleek.co/) [:mdi-github:](https://github.com/recloudstream/cloudstream)<Badge type="info" icon="i-mdi-puzzle-outline" text="Plugins" link="https://discord.com/invite/wpX5Rfcx87" />
+- [AnimeTV](https://amarullz.com/) [:mdi-github:](https://github.com/amarullz/AnimeTV)
 
 
 ::: details More Apps
 - [Awery](https://github.com/MrBoomDeveloper/Awery)
-- [Himitsu](https://repodevil.vercel.app/) <Badge type="info" icon="i-mdi-gitlab" text="GitLab" link="https://gitlab.com/RepoDevil/himitsu" />
+- [Himitsu](https://repodevil.vercel.app/) [:mdi-gitlab:](https://gitlab.com/RepoDevil/himitsu)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one)
   - :material-symbols-subdirectory-arrow-right: [Stremio Tools](#anime-tools)
-- [Miru App](https://miru.js.org/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/miru-project/miru-app" />
+- [Miru App](https://miru.js.org/) [:mdi-github:](https://github.com/miru-project/miru-app)
 - [Animity](https://github.com/kl3jvi/animity)
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
 :::
 
 ::: details :material-symbols-tv-gen-outline: Android TV ranking
-- [Cloudstream](https://cloudstream.on.fleek.co/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/recloudstream/cloudstream" /><Badge type="info" icon="i-mdi-puzzle-outline" text="Plugins" link="https://discord.com/invite/wpX5Rfcx87" />
+- [Cloudstream](https://cloudstream.on.fleek.co/) [:mdi-github:](https://github.com/recloudstream/cloudstream)<Badge type="info" icon="i-mdi-puzzle-outline" text="Plugins" link="https://discord.com/invite/wpX5Rfcx87" />
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
 - [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one)
   - :material-symbols-subdirectory-arrow-right: [Stremio Tools](#anime-tools)
-- [AnimeTV](https://amarullz.com/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/amarullz/AnimeTV" />
+- [AnimeTV](https://amarullz.com/) [:mdi-github:](https://github.com/amarullz/AnimeTV)
 - [Crunchyroll for TIZEN](https://github.com/jhassan8/crunchyroll-tizen)
 :::
 
 ## Manga Readers
 
 ### Online
-- [Mihon](https://mihon.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" /> <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/mihonapp/mihon" />
-  - [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/jobobby04/TachiyomiSY" />
-  - [TachiyomiJ2K](https://mihon.app/forks/TachiyomiJ2K/) :glowing-star: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/Jays2Kings/tachiyomiJ2K" />
+- [Mihon](https://mihon.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" /> [:mdi-github:](https://github.com/mihonapp/mihon)
+  - [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:mdi-github:](https://github.com/jobobby04/TachiyomiSY)
+  - [TachiyomiJ2K](https://mihon.app/forks/TachiyomiJ2K/) :glowing-star: [:mdi-github:](https://github.com/Jays2Kings/tachiyomiJ2K)
   - [Yokai](https://github.com/null2264/yokai)
   - [Komikku](https://github.com/komikku-app/komikku)
-- [Kotatsu](https://kotatsu.app/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/KotatsuApp/Kotatsu" />
+- [Kotatsu](https://kotatsu.app/) [:mdi-github:](https://github.com/KotatsuApp/Kotatsu)
 
 ::: details More
-- [TachiyomiAZ](https://mihon.app/forks/TachiyomiAZ/) <Badge type="info" text="Dev build" link="https://crafty.moe/tachiyomiAZ.apk" /><Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/az4521/tachiyomiAZ" />
-- [Aniyomi](https://aniyomi.org/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/aniyomiorg/aniyomi" />
-- [Dantotsu](https://dantotsuapp.netlify.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" /><Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/rebelonion/Dantotsu" />
+- [TachiyomiAZ](https://mihon.app/forks/TachiyomiAZ/) <Badge type="info" text="Dev build" link="https://crafty.moe/tachiyomiAZ.apk" />[:mdi-github:](https://github.com/az4521/tachiyomiAZ)
+- [Aniyomi](https://aniyomi.org/) [:mdi-github:](https://github.com/aniyomiorg/aniyomi)
+- [Dantotsu](https://dantotsuapp.netlify.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />[:mdi-github:](https://github.com/rebelonion/Dantotsu)
 - [Neko](https://github.com/nekomangaorg/Neko)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 :::
@@ -65,7 +65,7 @@ outline: [1,2]
 ## Novel Readers
 
 ### Online
-- [Shosetsu](https://shosetsu.app/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://gitlab.com/shosetsuorg/shosetsu" />
+- [Shosetsu](https://shosetsu.app/) [:mdi-gitlab:](https://gitlab.com/shosetsuorg/shosetsu)
 - [Quicknovel](https://github.com/LagradOst/QuickNovel)
 - [LN Reader](https://github.com/LNReader/lnreader)
 - [Ranobe](https://github.com/ranobe-org/ranobe)
@@ -86,7 +86,7 @@ outline: [1,2]
   - [Kurumi](https://github.com/subrotokumar/kurumi)
 - **MyAnimeList**
   - [DailyAL](https://github.com/JICA98/DailyAL)
-  - [MoeList](https://moelist.net/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/axiel7/MoeList" />
+  - [MoeList](https://moelist.net/) [:mdi-github:](https://github.com/axiel7/MoeList)
 - **Others**
   - [Kitsune](https://github.com/Drumber/Kitsune) :simple-icons-kitsu:
   - [OpenComicVine](https://github.com/proninyaroslav/OpenComicVine) <Badge type="info" text="ComicVine" />
@@ -111,7 +111,7 @@ outline: [1,2]
 # iOS
 
 ## Anime Streaming
-- [9Animator](https://nineanimator.marcuszhou.com/) <Badge type="tip" icon="i-ic-outline-discord" text="Nightly" link="https://discord.gg/dzTVzeW" /> <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/SuperMarcus/NineAnimator" />
+- [9Animator](https://nineanimator.marcuszhou.com/) <Badge type="tip" icon="i-ic-outline-discord" text="Nightly" link="https://discord.gg/dzTVzeW" /> [:mdi-github:](https://github.com/SuperMarcus/NineAnimator)
 - [Chouten beta](https://testflight.apple.com/join/Cg1rAPB8) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/GJGMJRPJ5j" />
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [MiruTV](https://mirutv.app/)
@@ -120,8 +120,8 @@ outline: [1,2]
 ## Manga Readers
 
 ### Online
-- [Paperback](https://paperback.moe/) <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="https://thenetsky.github.io/netskys-extensions/" /><Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/Paperback-iOS/app" />
-- [Aidoku](https://aidoku.app/) <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="https://github.com/Skittyblock/aidoku-community-sources" /><Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/Aidoku/Aidoku" />
+- [Paperback](https://paperback.moe/) <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="https://thenetsky.github.io/netskys-extensions/" />[:mdi-github:](https://github.com/Paperback-iOS/app)
+- [Aidoku](https://aidoku.app/) <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="https://github.com/Skittyblock/aidoku-community-sources" />[:mdi-github:](https://github.com/Aidoku/Aidoku)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [Suwatte](https://suwatte.mantton.com/) <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="https://rentry.co/suwatte2" />
 - [Tachimanga](https://tachimanga.github.io/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="https://tachimanga.app/help/guides/adding-repos.html" /> <Badge type="warning" text="Freemium" />
@@ -162,18 +162,18 @@ or buy an Android phone :ic-twotone-thumb-up:
 
 ## Anime Streaming
 
-- [Miru](https://miru.watch/) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/ThaUnknown/miru/" /> <Badge type="info" text="Torrent" />
+- [Miru](https://miru.watch/) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/ThaUnknown/miru/) <Badge type="info" text="Torrent" />
 - [Anikki](https://github.com/Kylart/Anikki) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
 - [Toru](https://github.com/sweetbbak/toru) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" />
 - [Mangayomi](https://github.com/kodjodevf/mangayomi) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
 - [Layendanimator](https://github.com/Layendan/Layendanimator) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Online" />
-- [AnimeTV](https://amarullz.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/amarullz/AnimeTV" /><Badge type="info" text="Online" />
+- [AnimeTV](https://amarullz.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/amarullz/AnimeTV)<Badge type="info" text="Online" />
 
 :::details More
 - [Stremio](https://www.stremio.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
   - :material-symbols-subdirectory-arrow-right: [Stremio Tools](#anime-tools)
 - [Totoro](https://github.com/insomniachi/Totoro) :ic-baseline-window: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
-- [Miru App](https://miru.js.org/) :ic-baseline-window: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/miru-project/miru-app" /> <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
+- [Miru App](https://miru.js.org/) :ic-baseline-window: [:mdi-github:](https://github.com/miru-project/miru-app) <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
 - [Seanime](https://seanime.rahim.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Online" />
 - [ani-cli](https://github.com/pystardust/ani-cli) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Online" />
 - [Akuse](https://github.com/akuse-app/Akuse) :ic-baseline-window: <Badge type="info" text="Online" />
@@ -203,29 +203,29 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 ### Local
 
-- [YACReader](https://www.yacreader.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/YACReader/yacreader" /> <tooltip><ul><li>Has all the standard features, keeps last read history</li><li>Doesn't have built-in library like MComix, only the history</li><li>The bundled YACLibrary is excellent</li><li>Lots of customization</li><li>Can act like a local manga server like calibre</li><li>But the server client for <a href="https://play.google.com/store/apps/details?id=com.yacreader.yacreader&hl=en&gl=US">Android</a> and <a href="https://apps.apple.com/ca/app/yacreader-comic-reader/id635717885">iOS</a> is paid</li></ul></tooltip>
+- [YACReader](https://www.yacreader.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/YACReader/yacreader) <tooltip><ul><li>Has all the standard features, keeps last read history</li><li>Doesn't have built-in library like MComix, only the history</li><li>The bundled YACLibrary is excellent</li><li>Lots of customization</li><li>Can act like a local manga server like calibre</li><li>But the server client for <a href="https://play.google.com/store/apps/details?id=com.yacreader.yacreader&hl=en&gl=US">Android</a> and <a href="https://apps.apple.com/ca/app/yacreader-comic-reader/id635717885">iOS</a> is paid</li></ul></tooltip>
 - [CDisplayEx](https://www.cdisplayex.com/) :ic-baseline-window: <tooltip><ul><li>Minimalist UI</li><li>Fast and simple reader with good amount of configuration</li><li>Has Nearest, Draft, linear and Lanczos (with various level) as scaling options</li><li>Not FOSS and not maintained since the development team has marked it as complete</li><li>No library view, only recent reads</li></ul></tooltip>
 - [Yomikiru](https://github.com/mienaiyami/yomikiru) :ic-baseline-window::mingcute-linux-fill: <tooltip>Simple UI with all the basic settings. Has longstrip mode and anilist tracking.</tooltip>
 - [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) :ic-baseline-window:
 - [OpenComic](https://github.com/ollm/OpenComic) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <tooltip><ul><li>Nice clean UI, has dark mode</li><li>Has all the standard functions, including recent history</li><li>Has long strip mode which is pretty smooth</li><li>Has Anilist tracking built in as well as controller support</li><li>Supports Lanczos and other scaling methods.</li></ul></tooltip>
 - [MComix](https://sourceforge.net/projects/mcomix/files/) :ic-baseline-window::mingcute-linux-fill: <tooltip><ul><li>Minimal & responsive UI with good amount of customization</li><li>Has nice library option, also remembers last reading options</li><li>Has 3 scaling options. Normal, Bilinear (default) and hyperbolic</li></ul></tooltip>
-- [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) :ic-baseline-window: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/sumatrapdfreader/sumatrapdf" /> <tooltip><ul><li>Very simple program with all the standard features</li><li>Doesn't have a library, but keeps track of recently opened files</li><li>Includes vertical mode</li><li>Can open a variety of ebook formats (PDF, epub, mobi, cbz/cbr, DjVu, XPS, CHM)</li></ul></tooltip>
+- [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) :ic-baseline-window: [:mdi-github:](https://github.com/sumatrapdfreader/sumatrapdf) <tooltip><ul><li>Very simple program with all the standard features</li><li>Doesn't have a library, but keeps track of recently opened files</li><li>Includes vertical mode</li><li>Can open a variety of ebook formats (PDF, epub, mobi, cbz/cbr, DjVu, XPS, CHM)</li></ul></tooltip>
 - [ComicRack CE](https://github.com/maforget/ComicRackCE) :ic-baseline-window:
 
 
 ## Novel Readers
 
-- [Calibre](https://calibre-ebook.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/kovidgoyal/calibre" />
-- [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) :ic-baseline-window: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/sumatrapdfreader/sumatrapdf" />
-- [Koodo Reader](https://www.koodoreader.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/koodo-reader/koodo-reader" />
-- [Thorium reader](https://www.edrlab.org/software/thorium-reader/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/edrlab/thorium-reader" />
+- [Calibre](https://calibre-ebook.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/kovidgoyal/calibre)
+- [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) :ic-baseline-window: [:mdi-github:](https://github.com/sumatrapdfreader/sumatrapdf)
+- [Koodo Reader](https://www.koodoreader.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/koodo-reader/koodo-reader)
+- [Thorium reader](https://www.edrlab.org/software/thorium-reader/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/edrlab/thorium-reader)
 
 
 ## Downloaders
 
 ### Anime
 
-- [Hakuneko](https://hakuneko.download/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/manga-download/hakuneko" /> <tooltip><ul><li>No Crunchyroll implementation</li><li>You have to index each site first, which takes quite a long time, after that the search is almost instant, but loading episodes for anime again takes some time depending on the source.</li><li>Not a great interface, but it does the job, and you can tell it is more thought out for manga.</li><li>Not too many anime sources, some of them do not work.</li></ul></tooltip>
+- [Hakuneko](https://hakuneko.download/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/manga-download/hakuneko) <tooltip><ul><li>No Crunchyroll implementation</li><li>You have to index each site first, which takes quite a long time, after that the search is almost instant, but loading episodes for anime again takes some time depending on the source.</li><li>Not a great interface, but it does the job, and you can tell it is more thought out for manga.</li><li>Not too many anime sources, some of them do not work.</li></ul></tooltip>
 - [animdl](https://github.com/justfoolingaround/animdl) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<tooltip><ul><li>No UI, terminal based</li><li>Easy to use once installed</li><li>Not too many anime sources, some of them do not work.</li></ul></tooltip>
 - [ADL](https://github.com/RaitaroH/adl) :ic-baseline-window::mingcute-linux-fill:<tooltip><ul><li>No UI, terminal based</li><li>"Complicated" installation, especially on Windows</li><li>Uses many different scripts, including animedl, so lots of functionality</li><li>Tracking capability & many more</li><li>Same amount of sources as AnimDL</li></ul></tooltip>
 - [Crunchyroll-Downloader](https://github.com/Crunchy-DL/Crunchy-Downloader) :ic-baseline-window:
@@ -239,7 +239,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Red Squirrel's Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader) :ic-baseline-window::mingcute-linux-fill:
 - [Hakuneko](https://github.com/manga-download/hakuneko) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<tooltip><ul><li>Currently the best downloader</li><li>Huge number of sites supported</li><li>Customizable UI</li><li>Can download anime too</li></ul></tooltip>
 - [MangaL](https://github.com/metafates/mangal) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<tooltip><ul><li>TUI based</li><li>Very Fast</li><li>You can add your own lua scrapers for non-supported sites (mangadex and mangasee already supported)</li></ul></tooltip>
-- [HDoujin Downloader](https://doujindownloader.com/) :ic-baseline-window: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/HDoujinDownloader/HDoujinDownloader" /><tooltip><ul><li>Huge list of supported nsfw sites</li><li>Good UI, many settings and amazing speed</li><li>But has a 25 chapter daily limit</li></ul></tooltip>
+- [HDoujin Downloader](https://doujindownloader.com/) :ic-baseline-window: [:mdi-github:](https://github.com/HDoujinDownloader/HDoujinDownloader)<tooltip><ul><li>Huge list of supported nsfw sites</li><li>Good UI, many settings and amazing speed</li><li>But has a 25 chapter daily limit</li></ul></tooltip>
 
 
 ::: details More
@@ -274,14 +274,14 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
   - [Plex to AniList Sync](https://github.com/RickDB/PlexAniSync)
   - [PlexAniSync-Mappings](https://github.com/mizz141/PlexAniSync-Mappings)
   - [Maintainerr](https://github.com/jorenn92/Maintainerr)
-- [Seanime](https://seanime.rahim.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/5rahim/seanime" />
+- [Seanime](https://seanime.rahim.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/5rahim/seanime)
 - [Shoko Anime](https://shokoanime.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
   - [Shokofin](https://github.com/ShokoAnime/Shokofin)
 - **Stremio**
   - [Stremio Community Addons List](https://stremio-addons.netlify.app/)
-  - [Stremio Addon Manager](https://stremio-addon-manager.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/pancake3000/stremio-addon-manager" />
+  - [Stremio Addon Manager](https://stremio-addon-manager.vercel.app/) [:mdi-github:](https://github.com/pancake3000/stremio-addon-manager)
   - [Stremio Jackett Addon](https://github.com/aymene69/stremio-jackett)
-  - [Animeo: AniList Tracking](https://7a625ac658ec-animeo.baby-beamup.club/configure) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/Jenrykster/animeo" />
+  - [Animeo: AniList Tracking](https://7a625ac658ec-animeo.baby-beamup.club/configure) [:mdi-github:](https://github.com/Jenrykster/animeo)
   - [SIMKL Addon](https://simkl.com/apps/stremio/)
   - [Anime Catalogs](https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/configure)
 
@@ -338,14 +338,14 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
     - [KennyNL](https://github.com/KenneyNL/Adobe-Alternatives)
     - [XdanielArt](https://rentry.org/adobealt)
 - [Aegisub](https://github.com/arch1t3cht/Aegisub) :ic-baseline-window::mingcute-linux-fill:<Badge type="tip" text="Original" link="https://github.com/arch1t3cht/Aegisub" />
-- [AviSynth+](https://avs-plus.net/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/AviSynth/AviSynthPlus" />
+- [AviSynth+](https://avs-plus.net/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/AviSynth/AviSynthPlus)
 - [gMKVExtractGUI](https://sourceforge.net/projects/gmkvextractgui/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [MKVcleaver](https://www.videohelp.com/software/MKVcleaver) :ic-baseline-window:
 - [MKV Extract](https://qgustavor.github.io/mkv-extract/en/) :mdi-earth:
 - [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) :ic-baseline-window:
 - [mpvQC](https://github.com/mpvqc/mpvQC) :ic-baseline-window:
 - [Sushi.net](https://github.com/maxpiva/Sushi.Net) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [VapourSynth](https://www.vapoursynth.com/) :ic-baseline-window: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/vapoursynth/vapoursynth" />
+- [VapourSynth](https://www.vapoursynth.com/) :ic-baseline-window: [:mdi-github:](https://github.com/vapoursynth/vapoursynth)
   - :material-symbols-subdirectory-arrow-right: [VSDB](https://vsdb.top/)
 - [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - :material-symbols-subdirectory-arrow-right: [Encoding & Fansubbing Guides](/misc.md#encoding-fansubbing-guides)
@@ -365,14 +365,14 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
   - [Jellyfin](https://jellyfin.org/)
   - [Emby](https://emby.media/)
 - **Manga**
-  - [Komga](https://komga.org/) :glowing-star: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/gotson/komga" />
-  - [Kavita](https://www.kavitareader.com/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/Kareadita/Kavita" />
+  - [Komga](https://komga.org/) :glowing-star: [:mdi-github:](https://github.com/gotson/komga)
+  - [Kavita](https://www.kavitareader.com/) [:mdi-github:](https://github.com/Kareadita/Kavita)
   - [LANraragi](https://github.com/Difegue/LANraragi)
-  - [Teemii](https://www.teemii.io/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/dokkaner/teemii" />
+  - [Teemii](https://www.teemii.io/) [:mdi-github:](https://github.com/dokkaner/teemii)
   - [Mango](https://github.com/getmango/Mango) <Badge type="warning" text="Outdated" />
 - **Novels**
-  - [Kavita](https://www.kavitareader.com/) :glowing-star: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/Kareadita/Kavita" />
-  - [Komga](https://komga.org/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/gotson/komga" />
+  - [Kavita](https://www.kavitareader.com/) :glowing-star: [:mdi-github:](https://github.com/Kareadita/Kavita)
+  - [Komga](https://komga.org/) [:mdi-github:](https://github.com/gotson/komga)
   - [Calibre-Web](https://github.com/janeczku/calibre-web)
   - [Librium](https://librumreader.com/)
 - **Audiobook**

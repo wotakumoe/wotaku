@@ -120,7 +120,7 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 ### Fan Games
 - [Deluge RPG](https://www.delugerpg.com/)
 - [Eevee Expo](https://eeveeexpo.com/)
-- [PokéRogue](https://pokerogue.net/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/pagefaultgames/pokerogue" />
+- [PokéRogue](https://pokerogue.net/) [:mdi-github:](https://github.com/pagefaultgames/pokerogue)
 - [Pokémon Infinite Fusion](https://infinitefusion.fandom.com/wiki/Pok%C3%A9mon_Infinite_Fusion_Wiki)
 - [Pokémon Showdown!](https://play.pokemonshowdown.com/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://dex.pokemonshowdown.com/" />
 - [Pokemon Revolution](https://pokemonrevolution.net/home)

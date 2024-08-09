@@ -70,7 +70,7 @@ outline: 1
 - [Anime Countdown](https://animecountdown.com/)
 - [Livechart](https://www.livechart.me/) :glowing-star: 
 - [Monthly.moe](https://www.monthly.moe/)
-- [Notify.moe](https://notify.moe/calendar) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/animenotifier/notify.moe" />
+- [Notify.moe](https://notify.moe/calendar) [:mdi-github:](https://github.com/animenotifier/notify.moe)
 - [Senpai.moe](https://www.senpai.moe/)
 - [Syoboi Calendar](https://cal.syoboi.jp/) :flag-japan:
 - [Moon Phase](https://m-p.sakura.ne.jp/) :flag-japan:
@@ -92,7 +92,7 @@ outline: 1
 - [Anime Stats](https://anime-stats.net/) :glowing-star:
 - [Anime Corner](https://animecorner.me/category/anime-corner/rankings/)
 - [Anitrendz](https://anitrendz.com/charts/top-anime)
-- [Kitsu Season Trends](https://season.moe/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/wopian/kitsu-season-trends" />
+- [Kitsu Season Trends](https://season.moe/) [:mdi-github:](https://github.com/wopian/kitsu-season-trends)
 
 
 
@@ -109,12 +109,12 @@ outline: 1
 - [:ic-outline-discord: Manga Groups Portal](https://discord.gg/9KGMzP2)
 - [r/LightNovels reading order](https://old.reddit.com/r/LightNovels/wiki/reading_order)
 - [Shoseki Ranking](http://shosekiranking.blog.fc2.com/)
-- [Touhou Doujinshi Index](https://scarlet.nanoskript.dev/) :glowing-star: <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" /> <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/nanoskript/touhou-doujinshi-index" />  
+- [Touhou Doujinshi Index](https://scarlet.nanoskript.dev/) :glowing-star: <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" /> [:mdi-github:](https://github.com/nanoskript/touhou-doujinshi-index)  
 
 ### Calendar
 
 #### Index
-- [Mynewworm](https://myneworm.katsurin.com/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/Butterstroke/Myneworm" />
+- [Mynewworm](https://myneworm.katsurin.com/) [:mdi-github:](https://github.com/Butterstroke/Myneworm)
 - [Otaku Calendar](https://otakucalendar.com/Release/?filterCategory=2)
 - [r/LightNovels upcoming releases](https://old.reddit.com/r/LightNovels/wiki/upcomingreleases/)
 - [Von's Manga Calendar](https://v0n.notion.site/Manga-297a9ad3a4904173b3a4ce319f9b2879)
@@ -164,7 +164,7 @@ outline: 1
 :::
 
 ## Booru
-- [Booruwf](https://booru.pixiv.pics/) :glowing-star: <Badge type="tip" text="Moeview" link="https://moeview.pixiv.pics/" /> <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/asadahimeka/booruwf-web" /> 
+- [Booruwf](https://booru.pixiv.pics/) :glowing-star: <Badge type="tip" text="Moeview" link="https://moeview.pixiv.pics/" /> [:mdi-github:](https://github.com/asadahimeka/booruwf-web) 
 - [Danbooru](https://danbooru.donmai.us/) 
 - [Donmai](https://donmai.moe/) <Badge type="green" link="" text="SFW"/>
 - [Gelbooru](https://gelbooru.com/)
@@ -193,7 +193,7 @@ outline: 1
 - [Minitokyo](http://www.minitokyo.net/)
 - [Studio Ghibli](https://www.ghibli.jp/info/013772/) <Badge type="green" text="SFW" />
 - [Wallhaven](https://wallhaven.cc/)
-- [wanderer.moe](https://wanderer.moe/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/wanderer-moe/site" />
+- [wanderer.moe](https://wanderer.moe/) [:mdi-github:](https://github.com/wanderer-moe/site)
 - [:four-leaf-clover:/w/](http://catalog.neet.tv/w/) <Badge type="danger" icon="i-fxemoji-skull" text="NSFL" />
 
 ::: danger All listed sites have NSFW content unless specified otherwise.
@@ -259,9 +259,9 @@ outline: 1
 # Utility
 
 ## Anime & Manga
-- [3x3 Generator](https://gqgs.github.io/3x3-generator/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/gqgs/3x3-generator" />
-- [MangaAdaptations for AniList](https://anilist-adaptations.timschneeberger.me/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/timschneeb/manga-adaptations-anilist" />
-- [Mitsukeru for AniList](https://mitsukeru.timschneeberger.me/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/timschneeb/Mitsukeru" />
+- [3x3 Generator](https://gqgs.github.io/3x3-generator/) [:mdi-github:](https://github.com/gqgs/3x3-generator)
+- [MangaAdaptations for AniList](https://anilist-adaptations.timschneeberger.me/) [:mdi-github:](https://github.com/timschneeb/manga-adaptations-anilist)
+- [Mitsukeru for AniList](https://mitsukeru.timschneeberger.me/) [:mdi-github:](https://github.com/timschneeb/Mitsukeru)
 - [Randime](https://randime.moe/)
 - [Related Anime](https://relatedanime.com/)
 - [Spin.moe](https://spin.moe/)
@@ -272,27 +272,27 @@ outline: 1
 
 - **Search**
   - [SauceNAO](https://saucenao.com/) :glowing-star:
-  - [Trace](https://trace.moe/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/soruly/trace.moe" />
-  - [SauceKudasai](https://saucekudasai.com/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/ayushgptaa/SauceKudasai" />
+  - [Trace](https://trace.moe/) [:mdi-github:](https://github.com/soruly/trace.moe)
+  - [SauceKudasai](https://saucekudasai.com/) [:mdi-github:](https://github.com/ayushgptaa/SauceKudasai)
   - [Multi-service image search](https://iqdb.org/)
 - **Upscaling**
   - [Waif2x](https://unlimited.waifu2x.net/) <Badge type="tip" text="Cloud Ver" link="https://waifu2x.udp.jp/" /> <Badge type="tip" icon="mark-github" text="GitHub" link="https://github.com/nagadomi/waifu2x" />
-  - [WaifuXL](https://waifuxl.com/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/TheFutureGadgetsLab/WaifuXL" />
+  - [WaifuXL](https://waifuxl.com/) [:mdi-github:](https://github.com/TheFutureGadgetsLab/WaifuXL)
 - **Others**
   - [Ermitteln](https://ermitteln.ihateani.me/)
-  - [Imgtrans](https://touhou.ai/imgtrans/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/zyddnys/manga-image-translator" />
+  - [Imgtrans](https://touhou.ai/imgtrans/) [:mdi-github:](https://github.com/zyddnys/manga-image-translator)
 
 ## Stats
 
-  - [Sekai](https://sekai.rl404.com/) :glowing-star: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/rl404/sekai" /><Badge type="info" text="MAL" /> 
+  - [Sekai](https://sekai.rl404.com/) :glowing-star: [:mdi-github:](https://github.com/rl404/sekai)<Badge type="info" text="MAL" /> 
   - [MAL Badges](https://www.mal-badges.com/) <Badge type="info" text="MAL" />
-  - [anime.plus](https://anime.plus/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/anime-plus/graph" /><Badge type="info" text="MAL" />
-  - [Anistats](https://mayudev.github.io/anistats/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/mayudev/anistats" /><Badge type="info" text="AL" />
+  - [anime.plus](https://anime.plus/) [:mdi-github:](https://github.com/anime-plus/graph)<Badge type="info" text="MAL" />
+  - [Anistats](https://mayudev.github.io/anistats/) [:mdi-github:](https://github.com/mayudev/anistats)<Badge type="info" text="AL" />
 
 
 ## Others
 - [MAL/AL/K/AP lists XML Exporter](https://malscraper.azurewebsites.net/)
-- [Trakt to MAL](https://anitrakt.huere.net/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/ryuuganime/aniTrakt-IndexParser" />
+- [Trakt to MAL](https://anitrakt.huere.net/) [:mdi-github:](https://github.com/ryuuganime/aniTrakt-IndexParser)
 
 
 
@@ -303,9 +303,9 @@ outline: 1
 ## General
 
 - **:glowing-star: Fan Projects**
-  - [Holodex](https://holodex.net/) <Badge type="info" text="Musicdex" link="https://music.holodex.net/" /> <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/HolodexNet" />
-  - [Ragtag Archive](https://archive.ragtag.moe/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/ragtag-archive" />
-  - [Patchwork Archive](https://patchwork.moekyun.me/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/Patchwork-Archive/" />
+  - [Holodex](https://holodex.net/) <Badge type="info" text="Musicdex" link="https://music.holodex.net/" /> [:mdi-github:](https://github.com/HolodexNet)
+  - [Ragtag Archive](https://archive.ragtag.moe/) [:mdi-github:](https://github.com/ragtag-archive)
+  - [Patchwork Archive](https://patchwork.moekyun.me/) [:mdi-github:](https://github.com/Patchwork-Archive/)
 - **Database**
   - [Good VTuber Subs](https://goodvtubersubs.com/) :glowing-star:
   - [Virtual YouTuber Wiki ](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki)
@@ -507,7 +507,7 @@ outline: 1
 
 ### Quiz
 - [AniGuessr](https://aniguessr.com/)
-- [Anicheck](https://anicheck.moe/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/gubo97000/aniCheck" />
+- [Anicheck](https://anicheck.moe/) [:mdi-github:](https://github.com/gubo97000/aniCheck)
 - [Anime Music Quiz](https://animemusicquiz.com/)
 - [AnimeGuess](https://www.animeguess.moe/)
 - [Animerdle](https://www.animerdle.com/)
@@ -523,7 +523,7 @@ outline: 1
 - [Anime Girls Holding Programming Books](https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/)
 - [HUNTER×HUNTER Hiatus Chart](https://hiatus-hiatus.github.io/)
 - [TV Tropes](https://tvtropes.org/)
-- [Vagabond Hiatus Chart](https://vagabond-hiatus-chart.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/falsepopsky/vagabond-hiatus-chart" />
+- [Vagabond Hiatus Chart](https://vagabond-hiatus-chart.vercel.app/) [:mdi-github:](https://github.com/falsepopsky/vagabond-hiatus-chart)
 - [Wired Sound For Wired People](https://fauux.neocities.org/)
 
 ## Recommendations

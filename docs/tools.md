@@ -224,8 +224,8 @@ outline: [1,2]
 ## Usenet Tools
 
 - [NZBHydra 2](https://github.com/theotherp/nzbhydra2)
-- [SABnzbd](https://sabnzbd.org/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/sabnzbd/sabnzbd" />
-- [NZBget](https://nzbget.com/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/nzbgetcom/nzbget" />
+- [SABnzbd](https://sabnzbd.org/) [:mdi-github:](https://github.com/sabnzbd/sabnzbd)
+- [NZBget](https://nzbget.com/) [:mdi-github:](https://github.com/nzbgetcom/nzbget)
 - [NZB Unity](https://github.com/tumblfeed/nzbunity)
 - [Nyuu](https://github.com/animetosho/Nyuu)
 - [ngPost](https://github.com/mbruel/ngPost)

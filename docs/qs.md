@@ -25,15 +25,15 @@ outline: [2,3]
 ### Software
 
 - **Android**
-  - [Aniyomi](https://aniyomi.org/) :glowing-star: <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" /><Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/aniyomiorg/aniyomi" />
+  - [Aniyomi](https://aniyomi.org/) :glowing-star: <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />[:mdi-github:](https://github.com/aniyomiorg/aniyomi)
   - [Dantotsu](https://dantotsuapp.netlify.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />
-  - [AnimeTV](https://amarullz.com/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/amarullz/AnimeTV" />
+  - [AnimeTV](https://amarullz.com/) [:mdi-github:](https://github.com/amarullz/AnimeTV)
 - **iOS**
   - [Mangayomi](https://github.com/kodjodevf/mangayomi)
   - [MiruTV](https://mirutv.app/)
   - [Mochi](https://discord.gg/HnETzt89cH)
 - **PC**
-  - [Miru](https://miru.watch/) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/ThaUnknown/miru/" /> <Badge type="info" text="Torrent" />
+  - [Miru](https://miru.watch/) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/ThaUnknown/miru/) <Badge type="info" text="Torrent" />
   - [Anikki](https://github.com/Kylart/Anikki) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
   - [Mangayomi](https://github.com/kodjodevf/mangayomi) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
 
@@ -55,8 +55,8 @@ outline: [2,3]
 ### Software
 
 - **Android**
-  - [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/jobobby04/TachiyomiSY" />
-  - [TachiyomiJ2K](https://mihon.app/forks/TachiyomiJ2K/) :glowing-star: <Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/Jays2Kings/tachiyomiJ2K" />
+  - [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:mdi-github:](https://github.com/jobobby04/TachiyomiSY)
+  - [TachiyomiJ2K](https://mihon.app/forks/TachiyomiJ2K/) :glowing-star: [:mdi-github:](https://github.com/Jays2Kings/tachiyomiJ2K)
   - [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :glowing-star: <Badge type="warning" text="Freemium" /><Badge type="info" text="Local" />
 - **iOS**
   - [Paperback](https://github.com/Paperback-iOS/app) <Badge type="tip" text="Sources" link="https://thenetsky.github.io/netskys-extensions/" />
@@ -75,9 +75,9 @@ outline: [2,3]
 ### Streaming
 
 - **Dedicated**
-  - [Anithemes.moe](https://animethemes.moe/) :glowing-star: <Badge type="info" text="Alt" link="https://themes.moe/" /><Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/AnimeThemes" />
+  - [Anithemes.moe](https://animethemes.moe/) :glowing-star: <Badge type="info" text="Alt" link="https://themes.moe/" />[:mdi-github:](https://github.com/AnimeThemes)
   - [Karaoke Mugen](https://kara.moe)
-  - [Anisong Database](https://anisongdb.com/) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" /><Badge type="info" icon="i-octicon-mark-github" text="GitHub" link="https://github.com/xSardine/AMQ-Artists-DB" />
+  - [Anisong Database](https://anisongdb.com/) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" />[:mdi-github:](https://github.com/xSardine/AMQ-Artists-DB)
 - **General**
   - [Apple Music](https://music.apple.com/) <Badge type="info" text="Lossless" />
   - [Spotify](https://spotify.com/)
