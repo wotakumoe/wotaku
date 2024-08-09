@@ -43,5 +43,5 @@ customDescription: Why not learn some words while reading or watching? Can help 
 
 
 ::: info More words
-[Zone-tan's Ecchication series](https://www.youtube.com/playlist?list=PLyD77dL4TECbsBqjxtaK9Q0wuncOuku3) & [Arikendo's video](https://youtu.be/GVlFTuy1RPM) for further research.
+[Zone-tan's Ecchication series](https://www.youtube.com/playlist?list=PLyD77dL4TECbsBqjxtaK9Q0wuncOuku3b) & [Arikendo's video](https://youtu.be/GVlFTuy1RPM) for further research.
 :::
