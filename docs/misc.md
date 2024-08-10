@@ -258,7 +258,9 @@ outline: 1
 ![](/banner/utility.png)
 # Utility
 
-## Anime & Manga
+<br>
+
+### Anime & Manga
 - [3x3 Generator](https://gqgs.github.io/3x3-generator/) [:mdi-github:](https://github.com/gqgs/3x3-generator)
 - [Anime Bingo](https://anime-bingo.aikats.us/) [:mdi-github:](https://github.com/walfie/anime-bingo)
 - [MangaAdaptations for AniList](https://anilist-adaptations.timschneeberger.me/) [:mdi-github:](https://github.com/timschneeb/manga-adaptations-anilist)
@@ -268,9 +270,7 @@ outline: 1
 - [Spin.moe](https://spin.moe/)
 - [uNoGS.com](https://unogs.com/)
 
-
-## Image
-
+### Image
 | Category | Websites |
 |---|---|
 | Search | [SauceNAO](https://saucenao.com/) :glowing-star: <br> [Trace](https://trace.moe/) [:mdi-github:](https://github.com/soruly/trace.moe) <br> [SauceKudasai](https://saucekudasai.com/) [:mdi-github:](https://github.com/ayushgptaa/SauceKudasai) <br> [Multi-service image search](https://iqdb.org/) |
@@ -278,15 +278,13 @@ outline: 1
 | Others | [Ermitteln](https://ermitteln.ihateani.me/) <br> [Imgtrans](https://touhou.ai/imgtrans/) [:mdi-github:](https://github.com/zyddnys/manga-image-translator) <br> [Slowpoke Pics](https://slow.pics/) |
 
 
-## Stats
+### Stats
+- [Sekai](https://sekai.rl404.com/) :glowing-star: [:mdi-github:](https://github.com/rl404/sekai)<Badge type="info" text="MAL" /> 
+- [MAL Badges](https://www.mal-badges.com/) <Badge type="info" text="MAL" />
+- [anime.plus](https://anime.plus/) [:mdi-github:](https://github.com/anime-plus/graph)<Badge type="info" text="MAL" />
+- [Anistats](https://mayudev.github.io/anistats/) [:mdi-github:](https://github.com/mayudev/anistats)<Badge type="info" text="AL" />
 
-  - [Sekai](https://sekai.rl404.com/) :glowing-star: [:mdi-github:](https://github.com/rl404/sekai)<Badge type="info" text="MAL" /> 
-  - [MAL Badges](https://www.mal-badges.com/) <Badge type="info" text="MAL" />
-  - [anime.plus](https://anime.plus/) [:mdi-github:](https://github.com/anime-plus/graph)<Badge type="info" text="MAL" />
-  - [Anistats](https://mayudev.github.io/anistats/) [:mdi-github:](https://github.com/mayudev/anistats)<Badge type="info" text="AL" />
-
-
-## Others
+### Others
 - [MAL/AL/K/AP lists XML Exporter](https://malscraper.azurewebsites.net/)
 - [Trakt to MAL](https://anitrakt.huere.net/) [:mdi-github:](https://github.com/ryuuganime/aniTrakt-IndexParser)
 
