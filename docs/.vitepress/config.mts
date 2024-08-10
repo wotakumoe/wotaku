@@ -9,6 +9,10 @@ import UnoCSS from "unocss/vite";
 import { generateImages, generateMeta } from "./hooks";
 import { emojiRender, defs, movePlugin, search, hostname, socials } from "./configs";
 import {
+  PageProperties,
+  PagePropertiesMarkdownSection,
+} from "@nolebase/vitepress-plugin-page-properties/vite";
+import {
   GitChangelog,
   GitChangelogMarkdownSection,
 } from "@nolebase/vitepress-plugin-git-changelog/vite";
@@ -94,12 +98,29 @@ export default defineConfig({
   },
   vite: {
     optimizeDeps: {
-      exclude: ["workbox-window", "@nolebase/vitepress-plugin-git-changelog/client"],
+      exclude: [
+        "@nolebase/vitepress-plugin-enhanced-readabilities/client",
+        "@nolebase/vitepress-plugin-git-changelog/client",
+        "@nolebase/vitepress-plugin-page-properties/client",
+      ],
     },
     ssr: {
-      noExternal: ["@nolebase/vitepress-plugin-git-changelog", "@nolebase/ui", "@fmhy/components"],
+      noExternal: [
+        "@nolebase/vitepress-plugin-enhanced-readabilities",
+        "@nolebase/vitepress-plugin-page-properties",
+        "@nolebase/vitepress-plugin-git-changelog",
+        "@nolebase/ui",
+        "@fmhy/components",
+      ],
     },
     plugins: [
+      PageProperties(),
+      PagePropertiesMarkdownSection(),
+      GitChangelog({
+        maxGitLogCount: 2000,
+        repoURL: "https://github.com/wotakumoe/Wotaku",
+      }),
+      GitChangelogMarkdownSection(),
       UnoCSS({
         configFile: "../unocss.config.ts",
       }),
@@ -109,11 +130,6 @@ export default defineConfig({
           movePlugin(c.plugins as any, "vitepress", "before", "unocss:transformers:pre");
         },
       },
-      GitChangelog({
-        maxGitLogCount: 2000,
-        repoURL: () => "https://github.com/wotakumoe/Wotaku",
-      }),
-      GitChangelogMarkdownSection(),
     ],
     resolve: {
       alias: [
