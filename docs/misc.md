@@ -271,18 +271,12 @@ outline: 1
 
 ## Image
 
-- **Search**
-  - [SauceNAO](https://saucenao.com/) :glowing-star:
-  - [Trace](https://trace.moe/) [:mdi-github:](https://github.com/soruly/trace.moe)
-  - [SauceKudasai](https://saucekudasai.com/) [:mdi-github:](https://github.com/ayushgptaa/SauceKudasai)
-  - [Multi-service image search](https://iqdb.org/)
-- **Upscaling**
-  - [Waif2x](https://unlimited.waifu2x.net/) <Badge type="tip" text="Cloud Ver" link="https://waifu2x.udp.jp/" /> <Badge type="tip" icon="mark-github" text="GitHub" link="https://github.com/nagadomi/waifu2x" />
-  - [WaifuXL](https://waifuxl.com/) [:mdi-github:](https://github.com/TheFutureGadgetsLab/WaifuXL)
-- **Others**
-  - [Ermitteln](https://ermitteln.ihateani.me/)
-  - [Imgtrans](https://touhou.ai/imgtrans/) [:mdi-github:](https://github.com/zyddnys/manga-image-translator)
-  - [Slowpoke Pics](https://slow.pics/)
+| Category | Websites |
+|---|---|
+| Search | [SauceNAO](https://saucenao.com/) :glowing-star: <br> [Trace](https://trace.moe/) [:mdi-github:](https://github.com/soruly/trace.moe) <br> [SauceKudasai](https://saucekudasai.com/) [:mdi-github:](https://github.com/ayushgptaa/SauceKudasai) <br> [Multi-service image search](https://iqdb.org/) |
+| Upscaling | [Waif2x](https://unlimited.waifu2x.net/) <Badge type="tip" text="Cloud Ver" link="https://waifu2x.udp.jp/" /> <Badge type="tip" icon="mark-github" text="GitHub" link="https://github.com/nagadomi/waifu2x" /> <br> [WaifuXL](https://waifuxl.com/) [:mdi-github:](https://github.com/TheFutureGadgetsLab/WaifuXL) |
+| Others | [Ermitteln](https://ermitteln.ihateani.me/) <br> [Imgtrans](https://touhou.ai/imgtrans/) [:mdi-github:](https://github.com/zyddnys/manga-image-translator) <br> [Slowpoke Pics](https://slow.pics/) |
+
 
 ## Stats
 
@@ -304,31 +298,14 @@ outline: 1
 
 ## General
 
-- **:glowing-star: Fan Projects**
-  - [Holodex](https://holodex.net/) <Badge type="info" text="Musicdex" link="https://music.holodex.net/" /> [:mdi-github:](https://github.com/HolodexNet)
-  - [Ragtag Archive](https://archive.ragtag.moe/) [:mdi-github:](https://github.com/ragtag-archive)
-  - [Patchwork Archive](https://patchwork.moekyun.me/) [:mdi-github:](https://github.com/Patchwork-Archive/)
-- **Database**
-  - [Good VTuber Subs](https://goodvtubersubs.com/) :glowing-star:
-  - [Virtual YouTuber Wiki ](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki)
-  - [Hololist](https://hololist.net/)
-  - [ironmouse Model Index](https://www.ironmousemodelindex.com/)
-  - [VTBs in Bilibili!](https://vtbs.moe/)
-- **Stats**
-  - [VChama](https://vchama.xyz) :glowing-star: <Badge type="info" text="Schedule" />
-  - [vtstats](https://vt.poi.cat/) :glowing-star: <Badge type="info" text="Schedule" /><Badge text="Revenue"/> 
-  - [VSTATS](https://www.vstats.jp/)
-  - [Userlocal VTuber](https://virtual-youtuber.userlocal.jp/) <Badge type="info" text="Stream Rank" link="https://live-ranking.userlocal.jp/vtuber-ranking" /><Badge type="info" text="Schedule" />
-  - [TwitchTracker](https://twitchtracker.com/)
-  - [Streams Charts](https://streamscharts.com/)
-- **Schedule**
-  - [VTuber Schedule](https://vtuberschedules.com/)
-  - [Hololyzer](https://www.hololyzer.net/)
-  - [vTubie](https://vtubie.com/)
-- **Others**
-  - [VTuber Highlights](https://vtuber.atodeyo.com/) :flag-japan: <Badge type="info" text="News" />
-  - [VTuber Newsdrop](https://vtubernewsdrop.com/) <Badge type="info" text="News" />
-  - [Reincar](https://reincar.net/) <Badge type="info" text="News" />
+| Category | Websites |
+|---|---|
+| Fan Projects | [Holodex](https://holodex.net/) <Badge type="info" text="Musicdex" link="https://music.holodex.net/" /> [:mdi-github:](https://github.com/HolodexNet) <br> [Ragtag Archive](https://archive.ragtag.moe/) [:mdi-github:](https://github.com/ragtag-archive) <br> [Patchwork Archive](https://patchwork.moekyun.me/) [:mdi-github:](https://github.com/Patchwork-Archive/) |
+| Database | [Good VTuber Subs](https://goodvtubersubs.com/) <br> [Virtual YouTuber Wiki](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki) <br> [Hololist](https://hololist.net/) <br> [ironmouse Model Index](https://www.ironmousemodelindex.com/) <br> [VTBs in Bilibili!](https://vtbs.moe/) |
+| Stats | [VChama](https://vchama.xyz) :glowing-star: <Badge type="info" text="Schedule" /> <br> [vtstats](https://vt.poi.cat/) :glowing-star: <Badge type="info" text="Schedule" /><Badge text="Revenue"/> <br> [VSTATS](https://www.vstats.jp/) <br> [Userlocal VTuber](https://virtual-youtuber.userlocal.jp/) <Badge type="info" text="Stream Rank" link="https://live-ranking.userlocal.jp/vtuber-ranking" /><Badge type="info" text="Schedule" /> <br> [TwitchTracker](https://twitchtracker.com/) <br> [Streams Charts](https://streamscharts.com/) |
+| Schedule | [VTuber Schedule](https://vtuberschedules.com/) <br> [Hololyzer](https://www.hololyzer.net/) <br> [vTubie](https://vtubie.com/) |
+| Others | [VTuber Highlights](https://vtuber.atodeyo.com/) :flag-japan: <Badge type="info" text="News" /> <br> [VTuber Newsdrop](https://vtubernewsdrop.com/) <Badge type="info" text="News" /> <br> [Reincar](https://reincar.net/) <Badge type="info" text="News" /> |
+
 
 
 ## Hololive
