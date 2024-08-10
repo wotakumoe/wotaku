@@ -282,6 +282,7 @@ outline: 1
 - **Others**
   - [Ermitteln](https://ermitteln.ihateani.me/)
   - [Imgtrans](https://touhou.ai/imgtrans/) [:mdi-github:](https://github.com/zyddnys/manga-image-translator)
+  - [Slowpoke Pics](https://slow.pics/)
 
 ## Stats
 
