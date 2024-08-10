@@ -16,7 +16,7 @@ ___
 - You can also customize the refresh interval and max article number there.
 
 ::: details Image preview
-![](/ss/rss/p1.png)
+![](/ss/qbit/rss1.png)
 :::
 
 #### Step 2: Adding feed URL
@@ -25,14 +25,14 @@ ___
 - Copy the feed URL from the address bar.
 
 ::: details Image preview
-![](/ss/rss/nyaa.png)
+![](/ss/qbit/rss2.png)
 :::
 
 - Now to add the feed URL, click on **New subscription**.
 - Then rename it to a relevant name. For that right click on feed URL, then **Edit feed URL...**
 
 ::: details Image preview
-![](/ss/rss/p2.png)
+![](/ss/qbit/rss3.png)
 :::
 
 #### Step 3: Adding Rules
@@ -42,9 +42,37 @@ ___
 - Then click **Close** and it will start downloading those.
 
 ::: details Image preview
-![](/ss/rss/p3.png)
+![](/ss/qbit/rss4.png)
 :::
 
+## Torrent Creator
+
+The torrent creator is used to generate **.torrent** files that let you download files from a tracker. This guide is generalized, so **read the rules of your tracker before uploading to see if they have any tracker specific rules.**
+
+___
+
+#### Steps
+- Press `Ctrl + N` to open up the **Torrent Creator**.
+- Select the file or folder you wanna upload.
+- You should adjust the piece size in order to keep the piece count between 1000 and 2000.
+- Depending on your tracker, check the Private tracker option.
+- Check **Optimize Allignment** and keep it **Disabled**
+- Add your announce URL given by the tracker in **Tracker URLs**. For public trackers, it's the same for everyone. For PTs, you get a personal announce URL, which you should keep private. Note that you should only add the announce URLs for the specific tracker you are uploading to. If one tracker has multiple announce URLs, add each in a new line.
+- Comment field gets filled by the tracker with the exact torrent URL.
+- Source field can have a tracker-specific requirement, or it can be fully optional.
+- Click on **Create** and set the destination.
+
+::: details Image preview
+![](/ss/qbit/creator.png)
+:::
+
+::: details Extra: Seeding your torrent
+After submitting your torrent with the **.torrent**,
+- Download the **.torrent** file from the new generated page.
+- Open the **.torrent** and set the download destination where the file/folder is kept
+
+qBittorent will check the file/folder and start seeding.
+:::
 
 ## VPN Binding
 
@@ -58,5 +86,5 @@ ___
 - Hit **OK** and restart qBittorent.
 
 ::: details Image preview
-![](/ss/bind.png)
+![](/ss/qbit/bind.png)
 :::
