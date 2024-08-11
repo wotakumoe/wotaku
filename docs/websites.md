@@ -226,39 +226,39 @@ outline: 1
 
 ### Manga
 
-- [Animated Glitched Scans](https://agscomics.com/) + :flag-south-korea:  <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/1dde9054-11fd-4f5e-a575-a50f7bd22d5f/animated-glitched-scans" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/15ncn1v/animated-glitched-scans" />
+- [Animated Glitched Scans](https://agscomics.com/) + :flag-south-korea:  <Badge type="info" text="Dex" link="https://mangadex.org/group/1dde9054-11fd-4f5e-a575-a50f7bd22d5f/animated-glitched-scans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/15ncn1v/animated-glitched-scans" />
 - [Assorted Scans](https://assortedscans.com/)
-- [Danke fürs Lesen Scans](https://danke.moe/)  <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/91035fe1-d6b0-4816-be51-b54d05d546cf/danke-furs-lesen" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/xlp7424/danke-fuers-lesen" />
-- [LHTranslation](https://lhtranslation.net/)  <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/24adf288-d0e3-4d34-b342-bf8c189aacaa/lhtranslation" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/f6nc2yt/lhtranslation" />
-- [Scylla Scans](https://scyllascans.org/r)  <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/4209a4a9-b838-4817-be40-0c8ef2f7be4a/scylla-scans" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/groups.html?id=14042" />
-- [TCB Scans](https://tcbscans.com/)  <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/db85f2a1-d69b-4181-a7a0-aa37db4bcbcf/tcb-scans" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/wn8v9bv/tcb-scans" />
-- [Tritinia](https://tritinia.org/) + :flag-china: :flag-south-korea:  <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/zfxsenj/tritinia-scans" />
+- [Danke fürs Lesen Scans](https://danke.moe/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/91035fe1-d6b0-4816-be51-b54d05d546cf/danke-furs-lesen" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/xlp7424/danke-fuers-lesen" />
+- [LHTranslation](https://lhtranslation.net/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/24adf288-d0e3-4d34-b342-bf8c189aacaa/lhtranslation" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/f6nc2yt/lhtranslation" />
+- [Scylla Scans](https://scyllascans.org/r)  <Badge type="info" text="Dex" link="https://mangadex.org/group/4209a4a9-b838-4817-be40-0c8ef2f7be4a/scylla-scans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/groups.html?id=14042" />
+- [TCB Scans](https://tcbscans.com/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/db85f2a1-d69b-4181-a7a0-aa37db4bcbcf/tcb-scans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/wn8v9bv/tcb-scans" />
+- [Tritinia](https://tritinia.org/) + :flag-china: :flag-south-korea:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/zfxsenj/tritinia-scans" />
 
 ### Manhwa
 
-- [Asura Scans](https://www.asurascans.com/) + :flag-china:  <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/juxsa9z/asura" />
-- [Flame Scans](https://flamecomics.com/) + :flag-china:  <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/fdad9851-164f-43fc-9ab0-25b8054c99ed/flame-scans" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/btgsdiy/flame-scans" />
-- [Immortal Updates](https://immortalupdates.com/) + :flag-china:  <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/1296f28d-7888-4fcc-8861-93edb6c05e8c/immortal-updates-scan" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/10z1hxo/immortal-updates-scan" />
-- [LSComic](https://lscomic.com/) + :flag-china:  <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/rot79ib/leviatanscans" />
-- [Luminous Scans](https://luminousscans.com/)  <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/jufm30w/luminous" />
-- [Manhwa Freak](https://manhwafreak.com/)  <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/3cc5b54a-b20e-4fc5-b2aa-bb51fed328dc/manhwafreak" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/busmxbf/manhwafreak" />
-- [MM Scans](https://mm-scans.org/)  <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/35ab5df4-f668-4ca4-895d-3e02cef509b6/mmscans" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/wctgyjk/mmscans" />
-- [Reaper Scans](https://reaperscans.com/) + :flag-china:  <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/e892ed1b-ed75-414a-bc86-71226f3364ad/reaper-scans" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/5ev5t5s/reaper-scans" />
-- [Reset Scams](https://reset-scans.com/) +:flag-japan: :flag-china:  <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/df9ckct/reset-scans" />
-- [Tritinia Scans](https://tritinia.org/) +:flag-japan: :flag-china: <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/zfxsenj/tritinia-scans" />
-- [Void Scans](https://void-scans.com/) + :flag-china: <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/10nt2ki/infernal-void-scans" />
-- [Zero Scans](https://zeroscans.com/) + :flag-china:  <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/dd0a3018-21f1-4488-948c-08499b179fcf/zero-scans" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/vlkvmk7/zero-scans-discord" />
+- [Asura Scans](https://www.asurascans.com/) + :flag-china:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/juxsa9z/asura" />
+- [Flame Scans](https://flamecomics.com/) + :flag-china:  <Badge type="info" text="Dex" link="https://mangadex.org/group/fdad9851-164f-43fc-9ab0-25b8054c99ed/flame-scans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/btgsdiy/flame-scans" />
+- [Immortal Updates](https://immortalupdates.com/) + :flag-china:  <Badge type="info" text="Dex" link="https://mangadex.org/group/1296f28d-7888-4fcc-8861-93edb6c05e8c/immortal-updates-scan" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/10z1hxo/immortal-updates-scan" />
+- [LSComic](https://lscomic.com/) + :flag-china:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/rot79ib/leviatanscans" />
+- [Luminous Scans](https://luminousscans.com/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/jufm30w/luminous" />
+- [Manhwa Freak](https://manhwafreak.com/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/3cc5b54a-b20e-4fc5-b2aa-bb51fed328dc/manhwafreak" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/busmxbf/manhwafreak" />
+- [MM Scans](https://mm-scans.org/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/35ab5df4-f668-4ca4-895d-3e02cef509b6/mmscans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/wctgyjk/mmscans" />
+- [Reaper Scans](https://reaperscans.com/) + :flag-china:  <Badge type="info" text="Dex" link="https://mangadex.org/group/e892ed1b-ed75-414a-bc86-71226f3364ad/reaper-scans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/5ev5t5s/reaper-scans" />
+- [Reset Scams](https://reset-scans.com/) +:flag-japan: :flag-china:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/df9ckct/reset-scans" />
+- [Tritinia Scans](https://tritinia.org/) +:flag-japan: :flag-china: <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/zfxsenj/tritinia-scans" />
+- [Void Scans](https://void-scans.com/) + :flag-china: <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/10nt2ki/infernal-void-scans" />
+- [Zero Scans](https://zeroscans.com/) + :flag-china:  <Badge type="info" text="Dex" link="https://mangadex.org/group/dd0a3018-21f1-4488-948c-08499b179fcf/zero-scans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/vlkvmk7/zero-scans-discord" />
 
 ### Manhua
 
-- [Ansh Scans](https://anshscans.org/)  <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/43a13d2b-21d5-4453-ad78-cba547b7e879/ansh-scans" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/tmszmfv/ansh-scans" />
+- [Ansh Scans](https://anshscans.org/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/43a13d2b-21d5-4453-ad78-cba547b7e879/ansh-scans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/tmszmfv/ansh-scans" />
 - [Disaster Scans](https://disasterscans.com/)
-- [Drake Scans](https://drakescans.com/)  <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/50caf96d-fe2b-4638-9d13-4954b782e112/drake-scans" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/ktajd9u/drake-scans" />
+- [Drake Scans](https://drakescans.com/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/50caf96d-fe2b-4638-9d13-4954b782e112/drake-scans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/ktajd9u/drake-scans" />
 - [Manhua Ga](https://manhuaga.com/)
-- [Manhua Plus](https://manhuaplus.com/)  <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/3apm0du/manhua-plus" />
+- [Manhua Plus](https://manhuaplus.com/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/3apm0du/manhua-plus" />
 - [Manhua SY](https://www.manhuasy.com/manhua/) & [Manga SY](https://www.mangasy.com/)
-- [Rizz Comic](https://rizzcomic.com/) + :flag-south-korea:  <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/g8dqjxt/realm-scans" />
-- [xCaliBR Scans](https://xcalibrscans.com/)  <Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/ynopo9s/cursed-xcalibr" />
+- [Rizz Comic](https://rizzcomic.com/) + :flag-south-korea:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/g8dqjxt/realm-scans" />
+- [xCaliBR Scans](https://xcalibrscans.com/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/ynopo9s/cursed-xcalibr" />
 
 
 ::: details :material-symbols-subdirectory-arrow-right: Related resources
