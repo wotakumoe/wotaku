@@ -275,10 +275,10 @@ If you have recommendations for good sites in your native language or want to re
 ### Manga
 - [Komikid](https://komikid.com/)
 - [Komiku](https://komiku.id/)
-- [Komikcast](https://komikcast.site/)
+- [Komikcast](https://komikcast.cz/)
 - [Mangaku](https://mangaku.fun/)
-- [Ryukomik](https://komik.ryukoproject.app/) [:mdi-github:](https://github.com/AzwarKusumah/ryukomik)
-- [Shinigami ID](https://shinigami.id/)
+- [MGKOMIK](https://mgkomik.id/)
+- [Shinigami ID](https://shinigami03.com/)
 - [YuuManga](https://yuumanga.blogspot.com/)
 
 ### Light Novels
