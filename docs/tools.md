@@ -139,6 +139,7 @@ outline: [1,2]
   - [XnView MP](https://www.xnview.com/en/xnviewmp/)
   - [JPEGView](https://github.com/sylikc/jpegview)
   - [qView](https://interversehq.com/qview/)
+  - [FastStone Image Viewer](https://www.faststone.org/FSViewerDetail.htm)
 - **Optimizer**
   - [imgdanke](https://github.com/DrWhoCares/imgdanke) <tooltip>Optional for GUI but does not support Pingo v1+ at the moment.</tooltip>
   - [ImageMagick](https://imagemagick.org/index.php) <Badge type="tip" text="Scripts" link="https://www.fmwconcepts.com/imagemagick/index.php" />
