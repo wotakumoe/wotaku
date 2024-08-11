@@ -39,13 +39,13 @@ export default defineConfig({
     ["link", { rel: "mask-icon", href: "/asset/inaread.png", color: "#56b4fc" }],
     // prettier-ignore
     [
-			"meta",
-			{
-				name: "keywords",
-				content:
-					"Anime, Anime Piracy, Manga, Manga Piracy, VTuber, Hentai, JPOP, Music, Japan, Learning Japanese, Weeb, Otaku",
-			},
-		],
+      "meta",
+      {
+        name: "keywords",
+        content:
+          "Anime, Anime Piracy, Manga, Manga Piracy, VTuber, Hentai, JPOP, Music, Japan, Learning Japanese, Weeb, Otaku",
+      },
+    ],
     [
       "link",
       {
@@ -117,10 +117,10 @@ export default defineConfig({
       PageProperties(),
       PagePropertiesMarkdownSection(),
       GitChangelog({
-        maxGitLogCount: 2000,
+        maxGitLogCount: 20,
         repoURL: "https://github.com/wotakumoe/Wotaku",
       }),
-      GitChangelogMarkdownSection(),
+      GitChangelogMarkdownSection({ sections: { disableContributors: true } }),
       UnoCSS({
         configFile: "../unocss.config.ts",
       }),
