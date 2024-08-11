@@ -117,7 +117,7 @@ export default defineConfig({
       PageProperties(),
       PagePropertiesMarkdownSection(),
       GitChangelog({
-        maxGitLogCount: 20,
+        maxGitLogCount: 400,
         repoURL: "https://github.com/wotakumoe/Wotaku",
       }),
       GitChangelogMarkdownSection({ sections: { disableContributors: true } }),
