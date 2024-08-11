@@ -327,15 +327,21 @@ outline: 1
 - [Sirin Audiobook Player](https://play.google.com/store/apps/details?id=com.sirin.android) :mdi-android: <Badge type="warning" text="Freemium" />
 
 ## Tools
-- [Audile](https://github.com/aleksey-saenko/MusicRecognizer) :mdi-android:
-- [Audire](https://github.com/alexmercerind/audire) :simple-icons-shazam::mdi-android:
-- [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) :mdi-lastfm::mdi-android:
-- [Seeker](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1) :mdi-android:<Badge type="info" text="Soulseek" />
-- [SongSync](https://github.com/Lambada10/SongSync)
-- [Stats.fm](https://stats.fm/) :mdi-spotify::mdi-android::ic-baseline-apple:
-- [Rush](https://github.com/shub39/Rush)
-- [Marvis Pro](https://apps.apple.com/au/app/marvis-pro/id1447768809) :mdi-lastfm::ic-baseline-apple:
 
+- **Identifier**
+  - [Audile](https://github.com/aleksey-saenko/MusicRecognizer) :mdi-android:
+  - [Audire](https://github.com/alexmercerind/audire) :simple-icons-shazam::mdi-android:
+- **Lyrics**
+  - [FastLyrics](https://github.com/TecCheck/FastLyrics)
+  - [Lyrics Grabbr](https://github.com/IllusionMan1212/lyrics-grabbr)
+  - [Rush](https://github.com/shub39/Rush)
+  - [SongSync](https://github.com/Lambada10/SongSync)
+- **Scrobbler**
+  - [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) :mdi-lastfm::mdi-android:
+  - [Marvis Pro](https://apps.apple.com/au/app/marvis-pro/id1447768809) :mdi-lastfm::ic-baseline-apple:
+- **Others**
+  - [Seeker](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1) :mdi-android:<Badge type="info" text="Soulseek" />
+  - [Stats.fm](https://stats.fm/) :mdi-spotify::mdi-android::ic-baseline-apple:
 
 
 ![](/music/mpc.png)
