@@ -119,7 +119,7 @@ outline: 1
 ::: tip Batch Downloading from Google Drive
 - To batch download from Google Drive, use [**JDownloader 2**](https://jdownloader.org/).
 - Keep the "**Max. Chunks per Download**" low, so that google doesn't rate limit you. You will find it at the **Settings** in the top bar.
-- To remove the annoyances in JDL2, [**follow this guide**](/guides/misc.md#jdownloader-ad-removal)
+- To remove the annoyances in JDL2, [**follow this guide**](/guides/tech/jdl)
 
 :::
 
