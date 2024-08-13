@@ -317,3 +317,10 @@ main figure figcaption {
   margin-top: 35px;
   margin-bottom: 15px;
 }
+
+/* Make the page half the width for class `sandbox` */
+.sandbox {
+  max-width: 50%;
+  width: 50%;
+  margin: 0 auto;
+}
