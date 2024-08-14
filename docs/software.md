@@ -76,7 +76,7 @@ outline: [1,2]
 - [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) <Badge type="warning" text="Freemium" />
 - [ReadEra](https://play.google.com/store/apps/details?id=org.readera) <Badge type="warning" text="Freemium" />
 - [Lithium: EPUB Reader](https://play.google.com/store/apps/details?id=com.faultexception.reader&hl=en&gl=US)
-
+- [Book's Story](https://github.com/Acclorite/book-story)
 
 ## Trackers
 
