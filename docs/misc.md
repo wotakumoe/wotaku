@@ -283,6 +283,7 @@ outline: 1
 - [MAL Badges](https://www.mal-badges.com/) <Badge type="info" text="MAL" />
 - [anime.plus](https://anime.plus/) [:mdi-github:](https://github.com/anime-plus/graph)<Badge type="info" text="MAL" />
 - [Anistats](https://mayudev.github.io/anistats/) [:mdi-github:](https://github.com/mayudev/anistats)<Badge type="info" text="AL" />
+- [KitsuStats](https://drumber.github.io/KitsuStats/#/) [:mdi-github:](https://github.com/Drumber/KitsuStats)<Badge type="info" text="Kitsu" />
 
 ### Others
 - [MAL/AL/K/AP lists XML Exporter](https://malscraper.azurewebsites.net/)
