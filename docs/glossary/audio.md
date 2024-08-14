@@ -24,12 +24,12 @@ outline: [1,2]
 ### Release
 | Terms | Details |
 | ---- | ---- |
-| Single |  |
-| EP | An EP is short for an “Extended Play”, which was a term derived from the vinyl era. EPs generally have more than one track, but contain less tracks than an album.  |
-| LP |  |
+| Single | A music release containing 1 or 2 songs. |
+| EP | Extended Play, a release usually containing 4 to 6 tracks.  |
+| LP | Long Play, a full album release usually containing 10 to 12 tracks. |
 | Album | An album is a collection of songs, either by a singular artist, vocalist, producer, or label. Sometimes, albums can even be compilations of multiple unrelated parties. They generally have a common theme, genre, or idea, known as a “Concept Album”, but they don't have to.  |
-| Compilation |  |
-| Label / Distrubutor |  |
+| Compilation | An album compiling tracks from different recordings of one or multiple aritsts. |
+| Label | A company that publishes, distributes and promotes the music of their affiliated artists. |
 
 ### Hardware
 | Terms | Details |
@@ -94,53 +94,36 @@ DSD’s high sampling rate allows for a wide dynamic range, even with a 1-bit de
 :::
 
 
-## Quantization
-Quantization involves sampling an analog audio signal and converting it into a digital format. This process includes taking periodic samples of the audio wave and recording the amplitude of the analog signal at each sample point.
+## Ananlog to Digital
+
+Analog audio signals are continuous sine wave. To process it digitally, we need to convert it into digital signal where we make it a discrete signal. The discretization goes on in both time and amplitude values.
+
+- Discretization of time -> Sampling
+- Discretization of amplitude -> Quantization
 
 
-Because the recorded amplitude values are approximations of the original, there are inherent errors. These errors manifest as a noise floor within the sound wave. A higher bit depth reduces the noise floor, making it less perceptible.
+### Sampling
+In sampling we take analog signals and take samples at regular interval (PCM). More info in [**sample rate**](#sample-rate).
+
+
+![](/glossary/audio/sampling.jpg)
+
+### Quantization
+Quantization involves sampling an analog audio signal and converting it into a digital format. This process includes taking periodic samples of the audio wave and recording the amplitude of the analog signal at each sample point. Because the recorded amplitude values are approximations of the original, there are inherent errors. These errors manifest as a noise floor within the sound wave. A higher bit depth reduces the noise floor, making it less perceptible.
 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/b/b8/Quantization_error.png)
 
 
-
 ## Sample Rate
-During quantization, the amount of samples taken from the analog audio signal per cycle of the audio to make a digital audio signal is known as the sample rate. As it's a per-second measurement, the unit is Hz (Hertz). Hertz are a measurement of frequency, or how many periods of a wave exist per second.
-
+During sampling, the amount of samples taken from the analog audio signal per cycle of the audio to make a digital audio signal is known as the sample rate. As it's a per-second measurement, the unit is Hz (Hertz). Hertz are a measurement of frequency, or how many periods of a wave exist per second.
 
 A higher sample rate means more data points of the signal. However, it doesn't necessarily mean higher quality. A higher sample rate lets you have sound waves of higher frequency, but for the same frequency, there are no advantages.
 
-
 For listeners, 44.1KHz is sufficient to represent all humanly audible frequencies. 44.1KHz is the standard sampling rate for CDs, and 48KHz is the standard sampling rate for DVDs and streaming services (originally brought forth to aid in timing with TV broadcasts). There is no functional difference between the two, beyond resampling issues that you may face.
-
 
 Higher sampling rates are often desirable by producers as it lets them modify the audio more flexibly without adding additional noise, but this is not relevant for playback. Higher sampling rates available on DACs are generally used for processing headroom (for e.g. low-pass filters), that might result in an audible difference.
 
-
-::: details Spectrogram / Spectral Analysis
-
-Spectral Analysis is a good way to identify potentially bad transcodes. The depth at which frequencies extend into the higher ranges can indicate the type of compression utilized on an audio file. Here [Spek](https://www.spek.cc/) has been used to analyze. The following are a couple of examples of different levels of quality: <br>
-
-![](/glossary/audio/spec/1.png)
-
-The above figure is the spectral analysis of a .flac file at 44.1 kHz. The source is lossless. The colors signify the loudness of the frequency as the track progresses through time. When the time domain intersects with a color, the frequency is played back at the loudness signified by the decibel meter on the right. A 44.1 kHz FLAC file can support frequencies up to 22.05 kHz. This value comes from halving 44.1 kHz. The audio contains 2 channels, so each channel is encoded at 22.05 kHz. This spectrogram shows frequencies up to around 50dB extending up to 22.05 kHz, which is a great indicator of a truly lossless file.  <br>
-
-![](/glossary/audio/spec/2.png)
-
-This spectral is of the same song, however, the file was transcoded from a FLAC to a 320 kbps MP3. The hard cutoff at 20 kHz is a good indicator of this sort of compression.  <br>
-
-![](/glossary/audio/spec/3.png)
-
-Again, this spectrogram is of the same song as the previous two. This time, the FLAC was transcoded to a 192 kbps MP3. Frequencies no longer extend past 19 kHz, however, a clear difference can be seen in the frequencies beyond 16 kHz. Much of the data has been filtered out, only leaving some of the data behind. This section has been highlighted in yellow. Comparing this highlighted section to the previous spectral, the differences become obvious. <br>
-
-![](/glossary/audio/spec/4.png)
-
-Spectrals vary a lot depending on the genre of music. More somber, classical inspired pieces, such as the above image, are generally going to have less frequency data than genres such as mainstream pop. Much like the first spectral, this spectral is also of a lossless FLAC file. Frequencies don't extend all the way to 22 kHz, but they don't necessarily have to. If the producer decided to cutoff frequencies past a certain point, they wouldn't exist, lossless or not. [This article](https://splice.com/blog/what-is-a-spectrogram/) is also a great explanation. <br>  
-
-In short, analyzing a file can help determine the authenticity of the quality. A FLAC file cant always be taken at face value. If it sounds low quality, it could potentially be the result of a bad transcode. Software such as spek allows the user to analyze music and prevent the sharing of low quality, unwanted encodes.
-
-:::
 
 ::: details Dithering
 Dithering is a process used when converting from different bit widths. Converting raw audio data to a different bit width will induce quanitization errors during the conversion process. These are errors in averaging amplitudes. A dither signal can be applied to the audio before conversion, which is effectively noise. While noise may seem undesireable, it actually improves the quanitization and signfigantly reduces the errors during the conversion. The noise is not percievable to humans, and does not effect the quality of a mix whatsoever.
@@ -230,14 +213,11 @@ A codec is a standard used to encode and decode a data stream. Using a codec, we
 ### Uncompressed Lossless
 Uncompressed lossless codecs such as WAV and AIFF are pretty old. They use CBR/Constant Bitrate. As a result, you technically don't lose any data, but the file size is very large. WAV is easier to encode and decode and is supported by almost every editing program. So, it's widely used in music studios. As a consumer, you don’t want the bloat.
 
-
 ### Compressed Lossless
-Compressed lossless codecs are more efficient in size than uncompressed ones. They generally use VBR/Variable Bitrate. So the file sizes are much smaller.
-
+Lossless refers to lossless compression, which is compression that preserves all data from the source file. In terms of music, lossless compression is completely indistinguishable from the source file, while also reducing space and increasing efficiency of playback when compared to its uncompressed counterpart. Common lossless encoding formats include FLAC or ALAC. They are usually sourced from WAV files. They generally use VBR/Variable Bitrate. So the file sizes are much smaller.
 
 ### Compressed Lossy
 The main aim of lossy codecs is to make the file size small, even if it means compromising in quality. Depending on the efficiency of the codec, audio files can provide better sound at lower bit rates. Beyond the transparency level, everything will sound the same.
-
 
 ::: tip Transparency
 Transparency means that the compression of the original file is accurate to a degree such that a listener can't distinguish between the compressed and original files. The level or threshold of transparency depends on listerns hearing ability, hardware, and of course the compression method. Since it's based on hearing ability, transparency is very subjective. The more efficient the codec is, the better it will sound **below perceptually transparent bitrate**. In general, encoding quality follows the trend Opus > Vorbis ≈ AAC > MP3. The bit rates at which lossy audio files become transparent are subjective but the following are some common choices:
@@ -251,12 +231,44 @@ Transparency means that the compression of the original file is accurate to a de
 | MP3 (CBR) | 320 kbps            |
 | MP3 (VBR) | Between -V3 and -V0 |
 
+:::
+
+## Spectrogram
+
+Spectrogram a.k.a spectral analysis is a good way to identify potentially bad transcodes. The depth at which frequencies extend into the higher ranges can indicate the type of compression utilized on an audio file. Here [Spek](https://www.spek.cc/) has been used to analyze. The following are a couple of examples of different levels of quality:
+
+:::tabs
+
+== FLAC 16/44.1
+
+![](/glossary/audio/spec/1.png)
+
+The above figure is the spectral analysis of a .flac file at 44.1 kHz. The source is lossless. The colors signify the loudness of the frequency as the track progresses through time. When the time domain intersects with a color, the frequency is played back at the loudness signified by the decibel meter on the right. A 44.1 kHz FLAC file can support frequencies up to 22.05 kHz. This value comes from halving 44.1 kHz. The audio contains 2 channels, so each channel is encoded at 22.05 kHz. This spectrogram shows frequencies up to around 50dB extending up to 22.05 kHz, which is a great indicator of a truly lossless file.
+
+== MP3 320
+
+![](/glossary/audio/spec/2.png)
+
+This spectral is of the same song, however, the file was transcoded from a FLAC to a 320 kbps MP3. The hard cutoff at 20 kHz is a good indicator of this sort of compression.
+
+== MP3 192
+
+![](/glossary/audio/spec/3.png)
+
+Again, this spectrogram is of the same song as the previous two. This time, the FLAC was transcoded to a 192 kbps MP3. Frequencies no longer extend past 19 kHz, however, a clear difference can be seen in the frequencies beyond 16 kHz. Much of the data has been filtered out, only leaving some of the data behind. This section has been highlighted in yellow. Comparing this highlighted section to the previous spectral, the differences become obvious.
+
+== Case 1
+
+![](/glossary/audio/spec/4.png)
+
+Spectrals vary a lot depending on the genre of music. More somber, classical inspired pieces, such as the above image, are generally going to have less frequency data than genres such as mainstream pop. Much like the first spectral, this spectral is also of a lossless FLAC file. Frequencies don't extend all the way to 22 kHz, but they don't necessarily have to. If the producer decided to cutoff frequencies past a certain point, they wouldn't exist, lossless or not. [This article](https://splice.com/blog/what-is-a-spectrogram/) is also a great explanation. 
 
 :::
 
+In short, analyzing a file can help determine the authenticity of the quality. A FLAC file cant always be taken at face value. If it sounds low quality, it could potentially be the result of a bad transcode. Software such as spek allows the user to analyze music and prevent the sharing of low quality, unwanted encodes.
+
 
 ## Container
-
 
 Containers store all the data. The data is stored in different parts:
 - **Header:** This section contains info about file format, size and signature.
@@ -264,10 +276,7 @@ Containers store all the data. The data is stored in different parts:
 - **Metadata:** Metadata can contain info about title, artist, album, genre etc. 
 - **Others:** There can be other parts too containing e.g. cue.
 
-
 Audio files can also be embedded in non-audio specific containers, such as MKV and MP4, which include audio alongside video bitstreams.
-
-
 
 ## Audio Source
 
