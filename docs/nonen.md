@@ -551,11 +551,11 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [WebLinhTinh](https://weblinhtinh.net/)
 
 ### Manga
-- [Raiku](https://mangaraiku.eu.org)
 - [Blog Truyen](https://blogtruyenmoi.com/)
 
-### Tokusatsu
+### Others
 - [Tokuvn](https://tokuvn.com/)
+- [Vietnam Key FanClub](https://vnkeyfc.com/) <Badge type="info" text="DDL" />
 
 ### Software
 
