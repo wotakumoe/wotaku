@@ -116,6 +116,7 @@ outline: [1,2]
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [MiruTV](https://mirutv.app/)
 - [Soshiki](https://github.com/soshikimoe/soshiki-ios)  <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="https://phiefferj24.github.io/soshiki-sources/sources.soshikisources" />
+- [Ryu](https://github.com/cranci1/Ryu)
 
 ## Manga Readers
 
