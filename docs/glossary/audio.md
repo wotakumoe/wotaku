@@ -252,7 +252,7 @@ The above figure is the spectral analysis of a 24bit flac file at 48 kHz. The so
 
 ![](/glossary/audio/spec/16.jpg)
 
-This is spectrogram of a 16/44.1 flac file. The source is lossless. A 44.1 kHz FLAC file can support frequencies up to 22.05 kHz (like FLAC 24/48). The audio contains 2 channels, so each channel is encoded at 22.05 kHz. This spectrogram shows frequencies up to around 50dB extending up to 22.05 kHz, which is a great indicator of a truly lossless file.
+This is a spectrogram of a 16/44.1 flac file. The source is lossless. A 44.1 kHz FLAC file can support frequencies up to 22.05 kHz. The audio contains 2 channels, so each channel is encoded at 22.05 kHz. This spectrogram shows frequencies up to around 50dB extending up to 22.05 kHz, which is a great indicator of a truly lossless file.
 
 == MP3 320
 
