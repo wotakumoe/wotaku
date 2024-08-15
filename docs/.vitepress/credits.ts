@@ -59,7 +59,7 @@ export const contribs = {
     },
     {
       name: "DenpaEater",
-      /*site: " URL here ",*/
+      site: "https://x.com/shibayanfanclub",
       avatar: "/pfp/denpa.jpg",
     },
     {
