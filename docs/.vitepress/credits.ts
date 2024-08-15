@@ -58,6 +58,11 @@ export const contribs = {
       site: "https://github.com/knightmob",
     },
     {
+      name: "DenpaEater",
+      /*site: " URL here ",*/
+      avatar: "/pfp/denpa.jpg",
+    },
+    {
       avatar: "https://github.com/farahnur42.png",
       name: "Fahim",
       site: "https://github.com/farahnur42",

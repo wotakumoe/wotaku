@@ -28,6 +28,19 @@ const credits = {
     },
   ],
 
+  audiog: [
+    {
+      name: "DenpaEater",
+      /*site: " URL here ",*/
+      avatar: "/pfp/denpa.jpg",
+    },
+    {
+      name: "Duck",
+      site: "https://github.com/woducku",
+      avatar: "https://github.com/woducku.png",
+    },
+  ],
+
   discrip: [
     {
       name: "nullishcat",
