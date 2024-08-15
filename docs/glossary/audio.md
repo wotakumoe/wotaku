@@ -97,7 +97,7 @@ DSD’s high sampling rate allows for a wide dynamic range, even with a 1-bit de
 :::
 
 
-## Ananlog to Digital
+## Analog to Digital
 
 Analog audio signals are continuous sine wave. To process it digitally, we need to convert it into digital signal where we make it a discrete signal. The discretization goes on in both time and amplitude values.
 
@@ -250,9 +250,13 @@ The above figure is the spectral analysis of a 24bit flac file at 48 kHz. The so
 
 == FLAC 16/44.1
 
-![](/glossary/audio/spec/16.jpg)
+![From Label](/glossary/audio/spec/16.jpg)
 
 This is a spectrogram of a 16/44.1 flac file. The source is lossless. A 44.1 kHz FLAC file can support frequencies up to 22.05 kHz. The audio contains 2 channels, so each channel is encoded at 22.05 kHz. This spectrogram shows frequencies up to around 50dB extending up to 22.05 kHz, which is a great indicator of a truly lossless file.
+
+![Trascoded from FLAC 24/48](/glossary/audio/spec/16t.jpg)
+
+This 16 bit 44.1 kHz flac was transcoded from a 24 bit 48 kHz flac. Some of the data above 21.5 kHz is missing after the conversion. This implies that this conversion isn't actually lossless. Data was lost, even though all of it is above the threshold of human hearing. This is due to the low pass filter applied at 20 kHz. A low pass has already been applied onto the 24 bit flac. Transcoding down to a 16 bit flac applies this low pass filter again, and it causes the highest frequencies to be filtered out completely.
 
 == MP3 320
 
