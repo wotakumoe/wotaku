@@ -551,7 +551,24 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [WebLinhTinh](https://weblinhtinh.net/)
 
 ### Manga
-- [Blog Truyen](https://blogtruyenmoi.com/)
+- [Bao Tang Truyen](https://baotangtruyen14.com/)
+- [BlogTruyenMoi](https://blogtruyenmoi.com/)
+- [BlogTruyenVN](https://blogtruyenvn.com/)
+- [COMI](https://comi.mobi/)
+- [Cuu Truyen](https://cuutruyen.net/)
+- [Doc Truyen Online](https://dtruyen.com/)
+- [Fecomic](https://fecomicc.xyz/)
+- [Goc Truyen Tranh](https://goctruyentranhvui1.com/trang-chu)
+- [HanulTruyen](https://hanultruyen.net/)
+- [Truyencc](https://truyencc.com//)
+- [Truyen Sieuhay](https://truyensieuhay.com/)
+
+### Light Novels
+- [Hako](https://docln.net/) <Badge type="tip" text="2" link="https://novelvn.net/" />
+- [Sonako Light Novel Wiki](https://sonako.fandom.com/vi/wiki/Sonako_Light_Novel)
+- [SSTruyen](https://sstruyen.vn/)
+- [Truyen Full](https://truyenfull.io/)
+- [TruyenYY](https://truyenyy.pro/) <Badge type="info" text="Needs account" />
 
 ### Others
 - [Tokuvn](https://tokuvn.com/)
