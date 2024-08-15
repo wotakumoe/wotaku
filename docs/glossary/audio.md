@@ -7,6 +7,9 @@ outline: [1,2]
 
 <GradientCard title="音声用語集" tag="Audio Glossary" description="Audio concepts that you need to know." theme="turquoise"/>
 
+<br>
+
+<Authors page="audiog" />
 
 <br>
 
@@ -136,13 +139,13 @@ All audio signal sampling is based on this theorem. The theorem states that the 
 Another condition is bandlimiting. During the conversion of signals, high frequency distortion is added to the result. A band-pass filter helps to isolate the target frequencies from this distortion. Aliasing occurs if this distortion is not filtered. The folded wave interferes with the main wave and creates a new, unwanted sound wave.
 
 
-![](https://hedgedoc.envs.net/uploads/0253ab4c-13e4-4277-818f-596615c0365c.png)
+![](/glossary/audio/nsst1.jpg)
 
 
 To remove aliasing, a low pass filter (aka anti-aliasing filter) is added into both the ADC and DAC. Also, the software has filters to remove aliasing in digitally generated audio signals. It's not practically possible to remove higher frequencies at the exact Nyquist frequency, so a buffer space is kept between the required frequency and the Nyquist frequency. The needed buffer space depends on the hardware capability.
 
 
-![](https://hedgedoc.envs.net/uploads/d8a7b3eb-cafa-4fb2-8b47-b1e7f09efe02.png)
+![](/glossary/audio/nsst2.jpg)
 
 
 >More details about the [Nyquist sampling theorem](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem).
@@ -196,7 +199,7 @@ Bit rate is the amount of data streamed per second. For an audio file, there are
 |-|-|
 | Constant (CBR) | Here the bit rate remains constant throughout the entire file (including silences). Since the bit rate is constant, the file size is more predictable depending on the bit depth, frequency, and number of channels. |
 | Variable (VBR) | VBR adjusts the bit rate based on content complexity, which can lead to more efficient use of bits and smaller file sizes. |
-| Average (ABR) | ABR is the middle gound between CBR and VBR. Here you choose a bit rate and it tries to maintain an average bit rate over the entire audio file, allowing some variation in bit rate. [a] |
+| Average (ABR) | ABR is the middle gound between CBR and VBR. Here you choose a bit rate and it tries to maintain an average bit rate over the entire audio file, allowing some variation in bit rate. |
 
 
 ## Codec
@@ -239,29 +242,46 @@ Spectrogram a.k.a spectral analysis is a good way to identify potentially bad tr
 
 :::tabs
 
+== FLAC 24/48
+
+![](/glossary/audio/spec/24.jpg)
+
+The above figure is the spectral analysis of a 24bit flac file at 48 kHz. The source is lossless. The colors signify the loudness of the frequency as the track progresses through time. When the time domain intersects with a color, the frequency is played back at the loudness signified by the decibel meter on the right. A 48 kHz FLAC file can support frequencies up to 24 kHz. This value comes from halving 48 kHz (following [Nyquist–Shannon Sampling Theorem](#sample-rate)).
+
 == FLAC 16/44.1
 
-![](/glossary/audio/spec/1.png)
+![](/glossary/audio/spec/16.jpg)
 
-The above figure is the spectral analysis of a .flac file at 44.1 kHz. The source is lossless. The colors signify the loudness of the frequency as the track progresses through time. When the time domain intersects with a color, the frequency is played back at the loudness signified by the decibel meter on the right. A 44.1 kHz FLAC file can support frequencies up to 22.05 kHz. This value comes from halving 44.1 kHz. The audio contains 2 channels, so each channel is encoded at 22.05 kHz. This spectrogram shows frequencies up to around 50dB extending up to 22.05 kHz, which is a great indicator of a truly lossless file.
+This is spectrogram of a 16/44.1 flac file. The source is lossless. A 44.1 kHz FLAC file can support frequencies up to 22.05 kHz (like FLAC 24/48). The audio contains 2 channels, so each channel is encoded at 22.05 kHz. This spectrogram shows frequencies up to around 50dB extending up to 22.05 kHz, which is a great indicator of a truly lossless file.
 
 == MP3 320
 
-![](/glossary/audio/spec/2.png)
+![](/glossary/audio/spec/320.jpg)
 
-This spectral is of the same song, however, the file was transcoded from a FLAC to a 320 kbps MP3. The hard cutoff at 20 kHz is a good indicator of this sort of compression.
+This spectral is of the same song, however, the file was transcoded from a FLAC to a 320 kbps MP3. The hard cutoff at 20 kHz is a good indicator of this sort of compression. CBR MP3s also apply a soft cutoff, or shelf, around 16 kHz.
+
+== MP3 V0
+
+![Without 19.5 kHz cut-off filter](/glossary/audio/spec/v0.jpg)
+
+This is a spectral of a variable bitrate file. V0 is the highest quality encoding preset. Frequencies extend up to about 22 kHz, much like that of a 16 bit lossless FLAC. This form of encoding is still a lossy compression, however. Much of the data beyond 19.5 kHz is heavily stripped out. This data, for the most part, is already outside of the listenable range. Generally, this format is comparable to an MP3 CBR 320. CBR 320 is generally accepted as a better standard, in terms of raw data preservation. A 16 kHz shelf can be observed, a common result of MP3 encoding. 
+
+![With 19.5 kHz cut-off filter](/glossary/audio/spec/v0f.jpg)
+
+This spectral is very similar to the previous, however, a 19.5 kHz low pass filter has been applied. This is a common practice among V0 encoding. As the data above 19.5 kHz has already been tampered with, and most of that data is transparent, it makes sense to filter it out. This process reduces filesize, increasing the effiency of the codec.
+
 
 == MP3 192
 
-![](/glossary/audio/spec/3.png)
+![](/glossary/audio/spec/192.jpg)
 
-Again, this spectrogram is of the same song as the previous two. This time, the FLAC was transcoded to a 192 kbps MP3. Frequencies no longer extend past 19 kHz, however, a clear difference can be seen in the frequencies beyond 16 kHz. Much of the data has been filtered out, only leaving some of the data behind. This section has been highlighted in yellow. Comparing this highlighted section to the previous spectral, the differences become obvious.
+Again, this spectrogram is of the same song as the previous two. This time, the FLAC was transcoded to a 192 kbps MP3. Frequencies no longer extend past 19 kHz, however, a clear difference can be seen in the frequencies beyond 16 kHz. Much of the data has been filtered out, only leaving some of the data behind. This section has been highlighted in yellow. Comparing this highlighted section to the previous spectral, the differences become obvious. The shelf remains at 16 kHz.
 
 == Case 1
 
-![](/glossary/audio/spec/4.png)
+![](/glossary/audio/spec/instr.jpg)
 
-Spectrals vary a lot depending on the genre of music. More somber, classical inspired pieces, such as the above image, are generally going to have less frequency data than genres such as mainstream pop. Much like the first spectral, this spectral is also of a lossless FLAC file. Frequencies don't extend all the way to 22 kHz, but they don't necessarily have to. If the producer decided to cutoff frequencies past a certain point, they wouldn't exist, lossless or not. [This article](https://splice.com/blog/what-is-a-spectrogram/) is also a great explanation. 
+Spectrals vary a lot depending on the genre of music. More somber, classical inspired pieces, or instrumental such as the above image, are generally going to have less frequency data than genres such as mainstream pop. Much like the first spectral, this spectral is also of a lossless FLAC file. Frequencies don't extend all the way to 22 kHz, but they don't necessarily have to. If the producer decided to cutoff frequencies past a certain point, they wouldn't exist, lossless or not. [This article](https://splice.com/blog/what-is-a-spectrogram/) is also a great explanation. 
 
 :::
 
