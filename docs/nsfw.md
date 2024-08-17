@@ -154,7 +154,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 
 
 ### Downloader
-- [Hakuneko](https://github.com/manga-download/hakuneko) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://hakuneko.download/" /><Badge type="info" text="Multi" />
+- [Hakuneko](https://github.com/manga-download/haruneko) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://hakuneko.download/" /><Badge type="info" text="Multi" />
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) <Badge type="info" text="Multi" /><Badge type="info" text="Anime" />
 - [HDoujin Downloader](https://github.com/HDoujinDownloader/HDoujinDownloader) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://doujindownloader.com/" /><Badge type="info" text="Multi" />
 - [Hentai downloader](https://github.com/touno-io/hentai-downloader)<Badge type="info" text="E-Hentai" />

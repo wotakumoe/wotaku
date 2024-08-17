@@ -230,7 +230,9 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 ### Anime
 
-- [Hakuneko](https://hakuneko.download/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/manga-download/hakuneko) <tooltip><ul><li>No Crunchyroll implementation</li><li>You have to index each site first, which takes quite a long time, after that the search is almost instant, but loading episodes for anime again takes some time depending on the source.</li><li>Not a great interface, but it does the job, and you can tell it is more thought out for manga.</li><li>Not too many anime sources, some of them do not work.</li></ul></tooltip>
+- **Hakuneko**
+  - [Classic](https://hakuneko.download/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/manga-download/hakuneko) <tooltip><ul><li>No Crunchyroll implementation</li><li>You have to index each site first, which takes quite a long time, after that the search is almost instant, but loading episodes for anime again takes some time depending on the source.</li><li>Not a great interface, but it does the job, and you can tell it is more thought out for manga.</li><li>Not too many anime sources, some of them do not work.</li></ul></tooltip>
+  - [Fluent Core](https://github.com/manga-download/haruneko) :ic-baseline-window::ic-baseline-apple:
 - [animdl](https://github.com/justfoolingaround/animdl) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<tooltip><ul><li>No UI, terminal based</li><li>Easy to use once installed</li><li>Not too many anime sources, some of them do not work.</li></ul></tooltip>
 - [ADL](https://github.com/RaitaroH/adl) :ic-baseline-window::mingcute-linux-fill:<tooltip><ul><li>No UI, terminal based</li><li>"Complicated" installation, especially on Windows</li><li>Uses many different scripts, including animedl, so lots of functionality</li><li>Tracking capability & many more</li><li>Same amount of sources as AnimDL</li></ul></tooltip>
 - [Crunchyroll-Downloader](https://github.com/Crunchy-DL/Crunchy-Downloader) :ic-baseline-window:
@@ -242,7 +244,9 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 - [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) :ic-baseline-window:<tooltip><ul><li>Supports almost every major site</li><li>You can add your own account</li><li>Highly configurable with downloading automation</li><li>Has converter and a lot of great tools</li></ul></tooltip>
 - [Red Squirrel's Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader) :ic-baseline-window::mingcute-linux-fill:
-- [Hakuneko](https://github.com/manga-download/hakuneko) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<tooltip><ul><li>Currently the best downloader</li><li>Huge number of sites supported</li><li>Customizable UI</li><li>Can download anime too</li></ul></tooltip>
+- **Hakuneko**
+  - [Classic](https://hakuneko.download/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/manga-download/hakuneko)
+  - [Fluent Core](https://github.com/manga-download/haruneko) :ic-baseline-window::ic-baseline-apple:
 - [MangaL](https://github.com/metafates/mangal) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<tooltip><ul><li>TUI based</li><li>Very Fast</li><li>You can add your own lua scrapers for non-supported sites (mangadex and mangasee already supported)</li></ul></tooltip>
 - [HDoujin Downloader](https://doujindownloader.com/) :ic-baseline-window: [:mdi-github:](https://github.com/HDoujinDownloader/HDoujinDownloader)<tooltip><ul><li>Huge list of supported nsfw sites</li><li>Good UI, many settings and amazing speed</li><li>But has a 25 chapter daily limit</li></ul></tooltip>
 

@@ -150,7 +150,7 @@ outline: [2,3]
 
 - **Anime & Manga**
   - [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) :ic-baseline-window: <Badge type="info" text="Manga" />
-  - [Hakuneko](https://github.com/manga-download/hakuneko) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="General" />
+  - [Hakuneko](https://github.com/manga-download/haruneko) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="General" />
   - [Red Squirrel's Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader) :ic-baseline-window::mingcute-linux-fill: <Badge type="info" text="Manga" />
 - **Direct**
   - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) :mdi-android:
