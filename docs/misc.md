@@ -263,6 +263,7 @@ outline: 1
 ### Anime & Manga
 - [3x3 Generator](https://gqgs.github.io/3x3-generator/) [:mdi-github:](https://github.com/gqgs/3x3-generator)
 - [Anime Bingo](https://anime-bingo.aikats.us/) [:mdi-github:](https://github.com/walfie/anime-bingo)
+- [Ermitteln](https://ermitteln.ihateani.me/)
 - [MangaAdaptations for AniList](https://anilist-adaptations.timschneeberger.me/) [:mdi-github:](https://github.com/timschneeb/manga-adaptations-anilist)
 - [Mitsukeru for AniList](https://mitsukeru.timschneeberger.me/) [:mdi-github:](https://github.com/timschneeb/Mitsukeru)
 - [Randime](https://randime.moe/)
@@ -275,7 +276,7 @@ outline: 1
 |---|---|
 | Search | [SauceNAO](https://saucenao.com/) :glowing-star: <br> [Trace](https://trace.moe/) [:mdi-github:](https://github.com/soruly/trace.moe) <br> [SauceKudasai](https://saucekudasai.com/) [:mdi-github:](https://github.com/ayushgptaa/SauceKudasai) <br> [Multi-service image search](https://iqdb.org/) |
 | Upscaling | [Waif2x](https://unlimited.waifu2x.net/) <Badge type="tip" text="Cloud Ver" link="https://waifu2x.udp.jp/" /> <Badge type="tip" icon="mark-github" text="GitHub" link="https://github.com/nagadomi/waifu2x" /> <br> [WaifuXL](https://waifuxl.com/) [:mdi-github:](https://github.com/TheFutureGadgetsLab/WaifuXL) |
-| Others | [Ermitteln](https://ermitteln.ihateani.me/) <br> [Imgtrans](https://touhou.ai/imgtrans/) [:mdi-github:](https://github.com/zyddnys/manga-image-translator) <br> [Slowpoke Pics](https://slow.pics/) |
+| Others | [Imgtrans](https://touhou.ai/imgtrans/) [:mdi-github:](https://github.com/zyddnys/manga-image-translator) <br> [Slowpoke Pics](https://slow.pics/) |
 
 
 ### Stats
