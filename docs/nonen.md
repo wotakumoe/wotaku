@@ -581,5 +581,5 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 | Category | Resources |
 |-|-|
 | Anime | [Anime VSub](https://github.com/anime-vsub/app) |
-| Manga | [Raiku](https://github.com/manga-raiku/raiku-app) <br> [Paperback Extension](https://github.com/huynlx/Extensions-Viet) |
+| Manga | [Paperback Extension](https://github.com/huynlx/Extensions-Viet) |
 

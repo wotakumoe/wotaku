@@ -15,7 +15,7 @@ outline: 1
 
 - [Aniwave](https://aniwave.to/home) <Badge type="info" text="Proxies" link="https://aniwave.live/" /> <tooltip><ul><li>Huge library with Watch Together feature</li><li>Less amount of compression compared to other sites that use 3rd party hosts</li><li>Has both hardsub and softsub (multilingual)</li></ul></tooltip>
   - [Anix](https://anix.to/home) <Badge type="info" text="Proxies" link="https://anix.me/" />
-  - [Aniwave Lite](https://lite.aniwave.to/home)
+  - [AniMoe](https://animoe.to/home)
   - [AnimeSuge](https://animesuge.to/home)
 - [KickAssAnime](https://kaas.ro/) <Badge type="info" text="Proxies" link="https://watchanime.io/" /> <tooltip><ul><li>KAA encodes (videstreaming) are decent (the new encodes) and loads better.</li><li>Birdstream player scrapes Bilibili.</li><li>Has missing titles. But, you can request them in their support server.</li></ul></tooltip>
 - [HiAnime](https://hianime.to/home) <tooltip><ul><li>Huge library with Watch Together feature</li><li>Re-encodes shows for smaller size with lower overall bitrate.</li><li>Softsubs may create issues in different scenarios, but can be beneficial for multi-language support</li></ul></tooltip>
