@@ -238,7 +238,7 @@ Transparency means that the compression of the original file is accurate to a de
 
 ## Spectrogram
 
-Spectrogram a.k.a spectral analysis is a good way to identify potentially bad transcodes. The depth at which frequencies extend into the higher ranges can indicate the type of compression utilized on an audio file. Here [Spek](https://www.spek.cc/) has been used to analyze. The following are a couple of examples of different levels of quality:
+Spectrograms a.k.a spectral analysis are a reliable method to identify audio quality. Spectrograms plot the frequency spectrum across the time domain. Perceived loudness of these frequencies are represented by the color of the wave. The colors can then be decoded into a decibel rating from the legend on the right. This type of graph is useful in determining the sort of compression applied to an audio file. The depth at which these frequencies extend into the higher ranges indicate the type of compression utilized. Here, Spek has been used to analyze. The following are a couple of examples of different levels of quality:
 
 :::tabs
 
@@ -246,46 +246,93 @@ Spectrogram a.k.a spectral analysis is a good way to identify potentially bad tr
 
 ![](/glossary/audio/spec/24.jpg)
 
-The above figure is the spectral analysis of a 24bit flac file at 48 kHz. The source is lossless. The colors signify the loudness of the frequency as the track progresses through time. When the time domain intersects with a color, the frequency is played back at the loudness signified by the decibel meter on the right. A 48 kHz FLAC file can support frequencies up to 24 kHz. This value comes from halving 48 kHz (following [Nyquist–Shannon Sampling Theorem](#sample-rate)).
+The above figure is a spectrogram of a 24 bit, 48 kHz FLAC. A 48 kHz FLAC can support frequencies up to 24 kHz. This value comes from halving 48 kHz (following [Nyquist–Shannon Sampling Theorem](#sample-rate)).
 
 == FLAC 16/44.1
 
 ![From Label](/glossary/audio/spec/16.jpg)
 
-This is a spectrogram of a 16/44.1 flac file. The source is lossless. A 44.1 kHz FLAC file can support frequencies up to 22.05 kHz. The audio contains 2 channels, so each channel is encoded at 22.05 kHz. This spectrogram shows frequencies up to around 50dB extending up to 22.05 kHz, which is a great indicator of a truly lossless file.
+This is a spectrogram of a 16 bit, 44.1 kHz FLAC file. A 44.1 kHz FLAC file can support frequencies up to 22.05 kHz. This spectrogram shows frequencies up to around 50dB extending up to 22.05 kHz, which is a great indicator of a truly lossless file.
 
 ![Trascoded from FLAC 24/48](/glossary/audio/spec/16t.jpg)
 
-This 16 bit 44.1 kHz flac was transcoded from a 24 bit 48 kHz flac. Some of the data above 21.5 kHz is missing after the conversion. This implies that this conversion isn't actually lossless. Data was lost, even though all of it is above the threshold of human hearing. This is due to the low pass filter applied at 20 kHz. A low pass has already been applied onto the 24 bit flac. Transcoding down to a 16 bit flac applies this low pass filter again, and it causes the highest frequencies to be filtered out completely.
+This 16 bit 44.1 kHz FLAC was transcoded from a 24 bit 48 kHz FLAC. Some of the data above 21.5 kHz is missing after the conversion. Although this conversion was from a lossless source and to a lossless source, it's technically not a lossless conversion. Data was lost, even though all of it is above the threshold of human hearing. This is due to the low pass filter applied below 20 kHz. A low pass filter has already been applied during the encoding of the 24 bit FLAC. Transcoding down to a lower sample rate applies this low pass filter again to prevent aliasing. This process usually causes the highest frequencies to be filtered out. This phenomenon can be observed when encoding in a different sample rate from the source. Either increasing or decreasing the sample rate causes some minor distortions between source files. Many different algorithms called SRC (Sample Rate Converters) exist and have varying degrees of effectiveness in mitigating these distortions. Generally, the distortions should not be perceivable by the average listener, but it's worth mentioning for sake of file integrity.
 
 == MP3 320
 
 ![](/glossary/audio/spec/320.jpg)
 
-This spectral is of the same song, however, the file was transcoded from a FLAC to a 320 kbps MP3. The hard cutoff at 20 kHz is a good indicator of this sort of compression. CBR MP3s also apply a soft cutoff, or shelf, around 16 kHz.
+This spectral is of a CBR 320 kbps MP3 transcoded from a FLAC. The hard cutoff at 20.5 kHz is a good indicator of this sort of compression. Normally, frequencies wont extend all the way to 20.5 kHz. The frequency rolloff is much sharper than that of a FLAC file. A very loud noise must be present at higher frequencies in order for the data to persist to 20.5 kHz. Functionally, data will usually cutoff closer to 20.2 kHz. MP3s of any encoding style apply a softer cutoff, also known as a frequency shelf, around 16 kHz.
+
+![](/glossary/audio/spec/sweep44.jpg)
+
+The following is the proof that a CBR MP3 320 can reproduce frequencies at 20.5 kHz. 2 different sample rates were used, at 48 kHz and 44.1 kHz respectively. These spectrograms resulted from transcoding a 24 bit 96 kHz FLAC of a frequency sweep. The line is the frequency increasing linearly over time. The figure above depicts the source FLAC.
+
+![](/glossary/audio/spec/sweep48.jpg)
+
+2 lines are drawn on the figure. The top line is the highest perceivable frequency in the measurement, including the back distortion generated by the downsampling process. For the 48 kHz measurement, this line easily clears the 20.5 kHz mark. The second yellow line is measured from the highest perceivable frequency independent of the back distortion. This measurement appears to be at 20.5 kHz. Independent of how you choose to interpret the distortion, the MP3 contains the data.
+
+![](/glossary/audio/spec/sweep3.jpg)
+
+2 lines are drawn on the figure. The top line is the highest perceivable frequency in the measurement, including the back distortion generated by the downsampling process. For the 44.1 kHz measurement, this line appears slightly below the 20.5 kHz mark. The second yellow line is measured from the highest perceivable frequency independent of the back distortion. This measurement appears to be around 20.2 kHz. A 44.1 kHz MP3 probably can't hit 20.5 kHz.
+
+== Opus 256
+
+![](/glossary/audio/spec/256opus.jpg)
+
+This spectral depicts a VBR Opus at 256 kbps. The Opus codec is much more efficient than MP3, especially at lower bitrates. Opus 256 has a hard cutoff of 20 kHz, with no perceivable shelf, unlike MP3. Comparing the spectral to a FLAC, it almost looks like the frequencies about 20 kHz were chopped off and the rest of the spectrum was left untouched. This makes it a superior format in almost every way than an equivalent high bitrate MP3.
 
 == MP3 V0
 
 ![Without 19.5 kHz cut-off filter](/glossary/audio/spec/v0.jpg)
 
-This is a spectral of a variable bitrate file. V0 is the highest quality encoding preset. Frequencies extend up to about 22 kHz, much like that of a 16 bit lossless FLAC. This form of encoding is still a lossy compression, however. Much of the data beyond 19.5 kHz is heavily stripped out. This data, for the most part, is already outside of the listenable range. Generally, this format is comparable to an MP3 CBR 320. CBR 320 is generally accepted as a better standard, in terms of raw data preservation. A 16 kHz shelf can be observed, a common result of MP3 encoding. 
+This is a spectral of a V0 variable bitrate MP3, or V0 VBR MP3. V0 is the highest quality encoding preset. Frequencies extend up to about 22 kHz, much like that of a 16 bit lossless FLAC. This form of encoding is still a lossy compression, however. Much of the data beyond 19.5 kHz is heavily stripped out. The preserved data, for the most part, is also outside of the listenable range. Generally, this format is comparable to an MP3 CBR 320. CBR 320 is generally accepted as a better standard, in terms of raw data preservation. A 16 kHz shelf can be observed, a common result of MP3 encoding.
 
 ![With 19.5 kHz cut-off filter](/glossary/audio/spec/v0f.jpg)
 
-This spectral is very similar to the previous, however, a 19.5 kHz low pass filter has been applied. This is a common practice among V0 encoding. As the data above 19.5 kHz has already been tampered with, and most of that data is transparent, it makes sense to filter it out. This process reduces filesize, increasing the effiency of the codec.
-
+This spectral is very similar to the previous, however, a 19.5 kHz low pass filter has been applied. This is a common practice among V0 encoding. As the data above 19.5 kHz has already been tampered with, and most of that data is transparent, some encoders filter it out by default. This process reduces file size, increasing the efficiency of the codec.
 
 == MP3 192
 
 ![](/glossary/audio/spec/192.jpg)
 
-Again, this spectrogram is of the same song as the previous two. This time, the FLAC was transcoded to a 192 kbps MP3. Frequencies no longer extend past 19 kHz, however, a clear difference can be seen in the frequencies beyond 16 kHz. Much of the data has been filtered out, only leaving some of the data behind. This section has been highlighted in yellow. Comparing this highlighted section to the previous spectral, the differences become obvious. The shelf remains at 16 kHz.
+This spectrogram is of a CBR 192 kbps MP3. The source was a FLAC. Frequencies no longer extend past 19 kHz, and the MP3 shelf remains at 16 kHz.
+
+== YouTube
+
+![Opus 256 VBR (774)](/glossary/audio/spec/256opusyt.jpg)
+
+YouTube commonly uses Opus for their music library. This spectral is of a 48 kHz 256 kbps VBR Opus file. The bitrate floats around 245 - 280 kbps at any given time. A hard cutoff exists at about 20 kHz, but frequencies occasionally persist beyond the cutoff. No discernible shelf is observable.
+
+![Opus 128 VBR (251)](/glossary/audio/spec/128opusyt.jpg)
+
+Audio quality can vary on youtube for a number of reasons, such as video playback quality and types of encoding. Audio on YouTube usually has an average of around 130 kbps. This spectral is of a 48 kHz 128 kbps VBR Opus file. The bitrate floats around 115 - 145 kbps at any given time. A hard cutoff exists at about 20 kHz, but frequencies occasionally persist beyond the cutoff. A slight shelf has been applied at 15.5 kHz. Compared to the 256 kbps Opus, aside from the slight shelf, the spectrals are very close. The quality loss, even at a much lower bitrates, is heavily reduced in the Opus standard.
+
+== Spotify
+
+![](/glossary/audio/spec/320ogg.jpg)
+
+Spotify uses Vorbis encoding for its library. The above spectral is of a 320 kbps CBR Vorbis file. Comparing this to a FLAC encoding, frequencies beyond 19kHz suffer a soft shelving. Many of the frequencies still bypass the 19kHz threshold, but many quieter frequencies are filtered out at a quicker rate. The rest of the frequency spectrum is left untouched.
+
+![](/glossary/audio/spec/160ogg.jpg)
+
+This spectral is of a 160 kbps CBR Vorbis file. Comparing the 160 kbps Ogg to the 320 kbps Ogg, the lower bitrate suffers a decent amount of data loss throughout the spectrum. Frequencies as low as 2kHz seem to be missing between the two spectrals. Unlike a CBR MP3 at 160 kbps, frequencies are allowed to extend much higher. Instead of focusing on a frequency region to filter data out of, it instead targets areas within the music that the encoding process deems less necessary.
 
 == Case 1
 
 ![](/glossary/audio/spec/instr.jpg)
 
-Spectrals vary a lot depending on the genre of music. More somber, classical inspired pieces, or instrumental such as the above image, are generally going to have less frequency data than genres such as mainstream pop. Much like the first spectral, this spectral is also of a lossless FLAC file. Frequencies don't extend all the way to 22 kHz, but they don't necessarily have to. If the producer decided to cutoff frequencies past a certain point, they wouldn't exist, lossless or not. [This article](https://splice.com/blog/what-is-a-spectrogram/) is also a great explanation. 
+Spectrals vary a lot depending on the genre of music. Ambient piano music could have less frequency data than genres such as mainstream pop. This spectral is of a lossless FLAC file. Frequencies still extend all the way to 22 kHz, but they are very low decibels in magnitude. A majority of frequencies don't even hit the 22 kHz point. Regardless, it's still a high quality, lossless encoding. Furthermore, lossless 44.1 kHz files don't actually have to hit as high as 22 kHz. If the producer decided to cut-off frequencies past a certain point, they wouldn't exist, lossless or not. This practice, however, is very rare. [This article](https://splice.com/blog/what-is-a-spectrogram/) is also a great explanation.
+
+== Case 2
+
+![One Last Kiss by Hikaru Utada](/glossary/audio/spec/2496eva.jpg)
+
+These spectrals depict 24 bit 96 kHz FLAC encodes. A significant portion of the file is taken up by empty black space, devoid of audio information. This presents an argument such that a 24 bit 96 kHz provides nothing more than bloat. The files can easily be downsampled to a lower sample rate, while preserving a significant amount of the audio data. One last kiss, for example, would be a near lossless conversion. There are only a few moments where frequencies actually appear beyond about 25 kHz. A solid 23 kHz worth of data is essentially being allocated to nothing.
+
+![Koi no Yukue by Akase Akari](/glossary/audio/spec/2496dress.jpg)
+
+The My Dress-Up Darling ED makes much more use of the extra frequency headroom, however, it is already way beyond the threshold of human hearing. High sample rates for audio do play a role within production, allowing for a smoother experience if slowing down audio to a large degree. For playback, however, there is almost no reason for such a high sample rate audio file. If a song is released with such a high sample rate, there is an argument to be made for the preservation of that release. The average listener, however, will not perceive a difference in the form of downsampling the source, or even transcoding it to a lossy format.
 
 :::
 
