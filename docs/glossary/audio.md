@@ -11,8 +11,7 @@ outline: [1,2]
 
 <Authors page="audiog" />
 
-
-![](/docs/public/banner/bt.png)
+![](/banner/bt.png)
 
 <br>
 
