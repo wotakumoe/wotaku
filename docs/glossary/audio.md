@@ -11,6 +11,9 @@ outline: [1,2]
 
 <Authors page="audiog" />
 
+
+![](/docs/public/banner/bt.png)
+
 <br>
 
 # Basic Terms
@@ -42,6 +45,8 @@ outline: [1,2]
 | Amp | Short for “Amplifier”. In terms of music, the amp takes the converted signal from a DAC, or other analog source, and increases that signal's amplitude. This process is what makes audio louder. Any time you interact with a knob or volume rocker in order to make music louder or quieter, odds are you're interfacing with an amplifier. More about amps can be found in the Some knowledge of audiophile equipment section. |
 | Speaker | Speakers shoot sound out towards the user. They consist of a subwoofer, woofer and tweeter. The subwoofer is usually disconnected from the woofer and tweeter pairing. |
 
+
+![](/banner/af.png)
 
 <br>
 
@@ -413,6 +418,8 @@ C:\Music\canción2.mp3
 C:\Music\歌曲3.mp3
 ```
 
+![](/banner/hw.png)
+
 <br>
 
 
@@ -534,9 +541,9 @@ The second limitation of EQ is that it can't make a bad piece of hardware good. 
 This is an example of the bass boost eq profile in musicbee. The preamp is set to \-6dB, which is larger in magnitude than the largest magnitude of the boosted frequencies. This ensures that no peaking occurs on the output. Frequencies below 1 kHz are gradually increased, emphasizing these frequencies in playback. Frequencies around 32 Hz receive the greatest effect.
 
 
+![](/banner/mg.png)
 
 <br>
-
 
 # Japanese Music Genres
 
