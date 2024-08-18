@@ -233,7 +233,6 @@ If you have recommendations for good sites in your native language or want to re
   - [Anime World](https://anime-world.in/)
   - [Animerulz](https://animerulz.pro/home/)
   - [Anplay](https://anplay.in/)
-  - [Ani/Time](https://anitime.aniwow.in/)
   - [Dora Bash](https://doraemontheanime.com/)
   - [HindiAnime](https://hindianime.fun/)
   - [ToonStream](https://toonstream.day/)
