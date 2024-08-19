@@ -11,6 +11,7 @@ outline: [1,2]
 
 <Authors page="audiog" />
 
+
 ![](/banner/bt.png)
 
 <br>
@@ -20,9 +21,9 @@ outline: [1,2]
 ### Audio File
 | Terms | Details |
 | ---- | ---- |
-| Bitrate | The bitrate of an audio file is a measure of how many bits per second were utilized during encoding. This can be a static or a variable value. |
-| Lossy | Lossy a.k.a lossy compression means compression that does not preserve data from the source file. Modern lossy compression algorithms can generally achieve this without any listenable significant distinction from the source file. Common lossy compression formats include MP3, AAC, and OPUS. |
-| Lossless | Lossless a.k.a lossless compression, which is compression that preserves all data from the source file. Lossless compression is completely indistinguishable from the source file, while also reducing space and increasing efficiency of playback when compared to its uncompressed counterpart. Common lossless encoding formats include FLAC or ALAC. They are usually sourced from WAV files.  |
+| Bitrate | The bitrate of an audio file is the number of bits of audio data stored per second, which can be variable or constant based on the encoding. |
+| Lossy | Lossy compression, also known simply as lossy, is a data compression technique that reduces file size by selectively removing or approximating some of the original data from the source file. While this process discards certain information, modern algorithms are designed to do so in a way that minimizes perceptible differences from the original, making it nearly indistinguishable in quality for most users at certain bitrates. Common formats utilizing lossy compression include MP3, AAC, and OPUS. |
+| Lossless | Lossless, also known as lossless compression, which is compression that preserves all data from the source file. Lossless compression is completely indistinguishable from the source file, while also reducing space and increasing efficiency of playback when compared to its uncompressed counterpart. Common lossless encoding formats include FLAC or ALAC. They are usually sourced from WAV files.  |
 | Spectrogram | A measure of frequency density over time. A spectrogram can be viewed as a graph, with frequency density represented by color. The spectrogram can be used to scrutinize the quality of an encoding. |
 
 
@@ -34,7 +35,7 @@ outline: [1,2]
 | LP | Long Play, a full album release usually containing 10 to 12 tracks. |
 | Album | An album is a collection of songs, either by a singular artist, vocalist, producer, or label. Sometimes, albums can even be compilations of multiple unrelated parties. They generally have a common theme, genre, or idea, known as a “Concept Album”, but they don't have to.  |
 | Compilation | An album compiling tracks from different recordings of one or multiple aritsts. |
-| Label | A company that publishes, distributes and promotes the music of their affiliated artists. |
+| Label | A company that publishes, distributes and promotes the music of their affiliated artists. The three biggest are [**Sony**](https://en.wikipedia.org/wiki/Sony_Music_Group), [**Universal**](https://en.wikipedia.org/wiki/Universal_Music_Group) & [**Warner**](https://en.wikipedia.org/wiki/Warner_Music_Group). |
 
 ### Hardware
 | Terms | Details |
@@ -65,7 +66,7 @@ PCM (Pulse Code Modulation) is the most widely used audio encoding method. It in
 
 
 - **Sample Rate**: The number of samples taken per second from the analog audio signal.
-- **Bit Depth**: The number of levels used during quantization.
+- **Bit Depth**: The number of levels used during quantization. These levels define the number of amplitudes available to the encoder. Higher levels mean a wider range of amplitudes per sample.
 - **Channel**: The number of individual audio signals in the recording (e.g., mono, stereo).
 :::
 
@@ -103,41 +104,41 @@ DSD’s high sampling rate allows for a wide dynamic range, even with a 1-bit de
 
 ## Analog to Digital
 
-Analog audio signals are continuous sine wave. To process it digitally, we need to convert it into digital signal where we make it a discrete signal. The discretization goes on in both time and amplitude values.
+Analog audio signals are continuous sine waves. To process them digitally, we need to convert them into discrete signals. The discretization is performed on the amplitude and time domains.
 
 - Discretization of time -> Sampling
 - Discretization of amplitude -> Quantization
 
 
 ### Sampling
-In sampling we take analog signals and take samples at regular interval (PCM). More info in [**sample rate**](#sample-rate).
+Sampling involves taking periodic cuts of analog signals, also known as PCM. More info can be found in [**sample rate**](#sample-rate).
 
 
 ![](/glossary/audio/sampling.jpg)
 
 ### Quantization
-Quantization involves sampling an analog audio signal and converting it into a digital format. This process includes taking periodic samples of the audio wave and recording the amplitude of the analog signal at each sample point. Because the recorded amplitude values are approximations of the original, there are inherent errors. These errors manifest as a noise floor within the sound wave. A higher bit depth reduces the noise floor, making it less perceptible.
+Quantization involves sampling an analog audio signal and converting it into a digital format. This process includes taking periodic samples of the audio wave and recording the amplitude of the analog signal per each sample. Because the recorded amplitude values are approximations of the original, there are inherent errors. These errors manifest as a noise floor within the sound wave. A higher bit depth reduces this error induced noise floor. This is because the quantization error is the difference between the original and quantized signals. Larger bit depths allow for more approximate quantizations, reducing the amplitude of the error signal.
 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/b/b8/Quantization_error.png)
 
 
 ## Sample Rate
-During sampling, the amount of samples taken from the analog audio signal per cycle of the audio to make a digital audio signal is known as the sample rate. As it's a per-second measurement, the unit is Hz (Hertz). Hertz are a measurement of frequency, or how many periods of a wave exist per second.
+The amount of samples taken from the analog audio signal per cycle is known as the sample rate. As it's a per-second measurement, the unit is Hz (Hertz). Hertz are a measurement of frequency, or how many periods of a wave exist per second.
 
-A higher sample rate means more data points of the signal. However, it doesn't necessarily mean higher quality. A higher sample rate lets you have sound waves of higher frequency, but for the same frequency, there are no advantages.
+A higher sample rate means more data points are taken per second. This doesn't necessarily result in a higher quality signal. A higher sample allows for audio signals of higher frequencies, but for the communal frequency range, there are no advantages.
 
-For listeners, 44.1KHz is sufficient to represent all humanly audible frequencies. 44.1KHz is the standard sampling rate for CDs, and 48KHz is the standard sampling rate for DVDs and streaming services (originally brought forth to aid in timing with TV broadcasts). There is no functional difference between the two, beyond resampling issues that you may face.
+For listeners, 44.1KHz is sufficient to represent all humanly audible frequencies. 44.1KHz is the standard sampling rate for CDs, and 48KHz is the standard for DVDs and streaming services (originally brought forth to aid in timing with TV broadcasts). There is no functional difference between the two, beyond resampling issues that may arise between the mediums.
 
-Higher sampling rates are often desirable by producers as it lets them modify the audio more flexibly without adding additional noise, but this is not relevant for playback. Higher sampling rates available on DACs are generally used for processing headroom (for e.g. low-pass filters), that might result in an audible difference.
+Higher sampling rates are often desirable by producers as it allows them modify the audio more flexibly without adding additional noise, but this is not relevant for playback. Higher sampling rates available on DACs are generally used for processing headroom (for e.g. low-pass filters), that may result in an audible difference.
 
 
 ::: details Dithering
-Dithering is a process used when converting from different bit widths. Converting raw audio data to a different bit width will induce quanitization errors during the conversion process. These are errors in averaging amplitudes. A dither signal can be applied to the audio before conversion, which is effectively noise. While noise may seem undesireable, it actually improves the quanitization and signfigantly reduces the errors during the conversion. The noise is not percievable to humans, and does not effect the quality of a mix whatsoever.
+Dithering is a process used when converting from different bit widths. Converting raw audio data to a different bit width will induce quantization errors during the conversion process. These are errors caused by averaging amplitudes. A dither signal can be applied to the audio before conversion, which is effectively noise. While noise may seem undesireable, it actually improves the quantization and signfigantly reduces the errors during the conversion. The noise is not percievable to humans, and does not effect the quality of a mix whatsoever.
 :::
 
 ::: details Nyquist–Shannon Sampling Theorem
-All audio signal sampling is based on this theorem. The theorem states that the sample rate has to be at least twice the maximum frequency of the analog signal to avoid aliasing. So, if the analog signal has a max frequency of 5kHz, the sample rate has to be at least 10kHz.
+All audio signal sampling is based on this theorem. The theorem states that the sample rate has to be at least twice the maximum frequency of the analog signal to avoid aliasing. So, if the analog signal has a max frequency of 5kHz, the sample rate should be be at least 10kHz to reduce aliasing.
 
 
 Another condition is bandlimiting. During the conversion of signals, high frequency distortion is added to the result. A band-pass filter helps to isolate the target frequencies from this distortion. Aliasing occurs if this distortion is not filtered. The folded wave interferes with the main wave and creates a new, unwanted sound wave.
@@ -146,7 +147,7 @@ Another condition is bandlimiting. During the conversion of signals, high freque
 ![](/glossary/audio/nsst1.jpg)
 
 
-To remove aliasing, a low pass filter (aka anti-aliasing filter) is added into both the ADC and DAC. Also, the software has filters to remove aliasing in digitally generated audio signals. It's not practically possible to remove higher frequencies at the exact Nyquist frequency, so a buffer space is kept between the required frequency and the Nyquist frequency. The needed buffer space depends on the hardware capability.
+To remove aliasing, a low pass filter (aka anti-aliasing filter) is added into both the ADC and DAC. Software will additionally include filters to remove aliasing in digitally generated audio signals. It's not practically possible to remove higher frequencies at the desired Nyquist frequency, so a buffer space is kept between the desired frequency and the Nyquist frequency. The buffer space depends on hardware capability.
 
 
 ![](/glossary/audio/nsst2.jpg)
@@ -160,16 +161,16 @@ To remove aliasing, a low pass filter (aka anti-aliasing filter) is added into b
 ## Bit Depth
 
 
-Bit depth indicates how many levels are used during quantization. Bit depth, also known as the number of levels, is defined by **2<sup>levels of bit depth</sup>**.
+Bit depth indicates how many levels are used during quantization. Bit depth, also known as the number of levels, is defined by a power of **2<sup>levels of bit depth</sup>**.
 - 8bit :mdi-arrow-right-thin: 256 levels
 - 16bit :mdi-arrow-right-thin: 65,536 levels
 - 24bit :mdi-arrow-right-thin: 16,777,216 levels
 
 
-The increase of levels is exponential. The higher the level number, the closer the amplitude matching between analog and digital signals and the lower the noise level. 
+The increase in levels is exponential. The higher the level number, the closer the amplitude matching between analog and digital signals and the lower the amplitude of the resulting quantization noise. 
 
 
-Just increasing the bit depth blindly is counter-intuitive. Increasing the bit depth from 16 to 24bit the difference is barely audible but the file size increases a lot.
+Increasing the bit depth blindly is counter-intuitive. For example, increasing the bit depth from 16 to 24 bits produces a barely perceivable enhancement. The file size, however, becomes much larger with the increase in depth.
 
 
 ::: details Dynamic Range
@@ -181,16 +182,16 @@ ___
 
 ___
 
-Using this formula we get (without any dithering applied),
+This formula provides the following dynamic ranges: (without any dithering applied),
 - 8bit :mdi-arrow-right-thin: 49.93dB
 - 16bit :mdi-arrow-right-thin: 98.089dB
 - 24bit :mdi-arrow-right-thin: 146.25dB
 
 
-With 16-bit audio, the maximum possible undithered dynamic range is ~96 dB, and with noise-shaped dithering the perceived dynamic range can be increased to >=120dB. A typical quiet home room won't have a significantly lower noise floor than 30 - 40dB, therefore the minimum threshold at which a listener should experience the noise floor of the audio itself over the ambient noise is well beyond the point where one would go deaf. Any higher bit depth is far more relevant for audio processing, rather than playback.
+16-bit audio produces a maximum possible undithered dynamic range of ~96 dB, and with noise-shaped dithering applied, the dynamic range can increase upwards of 120dB. A average quiet home room won't have a significantly lower noise floor than 30 - 40dB. The minimum threshold at which a listener should experience a noise floor louder than that of ambient noise is well beyond the point where one would cause damage to their hearing. Bit depths greater than 16 are far more relevant for audio processing, rather than playback.
 
 
-For 24-bit audio, the dynamic range exceeds human hearing capabilities. However, the increased file size may not be justified for most people.
+24-bit audio possesses a dynamic range exceeding the human hearing capabilities. With the increase in file size, it may be hard to justify the storage of these higher bit width files.
 
 :::
 
@@ -201,13 +202,13 @@ Bit rate is the amount of data streamed per second. For an audio file, there are
 
 | Bit Rate Types | Description |
 |-|-|
-| Constant (CBR) | Here the bit rate remains constant throughout the entire file (including silences). Since the bit rate is constant, the file size is more predictable depending on the bit depth, frequency, and number of channels. |
-| Variable (VBR) | VBR adjusts the bit rate based on content complexity, which can lead to more efficient use of bits and smaller file sizes. |
-| Average (ABR) | ABR is the middle gound between CBR and VBR. Here you choose a bit rate and it tries to maintain an average bit rate over the entire audio file, allowing some variation in bit rate. |
+| Constant (CBR) | The bit rate remains constant throughout the entire file (including bits storing silence). Since the bit rate is constant, the file size is more predictable. |
+| Variable (VBR) | VBR adjusts the bit rate based on content complexity, which can lead to a more efficient use of bits, as well as smaller file sizes when compared to CBR encoding. |
+| Average (ABR) | ABR is a middle ground between CBR and VBR. The bitrate is allowed to fluctuate, so long as an average value is maintained. This is considered an inferior standard when compared to the other two. |
 
 
 ## Codec
-A codec is a standard used to encode and decode a data stream. Using a codec, we store data in a container. Codec is one of the most important factors that determine the audio quality. There are several codecs used in the audio medium.
+A codec is a standard used to encode and decode a data stream. Using codecs, data is stored in a container. Codecs are one of the most important factors in determining audio quality. There are several codecs used in the audio medium.
 
 
 | Type | Codec |
@@ -218,16 +219,17 @@ A codec is a standard used to encode and decode a data stream. Using a codec, we
 
 
 ### Uncompressed Lossless
-Uncompressed lossless codecs such as WAV and AIFF are pretty old. They use CBR/Constant Bitrate. As a result, you technically don't lose any data, but the file size is very large. WAV is easier to encode and decode and is supported by almost every editing program. So, it's widely used in music studios. As a consumer, you don’t want the bloat.
+Uncompressed lossless codecs are pretty old. They use CBR/Constant Bitrate encoding. CBR encoding ensures no data is lost, but the resulting file size is very large. WAVs consist of only a header, metadata, and raw quantization metrics. Devices can easily perceive this sort of encoding, leading to its relevance even today. As such, it's still widely used in music studios. As a consumer, they remain a bloated and unwanted format.
+
 
 ### Compressed Lossless
-Lossless refers to lossless compression, which is compression that preserves all data from the source file. In terms of music, lossless compression is completely indistinguishable from the source file, while also reducing space and increasing efficiency of playback when compared to its uncompressed counterpart. Common lossless encoding formats include FLAC or ALAC. They are usually sourced from WAV files. They generally use VBR/Variable Bitrate. So the file sizes are much smaller.
+Lossless refers to lossless compression, which is compression that preserves all data from the source file. In terms of music, lossless compression is completely indistinguishable from the source file, while also reducing space and increasing efficiency of playback when compared to its uncompressed counterpart. Common lossless encoding formats include FLAC or ALAC. They are usually sourced from WAV files. They generally use VBR/Variable Bitrate encoding. The resulting file sizes are much smaller when compared to uncompressed lossless formats.
 
 ### Compressed Lossy
-The main aim of lossy codecs is to make the file size small, even if it means compromising in quality. Depending on the efficiency of the codec, audio files can provide better sound at lower bit rates. Beyond the transparency level, everything will sound the same.
+Lossy codecs aim to make file sizes small, even if it means compromising in quality. Quality of the sound varies wildly between formats and bitrates, with higher bitrates sounding better. Beyond the transparency level, everything will sound the same.
 
 ::: tip Transparency
-Transparency means that the compression of the original file is accurate to a degree such that a listener can't distinguish between the compressed and original files. The level or threshold of transparency depends on listerns hearing ability, hardware, and of course the compression method. Since it's based on hearing ability, transparency is very subjective. The more efficient the codec is, the better it will sound **below perceptually transparent bitrate**. In general, encoding quality follows the trend Opus > Vorbis ≈ AAC > MP3. The bit rates at which lossy audio files become transparent are subjective but the following are some common choices:
+Transparency means that the compression of the original file is accurate to a degree such that a listener can't distinguish between the compressed and original files. The level or threshold of transparency depends on listerns hearing ability, hardware, and the compression method. Since it's based on hearing ability, transparency is very subjective. The more efficient the codec is, the better it will sound **below its perceptually transparent bitrate**. In general, encoding quality follows the trend Opus > Vorbis ≈ AAC > MP3. The bit rates at which lossy audio files become transparent are subjective but the following are common choices of bitrates:
 
 
 | Codec | Transparency Level |
@@ -248,25 +250,25 @@ Spectrograms a.k.a spectral analysis are a reliable method to identify audio qua
 
 == FLAC 24/48
 
-![](/glossary/audio/spec/24.jpg)
+![FLAC 24/48 (WEB)](/glossary/audio/spec/24.jpg)
 
 The above figure is a spectrogram of a 24 bit, 48 kHz FLAC. A 48 kHz FLAC can support frequencies up to 24 kHz. This value comes from halving 48 kHz (following [Nyquist–Shannon Sampling Theorem](#sample-rate)).
 
 == FLAC 16/44.1
 
-![From Label](/glossary/audio/spec/16.jpg)
+![From Label (WEB)](/glossary/audio/spec/16.jpg)
 
 This is a spectrogram of a 16 bit, 44.1 kHz FLAC file. A 44.1 kHz FLAC file can support frequencies up to 22.05 kHz. This spectrogram shows frequencies up to around 50dB extending up to 22.05 kHz, which is a great indicator of a truly lossless file.
 
-![Trascoded from FLAC 24/48](/glossary/audio/spec/16t.jpg)
+![Trascoded from FLAC 24/48 (WEB)](/glossary/audio/spec/16t.jpg)
 
 This 16 bit 44.1 kHz FLAC was transcoded from a 24 bit 48 kHz FLAC. Some of the data above 21.5 kHz is missing after the conversion. Although this conversion was from a lossless source and to a lossless source, it's technically not a lossless conversion. Data was lost, even though all of it is above the threshold of human hearing. This is due to the low pass filter applied below 20 kHz. A low pass filter has already been applied during the encoding of the 24 bit FLAC. Transcoding down to a lower sample rate applies this low pass filter again to prevent aliasing. This process usually causes the highest frequencies to be filtered out. This phenomenon can be observed when encoding in a different sample rate from the source. Either increasing or decreasing the sample rate causes some minor distortions between source files. Many different algorithms called SRC (Sample Rate Converters) exist and have varying degrees of effectiveness in mitigating these distortions. Generally, the distortions should not be perceivable by the average listener, but it's worth mentioning for sake of file integrity.
 
 == MP3 320
 
-![](/glossary/audio/spec/320.jpg)
+![Transcoded 320kbps CBR from FLAC 16/44.1](/glossary/audio/spec/320.jpg)
 
-This spectral is of a CBR 320 kbps MP3 transcoded from a FLAC. The hard cutoff at 20.5 kHz is a good indicator of this sort of compression. Normally, frequencies wont extend all the way to 20.5 kHz. The frequency rolloff is much sharper than that of a FLAC file. A very loud noise must be present at higher frequencies in order for the data to persist to 20.5 kHz. Functionally, data will usually cutoff closer to 20.2 kHz. MP3s of any encoding style apply a softer cutoff, also known as a frequency shelf, around 16 kHz.
+This spectral is of a CBR 320kbps MP3 transcoded from a FLAC. The hard cutoff at 20.5 kHz is a good indicator of this sort of compression. Normally, frequencies wont extend all the way to 20.5 kHz. The frequency rolloff is much sharper than that of a FLAC file. A very loud noise must be present at higher frequencies in order for the data to persist to 20.5 kHz. Functionally, data will usually cutoff closer to 20.2 kHz. MP3s of any encoding style apply a softer cutoff, also known as a frequency shelf, around 16 kHz.
 
 ![](/glossary/audio/spec/sweep44.jpg)
 
@@ -282,9 +284,9 @@ The following is the proof that a CBR MP3 320 can reproduce frequencies at 20.5 
 
 == Opus 256
 
-![](/glossary/audio/spec/256opus.jpg)
+![Transcoded 256kbps VBR from FLAC 16/44.1](/glossary/audio/spec/256opus.jpg)
 
-This spectral depicts a VBR Opus at 256 kbps. The Opus codec is much more efficient than MP3, especially at lower bitrates. Opus 256 has a hard cutoff of 20 kHz, with no perceivable shelf, unlike MP3. Comparing the spectral to a FLAC, it almost looks like the frequencies about 20 kHz were chopped off and the rest of the spectrum was left untouched. This makes it a superior format in almost every way than an equivalent high bitrate MP3.
+This spectral depicts a VBR Opus at 256kbps. The Opus codec is much more efficient than MP3, especially at lower bitrates. Opus 256 has a hard cutoff of 20 kHz, with no perceivable shelf, unlike MP3. Comparing the spectral to a FLAC, it almost looks like the frequencies about 20 kHz were chopped off and the rest of the spectrum was left untouched. This makes it a superior format in almost every way than an equivalent high bitrate MP3.
 
 == MP3 V0
 
@@ -298,9 +300,9 @@ This spectral is very similar to the previous, however, a 19.5 kHz low pass filt
 
 == MP3 192
 
-![](/glossary/audio/spec/192.jpg)
+![Transcoded 192kbps CBR from FLAC 16/44.1](/glossary/audio/spec/192.jpg)
 
-This spectrogram is of a CBR 192 kbps MP3. The source was a FLAC. Frequencies no longer extend past 19 kHz, and the MP3 shelf remains at 16 kHz.
+This spectrogram is of a CBR 192kbps MP3. The source was a FLAC. Frequencies no longer extend past 19 kHz, and the MP3 shelf remains at 16 kHz.
 
 == YouTube
 
@@ -314,17 +316,27 @@ Audio quality can vary on youtube for a number of reasons, such as video playbac
 
 == Spotify
 
-![](/glossary/audio/spec/320ogg.jpg)
+![OGG Vorbis 320kbps (VBR)](/glossary/audio/spec/320ogg.jpg)
 
 Spotify uses Vorbis encoding for its library. The above spectral is of a 320 kbps CBR Vorbis file. Comparing this to a FLAC encoding, frequencies beyond 19kHz suffer a soft shelving. Many of the frequencies still bypass the 19kHz threshold, but many quieter frequencies are filtered out at a quicker rate. The rest of the frequency spectrum is left untouched.
 
-![](/glossary/audio/spec/160ogg.jpg)
+![OGG Vorbis 160kbps (VBR)](/glossary/audio/spec/160ogg.jpg)
 
 This spectral is of a 160 kbps CBR Vorbis file. Comparing the 160 kbps Ogg to the 320 kbps Ogg, the lower bitrate suffers a decent amount of data loss throughout the spectrum. Frequencies as low as 2kHz seem to be missing between the two spectrals. Unlike a CBR MP3 at 160 kbps, frequencies are allowed to extend much higher. Instead of focusing on a frequency region to filter data out of, it instead targets areas within the music that the encoding process deems less necessary.
 
+== Apple
+
+![AAC 256kbps (VBR)](/glossary/audio/spec/256aac.jpg)
+
+Apple uses their own AAC codec for lossy audio compression. The AAC version is up to 256kbps VBR . Bit rate for this file ranged from 216 - 313kbps. The frequency went upto 22kHz. The file has a cut-off near 22kHz which is persistent in lossless version too and was a file specific issue and not a codec issue. The spec is also free from the shelf issue like MP3 & OGG Vorbis.
+
+The spec for the lossless 16/44.1:
+
+![ALAC 16/44.1](/glossary/audio/spec/16alac.jpg)
+
 == Case 1
 
-![](/glossary/audio/spec/instr.jpg)
+![Kuuhaku no Sho by Taketeru Sunamori, Miyako Matsuoka](/glossary/audio/spec/instr.jpg)
 
 Spectrals vary a lot depending on the genre of music. Ambient piano music could have less frequency data than genres such as mainstream pop. This spectral is of a lossless FLAC file. Frequencies still extend all the way to 22 kHz, but they are very low decibels in magnitude. A majority of frequencies don't even hit the 22 kHz point. Regardless, it's still a high quality, lossless encoding. Furthermore, lossless 44.1 kHz files don't actually have to hit as high as 22 kHz. If the producer decided to cut-off frequencies past a certain point, they wouldn't exist, lossless or not. This practice, however, is very rare. [This article](https://splice.com/blog/what-is-a-spectrogram/) is also a great explanation.
 
@@ -428,6 +440,7 @@ C:\Music\歌曲3.mp3
 
 Hardware refers to the devices within the signal chain to reproduce listenable audio. The 3 core devices are the Dac, Amp, and playback device. To briefly explain the signal chain, digital audio needs to be sent to a DAC in order to be converted into a usable analog signal. That analog signal is then amplified to bring it to a listenable volume. Finally, a headphone, IEM, or speaker is plugged into the amplifier to reproduce the sound. This chain holds true for any form of digital media, but analog sources do not require a DAC, as the audio signal is already in the analog form.
 
+![](/glossary/audio/mermaid.png)
 
 ## DAC
 
@@ -565,7 +578,7 @@ Vocaloid would slowly gain traction after the release of Vocaloid 2. The doujin 
 
 Everything from jpop to metal to hard trance is fair game for Vocaloid. While the term refers to a genre in of itself, it's more akin to how non-specific something like “female vocals” would be. The only qualification for a Vocaloid song is for it to contain vocals from some sort of vocaloid/utau voicebank. Its low barrier to entry has found a niche in pretty much every modern genre.
 
-Some popular vocaloid producers consist of Kikuo, PinocchioP, and Mitchie M. 
+Some popular vocaloid producers consist of [**Kikuo**](https://www.youtube.com/@kikuo_sound), [**PinocchioP**](https://www.youtube.com/@pinocchiop), [**Wowaka**](https://www.youtube.com/playlist?list=PLnYDKMNVcwf5ihkhxeAhyFPkbs9--Xukc) and [**Mitchie M**](https://www.youtube.com/@MitchieM). 
 
 ## Shibuya-kei
 
@@ -573,26 +586,37 @@ Some popular vocaloid producers consist of Kikuo, PinocchioP, and Mitchie M.
 
 Bossa nova in particular seems to be a large inspiration. The genre featured a lot of french vocalists, and their musical influences bled into the genre. This can be seen within Shibuya-kei’s most recognizable group, Pizzicato Five, as well as vocalists such as Kahimi Karie. Cornelius more or less spearheaded the genre, with many self compositions as well as compositions released under their own label “Trattoria” dominating the scene. While the genre was quick to start and quick to die, it left an impact. Foreign listeners in particular were fond of the genre and it still remains an influential genre within Japan.
 
-Honorable mention Cibo Matto’s “Stero Type A”.
+Honorable mention Cibo Matto’s [**Stero Type A**](https://www.youtube.com/playlist?list=OLAK5uy_nBKsSYZljXguvcs8cKCp2YwU3a2-tVF5U).
 
 ## Denpa
 Denpa music is defined vaguely, but it consists of music the average person would deem “weird”. Not in the avant garde experimental kind of way but usually in the more otaku influenced… synth rainbow vomit kind of way. Denpa music doesn’t really pay its origin to any one subculture in particular, however, it is commonly associated with the otaku. Its otaku association, and eventually catering of the genre to, helped to proliferate and solidify its infamy.
 
-The actual origin of the genre lay in songs that were considered creepy. Repeated nonsensical vocals over cutesy soundfonts made for an uncomfortable listening session. This would further develop with the rise of the term “denpa” as a way to describe delusional and mentally unwell individuals (more can be read about its origins [here](https://en.wikipedia.org/wiki/Denpa\_song)). The genre of music would evolve into songs that contained menhera themes, otaku themes, or themes most of Japanese society at the time would not be comfortable listening to. A lot of parallels would be drawn to genres such as jpop and jcore, however, most people who make denpa music tend not to associate with other genres in order to keep its underground origins intact.  <br>
+The actual origin of the genre lay in songs that were considered creepy. Repeated nonsensical vocals over cutesy soundfonts made for an uncomfortable listening session. This would further develop with the rise of the term “denpa” as a way to describe delusional and mentally unwell individuals (more can be read about its origins [here](https://en.wikipedia.org/wiki/Denpa\_song)). The genre of music would evolve into songs that contained menhera themes, otaku themes, or themes most of Japanese society at the time would not be comfortable listening to. A lot of parallels would be drawn to genres such as jpop and jcore, however, most people who make denpa music tend not to associate with other genres in order to keep its underground origins intact.
 
-Popular artists/producers/groups/circles in the scene consist of Nanahira, and iOSYS.
+Popular artists/producers/groups/circles in the scene consist of [**Nanahira**](https://www.youtube.com/@Nanahira_Confetto) and [**iOSYS**](https://www.youtube.com/@iosys_official).
 
 
 ## Jpop
 
 Jpop, Japanese pop, is pop music with origins in Japan. The sound is distinct from western pop, in that a lot of influences from Shibuya-kei (see above) and modern mexican pop can be observed within the scene. The genre gets marketed internationally much like that of Kpop, but to a less impactful degree. Due to a high otaku presence within the genre, there arise opportunities for more risky, experimental productions to be funded. With the large ethnographic appeal to the Jpop scene, a unique situation arises where vastly different styles of Jpop are allowed to rise to the top. The genre can be perceived as being more diverse than a western counterpart, and it probably is to a degree.
 
+Popular Jpop artists to check out could be [**REOL**](https://www.youtube.com/@reolch), [**Ado**](https://www.youtube.com/@Ado1024), or [**Haru Nemuri**](https://www.youtube.com/@harunemuri).
+
 ## Doujin (music)
 Doujin, specifically Doujin music, is the otaku indie scene of music within Japan. While not all of it is explicitly otaku, a large majority of it is associated with the culture. This is music being released on CD-Rs at events such as Comiket, Reitaisai, or M3. The music can also be released digitally should the circle/individual want it. There's no explicit genre, but the releases are usually from small and tightly knit groups called circles (if not individuals).
+
+A couple doujin artist/circles worth checking out consist of [**Shibayan Records**](https://www.youtube.com/@ShibayanRecords), [**Release Hallucination**](https://www.youtube.com/@ReleaseHallucination), or [**Akatsuki Records**](https://www.youtube.com/@Akatsuki-Records).
 
 ## Jcore
 Jcore specifically refers to the Japanese core style music scene, although the Japanese electronic scene as a whole is incredibly influential. Many international electronic music fans are aware of and actively listening to the Japanese electronic music scene at large. A big reason for this is the exporting of rhythm games from japan. A majority of doujin music exists within the Jcore sphere, and many doujin music circles sell rights to their music to rhythm game companies. As such, the Jcore scene sees mass international exposure to people within the rhythm game subculture.
 
+Producers in the J-Core scene worth checking out consist of [**DJ Sharpnel**](https://music.youtube.com/channel/UCkuWrVX6ME6koqF5AehTkmw) and [**TORIENA**](https://www.youtube.com/@torienaofficial).
+
+## Idol
+
+Idol music falls under the multi-media umbrella of Japanese idol culture. Idols are teenage girls that are over-marketed into superstars for an otaku audience. Ideas of escapism, maximalism, and aesthetics are core to the subculture. Idols normally don't have prior knowledge from a performance background. Rather, studios will engineer idols into performance artists with strict and unorganized schedules. Many social freedoms are restricted, such as visiting family and drinking/smoking. A distinct image must be upheld, an image that has been core to the subculture since the beginning. 
+
+The music itself consists of a variety of genres. Denpa, Jpop, and Jrock are all fair game for idol groups. Experimentation is welcome within the genre, but the music is going to be dictated by the studio that hired the idol. Groups such as Babymetal are iconic for combining metal with more popish, traditional idol vocals. 
 
 ::: info Where to purchase Japanese Music?
 
