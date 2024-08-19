@@ -48,9 +48,9 @@ outline: [1,2]
 - [Yabai](https://yabai.si/)
 
 ### English-only
-- [Faccina](https://fakku.cc/) <tooltip>fakku/irodori rips (official TLs).</tooltip>
 - [Hentai Nexus](https://hentainexus.com/)  <tooltip>fakku/irodori rips (official TLs).</tooltip>
 - [HentaiFox](https://hentaifox.com/ ) <tooltip>Fast Updates and English only library.</tooltip>
+- [HenTalk](https://hentalk.pw/) <tooltip>fakku/irodori rips (official TLs).</tooltip>
 - [Pururin](https://pururin.to/)
 - [Tsumino](https://www.tsumino.com/)
 
