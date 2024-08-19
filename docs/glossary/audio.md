@@ -7,14 +7,13 @@ outline: [1,2]
 
 <GradientCard title="音声用語集" tag="Audio Glossary" description="Audio concepts that you need to know." theme="turquoise"/>
 
-<br>
+
 
 <Authors page="audiog" />
 
 
 ![](/banner/bt.png)
 
-<br>
 
 # Basic Terms
 
@@ -48,7 +47,7 @@ outline: [1,2]
 
 ![](/banner/af.png)
 
-<br>
+
 
 # Audio file
 
@@ -71,28 +70,21 @@ PCM (Pulse Code Modulation) is the most widely used audio encoding method. It in
 :::
 
 ::: details Direct Stream Digital (DSD)
-
-
-Direct Stream Digital (DSD), a product developed by [Sony & Philips](https://www.sony.net/Products/DSD/), is known for its high-resolution audio quality. However, DSD files are relatively rare due to their low popularity. Several factors contribute to this, including their large file size, the difficulty in mastering and editing during production, and the greater efficiency of PCM files in various aspects.
-
+Direct Stream Digital (DSD), a product developed by [Sony & Philips](https://www.sony.net/Products/DSD/), is known for its high-resolution audio quality. However, DSD files are relatively rare due to their low popularity. Several factors contribute to this, including their huge file size, the difficulty in mastering and editing during production, and the greater efficiency of PCM files in various aspects.
 
 DSD is an audio encoding method that uses 1-bit delta-sigma modulation. It samples the audio signal at a very high samplerate, representing changes in signal density rather than amplitude levels, and has only 1 bit of amplitude. The most popular DSD standard is .dsf, but there are other standards as well.
 
-
 ![Analog Signal, PCM & DSD](https://www.sony.net/Products/DSD/images/img_1_en.png)
-
 
 DSD files can be classified based on their sampling rate:
 
-
-| DSD Type   | Sampling Rate           | Relation to CD Audio (44.1 kHz) |
+| DSD Type   | Sampling Rate           | Relation to CD Audio (44.1kHz) |
 |------------|---------------------|---------------------------------|
 | DSD64          | 2.8224 MHz              | 64 times                           |
 | DSD128         | 5.6448 MHz              | 128 times                          |
 | DSD256         | 11.2896 MHz             | 256 times                          |
 | DSD512         | 22.5792 MHz             | 512 times                          |
 | DSD1024        | 45.1584 MHz             | 1024 times                         |
-
 
 DSD’s high sampling rate allows for a wide dynamic range, even with a 1-bit depth. Factors like noise shaping and dithering also contribute to the audio quality. Noise shaping moves noise to the ultrasonic range. For example, DSD64 files start to see noise increase past 20kHz, requiring the DAC to filter it out. Higher DSD rates experience less noise rise, pushing it further into the ultrasonic range and making noise shaping more linear, which eases the DAC's job.
 
@@ -252,67 +244,67 @@ Spectrograms a.k.a spectral analysis are a reliable method to identify audio qua
 
 ![FLAC 24/48 (WEB)](/glossary/audio/spec/24.jpg)
 
-The above figure is a spectrogram of a 24 bit, 48 kHz FLAC. A 48 kHz FLAC can support frequencies up to 24 kHz. This value comes from halving 48 kHz (following [Nyquist–Shannon Sampling Theorem](#sample-rate)).
+The above figure is a spectrogram of a 24 bit, 48kHz FLAC. A 48kHz FLAC can support frequencies up to 24kHz. This value comes from halving 48kHz (following [Nyquist–Shannon Sampling Theorem](#sample-rate)).
 
 == FLAC 16/44.1
 
 ![From Label (WEB)](/glossary/audio/spec/16.jpg)
 
-This is a spectrogram of a 16 bit, 44.1 kHz FLAC file. A 44.1 kHz FLAC file can support frequencies up to 22.05 kHz. This spectrogram shows frequencies up to around 50dB extending up to 22.05 kHz, which is a great indicator of a truly lossless file.
+This is a spectrogram of a 16 bit, 44.1kHz FLAC file. A 44.1kHz FLAC file can support frequencies up to 22.05kHz. This spectrogram shows frequencies up to around 50dB extending up to 22.05kHz, which is a great indicator of a truly lossless file.
 
 ![Trascoded from FLAC 24/48 (WEB)](/glossary/audio/spec/16t.jpg)
 
-This 16 bit 44.1 kHz FLAC was transcoded from a 24 bit 48 kHz FLAC. Some of the data above 21.5 kHz is missing after the conversion. Although this conversion was from a lossless source and to a lossless source, it's technically not a lossless conversion. Data was lost, even though all of it is above the threshold of human hearing. This is due to the low pass filter applied below 20 kHz. A low pass filter has already been applied during the encoding of the 24 bit FLAC. Transcoding down to a lower sample rate applies this low pass filter again to prevent aliasing. This process usually causes the highest frequencies to be filtered out. This phenomenon can be observed when encoding in a different sample rate from the source. Either increasing or decreasing the sample rate causes some minor distortions between source files. Many different algorithms called SRC (Sample Rate Converters) exist and have varying degrees of effectiveness in mitigating these distortions. Generally, the distortions should not be perceivable by the average listener, but it's worth mentioning for sake of file integrity.
+This 16 bit 44.1kHz FLAC was transcoded from a 24 bit 48kHz FLAC. Some of the data above 21.5kHz is missing after the conversion. Although this conversion was from a lossless source and to a lossless source, it's technically not a lossless conversion. Data was lost, even though all of it is above the threshold of human hearing. This is due to the low pass filter applied below 20kHz. A low pass filter has already been applied during the encoding of the 24 bit FLAC. Transcoding down to a lower sample rate applies this low pass filter again to prevent aliasing. This process usually causes the highest frequencies to be filtered out. This phenomenon can be observed when encoding in a different sample rate from the source. Either increasing or decreasing the sample rate causes some minor distortions between source files. Many different algorithms called SRC (Sample Rate Converters) exist and have varying degrees of effectiveness in mitigating these distortions. Generally, the distortions should not be perceivable by the average listener, but it's worth mentioning for sake of file integrity.
 
 == MP3 320
 
 ![Transcoded 320kbps CBR from FLAC 16/44.1](/glossary/audio/spec/320.jpg)
 
-This spectral is of a CBR 320kbps MP3 transcoded from a FLAC. The hard cutoff at 20.5 kHz is a good indicator of this sort of compression. Normally, frequencies wont extend all the way to 20.5 kHz. The frequency rolloff is much sharper than that of a FLAC file. A very loud noise must be present at higher frequencies in order for the data to persist to 20.5 kHz. Functionally, data will usually cutoff closer to 20.2 kHz. MP3s of any encoding style apply a softer cutoff, also known as a frequency shelf, around 16 kHz.
+This spectral is of a CBR 320kbps MP3 transcoded from a FLAC. The hard cutoff at 20.5kHz is a good indicator of this sort of compression. Normally, frequencies wont extend all the way to 20.5kHz. The frequency rolloff is much sharper than that of a FLAC file. A very loud noise must be present at higher frequencies in order for the data to persist to 20.5kHz. Functionally, data will usually cutoff closer to 20.2kHz. MP3s of any encoding style apply a softer cutoff, also known as a frequency shelf, around 16kHz.
 
 ![](/glossary/audio/spec/sweep44.jpg)
 
-The following is the proof that a CBR MP3 320 can reproduce frequencies at 20.5 kHz. 2 different sample rates were used, at 48 kHz and 44.1 kHz respectively. These spectrograms resulted from transcoding a 24 bit 96 kHz FLAC of a frequency sweep. The line is the frequency increasing linearly over time. The figure above depicts the source FLAC.
+The following is the proof that a CBR MP3 320 can reproduce frequencies at 20.5kHz. 2 different sample rates were used, at 48kHz and 44.1kHz respectively. These spectrograms resulted from transcoding a 24 bit 96kHz FLAC of a frequency sweep. The line is the frequency increasing linearly over time. The figure above depicts the source FLAC.
 
 ![](/glossary/audio/spec/sweep48.jpg)
 
-2 lines are drawn on the figure. The top line is the highest perceivable frequency in the measurement, including the back distortion generated by the downsampling process. For the 48 kHz measurement, this line easily clears the 20.5 kHz mark. The second yellow line is measured from the highest perceivable frequency independent of the back distortion. This measurement appears to be at 20.5 kHz. Independent of how you choose to interpret the distortion, the MP3 contains the data.
+2 lines are drawn on the figure. The top line is the highest perceivable frequency in the measurement, including the back distortion generated by the downsampling process. For the 48kHz measurement, this line easily clears the 20.5kHz mark. The second yellow line is measured from the highest perceivable frequency independent of the back distortion. This measurement appears to be at 20.5kHz. Independent of how you choose to interpret the distortion, the MP3 contains the data.
 
 ![](/glossary/audio/spec/sweep3.jpg)
 
-2 lines are drawn on the figure. The top line is the highest perceivable frequency in the measurement, including the back distortion generated by the downsampling process. For the 44.1 kHz measurement, this line appears slightly below the 20.5 kHz mark. The second yellow line is measured from the highest perceivable frequency independent of the back distortion. This measurement appears to be around 20.2 kHz. A 44.1 kHz MP3 probably can't hit 20.5 kHz.
+2 lines are drawn on the figure. The top line is the highest perceivable frequency in the measurement, including the back distortion generated by the downsampling process. For the 44.1kHz measurement, this line appears slightly below the 20.5kHz mark. The second yellow line is measured from the highest perceivable frequency independent of the back distortion. This measurement appears to be around 20.2kHz. A 44.1kHz MP3 probably can't hit 20.5kHz.
 
 == Opus 256
 
 ![Transcoded 256kbps VBR from FLAC 16/44.1](/glossary/audio/spec/256opus.jpg)
 
-This spectral depicts a VBR Opus at 256kbps. The Opus codec is much more efficient than MP3, especially at lower bitrates. Opus 256 has a hard cutoff of 20 kHz, with no perceivable shelf, unlike MP3. Comparing the spectral to a FLAC, it almost looks like the frequencies about 20 kHz were chopped off and the rest of the spectrum was left untouched. This makes it a superior format in almost every way than an equivalent high bitrate MP3.
+This spectral depicts a VBR Opus at 256kbps. The Opus codec is much more efficient than MP3, especially at lower bitrates. Opus 256 has a hard cutoff of 20kHz, with no perceivable shelf, unlike MP3. Comparing the spectral to a FLAC, it almost looks like the frequencies about 20kHz were chopped off and the rest of the spectrum was left untouched. This makes it a superior format in almost every way than an equivalent high bitrate MP3.
 
 == MP3 V0
 
-![Without 19.5 kHz cut-off filter](/glossary/audio/spec/v0.jpg)
+![Without 19.5kHz cut-off filter](/glossary/audio/spec/v0.jpg)
 
-This is a spectral of a V0 variable bitrate MP3, or V0 VBR MP3. V0 is the highest quality encoding preset. Frequencies extend up to about 22 kHz, much like that of a 16 bit lossless FLAC. This form of encoding is still a lossy compression, however. Much of the data beyond 19.5 kHz is heavily stripped out. The preserved data, for the most part, is also outside of the listenable range. Generally, this format is comparable to an MP3 CBR 320. CBR 320 is generally accepted as a better standard, in terms of raw data preservation. A 16 kHz shelf can be observed, a common result of MP3 encoding.
+This is a spectral of a V0 variable bitrate MP3, or V0 VBR MP3. V0 is the highest quality encoding preset. Frequencies extend up to about 22kHz, much like that of a 16 bit lossless FLAC. This form of encoding is still a lossy compression, however. Much of the data beyond 19.5kHz is heavily stripped out. The preserved data, for the most part, is also outside of the listenable range. Generally, this format is comparable to an MP3 CBR 320. CBR 320 is generally accepted as a better standard, in terms of raw data preservation. A 16kHz shelf can be observed, a common result of MP3 encoding.
 
-![With 19.5 kHz cut-off filter](/glossary/audio/spec/v0f.jpg)
+![With 19.5kHz cut-off filter](/glossary/audio/spec/v0f.jpg)
 
-This spectral is very similar to the previous, however, a 19.5 kHz low pass filter has been applied. This is a common practice among V0 encoding. As the data above 19.5 kHz has already been tampered with, and most of that data is transparent, some encoders filter it out by default. This process reduces file size, increasing the efficiency of the codec.
+This spectral is very similar to the previous, however, a 19.5kHz low pass filter has been applied. This is a common practice among V0 encoding. As the data above 19.5kHz has already been tampered with, and most of that data is transparent, some encoders filter it out by default. This process reduces file size, increasing the efficiency of the codec.
 
 == MP3 192
 
 ![Transcoded 192kbps CBR from FLAC 16/44.1](/glossary/audio/spec/192.jpg)
 
-This spectrogram is of a CBR 192kbps MP3. The source was a FLAC. Frequencies no longer extend past 19 kHz, and the MP3 shelf remains at 16 kHz.
+This spectrogram is of a CBR 192kbps MP3. The source was a FLAC. Frequencies no longer extend past 19kHz, and the MP3 shelf remains at 16kHz.
 
 == YouTube
 
 ![Opus 256 VBR (774)](/glossary/audio/spec/256opusyt.jpg)
 
-YouTube commonly uses Opus for their music library. This spectral is of a 48 kHz 256 kbps VBR Opus file. The bitrate floats around 245 - 280 kbps at any given time. A hard cutoff exists at about 20 kHz, but frequencies occasionally persist beyond the cutoff. No discernible shelf is observable.
+YouTube commonly uses Opus for their music library. This spectral is of a 48kHz 256 kbps VBR Opus file. The bitrate floats around 245 - 280 kbps at any given time. A hard cutoff exists at about 20kHz, but frequencies occasionally persist beyond the cutoff. No discernible shelf is observable.
 
 ![Opus 128 VBR (251)](/glossary/audio/spec/128opusyt.jpg)
 
-Audio quality can vary on youtube for a number of reasons, such as video playback quality and types of encoding. Audio on YouTube usually has an average of around 130 kbps. This spectral is of a 48 kHz 128 kbps VBR Opus file. The bitrate floats around 115 - 145 kbps at any given time. A hard cutoff exists at about 20 kHz, but frequencies occasionally persist beyond the cutoff. A slight shelf has been applied at 15.5 kHz. Compared to the 256 kbps Opus, aside from the slight shelf, the spectrals are very close. The quality loss, even at a much lower bitrates, is heavily reduced in the Opus standard.
+Audio quality can vary on youtube for a number of reasons, such as video playback quality and types of encoding. Audio on YouTube usually has an average of around 130 kbps. This spectral is of a 48kHz 128 kbps VBR Opus file. The bitrate floats around 115 - 145 kbps at any given time. A hard cutoff exists at about 20kHz, but frequencies occasionally persist beyond the cutoff. A slight shelf has been applied at 15.5kHz. Compared to the 256 kbps Opus, aside from the slight shelf, the spectrals are very close. The quality loss, even at a much lower bitrates, is heavily reduced in the Opus standard.
 
 == Spotify
 
@@ -328,7 +320,7 @@ This spectral is of a 160 kbps CBR Vorbis file. Comparing the 160 kbps Ogg to th
 
 ![AAC 256kbps (VBR)](/glossary/audio/spec/256aac.jpg)
 
-This spectral is of a VBR 256 kbps AAC file. Apple Audio Codec, or AAC, is a compression algorithm developed by Apple for use in its devices. The bitrate at any given time fluctuates between 216 - 313 kbps. A cutoff right before 22 kHz can be observed at the top. It can be very hard to notice, however, frequencies are missing when compared to the FLAC equivalent. Especially around areas where the frequencies were already quiet. Instead of a defined shelf, AAC will determine which frequencies can safely be removed without compromising the quality of the mix.
+This spectral is of a VBR 256 kbps AAC file. Apple Audio Codec, or AAC, is a compression algorithm developed by Apple for use in its devices. The bitrate at any given time fluctuates between 216 - 313 kbps. A cutoff right before 22kHz can be observed at the top. It can be very hard to notice, however, frequencies are missing when compared to the FLAC equivalent. Especially around areas where the frequencies were already quiet. Instead of a defined shelf, AAC will determine which frequencies can safely be removed without compromising the quality of the mix.
 
 The spec for the lossless 16/44.1:
 
@@ -338,13 +330,13 @@ The spec for the lossless 16/44.1:
 
 ![Kuuhaku no Sho by Taketeru Sunamori, Miyako Matsuoka](/glossary/audio/spec/instr.jpg)
 
-Spectrals vary a lot depending on the genre of music. Ambient piano music could have less frequency data than genres such as mainstream pop. This spectral is of a lossless FLAC file. Frequencies still extend all the way to 22 kHz, but they are very low decibels in magnitude. A majority of frequencies don't even hit the 22 kHz point. Regardless, it's still a high quality, lossless encoding. Furthermore, lossless 44.1 kHz files don't actually have to hit as high as 22 kHz. If the producer decided to cut-off frequencies past a certain point, they wouldn't exist, lossless or not. This practice, however, is very rare. [This article](https://splice.com/blog/what-is-a-spectrogram/) is also a great explanation.
+Spectrals vary a lot depending on the genre of music. Ambient piano music could have less frequency data than genres such as mainstream pop. This spectral is of a lossless FLAC file. Frequencies still extend all the way to 22kHz, but they are very low decibels in magnitude. A majority of frequencies don't even hit the 22kHz point. Regardless, it's still a high quality, lossless encoding. Furthermore, lossless 44.1kHz files don't actually have to hit as high as 22kHz. If the producer decided to cut-off frequencies past a certain point, they wouldn't exist, lossless or not. This practice, however, is very rare. [This article](https://splice.com/blog/what-is-a-spectrogram/) is also a great explanation.
 
 == Case 2
 
 ![One Last Kiss by Hikaru Utada](/glossary/audio/spec/2496eva.jpg)
 
-These spectrals depict 24 bit 96 kHz FLAC encodes. A significant portion of the file is taken up by empty black space, devoid of audio information. This presents an argument such that a 24 bit 96 kHz provides nothing more than bloat. The files can easily be downsampled to a lower sample rate, while preserving a significant amount of the audio data. One last kiss, for example, would be a near lossless conversion. There are only a few moments where frequencies actually appear beyond about 25 kHz. A solid 23 kHz worth of data is essentially being allocated to nothing.
+These spectrals depict 24 bit 96kHz FLAC encodes. A significant portion of the file is taken up by empty black space, devoid of audio information. This presents an argument such that a 24 bit 96kHz provides nothing more than bloat. The files can easily be downsampled to a lower sample rate, while preserving a significant amount of the audio data. One last kiss, for example, would be a near lossless conversion. There are only a few moments where frequencies actually appear beyond about 25kHz. A solid 23kHz worth of data is essentially being allocated to nothing.
 
 ![Koi no Yukue by Akase Akari](/glossary/audio/spec/2496dress.jpg)
 
@@ -384,7 +376,7 @@ Audio files can also be embedded in non-audio specific containers, such as MKV a
 
 Two common analog sources are the vinyl and the cassette. 
 
-- **Vinyls** are large discs that contain grooves in a spiral fashion. These grooves are proportional to that of the sin wave embedded into them. A needle can travel along these grooves in order to reproduce the signal as an alternating current. To achieve this, the vinyl is placed onto a device called a turntable, which spins the disc at a specific speed in order to accurately reproduce the sound. Due to the nature of the needle moving along the grooves, many claim that vinyls will lose sound quality over time. While this is very true, most people buying vinyls today will not listen to them often, so their lifespan can actually be quite long.   <br>
+- **Vinyls** are large discs that contain grooves in a spiral fashion. These grooves are proportional to that of the sin wave embedded into them. A needle can travel along these grooves in order to reproduce the signal as an alternating current. To achieve this, the vinyl is placed onto a device called a turntable, which spins the disc at a specific speed in order to accurately reproduce the sound. Due to the nature of the needle moving along the grooves, many claim that vinyls will lose sound quality over time. While this is very true, most people buying vinyls today will not listen to them often, so their lifespan can actually be quite long.
 - **Cassettes**, also referred to as tapes, contain magnetic strips with sound information superimposed into them. This works by exposing the magnetic tape to an induced magnetic field. The field strength is proportional to the frequencies of the audio data being imposed. The magnetized particles then align in certain patterns within the tape, encoding the audio. Cassettes can be recorded and played back in a device known as a tape deck. Recording can be achieved on most tape decks, allowing the user to make tape recordings of whatever they like.
 :::
 
@@ -431,7 +423,6 @@ C:\Music\歌曲3.mp3
 
 ![](/banner/hw.png)
 
-<br>
 
 
 # Hardware
@@ -460,7 +451,7 @@ There are two types of amplifiers: unbalanced, and balanced.
 - **Unbalanced amplifiers** take in an unbalanced signal, such as one fed from an RCA cable, and outputs an unbalanced signal. An unbalanced signal consists of 3 channels: a left audio channel, a right audio channel, and a ground wire.
 - **Balanced amplifier** takes in a balanced signal, such as one fed from an XLR cable, and outputs a balanced signal. A balanced signal, unlike its unbalanced counterpart, has 2 copies of each of the left and right channels. Functionally, balanced signals are utilized to decrease the amount of noise a wire picks up as a signal travels along it. Practically, this noise shouldn't exist in shorter unbalanced connections, such as those that would be used on a headphone or speaker. However, balanced signals operate on a higher voltage, which allows your amp to output a higher wattage overall.
 
-The primary difference in amplifiers is how much wattage they can output. Amplifiers come in the form of dongles, desktop sized devices, or large AVRs intended for speakers. Dongles will (generally) output less wattage than desktop sized amplifiers, and desktop sized amplifiers will provide less wattage than an AVR. Dongles can have a DAC embedded within them, making them convenient portable all-in-one solutions. You can tell by the type of connector they use as an input. If the dongle terminates in a connector such as a usb-c, which is a digital input, it’s going to have a DAC. 
+The primary difference in amplifiers is how much wattage they can output. Amplifiers come in the form of dongles, desktop sized devices, or large AVRs intended for speakers. Dongles will (generally) output less wattage than desktop sized amplifiers, and desktop sized amplifiers will provide less wattage than an AVR. Dongles can have a DAC embedded within them, making them convenient portable all-in-one solutions. You can tell by the type of connector they use as an input. If the dongle terminates in a connector such as a usb-c, which is a digital input, it’s going to have a DAC.
 
 ![](/glossary/audio/amp.png)
 
@@ -505,7 +496,7 @@ Each driver type handles a different part of the frequency spectrum. Most common
 | Driver | Work |
 |-|-|
 | Subwoofer | The subwoofer, which is also the name for the type of speaker, is the driver that specializes in very low frequencies. These are at and below 80Hz, but many subwoofers allow the user to increase or decrease this ceiling. |
-| Woofer | The woofer is optimized for the middle frequencies. The middle frequencies are defined by the crossover between the subwoofer and the woofer, but from around 80 Hz to 2 kHz is common. The crossover should be defined by the capabilities of the woofer, such that the subwoofer can make up for where the woofer lacks. |
+| Woofer | The woofer is optimized for the middle frequencies. The middle frequencies are defined by the crossover between the subwoofer and the woofer, but from around 80 Hz to 2kHz is common. The crossover should be defined by the capabilities of the woofer, such that the subwoofer can make up for where the woofer lacks. |
 | Tweeter | The tweeter will handle frequencies between around 2kHz-20kHz. Tweeters can play frequencies beyond 20kHz, but humans aren’t able to perceive them. A woofer paired with a tweeter is the most common speaker configuration, known as a 2-way speaker. |
 
 Speakers achieve frequency separation between drivers with use of a crossover. This crossover can be passive or active, and functions as a filter for the frequencies. These frequency separations are not instantaneous, as frequencies will bleed into both drivers at the crossover point. This is both due to a limitation of frequency filtering circuits as well as making the crossover sound more natural.
@@ -539,13 +530,13 @@ These 3 number configurations usually imply a Dolby Atmos enabled system.
 The frequency response shows how something sounds across the frequency spectrum, in terms of gain. It can be used to quickly understand how loud the bass, mids, and highs are reproduced. 
 :::
 
-No one driver will reproduce the entire listenable frequency spectrum, that being 20 Hz to 20 kHz, flatly. The loudness of frequencies will always vary throughout the spectrum. The measure of the magnitude of response of the frequency spectrum is known as the frequency response. The frequency response would be the most perceivable difference between playback devices.  <br>
+No one driver will reproduce the entire listenable frequency spectrum, that being 20 Hz to 20kHz, flatly. The loudness of frequencies will always vary throughout the spectrum. The measure of the magnitude of response of the frequency spectrum is known as the frequency response. The frequency response would be the most perceivable difference between playback devices.
 
 The following image is the frequency response of a common headphone, the Sennheiser HD 600:
 
 ![](/glossary/audio/crinacle.jpg)
 
-The blue and red lines are the left and right drivers of the headphone. The X axis is the frequency spectrum, increasing from 20Hz to 20kHz, and the Y axis is the perceived loudness. Just for example, at around 30Hz the graph shows a gain of about 60dB. The black line is what the raw measurement was compensated to. That means that the original slope of the blue and red lines were superimposed on the curve depicted by the black line. This is done because the human ear processes frequencies in a strange, non linear manner. The compensation is an attempt to try to more accurately depict how the headphone would sound to the human ear.   <br>
+The blue and red lines are the left and right drivers of the headphone. The X axis is the frequency spectrum, increasing from 20Hz to 20kHz, and the Y axis is the perceived loudness. Just for example, at around 30Hz the graph shows a gain of about 60dB. The black line is what the raw measurement was compensated to. That means that the original slope of the blue and red lines were superimposed on the curve depicted by the black line. This is done because the human ear processes frequencies in a strange, non linear manner. The compensation is an attempt to try to more accurately depict how the headphone would sound to the human ear. 
 
 The response can be analyzed like so: Crinacle adds the bold lines at 100Hz and 1kHz to separate the bass frequencies from the mid frequencies, and the mid frequencies from the high frequencies. The bass section contains bass tones, such as a kick drum. The mids contain a majority of the sounds in a song, everything from vocals to guitars to synths. The highs mostly consist of a niche subset of instruments, such as cymbals and brass instruments, as well as detail for the lower frequencies. Female vocals may also bleed into this range. The most noticeable portion of a response like this is how the bass is rolled off under about 80Hz, meaning it gradually decreases in gain down to 20Hz. The overall response tries to stay flat, or neutral, but the high frequencies suffer some dips and peaks throughout the spectrum.
 
@@ -564,12 +555,12 @@ The second limitation of EQ is that it can't make a bad piece of hardware good. 
 
 ![](/glossary/audio/eq.png)
 
-This is an example of the bass boost eq profile in musicbee. The preamp is set to \-6dB, which is larger in magnitude than the largest magnitude of the boosted frequencies. This ensures that no peaking occurs on the output. Frequencies below 1 kHz are gradually increased, emphasizing these frequencies in playback. Frequencies around 32 Hz receive the greatest effect.
+This is an example of the bass boost eq profile in musicbee. The preamp is set to \-6dB, which is larger in magnitude than the largest magnitude of the boosted frequencies. This ensures that no peaking occurs on the output. Frequencies below 1kHz are gradually increased, emphasizing these frequencies in playback. Frequencies around 32 Hz receive the greatest effect.
 
 
 ![](/banner/mg.png)
 
-<br>
+
 
 # Japanese Music Genres
 
