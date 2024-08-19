@@ -328,7 +328,7 @@ This spectral is of a 160 kbps CBR Vorbis file. Comparing the 160 kbps Ogg to th
 
 ![AAC 256kbps (VBR)](/glossary/audio/spec/256aac.jpg)
 
-Apple uses their own AAC codec for lossy audio compression. The AAC version is up to 256kbps VBR . Bit rate for this file ranged from 216 - 313kbps. The frequency went upto 22kHz. The file has a cut-off near 22kHz which is persistent in lossless version too and was a file specific issue and not a codec issue. The spec is also free from the shelf issue like MP3 & OGG Vorbis.
+This spectral is of a VBR 256 kbps AAC file. Apple Audio Codec, or AAC, is a compression algorithm developed by Apple for use in its devices. The bitrate at any given time fluctuates between 216 - 313 kbps. A cutoff right before 22 kHz can be observed at the top. It can be very hard to notice, however, frequencies are missing when compared to the FLAC equivalent. Especially around areas where the frequencies were already quiet. Instead of a defined shelf, AAC will determine which frequencies can safely be removed without compromising the quality of the mix.
 
 The spec for the lossless 16/44.1:
 
