@@ -90,6 +90,15 @@ importers:
       '@iconify-json/logos':
         specifier: ^1.1.44
         version: 1.1.44
+      '@iconify-json/lucide':
+        specifier: ^1.1.207
+        version: 1.1.207
+      '@iconify-json/material-symbols':
+        specifier: ^1.1.88
+        version: 1.1.88
+      '@iconify-json/mdi':
+        specifier: ^1.1.68
+        version: 1.1.68
       '@iconify-json/mingcute':
         specifier: ^1.1.19
         version: 1.1.19
@@ -99,6 +108,9 @@ importers:
       '@iconify-json/simple-icons':
         specifier: ^1.1.113
         version: 1.1.113
+      '@iconify-json/twemoji':
+        specifier: ^1.1.16
+        version: 1.1.16
       '@iconify-json/uil':
         specifier: ^1.1.9
         version: 1.1.9
@@ -736,6 +748,15 @@ packages:
   '@iconify-json/logos@1.1.44':
     resolution: {integrity: sha512-sIc355/sSq4GihU4eFTDVbXoeg2rZD3yH6tNOJTNouDu9Fx259BSWH+XEEQwm/YImDIllcGqmJuNBjAu4UVs2g==}
 
+  '@iconify-json/lucide@1.1.207':
+    resolution: {integrity: sha512-RwzmyFchxiTceKtvVMqfFyUNyxpBKtl6QzD5XPzofr8bqpVgBB/SO0gjI9IbsdQ3bTfSXrEMH+lPm1F0gf2vqQ==}
+
+  '@iconify-json/material-symbols@1.1.88':
+    resolution: {integrity: sha512-1wDu/SDAtJighAvGW/bO9f5zLYUvFlcErPP59uw8zURPKVpQwdLmX6zrBTeHzMUnfcPgv5dCJElCn1astExbhg==}
+
+  '@iconify-json/mdi@1.1.68':
+    resolution: {integrity: sha512-7//TKCiXLU6kNWeOJRTBbisofVO7rF1sD1TZTL4/V9nqlmVNczQ5IOY0GgKOTsitkcTnX9GXgrgbjw3OI5B69w==}
+
   '@iconify-json/mingcute@1.1.19':
     resolution: {integrity: sha512-O7h8mEQPUBfpsMagPI7ab/w5JzpijMMYmlabD43hyXyjh2LBfz+FlC+AcgSjQERx9+zb1dECb0FA34L5+VKs/Q==}
 
@@ -744,6 +765,9 @@ packages:
 
   '@iconify-json/simple-icons@1.1.113':
     resolution: {integrity: sha512-XnGdS+JExCxMN5N2r0FXA99NkYkgJUsqiU+7fUauWkImjLgail0OdNUQ2379yRY8wPSTqHxy9eCxaOAWzJ2ZWA==}
+
+  '@iconify-json/twemoji@1.1.16':
+    resolution: {integrity: sha512-uAUlu4l7UZXDX2W7kfwttsObf76t+myPRxgIfU6IL1jQsbQTG/ouC2NBhrgBI8iq6eCweDhLuBorCdMlDkE9fQ==}
 
   '@iconify-json/uil@1.1.9':
     resolution: {integrity: sha512-NZkqwKfG2TsJClxzVjYi2a3Mam/3ZrNjzxHNniqqwrSiAQ6QYx9VlFmazQUXQF5xu9v1z1wIeQo3vYClvanrnw==}
@@ -4246,6 +4270,18 @@ snapshots:
     dependencies:
       '@iconify/types': 2.0.0
 
+  '@iconify-json/lucide@1.1.207':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/material-symbols@1.1.88':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/mdi@1.1.68':
+    dependencies:
+      '@iconify/types': 2.0.0
+
   '@iconify-json/mingcute@1.1.19':
     dependencies:
       '@iconify/types': 2.0.0
@@ -4255,6 +4291,10 @@ snapshots:
       '@iconify/types': 2.0.0
 
   '@iconify-json/simple-icons@1.1.113':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/twemoji@1.1.16':
     dependencies:
       '@iconify/types': 2.0.0
 
