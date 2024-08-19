@@ -355,6 +355,22 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 | Tracker | [EroGamescape](https://erogamescape.org/) <Badge text="EN Guide" link="https://www.youtube.com/watch?v=oPIWgXDllzQ"/> |
 
 
+## Korean
+
+### Manhwa
+- [Newtoki](https://newtoki349.com/) <Badge type="danger" text="18+" />
+- [OKToon](https://oktoon.com/) <Badge type="danger" text="18+" /><tooltip>Needs Korean VPN server.</tooltip>
+- [W툰](https://wtwt271.com/) <Badge type="danger" text="18+" />
+
+### Software
+
+#### Android
+
+| Category | Resources |
+|-|-|
+| Manhwa | [Manga View Android](https://junheah.github.io/MangaViewAndroid/) |
+
+
 ## Polish
 
 ### Anime
