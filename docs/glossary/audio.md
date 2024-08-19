@@ -510,6 +510,8 @@ Each driver type handles a different part of the frequency spectrum. Most common
 
 Speakers achieve frequency separation between drivers with use of a crossover. This crossover can be passive or active, and functions as a filter for the frequencies. These frequency separations are not instantaneous, as frequencies will bleed into both drivers at the crossover point. This is both due to a limitation of frequency filtering circuits as well as making the crossover sound more natural.
 
+![](/glossary/audio/speaker.jpg)
+
 ::: details More
 
 Speakers come in two distinct types, active or passive units.
@@ -518,6 +520,18 @@ Speakers come in two distinct types, active or passive units.
 - **Active units**, on the other hand, are powered. This implies they contain amplification circuitry (and potentially DAC circuitry) internally. Usually, these powered units will take a DC barrel plug, or a standard IEC cable in the back. They also can provide analog inputs for the internal amplifier, such as RCA or XLR. Digital inputs may also be present if the speaker contains a DAC, such as toslink optical or Bluetooth. These components, as well as the circuitry, are mounted onto a plate and screwed into the speaker. Subwoofers are commonly active units, as they allow for much more control over the subwoofer’s crossover.
 
 :::
+
+::: details Surround system identification
+
+Surround sound systems are commonly denoted by a number naming scheme.
+- The first number indicates the amount of speakers at the same level as the listener that are also pointed at the listener.
+- The second number denotes the amount of subwoofers within the setup.
+- The third, optional number denotes the amount of speakers that are either not pointed directly at the listener, or are ceiling mounted.
+
+These 3 number configurations usually imply a Dolby Atmos enabled system.
+
+:::
+
 
 ## Frequency Response
 
