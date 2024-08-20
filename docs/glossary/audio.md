@@ -20,10 +20,10 @@ outline: [1,2]
 ### Audio File
 | Terms | Details |
 | ---- | ---- |
-| Bitrate | The bitrate of an audio file is the number of bits of audio data stored per second, which can be variable or constant based on the encoding. |
-| Lossy | Lossy compression, also known simply as lossy, is a data compression technique that reduces file size by selectively removing or approximating some of the original data from the source file. While this process discards certain information, modern algorithms are designed to do so in a way that minimizes perceptible differences from the original, making it nearly indistinguishable in quality for most users at certain bitrates. Common formats utilizing lossy compression include MP3, AAC, and OPUS. |
-| Lossless | Lossless, also known as lossless compression, which is compression that preserves all data from the source file. Lossless compression is completely indistinguishable from the source file, while also reducing space and increasing efficiency of playback when compared to its uncompressed counterpart. Common lossless encoding formats include FLAC or ALAC. They are usually sourced from WAV files.  |
-| Spectrogram | A measure of frequency density over time. A spectrogram can be viewed as a graph, with frequency density represented by color. The spectrogram can be used to scrutinize the quality of an encoding. |
+| Bitrate | The bitrate of an audio file is the number of bits of audio data stored per second, which can be variable or constant based on the encoding. [**More details :mdi-arrow-top-right:**](#bit-rate) |
+| Lossy | Lossy codecs aim to make file sizes small, even if it means compromising in quality. Quality of the sound varies wildly between formats and bitrates, with higher bitrates sounding better. Beyond the transparency level, everything will sound the same. [**More details :mdi-arrow-top-right:**](#compressed-lossy) |
+| Lossless | Lossless, also known as lossless compression, which is compression that preserves all data from the source file. Lossless compression is completely indistinguishable from the source file. [**More details :mdi-arrow-top-right:**](#uncompressed-lossless) |
+| Spectrogram | A measure of frequency density over time. A spectrogram can be viewed as a graph, with frequency density represented by color. The spectrogram can be used to scrutinize the quality of an encoding. [**More details :mdi-arrow-top-right:**](#spectrogram) |
 
 
 ### Release
@@ -39,10 +39,10 @@ outline: [1,2]
 ### Hardware
 | Terms | Details |
 | ---- | ---- |
-| IEM | Short for “In Ear Monitor”. These are much like earbuds, however, they have nozzles and tips attached to the end where audio comes out. This makes it such that the “monitor”, or speaker, goes “in ear”. Earbuds, alternatively, will rest on the ear without actually going in. The benefit of an IEM is that it creates a seal within your ear, which can allow for the bass response to be maintained much easier. More about IEMs can be found in the Some knowledge of audiophile equipment section.  |
-| DAC | Short for “Digital-to-Analog Converter”. In terms of music, the DAC is the part of the chain that converts source files into analog signals that a headphone, speaker, or IEM can play back. More about DACs can be found in the Some knowledge of audiophile equipment section. |
-| Amp | Short for “Amplifier”. In terms of music, the amp takes the converted signal from a DAC, or other analog source, and increases that signal's amplitude. This process is what makes audio louder. Any time you interact with a knob or volume rocker in order to make music louder or quieter, odds are you're interfacing with an amplifier. More about amps can be found in the Some knowledge of audiophile equipment section. |
-| Speaker | Speakers shoot sound out towards the user. They consist of a subwoofer, woofer and tweeter. The subwoofer is usually disconnected from the woofer and tweeter pairing. |
+| IEM | Short for “In Ear Monitor”. These are much like earbuds, however, they have nozzles and tips attached to the end where audio comes out. This makes it such that the “monitor”, or speaker, goes “in ear”. Earbuds, alternatively, will rest on the ear without actually going in. The benefit of an IEM is that it creates a seal within your ear, which can allow for the bass response to be maintained much easier. [**More details :mdi-arrow-top-right:**](#in-ear-monitor)  |
+| DAC | Short for “Digital-to-Analog Converter”. In terms of music, the DAC is the part of the chain that converts source files into analog signals that a headphone, speaker, or IEM can play back. [**More details :mdi-arrow-top-right:**](#dac) |
+| Amp | Short for “Amplifier”. In terms of music, the amp takes the converted signal from a DAC, or other analog source, and increases that signal's amplitude. This process is what makes audio louder. Any time you interact with a knob or volume rocker in order to make music louder or quieter, odds are you're interfacing with an amplifier. [**More details :mdi-arrow-top-right:**](#amp) |
+| Speaker | Speakers shoot sound out towards the user. They consist of a subwoofer, woofer and tweeter. The subwoofer is usually disconnected from the woofer and tweeter pairing. [**More details :mdi-arrow-top-right:**](#speaker) |
 
 
 ![](/banner/af.png)
@@ -218,10 +218,10 @@ Uncompressed lossless codecs are pretty old. They use CBR/Constant Bitrate encod
 Lossless refers to lossless compression, which is compression that preserves all data from the source file. In terms of music, lossless compression is completely indistinguishable from the source file, while also reducing space and increasing efficiency of playback when compared to its uncompressed counterpart. Common lossless encoding formats include FLAC or ALAC. They are usually sourced from WAV files. They generally use VBR/Variable Bitrate encoding. The resulting file sizes are much smaller when compared to uncompressed lossless formats.
 
 ### Compressed Lossy
-Lossy codecs aim to make file sizes small, even if it means compromising in quality. Quality of the sound varies wildly between formats and bitrates, with higher bitrates sounding better. Beyond the transparency level, everything will sound the same.
+Lossy compression, also known simply as lossy, is a data compression technique that reduces file size by selectively removing or approximating some of the original data from the source file. While this process discards certain information, modern algorithms are designed to do so in a way that minimizes perceptible differences from the original, making it nearly indistinguishable in quality for most users at certain bitrates. Common formats utilizing lossy compression include MP3, AAC, and OPUS.
 
 ::: tip Transparency
-Transparency means that the compression of the original file is accurate to a degree such that a listener can't distinguish between the compressed and original files. The level or threshold of transparency depends on listerns hearing ability, hardware, and the compression method. Since it's based on hearing ability, transparency is very subjective. The more efficient the codec is, the better it will sound **below its perceptually transparent bitrate**. In general, encoding quality follows the trend Opus > Vorbis ≈ AAC > MP3. The bit rates at which lossy audio files become transparent are subjective but the following are common choices of bitrates:
+Transparency means that the compression of the original file is accurate to a degree such that a listener can't distinguish between the compressed and original files. The level or threshold of transparency depends on listerns hearing ability, hardware, and the compression method. Since it's based on hearing ability, transparency is very subjective. The more efficient the codec is, the better it will sound **below its perceptually transparent bitrate**. In general, encoding quality follows the trend Opus > AAC ≈ Vorbis > MP3. The bit rates at which lossy audio files become transparent are subjective but the following are common choices of bitrates:
 
 
 | Codec | Transparency Level |
@@ -346,7 +346,7 @@ The My Dress-Up Darling ED makes much more use of the extra frequency headroom, 
 
 In short, analyzing a file can help determine the authenticity of the quality. A FLAC file cant always be taken at face value. If it sounds low quality, it could potentially be the result of a bad transcode. Software such as spek allows the user to analyze music and prevent the sharing of low quality, unwanted encodes.
 
-::: info [**Click here**](https://mega.nz/folder/Mth23LbJ#p8tqsMs_DmH2I781xmVx3Q) for higher res specs
+::: info [**Click here**](https://mega.nz/folder/Mth23LbJ#p8tqsMs_DmH2I781xmVx3Q) for higher res specs.
 :::
 
 ## Container
