@@ -346,6 +346,8 @@ The My Dress-Up Darling ED makes much more use of the extra frequency headroom, 
 
 In short, analyzing a file can help determine the authenticity of the quality. A FLAC file cant always be taken at face value. If it sounds low quality, it could potentially be the result of a bad transcode. Software such as spek allows the user to analyze music and prevent the sharing of low quality, unwanted encodes.
 
+::: info [**Click here**](https://mega.nz/folder/Mth23LbJ#p8tqsMs_DmH2I781xmVx3Q) for higher res specs
+:::
 
 ## Container
 
