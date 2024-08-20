@@ -226,10 +226,10 @@ Transparency means that the compression of the original file is accurate to a de
 
 | Codec | Transparency Level |
 |-------|---------------------|
-| Opus  | 160-192 kbps            |
-| Vorbis| 256 kbps                |
-| AAC   | 256 kbps                |
-| MP3 (CBR) | 320 kbps            |
+| Opus  | 128kbps            |
+| Vorbis| 160kbps             |
+| AAC   | 128 - 160kbps       |
+| MP3 (CBR) | 320kbps         |
 | MP3 (VBR) | Between -V3 and -V0 |
 
 :::
@@ -300,27 +300,27 @@ This spectrogram is of a CBR 192kbps MP3. The source was a FLAC. Frequencies no 
 
 ![Opus 256 VBR (774)](/glossary/audio/spec/256opusyt.jpg)
 
-YouTube commonly uses Opus for their music library. This spectral is of a 48kHz 256 kbps VBR Opus file. The bitrate floats around 245 - 280 kbps at any given time. A hard cutoff exists at about 20kHz, but frequencies occasionally persist beyond the cutoff. No discernible shelf is observable.
+YouTube commonly uses Opus for their music library. This spectral is of a 48kHz 256kbps VBR Opus file. The bitrate floats around 245 - 280kbps at any given time. A hard cutoff exists at about 20kHz, but frequencies occasionally persist beyond the cutoff. No discernible shelf is observable.
 
 ![Opus 128 VBR (251)](/glossary/audio/spec/128opusyt.jpg)
 
-Audio quality can vary on youtube for a number of reasons, such as video playback quality and types of encoding. Audio on YouTube usually has an average of around 130 kbps. This spectral is of a 48kHz 128 kbps VBR Opus file. The bitrate floats around 115 - 145 kbps at any given time. A hard cutoff exists at about 20kHz, but frequencies occasionally persist beyond the cutoff. A slight shelf has been applied at 15.5kHz. Compared to the 256 kbps Opus, aside from the slight shelf, the spectrals are very close. The quality loss, even at a much lower bitrates, is heavily reduced in the Opus standard.
+Audio quality can vary on youtube for a number of reasons, such as video playback quality and types of encoding. Audio on YouTube usually has an average of around 130kbps. This spectral is of a 48kHz 128kbps VBR Opus file. The bitrate floats around 115 - 145kbps at any given time. A hard cutoff exists at about 20kHz, but frequencies occasionally persist beyond the cutoff. A slight shelf has been applied at 15.5kHz. Compared to the 256kbps Opus, aside from the slight shelf, the spectrals are very close. The quality loss, even at a much lower bitrates, is heavily reduced in the Opus standard.
 
 == Spotify
 
 ![OGG Vorbis 320kbps (VBR)](/glossary/audio/spec/320ogg.jpg)
 
-Spotify uses Vorbis encoding for its library. The above spectral is of a 320 kbps CBR Vorbis file. Comparing this to a FLAC encoding, frequencies beyond 19kHz suffer a soft shelving. Many of the frequencies still bypass the 19kHz threshold, but many quieter frequencies are filtered out at a quicker rate. The rest of the frequency spectrum is left untouched.
+Spotify uses Vorbis encoding for its library. The above spectral is of a 320kbps CBR Vorbis file. Comparing this to a FLAC encoding, frequencies beyond 19kHz suffer a soft shelving. Many of the frequencies still bypass the 19kHz threshold, but many quieter frequencies are filtered out at a quicker rate. The rest of the frequency spectrum is left untouched.
 
 ![OGG Vorbis 160kbps (VBR)](/glossary/audio/spec/160ogg.jpg)
 
-This spectral is of a 160 kbps CBR Vorbis file. Comparing the 160 kbps Ogg to the 320 kbps Ogg, the lower bitrate suffers a decent amount of data loss throughout the spectrum. Frequencies as low as 2kHz seem to be missing between the two spectrals. Unlike a CBR MP3 at 160 kbps, frequencies are allowed to extend much higher. Instead of focusing on a frequency region to filter data out of, it instead targets areas within the music that the encoding process deems less necessary.
+This spectral is of a 160kbps CBR Vorbis file. Comparing the 160kbps Ogg to the 320kbps Ogg, the lower bitrate suffers a decent amount of data loss throughout the spectrum. Frequencies as low as 2kHz seem to be missing between the two spectrals. Unlike a CBR MP3 at 160kbps, frequencies are allowed to extend much higher. Instead of focusing on a frequency region to filter data out of, it instead targets areas within the music that the encoding process deems less necessary.
 
 == Apple
 
 ![AAC 256kbps (VBR)](/glossary/audio/spec/256aac.jpg)
 
-This spectral is of a VBR 256 kbps AAC file. Apple Audio Codec, or AAC, is a compression algorithm developed by Apple for use in its devices. The bitrate at any given time fluctuates between 216 - 313 kbps. A cutoff right before 22kHz can be observed at the top. It can be very hard to notice, however, frequencies are missing when compared to the FLAC equivalent. Especially around areas where the frequencies were already quiet. Instead of a defined shelf, AAC will determine which frequencies can safely be removed without compromising the quality of the mix.
+This spectral is of a VBR 256kbps AAC file. Apple Audio Codec, or AAC, is a compression algorithm developed by Apple for use in its devices. The bitrate at any given time fluctuates between 216 - 313kbps. A cutoff right before 22kHz can be observed at the top. It can be very hard to notice, however, frequencies are missing when compared to the FLAC equivalent. Especially around areas where the frequencies were already quiet. Instead of a defined shelf, AAC will determine which frequencies can safely be removed without compromising the quality of the mix.
 
 The spec for the lossless 16/44.1:
 
