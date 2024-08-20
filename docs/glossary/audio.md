@@ -625,6 +625,8 @@ Idol music falls under the multi-media umbrella of Japanese idol culture. Idols 
 
 The music itself consists of a variety of genres. Denpa, Jpop, and Jrock are all fair game for idol groups. Experimentation is welcome within the genre, but the music is going to be dictated by the studio that hired the idol. Groups such as Babymetal are iconic for combining metal with more popish, traditional idol vocals. 
 
+You can check out [**AKB48**](https://www.youtube.com/@akb48/), [**BABYMETAL**](https://www.youtube.com/@BABYMETAL) and [**Hoshimachi Suisei**](https://www.youtube.com/@HoshimachiSuisei).
+
 ::: info Where to purchase Japanese Music?
 
 Give the [Wotaku music page](https://wotaku.moe/music\#purchase) a look. Both [**Ototoy**](https://ototoy.jp/top/) and [**Bandcamp**](https://bandcamp.com/) house a lot of high quality japanese music, both from the mainstream as well as the underground. Each storefront allows the user to save music purchases to an account. As long as the service is live, music can be redownloaded indefinitely. Both services also offer lossless, as well as 24 bit lossless.
