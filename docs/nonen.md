@@ -466,8 +466,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 | Category | Resources |
 |-|-|
-| Anime |  [ShiraBox](https://shirabox.org/) <br> [AnilabX](https://github.com/CrazyXacker/anilabx) <Badge text="Manga" /><Badge type="warning" text="Freemium" /> |
-| Tracker | [ShikiWatch](https://github.com/wheremyfiji/ShikiWatch) |
+| Anime |  [ShiraBox](https://shirabox.org/) <br> [AnilabX](https://github.com/CrazyXacker/anilabx) <Badge text="Manga" /><Badge type="warning" text="Freemium" /> <br> [ShikiWatch](https://github.com/wheremyfiji/ShikiWatch) |
 
 #### PC
 
