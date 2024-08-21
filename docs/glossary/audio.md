@@ -233,7 +233,7 @@ Transparency means that the compression of the original file is accurate to a de
 
 | Codec | Transparency Level |
 |-------|---------------------|
-| Opus  | 128k - 160bps       |
+| Opus  | 128 - 160kbps       |
 | AAC   | 128 - 160kbps       |
 | Vorbis| -q5 - -q6           |
 | MP3 (CBR) | 320kbps         |
