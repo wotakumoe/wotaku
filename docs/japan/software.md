@@ -102,6 +102,7 @@ outline: [2,3]
 - [Kata](https://play.google.com/store/apps/details?id=im.dacer.kata)
 - [kawaiiNihongo](https://play.google.com/store/apps/details?id=de.mardukcorp.kawaiinihongo)
 - [renshuu](https://play.google.com/store/apps/details?id=com.renshuu.renshuu_org) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://www.renshuu.org/" />
+- [Textbender](https://github.com/fruitports/android-textbender)
 - [Vocal Pitch Monitor](https://play.google.com/store/apps/details?id=com.tadaoyamaoka.vocalpitchmonitor)
 
 #### Apple
