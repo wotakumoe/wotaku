@@ -191,6 +191,7 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 <br>
 
 #### Misc
+- [BOOK WALKER Cross Search](https://bsearch.bookwalker.jp/search) `Search through BW books`
 - [Hinoki Project](https://hinoki-project.org/)
 - [Hiragana](https://www.hiragana.jp/en/) `Add Hiragana over Kanji`
 - [jReadability](https://jreadability.net/) `Text eadability measurement`
