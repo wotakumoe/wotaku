@@ -26,6 +26,7 @@ outline: [1,2]
 - [Hentai Mama](https://hentaimama.io/)
 - [Hentai Stream](https://hstream.moe/) <Badge type="info" text="Upscale" />
 - [Hentai World](https://hentaiworld.tv/)
+- [HMV Mania](https://hmvmania.com/) <Badge type="tip" text="/h/ thread" link="https://archived.moe/h/thread/7621997/" />
 - [Mucho Hentai](https://muchohentai.com/) <Badge type="info" text="Schedule" /><Badge type="info" text="PV" />
 - [Oppai](https://oppai.stream/) <Badge type="info" text="Upscale" />
 - [Rule34video](https://rule34video.com/)
@@ -37,12 +38,12 @@ outline: [1,2]
 - [E-Hentai](https://e-hentai.org/) :glowing-star: <Badge type="tip" text="Search Guide" link="https://e-hentaitagsearch.blogspot.com/" /> <tooltip>It is the mangadex for doujins. Almost every doujin is first uploaded here before being scraped by other sites. Online viewer compresses the images but has the option to download stuff in original quality.<br>
 <a href="https://exhentai.org/">Exhentai</a> is it's sister site, which also hosts the more extreme and questionable content. You'll need an account on e-hentai to gain access.</tooltip>
 - [nHentai](https://nhentai.net/) <tooltip>Most popular. Decent UI but compresses images.</tooltip>
-- [Koharu](https://koharu.to/) <tooltip>fakku/irodori rips (official TLs).</tooltip>
 - [Akuma](https://akuma.moe/) <tooltip>EHentai clone.</tooltip>
 - [AsmHentai](https://asmhentai.com/)
 - [IMHentai](https://imhentai.xxx/) <tooltip>Big Library and great search filters.</tooltip>
 - [HentaiRead](https://hentairead.com/)
 - [Hitomi](https://hitomi.la/) <tooltip>Big Library but difficult to navigate.</tooltip>
+- [Koharu](https://koharu.to/) <tooltip>fakku/irodori rips (official TLs).</tooltip>
 - [Panda Backup](https://panda.chaika.moe/) <tooltip>Archive of stuff removed from E-Hentai due to DMCA complaints. Has some obscure stuff deleted on most sites.</tooltip>
 - [Sukidesu](https://sukidesu.moe/)
 - [Yabai](https://yabai.si/)
@@ -53,6 +54,7 @@ outline: [1,2]
 - [HenTalk](https://hentalk.pw/) <tooltip>fakku/irodori rips (official TLs).</tooltip>
 - [Pururin](https://pururin.to/)
 - [Tsumino](https://www.tsumino.com/)
+- [Wholesome Hentai God List](https://wholesomelist.com/)
 
 ## Manhwa
 
@@ -169,17 +171,14 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 # Others
 
 ## Websites
+- [Anime-sharing](http://www.anime-sharing.com/forum/)
 - [ASMR Online](https://asmr.one/)
 - [Hentai ASMR](https://www.hentaiasmr.moe/)
 - [FC2 VTuber Archive](https://stash.sussy.moe/fc2)
-- [F95Zone](https://f95zone.to/) <Badge type="info" text="Needs account" />
 - [Hemdomblog](https://www.hemdomblog.com/)
 - [HentTag](https://hentag.com/)
-- [HMV Mania](https://hmvmania.com/) <Badge type="tip" text="/h/ thread" link="https://anychans.github.io/4chan/h/7621997" /><Badge type="tip" text="Archive" link="https://archived.moe/h/thread/7621997/" />
 - [Kasumi](http://xdcc.kasumi.moe/) <Badge type="tip" text="Guide" link="http://kasumi.moe/guide/" />
 - [Kemono](https://kemono.su/)
-- [Anime-sharing](http://www.anime-sharing.com/forum/)
-- [Wholesome Hentai God List](https://wholesomelist.com/)
 
 ## AV
 
