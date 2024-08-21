@@ -166,6 +166,7 @@ outline: [2,3]
     - [VNDB Names for Yomitan](https://github.com/kaanium/VNDB-Names-for-Yomitan)
 - [Rikitan](https://github.com/Ajatt-Tools/rikaitan) :mdi-firefox::mingcute-chrome-fill: <Badge type="tip" text="Guide" link="https://tatsumoto.neocities.org/blog/setting-up-yomichan" /><Badge type="tip" text="Dictionaries" link="https://tatsumoto.neocities.org/blog/yomichan-and-epwing-dictionaries" /> `Pop-up dictionary`
 - [10ten Japanese Reader](https://github.com/birchill/10ten-ja-reader) :mdi-firefox::mingcute-chrome-fill::mingcute-safari-fill: `Pop-up dictionary`
+- [ASB Auto Subs](https://github.com/GodPepe7/asb-auto-subs) :mdi-firefox::mingcute-chrome-fill: `Jimaku subs in anime sites`
 - [Japanese.io](https://www.japanese.io/) :mingcute-chrome-fill: `Pop-up dictionary`
 - [jimaku player](https://github.com/sheodox/jimaku-player) :mdi-language-javascript: `Custom subs for CR`
 - [Language Reactor](https://www.languagereactor.com/) :mingcute-chrome-fill: `Pop-up dictionary & immersion helper` <Badge type="warning" text="Freemium" />
