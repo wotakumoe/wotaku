@@ -368,16 +368,16 @@ outline: 1
 - [My shiny Toy Robots](https://www.myshinytoyrobots.com/)
 - [Ultraman Connection](https://www.ultramanconnection.com/)
 
-## Communities
+## Subreddits
 
-- [r/Tokusatsu](https://old.reddit.com/r/Tokusatsu/)
-- [r/GARO](https://old.reddit.com/r/GARO/)
-- [r/Godzilla](https://old.reddit.com/r/Godzilla/)
-- [r/Kaiju](https://old.reddit.com/r/Kaiju/)
-- [r/KamenRider](https://old.reddit.com/r/KamenRider/)
-- [r/PowerRangers](https://old.reddit.com/r/PowerRangers/)
-- [r/SuperSentai](https://old.reddit.com/r/SuperSentai/)
-- [r/Ultraman](https://old.reddit.com/r/Ultraman/)
+- [Tokusatsu](https://old.reddit.com/r/Tokusatsu/)
+- [GARO](https://old.reddit.com/r/GARO/)
+- [Godzilla](https://old.reddit.com/r/Godzilla/)
+- [Kaiju](https://old.reddit.com/r/Kaiju/)
+- [Kamen Rider](https://old.reddit.com/r/KamenRider/)
+- [Power Rangers](https://old.reddit.com/r/PowerRangers/)
+- [Super Sentai](https://old.reddit.com/r/SuperSentai/)
+- [Ultraman](https://old.reddit.com/r/Ultraman/)
 
 ![](/banner/comics.png)
 # Comics

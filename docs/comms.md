@@ -81,6 +81,7 @@ A list of other otaku communities to check out based on your specific interests.
 - [Manga](https://old.reddit.com/r/manga/)
 - [Manhua](https://old.reddit.com/r/Manhua/)
 - [Manhwa](https://old.reddit.com/r/manhwa/)
+- [Tokusatsu](https://old.reddit.com/r/Tokusatsu/)
 - [Visual Novels](https://old.reddit.com/r/visualnovels/)
 - [Vocaloid](https://old.reddit.com/r/vocaloid/)
 - [VocaTorrent](https://old.reddit.com/r/VocaTorrent/)
