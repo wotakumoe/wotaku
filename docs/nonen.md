@@ -439,7 +439,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Dark Libria](https://darklibria.it/) <Badge type="info" text="Stream" /><Badge type="info" text="DDL" />
 - [Dream Cast](https://dreamerscast.com/)
 - [Freedub Studio](https://freedubstudio.club/)
-- [Jut.su](https://jut.su/)
+- [Jut.su](https://jut.su/) <Badge type="info" text="Helper" link="https://github.com/Xeltone/Jut.su-Helper" />
 - [Kage Project](http://fansubs.ru/) <tooltip>Subtitle files only, you need to get the episodes from another source.</tooltip>
 - [Shiza Project](https://shiza-project.com/)
 - [SovetRomantica](https://sovetromantica.com/) <Badge type="info" text="Sub" />
