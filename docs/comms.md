@@ -13,19 +13,18 @@ A list of other otaku communities to check out based on your specific interests.
 
 ## Forums
 
-- [Animesuki](https://forums.animesuki.com/)
 - [Anime Music Videos](https://www.animemusicvideos.org/forum/)
+- [Animesuki](https://forums.animesuki.com/)
 - [EvaGeeks](https://forum.evageeks.org/index.php)
 - [Fuwanovel](https://forums.fuwanovel.net/)
 - [Mangadex](https://forums.mangadex.org/)
 - [Manga Helper](https://mangahelpers.com/)
 - [SquidBoard](https://www.squid-board.org/)
+- [VocaVerse Network](https://vocaverse.network/)
 
 ## Discord servers
 
-
-### A-E
-
+### A-G
 - [ACE SCANS](https://discord.com/invite/e5kFjW8u3Q)
 - [r/Anime](https://discord.gg/r-anime)
 - [Animated Glitched Scans](https://discord.gg/YjuSSE273C)
@@ -38,29 +37,30 @@ A list of other otaku communities to check out based on your specific interests.
 - [Danke fürs Lesen](https://discord.com/invite/nxkDPvDhgv)
 - [DigimonBasic](https://discord.com/invite/B3RXtnXRSG)
 - [Doujin Cafe](https://discord.gg/doujincafe)
+- [DoujinStyle](https://discord.gg/z2QDFdA)
+
+### H-N
 - [HiAnime](https://discord.gg/hianime)
 - [Hikari](https://discord.gg/4bvsQS5555)
-
-### F-J
 - [Japanese Language Study Space](https://discord.gg/jlss)
-
-### K-O
-- [r/Manga](https://discord.com/invite/manga)
-- [Mangadex](https://discord.com/invite/mangadex)
-- [Manga Katana](https://discord.com/invite/bXfTCCtdXQ)
-- [MangaPark](https://discord.gg/HXKXBTSGKS)
-- [Manga Piracy](https://discord.com/invite/ZgMtAyxFSU)
 - [KickAssAnime](https://discord.com/invite/qduzrvTG6p)
 - [Kirei](https://discord.com/invite/55y8apc)
 - [Knox](https://discord.com/invite/HcDZFB9Gub)
 - [Laughing in Quarantine](https://discord.com/invite/x6AuGp7)
 - [LHTranslation](https://discord.com/invite/wxVRX4j)
+- [r/Manga](https://discord.com/invite/manga)
+- [Mangadex](https://discord.com/invite/mangadex)
+- [Manga Katana](https://discord.com/invite/bXfTCCtdXQ)
+- [MangaPark](https://discord.gg/HXKXBTSGKS)
+- [Manga Piracy](https://discord.com/invite/ZgMtAyxFSU)
+- [MikuDB](https://discord.com/invite/whcHreUh)
 
-### P-T
+### O-T
+- [OTAQUEST](https://discord.com/invite/SCHR2QB)
 - [Scanner Usage School](https://discord.com/invite/NCzxVB9)
-- [Sonic Zone](https://discord.com/invite/bj5vmb96YT)
-- [Sitting on Clouds](https://discord.gg/x23SFbE)
 - [Sho Habby Scans](https://discord.gg/GdV76sQs7d)
+- [Sitting on Clouds](https://discord.gg/x23SFbE)
+- [Sonic Zone](https://discord.com/invite/bj5vmb96YT)
 - [SquidBoard](https://discord.gg/ATjPbzR)
 - [Tachiyomi](https://discord.com/invite/tachiyomi)
 - [TCB Scans](https://discord.com/invite/tcbscans)
@@ -69,20 +69,22 @@ A list of other otaku communities to check out based on your specific interests.
 - [Tritinia](https://discord.com/invite/NKXKeDNFB7)
 - [TypesettingTools](https://discord.com/invite/AZaVyPr)
 
-
 ## Subreddits
 
-- [Anime](https://old.reddit.com/r/anime)
-- [Manga](https://old.reddit.com/r/manga)
-- [Manhwa](https://old.reddit.com/r/manhwa)
-- [Light Novels](https://old.reddit.com/r/LightNovels/)
-- [Visual Novels](https://old.reddit.com/r/visualnovels/)
-- [Manga Piracy](https://old.reddit.com/r/mangapiracy/)
-- [Japan Pics](https://old.reddit.com/r/japanpics/)
+- [Anime](https://old.reddit.com/r/anime/)
 - [Japan Life](https://old.reddit.com/r/japanlife/)
+- [Japan Pics](https://old.reddit.com/r/japanpics/)
 - [Japan Travel](https://old.reddit.com/r/JapanTravel/)
-- [Learn Japanese](https://old.reddit.com/r/LearnJapanese)
+- [Learn Japanese](https://old.reddit.com/r/LearnJapanese/)
+- [Light Novels](https://old.reddit.com/r/LightNovels/)
+- [Manga Piracy](https://old.reddit.com/r/mangapiracy/)
+- [Manga](https://old.reddit.com/r/manga/)
+- [Manhua](https://old.reddit.com/r/Manhua/)
+- [Manhwa](https://old.reddit.com/r/manhwa/)
+- [Tokusatsu](https://old.reddit.com/r/Tokusatsu/)
+- [Visual Novels](https://old.reddit.com/r/visualnovels/)
 - [Vocaloid](https://old.reddit.com/r/vocaloid/)
+- [VocaTorrent](https://old.reddit.com/r/VocaTorrent/)
 
 ## Boards
 
