@@ -45,6 +45,13 @@ outline: [1,2]
 | Speaker | Speakers shoot sound out towards the user. They consist of a subwoofer, woofer and tweeter. The subwoofer is usually disconnected from the woofer and tweeter pairing. [**More details :mdi-arrow-top-right:**](#speaker) |
 
 
+### Tools
+
+| Terms | Details |
+|-|-|
+| DAW | Digital Audio Workstation (DAW) is software used for recording, editing, mixing, and producing audio files. DAWs offer a comprehensive environment for creating music, podcasts, sound design, and other audio projects, combining tools for sequencing, synthesis, and audio processing. Users can manipulate audio tracks, apply effects, and integrate virtual instruments all within a single platform. Examples of popular DAWs include FL Studio, Ableton Live, Cubase, Pro Tools, Reaper, and Logic Pro. Each DAW offers unique features and workflows, catering to different styles of music production and audio engineering needs. |
+| Voice synthesizer | Voice synthesizers (e.g., Vocaloid, Synthesizer V, UTAU) work by taking user input in the form of musical notes and lyrics, then processing this input to generate a synthesized singing voice. They're created using voice banks, which consist of recordings of real people's voices. Each voice bank is typically designed for a specific language and while it is possible to create songs in other languages using them, it requires more fine-tuning to achieve good results. |
+
 ![](/banner/af.png)
 
 
