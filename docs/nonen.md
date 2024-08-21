@@ -434,6 +434,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [ANIFOX](https://anifox.club/anime) [:mdi-github:](https://github.com/ANIFOX-CLUB/ANIFOX)<Badge type="info" icon="/icon/russia.png" text="RU" />
 - [Anime Stars](https://animestars.org/) <Badge type="info" text="Sub" />
 - [AnimeGO](https://animego.org/) <Badge type="info" text="Sub" />
+- [Anixart](https://anixart-tv.org/) <Badge type="info" text="Sub" />
 - [Averlist](https://averlist.ru/) [:mdi-github:](https://github.com/Averito/Averlist)
 - [Dream Cast](https://dreamerscast.com/)
 - [Freedub Studio](https://freedubstudio.club/)
@@ -466,7 +467,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 | Category | Resources |
 |-|-|
-| Anime |  [ShiraBox](https://shirabox.org/) <br> [AnilabX](https://github.com/CrazyXacker/anilabx) <Badge text="Manga" /><Badge type="warning" text="Freemium" /> <br> [ShikiWatch](https://github.com/wheremyfiji/ShikiWatch) |
+| Anime |  [ShiraBox](https://shirabox.org/) <br> [AnilabX](https://github.com/CrazyXacker/anilabx) <Badge text="Manga" /><Badge type="warning" text="Freemium" /> <br> [ShikiWatch](https://github.com/wheremyfiji/ShikiWatch) <br> [Anixart](https://play.google.com/store/apps/details?id=com.swiftsoft.anixartlt) |
 
 #### PC
 
