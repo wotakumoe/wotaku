@@ -23,7 +23,7 @@ outline: 1
 - [AKROSS](https://www.akross.ru/index.cgi?l=e)
 - [AMV Hell](https://www.amvhell.com/)
 - [AMV News](https://amvnews.ru/)
-- [Anime Music Videos .Org](https://www.animemusicvideos.org/home/home.php) <Badge type="info" text="Needs account" />
+- [Anime Music Videos](https://www.animemusicvideos.org/home/home.php) <Badge type="info" text="Needs account" />
 
 ## Doujin
 - [Touhou Player](https://touhou.kuukunen.net/)

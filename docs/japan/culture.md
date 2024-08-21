@@ -59,12 +59,17 @@ outline: [2,3]
 ## Festivals & Travel
 
 ### English
-- [japan-guide.com](https://www.japan-guide.com/)
-- [LIVE JAPAN](https://livejapan.com/)
 - [Boutique Japan](https://boutiquejapan.com/)
+- [Good Luck Trip](https://www.gltjp.com/en/)
+- [japan-guide.com](https://www.japan-guide.com/)
 - [Japan Specialist](https://japanspecialist.com/)
+- [JNTO](https://www.japan.travel/en/us/)
 - [JRailPass](https://www.jrailpass.com/blog/)
-- [Mini Tokyo 3D](https://minitokyo3d.com/) :glowing-star: [:mdi-github:](https://github.com/nagix/mini-tokyo-3d) 
+- [Kanpai!](https://www.kanpai-japan.com/)
+- [LIVE JAPAN](https://livejapan.com/)
+- [MATCHA](https://matcha-jp.com/en)
+- [Mini Tokyo 3D](https://minitokyo3d.com/) :glowing-star: [:mdi-github:](https://github.com/nagix/mini-tokyo-3d)
+- [Tokyo Cheapo](https://tokyocheapo.com/)
 
 ### Japanese
 - [Omatsuri Japan](https://omatsurijapan.com/)
