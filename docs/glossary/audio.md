@@ -120,7 +120,7 @@ The amount of samples taken from the analog audio signal per cycle is known as t
 
 A higher sample rate means more data points are taken per second. This doesn't necessarily result in a higher quality signal. A higher sample allows for audio signals of higher frequencies, but for the communal frequency range, there are no advantages.
 
-For listeners, 44.1KHz is sufficient to represent all humanly audible frequencies. 44.1KHz is the standard sampling rate for CDs, and 48KHz is the standard for DVDs and streaming services (originally brought forth to aid in timing with TV broadcasts). There is no functional difference between the two, beyond resampling issues that may arise between the mediums.
+For listeners, 44.1kHz is sufficient to represent all humanly audible frequencies. 44.1kHz is the standard sampling rate for CDs, and 48kHz is the standard for DVDs and streaming services (originally brought forth to aid in timing with TV broadcasts). There is no functional difference between the two, beyond resampling issues that may arise between the mediums.
 
 Higher sampling rates are often desirable by producers as it allows them modify the audio more flexibly without adding additional noise, but this is not relevant for playback. Higher sampling rates available on DACs are generally used for processing headroom (for e.g. low-pass filters), that may result in an audible difference.
 
