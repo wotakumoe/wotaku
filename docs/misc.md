@@ -23,7 +23,6 @@ outline: 1
 
 ### Anime
 - [aniDB](https://anidb.net/) :glowing-star:
-- [Anime Music Videos .Org](https://www.animemusicvideos.org/home/home.php)
 - [Annict](https://annict.com/)
 - [Aniplaylist](https://aniplaylist.com/)
 - [SIMKL](https://simkl.com/)

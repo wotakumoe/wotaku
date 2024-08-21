@@ -12,12 +12,18 @@ outline: 1
 # Stream
 
 ## Anime
-- [Anithemes.moe](https://animethemes.moe/) :glowing-star: <Badge type="info" text="Alt" link="https://themes.moe/" />[:mdi-github:](https://github.com/AnimeThemes)
-- [Karaoke Mugen](https://kara.moe)
+- [AnimeThemes](https://animethemes.moe/) :glowing-star: <Badge type="info" text="Alt" link="https://themes.moe/" />[:mdi-github:](https://github.com/AnimeThemes)
+- [Animusic](https://animusic.moe/)
 - [Anisong Database](https://anisongdb.com/) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" />[:mdi-github:](https://github.com/xSardine/AMQ-Artists-DB)
-- [Squidify](https://www.squidify.org/) <Badge type="tip" text="Guide" link="/guides/squidify" />
-- [Animusic](https://animusic.moe/) 
+- [Karaoke Mugen](https://kara.moe)
 - [One Piece Tracklist](http://onepiecetracklist.com/)
+- [Squidify](https://www.squidify.org/) <Badge type="tip" text="Guide" link="/guides/music/squidify" />
+
+## AMVs
+- [AKROSS](https://www.akross.ru/index.cgi?l=e)
+- [AMV Hell](https://www.amvhell.com/)
+- [AMV News](https://amvnews.ru/)
+- [Anime Music Videos .Org](https://www.animemusicvideos.org/home/home.php) <Badge type="info" text="Needs account" />
 
 ## Doujin
 - [Touhou Player](https://touhou.kuukunen.net/)
@@ -26,7 +32,7 @@ outline: 1
 
 
 ## Games
-- [Squidify](https://www.squidify.org) :glowing-star:
+- [Squidify](https://www.squidify.org/) :glowing-star: <Badge type="tip" text="Guide" link="/guides/music/squidify" />
 - [Zophar's Domain](https://www.zophar.net/music) <Badge type="info" text="DDL" />
 - [Vidya Intarweb Playlist](https://www.vipvgm.net/)
 - [Keygen Music](https://keygenmusic.tk/)
