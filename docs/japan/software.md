@@ -146,6 +146,7 @@ outline: [2,3]
 - [Asbplayer](https://killergerbah.github.io/asbplayer/) :mdi-earth::mingcute-chrome-fill: [:mdi-github:](https://github.com/killergerbah/asbplayer)
 - [memento](https://github.com/ripose-jp/Memento) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [mpvacious](https://github.com/Ajatt-Tools/mpvacious) :ic-baseline-window::mingcute-linux-fill:
+- [mpv jimaku](https://github.com/ZXY101/mpv-jimaku)
 - [mpv sub scripts](https://github.com/peldas/mpv-sub-scripts)
 - [mpv subversive](https://github.com/nairyosangha/mpv-subversive)
 - [Voracious](https://voracious.app/) :ic-baseline-window::mingcute-linux-fill: [:mdi-github:](https://github.com/rsimmons/voracious)
