@@ -88,13 +88,13 @@ outline: 1
 
 ::: details Symbols
 
-- Uploaded on own server :mdi-arrow-right-thin: :mdi-download:
-- Uploaded on Google Drive :mdi-arrow-right-thin: :mdi-google-drive:
-- Uploaded on Host sites :mdi-arrow-right-thin: :mdi-snail:
-- Batch Download :mdi-arrow-right-thin: :material-symbols-package-2:
-- Torrent Download :mdi-arrow-right-thin: :mdi-magnet:
-- Account Needed :mdi-arrow-right-thin: :mdi-account:
-- Blu-ray :mdi-arrow-right-thin: :mdi-disc:
+- Uploaded on own server -> :mdi-download:
+- Uploaded on Google Drive -> :mdi-google-drive:
+- Uploaded on Host sites -> :mdi-snail:
+- Batch Download -> :material-symbols-package-2:
+- Torrent Download -> :mdi-magnet:
+- Account Needed -> :mdi-account:
+- Blu-ray -> :mdi-disc:
 
 :::
 
@@ -185,7 +185,7 @@ outline: 1
 
 **Note:**
 - The default ripping type is volume.
-- :four-leaf-clover: :mdi-arrow-right-thin: the ripper uploads to 4chan first.
+- :four-leaf-clover: -> the ripper uploads to 4chan first.
 
 :::
 

@@ -317,9 +317,9 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 ::: details Symbols
 
-- Uploads novels :mdi-arrow-right-thin: :material-symbols-book-5:
-- Uploads magazines :mdi-arrow-right-thin: :ic-outline-menu-book:
-- Uploaded on Host sites :mdi-arrow-right-thin: :mdi-snail:
+- Uploads novels -> :material-symbols-book-5:
+- Uploads magazines -> :ic-outline-menu-book:
+- Uploaded on Host sites -> :mdi-snail:
 
 :::
 

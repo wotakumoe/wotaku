@@ -35,18 +35,18 @@ Due to DMCA takedown notices, [Tachiyomi](https://tachiyomi.org/) (now continued
 
 #### Adding Repo
 - **Auto:** Click on **Install** and the repo will be sideloaded automatically.
-- **Manual:** Copy the **URL** (from the manual column) and put it in **:mdi-dots-horizontal:More :mdi-arrow-right-thin: :mdi-cog-outline:Settings :mdi-arrow-right-thin: :mdi-compass-outline:Browse :mdi-arrow-right-thin: Extension repos**.
+- **Manual:** Copy the **URL** (from the manual column) and put it in **:mdi-dots-horizontal:More -> :mdi-cog-outline:Settings -> :mdi-compass-outline:Browse -> Extension repos**.
 
 #### Adding Extension
-1. After [**adding the repo**](#adding-repo), go to **Home :mdi-arrow-right-thin: :mdi-compass:Browse :mdi-arrow-right-thin: Anime/Manga Extension**.
+1. After [**adding the repo**](#adding-repo), go to **Home -> :mdi-compass:Browse -> Anime/Manga Extension**.
 2. Download & install your desired extension by clicking :mdi-download-outline:.
 3. Find it in the "**Installed**" section (at the top of the list) with :mdi-close-octagon: beside it.
 4. The extension is disabled by default, so click on the :mdi-shield-check-outline: icon to enable it.
 
 ::: tip For Dantotsu & its forks
-Copy the **URL** (from the manual column) and put it in: **Profile avatar (top right) :mdi-arrow-right-thin: :mdi-cog:Settings :mdi-arrow-right-thin: :mdi-puzzle:Extensions :mdi-arrow-right-thin: Add Anime/Manga Repo**.
+Copy the **URL** (from the manual column) and put it in: **Profile avatar (top right) -> :mdi-cog:Settings -> :mdi-puzzle:Extensions -> Add Anime/Manga Repo**.
 
-To activate torrent features, navigate to **Profile avatar (top right) :mdi-arrow-right-thin: :mdi-cog:Settings :mdi-arrow-right-thin: :mdi-silverware-fork-knife:Add-ons**. Then download and install the **:mdi-magnet:Torrent Add-on**. Afterwards, switch on **:mdi-server:Enable Torrent**.
+To activate torrent features, navigate to **Profile avatar (top right) -> :mdi-cog:Settings -> :mdi-silverware-fork-knife:Add-ons**. Then download and install the **:mdi-magnet:Torrent Add-on**. Afterwards, switch on **:mdi-server:Enable Torrent**.
 :::
 
 

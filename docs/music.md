@@ -70,14 +70,14 @@ outline: 1
 
 ::: details Symbols
 
-- Uploaded on own server :mdi-arrow-right-thin: :mdi-download:
-- Uploaded on Google Drive :mdi-arrow-right-thin: :mdi-google-drive:
-- Uploaded on Mega :mdi-arrow-right-thin: :simple-icons-mega:
-- Uploaded on Mediafire :mdi-arrow-right-thin: :simple-icons-mediafire:
-- Upload on different cloud storage site :mdi-arrow-right-thin: :ic-round-cloud-download:
-- Uploaded on Host sites :mdi-arrow-right-thin: :mdi-snail:
-- Torrent/p2p Download :mdi-arrow-right-thin: :mdi-magnet:
-- Account Needed :mdi-arrow-right-thin: :mdi-account:
+- Uploaded on own server -> :mdi-download:
+- Uploaded on Google Drive -> :mdi-google-drive:
+- Uploaded on Mega -> :simple-icons-mega:
+- Uploaded on Mediafire -> :simple-icons-mediafire:
+- Upload on different cloud storage site -> :ic-round-cloud-download:
+- Uploaded on Host sites -> :mdi-snail:
+- Torrent/p2p Download -> :mdi-magnet:
+- Account Needed -> :mdi-account:
 
 :::
 

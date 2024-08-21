@@ -161,9 +161,9 @@ To remove aliasing, a low pass filter (aka anti-aliasing filter) is added into b
 
 
 Bit depth indicates how many levels are used during quantization. Bit depth, also known as the number of levels, is defined by a power of **2<sup>levels of bit depth</sup>**.
-- 8bit :mdi-arrow-right-thin: 256 levels
-- 16bit :mdi-arrow-right-thin: 65,536 levels
-- 24bit :mdi-arrow-right-thin: 16,777,216 levels
+- 8bit -> 256 levels
+- 16bit -> 65,536 levels
+- 24bit -> 16,777,216 levels
 
 
 The increase in levels is exponential. The higher the level number, the closer the amplitude matching between analog and digital signals and the lower the amplitude of the resulting quantization noise. 
@@ -182,9 +182,9 @@ ___
 ___
 
 This formula provides the following dynamic ranges: (without any dithering applied),
-- 8bit :mdi-arrow-right-thin: 49.93dB
-- 16bit :mdi-arrow-right-thin: 98.089dB
-- 24bit :mdi-arrow-right-thin: 146.25dB
+- 8bit -> 49.93dB
+- 16bit -> 98.089dB
+- 24bit -> 146.25dB
 
 
 16-bit audio produces a maximum possible undithered dynamic range of ~96 dB, and with noise-shaped dithering applied, the dynamic range can increase upwards of 120dB. A average quiet home room won't have a significantly lower noise floor than 30 - 40dB. The minimum threshold at which a listener should experience a noise floor louder than that of ambient noise is well beyond the point where one would cause damage to their hearing. Bit depths greater than 16 are far more relevant for audio processing, rather than playback.
