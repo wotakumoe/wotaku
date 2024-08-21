@@ -425,40 +425,42 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 ### Anime
 
-- [Akari Anime](https://akari-anime.com/)
-- [Anidub](https://anidub.live/)
-- [Anifilm](https://anifilm.net/)
-- [Anilibria](https://anilibria.life/) <Badge type="info" text="Sub" />
+- [AniDUB](https://anidub.pro/)
+- [AniFilm](https://anifilm.net/)
+- [AniFox](https://anifox.club/anime)
+- [Anilibria](https://anilibria.top/) <Badge type="info" text="Sub" />
 - [AnimeBuff](https://animebuff.ru/) <Badge type="info" text="Sub" />
-- [AnimeLib](https://animelib.me)
-- [ANIFOX](https://anifox.club/anime) [:mdi-github:](https://github.com/ANIFOX-CLUB/ANIFOX)<Badge type="info" icon="/icon/russia.png" text="RU" />
-- [Anime Stars](https://animestars.org/) <Badge type="info" text="Sub" />
 - [AnimeGO](https://animego.org/) <Badge type="info" text="Sub" />
-- [Anixart](https://anixart-tv.org/) <Badge type="info" text="Sub" />
+- [Animelayer](http://animelayer.ru/) <Badge type="info" text="Torrent" />
+- [AnimeLIB](https://animelib.me)
+- [AnimeStars](https://animestars.org/) <Badge type="info" text="Sub" />
+- [ANIXART](https://anixart-tv.org/) <Badge type="info" text="Sub" />
 - [Averlist](https://averlist.ru/) [:mdi-github:](https://github.com/Averito/Averlist)
+- [Dark Libria](https://darklibria.it/) <Badge type="info" text="Stream" /><Badge type="info" text="DDL" />
 - [Dream Cast](https://dreamerscast.com/)
 - [Freedub Studio](https://freedubstudio.club/)
-- [JUT.SU](https://jut.su/)
-- [YUMMY ANIME](https://yummyanime.org/)
+- [Jut.su](https://jut.su/)
+- [Kage Project](http://fansubs.ru/) <tooltip>Subtitle files only, you need to get the episodes from another source.</tooltip>
+- [Shiza Project](https://shiza-project.com/)
 - [SovetRomantica](https://sovetromantica.com/) <Badge type="info" text="Sub" />
 - [Tunime](https://an0ncer.github.io/) [:mdi-github:](https://github.com/AN0NCER/an0ncer.github.io)<Badge type="info" text="Sub" />
-- [Anime Layer](http://animelayer.ru/) <Badge type="info" text="Torrent" />
-- [Dark Libria](https://darklibria.it/) <Badge type="info" text="Stream" /><Badge type="info" text="DDL" />
+- [Yummy Anime](https://yummyanime.org/)
 
 ### Manga
-- [Com-X](https://com-x.life/comx)
-- [Desu](https://desu.me/)
-- [Manga Poisk](https://mangapoisk.com/)
+- [Com-X](https://com-x.life/)
+- [Desu.Me](https://desu.me/)
 - [Manga-chan](https://manga-chan.me/)
 - [MangaClub](https://mangaclub.ru/)
 - [MangaHub](https://mangahub.ru/)
 - [MangaLib](https://mangalib.me/)
+- [MangaPoisk](https://mangapoisk.live/)
 - [ReadManga](https://readmanga.live/)
 - [ReManga](https://remanga.org/)
 
 ### More Sites
-- [RanobeLib](https://ranobelib.me/)
-- [HentaiLib](https://hentailib.me/) <Badge type="danger" text="18+" />
+- [HentaiLIB](https://hentailib.me/) <Badge type="danger" text="18+" />
+- [RanobeLIB](https://ranobelib.me/)
+- [VseDoramy](https://vsedoramy.top/)
 
 
 ### Software
