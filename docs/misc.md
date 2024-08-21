@@ -16,7 +16,7 @@ outline: 1
 - [AniList](https://anilist.co/)
 - [MyAnimeList](https://myanimelist.net/)
 - [Anime Planet](https://www.anime-planet.com/)
-- [AniSearch](https://www.anisearch.com/)
+- [aniSearch](https://www.anisearch.com/)
 - [Kitsu](https://kitsu.io/)
 - [Sakuhin Database](https://sakuhindb.com/) :flag-japan:
 - [Kurozora](https://kurozora.app/)
@@ -212,6 +212,7 @@ outline: 1
 
 - **Info / News**
   - [Anime News Network](https://www.animenewsnetwork.com/) :glowing-star: <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/anime" />
+  - [Anime UK News](https://animeuknews.net/)
   - [Crunchyroll News](https://www.crunchyroll.com/news)
   - [GUNDAM.INFO](https://en.gundam.info/)
   - [Japan Anime News](https://us.oricon-group.com/) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/JapanAnimeNews_" />

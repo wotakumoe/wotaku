@@ -206,7 +206,9 @@ If you have recommendations for good sites in your native language or want to re
 
 - [Animes](https://www.animes.so/) <Badge type="info" text="Needs account" /><Badge type="info" text="DDL" />
 - [Animexx](https://www.animexx.de/)
+- [aniSearch](https://www.anisearch.de/forum/categories)
 - [Baka Board](https://baka-bewerbung.me/) <Badge type="info" text="Usenet" />
+- [littleAkiba](https://www.littleakiba.ch/)
 - [myGully](https://mygully.com/) <Badge type="info" text="Needs account" /><Badge type="info" text="DDL" />
 - [Proxer](https://proxer.me/)
 
@@ -290,6 +292,7 @@ If you have recommendations for good sites in your native language or want to re
 
 ### Anime
 - [Anime Saturn](https://www.animesaturn.tv/)
+- [AnimeUnity](https://www.animeunity.to/)
 - [AnimeWorld](https://www.animeworld.so/)
 - [HentaiWorld](https://www.hentaiworld.me/) <Badge type="danger" text="18+" />
 - [One Piece Power](https://onepiecepower.com/anime18/lista-anime)

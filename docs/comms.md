@@ -14,6 +14,7 @@ A list of other otaku communities to check out based on your specific interests.
 ## Forums
 
 - [Anime Music Videos](https://www.animemusicvideos.org/forum/)
+- [Anime UK News](https://forums.animeuknews.net/)
 - [Animesuki](https://forums.animesuki.com/)
 - [EvaGeeks](https://forum.evageeks.org/index.php)
 - [Fuwanovel](https://forums.fuwanovel.net/)
@@ -28,6 +29,7 @@ A list of other otaku communities to check out based on your specific interests.
 - [ACE SCANS](https://discord.com/invite/e5kFjW8u3Q)
 - [r/Anime](https://discord.gg/r-anime)
 - [Animated Glitched Scans](https://discord.gg/YjuSSE273C)
+- [Anime UK News](https://discord.gg/014sRKGzuUPGPpYRa)
 - [AniWave](https://discord.com/invite/KRQQKzQ6CS)
 - [Aniyomi](https://discord.gg/F32UjdJZrR)
 - [Batoto](https://discord.gg/batoto)
