@@ -160,7 +160,7 @@ outline: [2,3]
 
 ### Browser
 
-- [Yomitan](https://github.com/themoeway/yomitan) :mdi-firefox::mingcute-chrome-fill: <Badge type="tip" text="Guide" link="https://learnjapanese.moe/yomichan/" /> `Pop-up dictionary`
+- [Yomitan](https://yomitan.wiki/) :mdi-firefox::mingcute-chrome-fill: [:mdi-github:](https://github.com/themoeway/yomitan) <Badge type="tip" text="Guide" link="https://learnjapanese.moe/yomichan/" /> `Pop-up dictionary`
     - [Yomitan Dictionaries](https://github.com/MarvNC/yomichan-dictionaries/)
     - [Yomitan Grammar Dictionaries](https://github.com/aiko-tanaka/Grammar-Dictionaries)
     - [Local Audio Server for Yomichan](https://github.com/themoeway/local-audio-yomichan)
