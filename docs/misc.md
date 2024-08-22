@@ -288,6 +288,7 @@ outline: 1
 
 ### Others
 - [MAL/AL/K/AP lists XML Exporter](https://malscraper.azurewebsites.net/)
+- [OpenTierBoy](https://www.opentierboy.com/)
 - [Trakt to MAL](https://anitrakt.huere.net/) [:mdi-github:](https://github.com/ryuuganime/aniTrakt-IndexParser)
 
 
