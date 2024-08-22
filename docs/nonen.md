@@ -497,27 +497,29 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
   - [MonosChinos](https://monoschinos2.com/)
   - [AnimeFenix](https://animefenix.tv/)
   - [AnimeFLV](https://www3.animeflv.net/)
-  - [Latanime](https://latanime.org/)
-  - [AnimeOnlineNinja](https://ww3.animeonline.ninja/)
+  - [Latanime](https://latanime.org/) <Badge type="info" text="Dub" />
+  - [AnimeOnlineNinja](https://ww3.animeonline.ninja/) <Badge type="info" text="Dub" />
   - [JKAnime](https://jkanime.net/)
   - [TioAnime](https://tioanime.com/)
   - [OtakusTV](https://www1.otakustv.com/)
   - [Mundo Donghua](https://www.mundodonghua.com/)
   - [Tio Donghua](https://tiodonghua.com/)
 - **Download**
-  - [Sphin X Anime](https://sphinxanime.com/)
-  - [Japan Paw](https://japan-paw.net/)
+  - [Japan Paw](https://japan-paw.net/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/gc7HaE5V" />
+  - [SphinxAnime](https://sphinxanime.com/)
+  - [Nekomitai](https://nekomitai.net/)
   - [Ivanime](https://www.ivanime.com/)
   - [DW Anime](https://dw-anime.net/)
-  - [Frozen Layer](https://www.frozen-layer.com/) <Badge type="info" text="Torrent" />
   - [Union Fansub](https://foro.unionfansub.com/index.php) <Badge type="info" text="Torrent" />
+  - [Frozen Layer](https://www.frozen-layer.com/) <Badge type="info" text="Torrent" />
 
 ### Manga
-- [Lector Manga](https://lectormanga.com/)
+- [TuMangaOnline](https://visortmo.com/) <Badge type="info" text="2" link="https://lectormanga.com/" />
+- [Plot Twist No Fansub](https://plotnf.com/)
+- [AnzMangas](https://www.anzmangashd.com/)
 - [Leer Manga](https://r2.leermanga.xyz/)
 - [Manga Crab](https://mangacrab.com/)
 - [Notasanime](https://ver.notasanime.me/)
-- [TuMangaOnline](https://visortmo.com/)
 
 ### Software
 
