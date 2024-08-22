@@ -317,12 +317,14 @@ outline: 1
 - [**Youtube Music**](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
   - [Revanced Music](https://github.com/j-hc/revanced-magisk-module/releases)
   - [Innertune](https://github.com/z-huang/InnerTune) :glowing-star: :mdi-android:
+  - [RiMusic](https://github.com/fast4x/RiMusic) :mdi-android:
 - [**Spotify**](https://www.spotify.com/us/download/)
   - [Spotify Mod by Blatan](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5tZS9zZWFyY2gucGhwP3N0PTAmc2s9dCZzZD1kJnNyPXBvc3RzJmF1dGhvcl9pZD02MzY0MDk.ZHVjaw) :glowing-star: <Badge type="info" text="Needs Account" /> :mdi-android:
   - [xManager](https://www.xmanagerapp.com/) :mdi-android:
   - [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) :ic-baseline-apple:
   - [Spotify++](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9hcHBkYi50by9hcHAvY3lkaWEvMTkwMDAwMDU0MA) :ic-baseline-apple:
 - [Apple Music](https://apps.apple.com/us/app/apple-music/id1108187390) :ic-baseline-apple:
+- [ReFreezer](https://github.com/DJDoubleD/refreezer) :mdi-android: `Deezer` 
 - [Echo](https://github.com/brahmkshatriya/echo) :mdi-android: `General`
 - [Soundbound](https://soundbound.app/) :mdi-android: `General`
 
