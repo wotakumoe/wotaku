@@ -412,6 +412,7 @@ outline: 1
 
 - **Free**
   - [Delivering Hope](https://david-wu-softdev.itch.io/delivering-hope-hololive-fangame)
+  - [Elite Exorcist Miko](https://store.steampowered.com/app/3040560/Elite_Exorcist_Miko/)
   - [Holo on Suika](https://tkgames.jp/holo_watermelon.html)
   - [Holo X Break](https://store.steampowered.com/app/2719150/Holo_X_Break/)
   - [Holocure](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/) :glowing-star:
@@ -428,6 +429,7 @@ outline: 1
 - **Paid**
   - [Days With Ollie](https://store.steampowered.com/app/2776750/Days_With_Ollie/)
   - [hololive ERROR](https://store.steampowered.com/app/2062550/hololive_ERROR/)
+  - [hololive Treasure Mountain](https://store.steampowered.com/app/2972990/hololive_Treasure_Mountain/)
   - [HoloParade](https://store.steampowered.com/app/2647230/HoloParade/)
 
 
