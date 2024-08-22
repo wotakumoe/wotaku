@@ -208,6 +208,8 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
   - [Tachidesk-VaadinUI](https://github.com/Suwayomi/Suwayomi-VaadinUI)
   - [Suwayomi-VUI](https://github.com/Suwayomi/Suwayomi-VUI)
 - [Cubari](https://cubari.moe/) :mdi-earth:
+- [Mangadex](https://github.com/darylhjd/mangadesk) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Manga-tui](https://github.com/josueBarretogit/manga-tui) :ic-baseline-apple::mingcute-linux-fill:
 
 ### Local
 
