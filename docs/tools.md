@@ -317,6 +317,7 @@ outline: [1,2]
 - [FastForward](https://fastforward.team/)
 - [FastStream](https://faststream.online/)
 - [Indie Wiki Buddy](https://getindie.wiki/)
+- [OldTwitter](https://github.com/dimdenGD/OldTwitter)
 - [NopeCHA](https://nopecha.com/)
 - [Selection](https://github.com/emvaized/selecton-extension) :glowing-star:
 - [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web) :glowing-star:
