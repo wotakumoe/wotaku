@@ -158,11 +158,11 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 
 ### Databases / News
 - [Yu-Gi-Oh! Official Website](https://www.yugioh-card.com/en/)
-- [Official card database](https://www.db.yugioh-card.com/yugiohdb/)
+- [Official Card Database](https://www.db.yugioh-card.com/yugiohdb/)
 - [YGOrganization](https://ygorganization.com/)
 - [Master Duel Meta](https://www.masterduelmeta.com/)
 - [Duel Links Meta](https://www.duellinksmeta.com/)
-- [YGOPro Deck](https://ygoprodeck.com/) <Badge type="info" icon="i-iconoir-community" text="Forum" link="https://ygoprodeck.com/forum/" /> 
+- [YGOPro Deck](https://ygoprodeck.com/)
 
 ### Simulators
 

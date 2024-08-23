@@ -22,6 +22,7 @@ A list of other otaku communities to check out based on your specific interests.
 - [Manga Helper](https://mangahelpers.com/)
 - [SquidBoard](https://www.squid-board.org/)
 - [VocaVerse Network](https://vocaverse.network/)
+- [YGOPro Deck](https://ygoprodeck.com/forum/)
 
 ## Discord servers
 
