@@ -93,7 +93,7 @@ To learn more about encoding, visit [**Codec Wiki**](https://wiki.x266.mov/docs/
 ### Audio Format
 Used in the encoding process for encoding audio, divided into lossless and lossy formats.
 
-- **Lossless**: These retain the highest audio quality and have larger file sizes as a consequence. The most common ones are DTS, PCM, TrueHD, FLAC and WMA.
+- **Lossless**: These retain the highest audio quality and have larger file sizes as a consequence. The most common one is FLAC.
 - **Lossy**: These formats aim to provide good quality while keeping file sizes small. The most popular ones today are AAC, AC3, EAC3 (all commonly found in Web releases), with MP3 being found in older releases.
 
 ### Subtitles
