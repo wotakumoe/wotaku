@@ -358,13 +358,59 @@ In short, analyzing a file can help determine the authenticity of the quality. A
 
 ## Container
 
-Containers store all the data. The data is stored in different parts:
+Container is the extension name we see at the end of the file. This can be same as codec (e.g., **FLAC** & `.FLAC`) or different (e.g. **ALAC** & `.m4a`). Containers store all the data. The data is (typically) stored in different parts. These structures can change based on the container. This can be oversimplified like this: 
 - **Header:** This section contains info about file format, size and signature.
 - **Audio data:** This section is the main part. It contains the encoded audio file.
-- **Metadata:** Metadata can contain info about title, artist, album, genre etc. 
-- **Others:** There can be other parts too containing e.g. cue.
+- **Metadata:** Metadata can contain info about title, artist, album, genre etc. (e.g., [ID3](https://en.wikipedia.org/wiki/ID3), [Vorbis comment](https://en.wikipedia.org/wiki/Vorbis_comment))
+- **Others:** There can be other parts too containing e.g. cue files.
 
-Audio files can also be embedded in non-audio specific containers, such as MKV and MP4, which include audio alongside video bitstreams.
+::: details Example: Ogg Container Structure
+
+`.ogg` is one of the most widely used audio containers. It's very flexible. `.ogg` is structured as a series of pages which makes it easier to stream. Each page contains a segment of data, which could be part of the audio stream. Here we will describe a watered down version of `.ogg` container structure. You can read the [**full specification here :mdi-arrow-top-right:**](https://xiph.org/ogg/)
+
+![Ogg Page Structure](/glossary/audio/ogg.jpg)
+
+As mentioned before data in `.ogg` container are divided in multiple pages. These pages have identical structure and connect together to give a gapless data stream. The parts in a single page are:
+
+1. **Capture pattern / Sync code:**  This number used to ensure sync when parsing `.ogg` file. Also assists in resyncing a parser in cases where data has been lost or is corrupted.
+2. **Version:** The version of the Ogg bitstream format.
+3. **Header type:** It incdicates whether the packet is the begining or ending of the data stream or continuetion after the previous packet.
+4. **Granule position:** It is the time marker by the codec which shows the number of samples and/or other data.
+5. **Bitstream serial number:** This is a unique number that identifies a page as belonging to a particular bitstream.
+6. **Page sequence number:** This gives every page a chronological number which starts from 0.
+7. **Checksum:** A CRC32 checksum of the data in the entire page to check whether or not the page is altered or not.
+8. **Page segments:** It indicates the number of segments that exist in this page as well as how many bytes are in the segment table that follows this field. One single page can have max 255 segments.
+9. **Segment table:** To understand this, we need to define three key terms: **segment**, **packet**, and **segment table**.
+
+    - **Segment:** A segment is a small piece of data, up to 255 bytes in size, like a tiny chunk of information.
+    - **Packet:** A packet is the meaningful unit of data that the decoder processes. A packet can consist of one or more segments. If a packet's data is too large to fit into a single segment, it is spread across multiple segments.
+    - **Segment table:** The segment table is a list that specifies the sizes of the segments on a page. Each entry in this table is an 8-bit (1 byte) value that indicates the length of a segment.
+
+    Within the segment table:
+    - If a segment's length is **255**, the next segment is combined with it as part of the same packet.
+    - If a segment's length is between **0 and 254**, this indicates the end of the packet.
+    - If a packet's total length is a multiple of **255**, the final segment will have a length of 0.
+    - If the last packet continues onto the next page, the final segment’s length is **255**, and a continuation flag on the next page signals that the packet continues from the previous page.
+
+10. **Metadata:** In `.ogg`, [VorbisComment](https://wiki.xiph.org/VorbisComment) is the most common metadata container.
+
+:::
+
+Most container formats support multiple codecs, for example `.m4a` (audio-only MP4 files) may contain AAC-encoded audio or ALAC-encoded audio (**FLAC** and **Opus** are also supported codecs as of newer revisions of the standard). Some codecs, like mp3, do not have/use codified container formats, and therefore the file format doesn't support other codecs.
+
+
+Containers by themselves do not dictate whether the contained audio is lossy or not. That depends on the codec, for example the `.ogg` container format typically contains any of these codecs:
+- **OggPCM** (uncompressed lossless)
+- **FLAC** (compressed lossless)
+- **Vorbis** (lossy)
+- **Opus** (lossy)
+
+`.ogg` can contain other types of media too. Such as: picture, video and text files.
+
+Some containers are renamed versions of other containers. For example, `.opus` and `.oga` are audio-only versions of `.ogg`, just as `.m4a` and `.m4b` are audio-only versions of `.mp4`.
+
+
+Audio files can also be embedded in non-audio specific containers, such as `.mkv` and `.mp4`, which include audio alongside video bitstreams.
 
 ## Audio Source
 
