@@ -86,6 +86,7 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 - [Anisync](https://anisync.live/)
 - [BeatConnect](https://beatconnect.io/)
 - [/nise.moe/](https://nise.moe/)
+- [osu.direct](https://osu.direct/home)
 - [osu skinner](https://osuskinner.com/)
 - [osu!chan](https://osuchan.syrin.me/)
 - [osu!next Signature Generator](https://lemmmy.pw/osusig/)
