@@ -366,7 +366,7 @@ Container is the extension name we see at the end of the file. This can be same 
 
 ::: details Example: Ogg Container Structure
 
-`.ogg` is one of the most widely used audio containers. It's very flexible. `.ogg` is structured as a series of pages which makes it easier to stream. Each page contains a segment of data, which could be part of the audio stream. Here we will describe a watered down version of `.ogg` container structure. You can read the [**full specification here :mdi-arrow-top-right:**](https://xiph.org/ogg/)
+`.ogg` is one of the most widely used audio containers. It's very flexible. `.ogg` is structured as a series of pages which makes it easier to stream. Each page contains segments of audio data stream (or the other types of stored encoded media). Here we will describe a watered down version of `.ogg` container structure. You can read the [**full specification here :mdi-arrow-top-right:**](https://xiph.org/ogg/)
 
 ![Ogg Page Structure](/glossary/audio/ogg.jpg)
 
@@ -396,7 +396,7 @@ As mentioned before data in `.ogg` container are divided in multiple pages. Thes
 
 :::
 
-Most container formats support multiple codecs, for example `.m4a` (audio-only MP4 files) may contain AAC-encoded audio or ALAC-encoded audio (**FLAC** and **Opus** are also supported codecs as of newer revisions of the standard). Some codecs, like mp3, do not have/use codified container formats, and therefore the file format doesn't support other codecs.
+Most container formats support multiple codecs, for example `.m4a` (audio-only MP4 files) may contain **AAC**-encoded audio or **ALAC**-encoded audio (**FLAC** and **Opus** are also supported codecs as of newer revisions of the standard). Some codecs, like **MP3**, do not have/use codified container formats, and therefore the file format doesn't support other codecs.
 
 
 Containers by themselves do not dictate whether the contained audio is lossy or not. That depends on the codec, for example the `.ogg` container format typically contains any of these codecs:
@@ -408,7 +408,6 @@ Containers by themselves do not dictate whether the contained audio is lossy or 
 `.ogg` can contain other types of media too. Such as: picture, video and text files.
 
 Some containers are renamed versions of other containers. For example, `.opus` and `.oga` are audio-only versions of `.ogg`, just as `.m4a` and `.m4b` are audio-only versions of `.mp4`.
-
 
 Audio files can also be embedded in non-audio specific containers, such as `.mkv` and `.mp4`, which include audio alongside video bitstreams.
 
