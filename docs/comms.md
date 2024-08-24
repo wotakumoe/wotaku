@@ -41,6 +41,7 @@ A list of other otaku communities to check out based on your specific interests.
 - [DigimonBasic](https://discord.com/invite/B3RXtnXRSG)
 - [Doujin Cafe](https://discord.gg/doujincafe)
 - [DoujinStyle](https://discord.gg/z2QDFdA)
+- [GetComics](https://discord.com/invite/G7UwGPZDJ7)
 
 ### H-N
 - [HiAnime](https://discord.gg/hianime)
