@@ -397,7 +397,7 @@ outline: 1
 - [Comics All](https://comics-all.com/) <Badge type="tip" text="2" link="https://newcomic.info/" />
 - [Comics For All](https://comicsforall269084760.wordpress.com/) <Badge type="info" text="Vintage"/>
 - [Desuarchive](https://desuarchive.org/) <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
-- [Get Comics](https://getcomics.info/) :glowing-star:
+- [GetComics](https://getcomics.info/) :glowing-star:
 - [Library Genesis](https://libgen.gs/)
 - [Old Comics World](https://oldcomicsworld.blogspot.com/) <Badge type="info" text="Vintage"/>
 
