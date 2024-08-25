@@ -199,7 +199,6 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 
 ### Others
 - [Gravure Idols](https://gravureidols.top/)
-- [JAV Library](https://www.javlibrary.com/en/)
 - [Mabui Onna](https://mabui-onna.com/)
 - [Sougou Wiki](http://sougouwiki.com/)
 - [X-IDOL](https://xidol.net/) <Badge type="tip" text="2" link="https://www.ivworld.net/" />
