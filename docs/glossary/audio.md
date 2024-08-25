@@ -33,14 +33,14 @@ outline: [1,2]
 | Maxi Single | Another term for EP, mostly used in Europe. |
 | EP | Extended Play, a release usually containing 4 to 6 tracks.  |
 | LP | Long Play, a full album release usually containing 10 to 12 tracks. |
-| Album | An album is a collection of songs, either by a singular artist, vocalist, producer, or label. Sometimes, albums can even be compilations of multiple unrelated parties. They generally have a common theme, genre, or idea, known as a “Concept Album”, but they don't have to.  |
+| Album | An album is a collection of songs, either by a singular artist, vocalist, producer, or label. Sometimes, albums can even be compilations of multiple unrelated parties.  |
 | Compilation | An album compiling tracks from different recordings of one or multiple aritsts. |
 | Label | A company that publishes, distributes and promotes the music of their affiliated artists. The three biggest are [**Sony**](https://en.wikipedia.org/wiki/Sony_Music_Group), [**Universal**](https://en.wikipedia.org/wiki/Universal_Music_Group) & [**Warner**](https://en.wikipedia.org/wiki/Warner_Music_Group). |
 
 ### Hardware
 | Terms | Details |
 | ---- | ---- |
-| IEM | Short for “In Ear Monitor”. These are much like earbuds, however, they have nozzles and tips attached to the end where audio comes out. This makes it such that the “monitor”, or speaker, goes “in ear”. Earbuds, alternatively, will rest on the ear without actually going in. The benefit of an IEM is that it creates a seal within your ear, which can allow for the bass response to be maintained much easier. [**Learn more :mdi-arrow-top-right:**](#in-ear-monitor)  |
+| IEM | Short for “In Ear Monitor”. These are much like earbuds, however, they have nozzles and tips attached to the end where audio comes out. This makes it such that the “monitor”, or speaker, goes “in ear”. Earbuds, alternatively, will rest on the ear canal without actually going in. The benefit of an IEM is that it creates a seal within your ear, which can allow for the bass response to be maintained much easier. [**Learn more :mdi-arrow-top-right:**](#in-ear-monitor)  |
 | DAC | Short for “Digital-to-Analog Converter”. In terms of music, the DAC is the part of the chain that converts source files into analog signals that a headphone, speaker, or IEM can play back. [**Learn more :mdi-arrow-top-right:**](#dac) |
 | Amp | Short for “Amplifier”. In terms of music, the amp takes the converted signal from a DAC, or other analog source, and increases that signal's amplitude. This process is what makes audio louder. Any time you interact with a knob or volume rocker in order to make music louder or quieter, odds are you're interfacing with an amplifier. [**Learn more :mdi-arrow-top-right:**](#amp) |
 | Speaker | Speakers shoot sound out towards the user. They consist of a subwoofer, woofer and tweeter. The subwoofer is usually disconnected from the woofer and tweeter pairing. [**Learn more :mdi-arrow-top-right:**](#speaker) |
@@ -232,12 +232,12 @@ Lossy compression, also known simply as lossy, is a data compression technique t
 Transparency means that the compression of the original file is accurate to a degree such that a listener can't distinguish between the compressed and original files. The level or threshold of transparency depends on listerns hearing ability, hardware, and the compression method. Since it's based on hearing ability, transparency is very subjective. The more efficient the codec is, the better it will sound **below its perceptually transparent bitrate**. In general, encoding quality follows the trend Opus > AAC ≈ Vorbis > MP3. The bit rates at which lossy audio files become transparent are subjective but the following are common choices of bitrates:
 
 
-| Codec | Transparency Level |
+| Codec | Transparency Threshold |
 |-------|---------------------|
 | Opus  | 128 - 160kbps       |
 | AAC   | 128 - 160kbps       |
 | Vorbis| -q5 - -q6           |
-| MP3 (CBR) | 320kbps         |
+| MP3 (CBR) | 256kbps (Joint Stereo Encoding) - 320kbps (Full Stereo Encoding)         |
 | MP3 (VBR) | Between -V3 and -V0 |
 
 :::
@@ -260,7 +260,7 @@ The above figure is a spectrogram of a 24 bit, 48kHz FLAC. A 48kHz FLAC can supp
 
 This is a spectrogram of a 16 bit, 44.1kHz FLAC file. A 44.1kHz FLAC file can support frequencies up to 22.05kHz. This spectrogram shows frequencies up to around 50dB extending up to 22.05kHz, which is a great indicator of a truly lossless file.
 
-![Trascoded from FLAC 24/48 (WEB)](/glossary/audio/spec/16t.jpg)
+![Transcoded from FLAC 24/48 (WEB)](/glossary/audio/spec/16t.jpg)
 
 This 16 bit 44.1kHz FLAC was transcoded from a 24 bit 48kHz FLAC. Some of the data above 21.5kHz is missing after the conversion. Although this conversion was from a lossless source and to a lossless source, it's technically not a lossless conversion. Data was lost, even though all of it is above the threshold of human hearing. This is due to the low pass filter applied below 20kHz. A low pass filter has already been applied during the encoding of the 24 bit FLAC. Transcoding down to a lower sample rate applies this low pass filter again to prevent aliasing. This process usually causes the highest frequencies to be filtered out. This phenomenon can be observed when encoding in a different sample rate from the source. Either increasing or decreasing the sample rate causes some minor distortions between source files. Many different algorithms called SRC (Sample Rate Converters) exist and have varying degrees of effectiveness in mitigating these distortions. Generally, the distortions should not be perceivable by the average listener, but it's worth mentioning for sake of file integrity.
 
@@ -449,7 +449,7 @@ Transcoding audio to higher [bit rate](#bit-rate), [bit depth](#bit-depth) or [s
 | Input | Output | Description |
 |:-:|:-:|-|
 | UL | CL | Uncompressed lossless (CBR) files are converted into compressed lossless (VBR) files to decrease the file size significantly. |
-| CL | CL | This sort of conversion is usually only performed for compatibility reasons. It’s also common to perform a transcode like this if the user wanted to decrease the sample rate/bit depth of a file.|
+| CL | CL | This sort of conversion is usually only performed for compatibility reasons. It’s also common to perform a transcode like this if the user wanted to decrease the sample rate/bit depth of a file. Converting from one sample rate/bit depth to another will induce a slight detail loss. For more information on why this happens, see [**Spectrogram**](#spectrogram). The section under FLAC 16/44.1 expands on this phenomenon.|
 | UL/CL | L | Transcoding from a lossless source to a lossy format is done to save space. To ensure quality, it's best to keep your audio above your transparency level or standard bit rates, such as MP3 320, MP3 V0, or Opus 256. |
 
 :::
