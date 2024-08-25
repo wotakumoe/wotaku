@@ -22,6 +22,7 @@ A list of other otaku communities to check out based on your specific interests.
 - [Manga Helper](https://mangahelpers.com/)
 - [SquidBoard](https://www.squid-board.org/)
 - [VocaVerse Network](https://vocaverse.network/)
+- [YGOPro Deck](https://ygoprodeck.com/forum/)
 
 ## Discord servers
 
@@ -40,6 +41,7 @@ A list of other otaku communities to check out based on your specific interests.
 - [DigimonBasic](https://discord.com/invite/B3RXtnXRSG)
 - [Doujin Cafe](https://discord.gg/doujincafe)
 - [DoujinStyle](https://discord.gg/z2QDFdA)
+- [GetComics](https://discord.com/invite/G7UwGPZDJ7)
 
 ### H-N
 - [HiAnime](https://discord.gg/hianime)
@@ -56,20 +58,23 @@ A list of other otaku communities to check out based on your specific interests.
 - [MangaPark](https://discord.gg/HXKXBTSGKS)
 - [Manga Piracy](https://discord.com/invite/ZgMtAyxFSU)
 - [MikuDB](https://discord.com/invite/whcHreUh)
+- [NanDesuKa](https://discord.gg/RZN95Yer7d)
 
-### O-T
+### O-Z
 - [OTAQUEST](https://discord.com/invite/SCHR2QB)
 - [Scanner Usage School](https://discord.com/invite/NCzxVB9)
 - [Sho Habby Scans](https://discord.gg/GdV76sQs7d)
 - [Sitting on Clouds](https://discord.gg/x23SFbE)
 - [Sonic Zone](https://discord.com/invite/bj5vmb96YT)
 - [SquidBoard](https://discord.gg/ATjPbzR)
+- [SubsPlease](https://discord.gg/33Hxdas)
 - [Tachiyomi](https://discord.com/invite/tachiyomi)
 - [TCB Scans](https://discord.com/invite/tcbscans)
 - [TheMoeWay](https://discord.com/invite/nhqjydaR8j)
 - [r/Tokusatsu](https://discord.com/invite/Rf2dDaJSp3)
 - [Tritinia](https://discord.com/invite/NKXKeDNFB7)
 - [TypesettingTools](https://discord.com/invite/AZaVyPr)
+- [r/Yugioh](https://discord.gg/yugioh)
 
 ## Subreddits
 
