@@ -173,12 +173,14 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 ## Websites
 - [Anime-sharing](http://www.anime-sharing.com/forum/)
 - [ASMR Online](https://asmr.one/)
-- [Hentai ASMR](https://www.hentaiasmr.moe/)
+- [DOJINDB](https://dojindb.net/) :flag-japan:
 - [FC2 VTuber Archive](https://stash.sussy.moe/fc2)
 - [Hemdomblog](https://www.hemdomblog.com/)
 - [HentTag](https://hentag.com/)
+- [Hentai ASMR](https://www.hentaiasmr.moe/)
 - [Kasumi](http://xdcc.kasumi.moe/) <Badge type="tip" text="Guide" link="http://kasumi.moe/guide/" />
 - [Kemono](https://kemono.su/)
+- [Manga-DB](https://adultcomic.dbsearch.net/) :flag-japan:
 
 ## AV
 
@@ -198,12 +200,12 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 
 ### Others
 - [Gravure Idols](https://gravureidols.top/)
-- [Mabui Onna](https://mabui-onna.com/)
 - [JAV Library](https://www.javlibrary.com/en/)
+- [Mabui Onna](https://mabui-onna.com/)
 - [Sougou Wiki](http://sougouwiki.com/)
 - [X-IDOL](https://xidol.net/) <Badge type="tip" text="2" link="https://www.ivworld.net/" />
 
-## Community
+## Communities
 
 - [r/hentai](https://old.reddit.com/r/hentai/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.com/invite/rhentai" />
 - [r/pornhwa](https://old.reddit.com/r/pornhwa/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.com/invite/epjkRVp7gD" />
