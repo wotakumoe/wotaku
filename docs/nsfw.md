@@ -179,7 +179,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [Hentai ASMR](https://www.hentaiasmr.moe/)
 - [Kasumi](http://xdcc.kasumi.moe/) <Badge type="tip" text="Guide" link="http://kasumi.moe/guide/" />
 - [Kemono](https://kemono.su/)
-- [Manga-DB](https://adultcomic.dbsearch.net/) :flag-japan:
+- [Manga-DB](https://adultcomic.dbsearch.net/) :flag-japan: :glowing-star:
 
 ## AV
 
