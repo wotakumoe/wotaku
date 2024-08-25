@@ -23,6 +23,7 @@ customDescription: Discover the anime related terms you should know!
 | Terms     | Meaning { class="compact" } |
 | ------ | ------ |
 | OAD | Original Animation DVD. OVAs that were bundled with the source material (e.g. manga). |
+| OAV | Original Animation Video. Another term for OVA. |
 | ONA | Original Net Animation. Anime that was originally released on an OTT platform. |
 | OVA | Original Video Animation. Anime that was originally released on a physical medium. |
 | Simulcast | Simultaneous broadcast or stream of the latest episodes alongside their country of origin. |
