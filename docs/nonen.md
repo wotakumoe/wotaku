@@ -183,7 +183,9 @@ If you have recommendations for good sites in your native language or want to re
 
 ### Manga
 
+- [EmuleBDZ](https://ebdz.xyz/forum/) <Badge type="tip" text="Guide" link="https://www.emule-project.com/home/perl/help.cgi?l=1&rm=show_topic&topic_id=98" /><Badge type="info" text="Needs account" />
 - [Japscan](https://www.japscan.lol/)
+- [LPEBK](https://www.lpebk.com/forumv2/) <Badge type="info" text="Needs account" /><Badge type="info" text="DDL" />
 - [Mangadraft](https://www.mangadraft.com/)
 - [Planete-BD](https://planete-bd.org/)
 - [Raijin Scans](https://raijinscans.fr/)
