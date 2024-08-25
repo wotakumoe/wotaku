@@ -21,7 +21,7 @@ outline: [1,2]
 | Terms | Details |
 | ---- | ---- |
 | Bitrate | The bitrate of an audio file is the number of bits of audio data stored per second, which can be variable or constant based on the encoding. [**More details :mdi-arrow-top-right:**](#bit-rate) |
-| Lossy | Lossy codecs aim to make file sizes small, even if it means compromising in quality. Quality of the sound varies wildly between formats and bitrates, with higher bitrates sounding better. Beyond the transparency level, everything will sound the same. [**More details :mdi-arrow-top-right:**](#compressed-lossy) |
+| Lossy | Lossy codecs aim to make file sizes small, even if it means compromising in quality. Quality of the sound varies wildly between formats and bitrates, with higher bitrates sounding better. Beyond the transparency level, everything will sound the same. [**More details :mdi-arrow-top-right:**](#lossy) |
 | Lossless | Lossless, also known as lossless compression, which is compression that preserves all data from the source file. Lossless compression is completely indistinguishable from the source file. [**More details :mdi-arrow-top-right:**](#uncompressed-lossless) |
 | Spectrogram | A measure of frequency density over time. A spectrogram can be viewed as a graph, with frequency density represented by color. The spectrogram can be used to scrutinize the quality of an encoding. [**More details :mdi-arrow-top-right:**](#spectrogram) |
 
@@ -224,7 +224,7 @@ Uncompressed lossless codecs are pretty old. They use CBR/Constant Bitrate encod
 ### Compressed Lossless
 Lossless refers to lossless compression, which is compression that preserves all data from the source file. In terms of music, lossless compression is completely indistinguishable from the source file, while also reducing space and increasing efficiency of playback when compared to its uncompressed counterpart. Common lossless encoding formats include FLAC or ALAC. They are usually sourced from WAV files. They generally use VBR/Variable Bitrate encoding. The resulting file sizes are much smaller when compared to uncompressed lossless formats.
 
-### Compressed Lossy
+### Lossy
 Lossy compression, also known simply as lossy, is a data compression technique that reduces file size by selectively removing or approximating some of the original data from the source file. While this process discards certain information, modern algorithms are designed to do so in a way that minimizes perceptible differences from the original, making it nearly indistinguishable in quality for most users at certain bitrates. Common formats utilizing lossy compression include MP3, AAC, and OPUS.
 
 ::: tip Transparency
@@ -437,9 +437,30 @@ Two common analog sources are the vinyl and the cassette.
 
 ## Transcoding
 
-Transcoding means converting/encoding audio files from one codec/format to another. Audio can't be legitimately transcoded to higher quality since you can't generate new details after compression has been applied. That's why you shouldn't transcode
- -  lossy into another lossy because you will lose more details during transcoding.
- -  lossy into lossless since it will be just a waste of space & no audio quality improvement.
+Transcoding is the process of converting audio files from one codec (or format) into another. As mentioned before in [**codec section**](#codec), there are 3 possible types of audio files:
+- Uncompressed Lossless (UL)
+- Compressed Lossless (CL)
+- Lossy (L)
+
+Transcoding audio to higher [bit rate](#bit-rate), [bit depth](#bit-depth) or [sample rate](#sample-rate) is a pointless conversion. New data is not created in the process, however, data is reserved for the increased resolution. This process only serves to increase the file size. 
+::: tip Dos
+
+| Input | Output | Description |
+|:-:|:-:|-|
+| UL | CL | Uncompressed lossless (CBR) files are converted into compressed lossless (VBR) files to decrease the file size significantly. |
+| CL | CL | This sort of conversion is usually only performed for compatibility reasons. It’s also common to perform a transcode like this if the user wanted to decrease the sample rate/bit depth of a file.|
+| UL/CL | L | Transcoding from a lossless source to a lossy format is done to save space. To ensure quality, it's best to keep your audio above your transparency level or standard bit rates, such as MP3 320, MP3 V0, or Opus 256. |
+
+:::
+
+::: danger Don'ts
+
+| Input | Output | Description |
+|:-:|:-:|-|
+| CL | UL | This will bloat your files. CBR UL files won't add any extra detail to the audio. |
+| L | UL/CL | Once a file has been converted into a lossy format, data has been removed or distorted. Transcoding back to a lossless format will not restore the data, and will only serve to increase the file size. |
+| L | L | Again, once a file has been converted into a lossy format, data has been removed or distorted. Performing a lossy compression a second time will further distort the file, reducing the audio quality to a larger degree. |
+:::
 
 ::: tip The process
 To learn how to transcode using Foobar2000, [read this guide](/guides/music/transcoding.md).
