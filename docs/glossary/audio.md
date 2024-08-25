@@ -20,16 +20,17 @@ outline: [1,2]
 ### Audio File
 | Terms | Details |
 | ---- | ---- |
-| Bitrate | The bitrate of an audio file is the number of bits of audio data stored per second, which can be variable or constant based on the encoding. [**More details :mdi-arrow-top-right:**](#bit-rate) |
-| Lossy | Lossy codecs aim to make file sizes small, even if it means compromising in quality. Quality of the sound varies wildly between formats and bitrates, with higher bitrates sounding better. Beyond the transparency level, everything will sound the same. [**More details :mdi-arrow-top-right:**](#lossy) |
-| Lossless | Lossless, also known as lossless compression, which is compression that preserves all data from the source file. Lossless compression is completely indistinguishable from the source file. [**More details :mdi-arrow-top-right:**](#uncompressed-lossless) |
-| Spectrogram | A measure of frequency density over time. A spectrogram can be viewed as a graph, with frequency density represented by color. The spectrogram can be used to scrutinize the quality of an encoding. [**More details :mdi-arrow-top-right:**](#spectrogram) |
+| Bitrate | The bitrate of an audio file is the number of bits of audio data stored per second, which can be variable or constant based on the encoding. [**Learn more :mdi-arrow-top-right:**](#bit-rate) |
+| Lossy | Lossy codecs aim to make file sizes small, even if it means compromising in quality. Quality of the sound varies wildly between formats and bitrates, with higher bitrates sounding better. Beyond the transparency level, everything will sound the same. [**Learn more :mdi-arrow-top-right:**](#lossy) |
+| Lossless | Lossless, also known as lossless compression, which is compression that preserves all data from the source file. Lossless compression is completely indistinguishable from the source file. [**Learn more :mdi-arrow-top-right:**](#uncompressed-lossless) |
+| Spectrogram | A measure of frequency density over time. A spectrogram can be viewed as a graph, with frequency density represented by color. The spectrogram can be used to scrutinize the quality of an encoding. [**Learn more :mdi-arrow-top-right:**](#spectrogram) |
 
 
 ### Release
 | Terms | Details |
 | ---- | ---- |
 | Single | A music release containing 1 or 2 songs. |
+| Maxi Single | Another term for EP, mostly used in Europe. |
 | EP | Extended Play, a release usually containing 4 to 6 tracks.  |
 | LP | Long Play, a full album release usually containing 10 to 12 tracks. |
 | Album | An album is a collection of songs, either by a singular artist, vocalist, producer, or label. Sometimes, albums can even be compilations of multiple unrelated parties. They generally have a common theme, genre, or idea, known as a “Concept Album”, but they don't have to.  |
@@ -39,10 +40,10 @@ outline: [1,2]
 ### Hardware
 | Terms | Details |
 | ---- | ---- |
-| IEM | Short for “In Ear Monitor”. These are much like earbuds, however, they have nozzles and tips attached to the end where audio comes out. This makes it such that the “monitor”, or speaker, goes “in ear”. Earbuds, alternatively, will rest on the ear without actually going in. The benefit of an IEM is that it creates a seal within your ear, which can allow for the bass response to be maintained much easier. [**More details :mdi-arrow-top-right:**](#in-ear-monitor)  |
-| DAC | Short for “Digital-to-Analog Converter”. In terms of music, the DAC is the part of the chain that converts source files into analog signals that a headphone, speaker, or IEM can play back. [**More details :mdi-arrow-top-right:**](#dac) |
-| Amp | Short for “Amplifier”. In terms of music, the amp takes the converted signal from a DAC, or other analog source, and increases that signal's amplitude. This process is what makes audio louder. Any time you interact with a knob or volume rocker in order to make music louder or quieter, odds are you're interfacing with an amplifier. [**More details :mdi-arrow-top-right:**](#amp) |
-| Speaker | Speakers shoot sound out towards the user. They consist of a subwoofer, woofer and tweeter. The subwoofer is usually disconnected from the woofer and tweeter pairing. [**More details :mdi-arrow-top-right:**](#speaker) |
+| IEM | Short for “In Ear Monitor”. These are much like earbuds, however, they have nozzles and tips attached to the end where audio comes out. This makes it such that the “monitor”, or speaker, goes “in ear”. Earbuds, alternatively, will rest on the ear without actually going in. The benefit of an IEM is that it creates a seal within your ear, which can allow for the bass response to be maintained much easier. [**Learn more :mdi-arrow-top-right:**](#in-ear-monitor)  |
+| DAC | Short for “Digital-to-Analog Converter”. In terms of music, the DAC is the part of the chain that converts source files into analog signals that a headphone, speaker, or IEM can play back. [**Learn more :mdi-arrow-top-right:**](#dac) |
+| Amp | Short for “Amplifier”. In terms of music, the amp takes the converted signal from a DAC, or other analog source, and increases that signal's amplitude. This process is what makes audio louder. Any time you interact with a knob or volume rocker in order to make music louder or quieter, odds are you're interfacing with an amplifier. [**Learn more :mdi-arrow-top-right:**](#amp) |
+| Speaker | Speakers shoot sound out towards the user. They consist of a subwoofer, woofer and tweeter. The subwoofer is usually disconnected from the woofer and tweeter pairing. [**Learn more :mdi-arrow-top-right:**](#speaker) |
 
 
 ### Tools
@@ -110,7 +111,7 @@ Analog audio signals are continuous sine waves. To process them digitally, we ne
 
 
 ### Sampling
-Sampling involves taking periodic cuts of analog signals, also known as PCM. More info can be found in [**sample rate**](#sample-rate).
+Sampling involves taking periodic cuts of analog signals, also known as PCM. Learn more about this in [**sample rate :mdi-arrow-top-right:**](#sample-rate).
 
 
 ![](/glossary/audio/sampling.jpg)
@@ -152,7 +153,7 @@ To remove aliasing, a low pass filter (aka anti-aliasing filter) is added into b
 ![](/glossary/audio/nsst2.jpg)
 
 
->More details about the [Nyquist sampling theorem](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem).
+>Learn more about the [**Nyquist sampling theorem :mdi-arrow-top-right:**](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem).
 
 :::
 
@@ -463,7 +464,7 @@ Transcoding audio to higher [bit rate](#bit-rate), [bit depth](#bit-depth) or [s
 :::
 
 ::: tip The process
-To learn how to transcode using Foobar2000, [read this guide](/guides/music/transcoding.md).
+To learn how to transcode using Foobar2000, [**read this guide :mdi-arrow-top-right:**](/guides/music/transcoding.md).
 :::
 
 ## Other File types
