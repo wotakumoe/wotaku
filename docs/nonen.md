@@ -72,6 +72,7 @@ If you have recommendations for good sites in your native language or want to re
 
 ### Anime
 - [Anime Balkan](https://animebalkan.org/) <Badge type="tip" text="2" link="https://animebalkan.gg/" />
+- [AnimeOverdose](https://www.anime-overdose.com/)
 - [Anime Srbija](https://www.animesrbija.com/)
 
 ### Manga
@@ -184,8 +185,8 @@ If you have recommendations for good sites in your native language or want to re
 
 - [Japscan](https://www.japscan.lol/)
 - [Mangadraft](https://www.mangadraft.com/)
-- [Raijin Scans](https://raijinscans.fr/)
 - [Planete-BD](https://planete-bd.org/)
+- [Raijin Scans](https://raijinscans.fr/)
 - [Sushi-Scan](https://sushiscan.net/)
 
 
