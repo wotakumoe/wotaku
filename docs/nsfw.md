@@ -174,7 +174,6 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [Anime-sharing](http://www.anime-sharing.com/forum/)
 - [ASMR Online](https://asmr.one/)
 - [DOJINDB](https://dojindb.net/) :flag-japan:
-- [FC2 VTuber Archive](https://stash.sussy.moe/fc2)
 - [Hemdomblog](https://www.hemdomblog.com/)
 - [HentTag](https://hentag.com/)
 - [Hentai ASMR](https://www.hentaiasmr.moe/)
