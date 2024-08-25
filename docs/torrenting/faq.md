@@ -59,7 +59,7 @@ It has various variables. The free VPNs are very limited such as untrusted owner
 - [AirVPN](https://airvpn.org/)
 - [Cryptostorm](https://cryptostorm.is/)
 - [IVPN](https://www.ivpn.net/)
-- [Mullvad](https://mullvad.net/) <Badge type="info" text="No port forwarding" />
+- [Mullvad](https://mullvad.net/) <Badge type="tip" text="No port forwarding" />
 - [nVPN](https://nvpn.net/)
 - [OVPN](https://www.ovpn.com/)
 - [Proton](https://protonvpn.com/) <tooltip>The free tier doesn't support torrenting.</tooltip>
