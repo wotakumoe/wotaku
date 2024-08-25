@@ -163,10 +163,15 @@ outline: [2,3]
   - [Transmission](https://transmissionbt.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
 ::: tip Suggested VPN services
-- [Proton VPN](https://protonvpn.com/) <Badge text="Freemium" />
-- [Mullvad](https://mullvad.net/) <Badge text="Paid" />
+- [AirVPN](https://airvpn.org/) <Badge text="Paid" />
+- [Cryptostorm](https://cryptostorm.is/) <Badge text="Paid" />
 - [IVPN](https://www.ivpn.net/) <Badge text="Paid" />
+- [Mullvad](https://mullvad.net/) <Badge text="Paid" /><Badge type="info" text="No port forwarding" />
+- [nVPN](https://nvpn.net/) <Badge text="Paid" />
+- [OVPN](https://www.ovpn.com/) <Badge text="Paid" />
+- [Proton](https://protonvpn.com/) <Badge text="Freemium" /><tooltip>The free tier doesn't support torrenting.</tooltip>
 - [Windscribe](https://windscribe.com/) <Badge text="Freemium" />
+- [Xeovo](https://xeovo.com/) <Badge text="Paid" />
 :::
 
 ![](/banner/4ch.png)

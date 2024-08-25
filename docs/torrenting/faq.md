@@ -56,14 +56,19 @@ The distribution (here seeding / uploading) of pirated content is illegal. In pe
 It has various variables. The free VPNs are very limited such as untrusted owner, data cap, very few servers or very slow speed. Also, it's not like, all the paid VPNs are great. The ownership of the VPN company, the transparency or how they handle government bodies matter a lot.
 
 ### Paid VPNs
-- [IVPN](https://www.ivpn.net/)
-- [Proton VPN](https://protonvpn.com/)
-- [Windscribe](https://windscribe.com/) <Badge type="tip" text="Freemium" />
 - [AirVPN](https://airvpn.org/)
+- [Cryptostorm](https://cryptostorm.is/)
+- [IVPN](https://www.ivpn.net/)
+- [Mullvad](https://mullvad.net/) <Badge type="info" text="No port forwarding" />
+- [nVPN](https://nvpn.net/)
+- [OVPN](https://www.ovpn.com/)
+- [Proton](https://protonvpn.com/) <tooltip>The free tier doesn't support torrenting.</tooltip>
+- [Windscribe](https://windscribe.com/) <Badge type="tip" text="Freemium" />
+- [Xeovo](https://xeovo.com/)
 
 ### Free VPNs
-- [WARP](https://one.one.one.one/) <Badge type="tip" text="WireGuard" link="https://rentry.co/foss-warp" /><Badge type="tip" text="Generate" link="https://github.com/nxvvvv/warp-plus" />
 - [RiseupVPN](https://riseup.net/en/vpn)
+- [WARP](https://one.one.one.one/) <Badge type="tip" text="WireGuard" link="https://rentry.co/foss-warp" /><Badge type="tip" text="Generate" link="https://github.com/nxvvvv/warp-plus" />
 
 <Button link="https://www.techlore.tech/vpn" icon="i-fxemoji-lightbulb">Go through Techlore's VPNs comparison for more details</Button>
 
