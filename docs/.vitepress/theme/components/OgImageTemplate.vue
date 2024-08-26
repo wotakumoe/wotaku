@@ -3,7 +3,7 @@ defineProps<{ title: string; description?: string }>();
 </script>
 
 <template>
-  <span tw="w-full h-full bg-black flex flex-col" style="background-image: url(https://i.ibb.co/9w9MYDf/og2-1.png)">
+  <span tw="w-full h-full bg-black flex flex-col" style="background-image: url(https://files.catbox.moe/lulxzs.png)">
     <span tw="p-10 w-full min-h-0 grow flex flex-col items-center justify-between">
       <span tw="w-full flex justify-between items-center text-4xl font-medium">
         <span tw="flex items-center">
