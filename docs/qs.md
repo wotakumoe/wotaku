@@ -162,7 +162,7 @@ outline: [2,3]
   - [qBittorrent](https://www.qbittorrent.org/) <Badge text="Enhanced" link="https://github.com/c0re100/qBittorrent-Enhanced-Edition" /> <Badge text="Dark theme" link="https://github.com/maboroshin/qBittorrentDarktheme" /> :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
   - [Transmission](https://transmissionbt.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
-::: tip Suggested VPN services
+::: details Suggested VPN services
 
 #### Paid
 - [AirVPN](https://airvpn.org/)
