@@ -293,6 +293,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Shoko Anime](https://shokoanime.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
   - [Shokofin](https://github.com/ShokoAnime/Shokofin)
 - **Stremio**
+  - [Viren070's Guides](https://guides.viren070.me/)
   - [Stremio Community Addons List](https://stremio-addons.netlify.app/)
   - [Stremio Addon Manager](https://stremio-addon-manager.vercel.app/) [:mdi-github:](https://github.com/pancake3000/stremio-addon-manager)
   - [Stremio Jackett Addon](https://github.com/aymene69/stremio-jackett)
