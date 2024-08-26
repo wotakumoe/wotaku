@@ -95,7 +95,7 @@ outline: [2,3]
 - [2500 Volume Mokuro OCR Manga PDF Collection](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTY0MTI2NQ.RHVjaw)
 
 ::: info Raw section has been moved
-To remove clutter and dupe links, raw manga websites have been move to [**Non-English**](/nonen#manga-8). Only OCR-ed manga or those specifically uploaded for learning japanese will stay here.
+To remove clutter and dupe links, raw manga websites have been move to [**Non-English**](/nonen#manga-6). Only OCR-ed manga or those specifically uploaded for learning japanese will stay here.
 :::
 
 ## Novel
@@ -107,7 +107,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 - [Nyaa](https://nyaa.si/?f=0&c=3_3&q=) :glowing-star:
 - [Syosetu](https://syosetu.com/) `WN`
 
-<Button icon="i-fxemoji-lightbulb" link="/nonen#manga-8" >More in manga direct download</Button>
+<Button icon="i-fxemoji-lightbulb" link="/nonen#manga-6" >More in manga direct download</Button>
 
 ## Audio
 
