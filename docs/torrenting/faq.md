@@ -67,14 +67,17 @@ It has various variables. The free VPNs are very limited such as untrusted owner
 - [Xeovo](https://xeovo.com/)
 
 ### Free VPNs
+- [WARP](https://one.one.one.one/)
+  - [WARP through WireGuard](https://rentry.co/foss-warp)
+  - [wgcf](https://github.com/ViRb3/wgcf)
+  - [Oblivion](https://github.com/bepass-org/oblivion-desktop)
+  - [Key Generate](https://github.com/nxvvvv/warp-plus)
 - [RiseupVPN](https://riseup.net/en/vpn)
-- [WARP](https://one.one.one.one/) <Badge type="tip" text="WireGuard" link="https://rentry.co/foss-warp" /><Badge type="tip" text="Generate" link="https://github.com/nxvvvv/warp-plus" />
 
 <Button link="https://www.techlore.tech/vpn" icon="i-fxemoji-lightbulb">Go through Techlore's VPNs comparison for more details</Button>
 
 ::: danger Never use Cracked / Modded VPN {open}
 You should never use cracked or modded VPN cause all of your traffic will go through that VPN. So using a compromised VPN is extremely risky.
-
 :::
 
 :::details What are private trackers?
