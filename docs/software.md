@@ -309,12 +309,14 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 
 ## Manga Tools
-- [ACBR - Comic Book Reader](https://github.com/binarynonsense/comic-book-reader) :ic-baseline-window::mingcute-linux-fill:
+- [ACBR](https://github.com/binarynonsense/comic-book-reader) :ic-baseline-window::mingcute-linux-fill:
 - [CBconvert](https://github.com/gen2brain/cbconvert) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [cbz/cbr file converter](http://tomeko.net/software/CbxConverter/) :ic-baseline-window:
 - [ComicbookArchiveToolbox](https://degoedel.github.io/ComicbookArchiveToolbox/) :ic-baseline-window: [:mdi-github:](https://degoedel.github.io/ComicbookArchiveToolbox/)
 - [ComicTagger](https://github.com/comictagger/comictagger) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [DarkThumbs](https://github.com/fire-eggs/DarkThumbs) :ic-baseline-window:
 - [Enma](https://github.com/alexandresenpai/Enma) :ic-baseline-window::mingcute-linux-fill:
+- [Icaros](https://www.videohelp.com/software/Icaros) :ic-baseline-window:
 - [komf](https://github.com/Snd-R/komf) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-docker:
 - [kurp](https://github.com/Snd-R/kurp) :ic-baseline-window::mingcute-linux-fill::mdi-docker:
 - [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
