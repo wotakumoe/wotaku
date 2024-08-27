@@ -21,12 +21,14 @@ import Authors from "./components/Authors.vue";
 import Components from "@fmhy/components";
 import AnnouncementPill from "./components/AnnouncementPill.vue";
 import "virtual:uno.css";
+import Feedback from "./components/Feedback.vue";
 
 export default {
   extends: DefaultTheme,
   Layout: () => {
     return h(DefaultTheme.Layout, null, {
       "layout-top": () => h(defineAsyncComponent(() => import("./components/NewDomainBanner.vue"))),
+      "doc-before": () => h(Feedback),
       "sidebar-nav-after": () => h(SidebarCard),
       "home-hero-prelink": () => h(AnnouncementPill),
       // A enhanced readabilities menu for wider screens
@@ -41,6 +43,7 @@ export default {
     app.component("Button", Button);
     app.component("Authors", Authors);
     app.component("Tooltip", Tooltip);
+    app.component("Feedback", Feedback);
     // @ts-expect-error
     createMediumZoomProvider(app, router);
     // @ts-expect-error

@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import Field from "./CardField.vue";
-import Feedback from "./Modal.vue";
 </script>
 
 <template>
@@ -11,8 +10,6 @@ import Feedback from "./Modal.vue";
     <Field icon="i-twemoji-glowing-star">Favorite</Field>
     <Field icon="i-lucide-info">More Info</Field>
     <Field icon="i-material-symbols-subdirectory-arrow-right">Related</Field>
-    <div class="mb-2 mt-2 gap" />
-    <Feedback />
   </div>
 </template>
 
