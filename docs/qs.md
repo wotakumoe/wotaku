@@ -14,7 +14,7 @@ outline: [2,3]
 ### Websites
 
 - **Streaming**
-  - [Aniwave](https://aniwave.to/home) <Badge type="info" text="Lite" link="https://lite.aniwave.to/home" /><Badge type="info" text="Alt" link="https://anix.to/home" />
+  - [Sudatachi](https://sudatchi.com/)
   - [KickAssAnime](https://www1.kickassanime.mx/)
   - [Animepahe](https://animepahe.ru/) `Mini-Encode`
 - **Download**
