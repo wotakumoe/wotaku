@@ -109,6 +109,7 @@ outline: [1,2]
 - [AniVu](https://github.com/SkyD666/AniVu)
 - [Nekotatsu](https://github.com/PhantomShift/nekotatsu) <Badge type="info" text="Needs PC" />
 - [SauceNAO](https://github.com/LuK1337/SauceNAO)
+- [Trace.moe](https://github.com/localhostov/trace.moe-app)
 - [Tachisync](https://github.com/axiel7/Tachisync) <Badge type="info" text="Needs PC" />
 
 ![](/banner/ios.png)
