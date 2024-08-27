@@ -280,11 +280,13 @@ outline: 1
 
 
 ### Stats
-- [Sekai](https://sekai.rl404.com/) :glowing-star: [:mdi-github:](https://github.com/rl404/sekai)<Badge type="info" text="MAL" /> 
-- [MAL Badges](https://www.mal-badges.com/) <Badge type="info" text="MAL" />
-- [anime.plus](https://anime.plus/) [:mdi-github:](https://github.com/anime-plus/graph)<Badge type="info" text="MAL" />
+- [Sekai](https://sekai.rl404.com/) :glowing-star: [:mdi-github:](https://github.com/rl404/sekai)<Badge type="info" text="MAL" />
 - [Anistats](https://mayudev.github.io/anistats/) [:mdi-github:](https://github.com/mayudev/anistats)<Badge type="info" text="AL" />
+- [Anime Taste Tool](https://pop-tool-anilist-ftybdinz2q-nw.a.run.app/) [:mdi-github:](https://github.com/kay-mw/popularity-tool-for-anilist)<Badge type="info" text="AL" />
+- [anime.plus](https://anime.plus/) [:mdi-github:](https://github.com/anime-plus/graph)<Badge type="info" text="MAL" />
 - [KitsuStats](https://drumber.github.io/KitsuStats/#/) [:mdi-github:](https://github.com/Drumber/KitsuStats)<Badge type="info" text="Kitsu" />
+- [MAL Badges](https://www.mal-badges.com/) <Badge type="info" text="MAL" />
+
 
 ### Others
 - [MAL/AL/K/AP lists XML Exporter](https://malscraper.azurewebsites.net/)
