@@ -14,8 +14,8 @@ outline: [2,3]
 ### Websites
 
 - **Streaming**
-  - [Sudatachi](https://sudatchi.com/)
   - [KickAssAnime](https://www1.kickassanime.mx/)
+  - [Miruro](https://www.miruro.tv/) <Badge type="info" text="Proxies" link="https://www.miruro.com" />
   - [Animepahe](https://animepahe.ru/) `Mini-Encode`
 - **Download**
   - [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" /> <Badge type="info" text="Torrent" />
