@@ -395,6 +395,8 @@ As mentioned before data in `.ogg` container are divided in multiple pages. Thes
 
 10. **Metadata:** In `.ogg`, [VorbisComment](https://wiki.xiph.org/VorbisComment) is the most common metadata container.
 
+![Ogg container pages](/glossary/audio/pages.jpg)
+
 :::
 
 Most container formats support multiple codecs, for example `.m4a` (audio-only MP4 files) may contain **AAC**-encoded audio or **ALAC**-encoded audio (**FLAC** and **Opus** are also supported codecs as of newer revisions of the standard). Some codecs, like **MP3**, do not have/use codified container formats, and therefore the file format doesn't support other codecs.
