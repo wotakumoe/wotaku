@@ -36,7 +36,6 @@ outline: [2,3]
 ## Anime
 - [Animelon](https://animelon.com/) :glowing-star:
 - [Nyaa](https://nyaa.si/?f=0&c=1_4&q=)
-- [Aniwave](https://aniwave.to/home)
 - [HiAnime](https://hianime.to/home)
 - [Classics](https://animation.filmarchives.jp/index.html)
 

@@ -17,7 +17,6 @@ If you have recommendations for good sites in your native language or want to re
 ## Multi Language
 
 ### Anime
-- [Aniwave](https://aniwave.to/home)
 - [Kickassanime](https://kaas.am/)
 - [HiAnime](https://hianime.to/home)
 
