@@ -28,7 +28,6 @@ export default {
   Layout: () => {
     return h(DefaultTheme.Layout, null, {
       "layout-top": () => h(defineAsyncComponent(() => import("./components/NewDomainBanner.vue"))),
-      "doc-before": () => h(Feedback),
       "sidebar-nav-after": () => h(SidebarCard),
       "home-hero-prelink": () => h(AnnouncementPill),
       // A enhanced readabilities menu for wider screens
