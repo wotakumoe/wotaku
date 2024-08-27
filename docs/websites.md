@@ -13,11 +13,15 @@ outline: 1
 
 ## Stream
 
-- [KickAssAnime](https://kaas.ro/) <Badge type="info" text="Proxies" link="https://watchanime.io/" /> <tooltip><ul><li>KAA encodes (videstreaming) are decent (the new encodes) and loads better.</li><li>Birdstream player scrapes Bilibili.</li><li>Has missing titles. But, you can request them in their support server.</li></ul></tooltip>
-- [Miruro](https://www.miruro.tv/) <Badge type="info" text="Proxies" link="https://www.miruro.com" />
+- [KickAssAnime](https://kaas.ro/) <Badge type="info" text="Proxies" link="https://watchanime.io/" /> :glowing-star: <tooltip><ul><li>KAA encodes (videstreaming) are decent (the new encodes) and loads better.</li><li>Birdstream player scrapes Bilibili.</li><li>Has missing titles. But, you can request them in their support server.</li></ul></tooltip>
+- [Miruro](https://www.miruro.tv/) <Badge type="info" text="Proxies" link="https://www.miruro.com" /> <tooltip>Gogo & Zoro scraper. Has built in sync with AniList.</tooltip>
 - [HiAnime](https://hianime.to/home) <tooltip><ul><li>Huge library with Watch Together feature</li><li>Re-encodes shows for smaller size with lower overall bitrate.</li><li>Softsubs may create issues in different scenarios, but can be beneficial for multi-language support</li></ul></tooltip>
-- [Animepahe](https://animepahe.ru/) <Badge type="tip" text="2" link="https://animepahe.com/" /><Badge type="tip" text="3" link="https://animepahe.org" /><tooltip><ul><li>Uploads mini encoded files, useful if you want smaller files or have low bandwidth</li><li>Uploads Blu-ray and DVD versions if available</li><li>Has a good amount of missing titles</li></ul></tooltip>
-
+- [All Anime](https://allmanga.to/anime?tr=sub&cty=ALL) <tooltip>Use OK player if available.</tooltip>
+- [Animepahe](https://animepahe.ru/) `mini-encode` <Badge type="tip" text="2" link="https://animepahe.com/" /><Badge type="tip" text="3" link="https://animepahe.org" /><tooltip><ul><li>Uploads mini encoded files, useful if you want smaller files or have low bandwidth</li><li>Uploads Blu-ray and DVD versions if available</li><li>Has a good amount of missing titles</li></ul></tooltip>
+- [Sudatachi](https://sudatchi.com/)  <tooltip>Re-enocded files. Only 1080p atm for most. Site can go down. Also smaller library size.</tooltip>
+- [Hikari](https://watch.hikaritv.xyz/home) <tooltip>Uploads from good sources but re-encoded to way smaller file size. Small library size.</tooltip>
+- [Gogoanime](https://anitaku.pe/) <Badge text="Proxies" link="https://gogotaku.info/" />
+- [AnimeZ](https://animez.org/) <tooltip>A good amount of them are scraped from aniwave but 720p.</tooltip>
 
 :::details Scrapers
 
@@ -46,10 +50,6 @@ outline: 1
 :::details More
 
 ### Others
-- [Hikari](https://watch.hikaritv.xyz/home)
-- [Sudatachi](https://sudatchi.com/)
-- [All Anime](https://allmanga.to/)
-- [Gogoanime](https://anitaku.so/) <Badge text="Proxies" link="https://gogotaku.info/" />
 - [One Pace](https://onepace.net/)  <Badge text="Stremio" link="https://github.com/au2001/onepace-stremio" />
 - [Pokémon TV](https://poke-tv.vercel.app/) [:mdi-github:](https://github.com/seiya-dev/pokemon-tv)
 - [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html)
