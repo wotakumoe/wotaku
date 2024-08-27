@@ -205,7 +205,7 @@ If you have recommendations for good sites in your native language or want to re
 - [S.to](https://s.to/) <Badge type="info" text="Stream" />
 
 ### Manga
-- [ComicMafia](https://comicmafia.to/?s=manga)
+- [ComicMafia](https://comicmafia.to/?s=manga) <Badge type="info" text="DDL" />
 - [Kanjiku](https://kanjiku.net/)
 - [Manga-Tube](https://manga-tube.me/)
 
