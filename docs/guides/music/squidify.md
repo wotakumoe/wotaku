@@ -14,8 +14,9 @@ Squidify is a public music streaming service that offers a vast collection of An
 
 Squidify is based on Navidrome which has its own set of third-party Apps besides its own [Web UI](https://www.squidify.org/). It should be compatible with all Subsonic clients. The following clients are tested and confirmed to work properly:
 
-### Android
 
+::: tabs
+== Android
 - [Subtracks](https://github.com/austinried/subtracks#readme)
 - [substreamer](https://substreamerapp.com/)
 - [Ultrasonic](https://ultrasonic.gitlab.io/)
@@ -24,7 +25,7 @@ Squidify is based on Navidrome which has its own set of third-party Apps besides
 - [Tempo](https://github.com/CappielloAntonio/tempo)
 - [Chora](https://github.com/CraftWorksMC/Chora)
 
-### iOS
+== iOS
 
 - [play:Sub](https://michaelsapps.dk/playsubapp/)
 - [substreamer](https://substreamerapp.com/)
@@ -32,7 +33,7 @@ Squidify is based on Navidrome which has its own set of third-party Apps besides
 - [iSub](https://isub.app)
 
 
-### Desktop
+== Desktop
 
 - [Sonixd](https://github.com/jeffvli/sonixd) <Badge type="info" text="Windows" /><Badge type="info" text="Linux" /><Badge type="info" text="MacOS" />
 - [Feishin](https://github.com/jeffvli/feishin) <Badge type="info" text="Windows" /><Badge type="info" text="Linux" /><Badge type="info" text="MacOS" />
@@ -43,7 +44,7 @@ Squidify is based on Navidrome which has its own set of third-party Apps besides
     - [Jellycli](https://github.com/tryffel/jellycli#readme) <Badge type="info" text="Windows" /><Badge type="info" text="Linux" />
     - [STMP](https://github.com/wildeyedskies/stmp#readme) <Badge type="info" text="Linux" /><Badge type="info" text="MacOS" />
 
-### Others
+== Others
 - [SonicLair](https://play.google.com/store/apps/details?id=tech.logica10.soniclair) <Badge type="info" text="Android TV" />
 - **Connected Speakers**
   - [bonob](https://github.com/simojenki/bonob#readme) <Badge type="info" text="Sonos" />
@@ -53,7 +54,7 @@ Squidify is based on Navidrome which has its own set of third-party Apps besides
 - [HTTPDirFS](https://github.com/fangfufu/httpdirfs#readme)
 - [upmpdcli](https://www.lesbonscomptes.com/upmpdcli/index.html)
     - Expose Navidrome as a UPnP/DLNA media library. See the <Badge type="tip" text="discussion" link="https://github.com/navidrome/navidrome/discussions/2324" />
-
+:::
 
 ::: info More clients
 For more options, look at the [**list of clients**](https://airsonic.github.io/docs/apps/) maintained by the Airsonic project
