@@ -378,6 +378,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
   - [SmartImage](https://github.com/Decimation/SmartImage) :ic-baseline-window::mingcute-linux-fill:
   - [Search by Image](https://github.com/dessant/search-by-image) :mdi-firefox::mingcute-chrome-fill::mingcute-safari-fill:
   - [AnimeSnap](https://github.com/rohankishore/AnimeSnap) :ic-baseline-window:
+  - [Sauce](https://github.com/cadecuddy/sauce)
 - **[Nyaa](https://nyaa.si/) Tools**
   - [nyaa](https://github.com/Beastwick18/nyaa) :ic-baseline-window::mingcute-linux-fill:
   - [Nyaa Downloader](https://github.com/marcpinet/nyaadownloader) :ic-baseline-window:
