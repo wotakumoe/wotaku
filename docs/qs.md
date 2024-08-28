@@ -14,8 +14,8 @@ outline: [2,3]
 ### Websites
 
 - **Streaming**
-  - [Aniwave](https://aniwave.to/home) <Badge type="info" text="Lite" link="https://lite.aniwave.to/home" /><Badge type="info" text="Alt" link="https://anix.to/home" />
   - [KickAssAnime](https://www1.kickassanime.mx/)
+  - [Miruro](https://www.miruro.tv/) <Badge type="info" text="Proxies" link="https://www.miruro.com" />
   - [Animepahe](https://animepahe.ru/) `Mini-Encode`
 - **Download**
   - [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" /> <Badge type="info" text="Torrent" />
@@ -162,16 +162,26 @@ outline: [2,3]
   - [qBittorrent](https://www.qbittorrent.org/) <Badge text="Enhanced" link="https://github.com/c0re100/qBittorrent-Enhanced-Edition" /> <Badge text="Dark theme" link="https://github.com/maboroshin/qBittorrentDarktheme" /> :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
   - [Transmission](https://transmissionbt.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
-::: tip Suggested VPN services
-- [AirVPN](https://airvpn.org/) <Badge text="Paid" />
-- [Cryptostorm](https://cryptostorm.is/) <Badge text="Paid" />
-- [IVPN](https://www.ivpn.net/) <Badge text="Paid" />
-- [Mullvad](https://mullvad.net/) <Badge text="Paid" /><Badge type="info" text="No port forwarding" />
-- [nVPN](https://nvpn.net/) <Badge text="Paid" />
-- [OVPN](https://www.ovpn.com/) <Badge text="Paid" />
+::: details Suggested VPN services
+
+#### Paid
+- [AirVPN](https://airvpn.org/)
+- [Cryptostorm](https://cryptostorm.is/)
+- [IVPN](https://www.ivpn.net/) 
+- [Mullvad](https://mullvad.net/) <Badge type="info" text="No port forwarding" />
+- [nVPN](https://nvpn.net/)
+- [OVPN](https://www.ovpn.com/)
 - [Proton](https://protonvpn.com/) <Badge text="Freemium" /><tooltip>The free tier doesn't support torrenting.</tooltip>
 - [Windscribe](https://windscribe.com/) <Badge text="Freemium" />
-- [Xeovo](https://xeovo.com/) <Badge text="Paid" />
+- [Xeovo](https://xeovo.com/)
+
+#### Free VPNs
+- [WARP](https://one.one.one.one/)
+  - [WARP through WireGuard](https://rentry.co/foss-warp)
+  - [wgcf](https://github.com/ViRb3/wgcf)
+  - [Oblivion](https://github.com/bepass-org/oblivion-desktop)
+  - [Key Generate](https://github.com/nxvvvv/warp-plus)
+- [RiseupVPN](https://riseup.net/en/vpn)
 :::
 
 ![](/banner/4ch.png)

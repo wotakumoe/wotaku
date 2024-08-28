@@ -16,6 +16,7 @@ import {
   GitChangelog,
   GitChangelogMarkdownSection,
 } from "@nolebase/vitepress-plugin-git-changelog/vite";
+import { headersPlugin } from "./markdown/headers";
 
 // @unocss-include
 export default defineConfig({
@@ -94,6 +95,7 @@ export default defineConfig({
       md.use(figure);
       md.use(tabsMarkdownPlugin);
       md.use(imgSize);
+      md.use(headersPlugin);
     },
   },
   vite: {

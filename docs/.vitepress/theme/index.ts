@@ -21,6 +21,7 @@ import Authors from "./components/Authors.vue";
 import Components from "@fmhy/components";
 import AnnouncementPill from "./components/AnnouncementPill.vue";
 import "virtual:uno.css";
+import Feedback from "./components/Feedback.vue";
 
 export default {
   extends: DefaultTheme,
@@ -41,6 +42,7 @@ export default {
     app.component("Button", Button);
     app.component("Authors", Authors);
     app.component("Tooltip", Tooltip);
+    app.component("Feedback", Feedback);
     // @ts-expect-error
     createMediumZoomProvider(app, router);
     // @ts-expect-error

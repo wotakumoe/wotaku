@@ -13,13 +13,74 @@ outline: 1
 
 ## Stream
 
-- [Aniwave](https://aniwave.to/home) <Badge type="info" text="Proxies" link="https://aniwave.live/" /> <tooltip><ul><li>Huge library with Watch Together feature</li><li>Less amount of compression compared to other sites that use 3rd party hosts</li><li>Has both hardsub and softsub (multilingual)</li></ul></tooltip>
-  - [Anix](https://anix.to/home) <Badge type="info" text="Proxies" link="https://anix.me/" />
-  - [AniMoe](https://animoe.to/home)
-  - [AnimeSuge](https://animesuge.to/home)
-- [KickAssAnime](https://kaas.ro/) <Badge type="info" text="Proxies" link="https://watchanime.io/" /> <tooltip><ul><li>KAA encodes (videstreaming) are decent (the new encodes) and loads better.</li><li>Birdstream player scrapes Bilibili.</li><li>Has missing titles. But, you can request them in their support server.</li></ul></tooltip>
-- [HiAnime](https://hianime.to/home) <tooltip><ul><li>Huge library with Watch Together feature</li><li>Re-encodes shows for smaller size with lower overall bitrate.</li><li>Softsubs may create issues in different scenarios, but can be beneficial for multi-language support</li></ul></tooltip>
-- [Animepahe](https://animepahe.ru/) <Badge type="tip" text="2" link="https://animepahe.com/" /><Badge type="tip" text="3" link="https://animepahe.org" /><tooltip><ul><li>Uploads mini encoded files, useful if you want smaller files or have low bandwidth</li><li>Uploads Blu-ray and DVD versions if available</li><li>Has a good amount of missing titles</li></ul></tooltip>
+- [KickAssAnime](https://kaas.ro/) <Badge type="info" text="Proxies" link="https://watchanime.io/" />
+  <tooltip>
+    <ul>
+      <li>KAA encodes (videstreaming) are okay but really inconsistent.</li>
+      <li>Birdstream player scrapes Bilibili.</li>
+      <li>Pretty good for Airing anime.</li>
+      <li>Has good amount of missing old titles. But, you can request them in their support server.</li>
+    </ul>
+  </tooltip>
+- [Miruro](https://www.miruro.tv/) <Badge type="info" text="Proxies" link="https://www.miruro.com" /> 
+  <tooltip>
+    <ul>
+      <li>Have nice and minimal UI.</li>
+      <li>Gogo & Zoro scraper.</li>
+      <li>Has built-in AniList support.</li>
+    </ul>
+  </tooltip>
+- [HiAnime](https://hianime.to/home) 
+  <tooltip>
+    <ul>
+      <li>Huge library.</li>
+      <li>Re-encodes shows for smaller size.</li>
+      <li>Uses softsub which may create issues in some scenes.</li>
+    </ul>
+  </tooltip>
+- [Hikari](https://watch.hikaritv.xyz/home) 
+  <tooltip>
+    <ul>
+      <li>Good for new airing.</li>
+      <li>Uploads from good sources but re-encoded smaller file size.</li>
+      <li>Small library size.</li>
+    </ul>
+  </tooltip>
+- [Sudatachi](https://sudatchi.com/) 
+  <tooltip>
+    <ul>
+      <li>Good for new airing.</li>
+      <li>Re-enocded to smaller filesize.</li>
+      <li>Only 1080p atm for most.</li>
+      <li>Site can go down.</li>
+      <li>Also smaller library size.</li>
+    </ul>
+  </tooltip>
+- [Animepahe](https://animepahe.ru/) `mini-encode` <Badge type="tip" text="2" link="https://animepahe.com/" /><Badge type="tip" text="3" link="https://animepahe.org" />
+  <tooltip>
+    <ul>
+      <li>Uploads mini encoded files, best if you want smaller files or have low bandwidth.</li>
+      <li>Uploads Blu-ray and DVD versions if available.</li>
+      <li>Has a good amount of missing titles.</li>
+      <li>Some titles don't get regular update.</li>
+    </ul>
+  </tooltip>
+- [All Anime](https://allmanga.to/anime?tr=sub&cty=ALL) 
+  <tooltip>
+    <ul>
+      <li>UI is really cluttered.</li>
+      <li>Use OK player if available.</li>
+      <li>Other players have good amount of compression.</li>
+    </ul>
+  </tooltip>
+- [Gogoanime](https://anitaku.pe/) <Badge text="Proxies" link="https://gogotaku.info/" />
+- [AnimeZ](https://animez.org/) 
+  <tooltip>
+    <ul>
+      <li>The library size is good.</li>
+      <li>A good amount of them are scraped from aniwave but 720p.</li>
+    </ul>
+  </tooltip>
 
 
 :::details Scrapers
@@ -28,7 +89,6 @@ outline: 1
 
 | Host Site                                         | Symbol  { class="compact" }  |
 |---------------------------------------------------|--------|
-| [Aniwave / 9anime](https://aniwave.to/)           | 9      |
 | [BiliBili](https://www.bilibili.tv/)              | b      |
 | [GogoAnime](https://gogotaku.info/)               | g      |
 | [Animepahe](https://animepahe.ru/)                | p      |
@@ -50,10 +110,6 @@ outline: 1
 :::details More
 
 ### Others
-- [Hikari](https://watch.hikaritv.xyz/home)
-- [Sudatachi](https://sudatchi.com/)
-- [All Anime](https://allmanga.to/)
-- [Gogoanime](https://anitaku.so/) <Badge text="Proxies" link="https://gogotaku.info/" />
 - [One Pace](https://onepace.net/)  <Badge text="Stremio" link="https://github.com/au2001/onepace-stremio" />
 - [Pokémon TV](https://poke-tv.vercel.app/) [:mdi-github:](https://github.com/seiya-dev/pokemon-tv)
 - [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html)
@@ -229,10 +285,11 @@ outline: 1
 - [Animated Glitched Scans](https://agscomics.com/) + :flag-south-korea:  <Badge type="info" text="Dex" link="https://mangadex.org/group/1dde9054-11fd-4f5e-a575-a50f7bd22d5f/animated-glitched-scans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/15ncn1v/animated-glitched-scans" />
 - [Assorted Scans](https://assortedscans.com/)
 - [Danke fürs Lesen Scans](https://danke.moe/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/91035fe1-d6b0-4816-be51-b54d05d546cf/danke-furs-lesen" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/xlp7424/danke-fuers-lesen" />
+- [Immortal Updates Scan](https://mortalsgroove.com/) + :flag-china: :flag-south-korea:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/10z1hxo/immortal-updates-scan" />
 - [LHTranslation](https://lhtranslation.net/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/24adf288-d0e3-4d34-b342-bf8c189aacaa/lhtranslation" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/f6nc2yt/lhtranslation" />
 - [Scylla Scans](https://scyllascans.org/r)  <Badge type="info" text="Dex" link="https://mangadex.org/group/4209a4a9-b838-4817-be40-0c8ef2f7be4a/scylla-scans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/groups.html?id=14042" />
 - [TCB Scans](https://tcbscans.com/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/db85f2a1-d69b-4181-a7a0-aa37db4bcbcf/tcb-scans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/wn8v9bv/tcb-scans" />
-- [Tritinia](https://tritinia.org/) + :flag-china: :flag-south-korea:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/zfxsenj/tritinia-scans" />
+- [Tritinia Scans](https://tritinia.org/) + :flag-china: :flag-south-korea:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/zfxsenj/tritinia-scans" />
 
 ### Manhwa
 
@@ -427,15 +484,17 @@ outline: 1
 | Category | Websites |
 |-|-|
 | Anime | [AnimeBytes](https://animebytes.tv/) `General` <br> [AnimeWorld](https://animeworld.cx/) :flag-germany: <br> [BakaBT](https://bakabt.me/) <br> [U2](https://u2.dmhy.org/portal.php) |
+| Books | [MyAnonamouse](https://myanonamouse.net/) |
 | Games | [Gazelle Games](https://gazellegames.net/login.php) |
-| Movies & TV | [AvistaZ](https://avistaz.to/) <Badge type="tip" icon="i-ic-outline-discord" text="Waitlist" link="https://discord.gg/pfmAegk8bD" /> <br> [JPTV.club](https://jptv.club/) <br> [AsianCinema](https://asiancinema.me/) <br> [jptvts](https://jptvts.us/) |
+| Live Action | [AvistaZ](https://avistaz.to/) <Badge type="tip" icon="i-ic-outline-discord" text="Waitlist" link="https://discord.gg/pfmAegk8bD" /> <br> [JPTV.club](https://jptv.club/) <br> [AsianCinema](https://asiancinema.me/) <br> [jptvts](https://jptvts.us/) |
 | Music | [Redacted](https://redacted.ch/) <br> [JPopsuki](https://jpopsuki.eu/) <br> [Orpheus](https://orpheus.network/) <br> [Sugoi Music](https://sugoimusic.me/) <br> [Bemaniso](https://bemaniso.ws/) `Rhythm` <br> [Aidoru](https://aidoru-online.me/) `Idol` |
 | NSFW | [ExoticaZ](https://exoticaz.to/) <Badge type="tip" icon="i-ic-outline-discord" text="Waitlist" link="https://discord.gg/pfmAegk8bD" /> <br> [Empornium](https://www.empornium.is/) |
 
 ::: details :material-symbols-subdirectory-arrow-right: Related resources
-- [InstallGentoo Wiki](https://wiki.installgentoo.com/wiki/Private_trackers)
+- [InstallGentoo Wiki](https://wiki.installgentoo.com/wiki/Private_trackers) :glowing-star:
 - [Invite route graph](https://inviteroute.github.io/graph/)
 - [Redacted Interview Prep](https://interviewfor.red/en/index.html)
+  - [Wotaku Audio Glossary](/glossary/audio.md)
 - [BakaBT Wiki](https://wiki.bakabt.me/index.php/Sign_up)
 
 :::

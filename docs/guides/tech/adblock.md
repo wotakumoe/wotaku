@@ -71,7 +71,7 @@ Adding a lot of filters to your adblocker (that you don't specifically need) can
 | Topic | Solutions |
 |-|-|
 | Captcha | [Buster](https://github.com/dessant/buster) :mdi-firefox::mingcute-chrome-fill: <br> [NopeCHA](https://nopecha.com/) :mdi-firefox::mingcute-chrome-fill: |
-| Paywall | [Bypass Paywalls Clean](https://github.com/bpc-clone/bpc_updates) :mdi-firefox::mingcute-chrome-fill: <br> [Bypass Paywalls Clean Filters](https://github.com/bpc-clone/bypass-paywalls-clean-filters) :mdi-filter: |
+| Paywall | [Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bpc_updates) :mdi-firefox::mingcute-chrome-fill: <br> [Bypass Paywalls Clean Filters](https://gitflic.ru/project/magnolia1234/bypass-paywalls-clean-filters) :mdi-filter: |
 | Others | [BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) :mdi-firefox::mingcute-chrome-fill: |
 
 

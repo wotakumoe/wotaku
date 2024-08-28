@@ -109,6 +109,7 @@ outline: [1,2]
 - [AniVu](https://github.com/SkyD666/AniVu)
 - [Nekotatsu](https://github.com/PhantomShift/nekotatsu) <Badge type="info" text="Needs PC" />
 - [SauceNAO](https://github.com/LuK1337/SauceNAO)
+- [Trace.moe](https://github.com/localhostov/trace.moe-app)
 - [Tachisync](https://github.com/axiel7/Tachisync) <Badge type="info" text="Needs PC" />
 
 ![](/banner/ios.png)
@@ -293,6 +294,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Shoko Anime](https://shokoanime.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
   - [Shokofin](https://github.com/ShokoAnime/Shokofin)
 - **Stremio**
+  - [Viren070's Guides](https://guides.viren070.me/)
   - [Stremio Community Addons List](https://stremio-addons.netlify.app/)
   - [Stremio Addon Manager](https://stremio-addon-manager.vercel.app/) [:mdi-github:](https://github.com/pancake3000/stremio-addon-manager)
   - [Stremio Jackett Addon](https://github.com/aymene69/stremio-jackett)
@@ -309,12 +311,14 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 
 ## Manga Tools
-- [ACBR - Comic Book Reader](https://github.com/binarynonsense/comic-book-reader) :ic-baseline-window::mingcute-linux-fill:
+- [ACBR](https://github.com/binarynonsense/comic-book-reader) :ic-baseline-window::mingcute-linux-fill:
 - [CBconvert](https://github.com/gen2brain/cbconvert) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [cbz/cbr file converter](http://tomeko.net/software/CbxConverter/) :ic-baseline-window:
 - [ComicbookArchiveToolbox](https://degoedel.github.io/ComicbookArchiveToolbox/) :ic-baseline-window: [:mdi-github:](https://degoedel.github.io/ComicbookArchiveToolbox/)
 - [ComicTagger](https://github.com/comictagger/comictagger) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [DarkThumbs](https://github.com/fire-eggs/DarkThumbs) :ic-baseline-window:
 - [Enma](https://github.com/alexandresenpai/Enma) :ic-baseline-window::mingcute-linux-fill:
+- [Icaros](https://www.videohelp.com/software/Icaros) :ic-baseline-window:
 - [komf](https://github.com/Snd-R/komf) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-docker:
 - [kurp](https://github.com/Snd-R/kurp) :ic-baseline-window::mingcute-linux-fill::mdi-docker:
 - [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
@@ -370,6 +374,11 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 ## Other Tools
 - [AMV Tracker](https://github.com/bsobotka/amv_tracker) :ic-baseline-window:
+- **Image Search**
+  - [SmartImage](https://github.com/Decimation/SmartImage) :ic-baseline-window::mingcute-linux-fill:
+  - [Search by Image](https://github.com/dessant/search-by-image) :mdi-firefox::mingcute-chrome-fill::mingcute-safari-fill:
+  - [AnimeSnap](https://github.com/rohankishore/AnimeSnap) :ic-baseline-window:
+  - [Sauce](https://github.com/cadecuddy/sauce)
 - **[Nyaa](https://nyaa.si/) Tools**
   - [nyaa](https://github.com/Beastwick18/nyaa) :ic-baseline-window::mingcute-linux-fill:
   - [Nyaa Downloader](https://github.com/marcpinet/nyaadownloader) :ic-baseline-window:

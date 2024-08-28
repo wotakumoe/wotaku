@@ -151,7 +151,7 @@ The quality of the anime file depends on the [**source**](/glossary/anime#source
 
 <br>
 
-On the other hand, aggregators like [**Aniwave**](https://aniwave.to/home), [**KickAssAnime**](https://kickassanime.am/) & [**HiAnime**](https://hianime.to/home) re-encode them further. They sacrifice some of the quality in favor of smaller file sizes, thereby maintaining a smoother user experience on their sites.
+On the other hand, aggregators like [**KickAssAnime**](https://kickassanime.am/), [**Miruro**](https://www.miruro.tv/) & [**HiAnime**](https://hianime.to/home) re-encode them further. They sacrifice some of the quality in favor of smaller file sizes, thereby maintaining a smoother user experience on their sites.
 
 <br>
 

@@ -1,24 +1,86 @@
 <script setup lang="ts">
-import { reactive, ref } from "vue";
+import { computed, ref, reactive } from "vue";
+import { feedbackOptions, type FeedbackType, getFeedbackOption } from "../../types/Feedback";
 import { useRouter } from "vitepress";
-import { type FeedbackType, getFeedbackOption, feedbackOptions } from "../../types/Feedback";
+
+const props = defineProps<{
+  heading?: string;
+}>();
+
+const prompts = [
+  "Make it count!",
+  "Leave some feedback for us!",
+  `We're all ears 🐰`,
+  "Tell us what is missing in Wotaku",
+  "Your thoughts matter to us 💡",
+  "Feedback is a gift 🎁",
+  "What do you think?",
+  "We appreciate your support 🙏",
+  "We need your help 👋",
+  "Your feedback is valuable 💯",
+  "So... what do you think?",
+  "I guess you don't need to say anything 😉",
+  "Spill the beans 💣",
+  "We're always looking for ways to improve!.",
+  "aliens are watching you 👽",
+  "tasky was here 👀",
+  "The internet is full of crap 😱",
+];
+
+function getPrompt() {
+  return prompts[Math.floor(Math.random() * prompts.length)];
+}
+
+const messages = {
+  bug: [
+    "We're sorry to hear that!",
+    "Please try to be as specific as possible and provide us with the steps to reproduce the bug.",
+  ],
+  suggestion: [
+    "We're glad you want to share your ideas!",
+    "Nix the fluff and just tell us what you think!",
+    "We'll be happy to read your thoughts and incorporate them into our wiki.",
+    "Hello! We're glad you want to share your ideas!",
+  ],
+  appreciation: ["We appreciate your support!", "We're always looking for ways to improve!."],
+  other: ["We're always looking for ways to improve!"],
+};
+
+function getMessage(type: FeedbackType["type"]) {
+  return messages[type][Math.floor(Math.random() * messages[type].length)];
+}
 
 const loading = ref<boolean>(false);
 const error = ref<unknown>(null);
 const success = ref<boolean>(false);
 
-const router = useRouter();
+const isDisabled = computed(() => {
+  return !feedback.message.length || feedback.message.length < 5 || feedback.message.length > 1000;
+});
 
-const feedback = reactive<FeedbackType>({ message: "" });
+const router = useRouter();
+// prettier-ignore
+const feedback = reactive<
+  Pick<FeedbackType, 'message' | 'page'> & Partial<Pick<FeedbackType, 'type'>>
+>({
+  page: router.route.path,
+  message: ''
+})
+
+const selectedOption = ref(feedbackOptions[0]);
 
 async function handleSubmit(type?: FeedbackType["type"]) {
-  if (type) feedback.type = type;
+  if (type) {
+    feedback.type = type;
+    selectedOption.value = getFeedbackOption(type)!;
+  }
   loading.value = true;
 
   const body: FeedbackType = {
     message: feedback.message,
-    type: feedback.type,
-    page: router.route.path,
+    type: feedback.type!,
+    page: feedback.page,
+    ...(props.heading && { heading: props.heading }),
   };
 
   try {
@@ -31,7 +93,6 @@ async function handleSubmit(type?: FeedbackType["type"]) {
     });
 
     const data = await response.json();
-
     if (data.error) {
       error.value = data.error;
       return;
@@ -39,61 +100,99 @@ async function handleSubmit(type?: FeedbackType["type"]) {
     if (data.status === "ok") {
       success.value = true;
     }
-  } catch (error) {
-    error.value = error;
+  } catch (err) {
+    error.value = err;
   } finally {
     loading.value = false;
   }
 }
+
+const isCardShown = ref<boolean>(false);
+const helpfulText = props.heading
+  ? "What do you think about this section?"
+  : "What do you think about this page?";
+const helpfulDescription = props.heading
+  ? "Let us know how helpful this section is."
+  : "Let us know how helpful this page is.";
+
+const prompt = computed(() => getPrompt());
+const message = computed(() => getMessage(feedback.type!));
+const toggleCard = () => (isCardShown.value = !isCardShown.value);
 </script>
 
 <template>
-  <div class="wrapper">
-    <Transition name="fade" mode="out-in">
-      <div v-if="!feedback.type" class="step">
-        <div>
+  <template v-if="props.heading">
+    <button @click="toggleCard()"
+      class="bg-$vp-c-default-soft hover:bg-$vp-c-default-soft/40 text-primary border-$vp-c-default-soft hover:border-primary ml-3 inline-flex h-7 items-center justify-center whitespace-nowrap rounded-md border-2 border-solid px-1.5 py-1.5 text-sm font-medium transition-all duration-300 sm:h-6">
+      <span :class="isCardShown === false ? `i-lucide:message-circle` : `i-lucide:circle-x`" />
+    </button>
+  </template>
+  <template v-else>
+    <button
+      class="bg-$vp-c-default-soft hover:bg-$vp-c-default-soft/40 text-primary px2 py1 border-$vp-c-default-soft hover:border-primary mt-2 select-none rounded border-2 border-solid font-bold transition-all duration-300"
+      @click="toggleCard()">
+      <span :class="isCardShown === false ? `i-lucide:message-circle mr-2` : `i-lucide:circle-x mr-2`
+        " />
+      <span>Send Feedback</span>
+    </button>
+  </template>
+
+  <Transition name="fade" mode="out-in">
+    <div v-if="isCardShown"
+      class="border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 m-[2rem 0] step mt-4 border-2 border-solid p-6">
+      <Transition name="fade" mode="out-in">
+        <div v-if="!feedback.type" class="step">
           <div>
-            <p class="heading">Feedback</p>
+            <div>
+              <p class="desc">{{ prompt }}</p>
+              <p class="heading">
+                {{ helpfulText }}
+              </p>
+            </div>
           </div>
-        </div>
-        <div class="button-container">
-          <button
-            v-for="item in feedbackOptions"
-            :key="item.value"
-            class="btn"
-            @click="handleSubmit(item.value as FeedbackType['type'])">
-            <span>{{ item.label }}</span>
-          </button>
-        </div>
-      </div>
-      <div v-else-if="feedback.type && !success" class="step">
-        <div>
-          <p class="desc">Page: {{ router.route.path }}</p>
-          <div>
-            <span>{{ getFeedbackOption(feedback.type)?.label }}</span>
-            <button style="margin-left: 0.5rem" class="btn" @click="feedback.type = undefined">
-              <div class="i-octicon-arrow-left-16"></div>
+          <div class="flex flex-wrap gap-2">
+            <button v-for="item in feedbackOptions" :key="item.value" class="btn" @click="handleSubmit(item.value)">
+              <span>{{ item.label }}</span>
             </button>
           </div>
         </div>
-        <textarea v-model="feedback.message" autofocus class="input" />
-        <button
-          type="submit"
-          class="btn btn-primary"
-          :disabled="feedback.message.length < 5 || feedback.message.length > 1000"
-          @click="handleSubmit()">
-          Submit
-        </button>
-      </div>
-      <div v-else class="step">
-        <p class="heading">Thanks for your feedback!</p>
-      </div>
-    </Transition>
-  </div>
+        <div v-else-if="feedback.type && !success" class="step">
+          <div>
+            <p class="desc">
+              {{ helpfulDescription }}
+            </p>
+            <div>
+              <span>{{ getFeedbackOption(feedback.type)?.label }}</span>
+              <button style="margin-left: 0.5rem" class="btn" @click="feedback.type = undefined">
+                <span class="i-lucide:arrow-left-from-line">close</span>
+              </button>
+            </div>
+          </div>
+          <p class="heading">
+            {{ message }}
+          </p>
+          <textarea v-model="feedback.message" autofocus class="input" placeholder="What a lovely wiki!" />
+          <p class="desc mb-2">
+            If you want a reply to your feedback, feel free to mention a contact in the message or
+            join our
+            <a class="text-primary text-underline font-semibold" href="https://discord.gg/wZMuSGpZ8s">
+              Discord.
+            </a>
+          </p>
+          <button type="submit" class="btn btn-primary" :disabled="isDisabled" @click="handleSubmit()">
+            Send Feedback 📩
+          </button>
+        </div>
+        <div v-else class="step">
+          <p class="heading">Thanks for your feedback!</p>
+        </div>
+      </Transition>
+    </div>
+  </Transition>
 </template>
 
-<style scoped>
-.step > * + * {
+<style scoped lang="css">
+.step>*+* {
   margin-top: 1rem;
 }
 
@@ -139,30 +238,12 @@ async function handleSubmit(type?: FeedbackType["type"]) {
   font-weight: 700;
 }
 
-.button-container {
-  display: grid;
-  grid-gap: 0.5rem;
-}
-
-.wrapper {
-  margin: 2rem 0;
-  padding: 1.5rem;
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 8px;
-  background: var(--vp-c-bg-alt);
-}
-
 .input {
+  background-color: var(--vp-c-bg-alt);
+  color: var(--vp-c-text-2);
   width: 100%;
   height: 100px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  padding: 0.375rem 0.75rem;
-}
-
-.contact-input {
-  height: 50px;
-  border: 1px solid #ccc;
+  border: 1px solid var(--vp-c-divider);
   border-radius: 4px;
   padding: 0.375rem 0.75rem;
 }

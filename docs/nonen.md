@@ -17,7 +17,6 @@ If you have recommendations for good sites in your native language or want to re
 ## Multi Language
 
 ### Anime
-- [Aniwave](https://aniwave.to/home)
 - [Kickassanime](https://kaas.am/)
 - [HiAnime](https://hianime.to/home)
 
@@ -205,6 +204,11 @@ If you have recommendations for good sites in your native language or want to re
 - [Shiroi-Fansubs](https://shiroi-fansubs.de/) <Badge type="info" text="DDL" />
 - [S.to](https://s.to/) <Badge type="info" text="Stream" />
 
+### Manga
+- [ComicMafia](https://comicmafia.to/?s=manga) <Badge type="info" text="DDL" />
+- [Kanjiku](https://kanjiku.net/)
+- [Manga-Tube](https://manga-tube.me/)
+
 ### Communities
 
 - [Animes](https://www.animes.so/) <Badge type="info" text="Needs account" /><Badge type="info" text="DDL" />
@@ -272,6 +276,7 @@ If you have recommendations for good sites in your native language or want to re
   - [Otaku Desu](https://otakudesu.cloud/)
   - [Perpusindo](https://www.perpusindo.info/)
   - [Samehadaku](https://samehadaku.email/)
+  - [ZANIME](https://anime.uhuyy.dev/) [:mdi-github:](https://github.com/Fauzanmhr/zannime)
 - **DDL**
   - [Kusonime](https://kusonime.com/)
   - [Meownime](https://m.meownime.ai/)
@@ -439,6 +444,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [AnimeGO](https://animego.org/) <Badge type="info" text="Sub" />
 - [Animelayer](http://animelayer.ru/) <Badge type="info" text="Torrent" />
 - [AnimeLIB](https://animelib.me)
+- [Anime Player](https://anime.semolik.ru/) [:mdi-github:](https://github.com/Semolik/AnimePlayer)
 - [AnimeStars](https://animestars.org/) <Badge type="info" text="Sub" />
 - [ANIXART](https://anixart-tv.org/) <Badge type="info" text="Sub" />
 - [Averlist](https://averlist.ru/) [:mdi-github:](https://github.com/Averito/Averlist)

@@ -317,6 +317,7 @@ outline: 1
 - [**Youtube Music**](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
   - [Revanced Music](https://github.com/j-hc/revanced-magisk-module/releases)
   - [Innertune](https://github.com/z-huang/InnerTune) :glowing-star: :mdi-android:
+    - [OuterTune](https://github.com/DD3Boh/OuterTune)
   - [RiMusic](https://github.com/fast4x/RiMusic) :mdi-android:
 - [**Spotify**](https://www.spotify.com/us/download/)
   - [Spotify Mod by Blatan](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5tZS9zZWFyY2gucGhwP3N0PTAmc2s9dCZzZD1kJnNyPXBvc3RzJmF1dGhvcl9pZD02MzY0MDk.ZHVjaw) :glowing-star: <Badge type="info" text="Needs Account" /> :mdi-android:
