@@ -20,11 +20,11 @@ outline: [1,2]
 - [Migu](https://miguapp.pages.dev/) [:mdi-github:](https://github.com/NoCrypt/migu)
 - [AnimeTV](https://amarullz.com/) [:mdi-github:](https://github.com/amarullz/AnimeTV)
 
-
 ::: details More Apps
 - [Awery](https://github.com/MrBoomDeveloper/Awery)
 - [Himitsu](https://repodevil.vercel.app/) [:mdi-gitlab:](https://gitlab.com/RepoDevil/himitsu)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
+- [AniVu](https://github.com/SkyD666/AniVu)
 - [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one)
   - :material-symbols-subdirectory-arrow-right: [Stremio Tools](#anime-tools)
 - [Miru App](https://miru.js.org/) [:mdi-github:](https://github.com/miru-project/miru-app)
@@ -106,7 +106,6 @@ outline: [1,2]
 - [Anime Boxes](https://www.animebox.es/)
 
 ## Others
-- [AniVu](https://github.com/SkyD666/AniVu)
 - [Nekotatsu](https://github.com/PhantomShift/nekotatsu) <Badge type="info" text="Needs PC" />
 - [SauceNAO](https://github.com/LuK1337/SauceNAO)
 - [Trace.moe](https://github.com/localhostov/trace.moe-app)
