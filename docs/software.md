@@ -171,21 +171,21 @@ or buy an Android phone :ic-twotone-thumb-up:
 
 - [Miru](https://miru.watch/) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/ThaUnknown/miru/) <Badge type="info" text="Torrent" />
   - [Migu](https://miguapp.pages.dev/) [:mdi-github:](https://github.com/NoCrypt/migu)
-- [Anikki](https://github.com/Kylart/Anikki) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
-- [Toru](https://github.com/sweetbbak/toru) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" />
+- [Stremio](https://www.stremio.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
+  - :material-symbols-subdirectory-arrow-right: [Stremio Tools](#anime-tools)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
-- [Layendanimator](https://github.com/Layendan/Layendanimator) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Online" />
+- [Seanime](https://seanime.rahim.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/5rahim/seanime)  <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
+- [Unyo](https://github.com/K3vinb5/Unyo)  :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Online" />
+- [Toru](https://github.com/sweetbbak/toru) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" />
 - [AnimeTV](https://amarullz.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/amarullz/AnimeTV)<Badge type="info" text="Online" />
 
 :::details More
-- [Stremio](https://www.stremio.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
-  - :material-symbols-subdirectory-arrow-right: [Stremio Tools](#anime-tools)
-- [Totoro](https://github.com/insomniachi/Totoro) :ic-baseline-window: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
 - [Miru App](https://miru.js.org/) :ic-baseline-window: [:mdi-github:](https://github.com/miru-project/miru-app) <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
-- [Seanime](https://seanime.rahim.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Online" />
+- [Anikki](https://github.com/Kylart/Anikki) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
+- [Totoro](https://github.com/insomniachi/Totoro) :ic-baseline-window: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
+- [Layendanimator](https://github.com/Layendan/Layendanimator) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Online" />
 - [ani-cli](https://github.com/pystardust/ani-cli) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Online" />
 - [Akuse](https://github.com/akuse-app/Akuse) :ic-baseline-window: <Badge type="info" text="Online" />
-- [Unyo](https://github.com/K3vinb5/Unyo)  :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Online" />
 
 :::
 
