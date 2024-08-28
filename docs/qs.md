@@ -168,11 +168,11 @@ outline: [2,3]
 - [AirVPN](https://airvpn.org/)
 - [Cryptostorm](https://cryptostorm.is/)
 - [IVPN](https://www.ivpn.net/) 
-- [Mullvad](https://mullvad.net/) <Badge type="info" text="No port forwarding" />
+- [Mullvad](https://mullvad.net/) <Badge type="tip" text="No port forwarding" />
 - [nVPN](https://nvpn.net/)
 - [OVPN](https://www.ovpn.com/)
-- [Proton](https://protonvpn.com/) <Badge text="Freemium" /><tooltip>The free tier doesn't support torrenting.</tooltip>
-- [Windscribe](https://windscribe.com/) <Badge text="Freemium" />
+- [Proton](https://protonvpn.com/) <Badge type="tip" text="Freemium" /><tooltip>The free tier doesn't support torrenting.</tooltip>
+- [Windscribe](https://windscribe.com/) <Badge type="tip" text="Freemium" />
 - [Xeovo](https://xeovo.com/)
 
 #### Free VPNs
@@ -182,6 +182,11 @@ outline: [2,3]
   - [Oblivion](https://github.com/bepass-org/oblivion-desktop)
   - [Key Generate](https://github.com/nxvvvv/warp-plus)
 - [RiseupVPN](https://riseup.net/en/vpn)
+
+<Button link="https://www.techlore.tech/vpn" icon="i-fxemoji-lightbulb">Go through Techlore's VPNs comparison for more details</Button>
+
+::: danger Never use Cracked / Modded VPN {open}
+You should never use cracked or modded VPN cause all of your traffic will go through that VPN. So using a compromised VPN is extremely risky.
 :::
 
 ![](/banner/4ch.png)
