@@ -321,6 +321,8 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Icaros](https://www.videohelp.com/software/Icaros) :ic-baseline-window:
 - [komf](https://github.com/Snd-R/komf) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-docker:
 - [kurp](https://github.com/Snd-R/kurp) :ic-baseline-window::mingcute-linux-fill::mdi-docker:
+- [MangaJaNai](https://github.com/the-database/MangaJaNai)
+  - [MangaJaNaiConverterGui](https://github.com/the-database/MangaJaNaiConverterGui) :ic-baseline-window:
 - [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [SyncYomi](https://github.com/syncyomi/syncyomi) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-docker:
 - :material-symbols-subdirectory-arrow-right: [Image Tools](/tools.md#image-tools)
