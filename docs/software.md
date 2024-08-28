@@ -394,7 +394,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - **Manga**
   - [Komga](https://komga.org/) :glowing-star: [:mdi-github:](https://github.com/gotson/komga)
   - [Kavita](https://www.kavitareader.com/) [:mdi-github:](https://github.com/Kareadita/Kavita)
-  - [LANraragi](https://github.com/Difegue/LANraragi)
+  - [LANraragi](https://sugoi.gitbook.io/lanraragi/v/dev) [:mdi-github:](https://github.com/Difegue/LANraragi)
   - [Teemii](https://www.teemii.io/) [:mdi-github:](https://github.com/dokkaner/teemii)
   - [Mango](https://github.com/getmango/Mango) <Badge type="warning" text="Outdated" />
 - **Novels**
