@@ -16,9 +16,10 @@ outline: 1
 - [KickAssAnime](https://kaas.ro/) <Badge type="info" text="Proxies" link="https://watchanime.io/" />
   <tooltip>
     <ul>
-      <li>KAA encodes (videstreaming) are okay but inconsistent.</li>
+      <li>KAA encodes (videstreaming) are okay but really inconsistent.</li>
       <li>Birdstream player scrapes Bilibili.</li>
-      <li>Has good amount of missing titles. But, you can request them in their support server.</li>
+      <li>Pretty good for Airing anime.</li>
+      <li>Has good amount of missing old titles. But, you can request them in their support server.</li>
     </ul>
   </tooltip>
 - [Miruro](https://www.miruro.tv/) <Badge type="info" text="Proxies" link="https://www.miruro.com" /> 
@@ -33,7 +34,7 @@ outline: 1
   <tooltip>
     <ul>
       <li>Huge library.</li>
-      <li>Re-encodes shows for smaller size with lower overall bitrate.</li>
+      <li>Re-encodes shows for smaller size.</li>
       <li>Uses softsub which may create issues in some scenes.</li>
     </ul>
   </tooltip>
@@ -41,7 +42,7 @@ outline: 1
   <tooltip>
     <ul>
       <li>Good for new airing.</li>
-      <li>Uploads from good sources but re-encoded to way smaller file size.</li>
+      <li>Uploads from good sources but re-encoded smaller file size.</li>
       <li>Small library size.</li>
     </ul>
   </tooltip>
@@ -49,7 +50,7 @@ outline: 1
   <tooltip>
     <ul>
       <li>Good for new airing.</li>
-      <li>Re-enocded files.</li>
+      <li>Re-enocded to smaller filesize.</li>
       <li>Only 1080p atm for most.</li>
       <li>Site can go down.</li>
       <li>Also smaller library size.</li>
@@ -58,7 +59,7 @@ outline: 1
 - [Animepahe](https://animepahe.ru/) `mini-encode` <Badge type="tip" text="2" link="https://animepahe.com/" /><Badge type="tip" text="3" link="https://animepahe.org" />
   <tooltip>
     <ul>
-      <li>Uploads mini encoded files, useful if you want smaller files or have low bandwidth.</li>
+      <li>Uploads mini encoded files, best if you want smaller files or have low bandwidth.</li>
       <li>Uploads Blu-ray and DVD versions if available.</li>
       <li>Has a good amount of missing titles.</li>
       <li>Some titles don't get regular update.</li>
