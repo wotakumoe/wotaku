@@ -387,24 +387,36 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
   - [Koneko](https://github.com/irevenko/koneko)
 
 ## Hosting
-- **Anime**
-  - [Plex](https://www.plex.tv/) :glowing-star:
-  - [Jellyfin](https://jellyfin.org/)
-  - [Emby](https://emby.media/)
-- **Manga**
-  - [Komga](https://komga.org/) :glowing-star: [:mdi-github:](https://github.com/gotson/komga)
-  - [Kavita](https://www.kavitareader.com/) [:mdi-github:](https://github.com/Kareadita/Kavita)
-  - [LANraragi](https://sugoi.gitbook.io/lanraragi/v/dev) [:mdi-github:](https://github.com/Difegue/LANraragi)
-  - [Teemii](https://www.teemii.io/) [:mdi-github:](https://github.com/dokkaner/teemii)
-  - [Mango](https://github.com/getmango/Mango) <Badge type="warning" text="Outdated" />
-- **Novels**
-  - [Kavita](https://www.kavitareader.com/) :glowing-star: [:mdi-github:](https://github.com/Kareadita/Kavita)
-  - [Komga](https://komga.org/) [:mdi-github:](https://github.com/gotson/komga)
-  - [Calibre-Web](https://github.com/janeczku/calibre-web)
-  - [Librium](https://librumreader.com/)
-- **Audiobook**
-  - [audiobookshelf](https://www.audiobookshelf.org/)
-  - [Booksonic](https://booksonic.org/)
+
+#### Anime
+- [Plex](https://www.plex.tv/) :glowing-star:
+- [Jellyfin](https://jellyfin.org/)
+- [Emby](https://emby.media/)
+
+#### Manga
+- [Komga](https://komga.org/) :glowing-star: [:mdi-github:](https://github.com/gotson/komga)
+  - [Komelia](https://github.com/Snd-R/Komelia) :mdi-android::ic-baseline-window::mingcute-linux-fill:
+- [Kavita](https://www.kavitareader.com/) [:mdi-github:](https://github.com/Kareadita/Kavita)
+- [LANraragi](https://sugoi.gitbook.io/lanraragi/v/dev) [:mdi-github:](https://github.com/Difegue/LANraragi)
+  - [Ichaival](https://github.com/Utazukin/Ichaival) :mdi-android:
+  - [LANreader](https://github.com/Doraemoe/LANreader) :ic-baseline-apple:
+  - [LRReader](https://github.com/Guerra24/LRReader) :ic-baseline-window:
+- [Teemii](https://www.teemii.io/) [:mdi-github:](https://github.com/dokkaner/teemii)
+- [Mango](https://github.com/getmango/Mango) <Badge type="warning" text="Outdated" />
+
+::: tip Mihon apps
+[**Android apps**](#manga) that support the mihon extension system, can be used as clients for these hosting solutions. You can get extensions from [**here**](/guides/tech/repo.md)
+:::
+
+#### Novels
+- [Kavita](https://www.kavitareader.com/) :glowing-star: [:mdi-github:](https://github.com/Kareadita/Kavita)
+- [Komga](https://komga.org/) [:mdi-github:](https://github.com/gotson/komga)
+- [Calibre-Web](https://github.com/janeczku/calibre-web)
+- [Librium](https://librumreader.com/)
+
+#### Audiobook
+- [audiobookshelf](https://www.audiobookshelf.org/)
+- [Booksonic](https://booksonic.org/)
 
 
 ## OCR / Translator
