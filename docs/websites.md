@@ -13,15 +13,74 @@ outline: 1
 
 ## Stream
 
-- [KickAssAnime](https://kaas.ro/) <Badge type="info" text="Proxies" link="https://watchanime.io/" /> :glowing-star: <tooltip><ul><li>KAA encodes (videstreaming) are decent (the new encodes) and loads better.</li><li>Birdstream player scrapes Bilibili.</li><li>Has missing titles. But, you can request them in their support server.</li></ul></tooltip>
-- [Miruro](https://www.miruro.tv/) <Badge type="info" text="Proxies" link="https://www.miruro.com" /> <tooltip>Gogo & Zoro scraper. Has built in sync with AniList.</tooltip>
-- [HiAnime](https://hianime.to/home) <tooltip><ul><li>Huge library with Watch Together feature</li><li>Re-encodes shows for smaller size with lower overall bitrate.</li><li>Softsubs may create issues in different scenarios, but can be beneficial for multi-language support</li></ul></tooltip>
-- [All Anime](https://allmanga.to/anime?tr=sub&cty=ALL) <tooltip>Use OK player if available.</tooltip>
-- [Animepahe](https://animepahe.ru/) `mini-encode` <Badge type="tip" text="2" link="https://animepahe.com/" /><Badge type="tip" text="3" link="https://animepahe.org" /><tooltip><ul><li>Uploads mini encoded files, useful if you want smaller files or have low bandwidth</li><li>Uploads Blu-ray and DVD versions if available</li><li>Has a good amount of missing titles</li></ul></tooltip>
-- [Sudatachi](https://sudatchi.com/)  <tooltip>Re-enocded files. Only 1080p atm for most. Site can go down. Also smaller library size.</tooltip>
-- [Hikari](https://watch.hikaritv.xyz/home) <tooltip>Uploads from good sources but re-encoded to way smaller file size. Small library size.</tooltip>
+- [KickAssAnime](https://kaas.ro/) <Badge type="info" text="Proxies" link="https://watchanime.io/" />
+  <tooltip>
+    <ul>
+      <li>KAA encodes (videstreaming) are okay but inconsistent.</li>
+      <li>Birdstream player scrapes Bilibili.</li>
+      <li>Has good amount of missing titles. But, you can request them in their support server.</li>
+    </ul>
+  </tooltip>
+- [Miruro](https://www.miruro.tv/) <Badge type="info" text="Proxies" link="https://www.miruro.com" /> 
+  <tooltip>
+    <ul>
+      <li>Have nice and minimal UI.</li>
+      <li>Gogo & Zoro scraper.</li>
+      <li>Has built-in AniList support.</li>
+    </ul>
+  </tooltip>
+- [HiAnime](https://hianime.to/home) 
+  <tooltip>
+    <ul>
+      <li>Huge library.</li>
+      <li>Re-encodes shows for smaller size with lower overall bitrate.</li>
+      <li>Uses softsub which may create issues in some scenes.</li>
+    </ul>
+  </tooltip>
+- [Hikari](https://watch.hikaritv.xyz/home) 
+  <tooltip>
+    <ul>
+      <li>Good for new airing.</li>
+      <li>Uploads from good sources but re-encoded to way smaller file size.</li>
+      <li>Small library size.</li>
+    </ul>
+  </tooltip>
+- [Sudatachi](https://sudatchi.com/) 
+  <tooltip>
+    <ul>
+      <li>Good for new airing.</li>
+      <li>Re-enocded files.</li>
+      <li>Only 1080p atm for most.</li>
+      <li>Site can go down.</li>
+      <li>Also smaller library size.</li>
+    </ul>
+  </tooltip>
+- [Animepahe](https://animepahe.ru/) `mini-encode` <Badge type="tip" text="2" link="https://animepahe.com/" /><Badge type="tip" text="3" link="https://animepahe.org" />
+  <tooltip>
+    <ul>
+      <li>Uploads mini encoded files, useful if you want smaller files or have low bandwidth.</li>
+      <li>Uploads Blu-ray and DVD versions if available.</li>
+      <li>Has a good amount of missing titles.</li>
+      <li>Some titles don't get regular update.</li>
+    </ul>
+  </tooltip>
+- [All Anime](https://allmanga.to/anime?tr=sub&cty=ALL) 
+  <tooltip>
+    <ul>
+      <li>UI is really cluttered.</li>
+      <li>Use OK player if available.</li>
+      <li>Other players have good amount of compression.</li>
+    </ul>
+  </tooltip>
 - [Gogoanime](https://anitaku.pe/) <Badge text="Proxies" link="https://gogotaku.info/" />
-- [AnimeZ](https://animez.org/) <tooltip>A good amount of them are scraped from aniwave but 720p.</tooltip>
+- [AnimeZ](https://animez.org/) 
+  <tooltip>
+    <ul>
+      <li>The library size is good.</li>
+      <li>A good amount of them are scraped from aniwave but 720p.</li>
+    </ul>
+  </tooltip>
+
 
 :::details Scrapers
 
