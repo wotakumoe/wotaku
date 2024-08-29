@@ -336,11 +336,16 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 :::
 
 - **Reader**
-  - [KL Manga](https://klmanga.com/)
+  - [KL Manga](https://klz9.com/idx) <Badge type="tip" text="2" link="https://hachiraw.win/" /><Badge type="tip" text="3" link="https://klto9.com/" /><Badge type="tip" text="4" link="https://jestful.net/" />
   - [MangaFire](https://mangafire.to/home)
   - [MangaReader](https://mangareader.to/home)
-  - [Raw Kuma](https://rawkuma.com/)
-  - [Raw lazy](https://rawlazy.si/)
+  - [Manga Mate](https://manga-mate.org/)
+  - [Pixiv Comics](https://comic.pixiv.net/)
+  - [RawInu](https://rawinu.com/) <Badge type="tip" text="2" link="https://nicomanga.com/" />
+  - [Rawkuma](https://rawkuma.com/)
+  - [Raw Lazy](https://rawlazy.si/)
+  - [Raw Otaku](https://rawotaku.com/home/) <Badge type="tip" text="2" link="https://jmanga.org/" /><Badge type="tip" text="3" link="https://rawjp.co/" />
+  - [RawUwU](https://rawuwu.com/) <Badge type="tip" text="2" link="https://rawdevart.art/" />
   - [Sen Manga](https://raw.senmanga.com/)
   - [Twicomi](https://twicomi.com/)
   - [We Love Manga](https://welovemanga.one/) <Badge type="tip" text="2" link="https://manga1000.top/" />
