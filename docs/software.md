@@ -23,11 +23,11 @@ outline: [1,2]
 ::: details More Apps
 - [Awery](https://github.com/MrBoomDeveloper/Awery)
 - [Himitsu](https://repodevil.vercel.app/) [:mdi-gitlab:](https://gitlab.com/RepoDevil/himitsu)
-- [Mangayomi](https://github.com/kodjodevf/mangayomi)
-- [AniVu](https://github.com/SkyD666/AniVu)
 - [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one)
   - :material-symbols-subdirectory-arrow-right: [Stremio Tools](#anime-tools)
+- [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [Miru App](https://miru.js.org/) [:mdi-github:](https://github.com/miru-project/miru-app)
+- [AniVu](https://github.com/SkyD666/AniVu)
 - [Animity](https://github.com/kl3jvi/animity)
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
 :::
