@@ -73,6 +73,7 @@ outline: [1,2]
 - [TOONKOR](https://toonkor424.com/%EC%9B%B9%ED%88%B0) <Badge type="info" text="Raw" />
 - [Toonily](https://toonily.com/) :glowing-star:
 - [Webtoon](https://www.webtoon.xyz/)
+- [Webtooni](https://webtooni.net/en/)  <Badge type="tip" text="2" link="https://heytoon.net/en/" />
 
 ### Scanlators {open}
 - [The Blank](https://mangadex.org/group/d53b6ec6-bbbf-4fad-a254-2b7ddda84c2c/the-blank) :glowing-star: <Badge type="info" icon="i-octicon-globe" text="Web" link="https://theblank.net/" />
