@@ -26,7 +26,7 @@ Information about various types of publishers for manga and manhwa.
 
 | Store                                       | Resolution | DRM Removal | SFW | Recommended { class="compact" } |
 |---------------------------------------------|------------|-------------|-----|----------------------------------|
-| [Amazon (Kindle HD)](https://www.amazon.com/kindle-dbs/comics-store/home/) | Highest<sup>1</sup> | Medium | :check-mark-button: | YES |
+| [Amazon (Kindle HD)](https://www.amazon.com/kindle-dbs/comics-store/home/) | Semi-dead<sup>1</sup> | Medium | :check-mark-button: | YESN'T |
 | [Amazon (Comixology)](https://www.amazon.com/kindle-dbs/comics-store/home/)<sup>2</sup> | Dead | Hard | :check-mark-button: | NO |
 | [Apple Books](https://www.apple.com/apple-books/) | Standard | Medium | :check-mark-button: | NO |
 | [BookWalker Global](https://global.bookwalker.jp/) | Standard | Hard | :check-mark-button: | NO<sup>3</sup> |
@@ -36,7 +36,8 @@ Information about various types of publishers for manga and manhwa.
 
 
 :::tip Notes {open}
-1. ~~Blurry downscales for anything that would be above that on other platforms.~~ As of December 5th 2023, Kindle now offers HD on their mobile app (at or above 320dpi and some resolution threshold). Web is likely limited to x1920 (unconfirmed as of December 7th 2023). 
+1. **PSA:** Kodansha, Seven Seas, Dark Horse and other previously-actual-HD suppliers of books have stopped uploading HD books on Amazon starting in 2024-07. If the book says it's Kindle Edition (instead of Kindle & Comixology), it's not HD (do cross-check with the listed filesize). Additionally, even if the book says Kindle & Comixology it can be upscaled still (see: Titan Comics' Speed Grapher v01). Post 2024-07 books are therefore generally recommended to be bought elsewhere.<br/>
+Original: ~~Blurry downscales for anything that would be above that on other platforms.~~ As of December 5th 2023, Kindle now offers HD on their mobile app (at or above 320dpi and some resolution threshold). Web is likely limited to x1920 (unconfirmed as of December 7th 2023).
 2. Dead as of December 4th 2023, leaving only Kindle. 
 3. Unless they have exclusives or discounts, as other platforms are easier
 :::
@@ -62,7 +63,7 @@ Information about various types of publishers for manga and manhwa.
 | [Star Fruit Books](https://starfruitbooks.com/) | Varies | :check-mark-button: | :check-mark-button: | Own Store |
 | [TOKYOPOP](https://tokyopop.com/)            | ~x2300<sup>7</sup> | :cross-mark: | :check-mark-button: | Same Everywhere |
 | [VAST Visual](https://vastmanga.com/)        | ~x2250<sup>8</sup> | :cross-mark: | :check-mark-button: | Apple Books |
-| [VIZ](https://www.viz.com/read)              | x2100-x2475 | :cross-mark: | :check-mark-button: | Kobo |
+| [VIZ](https://www.viz.com/read)              | x2100-x2475<sup>9</sup> | :cross-mark: | :check-mark-button: | Kobo |
 | [Yen Press](https://yenpress.com/)            | x1291-x1350 | :cross-mark: | :check-mark-button: | Same Everywhere |
 
 
@@ -75,6 +76,7 @@ Information about various types of publishers for manga and manhwa.
 6. Ranges between x3206 - x3713 for Comixology volumes. Post-CMX Amazon HD volume res has been downgraded to x2565 - ~x272x. Standard non-CMX/Amazon HD resolution is x2000 everywhere (except for Bookwalker Web where it is x1500).
 7. ~x2300 for newer (~post mid-2021) releases, but ~x1600 for older releases. Same quality no matter where you buy.
 8. Older titles are low quality, recent titles are decent quality. Apple Books has the highest quality.
+9. Amazon Viz books are generally upscaled, especially older books (pre-HD-demise as mentioned up above). Some books can still be much lower res natively (e.g. x1500 for certain Viz Select volumes) than what's mentioned here.
 :::
 
 ## Chapters
