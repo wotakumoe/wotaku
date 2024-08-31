@@ -30,7 +30,7 @@ outline: 1
       <li>Has built-in AniList support.</li>
     </ul>
   </tooltip>
-- [HiAnime](https://hianime.to/home) 
+- [HiAnime](https://hianime.to/home) <Badge type="info" text="Proxies" link="https://hianime.tv/" />
   <tooltip>
     <ul>
       <li>Huge library.</li>
