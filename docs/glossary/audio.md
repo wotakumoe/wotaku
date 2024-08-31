@@ -17,16 +17,16 @@ outline: [1,2]
 
 # Basic Terms
 
-### Audio File
+## Audio File
 | Terms | Details |
 | ---- | ---- |
 | Bitrate | The bitrate of an audio file is the number of bits of audio data stored per second, which can be variable or constant based on the encoding. [**Learn more :mdi-arrow-top-right:**](#bit-rate) |
-| Lossy | Lossy codecs aim to make file sizes small, even if it means compromising in quality. Quality of the sound varies wildly between formats and bitrates, with higher bitrates sounding better. Beyond the transparency level, everything will sound the same. [**Learn more :mdi-arrow-top-right:**](#lossy) |
+| Lossy | Lossy codecs aim to make file sizes small, even if it means compromising in quality. Quality of the sound varies wildly between formats and bitrates, with higher bitrates sounding better. Beyond the [transparency threshold](#transparency-threshold), everything will sound the same. [**Learn more :mdi-arrow-top-right:**](#lossy) |
 | Lossless | Lossless, also known as lossless compression, which is compression that preserves all data from the source file. Lossless compression is completely indistinguishable from the source file. [**Learn more :mdi-arrow-top-right:**](#uncompressed-lossless) |
 | Spectrogram | A measure of frequency density over time. A spectrogram can be viewed as a graph, with frequency density represented by color. The spectrogram can be used to scrutinize the quality of an encoding. [**Learn more :mdi-arrow-top-right:**](#spectrogram) |
 
 
-### Release
+## Release
 | Terms | Details |
 | ---- | ---- |
 | Single | A music release containing 1 or 2 songs. |
@@ -37,7 +37,7 @@ outline: [1,2]
 | Compilation | An album compiling tracks from different recordings of one or multiple aritsts. |
 | Label | A company that publishes, distributes and promotes the music of their affiliated artists. The three biggest are [**Sony**](https://en.wikipedia.org/wiki/Sony_Music_Group), [**Universal**](https://en.wikipedia.org/wiki/Universal_Music_Group) & [**Warner**](https://en.wikipedia.org/wiki/Warner_Music_Group). |
 
-### Hardware
+## Hardware
 | Terms | Details |
 | ---- | ---- |
 | IEM | Short for “In Ear Monitor”. These are much like earbuds, however, they have nozzles and tips attached to the end where audio comes out. This makes it such that the “monitor”, or speaker, goes “in ear”. Earbuds, alternatively, will rest on the ear canal without actually going in. The benefit of an IEM is that it creates a seal within your ear, which can allow for the bass response to be maintained much easier. [**Learn more :mdi-arrow-top-right:**](#in-ear-monitor)  |
@@ -46,7 +46,7 @@ outline: [1,2]
 | Speaker | Speakers shoot sound out towards the user. They consist of a subwoofer, woofer and tweeter. The subwoofer is usually disconnected from the woofer and tweeter pairing. [**Learn more :mdi-arrow-top-right:**](#speaker) |
 
 
-### Tools
+## Tools
 
 | Terms | Details |
 |-|-|
@@ -228,7 +228,7 @@ Lossless refers to lossless compression, which is compression that preserves all
 ### Lossy
 Lossy compression, also known simply as lossy, is a data compression technique that reduces file size by selectively removing or approximating some of the original data from the source file. While this process discards certain information, modern algorithms are designed to do so in a way that minimizes perceptible differences from the original, making it nearly indistinguishable in quality for most users at certain bitrates. Common formats utilizing lossy compression include MP3, AAC, and OPUS.
 
-::: tip Transparency
+#### Transparency Threshold
 Transparency means that the compression of the original file is accurate to a degree such that a listener can't distinguish between the compressed and original files. The level or threshold of transparency depends on listerns hearing ability, hardware, and the compression method. Since it's based on hearing ability, transparency is very subjective. The more efficient the codec is, the better it will sound **below its perceptually transparent bitrate**. In general, encoding quality follows the trend Opus > AAC ≈ Vorbis > MP3. The bit rates at which lossy audio files become transparent are subjective but the following are common choices of bitrates:
 
 
@@ -240,7 +240,6 @@ Transparency means that the compression of the original file is accurate to a de
 | MP3 (CBR) | 256kbps (Joint Stereo Encoding) - 320kbps (Full Stereo Encoding)         |
 | MP3 (VBR) | Between -V3 and -V0 |
 
-:::
 
 ## Spectrogram
 
@@ -452,7 +451,7 @@ Transcoding audio to higher [bit rate](#bit-rate), [bit depth](#bit-depth) or [s
 |:-:|:-:|-|
 | UL | CL | Uncompressed lossless (CBR) files are converted into compressed lossless (VBR) files to decrease the file size significantly. |
 | CL | CL | This sort of conversion is usually only performed for compatibility reasons. It’s also common to perform a transcode like this if the user wanted to decrease the sample rate/bit depth of a file. Converting from one sample rate/bit depth to another will induce a slight detail loss. For more information on why this happens, see [**Spectrogram**](#spectrogram). The section under FLAC 16/44.1 expands on this phenomenon.|
-| UL/CL | L | Transcoding from a lossless source to a lossy format is done to save space. To ensure quality, it's best to keep your audio above your transparency level or standard bit rates, such as MP3 320, MP3 V0, or Opus 256. |
+| UL/CL | L | Transcoding from a lossless source to a lossy format is done to save space. To ensure quality, it's best to keep your audio above your [transparency threshold](#transparency-threshold) or standard bit rates, such as MP3 320, MP3 V0, or Opus 256. |
 
 :::
 
