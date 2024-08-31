@@ -24,6 +24,7 @@ outline: [1,2]
   - [Adguard](https://adguard.com/en/welcome.html) :glowing-star: :mdi-android::ic-baseline-apple:
   - [Adaway](https://adaway.org/) :mdi-android:
   - [RethinkDNS](https://rethinkdns.com/) :mdi-android:
+  - [Private DNS Quick Toggle](https://github.com/karasevm/PrivateDNSAndroid) :mdi-android:
 - **DNS**
   - [NextDNS](https://nextdns.io/) :mdi-android::ic-baseline-apple:
   - [Adguard DNS](https://adguard-dns.io/en/welcome.html) :mdi-android::ic-baseline-apple:
