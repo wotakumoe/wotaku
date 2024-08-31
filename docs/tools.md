@@ -313,6 +313,7 @@ outline: [1,2]
 
 
 ## General
+- [Better Lyrics](https://better-lyrics.boidu.dev/) [:mdi-github:](https://github.com/boidushya/better-lyrics)
 - [Buster](https://github.com/dessant/buster)
 - [ClearURLs](https://docs.clearurls.xyz/)
 - [FastForward](https://fastforward.team/)
