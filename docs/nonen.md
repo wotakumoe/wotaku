@@ -537,9 +537,12 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Manga Crab](https://mangacrab.com/)
 - [Notasanime](https://ver.notasanime.me/)
 
+### Others
+- [Kudasai](https://somoskudasai.com/) <Badge type="info" text="News" />
+
 ### Software
 
-### Android
+#### Android
 
 | Category | Resources |
 |-|-|
@@ -571,8 +574,9 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Manga.in.ua](https://manga.in.ua/)
 - [Zenko](https://zenko.online/)
 
-### Asian
+### Others
 - [BambooUA](https://bambooua.com/)
+- [Hikka](https://hikka.io/)
 
 
 ## Vietnamese
