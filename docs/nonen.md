@@ -77,6 +77,9 @@ If you have recommendations for good sites in your native language or want to re
 ### Manga
 - [Manga Balkan](https://mangabalkan.org/)
 
+### Others
+- [Potamanime](https://potamanime.rs/) <Badge type="info" text="News" />
+
 
 ## Bangla
 
