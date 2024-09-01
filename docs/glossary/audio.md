@@ -34,7 +34,7 @@ outline: [1,2]
 | EP | Extended Play, a release usually containing 4 to 6 tracks.  |
 | LP | Long Play, a full album release usually containing 10 to 12 tracks. |
 | Album | An album is a collection of songs, either by a singular artist, vocalist, producer, or label. Sometimes, albums can even be compilations of multiple unrelated parties.  |
-| Compilation | An album compiling tracks from different recordings of one or multiple aritsts. |
+| Compilation | An album compiling tracks from different recordings of one or multiple artists. |
 | Label | A company that publishes, distributes and promotes the music of their affiliated artists. The three biggest are [**Sony**](https://en.wikipedia.org/wiki/Sony_Music_Group), [**Universal**](https://en.wikipedia.org/wiki/Universal_Music_Group) & [**Warner**](https://en.wikipedia.org/wiki/Warner_Music_Group). |
 
 ## Hardware
@@ -80,7 +80,7 @@ PCM (Pulse Code Modulation) is the most widely used audio encoding method. It in
 ::: details Direct Stream Digital (DSD)
 Direct Stream Digital (DSD), a product developed by [Sony & Philips](https://www.sony.net/Products/DSD/), is known for its high-resolution audio quality. However, DSD files are relatively rare due to their low popularity. Several factors contribute to this, including their huge file size, the difficulty in mastering and editing during production, and the greater efficiency of PCM files in various aspects.
 
-DSD is an audio encoding method that uses 1-bit delta-sigma modulation. It samples the audio signal at a very high samplerate, representing changes in signal density rather than amplitude levels, and has only 1 bit of amplitude. The most popular DSD standard is .dsf, but there are other standards as well.
+DSD is an audio encoding method that uses 1-bit delta-sigma modulation. It samples the audio signal at a very high sample rate, representing changes in signal density rather than amplitude levels, and has only 1 bit of amplitude. The most popular DSD standard is .dsf, but there are other standards as well.
 
 ![Analog Signal, PCM & DSD](https://www.sony.net/Products/DSD/images/img_1_en.png)
 
@@ -134,7 +134,7 @@ Higher sampling rates are often desirable by producers as it allows them modify 
 
 
 ::: details Dithering
-Dithering is a process used when converting from different bit widths. Converting raw audio data to a different bit width will induce quantization errors during the conversion process. These are errors caused by averaging amplitudes. A dither signal can be applied to the audio before conversion, which is effectively noise. While noise may seem undesireable, it actually improves the quantization and signfigantly reduces the errors during the conversion. The noise is not percievable to humans, and does not effect the quality of a mix whatsoever.
+Dithering is a process used when converting from different bit widths. Converting raw audio data to a different bit width will induce quantization errors during the conversion process. These are errors caused by averaging amplitudes. A dither signal can be applied to the audio before conversion, which is effectively noise. While noise may seem undesirable, it actually improves the quantization and significantly reduces the errors during the conversion. The noise is not perceivable to humans, and does not effect the quality of a mix whatsoever.
 :::
 
 ::: details Nyquist–Shannon Sampling Theorem
@@ -229,7 +229,7 @@ Lossless refers to lossless compression, which is compression that preserves all
 Lossy compression, also known simply as lossy, is a data compression technique that reduces file size by selectively removing or approximating some of the original data from the source file. While this process discards certain information, modern algorithms are designed to do so in a way that minimizes perceptible differences from the original, making it nearly indistinguishable in quality for most users at certain bitrates. Common formats utilizing lossy compression include MP3, AAC, and OPUS.
 
 #### Transparency Threshold
-Transparency means that the compression of the original file is accurate to a degree such that a listener can't distinguish between the compressed and original files. The level or threshold of transparency depends on listerns hearing ability, hardware, and the compression method. Since it's based on hearing ability, transparency is very subjective. The more efficient the codec is, the better it will sound **below its perceptually transparent bitrate**. In general, encoding quality follows the trend Opus > AAC ≈ Vorbis > MP3. The bit rates at which lossy audio files become transparent are subjective but the following are common choices of bitrates:
+Transparency means that the compression of the original file is accurate to a degree such that a listener can't distinguish between the compressed and original files. The level or threshold of transparency depends on the listeners hearing ability, hardware, and the compression method. Since it's based on hearing ability, transparency is very subjective. The more efficient the codec is, the better it will sound **below its perceptually transparent bitrate**. In general, encoding quality follows the trend Opus > AAC ≈ Vorbis > MP3. The bit rates at which lossy audio files become transparent are subjective but the following are common choices of bitrates:
 
 
 | Codec | Transparency Threshold |
@@ -374,7 +374,7 @@ As mentioned before data in `.ogg` container are divided in multiple pages. Thes
 
 1. **Capture pattern / Sync code:**  This number used to ensure sync when parsing `.ogg` file. Also assists in resyncing a parser in cases where data has been lost or is corrupted.
 2. **Version:** The version of the Ogg bitstream format.
-3. **Header type:** It incdicates whether the packet is the begining or ending of the data stream or continuetion after the previous packet.
+3. **Header type:** It indicates whether the packet is the beginning or ending of the data stream or continuation after the previous packet.
 4. **Granule position:** It is the time marker by the codec which shows the number of samples and/or other data.
 5. **Bitstream serial number:** This is a unique number that identifies a page as belonging to a particular bitstream.
 6. **Page sequence number:** This gives every page a chronological number which starts from 0.
