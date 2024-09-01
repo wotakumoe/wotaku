@@ -199,9 +199,10 @@ If you have recommendations for good sites in your native language or want to re
 ### Anime
 
 - [German Fansubbers' Index](https://anime-fansubs.de/)
-- [AniWorld](https://aniworld.to/) <Badge type="info" text="Stream" />
+- [Amalgam Fansubs](https://amalgam-fansubs.moe/) <Badge type="info" text="Stream" /><Badge type="info" text="DDL" />
 - [Anime Archive](https://anime-archive.com/) <Badge type="info" text="DDL" />
 - [Anime Loads](https://www.anime-loads.org/) <Badge type="info" text="Stream" /><Badge type="info" text="DDL" />
+- [AniWorld](https://aniworld.to/) <Badge type="info" text="Stream" />
 - [Hanashi](https://www.hanashi.to/) <Badge type="info" text="Stream" />
 - [Melon-Subs](https://melon-subs.de/) <Badge type="info" text="DDL" />
 - [NanaOne](https://nanaone.net/) <Badge type="info" text="DDL" />
