@@ -56,7 +56,7 @@ ___
 - Select the file or folder you wanna upload.
 - You should adjust the piece size in order to keep the piece count between 1000 and 2000.
 - Depending on your tracker, check the Private tracker option.
-- Check **Optimize Allignment** and keep it **Disabled**
+- Check **Optimize Alignment** and keep it **Disabled**
 - Add your announce URL given by the tracker in **Tracker URLs**. For public trackers, it's the same for everyone. For PTs, you get a personal announce URL, which you should keep private. Note that you should only add the announce URLs for the specific tracker you are uploading to. If one tracker has multiple announce URLs, add each in a new line.
 - Comment field gets filled by the tracker with the exact torrent URL.
 - Source field can have a tracker-specific requirement, or it can be fully optional.
@@ -71,7 +71,7 @@ After submitting your torrent with the **.torrent**,
 - Download the **.torrent** file from the new generated page.
 - Open the **.torrent** and set the download destination where the file/folder is kept
 
-qBittorent will check the file/folder and start seeding.
+qBittorrent will check the file/folder and start seeding.
 :::
 
 ## VPN Binding
@@ -80,10 +80,10 @@ VPN binding is used so that your client only leeches and seeds through your desi
 ___
 
 #### Steps
-- Press `Alt + O` to open settings and then go to **Advanded** section.
+- Press `Alt + O` to open settings and then go to **Advanced** section.
 - Click on the value of **Network Interface**
 - Select your desired VPN interface
-- Hit **OK** and restart qBittorent.
+- Hit **OK** and restart qBittorrent.
 
 ::: details Image preview
 ![](/ss/qbit/bind.png)

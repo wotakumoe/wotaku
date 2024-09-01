@@ -50,7 +50,7 @@ outline: 1
   <tooltip>
     <ul>
       <li>Good for new airing.</li>
-      <li>Re-enocded to smaller filesize.</li>
+      <li>Re-encoded to smaller filesize.</li>
       <li>Only 1080p atm for most.</li>
       <li>Site can go down.</li>
       <li>Also smaller library size.</li>

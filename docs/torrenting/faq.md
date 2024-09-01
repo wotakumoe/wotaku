@@ -27,7 +27,7 @@ There are a few listed in [**software page**](/software.md#anime-streaming-2). [
 :::
 
 :::details Why is my torrent not downloading?
-There are a few possible causes: the torrent currently has 0 seeders, it has 1 seeder with a bad/limited connection, or you have bad peering (which could be fixed by using a seedbox or VPN). In the case of 0 or bad seeders, you will have to wait for a new seeder to join, or check if a deebrid service has the torrent cached.
+There are a few possible causes: the torrent currently has 0 seeders, it has 1 seeder with a bad/limited connection, or you have bad peering (which could be fixed by using a seedbox or VPN). In the case of 0 or bad seeders, you will have to wait for a new seeder to join, or check if a debrid service has the torrent cached.
 
 :::
 

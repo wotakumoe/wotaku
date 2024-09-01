@@ -211,7 +211,7 @@ In general printing, halftones refer to the technique of using different sized d
 #### **Artist-side**
 Artists often overlap two or more pattern to create a new pattern. Although it's technically moiré, it's an intended effect, thus when we talk about moiré, we focus more on the uneven or the unintentional ones. Moiré can also happen if the artist uses higher frequency of halftone during drawing since those can't be printed with 100% scale or published digitally.
 
-![Moié vs Non-Moiré Pattern Comparison](/glossary/manga/artistside.png)
+![Moiré vs Non-Moiré Pattern Comparison](/glossary/manga/artistside.png)
 
 <br>
 

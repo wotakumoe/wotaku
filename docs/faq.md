@@ -100,7 +100,7 @@ Rippers upload what they like, without following any specific schedule (even in 
 [**Perfect viewer**](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer). Why? Because it has better scaling algorithm than others (including tachiyomi / mihon and kotatsu). But you wont get the luxury of directly reading from online sources in Perfect viewer. So, you have to balance between the sources.
 
 ### iOS
-[**YACReader**](https://apps.apple.com/app/id635717885) is recommened as local reader. You can use [Paperback](https://github.com/Paperback-iOS/app) as your komga or kavita client and [Aidoku](https://github.com/Aidoku/Aidoku) as an online reader.
+[**YACReader**](https://apps.apple.com/app/id635717885) is recommended as local reader. You can use [Paperback](https://github.com/Paperback-iOS/app) as your komga or kavita client and [Aidoku](https://github.com/Aidoku/Aidoku) as an online reader.
 
 ### PC
 There are a few options. [**CDisplayEx**](https://www.cdisplayex.com/), [**YACReader**](https://www.yacreader.com/), [**MComix**](https://sourceforge.net/projects/mcomix/files/). You should give them a try and see which ones works the best for you. There is also [**OpenComic**](https://github.com/ollm/OpenComic) which is really good for long strip comic.
