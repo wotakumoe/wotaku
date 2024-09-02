@@ -56,11 +56,17 @@ outline: 1
       <li>Also smaller library size.</li>
     </ul>
   </tooltip>
+- [AniPulse](https://www.anipulse.to/) 
+  <tooltip>
+    <ul>
+      <li>Gogo, Zoro Scraper.</li>
+      <li>Has own uploaded releases too for various series. Re-encoded to smaller filesize.</li>
+    </ul>
+  </tooltip>
 - [Animepahe](https://animepahe.ru/) `mini-encode` <Badge type="tip" text="2" link="https://animepahe.com/" /><Badge type="tip" text="3" link="https://animepahe.org" />
   <tooltip>
     <ul>
       <li>Uploads mini encoded files, best if you want smaller files or have low bandwidth.</li>
-      <li>Uploads Blu-ray and DVD versions if available.</li>
       <li>Has a good amount of missing titles.</li>
       <li>Some titles don't get regular update.</li>
     </ul>
