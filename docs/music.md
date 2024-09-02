@@ -147,8 +147,9 @@ outline: 1
 
 ## Anime
 - [Anime(bits)](https://radio.animebits.moe/) <Badge type="info" icon="i-material-symbols-download-2" text="FLAC" link="https://radio.animebits.moe/m3u/stream192.mp3.m3u" />
-- [Anison.fm](https://en.anison.fm/) :glowing-star: <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="https://anison.fm/anison.m3u" /> :flag-russia:
+- [Anison.fm](https://en.anison.fm/) :glowing-star: <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="https://anison.fm/anison.m3u" /> :flag-united-kingdom: :flag-russia:
 - [chiru.no](https://chiru.no/) <Badge type="info" icon="i-material-symbols-download-2" text="FLAC" link="https://chiru.no/?chiru.no.m3u" />
+- [Greek Otaku Radio](https://goradio.gr/homepage) <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="http://192.99.4.210:2199/tunein/greekota.pls" /> :flag-united-kingdom: :flag-greece:
 - [JPopSuki](http://jpopsuki.fm/) <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="http://jpopsuki.fm:2199/tunein/jpopsuki-stream.pls" />
 - [Listen.moe](https://listen.moe/) <Badge type="info" text="128kbps" icon="i-material-symbols-download-2" link="https://listen.moe/m3u8/jpop.m3u" />
 - [R/a/dio](https://r-a-d.io/) <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://r-a-d.io/assets/main.mp3.m3u" />
@@ -332,6 +333,7 @@ outline: 1
 - [ReFreezer](https://github.com/DJDoubleD/refreezer) :mdi-android: `Deezer` 
 - [Echo](https://github.com/brahmkshatriya/echo) :mdi-android: `General`
 - [Soundbound](https://soundbound.app/) :mdi-android: `General`
+- [Transistor](https://codeberg.org/y20k/transistor) :mdi-android: `Radio`
 
 ### Audiobook
 - [Voice](https://github.com/PaulWoitaschek/Voice) :mdi-android:
