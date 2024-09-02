@@ -23,6 +23,7 @@ outline: 1
 
 ### Anime
 - [aniDB](https://anidb.net/) :glowing-star:
+- [AnimeSongs.org](https://animesongs.org/)
 - [Annict](https://annict.com/)
 - [Aniplaylist](https://aniplaylist.com/)
 - [SIMKL](https://simkl.com/)
@@ -495,6 +496,7 @@ outline: 1
 - [AniGuessr](https://aniguessr.com/)
 - [Anicheck](https://anicheck.moe/) [:mdi-github:](https://github.com/gubo97000/aniCheck)
 - [Anime Music Quiz](https://animemusicquiz.com/)
+- [AnimeSongs Quiz](https://quiz.animesongs.org/)
 - [AnimeGuess](https://www.animeguess.moe/)
 - [Animerdle](https://www.animerdle.com/)
 - [Anipool](https://www.anipool.app/)
