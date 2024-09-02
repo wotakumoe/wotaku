@@ -159,8 +159,9 @@ outline: 1
 - [AnimeRadio.de](https://www.animeradio.de/) <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://www.animeradio.de/streams/animeradio.mp3.m3u" /> :flag-germany:
 - [Japanradio.de](https://japanradio.de/) <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://japanradio.de/player/japanradio.m3u" /> :flag-germany:
 - [Kibo.FM](https://kibo.fm/) <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://kibo.fm/kibo.m3u" /> :flag-germany:
-- [Rádio Animu](https://www.animu.com.br/) <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="http://yp.shoutcast.com/sbin/tunein-station.m3u?id=99545187" /> :flag-brazil:
 - [Radio Anime24](https://www.radioanime24.pl/) <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="https://www.radioanime24.pl/Radio-Anime24.pls" /> :flag-poland:
+- [Rádio Animu](https://www.animu.com.br/) <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="http://yp.shoutcast.com/sbin/tunein-station.m3u?id=99545187" /> :flag-brazil:
+- [Rádio J-Hero](https://radiojhero.com/) <Badge type="info" icon="i-material-symbols-download-2" text="96kbps" link="https://radiojhero.com/ouvir/radiojhero.m3u" /> :flag-brazil:
 - [Stereo Anime](https://www.stereoanime.net/) <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="http://yp.shoutcast.com/sbin/tunein-station.m3u?id=99543276" /> :flag-spain:
 
 ## Doujin & Vocaloid
