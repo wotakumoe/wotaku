@@ -175,7 +175,7 @@ outline: 1
 - [Zerochan](https://www.zerochan.net/) <Badge type="green" text="SFW" />
 
 ## Sakuga
-- [Sakuga Booru](https://www.sakugabooru.com/) :glowing-star:  <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/khmnmdaghmhkcbooicndamlhkcmpklmc" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/sakuga-extended/" /><Badge type="green" text="SFW" />
+- [Sakuga Booru](https://www.sakugabooru.com/) :glowing-star:  [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/khmnmdaghmhkcbooicndamlhkcmpklmc)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/sakuga-extended/)<Badge type="green" text="SFW" />
 - [Sakuga.video](https://sakuga.video/)
 - [ArtSakuga](https://x.com/artsakuga) :mdi-twitter:
 - [D.K.](https://x.com/DanKantori) :glowing-star: :mdi-twitter:
@@ -353,13 +353,13 @@ outline: 1
 
 ## Extensions
 
-- [Holodex+](https://github.com/HolodexNet/Holodex-Plus) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/holodex-plus/mjcecbpccklceljomllkhilglcdcncbh" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/holodex-plus/" />
-- [HoloSongs](https://github.com/themintchoco/holosongs) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/holosongs/ipibfcnlipdkimfmajnddpboejkocplf" />
-- [HoloSchedule](https://github.com/YunzheZJU/holo-schedule) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/holoschedule/fjicegllhddldnnkgfefblholeegpcad" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/holo-schedule/" />
-- [HyperChat](https://livetl.app/hyperchat) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/hyperchat-improved-youtub/naipgebhooiiccifflecbffmnjbabdbh" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/hyperchat/" />
-- [TTV LOL PRO](https://github.com/younesaassila/ttv-lol-pro) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chrome.google.com/webstore/detail/ttv-lol-pro/bpaoeijjlplfjbagceilcgbkcdjbomjd" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/addon/ttv-lol-pro/" />
+- [Holodex+](https://github.com/HolodexNet/Holodex-Plus) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/holodex-plus/mjcecbpccklceljomllkhilglcdcncbh)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/holodex-plus/)
+- [HoloSongs](https://github.com/themintchoco/holosongs) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/holosongs/ipibfcnlipdkimfmajnddpboejkocplf)
+- [HoloSchedule](https://github.com/YunzheZJU/holo-schedule) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/holoschedule/fjicegllhddldnnkgfefblholeegpcad)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/holo-schedule/)
+- [HyperChat](https://livetl.app/hyperchat) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/hyperchat-improved-youtub/naipgebhooiiccifflecbffmnjbabdbh)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/hyperchat/)
+- [TTV LOL PRO](https://github.com/younesaassila/ttv-lol-pro) [:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/ttv-lol-pro/bpaoeijjlplfjbagceilcgbkcdjbomjd)[:mdi-firefox:](https://addons.mozilla.org/addon/ttv-lol-pro/)
   - :material-symbols-subdirectory-arrow-right: More [Twitch Ad Solutions](https://github.com/pixeltris/TwitchAdSolutions/blob/master/full-list.md)
-- [ytcFilter](https://github.com/LiveTL/ytcfilter) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/ytcfilter/mnldnbhgfocmkehnlkeanlhfmopepnko" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/ytcfilter/" />
+- [ytcFilter](https://github.com/LiveTL/ytcfilter) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/ytcfilter/mnldnbhgfocmkehnlkeanlhfmopepnko)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/ytcfilter/)
 
 
 ## VTuber Assets

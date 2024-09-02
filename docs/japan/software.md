@@ -98,11 +98,11 @@ outline: [2,3]
 - [jidoujisho](https://github.com/lrorpilla/jidoujisho) :glowing-star:
 - [Kakugo](https://play.google.com/store/apps/details?id=org.kaqui) [:mdi-github:](https://github.com/blastrock/kakugo)
 - [KankenToNews](https://play.google.com/store/apps/details?id=jp.kyoto.nlp.kanken)
-- [Kanji Garden](https://play.google.com/store/apps/details?id=is.ky.kanjigarden) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://kanji.garden/" />
+- [Kanji Garden](https://play.google.com/store/apps/details?id=is.ky.kanjigarden) [:mdi-earth:](https://kanji.garden/)
 - [Kanji Dojo](https://play.google.com/store/apps/details?id=ua.syt0r.kanji)
 - [Kata](https://play.google.com/store/apps/details?id=im.dacer.kata)
 - [kawaiiNihongo](https://play.google.com/store/apps/details?id=de.mardukcorp.kawaiinihongo)
-- [renshuu](https://play.google.com/store/apps/details?id=com.renshuu.renshuu_org) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://www.renshuu.org/" />
+- [renshuu](https://play.google.com/store/apps/details?id=com.renshuu.renshuu_org) [:mdi-earth:](https://www.renshuu.org/)
 - [Textbender](https://github.com/fruitports/android-textbender)
 - [Vocal Pitch Monitor](https://play.google.com/store/apps/details?id=com.tadaoyamaoka.vocalpitchmonitor)
 
@@ -111,27 +111,27 @@ outline: [2,3]
 - [Learn Japanese! - Kanji](https://apps.apple.com/us/app/learn-japanese-kanji/id1078107994)
 - [KankenToNews](https://apps.apple.com/us/app/kankentonews/id1449966937)
 - [Kana - Hiragana and Katakana](https://apps.apple.com/us/app/kana-hiragana-and-katakana/id1454200955)
-- [Kanji Garden](https://apps.apple.com/us/app/kanji-garden-japanese/id1338967114) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://kanji.garden/" />
+- [Kanji Garden](https://apps.apple.com/us/app/kanji-garden-japanese/id1338967114) [:mdi-earth:](https://kanji.garden/)
 - [kawaiiNihongo](https://apps.apple.com/us/app/kawaiinihongo-learn-japanese/id1015333181)
 - [Real Kana](https://apps.apple.com/us/app/real-kana/id343807473)
-- [renshuu](https://apps.apple.com/us/app/renshuu-japanese-learning/id1542730063) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://www.renshuu.org/" />
+- [renshuu](https://apps.apple.com/us/app/renshuu-japanese-learning/id1542730063) [:mdi-earth:](https://www.renshuu.org/)
 
 ### Reader
 
 #### Android
 - [jidoujisho](https://github.com/lrorpilla/jidoujisho) :glowing-star:
-- [Easy Japanese](https://play.google.com/store/apps/details?id=mobi.eup.jpnews) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://easyjapanese.net/" />
+- [Easy Japanese](https://play.google.com/store/apps/details?id=mobi.eup.jpnews) [:mdi-earth:](https://easyjapanese.net/)
 - [OCR Manga Reader for Android](https://sourceforge.net/projects/ocrmangareaderforandroid/)
-- [Satori Reader](https://play.google.com/store/apps/details?id=com.braksoftware.SatoriReader) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://www.satorireader.com/" />
+- [Satori Reader](https://play.google.com/store/apps/details?id=com.braksoftware.SatoriReader) [:mdi-earth:](https://www.satorireader.com/)
 - [Write It! Japanese](https://play.google.com/store/apps/details?id=com.jernung.writeit.jpn)
 - [Typhon Reader](https://play.google.com/store/apps/details?id=net.zorgblub.typhon)
 
 
 #### Apple
-- [Easy Japanese](https://apps.apple.com/us/app/easy-japanese-news-%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/id1107177166) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://easyjapanese.net/" />
+- [Easy Japanese](https://apps.apple.com/us/app/easy-japanese-news-%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/id1107177166) [:mdi-earth:](https://easyjapanese.net/)
 - [Immersion Reader](https://reader.immersionkit.com/)
 - [Manabi Reader](https://reader.manabi.io/)
-- [Satori Reader](https://apps.apple.com/us/app/satori-reader/id1382950847) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://www.satorireader.com/" />
+- [Satori Reader](https://apps.apple.com/us/app/satori-reader/id1382950847) [:mdi-earth:](https://www.satorireader.com/)
 - [Write It! Japanese](https://apps.apple.com/us/app/write-it-japanese/id1268225663)
 
 

@@ -76,8 +76,8 @@ outline: [1,2]
 - [Webtooni](https://webtooni.net/en/)  <Badge type="tip" text="2" link="https://heytoon.net/en/" />
 
 ### Scanlators {open}
-- [The Blank](https://mangadex.org/group/d53b6ec6-bbbf-4fad-a254-2b7ddda84c2c/the-blank) :glowing-star: <Badge type="info" icon="i-octicon-globe" text="Web" link="https://theblank.net/" />
-- [Omega scans](https://mangadex.org/group/8295f3f9-7462-403b-8fc0-f93a6c245a5c/omegascans) :glowing-star: <Badge type="info" icon="i-octicon-globe" text="Web" link="https://omegascans.org/" />
+- [The Blank](https://mangadex.org/group/d53b6ec6-bbbf-4fad-a254-2b7ddda84c2c/the-blank) :glowing-star: [:mdi-earth:](https://theblank.net/)
+- [Omega scans](https://mangadex.org/group/8295f3f9-7462-403b-8fc0-f93a6c245a5c/omegascans) :glowing-star: [:mdi-earth:](https://omegascans.org/)
 - [Constellar Scans](https://constellarcomic.com/)
 - [Lunar Scans](https://lunarscan.org/)
 - [Acera the great](https://mangadex.org/group/ea35447d-5035-485f-8eda-841bafc4b215/acerathegreat)
@@ -157,9 +157,9 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 
 
 ### Downloader
-- [Hakuneko](https://github.com/manga-download/haruneko) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://hakuneko.download/" /><Badge type="info" text="Multi" />
+- [Hakuneko](https://github.com/manga-download/haruneko) [:mdi-earth:](https://hakuneko.download/)<Badge type="info" text="Multi" />
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) <Badge type="info" text="Multi" /><Badge type="info" text="Anime" />
-- [HDoujin Downloader](https://github.com/HDoujinDownloader/HDoujinDownloader) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://doujindownloader.com/" /><Badge type="info" text="Multi" />
+- [HDoujin Downloader](https://github.com/HDoujinDownloader/HDoujinDownloader) [:mdi-earth:](https://doujindownloader.com/)<Badge type="info" text="Multi" />
 - [Hentai downloader](https://github.com/touno-io/hentai-downloader)<Badge type="info" text="E-Hentai" />
 - [E-Hentai Downloader](https://github.com/ccloli/E-Hentai-Downloader)<Badge type="info" text="E-Hentai" />
 - [nHentai](https://github.com/RicterZ/nhentai)<Badge type="info" text="nHentai" />

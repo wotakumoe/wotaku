@@ -264,13 +264,13 @@ outline: [1,2]
 
 ## Discord bots
 
-- [AniSearch](https://github.com/IchBinLeoon/anisearch-discord-bot) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://ichbinleoon.github.io/anisearch-discord-bot/#/" />
+- [AniSearch](https://github.com/IchBinLeoon/anisearch-discord-bot) [:mdi-earth:](https://ichbinleoon.github.io/anisearch-discord-bot/#/)
 - [Ryuuzaki Ryuusei](https://github.com/nattadasu/ryuuRyuusei)
 - [Yuuko](https://github.com/YuuCorp/Yuuko)
 - [MangaUpdates Bot](https://github.com/jckli/mangaupdates-bot)
 - [Manhwa Updates Bot](https://github.com/MooshiMochi/ManhwaUpdatesBot) :glowing-star:
 - [Rinbot](https://rinbot.moe/)
-- [Michelle](https://github.com/JacenBoy/michelle) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://michelle.jacenboy.com/" />
+- [Michelle](https://github.com/JacenBoy/michelle) [:mdi-earth:](https://michelle.jacenboy.com/)
 - Sneedex <Badge type="info" icon="i-ic-outline-discord" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" />
 - [Picsiv](https://github.com/jckli/picsiv)
 
@@ -280,35 +280,35 @@ outline: [1,2]
 # Extensions
 
 ## Anime
-- [Anime Watch Parties](https://github.com/Dragicafit/Anime-Watch-Parties/) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://animewatchparties.com/" /><Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chrome.google.com/webstore/detail/anime-watch-parties/goinehmnmhnoaepodbngfgdgjeibgelh/" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/" />
-- [Animepahe Plus](https://github.com/Cyan903/Animepahe-plus) <Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-CA/firefox/addon/animepahe-plus/" />
-- [Anime Skip Player](https://github.com/anime-skip/player) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://anime-skip.com/" /><Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chrome.google.com/webstore/detail/anime-skip/mgmdkjcljneegjfajchedjpdhbadklcf" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/anime-skip" />
-- [Aniskip](https://github.com/lexesjan/typescript-aniskip-extension) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chrome.google.com/webstore/detail/aniskip/npfcdmjgaocepmpdnmliimijgfjbgcdd" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/aniskip/" />
+- [Anime Watch Parties](https://github.com/Dragicafit/Anime-Watch-Parties/) [:mdi-earth:](https://animewatchparties.com/)[:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/anime-watch-parties/goinehmnmhnoaepodbngfgdgjeibgelh/)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/)
+- [Animepahe Plus](https://github.com/Cyan903/Animepahe-plus) [:mdi-firefox:](https://addons.mozilla.org/en-CA/firefox/addon/animepahe-plus/)
+- [Anime Skip Player](https://github.com/anime-skip/player) [:mdi-earth:](https://anime-skip.com/)[:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/anime-skip/mgmdkjcljneegjfajchedjpdhbadklcf)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/anime-skip)
+- [Aniskip](https://github.com/lexesjan/typescript-aniskip-extension) [:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/aniskip/npfcdmjgaocepmpdnmliimijgfjbgcdd)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/aniskip/)
 - [Crunchyroll With Better Seasons](https://github.com/Dragicafit/Crunchyroll-With-Better-Seasons)
-- Improve Crunchyroll <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-CA/firefox/addon/improve-crunchyroll/" />
-- [Streaming enhanced](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/streaming-enhanced-netfli/akaimhgappllmlkadblbdknhbfghdgle" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/netflix-prime-auto-skip/" />
-- Substital <Badge type="info" icon="i-octicon-globe" text="Web" link="https://substital.com/" /><Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/substital/" />
+- Improve Crunchyroll [:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh)[:mdi-firefox:](https://addons.mozilla.org/en-CA/firefox/addon/improve-crunchyroll/)
+- [Streaming enhanced](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/streaming-enhanced-netfli/akaimhgappllmlkadblbdknhbfghdgle)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/netflix-prime-auto-skip/)
+- Substital [:mdi-earth:](https://substital.com/)[:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/substital/)
 
 ## Manga
-- [All Manga Reader](https://gitlab.com/all-mangas-reader/all-mangas-reader-2) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://www.allmangasreader.com/" />
+- [All Manga Reader](https://gitlab.com/all-mangas-reader/all-mangas-reader-2) [:mdi-earth:](https://www.allmangasreader.com/)
 - [Image Max URL](https://github.com/qsniyg/maxurl)
-- [Similar Manga](https://github.com/similar-manga/similar) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg" />
+- [Similar Manga](https://github.com/similar-manga/similar) [:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg)
 
 
 ## Tracker
-- [MALSync](https://github.com/MALSync/MALSync) :glowing-star: <Badge type="info" icon="i-octicon-globe" text="Web" link="https://malsync.moe/" /><Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/mal-sync/" /> 
-- [MAL Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://hritikvaishnav.github.io/Project-Redesign/mal.html" /><Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chrome.google.com/webstore/detail/myanimelist-redesign/knegaeodgehajemjpfbhlgjdcloklkal" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/myanimelist-redesign/" />
+- [MALSync](https://github.com/MALSync/MALSync) :glowing-star: [:mdi-earth:](https://malsync.moe/)[:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/mal-sync/) 
+- [MAL Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned) [:mdi-earth:](https://hritikvaishnav.github.io/Project-Redesign/mal.html)[:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/myanimelist-redesign/knegaeodgehajemjpfbhlgjdcloklkal)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/myanimelist-redesign/)
 - [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler)
 
 
 ## Image
 - [Betterviewer](https://github.com/Ademking/Betterviewer)
-- [Booru Shinshi](https://github.com/kuanyui/BooruShinshi) <Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/booru-shinshi/" />
+- [Booru Shinshi](https://github.com/kuanyui/BooruShinshi) [:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/booru-shinshi/)
 - [Control Panel for Twitter](https://jbscript.dev/control-panel-for-twitter)
 - [Journey Buster 3](https://journeybuster.com/)
-- [KellyC Image Downloader](https://github.com/NC22/KellyC-Image-Downloader) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://kellydownloader.com/en/" /><Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chrome.google.com/webstore/detail/kellyc-image-downloader/mbhkdmjolnhcppnkldbdfaomeabjiofm" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/ru/firefox/addon/kellyc-favorites/" />
-- [Pixiv Batch Downloader](https://github.com/xuejianxianzun/PixivBatchDownloader) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://pixiv.download/" /><Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chrome.google.com/webstore/detail/powerful-pixiv-downloader/dkndmhgdcmjdmkdonmbgjpijejdcilfh" />
-- [Sakuga Extended](https://github.com/ftLoic/Sakuga-Extended) <Badge type="tip" icon="i-mingcute-chrome-fill" text="Chrome" link="https://chromewebstore.google.com/detail/khmnmdaghmhkcbooicndamlhkcmpklmc" /><Badge type="tip" icon="i-mdi-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/sakuga-extended/" />
+- [KellyC Image Downloader](https://github.com/NC22/KellyC-Image-Downloader) [:mdi-earth:](https://kellydownloader.com/en/)[:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/kellyc-image-downloader/mbhkdmjolnhcppnkldbdfaomeabjiofm)[:mdi-firefox:](https://addons.mozilla.org/ru/firefox/addon/kellyc-favorites/)
+- [Pixiv Batch Downloader](https://github.com/xuejianxianzun/PixivBatchDownloader) [:mdi-earth:](https://pixiv.download/)[:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/powerful-pixiv-downloader/dkndmhgdcmjdmkdonmbgjpijejdcilfh)
+- [Sakuga Extended](https://github.com/ftLoic/Sakuga-Extended) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/khmnmdaghmhkcbooicndamlhkcmpklmc)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/sakuga-extended/)
 - [Search by Image](https://github.com/dessant/search-by-image) :glowing-star:
 
 
