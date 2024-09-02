@@ -196,6 +196,7 @@ outline: 1
 - [Check Track Availability](https://spotify-check-track-availability.vercel.app/) [:mdi-github:](https://github.com/wcelery/spotify-check-track-availability)
 - [Chosic](https://www.chosic.com/) :glowing-star:
 - [Discover Quickly](https://discoverquickly.com/)
+- [Lyricpost](https://palinkiewicz.github.io/lyricpost/) [:mdi-github:](https://github.com/palinkiewicz/lyricpost)
 - [Musicalyst](https://musicalyst.com/)
 - [Playlist Sorter](https://www.playlistsorter.com/)
 - [Random Music Generator](https://random-song.com/)
