@@ -146,18 +146,21 @@ outline: 1
 - [Sasalele Music Station](https://github.com/Mikeexe2/Sasalele-Music-Station) [:mdi-github:](https://github.com/Mikeexe2/Sasalele-Music-Station) <Badge type="info" text="Compilation" />
 
 ## Anime
-- [Anison.fm](https://en.anison.fm/) :glowing-star: <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="https://anison.fm/anison.m3u" /> :flag-russia:
-- [Yggdrasil Radio](https://yggdrasilradio.com/) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://yggdrasilradio.net/yggdrasilradio_mp3_128kbps.pls" />
-- [R/a/dio](https://r-a-d.io/) <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://r-a-d.io/assets/main.mp3.m3u" />
 - [Anime(bits)](https://radio.animebits.moe/) <Badge type="info" icon="i-material-symbols-download-2" text="FLAC" link="https://radio.animebits.moe/m3u/stream192.mp3.m3u" />
-- [Listen.moe](https://listen.moe/) <Badge type="info" text="128kbps" icon="i-material-symbols-download-2" link="https://listen.moe/m3u8/jpop.m3u" />
+- [Anison.fm](https://en.anison.fm/) :glowing-star: <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="https://anison.fm/anison.m3u" /> :flag-russia:
 - [chiru.no](https://chiru.no/) <Badge type="info" icon="i-material-symbols-download-2" text="FLAC" link="https://chiru.no/?chiru.no.m3u" />
 - [JPopSuki](http://jpopsuki.fm/) <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="http://jpopsuki.fm:2199/tunein/jpopsuki-stream.pls" />
-- [Stereo Anime](https://www.stereoanime.net/) <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="http://yp.shoutcast.com/sbin/tunein-station.m3u?id=99543276" /> :flag-spain:
-- [AnimeRadio.de](https://www.animeradio.de/) <tooltip>Stream URL (192kbps) : https://stream.animeradio.de/animeradio.mp3</tooltip> :flag-germany:
+- [Listen.moe](https://listen.moe/) <Badge type="info" text="128kbps" icon="i-material-symbols-download-2" link="https://listen.moe/m3u8/jpop.m3u" />
+- [R/a/dio](https://r-a-d.io/) <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://r-a-d.io/assets/main.mp3.m3u" />
+- [Wapchan](https://wapchan.org/.static/pages/radio.html) <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://radio.wapchan.org/wapfm.m3u" />
+- [Yggdrasil Radio](https://yggdrasilradio.com/) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://yggdrasilradio.net/yggdrasilradio_mp3_128kbps.pls" />
+- [Yumi Co. Radio](https://yumicoradio.net/) <tooltip>Stream URL (256kbps) : https://yumicoradio.net/stream</tooltip> 
+- [AnimeRadio.de](https://www.animeradio.de/) <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://www.animeradio.de/streams/animeradio.mp3.m3u" /> :flag-germany:
+- [Japanradio.de](https://japanradio.de/) <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://japanradio.de/player/japanradio.m3u" /> :flag-germany:
 - [Kibo.FM](https://kibo.fm/) <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://kibo.fm/kibo.m3u" /> :flag-germany:
 - [Rádio Animu](https://www.animu.com.br/) <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="http://yp.shoutcast.com/sbin/tunein-station.m3u?id=99545187" /> :flag-brazil:
-- [Radio Anime24](https://www.radioanime24.pl/) <tooltip>Stream URL (320kbps) : http://91.232.4.33:7028</tooltip> :flag-poland:
+- [Radio Anime24](https://www.radioanime24.pl/) <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="https://www.radioanime24.pl/Radio-Anime24.pls" /> :flag-poland:
+- [Stereo Anime](https://www.stereoanime.net/) <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="http://yp.shoutcast.com/sbin/tunein-station.m3u?id=99543276" /> :flag-spain:
 
 ## Doujin & Vocaloid
 
