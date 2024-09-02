@@ -71,6 +71,14 @@ outline: 1
       <li>Some titles don't get regular update.</li>
     </ul>
   </tooltip>
+- [AniZone](https://anizone.to/)
+  <tooltip>
+    <ul>
+      <li>Re-encoded to smaller file size.</li>
+      <li>Very small library size.</li>
+      <li>Good for airing shows.</li>
+    </ul>
+  </tooltip>
 - [All Anime](https://allmanga.to/anime?tr=sub&cty=ALL) 
   <tooltip>
     <ul>
