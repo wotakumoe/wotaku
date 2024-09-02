@@ -365,6 +365,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [MKV Extract](https://qgustavor.github.io/mkv-extract/en/) :mdi-earth:
 - [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) :ic-baseline-window:
 - [mpvQC](https://github.com/mpvqc/mpvQC) :ic-baseline-window:
+- [StaxRip](https://github.com/staxrip/staxrip) :ic-baseline-window:
 - [Sushi.net](https://github.com/maxpiva/Sushi.Net) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [VapourSynth](https://www.vapoursynth.com/) :ic-baseline-window: [:mdi-github:](https://github.com/vapoursynth/vapoursynth)
   - :material-symbols-subdirectory-arrow-right: [VSDB](https://vsdb.top/)
