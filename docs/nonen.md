@@ -208,6 +208,7 @@ If you have recommendations for good sites in your native language or want to re
 - [NanaOne](https://nanaone.net/) <Badge type="info" text="DDL" />
 - [Shiroi-Fansubs](https://shiroi-fansubs.de/) <Badge type="info" text="DDL" />
 - [S.to](https://s.to/) <Badge type="info" text="Stream" />
+- [Umaru](https://www.umaru.to/home) <Badge type="info" text="Stream" />
 
 ### Manga
 - [ComicMafia](https://comicmafia.to/?s=manga) <Badge type="info" text="DDL" />
@@ -257,6 +258,7 @@ If you have recommendations for good sites in your native language or want to re
   - [ATOZ CARTOONIST](https://www.atozcartoonist.com/)
   - [Dead Toons India](https://deadtoons.us/)
   - [Puretoons](https://puretoons.in/)
+  - [Rare Toon India](https://raretoonindia.fun/)
   - [SDToons](https://sdtoons.in/)
   - [Toonhub4u](https://toonhub4u.net/)
   - [ToonsHub](https://www.toonshub.xyz/)
