@@ -285,6 +285,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Anitomy](https://github.com/erengy/anitomy)
 - [GetFnative](https://github.com/YomikoR/GetFnative) <Badge type="info" text="getfscaler" link="https://github.com/Jaded-Encoding-Thaumaturgy/getfscaler"/>
 - [Getnative](https://github.com/Infiziert90/getnative)
+- [Manami](https://github.com/manami-project/manami)
 - **Plex**
   - [Plex to AniList Sync](https://github.com/RickDB/PlexAniSync)
   - [PlexAniSync-Mappings](https://github.com/mizz141/PlexAniSync-Mappings)
