@@ -9,4 +9,5 @@ public
 node_modules
 .vitepress/dist
 .vitepress/cache
-*.md
+docs/**/*.md
+!docs/index.md

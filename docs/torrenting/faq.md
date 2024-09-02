@@ -1,5 +1,8 @@
-<GradientCard title="用語集" tag="FAQs" description="Common questions about torrenting" theme="turquoise"/>
+---
+exclude: true
+---
 
+<GradientCard title="用語集" tag="FAQs" description="Common questions about torrenting" theme="turquoise"/>
 
 :::details What does X term mean?
 

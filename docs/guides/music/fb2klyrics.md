@@ -1,4 +1,6 @@
-
+---
+exclude: true
+---
 
 # Foobar2000 Synced Lyrics
 
