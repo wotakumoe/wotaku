@@ -142,10 +142,10 @@ outline: 1
 ## General
 - [asia DREAM radio](https://asiadreamradio.torontocast.stream/stations/en/index.html) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://asiadreamradio.torontocast.stream/stations/newstream.html" />
 - [J1 Radio](https://www.j1fm.tokyo/player/j1hits/) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://www.j1fm.tokyo/listen/" />
-- [Patchwork Radio](https://patchwork.moekyun.me/radio) :glowing-star: <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://a4.asurahosting.com/public/patchworkarchive/playlist.m3u" /> <Badge type="info" text="VTuber" />
+- [Patchwork Radio](https://patchwork.moekyun.me/radio) :glowing-star: <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://a4.asurahosting.com/public/patchworkarchive/playlist.m3u" /><Badge type="info" text="VTuber" />
 - [Sasalele Music Station](https://github.com/Mikeexe2/Sasalele-Music-Station) [:mdi-github:](https://github.com/Mikeexe2/Sasalele-Music-Station) <Badge type="info" text="Compilation" />
-- [Wapchan](https://wapchan.org/.static/pages/radio.html) <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://radio.wapchan.org/wapfm.m3u" /> <Badge type="info" text="City Pop" />
-- [Yumi Co. Radio](https://yumicoradio.net/) <tooltip>Stream URL (256kbps) : https://yumicoradio.net/stream</tooltip> <Badge type="info" text="City Pop" />
+- [Wapchan](https://wapchan.org/.static/pages/radio.html) <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://radio.wapchan.org/wapfm.m3u" /><Badge type="info" text="City Pop" />
+- [Yumi Co. Radio](https://yumicoradio.net/) <Badge type="info" text="City Pop" /><tooltip>Stream URL (256kbps) : https://yumicoradio.net/stream</tooltip>
 
 ## Anime
 - [Anime(bits)](https://radio.animebits.moe/) <Badge type="info" icon="i-material-symbols-download-2" text="FLAC" link="https://radio.animebits.moe/m3u/stream192.mp3.m3u" />
