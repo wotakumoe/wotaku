@@ -152,7 +152,7 @@ FMD2 can't download 3 files at a time. For that use **JDL2**.
 
 ### JDownloader 2
 
-1. Download and install JDL2 from [**here**](/guides/misc.md#jdownloader-ad-removal)
+1. Download and install JDL2 from [**here**](/guides/tech/jdl)
 2. Go to `Settings > Basic Authentication` and click the **Add** button at the bottom
 3. Now add the details
     - Server type: `http://`
