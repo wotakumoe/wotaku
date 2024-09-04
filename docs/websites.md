@@ -63,7 +63,7 @@ outline: 1
       <li>Has own uploaded releases too for various series. Re-encoded to smaller filesize.</li>
     </ul>
   </tooltip>
-- [Animepahe](https://animepahe.ru/) `mini-encode` <Badge type="tip" text="2" link="https://animepahe.com/" /><Badge type="tip" text="3" link="https://animepahe.org" />
+- [Animepahe](https://animepahe.ru/) <Badge type="tip" text="2" link="https://animepahe.com/" /><Badge type="tip" text="3" link="https://animepahe.org" />
   <tooltip>
     <ul>
       <li>Uploads mini encoded files, best if you want smaller files or have low bandwidth.</li>
@@ -96,7 +96,6 @@ outline: 1
     </ul>
   </tooltip>
 
-
 :::details Scrapers
 
 ### Host Site
@@ -126,6 +125,15 @@ outline: 1
 ### Others
 - [One Pace](https://onepace.net/)  <Badge text="Stremio" link="https://github.com/au2001/onepace-stremio" />
 - [Pokémon TV](https://poke-tv.vercel.app/) [:mdi-github:](https://github.com/seiya-dev/pokemon-tv)
+- [Watch Cartoon Online](https://www.wco.tv/) <Badge text="2" link="https://www.wcofun.net/" /><Badge text="3" link="https://www.wcostream.tv/" /><Badge text="4" link="https://www.wcoforever.tv/" />
+  <tooltip>
+    <ul>
+      <li>Has both anime and cartoons.</li>
+      <li>Library size is pretty good including old stuff.</li>
+      <li>Uploads are compressed to mini-encode and low res.</li>
+      <li>Movie uploads are paywalled. You can bypass some using wco.tv.</li>
+    </ul>
+  </tooltip>
 - [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html)
 
 ### Donghua
