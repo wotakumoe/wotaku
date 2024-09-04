@@ -450,21 +450,22 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 - [AniDUB](https://anidub.pro/)
 - [AniFilm](https://anifilm.net/)
-- [AniFox](https://anifox.club/anime)
+- [AniFox](https://anifox.club/anime) <Badge type="info" text="Aggregator" />
 - [Anilibria](https://anilibria.top/) <Badge type="info" text="Sub" />
 - [AnimeBuff](https://animebuff.ru/) <Badge type="info" text="Sub" />
-- [AnimeGO](https://animego.org/) <Badge type="info" text="Sub" />
+- [AnimeGO](https://animego.org/) <Badge type="info" text="Aggregator" />
 - [Animelayer](http://animelayer.ru/) <Badge type="info" text="Torrent" />
-- [AnimeLIB](https://animelib.me)
+- [AnimeLIB](https://animelib.me) <Badge type="info" text="Aggregator" />
 - [Anime Player](https://anime.semolik.ru/) [:mdi-github:](https://github.com/Semolik/AnimePlayer)
-- [AnimeStars](https://animestars.org/) <Badge type="info" text="Sub" />
-- [ANIXART](https://anixart-tv.org/) <Badge type="info" text="Sub" />
+- [AnimeStars](https://animestars.org/) <Badge type="info" text="Aggregator" />
+- [ANIXART](https://anixart-tv.org/) <Badge type="info" text="Aggregator" />
 - [Averlist](https://averlist.ru/) [:mdi-github:](https://github.com/Averito/Averlist)
 - [Dark Libria](https://darklibria.it/) <Badge type="info" text="Stream" /><Badge type="info" text="Torrent" />
 - [Dream Cast](https://dreamerscast.com/)
 - [Freedub Studio](https://freedubstudio.club/)
 - [Jut.su](https://jut.su/) <Badge type="info" text="Helper" link="https://github.com/Xeltone/Jut.su-Helper" />
 - [Kage Project](http://fansubs.ru/) <tooltip>Subtitle files only, you need to get the episodes from another source.</tooltip>
+- [MAL to Kodik](https://mal-to-kodik.github.io/) <Badge type="info" text="Aggregator" />
 - [Shiza Project](https://shiza-project.com/)
 - [SovetRomantica](https://sovetromantica.com/) <Badge type="info" text="Sub" />
 - [Tunime](https://an0ncer.github.io/) [:mdi-github:](https://github.com/AN0NCER/an0ncer.github.io)<Badge type="info" text="Sub" />
@@ -616,7 +617,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Sonako Light Novel Wiki](https://sonako.fandom.com/vi/wiki/Sonako_Light_Novel)
 - [SSTruyen](https://sstruyen.vn/)
 - [Truyen Full](https://truyenfull.io/)
-- [TruyenYY](https://truyenyy.pro/) <Badge type="info" text="Needs account" />
 
 ### Others
 - [Tokuvn](https://tokuvn.com/)
