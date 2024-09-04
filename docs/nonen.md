@@ -460,7 +460,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [AnimeStars](https://animestars.org/) <Badge type="info" text="Sub" />
 - [ANIXART](https://anixart-tv.org/) <Badge type="info" text="Sub" />
 - [Averlist](https://averlist.ru/) [:mdi-github:](https://github.com/Averito/Averlist)
-- [Dark Libria](https://darklibria.it/) <Badge type="info" text="Stream" /><Badge type="info" text="DDL" />
+- [Dark Libria](https://darklibria.it/) <Badge type="info" text="Stream" /><Badge type="info" text="Torrent" />
 - [Dream Cast](https://dreamerscast.com/)
 - [Freedub Studio](https://freedubstudio.club/)
 - [Jut.su](https://jut.su/) <Badge type="info" text="Helper" link="https://github.com/Xeltone/Jut.su-Helper" />
