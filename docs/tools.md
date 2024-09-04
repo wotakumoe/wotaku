@@ -62,9 +62,10 @@ outline: [1,2]
 ### Video
 
 - **Local**
+  - [mpvKt](https://github.com/abdallahmehiz/mpvKt) :glowing-star: :mdi-android:
+  - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en&gl=US) :glowing-star: :mdi-android:
   - [mpv-android](https://github.com/mpv-android/mpv-android) <Badge type="tip" icon="i-mdi-android" text="Android" link="https://play.google.com/store/apps/details?id=is.xyz.mpv&hl=en&gl=US" />
   - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) :mdi-android:
-  - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en&gl=US) :mdi-android:
   - [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) :ic-baseline-apple:
 - **Online**
   - [Revanced](https://revanced.app/) :mdi-youtube::mdi-android:
