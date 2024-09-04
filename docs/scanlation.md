@@ -109,6 +109,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 - [Manga downloader](https://github.com/xuzhengyi1995/Manga_downloader)
 - [Monochrome](https://github.com/MonochromeCMS/monochrome)
 - [ScanFolders](https://github.com/Fris44/ScanFolders)
+- [UQC TOOLS](https://github.com/kevinmartz/UQC-TOOLS)
 
 ::: info Use [**RuTracker**](https://rutracker.org/forum/index.php) to download crack
 :::
