@@ -16,6 +16,7 @@ import "@nolebase/vitepress-plugin-git-changelog/client/style.css";
 import { createMediumZoomProvider } from "./composables";
 import Button from "./components/Button.vue";
 import SidebarCard from "./components/SidebarCard.vue";
+import NotFoundComponent from "./components/NotFound.vue";
 import Tooltip from "./components/Tooltip.vue";
 import Authors from "./components/Authors.vue";
 import Components from "@fmhy/components";
@@ -40,6 +41,7 @@ export default {
 			// A enhanced readabilities menu for narrower screens (usually smaller than iPad Mini)
 			"nav-screen-content-after": () =>
 				h(NolebaseEnhancedReadabilitiesScreenMenu),
+			"not-found": () => h(NotFoundComponent)
 		});
 	},
 	enhanceApp({ app, router, siteData }) {
