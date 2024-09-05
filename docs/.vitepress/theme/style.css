@@ -18,12 +18,6 @@
   --vp-button-brand-active-border: var(--vp-c-brand-light);
   --vp-button-brand-active-text: var(--vp-c-white);
   --vp-button-brand-active-bg: var(--vp-button-brand-bg);
-  --vp-custom-block-tip-border: var(--vp-c-brand);
-  --vp-custom-block-tip-text: var(--vp-c-brand-darker);
-  --vp-custom-block-tip-bg: var(--vp-c-brand-dimm);
-  --vp-custom-block-tip-border: var(--vp-c-brand);
-  --vp-custom-block-tip-text: var(--vp-c-brand-lightest);
-  --vp-custom-block-tip-bg: var(--vp-c-brand-dimm);
   --vp-c-green-light: #16a891;
   --vp-button-alt-bg: #f5f5f5;
   --vp-button-alt-text: rgb(75, 85, 99);
@@ -31,22 +25,28 @@
   --vp-button-alt-hover-text: rgb(75, 85, 99);
   --vp-c-bg-nav: rgba(255, 255, 255, 0.7);
   --vp-c-bg-mark: rgb(232, 232, 232);
-  --vp-custom-block-info-bg: rgba(171, 210, 244, 0.05);
-  --vp-custom-block-info-border: #60c4fa;
-  --vp-custom-block-info-text: rgb(39, 115, 145);
-  --vp-custom-block-info-text-deep: rgb(18, 121, 162);
-  --vp-custom-block-tip-bg: rgba(137, 202, 176, 0.05);
-  --vp-custom-block-tip-border: rgba(34, 197, 94, 1);
-  --vp-custom-block-tip-text: rgb(10, 128, 90);
-  --vp-custom-block-tip-text-deep: rgb(11, 133, 94);
-  --vp-custom-block-warning-bg: rgba(250, 204, 21, 0.05);
-  --vp-custom-block-warning-border: rgba(245, 158, 11, 1);
-  --vp-custom-block-warning-text: rgb(166, 114, 35);
-  --vp-custom-block-warning-text-deep: rgb(199, 109, 6);
-  --vp-custom-block-danger-bg: rgba(220, 38, 38, 0.05);
-  --vp-custom-block-danger-border: rgba(248, 113, 113, 1);
-  --vp-custom-block-danger-text: rgb(196, 46, 46);
-  --vp-custom-block-danger-text-deep: rgba(220, 38, 38, 1);
+
+  /* Colors: Custom Block */
+  /** Info */
+  --vp-custom-block-info-bg: theme("colors.swarm.100");
+  --vp-custom-block-info-border: theme("colors.swarm.800");
+  --vp-custom-block-info-text: theme("colors.swarm.800");
+  --vp-custom-block-info-text-deep: theme("colors.swarm.900");
+  /** Tip */
+  --vp-custom-block-tip-bg: theme("colors.meadow.100");
+  --vp-custom-block-tip-border: theme("colors.meadow.800");
+  --vp-custom-block-tip-text: theme("colors.meadow.800");
+  --vp-custom-block-tip-text-deep: theme("colors.meadow.900");
+  /** Warning */
+  --vp-custom-block-warning-bg: theme("colors.merlin.100");
+  --vp-custom-block-warning-border: theme("colors.merlin.800");
+  --vp-custom-block-warning-text: theme("colors.merlin.800");
+  --vp-custom-block-warning-text-deep: theme("colors.merlin.900");
+  /** Danger */
+  --vp-custom-block-danger-bg: theme("colors.carnation.100");
+  --vp-custom-block-danger-border: theme("colors.carnation.800");
+  --vp-custom-block-danger-text: theme("colors.carnation.800");
+  --vp-custom-block-danger-text-deep: theme("colors.carnation.900");
 }
 
 .dark {
@@ -59,22 +59,28 @@
   --vp-button-alt-text: #f0eeee;
   --vp-button-alt-hover-bg: #484848;
   --vp-button-alt-hover-text: #f0eeee;
-  --vp-custom-block-info-bg: rgba(84, 110, 155, 0.1);
-  --vp-custom-block-info-border: #3686b1;
-  --vp-custom-block-info-text: #52b0e3;
-  --vp-custom-block-info-text-deep: #00b7ff;
-  --vp-custom-block-tip-bg: rgba(51, 130, 118, 0.1);
-  --vp-custom-block-tip-border: rgba(4, 120, 87, 1);
-  --vp-custom-block-tip-text: rgb(25, 190, 129);
-  --vp-custom-block-tip-text-deep: rgba(52, 211, 153, 1);
-  --vp-custom-block-warning-bg: rgba(253, 224, 71, 0.1);
-  --vp-custom-block-warning-border: rgba(202, 138, 4, 1);
-  --vp-custom-block-warning-text: rgba(234, 179, 8, 1);
-  --vp-custom-block-warning-text-deep: rgba(250, 204, 21, 1);
-  --vp-custom-block-danger-bg: rgba(239, 68, 68, 0.1);
-  --vp-custom-block-danger-border: rgba(127, 29, 29, 1);
-  --vp-custom-block-danger-text: rgba(248, 113, 113, 1);
-  --vp-custom-block-danger-text-deep: rgba(248, 113, 113, 1);
+
+  /* Colors: Custom Block */
+  /** Info */
+  --vp-custom-block-info-bg: theme("colors.swarm.950");
+  --vp-custom-block-info-border: theme("colors.swarm.800");
+  --vp-custom-block-info-text: theme("colors.swarm.200");
+  --vp-custom-block-info-text-deep: theme("colors.swarm.200");
+  /** Tip */
+  --vp-custom-block-tip-bg: theme("colors.meadow.950");
+  --vp-custom-block-tip-border: theme("colors.meadow.800");
+  --vp-custom-block-tip-text: theme("colors.meadow.200");
+  --vp-custom-block-tip-text-deep: theme("colors.meadow.200");
+  /** Warning */
+  --vp-custom-block-warning-bg: theme("colors.merlin.950");
+  --vp-custom-block-warning-border: theme("colors.merlin.800");
+  --vp-custom-block-warning-text: theme("colors.merlin.200");
+  --vp-custom-block-warning-text-deep: theme("colors.merlin.200");
+  /** Danger */
+  --vp-custom-block-danger-bg: theme("colors.carnation.950");
+  --vp-custom-block-danger-border: theme("colors.carnation.800");
+  --vp-custom-block-danger-text: theme("colors.carnation.200");
+  --vp-custom-block-danger-text-deep: theme("colors.carnation.200");
 }
 
 .vp-doc a {

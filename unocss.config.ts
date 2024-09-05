@@ -1,7 +1,13 @@
 import { colors } from "@fmhy/colors";
 import { FileSystemIconLoader } from "@iconify/utils/lib/loader/node-loaders";
 import { resolve } from "node:path";
-import { defineConfig, presetUno, presetAttributify, presetIcons } from "unocss";
+import {
+  defineConfig,
+  presetUno,
+  presetAttributify,
+  presetIcons,
+  transformerDirectives,
+} from "unocss";
 
 const safelist = Object.entries(colors).flatMap(([group, shades]) =>
   Object.keys(shades).flatMap((shade) => [`text-${group}-${shade}`, `bg-${group}-${shade}`]),
@@ -39,4 +45,5 @@ export default defineConfig({
       },
     }),
   ],
+  transformers: [transformerDirectives()],
 });
