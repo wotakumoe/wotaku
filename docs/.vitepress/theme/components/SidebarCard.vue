@@ -8,12 +8,14 @@ import Field from "./CardField.vue";
       <div class="card-title">Legend</div>
     </div>
     <Field icon="i-twemoji-glowing-star">Favorite</Field>
+    <Field icon="i-lucide-message-circle">Feedback</Field>
     <Field icon="i-lucide-info">More Info</Field>
     <Field icon="i-material-symbols-subdirectory-arrow-right">Related</Field>
   </div>
 </template>
 
-<style scoped>
+<style scoped >
+
 .card-header {
   display: flex;
   align-items: center;
