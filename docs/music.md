@@ -143,9 +143,9 @@ outline: 1
 - [asia DREAM radio](https://asiadreamradio.torontocast.stream/stations/en/index.html) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://asiadreamradio.torontocast.stream/stations/newstream.html" />
 - [J1 Radio](https://www.j1fm.tokyo/player/j1hits/) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://www.j1fm.tokyo/listen/" />
 - [Patchwork Radio](https://patchwork.moekyun.me/radio) :glowing-star: <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://a4.asurahosting.com/public/patchworkarchive/playlist.m3u" /><Badge type="info" text="VTuber" />
-- [Sasalele Music Station](https://github.com/Mikeexe2/Sasalele-Music-Station) [:mdi-github:](https://github.com/Mikeexe2/Sasalele-Music-Station) <Badge type="info" text="Compilation" />
+- [Sasalele Music Station](https://basic.pp.ua/) [:mdi-github:](https://github.com/Mikeexe2/Sasalele-Music-Station) <Badge type="info" text="Aggregator" />
 - [Wapchan](https://wapchan.org/.static/pages/radio.html) <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://radio.wapchan.org/wapfm.m3u" /><Badge type="info" text="City Pop" />
-- [Yumi Co. Radio](https://yumicoradio.net/) <Badge type="info" text="City Pop" /><tooltip>Stream URL (256kbps) : https://yumicoradio.net/stream</tooltip>
+- [Yumi Co. Radio](https://yumicoradio.net/) <Badge type="info" icon="i-material-symbols-download-2" text="256kbps" link="http://s1.yumicoradio.net:8000/stream.m3u" /><Badge type="info" text="City Pop" />
 
 ## Anime
 - [Anime(bits)](https://radio.animebits.moe/) <Badge type="info" icon="i-material-symbols-download-2" text="FLAC" link="https://radio.animebits.moe/m3u/stream192.mp3.m3u" />
@@ -160,6 +160,7 @@ outline: 1
 - [Japanradio.de](https://japanradio.de/) <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://japanradio.de/player/japanradio.m3u" /> :flag-germany:
 - [Kibo.FM](https://kibo.fm/) <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://kibo.fm/kibo.m3u" /> :flag-germany:
 - [Radio Anime24](https://www.radioanime24.pl/) <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="https://www.radioanime24.pl/Radio-Anime24.pls" /> :flag-poland:
+- [Radio Anime Nexus](https://www.animenexus.net/) <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="https://radio.animenexus.net:8000/animenexus-mp3.m3u" /> :flag-spain:
 - [Rádio Animu](https://www.animu.com.br/) <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="http://yp.shoutcast.com/sbin/tunein-station.m3u?id=99545187" /> :flag-brazil:
 - [Rádio J-Hero](https://radiojhero.com/) <Badge type="info" icon="i-material-symbols-download-2" text="96kbps" link="https://radiojhero.com/ouvir/radiojhero.m3u" /> :flag-brazil:
 - [Stereo Anime](https://www.stereoanime.net/) <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="http://yp.shoutcast.com/sbin/tunein-station.m3u?id=99543276" /> :flag-spain:
