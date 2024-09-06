@@ -173,8 +173,10 @@ outline: 1
 - [Vocaloid Radio](https://vocaloidradio.com/) <Badge type="info" text="General" /><tooltip>Stream URL (192kbps) : https://vocaloid.radioca.st/stream</tooltip>
 
 ## Games
-  - [SquidRadio](https://www.squid-radio.net/)
-  - [Rainwave VGM Radio](https://rainwave.cc/all/)
+- [Game That Tune Radio](https://gttradio.com/)
+- [Rainwave VGM Radio](https://rainwave.cc/all/)
+- [RPGamers Radio](http://www.rpgamers.net/radio/)
+- [SquidRadio](https://www.squid-radio.net/)
 
 
 
