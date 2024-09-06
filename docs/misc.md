@@ -68,7 +68,8 @@ outline: 1
 - [AniChart](https://anichart.net/airing) :glowing-star:
 - [AnimeSchedule](https://animeschedule.net/)
 - [Anime Countdown](https://animecountdown.com/)
-- [Livechart](https://www.livechart.me/) :glowing-star: 
+- [Anisaki](https://anisaki.vercel.app/) [:mdi-github:](https://github.com/BayuDC/anisaki)
+- [Livechart](https://www.livechart.me/schedule) :glowing-star: 
 - [Monthly.moe](https://www.monthly.moe/)
 - [Notify.moe](https://notify.moe/calendar) [:mdi-github:](https://github.com/animenotifier/notify.moe)
 - [Senpai.moe](https://www.senpai.moe/)
@@ -510,6 +511,7 @@ outline: 1
 - [Anime Bath Scene Wiki](https://animebathscenewiki.com/index.php?title=Main_Page)
 - [Anime Girls Holding Programming Books](https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/)
 - [HUNTER×HUNTER Hiatus Chart](https://hiatus-hiatus.github.io/)
+- [Inazuma](https://inazuma.rl404.com/) [:mdi-github:](https://github.com/rl404/inazuma)
 - [TV Tropes](https://tvtropes.org/)
 - [Vagabond Hiatus Chart](https://vagabond-hiatus-chart.vercel.app/) [:mdi-github:](https://github.com/falsepopsky/vagabond-hiatus-chart)
 - [Wired Sound For Wired People](https://fauux.neocities.org/)
