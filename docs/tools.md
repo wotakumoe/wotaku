@@ -320,6 +320,7 @@ outline: [1,2]
 - [FastForward](https://fastforward.team/)
 - [FastStream](https://faststream.online/)
 - [Indie Wiki Buddy](https://getindie.wiki/)
+- [Live Stream Downloader](https://webextension.org/listing/hls-downloader.html) [:mdi-github:](https://github.com/chandler-stimson/live-stream-downloader/)
 - [OldTwitter](https://github.com/dimdenGD/OldTwitter)
 - [NopeCHA](https://nopecha.com/)
 - [Selection](https://github.com/emvaized/selecton-extension) :glowing-star:
