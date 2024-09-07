@@ -253,6 +253,7 @@ If you have recommendations for good sites in your native language or want to re
   - [Anplay](https://anplay.in/)
   - [Dora Bash](https://doraemontheanime.com/)
   - [HindiAnime](https://hindianime.fun/)
+  - [Toonbaba](https://toonbaba.site/)
   - [ToonStream](https://toonstream.day/)
 - **DDL**
   - [1XAnime](https://www.1xanimes.in/)
