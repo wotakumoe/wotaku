@@ -180,9 +180,10 @@ or buy an Android phone :ic-twotone-thumb-up:
 
 :::details More
 - [Miru App](https://miru.js.org/) :ic-baseline-window: [:mdi-github:](https://github.com/miru-project/miru-app) <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
-- [Anikki](https://github.com/Kylart/Anikki) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
+- [Zenshin](https://github.com/hitarth-gg/zenshin) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" />
 - [Totoro](https://github.com/insomniachi/Totoro) :ic-baseline-window: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
 - [Layendanimator](https://github.com/Layendan/Layendanimator) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Online" />
+- [Anikki](https://github.com/Kylart/Anikki) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
 - [ani-cli](https://github.com/pystardust/ani-cli) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Online" />
 - [Akuse](https://github.com/akuse-app/Akuse) :ic-baseline-window: <Badge type="info" text="Online" />
 
