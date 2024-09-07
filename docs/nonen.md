@@ -209,6 +209,7 @@ If you have recommendations for good sites in your native language or want to re
 - [Hanashi](https://www.hanashi.to/) <Badge type="info" text="Stream" />
 - [Melon-Subs](https://melon-subs.de/) <Badge type="info" text="DDL" />
 - [NanaOne](https://nanaone.net/) <Badge type="info" text="DDL" />
+- [OtakuKingdom Subs](https://www.otakukingdom-subs.de/) <Badge type="info" text="DDL" />
 - [Shiroi-Fansubs](https://shiroi-fansubs.de/) <Badge type="info" text="DDL" />
 - [S.to](https://s.to/) <Badge type="info" text="Stream" />
 - [Umaru](https://www.umaru.to/home) <Badge type="info" text="Stream" />
