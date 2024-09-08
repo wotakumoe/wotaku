@@ -161,19 +161,20 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 ## Yu-Gi-Oh!
 
 ### Databases / News
-- [Yu-Gi-Oh! Official Website](https://www.yugioh-card.com/en/)
+- [Yu-Gi-Oh! Official Website](https://www.yugioh-card.com/)
 - [Official Card Database](https://www.db.yugioh-card.com/yugiohdb/)
 - [YGOrganization](https://ygorganization.com/)
+- [YGOPRODeck](https://ygoprodeck.com/)
+- [Yu-Gi-Oh! Meta](https://www.yugiohmeta.com/)
 - [Master Duel Meta](https://www.masterduelmeta.com/)
 - [Duel Links Meta](https://www.duellinksmeta.com/)
-- [YGOPro Deck](https://ygoprodeck.com/)
 
 ### Simulators
 
 #### Official
 - [Master Duel](https://www.konami.com/yugioh/masterduel/us/en/)
 - [Duel Links](https://www.konami.com/yugioh/duel_links/en/)
-- [Yu-Gi-Oh! Neuron](https://www.konami.com/yugioh/neuron/en/)
+- [Yu-Gi-Oh! Neuron](https://www.konami.com/yugioh/neuron/en/) <Badge type="info" text="Companion app" />
 
 #### Unofficial
 - [Dueling Book](https://www.duelingbook.com/) <Badge type="info" text="Website" />
@@ -182,8 +183,8 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 
 #### Alternative/Historic Formats
 - [Format Library](https://www.formatlibrary.com/)
-- [Goat Format](https://www.goatformat.com/)
 - [Edison Format](https://www.edisonformat.com/)
+- [Goat Format](https://www.goatformat.com/)
 
 #### Subreddits
 - [Yu-Gi-Oh!](https://old.reddit.com/r/yugioh/)
