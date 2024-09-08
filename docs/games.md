@@ -70,7 +70,7 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 
 - [4Gamer](https://www.4gamer.net/) :flag-japan:
 - [Famitsu](https://www.famitsu.com/) :flag-japan:
-- [GachaRevenue](https://www.gacharevenue.com/)
+- [GachaRevenue](https://www.gacharevenue.com/) [:mdi-github:](https://github.com/zigamacele/gacharevenue)
 - [Gematsu](https://www.gematsu.com/)
 - [Frontline](https://www.frontlinejp.net/)
 - [Siliconera](https://www.siliconera.com/)
@@ -125,11 +125,11 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 ### Fan Games
 - [Deluge RPG](https://www.delugerpg.com/)
 - [Eevee Expo](https://eeveeexpo.com/)
-- [PokéRogue](https://pokerogue.net/) [:mdi-github:](https://github.com/pagefaultgames/pokerogue)
+- [PokeDoku](https://pokedoku.com/)
 - [Pokémon Infinite Fusion](https://infinitefusion.fandom.com/wiki/Pok%C3%A9mon_Infinite_Fusion_Wiki)
 - [Pokémon Showdown!](https://play.pokemonshowdown.com/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://dex.pokemonshowdown.com/" />
 - [Pokemon Revolution](https://pokemonrevolution.net/home)
-- [Pokedoku](https://pokedoku.com/)
+- [PokéRogue](https://pokerogue.net/) [:mdi-github:](https://github.com/pagefaultgames/pokerogue)
 - [Who's that Pokémon?](https://gearoid.me/pokemon/)
 
 
