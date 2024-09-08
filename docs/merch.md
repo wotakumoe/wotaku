@@ -7,7 +7,7 @@ outline: 2
 
 <GradientCard title="商品" tag="Merch" description="Looking to buy memorabilia from your favorite series and support the creators? Here you will find information on figurines, plushes, books, CDs and more!" theme="turquoise"/>
 
-:::details :warning: Important Information
+:::details Important Information
 
 ### Delivery Types
 
@@ -98,33 +98,41 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 
 ## Shops
 
-- **General**
-  - [Amazon](https://www.amazon.com/)
-  - [AmiAmi](https://www.amiami.com)
-  - [animate](https://www.animate-onlineshop.jp/)
-  - [CDJapan](https://www.cdjapan.co.jp/)
-  - [Crunchyroll](https://store.crunchyroll.com/) <Badge type="green" link="" text="SFW"/>
-  - [Fakku](https://www.fakku.net/)
-  - [HMV & Books](https://www.hmv.co.jp/)
-  - [Mandarake](https://order.mandarake.co.jp/order/?lang=en/)
-  - [Melonbooks](https://www.melonbooks.co.jp/)
-  - [Play-Asia](https://www.play-asia.com/)
-  - [YESASIA](https://www.yesasia.com/global/en/home.html)
-- **Figures / Merch**
-  - [Big in Japan](https://biginjap.com/)
-  - [E2046.com](https://www.e2046.com/)
-  - [Hobby Link](https://www.hlj.com/)
-  - [Hobby Search](https://www.1999.co.jp/eng/)
-  - [Otaku Mode](https://otakumode.com/) <Badge type="green" link="" text="SFW"/>
-- **Manga**
-  - [honto](https://honto.jp/)
-  - [Mangaoh](https://www.mangaoh.co.jp/)
-- **Digital Music**
-  - [Bandcamp](https://bandcamp.com/)
-  - [Mora](https://mora.jp/)
-  - [Ototoy](https://ototoy.jp/)
-  - [Qobuz](https://www.qobuz.com/us-en/shop) 
-  - [Recochoku](https://recochoku.jp/)
+::: danger Adult content
+Websites may contain adult content, partner with adult sites, or feature adult-themed first-party ads.
+:::
+
+#### General
+- [Amazon](https://www.amazon.com/)
+- [AmiAmi](https://www.amiami.com)
+- [animate](https://www.animate-onlineshop.jp/)
+- [CDJapan](https://www.cdjapan.co.jp/)
+- [Crunchyroll](https://store.crunchyroll.com/) <Badge type="green" link="" text="SFW"/>
+- [Fakku](https://www.fakku.net/)
+- [HMV & Books](https://www.hmv.co.jp/)
+- [Mandarake](https://order.mandarake.co.jp/order/?lang=en/)
+- [Melonbooks](https://www.melonbooks.co.jp/)
+- [Play-Asia](https://www.play-asia.com/)
+- [YESASIA](https://www.yesasia.com/global/en/home.html)
+
+#### Figures / Merch
+- [Big in Japan](https://biginjap.com/)
+- [E2046.com](https://www.e2046.com/)
+- [Hobby Link](https://www.hlj.com/)
+- [Hobby Search](https://www.1999.co.jp/eng/)
+- [Otaku Mode](https://otakumode.com/) <Badge type="green" link="" text="SFW"/>
+
+#### Manga
+- [honto](https://honto.jp/)
+- [Mangaoh](https://www.mangaoh.co.jp/)
+
+#### Digital Music
+- [Bandcamp](https://bandcamp.com/)
+- [Mora](https://mora.jp/)
+- [Ototoy](https://ototoy.jp/)
+- [Qobuz](https://www.qobuz.com/us-en/shop)
+- [Recochoku](https://recochoku.jp/)
+
 
 
 ## Agents
