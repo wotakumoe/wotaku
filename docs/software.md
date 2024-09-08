@@ -70,9 +70,9 @@ outline: [1,2]
 ## Novel Readers
 
 ### Online
-- [Shosetsu](https://shosetsu.app/) [:mdi-gitlab:](https://gitlab.com/shosetsuorg/shosetsu)
-- [Quicknovel](https://github.com/LagradOst/QuickNovel)
 - [LN Reader](https://github.com/LNReader/lnreader)
+- [Quicknovel](https://github.com/LagradOst/QuickNovel)
+- [Shosetsu](https://shosetsu.app/) [:mdi-gitlab:](https://gitlab.com/shosetsuorg/shosetsu)
 - [Ranobe](https://github.com/ranobe-org/ranobe)
 - [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha)
 
