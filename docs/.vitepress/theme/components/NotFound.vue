@@ -1,23 +1,34 @@
 <script setup lang="ts">
-import { ref } from 'vue';
+import { ref } from "vue";
 
 // Set a fixed image size
-const imageSize = ref('550px'); // Fixed size for the image
+const imageSize = ref("550px"); // Fixed size for the image
 </script>
 
 <template>
   <div class="flex items-center justify-center min-h-[calc(100vh-4rem)] p-4">
     <div class="text-center">
-      <img :style="{ width: imageSize, height: 'auto' }" src="/asset/404.gif" alt="404 Image" class="mx-auto">
+      <img
+        :style="{ width: imageSize, height: 'auto' }"
+        src="/asset/404.gif"
+        alt="404 Image"
+        class="mx-auto" />
       <p class="mt-4 text-title-lg font-bold text-white leading-tight">404</p>
       <p class="text-body-lg text-gray-400 leading-snug flex items-center justify-center flex-wrap">
         Umm.... you shouldn’t be here
         <span class="icon-container mx-1">
-          <img class="icon-img" src="/asset/inahuh.png" alt="Inahuh Icon">
+          <img class="icon-img" src="/asset/inahuh.png" alt="Inahuh Icon" />
         </span>
         If you got here from a link, please click
         <span class="icon-container mx-1">
-          <svg class="inline-block align-text-bottom w-icon h-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+          <svg
+            class="inline-block align-text-bottom w-icon h-icon"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2">
             <path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"></path>
           </svg>
         </span>

@@ -14,8 +14,7 @@ import Field from "./CardField.vue";
   </div>
 </template>
 
-<style scoped >
-
+<style scoped>
 .card-header {
   display: flex;
   align-items: center;

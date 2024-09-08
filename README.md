@@ -11,8 +11,8 @@ enhance the wiki further. Also, don't hesitate to [suggest ideas](#submitting-a-
 - Anime, manga & novel software for [Android](https://wotaku.wiki/software#android),
   [PC](https://wotaku.wiki/software#pc) & [iOS](https://wotaku.wiki/software#ios).
 - Various sites for [db, tracker & info](https://wotaku.wiki/misc#info),
-  [illustrations](https://wotaku.wiki/misc#illustrations), [utility](https://wotaku.wiki/misc#utility)
-  & [vtuber](https://wotaku.wiki/misc#vtuber)
+  [illustrations](https://wotaku.wiki/misc#illustrations),
+  [utility](https://wotaku.wiki/misc#utility) & [vtuber](https://wotaku.wiki/misc#vtuber)
 - Other related software for [phone](https://wotaku.wiki/addons#apps) &
   [PC](https://wotaku.wiki/addons#tools), [extensions](https://wotaku.wiki/addons#extensions) &
   [scripts](https://wotaku.wiki/addons#scripts)

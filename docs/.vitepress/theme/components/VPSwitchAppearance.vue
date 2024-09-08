@@ -12,7 +12,12 @@ const toggleAppearance = inject("toggle-appearance", () => {
 </script>
 
 <template>
-  <button type="button" role="switch" title="VPSwitchAppearance" class="VPSwitchAppearance" :aria-checked="isDark"
+  <button
+    type="button"
+    role="switch"
+    title="VPSwitchAppearance"
+    class="VPSwitchAppearance"
+    :aria-checked="isDark"
     @click="toggleAppearance">
     <ClientOnly>
       <Transition name="fade" mode="out-in">
@@ -38,14 +43,13 @@ const toggleAppearance = inject("toggle-appearance", () => {
     transition: color 0.25s;
   }
 
-  &> :deep(svg) {
+  & > :deep(svg) {
     width: 20px;
     height: 20px;
     fill: currentColor;
   }
 
   &[data-view-transition="false"] {
-
     .fade-enter-active,
     .fade-leave-active {
       transition: opacity 0.1s ease;
