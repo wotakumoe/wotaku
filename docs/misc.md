@@ -2,7 +2,7 @@
 title: Misc-sites
 description: Various sites for info, guide & tools
 customDescription: Discover a mix of info, guides, and tools for anime, manga & illustrations.
-outline: 1
+outline: [1,2]
 ---
 
 <GradientCard title="バラエティサイト" tag="Misc-sites" description="Welcome to the misc-sites page, home to various communities, guides, and tools for your otaku needs and interests." theme="turquoise"/>

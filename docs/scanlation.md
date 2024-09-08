@@ -2,7 +2,7 @@
 title: Scanlation
 description: Guides and resources for scanlation
 customDescription: Guides and resources for everything scanlation related!
-outline: 1
+outline: [1,2]
 ---
 
 <GradientCard title="スキャンレーション" tag="Scanlation" description="Guides and resources for scanlating manga." theme="turquoise"/>
