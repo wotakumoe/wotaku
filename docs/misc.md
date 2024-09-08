@@ -66,9 +66,10 @@ outline: [1,2]
 
 - [Anica](https://anica.jp/)
 - [AniChart](https://anichart.net/airing) :glowing-star:
-- [AnimeSchedule](https://animeschedule.net/)
 - [Anime Countdown](https://animecountdown.com/)
+- [AnimeSchedule](https://animeschedule.net/)
 - [Anisaki](https://anisaki.vercel.app/) [:mdi-github:](https://github.com/BayuDC/anisaki)
+- [Kansou](https://www.kansou.me/) :flag-japan:
 - [Livechart](https://www.livechart.me/schedule) :glowing-star: 
 - [Monthly.moe](https://www.monthly.moe/)
 - [Notify.moe](https://notify.moe/calendar) [:mdi-github:](https://github.com/animenotifier/notify.moe)
@@ -233,6 +234,7 @@ outline: [1,2]
   - [Anime Corner](https://animecorner.me/) :glowing-star: <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/animecorner_ac" />
   - [Anitrendz](https://anitrendz.net/news/) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/anitrendz" />
   - [AnimeTV](https://animetv-jp.net/) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/animetv_jp" />
+  - [Eiga](https://anime.eiga.com/) :flag-japan:
 - **Blog / Interview**
   - [Animétudes](https://animetudes.com/) :glowing-star:
   - [artist_unknown](https://artistunknown.info/)
