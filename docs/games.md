@@ -28,7 +28,6 @@ outline: 2
 
 ## ROM
 
-
 ### General
 - [/r/Roms Megathread](https://r-roms.github.io/) :glowing-star:
 - [CDRomance](https://cdromance.com/)
@@ -50,6 +49,10 @@ outline: 2
 check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page).
 :::
 
+## Tools
+- [Locale Emulator](https://github.com/xupefei/Locale-Emulator) :ic-baseline-window:
+
+
 ## Info
 
 ### Tracker
@@ -67,6 +70,7 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 
 - [4Gamer](https://www.4gamer.net/) :flag-japan:
 - [Famitsu](https://www.famitsu.com/) :flag-japan:
+- [GachaRevenue](https://www.gacharevenue.com/)
 - [Gematsu](https://www.gematsu.com/)
 - [Frontline](https://www.frontlinejp.net/)
 - [Siliconera](https://www.siliconera.com/)
