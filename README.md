@@ -3,6 +3,8 @@
 An otaku index for everything! Kindly consider giving the repository a ⭐ star. This motivates us to
 enhance the wiki further. Also, don't hesitate to [suggest ideas](#submitting-a-link).
 
+
+
 # What is in the Wiki?
 
 - Curated Websites for [anime](https://wotaku.wiki/websites#anime),
@@ -23,6 +25,27 @@ enhance the wiki further. Also, don't hesitate to [suggest ideas](#submitting-a-
   [scanlation](https://wotaku.wiki/scanlation).
 
 # Submitting a link
+
+## ⛔️ Things we won't add in the wiki
+
+1. Websites that are only or primarily for generative AI (Chatbot, roleplaying bot, ai art generator etc.)
+2. Sites that
+    - are very small in size
+    - are mostly paywalled
+    - sell unofficial merch
+    - exlusively sell sex toys
+3. Adult content sites similar to OnlyFans
+4. Software that's too general (for example Windows OS related or Tweaking for privacy)
+5. Sites focused on lolicon or furry stuff
+6. Sites listed in [FMHY unsafe list](https://fmhy.net/unsafesites)
+
+## ⚠️ Things we will try to avoid
+
+1. Closed source software (with good FOSS alternatives)
+2. Sites that only use hosters such Katfile, Nitroflare, DDownload and Rapidgator
+3. Sites that aren't primarily for anime but have it as a side product
+4. Sites scraping only one source, such as gogo or zoro
+5. Things that are too niche and/or have a small userbase
 
 ## Wiki
 
