@@ -67,6 +67,7 @@ outline: [1,2]
 - [Anica](https://anica.jp/)
 - [AniChart](https://anichart.net/airing) :glowing-star:
 - [Anime Countdown](https://animecountdown.com/)
+- [Anime Dubs Release Calendar](https://teamup.com/ksdhpfjcouprnauwda)
 - [AnimeSchedule](https://animeschedule.net/)
 - [Anisaki](https://anisaki.vercel.app/) [:mdi-github:](https://github.com/BayuDC/anisaki)
 - [Kansou](https://www.kansou.me/) :flag-japan:
@@ -236,6 +237,7 @@ outline: [1,2]
   - [Anitrendz](https://anitrendz.net/news/) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/anitrendz" />
   - [AnimeTV](https://animetv-jp.net/) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/animetv_jp" />
   - [Eiga](https://anime.eiga.com/) :flag-japan:
+  - [English Dubbed Anime Lovers](https://english-dubbed.com/)
 - **Blog / Interview**
   - [Animétudes](https://animetudes.com/) :glowing-star:
   - [artist_unknown](https://artistunknown.info/)

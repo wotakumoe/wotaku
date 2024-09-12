@@ -75,6 +75,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 
 ## Info
 - [Anime-DB](https://anime.dbsearch.net/) :flag-japan:
+- [Blu-ray.com](https://www.blu-ray.com/)
 - [Buyfag Store Digest](https://docs.google.com/document/u/0/d/1W4fAKQzCOhiWK6mJ_tvkZHIfzfzBZN57oGSaVB47TCQ/pub)
 - [Buying visual novels](https://old.reddit.com/r/visualnovels/wiki/buy)
 - [Dakindex!](https://dakidex.com/) <Badge type="danger" text="18+" />
@@ -83,6 +84,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [JOSIC](https://www.japanonlineshopping.com/)
 - [Omiai](https://omiai-dakimakura.com/) <Badge type="danger" text="18+" />
 - [Otaku Calendar](https://otakucalendar.com/)
+- [Upcoming English Dubbed Releases](https://english-dubbed.com/anime-releases/upcoming-english-dubbed-release-dates/)
 
 
 ## Communities
