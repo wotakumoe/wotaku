@@ -30,6 +30,7 @@ enhance the wiki further. Also, don't hesitate to [suggest ideas](#submitting-a-
 
 1. Websites that are only or primarily for generative AI (Chatbot, roleplaying bot, ai art generator etc.)
 2. Sites that
+    - imitate other websites
     - are very small in size
     - are mostly paywalled
     - sell unofficial merch
