@@ -7,6 +7,12 @@ outline: [1,2]
 
 <GradientCard title="音楽" tag="Music" description="Everything Music Related in One Page!" theme="turquoise"/>
 
+<br>
+
+::: info Audio glossary
+If you wanna learn about the audio basics, read our [**audio glossary**](/glossary/audio)
+:::
+
 ![](/music/mst.png)
 
 # Stream
@@ -164,7 +170,7 @@ outline: [1,2]
 - [Radio Anime Nexus](https://www.animenexus.net/) <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="https://radio.animenexus.net:8000/animenexus-mp3.m3u" /> :flag-spain:
 - [Rádio Animu](https://www.animu.com.br/) <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="http://yp.shoutcast.com/sbin/tunein-station.m3u?id=99545187" /> :flag-brazil:
 - [Rádio J-Hero](https://radiojhero.com/) <Badge type="info" icon="i-material-symbols-download-2" text="96kbps" link="https://radiojhero.com/ouvir/radiojhero.m3u" /> :flag-brazil:
-- [Stereo Anime](https://www.stereoanime.net/) <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="http://yp.shoutcast.com/sbin/tunein-station.m3u?id=99543276" /> :flag-spain:
+- [Stereo Anime](https://www.stereoanime.net/) <Badge type="info" icon="i-material-symbols-download-2" text="FLAC" link="https://radio.stereoanime.net:8000/flac.m3u" /> :flag-spain:
 
 ## Doujin & Vocaloid
 
