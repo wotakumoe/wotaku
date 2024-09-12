@@ -194,6 +194,10 @@ outline: 1
 - [hi10anime](https://hi10anime.com/) :mdi-download::mdi-magnet::mdi-account::material-symbols-package-2:
 - [Judas](https://rentry.org/judas-ddl) :mdi-google-drive::mdi-account::material-symbols-package-2:
 
+#### Subtitles
+- [Closed Caption Browser](https://cc.edatribe.com/#/) <Badge type="info" text="Dubtitles" />
+- [Open Subtitles](https://opensubtitles.org/)
+
 ::: tip Batch Downloading from Google Drive
 - To batch download from Google Drive, use [**JDownloader 2**](https://jdownloader.org/).
 - Keep the "**Max. Chunks per Download**" low, so that google doesn't rate limit you. You will find it at the **Settings** in the top bar.
