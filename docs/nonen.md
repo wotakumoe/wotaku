@@ -251,7 +251,7 @@ If you have recommendations for good sites in your native language or want to re
   - [AllWish](https://all-wish.me/home)
   - [Anime Fever](https://animefever.fun/)
   - [Anime World](https://anime-world.in/)
-  - [Animerulz](https://animerulz.pro/home/)
+  - [Animerulz](https://animerulz.net/home/)
   - [Anplay](https://anplay.in/)
   - [Dora Bash](https://doraemontheanime.com/)
   - [HindiAnime](https://hindianime.fun/)
