@@ -92,7 +92,7 @@ outline: [1,2]
 - **FLAC**
   - [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" />:mdi-magnet:
   - [Sitting on Clouds](https://www.sittingonclouds.net/) :glowing-star: <Badge type="info" text="2" link="https://www.sittingonclouds.com/" /><Badge type="info" text="3" link="https://www.sittingonclouds.org/" /><Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" />:simple-icons-mega::simple-icons-mediafire:
-  - [SquidBoard](https://www.squid-board.org/) <Badge type="tip" text="Alt" link="https://sqb.moe/" /><Badge type="tip" text="Status" link="https://status.lyratris.com/" />:mdi-account::simple-icons-mega::simple-icons-mediafire::mdi-google-drive:
+  - [SquidBoard](https://www.squid-board.org/) :mdi-account::simple-icons-mega::simple-icons-mediafire::mdi-google-drive:
   - [Sukidesu OST](https://sukidesuost.info/) :simple-icons-mega::mdi-magnet:
   - [RuTracker.org](https://rutracker.org/forum/index.php) :mdi-magnet:
   - [Asia Media Blog](https://asiamediablog.com/media/music/) <Badge type="tip" text="2" link="https://jpmusicblog.com/music/" /><Badge type="tip" text="3" link="https://jpmediadl.com/music/" /><Badge type="danger" text="18+" />:mdi-snail:
@@ -102,9 +102,9 @@ outline: [1,2]
   - [Sakura OST](https://www.sakuraost.com/) :mdi-snail:
 
 ## Downloader
+- [Squid.wtf](https://squid.wtf/) :glowing-star: <Badge type="tip" text="Qobuz" link="https://qobuz.squid.wtf/" />
 - [YAMS](https://yams.tf/)
 - [Lucida](https://lucida.to/) <Badge type="tip" text="2" link="https://lucida.su/" />
-- [Squid.wtf](https://squid.wtf/)
 - [DoubleDouble](https://doubledouble.top/)
 - [MP3Daddy](https://mp3-daddy.com/) <tooltip>Don't download WAV and AIFF versions. It's pointless bloat. Use Squid.wtf or YAMS deezer. Better service.</tooltip>
 - [:ic-outline-telegram: Beatspot Music](https://t.me/BeatSpotBot)
@@ -122,7 +122,7 @@ outline: [1,2]
 ## Games
 
 - [Sitting on Clouds](https://www.sittingonclouds.net/) <Badge type="info" text="2" link="https://www.sittingonclouds.com/" /><Badge type="info" text="3" link="https://www.sittingonclouds.org/" /><Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" />:simple-icons-mega::simple-icons-mediafire:
-- [SquidBoard](https://www.squid-board.org/) <Badge type="tip" text="Alt" link="https://sqb.moe/" /><Badge type="tip" text="Status" link="https://status.lyratris.com/" />:mdi-account::simple-icons-mega::simple-icons-mediafire::mdi-google-drive:
+- [SquidBoard](https://www.squid-board.org/) :mdi-account::simple-icons-mega::simple-icons-mediafire::mdi-google-drive:
 - [HCS VGM Archive](https://vgm.hcs64.com/) :mdi-download:
 - [VGM Preservation Foundation](https://www.vgmpf.com/Wiki/index.php) :mdi-download:
 - [VGMusic](https://vgmusic.com/) :mdi-download:

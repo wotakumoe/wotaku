@@ -88,11 +88,11 @@ outline: [2,3]
 - **Dedicated**
   - [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" />
   - [Sitting on Clouds](https://www.sittingonclouds.net/) :glowing-star: <Badge type="info" text="2" link="https://www.sittingonclouds.com/" /><Badge type="info" text="3" link="https://www.sittingonclouds.org/" /><Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" />
-  - [SquidBoard](https://www.squid-board.org/) <Badge type="tip" text="Alt" link="https://sqb.moe/" /><Badge type="tip" text="Status" link="https://status.lyratris.com/" />
+  - [SquidBoard](https://www.squid-board.org/)
 - **General**
+  - [Squid.wtf](https://squid.wtf/) :glowing-star: <Badge type="tip" text="Qobuz" link="https://qobuz.squid.wtf/" />
   - [YAMS](https://yams.tf/)
-  - [Lucida](https://lucida.to/)
-  - [Squid.wtf](https://squid.wtf/)
+  - [Lucida](https://lucida.to/) <Badge type="tip" text="2" link="https://lucida.su/" />
 
 ### Software
 
