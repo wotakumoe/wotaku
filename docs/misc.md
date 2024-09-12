@@ -441,6 +441,7 @@ outline: [1,2]
   - [hololive ERROR](https://store.steampowered.com/app/2062550/hololive_ERROR/)
   - [hololive Treasure Mountain](https://store.steampowered.com/app/2972990/hololive_Treasure_Mountain/)
   - [HoloParade](https://store.steampowered.com/app/2647230/HoloParade/)
+  - [The Adventure of Ninomae Ina'nis](https://store.steampowered.com/app/3143980/The_Adventure_of_Ninomae_Inanis/)
 
 
 ## Youtube
