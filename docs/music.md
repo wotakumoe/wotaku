@@ -196,6 +196,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [Cover Search Engine](https://covers.musichoarders.xyz/) :glowing-star:
 - [Instafest](https://www.instafest.app/)
 - [Jukebox](https://jukebox.today/)
+- [LRCLIB](https://lrclib.net/)
 - [Metadata Lookup Engine](https://seed.musichoarders.xyz/)
 - [Songle](https://songle.jp/) <Badge text="Vocaloid"/>
 - [Songlink](https://odesli.co/)
