@@ -11,6 +11,10 @@ Due to DMCA takedown notices, [Tachiyomi](https://tachiyomi.org/) (now continued
 
 ### Repositories
 
+::: warning README
+Some apps might not support **Auto Install method**. That doesn't mean the guide doesn't work. Try [**manual method**](#adding-repo). We have added [**video guides**](#video-guides) too. If your app still isn't getting any extensions, try redoing the process again using VPN.
+:::
+
 #### Anime
 
 | Name | Region | Auto | Manual |
@@ -50,16 +54,22 @@ To activate torrent features, navigate to **Profile avatar (top right) -> :mdi-c
 :::
 
 
-:::details Video guide for sideloading
+#### Video guides
 
-<br>
+___
+
+::: center
+##### **Mihon & the forks**
+:::
+___
 
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/wemPCkUCyxo" frameborder="0" allowfullscreen></iframe></div>
 
-<br>
+___
+
+::: center
+##### **Dantotsu & the forks**
+:::
+___
 
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/dubXV-R9lUM" frameborder="0" allowfullscreen></iframe></div>
-
-<br>
-
-:::
