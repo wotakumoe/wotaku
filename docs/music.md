@@ -97,6 +97,7 @@ outline: [1,2]
   - [RuTracker.org](https://rutracker.org/forum/index.php) :mdi-magnet:
   - [Asia Media Blog](https://asiamediablog.com/media/music/) <Badge type="tip" text="2" link="https://jpmusicblog.com/music/" /><Badge type="tip" text="3" link="https://jpmediadl.com/music/" /><Badge type="danger" text="18+" />:mdi-snail:
 - **MP3**
+  - [Nipponsei](https://nipponsei.minglong.org/tracker/) :mdi-magnet:
   - [OS Anime](https://osanime.com/) :mdi-download:
   - [Hiyori OST](https://www.hiyoriost.com/) :mdi-google-drive::mdi-snail:
   - [Sakura OST](https://www.sakuraost.com/) :mdi-snail:
