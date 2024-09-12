@@ -255,7 +255,6 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
   - [Fluent Core](https://github.com/manga-download/haruneko) :ic-baseline-window::ic-baseline-apple:
 - [MangaL](https://github.com/metafates/mangal) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<tooltip><ul><li>TUI based</li><li>Very Fast</li><li>You can add your own lua scrapers for non-supported sites (mangadex and mangasee already supported)</li></ul></tooltip>
 - [HDoujin Downloader](https://doujindownloader.com/) :ic-baseline-window: [:mdi-github:](https://github.com/HDoujinDownloader/HDoujinDownloader)<tooltip><ul><li>Huge list of supported nsfw sites</li><li>Good UI, many settings and amazing speed</li><li>But has a 25 chapter daily limit</li></ul></tooltip>
-- [bato.dl](https://github.com/AntonisTorb/bato.dl)
 
 ::: details More
 - [Clip Studio Reader](https://github.com/MrCocoNuat/clip-studio-reader-downloader)
