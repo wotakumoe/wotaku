@@ -336,6 +336,7 @@ outline: [1,2]
 - [Apple Music](https://apps.apple.com/us/app/apple-music/id1108187390) :ic-baseline-apple:
 - [ReFreezer](https://github.com/DJDoubleD/refreezer) :mdi-android: `Deezer` 
 - [Echo](https://github.com/brahmkshatriya/echo) :mdi-android: `General`
+- [Harmony Music](https://github.com/anandnet/Harmony-Music) :mdi-android: `YouTube`
 - [Soundbound](https://soundbound.app/) :mdi-android: `General`
 - [Transistor](https://codeberg.org/y20k/transistor) :mdi-android: `Radio`
 
@@ -386,6 +387,7 @@ outline: [1,2]
 - [Spicetify](https://spicetify.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [SPOTX](https://github.com/SpotX-Official/SpotX) :ic-baseline-window:
 - [spmp](https://github.com/toasterofbread/spmp) :ic-baseline-window::mingcute-linux-fill:
+- [Harmony Music](https://github.com/anandnet/Harmony-Music) :ic-baseline-window::mingcute-linux-fill:
 - [Youtube Music](https://github.com/th-ch/youtube-music) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
 
