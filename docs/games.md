@@ -127,9 +127,11 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 - [Deluge RPG](https://www.delugerpg.com/)
 - [Eevee Expo](https://eeveeexpo.com/)
 - [PokeDoku](https://pokedoku.com/)
+- [Pokemerald](https://pokemerald.com/)
 - [Pokémon Infinite Fusion](https://infinitefusion.fandom.com/wiki/Pok%C3%A9mon_Infinite_Fusion_Wiki)
-- [Pokémon Showdown!](https://play.pokemonshowdown.com/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://dex.pokemonshowdown.com/" />
 - [Pokemon Revolution](https://pokemonrevolution.net/home)
+- [Pokémon Showdown!](https://play.pokemonshowdown.com/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://dex.pokemonshowdown.com/" />
+- [Pokemon Xenoverse](https://pokemonxenoverse.com/)
 - [PokéRogue](https://pokerogue.net/) [:mdi-github:](https://github.com/pagefaultgames/pokerogue)
 - [Who's that Pokémon?](https://gearoid.me/pokemon/)
 
