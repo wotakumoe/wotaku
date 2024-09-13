@@ -53,7 +53,7 @@ For anime, it indicates a re-encoded video. For manga, it indicates that an edit
 Torrent trackers that don't allow you to freely make an account, but require you to get an invitation from an existing member or pass an interview. Some PTs also have specific periods where they allow for open signups.
 
 ### IRC
-IRC (Internet Relay Chat) is a really old messaging protocol. It uses client and server connection to communicate. You can use various bot to download files in high speed. Follow [**our guide**](/guides/irc.md) to get started.
+IRC (Internet Relay Chat) is a really old messaging protocol. It uses client and server connection to communicate. You can use various bot to download files in high speed. Follow [**our guide**](/guides/tech/irc) to get started.
 
 ### Usenet
 Usenet is a subscription-based service. Though really old, it's still very reliable. Its system consists of a few elements:
