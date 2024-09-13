@@ -145,6 +145,7 @@ outline: [2,3]
 - [Anime Subtitle Player](https://anime-subtitle-player.vercel.app/) :mdi-earth: [:mdi-github:](https://github.com/LostArrows27/anime-subtitle-player)
 - [Animebook](https://animebook.github.io/) :mdi-earth: <Badge type="info" text="Guide" link="https://cademcniven.com/posts/20210703/" />
 - [Asbplayer](https://killergerbah.github.io/asbplayer/) :mdi-earth::mingcute-chrome-fill: [:mdi-github:](https://github.com/killergerbah/asbplayer)
+- [Emby Jimaku](https://github.com/bpwhelan/Emby.Jimaku)
 - [memento](https://github.com/ripose-jp/Memento) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [mpvacious](https://github.com/Ajatt-Tools/mpvacious) :ic-baseline-window::mingcute-linux-fill:
 - [mpv jimaku](https://github.com/ZXY101/mpv-jimaku)
@@ -213,6 +214,7 @@ outline: [2,3]
 - [Luna Translator](https://github.com/HIllya51/LunaTranslator)
 - [Textractor](https://github.com/Artikash/Textractor) <Badge type="tip" text="Guide" link="https://xelieu.github.io/jp-lazy-guide/setupVnOnPC/" />
 - [Textractor websocket](https://github.com/kuroahna/textractor_websocket)
+- [Trim Japanese Game Audio](https://github.com/bpwhelan/TrimJapaneseGameAudio/)
 
 #### Others
 - [ComicEater](https://github.com/kanjieater/ComicEater)
