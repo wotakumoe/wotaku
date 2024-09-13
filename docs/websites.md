@@ -242,13 +242,14 @@ outline: 1
 ::: details More
 - [Cubari Proxy](https://proxy.cubari.moe/) <Badge type="danger" text="18+" />
 - [Manga Katana](https://mangakatana.com/)
-- [Hachi](https://hachi.moe/) <Badge type="danger" text="18+" /> 
+- [Hachi](https://hachi.moe/) <Badge type="danger" text="18+" />
 - [Colored Manga](https://coloredmanga.net/)
 - [Mangahasu](https://mangahasu.se/)
 - [Mangahub](https://mangahub.io/)<Badge type="info" text="Needs account" /><Badge type="danger" text="18+" />
 - [Manga Buddy](https://mangabuddy.com/home) <Badge type="info" text="2" link="https://mangamirror.com/home-page" /> <Badge type="info" text="3" link="https://mangaforest.com/home" /><Badge type="danger" text="18+" />
 - [Dynasty Reader](https://dynasty-scans.com/) <Badge type="danger" text="18+" />
 - [Like Manga](https://likemanga.io)
+- [Comic Fans](https://www.comicfans.io/) <Badge type="info" text="Manhua" /><Badge type="danger" text="18+" /><tooltip>Backup of Bilibili Comics</tooltip>
 - [Manga Here](https://www.mangahere.cc/) <Badge type="info" text="2" link="https://fanfox.net/" />
 - [Manganato](https://manganato.com/)
 
