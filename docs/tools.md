@@ -113,7 +113,7 @@ outline: [1,2]
 | [libtorrent](https://www.libtorrent.org/index.html) | :octicon-command-palette-16: | :cross-mark: | :check-mark-button: | :check-mark-button: |
 | [MegaBasterd](https://github.com/tonikelope/megabasterd) | :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: | :check-mark-button: | :cross-mark: | :check-mark-button: |
 | [Persepolis](https://persepolisdm.github.io/) | :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: | :check-mark-button: | :cross-mark: | :check-mark-button: |
-| [TIXATI](https://www.tixati.com/) | :ic-baseline-window::mingcute-linux-fill: | :cross-mark: | :check-mark-button: | :check-mark-button: |
+| [TIXATI](https://www.tixati.com/) | :ic-baseline-window::mingcute-linux-fill: | :cross-mark: | :check-mark-button: | :cross-mark: |
 | [Transmission](https://transmissionbt.com/) | :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: | :cross-mark: | :check-mark-button: | :check-mark-button: |
 | [Xtreme Download Manager](https://xtremedownloadmanager.com/) | :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: | :check-mark-button: | :cross-mark: | :check-mark-button: |
 
@@ -171,7 +171,8 @@ outline: [1,2]
   - [FFmpeg](https://ffmpeg.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
   - [HandBrake](https://handbrake.fr/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
   - [Videomass](https://jeanslack.github.io/Videomass/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-  - [ffmpeg.wasm](https://ffmpegwasm.netlify.app/)
+  - [FFmpeg.wasm](https://ffmpegwasm.netlify.app/)
+  - [FFmpeg Batch AV Converter](https://github.com/eibol/ffmpeg_batch)
 
 ## mpv
 
