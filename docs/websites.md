@@ -63,7 +63,7 @@ outline: 1
       <li>Really minimal UI.</li>
       <li>Links DDL source from Kayoanime.</li>
       <li>No dub selector.</li>
-      <li>Mapping might gives issues.</li>
+      <li>Mapping might give issues.</li>
     </ul>
   </tooltip>
 - [AniPulse](https://www.anipulse.to/) 
