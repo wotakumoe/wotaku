@@ -56,6 +56,16 @@ outline: 1
       <li>Also smaller library size.</li>
     </ul>
   </tooltip>
+- [Enimoe](https://enimoe.live/) 
+  <tooltip>
+    <ul>
+      <li>Scrapes from multiple sources.</li>
+      <li>Really minimal UI.</li>
+      <li>Links DDL source from Kayoanime.</li>
+      <li>No dub selector.</li>
+      <li>Mapping might gives issues.</li>
+    </ul>
+  </tooltip>
 - [AniPulse](https://www.anipulse.to/) 
   <tooltip>
     <ul>
