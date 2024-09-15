@@ -26,6 +26,7 @@ outline: [1,2]
 - [Hentai Mama](https://hentaimama.io/)
 - [Hentai Stream](https://hstream.moe/) <Badge type="info" text="Upscale" />
 - [Hentai World](https://hentaiworld.tv/)
+- [Hentaini](https://hentaini.com/hnihome)
 - [Hentaverse](https://hentaverse.com/)
 - [HMV Mania](https://hmvmania.com/) <Badge type="tip" text="/h/ thread" link="https://archived.moe/h/thread/7621997/" />
 - [Mucho Hentai](https://muchohentai.com/) <Badge type="info" text="Schedule" /><Badge type="info" text="PV" />
@@ -109,7 +110,9 @@ outline: [1,2]
 - [CPG Repacks](https://cpgrepacks.site)
 - [Eroge Download](https://erogedownload.com/)
 - [F95Zone](https://f95zone.to/) <Badge type="info" text="Needs account" />
+- [Gamcore](https://gamcore.com/)
 - [Kimochi](https://kimochi.info)
+- [LewdCorner](https://lewdcorner.com/) <Badge type="info" text="Needs account" />
 - [Ryuu games](https://www.ryuugames.com/)
 - [VNPocket](https://vnpocket.com/)
 
@@ -159,7 +162,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 
 ### Downloader
 - [Hakuneko](https://github.com/manga-download/haruneko) [:mdi-earth:](https://hakuneko.download/)<Badge type="info" text="Multi" />
-- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) <Badge type="info" text="Multi" /><Badge type="info" text="Anime" />
+- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) <Badge type="info" text="Multi" /><Badge type="info" text="Anime" />
 - [HDoujin Downloader](https://github.com/HDoujinDownloader/HDoujinDownloader) [:mdi-earth:](https://doujindownloader.com/)<Badge type="info" text="Multi" />
 - [Hentai downloader](https://github.com/touno-io/hentai-downloader)<Badge type="info" text="E-Hentai" />
 - [E-Hentai Downloader](https://github.com/ccloli/E-Hentai-Downloader)<Badge type="info" text="E-Hentai" />
