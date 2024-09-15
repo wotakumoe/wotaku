@@ -275,7 +275,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 ### Image
 - [gallery-dl](https://github.com/mikf/gallery-dl) :glowing-star: :ic-baseline-window::mingcute-linux-fill:
-- [Hydrus network](https://hydrusnetwork.github.io/hydrus/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Hydrus network](https://hydrusnetwork.github.io/hydrus/) <Badge type="info" text="Scripts" link="https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts"/>:ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [PixivUtil2](https://github.com/Nandaka/PixivUtil2) :ic-baseline-window:
 
