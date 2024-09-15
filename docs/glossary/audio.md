@@ -327,7 +327,7 @@ This spectral is of a 160kbps CBR Vorbis file. Comparing the 160kbps Ogg to the 
 
 ![AAC 256kbps (VBR)](/glossary/audio/spec/256aac.jpg)
 
-This spectral is of a VBR 256kbps AAC file. Apple Audio Codec, or AAC, is a compression algorithm developed by Apple for use in its devices. The bitrate at any given time fluctuates between 216 - 313kbps. A cutoff right before 22kHz can be observed at the top. It can be very hard to notice, however, frequencies are missing when compared to the FLAC equivalent. Especially around areas where the frequencies were already quiet. Instead of a defined shelf, AAC will determine which frequencies can safely be removed without compromising the quality of the mix.
+This spectral is of a VBR 256kbps AAC file, Advanced Audio Codec, or AAC. The bitrate at any given time fluctuates between 216 - 313kbps. A cutoff right before 22kHz can be observed at the top. It can be very hard to notice, however, frequencies are missing when compared to the FLAC equivalent. Especially around areas where the frequencies were already quiet. Instead of a defined shelf, AAC will determine which frequencies can safely be removed without compromising the quality of the mix.
 
 The spec for the lossless 16/44.1:
 
