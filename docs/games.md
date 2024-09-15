@@ -50,8 +50,16 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 :::
 
 ## Tools
-- [Locale Emulator](https://github.com/xupefei/Locale-Emulator) :ic-baseline-window:
-- [Megami Tensei Fusion Tools](https://aqiu384.github.io/megaten-fusion-tool/home)
+
+- **OCR**
+   - [Agent](https://github.com/0xDC00/agent)
+   - [Game2Text](https://game2text.com/)
+   - [MTool](https://trs.mtool.app/release.php?lang=en) <Badge type="warning" text="Freemium" />
+   - [YomiNinja](https://github.com/matt-m-o/YomiNinja)
+- **Others**
+   - [Locale Emulator](https://github.com/xupefei/Locale-Emulator) :ic-baseline-window:
+   - [Megami Tensei Fusion Tools](https://aqiu384.github.io/megaten-fusion-tool/home)
+   - [thprac](https://github.com/touhouworldcup/thprac)
 
 
 ## Info
@@ -60,6 +68,7 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 
 - [Backloggd](https://www.backloggd.com/)
 - [GOG Database](https://www.gogdb.org/)
+- [HowLongToBeat](https://howlongtobeat.com/)
 - [IGDB](https://www.igdb.com/)
 - [Infinite Backlog](https://infinitebacklog.net/) :glowing-star:
 - [MobyGames](https://www.mobygames.com/)
