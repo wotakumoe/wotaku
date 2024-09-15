@@ -370,11 +370,11 @@ outline: [1,2]
 
 ## Imageboards
 
-- **Pixiv**
-  - [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE%2B)
-  - Pixiv Downloader <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/432150-pixiv-downloader" />
-  - [Pixiv Preview](https://github.com/NightLancer/PixivPreview) <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/39387-pixiv-arts-preview-followed-atrists-coloring-extended-history" />
-  - [ppixiv for Pixiv](https://github.com/ppixiv/ppixiv) <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/370418-ppixiv-for-pixiv" />
+- **Clients**
+  - [DashchanFork](https://github.com/TrixiEther/DashchanFork) :mdi-android:
+  - [KurobaEx](https://github.com/K1rakishou/Kuroba-Experimental/) :mdi-android:
+  - [Read Chan](https://play.google.com/store/apps/details?id=com.deezus.pchan) :mdi-android:
+  - [TUI-Chan](https://github.com/tuqqu/tui-chan) :ic-baseline-window:
 - **4Chan** 
   - [4chan X](https://github.com/ccd0/4chan-x) :mingcute-chrome-fill::mdi-language-javascript:
       - [4chan XT](https://github.com/TuxedoTako/4chan-xt) :mdi-language-javascript:
@@ -383,6 +383,11 @@ outline: [1,2]
       - [SS21](https://github.com/saxamaphone69/ss21) :mdi-language-javascript::mdi-format-paint:
   - [Desu X](https://greasyfork.org/en/scripts/483282-desu-x-enhancement-script-for-desuarchive-org) :mdi-language-javascript:
   - [Dollchan](https://github.com/SthephanShinkufag/Dollchan-Extension-Tools/) :mdi-firefox::mdi-language-javascript:
+- **Pixiv**
+  - [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE%2B)
+  - Pixiv Downloader <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/432150-pixiv-downloader" />
+  - [Pixiv Preview](https://github.com/NightLancer/PixivPreview) <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/39387-pixiv-arts-preview-followed-atrists-coloring-extended-history" />
+  - [ppixiv for Pixiv](https://github.com/ppixiv/ppixiv) <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/370418-ppixiv-for-pixiv" />
 - **Others**
   - [Handy Image](https://github.com/Owyn/HandyImage) <Badge type="tip" icon="i-custom-fork" text="Sleazy" link="https://sleazyfork.org/en/scripts/109-handy-image" />
   - [Image Max URL](https://github.com/qsniyg/maxurl)
