@@ -227,6 +227,7 @@ You should never use cracked or modded VPN cause all of your traffic will go thr
   - [TUI-Chan](https://github.com/tuqqu/tui-chan) :ic-baseline-window:
 - **Extension / Script**
   - [4chan X](https://github.com/ccd0/4chan-x) :mingcute-chrome-fill::mdi-language-javascript:
+      - [4chan XT](https://github.com/TuxedoTako/4chan-xt) :mdi-language-javascript:
       - [OneeChan](https://github.com/KevinParnell/OneeChan) :mdi-language-javascript:
       - [StyleChan](https://github.com/3nly/StyleChan) :mdi-language-javascript:
       - [SS21](https://github.com/saxamaphone69/ss21) :mdi-language-javascript::mdi-format-paint:

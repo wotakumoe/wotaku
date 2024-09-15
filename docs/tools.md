@@ -376,9 +376,13 @@ outline: [1,2]
   - [Pixiv Preview](https://github.com/NightLancer/PixivPreview) <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/39387-pixiv-arts-preview-followed-atrists-coloring-extended-history" />
   - [ppixiv for Pixiv](https://github.com/ppixiv/ppixiv) <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/370418-ppixiv-for-pixiv" />
 - **4Chan** 
-  - [4chan X](https://github.com/ccd0/4chan-x)
-  - [StyleChan](https://github.com/3nly/StyleChan)
-  - [Desu X](https://greasyfork.org/en/scripts/483282-desu-x-enhancement-script-for-desuarchive-org)
+  - [4chan X](https://github.com/ccd0/4chan-x) :mingcute-chrome-fill::mdi-language-javascript:
+      - [4chan XT](https://github.com/TuxedoTako/4chan-xt) :mdi-language-javascript:
+      - [OneeChan](https://github.com/KevinParnell/OneeChan) :mdi-language-javascript:
+      - [StyleChan](https://github.com/3nly/StyleChan) :mdi-language-javascript:
+      - [SS21](https://github.com/saxamaphone69/ss21) :mdi-language-javascript::mdi-format-paint:
+  - [Desu X](https://greasyfork.org/en/scripts/483282-desu-x-enhancement-script-for-desuarchive-org) :mdi-language-javascript:
+  - [Dollchan](https://github.com/SthephanShinkufag/Dollchan-Extension-Tools/) :mdi-firefox::mdi-language-javascript:
 - **Others**
   - [Handy Image](https://github.com/Owyn/HandyImage) <Badge type="tip" icon="i-custom-fork" text="Sleazy" link="https://sleazyfork.org/en/scripts/109-handy-image" />
   - [Image Max URL](https://github.com/qsniyg/maxurl)
