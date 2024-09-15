@@ -428,6 +428,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Kanji tomo](https://www.kanjitomo.net/)
 - [Manga OCR](https://github.com/kha-white/manga-ocr)
 - [Mokuro](https://github.com/kha-white/mokuro)
+- [OwOCR](https://github.com/AuroraWright/owocr)
 - [Poricom](https://github.com/blueaxis/Poricom)
 - [Yomiwa](https://www.yomiwa.net/)
 
