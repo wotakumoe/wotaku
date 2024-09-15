@@ -117,14 +117,15 @@ outline: [1,2]
 | [Transmission](https://transmissionbt.com/) | :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: | :cross-mark: | :check-mark-button: | :check-mark-button: |
 | [Xtreme Download Manager](https://xtremedownloadmanager.com/) | :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: | :check-mark-button: | :cross-mark: | :check-mark-button: |
 
-#### Related materials
+#### Related resources
 
 | Software | Materials |
 |-|-|
 | [Internet Download Manager](https://www.internetdownloadmanager.com/) | [Installation Guide](https://rentry.org/installidm) |
-| [qBittorrent](https://www.qbittorrent.org/) | [Theme Index](https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-qBittorrent-themes) <br> [Search Plugins](https://github.com/qbittorrent/search-plugins) <br> [qBitController](https://github.com/Bartuzen/qBitController) <br> [VueTorrent](https://github.com/VueTorrent/VueTorrent) |
 | [JDownloader](https://jdownloader.org/) | [Remove ads](/guides/tech/jdl.md) |
 | [MegaBasterd](https://github.com/tonikelope/megabasterd) | [Account generator](https://github.com/qtchaos/py_mega_account_generator) <br> [MegaDoctor](https://github.com/tonikelope/megadoctor) |
+| [qBittorrent](https://www.qbittorrent.org/) | [Theme Index](https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-qBittorrent-themes) <br> [Search Plugins](https://github.com/qbittorrent/search-plugins) <br> [qBitController](https://github.com/Bartuzen/qBitController) <br> [VueTorrent](https://github.com/VueTorrent/VueTorrent) |
+| [Transmission](https://transmissionbt.com/) | [Transmission Remote GUI](https://github.com/transmission-remote-gui/transgui) |
 
 ### Media
 
@@ -219,6 +220,7 @@ outline: [1,2]
   - [Bazarr](https://www.bazarr.media/)
   - [Sonarr/Radarr/Lidarr autosearch](https://chromewebstore.google.com/detail/jmmjjcddjldjdjgckdiokhfokccdnekc)
   - [Doplarr](https://github.com/kiranshila/Doplarr)
+  - [homarr](https://github.com/ajnart/homarr)
   - [requestrr](https://github.com/thomst08/requestrr)
 - **Guides**
   - [Servarr Wiki](https://wiki.servarr.com/)
