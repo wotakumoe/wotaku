@@ -149,12 +149,16 @@ outline: [1,2]
 - [ArtStation](https://www.artstation.com/)
 - [Cara](https://cara.app/explore)
 - [DeviantArt](https://www.deviantart.com/)
+- [Illust Days](https://illust.daysneo.com/)
 - [Misskey.io](https://misskey.io/) <Badge type="tip" text="Others" link="https://misskey-hub.net/en/servers/" />
 - [Newgrounds](https://www.newgrounds.com/art)
+- [Nico Nico Seiga](https://seiga.nicovideo.jp/)
 - [Pixiv](https://www.pixiv.net) :glowing-star:
   - [Pixivision](https://www.pixivision.net/en/)
   - [Pixiv Viewer](https://pixiv.pics/)
   - [Pixiv Yearbook](https://pixiv.navirank.com/) :glowing-star:
+- [Poipiku.com/](https://poipiku.com/)
+- [Tinami](https://www.tinami.com/)
 - [Tumblr](https://www.tumblr.com/)
 - [Twitter](https://x.com/home) :glowing-star:
 - [Twoucan](https://twoucan.com/)
