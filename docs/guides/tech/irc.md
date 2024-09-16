@@ -27,8 +27,8 @@ If you face any issues when connecting, try enabling **"Accept invalid SSL certi
 
 
 ## IRC Client
-- [Revolution IRC](https://play.google.com/store/apps/details?id=io.mrarm.irc)		<Badge type="info" text="Android" />
-- [AndroIRC](https://play.google.com/store/apps/details?id=com.androirc&hl=en&gl=US)		<Badge type="info" text="Android" />
+- [Revolution IRC](https://github.com/MCMrARM/revolution-irc)		<Badge type="info" text="Android" />
+- [IRCCloud](https://github.com/irccloud/android)		<Badge type="info" text="Android" />
 - [HexChat](https://hexchat.github.io/)		<Badge type="info" text="Windows" />
 - [mIRC](https://www.mirc.com/)		<Badge type="info" text="Windows" />
 - [AdiIRC](https://adiirc.com/)	<Badge type="info" text="Windows" />
