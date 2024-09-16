@@ -111,6 +111,7 @@ outline: [1,2]
 | [Gopeed](https://gopeed.com/) | :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
 | [JDownloader](https://jdownloader.org/) | :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: | :check-mark-button: | :cross-mark: | :cross-mark: |
 | [libtorrent](https://www.libtorrent.org/index.html) | :octicon-command-palette-16: | :cross-mark: | :check-mark-button: | :check-mark-button: |
+| [Media Downloader](https://github.com/mhogomchungu/media-downloader) | :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
 | [MegaBasterd](https://github.com/tonikelope/megabasterd) | :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: | :check-mark-button: | :cross-mark: | :check-mark-button: |
 | [Persepolis](https://persepolisdm.github.io/) | :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: | :check-mark-button: | :cross-mark: | :check-mark-button: |
 | [TIXATI](https://www.tixati.com/) | :ic-baseline-window::mingcute-linux-fill: | :cross-mark: | :check-mark-button: | :cross-mark: |
