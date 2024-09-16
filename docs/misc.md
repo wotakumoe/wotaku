@@ -509,6 +509,7 @@ outline: [1,2]
 - [Animerdle](https://www.animerdle.com/)
 - [Anipool](https://www.anipool.app/)
 - [Chiaki Anime Quiz](https://chiaki.site/?/quiz)
+- [Eroge Music Quiz](https://erogemusicquiz.com/) <Badge type="danger" text="18+" />
 - [Guess The Anime Opening](https://guesstheopening.com/anime)
 
 
