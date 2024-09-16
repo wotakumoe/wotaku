@@ -148,8 +148,9 @@ outline: 1
 
 ### Donghua
 - [Animekhor](https://animekhor.xyz/)
-- [Lucifer Donghua](https://luciferdonghua.in/)
+- [Dongsub](https://www.dongsub.com/)
 - [LM Anime](https://lmanime.com/)
+- [Lucifer Donghua](https://luciferdonghua.in/)
 - [Myanime](https://myanime.live/)
 
 ### Youtube
