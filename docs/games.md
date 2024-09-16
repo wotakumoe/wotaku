@@ -33,6 +33,7 @@ outline: 2
 - [CDRomance](https://cdromance.com/)
 - [ConsoleRoms](https://www.consoleroms.com/)
 - [Crocdb](https://crocdb.net/)
+- [EBZero ROM set](https://archive.org/details/retro-roms-best-set) <Badge type="info" text="Needs account" />
 - [Myrient](https://myrient.erista.me/)
 - [Romheaven](https://romheaven.com/) <Badge type="info" text="2" link="https://romheaven.su/" />
 - [ROMsPURE](https://romspure.cc/roms)
