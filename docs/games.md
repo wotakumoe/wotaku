@@ -60,6 +60,7 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 - **Others**
    - [Hoyolab Auto-sign](https://github.com/canaria3406/hoyolab-auto-sign)
    - [Locale Emulator](https://github.com/xupefei/Locale-Emulator) :ic-baseline-window:
+   - [Locale Remulator](https://github.com/InWILL/Locale_Remulator) :ic-baseline-window:
    - [Megami Tensei Fusion Tools](https://aqiu384.github.io/megaten-fusion-tool/home)
    - [thprac](https://github.com/touhouworldcup/thprac)
 
