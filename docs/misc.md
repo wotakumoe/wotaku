@@ -144,9 +144,10 @@ outline: [1,2]
 
 # Illustrations
 
+<br>
+
 ::: danger All listed sites have NSFW content unless specified otherwise.
 :::
-
 ## Platforms
 
 - [ArtStation](https://www.artstation.com/)
