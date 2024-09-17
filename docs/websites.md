@@ -407,7 +407,6 @@ outline: 1
 - [Elscione Official LNs](https://server.elscione.com/Officially%20Translated%20Light%20Novels/)
 - [Novel Onedrive Index](https://novel-indx.vercel.app/)
 - [Madokami](https://manga.madokami.al)
-- [Just Light Novels](https://www.justlightnovels.com/)
 - [Anna’s Archive](https://annas-archive.org/) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
 - [Library Genesis](https://libgen.gs/)
 - [Z-Library](https://z-library.rs/) <Badge type="tip" text="2" link="https://singlelogin.re/" />
