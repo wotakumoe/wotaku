@@ -431,6 +431,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [OwOCR](https://github.com/AuroraWright/owocr)
 - [Poricom](https://github.com/blueaxis/Poricom)
 - [Yomiwa](https://www.yomiwa.net/)
+- :material-symbols-subdirectory-arrow-right: [OCR Game tools](https://wotaku.wiki/games#tools)
 
 :::danger Don't use MTL
 Using Machine Translation to translate manga will be a mess. Manga has lots of slang, cultural references, and visual elements that MTL won't understand. So, it's better to have a human translator who knows the language and culture well. You don't want to end up with a wonky or inaccurate translation!
