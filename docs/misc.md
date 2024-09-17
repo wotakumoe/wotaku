@@ -144,6 +144,9 @@ outline: [1,2]
 
 # Illustrations
 
+::: danger All listed sites have NSFW content unless specified otherwise.
+:::
+
 ## Platforms
 
 - [ArtStation](https://www.artstation.com/)
@@ -204,9 +207,6 @@ outline: [1,2]
 - [Wallhaven](https://wallhaven.cc/)
 - [wanderer.moe](https://wanderer.moe/) [:mdi-github:](https://github.com/wanderer-moe/site)
 - [:four-leaf-clover:/w/](http://catalog.neet.tv/w/) <Badge type="danger" icon="i-fxemoji-skull" text="NSFL" />
-
-::: danger All listed sites have NSFW content unless specified otherwise.
-:::
 
 ::: details :material-symbols-subdirectory-arrow-right: Related resources
 - [Illustration downloader](/software.md#image)
