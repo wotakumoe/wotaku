@@ -211,6 +211,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [Check Track Availability](https://spotify-check-track-availability.vercel.app/) [:mdi-github:](https://github.com/wcelery/spotify-check-track-availability)
 - [Chosic](https://www.chosic.com/) :glowing-star:
 - [Discover Quickly](https://discoverquickly.com/)
+- [Exportify](https://exportify.app/) [:mdi-github:](https://github.com/watsonbox/exportify)
 - [Lyricpost](https://palinkiewicz.github.io/lyricpost/) [:mdi-github:](https://github.com/palinkiewicz/lyricpost)
 - [Musicalyst](https://musicalyst.com/)
 - [Playlist Sorter](https://www.playlistsorter.com/)
