@@ -213,10 +213,15 @@ You should never use cracked or modded VPN cause all of your traffic will go thr
 - [:four-leaf-clover:/vt/ - Virtual YouTubers](https://boards.4channel.org/vt/)
 - [:four-leaf-clover:/w/ - Anime/Wallpapers](https://boards.4channel.org/w/)
 
-### Archive
-- [Archived.Moe](https://archived.moe/)
-- [Desuarchive](https://desuarchive.org/)
-- [Fuuka](https://warosu.org/)
+### Archives
+- [4search](https://4search.neocities.org/)
+  - [4plebs](https://archive.4plebs.org/)
+  - [Archived.Moe](https://archived.moe/)
+  - [b4k](https://arch.b4k.co/)
+  - [Desuarchive](https://desuarchive.org/)
+  - [Eientei](https://eientei.xyz/)
+  - [Palanq](https://archive.palanq.win/)
+  - [Warosu](https://warosu.org/)
 
 ### Others
 
