@@ -344,7 +344,7 @@ outline: [1,2]
 - [Anime Website Buttons Plus](https://greasyfork.org/en/scripts/398046-anime-website-custom-buttons-plus) [:mdi-github:](https://github.com/Deatthwing/anime-website-buttons-plus)
 - [Bye Spoilers - Crunchyroll](https://github.com/zAlfok/ByeSpoilers-Crunchyroll)
 - [Find on Nyaa](https://greasyfork.org/en/scripts/379776-find-on-nyaa)
-- [MAL-Sync](https://github.com/MALSync/MALSync/releases/latest/download/malsync.user.js)
+- [MAL-Sync](https://github.com/MALSync/MALSync)
 - [nyaablue](https://greasyfork.org/en/scripts/441017-nyaablue)
 
 ## AniList
@@ -371,13 +371,13 @@ outline: [1,2]
 ## Imageboards
 
 - **4Chan** 
-  - [4chan X](https://github.com/ccd0/4chan-x) :mingcute-chrome-fill::mdi-language-javascript:
-      - [4chan XT](https://github.com/TuxedoTako/4chan-xt) :mdi-language-javascript:
-      - [OneeChan](https://github.com/KevinParnell/OneeChan) :mdi-language-javascript:
-      - [StyleChan](https://github.com/3nly/StyleChan) :mdi-language-javascript:
-      - [SS21](https://github.com/saxamaphone69/ss21) :mdi-language-javascript::mdi-format-paint:
-  - [Desu X](https://greasyfork.org/en/scripts/483282-desu-x-enhancement-script-for-desuarchive-org) :mdi-language-javascript:
-  - [Dollchan](https://github.com/SthephanShinkufag/Dollchan-Extension-Tools/) :mdi-firefox::mdi-language-javascript:
+  - [4chan X](https://github.com/ccd0/4chan-x)
+      - [4chan XT](https://github.com/TuxedoTako/4chan-xt)
+      - [OneeChan](https://github.com/KevinParnell/OneeChan)
+      - [StyleChan](https://github.com/3nly/StyleChan)
+      - [SS21](https://github.com/saxamaphone69/ss21)
+  - [Desu X](https://greasyfork.org/en/scripts/483282-desu-x-enhancement-script-for-desuarchive-org)
+  - [Dollchan](https://github.com/SthephanShinkufag/Dollchan-Extension-Tools/)
 - **Pixiv**
   - [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE%2B)
   - [Pixiv Downloader](https://greasyfork.org/en/scripts/432150-pixiv-downloader)
