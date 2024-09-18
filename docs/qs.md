@@ -214,7 +214,7 @@ You should never use cracked or modded VPN cause all of your traffic will go thr
 - [:four-leaf-clover:/w/ - Anime/Wallpapers](https://boards.4channel.org/w/)
 
 ### Archives
-- [4search](https://4search.neocities.org/)
+- [4chan archive search](https://4search.neocities.org/)
   - [4plebs](https://archive.4plebs.org/)
   - [Archived.Moe](https://archived.moe/)
   - [b4k](https://arch.b4k.co/)
