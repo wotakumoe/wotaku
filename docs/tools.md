@@ -370,11 +370,6 @@ outline: [1,2]
 
 ## Imageboards
 
-- **Clients**
-  - [DashchanFork](https://github.com/TrixiEther/DashchanFork) :mdi-android:
-  - [KurobaEx](https://github.com/K1rakishou/Kuroba-Experimental/) :mdi-android:
-  - [Read Chan](https://play.google.com/store/apps/details?id=com.deezus.pchan) :mdi-android:
-  - [TUI-Chan](https://github.com/tuqqu/tui-chan) :ic-baseline-window:
 - **4Chan** 
   - [4chan X](https://github.com/ccd0/4chan-x) :mingcute-chrome-fill::mdi-language-javascript:
       - [4chan XT](https://github.com/TuxedoTako/4chan-xt) :mdi-language-javascript:
