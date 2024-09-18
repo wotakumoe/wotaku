@@ -218,7 +218,7 @@ You should never use cracked or modded VPN cause all of your traffic will go thr
   - [4plebs](https://archive.4plebs.org/)
   - [Archived.Moe](https://archived.moe/)
   - [b4k](https://arch.b4k.co/)
-  - [Desuarchive](https://desuarchive.org/)
+  - [Desuarchive](https://desuarchive.org/) :glowing-star:
   - [Eientei](https://eientei.xyz/)
   - [Palanq](https://archive.palanq.win/)
   - [Warosu](https://warosu.org/)
