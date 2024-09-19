@@ -40,7 +40,7 @@ outline: [1,2]
 - [E-Hentai](https://e-hentai.org/) :glowing-star: <Badge type="tip" text="Search Guide" link="https://e-hentaitagsearch.blogspot.com/" /> <tooltip>It is the mangadex for doujins. Almost every doujin is first uploaded here before being scraped by other sites. Online viewer compresses the images but has the option to download stuff in original quality.<br>
 <a href="https://exhentai.org/">Exhentai</a> is it's sister site, which also hosts the more extreme and questionable content. You'll need an account on e-hentai to gain access.</tooltip>
 - [nHentai](https://nhentai.net/) <tooltip>Most popular. Decent UI but compresses images.</tooltip>
-- [Akuma](https://akuma.moe/) <Badge type="tip" text="2" link="https://yabai.si/g" /><tooltip>EHentai clone.</tooltip>
+- [Akuma](https://akuma.moe/) <tooltip>E-Hentai clone.</tooltip>
 - [AsmHentai](https://asmhentai.com/)
 - [IMHentai](https://imhentai.xxx/) <tooltip>Big Library and great search filters.</tooltip>
 - [HentaiRead](https://hentairead.com/)
@@ -48,7 +48,7 @@ outline: [1,2]
 - [Koharu](https://koharu.to/) <tooltip>fakku/irodori rips (official TLs).</tooltip>
 - [Panda Backup](https://panda.chaika.moe/) <tooltip>Archive of stuff removed from E-Hentai due to DMCA complaints. Has some obscure stuff deleted on most sites.</tooltip>
 - [Sukidesu](https://sukidesu.moe/)
-- [Yabai](https://yabai.si/)
+- [Yabai](https://yabai.si/) <tooltip>E-Hentai clone.</tooltip>
 
 ### English-only
 - [Hentai Nexus](https://hentainexus.com/) <tooltip>fakku/irodori rips (official TLs).</tooltip>
