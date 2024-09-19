@@ -336,6 +336,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
   - [Innertune](https://github.com/z-huang/InnerTune) :glowing-star: :mdi-android:
     - [OuterTune](https://github.com/DD3Boh/OuterTune)
   - [RiMusic](https://github.com/fast4x/RiMusic) :mdi-android:
+  - [SimpMusic](https://github.com/maxrave-dev/SimpMusic) :mdi-android:
 - [**Spotify**](https://www.spotify.com/us/download/)
   - [Spotify Mod by Blatan](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5tZS9zZWFyY2gucGhwP3N0PTAmc2s9dCZzZD1kJnNyPXBvc3RzJmF1dGhvcl9pZD02MzY0MDk.ZHVjaw) :glowing-star: <Badge type="info" text="Needs Account" /> :mdi-android:
   - [xManager](https://www.xmanagerapp.com/) :mdi-android:
