@@ -342,6 +342,7 @@ outline: [1,2]
 ## Anime
 - [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs)
 - [Anime Website Buttons Plus](https://greasyfork.org/en/scripts/398046-anime-website-custom-buttons-plus) [:mdi-github:](https://github.com/Deatthwing/anime-website-buttons-plus)
+- [Better HiAnime](https://greasyfork.org/en/scripts/506340-better-hianime)
 - [Bye Spoilers - Crunchyroll](https://github.com/zAlfok/ByeSpoilers-Crunchyroll)
 - [Find on Nyaa](https://greasyfork.org/en/scripts/379776-find-on-nyaa)
 - [MAL-Sync](https://github.com/MALSync/MALSync)
