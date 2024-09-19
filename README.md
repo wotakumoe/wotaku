@@ -38,13 +38,13 @@ enhance the wiki further. Also, don't hesitate to [suggest ideas](#submitting-a-
 3. Adult content sites similar to OnlyFans
 4. Software that's too general (for example Windows OS related or Tweaking for privacy)
 5. Sites focused on lolicon or furry stuff
-6. Sites listed in [FMHY unsafe list](https://fmhy.net/unsafesites)
+6. Sites found in the untrusted lists of [FMHY](https://fmhy.net/unsafesites) and/or [r/PiratedGames](https://rentry.org/pgames#untrusted-sites)
 
 ## ⚠️ Things we will try to avoid
 
 1. Closed source software (with good FOSS alternatives)
 2. Sites that only use hosters such Katfile, Nitroflare, DDownload and Rapidgator
-3. Sites that aren't primarily for anime but have it as a side product
+3. Sites that aren't primarily for anime, but have it as a side product
 4. Sites scraping only one source, such as gogo or zoro
 5. Things that are too niche and/or have a small userbase
 
