@@ -62,7 +62,7 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
    - [Locale Emulator](https://github.com/xupefei/Locale-Emulator) :ic-baseline-window:
    - [Locale Remulator](https://github.com/InWILL/Locale_Remulator) :ic-baseline-window:
    - [Megami Tensei Fusion Tools](https://aqiu384.github.io/megaten-fusion-tool/home)
-   - [Starward](https://github.com/Scighost/Starward)
+   - [Starward](https://github.com/Scighost/Starward) :ic-baseline-window:
    - [thprac](https://github.com/touhouworldcup/thprac)
 
 
