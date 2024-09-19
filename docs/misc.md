@@ -239,6 +239,7 @@ outline: [1,2]
 
 - **Info / News**
   - [Anime Corner](https://animecorner.me/) :glowing-star: <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/animecorner_ac" />
+  - [AnimeDB](https://animedb.jp/) :flag-japan:
   - [Anime Freaks](https://times.abema.tv/anime) :flag-japan:
   - [Anitrendz](https://anitrendz.net/news/) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/anitrendz" />
   - [AnimeTV](https://animetv-jp.net/) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/animetv_jp" />
