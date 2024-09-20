@@ -7,9 +7,16 @@ import { align } from "@mdit/plugin-align";
 import { imgSize } from "@mdit/plugin-img-size";
 import { tabsMarkdownPlugin } from "vitepress-plugin-tabs";
 import { emojiRender, defs } from "./emoji";
+import { x } from "tinyexec";
 
 export const hostname: string = "https://wotaku.wiki";
 export const excludedFiles = ["t.md"];
+const GIT_COMMIT =
+  /** Github actions commit hash */
+  process.env.GITHUB_SHA ??
+  /** Commit hash from git */
+  (await x("git", ["rev-parse", "HEAD"]).then((result) => result.stdout.trim())) ??
+  "dev";
 
 // @unocss-include
 const nav: DefaultTheme.NavItem[] = [
@@ -348,5 +355,8 @@ export const shared: UserConfig<DefaultTheme.Config> = {
       { icon: "github", link: "https://github.com/wotakumoe/Wotaku" },
       { icon: "discord", link: "https://discord.gg/vShRGx8ZBC" },
     ],
+    footer: {
+      message: `Made with love by <a href="https://github.com/wotakumoe">wotaku</a>. <a href="https://github.com/wotakumoe/Wotaku/commit/${GIT_COMMIT}">Commit: ${GIT_COMMIT.slice(0, 7)}</a>`,
+    },
   },
 };
