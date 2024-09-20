@@ -374,10 +374,10 @@ outline: 1
 - [Novel Updates](https://www.novelupdates.com/)
 - [Baka-tsuki](https://www.baka-tsuki.org/project/index.php?title=main_page)
 - [Boxnovel](https://boxnovel.com/)
-- [VyNovel](https://vynovel.com/)
 - [Light Novel Pub](https://www.lightnovelpub.com/) <Badge type="tip" text="Light Novel World" link="https://www.lightnovelworld.com/" />
+- [Novel Bin](https://novelbin.com/)
 - [Novel Buddy](https://novelbuddy.com/home)
-- [Wuxia World](https://www.wuxiaworld.com/) <Badge type="info" text="Legal" />
+- [VyNovel](https://vynovel.com/)
 
 :::details More
 - [Allnovel](https://allnovel.org/)
@@ -587,7 +587,7 @@ outline: 1
 You can go through [**digital manga info**](/guides/manga/digim) to get more sites including sites for volume releases.
 :::
 
-## Novel
+## Novels
 
 - [BookWalker](https://global.bookwalker.jp/)
 - [Dark Horse Comics](https://www.darkhorse.com/)
@@ -597,6 +597,8 @@ You can go through [**digital manga info**](/guides/manga/digim) to get more sit
 - [Tentai Books](https://tentaibooks.com/en/)
 - [VIZ](https://www.viz.com/)
 - [Yen Press](https://yenpress.com/)
+- [WebNovel](https://www.webnovel.com/)
+- [Wuxia World](https://www.wuxiaworld.com/)
 
 ## Comics
 - [Comics Kingdom](https://comicskingdom.com/)
