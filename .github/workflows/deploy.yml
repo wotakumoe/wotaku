@@ -54,7 +54,7 @@ jobs:
           echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
           ssh-keyscan -H $SSH_HOST >> ~/.ssh/known_hosts
           echo "Installed SSH key"
-          rsync -ravh --update --delete docs/.vitepress/dist/* $SSH_USER@$SSH_HOST:$WORK_DIR
+          rsync -ravh --update --delete docs/.vitepress/dist/* $SSH_USER@$SSH_HOST:/home/wotaku/htdocs/wotaku.moe/
           rm -f ~/.ssh/id_rsa
 
       - name: Purge Cloudflare Cache
