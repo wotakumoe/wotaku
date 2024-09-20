@@ -9,7 +9,7 @@ hero:
   announcement:
     title: Mihon & Aniyomi Extensions
     link: /guides/tech/repo
-  image: /asset/plush.png
+  image: https://files.catbox.moe/adhbcz.png
   actions:
     - theme: brand
       text: Quick Start
