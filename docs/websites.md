@@ -159,7 +159,7 @@ outline: 1
 > Most of them are regionals
 
 ### TV
-- [Funcube](https://funcube.space/) <Badge text="Backup" link="https://backup.funcube.space/" />
+- [Funcube](https://funcube.space/)
 - [Toonami Aftermath](https://www.toonamiaftermath.com/)
 :::
 
