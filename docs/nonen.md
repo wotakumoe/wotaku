@@ -92,17 +92,13 @@ If you have recommendations for good sites in your native language or want to re
 ### Anime
 
 - **Stream**
-  - [555dy1](https://555dy1.com/vodshow/4-%E6%97%A5%E6%9C%AC----------.html) <Badge text="BD" />
-  - [AGE](https://www.agemys.vip/)
-  - [Bimibimi](https://www.bimiacg4.net/)
+  - [AGE](https://www.agedm.org/)
+  - [Bimibimi](http://www.bimiacg10.net/)
   - [CC](https://ccdm.cc/)
   - [ddys](https://ddys.art/category/anime/)
   - [MoMoVod](https://momovod.app/show/30.html)
-  - [Silisili Fun](https://www.silisilifun.com/)
-  - [Tangrenjie](https://www.tangrenjie.tv/vod/type/id/4.html)
   - [XG Cartoon](https://www.xgcartoon.com/)
   - [Yinghuacd](http://www.yinghuacd.com/)
-  - [ysgc](https://www.ysgc.vip/vodtype/4.html)
 - **Torrent**
   - [Anime Garden](https://garden.onekuma.cn/)
   - [Bangumi](https://bangumi.moe/)
@@ -117,11 +113,10 @@ If you have recommendations for good sites in your native language or want to re
 - **General**
   - [69xinshu](https://www.69xinshu.com/)
   - [8Comic](https://www.comicabc.com/)
+  - [Antbyw](https://www.antbyw.com/)
   - [Baozimh.com](https://www.baozimh.com/) <Badge type="tip" text="2" link="https://www.kukuc.co/" /><Badge type="tip" text="3" link="https://www.webmota.com/" />
   - [Baozimh.org](https://baozimh.org/)
   - [Colamanga](https://www.colamanga.com/)
-  - [Godamanga](https://godamanga.site/)
-  - [KanManhuala](https://www.kanmanhuala.cc/)
   - [Manhua Gui](https://www.manhuagui.com/)
   - [Qumanku](http://www.sumanku.com/)
   - [XManhua](https://xmanhua.com/)
@@ -130,12 +125,10 @@ If you have recommendations for good sites in your native language or want to re
   - [HD Comic](https://www.hdcomic.com/)
   - [JAV Comics](https://javcomics.com/)
   - [JMWU](https://jmwu.xyz/) <Badge type="tip" text="2" link="https://jmzj.xyz/" />
-  - [VIPToon](https://viptoon.xyz/)
 
 ### Novel
 - [Light Novel](https://www.lightnovel.us/)
 - [23qb](https://www.23qb.net/)
-- [SF ACG](https://book.sfacg.com/)
 - [ESJ Zone](https://www.esjzone.cc/)
 
 
@@ -427,6 +420,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Animes House](https://animeshouse.app/)
 - [Animes Zone](https://animeszone.net/)
 - [Better Anime](https://betteranime.net/)
+- [Geekdot](https://geekdot.live/)
 - [Hinata Soul](https://www.hinatasoul.com/)
 - [Saikoni](https://saikoani.me/)
 
@@ -460,6 +454,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Anilibria](https://anilibria.top/) <Badge type="info" text="Sub" />
 - [AnimeBuff](https://animebuff.ru/) <Badge type="info" text="Sub" />
 - [AnimeGO](https://animego.org/) <Badge type="info" text="Aggregator" />
+- [AnimeJoy](https://animejoy.ru/)
 - [Animelayer](http://animelayer.ru/) <Badge type="info" text="Torrent" />
 - [AnimeLIB](https://animelib.me) <Badge type="info" text="Aggregator" />
 - [Anime Player](https://anime.semolik.ru/) [:mdi-github:](https://github.com/Semolik/AnimePlayer)
