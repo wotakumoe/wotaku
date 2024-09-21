@@ -286,17 +286,18 @@ outline: [1,2]
 
 ## Anime
 - [Anime Watch Parties](https://github.com/Dragicafit/Anime-Watch-Parties/) [:mdi-earth:](https://animewatchparties.com/)[:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/anime-watch-parties/goinehmnmhnoaepodbngfgdgjeibgelh/)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/)
-- [Animepahe Plus](https://github.com/Cyan903/Animepahe-plus) [:mdi-firefox:](https://addons.mozilla.org/en-CA/firefox/addon/animepahe-plus/)
+- [Animepahe Plus](https://github.com/Cyan903/Animepahe-plus) [:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/animepahe-plus/)
 - [Anime Skip Player](https://github.com/anime-skip/player) [:mdi-earth:](https://anime-skip.com/)[:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/anime-skip/mgmdkjcljneegjfajchedjpdhbadklcf)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/anime-skip)
 - [Aniskip](https://github.com/lexesjan/typescript-aniskip-extension) [:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/aniskip/npfcdmjgaocepmpdnmliimijgfjbgcdd)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/aniskip/)
 - [Crunchyroll With Better Seasons](https://github.com/Dragicafit/Crunchyroll-With-Better-Seasons)
-- Improve Crunchyroll [:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh)[:mdi-firefox:](https://addons.mozilla.org/en-CA/firefox/addon/improve-crunchyroll/)
+- Improve Crunchyroll [:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/improve-crunchyroll/)
 - [Streaming enhanced](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/streaming-enhanced-netfli/akaimhgappllmlkadblbdknhbfghdgle)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/netflix-prime-auto-skip/)
 - Substital [:mdi-earth:](https://substital.com/)[:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/substital/)
 
 ## Manga
 - [All Manga Reader](https://gitlab.com/all-mangas-reader/all-mangas-reader-2) [:mdi-earth:](https://www.allmangasreader.com/)
-- [Image Max URL](https://github.com/qsniyg/maxurl)
+- [Image Max URL](https://github.com/qsniyg/maxurl) [:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/image-max-url/)
+- [Manganato Enhancer](https://github.com/sn0w12/ManganatoEnhancer) :mingcute-chrome-fill:
 - [Similar Manga](https://github.com/similar-manga/similar) [:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg)
 
 
