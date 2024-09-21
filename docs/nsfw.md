@@ -168,6 +168,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [Hentai downloader](https://github.com/touno-io/hentai-downloader)<Badge type="info" text="E-Hentai" />
 - [E-Hentai Downloader](https://github.com/ccloli/E-Hentai-Downloader)<Badge type="info" text="E-Hentai" />
 - [nHentai](https://github.com/RicterZ/nhentai)<Badge type="info" text="nHentai" />
+- [nHentai Archivist](https://github.com/9-FS/nhentai_archivist)<Badge type="info" text="nHentai" />
 - [nHentai Downloader](https://github.com/Xwilarg/NHentaiDownloader)<Badge type="info" text="nHentai" />
 - [Anchira Watcher Downloader](https://github.com/ndbiaw/anchira-watcher-downloader)<Badge type="info" text="Anchira" />
 - [NSFW Box](https://github.com/Kisspeace/NsfwBox)<Badge type="info" text="Multi" />
