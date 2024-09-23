@@ -10,7 +10,7 @@ hero:
     title: Mihon & Aniyomi Extensions
     link: /guides/tech/repo
   image:
-    src: /plushies/ame.png
+    src: /plushies/webp/ame.webp
     alt: Wotaku
   actions:
     - theme: brand
@@ -83,26 +83,26 @@ features:
 <script setup>
 const images = {
   normal: {
-    "/plushies/fuwawa.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/elizabeth.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/mococo.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/mumei.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/ame.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/bae.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/kronii.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/biboo.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/sana.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/shiori.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/nerissa.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/cecilia.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/gura.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/raora.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/gigi.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/fauna.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/ina.png": "linear-gradient(-30deg, #532bc2, #a594f9)",
-    "/plushies/irys.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/kiara.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/calli.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/webp/fuwawa.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/webp/elizabeth.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/webp/mococo.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/webp/mumei.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/webp/ame.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/webp/bae.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/webp/kronii.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/webp/biboo.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/webp/sana.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/webp/shiori.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/webp/nerissa.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/webp/cecilia.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/webp/gura.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/webp/raora.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/webp/gigi.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/webp/fauna.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/webp/ina.webp": "linear-gradient(-30deg, #532bc2, #a594f9)",
+    "/plushies/webp/irys.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/webp/kiara.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/webp/calli.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
   },
 };
 
