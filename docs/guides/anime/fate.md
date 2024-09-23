@@ -16,7 +16,7 @@ The Fate series is a popular Japanese visual novel, anime, and video game franch
 Type-Moon is a Japanese visual novel studio known for its contributions to the anime, manga, and video game industries. It was founded by [Kinoko Nasu](https://anidb.net/creator/2174) and [Takashi Takeuchi](https://anidb.net/creator/2173) and is acclaimed for its influential "**Fate**" series, as well as the "**Tsukihime**" and "**Kara no Kyoukai**" franchises. Type-Moon's works often incorporate elements of fantasy, mythology, and the supernatural, and the studio has gained a significant following for its engaging narratives and unique art style.
 :::
 
-![](/banner/anime.png)
+![](/banner/anime.webp)
 
 # Anime
 
@@ -173,7 +173,7 @@ Unexpectedly, a young boy named Soujuurou Shizuki is drawn to the mansion and co
 <br>
 
 
-![](/banner/vn.png)
+![](/banner/vn.webp)
 
 # Visual Novels
 
@@ -191,7 +191,7 @@ Unexpectedly, a young boy named Soujuurou Shizuki is drawn to the mansion and co
 <br>
 
 
-![](/banner/games.png)
+![](/banner/games.webp)
 
 # Games
 
@@ -210,7 +210,7 @@ Unexpectedly, a young boy named Soujuurou Shizuki is drawn to the mansion and co
 
 <br>
 
-![](/banner/novels.png)
+![](/banner/novels.webp)
 
 # Novels & Light Novels
 
@@ -232,7 +232,7 @@ Unexpectedly, a young boy named Soujuurou Shizuki is drawn to the mansion and co
 <br>
 
 
-![](/banner/manga.png)
+![](/banner/manga.webp)
 
 # Manga
 

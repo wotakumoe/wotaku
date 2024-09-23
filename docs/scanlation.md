@@ -7,7 +7,7 @@ outline: [1,2]
 
 <GradientCard title="スキャンレーション" tag="Scanlation" description="Guides and resources for scanlating manga." theme="turquoise"/>
 
-![](/banner/comms.png)
+![](/banner/comms.webp)
 # Communities
 
 <br>
@@ -18,7 +18,7 @@ outline: [1,2]
 - [Font recommendations](https://discord.gg/ghGWcYSSUP)
 - [Krita Artists](https://krita-artists.org/)
 
-![](/banner/raw.png)
+![](/banner/raw.webp)
 # Raw
 
 <br>
@@ -28,7 +28,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 :::
 
 
-![](/banner/res.png)
+![](/banner/res.webp)
 # Resources
 
 ## Assets
@@ -66,7 +66,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 - [Rain's Redraw Tutorials](https://web.archive.org/web/20140814131939/http://www.redhawkscans.com/showthread.php?7057-Rain-s-Redraw-Tutorials&p=112119&viewfull=1#post112119)
 
 
-![](/banner/tools.png)
+![](/banner/tools.webp)
 # Tools
 
 ## General

@@ -7,7 +7,7 @@ outline: [1,2]
 
 <GradientCard title="ソフトウェア" tag="Software" description="Enjoy anime, manga and novels on all your devices, no matter the OS!" theme="turquoise"/>
 
-![](/banner/and.png)
+![](/banner/and.webp)
 
 # Android
 
@@ -111,7 +111,7 @@ outline: [1,2]
 - [Trace.moe](https://github.com/localhostov/trace.moe-app)
 - [Tachisync](https://github.com/axiel7/Tachisync) <Badge type="info" text="Needs PC" />
 
-![](/banner/ios.png)
+![](/banner/ios.webp)
 
 # iOS
 
@@ -162,7 +162,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 - [Ryuusei for AniList](https://apps.apple.com/us/app/ryuusei-for-anilist/id1347721581)
 
 
-![](/banner/pc.png)
+![](/banner/pc.webp)
 
 # PC
 

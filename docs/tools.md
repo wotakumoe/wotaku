@@ -7,7 +7,7 @@ outline: [1,2]
 
 <GradientCard title="ツール" tag="Tools" description="Various tools to enhance your experience; not all of them are necessarily weeb-related, but they can be genuinely helpful." theme="turquoise"/>
 
-![](/banner/phone.png)
+![](/banner/phone.webp)
 # Phone
 
 ## Essentials
@@ -90,7 +90,7 @@ outline: [1,2]
 
 
 
-![](/banner/pc.png)
+![](/banner/pc.webp)
 
 # PC
 
@@ -280,7 +280,7 @@ outline: [1,2]
 - [Picsiv](https://github.com/jckli/picsiv)
 
 
-![](/banner/ext.png)
+![](/banner/ext.webp)
 
 # Extensions
 
@@ -336,7 +336,7 @@ outline: [1,2]
 ::: tip [**Click here**](/guides/tech/adblock.md) for full adblock solutions.
 :::
 
-![](/banner/script.png)
+![](/banner/script.webp)
 
 # Scripts
 

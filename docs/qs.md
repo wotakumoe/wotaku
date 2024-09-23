@@ -7,7 +7,7 @@ outline: [2,3]
 
 <GradientCard title="クイックスタート" tag="Quick Start" description="The basic things to get you started." theme="turquoise"/>
 
-![](/banner/wanime.png)
+![](/banner/wanime.webp)
 
 ## Anime
 
@@ -37,7 +37,7 @@ outline: [2,3]
   - [Anikki](https://github.com/Kylart/Anikki) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
   - [Mangayomi](https://github.com/kodjodevf/mangayomi) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
 
-![](/banner/wmanga.png)
+![](/banner/wmanga.webp)
 
 ## Manga
 
@@ -68,7 +68,7 @@ outline: [2,3]
   - [YACReader](https://www.yacreader.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Local" />
 
 
-![](/banner/music.png)
+![](/banner/music.webp)
 
 ## Music
 
@@ -111,7 +111,7 @@ outline: [2,3]
   - [SPOTX](https://github.com/SpotX-Official/SpotX) :ic-baseline-window:
 
 
-![](/banner/essentails.png)
+![](/banner/essentails.webp)
 
 ## Essentials
 
@@ -189,7 +189,7 @@ outline: [2,3]
 You should never use cracked or modded VPN cause all of your traffic will go through that VPN. So using a compromised VPN is extremely risky.
 :::
 
-![](/banner/4ch.png)
+![](/banner/4ch.webp)
 
 ## 4chan
 

@@ -6,7 +6,7 @@ outline: 1
 
 <GradientCard title="よくある質問" tag="FAQs" description="Answers to some of the most commonly asked questions about manga, anime & other topics." theme="turquoise"/>
 
-![](/banner/general.png)
+![](/banner/general.webp)
 
 # General
 
@@ -74,7 +74,7 @@ Like a seedbox, it's also a remote service. It can download from p2p and various
 :::
 
 
-![](/banner/manga.png)
+![](/banner/manga.webp)
 
 # Manga
 
@@ -140,7 +140,7 @@ Use [**Komga**](https://komga.org/). Read their [**docs**](https://komga.org/doc
 
 <br>
 
-![](/banner/anime.png)
+![](/banner/anime.webp)
 
 # Anime
 
@@ -170,7 +170,7 @@ For android, there is also [mpvKt](https://github.com/abdallahmehiz/mpvKt) but t
 
 <br>
 
-![](/banner/msuic.png)
+![](/banner/msuic.webp)
 
 # Music
 

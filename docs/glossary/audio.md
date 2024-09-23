@@ -12,7 +12,7 @@ outline: [1,2]
 <Authors page="audiog" />
 
 
-![](/banner/bt.png)
+![](/banner/bt.webp)
 
 
 # Basic Terms
@@ -53,7 +53,7 @@ outline: [1,2]
 | DAW | Digital Audio Workstation (DAW) is software used for recording, editing, mixing, and producing audio files. DAWs offer a comprehensive environment for creating music, podcasts, sound design, and other audio projects, combining tools for sequencing, synthesis, and audio processing. Users can manipulate audio tracks, apply effects, and integrate virtual instruments all within a single platform. Examples of popular DAWs include FL Studio, Ableton Live, Cubase, Pro Tools, Reaper, and Logic Pro. Each DAW offers unique features and workflows, catering to different styles of music production and audio engineering needs. |
 | Voice synthesizer | Voice synthesizers (e.g., Vocaloid, Synthesizer V, UTAU) work by taking user input in the form of musical notes and lyrics, then processing this input to generate a synthesized singing voice. They're created using voice banks, which consist of recordings of real people's voices. Each voice bank is typically designed for a specific language and while it is possible to create songs in other languages using them, it requires more fine-tuning to achieve good results. |
 
-![](/banner/af.png)
+![](/banner/af.webp)
 
 
 
@@ -498,7 +498,7 @@ C:\Music\canción2.mp3
 C:\Music\歌曲3.mp3
 ```
 
-![](/banner/hw.png)
+![](/banner/hw.webp)
 
 
 
@@ -635,7 +635,7 @@ The second limitation of EQ is that it can't make a bad piece of hardware good. 
 This is an example of the bass boost eq profile in musicbee. The preamp is set to \-6dB, which is larger in magnitude than the largest magnitude of the boosted frequencies. This ensures that no peaking occurs on the output. Frequencies below 1kHz are gradually increased, emphasizing these frequencies in playback. Frequencies around 32 Hz receive the greatest effect.
 
 
-![](/banner/mg.png)
+![](/banner/mg.webp)
 
 
 

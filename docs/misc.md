@@ -7,7 +7,7 @@ outline: [1,2]
 
 <GradientCard title="バラエティサイト" tag="Misc-sites" description="Welcome to the misc-sites page, home to various communities, guides, and tools for your otaku needs and interests." theme="turquoise"/>
 
-![](/banner/info.png)
+![](/banner/info.webp)
 # Info
 
 ## Database & Tracker
@@ -140,7 +140,7 @@ outline: [1,2]
 
 
 
-![](/banner/illust.png)
+![](/banner/illust.webp)
 
 # Illustrations
 
@@ -216,7 +216,7 @@ outline: [1,2]
 :::
 
 
-![](/banner/portals.png)
+![](/banner/portals.webp)
 # Portals
 
 ## General
@@ -270,7 +270,7 @@ outline: [1,2]
 
 
 
-![](/banner/utility.png)
+![](/banner/utility.webp)
 # Utility
 
 <br>
@@ -311,7 +311,7 @@ outline: [1,2]
 
 
 
-![](/banner/vt2.png)
+![](/banner/vt2.webp)
 # VTuber
 
 ## General
@@ -489,7 +489,7 @@ outline: [1,2]
   - [JQHN](https://x.com/JQHNHARQLD)
 
 
-![](/banner/others.png)
+![](/banner/others.webp)
 # Others
 
 ## Encoding & Fansubbing Guides

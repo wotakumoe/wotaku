@@ -13,7 +13,7 @@ outline: [1,2]
 If you wanna learn about the audio basics, read our [**audio glossary**](/glossary/audio)
 :::
 
-![](/music/mst.png)
+![](/music/mst.webp)
 
 # Stream
 
@@ -74,7 +74,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
   - [Recochoku](https://recochoku.jp/)
 
 
-![](/music/mdl.png)
+![](/music/mdl.webp)
 
 # Download
 
@@ -143,7 +143,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [Recochoku](https://recochoku.jp/)
 
 
-![](/music/radio.png)
+![](/music/radio.webp)
 # Radio
 
 ## General
@@ -188,7 +188,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 
 
 
-![](/music/mus.png)
+![](/music/mus.webp)
 # Utility Sites
 
 ## General
@@ -234,7 +234,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 
 
 
-![](/music/mis.png)
+![](/music/mis.webp)
 # Info Sites
 
 ## Database
@@ -317,7 +317,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
   - [Songkick](https://www.songkick.com/) <Badge type="info" text="General" />
 
 
-![](/music/mph.png)
+![](/music/mph.webp)
 # Phone
 
 ## Player
@@ -373,7 +373,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
   - [Stats.fm](https://stats.fm/) :mdi-spotify::mdi-android::ic-baseline-apple:
 
 
-![](/music/mpc.png)
+![](/music/mpc.webp)
 # PC
 
 ## Player
@@ -517,7 +517,7 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 
 
 
-![](/music/msv.png)
+![](/music/msv.webp)
 # Server
 
 ## Server
@@ -573,7 +573,7 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 
 :::
 
-![](/music/mcm.png)
+![](/music/mcm.webp)
 # Communities
 
 ## Forums
