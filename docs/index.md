@@ -9,7 +9,9 @@ hero:
   announcement:
     title: Mihon & Aniyomi Extensions
     link: /guides/tech/repo
-  image: https://files.catbox.moe/adhbcz.png
+  image:
+    src: /plushies/ame.png
+    alt: Wotaku
   actions:
     - theme: brand
       text: Quick Start
@@ -77,3 +79,51 @@ features:
       stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="m4.9 4.9l14.2 14.2"/></g></svg>
     link: /nsfw.md
 ---
+
+<script setup>
+const images = {
+  normal: {
+    "/plushies/fuwawa.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/elizabeth.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/mococo.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/mumei.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/ame.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/bae.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/kronii.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/biboo.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/sana.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/shiori.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/nerissa.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/cecilia.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/gura.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/raora.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/gigi.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/fauna.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/ina.png": "linear-gradient(-30deg, #532bc2, #a594f9)",
+    "/plushies/irys.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/kiara.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    "/plushies/calli.png": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+  },
+};
+
+const mode = "normal";
+
+function randomPlushie() {
+  const entries = Object.entries(images[mode]);
+  const randomEntry = entries[Math.floor(Math.random() * entries.length)];
+  const [bg, color] = randomEntry;
+  return [bg, color];
+}
+
+const handleClick = () => {
+  const [bg, color] = randomPlushie();
+  document.documentElement.style.setProperty("--vp-home-hero-image-background-image", color);
+  document.querySelector(".VPImage.image-src").src = bg;
+}
+
+const icon = document.querySelector(".VPImage.image-src");
+
+if (icon) {
+  icon.addEventListener("click", handleClick);
+}
+</script>
