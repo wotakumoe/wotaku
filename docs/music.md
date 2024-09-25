@@ -435,6 +435,7 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 - [AudD Music](https://github.com/AudDMusic) :glowing-star: [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/lhhohkfofnfbnildpdhhjeeenapeceei)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/audd/)
 - [AHA Music](https://aha-music.com/) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/aha-music-song-finder-for/dpacanjfikmhoddligfbehkpomnbgblf)
 - [BetterRYM](https://github.com/jgchk/better-rym) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/pdbgknkejapoehgogijhmahhpiimlhjg)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/better-rym/)
+- [Spotify Lyrics](https://github.com/mantou132/Spotify-Lyrics) :mingcute-chrome-fill::mdi-firefox:
 - [Spotify New Releases](https://spotify-new-releases.web.app/) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/spotify-new-releases/badbmkjnnimjfhhmknfoikappgmelpjo)
 - [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler) [:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/lastfm-scrobbler/hhinaapppaileiechjoiifaancjggfjm)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/web-scrobbler/)
 
