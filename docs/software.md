@@ -99,7 +99,9 @@ outline: [1,2]
 
 ## Illustrations
 - [Boorusphere](https://github.com/nullxception/boorusphere)
+- [pixes](https://github.com/wgh136/pixes)
 - [Pixiv](https://play.google.com/store/apps/details?id=jp.pxv.android)
+- [Mikansei](https://github.com/uragiristereo/Mikansei)
 - [Wallflow](https://github.com/ammargitham/WallFlow)
 - [RWalls](https://github.com/meh430/RWalls)
 - [Pixiv for Muzei 3](https://github.com/yellowbluesky/PixivforMuzei3)
@@ -160,6 +162,10 @@ or buy an Android phone :ic-twotone-thumb-up:
 - [MyAnimeList Official](https://apps.apple.com/us/app/myanimelist-official/id1469330778)
 - [Risuto for AniList](https://apps.apple.com/us/app/risuto-for-anilist/id6455685990)
 - [Ryuusei for AniList](https://apps.apple.com/us/app/ryuusei-for-anilist/id1347721581)
+
+## Others
+- [pixes](https://github.com/wgh136/pixes)
+- [Anime Boxes](https://apps.apple.com/us/app/anime-boxes/id525540312)
 
 
 ![](/banner/pc.webp)
@@ -243,6 +249,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [ADL](https://github.com/RaitaroH/adl) :ic-baseline-window::mingcute-linux-fill:<tooltip><ul><li>No UI, terminal based</li><li>"Complicated" installation, especially on Windows</li><li>Uses many different scripts, including animedl, so lots of functionality</li><li>Tracking capability & many more</li><li>Same amount of sources as AnimDL</li></ul></tooltip>
 - [Crunchyroll-Downloader](https://github.com/Crunchy-DL/Crunchy-Downloader) :ic-baseline-window:
   - :material-symbols-subdirectory-arrow-right: [Guide for getting DRM content](https://simpcity.su/threads/guide-for-getting-drm-content-wip.181199/)
+- [Anime Downloader NX](https://github.com/anidl/multi-downloader-nx) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
 
 
@@ -386,6 +393,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
   - [nyaa](https://github.com/Beastwick18/nyaa) :ic-baseline-window::mingcute-linux-fill:
   - [Nyaa Downloader](https://github.com/marcpinet/nyaadownloader) :ic-baseline-window:
   - [Koneko](https://github.com/irevenko/koneko)
+- [pixes](https://github.com/wgh136/pixes) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
 ## Hosting
 
