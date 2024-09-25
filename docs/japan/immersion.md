@@ -56,14 +56,17 @@ outline: [2,3]
 - [NHK Easy Japanese](https://www.nhk.or.jp/lesson/)
 
 ### Live TV
+- [9tsu](https://9tsu.cc/) <Badge type="info" text="VOD" />
+- [ANNnewsCH](https://www.youtube.com/@ANNnewsCH/)
+- [AQ Stream](https://aqstream.com/jp)
 - [IPTV-Org jp.m3u](https://iptv-org.github.io/iptv/countries/jp.m3u)
 - [IPTV-Org jpn.m3u](https://iptv-org.github.io/iptv/languages/jpn.m3u)
 - [IPTV-JP](https://raw.githubusercontent.com/luongz/iptv-jp/main/jp.m3u)
-- [AQ Stream](https://aqstream.com/jp)
-- [TVer](https://tver.jp/) <Badge type="info" text="Needs VPN" />
+- [Japanese TV](https://mov3.co/)
 - [Keylabo](https://www.keylabo.com/watch-tv-online-for-free/)
-- [ANNnewsCH](https://www.youtube.com/@ANNnewsCH/)
-- [9tsu](https://9tsu.cc/) <Badge type="info" text="VOD" />
+- [Search TV](https://searchtv.net/)
+- [takelab](https://github.com/take2560/takelab)
+- [TVer](https://tver.jp/) <Badge type="info" text="Needs VPN" />
 
 ## Subtitles
 - [Kitsunekko](https://kitsunekko.net/)
