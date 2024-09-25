@@ -195,6 +195,7 @@ outline: [1,2]
 - [Extra Sakuga](https://x.com/EffectsSakuga) :mdi-twitter:
 - [Mack Bay](https://x.com/SaberzzSeiba) :mdi-twitter:
 - [randomsakuga](https://x.com/randomsakuga) :mdi-twitter:
+- [rinri](https://x.com/guyayaHime)
 - [Sakuga Clips](https://x.com/sakugaclips) :mdi-twitter:
 - [SakugaDEYO](https://x.com/SakugaDEYO) :mdi-twitter:
 - [Sakuga 作画](https://x.com/sakugacontent) :mdi-twitter:
@@ -233,6 +234,7 @@ outline: [1,2]
 - **Blog / Interview**
   - [Anime Blog Tracker](https://aniblogtracker.com/) :glowing-star: <Badge text="Aggregator" /> 
   - [Anime Nano](https://www.animenano.com/) <Badge text="Aggregator" />
+  - [Halcyon Realms](https://halcyonrealms.com/)
   - [Zimmerit](https://www.zimmerit.moe/)
 
 ## Anime
@@ -246,6 +248,7 @@ outline: [1,2]
   - [Eiga](https://anime.eiga.com/) :flag-japan:
   - [English Dubbed Anime Lovers](https://english-dubbed.com/)
 - **Blog / Interview**
+  - [Animation Obsessive](https://animationobsessive.substack.com/)
   - [Animétudes](https://animetudes.com/) :glowing-star:
   - [artist_unknown](https://artistunknown.info/)
   - [Full Frontal](https://fullfrontal.moe/) :glowing-star:
