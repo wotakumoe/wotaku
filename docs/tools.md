@@ -397,6 +397,7 @@ outline: [1,2]
   - Game DL Links on <Badge type="tip" text="GOG" link="https://greasyfork.org/en/scripts/481134-gog-to-free-download-site" /> <Badge type="tip" text="Steam" link="https://greasyfork.org/en/scripts/481139-steam-to-free-download-site" />
 - **Music**
   - [Ame](https://notabug.org/SuperSaltyGamer/ame/)
+  - [Discogs Scout](https://greasyfork.org/en/scripts/439452-discogs-scout) [:mdi-github:](https://github.com/Purfview/Discogs-Scout)
   - [MusicBrainz Userscripts](https://musicbrainz.org/doc/Guides/Userscripts)
   - [Slav Art User Scripts](https://rentry.org/slavartuserscripts)
 - **Youtube**
