@@ -112,9 +112,7 @@ outline: 1
 
 | Host Site                                         | Symbol  { class="compact" }  |
 |---------------------------------------------------|--------|
-| [BiliBili](https://www.bilibili.tv/)              | b      |
 | [GogoAnime](https://gogotaku.info/)               | g      |
-| [Animepahe](https://animepahe.ru/)                | p      |
 | [HiAnime / Aniwatch / Zoro](https://hianime.to/)  | z      |
 
 
