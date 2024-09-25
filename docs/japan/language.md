@@ -81,6 +81,7 @@ outline: [2,3]
 - [Takoboto](https://takoboto.jp/)
 - [Tangorin](https://tangorin.com/)
 - [Weblio](https://ejje.weblio.jp/)
+- [Kanji Search](https://khaitruong922.github.io/kanji-search/) [:mdi-github:](https://github.com/khaitruong922/kanji-search)
 
 ### Practice
 - [Kotobaweb](https://kotobaweb.com/)
