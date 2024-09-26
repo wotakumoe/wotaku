@@ -507,14 +507,15 @@ outline: 1
   - [Comic Book Treasury](https://www.comicbooktreasury.com/)
   - [Comic Shop Locator](https://www.comicshoplocator.com/)
   - [Comic Watch](https://comic-watch.com/)
+  - [Grand Comics Database](https://www.comics.org/)
   - [Marvel Guides](https://marvelguides.com/)
   - [The Comics Journal](https://www.tcj.com/)
 - **Tools**
-  - [Mylar3](https://github.com/mylar3/mylar3)
   - [Kapowarr](https://casvt.github.io/Kapowarr/) [:mdi-github:](https://github.com/Casvt/Kapowarr)
+  - [Mylar3](https://github.com/mylar3/mylar3)
 - **Tracker**
-  - [League of Comic Geeks](https://leagueofcomicgeeks.com/)
   - [Comic Vine](https://comicvine.gamespot.com/)
+  - [League of Comic Geeks](https://leagueofcomicgeeks.com/)
 
 ![](/banner/wpt.webp)
 
