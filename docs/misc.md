@@ -208,7 +208,7 @@ outline: [1,2]
 - [Studio Ghibli](https://www.ghibli.jp/info/013772/) <Badge type="green" text="SFW" />
 - [Wallhaven](https://wallhaven.cc/)
 - [wanderer.moe](https://wanderer.moe/) [:mdi-github:](https://github.com/wanderer-moe/site)
-- [:four-leaf-clover:/w/](http://catalog.neet.tv/w/) <Badge type="danger" icon="mingcute-skull-fill" text="NSFL" />
+- [:four-leaf-clover:/w/](http://catalog.neet.tv/w/) <Badge type="danger" icon="i-mingcute-skull-fill" text="NSFL" />
 
 ::: details :material-symbols-subdirectory-arrow-right: Related resources
 - [Illustration downloader](/software.md#image)
