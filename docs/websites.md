@@ -147,6 +147,7 @@ outline: 1
 
 ### Donghua
 - [Animekhor](https://animekhor.xyz/)
+- [Crimson Subs](https://crimsonfansubs.com/)
 - [Dongsub](https://www.dongsub.com/)
 - [LM Anime](https://lmanime.com/)
 - [Lucifer Donghua](https://luciferdonghua.in/)
