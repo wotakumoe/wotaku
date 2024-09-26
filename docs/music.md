@@ -280,7 +280,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - **Vocaloid**
   - [Imo Danshaku](https://www.youtube.com/@user-oc3nr5dv6v/)
   - [Vocamed](https://www.youtube.com/@vocamed)
-  - [:four-leaf-clover:/jp/ vocaloid playlist ](https://www.youtube.com/playlist?list=PLQqLx44OgzZybkIf7LZ2YI8iLL9b3BpJw)
+  - [:mdi-clover:/jp/ vocaloid playlist ](https://www.youtube.com/playlist?list=PLQqLx44OgzZybkIf7LZ2YI8iLL9b3BpJw)
   - [Vocaloid Big Hits](https://music.youtube.com/playlist?list=RDCLAK5uy_mgu07-HoqLSU-WqjK2ldEQWLuPPm3CAy8)
 
 ## Portal

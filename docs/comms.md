@@ -96,13 +96,13 @@ A list of other otaku communities to check out based on your specific interests.
 
 ## Boards
 
-- [:four-leaf-clover:/a/ - Anime & Manga](https://boards.4channel.org/a/)
-- [:four-leaf-clover:/c/ - Anime/Cute](https://boards.4channel.org/c/)
-- [:four-leaf-clover:/cgl/ - Cosplay & EGL](https://boards.4channel.org/cgl/)
-- [:four-leaf-clover:/co/ - Comics & Cartoons](https://boards.4channel.org/co/)
-- [:four-leaf-clover:/e/ - Ecchi](https://boards.4channel.org/e/)
-- [:four-leaf-clover:/h/ - Hentai](https://boards.4channel.org/h/)
-- [:four-leaf-clover:/m/ - Mecha](https://boards.4channel.org/m/)
-- [:four-leaf-clover:/jp/ - Otaku Culture](https://boards.4channel.org/jp/)
-- [:four-leaf-clover:/vt/ - Virtual YouTubers](https://boards.4channel.org/vt/)
-- [:four-leaf-clover:/w/ - Anime/Wallpapers](https://boards.4channel.org/w/)
+- [:mdi-clover:/a/ - Anime & Manga](https://boards.4channel.org/a/)
+- [:mdi-clover:/c/ - Anime/Cute](https://boards.4channel.org/c/)
+- [:mdi-clover:/cgl/ - Cosplay & EGL](https://boards.4channel.org/cgl/)
+- [:mdi-clover:/co/ - Comics & Cartoons](https://boards.4channel.org/co/)
+- [:mdi-clover:/e/ - Ecchi](https://boards.4channel.org/e/)
+- [:mdi-clover:/h/ - Hentai](https://boards.4channel.org/h/)
+- [:mdi-clover:/m/ - Mecha](https://boards.4channel.org/m/)
+- [:mdi-clover:/jp/ - Otaku Culture](https://boards.4channel.org/jp/)
+- [:mdi-clover:/vt/ - Virtual YouTubers](https://boards.4channel.org/vt/)
+- [:mdi-clover:/w/ - Anime/Wallpapers](https://boards.4channel.org/w/)

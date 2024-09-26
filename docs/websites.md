@@ -280,13 +280,13 @@ outline: 1
 
 **Note:**
 - The default ripping type is volume.
-- :four-leaf-clover: -> the ripper uploads to 4chan first.
+- :mdi-clover: -> the ripper uploads to 4chan first.
 
 :::
 
 - [1r0n](https://nyaa.si/user/tsuna69) `Ch` `Vol`<tooltip>[Comikey](https://comikey.com/), [J-Novel Club](https://j-novel.club/), [K Manga](https://kmanga.kodansha.com/), [Kodansha](https://kodansha.us/), [Manga UP!](https://global.manga-up.com/), [Seven Seas](https://sevenseasentertainment.com/), [SQUARE ENIX](https://squareenixmangaandbooks.square-enix-games.com/en-us), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
 - [anadius](https://nyaa.si/user/anadius) <Badge type="warning" text="Retired"/> `Ch` <tooltip>[VIZ](https://www.viz.com/)</tooltip>
-- [Danke](https://nyaa.si/?f=0&c=0_0&q=danke-empire) :four-leaf-clover: <tooltip>[Seven Seas](https://sevenseasentertainment.com/), [Kodansha](https://kodansha.us/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
+- [Danke](https://nyaa.si/?f=0&c=0_0&q=danke-empire) :mdi-clover: <tooltip>[Seven Seas](https://sevenseasentertainment.com/), [Kodansha](https://kodansha.us/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
 - [Digital Manga Fan](https://nyaa.si/user/digitalmangafan) <tooltip>[J-Novel Club](https://j-novel.club/), [Kodansha](https://kodansha.us/), [ONE PEACE BOOKS](https://www.onepeacebooks.com/), [Seven Seas](https://sevenseasentertainment.com/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
 - [Empy](https://nyaa.si/user/empyrealarrow) `Ch` `Comp` <tooltip>[Glacier Bay Books](https://glacierbaybooks.com/), [MANGA Plus](https://mangaplus.shueisha.co.jp/)</tooltip>
 - [Lord_ne](https://nyaa.si/user/lord_ne) <tooltip>[Crunchyroll](https://store.crunchyroll.com/collections/manga/), [Lezhin Comics](https://www.lezhinus.com/en), [Yen Press](https://yenpress.com/)</tooltip>
@@ -297,14 +297,14 @@ outline: 1
 - [Shizu](https://nyaa.si/user/wolfsbanes) <tooltip>[Kodansha](https://kodansha.us/), [SuBLime](https://www.sublimemanga.com/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
 - [Stick](https://nyaa.si/user/dumbboy58) <tooltip>[Cross Infinite World](https://www.crossinfworld.com/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
 - [Ushi](https://nyaa.si/user/bakaushi) <tooltip>[Seven Seas](https://sevenseasentertainment.com/), [Yen Press](https://yenpress.com/)</tooltip>
-- [XRA](https://nyaa.si/?f=0&c=0_0&q=XRA) :four-leaf-clover:
+- [XRA](https://nyaa.si/?f=0&c=0_0&q=XRA) :mdi-clover:
 
 ### Direct Download
 
 #### Aggregators
 - [Madokami](https://manga.madokami.al) :glowing-star: <Badge type="info" text="Guide" link="/guides/manga/madokami" />
 - [Anna's Archive](https://annas-archive.org/) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
-- [Desuarchive](https://desuarchive.org/) :four-leaf-clover: <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
+- [Desuarchive](https://desuarchive.org/) :mdi-clover: <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
 - [Library Genesis](https://libgen.gs/)
 - [Internet Archive](https://archive.org/)
 
