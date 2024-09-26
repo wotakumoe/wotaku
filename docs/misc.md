@@ -208,7 +208,7 @@ outline: [1,2]
 - [Studio Ghibli](https://www.ghibli.jp/info/013772/) <Badge type="green" text="SFW" />
 - [Wallhaven](https://wallhaven.cc/)
 - [wanderer.moe](https://wanderer.moe/) [:mdi-github:](https://github.com/wanderer-moe/site)
-- [:four-leaf-clover:/w/](http://catalog.neet.tv/w/) <Badge type="danger" icon="i-fxemoji-skull" text="NSFL" />
+- [:four-leaf-clover:/w/](http://catalog.neet.tv/w/) <Badge type="danger" icon="mingcute-skull-fill" text="NSFL" />
 
 ::: details :material-symbols-subdirectory-arrow-right: Related resources
 - [Illustration downloader](/software.md#image)
@@ -476,7 +476,6 @@ outline: [1,2]
   - [HOLOLIVE Original Songs](https://www.youtube.com/playlist?list=PLcA50eR_E8Zbi4hdQHU5Rl1J6KrWRlHpM)
   - [Hololive Songs&Covers](https://www.youtube.com/playlist?list=PLQmVFdwvZgfXlb2RDXWV1NaPXgYPu786G)
   - [Holo no Graffiti](https://www.youtube.com/playlist?list=PL1NeGg1woXqngQytLzL8lJJLYwmzk1Wuq) | [Privated](https://www.youtube.com/playlist?list=PLMcxQWd8jwdk2YHXPScsjcw22VSZxiViL)
-  - [NIJISANJI EN songs](https://www.youtube.com/playlist?list=PLKN0vyOK8SHelderZX3Vb84zwoAWoTKwR)
 
 
 ## Others
