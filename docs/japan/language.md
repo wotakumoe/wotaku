@@ -64,6 +64,9 @@ outline: [2,3]
 - [Kanji by Sight](https://www.nihongoshark.com/post/kanji-by-sight)
 - [KanjiDamage](https://www.kanjidamage.com/)
 - [KanjiDamage+](https://kanjidamageplus.neocities.org/)
+- **Ulrike's Mnemonics**
+  - [Original version](https://www.joyokanji.com/ulrikes-mnemonics)
+  - [Carlos version](https://japanesestudies.github.io/ulrikes-mnemonics/)
 - [Marshall's Site](https://marshallyin.com/) <Badge type="warning" text="Freemium" /> <tooltip>Marshall's site contain almost everything. So to avoid dupe, it will be linked once.</tooltip>
 - [THE KANJI VISUAL LANGUAGE PROJECT](https://kvlp.org/)
 - [Proverb encyclopedia](https://proverb-encyclopedia.com/)
