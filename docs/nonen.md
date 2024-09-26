@@ -439,9 +439,8 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 ## Romanian
 
 ### Anime
-- [AnimeAZU](https://www.animeazu.net/)
-- [Anime Kage](https://ak538.anime-kage.eu/)
-- [DozaAnimată](https://www.dozaanimata.net/)
+- [Anime Torrents Romania](https://animetorrents.ro/) <Badge type="info" text="Private" />
+- [DozaAnimată](https://www.dozaanimata.net/) <Badge type="info" text="Stream" />
 
 
 ## Russian
