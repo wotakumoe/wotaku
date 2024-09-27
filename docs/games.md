@@ -157,6 +157,7 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 ## Sonic
 
 ### Wiki / Websites
+- [Sonic the Hedgehog](http://www.sonicthehedgehog.com/) <Badge type="info" text="Official" />
 - [Sonic City](https://sonic-city.net/)
 - [Sonic Retro](https://info.sonicretro.org/)
 - [Sonic Stadium](https://www.sonicstadium.org/)
@@ -175,8 +176,8 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 ## Yu-Gi-Oh!
 
 ### Databases / News
-- [Yu-Gi-Oh! Official Website](https://www.yugioh-card.com/)
-- [Official Card Database](https://www.db.yugioh-card.com/yugiohdb/)
+- [Yu-Gi-Oh!](https://www.yugioh-card.com/) <Badge type="info" text="Official" />
+- [Card Database](https://www.db.yugioh-card.com/yugiohdb/) <Badge type="info" text="Official" />
 - [YGOrganization](https://ygorganization.com/)
 - [YGOPRODeck](https://ygoprodeck.com/)
 - [Yu-Gi-Oh! Meta](https://www.yugiohmeta.com/)
