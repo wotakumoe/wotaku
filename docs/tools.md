@@ -171,11 +171,11 @@ outline: [1,2]
   - [SMPlayer](https://www.smplayer.info/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
   - [K-Lite Codec Pack](https://codecguide.com/download_kl.htm) :ic-baseline-window:
 - **Tools**
-  - [FFmpeg](https://ffmpeg.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-  - [HandBrake](https://handbrake.fr/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-  - [Videomass](https://jeanslack.github.io/Videomass/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-  - [FFmpeg.wasm](https://ffmpegwasm.netlify.app/)
-  - [FFmpeg Batch AV Converter](https://github.com/eibol/ffmpeg_batch)
+  - [FFmpeg](https://ffmpeg.org/) :octicon-command-palette-16:
+    - [HandBrake](https://handbrake.fr/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+    - [Videomass](https://jeanslack.github.io/Videomass/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+    - [FFmpeg.wasm](https://ffmpegwasm.netlify.app/) :mdi-earth:
+    - [FFmpeg Batch AV Converter](https://github.com/eibol/ffmpeg_batch) :ic-baseline-window:
 
 ## mpv
 
