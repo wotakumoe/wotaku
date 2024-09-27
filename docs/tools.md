@@ -108,6 +108,7 @@ outline: [1,2]
 | [Deluge](https://www.deluge-torrent.org/) | :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: | :cross-mark: | :check-mark-button: | :check-mark-button: |
 | [Free Download Manager](https://www.freedownloadmanager.org/) | :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: | :check-mark-button: | :check-mark-button: | :cross-mark: |
 | [Gopeed](https://gopeed.com/) | :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
+| [ImFile](https://imfile.io/) | :ic-baseline-window::ic-baseline-apple: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
 | [JDownloader](https://jdownloader.org/) | :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: | :check-mark-button: | :cross-mark: | :cross-mark: |
 | [libtorrent](https://www.libtorrent.org/index.html) | :octicon-command-palette-16: | :cross-mark: | :check-mark-button: | :check-mark-button: |
 | [Media Downloader](https://github.com/mhogomchungu/media-downloader) | :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
