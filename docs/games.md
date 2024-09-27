@@ -101,6 +101,7 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 ## osu!
 
 ### Websites
+- [osu!](https://osu.ppy.sh/) [:mdi-github:](https://github.com/ppy/osu)<Badge type="info" text="Official" />
 - [Anisync](https://anisync.live/)
 - [BeatConnect](https://beatconnect.io/)
 - [/nise.moe/](https://nise.moe/)
