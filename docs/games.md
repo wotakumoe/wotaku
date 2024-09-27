@@ -129,29 +129,25 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 - [Pokés](https://www.pokeos.com/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://www.pokeos.com/dex/" />
 - [PokéHarbor](https://www.pokeharbor.com/) <Badge type="info" text="Download" />
 - [PokéJungle](https://pokejungle.net/)
-- [PokePalette](https://pokemonpalette.com/)
+- [PokéPalette](https://pokemonpalette.com/)
 
-### Pokédex
-- [ER Dex](https://ydarissep.github.io/Elite-Redux-Pokedex/)
-- [Pokémon Type Calculator](https://www.pkmn.help/pokedex/)
-- [Prokedex](https://play.google.com/store/apps/details?id=com.locuthor.prodex) <Badge type="info" text="Android" />
-- [Pocket Gallery](https://play.google.com/store/apps/details?id=com.eurekaffeine.pokedex) <Badge type="info" text="Android" />
 
 ### Fan Games
 - [Deluge RPG](https://www.delugerpg.com/)
 - [Eevee Expo](https://eeveeexpo.com/)
-- [PokeDoku](https://pokedoku.com/)
-- [Pokemerald](https://pokemerald.com/)
+- [PokéDoku](https://pokedoku.com/)
+- [Pokémerald](https://pokemerald.com/)
 - [Pokémon Infinite Fusion](https://infinitefusion.fandom.com/wiki/Pok%C3%A9mon_Infinite_Fusion_Wiki)
-- [Pokemon Revolution](https://pokemonrevolution.net/home)
+- [Pokémon Revolution](https://pokemonrevolution.net/home)
 - [Pokémon Showdown!](https://play.pokemonshowdown.com/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://dex.pokemonshowdown.com/" />
-- [Pokemon Xenoverse](https://pokemonxenoverse.com/)
+- [Pokémon Xenoverse](https://pokemonxenoverse.com/)
 - [PokéRogue](https://pokerogue.net/) [:mdi-github:](https://github.com/pagefaultgames/pokerogue)
 - [Who's that Pokémon?](https://gearoid.me/pokemon/)
 
 
 ### Tools
 - [Stat calculator](https://veekun.com/dex/gadgets/stat_calculator)
+- [Pokémon Type Calculator](https://www.pkmn.help/pokedex/)
 - Nuzlocke Chart <Badge type="tip" icon="i-mdi-android" text="Android" link="https://play.google.com/store/apps/details?id=com.pseudocode.nuzlockechart" /> <Badge type="tip" icon="i-logos-apple-app-store" text="iOS" link="https://apps.apple.com/us/app/nuzlocke-chart/id1573090300" />
 - [Nuzlocke tracker](https://nuzlocke.app/)
 - [PKHeX](https://github.com/kwsch/PKHeX)
