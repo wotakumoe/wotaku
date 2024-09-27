@@ -422,12 +422,12 @@ outline: [1,2]
 
 ## Socials
 
-- Hololive <Badge type="tip" icon="i-mdi-twitter" text="JP" link="https://x.com/hololivetv" /><Badge type="tip" icon="i-mdi-twitter" text="EN" link="https://x.com/hololive_En" /><Badge type="tip" icon="i-ic-outline-discord" text="Fan Discord" link="https://discord.gg/holofans" /><Badge type="tip" icon="i-mdi-reddit" text="Reddit" link="https://old.reddit.com/r/Hololive/" />
-- VShojo <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/VShojo" /><Badge type="tip" icon="i-ic-outline-discord" text="Fan Discord" link="https://discord.com/invite/vshojo-fan-server-598886416545611790" /><Badge type="tip" icon="i-mdi-reddit" text="Reddit" link="https://old.reddit.com/r/VShojo/" />
-- PhaseConnect <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/PhaseConnect" /><Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/phaseconnect" />
-- idol <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/idol_corp" /><Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/idolcorp" />
-- PRISM <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/PRISMproj" /><Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/prismworld" />
-- EIEN Project <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/EIENproj" /><Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/eienproject" />
+- [Hololive](https://hololivepro.com/en/) <Badge type="tip" icon="i-mdi-twitter" text="JP" link="https://x.com/hololivetv" /><Badge type="tip" icon="i-mdi-twitter" text="EN" link="https://x.com/hololive_En" /><Badge type="tip" icon="i-ic-outline-discord" text="Fan Discord" link="https://discord.gg/holofans" /><Badge type="tip" icon="i-mdi-reddit" text="Reddit" link="https://old.reddit.com/r/Hololive/" />
+- [VShojo](https://www.vshojo.com/) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/VShojo" /><Badge type="tip" icon="i-ic-outline-discord" text="Fan Discord" link="https://discord.com/invite/vshojo-fan-server-598886416545611790" /><Badge type="tip" icon="i-mdi-reddit" text="Reddit" link="https://old.reddit.com/r/VShojo/" />
+- [Phase Connect](https://phase-connect.com/) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/PhaseConnect" /><Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/phaseconnect" />
+- [idol](https://idol-company.com/) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/idol_corp" /><Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/idolcorp" />
+- [PRISM](https://www.prismproject.jp/) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/PRISMproj" /><Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/prismworld" />
+- [EIEN Project](https://www.eien-project.com/) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/EIENproj" /><Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/eienproject" />
 
 ## Games
 
