@@ -161,7 +161,7 @@ outline: [1,2]
   - [Pixivision](https://www.pixivision.net/en/)
   - [Pixiv Viewer](https://pixiv.pics/)
   - [Pixiv Yearbook](https://pixiv.navirank.com/) :glowing-star:
-- [Poipiku.com/](https://poipiku.com/)
+- [Poipiku](https://poipiku.com/)
 - [Tinami](https://www.tinami.com/)
 - [Tumblr](https://www.tumblr.com/)
 - [Twitter](https://x.com/home) :glowing-star:
@@ -184,7 +184,7 @@ outline: [1,2]
 - [Mikubooru](https://booru.funmaker.moe/) [:mdi-github:](https://github.com/funmaker/hybooru)
 - [Safebooru](https://safebooru.org/) <Badge type="green" text="SFW" />
 - [TBIB](https://tbib.org/)
-- [Yandere](https://yande.re/)
+- [yande.re](https://yande.re/)
 - [Zerochan](https://www.zerochan.net/) <Badge type="green" text="SFW" />
 
 ## Sakuga
