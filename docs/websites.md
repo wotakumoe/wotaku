@@ -132,7 +132,9 @@ outline: 1
 :::details More
 
 ### Others
-- [One Pace](https://onepace.net/)  <Badge text="Stremio" link="https://github.com/au2001/onepace-stremio" />
+- [One Pace](https://linktr.ee/onepaceproject)
+  - [OnePace.me](https://onepace.me/)
+  - [Stremio](https://github.com/au2001/onepace-stremio)
 - [Pokémon TV](https://poke-tv.vercel.app/) [:mdi-github:](https://github.com/seiya-dev/pokemon-tv)
 - [Watch Cartoon Online](https://www.wco.tv/) <Badge text="2" link="https://www.wcofun.net/" /><Badge text="3" link="https://www.wcostream.tv/" /><Badge text="4" link="https://www.wcoforever.tv/" />
   <tooltip>
@@ -143,7 +145,7 @@ outline: 1
       <li>Movie uploads are paywalled. You can bypass some using wco.tv.</li>
     </ul>
   </tooltip>
-- [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html)
+- [Japanese Animated Film Classics](https://animation.filmarchives.jp/en/index.html)
 
 ### Donghua
 - [Animekhor](https://animekhor.xyz/)
