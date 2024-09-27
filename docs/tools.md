@@ -103,8 +103,7 @@ outline: [1,2]
 | [Internet Download Manager](https://www.internetdownloadmanager.com/) :glowing-star: | :ic-baseline-window: | :check-mark-button: | :cross-mark: | :cross-mark: |
 | [qBittorrent](https://www.qbittorrent.org/) :glowing-star: | :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: | :cross-mark: | :check-mark-button: | :check-mark-button: |
 | [AB Download Manager](https://abdownloadmanager.com/) | :ic-baseline-window::mingcute-linux-fill: | :check-mark-button: | :cross-mark: | :check-mark-button: |
-| [aria2](https://aria2.github.io/) | :octicon-command-palette-16: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
-| [AriaNg](https://ariang.mayswind.net/) | :mdi-earth::ic-baseline-window::ic-baseline-apple: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
+| [aria2](https://aria2.github.io/) :glowing-star: | :octicon-command-palette-16: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
 | [ArrowDL](https://www.arrow-dl.com/) | :ic-baseline-window: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
 | [Deluge](https://www.deluge-torrent.org/) | :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: | :cross-mark: | :check-mark-button: | :check-mark-button: |
 | [Free Download Manager](https://www.freedownloadmanager.org/) | :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: | :check-mark-button: | :check-mark-button: | :cross-mark: |
@@ -122,6 +121,7 @@ outline: [1,2]
 
 | Software | Materials |
 |-|-|
+| [aria2](https://aria2.github.io/) | [AriaNg](https://ariang.mayswind.net/) <br> [Aria2 Explorer](https://github.com/alexhua/Aria2-Explorer) <br> [Aria2 Integration](https://github.com/baptistecdr/aria2-extensions) <br> [Aria2 Manager](https://github.com/alexhua/Aria2-Manager) <br> [TrackersListCollection](https://github.com/XIU2/TrackersListCollection) |
 | [Internet Download Manager](https://www.internetdownloadmanager.com/) | [Installation Guide](https://rentry.org/installidm) |
 | [JDownloader](https://jdownloader.org/) | [Remove ads](/guides/tech/jdl.md) |
 | [MegaBasterd](https://github.com/tonikelope/megabasterd) | [Account generator](https://github.com/qtchaos/py_mega_account_generator) <br> [MegaDoctor](https://github.com/tonikelope/megadoctor) |
