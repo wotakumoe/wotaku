@@ -1,11 +1,22 @@
 <script setup lang="ts">
 import { computed, ref, reactive } from "vue";
 import { feedbackOptions, type FeedbackType, getFeedbackOption } from "../../types/Feedback";
-import { useRouter } from "vitepress";
+import { useRouter, withBase } from "vitepress";
 
 const props = defineProps<{
   heading?: string;
 }>();
+
+const sluggify = (text: string) =>
+  text
+    .toLowerCase()
+    .replace(/[^a-z0-9_]+/g, "-")
+    .replace(/--+/g, "-")
+    .replace(/(^-+|-+$)/g, "")
+    .substring(0, 60);
+
+const getURL = (heading: string) =>
+  `https://wotaku.wiki${withBase(router.route.path)}#${sluggify(heading)}`;
 
 const prompts = [
   "Make it count!",
@@ -63,7 +74,7 @@ const router = useRouter();
 const feedback = reactive<
   Pick<FeedbackType, 'message' | 'page'> & Partial<Pick<FeedbackType, 'type'>>
 >({
-  page: router.route.path,
+  page: getURL(props.heading!),
   message: ''
 })
 

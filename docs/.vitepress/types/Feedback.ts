@@ -18,7 +18,7 @@ import z from "zod";
 export const FeedbackSchema = z.object({
   message: z.string().min(5).max(1000),
   type: z.enum(["bug", "suggestion", "appreciation", "other"]),
-  page: z.string().min(3).max(20),
+  page: z.string().url(),
   // For heading based feedback
   heading: z.string().min(3).max(20).optional(),
 });
@@ -42,7 +42,9 @@ export const feedbackOptions: Option[] = [
   { label: "📂 Something else", value: "other" },
 ];
 
-export function getFeedbackOption(value: FeedbackType["type"]): Option | undefined {
+export function getFeedbackOption(
+  value: FeedbackType["type"],
+): Option | undefined {
   return feedbackOptions.find((option) => option.value === value);
 }
 
