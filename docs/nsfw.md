@@ -102,7 +102,7 @@ outline: [1,2]
 - [Rule 34 Paheal](https://rule34.paheal.net/) <tooltip><ul><li>Categorizes content by characters, franchises, events (such as holidays), animations, and sound.</li><li>Limits uploads to 10MB.</li></ul></tooltip>
 - [Rule34.dev](https://rule34.dev/)
 - [Sankaku Complex](https://chan.sankakucomplex.com/)
-- [Yandere](https://yande.re/post)
+- [yande.re](https://yande.re/)
 
 ## Games
 
@@ -115,6 +115,7 @@ outline: [1,2]
 - [Kimochi](https://kimochi.info)
 - [LewdCorner](https://lewdcorner.com/) <Badge type="info" text="Needs account" />
 - [Ryuu games](https://www.ryuugames.com/)
+- [ULMF](https://ulmf.org/) <Badge type="info" text="Needs account" />
 - [VNPocket](https://vnpocket.com/)
 
 ::: info Try searching with Japanese titles or DLSite product ID on Sukebei.
