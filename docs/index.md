@@ -14,11 +14,8 @@ hero:
     alt: Wotaku
   actions:
     - theme: brand
-      text: Quick Start
+      text: Browse
       link: /qs.md
-    - theme: brand
-      text: FAQs
-      link: /faq.md
     - theme: alt
       text: GitHub
       link: https://github.com/wotakumoe/Wotaku
