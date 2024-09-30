@@ -379,10 +379,22 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 ## Korean
 
-### Manhwa
-- [Newtoki](https://newtoki349.com/) <Badge type="danger" text="18+" />
+### Anime
+- [aniabout](https://aniabout.com/) <Badge type="info" text="2" link="https://aniweek.com/" /><Badge type="info" text="3" link="https://c.aniwolf.com/" /><Badge type="info" text="4" link="https://a01.kotbc2.com/" /><Badge type="info" text="5" link="https://a24.ohli24.com/" /><Badge type="info" text="6" link="https://ohlipia.com/" />
+- [Anilife](https://anilife.live/)
+- [Anissia](https://anissia.net/) <tooltip>Subtitle files only, you need to get the episodes from another source.</tooltip>
+
+### Comics
+- [BlackToon](https://blacktoon.live/) <Badge type="danger" text="18+" />
+- [Manatoki](https://www.xn--h10b2b940bwzy.store/) <Badge type="danger" text="18+" />
+- [Newtoki](https://www.ntoki.info/) <Badge type="danger" text="18+" />
 - [OKToon](https://oktoon.com/) <Badge type="danger" text="18+" /><tooltip>Needs Korean VPN server.</tooltip>
-- [W툰](https://wtwt271.com/) <Badge type="danger" text="18+" />
+- [TOONKOR](https://www.xn--yq5bv6mzmcca.live/) <Badge type="info" text="2" link="https://funbe451.com/%EC%9B%B9%ED%88%B0" /><Badge type="danger" text="18+" />
+- [W-Toon](https://wtwt277.com/) <Badge type="danger" text="18+" />
+
+### Others
+- [Booktoki](https://www.xn--h10bx0wsvp.org/)
+- [WatchaKR](https://m82.watchakr.com/) <Badge type="info" text="2" link="https://m133.kormovie.com/" /><Badge type="info" text="3" link="https://m01.kotbc2.com/" /><Badge type="info" text="4" link="https://m82.kowatcha.com/" />
 
 ### Software
 
