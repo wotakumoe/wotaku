@@ -17,7 +17,7 @@ If you have recommendations for good sites in your native language or want to re
 ## Multi Language
 
 ### Anime
-- [Kickassanime](https://kaas.ro/)
+- [KickAssAnime](https://kaas.ro/) <Badge type="info" text="Proxies" link="https://watchanime.io/" />
 - [HiAnime](https://hianime.to/home)
 - [Anime Nexus](https://anime.nexus/)
 
