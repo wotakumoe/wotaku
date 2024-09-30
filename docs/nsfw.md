@@ -52,7 +52,8 @@ outline: [1,2]
 
 ### English-only
 - [Hentai Nexus](https://hentainexus.com/) <tooltip>fakku/irodori rips (official TLs).</tooltip>
-- [HentaiFox](https://hentaifox.com/ ) <tooltip>Fast Updates and English only library.</tooltip>
+- [HentaiFox](https://hentaifox.com/) <tooltip>Fast Updates and English only library.</tooltip>
+- [HentaiKisu](https://hentaikisu.com/)
 - [HenTalk](https://hentalk.pw/) <tooltip>fakku/irodori rips (official TLs).</tooltip>
 - [Pururin](https://pururin.to/)
 - [Tsumino](https://www.tsumino.com/)
