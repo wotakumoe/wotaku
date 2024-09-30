@@ -149,6 +149,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 ## General
 - [asia DREAM radio](https://asiadreamradio.torontocast.stream/stations/en/index.html) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://asiadreamradio.torontocast.stream/stations/newstream.html" />
 - [J1 Radio](https://www.j1fm.tokyo/player/j1hits/) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://www.j1fm.tokyo/listen/" />
+- [Nightwave Plaza](https://plaza.one/) [:mdi-github:](https://github.com/nightwaveplaza/plaza) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://plaza.one/plaza.m3u" /><Badge type="info" text="Vaporwave" />
 - [Patchwork Radio](https://patchwork.moekyun.me/radio) :glowing-star: <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://a4.asurahosting.com/public/patchworkarchive/playlist.m3u" /><Badge type="info" text="VTuber" />
 - [Sasalele Music Station](https://basic.pp.ua/) [:mdi-github:](https://github.com/Mikeexe2/Sasalele-Music-Station) <Badge type="info" text="Aggregator" />
 - [Wapchan](https://wapchan.org/.static/pages/radio.html) <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://radio.wapchan.org/wapfm.m3u" /><Badge type="info" text="City Pop" />
@@ -346,6 +347,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [ReFreezer](https://github.com/DJDoubleD/refreezer) :mdi-android: `Deezer` 
 - [Echo](https://github.com/brahmkshatriya/echo) :mdi-android: `General`
 - [Harmony Music](https://github.com/anandnet/Harmony-Music) :mdi-android: `YouTube`
+- Nightwave Plaza [:mdi-android:](https://play.google.com/store/apps/details?id=one.plaza.nightwaveplaza) [:ic-baseline-apple:](https://apps.apple.com/us/app/nightwave-plaza/id1532678227) `Radio`
 - [Soundbound](https://soundbound.app/) :mdi-android: `General`
 - [Transistor](https://codeberg.org/y20k/transistor) :mdi-android: `Radio`
 
