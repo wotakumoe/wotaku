@@ -66,13 +66,14 @@ outline: [1,2]
 - [Doujindesu](https://doujindesu.tv/) <Badge type="info" text="Raw" />
 - [Hiperdex](https://hiperdex.com/)
 - [Manga District](https://mangadistrict.com/) :glowing-star:
-- [Manhwas](https://manhwas.men/) <Badge type="info" text="+Raw" />
 - [Manhwa18](http://manhwa18.com/)
+- [Manhwa-raw](https://manhwa-raw.com/) <Badge type="info" text="+Raw" />
+- [Manhwas](https://manhwas.men/) <Badge type="info" text="+Raw" />
 - [Manytoon](https://manytoon.com/) :glowing-star:
 - [Oppai](https://read.oppai.stream/) :glowing-star: <tooltip>Late releases but less compressed than other aggregators'</tooltip>
+- [RawDEX](https://rawdex.net/) <Badge type="info" text="Raw" />
 - [Sauce Manhwa](https://saucemanhwa.com/) <Badge type="info" text="+Raw" />
 - [Toomics Free](https://toomicsfree.com/)
-- [TOONKOR](https://toonkor424.com/%EC%9B%B9%ED%88%B0) <Badge type="info" text="Raw" />
 - [Toonily](https://toonily.com/) :glowing-star:
 - [Webtoon](https://www.webtoon.xyz/)
 - [Webtooni](https://webtooni.net/en/)  <Badge type="tip" text="2" link="https://heytoon.net/en/" />
