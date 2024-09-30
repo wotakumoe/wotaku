@@ -19,7 +19,7 @@ outline: 1
       <li>KAA encodes (videstreaming) are okay but really inconsistent.</li>
       <li>Birdstream player scrapes Bilibili.</li>
       <li>Pretty good for Airing anime.</li>
-      <li>Has good amount of missing old titles. But, you can request them in their support server.</li>
+      <li>Has good amount of missing old titles, but you can request them in their support server.</li>
     </ul>
   </tooltip>
 - [Miruro](https://www.miruro.tv/) <Badge type="info" text="Proxies" link="https://www.miruro.com" /> 
@@ -34,8 +34,16 @@ outline: 1
   <tooltip>
     <ul>
       <li>Huge library.</li>
+      <li>Has multi-language softsub.</li>
       <li>Re-encodes shows for smaller size.</li>
-      <li>Uses softsub which may create issues in some scenes.</li>
+    </ul>
+  </tooltip>
+- [Anime Nexus](https://anime.nexus/)
+  <tooltip>
+    <ul>
+      <li>Good bitrate.</li>
+      <li>Has multi-language softsub.</li>
+      <li>Small library size.</li>
     </ul>
   </tooltip>
 - [Hikari](https://watch.hikaritv.xyz/home) 

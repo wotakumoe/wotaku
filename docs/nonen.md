@@ -17,8 +17,9 @@ If you have recommendations for good sites in your native language or want to re
 ## Multi Language
 
 ### Anime
-- [Kickassanime](https://kaas.am/)
+- [Kickassanime](https://kaas.ro/)
 - [HiAnime](https://hianime.to/home)
+- [Anime Nexus](https://anime.nexus/)
 
 ### Manga
 - [Mangadex](https://mangadex.org/)
