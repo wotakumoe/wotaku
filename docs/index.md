@@ -80,26 +80,33 @@ features:
 <script setup>
 const images = {
   normal: {
-    "/plushies/webp/fuwawa.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/webp/elizabeth.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/webp/mococo.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/webp/mumei.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/webp/ame.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/webp/bae.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/webp/kronii.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/webp/biboo.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/webp/sana.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/webp/shiori.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/webp/nerissa.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/webp/cecilia.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/webp/gura.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/webp/raora.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/webp/gigi.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/webp/fauna.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/webp/ina.webp": "linear-gradient(-30deg, #532bc2, #a594f9)",
-    "/plushies/webp/irys.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/webp/kiara.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
-    "/plushies/webp/calli.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",
+    // Hololive Myth (1st Gen EN)
+    "/plushies/webp/ame.webp": "linear-gradient(-30deg, #FEE097, #f7f6c8)",    
+    "/plushies/webp/calli.webp": "linear-gradient(-30deg, #E35277, #f07392)",  
+    "/plushies/webp/gura.webp": "linear-gradient(-30deg, #3E92CF, #57b0f0)",   
+    "/plushies/webp/ina.webp": "linear-gradient(-30deg, #532bc2, #a594f9)",    
+    "/plushies/webp/kiara.webp": "linear-gradient(-30deg, #EB433F, #FEEB73)",  
+
+    // Hololive Promise (2nd Gen EN)
+    "/plushies/webp/bae.webp": "linear-gradient(-30deg, #EE241A, #FEE160)",    
+    "/plushies/webp/fauna.webp": "linear-gradient(-30deg, #B2F182, #F8FFDF)", 
+    "/plushies/webp/irys.webp": "linear-gradient(-30deg, #E10E5D, #FE6DA5)",   
+    "/plushies/webp/kronii.webp": "linear-gradient(-30deg, #2b6cee, #5B9DFE)", 
+    "/plushies/webp/mumei.webp": "linear-gradient(-30deg, #E7AE80, #FEF5B0)",  
+    "/plushies/webp/sana.webp": "linear-gradient(-30deg, #F5E0CF, #f8eee5)",    
+
+    // Hololive Advent (3rd Gen EN)
+    "/plushies/webp/biboo.webp": "linear-gradient(-30deg, #9B8DEE, #FF65DB)",  
+    "/plushies/webp/fuwawa.webp": "linear-gradient(-30deg, #9FCEFE, #C7DEFE)", 
+    "/plushies/webp/mococo.webp": "linear-gradient(-30deg, #FE78A3, #FEAACC)", 
+    "/plushies/webp/nerissa.webp": "linear-gradient(-30deg, #103BD9, #1CD5FC)", 
+    "/plushies/webp/shiori.webp": "linear-gradient(-30deg, #deb1f0, #eaddff)", 
+
+    // Hololive Justice (4th Gen EN)
+    "/plushies/webp/cecilia.webp": "linear-gradient(-30deg, #61A979, #CFFDCC)", 
+    "/plushies/webp/elizabeth.webp": "linear-gradient(-30deg, #BA3036, #2196DB)", 
+    "/plushies/webp/gigi.webp": "linear-gradient(-30deg, #F39C35, #FEB743)",  
+    "/plushies/webp/raora.webp": "linear-gradient(-30deg, #D26588, #F698BC)",  
   },
 };
 
