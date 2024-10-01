@@ -139,7 +139,7 @@ If you have recommendations for good sites in your native language or want to re
 
 | Category | Resources |
 |-|-|
-| Anime | [AGETV](https://github.com/muedsa/AGETV) <br> [Ani](https://github.com/open-ani/ani) <br> [Mediabox](https://github.com/RyensX/MediaBox) <br> [Miru App](https://miru.js.org/) :glowing-star: <Badge text="Manga" /> <br> [oneAnime](https://github.com/Predidit/oneAnime) <br> [Sakura Anime](https://github.com/670848654/SakuraAnime) <br> [Neko Anime](https://github.com/xioneko/neko-anime) |
+| Anime | [AGETV](https://github.com/muedsa/AGETV) <br> [Ani](https://github.com/open-ani/ani) <br> [Anime](https://github.com/lanlinju/Anime) <br> [Mediabox](https://github.com/RyensX/MediaBox) <br> [Miru App](https://miru.js.org/) :glowing-star: <Badge text="Manga" /> <br> [Neko Anime](https://github.com/xioneko/neko-anime) <br> [oneAnime](https://github.com/Predidit/oneAnime) |
 | Manga | [Copy MangaX](https://github.com/CrowForKotlin/CopyMangaX) <br> [kobi](https://github.com/niuhuan/kobi) <br> [Manga Reader](https://github.com/youniaogu/MangaReader) |
 | Novels | [Legado](https://github.com/gedoor/legado) |
 | Tracker | [Bangumi](https://github.com/czy0729/Bangumi) <br> [Bangumi for Android](https://github.com/xiaoyvyv/bangumi) <br> [Bangumi MX](http://bgmx.mysxl.cn/) [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi) |
@@ -206,7 +206,7 @@ If you have recommendations for good sites in your native language or want to re
 - [NanaOne](https://nanaone.net/) <Badge type="info" text="DDL" />
 - [OtakuKingdom Subs](https://www.otakukingdom-subs.de/) <Badge type="info" text="DDL" />
 - [Shiroi-Fansubs](https://shiroi-fansubs.de/) <Badge type="info" text="DDL" />
-- [S.to](https://s.to/) <Badge type="info" text="Stream" />
+- [S.to](https://s.to/) <Badge type="tip" text="2" link="https://serienstream.to/" /><Badge type="info" text="Stream" />
 - [Umaru](https://www.umaru.to/home) <Badge type="info" text="Stream" />
 
 ### Manga
