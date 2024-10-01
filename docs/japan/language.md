@@ -185,7 +185,7 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 ### Resources
 
 #### Pronunciation
-- [CaptionPop](https://www.captionpop.com/japanese?nl=en) `Youtbe`
+- [CaptionPop](https://www.captionpop.com/japanese?nl=en) `Youtube`
 - [Filmot](https://filmot.com/) `Youtube`
 - [Forvo](https://forvo.com/languages/ja/) `Native Speaker`
 - [Immersion Kit](https://www.immersionkit.com/) :glowing-star: `Japanese Media`
@@ -198,8 +198,8 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 - [BOOK WALKER Cross Search](https://bsearch.bookwalker.jp/search) `Search through BW books`
 - [Hinoki Project](https://hinoki-project.org/)
 - [Hiragana](https://www.hiragana.jp/en/) `Add Hiragana over Kanji`
-- [jReadability](https://jreadability.net/) `Text eadability measurement`
-- [Kanji Portraits](https://kanjiportraits.wordpress.com/) `Kanji mrigins`
+- [jReadability](https://jreadability.net/) `Text readability measurement`
+- [Kanji Portraits](https://kanjiportraits.wordpress.com/) `Kanji origins`
 - [Kanji Tools](https://kanji.sljfaq.org/)
 - [Kanji Worksheets](https://jensechu.github.io/kanji/index.html) `Printable Kanji worksheet`
 - [Massif](https://massif.la/ja) `Search through Book / WN / Web`
