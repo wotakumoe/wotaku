@@ -332,7 +332,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [SyncYomi](https://github.com/syncyomi/syncyomi) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-docker:
 - :material-symbols-subdirectory-arrow-right: [Image Tools](/tools.md#image-tools)
-- :material-symbols-subdirectory-arrow-right: [Manga image editing guide](/guides/imagedit.md)
+- :material-symbols-subdirectory-arrow-right: [Manga image editing guide](/guides/manga/imagedit.md)
 
 
 ## eBook Tools
