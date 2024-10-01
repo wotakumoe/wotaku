@@ -24,7 +24,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 
 == Art 
 
-- Ame & Ina plush art by [**CLERO**](https://x.com/CLERO_ART/status/1788894299007971680)
+- Hololive EN plush art by [**CLERO**](https://x.com/CLERO_ART/status/1788894299007971680)
 - Embed art by [**夕城**](https://x.com/yukiyasa1/status/1770385782379020322)
 - Smol Ina's diary by [**underdatv**](https://x.com/underdatv/status/1790765775349072046)
 - AO-chan by [**3ton**](https://www.pixiv.net/en/artworks/110412826)
