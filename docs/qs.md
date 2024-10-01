@@ -16,11 +16,11 @@ outline: [2,3]
 - **Streaming**
   - [KickAssAnime](https://www1.kickassanime.mx/)
   - [Miruro](https://www.miruro.tv/) <Badge type="info" text="Proxies" link="https://www.miruro.com" />
-  - [Animepahe](https://animepahe.ru/) `Mini-Encode`
+  - [Animepahe](https://animepahe.ru/) <Badge type="info" text="Mini-Encode" />
 - **Download**
   - [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" /> <Badge type="info" text="Torrent" />
   - [Tokyo Insider](https://www.tokyoinsider.com/) <Badge type="info" text="Direct" />
-  - [Kayo anime](https://kayoanime.com/) <Badge type="info" text="Direct" /> `Batch`
+  - [Kayo anime](https://kayoanime.com/) <Badge type="info" text="Direct" /><Badge type="info" text="Batch" />
 
 ### Software
 
