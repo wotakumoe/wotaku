@@ -491,6 +491,7 @@ outline: [1,2]
   - [Screenshots from /vt/](https://x.com/VT_Screens)
   - [Chroneco](https://x.com/chrone_co)
   - [JQHN](https://x.com/JQHNHARQLD)
+- [walfie gif](https://walfiegif.wordpress.com/)
 
 
 ![](/banner/others.webp)
