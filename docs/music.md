@@ -109,7 +109,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
   - [Sakura OST](https://www.sakuraost.com/) :mdi-snail:
 
 ## Downloader
-- [Squid.wtf](https://squid.wtf/) :glowing-star: <Badge type="tip" text="Qobuz" link="https://qobuz.squid.wtf/" />
+- [Squid.wtf](https://squid.wtf/) :glowing-star:
 - [YAMS](https://yams.tf/)
 - [Lucida](https://lucida.to/) <Badge type="tip" text="2" link="https://lucida.su/" />
 - [DoubleDouble](https://doubledouble.top/)
