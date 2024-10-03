@@ -35,15 +35,17 @@ outline: 2
 - [ConsoleRoms](https://www.consoleroms.com/)
 - [Crocdb](https://crocdb.net/)
 - [EBZero ROM set](https://archive.org/details/retro-roms-best-set) <Badge type="info" text="Needs account" />
+- [Edge Emulation](https://edgeemu.net/)
 - [Myrient](https://myrient.erista.me/)
 - [Romheaven](https://romheaven.com/) <Badge type="info" text="2" link="https://romheaven.su/" />
 - [ROMsPURE](https://romspure.cc/roms)
+- [The ROM Depot](https://theromdepot.com/) <Badge type="info" text="Needs account" />
 - [AlvRo's Collection](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml)
 
 ### Platform Specific
 - [hShop](https://hshop.erista.me/) :simple-icons-nintendo3ds:
 - [NoPayStation](https://nopaystation.com/) :simple-icons-playstation:
-- [nsw2u](https://nsw2u.xyz/) :simple-icons-nintendoswitch:
+- [NXBrew](https://nxbrew.com/) :simple-icons-nintendoswitch:
 - [Ziperto](https://www.ziperto.com/) :simple-icons-nintendoswitch:
 
 
