@@ -20,6 +20,7 @@ outline: 2
 - [Moriya Shrine](https://moriyashrine.org/) <Badge type="info" text="Touhou" />
 - [My Abandonware](https://www.myabandonware.com/)
 - [Ova Games](https://www.ovagames.com/)
+- [The Collection Chamber](https://collectionchamber.blogspot.com/)
 - [Torrminatorr](https://torrminatorr.com/) <Badge type="info" text="Needs Account" />
 
 ::: danger Untrusted sites
