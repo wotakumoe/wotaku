@@ -346,13 +346,13 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 
 ## Trackers
-- [Hachidori](https://malupdaterosx.moe/hachidori/) :ic-baseline-apple: <Badge type="info" text="GitHub" icon="i-octicon-mark-github" link="https://github.com/Atelier-Shiori/hachidori" />
+- [Hachidori](https://malupdaterosx.moe/hachidori/) :ic-baseline-apple: [:mdi-github:](https://github.com/Atelier-Shiori/hachidori)
 - [Keroro](https://github.com/hotsno/keroro) :simple-icons-mpv:
-- [MALClient](https://apps.microsoft.com/store/detail/malclient/9NBLGGH5F3BL) :ic-baseline-window: <Badge type="tip" text="GitHub" icon="i-octicon-mark-github" link="https://github.com/Drutol/MALClient" />
-- [MAL-Sync](https://malsync.moe/) :mdi-earth: <Badge type="tip" text="GitHub" icon="i-octicon-mark-github" link="https://github.com/MALSync/MALSync" />
-- [Taiga](https://taiga.moe/) :ic-baseline-window::mdi-download::mdi-rss: <Badge type="info" text="GitHub" icon="i-octicon-mark-github" link="https://github.com/erengy/taiga" />
-- [Trackma](https://z411.github.io/trackma/) :mingcute-linux-fill: <Badge type="info" text="GitHub" icon="i-octicon-mark-github" link="https://github.com/z411/trackma" />
-- [Tundra](https://tundra.moe/) :mingcute-linux-fill: <Badge type="info" text="GitHub" icon="i-octicon-mark-github" link="https://github.com/m4tx/tundra" />
+- [MALClient](https://apps.microsoft.com/store/detail/malclient/9NBLGGH5F3BL) :ic-baseline-window: [:mdi-github:](https://github.com/Drutol/MALClient)
+- [MAL-Sync](https://malsync.moe/) :mdi-earth: [:mdi-github:](https://github.com/MALSync/MALSync)
+- [Taiga](https://taiga.moe/) :ic-baseline-window: [:mdi-github:](https://github.com/erengy/taiga)
+- [Trackma](https://z411.github.io/trackma/) :mingcute-linux-fill: [:mdi-github:](https://github.com/z411/trackma)
+- [Tundra](https://tundra.moe/) :mingcute-linux-fill: [:mdi-github:](https://github.com/m4tx/tundra)
 
 
 ## Fansubbing & Sub Tools
