@@ -24,7 +24,7 @@ outline: [1,2]
 <br>
 
 ::: info Raw section has been moved
-To remove clutter and dupe links, raw manga websites have been move to [**Non-English**](/nonen#manga-8).
+To remove clutter and dupe links, raw manga websites have been move to [**Non-English**](/nonen#japanese).
 :::
 
 
