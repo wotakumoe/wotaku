@@ -92,6 +92,7 @@ outline: [1,2]
 - **MyAnimeList**
   - [DailyAL](https://github.com/JICA98/DailyAL)
   - [MoeList](https://moelist.net/) [:mdi-github:](https://github.com/axiel7/MoeList)
+  - [Risuto](https://github.com/lexwilliam/Risuto)
 - **Others**
   - [Kitsune](https://github.com/Drumber/Kitsune) :simple-icons-kitsu:
   - [OpenComicVine](https://github.com/proninyaroslav/OpenComicVine) <Badge type="info" text="ComicVine" />
