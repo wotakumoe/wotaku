@@ -198,14 +198,14 @@ outline: 1
 :::
 
 
-#### Reuploads / Untouched 
+#### Reuploads / Untouched
+- [Flugel Anime](https://flugelanime.com/) + :flag-spain: :mdi-download:
 - [Tokyo Insider](https://www.tokyoinsider.com/) :mdi-download:
 - [JPFiles](https://jpfiles.net/) :mdi-snail::mdi-disc:
 - [JPLearner](http://www.jplearner.to/) :mdi-snail::mdi-disc:
 - [AnimeRSS](https://animerss.com/) :mdi-snail::mdi-disc:
 
 #### Re-encodes
-- [Flugel Anime](https://flugelanime.com/) + :flag-spain: :mdi-download:
 - [Kayo anime](https://kayoanime.com/) :mdi-google-drive::material-symbols-package-2:
 - [Anime out](https://www.animeout.xyz/) :mdi-download::mdi-account:
 - [Chauthanh](https://chauthanh.info/) :mdi-download::mdi-account:
