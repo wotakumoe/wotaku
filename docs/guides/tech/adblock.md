@@ -32,6 +32,7 @@ Adblocking Solutions for every device
   - [ClearURLs](https://docs.clearurls.xyz/) :mdi-firefox::mingcute-chrome-fill:
   - [FastForward](https://fastforward.team/) :mdi-firefox::mingcute-chrome-fill:
 - **Script**
+  - [AdsBypasser](https://adsbypasser.github.io/) [:mdi-github:](https://github.com/adsbypasser/adsbypasser)
   - [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)
   - [Bypass.city](https://bypass.city/how-to-install-userscript)
 
