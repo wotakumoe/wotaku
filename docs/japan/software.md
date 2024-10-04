@@ -196,7 +196,7 @@ outline: [2,3]
 - [subtitles-rs](https://github.com/emk/subtitles-rs) :ic-baseline-apple::mingcute-linux-fill: `Various subtitle related tools`
 - [subs2cia](https://github.com/dxing97/subs2cia) :ic-baseline-apple::mingcute-linux-fill: `Generates audio clip from media using subs for Anki/SRS`
 - [FFsubsync](https://github.com/smacke/ffsubsync) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: `Auto-sync subs with video`
-- [SubPlease](https://github.com/kanjieater/SubPlease) :ic-baseline-window::mingcute-linux-fill: `Generate accurate subtitles from audio`
+- [SubPlz](https://github.com/kanjieater/SubPlz/) :ic-baseline-window::mingcute-linux-fill: `Generate accurate subtitles from audio`
 - [Subtitle Character Counter](https://cademcniven.com/subtitleCharacterCounter.html) :mdi-earth:
 - [Sub transition](https://github.com/Ajatt-Tools/sub-transition) :simple-icons-mpv: `Speed up the video parts with no subs`
 - [Nekomoe JP Formatter](https://jp-formatter.pages.dev/) :mdi-earth: [:mdi-github:](https://github.com/Nekomoekissaten-SUB/nekomoe-jp-formatter)  `Clean up subtitles`
