@@ -74,11 +74,12 @@ outline: 1
       <li>Mapping might give issues.</li>
     </ul>
   </tooltip>
-- [AniPulse](https://www.anipulse.to/) 
+- [AniZone](https://anizone.to/)
   <tooltip>
     <ul>
-      <li>Gogo, Zoro Scraper.</li>
-      <li>Has own uploaded releases too for various series. Re-encoded to smaller filesize.</li>
+      <li>Re-encoded to smaller file size.</li>
+      <li>Very small library size.</li>
+      <li>Good for airing shows.</li>
     </ul>
   </tooltip>
 - [Animepahe](https://animepahe.ru/) <Badge type="tip" text="2" link="https://animepahe.com/" /><Badge type="tip" text="3" link="https://animepahe.org" />
@@ -87,14 +88,6 @@ outline: 1
       <li>Uploads mini encoded files, best if you want smaller files or have low bandwidth.</li>
       <li>Has a good amount of missing titles.</li>
       <li>Some titles don't get regular update.</li>
-    </ul>
-  </tooltip>
-- [AniZone](https://anizone.to/)
-  <tooltip>
-    <ul>
-      <li>Re-encoded to smaller file size.</li>
-      <li>Very small library size.</li>
-      <li>Good for airing shows.</li>
     </ul>
   </tooltip>
 - [All Anime](https://allmanga.to/anime?tr=sub&cty=ALL) 
@@ -106,6 +99,13 @@ outline: 1
     </ul>
   </tooltip>
 - [Gogoanime](https://anitaku.pe/) <Badge text="Proxies" link="https://gogotaku.info/" />
+- [AniPulse](https://www.anipulse.to/) 
+  <tooltip>
+    <ul>
+      <li>Gogo, Zoro Scraper.</li>
+      <li>Has own uploaded releases too for various series. Re-encoded to smaller filesize.</li>
+    </ul>
+  </tooltip>
 - [AnimeZ](https://animez.org/) 
   <tooltip>
     <ul>
