@@ -138,13 +138,16 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 
 ## Agents
-- [Black Ship](https://blackship.com/)
+- [Blackship](https://blackship.com/)
 - [Buyee](https://buyee.jp/?lang=en)
-- [Buy Smart Japan](https://www.buysmartjapan.com/)
+- [DeJapan](https://www.dejapan.com/en)
 - [From Japan](https://www.fromjapan.co.jp/en)
 - [Japan Rabbit](https://japanrabbit.com/)
+- [J-Subculture](https://www.j-subculture.com/)
 - [Remambo](https://www.remambo.jp/)
-- [Zen Market](https://zenmarket.jp/en/)
+- [Sendico](https://sendico.com/)
+- [Tenshi Shop](https://tenshishop.com/)
+- [ZenMarket](https://zenmarket.jp/en/)
 
 
 ## Tracker
