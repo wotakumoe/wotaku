@@ -91,9 +91,9 @@ outline: [1,2]
 
 
 ## Illustrations
-- [Booruwf](https://booru.pixiv.pics/) :glowing-star: <Badge type="tip" text="Moeview" link="https://moeview.pixiv.pics/" /> [:mdi-github:](https://github.com/asadahimeka/booruwf-web)
+- [Booruwf](https://booru.pixiv.pics/) <Badge type="tip" text="Moeview" link="https://moeview.pixiv.pics/" /> [:mdi-github:](https://github.com/asadahimeka/booruwf-web)
 - [Danbooru](https://danbooru.donmai.us/)
-- [Gelbooru](https://gelbooru.com/)
+- [Gelbooru](https://gelbooru.com/) :glowing-star:
 - [Hentai Game CG](https://hentaigamecg.com/)
 - [Kona chan](https://konachan.com/)
 - [Nijie](https://nijie.info/)
