@@ -177,10 +177,10 @@ outline: [1,2]
 :::
 
 ## Booru
-- [Booruwf](https://booru.pixiv.pics/) :glowing-star: <Badge type="tip" text="Moeview" link="https://moeview.pixiv.pics/" /> [:mdi-github:](https://github.com/asadahimeka/booruwf-web)
+- [Booruwf](https://booru.pixiv.pics/) <Badge type="tip" text="Moeview" link="https://moeview.pixiv.pics/" /> [:mdi-github:](https://github.com/asadahimeka/booruwf-web)
 - [Danbooru](https://danbooru.donmai.us/)
 - [Donmai](https://donmai.moe/) <Badge type="green" link="" text="SFW"/>
-- [Gelbooru](https://gelbooru.com/)
+- [Gelbooru](https://gelbooru.com/) :glowing-star:
 - [Konachan](https://konachan.com/)
 - [Mikubooru](https://booru.funmaker.moe/) [:mdi-github:](https://github.com/funmaker/hybooru)
 - [Safebooru](https://safebooru.org/) <Badge type="green" text="SFW" />
