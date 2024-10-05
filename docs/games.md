@@ -125,13 +125,13 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 
 ### Wiki / Websites
 
-- [Pokémon](https://www.pokemon.com/us) <Badge type="info" text="Official" />
+- [Pokémon](https://www.pokemon.com/us) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://www.pokemon.com/us/pokedex" /><Badge type="info" text="Official" />
 - [Bulbagarden](https://bulbagarden.net/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_National_Pok%C3%A9dex_number" />
 - [Serebii.net](https://www.serebii.net/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://www.serebii.net/pokemon/" />
 - [Pokémon Database](https://pokemondb.net/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://pokemondb.net/pokedex" />
 - [The Cave of Dragonflies](https://www.dragonflycave.com/)
 - [Smogon University](https://www.smogon.com/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://www.smogon.com/dex/" />
-- [Pokés](https://www.pokeos.com/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://www.pokeos.com/dex/" />
+- [Pokéos](https://www.pokeos.com/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://www.pokeos.com/pokedex/" />
 - [PokéHarbor](https://www.pokeharbor.com/) <Badge type="info" text="Download" />
 - [PokéJungle](https://pokejungle.net/)
 - [PokéPalette](https://pokemonpalette.com/)
