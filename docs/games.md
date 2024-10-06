@@ -132,8 +132,7 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 - [The Cave of Dragonflies](https://www.dragonflycave.com/)
 - [Smogon University](https://www.smogon.com/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://www.smogon.com/dex/" />
 - [Pokéos](https://www.pokeos.com/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://www.pokeos.com/pokedex/" />
-- [PokéHarbor](https://www.pokeharbor.com/) <Badge type="info" text="Download" />
-- [PokéJungle](https://pokejungle.net/)
+- [PokéJungle](https://pokejungle.net/) <Badge type="info" text="News" />
 - [PokéPalette](https://pokemonpalette.com/)
 
 
@@ -141,6 +140,7 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 - [Deluge RPG](https://www.delugerpg.com/)
 - [Eevee Expo](https://eeveeexpo.com/)
 - [PokéDoku](https://pokedoku.com/)
+- [PokéHarbor](https://www.pokeharbor.com/)
 - [Pokémerald](https://pokemerald.com/)
 - [Pokémon Infinite Fusion](https://infinitefusion.fandom.com/wiki/Pok%C3%A9mon_Infinite_Fusion_Wiki)
 - [Pokémon Revolution](https://pokemonrevolution.net/home)
