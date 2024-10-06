@@ -81,7 +81,8 @@ If everything worked, you will now see a **sola** tab on the left (or at the top
 ![](/ss/mado/gacha.gif)
 
 
-::: info In case you followed this guide perfectly, but still aren't getting a reply from sola in the side tab, try picking a different nick in the command. It could be that the current one was already registered by someone else, thereby causing a conflict.
+::: warning Nickname Issue
+In case you followed this guide perfectly, but still aren't getting a reply from sola in the side tab, try picking a different nick in the command. It could be that the current one was already registered by someone else, thereby causing a conflict.
 :::
 
 
