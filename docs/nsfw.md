@@ -116,7 +116,7 @@ outline: [1,2]
 - [Gamcore](https://gamcore.com/)
 - [Kimochi](https://kimochi.info)
 - [LewdCorner](https://lewdcorner.com/) <Badge type="info" text="Needs account" />
-- [Ryuu games](https://www.ryuugames.com/)
+- [Ryuugames](https://www.ryuugames.com/)
 - [ULMF](https://ulmf.org/) <Badge type="info" text="Needs account" />
 - [VNPocket](https://vnpocket.com/)
 
