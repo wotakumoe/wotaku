@@ -27,14 +27,14 @@ If you face any issues when connecting, try enabling **"Accept invalid SSL certi
 
 
 ## IRC Client
-- [Revolution IRC](https://github.com/MCMrARM/revolution-irc)		<Badge type="info" text="Android" />
-- [IRCCloud](https://github.com/irccloud/android)		<Badge type="info" text="Android" />
-- [HexChat](https://hexchat.github.io/)		<Badge type="info" text="Windows" />
-- [mIRC](https://www.mirc.com/)		<Badge type="info" text="Windows" />
+- [Revolution IRC](https://f-droid.org/packages/io.mrarm.irc/) <Badge type="info" text="Android" />
+- [IRCCloud](https://github.com/irccloud/android) <Badge type="info" text="Android" />
+- [HexChat](https://hexchat.github.io/)	<Badge type="info" text="Windows" />
+- [mIRC](https://www.mirc.com/)	<Badge type="info" text="Windows" />
 - [AdiIRC](https://adiirc.com/)	<Badge type="info" text="Windows" />
 - [KVIrc](https://github.com/kvirc/KVIrc/releases) <Badge type="info" text="Windows" /><Badge type="info" text="Linux" /><Badge type="info" text="macOS" />
-- [Irssi](https://irssi.org/)	<Badge type="info" text="Linux" />
-- [WeeChat](https://weechat.org/)	<Badge type="info" text="Linux" /><Badge type="info" text="macOS" />
+- [Irssi](https://irssi.org/) <Badge type="info" text="Linux" />
+- [WeeChat](https://weechat.org/) <Badge type="info" text="Linux" /><Badge type="info" text="macOS" />
 - [LimeChat](https://apps.apple.com/us/app/limechat/id414030210) <Badge type="info" text="macOS" />
 
 
@@ -56,8 +56,8 @@ If you face any issues when connecting, try enabling **"Accept invalid SSL certi
 	- Server: `irc.xertion.org`
 	- Port: `6697`
 	- Channel: `#MK` or `XDCCLeech`
-- [**XDCC EU**](https://www.xdcc.eu/)	<Badge type="info" text="General" />
-- [**SunXDCC**](https://sunxdcc.com/)	<Badge type="info" text="General" />
+- [**XDCC EU**](https://www.xdcc.eu/) <Badge type="info" text="General" />
+- [**SunXDCC**](https://sunxdcc.com/) <Badge type="info" text="General" />
 
 
 ::: warning Both XDCC EU and SunXDCC don't have a single bot channel. They mention the server and the channel address in the search result<
