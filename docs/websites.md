@@ -38,14 +38,6 @@ outline: 1
       <li>Re-encodes shows for smaller size.</li>
     </ul>
   </tooltip>
-- [Anime Nexus](https://anime.nexus/)
-  <tooltip>
-    <ul>
-      <li>Good bitrate.</li>
-      <li>Has multi-language softsub.</li>
-      <li>Small library size.</li>
-    </ul>
-  </tooltip>
 - [Hikari](https://watch.hikaritv.xyz/home) 
   <tooltip>
     <ul>
