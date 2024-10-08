@@ -63,7 +63,7 @@ const nav: DefaultTheme.NavItem[] = [
     items: [
       { text: "FAQs", link: "/torrenting/faq" },
       { text: "Glossary", link: "/torrenting/glossary" },
-      { text: "qBittorent", link: "/torrenting/qbit" },
+      { text: "qBittorrent", link: "/torrenting/qbit" },
     ],
   },
   {
@@ -183,7 +183,7 @@ const sidebar: DefaultTheme.Sidebar = [
     items: [
       { text: "FAQs", link: "/torrenting/faq" },
       { text: "Glossary", link: "/torrenting/glossary" },
-      { text: "qBittorent", link: "/torrenting/qbit" },
+      { text: "qBittorrent", link: "/torrenting/qbit" },
     ],
   },
   {
