@@ -1,13 +1,8 @@
-import { defineAsyncComponent, h } from "vue";
 import { type Theme } from "vitepress";
 import DefaultTheme from "vitepress/theme";
 import "@nolebase/vitepress-plugin-git-changelog/client/style.css";
 import "./style.css";
 import { enhanceAppWithTabs } from "vitepress-plugin-tabs/client";
-import {
-  NolebaseEnhancedReadabilitiesMenu,
-  NolebaseEnhancedReadabilitiesScreenMenu,
-} from "@nolebase/vitepress-plugin-enhanced-readabilities/client";
 import { NolebaseGitChangelogPlugin } from "@nolebase/vitepress-plugin-git-changelog/client";
 import { NolebasePagePropertiesPlugin } from "@nolebase/vitepress-plugin-page-properties/client";
 import "@nolebase/vitepress-plugin-enhanced-readabilities/client/style.css";
@@ -15,29 +10,16 @@ import "@nolebase/vitepress-plugin-page-properties/client/style.css";
 import "@nolebase/vitepress-plugin-git-changelog/client/style.css";
 import { createMediumZoomProvider } from "./composables";
 import Button from "./components/Button.vue";
-import SidebarCard from "./components/SidebarCard.vue";
-import NotFoundComponent from "./components/NotFound.vue";
 import Tooltip from "./components/Tooltip.vue";
 import Authors from "./components/Authors.vue";
 import Components from "@fmhy/components";
-import AnnouncementPill from "./components/AnnouncementPill.vue";
 import "virtual:uno.css";
 import Feedback from "./components/Feedback.vue";
+import Layout from "./Layout.vue";
 
 export default {
   extends: DefaultTheme,
-  Layout: () => {
-    return h(DefaultTheme.Layout, null, {
-      "layout-top": () => h(defineAsyncComponent(() => import("./components/NewDomainBanner.vue"))),
-      "sidebar-nav-after": () => h(SidebarCard),
-      "home-hero-info-before": () => h(AnnouncementPill),
-      // A enhanced readabilities menu for wider screens
-      "nav-bar-content-after": () => h(NolebaseEnhancedReadabilitiesMenu),
-      // A enhanced readabilities menu for narrower screens (usually smaller than iPad Mini)
-      "nav-screen-content-after": () => h(NolebaseEnhancedReadabilitiesScreenMenu),
-      "not-found": () => h(NotFoundComponent),
-    });
-  },
+  Layout: Layout,
   enhanceApp({ app, router, siteData }) {
     // @ts-expect-error
     enhanceAppWithTabs(app);
