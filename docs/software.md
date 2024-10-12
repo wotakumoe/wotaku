@@ -313,7 +313,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Video tools](/tools.md#video-tools)
 - [mpv tools](/tools.md#mpv)
 - [arr tools](/tools.md#arr-tools)
-- [Subtitle tools](#fansubbing-subtitle-tools)
+- [Subtitle tools](#fansubbing-sub-tools)
 :::
 
 
@@ -414,7 +414,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Mango](https://github.com/getmango/Mango) <Badge type="warning" text="Outdated" />
 
 ::: tip Mihon apps
-[**Android apps**](#manga) that support the mihon extension system, can be used as clients for these hosting solutions. You can get extensions from [**here**](/guides/tech/repo.md)
+[**Android apps**](#manga-readers) that support the mihon extension system, can be used as clients for these hosting solutions. You can get extensions from [**here**](/guides/tech/repo.md)
 :::
 
 #### Novels
