@@ -34,7 +34,7 @@ enhance the wiki further. Also, don't hesitate to [suggest ideas](#submitting-a-
     - are very small in size
     - are mostly paywalled
     - sell unofficial merch
-    - exlusively sell sex toys
+    - exclusively sell sex toys
 3. Adult content sites similar to OnlyFans
 4. Software that's too general (for example Windows OS related or Tweaking for privacy)
 5. Sites focused on lolicon or furry stuff
