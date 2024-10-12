@@ -15,6 +15,7 @@ outline: [1,2]
 
 - [Aniyomi](https://aniyomi.org/) :glowing-star: <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />[:mdi-github:](https://github.com/aniyomiorg/aniyomi)
   - [Animetail](https://github.com/Dark25/Animetail2)
+  - [Animiru](https://github.com/quickdesh/Animiru)
 - [Dantotsu](https://dantotsuapp.netlify.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />[:mdi-github:](https://github.com/rebelonion/Dantotsu)
 - [Cloudstream](https://cloudstream.on.fleek.co/) [:mdi-github:](https://github.com/recloudstream/cloudstream)<Badge type="info" icon="i-mdi-puzzle-outline" text="Plugins" link="https://discord.com/invite/wpX5Rfcx87" />
 - [Migu](https://miguapp.pages.dev/) [:mdi-github:](https://github.com/NoCrypt/migu)
