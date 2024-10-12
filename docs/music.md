@@ -422,7 +422,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD)
 - [Soggfy](https://github.com/Rafiuth/Soggfy) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Spotify AAC Downloader](https://github.com/glomatico/spotify-aac-downloader)
-- [ZSpotify](https://github.com/jsavargas/zspotify) <Badge type="tip" text="GUI" link="https://github.com/PacketSurf/ZSpotifyGUI" />
+- [Zotify](https://zotify.xyz/)
 
 
 ::: info Free premium accounts
