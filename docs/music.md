@@ -242,6 +242,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 
 - **General**
   - [Discogs](https://www.discogs.com/)
+  - [Rate Your Music](https://rateyourmusic.com/)
   - [VGMdb](https://vgmdb.net/)
 - **Anime**
   - [Aniplaylist](https://aniplaylist.com/) :glowing-star:
