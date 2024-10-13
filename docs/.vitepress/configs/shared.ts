@@ -424,12 +424,12 @@ export const shared: UserConfig<DefaultTheme.Config> = {
       alias: [
         {
           find: /^.*\/VPBadge\.vue$/,
-          replacement: fileURLToPath(new URL("./theme/components/Badge.vue", import.meta.url)),
+          replacement: fileURLToPath(new URL("../theme/components/Badge.vue", import.meta.url)),
         },
         {
           find: /^.*VPSwitchAppearance\.vue$/,
           replacement: fileURLToPath(
-            new URL("./theme/components/VPSwitchAppearance.vue", import.meta.url),
+            new URL("../theme/components/VPSwitchAppearance.vue", import.meta.url),
           ),
         },
       ],
