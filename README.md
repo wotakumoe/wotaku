@@ -3,8 +3,6 @@
 An otaku index for everything! Kindly consider giving the repository a ⭐ star. This motivates us to
 enhance the wiki further. Also, don't hesitate to [suggest ideas](#submitting-a-link).
 
-
-
 # What is in the Wiki?
 
 - Curated Websites for [anime](https://wotaku.wiki/websites#anime),
@@ -28,17 +26,19 @@ enhance the wiki further. Also, don't hesitate to [suggest ideas](#submitting-a-
 
 ## ⛔️ Things we won't add in the wiki
 
-1. Websites that are only or primarily for generative AI (Chatbot, roleplaying bot, ai art generator etc.)
+1. Websites that are only or primarily for generative AI (Chatbot, roleplaying bot, ai art generator
+   etc.)
 2. Sites that
-    - imitate other websites
-    - are very small in size
-    - are mostly paywalled
-    - sell unofficial merch
-    - exclusively sell sex toys
+   - imitate other websites
+   - are very small in size
+   - are mostly paywalled
+   - sell unofficial merch
+   - exclusively sell sex toys
 3. Adult content sites similar to OnlyFans
 4. Software that's too general (for example Windows OS related or Tweaking for privacy)
 5. Sites focused on lolicon or furry stuff
-6. Sites found in the untrusted lists of [FMHY](https://fmhy.net/unsafesites) and/or [r/PiratedGames](https://rentry.org/pgames#untrusted-sites)
+6. Sites found in the untrusted lists of [FMHY](https://fmhy.net/unsafesites) and/or
+   [r/PiratedGames](https://rentry.org/pgames#untrusted-sites)
 
 ## ⚠️ Things we will try to avoid
 

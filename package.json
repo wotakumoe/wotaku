@@ -23,6 +23,7 @@
     "@resvg/resvg-js": "^2.6.2",
     "@vueuse/core": "^10.11.0",
     "fast-glob": "^3.3.2",
+    "floating-vue": "^5.2.2",
     "itty-fetcher": "^0.9.4",
     "markdown-it": "^14.1.0",
     "medium-zoom": "^1.1.0",

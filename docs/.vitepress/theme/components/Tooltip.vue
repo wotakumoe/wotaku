@@ -1,48 +1,40 @@
 <script setup lang="ts">
-import { ref } from "vue";
-
-const show = ref<boolean>(false);
-
-function toggleTooltip() {
-  show.value = !show.value;
-}
-
-withDefaults(defineProps<{ icon: string }>(), {
-  icon: "i-lucide-info",
-});
+withDefaults(
+  defineProps<{
+    title: string;
+    icon: string;
+  }>(),
+  {
+    title: "Tooltip",
+    icon: "i-lucide-info",
+  },
+);
 </script>
 
 <template>
-  <button @click="toggleTooltip" class="tooltip-button">
-    <div :class="icon" />
-  </button>
-  <p v-if="show" class="tooltip">
-    <slot />
-  </p>
+  <VTooltip theme="info-tooltip">
+    <button
+      class="w-7 h-7 rounded-full bg-$vp-c-default-soft hover:bg-$vp-c-default-soft/40 text-primary border-$vp-c-default-soft hover:border-primary select-none rounded border-2 border-solid font-bold transition-all duration-300">
+      <div :class="icon" />
+    </button>
+
+    <template #popper>
+      <div class="p-4 max-w-xs border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 border-2 border-solid">
+        <h3 class="text-lg font-semibold text-$vp-c-text-1 mb-2" v-text="title" />
+        <p class="text-sm text-$vp-c-text-2">
+          <slot />
+        </p>
+      </div>
+    </template>
+  </VTooltip>
 </template>
 
-<style scoped>
-.tooltip-button {
-  color: var(--vp-c-brand-1);
-  background-color: var(--vp-custom-block-info-bg);
-  display: inline-flex;
-  border-radius: 100px;
-  padding: 5px;
-  line-height: 26px;
-  font-size: 16px;
-  font-weight: 500;
+<style>
+.v-popper__popper {
+  --uno: z-10;
 }
 
-.tooltip {
-  background: var(--vp-c-bg-nav);
-  padding: 12px 24px 24px;
-  border-radius: 12px;
-  position: relative;
-  z-index: 0;
-  border: 1px solid transparent;
-  white-space: pre-wrap;
-  border-color: var(--vp-c-brand);
-  font-size: 14px;
-  font-weight: 500;
+.v-popper {
+  display: inline-flex !important;
 }
 </style>

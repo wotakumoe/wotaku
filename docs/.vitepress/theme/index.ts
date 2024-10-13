@@ -2,12 +2,14 @@ import { type Theme } from "vitepress";
 import DefaultTheme from "vitepress/theme";
 import "@nolebase/vitepress-plugin-git-changelog/client/style.css";
 import "./style.css";
+import FloatingVue from "floating-vue";
 import { enhanceAppWithTabs } from "vitepress-plugin-tabs/client";
 import { NolebaseGitChangelogPlugin } from "@nolebase/vitepress-plugin-git-changelog/client";
 import { NolebasePagePropertiesPlugin } from "@nolebase/vitepress-plugin-page-properties/client";
 import "@nolebase/vitepress-plugin-enhanced-readabilities/client/style.css";
 import "@nolebase/vitepress-plugin-page-properties/client/style.css";
 import "@nolebase/vitepress-plugin-git-changelog/client/style.css";
+import "floating-vue/dist/style.css";
 import { createMediumZoomProvider } from "./composables";
 import Button from "./components/Button.vue";
 import Tooltip from "./components/Tooltip.vue";
@@ -22,6 +24,15 @@ export default {
   extends: DefaultTheme,
   Layout: Layout,
   enhanceApp({ app, router, siteData }) {
+    app.use(FloatingVue, {
+      themes: {
+        "info-tooltip": {
+          $extend: "tooltip",
+          $resetCss: true,
+          triggers: ["hover"],
+        },
+      },
+    });
     // @ts-expect-error
     enhanceAppWithTabs(app);
     app.component("Button", Button);
@@ -50,49 +61,53 @@ export default {
         },
       ],
     });
-    app.use(NolebasePagePropertiesPlugin<{ tags: string[]; progress: number }>(), [
-      {
-        locales: {
-          en: [
-            {
-              key: "tags",
-              type: "tags",
-              title: "Tags",
-            },
-            {
-              key: "createdAt",
-              type: "datetime",
-              title: "Created at",
-              formatAsFrom: true,
-              dateFnsLocaleName: "enUS",
-            },
-            {
-              key: "updatedAt",
-              type: "datetime",
-              title: "Updated at",
-              formatAsFrom: true,
-              dateFnsLocaleName: "enUS",
-            },
-            {
-              key: "wordsCount",
-              type: "dynamic",
-              title: "Word count",
-              options: {
-                type: "wordsCount",
+    app.use(
+      // @ts-expect-error
+      NolebasePagePropertiesPlugin<{ tags: string[]; progress: number }>(),
+      [
+        {
+          locales: {
+            en: [
+              {
+                key: "tags",
+                type: "tags",
+                title: "Tags",
               },
-            },
-            {
-              key: "readingTime",
-              type: "dynamic",
-              title: "Reading time",
-              options: {
-                type: "readingTime",
+              {
+                key: "createdAt",
+                type: "datetime",
+                title: "Created at",
+                formatAsFrom: true,
                 dateFnsLocaleName: "enUS",
               },
-            },
-          ],
+              {
+                key: "updatedAt",
+                type: "datetime",
+                title: "Updated at",
+                formatAsFrom: true,
+                dateFnsLocaleName: "enUS",
+              },
+              {
+                key: "wordsCount",
+                type: "dynamic",
+                title: "Word count",
+                options: {
+                  type: "wordsCount",
+                },
+              },
+              {
+                key: "readingTime",
+                type: "dynamic",
+                title: "Reading time",
+                options: {
+                  type: "readingTime",
+                  dateFnsLocaleName: "enUS",
+                },
+              },
+            ],
+          },
         },
-      },
-    ]);
+      ],
+    );
   },
 } satisfies Theme;

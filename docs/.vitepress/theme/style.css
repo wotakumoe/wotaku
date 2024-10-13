@@ -330,3 +330,6 @@ main figure figcaption {
   width: 50%;
   margin: 0 auto;
 }
+.v-popper__arrow-container {
+  display: none;
+}
