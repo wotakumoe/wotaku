@@ -6,8 +6,18 @@ import { imgLazyload } from "@mdit/plugin-img-lazyload";
 import { align } from "@mdit/plugin-align";
 import { imgSize } from "@mdit/plugin-img-size";
 import { tabsMarkdownPlugin } from "vitepress-plugin-tabs";
-import { emojiRender, defs } from "./emoji";
+import { emojiRender, defs, movePlugin } from "./emoji";
 import { x } from "tinyexec";
+import {
+  PageProperties,
+  PagePropertiesMarkdownSection,
+} from "@nolebase/vitepress-plugin-page-properties/vite";
+import {
+  GitChangelog,
+  GitChangelogMarkdownSection,
+} from "@nolebase/vitepress-plugin-git-changelog/vite";
+import { fileURLToPath, URL } from "node:url";
+import UnoCSS from "unocss/vite";
 
 export const hostname: string = "https://wotaku.wiki";
 export const excludedFiles = ["t.md"];
@@ -59,6 +69,7 @@ const nav: DefaultTheme.NavItem[] = [
   },
   {
     text: "Torrenting",
+    // @ts-expect-error
     collapsed: true,
     items: [
       { text: "FAQs", link: "/torrenting/faq" },
@@ -68,6 +79,7 @@ const nav: DefaultTheme.NavItem[] = [
   },
   {
     text: "Guides",
+    // @ts-expect-error
     collapsed: true,
     items: [
       {
@@ -274,13 +286,13 @@ export const shared: UserConfig<DefaultTheme.Config> = {
     ["link", { rel: "mask-icon", href: "/asset/inaread.png", color: "#56b4fc" }],
     // prettier-ignore
     [
-			"meta",
-			{
-				name: "keywords",
-				content:
-					"Anime, Anime Piracy, Manga, Manga Piracy, VTuber, Hentai, JPOP, Music, Japan, Learning Japanese, Weeb, Otaku",
-			},
-		],
+      "meta",
+      {
+        name: "keywords",
+        content:
+          "Anime, Anime Piracy, Manga, Manga Piracy, VTuber, Hentai, JPOP, Music, Japan, Learning Japanese, Weeb, Otaku",
+      },
+    ],
     [
       "link",
       {
@@ -311,25 +323,6 @@ export const shared: UserConfig<DefaultTheme.Config> = {
   restore('ackDomainChange', 'banner-dismissed');
 })();`,
     ],
-    // 		[
-    // 			"script",
-    // 			{ id: "restore-takodachi-preference" },
-    // 			`
-    // (() => {
-    // const toggleTakodachi = () => {
-    //   const saved = localStorage.getItem("takodachi");
-    //   if (saved === "true") {
-    //     document.documentElement.classList.remove("takodachi");
-    //     localStorage.setItem("takodachi", "false");
-    //   } else {
-    //     document.documentElement.classList.add("takodachi");
-    //     localStorage.setItem("takodachi", "true");
-    //   }
-    // };
-    //
-    // toggleTakodachi();
-    // })();`,
-    // 		],
   ],
   srcExclude: ["README.md", "sandbox/**/*.md"],
   sitemap: {
@@ -390,6 +383,56 @@ export const shared: UserConfig<DefaultTheme.Config> = {
     ],
     footer: {
       message: `Made with love by <a href="https://github.com/wotakumoe">wotaku</a>. <a href="https://github.com/wotakumoe/Wotaku/commit/${GIT_COMMIT}">Commit: ${GIT_COMMIT.slice(0, 7)}</a>`,
+    },
+  },
+  vite: {
+    optimizeDeps: {
+      exclude: [
+        "@nolebase/vitepress-plugin-enhanced-readabilities/client",
+        "@nolebase/vitepress-plugin-git-changelog/client",
+        "@nolebase/vitepress-plugin-page-properties/client",
+      ],
+    },
+    ssr: {
+      noExternal: [
+        "@nolebase/vitepress-plugin-enhanced-readabilities",
+        "@nolebase/vitepress-plugin-page-properties",
+        "@nolebase/vitepress-plugin-git-changelog",
+        "@nolebase/ui",
+        "@fmhy/components",
+      ],
+    },
+    plugins: [
+      PageProperties(),
+      PagePropertiesMarkdownSection(),
+      GitChangelog({
+        maxGitLogCount: 20,
+        repoURL: "https://github.com/wotakumoe/Wotaku",
+      }),
+      GitChangelogMarkdownSection({ sections: { disableContributors: true } }),
+      UnoCSS({
+        configFile: "../unocss.config.ts",
+      }),
+      {
+        name: "custom:adjust-order",
+        configResolved(c) {
+          movePlugin(c.plugins as any, "vitepress", "before", "unocss:transformers:pre");
+        },
+      },
+    ],
+    resolve: {
+      alias: [
+        {
+          find: /^.*\/VPBadge\.vue$/,
+          replacement: fileURLToPath(new URL("./theme/components/Badge.vue", import.meta.url)),
+        },
+        {
+          find: /^.*VPSwitchAppearance\.vue$/,
+          replacement: fileURLToPath(
+            new URL("./theme/components/VPSwitchAppearance.vue", import.meta.url),
+          ),
+        },
+      ],
     },
   },
 };
