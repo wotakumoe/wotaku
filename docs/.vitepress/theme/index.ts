@@ -16,6 +16,7 @@ import Components from "@fmhy/components";
 import "virtual:uno.css";
 import Feedback from "./components/Feedback.vue";
 import Layout from "./Layout.vue";
+import PreferenceRadio from "./components/PreferenceRadio.vue";
 
 export default {
   extends: DefaultTheme,
@@ -27,6 +28,7 @@ export default {
     app.component("Authors", Authors);
     app.component("Tooltip", Tooltip);
     app.component("Feedback", Feedback);
+    app.component("PreferenceRadio", PreferenceRadio);
     // @ts-expect-error
     createMediumZoomProvider(app, router);
     // @ts-expect-error

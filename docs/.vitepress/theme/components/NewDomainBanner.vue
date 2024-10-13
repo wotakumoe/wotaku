@@ -3,7 +3,6 @@ import { ref, watchEffect } from "vue";
 import { useElementSize } from "@vueuse/core";
 
 const el = ref<HTMLElement>();
-// @ts-expect-error
 const { height } = useElementSize(el);
 
 watchEffect(() => {

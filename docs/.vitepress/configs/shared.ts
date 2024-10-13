@@ -105,6 +105,20 @@ const nav: DefaultTheme.NavItem[] = [
       },
     ],
   },
+  {
+    text: "Preferences",
+    items: [
+      {
+        component: "PreferenceRadio",
+        props: {
+          text: "Floating Takodachi",
+          group: "takodachi",
+          options: ["Enable", "Disable"],
+          defaultOption: "Disable",
+        },
+      },
+    ],
+  },
 ];
 
 const sidebar: DefaultTheme.Sidebar = [
@@ -297,6 +311,25 @@ export const shared: UserConfig<DefaultTheme.Config> = {
   restore('ackDomainChange', 'banner-dismissed');
 })();`,
     ],
+    // 		[
+    // 			"script",
+    // 			{ id: "restore-takodachi-preference" },
+    // 			`
+    // (() => {
+    // const toggleTakodachi = () => {
+    //   const saved = localStorage.getItem("takodachi");
+    //   if (saved === "true") {
+    //     document.documentElement.classList.remove("takodachi");
+    //     localStorage.setItem("takodachi", "false");
+    //   } else {
+    //     document.documentElement.classList.add("takodachi");
+    //     localStorage.setItem("takodachi", "true");
+    //   }
+    // };
+    //
+    // toggleTakodachi();
+    // })();`,
+    // 		],
   ],
   srcExclude: ["README.md", "sandbox/**/*.md"],
   sitemap: {

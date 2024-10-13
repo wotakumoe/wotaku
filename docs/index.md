@@ -128,6 +128,7 @@ const handleClick = () => {
 const icon = document.querySelector(".VPImage.image-src");
 
 if (icon) {
+  handleClick();
   icon.addEventListener("click", handleClick);
 }
 </script>
