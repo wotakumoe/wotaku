@@ -56,8 +56,8 @@ const Credits = computed(() => credits[props.page] || ([] as CreditsInfo[]));
 <template>
   <div class="flex flex-wrap gap-4 pt-2">
     <span class="text-lg font-medium">By</span>
-    <div v-for="(c, index) of Credits" class="flex gap-2 items-center">
-      <img :src="c.avatar" class="w-8 h-8 rounded-full" />
+    <div v-for="(c, index) of Credits" class="flex items-center gap-2">
+      <img :src="c.avatar" class="h-8 w-8 rounded-full" />
       <a v-if="c.site" :href="c.site">{{ c.name }}</a>
       <span v-else>{{ c.name }}</span>
       <span v-if="index < Credits.length - 1"> • </span>

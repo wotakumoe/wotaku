@@ -84,7 +84,7 @@ const { Layout } = DefaultTheme;
         ref="takodachiRef"
         src="/takodachi.webp"
         alt="Takodachi"
-        class="absolute w-10 h-10 pointer-events-none transition-opacity duration-500 opacity-0 z-[9999] fixed"
+        class="pointer-events-none fixed absolute z-[9999] h-10 w-10 opacity-0 transition-opacity duration-500"
         :style="{
           left: `${position.x}px`,
           top: `${position.y}px`,

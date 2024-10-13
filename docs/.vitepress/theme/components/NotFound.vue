@@ -6,15 +6,15 @@ const imageSize = ref("550px"); // Fixed size for the image
 </script>
 
 <template>
-  <div class="flex items-center justify-center min-h-[calc(100vh-4rem)] p-4">
+  <div class="flex min-h-[calc(100vh-4rem)] items-center justify-center p-4">
     <div class="text-center">
       <img
         :style="{ width: imageSize, height: 'auto' }"
         src="/asset/404.gif"
         alt="404 Image"
         class="mx-auto" />
-      <p class="mt-4 text-title-lg font-bold text-white leading-tight">404</p>
-      <p class="text-body-lg text-gray-400 leading-snug flex items-center justify-center flex-wrap">
+      <p class="text-title-lg mt-4 font-bold leading-tight text-white">404</p>
+      <p class="text-body-lg flex flex-wrap items-center justify-center leading-snug text-gray-400">
         Umm.... you shouldn’t be here
         <span class="icon-container mx-1">
           <img class="icon-img" src="/asset/inahuh.png" alt="Inahuh Icon" />
@@ -22,7 +22,7 @@ const imageSize = ref("550px"); // Fixed size for the image
         If you got here from a link, please click
         <span class="icon-container mx-1">
           <svg
-            class="inline-block align-text-bottom w-icon h-icon"
+            class="w-icon h-icon inline-block align-text-bottom"
             viewBox="0 0 24 24"
             fill="none"
             stroke="currentColor"

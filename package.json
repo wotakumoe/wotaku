@@ -59,6 +59,7 @@
     "@nolebase/vitepress-plugin-page-properties": "^2.4.0",
     "@types/node": "^22.4.0",
     "prettier": "^3.3.3",
+    "prettier-plugin-tailwindcss": "^0.6.8",
     "sass": "^1.77.8",
     "wrangler": "^3.78.7"
   },
