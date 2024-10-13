@@ -16,7 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 6
+          fetch-depth: 0
 
       - name: Install pnpm
         uses: pnpm/action-setup@v4
