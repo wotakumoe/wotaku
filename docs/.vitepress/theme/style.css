@@ -47,6 +47,11 @@
   --vp-custom-block-danger-border: theme("colors.carnation.800");
   --vp-custom-block-danger-text: theme("colors.carnation.800");
   --vp-custom-block-danger-text-deep: theme("colors.carnation.900");
+  /** Details */
+  --vp-custom-block-details-bg: var(--vp-custom-block-info-bg);
+  --vp-custom-block-details-border: var(--vp-custom-block-info-border);
+  --vp-custom-block-details-text: var(--vp-custom-block-info-text);
+  --vp-custom-block-details-text-deep: var(--vp-custom-block-info-text-deep);
 }
 
 .dark {
@@ -81,6 +86,11 @@
   --vp-custom-block-danger-border: theme("colors.carnation.800");
   --vp-custom-block-danger-text: theme("colors.carnation.200");
   --vp-custom-block-danger-text-deep: theme("colors.carnation.200");
+  /** Details */
+  --vp-custom-block-details-bg: var(--vp-custom-block-info-bg);
+  --vp-custom-block-details-border: var(--vp-custom-block-info-border);
+  --vp-custom-block-details-text: var(--vp-custom-block-info-text);
+  --vp-custom-block-details-text-deep: var(--vp-custom-block-info-text-deep);
 }
 
 .vp-doc a {
@@ -332,4 +342,60 @@ main figure figcaption {
 }
 .v-popper__arrow-container {
   display: none;
+}
+
+/** Color links inside custom containers */
+.tip.custom-block a {
+  color: theme("colors.meadow.500");
+}
+
+.tip.custom-block a:hover {
+  color: theme("colors.meadow.400");
+  text-decoration-color: theme("colors.meadow.300");
+  -webkit-text-decoration-color: theme("colors.meadow.300");
+}
+
+.info.custom-block a {
+  color: theme("colors.swarm.500");
+}
+
+.info.custom-block a:hover {
+  color: theme("colors.swarm.400");
+  text-decoration-color: theme("colors.swarm.300");
+  -webkit-text-decoration-color: theme("colors.swarm.300");
+}
+
+.warning.custom-block a {
+  color: theme("colors.merlin.500");
+}
+
+.warning.custom-block a:hover {
+  color: theme("colors.merlin.400");
+  text-decoration-color: theme("colors.merlin.300");
+  -webkit-text-decoration-color: theme("colors.merlin.300");
+}
+
+.danger.custom-block a {
+  color: theme("colors.carnation.500");
+}
+
+.danger.custom-block a:hover {
+  color: theme("colors.carnation.400");
+  text-decoration-color: theme("colors.carnation.300");
+  -webkit-text-decoration-color: theme("colors.carnation.300");
+}
+
+.details.custom-block a {
+  color: theme("colors.swarm.500");
+}
+
+.details.custom-block a:hover {
+  color: theme("colors.swarm.400");
+  text-decoration-color: theme("colors.swarm.300");
+  -webkit-text-decoration-color: theme("colors.swarm.300");
+}
+
+/** fix for nolebase-git-changelog */
+.vp-nolebase-git-changelog a {
+  text-decoration: none !important;
 }

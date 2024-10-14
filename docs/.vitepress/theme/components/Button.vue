@@ -23,6 +23,10 @@ withDefaults(
 </template>
 
 <style scoped>
+.VButton {
+  text-decoration: none !important;
+}
+
 .VButton.info {
   color: var(--vp-badge-info-text);
   background-color: var(--vp-badge-info-bg);
