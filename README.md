@@ -13,9 +13,9 @@ enhance the wiki further. Also, don't hesitate to [suggest ideas](#submitting-a-
 - Various sites for [db, tracker & info](https://wotaku.wiki/misc#info),
   [illustrations](https://wotaku.wiki/misc#illustrations),
   [utility](https://wotaku.wiki/misc#utility) & [vtuber](https://wotaku.wiki/misc#vtuber)
-- Other related software for [phone](https://wotaku.wiki/addons#apps) &
-  [PC](https://wotaku.wiki/addons#tools), [extensions](https://wotaku.wiki/addons#extensions) &
-  [scripts](https://wotaku.wiki/addons#scripts)
+- Other related software for [phone](https://wotaku.wiki/tools#phone) &
+  [PC](https://wotaku.wiki/tools#pc), [extensions](https://wotaku.wiki/tools#extensions) &
+  [scripts](https://wotaku.wiki/tools#scripts)
 - A rich list of resources to help you study the
   [japanese language](https://wotaku.wiki/japan/language) and
   [culture](https://wotaku.wiki/japan/culture).
