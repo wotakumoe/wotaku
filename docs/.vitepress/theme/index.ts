@@ -29,7 +29,7 @@ export default {
         "info-tooltip": {
           $extend: "tooltip",
           $resetCss: true,
-          triggers: ["hover"],
+          triggers: ["hover", "click"],
         },
       },
     });

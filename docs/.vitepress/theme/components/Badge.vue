@@ -37,6 +37,8 @@ withDefaults(defineProps<Props>(), {
   gap: 0.2rem;
   padding-right: 10px;
   vertical-align: middle;
+  /** If the badge is a link, we don't want to apply the link style from global styles. */
+  text-decoration: none !important;
 }
 
 .vp-doc h1 > .VPBadge {
