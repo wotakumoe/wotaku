@@ -169,8 +169,8 @@ outline: 1
 > Most of them are regionals
 
 ### TV
-- [Funcube](https://funcube.space/)
 - [Toonami Aftermath](https://www.toonamiaftermath.com/)
+- [Toonami Remastered](https://www.toonamiremastered.com/)
 :::
 
 
