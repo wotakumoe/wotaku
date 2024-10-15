@@ -153,6 +153,7 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 ### Tools
 - [Stat calculator](https://veekun.com/dex/gadgets/stat_calculator)
 - [Pokémon Type Calculator](https://www.pkmn.help/pokedex/)
+- [Goldex](https://play.google.com/store/apps/details?id=com.goldex) :mdi-android:
 - Nuzlocke Chart [:mdi-android:](https://play.google.com/store/apps/details?id=com.pseudocode.nuzlockechart) [:ic-baseline-apple:](https://apps.apple.com/us/app/nuzlocke-chart/id1573090300)
 - [Nuzlocke tracker](https://nuzlocke.app/)
 - [PKHeX](https://github.com/kwsch/PKHeX)
