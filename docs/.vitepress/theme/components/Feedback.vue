@@ -53,7 +53,7 @@ const messages = {
     "We'll be happy to read your thoughts and incorporate them into our wiki.",
     "Hello! We're glad you want to share your ideas!",
   ],
-  appreciation: ["We appreciate your support!", "We're always looking for ways to improve!."],
+  appreciation: ["We appreciate your support!", "We're always looking for ways to improve!"],
   other: ["We're always looking for ways to improve!"],
 };
 
