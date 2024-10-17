@@ -17,6 +17,14 @@
     "forceConsistentCasingInFileNames": true,
     "types": ["vitepress"]
   },
-  "include": ["**/.vitepress/**/*.ts", "**/.vitepress/**/*.mts", "**/.vitepress/**/*.vue"],
-  "exclude": ["node_modules"]
+  "include": [
+    "**/.vitepress/**/*.ts",
+    "**/.vitepress/**/*.mts",
+    "**/.vitepress/**/*.vue",
+    "docs/**/*.md"
+  ],
+  "exclude": ["node_modules"],
+  "vueCompilerOptions": {
+    "vitePressExtensions": [".md"]
+  }
 }
