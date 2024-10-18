@@ -341,23 +341,23 @@ outline: 1
 
 ### Manhwa
 
-- [Asura Scans](https://www.asurascans.com/) + :flag-china:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/juxsa9z/asura" />
+- [Asura Scans](https://asuracomic.net/) + :flag-china:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/juxsa9z/asura" />
 - [Flame Scans](https://flamecomics.com/) + :flag-china:  <Badge type="info" text="Dex" link="https://mangadex.org/group/fdad9851-164f-43fc-9ab0-25b8054c99ed/flame-scans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/btgsdiy/flame-scans" />
 - [Immortal Updates](https://immortalupdates.com/) + :flag-china:  <Badge type="info" text="Dex" link="https://mangadex.org/group/1296f28d-7888-4fcc-8861-93edb6c05e8c/immortal-updates-scan" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/10z1hxo/immortal-updates-scan" />
 - [LSComic](https://lscomic.com/) + :flag-china:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/rot79ib/leviatanscans" />
-- [Luminous Scans](https://luminousscans.com/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/jufm30w/luminous" />
-- [Manhwa Freak](https://manhwafreak.com/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/3cc5b54a-b20e-4fc5-b2aa-bb51fed328dc/manhwafreak" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/busmxbf/manhwafreak" />
 - [MM Scans](https://mm-scans.org/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/35ab5df4-f668-4ca4-895d-3e02cef509b6/mmscans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/wctgyjk/mmscans" />
+- [Radiant Scans](https://radiantscans.com/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/jufm30w/luminous" />
 - [Reaper Scans](https://reaperscans.com/) + :flag-china:  <Badge type="info" text="Dex" link="https://mangadex.org/group/e892ed1b-ed75-414a-bc86-71226f3364ad/reaper-scans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/5ev5t5s/reaper-scans" />
 - [Reset Scams](https://reset-scans.com/) +:flag-japan: :flag-china:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/df9ckct/reset-scans" />
 - [Tritinia Scans](https://tritinia.org/) +:flag-japan: :flag-china: <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/zfxsenj/tritinia-scans" />
-- [Void Scans](https://void-scans.com/) + :flag-china: <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/10nt2ki/infernal-void-scans" />
+- [UTOON](https://utoon.net/) +:flag-japan: :flag-china:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/mtcug74/utoon" />
+- [Void Scans](https://hivetoon.com/) + :flag-china: <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/10nt2ki/infernal-void-scans" />
 - [Zero Scans](https://zeroscans.com/) + :flag-china:  <Badge type="info" text="Dex" link="https://mangadex.org/group/dd0a3018-21f1-4488-948c-08499b179fcf/zero-scans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/vlkvmk7/zero-scans-discord" />
 
 ### Manhua
 
 - [Disaster Scans](https://disasterscans.com/)
-- [Drake Scans](https://drakescans.com/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/50caf96d-fe2b-4638-9d13-4954b782e112/drake-scans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/ktajd9u/drake-scans" />
+- [Drake Scans](https://drakecomic.org/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/50caf96d-fe2b-4638-9d13-4954b782e112/drake-scans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/ktajd9u/drake-scans" />
 - [Manhua Ga](https://manhuaga.com/)
 - [Manhua Plus](https://manhuaplus.com/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/3apm0du/manhua-plus" />
 - [Rizz Comic](https://rizzcomic.com/) + :flag-south-korea:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/g8dqjxt/realm-scans" />
