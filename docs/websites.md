@@ -415,6 +415,7 @@ outline: 1
 - [Madokami](https://manga.madokami.al)
 - [Anna’s Archive](https://annas-archive.org/) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
 - [Library Genesis](https://libgen.gs/)
+- [Z-Library](https://z-lib.gs/) <Badge type="tip" text="2" link="https://z-lib.gd/" /><Badge type="tip" text="3" link="https://1lib.sk/" /><Badge type="tip" text="4" link="https://articles.sk/" />
 
 
 ## Audiobook
