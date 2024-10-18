@@ -437,7 +437,7 @@ outline: 1
 - [Tokuzilla](https://tokuzilla.net/) :glowing-star: <Badge type="tip" text="Backup" link="https://tokuzl.net/" />
 - [Zokaj](https://zokaj.com/)
 - [Dramacool](https://dramacool.pa/)
-- [KissAsian](https://kissasian.mx/)
+- [KissAsian](https://kissasian.wiki/)
 - [Power Rangers Official](https://www.youtube.com/@PowerRangersOfficial/)
 - [ULTRAMAN Official](https://www.youtube.com/@ULTRAMAN_OFFICIAL/) <Badge type="tip" text="New" link="https://www.youtube.com/@ultraman_english_official/" />
 - [Legal Tokusatsu Streaming List](https://otakulogy.github.io/tokusatsu-streaming/)

@@ -46,7 +46,7 @@ outline: [2,3]
 ### Movies & Drama
 - [Dramacool](https://asianc.to/) <Badge type="tip" text="Info" link="https://asianwiki.co/" />
 - [Viki](https://www.viki.com/categories/country/japan/genre/all)  <Badge type="warning" text="Freemiun" /><Badge type="info" text="JP Sub" />
-- [KissAsian](https://kissasian.lu/)
+- [KissAsian](https://kissasian.wiki/)
 - [DramaFull](https://dramafull.net/)
 - [GoPlay](https://goplay.pw/) <Badge type="tip" icon="i-ic-outline-discord" text="Get token" link="https://discord.com/invite/yY2P3DQR8S" />
 - [Tokuzilla](https://tokuzilla.net/)
