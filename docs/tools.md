@@ -289,7 +289,7 @@ outline: [1,2]
 - [AniList Watcher](https://github.com/Sans3108/AniList-Watcher) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/anilist-watcher/pkffcfjbnbhnbbgfeoanckhcnbpfobim)
 - [Animepahe Plus](https://github.com/Cyan903/Animepahe-plus) [:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/animepahe-plus/)
 - [Anime Skip Player](https://github.com/anime-skip/player) [:mdi-earth:](https://anime-skip.com/)[:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/anime-skip/mgmdkjcljneegjfajchedjpdhbadklcf)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/anime-skip)
-- [Anime Watch Parties](https://github.com/Dragicafit/Anime-Watch-Parties/) [:mdi-earth:](https://animewatchparties.com/)[:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/anime-watch-parties/goinehmnmhnoaepodbngfgdgjeibgelh/)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/)
+- [Anime Watch Parties](https://github.com/Dragicafit/Anime-Watch-Parties/) [:mdi-earth:](https://animewatchparties.com/) [:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/)
 - [Aniskip](https://github.com/lexesjan/typescript-aniskip-extension) [:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/aniskip/npfcdmjgaocepmpdnmliimijgfjbgcdd)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/aniskip/)
 - [Crunchyroll With Better Seasons](https://github.com/Dragicafit/Crunchyroll-With-Better-Seasons)
 - Improve Crunchyroll [:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/improve-crunchyroll/)
@@ -314,7 +314,7 @@ outline: [1,2]
 - [Booru Shinshi](https://github.com/kuanyui/BooruShinshi) [:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/booru-shinshi/)
 - [Control Panel for Twitter](https://jbscript.dev/control-panel-for-twitter)
 - [Journey Buster 3](https://journeybuster.com/)
-- [KellyC Image Downloader](https://github.com/NC22/KellyC-Image-Downloader) [:mdi-earth:](https://kellydownloader.com/en/)[:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/kellyc-image-downloader/mbhkdmjolnhcppnkldbdfaomeabjiofm)[:mdi-firefox:](https://addons.mozilla.org/ru/firefox/addon/kellyc-favorites/)
+- [KellyC Image Downloader](https://github.com/NC22/KellyC-Image-Downloader) [:mdi-earth:](https://kellydownloader.com/en/)[:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/kellyc-image-downloader/mbhkdmjolnhcppnkldbdfaomeabjiofm)
 - [Pixiv Batch Downloader](https://github.com/xuejianxianzun/PixivBatchDownloader) [:mdi-earth:](https://pixiv.download/)[:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/powerful-pixiv-downloader/dkndmhgdcmjdmkdonmbgjpijejdcilfh)
 - [Sakuga Extended](https://github.com/ftLoic/Sakuga-Extended) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/khmnmdaghmhkcbooicndamlhkcmpklmc)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/sakuga-extended/)
 - [Search by Image](https://github.com/dessant/search-by-image) :glowing-star:
@@ -384,7 +384,6 @@ outline: [1,2]
   - [Dollchan](https://github.com/SthephanShinkufag/Dollchan-Extension-Tools/)
 - **Pixiv**
   - [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE%2B)
-  - [Pixiv Downloader](https://greasyfork.org/en/scripts/432150-pixiv-downloader)
   - [Pixiv Preview](https://greasyfork.org/en/scripts/39387-pixiv-arts-preview-followed-atrists-coloring-extended-history) [:mdi-github:](https://github.com/NightLancer/PixivPreview)
   - [ppixiv for Pixiv](https://greasyfork.org/en/scripts/370418-ppixiv-for-pixiv) [:mdi-github:](https://github.com/ppixiv/ppixiv)
 - **Others**

@@ -112,7 +112,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Crunchyroll](https://store.crunchyroll.com/) <Badge type="green" link="" text="SFW"/>
 - [Fakku](https://www.fakku.net/)
 - [HMV & Books](https://www.hmv.co.jp/)
-- [Mandarake](https://order.mandarake.co.jp/order/?lang=en/)
+- [Mandarake](https://www.mandarake.co.jp/)
 - [Melonbooks](https://www.melonbooks.co.jp/)
 - [Play-Asia](https://www.play-asia.com/)
 - [YESASIA](https://www.yesasia.com/global/en/home.html)

@@ -71,8 +71,7 @@ outline: [1,2]
 - [AnimeSchedule](https://animeschedule.net/)
 - [Anisaki](https://anisaki.vercel.app/) [:mdi-github:](https://github.com/BayuDC/anisaki)
 - [Kansou](https://www.kansou.me/) :flag-japan:
-- [Livechart](https://www.livechart.me/schedule) :glowing-star: 
-- [Monthly.moe](https://www.monthly.moe/)
+- [Livechart](https://www.livechart.me/schedule) :glowing-star:
 - [Notify.moe](https://notify.moe/calendar) [:mdi-github:](https://github.com/animenotifier/notify.moe)
 - [Senpai.moe](https://www.senpai.moe/)
 - [Syoboi Calendar](https://cal.syoboi.jp/) :flag-japan:

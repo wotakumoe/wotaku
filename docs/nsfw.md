@@ -21,7 +21,6 @@ outline: [1,2]
 - [Haho](https://haho.moe/)
 - [Hanime](https://hanime.tv/) <Badge type="info" text="720p" /> 
 - [Hentai.tv](https://hentai.tv/)
-- [Hentai Bar](https://hentaibar.com/)
 - [Hentai Haven](https://hentaihaven.xxx/)
 - [Hentai Mama](https://hentaimama.io/)
 - [Hentai Stream](https://hstream.moe/) <Badge type="info" text="Upscale" />
@@ -73,7 +72,6 @@ outline: [1,2]
 - [Oppai](https://read.oppai.stream/) :glowing-star: <tooltip>Late releases but less compressed than other aggregators'</tooltip>
 - [RawDEX](https://rawdex.net/) <Badge type="info" text="Raw" />
 - [Sauce Manhwa](https://saucemanhwa.com/) <Badge type="info" text="+Raw" />
-- [Toomics Free](https://toomicsfree.com/)
 - [Toonily](https://toonily.com/) :glowing-star:
 - [Webtoon](https://www.webtoon.xyz/)
 - [Webtooni](https://webtooni.net/en/)  <Badge type="tip" text="2" link="https://heytoon.net/en/" />
@@ -204,7 +202,6 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [Project JAV](https://projectjav.com/)
 - [One JAV](https://onejav.com/)
 - [141 JAV](https://www.141jav.com/) <Badge type="tip" text="2" link="https://www.141ppv.com/" />
-- [Next JAV](https://nextjav.com/)
 
 ### Others
 - [Gravure Idols](https://gravureidols.top/)

@@ -42,7 +42,6 @@ If you have recommendations for good sites in your native language or want to re
 - [Animeblkom](https://blkom.com/)
 - [Animelek](https://animelek.me/)
 - [Animerco](https://animerco.com/)
-- [Arabsama](https://arabsama.net/)
 - [Wit anime](https://witanime.com/)
 - [XSAnime](https://v.xsanime.com/)
 
@@ -166,7 +165,6 @@ If you have recommendations for good sites in your native language or want to re
 
 - [AnimeKO](https://animeko.co/)
 - [Anime-Sama](https://anime-sama.fr/)
-- [Anime vostfr](https://animevostfr.tv/)
 - [FRAnime](https://franime.fr/)
 - [French Anime](https://french-anime.com/)
 - [JetAnime](https://vww.jetanimes.com/)
@@ -201,7 +199,6 @@ If you have recommendations for good sites in your native language or want to re
 - [Anime Archive](https://anime-archive.com/) <Badge type="info" text="DDL" />
 - [Anime Loads](https://www.anime-loads.org/) <Badge type="info" text="Stream" /><Badge type="info" text="DDL" />
 - [AniWorld](https://aniworld.to/) <Badge type="info" text="Stream" />
-- [Hanashi](https://www.hanashi.to/) <Badge type="info" text="Stream" />
 - [Melon-Subs](https://melon-subs.de/) <Badge type="info" text="DDL" />
 - [NanaOne](https://nanaone.net/) <Badge type="info" text="DDL" />
 - [OtakuKingdom Subs](https://www.otakukingdom-subs.de/) <Badge type="info" text="DDL" />
@@ -243,7 +240,6 @@ If you have recommendations for good sites in your native language or want to re
 
 - **Stream**
   - [AllWish](https://all-wish.me/home)
-  - [Anime Fever](https://animefever.fun/)
   - [Anime World](https://anime-world.in/)
   - [Animerulz](https://animerulz.net/home/)
   - [Anplay](https://anplay.in/)
@@ -285,10 +281,8 @@ If you have recommendations for good sites in your native language or want to re
   - [Meownime](https://m.meownime.ai/)
 
 ### Manga
-- [Komikid](https://komikid.com/)
 - [Komiku](https://komiku.id/)
 - [Komikcast](https://komikcast.cz/)
-- [Mangaku](https://mangaku.fun/)
 - [MGKOMIK](https://mgkomik.id/)
 - [Shinigami ID](https://shinigami03.com/)
 - [YuuManga](https://yuumanga.blogspot.com/)
@@ -464,7 +458,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [AnimeGO](https://animego.org/) <Badge type="info" text="Aggregator" />
 - [AnimeJoy](https://animejoy.ru/)
 - [Animelayer](http://animelayer.ru/) <Badge type="info" text="Torrent" />
-- [AnimeLIB](https://animelib.me) <Badge type="info" text="Aggregator" />
 - [Anime Player](https://anime.semolik.ru/) [:mdi-github:](https://github.com/Semolik/AnimePlayer)
 - [AnimeStars](https://animestars.org/) <Badge type="info" text="Aggregator" />
 - [ANIXART](https://anixart-tv.org/) <Badge type="info" text="Aggregator" />
@@ -582,7 +575,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 ### Anime
 - [ANIMEUA](https://animeua.club/)
 - [AniTube](https://anitube.in.ua/)
-- [HigoTV](https://higotv.fun/)
 - [Unimay Media](https://unimay.media/)
 - [HentaiUKR](https://hentaiukr.com/) <Badge type="danger" text="18+" />
 
@@ -609,7 +601,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [WebLinhTinh](https://weblinhtinh.net/)
 
 ### Manga
-- [Bao Tang Truyen](https://baotangtruyen14.com/)
 - [BlogTruyenMoi](https://blogtruyenmoi.com/)
 - [BlogTruyenVN](https://blogtruyenvn.com/)
 - [COMI](https://comi.mobi/)

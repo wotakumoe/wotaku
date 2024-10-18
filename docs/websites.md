@@ -264,7 +264,6 @@ outline: 1
 - [Cubari Proxy](https://proxy.cubari.moe/) <Badge type="danger" text="18+" />
 - [Manga Katana](https://mangakatana.com/)
 - [Hachi](https://hachi.moe/) <Badge type="danger" text="18+" />
-- [Colored Manga](https://coloredmanga.net/)
 - [Mangahasu](https://mangahasu.se/)
 - [Mangahub](https://mangahub.io/)<Badge type="info" text="Needs account" /><Badge type="danger" text="18+" />
 - [Manga Buddy](https://mangabuddy.com/home) <Badge type="info" text="2" link="https://mangamirror.com/home-page" /> <Badge type="info" text="3" link="https://mangaforest.com/home" /><Badge type="danger" text="18+" />
@@ -361,7 +360,6 @@ outline: 1
 - [Drake Scans](https://drakescans.com/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/50caf96d-fe2b-4638-9d13-4954b782e112/drake-scans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/ktajd9u/drake-scans" />
 - [Manhua Ga](https://manhuaga.com/)
 - [Manhua Plus](https://manhuaplus.com/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/3apm0du/manhua-plus" />
-- [Manhua SY](https://www.manhuasy.com/manhua/) & [Manga SY](https://www.mangasy.com/)
 - [Rizz Comic](https://rizzcomic.com/) + :flag-south-korea:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/g8dqjxt/realm-scans" />
 - [xCaliBR Scans](https://xcalibrscans.com/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/ynopo9s/cursed-xcalibr" />
 
@@ -396,7 +394,6 @@ outline: 1
 - [Novel Hall](https://www.novelhall.com/)
 - [Novels Online](https://novelsonline.net/)
 - [Ranobes](https://ranobes.top/)
-- [Read Light Novel](https://www.readlightnovel.me/)
 - [Royal Road](https://www.royalroad.com/home)
 
 :::
@@ -418,7 +415,6 @@ outline: 1
 - [Madokami](https://manga.madokami.al)
 - [Anna’s Archive](https://annas-archive.org/) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
 - [Library Genesis](https://libgen.gs/)
-- [Z-Library](https://z-library.rs/) <Badge type="tip" text="2" link="https://singlelogin.re/" />
 
 
 ## Audiobook
@@ -538,7 +534,7 @@ outline: 1
 | Anime | [AnimeBytes](https://animebytes.tv/) `General` <br> [AnimeWorld](https://animeworld.cx/) :flag-germany: <br> [BakaBT](https://bakabt.me/) <br> [U2](https://u2.dmhy.org/portal.php) |
 | Books | [MyAnonamouse](https://myanonamouse.net/) |
 | Games | [Gazelle Games](https://gazellegames.net/login.php) |
-| Live Action | [AvistaZ](https://avistaz.to/) <Badge type="tip" icon="i-ic-outline-discord" text="Waitlist" link="https://discord.gg/pfmAegk8bD" /> <br> [JPTV.club](https://jptv.club/) <br> [AsianCinema](https://asiancinema.me/) <br> [jptvts](https://jptvts.us/) |
+| Live Action | [AvistaZ](https://avistaz.to/) <Badge type="tip" icon="i-ic-outline-discord" text="Waitlist" link="https://discord.gg/pfmAegk8bD" /> <br> [JPTV.club](https://jptv.club/) <br> [jptvts](https://jptvts.us/) |
 | Music | [Redacted](https://redacted.ch/) <br> [JPopsuki](https://jpopsuki.eu/) <br> [Orpheus](https://orpheus.network/) <br> [Sugoi Music](https://sugoimusic.me/) <br> [Bemaniso](https://bemaniso.ws/) `Rhythm` <br> [Aidoru](https://aidoru-online.me/) `Idol` |
 | NSFW | [ExoticaZ](https://exoticaz.to/) <Badge type="tip" icon="i-ic-outline-discord" text="Waitlist" link="https://discord.gg/pfmAegk8bD" /> <br> [Empornium](https://www.empornium.is/) |
 

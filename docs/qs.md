@@ -200,7 +200,6 @@ You should never use cracked or modded VPN cause all of your traffic will go thr
 - [4Chan](https://4chan.org/) <Badge type="tip" text="Mobile" link="https://p.4chan.org/" />
 - [4stats.io](https://4stats.io/)
 - [Anychans](https://anychans.github.io/4chan/) :mdi-desktop-mac:
-- [Luckychan](https://luckychan.app/) :mdi-cellphone-iphone:
 
 ### Boards
 - [:mdi-clover:/a/ - Anime & Manga](https://boards.4channel.org/a/)
