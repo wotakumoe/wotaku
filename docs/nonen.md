@@ -253,7 +253,7 @@ If you have recommendations for good sites in your native language or want to re
   - [Anime Academy](https://animeacademy.in/)
   - [ATOZ CARTOONIST](https://www.atozcartoonist.com/)
   - [Dead Toons India](https://deadtoons.us/)
-  - [Puretoons](https://puretoons.in/)
+  - [Puretoons](https://puretoons.site/)
   - [Rare Toon India](https://raretoonindia.fun/)
   - [SDToons](https://sdtoons.in/)
   - [Toonhub4u](https://toonhub4u.net/)
@@ -296,7 +296,7 @@ If you have recommendations for good sites in your native language or want to re
 ## Italian
 
 ### Anime
-- [Anime Saturn](https://www.animesaturn.tv/)
+- [Anime Saturn](https://www.animesaturn.cx/)
 - [AnimeUnity](https://www.animeunity.to/)
 - [AnimeWorld](https://www.animeworld.so/)
 - [HentaiWorld](https://www.hentaiworld.me/) <Badge type="danger" text="18+" />
