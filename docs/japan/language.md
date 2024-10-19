@@ -85,6 +85,7 @@ outline: [2,3]
 - [Tangorin](https://tangorin.com/)
 - [Weblio](https://ejje.weblio.jp/)
 - [Kanji Search](https://khaitruong922.github.io/kanji-search/) [:mdi-github:](https://github.com/khaitruong922/kanji-search)
+- [Kotonoha dictionary](https://kotonoha-dictionary.com/)
 
 ### Practice
 - [Kotobaweb](https://kotobaweb.com/)
@@ -199,6 +200,7 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 - [Hinoki Project](https://hinoki-project.org/)
 - [Hiragana](https://www.hiragana.jp/en/) `Add Hiragana over Kanji`
 - [jReadability](https://jreadability.net/) `Text readability measurement`
+- [Kanji Canvas](https://asdfjkl.github.io/kanjicanvas/) `Kanji recognition from drawing`
 - [Kanji Portraits](https://kanjiportraits.wordpress.com/) `Kanji origins`
 - [Kanji Tools](https://kanji.sljfaq.org/)
 - [Kanji Worksheets](https://jensechu.github.io/kanji/index.html) `Printable Kanji worksheet`
