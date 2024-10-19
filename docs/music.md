@@ -178,7 +178,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [Gensokyo Radio](https://gensokyoradio.net/playing/) <Badge type="tip" icon="i-material-symbols-download-2" text="256kbps" link="https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u" /><Badge type="info" text="Touhou" />
 - [Phate](https://phate.io/) <Badge type="tip" icon="i-material-symbols-download-2" text="192kbps" link="https://phate.io/phate.m3u" /><Badge type="info" text="Utaite" />
 - [Vocaloid Radio VRX](https://vrx.piro.moe/)
-- [Vocaloid Radio](https://vocaloid.radioca.st/stream)
+- [Vocaloid Radio](https://www.vocaloidradio.com/) <tooltip>Stream URL (192kbps) : https://vocaloid.radioca.st/stream</tooltip>
 
 ## Games
 - [Game That Tune Radio](https://gttradio.com/)
