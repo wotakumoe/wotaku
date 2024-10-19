@@ -21,93 +21,93 @@ import Layout from "./Layout.vue";
 import PreferenceRadio from "./components/PreferenceRadio.vue";
 
 export default {
-  extends: DefaultTheme,
-  Layout: Layout,
-  enhanceApp({ app, router, siteData }) {
-    app.use(FloatingVue, {
-      themes: {
-        "info-tooltip": {
-          $extend: "tooltip",
-          $resetCss: true,
-          triggers: ["hover", "click"],
-        },
-      },
-    });
-    // @ts-expect-error
-    enhanceAppWithTabs(app);
-    app.component("Button", Button);
-    app.component("Authors", Authors);
-    app.component("Tooltip", Tooltip);
-    app.component("Feedback", Feedback);
-    app.component("PreferenceRadio", PreferenceRadio);
-    // @ts-expect-error
-    createMediumZoomProvider(app, router);
-    // @ts-expect-error
-    app.use(Components);
-    // @ts-expect-error
-    app.use(NolebaseGitChangelogPlugin, {
-      commitsRelativeTime: true,
-      hideChangelogHeader: true,
-      mapAuthors: [
-        {
-          name: "taskylizard",
-          username: "taskylizard",
-          avatar: "https://github.com/taskylizard.png",
-        },
-        {
-          name: "Duck",
-          username: "woducku",
-          avatar: "https://github.com/woducku.png",
-        },
-      ],
-    });
-    app.use(
-      // @ts-expect-error
-      NolebasePagePropertiesPlugin<{ tags: string[]; progress: number }>(),
-      [
-        {
-          locales: {
-            en: [
-              {
-                key: "tags",
-                type: "tags",
-                title: "Tags",
-              },
-              {
-                key: "createdAt",
-                type: "datetime",
-                title: "Created at",
-                formatAsFrom: true,
-                dateFnsLocaleName: "enUS",
-              },
-              {
-                key: "updatedAt",
-                type: "datetime",
-                title: "Updated at",
-                formatAsFrom: true,
-                dateFnsLocaleName: "enUS",
-              },
-              {
-                key: "wordsCount",
-                type: "dynamic",
-                title: "Word count",
-                options: {
-                  type: "wordsCount",
-                },
-              },
-              {
-                key: "readingTime",
-                type: "dynamic",
-                title: "Reading time",
-                options: {
-                  type: "readingTime",
-                  dateFnsLocaleName: "enUS",
-                },
-              },
-            ],
-          },
-        },
-      ],
-    );
-  },
+	extends: DefaultTheme,
+	Layout: Layout,
+	enhanceApp({ app, router, siteData }) {
+		app.use(FloatingVue, {
+			themes: {
+				"info-tooltip": {
+					$extend: "tooltip",
+					$resetCss: true,
+					triggers: ["click"],
+				},
+			},
+		});
+		// @ts-expect-error
+		enhanceAppWithTabs(app);
+		app.component("Button", Button);
+		app.component("Authors", Authors);
+		app.component("Tooltip", Tooltip);
+		app.component("Feedback", Feedback);
+		app.component("PreferenceRadio", PreferenceRadio);
+		// @ts-expect-error
+		createMediumZoomProvider(app, router);
+		// @ts-expect-error
+		app.use(Components);
+		// @ts-expect-error
+		app.use(NolebaseGitChangelogPlugin, {
+			commitsRelativeTime: true,
+			hideChangelogHeader: true,
+			mapAuthors: [
+				{
+					name: "taskylizard",
+					username: "taskylizard",
+					avatar: "https://github.com/taskylizard.png",
+				},
+				{
+					name: "Duck",
+					username: "woducku",
+					avatar: "https://github.com/woducku.png",
+				},
+			],
+		});
+		app.use(
+			// @ts-expect-error
+			NolebasePagePropertiesPlugin<{ tags: string[]; progress: number }>(),
+			[
+				{
+					locales: {
+						en: [
+							{
+								key: "tags",
+								type: "tags",
+								title: "Tags",
+							},
+							{
+								key: "createdAt",
+								type: "datetime",
+								title: "Created at",
+								formatAsFrom: true,
+								dateFnsLocaleName: "enUS",
+							},
+							{
+								key: "updatedAt",
+								type: "datetime",
+								title: "Updated at",
+								formatAsFrom: true,
+								dateFnsLocaleName: "enUS",
+							},
+							{
+								key: "wordsCount",
+								type: "dynamic",
+								title: "Word count",
+								options: {
+									type: "wordsCount",
+								},
+							},
+							{
+								key: "readingTime",
+								type: "dynamic",
+								title: "Reading time",
+								options: {
+									type: "readingTime",
+									dateFnsLocaleName: "enUS",
+								},
+							},
+						],
+					},
+				},
+			],
+		);
+	},
 } satisfies Theme;
