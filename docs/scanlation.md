@@ -96,6 +96,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 - [Quickstitch](https://github.com/quietkiro/quickstitch)
 - [Smart Stitch](https://github.com/MechTechnology/SmartStitch)
 - [Stitch Tool](https://github.com/Aeonss/StitchTool)
+- [TypeBubbleX](https://github.com/XandeKK/TypeBubbleX)
 - [Typertools](https://swirt.github.io/typertools/)
 - [Typesetter*er*](https://illuminati-manga.com/illiteracy/typesetterer/)
 - [TypeX](https://github.com/XandeKK/TypeX)
