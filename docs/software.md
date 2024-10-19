@@ -348,6 +348,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 
 ## Trackers
+- [AniCour](https://github.com/ReStartQ/anicour) :ic-baseline-window:
 - [Hachidori](https://malupdaterosx.moe/hachidori/) :ic-baseline-apple: [:mdi-github:](https://github.com/Atelier-Shiori/hachidori)
 - [Keroro](https://github.com/hotsno/keroro) :simple-icons-mpv:
 - [MALClient](https://apps.microsoft.com/store/detail/malclient/9NBLGGH5F3BL) :ic-baseline-window: [:mdi-github:](https://github.com/Drutol/MALClient)
