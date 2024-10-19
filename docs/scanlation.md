@@ -93,6 +93,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 
 ## Typesetting
 - Font Finder <Badge type="tip" text="Font Spring" link="https://www.fontspring.com/matcherator" /><Badge type="tip" text="Font Squirrel" link="https://www.fontsquirrel.com/matcherator" /><Badge type="tip" text="MyFonts" link="https://www.myfonts.com/pages/whatthefont" /><Badge type="tip" text="What font is" link="https://www.whatfontis.com/" />
+- [Quickstitch](https://github.com/quietkiro/quickstitch)
 - [Smart Stitch](https://github.com/MechTechnology/SmartStitch)
 - [Stitch Tool](https://github.com/Aeonss/StitchTool)
 - [Typertools](https://swirt.github.io/typertools/)
