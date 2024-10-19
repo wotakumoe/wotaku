@@ -205,6 +205,7 @@ outline: [1,2]
 - **Addons**
   - [webtorrent mpv hook](https://github.com/mrxdst/webtorrent-mpv-hook)
   - [MPV Shim for Plex](https://github.com/iwalton3/plex-mpv-shim)
+  - [ani-skip](https://github.com/synacktraa/ani-skip)
 
 
 ## arr Tools
