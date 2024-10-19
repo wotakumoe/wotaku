@@ -228,6 +228,7 @@ outline: [1,2]
   - [Crunchyroll News](https://www.crunchyroll.com/news)
   - [GUNDAM.INFO](https://en.gundam.info/)
   - [Japan Anime News](https://us.oricon-group.com/) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/JapanAnimeNews_" />
+  - [Kanzenshuu](https://www.kanzenshuu.com/)
   - [MAL News](https://myanimelist.net/news) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/myanimelist" />
   - [ORICON NEWS](https://www.oricon.co.jp/) :flag-japan:
   - [Otaku News](https://www.otakunews.com/)
