@@ -145,6 +145,7 @@ outline: [2,3]
 - [Anime Subtitle Player](https://anime-subtitle-player.vercel.app/) :mdi-earth: [:mdi-github:](https://github.com/LostArrows27/anime-subtitle-player)
 - [Animebook](https://animebook.github.io/) :mdi-earth: <Badge type="info" text="Guide" link="https://cademcniven.com/posts/20210703/" />
 - [Asbplayer](https://killergerbah.github.io/asbplayer/) :mdi-earth::mingcute-chrome-fill: [:mdi-github:](https://github.com/killergerbah/asbplayer)
+- [autosubsync mpv](https://github.com/Ajatt-Tools/autosubsync-mpv)
 - [Emby Jimaku](https://github.com/bpwhelan/Emby.Jimaku)
 - [memento](https://github.com/ripose-jp/Memento) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [mpvacious](https://github.com/Ajatt-Tools/mpvacious) :ic-baseline-window::mingcute-linux-fill:
