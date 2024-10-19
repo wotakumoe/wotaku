@@ -317,6 +317,7 @@ outline: [1,2]
 - [Journey Buster 3](https://journeybuster.com/)
 - [KellyC Image Downloader](https://github.com/NC22/KellyC-Image-Downloader) [:mdi-earth:](https://kellydownloader.com/en/)[:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/kellyc-image-downloader/mbhkdmjolnhcppnkldbdfaomeabjiofm)
 - [Pixiv Batch Downloader](https://github.com/xuejianxianzun/PixivBatchDownloader) [:mdi-earth:](https://pixiv.download/)[:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/powerful-pixiv-downloader/dkndmhgdcmjdmkdonmbgjpijejdcilfh)
+- [Pixiv Toolkit Next](https://github.com/leoding86/webextension-pixiv-toolkit) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/pixiv-toolkit-next/ajlcnbbeidbackfknkgknjefhmbngdnj)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/pixiv-toolkit/)
 - [Sakuga Extended](https://github.com/ftLoic/Sakuga-Extended) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/khmnmdaghmhkcbooicndamlhkcmpklmc)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/sakuga-extended/)
 - [Search by Image](https://github.com/dessant/search-by-image) :glowing-star:
 
@@ -372,6 +373,7 @@ outline: [1,2]
 - [MangaDex Condensed](https://greasyfork.org/en/scripts/429495-mangadex-condensed)
 - [Mangadex Follows](https://greasyfork.org/en/scripts/430295-new-mangadex-follows)
 - [Manga Online Viewer](https://github.com/TagoDR/MangaOnlineViewer)
+- [MangaPlusPlus](https://github.com/kmsomebody/MangaPlusPlus)
 
 ## Imageboards
 
