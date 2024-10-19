@@ -51,8 +51,6 @@ If you have recommendations for good sites in your native language or want to re
 - [Azora Moon](https://azoramoon.com/)
 - [G Manga](https://gmanga.org/)
 - [Manga Arabic](https://mangarabic.com/)
-- [Manga Lek](https://manga-lek.net/)
-- [Manga Lionz](https://mangalionz.org/)
 - [Swat Manhua](https://swatmanhua.com/)
 - [Team x](https://team11x11.com/)
 
@@ -340,7 +338,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
   - [RawInu](https://rawinu.com/) <Badge type="tip" text="2" link="https://nicomanga.com/" />
   - [Rawkuma](https://rawkuma.com/)
   - [Raw Lazy](https://rawlazy.si/)
-  - [Raw Otaku](https://rawotaku.com/home/) <Badge type="tip" text="2" link="https://jmanga.org/" /><Badge type="tip" text="3" link="https://rawjp.co/" />
+  - [Raw Otaku](https://rawotaku.com/home/) <Badge type="tip" text="2" link="https://jmanga.to/home/" />
   - [RawUwU](https://rawuwu.com/) <Badge type="tip" text="2" link="https://rawdevart.art/" />
   - [Sen Manga](https://raw.senmanga.com/)
   - [Twicomi](https://twicomi.com/)
@@ -411,8 +409,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [NanaSubs](https://nanasubs.com/)
 - [Oglądaj Anime](https://ogladajanime.pl/)
 - [Okami-Subs](https://okami-subs.pl/)
-- [Shinden](https://shinden.pl/main)
-- [Wbijam](https://web.archive.org/web/20240327095022/https://wbijam.pl/)  <Badge text="Players DB" link="https://docs.google.com/spreadsheets/d/1fnl__p0FmHxVLXBgtZmsYji6156z7i_4" />
+- [Wbijam](https://web.archive.org/web/20241001185535/https://www.wbijam.pl/)
 
 
 ## Portuguese
@@ -429,7 +426,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 ### Manga
 - [Ler Mangas](https://lermangas.me/)
-- [SlimeRead](https://slimeread.com/)
 - [Tao Sect](https://taosect.com/)
 
 ### Tokusatsu
@@ -458,7 +454,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [AnimeGO](https://animego.org/) <Badge type="info" text="Aggregator" />
 - [AnimeJoy](https://animejoy.ru/)
 - [Animelayer](http://animelayer.ru/) <Badge type="info" text="Torrent" />
-- [Anime Player](https://anime.semolik.ru/) [:mdi-github:](https://github.com/Semolik/AnimePlayer)
 - [AnimeStars](https://animestars.org/) <Badge type="info" text="Aggregator" />
 - [ANIXART](https://anixart-tv.org/) <Badge type="info" text="Aggregator" />
 - [Averlist](https://averlist.ru/) [:mdi-github:](https://github.com/Averito/Averlist)
@@ -594,7 +589,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Anime47](https://anime47.link/)
 - [AnimeHay](https://animehay.in/)
 - [AnimeVsub](https://animevsub.eu.org/) [:mdi-github:](https://github.com/anime-vsub/desktop-web)
-- [HHNINJA6](https://hhninja6.tv/)
+- [HHNINJA11](https://hhninja11.tv/)
 - [Phimplay](https://phimplay24h.com/)
 - [Unime](https://unime.vercel.app/) [:mdi-github:](https://github.com/huy232/Unime)
 - [Vui Ghe](https://vuighe3.com/)

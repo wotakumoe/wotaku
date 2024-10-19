@@ -18,7 +18,6 @@ outline: [1,2]
 ## Anime
 - [Eronews](https://en.eroeronews.com/) <Badge type="tip" text="Schedule & News" />
 - [AnimeID Hentai](https://animeidhentai.com/)
-- [Haho](https://haho.moe/)
 - [Hanime](https://hanime.tv/) <Badge type="info" text="720p" /> 
 - [Hentai.tv](https://hentai.tv/)
 - [Hentai Haven](https://hentaihaven.xxx/)
@@ -235,7 +234,6 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [Let's panda!](https://sleazyfork.org/en/scripts/33979-let-s-panda)
 - [MALSync Adult](https://sleazyfork.org/en/scripts/387981-mal-sync-adult-fatexxxblood-edition)
 - [Manga Loader NSFW](https://sleazyfork.org/en/scripts/12657-manga-loader-nsfw)
-- [Manga OnlineViewer](https://sleazyfork.org/en/scripts/1319-manga-onlineviewer)
 - [nhentai helper](https://sleazyfork.org/en/scripts/375992-nhentai-helper) [:mdi-github:](https://github.com/Tsuk1ko/nhentai-helper)
 - [nhentai konnichiwa](https://github.com/naiymu/nhentai-konnichiwa)
 - [Nhentai Manga Loader](https://github.com/longkidkoolstar/Nhentai-Manga-Loader)

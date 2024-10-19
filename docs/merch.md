@@ -93,7 +93,6 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [Anime Figures](https://old.reddit.com/r/AnimeFigures/)
 - [Anime Merchandise](https://old.reddit.com/r/AnimeMerchandise)
 - [Manga Collectors](https://old.reddit.com/r/MangaCollectors)
-- [Gundam Forums](https://www.gundamforums.com/)
 - [Gunpla](https://old.reddit.com/r/Gunpla)
 - [Dakimakuras](https://old.reddit.com/r/Dakimakuras) <Badge type="danger" text="18+" />
 

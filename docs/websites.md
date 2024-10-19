@@ -202,7 +202,6 @@ outline: 1
 - [Flugel Anime](https://flugelanime.com/) + :flag-spain: :mdi-download:
 - [Tokyo Insider](https://www.tokyoinsider.com/) :mdi-download:
 - [JPFiles](https://jpfiles.net/) :mdi-snail::mdi-disc:
-- [JPLearner](http://www.jplearner.to/) :mdi-snail::mdi-disc:
 - [AnimeRSS](https://animerss.com/) :mdi-snail::mdi-disc:
 
 #### Re-encodes
@@ -361,7 +360,7 @@ outline: 1
 - [Manhua Ga](https://manhuaga.com/)
 - [Manhua Plus](https://manhuaplus.com/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/3apm0du/manhua-plus" />
 - [Rizz Comic](https://rizzcomic.com/) + :flag-south-korea:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/g8dqjxt/realm-scans" />
-- [xCaliBR Scans](https://xcalibrscans.com/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/ynopo9s/cursed-xcalibr" />
+- [xCaliBR Scans](https://xcalibrscans.com/webcomics/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/ynopo9s/cursed-xcalibr" />
 
 
 ::: details :material-symbols-subdirectory-arrow-right: Related resources
@@ -540,7 +539,6 @@ outline: 1
 | NSFW | [ExoticaZ](https://exoticaz.to/) <Badge type="tip" icon="i-ic-outline-discord" text="Waitlist" link="https://discord.gg/pfmAegk8bD" /> <br> [Empornium](https://www.empornium.is/) |
 
 ::: details :material-symbols-subdirectory-arrow-right: Related resources
-- [InstallGentoo Wiki](https://wiki.installgentoo.com/wiki/Private_trackers) :glowing-star:
 - [Invite route graph](https://inviteroute.github.io/graph/)
 - [Redacted Interview Prep](https://interviewfor.red/en/index.html)
   - [Wotaku Audio Glossary](/glossary/audio.md)

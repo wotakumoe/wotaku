@@ -58,7 +58,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 ## Typesetting guides
 
 - [Anonblack's typesetting guide](https://mangadex.org/title/08e1f85a-bb12-4fe4-aec5-0d7a80b3a261/anonblack-s-typesetting-guide)
-- [Typesetting tutorial by Fallen Syndicate](https://coloredmanga.com/rhss-comprehensive-typesetting-guide-re-hosted-version-from-fallen-syndicates-rehost/)
+- [Typesetting tutorial by Fallen Syndicate](https://web.archive.org/web/20230521010707/coloredmanga.com/rhss-comprehensive-typesetting-guide-re-hosted-version-from-fallen-syndicates-rehost/)
 
 ## Redrawing guides
 

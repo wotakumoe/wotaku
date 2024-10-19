@@ -334,7 +334,6 @@ outline: [1,2]
 - [Hololive Fan Wiki](https://hololive.wiki/wiki/Main_Page) <Badge type="info" text="DB" />
 - [Hololive Production](https://hololive.hololivepro.com/) <Badge type="info" text="Schedule" link="https://schedule.hololive.tv/lives" /><Badge type="info" text="DB" /><Badge type="info" text="News" />
 - [Holotracker](https://trackholo.live/en/) <Badge type="info" text="Stats" />
-- [Superchat Currency Stats](https://sc-stats.gaato.net/) <Badge type="info" text="Stats" />
 - [Hololize Zone](https://hololive.zone/) <Badge type="info" text="Stats" />
 - [hololive TODAY](https://hololivetoday.com/) <Badge type="info" text="News" />
 - [Quick Reference](https://monkonius.github.io/hololive-quick-reference/) <Badge type="info" text="DB" />
@@ -362,8 +361,7 @@ outline: [1,2]
 
 | Website                                     | Storage   | Expire        |
 | ------------------------------------------- | --------- | ------------- |
-| [buzzheavier](https://buzzheavier.com/) | Unlimited | :cross-mark:  |
-| [bzzhr](https://bzzhr.co/)                  | Unlimited | :cross-mark:  |
+| [buzzheavier](https://buzzheavier.com/)     | Unlimited | :cross-mark:  |
 | [file.haus](https://filehaus.pk/)           | Unlimited | :cross-mark:  |
 | [Gofile](https://gofile.io/)                | Unlimited | 10 days       |
 

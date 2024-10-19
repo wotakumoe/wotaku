@@ -305,7 +305,7 @@ outline: [1,2]
 
 ## Tracker
 - [MALSync](https://github.com/MALSync/MALSync) :glowing-star: [:mdi-earth:](https://malsync.moe/)[:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/mal-sync/) 
-- [MAL Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned) [:mdi-earth:](https://hritikvaishnav.github.io/Project-Redesign/mal.html)[:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/myanimelist-redesign/knegaeodgehajemjpfbhlgjdcloklkal)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/myanimelist-redesign/)
+- [MAL Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned) [:mdi-earth:](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html)[:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/myanimelist-redesign/knegaeodgehajemjpfbhlgjdcloklkal)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/myanimelist-redesign/)
 - [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler)
 
 

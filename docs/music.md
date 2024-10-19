@@ -177,8 +177,8 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [Doujin Style](https://embed.radio.co/player/735ee7b.html) <Badge type="tip" icon="i-material-symbols-download-2" text="192kbps" link="https://streams.radio.co/s5ff57669c/listen.m3u" />
 - [Gensokyo Radio](https://gensokyoradio.net/playing/) <Badge type="tip" icon="i-material-symbols-download-2" text="256kbps" link="https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u" /><Badge type="info" text="Touhou" />
 - [Phate](https://phate.io/) <Badge type="tip" icon="i-material-symbols-download-2" text="192kbps" link="https://phate.io/phate.m3u" /><Badge type="info" text="Utaite" />
-- [Vocaloid Radio VRX](https://vrx.piro.moe/) <Badge type="tip" icon="i-material-symbols-download-2" text="256kbps" link="https://vrx.piro.moe/stream-256.m3u" />
-- [Vocaloid Radio](https://vocaloidradio.com/) <Badge type="info" text="General" /><tooltip>Stream URL (192kbps) : https://vocaloid.radioca.st/stream</tooltip>
+- [Vocaloid Radio VRX](https://vrx.piro.moe/)
+- [Vocaloid Radio](https://vocaloid.radioca.st/stream)
 
 ## Games
 - [Game That Tune Radio](https://gttradio.com/)
@@ -315,7 +315,6 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
   - [JaME](https://www.jame-world.com/en/event) :glowing-star:
   - [Tokyo Dross](https://tokyodross.blogspot.com/) :glowing-star:
   - [Doujin Events](https://docs.google.com/document/d/1Kf4gf2Dtnc_Cd2ndRWacw9QGy8kYvUTZ7K9rkR8D2-0/edit)
-  - [List of J-pop concerts held outside Asia](https://en.wikipedia.org/wiki/List_of_J-pop_concerts_held_outside_Asia) <Badge type="tip" text="Wand" link="https://www.wikiwand.com/en/List_of_J-pop_concerts_held_outside_Asia" />
   - [Songkick](https://www.songkick.com/) <Badge type="info" text="General" />
 
 
