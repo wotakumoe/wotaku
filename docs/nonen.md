@@ -409,6 +409,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [NanaSubs](https://nanasubs.com/)
 - [Oglądaj Anime](https://ogladajanime.pl/)
 - [Okami-Subs](https://okami-subs.pl/)
+- [Shinden](https://shinden.pl/main)
 - [Wbijam](https://web.archive.org/web/20241001185535/https://www.wbijam.pl/)
 
 
