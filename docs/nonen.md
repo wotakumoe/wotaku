@@ -341,6 +341,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
   - [Raw Otaku](https://rawotaku.com/home/) <Badge type="tip" text="2" link="https://jmanga.to/home/" />
   - [RawUwU](https://rawuwu.com/) <Badge type="tip" text="2" link="https://rawdevart.art/" />
   - [Sen Manga](https://raw.senmanga.com/)
+  - [Spoilerplus](https://spoilerplus.tv/) <tooltip>Image host has geo restriction. So won't load manga images for every region. Tested region is US.</tooltip>
   - [Twicomi](https://twicomi.com/)
   - [We Love Manga](https://welovemanga.one/) <Badge type="tip" text="2" link="https://manga1000.top/" />
 - **Torrent Download**
