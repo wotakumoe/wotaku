@@ -150,11 +150,12 @@ outline: [1,2]
 ## Platforms
 
 - [ArtStation](https://www.artstation.com/)
+- [Bluesky](https://bsky.app/)
 - [Cara](https://cara.app/explore)
 - [Charaforio](https://charaforio.com/en)
 - [DeviantArt](https://www.deviantart.com/)
 - [Illust Days](https://illust.daysneo.com/)
-- [Misskey.io](https://misskey.io/) <Badge type="tip" text="Others" link="https://misskey-hub.net/en/servers/" />
+- [Misskey.io](https://misskey.io/) <Badge type="tip" text="Others" link="https://misskey-hub.net/en/servers/" /><tooltip>Registrations are currently limited to Japan only.</tooltip>
 - [Newgrounds](https://www.newgrounds.com/art)
 - [Nico Nico Seiga](https://seiga.nicovideo.jp/)
 - [Pixiv](https://www.pixiv.net) :glowing-star:
