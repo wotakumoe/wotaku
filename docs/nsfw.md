@@ -211,8 +211,8 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 
 ## Communities
 
-- [r/hentai](https://old.reddit.com/r/hentai/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.com/invite/rhentai" />
-- [r/pornhwa](https://old.reddit.com/r/pornhwa/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.com/invite/epjkRVp7gD" />
+- [r/hentai](https://old.reddit.com/r/hentai/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/rhentai" />
+- [r/pornhwa](https://old.reddit.com/r/pornhwa/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/epjkRVp7gD" />
 - [:mdi-clover:/h/](https://boards.4chan.org/h/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/h/" /><Badge type="tip" text="Archive" link="https://archived.moe/h/" />
 - [:mdi-clover:/e/](https://boards.4chan.org/e/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/e/" /><Badge type="tip" text="Archive" link="https://archived.moe/e/" />
 - [r/Artistic_Hentai](https://old.reddit.com/r/Artistic_Hentai/)

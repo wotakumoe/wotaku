@@ -17,7 +17,7 @@ outline: [1,2]
   - [Animetail](https://github.com/Dark25/Animetail2)
   - [Animiru](https://github.com/quickdesh/Animiru)
 - [Dantotsu](https://dantotsuapp.netlify.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />[:mdi-github:](https://github.com/rebelonion/Dantotsu)
-- [Cloudstream](https://cloudstream.on.fleek.co/) [:mdi-github:](https://github.com/recloudstream/cloudstream)<Badge type="info" icon="i-mdi-puzzle-outline" text="Plugins" link="https://discord.com/invite/wpX5Rfcx87" />
+- [Cloudstream](https://cloudstream.on.fleek.co/) [:mdi-github:](https://github.com/recloudstream/cloudstream)<Badge type="info" icon="i-mdi-puzzle-outline" text="Plugins" link="https://discord.gg/wpX5Rfcx87" />
 - [Migu](https://miguapp.pages.dev/) [:mdi-github:](https://github.com/NoCrypt/migu)
 - [AnimeTV](https://amarullz.com/) [:mdi-github:](https://github.com/amarullz/AnimeTV)
 
@@ -35,7 +35,7 @@ outline: [1,2]
 :::
 
 ::: details :material-symbols-tv-gen-outline: Android TV ranking
-- [Cloudstream](https://cloudstream.on.fleek.co/) [:mdi-github:](https://github.com/recloudstream/cloudstream)<Badge type="info" icon="i-mdi-puzzle-outline" text="Plugins" link="https://discord.com/invite/wpX5Rfcx87" />
+- [Cloudstream](https://cloudstream.on.fleek.co/) [:mdi-github:](https://github.com/recloudstream/cloudstream)<Badge type="info" icon="i-mdi-puzzle-outline" text="Plugins" link="https://discord.gg/wpX5Rfcx87" />
 - [Migu](https://miguapp.pages.dev/) [:mdi-github:](https://github.com/NoCrypt/migu)
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
 - [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one)

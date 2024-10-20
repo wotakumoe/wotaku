@@ -298,8 +298,8 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 
 #### Discord
 - [Japanese Language Study Space](https://discord.gg/jlss)
-- [Marshall's Server](https://discord.com/invite/ejmrfwSYAH)
-- [NativShark](https://discord.com/invite/nativshark)
+- [Marshall's Server](https://discord.gg/ejmrfwSYAH)
+- [NativShark](https://discord.gg/nativshark)
 - [Perdition](https://discord.gg/uK4HeGN)
 - [TheMoeWay](https://discord.gg/nhqjydaR8j) :glowing-star:
 - [ToKini Andy](https://discord.gg/WP7zYHC)

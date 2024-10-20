@@ -48,7 +48,7 @@ outline: [2,3]
 - [Viki](https://www.viki.com/categories/country/japan/genre/all)  <Badge type="warning" text="Freemiun" /><Badge type="info" text="JP Sub" />
 - [KissAsian](https://kissasian.wiki/)
 - [DramaFull](https://dramafull.net/)
-- [GoPlay](https://goplay.pw/) <Badge type="tip" icon="i-ic-outline-discord" text="Get token" link="https://discord.com/invite/yY2P3DQR8S" />
+- [GoPlay](https://goplay.pw/) <Badge type="tip" icon="i-ic-outline-discord" text="Get token" link="https://discord.gg/yY2P3DQR8S" />
 - [Tokuzilla](https://tokuzilla.net/)
 - [Japanese Movies Subtitles](https://github.com/eurusdagr/Japanese-Movies-Subtitles)
 

@@ -118,7 +118,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 
 ## Doujin
 
-- [Doujin Cafe](https://discord.com/invite/doujincafe) :simple-icons-mega::simple-icons-mediafire::ic-round-cloud-download:
+- [Doujin Cafe](https://discord.gg/doujincafe) :simple-icons-mega::simple-icons-mediafire::ic-round-cloud-download:
 - [Doujin Music](https://vk.com/wall-60027733) :mdi-download:
 - [Doujin Style](https://doujinstyle.com/) <Badge type="tip" text="Touhou" link="https://doujinstyle.com/?p=tlmc" /> <Badge type="tip" text="Downloader" link="https://github.com/Relepega/doujinstyle-downloader"/>:simple-icons-mediafire:
 - [MikuDB](https://mikudb.moe/) :mdi-google-drive::mdi-magnet:
@@ -586,8 +586,8 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 ## Discord
 - [Doujin Cafe](https://discord.gg/doujincafe)
 - [DoujinStyle](https://discord.gg/z2QDFdA)
-- [MikuDB](https://discord.com/invite/whcHreUh)
-- [OTAQUEST](https://discord.com/invite/SCHR2QB)
+- [MikuDB](https://discord.gg/whcHreUh)
+- [OTAQUEST](https://discord.gg/SCHR2QB)
 - [Sitting on Clouds](https://discord.gg/x23SFbE)
 - [SquidBoard](https://discord.gg/ATjPbzR)
 

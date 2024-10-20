@@ -287,5 +287,5 @@ Unexpectedly, a young boy named Soujuurou Shizuki is drawn to the mansion and co
 ::: info Check [**Type-Moon fandom**](https://typemoon.fandom.com/wiki/TYPE-MOON_Wiki) for manga and ln/novel info and everything related to Type-Moon.
 :::
 
-::: info Explore the Fate and Type-Moon universe alongside fellow fans in their [**Discord server**](https://discord.com/invite/fate)!
+::: info Explore the Fate and Type-Moon universe alongside fellow fans in their [**Discord server**](https://discord.gg/fate)!
 :::
