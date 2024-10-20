@@ -119,6 +119,9 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 - [ani!Search](https://klof44.ca/ani-search/)
 - [Batch Beatmap Downloader](https://github.com/nzbasic/batch-beatmap-downloader) :ic-baseline-window:
 - [osu! Cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner) :ic-baseline-window:
+- [osu! Trainer](https://github.com/FunOrange/osu-trainer) :ic-baseline-window:
+- [sentakki](https://github.com/LumpBloom7/sentakki) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Tau Ruleset](https://taulazer.github.io/) [:mdi-github:](https://github.com/taulazer/tau) :ic-baseline-window:
 
 ## Pokémon
 
