@@ -92,7 +92,7 @@ Torrent trackers that don't allow you to freely make an account, but require you
 
 | Category | Websites |
 |-|-|
-| Anime | [AnimeBytes](https://animebytes.tv/) `General` <br> [AnimeWorld](https://animeworld.cx/) :flag-germany: <br> [BakaBT](https://bakabt.me/) <br> [U2](https://u2.dmhy.org/portal.php) |
+| Anime | [AnimeBytes](https://animebytes.tv/) `General` <br> [AnimeWorld](https://animeworld.cx/) :flag-germany: <br> [AnimeZ](https://animetorrents.me/) <Badge type="tip" icon="i-ic-outline-discord" text="Waitlist" link="https://discord.gg/GYahYNWutE" /> <br> [BakaBT](https://bakabt.me/) <br> [U2](https://u2.dmhy.org/portal.php) |
 | Books | [MyAnonamouse](https://myanonamouse.net/) |
 | Games | [Gazelle Games](https://gazellegames.net/login.php) |
 | Live Action | [AvistaZ](https://avistaz.to/) <Badge type="tip" icon="i-ic-outline-discord" text="Waitlist" link="https://discord.gg/GYahYNWutE" /> <br> [JPTV.club](https://jptv.club/) <br> [jptvts](https://jptvts.us/) |
