@@ -270,7 +270,7 @@ outline: 1
 - [Like Manga](https://likemanga.io)
 - [Comic Fans](https://www.comicfans.io/) <Badge type="info" text="Manhua" /><Badge type="danger" text="18+" /><tooltip>Backup of Bilibili Comics</tooltip>
 - [Manga Here](https://www.mangahere.cc/) <Badge type="info" text="2" link="https://fanfox.net/" />
-- [Manganato](https://manganato.com/)
+- [Manganato](https://manganato.com/) <Badge type="info" text="2" link="https://mangakakalot.com/" /><Badge type="info" text="Alt" link="https://akari-psi.vercel.app/" />
 
 :::
 
