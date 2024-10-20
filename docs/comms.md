@@ -58,7 +58,7 @@ A list of other otaku communities to check out based on your specific interests.
 - [MangaPark](https://discord.gg/HXKXBTSGKS)
 - [Manga Piracy](https://discord.gg/ZgMtAyxFSU)
 - [Mihon](https://discord.gg/mihon)
-- [MikuDB](https://discord.gg/whcHreUh)
+- [MikuDB](https://discord.gg/w9Dq25n)
 - [NanDesuKa](https://discord.gg/RZN95Yer7d)
 
 ### O-Z

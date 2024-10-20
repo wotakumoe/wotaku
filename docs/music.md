@@ -586,7 +586,7 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 ## Discord
 - [Doujin Cafe](https://discord.gg/doujincafe)
 - [DoujinStyle](https://discord.gg/z2QDFdA)
-- [MikuDB](https://discord.gg/whcHreUh)
+- [MikuDB](https://discord.gg/w9Dq25n)
 - [OTAQUEST](https://discord.gg/SCHR2QB)
 - [Sitting on Clouds](https://discord.gg/x23SFbE)
 - [SquidBoard](https://discord.gg/ATjPbzR)
