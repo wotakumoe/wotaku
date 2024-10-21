@@ -358,7 +358,6 @@ outline: 1
 - [Drake Scans](https://drakecomic.org/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/50caf96d-fe2b-4638-9d13-4954b782e112/drake-scans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/ktajd9u/drake-scans" />
 - [Manhua Ga](https://manhuaga.com/)
 - [Manhua Plus](https://manhuaplus.com/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/3apm0du/manhua-plus" />
-- [Rizz Comic](https://rizzcomic.com/) + :flag-south-korea:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/g8dqjxt/realm-scans" />
 - [xCaliBR Scans](https://xcalibrscans.com/webcomics/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/ynopo9s/cursed-xcalibr" />
 
 
