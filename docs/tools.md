@@ -64,7 +64,7 @@ outline: [1,2]
 - **Local**
   - [mpvKt](https://github.com/abdallahmehiz/mpvKt) :glowing-star: <Badge type="tip" text="Nightly" link="https://nightly.link/abdallahmehiz/mpvKt/workflows/nightlies/main" /> :mdi-android:
   - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en&gl=US) :glowing-star: :mdi-android:
-  - [mpv-android](https://github.com/mpv-android/mpv-android) [:mdi-android:]https://play.google.com/store/apps/details?id=is.xyz.mpv&hl=en&gl=US)
+  - [mpv-android](https://github.com/mpv-android/mpv-android) [:mdi-android:](https://play.google.com/store/apps/details?id=is.xyz.mpv&hl=en&gl=US)
   - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) :mdi-android:
   - [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) :ic-baseline-apple:
 - **Online**
