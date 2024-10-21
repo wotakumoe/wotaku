@@ -324,6 +324,7 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 - [80/20 Japanese](https://8020japanese.com/)
 - [Bunpro](https://bunpro.jp/) `Grammar`
 - [Forvo](https://forvo.com/)
+- [Hanabira](https://hanabira.org/) `General`
 - [Kanshudo](https://www.kanshudo.com/) `General`
 - [MaruMori](https://marumori.io/) `General`
 - [Migaku](https://migaku.com/)
