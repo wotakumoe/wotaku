@@ -231,7 +231,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [musicorum](https://musicorumapp.com/) [:mdi-github:](https://github.com/musicorum-app)
 - [Open Scrobbler](https://openscrobbler.com/)
 - [Scatter.FM](https://scatterfm.markhansen.co.nz/)
-- [Last.fm Time Chart](https://pmcdonough8133.github.io/last.timer/) [:mdi-github:](https://github.com/pmcdonough8133/last.timer?tab=readme-ov-file)
+- [Last.fm Time Charts](https://pmcdonough8133.github.io/last.timer/) [:mdi-github:](https://github.com/pmcdonough8133/last.timer)
 
 
 
