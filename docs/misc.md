@@ -105,6 +105,7 @@ outline: [1,2]
 - [Bookmeter](https://bookmeter.com/) :flag-japan:
 - [Bunko Light Novel Ranking](http://bunkoranoberanking.blog.fc2.com/)
 - [Erzat](https://erzat.blog/)
+- [Jajanken](https://www.jajanken.net/) :flag-japan:
 - [Josu Ke](https://x.com/Josu_ke) :mdi-twitter:
 - [Mangacodex](https://www.mangacodex.com/) :glowing-star:
 - [MANGA Plus Top 40](https://manga.tumeo.space/)
