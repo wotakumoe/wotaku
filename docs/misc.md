@@ -515,7 +515,7 @@ outline: [1,2]
 ### Quiz
 - [AniGuessr](https://aniguessr.com/)
 - [Anicheck](https://anicheck.moe/) [:mdi-github:](https://github.com/gubo97000/aniCheck)
-- [Anime Music Quiz](https://animemusicquiz.com/)
+- [Anime Music Quiz](https://animemusicquiz.com/) <Badge type="tip" text="Script" link="https://github.com/Shaykaden/AMQ-tabify-anime-selection" />
 - [AnimeSongs Quiz](https://quiz.animesongs.org/)
 - [AnimeGuess](https://www.animeguess.moe/)
 - [Animerdle](https://www.animerdle.com/)
