@@ -101,6 +101,7 @@ outline: [1,2]
 
 
 ## Illustrations
+- [Boorusama](https://github.com/khoadng/Boorusama) :glowing-star:
 - [Boorusphere](https://github.com/nullxception/boorusphere)
 - [pixes](https://github.com/wgh136/pixes)
 - [Pixiv](https://play.google.com/store/apps/details?id=jp.pxv.android)
