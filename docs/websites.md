@@ -126,6 +126,7 @@ outline: 1
 
 ### Multi Host
 - [Anime Edge](https://www.anime-edge.com/home) `gz`
+- [Anime Realms](https://www.animerealms.org/) `gz`
 - [AniPlay](https://aniplaynow.live/) <Badge type="info" text="2" link="https://makima.xyz/" /> `gz`
 - [Gojo](https://gojo.live/) <Badge type="info" text="2" link="https://gojo.wtf" /> `gz`
 - [Miruro](https://www.miruro.tv/) <Badge type="info" text="Proxies" link="https://www.miruro.com" /> `gz`
