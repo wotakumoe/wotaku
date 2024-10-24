@@ -1,14 +1,14 @@
 ---
-title: Fate / Type-Moon
-customDescription: Deep dive into the world of Type-Moon!
+title: Fate / Type-Moon / Nasuverse
+customDescription: Deep dive into the Nasuverse!
 outline: 1
 ---
 
-# Fate / Type-Moon
+# Fate/
 
 <br>
 
-The Fate series is a popular Japanese visual novel, anime, and video game franchise created by Type-Moon. It centers around the concept of the "Holy Grail War," a battle royale in which participants, known as "Masters," summon historical, mythological, and fictional figures, known as "Servants," to fight on their behalf.
+The Fate/ series is a popular Japanese visual novel, anime, and video game franchise created by Type-Moon. It centers around the concept of the "Holy Grail War," a battle royale in which participants, known as "Masters," summon historical, mythological, and fictional figures, known as "Servants," to fight on their behalf.
 
 <Authors page="fate" />
 
@@ -20,23 +20,35 @@ Type-Moon is a Japanese visual novel studio known for its contributions to the a
 
 # Anime
 
-## Fate Series
+## Fate/ Series
 
-This is the main series. **Fate/Zero** is the series that took place before [**Shirou Emiya**](https://typemoon.fandom.com/wiki/Shirou_Emiya) (the MC of the series) was introduced and its also the first Holy Grail War of the Fate Series. The MC of this series is Kiritsugu Emiya and this is where the story begins.
+These are the main titles in the series that adapt the visual novel.
 
-1. [Fate/Zero 1<sup>st</sup> Season](https://anilist.co/anime/10087/FateZero/)
-2. [Fate/Zero 2<sup>nd</sup> Season](https://anilist.co/anime/11741/FateZero-Season-2/)
-3. [Fate/stay night](https://anilist.co/anime/356/Fatestay-night/) <sup>1</sup>
-4. [Fate/stay night: Unlimited Blade Works 1<sup>st</sup> Season](https://anilist.co/anime/19603/Fatestay-night-Unlimited-Blade-Works/) <sup>2</sup>
-5. [Fate/stay night: Unlimited Blade Works 2<sup>nd</sup> Season](https://anilist.co/anime/20792/Fatestay-night-Unlimited-Blade-Works-2nd-Season/)
-6. [Fate/stay night [Heaven's Feel] I. presage flower](https://anilist.co/anime/20791/Fatestay-night-Heavens-Feel-I-presage-flower/) <sup>3</sup>
-7. [Fate/stay night [Heaven's Feel] II. lost butterfly](https://anilist.co/anime/21718/Fatestay-night-Heavens-Feel-II-lost-butterfly/)
-8. [Fate/stay night [Heaven’s Feel] III. spring song](https://anilist.co/anime/21719/Fatestay-night-Heavens-Feel-III-spring-song/)
+0. [Fate/stay night](https://anilist.co/anime/356/Fatestay-night/) <sup>1</sup> (2006)
+1. [Fate/stay night: Unlimited Blade Works 1<sup>st</sup> Season](https://anilist.co/anime/19603/Fatestay-night-Unlimited-Blade-Works/) <sup>2</sup> (2014)
+2. [Fate/stay night: Unlimited Blade Works 2<sup>nd</sup> Season](https://anilist.co/anime/20792/Fatestay-night-Unlimited-Blade-Works-2nd-Season/)
+3. [Fate/stay night [Heaven's Feel] I. presage flower](https://anilist.co/anime/20791/Fatestay-night-Heavens-Feel-I-presage-flower/) <sup>3</sup>
+4. [Fate/stay night [Heaven's Feel] II. lost butterfly](https://anilist.co/anime/21718/Fatestay-night-Heavens-Feel-II-lost-butterfly/)
+5. [Fate/stay night [Heaven’s Feel] III. spring song](https://anilist.co/anime/21719/Fatestay-night-Heavens-Feel-III-spring-song/)
+
 
 ::: tip Notes 
-1. "**Fate/stay night**" by Studio DEEN is the Saber Arc.
-2. "**Fate/stay night: Unlimited Blade Works**" is the Rin Tohsaka Arc.
-3. "**Fate/stay night [Heaven's Feel]**" is the Sakura Matou Arc.
+- "**Fate/stay night**" is a less than adequate adaption of the first route of the visual novel, and is from a different studio adaption years before Unlimited Blade Works, thus it is optional. It is highly recommended however, to read this content in the visual novel if possible.
+:::
+
+**Fate/Zero** is a prequel based on the novel of the same name. **Lord El-Melloi II Sei no Jikenbo** is a sequel spinoff of Fate/zero adapted from the novel of the same name. It is about the wider setting in which the Fate series takes place.
+
+7. [Fate/Zero 1<sup>st</sup> Season](https://anilist.co/anime/10087/FateZero/) (2011)
+8. [Fate/Zero 2<sup>nd</sup> Season](https://anilist.co/anime/11741/FateZero-Season-2/)
+
+1. [Lord El-Melloi II\'s Case Files: {Rail Zeppelin} Grace Note](https://www.crunchyroll.com/series/GRG5X224R/lord-el-melloi-iis-case-files-rail-zeppelin-grace-note?irclickid=ypQ0Zw1hrxyKUHTwvBzucUZYUkCU-JTN1XmkVg0&sharedid=A56&irpid=390418&utm_source=impact&utm_medium=affiliate&utm_campaign=390418&utm_content=Online%20Tracking%20Link&irgwc=1) (2019)
+2. [Lord El-Melloi II's Case Files: {Rail Zeppelin} Grace Note - A Grave Keeper, a Cat, and a Mage](https://anilist.co/anime/106862/Lord-ElMelloi-IIsei-no-Jikenbo-Rail-Zeppelin-Grace-note--Hakamori-to-Neko-to-Majutsushi/) (2018)
+3. [Lord El-Melloi II's Case Files: {Rail Zeppelin} Grace note - Special Episode](https://www.crunchyroll.com/series/GRG5X224R/lord-el-melloi-iis-case-files-rail-zeppelin-grace-note?irclickid=ypQ0Zw1hrxyKUHTwvBzucUZYUkCU-JTN1XmkVg0&sharedid=A56&irpid=390418&utm_source=impact&utm_medium=affiliate&utm_campaign=390418&utm_content=Online%20Tracking%20Link&irgwc=1) (2021)
+
+
+::: tip Notes 
+- As a prequel adapted after "Fate/stay night" (2006), the order you watch it is optional, but after "Heaven's Feel" is recommended.
+- Lord El-Melloi II Sei no Jikenbo is optional and a less than adequate adaption of the novel and is optional. It is highly recommended to *also* read the manga adaption after episode one if possible.
 :::
 
 <br>
@@ -77,16 +89,6 @@ Fate/Grand Order is gacha RPG game. To know the stories before Camelot, you can 
 - **North American** <Badge type="tip" icon="i-mdi-android" text="Android" link="https://play.google.com/store/apps/details?id=com.aniplex.fategrandorder.en" /> <Badge type="tip" icon="i-logos-apple-app-store" text="iOS" link="https://apps.apple.com/us/app/fate-grand-order-english/id1183802626" />
 
 :::
-
-<br>
-
-
-## Lord El-Melloi II's Case Files
-This is connected to "**Fate/stay night**" cause it has characters and events from that series.
-
-1. [Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note - A Grave Keeper, a Cat, and a Mage](https://anilist.co/anime/106862/Lord-ElMelloi-IIs-Case-Files-Rail-Zeppelin-Grace-note--A-Grave-Keeper-a-Cat-and-a-Mage/)
-2. [Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note](https://anilist.co/anime/106918/Lord-ElMelloi-IIs-Case-Files-Rail-Zeppelin-Grace-note/)
-3. [Lord El-Melloi II’s Case Files {Rail Zeppelin} Grace note -Special Episode-](https://anilist.co/anime/136344/Lord-ElMelloi-IIs-Case-Files-Rail-Zeppelin-Grace-note-Special-Episode/)
 
 <br>
 
