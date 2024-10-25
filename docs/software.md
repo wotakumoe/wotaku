@@ -102,8 +102,8 @@ outline: [1,2]
 
 ## Illustrations
 - [Boorusama](https://github.com/khoadng/Boorusama) :glowing-star:
-- [Boorusphere](https://github.com/nullxception/boorusphere)
-- [pixes](https://github.com/wgh136/pixes)
+- [Boorusphere](https://github.com/nullxception/boorusphere) <tooltip>Repo is archived, but still works as of October 25, 2024.</tooltip>
+- [pixes](https://github.com/wgh136/pixes) :glowing-star:
 - [Pixiv](https://play.google.com/store/apps/details?id=jp.pxv.android)
 - [Mikansei](https://github.com/uragiristereo/Mikansei)
 - [Wallflow](https://github.com/ammargitham/WallFlow)
