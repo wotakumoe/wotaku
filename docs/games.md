@@ -75,6 +75,7 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 ### Tracker
 
 - [Backloggd](https://www.backloggd.com/)
+- [GameTDB](https://www.gametdb.com/)
 - [GOG Database](https://www.gogdb.org/)
 - [HowLongToBeat](https://howlongtobeat.com/)
 - [IGDB](https://www.igdb.com/)
