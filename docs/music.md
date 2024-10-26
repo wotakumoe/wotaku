@@ -371,6 +371,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
   - [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) :mdi-lastfm::mdi-android:
   - [Marvis Pro](https://apps.apple.com/au/app/marvis-pro/id1447768809) :mdi-lastfm::ic-baseline-apple:
 - **Others**
+  - [MusicSearch](https://github.com/lydavid/MusicSearch) :mdi-android:<Badge type="info" text="MusicBrainz" />
   - [Seeker](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1) :mdi-android:<Badge type="info" text="Soulseek" />
   - [Stats.fm](https://stats.fm/) :mdi-spotify::mdi-android::ic-baseline-apple:
 
