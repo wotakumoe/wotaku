@@ -1,5 +1,6 @@
 ---
-exclude: true
+title: FAQs
+customDescription: Common questions about torrenting
 ---
 
 <GradientCard title="用語集" tag="FAQs" description="Common questions about torrenting" theme="turquoise"/>
