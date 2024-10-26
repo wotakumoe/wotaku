@@ -22,6 +22,7 @@ A list of other otaku communities to check out based on your specific interests.
 - [Mangadex](https://forums.mangadex.org/)
 - [Manga Helper](https://mangahelpers.com/)
 - [SquidBoard](https://www.squid-board.org/)
+- [The VG Resource](https://www.vg-resource.com/)
 - [VocaVerse Network](https://vocaverse.network/)
 - [YGOPro Deck](https://ygoprodeck.com/forum/)
 
