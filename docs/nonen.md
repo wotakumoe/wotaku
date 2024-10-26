@@ -217,6 +217,7 @@ If you have recommendations for good sites in your native language or want to re
 - [Baka Board](https://baka-bewerbung.me/) <Badge type="info" text="Usenet" />
 - [littleAkiba](https://www.littleakiba.ch/)
 - [myGully](https://mygully.com/) <Badge type="info" text="Needs account" /><Badge type="info" text="DDL" />
+- [Pirateboard](https://www.pirateboard.net/)
 - [Proxer](https://proxer.me/)
 
 
