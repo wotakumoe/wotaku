@@ -16,7 +16,7 @@ A list of other otaku communities to check out based on your specific interests.
 - [Anime Music Videos](https://www.animemusicvideos.org/forum/)
 - [Anime UK News](https://forums.animeuknews.net/)
 - [Animesuki](https://forums.animesuki.com/)
-- [Arlong Park Forums](https://forums.arlongpark.net/)
+- [Arlong Park](https://forums.arlongpark.net/)
 - [EvaGeeks](https://forum.evageeks.org/index.php)
 - [Fuwanovel](https://forums.fuwanovel.net/)
 - [Mangadex](https://forums.mangadex.org/)
