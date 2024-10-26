@@ -303,14 +303,6 @@ export const shared: UserConfig<DefaultTheme.Config> = {
     ],
     [
       "script",
-      {
-        defer: "",
-        "data-domain": "wotaku.wiki",
-        src: "https://simp.mom/js/asdasdasd.js",
-      },
-    ],
-    [
-      "script",
       { id: "restore-banner-preference" },
       `
 (() => {
