@@ -209,7 +209,7 @@ outline: 1
 - [Kayo anime](https://kayoanime.com/) :mdi-google-drive::material-symbols-package-2:
 - [Anime out](https://www.animeout.xyz/) :mdi-download::mdi-account:
 - [Chauthanh](https://chauthanh.info/) :mdi-download::mdi-account:
-- [RIP Crabby Anime](https://ripcrabbyanime.com/) :mdi-google-drive::mdi-account::material-symbols-package-2:
+- [RIP Crabby Anime](https://ripcrabbyanime.com/) :mdi-google-drive::material-symbols-package-2:
 
 #### Mini-encodes
 - [hi10anime](https://hi10anime.com/) :mdi-download::mdi-magnet::mdi-account::material-symbols-package-2:
