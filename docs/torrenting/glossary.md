@@ -3,8 +3,9 @@ title: Torrent Glossary
 customDescription: All the basic torrent related terms
 ---
 
-<GradientCard title="用語集" tag="Glossary" description="Learn about basic torrent terms" theme="turquoise"/>
+# Torrent Glossary
 
+___
 
 | Term             | Definition  { class="compact" }     |
 |------------------|----------------------|

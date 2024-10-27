@@ -3,7 +3,9 @@ title: FAQs
 customDescription: Common questions about torrenting
 ---
 
-<GradientCard title="用語集" tag="FAQs" description="Common questions about torrenting" theme="turquoise"/>
+# FAQs
+
+___
 
 :::details What does X term mean?
 
