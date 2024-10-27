@@ -72,6 +72,7 @@ const nav: DefaultTheme.NavItem[] = [
     // @ts-expect-error
     collapsed: true,
     items: [
+      { text: "Getting Started", link: "/torrenting/start" },
       { text: "FAQs", link: "/torrenting/faq" },
       { text: "Glossary", link: "/torrenting/glossary" },
       { text: "qBittorrent", link: "/torrenting/qbit" },
@@ -207,6 +208,7 @@ const sidebar: DefaultTheme.Sidebar = [
     text: '<span class="i-lucide:magnet"></span> Torrenting',
     collapsed: true,
     items: [
+      { text: "Getting Started", link: "/torrenting/start" },
       { text: "FAQs", link: "/torrenting/faq" },
       { text: "Glossary", link: "/torrenting/glossary" },
       { text: "qBittorrent", link: "/torrenting/qbit" },
