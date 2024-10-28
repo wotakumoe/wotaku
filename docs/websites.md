@@ -13,7 +13,20 @@ outline: 1
 
 ## Stream
 
-- [KickAssAnime](https://kaas.ro/) <Badge type="info" text="Proxies" link="https://watchanime.io/" />
+::: details Symbols
+
+| Details     | Symbol  { class="compact" }  |
+|--------|--------|
+| Self-hosted | :mingcute-server-fill: |
+| Scraper | :mingcute-shovel-fill: | 
+| Scrapes [GogoAnime](https://gogotaku.info/)  | g  |
+| Scrapes [HiAnime](https://hianime.to/)  | z  |
+| Tracker (AL/MAL) sync | :mingcute-refresh-2-fill: |
+| In-site Account | :mingcute-user-2-fill: |
+
+:::
+
+- [KickAssAnime](https://kaas.ro/) :mingcute-server-fill::mingcute-shovel-fill::mingcute-user-2-fill: <Badge type="info" text="Proxies" link="https://watchanime.io/" />
   <tooltip>
     <ul>
       <li>KAA encodes (videstreaming) are okay but really inconsistent.</li>
@@ -22,7 +35,7 @@ outline: 1
       <li>Has good amount of missing old titles, but you can request them in their support server.</li>
     </ul>
   </tooltip>
-- [Miruro](https://www.miruro.tv/) <Badge type="info" text="Proxies" link="https://www.miruro.com" /> 
+- [Miruro](https://www.miruro.tv/) :mingcute-shovel-fill::mingcute-refresh-2-fill: <Badge type="info" text="Proxies" link="https://www.miruro.com" /> 
   <tooltip>
     <ul>
       <li>Have nice and minimal UI.</li>
@@ -30,7 +43,7 @@ outline: 1
       <li>Has built-in AniList support.</li>
     </ul>
   </tooltip>
-- [HiAnime](https://hianime.to/home) <Badge type="info" text="Proxies" link="https://hianime.tv/" />
+- [HiAnime](https://hianime.to/home) :mingcute-server-fill::mingcute-user-2-fill: <Badge type="info" text="Proxies" link="https://hianime.tv/" />
   <tooltip>
     <ul>
       <li>Huge library.</li>
@@ -38,15 +51,15 @@ outline: 1
       <li>Re-encodes shows for smaller size.</li>
     </ul>
   </tooltip>
-- [Anime Nexus](https://anime.nexus/)
+- [Anime Nexus](https://anime.nexus/) :mingcute-server-fill::mingcute-user-2-fill:
   <tooltip>
     <ul>
       <li>Good bitrate.</li>
       <li>Has multi-language softsub.</li>
-      <li>Small library size.</li>
+      <li>Medium library size.</li>
     </ul>
   </tooltip>
-- [Hikari](https://watch.hikaritv.xyz/home) 
+- [Hikari](https://hikaritv.xyz/) :mingcute-server-fill::mingcute-user-2-fill:
   <tooltip>
     <ul>
       <li>Good for new airing.</li>
@@ -54,7 +67,7 @@ outline: 1
       <li>Small library size.</li>
     </ul>
   </tooltip>
-- [Sudatachi](https://sudatchi.com/) 
+- [Sudatachi](https://sudatchi.com/) :mingcute-server-fill::mingcute-user-2-fill:
   <tooltip>
     <ul>
       <li>Good for new airing.</li>
@@ -64,7 +77,7 @@ outline: 1
       <li>Also smaller library size.</li>
     </ul>
   </tooltip>
-- [Enimoe](https://enimoe.live/) 
+- [Enimoe](https://enimoe.live/) :mingcute-shovel-fill:
   <tooltip>
     <ul>
       <li>Scrapes from multiple sources.</li>
@@ -74,7 +87,7 @@ outline: 1
       <li>Mapping might give issues.</li>
     </ul>
   </tooltip>
-- [AniZone](https://anizone.to/)
+- [AniZone](https://anizone.to/) :mingcute-server-fill:
   <tooltip>
     <ul>
       <li>Re-encoded to smaller file size.</li>
@@ -82,7 +95,7 @@ outline: 1
       <li>Good for airing shows.</li>
     </ul>
   </tooltip>
-- [Animepahe](https://animepahe.ru/) <Badge type="tip" text="2" link="https://animepahe.com/" /><Badge type="tip" text="3" link="https://animepahe.org" />
+- [Animepahe](https://animepahe.ru/) :mingcute-server-fill: <Badge type="tip" text="2" link="https://animepahe.com/" /><Badge type="tip" text="3" link="https://animepahe.org" />
   <tooltip>
     <ul>
       <li>Uploads mini encoded files, best if you want smaller files or have low bandwidth.</li>
@@ -90,7 +103,11 @@ outline: 1
       <li>Some titles don't get regular update.</li>
     </ul>
   </tooltip>
-- [All Anime](https://allmanga.to/anime?tr=sub&cty=ALL) 
+
+
+:::details More
+
+- [All Anime](https://allmanga.to/anime?tr=sub&cty=ALL) :mingcute-server-fill::mingcute-shovel-fill::mingcute-user-2-fill:
   <tooltip>
     <ul>
       <li>UI is really cluttered.</li>
@@ -98,54 +115,23 @@ outline: 1
       <li>Other players have good amount of compression.</li>
     </ul>
   </tooltip>
-- [Gogoanime](https://anitaku.pe/) <Badge text="Proxies" link="https://gogotaku.info/" />
-- [AniPulse](https://www.anipulse.to/) 
+- [Gogoanime](https://anitaku.pe/) :mingcute-server-fill::mingcute-user-2-fill: <Badge text="Proxies" link="https://gogotaku.info/" />
+- [Anivibe](https://anivibe.net/) :mingcute-server-fill: <Badge type="tip" text="2" link="https://anix.sh/home" /><Badge type="tip" text="3" link="https://www1.aniwave.ch/home" />
+- [AniPulse](https://www.anipulse.to/) :mingcute-server-fill::mingcute-shovel-fill::mingcute-user-2-fill:
   <tooltip>
     <ul>
       <li>Gogo, Zoro Scraper.</li>
       <li>Has own uploaded releases too for various series. Re-encoded to smaller filesize.</li>
     </ul>
   </tooltip>
-- [AnimeZ](https://animez.org/) 
+- [AnimeZ](https://animez.org/) :mingcute-server-fill::mingcute-user-2-fill:
   <tooltip>
     <ul>
       <li>The library size is good.</li>
       <li>A good amount of them are scraped from aniwave but 720p.</li>
     </ul>
   </tooltip>
-
-:::details Scrapers
-
-### Host Site
-
-| Host Site                                         | Symbol  { class="compact" }  |
-|---------------------------------------------------|--------|
-| [GogoAnime](https://gogotaku.info/)               | g      |
-| [HiAnime / Aniwatch / Zoro](https://hianime.to/)  | z      |
-
-
-### Multi Host
-- [Anime Edge](https://www.anime-edge.com/home) `gz`
-- [Anime Realms](https://www.animerealms.org/) `gz`
-- [AniPlay](https://aniplaynow.live/) <Badge type="info" text="2" link="https://makima.xyz/" /> `gz`
-- [Gojo](https://gojo.live/) <Badge type="info" text="2" link="https://gojo.wtf" /> `gz`
-- [Miruro](https://www.miruro.tv/) <Badge type="info" text="Proxies" link="https://www.miruro.com" /> `gz`
-- [Shiroko](https://shiroko.co/en) `gz`
-
-### Single Host
-- [Kaido](https://kaido.to/) `z`
-- [YugenAnime](https://yugenanime.tv/) `g`
-
-:::
-
-:::details More
-
-### Others
-- [One Pace](https://linktr.ee/onepaceproject)
-  - [OnePace.me](https://onepace.me/)
-  - [Stremio](https://github.com/au2001/onepace-stremio)
-- [Pokémon TV](https://poke-tv.vercel.app/) [:mdi-github:](https://github.com/seiya-dev/pokemon-tv)
-- [Watch Cartoon Online](https://www.wco.tv/) <Badge text="2" link="https://www.wcofun.net/" /><Badge text="3" link="https://www.wcostream.tv/" /><Badge text="4" link="https://www.wcoforever.tv/" />
+- [Watch Cartoon Online](https://www.wco.tv/) :mingcute-server-fill::mingcute-user-2-fill: <Badge text="2" link="https://www.wcofun.net/" /><Badge text="3" link="https://www.wcostream.tv/" /><Badge text="4" link="https://www.wcoforever.tv/" />
   <tooltip>
     <ul>
       <li>Has both anime and cartoons.</li>
@@ -154,6 +140,26 @@ outline: 1
       <li>Movie uploads are paywalled. You can bypass some using wco.tv.</li>
     </ul>
   </tooltip>
+
+### More scrapers
+- [Anime Edge](https://www.anime-edge.com/home) :mingcute-refresh-2-fill: `gz`
+- [Anime Realms](https://www.animerealms.org/) :mingcute-refresh-2-fill: `gz`
+- [AniPlay](https://aniplaynow.live/) :mingcute-refresh-2-fill::mingcute-user-2-fill: <Badge type="info" text="2" link="https://makima.xyz/" /> `gz`
+- [Gojo](https://gojo.live/) :mingcute-user-2-fill: <Badge type="info" text="2" link="https://gojo.wtf" /> `gz`
+- [Shiroko](https://shiroko.co/en) :mingcute-refresh-2-fill: `gz`
+- [Kaido](https://kaido.to/) :mingcute-user-2-fill: `z`
+- [YugenAnime](https://yugenanime.tv/) :mingcute-user-2-fill: `g`
+
+:::
+
+:::details Misc
+
+### Others
+- [One Pace](https://linktr.ee/onepaceproject)
+  - [OnePace.me](https://onepace.me/)
+  - [Stremio](https://github.com/au2001/onepace-stremio)
+- [Pokémon TV](https://poke-tv.vercel.app/) [:mdi-github:](https://github.com/seiya-dev/pokemon-tv)
+- [Sonic Zone TV](https://soniczone.net/tv/home.html)
 - [Japanese Animated Film Classics](https://animation.filmarchives.jp/en/index.html)
 
 ### Donghua
@@ -200,13 +206,14 @@ outline: 1
 
 
 #### Reuploads / Untouched
-- [Flugel Anime](https://flugelanime.com/) + :flag-spain: :mdi-download:
+- [Flugel Anime](https://flugelanime.com/) :mdi-download:
 - [Tokyo Insider](https://www.tokyoinsider.com/) :mdi-download:
 - [JPFiles](https://jpfiles.net/) :mdi-snail::mdi-disc:
 - [AnimeRSS](https://animerss.com/) :mdi-snail::mdi-disc:
 
 #### Re-encodes
 - [Kayo anime](https://kayoanime.com/) :mdi-google-drive::material-symbols-package-2:
+- [Mkvseries](https://mkvseries.com/) <Badge text="2" link="https://mkvcinema.in/" /> :mdi-google-drive::material-symbols-package-2:
 - [Anime out](https://www.animeout.xyz/) :mdi-download::mdi-account:
 - [Chauthanh](https://chauthanh.info/) :mdi-download::mdi-account:
 - [RIP Crabby Anime](https://ripcrabbyanime.com/) :mdi-google-drive::material-symbols-package-2:
