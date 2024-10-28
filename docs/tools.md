@@ -46,7 +46,7 @@ outline: [1,2]
 | [Aria2App](https://github.com/devgianlu/Aria2App) | :check-mark-button: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
 | [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) | :cross-mark: | :check-mark-button: | :cross-mark: | Ads, theme limit |
 | [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) | :check-mark-button: | :check-mark-button: | :cross-mark: | :check-mark-button: |
-
+| [Gopeed](https://gopeed.com/) | :check-mark-button: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
 
 #### iOS
 
