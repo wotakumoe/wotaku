@@ -5,7 +5,7 @@ customDescription: Discover a mix of info, guides, and tools for anime, manga & 
 outline: [1,2]
 ---
 
-<GradientCard tag="Misc-sites" description="Welcome to the misc-sites page, home to various communities, guides, and tools for your otaku needs and interests." theme="turquoise" variant="thin"/>
+<GradientCard tag="Misc-sites" description="Various communities, guides, and tools for all needs and interests." theme="turquoise" variant="thin"/>
 
 ![](/banner/info.webp)
 # Info

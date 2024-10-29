@@ -5,7 +5,7 @@ customDescription: Get information & guides on figurines, plushes, books, CDs, a
 outline: 2
 ---
 
-<GradientCard tag="Merch" description="Looking to buy memorabilia from your favorite series and support the creators? Here you will find information on figurines, plushes, books, CDs and more!" theme="turquoise" variant="thin"/>
+<GradientCard tag="Merch" description="Information on figurines, plushes, books, CDs and more!" theme="turquoise" variant="thin"/>
 
 :::details Important Information
 
