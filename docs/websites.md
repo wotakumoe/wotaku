@@ -15,14 +15,13 @@ outline: 1
 
 ::: details Symbols
 
-| Details     | Symbol  { class="compact" }  |
-|--------|--------|
-| Self-hosted | :mingcute-server-fill: |
-| Scraper | :mingcute-shovel-fill: | 
-| Scrapes [GogoAnime](https://gogotaku.info/)  | g  |
-| Scrapes [HiAnime](https://hianime.to/)  | z  |
-| Tracker (AL/MAL) sync | :mingcute-refresh-2-fill: |
-| In-site Account | :mingcute-user-2-fill: |
+- Self-hosted -> :mingcute-server-fill:
+- Scraper -> :mingcute-shovel-fill:
+- Tracker ([AL](https://anilist.co/home)/[MAL](https://myanimelist.net/)) sync -> :mingcute-refresh-2-fill:
+- In-site Account -> :mingcute-user-2-fill:
+- Scrapes [GogoAnime](https://gogotaku.info/) -> `g`
+- Scrapes [HiAnime](https://hianime.to/) -> `z`
+
 
 :::
 
@@ -107,21 +106,13 @@ outline: 1
 
 :::details More
 
+### Self-hosted
 - [All Anime](https://allmanga.to/anime?tr=sub&cty=ALL) :mingcute-server-fill::mingcute-shovel-fill::mingcute-user-2-fill:
   <tooltip>
     <ul>
       <li>UI is really cluttered.</li>
       <li>Use OK player if available.</li>
       <li>Other players have good amount of compression.</li>
-    </ul>
-  </tooltip>
-- [Gogoanime](https://anitaku.pe/) :mingcute-server-fill::mingcute-user-2-fill: <Badge text="Proxies" link="https://gogotaku.info/" />
-- [Anivibe](https://anivibe.net/) :mingcute-server-fill: <Badge type="tip" text="2" link="https://anix.sh/home" /><Badge type="tip" text="3" link="https://www1.aniwave.ch/home" />
-- [AniPulse](https://www.anipulse.to/) :mingcute-server-fill::mingcute-shovel-fill::mingcute-user-2-fill:
-  <tooltip>
-    <ul>
-      <li>Gogo, Zoro Scraper.</li>
-      <li>Has own uploaded releases too for various series. Re-encoded to smaller filesize.</li>
     </ul>
   </tooltip>
 - [AnimeZ](https://animez.org/) :mingcute-server-fill::mingcute-user-2-fill:
@@ -131,6 +122,8 @@ outline: 1
       <li>A good amount of them are scraped from aniwave but 720p.</li>
     </ul>
   </tooltip>
+- [Anivibe](https://anivibe.net/) :mingcute-server-fill: <Badge type="tip" text="2" link="https://anix.sh/home" /><Badge type="tip" text="3" link="https://www1.aniwave.ch/home" />
+- [Gogoanime](https://anitaku.pe/) :mingcute-server-fill::mingcute-user-2-fill: <Badge text="Proxies" link="https://gogotaku.info/" />
 - [Watch Cartoon Online](https://www.wco.tv/) :mingcute-server-fill::mingcute-user-2-fill: <Badge text="2" link="https://www.wcofun.net/" /><Badge text="3" link="https://www.wcostream.tv/" /><Badge text="4" link="https://www.wcoforever.tv/" />
   <tooltip>
     <ul>
@@ -141,8 +134,9 @@ outline: 1
     </ul>
   </tooltip>
 
-### More scrapers
+### Scrapers
 - [Anime Edge](https://www.anime-edge.com/home) :mingcute-refresh-2-fill: `gz`
+- [AniPulse](https://www.anipulse.to/) :mingcute-user-2-fill:  `gz`<tooltip>AniPulse server is a self-hosted backup, sourced from gogo.</tooltip>
 - [Anime Realms](https://www.animerealms.org/) :mingcute-refresh-2-fill: `gz`
 - [AniPlay](https://aniplaynow.live/) :mingcute-refresh-2-fill::mingcute-user-2-fill: <Badge type="info" text="2" link="https://makima.xyz/" /> `gz`
 - [Gojo](https://gojo.live/) :mingcute-user-2-fill: <Badge type="info" text="2" link="https://gojo.wtf" /> `gz`
@@ -158,12 +152,12 @@ outline: 1
 - [One Pace](https://linktr.ee/onepaceproject)
   - [OnePace.me](https://onepace.me/)
   - [Stremio](https://github.com/au2001/onepace-stremio)
-- [Pokémon TV](https://poke-tv.vercel.app/) [:mdi-github:](https://github.com/seiya-dev/pokemon-tv)
 - [Sonic Zone TV](https://soniczone.net/tv/home.html)
 - [Japanese Animated Film Classics](https://animation.filmarchives.jp/en/index.html)
 
 ### Donghua
 - [Animekhor](https://animekhor.xyz/)
+- [COMICXY](https://comicxy.com/)
 - [Crimson Subs](https://crimsonfansubs.com/)
 - [Dongsub](https://www.dongsub.com/)
 - [LM Anime](https://lmanime.com/)
@@ -171,9 +165,9 @@ outline: 1
 - [Myanime](https://myanime.live/)
 
 ### Youtube
-- [Muse Asia](https://www.youtube.com/@MuseAsia/)
-- [Ani-One Asia](https://www.youtube.com/AniOneAsia/)
-> Most of them are regionals
+- [Anime Bancho](https://www.youtube.com/@AnimeBancho/)
+- [Ani-One Asia](https://www.youtube.com/AniOneAsia/) <Badge type="info" text="Regional" />
+- [Muse Asia](https://www.youtube.com/@MuseAsia/) <Badge type="info" text="Regional" />
 
 ### TV
 - [Toonami Aftermath](https://www.toonamiaftermath.com/)
