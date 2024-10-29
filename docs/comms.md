@@ -1,12 +1,10 @@
 ---
 title: Communities
-description: All the great otaku communities!
+description: More great otaku communities!
 customDescription: Explore a wide array of otaku communities! From forums and Discord servers to Subreddits and boards, find your ideal space for anime and manga discussions.
 ---
 
-<GradientCard tag="Communities" description="All the great otaku communities!" theme="turquoise" variant="thin"/>
-
-A list of other otaku communities to check out based on your specific interests.
+<GradientCard tag="Communities" description="More great otaku communities!" theme="turquoise" variant="thin"/>
 
 
 ## Forums

@@ -1,11 +1,11 @@
 ---
 title: Misc-sites
-description: Various sites for info, guide & tools
-customDescription: Discover a mix of info, guides, and tools for anime, manga & illustrations.
+description: Various sites for info, news & tools
+customDescription: Discover a mix of info, news and tools for anime, manga & illustrations.
 outline: [1,2]
 ---
 
-<GradientCard tag="Misc-sites" description="Various communities, guides, and tools for all needs and interests." theme="turquoise" variant="thin"/>
+<GradientCard tag="Misc-sites" description="Various sites and tools for all needs and interests." theme="turquoise" variant="thin"/>
 
 ![](/banner/info.webp)
 # Info
