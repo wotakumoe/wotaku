@@ -275,7 +275,7 @@ export const shared: UserConfig<DefaultTheme.Config> = {
   lastUpdated: true,
   cleanUrls: true,
   ignoreDeadLinks: true,
-  appearance: "dark",
+  appearance: true,
   titleTemplate: ":title • Wotaku.wiki by Duck",
   head: [
     ["meta", { name: "theme-color", content: "#56b4fc" }],
