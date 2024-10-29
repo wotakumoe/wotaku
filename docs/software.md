@@ -5,7 +5,7 @@ customDescription: Enjoy anime, manga and novels on all your devices, no matter 
 outline: [1,2]
 ---
 
-<GradientCard title="ソフトウェア" tag="Software" description="Enjoy anime, manga and novels on all your devices, no matter the OS!" theme="turquoise"/>
+<GradientCard tag="Software" description="Enjoy anime, manga and novels on all your devices, no matter the OS!" theme="turquoise" variant="thin"/>
 
 ![](/banner/and.webp)
 

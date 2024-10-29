@@ -3,7 +3,7 @@ title: NSFW Glossary
 customDescription: Why not learn some words while reading or watching? Can help while searching.
 ---
 
-<GradientCard title="エロ用語集" tag="NSFW Glossary" description="Want to learn what those elusive tags on hentai sites mean? Then this page is for you!" theme="turquoise"/>
+<GradientCard tag="NSFW Glossary" description="Want to learn what those elusive tags on hentai sites mean? Then this page is for you!" theme="turquoise" variant="thin"/>
 
 
 | Term | Meaning |

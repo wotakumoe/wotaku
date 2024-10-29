@@ -2,9 +2,8 @@
 exclude: true
 ---
 
-# Foobar2000 Synced Lyrics
+<GradientCard tag="Foobar2000 Synced Lyrics" theme="turquoise" variant="thin"/>
 
-<br>
 
 For this guide we will use OpenLyrics. You can also try [ESLyric](https://github.com/ESLyric/release).
 

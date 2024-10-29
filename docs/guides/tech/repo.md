@@ -3,19 +3,18 @@ title: Mihon, Aniyomi & Dantotsu Extension Repos
 customDescription: Mihon, Aniyomi & Dantotsu Extension Repos & Guides
 outline: [3,4]
 ---
-## Mihon, Aniyomi & Dantotsu Extension Repos
 
-<br>
+<GradientCard tag="Extension Repos" description="Mihon, Aniyomi & Dantotsu Extension Repos & Guides" theme="turquoise" variant="thin"/>
 
 Due to DMCA takedown notices, [Tachiyomi](https://tachiyomi.org/) (now continued as [Mihon](https://mihon.app/)) and [Aniyomi](https://aniyomi.org/) no longer come with preloaded extensions. You have to sideload extension repos in [Mihon](https://mihon.app/), [Aniyomi](https://aniyomi.org/), [Dantotsu](https://dantotsuapp.netlify.app/) and their forks to get extensions.
 
-### Repositories
+## Repositories
 
 ::: warning README
 Some apps might not support **Auto Install method**. That doesn't mean the guide doesn't work. Try [**manual method**](#adding-repo). We have added [**video guides**](#video-guides) too. If your app still isn't getting any extensions, try redoing the process again using VPN.
 :::
 
-#### Anime
+### Anime
 
 | Name | Region | Auto | Manual |
 | - | - | - | - |
@@ -26,7 +25,7 @@ Some apps might not support **Auto Install method**. That doesn't mean the guide
 | [Claudemirovsky](https://github.com/Claudemirovsky/cursedyomi-extensions) | :flag-brazil: :flag-turkiye: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/Claudemirovsky/cursedyomi-extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Claudemirovsky/cursedyomi-extensions/repo/index.min.json) |
 
 
-#### Manga
+### Manga
 | Name | Region | Auto | Manual |
 | - | - | - | - |
 | [Keiyoushi](https://keiyoushi.github.io/) | :globe-showing-asia-australia: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json) |
@@ -35,13 +34,13 @@ Some apps might not support **Auto Install method**. That doesn't mean the guide
 
 
 
-### Sideloading Methods
+## Sideloading Methods
 
 #### Adding Repo
 - **Auto:** Click on **Install** and the repo will be sideloaded automatically.
 - **Manual:** Copy the **URL** (from the manual column) and put it in **:mdi-dots-horizontal:More -> :mdi-cog-outline:Settings -> :mdi-compass-outline:Browse -> Extension repos**.
 
-#### Adding Extension
+### Adding Extension
 1. After [**adding the repo**](#adding-repo), go to **Home -> :mdi-compass:Browse -> Anime/Manga Extension**.
 2. Download & install your desired extension by clicking :mdi-download-outline:.
 3. Find it in the "**Installed**" section (at the top of the list) with :mdi-close-octagon: beside it.
@@ -54,12 +53,12 @@ To activate torrent features, navigate to **Profile avatar (top right) -> :mdi-c
 :::
 
 
-#### Video guides
+### Video guides
 
 ___
 
 ::: center
-##### **Mihon & the forks**
+#### **Mihon & the forks**
 :::
 ___
 
@@ -68,7 +67,7 @@ ___
 ___
 
 ::: center
-##### **Dantotsu & the forks**
+#### **Dantotsu & the forks**
 :::
 ___
 

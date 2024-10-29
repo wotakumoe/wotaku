@@ -3,9 +3,7 @@ title: Torrent Glossary
 customDescription: All the basic torrent related terms
 ---
 
-# Torrent Glossary
-
-___
+<GradientCard tag="Torrent Glossary" description="All the basic torrent related terms" theme="turquoise" variant="thin"/>
 
 | Term             | Definition  { class="compact" }     |
 |------------------|----------------------|

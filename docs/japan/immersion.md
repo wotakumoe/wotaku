@@ -5,7 +5,7 @@ customDescription: Media to help you learn japanese
 outline: [2,3]
 ---
 
-<GradientCard title="イマージョン" tag="Immersion" description="Media to help you learn japanese" theme="turquoise"/>
+<GradientCard tag="Immersion" description="Media to help you learn japanese" theme="turquoise" variant="thin"/>
 
 
 ## Guide

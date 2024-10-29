@@ -5,7 +5,7 @@ customDescription: Wotaku Games Megathread! Everything Games Related in One Page
 outline: 2
 ---
 
-<GradientCard title="ゲーム" tag="Games" description="Everything Games Related in One Page!" theme="turquoise"/>
+<GradientCard tag="Games" description="Everything Games Related in One Page!" theme="turquoise" variant="thin"/>
 
 
 ## General Download

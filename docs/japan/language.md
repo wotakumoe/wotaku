@@ -5,7 +5,7 @@ customDescription: Japanese language learning resources.
 outline: [2,3]
 ---
 
-<GradientCard title="日本語を学ぶ" tag="Learning Japanese" description="All the resources to learn Japanese" theme="turquoise"/>
+<GradientCard tag="Learning Japanese" description="All the resources to learn Japanese" theme="turquoise" variant="thin"/>
 
 <br>
 

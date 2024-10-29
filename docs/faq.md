@@ -4,7 +4,7 @@ customDescription: Answers to some of the most commonly asked questions about ma
 outline: 1
 ---
 
-<GradientCard title="よくある質問" tag="FAQs" description="Answers to some of the most commonly asked questions about manga, anime & other topics." theme="turquoise"/>
+<GradientCard tag="FAQs" description="Answers to some of the most commonly asked questions about manga, anime & other topics." theme="turquoise" variant="thin"/>
 
 ![](/banner/general.webp)
 

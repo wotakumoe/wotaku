@@ -3,8 +3,7 @@ title: Getting Started
 customDescription: Basic how-to torrent guide to get you started 
 ---
 
-# Getting Started
-___
+<GradientCard tag="Getting Started" description="Basic how-to torrent guide to get you started" theme="turquoise" variant="thin"/>
 
 To start downloading torrents, you will need two things:
 1. Torrent link

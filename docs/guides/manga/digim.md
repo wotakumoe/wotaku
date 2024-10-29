@@ -4,7 +4,7 @@ customDescription: "Information about digital manga & manhwa publishers on resol
 outline: [2,3]
 ---
 
-# Digital Manga & Manhwa Info
+<GradientCard tag="Digital Manga & Manhwa Info" description="Information about digital manga & manhwa publishers on resolution" theme="turquoise" variant="thin"/>
 
 <br>
 

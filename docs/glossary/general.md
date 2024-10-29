@@ -3,7 +3,7 @@ title: General Glossary
 customDescription: Weeb terms that you will see everywhere!
 ---
 
-<GradientCard title="ヲタク用語集" tag="Wotaku Glossary" description="Want to increase your otaku knowledge? Look for no further! Presenting the Glossary section." theme="turquoise"/>
+<GradientCard tag="Wotaku Glossary" description="Want to increase your otaku knowledge? Look for no further! Presenting the Glossary section." theme="turquoise" variant="thin"/>
 
 <br>
 

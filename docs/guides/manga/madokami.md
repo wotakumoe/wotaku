@@ -4,9 +4,10 @@ customDescription: The Joining guide for Madokami through IRC. Also how to downl
 outline: [2,3]
 ---
 
+<GradientCard tag="Madokami Guide" description="Joining guide for Madokami through IRC" theme="turquoise" variant="thin"/>
+
 # Madokami Guide
 
-<br>
 
 [Madokami](https://manga.madokami.al/) is a private website that hosts manga, novels and artbooks. They upload the same manga rips found on nyaa without compression. You can either download from their site (upto 3 parallel downloads) or directly read in tachiyomi using their extension. You sign up by joining their IRC channel and trying your luck at gacha rolls.
 <br>

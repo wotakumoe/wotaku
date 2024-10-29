@@ -1,13 +1,12 @@
 ---
 title: Blocking Ads & Annoyances
 customDescription: Adblocking Solutions for every device
-outline: 3
 ---
 
-## Blocking Ads & Annoyances
-Adblocking Solutions for every device
+<GradientCard tag="Blocking Ads" description="Adblocking Solutions for every device" theme="turquoise" variant="thin"/>
 
-### Android
+
+## Android
 
 - **System-wide**
   - [Adguard](https://adguard.com/en/welcome.html) :glowing-star:
@@ -22,7 +21,7 @@ Adblocking Solutions for every device
   - [Mull](https://github.com/Divested-Mobile/Mull-Fenix)
 
 
-### Browser
+## Browser
 
 - **Extension**
   - [uBlock Origin](https://github.com/gorhill/uBlock) :glowing-star: :mdi-firefox::mingcute-chrome-fill:
@@ -37,7 +36,7 @@ Adblocking Solutions for every device
   - [Bypass.city](https://bypass.city/how-to-install-userscript)
 
 
-### DNS
+## DNS
 - **Online Hosted**
   - [NextDNS](https://nextdns.io/) :glowing-star:
   - [Adguard DNS](https://adguard-dns.io/en/welcome.html)
@@ -56,7 +55,7 @@ Adblocking Solutions for every device
 - [LibreDNS](https://libredns.gr/)
 :::
 
-### Filters
+## Filters
 
 ::: warning Before adding filters
 Adding a lot of filters to your adblocker (that you don't specifically need) can impact the performance of your browser and cause slowdowns. It may also break the normal capabilities of UBO, so try to stick with the default filters.
@@ -67,7 +66,7 @@ Adding a lot of filters to your adblocker (that you don't specifically need) can
 - [Hagezi DNS Blocklists](https://github.com/hagezi/dns-blocklists)
 - [Yokoffing Filterlists](https://github.com/yokoffing/filterlists) 
 
-### Annoyances
+## Annoyances
 
 | Topic | Solutions |
 |-|-|
@@ -76,7 +75,7 @@ Adding a lot of filters to your adblocker (that you don't specifically need) can
 | Others | [BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) :mdi-firefox::mingcute-chrome-fill: |
 
 
-### Site-specific
+## Site-specific
 
 | Websites | Solutions |
 |-|-|

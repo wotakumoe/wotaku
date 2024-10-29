@@ -3,12 +3,8 @@ title: Network Stream
 customDescription: Stream video files through DDL, IRC, and Torrent. Enjoy seamless online video streaming!
 ---
 
-# Network Stream
+<GradientCard tag="Network Stream" description="Network streaming DDL, IRC and Torrent video files." theme="turquoise" variant="thin"/>
 
-<br>
-
-Network streaming DDL, IRC and Torrent video files.
-<br>
 
 ## DDL
 The basic process:

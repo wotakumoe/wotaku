@@ -5,7 +5,7 @@ customDescription: Discover websites, software, and essentials for anime, manga,
 outline: [2,3]
 ---
 
-<GradientCard title="クイックスタート" tag="Quick Start" description="The basic things to get you started." theme="turquoise"/>
+<GradientCard tag="Quick Start" description="The basic things to get you started." theme="turquoise" variant="thin"/>
 
 ![](/banner/wanime.webp)
 
