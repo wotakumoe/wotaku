@@ -106,6 +106,7 @@ outline: [1,2]
 - [pixes](https://github.com/wgh136/pixes) :glowing-star:
 - [Pixiv](https://play.google.com/store/apps/details?id=jp.pxv.android)
 - [Mikansei](https://github.com/uragiristereo/Mikansei)
+- [PixiView](https://github.com/matsumo0922/PixiView-KMP)
 - [Wallflow](https://github.com/ammargitham/WallFlow)
 - [RWalls](https://github.com/meh430/RWalls)
 - [Pixiv for Muzei 3](https://github.com/yellowbluesky/PixivforMuzei3)
@@ -169,6 +170,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 
 ## Others
 - [pixes](https://github.com/wgh136/pixes)
+- [PixiView](https://github.com/matsumo0922/PixiView-KMP)
 - [Anime Boxes](https://apps.apple.com/us/app/anime-boxes/id525540312)
 
 
@@ -284,6 +286,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 
 ### Image
+- [Cultured Downloader](https://github.com/KJHJason/Cultured-Downloader) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [gallery-dl](https://github.com/mikf/gallery-dl) :glowing-star: :ic-baseline-window::mingcute-linux-fill:
 - [Hydrus network](https://hydrusnetwork.github.io/hydrus/) <Badge type="info" text="Scripts" link="https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts"/>:ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
@@ -385,6 +388,11 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - :material-symbols-subdirectory-arrow-right: [Encoding & Fansubbing Guides](/misc.md#encoding-fansubbing-guides)
 - :material-symbols-subdirectory-arrow-right: [More subtitle tools](/japan/software.md#subtitle)
 
+### Illustrations
+- [Pixes](https://github.com/wgh136/pixes) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Pixeval](https://pixeval.github.io/) [:mdi-github:](https://github.com/Pixeval/Pixeval) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Pixiv Powerful Viewer](https://github.com/fekoneko/pixiv-powerful-viewer)
+
 
 ## Other Tools
 - [AMV Tracker](https://github.com/bsobotka/amv_tracker) :ic-baseline-window:
@@ -393,11 +401,10 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
   - [Search by Image](https://github.com/dessant/search-by-image) :mdi-firefox::mingcute-chrome-fill::mingcute-safari-fill:
   - [AnimeSnap](https://github.com/rohankishore/AnimeSnap) :ic-baseline-window:
   - [Sauce](https://github.com/cadecuddy/sauce)
-- **[Nyaa](https://nyaa.si/) Tools**
+- **Nyaa Tools**
   - [nyaa](https://github.com/Beastwick18/nyaa) :ic-baseline-window::mingcute-linux-fill:
   - [Nyaa Downloader](https://github.com/marcpinet/nyaadownloader) :ic-baseline-window:
   - [Koneko](https://github.com/irevenko/koneko)
-- [pixes](https://github.com/wgh136/pixes) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
 ## Hosting
 

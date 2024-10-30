@@ -161,6 +161,8 @@ outline: [1,2]
 - [Nico Nico Seiga](https://seiga.nicovideo.jp/)
 - [Pixiv](https://www.pixiv.net) :glowing-star:
   - [Pixivision](https://www.pixivision.net/en/)
+  - [PixivFE](https://pixivfe.exozy.me/) [:simple-icons-codeberg:](https://codeberg.org/VnPower/PixivFE)
+  - [Pixiv Now](https://pixiv.js.org/)
   - [Pixiv Viewer](https://pixiv.pics/)
   - [Pixiv Yearbook](https://pixiv.navirank.com/) :glowing-star:
 - [Poipiku](https://poipiku.com/)
@@ -296,7 +298,7 @@ outline: [1,2]
 |---|---|
 | Search | [SauceNAO](https://saucenao.com/) :glowing-star: <br> [Trace](https://trace.moe/) [:mdi-github:](https://github.com/soruly/trace.moe) <br> [SauceKudasai](https://saucekudasai.com/) [:mdi-github:](https://github.com/ayushgptaa/SauceKudasai) <br> [Multi-service image search](https://iqdb.org/) |
 | Upscaling | [Waif2x](https://unlimited.waifu2x.net/) [:mdi-github:](https://github.com/nagadomi/waifu2x)<Badge type="tip" text="Cloud Ver" link="https://waifu2x.udp.jp/" /> <br> [WaifuXL](https://waifuxl.com/) [:mdi-github:](https://github.com/TheFutureGadgetsLab/WaifuXL) |
-| Others | [Imgtrans](https://touhou.ai/imgtrans/) [:mdi-github:](https://github.com/zyddnys/manga-image-translator) <br> [Slowpoke Pics](https://slow.pics/) |
+| Others | [Imgtrans](https://touhou.ai/imgtrans/) [:mdi-github:](https://github.com/zyddnys/manga-image-translator) <br> [Pixiv.cat](https://pixiv.cat/) [:mdi-github:](https://github.com/pixiv-cat/pixivcat-backend) <Badge type="info" text="Embed" /> <br> [Slowpoke Pics](https://slow.pics/) |
 
 
 ### Stats

@@ -317,6 +317,7 @@ outline: [1,2]
 - [Journey Buster 3](https://journeybuster.com/)
 - [KellyC Image Downloader](https://github.com/NC22/KellyC-Image-Downloader) [:mdi-earth:](https://kellydownloader.com/en/)[:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/kellyc-image-downloader/mbhkdmjolnhcppnkldbdfaomeabjiofm)
 - [Pixiv Batch Downloader](https://github.com/xuejianxianzun/PixivBatchDownloader) [:mdi-earth:](https://pixiv.download/)[:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/powerful-pixiv-downloader/dkndmhgdcmjdmkdonmbgjpijejdcilfh)
+- [Pixiv Fanbox Downloader](https://github.com/xuejianxianzun/PixivFanboxDownloader) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/pixiv-fanbox-downloader/ihnfpdchjnmlehnoeffgcbakfmdjcckn)
 - [Pixiv Toolkit Next](https://github.com/leoding86/webextension-pixiv-toolkit) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/pixiv-toolkit-next/ajlcnbbeidbackfknkgknjefhmbngdnj)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/pixiv-toolkit/)
 - [Sakuga Extended](https://github.com/ftLoic/Sakuga-Extended) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/khmnmdaghmhkcbooicndamlhkcmpklmc)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/sakuga-extended/)
 - [Search by Image](https://github.com/dessant/search-by-image) :glowing-star:
@@ -387,8 +388,9 @@ outline: [1,2]
   - [Dollchan](https://github.com/SthephanShinkufag/Dollchan-Extension-Tools/)
 - **Pixiv**
   - [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE%2B)
-  - [Pixiv Preview](https://greasyfork.org/en/scripts/39387-pixiv-arts-preview-followed-atrists-coloring-extended-history) [:mdi-github:](https://github.com/NightLancer/PixivPreview)
+  - [Pixiv Infinite Scroll](https://github.com/hamachi25/Pixiv-Infinite-Scroll)
   - [ppixiv for Pixiv](https://greasyfork.org/en/scripts/370418-ppixiv-for-pixiv) [:mdi-github:](https://github.com/ppixiv/ppixiv)
+  - [Pixiv Preview](https://greasyfork.org/en/scripts/39387-pixiv-arts-preview-followed-atrists-coloring-extended-history) [:mdi-github:](https://github.com/NightLancer/PixivPreview)
 - **Others**
   - [Handy Image](https://sleazyfork.org/en/scripts/109-handy-image) [:mdi-github:](https://github.com/Owyn/HandyImage)
   - [Image Max URL](https://github.com/qsniyg/maxurl)
