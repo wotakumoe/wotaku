@@ -111,8 +111,11 @@ outline: 1
   <tooltip>
     <ul>
       <li>UI is really cluttered.</li>
-      <li>Use OK player if available.</li>
-      <li>Other players have good amount of compression.</li>
+      <li>Video quality fluctuates quite a bit.</li>
+      <li>Players are a mix of self-hosted and scrapers.</li>
+      <li>Luf-mp4 and Vid-mp4 are gogo scrapers.</li>
+      <li>OK and AK have multiple resolutions.</li>
+      <li>SW player is 720p only.</li>
     </ul>
   </tooltip>
 - [AnimeZ](https://animez.org/) :mingcute-server-fill::mingcute-user-2-fill:
