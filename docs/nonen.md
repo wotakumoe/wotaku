@@ -245,6 +245,7 @@ If you have recommendations for good sites in your native language or want to re
   - [Animerulz](https://animerulz.net/home/)
   - [Anplay](https://anplay.in/)
   - [Dora Bash](https://doraemontheanime.com/)
+  - [HiddenLeaf](https://hiddenleaf.to/home/)
   - [HindiAnime](https://hindianime.fun/)
   - [Toonbaba](https://toonbaba.site/)
   - [ToonStream](https://toonstream.day/)
