@@ -388,10 +388,10 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - :material-symbols-subdirectory-arrow-right: [Encoding & Fansubbing Guides](/misc.md#encoding-fansubbing-guides)
 - :material-symbols-subdirectory-arrow-right: [More subtitle tools](/japan/software.md#subtitle)
 
-### Illustrations
-- [Pixes](https://github.com/wgh136/pixes) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Pixeval](https://pixeval.github.io/) [:mdi-github:](https://github.com/Pixeval/Pixeval) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Pixiv Powerful Viewer](https://github.com/fekoneko/pixiv-powerful-viewer)
+## Illustrations
+- [pixes](https://github.com/wgh136/pixes) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Pixeval](https://pixeval.github.io/) [:mdi-github:](https://github.com/Pixeval/Pixeval) :ic-baseline-window:
+- [Pixiv Powerful Viewer](https://github.com/fekoneko/pixiv-powerful-viewer) :ic-baseline-window:
 
 
 ## Other Tools
