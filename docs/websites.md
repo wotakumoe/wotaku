@@ -15,8 +15,8 @@ outline: 1
 
 ::: details Symbols
 
-- Self-hosted -> :mingcute-server-fill:
-- Scraper -> :mingcute-shovel-fill:
+- Self-hosted <tooltip>Self-hosted means they upload their own or someone else's rips unchanged or re-encoded. It can be in their own storage or a video host service.</tooltip> -> :mingcute-server-fill:
+- Scraper <tooltip>Scraper means they don't have their own uploads, but scrape from self-hosted sites. If a host site goes down, changes site structure or API, the scraper site will become useless.</tooltip> -> :mingcute-shovel-fill:
 - Tracker ([AL](https://anilist.co/home)/[MAL](https://myanimelist.net/)) sync -> :mingcute-refresh-2-fill:
 - In-site Account -> :mingcute-user-2-fill:
 - Scrapes [GogoAnime](https://gogotaku.info/) -> `g`
@@ -107,6 +107,7 @@ outline: 1
 :::details More
 
 ### Self-hosted
+
 - [All Anime](https://allmanga.to/anime?tr=sub&cty=ALL) :mingcute-server-fill::mingcute-shovel-fill::mingcute-user-2-fill:
   <tooltip>
     <ul>
@@ -138,15 +139,18 @@ outline: 1
   </tooltip>
 
 ### Scrapers
-- [Anime Edge](https://www.anime-edge.com/home) :mingcute-refresh-2-fill: `gz`
-- [AniPulse](https://www.anipulse.to/) :mingcute-user-2-fill:  `gz`<tooltip>AniPulse server is a self-hosted backup, sourced from gogo.</tooltip>
-- [Anime Realms](https://www.animerealms.org/) :mingcute-refresh-2-fill: `gz`
-- [AniPlay](https://aniplaynow.live/) :mingcute-refresh-2-fill::mingcute-user-2-fill: <Badge type="info" text="2" link="https://makima.xyz/" /> `gz`
-- [Gojo](https://gojo.live/) :mingcute-user-2-fill: <Badge type="info" text="2" link="https://gojo.wtf" /> `gz`
-- [Shiroko](https://shiroko.co/en) :mingcute-refresh-2-fill: `gz`
-- [Kaido](https://kaido.to/) :mingcute-user-2-fill: `z`
-- [YugenAnime](https://yugenanime.tv/) :mingcute-user-2-fill: `g`
 
+- **Multi server**
+  - [Anime Edge](https://www.anime-edge.com/home) :mingcute-refresh-2-fill: `gz`
+  - [AniPulse](https://www.anipulse.to/) :mingcute-user-2-fill:  `gz`<tooltip>AniPulse server is a self-hosted backup, sourced from gogo.</tooltip>
+  - [Anime Realms](https://www.animerealms.org/) :mingcute-refresh-2-fill: `gz`
+  - [AniPlay](https://aniplaynow.live/) :mingcute-refresh-2-fill::mingcute-user-2-fill:`gz`
+  - [Gojo](https://gojo.live/) :mingcute-user-2-fill: <Badge type="info" text="2" link="https://gojo.wtf" /> `gz`
+  - [Makima](https://makima.xyz/) :mingcute-refresh-2-fill: `gz`
+  - [Shiroko](https://shiroko.co/en) :mingcute-refresh-2-fill: `gz`
+- **Single server**
+  - [Kaido](https://kaido.to/) :mingcute-user-2-fill: `z`
+  - [YugenAnime](https://yugenanime.tv/) :mingcute-user-2-fill: `g`
 :::
 
 :::details Misc

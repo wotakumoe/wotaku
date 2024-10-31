@@ -148,6 +148,7 @@ outline: [1,2]
 
 ::: danger All listed sites have NSFW content unless specified otherwise.
 :::
+
 ## Platforms
 
 - [ArtStation](https://www.artstation.com/)
@@ -168,8 +169,10 @@ outline: [1,2]
 - [Poipiku](https://poipiku.com/)
 - [Tinami](https://www.tinami.com/)
 - [Tumblr](https://www.tumblr.com/)
+  - [Priviblur](https://github.com/syeopite/priviblur)
 - [Twitter](https://x.com/home) :glowing-star:
-- [Twoucan](https://twoucan.com/)
+  - [X Cancelled](https://xcancel.com/)
+  - [Twoucan](https://twoucan.com/)
 
 :::details Support Platforms
 - [BOOTH](https://booth.pm/en)
