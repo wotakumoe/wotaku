@@ -108,28 +108,28 @@ If you have recommendations for good sites in your native language or want to re
   - [ACG](https://acg.rip/)
   - [ACGNX](https://share.acgnx.se/)
 
-### Comic
-
-- **General**
-  - [69xinshu](https://www.69xinshu.com/)
-  - [8Comic](https://www.comicabc.com/)
-  - [Antbyw](https://www.antbyw.com/)
-  - [Baozimh.com](https://www.baozimh.com/) <Badge type="tip" text="2" link="https://www.kukuc.co/" /><Badge type="tip" text="3" link="https://www.webmota.com/" />
-  - [Baozimh.org](https://baozimh.org/)
-  - [Colamanga](https://www.colamanga.com/)
-  - [Manhua Gui](https://www.manhuagui.com/)
-  - [Qumanku](http://www.sumanku.com/)
-  - [XManhua](https://xmanhua.com/)
-- **NSFW**
-  - [55Comic](https://www.55comic.com/)
-  - [HD Comic](https://www.hdcomic.com/)
-  - [JAV Comics](https://javcomics.com/)
-  - [JMWU](https://jmwu.xyz/) <Badge type="tip" text="2" link="https://jmzj.xyz/" />
+### Comics
+- [69xinshu](https://www.69xinshu.com/)
+- [8Comic](https://www.comicabc.com/)
+- [Antbyw](https://www.antbyw.com/)
+- [Baozimh.com](https://www.baozimh.com/) <Badge type="tip" text="2" link="https://www.kukuc.co/" /><Badge type="tip" text="3" link="https://www.webmota.com/" />
+- [Baozimh.org](https://baozimh.org/)
+- [Colamanga](https://www.colamanga.com/)
+- [Manhua Gui](https://www.manhuagui.com/)
+- [Qumanku](http://www.sumanku.com/)
+- [XManhua](https://xmanhua.com/)
 
 ### Novel
 - [Light Novel](https://www.lightnovel.us/)
 - [23qb](https://www.23qb.net/)
 - [ESJ Zone](https://www.esjzone.cc/)
+
+### NSFW
+- [Hanime1.me/](https://hanime1.me/)
+- [55Comic](https://www.55comic.com/)
+- [HD Comic](https://www.hdcomic.com/)
+- [JAV Comics](https://javcomics.com/)
+- [JMWU](https://jmwu.xyz/) <Badge type="tip" text="2" link="https://jmzj.xyz/" />
 
 
 ### Software
