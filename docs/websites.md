@@ -141,7 +141,6 @@ outline: 1
 ### Scrapers
 
 - **Multi server**
-  - [Anime Edge](https://www.anime-edge.com/home) :mingcute-refresh-2-fill: `gz`
   - [AniPulse](https://www.anipulse.to/) :mingcute-user-2-fill:  `gz`<tooltip>AniPulse server is a self-hosted backup, sourced from gogo.</tooltip>
   - [Anime Realms](https://www.animerealms.org/) :mingcute-refresh-2-fill: `gz`
   - [AniPlay](https://aniplaynow.live/) :mingcute-refresh-2-fill::mingcute-user-2-fill:`gz`
