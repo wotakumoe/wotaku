@@ -609,7 +609,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Fecomic](https://fecomicc.xyz/)
 - [Goc Truyen Tranh](https://goctruyentranhvui3.com/trang-chu)
 - [HanulTruyen](https://hanultruyen.net/) <Badge type="danger" text="18+" />
-- [Truyencc](https://truyencc.com//)
+- [Truyencc](https://truyencc.com/)
 - [Truyen Sieuhay](https://truyensieuhay.com/)
 
 ### Light Novels
