@@ -119,13 +119,13 @@ If you have recommendations for good sites in your native language or want to re
 - [Qumanku](http://www.sumanku.com/)
 - [XManhua](https://xmanhua.com/)
 
-### Novel
+### Novels
 - [Light Novel](https://www.lightnovel.us/)
 - [23qb](https://www.23qb.net/)
 - [ESJ Zone](https://www.esjzone.cc/)
 
 ### NSFW
-- [Hanime1.me/](https://hanime1.me/)
+- [Hanime1.me](https://hanime1.me/)
 - [55Comic](https://www.55comic.com/)
 - [HD Comic](https://www.hdcomic.com/)
 - [JAV Comics](https://javcomics.com/)
