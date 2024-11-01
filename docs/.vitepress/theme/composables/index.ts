@@ -2,4 +2,4 @@
  * Barrel generated using @taskylizard/tasker.
  */
 
-export * from "./useMediumZoom";
+export * from './useMediumZoom'

@@ -1,13 +1,13 @@
 <script setup lang="ts">
 interface Props {
-  text?: string;
-  link?: string;
-  type?: "info" | "tip" | "warning" | "danger" | "green";
-  icon?: string;
+  text?: string
+  link?: string
+  type?: 'info' | 'tip' | 'warning' | 'danger' | 'green'
+  icon?: string
 }
 withDefaults(defineProps<Props>(), {
-  type: "info",
-});
+  type: 'info'
+})
 </script>
 
 <template>

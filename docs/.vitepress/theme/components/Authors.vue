@@ -1,57 +1,57 @@
 <script setup lang="ts">
-import { computed } from "vue";
+import { computed } from 'vue'
 
 const props = defineProps<{
-  page: string;
-}>();
+  page: string
+}>()
 
 interface CreditsInfo {
   [key: string]: {
-    name: string;
-    avatar: string;
+    name: string
+    avatar: string
     // Optional.
-    site?: string;
-  }[];
+    site?: string
+  }[]
 }
 
 const credits = {
   imagedit: [
     {
-      name: "Oakminati",
-      site: "https://nyaa.si/user/Oakminati",
-      avatar: "/pfp/oak.png",
+      name: 'Oakminati',
+      site: 'https://nyaa.si/user/Oakminati',
+      avatar: '/pfp/oak.png'
     },
     {
-      name: "XRA-Empire",
-      site: "https://nyaa.si/?f=0&c=3_1&q=xra",
-      avatar: "/pfp/xra.png",
-    },
+      name: 'XRA-Empire',
+      site: 'https://nyaa.si/?f=0&c=3_1&q=xra',
+      avatar: '/pfp/xra.png'
+    }
   ],
 
   audiog: [
     {
-      name: "DenpaEater",
-      site: "https://x.com/shibayanfanclub",
-      avatar: "/pfp/denpa.jpg",
-    },
+      name: 'DenpaEater',
+      site: 'https://x.com/shibayanfanclub',
+      avatar: '/pfp/denpa.jpg'
+    }
   ],
   discrip: [
     {
-      name: "nullishcat",
-      site: "https://nullish.cat/",
-      avatar: "https://github.com/nullish-cat.png",
-    },
+      name: 'nullishcat',
+      site: 'https://nullish.cat/',
+      avatar: 'https://github.com/nullish-cat.png'
+    }
   ],
   fate: [
     {
-      name: "Archziac",
-      site: "https://www.behance.net/archziac",
-      avatar: "https://github.com/archziac.png",
-    },
-  ],
-} satisfies CreditsInfo;
+      name: 'Archziac',
+      site: 'https://www.behance.net/archziac',
+      avatar: 'https://github.com/archziac.png'
+    }
+  ]
+} satisfies CreditsInfo
 
-const Credits = computed(() => credits[props.page] || ([] as CreditsInfo[]));
+const Credits = computed(() => credits[props.page] || ([] as CreditsInfo[]))
 </script>
 <template>
   <div class="flex flex-wrap gap-4 pt-2">

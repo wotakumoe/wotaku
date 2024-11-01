@@ -1,5 +1,4 @@
 {
-  "extends": "./.nitro/types/tsconfig.json",
   "compilerOptions": {
     "verbatimModuleSyntax": true,
     "baseUrl": ".",
@@ -15,7 +14,7 @@
     "noUnusedLocals": true,
     "strictNullChecks": true,
     "forceConsistentCasingInFileNames": true,
-    "types": ["vitepress"]
+    "types": ["vitepress/client"]
   },
   "include": [
     "**/.vitepress/**/*.ts",
@@ -26,5 +25,6 @@
   "exclude": ["node_modules"],
   "vueCompilerOptions": {
     "vitePressExtensions": [".md"]
-  }
+  },
+  "extends": "./.nitro/types/tsconfig.json"
 }

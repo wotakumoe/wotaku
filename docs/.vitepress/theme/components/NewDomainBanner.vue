@@ -1,20 +1,23 @@
 <script setup lang="ts">
-import { ref, watchEffect } from "vue";
-import { useElementSize } from "@vueuse/core";
+import { ref, watchEffect } from 'vue'
+import { useElementSize } from '@vueuse/core'
 
-const el = ref<HTMLElement>();
-const { height } = useElementSize(el);
+const el = ref<HTMLElement>()
+const { height } = useElementSize(el)
 
 watchEffect(() => {
   if (height.value) {
-    document.documentElement.style.setProperty("--vp-layout-top-height", `${height.value + 16}px`);
+    document.documentElement.style.setProperty(
+      '--vp-layout-top-height',
+      `${height.value + 16}px`
+    )
   }
-});
+})
 
 const dismiss = () => {
-  localStorage.setItem("ackDomainChange", "true");
-  document.documentElement.classList.add("banner-dismissed");
-};
+  localStorage.setItem('ackDomainChange', 'true')
+  document.documentElement.classList.add('banner-dismissed')
+}
 </script>
 
 <template>

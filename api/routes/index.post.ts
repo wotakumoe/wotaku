@@ -1,32 +1,35 @@
-import { fetcher } from "itty-fetcher";
-import { FeedbackSchema, getFeedbackOption } from "../../docs/.vitepress/types/Feedback";
+import { fetcher } from 'itty-fetcher'
+import {
+  FeedbackSchema,
+  getFeedbackOption
+} from '../../docs/.vitepress/types/Feedback'
 
 export default defineEventHandler(async (event) => {
   const { message, page, type, heading } = await readValidatedBody(
     event,
-    FeedbackSchema.parseAsync,
-  );
-  const env = useRuntimeConfig(event);
+    FeedbackSchema.parseAsync
+  )
+  const env = useRuntimeConfig(event)
 
   const fields = [
     {
-      name: "Page",
+      name: 'Page',
       value: page,
-      inline: true,
+      inline: true
     },
     {
-      name: "Message",
+      name: 'Message',
       value: message,
-      inline: false,
-    },
-  ];
+      inline: false
+    }
+  ]
 
   if (heading) {
     fields.unshift({
-      name: "Section",
+      name: 'Section',
       value: heading,
-      inline: true,
-    });
+      inline: true
+    })
   }
 
   // FIXME: somehow this is not working, but it worked before
@@ -41,19 +44,20 @@ export default defineEventHandler(async (event) => {
 
   await fetcher()
     .post(env.WEBHOOK_URL, {
-      username: "Feedback",
-      avatar_url: "https://i.kym-cdn.com/entries/icons/facebook/000/043/403/cover3.jpg",
+      username: 'Feedback',
+      avatar_url:
+        'https://i.kym-cdn.com/entries/icons/facebook/000/043/403/cover3.jpg',
       embeds: [
         {
           color: 3447003,
           title: getFeedbackOption(type)!.label,
-          fields,
-        },
-      ],
+          fields
+        }
+      ]
     })
     .catch((error) => {
-      throw new Error(error);
-    });
+      throw new Error(error)
+    })
 
-  return { status: "ok" };
-});
+  return { status: 'ok' }
+})

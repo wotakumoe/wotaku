@@ -1,13 +1,13 @@
 <script setup lang="ts">
 withDefaults(
   defineProps<{
-    text?: string;
-    type?: "info" | "tip" | "warning" | "danger";
-    link: string;
-    icon?: string;
+    text?: string
+    type?: 'info' | 'tip' | 'warning' | 'danger'
+    link: string
+    icon?: string
   }>(),
-  { icon: "i-octicon-link-external-16", type: "tip" },
-);
+  { icon: 'i-octicon-link-external-16', type: 'tip' }
+)
 </script>
 
 <template>

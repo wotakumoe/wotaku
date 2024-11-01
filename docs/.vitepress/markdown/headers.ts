@@ -13,18 +13,18 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 */
-import type { MarkdownRenderer } from "vitepress";
+import type { MarkdownRenderer } from 'vitepress'
 
-const excluded = ["Credits"];
+const excluded = ['Credits']
 
 export const headersPlugin = (md: MarkdownRenderer) => {
   // Add the Feedback component after the heading and close the container
   md.renderer.rules.heading_close = (tokens, idx, options, env, self) => {
-    const result = self.renderToken(tokens, idx, options);
-    const heading = tokens[idx - 1];
-    const level = tokens[idx].tag.slice(1);
-    if (excluded.includes(env.frontmatter.title) || level !== "2") return result;
+    const result = self.renderToken(tokens, idx, options)
+    const heading = tokens[idx - 1]
+    const level = tokens[idx].tag.slice(1)
+    if (excluded.includes(env.frontmatter.title) || level !== '2') return result
 
-    return `<Feedback heading="${heading.content}" />${result}`;
-  };
-};
+    return `<Feedback heading="${heading.content}" />${result}`
+  }
+}

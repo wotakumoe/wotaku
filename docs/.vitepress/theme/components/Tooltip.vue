@@ -1,14 +1,14 @@
 <script setup lang="ts">
 withDefaults(
   defineProps<{
-    title: string;
-    icon: string;
+    title: string
+    icon: string
   }>(),
   {
-    title: "Info",
-    icon: "i-material-symbols-info-i",
-  },
-);
+    title: 'Info',
+    icon: 'i-material-symbols-info-i'
+  }
+)
 </script>
 
 <template>

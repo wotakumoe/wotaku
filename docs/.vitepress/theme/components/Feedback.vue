@@ -1,75 +1,86 @@
 <script setup lang="ts">
-import { computed, ref, reactive } from "vue";
-import { feedbackOptions, type FeedbackType, getFeedbackOption } from "../../types/Feedback";
-import { useRouter, withBase } from "vitepress";
+import { computed, ref, reactive } from 'vue'
+import {
+  feedbackOptions,
+  type FeedbackType,
+  getFeedbackOption
+} from '../../types/Feedback'
+import { useRouter, withBase } from 'vitepress'
 
 const props = defineProps<{
-  heading?: string;
-}>();
+  heading?: string
+}>()
 
 const sluggify = (text: string) =>
   text
     .toLowerCase()
-    .replace(/[^a-z0-9_]+/g, "-")
-    .replace(/--+/g, "-")
-    .replace(/(^-+|-+$)/g, "")
-    .substring(0, 60);
+    .replace(/[^a-z0-9_]+/g, '-')
+    .replace(/--+/g, '-')
+    .replace(/(^-+|-+$)/g, '')
+    .substring(0, 60)
 
 const getURL = (heading: string) =>
-  `https://wotaku.wiki${withBase(router.route.path)}#${sluggify(heading)}`;
+  `https://wotaku.wiki${withBase(router.route.path)}#${sluggify(heading)}`
 
 const prompts = [
-  "Make it count!",
-  "Leave some feedback for us!",
+  'Make it count!',
+  'Leave some feedback for us!',
   `We're all ears 🐰`,
-  "Tell us what is missing in Wotaku",
-  "Your thoughts matter to us 💡",
-  "Feedback is a gift 🎁",
-  "What do you think?",
-  "We appreciate your support 🙏",
-  "We need your help 👋",
-  "Your feedback is valuable 💯",
-  "So... what do you think?",
+  'Tell us what is missing in Wotaku',
+  'Your thoughts matter to us 💡',
+  'Feedback is a gift 🎁',
+  'What do you think?',
+  'We appreciate your support 🙏',
+  'We need your help 👋',
+  'Your feedback is valuable 💯',
+  'So... what do you think?',
   "I guess you don't need to say anything 😉",
-  "Spill the beans 💣",
+  'Spill the beans 💣',
   "We're always looking for ways to improve!.",
-  "aliens are watching you 👽",
-  "tasky was here 👀",
-  "The internet is full of crap 😱",
-];
+  'aliens are watching you 👽',
+  'tasky was here 👀',
+  'The internet is full of crap 😱'
+]
 
 function getPrompt() {
-  return prompts[Math.floor(Math.random() * prompts.length)];
+  return prompts[Math.floor(Math.random() * prompts.length)]
 }
 
 const messages = {
   bug: [
     "We're sorry to hear that!",
-    "Please try to be as specific as possible and provide us with the steps to reproduce the bug.",
+    'Please try to be as specific as possible and provide us with the steps to reproduce the bug.'
   ],
   suggestion: [
     "We're glad you want to share your ideas!",
-    "Nix the fluff and just tell us what you think!",
+    'Nix the fluff and just tell us what you think!',
     "We'll be happy to read your thoughts and incorporate them into our wiki.",
-    "Hello! We're glad you want to share your ideas!",
+    "Hello! We're glad you want to share your ideas!"
   ],
-  appreciation: ["We appreciate your support!", "We're always looking for ways to improve!"],
-  other: ["We're always looking for ways to improve!"],
-};
-
-function getMessage(type: FeedbackType["type"]) {
-  return messages[type][Math.floor(Math.random() * messages[type].length)];
+  appreciation: [
+    'We appreciate your support!',
+    "We're always looking for ways to improve!"
+  ],
+  other: ["We're always looking for ways to improve!"]
 }
 
-const loading = ref<boolean>(false);
-const error = ref<unknown>(null);
-const success = ref<boolean>(false);
+function getMessage(type: FeedbackType['type']) {
+  return messages[type][Math.floor(Math.random() * messages[type].length)]
+}
+
+const loading = ref<boolean>(false)
+const error = ref<unknown>(null)
+const success = ref<boolean>(false)
 
 const isDisabled = computed(() => {
-  return !feedback.message.length || feedback.message.length < 5 || feedback.message.length > 1000;
-});
+  return (
+    !feedback.message.length ||
+    feedback.message.length < 5 ||
+    feedback.message.length > 1000
+  )
+})
 
-const router = useRouter();
+const router = useRouter()
 // prettier-ignore
 const feedback = reactive<
   Pick<FeedbackType, 'message' | 'page'> & Partial<Pick<FeedbackType, 'type'>>
@@ -78,57 +89,57 @@ const feedback = reactive<
   message: ''
 })
 
-const selectedOption = ref(feedbackOptions[0]);
+const selectedOption = ref(feedbackOptions[0])
 
-async function handleSubmit(type?: FeedbackType["type"]) {
+async function handleSubmit(type?: FeedbackType['type']) {
   if (type) {
-    feedback.type = type;
-    selectedOption.value = getFeedbackOption(type)!;
+    feedback.type = type
+    selectedOption.value = getFeedbackOption(type)!
   }
-  loading.value = true;
+  loading.value = true
 
   const body: FeedbackType = {
     message: feedback.message,
     type: feedback.type!,
     page: feedback.page,
-    ...(props.heading && { heading: props.heading }),
-  };
+    ...(props.heading && { heading: props.heading })
+  }
 
   try {
-    const response = await fetch("https://wotaku.tasky.workers.dev", {
-      method: "POST",
+    const response = await fetch('https://wotaku.tasky.workers.dev', {
+      method: 'POST',
       headers: {
-        "Content-Type": "application/json",
+        'Content-Type': 'application/json'
       },
-      body: JSON.stringify(body),
-    });
+      body: JSON.stringify(body)
+    })
 
-    const data = await response.json();
+    const data = await response.json()
     if (data.error) {
-      error.value = data.error;
-      return;
+      error.value = data.error
+      return
     }
-    if (data.status === "ok") {
-      success.value = true;
+    if (data.status === 'ok') {
+      success.value = true
     }
   } catch (err) {
-    error.value = err;
+    error.value = err
   } finally {
-    loading.value = false;
+    loading.value = false
   }
 }
 
-const isCardShown = ref<boolean>(false);
+const isCardShown = ref<boolean>(false)
 const helpfulText = props.heading
-  ? "What do you think about this section?"
-  : "What do you think about this page?";
+  ? 'What do you think about this section?'
+  : 'What do you think about this page?'
 const helpfulDescription = props.heading
-  ? "Let us know how helpful this section is."
-  : "Let us know how helpful this page is.";
+  ? 'Let us know how helpful this section is.'
+  : 'Let us know how helpful this page is.'
 
-const prompt = computed(() => getPrompt());
-const message = computed(() => getMessage(feedback.type!));
-const toggleCard = () => (isCardShown.value = !isCardShown.value);
+const prompt = computed(() => getPrompt())
+const message = computed(() => getMessage(feedback.type!))
+const toggleCard = () => (isCardShown.value = !isCardShown.value)
 </script>
 
 <template>

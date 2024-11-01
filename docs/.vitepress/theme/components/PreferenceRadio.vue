@@ -1,28 +1,28 @@
 <script setup lang="ts">
-import { useLocalStorage } from "@vueuse/core";
+import { useLocalStorage } from '@vueuse/core'
 
 const props = defineProps<{
-  text: string;
-  group: string;
-  options: string[];
-  defaultOption: string;
-  screenMenu?: boolean;
-}>();
+  text: string
+  group: string
+  options: string[]
+  defaultOption: string
+  screenMenu?: boolean
+}>()
 
 const key = removeSpaces(
-  `preference-${props.group}-${props.options.map((key) => key.toLowerCase()).join("-")}`,
-);
-const name = key + (props.screenMenu ? "-screen-menu" : "");
+  `preference-${props.group}-${props.options.map((key) => key.toLowerCase()).join('-')}`
+)
+const name = key + (props.screenMenu ? '-screen-menu' : '')
 
-const selected = useLocalStorage(key, () => props.defaultOption);
+const selected = useLocalStorage(key, () => props.defaultOption)
 
 const optionsWithKeys = props.options.map((option) => ({
-  key: name + "-" + removeSpaces(option),
-  value: option,
-}));
+  key: name + '-' + removeSpaces(option),
+  value: option
+}))
 
 function removeSpaces(str: string) {
-  return str.replace(/\s/g, "_");
+  return str.replace(/\s/g, '_')
 }
 </script>
 

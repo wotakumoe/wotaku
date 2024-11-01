@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import Field from "./CardField.vue";
+import Field from './CardField.vue'
 </script>
 
 <template>

@@ -1,8 +1,8 @@
 <script setup lang="ts">
-import { ref } from "vue";
+import { ref } from 'vue'
 
 // Set a fixed image size
-const imageSize = ref("550px"); // Fixed size for the image
+const imageSize = ref('550px') // Fixed size for the image
 </script>
 
 <template>

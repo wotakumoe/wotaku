@@ -1,24 +1,24 @@
 <script setup lang="ts">
-import { onBeforeMount, ref } from "vue";
+import { onBeforeMount, ref } from 'vue'
 
-const needRefresh = ref(false);
+const needRefresh = ref(false)
 
-let updateServiceWorker: (() => Promise<void>) | undefined;
+let updateServiceWorker: (() => Promise<void>) | undefined
 
 function onNeedRefresh() {
-  needRefresh.value = true;
+  needRefresh.value = true
 }
 async function close() {
-  needRefresh.value = false;
+  needRefresh.value = false
 }
 
 onBeforeMount(async () => {
-  const { registerSW } = await import("virtual:pwa-register");
+  const { registerSW } = await import('virtual:pwa-register')
   updateServiceWorker = registerSW({
     immediate: true,
-    onNeedRefresh,
-  });
-});
+    onNeedRefresh
+  })
+})
 </script>
 
 <template>

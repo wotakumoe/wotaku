@@ -1,4 +1,4 @@
-import { defineConfig } from "vitepress";
-import { shared } from "./configs";
+import { defineConfig } from 'vitepress'
+import { shared } from './configs'
 
-export default defineConfig(shared);
+export default defineConfig(shared)

@@ -1,14 +1,14 @@
 <script setup lang="ts">
-import { useData } from "vitepress";
-import { inject } from "vue";
-import VPIconMoon from "vitepress/dist/client/theme-default/components/icons/VPIconMoon.vue";
-import VPIconSun from "vitepress/dist/client/theme-default/components/icons/VPIconSun.vue";
+import { useData } from 'vitepress'
+import { inject } from 'vue'
+import VPIconMoon from 'vitepress/dist/client/theme-default/components/icons/VPIconMoon.vue'
+import VPIconSun from 'vitepress/dist/client/theme-default/components/icons/VPIconSun.vue'
 
-const { isDark } = useData();
+const { isDark } = useData()
 
-const toggleAppearance = inject("toggle-appearance", () => {
-  isDark.value = !isDark.value;
-});
+const toggleAppearance = inject('toggle-appearance', () => {
+  isDark.value = !isDark.value
+})
 </script>
 
 <template>

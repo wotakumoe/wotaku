@@ -1,8 +1,8 @@
 <script setup lang="ts">
-import { computed } from "vue";
-import { contribs, type Contributors } from "../../credits";
+import { computed } from 'vue'
+import { contribs, type Contributors } from '../../credits'
 
-const contributors = computed(() => contribs || ({} as Contributors));
+const contributors = computed(() => contribs || ({} as Contributors))
 </script>
 
 <template>
