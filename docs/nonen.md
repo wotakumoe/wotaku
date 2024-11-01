@@ -600,15 +600,15 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Vui Ghe](https://vuighe3.com/)
 - [WebLinhTinh](https://weblinhtinh.net/)
 
-### Manga
+### Comics
+- [Bao Tang Truyen](https://baotangtruyen20.com/)
 - [BlogTruyenMoi](https://blogtruyenmoi.com/)
-- [BlogTruyenVN](https://blogtruyenvn.com/)
 - [COMI](https://comi.mobi/)
 - [Cuu Truyen](https://cuutruyen.net/)
 - [Doc Truyen Online](https://dtruyen.com/)
 - [Fecomic](https://fecomicc.xyz/)
-- [Goc Truyen Tranh](https://goctruyentranhvui1.com/trang-chu)
-- [HanulTruyen](https://hanultruyen.net/)
+- [Goc Truyen Tranh](https://goctruyentranhvui3.com/trang-chu)
+- [HanulTruyen](https://hanultruyen.net/) <Badge type="danger" text="18+" />
 - [Truyencc](https://truyencc.com//)
 - [Truyen Sieuhay](https://truyensieuhay.com/)
 
