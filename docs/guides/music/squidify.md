@@ -44,7 +44,7 @@ Squidify is based on Navidrome which has its own set of third-party Apps besides
     - [STMP](https://github.com/wildeyedskies/stmp#readme) <Badge type="info" text="Linux" /><Badge type="info" text="MacOS" />
 
 == Others
-- [SonicLair](https://play.google.com/store/apps/details?id=tech.logica10.soniclair) <Badge type="info" text="Android TV" />
+- [SonicLair](https://github.com/thelinkin3000/SonicLair) <Badge type="info" text="Android TV" />
 - **Connected Speakers**
   - [bonob](https://github.com/simojenki/bonob#readme) <Badge type="info" text="Sonos" />
   - [AskSonic](https://github.com/srichter/asksonic#readme) <Badge type="info" text="Alexa" />

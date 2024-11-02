@@ -152,7 +152,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [Nightwave Plaza](https://plaza.one/) [:mdi-github:](https://github.com/nightwaveplaza/plaza) [:mdi-android:](https://play.google.com/store/apps/details?id=one.plaza.nightwaveplaza) [:ic-baseline-apple:](https://apps.apple.com/us/app/nightwave-plaza/id1532678227) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://plaza.one/plaza.m3u" /><Badge type="info" text="Vaporwave" />
 - [Patchwork Radio](https://patchwork.moekyun.me/radio) :glowing-star: <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://a4.asurahosting.com/public/patchworkarchive/playlist.m3u" /><Badge type="info" text="VTuber" />
 - [Sasalele Music Station](https://basic.pp.ua/) [:mdi-github:](https://github.com/Mikeexe2/Sasalele-Music-Station) <Badge type="info" text="Aggregator" />
-- [Wapchan](https://wapchan.org/.static/pages/radio.html) <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://radio.wapchan.org/wapfm.m3u" /><Badge type="info" text="City Pop" />
+- [Wapchan](https://radio.wapchan.org/public/wapfm) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://radio.wapchan.org/public/wapfm/playlist.pls" /><Badge type="info" text="City Pop" />
 - [Yumi Co. Radio](https://yumicoradio.net/) <Badge type="info" icon="i-material-symbols-download-2" text="256kbps" link="http://s1.yumicoradio.net:8000/stream.m3u" /><Badge type="info" text="City Pop" />
 
 ## Anime
@@ -209,7 +209,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 
 
 ## Spotify
-- [Album Availability on Spotify](https://kaaes.github.io/) [:mdi-github:](https://github.com/kaaes/albums-availability)
+- [Album Availability on Spotify](https://kaaes.github.io/albums-availability/) [:mdi-github:](https://github.com/kaaes/albums-availability)
 - [Check Track Availability](https://spotify-check-track-availability.vercel.app/) [:mdi-github:](https://github.com/wcelery/spotify-check-track-availability)
 - [Chosic](https://www.chosic.com/) :glowing-star:
 - [Discover Quickly](https://discoverquickly.com/)
@@ -563,7 +563,7 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
     - [STMP](https://github.com/wildeyedskies/stmp#readme) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
 ## Others
-- [SonicLair](https://play.google.com/store/apps/details?id=tech.logica10.soniclair) <Badge type="info" text="Android TV" />
+- [SonicLair](https://github.com/thelinkin3000/SonicLair) <Badge type="info" text="Android TV" />
 - **Connected Speakers**
   - [bonob](https://github.com/simojenki/bonob#readme) <Badge type="info" text="Sonos" />
   - [AskSonic](https://github.com/srichter/asksonic#readme) <Badge type="info" text="Alexa" />

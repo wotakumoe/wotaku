@@ -382,7 +382,7 @@ outline: 1
 ## Reader
 
 - [Novel Updates](https://www.novelupdates.com/)
-- [Baka-tsuki](https://www.baka-tsuki.org/project/index.php?title=main_page)
+- [Baka-tsuki](https://www.baka-tsuki.org/project/index.php?title=Main_Page)
 - [Boxnovel](https://boxnovel.com/)
 - [Light Novel Pub](https://www.lightnovelpub.com/) <Badge type="tip" text="Light Novel World" link="https://www.lightnovelworld.com/" />
 - [Novel Bin](https://novelbin.com/)
