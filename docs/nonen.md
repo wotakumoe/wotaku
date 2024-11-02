@@ -241,6 +241,7 @@ If you have recommendations for good sites in your native language or want to re
 - **Stream**
   - [AllWish](https://all-wish.me/home)
   - [Anime World](https://anime-world.in/)
+  - [Anisaga](https://anisaga.org/)
   - [Anplay](https://anplay.in/)
   - [Dora Bash](https://doraemontheanime.com/)
   - [HiddenLeaf](https://hiddenleaf.to/home/)
