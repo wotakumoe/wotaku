@@ -546,10 +546,10 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Manga Crab](https://mangacrab.com/)
 - [Notasanime](https://ver.notasanime.me/)
 
-### Others
-- [ANMOSugoi](https://www.anmosugoi.com/) <Badge type="info" text="News" />
-- [RamenParaDos](https://ramenparados.com/) <Badge type="info" text="News" />
-- [MisionTokyo](http://misiontokyo.com/) <Badge type="info" text="News" />
+### News
+- [ANMOSugoi](https://www.anmosugoi.com/)
+- [RamenParaDos](https://ramenparados.com/)
+- [MisionTokyo](http://misiontokyo.com/)
 
 ### Software
 
