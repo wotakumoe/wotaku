@@ -547,7 +547,9 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Notasanime](https://ver.notasanime.me/)
 
 ### Others
-- [Kudasai](https://somoskudasai.com/) <Badge type="info" text="News" />
+- [ANMOSugoi](https://www.anmosugoi.com/) <Badge type="info" text="News" />
+- [RamenParaDos](https://ramenparados.com/) <Badge type="info" text="News" />
+- [MisionTokyo](http://misiontokyo.com/) <Badge type="info" text="News" />
 
 ### Software
 
