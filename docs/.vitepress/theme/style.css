@@ -239,7 +239,6 @@ main figure {
 main figure img {
   margin: 0 auto;
   border-radius: 12px;
-  box-shadow: 2px 2px 8px 4px var(--vp-c-bg-alt);
 }
 
 main figure figcaption {
