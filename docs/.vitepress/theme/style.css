@@ -407,3 +407,9 @@ main figure figcaption {
 .vp-nolebase-git-changelog a {
   text-decoration: none !important;
 }
+
+.VPFooter {
+  .divider {
+    color: var(--vp-c-divider);
+  }
+}

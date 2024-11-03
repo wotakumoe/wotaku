@@ -1,4 +1,4 @@
-import { type Theme } from 'vitepress'
+import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import '@nolebase/vitepress-plugin-git-changelog/client/style.css'
 import './style.css'
@@ -27,26 +27,22 @@ export default {
   enhanceApp({ app, router, siteData }) {
     app.use(FloatingVue, {
       themes: {
-        'info-tooltip': {
+        'vp-tooltip': {
           $extend: 'tooltip',
           $resetCss: true,
-          triggers: ['click']
+          triggers: ['hover', 'touch']
         }
       }
     })
     createScienceProvider()
-    // @ts-expect-error
     enhanceAppWithTabs(app)
     app.component('Button', Button)
     app.component('Authors', Authors)
     app.component('Tooltip', Tooltip)
     app.component('Feedback', Feedback)
     app.component('PreferenceRadio', PreferenceRadio)
-    // @ts-expect-error
     createMediumZoomProvider(app, router)
-    // @ts-expect-error
     app.use(Components)
-    // @ts-expect-error
     app.use(NolebaseGitChangelogPlugin, {
       commitsRelativeTime: true,
       hideChangelogHeader: true,
@@ -64,7 +60,6 @@ export default {
       ]
     })
     app.use(
-      // @ts-expect-error
       NolebasePagePropertiesPlugin<{ tags: string[]; progress: number }>(),
       [
         {

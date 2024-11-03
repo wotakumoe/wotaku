@@ -331,6 +331,7 @@ export const shared: UserConfig<DefaultTheme.Config> = {
     hostname: hostname
   },
   transformHead: async (context) => generateMeta(context, hostname),
+  // biome-ignore lint/suspicious/useAwait: <explanation>
   buildEnd: async (context) => {
     generateImages(context)
   },
@@ -397,7 +398,8 @@ export const shared: UserConfig<DefaultTheme.Config> = {
       }
     ],
     footer: {
-      message: `Made with love by <a href="https://github.com/wotakumoe">wotaku</a>. <a href="https://github.com/wotakumoe/Wotaku/commit/${GIT_COMMIT}">Commit: ${GIT_COMMIT.slice(0, 7)}</a>`
+      message: `<a href="https://github.com/wotakumoe">The Wotaku Team</a> <span class="divider">|</span> <a href="https://github.com/wotakumoe/Wotaku/commit/${GIT_COMMIT}">${GIT_COMMIT.slice(0, 7)}</a>`,
+      copyright: `Copyright © ${new Date().getFullYear()} The Wotaku Team <br/> made with love and eepy energy`
     }
   },
   vite: {
