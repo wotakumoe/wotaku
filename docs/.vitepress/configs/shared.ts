@@ -399,7 +399,7 @@ export const shared: UserConfig<DefaultTheme.Config> = {
     ],
     footer: {
       message: `<a href="https://github.com/wotakumoe">The Wotaku Team</a> <span class="divider">|</span> <a href="https://github.com/wotakumoe/Wotaku/commit/${GIT_COMMIT}">${GIT_COMMIT.slice(0, 7)}</a>`,
-      copyright: `Copyright © ${new Date().getFullYear()} The Wotaku Team <br/> made with love and eepy energy`
+      copyright: `made with love and eepy energy`
     }
   },
   vite: {
