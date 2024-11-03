@@ -180,7 +180,6 @@ outline: [2,3]
   - [WARP through WireGuard](https://rentry.co/foss-warp)
   - [wgcf](https://github.com/ViRb3/wgcf)
   - [Oblivion](https://github.com/bepass-org/oblivion-desktop)
-  - [Key Generate](https://github.com/nxvvvv/warp-plus)
 - [RiseupVPN](https://riseup.net/en/vpn)
 
 <Button link="https://www.techlore.tech/vpn" icon="i-fxemoji-lightbulb">Go through Techlore's VPNs comparison for more details</Button>
