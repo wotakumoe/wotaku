@@ -101,17 +101,22 @@ outline: [1,2]
 
 
 ## Illustrations
-- [Boorusama](https://github.com/khoadng/Boorusama) :glowing-star:
-- [Boorusphere](https://github.com/nullxception/boorusphere) <tooltip>Repo is archived, but still works as of October 25, 2024.</tooltip>
-- [pixes](https://github.com/wgh136/pixes) :glowing-star:
-- [Pixiv](https://play.google.com/store/apps/details?id=jp.pxv.android)
-- [Mikansei](https://github.com/uragiristereo/Mikansei)
-- [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/)
-- [PixiView](https://github.com/matsumo0922/PixiView-KMP)
-- [Wallflow](https://github.com/ammargitham/WallFlow)
-- [RWalls](https://github.com/meh430/RWalls)
-- [Pixiv for Muzei 3](https://github.com/yellowbluesky/PixivforMuzei3)
-- [Anime Boxes](https://www.animebox.es/)
+
+- **Booru**
+  - [Boorusama](https://github.com/khoadng/Boorusama) :glowing-star:
+  - [Boorusphere](https://github.com/nullxception/boorusphere) <tooltip>Repo is archived, but still works as of October 25, 2024.</tooltip>
+  - [Mikansei](https://github.com/uragiristereo/Mikansei)
+  - [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/)
+  - [Anime Boxes](https://www.animebox.es/)
+- **Pixiv**
+  - [pixes](https://github.com/wgh136/pixes) :glowing-star:
+  - [Pixiv](https://play.google.com/store/apps/details?id=jp.pxv.android)
+  - [Pix-EzViewer](https://github.com/ultranity/Pix-EzViewer)
+  - [PixiView](https://github.com/matsumo0922/PixiView-KMP)
+- **Others**
+  - [Wallflow](https://github.com/ammargitham/WallFlow)
+  - [RWalls](https://github.com/meh430/RWalls)
+  - [Pixiv for Muzei 3](https://github.com/yellowbluesky/PixivforMuzei3)
 
 ## Others
 - [Nekotatsu](https://github.com/PhantomShift/nekotatsu) <Badge type="info" text="Needs PC" />
