@@ -5,7 +5,6 @@ layout: home
 hero:
   name: "Wotaku"
   text: "The Otaku Index"
-  tagline: A wide array of weeb resources
   announcement:
     title: Mihon & Aniyomi Extensions
     link: /guides/tech/repo
