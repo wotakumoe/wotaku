@@ -106,6 +106,7 @@ outline: [1,2]
 - [pixes](https://github.com/wgh136/pixes) :glowing-star:
 - [Pixiv](https://play.google.com/store/apps/details?id=jp.pxv.android)
 - [Mikansei](https://github.com/uragiristereo/Mikansei)
+- [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/)
 - [PixiView](https://github.com/matsumo0922/PixiView-KMP)
 - [Wallflow](https://github.com/ammargitham/WallFlow)
 - [RWalls](https://github.com/meh430/RWalls)
@@ -389,6 +390,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - :material-symbols-subdirectory-arrow-right: [More subtitle tools](/japan/software.md#subtitle)
 
 ## Illustrations
+- [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [pixes](https://github.com/wgh136/pixes) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Pixeval](https://pixeval.github.io/) [:mdi-github:](https://github.com/Pixeval/Pixeval) :ic-baseline-window:
 - [Pixiv Powerful Viewer](https://github.com/fekoneko/pixiv-powerful-viewer) :ic-baseline-window:
