@@ -62,7 +62,7 @@ Adding a lot of filters to your adblocker (that you don't specifically need) can
 :::
 
 - [Actually Legitimate URL Shortener Tool](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt)
-- [FMHY Filterlist](https://fmhy.github.io/FMHYFilterlist/site/index.html)
+- [FMHY Filterlist](https://github.com/fmhy/FMHYFilterlist)
 - [Hagezi DNS Blocklists](https://github.com/hagezi/dns-blocklists)
 - [Yokoffing Filterlists](https://github.com/yokoffing/filterlists) 
 
