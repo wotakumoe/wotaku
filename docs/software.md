@@ -109,10 +109,11 @@ outline: [1,2]
   - [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/)
   - [Anime Boxes](https://www.animebox.es/)
 - **Pixiv**
-  - [pixes](https://github.com/wgh136/pixes) :glowing-star:
+  - [PixEz](https://github.com/Notsfsssf/pixez-flutter) :glowing-star:
+  - [pixes](https://github.com/wgh136/pixes)
+  - [PixShaft](https://github.com/CeuiLiSA/Pixiv-Shaft)
   - [Pixiv](https://play.google.com/store/apps/details?id=jp.pxv.android)
-  - [Pix-EzViewer](https://github.com/ultranity/Pix-EzViewer)
-  - [PixiView](https://github.com/matsumo0922/PixiView-KMP)
+  - [PixiView](https://github.com/matsumo0922/PixiView-KMP) <Badge type="info" text="Fanbox" />
 - **Others**
   - [Wallflow](https://github.com/ammargitham/WallFlow)
   - [RWalls](https://github.com/meh430/RWalls)
