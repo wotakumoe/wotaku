@@ -77,6 +77,7 @@ features:
 ---
 
 <script setup>
+import ChristmasCard from "./.vitepress/theme/components/ChristmasCard.vue";
 if (!import.meta.env.SSR) {
   const images = {
     normal: {
@@ -132,3 +133,5 @@ if (!import.meta.env.SSR) {
   }
 }
 </script>
+
+<ChristmasCard />
