@@ -30,7 +30,8 @@ export default {
         'vp-tooltip': {
           $extend: 'tooltip',
           $resetCss: true,
-          triggers: ['click']
+          triggers: ['click', 'touch'],
+          autoHide: true
         }
       }
     })
