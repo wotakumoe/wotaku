@@ -23,7 +23,7 @@ Some apps might not support **Auto Install method**. That doesn't mean the guide
 | [Dark25](https://github.com/Dark25/aniyomi-extensions) | :globe-showing-asia-australia: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/Dark25/aniyomi-extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Dark25/aniyomi-extensions/repo/index.min.json) |
 | [hollow](https://codeberg.org/hollow/aniyomi-extensions-fr) | :flag-france: | [Install](aniyomi://add-repo?url=https://codeberg.org/hollow/aniyomi-extensions-fr/media/branch/repo/index.min.json) | [URL](https://codeberg.org/hollow/aniyomi-extensions-fr/media/branch/repo/index.min.json) |
 | [Claudemirovsky](https://github.com/Claudemirovsky/cursedyomi-extensions) | :flag-brazil: :flag-turkiye: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/Claudemirovsky/cursedyomi-extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Claudemirovsky/cursedyomi-extensions/repo/index.min.json) |
-
+| [Secozzi](https://github.com/Secozzi/aniyomi-extensions) | :globe-showing-asia-australia: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/Secozzi/aniyomi-extensions/refs/heads/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Secozzi/aniyomi-extensions/refs/heads/repo/index.min.json) |
 
 ### Manga
 | Name | Region | Auto | Manual |
