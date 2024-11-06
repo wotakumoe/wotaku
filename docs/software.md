@@ -299,6 +299,13 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [PixivUtil2](https://github.com/Nandaka/PixivUtil2) :ic-baseline-window:
 
+::: details :material-symbols-subdirectory-arrow-right: Related resources
+- [Pixiv OAuth Flow (with browser dev console) by ZipFile](https://gist.github.com/ZipFile/c9ebedb224406f4f11845ab700124362) :glowing-star:
+- [Pixiv OAuth Flow (with Selenium) by upbit](https://gist.github.com/upbit/6edda27cb1644e94183291109b8a5fde)
+- [get pixivpy token](https://github.com/eggplants/get-pixivpy-token)
+
+:::
+
 
 ## Anime Tools
 - [Anicon](https://github.com/notdedsec/anicon) <Badge type="info" text="AniList" link="https://github.com/EnArvy/AniconforAnilist"/>:ic-baseline-window:
