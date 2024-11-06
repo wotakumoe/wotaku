@@ -148,7 +148,9 @@ outline: [1,2]
 - **Optimizer**
   - [imgdanke](https://github.com/DrWhoCares/imgdanke) <tooltip>Optional for GUI but does not support Pingo v1+ at the moment.</tooltip>
   - [ImageMagick](https://imagemagick.org/index.php) <Badge type="tip" text="Scripts" link="https://www.fmwconcepts.com/imagemagick/index.php" />
-  - [Pingo](https://css-ig.net/pingo) <Badge type="tip" text="Pinga" link="https://css-ig.net/pinga" />
+  - [FotoKilof](https://github.com/TeaM-TL/FotoKilof)
+  - [pingo](https://css-ig.net/pingo)
+  - [pinga](https://css-ig.net/pinga)
 - **Processor / Upscaler**
   - [chaiNNer](https://github.com/chaiNNer-org/chaiNNer)
   - [Magpie](https://github.com/Blinue/Magpie)
