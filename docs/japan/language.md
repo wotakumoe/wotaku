@@ -221,7 +221,6 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
   - [Original version](https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit)
   - [Mordraug version](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit)
   - [Kellen version](https://kellenok.github.io/cure-script/) :glowing-star:
-  - [onlyduyy version](https://onlyduyy.github.io/cure-dolly-transcript/cure-dolly.html)
 - [Learning Japanese When You Think In A Western Language](https://kimallen.sheepdogdesign.net/)
 - [昨日 Sakubi: Yesterday's Grammar Guide](https://sakubi.neocities.org/)
 - [A Beginner’s Japanese Grammar Guide](https://www.japanistry.com/japanese-grammar-guide/)

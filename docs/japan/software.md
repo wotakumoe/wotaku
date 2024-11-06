@@ -85,7 +85,6 @@ outline: [2,3]
 - [Kaku Japanese Dictionary (OCR)](https://play.google.com/store/apps/details?id=ca.fuwafuwa.kaku)
 - [Nani?](https://f-droid.org/en/packages/eu.lepiller.nani/)
 - [Rin](https://github.com/kamui-fin/rin)
-- [Sumatora Japanese Dictionary](https://play.google.com/store/apps/details?id=org.happypeng.sumatora.android.sumatoradictionary)
 
 #### Apple
 - [Kantan Manga](https://apps.apple.com/us/app/kantan-manga/id1518666365)
@@ -98,7 +97,6 @@ outline: [2,3]
 - [jidoujisho](https://github.com/lrorpilla/jidoujisho) :glowing-star:
 - [Kakugo](https://play.google.com/store/apps/details?id=org.kaqui) [:mdi-github:](https://github.com/blastrock/kakugo)
 - [KankenToNews](https://play.google.com/store/apps/details?id=jp.kyoto.nlp.kanken)
-- [Kanji Garden](https://play.google.com/store/apps/details?id=is.ky.kanjigarden) [:mdi-earth:](https://kanji.garden/)
 - [Kanji Dojo](https://play.google.com/store/apps/details?id=ua.syt0r.kanji)
 - [Kata](https://play.google.com/store/apps/details?id=im.dacer.kata)
 - [kawaiiNihongo](https://play.google.com/store/apps/details?id=de.mardukcorp.kawaiinihongo)
@@ -124,7 +122,6 @@ outline: [2,3]
 - [OCR Manga Reader for Android](https://sourceforge.net/projects/ocrmangareaderforandroid/)
 - [Satori Reader](https://play.google.com/store/apps/details?id=com.braksoftware.SatoriReader) [:mdi-earth:](https://www.satorireader.com/)
 - [Write It! Japanese](https://play.google.com/store/apps/details?id=com.jernung.writeit.jpn)
-- [Typhon Reader](https://play.google.com/store/apps/details?id=net.zorgblub.typhon)
 
 
 #### Apple

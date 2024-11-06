@@ -12,7 +12,6 @@ outline: [2,3]
 
 ### Websites
 - [Web Japan](https://web-japan.org/) :glowing-star: <Badge type="info" text="Old" link="https://web-japan.org/atlas/index.html" /> 
-- [Do You Know Japan?](https://doyouknowjapan.com/)
 - [Japanese Wiki](https://www.japanesewiki.com/)
 - [Japan Reference](https://jref.com/)
 - [Japan: Below the tip of the iceberg](https://prezi.com/9_lvn6v3fzgt/japan-below-the-tip-of-the-iceberg/) <Badge type="tip" text="Gaijin" link="https://old.reddit.com/r/IcebergCharts/comments/n4edop/gaijin_foreigners_in_japan_iceberg/" />
@@ -99,7 +98,7 @@ outline: [2,3]
 - [Just One Cookbook](https://www.justonecookbook.com/) <Badge type="info" text="Youtube" link="https://www.youtube.com/@justonecookbook" />
 - [Sirogohan](https://www.sirogohan.com/) <Badge type="info" text="Youtube" link="https://www.youtube.com/@sirogohancom/" />
 - [Cooking with Dog](https://cookingwithdog.com/) <Badge type="info" text="Youtube" link="https://www.youtube.com/@cookingwithdog" />
-- [Japanese Cooking 101](https://www.japanesecooking101.com/) <Badge type="info" text="Youtube" link="https://www.youtube.com/@recipetinjapan3806/" />
+- [Japanese Cooking 101](https://www.japanesecooking101.com/) <Badge type="info" text="Youtube" link="https://www.youtube.com/@JapaneseCooking101/" />
 - [RecipeTin Japan](https://japan.recipetineats.com/) <Badge type="info" text="Youtube" link="https://www.youtube.com/@JapaneseCooking101" />
 - [Kurashiru](https://www.kurashiru.com/)
 - [Chopstick Chronicles](https://www.chopstickchronicles.com/)

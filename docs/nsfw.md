@@ -25,7 +25,6 @@ outline: [1,2]
 - [Hentai Mama](https://hentaimama.io/)
 - [Hentai Stream](https://hstream.moe/) <Badge type="info" text="Upscale" />
 - [Hentai World](https://hentaiworld.tv/)
-- [Hentaini](https://hentaini.com/hnihome)
 - [Hentaverse](https://hentaverse.com/)
 - [HMV Mania](https://hmvmania.com/) <Badge type="tip" text="/h/ thread" link="https://archived.moe/h/thread/7621997/" />
 - [Mucho Hentai](https://muchohentai.com/) <Badge type="info" text="Schedule" /><Badge type="info" text="PV" />
@@ -46,7 +45,6 @@ outline: [1,2]
 - [Hitomi](https://hitomi.la/) <tooltip>Big Library but difficult to navigate.</tooltip>
 - [Koharu](https://niyaniya.moe/) <tooltip>fakku/irodori rips (official TLs).</tooltip>
 - [Panda Backup](https://panda.chaika.moe/) <tooltip>Archive of stuff removed from E-Hentai due to DMCA complaints. Has some obscure stuff deleted on most sites.</tooltip>
-- [Sukidesu](https://sukidesu.moe/)
 - [Yabai](https://yabai.si/) <tooltip>E-Hentai clone.</tooltip>
 
 ### English-only

@@ -14,7 +14,7 @@ customDescription: Adblocking Solutions for every device
   - [RethinkDNS](https://rethinkdns.com/)
   - :material-symbols-subdirectory-arrow-right: [DNS based](#dns)
 - **Browser**
-  - [Brave](https://play.google.com/store/apps/details?id=com.brave.browse)
+  - [Brave](https://play.google.com/store/apps/details?id=com.brave.browser)
   - [Cromite](https://github.com/uazo/cromite)
   - [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
   - [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)

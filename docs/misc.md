@@ -211,7 +211,6 @@ outline: [1,2]
 - [Settai Dreams](https://setteidreams.net/) :glowing-star:
 - [Anime Pictures](https://anime-pictures.net/) <Badge type="green" text="SFW" />
 - [Kemono](https://kemono.su/)
-- [Minitokyo](http://www.minitokyo.net/)
 - [Studio Ghibli](https://www.ghibli.jp/info/013772/) <Badge type="green" text="SFW" />
 - [Wallhaven](https://wallhaven.cc/)
 - [wanderer.moe](https://wanderer.moe/) [:mdi-github:](https://github.com/wanderer-moe/site)
