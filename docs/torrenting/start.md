@@ -50,7 +50,7 @@ The columns are customizable. You can rearrange them, adjust width or choose whi
 8. The number of people seeding (uploading) the files. The number inside the () means total people seeding, outside one means the number of people you are downloading from.
 9. The number of people leeching (downloading) from you. The brackets work the same as in the previous column.
 10. The amount of Uploaded divided by Downloaded data. In general, it's good practice to keep it higher. Not necessary for public trackers, but you need to keep it above 1 for private trackers.
-11. Availability indicates the health of the given torrent. Being eqaul or greater than 1 means that all files are available for download. If it's less than 1, you can't fully download the torrent.
+11. Availability indicates the health of the given torrent. Being equal or greater than 1 means that all files are available for download. If it's less than 1, you can't fully download the torrent.
 
 :::
 
@@ -60,11 +60,11 @@ The columns are customizable. You can rearrange them, adjust width or choose whi
 
 1. Go to the torrent page
 2. **Right click** on :mdi-magnet: Magnet
-3. Cick **Copy Link**
-4. Go to qBittorent
+3. Click **Copy Link**
+4. Go to qBittorrent
 5. Click on **Add Torrent Link**
 6. The magnet URL should be auto pasted in the filed. If not, paste it there manually. Click **Download**.
-7. After loading for a few seconds (depending on the seeds) it will show all the files and folders, where to download them, and other setings. After adjusting everything, click **OK**
+7. After loading for a few seconds (depending on the seeds) it will show all the files and folders, where to download them, and other settings. After adjusting everything, click **OK**
 
 ::: details Image Preview
 
@@ -76,7 +76,7 @@ The columns are customizable. You can rearrange them, adjust width or choose whi
 
 :::
 
-You can also open the magent link just by clicking on it, after selecting your default torrent downloader:
+You can also open the magnet link just by clicking on it, after selecting your default torrent downloader:
 1. left click on it
 2. Check "Always allow https://nyaa.si/ to open **magnet** links"
 3. Click **Choose Application**
@@ -102,4 +102,4 @@ You can also open the magent link just by clicking on it, after selecting your d
 ### Using .torrent File
 1. Click on **Download Torrent**. It will download a `.torrent` file.
 2. Double click on it.
-3. It will show all the files and folders, where to download them, and other setings. After adjusting everything, click **OK**
+3. It will show all the files and folders, where to download them, and other settings. After adjusting everything, click **OK**
