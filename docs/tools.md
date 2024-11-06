@@ -390,6 +390,7 @@ outline: [1,2]
   - [Dollchan](https://github.com/SthephanShinkufag/Dollchan-Extension-Tools/)
 - **Pixiv**
   - [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE%2B)
+  - [Pixiv Downloader](https://sleazyfork.org/zh-CN/scripts/432150-pixiv-downloader) [:mdi-github:](https://github.com/drunkg00se/Pixiv-Downloader)
   - [Pixiv Infinite Scroll](https://github.com/hamachi25/Pixiv-Infinite-Scroll)
   - [ppixiv for Pixiv](https://greasyfork.org/en/scripts/370418-ppixiv-for-pixiv) [:mdi-github:](https://github.com/ppixiv/ppixiv)
   - [Pixiv Preview](https://greasyfork.org/en/scripts/39387-pixiv-arts-preview-followed-atrists-coloring-extended-history) [:mdi-github:](https://github.com/NightLancer/PixivPreview)
