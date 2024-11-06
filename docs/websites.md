@@ -512,6 +512,7 @@ outline: 1
 ## Others
 - **Info**
   - [CMRO](https://cmro.travis-starnes.com/)
+  - [Comichron](https://www.comichron.com/index.php)
   - [Comic Book Herald](https://www.comicbookherald.com/)
   - [Comic Book Reading Orders](https://comicbookreadingorders.com/)
   - [Comic Book Treasury](https://www.comicbooktreasury.com/)
