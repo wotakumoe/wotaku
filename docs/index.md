@@ -9,7 +9,7 @@ hero:
     title: Mihon & Aniyomi Extensions
     link: /guides/tech/repo
   image:
-    src: /plushies/webp/ina.webp
+    src: /plushies/webp/kronii.webp
     alt: Wotaku
   actions:
     - theme: brand
