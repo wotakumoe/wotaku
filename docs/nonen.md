@@ -412,7 +412,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [NanaSubs](https://nanasubs.com/)
 - [Oglądaj Anime](https://ogladajanime.pl/)
 - [Okami-Subs](https://okami-subs.pl/)
-- [Shinden](https://shinden.pl/main)
+- [Shinden](https://shinden.pl/main) <Badge type="info" text="Client" link="https://github.com/KlapChat-Entertainment/shinden-client" />
 - [Wbijam](https://web.archive.org/web/20241001185535/https://www.wbijam.pl/)
 
 
@@ -459,6 +459,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [AnimeJoy](https://animejoy.ru/)
 - [Animelayer](http://animelayer.ru/) <Badge type="info" text="Torrent" />
 - [AnimeStars](https://animestars.org/) <Badge type="info" text="Aggregator" />
+- [Anisun](https://anisun.vercel.app/en) [:mdi-github:](https://github.com/notwindstone/anisun)
 - [ANIXART](https://anixart-tv.org/) <Badge type="info" text="Aggregator" />
 - [Averlist](https://averlist.ru/) [:mdi-github:](https://github.com/Averito/Averlist)
 - [Dark Libria](https://darklibria.it/) <Badge type="info" text="Stream" /><Badge type="info" text="Torrent" />
