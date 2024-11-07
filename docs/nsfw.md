@@ -43,7 +43,7 @@ outline: [1,2]
 - [IMHentai](https://imhentai.xxx/) <tooltip>Big Library and great search filters.</tooltip>
 - [HentaiRead](https://hentairead.com/)
 - [Hitomi](https://hitomi.la/) <tooltip>Big Library but difficult to navigate.</tooltip>
-- [Koharu](https://niyaniya.moe/) <tooltip>fakku/irodori rips (official TLs).</tooltip>
+- [Koharu](https://schale.network/) <Badge text="2" link="https://gehenna.jp/" /><tooltip>fakku/irodori rips (official TLs).</tooltip>
 - [Panda Backup](https://panda.chaika.moe/) <tooltip>Archive of stuff removed from E-Hentai due to DMCA complaints. Has some obscure stuff deleted on most sites.</tooltip>
 - [Yabai](https://yabai.si/) <tooltip>E-Hentai clone.</tooltip>
 
