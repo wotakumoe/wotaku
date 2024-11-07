@@ -363,16 +363,6 @@ outline: [1,2]
 - [Ragtag Player](https://archive.ragtag.moe/player)
 - [ffmprovisr](https://amiaopensource.github.io/ffmprovisr/)
 
-::: details Hosting sites
-
-| Website                                     | Storage   | Expire        |
-| ------------------------------------------- | --------- | ------------- |
-| [buzzheavier](https://buzzheavier.com/)     | Unlimited | :cross-mark:  |
-| [file.haus](https://filehaus.pk/)           | Unlimited | :cross-mark:  |
-| [Gofile](https://gofile.io/)                | Unlimited | 10 days       |
-
-:::
-
 
 ## Extensions
 
