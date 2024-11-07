@@ -49,8 +49,8 @@ outline: [1,2]
 ### Online
 - [Mihon](https://mihon.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" /> [:mdi-github:](https://github.com/mihonapp/mihon)
   - [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:mdi-github:](https://github.com/jobobby04/TachiyomiSY)
-  - [TachiyomiJ2K](https://mihon.app/forks/TachiyomiJ2K/) :glowing-star: [:mdi-github:](https://github.com/Jays2Kings/tachiyomiJ2K)
-  - [Yokai](https://github.com/null2264/yokai)
+  - [TachiyomiJ2K](https://mihon.app/forks/TachiyomiJ2K/) [:mdi-github:](https://github.com/Jays2Kings/tachiyomiJ2K)
+  - [Yokai](https://mihon.app/forks/Yokai/) :glowing-star: [:mdi-github:](https://github.com/null2264/yokai)
   - [Komikku](https://github.com/komikku-app/komikku)
 - [Kotatsu](https://kotatsu.app/) [:mdi-github:](https://github.com/KotatsuApp/Kotatsu)
 

@@ -32,7 +32,7 @@ If you have recommendations for good sites in your native language or want to re
 
 ### Others
 
-- [Mihon](https://github.com/mihonapp/mihon) <Badge type="tip" text="Ext" link="https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo" /><Badge type="tip" text="J2K" link="https://github.com/Jays2Kings/tachiyomiJ2K" /><Badge type="tip" text="SY" link="https://github.com/jobobby04/TachiyomiSY" />
+- [Mihon](https://github.com/mihonapp/mihon) <Badge type="tip" text="Ext" link="https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo" />
 - [Aniyomi](https://github.com/jmir1/aniyomi/) [:mdi-earth:](https://aniyomi.org/)<Badge text="Anime" /><Badge type="info" text="Manga" />
 
 

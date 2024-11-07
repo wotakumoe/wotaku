@@ -56,7 +56,7 @@ outline: [2,3]
 
 - **Android**
   - [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:mdi-github:](https://github.com/jobobby04/TachiyomiSY)
-  - [TachiyomiJ2K](https://mihon.app/forks/TachiyomiJ2K/) :glowing-star: [:mdi-github:](https://github.com/Jays2Kings/tachiyomiJ2K)
+  - [Yokai](https://mihon.app/forks/Yokai/) :glowing-star: [:mdi-github:](https://github.com/null2264/yokai)
   - [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :glowing-star: <Badge type="warning" text="Freemium" /><Badge type="info" text="Local" />
 - **iOS**
   - [Paperback](https://github.com/Paperback-iOS/app) <Badge type="tip" text="Sources" link="https://thenetsky.github.io/netskys-extensions/" />
