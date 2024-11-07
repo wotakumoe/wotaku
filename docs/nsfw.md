@@ -40,11 +40,11 @@ outline: [1,2]
 - [nHentai](https://nhentai.net/) <tooltip>Most popular. Decent UI but compresses images.</tooltip>
 - [Akuma](https://akuma.moe/) <tooltip>E-Hentai clone.</tooltip>
 - [AsmHentai](https://asmhentai.com/)
-- [IMHentai](https://imhentai.xxx/) <tooltip>Big Library and great search filters.</tooltip>
+- [IMHentai](https://imhentai.xxx/) <tooltip>Big library and great search filters.</tooltip>
 - [HentaiRead](https://hentairead.com/)
-- [Hitomi](https://hitomi.la/) <tooltip>Big Library but difficult to navigate.</tooltip>
-- [Koharu](https://schale.network/) <Badge text="2" link="https://gehenna.jp/" /><tooltip>fakku/irodori rips (official TLs).</tooltip>
+- [Hitomi](https://hitomi.la/) <tooltip>Big library but difficult to navigate.</tooltip>
 - [Panda Backup](https://panda.chaika.moe/) <tooltip>Archive of stuff removed from E-Hentai due to DMCA complaints. Has some obscure stuff deleted on most sites.</tooltip>
+- [SchaleNetwork](https://schale.network/) <Badge text="2" link="https://gehenna.jp/" /><tooltip>Formerly known as Koharu, has Fakku/Irodori rips (official TLs).</tooltip>
 - [Yabai](https://yabai.si/) <tooltip>E-Hentai clone.</tooltip>
 
 ### English-only
