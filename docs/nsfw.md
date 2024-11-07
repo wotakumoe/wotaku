@@ -5,7 +5,7 @@ customDescription: Explore a wide range of NSFW websites, manga, manhwa, illustr
 outline: [1,2]
 ---
 
-<GradientCard tag="NSFW" description="Everyone has to let off some steam once in a while, we don't judge." theme="turquoise" variant="thin"/>
+<GradientCard title="NSFW" description="Everyone has to let off some steam once in a while, we don't judge." theme="turquoise" variant="thin"/>
 
 ![](/banner/hweb.webp)
 # Websites

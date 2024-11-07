@@ -5,7 +5,7 @@ customDescription: Learn about Japanese Culture, History & Festivals!
 outline: [2,3]
 ---
 
-<GradientCard tag="About Japan" description=" Learn about Japanese Culture, History & Festivals!" theme="turquoise" variant="thin"/>
+<GradientCard title="About Japan" description=" Learn about Japanese Culture, History & Festivals!" theme="turquoise" variant="thin"/>
 
 
 ## Culture & History

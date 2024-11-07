@@ -4,7 +4,7 @@ customDescription: Image Magick guide for Grayscaling, Leveling, and Optimizing
 outline: [2,3]
 ---
 
-<GradientCard tag="Manga Image Editing" description="Image Magick guide for Grayscaling, Leveling, and Optimizing" theme="turquoise" variant="thin"/>
+<GradientCard title="Manga Image Editing" description="Image Magick guide for Grayscaling, Leveling, and Optimizing" theme="turquoise" variant="thin"/>
 
 
 

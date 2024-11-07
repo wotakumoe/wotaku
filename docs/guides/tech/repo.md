@@ -4,7 +4,7 @@ customDescription: Mihon, Aniyomi & Dantotsu Extension Repos & Guides
 outline: [3,4]
 ---
 
-<GradientCard tag="Extension Repos" description="Mihon, Aniyomi & Dantotsu Extension Repos & Guides" theme="turquoise" variant="thin"/>
+<GradientCard title="Extension Repos" description="Mihon, Aniyomi & Dantotsu Extension Repos & Guides" theme="turquoise" variant="thin"/>
 
 Due to DMCA takedown notices, [Tachiyomi](https://tachiyomi.org/) (now continued as [Mihon](https://mihon.app/)) and [Aniyomi](https://aniyomi.org/) no longer come with preloaded extensions. You have to sideload extension repos in [Mihon](https://mihon.app/), [Aniyomi](https://aniyomi.org/), [Dantotsu](https://dantotsuapp.netlify.app/) and their forks to get extensions.
 

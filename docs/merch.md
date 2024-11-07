@@ -5,7 +5,7 @@ customDescription: Get information & guides on figurines, plushes, books, CDs, a
 outline: 2
 ---
 
-<GradientCard tag="Merch" description="Information on figurines, plushes, books, CDs and more!" theme="turquoise" variant="thin"/>
+<GradientCard title="Merch" description="Information on figurines, plushes, books, CDs and more!" theme="turquoise" variant="thin"/>
 
 :::details Important Information
 

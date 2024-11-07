@@ -5,7 +5,7 @@ customDescription: Software to help you learn japanese
 outline: [2,3]
 ---
 
-<GradientCard tag="Software" description=" Software to help you learn japanese" theme="turquoise" variant="thin"/>
+<GradientCard title="Software" description=" Software to help you learn japanese" theme="turquoise" variant="thin"/>
 
 
 ## Anki

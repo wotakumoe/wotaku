@@ -4,7 +4,7 @@ customDescription: "Information about digital manga & manhwa publishers on resol
 outline: [2,3]
 ---
 
-<GradientCard tag="Digital Comic Info" description="Information about digital comic publishers and quality." theme="turquoise" variant="thin"/>
+<GradientCard title="Digital Comic Info" description="Information about digital comic publishers and quality." theme="turquoise" variant="thin"/>
 
 <br>
 

@@ -5,7 +5,7 @@ customDescription: Discover anime, manga, and other related content for all the 
 outline: 2
 ---
 
-<GradientCard tag="Non-English" description="Otaku resources for other languages/regions." theme="turquoise" variant="thin"/>
+<GradientCard title="Non-English" description="Otaku resources for other languages/regions." theme="turquoise" variant="thin"/>
 
 <br>
 

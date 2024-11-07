@@ -5,7 +5,7 @@ customDescription: Various tools to enhance your experience; not all of them are
 outline: [1,2]
 ---
 
-<GradientCard tag="Tools" description="Various tools and extensions to enhance your experience." theme="turquoise" variant="thin"/>
+<GradientCard title="Tools" description="Various tools and extensions to enhance your experience." theme="turquoise" variant="thin"/>
 
 ![](/banner/phone.webp)
 # Phone

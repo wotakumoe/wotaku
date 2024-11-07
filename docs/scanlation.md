@@ -5,7 +5,7 @@ customDescription: Guides and resources for everything scanlation related!
 outline: [1,2]
 ---
 
-<GradientCard tag="Scanlation" description="Guides and resources for scanlating manga." theme="turquoise" variant="thin"/>
+<GradientCard title="Scanlation" description="Guides and resources for scanlating manga." theme="turquoise" variant="thin"/>
 
 ![](/banner/comms.webp)
 # Communities

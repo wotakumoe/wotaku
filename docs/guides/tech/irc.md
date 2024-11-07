@@ -3,7 +3,7 @@ title: IRC & XDCC
 customDescription: Basic guide on how to use IRC.
 ---
 
-<GradientCard tag="IRC & XDCC" description="Basic guide on how to use IRC" theme="turquoise" variant="thin"/>
+<GradientCard title="IRC & XDCC" description="Basic guide on how to use IRC" theme="turquoise" variant="thin"/>
 
 IRC (Internet Relay Chat) is a real-time messaging protocol, while XDCC (eXtended DCC) is a method used on IRC to facilitate file sharing through direct client-to-client connections. In this guide, we explained how to use bots in IRC.
 <br>

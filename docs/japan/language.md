@@ -5,7 +5,7 @@ customDescription: Japanese language learning resources.
 outline: [2,3]
 ---
 
-<GradientCard tag="Learning Japanese" description="All the resources to learn Japanese" theme="turquoise" variant="thin"/>
+<GradientCard title="Learning Japanese" description="All the resources to learn Japanese" theme="turquoise" variant="thin"/>
 
 <br>
 
@@ -148,7 +148,7 @@ outline: [2,3]
 
 
 ::: tip **Downloading books**
-Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTM3MjM2Nw.RHVjaw). You can visit these sites to download books. [**Free Japanese Books**](https://freejapanesebooks.com/), [**Learn Japanese Online**](https://tailieuhoctiengnhat.com/), [**Nyaa**](https://nyaa.si/?c=3_3), [**Anna’s Archive**](https://annas-archive.org), [**Z-Library**](https://z-lib.gs/) & [**PDF Drive**](https://www.pdfdrive.com/).
+Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTM3MjM2Nw.RHVjaw). You can visit these sites to download books. [**Learn Japanese Online**](https://tailieuhoctiengnhat.com/), [**Nyaa**](https://nyaa.si/?c=3_3), [**Anna’s Archive**](https://annas-archive.org), [**Z-Library**](https://z-lib.gs/) & [**PDF Drive**](https://www.pdfdrive.com/).
 :::
 
 

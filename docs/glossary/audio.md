@@ -5,7 +5,7 @@ outline: [1,2]
 ---
 
 
-<GradientCard tag="Audio Glossary" description="Audio concepts that you need to know." theme="turquoise" variant="thin"/>
+<GradientCard title="Audio Glossary" description="Audio concepts that you need to know." theme="turquoise" variant="thin"/>
 
 
 

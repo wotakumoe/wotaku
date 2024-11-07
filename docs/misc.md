@@ -5,7 +5,7 @@ customDescription: Discover a mix of info, news and tools for anime, manga & ill
 outline: [1,2]
 ---
 
-<GradientCard tag="Misc-sites" description="Various sites and tools for all needs and interests." theme="turquoise" variant="thin"/>
+<GradientCard title="Misc-sites" description="Various sites and tools for all needs and interests." theme="turquoise" variant="thin"/>
 
 ![](/banner/info.webp)
 # Info

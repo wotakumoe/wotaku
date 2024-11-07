@@ -4,7 +4,7 @@ customDescription: Deep dive into the world of Type-Moon!
 outline: 1
 ---
 
-<GradientCard tag="Fate / Type-Moon" description="Deep dive into the world of Type-Moon!" theme="turquoise" variant="thin"/>
+<GradientCard title="Fate / Type-Moon" description="Deep dive into the world of Type-Moon!" theme="turquoise" variant="thin"/>
 
 
 The Fate series is a popular Japanese visual novel, anime, and video game franchise created by Type-Moon. It centers around the concept of the "Holy Grail War," a battle royale in which participants, known as "Masters," summon historical, mythological, and fictional figures, known as "Servants," to fight on their behalf.

@@ -3,7 +3,7 @@ title: Blocking Ads & Annoyances
 customDescription: Adblocking Solutions for every device
 ---
 
-<GradientCard tag="Blocking Ads" description="Adblocking Solutions for every device" theme="turquoise" variant="thin"/>
+<GradientCard title="Blocking Ads" description="Adblocking Solutions for every device" theme="turquoise" variant="thin"/>
 
 
 ## Android

@@ -4,7 +4,7 @@ customDescription: The Joining guide for Madokami through IRC. Also how to downl
 outline: [2,3]
 ---
 
-<GradientCard tag="Madokami Guide" description="Joining guide for Madokami through IRC" theme="turquoise" variant="thin"/>
+<GradientCard title="Madokami Guide" description="Joining guide for Madokami through IRC" theme="turquoise" variant="thin"/>
 
 # Madokami Guide
 
