@@ -1,9 +1,6 @@
 {
   "$schema": "https://biomejs.dev/schemas/1.9.4/schema.json",
   "extends": ["@taskylizard/biome-config"],
-  "files": {
-    "include": ["./docs/.vitepress/**/*.{ts,vue,js,jsx,tsx,md,json}"]
-  },
   "linter": {
     "rules": {
       "style": {

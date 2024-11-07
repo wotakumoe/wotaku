@@ -1,13 +1,13 @@
 <script setup lang="ts">
-import { ref } from "vue";
+import { ref } from 'vue'
 
-const clickIcon = ref<HTMLSpanElement>();
-const card = ref<HTMLDivElement>();
+const clickIcon = ref<HTMLSpanElement>()
+const card = ref<HTMLDivElement>()
 
 const handleClick = () => {
-	card.value?.classList.toggle("is-opened");
-	clickIcon.value?.classList.toggle("is-hidden");
-};
+  card.value?.classList.toggle('is-opened')
+  clickIcon.value?.classList.toggle('is-hidden')
+}
 </script>
 
 <template>

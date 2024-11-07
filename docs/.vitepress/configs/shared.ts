@@ -390,7 +390,7 @@ export const shared: UserConfig<DefaultTheme.Config> = {
       { icon: 'github', link: 'https://github.com/wotakumoe/Wotaku' },
       { icon: 'discord', link: 'https://discord.gg/vShRGx8ZBC' },
       {
-        icon: "bluesky",
+        icon: 'bluesky',
         link: 'https://bsky.app/profile/wotaku.wiki'
       }
     ],

@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import DefaultTheme from 'vitepress/theme'
+import { useEventListener, customStorageEventName } from '@vueuse/core'
 import SidebarCard from './components/SidebarCard.vue'
 import AnnouncementPill from './components/AnnouncementPill.vue'
 import NotFoundComponent from './components/NotFound.vue'
@@ -35,7 +36,11 @@ const updateMousePos = (e: MouseEvent | TouchEvent) => {
   }
 }
 
-onMounted(() => {
+const takodachiDisable = ref<(() => void) | null>(null)
+
+const reloadTakodachi = () => {
+  takodachiDisable.value && takodachiDisable.value()
+
   if (prefs.value === 'reduce') return
   const saved = localStorage.getItem('preference-takodachi-enable-disable')
   if (saved === 'Disable') return
@@ -73,12 +78,37 @@ onMounted(() => {
     position.value = { x: finalVec[0], y: finalVec[1] }
   }, 10)
 
-  onUnmounted(() => {
+  takodachiDisable.value = () => {
+    chaser?.classList.add('opacity-0')
+
     window.removeEventListener('mousemove', updateMousePos)
     window.removeEventListener('touchstart', updateMousePos)
     clearInterval(intervalId)
+
+    takodachiDisable.value = null
+  }
+}
+
+onMounted(() => {
+  if (import.meta.env.SSR) return
+
+  // Storage changed in other documents.
+  useEventListener(window, 'storage', () => {
+    reloadTakodachi()
   })
+
+  // Storage changed in the same document.
+  useEventListener(window, customStorageEventName, () => {
+    reloadTakodachi()
+  })
+
+  reloadTakodachi()
 })
+
+onUnmounted(() => {
+  takodachiDisable.value && takodachiDisable.value()
+})
+
 const { Layout } = DefaultTheme
 </script>
 
@@ -94,7 +124,8 @@ const { Layout } = DefaultTheme
         :style="{
           left: `${position.x}px`,
           top: `${position.y}px`,
-        }" />
+        }"
+      />
     </template>
     <template #not-found>
       <NotFoundComponent />
