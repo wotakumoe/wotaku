@@ -99,13 +99,14 @@ If you have recommendations for good sites in your native language or want to re
   - [XG Cartoon](https://www.xgcartoon.com/)
   - [Yinghuacd](http://www.yinghuacd.com/)
 - **Torrent**
+  - [ACG](https://acg.rip/)
+  - [ACGNX](https://share.acgnx.se/)
   - [Anime Garden](https://garden.onekuma.cn/)
   - [Bangumi](https://bangumi.moe/)
   - [DMHY](https://dmhy.org/)
-  - [Mikanani](https://mikanani.me/)
+  - [Mikan Project](https://mikanani.me/) [:mdi-github:](https://github.com/iota9star/mikan_flutter)
   - [MioBT](http://www.miobt.com/)
-  - [ACG](https://acg.rip/)
-  - [ACGNX](https://share.acgnx.se/)
+  - [Nyaa Pantsu](https://ouo.si/)
 
 ### Comics
 - [69xinshu](https://www.69xinshu.com/)
@@ -119,9 +120,9 @@ If you have recommendations for good sites in your native language or want to re
 - [XManhua](https://xmanhua.com/)
 
 ### Novels
-- [Light Novel](https://www.lightnovel.us/)
 - [23qb](https://www.23qb.net/)
 - [ESJ Zone](https://www.esjzone.cc/)
+- [Light Novel](https://www.lightnovel.us/)
 
 ### NSFW
 - [Hanime1.me](https://hanime1.me/)
@@ -225,7 +226,7 @@ If you have recommendations for good sites in your native language or want to re
 ## Greek
 
 ### Anime
-- [An1me](https://an1me.to/) <tooltip>Adblock filter `an1me.to##+js(acis, Math)`</tooltip>
+- [An1me](https://an1me.io/) <tooltip>Adblock filter `an1me.to##+js(acis, Math)`</tooltip>
 
 
 ## Hebrew
@@ -458,6 +459,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [AnimeGO](https://animego.org/) <Badge type="info" text="Aggregator" />
 - [AnimeJoy](https://animejoy.ru/)
 - [Animelayer](http://animelayer.ru/) <Badge type="info" text="Torrent" />
+- [AnimeShot](https://animeshot.ru/)
 - [AnimeStars](https://animestars.org/) <Badge type="info" text="Aggregator" />
 - [Anisun](https://anisun.vercel.app/en) [:mdi-github:](https://github.com/notwindstone/anisun)
 - [ANIXART](https://anixart-tv.org/) <Badge type="info" text="Aggregator" />
