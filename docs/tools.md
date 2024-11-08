@@ -378,31 +378,34 @@ outline: [1,2]
 - [Manga Online Viewer](https://github.com/TagoDR/MangaOnlineViewer)
 - [MangaPlusPlus](https://github.com/kmsomebody/MangaPlusPlus)
 
-## Imageboards
+## Pixiv
+- [Improve Pixiv Thumbnails](https://greasyfork.org/en/scripts/390077-improve-pixiv-thumbnails) [:mdi-github:](https://github.com/kepstin/Fix-pixiv-thumbnails)
+- [Label Pixiv Bookmarks](https://greasyfork.org/en/scripts/423823) [:mdi-github:](https://github.com/Ziqing19/LabelPixivBookmarks)
+- [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE%2B)
+- [Pixiv Downloader](https://sleazyfork.org/zh-CN/scripts/432150-pixiv-downloader) [:mdi-github:](https://github.com/drunkg00se/Pixiv-Downloader)
+- [Pixiv Infinite Scroll](https://github.com/hamachi25/Pixiv-Infinite-Scroll)
+- [Pixiv Plus](https://greasyfork.org/en/scripts/34153-pixiv-plus)
+- [Pixiv Popularity Sorter/Filter](https://greasyfork.org/en/scripts/497015)
+- [Pixiv Preview](https://greasyfork.org/en/scripts/39387-pixiv-arts-preview-followed-atrists-coloring-extended-history) [:mdi-github:](https://github.com/NightLancer/PixivPreview)
+- [ppixiv for Pixiv](https://greasyfork.org/en/scripts/370418-ppixiv-for-pixiv) [:mdi-github:](https://github.com/ppixiv/ppixiv)
 
-- **4Chan** 
-  - [4chan X](https://github.com/ccd0/4chan-x)
-      - [4chan XT](https://github.com/TuxedoTako/4chan-xt)
-      - [OneeChan](https://github.com/KevinParnell/OneeChan)
-      - [StyleChan](https://github.com/3nly/StyleChan)
-      - [SS21](https://github.com/saxamaphone69/ss21)
-  - [Desu X](https://greasyfork.org/en/scripts/483282-desu-x-enhancement-script-for-desuarchive-org)
-  - [Dollchan](https://github.com/SthephanShinkufag/Dollchan-Extension-Tools/)
-- **Pixiv**
-  - [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE%2B)
-  - [Pixiv Downloader](https://sleazyfork.org/zh-CN/scripts/432150-pixiv-downloader) [:mdi-github:](https://github.com/drunkg00se/Pixiv-Downloader)
-  - [Pixiv Infinite Scroll](https://github.com/hamachi25/Pixiv-Infinite-Scroll)
-  - [ppixiv for Pixiv](https://greasyfork.org/en/scripts/370418-ppixiv-for-pixiv) [:mdi-github:](https://github.com/ppixiv/ppixiv)
-  - [Pixiv Preview](https://greasyfork.org/en/scripts/39387-pixiv-arts-preview-followed-atrists-coloring-extended-history) [:mdi-github:](https://github.com/NightLancer/PixivPreview)
-- **Others**
-  - [Handy Image](https://sleazyfork.org/en/scripts/109-handy-image) [:mdi-github:](https://github.com/Owyn/HandyImage)
-  - [Image Max URL](https://github.com/qsniyg/maxurl)
+## 4Chan
+- [4chan X](https://github.com/ccd0/4chan-x)
+  - [4chan XT](https://github.com/TuxedoTako/4chan-xt)
+  - [OneeChan](https://github.com/KevinParnell/OneeChan)
+  - [StyleChan](https://github.com/3nly/StyleChan)
+  - [SS21](https://github.com/saxamaphone69/ss21)
+- [Desu X](https://greasyfork.org/en/scripts/483282-desu-x-enhancement-script-for-desuarchive-org)
+- [Dollchan](https://github.com/SthephanShinkufag/Dollchan-Extension-Tools/)
 
 ## Others
 
-- **Game**
+- **Games**
   - [CS RIN RU Enhanced](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external)
   - Game DL Links on <Badge type="tip" text="GOG" link="https://greasyfork.org/en/scripts/481134-gog-to-free-download-site" /> <Badge type="tip" text="Steam" link="https://greasyfork.org/en/scripts/481139-steam-to-free-download-site" />
+- **Imageboards**
+  - [Handy Image](https://sleazyfork.org/en/scripts/109-handy-image) [:mdi-github:](https://github.com/Owyn/HandyImage)
+  - [Image Max URL](https://github.com/qsniyg/maxurl)
 - **Music**
   - [Ame](https://notabug.org/SuperSaltyGamer/ame/)
   - [Discogs Scout](https://greasyfork.org/en/scripts/439452-discogs-scout) [:mdi-github:](https://github.com/Purfview/Discogs-Scout)
