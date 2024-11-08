@@ -226,7 +226,7 @@ If you have recommendations for good sites in your native language or want to re
 ## Greek
 
 ### Anime
-- [An1me](https://an1me.io/) <tooltip>Adblock filter `an1me.to##+js(acis, Math)`</tooltip>
+- [An1me](https://an1me.io/)
 
 
 ## Hebrew
