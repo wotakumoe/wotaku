@@ -136,7 +136,6 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
 - [Jasmine](https://github.com/niuhuan/jasmine)
 - [NClientV2](https://github.com/Dar9586/NClientV2)
-- [Pica Comic](https://github.com/wgh136/PicaComic)
 - [Pupil](https://github.com/tom5079/Pupil)
 
 ## iOS
@@ -145,7 +144,6 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [FEhViewer](https://github.com/3003h/FEhViewer)
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
 - [Jasmine](https://github.com/niuhuan/jasmine)
-- [Pica Comic](https://github.com/wgh136/PicaComic)
 
 ## PC
 
@@ -155,7 +153,6 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [JHenTai](https://github.com/jiangtian616/JHenTai) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Jasmine](https://github.com/niuhuan/jasmine) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Konomi Viewer](https://konomiviewer.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Pica Comic](https://github.com/wgh136/PicaComic) :ic-baseline-window::ic-baseline-apple:
 - [Javinizer](https://github.com/javinizer/Javinizer) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
 
