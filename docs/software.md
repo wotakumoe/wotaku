@@ -119,6 +119,13 @@ outline: [1,2]
   - [RWalls](https://github.com/meh430/RWalls)
   - [Pixiv for Muzei 3](https://github.com/yellowbluesky/PixivforMuzei3)
 
+::: details :material-symbols-subdirectory-arrow-right: Related resources
+- [Pixiv OAuth Flow (with browser dev console) by ZipFile](https://gist.github.com/ZipFile/c9ebedb224406f4f11845ab700124362) :glowing-star:
+- [Pixiv OAuth Flow (with Selenium) by upbit](https://gist.github.com/upbit/6edda27cb1644e94183291109b8a5fde)
+- [get pixivpy token](https://github.com/eggplants/get-pixivpy-token)
+
+:::
+
 ## Others
 - [Nekotatsu](https://github.com/PhantomShift/nekotatsu) <Badge type="info" text="Needs PC" />
 - [SauceNAO](https://github.com/LuK1337/SauceNAO)
