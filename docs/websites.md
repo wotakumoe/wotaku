@@ -126,6 +126,7 @@ outline: 1
       <li>A good amount of them are scraped from aniwave but 720p.</li>
     </ul>
   </tooltip>
+- [Animotvslash](https://www.animotvslash.nl/) :mingcute-server-fill:
 - [Anivibe](https://anivibe.net/) :mingcute-server-fill: <Badge type="tip" text="2" link="https://anix.sh/home" /><Badge type="tip" text="3" link="https://www1.aniwave.ch/home" />
 - [Gogoanime](https://anitaku.pe/) :mingcute-server-fill::mingcute-user-2-fill: <Badge text="Proxies" link="https://gogotaku.info/" />
 - [Watch Cartoon Online](https://www.wco.tv/) :mingcute-server-fill::mingcute-user-2-fill: <Badge text="2" link="https://www.wcofun.net/" /><Badge text="3" link="https://www.wcostream.tv/" /><Badge text="4" link="https://www.wcoforever.tv/" />
