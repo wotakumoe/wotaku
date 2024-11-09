@@ -148,7 +148,6 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 ## PC
 
 ### Viewer / Tools
-- [Enma](https://github.com/alexandresenpai/Enma) :ic-baseline-window::mingcute-linux-fill:
 - [ExHentai Manga Manager](https://github.com/SchneeHertz/exhentai-manga-manager) :ic-baseline-window:
 - [JHenTai](https://github.com/jiangtian616/JHenTai) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Jasmine](https://github.com/niuhuan/jasmine) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
@@ -165,7 +164,6 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [nHentai](https://github.com/RicterZ/nhentai)<Badge type="info" text="nHentai" />
 - [nHentai Archivist](https://github.com/9-FS/nhentai_archivist)<Badge type="info" text="nHentai" />
 - [nHentai Downloader](https://github.com/Xwilarg/NHentaiDownloader)<Badge type="info" text="nHentai" />
-- [Anchira Watcher Downloader](https://github.com/ndbiaw/anchira-watcher-downloader)<Badge type="info" text="Anchira" />
 - [NSFW Box](https://github.com/Kisspeace/NsfwBox)<Badge type="info" text="Multi" />
 
 
