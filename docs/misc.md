@@ -217,8 +217,10 @@ outline: [1,2]
 - [:mdi-clover:/w/](http://catalog.neet.tv/w/) <Badge type="danger" icon="i-mingcute-skull-fill" text="NSFL" />
 
 ::: details :material-symbols-subdirectory-arrow-right: Related resources
+- [Illustration client for android](#illustrations)
+- [Illustration client for PC](#illustrations-1)
 - [Illustration downloader](/software.md#image)
-- [Related Extensions](/tools.md#image-1) & [scripts](/tools.md#imageboards)
+- [Related Extensions](/tools.md#image) & [scripts](/tools.md#pixiv)
 - [NSFW-specific ones](/nsfw.md#illustrations)
 :::
 

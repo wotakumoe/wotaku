@@ -120,9 +120,14 @@ outline: [1,2]
   - [Pixiv for Muzei 3](https://github.com/yellowbluesky/PixivforMuzei3)
 
 ::: details :material-symbols-subdirectory-arrow-right: Related resources
-- [Pixiv OAuth Flow (with browser dev console) by ZipFile](https://gist.github.com/ZipFile/c9ebedb224406f4f11845ab700124362) :glowing-star:
-- [Pixiv OAuth Flow (with Selenium) by upbit](https://gist.github.com/upbit/6edda27cb1644e94183291109b8a5fde)
-- [get pixivpy token](https://github.com/eggplants/get-pixivpy-token)
+
+- [Illustration websites](/misc.md#illustrations)
+- [Illustration downloader for PC](#image)
+- [Illustration client for PC](#illustrations-1)
+- Retrieving Pixiv token
+  - [Pixiv OAuth Flow (with browser dev console) by ZipFile](https://gist.github.com/ZipFile/c9ebedb224406f4f11845ab700124362) :glowing-star:
+  - [Pixiv OAuth Flow (with Selenium) by upbit](https://gist.github.com/upbit/6edda27cb1644e94183291109b8a5fde)
+  - [get pixivpy token](https://github.com/eggplants/get-pixivpy-token)
 
 :::
 
@@ -414,6 +419,17 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Pixeval](https://pixeval.github.io/) [:mdi-github:](https://github.com/Pixeval/Pixeval) :ic-baseline-window:
 - [Pixiv Powerful Viewer](https://github.com/fekoneko/pixiv-powerful-viewer) :ic-baseline-window:
 
+::: details :material-symbols-subdirectory-arrow-right: Related resources
+
+- [Illustration websites](/misc.md#illustrations)
+- [Illustration downloader for PC](#image)
+- [Illustration client for android](#illustrations)
+- Retrieving Pixiv token
+  - [Pixiv OAuth Flow (with browser dev console) by ZipFile](https://gist.github.com/ZipFile/c9ebedb224406f4f11845ab700124362) :glowing-star:
+  - [Pixiv OAuth Flow (with Selenium) by upbit](https://gist.github.com/upbit/6edda27cb1644e94183291109b8a5fde)
+  - [get pixivpy token](https://github.com/eggplants/get-pixivpy-token)
+
+:::
 
 ## Other Tools
 - [AMV Tracker](https://github.com/bsobotka/amv_tracker) :ic-baseline-window:
