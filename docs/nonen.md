@@ -138,7 +138,7 @@ If you have recommendations for good sites in your native language or want to re
 
 | Category | Resources |
 |-|-|
-| Anime | [AGETV](https://github.com/muedsa/AGETV) <br> [Ani](https://github.com/open-ani/ani) <br> [Anime](https://github.com/lanlinju/Anime) <br> [Kazumi](https://github.com/Predidit/Kazumi) <br> [Mediabox](https://github.com/RyensX/MediaBox) <br> [Miru App](https://miru.js.org/) :glowing-star: <Badge text="Manga" /> <br> [Neko Anime](https://github.com/xioneko/neko-anime) <br> [oneAnime](https://github.com/Predidit/oneAnime) |
+| Anime | [AGETV](https://github.com/muedsa/AGETV) <br> [Ani](https://github.com/open-ani/ani) <br> [Anime](https://github.com/lanlinju/Anime) <br> [Animeko](https://myani.org/) [:mdi-github:](https://github.com/open-ani/animeko) <br> [Kazumi](https://github.com/Predidit/Kazumi) <br> [Mediabox](https://github.com/RyensX/MediaBox) <br> [Miru App](https://miru.js.org/) :glowing-star: <Badge text="Manga" /> <br> [Neko Anime](https://github.com/xioneko/neko-anime) <br> [oneAnime](https://github.com/Predidit/oneAnime) |
 | Manga | [Copy MangaX](https://github.com/CrowForKotlin/CopyMangaX) <br> [kobi](https://github.com/niuhuan/kobi) <br> [Manga Reader](https://github.com/youniaogu/MangaReader) |
 | Novels | [Legado](https://github.com/gedoor/legado) |
 | Tracker | [Bangumi](https://github.com/czy0729/Bangumi) <br> [Bangumi for Android](https://github.com/xiaoyvyv/bangumi) <br> [Bangumi MX](http://bgmx.mysxl.cn/) [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi) |
