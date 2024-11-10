@@ -404,6 +404,7 @@ outline: [1,2]
   - [CS RIN RU Enhanced](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external)
   - Game DL Links on <Badge type="tip" text="GOG" link="https://greasyfork.org/en/scripts/481134-gog-to-free-download-site" /> <Badge type="tip" text="Steam" link="https://greasyfork.org/en/scripts/481139-steam-to-free-download-site" />
 - **Imageboards**
+  - [Gelbooru Overhaul Userscript](https://github.com/Enchoseon/gelbooru-overhaul-userscript)
   - [Handy Image](https://sleazyfork.org/en/scripts/109-handy-image) [:mdi-github:](https://github.com/Owyn/HandyImage)
   - [Image Max URL](https://github.com/qsniyg/maxurl)
 - **Music**
