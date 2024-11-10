@@ -142,15 +142,17 @@ outline: [2,3]
 - [Anime Subtitle Player](https://anime-subtitle-player.vercel.app/) :mdi-earth: [:mdi-github:](https://github.com/LostArrows27/anime-subtitle-player)
 - [Animebook](https://animebook.github.io/) :mdi-earth: <Badge type="info" text="Guide" link="https://cademcniven.com/posts/20210703/" />
 - [Asbplayer](https://killergerbah.github.io/asbplayer/) :mdi-earth::mingcute-chrome-fill: [:mdi-github:](https://github.com/killergerbah/asbplayer)
-- [autosubsync mpv](https://github.com/Ajatt-Tools/autosubsync-mpv)
 - [Emby Jimaku](https://github.com/bpwhelan/Emby.Jimaku)
+- [Voracious](https://voracious.app/) :ic-baseline-window::mingcute-linux-fill: [:mdi-github:](https://github.com/rsimmons/voracious)
+
+#### mpv
+- [autosubsync mpv](https://github.com/Ajatt-Tools/autosubsync-mpv)
 - [memento](https://github.com/ripose-jp/Memento) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [mpvacious](https://github.com/Ajatt-Tools/mpvacious) :ic-baseline-window::mingcute-linux-fill:
 - [mpv jimaku](https://github.com/ZXY101/mpv-jimaku)
+- [mpv retiming scripts](https://github.com/Ulidtsoa01/mpv-retiming-scripts)
 - [mpv sub scripts](https://github.com/peldas/mpv-sub-scripts)
 - [mpv subversive](https://github.com/nairyosangha/mpv-subversive)
-- [Voracious](https://voracious.app/) :ic-baseline-window::mingcute-linux-fill: [:mdi-github:](https://github.com/rsimmons/voracious)
-
 
 #### Reader
 - [Mokuro](https://github.com/kha-white/mokuro) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
@@ -188,6 +190,7 @@ outline: [2,3]
 
 #### Subtitle
 - [Ageisub](https://github.com/arch1t3cht/Aegisub) :ic-baseline-window::ic-baseline-apple:  `Subtitle editor`
+- [Resync subtitles](https://animecards.site/subtitles/) :ic-baseline-window:
 - [Subtitle Edit](https://www.nikse.dk/subtitleedit) :ic-baseline-window: [:mdi-github:](https://github.com/SubtitleEdit/subtitleedit)  `Subtitle editor`
 - [Subtitle Downloader](https://github.com/wayneclub/Subtitle-Downloader) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: `Download subtitle from streaming services`
 - [subs2srs](https://subs2srs.sourceforge.net/) :ic-baseline-window: `Generates audio clip from media using subs for Anki/SRS`
@@ -198,7 +201,7 @@ outline: [2,3]
 - [Subtitle Character Counter](https://cademcniven.com/subtitleCharacterCounter.html) :mdi-earth:
 - [Sub transition](https://github.com/Ajatt-Tools/sub-transition) :simple-icons-mpv: `Speed up the video parts with no subs`
 - [Nekomoe JP Formatter](https://jp-formatter.pages.dev/) :mdi-earth: [:mdi-github:](https://github.com/Nekomoekissaten-SUB/nekomoe-jp-formatter)  `Clean up subtitles`
-
+- :material-symbols-subdirectory-arrow-right: [Resource list for subtitle-related things](https://rentry.co/jpsub)
 
 #### Audio tools
 - [Automatic Condensed Audio Dialogue Script](https://anacreondjt.gitlab.io/docs/condensed_audio/)
@@ -216,6 +219,7 @@ outline: [2,3]
 
 #### Others
 - [ComicEater](https://github.com/kanjieater/ComicEater)
+- [Lapis](https://github.com/donkuri/lapis)
 - [LN Readability](https://colab.research.google.com/github/Gilfaro/ln-recommender/blob/main/LNReadability.ipynb)
 - [Supermemo](https://super-memory.com/) <Badge type="warning" text="Trialware"/><Badge type="tip" text="Wiki" link="https://www.supermemo.wiki/en/home" />
 - :material-symbols-subdirectory-arrow-right: [OCR/Translator section](https://wotaku.wiki/software#ocr-translator)
