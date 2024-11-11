@@ -90,8 +90,7 @@ outline: [1,2]
 - [Danbooru](https://danbooru.donmai.us/)
 - [Gelbooru](https://gelbooru.com/) :glowing-star:
 - [Hentai Game CG](https://hentaigamecg.com/)
-- [Kona chan](https://konachan.com/)
-- [Nijie](https://nijie.info/)
+- [Konachan](https://konachan.com/)
 - [Oreno3D](https://oreno3d.com/)
 - [Pixiv](https://www.pixiv.net)
 - [Pixiv Viewer](https://pixiv.pics/) :glowing-star:
