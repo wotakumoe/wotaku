@@ -423,6 +423,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [AniBunker](https://www.anibunker.com/)
 - [Anime Fire](https://animefire.net/)
 - [Animes House](https://animeshouse.app/)
+- [AnimesROLL](https://www.anroll.net/)
 - [Animes Zone](https://animeszone.net/)
 - [Better Anime](https://betteranime.net/)
 - [Geekdot](https://geekdot.live/)
