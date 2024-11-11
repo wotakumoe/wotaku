@@ -1,11 +1,11 @@
 ---
 title: Music
 description: Wotaku Music Megathread!
-customDescription: Wotaku Music Megathread! Everything Music Related in One Page.
+customDescription: Wotaku Music Megathread! Everything Music-related in one page.
 outline: [1,2]
 ---
 
-<GradientCard title="Music" description="Everything Music Related in One Page!" theme="turquoise" variant="thin"/>
+<GradientCard title="Music" description="Everything Music-related in one page!" theme="turquoise" variant="thin"/>
 
 <br>
 

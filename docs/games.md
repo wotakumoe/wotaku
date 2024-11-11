@@ -1,11 +1,11 @@
 ---
 title: Games
 description: Wotaku Games Megathread!
-customDescription: Wotaku Games Megathread! Everything Games Related in One Page.
+customDescription: Wotaku Games Megathread! Everything Game-related in one page.
 outline: 2
 ---
 
-<GradientCard title="Games" description="Everything Games Related in One Page!" theme="turquoise" variant="thin"/>
+<GradientCard title="Games" description="Everything Game-related in one page!" theme="turquoise" variant="thin"/>
 
 
 ## General Download
