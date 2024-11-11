@@ -140,90 +140,13 @@ outline: [1,2]
 
 
 
-![](/banner/illust.webp)
+<hr>
 
-# Illustrations
+### Illustrations
 
-<br>
+Illustrations now has its [own page](/art.md)!
 
-::: danger All listed sites have NSFW content unless specified otherwise.
-:::
-
-## Platforms
-
-- [ArtStation](https://www.artstation.com/)
-- [Bluesky](https://bsky.app/)
-- [Cara](https://cara.app/explore)
-- [Charaforio](https://charaforio.com/en)
-- [DeviantArt](https://www.deviantart.com/)
-- [Illust Days](https://illust.daysneo.com/)
-- [Misskey.io](https://misskey.io/) <Badge type="tip" text="Others" link="https://misskey-hub.net/en/servers/" /><tooltip>Registrations are currently limited to Japan only.</tooltip>
-- [Newgrounds](https://www.newgrounds.com/art)
-- [Nico Nico Seiga](https://seiga.nicovideo.jp/)
-- [Pixiv](https://www.pixiv.net) :glowing-star:
-  - [Pixivision](https://www.pixivision.net/en/)
-  - [PixivFE](https://pixivfe.exozy.me/) [:simple-icons-codeberg:](https://codeberg.org/VnPower/PixivFE)
-  - [Pixiv Now](https://pixiv.js.org/)
-  - [Pixiv Viewer](https://pixiv.pics/)
-  - [Pixiv Yearbook](https://pixiv.navirank.com/) :glowing-star:
-- [Poipiku](https://poipiku.com/)
-- [Tinami](https://www.tinami.com/)
-- [Tumblr](https://www.tumblr.com/)
-  - [Priviblur](https://github.com/syeopite/priviblur)
-- [Twitter](https://x.com/home) :glowing-star:
-  - [X Cancelled](https://xcancel.com/)
-  - [Twoucan](https://twoucan.com/)
-
-:::details Support Platforms
-- [BOOTH](https://booth.pm/en)
-- [Fantia](https://fantia.jp/)
-- [pixivFANBOX](https://www.fanbox.cc/)
-- [Skeb](https://skeb.jp/)
-- [VGen](https://vgen.co/)
-:::
-
-## Booru
-- [Booruwf](https://booru.pixiv.pics/) <Badge type="tip" text="Moeview" link="https://moeview.pixiv.pics/" /> [:mdi-github:](https://github.com/asadahimeka/booruwf-web)
-- [Danbooru](https://danbooru.donmai.us/)
-- [Donmai](https://donmai.moe/) <Badge type="green" link="" text="SFW"/>
-- [Gelbooru](https://gelbooru.com/) :glowing-star:
-- [Konachan](https://konachan.com/)
-- [Mikubooru](https://booru.funmaker.moe/) [:mdi-github:](https://github.com/funmaker/hybooru)
-- [Safebooru](https://safebooru.org/) <Badge type="green" text="SFW" />
-- [TBIB](https://tbib.org/)
-- [yande.re](https://yande.re/)
-- [Zerochan](https://www.zerochan.net/) <Badge type="green" text="SFW" />
-
-## Sakuga
-- [Sakuga Booru](https://www.sakugabooru.com/) :glowing-star:  [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/khmnmdaghmhkcbooicndamlhkcmpklmc)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/sakuga-extended/)<Badge type="green" text="SFW" />
-- [Sakuga.video](https://sakuga.video/)
-- [ArtSakuga](https://x.com/artsakuga) :mdi-twitter:
-- [D.K.](https://x.com/DanKantori) :glowing-star: :mdi-twitter:
-- [Extra Sakuga](https://x.com/EffectsSakuga) :mdi-twitter:
-- [Mack Bay](https://x.com/SaberzzSeiba) :mdi-twitter:
-- [randomsakuga](https://x.com/randomsakuga) :mdi-twitter:
-- [rinri](https://x.com/guyayaHime)
-- [Sakuga Clips](https://x.com/sakugaclips) :mdi-twitter:
-- [SakugaDEYO](https://x.com/SakugaDEYO) :mdi-twitter:
-- [Sakuga 作画](https://x.com/sakugacontent) :mdi-twitter:
-
-## Others
-- [Settai Dreams](https://setteidreams.net/) :glowing-star:
-- [Anime Pictures](https://anime-pictures.net/) <Badge type="green" text="SFW" />
-- [Kemono](https://kemono.su/)
-- [Studio Ghibli](https://www.ghibli.jp/info/013772/) <Badge type="green" text="SFW" />
-- [Wallhaven](https://wallhaven.cc/)
-- [wanderer.moe](https://wanderer.moe/) [:mdi-github:](https://github.com/wanderer-moe/site)
-- [:mdi-clover:/w/](http://catalog.neet.tv/w/) <Badge type="danger" icon="i-mingcute-skull-fill" text="NSFL" />
-
-::: details :material-symbols-subdirectory-arrow-right: Related resources
-- [Illustration client for android](#illustrations)
-- [Illustration client for PC](#illustrations-1)
-- [Illustration downloader](/software.md#image)
-- [Related Extensions](/tools.md#image) & [scripts](/tools.md#pixiv)
-- [NSFW-specific ones](/nsfw.md#illustrations)
-:::
-
+<hr>
 
 ![](/banner/portals.webp)
 # Portals
@@ -302,7 +225,7 @@ outline: [1,2]
 |---|---|
 | Search | [SauceNAO](https://saucenao.com/) :glowing-star: <br> [Trace](https://trace.moe/) [:mdi-github:](https://github.com/soruly/trace.moe) <br> [SauceKudasai](https://saucekudasai.com/) [:mdi-github:](https://github.com/ayushgptaa/SauceKudasai) <br> [Multi-service image search](https://iqdb.org/) |
 | Upscaling | [Waif2x](https://unlimited.waifu2x.net/) [:mdi-github:](https://github.com/nagadomi/waifu2x)<Badge type="tip" text="Cloud Ver" link="https://waifu2x.udp.jp/" /> <br> [WaifuXL](https://waifuxl.com/) [:mdi-github:](https://github.com/TheFutureGadgetsLab/WaifuXL) |
-| Others | [Imgtrans](https://touhou.ai/imgtrans/) [:mdi-github:](https://github.com/zyddnys/manga-image-translator) <br> [Pixiv.cat](https://pixiv.cat/) [:mdi-github:](https://github.com/pixiv-cat/pixivcat-backend) <Badge type="info" text="Embed" /> <br> [Slowpoke Pics](https://slow.pics/) |
+| Others | [Imgtrans](https://touhou.ai/imgtrans/) [:mdi-github:](https://github.com/zyddnys/manga-image-translator) <br> [Slowpoke Pics](https://slow.pics/) |
 
 
 ### Stats

@@ -98,7 +98,6 @@ outline: [1,2]
 - [Rule34.xxx](https://rule34.xxx/) <tooltip><ul><li>Boasts a larger content library compared to Paheal.</li><li>Features an extensive tagging system, allowing searches based on descriptions or depicted acts.</li><li>Permits larger file uploads, up to 100MB.</li><li>Searching is more user-friendly compared to Paheal.</li></ul></tooltip>
 - [Rule 34 Paheal](https://rule34.paheal.net/) <tooltip><ul><li>Categorizes content by characters, franchises, events (such as holidays), animations, and sound.</li><li>Limits uploads to 10MB.</li></ul></tooltip>
 - [Rule34.dev](https://rule34.dev/)
-- [Sankaku Complex](https://chan.sankakucomplex.com/)
 - [yande.re](https://yande.re/)
 
 ## Games

@@ -100,37 +100,6 @@ outline: [1,2]
   - [OpenComicVine](https://github.com/proninyaroslav/OpenComicVine) <Badge type="info" text="ComicVine" />
 
 
-## Illustrations
-
-- **Booru**
-  - [Boorusama](https://github.com/khoadng/Boorusama) :glowing-star:
-  - [Boorusphere](https://github.com/nullxception/boorusphere) <tooltip>Repo is archived, but still works as of October 25, 2024.</tooltip>
-  - [Mikansei](https://github.com/uragiristereo/Mikansei)
-  - [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/)
-  - [Anime Boxes](https://www.animebox.es/)
-- **Pixiv**
-  - [PixEz](https://github.com/Notsfsssf/pixez-flutter) :glowing-star:
-  - [pixes](https://github.com/wgh136/pixes)
-  - [PixShaft](https://github.com/CeuiLiSA/Pixiv-Shaft)
-  - [Pixiv](https://play.google.com/store/apps/details?id=jp.pxv.android)
-  - [PixiView](https://github.com/matsumo0922/PixiView-KMP) <Badge type="info" text="Fanbox" />
-- **Others**
-  - [Wallflow](https://github.com/ammargitham/WallFlow)
-  - [RWalls](https://github.com/meh430/RWalls)
-  - [Pixiv for Muzei 3](https://github.com/yellowbluesky/PixivforMuzei3)
-
-::: details :material-symbols-subdirectory-arrow-right: Related resources
-
-- [Illustration websites](/misc.md#illustrations)
-- [Illustration downloader for PC](#image)
-- [Illustration client for PC](#illustrations-1)
-- Retrieving Pixiv token
-  - [Pixiv OAuth Flow (with browser dev console) by ZipFile](https://gist.github.com/ZipFile/c9ebedb224406f4f11845ab700124362) :glowing-star:
-  - [Pixiv OAuth Flow (with Selenium) by upbit](https://gist.github.com/upbit/6edda27cb1644e94183291109b8a5fde)
-  - [get pixivpy token](https://github.com/eggplants/get-pixivpy-token)
-
-:::
-
 ## Others
 - [Nekotatsu](https://github.com/PhantomShift/nekotatsu) <Badge type="info" text="Needs PC" />
 - [SauceNAO](https://github.com/LuK1337/SauceNAO)
@@ -186,11 +155,6 @@ or buy an Android phone :ic-twotone-thumb-up:
 - [MyAnimeList Official](https://apps.apple.com/us/app/myanimelist-official/id1469330778)
 - [Risuto for AniList](https://apps.apple.com/us/app/risuto-for-anilist/id6455685990)
 - [Ryuusei for AniList](https://apps.apple.com/us/app/ryuusei-for-anilist/id1347721581)
-
-## Others
-- [pixes](https://github.com/wgh136/pixes)
-- [PixiView](https://github.com/matsumo0922/PixiView-KMP)
-- [Anime Boxes](https://apps.apple.com/us/app/anime-boxes/id525540312)
 
 
 ![](/banner/pc.webp)
@@ -303,22 +267,6 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Novel Crawler](https://github.com/dipu-bd/lightnovel-crawler) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<tooltip><ul><li>Command Line based</li><li>Easy fetch for chapters</li><li>Fast experience</li><li>Needs basic knowledge for Command prompt</li></ul></tooltip>
 
 
-
-### Image
-- [Cultured Downloader](https://github.com/KJHJason/Cultured-Downloader) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [gallery-dl](https://github.com/mikf/gallery-dl) :glowing-star: :ic-baseline-window::mingcute-linux-fill:
-- [Hydrus network](https://hydrusnetwork.github.io/hydrus/) <Badge type="info" text="Scripts" link="https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts"/>:ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [PixivUtil2](https://github.com/Nandaka/PixivUtil2) :ic-baseline-window:
-
-::: details :material-symbols-subdirectory-arrow-right: Related resources
-- [Pixiv OAuth Flow (with browser dev console) by ZipFile](https://gist.github.com/ZipFile/c9ebedb224406f4f11845ab700124362) :glowing-star:
-- [Pixiv OAuth Flow (with Selenium) by upbit](https://gist.github.com/upbit/6edda27cb1644e94183291109b8a5fde)
-- [get pixivpy token](https://github.com/eggplants/get-pixivpy-token)
-
-:::
-
-
 ## Anime Tools
 - [Anicon](https://github.com/notdedsec/anicon) <Badge type="info" text="AniList" link="https://github.com/EnArvy/AniconforAnilist"/>:ic-baseline-window:
 - [Anitomy](https://github.com/erengy/anitomy)
@@ -413,23 +361,6 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - :material-symbols-subdirectory-arrow-right: [Encoding & Fansubbing Guides](/misc.md#encoding-fansubbing-guides)
 - :material-symbols-subdirectory-arrow-right: [More subtitle tools](/japan/software.md#subtitle)
 
-## Illustrations
-- [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [pixes](https://github.com/wgh136/pixes) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Pixeval](https://pixeval.github.io/) [:mdi-github:](https://github.com/Pixeval/Pixeval) :ic-baseline-window:
-- [Pixiv Powerful Viewer](https://github.com/fekoneko/pixiv-powerful-viewer) :ic-baseline-window:
-
-::: details :material-symbols-subdirectory-arrow-right: Related resources
-
-- [Illustration websites](/misc.md#illustrations)
-- [Illustration downloader for PC](#image)
-- [Illustration client for android](#illustrations)
-- Retrieving Pixiv token
-  - [Pixiv OAuth Flow (with browser dev console) by ZipFile](https://gist.github.com/ZipFile/c9ebedb224406f4f11845ab700124362) :glowing-star:
-  - [Pixiv OAuth Flow (with Selenium) by upbit](https://gist.github.com/upbit/6edda27cb1644e94183291109b8a5fde)
-  - [get pixivpy token](https://github.com/eggplants/get-pixivpy-token)
-
-:::
 
 ## Other Tools
 - [AMV Tracker](https://github.com/bsobotka/amv_tracker) :ic-baseline-window:

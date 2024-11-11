@@ -314,14 +314,7 @@ outline: [1,2]
 
 ## Image
 - [Betterviewer](https://github.com/Ademking/Betterviewer)
-- [Booru Shinshi](https://github.com/kuanyui/BooruShinshi) [:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/booru-shinshi/)
-- [Control Panel for Twitter](https://jbscript.dev/control-panel-for-twitter)
-- [Journey Buster 3](https://journeybuster.com/)
-- [KellyC Image Downloader](https://github.com/NC22/KellyC-Image-Downloader) [:mdi-earth:](https://kellydownloader.com/en/)[:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/kellyc-image-downloader/mbhkdmjolnhcppnkldbdfaomeabjiofm)
-- [Pixiv Batch Downloader](https://github.com/xuejianxianzun/PixivBatchDownloader) [:mdi-earth:](https://pixiv.download/)[:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/powerful-pixiv-downloader/dkndmhgdcmjdmkdonmbgjpijejdcilfh)
-- [Pixiv Fanbox Downloader](https://github.com/xuejianxianzun/PixivFanboxDownloader) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/pixiv-fanbox-downloader/ihnfpdchjnmlehnoeffgcbakfmdjcckn)
-- [Pixiv Toolkit Next](https://github.com/leoding86/webextension-pixiv-toolkit) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/pixiv-toolkit-next/ajlcnbbeidbackfknkgknjefhmbngdnj)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/pixiv-toolkit/)
-- [Sakuga Extended](https://github.com/ftLoic/Sakuga-Extended) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/khmnmdaghmhkcbooicndamlhkcmpklmc)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/sakuga-extended/)
+- [KellyC Image Downloader](https://github.com/NC22/KellyC-Image-Downloader) [:mdi-earth:](https://kellydownloader.com/en/)[:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/
 - [Search by Image](https://github.com/dessant/search-by-image) :glowing-star:
 
 
@@ -378,16 +371,6 @@ outline: [1,2]
 - [Manga Online Viewer](https://github.com/TagoDR/MangaOnlineViewer)
 - [MangaPlusPlus](https://github.com/kmsomebody/MangaPlusPlus)
 
-## Pixiv
-- [Improve Pixiv Thumbnails](https://greasyfork.org/en/scripts/390077-improve-pixiv-thumbnails) [:mdi-github:](https://github.com/kepstin/Fix-pixiv-thumbnails)
-- [Label Pixiv Bookmarks](https://greasyfork.org/en/scripts/423823) [:mdi-github:](https://github.com/Ziqing19/LabelPixivBookmarks)
-- [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE%2B)
-- [Pixiv Downloader](https://sleazyfork.org/zh-CN/scripts/432150-pixiv-downloader) [:mdi-github:](https://github.com/drunkg00se/Pixiv-Downloader)
-- [Pixiv Infinite Scroll](https://github.com/hamachi25/Pixiv-Infinite-Scroll)
-- [Pixiv Plus](https://greasyfork.org/en/scripts/34153-pixiv-plus)
-- [Pixiv Popularity Sorter/Filter](https://greasyfork.org/en/scripts/497015)
-- [Pixiv Preview](https://greasyfork.org/en/scripts/39387-pixiv-arts-preview-followed-atrists-coloring-extended-history) [:mdi-github:](https://github.com/NightLancer/PixivPreview)
-- [ppixiv for Pixiv](https://greasyfork.org/en/scripts/370418-ppixiv-for-pixiv) [:mdi-github:](https://github.com/ppixiv/ppixiv)
 
 ## 4Chan
 - [4chan X](https://github.com/ccd0/4chan-x)
@@ -403,10 +386,6 @@ outline: [1,2]
 - **Games**
   - [CS RIN RU Enhanced](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external)
   - Game DL Links on <Badge type="tip" text="GOG" link="https://greasyfork.org/en/scripts/481134-gog-to-free-download-site" /> <Badge type="tip" text="Steam" link="https://greasyfork.org/en/scripts/481139-steam-to-free-download-site" />
-- **Imageboards**
-  - [Gelbooru Overhaul Userscript](https://github.com/Enchoseon/gelbooru-overhaul-userscript)
-  - [Handy Image](https://sleazyfork.org/en/scripts/109-handy-image) [:mdi-github:](https://github.com/Owyn/HandyImage)
-  - [Image Max URL](https://github.com/qsniyg/maxurl)
 - **Music**
   - [Ame](https://notabug.org/SuperSaltyGamer/ame/)
   - [Discogs Scout](https://greasyfork.org/en/scripts/439452-discogs-scout) [:mdi-github:](https://github.com/Purfview/Discogs-Scout)

@@ -1,13 +1,13 @@
 ---
-title: Illustrations
-description: Everything Illustrations
-customDescription: Illustrations based sites, software, scipts and Exptensions
+title: Art
+description: Everything Art
+customDescription: Art-based sites, software, scipts and extensions
 outline: [1,2]
 ---
 
-<GradientCard title="Illustrations" description="Everything Illustrations in one page." theme="turquoise" variant="thin"/>
+<GradientCard title="Art" description="Everything Art-related in one page!" theme="turquoise" variant="thin"/>
 
-::: danger All listed contents have NSFW content unless specified otherwise.
+::: danger All listed links contain NSFW material unless specified otherwise.
 :::
 
 ![](/banner/sites.webp)
@@ -15,7 +15,7 @@ outline: [1,2]
 # Websites
 
 
-## Open Platforms
+## Artist Platforms
 
 - [ArtStation](https://www.artstation.com/)
 - [Bluesky](https://bsky.app/)
@@ -28,19 +28,14 @@ outline: [1,2]
 - [Nico Nico Seiga](https://seiga.nicovideo.jp/)
 - [Pixiv](https://www.pixiv.net) :glowing-star:
   - [Pixivision](https://www.pixivision.net/en/)
-  - [PixivFE](https://pixivfe.exozy.me/) [:simple-icons-codeberg:](https://codeberg.org/VnPower/PixivFE)
-  - [Pixiv Now](https://pixiv.js.org/)
-  - [Pixiv Viewer](https://pixiv.pics/)
   - [Pixiv Yearbook](https://pixiv.navirank.com/) :glowing-star:
 - [Poipiku](https://poipiku.com/)
 - [Tinami](https://www.tinami.com/)
 - [Tumblr](https://www.tumblr.com/)
-  - [Priviblur](https://github.com/syeopite/priviblur)
 - [Twitter](https://x.com/home) :glowing-star:
-  - [X Cancelled](https://xcancel.com/)
   - [Twoucan](https://twoucan.com/)
 
-## Support Platforms / Comms
+## Support / Commission
 - [BOOTH](https://booth.pm/en)
 - [Fantia](https://fantia.jp/)
 - [Patreon](https://www.patreon.com/)
@@ -55,6 +50,7 @@ outline: [1,2]
 - [Donmai](https://donmai.moe/) <Badge type="green" link="" text="SFW"/>
 - [Gelbooru](https://gelbooru.com/) :glowing-star:
 - [Konachan](https://konachan.com/)
+- [Konachan](https://konachan.net/) <Badge type="green" link="" text="SFW"/>
 - [Mikubooru](https://booru.funmaker.moe/) [:mdi-github:](https://github.com/funmaker/hybooru)
 - [Safebooru](https://safebooru.org/) <Badge type="green" text="SFW" />
 - [TBIB](https://tbib.org/)
@@ -73,6 +69,15 @@ outline: [1,2]
 - [Sakuga Clips](https://x.com/sakugaclips) :mdi-twitter:
 - [SakugaDEYO](https://x.com/SakugaDEYO) :mdi-twitter:
 - [Sakuga 作画](https://x.com/sakugacontent) :mdi-twitter:
+
+## Frontend / Utility
+- [booring](https://booring.herokuapp.com/) [:mdi-github:](https://github.com/markpwns1/booring)
+- [Pixiv.cat](https://pixiv.cat/) <Badge type="tip" text="2" link="https://pixiv.re/" /><Badge type="tip" text="3" link="https://pixiv.ve/" />  [:mdi-github:](https://github.com/pixiv-cat/pixivcat-backend)
+- [PixivFE](https://pixivfe.exozy.me/) [:simple-icons-codeberg:](https://codeberg.org/VnPower/PixivFE)
+- [Pixiv Now](https://pixiv.js.org/)
+- [Pixiv Viewer](https://pixiv.pics/)
+- [Priviblur](https://github.com/syeopite/priviblur)
+- [X Cancelled](https://xcancel.com/)
 
 ## Others
 - [Settai Dreams](https://setteidreams.net/) :glowing-star:
@@ -108,6 +113,12 @@ outline: [1,2]
 - [Wallflow](https://github.com/ammargitham/WallFlow)
 - [RWalls](https://github.com/meh430/RWalls)
 - [Pixiv for Muzei 3](https://github.com/yellowbluesky/PixivforMuzei3)
+
+## iOS
+
+- [pixes](https://github.com/wgh136/pixes)
+- [PixiView](https://github.com/matsumo0922/PixiView-KMP)
+- [Anime Boxes](https://apps.apple.com/us/app/anime-boxes/id525540312)
 
 
 ## PC
@@ -157,17 +168,18 @@ outline: [1,2]
 
 ### Booru
 - [Gelbooru Overhaul Userscript](https://github.com/Enchoseon/gelbooru-overhaul-userscript)
+- [Sakugabooru Browse Fix](https://greasyfork.org/en/scripts/506018)
 
 ### Pixiv
-- [Improve Pixiv Thumbnails](https://greasyfork.org/en/scripts/390077-improve-pixiv-thumbnails) [:mdi-github:](https://github.com/kepstin/Fix-pixiv-thumbnails)
+- [Improve Pixiv Thumbnails](https://greasyfork.org/en/scripts/390077) [:mdi-github:](https://github.com/kepstin/Fix-pixiv-thumbnails)
 - [Label Pixiv Bookmarks](https://greasyfork.org/en/scripts/423823) [:mdi-github:](https://github.com/Ziqing19/LabelPixivBookmarks)
 - [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE%2B)
-- [Pixiv Downloader](https://sleazyfork.org/zh-CN/scripts/432150-pixiv-downloader) [:mdi-github:](https://github.com/drunkg00se/Pixiv-Downloader)
+- [Pixiv Downloader](https://sleazyfork.org/zh-CN/scripts/432150) [:mdi-github:](https://github.com/drunkg00se/Pixiv-Downloader)
 - [Pixiv Infinite Scroll](https://github.com/hamachi25/Pixiv-Infinite-Scroll)
-- [Pixiv Plus](https://greasyfork.org/en/scripts/34153-pixiv-plus)
+- [Pixiv Plus](https://greasyfork.org/en/scripts/34153)
 - [Pixiv Popularity Sorter/Filter](https://greasyfork.org/en/scripts/497015)
-- [Pixiv Preview](https://greasyfork.org/en/scripts/39387-pixiv-arts-preview-followed-atrists-coloring-extended-history) [:mdi-github:](https://github.com/NightLancer/PixivPreview)
-- [ppixiv for Pixiv](https://greasyfork.org/en/scripts/370418-ppixiv-for-pixiv) [:mdi-github:](https://github.com/ppixiv/ppixiv)
+- [Pixiv Preview](https://greasyfork.org/en/scripts/39387) [:mdi-github:](https://github.com/NightLancer/PixivPreview)
+- [ppixiv for Pixiv](https://greasyfork.org/en/scripts/370418) [:mdi-github:](https://github.com/ppixiv/ppixiv)
 
 ### General
 - [Handy Image](https://sleazyfork.org/en/scripts/109-handy-image) [:mdi-github:](https://github.com/Owyn/HandyImage)

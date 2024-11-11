@@ -41,7 +41,7 @@ const nav: DefaultTheme.NavItem[] = [
       { text: 'Software', link: '/software' },
       { text: 'Misc-sites', link: '/misc' },
       { text: 'Tools', link: '/tools' },
-      { text: 'Illustrations', link: '/illust' },
+      { text: 'Art', link: '/art' },
       { text: 'Music', link: '/music' },
       { text: 'Games', link: '/games' },
       { text: 'Non-English', link: '/nonen' },
@@ -163,8 +163,8 @@ const sidebar: DefaultTheme.Sidebar = [
     link: '/tools'
   },
   {
-    text: '<span class="i-lucide:brush"></span> Illustrations',
-    link: '/illust'
+    text: '<span class="i-lucide:brush"></span> Art',
+    link: '/art'
   },
   {
     text: '<span class="i-lucide:music"></span> Music',
