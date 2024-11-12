@@ -314,7 +314,6 @@ outline: [1,2]
 
 ## Image
 - [Betterviewer](https://github.com/Ademking/Betterviewer)
-- [KellyC Image Downloader](https://github.com/NC22/KellyC-Image-Downloader) [:mdi-earth:](https://kellydownloader.com/en/)[:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/
 - [Search by Image](https://github.com/dessant/search-by-image) :glowing-star:
 
 
