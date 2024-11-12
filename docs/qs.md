@@ -7,6 +7,10 @@ outline: [2,3]
 
 <GradientCard title="Quick Start" description="The basic things to get you started." theme="turquoise" variant="thin"/>
 
+::: tip Quick Tip
+If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, it has almost everything. If you don't know how to torrent yet, check out our [**how-to torrent guide**](/torrenting/start.md).
+:::
+
 ![](/banner/wanime.webp)
 
 ## Anime
