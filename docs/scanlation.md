@@ -63,7 +63,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 
 ## Redrawing guides
 
-- Fascans Redrawing guide <Badge type="tip" text="Part 1" link="https://fascans.com/featured/basic-redrawing-tutorials-part-1-using-clone-stamp-tool-effectively/" /><Badge type="tip" text="Part 2" link="https://fascans.com/position/redrawer/basic-redrawing-tutorials-part-2-dealing-with-linesspeed-lines/" />
+- Fascans Redrawing guide <Badge type="tip" text="Part 1" link="https://web.archive.org/web/20230523124036/https://fascans.com/featured/basic-redrawing-tutorials-part-1-using-clone-stamp-tool-effectively/" /><Badge type="tip" text="Part 2" link="https://web.archive.org/web/20230523123708/https://fascans.com/position/redrawer/basic-redrawing-tutorials-part-2-dealing-with-linesspeed-lines/" />
 - [Rain's Redraw Tutorials](https://web.archive.org/web/20140814131939/http://www.redhawkscans.com/showthread.php?7057-Rain-s-Redraw-Tutorials&p=112119&viewfull=1#post112119)
 
 
