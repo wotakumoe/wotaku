@@ -48,6 +48,7 @@ outline: [1,2]
 
 
 ## Booru
+- [Anime Pictures](https://anime-pictures.net/)
 - [Danbooru](https://danbooru.donmai.us/)
 - [Donmai](https://donmai.moe/) <Badge type="green" link="" text="SFW"/>
 - [Gelbooru](https://gelbooru.com/) :glowing-star:
@@ -76,12 +77,12 @@ outline: [1,2]
 
 ### Booru
 - [booring](https://booring.herokuapp.com/) [:mdi-github:](https://github.com/markpwns1/booring)
-- [Booru Masonary](https://booru.pixiv.pics/) <Badge type="tip" text="2" link="https://booru.vercel.app/" /><Badge type="tip" text="3" link="https://booru.cocomi.eu.org/" /> [:mdi-github:](https://github.com/asadahimeka/booruwf-web)
+- [Booru Masonary](https://booru.pixiv.pics/) :glowing-star: <Badge type="tip" text="2" link="https://booru.vercel.app/" /><Badge type="tip" text="3" link="https://booru.cocomi.eu.org/" /> [:mdi-github:](https://github.com/asadahimeka/booruwf-web)
 - [Moeview](https://moeview.app/) <Badge type="tip" text="2" link="https://moeview.pages.dev/" /><Badge type="tip" text="3" link="https://moeview.pixiv.pics/" />
 
 ### Pixiv
 - [Pixiv.cat](https://pixiv.cat/) <Badge type="tip" text="2" link="https://pixiv.re/" /><Badge type="tip" text="3" link="https://pixiv.ve/" />  [:mdi-github:](https://github.com/pixiv-cat/pixivcat-backend)
-- [PixivFE](https://pixivfe.exozy.me/) [:simple-icons-codeberg:](https://codeberg.org/VnPower/PixivFE)
+- [PixivFE](https://pixivfe.exozy.me/) :glowing-star: [:simple-icons-codeberg:](https://codeberg.org/VnPower/PixivFE)
 - [Pixiv Now](https://pixiv.js.org/) <Badge type="tip" text="2" link="https://now.pixiv.pics/#/" /> [:mdi-github:](https://github.com/FreeNowOrg/PixivNow)
 - [Pixiv Viewer](https://pixiv.pics/) [:mdi-github:](https://github.com/asadahimeka/pixiv-viewer)
 - [Pxelk](https://pxelk.pixiv.pics/) [:mdi-github:](https://github.com/ShugetsuSoft/pixivel-front)
@@ -92,7 +93,6 @@ outline: [1,2]
 
 ## Others
 - [Settai Dreams](https://setteidreams.net/) :glowing-star:
-- [Anime Pictures](https://anime-pictures.net/) <Badge type="green" text="SFW" />
 - [Kemono](https://kemono.su/)
 - [Studio Ghibli](https://www.ghibli.jp/info/013772/) <Badge type="green" text="SFW" />
 - [Wallhaven](https://wallhaven.cc/)
@@ -180,7 +180,7 @@ outline: [1,2]
 ### Booru
 - [Gelbooru Overhaul Userscript](https://github.com/Enchoseon/gelbooru-overhaul-userscript)
 - [Sakugabooru Browse Fix](https://greasyfork.org/en/scripts/506018)
-- [Yande.re Masonry](https://sleazyfork.org/en/scripts/444885) [:mdi-github:](https://github.com/asadahimeka/yandere-masonry)
+- [Yande.re Masonry](https://sleazyfork.org/en/scripts/444885) :glowing-star: [:mdi-github:](https://github.com/asadahimeka/yandere-masonry)
 
 ### Pixiv
 - [Improve Pixiv Thumbnails](https://greasyfork.org/en/scripts/390077) [:mdi-github:](https://github.com/kepstin/Fix-pixiv-thumbnails)
