@@ -60,11 +60,11 @@ outline: [1,2]
 - [Sakuga Booru](https://www.sakugabooru.com/) :glowing-star:  [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/khmnmdaghmhkcbooicndamlhkcmpklmc)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/sakuga-extended/)<Badge type="green" text="SFW" />
 - [Sakuga.video](https://sakuga.video/)
 - [ArtSakuga](https://x.com/artsakuga) :mdi-twitter:
-- [D.K.](https://x.com/DanKantori) :glowing-star: :mdi-twitter:
-- [Extra Sakuga](https://x.com/EffectsSakuga) :mdi-twitter:
+- [Dan Kantori](https://x.com/DanKantori) :glowing-star: :mdi-twitter:
+- [Effects Sakuga](https://x.com/EffectsSakuga) :mdi-twitter:
 - [Mack Bay](https://x.com/SaberzzSeiba) :mdi-twitter:
 - [randomsakuga](https://x.com/randomsakuga) :mdi-twitter:
-- [rinri](https://x.com/guyayaHime)
+- [rinri](https://x.com/guyayaHime) :mdi-twitter:
 - [Sakuga Clips](https://x.com/sakugaclips) :mdi-twitter:
 - [SakugaDEYO](https://x.com/SakugaDEYO) :mdi-twitter:
 - [Sakuga 作画](https://x.com/sakugacontent) :mdi-twitter:
