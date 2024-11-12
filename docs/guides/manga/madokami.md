@@ -6,6 +6,8 @@ outline: [2,3]
 
 <GradientCard title="Madokami Guide" description="Joining guide for Madokami through IRC" theme="turquoise" variant="thin"/>
 
+<br>
+
 # Madokami Guide
 
 
