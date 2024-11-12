@@ -19,7 +19,7 @@ The client can be a dedicated torrent downloader or it can support both torrent 
 
 ___
 
-For this guide, we will use [**qBittorrent**](https://www.qbittorrent.org/) `v4.3.9` and download files from [**Nyaa**](https://nyaa.si/). Other clients should work in a similar manner, with minor UI changes.
+For this guide, we will use [**qBittorrent**](https://www.qbittorrent.org/) `v5.0.1` and download files from [**Nyaa**](https://nyaa.si/). Other clients should work in a similar manner, with minor UI changes.
 
 ::: details Basic UI guide
 
@@ -51,6 +51,18 @@ The columns are customizable. You can rearrange them, adjust width or choose whi
 9. The number of people leeching (downloading) from you. The brackets work the same as in the previous column.
 10. The amount of Uploaded divided by Downloaded data. In general, it's good practice to keep it higher. Not necessary for public trackers, but you need to keep it above 1 for private trackers.
 11. Availability indicates the health of the given torrent. Being equal or greater than 1 means that all files are available for download. If it's less than 1, you can't fully download the torrent.
+
+:::
+
+::: details Why does qBittorrent look different?
+Default dark mode of qBittorrent is just too ugly. So we are using a custom theme, [**Iceberg**](https://github.com/CyberSeas/qBittorrentDarktheme).
+
+0. Download ICEBERG.qbtheme from [**here**](https://github.com/CyberSeas/qBittorrentDarktheme/blob/master/ICEBERG.qbtheme).
+1. Open qBittorrent, press `Alt + o` & check **Use custom UI theme**
+2. Select your downloaded ICEBERG.qbtheme from File explorer
+3. Press Apply and restart qBittorrent
+
+![](/torrenting/start/100.png)
 
 :::
 
