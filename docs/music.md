@@ -281,7 +281,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
   - [Vocaloid](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-vocaloid/)
   - [Utaite Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-utaite-music/)
 - **Vocaloid**
-  - [Imo Danshaku](https://www.youtube.com/@user-oc3nr5dv6v/)
+  - [Imo Danshaku](https://www.youtube.com/@%E3%81%84%E3%82%82%E7%94%B7%E7%88%B5-g7g)
   - [Vocamed](https://www.youtube.com/@vocamed)
   - [:mdi-clover:/jp/ vocaloid playlist ](https://www.youtube.com/playlist?list=PLQqLx44OgzZybkIf7LZ2YI8iLL9b3BpJw)
   - [Vocaloid Big Hits](https://music.youtube.com/playlist?list=RDCLAK5uy_mgu07-HoqLSU-WqjK2ldEQWLuPPm3CAy8)
