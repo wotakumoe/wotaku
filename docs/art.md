@@ -39,6 +39,8 @@ outline: [1,2]
 - [Art Mug](https://artmug.kr/index.php)
 - [BOOTH](https://booth.pm/en)
 - [Fantia](https://fantia.jp/)
+- [Gumroad](https://gumroad.com/)
+- [Ko-fi](https://ko-fi.com/)
 - [Patreon](https://www.patreon.com/)
 - [pixivFANBOX](https://www.fanbox.cc/)
 - [Skeb](https://skeb.jp/)
