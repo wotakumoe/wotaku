@@ -180,6 +180,7 @@ outline: [1,2]
 ## Scripts
 
 ### Booru
+- [Comic Looms](https://sleazyfork.org/en/scripts/397848-comic-looms) [:mdi-github:](https://github.com/MapoMagpie/eh-view-enhance)
 - [Gelbooru Overhaul Userscript](https://github.com/Enchoseon/gelbooru-overhaul-userscript)
 - [Sakugabooru Browse Fix](https://greasyfork.org/en/scripts/506018)
 - [Yande.re Masonry](https://sleazyfork.org/en/scripts/444885) :glowing-star: [:mdi-github:](https://github.com/asadahimeka/yandere-masonry)
