@@ -91,6 +91,8 @@ outline: [1,2]
 - [Gelbooru](https://gelbooru.com/) :glowing-star:
 - [Hentai Game CG](https://hentaigamecg.com/)
 - [Konachan](https://konachan.com/)
+- [Kusowanka](https://kusowanka.com/)
+- [Nozomi](https://nozomi.la/)
 - [Oreno3D](https://oreno3d.com/)
 - [Pixiv](https://www.pixiv.net)
 - [Pixiv Viewer](https://pixiv.pics/) :glowing-star:
