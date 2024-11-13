@@ -66,6 +66,10 @@ Default dark mode of qBittorrent is just too ugly. So we are using a custom them
 
 :::
 
+::: warning README
+If your [ISP](https://en.wikipedia.org/wiki/Internet_service_provider) is known for sending legal notices for using torrents, you should get a VPN and bind it in the torrent client. Recommended VPNs are added in [**FAQs**](/torrenting/faq.md). You will find the vpn binding guide [**here**](/torrenting/qbit.md#vpn-binding).
+:::
+
 ## Downloading Files
 
 ### Using Magnet URL
