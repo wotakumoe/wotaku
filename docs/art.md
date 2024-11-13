@@ -51,6 +51,7 @@ outline: [1,2]
 - [Anime Pictures](https://anime-pictures.net/)
 - [Danbooru](https://danbooru.donmai.us/)
 - [Donmai](https://donmai.moe/) <Badge type="green" link="" text="SFW"/>
+- [E-ShuuShuu](https://e-shuushuu.net/) <Badge type="green" link="" text="SFW"/>
 - [Gelbooru](https://gelbooru.com/) :glowing-star:
 - [Konachan.com](https://konachan.com/)
 - [Konachan.net](https://konachan.net/) <Badge type="green" link="" text="SFW"/>
@@ -61,7 +62,7 @@ outline: [1,2]
 - [Zerochan](https://www.zerochan.net/) <Badge type="green" text="SFW" />
 
 ## Sakuga
-- [Sakuga Booru](https://www.sakugabooru.com/) :glowing-star:  [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/khmnmdaghmhkcbooicndamlhkcmpklmc)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/sakuga-extended/)<Badge type="green" text="SFW" />
+- [Sakuga Booru](https://www.sakugabooru.com/) :glowing-star: <Badge type="green" text="SFW" />
 - [Sakuga.video](https://sakuga.video/)
 - [ArtSakuga](https://x.com/artsakuga) :mdi-twitter:
 - [Dan Kantori](https://x.com/DanKantori) :glowing-star: :mdi-twitter:
@@ -92,8 +93,9 @@ outline: [1,2]
 - [X Cancelled](https://xcancel.com/) [:mdi-github:](https://github.com/zedeus/nitter)
 
 ## Others
-- [Settai Dreams](https://setteidreams.net/) :glowing-star:
+- [Anihonetwallpaper](https://anihonetwallpaper.com/) <Badge type="green" text="SFW" />
 - [Kemono](https://kemono.su/)
+- [Settai Dreams](https://setteidreams.net/) :glowing-star:
 - [Studio Ghibli](https://www.ghibli.jp/info/013772/) <Badge type="green" text="SFW" />
 - [Wallhaven](https://wallhaven.cc/)
 - [wanderer.moe](https://wanderer.moe/) [:mdi-github:](https://github.com/wanderer-moe/site)
