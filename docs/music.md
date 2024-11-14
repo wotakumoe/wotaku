@@ -591,7 +591,6 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 - [MikuDB](https://discord.gg/w9Dq25n)
 - [OTAQUEST](https://discord.gg/SCHR2QB)
 - [Sitting on Clouds](https://discord.gg/x23SFbE)
-- [SquidBoard](https://discord.gg/ATjPbzR)
 
 ## Subreddits
 - [Vocaloid](https://old.reddit.com/r/vocaloid/)

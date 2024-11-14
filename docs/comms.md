@@ -41,7 +41,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [DoujinStyle](https://discord.gg/z2QDFdA)
 - [GetComics](https://discord.gg/G7UwGPZDJ7)
 
-### H-N
+### H-M
 - [HiAnime](https://discord.gg/hianime)
 - [Hikari](https://discord.gg/4bvsQS5555)
 - [Japanese Language Study Space](https://discord.gg/jlss)
@@ -57,15 +57,14 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [Manga Piracy](https://discord.gg/ZgMtAyxFSU)
 - [Mihon](https://discord.gg/mihon)
 - [MikuDB](https://discord.gg/w9Dq25n)
-- [NanDesuKa](https://discord.gg/RZN95Yer7d)
 
-### O-Z
+### N-Z
+- [NanDesuKa](https://discord.gg/RZN95Yer7d)v
 - [OTAQUEST](https://discord.gg/SCHR2QB)
 - [Scanner Usage School](https://discord.gg/NCzxVB9)
 - [Sho Habby Scans](https://discord.gg/GdV76sQs7d)
 - [Sitting on Clouds](https://discord.gg/x23SFbE)
 - [Sonic Zone](https://discord.gg/bj5vmb96YT)
-- [SquidBoard](https://discord.gg/ATjPbzR)
 - [SubsPlease](https://discord.gg/33Hxdas)
 - [Tachiyomi](https://discord.gg/tachiyomi)
 - [TCB Scans](https://discord.gg/tcbscans)
