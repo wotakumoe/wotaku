@@ -106,6 +106,7 @@ outline: [1,2]
 | [aria2](https://aria2.github.io/) :glowing-star: | :octicon-command-palette-16: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
 | [ArrowDL](https://www.arrow-dl.com/) | :ic-baseline-window: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
 | [Deluge](https://www.deluge-torrent.org/) | :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: | :cross-mark: | :check-mark-button: | :check-mark-button: |
+| [File centipede](https://github.com/filecxx/FileCentipede) | :ic-baseline-window::mingcute-linux-fill: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
 | [Free Download Manager](https://www.freedownloadmanager.org/) | :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: | :check-mark-button: | :check-mark-button: | :cross-mark: |
 | [Gopeed](https://gopeed.com/) | :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
 | [ImFile](https://imfile.io/) | :ic-baseline-window::ic-baseline-apple: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
