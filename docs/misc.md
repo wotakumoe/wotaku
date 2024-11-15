@@ -70,6 +70,7 @@ outline: [1,2]
 - [Anime Dubs Release Calendar](https://teamup.com/ksdhpfjcouprnauwda)
 - [AnimeSchedule](https://animeschedule.net/)
 - [Anisaki](https://anisaki.vercel.app/) [:mdi-github:](https://github.com/BayuDC/anisaki)
+- [Bangumi List](https://bgmlist.com/) [:mdi-github:](https://github.com/wxt2005/bangumi-list-v3) :flag-japan: :flag-china: <tooltip>Maintained by chinese devs, but lists JP schedule too.</tooltip>
 - [Kansou](https://www.kansou.me/) :flag-japan:
 - [Livechart](https://www.livechart.me/schedule) :glowing-star:
 - [Notify.moe](https://notify.moe/calendar) [:mdi-github:](https://github.com/animenotifier/notify.moe)
