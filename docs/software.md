@@ -111,8 +111,7 @@ outline: [1,2]
 # iOS
 
 ## Anime Streaming
-- [9Animator](https://nineanimator.marcuszhou.com/) <Badge type="tip" icon="i-ic-outline-discord" text="Nightly" link="https://discord.gg/dzTVzeW" /> [:mdi-github:](https://github.com/SuperMarcus/NineAnimator)
-- [Chouten beta](https://testflight.apple.com/join/Cg1rAPB8) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/GJGMJRPJ5j" />
+- [Chouten Beta](https://testflight.apple.com/join/Cg1rAPB8) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/GJGMJRPJ5j" />
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [MiruTV](https://mirutv.app/)
 - [Soshiki](https://github.com/soshikimoe/soshiki-ios)  <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="https://phiefferj24.github.io/soshiki-sources/sources.soshikisources" />
