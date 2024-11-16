@@ -285,6 +285,7 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 - [Grindmaster](https://goshintai.xyz/projects/grindmaster/)
 - [Genki Study Resources](https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/)
 - [Tobira Study Resources](https://sethclydesdale.github.io/tobira-study-resources/)
+- [Duendecat](http://duendecat.com/)
 - [Japanese Conjugation Practice](https://baileysnyder.com/jconj/)
 - [Don's Japanese Conjugation Drill](https://wkdonc.github.io/conjugation/drill.html)
 
