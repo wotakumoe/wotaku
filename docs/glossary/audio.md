@@ -465,7 +465,7 @@ Transcoding audio to higher [bit rate](#bit-rate), [bit depth](#bit-depth) or [s
 :::
 
 ::: tip The process
-To learn how to transcode using Foobar2000, [**read this guide :mdi-arrow-top-right:**](/guides/music/transcoding.md).
+To learn how to transcode using Foobar2000, [**read this guide :mdi-arrow-top-right:**](/guides/music/transcoding).
 :::
 
 ## Other File types

@@ -127,7 +127,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 - [RethinkDNS](https://rethinkdns.com/) :mdi-android::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [NextDNS](https://nextdns.io/) :mdi-android::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
-::: tip [**Click here**](/guides/tech/adblock.md) for full adblock solutions.
+::: tip [**Click here**](/guides/tech/adblock) for full adblock solutions.
 :::
 
 ### Browsers

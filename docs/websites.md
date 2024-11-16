@@ -246,10 +246,10 @@ outline: 1
 
 
 ::: details :material-symbols-subdirectory-arrow-right: Related resources
-- [Anime apps for Android](/software.md#anime-streaming) and [PC](/software.md#anime-streaming-2)
-- [Anime downloader for PC](/software.md#anime)
-- [Anime info sites](/misc.md#anime-1) and [tracking sites](/misc.md#general)
-- [Miscellaneous tools](/software.md#anime-tools) & [Extensions](/tools.md#anime)
+- [Anime apps for Android](/software#anime-streaming) and [PC](/software#anime-streaming-2)
+- [Anime downloader for PC](/software#anime)
+- [Anime info sites](/misc#anime-1) and [tracking sites](/misc#general)
+- [Miscellaneous tools](/software#anime-tools) & [Extensions](/tools#anime)
 :::
 
 
@@ -368,9 +368,9 @@ outline: 1
 
 
 ::: details :material-symbols-subdirectory-arrow-right: Related resources
-- [Manga apps for Android](/software.md#manga-readers) and [PC](/software.md#manga-readers-2)
-- [Manga downloader for PC](/software.md#manga)
-- [Manga related tools](/software.md#manga-tools)
+- [Manga apps for Android](/software#manga-readers) and [PC](/software#manga-readers-2)
+- [Manga downloader for PC](/software#manga)
+- [Manga related tools](/software#manga-tools)
 :::
 
 
@@ -426,7 +426,7 @@ outline: 1
 - [PZG](https://nyaa.si/user/Phantom132)
 - [Stick](https://nyaa.si/user/dumbboy58)
 - [AudioBook Bay](https://audiobookbay.is/)
-- :material-symbols-subdirectory-arrow-right: [Audiobook player for phone](/music.md#audiobook)
+- :material-symbols-subdirectory-arrow-right: [Audiobook player for phone](/music#audiobook)
 
 
 
@@ -546,7 +546,7 @@ outline: 1
 ::: details :material-symbols-subdirectory-arrow-right: Related resources
 - [Invite route graph](https://inviteroute.github.io/graph/)
 - [Redacted Interview Prep](https://interviewfor.red/en/index.html)
-  - [Wotaku Audio Glossary](/glossary/audio.md)
+  - [Wotaku Audio Glossary](/glossary/audio)
 - [BakaBT Wiki](https://wiki.bakabt.me/index.php/Sign_up)
 
 :::

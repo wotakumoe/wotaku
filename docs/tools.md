@@ -31,7 +31,7 @@ outline: [1,2]
   - [dnswarden](https://dnswarden.com/index.html) :mdi-android::ic-baseline-apple:
   - [AhaDNS](https://blitz-setup.ahadns.com/) :mdi-android::ic-baseline-apple:
 
-::: tip [**Click here**](/guides/tech/adblock.md) for full adblock solutions.
+::: tip [**Click here**](/guides/tech/adblock) for full adblock solutions.
 :::
 
 ## Downloader
@@ -125,7 +125,7 @@ outline: [1,2]
 |-|-|
 | [aria2](https://aria2.github.io/) | [AriaNg](https://ariang.mayswind.net/) <br> [Aria2 Explorer](https://github.com/alexhua/Aria2-Explorer) <br> [Aria2 Integration](https://github.com/baptistecdr/aria2-extensions) <br> [Aria2 Manager](https://github.com/alexhua/Aria2-Manager) <br> [TrackersListCollection](https://github.com/XIU2/TrackersListCollection) |
 | [Internet Download Manager](https://www.internetdownloadmanager.com/) | [Installation Guide](https://rentry.org/installidm) |
-| [JDownloader](https://jdownloader.org/) | [Remove ads](/guides/tech/jdl.md) |
+| [JDownloader](https://jdownloader.org/) | [Remove ads](/guides/tech/jdl) |
 | [MegaBasterd](https://github.com/tonikelope/megabasterd) | [Account generator](https://github.com/qtchaos/py_mega_account_generator) <br> [MegaDoctor](https://github.com/tonikelope/megadoctor) |
 | [qBittorrent](https://www.qbittorrent.org/) | [Theme Index](https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-qBittorrent-themes) <br> [Search Plugins](https://github.com/qbittorrent/search-plugins) <br> [qBitController](https://github.com/Bartuzen/qBitController) <br> [VueTorrent](https://github.com/VueTorrent/VueTorrent) |
 | [Transmission](https://transmissionbt.com/) | [Transmission Remote GUI](https://github.com/transmission-remote-gui/transgui) |
@@ -158,9 +158,9 @@ outline: [1,2]
   - [Waifu2X](https://github.com/nagadomi/waifu2x) <Badge type="tip" text="caffe" link="https://github.com/lltcggie/waifu2x-caffe" /><Badge type="tip" text="ncnn Vulkan" link="https://github.com/nihui/waifu2x-ncnn-vulkan" /><Badge type="tip" text="Ext GUI" link="https://github.com/AaronFeng753/Waifu2x-Extension-GUI" /><Badge type="tip" text="nunif" link="https://github.com/nagadomi/nunif" />
 
 ::: details :material-symbols-subdirectory-arrow-right: Related resources
-- [Illustration sites](/misc.md#illustrations)
+- [Illustration sites](/misc#illustrations)
 - [Scanlation related tools](/scanlation#tools)
-- [Manga Tools](/software.md#manga-tools)
+- [Manga Tools](/software#manga-tools)
 :::
 
 
@@ -333,7 +333,7 @@ outline: [1,2]
 - [uBlock Origin](https://github.com/gorhill/uBlock) :glowing-star:
 - [Violentmonkey](https://violentmonkey.github.io/) :glowing-star:
 
-::: tip [**Click here**](/guides/tech/adblock.md) for full adblock solutions.
+::: tip [**Click here**](/guides/tech/adblock) for full adblock solutions.
 :::
 
 ![](/banner/script.webp)

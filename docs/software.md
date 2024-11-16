@@ -289,9 +289,9 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
   - [Anime Catalogs](https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/configure)
 
 ::: details :material-symbols-subdirectory-arrow-right: Related resources
-- [Video tools](/tools.md#video-tools)
-- [mpv tools](/tools.md#mpv)
-- [arr tools](/tools.md#arr-tools)
+- [Video tools](/tools#video-tools)
+- [mpv tools](/tools#mpv)
+- [arr tools](/tools#arr-tools)
 - [Subtitle tools](#fansubbing-sub-tools)
 :::
 
@@ -310,8 +310,8 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
   - [MangaJaNaiConverterGui](https://github.com/the-database/MangaJaNaiConverterGui) :ic-baseline-window:
 - [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [SyncYomi](https://github.com/syncyomi/syncyomi) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-docker:
-- :material-symbols-subdirectory-arrow-right: [Image Tools](/tools.md#image-tools)
-- :material-symbols-subdirectory-arrow-right: [Manga image editing guide](/guides/manga/imagedit.md)
+- :material-symbols-subdirectory-arrow-right: [Image Tools](/tools#image-tools)
+- :material-symbols-subdirectory-arrow-right: [Manga image editing guide](/guides/manga/imagedit)
 
 
 ## eBook Tools
@@ -357,8 +357,8 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [VapourSynth](https://www.vapoursynth.com/) :ic-baseline-window: [:mdi-github:](https://github.com/vapoursynth/vapoursynth)
   - :material-symbols-subdirectory-arrow-right: [VSDB](https://vsdb.top/)
 - [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- :material-symbols-subdirectory-arrow-right: [Encoding & Fansubbing Guides](/misc.md#encoding-fansubbing-guides)
-- :material-symbols-subdirectory-arrow-right: [More subtitle tools](/japan/software.md#subtitle)
+- :material-symbols-subdirectory-arrow-right: [Encoding & Fansubbing Guides](/misc#encoding-fansubbing-guides)
+- :material-symbols-subdirectory-arrow-right: [More subtitle tools](/japan/software#subtitle)
 
 
 ## Other Tools
@@ -392,7 +392,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Mango](https://github.com/getmango/Mango) <Badge type="warning" text="Outdated" />
 
 ::: tip Mihon apps
-[**Android apps**](#manga-readers) that support the mihon extension system, can be used as clients for these hosting solutions. You can get extensions from [**here**](/guides/tech/repo.md)
+[**Android apps**](#manga-readers) that support the mihon extension system, can be used as clients for these hosting solutions. You can get extensions from [**here**](/guides/tech/repo)
 :::
 
 #### Novels

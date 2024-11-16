@@ -13,7 +13,7 @@ outline: 1
 <br>
 
 :::details Why does X site have so many ads?
-**Use an Adblocker**. We have added a [**full adblock resource list**](/guides/tech/adblock.md). Ads keep the websites running, but sometimes the ad ruin the experience or even link malware. If you want ad-free experience you can do take these steps.
+**Use an Adblocker**. We have added a [**full adblock resource list**](/guides/tech/adblock). Ads keep the websites running, but sometimes the ad ruin the experience or even link malware. If you want ad-free experience you can do take these steps.
 
 :::
 
@@ -22,14 +22,14 @@ The necessity of using a VPN depends on the method of downloading. For direct do
 :::
 
 :::details Why's the download so slow?
-Use a download manager. Some websites impose file transfer limits for a single thread, thereby restricting download speeds. Download managers overcome this limitation by leveraging multiple threads for downloading, resulting in faster download speeds. We have listed the recommended ones for [**pc**](/tools.md#downloader-1) and [**android**](/tools.md#downloader).
+Use a download manager. Some websites impose file transfer limits for a single thread, thereby restricting download speeds. Download managers overcome this limitation by leveraging multiple threads for downloading, resulting in faster download speeds. We have listed the recommended ones for [**pc**](/tools#downloader-1) and [**android**](/tools#downloader).
 :::
 
 :::details What does X term mean?
 We have explained meanings of a lot a weeb related terms in our glossary section.
-- [**General glossary**](/glossary/general.md) for terms that are common in every medium
-- [**Anime glossary**](/glossary/anime.md) for only anime specific terms
-- [**Manga glossary**](/glossary/manga.md) for manga specific terms
+- [**General glossary**](/glossary/general) for terms that are common in every medium
+- [**Anime glossary**](/glossary/anime) for only anime specific terms
+- [**Manga glossary**](/glossary/manga) for manga specific terms
 
 :::
 
@@ -83,11 +83,11 @@ Like a seedbox, it's also a remote service. It can download from p2p and various
 :::details Where can I get the highest quality manga releases?
 [Nyaa.si](https://nyaa.si/), [:mdi-clover:/co/](https://boards.4channel.org/co/) & [Madokami](/guides/manga/madokami). Manga image quality depends on the [**source**](/guides/digim) and how it's been ripped, with volume release usually being better than [**CaaS**](/glossary/manga#publisher) release. If you want to download officially translated manga, [**Nyaa**](https://nyaa.si/) is always the best source, though some of the rippers upload upscaled SD rips. 
 
-We have listed the most trusted rippers in the [**Nyaa section**](/websites.md#nyaa). Madokami mainly mirrors the nyaa releases.
+We have listed the most trusted rippers in the [**Nyaa section**](/websites#nyaa). Madokami mainly mirrors the nyaa releases.
 :::
 
 :::details What's the best website to read manga?
-Personal preference. Good online manga reading sites generally reupload nyaa releases (when it's available replacing/alongside the fantranslated one), but with added compression (e.g. [**Comick**](https://comick.io/home), [**Weeb Central**](https://weebcentral.com/), [**MangaFire**](https://mangafire.to/home), [**Batoto**](https://battwo.com/v3x), [**Mangapark**](https://mangapark.net/)) & watermark on (almost) every page (mangafire :slightly-smiling-face: ). On the other hand, generic ones only keep the fan-translated ones. You can read a short description about the sites [**here**](/websites.md#manga).
+Personal preference. Good online manga reading sites generally reupload nyaa releases (when it's available replacing/alongside the fantranslated one), but with added compression (e.g. [**Comick**](https://comick.io/home), [**Weeb Central**](https://weebcentral.com/), [**MangaFire**](https://mangafire.to/home), [**Batoto**](https://battwo.com/v3x), [**Mangapark**](https://mangapark.net/)) & watermark on (almost) every page (mangafire :slightly-smiling-face: ). On the other hand, generic ones only keep the fan-translated ones. You can read a short description about the sites [**here**](/websites#manga).
 :::
 
 :::details When will the new volume of "X" get ripped?
@@ -111,7 +111,7 @@ Like websites, it's also personal preference. But to us, [**Madokami**](/guides/
 :::
 
 :::details Why are the manga pages filled with squares / artifacts?
-Moiré. It generally happens during image downscaling. You can read about it in more detail [**here**](/glossary/manga.md#moire-moire).
+Moiré. It generally happens during image downscaling. You can read about it in more detail [**here**](/glossary/manga#moire-moire).
 :::
 
 :::details Where can I download manga in bulk?
@@ -161,7 +161,7 @@ On the other hand, aggregators like [**KickAssAnime**](https://kickassanime.am/)
 :::details Which player should I use?
 
 ### PC
-[**mpv**](https://mpv.io/) kinda covers everything for pc. We have listed everything you need for mpv in the [**tools page**](/tools.md#mpv).
+[**mpv**](https://mpv.io/) kinda covers everything for pc. We have listed everything you need for mpv in the [**tools page**](/tools#mpv).
 
 ### Android
 For android, there is also [mpvKt](https://github.com/abdallahmehiz/mpvKt) but the UI is too limited. You can use [**Aniyomi**](https://github.com/aniyomiorg/aniyomi)'s local option to watch anime. The UI is optimized with a good amount of options.
@@ -181,7 +181,7 @@ For android, there is also [mpvKt](https://github.com/abdallahmehiz/mpvKt) but t
 - [**Sitting on Clouds**](https://www.sittingonclouds.net/), [SquidBoard](https://www.squid-board.org/) & [**Sukidesu OST**](https://sukidesuost.info/) upload ripped music from hi-res sources.
 - Most of the current anime songs (sometime background scores too) are uploaded on legal music streaming services. You can rip from these services using [Squid.wtf](https://squid.wtf/), [YAMS](https://yams.tf/), [Lucida](https://lucida.to/) & [**DoubleDouble**](https://doubledouble.top/),  which can rip multiple hi-res sources.
 - You can also check out [**Nicotine+**](https://nicotine-plus.org/), a [**Soulseek**](https://www.slsknet.org/) client. People share their downloaded/own rips here. It uses P2P to transfer files, so a VPN is recommended. You may find really old or rare ones.
-- More sources are listed [**here**](/websites.md#music). If you want more ripping tools, you can check out more ripping tools in [others section](/music.md#downloader).
+- More sources are listed [**here**](/websites#music). If you want more ripping tools, you can check out more ripping tools in [others section](/music#downloader).
 :::
 
 :::details What player should I use for music?
