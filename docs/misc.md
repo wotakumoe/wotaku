@@ -113,7 +113,8 @@ outline: [1,2]
 - [:ic-outline-discord: Manga Groups Portal](https://discord.gg/9KGMzP2)
 - [r/LightNovels reading order](https://old.reddit.com/r/LightNovels/wiki/reading_order)
 - [Shoseki Ranking](http://shosekiranking.blog.fc2.com/)
-- [Touhou Doujinshi Index](https://scarlet.nanoskript.dev/) :glowing-star: <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" /> [:mdi-github:](https://github.com/nanoskript/touhou-doujinshi-index)  
+- [Touhou Doujinshi Index](https://scarlet.nsk.sh/) :glowing-star: <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" /> [:mdi-github:](https://github.com/nanoskript/touhou-doujinshi-index) 
+
 
 ### Calendar
 
