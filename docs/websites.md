@@ -188,7 +188,7 @@ outline: 1
 
 - [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" /> 
 - [Anirena](https://www.anirena.com/)
-- [Shana Project](https://www.shanaproject.com/) <Badge type="info" text="Tokyo tosho" link="https://www.tokyotosho.info/" />
+- [Tokyo Toshokan](https://www.tokyotosho.info/)
 
 
 ### Direct Download
