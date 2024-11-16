@@ -297,7 +297,7 @@ Illustrations now has its [own page](/art)!
 - [HoloSchedule](https://github.com/YunzheZJU/holo-schedule) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/holoschedule/fjicegllhddldnnkgfefblholeegpcad)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/holo-schedule/)
 - [HyperChat](https://livetl.app/hyperchat) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/hyperchat-improved-youtub/naipgebhooiiccifflecbffmnjbabdbh)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/hyperchat/)
 - [TTV LOL PRO](https://github.com/younesaassila/ttv-lol-pro) [:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/ttv-lol-pro/bpaoeijjlplfjbagceilcgbkcdjbomjd)[:mdi-firefox:](https://addons.mozilla.org/addon/ttv-lol-pro/)
-  - :material-symbols-subdirectory-arrow-right: More [Twitch Ad Solutions](https://github.com/pixeltris/TwitchAdSolutions/blob/master/full-list)
+  - :material-symbols-subdirectory-arrow-right: More [Twitch Ad Solutions](https://github.com/pixeltris/TwitchAdSolutions/blob/master/full-list.md)
 - [ytcFilter](https://github.com/LiveTL/ytcfilter) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/ytcfilter/mnldnbhgfocmkehnlkeanlhfmopepnko)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/ytcfilter/)
 
 
