@@ -72,20 +72,22 @@ outline: [2,3]
 - [Proverb encyclopedia](https://proverb-encyclopedia.com/)
 
 ### Dictionary
-- [Wiktionary](https://wiktionary.org) <Badge type="tip" text="EN" link="https://en.wiktionary.org/" /><Badge type="tip" text="JP" link="https://ja.wiktionary.org/" />
-- [Jisho](https://jisho.org/)
-- [jpdb.io](https://jpdb.io/)
 - [ichi.moe](https://ichi.moe/)
 - [JapanDict](https://www.japandict.com/)
 - [Japanese KANJI Names Dictionary](https://kanji.reader.bz/en/)
-- [Kanjipedia](https://www.kanjipedia.jp/)
-- [The Kanji Map](https://thekanjimap.com/)
 - [JapaneseGraph](https://japanesegraph.com/)
+- [Jisho](https://jisho.org/)
+- [jpdb.io](https://jpdb.io/)
+- [Kanji Search](https://khaitruong922.github.io/kanji-search/) [:mdi-github:](https://github.com/khaitruong922/kanji-search)
+- [Kanjipedia](https://www.kanjipedia.jp/)
+- [Kotonoha dictionary](https://kotonoha-dictionary.com/)
+- [pixiv Encyclopedia](https://dic.pixiv.net/)
 - [Takoboto](https://takoboto.jp/)
 - [Tangorin](https://tangorin.com/)
+- [The Kanji Map](https://thekanjimap.com/)
 - [Weblio](https://ejje.weblio.jp/)
-- [Kanji Search](https://khaitruong922.github.io/kanji-search/) [:mdi-github:](https://github.com/khaitruong922/kanji-search)
-- [Kotonoha dictionary](https://kotonoha-dictionary.com/)
+- [Wiktionary](https://wiktionary.org) <Badge type="tip" text="EN" link="https://en.wiktionary.org/" /><Badge type="tip" text="JP" link="https://ja.wiktionary.org/" />
+
 
 ### Practice
 - [Kotobaweb](https://kotobaweb.com/)

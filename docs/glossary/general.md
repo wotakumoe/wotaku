@@ -78,6 +78,9 @@ customDescription: Weeb terms that you will see everywhere!
 | Yamato Nadeshiko  |  A Japanese term used to describe an ideal Japanese woman. They are the epitome of pure, feminine beauty.   |
 | Zettai Ryouiki  |   Translates to 'Absolute Territory'. Refers to the space of bare thighs between the skirt and above knee-length socks.  |
 
+::: info More words
+More terms can be found in [Wikipedia](https://www.wikipedia.org/) [pixiv Encyclopedia](https://dic.pixiv.net/) & [Fandom](https://www.fandom.com/).
+:::
 
 ## Common Honorifics 
 
