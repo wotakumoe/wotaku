@@ -145,6 +145,7 @@ outline: 1
   - [AniPulse](https://www.anipulse.to/) :mingcute-user-2-fill:  `gz`<tooltip>AniPulse server is a self-hosted backup, sourced from gogo.</tooltip>
   - [AniPlay](https://aniplaynow.live/) :mingcute-refresh-2-fill::mingcute-user-2-fill:`gz`
   - [Gojo](https://gojo.live/) :mingcute-user-2-fill: <Badge type="info" text="2" link="https://gojo.wtf" /> `gz`
+  - [Kaguya](https://kaguya.app/anime) :mingcute-refresh-2-fill: `gzs` <tooltip>Extension is MV3 based. So only possible for Chromium-based browsers.</tooltip>
   - [Makima](https://makima.xyz/) :mingcute-refresh-2-fill: `gz`
   - [Shiroko](https://shiroko.co/en) :mingcute-refresh-2-fill: `gz`
 - **Single server**
