@@ -497,8 +497,6 @@ outline: 1
 - [Read All Comics](https://readallcomics.com/) :glowing-star:
 - [Read Comic Online (.li)](https://readcomiconline.li/) :glowing-star:
 - [Read Comics Online (.ru)](https://readcomicsonline.ru/)
-- [View Comics](https://azcomix.net/)
-- [XOXO Comics](https://xoxocomic.com/)
 
 ## Direct Download
 - [Anna’s Archive](https://annas-archive.org/) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
