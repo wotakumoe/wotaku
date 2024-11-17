@@ -308,12 +308,13 @@ If you have recommendations for good sites in your native language or want to re
 - [MangaWorldAdult](https://www.mangaworldadult.net/) <Badge type="danger" text="18+" />
 - [One Piece Power](https://onepiecepower.com/manga8/lista-manga)
 
-### Others
+### Downloaders
 
 #### PC
 | Category | Resources |
 |-|-|
-| Anime | [Anime-dl](https://github.com/gabelluardo/anime-dl) <Badge text="Downloader" /> <br> [Sonarr Anime Downloader](https://github.com/MainKronos/Sonarr-AnimeDownloader) <Badge text="Downloader" /> |
+| Anime | [Anime-dl](https://github.com/gabelluardo/anime-dl) <br> [Sonarr Anime Downloader](https://github.com/MainKronos/Sonarr-AnimeDownloader) |
+| Manga | [MangaWorld Downloader](https://github.com/Lysagxra/MangaWorldDownloader) |
 
 
 ## Japanese
