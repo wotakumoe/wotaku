@@ -181,6 +181,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [Kasumi](http://xdcc.kasumi.moe/) <Badge type="tip" text="Guide" link="http://kasumi.moe/guide/" />
 - [Kemono](https://kemono.su/)
 - [Manga-DB](https://adultcomic.dbsearch.net/) :flag-japan: :glowing-star:
+- [Nekohouse](https://nekohouse.su/)
 
 ## AV
 

@@ -95,6 +95,7 @@ outline: [1,2]
 ## Others
 - [Anihonetwallpaper](https://anihonetwallpaper.com/) <Badge type="green" text="SFW" />
 - [Kemono](https://kemono.su/)
+- [Nekohouse](https://nekohouse.su/)
 - [Settai Dreams](https://setteidreams.net/) :glowing-star:
 - [Studio Ghibli](https://www.ghibli.jp/info/013772/) <Badge type="green" text="SFW" />
 - [Wallhaven](https://wallhaven.cc/)
