@@ -64,6 +64,7 @@ outline: [1,2]
 ## Sakuga
 - [Sakuga Booru](https://www.sakugabooru.com/) :glowing-star: <Badge type="green" text="SFW" />
 - [Sakuga.video](https://sakuga.video/)
+- [A-1 Pictures Sakuga](https://x.com/A1_sakuga) :mdi-twitter:
 - [ArtSakuga](https://x.com/artsakuga) :mdi-twitter:
 - [Dan Kantori](https://x.com/DanKantori) :glowing-star: :mdi-twitter:
 - [Effects Sakuga](https://x.com/EffectsSakuga) :mdi-twitter:
