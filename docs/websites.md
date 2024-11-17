@@ -119,13 +119,7 @@ outline: 1
       <li>SW player is 720p only.</li>
     </ul>
   </tooltip>
-- [AnimeZ](https://animez.org/) :mingcute-server-fill::mingcute-user-2-fill:
-  <tooltip>
-    <ul>
-      <li>The library size is good.</li>
-      <li>A good amount of them are scraped from aniwave but 720p.</li>
-    </ul>
-  </tooltip>
+- [Animegg](https://www.animegg.org/) :mingcute-server-fill:
 - [Animotvslash](https://www.animotvslash.nl/) :mingcute-server-fill:
 - [Anivibe](https://anivibe.net/) :mingcute-server-fill: <Badge type="tip" text="2" link="https://anix.sh/home" /><Badge type="tip" text="3" link="https://www1.aniwave.ch/home" />
 - [Gogoanime](https://anitaku.pe/) :mingcute-server-fill::mingcute-user-2-fill: <Badge text="Proxies" link="https://gogotaku.info/" />
@@ -139,9 +133,15 @@ outline: 1
     </ul>
   </tooltip>
 
+### Low Res
+- [AnimeOnsen](https://www.animeonsen.xyz/) :mingcute-server-fill::mingcute-user-2-fill:
+- [AnimeZ](https://animez.org/) :mingcute-server-fill::mingcute-user-2-fill: <tooltip> Good library size, most are scraped from Aniwave.</tooltip>
+- [Otaku-Streamers](https://beta.otaku-streamers.com/) :mingcute-server-fill::mingcute-user-2-fill: <Badge type="info" text="Old" link="https://otaku-streamers.com/" /> <tooltip> Although new releases are in 1080p, older releases are a mixed bag, ranging from 480p to 720p.</tooltip>
+
 ### Scrapers
 
 - **Multi server**
+  - [Anime Realms](https://www.animerealms.org/) :mingcute-refresh-2-fill: `gz`
   - [AniPulse](https://www.anipulse.to/) :mingcute-user-2-fill:  `gz`<tooltip>AniPulse server is a self-hosted backup, sourced from gogo.</tooltip>
   - [AniPlay](https://aniplaynow.live/) :mingcute-refresh-2-fill::mingcute-user-2-fill:`gz`
   - [Gojo](https://gojo.live/) :mingcute-user-2-fill: <Badge type="info" text="2" link="https://gojo.wtf" /> `gz`
