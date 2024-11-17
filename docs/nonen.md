@@ -625,6 +625,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Truyen Full](https://truyenfull.io/)
 
 ### Others
+- [Tana.moe](https://tana.moe/)
 - [Tokuvn](https://tokuvn.com/)
 - [Vietnam Key FanClub](https://vnkeyfc.com/) <Badge type="info" text="DDL" />
 
