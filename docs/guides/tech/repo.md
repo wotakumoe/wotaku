@@ -1,7 +1,7 @@
 ---
 title: Mihon, Aniyomi & Dantotsu Extension Repos
 customDescription: Mihon, Aniyomi & Dantotsu Extension Repos & Guides
-outline: [3,4]
+outline: [2,3]
 ---
 
 <GradientCard title="Extension Repos" description="Mihon, Aniyomi & Dantotsu Extension Repos & Guides" theme="turquoise" variant="thin"/>
@@ -72,3 +72,23 @@ ___
 ___
 
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/dubXV-R9lUM" frameborder="0" allowfullscreen></iframe></div>
+
+
+## Other Apps
+These apps aren't part of the Tachiyomi/Mihon ecosystem, but instead use their own extensions. This section indexes these repos.
+
+### Android
+
+| Apps | Repo URL |
+|-|-|
+| [Kaguya](https://github.com/hoangvu12/kaguya-app) | [Official](https://rentry.co/zz8r7dsy) [:mdi-github:](https://github.com/hoangvu12/kaguya-modules) |
+| [LNReader](https://lnreader.github.io/) | [Official](https://lnreader.github.io/plugins) [:mdi-github:](https://github.com/LNReader/lnreader-plugins) |
+
+
+### iOS
+
+| Apps | Repo URL |
+|-|-|
+| [Aidoku](https://aidoku.app/) | [Community Sources](https://github.com/Skittyblock/aidoku-community-sources) |
+| [Paperback](https://paperback.moe/) | [Community Extensions](https://thenetsky.github.io/community-extensions/0.8/) [:mdi-github:](https://github.com/TheNetsky/community-extensions)  <br> [MangaStream Generic](https://seyden.github.io/extensions-generic-0.8/mangastream/) [:mdi-github:](https://github.com/Seyden/extensions-generic-0.8) <br> [Netsky’s Repo Index](https://thenetsky.github.io/netskys-extensions/) [:mdi-github:](https://github.com/TheNetsky/netskys-extensions) <br> [Vietnamese Extensions](https://huynlx.github.io/Extensions-Viet/) [:mdi-github:](https://github.com/huynlx/Extensions-Viet) <br> [Kavya](https://ack72.github.io/kavya-paperback/) [:mdi-github:](https://github.com/ACK72/kavya-paperback) |
+| [Suwatte](https://www.suwatte.app/) | [Mantton](https://aegir.mantton.com/) <br> [Jishnu](https://jishnusen.github.io/SuwatteSources/) [:mdi-github:](https://github.com/jishnusen/SuwatteSources) <br> [Seyden](https://seyden.github.io/extensions-suwatte-generic-6.0/generic/) [:mdi-github:](https://github.com/Seyden/extensions-suwatte-generic-6.0/tree/generic) <br> [Kusahime](https://sources.kusahi.me/) <br> [Community Runners](https://community.suwatte.app/) |
