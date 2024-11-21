@@ -51,7 +51,6 @@ outline: [1,2]
 - [Hentai Nexus](https://hentainexus.com/) <tooltip>fakku/irodori rips (official TLs).</tooltip>
 - [HentaiFox](https://hentaifox.com/) <tooltip>Fast Updates and English only library.</tooltip>
 - [HentaiKisu](https://hentaikisu.com/)
-- [HenTalk](https://hentalk.pw/) <tooltip>fakku/irodori rips (official TLs).</tooltip>
 - [Tsumino](https://www.tsumino.com/)
 - [Wholesome Hentai God List](https://wholesomelist.com/)
 
