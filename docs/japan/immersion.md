@@ -78,6 +78,7 @@ outline: [2,3]
 - [Xavier's Retimed JP Sub Pack](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTA0NDM1NA.ZHVjaw)
 - [Nekomoe Kissaten's Subtitles](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage)
 - [JP Subtitles](https://github.com/Matchoo95/JP-Subtitles)
+- [JP Audiobook Subtitles](https://github.com/ym1234/JPAudiobookSubtitles)
 
 
 ## Easy Reading
