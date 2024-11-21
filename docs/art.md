@@ -41,7 +41,7 @@ outline: [1,2]
 - [BOOTH](https://booth.pm/en)
 - [Fantia](https://fantia.jp/)
 - [Gumroad](https://gumroad.com/)
-- [Inprnt](https://www.inprnt.com/)
+- [INPRNT](https://www.inprnt.com/)
 - [Ko-fi](https://ko-fi.com/)
 - [Patreon](https://www.patreon.com/)
 - [pixivFANBOX](https://www.fanbox.cc/)
