@@ -23,6 +23,7 @@ outline: [1,2]
 - [Charaforio](https://charaforio.com/en)
 - [DeviantArt](https://www.deviantart.com/)
 - [Illust Days](https://illust.daysneo.com/)
+- [Instagram](https://www.instagram.com/)
 - [Misskey.io](https://misskey.io/) <Badge type="tip" text="Others" link="https://misskey-hub.net/en/servers/" /><tooltip>Registrations are currently limited to Japan only.</tooltip>
 - [Newgrounds](https://www.newgrounds.com/art)
 - [Nico Nico Seiga](https://seiga.nicovideo.jp/)
@@ -40,11 +41,14 @@ outline: [1,2]
 - [BOOTH](https://booth.pm/en)
 - [Fantia](https://fantia.jp/)
 - [Gumroad](https://gumroad.com/)
+- [Inprnt](https://www.inprnt.com/)
 - [Ko-fi](https://ko-fi.com/)
 - [Patreon](https://www.patreon.com/)
 - [pixivFANBOX](https://www.fanbox.cc/)
 - [Skeb](https://skeb.jp/)
+- [Skima](https://skima.jp/) <Badge type="tip" text="Global" link="https://wskima.com/" />
 - [VGen](https://vgen.co/)
+- [Xfolio](https://xfolio.jp/)
 
 
 ## Booru
@@ -75,7 +79,7 @@ outline: [1,2]
 - [SakugaDEYO](https://x.com/SakugaDEYO) :mdi-twitter:
 - [Sakuga 作画](https://x.com/sakugacontent) :mdi-twitter:
 
-## Frontend / Utility
+## Front-end / Utility
 
 ### Booru
 - [booring](https://booring.herokuapp.com/) [:mdi-github:](https://github.com/markpwns1/booring)
@@ -90,6 +94,7 @@ outline: [1,2]
 - [Pxelk](https://pxelk.pixiv.pics/) [:mdi-github:](https://github.com/ShugetsuSoft/pixivel-front)
 
 ### Others
+- [Piokok](https://www.piokok.com/)
 - [Priviblur](https://pb.bloat.cat/) [:mdi-github:](https://github.com/syeopite/priviblur)
 - [X Cancelled](https://xcancel.com/) [:mdi-github:](https://github.com/zedeus/nitter)
 
@@ -202,3 +207,5 @@ outline: [1,2]
 ### General
 - [Handy Image](https://sleazyfork.org/en/scripts/109-handy-image) [:mdi-github:](https://github.com/Owyn/HandyImage)
 - [Image Max URL](https://github.com/qsniyg/maxurl)
+- [Kemer Enhancement](https://sleazyfork.org/en/scripts/472096-kemer-%E5%A2%9E%E5%BC%B7)
+- [Kemono Browser](https://sleazyfork.org/en/scripts/483259-kemono-browser)
