@@ -115,17 +115,16 @@ outline: [1,2]
 - [Chouten Beta](https://testflight.apple.com/join/Cg1rAPB8) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/GJGMJRPJ5j" />
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [MiruTV](https://mirutv.app/)
-- [Soshiki](https://github.com/soshikimoe/soshiki-ios)  <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="https://phiefferj24.github.io/soshiki-sources/sources.soshikisources" />
 - [Ryu](https://github.com/cranci1/Ryu)
 
 ## Manga Readers
 
 ### Online
-- [Paperback](https://paperback.moe/) <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="https://thenetsky.github.io/netskys-extensions/" />[:mdi-github:](https://github.com/Paperback-iOS/app)
-- [Aidoku](https://aidoku.app/) <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="https://github.com/Skittyblock/aidoku-community-sources" />[:mdi-github:](https://github.com/Aidoku/Aidoku)
+- [Paperback](https://paperback.moe/) <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="/guides/tech/repo#ios" />[:mdi-github:](https://github.com/Paperback-iOS/app)
+- [Aidoku](https://aidoku.app/) <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="/guides/tech/repo#ios" />[:mdi-github:](https://github.com/Aidoku/Aidoku)
 - [Tachimanga](https://tachimanga.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="https://tachimanga.app/help/guides/adding-repos.html" /> <Badge type="warning" text="Freemium" />
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
-- [Suwatte](https://suwatte.mantton.com/) <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="https://rentry.co/suwatte2" />
+- [Suwatte](https://suwatte.mantton.com/) <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="/guides/tech/repo#ios" /><Badge type="tip" text="Converter" link="https://seyden.github.io/SuwatteConverter/suwatte" />
 - [Hanami](https://github.com/oolxg/Hanami)
 
 ### Local

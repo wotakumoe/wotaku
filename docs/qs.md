@@ -63,8 +63,8 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
   - [Yokai](https://mihon.app/forks/Yokai/) :glowing-star: [:mdi-github:](https://github.com/null2264/yokai)
   - [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :glowing-star: <Badge type="warning" text="Freemium" /><Badge type="info" text="Local" />
 - **iOS**
-  - [Paperback](https://github.com/Paperback-iOS/app) <Badge type="tip" text="Sources" link="https://thenetsky.github.io/netskys-extensions/" />
-  - [Aidoku](https://github.com/Aidoku/Aidoku) <Badge type="tip" text="Sources" link="https://github.com/Skittyblock/aidoku-community-sources" />
+  - [Paperback](https://github.com/Paperback-iOS/app) <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="/guides/tech/repo#ios" />
+  - [Aidoku](https://github.com/Aidoku/Aidoku) <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="/guides/tech/repo#ios" />
   - [YACReader](https://apps.apple.com/app/id635717885) :glowing-star: <Badge type="warning" text="Paid" /> <Badge type="tip" text="TestFlight" icon="i-ic-twotone-money-off" link="https://testflight.apple.com/join/5zhB7sRP" /><Badge type="info" text="Local" />
 - **PC**
   - [Houdoku](https://houdoku.netlify.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
