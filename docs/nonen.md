@@ -636,5 +636,3 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 | Category | Resources |
 |-|-|
 | Anime | [Anime VSub](https://github.com/anime-vsub/app) |
-| Manga | [Paperback Extension](https://github.com/huynlx/Extensions-Viet) |
-
