@@ -18,9 +18,9 @@ outline: [1,2]
 ## Anime
 - [Eronews](https://en.eroeronews.com/) <Badge type="tip" text="Schedule & News" />
 - [AnimeID Hentai](https://animeidhentai.com/)
-- [Haho](https://haho.moe/)
 - [Hanime](https://hanime.tv/) <Badge type="info" text="720p" /> 
 - [Hentai.tv](https://hentai.tv/)
+- [Hentai AHO Streaming](https://haho.moe/)
 - [Hentai Haven](https://hentaihaven.xxx/)
 - [Hentai Mama](https://hentaimama.io/)
 - [Hentai Stream](https://hstream.moe/) <Badge type="info" text="Upscale" />
