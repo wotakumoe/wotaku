@@ -374,7 +374,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 ## Korean
 
 ### Anime
-- [aniabout](https://aniabout.com/) <Badge type="info" text="2" link="https://aniweek.com/" /><Badge type="info" text="3" link="https://c.aniwolf.com/" /><Badge type="info" text="4" link="https://a01.kotbc2.com/" /><Badge type="info" text="5" link="https://a24.ohli24.com/" /><Badge type="info" text="6" link="https://ohlipia.com/" />
+- [aniabout](https://aniabout.com/) <Badge type="info" text="2" link="https://aniweek.com/" /><Badge type="info" text="3" link="https://c.aniwolf.com/" /><Badge type="info" text="4" link="https://a06.kotbc2.com/" /><Badge type="info" text="5" link="https://a24.ohli24.com/" /><Badge type="info" text="6" link="https://ohlipia.com/" />
 - [Anilife](https://anilife.live/)
 - [Anissia](https://anissia.net/) <tooltip>Subtitle files only, you need to get the episodes from another source.</tooltip>
 
@@ -388,7 +388,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 ### Others
 - [Booktoki](https://www.xn--h10bx0wsvp.org/)
-- [WatchaKR](https://m82.watchakr.com/) <Badge type="info" text="2" link="https://m133.kormovie.com/" /><Badge type="info" text="3" link="https://m01.kotbc2.com/" /><Badge type="info" text="4" link="https://m82.kowatcha.com/" />
+- [WatchaKR](https://m82.watchakr.com/) <Badge type="info" text="2" link="https://m133.kormovie.com/" /><Badge type="info" text="3" link="https://m06.kotbc2.com/" /><Badge type="info" text="4" link="https://m82.kowatcha.com/" />
 
 ### Software
 
@@ -507,6 +507,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 | Category | Resources |
 |-|-|
+| General | [Nlight](https://github.com/brandonzorn/Nlight) |
 | Anime | [Aniship](https://github.com/progzone122/AniShip) <Badge text="Stream" /> <br> [AndLibria.Qt](https://github.com/anilibria/anilibria-winmaclinux) <Badge text="Stream" /> |
 | Script | [Watch and download on Shikimori](https://github.com/Malanavi/Watch-and-download-on-Shikimori) |
 | Extension | [Shikimorist](https://github.com/Hokid/shikimorist) :mingcute-chrome-fill: |
@@ -597,10 +598,10 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 ### Anime
 - [Ani4u](https://ani4u.org/)
-- [Anime47](https://anime47.link/)
+- [Anime47](https://anime47.cam/)
 - [AnimeHay](https://animehay.in/)
 - [AnimeVsub](https://animevsub.eu.org/) [:mdi-github:](https://github.com/anime-vsub/desktop-web)
-- [HHNINJA12.TV](https://hhninja12.tv/)
+- [HHNINJA](https://hhninja13.tv/)
 - [Phimplay](https://phimplay24h.com/)
 - [Unime](https://unime.vercel.app/) [:mdi-github:](https://github.com/huy232/Unime)
 - [Vui Ghe](https://vuighe3.com/)
