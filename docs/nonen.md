@@ -169,7 +169,6 @@ If you have recommendations for good sites in your native language or want to re
 - [French Anime](https://french-anime.com/)
 - [JetAnime](https://vww.jetanimes.com/)
 - [Mavanimes](https://mavanimes.co/)
-- [Neko Sama](https://www.neko-sama.fr/)
 - [OtakuFR](https://otakufr.cc/)
 - [Sekai](https://sekai.one/)
 - [Streaming-integrale](https://streaming-integrale.com/)
