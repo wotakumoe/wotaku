@@ -32,6 +32,7 @@ outline: [1,2]
 ### Manga & LN
 - [Mangaupdates](https://www.mangaupdates.com/) :glowing-star:
 - [Novel updates](https://www.novelupdates.com/)
+- [RanobeDB](https://ranobedb.org/) [:mdi-github:](https://github.com/Blastose/ranobedb)
 - [Bookmeter](https://bookmeter.com/)
 - [Goodreads](https://www.goodreads.com/)
 - [Kenmei](https://www.kenmei.co/)
@@ -121,6 +122,7 @@ outline: [1,2]
 #### Index
 - [Mynewworm](https://myneworm.katsurin.com/) [:mdi-github:](https://github.com/Butterstroke/Myneworm)
 - [Otaku Calendar](https://otakucalendar.com/Release/?filterCategory=2)
+- [Licensed Light Novel Releases](https://lnrelease.github.io/) [:mdi-github:](https://github.com/LNRelease/lnrelease.github.io)
 - [r/LightNovels upcoming releases](https://old.reddit.com/r/LightNovels/wiki/upcomingreleases/)
 - [Von's Manga Calendar](https://v0n.notion.site/Manga-297a9ad3a4904173b3a4ce319f9b2879)
 - [Yatta-Tachi](https://yattatachi.com/tag/releases)
