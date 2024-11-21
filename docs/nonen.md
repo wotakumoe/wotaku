@@ -139,8 +139,8 @@ If you have recommendations for good sites in your native language or want to re
 | Category | Resources |
 |-|-|
 | Anime | [AGETV](https://github.com/muedsa/AGETV) <br> [Ani](https://github.com/open-ani/ani) <br> [Anime](https://github.com/lanlinju/Anime) <br> [Animeko](https://myani.org/) [:mdi-github:](https://github.com/open-ani/animeko) <br> [Kazumi](https://github.com/Predidit/Kazumi) <br> [Mediabox](https://github.com/RyensX/MediaBox) <br> [Miru App](https://miru.js.org/) :glowing-star: <Badge text="Manga" /> <br> [Neko Anime](https://github.com/xioneko/neko-anime) <br> [oneAnime](https://github.com/Predidit/oneAnime) |
-| Manga | [Copy MangaX](https://github.com/CrowForKotlin/CopyMangaX) <br> [kobi](https://github.com/niuhuan/kobi) <br> [Manga Reader](https://github.com/youniaogu/MangaReader) |
-| Novels | [Hikari Novel](https://github.com/15dd/wenku8reader) <br> [Legado](https://github.com/gedoor/legado) |
+| Manga | [PasteMangaX](https://github.com/crowforkotlin/pastemangax) <br> [kobi](https://github.com/niuhuan/kobi) <br> [MangaReader](https://github.com/youniaogu/MangaReader) |
+| Novels | [Hikari Novel](https://github.com/15dd/wenku8reader) <br> [LightNovelReader](https://github.com/dmzz-yyhyy/LightNovelReader) <br> [Legado](https://github.com/gedoor/legado) |
 | Tracker | [Bangumi](https://github.com/czy0729/Bangumi) <br> [Bangumi for Android](https://github.com/xiaoyvyv/bangumi) <br> [Bangumi MX](http://bgmx.mysxl.cn/) [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi) |
 
 #### PC
