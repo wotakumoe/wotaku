@@ -242,9 +242,10 @@ Illustrations now has its [own page](/art)!
 
 
 ### Others
+- [AniTools](https://anitools.koopz.rocks/)
+- [aniTrakt](https://anitrakt.huere.net/) [:mdi-github:](https://github.com/ryuuganime/aniTrakt-IndexParser)
 - [MAL/AL/K/AP lists XML Exporter](https://malscraper.azurewebsites.net/)
 - [OpenTierBoy](https://www.opentierboy.com/)
-- [aniTrakt](https://anitrakt.huere.net/) [:mdi-github:](https://github.com/ryuuganime/aniTrakt-IndexParser)
 
 
 
