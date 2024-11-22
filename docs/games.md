@@ -48,6 +48,7 @@ outline: 2
 - [NoPayStation](https://nopaystation.com/) :simple-icons-playstation:
 - [nsw2u](https://nsw2u.com/) :simple-icons-nintendoswitch:
 - [NXBrew](https://nxbrew.net/) :simple-icons-nintendoswitch:
+- [ROMSIM](https://romsim.com/) :simple-icons-nintendoswitch:
 - [Ziperto](https://www.ziperto.com/) :simple-icons-nintendoswitch:
 
 
