@@ -356,11 +356,11 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 
 - [Asura Scans](https://asuracomic.net/) + :flag-china:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/juxsa9z/asura" />
 - [Flame Comics](https://flamecomics.com/) + :flag-china:  <Badge type="info" text="Dex" link="https://mangadex.org/group/fdad9851-164f-43fc-9ab0-25b8054c99ed/flame-scans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/btgsdiy/flame-scans" /><tooltip>Formerly Flame Scans</tooltip>
-- [Hive Toon](https://hivetoon.com/) + :flag-china: <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/10nt2ki/infernal-void-scans" /><tooltip>Formerly Infernal Void Scans & Void Scans</tooltip>
-- [LSComic](https://lscomic.com/) + :flag-china:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/rot79ib/leviatanscans" /><tooltip>Formerly Leviatan Scans</tooltip>
+- [Hive Toon](https://hivetoon.com/) + :flag-china: <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/10nt2ki/infernal-void-scans" /><tooltip>Formerly Infernal Void Scans and Void Scans</tooltip>
+- [LSComic](https://lscomic.com/) + :flag-china:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/nmfii7s/lscomic" /><tooltip>Formerly Leviatan Scans</tooltip>
 - [Reaper Scans](https://reaperscans.com/) + :flag-china:  <Badge type="info" text="Dex" link="https://mangadex.org/group/e892ed1b-ed75-414a-bc86-71226f3364ad/reaper-scans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/5ev5t5s/reaper-scans" />
 - [Reset Scans](https://rspro.xyz/home/) +:flag-japan: :flag-china:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/df9ckct/reset-scans" />
-- [Rizz Fables](https://rizzfables.com/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/v5djjz8/rizz-comics" /><tooltip>Formerly Realm Scans & Rizz Comics</tooltip>
+- [Rizz Fables](https://rizzfables.com/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/v5djjz8/rizz-comics" /><tooltip>Formerly Realm Scans and Rizz Comics</tooltip>
 - [StoneScape](https://stonescape.xyz/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/zt7x4q1/stonescape" />
 - [UTOON](https://utoon.net/) +:flag-japan: :flag-china:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/mtcug74/utoon" /><tooltip>Formerly Manhwa Freak, freak scans. freak comics</tooltip>
 - [Zero Scans](https://zscans.com/) + :flag-china:  <Badge type="info" text="Dex" link="https://mangadex.org/group/dd0a3018-21f1-4488-948c-08499b179fcf/zero-scans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/vlkvmk7/zero-scans-discord" />
