@@ -101,6 +101,7 @@ Torrent trackers that don't allow you to freely make an account, but require you
 | NSFW | [ExoticaZ](https://exoticaz.to/) <Badge type="tip" icon="i-ic-outline-discord" text="Waitlist" link="https://discord.gg/GYahYNWutE" /> <br> [Empornium](https://www.empornium.is/) |
 
 ### Related resources
+- [InstallGentoo Wiki](https://wiki.installgentoo.com/wiki/Private_trackers) :glowing-star:
 - [Invite route graph](https://inviteroute.github.io/graph/)
 - [Redacted Interview Prep](https://interviewfor.red/en/index.html)
   - [Wotaku Audio Glossary](/glossary/audio)
