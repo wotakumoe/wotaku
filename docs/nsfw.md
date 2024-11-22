@@ -44,7 +44,7 @@ outline: [1,2]
 - [HentaiRead](https://hentairead.com/)
 - [Hitomi](https://hitomi.la/) <tooltip>Big library but difficult to navigate.</tooltip>
 - [Panda Backup](https://panda.chaika.moe/) <tooltip>Archive of stuff removed from E-Hentai due to DMCA complaints. Has some obscure stuff deleted on most sites.</tooltip>
-- [SchaleNetwork](https://schale.network/) <Badge text="Mirrors" link="https://rentry.org/schalenet" /><tooltip>Formerly known as Koharu, has Fakku/Irodori rips (official TLs).</tooltip>
+- [SchaleNetwork](https://schale.network/) <Badge text="Mirrors" link="https://rentry.org/schalenet" /><tooltip>Formerly Koharu, has Fakku/Irodori rips (official TLs).</tooltip>
 - [Yabai](https://yabai.si/) <tooltip>E-Hentai clone.</tooltip>
 
 ### English-only
@@ -129,7 +129,8 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY)
 - [Komikku](https://github.com/komikku-app/komikku)
 - [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta)
-- [EhViewer](https://github.com/FooIbar/EhViewer)
+- [EhViewer-FooIbar](https://github.com/FooIbar/EhViewer)
+- [EhViewer-NekoInverter](https://github.com/EhViewer-NekoInverter/EhViewer)
 - [ErosFE](https://github.com/3003h/Eros-FE)
 - [Hentoid](https://github.com/avluis/Hentoid)
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
@@ -224,8 +225,11 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 
 - [Comic Looms](https://sleazyfork.org/en/scripts/397848-comic-looms) [:mdi-github:](https://github.com/MapoMagpie/eh-view-enhance)
 - [Eza's Image Glutton](https://sleazyfork.org/en/scripts/4713-eza-s-image-glutton)
+- [E(x)-Hentai Tags Preview](https://github.com/fp555/exh-tags-preview)
 - [ExResurrect](https://sleazyfork.org/en/scripts/411277-exresurrect)
 - [Image Board Enhancer](https://sleazyfork.org/en/scripts/387312-image-board-enhancer-rule34-gelbooru-e621-and-more)
+- [Kemer Enhancement](https://sleazyfork.org/en/scripts/472096-kemer-%E5%A2%9E%E5%BC%B7)
+- [Kemono Browser](https://sleazyfork.org/en/scripts/483259-kemono-browser)
 - [Let's panda!](https://sleazyfork.org/en/scripts/33979-let-s-panda)
 - [MALSync Adult](https://sleazyfork.org/en/scripts/387981-mal-sync-adult-fatexxxblood-edition)
 - [Manga Loader NSFW](https://sleazyfork.org/en/scripts/12657-manga-loader-nsfw)

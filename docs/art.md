@@ -189,6 +189,7 @@ outline: [1,2]
 ### Booru
 - [Comic Looms](https://sleazyfork.org/en/scripts/397848-comic-looms) [:mdi-github:](https://github.com/MapoMagpie/eh-view-enhance)
 - [Gelbooru Overhaul Userscript](https://github.com/Enchoseon/gelbooru-overhaul-userscript)
+- [Image Board Enhancer](https://sleazyfork.org/en/scripts/387312-image-board-enhancer-rule34-gelbooru-e621-and-more)
 - [Sakugabooru Browse Fix](https://greasyfork.org/en/scripts/506018)
 - [Yande.re Masonry](https://sleazyfork.org/en/scripts/444885) :glowing-star: [:mdi-github:](https://github.com/asadahimeka/yandere-masonry)
 
@@ -205,6 +206,7 @@ outline: [1,2]
 - [ppixiv for Pixiv](https://greasyfork.org/en/scripts/370418) [:mdi-github:](https://github.com/ppixiv/ppixiv)
 
 ### General
+- [Eza's Image Glutton](https://sleazyfork.org/en/scripts/4713-eza-s-image-glutton)
 - [Handy Image](https://sleazyfork.org/en/scripts/109-handy-image) [:mdi-github:](https://github.com/Owyn/HandyImage)
 - [Image Max URL](https://github.com/qsniyg/maxurl)
 - [Kemer Enhancement](https://sleazyfork.org/en/scripts/472096-kemer-%E5%A2%9E%E5%BC%B7)
