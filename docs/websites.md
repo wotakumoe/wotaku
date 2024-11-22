@@ -258,26 +258,32 @@ outline: 1
 
 # Manga
 
+<br>
+
+::: danger NSFW warning
+Almost all the sites have ero manga or manga with mature content, so proceed with caution.
+:::
+
 ## Online
 
-- [Comick](https://comick.io/home) :glowing-star: <Badge type="tip" text="RSS" icon="i-material-symbols-rss-feed-rounded" link="https://manga.ldez.workers.dev/" /> <Badge type="danger" text="18+" /> <tooltip><ul><li>Minimal compression</li><li>Aggregates from various scanlation groups</li><li>There's a 2/3 hour upload delay for most chapters sourced from scanlators' sites</li><li>Has official translations</li><li>Reader isn't as good as mangadex</li></ul></tooltip>
-- [Mangadex](https://mangadex.org/) <Badge type="tip" text="RSS" icon="i-material-symbols-rss-feed-rounded" link="https://mdrss.tijlvdb.me/" /> <Badge type="danger" text="18+" /> <tooltip><ul><li>Uploads without compression</li><li>Best reader UI (for a web reader)</li><li>Uploads from various scanlation groups</li><li>No official translations, barring [**some exceptions**](https://mangadex.org/rules#content_restrictions)</li><li>May remove content if there is a DMCA request by the publisher or doesn't allow upload at all (e.g. One Punch-Man)</li></ul></tooltip>
+- [Comick](https://comick.io/home) :glowing-star: <Badge type="tip" text="RSS" icon="i-material-symbols-rss-feed-rounded" link="https://manga.ldez.workers.dev/" /> <tooltip><ul><li>Minimal compression</li><li>Aggregates from various scanlation groups</li><li>There's a 2/3 hour upload delay for most chapters sourced from scanlators' sites</li><li>Has official translations</li><li>Reader isn't as good as mangadex</li></ul></tooltip>
+- [Mangadex](https://mangadex.org/) <Badge type="tip" text="RSS" icon="i-material-symbols-rss-feed-rounded" link="https://mdrss.tijlvdb.me/" />  <tooltip><ul><li>Uploads without compression</li><li>Best reader UI (for a web reader)</li><li>Uploads from various scanlation groups</li><li>No official translations, barring [**some exceptions**](https://mangadex.org/rules#content_restrictions)</li><li>May remove content if there is a DMCA request by the publisher or doesn't allow upload at all (e.g. One Punch-Man)</li></ul></tooltip>
 - [Weeb Central](https://weebcentral.com/) <Badge type="tip" text="2" link="https://mangasee123.com/" /><Badge type="tip" text="3" link="https://manga4life.com/" /><Badge type="tip" text="Alt" link="https://atsu.moe/" /> <tooltip><ul><li>Has official translations</li><li>Compresses chapter images</li><li>Chapter updates are relatively slow</li><li>You can use AL sync with atsu</li></ul></tooltip>
-- [Batoto](https://battwo.com/v3x) <Badge type="tip" text="Proxies" link="https://rentry.co/batoto" /><Badge type="danger" text="18+" /><tooltip><ul><li>Has both scanlated and official releases</li><li>Has some exclusive uploads</li><li>Decent filtering options with site theme options</li><li>Indexing is poor</li></ul></tooltip>
-- [Mangapark](https://mangapark.net/) <Badge type="danger" text="18+" /> 
+- [Batoto](https://battwo.com/v3x) <Badge type="tip" text="Proxies" link="https://rentry.co/batoto" /><tooltip><ul><li>Has both scanlated and official releases</li><li>Has some exclusive uploads</li><li>Decent filtering options with site theme options</li><li>Indexing is poor</li></ul></tooltip>
+- [Mangapark](https://mangapark.net/)  
 - [MangaFire](https://mangafire.to/home) <tooltip><ul><li>The UI is very clean with notification system</li><li>Uploads both chapter (multi-lang) & volume releases</li><li>Basic reader UI</li><li>Watermark on almost every manga chapters</li><li>Manga uploads are up to x1600</li></ul></tooltip>
 
 
 ::: details More
-- [Cubari Proxy](https://proxy.cubari.moe/) <Badge type="danger" text="18+" />
+- [Cubari Proxy](https://proxy.cubari.moe/) 
 - [Manga Katana](https://mangakatana.com/)
-- [Hachi](https://hachi.moe/) <Badge type="danger" text="18+" />
+- [Hachi](https://hachi.moe/) 
 - [Mangahasu](https://mangahasu.se/)
-- [Mangahub](https://mangahub.io/)<Badge type="info" text="Needs account" /><Badge type="danger" text="18+" />
-- [Manga Buddy](https://mangabuddy.com/home) <Badge type="info" text="2" link="https://mangamirror.com/home-page" /> <Badge type="info" text="3" link="https://mangaforest.com/home" /><Badge type="danger" text="18+" />
-- [Dynasty Reader](https://dynasty-scans.com/) <Badge type="danger" text="18+" />
+- [Mangahub](https://mangahub.io/)<Badge type="info" text="Needs account" />
+- [Manga Buddy](https://mangabuddy.com/home) <Badge type="info" text="2" link="https://mangamirror.com/home-page" /> <Badge type="info" text="3" link="https://mangaforest.com/home" />
+- [Dynasty Reader](https://dynasty-scans.com/) 
 - [Like Manga](https://likemanga.io)
-- [Comic Fans](https://www.comicfans.io/) <Badge type="info" text="Manhua" /><Badge type="danger" text="18+" /><tooltip>Backup of Bilibili Comics</tooltip>
+- [Comic Fans](https://www.comicfans.io/) <Badge type="info" text="Manhua" /><tooltip>Backup of Bilibili Comics</tooltip>
 - [Manga Here](https://www.mangahere.cc/) <Badge type="info" text="2" link="https://fanfox.net/" />
 - [Manganato](https://manganato.com/) <Badge type="info" text="2" link="https://mangakakalot.com/" /><Badge type="info" text="Alt" link="https://akari-psi.vercel.app/" />
 
@@ -327,7 +333,7 @@ outline: 1
 
 #### Rippers
 - [1r0n](https://nyaa.si/user/tsuna69) <tooltip>Available in description</tooltip>
-- [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) <Badge type="danger" text="18+" />
+- [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) 
 - [Danke](https://desuarchive.org/_/search/text/(digital)%20(danke-empire)/)
 - [LuCaZ](https://nyaa.si/user/LuCaZ) <tooltip>Available in description</tooltip>
 - [Stick](https://nyaa.si/user/dumbboy58) <tooltip>Available in description</tooltip>
@@ -583,7 +589,7 @@ outline: 1
   - [Renta](https://www.ebookrenta.com/)
   - [Shonen Jump](https://www.viz.com/sj-offer) <tooltip>Available in the United States, Canada, the United Kingdom, Ireland, New Zealand, Australia, South Africa, the Philippines, Singapore, and India.</tooltip> 
   - [VIZ Manga](https://www.viz.com/vm-offer) <tooltip>Available in the United States, the United Kingdom, Canada, Australia, New Zealand and Ireland.</tooltip> 
-  - [YURI HUB](https://www.yurihub.com/)  <Badge type="danger" text="18+" />
+  - [YURI HUB](https://www.yurihub.com/)  
 - **Manhwa & Manhua**
   - [Lezhin](https://www.lezhinus.com/en)
   - [Manta](https://manta.net/en)
