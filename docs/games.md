@@ -47,6 +47,7 @@ outline: 2
 - [hShop](https://hshop.erista.me/) :simple-icons-nintendo3ds:
 - [NoPayStation](https://nopaystation.com/) :simple-icons-playstation:
 - [nsw2u](https://nsw2u.com/) :simple-icons-nintendoswitch:
+- [NXBrew](https://nxbrew.net/) :simple-icons-nintendoswitch:
 - [Ziperto](https://www.ziperto.com/) :simple-icons-nintendoswitch:
 
 
