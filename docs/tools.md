@@ -351,6 +351,7 @@ outline: [1,2]
 
 ## AniList
 - [AniList Unlimited](https://greasyfork.org/en/scripts/404465-anilist-unlimited-score-in-header) [:mdi-github:](https://github.com/mysticflute/ani-list-unlimited)
+- [AniList Activity-Feed Filter](https://greasyfork.org/en/scripts/475234-anilist-activity-feed-filter)
 - [AniList External Links](https://greasyfork.org/en/scripts/442599-AniList-external-links)
 - [Anisongs](https://greasyfork.org/en/scripts/374785-anisongs)
 - [Automail](https://greasyfork.org/en/scripts/370473-automail) [:mdi-github:](https://github.com/hohMiyazawa/Automail)
@@ -359,6 +360,7 @@ outline: [1,2]
 - [Affinity to you](https://greasyfork.org/en/scripts/423918-affinity-to-you)
 - [Auto Date Add](https://greasyfork.org/en/scripts/407730-automatically-add-start-finish-dates-for-animes-mangas-helpful-buttons)
 - [Endless MAL Search Pages](https://greasyfork.org/en/scripts/409957-endless-mal-search-pages)
+- [MAL Clean JS](https://greasyfork.org/en/scripts/480965-mal-clean-js)
 - [MAL Dubs](https://greasyfork.org/en/scripts/376546-mal-myanimelist-dubs) [:mdi-github:](https://github.com/MAL-Dubs/MAL-Dubs)
 - [MAL English Titles](https://greasyfork.org/en/scripts/420200-mal-english-titles) [:mdi-github:](https://github.com/Animorphs/MAL-English-Titles)
 - [MAL tierlist](https://greasyfork.org/en/scripts/474521-mal-tierlist)
