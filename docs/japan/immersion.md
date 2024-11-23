@@ -77,6 +77,7 @@ outline: [2,3]
 - [itazuraneko](https://djtguide.github.io/library/sub)
 - [Xavier's Retimed JP Sub Pack](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTA0NDM1NA.ZHVjaw)
 - [Nekomoe Kissaten's Subtitles](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage)
+- [moex3's JP Anime Subs](https://github.com/moex3/random_jp_anime_subs)
 - [JP Subtitles](https://github.com/Matchoo95/JP-Subtitles)
 - [JP Audiobook Subtitles](https://github.com/ym1234/JPAudiobookSubtitles)
 
