@@ -33,9 +33,9 @@ outline: [1,2]
 - [Mangaupdates](https://www.mangaupdates.com/) :glowing-star:
 - [Novel updates](https://www.novelupdates.com/)
 - [RanobeDB](https://ranobedb.org/) [:mdi-github:](https://github.com/Blastose/ranobedb)
-- [Bookmeter](https://bookmeter.com/)
+- [Ranobe Mori](https://ranobe-mori.net/) :flag-japan:
+- [Bookmeter](https://bookmeter.com/) :flag-japan:
 - [Goodreads](https://www.goodreads.com/)
-- [Kenmei](https://www.kenmei.co/)
 
 ### Seiyuu / Voice Actor
 - [Seiyuu.moe](https://seiyuu.moe/) :glowing-star:
