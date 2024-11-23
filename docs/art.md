@@ -154,6 +154,7 @@ outline: [1,2]
 - [gallery-dl](https://github.com/mikf/gallery-dl) :glowing-star: :ic-baseline-window::mingcute-linux-fill:
 - [Hydrus network](https://hydrusnetwork.github.io/hydrus/) <Badge type="info" text="Scripts" link="https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts"/>:ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Pixiv FANBOX Downloader](https://github.com/hareku/fanbox-dl) :ic-baseline-window::ic-baseline-apple:
 - [PixivUtil2](https://github.com/Nandaka/PixivUtil2) :ic-baseline-window:
 
 ### Others
