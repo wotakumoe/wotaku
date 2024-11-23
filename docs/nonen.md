@@ -115,6 +115,7 @@ If you have recommendations for good sites in your native language or want to re
 - [Baozimh.com](https://www.baozimh.com/) <Badge type="tip" text="2" link="https://www.kukuc.co/" /><Badge type="tip" text="3" link="https://www.webmota.com/" />
 - [Baozimh.org](https://baozimh.org/)
 - [Colamanga](https://www.colamanga.com/)
+- [Manga Reader](https://1zumii.github.io/manga-reader/#/) [:mdi-github:](https://github.com/1zumii/manga-reader)
 - [Manhua Gui](https://www.manhuagui.com/)
 - [Qumanku](http://www.sumanku.com/)
 - [XManhua](https://xmanhua.com/)
@@ -341,7 +342,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
   - [RawInu](https://rawinu.com/) <Badge type="tip" text="2" link="https://nicomanga.com/" />
   - [Rawkuma](https://rawkuma.com/)
   - [Raw Lazy](https://rawlazy.si/)
-  - [Raw Otaku](https://rawotaku.com/home/) <Badge type="tip" text="2" link="https://jmanga.to/home/" />
+  - [Raw Otaku](https://rawotaku.com/home/) <Badge type="tip" text="2" link="https://jmanga.ac/home/" />
   - [RawUwU](https://rawuwu.com/) <Badge type="tip" text="2" link="https://rawdevart.art/" />
   - [Sen Manga](https://raw.senmanga.com/)
   - [Spoilerplus](https://spoilerplus.tv/) <tooltip>Image host has geo restriction. So won't load manga images for every region. Tested region is US.</tooltip>
