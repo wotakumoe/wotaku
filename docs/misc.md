@@ -110,6 +110,7 @@ outline: [1,2]
 - [Jajanken](https://www.jajanken.net/) :flag-japan:
 - [Josu Ke](https://x.com/Josu_ke) :mdi-twitter:
 - [Mangacodex](https://www.mangacodex.com/) :glowing-star:
+- [MANGA Plus Views](https://mangaplustracker.github.io/) [:mdi-github:](https://github.com/MangaplusTracker/MangaplusTracker.github.io)
 - [MANGA Plus Top 40](https://manga.tumeo.space/)
 - [:ic-outline-discord: Manga Groups Portal](https://discord.gg/9KGMzP2)
 - [r/LightNovels reading order](https://old.reddit.com/r/LightNovels/wiki/reading_order)
