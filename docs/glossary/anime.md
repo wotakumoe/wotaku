@@ -90,7 +90,7 @@ Genga generally goes for important details of a scene. It can be just the charac
 
 ::: details Short note
 
-If you look at the genga image, we can see a few numbers.
+If you look at the sakuga, we can see a few numbers.
 - **160** -> Scene number
 - **01** -> Time (in seconds) of that scene
 - **16** -> Shot number of that scene
@@ -103,7 +103,7 @@ We tried to really simplify the process. For more details, check out [**Dong Cha
 :::
 
 ### Douga
-More cleaned up frames, done by more experienced artists / directors. Animators directly use the douga and animate using these. In-betweens are also added in this step.
+More cleaned up frames, done by key animators. Dougas are way more completed and have more shading in general. The final animation looks pretty close to douga. In-betweens are also added in this step. Sometime, genga and douga can look pretty close depending on the artist.
 
 ### Shiage
 This is the final step. All the frames are colored and minor issues get fixed.
