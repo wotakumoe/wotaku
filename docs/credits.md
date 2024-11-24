@@ -40,6 +40,11 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 - [Horimiya Vol. 15 by Yen Press](https://yenpress.com/titles/9781975324735-horimiya-vol-15)
 - [The Dere Types Wiki](https://the-dere-types.fandom.com/wiki/The_Dere_Types_Wiki)
 
+#### Anime
+- [Sakuga Wiki](https://sakuga.fandom.com/wiki/Sakuga_Wiki)
+- [Graymouser's artwork terminology](https://itamejihada.net/terminology/artwork.html)
+- [What is Genga? How to draw Genga. How to get work in Anime drawing Genga](https://www.youtube.com/watch?v=iOB7t6KtIFE)
+
 #### Manga
 - [A Practical Guide to Translating Japanese Manga Sound Effects](https://nomansguy.wordpress.com/2023/02/04/translating-manga-sfx-guide-part-1/)
 - [Bentoki from Helvetica Scans](https://discord.com/users/91862190709014528)

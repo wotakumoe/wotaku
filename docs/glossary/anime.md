@@ -57,9 +57,56 @@ In Japanese TV, the broadcast schedule is divided into four seasons: Spring (Mar
 
 ## Technical terms
 
-| Terms     | Meaning { class="compact" } |
-| ------ | ------ |
-| Genga | The raw keyframes of an anime scene. Dong Chang has explained the whole process in [**his video**](https://www.youtube.com/watch?v=iOB7t6KtIFE). Example: [Jujutsu Kaisen](https://www.youtube.com/watch?v=XosvkKK1HCc) |
+### Sakuga
+Sakuga means drawing, animation. In the fan community, it generally means cool sequences.
+
+### Settai
+Settai is collection of model sheets and important places (can be a house, place or anything important). The designs go through multiple stages, so they can change over time. The final drawings are used by staff as the character standard. Depending on the budget, settai can have very high details.
+
+![Akebi-chan no Sailor-fuku (Image by Settai Dreams)](/glossary/anime/akb.webp)
+
+### E-Konte
+E-Konte / storyboard shows all the sequences in rough sketches so the director can show the vision to the animators and organize accordingly. It generally has 5 columns:
+1. Scene & cut number
+2. Scene rough drawing
+3. Animation instructions
+4. Dialogue & SFX
+5. Time & frame number
+
+Formatting of a storyboard can change depending on the studio and director.
+
+![Shaman King (2021) Opening #02 (Image by Settai Dreams)](/glossary/anime/sk.webp)
+
+<div class="video_wrapper"><iframe src="https://www.youtube.com/embed/ln1sKXXpSdg" frameborder="0" allowfullscreen></iframe></div>
+
+### Genga
+Genga means tie-down drawings or raw keyframes, drawn by genga artists. The drawn genga goes though a multi-step process.
+
+![](/glossary/anime/genga.webp)
+
+Genga generally goes for important details of a scene. It can be just the character (or part of the character) or the character and their surrounding if the character is interacting with it. Genga doesn't generally include frame in-betweens, so it will be rough in motion by nature.
+
+<div class="video_wrapper"><iframe src="https://www.youtube.com/embed/JM-AFeBtvA4" frameborder="0" allowfullscreen></iframe></div>
+
+::: details Short note
+
+If you look at the genga image, we can see a few numbers.
+- **160** -> Scene number
+- **01** -> Time (in seconds) of that scene
+- **16** -> Shot number of that scene
+
+![Solo Leveling ep. 11](/glossary/anime/solo.webp)
+:::
+
+::: info More Info
+We tried to really simplify the process. For more details, check out [**Dong Chang**](https://www.youtube.com/@DongChang) & [**Tonari Animation**](https://www.youtube.com/@TonariAnimation).
+:::
+
+### Douga
+More cleaned up frames, done by more experienced artists / directors. Animators directly use the douga and animate using these. In-betweens are also added in this step.
+
+### Shiage
+This is the final step. All the frames are colored and minor issues get fixed.
 
 ![](/glossary/file/af.png)
 
