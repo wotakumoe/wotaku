@@ -545,7 +545,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 | Books | [MyAnonamouse](https://myanonamouse.net/) |
 | Games | [Gazelle Games](https://gazellegames.net/login.php) |
 | Live Action | [AvistaZ](https://avistaz.to/) <Badge type="tip" icon="i-ic-outline-discord" text="Waitlist" link="https://discord.gg/GYahYNWutE" /> <br> [JPTV.club](https://jptv.club/) <br> [jptvts](https://jptvts.us/) |
-| Music | [Redacted](https://redacted.ch/) <br> [JPopsuki](https://jpopsuki.eu/) <br> [Orpheus](https://orpheus.network/) <br> [Sugoi Music](https://sugoimusic.me/) <br> [Bemaniso](https://bemaniso.ws/) `Rhythm` <br> [Aidoru](https://aidoru-online.me/) `Idol` |
+| Music | [Redacted](https://redacted.sh/) <br> [JPopsuki](https://jpopsuki.eu/) <br> [Orpheus](https://orpheus.network/) <br> [Sugoi Music](https://sugoimusic.me/) <br> [Bemaniso](https://bemaniso.ws/) `Rhythm` <br> [Aidoru](https://aidoru-online.me/) `Idol` |
 | NSFW | [ExoticaZ](https://exoticaz.to/) <Badge type="tip" icon="i-ic-outline-discord" text="Waitlist" link="https://discord.gg/GYahYNWutE" /> <br> [Empornium](https://www.empornium.is/) |
 
 ::: details :material-symbols-subdirectory-arrow-right: Related resources
