@@ -105,17 +105,16 @@ outline: [1,2]
 ### Info
 
 - [Bookmeter](https://bookmeter.com/) :flag-japan:
-- [Bunko Light Novel Ranking](http://bunkoranoberanking.blog.fc2.com/)
+- [Bunko Light Novel Ranking](http://bunkoranoberanking.blog.fc2.com/) :flag-japan:
 - [Erzat](https://erzat.blog/)
 - [Jajanken](https://www.jajanken.net/) :flag-japan:
 - [Josu Ke](https://x.com/Josu_ke) :mdi-twitter:
-- [Mangacodex](https://www.mangacodex.com/) :glowing-star:
+- [Mangacodex](https://www.mangacodex.com/)
 - [MANGA Plus Views](https://mangaplustracker.github.io/) [:mdi-github:](https://github.com/MangaplusTracker/MangaplusTracker.github.io)
-- [MANGA Plus Top 40](https://manga.tumeo.space/)
-- [:ic-outline-discord: Manga Groups Portal](https://discord.gg/9KGMzP2)
+- [MANGA Plus Top 40](https://manga.tumeo.space/) [:mdi-github:](https://github.com/williamd1k0/manga-plus-top40)
 - [r/LightNovels reading order](https://old.reddit.com/r/LightNovels/wiki/reading_order)
-- [Shoseki Ranking](http://shosekiranking.blog.fc2.com/)
-- [Touhou Doujinshi Index](https://scarlet.nsk.sh/) :glowing-star: <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" /> [:mdi-github:](https://github.com/nanoskript/touhou-doujinshi-index) 
+- [Shoseki Ranking](http://shosekiranking.blog.fc2.com/) :flag-japan:
+- [Touhou Doujinshi Index](https://scarlet.nsk.sh/) <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" /> [:mdi-github:](https://github.com/nanoskript/touhou-doujinshi-index) 
 
 
 ### Calendar
