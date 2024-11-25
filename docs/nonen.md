@@ -498,7 +498,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 | Category | Resources |
 |-|-|
-| Anime |  [ShiraBox](https://shirabox.org/) <br> [ShikiWatch](https://github.com/wheremyfiji/ShikiWatch) <br> [Anixart](https://play.google.com/store/apps/details?id=com.swiftsoft.anixartlt) |
+| Anime |  [ShiraBox](https://shirabox.org/) [:mdi-github:](https://github.com/jordyamc/UKIKU) <br> [ShikiWatch](https://github.com/wheremyfiji/ShikiWatch) <br> [Anixart](https://play.google.com/store/apps/details?id=com.swiftsoft.anixartlt) |
 | Manga | [Manga Grabber](https://github.com/lirix360/ReadmangaGrabber) |
 
 #### PC
@@ -560,7 +560,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 | Category | Resources |
 |-|-|
-| Anime | [UKIKU](https://ukiku.app/)  [:mdi-github:](https://github.com/jordyamc/UKIKU) |
+| Anime | [UKIKU](https://ukiku.app/) [:mdi-github:](https://github.com/jordyamc/UKIKU) |
 
 
 ## Turkish
