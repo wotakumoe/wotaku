@@ -52,6 +52,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [LHTranslation](https://discord.gg/wxVRX4j)
 - [r/Manga](https://discord.gg/manga)
 - [Mangadex](https://discord.gg/mangadex)
+- [Manga Groups Portal](https://discord.gg/9KGMzP2)
 - [Manga Katana](https://discord.gg/bXfTCCtdXQ)
 - [MangaPark](https://discord.gg/HXKXBTSGKS)
 - [Manga Piracy](https://discord.gg/ZgMtAyxFSU)
