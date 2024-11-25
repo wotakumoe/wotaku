@@ -61,10 +61,7 @@ If you have recommendations for good sites in your native language or want to re
 #### Android
 | Category | Resources |
 |-|-|
-| Anime | [AnimeSlayer](https://anslayer.com/download.html) <Badge type="danger" text="Non-Foss" /> <br> [Spacetoon](https://play.google.com/store/apps/details?id=com.spacetoon.vod) <Badge type="info" text="Legal" /> |
-| Manga | [Mangamello](https://play.google.com/store/apps/details?id=com.wael.mangamello) <Badge type="tip" text="Plus" link="https://play.google.com/store/apps/details?id=com.wael.mmplus"/> <Badge type="danger" text="Non-Foss" /> <br> [Manga Library](https://play.google.com/store/apps/details?id=com.manga.library.online) <Badge type="danger" text="Non-Foss" /> <br> [Qaraa manga araby](https://play.google.com/store/apps/details?id=org.hamak.mangareader) <Badge type="danger" text="Non-Foss" /> |
-| Tracker | [Kunaiu](https://play.google.com/store/apps/details?id=com.kunaiu.android) <Badge type="danger" text="Non-Foss" /> |
-
+| Anime | [Spacetoon](https://play.google.com/store/apps/details?id=com.spacetoon.vod) <Badge type="info" text="Legal" /> |
 
 
 ## Balkan
@@ -501,7 +498,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 | Category | Resources |
 |-|-|
-| Anime |  [ShiraBox](https://shirabox.org/) <br> [AnilabX](https://github.com/CrazyXacker/anilabx) <Badge text="Manga" /><Badge type="warning" text="Freemium" /> <br> [ShikiWatch](https://github.com/wheremyfiji/ShikiWatch) <br> [Anixart](https://play.google.com/store/apps/details?id=com.swiftsoft.anixartlt) |
+| Anime |  [ShiraBox](https://shirabox.org/) <br> [ShikiWatch](https://github.com/wheremyfiji/ShikiWatch) <br> [Anixart](https://play.google.com/store/apps/details?id=com.swiftsoft.anixartlt) |
 | Manga | [Manga Grabber](https://github.com/lirix360/ReadmangaGrabber) |
 
 #### PC
