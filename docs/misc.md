@@ -107,7 +107,7 @@ outline: [1,2]
 - [Bookmeter](https://bookmeter.com/) :flag-japan:
 - [Bunko Light Novel Ranking](http://bunkoranoberanking.blog.fc2.com/) :flag-japan:
 - [Erzat](https://erzat.blog/)
-- [Jajanken](https://www.jajanken.net/) :flag-japan:
+- [Jajanken](https://www.jajanken.net/en/)
 - [Josu Ke](https://x.com/Josu_ke) :mdi-twitter:
 - [Mangacodex](https://www.mangacodex.com/)
 - [MANGA Plus Views](https://mangaplustracker.github.io/) [:mdi-github:](https://github.com/MangaplusTracker/MangaplusTracker.github.io)
@@ -200,6 +200,7 @@ Illustrations now has its [own page](/art)!
   - [Manga Alerts](https://x.com/MangaAlerts) :mdi-twitter:
   - [Manga Bookshelf](https://mangabookshelf.com/) :mdi-twitter:
   - [Manga Reporter](https://x.com/MangaReporter) <Badge type="tip" text="Old" link="https://x.com/MangaMoguraRE" /> :glowing-star: :mdi-twitter: <Badge icon="i-mdi-twitter" text="Ecchi" link="https://x.com/EcchiMogura" />
+  - [Nez](https://x.com/mangaxrepublic) :mdi-twitter:
   - [Randomanga](https://randomanga.wordpress.com/)
   - [Shonen Jump News](https://x.com/WSJ_manga) :glowing-star: :mdi-twitter:
   - [TheOASG](https://x.com/TheOASG) :glowing-star: :mdi-twitter:
