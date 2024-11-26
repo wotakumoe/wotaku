@@ -113,6 +113,7 @@ If you have recommendations for good sites in your native language or want to re
 - [Baozimh.com](https://www.baozimh.com/) <Badge type="tip" text="2" link="https://www.kukuc.co/" /><Badge type="tip" text="3" link="https://www.webmota.com/" />
 - [Baozimh.org](https://baozimh.org/)
 - [Colamanga](https://www.colamanga.com/)
+- [DMZJ](https://www.idmzj.com/)
 - [Manga Reader](https://1zumii.github.io/manga-reader/#/) [:mdi-github:](https://github.com/1zumii/manga-reader)
 - [Manhua Gui](https://www.manhuagui.com/)
 - [Qumanku](http://www.sumanku.com/)
@@ -137,7 +138,7 @@ If you have recommendations for good sites in your native language or want to re
 
 | Category | Resources |
 |-|-|
-| Anime | [AGETV](https://github.com/muedsa/AGETV) <br> [Ani](https://github.com/open-ani/ani) <br> [Anime](https://github.com/lanlinju/Anime) <br> [Animeko](https://myani.org/) [:mdi-github:](https://github.com/open-ani/animeko) <br> [Kazumi](https://github.com/Predidit/Kazumi) <br> [Mediabox](https://github.com/RyensX/MediaBox) <br> [Miru App](https://miru.js.org/) :glowing-star: <Badge text="Manga" /> <br> [Neko Anime](https://github.com/xioneko/neko-anime) <br> [oneAnime](https://github.com/Predidit/oneAnime) |
+| Anime | [AGETV](https://github.com/muedsa/AGETV) <br> [Ani](https://github.com/open-ani/ani) <br> [Anime](https://github.com/lanlinju/Anime) <br> [Animeko](https://myani.org/) [:mdi-github:](https://github.com/open-ani/animeko) <br> [DMZJ](https://github.com/xiaoyaocz/flutter_dmzj) <br> [Kazumi](https://github.com/Predidit/Kazumi) <br> [Mediabox](https://github.com/RyensX/MediaBox) <br> [Miru App](https://miru.js.org/) <Badge text="Manga" /> <br> [Neko Anime](https://github.com/xioneko/neko-anime) <br> [oneAnime](https://github.com/Predidit/oneAnime) |
 | Manga | [PasteMangaX](https://github.com/crowforkotlin/pastemangax) <br> [kobi](https://github.com/niuhuan/kobi) <br> [MangaReader](https://github.com/youniaogu/MangaReader) |
 | Novels | [Hikari Novel](https://github.com/15dd/wenku8reader) <br> [Legado](https://github.com/gedoor/legado) <br> [LightNovelReader](https://github.com/dmzz-yyhyy/LightNovelReader) |
 | Tracker | [Bangumi](https://github.com/czy0729/Bangumi) <br> [Bangumi for Android](https://github.com/xiaoyvyv/bangumi) <br> [Bangumi MX](http://bgmx.mysxl.cn/) [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi) |
