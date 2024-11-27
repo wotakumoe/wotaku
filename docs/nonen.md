@@ -439,8 +439,9 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 ### Tokusatsu
 - [DGB Catálogo](https://dgbcatalogo.carrd.co/)
 - [NewZect](https://newzect.com/)
-- [:ic-outline-telegram: TOKUSHARE](https://t.me/s/tokushareoficial)
 - [Rádio Toku Hero Club](https://www.radiotokuheroclub.com/)
+- [Tokusatsu.com.br](https://tokusatsubr.com.br/)
+- [:ic-outline-telegram: TOKUSHARE](https://t.me/s/tokushareoficial)
 
 
 ## Romanian
