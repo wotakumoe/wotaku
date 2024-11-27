@@ -44,7 +44,6 @@ outline: [2,3]
 ## TV
 
 ### Movies & Drama
-- [Dramacool](https://asianc.to/) <Badge type="tip" text="Info" link="https://asianwiki.co/" />
 - [Viki](https://www.viki.com/categories/country/japan/genre/all)  <Badge type="warning" text="Freemiun" /><Badge type="info" text="JP Sub" />
 - [KissAsian](https://kissasian.wiki/)
 - [DramaFull](https://dramafull.net/)
