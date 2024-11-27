@@ -198,15 +198,16 @@ Illustrations now has its [own page](/art)!
   - [Erzat](https://x.com/Erzat110) :mdi-twitter:
   - [Josu Ke](https://x.com/Josu_ke) :mdi-twitter:
   - [Manga Alerts](https://x.com/MangaAlerts) :mdi-twitter:
-  - [Manga Bookshelf](https://mangabookshelf.com/) :mdi-twitter:
+  - [Manga Bookshelf](https://mangabookshelf.com/)
   - [Manga Mogura](https://x.com/MangaMoguraRE) <Badge type="tip" text="2" link="https://x.com/MangaReporter" /> :glowing-star: :mdi-twitter: <Badge icon="i-mdi-twitter" text="Ecchi" link="https://x.com/EcchiMogura" />
   - [Nez](https://x.com/mangaxrepublic) :mdi-twitter:
   - [Randomanga](https://randomanga.wordpress.com/)
   - [Shonen Jump News](https://x.com/WSJ_manga) :glowing-star: :mdi-twitter:
-  - [TheOASG](https://x.com/TheOASG) :glowing-star: :mdi-twitter:
   - [Deb Aoki](https://x.com/debaoki) :mdi-twitter:
 - **Blog / Interview**
+  - [BehindTheManga](https://www.behindthemanga.com/)
   - [Manga Splaining](https://www.mangasplaining.com/)
+  - [TheOASG](https://www.theoasg.com/)
 
 
 
