@@ -99,7 +99,7 @@ If you look at the sakuga, we can see a few numbers.
 :::
 
 ::: info More Info
-We tried to really simplify the process. For more details, check out [**Dong Chang**](https://www.youtube.com/@DongChang) & [**Tonari Animation**](https://www.youtube.com/@TonariAnimation).
+We tried to really simplify the process. For more details, check out [**Dong Chang**](https://www.youtube.com/@DongChang) & [**Sakuga Foundry**](https://www.youtube.com/@SakugaFoundry).
 :::
 
 ### Douga

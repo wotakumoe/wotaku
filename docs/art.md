@@ -188,7 +188,7 @@ outline: [1,2]
 ## Scripts
 
 ### Booru
-- [Comic Looms](https://sleazyfork.org/en/scripts/397848-comic-looms) [:mdi-github:](https://github.com/MapoMagpie/eh-view-enhance)
+- [Comic Looms](https://github.com/MapoMagpie/eh-view-enhance)
 - [Gelbooru Overhaul Userscript](https://github.com/Enchoseon/gelbooru-overhaul-userscript)
 - [Image Board Enhancer](https://sleazyfork.org/en/scripts/387312-image-board-enhancer-rule34-gelbooru-e621-and-more)
 - [Sakugabooru Browse Fix](https://greasyfork.org/en/scripts/506018)

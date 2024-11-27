@@ -223,7 +223,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 
 ## Scripts
 
-- [Comic Looms](https://sleazyfork.org/en/scripts/397848-comic-looms) [:mdi-github:](https://github.com/MapoMagpie/eh-view-enhance)
+- [Comic Looms](https://github.com/MapoMagpie/eh-view-enhance)
 - [Eza's Image Glutton](https://sleazyfork.org/en/scripts/4713-eza-s-image-glutton)
 - [E(x)-Hentai Tags Preview](https://github.com/fp555/exh-tags-preview)
 - [ExResurrect](https://sleazyfork.org/en/scripts/411277-exresurrect)

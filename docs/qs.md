@@ -95,7 +95,6 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
   - [SquidBoard](https://www.squid-board.org/)
 - **General**
   - [Squid.wtf](https://squid.wtf/) :glowing-star:
-  - [YAMS](https://yams.tf/)
   - [Lucida](https://lucida.to/) <Badge type="tip" text="2" link="https://lucida.su/" />
 
 ### Software
