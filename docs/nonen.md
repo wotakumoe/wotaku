@@ -433,6 +433,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 ### Manga
 - [Ler Mangas](https://lermangas.me/)
+- [SlimeRead](https://slimeread.com/)
 - [Tao Sect](https://taosect.com/)
 
 ### Tokusatsu
