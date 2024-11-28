@@ -88,7 +88,7 @@ outline: [1,2]
 
 ### Pixiv
 - [Pixiv.cat](https://pixiv.cat/) <Badge type="tip" text="2" link="https://pixiv.re/" /><Badge type="tip" text="3" link="https://pixiv.ve/" />  [:mdi-github:](https://github.com/pixiv-cat/pixivcat-backend)
-- [PixivFE](https://pixivfe.exozy.me/) :glowing-star: [:simple-icons-codeberg:](https://codeberg.org/VnPower/PixivFE)
+- [PixivFE](https://pixivfe.drgns.space/) :glowing-star: [:simple-icons-codeberg:](https://codeberg.org/VnPower/PixivFE)
 - [Pixiv Now](https://pixiv.js.org/) <Badge type="tip" text="2" link="https://now.pixiv.pics/#/" /> [:mdi-github:](https://github.com/FreeNowOrg/PixivNow)
 - [Pixiv Viewer](https://pixiv.pics/) [:mdi-github:](https://github.com/asadahimeka/pixiv-viewer)
 - [Pxelk](https://pxelk.pixiv.pics/) [:mdi-github:](https://github.com/ShugetsuSoft/pixivel-front)
