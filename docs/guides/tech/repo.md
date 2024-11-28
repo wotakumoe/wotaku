@@ -81,7 +81,6 @@ These apps aren't part of the Tachiyomi/Mihon ecosystem, but instead use their o
 
 | Apps | Repo URL |
 |-|-|
-| [Kaguya](https://github.com/hoangvu12/kaguya-app) | [Official](https://rentry.co/zz8r7dsy) [:mdi-github:](https://github.com/hoangvu12/kaguya-modules) |
 | [LNReader](https://lnreader.github.io/) | [Official](https://lnreader.github.io/plugins) [:mdi-github:](https://github.com/LNReader/lnreader-plugins) |
 
 

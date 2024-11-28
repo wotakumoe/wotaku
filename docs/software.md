@@ -28,7 +28,6 @@ outline: [1,2]
   - :material-symbols-subdirectory-arrow-right: [Stremio Tools](#anime-tools)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [Miru App](https://miru.js.org/) [:mdi-github:](https://github.com/miru-project/miru-app)
-- [Kaguya](https://github.com/hoangvu12/kaguya-app) <Badge type="tip" text="Guide" link="https://rentry.co/zz8r7dsy" />
 - [AnymeX](https://github.com/RyanYuuki/AnymeX)
 - [AniVu](https://github.com/SkyD666/AniVu)
 - [Animity](https://github.com/kl3jvi/animity)
