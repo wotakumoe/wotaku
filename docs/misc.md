@@ -219,6 +219,7 @@ Illustrations now has its [own page](/art)!
 ## Anime & Manga
 - [3x3 Generator](https://gqgs.github.io/3x3-generator/) [:mdi-github:](https://github.com/gqgs/3x3-generator)
 - [Anime Bingo](https://anime-bingo.aikats.us/) [:mdi-github:](https://github.com/walfie/anime-bingo)
+- [due.moe](https://due.moe/)
 - [Ermitteln](https://ermitteln.ihateani.me/) [:mdi-github:](https://github.com/noaione/cmx-ermitteln)
 - [MangaAdaptations for AniList](https://anilist-adaptations.timschneeberger.me/) [:mdi-github:](https://github.com/timschneeb/manga-adaptations-anilist)
 - [Mitsukeru for AniList](https://mitsukeru.timschneeberger.me/) [:mdi-github:](https://github.com/timschneeb/Mitsukeru)
