@@ -45,7 +45,6 @@ outline: [2,3]
 
 ### Movies & Drama
 - [Viki](https://www.viki.com/categories/country/japan/genre/all)  <Badge type="warning" text="Freemiun" /><Badge type="info" text="JP Sub" />
-- [KissAsian](https://kissasian.wiki/)
 - [DramaFull](https://dramafull.net/)
 - [GoPlay](https://goplay.su/) <Badge type="tip" text="2" link="https://goplay.ml/" /><Badge type="tip" text="3" link="https://goplay.anontpp.com/" /><Badge type="tip" icon="i-ic-outline-discord" text="Get token" link="https://discord.gg/yY2P3DQR8S" />
 - [Tokuzilla](https://tokuzilla.net/)
