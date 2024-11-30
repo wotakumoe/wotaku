@@ -172,8 +172,9 @@ outline: 1
 
 ### Youtube
 - [Anime Bancho](https://www.youtube.com/@AnimeBancho/)
-- [Ani-One Asia](https://www.youtube.com/AniOneAsia/) <Badge type="info" text="Regional" />
+- [Ani-One Asia](https://www.youtube.com/@AniOneAsia/) <Badge type="info" text="Regional" />
 - [Muse Asia](https://www.youtube.com/@MuseAsia/) <Badge type="info" text="Regional" />
+- [TMS Official](https://www.youtube.com/@AnimeonTMSOfficialChannel/) <Badge type="info" text="Regional" />
 
 ### TV
 - [Toonami Aftermath](https://www.toonamiaftermath.com/)
