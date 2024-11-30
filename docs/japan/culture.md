@@ -128,17 +128,19 @@ outline: [2,3]
 
 ### Vlogs
 - [Abroad in Japan](https://www.youtube.com/@AbroadinJapan)
-    - Journey Across Japan <Badge type="tip" text="S1" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVfl4ghftQDpTA4CXUvCKRlsL" /> <Badge type="tip" text="S2" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVflVY0eQlZY4V0gArxUiOMLR" /> <Badge type="tip" text="S3" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVflGF8OZwBqYH4mxDXvlkpSX" /> <Badge type="tip" text="S4" link="https://www.youtube.com/playlist?list=PLdd050JRcXCJlhiSBMjIwvB7wQ8PR-JzV" /> <Badge type="tip" text="S5" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVflb2CWbcuXX8JQoVTcXCh2X" />
+    - Journey Across Japan <Badge type="tip" text="S1" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVfl4ghftQDpTA4CXUvCKRlsL" /> <Badge type="tip" text="S2" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVflVY0eQlZY4V0gArxUiOMLR" /> <Badge type="tip" text="S3" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVflGF8OZwBqYH4mxDXvlkpSX" /> <Badge type="tip" text="S4" link="https://www.youtube.com/playlist?list=PLdd050JRcXCJlhiSBMjIwvB7wQ8PR-JzV" /> <Badge type="tip" text="S5" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVflb2CWbcuXX8JQoVTcXCh2X" /> <Badge type="tip" text="S6" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVfm7GkI4U9bFBjJn4-KSFfsD"
     - [WACKY WEEKEND](https://www.youtube.com/playlist?list=PL3BrCRgvsZ9DbueHiNITARMRqi0YfCgbT) :glowing-star:
     - [Documentaries](https://www.youtube.com/playlist?list=PLSOR9_iNzVfnEAmyp9QbIQk3xkeLVTUTq)
-- [The Japan Reporter](https://www.youtube.com/@TheJapanReporter)
+- [Ask Japanese](https://www.youtube.com/@AskJapanese)
+- [Japanalysis](https://www.youtube.com/@Japanalysis) :glowing-star:
 - [Lets ask Shogo](https://www.youtube.com/@LetsaskShogo)
 - [Paolo from TOKYO](https://www.youtube.com/@PaolofromTOKYO)
-- [Tokyo Lens](https://www.youtube.com/@TokyoLens)
+- [Rion Ishida](https://www.youtube.com/@RionIshida)
 - [Robcdee](https://www.youtube.com/@Robcdee)
 - [Sora the Troll](https://www.youtube.com/@sorathetroll)
-- [Japanalysis](https://www.youtube.com/@Japanalysis) :glowing-star:
-- [Rion Ishida](https://www.youtube.com/@RionIshida)
+- [The Japan Reporter](https://www.youtube.com/@TheJapanReporter)
+- [Tokyo Lens](https://www.youtube.com/@TokyoLens)
+- [WAO RYU! ONLY in JAPAN](https://www.youtube.com/@WaoryuONLYinJAPAN)
 
 ### No Commentary
 - [Experience JAPAN](https://www.youtube.com/@experience_japan)
@@ -169,7 +171,7 @@ outline: [2,3]
 - [IDOL - The Terrifying Reality of Perfect Blue](https://www.youtube.com/watch?v=WAcb_57r1Bo)
 - [Smoother animation ≠ Better animation [AI ENHANCED]](https://www.youtube.com/watch?v=_KRb_qV9P4g)
     - [reviewing your takes on animation](https://www.youtube.com/watch?v=OhcLATiI9Is)
+- [The Philosophy of VTubers](https://www.youtube.com/watch?v=Z8r6jFyISBg)
 - [What Are Gacha Games, and Why Do People Play Them?](https://www.youtube.com/watch?v=IIVjnRAJkZ8)
 - [What is Touhou? A Brief Introduction](https://www.youtube.com/watch?v=livReBXdiek)
 - [wtf is a vtuber?](https://www.youtube.com/watch?v=r8blCsTOc2I)
-- [The Philosophy of VTubers](https://www.youtube.com/watch?v=Z8r6jFyISBg)
