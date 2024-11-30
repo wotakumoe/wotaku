@@ -158,11 +158,11 @@ outline: [2,3]
 - [Diggin' In The Carts: Japanese Video Game Music Documentary](https://www.youtube.com/playlist?list=PLdd050JRcXCIefOzuG_gw-KNUlq_beHar)
 - [Pachinko: Japan's Biggest Gaming Obsession Explained](https://www.youtube.com/watch?v=-tBy2jemw4s)
 - [Social problems in Japan](https://www.youtube.com/playlist?list=PLpIWoYf9KNFV_I-719B3pk673xaHZ6fYY)
-- [the peculiar case of japanese web design](https://sabrinas.space/) :glowing-star: <Badge type="info" text="Video" link="https://www.youtube.com/watch?v=z6ep308goxQ" /> 
+- [the peculiar case of japanese web design](https://sabrinas.space/) :glowing-star: <Badge type="info" text="Video" link="https://www.youtube.com/watch?v=z6ep308goxQ" />
     - [How culture made Japanese Internet design "Weird"](https://www.youtube.com/watch?v=Opy-SjDU0UY)
 - [Understanding the Japanese Writing System](https://www.youtube.com/watch?v=r7a8OjvViwE)
-- [Why some Asian accents swap Ls and Rs in English](https://www.youtube.com/watch?v=2yzMUs3badc)
 - [Why Most Japanese Clip Art Looks Like This](https://www.youtube.com/watch?v=g3CyRZY90M4)
+- [Why some Asian accents swap Ls and Rs in English](https://www.youtube.com/watch?v=2yzMUs3badc)
 
 #### Otaku
 
@@ -171,7 +171,7 @@ outline: [2,3]
 - [IDOL - The Terrifying Reality of Perfect Blue](https://www.youtube.com/watch?v=WAcb_57r1Bo)
 - [Smoother animation ≠ Better animation [AI ENHANCED]](https://www.youtube.com/watch?v=_KRb_qV9P4g)
     - [reviewing your takes on animation](https://www.youtube.com/watch?v=OhcLATiI9Is)
-- [The Philosophy of VTubers](https://www.youtube.com/watch?v=Z8r6jFyISBg)
 - [What Are Gacha Games, and Why Do People Play Them?](https://www.youtube.com/watch?v=IIVjnRAJkZ8)
 - [What is Touhou? A Brief Introduction](https://www.youtube.com/watch?v=livReBXdiek)
 - [wtf is a vtuber?](https://www.youtube.com/watch?v=r8blCsTOc2I)
+    - [The Philosophy of VTubers](https://www.youtube.com/watch?v=Z8r6jFyISBg)
