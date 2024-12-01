@@ -38,7 +38,7 @@ outline: 1
   <tooltip>
     <ul>
       <li>Have nice and minimal UI.</li>
-      <li>Gogo & Zoro scraper.</li>
+      <li>HiAnime and Anivibe scraper.</li>
       <li>Has built-in AniList support.</li>
     </ul>
   </tooltip>
