@@ -113,6 +113,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [HMV & Books](https://www.hmv.co.jp/)
 - [Mandarake](https://www.mandarake.co.jp/)
 - [Melonbooks](https://www.melonbooks.co.jp/)
+- [Mercari](https://www.mercari.com/)
 - [Play-Asia](https://www.play-asia.com/)
 - [YESASIA](https://www.yesasia.com/global/en/home.html)
 
