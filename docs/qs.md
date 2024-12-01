@@ -20,7 +20,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 - **Streaming**
   - [KickAssAnime](https://www1.kickassanime.mx/)
   - [Miruro](https://www.miruro.tv/) <Badge type="info" text="Proxies" link="https://www.miruro.com" />
-  - [Animepahe](https://animepahe.ru/) <Badge type="info" text="Mini-Encode" />
+  - [Anime Nexus](https://anime.nexus/)
 - **Download**
   - [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" /> <Badge type="info" text="Torrent" />
   - [Tokyo Insider](https://www.tokyoinsider.com/) <Badge type="info" text="Direct" />
@@ -35,10 +35,8 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 - **iOS**
   - [Mangayomi](https://github.com/kodjodevf/mangayomi)
   - [MiruTV](https://mirutv.app/)
-  - [Mochi](https://discord.gg/HnETzt89cH)
 - **PC**
   - [Miru](https://miru.watch/) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/ThaUnknown/miru/) <Badge type="info" text="Torrent" />
-  - [Anikki](https://github.com/Kylart/Anikki) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
   - [Mangayomi](https://github.com/kodjodevf/mangayomi) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
 
 ![](/banner/wmanga.webp)
@@ -83,9 +81,9 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
   - [Karaoke Mugen](https://kara.moe)
   - [Anisong Database](https://anisongdb.com/) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" />[:mdi-github:](https://github.com/xSardine/AMQ-Artists-DB)
 - **General**
-  - [Apple Music](https://music.apple.com/) <Badge type="info" text="Lossless" />
-  - [Spotify](https://spotify.com/)
   - [Youtube Music](https://music.youtube.com/) <Badge type="tip" text="2" link="https://beatbump.io/home" /><Badge type="tip" text="3" link="https://hyperpipe.surge.sh/" />
+  - [Apple Music](https://music.apple.com/)
+  - [Spotify](https://spotify.com/)
 
 ### Download
 
