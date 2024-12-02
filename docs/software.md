@@ -61,7 +61,7 @@ outline: [1,2]
 - [Dantotsu](https://dantotsuapp.netlify.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />[:mdi-github:](https://github.com/rebelonion/Dantotsu)
 - [Neko](https://github.com/nekomangaorg/Neko)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
-- [Cubari](https://cubari.moe/)
+- [Cubari](https://cubari.moe/) :mdi-earth:
 :::
 
 ### Local
