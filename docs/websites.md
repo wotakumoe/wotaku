@@ -143,7 +143,7 @@ outline: 1
 - [Kaido](https://kaido.to/) :mingcute-user-2-fill:
 - [Makima](https://makima.xyz/) :mingcute-refresh-2-fill:
 - [Shiroko](https://shiroko.co/en) :mingcute-refresh-2-fill:
-- [YugenAnime](https://yugenanime.tv/) :mingcute-user-2-fill:
+- [YugenAnime](https://beta.yugenanime.tv/) :mingcute-user-2-fill:
 :::
 
 :::details Misc
