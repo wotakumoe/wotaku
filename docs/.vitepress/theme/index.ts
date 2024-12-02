@@ -35,7 +35,7 @@ export default {
         }
       }
     })
-    createScienceProvider()
+    // createScienceProvider()
     enhanceAppWithTabs(app)
     app.component('Button', Button)
     app.component('Authors', Authors)
