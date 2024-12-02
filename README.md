@@ -44,7 +44,7 @@ enhance the wiki further. Also, don't hesitate to [suggest ideas](#submitting-a-
 1. Closed source software (with good FOSS alternatives)
 2. Sites that only use hosters such Katfile, Nitroflare, DDownload and Rapidgator
 3. Sites that aren't primarily for anime, but have it as a side product
-4. Sites scraping only one source, such as gogo or zoro
+4. Sites scraping only one source, such as HiAnime or Anivibe
 5. Things that are too niche and/or have a small userbase
 
 ## Wiki

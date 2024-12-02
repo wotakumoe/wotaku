@@ -19,8 +19,6 @@ outline: 1
 - Scraper <tooltip>Scraper means they don't have their own uploads, but scrape from self-hosted sites. If a host site goes down, changes site structure or API, the scraper site will become useless.</tooltip> -> :mingcute-shovel-fill:
 - Tracker ([AL](https://anilist.co/home)/[MAL](https://myanimelist.net/)) sync -> :mingcute-refresh-2-fill:
 - In-site Account -> :mingcute-user-2-fill:
-- Scrapes [GogoAnime](https://gogotaku.info/) -> `g`
-- Scrapes [HiAnime](https://hianime.to/) -> `z`
 
 
 :::
@@ -122,7 +120,6 @@ outline: 1
 - [Animegg](https://www.animegg.org/) :mingcute-server-fill:
 - [Animotvslash](https://www.animotvslash.nl/) :mingcute-server-fill:
 - [Anivibe](https://anivibe.net/) :mingcute-server-fill: <Badge type="tip" text="2" link="https://anix.sh/home" /><Badge type="tip" text="3" link="https://www1.aniwave.ch/home" />
-- [Gogoanime](https://anitaku.pe/) :mingcute-server-fill::mingcute-user-2-fill: <Badge text="Proxies" link="https://gogotaku.info/" />
 - [Watch Cartoon Online](https://www.wco.tv/) :mingcute-server-fill::mingcute-user-2-fill: <Badge text="2" link="https://www.wcofun.net/" /><Badge text="3" link="https://www.wcostream.tv/" /><Badge text="4" link="https://www.wcoforever.tv/" />
   <tooltip>
     <ul>
@@ -139,17 +136,14 @@ outline: 1
 - [Otaku-Streamers](https://beta.otaku-streamers.com/) :mingcute-server-fill::mingcute-user-2-fill: <Badge type="info" text="Old" link="https://otaku-streamers.com/" /> <tooltip> Although new releases are in 1080p, older releases are a mixed bag, ranging from 480p to 720p.</tooltip>
 
 ### Scrapers
-
-- **Multi server**
-  - [Anime Realms](https://www.animerealms.org/) :mingcute-refresh-2-fill: `gz`
-  - [AniPulse](https://www.anipulse.to/) :mingcute-user-2-fill:  `gz`<tooltip>AniPulse server is a self-hosted backup, sourced from gogo.</tooltip>
-  - [AniPlay](https://aniplaynow.live/) :mingcute-refresh-2-fill::mingcute-user-2-fill:`gz`
-  - [Gojo](https://gojo.live/) :mingcute-user-2-fill: <Badge type="info" text="2" link="https://gojo.wtf" /> `gz`
-  - [Makima](https://makima.xyz/) :mingcute-refresh-2-fill: `gz`
-  - [Shiroko](https://shiroko.co/en) :mingcute-refresh-2-fill: `gz`
-- **Single server**
-  - [Kaido](https://kaido.to/) :mingcute-user-2-fill: `z`
-  - [YugenAnime](https://yugenanime.tv/) :mingcute-user-2-fill: `g`
+- [Anime Realms](https://www.animerealms.org/) :mingcute-refresh-2-fill:
+- [AniPulse](https://www.anipulse.to/) :mingcute-user-2-fill: <tooltip>AniPulse server is a self-hosted backup.</tooltip>
+- [AniPlay](https://aniplaynow.live/) :mingcute-refresh-2-fill::mingcute-user-2-fill:
+- [Gojo](https://gojo.live/) :mingcute-user-2-fill: <Badge type="info" text="2" link="https://gojo.wtf" />
+- [Kaido](https://kaido.to/) :mingcute-user-2-fill:
+- [Makima](https://makima.xyz/) :mingcute-refresh-2-fill:
+- [Shiroko](https://shiroko.co/en) :mingcute-refresh-2-fill:
+- [YugenAnime](https://yugenanime.tv/) :mingcute-user-2-fill:
 :::
 
 :::details Misc
