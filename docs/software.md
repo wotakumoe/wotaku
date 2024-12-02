@@ -28,7 +28,7 @@ outline: [1,2]
   - :material-symbols-subdirectory-arrow-right: [Stremio Tools](#anime-tools)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [Miru App](https://miru.js.org/) [:mdi-github:](https://github.com/miru-project/miru-app)
-- [AnymeX](https://github.com/RyanYuuki/AnymeX)
+- [AnymeX](https://anymex.vercel.app/) [:mdi-github:](https://github.com/RyanYuuki/AnymeX)
 - [AniVu](https://github.com/SkyD666/AniVu)
 - [Animity](https://github.com/kl3jvi/animity)
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
@@ -61,7 +61,7 @@ outline: [1,2]
 - [Dantotsu](https://dantotsuapp.netlify.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />[:mdi-github:](https://github.com/rebelonion/Dantotsu)
 - [Neko](https://github.com/nekomangaorg/Neko)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
-- [Cubari](https://cubari.moe/) :mdi-earth:
+- [Cubari](https://cubari.moe/)
 :::
 
 ### Local
@@ -75,8 +75,8 @@ outline: [1,2]
 - [LN Reader](https://github.com/LNReader/lnreader)
 - [Quicknovel](https://github.com/LagradOst/QuickNovel)
 - [Shosetsu](https://shosetsu.app/) [:mdi-gitlab:](https://gitlab.com/shosetsuorg/shosetsu)
-- [Ranobe](https://github.com/ranobe-org/ranobe)
 - [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha)
+- [Ranobe](https://github.com/ranobe-org/ranobe)
 
 
 ### Local
