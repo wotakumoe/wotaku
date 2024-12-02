@@ -32,6 +32,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 - Moiré vs Non-Moiré Pattern Comparison by [**konijnsate**](https://tips.clip-studio.com/en-us/articles/3489)
 - NSFW banner art taken from [**Mogudan Illust Works**](https://www.fakku.net/hentai/mogudan-illust-works-english)
 - Suisei music banner art by [**フカヒレ**](https://x.com/fuka_hire/status/1619998921757192195)
+- Christmas card art by [**advarcher**](https://www.phixiv.net/en/artworks/114538066)
 
 == Glossary
 
