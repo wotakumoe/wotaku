@@ -51,7 +51,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 ### Stream
 - **Freemium**
   - [Spotify](https://spotify.com/)
-  - [Youtube Music](https://music.youtube.com/) <Badge type="tip" text="2" link="https://beatbump.io/home" /><Badge type="tip" text="3" link="https://hyperpipe.surge.sh/" />
+  - [Youtube Music](https://music.youtube.com/)
 - **Subscription**
   - [Amazon Music](https://music.amazon.com/)
   - [Apple Music](https://music.apple.com/)
