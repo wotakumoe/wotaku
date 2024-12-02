@@ -134,3 +134,4 @@ if (!import.meta.env.SSR) {
 }
 </script>
 
+<ChristmasCard />
