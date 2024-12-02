@@ -486,8 +486,8 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [MangaHub](https://mangahub.ru/)
 - [MangaLib](https://mangalib.me/)
 - [MangaPoisk](https://mangapoisk.live/)
-- [ReadManga](https://readmanga.live/)
 - [ReManga](https://remanga.org/)
+- [Usagi](https://web.usagi.one/) <tooltip>Formerly ReadManga</tooltip>
 
 ### More Sites
 - [HentaiLIB](https://hentailib.me/) <Badge type="danger" text="18+" />
