@@ -491,11 +491,11 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 
 ## Online
 - [Comic Book Plus](http://comicbookplus.com/) <Badge type="info" text="Vintage"/>
-- [Comic Extra](https://comixextra.com/)
 - [Digital Comic Museum](https://digitalcomicmuseum.com/) <Badge type="info" text="Vintage"/>
 - [Read All Comics](https://readallcomics.com/) :glowing-star:
 - [Read Comic Online (.li)](https://readcomiconline.li/) :glowing-star:
 - [Read Comics Online (.ru)](https://readcomicsonline.ru/)
+- [View Comics](https://azcomix.me/)
 
 ## Direct Download
 - [Anna’s Archive](https://annas-archive.org/) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
