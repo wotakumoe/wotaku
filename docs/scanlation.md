@@ -72,7 +72,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 
 ## General
 - Adobe Software
-  - [m0nkrus](https://w14.monkrus.ws/) :ic-baseline-window::ic-baseline-apple:
+  - [m0nkrus](https://vk.com/monkrus) :ic-baseline-window::ic-baseline-apple:
   - [RuTracker](https://rutracker.org/forum/index.php) :ic-baseline-window::ic-baseline-apple:
   - [GenP](https://genpguides.github.io) :ic-baseline-window:
   - [Download Pirate](https://www.downloadpirate.com/) :ic-baseline-window:
