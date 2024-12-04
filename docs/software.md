@@ -145,6 +145,8 @@ or buy an Android phone :ic-twotone-thumb-up:
 
 :::
 
+## Novel Readers
+- [Yomu](https://www.yomu-reader.com/) <Badge type="warning" text="Paid" /><Badge type="info" text="Local" />
 
 ## Trackers
 - [AniHyou](https://apps.apple.com/us/app/anihyou-anilist-client/id1635777325)
@@ -220,12 +222,12 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 ## Novel Readers
 
 - [Calibre](https://calibre-ebook.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/kovidgoyal/calibre)
-- [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) :ic-baseline-window: [:mdi-github:](https://github.com/sumatrapdfreader/sumatrapdf)
-- [Koodo Reader](https://www.koodoreader.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/koodo-reader/koodo-reader)
-- [KOReader](https://koreader.rocks/) :mingcute-linux-fill::gg-ereader:
-- [Okular](https://okular.kde.org/) :ic-baseline-window::mingcute-linux-fill:
-- [Thorium reader](https://www.edrlab.org/software/thorium-reader/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/edrlab/thorium-reader)
 - [Freda](https://www.turnipsoft.com/freda/) :ic-baseline-window:
+- [Koodo Reader](https://www.koodoreader.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/koodo-reader/koodo-reader)
+- [KOReader](https://koreader.rocks/) :mingcute-linux-fill::gg-ereader: [:mdi-github:](https://github.com/koreader/koreader)
+- [Okular](https://okular.kde.org/) :ic-baseline-window::mingcute-linux-fill:
+- [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) :ic-baseline-window: [:mdi-github:](https://github.com/sumatrapdfreader/sumatrapdf)
+- [Thorium reader](https://www.edrlab.org/software/thorium-reader/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/edrlab/thorium-reader)
 
 
 ## Downloaders
