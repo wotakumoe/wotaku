@@ -222,7 +222,10 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Calibre](https://calibre-ebook.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/kovidgoyal/calibre)
 - [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) :ic-baseline-window: [:mdi-github:](https://github.com/sumatrapdfreader/sumatrapdf)
 - [Koodo Reader](https://www.koodoreader.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/koodo-reader/koodo-reader)
+- [KOReader](https://koreader.rocks/) :mingcute-linux-fill::gg-ereader:
+- [Okular](https://okular.kde.org/) :ic-baseline-window::mingcute-linux-fill:
 - [Thorium reader](https://www.edrlab.org/software/thorium-reader/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/edrlab/thorium-reader)
+- [Freda](https://www.turnipsoft.com/freda/) :ic-baseline-window:
 
 
 ## Downloaders
@@ -318,7 +321,6 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Kindle Comic Converter](https://github.com/ciromattia/kcc) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-docker:
 - [KOReader](https://koreader.rocks/) :mingcute-linux-fill::gg-ereader:
 - [Libation](https://getlibation.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Okular](https://okular.kde.org/) :ic-baseline-window::mingcute-linux-fill:
 - [Send to Kindle](https://www.amazon.com/sendtokindle) :mdi-earth::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Sigil-Ebook](https://sigil-ebook.com/) :ic-baseline-window::ic-baseline-apple:
 
