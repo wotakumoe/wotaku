@@ -10,30 +10,6 @@ outline: [1,2]
 ![](/banner/phone.webp)
 # Phone
 
-## Essentials
-
-### Browser
-- [Firefox](https://www.mozilla.org/en-US/firefox/browsers/) :mdi-android::ic-baseline-apple:
-- [Mull](https://github.com/Divested-Mobile/Mull-Fenix) :mdi-android:
-- [Brave](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en&gl=US) :mdi-android::ic-baseline-apple:
-- [Cromite](https://github.com/uazo/cromite) :mdi-android:
-
-### Ad blocker
-
-- **App**
-  - [Adguard](https://adguard.com/en/welcome.html) :glowing-star: :mdi-android::ic-baseline-apple:
-  - [Adaway](https://adaway.org/) :mdi-android:
-  - [RethinkDNS](https://rethinkdns.com/) :mdi-android:
-  - [Private DNS Quick Toggle](https://github.com/karasevm/PrivateDNSAndroid) :mdi-android:
-- **DNS**
-  - [NextDNS](https://nextdns.io/) :mdi-android::ic-baseline-apple:
-  - [Adguard DNS](https://adguard-dns.io/en/welcome.html) :mdi-android::ic-baseline-apple:
-  - [dnswarden](https://dnswarden.com/index.html) :mdi-android::ic-baseline-apple:
-  - [AhaDNS](https://blitz-setup.ahadns.com/) :mdi-android::ic-baseline-apple:
-
-::: tip [**Click here**](/guides/tech/adblock) for full adblock solutions.
-:::
-
 ## Downloader
 
 #### Android
@@ -54,7 +30,6 @@ outline: [1,2]
 |-|-|-|-|
 | [fGet](https://apps.apple.com/us/app/fget-file-manager-browser/id1582654012) | :check-mark-button: | :cross-mark: | :cross-mark: |
 | [iTorrent](https://github.com/XITRIX/iTorrent) | :cross-mark: | :check-mark-button: | :check-mark-button: |
-
 
 
 ## Media
@@ -87,7 +62,6 @@ outline: [1,2]
   - [APKUpdater](https://github.com/rumboalla/apkupdater) :mdi-android:
   - [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) :mdi-android:
   - [Obtainium](https://github.com/ImranR98/Obtainium) :mdi-android:
-
 
 
 ![](/banner/pc.webp)
@@ -270,19 +244,6 @@ outline: [1,2]
 - [Nsane Forums](https://nsaneforums.com/)
 - [LRepacks](https://lrepacks.net/)
 - [Game Bounty](https://gamebounty.world/)
-
-
-## Discord bots
-
-- [AniSearch](https://github.com/IchBinLeoon/anisearch-discord-bot) [:mdi-earth:](https://ichbinleoon.github.io/anisearch-discord-bot/#/)
-- [Ryuuzaki Ryuusei](https://github.com/nattadasu/ryuuRyuusei)
-- [Yuuko](https://github.com/YuuCorp/Yuuko)
-- [MangaUpdates Bot](https://github.com/jckli/mangaupdates-bot)
-- [Manhwa Updates Bot](https://github.com/MooshiMochi/ManhwaUpdatesBot) :glowing-star:
-- [Rinbot](https://rinbot.moe/)
-- [Michelle](https://github.com/JacenBoy/michelle) [:mdi-earth:](https://michelle.jacenboy.com/)
-- Sneedex <Badge type="info" icon="i-ic-outline-discord" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" />
-- [Picsiv](https://github.com/jckli/picsiv)
 
 
 ![](/banner/ext.webp)

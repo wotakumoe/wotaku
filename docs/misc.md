@@ -349,76 +349,23 @@ Illustrations now has its [own page](/art)!
 :::
 
 
-## Socials
-
-- [Hololive](https://hololivepro.com/en/) <Badge type="tip" icon="i-mdi-twitter" text="JP" link="https://x.com/hololivetv" /><Badge type="tip" icon="i-mdi-twitter" text="EN" link="https://x.com/hololive_En" /><Badge type="tip" icon="i-ic-outline-discord" text="Fan Discord" link="https://discord.gg/holofans" /><Badge type="tip" icon="i-mdi-reddit" text="Reddit" link="https://old.reddit.com/r/Hololive/" />
-- [VShojo](https://www.vshojo.com/) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/VShojo" /><Badge type="tip" icon="i-ic-outline-discord" text="Fan Discord" link="https://discord.gg/vshojo-fan-server-598886416545611790" /><Badge type="tip" icon="i-mdi-reddit" text="Reddit" link="https://old.reddit.com/r/VShojo/" />
-- [Phase Connect](https://phase-connect.com/) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/PhaseConnect" /><Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/phaseconnect" />
-- [idol](https://idol-company.com/) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/idol_corp" /><Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/idolcorp" />
-- [PRISM](https://www.prismproject.jp/) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/PRISMproj" /><Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/prismworld" />
-- [EIEN Project](https://www.eien-project.com/) <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/EIENproj" /><Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/eienproject" />
-
 ## Games
 
-- **Free**
-  - [Delivering Hope](https://david-wu-softdev.itch.io/delivering-hope-hololive-fangame)
-  - [Elite Exorcist Miko](https://store.steampowered.com/app/3040560/Elite_Exorcist_Miko/)
-  - [Holo on Suika](https://tkgames.jp/holo_watermelon.html)
-  - [Holo X Break](https://store.steampowered.com/app/2719150/Holo_X_Break/)
-  - [Holocure](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/) :glowing-star:
-  - [Hololive Councilrys RPG](https://kebbie.itch.io/councilrysrpg)
-  - [Idol Showdown](https://store.steampowered.com/app/1742020/Idol_Showdown/) :glowing-star:
-  - [Mumei's Memory Juggling](https://david-wu-softdev.itch.io/mumeis-memory-juggling)
-  - [Nameless](https://sk-jynx.itch.io/nameless) :glowing-star:
-  - [Pebble Jame](https://gioba-games.itch.io/pebble-jame)
-  - [smol Ame](https://moocow-games.itch.io/smol-ame)
-  - [Snowed In](https://shiorinovella.itch.io/shiorivisualnovella)
-  - [Submerged Mystery: Takodachi](https://velveteenio.itch.io/submerged-mystery-takodachi)
-  - [Takos Organised Neatly](https://ae-lux-production.itch.io/takos-organised-neatly)
-  - [WOWOWOW KORONE BOX](https://store.steampowered.com/app/2825180/WOWOWOW_KORONE_BOX/)
-  - [Hololive itch.io collection by David Wu SoftDev](https://itch.io/c/1018682/hololive-fangames)
-- **Paid**
-  - [Days With Ollie](https://store.steampowered.com/app/2776750/Days_With_Ollie/)
-  - [hololive ERROR](https://store.steampowered.com/app/2062550/hololive_ERROR/)
-  - [hololive Treasure Mountain](https://store.steampowered.com/app/2972990/hololive_Treasure_Mountain/)
-  - [HoloParade](https://store.steampowered.com/app/2647230/HoloParade/)
-  - [The Adventure of Ninomae Ina'nis](https://store.steampowered.com/app/3143980/The_Adventure_of_Ninomae_Inanis/)
-
-
-## Youtube
-
-- **Animators**
-  - [Myth's Bad Ending by Mazumaro](https://www.youtube.com/watch?v=euPfAilSpuU)
-  - [2ManySnacks](https://www.youtube.com/@2ManySnacks/)
-  - [Komainu EN](https://www.youtube.com/@komainu_EN)
-  - [Kanauru](https://www.youtube.com/@kanauru/)
-  - [Crash Landing Studios](https://www.youtube.com/@CrashLandingStudio)
-  - [Tripl3en](https://www.youtube.com/@Tripl3en)
-  - [H and Mr.H](https://www.youtube.com/@HandMrH)
-  - [cbo](https://www.youtube.com/@cbo_ch)
-- **News**
-  - [FalseEyeD](https://www.youtube.com/@FalseEyeD)
-  - [Khyo](https://www.youtube.com/@Khyo)
-  - [Depressed Nousagi](https://www.youtube.com/@DepressedNousagi/)
-  - [Penumbral](https://www.youtube.com/@PenumbralVT/shorts)
-- **Playlists**
-  - [HOLOLIVE Original Songs](https://www.youtube.com/playlist?list=PLcA50eR_E8Zbi4hdQHU5Rl1J6KrWRlHpM)
-  - [Hololive Songs&Covers](https://www.youtube.com/playlist?list=PLQmVFdwvZgfXlb2RDXWV1NaPXgYPu786G)
-  - [Holo no Graffiti](https://www.youtube.com/playlist?list=PL1NeGg1woXqngQytLzL8lJJLYwmzk1Wuq) | [Privated](https://www.youtube.com/playlist?list=PLMcxQWd8jwdk2YHXPScsjcw22VSZxiViL)
-
-
-## Others
-
-- **Twitter**
-  - [Holoデータ分析](https://x.com/Holo_Data)
-  - [HoloENFans](https://x.com/HEFSdiscord)
-  - [Kris the Holoprosimp](https://x.com/KHolosimp)
-  - [Tentacult Temple](https://x.com/Takodachis)
-  - [VTubers Out Of Context](https://x.com/ENVTubersOOC)
-  - [Screenshots from /vt/](https://x.com/VT_Screens)
-  - [Chroneco](https://x.com/chrone_co)
-  - [JQHN](https://x.com/JQHNHARQLD)
-- [walfie gif](https://walfiegif.wordpress.com/)
+- [holo Indie](https://store.steampowered.com/publisher/holo_Indie) :glowing-star: <Badge type="tip" text="Info" link="https://store.steampowered.com/publisher/holo_Indie/" /> <tooltip>We won't add the games here that are under holo Indie</tooltip>
+- [Days With Ollie](https://store.steampowered.com/app/2776750/Days_With_Ollie/) :material-symbols-attach-money:  
+- [Delivering Hope](https://david-wu-softdev.itch.io/delivering-hope-hololive-fangame)  
+- [Holo on Suika](https://tkgames.jp/holo_watermelon.html)  
+- [Holocure](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/) :glowing-star:  
+- [Hololive Councilrys RPG](https://kebbie.itch.io/councilrysrpg)    
+- [hololive ERROR](https://store.steampowered.com/app/2062550/hololive_ERROR/) :material-symbols-attach-money:  
+- [Mumei's Memory Juggling](https://david-wu-softdev.itch.io/mumeis-memory-juggling)  
+- [Nameless](https://sk-jynx.itch.io/nameless) :glowing-star:  
+- [Pebble Jame](https://gioba-games.itch.io/pebble-jame)  
+- [smol Ame](https://moocow-games.itch.io/smol-ame)  
+- [Snowed In](https://shiorinovella.itch.io/shiorivisualnovella)  
+- [Submerged Mystery: Takodachi](https://velveteenio.itch.io/submerged-mystery-takodachi)  
+- [Takos Organised Neatly](https://ae-lux-production.itch.io/takos-organised-neatly)  
+- [Hololive itch.io collection by David Wu SoftDev](https://itch.io/c/1018682/hololive-fangames)
 
 
 ![](/banner/others.webp)

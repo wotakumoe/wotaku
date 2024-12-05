@@ -260,12 +260,55 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 
 ## Online
 
-- [Comick](https://comick.io/home) :glowing-star: <Badge type="tip" text="RSS" icon="i-material-symbols-rss-feed-rounded" link="https://manga.ldez.workers.dev/" /> <tooltip><ul><li>Minimal compression</li><li>Aggregates from various scanlation groups</li><li>There's a 2/3 hour upload delay for most chapters sourced from scanlators' sites</li><li>Has official translations</li><li>Reader isn't as good as mangadex</li></ul></tooltip>
-- [Mangadex](https://mangadex.org/) <Badge type="tip" text="RSS" icon="i-material-symbols-rss-feed-rounded" link="https://mdrss.tijlvdb.me/" />  <tooltip><ul><li>Uploads without compression</li><li>Best reader UI (for a web reader)</li><li>Uploads from various scanlation groups</li><li>No official translations, barring [**some exceptions**](https://mangadex.org/rules#content_restrictions)</li><li>May remove content if there is a DMCA request by the publisher or doesn't allow upload at all (e.g. One Punch-Man)</li></ul></tooltip>
-- [Weeb Central](https://weebcentral.com/) <Badge type="tip" text="2" link="https://mangasee123.com/" /><Badge type="tip" text="3" link="https://manga4life.com/" /><Badge type="tip" text="Alt" link="https://atsu.moe/" /> <tooltip><ul><li>Has official translations</li><li>Compresses chapter images</li><li>Chapter updates are relatively slow</li><li>You can use AL sync with atsu</li></ul></tooltip>
-- [Batoto](https://battwo.com/v3x) <Badge type="tip" text="Proxies" link="https://rentry.co/batoto" /><tooltip><ul><li>Has both scanlated and official releases</li><li>Has some exclusive uploads</li><li>Decent filtering options with site theme options</li><li>Indexing is poor</li></ul></tooltip>
+- [Comick](https://comick.io/home) :glowing-star: <Badge type="tip" text="RSS" icon="i-material-symbols-rss-feed-rounded" link="https://manga.ldez.workers.dev/" />  
+  <tooltip>
+    <ul>
+      <li>Minimal compression</li>
+      <li>Aggregates from various scanlation groups</li>
+      <li>There's a 2/3 hour upload delay for most chapters sourced from scanlators' sites</li>
+      <li>Has official translations</li>
+      <li>Reader isn't as good as mangadex</li>
+    </ul>
+  </tooltip>
+- [Mangadex](https://mangadex.org/) <Badge type="tip" text="RSS" icon="i-material-symbols-rss-feed-rounded" link="https://mdrss.tijlvdb.me/" />  
+  <tooltip>
+    <ul>
+      <li>Uploads without compression</li>
+      <li>Best reader UI (for a web reader)</li>
+      <li>Uploads from various scanlation groups</li>
+      <li>No official translations, barring some exceptions. </li>
+      <li>May remove content if there is a DMCA request by the publisher or doesn't allow upload at all (e.g. One Punch-Man)</li>
+    </ul>
+  </tooltip>
+- [Weeb Central](https://weebcentral.com/) <Badge type="tip" text="2" link="https://mangasee123.com/" /><Badge type="tip" text="3" link="https://manga4life.com/" /><Badge type="tip" text="Alt" link="https://atsu.moe/" />  
+  <tooltip>
+    <ul>
+      <li>Has official translations</li>
+      <li>Compresses chapter images</li>
+      <li>Chapter updates are relatively slow</li>
+      <li>You can use AL sync with atsu</li>
+    </ul>
+  </tooltip>
+- [Batoto](https://battwo.com/v3x) <Badge type="tip" text="Proxies" link="https://rentry.co/batoto" />  
+  <tooltip>
+    <ul>
+      <li>Has both scanlated and official releases</li>
+      <li>Has some exclusive uploads</li>
+      <li>Decent filtering options with site theme options</li>
+      <li>Indexing is poor</li>
+    </ul>
+  </tooltip>
 - [Mangapark](https://mangapark.net/)  
-- [MangaFire](https://mangafire.to/home) <tooltip><ul><li>The UI is very clean with notification system</li><li>Uploads both chapter (multi-lang) & volume releases</li><li>Basic reader UI</li><li>Watermark on almost every manga chapters</li><li>Manga uploads are up to x1600</li></ul></tooltip>
+- [MangaFire](https://mangafire.to/home)  
+  <tooltip>
+    <ul>
+      <li>The UI is very clean with notification system</li>
+      <li>Uploads both chapter (multi-lang) & volume releases</li>
+      <li>Basic reader UI</li>
+      <li>Watermark on almost every manga chapters</li>
+      <li>Manga uploads are up to x1600</li>
+    </ul>
+  </tooltip>
 
 
 ::: details More
@@ -385,7 +428,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [Novel Updates](https://www.novelupdates.com/)
 - [Baka-tsuki](https://www.baka-tsuki.org/project/index.php?title=Main_Page)
 - [Boxnovel](https://boxnovel.com/)
-- [Light Novel Pub](https://www.lightnovelpub.com/) <Badge type="tip" text="Light Novel World" link="https://www.lightnovelworld.com/" />
+- [Light Novel Pub](https://www.lightnovelpub.com/) <Badge type="tip" text="2" link="https://www.lightnovelworld.com/" />
 - [Novel Bin](https://novelbin.com/)
 - [Novel Buddy](https://novelbuddy.com/home)
 - [VyNovel](https://vynovel.com/)

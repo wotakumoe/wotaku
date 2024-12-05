@@ -265,9 +265,9 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 :::
 
 ### Novels
-- [WebtoEpub](https://github.com/dteviot/WebToEpub) :mdi-firefox::mingcute-chrome-fill:<tooltip><ul><li>Rich with epub settings and customization</li><li>Includes authors and precise detailed information</li><li>Works with 3k chap of novels (pretty slow conversion time)</li><li>Advanced options with additional settings and customization</li><li>Ability to generate epub 3 version</li><li>Conversion time is slow (depends on the novel you're converting for)</li></ul></tooltip>
-- [Epublifier](https://github.com/maoserr/epublifier) :mdi-firefox::mingcute-chrome-fill:<tooltip><ul><li>Decent UI and unique pop-up tabs</li><li>Fast conversion (Novelupdate tested)</li><li>Faster parser compared to WebtoEpub extension</li><li>Don't have a way to add table of contents</li><li>Chapter name is reverted back to title instead so no precise info</li><li>No detailed epub info like authors and metadata</li></ul></tooltip>
-- [Novel Crawler](https://github.com/dipu-bd/lightnovel-crawler) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<tooltip><ul><li>Command Line based</li><li>Easy fetch for chapters</li><li>Fast experience</li><li>Needs basic knowledge for Command prompt</li></ul></tooltip>
+- [WebtoEpub](https://github.com/dteviot/WebToEpub) :mdi-firefox::mingcute-chrome-fill:
+- [Epublifier](https://github.com/maoserr/epublifier) :mdi-firefox::mingcute-chrome-fill:
+- [Novel Crawler](https://github.com/dipu-bd/lightnovel-crawler) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
 
 ## Anime Tools
@@ -276,8 +276,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [GetFnative](https://github.com/YomikoR/GetFnative) <Badge type="info" text="getfscaler" link="https://github.com/Jaded-Encoding-Thaumaturgy/getfscaler"/>
 - [Getnative](https://github.com/Infiziert90/getnative)
 - [Manami](https://github.com/manami-project/manami)
-- [Shoko Anime](https://shokoanime.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-  - [Shokofin](https://github.com/ShokoAnime/Shokofin)
+- [Shoko Anime](https://shokoanime.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/ShokoAnime/)
 - **Stremio**
   - [Viren070's Guides](https://guides.viren070.me/)
   - [Stremio Community Addons List](https://stremio-addons.netlify.app/)
@@ -298,7 +297,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 ## Manga Tools
 - [ACBR](https://github.com/binarynonsense/comic-book-reader) :ic-baseline-window::mingcute-linux-fill:
 - [CBconvert](https://github.com/gen2brain/cbconvert) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [cbz/cbr file converter](https://web.archive.org/web/20240824063618/http://tomeko.net/software/CbxConverter/) :ic-baseline-window:
+- [CbxConverter](https://tomeko.net/software/CbxConverter/) :ic-baseline-window: <tooltip>The version of Magick inside is really outdated. If you use it, download "ImageMagick-[Latest_Version]-portable-Q8-x64.zip" from the Imagemagick site, take the magick.exe from there and replace it in CbxConverter folder.</tooltip>
 - [ComicbookArchiveToolbox](https://degoedel.github.io/ComicbookArchiveToolbox/) :ic-baseline-window: [:mdi-github:](https://degoedel.github.io/ComicbookArchiveToolbox/)
 - [ComicTagger](https://github.com/comictagger/comictagger) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [DarkThumbs](https://github.com/fire-eggs/DarkThumbs) :ic-baseline-window:
