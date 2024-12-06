@@ -112,10 +112,10 @@ outline: [1,2]
 
 ## Anime Streaming
 - [AnymeX](https://anymex.vercel.app/) [:mdi-github:](https://github.com/RyanYuuki/AnymeX)
-- [Chouten Beta](https://testflight.apple.com/join/Cg1rAPB8) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/GJGMJRPJ5j" />
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [MiruTV](https://mirutv.app/)
 - [Ryu](https://github.com/cranci1/Ryu)
+- [Chouten Beta](https://testflight.apple.com/join/Cg1rAPB8) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/GJGMJRPJ5j" />
 
 ## Manga Readers
 
