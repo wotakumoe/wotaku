@@ -345,41 +345,26 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
   - [Nyaa Downloader](https://github.com/marcpinet/nyaadownloader) :ic-baseline-window:
   - [Koneko](https://github.com/irevenko/koneko)
 
-## Hosting
+## Server / Hosting
 
-#### Anime
-- [Plex](https://www.plex.tv/) :glowing-star:
-  - [Plex to AniList Sync](https://github.com/RickDB/PlexAniSync)
-  - [PlexAniSync-Mappings](https://github.com/mizz141/PlexAniSync-Mappings)
-  - [Maintainerr](https://github.com/jorenn92/Maintainerr)
-- [Jellyfin](https://jellyfin.org/)
-- [Emby](https://emby.media/)
+| **Type**  | **Solution**  |
+|-|-|
+| Anime  | [Plex](https://www.plex.tv/) :glowing-star: <br> [Jellyfin](https://jellyfin.org/) [:mdi-github:](https://github.com/jellyfin/jellyfin) <br> [Emby](https://emby.media/)   |
+| Manga  | [Komga](https://komga.org/) :glowing-star: [:mdi-github:](https://github.com/gotson/komga) <br> [Kavita](https://www.kavitareader.com/) [:mdi-github:](https://github.com/Kareadita/Kavita) <br> [LANraragi](https://sugoi.gitbook.io/lanraragi/v/dev) [:mdi-github:](https://github.com/Difegue/LANraragi) <br> [Teemii](https://www.teemii.io/) [:mdi-github:](https://github.com/dokkaner/teemii) <br> [Mango](https://github.com/getmango/Mango) <Badge type="warning" text="Outdated" /> |
+| Novels | [Kavita](https://www.kavitareader.com/) :glowing-star: [:mdi-github:](https://github.com/Kareadita/Kavita) <br> [Komga](https://komga.org/) [:mdi-github:](https://github.com/gotson/komga) <br> [Calibre-Web](https://github.com/janeczku/calibre-web) <br> [Librium](https://librumreader.com/) |
+| Audiobook | [audiobookshelf](https://www.audiobookshelf.org/) [:mdi-github:](https://github.com/advplyr/audiobookshelf) <br> [Booksonic](https://booksonic.org/) [:mdi-github:](https://github.com/popeen/Booksonic-App) |
 
-#### Manga
-- [Komga](https://komga.org/) :glowing-star: [:mdi-github:](https://github.com/gotson/komga)
-  - [Komelia](https://github.com/Snd-R/Komelia) :mdi-android::ic-baseline-window::mingcute-linux-fill:
-- [Kavita](https://www.kavitareader.com/) [:mdi-github:](https://github.com/Kareadita/Kavita)
-- [LANraragi](https://sugoi.gitbook.io/lanraragi/v/dev) [:mdi-github:](https://github.com/Difegue/LANraragi)
-  - [Ichaival](https://github.com/Utazukin/Ichaival) :mdi-android:
-  - [LANreader](https://github.com/Doraemoe/LANreader) :ic-baseline-apple:
-  - [LRReader](https://github.com/Guerra24/LRReader) :ic-baseline-window:
-- [Teemii](https://www.teemii.io/) [:mdi-github:](https://github.com/dokkaner/teemii)
-- [Mango](https://github.com/getmango/Mango) <Badge type="warning" text="Outdated" />
+### Client / Tools
 
-::: tip Mihon apps
-[**Android apps**](#manga-readers) that support the mihon extension system, can be used as clients for these hosting solutions. You can get extensions from [**here**](/guides/tech/repo)
+| **Solution**  | **Client/Tools**  |
+|-|-|
+| [Komga](https://komga.org/) | [Komelia](https://github.com/Snd-R/Komelia) :mdi-android::ic-baseline-window::mingcute-linux-fill: |
+| [LANraragi](https://sugoi.gitbook.io/lanraragi/v/dev) | [Ichaival](https://github.com/Utazukin/Ichaival) :mdi-android: <br> [LANreader](https://github.com/Doraemoe/LANreader) :ic-baseline-apple: <br> [LRReader](https://github.com/Guerra24/LRReader) :ic-baseline-window: |
+| [Plex](https://www.plex.tv/) | [Plex to AniList Sync](https://github.com/RickDB/PlexAniSync) <br> [PlexAniSync-Mappings](https://github.com/mizz141/PlexAniSync-Mappings) <br> [Maintainerr](https://github.com/jorenn92/Maintainerr) |
+
+::: tip Mihon, Aniyomi & forks
+[**Android apps**](#manga-readers) that support the mihon extension system, can be used as clients for Jellyfin, Komga, Kavita & LANraragi. You can get extensions from [**here**](/guides/tech/repo).
 :::
-
-#### Novels
-- [Kavita](https://www.kavitareader.com/) :glowing-star: [:mdi-github:](https://github.com/Kareadita/Kavita)
-- [Komga](https://komga.org/) [:mdi-github:](https://github.com/gotson/komga)
-- [Calibre-Web](https://github.com/janeczku/calibre-web)
-- [Librium](https://librumreader.com/)
-
-#### Audiobook
-- [audiobookshelf](https://www.audiobookshelf.org/)
-- [Booksonic](https://booksonic.org/)
-
 
 ## OCR / Translator
 - [Sugoi Translation Toolkit](https://blog.sugoitoolkit.com/)
