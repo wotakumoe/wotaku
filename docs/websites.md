@@ -212,10 +212,7 @@ outline: 1
 - [Anime out](https://www.animeout.xyz/) :mdi-download::mdi-account:
 - [Chauthanh](https://chauthanh.info/) :mdi-download::mdi-account:
 - [RIP Crabby Anime](https://ripcrabbyanime.com/) :mdi-google-drive::material-symbols-package-2:
-
-#### Mini-encodes
 - [hi10anime](https://hi10anime.com/) :mdi-download::mdi-magnet::mdi-account::material-symbols-package-2:
-- [Judas](https://rentry.org/judas-ddl) :mdi-google-drive::mdi-account::material-symbols-package-2:
 
 #### Subtitles
 - [Closed Caption Browser](https://cc.edatribe.com/#/) <Badge type="info" text="Dubtitles" />
