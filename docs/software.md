@@ -333,32 +333,6 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Tundra](https://tundra.moe/) :mingcute-linux-fill: [:mdi-github:](https://github.com/m4tx/tundra)
 
 
-## Fansubbing & Sub Tools
-- Adobe Software
-  - [m0nkrus](https://vk.com/monkrus) :ic-baseline-window::ic-baseline-apple:
-  - [RuTracker](https://rutracker.org/forum/index.php) :ic-baseline-window::ic-baseline-apple:
-  - [GenP](https://genpguides.github.io) :ic-baseline-window:
-  - [Download Pirate](https://www.downloadpirate.com/) :ic-baseline-window:
-  - [a.dove.isdumb.one](https://github.com/ignaciocastro/a-dove-is-dumb)
-  - :material-symbols-subdirectory-arrow-right: Adobe Alternatives
-    - [KennyNL](https://github.com/KenneyNL/Adobe-Alternatives)
-    - [XdanielArt](https://rentry.org/adobealt)
-- [Aegisub](https://github.com/arch1t3cht/Aegisub) :ic-baseline-window::mingcute-linux-fill:<Badge type="tip" text="Original" link="https://github.com/arch1t3cht/Aegisub" />
-- [AviSynth+](https://avs-plus.net/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/AviSynth/AviSynthPlus)
-- [gMKVExtractGUI](https://sourceforge.net/projects/gmkvextractgui/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [MKVcleaver](https://www.videohelp.com/software/MKVcleaver) :ic-baseline-window:
-- [MKV Extract](https://qgustavor.github.io/mkv-extract/en/) :mdi-earth:
-- [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) :ic-baseline-window:
-- [mpvQC](https://github.com/mpvqc/mpvQC) :ic-baseline-window:
-- [StaxRip](https://github.com/staxrip/staxrip) :ic-baseline-window:
-- [Sushi.net](https://github.com/maxpiva/Sushi.Net) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [VapourSynth](https://www.vapoursynth.com/) :ic-baseline-window: [:mdi-github:](https://github.com/vapoursynth/vapoursynth)
-  - :material-symbols-subdirectory-arrow-right: [VSDB](https://vsdb.top/)
-- [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- :material-symbols-subdirectory-arrow-right: [Encoding & Fansubbing Guides](/misc#encoding-fansubbing-guides)
-- :material-symbols-subdirectory-arrow-right: [More subtitle tools](/japan/software#subtitle)
-
-
 ## Other Tools
 - [AMV Tracker](https://github.com/bsobotka/amv_tracker) :ic-baseline-window:
 - **Image Search**

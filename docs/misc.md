@@ -279,9 +279,9 @@ Illustrations now has its [own page](/art)!
 - [Hololive MMD Models](https://3d.nicovideo.jp/users/89765617/works)
 - [Hololive Member Sorter](https://hololive.sorter.my.id/)
 
+## Tools
 
-## User Tools
-
+### User Tools
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
     - [yt-dlp interface](https://github.com/ErrorFlynn/ytdlp-interface)
 - [ytarchive](https://github.com/Kethsar/ytarchive)
@@ -296,6 +296,11 @@ Illustrations now has its [own page](/art)!
 - [Ragtag Player](https://archive.ragtag.moe/player)
 - [ffmprovisr](https://amiaopensource.github.io/ffmprovisr/)
 
+### VTuber tools
+- [Best VTuber software](https://gist.github.com/emilianavt/cbf4d6de6f7fb01a42d4cce922795794)
+- [VTResources](https://vtresources.carrd.co/)
+- [VTuber Assets](https://discord.gg/acU3dFRtvC)
+- [Reincar VTuber Materials](https://reincar.net/sozai/)
 
 ## Extensions
 
@@ -308,45 +313,6 @@ Illustrations now has its [own page](/art)!
 - [ytcFilter](https://github.com/LiveTL/ytcfilter) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/ytcfilter/mnldnbhgfocmkehnlkeanlhfmopepnko)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/ytcfilter/)
 
 
-## VTuber Assets
-
-### General
-- [VTResources](https://vtresources.carrd.co/)
-- [VTuber Assets](https://discord.gg/acU3dFRtvC)
-- [Reincar VTuber Materials](https://reincar.net/sozai/)
-
-### Modeling Tools
-
-- **2D Tools**
-  - [Live2D](https://www.live2d.com/en/about/) <tooltip><ul><li>Needs model split into many different layers, you can use Photoshop (paid), Clip Studio Paint (paid), or Krita (free) for this</li><li>Very feature-rich and difficult program and takes a lot of time to practice</li><li>Pricing: ~100€ per Year for Indie License, ~60€ 3 Years Student Indie License</li><li>Free 42 days trial after that limited free version</li><li>Tutorials out there on YouTube, you still will have to invest a massive amount of time</li></ul></tooltip>
-  - [Inochi2D](https://inochi2d.com/) [:mdi-github:](https://github.com/Inochi2D)<Badge type="tip" text="Docs" link="https://docs.inochi2d.com/" /> <tooltip><ul><li>Open Source and free alternative to Live2D</li><li>Similar functionality and structure</li><li>Split into Inochi Creator (used to create rigs) and Inochi Session (to use Inochi2D models for VTubing)</li><li>See <a href="https://docs.inochi2d.com/en/latest/inochi2d/faq.html#what-advantages-does-inochi2d-have-over-live2d">advantages over Live2D</a></li></ul></tooltip>
-  - [VTubeStudio](https://denchisoft.com/) <Badge type="tip" text="Steam" link="https://store.steampowered.com/app/1325860/VTube_Studio/" /> <tooltip><ul><li>Converts tracking input into model movement, needed if you want to bring your model to "life"</li><li>Free with a paid version which removes a small watermark, it costs 12,50€ (one-time)</li></ul></tooltip>
-  - [VBridger](https://store.steampowered.com/app/1898830/VBridger/) <tooltip><ul><li>Add-On for VTubeStudio to improve tracking</li><li>Costs 8,19€ (one-time)</li><li>Has to be used with a tracking input application like <a href="https://apps.apple.com/us/app/ifacialmocap/id1489470545">ifacialmocap</a> (iOS), <a href="https://apps.apple.com/us/app/facemotion3d/id1507538005">Facemotion3d</a> (iOS), <a href="https://play.google.com/store/apps/details?id=com.suvidriel.meowface&hl=en_US">Meowface</a> (Android)</li></ul></tooltip>
-- **3D Tools**
-  - [VRoidStudio](https://vroid.com/en/studio) <tooltip><ul><li>Used for model creation</li><li>Very easy to use, free but not really professional, most of the time you will not get great results.</li></ul></tooltip>
-  - [Blender](https://www.blender.org/) <tooltip><ul><li>Used for model creation (preferred)</li><li>Free & Open Source and very popular therefore has many resources to use</li><li>Allows you to create complex models, but at the same time it can get quite complicated</li></ul></tooltip>
-  - [cats blender plugin](https://github.com/absolute-quantum/cats-blender-plugin) <tooltip>Makes rigging your character easier, although you will get better results if you rig it manually using Blender.</tooltip>
-  - [Mixamo](https://www.mixamo.com/)
-  - [UniVRM](https://github.com/vrm-c/UniVRM/releases) <tooltip>Free & Open Source. Import VRoid Models into Unity</tooltip>
-  - [3Tene](https://3tene.com/free/) <Badge type="tip" text="Steam" link="https://store.steampowered.com/app/871170/3tene/" />  <tooltip>Free, there are other Versions with different functionality on their website. Used to track your 3D Model using your webcam/phone etc.</tooltip>
-  - [VSeeFace](https://www.vseeface.icu/)  <tooltip>Free, Feature rich and great functionality, you may still prefer 3Tene for its UI, just test both out.</tooltip>
-  - [SysMocap](https://github.com/xianfei/SysMocap)
-
-:::details Tutorials
-
-- **2D Tools**
-  - Although they may not be 100% up to date, [**Brian Tsui**](https://www.youtube.com/@brian_tsui/)'s tutorials give a good understanding of how rigging works and what you need to know before you start
-  - Introduction to Tools and Technical Concepts [Video](https://www.youtube.com/watch?v=Wr37T3S6LQU&list=PLhha8OGApHGMkC4F41zN3fFaSBRu-YIrc)
-      - Full Workflow [Video](https://www.youtube.com/watch?v=Cg4nqVl1vBQ&list=PLhha8OGApHGPTpHFNp22MWhZMO4BFmxCW)
-  - [beginner live2d tutorials](https://www.youtube.com/playlist?list=PLs1M2_VbQOf6bDLan8j-Tr7R-k9VDo3Pi)
-  - Live2d Tutorial by enma
-      - [Standard Componen](https://www.youtube.com/playlist?list=PL3sGye8NKCQ-DHy01xNkRLSKlzZ5VPL6z)
-      - [Advanced Componen](https://www.youtube.com/playlist?list=PL3sGye8NKCQ-pJ2EcUCFVK53JxntA9FLU)
-  - [Merely Wufeii Live2D tutorials](https://www.youtube.com/playlist?list=PLVr9R5AakwuT4wgxFr5mcv0As_OzR_WCB)
-- **3D Tools**
-  - [VanillaLog](https://www.youtube.com/@TheVanillaLog) [The art of making 3D vtuber models (for dummies)](https://www.youtube.com/watch?v=eFkwu7p1LhU)
-      - [Blender tutorials for 3D VTuber Making](https://docs.google.com/document/d/1GIfrXKHr2ndUh10DVIoS4lRw99misyzHZfo0fnwK8uk/edit)
-:::
 
 
 ## Games
@@ -381,7 +347,7 @@ Illustrations now has its [own page](/art)!
 - [Unanimated](https://unanimated.github.io/guides.htm)
 - [Yukisubs](https://yukisubs.wordpress.com/guides/)
 - [Zeriyu's Fansub Guide](https://github.com/zeriyu/fansub-guide)
-- :material-symbols-subdirectory-arrow-right: [Fansubbing tools](/software#fansubbing-sub-tools)
+- :material-symbols-subdirectory-arrow-right: [Fansubbing tools](/tools#fansubbing-sub-tools)
 
 ## Fun sites
 
