@@ -316,7 +316,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [Mangahub](https://mangahub.io/)<Badge type="info" text="Needs account" />
 - [Manga Buddy](https://mangabuddy.com/home) <Badge type="info" text="2" link="https://mangamirror.com/home-page" /> <Badge type="info" text="3" link="https://mangaforest.com/home" />
 - [Dynasty Reader](https://dynasty-scans.com/) 
-- [Like Manga](https://likemanga.io)
+- [Like Manga](https://likemanga.in)
 - [Comic Fans](https://www.comicfans.io/) <Badge type="info" text="Manhua" /><tooltip>Backup of Bilibili Comics</tooltip>
 - [Manga Here](https://www.mangahere.cc/) <Badge type="info" text="2" link="https://fanfox.net/" />
 - [Manganato](https://manganato.com/) <Badge type="info" text="2" link="https://mangakakalot.com/" /><Badge type="info" text="Alt" link="https://akari-psi.vercel.app/" />
