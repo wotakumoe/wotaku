@@ -156,34 +156,14 @@ outline: [1,2]
 
 ## mpv
 
-- **Resources**
-  - [mpv](https://mpv.io/) <Badge type="tip" text="Manual" link="https://mpv.io/manual/stable/" />
-  - [Scum's Setup Guide](https://iamscum.wordpress.com/guides/videoplayback-guide/)
-  - [Kokomins Configuration Guide](https://kokomins.wordpress.com/2019/10/14/mpv-config-guide/)
-  - [mpv Script Wiki](https://github.com/mpv-player/mpv/wiki/User-Scripts)
-  - [Awesome mpv](https://github.com/stax76/awesome-mpv)
-- **Alt UI**
-  - [ModernX](https://github.com/cyl0/ModernX)
-  - [Tethys](https://github.com/Zren/mpv-osc-tethys)
-  - [uosc](https://github.com/tomasklaen/uosc)
-- **Video**
-  - [Autocrop](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autocrop.lua)
-  - [Autoload](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua)
-  - [Eisa's Scripts](https://github.com/Eisa01/mpv-scripts)
-  - [thumbfast](https://github.com/po5/thumbfast/)
-- **QoL**
-  - [mpv Playlistmanager](https://github.com/jonniek/mpv-playlistmanager)
-  - [trackselect](https://github.com/po5/trackselect)
-  - [pause when minimize](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/pause-when-minimize.lua)
-- **Shaders**
-  - [ArtCNN](https://github.com/Artoriuz/ArtCNN)
-  - [Prescalers](https://github.com/bjin/mpv-prescalers)
-  - [Upscale 2x](https://github.com/the-database/mpv-upscale-2x_animejanai)
-- **Addons**
-  - [webtorrent mpv hook](https://github.com/mrxdst/webtorrent-mpv-hook)
-  - [MPV Shim for Plex](https://github.com/iwalton3/plex-mpv-shim)
-  - [ani-skip](https://github.com/synacktraa/ani-skip)
-
+| **Category** | **Resources** |
+|---------------|----------------|
+| Resources | [mpv manual](https://mpv.io/manual/stable/) <br> [Scum's Setup Guide](https://iamscum.wordpress.com/guides/videoplayback-guide/) <br> [mpv Script Wiki](https://github.com/mpv-player/mpv/wiki/User-Scripts) <br> [Awesome mpv](https://github.com/stax76/awesome-mpv) |
+| Alt UI | [ModernX](https://github.com/cyl0/ModernX) <br> [mpv.net](https://github.com/mpvnet-player/mpv.net) :glowing-star: <br> [Tethys](https://github.com/Zren/mpv-osc-tethys) <br> [uosc](https://github.com/tomasklaen/uosc) |
+| Video | [Autocrop](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autocrop.lua) <br> [Autoload](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua) <br> [Eisa's Scripts](https://github.com/Eisa01/mpv-scripts) <br> [thumbfast](https://github.com/po5/thumbfast/) |
+| QoL | [mpv Playlistmanager](https://github.com/jonniek/mpv-playlistmanager) <br> [trackselect](https://github.com/po5/trackselect) <br> [pause when minimize](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/pause-when-minimize.lua) |
+| Shaders | [ArtCNN](https://github.com/Artoriuz/ArtCNN) <br> [Prescalers](https://github.com/bjin/mpv-prescalers) |
+| Addons | [webtorrent mpv hook](https://github.com/mrxdst/webtorrent-mpv-hook) <br> [ani-skip](https://github.com/synacktraa/ani-skip) |
 
 
 ## Fansubbing & Sub Tools
@@ -223,6 +203,8 @@ outline: [1,2]
   - [Jackett](https://github.com/Jackett/Jackett)
   - [autobrr](https://autobrr.com/)
   - [Ombi](https://ombi.io/)
+  - [Maintainerr](https://github.com/jorenn92/Maintainerr)
+  - [Jellyseerr](https://docs.jellyseerr.dev/) [:mdi-github:](https://github.com/Fallenbagel/jellyseerr)
   - [Tdarr](https://home.tdarr.io/)
   - [Bazarr](https://www.bazarr.media/)
   - [Sonarr/Radarr/Lidarr autosearch](https://chromewebstore.google.com/detail/jmmjjcddjldjdjgckdiokhfokccdnekc)

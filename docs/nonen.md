@@ -301,6 +301,7 @@ If you have recommendations for good sites in your native language or want to re
 - [AnimeUnity](https://www.animeunity.to/)
 - [AnimeWorld](https://www.animeworld.so/)
 - [HentaiWorld](https://www.hentaiworld.me/) <Badge type="danger" text="18+" />
+- [HentaiSaturn](https://www.hentaisaturn.tv/) <Badge type="danger" text="18+" />
 - [One Piece Power](https://onepiecepower.com/anime18/lista-anime)
 
 ### Manga
@@ -431,6 +432,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Geekdot](https://geekdot.live/)
 - [Hinata Soul](https://www.hinatasoul.com/)
 - [Saikoni](https://saikoani.me/)
+- [HentaiTube.com](https://www.hentaistube.com/)
 
 ### Manga
 - [Ler Mangas](https://lermangas.me/)

@@ -110,6 +110,12 @@ outline: [1,2]
 
 # iOS
 
+<br>
+
+::: tip Sideloading apps on Apple devices
+Check out [**CFW's iOS guide**](https://ios.cfw.guide/) & [**The Apple Wiki**](https://theapplewiki.com/wiki/Main_Page) for info and guides on jailbreaking and sideloading.
+:::
+
 ## Anime Streaming
 - [AnymeX](https://anymex.vercel.app/) [:mdi-github:](https://github.com/RyanYuuki/AnymeX)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
@@ -273,6 +279,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 ## Anime Tools
 - [Anicon](https://github.com/notdedsec/anicon) <Badge type="info" text="AniList" link="https://github.com/EnArvy/AniconforAnilist"/>:ic-baseline-window:
+- [AnimeJaNai](https://github.com/the-database/mpv-upscale-2x_animejanai)
 - [Anitomy](https://github.com/erengy/anitomy)
 - [GetFnative](https://github.com/YomikoR/GetFnative) <Badge type="info" text="getfscaler" link="https://github.com/Jaded-Encoding-Thaumaturgy/getfscaler"/>
 - [Getnative](https://github.com/Infiziert90/getnative)
@@ -286,13 +293,6 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
   - [Animeo: AniList Tracking](https://7a625ac658ec-animeo.baby-beamup.club/configure) [:mdi-github:](https://github.com/Jenrykster/animeo)
   - [SIMKL Addon](https://simkl.com/apps/stremio/)
   - [Anime Catalogs](https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/configure)
-
-::: details :material-symbols-subdirectory-arrow-right: Related resources
-- [Video tools](/tools#video-tools)
-- [mpv tools](/tools#mpv)
-- [arr tools](/tools#arr-tools)
-- [Subtitle tools](#fansubbing-sub-tools)
-:::
 
 
 ## Manga Tools
@@ -355,10 +355,11 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 | **Solution**  | **Client/Tools**  |
 |-|-|
-| [Kavita](https://www.kavitareader.com/) | [komf](https://github.com/Snd-R/komf) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-docker: |
-| [Komga](https://komga.org/) | [komf](https://github.com/Snd-R/komf) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-docker: <br> [Komelia](https://github.com/Snd-R/Komelia) :mdi-android::ic-baseline-window::mingcute-linux-fill: |
+| [Jellyfin](https://jellyfin.org/) | [Jellyfin MPV Shim](https://github.com/jellyfin/jellyfin-mpv-shim) <br> [Jellyfin-RPC](https://github.com/Radiicall/jellyfin-rpc) |
+| [Kavita](https://www.kavitareader.com/) | [komf](https://github.com/Snd-R/komf) <Badge type="tip" text="Script" link="https://github.com/Snd-R/komf-userscript" /> |
+| [Komga](https://komga.org/) | [komf](https://github.com/Snd-R/komf) <Badge type="tip" text="Script" link="https://github.com/Snd-R/komf-userscript" />  <br> [Komelia](https://github.com/Snd-R/Komelia) :mdi-android::ic-baseline-window::mingcute-linux-fill: |
 | [LANraragi](https://sugoi.gitbook.io/lanraragi/v/dev) | [Ichaival](https://github.com/Utazukin/Ichaival) :mdi-android: <br> [LANreader](https://github.com/Doraemoe/LANreader) :ic-baseline-apple: <br> [LRReader](https://github.com/Guerra24/LRReader) :ic-baseline-window: |
-| [Plex](https://www.plex.tv/) | [Plex to AniList Sync](https://github.com/RickDB/PlexAniSync) <br> [PlexAniSync-Mappings](https://github.com/mizz141/PlexAniSync-Mappings) <br> [Maintainerr](https://github.com/jorenn92/Maintainerr) |
+| [Plex](https://www.plex.tv/) | [MPV Shim for Plex](https://github.com/iwalton3/plex-mpv-shim) <br> [Plex to AniList Sync](https://github.com/RickDB/PlexAniSync) <br> [PlexAniSync-Mappings](https://github.com/mizz141/PlexAniSync-Mappings) |
 
 ::: tip Mihon, Aniyomi & forks
 [**Android apps**](#manga-readers) that support the mihon extension system, can be used as clients for Jellyfin, Komga, Kavita & LANraragi. You can get extensions from [**here**](/guides/tech/repo).
