@@ -300,14 +300,16 @@ If you have recommendations for good sites in your native language or want to re
 - [Anime Saturn](https://www.animesaturn.cx/)
 - [AnimeUnity](https://www.animeunity.to/)
 - [AnimeWorld](https://www.animeworld.so/)
-- [HentaiWorld](https://www.hentaiworld.me/) <Badge type="danger" text="18+" />
-- [HentaiSaturn](https://www.hentaisaturn.tv/) <Badge type="danger" text="18+" />
 - [One Piece Power](https://onepiecepower.com/anime18/lista-anime)
 
 ### Manga
 - [MangaWorld](https://www.mangaworld.ac/)
-- [MangaWorldAdult](https://www.mangaworldadult.net/) <Badge type="danger" text="18+" />
 - [One Piece Power](https://onepiecepower.com/manga8/lista-manga)
+
+### NSFW
+- [HentaiSaturn](https://www.hentaisaturn.tv/)
+- [HentaiWorld](https://www.hentaiworld.me/)
+- [MangaWorldAdult](https://www.mangaworldadult.net/)
 
 ### Downloaders
 
@@ -432,7 +434,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Geekdot](https://geekdot.live/)
 - [Hinata Soul](https://www.hinatasoul.com/)
 - [Saikoni](https://saikoani.me/)
-- [HentaiTube.com](https://www.hentaistube.com/)
+- [HentaisTube](https://www.hentaistube.com/) <Badge type="danger" text="18+" />
 
 ### Manga
 - [Ler Mangas](https://lermangas.me/)
