@@ -85,7 +85,8 @@ outline: [1,2]
 
 
 ## Illustrations
-- [Booruwf](https://booru.pixiv.pics/) <Badge type="tip" text="Moeview" link="https://moeview.pixiv.pics/" /> [:mdi-github:](https://github.com/asadahimeka/booruwf-web)
+
+### Self Hosted
 - [Danbooru](https://danbooru.donmai.us/)
 - [Gelbooru](https://gelbooru.com/) :glowing-star:
 - [Hentai Game CG](https://hentaigamecg.com/)
@@ -94,11 +95,16 @@ outline: [1,2]
 - [Nozomi](https://nozomi.la/)
 - [Oreno3D](https://oreno3d.com/)
 - [Pixiv](https://www.pixiv.net)
-- [Pixiv Viewer](https://pixiv.pics/) :glowing-star:
 - [Rule34.xxx](https://rule34.xxx/) <tooltip><ul><li>Boasts a larger content library compared to Paheal.</li><li>Features an extensive tagging system, allowing searches based on descriptions or depicted acts.</li><li>Permits larger file uploads, up to 100MB.</li><li>Searching is more user-friendly compared to Paheal.</li></ul></tooltip>
 - [Rule 34 Paheal](https://rule34.paheal.net/) <tooltip><ul><li>Categorizes content by characters, franchises, events (such as holidays), animations, and sound.</li><li>Limits uploads to 10MB.</li></ul></tooltip>
 - [Rule34.dev](https://rule34.dev/)
 - [yande.re](https://yande.re/)
+
+### Frontends
+- [Booru Masonary](https://booru.pixiv.pics/) :glowing-star: <Badge type="tip" text="2" link="https://booru.vercel.app/" /><Badge type="tip" text="3" link="https://booru.cocomi.eu.org/" /> [:mdi-github:](https://github.com/asadahimeka/booruwf-web)
+- [Consurf](https://consurf.onrender.com/) [:mdi-github:](https://github.com/QueenAkaAlt/Consurf)
+- [Moeview](https://moeview.app/) <Badge type="tip" text="2" link="https://moeview.pages.dev/" /><Badge type="tip" text="3" link="https://moeview.pixiv.pics/" />
+- [Pixiv Viewer](https://pixiv.pics/) :glowing-star:
 
 ## Games
 
