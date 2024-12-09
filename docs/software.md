@@ -37,7 +37,7 @@ outline: [1,2]
 - [Cloudstream](https://cloudstream.on.fleek.co/) [:mdi-github:](https://github.com/recloudstream/cloudstream)<Badge type="info" icon="i-mdi-puzzle-outline" text="Plugins" link="https://discord.gg/wpX5Rfcx87" />
 - [Migu](https://miguapp.pages.dev/) [:mdi-github:](https://github.com/NoCrypt/migu)
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
-- [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one)
+- [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one) :material-symbols-lock-outline:
   - :material-symbols-subdirectory-arrow-right: [Stremio Tools](#anime-tools)
 - [AnimeTV](https://amarullz.com/) [:mdi-github:](https://github.com/amarullz/AnimeTV)
 - [Crunchyroll for TIZEN](https://github.com/jhassan8/crunchyroll-tizen)
@@ -64,9 +64,9 @@ outline: [1,2]
 :::
 
 ### Local
-- [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :glowing-star: <Badge type="warning" text="Freemium" />
-- [Kuro Reader +](https://kurotoshiro.dev/) <Badge type="warning" text="Freemium" />
-- [CDisplayEx Comic Reader](https://play.google.com/store/apps/details?id=com.progdigy.cdisplay.free) <Badge type="warning" text="Freemium" />
+- [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :glowing-star: :material-symbols-lock-outline: <Badge type="warning" text="Freemium" />
+- [Kuro Reader +](https://kurotoshiro.dev/) :material-symbols-lock-outline: <Badge type="warning" text="Freemium" />
+- [CDisplayEx Comic Reader](https://play.google.com/store/apps/details?id=com.progdigy.cdisplay.free) :material-symbols-lock-outline: <Badge type="warning" text="Freemium" />
 
 ## Novel Readers
 
@@ -79,15 +79,15 @@ outline: [1,2]
 
 
 ### Local
-- [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) <Badge type="warning" text="Freemium" />
-- [ReadEra](https://play.google.com/store/apps/details?id=org.readera) <Badge type="warning" text="Freemium" />
-- [Lithium: EPUB Reader](https://play.google.com/store/apps/details?id=com.faultexception.reader&hl=en&gl=US)
+- [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) :material-symbols-lock-outline: <Badge type="warning" text="Freemium" />
+- [ReadEra](https://play.google.com/store/apps/details?id=org.readera) :material-symbols-lock-outline: <Badge type="warning" text="Freemium" />
+- [Lithium: EPUB Reader](https://play.google.com/store/apps/details?id=com.faultexception.reader&hl=en&gl=US) :material-symbols-lock-outline:
 - [Book's Story](https://github.com/Acclorite/book-story)
 
 ## Trackers
 
 - **AniList**
-  - [AL-Chan](https://play.google.com/store/apps/details?id=com.zen.alchan)
+  - [AL-Chan](https://play.google.com/store/apps/details?id=com.zen.alchan) :material-symbols-lock-outline:
   - [AniHyou](https://github.com/axiel7/AniHyou-android)
   - [Kurumi](https://github.com/subrotokumar/kurumi)
 - **MyAnimeList**
@@ -118,7 +118,7 @@ Check out [**CFW's iOS guide**](https://ios.cfw.guide/) & [**The Apple Wiki**](h
 ## Anime Streaming
 - [Ryu](https://github.com/cranci1/Ryu)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
-- [MiruTV](https://mirutv.app/)
+- [MiruTV](https://mirutv.app/) :material-symbols-lock-outline:
 - [Chouten Beta](https://testflight.apple.com/join/Cg1rAPB8) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/GJGMJRPJ5j" />
 
 ## Manga Readers
@@ -127,16 +127,16 @@ Check out [**CFW's iOS guide**](https://ios.cfw.guide/) & [**The Apple Wiki**](h
 - [Paperback](https://paperback.moe/) <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="/guides/tech/repo#ios" />[:mdi-github:](https://github.com/Paperback-iOS/app)
 - [Aidoku](https://aidoku.app/) <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="/guides/tech/repo#ios" />[:mdi-github:](https://github.com/Aidoku/Aidoku)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
-- [Tachimanga](https://tachimanga.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="https://tachimanga.app/help/guides/adding-repos.html" /> <Badge type="warning" text="Freemium" />
+- [Tachimanga](https://tachimanga.app/) :material-symbols-lock-outline: <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="https://tachimanga.app/help/guides/adding-repos.html" /> <Badge type="warning" text="Freemium" />
 - [Suwatte](https://suwatte.mantton.com/) <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="/guides/tech/repo#ios" /><Badge type="tip" text="Converter" link="https://seyden.github.io/SuwatteConverter/suwatte" />
 - [Hanami](https://github.com/oolxg/Hanami)
 
 ### Local
-- [YACReader](https://apps.apple.com/app/id635717885) :glowing-star: <Badge type="warning" text="Paid" /> <Badge type="tip" text="TestFlight" icon="i-ic-twotone-money-off" link="https://testflight.apple.com/join/5zhB7sRP" />
-- [iComics](https://apps.apple.com/us/app/icomics/id493845493) <Badge type="warning" text="Paid" />
-- [SideBooks](https://apps.apple.com/us/app/sidebooks/id409777225)
-- [Panels](https://apps.apple.com/us/app/panels-comic-reader/id1236567663)
-- [Manga Viewer](https://apps.apple.com/us/app/manga-viewer-cbz-cbr-reader/id1309007086)
+- [YACReader](https://apps.apple.com/app/id635717885) :glowing-star: :material-symbols-lock-outline: <Badge type="warning" text="Paid" /> <Badge type="tip" text="TestFlight" icon="i-ic-twotone-money-off" link="https://testflight.apple.com/join/5zhB7sRP" />
+- [iComics](https://apps.apple.com/us/app/icomics/id493845493) :material-symbols-lock-outline: <Badge type="warning" text="Paid" />
+- [SideBooks](https://apps.apple.com/us/app/sidebooks/id409777225) :material-symbols-lock-outline:
+- [Panels](https://apps.apple.com/us/app/panels-comic-reader/id1236567663) :material-symbols-lock-outline:
+- [Manga Viewer](https://apps.apple.com/us/app/manga-viewer-cbz-cbr-reader/id1309007086) :material-symbols-lock-outline:
 
 ::: details "iOS app not working. What should i do?"
 
@@ -155,9 +155,9 @@ or buy an Android phone :ic-twotone-thumb-up:
 
 ## Trackers
 - [AniHyou](https://apps.apple.com/us/app/anihyou-anilist-client/id1635777325)
-- [Kitsune for MyAnimeList](https://apps.apple.com/us/app/kitsune-for-myanimelist/id6466716447)
-- [MyAniList](https://apps.apple.com/us/app/myanilist/id741257899)
-- [MyAnimeList Official](https://apps.apple.com/us/app/myanimelist-official/id1469330778)
+- [Kitsune for MyAnimeList](https://apps.apple.com/us/app/kitsune-for-myanimelist/id6466716447) :material-symbols-lock-outline:
+- [MyAniList](https://apps.apple.com/us/app/myanilist/id741257899) :material-symbols-lock-outline:
+- [MyAnimeList Official](https://apps.apple.com/us/app/myanimelist-official/id1469330778) :material-symbols-lock-outline:
 - [Risuto for AniList](https://apps.apple.com/us/app/risuto-for-anilist/id6455685990)
 - [Ryuusei for AniList](https://apps.apple.com/us/app/ryuusei-for-anilist/id1347721581)
 
@@ -170,7 +170,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 
 - [Miru](https://miru.watch/) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/ThaUnknown/miru/) <Badge type="info" text="Torrent" />
   - [Migu](https://miguapp.pages.dev/) [:mdi-github:](https://github.com/NoCrypt/migu)
-- [Stremio](https://www.stremio.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
+- [Stremio](https://www.stremio.com/) :material-symbols-lock-outline: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
   - :material-symbols-subdirectory-arrow-right: [Stremio Tools](#anime-tools)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
 - [Seanime](https://seanime.rahim.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/5rahim/seanime)  <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
@@ -214,8 +214,8 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 ### Local
 
-- [YACReader](https://www.yacreader.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/YACReader/yacreader) <tooltip><ul><li>Has all the standard features, keeps last read history</li><li>Doesn't have built-in library like MComix, only the history</li><li>The bundled YACLibrary is excellent</li><li>Lots of customization</li><li>Can act like a local manga server like calibre</li><li>But the server client for <a href="https://play.google.com/store/apps/details?id=com.yacreader.yacreader&hl=en&gl=US">Android</a> and <a href="https://apps.apple.com/ca/app/yacreader-comic-reader/id635717885">iOS</a> is paid</li></ul></tooltip>
-- [CDisplayEx](https://www.cdisplayex.com/) :ic-baseline-window: <tooltip><ul><li>Minimalist UI</li><li>Fast and simple reader with good amount of configuration</li><li>Has Nearest, Draft, linear and Lanczos (with various level) as scaling options</li><li>Not FOSS and not maintained since the development team has marked it as complete</li><li>No library view, only recent reads</li></ul></tooltip>
+- [YACReader](https://www.yacreader.com/) :material-symbols-lock-outline: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/YACReader/yacreader) <tooltip><ul><li>Has all the standard features, keeps last read history</li><li>Doesn't have built-in library like MComix, only the history</li><li>The bundled YACLibrary is excellent</li><li>Lots of customization</li><li>Can act like a local manga server like calibre</li><li>But the server client for <a href="https://play.google.com/store/apps/details?id=com.yacreader.yacreader&hl=en&gl=US">Android</a> and <a href="https://apps.apple.com/ca/app/yacreader-comic-reader/id635717885">iOS</a> is paid</li></ul></tooltip>
+- [CDisplayEx](https://www.cdisplayex.com/) :material-symbols-lock-outline: :ic-baseline-window: <tooltip><ul><li>Minimalist UI</li><li>Fast and simple reader with good amount of configuration</li><li>Has Nearest, Draft, linear and Lanczos (with various level) as scaling options</li><li>Not FOSS and not maintained since the development team has marked it as complete</li><li>No library view, only recent reads</li></ul></tooltip>
 - [Yomikiru](https://github.com/mienaiyami/yomikiru) :ic-baseline-window::mingcute-linux-fill: <tooltip>Simple UI with all the basic settings. Has longstrip mode and anilist tracking.</tooltip>
 - [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) :ic-baseline-window:
 - [OpenComic](https://github.com/ollm/OpenComic) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <tooltip><ul><li>Nice clean UI, has dark mode</li><li>Has all the standard functions, including recent history</li><li>Has long strip mode which is pretty smooth</li><li>Has Anilist tracking built in as well as controller support</li><li>Supports Lanczos and other scaling methods.</li></ul></tooltip>
@@ -227,7 +227,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 ## Novel Readers
 
 - [Calibre](https://calibre-ebook.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/kovidgoyal/calibre)
-- [Freda](https://www.turnipsoft.com/freda/) :ic-baseline-window:
+- [Freda](https://www.turnipsoft.com/freda/) :material-symbols-lock-outline: :ic-baseline-window:
 - [Koodo Reader](https://www.koodoreader.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/koodo-reader/koodo-reader)
 - [KOReader](https://koreader.rocks/) :mingcute-linux-fill::gg-ereader: [:mdi-github:](https://github.com/koreader/koreader)
 - [Okular](https://okular.kde.org/) :ic-baseline-window::mingcute-linux-fill:
@@ -252,12 +252,12 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 ### Manga
 
 - [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) :ic-baseline-window:<tooltip><ul><li>Supports almost every major site</li><li>You can add your own account</li><li>Highly configurable with downloading automation</li><li>Has converter and a lot of great tools</li></ul></tooltip>
-- [Red Squirrel's Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader) :ic-baseline-window::mingcute-linux-fill:
+- [Red Squirrel's Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader) :material-symbols-lock-outline: :ic-baseline-window::mingcute-linux-fill:
 - **Hakuneko**
   - [Classic](https://hakuneko.download/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/manga-download/hakuneko)
   - [Fluent Core](https://github.com/manga-download/haruneko) :ic-baseline-window::ic-baseline-apple:
 - [MangaL](https://github.com/metafates/mangal) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<tooltip><ul><li>TUI based</li><li>Very Fast</li><li>You can add your own lua scrapers for non-supported sites (mangadex and mangasee already supported)</li></ul></tooltip>
-- [HDoujin Downloader](https://doujindownloader.com/) :ic-baseline-window: [:mdi-github:](https://github.com/HDoujinDownloader/HDoujinDownloader)<tooltip><ul><li>Huge list of supported nsfw sites</li><li>Good UI, many settings and amazing speed</li><li>But has a 25 chapter daily limit</li></ul></tooltip>
+- [HDoujin Downloader](https://doujindownloader.com/) :material-symbols-lock-outline: :ic-baseline-window: [:mdi-github:](https://github.com/HDoujinDownloader/HDoujinDownloader)<tooltip><ul><li>Huge list of supported nsfw sites</li><li>Good UI, many settings and amazing speed</li><li>But has a 25 chapter daily limit</li></ul></tooltip>
 
 ::: details More
 - [Clip Studio Reader](https://github.com/MrCocoNuat/clip-studio-reader-downloader)
@@ -300,7 +300,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [ComicbookArchiveToolbox](https://degoedel.github.io/ComicbookArchiveToolbox/) :ic-baseline-window: [:mdi-github:](https://degoedel.github.io/ComicbookArchiveToolbox/)
 - [ComicTagger](https://github.com/comictagger/comictagger) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [DarkThumbs](https://github.com/fire-eggs/DarkThumbs) :ic-baseline-window:
-- [Icaros](https://www.videohelp.com/software/Icaros) :ic-baseline-window:
+- [Icaros](https://www.videohelp.com/software/Icaros) :material-symbols-lock-outline: :ic-baseline-window:
 - [MangaJaNai](https://github.com/the-database/MangaJaNai) <Badge type="info" text="GUI" link="https://github.com/the-database/MangaJaNaiConverterGui" />
 - [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [SyncYomi](https://github.com/syncyomi/syncyomi) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-docker:
@@ -313,7 +313,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Kindle Comic Converter](https://github.com/ciromattia/kcc) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-docker:
 - [KOReader](https://koreader.rocks/) :mingcute-linux-fill::gg-ereader:
 - [Libation](https://getlibation.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Send to Kindle](https://www.amazon.com/sendtokindle) :mdi-earth::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Send to Kindle](https://www.amazon.com/sendtokindle)https://github.com/Suwatte/Suwatte :mdi-earth::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Sigil-Ebook](https://sigil-ebook.com/) :ic-baseline-window::ic-baseline-apple:
 
 

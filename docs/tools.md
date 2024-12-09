@@ -38,10 +38,10 @@ outline: [1,2]
 
 - **Local**
   - [mpvKt](https://github.com/abdallahmehiz/mpvKt) :glowing-star: <Badge type="tip" text="Nightly" link="https://nightly.link/abdallahmehiz/mpvKt/workflows/nightlies/main" /> :mdi-android:
-  - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en&gl=US) :glowing-star: :mdi-android:
+  - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en&gl=US) :glowing-star: :material-symbols-lock-outline: :mdi-android: 
   - [mpv-android](https://github.com/mpv-android/mpv-android) [:mdi-android:](https://play.google.com/store/apps/details?id=is.xyz.mpv&hl=en&gl=US)
   - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) :mdi-android:
-  - [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) :ic-baseline-apple:
+  - [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) :material-symbols-lock-outline: :ic-baseline-apple:
 - **Online**
   - [Revanced](https://revanced.app/) :mdi-youtube::mdi-android:
   - [Libretube](https://libretube.dev/) :mdi-youtube::mdi-android:
@@ -56,12 +56,12 @@ outline: [1,2]
   - [Aurora Store](https://auroraoss.com/) :mdi-android:
   - [Neo Store](https://github.com/NeoApplications/Neo-Store) :mdi-android:
   - [Droid-ify](https://github.com/Droid-ify/client) :mdi-android:
-  - [Sideloadly](https://sideloadly.io/) :ic-baseline-apple:
-  - [SideStore](https://sidestore.io/) :ic-baseline-apple:
+  - [Sideloadly](https://sideloadly.io/) :material-symbols-lock-outline: :ic-baseline-apple:
+  - [SideStore](https://sidestore.io/) :material-symbols-lock-outline: :ic-baseline-apple:
 - **Misc**
   - [APKUpdater](https://github.com/rumboalla/apkupdater) :mdi-android:
   - [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) :mdi-android:
-  - [Obtainium](https://github.com/ImranR98/Obtainium) :mdi-android:
+  - [Obtainium](https://github.com/ImranR98/Obtainium) :material-symbols-lock-outline: :mdi-android:
 
 
 ![](/banner/pc.webp)
@@ -114,17 +114,17 @@ outline: [1,2]
 ## Image Tools
 
 - **Viewer**
-  - [IrfanView](https://www.irfanview.com/)
-  - [XnView MP](https://www.xnview.com/en/xnviewmp/)
+  - [IrfanView](https://www.irfanview.com/) :material-symbols-lock-outline:
+  - [XnView MP](https://www.xnview.com/en/xnviewmp/) :material-symbols-lock-outline:
   - [JPEGView](https://github.com/sylikc/jpegview)
   - [qView](https://interversehq.com/qview/)
-  - [FastStone Image Viewer](https://www.faststone.org/FSViewerDetail.htm)
+  - [FastStone Image Viewer](https://www.faststone.org/FSViewerDetail.htm) :material-symbols-lock-outline:
 - **Optimizer**
   - [imgdanke](https://github.com/DrWhoCares/imgdanke) <tooltip>Optional for GUI but does not support Pingo v1+ at the moment.</tooltip>
   - [ImageMagick](https://imagemagick.org/index.php) <Badge type="tip" text="Scripts" link="https://www.fmwconcepts.com/imagemagick/index.php" />
   - [FotoKilof](https://github.com/TeaM-TL/FotoKilof)
-  - [pingo](https://css-ig.net/pingo)
-  - [pinga](https://css-ig.net/pinga)
+  - [pingo](https://css-ig.net/pingo) :material-symbols-lock-outline:
+  - [pinga](https://css-ig.net/pinga) :material-symbols-lock-outline:
 - **Processor / Upscaler**
   - [chaiNNer](https://github.com/chaiNNer-org/chaiNNer)
   - [Magpie](https://github.com/Blinue/Magpie)
@@ -166,7 +166,7 @@ outline: [1,2]
 
 
 ## Fansubbing & Sub Tools
-- Adobe Software
+- Adobe Software :material-symbols-lock-outline:
   - [m0nkrus](https://vk.com/monkrus) :ic-baseline-window::ic-baseline-apple:
   - [RuTracker](https://rutracker.org/forum/index.php) :ic-baseline-window::ic-baseline-apple:
   - [GenP](https://genpguides.github.io) :ic-baseline-window:
