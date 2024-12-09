@@ -38,10 +38,10 @@ outline: [1,2]
 
 - **Local**
   - [mpvKt](https://github.com/abdallahmehiz/mpvKt) :glowing-star: <Badge type="tip" text="Nightly" link="https://nightly.link/abdallahmehiz/mpvKt/workflows/nightlies/main" /> :mdi-android:
-  - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en&gl=US) :glowing-star: :material-symbols-lock-outline: :mdi-android: 
+  - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en&gl=US) :glowing-star: :mdi-android::material-symbols-lock-outline:
   - [mpv-android](https://github.com/mpv-android/mpv-android) [:mdi-android:](https://play.google.com/store/apps/details?id=is.xyz.mpv&hl=en&gl=US)
   - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) :mdi-android:
-  - [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) :material-symbols-lock-outline: :ic-baseline-apple:
+  - [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) :ic-baseline-apple::material-symbols-lock-outline:
 - **Online**
   - [Revanced](https://revanced.app/) :mdi-youtube::mdi-android:
   - [Libretube](https://libretube.dev/) :mdi-youtube::mdi-android:
@@ -56,12 +56,12 @@ outline: [1,2]
   - [Aurora Store](https://auroraoss.com/) :mdi-android:
   - [Neo Store](https://github.com/NeoApplications/Neo-Store) :mdi-android:
   - [Droid-ify](https://github.com/Droid-ify/client) :mdi-android:
-  - [Sideloadly](https://sideloadly.io/) :material-symbols-lock-outline: :ic-baseline-apple:
-  - [SideStore](https://sidestore.io/) :material-symbols-lock-outline: :ic-baseline-apple:
+  - [Sideloadly](https://sideloadly.io/) :ic-baseline-apple::material-symbols-lock-outline:
+  - [SideStore](https://sidestore.io/) :ic-baseline-apple::material-symbols-lock-outline:
 - **Misc**
   - [APKUpdater](https://github.com/rumboalla/apkupdater) :mdi-android:
   - [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) :mdi-android:
-  - [Obtainium](https://github.com/ImranR98/Obtainium) :material-symbols-lock-outline: :mdi-android:
+  - [Obtainium](https://github.com/ImranR98/Obtainium) :mdi-android::material-symbols-lock-outline:
 
 
 ![](/banner/pc.webp)
