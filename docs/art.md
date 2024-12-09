@@ -120,13 +120,12 @@ outline: [1,2]
 - [Boorusphere](https://github.com/nullxception/boorusphere) <tooltip>Repo is archived, but still works as of October 25, 2024.</tooltip>
 - [Mikansei](https://github.com/uragiristereo/Mikansei)
 - [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/)
-- [Anime Boxes](https://www.animebox.es/)
 
 ### Pixiv
 - [PixEz](https://github.com/Notsfsssf/pixez-flutter) :glowing-star:
 - [pixes](https://github.com/wgh136/pixes)
 - [PixShaft](https://github.com/CeuiLiSA/Pixiv-Shaft)
-- [Pixiv](https://play.google.com/store/apps/details?id=jp.pxv.android)
+- [Pixiv](https://play.google.com/store/apps/details?id=jp.pxv.android) :material-symbols-lock-outline:
 - [PixiView](https://github.com/matsumo0922/PixiView-KMP) <Badge type="info" text="Fanbox" />
 
 ### Others
@@ -138,7 +137,7 @@ outline: [1,2]
 
 - [pixes](https://github.com/wgh136/pixes)
 - [PixiView](https://github.com/matsumo0922/PixiView-KMP)
-- [Anime Boxes](https://apps.apple.com/us/app/anime-boxes/id525540312)
+- [Anime Boxes](https://apps.apple.com/us/app/anime-boxes/id525540312) :material-symbols-lock-outline:
 
 
 ## PC

@@ -324,12 +324,12 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 ## Player
 
 ### Local
-- [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player) :mdi-android:
-- [Flacbox](https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256) :ic-baseline-apple:
-- [Oto Music Player](https://play.google.com/store/apps/details?id=com.piyush.music) :mdi-android:
-- [Musicolet Music Player](https://play.google.com/store/apps/details?id=in.krosbits.musicolet)
-- [Poweramp](https://powerampapp.com/) :glowing-star: <Badge type="warning" text="Paid" /> <Badge type="warning" text="Mod" link="https://links.gamesdrive.net/#/link/aHR0cHM6Ly93d3cucm9ja21vZHMubmV0LzIwMTgvMDYvcGFtcC5odG1s.ZHVjaw" /> :mdi-android:
-- [USB Audio Player PRO](https://play.google.com/store/apps/details?id=com.extreamsd.usbaudioplayerpro&hl=en&gl=US) <Badge type="warning" text="Paid" /> :mdi-android:
+- [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player) :mdi-android: :material-symbols-lock-outline:
+- [Flacbox](https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256) :ic-baseline-apple: :material-symbols-lock-outline:
+- [Oto Music Player](https://play.google.com/store/apps/details?id=com.piyush.music) :mdi-android: :material-symbols-lock-outline:
+- [Musicolet Music Player](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) :material-symbols-lock-outline:
+- [Poweramp](https://powerampapp.com/) :glowing-star: :material-symbols-lock-outline: <Badge type="warning" text="Paid" /> <Badge type="warning" text="Mod" link="https://links.gamesdrive.net/#/link/aHR0cHM6Ly93d3cucm9ja21vZHMubmV0LzIwMTgvMDYvcGFtcC5odG1s.ZHVjaw" /> :mdi-android:
+- [USB Audio Player PRO](https://play.google.com/store/apps/details?id=com.extreamsd.usbaudioplayerpro&hl=en&gl=US) :material-symbols-lock-outline: <Badge type="warning" text="Paid" /> :mdi-android:
 
 ### Online
 - [**Youtube Music**](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
@@ -339,22 +339,22 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
   - [RiMusic](https://github.com/fast4x/RiMusic) :mdi-android:
   - [SimpMusic](https://github.com/maxrave-dev/SimpMusic) :mdi-android:
 - [**Spotify**](https://www.spotify.com/us/download/)
-  - [Spotify Mod by Blatan](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5tZS9zZWFyY2gucGhwP3N0PTAmc2s9dCZzZD1kJnNyPXBvc3RzJmF1dGhvcl9pZD02MzY0MDk.ZHVjaw) :glowing-star: <Badge type="info" text="Needs Account" /> :mdi-android:
-  - [xManager](https://www.xmanagerapp.com/) :mdi-android:
-  - [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) :ic-baseline-apple:
-  - [Spotify++](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9hcHBkYi50by9hcHAvY3lkaWEvMTkwMDAwMDU0MA) :ic-baseline-apple:
-- [Apple Music](https://apps.apple.com/us/app/apple-music/id1108187390) :ic-baseline-apple:
+  - [Spotify Mod by Blatan](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5tZS9zZWFyY2gucGhwP3N0PTAmc2s9dCZzZD1kJnNyPXBvc3RzJmF1dGhvcl9pZD02MzY0MDk.ZHVjaw) :glowing-star: <Badge type="info" text="Needs Account" /> :mdi-android: :material-symbols-lock-outline:
+  - [xManager](https://www.xmanagerapp.com/) :mdi-android: :material-symbols-lock-outline:
+  - [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) :ic-baseline-apple: :material-symbols-lock-outline:
+  - [Spotify++](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9hcHBkYi50by9hcHAvY3lkaWEvMTkwMDAwMDU0MA) :ic-baseline-apple: :material-symbols-lock-outline:
+- [Apple Music](https://apps.apple.com/us/app/apple-music/id1108187390) :ic-baseline-apple: :material-symbols-lock-outline:
 - [ReFreezer](https://github.com/DJDoubleD/refreezer) :mdi-android: `Deezer` 
 - [Echo](https://github.com/brahmkshatriya/echo) :mdi-android: `General`
 - [Harmony Music](https://github.com/anandnet/Harmony-Music) :mdi-android: `YouTube`
-- [Soundbound](https://soundbound.app/) :mdi-android: `General`
-- [Transistor](https://codeberg.org/y20k/transistor) :mdi-android: `Radio`
+- [Soundbound](https://soundbound.app/) :mdi-android: :material-symbols-lock-outline: `General`
+- [Transistor](https://codeberg.org/y20k/transistor) :mdi-android: :material-symbols-lock-outline: `Radio`
 
 ### Audiobook
 - [Voice](https://github.com/PaulWoitaschek/Voice) :mdi-android:
-- [mAbook Audiobook Player](https://play.google.com/store/apps/details?id=mindmine.audiobook) :mdi-android: <Badge type="warning" text="Freemium" />
-- [Smart AudioBook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer) :mdi-android: <Badge type="warning" text="Freemium" />
-- [Sirin Audiobook Player](https://play.google.com/store/apps/details?id=com.sirin.android) :mdi-android: <Badge type="warning" text="Freemium" />
+- [mAbook Audiobook Player](https://play.google.com/store/apps/details?id=mindmine.audiobook) :mdi-android: :material-symbols-lock-outline: <Badge type="warning" text="Freemium" />
+- [Smart AudioBook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer) :mdi-android: :material-symbols-lock-outline: <Badge type="warning" text="Freemium" />
+- [Sirin Audiobook Player](https://play.google.com/store/apps/details?id=com.sirin.android) :mdi-android: :material-symbols-lock-outline: <Badge type="warning" text="Freemium" />
 
 ## Tools
 
@@ -368,11 +368,11 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
   - [SongSync](https://github.com/Lambada10/SongSync)
 - **Scrobbler**
   - [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) :mdi-lastfm::mdi-android:
-  - [Marvis Pro](https://apps.apple.com/au/app/marvis-pro/id1447768809) :mdi-lastfm::ic-baseline-apple:
+  - [Marvis Pro](https://apps.apple.com/au/app/marvis-pro/id1447768809) :mdi-lastfm::ic-baseline-apple: :material-symbols-lock-outline:
 - **Others**
   - [MusicSearch](https://github.com/lydavid/MusicSearch) :mdi-android:<Badge type="info" text="MusicBrainz" />
   - [Seeker](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1) :mdi-android:<Badge type="info" text="Soulseek" />
-  - [Stats.fm](https://stats.fm/) :mdi-spotify::mdi-android::ic-baseline-apple:
+  - [Stats.fm](https://stats.fm/) :mdi-spotify::mdi-android::ic-baseline-apple: :material-symbols-lock-outline:
 
 
 ![](/music/mpc.webp)
@@ -381,15 +381,15 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 ## Player
 
 ### Local
-- [AIMP](https://www.aimp.ru/) :glowing-star: :ic-baseline-window::mingcute-linux-fill:
+- [AIMP](https://www.aimp.ru/) :glowing-star: :ic-baseline-window::mingcute-linux-fill: :material-symbols-lock-outline:
 - [DeaDBeeF](https://deadbeef.sourceforge.io/) :mingcute-linux-fill:
 - [Elisa](https://apps.kde.org/elisa/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Foobar2000](https://www.foobar2000.org/) :glowing-star: :ic-baseline-window::ic-baseline-apple:
+- [Foobar2000](https://www.foobar2000.org/) :glowing-star: :ic-baseline-window::ic-baseline-apple: :material-symbols-lock-outline:
   - :material-symbols-subdirectory-arrow-right: [Foobar2000 add-ons](#foobar2000-add-ons)
 - [Fooyin](https://github.com/fooyin/fooyin)
-- [MusicBee](https://www.getmusicbee.com/) :ic-baseline-window:
+- [MusicBee](https://www.getmusicbee.com/) :ic-baseline-window: :material-symbols-lock-outline:
 - [Strawberry](https://www.strawberrymusicplayer.org/) :mingcute-linux-fill:
-- [WACUP](https://getwacup.com/) :ic-baseline-window:
+- [WACUP](https://getwacup.com/) :ic-baseline-window: :material-symbols-lock-outline:
 - [Amberol](https://apps.gnome.org/Amberol/) :mingcute-linux-fill:
 - [Tauon Music Box](https://tauonmusicbox.rocks/) :ic-baseline-window::mingcute-linux-fill: <Badge type="info" text="Synced Lyrics" link="https://github.com/Taiko2k/TauonMusicBox/wiki/Lyrics#synced-lyrics" />
 
@@ -416,7 +416,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 
 
 ## Downloader
-- [Deemix](https://download.deemix.workers.dev/)
+- [Deemix](https://download.deemix.workers.dev/) :material-symbols-lock-outline:
 - [Onthespot](https://github.com/casualsnek/onthespot)
 - [Lidarr](https://lidarr.audio/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Nicotine+](https://nicotine-plus.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-lan-pending:<tooltip>Direct peer-to-peer sharing network, primarily used for music</tooltip>

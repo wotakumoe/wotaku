@@ -118,8 +118,6 @@ Check out [**CFW's iOS guide**](https://ios.cfw.guide/) & [**The Apple Wiki**](h
 ## Anime Streaming
 - [Ryu](https://github.com/cranci1/Ryu)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
-- [MiruTV](https://mirutv.app/) :material-symbols-lock-outline:
-- [Chouten Beta](https://testflight.apple.com/join/Cg1rAPB8) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/GJGMJRPJ5j" />
 
 ## Manga Readers
 
@@ -151,15 +149,15 @@ or buy an Android phone :ic-twotone-thumb-up:
 :::
 
 ## Novel Readers
-- [Yomu](https://www.yomu-reader.com/) <Badge type="warning" text="Paid" /><Badge type="info" text="Local" />
+- [Yomu](https://www.yomu-reader.com/) :material-symbols-lock-outline: <Badge type="warning" text="Paid" /><Badge type="info" text="Local" />
 
 ## Trackers
 - [AniHyou](https://apps.apple.com/us/app/anihyou-anilist-client/id1635777325)
 - [Kitsune for MyAnimeList](https://apps.apple.com/us/app/kitsune-for-myanimelist/id6466716447) :material-symbols-lock-outline:
 - [MyAniList](https://apps.apple.com/us/app/myanilist/id741257899) :material-symbols-lock-outline:
 - [MyAnimeList Official](https://apps.apple.com/us/app/myanimelist-official/id1469330778) :material-symbols-lock-outline:
-- [Risuto for AniList](https://apps.apple.com/us/app/risuto-for-anilist/id6455685990)
-- [Ryuusei for AniList](https://apps.apple.com/us/app/ryuusei-for-anilist/id1347721581)
+- [Risuto for AniList](https://apps.apple.com/us/app/risuto-for-anilist/id6455685990) :material-symbols-lock-outline:
+- [Ryuusei for AniList](https://apps.apple.com/us/app/ryuusei-for-anilist/id1347721581) :material-symbols-lock-outline:
 
 
 ![](/banner/pc.webp)
@@ -344,7 +342,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 | **Type**  | **Solution**  |
 |-|-|
-| Anime  | [Plex](https://www.plex.tv/) :glowing-star: <br> [Jellyfin](https://jellyfin.org/) [:mdi-github:](https://github.com/jellyfin/jellyfin) <br> [Emby](https://emby.media/)   |
+| Anime  | [Plex](https://www.plex.tv/) :glowing-star: :material-symbols-lock-outline: <br> [Jellyfin](https://jellyfin.org/) [:mdi-github:](https://github.com/jellyfin/jellyfin) <br> [Emby](https://emby.media/) :material-symbols-lock-outline:   |
 | Manga  | [Komga](https://komga.org/) :glowing-star: [:mdi-github:](https://github.com/gotson/komga) <br> [Kavita](https://www.kavitareader.com/) [:mdi-github:](https://github.com/Kareadita/Kavita) <br> [LANraragi](https://sugoi.gitbook.io/lanraragi/v/dev) [:mdi-github:](https://github.com/Difegue/LANraragi) <br> [Teemii](https://www.teemii.io/) [:mdi-github:](https://github.com/dokkaner/teemii) <br> [Mango](https://github.com/getmango/Mango) <Badge type="warning" text="Outdated" /> |
 | Novels | [Kavita](https://www.kavitareader.com/) :glowing-star: [:mdi-github:](https://github.com/Kareadita/Kavita) <br> [Komga](https://komga.org/) [:mdi-github:](https://github.com/gotson/komga) <br> [Calibre-Web](https://github.com/janeczku/calibre-web) <br> [Librium](https://librumreader.com/) |
 | Audiobook | [audiobookshelf](https://www.audiobookshelf.org/) [:mdi-github:](https://github.com/advplyr/audiobookshelf) <br> [Booksonic](https://booksonic.org/) [:mdi-github:](https://github.com/popeen/Booksonic-App) |
@@ -364,16 +362,16 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 :::
 
 ## OCR / Translator
-- [Sugoi Translation Toolkit](https://blog.sugoitoolkit.com/)
+- [Sugoi Translation Toolkit](https://blog.sugoitoolkit.com/) :material-symbols-lock-outline:
 - [Ballons Translator](https://github.com/dmMaze/BallonsTranslator)
 - [Capture2text](https://capture2text.sourceforge.net/)
-- [Imagetrans](https://www.basiccat.org/imagetrans/)
+- [Imagetrans](https://www.basiccat.org/imagetrans/) :material-symbols-lock-outline:
 - [Kanji tomo](https://www.kanjitomo.net/)
 - [Manga OCR](https://github.com/kha-white/manga-ocr)
 - [Mokuro](https://github.com/kha-white/mokuro)
 - [OwOCR](https://github.com/AuroraWright/owocr)
 - [Poricom](https://github.com/blueaxis/Poricom)
-- [Yomiwa](https://www.yomiwa.net/)
+- [Yomiwa](https://www.yomiwa.net/) :material-symbols-lock-outline:
 - :material-symbols-subdirectory-arrow-right: [OCR Game tools](https://wotaku.wiki/games#tools)
 
 :::danger Don't use MTL

@@ -178,7 +178,7 @@ outline: [1,2]
 - [Aegisub](https://github.com/arch1t3cht/Aegisub) :ic-baseline-window::mingcute-linux-fill:<Badge type="tip" text="Original" link="https://github.com/arch1t3cht/Aegisub" />
 - [AviSynth+](https://avs-plus.net/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/AviSynth/AviSynthPlus)
 - [gMKVExtractGUI](https://sourceforge.net/projects/gmkvextractgui/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [MKVcleaver](https://www.videohelp.com/software/MKVcleaver) :ic-baseline-window:
+- [MKVcleaver](https://www.videohelp.com/software/MKVcleaver) :ic-baseline-window: :material-symbols-lock-outline:
 - [MKV Extract](https://qgustavor.github.io/mkv-extract/en/) :mdi-earth:
 - [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) :ic-baseline-window:
 - [mpvQC](https://github.com/mpvqc/mpvQC) :ic-baseline-window:
@@ -235,7 +235,7 @@ outline: [1,2]
 
 - [BleachBit](https://www.bleachbit.org/)
 - [Bulk Crap Uninstaller](https://www.bcuninstaller.com/)
-- [Everything](https://www.voidtools.com/)
+- [Everything](https://www.voidtools.com/) :material-symbols-lock-outline:
   - [EverythingToolbar](https://github.com/srwi/EverythingToolbar)
 - [File Converter](https://file-converter.io/index.html)
 - [Flow Launcher](https://www.flowlauncher.com/)
@@ -243,7 +243,7 @@ outline: [1,2]
 - [NanaZip](https://github.com/M2Team/NanaZip)
 - [ShareX](https://getsharex.com/)
 - [Syncthing](https://syncthing.net/)
-- [TeraCopy](https://www.codesector.com/teracopy)
+- [TeraCopy](https://www.codesector.com/teracopy) :material-symbols-lock-outline:
 
 
 ## Piracy Sites
@@ -265,9 +265,9 @@ outline: [1,2]
 - [Anime Watch Parties](https://github.com/Dragicafit/Anime-Watch-Parties/) [:mdi-earth:](https://animewatchparties.com/) [:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/)
 - [Aniskip](https://github.com/lexesjan/typescript-aniskip-extension) [:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/aniskip/npfcdmjgaocepmpdnmliimijgfjbgcdd)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/aniskip/)
 - [Crunchyroll With Better Seasons](https://github.com/Dragicafit/Crunchyroll-With-Better-Seasons)
-- Improve Crunchyroll [:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/improve-crunchyroll/)
+- Improve Crunchyroll [:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/improve-crunchyroll/) :material-symbols-lock-outline:
 - [Streaming enhanced](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/streaming-enhanced-netfli/akaimhgappllmlkadblbdknhbfghdgle)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/netflix-prime-auto-skip/)
-- [Substital](https://substital.com/) [:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/substital/)
+- [Substital](https://substital.com/) [:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/substital/) :material-symbols-lock-outline:
 
 ## Manga
 - [All Manga Reader](https://gitlab.com/all-mangas-reader/all-mangas-reader-2) [:mdi-earth:](https://www.allmangasreader.com/)
@@ -290,7 +290,6 @@ outline: [1,2]
 ## General
 - [Better Lyrics](https://better-lyrics.boidu.dev/) [:mdi-github:](https://github.com/boidushya/better-lyrics)
 - [Buster](https://github.com/dessant/buster)
-- [ClearURLs](https://docs.clearurls.xyz/)
 - [FastForward](https://fastforward.team/)
 - [FastStream](https://faststream.online/)
 - [Indie Wiki Buddy](https://getindie.wiki/)
