@@ -28,7 +28,6 @@ outline: [1,2]
   - :material-symbols-subdirectory-arrow-right: [Stremio Tools](#anime-tools)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [Miru App](https://miru.js.org/) [:mdi-github:](https://github.com/miru-project/miru-app)
-- [AnymeX](https://anymex.vercel.app/) [:mdi-github:](https://github.com/RyanYuuki/AnymeX)
 - [AniVu](https://github.com/SkyD666/AniVu)
 - [Animity](https://github.com/kl3jvi/animity)
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
@@ -117,10 +116,9 @@ Check out [**CFW's iOS guide**](https://ios.cfw.guide/) & [**The Apple Wiki**](h
 :::
 
 ## Anime Streaming
-- [AnymeX](https://anymex.vercel.app/) [:mdi-github:](https://github.com/RyanYuuki/AnymeX)
+- [Ryu](https://github.com/cranci1/Ryu)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [MiruTV](https://mirutv.app/)
-- [Ryu](https://github.com/cranci1/Ryu)
 - [Chouten Beta](https://testflight.apple.com/join/Cg1rAPB8) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/GJGMJRPJ5j" />
 
 ## Manga Readers
@@ -128,8 +126,8 @@ Check out [**CFW's iOS guide**](https://ios.cfw.guide/) & [**The Apple Wiki**](h
 ### Online
 - [Paperback](https://paperback.moe/) <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="/guides/tech/repo#ios" />[:mdi-github:](https://github.com/Paperback-iOS/app)
 - [Aidoku](https://aidoku.app/) <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="/guides/tech/repo#ios" />[:mdi-github:](https://github.com/Aidoku/Aidoku)
-- [Tachimanga](https://tachimanga.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="https://tachimanga.app/help/guides/adding-repos.html" /> <Badge type="warning" text="Freemium" />
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
+- [Tachimanga](https://tachimanga.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="https://tachimanga.app/help/guides/adding-repos.html" /> <Badge type="warning" text="Freemium" />
 - [Suwatte](https://suwatte.mantton.com/) <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="/guides/tech/repo#ios" /><Badge type="tip" text="Converter" link="https://seyden.github.io/SuwatteConverter/suwatte" />
 - [Hanami](https://github.com/oolxg/Hanami)
 

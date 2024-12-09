@@ -116,7 +116,6 @@ If you have recommendations for good sites in your native language or want to re
 - [DMZJ](https://www.idmzj.com/)
 - [Manga Reader](https://1zumii.github.io/manga-reader/#/) [:mdi-github:](https://github.com/1zumii/manga-reader)
 - [Manhua Gui](https://www.manhuagui.com/)
-- [Qumanku](http://www.sumanku.com/)
 - [XManhua](https://xmanhua.com/)
 
 ### Novels
@@ -622,7 +621,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Fecomic](https://fecomicc.xyz/)
 - [Goc Truyen Tranh](https://goctruyentranhvui3.com/trang-chu)
 - [HanulTruyen](https://hanultruyen.net/) <Badge type="danger" text="18+" />
-- [Truyencc](https://truyencc.com/)
 - [Truyen Sieuhay](https://truyensieuhay.com/)
 
 ### Light Novels

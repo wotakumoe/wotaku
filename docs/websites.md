@@ -137,13 +137,11 @@ outline: 1
 
 ### Scrapers
 - [Anime Realms](https://www.animerealms.org/) :mingcute-refresh-2-fill:
-- [AniPulse](https://www.anipulse.to/) :mingcute-user-2-fill: <tooltip>AniPulse server is a self-hosted backup.</tooltip>
 - [AniPlay](https://aniplaynow.live/) :mingcute-refresh-2-fill::mingcute-user-2-fill:
 - [Gojo](https://gojo.live/) :mingcute-user-2-fill: <Badge type="info" text="2" link="https://gojo.wtf" />
 - [Kaido](https://kaido.to/) :mingcute-user-2-fill:
 - [Makima](https://makima.xyz/) :mingcute-refresh-2-fill:
 - [Shiroko](https://shiroko.co/en) :mingcute-refresh-2-fill:
-- [YugenAnime](https://beta.yugenanime.tv/) :mingcute-user-2-fill:
 :::
 
 :::details Misc
@@ -391,7 +389,6 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [Asura Scans](https://asuracomic.net/) + :flag-china:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/juxsa9z/asura" />
 - [Flame Comics](https://flamecomics.com/) + :flag-china:  <Badge type="info" text="Dex" link="https://mangadex.org/group/fdad9851-164f-43fc-9ab0-25b8054c99ed/flame-scans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/btgsdiy/flame-scans" /><tooltip>Formerly Flame Scans</tooltip>
 - [Hive Toon](https://hivetoon.com/) + :flag-china: <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/10nt2ki/infernal-void-scans" /><tooltip>Formerly Infernal Void Scans and Void Scans</tooltip>
-- [LSComic](https://lscomic.com/) + :flag-china:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/nmfii7s/lscomic" /><tooltip>Formerly Leviatan Scans</tooltip>
 - [Reaper Scans](https://reaperscans.com/) + :flag-china:  <Badge type="info" text="Dex" link="https://mangadex.org/group/e892ed1b-ed75-414a-bc86-71226f3364ad/reaper-scans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/5ev5t5s/reaper-scans" />
 - [Reset Scans](https://rspro.xyz/home/) +:flag-japan: :flag-china:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/df9ckct/reset-scans" />
 - [Rizz Fables](https://rizzfables.com/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/v5djjz8/rizz-comics" /><tooltip>Formerly Realm Scans and Rizz Comics</tooltip>

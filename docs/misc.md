@@ -59,7 +59,7 @@ outline: [1,2]
 ### Index
 
 - [Seadex](https://releases.moe/)
-- [Sneedex](https://sneedex.moe/) :glowing-star: <Badge type="info" icon="i-ic-outline-discord" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" /> 
+- [Sneedex](https://sneedex.moe/)
 - [A Certain Fansubber's Index](https://index.fansubcar.tel/)
 - [Fansub Database](https://fansubdb.com/)
 
