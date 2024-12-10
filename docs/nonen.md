@@ -210,8 +210,6 @@ If you have recommendations for good sites in your native language or want to re
 - [Manga-Tube](https://manga-tube.me/)
 
 ### Communities
-
-- [Animes](https://www.animes.so/) <Badge type="info" text="Needs account" /><Badge type="info" text="DDL" />
 - [Animexx](https://www.animexx.de/)
 - [aniSearch](https://www.anisearch.de/forum/categories)
 - [Baka Board](https://baka-bewerbung.me/) <Badge type="info" text="Usenet" />
