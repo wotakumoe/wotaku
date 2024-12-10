@@ -335,7 +335,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [**Youtube Music**](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
   - [Revanced Music](https://github.com/j-hc/revanced-magisk-module/releases)
   - [Innertune](https://github.com/z-huang/InnerTune) :glowing-star: :mdi-android:
-    - [OuterTune](https://github.com/DD3Boh/OuterTune)
+  - [OuterTune](https://github.com/DD3Boh/OuterTune)
   - [RiMusic](https://github.com/fast4x/RiMusic) :mdi-android:
   - [SimpMusic](https://github.com/maxrave-dev/SimpMusic) :mdi-android:
 - [**Spotify**](https://www.spotify.com/us/download/)
@@ -434,26 +434,26 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 ## Browser
 
 ### Extension
-- [AudD Music](https://github.com/AudDMusic) :glowing-star: [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/lhhohkfofnfbnildpdhhjeeenapeceei)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/audd/)
-- [AHA Music](https://aha-music.com/) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/aha-music-song-finder-for/dpacanjfikmhoddligfbehkpomnbgblf)
-- [BetterRYM](https://github.com/jgchk/better-rym) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/pdbgknkejapoehgogijhmahhpiimlhjg)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/better-rym/)
+- [AudD Music](https://github.com/AudDMusic) :glowing-star: [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/lhhohkfofnfbnildpdhhjeeenapeceei)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/audd/) :material-symbols-lock-outline:
+- [AHA Music](https://aha-music.com/) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/aha-music-song-finder-for/dpacanjfikmhoddligfbehkpomnbgblf) :material-symbols-lock-outline:
+- [BetterRYM](https://github.com/jgchk/better-rym) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/pdbgknkejapoehgogijhmahhpiimlhjg)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/better-rym/) 
 - [Spotify Lyrics](https://github.com/mantou132/Spotify-Lyrics) :mingcute-chrome-fill::mdi-firefox:
-- [Spotify New Releases](https://spotify-new-releases.web.app/) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/spotify-new-releases/badbmkjnnimjfhhmknfoikappgmelpjo)
+- [Spotify New Releases](https://spotify-new-releases.web.app/) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/spotify-new-releases/badbmkjnnimjfhhmknfoikappgmelpjo) :material-symbols-lock-outline:
 - [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler) [:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/lastfm-scrobbler/hhinaapppaileiechjoiifaancjggfjm)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/web-scrobbler/)
 
 ### Script
-- [Ame](https://notabug.org/SuperSaltyGamer/ame/) :simple-icons-applemusic::simple-icons-musicbrainz:<Badge text="VGMdb" />
+- [Ame](https://gitlab.com/SuperSaltyGamer/ame) :simple-icons-applemusic::simple-icons-musicbrainz:<Badge text="VGMdb" />
 - [dzunlock](https://uhwotgit.fly.dev/uhwot/dzunlock)
 - [Gallery Mode for Lists - RateYourMusic](https://greasyfork.org/en/scripts/434865-gallery-mode-for-lists-rateyourmusic)
 - [MusicBrainz Userscripts](https://musicbrainz.org/doc/Guides/Userscripts)
 - [Slav Art User Scripts](https://rentry.org/slavartuserscripts) <Badge text="Qobuz" />
 
 ## Converter & Ripper
-- [CUETools](http://cue.tools/wiki/Main_Page) :ic-baseline-window:
-- [dBpoweramp](https://www.dbpoweramp.com/) :ic-baseline-window::ic-baseline-apple:<Badge type="warning" text="Trialware" />
+- [CUETools](http://cue.tools/wiki/CUETools) :ic-baseline-window: [:mdi-github:](https://github.com/gchudov/cuetools.net)
+- [dBpoweramp](https://www.dbpoweramp.com/) :ic-baseline-window::ic-baseline-apple:<Badge type="warning" text="Trialware" /> :material-symbols-lock-outline:
 - [Exact Audio Copy](https://exactaudiocopy.de/) :ic-baseline-window:
 - [FFmpeg](https://ffmpeg.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [fre:ac](https://www.freac.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [fre:ac](https://www.freac.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/enzo1982/freac)
 - [SoX](https://sourceforge.net/projects/sox/) :ic-baseline-window::ic-baseline-apple:
 - [X Lossless Decoder](https://tmkk.undo.jp/xld/index_e.html) :ic-baseline-apple:
 - [Whipper](https://github.com/whipper-team/whipper) :mingcute-linux-fill:
@@ -470,17 +470,17 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 ## Vocaloid
 
 ### Editors
-- [Vocaloid](https://www.vocaloid.com/en/)
-- [Synthesizer V](https://dreamtonics.com/synthesizerv/) <Badge text="Nyaa" link="https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTE3NTQ1Mg.RHVjaw" />
-- [Piapro Studio](https://piaprostudio.com/?lang=en)
-- [CeVIO](https://cevio.jp/)
+- [Vocaloid](https://www.vocaloid.com/en/) :material-symbols-lock-outline:
+- [Synthesizer V](https://dreamtonics.com/synthesizerv/) <Badge text="Nyaa" link="https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTE3NTQ1Mg.RHVjaw" /> :material-symbols-lock-outline:
+- [Piapro Studio](https://piaprostudio.com/?lang=en) :material-symbols-lock-outline:
+- [CeVIO](https://cevio.jp/) :material-symbols-lock-outline:
 - [Open UTAU](https://www.openutau.com/)
 
 ### DAW / Digital Audio Workstation
-- [Ableton](https://www.ableton.com/en/)
-- [Cubase](https://www.steinberg.net/cubase/)
-- [FL Studio](https://www.image-line.com/fl-studio/)
-- [Studio One](https://www.presonus.com/en-US/studio-one.html)
+- [Ableton](https://www.ableton.com/en/) :material-symbols-lock-outline:
+- [Cubase](https://www.steinberg.net/cubase/) :material-symbols-lock-outline:
+- [FL Studio](https://www.image-line.com/fl-studio/) :material-symbols-lock-outline:
+- [Studio One](https://www.presonus.com/en-US/studio-one.html) :material-symbols-lock-outline:
 
 ### Related Links
 - [EL RINCÓN DEL KITSUNE NEO](https://elrincondelkitsuneneo2-0.blogspot.com/)
@@ -503,19 +503,19 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 ## Others
 
 ### Checker / Visualizer
-- [Bitter](https://www.stillwellaudio.com/plugins/bitter/) :ic-baseline-window::ic-baseline-apple:
-- [cambia LogTools](https://logs.musichoarders.xyz/) :mdi-firefox::mingcute-chrome-fill:
-- [Sonic Visualiser](https://www.sonicvisualiser.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Spek](https://www.spek.cc/) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Bitter](https://www.stillwellaudio.com/plugins/bitter/) :ic-baseline-window::ic-baseline-apple: :material-symbols-lock-outline:
+- [cambia LogTools](https://logs.musichoarders.xyz/) :mdi-firefox::mingcute-chrome-fill: [:mdi-github:](https://github.com/arg274/cambia)
+- [Sonic Visualiser](https://www.sonicvisualiser.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/sonic-visualiser/sonic-visualiser/)
+- [Spek](https://www.spek.cc/) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/alexkay/spek)
 
 ### Tagger
-- [MP3Tag](https://www.mp3tag.de/en/) :ic-baseline-window::ic-baseline-apple:
-- [MusicBrainz Picard](https://picard.musicbrainz.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [TagScanner](https://www.xdlab.ru/en/) :ic-baseline-window:
-- [beets](https://beets.io/) <Badge type="tip" link="https://beets.readthedocs.io/en/stable/index.html#" />
+- [MP3Tag](https://www.mp3tag.de/en/) :ic-baseline-window::ic-baseline-apple: :material-symbols-lock-outline:
+- [MusicBrainz Picard](https://picard.musicbrainz.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/metabrainz/picard)
+- [TagScanner](https://www.xdlab.ru/en/) :ic-baseline-window: :material-symbols-lock-outline:
+- [beets](https://beets.io/) <Badge type="info" link="https://beets.readthedocs.io/en/stable/index.html#" /> [:mdi-github:](https://github.com/beetbox/beets)
 
 ### Misc
-- [Karaoke Mugen](https://mugen.karaokes.moe/en/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Karaoke Mugen](https://mugen.karaokes.moe/en/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-gitlab:](https://gitlab.com/karaokemugen/code/karaokemugen-app)
 
 
 
@@ -540,7 +540,7 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 - [Ultrasonic](https://ultrasonic.gitlab.io/)
 - [Plexamp](https://www.plex.tv/plexamp/) <Badge type="warning" text="Freemium" />
 - [DSub](https://play.google.com/store/apps/details?id=github.daneren2005.dsub) <Badge type="warning" text="Paid" />
-- [Symfonium](https://symfonium.app/) <Badge type="warning" text="Paid" />
+- [Symfonium](https://symfonium.app/) <Badge type="warning" text="Paid" />  
 - [Tempo](https://github.com/CappielloAntonio/tempo)
 
 ## iOS
@@ -557,6 +557,7 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 - [Sublime Music](https://sublimemusic.app/) :mingcute-linux-fill:
 - [Supersonic](https://github.com/dweymouth/supersonic)  :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Submariner](https://submarinerapp.com/) :ic-baseline-apple:
+- [Plexamp](https://www.plex.tv/plexamp/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="warning" text="Freemium" />
 - **CLI**
     - [Jellycli](https://github.com/tryffel/jellycli#readme) :ic-baseline-window::mingcute-linux-fill:
     - [STMP](https://github.com/wildeyedskies/stmp#readme) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
