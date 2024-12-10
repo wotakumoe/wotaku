@@ -24,6 +24,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [Karaoke Mugen](https://kara.moe)
 - [One Piece Tracklist](http://onepiecetracklist.com/)
 - [Squidify](https://www.squidify.org/) <Badge type="tip" text="Guide" link="/guides/music/squidify" />
+
 ## AMVs
 - [AKROSS](https://www.akross.ru/index.cgi?l=e)
 - [AMV Hell](https://www.amvhell.com/)
@@ -334,7 +335,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [**Youtube Music**](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
   - [Revanced Music](https://github.com/j-hc/revanced-magisk-module/releases)
   - [Innertune](https://github.com/z-huang/InnerTune) :glowing-star: :mdi-android:
-    - [OuterTune](https://github.com/DD3Boh/OuterTune)
+  - [OuterTune](https://github.com/DD3Boh/OuterTune)
   - [RiMusic](https://github.com/fast4x/RiMusic) :mdi-android:
   - [SimpMusic](https://github.com/maxrave-dev/SimpMusic) :mdi-android:
 - [**Spotify**](https://www.spotify.com/us/download/)

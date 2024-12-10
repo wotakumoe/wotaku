@@ -52,7 +52,6 @@ outline: [1,2]
 
 
 ## Booru
-- [Anime Pictures](https://anime-pictures.net/)
 - [Danbooru](https://danbooru.donmai.us/)
 - [Donmai](https://donmai.moe/) <Badge type="green" link="" text="SFW"/>
 - [E-ShuuShuu](https://e-shuushuu.net/) <Badge type="green" link="" text="SFW"/>
@@ -100,7 +99,9 @@ outline: [1,2]
 
 ## Others
 - [Anihonetwallpaper](https://anihonetwallpaper.com/) <Badge type="green" text="SFW" />
+- [Anime Pictures](https://anime-pictures.net/)
 - [Kemono](https://kemono.su/)
+- [Minitokyo](http://www.minitokyo.net/)
 - [Nekohouse](https://nekohouse.su/)
 - [Settai Dreams](https://setteidreams.net/) :glowing-star:
 - [Studio Ghibli](https://www.ghibli.jp/info/013772/) <Badge type="green" text="SFW" />
