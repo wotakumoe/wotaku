@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/36669e3c-7a6c-431f-9116-221f8c64efbd)---
+---
 title: Music
 description: Wotaku Music Megathread!
 customDescription: Wotaku Music Megathread! Everything Music-related in one page.
