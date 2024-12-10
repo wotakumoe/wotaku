@@ -29,12 +29,11 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 ### Software
 
 - **Android**
-  - [Aniyomi](https://aniyomi.org/) :glowing-star: <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />[:mdi-github:](https://github.com/aniyomiorg/aniyomi)
-  - [Dantotsu](https://dantotsuapp.netlify.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />
+  - [Aniyomi](https://aniyomi.org/) :glowing-star: [:mdi-puzzle:](/guides/tech/repo) [:mdi-github:](https://github.com/aniyomiorg/aniyomi)
+  - [Dantotsu](https://dantotsuapp.netlify.app/) [:mdi-puzzle:](/guides/tech/repo) [:mdi-github:](https://github.com/rebelonion/Dantotsu)
   - [AnimeTV](https://amarullz.com/) [:mdi-github:](https://github.com/amarullz/AnimeTV)
 - **iOS**
   - [Mangayomi](https://github.com/kodjodevf/mangayomi)
-  - [Ryu](https://github.com/cranci1/Ryu)
 - **PC**
   - [Miru](https://miru.watch/) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/ThaUnknown/miru/) <Badge type="info" text="Torrent" />
   - [Mangayomi](https://github.com/kodjodevf/mangayomi) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
@@ -57,16 +56,16 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 ### Software
 
 - **Android**
-  - [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:mdi-github:](https://github.com/jobobby04/TachiyomiSY)
-  - [Yokai](https://mihon.app/forks/Yokai/) :glowing-star: [:mdi-github:](https://github.com/null2264/yokai)
-  - [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :glowing-star: <Badge type="warning" text="Freemium" /><Badge type="info" text="Local" />
+  - [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:mdi-puzzle:](/guides/tech/repo) [:mdi-github:](https://github.com/jobobby04/TachiyomiSY)
+  - [Yokai](https://mihon.app/forks/Yokai/) :glowing-star: [:mdi-puzzle:](/guides/tech/repo) [:mdi-github:](https://github.com/null2264/yokai)
+  - [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :glowing-star: :material-symbols-lock-outline: <Badge type="warning" text="Freemium" /><Badge type="info" text="Local" />
 - **iOS**
-  - [Paperback](https://github.com/Paperback-iOS/app) <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="/guides/tech/repo#ios" />
-  - [Aidoku](https://github.com/Aidoku/Aidoku) <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="/guides/tech/repo#ios" />
-  - [YACReader](https://apps.apple.com/app/id635717885) :glowing-star: <Badge type="warning" text="Paid" /> <Badge type="tip" text="TestFlight" icon="i-ic-twotone-money-off" link="https://testflight.apple.com/join/5zhB7sRP" /><Badge type="info" text="Local" />
+  - [Paperback](https://github.com/Paperback-iOS/app) [:mdi-puzzle:](/guides/tech/repo#ios)
+  - [Aidoku](https://github.com/Aidoku/Aidoku) [:mdi-puzzle:](/guides/tech/repo#ios)
+  - [YACReader](https://apps.apple.com/app/id635717885) :glowing-star: :material-symbols-lock-outline: <Badge type="warning" text="Paid" /> [:mdi-airplane:](https://testflight.apple.com/join/5zhB7sRP) <Badge type="info" text="Local" />
 - **PC**
   - [Houdoku](https://houdoku.netlify.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-  - [CDisplayEx](https://www.cdisplayex.com/) :ic-baseline-window: <Badge type="info" text="Local" />
+  - [CDisplayEx](https://www.cdisplayex.com/) :ic-baseline-window: :material-symbols-lock-outline: <Badge type="info" text="Local" />
   - [YACReader](https://www.yacreader.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Local" />
 
 
@@ -98,7 +97,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 ### Software
 
 - **Android**
-  - [Poweramp](https://powerampapp.com/) :glowing-star: :material-symbols-lock-outline: <Badge type="warning" text="Paid" /> <Badge type="warning" text="Mod" link="https://links.gamesdrive.net/#/link/aHR0cHM6Ly93d3cucm9ja21vZHMubmV0LzIwMTgvMDYvcGFtcC5odG1s.ZHVjaw" />
+  - [Poweramp](https://powerampapp.com/) :glowing-star: :material-symbols-lock-outline: <Badge type="warning" text="Paid" />
   - [Musicolet Music Player](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) :material-symbols-lock-outline:
   - [Innertune](https://github.com/z-huang/InnerTune)
   - [xManager](https://www.xmanagerapp.com/) :material-symbols-lock-outline:

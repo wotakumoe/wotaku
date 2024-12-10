@@ -328,7 +328,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [Flacbox](https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256) :ic-baseline-apple: :material-symbols-lock-outline:
 - [Oto Music Player](https://play.google.com/store/apps/details?id=com.piyush.music) :mdi-android: :material-symbols-lock-outline:
 - [Musicolet Music Player](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) :material-symbols-lock-outline:
-- [Poweramp](https://powerampapp.com/) :glowing-star: :material-symbols-lock-outline: <Badge type="warning" text="Paid" /> <Badge type="warning" text="Mod" link="https://links.gamesdrive.net/#/link/aHR0cHM6Ly93d3cucm9ja21vZHMubmV0LzIwMTgvMDYvcGFtcC5odG1s.ZHVjaw" /> :mdi-android:
+- [Poweramp](https://powerampapp.com/) :glowing-star: :material-symbols-lock-outline: <Badge type="warning" text="Paid" />
 - [USB Audio Player PRO](https://play.google.com/store/apps/details?id=com.extreamsd.usbaudioplayerpro&hl=en&gl=US) :material-symbols-lock-outline: <Badge type="warning" text="Paid" /> :mdi-android:
 
 ### Online
@@ -338,11 +338,9 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
   - [OuterTune](https://github.com/DD3Boh/OuterTune)
   - [RiMusic](https://github.com/fast4x/RiMusic) :mdi-android:
   - [SimpMusic](https://github.com/maxrave-dev/SimpMusic) :mdi-android:
-- [**Spotify**](https://www.spotify.com/us/download/)
-  - [Spotify Mod by Blatan](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5tZS9zZWFyY2gucGhwP3N0PTAmc2s9dCZzZD1kJnNyPXBvc3RzJmF1dGhvcl9pZD02MzY0MDk.ZHVjaw) :glowing-star: <Badge type="info" text="Needs Account" /> :mdi-android: :material-symbols-lock-outline:
+- [**Spotify**](https://www.spotify.com/us/download/) :material-symbols-lock-outline:
   - [xManager](https://www.xmanagerapp.com/) :mdi-android: :material-symbols-lock-outline:
   - [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) :ic-baseline-apple: :material-symbols-lock-outline:
-  - [Spotify++](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9hcHBkYi50by9hcHAvY3lkaWEvMTkwMDAwMDU0MA) :ic-baseline-apple: :material-symbols-lock-outline:
 - [Apple Music](https://apps.apple.com/us/app/apple-music/id1108187390) :ic-baseline-apple: :material-symbols-lock-outline:
 - [ReFreezer](https://github.com/DJDoubleD/refreezer) :mdi-android: `Deezer` 
 - [Echo](https://github.com/brahmkshatriya/echo) :mdi-android: `General`

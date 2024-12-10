@@ -13,11 +13,11 @@ outline: [1,2]
 
 ## Anime Streaming
 
-- [Aniyomi](https://aniyomi.org/) :glowing-star: <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />[:mdi-github:](https://github.com/aniyomiorg/aniyomi)
+- [Aniyomi](https://aniyomi.org/) :glowing-star: [:mdi-puzzle:](/guides/tech/repo) [:mdi-github:](https://github.com/aniyomiorg/aniyomi)
   - [Animetail](https://github.com/Dark25/Animetail2)
   - [Animiru](https://github.com/quickdesh/Animiru)
-- [Dantotsu](https://dantotsuapp.netlify.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />[:mdi-github:](https://github.com/rebelonion/Dantotsu)
-- [Cloudstream](https://cloudstream.on.fleek.co/) [:mdi-github:](https://github.com/recloudstream/cloudstream)<Badge type="info" icon="i-mdi-puzzle-outline" text="Plugins" link="https://discord.gg/wpX5Rfcx87" />
+- [Dantotsu](https://dantotsuapp.netlify.app/) [:mdi-puzzle:](/guides/tech/repo) [:mdi-github:](https://github.com/rebelonion/Dantotsu)
+- [Cloudstream](https://cloudstream.on.fleek.co/) [:mdi-github:](https://github.com/recloudstream/cloudstream)
 - [Migu](https://miguapp.pages.dev/) [:mdi-github:](https://github.com/NoCrypt/migu)
 - [AnimeTV](https://amarullz.com/) [:mdi-github:](https://github.com/amarullz/AnimeTV)
 
@@ -34,7 +34,7 @@ outline: [1,2]
 :::
 
 ::: details :material-symbols-tv-gen-outline: Android TV ranking
-- [Cloudstream](https://cloudstream.on.fleek.co/) [:mdi-github:](https://github.com/recloudstream/cloudstream)<Badge type="info" icon="i-mdi-puzzle-outline" text="Plugins" link="https://discord.gg/wpX5Rfcx87" />
+- [Cloudstream](https://cloudstream.on.fleek.co/) [:mdi-github:](https://github.com/recloudstream/cloudstream)
 - [Migu](https://miguapp.pages.dev/) [:mdi-github:](https://github.com/NoCrypt/migu)
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
 - [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one)
@@ -46,7 +46,7 @@ outline: [1,2]
 ## Manga Readers
 
 ### Online
-- [Mihon](https://mihon.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" /> [:mdi-github:](https://github.com/mihonapp/mihon)
+- [Mihon](https://mihon.app/) [:mdi-puzzle:](/guides/tech/repo) [:mdi-github:](https://github.com/mihonapp/mihon)
   - [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:mdi-github:](https://github.com/jobobby04/TachiyomiSY)
   - [TachiyomiJ2K](https://mihon.app/forks/TachiyomiJ2K/) [:mdi-github:](https://github.com/Jays2Kings/tachiyomiJ2K)
   - [Yokai](https://mihon.app/forks/Yokai/) :glowing-star: [:mdi-github:](https://github.com/null2264/yokai)
@@ -57,7 +57,7 @@ outline: [1,2]
 - [TachiyomiAZ](https://mihon.app/forks/TachiyomiAZ/) <Badge type="info" text="Dev build" link="https://crafty.moe/tachiyomiAZ.apk" />[:mdi-github:](https://github.com/az4521/tachiyomiAZ)
 - [Animetail](https://github.com/Dark25/Animetail2)
 - [Aniyomi](https://aniyomi.org/) [:mdi-github:](https://github.com/aniyomiorg/aniyomi)
-- [Dantotsu](https://dantotsuapp.netlify.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />[:mdi-github:](https://github.com/rebelonion/Dantotsu)
+- [Dantotsu](https://dantotsuapp.netlify.app/) [:mdi-puzzle:](/guides/tech/repo)[:mdi-github:](https://github.com/rebelonion/Dantotsu)
 - [Neko](https://github.com/nekomangaorg/Neko)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [Cubari](https://cubari.moe/) :mdi-earth:
@@ -121,15 +121,15 @@ Check out [**CFW's iOS guide**](https://ios.cfw.guide/) & [**The Apple Wiki**](h
 ## Manga Readers
 
 ### Online
-- [Paperback](https://paperback.moe/) <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="/guides/tech/repo#ios" />[:mdi-github:](https://github.com/Paperback-iOS/app)
-- [Aidoku](https://aidoku.app/) <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="/guides/tech/repo#ios" />[:mdi-github:](https://github.com/Aidoku/Aidoku)
+- [Paperback](https://paperback.moe/) [:mdi-puzzle:](/guides/tech/repo#ios) [:mdi-github:](https://github.com/Paperback-iOS/app)
+- [Aidoku](https://aidoku.app/) [:mdi-puzzle:](/guides/tech/repo#ios) [:mdi-github:](https://github.com/Aidoku/Aidoku)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
-- [Tachimanga](https://tachimanga.app/) :material-symbols-lock-outline: <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="https://tachimanga.app/help/guides/adding-repos.html" /> <Badge type="warning" text="Freemium" />
-- [Suwatte](https://suwatte.mantton.com/) <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="/guides/tech/repo#ios" /><Badge type="tip" text="Converter" link="https://seyden.github.io/SuwatteConverter/suwatte" />
+- [Tachimanga](https://tachimanga.app/) :material-symbols-lock-outline: [:mdi-puzzle:](https://tachimanga.app/help/guides/adding-repos.html) <Badge type="warning" text="Freemium" />
+- [Suwatte](https://suwatte.mantton.com/) [:mdi-puzzle:](/guides/tech/repo#ios) <Badge type="tip" text="Converter" link="https://seyden.github.io/SuwatteConverter/suwatte" />
 - [Hanami](https://github.com/oolxg/Hanami)
 
 ### Local
-- [YACReader](https://apps.apple.com/app/id635717885) :glowing-star: :material-symbols-lock-outline: <Badge type="warning" text="Paid" /> <Badge type="tip" text="TestFlight" icon="i-ic-twotone-money-off" link="https://testflight.apple.com/join/5zhB7sRP" />
+- [YACReader](https://apps.apple.com/app/id635717885) :glowing-star: :material-symbols-lock-outline: <Badge type="warning" text="Paid" /> [:mdi-airplane:](https://testflight.apple.com/join/5zhB7sRP)
 - [iComics](https://apps.apple.com/us/app/icomics/id493845493) :material-symbols-lock-outline: <Badge type="warning" text="Paid" />
 - [SideBooks](https://apps.apple.com/us/app/sidebooks/id409777225) :material-symbols-lock-outline:
 - [Panels](https://apps.apple.com/us/app/panels-comic-reader/id1236567663) :material-symbols-lock-outline:
