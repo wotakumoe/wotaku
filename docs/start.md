@@ -1,5 +1,7 @@
 ---
-outline: 2-3
+title: Start
+description: Getting started
+outline: [2-3]
 ---
 
 # Getting started
