@@ -82,13 +82,13 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 
 ::: details Symbols
 
-- Uploaded on own server -> :mdi-download:
+- Uploaded on own server -> :material-symbols-cloud-download-outline-rounded:
 - Uploaded on Google Drive -> :mdi-google-drive:
 - Uploaded on Mega -> :simple-icons-mega:
 - Uploaded on Mediafire -> :simple-icons-mediafire:
 - Upload on different cloud storage site -> :ic-round-cloud-download:
 - Uploaded on Host sites -> :mdi-snail:
-- Torrent/p2p Download -> :mdi-magnet:
+- Torrent/p2p Download -> :lucide-magnet:
 - Account Needed -> :mdi-account:
 
 :::
@@ -96,15 +96,15 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 ## Anime
 
 - **FLAC**
-  - [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" />:mdi-magnet:
+  - [Nyaa](https://nyaa.si/) :glowing-star::lucide-magnet:<Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" />
   - [Sitting on Clouds](https://www.sittingonclouds.net/) :glowing-star::simple-icons-mega::simple-icons-mediafire: <Badge type="info" text="2" link="https://www.sittingonclouds.com/" /><Badge type="info" text="3" link="https://www.sittingonclouds.org/" /><Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" />
   - [SquidBoard](https://www.squid-board.org/) :mdi-account::simple-icons-mega::simple-icons-mediafire::mdi-google-drive:
-  - [Sukidesu OST](https://sukidesuost.info/) :simple-icons-mega::mdi-magnet:
-  - [RuTracker.org](https://rutracker.org/forum/index.php) :mdi-magnet:
+  - [Sukidesu OST](https://sukidesuost.info/) :simple-icons-mega::lucide-magnet:
+  - [RuTracker.org](https://rutracker.org/forum/index.php) :lucide-magnet:
   - [Asia Media Blog](https://asiamediablog.com/media/music/) :mdi-snail:<Badge type="tip" text="2" link="https://jpmediadl.com/music/" /><Badge type="danger" text="18+" />
 - **MP3**
-  - [Nipponsei](https://nipponsei.minglong.org/tracker/) :mdi-magnet:
-  - [OS Anime](https://osanime.com/) :mdi-download:
+  - [Nipponsei](https://nipponsei.minglong.org/tracker/) :lucide-magnet:
+  - [OS Anime](https://osanime.com/) :material-symbols-cloud-download-outline-rounded:
   - [Hiyori OST](https://www.hiyoriost.com/) :mdi-google-drive::mdi-snail:
   - [Sakura OST](https://www.sakuraost.com/) :mdi-snail:
 
@@ -118,20 +118,20 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 ## Doujin
 
 - [Doujin Cafe](https://discord.gg/doujincafe) :simple-icons-mega::simple-icons-mediafire::ic-round-cloud-download:
-- [Doujin Music](https://vk.com/wall-60027733) :mdi-download:
+- [Doujin Music](https://vk.com/wall-60027733) :material-symbols-cloud-download-outline-rounded:
 - [Doujin Style](https://doujinstyle.com/) :simple-icons-mediafire:<Badge type="tip" text="Touhou" link="https://doujinstyle.com/?p=tlmc" /><Badge type="tip" text="Downloader" link="https://github.com/Relepega/doujinstyle-downloader"/>
-- [MikuDB](https://mikudb.moe/) :mdi-google-drive::mdi-magnet:
-- [Moriya Shrine](https://moriyashrine.org/) :mdi-magnet:
-- [Touhou Disc](https://alist.thdisc.tk) :mdi-download:
+- [MikuDB](https://mikudb.moe/) :mdi-google-drive::lucide-magnet:
+- [Moriya Shrine](https://moriyashrine.org/) :lucide-magnet:
+- [Touhou Disc](https://alist.thdisc.tk) :material-symbols-cloud-download-outline-rounded:
 
 
 ## Games
 
 - [Sitting on Clouds](https://www.sittingonclouds.net/) :simple-icons-mega::simple-icons-mediafire:<Badge type="info" text="2" link="https://www.sittingonclouds.com/" /><Badge type="info" text="3" link="https://www.sittingonclouds.org/" /><Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" />
 - [SquidBoard](https://www.squid-board.org/) :mdi-account::simple-icons-mega::simple-icons-mediafire::mdi-google-drive:
-- [HCS VGM Archive](https://vgm.hcs64.com/) :mdi-download:
-- [VGM Preservation Foundation](https://www.vgmpf.com/Wiki/index.php) :mdi-download:
-- [VGMusic](https://vgmusic.com/) :mdi-download:
+- [HCS VGM Archive](https://vgm.hcs64.com/) :material-symbols-cloud-download-outline-rounded:
+- [VGM Preservation Foundation](https://www.vgmpf.com/Wiki/index.php) :material-symbols-cloud-download-outline-rounded:
+- [VGMusic](https://vgmusic.com/) :material-symbols-cloud-download-outline-rounded:
 
 ## Legal
 

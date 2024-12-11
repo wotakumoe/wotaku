@@ -194,11 +194,11 @@ outline: 1
 
 ::: details Symbols
 
-- Uploaded on own server -> :mdi-download:
+- Uploaded on own server -> :material-symbols-cloud-download-outline-rounded:
 - Uploaded on Google Drive -> :mdi-google-drive:
 - Uploaded on Host sites -> :mdi-snail:
 - Batch Download -> :material-symbols-package-2:
-- Torrent Download -> :mdi-magnet:
+- Torrent Download -> :lucide-magnet:
 - Account Needed -> :mdi-account:
 - Blu-ray -> :mdi-disc:
 
@@ -206,18 +206,18 @@ outline: 1
 
 
 #### Reuploads / Untouched
-- [Flugel Anime](https://flugelanime.com/) :mdi-download:
-- [Tokyo Insider](https://www.tokyoinsider.com/) :mdi-download:
+- [Flugel Anime](https://flugelanime.com/) :material-symbols-cloud-download-outline-rounded:
+- [Tokyo Insider](https://www.tokyoinsider.com/) :material-symbols-cloud-download-outline-rounded:
 - [JPFiles](https://jpfiles.net/) :mdi-snail::mdi-disc:
 - [AnimeRSS](https://animerss.com/) :mdi-snail::mdi-disc:
 
 #### Re-encodes
 - [Kayo anime](https://kayoanime.com/) :mdi-google-drive::material-symbols-package-2:
 - [Mkvseries](https://mkvseries.com/) <Badge text="2" link="https://mkvcinema.in/" /> :mdi-google-drive::material-symbols-package-2:
-- [Anime out](https://www.animeout.xyz/) :mdi-download::mdi-account:
-- [Chauthanh](https://chauthanh.info/) :mdi-download::mdi-account:
+- [Anime out](https://www.animeout.xyz/) :material-symbols-cloud-download-outline-rounded::mdi-account:
+- [Chauthanh](https://chauthanh.info/) :material-symbols-cloud-download-outline-rounded::mdi-account:
 - [RIP Crabby Anime](https://ripcrabbyanime.com/) :mdi-google-drive::material-symbols-package-2:
-- [hi10anime](https://hi10anime.com/) :mdi-download::mdi-magnet::mdi-account::material-symbols-package-2:
+- [hi10anime](https://hi10anime.com/) :material-symbols-cloud-download-outline-rounded::lucide-magnet::mdi-account::material-symbols-package-2:
 
 #### Subtitles
 - [Closed Caption Browser](https://cc.edatribe.com/#/) <Badge type="info" text="Dubtitles" />

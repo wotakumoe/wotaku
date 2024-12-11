@@ -50,7 +50,7 @@ Some apps might not support **Auto Install method**. That doesn't mean the guide
 ::: tip For Dantotsu & its forks
 Copy the **URL** (from the manual column) and put it in: **Profile avatar (top right) -> :mdi-cog:Settings -> :mdi-puzzle:Extensions -> Add Anime/Manga Repo**.
 
-To activate torrent features, navigate to **Profile avatar (top right) -> :mdi-cog:Settings -> :mdi-silverware-fork-knife:Add-ons**. Then download and install the **:mdi-magnet:Torrent Add-on**. Afterwards, switch on **:mdi-server:Enable Torrent**.
+To activate torrent features, navigate to **Profile avatar (top right) -> :mdi-cog:Settings -> :mdi-silverware-fork-knife:Add-ons**. Then download and install the **:lucide-magnet:Torrent Add-on**. Afterwards, switch on **:mdi-server:Enable Torrent**.
 :::
 
 
