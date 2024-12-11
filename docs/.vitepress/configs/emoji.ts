@@ -12,6 +12,7 @@ import { icons as materials } from '@iconify-json/material-symbols'
 import { icons as simple } from '@iconify-json/simple-icons'
 import { icons as lucide } from '@iconify-json/lucide'
 import { icons as iconoir } from '@iconify-json/iconoir'
+import { icons as uil } from '@iconify-json/uil'
 
 // 1. Install emoji pack with `pnpm add -g @iconify-json/<icon>`
 // 2. Import them like I did above
@@ -28,6 +29,7 @@ const emojis: { pack: IconifyJSON; prefix?: string }[] = [
   { pack: materials, prefix: 'material-symbols-' },
   { pack: simple, prefix: 'simple-icons-' },
   { pack: lucide, prefix: 'lucide-' },
+  { pack: uil, prefix: 'uil-' },
   { pack: iconoir, prefix: 'iconoir-' }
 ]
 
