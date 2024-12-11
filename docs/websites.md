@@ -48,6 +48,12 @@ outline: 1
       <li>Re-encodes shows for smaller size.</li>
     </ul>
   </tooltip>
+- [AnimeStream](https://anime.uniquestream.net/) :mingcute-shovel-fill:
+  <tooltip>
+    <ul>
+      <li>Scrapes from Crunchyroll.</li>
+    </ul>
+  </tooltip>
 - [Anime Nexus](https://anime.nexus/) :mingcute-server-fill::mingcute-user-2-fill:
   <tooltip>
     <ul>
