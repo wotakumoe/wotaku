@@ -173,7 +173,7 @@ outline: [2,3]
 - [ASB Auto Subs](https://github.com/GodPepe7/asb-auto-subs) :mdi-firefox::mingcute-chrome-fill: `Jimaku subs in anime sites`
 - [Japanese.io](https://www.japanese.io/) :mingcute-chrome-fill: `Pop-up dictionary`
 - [jimaku player](https://github.com/sheodox/jimaku-player) :mdi-language-javascript: `Custom subs for CR`
-- [Language Reactor](https://www.languagereactor.com/) :mingcute-chrome-fill: `Pop-up dictionary & immersion helper` <Badge type="warning" text="Freemium" />
+- [Language Reactor](https://www.languagereactor.com/) :mingcute-chrome-fill: `Pop-up dictionary & immersion helper` :material-symbols-add-shopping-cart-rounded:
 - [mirigana](https://github.com/mirigana/mirigana) :mdi-firefox::mingcute-chrome-fill: `Insert furigana on Twitter`
 - [JPDB Web Reader](https://github.com/max-kamps/jpd-breader) :mdi-firefox::mingcute-chrome-fill:
 - [Rikaikun](https://github.com/melink14/rikaikun) :mingcute-chrome-fill: `Pop-up dictionary`

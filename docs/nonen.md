@@ -464,13 +464,13 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [AnimeBuff](https://animebuff.ru/) <Badge type="info" text="Sub" />
 - [AnimeGO](https://animego.org/) <Badge type="info" text="Aggregator" />
 - [AnimeJoy](https://animejoy.ru/)
-- [Animelayer](http://animelayer.ru/) <Badge type="info" text="Torrent" />
+- [Animelayer](http://animelayer.ru/) :lucide-magnet:
 - [AnimeShot](https://animeshot.ru/)
 - [AnimeStars](https://animestars.org/) <Badge type="info" text="Aggregator" />
 - [Anisun](https://anisun.vercel.app/en) [:mdi-github:](https://github.com/notwindstone/anisun)
 - [ANIXART](https://anixart-tv.org/) <Badge type="info" text="Aggregator" />
 - [Averlist](https://averlist.ru/) [:mdi-github:](https://github.com/Averito/Averlist)
-- [Dark Libria](https://darklibria.it/) <Badge type="info" text="Stream" /><Badge type="info" text="Torrent" />
+- [Dark Libria](https://darklibria.it/) <Badge type="info" text="Stream" />:lucide-magnet:
 - [Dream Cast](https://dreamerscast.com/)
 - [Freedub Studio](https://freedubstudio.club/)
 - [Jut.su](https://jut.su/) <Badge type="info" text="Helper" link="https://github.com/Xeltone/Jut.su-Helper" />
@@ -543,8 +543,8 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
   - [Nekomitai](https://nekomitai.net/)
   - [Ivanime](https://www.ivanime.com/)
   - [DW Anime](https://dw-anime.net/)
-  - [Union Fansub](https://foro.unionfansub.com/index.php) <Badge type="info" text="Torrent" />
-  - [Frozen Layer](https://www.frozen-layer.com/) <Badge type="info" text="Torrent" />
+  - [Union Fansub](https://foro.unionfansub.com/index.php) :lucide-magnet:
+  - [Frozen Layer](https://www.frozen-layer.com/) :lucide-magnet:
 
 ### Manga
 - [TuMangaOnline](https://visortmo.com/) <Badge type="info" text="2" link="https://lectormanga.com/" />

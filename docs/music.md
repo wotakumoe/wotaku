@@ -328,8 +328,8 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [Flacbox](https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256) :ic-baseline-apple: :material-symbols-lock-outline:
 - [Oto Music Player](https://play.google.com/store/apps/details?id=com.piyush.music) :mdi-android: :material-symbols-lock-outline:
 - [Musicolet Music Player](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) :material-symbols-lock-outline:
-- [Poweramp](https://powerampapp.com/) :glowing-star: :material-symbols-lock-outline: <Badge type="warning" text="Paid" />
-- [USB Audio Player PRO](https://play.google.com/store/apps/details?id=com.extreamsd.usbaudioplayerpro&hl=en&gl=US) :material-symbols-lock-outline: <Badge type="warning" text="Paid" /> :mdi-android:
+- [Poweramp](https://powerampapp.com/) :glowing-star: :material-symbols-lock-outline: :material-symbols-credit-card-outline:
+- [USB Audio Player PRO](https://play.google.com/store/apps/details?id=com.extreamsd.usbaudioplayerpro&hl=en&gl=US) :material-symbols-lock-outline: :material-symbols-credit-card-outline: :mdi-android:
 
 ### Online
 - [**Youtube Music**](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
@@ -350,9 +350,9 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 
 ### Audiobook
 - [Voice](https://github.com/PaulWoitaschek/Voice) :mdi-android:
-- [mAbook Audiobook Player](https://play.google.com/store/apps/details?id=mindmine.audiobook) :mdi-android: :material-symbols-lock-outline: <Badge type="warning" text="Freemium" />
-- [Smart AudioBook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer) :mdi-android: :material-symbols-lock-outline: <Badge type="warning" text="Freemium" />
-- [Sirin Audiobook Player](https://play.google.com/store/apps/details?id=com.sirin.android) :mdi-android: :material-symbols-lock-outline: <Badge type="warning" text="Freemium" />
+- [mAbook Audiobook Player](https://play.google.com/store/apps/details?id=mindmine.audiobook) :mdi-android: :material-symbols-lock-outline: :material-symbols-add-shopping-cart-rounded:
+- [Smart AudioBook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer) :mdi-android: :material-symbols-lock-outline: :material-symbols-add-shopping-cart-rounded:
+- [Sirin Audiobook Player](https://play.google.com/store/apps/details?id=com.sirin.android) :mdi-android: :material-symbols-lock-outline: :material-symbols-add-shopping-cart-rounded:
 
 ## Tools
 
@@ -510,7 +510,7 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 - [MP3Tag](https://www.mp3tag.de/en/) :ic-baseline-window::ic-baseline-apple: :material-symbols-lock-outline:
 - [MusicBrainz Picard](https://picard.musicbrainz.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/metabrainz/picard)
 - [TagScanner](https://www.xdlab.ru/en/) :ic-baseline-window: :material-symbols-lock-outline:
-- [beets](https://beets.io/) <Badge type="info" link="https://beets.readthedocs.io/en/stable/index.html#" /> [:mdi-github:](https://github.com/beetbox/beets)
+- [beets](https://beets.io/) [:mdi-github:](https://github.com/beetbox/beets)<Badge type="info" text="Guide" link="https://beets.readthedocs.io/en/stable/index.html" />
 
 ### Misc
 - [Karaoke Mugen](https://mugen.karaokes.moe/en/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-gitlab:](https://gitlab.com/karaokemugen/code/karaokemugen-app)
@@ -536,9 +536,9 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 - [Subtracks](https://github.com/austinried/subtracks#readme)
 - [substreamer](https://substreamerapp.com/)
 - [Ultrasonic](https://ultrasonic.gitlab.io/)
-- [Plexamp](https://www.plex.tv/plexamp/) <Badge type="warning" text="Freemium" />
-- [DSub](https://play.google.com/store/apps/details?id=github.daneren2005.dsub) <Badge type="warning" text="Paid" />
-- [Symfonium](https://symfonium.app/) <Badge type="warning" text="Paid" />  
+- [Plexamp](https://www.plex.tv/plexamp/) :material-symbols-add-shopping-cart-rounded:
+- [DSub](https://play.google.com/store/apps/details?id=github.daneren2005.dsub) :material-symbols-credit-card-outline:
+- [Symfonium](https://symfonium.app/) :material-symbols-credit-card-outline:  
 - [Tempo](https://github.com/CappielloAntonio/tempo)
 
 ## iOS
@@ -555,7 +555,7 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 - [Sublime Music](https://sublimemusic.app/) :mingcute-linux-fill:
 - [Supersonic](https://github.com/dweymouth/supersonic)  :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Submariner](https://submarinerapp.com/) :ic-baseline-apple:
-- [Plexamp](https://www.plex.tv/plexamp/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="warning" text="Freemium" />
+- [Plexamp](https://www.plex.tv/plexamp/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::material-symbols-add-shopping-cart-rounded:
 - **CLI**
     - [Jellycli](https://github.com/tryffel/jellycli#readme) :ic-baseline-window::mingcute-linux-fill:
     - [STMP](https://github.com/wildeyedskies/stmp#readme) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:

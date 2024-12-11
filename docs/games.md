@@ -61,7 +61,7 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 - **OCR**
    - [Agent](https://github.com/0xDC00/agent)
    - [Game2Text](https://game2text.com/)
-   - [MTool](https://trs.mtool.app/release.php?lang=en) <Badge type="warning" text="Freemium" />
+   - [MTool](https://trs.mtool.app/release.php?lang=en) :material-symbols-add-shopping-cart-rounded:
    - [YomiNinja](https://github.com/matt-m-o/YomiNinja)
 - **Others**
    - [Hoyolab Auto-sign](https://github.com/canaria3406/hoyolab-auto-sign)
@@ -124,7 +124,7 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 - [osu! Cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner) :ic-baseline-window:
 - [osu! Trainer](https://github.com/FunOrange/osu-trainer) :ic-baseline-window:
 - [sentakki](https://github.com/LumpBloom7/sentakki) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Tau Ruleset](https://taulazer.github.io/) [:mdi-github:](https://github.com/taulazer/tau) :ic-baseline-window:
+- [Tau Ruleset](https://taulazer.github.io/) :ic-baseline-window: [:mdi-github:](https://github.com/taulazer/tau)
 
 ## Pokémon
 

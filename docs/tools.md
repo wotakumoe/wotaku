@@ -265,9 +265,9 @@ outline: [1,2]
 - [Anime Watch Parties](https://github.com/Dragicafit/Anime-Watch-Parties/) [:mdi-earth:](https://animewatchparties.com/) [:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/)
 - [Aniskip](https://github.com/lexesjan/typescript-aniskip-extension) [:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/aniskip/npfcdmjgaocepmpdnmliimijgfjbgcdd)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/aniskip/)
 - [Crunchyroll With Better Seasons](https://github.com/Dragicafit/Crunchyroll-With-Better-Seasons)
-- Improve Crunchyroll [:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/improve-crunchyroll/) :material-symbols-lock-outline:
+- Improve Crunchyroll :material-symbols-lock-outline: [:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/improve-crunchyroll/)
 - [Streaming enhanced](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) [:mingcute-chrome-fill:](https://chromewebstore.google.com/detail/streaming-enhanced-netfli/akaimhgappllmlkadblbdknhbfghdgle)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/netflix-prime-auto-skip/)
-- [Substital](https://substital.com/) [:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/substital/) :material-symbols-lock-outline:
+- [Substital](https://substital.com/) :material-symbols-lock-outline: [:mingcute-chrome-fill:](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg)[:mdi-firefox:](https://addons.mozilla.org/en-US/firefox/addon/substital/)
 
 ## Manga
 - [All Manga Reader](https://gitlab.com/all-mangas-reader/all-mangas-reader-2) [:mdi-earth:](https://www.allmangasreader.com/)

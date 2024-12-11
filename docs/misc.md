@@ -318,12 +318,12 @@ Illustrations now has its [own page](/art)!
 ## Games
 
 - [holo Indie](https://store.steampowered.com/publisher/holo_Indie) :glowing-star: <Badge type="tip" text="Info" link="https://hololive.wiki/wiki/Holo_Indie" /> <tooltip>We won't add the games here that are under holo Indie</tooltip>
-- [Days With Ollie](https://store.steampowered.com/app/2776750/Days_With_Ollie/) :material-symbols-attach-money:  
+- [Days With Ollie](https://store.steampowered.com/app/2776750/Days_With_Ollie/) :material-symbols-credit-card-outline:
 - [Delivering Hope](https://david-wu-softdev.itch.io/delivering-hope-hololive-fangame)  
 - [Holo on Suika](https://tkgames.jp/holo_watermelon.html)  
 - [Holocure](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/) :glowing-star:  
 - [Hololive Councilrys RPG](https://kebbie.itch.io/councilrysrpg)    
-- [hololive ERROR](https://store.steampowered.com/app/2062550/hololive_ERROR/) :material-symbols-attach-money:  
+- [hololive ERROR](https://store.steampowered.com/app/2062550/hololive_ERROR/) :material-symbols-credit-card-outline:
 - [Mumei's Memory Juggling](https://david-wu-softdev.itch.io/mumeis-memory-juggling)  
 - [Nameless](https://sk-jynx.itch.io/nameless) :glowing-star:  
 - [Pebble Jame](https://gioba-games.itch.io/pebble-jame)  

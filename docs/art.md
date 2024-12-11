@@ -146,13 +146,13 @@ outline: [1,2]
 ### Clients
 - [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [pixes](https://github.com/wgh136/pixes) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Pixeval](https://pixeval.github.io/) [:mdi-github:](https://github.com/Pixeval/Pixeval) :ic-baseline-window:
+- [Pixeval](https://pixeval.github.io/) :ic-baseline-window: [:mdi-github:](https://github.com/Pixeval/Pixeval)
 - [Pixiv Powerful Viewer](https://github.com/fekoneko/pixiv-powerful-viewer) :ic-baseline-window:
 
 ### Downloaders
 - [Cultured Downloader](https://github.com/KJHJason/Cultured-Downloader) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [gallery-dl](https://github.com/mikf/gallery-dl) :glowing-star: :ic-baseline-window::mingcute-linux-fill:
-- [Hydrus network](https://hydrusnetwork.github.io/hydrus/) <Badge type="info" text="Scripts" link="https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts"/>:ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Hydrus network](https://hydrusnetwork.github.io/hydrus/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Scripts" link="https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts"/>
 - [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Pixiv FANBOX Downloader](https://github.com/hareku/fanbox-dl) :ic-baseline-window::ic-baseline-apple:
 - [PixivUtil2](https://github.com/Nandaka/PixivUtil2) :ic-baseline-window:

@@ -22,9 +22,9 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
   - [Miruro](https://www.miruro.tv/) <Badge type="info" text="Proxies" link="https://www.miruro.com" />
   - [Anime Nexus](https://anime.nexus/)
 - **Download**
-  - [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" /> <Badge type="info" text="Torrent" />
-  - [Tokyo Insider](https://www.tokyoinsider.com/) <Badge type="info" text="Direct" />
-  - [Kayo anime](https://kayoanime.com/) <Badge type="info" text="Direct" /><Badge type="info" text="Batch" />
+  - [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" /> :lucide-magnet:
+  - [Tokyo Insider](https://www.tokyoinsider.com/) :material-symbols-cloud-download-outline-rounded:
+  - [Kayo anime](https://kayoanime.com/) :material-symbols-cloud-download-outline-rounded:<Badge type="info" text="Batch" />
 
 ### Software
 
@@ -35,8 +35,8 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 - **iOS**
   - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - **PC**
-  - [Miru](https://miru.watch/) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/ThaUnknown/miru/) <Badge type="info" text="Torrent" />
-  - [Mangayomi](https://github.com/kodjodevf/mangayomi) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
+  - [Miru](https://miru.watch/) :glowing-star::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/ThaUnknown/miru/) :lucide-magnet:
+  - [Mangayomi](https://github.com/kodjodevf/mangayomi) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::lucide-magnet::material-symbols-cloud-download-outline-rounded:
 
 ![](/banner/wmanga.webp)
 
@@ -49,7 +49,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
   - [Mangadex](https://mangadex.org/)
   - [Weeb Central](https://weebcentral.com/) <Badge type="tip" text="2" link="https://mangasee123.com/" /><Badge type="tip" text="3" link="https://manga4life.com/" /><Badge type="tip" text="Alt" link="https://atsu.moe/" />
 - **Download**
-  - [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" /> <Badge type="info" text="Torrent" />
+  - [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" /> :lucide-magnet:
   - [Madokami](https://manga.madokami.al) :glowing-star: <Badge type="info" text="Guide" link="/guides/manga/madokami" />
   - [Library Genesis](https://libgen.gs/)
 
@@ -58,15 +58,15 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 - **Android**
   - [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:mdi-puzzle:](/guides/tech/repo) [:mdi-github:](https://github.com/jobobby04/TachiyomiSY)
   - [Yokai](https://mihon.app/forks/Yokai/) :glowing-star: [:mdi-puzzle:](/guides/tech/repo) [:mdi-github:](https://github.com/null2264/yokai)
-  - [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :glowing-star: :material-symbols-lock-outline: <Badge type="warning" text="Freemium" /><Badge type="info" text="Local" />
+  - [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :glowing-star::material-symbols-lock-outline::material-symbols-add-shopping-cart-rounded::iconoir-floppy-disk:
 - **iOS**
   - [Paperback](https://github.com/Paperback-iOS/app) [:mdi-puzzle:](/guides/tech/repo#ios)
   - [Aidoku](https://github.com/Aidoku/Aidoku) [:mdi-puzzle:](/guides/tech/repo#ios)
-  - [YACReader](https://apps.apple.com/app/id635717885) :glowing-star: :material-symbols-lock-outline: <Badge type="warning" text="Paid" /> [:mdi-airplane:](https://testflight.apple.com/join/5zhB7sRP) <Badge type="info" text="Local" />
+  - [YACReader](https://apps.apple.com/app/id635717885) :glowing-star::material-symbols-lock-outline::material-symbols-credit-card-outline::iconoir-floppy-disk:[:mdi-airplane:](https://testflight.apple.com/join/5zhB7sRP)
 - **PC**
   - [Houdoku](https://houdoku.netlify.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-  - [CDisplayEx](https://www.cdisplayex.com/) :ic-baseline-window: :material-symbols-lock-outline: <Badge type="info" text="Local" />
-  - [YACReader](https://www.yacreader.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Local" />
+  - [CDisplayEx](https://www.cdisplayex.com/) :ic-baseline-window::material-symbols-lock-outline::iconoir-floppy-disk:
+  - [YACReader](https://www.yacreader.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::iconoir-floppy-disk:
 
 
 ![](/banner/music.webp)
@@ -97,16 +97,16 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 ### Software
 
 - **Android**
-  - [Poweramp](https://powerampapp.com/) :glowing-star: :material-symbols-lock-outline: <Badge type="warning" text="Paid" />
-  - [Musicolet Music Player](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) :material-symbols-lock-outline:
+  - [Poweramp](https://powerampapp.com/) :glowing-star::material-symbols-lock-outline::material-symbols-credit-card-outline::iconoir-floppy-disk:
+  - [Musicolet Music Player](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) :material-symbols-lock-outline::iconoir-floppy-disk:
   - [Innertune](https://github.com/z-huang/InnerTune)
   - [xManager](https://www.xmanagerapp.com/) :material-symbols-lock-outline:
 - **iOS**
   - [Flacbox](https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256) :material-symbols-lock-outline:
 - **PC**
-  - [Foobar2000](https://www.foobar2000.org/) :glowing-star: :ic-baseline-window::ic-baseline-apple: :material-symbols-lock-outline:
-  - [AIMP](https://www.aimp.ru/) :glowing-star: :ic-baseline-window::mingcute-linux-fill: :material-symbols-lock-outline:
-  - [MusicBee](https://www.getmusicbee.com/) :ic-baseline-window: :material-symbols-lock-outline:
+  - [Foobar2000](https://www.foobar2000.org/) :glowing-star::ic-baseline-window::ic-baseline-apple::material-symbols-lock-outline:
+  - [AIMP](https://www.aimp.ru/) :glowing-star::ic-baseline-window::mingcute-linux-fill::material-symbols-lock-outline:
+  - [MusicBee](https://www.getmusicbee.com/) :ic-baseline-window::material-symbols-lock-outline:
   - [Spicetify](https://spicetify.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
   - [SPOTX](https://github.com/SpotX-Official/SpotX) :ic-baseline-window:
 
@@ -118,7 +118,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 ### Adblockers
 
 - [uBlock Origin](https://github.com/gorhill/uBlock) :mdi-firefox::mingcute-chrome-fill:
-- [Adguard](https://adguard.com/en/welcome.html) :mdi-android::ic-baseline-window::ic-baseline-apple::mdi-firefox::mingcute-chrome-fill: :material-symbols-lock-outline:
+- [Adguard](https://adguard.com/en/welcome.html) :mdi-android::ic-baseline-window::ic-baseline-apple::mdi-firefox::mingcute-chrome-fill::material-symbols-lock-outline:
 - [Adaway](https://adaway.org/) :mdi-android:
 - [RethinkDNS](https://rethinkdns.com/) :mdi-android::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [NextDNS](https://nextdns.io/) :mdi-android::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
@@ -151,12 +151,12 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 - **Anime & Manga**
   - [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) :ic-baseline-window: <Badge type="info" text="Manga" />
   - [Hakuneko](https://github.com/manga-download/haruneko) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="General" />
-  - [Red Squirrel's Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader) :ic-baseline-window::mingcute-linux-fill: :material-symbols-lock-outline: <Badge type="info" text="Manga" />
+  - [Red Squirrel's Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader) :ic-baseline-window::mingcute-linux-fill::material-symbols-lock-outline: <Badge type="info" text="Manga" />
 - **Direct**
-  - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) :mdi-android: :material-symbols-lock-outline:
+  - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) :mdi-android::material-symbols-lock-outline:
   - [LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) :mdi-android:
-  - [Internet Download Manager](https://www.internetdownloadmanager.com/) <Badge text="Install Guide" link="https://rentry.org/installidm" /> :ic-baseline-window: :material-symbols-lock-outline:
-  - [JDownloader 2](https://jdownloader.org/) <Badge text="Debloat" link="/guides/misc#jdownloader-ad-removal" /> :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: :material-symbols-lock-outline:
+  - [Internet Download Manager](https://www.internetdownloadmanager.com/) <Badge text="Install Guide" link="https://rentry.org/installidm" /> :ic-baseline-window::material-symbols-lock-outline:
+  - [JDownloader 2](https://jdownloader.org/) <Badge text="Debloat" link="/guides/misc#jdownloader-ad-removal" /> :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::material-symbols-lock-outline:
 - **Torrent**
   - [libretorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) :mdi-android:
   - [qBittorrent](https://www.qbittorrent.org/) <Badge text="Enhanced" link="https://github.com/c0re100/qBittorrent-Enhanced-Edition" /> <Badge text="Dark theme" link="https://github.com/maboroshin/qBittorrentDarktheme" /> :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:

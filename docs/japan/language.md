@@ -67,7 +67,7 @@ outline: [2,3]
 - **Ulrike's Mnemonics**
   - [Original version](https://www.joyokanji.com/ulrikes-mnemonics)
   - [Carlos version](https://japanesestudies.github.io/ulrikes-mnemonics/)
-- [Marshall's Site](https://marshallyin.com/) <Badge type="warning" text="Freemium" /> <tooltip>Marshall's site contain almost everything. So to avoid dupe, it will be linked once.</tooltip>
+- [Marshall's Site](https://marshallyin.com/) :material-symbols-add-shopping-cart-rounded: <tooltip>Marshall's site contain almost everything. So to avoid dupe, it will be linked once.</tooltip>
 - [THE KANJI VISUAL LANGUAGE PROJECT](https://kvlp.org/)
 - [Proverb encyclopedia](https://proverb-encyclopedia.com/)
 
@@ -91,8 +91,8 @@ outline: [2,3]
 
 ### Practice
 - [Kotobaweb](https://kotobaweb.com/)
-- [Wanikani](https://www.wanikani.com/) <Badge type="warning" text="Freemium" />
-- [NativShark](https://www.nativshark.com/) <Badge type="warning" text="Freemium" />
+- [Wanikani](https://www.wanikani.com/) :material-symbols-add-shopping-cart-rounded:
+- [NativShark](https://www.nativshark.com/) :material-symbols-add-shopping-cart-rounded:
 - [Kanji Garden](https://kanji.garden/)
 - [Kanji Koohii](https://kanji.koohii.com/)
 - [Kenji Sugimoto](https://www.kenjisugimoto.com/shuji/index.html?shuji=%E3%81%8A%E6%89%8B%E6%9C%AC)
@@ -180,7 +180,7 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 #### Practice
 - [Kanken](https://www.kanken.or.jp/kanken/meyasucheck/)
 - [Kotu](https://kotu.io/) `Needs Account`
-- [Migaku Pitch Trainer](https://pitch-demo.migaku.io/) <Badge type="warning" text="Freemium" />
+- [Migaku Pitch Trainer](https://pitch-demo.migaku.io/) :material-symbols-add-shopping-cart-rounded:
 - [SuperNative](https://supernative.tv/ja/)
 - [MyKikitori](https://www.mykikitori.com/)
 
@@ -228,7 +228,7 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 - [A Beginner’s Japanese Grammar Guide](https://www.japanistry.com/japanese-grammar-guide/)
 - [Visualizing Japanese Grammar](https://www2.gwu.edu/~eall/vjgnew/vjghomepage/vjghome.htm)
 - [DoJK](https://dojgdeck.neocities.org/)
-- [Bunpro](https://bunpro.jp/) <Badge type="warning" text="Freemium" />
+- [Bunpro](https://bunpro.jp/) :material-symbols-add-shopping-cart-rounded:
 - [JLPT Grammar List](https://jlptgrammarlist.neocities.org/)
 - [Ultra Handy Japanese Verb Conjugator](https://www.japaneseverbconjugator.com/)
 
