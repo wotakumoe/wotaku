@@ -24,6 +24,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 
 == Art 
 
+- Smol Ame art by [**Dr.Pigeon PhD**](https://x.com/PhdPigeon/status/1866313003119030404)
 - Hololive EN plush art by [**CLERO**](https://x.com/CLERO_ART/status/1788894299007971680)
 - Embed art by [**夕城**](https://x.com/yukiyasa1/status/1770385782379020322)
 - Smol Ina's diary by [**underdatv**](https://x.com/underdatv/status/1790765775349072046)
