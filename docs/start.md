@@ -94,8 +94,8 @@ You have to add the iconpack manually in `docs\.vitepress\configs\emoji.ts`. Oth
 | Favourite | :glowing-star: |
 | System | :mdi-android::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-firefox::mingcute-chrome-fill::mdi-earth: |
 | Type | :material-symbols-cloud-download-outline-rounded::lucide-magnet::iconoir-floppy-disk: |
-| Price | :material-symbols-credit-card-outline: |
-| Closed Source | :material-symbols-add-shopping-cart-rounded::material-symbols-lock-outline: |
+| Price | :material-symbols-add-shopping-cart-rounded::material-symbols-credit-card-outline: |
+| Closed Source | :material-symbols-lock-outline: |
 | Github | :mdi-github: |
 
 **Rules**

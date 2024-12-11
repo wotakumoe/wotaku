@@ -155,7 +155,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 - **Direct**
   - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) :mdi-android::material-symbols-lock-outline:
   - [LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) :mdi-android:
-  - [Internet Download Manager](https://www.internetdownloadmanager.com/) :ic-baseline-window::material-symbols-lock-outline:<Badge text="Install Guide" link="https://rentry.org/installidm" />
+  - [Internet Download Manager](https://www.internetdownloadmanager.com/) :ic-baseline-window::material-symbols-lock-outline::material-symbols-credit-card-outline:<Badge text="Install Guide" link="https://rentry.org/installidm" />
   - [JDownloader 2](https://jdownloader.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::material-symbols-lock-outline:<Badge text="Debloat" link="/guides/misc#jdownloader-ad-removal" />
 - **Torrent**
   - [libretorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) :mdi-android:
