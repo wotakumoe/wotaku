@@ -226,7 +226,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Calibre](https://calibre-ebook.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/kovidgoyal/calibre)
 - [Freda](https://www.turnipsoft.com/freda/) :ic-baseline-window::material-symbols-lock-outline:
 - [Koodo Reader](https://www.koodoreader.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/koodo-reader/koodo-reader)
-- [KOReader](https://koreader.rocks/) :mingcute-linux-fill::gg-ereader: [:mdi-github:](https://github.com/koreader/koreader)
+- [KOReader](https://koreader.rocks/) :mingcute-linux-fill::material-symbols-chrome-reader-mode-outline: [:mdi-github:](https://github.com/koreader/koreader)
 - [Okular](https://okular.kde.org/) :ic-baseline-window::mingcute-linux-fill:
 - [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) :ic-baseline-window: [:mdi-github:](https://github.com/sumatrapdfreader/sumatrapdf)
 - [Thorium reader](https://www.edrlab.org/software/thorium-reader/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/edrlab/thorium-reader)
@@ -308,7 +308,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 ## eBook Tools
 - [Calibre](https://calibre-ebook.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Kindle Comic Converter](https://github.com/ciromattia/kcc) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-docker:
-- [KOReader](https://koreader.rocks/) :mingcute-linux-fill::gg-ereader:
+- [KOReader](https://koreader.rocks/) :mingcute-linux-fill::material-symbols-chrome-reader-mode-outline:
 - [Libation](https://getlibation.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Send to Kindle](https://www.amazon.com/sendtokindle) :mdi-earth::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [Sigil-Ebook](https://sigil-ebook.com/) :ic-baseline-window::ic-baseline-apple:

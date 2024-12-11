@@ -78,7 +78,7 @@ It has various variables. The free VPNs are very limited such as untrusted owner
   - [Oblivion](https://github.com/bepass-org/oblivion-desktop)
 - [RiseupVPN](https://riseup.net/en/vpn)
 
-<Button link="https://www.techlore.tech/vpn" icon="i-fxemoji-lightbulb">Go through Techlore's VPNs comparison for more details</Button>
+<Button link="https://www.techlore.tech/vpn" icon="i-mdi-lightbulb-alert-outline">Go through Techlore's VPNs comparison for more details</Button>
 
 ::: danger Never use Cracked / Modded VPN {open}
 You should never use cracked or modded VPN cause all of your traffic will go through that VPN. So using a compromised VPN is extremely risky.

@@ -10,7 +10,6 @@ import { icons as mingcute } from '@iconify-json/mingcute'
 import { icons as mdi } from '@iconify-json/mdi'
 import { icons as materials } from '@iconify-json/material-symbols'
 import { icons as simple } from '@iconify-json/simple-icons'
-import { icons as gg } from '@iconify-json/gg'
 import { icons as lucide } from '@iconify-json/lucide'
 import { icons as iconoir } from '@iconify-json/iconoir'
 
@@ -28,7 +27,6 @@ const emojis: { pack: IconifyJSON; prefix?: string }[] = [
   { pack: mdi, prefix: 'mdi-' },
   { pack: materials, prefix: 'material-symbols-' },
   { pack: simple, prefix: 'simple-icons-' },
-  { pack: gg, prefix: 'gg-' },
   { pack: lucide, prefix: 'lucide-' },
   { pack: iconoir, prefix: 'iconoir-' }
 ]

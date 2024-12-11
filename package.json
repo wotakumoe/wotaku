@@ -41,9 +41,6 @@
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",
-    "@iconify-json/fluent-emoji": "^1.2.1",
-    "@iconify-json/fxemoji": "^1.2.0",
-    "@iconify-json/gg": "^1.2.1",
     "@iconify-json/ic": "^1.2.1",
     "@iconify-json/icon-park-outline": "^1.2.1",
     "@iconify-json/iconoir": "^1.2.3",

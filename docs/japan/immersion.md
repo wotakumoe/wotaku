@@ -110,7 +110,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 - [Nyaa](https://nyaa.si/?f=0&c=3_3&q=) :glowing-star:
 - [Syosetu](https://syosetu.com/) `WN`
 
-<Button icon="i-fxemoji-lightbulb" link="/nonen#japanese" >More in manga direct download</Button>
+<Button icon="i-mdi-lightbulb-alert-outline" link="/nonen#japanese" >More in manga direct download</Button>
 
 ## Audio
 

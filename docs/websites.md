@@ -507,7 +507,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [Tokunation](https://news.tokunation.com/)
 - [The Tokusatsu Network](https://tokusatsunetwork.com/)
 - [Tsuburaya](https://tsuburaya-prod.com/)
-- [JEFusion](https://www.jefusion.com/) <Badge type="danger" icon="i-fxemoji-warningsign" text="Spoiler" /> 
+- [JEFusion](https://www.jefusion.com/) <Badge type="danger" icon="i-mdi-lightbulb-alert-outline" text="Spoiler" /> 
 - [Morphin Legacy](https://morphinlegacy.com/)
 - [Henshin Grid](https://henshingrid.blogspot.com/)
 - [My shiny Toy Robots](https://www.myshinytoyrobots.com/)

@@ -201,6 +201,6 @@ Yes. [**Last.fm**](https://www.last.fm/). It's not anime songs centric but a gen
 :::details What should I use to convert my music files?
 Most of the PC music player can convert music files to your desired formats. For example [**Foobar2000**](https://www.foobar2000.org/) & [**Musicbee**](https://www.getmusicbee.com/). For Foobar200, you have to install [encoder pack](https://www.foobar2000.org/encoderpack). 
 
-<Button link="/guides/music/transcoding" icon="i-fxemoji-lightbulb">Read our transcoding audio guide to learn the basics.</Button>
+<Button link="/guides/music/transcoding" icon="i-mdi-lightbulb-alert-outline">Read our transcoding audio guide to learn the basics.</Button>
 
 :::

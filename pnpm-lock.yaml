@@ -75,15 +75,6 @@ importers:
       '@biomejs/biome':
         specifier: ^1.9.4
         version: 1.9.4
-      '@iconify-json/fluent-emoji':
-        specifier: ^1.2.1
-        version: 1.2.1
-      '@iconify-json/fxemoji':
-        specifier: ^1.2.0
-        version: 1.2.0
-      '@iconify-json/gg':
-        specifier: ^1.2.1
-        version: 1.2.1
       '@iconify-json/ic':
         specifier: ^1.2.1
         version: 1.2.1
@@ -1158,15 +1149,6 @@ packages:
 
   '@iconify-json/carbon@1.2.4':
     resolution: {integrity: sha512-DhW2jjMVGwV0DLHc0cmDYohdtGxMra8UuwgjHrryPy+rQX4gXhJwCBBVP2h2UG/92AoRCTn7zUJve4WvY5MLYg==}
-
-  '@iconify-json/fluent-emoji@1.2.1':
-    resolution: {integrity: sha512-foBd/hSanmOOWFa8ogWAbLH31mFFuUfMOJQNQrC8Ylui7jIVtcsCqwkoXjz3OlPNfCvCClYdQIAVaWMXo93y2A==}
-
-  '@iconify-json/fxemoji@1.2.0':
-    resolution: {integrity: sha512-MTi31I4DMWH5zT+/CH/dxf+Gd4EXnyILZjT8T22J0kQSPXNUi2No6pc56H/X/TsXqzt8tPOyaI7a1yITPwsH8g==}
-
-  '@iconify-json/gg@1.2.1':
-    resolution: {integrity: sha512-ELQiJMsxxz3VREz/LFE68e+qMMyQhZ0rrsAxnMs6ia1A3fA1tZ98yvXNhvgt4wRaiSfnzR4+5QqCVSZuuW8qQQ==}
 
   '@iconify-json/ic@1.2.1':
     resolution: {integrity: sha512-UjL/bjJP/T5EV881+hTzcfTKVo0KEUjhnMiJcLtPzNgPtU2KZZmRx8BSKKR61H4CN/5FTEbyawGyG0aEt3SwGQ==}
@@ -4934,18 +4916,6 @@ snapshots:
       vue: 3.5.12(typescript@5.6.3)
 
   '@iconify-json/carbon@1.2.4':
-    dependencies:
-      '@iconify/types': 2.0.0
-
-  '@iconify-json/fluent-emoji@1.2.1':
-    dependencies:
-      '@iconify/types': 2.0.0
-
-  '@iconify-json/fxemoji@1.2.0':
-    dependencies:
-      '@iconify/types': 2.0.0
-
-  '@iconify-json/gg@1.2.1':
     dependencies:
       '@iconify/types': 2.0.0
 
