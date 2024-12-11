@@ -16,7 +16,7 @@ outline: [2,3]
 #### Software
 - [Anki](https://apps.ankiweb.net/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 - [AnkiDroid Flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki) :mdi-android:
-- [AnkiMobile Flashcards](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) :ic-baseline-apple: :material-symbols-credit-card-outline:
+- [AnkiMobile Flashcards](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) :ic-baseline-apple::material-symbols-credit-card-outline:
 - [Ankiconnect Android](https://github.com/KamWithK/AnkiconnectAndroid) :mdi-android:
 - [VocabSieve](https://docs.freelanguagetools.org/)
 

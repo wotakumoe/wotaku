@@ -22,7 +22,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
   - [Miruro](https://www.miruro.tv/) <Badge type="info" text="Proxies" link="https://www.miruro.com" />
   - [Anime Nexus](https://anime.nexus/)
 - **Download**
-  - [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" /> :lucide-magnet:
+  - [Nyaa](https://nyaa.si/) :glowing-star::lucide-magnet: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" />
   - [Tokyo Insider](https://www.tokyoinsider.com/) :material-symbols-cloud-download-outline-rounded:
   - [Kayo anime](https://kayoanime.com/) :material-symbols-cloud-download-outline-rounded:<Badge type="info" text="Batch" />
 
@@ -49,7 +49,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
   - [Mangadex](https://mangadex.org/)
   - [Weeb Central](https://weebcentral.com/) <Badge type="tip" text="2" link="https://mangasee123.com/" /><Badge type="tip" text="3" link="https://manga4life.com/" /><Badge type="tip" text="Alt" link="https://atsu.moe/" />
 - **Download**
-  - [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" /> :lucide-magnet:
+  - [Nyaa](https://nyaa.si/) :glowing-star::lucide-magnet: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" />
   - [Madokami](https://manga.madokami.al) :glowing-star: <Badge type="info" text="Guide" link="/guides/manga/madokami" />
   - [Library Genesis](https://libgen.gs/)
 
@@ -58,14 +58,14 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 - **Android**
   - [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:mdi-puzzle:](/guides/tech/repo) [:mdi-github:](https://github.com/jobobby04/TachiyomiSY)
   - [Yokai](https://mihon.app/forks/Yokai/) :glowing-star: [:mdi-puzzle:](/guides/tech/repo) [:mdi-github:](https://github.com/null2264/yokai)
-  - [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :glowing-star::material-symbols-lock-outline::material-symbols-add-shopping-cart-rounded::iconoir-floppy-disk:
+  - [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :glowing-star::iconoir-floppy-disk::material-symbols-add-shopping-cart-rounded::material-symbols-lock-outline:
 - **iOS**
   - [Paperback](https://github.com/Paperback-iOS/app) [:mdi-puzzle:](/guides/tech/repo#ios)
   - [Aidoku](https://github.com/Aidoku/Aidoku) [:mdi-puzzle:](/guides/tech/repo#ios)
-  - [YACReader](https://apps.apple.com/app/id635717885) :glowing-star::material-symbols-lock-outline::material-symbols-credit-card-outline::iconoir-floppy-disk:[:mdi-airplane:](https://testflight.apple.com/join/5zhB7sRP)
+  - [YACReader](https://apps.apple.com/app/id635717885) :glowing-star::iconoir-floppy-disk::material-symbols-credit-card-outline::material-symbols-lock-outline:[:mdi-airplane:](https://testflight.apple.com/join/5zhB7sRP)
 - **PC**
   - [Houdoku](https://houdoku.netlify.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-  - [CDisplayEx](https://www.cdisplayex.com/) :ic-baseline-window::material-symbols-lock-outline::iconoir-floppy-disk:
+  - [CDisplayEx](https://www.cdisplayex.com/) :ic-baseline-window::iconoir-floppy-disk::material-symbols-lock-outline:
   - [YACReader](https://www.yacreader.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::iconoir-floppy-disk:
 
 
@@ -76,9 +76,9 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 ### Streaming
 
 - **Dedicated**
-  - [Anithemes.moe](https://animethemes.moe/) :glowing-star: <Badge type="info" text="Alt" link="https://themes.moe/" />[:mdi-github:](https://github.com/AnimeThemes)
+  - [Anithemes.moe](https://animethemes.moe/) :glowing-star: [:mdi-github:](https://github.com/AnimeThemes)<Badge type="info" text="Alt" link="https://themes.moe/" />
   - [Karaoke Mugen](https://kara.moe)
-  - [Anisong Database](https://anisongdb.com/) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" />[:mdi-github:](https://github.com/xSardine/AMQ-Artists-DB)
+  - [Anisong Database](https://anisongdb.com/) [:mdi-github:](https://github.com/xSardine/AMQ-Artists-DB)<Badge type="info" text="Alt" link="https://43d.github.io/player/#/" />
 - **General**
   - [Youtube Music](https://music.youtube.com/)
   - [Apple Music](https://music.apple.com/)
@@ -97,8 +97,8 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 ### Software
 
 - **Android**
-  - [Poweramp](https://powerampapp.com/) :glowing-star::material-symbols-lock-outline::material-symbols-credit-card-outline::iconoir-floppy-disk:
-  - [Musicolet Music Player](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) :material-symbols-lock-outline::iconoir-floppy-disk:
+  - [Poweramp](https://powerampapp.com/) :glowing-star::iconoir-floppy-disk::material-symbols-credit-card-outline::material-symbols-lock-outline:
+  - [Musicolet Music Player](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) :iconoir-floppy-disk::material-symbols-lock-outline:
   - [Innertune](https://github.com/z-huang/InnerTune)
   - [xManager](https://www.xmanagerapp.com/) :material-symbols-lock-outline:
 - **iOS**
@@ -155,11 +155,11 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 - **Direct**
   - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) :mdi-android::material-symbols-lock-outline:
   - [LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) :mdi-android:
-  - [Internet Download Manager](https://www.internetdownloadmanager.com/) <Badge text="Install Guide" link="https://rentry.org/installidm" /> :ic-baseline-window::material-symbols-lock-outline:
-  - [JDownloader 2](https://jdownloader.org/) <Badge text="Debloat" link="/guides/misc#jdownloader-ad-removal" /> :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::material-symbols-lock-outline:
+  - [Internet Download Manager](https://www.internetdownloadmanager.com/) :ic-baseline-window::material-symbols-lock-outline:<Badge text="Install Guide" link="https://rentry.org/installidm" />
+  - [JDownloader 2](https://jdownloader.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::material-symbols-lock-outline:<Badge text="Debloat" link="/guides/misc#jdownloader-ad-removal" />
 - **Torrent**
   - [libretorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) :mdi-android:
-  - [qBittorrent](https://www.qbittorrent.org/) <Badge text="Enhanced" link="https://github.com/c0re100/qBittorrent-Enhanced-Edition" /> <Badge text="Dark theme" link="https://github.com/maboroshin/qBittorrentDarktheme" /> :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+  - [qBittorrent](https://www.qbittorrent.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge text="Enhanced" link="https://github.com/c0re100/qBittorrent-Enhanced-Edition" /> <Badge text="Dark theme" link="https://github.com/maboroshin/qBittorrentDarktheme" />
   - [Transmission](https://transmissionbt.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
 ::: details Suggested VPN services

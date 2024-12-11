@@ -18,9 +18,9 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 # Stream
 
 ## Anime
-- [AnimeThemes](https://animethemes.moe/) :glowing-star: <Badge type="info" text="Alt" link="https://themes.moe/" />[:mdi-github:](https://github.com/AnimeThemes)
-- [Animusic](https://animusic.moe/)
-- [Anisong Database](https://anisongdb.com/) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" />[:mdi-github:](https://github.com/xSardine/AMQ-Artists-DB)
+- [AnimeThemes](https://animethemes.moe/) :glowing-star: [:mdi-github:](https://github.com/AnimeThemes)
+- [Animusic](https://animusic.moe/)<Badge type="info" text="Alt" link="https://themes.moe/" />
+- [Anisong Database](https://anisongdb.com/) [:mdi-github:](https://github.com/xSardine/AMQ-Artists-DB)<Badge type="info" text="Alt" link="https://43d.github.io/player/#/" />
 - [Karaoke Mugen](https://kara.moe)
 - [One Piece Tracklist](http://onepiecetracklist.com/)
 - [Squidify](https://www.squidify.org/) <Badge type="tip" text="Guide" link="/guides/music/squidify" />
@@ -97,11 +97,11 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 
 - **FLAC**
   - [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" />:mdi-magnet:
-  - [Sitting on Clouds](https://www.sittingonclouds.net/) :glowing-star: <Badge type="info" text="2" link="https://www.sittingonclouds.com/" /><Badge type="info" text="3" link="https://www.sittingonclouds.org/" /><Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" />:simple-icons-mega::simple-icons-mediafire:
+  - [Sitting on Clouds](https://www.sittingonclouds.net/) :glowing-star::simple-icons-mega::simple-icons-mediafire: <Badge type="info" text="2" link="https://www.sittingonclouds.com/" /><Badge type="info" text="3" link="https://www.sittingonclouds.org/" /><Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" />
   - [SquidBoard](https://www.squid-board.org/) :mdi-account::simple-icons-mega::simple-icons-mediafire::mdi-google-drive:
   - [Sukidesu OST](https://sukidesuost.info/) :simple-icons-mega::mdi-magnet:
   - [RuTracker.org](https://rutracker.org/forum/index.php) :mdi-magnet:
-  - [Asia Media Blog](https://asiamediablog.com/media/music/) <Badge type="tip" text="2" link="https://jpmediadl.com/music/" /><Badge type="danger" text="18+" />:mdi-snail:
+  - [Asia Media Blog](https://asiamediablog.com/media/music/) :mdi-snail:<Badge type="tip" text="2" link="https://jpmediadl.com/music/" /><Badge type="danger" text="18+" />
 - **MP3**
   - [Nipponsei](https://nipponsei.minglong.org/tracker/) :mdi-magnet:
   - [OS Anime](https://osanime.com/) :mdi-download:
@@ -119,7 +119,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 
 - [Doujin Cafe](https://discord.gg/doujincafe) :simple-icons-mega::simple-icons-mediafire::ic-round-cloud-download:
 - [Doujin Music](https://vk.com/wall-60027733) :mdi-download:
-- [Doujin Style](https://doujinstyle.com/) <Badge type="tip" text="Touhou" link="https://doujinstyle.com/?p=tlmc" /> <Badge type="tip" text="Downloader" link="https://github.com/Relepega/doujinstyle-downloader"/>:simple-icons-mediafire:
+- [Doujin Style](https://doujinstyle.com/) :simple-icons-mediafire:<Badge type="tip" text="Touhou" link="https://doujinstyle.com/?p=tlmc" /> <Badge type="tip" text="Downloader" link="https://github.com/Relepega/doujinstyle-downloader"/>
 - [MikuDB](https://mikudb.moe/) :mdi-google-drive::mdi-magnet:
 - [Moriya Shrine](https://moriyashrine.org/) :mdi-magnet:
 - [Touhou Disc](https://alist.thdisc.tk) :mdi-download:
@@ -127,7 +127,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 
 ## Games
 
-- [Sitting on Clouds](https://www.sittingonclouds.net/) <Badge type="info" text="2" link="https://www.sittingonclouds.com/" /><Badge type="info" text="3" link="https://www.sittingonclouds.org/" /><Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" />:simple-icons-mega::simple-icons-mediafire:
+- [Sitting on Clouds](https://www.sittingonclouds.net/) :simple-icons-mega::simple-icons-mediafire:<Badge type="info" text="2" link="https://www.sittingonclouds.com/" /><Badge type="info" text="3" link="https://www.sittingonclouds.org/" /><Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" />
 - [SquidBoard](https://www.squid-board.org/) :mdi-account::simple-icons-mega::simple-icons-mediafire::mdi-google-drive:
 - [HCS VGM Archive](https://vgm.hcs64.com/) :mdi-download:
 - [VGM Preservation Foundation](https://www.vgmpf.com/Wiki/index.php) :mdi-download:
@@ -148,7 +148,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 ## General
 - [asia DREAM radio](https://asiadreamradio.torontocast.stream/stations/en/index.html) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://asiadreamradio.torontocast.stream/stations/newstream.html" />
 - [J1 Radio](https://www.j1fm.tokyo/player/j1hits/) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://www.j1fm.tokyo/listen/" />
-- [Nightwave Plaza](https://plaza.one/) [:mdi-github:](https://github.com/nightwaveplaza/plaza) [:mdi-android:](https://play.google.com/store/apps/details?id=one.plaza.nightwaveplaza) [:ic-baseline-apple:](https://apps.apple.com/us/app/nightwave-plaza/id1532678227) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://plaza.one/plaza.m3u" /><Badge type="info" text="Vaporwave" />
+- [Nightwave Plaza](https://plaza.one/) [:mdi-android:](https://play.google.com/store/apps/details?id=one.plaza.nightwaveplaza) [:ic-baseline-apple:](https://apps.apple.com/us/app/nightwave-plaza/id1532678227) [:mdi-github:](https://github.com/nightwaveplaza/plaza) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://plaza.one/plaza.m3u" /><Badge type="info" text="Vaporwave" />
 - [Patchwork Radio](https://patchwork.moekyun.me/radio) :glowing-star: <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://a4.asurahosting.com/public/patchworkarchive/playlist.m3u" /><Badge type="info" text="VTuber" />
 - [Sasalele Music Station](https://basic.pp.ua/) [:mdi-github:](https://github.com/Mikeexe2/Sasalele-Music-Station) <Badge type="info" text="Aggregator" />
 - [Wapchan](https://radio.wapchan.org/public/wapfm) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://radio.wapchan.org/public/wapfm/playlist.pls" /><Badge type="info" text="City Pop" />
@@ -156,9 +156,9 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 
 ## Anime
 - [Anime(bits)](https://radio.animebits.moe/) <Badge type="info" icon="i-material-symbols-download-2" text="FLAC" link="https://radio.animebits.moe/m3u/stream192.mp3.m3u" />
-- [Anison.fm](https://en.anison.fm/) :glowing-star: <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="https://anison.fm/anison.m3u" /> :flag-united-kingdom: :flag-russia:
+- [Anison.fm](https://en.anison.fm/) :glowing-star: <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="https://anison.fm/anison.m3u" /> :flag-united-kingdom::flag-russia:
 - [chiru.no](https://chiru.no/) <Badge type="info" icon="i-material-symbols-download-2" text="FLAC" link="https://chiru.no/?chiru.no.m3u" />
-- [Greek Otaku Radio](https://goradio.gr/homepage) <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="http://192.99.4.210:2199/tunein/greekota.pls" /> :flag-united-kingdom: :flag-greece:
+- [Greek Otaku Radio](https://goradio.gr/homepage) <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="http://192.99.4.210:2199/tunein/greekota.pls" /> :flag-united-kingdom::flag-greece:
 - [JPopSuki](http://jpopsuki.fm/) <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="http://jpopsuki.fm:2199/tunein/jpopsuki-stream.pls" />
 - [Listen.moe](https://listen.moe/) <Badge type="info" text="128kbps" icon="i-material-symbols-download-2" link="https://listen.moe/m3u8/jpop.m3u" />
 - [R/a/dio](https://r-a-d.io/) <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://r-a-d.io/assets/main.mp3.m3u" />
@@ -324,35 +324,35 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 ## Player
 
 ### Local
-- [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player) :mdi-android: :material-symbols-lock-outline:
-- [Flacbox](https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256) :ic-baseline-apple: :material-symbols-lock-outline:
-- [Oto Music Player](https://play.google.com/store/apps/details?id=com.piyush.music) :mdi-android: :material-symbols-lock-outline:
+- [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player) :mdi-android::material-symbols-lock-outline:
+- [Flacbox](https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256) :ic-baseline-apple::material-symbols-lock-outline:
+- [Oto Music Player](https://play.google.com/store/apps/details?id=com.piyush.music) :mdi-android::material-symbols-lock-outline:
 - [Musicolet Music Player](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) :material-symbols-lock-outline:
-- [Poweramp](https://powerampapp.com/) :glowing-star: :material-symbols-lock-outline: :material-symbols-credit-card-outline:
-- [USB Audio Player PRO](https://play.google.com/store/apps/details?id=com.extreamsd.usbaudioplayerpro&hl=en&gl=US) :material-symbols-lock-outline: :material-symbols-credit-card-outline: :mdi-android:
+- [Poweramp](https://powerampapp.com/) :glowing-star::material-symbols-lock-outline::material-symbols-credit-card-outline:
+- [USB Audio Player PRO](https://play.google.com/store/apps/details?id=com.extreamsd.usbaudioplayerpro&hl=en&gl=US) :mdi-android::material-symbols-lock-outline::material-symbols-credit-card-outline:
 
 ### Online
 - [**Youtube Music**](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
   - [Revanced Music](https://github.com/j-hc/revanced-magisk-module/releases)
-  - [Innertune](https://github.com/z-huang/InnerTune) :glowing-star: :mdi-android:
+  - [Innertune](https://github.com/z-huang/InnerTune) :glowing-star::mdi-android:
   - [OuterTune](https://github.com/DD3Boh/OuterTune)
   - [RiMusic](https://github.com/fast4x/RiMusic) :mdi-android:
   - [SimpMusic](https://github.com/maxrave-dev/SimpMusic) :mdi-android:
 - [**Spotify**](https://www.spotify.com/us/download/) :material-symbols-lock-outline:
-  - [xManager](https://www.xmanagerapp.com/) :mdi-android: :material-symbols-lock-outline:
-  - [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) :ic-baseline-apple: :material-symbols-lock-outline:
-- [Apple Music](https://apps.apple.com/us/app/apple-music/id1108187390) :ic-baseline-apple: :material-symbols-lock-outline:
+  - [xManager](https://www.xmanagerapp.com/) :mdi-android::material-symbols-lock-outline:
+  - [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) :ic-baseline-apple::material-symbols-lock-outline:
+- [Apple Music](https://apps.apple.com/us/app/apple-music/id1108187390) :ic-baseline-apple::material-symbols-lock-outline:
 - [ReFreezer](https://github.com/DJDoubleD/refreezer) :mdi-android: `Deezer` 
 - [Echo](https://github.com/brahmkshatriya/echo) :mdi-android: `General`
 - [Harmony Music](https://github.com/anandnet/Harmony-Music) :mdi-android: `YouTube`
-- [Soundbound](https://soundbound.app/) :mdi-android: :material-symbols-lock-outline: `General`
-- [Transistor](https://codeberg.org/y20k/transistor) :mdi-android: :material-symbols-lock-outline: `Radio`
+- [Soundbound](https://soundbound.app/) :mdi-android::material-symbols-lock-outline: `General`
+- [Transistor](https://codeberg.org/y20k/transistor) :mdi-android::material-symbols-lock-outline: `Radio`
 
 ### Audiobook
 - [Voice](https://github.com/PaulWoitaschek/Voice) :mdi-android:
-- [mAbook Audiobook Player](https://play.google.com/store/apps/details?id=mindmine.audiobook) :mdi-android: :material-symbols-lock-outline: :material-symbols-add-shopping-cart-rounded:
-- [Smart AudioBook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer) :mdi-android: :material-symbols-lock-outline: :material-symbols-add-shopping-cart-rounded:
-- [Sirin Audiobook Player](https://play.google.com/store/apps/details?id=com.sirin.android) :mdi-android: :material-symbols-lock-outline: :material-symbols-add-shopping-cart-rounded:
+- [mAbook Audiobook Player](https://play.google.com/store/apps/details?id=mindmine.audiobook) :mdi-android::material-symbols-add-shopping-cart-rounded::material-symbols-lock-outline:
+- [Smart AudioBook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer) :mdi-android::material-symbols-add-shopping-cart-rounded::material-symbols-lock-outline:
+- [Sirin Audiobook Player](https://play.google.com/store/apps/details?id=com.sirin.android) :mdi-android::material-symbols-add-shopping-cart-rounded::material-symbols-lock-outline:
 
 ## Tools
 
@@ -366,11 +366,11 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
   - [SongSync](https://github.com/Lambada10/SongSync)
 - **Scrobbler**
   - [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) :mdi-lastfm::mdi-android:
-  - [Marvis Pro](https://apps.apple.com/au/app/marvis-pro/id1447768809) :mdi-lastfm::ic-baseline-apple: :material-symbols-lock-outline:
+  - [Marvis Pro](https://apps.apple.com/au/app/marvis-pro/id1447768809) :mdi-lastfm::ic-baseline-apple::material-symbols-lock-outline:
 - **Others**
   - [MusicSearch](https://github.com/lydavid/MusicSearch) :mdi-android:<Badge type="info" text="MusicBrainz" />
   - [Seeker](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1) :mdi-android:<Badge type="info" text="Soulseek" />
-  - [Stats.fm](https://stats.fm/) :mdi-spotify::mdi-android::ic-baseline-apple: :material-symbols-lock-outline:
+  - [Stats.fm](https://stats.fm/) :mdi-spotify::mdi-android::ic-baseline-apple::material-symbols-lock-outline:
 
 
 ![](/music/mpc.webp)
@@ -379,15 +379,15 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 ## Player
 
 ### Local
-- [AIMP](https://www.aimp.ru/) :glowing-star: :ic-baseline-window::mingcute-linux-fill: :material-symbols-lock-outline:
+- [AIMP](https://www.aimp.ru/) :glowing-star::ic-baseline-window::mingcute-linux-fill::material-symbols-lock-outline:
 - [DeaDBeeF](https://deadbeef.sourceforge.io/) :mingcute-linux-fill:
 - [Elisa](https://apps.kde.org/elisa/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Foobar2000](https://www.foobar2000.org/) :glowing-star: :ic-baseline-window::ic-baseline-apple: :material-symbols-lock-outline:
+- [Foobar2000](https://www.foobar2000.org/) :glowing-star::ic-baseline-window::ic-baseline-apple::material-symbols-lock-outline:
   - :material-symbols-subdirectory-arrow-right: [Foobar2000 add-ons](#foobar2000-add-ons)
 - [Fooyin](https://github.com/fooyin/fooyin)
-- [MusicBee](https://www.getmusicbee.com/) :ic-baseline-window: :material-symbols-lock-outline:
+- [MusicBee](https://www.getmusicbee.com/) :ic-baseline-window::material-symbols-lock-outline:
 - [Strawberry](https://www.strawberrymusicplayer.org/) :mingcute-linux-fill:
-- [WACUP](https://getwacup.com/) :ic-baseline-window: :material-symbols-lock-outline:
+- [WACUP](https://getwacup.com/) :ic-baseline-window::material-symbols-lock-outline:
 - [Amberol](https://apps.gnome.org/Amberol/) :mingcute-linux-fill:
 - [Tauon Music Box](https://tauonmusicbox.rocks/) :ic-baseline-window::mingcute-linux-fill: <Badge type="info" text="Synced Lyrics" link="https://github.com/Taiko2k/TauonMusicBox/wiki/Lyrics#synced-lyrics" />
 
@@ -501,15 +501,15 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 ## Others
 
 ### Checker / Visualizer
-- [Bitter](https://www.stillwellaudio.com/plugins/bitter/) :ic-baseline-window::ic-baseline-apple: :material-symbols-lock-outline:
+- [Bitter](https://www.stillwellaudio.com/plugins/bitter/) :ic-baseline-window::ic-baseline-apple::material-symbols-lock-outline:
 - [cambia LogTools](https://logs.musichoarders.xyz/) :mdi-firefox::mingcute-chrome-fill: [:mdi-github:](https://github.com/arg274/cambia)
 - [Sonic Visualiser](https://www.sonicvisualiser.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/sonic-visualiser/sonic-visualiser/)
-- [Spek](https://www.spek.cc/) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/alexkay/spek)
+- [Spek](https://www.spek.cc/) :glowing-star::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/alexkay/spek)
 
 ### Tagger
-- [MP3Tag](https://www.mp3tag.de/en/) :ic-baseline-window::ic-baseline-apple: :material-symbols-lock-outline:
+- [MP3Tag](https://www.mp3tag.de/en/) :ic-baseline-window::ic-baseline-apple::material-symbols-lock-outline:
 - [MusicBrainz Picard](https://picard.musicbrainz.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/metabrainz/picard)
-- [TagScanner](https://www.xdlab.ru/en/) :ic-baseline-window: :material-symbols-lock-outline:
+- [TagScanner](https://www.xdlab.ru/en/) :ic-baseline-window::material-symbols-lock-outline:
 - [beets](https://beets.io/) [:mdi-github:](https://github.com/beetbox/beets)<Badge type="info" text="Guide" link="https://beets.readthedocs.io/en/stable/index.html" />
 
 ### Misc

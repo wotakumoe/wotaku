@@ -24,7 +24,7 @@ customDescription: Adblocking Solutions for every device
 ## Browser
 
 - **Extension**
-  - [uBlock Origin](https://github.com/gorhill/uBlock) :glowing-star: :mdi-firefox::mingcute-chrome-fill:
+  - [uBlock Origin](https://github.com/gorhill/uBlock) :glowing-star::mdi-firefox::mingcute-chrome-fill:
     - [uBO Website Fixes](https://old.reddit.com/r/uBlockOrigin/wiki/solutions/)
   - [uBO Lite](https://github.com/uBlockOrigin/uBOL-home) :mdi-firefox::mingcute-chrome-fill:
   - [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html) :mdi-firefox::mingcute-chrome-fill:

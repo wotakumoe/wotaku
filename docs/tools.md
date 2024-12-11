@@ -38,10 +38,10 @@ outline: [1,2]
 
 - **Local**
   - [mpvKt](https://github.com/abdallahmehiz/mpvKt) :glowing-star: <Badge type="tip" text="Nightly" link="https://nightly.link/abdallahmehiz/mpvKt/workflows/nightlies/main" /> :mdi-android:
-  - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en&gl=US) :glowing-star: :mdi-android: :material-symbols-lock-outline:
+  - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en&gl=US) :glowing-star::mdi-android::material-symbols-lock-outline:
   - [mpv-android](https://github.com/mpv-android/mpv-android) [:mdi-android:](https://play.google.com/store/apps/details?id=is.xyz.mpv&hl=en&gl=US)
   - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) :mdi-android:
-  - [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) :ic-baseline-apple: :material-symbols-lock-outline:
+  - [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) :ic-baseline-apple::material-symbols-lock-outline:
 - **Online**
   - [Revanced](https://revanced.app/) :mdi-youtube::mdi-android:
   - [Libretube](https://libretube.dev/) :mdi-youtube::mdi-android:
@@ -56,7 +56,7 @@ outline: [1,2]
   - [Aurora Store](https://auroraoss.com/) :mdi-android:
   - [Neo Store](https://github.com/NeoApplications/Neo-Store) :mdi-android:
   - [Droid-ify](https://github.com/Droid-ify/client) :mdi-android:
-  - [Sideloadly](https://sideloadly.io/) :ic-baseline-apple: :material-symbols-lock-outline:
+  - [Sideloadly](https://sideloadly.io/) :ic-baseline-apple::material-symbols-lock-outline:
   - [SideStore](https://sidestore.io/) :ic-baseline-apple:
 - **Misc**
   - [APKUpdater](https://github.com/rumboalla/apkupdater) :mdi-android:
@@ -105,7 +105,7 @@ outline: [1,2]
 
 ### Media
 
-  - [yt-dlp](https://github.com/yt-dlp/yt-dlp) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+  - [yt-dlp](https://github.com/yt-dlp/yt-dlp) :glowing-star::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
     - [yt-dlp interface](https://github.com/ErrorFlynn/ytdlp-interface)
     - [yt-dlp GUI](https://github.com/kannagi0303/yt-dlp-gui)
     - [yt-dlp GUI Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer)
@@ -142,7 +142,7 @@ outline: [1,2]
 - **Player**
   - [IINA](https://iina.io/) :ic-baseline-apple:
   - [MPC-HC](https://github.com/clsid2/mpc-hc) :ic-baseline-window:<Badge type="info" text="Codec guide" link="https://codecguide.com/media_player_classic.htm"/><Badge type="tip" text="Guide" link="https://kokomins.wordpress.com/2021/03/27/mpc-hc-and-madvr-setup-guide/" />
-  - [mpv](https://mpv.io/) :glowing-star: :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+  - [mpv](https://mpv.io/) :glowing-star::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
     - :material-symbols-subdirectory-arrow-right: [mpv Resources](#mpv)
   - [SMPlayer](https://www.smplayer.info/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
   - [K-Lite Codec Pack](https://codecguide.com/download_kl.htm) :ic-baseline-window:
@@ -178,7 +178,7 @@ outline: [1,2]
 - [Aegisub](https://github.com/arch1t3cht/Aegisub) :ic-baseline-window::mingcute-linux-fill:<Badge type="tip" text="Original" link="https://github.com/arch1t3cht/Aegisub" />
 - [AviSynth+](https://avs-plus.net/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/AviSynth/AviSynthPlus)
 - [gMKVExtractGUI](https://sourceforge.net/projects/gmkvextractgui/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [MKVcleaver](https://www.videohelp.com/software/MKVcleaver) :ic-baseline-window: :material-symbols-lock-outline:
+- [MKVcleaver](https://www.videohelp.com/software/MKVcleaver) :ic-baseline-window::material-symbols-lock-outline:
 - [MKV Extract](https://qgustavor.github.io/mkv-extract/en/) :mdi-earth:
 - [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) :ic-baseline-window:
 - [mpvQC](https://github.com/mpvqc/mpvQC) :ic-baseline-window:

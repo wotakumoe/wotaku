@@ -64,9 +64,9 @@ outline: [1,2]
 :::
 
 ### Local
-- [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :glowing-star::material-symbols-lock-outline::material-symbols-add-shopping-cart-rounded:
-- [Kuro Reader +](https://kurotoshiro.dev/) :material-symbols-lock-outline::material-symbols-add-shopping-cart-rounded:
-- [CDisplayEx Comic Reader](https://play.google.com/store/apps/details?id=com.progdigy.cdisplay.free) :material-symbols-lock-outline::material-symbols-add-shopping-cart-rounded:
+- [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :glowing-star::material-symbols-add-shopping-cart-rounded::material-symbols-lock-outline:
+- [Kuro Reader +](https://kurotoshiro.dev/) :material-symbols-add-shopping-cart-rounded::material-symbols-lock-outline:
+- [CDisplayEx Comic Reader](https://play.google.com/store/apps/details?id=com.progdigy.cdisplay.free) :material-symbols-add-shopping-cart-rounded::material-symbols-lock-outline:
 
 ## Novel Readers
 
@@ -79,8 +79,8 @@ outline: [1,2]
 
 
 ### Local
-- [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) :material-symbols-lock-outline::material-symbols-add-shopping-cart-rounded:
-- [ReadEra](https://play.google.com/store/apps/details?id=org.readera) :material-symbols-lock-outline::material-symbols-add-shopping-cart-rounded:
+- [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) :material-symbols-add-shopping-cart-rounded::material-symbols-lock-outline:
+- [ReadEra](https://play.google.com/store/apps/details?id=org.readera) :material-symbols-add-shopping-cart-rounded::material-symbols-lock-outline:
 - [Lithium: EPUB Reader](https://play.google.com/store/apps/details?id=com.faultexception.reader&hl=en&gl=US) :material-symbols-lock-outline:
 - [Book's Story](https://github.com/Acclorite/book-story)
 
@@ -124,13 +124,13 @@ Check out [**CFW's iOS guide**](https://ios.cfw.guide/) & [**The Apple Wiki**](h
 - [Paperback](https://paperback.moe/) [:mdi-puzzle:](/guides/tech/repo#ios) [:mdi-github:](https://github.com/Paperback-iOS/app)
 - [Aidoku](https://aidoku.app/) [:mdi-puzzle:](/guides/tech/repo#ios) [:mdi-github:](https://github.com/Aidoku/Aidoku)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
-- [Tachimanga](https://tachimanga.app/) :material-symbols-lock-outline::material-symbols-add-shopping-cart-rounded: [:mdi-puzzle:](https://tachimanga.app/help/guides/adding-repos.html)
+- [Tachimanga](https://tachimanga.app/) :material-symbols-add-shopping-cart-rounded::material-symbols-lock-outline: [:mdi-puzzle:](https://tachimanga.app/help/guides/adding-repos.html)
 - [Suwatte](https://suwatte.mantton.com/) [:mdi-puzzle:](/guides/tech/repo#ios) <Badge type="tip" text="Converter" link="https://seyden.github.io/SuwatteConverter/suwatte" />
 - [Hanami](https://github.com/oolxg/Hanami)
 
 ### Local
-- [YACReader](https://apps.apple.com/app/id635717885) :glowing-star::material-symbols-lock-outline::material-symbols-credit-card-outline: [:mdi-airplane:](https://testflight.apple.com/join/5zhB7sRP)
-- [iComics](https://apps.apple.com/us/app/icomics/id493845493) :material-symbols-lock-outline::material-symbols-credit-card-outline:
+- [YACReader](https://apps.apple.com/app/id635717885) :glowing-star::material-symbols-credit-card-outline::material-symbols-lock-outline: [:mdi-airplane:](https://testflight.apple.com/join/5zhB7sRP)
+- [iComics](https://apps.apple.com/us/app/icomics/id493845493) :material-symbols-credit-card-outline::material-symbols-lock-outline:
 - [SideBooks](https://apps.apple.com/us/app/sidebooks/id409777225) :material-symbols-lock-outline:
 - [Panels](https://apps.apple.com/us/app/panels-comic-reader/id1236567663) :material-symbols-lock-outline:
 - [Manga Viewer](https://apps.apple.com/us/app/manga-viewer-cbz-cbr-reader/id1309007086) :material-symbols-lock-outline:
@@ -148,7 +148,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 :::
 
 ## Novel Readers
-- [Yomu](https://www.yomu-reader.com/) :material-symbols-lock-outline::material-symbols-credit-card-outline::iconoir-floppy-disk:
+- [Yomu](https://www.yomu-reader.com/) :material-symbols-credit-card-outline::material-symbols-lock-outline::iconoir-floppy-disk:
 
 ## Trackers
 - [AniHyou](https://apps.apple.com/us/app/anihyou-anilist-client/id1635777325)
