@@ -137,7 +137,7 @@ If you have recommendations for good sites in your native language or want to re
 
 | Category | Resources |
 |-|-|
-| Anime | [AGETV](https://github.com/muedsa/AGETV) <br> [Ani](https://github.com/open-ani/ani) <br> [Anime](https://github.com/lanlinju/Anime) <br> [Animeko](https://myani.org/) [:mdi-github:](https://github.com/open-ani/animeko) <br> [DMZJ](https://github.com/xiaoyaocz/flutter_dmzj) <br> [Kazumi](https://github.com/Predidit/Kazumi) <br> [Mediabox](https://github.com/RyensX/MediaBox) <br> [Miru App](https://miru.js.org/) <Badge text="Manga" /> <br> [Neko Anime](https://github.com/xioneko/neko-anime) <br> [oneAnime](https://github.com/Predidit/oneAnime) |
+| Anime | [AGETV](https://github.com/muedsa/AGETV) <br> [Ani](https://github.com/open-ani/ani) <br> [Anime](https://github.com/lanlinju/Anime) <br> [Animeko](https://myani.org/) [:mdi-github:](https://github.com/open-ani/animeko) <br> [DMZJ](https://github.com/xiaoyaocz/flutter_dmzj) <br> [Kazumi](https://github.com/Predidit/Kazumi) <br> [Mediabox](https://github.com/RyensX/MediaBox) <br> [Miru App](https://miru.js.org/) <Badge text="Manga" /><br> [Neko Anime](https://github.com/xioneko/neko-anime) <br> [oneAnime](https://github.com/Predidit/oneAnime) |
 | Manga | [PasteMangaX](https://github.com/crowforkotlin/pastemangax) <br> [kobi](https://github.com/niuhuan/kobi) <br> [MangaReader](https://github.com/youniaogu/MangaReader) |
 | Novels | [Hikari Novel](https://github.com/15dd/wenku8reader) <br> [Legado](https://github.com/gedoor/legado) <br> [LightNovelReader](https://github.com/dmzz-yyhyy/LightNovelReader) |
 | Tracker | [Bangumi](https://github.com/czy0729/Bangumi) <br> [Bangumi for Android](https://github.com/xiaoyvyv/bangumi) <br> [Bangumi MX](http://bgmx.mysxl.cn/) [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi) |
@@ -146,9 +146,9 @@ If you have recommendations for good sites in your native language or want to re
 
 | Category | Resources |
 |-|-|
-| Anime | [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) <Badge text="Downloader" /> <br> [Bangumi Renamer](https://github.com/nuthx/bangumi-renamer) |
-| Manga | [Bilibili manga downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) <Badge text="Downloader" /> <br> [Bilibili manga watermark remover](https://github.com/lanyeeee/bilibili-manga-watermark-remover) |
-| Others | [JProxy](https://github.com/LuckyPuppy514/jproxy) <Badge text=" Downloader" /> <br> [Novel downloader](https://github.com/404-novel-project/novel-downloader) |
+| Anime | [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) <Badge text="Downloader" /><br> [Bangumi Renamer](https://github.com/nuthx/bangumi-renamer) |
+| Manga | [Bilibili manga downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) <Badge text="Downloader" /><br> [Bilibili manga watermark remover](https://github.com/lanyeeee/bilibili-manga-watermark-remover) |
+| Others | [JProxy](https://github.com/LuckyPuppy514/jproxy) <Badge text=" Downloader" /><br> [Novel downloader](https://github.com/404-novel-project/novel-downloader) |
 
 ### Others
 
@@ -512,7 +512,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 | Category | Resources |
 |-|-|
 | General | [Nlight](https://github.com/brandonzorn/Nlight) |
-| Anime | [Aniship](https://github.com/progzone122/AniShip) <Badge text="Stream" /> <br> [AndLibria.Qt](https://github.com/anilibria/anilibria-winmaclinux) <Badge text="Stream" /> |
+| Anime | [Aniship](https://github.com/progzone122/AniShip) <Badge text="Stream" /><br> [AndLibria.Qt](https://github.com/anilibria/anilibria-winmaclinux) <Badge text="Stream" /> |
 | Script | [Watch and download on Shikimori](https://github.com/Malanavi/Watch-and-download-on-Shikimori) |
 | Extension | [Shikimorist](https://github.com/Hokid/shikimorist) :mingcute-chrome-fill: |
 

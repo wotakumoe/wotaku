@@ -119,7 +119,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 
 - [Doujin Cafe](https://discord.gg/doujincafe) :simple-icons-mega::simple-icons-mediafire::ic-round-cloud-download:
 - [Doujin Music](https://vk.com/wall-60027733) :mdi-download:
-- [Doujin Style](https://doujinstyle.com/) :simple-icons-mediafire:<Badge type="tip" text="Touhou" link="https://doujinstyle.com/?p=tlmc" /> <Badge type="tip" text="Downloader" link="https://github.com/Relepega/doujinstyle-downloader"/>
+- [Doujin Style](https://doujinstyle.com/) :simple-icons-mediafire:<Badge type="tip" text="Touhou" link="https://doujinstyle.com/?p=tlmc" /><Badge type="tip" text="Downloader" link="https://github.com/Relepega/doujinstyle-downloader"/>
 - [MikuDB](https://mikudb.moe/) :mdi-google-drive::mdi-magnet:
 - [Moriya Shrine](https://moriyashrine.org/) :mdi-magnet:
 - [Touhou Disc](https://alist.thdisc.tk) :mdi-download:

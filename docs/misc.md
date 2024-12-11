@@ -231,7 +231,7 @@ Illustrations now has its [own page](/art)!
 | Category | Websites |
 |---|---|
 | Search | [SauceNAO](https://saucenao.com/) :glowing-star: <br> [Trace](https://trace.moe/) [:mdi-github:](https://github.com/soruly/trace.moe) <br> [SauceKudasai](https://saucekudasai.com/) [:mdi-github:](https://github.com/ayushgptaa/SauceKudasai) <br> [Multi-service image search](https://iqdb.org/) |
-| Upscaling | [Waif2x](https://unlimited.waifu2x.net/) [:mdi-github:](https://github.com/nagadomi/waifu2x)<Badge type="tip" text="Cloud Ver" link="https://waifu2x.udp.jp/" /> <br> [WaifuXL](https://waifuxl.com/) [:mdi-github:](https://github.com/TheFutureGadgetsLab/WaifuXL) |
+| Upscaling | [Waif2x](https://unlimited.waifu2x.net/) [:mdi-github:](https://github.com/nagadomi/waifu2x)<Badge type="tip" text="Cloud Ver" link="https://waifu2x.udp.jp/" /><br> [WaifuXL](https://waifuxl.com/) [:mdi-github:](https://github.com/TheFutureGadgetsLab/WaifuXL) |
 | Others | [Imgtrans](https://touhou.ai/imgtrans/) [:mdi-github:](https://github.com/zyddnys/manga-image-translator) <br> [Slowpoke Pics](https://slow.pics/) |
 
 
@@ -262,9 +262,9 @@ Illustrations now has its [own page](/art)!
 |---|---|
 | Fan Projects | [Holodex](https://holodex.net/) <Badge type="info" text="Musicdex" link="https://music.holodex.net/" /> [:mdi-github:](https://github.com/HolodexNet) <br> [Ragtag Archive](https://archive.ragtag.moe/) [:mdi-github:](https://github.com/ragtag-archive) <br> [Patchwork Archive](https://patchwork.moekyun.me/) [:mdi-github:](https://github.com/Patchwork-Archive/) |
 | Database | [Amatsukaze](https://amatsukaze.rl404.com/) :glowing-star: [:mdi-github:](https://github.com/rl404/amatsukaze) <br> [Virtual YouTuber Wiki](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki) <br> [Good VTuber Subs](https://goodvtubersubs.com/) <br> [Hololist](https://hololist.net/) <br> [ironmouse Model Index](https://www.ironmousemodelindex.com/) <br> [VTBs in Bilibili!](https://vtbs.moe/) |
-| Stats | [VChama](https://vchama.xyz) :glowing-star: <Badge type="info" text="Schedule" /> <br> [vtstats](https://vt.poi.cat/) :glowing-star: <Badge type="info" text="Schedule" /><Badge text="Revenue"/> <br> [VSTATS](https://www.vstats.jp/) <br> [Userlocal VTuber](https://virtual-youtuber.userlocal.jp/) <Badge type="info" text="Stream Rank" link="https://live-ranking.userlocal.jp/vtuber-ranking" /><Badge type="info" text="Schedule" /> <br> [TwitchTracker](https://twitchtracker.com/) <br> [Streams Charts](https://streamscharts.com/) |
+| Stats | [VChama](https://vchama.xyz) :glowing-star: <Badge type="info" text="Schedule" /><br> [vtstats](https://vt.poi.cat/) :glowing-star: <Badge type="info" text="Schedule" /><Badge text="Revenue"/><br> [VSTATS](https://www.vstats.jp/) <br> [Userlocal VTuber](https://virtual-youtuber.userlocal.jp/) <Badge type="info" text="Stream Rank" link="https://live-ranking.userlocal.jp/vtuber-ranking" /><Badge type="info" text="Schedule" /><br> [TwitchTracker](https://twitchtracker.com/) <br> [Streams Charts](https://streamscharts.com/) |
 | Schedule | [VTuber Schedule](https://vtuberschedules.com/) <br> [Hololyzer](https://www.hololyzer.net/) <br> [vTubie](https://vtubie.com/) |
-| Others | [VTuber Highlights](https://vtuber.atodeyo.com/) :flag-japan: <Badge type="info" text="News" /> <br> [VTuber Newsdrop](https://vtubernewsdrop.com/) <Badge type="info" text="News" /> <br> [Reincar](https://reincar.net/) <Badge type="info" text="News" /> |
+| Others | [VTuber Highlights](https://vtuber.atodeyo.com/) :flag-japan: <Badge type="info" text="News" /><br> [VTuber Newsdrop](https://vtubernewsdrop.com/) <Badge type="info" text="News" /><br> [Reincar](https://reincar.net/) <Badge type="info" text="News" /> |
 
 
 
@@ -317,7 +317,7 @@ Illustrations now has its [own page](/art)!
 
 ## Games
 
-- [holo Indie](https://store.steampowered.com/publisher/holo_Indie) :glowing-star: <Badge type="tip" text="Info" link="https://hololive.wiki/wiki/Holo_Indie" /> <tooltip>We won't add the games here that are under holo Indie</tooltip>
+- [holo Indie](https://store.steampowered.com/publisher/holo_Indie) :glowing-star: <Badge type="tip" text="Info" link="https://hololive.wiki/wiki/Holo_Indie" /><tooltip>We won't add the games here that are under holo Indie</tooltip>
 - [Days With Ollie](https://store.steampowered.com/app/2776750/Days_With_Ollie/) :material-symbols-credit-card-outline:
 - [Delivering Hope](https://david-wu-softdev.itch.io/delivering-hope-hololive-fangame)  
 - [Holo on Suika](https://tkgames.jp/holo_watermelon.html)  

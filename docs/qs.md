@@ -159,7 +159,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
   - [JDownloader 2](https://jdownloader.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::material-symbols-lock-outline:<Badge text="Debloat" link="/guides/misc#jdownloader-ad-removal" />
 - **Torrent**
   - [libretorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) :mdi-android:
-  - [qBittorrent](https://www.qbittorrent.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge text="Enhanced" link="https://github.com/c0re100/qBittorrent-Enhanced-Edition" /> <Badge text="Dark theme" link="https://github.com/maboroshin/qBittorrentDarktheme" />
+  - [qBittorrent](https://www.qbittorrent.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge text="Enhanced" link="https://github.com/c0re100/qBittorrent-Enhanced-Edition" /><Badge text="Dark theme" link="https://github.com/maboroshin/qBittorrentDarktheme" />
   - [Transmission](https://transmissionbt.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
 
 ::: details Suggested VPN services
