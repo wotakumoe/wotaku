@@ -33,6 +33,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
   - [Dantotsu](https://dantotsuapp.netlify.app/) [:simple-icons-github:](https://github.com/rebelonion/Dantotsu) [:mdi-puzzle:](/guides/tech/repo)
   - [AnimeTV](https://amarullz.com/) [:simple-icons-github:](https://github.com/amarullz/AnimeTV)
 - **iOS**
+  - [Ryu](https://github.com/cranci1/Ryu) [:mdi-airplane:](https://testflight.apple.com/join/Sxyg9JXF)
   - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - **PC**
   - [Miru](https://miru.watch/) :glowing-star::simple-icons-windows::simple-icons-apple::simple-icons-linux::lucide-magnet: [:simple-icons-github:](https://github.com/ThaUnknown/miru/)
