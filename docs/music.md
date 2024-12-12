@@ -513,7 +513,7 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 - [beets](https://beets.io/) [:mdi-github:](https://github.com/beetbox/beets)<Badge type="info" text="Guide" link="https://beets.readthedocs.io/en/stable/index.html" />
 
 ### Misc
-- [Karaoke Mugen](https://mugen.karaokes.moe/en/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-gitlab:](https://gitlab.com/karaokemugen/code/karaokemugen-app)
+- [Karaoke Mugen](https://mugen.karaokes.moe/en/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:simple-icons-gitlab:](https://gitlab.com/karaokemugen/code/karaokemugen-app)
 
 
 

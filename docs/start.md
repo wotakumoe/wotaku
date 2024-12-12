@@ -62,8 +62,8 @@ outline: [2-3]
 Wotaku fetches icons from [**Icones**](https://icones.js.org/). All the added iconpacks are [**here**](https://github.com/wotakumoe/wotaku/network/dependencies?page=1&q=iconify-json%2F).
 
 ### Writing Rules
-- For in-line -> :package name-icon name:
-- For inside button, page icon -> :i-package name-icon name:
+- In-line -> :package name-icon name:
+- Inside button, page icon -> :i-package name-icon name:
 
 Examples:
 - `:ic-baseline-window:` -> :ic-baseline-window:
@@ -85,8 +85,6 @@ Twitter emoji is the default iconpack for wotaku. For twemoji, you dont have to 
 You have to add the iconpack manually in `docs\.vitepress\configs\emoji.ts`. Otherwise it wont work. Follow the already added ones as example.
 
 
-<Badge type="tip" icon="i-simple-alamy" text="Twitter" link="https://x.com/animecorner_ac" />
-
 ### Sorting
 
 | Description | Icon |
@@ -95,8 +93,7 @@ You have to add the iconpack manually in `docs\.vitepress\configs\emoji.ts`. Oth
 | System | :mdi-android::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-firefox::mingcute-chrome-fill::mdi-earth: |
 | Type | :material-symbols-cloud-download-outline-rounded::lucide-magnet::iconoir-floppy-disk: |
 | Price | :material-symbols-add-shopping-cart-rounded::material-symbols-credit-card-outline: |
-| Closed Source | :material-symbols-lock-outline: |
-| Github | :mdi-github: |
+| Source | :material-symbols-lock-outline::mdi-github::simple-icons-gitlab::simple-icons-codeberg: |
 
 **Rules**
 1. There will be no space between icons

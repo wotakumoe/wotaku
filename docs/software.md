@@ -23,7 +23,7 @@ outline: [1,2]
 
 ::: details More Apps
 - [Awery](https://github.com/MrBoomDeveloper/Awery)
-- [Himitsu](https://repodevil.vercel.app/) [:mdi-gitlab:](https://gitlab.com/RepoDevil/himitsu)
+- [Himitsu](https://repodevil.vercel.app/) [:simple-icons-gitlab:](https://gitlab.com/RepoDevil/himitsu)
 - [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one)
   - :material-symbols-subdirectory-arrow-right: [Stremio Tools](#anime-tools)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
@@ -73,7 +73,7 @@ outline: [1,2]
 ### Online
 - [LN Reader](https://github.com/LNReader/lnreader)
 - [Quicknovel](https://github.com/LagradOst/QuickNovel)
-- [Shosetsu](https://shosetsu.app/) [:mdi-gitlab:](https://gitlab.com/shosetsuorg/shosetsu)
+- [Shosetsu](https://shosetsu.app/) [:simple-icons-gitlab:](https://gitlab.com/shosetsuorg/shosetsu)
 - [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha)
 - [Ranobe](https://github.com/ranobe-org/ranobe)
 
