@@ -211,8 +211,8 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 
 ## Communities
 
-- [r/hentai](https://old.reddit.com/r/hentai/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/rhentai" />
-- [r/pornhwa](https://old.reddit.com/r/pornhwa/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/epjkRVp7gD" />
+- [r/hentai](https://old.reddit.com/r/hentai/) [:simple-icons-discord:](https://discord.gg/rhentai)
+- [r/pornhwa](https://old.reddit.com/r/pornhwa/) [:simple-icons-discord:](https://discord.gg/epjkRVp7gD)
 - [:simple-icons-4chan:/h/](https://boards.4chan.org/h/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/h/" /><Badge type="tip" text="Archive" link="https://archived.moe/h/" />
 - [:simple-icons-4chan:/e/](https://boards.4chan.org/e/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/e/" /><Badge type="tip" text="Archive" link="https://archived.moe/e/" />
 - [r/Artistic_Hentai](https://old.reddit.com/r/Artistic_Hentai/)
@@ -221,10 +221,10 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [r/ecchi](https://old.reddit.com/r/ecchi/)
 - [r/hentaimemes](https://old.reddit.com/r/hentaimemes/)
 - [r/HENTAI_GIF](https://old.reddit.com/r/HENTAI_GIF/)
-- [r/rule34](https://old.reddit.com/r/rule34/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/zMrMhpZ" />
+- [r/rule34](https://old.reddit.com/r/rule34/) [:simple-icons-discord:](https://discord.gg/zMrMhpZ)
 - [r/thighdeology](https://old.reddit.com/r/thighdeology/)
-- [:simple-icons-4chan:JAV Thread](https://4channel.org/jp/jav) <Badge type="tip" text="FAQ" link="https://jav.now.sh/" />
-- [:ic-outline-discord: Rule34.xxx](https://discord.gg/rule34xxx)
+- [:simple-icons-4chan: JAV Thread](https://4channel.org/jp/jav) <Badge type="tip" text="FAQ" link="https://jav.now.sh/" />
+- [:simple-icons-discord: Rule34.xxx](https://discord.gg/rule34xxx)
 
 ## Scripts
 
