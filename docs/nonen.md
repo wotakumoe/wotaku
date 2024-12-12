@@ -177,7 +177,7 @@ If you have recommendations for good sites in your native language or want to re
 ### Manga
 
 - [Japscan](https://www.japscan.lol/)
-- [LPEBK](https://www.lpebk.com/forumv2/) <Badge type="info" text="Needs account" /><Badge type="info" text="DDL" />
+- [LPEBK](https://www.lpebk.com/forumv2/) :material-symbols-cloud-download-outline-rounded:<Badge type="info" text="Needs account" />
 - [Mangadraft](https://www.mangadraft.com/)
 - [Planete-BD](https://planete-bd.org/)
 - [Raijin Scans](https://raijinscans.fr/)
@@ -192,19 +192,19 @@ If you have recommendations for good sites in your native language or want to re
 ### Anime
 
 - [German Fansubbers' Index](https://anime-fansubs.de/)
-- [Amalgam Fansubs](https://amalgam-fansubs.moe/) <Badge type="info" text="Stream" /><Badge type="info" text="DDL" />
-- [Anime Archive](https://anime-archive.com/) <Badge type="info" text="DDL" />
-- [Anime Loads](https://www.anime-loads.org/) <Badge type="info" text="Stream" /><Badge type="info" text="DDL" />
-- [AniWorld](https://aniworld.to/) <Badge type="info" text="Stream" />
-- [Melon-Subs](https://melon-subs.de/) <Badge type="info" text="DDL" />
-- [NanaOne](https://nanaone.net/) <Badge type="info" text="DDL" />
-- [OtakuKingdom Subs](https://www.otakukingdom-subs.de/) <Badge type="info" text="DDL" />
-- [Shiroi-Fansubs](https://shiroi-fansubs.de/) <Badge type="info" text="DDL" />
-- [S.to](https://s.to/) <Badge type="tip" text="2" link="https://serienstream.to/" /><Badge type="info" text="Stream" />
-- [Umaru](https://www.umaru.to/home) <Badge type="info" text="Stream" />
+- [Amalgam Fansubs](https://amalgam-fansubs.moe/) :material-symbols-play-circle-outline::material-symbols-cloud-download-outline-rounded:
+- [Anime Archive](https://anime-archive.com/) :material-symbols-cloud-download-outline-rounded:
+- [Anime Loads](https://www.anime-loads.org/) :material-symbols-play-circle-outline::material-symbols-cloud-download-outline-rounded:
+- [AniWorld](https://aniworld.to/) :material-symbols-play-circle-outline:
+- [Melon-Subs](https://melon-subs.de/) :material-symbols-cloud-download-outline-rounded:
+- [NanaOne](https://nanaone.net/) :material-symbols-cloud-download-outline-rounded:
+- [OtakuKingdom Subs](https://www.otakukingdom-subs.de/) :material-symbols-cloud-download-outline-rounded:
+- [Shiroi-Fansubs](https://shiroi-fansubs.de/) :material-symbols-cloud-download-outline-rounded:
+- [S.to](https://s.to/) <Badge type="tip" text="2" link="https://serienstream.to/" />:material-symbols-play-circle-outline:
+- [Umaru](https://www.umaru.to/home) :material-symbols-play-circle-outline:
 
 ### Manga
-- [ComicMafia](https://comicmafia.to/?s=manga) <Badge type="info" text="DDL" />
+- [ComicMafia](https://comicmafia.to/?s=manga) :material-symbols-cloud-download-outline-rounded:
 - [Kanjiku](https://kanjiku.net/)
 - [Manga-Tube](https://manga-tube.me/)
 
@@ -213,7 +213,7 @@ If you have recommendations for good sites in your native language or want to re
 - [aniSearch](https://www.anisearch.de/forum/categories)
 - [Baka Board](https://baka-bewerbung.me/) <Badge type="info" text="Usenet" />
 - [littleAkiba](https://www.littleakiba.ch/)
-- [myGully](https://mygully.com/) <Badge type="info" text="Needs account" /><Badge type="info" text="DDL" />
+- [myGully](https://mygully.com/) :material-symbols-cloud-download-outline-rounded:<Badge type="info" text="Needs account" />
 - [Pirateboard](https://www.pirateboard.net/)
 - [Proxer](https://proxer.me/)
 
@@ -449,7 +449,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 ### Anime
 - [Anime Torrents Romania](https://animetorrents.ro/) <Badge type="info" text="Private" />
-- [DozaAnimată](https://www.dozaanimata.net/) <Badge type="info" text="Stream" />
+- [DozaAnimată](https://www.dozaanimata.net/) :material-symbols-play-circle-outline:
 
 
 ## Russian
@@ -469,7 +469,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Anisun](https://anisun.vercel.app/en) [:simple-icons-github:](https://github.com/notwindstone/anisun)
 - [ANIXART](https://anixart-tv.org/) <Badge type="info" text="Aggregator" />
 - [Averlist](https://averlist.ru/) [:simple-icons-github:](https://github.com/Averito/Averlist)
-- [Dark Libria](https://darklibria.it/) <Badge type="info" text="Stream" />:lucide-magnet:
+- [Dark Libria](https://darklibria.it/) :material-symbols-play-circle-outline::lucide-magnet:
 - [Dream Cast](https://dreamerscast.com/)
 - [Freedub Studio](https://freedubstudio.club/)
 - [Jut.su](https://jut.su/) <Badge type="info" text="Helper" link="https://github.com/Xeltone/Jut.su-Helper" />
@@ -511,7 +511,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 | Category | Resources |
 |-|-|
 | General | [Nlight](https://github.com/brandonzorn/Nlight) |
-| Anime | [Aniship](https://github.com/progzone122/AniShip) <Badge text="Stream" /><br> [AndLibria.Qt](https://github.com/anilibria/anilibria-winmaclinux) <Badge text="Stream" /> |
+| Anime | [Aniship](https://github.com/progzone122/AniShip) :material-symbols-play-circle-outline: <br> [AndLibria.Qt](https://github.com/anilibria/anilibria-winmaclinux) :material-symbols-play-circle-outline: |
 | Script | [Watch and download on Shikimori](https://github.com/Malanavi/Watch-and-download-on-Shikimori) |
 | Extension | [Shikimorist](https://github.com/Hokid/shikimorist) :simple-icons-googlechrome: |
 
@@ -629,7 +629,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 ### Others
 - [Tana.moe](https://tana.moe/)
 - [Tokuvn](https://tokuvn.com/)
-- [Vietnam Key FanClub](https://vnkeyfc.com/) <Badge type="info" text="DDL" />
+- [Vietnam Key FanClub](https://vnkeyfc.com/) :material-symbols-cloud-download-outline-rounded:
 
 ### Software
 
