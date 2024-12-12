@@ -135,7 +135,7 @@ You can use [**CBconvert**](https://github.com/gen2brain/cbconvert) to compress 
 :::
 
 :::details How do I setup my own manga server?
-Use [**Komga**](https://komga.org/). Read their [**docs**](https://komga.org/docs/introduction) to understand the setup process. You can join their [:simple-icons-discord:**discord server**](https://discord.gg/TdRpkDu) for further support.
+Use [**Komga**](https://komga.org/). Read their [**docs**](https://komga.org/docs/introduction) to understand the setup process. You can join their [:simple-icons-discord:](https://discord.gg/TdRpkDu) for further support.
 :::
 
 <br>

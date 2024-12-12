@@ -13,10 +13,10 @@ outline: [1,2]
 
 ## Anime Streaming
 
-- [Aniyomi](https://aniyomi.org/) :glowing-star: [:mdi-puzzle:](/guides/tech/repo) [:simple-icons-github:](https://github.com/aniyomiorg/aniyomi)
+- [Aniyomi](https://aniyomi.org/) :glowing-star: [:simple-icons-github:](https://github.com/aniyomiorg/aniyomi) [:mdi-puzzle:](/guides/tech/repo)
   - [Animetail](https://github.com/Dark25/Animetail2)
   - [Animiru](https://github.com/quickdesh/Animiru)
-- [Dantotsu](https://dantotsuapp.netlify.app/) [:mdi-puzzle:](/guides/tech/repo) [:simple-icons-github:](https://github.com/rebelonion/Dantotsu)
+- [Dantotsu](https://dantotsuapp.netlify.app/) [:simple-icons-github:](https://github.com/rebelonion/Dantotsu) [:mdi-puzzle:](/guides/tech/repo)
 - [Cloudstream](https://cloudstream.on.fleek.co/) [:simple-icons-github:](https://github.com/recloudstream/cloudstream)
 - [Migu](https://miguapp.pages.dev/) [:simple-icons-github:](https://github.com/NoCrypt/migu)
 - [AnimeTV](https://amarullz.com/) [:simple-icons-github:](https://github.com/amarullz/AnimeTV)
@@ -46,7 +46,7 @@ outline: [1,2]
 ## Manga Readers
 
 ### Online
-- [Mihon](https://mihon.app/) [:mdi-puzzle:](/guides/tech/repo) [:simple-icons-github:](https://github.com/mihonapp/mihon)
+- [Mihon](https://mihon.app/) [:simple-icons-github:](https://github.com/mihonapp/mihon) [:mdi-puzzle:](/guides/tech/repo)
   - [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:simple-icons-github:](https://github.com/jobobby04/TachiyomiSY)
   - [TachiyomiJ2K](https://mihon.app/forks/TachiyomiJ2K/) [:simple-icons-github:](https://github.com/Jays2Kings/tachiyomiJ2K)
   - [Yokai](https://mihon.app/forks/Yokai/) :glowing-star: [:simple-icons-github:](https://github.com/null2264/yokai)
@@ -57,7 +57,7 @@ outline: [1,2]
 - [TachiyomiAZ](https://mihon.app/forks/TachiyomiAZ/) <Badge type="info" text="Dev build" link="https://crafty.moe/tachiyomiAZ.apk" />[:simple-icons-github:](https://github.com/az4521/tachiyomiAZ)
 - [Animetail](https://github.com/Dark25/Animetail2)
 - [Aniyomi](https://aniyomi.org/) [:simple-icons-github:](https://github.com/aniyomiorg/aniyomi)
-- [Dantotsu](https://dantotsuapp.netlify.app/) [:mdi-puzzle:](/guides/tech/repo)[:simple-icons-github:](https://github.com/rebelonion/Dantotsu)
+- [Dantotsu](https://dantotsuapp.netlify.app/) [:simple-icons-github:](https://github.com/rebelonion/Dantotsu) [:mdi-puzzle:](/guides/tech/repo)
 - [Neko](https://github.com/nekomangaorg/Neko)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [Cubari](https://cubari.moe/) :mdi-earth:

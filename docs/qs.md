@@ -29,8 +29,8 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 ### Software
 
 - **Android**
-  - [Aniyomi](https://aniyomi.org/) :glowing-star: [:mdi-puzzle:](/guides/tech/repo) [:simple-icons-github:](https://github.com/aniyomiorg/aniyomi)
-  - [Dantotsu](https://dantotsuapp.netlify.app/) [:mdi-puzzle:](/guides/tech/repo) [:simple-icons-github:](https://github.com/rebelonion/Dantotsu)
+  - [Aniyomi](https://aniyomi.org/) :glowing-star: [:simple-icons-github:](https://github.com/aniyomiorg/aniyomi) [:mdi-puzzle:](/guides/tech/repo)
+  - [Dantotsu](https://dantotsuapp.netlify.app/) [:simple-icons-github:](https://github.com/rebelonion/Dantotsu) [:mdi-puzzle:](/guides/tech/repo)
   - [AnimeTV](https://amarullz.com/) [:simple-icons-github:](https://github.com/amarullz/AnimeTV)
 - **iOS**
   - [Mangayomi](https://github.com/kodjodevf/mangayomi)
@@ -56,8 +56,8 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 ### Software
 
 - **Android**
-  - [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:mdi-puzzle:](/guides/tech/repo) [:simple-icons-github:](https://github.com/jobobby04/TachiyomiSY)
-  - [Yokai](https://mihon.app/forks/Yokai/) :glowing-star: [:mdi-puzzle:](/guides/tech/repo) [:simple-icons-github:](https://github.com/null2264/yokai)
+  - [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:simple-icons-github:](https://github.com/jobobby04/TachiyomiSY) [:mdi-puzzle:](/guides/tech/repo)
+  - [Yokai](https://mihon.app/forks/Yokai/) :glowing-star: [:simple-icons-github:](https://github.com/null2264/yokai) [:mdi-puzzle:](/guides/tech/repo)
   - [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :glowing-star::iconoir-floppy-disk::material-symbols-add-shopping-cart-rounded::material-symbols-lock-outline:
 - **iOS**
   - [Paperback](https://github.com/Paperback-iOS/app) [:mdi-puzzle:](/guides/tech/repo#ios)
