@@ -273,7 +273,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 
 ## Anime Tools
-- [Anicon](https://github.com/notdedsec/anicon) <Badge type="info" text="AniList" link="https://github.com/EnArvy/AniconforAnilist"/>:simple-icons-windows:
+- [Anicon for AniList](https://github.com/EnArvy/AniconforAnilist) :simple-icons-windows:
 - [AnimeJaNai](https://github.com/the-database/mpv-upscale-2x_animejanai)
 - [Anitomy](https://github.com/erengy/anitomy)
 - [GetFnative](https://github.com/YomikoR/GetFnative) <Badge type="info" text="getfscaler" link="https://github.com/Jaded-Encoding-Thaumaturgy/getfscaler"/>
