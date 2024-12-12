@@ -71,9 +71,9 @@ This is the main series. **Fate/Zero** is the series that took place before [**S
 ::: info Games
 Fate/Grand Order is gacha RPG game. To know the stories before Camelot, you can play the "**Fate/Grand Order**" which is available in both iOS and Android. There are two versions of the game. One is Japanese Version and another is the North American version. The Japanese version is 2 years ahead of the NA version. App downloads are region locked but you can sideload them from anywhere also playable without VPN.
 
-- **Japanese** <Badge type="tip" icon="i-mdi-android" text="Android" link="https://play.google.com/store/apps/details?id=com.aniplex.fategrandorder" /><Badge type="tip" icon="i-logos-apple-app-store" text="iOS" link="https://apps.apple.com/jp/app/fate-grand-order/id1015521325" />
+- **Japanese** <Badge type="tip" icon="i-simple-icons-android" text="Android" link="https://play.google.com/store/apps/details?id=com.aniplex.fategrandorder" /><Badge type="tip" icon="i-logos-apple-app-store" text="iOS" link="https://apps.apple.com/jp/app/fate-grand-order/id1015521325" />
 
-- **North American** <Badge type="tip" icon="i-mdi-android" text="Android" link="https://play.google.com/store/apps/details?id=com.aniplex.fategrandorder.en" /><Badge type="tip" icon="i-logos-apple-app-store" text="iOS" link="https://apps.apple.com/us/app/fate-grand-order-english/id1183802626" />
+- **North American** <Badge type="tip" icon="i-simple-icons-android" text="Android" link="https://play.google.com/store/apps/details?id=com.aniplex.fategrandorder.en" /><Badge type="tip" icon="i-logos-apple-app-store" text="iOS" link="https://apps.apple.com/us/app/fate-grand-order-english/id1183802626" />
 
 :::
 

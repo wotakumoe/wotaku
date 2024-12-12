@@ -65,11 +65,11 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
    - [YomiNinja](https://github.com/matt-m-o/YomiNinja)
 - **Others**
    - [Hoyolab Auto-sign](https://github.com/canaria3406/hoyolab-auto-sign)
-   - [Locale Emulator](https://github.com/xupefei/Locale-Emulator) :ic-baseline-window:
-   - [Locale Remulator](https://github.com/InWILL/Locale_Remulator) :ic-baseline-window:
+   - [Locale Emulator](https://github.com/xupefei/Locale-Emulator) :simple-icons-windows:
+   - [Locale Remulator](https://github.com/InWILL/Locale_Remulator) :simple-icons-windows:
    - [Megami Tensei Fusion Tools](https://aqiu384.github.io/megaten-fusion-tool/home)
-   - [Starward](https://github.com/Scighost/Starward) :ic-baseline-window:
-   - [thprac](https://github.com/touhouworldcup/thprac) :ic-baseline-window:
+   - [Starward](https://github.com/Scighost/Starward) :simple-icons-windows:
+   - [thprac](https://github.com/touhouworldcup/thprac) :simple-icons-windows:
 
 
 ## Info
@@ -91,7 +91,7 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 
 - [4Gamer](https://www.4gamer.net/) :flag-japan:
 - [Famitsu](https://www.famitsu.com/) :flag-japan:
-- [GachaRevenue](https://www.gacharevenue.com/) [:mdi-github:](https://github.com/zigamacele/gacharevenue)
+- [GachaRevenue](https://www.gacharevenue.com/) [:simple-icons-github:](https://github.com/zigamacele/gacharevenue)
 - [Gematsu](https://www.gematsu.com/)
 - [Frontline](https://www.frontlinejp.net/)
 - [Siliconera](https://www.siliconera.com/)
@@ -108,7 +108,7 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 ## osu!
 
 ### Websites
-- [osu!](https://osu.ppy.sh/) [:mdi-github:](https://github.com/ppy/osu)<Badge type="info" text="Official" />
+- [osu!](https://osu.ppy.sh/) [:simple-icons-github:](https://github.com/ppy/osu)<Badge type="info" text="Official" />
 - [Anisync](https://anisync.live/)
 - [BeatConnect](https://beatconnect.io/)
 - [osu.direct](https://osu.direct/home)
@@ -120,17 +120,17 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 
 ### Tools
 - [ani!Search](https://klof44.ca/ani-search/)
-- [Batch Beatmap Downloader](https://github.com/nzbasic/batch-beatmap-downloader) :ic-baseline-window:
-- [osu! Cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner) :ic-baseline-window:
-- [osu! Trainer](https://github.com/FunOrange/osu-trainer) :ic-baseline-window:
-- [sentakki](https://github.com/LumpBloom7/sentakki) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Tau Ruleset](https://taulazer.github.io/) :ic-baseline-window: [:mdi-github:](https://github.com/taulazer/tau)
+- [Batch Beatmap Downloader](https://github.com/nzbasic/batch-beatmap-downloader) :simple-icons-windows:
+- [osu! Cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner) :simple-icons-windows:
+- [osu! Trainer](https://github.com/FunOrange/osu-trainer) :simple-icons-windows:
+- [sentakki](https://github.com/LumpBloom7/sentakki) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
+- [Tau Ruleset](https://taulazer.github.io/) :simple-icons-windows: [:simple-icons-github:](https://github.com/taulazer/tau)
 
 ## Pokémon
 
 ### Wiki / Websites
 
-- [Pokémon](https://www.pokemon.com/us) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://www.pokemon.com/us/pokedex" /><Badge type="info" text="Official" />
+- [Pokémon](https://www.pokemon.com/us) <Badge type="info" text="Official" /> <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://www.pokemon.com/us/pokedex" />
 - [Bulbagarden](https://bulbagarden.net/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_National_Pok%C3%A9dex_number" />
 - [Serebii.net](https://www.serebii.net/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://www.serebii.net/pokemon/" />
 - [Pokémon Database](https://pokemondb.net/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://pokemondb.net/pokedex" />
@@ -151,14 +151,14 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 - [Pokémon Revolution](https://pokemonrevolution.net/home)
 - [Pokémon Showdown!](https://play.pokemonshowdown.com/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://dex.pokemonshowdown.com/" />
 - [Pokémon Xenoverse](https://pokemonxenoverse.com/)
-- [PokéRogue](https://pokerogue.net/) [:mdi-github:](https://github.com/pagefaultgames/pokerogue)
+- [PokéRogue](https://pokerogue.net/) [:simple-icons-github:](https://github.com/pagefaultgames/pokerogue)
 - [Who's that Pokémon?](https://gearoid.me/pokemon/)
 
 
 ### Tools
-- [dataDex](https://play.google.com/store/apps/details?id=com.talzz.datadex) :mdi-android:
-- [Goldex](https://play.google.com/store/apps/details?id=com.goldex) :mdi-android:
-- Nuzlocke Chart [:mdi-android:](https://play.google.com/store/apps/details?id=com.pseudocode.nuzlockechart) [:ic-baseline-apple:](https://apps.apple.com/us/app/nuzlocke-chart/id1573090300)
+- [dataDex](https://play.google.com/store/apps/details?id=com.talzz.datadex) :simple-icons-android:
+- [Goldex](https://play.google.com/store/apps/details?id=com.goldex) :simple-icons-android:
+- Nuzlocke Chart [:simple-icons-android:](https://play.google.com/store/apps/details?id=com.pseudocode.nuzlockechart) [:simple-icons-apple:](https://apps.apple.com/us/app/nuzlocke-chart/id1573090300)
 - [Nuzlocke Tracker](https://nuzlocke.app/)
 - [PKHeX](https://github.com/kwsch/PKHeX)
 - [Poké Transporter GB](https://github.com/GearsProgress/Poke_Transporter_GB)

@@ -94,13 +94,13 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 
 ## Boards
 
-- [:mdi-clover:/a/ - Anime & Manga](https://boards.4channel.org/a/)
-- [:mdi-clover:/c/ - Anime/Cute](https://boards.4channel.org/c/)
-- [:mdi-clover:/cgl/ - Cosplay & EGL](https://boards.4channel.org/cgl/)
-- [:mdi-clover:/co/ - Comics & Cartoons](https://boards.4channel.org/co/)
-- [:mdi-clover:/e/ - Ecchi](https://boards.4channel.org/e/)
-- [:mdi-clover:/h/ - Hentai](https://boards.4channel.org/h/)
-- [:mdi-clover:/m/ - Mecha](https://boards.4channel.org/m/)
-- [:mdi-clover:/jp/ - Otaku Culture](https://boards.4channel.org/jp/)
-- [:mdi-clover:/vt/ - Virtual YouTubers](https://boards.4channel.org/vt/)
-- [:mdi-clover:/w/ - Anime/Wallpapers](https://boards.4channel.org/w/)
+- [:simple-icons-4chan:/a/ - Anime & Manga](https://boards.4channel.org/a/)
+- [:simple-icons-4chan:/c/ - Anime/Cute](https://boards.4channel.org/c/)
+- [:simple-icons-4chan:/cgl/ - Cosplay & EGL](https://boards.4channel.org/cgl/)
+- [:simple-icons-4chan:/co/ - Comics & Cartoons](https://boards.4channel.org/co/)
+- [:simple-icons-4chan:/e/ - Ecchi](https://boards.4channel.org/e/)
+- [:simple-icons-4chan:/h/ - Hentai](https://boards.4channel.org/h/)
+- [:simple-icons-4chan:/m/ - Mecha](https://boards.4channel.org/m/)
+- [:simple-icons-4chan:/jp/ - Otaku Culture](https://boards.4channel.org/jp/)
+- [:simple-icons-4chan:/vt/ - Virtual YouTubers](https://boards.4channel.org/vt/)
+- [:simple-icons-4chan:/w/ - Anime/Wallpapers](https://boards.4channel.org/w/)

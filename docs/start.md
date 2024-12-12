@@ -10,7 +10,7 @@ outline: [2-3]
 
 ### Requirement
 1. :logos-visual-studio-code: [VS Code](https://code.visualstudio.com/)
-2. :mdi-github: [GitHub Desktop](https://github.com/apps/desktop) <tooltip>It's optional. You can do the same thing using VS Code. Can be easier using it depending on ur skill level. The guide assumes you went for this one.</tooltip>
+2. :simple-icons-github: [GitHub Desktop](https://github.com/apps/desktop) <tooltip>It's optional. You can do the same thing using VS Code. Can be easier using it depending on ur skill level. The guide assumes you went for this one.</tooltip>
 3. :logos-nodejs-icon-alt: [Node JS](https://nodejs.org/en) <tooltip>Only if you run wotaku locally in your browser. Otherwise ignore. Recommended to use LTSC version. You can try the latest too.</tooltip>
 4. :logos-git-icon: [Git](https://git-scm.com/)
 
@@ -66,8 +66,8 @@ Wotaku fetches icons from [**Icones**](https://icones.js.org/). All the added ic
 - Inside button, page icon -> :i-package name-icon name:
 
 Examples:
-- `:ic-baseline-window:` -> :ic-baseline-window:
-- `<Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/animecorner_ac" />` ->  <Badge type="tip" icon="i-mdi-twitter" text="Twitter" link="https://x.com/animecorner_ac" />
+- `:simple-icons-windows:` -> :simple-icons-windows:
+- `<Badge type="tip" icon="i-simple-icons-twitter" text="Twitter" link="https://x.com/animecorner_ac" />` ->  <Badge type="tip" icon="i-simple-icons-twitter" text="Twitter" link="https://x.com/animecorner_ac" />
 
 ![](/iconname.png)
 
@@ -90,10 +90,10 @@ You have to add the iconpack manually in `docs\.vitepress\configs\emoji.ts`. Oth
 | Description | Icon |
 |-|-|
 | Favourite | :glowing-star: |
-| System | :mdi-android::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-firefox::mingcute-chrome-fill::mdi-earth: |
+| System | :simple-icons-android::simple-icons-windows::simple-icons-apple::simple-icons-linux::simple-icons-firefoxbrowser::simple-icons-googlechrome::mdi-earth: |
 | Type | :material-symbols-cloud-download-outline-rounded::lucide-magnet::iconoir-floppy-disk: |
 | Price | :material-symbols-add-shopping-cart-rounded::material-symbols-credit-card-outline: |
-| Source | :material-symbols-lock-outline::mdi-github::simple-icons-gitlab::simple-icons-codeberg: |
+| Source | :material-symbols-lock-outline::simple-icons-github::simple-icons-gitlab::simple-icons-codeberg: |
 
 **Rules**
 1. There will be no space between icons

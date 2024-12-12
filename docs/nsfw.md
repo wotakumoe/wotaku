@@ -26,7 +26,7 @@ outline: [1,2]
 - [Hentai Stream](https://hstream.moe/) <Badge type="info" text="Upscale" />
 - [Hentai World](https://hentaiworld.tv/)
 - [Hentaverse](https://hentaverse.com/)
-- [HMV Mania](https://hmvmania.com/) <Badge type="tip" text="/h/ thread" link="https://archived.moe/h/thread/7621997/" />
+- [HMV Mania](https://hmvmania.com/) [:simple-icons-4chan:](https://archived.moe/h/thread/7621997/)
 - [Mucho Hentai](https://muchohentai.com/) <Badge type="info" text="Schedule" /><Badge type="info" text="PV" />
 - [Oppai](https://oppai.stream/) <Badge type="info" text="Upscale" />
 - [Rule34video](https://rule34video.com/)
@@ -100,9 +100,9 @@ outline: [1,2]
 - [yande.re](https://yande.re/)
 
 ### Frontends
-- [Booru Masonary](https://booru.pixiv.pics/) :glowing-star: <Badge type="tip" text="2" link="https://booru.vercel.app/" /><Badge type="tip" text="3" link="https://booru.cocomi.eu.org/" /> [:mdi-github:](https://github.com/asadahimeka/booruwf-web)
-- [Consurf](https://consurf.onrender.com/) [:mdi-github:](https://github.com/QueenAkaAlt/Consurf)
-- [Moeview](https://moeview.app/) <Badge type="tip" text="2" link="https://moeview.pages.dev/" /><Badge type="tip" text="3" link="https://moeview.pixiv.pics/" />
+- [Booru Masonary](https://booru.pixiv.pics/) :glowing-star: [:simple-icons-github:](https://github.com/asadahimeka/booruwf-web) <Badge type="tip" text="2" link="https://booru.vercel.app/" /> <Badge type="tip" text="3" link="https://booru.cocomi.eu.org/" />
+- [Consurf](https://consurf.onrender.com/) [:simple-icons-github:](https://github.com/QueenAkaAlt/Consurf)
+- [Moeview](https://moeview.app/) <Badge type="tip" text="2" link="https://moeview.pages.dev/" /> <Badge type="tip" text="3" link="https://moeview.pixiv.pics/" />
 - [Pixiv Viewer](https://pixiv.pics/) :glowing-star:
 
 ## Games
@@ -153,17 +153,17 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 ## PC
 
 ### Viewer / Tools
-- [ExHentai Manga Manager](https://github.com/SchneeHertz/exhentai-manga-manager) :ic-baseline-window:
-- [JHenTai](https://github.com/jiangtian616/JHenTai) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Jasmine](https://github.com/niuhuan/jasmine) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Konomi Viewer](https://konomiviewer.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Javinizer](https://github.com/javinizer/Javinizer) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [ExHentai Manga Manager](https://github.com/SchneeHertz/exhentai-manga-manager) :simple-icons-windows:
+- [JHenTai](https://github.com/jiangtian616/JHenTai) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
+- [Jasmine](https://github.com/niuhuan/jasmine) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
+- [Konomi Viewer](https://konomiviewer.com/) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
+- [Javinizer](https://github.com/javinizer/Javinizer) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
 
 
 ### Downloader
-- [Hakuneko](https://github.com/manga-download/haruneko) [:mdi-earth:](https://hakuneko.download/)<Badge type="info" text="Multi" />
-- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) <Badge type="info" text="Multi" /><Badge type="info" text="Anime" />
-- [HDoujin Downloader](https://github.com/HDoujinDownloader/HDoujinDownloader) [:mdi-earth:](https://doujindownloader.com/)<Badge type="info" text="Multi" />
+- [Hakuneko](https://github.com/manga-download/haruneko) <Badge type="info" text="Multi" /> [:mdi-earth:](https://hakuneko.download/)
+- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) <Badge type="info" text="Multi" /><Badge type="info" text="Anime" /> [:mdi-earth:]()
+- [HDoujin Downloader](https://doujindownloader.com/) <Badge type="info" text="Multi" />
 - [Hentai downloader](https://github.com/touno-io/hentai-downloader)<Badge type="info" text="E-Hentai" />
 - [E-Hentai Downloader](https://github.com/ccloli/E-Hentai-Downloader)<Badge type="info" text="E-Hentai" />
 - [nHentai](https://github.com/RicterZ/nhentai)<Badge type="info" text="nHentai" />
@@ -213,8 +213,8 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 
 - [r/hentai](https://old.reddit.com/r/hentai/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/rhentai" />
 - [r/pornhwa](https://old.reddit.com/r/pornhwa/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/epjkRVp7gD" />
-- [:mdi-clover:/h/](https://boards.4chan.org/h/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/h/" /><Badge type="tip" text="Archive" link="https://archived.moe/h/" />
-- [:mdi-clover:/e/](https://boards.4chan.org/e/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/e/" /><Badge type="tip" text="Archive" link="https://archived.moe/e/" />
+- [:simple-icons-4chan:/h/](https://boards.4chan.org/h/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/h/" /><Badge type="tip" text="Archive" link="https://archived.moe/h/" />
+- [:simple-icons-4chan:/e/](https://boards.4chan.org/e/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/e/" /><Badge type="tip" text="Archive" link="https://archived.moe/e/" />
 - [r/Artistic_Hentai](https://old.reddit.com/r/Artistic_Hentai/)
 - [r/Artistic_Ecchi](https://old.reddit.com/r/Artistic_Ecchi/)
 - [r/doujinshi](https://old.reddit.com/r/doujinshi/)
@@ -223,7 +223,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [r/HENTAI_GIF](https://old.reddit.com/r/HENTAI_GIF/)
 - [r/rule34](https://old.reddit.com/r/rule34/) <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/zMrMhpZ" />
 - [r/thighdeology](https://old.reddit.com/r/thighdeology/)
-- [:mdi-clover:JAV Thread](https://4channel.org/jp/jav) <Badge type="tip" text="FAQ" link="https://jav.now.sh/" />
+- [:simple-icons-4chan:JAV Thread](https://4channel.org/jp/jav) <Badge type="tip" text="FAQ" link="https://jav.now.sh/" />
 - [:ic-outline-discord: Rule34.xxx](https://discord.gg/rule34xxx)
 
 ## Scripts
@@ -239,7 +239,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [MALSync Adult](https://sleazyfork.org/en/scripts/387981-mal-sync-adult-fatexxxblood-edition)
 - [Manga Loader NSFW](https://sleazyfork.org/en/scripts/12657-manga-loader-nsfw)
 - [Manga OnlineViewer](https://github.com/TagoDR/MangaOnlineViewer)
-- [nhentai helper](https://sleazyfork.org/en/scripts/375992-nhentai-helper) [:mdi-github:](https://github.com/Tsuk1ko/nhentai-helper)
+- [nhentai helper](https://sleazyfork.org/en/scripts/375992-nhentai-helper) [:simple-icons-github:](https://github.com/Tsuk1ko/nhentai-helper)
 - [nhentai konnichiwa](https://github.com/naiymu/nhentai-konnichiwa)
 - [Nhentai Manga Loader](https://github.com/longkidkoolstar/Nhentai-Manga-Loader)
 

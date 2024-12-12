@@ -81,7 +81,7 @@ Like a seedbox, it's also a remote service. It can download from p2p and various
 <br>
 
 :::details Where can I get the highest quality manga releases?
-[Nyaa.si](https://nyaa.si/), [:mdi-clover:/co/](https://boards.4channel.org/co/) & [Madokami](/guides/manga/madokami). Manga image quality depends on the [**source**](/guides/digim) and how it's been ripped, with volume release usually being better than [**CaaS**](/glossary/manga#publisher) release. If you want to download officially translated manga, [**Nyaa**](https://nyaa.si/) is always the best source, though some of the rippers upload upscaled SD rips. 
+[Nyaa.si](https://nyaa.si/), [:simple-icons-4chan:/co/](https://boards.4channel.org/co/) & [Madokami](/guides/manga/madokami). Manga image quality depends on the [**source**](/guides/digim) and how it's been ripped, with volume release usually being better than [**CaaS**](/glossary/manga#publisher) release. If you want to download officially translated manga, [**Nyaa**](https://nyaa.si/) is always the best source, though some of the rippers upload upscaled SD rips. 
 
 We have listed the most trusted rippers in the [**Nyaa section**](/websites#nyaa). Madokami mainly mirrors the nyaa releases.
 :::

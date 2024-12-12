@@ -30,10 +30,9 @@ If you have recommendations for good sites in your native language or want to re
 - [Nine Manga](https://www.ninemanga.com/)
 - [Novel Cool](https://novelcool.com/)
 
-### Others
-
-- [Mihon](https://github.com/mihonapp/mihon) <Badge type="tip" text="Ext" link="https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo" />
-- [Aniyomi](https://github.com/jmir1/aniyomi/) [:mdi-earth:](https://aniyomi.org/)<Badge text="Anime" /><Badge type="info" text="Manga" />
+### Apps
+- [Mihon](https://github.com/mihonapp/mihon) [:mdi-puzzle:](/guides/tech/repo)
+- [Aniyomi](https://github.com/jmir1/aniyomi/) [:mdi-puzzle:](/guides/tech/repo)
 
 
 ## Arabic
@@ -102,7 +101,7 @@ If you have recommendations for good sites in your native language or want to re
   - [Anime Garden](https://garden.onekuma.cn/)
   - [Bangumi](https://bangumi.moe/)
   - [DMHY](https://dmhy.org/)
-  - [Mikan Project](https://mikanani.me/) [:mdi-github:](https://github.com/iota9star/mikan_flutter)
+  - [Mikan Project](https://mikanani.me/) [:simple-icons-github:](https://github.com/iota9star/mikan_flutter)
   - [MioBT](http://www.miobt.com/)
   - [Nyaa Pantsu](https://ouo.si/)
 
@@ -114,7 +113,7 @@ If you have recommendations for good sites in your native language or want to re
 - [Baozimh.org](https://baozimh.org/)
 - [Colamanga](https://www.colamanga.com/)
 - [DMZJ](https://www.idmzj.com/)
-- [Manga Reader](https://1zumii.github.io/manga-reader/#/) [:mdi-github:](https://github.com/1zumii/manga-reader)
+- [Manga Reader](https://1zumii.github.io/manga-reader/#/) [:simple-icons-github:](https://github.com/1zumii/manga-reader)
 - [Manhua Gui](https://www.manhuagui.com/)
 - [XManhua](https://xmanhua.com/)
 
@@ -137,7 +136,7 @@ If you have recommendations for good sites in your native language or want to re
 
 | Category | Resources |
 |-|-|
-| Anime | [AGETV](https://github.com/muedsa/AGETV) <br> [Ani](https://github.com/open-ani/ani) <br> [Anime](https://github.com/lanlinju/Anime) <br> [Animeko](https://myani.org/) [:mdi-github:](https://github.com/open-ani/animeko) <br> [DMZJ](https://github.com/xiaoyaocz/flutter_dmzj) <br> [Kazumi](https://github.com/Predidit/Kazumi) <br> [Mediabox](https://github.com/RyensX/MediaBox) <br> [Miru App](https://miru.js.org/) <Badge text="Manga" /><br> [Neko Anime](https://github.com/xioneko/neko-anime) <br> [oneAnime](https://github.com/Predidit/oneAnime) |
+| Anime | [AGETV](https://github.com/muedsa/AGETV) <br> [Ani](https://github.com/open-ani/ani) <br> [Anime](https://github.com/lanlinju/Anime) <br> [Animeko](https://myani.org/) [:simple-icons-github:](https://github.com/open-ani/animeko) <br> [DMZJ](https://github.com/xiaoyaocz/flutter_dmzj) <br> [Kazumi](https://github.com/Predidit/Kazumi) <br> [Mediabox](https://github.com/RyensX/MediaBox) <br> [Miru App](https://miru.js.org/) <Badge text="Manga" /><br> [Neko Anime](https://github.com/xioneko/neko-anime) <br> [oneAnime](https://github.com/Predidit/oneAnime) |
 | Manga | [PasteMangaX](https://github.com/crowforkotlin/pastemangax) <br> [kobi](https://github.com/niuhuan/kobi) <br> [MangaReader](https://github.com/youniaogu/MangaReader) |
 | Novels | [Hikari Novel](https://github.com/15dd/wenku8reader) <br> [Legado](https://github.com/gedoor/legado) <br> [LightNovelReader](https://github.com/dmzz-yyhyy/LightNovelReader) |
 | Tracker | [Bangumi](https://github.com/czy0729/Bangumi) <br> [Bangumi for Android](https://github.com/xiaoyvyv/bangumi) <br> [Bangumi MX](http://bgmx.mysxl.cn/) [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi) |
@@ -273,7 +272,7 @@ If you have recommendations for good sites in your native language or want to re
   - [Mynimeku](https://www.mynimeku.com/)
   - [Otaku Desu](https://otakudesu.cloud/)
   - [Samehadaku](https://samehadaku.email/)
-  - [ZANIME](https://anime.uhuyy.dev/) [:mdi-github:](https://github.com/Fauzanmhr/zannime)
+  - [ZANIME](https://anime.uhuyy.dev/) [:simple-icons-github:](https://github.com/Fauzanmhr/zannime)
 - **DDL**
   - [Kusonime](https://kusonime.com/)
   - [Meownime](https://m.meownime.ai/)
@@ -407,7 +406,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Animesub](http://animesub.info/)
 - [Anime Zone](https://www.animezone.pl/)
 - [Desu Online](https://desu-online.pl/)
-- [Docchi](https://docchi.pl/) [:mdi-github:](https://github.com/docchipl/shinden-description)
+- [Docchi](https://docchi.pl/) [:simple-icons-github:](https://github.com/docchipl/shinden-description)
 - [Frixy Subs](https://frixysubs.pl/)
 - [Fumetsu](https://fumetsu.pl/)
 - [Grupa Mirai](https://www.grupa-mirai.pl/)
@@ -467,9 +466,9 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Animelayer](http://animelayer.ru/) :lucide-magnet:
 - [AnimeShot](https://animeshot.ru/)
 - [AnimeStars](https://animestars.org/) <Badge type="info" text="Aggregator" />
-- [Anisun](https://anisun.vercel.app/en) [:mdi-github:](https://github.com/notwindstone/anisun)
+- [Anisun](https://anisun.vercel.app/en) [:simple-icons-github:](https://github.com/notwindstone/anisun)
 - [ANIXART](https://anixart-tv.org/) <Badge type="info" text="Aggregator" />
-- [Averlist](https://averlist.ru/) [:mdi-github:](https://github.com/Averito/Averlist)
+- [Averlist](https://averlist.ru/) [:simple-icons-github:](https://github.com/Averito/Averlist)
 - [Dark Libria](https://darklibria.it/) <Badge type="info" text="Stream" />:lucide-magnet:
 - [Dream Cast](https://dreamerscast.com/)
 - [Freedub Studio](https://freedubstudio.club/)
@@ -478,7 +477,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [MAL to Kodik](https://mal-to-kodik.github.io/) <Badge type="info" text="Aggregator" />
 - [Shiza Project](https://shiza-project.com/)
 - [SovetRomantica](https://sovetromantica.com/) <Badge type="info" text="Sub" />
-- [Tunime](https://an0ncer.github.io/) [:mdi-github:](https://github.com/AN0NCER/an0ncer.github.io)<Badge type="info" text="Sub" />
+- [Tunime](https://an0ncer.github.io/) [:simple-icons-github:](https://github.com/AN0NCER/an0ncer.github.io)<Badge type="info" text="Sub" />
 - [Yummy Anime](https://yummyanime.org/)
 
 ### Manga
@@ -504,7 +503,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 | Category | Resources |
 |-|-|
-| Anime |  [ShiraBox](https://shirabox.org/) [:mdi-github:](https://github.com/jordyamc/UKIKU) <br> [ShikiWatch](https://github.com/wheremyfiji/ShikiWatch) <br> [Anixart](https://play.google.com/store/apps/details?id=com.swiftsoft.anixartlt) |
+| Anime |  [ShiraBox](https://shirabox.org/) [:simple-icons-github:](https://github.com/jordyamc/UKIKU) <br> [ShikiWatch](https://github.com/wheremyfiji/ShikiWatch) <br> [Anixart](https://play.google.com/store/apps/details?id=com.swiftsoft.anixartlt) |
 | Manga | [Manga Grabber](https://github.com/lirix360/ReadmangaGrabber) |
 
 #### PC
@@ -514,7 +513,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 | General | [Nlight](https://github.com/brandonzorn/Nlight) |
 | Anime | [Aniship](https://github.com/progzone122/AniShip) <Badge text="Stream" /><br> [AndLibria.Qt](https://github.com/anilibria/anilibria-winmaclinux) <Badge text="Stream" /> |
 | Script | [Watch and download on Shikimori](https://github.com/Malanavi/Watch-and-download-on-Shikimori) |
-| Extension | [Shikimorist](https://github.com/Hokid/shikimorist) :mingcute-chrome-fill: |
+| Extension | [Shikimorist](https://github.com/Hokid/shikimorist) :simple-icons-googlechrome: |
 
 ### Others
 
@@ -565,7 +564,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 | Category | Resources |
 |-|-|
-| Anime | [UKIKU](https://ukiku.app/) [:mdi-github:](https://github.com/jordyamc/UKIKU) |
+| Anime | [UKIKU](https://ukiku.app/) [:simple-icons-github:](https://github.com/jordyamc/UKIKU) |
 
 
 ## Turkish
@@ -603,10 +602,10 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Ani4u](https://ani4u.org/)
 - [Anime47](https://anime47.cam/)
 - [AnimeHay](https://animehay.in/)
-- [AnimeVsub](https://animevsub.eu.org/) [:mdi-github:](https://github.com/anime-vsub/desktop-web)
+- [AnimeVsub](https://animevsub.eu.org/) [:simple-icons-github:](https://github.com/anime-vsub/desktop-web)
 - [HHNINJA](https://hhninja13.tv/)
 - [Phimplay](https://phimplay24h.com/)
-- [Unime](https://unime.vercel.app/) [:mdi-github:](https://github.com/huy232/Unime)
+- [Unime](https://unime.vercel.app/) [:simple-icons-github:](https://github.com/huy232/Unime)
 - [Vui Ghe](https://vuighe3.com/)
 - [WebLinhTinh](https://weblinhtinh.net/)
 

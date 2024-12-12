@@ -22,21 +22,21 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
   - [Miruro](https://www.miruro.tv/) <Badge type="info" text="Proxies" link="https://www.miruro.com" />
   - [Anime Nexus](https://anime.nexus/)
 - **Download**
-  - [Nyaa](https://nyaa.si/) :glowing-star::lucide-magnet: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" />
+  - [Nyaa](https://nyaa.si/) :glowing-star::lucide-magnet:
   - [Tokyo Insider](https://www.tokyoinsider.com/) :material-symbols-cloud-download-outline-rounded:
   - [Kayo anime](https://kayoanime.com/) :material-symbols-cloud-download-outline-rounded:<Badge type="info" text="Batch" />
 
 ### Software
 
 - **Android**
-  - [Aniyomi](https://aniyomi.org/) :glowing-star: [:mdi-puzzle:](/guides/tech/repo) [:mdi-github:](https://github.com/aniyomiorg/aniyomi)
-  - [Dantotsu](https://dantotsuapp.netlify.app/) [:mdi-puzzle:](/guides/tech/repo) [:mdi-github:](https://github.com/rebelonion/Dantotsu)
-  - [AnimeTV](https://amarullz.com/) [:mdi-github:](https://github.com/amarullz/AnimeTV)
+  - [Aniyomi](https://aniyomi.org/) :glowing-star: [:mdi-puzzle:](/guides/tech/repo) [:simple-icons-github:](https://github.com/aniyomiorg/aniyomi)
+  - [Dantotsu](https://dantotsuapp.netlify.app/) [:mdi-puzzle:](/guides/tech/repo) [:simple-icons-github:](https://github.com/rebelonion/Dantotsu)
+  - [AnimeTV](https://amarullz.com/) [:simple-icons-github:](https://github.com/amarullz/AnimeTV)
 - **iOS**
   - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - **PC**
-  - [Miru](https://miru.watch/) :glowing-star::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:mdi-github:](https://github.com/ThaUnknown/miru/) :lucide-magnet:
-  - [Mangayomi](https://github.com/kodjodevf/mangayomi) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::lucide-magnet::material-symbols-cloud-download-outline-rounded:
+  - [Miru](https://miru.watch/) :glowing-star::simple-icons-windows::simple-icons-apple::simple-icons-linux::lucide-magnet: [:simple-icons-github:](https://github.com/ThaUnknown/miru/)
+  - [Mangayomi](https://github.com/kodjodevf/mangayomi) :simple-icons-windows::simple-icons-apple::simple-icons-linux::lucide-magnet::material-symbols-cloud-download-outline-rounded:
 
 ![](/banner/wmanga.webp)
 
@@ -56,17 +56,17 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 ### Software
 
 - **Android**
-  - [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:mdi-puzzle:](/guides/tech/repo) [:mdi-github:](https://github.com/jobobby04/TachiyomiSY)
-  - [Yokai](https://mihon.app/forks/Yokai/) :glowing-star: [:mdi-puzzle:](/guides/tech/repo) [:mdi-github:](https://github.com/null2264/yokai)
+  - [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:mdi-puzzle:](/guides/tech/repo) [:simple-icons-github:](https://github.com/jobobby04/TachiyomiSY)
+  - [Yokai](https://mihon.app/forks/Yokai/) :glowing-star: [:mdi-puzzle:](/guides/tech/repo) [:simple-icons-github:](https://github.com/null2264/yokai)
   - [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :glowing-star::iconoir-floppy-disk::material-symbols-add-shopping-cart-rounded::material-symbols-lock-outline:
 - **iOS**
   - [Paperback](https://github.com/Paperback-iOS/app) [:mdi-puzzle:](/guides/tech/repo#ios)
   - [Aidoku](https://github.com/Aidoku/Aidoku) [:mdi-puzzle:](/guides/tech/repo#ios)
   - [YACReader](https://apps.apple.com/app/id635717885) :glowing-star::iconoir-floppy-disk::material-symbols-credit-card-outline::material-symbols-lock-outline:[:mdi-airplane:](https://testflight.apple.com/join/5zhB7sRP)
 - **PC**
-  - [Houdoku](https://houdoku.netlify.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-  - [CDisplayEx](https://www.cdisplayex.com/) :ic-baseline-window::iconoir-floppy-disk::material-symbols-lock-outline:
-  - [YACReader](https://www.yacreader.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::iconoir-floppy-disk:
+  - [Houdoku](https://houdoku.netlify.app/) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
+  - [CDisplayEx](https://www.cdisplayex.com/) :simple-icons-windows::iconoir-floppy-disk::material-symbols-lock-outline:
+  - [YACReader](https://www.yacreader.com/) :simple-icons-windows::simple-icons-apple::simple-icons-linux::iconoir-floppy-disk:
 
 
 ![](/banner/music.webp)
@@ -76,9 +76,9 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 ### Streaming
 
 - **Dedicated**
-  - [Anithemes.moe](https://animethemes.moe/) :glowing-star: [:mdi-github:](https://github.com/AnimeThemes)<Badge type="info" text="Alt" link="https://themes.moe/" />
+  - [Anithemes.moe](https://animethemes.moe/) :glowing-star: [:simple-icons-github:](https://github.com/AnimeThemes)<Badge type="info" text="Alt" link="https://themes.moe/" />
   - [Karaoke Mugen](https://kara.moe)
-  - [Anisong Database](https://anisongdb.com/) [:mdi-github:](https://github.com/xSardine/AMQ-Artists-DB)<Badge type="info" text="Alt" link="https://43d.github.io/player/#/" />
+  - [Anisong Database](https://anisongdb.com/) [:simple-icons-github:](https://github.com/xSardine/AMQ-Artists-DB)<Badge type="info" text="Alt" link="https://43d.github.io/player/#/" />
 - **General**
   - [Youtube Music](https://music.youtube.com/)
   - [Apple Music](https://music.apple.com/)
@@ -104,11 +104,11 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 - **iOS**
   - [Flacbox](https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256) :material-symbols-lock-outline:
 - **PC**
-  - [Foobar2000](https://www.foobar2000.org/) :glowing-star::ic-baseline-window::ic-baseline-apple::material-symbols-lock-outline:
-  - [AIMP](https://www.aimp.ru/) :glowing-star::ic-baseline-window::mingcute-linux-fill::material-symbols-lock-outline:
-  - [MusicBee](https://www.getmusicbee.com/) :ic-baseline-window::material-symbols-lock-outline:
-  - [Spicetify](https://spicetify.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-  - [SPOTX](https://github.com/SpotX-Official/SpotX) :ic-baseline-window:
+  - [Foobar2000](https://www.foobar2000.org/) :glowing-star::simple-icons-windows::simple-icons-apple::material-symbols-lock-outline:
+  - [AIMP](https://www.aimp.ru/) :glowing-star::simple-icons-windows::simple-icons-linux::material-symbols-lock-outline:
+  - [MusicBee](https://www.getmusicbee.com/) :simple-icons-windows::material-symbols-lock-outline:
+  - [Spicetify](https://spicetify.app/) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
+  - [SPOTX](https://github.com/SpotX-Official/SpotX) :simple-icons-windows:
 
 
 ![](/banner/essentails.webp)
@@ -117,20 +117,20 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 
 ### Adblockers
 
-- [uBlock Origin](https://github.com/gorhill/uBlock) :mdi-firefox::mingcute-chrome-fill:
-- [Adguard](https://adguard.com/en/welcome.html) :mdi-android::ic-baseline-window::ic-baseline-apple::mdi-firefox::mingcute-chrome-fill::material-symbols-lock-outline:
-- [Adaway](https://adaway.org/) :mdi-android:
-- [RethinkDNS](https://rethinkdns.com/) :mdi-android::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [NextDNS](https://nextdns.io/) :mdi-android::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [uBlock Origin](https://github.com/gorhill/uBlock) :simple-icons-firefoxbrowser::simple-icons-googlechrome:
+- [Adguard](https://adguard.com/en/welcome.html) :simple-icons-android::simple-icons-windows::simple-icons-apple::simple-icons-firefoxbrowser::simple-icons-googlechrome::material-symbols-lock-outline:
+- [Adaway](https://adaway.org/) :simple-icons-android:
+- [RethinkDNS](https://rethinkdns.com/) :simple-icons-android::simple-icons-windows::simple-icons-apple::simple-icons-linux:
+- [NextDNS](https://nextdns.io/) :simple-icons-android::simple-icons-windows::simple-icons-apple::simple-icons-linux:
 
 ::: tip [**Click here**](/guides/tech/adblock) for full adblock solutions.
 :::
 
 ### Browsers
 
-- [Firefox](https://www.mozilla.org/en-US/firefox/browsers/) :mdi-android::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Brave](https://brave.com/) :mdi-android::ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
-- [Librewolf](https://librewolf.net/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+- [Firefox](https://www.mozilla.org/en-US/firefox/browsers/) :simple-icons-android::simple-icons-windows::simple-icons-apple::simple-icons-linux:
+- [Brave](https://brave.com/) :simple-icons-android::simple-icons-windows::simple-icons-apple::simple-icons-linux:
+- [Librewolf](https://librewolf.net/) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
 
 
 ### Database & Tracker
@@ -149,18 +149,18 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 ### Downloaders
 
 - **Anime & Manga**
-  - [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) :ic-baseline-window: <Badge type="info" text="Manga" />
-  - [Hakuneko](https://github.com/manga-download/haruneko) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="General" />
-  - [Red Squirrel's Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader) :ic-baseline-window::mingcute-linux-fill::material-symbols-lock-outline: <Badge type="info" text="Manga" />
+  - [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) :simple-icons-windows: <Badge type="info" text="Manga" />
+  - [Hakuneko](https://github.com/manga-download/haruneko) :simple-icons-windows::simple-icons-apple::simple-icons-linux: <Badge type="info" text="General" />
+  - [Red Squirrel's Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader) :simple-icons-windows::simple-icons-linux::material-symbols-lock-outline: <Badge type="info" text="Manga" />
 - **Direct**
-  - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) :mdi-android::material-symbols-lock-outline:
-  - [LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) :mdi-android:
-  - [Internet Download Manager](https://www.internetdownloadmanager.com/) :ic-baseline-window::material-symbols-credit-card-outline::material-symbols-lock-outline:<Badge text="Install Guide" link="https://rentry.org/installidm" />
-  - [JDownloader 2](https://jdownloader.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::material-symbols-lock-outline:<Badge text="Debloat" link="/guides/misc#jdownloader-ad-removal" />
+  - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) :simple-icons-android::material-symbols-lock-outline:
+  - [LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) :simple-icons-android:
+  - [Internet Download Manager](https://www.internetdownloadmanager.com/) :simple-icons-windows::material-symbols-credit-card-outline::material-symbols-lock-outline:<Badge text="Guide" link="https://rentry.org/installidm" />
+  - [JDownloader 2](https://jdownloader.org/) :simple-icons-windows::simple-icons-apple::simple-icons-linux::material-symbols-lock-outline:<Badge text="Debloat" link="/guides/misc#jdownloader-ad-removal" />
 - **Torrent**
-  - [libretorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) :mdi-android:
-  - [qBittorrent](https://www.qbittorrent.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:<Badge text="Enhanced" link="https://github.com/c0re100/qBittorrent-Enhanced-Edition" /><Badge text="Dark theme" link="https://github.com/maboroshin/qBittorrentDarktheme" />
-  - [Transmission](https://transmissionbt.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill:
+  - [libretorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) :simple-icons-android:
+  - [qBittorrent](https://www.qbittorrent.org/) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
+  - [Transmission](https://transmissionbt.com/) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
 
 ::: details Suggested VPN services
 
@@ -201,16 +201,16 @@ You should never use cracked or modded VPN cause all of your traffic will go thr
 - [Anychans](https://anychans.github.io/4chan/) :mdi-desktop-mac:
 
 ### Boards
-- [:mdi-clover:/a/ - Anime & Manga](https://boards.4channel.org/a/)
-- [:mdi-clover:/c/ - Anime/Cute](https://boards.4channel.org/c/)
-- [:mdi-clover:/cgl/ - Cosplay & EGL](https://boards.4channel.org/cgl/)
-- [:mdi-clover:/co/ - Comics & Cartoons](https://boards.4channel.org/co/)
-- [:mdi-clover:/e/ - Ecchi](https://boards.4channel.org/e/)
-- [:mdi-clover:/h/ - Hentai](https://boards.4channel.org/h/)
-- [:mdi-clover:/m/ - Mecha](https://boards.4channel.org/m/)
-- [:mdi-clover:/jp/ - Otaku Culture](https://boards.4channel.org/jp/)
-- [:mdi-clover:/vt/ - Virtual YouTubers](https://boards.4channel.org/vt/)
-- [:mdi-clover:/w/ - Anime/Wallpapers](https://boards.4channel.org/w/)
+- [:simple-icons-4chan:/a/ - Anime & Manga](https://boards.4channel.org/a/)
+- [:simple-icons-4chan:/c/ - Anime/Cute](https://boards.4channel.org/c/)
+- [:simple-icons-4chan:/cgl/ - Cosplay & EGL](https://boards.4channel.org/cgl/)
+- [:simple-icons-4chan:/co/ - Comics & Cartoons](https://boards.4channel.org/co/)
+- [:simple-icons-4chan:/e/ - Ecchi](https://boards.4channel.org/e/)
+- [:simple-icons-4chan:/h/ - Hentai](https://boards.4channel.org/h/)
+- [:simple-icons-4chan:/m/ - Mecha](https://boards.4channel.org/m/)
+- [:simple-icons-4chan:/jp/ - Otaku Culture](https://boards.4channel.org/jp/)
+- [:simple-icons-4chan:/vt/ - Virtual YouTubers](https://boards.4channel.org/vt/)
+- [:simple-icons-4chan:/w/ - Anime/Wallpapers](https://boards.4channel.org/w/)
 
 ### Archives
 - [4chan archive search](https://4search.neocities.org/)
@@ -225,15 +225,15 @@ You should never use cracked or modded VPN cause all of your traffic will go thr
 ### Others
 
 - **Clients**
-  - [DashchanFork](https://github.com/TrixiEther/DashchanFork) :mdi-android:
-  - [KurobaEx](https://github.com/K1rakishou/Kuroba-Experimental/) :mdi-android:
-  - [Read Chan](https://play.google.com/store/apps/details?id=com.deezus.pchan) :mdi-android:
-  - [TUI-Chan](https://github.com/tuqqu/tui-chan) :ic-baseline-window:
+  - [DashchanFork](https://github.com/TrixiEther/DashchanFork) :simple-icons-android:
+  - [KurobaEx](https://github.com/K1rakishou/Kuroba-Experimental/) :simple-icons-android:
+  - [Read Chan](https://play.google.com/store/apps/details?id=com.deezus.pchan) :simple-icons-android:
+  - [TUI-Chan](https://github.com/tuqqu/tui-chan) :simple-icons-windows:
 - **Extension / Script**
-  - [4chan X](https://github.com/ccd0/4chan-x) :mingcute-chrome-fill::mdi-language-javascript:
-      - [4chan XT](https://github.com/TuxedoTako/4chan-xt) :mdi-language-javascript:
-      - [OneeChan](https://github.com/KevinParnell/OneeChan) :mdi-language-javascript:
-      - [StyleChan](https://github.com/3nly/StyleChan) :mdi-language-javascript:
-      - [SS21](https://github.com/saxamaphone69/ss21) :mdi-language-javascript::mdi-format-paint:
-  - [Desu X](https://greasyfork.org/en/scripts/483282-desu-x-enhancement-script-for-desuarchive-org) :mdi-language-javascript:
-  - [Dollchan](https://github.com/SthephanShinkufag/Dollchan-Extension-Tools/) :mdi-firefox::mdi-language-javascript:
+  - [4chan X](https://github.com/ccd0/4chan-x) :simple-icons-googlechrome::simple-icons-javascript:
+      - [4chan XT](https://github.com/TuxedoTako/4chan-xt) :simple-icons-javascript:
+      - [OneeChan](https://github.com/KevinParnell/OneeChan) :simple-icons-javascript:
+      - [StyleChan](https://github.com/3nly/StyleChan) :simple-icons-javascript:
+      - [SS21](https://github.com/saxamaphone69/ss21) :simple-icons-javascript::mdi-format-paint:
+  - [Desu X](https://greasyfork.org/en/scripts/483282-desu-x-enhancement-script-for-desuarchive-org) :simple-icons-javascript:
+  - [Dollchan](https://github.com/SthephanShinkufag/Dollchan-Extension-Tools/) :simple-icons-firefoxbrowser::simple-icons-javascript:

@@ -72,10 +72,10 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 
 ## General
 - Adobe Software
-  - [m0nkrus](https://vk.com/monkrus) :ic-baseline-window::ic-baseline-apple:
-  - [RuTracker](https://rutracker.org/forum/index.php) :ic-baseline-window::ic-baseline-apple:
-  - [GenP](https://genpguides.github.io) :ic-baseline-window:
-  - [Download Pirate](https://www.downloadpirate.com/) :ic-baseline-window:
+  - [m0nkrus](https://vk.com/monkrus) :simple-icons-windows::simple-icons-apple:
+  - [RuTracker](https://rutracker.org/forum/index.php) :simple-icons-windows::simple-icons-apple:
+  - [GenP](https://genpguides.github.io) :simple-icons-windows:
+  - [Download Pirate](https://www.downloadpirate.com/) :simple-icons-windows:
   - [a.dove.isdumb.one](https://github.com/ignaciocastro/a-dove-is-dumb)
   - :material-symbols-subdirectory-arrow-right: Adobe Alternatives
     - [KennyNL](https://github.com/KenneyNL/Adobe-Alternatives)
