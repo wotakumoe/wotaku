@@ -65,16 +65,30 @@ You now have a full digital copy of your disc. This allows you to do a variety o
 
 ### AnyDVD HD
 
-1. Configure AnyDVD if you haven't already.
-    - The main things you want to enable are Blu-ray support and Remove Blu-Ray Region Code (set to Automatic.) Both of these are under Video Blu-ray.
-    - You may also want to check if your drive is selected on AnyDVD, under `Drives > Selection`.
-2. Insert your disc and let AnyDVD scan it. It may ask you what region code the disc is in. If you don't know, you can check on [blu-ray.com](https://www.blu-ray.com/).
-3. Open AnyDVD's Image Ripper. You can do this from either the tray icon (**Rip to Image**...) or by launching "**AnyDVD Image Ripper**" on Windows' Start Menu.
-4. Select an output file and press "Copy Disc".
-5. Wait for it to finish ripping. Generally takes around an hour if you have a 6X BD read speed, USB 3.0, and an SSD.
+1. [Download and configure Xreveal](https://xreveal.com/download.html) if you haven't already.
+    - The main thing you want to configure is KeyDB, which allows you to rip offline. This isn’t essential, but it helps in the event that your internet goes out, or if the parent company mysteriously vanishes (*cough cough* RedFox *cough cough*.)
+    - KeyDB can be downloaded here: http://fvonline-db.bplaced.net/ Scroll down until you see Downloads and click on English. (Unless you're doing a foreign release, in which case you may need a different one, but it's pretty rare since it should be in the English database anyways.) Just extract it and configure the location on Xreveal.
+    - You may also want to configure the protection removals in settings, under BD & UHD.
+2. Insert your disc.
+    -  If you have it configured, it’ll ask you what region your disc is in. If you’re not sure you can look it up on [blu-ray.com](https://blu-ray.com)
+3. Right click Xreveal's taskbar icon and select "Rip to ISO", configure some stuff if needed, and start ripping:
 
-You now have a full digital copy of your disc, with the addition of a lack of region lock. This ISO file allows you to do a variety of things, such as watch with disc menus on VLC or make a full backup onto a physical disc (essentially making an identical copy.) As mentioned previously, you can also use this file to get an MKV on MakeMKV.
+![Example of ISO rip](https://i.ibb.co/f8gDSPq/image.png)
 
+If you want to verify the ISO's file, you can use Xreveal's ["Content Hash Verifier".](https://www.xreveal.com/content-hash-verifier.html) If you have the pro version, it's as simple as going into Xreveal's menu, going to Content Hash Verifier, and pressing "Verify ISO". However on the free version, it's a little more work since you need to use a CLI version. The benefit is that you don’t have to pay for it (and it's cross platform... despite Xreveal only being on Windows...) but the drawback is that it requires more steps.
+
+1. Download the verifier
+2. Open up terminal
+3. Change the directory to where the verifier is downloaded
+    - Usually just `cd ~/Downloads`
+4. Mount the ISO file
+    - Right click it in explorer and press Mount
+5. Find the drive that it's mounted to
+6. Run the following:
+    - `./contenthashverifier.exe X:\`
+    - Replace X: with what drive it's in.
+
+The instructions are somewhat similar on Mac and Linux. (Plus if you're on Linux, it's expected that you know how to use a terminal.) It's also worth noting that, unless you get any read errors during ripping, you *should not need to verify* the disc's hash, especially right away.
 
 ## Setting up UHD rips
 
