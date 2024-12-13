@@ -16,10 +16,9 @@ You'll mainly need [**MakeMKV**](https://www.makemkv.com/). It's currently free 
 If you want to make ISOs (i.e. make a basically full copy of the disc), you have two options:
 1. [**ImgBurn**](https://www.imgburn.com/)
     - Free software that we'll use to turn a folder created by MakeMKV into an ISO file.
-2. [**AnyDVD HD**](https://www.redfox.bz/anydvdhd.html)
-    - Paid software but fairly priced
-    - Can remove unwanted features on discs, such as adverts and trailers.
-    - Can remove region code which is required if you want to make scene abiding releases.
+2. [**Xreveal**](https://xreveal.com/)
+    - Free software but has a paid version
+    - Can remove various protections, such as region codes.
     - Has the added benefit of not dealing with two software and needing half the disk space. (Using ImgBurn will require you to store two copies temporarily)
 
 <br>
@@ -40,7 +39,7 @@ If you want to make ISOs (i.e. make a basically full copy of the disc), you have
     - TV Shows also follow this mentality, as it's usually one long video instead of being separated.
 5. Click the drive with a green arrow on it, under "Make MKV", to start ripping. This will take a while, depending on the file size and disk player speed.
 
-After this is done, your MKV file is ready! You can convert it to an MP4 or other format if you want,or you can [**REMUX it**](https://rentry.org/bingremuxin).
+After this is done, your MKV file is ready! You can convert it to an MP4 or other format if you want, or you can [**REMUX it**](https://rentry.org/bingremuxin).
 
 ## Making ISO
 
@@ -63,18 +62,36 @@ After this is done, your MKV file is ready! You can convert it to an MP4 or othe
 
 You now have a full digital copy of your disc. This allows you to do a variety of things, such as watch with disc menus on VLC or make a full backup onto a physical disc (essentially making an identical copy). As mentioned previously, you can also use this ISO file to get an MKV on MakeMKV.
 
-### AnyDVD HD
+### Xreveal
 
-1. Configure AnyDVD if you haven't already.
-    - The main things you want to enable are Blu-ray support and Remove Blu-Ray Region Code (set to Automatic.) Both of these are under Video Blu-ray.
-    - You may also want to check if your drive is selected on AnyDVD, under `Drives > Selection`.
-2. Insert your disc and let AnyDVD scan it. It may ask you what region code the disc is in. If you don't know, you can check on [blu-ray.com](https://www.blu-ray.com/).
-3. Open AnyDVD's Image Ripper. You can do this from either the tray icon (**Rip to Image**...) or by launching "**AnyDVD Image Ripper**" on Windows' Start Menu.
-4. Select an output file and press "Copy Disc".
-5. Wait for it to finish ripping. Generally takes around an hour if you have a 6X BD read speed, USB 3.0, and an SSD.
+::: info Note
+You are **not required** to use the Pro version. It offers extra protection removal and some extra features (like a dark theme) but it is not needed to use the software.
+:::
 
-You now have a full digital copy of your disc, with the addition of a lack of region lock. This ISO file allows you to do a variety of things, such as watch with disc menus on VLC or make a full backup onto a physical disc (essentially making an identical copy.) As mentioned previously, you can also use this file to get an MKV on MakeMKV.
+1. [Download and configure Xreveal](https://xreveal.com/download.html) if you haven't already.
+    - The main thing you want to configure is KeyDB, which allows you to rip offline. This isn’t essential, but it helps in the event that your internet goes out, or if the parent company mysteriously vanishes (*cough cough* RedFox *cough cough*.)
+    - KeyDB can be downloaded here: http://fvonline-db.bplaced.net/ Scroll down until you see Downloads and click on English. (Unless you're doing a foreign release, in which case you may need a different one, but it's pretty rare since it should be in the English database anyways.) Just extract it and configure the location on Xreveal.
+    - You may also want to configure the protection removals in settings, under BD & UHD.
+2. Insert your disc.
+    -  If you have it configured, it’ll ask you what region your disc is in. If you’re not sure you can look it up on [blu-ray.com](https://blu-ray.com)
+3. Right click Xreveal's taskbar icon and select "Rip to ISO", configure some stuff if needed, and start ripping:
 
+![Example of ISO rip](https://i.ibb.co/0ftgTYg/image.png)
+
+If you want to verify the ISO's file, you can use Xreveal's ["Content Hash Verifier".](https://www.xreveal.com/content-hash-verifier.html) If you have the pro version, it's as simple as going into Xreveal's menu, going to Content Hash Verifier, and pressing "Verify ISO". However on the free version, it's a little more work since you need to use a CLI version. The benefit is that you don’t have to pay for it (and it's cross platform... despite Xreveal only being on Windows...) but the drawback is that it requires more steps.
+
+1. Download the verifier
+2. Open up terminal
+3. Change the directory to where the verifier is downloaded
+    - Usually just `cd ~/Downloads`
+4. Mount the ISO file
+    - Right click it in explorer and press Mount
+5. Find the drive that it's mounted to
+6. Run the following:
+    - `./contenthashverifier.exe X:\`
+    - Replace X: with what drive it's in.
+
+The instructions are somewhat similar on Mac and Linux. (Plus if you're on Linux, it's expected that you know how to use a terminal.) It's also worth noting that, unless you get any read errors during ripping, you *should not need to verify* the disc's hash, especially right away.
 
 ## Setting up UHD rips
 
@@ -95,29 +112,35 @@ This is a non-exhaustive guide, mainly focusing on the LG Slim BU40N / Archgon U
 
 If everything works, you should now be able to rip UHD discs, like any other disc. Try it on MakeMKV - it should say on the right that it's patched, under "LibreDrive information." If it doesn't, you can try the "**RECOVER**" option on SDFtool.
 
-::: info AnyDVD Notes
-If you're using AnyDVD, you may also want a keydb file. This is essentially a list of keys that the program can use to decrypt UHD discs. (I have not tested it to see if it needs it or not.) The steps to set it up are straightforward:
-1. [**Download**](http://fvonline-db.bplaced.net/) it from the FindVUK Online Database.
-	- Scroll a little bit down until you see "**Downloads**"
-	- If your disc is in a foreign language, you may want to download the other files listed, but you'll generally want the English one.
-	- These files are updated daily, and thus, you want to update them frequently.
-2. Extract it somewhere and note its location.
-3. In AnyDVD's settings, go to Video Blu-Ray -> UHD, and select the keydb.cfg file.
-
-This is not needed if you're only using MakeMKV and ImgBurn.
-:::
-
 ## Tips / Q&A
-:::details Why suggest AnyDVD, a paid and uncracked software, for piracy?
+:::details How do you play an ISO file?
+[VLC.](https://www.videolan.org/vlc/) You may need to [install Java](https://adoptium.net/) for menus.
 
-As far as I know, it is the only software capable of removing region codes. For scene rules, [this is required for COMPLETE BLURAY releases,](https://scenerules.org/html/2014_BLURAY.html) under G3. It also greatly shortens the amount of time needed to rip ISOs while making the process more direct. 
+[MPV also works](https://mpv.io/) but doesn't support DVD menus. [Kodi](https://kodi.tv/) *may* work, but from my own testing, UHDs don't work and the feature is quite buggy in general. Same with [PowerDVD.](https://www.cyberlink.com/products/powerdvd-ultra/features_en_US.html?r=1)
 
-Is it expensive? Yes. Is it worth it? That depends on you, and if you're going to be doing continuous releases, then you might want to consider it.
+Also [MPC-HC](https://mpc-hc.org/) should work, but requires you to mount the ISO and it's no longer actively developed.
 :::
 
-:::details What about other software, like DVDFab, Leawo, and PowerDVD?
+:::details Why suggest Xreveal, a partially paid and uncracked software, for piracy?
 
-I highly recommend against using them. Any alternatives, even when cracked, do not work as well as MakeMKV and AnyDVD, especially when doing UHD rips.
+As far as I know, it is the cheapest and currently the best software for disc ripping that also includes region code removal (on top of some other things.) For scene rules, [this is required for COMPLETE BLURAY releases,](https://scenerules.org/html/2014_BLURAY.html) under G3. It also greatly shortens the amount of time needed to rip ISOs while making the process more direct. 
+
+Is it a bit pricey? Yes. Is it worth it? That depends on you, and if you're going to be doing continuous releases, then you might want to consider it.
+:::
+
+:::details What about DVDFab?
+
+Some people swear by it, but simply put, ***it is way too expensive.*** You can find cracks of it online, but from my experience they don't work that well. Just save yourself the $250 and use MakeMKV. (Even Xreveal is $45 for lifetime, and AnyDVD was only about $80.)
+:::
+
+:::details What about Leawo?
+
+Complete garbage. Simple as that.
+:::
+
+:::details What about CloneBD? EaseFab? etc.
+
+If you like using a certain type of software, then feel free to use it. In fact I'm more than happy to list other software if it's better than what's on here. (This guide previously recommended AnyDVD before it became defunct.) These are just easiest ones to get into and, most importantly, are completely free (or relatively cheap in terms of Xreveal.)
 :::
 
 :::details On MakeMKV, it's failing a hash check! / On AnyDVD, it won't scan the disc!
@@ -136,7 +159,7 @@ Clean and clean again. If that doesn't work, you'll probably want to return it. 
 Amazon has basically everything, especially newer releases. [Blu-ray.com](https://www.blu-ray.com) is a great database for BD and UHD discs, and on each entry, there's an Amazon link. (It also has some DVDs but it's not as extensive). You can also try eBay, but obviously be wary of its condition.
 
 ### Physical Retailer
-Walmart sells BDs (sometimes UHDs,) and [Best Buy will sell them until Early 2024.](https://variety.com/2023/digital/news/best-buy-ending-dvd-blu-ray-disc-sales-1235754919/) There are plenty of other stores that sell them and you'll need to look at your local areas.
+Walmart sells BDs (sometimes UHDs) and Barnes & Nobles has a few BDs. (Don't expect anything big from these.) There are plenty of other stores that sell them and you'll need to look at your local areas.
 
 <br>
 
@@ -148,6 +171,6 @@ You may also want to try rental services. If you're in the US (which good luck i
 :::
 
 :::details I have another question not answered here.
-You can try asking on [FMHY](https://rentry.co/fmhy-invite) or  on [c/piracy](https://lemmy.dbzer0.com/c/piracy).
+You can try asking on [FMHY](https://rentry.co/fmhy-invite) or on [c/piracy](https://lemmy.dbzer0.com/c/piracy).
 :::
 
