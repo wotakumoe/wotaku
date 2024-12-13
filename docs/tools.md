@@ -22,7 +22,7 @@ outline: [1,2]
 | [Aria2App](https://github.com/devgianlu/Aria2App) | :check-mark-button: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
 | [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) | :cross-mark: | :check-mark-button: | :cross-mark: | Ads, theme limit |
 | [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) | :check-mark-button: | :check-mark-button: | :cross-mark: | :check-mark-button: |
-| [Gopeed](https://gopeed.com/) | :check-mark-button: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
+| [Gopeed](https://gopeed.com/) [:simple-icons-github:](https://github.com/GopeedLab/gopeed) | :check-mark-button: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
 
 #### iOS
 
@@ -43,9 +43,9 @@ outline: [1,2]
   - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) :simple-icons-android:
   - [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) :simple-icons-apple::material-symbols-lock-outline:
 - **Online**
-  - [Revanced](https://revanced.app/) :mdi-youtube::simple-icons-android:
-  - [Libretube](https://libretube.dev/) :mdi-youtube::simple-icons-android:
-  - [Grayjay](https://grayjay.app/) :mdi-youtube::mdi-twitch::simple-icons-android:
+  - [Revanced](https://revanced.app/) :mdi-youtube::simple-icons-android: [:simple-icons-github:](https://github.com/ReVanced/revanced-manager)
+  - [Libretube](https://libretube.dev/) :mdi-youtube::simple-icons-android: [:simple-icons-github:](https://github.com/libre-tube/LibreTube)
+  - [Grayjay](https://grayjay.app/) :mdi-youtube::mdi-twitch::simple-icons-android: [:simple-icons-gitlab:](https://gitlab.futo.org/videostreaming/grayjay)
   - [uYou+](https://github.com/qnblackcat/uYouPlus) :mdi-youtube::simple-icons-apple:
   - [Twire](https://github.com/twireapp/Twire) :mdi-twitch::simple-icons-android:
 
@@ -53,14 +53,14 @@ outline: [1,2]
 ## General
 
 - **Store**
-  - [Aurora Store](https://auroraoss.com/) :simple-icons-android:
+  - [Aurora Store](https://auroraoss.com/) :simple-icons-android: [:simple-icons-gitlab:](https://gitlab.com/AuroraOSS/AuroraStore)
   - [Neo Store](https://github.com/NeoApplications/Neo-Store) :simple-icons-android:
   - [Droid-ify](https://github.com/Droid-ify/client) :simple-icons-android:
   - [Sideloadly](https://sideloadly.io/) :simple-icons-apple::material-symbols-lock-outline:
-  - [SideStore](https://sidestore.io/) :simple-icons-apple:
+  - [SideStore](https://sidestore.io/) :simple-icons-apple: [:simple-icons-github:](https://github.com/SideStore/SideStore/)
 - **Misc**
   - [APKUpdater](https://github.com/rumboalla/apkupdater) :simple-icons-android:
-  - [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) :simple-icons-android:
+  - [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) :simple-icons-android: [:simple-icons-github:](https://github.com/spacecowboy/Feeder)
   - [Obtainium](https://github.com/ImranR98/Obtainium) :simple-icons-android:
 
 
@@ -75,22 +75,22 @@ outline: [1,2]
 | Software | OS | DDL | P2P | FOSS |
 |-|-|-|-|-|
 | [Internet Download Manager](https://www.internetdownloadmanager.com/) :glowing-star: | :simple-icons-windows: | :check-mark-button: | :cross-mark: | :cross-mark: |
-| [qBittorrent](https://www.qbittorrent.org/) :glowing-star: | :simple-icons-windows::simple-icons-apple::simple-icons-linux: | :cross-mark: | :check-mark-button: | :check-mark-button: |
-| [AB Download Manager](https://abdownloadmanager.com/) | :simple-icons-windows::simple-icons-linux: | :check-mark-button: | :cross-mark: | :check-mark-button: |
-| [aria2](https://aria2.github.io/) :glowing-star: | :octicon-command-palette-16: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
-| [Deluge](https://www.deluge-torrent.org/) | :simple-icons-windows::simple-icons-apple::simple-icons-linux: | :cross-mark: | :check-mark-button: | :check-mark-button: |
-| [File centipede](https://github.com/filecxx/FileCentipede) | :simple-icons-windows::simple-icons-linux: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
+| [qBittorrent](https://www.qbittorrent.org/) :glowing-star: [:simple-icons-github:](https://github.com/qbittorrent/qBittorrent/) | :simple-icons-windows::simple-icons-apple::simple-icons-linux: | :cross-mark: | :check-mark-button: | :check-mark-button: |
+| [AB Download Manager](https://abdownloadmanager.com/) [:simple-icons-github:](https://github.com/amir1376/ab-download-manager) | :simple-icons-windows::simple-icons-linux: | :check-mark-button: | :cross-mark: | :check-mark-button: |
+| [aria2](https://aria2.github.io/) :glowing-star: [:simple-icons-github:](https://github.com/aria2/aria2) | :octicon-command-palette-16: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
+| [Deluge](https://www.deluge-torrent.org/) [:simple-icons-github:](https://github.com/deluge-torrent/deluge) | :simple-icons-windows::simple-icons-apple::simple-icons-linux: | :cross-mark: | :check-mark-button: | :check-mark-button: |
+| [File centipede](https://filecxx.com/en_US/index.html) [:simple-icons-github:](https://github.com/filecxx/FileCentipede) | :simple-icons-windows::simple-icons-linux: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
 | [Free Download Manager](https://www.freedownloadmanager.org/) | :simple-icons-windows::simple-icons-apple::simple-icons-linux: | :check-mark-button: | :check-mark-button: | :cross-mark: |
-| [Gopeed](https://gopeed.com/) | :simple-icons-windows::simple-icons-apple::simple-icons-linux: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
-| [ImFile](https://imfile.io/) | :simple-icons-windows::simple-icons-apple: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
+| [Gopeed](https://gopeed.com/) [:simple-icons-github:](https://github.com/GopeedLab/gopeed) | :simple-icons-windows::simple-icons-apple::simple-icons-linux: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
+| [ImFile](https://imfile.io/) [:simple-icons-github:](https://github.com/imfile-io/imfile-desktop/) | :simple-icons-windows::simple-icons-apple: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
 | [JDownloader](https://jdownloader.org/) | :simple-icons-windows::simple-icons-apple::simple-icons-linux: | :check-mark-button: | :cross-mark: | :cross-mark: |
-| [libtorrent](https://www.libtorrent.org/index.html) | :octicon-command-palette-16: | :cross-mark: | :check-mark-button: | :check-mark-button: |
+| [libtorrent](https://www.libtorrent.org/index.html) [:simple-icons-github:](https://github.com/arvidn/libtorrent) | :octicon-command-palette-16: | :cross-mark: | :check-mark-button: | :check-mark-button: |
 | [Media Downloader](https://github.com/mhogomchungu/media-downloader) | :simple-icons-windows::simple-icons-apple::simple-icons-linux: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
 | [MegaBasterd](https://github.com/tonikelope/megabasterd) | :simple-icons-windows::simple-icons-apple::simple-icons-linux: | :check-mark-button: | :cross-mark: | :check-mark-button: |
-| [Persepolis](https://persepolisdm.github.io/) | :simple-icons-windows::simple-icons-apple::simple-icons-linux: | :check-mark-button: | :cross-mark: | :check-mark-button: |
+| [Persepolis](https://persepolisdm.github.io/) [:simple-icons-github:](https://github.com/persepolisdm/persepolis) | :simple-icons-windows::simple-icons-apple::simple-icons-linux: | :check-mark-button: | :cross-mark: | :check-mark-button: |
 | [TIXATI](https://www.tixati.com/) | :simple-icons-windows::simple-icons-linux: | :cross-mark: | :check-mark-button: | :cross-mark: |
-| [Transmission](https://transmissionbt.com/) | :simple-icons-windows::simple-icons-apple::simple-icons-linux: | :cross-mark: | :check-mark-button: | :check-mark-button: |
-| [Xtreme Download Manager](https://xtremedownloadmanager.com/) | :simple-icons-windows::simple-icons-apple::simple-icons-linux: | :check-mark-button: | :cross-mark: | :check-mark-button: |
+| [Transmission](https://transmissionbt.com/) [:simple-icons-github:](https://github.com/transmission/transmission) | :simple-icons-windows::simple-icons-apple::simple-icons-linux: | :cross-mark: | :check-mark-button: | :check-mark-button: |
+| [Xtreme Download Manager](https://xtremedownloadmanager.com/) [:simple-icons-github:](https://github.com/subhra74/xdm) | :simple-icons-windows::simple-icons-apple::simple-icons-linux: | :check-mark-button: | :cross-mark: | :check-mark-button: |
 
 #### Related resources
 
@@ -117,40 +117,38 @@ outline: [1,2]
   - [IrfanView](https://www.irfanview.com/) :material-symbols-lock-outline:
   - [XnView MP](https://www.xnview.com/en/xnviewmp/) :material-symbols-lock-outline:
   - [JPEGView](https://github.com/sylikc/jpegview)
-  - [qView](https://interversehq.com/qview/)
+  - [qView](https://interversehq.com/qview/) [:simple-icons-github:](https://github.com/jurplel/qView)
   - [FastStone Image Viewer](https://www.faststone.org/FSViewerDetail.htm) :material-symbols-lock-outline:
 - **Optimizer**
-  - [imgdanke](https://github.com/DrWhoCares/imgdanke) <tooltip>Optional for GUI but does not support Pingo v1+ at the moment.</tooltip>
-  - [ImageMagick](https://imagemagick.org/index.php) <Badge type="tip" text="Scripts" link="https://www.fmwconcepts.com/imagemagick/index.php" />
-  - [FotoKilof](https://github.com/TeaM-TL/FotoKilof)
+  - [ImageMagick](https://imagemagick.org/index.php) [:simple-icons-github:](https://github.com/ImageMagick/ImageMagick) <Badge type="tip" text="Scripts" link="https://www.fmwconcepts.com/imagemagick/index.php" />
+    - [FotoKilof](https://github.com/TeaM-TL/FotoKilof)
+    - [imgdanke](https://github.com/DrWhoCares/imgdanke) <tooltip>Optional for GUI but does not support Pingo v1+ at the moment.</tooltip>
   - [pingo](https://css-ig.net/pingo) :material-symbols-lock-outline:
-  - [pinga](https://css-ig.net/pinga) :material-symbols-lock-outline:
+    - [pinga](https://css-ig.net/pinga) :material-symbols-lock-outline:
 - **Processor / Upscaler**
-  - [chaiNNer](https://github.com/chaiNNer-org/chaiNNer)
+  - [chaiNNer](https://chainner.app/) [:simple-icons-github:](https://github.com/chaiNNer-org/chaiNNer)
   - [Magpie](https://github.com/Blinue/Magpie)
-  - [Waifu2X](https://github.com/nagadomi/waifu2x) <Badge type="tip" text="caffe" link="https://github.com/lltcggie/waifu2x-caffe" /><Badge type="tip" text="ncnn Vulkan" link="https://github.com/nihui/waifu2x-ncnn-vulkan" /><Badge type="tip" text="Ext GUI" link="https://github.com/AaronFeng753/Waifu2x-Extension-GUI" /><Badge type="tip" text="nunif" link="https://github.com/nagadomi/nunif" />
-
-::: details :material-symbols-subdirectory-arrow-right: Related resources
-- [Illustration sites](/misc#illustrations)
-- [Scanlation related tools](/scanlation#tools)
-- [Manga Tools](/software#manga-tools)
-:::
+  - [Waifu2X](https://github.com/nagadomi/waifu2x)
+    - [caffe](https://github.com/lltcggie/waifu2x-caffe)
+    - [ncnn Vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan)
+    - [Waifu2x Extension GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
+    - [nunif](https://github.com/nagadomi/nunif)
 
 
 ## Video Tools
 
 - **Player**
-  - [IINA](https://iina.io/) :simple-icons-apple:
-  - [MPC-HC](https://github.com/clsid2/mpc-hc) :simple-icons-windows:<Badge type="info" text="Codec guide" link="https://codecguide.com/media_player_classic.htm"/><Badge type="tip" text="Guide" link="https://kokomins.wordpress.com/2021/03/27/mpc-hc-and-madvr-setup-guide/" />
-  - [mpv](https://mpv.io/) :glowing-star::simple-icons-windows::simple-icons-apple::simple-icons-linux:
+  - [IINA](https://iina.io/) :simple-icons-apple: [:simple-icons-github:](https://github.com/iina/iina)
+  - [MPC-HC](https://github.com/clsid2/mpc-hc) :simple-icons-windows: <Badge type="info" text="Codec guide" link="https://codecguide.com/media_player_classic.htm"/>
+  - [mpv](https://mpv.io/) :glowing-star::simple-icons-windows::simple-icons-apple::simple-icons-linux: [:simple-icons-github:](https://github.com/mpv-player/mpvs)
     - :material-symbols-subdirectory-arrow-right: [mpv Resources](#mpv)
-  - [SMPlayer](https://www.smplayer.info/) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
+  - [SMPlayer](https://www.smplayer.info/) :simple-icons-windows::simple-icons-apple::simple-icons-linux: [:simple-icons-github:](https://github.com/smplayer-dev/smplayer)
   - [K-Lite Codec Pack](https://codecguide.com/download_kl.htm) :simple-icons-windows:
 - **Tools**
-  - [FFmpeg](https://ffmpeg.org/) :octicon-command-palette-16:
-    - [HandBrake](https://handbrake.fr/) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
+  - [FFmpeg](https://ffmpeg.org/) :octicon-command-palette-16: [:simple-icons-github:](https://github.com/FFmpeg/FFmpeg)
+    - [HandBrake](https://handbrake.fr/) :simple-icons-windows::simple-icons-apple::simple-icons-linux: [:simple-icons-github:](https://github.com/HandBrake/HandBrake)
     - [Videomass](https://jeanslack.github.io/Videomass/) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
-    - [FFmpeg.wasm](https://ffmpegwasm.netlify.app/) :mdi-earth:
+    - [FFmpeg.wasm](https://ffmpegwasm.netlify.app/) :mdi-earth: [:simple-icons-github:](https://github.com/ffmpegwasm/ffmpeg.wasm)
     - [FFmpeg Batch AV Converter](https://github.com/eibol/ffmpeg_batch) :simple-icons-windows:
 
 ## mpv
@@ -290,16 +288,16 @@ outline: [1,2]
 ## General
 - [Better Lyrics](https://better-lyrics.boidu.dev/) [:simple-icons-github:](https://github.com/boidushya/better-lyrics)
 - [Buster](https://github.com/dessant/buster)
-- [FastForward](https://fastforward.team/)
-- [FastStream](https://faststream.online/)
-- [Indie Wiki Buddy](https://getindie.wiki/)
+- [FastForward](https://fastforward.team/) [:simple-icons-github:](https://github.com/FastForwardTeam/FastForward)
+- [FastStream](https://faststream.online/) [:simple-icons-github:](https://github.com/Andrews54757/FastStream/)
+- [Indie Wiki Buddy](https://getindie.wiki/) [:simple-icons-github:](https://github.com/KevinPayravi/indie-wiki-buddy)
 - [Live Stream Downloader](https://webextension.org/listing/hls-downloader.html) [:simple-icons-github:](https://github.com/chandler-stimson/live-stream-downloader/)
 - [OldTwitter](https://github.com/dimdenGD/OldTwitter)
 - [NopeCHA](https://nopecha.com/)
 - [Selection](https://github.com/emvaized/selecton-extension) :glowing-star:
 - [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web) :glowing-star:
 - [uBlock Origin](https://github.com/gorhill/uBlock) :glowing-star:
-- [Violentmonkey](https://violentmonkey.github.io/) :glowing-star:
+- [Violentmonkey](https://violentmonkey.github.io/) :glowing-star: [:simple-icons-github:](https://github.com/violentmonkey/violentmonkey)
 
 ::: tip [**Click here**](/guides/tech/adblock) for full adblock solutions.
 :::

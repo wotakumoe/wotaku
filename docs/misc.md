@@ -71,7 +71,7 @@ outline: [1,2]
 - [Anime Dubs Release Calendar](https://teamup.com/ksdhpfjcouprnauwda)
 - [AnimeSchedule](https://animeschedule.net/)
 - [Anisaki](https://anisaki.vercel.app/) [:simple-icons-github:](https://github.com/BayuDC/anisaki)
-- [Bangumi List](https://bgmlist.com/) [:simple-icons-github:](https://github.com/wxt2005/bangumi-list-v3) :flag-japan::flag-china: <tooltip>Maintained by chinese devs, but lists JP schedule too.</tooltip>
+- [Bangumi List](https://bgmlist.com/) :flag-japan::flag-china: [:simple-icons-github:](https://github.com/wxt2005/bangumi-list-v3) <tooltip>Maintained by chinese devs, but lists JP schedule too.</tooltip>
 - [Kansou](https://www.kansou.me/) :flag-japan:
 - [Livechart](https://www.livechart.me/schedule) :glowing-star:
 - [Notify.moe](https://notify.moe/calendar) [:simple-icons-github:](https://github.com/animenotifier/notify.moe)
@@ -113,7 +113,7 @@ outline: [1,2]
 - [MANGA Plus Top 40](https://manga.tumeo.space/) [:simple-icons-github:](https://github.com/williamd1k0/manga-plus-top40)
 - [r/LightNovels reading order](https://old.reddit.com/r/LightNovels/wiki/reading_order)
 - [Shoseki Ranking](http://shosekiranking.blog.fc2.com/) :flag-japan:
-- [Touhou Doujinshi Index](https://scarlet.nsk.sh/) <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" /> [:simple-icons-github:](https://github.com/nanoskript/touhou-doujinshi-index) 
+- [Touhou Doujinshi Index](https://scarlet.nsk.sh/) [:simple-icons-github:](https://github.com/nanoskript/touhou-doujinshi-index) <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" />
 
 
 ### Calendar
@@ -157,13 +157,13 @@ Illustrations now has its [own page](/art)!
 ## General
 
 - **Info / News**
-  - [Anime News Network](https://www.animenewsnetwork.com/) :glowing-star: <Badge type="tip" icon="i-simple-icons-twitter" text="Twitter" link="https://x.com/anime" />
+  - [Anime News Network](https://www.animenewsnetwork.com/) :glowing-star: [:simple-icons-twitter:](https://x.com/animecorner_ac)
   - [Anime UK News](https://animeuknews.net/)
   - [Crunchyroll News](https://www.crunchyroll.com/news)
   - [GUNDAM.INFO](https://en.gundam.info/)
-  - [Japan Anime News](https://us.oricon-group.com/) <Badge type="tip" icon="i-simple-icons-twitter" text="Twitter" link="https://x.com/JapanAnimeNews_" />
+  - [Japan Anime News](https://us.oricon-group.com/) [:simple-icons-twitter:](https://x.com/JapanAnimeNews_)
   - [Kanzenshuu](https://www.kanzenshuu.com/)
-  - [MAL News](https://myanimelist.net/news) <Badge type="tip" icon="i-simple-icons-twitter" text="Twitter" link="https://x.com/myanimelist" />
+  - [MAL News](https://myanimelist.net/news) [:simple-icons-twitter:](https://x.com/myanimelist)
   - [ORICON NEWS](https://www.oricon.co.jp/) :flag-japan:
   - [Otaku News](https://www.otakunews.com/)
 - **Blog / Interview**
@@ -240,7 +240,7 @@ Illustrations now has its [own page](/art)!
 - [Sekai](https://sekai.rl404.com/) :glowing-star::simple-icons-myanimelist: [:simple-icons-github:](https://github.com/rl404/sekai)
 - [Anistats](https://mayudev.github.io/anistats/) :simple-icons-anilist: [:simple-icons-github:](https://github.com/mayudev/anistats)
 - [Anime Taste Tool](https://www.anipop.uk/) :simple-icons-anilist: [:simple-icons-github:](https://github.com/kay-mw/popularity-tool-for-anilist)
-- [anime.plus](https://anime.plus/) :simple-icons-myanimelist:[:simple-icons-github:](https://github.com/anime-plus/graph)
+- [anime.plus](https://anime.plus/) :simple-icons-myanimelist: [:simple-icons-github:](https://github.com/anime-plus/graph)
 - [KitsuStats](https://drumber.github.io/KitsuStats/#/) :simple-icons-kitsu: [:simple-icons-github:](https://github.com/Drumber/KitsuStats)
 - [MAL Badges](https://www.mal-badges.com/) :simple-icons-myanimelist:
 
@@ -249,7 +249,7 @@ Illustrations now has its [own page](/art)!
 - [AniTools](https://anitools.koopz.rocks/)
 - [aniTrakt](https://anitrakt.huere.net/) [:simple-icons-github:](https://github.com/ryuuganime/aniTrakt-IndexParser)
 - [MAL/AL/K/AP lists XML Exporter](https://malscraper.azurewebsites.net/)
-- [OpenTierBoy](https://www.opentierboy.com/)
+- [OpenTierBoy](https://www.opentierboy.com/) [:simple-icons-github:](https://github.com/infinia-yzl/opentierboy)
 
 
 
@@ -261,7 +261,7 @@ Illustrations now has its [own page](/art)!
 
 | Category | Websites |
 |---|---|
-| Fan Projects | [Holodex](https://holodex.net/) <Badge type="info" text="Musicdex" link="https://music.holodex.net/" /> [:simple-icons-github:](https://github.com/HolodexNet) <br> [Ragtag Archive](https://archive.ragtag.moe/) [:simple-icons-github:](https://github.com/ragtag-archive) <br> [Patchwork Archive](https://patchwork.moekyun.me/) [:simple-icons-github:](https://github.com/Patchwork-Archive/) |
+| Fan Projects | [Holodex](https://holodex.net/) [:simple-icons-github:](https://github.com/HolodexNet/Holodex) <br> [Musicdex](https://music.holodex.net/) [:simple-icons-github:](https://github.com/HolodexNet/Musicdex) <br> [Ragtag Archive](https://archive.ragtag.moe/) [:simple-icons-github:](https://github.com/ragtag-archive) <br> [Patchwork Archive](https://patchwork.moekyun.me/) [:simple-icons-github:](https://github.com/Patchwork-Archive/) |
 | Database | [Amatsukaze](https://amatsukaze.rl404.com/) :glowing-star: [:simple-icons-github:](https://github.com/rl404/amatsukaze) <br> [Virtual YouTuber Wiki](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki) <br> [Good VTuber Subs](https://goodvtubersubs.com/) <br> [Hololist](https://hololist.net/) <br> [ironmouse Model Index](https://www.ironmousemodelindex.com/) <br> [VTBs in Bilibili!](https://vtbs.moe/) |
 | Stats | [VChama](https://vchama.xyz) :glowing-star: <Badge type="info" text="Schedule" /><br> [vtstats](https://vt.poi.cat/) :glowing-star: <Badge type="info" text="Schedule" /><Badge text="Revenue"/><br> [VSTATS](https://www.vstats.jp/) <br> [Userlocal VTuber](https://virtual-youtuber.userlocal.jp/) <Badge type="info" text="Stream Rank" link="https://live-ranking.userlocal.jp/vtuber-ranking" /><Badge type="info" text="Schedule" /><br> [TwitchTracker](https://twitchtracker.com/) <br> [Streams Charts](https://streamscharts.com/) |
 | Schedule | [VTuber Schedule](https://vtuberschedules.com/) <br> [Hololyzer](https://www.hololyzer.net/) <br> [vTubie](https://vtubie.com/) |

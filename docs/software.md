@@ -71,7 +71,7 @@ outline: [1,2]
 ## Novel Readers
 
 ### Online
-- [LN Reader](https://github.com/LNReader/lnreader)
+- [LN Reader](https://lnreader.github.io/) [:simple-icons-github:](https://github.com/LNReader/lnreader) [:mdi-puzzle:](/guides/tech/repo/#android)
 - [Quicknovel](https://github.com/LagradOst/QuickNovel)
 - [Shosetsu](https://shosetsu.app/) [:simple-icons-gitlab:](https://gitlab.com/shosetsuorg/shosetsu)
 - [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha)
@@ -122,11 +122,11 @@ Check out [**CFW's iOS guide**](https://ios.cfw.guide/) & [**The Apple Wiki**](h
 ## Manga Readers
 
 ### Online
-- [Paperback](https://paperback.moe/) [:mdi-puzzle:](/guides/tech/repo#ios) [:simple-icons-github:](https://github.com/Paperback-iOS/app)
-- [Aidoku](https://aidoku.app/) [:mdi-puzzle:](/guides/tech/repo#ios) [:simple-icons-github:](https://github.com/Aidoku/Aidoku)
+- [Paperback](https://paperback.moe/) [:simple-icons-github:](https://github.com/Paperback-iOS/app) [:mdi-puzzle:](/guides/tech/repo#ios)
+- [Aidoku](https://aidoku.app/) [:simple-icons-github:](https://github.com/Aidoku/Aidoku) [:mdi-puzzle:](/guides/tech/repo#ios)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [Tachimanga](https://tachimanga.app/) :material-symbols-add-shopping-cart-rounded::material-symbols-lock-outline: [:mdi-puzzle:](https://tachimanga.app/help/guides/adding-repos.html)
-- [Suwatte](https://suwatte.mantton.com/) [:mdi-puzzle:](/guides/tech/repo#ios) <Badge type="tip" text="Converter" link="https://seyden.github.io/SuwatteConverter/suwatte" />
+- [Suwatte](https://suwatte.mantton.com/) [:simple-icons-github:](https://github.com/Suwatte/Suwatte) [:mdi-puzzle:](/guides/tech/repo#ios) <Badge type="tip" text="Converter" link="https://seyden.github.io/SuwatteConverter/suwatte" />
 - [Hanami](https://github.com/oolxg/Hanami)
 
 ### Local
@@ -281,7 +281,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Manami](https://github.com/manami-project/manami)
 - [Shoko Anime](https://shokoanime.com/) :simple-icons-windows::simple-icons-apple::simple-icons-linux: [:simple-icons-github:](https://github.com/ShokoAnime/)
 - **Stremio**
-  - [Viren070's Guides](https://guides.viren070.me/)
+  - [Viren070's Guides](https://guides.viren070.me/) [:simple-icons-github:](https://github.com/Viren070/guides)
   - [Stremio Community Addons List](https://stremio-addons.netlify.app/)
   - [Stremio Addon Manager](https://stremio-addon-manager.vercel.app/) [:simple-icons-github:](https://github.com/pancake3000/stremio-addon-manager)
   - [Stremio Jackett Addon](https://github.com/aymene69/stremio-jackett)
@@ -306,12 +306,12 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 
 ## eBook Tools
-- [Calibre](https://calibre-ebook.com/) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
+- [Calibre](https://calibre-ebook.com/) :simple-icons-windows::simple-icons-apple::simple-icons-linux: [:simple-icons-github:](https://github.com/kovidgoyal/calibre)
 - [Kindle Comic Converter](https://github.com/ciromattia/kcc) :simple-icons-windows::simple-icons-apple::simple-icons-linux::mdi-docker:
 - [KOReader](https://koreader.rocks/) :simple-icons-linux::material-symbols-chrome-reader-mode-outline:
-- [Libation](https://getlibation.com/) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
+- [Libation](https://getlibation.com/) :simple-icons-windows::simple-icons-apple::simple-icons-linux: [:simple-icons-github:](https://github.com/rmcrackan/Libation)
 - [Send to Kindle](https://www.amazon.com/sendtokindle) :mdi-earth::simple-icons-windows::simple-icons-apple::simple-icons-linux:
-- [Sigil-Ebook](https://sigil-ebook.com/) :simple-icons-windows::simple-icons-apple:
+- [Sigil-Ebook](https://sigil-ebook.com/) :simple-icons-windows::simple-icons-apple: [:simple-icons-github:](https://github.com/Sigil-Ebook)
 
 
 ## Trackers
