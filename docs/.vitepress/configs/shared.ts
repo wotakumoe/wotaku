@@ -89,6 +89,7 @@ const nav: DefaultTheme.NavItem[] = [
       {
         text: 'Anime',
         items: [
+          { text: 'Disc Ripping', link: '/guides/anime/discrip' },
           { text: 'Network Streaming', link: '/guides/anime/ns' }
         ]
       },
@@ -227,6 +228,7 @@ const sidebar: DefaultTheme.Sidebar = [
         text: 'Anime',
         collapsed: true,
         items: [
+          { text: 'Disc Ripping', link: '/guides/anime/discrip' },
           { text: 'Network Streaming', link: '/guides/anime/ns' }
         ]
       },
