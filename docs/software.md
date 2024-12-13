@@ -241,7 +241,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
   - [Fluent Core](https://github.com/manga-download/haruneko) :simple-icons-windows::simple-icons-apple:
 - [ADL](https://github.com/RaitaroH/adl) :simple-icons-windows::simple-icons-linux:<tooltip><ul><li>No UI, terminal based</li><li>"Complicated" installation, especially on Windows</li><li>Uses many different scripts, including animedl, so lots of functionality</li><li>Tracking capability & many more</li><li>Same amount of sources as AnimDL</li></ul></tooltip>
 - [Crunchyroll-Downloader](https://github.com/Crunchy-DL/Crunchy-Downloader) :simple-icons-windows:
-  - :material-symbols-subdirectory-arrow-right: [Guide for getting DRM content](https://simpcity.su/threads/guide-for-getting-drm-content-wip.181199/), [2](https://forum.videohelp.com/threads/408031-Dumping-Your-own-L3-CDM-with-Android-Studio)
+  - [Keydive](https://github.com/hyugogirubato/KeyDive)
 - [Anime Downloader NX](https://github.com/anidl/multi-downloader-nx) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
 
 
