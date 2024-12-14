@@ -47,8 +47,8 @@ outline: [2,3]
 - [Viki](https://www.viki.com/categories/country/japan/genre/all)  <Badge type="warning" text="Freemiun" /><Badge type="info" text="JP Sub" />
 - [ViewAsian](https://www.viewasian.org/)
 - [DramaFull](https://dramafull.net/)
-- [Tokuzilla](https://tokuzilla.net/)
-- [Zokaj](https://zokaj.com/)
+- [Tokuzilla](https://tokuzilla.net/) <Badge type="info" text="2" link="https://tokuzl.net/" />
+- [Toku555](https://toku555.com/)
 - [Japanese Movies Subtitles](https://github.com/eurusdagr/Japanese-Movies-Subtitles)
 
 ### Program

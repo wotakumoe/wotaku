@@ -483,7 +483,8 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 
 ### Streaming
 
-- [Tokuzilla](https://tokuzilla.net/) :glowing-star: <Badge type="tip" text="Backup" link="https://tokuzl.net/" />
+- [Tokuzilla](https://tokuzilla.net/) :glowing-star: <Badge type="info" text="2" link="https://tokuzl.net/" />
+- [Toku555](https://toku555.com/)
 - [Zokaj](https://zokaj.com/)
 - [ViewAsian](https://www.viewasian.org/)
 - [Power Rangers Official](https://www.youtube.com/@PowerRangersOfficial/)
