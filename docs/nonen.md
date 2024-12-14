@@ -512,7 +512,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 |-|-|
 | General | [Nlight](https://github.com/brandonzorn/Nlight) |
 | Anime | [Aniship](https://github.com/progzone122/AniShip) :material-symbols-play-circle-outline: <br> [AndLibria.Qt](https://github.com/anilibria/anilibria-winmaclinux) :material-symbols-play-circle-outline: |
-| Script | [Watch and download on Shikimori](https://github.com/Malanavi/Watch-and-download-on-Shikimori) |
+| Script | [Watch and download on Shikimori](https://github.com/Malanavi/Watch-and-download-on-Shikimori) <br> [Shiki Rating](https://github.com/ImoutoChan/shiki-rating-userscript) |
 | Extension | [Shikimorist](https://github.com/Hokid/shikimorist) :simple-icons-googlechrome: |
 
 ### Others
