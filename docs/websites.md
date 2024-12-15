@@ -429,7 +429,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [Novel Updates](https://www.novelupdates.com/)
 - [Baka-tsuki](https://www.baka-tsuki.org/project/index.php?title=Main_Page)
 - [Boxnovel](https://boxnovel.com/)
-- [Light Novel Pub](https://www.lightnovelpub.com/) <Badge type="tip" text="2" link="https://www.lightnovelworld.com/" />
+- [Light Novel Pub](https://www.lightnovelpub.com/) <Badge type="tip" text="2" link="https://www.lightnovelworld.com/" /><Badge type="tip" text="3" link="https://www.webnovelpub.pro/home" />
 - [Novel Bin](https://novelbin.com/)
 - [Novel Buddy](https://novelbuddy.com/home)
 - [VyNovel](https://vynovel.com/)
