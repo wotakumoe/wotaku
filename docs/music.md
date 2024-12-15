@@ -221,6 +221,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [Spotify Dedup](https://spotify-dedup.com/) [:simple-icons-github:](https://github.com/JMPerez/spotify-dedup/)
 - [Spotify Playlist Archive](https://spotifyplaylistarchive.com/)
 - [Spotify Release List](https://spotifyreleaselist.netlify.app/) [:simple-icons-github:](https://github.com/jakubito/spotify-release-list)
+- [Spotify Stats](https://spotifystats.app/) [:simple-icons-github:](https://github.com/felhag/lastfm-stats-web)
 - [Spotlistr](https://www.spotlistr.com/)
 - [Stats for Spotify](https://www.statsforspotify.com/)
 - [Volt.fm](https://volt.fm/) :glowing-star:
