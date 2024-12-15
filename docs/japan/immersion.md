@@ -44,7 +44,7 @@ outline: [2,3]
 ## TV
 
 ### Movies & Drama
-- [Viki](https://www.viki.com/categories/country/japan/genre/all)  <Badge type="warning" text="Freemiun" /><Badge type="info" text="JP Sub" />
+- [Viki](https://www.viki.com/categories/country/japan/genre/all) :material-symbols-add-shopping-cart-rounded:<Badge type="info" text="JP Sub" />
 - [ViewAsian](https://www.viewasian.org/)
 - [DramaFull](https://dramafull.net/)
 - [Tokuzilla](https://tokuzilla.net/) <Badge type="info" text="2" link="https://tokuzl.net/" />

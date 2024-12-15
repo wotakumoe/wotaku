@@ -172,8 +172,8 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 - [Mullvad](https://mullvad.net/) <Badge type="tip" text="No port forwarding" />
 - [nVPN](https://nvpn.net/)
 - [OVPN](https://www.ovpn.com/)
-- [Proton](https://protonvpn.com/) <Badge type="tip" text="Freemium" /><tooltip>The free tier doesn't support torrenting.</tooltip>
-- [Windscribe](https://windscribe.com/) <Badge type="tip" text="Freemium" />
+- [Proton](https://protonvpn.com/) :material-symbols-add-shopping-cart-rounded:<tooltip>The free tier doesn't support torrenting.</tooltip>
+- [Windscribe](https://windscribe.com/) :material-symbols-add-shopping-cart-rounded:
 - [Xeovo](https://xeovo.com/)
 
 #### Free VPNs
