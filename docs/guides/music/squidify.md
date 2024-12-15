@@ -34,25 +34,25 @@ Squidify is based on Navidrome which has its own set of third-party Apps besides
 
 == Desktop
 
-- [Sonixd](https://github.com/jeffvli/sonixd) <Badge type="info" text="Windows" /><Badge type="info" text="Linux" /><Badge type="info" text="MacOS" />
-- [Feishin](https://github.com/jeffvli/feishin) <Badge type="info" text="Windows" /><Badge type="info" text="Linux" /><Badge type="info" text="MacOS" />
-- [Sublime Music](https://sublimemusic.app/) <Badge type="info" text="Linux" />
-- [Supersonic](https://github.com/dweymouth/supersonic) <Badge type="info" text="Windows" /><Badge type="info" text="Linux" /><Badge type="info" text="MacOS" />
-- [Submariner](https://submarinerapp.com/) <Badge type="info" text="MacOS" />
+- [Sonixd](https://github.com/jeffvli/sonixd) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
+- [Feishin](https://github.com/jeffvli/feishin) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
+- [Sublime Music](https://sublimemusic.app/) :simple-icons-apple::simple-icons-linux:
+- [Supersonic](https://github.com/dweymouth/supersonic) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
+- [Submariner](https://submarinerapp.com/) :simple-icons-apple:
 - **CLI**
-    - [Jellycli](https://github.com/tryffel/jellycli#readme) <Badge type="info" text="Windows" /><Badge type="info" text="Linux" />
-    - [STMP](https://github.com/wildeyedskies/stmp#readme) <Badge type="info" text="Linux" /><Badge type="info" text="MacOS" />
+    - [Jellycli](https://github.com/tryffel/jellycli#readme) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
+    - [STMP](https://github.com/wildeyedskies/stmp#readme) :simple-icons-apple::simple-icons-linux::simple-icons-apple:
 
 == Others
-- [SonicLair](https://github.com/thelinkin3000/SonicLair) <Badge type="info" text="Android TV" />
+- [SonicLair](https://github.com/thelinkin3000/SonicLair) :material-symbols-google-tv:
 - **Connected Speakers**
-  - [bonob](https://github.com/simojenki/bonob#readme) <Badge type="info" text="Sonos" />
-  - [AskSonic](https://github.com/srichter/asksonic#readme) <Badge type="info" text="Alexa" />
+  - [bonob](https://github.com/simojenki/bonob#readme) :simple-icons-sonos:
+  - [AskSonic](https://github.com/srichter/asksonic#readme) :simple-icons-amazonalexa:
 - [Subsonic Kodi Plugin](https://github.com/warwickh/plugin.audio.subsonic#readme)
 - [Navidrome Kodi Plugin](https://github.com/BobHasNoSoul/plugin.audio.navidrome#readme)
 - [HTTPDirFS](https://github.com/fangfufu/httpdirfs#readme)
 - [upmpdcli](https://www.lesbonscomptes.com/upmpdcli/index.html)
-    - Expose Navidrome as a UPnP/DLNA media library. See the <Badge type="tip" text="discussion" link="https://github.com/navidrome/navidrome/discussions/2324" />
+    - Expose Navidrome as a UPnP/DLNA media library. See the [**discussion**](https://github.com/navidrome/navidrome/discussions/2324).
 :::
 
 ::: info More clients
