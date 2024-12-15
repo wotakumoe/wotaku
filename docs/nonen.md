@@ -17,10 +17,11 @@ If you have recommendations for good sites in your native language or want to re
 ## Multi Language
 
 ### Anime
-- [KickAssAnime](https://kaas.ro/) <Badge type="info" text="Proxies" link="https://watchanime.io/" />
-- [HiAnime](https://hianime.to/home)
 - [Anime Nexus](https://anime.nexus/)
+- [AnimeStream](https://anime.uniquestream.net/)
+- [HiAnime](https://hianime.to/home)
 - [Hikari](https://hikaritv.xyz/)
+- [KickAssAnime](https://kaas.ro/) <Badge type="info" text="Proxies" link="https://watchanime.io/" />
 - [Sudatachi](https://sudatchi.com/)
 
 ### Manga
