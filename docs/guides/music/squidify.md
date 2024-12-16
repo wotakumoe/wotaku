@@ -19,8 +19,8 @@ Squidify is based on Navidrome which has its own set of third-party Apps besides
 - [Subtracks](https://github.com/austinried/subtracks#readme)
 - [substreamer](https://substreamerapp.com/)
 - [Ultrasonic](https://ultrasonic.gitlab.io/)
-- [DSub](https://play.google.com/store/apps/details?id=github.daneren2005.dsub) :material-symbols-credit-card-outline:
-- [Symfonium](https://symfonium.app/) :material-symbols-credit-card-outline:
+- [DSub](https://play.google.com/store/apps/details?id=github.daneren2005.dsub) :paid:
+- [Symfonium](https://symfonium.app/) :paid:
 - [Tempo](https://github.com/CappielloAntonio/tempo)
 - [Chora](https://github.com/CraftWorksMC/Chora)
 
@@ -34,14 +34,14 @@ Squidify is based on Navidrome which has its own set of third-party Apps besides
 
 == Desktop
 
-- [Sonixd](https://github.com/jeffvli/sonixd) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
-- [Feishin](https://github.com/jeffvli/feishin) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
-- [Sublime Music](https://sublimemusic.app/) :simple-icons-apple::simple-icons-linux:
-- [Supersonic](https://github.com/dweymouth/supersonic) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
-- [Submariner](https://submarinerapp.com/) :simple-icons-apple:
+- [Sonixd](https://github.com/jeffvli/sonixd) :win::app::lin:
+- [Feishin](https://github.com/jeffvli/feishin) :win::app::lin:
+- [Sublime Music](https://sublimemusic.app/) :app::lin:
+- [Supersonic](https://github.com/dweymouth/supersonic) :win::app::lin:
+- [Submariner](https://submarinerapp.com/) :app:
 - **CLI**
-    - [Jellycli](https://github.com/tryffel/jellycli#readme) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
-    - [STMP](https://github.com/wildeyedskies/stmp#readme) :simple-icons-apple::simple-icons-linux::simple-icons-apple:
+    - [Jellycli](https://github.com/tryffel/jellycli#readme) :win::app::lin:
+    - [STMP](https://github.com/wildeyedskies/stmp#readme) :app::lin::app:
 
 == Others
 - [SonicLair](https://github.com/thelinkin3000/SonicLair) :material-symbols-google-tv:

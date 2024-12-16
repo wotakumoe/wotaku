@@ -18,9 +18,9 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 # Stream
 
 ## Anime
-- [AnimeThemes](https://animethemes.moe/) :glowing-star: [:simple-icons-github:](https://github.com/AnimeThemes)
+- [AnimeThemes](https://animethemes.moe/) :s: [:gh:](https://github.com/AnimeThemes)
 - [Animusic](https://animusic.moe/) <Badge type="info" text="Alt" link="https://themes.moe/" />
-- [Anisong Database](https://anisongdb.com/) [:simple-icons-github:](https://github.com/xSardine/AMQ-Artists-DB) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" />
+- [Anisong Database](https://anisongdb.com/) [:gh:](https://github.com/xSardine/AMQ-Artists-DB) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" />
 - [Karaoke Mugen](https://kara.moe)
 - [One Piece Tracklist](http://onepiecetracklist.com/)
 - [Squidify](https://www.squidify.org/) <Badge type="tip" text="Guide" link="/guides/music/squidify" />
@@ -38,11 +38,11 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 
 
 ## Games
-- [Squidify](https://www.squidify.org/) :glowing-star: <Badge type="tip" text="Guide" link="/guides/music/squidify" />
-- [Zophar's Domain](https://www.zophar.net/music) :material-symbols-cloud-download-outline-rounded:
+- [Squidify](https://www.squidify.org/) :s: <Badge type="tip" text="Guide" link="/guides/music/squidify" />
+- [Zophar's Domain](https://www.zophar.net/music) :ddl:
 - [Vidya Intarweb Playlist](https://www.vipvgm.net/)
 - [Keygen Music](https://keygenmusic.tk/)
-- [VGMRips](https://vgmrips.net/packs/) :material-symbols-cloud-download-outline-rounded:
+- [VGMRips](https://vgmrips.net/packs/) :ddl:
 - [SMS Power](https://vgm.impulseinformatica.com.br/)
 
 
@@ -82,13 +82,13 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 
 ::: details Symbols
 
-- Uploaded on own server -> :material-symbols-cloud-download-outline-rounded:
+- Uploaded on own server -> :ddl:
 - Uploaded on Google Drive -> :mdi-google-drive:
 - Uploaded on Mega -> :simple-icons-mega:
 - Uploaded on Mediafire -> :simple-icons-mediafire:
 - Upload on different cloud storage site -> :ic-round-cloud-download:
 - Uploaded on Host sites -> :mdi-snail:
-- Torrent/p2p Download -> :lucide-magnet:
+- Torrent/p2p Download -> :mag:
 - Account Needed -> :mdi-account:
 
 :::
@@ -96,20 +96,20 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 ## Anime
 
 - **FLAC**
-  - [Nyaa](https://nyaa.si/) :glowing-star::lucide-magnet: <Badge type="info" text="2" link="https://nyaa.iss.one/" /> <Badge type="info" text="3" link="https://nyaa.iss.ink/" /> <Badge type="info" text="4" link="https://nyaa.land/" />
-  - [Sitting on Clouds](https://www.sittingonclouds.net/) :glowing-star::simple-icons-mega::simple-icons-mediafire: <Badge type="info" text="2" link="https://www.sittingonclouds.com/" /> <Badge type="info" text="3" link="https://www.sittingonclouds.org/" /> <Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" />
+  - [Nyaa](https://nyaa.si/) :s::mag: <Badge type="info" text="2" link="https://nyaa.iss.one/" /> <Badge type="info" text="3" link="https://nyaa.iss.ink/" /> <Badge type="info" text="4" link="https://nyaa.land/" />
+  - [Sitting on Clouds](https://www.sittingonclouds.net/) :s::simple-icons-mega::simple-icons-mediafire: <Badge type="info" text="2" link="https://www.sittingonclouds.com/" /> <Badge type="info" text="3" link="https://www.sittingonclouds.org/" /> <Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" />
   - [SquidBoard](https://www.squid-board.org/) :mdi-account::simple-icons-mega::simple-icons-mediafire::mdi-google-drive:
-  - [Sukidesu OST](https://sukidesuost.info/) :simple-icons-mega::lucide-magnet:
-  - [RuTracker.org](https://rutracker.org/forum/index.php) :lucide-magnet:
+  - [Sukidesu OST](https://sukidesuost.info/) :simple-icons-mega::mag:
+  - [RuTracker.org](https://rutracker.org/forum/index.php) :mag:
   - [Asia Media Blog](https://asiamediablog.com/media/music/) :mdi-snail:<Badge type="danger" text="18+" /> <Badge type="tip" text="2" link="https://jpmediadl.com/music/" />
 - **MP3**
-  - [Nipponsei](https://nipponsei.minglong.org/tracker/) :lucide-magnet:
-  - [OS Anime](https://osanime.com/) :material-symbols-cloud-download-outline-rounded:
+  - [Nipponsei](https://nipponsei.minglong.org/tracker/) :mag:
+  - [OS Anime](https://osanime.com/) :ddl:
   - [Hiyori OST](https://www.hiyoriost.com/) :mdi-google-drive::mdi-snail:
   - [Sakura OST](https://www.sakuraost.com/) :mdi-snail:
 
 ## Downloader
-- [Squid.wtf](https://squid.wtf/) :glowing-star:
+- [Squid.wtf](https://squid.wtf/) :s:
 - [Lucida](https://lucida.to/) <Badge type="tip" text="2" link="https://lucida.su/" />
 - [DoubleDouble](https://doubledouble.top/)
 - [MP3Daddy](https://mp3-daddy.com/) <tooltip>Don't download WAV and AIFF versions. It's pointless bloat. Use Squid.wtf or YAMS deezer. Better service.</tooltip>
@@ -118,20 +118,20 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 ## Doujin
 
 - [Doujin Cafe](https://discord.gg/doujincafe) :simple-icons-mega::simple-icons-mediafire::ic-round-cloud-download:
-- [Doujin Music](https://vk.com/wall-60027733) :material-symbols-cloud-download-outline-rounded:
+- [Doujin Music](https://vk.com/wall-60027733) :ddl:
 - [Doujin Style](https://doujinstyle.com/) :simple-icons-mediafire:<Badge type="tip" text="Touhou" link="https://doujinstyle.com/?p=tlmc" /><Badge type="tip" text="Downloader" link="https://github.com/Relepega/doujinstyle-downloader"/>
-- [MikuDB](https://mikudb.moe/) :mdi-google-drive::lucide-magnet:
-- [Moriya Shrine](https://moriyashrine.org/) :lucide-magnet:
-- [Touhou Disc](https://alist.thdisc.tk) :material-symbols-cloud-download-outline-rounded:
+- [MikuDB](https://mikudb.moe/) :mdi-google-drive::mag:
+- [Moriya Shrine](https://moriyashrine.org/) :mag:
+- [Touhou Disc](https://alist.thdisc.tk) :ddl:
 
 
 ## Games
 
 - [Sitting on Clouds](https://www.sittingonclouds.net/) :simple-icons-mega::simple-icons-mediafire: <Badge type="info" text="2" link="https://www.sittingonclouds.com/" /> <Badge type="info" text="3" link="https://www.sittingonclouds.org/" /> <Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" />
 - [SquidBoard](https://www.squid-board.org/) :mdi-account::simple-icons-mega::simple-icons-mediafire::mdi-google-drive:
-- [HCS VGM Archive](https://vgm.hcs64.com/) :material-symbols-cloud-download-outline-rounded:
-- [VGM Preservation Foundation](https://www.vgmpf.com/Wiki/index.php) :material-symbols-cloud-download-outline-rounded:
-- [VGMusic](https://vgmusic.com/) :material-symbols-cloud-download-outline-rounded:
+- [HCS VGM Archive](https://vgm.hcs64.com/) :ddl:
+- [VGM Preservation Foundation](https://www.vgmpf.com/Wiki/index.php) :ddl:
+- [VGMusic](https://vgmusic.com/) :ddl:
 
 ## Legal
 
@@ -148,15 +148,15 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 ## General
 - [asia DREAM radio](https://asiadreamradio.torontocast.stream/stations/en/index.html) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://asiadreamradio.torontocast.stream/stations/newstream.html" />
 - [J1 Radio](https://www.j1fm.tokyo/player/j1hits/) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://www.j1fm.tokyo/listen/" />
-- [Nightwave Plaza](https://plaza.one/) [:simple-icons-android:](https://play.google.com/store/apps/details?id=one.plaza.nightwaveplaza) [:simple-icons-apple:](https://apps.apple.com/us/app/nightwave-plaza/id1532678227) [:simple-icons-github:](https://github.com/nightwaveplaza/plaza) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://plaza.one/plaza.m3u" /><Badge type="info" text="Vaporwave" />
-- [Patchwork Radio](https://patchwork.moekyun.me/radio) :glowing-star: <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://a4.asurahosting.com/public/patchworkarchive/playlist.m3u" /><Badge type="info" text="VTuber" />
-- [Sasalele Music Station](https://basic.pp.ua/) [:simple-icons-github:](https://github.com/Mikeexe2/Sasalele-Music-Station) <Badge type="info" text="Aggregator" />
+- [Nightwave Plaza](https://plaza.one/) [:and:](https://play.google.com/store/apps/details?id=one.plaza.nightwaveplaza) [:app:](https://apps.apple.com/us/app/nightwave-plaza/id1532678227) [:gh:](https://github.com/nightwaveplaza/plaza) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://plaza.one/plaza.m3u" /><Badge type="info" text="Vaporwave" />
+- [Patchwork Radio](https://patchwork.moekyun.me/radio) :s: <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://a4.asurahosting.com/public/patchworkarchive/playlist.m3u" /><Badge type="info" text="VTuber" />
+- [Sasalele Music Station](https://basic.pp.ua/) [:gh:](https://github.com/Mikeexe2/Sasalele-Music-Station) <Badge type="info" text="Aggregator" />
 - [Wapchan](https://radio.wapchan.org/public/wapfm) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://radio.wapchan.org/public/wapfm/playlist.pls" /><Badge type="info" text="City Pop" />
 - [Yumi Co. Radio](https://yumicoradio.net/) <Badge type="info" icon="i-material-symbols-download-2" text="256kbps" link="http://s1.yumicoradio.net:8000/stream.m3u" /><Badge type="info" text="City Pop" />
 
 ## Anime
 - [Anime(bits)](https://radio.animebits.moe/) <Badge type="info" icon="i-material-symbols-download-2" text="FLAC" link="https://radio.animebits.moe/m3u/stream192.mp3.m3u" />
-- [Anison.fm](https://en.anison.fm/) :glowing-star: <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="https://anison.fm/anison.m3u" /> :flag-united-kingdom::flag-russia:
+- [Anison.fm](https://en.anison.fm/) :s: <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="https://anison.fm/anison.m3u" /> :flag-united-kingdom::flag-russia:
 - [chiru.no](https://chiru.no/) <Badge type="info" icon="i-material-symbols-download-2" text="FLAC" link="https://chiru.no/?chiru.no.m3u" />
 - [Greek Otaku Radio](https://goradio.gr/homepage) <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="http://192.99.4.210:2199/tunein/greekota.pls" /> :flag-united-kingdom::flag-greece:
 - [JPopSuki](http://jpopsuki.fm/) <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="http://jpopsuki.fm:2199/tunein/jpopsuki-stream.pls" />
@@ -193,7 +193,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 
 ## General
 - [Apple Music Artwork Fetcher](https://artwork.thekvt.eu.org/)
-- [Cover Search Engine](https://covers.musichoarders.xyz/) :glowing-star:
+- [Cover Search Engine](https://covers.musichoarders.xyz/) :s:
 - [Instafest](https://www.instafest.app/)
 - [Jukebox](https://jukebox.today/)
 - [LRCLIB](https://lrclib.net/)
@@ -208,31 +208,31 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 
 
 ## Spotify
-- [Album Availability on Spotify](https://kaaes.github.io/albums-availability/) [:simple-icons-github:](https://github.com/kaaes/albums-availability)
-- [Check Track Availability](https://spotify-check-track-availability.vercel.app/) [:simple-icons-github:](https://github.com/wcelery/spotify-check-track-availability)
-- [Chosic](https://www.chosic.com/) :glowing-star:
+- [Album Availability on Spotify](https://kaaes.github.io/albums-availability/) [:gh:](https://github.com/kaaes/albums-availability)
+- [Check Track Availability](https://spotify-check-track-availability.vercel.app/) [:gh:](https://github.com/wcelery/spotify-check-track-availability)
+- [Chosic](https://www.chosic.com/) :s:
 - [Discover Quickly](https://discoverquickly.com/)
-- [Exportify](https://exportify.app/) [:simple-icons-github:](https://github.com/watsonbox/exportify)
-- [Lyricpost](https://palinkiewicz.github.io/lyricpost/) [:simple-icons-github:](https://github.com/palinkiewicz/lyricpost)
+- [Exportify](https://exportify.app/) [:gh:](https://github.com/watsonbox/exportify)
+- [Lyricpost](https://palinkiewicz.github.io/lyricpost/) [:gh:](https://github.com/palinkiewicz/lyricpost)
 - [Musicalyst](https://musicalyst.com/)
 - [Playlist Sorter](https://www.playlistsorter.com/)
 - [Random Music Generator](https://random-song.com/)
-- [Skiley](https://skiley.net/) :glowing-star:
-- [Spotify Dedup](https://spotify-dedup.com/) [:simple-icons-github:](https://github.com/JMPerez/spotify-dedup/)
+- [Skiley](https://skiley.net/) :s:
+- [Spotify Dedup](https://spotify-dedup.com/) [:gh:](https://github.com/JMPerez/spotify-dedup/)
 - [Spotify Playlist Archive](https://spotifyplaylistarchive.com/)
-- [Spotify Release List](https://spotifyreleaselist.netlify.app/) [:simple-icons-github:](https://github.com/jakubito/spotify-release-list)
-- [Spotify Stats](https://spotifystats.app/) [:simple-icons-github:](https://github.com/felhag/lastfm-stats-web)
+- [Spotify Release List](https://spotifyreleaselist.netlify.app/) [:gh:](https://github.com/jakubito/spotify-release-list)
+- [Spotify Stats](https://spotifystats.app/) [:gh:](https://github.com/felhag/lastfm-stats-web)
 - [Spotlistr](https://www.spotlistr.com/)
 - [Stats for Spotify](https://www.statsforspotify.com/)
-- [Volt.fm](https://volt.fm/) :glowing-star:
+- [Volt.fm](https://volt.fm/) :s:
 
 ## Last.fm
-- [Last.fm stats](https://lastfmstats.com/) [:simple-icons-github:](https://github.com/felhag/lastfm-stats-web)
+- [Last.fm stats](https://lastfmstats.com/) [:gh:](https://github.com/felhag/lastfm-stats-web)
 - [Last History](https://anhuynh.github.io/last-history)
-- [musicorum](https://musicorumapp.com/) [:simple-icons-github:](https://github.com/musicorum-app)
+- [musicorum](https://musicorumapp.com/) [:gh:](https://github.com/musicorum-app)
 - [Open Scrobbler](https://openscrobbler.com/)
 - [Scatter.FM](https://scatterfm.markhansen.co.nz/)
-- [Last.fm Time Charts](https://pmcdonough8133.github.io/last.timer/) [:simple-icons-github:](https://github.com/pmcdonough8133/last.timer)
+- [Last.fm Time Charts](https://pmcdonough8133.github.io/last.timer/) [:gh:](https://github.com/pmcdonough8133/last.timer)
 
 
 
@@ -246,7 +246,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
   - [Rate Your Music](https://rateyourmusic.com/)
   - [VGMdb](https://vgmdb.net/)
 - **Anime**
-  - [Aniplaylist](https://aniplaylist.com/) :glowing-star:
+  - [Aniplaylist](https://aniplaylist.com/) :s:
   - [Anime Song Lyrics](https://www.animesonglyrics.com/)
 - **Doujin**
   - [Dojin Music](https://www.dojin-music.info/)
@@ -259,22 +259,22 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
   - [Touhou Spotify Music](https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit#gid=0)
   - [Utaite Key](https://utaite-key.info/)
 - **Scrobbler**
-  - [Last.fm](https://www.last.fm/) :glowing-star:
+  - [Last.fm](https://www.last.fm/) :s:
   - [ListenBrainz](https://listenbrainz.org/)
   - [Libre.fm](https://libre.fm/)
 
 ## Discovery
 
 - **General**
-  - [Every Noise at Once](https://everynoise.com/) :glowing-star:
-  - [Rate Your Music](https://rateyourmusic.com/) :glowing-star:
-  - [Chosic](https://www.chosic.com/) :glowing-star:
+  - [Every Noise at Once](https://everynoise.com/) :s:
+  - [Rate Your Music](https://rateyourmusic.com/) :s:
+  - [Chosic](https://www.chosic.com/) :s:
   - [Discover Quickly](https://discoverquickly.com/)
   - [Skiley](https://skiley.net/)
   - [Music-Map](https://www.music-map.com/)
   - [Japanese music by year](https://en.wikipedia.org/wiki/Category:Japanese_music_by_year) <Badge type="tip" text="Wand" link="https://www.wikiwand.com/en/Category:Japanese_music_by_year" />
   - [Dubolt](https://dubolt.com/)
-- **RYM Ultimate Box Set** :glowing-star:
+- **RYM Ultimate Box Set** :s:
   - [Japanese Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-japanese-music/)
   - [Doujin Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-doujin-music/)
   - [Touhou Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-touhou-music/)
@@ -293,28 +293,28 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
   - [ORICON](https://www.oricon.co.jp/release/album/)
 - **General**
   - [Billboard JAPAN](https://www.billboard-japan.com/d_news/jpn/) :flag-japan:
-  - [JaME](https://www.jame-world.com/en/) :glowing-star:
+  - [JaME](https://www.jame-world.com/en/) :s:
   - [Natalie](https://natalie.mu/music/news/)
   - [Uta-Net](https://www.uta-net.com/) :flag-japan:
   - [UtaTen](https://utaten.com/) :flag-japan:
-  - [Make Believe Mailer](https://mbmelodies.substack.com/) :glowing-star:
+  - [Make Believe Mailer](https://mbmelodies.substack.com/) :s:
 - **Doujin & Vocaloid**
   - [Vocasphere](https://vocasphere.net/)
-  - [Merami fan](https://meramifan.wordpress.com/) :glowing-star:
+  - [Merami fan](https://meramifan.wordpress.com/) :s:
   - [Touhou Memories](https://touhou-memories.com/)
   - [Hatsune Miku](https://x.com/cfm_miku_en)
 
 ## Others
 
 - **Ranking**
-  - [Kworb](https://kworb.net/) :glowing-star:
-  - [ORICON](https://www.oricon.co.jp/music/rankinglab/) :glowing-star: <Badge type="tip" text="Full" link="https://www.oricon.co.jp/rank/" />
+  - [Kworb](https://kworb.net/) :s:
+  - [ORICON](https://www.oricon.co.jp/music/rankinglab/) :s: <Badge type="tip" text="Full" link="https://www.oricon.co.jp/rank/" />
   - [Billboard JAPAN](https://www.billboard-japan.com/charts/)
   - [Uta-Net](https://www.uta-net.com/ranking/)
   - [UtaTen](https://utaten.com/ranking/)
 - **Events**
-  - [JaME](https://www.jame-world.com/en/event) :glowing-star:
-  - [Tokyo Dross](https://tokyodross.blogspot.com/) :glowing-star:
+  - [JaME](https://www.jame-world.com/en/event) :s:
+  - [Tokyo Dross](https://tokyodross.blogspot.com/) :s:
   - [Doujin Events](https://docs.google.com/document/d/1Kf4gf2Dtnc_Cd2ndRWacw9QGy8kYvUTZ7K9rkR8D2-0/edit)
   - [Songkick](https://www.songkick.com/) <Badge type="info" text="General" />
 
@@ -325,53 +325,53 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 ## Player
 
 ### Local
-- [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player) :simple-icons-android::material-symbols-lock-outline:
-- [Flacbox](https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256) :simple-icons-apple::material-symbols-lock-outline:
-- [Oto Music Player](https://play.google.com/store/apps/details?id=com.piyush.music) :simple-icons-android::material-symbols-lock-outline:
-- [Musicolet Music Player](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) :material-symbols-lock-outline:
-- [Poweramp](https://powerampapp.com/) :glowing-star::material-symbols-lock-outline::material-symbols-credit-card-outline:
-- [USB Audio Player PRO](https://play.google.com/store/apps/details?id=com.extreamsd.usbaudioplayerpro&hl=en&gl=US) :simple-icons-android::material-symbols-lock-outline::material-symbols-credit-card-outline:
+- [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player) :and::cs:
+- [Flacbox](https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256) :app::cs:
+- [Oto Music Player](https://play.google.com/store/apps/details?id=com.piyush.music) :and::cs:
+- [Musicolet Music Player](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) :cs:
+- [Poweramp](https://powerampapp.com/) :s::cs::paid:
+- [USB Audio Player PRO](https://play.google.com/store/apps/details?id=com.extreamsd.usbaudioplayerpro&hl=en&gl=US) :and::cs::paid:
 
 ### Online
 - [**Youtube Music**](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
   - [Revanced Music](https://github.com/j-hc/revanced-magisk-module/releases)
-  - [Innertune](https://github.com/z-huang/InnerTune) :glowing-star::simple-icons-android:
+  - [Innertune](https://github.com/z-huang/InnerTune) :s::and:
   - [OuterTune](https://github.com/DD3Boh/OuterTune)
-  - [RiMusic](https://github.com/fast4x/RiMusic) :simple-icons-android:
-  - [SimpMusic](https://github.com/maxrave-dev/SimpMusic) :simple-icons-android:
-- [**Spotify**](https://www.spotify.com/us/download/) :material-symbols-lock-outline:
-  - [xManager](https://www.xmanagerapp.com/) :simple-icons-android::material-symbols-lock-outline:
-  - [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) :simple-icons-apple::material-symbols-lock-outline:
-- [Apple Music](https://apps.apple.com/us/app/apple-music/id1108187390) :simple-icons-apple::material-symbols-lock-outline:
-- [ReFreezer](https://github.com/DJDoubleD/refreezer) :simple-icons-android: `Deezer` 
-- [Echo](https://github.com/brahmkshatriya/echo) :simple-icons-android: `General`
-- [Harmony Music](https://github.com/anandnet/Harmony-Music) :simple-icons-android: `YouTube`
-- [Soundbound](https://soundbound.app/) :simple-icons-android::material-symbols-lock-outline: `General`
-- [Transistor](https://codeberg.org/y20k/transistor) :simple-icons-android::material-symbols-lock-outline: `Radio`
+  - [RiMusic](https://github.com/fast4x/RiMusic) :and:
+  - [SimpMusic](https://github.com/maxrave-dev/SimpMusic) :and:
+- [**Spotify**](https://www.spotify.com/us/download/) :cs:
+  - [xManager](https://www.xmanagerapp.com/) :and::cs:
+  - [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) :app::cs:
+- [Apple Music](https://apps.apple.com/us/app/apple-music/id1108187390) :app::cs:
+- [ReFreezer](https://github.com/DJDoubleD/refreezer) :and: `Deezer` 
+- [Echo](https://github.com/brahmkshatriya/echo) :and: `General`
+- [Harmony Music](https://github.com/anandnet/Harmony-Music) :and: `YouTube`
+- [Soundbound](https://soundbound.app/) :and::cs: `General`
+- [Transistor](https://codeberg.org/y20k/transistor) :and::cs: `Radio`
 
 ### Audiobook
-- [Voice](https://github.com/PaulWoitaschek/Voice) :simple-icons-android:
-- [mAbook Audiobook Player](https://play.google.com/store/apps/details?id=mindmine.audiobook) :simple-icons-android::material-symbols-add-shopping-cart-rounded::material-symbols-lock-outline:
-- [Smart AudioBook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer) :simple-icons-android::material-symbols-add-shopping-cart-rounded::material-symbols-lock-outline:
-- [Sirin Audiobook Player](https://play.google.com/store/apps/details?id=com.sirin.android) :simple-icons-android::material-symbols-add-shopping-cart-rounded::material-symbols-lock-outline:
+- [Voice](https://github.com/PaulWoitaschek/Voice) :and:
+- [mAbook Audiobook Player](https://play.google.com/store/apps/details?id=mindmine.audiobook) :and::fm::cs:
+- [Smart AudioBook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer) :and::fm::cs:
+- [Sirin Audiobook Player](https://play.google.com/store/apps/details?id=com.sirin.android) :and::fm::cs:
 
 ## Tools
 
 - **Identifier**
-  - [Audile](https://github.com/aleksey-saenko/MusicRecognizer) :simple-icons-android:
-  - [Audire](https://github.com/alexmercerind/audire) :simple-icons-shazam::simple-icons-android:
+  - [Audile](https://github.com/aleksey-saenko/MusicRecognizer) :and:
+  - [Audire](https://github.com/alexmercerind/audire) :simple-icons-shazam::and:
 - **Lyrics**
   - [FastLyrics](https://github.com/TecCheck/FastLyrics)
   - [Lyrics Grabbr](https://github.com/IllusionMan1212/lyrics-grabbr)
   - [Rush](https://github.com/shub39/Rush)
   - [SongSync](https://github.com/Lambada10/SongSync)
 - **Scrobbler**
-  - [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) :mdi-lastfm::simple-icons-android:
-  - [Marvis Pro](https://apps.apple.com/au/app/marvis-pro/id1447768809) :mdi-lastfm::simple-icons-apple::material-symbols-lock-outline:
+  - [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) :mdi-lastfm::and:
+  - [Marvis Pro](https://apps.apple.com/au/app/marvis-pro/id1447768809) :mdi-lastfm::app::cs:
 - **Others**
-  - [MusicSearch](https://github.com/lydavid/MusicSearch) :simple-icons-android:<Badge type="info" text="MusicBrainz" />
-  - [Seeker](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1) :simple-icons-android:<Badge type="info" text="Soulseek" />
-  - [Stats.fm](https://stats.fm/) :mdi-spotify::simple-icons-android::simple-icons-apple::material-symbols-lock-outline:
+  - [MusicSearch](https://github.com/lydavid/MusicSearch) :and:<Badge type="info" text="MusicBrainz" />
+  - [Seeker](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1) :and:<Badge type="info" text="Soulseek" />
+  - [Stats.fm](https://stats.fm/) :mdi-spotify::and::app::cs:
 
 
 ![](/music/mpc.webp)
@@ -380,25 +380,25 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 ## Player
 
 ### Local
-- [AIMP](https://www.aimp.ru/) :glowing-star::simple-icons-windows::simple-icons-linux::material-symbols-lock-outline:
-- [DeaDBeeF](https://deadbeef.sourceforge.io/) :simple-icons-linux:
-- [Elisa](https://apps.kde.org/elisa/) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
-- [Foobar2000](https://www.foobar2000.org/) :glowing-star::simple-icons-windows::simple-icons-apple::material-symbols-lock-outline:
+- [AIMP](https://www.aimp.ru/) :s::win::lin::cs:
+- [DeaDBeeF](https://deadbeef.sourceforge.io/) :lin:
+- [Elisa](https://apps.kde.org/elisa/) :win::app::lin:
+- [Foobar2000](https://www.foobar2000.org/) :s::win::app::cs:
   - :material-symbols-subdirectory-arrow-right: [Foobar2000 add-ons](#foobar2000-add-ons)
 - [Fooyin](https://github.com/fooyin/fooyin)
-- [MusicBee](https://www.getmusicbee.com/) :simple-icons-windows::material-symbols-lock-outline:
-- [Strawberry](https://www.strawberrymusicplayer.org/) :simple-icons-linux:
-- [WACUP](https://getwacup.com/) :simple-icons-windows::material-symbols-lock-outline:
-- [Amberol](https://apps.gnome.org/Amberol/) :simple-icons-linux:
-- [Tauon Music Box](https://tauonmusicbox.rocks/) :simple-icons-windows::simple-icons-linux: <Badge type="info" text="Synced Lyrics" link="https://github.com/Taiko2k/TauonMusicBox/wiki/Lyrics#synced-lyrics" />
+- [MusicBee](https://www.getmusicbee.com/) :win::cs:
+- [Strawberry](https://www.strawberrymusicplayer.org/) :lin:
+- [WACUP](https://getwacup.com/) :win::cs:
+- [Amberol](https://apps.gnome.org/Amberol/) :lin:
+- [Tauon Music Box](https://tauonmusicbox.rocks/) :win::lin: <Badge type="info" text="Synced Lyrics" link="https://github.com/Taiko2k/TauonMusicBox/wiki/Lyrics#synced-lyrics" />
 
 ### Online
-- [SoundCloud](https://github.com/makufelis/SoundCloud-Client) :simple-icons-windows:
-- [Spicetify](https://spicetify.app/) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
-- [SPOTX](https://github.com/SpotX-Official/SpotX) :simple-icons-windows:
-- [spmp](https://github.com/toasterofbread/spmp) :simple-icons-windows::simple-icons-linux:
-- [Harmony Music](https://github.com/anandnet/Harmony-Music) :simple-icons-windows::simple-icons-linux:
-- [Youtube Music](https://github.com/th-ch/youtube-music) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
+- [SoundCloud](https://github.com/makufelis/SoundCloud-Client) :win:
+- [Spicetify](https://spicetify.app/) :win::app::lin:
+- [SPOTX](https://github.com/SpotX-Official/SpotX) :win:
+- [spmp](https://github.com/toasterofbread/spmp) :win::lin:
+- [Harmony Music](https://github.com/anandnet/Harmony-Music) :win::lin:
+- [Youtube Music](https://github.com/th-ch/youtube-music) :win::app::lin:
 
 
 ### Foobar2000 add-ons
@@ -415,12 +415,12 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 
 
 ## Downloader
-- [Deemix](https://download.deemix.workers.dev/) :material-symbols-lock-outline:
+- [Deemix](https://download.deemix.workers.dev/) :cs:
 - [Onthespot](https://github.com/casualsnek/onthespot)
-- [Lidarr](https://lidarr.audio/) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
-- [Nicotine+](https://nicotine-plus.org/) :simple-icons-windows::simple-icons-apple::simple-icons-linux::mdi-lan-pending:<tooltip>Direct peer-to-peer sharing network, primarily used for music</tooltip>
+- [Lidarr](https://lidarr.audio/) :win::app::lin:
+- [Nicotine+](https://nicotine-plus.org/) :win::app::lin::mdi-lan-pending:<tooltip>Direct peer-to-peer sharing network, primarily used for music</tooltip>
 - [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD)
-- [Soggfy](https://github.com/Rafiuth/Soggfy) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
+- [Soggfy](https://github.com/Rafiuth/Soggfy) :win::app::lin:
 - [Spotify AAC Downloader](https://github.com/glomatico/spotify-aac-downloader)
 - [Zotify](https://zotify.xyz/)
 
@@ -433,29 +433,29 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 ## Browser
 
 ### Extension
-- [AudD Music](https://github.com/AudDMusic) :glowing-star::material-symbols-lock-outline: [:simple-icons-googlechrome:](https://chromewebstore.google.com/detail/lhhohkfofnfbnildpdhhjeeenapeceei) [:simple-icons-firefoxbrowser:](https://addons.mozilla.org/en-US/firefox/addon/audd/)
-- [AHA Music](https://aha-music.com/) :material-symbols-lock-outline: [:simple-icons-googlechrome:](https://chromewebstore.google.com/detail/aha-music-song-finder-for/dpacanjfikmhoddligfbehkpomnbgblf)
-- [BetterRYM](https://github.com/jgchk/better-rym) [:simple-icons-googlechrome:](https://chromewebstore.google.com/detail/pdbgknkejapoehgogijhmahhpiimlhjg) [:simple-icons-firefoxbrowser:](https://addons.mozilla.org/en-US/firefox/addon/better-rym/) 
-- [Spotify Lyrics](https://github.com/mantou132/Spotify-Lyrics) :simple-icons-googlechrome::simple-icons-firefoxbrowser:
-- [Spotify New Releases](https://spotify-new-releases.web.app/) :material-symbols-lock-outline: [:simple-icons-googlechrome:](https://chromewebstore.google.com/detail/spotify-new-releases/badbmkjnnimjfhhmknfoikappgmelpjo)
-- [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler) [:simple-icons-googlechrome:](https://chrome.google.com/webstore/detail/lastfm-scrobbler/hhinaapppaileiechjoiifaancjggfjm) [:simple-icons-firefoxbrowser:](https://addons.mozilla.org/en-US/firefox/addon/web-scrobbler/)
+- [AudD Music](https://github.com/AudDMusic) :s::cs: [:cr:](https://chromewebstore.google.com/detail/lhhohkfofnfbnildpdhhjeeenapeceei) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/audd/)
+- [AHA Music](https://aha-music.com/) :cs: [:cr:](https://chromewebstore.google.com/detail/aha-music-song-finder-for/dpacanjfikmhoddligfbehkpomnbgblf)
+- [BetterRYM](https://github.com/jgchk/better-rym) [:cr:](https://chromewebstore.google.com/detail/pdbgknkejapoehgogijhmahhpiimlhjg) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/better-rym/) 
+- [Spotify Lyrics](https://github.com/mantou132/Spotify-Lyrics) :cr::ff:
+- [Spotify New Releases](https://spotify-new-releases.web.app/) :cs: [:cr:](https://chromewebstore.google.com/detail/spotify-new-releases/badbmkjnnimjfhhmknfoikappgmelpjo)
+- [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler) [:cr:](https://chrome.google.com/webstore/detail/lastfm-scrobbler/hhinaapppaileiechjoiifaancjggfjm) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/web-scrobbler/)
 
 ### Script
-- [Ame](https://gitlab.com/SuperSaltyGamer/ame) :simple-icons-applemusic::simple-icons-musicbrainz:<Badge text="VGMdb" />
+- [Ame](https://gitlab.com/SuperSaltyGamer/ame) :appmusic::simple-icons-musicbrainz:<Badge text="VGMdb" />
 - [dzunlock](https://uhwotgit.fly.dev/uhwot/dzunlock)
 - [Gallery Mode for Lists - RateYourMusic](https://greasyfork.org/en/scripts/434865-gallery-mode-for-lists-rateyourmusic)
 - [MusicBrainz Userscripts](https://musicbrainz.org/doc/Guides/Userscripts)
 - [Slav Art User Scripts](https://rentry.org/slavartuserscripts) <Badge text="Qobuz" />
 
 ## Converter & Ripper
-- [CUETools](http://cue.tools/wiki/CUETools) :simple-icons-windows: [:simple-icons-github:](https://github.com/gchudov/cuetools.net)
-- [dBpoweramp](https://www.dbpoweramp.com/) :simple-icons-windows::simple-icons-apple::material-symbols-lock-outline: <Badge type="warning" text="Trialware" />
-- [Exact Audio Copy](https://exactaudiocopy.de/) :simple-icons-windows:
-- [FFmpeg](https://ffmpeg.org/) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
-- [fre:ac](https://www.freac.org/) :simple-icons-windows::simple-icons-apple::simple-icons-linux: [:simple-icons-github:](https://github.com/enzo1982/freac)
-- [SoX](https://sourceforge.net/projects/sox/) :simple-icons-windows::simple-icons-apple:
-- [X Lossless Decoder](https://tmkk.undo.jp/xld/index_e.html) :simple-icons-apple:
-- [Whipper](https://github.com/whipper-team/whipper) :simple-icons-linux:
+- [CUETools](http://cue.tools/wiki/CUETools) :win: [:gh:](https://github.com/gchudov/cuetools.net)
+- [dBpoweramp](https://www.dbpoweramp.com/) :win::app::cs: <Badge type="warning" text="Trialware" />
+- [Exact Audio Copy](https://exactaudiocopy.de/) :win:
+- [FFmpeg](https://ffmpeg.org/) :win::app::lin:
+- [fre:ac](https://www.freac.org/) :win::app::lin: [:gh:](https://github.com/enzo1982/freac)
+- [SoX](https://sourceforge.net/projects/sox/) :win::app:
+- [X Lossless Decoder](https://tmkk.undo.jp/xld/index_e.html) :app:
+- [Whipper](https://github.com/whipper-team/whipper) :lin:
 
 ::: details :material-symbols-subdirectory-arrow-right: Must Read Guides
 - [redacted Interview Prep](https://interviewfor.red/en/index.html)
@@ -469,17 +469,17 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 ## Vocaloid
 
 ### Editors
-- [Vocaloid](https://www.vocaloid.com/en/) :material-symbols-lock-outline:
-- [Synthesizer V](https://dreamtonics.com/synthesizerv/) :material-symbols-lock-outline:
-- [Piapro Studio](https://piaprostudio.com/?lang=en) :material-symbols-lock-outline:
-- [CeVIO](https://cevio.jp/) :material-symbols-lock-outline:
+- [Vocaloid](https://www.vocaloid.com/en/) :cs:
+- [Synthesizer V](https://dreamtonics.com/synthesizerv/) :cs:
+- [Piapro Studio](https://piaprostudio.com/?lang=en) :cs:
+- [CeVIO](https://cevio.jp/) :cs:
 - [Open UTAU](https://www.openutau.com/)
 
 ### DAW / Digital Audio Workstation
-- [Ableton](https://www.ableton.com/en/) :material-symbols-lock-outline:
-- [Cubase](https://www.steinberg.net/cubase/) :material-symbols-lock-outline:
-- [FL Studio](https://www.image-line.com/fl-studio/) :material-symbols-lock-outline:
-- [Studio One](https://www.presonus.com/en-US/studio-one.html) :material-symbols-lock-outline:
+- [Ableton](https://www.ableton.com/en/) :cs:
+- [Cubase](https://www.steinberg.net/cubase/) :cs:
+- [FL Studio](https://www.image-line.com/fl-studio/) :cs:
+- [Studio One](https://www.presonus.com/en-US/studio-one.html) :cs:
 
 ### Related Links
 - [EL RINCÓN DEL KITSUNE NEO](https://elrincondelkitsuneneo2-0.blogspot.com/)
@@ -499,19 +499,19 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 ## Others
 
 ### Checker / Visualizer
-- [Bitter](https://www.stillwellaudio.com/plugins/bitter/) :simple-icons-windows::simple-icons-apple::material-symbols-lock-outline:
-- [cambia LogTools](https://logs.musichoarders.xyz/) :simple-icons-firefoxbrowser::simple-icons-googlechrome: [:simple-icons-github:](https://github.com/arg274/cambia)
-- [Sonic Visualiser](https://www.sonicvisualiser.org/) :simple-icons-windows::simple-icons-apple::simple-icons-linux: [:simple-icons-github:](https://github.com/sonic-visualiser/sonic-visualiser/)
-- [Spek](https://www.spek.cc/) :glowing-star::simple-icons-windows::simple-icons-apple::simple-icons-linux: [:simple-icons-github:](https://github.com/alexkay/spek)
+- [Bitter](https://www.stillwellaudio.com/plugins/bitter/) :win::app::cs:
+- [cambia LogTools](https://logs.musichoarders.xyz/) :ff::cr: [:gh:](https://github.com/arg274/cambia)
+- [Sonic Visualiser](https://www.sonicvisualiser.org/) :win::app::lin: [:gh:](https://github.com/sonic-visualiser/sonic-visualiser/)
+- [Spek](https://www.spek.cc/) :s::win::app::lin: [:gh:](https://github.com/alexkay/spek)
 
 ### Tagger
-- [MP3Tag](https://www.mp3tag.de/en/) :simple-icons-windows::simple-icons-apple::material-symbols-lock-outline:
-- [MusicBrainz Picard](https://picard.musicbrainz.org/) :simple-icons-windows::simple-icons-apple::simple-icons-linux: [:simple-icons-github:](https://github.com/metabrainz/picard)
-- [TagScanner](https://www.xdlab.ru/en/) :simple-icons-windows::material-symbols-lock-outline:
-- [beets](https://beets.io/) [:simple-icons-github:](https://github.com/beetbox/beets)<Badge type="info" text="Guide" link="https://beets.readthedocs.io/en/stable/index.html" />
+- [MP3Tag](https://www.mp3tag.de/en/) :win::app::cs:
+- [MusicBrainz Picard](https://picard.musicbrainz.org/) :win::app::lin: [:gh:](https://github.com/metabrainz/picard)
+- [TagScanner](https://www.xdlab.ru/en/) :win::cs:
+- [beets](https://beets.io/) [:gh:](https://github.com/beetbox/beets)<Badge type="info" text="Guide" link="https://beets.readthedocs.io/en/stable/index.html" />
 
 ### Misc
-- [Karaoke Mugen](https://mugen.karaokes.moe/en/) :simple-icons-windows::simple-icons-apple::simple-icons-linux: [:simple-icons-gitlab:](https://gitlab.com/karaokemugen/code/karaokemugen-app)
+- [Karaoke Mugen](https://mugen.karaokes.moe/en/) :win::app::lin: [:gl:](https://gitlab.com/karaokemugen/code/karaokemugen-app)
 
 
 
@@ -534,9 +534,9 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 - [Subtracks](https://github.com/austinried/subtracks#readme)
 - [substreamer](https://substreamerapp.com/)
 - [Ultrasonic](https://ultrasonic.gitlab.io/)
-- [Plexamp](https://www.plex.tv/plexamp/) :material-symbols-add-shopping-cart-rounded:
-- [DSub](https://play.google.com/store/apps/details?id=github.daneren2005.dsub) :material-symbols-credit-card-outline:
-- [Symfonium](https://symfonium.app/) :material-symbols-credit-card-outline:  
+- [Plexamp](https://www.plex.tv/plexamp/) :fm:
+- [DSub](https://play.google.com/store/apps/details?id=github.daneren2005.dsub) :paid:
+- [Symfonium](https://symfonium.app/) :paid:  
 - [Tempo](https://github.com/CappielloAntonio/tempo)
 
 ## iOS
@@ -549,14 +549,14 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 
 ## Desktop
 
-- [Sonixd](https://github.com/jeffvli/sonixd) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
-- [Sublime Music](https://sublimemusic.app/) :simple-icons-linux:
-- [Supersonic](https://github.com/dweymouth/supersonic)  :simple-icons-windows::simple-icons-apple::simple-icons-linux:
-- [Submariner](https://submarinerapp.com/) :simple-icons-apple:
-- [Plexamp](https://www.plex.tv/plexamp/) :simple-icons-windows::simple-icons-apple::simple-icons-linux::material-symbols-add-shopping-cart-rounded:
+- [Sonixd](https://github.com/jeffvli/sonixd) :win::app::lin:
+- [Sublime Music](https://sublimemusic.app/) :lin:
+- [Supersonic](https://github.com/dweymouth/supersonic)  :win::app::lin:
+- [Submariner](https://submarinerapp.com/) :app:
+- [Plexamp](https://www.plex.tv/plexamp/) :win::app::lin::fm:
 - **CLI**
-    - [Jellycli](https://github.com/tryffel/jellycli#readme) :simple-icons-windows::simple-icons-linux:
-    - [STMP](https://github.com/wildeyedskies/stmp#readme) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
+    - [Jellycli](https://github.com/tryffel/jellycli#readme) :win::lin:
+    - [STMP](https://github.com/wildeyedskies/stmp#readme) :win::app::lin:
 
 ## Others
 - [SonicLair](https://github.com/thelinkin3000/SonicLair) <Badge type="info" text="Android TV" />

@@ -67,8 +67,8 @@ It has various variables. The free VPNs are very limited such as untrusted owner
 - [Mullvad](https://mullvad.net/) <Badge type="tip" text="No port forwarding" />
 - [nVPN](https://nvpn.net/)
 - [OVPN](https://www.ovpn.com/)
-- [Proton](https://protonvpn.com/) :material-symbols-add-shopping-cart-rounded:<tooltip>The free tier doesn't support torrenting.</tooltip>
-- [Windscribe](https://windscribe.com/) :material-symbols-add-shopping-cart-rounded:
+- [Proton](https://protonvpn.com/) :fm:<tooltip>The free tier doesn't support torrenting.</tooltip>
+- [Windscribe](https://windscribe.com/) :fm:
 - [Xeovo](https://xeovo.com/)
 
 ### Free VPNs
@@ -101,7 +101,7 @@ Torrent trackers that don't allow you to freely make an account, but require you
 | NSFW | [ExoticaZ](https://exoticaz.to/) [:simple-icons-discord:](https://discord.gg/GYahYNWutE)<br> [Empornium](https://www.empornium.is/) |
 
 ### Related resources
-- [InstallGentoo Wiki](https://wiki.installgentoo.com/wiki/Private_trackers) :glowing-star:
+- [InstallGentoo Wiki](https://wiki.installgentoo.com/wiki/Private_trackers) :s:
 - [Invite route graph](https://inviteroute.github.io/graph/)
 - [Redacted Interview Prep](https://interviewfor.red/en/index.html)
   - [Wotaku Audio Glossary](/glossary/audio)

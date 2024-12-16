@@ -184,7 +184,7 @@ outline: 1
 
 ### Torrent
 
-- [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" /> 
+- [Nyaa](https://nyaa.si/) :s: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" /> 
 - [Anirena](https://www.anirena.com/)
 - [Shana Project](https://www.shanaproject.com/)
 - [Tokyo Toshokan](https://www.tokyotosho.info/)
@@ -194,11 +194,11 @@ outline: 1
 
 ::: details Symbols
 
-- Uploaded on own server -> :material-symbols-cloud-download-outline-rounded:
+- Uploaded on own server -> :ddl:
 - Uploaded on Google Drive -> :mdi-google-drive:
 - Uploaded on Host sites -> :mdi-snail:
 - Batch Download -> :material-symbols-package-2:
-- Torrent Download -> :lucide-magnet:
+- Torrent Download -> :mag:
 - Account Needed -> :mdi-account:
 - Blu-ray -> :mdi-disc:
 
@@ -206,18 +206,18 @@ outline: 1
 
 
 #### Reuploads / Untouched
-- [Flugel Anime](https://flugelanime.com/) :material-symbols-cloud-download-outline-rounded:
-- [Tokyo Insider](https://www.tokyoinsider.com/) :material-symbols-cloud-download-outline-rounded:
+- [Flugel Anime](https://flugelanime.com/) :ddl:
+- [Tokyo Insider](https://www.tokyoinsider.com/) :ddl:
 - [JPFiles](https://jpfiles.net/) :mdi-snail::mdi-disc:
 - [AnimeRSS](https://animerss.com/) :mdi-snail::mdi-disc:
 
 #### Re-encodes
 - [Kayo anime](https://kayoanime.com/) :mdi-google-drive::material-symbols-package-2:
 - [Mkvseries](https://mkvseries.com/) <Badge text="2" link="https://mkvcinema.in/" /> :mdi-google-drive::material-symbols-package-2:
-- [Anime out](https://www.animeout.xyz/) :material-symbols-cloud-download-outline-rounded::mdi-account:
-- [Chauthanh](https://chauthanh.info/) :material-symbols-cloud-download-outline-rounded::mdi-account:
+- [Anime out](https://www.animeout.xyz/) :ddl::mdi-account:
+- [Chauthanh](https://chauthanh.info/) :ddl::mdi-account:
 - [RIP Crabby Anime](https://ripcrabbyanime.com/) :mdi-google-drive::material-symbols-package-2:
-- [hi10anime](https://hi10anime.com/) :material-symbols-cloud-download-outline-rounded::lucide-magnet::mdi-account::material-symbols-package-2:
+- [hi10anime](https://hi10anime.com/) :ddl::mag::mdi-account::material-symbols-package-2:
 
 #### Subtitles
 - [Closed Caption Browser](https://cc.edatribe.com/#/) <Badge type="info" text="Dubtitles" />
@@ -262,7 +262,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 
 ## Online
 
-- [Comick](https://comick.io/home) :glowing-star: <Badge type="tip" text="RSS" icon="i-material-symbols-rss-feed-rounded" link="https://manga.ldez.workers.dev/" />  
+- [Comick](https://comick.io/home) :s: <Badge type="tip" text="RSS" icon="i-material-symbols-rss-feed-rounded" link="https://manga.ldez.workers.dev/" />  
   <tooltip>
     <ul>
       <li>Minimal compression</li>
@@ -364,7 +364,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 ### Direct Download
 
 #### Aggregators
-- [Madokami](https://manga.madokami.al) :glowing-star: <Badge type="info" text="Guide" link="/guides/manga/madokami" />
+- [Madokami](https://manga.madokami.al) :s: <Badge type="info" text="Guide" link="/guides/manga/madokami" />
 - [Anna's Archive](https://annas-archive.org/) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
 - [Desuarchive](https://desuarchive.org/) :simple-icons-4chan: <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
 - [Library Genesis](https://libgen.gs/)
@@ -483,7 +483,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 
 ### Streaming
 
-- [Tokuzilla](https://tokuzilla.net/) :glowing-star: <Badge type="info" text="2" link="https://tokuzl.net/" />
+- [Tokuzilla](https://tokuzilla.net/) :s: <Badge type="info" text="2" link="https://tokuzl.net/" />
 - [Toku555](https://toku555.com/)
 - [Zokaj](https://zokaj.com/)
 - [ViewAsian](https://www.viewasian.org/)
@@ -492,8 +492,8 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [Legal Tokusatsu Streaming List](https://otakulogy.github.io/tokusatsu-streaming/)
 
 ### Download
-- [Zekozimo](https://zekozimo.blogspot.com/) :glowing-star: <Badge type="tip" text="General"  />
-- [KRDL](https://krdl.moe/) :glowing-star:
+- [Zekozimo](https://zekozimo.blogspot.com/) :s: <Badge type="tip" text="General"  />
+- [KRDL](https://krdl.moe/) :s:
 - [Nyaa](https://nyaa.si/)
 - [Metallic Subs](https://metallicsubs.wordpress.com/)
 - [Megabeast Empire](https://megabeastempire.wordpress.com/)
@@ -537,8 +537,8 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 ## Online
 - [Comic Book Plus](http://comicbookplus.com/) <Badge type="info" text="Vintage"/>
 - [Digital Comic Museum](https://digitalcomicmuseum.com/) <Badge type="info" text="Vintage"/>
-- [Read All Comics](https://readallcomics.com/) :glowing-star:
-- [Read Comic Online (.li)](https://readcomiconline.li/) :glowing-star:
+- [Read All Comics](https://readallcomics.com/) :s:
+- [Read Comic Online (.li)](https://readcomiconline.li/) :s:
 - [Read Comics Online (.ru)](https://readcomicsonline.ru/)
 - [View Comics](https://azcomix.me/)
 
@@ -547,7 +547,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [Comics All](https://comics-all.com/) <Badge type="tip" text="2" link="https://newcomic.info/" />
 - [Comics For All](https://comicsforall269084760.wordpress.com/) <Badge type="info" text="Vintage"/>
 - [Desuarchive](https://desuarchive.org/) <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
-- [GetComics](https://getcomics.info/) :glowing-star:
+- [GetComics](https://getcomics.info/) :s:
 - [Library Genesis](https://libgen.gs/)
 - [Old Comics World](https://oldcomicsworld.blogspot.com/) <Badge type="info" text="Vintage"/>
 - [TheLongbox](https://thelongbox.net/) <Badge type="info" text="Needs account" />
@@ -565,7 +565,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
   - [Marvel Guides](https://marvelguides.com/)
   - [The Comics Journal](https://www.tcj.com/)
 - **Tools**
-  - [Kapowarr](https://casvt.github.io/Kapowarr/) [:simple-icons-github:](https://github.com/Casvt/Kapowarr)
+  - [Kapowarr](https://casvt.github.io/Kapowarr/) [:gh:](https://github.com/Casvt/Kapowarr)
   - [Mylar3](https://github.com/mylar3/mylar3)
 - **Tracker**
   - [Comic Vine](https://comicvine.gamespot.com/)
@@ -587,7 +587,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 | NSFW | [ExoticaZ](https://exoticaz.to/) [:simple-icons-discord:](https://discord.gg/GYahYNWutE)<br> [Empornium](https://www.empornium.is/) |
 
 ::: details :material-symbols-subdirectory-arrow-right: Related resources
-- [InstallGentoo Wiki](https://wiki.installgentoo.com/wiki/Private_trackers) :glowing-star:
+- [InstallGentoo Wiki](https://wiki.installgentoo.com/wiki/Private_trackers) :s:
 - [Invite route graph](https://inviteroute.github.io/graph/)
 - [Redacted Interview Prep](https://interviewfor.red/en/index.html)
   - [Wotaku Audio Glossary](/glossary/audio)

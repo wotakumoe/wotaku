@@ -31,7 +31,7 @@ outline: 2
 ## ROM
 
 ### General
-- [/r/Roms Megathread](https://r-roms.github.io/) :glowing-star:
+- [/r/Roms Megathread](https://r-roms.github.io/) :s:
 - [CDRomance](https://cdromance.com/)
 - [ConsoleRoms](https://www.consoleroms.com/)
 - [Crocdb](https://crocdb.net/)
@@ -61,15 +61,15 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 - **OCR**
    - [Agent](https://github.com/0xDC00/agent)
    - [Game2Text](https://game2text.com/)
-   - [MTool](https://trs.mtool.app/release.php?lang=en) :material-symbols-add-shopping-cart-rounded:
+   - [MTool](https://trs.mtool.app/release.php?lang=en) :fm:
    - [YomiNinja](https://github.com/matt-m-o/YomiNinja)
 - **Others**
    - [Hoyolab Auto-sign](https://github.com/canaria3406/hoyolab-auto-sign)
-   - [Locale Emulator](https://github.com/xupefei/Locale-Emulator) :simple-icons-windows:
-   - [Locale Remulator](https://github.com/InWILL/Locale_Remulator) :simple-icons-windows:
+   - [Locale Emulator](https://github.com/xupefei/Locale-Emulator) :win:
+   - [Locale Remulator](https://github.com/InWILL/Locale_Remulator) :win:
    - [Megami Tensei Fusion Tools](https://aqiu384.github.io/megaten-fusion-tool/home)
-   - [Starward](https://github.com/Scighost/Starward) :simple-icons-windows:
-   - [thprac](https://github.com/touhouworldcup/thprac) :simple-icons-windows:
+   - [Starward](https://github.com/Scighost/Starward) :win:
+   - [thprac](https://github.com/touhouworldcup/thprac) :win:
 
 
 ## Info
@@ -81,17 +81,17 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 - [GOG Database](https://www.gogdb.org/)
 - [HowLongToBeat](https://howlongtobeat.com/)
 - [IGDB](https://www.igdb.com/)
-- [Infinite Backlog](https://infinitebacklog.net/) :glowing-star:
+- [Infinite Backlog](https://infinitebacklog.net/) :s:
 - [MobyGames](https://www.mobygames.com/)
 - [SteamDB](https://steamdb.info/)
-- [The Visual Novel Database (VNDB)](https://vndb.org/) :glowing-star:
+- [The Visual Novel Database (VNDB)](https://vndb.org/) :s:
 - [VNStat](https://vnstat.net/)
 
 ### News
 
 - [4Gamer](https://www.4gamer.net/) :flag-japan:
 - [Famitsu](https://www.famitsu.com/) :flag-japan:
-- [GachaRevenue](https://www.gacharevenue.com/) [:simple-icons-github:](https://github.com/zigamacele/gacharevenue)
+- [GachaRevenue](https://www.gacharevenue.com/) [:gh:](https://github.com/zigamacele/gacharevenue)
 - [Gematsu](https://www.gematsu.com/)
 - [Frontline](https://www.frontlinejp.net/)
 - [Siliconera](https://www.siliconera.com/)
@@ -108,7 +108,7 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 ## osu!
 
 ### Websites
-- [osu!](https://osu.ppy.sh/) [:simple-icons-github:](https://github.com/ppy/osu)<Badge type="info" text="Official" />
+- [osu!](https://osu.ppy.sh/) [:gh:](https://github.com/ppy/osu)<Badge type="info" text="Official" />
 - [Anisync](https://anisync.live/)
 - [BeatConnect](https://beatconnect.io/)
 - [osu.direct](https://osu.direct/home)
@@ -120,11 +120,11 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 
 ### Tools
 - [ani!Search](https://klof44.ca/ani-search/)
-- [Batch Beatmap Downloader](https://github.com/nzbasic/batch-beatmap-downloader) :simple-icons-windows:
-- [osu! Cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner) :simple-icons-windows:
-- [osu! Trainer](https://github.com/FunOrange/osu-trainer) :simple-icons-windows:
-- [sentakki](https://github.com/LumpBloom7/sentakki) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
-- [Tau Ruleset](https://taulazer.github.io/) :simple-icons-windows: [:simple-icons-github:](https://github.com/taulazer/tau)
+- [Batch Beatmap Downloader](https://github.com/nzbasic/batch-beatmap-downloader) :win:
+- [osu! Cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner) :win:
+- [osu! Trainer](https://github.com/FunOrange/osu-trainer) :win:
+- [sentakki](https://github.com/LumpBloom7/sentakki) :win::app::lin:
+- [Tau Ruleset](https://taulazer.github.io/) :win: [:gh:](https://github.com/taulazer/tau)
 
 ## Pokémon
 
@@ -151,14 +151,14 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 - [Pokémon Revolution](https://pokemonrevolution.net/home)
 - [Pokémon Showdown!](https://play.pokemonshowdown.com/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://dex.pokemonshowdown.com/" />
 - [Pokémon Xenoverse](https://pokemonxenoverse.com/)
-- [PokéRogue](https://pokerogue.net/) [:simple-icons-github:](https://github.com/pagefaultgames/pokerogue)
+- [PokéRogue](https://pokerogue.net/) [:gh:](https://github.com/pagefaultgames/pokerogue)
 - [Who's that Pokémon?](https://gearoid.me/pokemon/)
 
 
 ### Tools
-- [dataDex](https://play.google.com/store/apps/details?id=com.talzz.datadex) :simple-icons-android:
-- [Goldex](https://play.google.com/store/apps/details?id=com.goldex) :simple-icons-android:
-- Nuzlocke Chart [:simple-icons-android:](https://play.google.com/store/apps/details?id=com.pseudocode.nuzlockechart) [:simple-icons-apple:](https://apps.apple.com/us/app/nuzlocke-chart/id1573090300)
+- [dataDex](https://play.google.com/store/apps/details?id=com.talzz.datadex) :and:
+- [Goldex](https://play.google.com/store/apps/details?id=com.goldex) :and:
+- Nuzlocke Chart [:and:](https://play.google.com/store/apps/details?id=com.pseudocode.nuzlockechart) [:app:](https://apps.apple.com/us/app/nuzlocke-chart/id1573090300)
 - [Nuzlocke Tracker](https://nuzlocke.app/)
 - [PKHeX](https://github.com/kwsch/PKHeX)
 - [Poké Transporter GB](https://github.com/GearsProgress/Poke_Transporter_GB)
@@ -173,7 +173,7 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 - [Sonic City](https://sonic-city.net/)
 - [Sonic Retro](https://info.sonicretro.org/)
 - [Sonic Stadium](https://www.sonicstadium.org/)
-- [Sonic Zone](https://soniczone.net/index.html) :glowing-star:
+- [Sonic Zone](https://soniczone.net/index.html) :s:
 
 ### Fan Games
 - [Sonic Fan Games HQ](https://sonicfangameshq.com/forums/)

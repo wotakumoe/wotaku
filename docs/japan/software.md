@@ -14,15 +14,15 @@ outline: [2,3]
 ### Starter
 
 #### Software
-- [Anki](https://apps.ankiweb.net/) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
-- [AnkiDroid Flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki) :simple-icons-android:
-- [AnkiMobile Flashcards](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) :simple-icons-apple::material-symbols-credit-card-outline:
-- [Ankiconnect Android](https://github.com/KamWithK/AnkiconnectAndroid) :simple-icons-android:
+- [Anki](https://apps.ankiweb.net/) :win::app::lin:
+- [AnkiDroid Flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki) :and:
+- [AnkiMobile Flashcards](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) :app::paid:
+- [Ankiconnect Android](https://github.com/KamWithK/AnkiconnectAndroid) :and:
 - [VocabSieve](https://docs.freelanguagetools.org/)
 
 #### Guide
 - [Anki Manual](https://docs.ankiweb.net/)
-- [Tatsumoto](https://tatsumoto.neocities.org/blog/setting-up-anki) :glowing-star:
+- [Tatsumoto](https://tatsumoto.neocities.org/blog/setting-up-anki) :s:
 - [jp-mining-note](https://arbyste.github.io/jp-mining-note/) <Badge type="tip" text="original" link="https://aquafina-water-bottle.github.io/jp-mining-note/"/>
 - [Xelieu's Modified Anime Card](https://xelieu.github.io/jp-lazy-guide/)
 - [vladsperspective](https://vladsperspective.wordpress.com/2020/07/15/using-anime-decks-subs2srs-mediafire-premade-decks/)
@@ -37,11 +37,11 @@ outline: [2,3]
 - [FSRS4Anki](https://github.com/open-spaced-repetition/fsrs4anki)
 - [Japanese Support](https://ankiweb.net/shared/info/3918629684)
 - [Kanji Grid](https://github.com/Kuuuube/kanjigrid)
-- [Kotu](https://kotu.io/) :mdi-earth:
-- [MorphMan](https://ankiweb.net/shared/info/900801631)  [:simple-icons-github:](https://github.com/kaegi/MorphMan)
+- [Kotu](https://kotu.io/) :web:
+- [MorphMan](https://ankiweb.net/shared/info/900801631)  [:gh:](https://github.com/kaegi/MorphMan)
 - [quick image](https://github.com/ZXY101/quick-image)
 - [Review Heatmap](https://ankiweb.net/shared/info/1771074083)
-- [Yomichan Forvo Server](https://ankiweb.net/shared/info/580654285) [:simple-icons-github:](https://github.com/jamesnicolas/yomichan-forvo-server)
+- [Yomichan Forvo Server](https://ankiweb.net/shared/info/580654285) [:gh:](https://github.com/jamesnicolas/yomichan-forvo-server)
 - [WaniAnki](https://damiansh.github.io/waniAnki/instructions)
 
 ### Card templates
@@ -78,7 +78,7 @@ outline: [2,3]
 ### Dictionary
 
 #### Android
-- [jidoujisho](https://github.com/lrorpilla/jidoujisho) :glowing-star:
+- [jidoujisho](https://github.com/lrorpilla/jidoujisho) :s:
 - [Akebi Japanese Dictionary](https://play.google.com/store/apps/details?id=com.craxic.akebifree)
 - [Aedict3 Japanese Dictionary](https://play.google.com/store/apps/details?id=sk.baka.aedict3)
 - [Japanese Dictionary Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto)
@@ -94,13 +94,13 @@ outline: [2,3]
 
 #### Android
 - [Japanese Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy)
-- [jidoujisho](https://github.com/lrorpilla/jidoujisho) :glowing-star:
-- [Kakugo](https://play.google.com/store/apps/details?id=org.kaqui) [:simple-icons-github:](https://github.com/blastrock/kakugo)
+- [jidoujisho](https://github.com/lrorpilla/jidoujisho) :s:
+- [Kakugo](https://play.google.com/store/apps/details?id=org.kaqui) [:gh:](https://github.com/blastrock/kakugo)
 - [KankenToNews](https://play.google.com/store/apps/details?id=jp.kyoto.nlp.kanken)
 - [Kanji Dojo](https://play.google.com/store/apps/details?id=ua.syt0r.kanji)
 - [Kata](https://play.google.com/store/apps/details?id=im.dacer.kata)
 - [kawaiiNihongo](https://play.google.com/store/apps/details?id=de.mardukcorp.kawaiinihongo)
-- [renshuu](https://play.google.com/store/apps/details?id=com.renshuu.renshuu_org) [:mdi-earth:](https://www.renshuu.org/)
+- [renshuu](https://play.google.com/store/apps/details?id=com.renshuu.renshuu_org) [:web:](https://www.renshuu.org/)
 - [Textbender](https://github.com/fruitports/android-textbender)
 - [Vocal Pitch Monitor](https://play.google.com/store/apps/details?id=com.tadaoyamaoka.vocalpitchmonitor)
 
@@ -109,26 +109,26 @@ outline: [2,3]
 - [Learn Japanese! - Kanji](https://apps.apple.com/us/app/learn-japanese-kanji/id1078107994)
 - [KankenToNews](https://apps.apple.com/us/app/kankentonews/id1449966937)
 - [Kana - Hiragana and Katakana](https://apps.apple.com/us/app/kana-hiragana-and-katakana/id1454200955)
-- [Kanji Garden](https://apps.apple.com/us/app/kanji-garden-japanese/id1338967114) [:mdi-earth:](https://kanji.garden/)
+- [Kanji Garden](https://apps.apple.com/us/app/kanji-garden-japanese/id1338967114) [:web:](https://kanji.garden/)
 - [kawaiiNihongo](https://apps.apple.com/us/app/kawaiinihongo-learn-japanese/id1015333181)
 - [Real Kana](https://apps.apple.com/us/app/real-kana/id343807473)
-- [renshuu](https://apps.apple.com/us/app/renshuu-japanese-learning/id1542730063) [:mdi-earth:](https://www.renshuu.org/)
+- [renshuu](https://apps.apple.com/us/app/renshuu-japanese-learning/id1542730063) [:web:](https://www.renshuu.org/)
 
 ### Reader
 
 #### Android
-- [jidoujisho](https://github.com/lrorpilla/jidoujisho) :glowing-star:
-- [Easy Japanese](https://play.google.com/store/apps/details?id=mobi.eup.jpnews) [:mdi-earth:](https://easyjapanese.net/)
+- [jidoujisho](https://github.com/lrorpilla/jidoujisho) :s:
+- [Easy Japanese](https://play.google.com/store/apps/details?id=mobi.eup.jpnews) [:web:](https://easyjapanese.net/)
 - [OCR Manga Reader for Android](https://sourceforge.net/projects/ocrmangareaderforandroid/)
-- [Satori Reader](https://play.google.com/store/apps/details?id=com.braksoftware.SatoriReader) [:mdi-earth:](https://www.satorireader.com/)
+- [Satori Reader](https://play.google.com/store/apps/details?id=com.braksoftware.SatoriReader) [:web:](https://www.satorireader.com/)
 - [Write It! Japanese](https://play.google.com/store/apps/details?id=com.jernung.writeit.jpn)
 
 
 #### Apple
-- [Easy Japanese](https://apps.apple.com/us/app/easy-japanese-news-%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/id1107177166) [:mdi-earth:](https://easyjapanese.net/)
+- [Easy Japanese](https://apps.apple.com/us/app/easy-japanese-news-%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/id1107177166) [:web:](https://easyjapanese.net/)
 - [Immersion Reader](https://reader.immersionkit.com/)
 - [Manabi Reader](https://reader.manabi.io/)
-- [Satori Reader](https://apps.apple.com/us/app/satori-reader/id1382950847) [:mdi-earth:](https://www.satorireader.com/)
+- [Satori Reader](https://apps.apple.com/us/app/satori-reader/id1382950847) [:web:](https://www.satorireader.com/)
 - [Write It! Japanese](https://apps.apple.com/us/app/write-it-japanese/id1268225663)
 
 
@@ -139,45 +139,45 @@ outline: [2,3]
 ### Media
 
 #### Video Player
-- [Anime Subtitle Player](https://anime-subtitle-player.vercel.app/) :mdi-earth: [:simple-icons-github:](https://github.com/LostArrows27/anime-subtitle-player)
-- [Animebook](https://animebook.github.io/) :mdi-earth: <Badge type="info" text="Guide" link="https://cademcniven.com/posts/20210703/" />
-- [Asbplayer](https://killergerbah.github.io/asbplayer/) :mdi-earth::simple-icons-googlechrome: [:simple-icons-github:](https://github.com/killergerbah/asbplayer)
+- [Anime Subtitle Player](https://anime-subtitle-player.vercel.app/) :web: [:gh:](https://github.com/LostArrows27/anime-subtitle-player)
+- [Animebook](https://animebook.github.io/) :web: <Badge type="info" text="Guide" link="https://cademcniven.com/posts/20210703/" />
+- [Asbplayer](https://killergerbah.github.io/asbplayer/) :web::cr: [:gh:](https://github.com/killergerbah/asbplayer)
 - [Emby Jimaku](https://github.com/bpwhelan/Emby.Jimaku)
-- [Voracious](https://voracious.app/) :simple-icons-windows::simple-icons-linux: [:simple-icons-github:](https://github.com/rsimmons/voracious)
+- [Voracious](https://voracious.app/) :win::lin: [:gh:](https://github.com/rsimmons/voracious)
 
 #### mpv
 - [autosubsync mpv](https://github.com/Ajatt-Tools/autosubsync-mpv)
-- [memento](https://github.com/ripose-jp/Memento) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
-- [mpvacious](https://github.com/Ajatt-Tools/mpvacious) :simple-icons-windows::simple-icons-linux:
+- [memento](https://github.com/ripose-jp/Memento) :win::app::lin:
+- [mpvacious](https://github.com/Ajatt-Tools/mpvacious) :win::lin:
 - [mpv jimaku](https://github.com/ZXY101/mpv-jimaku)
 - [mpv retiming scripts](https://github.com/Ulidtsoa01/mpv-retiming-scripts)
 - [mpv sub scripts](https://github.com/peldas/mpv-sub-scripts)
 - [mpv subversive](https://github.com/nairyosangha/mpv-subversive)
 
 #### Reader
-- [Mokuro](https://github.com/kha-white/mokuro) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
+- [Mokuro](https://github.com/kha-white/mokuro) :win::app::lin:
   - [Mokuro Catalog](https://catalog.mokuro.moe/)
   - [2500 Volume Mokuro OCR Manga PDF Collection](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTY0MTI2NQ.RHVjaw)
-- [ttsu Ebook Reader](https://reader.ttsu.app/) :mdi-earth: [:simple-icons-github:](https://github.com/ttu-ttu/ebook-reader) 
+- [ttsu Ebook Reader](https://reader.ttsu.app/) :web: [:gh:](https://github.com/ttu-ttu/ebook-reader) 
 
 
 ### Browser
 
-- [Yomitan](https://yomitan.wiki/) :simple-icons-firefoxbrowser::simple-icons-googlechrome: [:simple-icons-github:](https://github.com/themoeway/yomitan) <Badge type="tip" text="Guide" link="https://learnjapanese.moe/yomichan/" /> `Pop-up dictionary`
+- [Yomitan](https://yomitan.wiki/) :ff::cr: [:gh:](https://github.com/themoeway/yomitan) <Badge type="tip" text="Guide" link="https://learnjapanese.moe/yomichan/" /> `Pop-up dictionary`
     - [Yomitan Dictionaries](https://github.com/MarvNC/yomichan-dictionaries/)
     - [Yomitan Grammar Dictionaries](https://github.com/aiko-tanaka/Grammar-Dictionaries)
     - [Local Audio Server for Yomichan](https://github.com/themoeway/local-audio-yomichan)
     - [VNDB Names for Yomitan](https://github.com/kaanium/VNDB-Names-for-Yomitan)
-- [Rikitan](https://github.com/Ajatt-Tools/rikaitan) :simple-icons-firefoxbrowser::simple-icons-googlechrome: <Badge type="tip" text="Guide" link="https://tatsumoto.neocities.org/blog/setting-up-yomichan" /><Badge type="tip" text="Dictionaries" link="https://tatsumoto.neocities.org/blog/yomichan-and-epwing-dictionaries" /> `Pop-up dictionary`
-- [10ten Japanese Reader](https://github.com/birchill/10ten-ja-reader) :simple-icons-firefoxbrowser::simple-icons-googlechrome::mingcute-safari-fill: `Pop-up dictionary`
-- [ASB Auto Subs](https://github.com/GodPepe7/asb-auto-subs) :simple-icons-firefoxbrowser::simple-icons-googlechrome: `Jimaku subs in anime sites`
-- [Japanese.io](https://www.japanese.io/) :simple-icons-googlechrome: `Pop-up dictionary`
+- [Rikitan](https://github.com/Ajatt-Tools/rikaitan) :ff::cr: <Badge type="tip" text="Guide" link="https://tatsumoto.neocities.org/blog/setting-up-yomichan" /><Badge type="tip" text="Dictionaries" link="https://tatsumoto.neocities.org/blog/yomichan-and-epwing-dictionaries" /> `Pop-up dictionary`
+- [10ten Japanese Reader](https://github.com/birchill/10ten-ja-reader) :ff::cr::mingcute-safari-fill: `Pop-up dictionary`
+- [ASB Auto Subs](https://github.com/GodPepe7/asb-auto-subs) :ff::cr: `Jimaku subs in anime sites`
+- [Japanese.io](https://www.japanese.io/) :cr: `Pop-up dictionary`
 - [jimaku player](https://github.com/sheodox/jimaku-player) :simple-icons-javascript: `Custom subs for CR`
-- [Language Reactor](https://www.languagereactor.com/) :simple-icons-googlechrome: `Pop-up dictionary & immersion helper` :material-symbols-add-shopping-cart-rounded:
-- [mirigana](https://github.com/mirigana/mirigana) :simple-icons-firefoxbrowser::simple-icons-googlechrome: `Insert furigana on Twitter`
-- [JPDB Web Reader](https://github.com/max-kamps/jpd-breader) :simple-icons-firefoxbrowser::simple-icons-googlechrome:
-- [Rikaikun](https://github.com/melink14/rikaikun) :simple-icons-googlechrome: `Pop-up dictionary`
-- [Subadub](https://github.com/rsimmons/subadub) :simple-icons-firefoxbrowser::simple-icons-googlechrome: `Netflix subs tool w/ pop-up dictionary`
+- [Language Reactor](https://www.languagereactor.com/) :cr: `Pop-up dictionary & immersion helper` :fm:
+- [mirigana](https://github.com/mirigana/mirigana) :ff::cr: `Insert furigana on Twitter`
+- [JPDB Web Reader](https://github.com/max-kamps/jpd-breader) :ff::cr:
+- [Rikaikun](https://github.com/melink14/rikaikun) :cr: `Pop-up dictionary`
+- [Subadub](https://github.com/rsimmons/subadub) :ff::cr: `Netflix subs tool w/ pop-up dictionary`
 
 
 ### Tools
@@ -189,24 +189,24 @@ outline: [2,3]
 - [JL](https://github.com/rampaa/JL)
 
 #### Subtitle
-- [Ageisub](https://github.com/arch1t3cht/Aegisub) :simple-icons-windows::simple-icons-apple:  `Subtitle editor`
-- [Resync subtitles](https://animecards.site/subtitles/) :simple-icons-windows:
-- [Subtitle Edit](https://www.nikse.dk/subtitleedit) :simple-icons-windows: [:simple-icons-github:](https://github.com/SubtitleEdit/subtitleedit)  `Subtitle editor`
-- [Subtitle Downloader](https://github.com/wayneclub/Subtitle-Downloader) :simple-icons-windows::simple-icons-apple::simple-icons-linux: `Download subtitle from streaming services`
-- [subs2srs](https://subs2srs.sourceforge.net/) :simple-icons-windows: `Generates audio clip from media using subs for Anki/SRS`
-- [subtitles-rs](https://github.com/emk/subtitles-rs) :simple-icons-apple::simple-icons-linux: `Various subtitle related tools`
-- [subs2cia](https://github.com/dxing97/subs2cia) :simple-icons-apple::simple-icons-linux: `Generates audio clip from media using subs for Anki/SRS`
-- [FFsubsync](https://github.com/smacke/ffsubsync) :simple-icons-windows::simple-icons-apple::simple-icons-linux: `Auto-sync subs with video`
-- [SubPlz](https://github.com/kanjieater/SubPlz/) :simple-icons-windows::simple-icons-linux: `Generate accurate subtitles from audio`
-- [Subtitle Character Counter](https://cademcniven.com/subtitleCharacterCounter.html) :mdi-earth:
+- [Ageisub](https://github.com/arch1t3cht/Aegisub) :win::app:  `Subtitle editor`
+- [Resync subtitles](https://animecards.site/subtitles/) :win:
+- [Subtitle Edit](https://www.nikse.dk/subtitleedit) :win: [:gh:](https://github.com/SubtitleEdit/subtitleedit)  `Subtitle editor`
+- [Subtitle Downloader](https://github.com/wayneclub/Subtitle-Downloader) :win::app::lin: `Download subtitle from streaming services`
+- [subs2srs](https://subs2srs.sourceforge.net/) :win: `Generates audio clip from media using subs for Anki/SRS`
+- [subtitles-rs](https://github.com/emk/subtitles-rs) :app::lin: `Various subtitle related tools`
+- [subs2cia](https://github.com/dxing97/subs2cia) :app::lin: `Generates audio clip from media using subs for Anki/SRS`
+- [FFsubsync](https://github.com/smacke/ffsubsync) :win::app::lin: `Auto-sync subs with video`
+- [SubPlz](https://github.com/kanjieater/SubPlz/) :win::lin: `Generate accurate subtitles from audio`
+- [Subtitle Character Counter](https://cademcniven.com/subtitleCharacterCounter.html) :web:
 - [Sub transition](https://github.com/Ajatt-Tools/sub-transition) :simple-icons-mpv: `Speed up the video parts with no subs`
-- [Nekomoe JP Formatter](https://jp-formatter.pages.dev/) :mdi-earth: [:simple-icons-github:](https://github.com/Nekomoekissaten-SUB/nekomoe-jp-formatter)  `Clean up subtitles`
+- [Nekomoe JP Formatter](https://jp-formatter.pages.dev/) :web: [:gh:](https://github.com/Nekomoekissaten-SUB/nekomoe-jp-formatter)  `Clean up subtitles`
 - :material-symbols-subdirectory-arrow-right: [Resource list for subtitle-related things](https://rentry.co/jpsub)
 
 #### Audio tools
 - [Automatic Condensed Audio Dialogue Script](https://anacreondjt.gitlab.io/docs/condensed_audio/)
 - [Koemoe](https://condense.moe/)
-- [Tenacity](https://tenacityaudio.org/) :simple-icons-windows::simple-icons-linux: `Audio Editor`
+- [Tenacity](https://tenacityaudio.org/) :win::lin: `Audio Editor`
 - [Immersion pod](https://github.com/Ajatt-Tools/impd) `Condensed audio tools through mpd`
 
 #### Games/VN

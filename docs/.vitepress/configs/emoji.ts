@@ -35,12 +35,32 @@ const emojis: { pack: IconifyJSON; prefix?: string }[] = [
 
 // Add aliases here...
 const aliases: Record<string, string> = {
+  // System
+  and: 'simple-icons-android',
   win: 'simple-icons-windows',
-  apple: 'simple-icons-apple',
-  linux: 'simple-icons-linux',
-  android: 'simple-icons-android',
-  github: 'simple-icons-github'
+  app: 'simple-icons-apple',
+  lin: 'simple-icons-linux',
+  ff: 'simple-icons-firefoxbrowser',
+  cr: 'simple-icons-googlechrome',
+  web: 'mdi-earth',
+  // Type
+  strm: 'material-symbols-play-circle-outline',
+  ddl: 'material-symbols-cloud-download-outline-rounded',
+  mag: 'lucide-magnet',
+  lcl: 'iconoir-floppy-disk',
+  // Price
+  paid: 'material-symbols-credit-card-outline',
+  fm: 'material-symbols-add-shopping-cart-rounded',
+  // Source
+  gh: 'simple-icons-github',
+  gl: 'simple-icons-gitlab',
+  cb: 'simple-icons-codeberg',
+  cs: 'material-symbols-lock-outline',
+  // Others
+  s: 'twemoji-glowing-star',
+  tf: 'mdi-airplane'
 }
+
 
 const defs: Record<string, string> = {}
 

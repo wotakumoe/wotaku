@@ -102,7 +102,7 @@ If you have recommendations for good sites in your native language or want to re
   - [Anime Garden](https://garden.onekuma.cn/)
   - [Bangumi](https://bangumi.moe/)
   - [DMHY](https://dmhy.org/)
-  - [Mikan Project](https://mikanani.me/) [:simple-icons-github:](https://github.com/iota9star/mikan_flutter)
+  - [Mikan Project](https://mikanani.me/) [:gh:](https://github.com/iota9star/mikan_flutter)
   - [MioBT](http://www.miobt.com/)
   - [Nyaa Pantsu](https://ouo.si/)
 
@@ -116,7 +116,7 @@ If you have recommendations for good sites in your native language or want to re
 - [Copymanga](https://copymanga.tv/) <Badge type="danger" text="18+" />
 - [DMZJ](https://www.idmzj.com/)
 - [Komiic](https://komiic.com/)
-- [Manga Reader](https://1zumii.github.io/manga-reader/#/) [:simple-icons-github:](https://github.com/1zumii/manga-reader)
+- [Manga Reader](https://1zumii.github.io/manga-reader/#/) [:gh:](https://github.com/1zumii/manga-reader)
 - [Manhua Gui](https://www.manhuagui.com/)
 - [XManhua](https://xmanhua.com/)
 
@@ -140,7 +140,7 @@ If you have recommendations for good sites in your native language or want to re
 
 | Category | Resources |
 |-|-|
-| Anime | [AGETV](https://github.com/muedsa/AGETV) <br> [Ani](https://github.com/open-ani/ani) <br> [Anime](https://github.com/lanlinju/Anime) <br> [Animeko](https://myani.org/) [:simple-icons-github:](https://github.com/open-ani/animeko) <br> [DMZJ](https://github.com/xiaoyaocz/flutter_dmzj) <br> [Kazumi](https://github.com/Predidit/Kazumi) <br> [Mediabox](https://github.com/RyensX/MediaBox) <br> [Miru App](https://miru.js.org/) <Badge text="Manga" /><br> [Neko Anime](https://github.com/xioneko/neko-anime) <br> [oneAnime](https://github.com/Predidit/oneAnime) |
+| Anime | [AGETV](https://github.com/muedsa/AGETV) <br> [Ani](https://github.com/open-ani/ani) <br> [Anime](https://github.com/lanlinju/Anime) <br> [Animeko](https://myani.org/) [:gh:](https://github.com/open-ani/animeko) <br> [DMZJ](https://github.com/xiaoyaocz/flutter_dmzj) <br> [Kazumi](https://github.com/Predidit/Kazumi) <br> [Mediabox](https://github.com/RyensX/MediaBox) <br> [Miru App](https://miru.js.org/) <Badge text="Manga" /><br> [Neko Anime](https://github.com/xioneko/neko-anime) <br> [oneAnime](https://github.com/Predidit/oneAnime) |
 | Manga | [PasteMangaX](https://github.com/crowforkotlin/pastemangax) <br> [kobi](https://github.com/niuhuan/kobi) <br> [MangaReader](https://github.com/youniaogu/MangaReader) <br> [Venra](https://github.com/venera-app/venera) |
 | Novels | [Hikari Novel](https://github.com/15dd/wenku8reader) <br> [Legado](https://github.com/gedoor/legado) <br> [LightNovelReader](https://github.com/dmzz-yyhyy/LightNovelReader) |
 | Tracker | [Bangumi](https://github.com/czy0729/Bangumi) <br> [Bangumi for Android](https://github.com/xiaoyvyv/bangumi) <br> [Bangumi MX](http://bgmx.mysxl.cn/) [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi) |
@@ -149,8 +149,8 @@ If you have recommendations for good sites in your native language or want to re
 
 | Category | Resources |
 |-|-|
-| Anime | [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) <Badge text="Downloader" /> <br> [Miru App](https://miru.js.org/) [:simple-icons-github:](https://github.com/miru-project/miru-app) <br> [Bangumi Renamer](https://github.com/nuthx/bangumi-renamer) |
-| Manga | [Miru App](https://miru.js.org/) [:simple-icons-github:](https://github.com/miru-project/miru-app) <br> [Venra](https://github.com/venera-app/venera) <br> [Bilibili manga downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) <Badge text="Downloader" /><br> [Bilibili manga watermark remover](https://github.com/lanyeeee/bilibili-manga-watermark-remover) |
+| Anime | [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) <Badge text="Downloader" /> <br> [Miru App](https://miru.js.org/) [:gh:](https://github.com/miru-project/miru-app) <br> [Bangumi Renamer](https://github.com/nuthx/bangumi-renamer) |
+| Manga | [Miru App](https://miru.js.org/) [:gh:](https://github.com/miru-project/miru-app) <br> [Venra](https://github.com/venera-app/venera) <br> [Bilibili manga downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) <Badge text="Downloader" /><br> [Bilibili manga watermark remover](https://github.com/lanyeeee/bilibili-manga-watermark-remover) |
 | Others | [JProxy](https://github.com/LuckyPuppy514/jproxy) <Badge text=" Downloader" /><br> [Novel downloader](https://github.com/404-novel-project/novel-downloader) |
 
 ### Others
@@ -181,7 +181,7 @@ If you have recommendations for good sites in your native language or want to re
 ### Manga
 
 - [Japscan](https://www.japscan.lol/)
-- [LPEBK](https://www.lpebk.com/forumv2/) :material-symbols-cloud-download-outline-rounded:<Badge type="info" text="Needs account" />
+- [LPEBK](https://www.lpebk.com/forumv2/) :ddl:<Badge type="info" text="Needs account" />
 - [Mangadraft](https://www.mangadraft.com/)
 - [Planete-BD](https://planete-bd.org/)
 - [Raijin Scans](https://raijinscans.fr/)
@@ -196,19 +196,19 @@ If you have recommendations for good sites in your native language or want to re
 ### Anime
 
 - [German Fansubbers' Index](https://anime-fansubs.de/)
-- [Amalgam Fansubs](https://amalgam-fansubs.moe/) :material-symbols-play-circle-outline::material-symbols-cloud-download-outline-rounded:
-- [Anime Archive](https://anime-archive.com/) :material-symbols-cloud-download-outline-rounded:
-- [Anime Loads](https://www.anime-loads.org/) :material-symbols-play-circle-outline::material-symbols-cloud-download-outline-rounded:
-- [AniWorld](https://aniworld.to/) :material-symbols-play-circle-outline:
-- [Melon-Subs](https://melon-subs.de/) :material-symbols-cloud-download-outline-rounded:
-- [NanaOne](https://nanaone.net/) :material-symbols-cloud-download-outline-rounded:
-- [OtakuKingdom Subs](https://www.otakukingdom-subs.de/) :material-symbols-cloud-download-outline-rounded:
-- [Shiroi-Fansubs](https://shiroi-fansubs.de/) :material-symbols-cloud-download-outline-rounded:
-- [S.to](https://s.to/) <Badge type="tip" text="2" link="https://serienstream.to/" />:material-symbols-play-circle-outline:
-- [Umaru](https://www.umaru.to/home) :material-symbols-play-circle-outline:
+- [Amalgam Fansubs](https://amalgam-fansubs.moe/) :strm::ddl:
+- [Anime Archive](https://anime-archive.com/) :ddl:
+- [Anime Loads](https://www.anime-loads.org/) :strm::ddl:
+- [AniWorld](https://aniworld.to/) :strm:
+- [Melon-Subs](https://melon-subs.de/) :ddl:
+- [NanaOne](https://nanaone.net/) :ddl:
+- [OtakuKingdom Subs](https://www.otakukingdom-subs.de/) :ddl:
+- [Shiroi-Fansubs](https://shiroi-fansubs.de/) :ddl:
+- [S.to](https://s.to/) <Badge type="tip" text="2" link="https://serienstream.to/" />:strm:
+- [Umaru](https://www.umaru.to/home) :strm:
 
 ### Manga
-- [ComicMafia](https://comicmafia.to/?s=manga) :material-symbols-cloud-download-outline-rounded:
+- [ComicMafia](https://comicmafia.to/?s=manga) :ddl:
 - [Kanjiku](https://kanjiku.net/)
 - [Manga-Tube](https://manga-tube.me/)
 
@@ -217,7 +217,7 @@ If you have recommendations for good sites in your native language or want to re
 - [aniSearch](https://www.anisearch.de/forum/categories)
 - [Baka Board](https://baka-bewerbung.me/) <Badge type="info" text="Usenet" />
 - [littleAkiba](https://www.littleakiba.ch/)
-- [myGully](https://mygully.com/) :material-symbols-cloud-download-outline-rounded:<Badge type="info" text="Needs account" />
+- [myGully](https://mygully.com/) :ddl:<Badge type="info" text="Needs account" />
 - [Pirateboard](https://www.pirateboard.net/)
 - [Proxer](https://proxer.me/)
 
@@ -276,7 +276,7 @@ If you have recommendations for good sites in your native language or want to re
   - [Mynimeku](https://www.mynimeku.com/)
   - [Otaku Desu](https://otakudesu.cloud/)
   - [Samehadaku](https://samehadaku.email/)
-  - [ZANIME](https://anime.uhuyy.dev/) [:simple-icons-github:](https://github.com/Fauzanmhr/zannime)
+  - [ZANIME](https://anime.uhuyy.dev/) [:gh:](https://github.com/Fauzanmhr/zannime)
 - **DDL**
   - [Kusonime](https://kusonime.com/)
   - [Meownime](https://m.meownime.ai/)
@@ -352,7 +352,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
   - [Twicomi](https://twicomi.com/)
   - [We Love Manga](https://welovemanga.one/) <Badge type="tip" text="2" link="https://manga1000.top/" />
 - **Torrent Download**
-  - [Nyaa](https://nyaa.si/) :glowing-star: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" />
+  - [Nyaa](https://nyaa.si/) :s: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" />
 - **Direct Download**
   - [A-Z Manga](https://www.a-zmanga.net/) :material-symbols-book-5::ic-outline-menu-book::mdi-snail:
   - [Asia Media Blog](https://asiamediablog.com/media/comic/manga/) :material-symbols-book-5::ic-outline-menu-book::mdi-snail:
@@ -410,7 +410,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Animesub](http://animesub.info/)
 - [Anime Zone](https://www.animezone.pl/)
 - [Desu Online](https://desu-online.pl/)
-- [Docchi](https://docchi.pl/) [:simple-icons-github:](https://github.com/docchipl/shinden-description)
+- [Docchi](https://docchi.pl/) [:gh:](https://github.com/docchipl/shinden-description)
 - [Frixy Subs](https://frixysubs.pl/)
 - [Fumetsu](https://fumetsu.pl/)
 - [Grupa Mirai](https://www.grupa-mirai.pl/)
@@ -453,7 +453,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 ### Anime
 - [Anime Torrents Romania](https://animetorrents.ro/) <Badge type="info" text="Private" />
-- [DozaAnimată](https://www.dozaanimata.net/) :material-symbols-play-circle-outline:
+- [DozaAnimată](https://www.dozaanimata.net/) :strm:
 
 
 ## Russian
@@ -467,13 +467,13 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [AnimeBuff](https://animebuff.ru/) <Badge type="info" text="Sub" />
 - [AnimeGO](https://animego.org/) <Badge type="info" text="Aggregator" />
 - [AnimeJoy](https://animejoy.ru/)
-- [Animelayer](http://animelayer.ru/) :lucide-magnet:
+- [Animelayer](http://animelayer.ru/) :mag:
 - [AnimeShot](https://animeshot.ru/)
 - [AnimeStars](https://animestars.org/) <Badge type="info" text="Aggregator" />
-- [Anisun](https://anisun.vercel.app/en) [:simple-icons-github:](https://github.com/notwindstone/anisun)
+- [Anisun](https://anisun.vercel.app/en) [:gh:](https://github.com/notwindstone/anisun)
 - [ANIXART](https://anixart-tv.org/) <Badge type="info" text="Aggregator" />
-- [Averlist](https://averlist.ru/) [:simple-icons-github:](https://github.com/Averito/Averlist)
-- [Dark Libria](https://darklibria.it/) :material-symbols-play-circle-outline::lucide-magnet:
+- [Averlist](https://averlist.ru/) [:gh:](https://github.com/Averito/Averlist)
+- [Dark Libria](https://darklibria.it/) :strm::mag:
 - [Dream Cast](https://dreamerscast.com/)
 - [Freedub Studio](https://freedubstudio.club/)
 - [Jut.su](https://jut.su/) <Badge type="info" text="Helper" link="https://github.com/Xeltone/Jut.su-Helper" />
@@ -481,7 +481,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [MAL to Kodik](https://mal-to-kodik.github.io/) <Badge type="info" text="Aggregator" />
 - [Shiza Project](https://shiza-project.com/)
 - [SovetRomantica](https://sovetromantica.com/) <Badge type="info" text="Sub" />
-- [Tunime](https://an0ncer.github.io/) [:simple-icons-github:](https://github.com/AN0NCER/an0ncer.github.io)<Badge type="info" text="Sub" />
+- [Tunime](https://an0ncer.github.io/) [:gh:](https://github.com/AN0NCER/an0ncer.github.io)<Badge type="info" text="Sub" />
 - [Yummy Anime](https://yummyanime.org/)
 
 ### Manga
@@ -507,7 +507,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 | Category | Resources |
 |-|-|
-| Anime |  [ShiraBox](https://shirabox.org/) [:simple-icons-github:](https://github.com/jordyamc/UKIKU) <br> [ShikiWatch](https://github.com/wheremyfiji/ShikiWatch) <br> [Anixart](https://play.google.com/store/apps/details?id=com.swiftsoft.anixartlt) |
+| Anime |  [ShiraBox](https://shirabox.org/) [:gh:](https://github.com/jordyamc/UKIKU) <br> [ShikiWatch](https://github.com/wheremyfiji/ShikiWatch) <br> [Anixart](https://play.google.com/store/apps/details?id=com.swiftsoft.anixartlt) |
 | Manga | [Manga Grabber](https://github.com/lirix360/ReadmangaGrabber) |
 
 #### PC
@@ -515,9 +515,9 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 | Category | Resources |
 |-|-|
 | General | [Nlight](https://github.com/brandonzorn/Nlight) |
-| Anime | [Aniship](https://github.com/progzone122/AniShip) :material-symbols-play-circle-outline: <br> [AndLibria.Qt](https://github.com/anilibria/anilibria-winmaclinux) :material-symbols-play-circle-outline: |
+| Anime | [Aniship](https://github.com/progzone122/AniShip) :strm: <br> [AndLibria.Qt](https://github.com/anilibria/anilibria-winmaclinux) :strm: |
 | Script | [Watch and download on Shikimori](https://github.com/Malanavi/Watch-and-download-on-Shikimori) <br> [Shiki Rating](https://github.com/ImoutoChan/shiki-rating-userscript) |
-| Extension | [Shikimorist](https://github.com/Hokid/shikimorist) :simple-icons-googlechrome: |
+| Extension | [Shikimorist](https://github.com/Hokid/shikimorist) :cr: |
 
 ### Others
 
@@ -546,8 +546,8 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
   - [Nekomitai](https://nekomitai.net/)
   - [Ivanime](https://www.ivanime.com/)
   - [DW Anime](https://dw-anime.net/)
-  - [Union Fansub](https://foro.unionfansub.com/index.php) :lucide-magnet:
-  - [Frozen Layer](https://www.frozen-layer.com/) :lucide-magnet:
+  - [Union Fansub](https://foro.unionfansub.com/index.php) :mag:
+  - [Frozen Layer](https://www.frozen-layer.com/) :mag:
 
 ### Manga
 - [TuMangaOnline](https://visortmo.com/) <Badge type="info" text="2" link="https://lectormanga.com/" />
@@ -568,7 +568,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 | Category | Resources |
 |-|-|
-| Anime | [UKIKU](https://ukiku.app/) [:simple-icons-github:](https://github.com/jordyamc/UKIKU) |
+| Anime | [UKIKU](https://ukiku.app/) [:gh:](https://github.com/jordyamc/UKIKU) |
 
 
 ## Turkish
@@ -606,10 +606,10 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Ani4u](https://ani4u.org/)
 - [Anime47](https://anime47.cam/)
 - [AnimeHay](https://animehay.in/)
-- [AnimeVsub](https://animevsub.eu.org/) [:simple-icons-github:](https://github.com/anime-vsub/desktop-web)
+- [AnimeVsub](https://animevsub.eu.org/) [:gh:](https://github.com/anime-vsub/desktop-web)
 - [HHNINJA](https://hhninja13.tv/)
 - [Phimplay](https://phimplay24h.com/)
-- [Unime](https://unime.vercel.app/) [:simple-icons-github:](https://github.com/huy232/Unime)
+- [Unime](https://unime.vercel.app/) [:gh:](https://github.com/huy232/Unime)
 - [Vui Ghe](https://vuighe3.com/)
 - [WebLinhTinh](https://weblinhtinh.net/)
 
@@ -633,7 +633,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 ### Others
 - [Tana.moe](https://tana.moe/)
 - [Tokuvn](https://tokuvn.com/)
-- [Vietnam Key FanClub](https://vnkeyfc.com/) :material-symbols-cloud-download-outline-rounded:
+- [Vietnam Key FanClub](https://vnkeyfc.com/) :ddl:
 
 ### Software
 

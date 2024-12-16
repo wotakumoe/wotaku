@@ -35,7 +35,7 @@ outline: [2,3]
 
 
 ## Anime
-- [Animelon](https://animelon.com/) :glowing-star:
+- [Animelon](https://animelon.com/) :s:
 - [Nyaa](https://nyaa.si/?f=0&c=1_4&q=)
 - [HiAnime](https://hianime.to/home)
 - [Classics](https://animation.filmarchives.jp/index.html)
@@ -44,7 +44,7 @@ outline: [2,3]
 ## TV
 
 ### Movies & Drama
-- [Viki](https://www.viki.com/categories/country/japan/genre/all) :material-symbols-add-shopping-cart-rounded:<Badge type="info" text="JP Sub" />
+- [Viki](https://www.viki.com/categories/country/japan/genre/all) :fm:<Badge type="info" text="JP Sub" />
 - [ViewAsian](https://www.viewasian.org/)
 - [DramaFull](https://dramafull.net/)
 - [Tokuzilla](https://tokuzilla.net/) <Badge type="info" text="2" link="https://tokuzl.net/" />
@@ -70,7 +70,7 @@ outline: [2,3]
 
 ## Subtitles
 - [Kitsunekko](https://kitsunekko.net/)
-  - [Jimaku](https://jimaku.cc/) :glowing-star:
+  - [Jimaku](https://jimaku.cc/) :s:
   - [TheMoeWay](https://learnjapanese.moe/kitsubackup.html#/ja)
   - [Ajatt-Tools](https://github.com/Ajatt-Tools/kitsunekko-mirror)
 - [itazuraneko](https://djtguide.github.io/library/sub)
@@ -94,7 +94,7 @@ outline: [2,3]
 
 ## Manga
 
-- [Bilingual Manga](https://bilingualmanga.org/) :glowing-star: <Badge type="tip" text="Backup" link="https://github.com/B-M-dev/Bilingual_Manga-home-" />
+- [Bilingual Manga](https://bilingualmanga.org/) :s: <Badge type="tip" text="Backup" link="https://github.com/B-M-dev/Bilingual_Manga-home-" />
 - [Mokuro Catalog](https://catalog.mokuro.moe/) <Badge type="tip" text="Nyaa" link="https://nyaa.si/view/1883088" />
 
 ::: info Raw section has been moved
@@ -107,7 +107,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 - [itazuraneko](https://yonde.itazuraneko.org/)
 - [Japanese Learner’s Anthology](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTM1MDUyMw.ZHVjaw)  <Badge type="tip" text="v2" link="https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTU0ODk0Mw.ZHVjaw" />
 - [Kakuyomu](https://kakuyomu.jp/) `WN`
-- [Nyaa](https://nyaa.si/?f=0&c=3_3&q=) :glowing-star:
+- [Nyaa](https://nyaa.si/?f=0&c=3_3&q=) :s:
 - [Syosetu](https://syosetu.com/) `WN`
 
 <Button icon="i-mdi-lightbulb-alert-outline" link="/nonen#japanese" >More in manga direct download</Button>
@@ -115,7 +115,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 ## Audio
 
 ### Audiobook
-- [Nyaa.si](https://nyaa.si/) :glowing-star:
+- [Nyaa.si](https://nyaa.si/) :s:
 - [Japanese Audiobooks Collection (2022)](https://core6000.neocities.org/audio/)
 - [Librivox](https://librivox.org/)
 - [Aozora Roudoku](https://aozoraroudoku.jp/index.html)

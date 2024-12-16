@@ -12,7 +12,7 @@ outline: [1,2]
 
 <br>
 
-- [Scanner Usage School Server](https://discord.gg/NCzxVB9) :glowing-star:
+- [Scanner Usage School Server](https://discord.gg/NCzxVB9) :s:
 - [r/Scanlation](https://old.reddit.com/r/Scanlation/)
 - [Manga Helpers](https://mangahelpers.com/)
 - [Font recommendations](https://discord.gg/ghGWcYSSUP)
@@ -47,7 +47,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 
 ## Blogs & Collections
 
-- [Quick Sand Scans Resource](https://quicksandscans.wordpress.com/resources/) :glowing-star:
+- [Quick Sand Scans Resource](https://quicksandscans.wordpress.com/resources/) :s:
 - [Inside Scanlation](https://www.insidescanlation.com/backgrounds/index.html)
 - [Scanlation Snacks](https://scanlationsnacks.wordpress.com/)
 - [Scanlation Font Sheets](https://cubari.moe/read/imgur/UmEpOL1/)
@@ -72,10 +72,10 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 
 ## General
 - Adobe Software
-  - [m0nkrus](https://vk.com/monkrus) :simple-icons-windows::simple-icons-apple:
-  - [RuTracker](https://rutracker.org/forum/index.php) :simple-icons-windows::simple-icons-apple:
-  - [GenP](https://genpguides.github.io) :simple-icons-windows:
-  - [Download Pirate](https://www.downloadpirate.com/) :simple-icons-windows:
+  - [m0nkrus](https://vk.com/monkrus) :win::app:
+  - [RuTracker](https://rutracker.org/forum/index.php) :win::app:
+  - [GenP](https://genpguides.github.io) :win:
+  - [Download Pirate](https://www.downloadpirate.com/) :win:
   - [a.dove.isdumb.one](https://github.com/ignaciocastro/a-dove-is-dumb)
   - :material-symbols-subdirectory-arrow-right: Adobe Alternatives
     - [KennyNL](https://github.com/KenneyNL/Adobe-Alternatives)

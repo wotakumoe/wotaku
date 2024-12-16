@@ -75,7 +75,7 @@ If your [ISP](https://en.wikipedia.org/wiki/Internet_service_provider) is known 
 ### Using Magnet URL
 
 1. Go to the torrent page
-2. **Right click** on :lucide-magnet: Magnet
+2. **Right click** on :mag: Magnet
 3. Click **Copy Link**
 4. Go to qBittorrent
 5. Click on **Add Torrent Link**

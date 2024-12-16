@@ -11,7 +11,7 @@ outline: [2,3]
 ## Culture & History
 
 ### Websites
-- [Web Japan](https://web-japan.org/) :glowing-star: <Badge type="info" text="Old" link="https://web-japan.org/atlas/index.html" /> 
+- [Web Japan](https://web-japan.org/) :s: <Badge type="info" text="Old" link="https://web-japan.org/atlas/index.html" /> 
 - [Japanese Wiki](https://www.japanesewiki.com/)
 - [Japan Reference](https://jref.com/)
 - [Japan: Below the tip of the iceberg](https://prezi.com/9_lvn6v3fzgt/japan-below-the-tip-of-the-iceberg/) <Badge type="tip" text="Gaijin" link="https://old.reddit.com/r/IcebergCharts/comments/n4edop/gaijin_foreigners_in_japan_iceberg/" />
@@ -24,7 +24,7 @@ outline: [2,3]
 - [Pure Invention: How Japan Made the Modern World](https://www.amazon.com/gp/product/1984826719)
 
 ### Youtube
-- [Japan's History and Geography](https://www.youtube.com/playlist?list=PLZZ0o0vuqmrOKvwEDnlb_ogILpBlo3RoW) :glowing-star:
+- [Japan's History and Geography](https://www.youtube.com/playlist?list=PLZZ0o0vuqmrOKvwEDnlb_ogILpBlo3RoW) :s:
 - [The Shogunate](https://www.youtube.com/@TheShogunate/)
 
 
@@ -67,20 +67,20 @@ outline: [2,3]
 - [Kanpai!](https://www.kanpai-japan.com/)
 - [LIVE JAPAN](https://livejapan.com/)
 - [MATCHA](https://matcha-jp.com/en)
-- [Mini Tokyo 3D](https://minitokyo3d.com/) :glowing-star: [:simple-icons-github:](https://github.com/nagix/mini-tokyo-3d)
+- [Mini Tokyo 3D](https://minitokyo3d.com/) :s: [:gh:](https://github.com/nagix/mini-tokyo-3d)
 - [Tokyo Cheapo](https://tokyocheapo.com/)
 
 ### Japanese
 - [Omatsuri Japan](https://omatsurijapan.com/)
-- [Travel Research](https://www.homemate-research-tour.com/) :glowing-star:
+- [Travel Research](https://www.homemate-research-tour.com/) :s:
 - [Japan 47 go](https://www.japan47go.travel/ja)
 - [Collabo Cafe](https://collabo-cafe.com/)
 - [Ghibli Museum](https://www.ghibli-museum.jp/en/)
 - [Let's learn about Japanese events!](https://www.kyosei-tairyu.jp/)
   
 ### Anime Sights
-- [Anime Tourism](https://anime-tourism.jp/) :glowing-star:
-- [anitabi](https://anitabi.cn/) :glowing-star:
+- [Anime Tourism](https://anime-tourism.jp/) :s:
+- [anitabi](https://anitabi.cn/) :s:
 - [Odakyu Railway Anime Map](https://www.odakyu.jp/sc/anime/)
 - [Anime Tourism Association](https://x.com/animetourism88)
 
@@ -129,10 +129,10 @@ outline: [2,3]
 ### Vlogs
 - [Abroad in Japan](https://www.youtube.com/@AbroadinJapan)
     - Journey Across Japan <Badge type="tip" text="S1" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVfl4ghftQDpTA4CXUvCKRlsL" /><Badge type="tip" text="S2" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVflVY0eQlZY4V0gArxUiOMLR" /><Badge type="tip" text="S3" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVflGF8OZwBqYH4mxDXvlkpSX" /><Badge type="tip" text="S4" link="https://www.youtube.com/playlist?list=PLdd050JRcXCJlhiSBMjIwvB7wQ8PR-JzV" /><Badge type="tip" text="S5" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVflb2CWbcuXX8JQoVTcXCh2X" /><Badge type="tip" text="S6" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVfm7GkI4U9bFBjJn4-KSFfsD" />
-    - [WACKY WEEKEND](https://www.youtube.com/playlist?list=PL3BrCRgvsZ9DbueHiNITARMRqi0YfCgbT) :glowing-star:
+    - [WACKY WEEKEND](https://www.youtube.com/playlist?list=PL3BrCRgvsZ9DbueHiNITARMRqi0YfCgbT) :s:
     - [Documentaries](https://www.youtube.com/playlist?list=PLSOR9_iNzVfnEAmyp9QbIQk3xkeLVTUTq)
 - [Ask Japanese](https://www.youtube.com/@AskJapanese)
-- [Japanalysis](https://www.youtube.com/@Japanalysis) :glowing-star:
+- [Japanalysis](https://www.youtube.com/@Japanalysis) :s:
 - [Lets ask Shogo](https://www.youtube.com/@LetsaskShogo)
 - [Paolo from TOKYO](https://www.youtube.com/@PaolofromTOKYO)
 - [Rion Ishida](https://www.youtube.com/@RionIshida)
@@ -158,7 +158,7 @@ outline: [2,3]
 - [Diggin' In The Carts: Japanese Video Game Music Documentary](https://www.youtube.com/playlist?list=PLdd050JRcXCIefOzuG_gw-KNUlq_beHar)
 - [Pachinko: Japan's Biggest Gaming Obsession Explained](https://www.youtube.com/watch?v=-tBy2jemw4s)
 - [Social problems in Japan](https://www.youtube.com/playlist?list=PLpIWoYf9KNFV_I-719B3pk673xaHZ6fYY)
-- [the peculiar case of japanese web design](https://sabrinas.space/) :glowing-star: <Badge type="info" text="Video" link="https://www.youtube.com/watch?v=z6ep308goxQ" />
+- [the peculiar case of japanese web design](https://sabrinas.space/) :s: <Badge type="info" text="Video" link="https://www.youtube.com/watch?v=z6ep308goxQ" />
     - [How culture made Japanese Internet design "Weird"](https://www.youtube.com/watch?v=Opy-SjDU0UY)
 - [Understanding the Japanese Writing System](https://www.youtube.com/watch?v=r7a8OjvViwE)
 - [Why Most Japanese Clip Art Looks Like This](https://www.youtube.com/watch?v=g3CyRZY90M4)

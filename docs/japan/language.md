@@ -10,7 +10,7 @@ outline: [2,3]
 <br>
 
 ## Starter Guide
-- [TheMoeWay Guide](https://learnjapanese.moe/) :glowing-star:
+- [TheMoeWay Guide](https://learnjapanese.moe/) :s:
 - [Tatsumoto's Guide](https://tatsumoto.neocities.org/)
 - [Kuri's Immersion-Based Japanese Learning](https://donkuri.github.io/learn-japanese/)
 - [Acquiring Japanese Efficiently](https://docs.google.com/document/d/1LH82FjsCqCgp6-TFqUcS_EB15V7sx7O1VCjREp6Lexw/edit)
@@ -50,7 +50,7 @@ outline: [2,3]
 - [Kuuuube Kana](https://kuuuube.github.io/kana-quiz/kana/kana-dark/index.html)
 - [Real Kana](https://realkana.com/)
 - [Kana Review](https://kanareview.com/)
-- [Japanese Practice](https://japanesepractice.app/) [:simple-icons-github:](https://github.com/RichiePowell/japanese-practice)
+- [Japanese Practice](https://japanesepractice.app/) [:gh:](https://github.com/RichiePowell/japanese-practice)
 - [Type Kana](https://lab.fleon.org/type-kana/)
 - [Hentaigana Quiz](https://kuuuube.github.io/kana-quiz/hentaigana/hentaigana-dark/index.html)
 - [Steven Kraft’s Japanese Projects](https://steven-kraft.com/projects/japanese/) <Badge type="warning" text="general" />
@@ -67,7 +67,7 @@ outline: [2,3]
 - **Ulrike's Mnemonics**
   - [Original version](https://www.joyokanji.com/ulrikes-mnemonics)
   - [Carlos version](https://japanesestudies.github.io/ulrikes-mnemonics/)
-- [Marshall's Site](https://marshallyin.com/) :material-symbols-add-shopping-cart-rounded: <tooltip>Marshall's site contain almost everything. So to avoid dupe, it will be linked once.</tooltip>
+- [Marshall's Site](https://marshallyin.com/) :fm: <tooltip>Marshall's site contain almost everything. So to avoid dupe, it will be linked once.</tooltip>
 - [THE KANJI VISUAL LANGUAGE PROJECT](https://kvlp.org/)
 - [Proverb encyclopedia](https://proverb-encyclopedia.com/)
 
@@ -78,7 +78,7 @@ outline: [2,3]
 - [JapaneseGraph](https://japanesegraph.com/)
 - [Jisho](https://jisho.org/)
 - [jpdb.io](https://jpdb.io/)
-- [Kanji Search](https://khaitruong922.github.io/kanji-search/) [:simple-icons-github:](https://github.com/khaitruong922/kanji-search)
+- [Kanji Search](https://khaitruong922.github.io/kanji-search/) [:gh:](https://github.com/khaitruong922/kanji-search)
 - [Kanjipedia](https://www.kanjipedia.jp/)
 - [Kotonoha dictionary](https://kotonoha-dictionary.com/)
 - [pixiv Encyclopedia](https://dic.pixiv.net/)
@@ -91,8 +91,8 @@ outline: [2,3]
 
 ### Practice
 - [Kotobaweb](https://kotobaweb.com/)
-- [Wanikani](https://www.wanikani.com/) :material-symbols-add-shopping-cart-rounded:
-- [NativShark](https://www.nativshark.com/) :material-symbols-add-shopping-cart-rounded:
+- [Wanikani](https://www.wanikani.com/) :fm:
+- [NativShark](https://www.nativshark.com/) :fm:
 - [Kanji Garden](https://kanji.garden/)
 - [Kanji Koohii](https://kanji.koohii.com/)
 - [Kenji Sugimoto](https://www.kenjisugimoto.com/shuji/index.html?shuji=%E3%81%8A%E6%89%8B%E6%9C%AC)
@@ -160,7 +160,7 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 - [TOFUGU](https://www.tofugu.com/japanese/japanese-pronunciation/)
 - [Kanshudo](https://www.kanshudo.com/howto/pitch)
 - [Kezi](https://kez.io/notes/japanese/accent) <Badge type="tip" text="Gist" link="https://gist.github.com/k3zi/3f38070efffa38db83cd5745d83b1235" />
-- [Minimal Pairs](https://kuuuube.github.io/minimal-pairs/) [:simple-icons-github:](https://github.com/Kuuuube/minimal-pairs)
+- [Minimal Pairs](https://kuuuube.github.io/minimal-pairs/) [:gh:](https://github.com/Kuuuube/minimal-pairs)
 - [The Pitch Accent Journey](https://docs.google.com/document/d/1ReBf08JFK4n0PXdOxThAfWuiK9UWVZEWWzeKSECWTQo/edit)
 - [Resources for pitch accent](https://xythh.github.io/resources)
 - [Maggie Sensei's Conversation Guide](https://maggiesensei.com/)
@@ -180,7 +180,7 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 #### Practice
 - [Kanken](https://www.kanken.or.jp/kanken/meyasucheck/)
 - [Kotu](https://kotu.io/) `Needs Account`
-- [Migaku Pitch Trainer](https://pitch-demo.migaku.io/) :material-symbols-add-shopping-cart-rounded:
+- [Migaku Pitch Trainer](https://pitch-demo.migaku.io/) :fm:
 - [SuperNative](https://supernative.tv/ja/)
 - [MyKikitori](https://www.mykikitori.com/)
 
@@ -191,9 +191,9 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 - [CaptionPop](https://www.captionpop.com/japanese?nl=en) `Youtube`
 - [Filmot](https://filmot.com/) `Youtube`
 - [Forvo](https://forvo.com/languages/ja/) `Native Speaker`
-- [Immersion Kit](https://www.immersionkit.com/) :glowing-star: `Japanese Media`
+- [Immersion Kit](https://www.immersionkit.com/) :s: `Japanese Media`
 - [Sentence Search](https://sentencesearch.neocities.org/) `Book / Deck / Web`
-- [YouGlish](https://youglish.com/japanese) :glowing-star: `Youtube`
+- [YouGlish](https://youglish.com/japanese) :s: `Youtube`
 
 <br>
 
@@ -222,13 +222,13 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 - **CURE DOLLY TEXTBOOK**
   - [Original version](https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit)
   - [Mordraug version](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit)
-  - [Kellen version](https://kellenok.github.io/cure-script/) :glowing-star:
+  - [Kellen version](https://kellenok.github.io/cure-script/) :s:
 - [Learning Japanese When You Think In A Western Language](https://kimallen.sheepdogdesign.net/)
 - [昨日 Sakubi: Yesterday's Grammar Guide](https://sakubi.neocities.org/)
 - [A Beginner’s Japanese Grammar Guide](https://www.japanistry.com/japanese-grammar-guide/)
 - [Visualizing Japanese Grammar](https://www2.gwu.edu/~eall/vjgnew/vjghomepage/vjghome.htm)
 - [DoJK](https://dojgdeck.neocities.org/)
-- [Bunpro](https://bunpro.jp/) :material-symbols-add-shopping-cart-rounded:
+- [Bunpro](https://bunpro.jp/) :fm:
 - [JLPT Grammar List](https://jlptgrammarlist.neocities.org/)
 - [Ultra Handy Japanese Verb Conjugator](https://www.japaneseverbconjugator.com/)
 
@@ -303,7 +303,7 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 - [Marshall's Server](https://discord.gg/ejmrfwSYAH)
 - [NativShark](https://discord.gg/nativshark)
 - [Perdition](https://discord.gg/uK4HeGN)
-- [TheMoeWay](https://discord.gg/nhqjydaR8j) :glowing-star:
+- [TheMoeWay](https://discord.gg/nhqjydaR8j) :s:
 - [ToKini Andy](https://discord.gg/WP7zYHC)
 - [JPDB](https://discord.gg/jWwVD7D2sZ)
 

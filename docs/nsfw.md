@@ -35,7 +35,7 @@ outline: [1,2]
 ## Manga
 
 ### General
-- [E-Hentai](https://e-hentai.org/) :glowing-star: <Badge type="tip" text="Search Guide" link="https://e-hentaitagsearch.blogspot.com/" /><tooltip>It is the mangadex for doujins. Almost every doujin is first uploaded here before being scraped by other sites. Online viewer compresses the images but has the option to download stuff in original quality.<br>
+- [E-Hentai](https://e-hentai.org/) :s: <Badge type="tip" text="Search Guide" link="https://e-hentaitagsearch.blogspot.com/" /><tooltip>It is the mangadex for doujins. Almost every doujin is first uploaded here before being scraped by other sites. Online viewer compresses the images but has the option to download stuff in original quality.<br>
 <a href="https://exhentai.org/">Exhentai</a> is it's sister site, which also hosts the more extreme and questionable content. You'll need an account on e-hentai to gain access.</tooltip>
 - [nHentai](https://nhentai.net/) <tooltip>Most popular. Decent UI but compresses images.</tooltip>
 - [Akuma](https://akuma.moe/) <tooltip>E-Hentai clone.</tooltip>
@@ -61,21 +61,21 @@ outline: [1,2]
 - [Batoto](https://battwo.com/v3x) <Badge type="tip" text="2" link="https://mangatoto.net/" /><Badge type="tip" text="3" link="https://mangatoto.com/" />
 - [Doujindesu](https://doujindesu.tv/) <Badge type="info" text="Raw" />
 - [Hiperdex](https://hiperdex.com/)
-- [Manga District](https://mangadistrict.com/) :glowing-star:
+- [Manga District](https://mangadistrict.com/) :s:
 - [Manhwa18](http://manhwa18.com/)
 - [Manhwa-raw](https://manhwa-raw.com/) <Badge type="info" text="+Raw" />
 - [Manhwas](https://manhwas.men/) <Badge type="info" text="+Raw" />
-- [Manytoon](https://manytoon.com/) :glowing-star:
-- [Oppai](https://read.oppai.stream/) :glowing-star: <tooltip>Late releases but less compressed than other aggregators'</tooltip>
+- [Manytoon](https://manytoon.com/) :s:
+- [Oppai](https://read.oppai.stream/) :s: <tooltip>Late releases but less compressed than other aggregators'</tooltip>
 - [RawDEX](https://rawdex.net/) <Badge type="info" text="Raw" />
 - [Sauce Manhwa](https://saucemanhwa.com/) <Badge type="info" text="+Raw" />
-- [Toonily](https://toonily.com/) :glowing-star:
+- [Toonily](https://toonily.com/) :s:
 - [Webtoon](https://www.webtoon.xyz/)
 - [Webtooni](https://webtooni.net/en/)  <Badge type="tip" text="2" link="https://heytoon.net/en/" />
 
 ### Scanlators {open}
-- [The Blank](https://mangadex.org/group/d53b6ec6-bbbf-4fad-a254-2b7ddda84c2c/the-blank) :glowing-star: [:mdi-earth:](https://theblank.net/)
-- [Omega scans](https://mangadex.org/group/8295f3f9-7462-403b-8fc0-f93a6c245a5c/omegascans) :glowing-star: [:mdi-earth:](https://omegascans.org/)
+- [The Blank](https://mangadex.org/group/d53b6ec6-bbbf-4fad-a254-2b7ddda84c2c/the-blank) :s: [:web:](https://theblank.net/)
+- [Omega scans](https://mangadex.org/group/8295f3f9-7462-403b-8fc0-f93a6c245a5c/omegascans) :s: [:web:](https://omegascans.org/)
 - [Constellar Scans](https://constellarcomic.com/)
 - [Lunar Scans](https://lunarscan.org/)
 - [Acera the great](https://mangadex.org/group/ea35447d-5035-485f-8eda-841bafc4b215/acerathegreat)
@@ -88,7 +88,7 @@ outline: [1,2]
 
 ### Self Hosted
 - [Danbooru](https://danbooru.donmai.us/)
-- [Gelbooru](https://gelbooru.com/) :glowing-star:
+- [Gelbooru](https://gelbooru.com/) :s:
 - [Hentai Game CG](https://hentaigamecg.com/)
 - [Konachan](https://konachan.com/)
 - [Kusowanka](https://kusowanka.com/)
@@ -100,10 +100,10 @@ outline: [1,2]
 - [yande.re](https://yande.re/)
 
 ### Frontends
-- [Booru Masonary](https://booru.pixiv.pics/) :glowing-star: [:simple-icons-github:](https://github.com/asadahimeka/booruwf-web) <Badge type="tip" text="2" link="https://booru.vercel.app/" /> <Badge type="tip" text="3" link="https://booru.cocomi.eu.org/" />
-- [Consurf](https://consurf.onrender.com/) [:simple-icons-github:](https://github.com/QueenAkaAlt/Consurf)
+- [Booru Masonary](https://booru.pixiv.pics/) :s: [:gh:](https://github.com/asadahimeka/booruwf-web) <Badge type="tip" text="2" link="https://booru.vercel.app/" /> <Badge type="tip" text="3" link="https://booru.cocomi.eu.org/" />
+- [Consurf](https://consurf.onrender.com/) [:gh:](https://github.com/QueenAkaAlt/Consurf)
 - [Moeview](https://moeview.app/) <Badge type="tip" text="2" link="https://moeview.pages.dev/" /> <Badge type="tip" text="3" link="https://moeview.pixiv.pics/" />
-- [Pixiv Viewer](https://pixiv.pics/) :glowing-star:
+- [Pixiv Viewer](https://pixiv.pics/) :s:
 
 ## Games
 
@@ -153,16 +153,16 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 ## PC
 
 ### Viewer / Tools
-- [ExHentai Manga Manager](https://github.com/SchneeHertz/exhentai-manga-manager) :simple-icons-windows:
-- [JHenTai](https://github.com/jiangtian616/JHenTai) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
-- [Jasmine](https://github.com/niuhuan/jasmine) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
-- [Konomi Viewer](https://konomiviewer.com/) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
-- [Javinizer](https://github.com/javinizer/Javinizer) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
+- [ExHentai Manga Manager](https://github.com/SchneeHertz/exhentai-manga-manager) :win:
+- [JHenTai](https://github.com/jiangtian616/JHenTai) :win::app::lin:
+- [Jasmine](https://github.com/niuhuan/jasmine) :win::app::lin:
+- [Konomi Viewer](https://konomiviewer.com/) :win::app::lin:
+- [Javinizer](https://github.com/javinizer/Javinizer) :win::app::lin:
 
 
 ### Downloader
-- [Hakuneko](https://github.com/manga-download/haruneko) <Badge type="info" text="Multi" /> [:mdi-earth:](https://hakuneko.download/)
-- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) <Badge type="info" text="Multi" /><Badge type="info" text="Anime" /> [:mdi-earth:]()
+- [Hakuneko](https://github.com/manga-download/haruneko) <Badge type="info" text="Multi" /> [:web:](https://hakuneko.download/)
+- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) <Badge type="info" text="Multi" /><Badge type="info" text="Anime" /> [:web:]()
 - [HDoujin Downloader](https://doujindownloader.com/) <Badge type="info" text="Multi" />
 - [Hentai downloader](https://github.com/touno-io/hentai-downloader)<Badge type="info" text="E-Hentai" />
 - [E-Hentai Downloader](https://github.com/ccloli/E-Hentai-Downloader)<Badge type="info" text="E-Hentai" />
@@ -185,7 +185,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [Hentai ASMR](https://www.hentaiasmr.moe/)
 - [Kasumi](http://xdcc.kasumi.moe/) <Badge type="tip" text="Guide" link="http://kasumi.moe/guide/" />
 - [Kemono](https://kemono.su/)
-- [Manga-DB](https://adultcomic.dbsearch.net/) :flag-japan::glowing-star:
+- [Manga-DB](https://adultcomic.dbsearch.net/) :flag-japan::s:
 - [Nekohouse](https://nekohouse.su/)
 
 ## AV
@@ -239,7 +239,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [MALSync Adult](https://sleazyfork.org/en/scripts/387981-mal-sync-adult-fatexxxblood-edition)
 - [Manga Loader NSFW](https://sleazyfork.org/en/scripts/12657-manga-loader-nsfw)
 - [Manga OnlineViewer](https://github.com/TagoDR/MangaOnlineViewer)
-- [nhentai helper](https://sleazyfork.org/en/scripts/375992-nhentai-helper) [:simple-icons-github:](https://github.com/Tsuk1ko/nhentai-helper)
+- [nhentai helper](https://sleazyfork.org/en/scripts/375992-nhentai-helper) [:gh:](https://github.com/Tsuk1ko/nhentai-helper)
 - [nhentai konnichiwa](https://github.com/naiymu/nhentai-konnichiwa)
 - [Nhentai Manga Loader](https://github.com/longkidkoolstar/Nhentai-Manga-Loader)
 

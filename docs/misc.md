@@ -22,7 +22,7 @@ outline: [1,2]
 - [Kurozora](https://kurozora.app/)
 
 ### Anime
-- [aniDB](https://anidb.net/) :glowing-star:
+- [aniDB](https://anidb.net/) :s:
 - [AnimeSongs.org](https://animesongs.org/)
 - [Annict](https://annict.com/)
 - [Aniplaylist](https://aniplaylist.com/)
@@ -30,15 +30,15 @@ outline: [1,2]
 - [Anikore](https://www.anikore.jp/) :flag-japan:
 
 ### Manga & LN
-- [Mangaupdates](https://www.mangaupdates.com/) :glowing-star:
+- [Mangaupdates](https://www.mangaupdates.com/) :s:
 - [Novel updates](https://www.novelupdates.com/)
-- [RanobeDB](https://ranobedb.org/) [:simple-icons-github:](https://github.com/Blastose/ranobedb)
+- [RanobeDB](https://ranobedb.org/) [:gh:](https://github.com/Blastose/ranobedb)
 - [Ranobe Mori](https://ranobe-mori.net/) :flag-japan:
 - [Bookmeter](https://bookmeter.com/) :flag-japan:
 - [Goodreads](https://www.goodreads.com/)
 
 ### Seiyuu / Voice Actor
-- [Seiyuu.moe](https://seiyuu.moe/) :glowing-star:
+- [Seiyuu.moe](https://seiyuu.moe/) :s:
 - [Anime voice actor and seiyuu comparison](https://avac.moe/index.php)
 - [Seiyuu (voice actor) database](http://www.usagi.org/doi/seiyuu/index.html)
 - [Behind The Voice Actors](https://www.behindthevoiceactors.com/)
@@ -66,15 +66,15 @@ outline: [1,2]
 ### Schedule
 
 - [Anica](https://anica.jp/)
-- [AniChart](https://anichart.net/airing) :glowing-star:
+- [AniChart](https://anichart.net/airing) :s:
 - [Anime Countdown](https://animecountdown.com/)
 - [Anime Dubs Release Calendar](https://teamup.com/ksdhpfjcouprnauwda)
 - [AnimeSchedule](https://animeschedule.net/)
-- [Anisaki](https://anisaki.vercel.app/) [:simple-icons-github:](https://github.com/BayuDC/anisaki)
-- [Bangumi List](https://bgmlist.com/) :flag-japan::flag-china: [:simple-icons-github:](https://github.com/wxt2005/bangumi-list-v3) <tooltip>Maintained by chinese devs, but lists JP schedule too.</tooltip>
+- [Anisaki](https://anisaki.vercel.app/) [:gh:](https://github.com/BayuDC/anisaki)
+- [Bangumi List](https://bgmlist.com/) :flag-japan::flag-china: [:gh:](https://github.com/wxt2005/bangumi-list-v3) <tooltip>Maintained by chinese devs, but lists JP schedule too.</tooltip>
 - [Kansou](https://www.kansou.me/) :flag-japan:
-- [Livechart](https://www.livechart.me/schedule) :glowing-star:
-- [Notify.moe](https://notify.moe/calendar) [:simple-icons-github:](https://github.com/animenotifier/notify.moe)
+- [Livechart](https://www.livechart.me/schedule) :s:
+- [Notify.moe](https://notify.moe/calendar) [:gh:](https://github.com/animenotifier/notify.moe)
 - [Senpai.moe](https://www.senpai.moe/)
 - [Syoboi Calendar](https://cal.syoboi.jp/) :flag-japan:
 - [Moon Phase](https://m-p.sakura.ne.jp/) :flag-japan:
@@ -93,10 +93,10 @@ outline: [1,2]
 
 #### Ranking
 - [Anime Karma List](https://animekarmalist.com/)
-- [Anime Stats](https://anime-stats.net/) :glowing-star:
+- [Anime Stats](https://anime-stats.net/) :s:
 - [Anime Corner](https://animecorner.me/category/anime-corner/rankings/)
 - [Anitrendz](https://anitrendz.com/charts/top-anime)
-- [Kitsu Season Trends](https://season.moe/) [:simple-icons-github:](https://github.com/wopian/kitsu-season-trends)
+- [Kitsu Season Trends](https://season.moe/) [:gh:](https://github.com/wopian/kitsu-season-trends)
 
 
 
@@ -109,19 +109,19 @@ outline: [1,2]
 - [Erzat](https://erzat.blog/)
 - [Jajanken](https://www.jajanken.net/en/)
 - [Mangacodex](https://www.mangacodex.com/)
-- [MANGA Plus Views](https://mangaplustracker.github.io/) [:simple-icons-github:](https://github.com/MangaplusTracker/MangaplusTracker.github.io)
-- [MANGA Plus Top 40](https://manga.tumeo.space/) [:simple-icons-github:](https://github.com/williamd1k0/manga-plus-top40)
+- [MANGA Plus Views](https://mangaplustracker.github.io/) [:gh:](https://github.com/MangaplusTracker/MangaplusTracker.github.io)
+- [MANGA Plus Top 40](https://manga.tumeo.space/) [:gh:](https://github.com/williamd1k0/manga-plus-top40)
 - [r/LightNovels reading order](https://old.reddit.com/r/LightNovels/wiki/reading_order)
 - [Shoseki Ranking](http://shosekiranking.blog.fc2.com/) :flag-japan:
-- [Touhou Doujinshi Index](https://scarlet.nsk.sh/) [:simple-icons-github:](https://github.com/nanoskript/touhou-doujinshi-index) <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" />
+- [Touhou Doujinshi Index](https://scarlet.nsk.sh/) [:gh:](https://github.com/nanoskript/touhou-doujinshi-index) <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" />
 
 
 ### Calendar
 
 #### Index
-- [Mynewworm](https://myneworm.katsurin.com/) [:simple-icons-github:](https://github.com/Butterstroke/Myneworm)
+- [Mynewworm](https://myneworm.katsurin.com/) [:gh:](https://github.com/Butterstroke/Myneworm)
 - [Otaku Calendar](https://otakucalendar.com/Release/?filterCategory=2)
-- [Licensed Light Novel Releases](https://lnrelease.github.io/) [:simple-icons-github:](https://github.com/LNRelease/lnrelease.github.io)
+- [Licensed Light Novel Releases](https://lnrelease.github.io/) [:gh:](https://github.com/LNRelease/lnrelease.github.io)
 - [r/LightNovels upcoming releases](https://old.reddit.com/r/LightNovels/wiki/upcomingreleases/)
 - [Von's Manga Calendar](https://v0n.notion.site/Manga-297a9ad3a4904173b3a4ce319f9b2879)
 - [Yatta-Tachi](https://yattatachi.com/tag/releases)
@@ -157,7 +157,7 @@ Illustrations now has its [own page](/art)!
 ## General
 
 - **Info / News**
-  - [Anime News Network](https://www.animenewsnetwork.com/) :glowing-star: [:simple-icons-twitter:](https://x.com/animecorner_ac)
+  - [Anime News Network](https://www.animenewsnetwork.com/) :s: [:simple-icons-twitter:](https://x.com/animecorner_ac)
   - [Anime UK News](https://animeuknews.net/)
   - [Crunchyroll News](https://www.crunchyroll.com/news)
   - [GUNDAM.INFO](https://en.gundam.info/)
@@ -167,7 +167,7 @@ Illustrations now has its [own page](/art)!
   - [ORICON NEWS](https://www.oricon.co.jp/) :flag-japan:
   - [Otaku News](https://www.otakunews.com/)
 - **Blog / Interview**
-  - [Anime Blog Tracker](https://aniblogtracker.com/) :glowing-star: <Badge text="Aggregator" /> 
+  - [Anime Blog Tracker](https://aniblogtracker.com/) :s: <Badge text="Aggregator" /> 
   - [Anime Nano](https://www.animenano.com/) <Badge text="Aggregator" />
   - [Halcyon Realms](https://halcyonrealms.com/)
   - [Zimmerit](https://www.zimmerit.moe/)
@@ -175,7 +175,7 @@ Illustrations now has its [own page](/art)!
 ## Anime
 
 - **Info / News**
-  - [Anime Corner](https://animecorner.me/) :glowing-star: [:simple-icons-twitter:](https://x.com/animecorner_ac)
+  - [Anime Corner](https://animecorner.me/) :s: [:simple-icons-twitter:](https://x.com/animecorner_ac)
   - [AnimeDB](https://animedb.jp/) :flag-japan:
   - [Anime Freaks](https://times.abema.tv/anime) :flag-japan:
   - [Anitrendz](https://anitrendz.net/news/) [:simple-icons-twitter:](https://x.com/anitrendz)
@@ -184,12 +184,12 @@ Illustrations now has its [own page](/art)!
   - [English Dubbed Anime Lovers](https://english-dubbed.com/)
 - **Blog / Interview**
   - [Animation Obsessive](https://animationobsessive.substack.com/)
-  - [Animétudes](https://animetudes.com/) :glowing-star:
+  - [Animétudes](https://animetudes.com/) :s:
   - [artist_unknown](https://artistunknown.info/)
-  - [Full Frontal](https://fullfrontal.moe/) :glowing-star:
+  - [Full Frontal](https://fullfrontal.moe/) :s:
   - [Furaba Anime search](https://furaba-animeseichi.blog.jp/)
   - [Let's Anime](https://letsanime.blogspot.com/)
-  - [Sakuga Blog](https://blog.sakugabooru.com/) :glowing-star: [:simple-icons-twitter:](https://x.com/SakugaBlog)
+  - [Sakuga Blog](https://blog.sakugabooru.com/) :s: [:simple-icons-twitter:](https://x.com/SakugaBlog)
 
 
 ## Manga & LN
@@ -200,11 +200,11 @@ Illustrations now has its [own page](/art)!
   - [Josu Ke](https://x.com/Josu_ke) :simple-icons-twitter:
   - [Manga Alerts](https://x.com/MangaAlerts) :simple-icons-twitter:
   - [Manga Bookshelf](https://mangabookshelf.com/)
-  - [Manga Mogura](https://x.com/MangaMoguraRE) <Badge type="tip" text="2" link="https://x.com/MangaReporter" /> :glowing-star::simple-icons-twitter:
+  - [Manga Mogura](https://x.com/MangaMoguraRE) <Badge type="tip" text="2" link="https://x.com/MangaReporter" /> :s::simple-icons-twitter:
     - [Ecchi & Smut Mogura](https://x.com/EcchiMogura)
   - [Nez](https://x.com/mangaxrepublic) :simple-icons-twitter:
   - [Randomanga](https://randomanga.wordpress.com/)
-  - [Shonen Jump News](https://x.com/WSJ_manga) :glowing-star::simple-icons-twitter:
+  - [Shonen Jump News](https://x.com/WSJ_manga) :s::simple-icons-twitter:
 - **Blog / Interview**
   - [BehindTheManga](https://www.behindthemanga.com/)
   - [Manga Splaining](https://www.mangasplaining.com/)
@@ -218,12 +218,12 @@ Illustrations now has its [own page](/art)!
 <br>
 
 ## Anime & Manga
-- [3x3 Generator](https://gqgs.github.io/3x3-generator/) [:simple-icons-github:](https://github.com/gqgs/3x3-generator)
-- [Anime Bingo](https://anime-bingo.aikats.us/) [:simple-icons-github:](https://github.com/walfie/anime-bingo)
+- [3x3 Generator](https://gqgs.github.io/3x3-generator/) [:gh:](https://github.com/gqgs/3x3-generator)
+- [Anime Bingo](https://anime-bingo.aikats.us/) [:gh:](https://github.com/walfie/anime-bingo)
 - [due.moe](https://due.moe/)
-- [Ermitteln](https://ermitteln.ihateani.me/) [:simple-icons-github:](https://github.com/noaione/cmx-ermitteln)
-- [MangaAdaptations for AniList](https://anilist-adaptations.timschneeberger.me/) [:simple-icons-github:](https://github.com/timschneeb/manga-adaptations-anilist)
-- [Mitsukeru for AniList](https://mitsukeru.timschneeberger.me/) [:simple-icons-github:](https://github.com/timschneeb/Mitsukeru)
+- [Ermitteln](https://ermitteln.ihateani.me/) [:gh:](https://github.com/noaione/cmx-ermitteln)
+- [MangaAdaptations for AniList](https://anilist-adaptations.timschneeberger.me/) [:gh:](https://github.com/timschneeb/manga-adaptations-anilist)
+- [Mitsukeru for AniList](https://mitsukeru.timschneeberger.me/) [:gh:](https://github.com/timschneeb/Mitsukeru)
 - [Randime](https://randime.moe/)
 - [Related Anime](https://relatedanime.com/)
 - [Spin.moe](https://spin.moe/)
@@ -231,25 +231,25 @@ Illustrations now has its [own page](/art)!
 ## Image
 | Category | Websites |
 |---|---|
-| Search | [SauceNAO](https://saucenao.com/) :glowing-star: <br> [Trace](https://trace.moe/) [:simple-icons-github:](https://github.com/soruly/trace.moe) <br> [SauceKudasai](https://saucekudasai.com/) [:simple-icons-github:](https://github.com/ayushgptaa/SauceKudasai) <br> [Multi-service image search](https://iqdb.org/) |
-| Upscaling | [Waif2x](https://unlimited.waifu2x.net/) [:simple-icons-github:](https://github.com/nagadomi/waifu2x)<Badge type="tip" text="Cloud Ver" link="https://waifu2x.udp.jp/" /><br> [WaifuXL](https://waifuxl.com/) [:simple-icons-github:](https://github.com/TheFutureGadgetsLab/WaifuXL) |
-| Others | [Imgtrans](https://touhou.ai/imgtrans/) [:simple-icons-github:](https://github.com/zyddnys/manga-image-translator) <br> [Slowpoke Pics](https://slow.pics/) |
+| Search | [SauceNAO](https://saucenao.com/) :s: <br> [Trace](https://trace.moe/) [:gh:](https://github.com/soruly/trace.moe) <br> [SauceKudasai](https://saucekudasai.com/) [:gh:](https://github.com/ayushgptaa/SauceKudasai) <br> [Multi-service image search](https://iqdb.org/) |
+| Upscaling | [Waif2x](https://unlimited.waifu2x.net/) [:gh:](https://github.com/nagadomi/waifu2x)<Badge type="tip" text="Cloud Ver" link="https://waifu2x.udp.jp/" /><br> [WaifuXL](https://waifuxl.com/) [:gh:](https://github.com/TheFutureGadgetsLab/WaifuXL) |
+| Others | [Imgtrans](https://touhou.ai/imgtrans/) [:gh:](https://github.com/zyddnys/manga-image-translator) <br> [Slowpoke Pics](https://slow.pics/) |
 
 
 ## Stats
-- [Sekai](https://sekai.rl404.com/) :glowing-star::simple-icons-myanimelist: [:simple-icons-github:](https://github.com/rl404/sekai)
-- [Anistats](https://mayudev.github.io/anistats/) :simple-icons-anilist: [:simple-icons-github:](https://github.com/mayudev/anistats)
-- [Anime Taste Tool](https://www.anipop.uk/) :simple-icons-anilist: [:simple-icons-github:](https://github.com/kay-mw/popularity-tool-for-anilist)
-- [anime.plus](https://anime.plus/) :simple-icons-myanimelist: [:simple-icons-github:](https://github.com/anime-plus/graph)
-- [KitsuStats](https://drumber.github.io/KitsuStats/#/) :simple-icons-kitsu: [:simple-icons-github:](https://github.com/Drumber/KitsuStats)
+- [Sekai](https://sekai.rl404.com/) :s::simple-icons-myanimelist: [:gh:](https://github.com/rl404/sekai)
+- [Anistats](https://mayudev.github.io/anistats/) :simple-icons-anilist: [:gh:](https://github.com/mayudev/anistats)
+- [Anime Taste Tool](https://www.anipop.uk/) :simple-icons-anilist: [:gh:](https://github.com/kay-mw/popularity-tool-for-anilist)
+- [anime.plus](https://anime.plus/) :simple-icons-myanimelist: [:gh:](https://github.com/anime-plus/graph)
+- [KitsuStats](https://drumber.github.io/KitsuStats/#/) :simple-icons-kitsu: [:gh:](https://github.com/Drumber/KitsuStats)
 - [MAL Badges](https://www.mal-badges.com/) :simple-icons-myanimelist:
 
 
 ## Others
 - [AniTools](https://anitools.koopz.rocks/)
-- [aniTrakt](https://anitrakt.huere.net/) [:simple-icons-github:](https://github.com/ryuuganime/aniTrakt-IndexParser)
+- [aniTrakt](https://anitrakt.huere.net/) [:gh:](https://github.com/ryuuganime/aniTrakt-IndexParser)
 - [MAL/AL/K/AP lists XML Exporter](https://malscraper.azurewebsites.net/)
-- [OpenTierBoy](https://www.opentierboy.com/) [:simple-icons-github:](https://github.com/infinia-yzl/opentierboy)
+- [OpenTierBoy](https://www.opentierboy.com/) [:gh:](https://github.com/infinia-yzl/opentierboy)
 
 
 
@@ -261,9 +261,9 @@ Illustrations now has its [own page](/art)!
 
 | Category | Websites |
 |---|---|
-| Fan Projects | [Holodex](https://holodex.net/) [:simple-icons-github:](https://github.com/HolodexNet/Holodex) <br> [Musicdex](https://music.holodex.net/) [:simple-icons-github:](https://github.com/HolodexNet/Musicdex) <br> [Ragtag Archive](https://archive.ragtag.moe/) [:simple-icons-github:](https://github.com/ragtag-archive) <br> [Patchwork Archive](https://patchwork.moekyun.me/) [:simple-icons-github:](https://github.com/Patchwork-Archive/) |
-| Database | [Amatsukaze](https://amatsukaze.rl404.com/) :glowing-star: [:simple-icons-github:](https://github.com/rl404/amatsukaze) <br> [Virtual YouTuber Wiki](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki) <br> [Good VTuber Subs](https://goodvtubersubs.com/) <br> [Hololist](https://hololist.net/) <br> [ironmouse Model Index](https://www.ironmousemodelindex.com/) <br> [VTBs in Bilibili!](https://vtbs.moe/) |
-| Stats | [VChama](https://vchama.xyz) :glowing-star: <Badge type="info" text="Schedule" /><br> [vtstats](https://vt.poi.cat/) :glowing-star: <Badge type="info" text="Schedule" /><Badge text="Revenue"/><br> [VSTATS](https://www.vstats.jp/) <br> [Userlocal VTuber](https://virtual-youtuber.userlocal.jp/) <Badge type="info" text="Stream Rank" link="https://live-ranking.userlocal.jp/vtuber-ranking" /><Badge type="info" text="Schedule" /><br> [TwitchTracker](https://twitchtracker.com/) <br> [Streams Charts](https://streamscharts.com/) |
+| Fan Projects | [Holodex](https://holodex.net/) [:gh:](https://github.com/HolodexNet/Holodex) <br> [Musicdex](https://music.holodex.net/) [:gh:](https://github.com/HolodexNet/Musicdex) <br> [Ragtag Archive](https://archive.ragtag.moe/) [:gh:](https://github.com/ragtag-archive) <br> [Patchwork Archive](https://patchwork.moekyun.me/) [:gh:](https://github.com/Patchwork-Archive/) |
+| Database | [Amatsukaze](https://amatsukaze.rl404.com/) :s: [:gh:](https://github.com/rl404/amatsukaze) <br> [Virtual YouTuber Wiki](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki) <br> [Good VTuber Subs](https://goodvtubersubs.com/) <br> [Hololist](https://hololist.net/) <br> [ironmouse Model Index](https://www.ironmousemodelindex.com/) <br> [VTBs in Bilibili!](https://vtbs.moe/) |
+| Stats | [VChama](https://vchama.xyz) :s: <Badge type="info" text="Schedule" /><br> [vtstats](https://vt.poi.cat/) :s: <Badge type="info" text="Schedule" /><Badge text="Revenue"/><br> [VSTATS](https://www.vstats.jp/) <br> [Userlocal VTuber](https://virtual-youtuber.userlocal.jp/) <Badge type="info" text="Stream Rank" link="https://live-ranking.userlocal.jp/vtuber-ranking" /><Badge type="info" text="Schedule" /><br> [TwitchTracker](https://twitchtracker.com/) <br> [Streams Charts](https://streamscharts.com/) |
 | Schedule | [VTuber Schedule](https://vtuberschedules.com/) <br> [Hololyzer](https://www.hololyzer.net/) <br> [vTubie](https://vtubie.com/) |
 | Others | [VTuber Highlights](https://vtuber.atodeyo.com/) :flag-japan: <Badge type="info" text="News" /><br> [VTuber Newsdrop](https://vtubernewsdrop.com/) <Badge type="info" text="News" /><br> [Reincar](https://reincar.net/) <Badge type="info" text="News" /> |
 
@@ -289,8 +289,8 @@ Illustrations now has its [own page](/art)!
     - [hoshinova](https://github.com/HoloArchivists/hoshinova)
 - [Youtube Community Tab](https://github.com/HoloArchivists/youtube-community-tab)
 - [Chat Downloader](https://github.com/xenova/chat-downloader)
-- [Streamlink](https://streamlink.github.io/index.html) [:simple-icons-github:](https://github.com/streamlink/streamlink)
-    - [Streamlink Twitch GUI](https://streamlink.github.io/streamlink-twitch-gui/) [:simple-icons-github:](https://github.com/streamlink/streamlink-twitch-gui)
+- [Streamlink](https://streamlink.github.io/index.html) [:gh:](https://github.com/streamlink/streamlink)
+    - [Streamlink Twitch GUI](https://streamlink.github.io/streamlink-twitch-gui/) [:gh:](https://github.com/streamlink/streamlink-twitch-gui)
 - [Twitch Multi-Streamer](https://multistreamer.lucidnet.app/)
 - [Twspace-dl](https://github.com/HoloArchivists/twspace-dl)
 - [Holoscrape](https://github.com/dannylty/holoscrape)
@@ -305,28 +305,28 @@ Illustrations now has its [own page](/art)!
 
 ## Extensions
 
-- [Holodex+](https://github.com/HolodexNet/Holodex-Plus) [:simple-icons-googlechrome:](https://chromewebstore.google.com/detail/holodex-plus/mjcecbpccklceljomllkhilglcdcncbh) [:simple-icons-firefoxbrowser:](https://addons.mozilla.org/en-US/firefox/addon/holodex-plus/)
-- [HoloSongs](https://github.com/themintchoco/holosongs) [:simple-icons-googlechrome:](https://chromewebstore.google.com/detail/holosongs/ipibfcnlipdkimfmajnddpboejkocplf)
-- [HoloSchedule](https://github.com/YunzheZJU/holo-schedule) [:simple-icons-googlechrome:](https://chromewebstore.google.com/detail/holoschedule/fjicegllhddldnnkgfefblholeegpcad) [:simple-icons-firefoxbrowser:](https://addons.mozilla.org/en-US/firefox/addon/holo-schedule/)
-- [HyperChat](https://livetl.app/hyperchat) [:simple-icons-googlechrome:](https://chromewebstore.google.com/detail/hyperchat-improved-youtub/naipgebhooiiccifflecbffmnjbabdbh) [:simple-icons-firefoxbrowser:](https://addons.mozilla.org/en-US/firefox/addon/hyperchat/)
-- [TTV LOL PRO](https://github.com/younesaassila/ttv-lol-pro) [:simple-icons-googlechrome:](https://chrome.google.com/webstore/detail/ttv-lol-pro/bpaoeijjlplfjbagceilcgbkcdjbomjd) [:simple-icons-firefoxbrowser:](https://addons.mozilla.org/addon/ttv-lol-pro/)
+- [Holodex+](https://github.com/HolodexNet/Holodex-Plus) [:cr:](https://chromewebstore.google.com/detail/holodex-plus/mjcecbpccklceljomllkhilglcdcncbh) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/holodex-plus/)
+- [HoloSongs](https://github.com/themintchoco/holosongs) [:cr:](https://chromewebstore.google.com/detail/holosongs/ipibfcnlipdkimfmajnddpboejkocplf)
+- [HoloSchedule](https://github.com/YunzheZJU/holo-schedule) [:cr:](https://chromewebstore.google.com/detail/holoschedule/fjicegllhddldnnkgfefblholeegpcad) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/holo-schedule/)
+- [HyperChat](https://livetl.app/hyperchat) [:cr:](https://chromewebstore.google.com/detail/hyperchat-improved-youtub/naipgebhooiiccifflecbffmnjbabdbh) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/hyperchat/)
+- [TTV LOL PRO](https://github.com/younesaassila/ttv-lol-pro) [:cr:](https://chrome.google.com/webstore/detail/ttv-lol-pro/bpaoeijjlplfjbagceilcgbkcdjbomjd) [:ff:](https://addons.mozilla.org/addon/ttv-lol-pro/)
   - :material-symbols-subdirectory-arrow-right: More [Twitch Ad Solutions](https://github.com/pixeltris/TwitchAdSolutions/blob/master/full-list.md)
-- [ytcFilter](https://github.com/LiveTL/ytcfilter) [:simple-icons-googlechrome:](https://chromewebstore.google.com/detail/ytcfilter/mnldnbhgfocmkehnlkeanlhfmopepnko) [:simple-icons-firefoxbrowser:](https://addons.mozilla.org/en-US/firefox/addon/ytcfilter/)
+- [ytcFilter](https://github.com/LiveTL/ytcfilter) [:cr:](https://chromewebstore.google.com/detail/ytcfilter/mnldnbhgfocmkehnlkeanlhfmopepnko) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/ytcfilter/)
 
 
 
 
 ## Games
 
-- [holo Indie](https://store.steampowered.com/publisher/holo_Indie) :glowing-star: <Badge type="tip" text="Info" link="https://hololive.wiki/wiki/Holo_Indie" /><tooltip>We won't add the games here that are under holo Indie</tooltip>
-- [Days With Ollie](https://store.steampowered.com/app/2776750/Days_With_Ollie/) :material-symbols-credit-card-outline:
+- [holo Indie](https://store.steampowered.com/publisher/holo_Indie) :s: <Badge type="tip" text="Info" link="https://hololive.wiki/wiki/Holo_Indie" /><tooltip>We won't add the games here that are under holo Indie</tooltip>
+- [Days With Ollie](https://store.steampowered.com/app/2776750/Days_With_Ollie/) :paid:
 - [Delivering Hope](https://david-wu-softdev.itch.io/delivering-hope-hololive-fangame)  
 - [Holo on Suika](https://tkgames.jp/holo_watermelon.html)  
-- [Holocure](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/) :glowing-star:  
+- [Holocure](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/) :s:  
 - [Hololive Councilrys RPG](https://kebbie.itch.io/councilrysrpg)    
-- [hololive ERROR](https://store.steampowered.com/app/2062550/hololive_ERROR/) :material-symbols-credit-card-outline:
+- [hololive ERROR](https://store.steampowered.com/app/2062550/hololive_ERROR/) :paid:
 - [Mumei's Memory Juggling](https://david-wu-softdev.itch.io/mumeis-memory-juggling)  
-- [Nameless](https://sk-jynx.itch.io/nameless) :glowing-star:  
+- [Nameless](https://sk-jynx.itch.io/nameless) :s:  
 - [Pebble Jame](https://gioba-games.itch.io/pebble-jame)  
 - [smol Ame](https://moocow-games.itch.io/smol-ame)  
 - [Snowed In](https://shiorinovella.itch.io/shiorivisualnovella)  
@@ -354,7 +354,7 @@ Illustrations now has its [own page](/art)!
 
 ### Quiz
 - [AniGuessr](https://aniguessr.com/)
-- [Anicheck](https://anicheck.moe/) [:simple-icons-github:](https://github.com/gubo97000/aniCheck)
+- [Anicheck](https://anicheck.moe/) [:gh:](https://github.com/gubo97000/aniCheck)
 - [Anime Music Quiz](https://animemusicquiz.com/) <Badge type="tip" text="Script" link="https://github.com/Shaykaden/AMQ-tabify-anime-selection" />
 - [AnimeSongs Quiz](https://quiz.animesongs.org/)
 - [AnimeGuess](https://www.animeguess.moe/)
@@ -371,9 +371,9 @@ Illustrations now has its [own page](/art)!
 - [Anime Bath Scene Wiki](https://animebathscenewiki.com/index.php?title=Main_Page)
 - [Anime Girls Holding Programming Books](https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/)
 - [HUNTER×HUNTER Hiatus Chart](https://hiatus-hiatus.github.io/)
-- [Inazuma](https://inazuma.rl404.com/) [:simple-icons-github:](https://github.com/rl404/inazuma)
+- [Inazuma](https://inazuma.rl404.com/) [:gh:](https://github.com/rl404/inazuma)
 - [TV Tropes](https://tvtropes.org/)
-- [Vagabond Hiatus Chart](https://vagabond-hiatus-chart.vercel.app/) [:simple-icons-github:](https://github.com/falsepopsky/vagabond-hiatus-chart)
+- [Vagabond Hiatus Chart](https://vagabond-hiatus-chart.vercel.app/) [:gh:](https://github.com/falsepopsky/vagabond-hiatus-chart)
 - [Wired Sound For Wired People](https://fauux.neocities.org/)
 
 ## Recommendations
@@ -387,7 +387,7 @@ Illustrations now has its [own page](/art)!
   - [u/FetchFrosh](https://old.reddit.com/r/anime/comments/o16ipm/rebuild_of_the_ultimate_anime_recommendation/)
 - **Algorithm Based**
   - [AniBrain](https://anibrain.ai/)
-  - [Sprout Anime Recommender](https://anime.ameo.dev/) :glowing-star::simple-icons-myanimelist::simple-icons-anilist:
+  - [Sprout Anime Recommender](https://anime.ameo.dev/) :s::simple-icons-myanimelist::simple-icons-anilist:
 
 ### Visual Novel
 - [VNDB](https://vndb.org/v?f=022gja3gja&s=34w)
