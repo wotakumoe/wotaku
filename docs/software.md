@@ -90,6 +90,7 @@ outline: [1,2]
   - [AL-Chan](https://play.google.com/store/apps/details?id=com.zen.alchan) :material-symbols-lock-outline:
   - [AniHyou](https://github.com/axiel7/AniHyou-android)
   - [Kurumi](https://github.com/subrotokumar/kurumi)
+  - [Otraku](https://github.com/lotusprey/otraku)
 - **MyAnimeList**
   - [DailyAL](https://github.com/JICA98/DailyAL)
   - [MoeList](https://moelist.net/) [:simple-icons-github:](https://github.com/axiel7/MoeList)
