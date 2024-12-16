@@ -13,10 +13,10 @@ outline: [1,2]
 
 ## Anime Streaming
 
-- [Aniyomi](https://aniyomi.org/) :s: [:gh:](https://github.com/aniyomiorg/aniyomi) [:mdi-puzzle:](/guides/tech/repo)
+- [Aniyomi](https://aniyomi.org/) :s: [:gh:](https://github.com/aniyomiorg/aniyomi) [:e:](/guides/tech/repo)
   - [Animetail](https://github.com/Dark25/Animetail2)
   - [Animiru](https://github.com/quickdesh/Animiru)
-- [Dantotsu](https://dantotsuapp.netlify.app/) [:gh:](https://github.com/rebelonion/Dantotsu) [:mdi-puzzle:](/guides/tech/repo)
+- [Dantotsu](https://dantotsuapp.netlify.app/) [:gh:](https://github.com/rebelonion/Dantotsu) [:e:](/guides/tech/repo)
 - [Cloudstream](https://cloudstream.on.fleek.co/) [:gh:](https://github.com/recloudstream/cloudstream)
 - [Migu](https://miguapp.pages.dev/) [:gh:](https://github.com/NoCrypt/migu)
 - [AnimeTV](https://amarullz.com/) [:gh:](https://github.com/amarullz/AnimeTV)
@@ -46,7 +46,7 @@ outline: [1,2]
 ## Manga Readers
 
 ### Online
-- [Mihon](https://mihon.app/) [:gh:](https://github.com/mihonapp/mihon) [:mdi-puzzle:](/guides/tech/repo)
+- [Mihon](https://mihon.app/) [:gh:](https://github.com/mihonapp/mihon) [:e:](/guides/tech/repo)
   - [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:gh:](https://github.com/jobobby04/TachiyomiSY)
   - [TachiyomiJ2K](https://mihon.app/forks/TachiyomiJ2K/) [:gh:](https://github.com/Jays2Kings/tachiyomiJ2K)
   - [Yokai](https://mihon.app/forks/Yokai/) :s: [:gh:](https://github.com/null2264/yokai)
@@ -57,7 +57,7 @@ outline: [1,2]
 - [TachiyomiAZ](https://mihon.app/forks/TachiyomiAZ/) <Badge type="info" text="Dev build" link="https://crafty.moe/tachiyomiAZ.apk" />[:gh:](https://github.com/az4521/tachiyomiAZ)
 - [Animetail](https://github.com/Dark25/Animetail2)
 - [Aniyomi](https://aniyomi.org/) [:gh:](https://github.com/aniyomiorg/aniyomi)
-- [Dantotsu](https://dantotsuapp.netlify.app/) [:gh:](https://github.com/rebelonion/Dantotsu) [:mdi-puzzle:](/guides/tech/repo)
+- [Dantotsu](https://dantotsuapp.netlify.app/) [:gh:](https://github.com/rebelonion/Dantotsu) [:e:](/guides/tech/repo)
 - [Neko](https://github.com/nekomangaorg/Neko)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [Cubari](https://cubari.moe/) :web:
@@ -71,7 +71,7 @@ outline: [1,2]
 ## Novel Readers
 
 ### Online
-- [LN Reader](https://lnreader.github.io/) [:gh:](https://github.com/LNReader/lnreader) [:mdi-puzzle:](/guides/tech/repo/#android)
+- [LN Reader](https://lnreader.github.io/) [:gh:](https://github.com/LNReader/lnreader) [:e:](/guides/tech/repo/#android)
 - [Quicknovel](https://github.com/LagradOst/QuickNovel)
 - [Shosetsu](https://shosetsu.app/) [:gl:](https://gitlab.com/shosetsuorg/shosetsu)
 - [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha)
@@ -123,11 +123,11 @@ Check out [**CFW's iOS guide**](https://ios.cfw.guide/) & [**The Apple Wiki**](h
 ## Manga Readers
 
 ### Online
-- [Paperback](https://paperback.moe/) [:gh:](https://github.com/Paperback-iOS/app) [:mdi-puzzle:](/guides/tech/repo#ios)
-- [Aidoku](https://aidoku.app/) [:gh:](https://github.com/Aidoku/Aidoku) [:mdi-puzzle:](/guides/tech/repo#ios)
+- [Paperback](https://paperback.moe/) [:gh:](https://github.com/Paperback-iOS/app) [:e:](/guides/tech/repo#ios)
+- [Aidoku](https://aidoku.app/) [:gh:](https://github.com/Aidoku/Aidoku) [:e:](/guides/tech/repo#ios)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
-- [Tachimanga](https://tachimanga.app/) :fm::cs: [:mdi-puzzle:](https://tachimanga.app/help/guides/adding-repos.html)
-- [Suwatte](https://suwatte.mantton.com/) [:gh:](https://github.com/Suwatte/Suwatte) [:mdi-puzzle:](/guides/tech/repo#ios) <Badge type="tip" text="Converter" link="https://seyden.github.io/SuwatteConverter/suwatte" />
+- [Tachimanga](https://tachimanga.app/) :fm::cs: [:e:](https://tachimanga.app/help/guides/adding-repos.html)
+- [Suwatte](https://suwatte.mantton.com/) [:gh:](https://github.com/Suwatte/Suwatte) [:e:](/guides/tech/repo#ios) <Badge type="tip" text="Converter" link="https://seyden.github.io/SuwatteConverter/suwatte" />
 - [Hanami](https://github.com/oolxg/Hanami)
 
 ### Local

@@ -172,7 +172,7 @@ outline: [2,3]
 - [10ten Japanese Reader](https://github.com/birchill/10ten-ja-reader) :ff::cr::mingcute-safari-fill: `Pop-up dictionary`
 - [ASB Auto Subs](https://github.com/GodPepe7/asb-auto-subs) :ff::cr: `Jimaku subs in anime sites`
 - [Japanese.io](https://www.japanese.io/) :cr: `Pop-up dictionary`
-- [jimaku player](https://github.com/sheodox/jimaku-player) :simple-icons-javascript: `Custom subs for CR`
+- [jimaku player](https://github.com/sheodox/jimaku-player) :js: `Custom subs for CR`
 - [Language Reactor](https://www.languagereactor.com/) :cr: `Pop-up dictionary & immersion helper` :fm:
 - [mirigana](https://github.com/mirigana/mirigana) :ff::cr: `Insert furigana on Twitter`
 - [JPDB Web Reader](https://github.com/max-kamps/jpd-breader) :ff::cr:

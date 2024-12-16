@@ -29,8 +29,8 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 ### Software
 
 - **Android**
-  - [Aniyomi](https://aniyomi.org/) :s: [:gh:](https://github.com/aniyomiorg/aniyomi) [:mdi-puzzle:](/guides/tech/repo)
-  - [Dantotsu](https://dantotsuapp.netlify.app/) [:gh:](https://github.com/rebelonion/Dantotsu) [:mdi-puzzle:](/guides/tech/repo)
+  - [Aniyomi](https://aniyomi.org/) :s: [:gh:](https://github.com/aniyomiorg/aniyomi) [:e:](/guides/tech/repo)
+  - [Dantotsu](https://dantotsuapp.netlify.app/) [:gh:](https://github.com/rebelonion/Dantotsu) [:e:](/guides/tech/repo)
   - [AnimeTV](https://amarullz.com/) [:gh:](https://github.com/amarullz/AnimeTV)
 - **iOS**
   - [Ryu](https://github.com/cranci1/Ryu) [:tf:](https://testflight.apple.com/join/Sxyg9JXF)
@@ -57,12 +57,12 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 ### Software
 
 - **Android**
-  - [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:gh:](https://github.com/jobobby04/TachiyomiSY) [:mdi-puzzle:](/guides/tech/repo)
-  - [Yokai](https://mihon.app/forks/Yokai/) :s: [:gh:](https://github.com/null2264/yokai) [:mdi-puzzle:](/guides/tech/repo)
+  - [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:gh:](https://github.com/jobobby04/TachiyomiSY) [:e:](/guides/tech/repo)
+  - [Yokai](https://mihon.app/forks/Yokai/) :s: [:gh:](https://github.com/null2264/yokai) [:e:](/guides/tech/repo)
   - [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :s::lcl::fm::cs:
 - **iOS**
-  - [Paperback](https://github.com/Paperback-iOS/app) [:mdi-puzzle:](/guides/tech/repo#ios)
-  - [Aidoku](https://github.com/Aidoku/Aidoku) [:mdi-puzzle:](/guides/tech/repo#ios)
+  - [Paperback](https://github.com/Paperback-iOS/app) [:e:](/guides/tech/repo#ios)
+  - [Aidoku](https://github.com/Aidoku/Aidoku) [:e:](/guides/tech/repo#ios)
   - [YACReader](https://apps.apple.com/app/id635717885) :s::lcl::paid::cs:[:tf:](https://testflight.apple.com/join/5zhB7sRP)
 - **PC**
   - [Houdoku](https://houdoku.netlify.app/) :win::app::lin:
@@ -202,16 +202,16 @@ You should never use cracked or modded VPN cause all of your traffic will go thr
 - [Anychans](https://anychans.github.io/4chan/) :mdi-desktop-mac:
 
 ### Boards
-- [:simple-icons-4chan:/a/ - Anime & Manga](https://boards.4channel.org/a/)
-- [:simple-icons-4chan:/c/ - Anime/Cute](https://boards.4channel.org/c/)
-- [:simple-icons-4chan:/cgl/ - Cosplay & EGL](https://boards.4channel.org/cgl/)
-- [:simple-icons-4chan:/co/ - Comics & Cartoons](https://boards.4channel.org/co/)
-- [:simple-icons-4chan:/e/ - Ecchi](https://boards.4channel.org/e/)
-- [:simple-icons-4chan:/h/ - Hentai](https://boards.4channel.org/h/)
-- [:simple-icons-4chan:/m/ - Mecha](https://boards.4channel.org/m/)
-- [:simple-icons-4chan:/jp/ - Otaku Culture](https://boards.4channel.org/jp/)
-- [:simple-icons-4chan:/vt/ - Virtual YouTubers](https://boards.4channel.org/vt/)
-- [:simple-icons-4chan:/w/ - Anime/Wallpapers](https://boards.4channel.org/w/)
+- [:f:/a/ - Anime & Manga](https://boards.4channel.org/a/)
+- [:f:/c/ - Anime/Cute](https://boards.4channel.org/c/)
+- [:f:/cgl/ - Cosplay & EGL](https://boards.4channel.org/cgl/)
+- [:f:/co/ - Comics & Cartoons](https://boards.4channel.org/co/)
+- [:f:/e/ - Ecchi](https://boards.4channel.org/e/)
+- [:f:/h/ - Hentai](https://boards.4channel.org/h/)
+- [:f:/m/ - Mecha](https://boards.4channel.org/m/)
+- [:f:/jp/ - Otaku Culture](https://boards.4channel.org/jp/)
+- [:f:/vt/ - Virtual YouTubers](https://boards.4channel.org/vt/)
+- [:f:/w/ - Anime/Wallpapers](https://boards.4channel.org/w/)
 
 ### Archives
 - [4chan archive search](https://4search.neocities.org/)
@@ -231,10 +231,10 @@ You should never use cracked or modded VPN cause all of your traffic will go thr
   - [Read Chan](https://play.google.com/store/apps/details?id=com.deezus.pchan) :and:
   - [TUI-Chan](https://github.com/tuqqu/tui-chan) :win:
 - **Extension / Script**
-  - [4chan X](https://github.com/ccd0/4chan-x) :cr::simple-icons-javascript:
-      - [4chan XT](https://github.com/TuxedoTako/4chan-xt) :simple-icons-javascript:
-      - [OneeChan](https://github.com/KevinParnell/OneeChan) :simple-icons-javascript:
-      - [StyleChan](https://github.com/3nly/StyleChan) :simple-icons-javascript:
-      - [SS21](https://github.com/saxamaphone69/ss21) :simple-icons-javascript::mdi-format-paint:
-  - [Desu X](https://greasyfork.org/en/scripts/483282-desu-x-enhancement-script-for-desuarchive-org) :simple-icons-javascript:
-  - [Dollchan](https://github.com/SthephanShinkufag/Dollchan-Extension-Tools/) :ff::simple-icons-javascript:
+  - [4chan X](https://github.com/ccd0/4chan-x) :cr::js:
+      - [4chan XT](https://github.com/TuxedoTako/4chan-xt) :js:
+      - [OneeChan](https://github.com/KevinParnell/OneeChan) :js:
+      - [StyleChan](https://github.com/3nly/StyleChan) :js:
+      - [SS21](https://github.com/saxamaphone69/ss21) :js::mdi-format-paint:
+  - [Desu X](https://greasyfork.org/en/scripts/483282-desu-x-enhancement-script-for-desuarchive-org) :js:
+  - [Dollchan](https://github.com/SthephanShinkufag/Dollchan-Extension-Tools/) :ff::js:

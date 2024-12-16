@@ -32,8 +32,8 @@ If you have recommendations for good sites in your native language or want to re
 - [Novel Cool](https://novelcool.com/)
 
 ### Apps
-- [Mihon](https://github.com/mihonapp/mihon) [:mdi-puzzle:](/guides/tech/repo)
-- [Aniyomi](https://github.com/jmir1/aniyomi/) [:mdi-puzzle:](/guides/tech/repo)
+- [Mihon](https://github.com/mihonapp/mihon) [:e:](/guides/tech/repo)
+- [Aniyomi](https://github.com/jmir1/aniyomi/) [:e:](/guides/tech/repo)
 
 
 ## Arabic

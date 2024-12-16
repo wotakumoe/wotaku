@@ -48,7 +48,7 @@ Some apps might not support **Auto Install method**. That doesn't mean the guide
 4. The extension is disabled by default, so click on the :mdi-shield-check-outline: icon to enable it.
 
 ::: tip For Dantotsu & its forks
-Copy the **URL** (from the manual column) and put it in: **Profile avatar (top right) -> :mdi-cog:Settings -> :mdi-puzzle:Extensions -> Add Anime/Manga Repo**.
+Copy the **URL** (from the manual column) and put it in: **Profile avatar (top right) -> :mdi-cog:Settings -> :e:Extensions -> Add Anime/Manga Repo**.
 
 To activate torrent features, navigate to **Profile avatar (top right) -> :mdi-cog:Settings -> :mdi-silverware-fork-knife:Add-ons**. Then download and install the **:mag:Torrent Add-on**. Afterwards, switch on **:mdi-server:Enable Torrent**.
 :::

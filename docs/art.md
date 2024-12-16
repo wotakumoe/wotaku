@@ -66,16 +66,16 @@ outline: [1,2]
 ## Sakuga
 - [Sakuga Booru](https://www.sakugabooru.com/) :s: <Badge type="green" text="SFW" />
 - [Sakuga.video](https://sakuga.video/)
-- [A-1 Pictures Sakuga](https://x.com/A1_sakuga) :simple-icons-twitter:
-- [ArtSakuga](https://x.com/artsakuga) :simple-icons-twitter:
-- [Dan Kantori](https://x.com/DanKantori) :s::simple-icons-twitter:
-- [Effects Sakuga](https://x.com/EffectsSakuga) :simple-icons-twitter:
-- [Mack Bay](https://x.com/SaberzzSeiba) :simple-icons-twitter:
-- [randomsakuga](https://x.com/randomsakuga) :simple-icons-twitter:
-- [rinri](https://x.com/guyayaHime) :simple-icons-twitter:
-- [Sakuga Clips](https://x.com/sakugaclips) :simple-icons-twitter:
-- [SakugaDEYO](https://x.com/SakugaDEYO) :simple-icons-twitter:
-- [Sakuga 作画](https://x.com/sakugacontent) :simple-icons-twitter:
+- [A-1 Pictures Sakuga](https://x.com/A1_sakuga) :x:
+- [ArtSakuga](https://x.com/artsakuga) :x:
+- [Dan Kantori](https://x.com/DanKantori) :s::x:
+- [Effects Sakuga](https://x.com/EffectsSakuga) :x:
+- [Mack Bay](https://x.com/SaberzzSeiba) :x:
+- [randomsakuga](https://x.com/randomsakuga) :x:
+- [rinri](https://x.com/guyayaHime) :x:
+- [Sakuga Clips](https://x.com/sakugaclips) :x:
+- [SakugaDEYO](https://x.com/SakugaDEYO) :x:
+- [Sakuga 作画](https://x.com/sakugacontent) :x:
 
 ## Front-end / Utility
 
@@ -108,7 +108,7 @@ outline: [1,2]
 - [Studio Ghibli](https://www.ghibli.jp/info/013772/) <Badge type="green" text="SFW" />
 - [Wallhaven](https://wallhaven.cc/)
 - [wanderer.moe](https://wanderer.moe/) [:gh:](https://github.com/wanderer-moe/site)
-- [:simple-icons-4chan:/w/](http://catalog.neet.tv/w/) <Badge type="danger" icon="i-mingcute-skull-fill" text="NSFL" />
+- [:f:/w/](http://catalog.neet.tv/w/) <Badge type="danger" icon="i-mingcute-skull-fill" text="NSFL" />
 
 
 ![](/banner/software.webp)

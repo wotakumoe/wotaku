@@ -157,13 +157,13 @@ Illustrations now has its [own page](/art)!
 ## General
 
 - **Info / News**
-  - [Anime News Network](https://www.animenewsnetwork.com/) :s: [:simple-icons-twitter:](https://x.com/animecorner_ac)
+  - [Anime News Network](https://www.animenewsnetwork.com/) :s: [:x:](https://x.com/animecorner_ac)
   - [Anime UK News](https://animeuknews.net/)
   - [Crunchyroll News](https://www.crunchyroll.com/news)
   - [GUNDAM.INFO](https://en.gundam.info/)
-  - [Japan Anime News](https://us.oricon-group.com/) [:simple-icons-twitter:](https://x.com/JapanAnimeNews_)
+  - [Japan Anime News](https://us.oricon-group.com/) [:x:](https://x.com/JapanAnimeNews_)
   - [Kanzenshuu](https://www.kanzenshuu.com/)
-  - [MAL News](https://myanimelist.net/news) [:simple-icons-twitter:](https://x.com/myanimelist)
+  - [MAL News](https://myanimelist.net/news) [:x:](https://x.com/myanimelist)
   - [ORICON NEWS](https://www.oricon.co.jp/) :flag-japan:
   - [Otaku News](https://www.otakunews.com/)
 - **Blog / Interview**
@@ -175,11 +175,11 @@ Illustrations now has its [own page](/art)!
 ## Anime
 
 - **Info / News**
-  - [Anime Corner](https://animecorner.me/) :s: [:simple-icons-twitter:](https://x.com/animecorner_ac)
+  - [Anime Corner](https://animecorner.me/) :s: [:x:](https://x.com/animecorner_ac)
   - [AnimeDB](https://animedb.jp/) :flag-japan:
   - [Anime Freaks](https://times.abema.tv/anime) :flag-japan:
-  - [Anitrendz](https://anitrendz.net/news/) [:simple-icons-twitter:](https://x.com/anitrendz)
-  - [AnimeTV](https://animetv-jp.net/) [:simple-icons-twitter:](https://x.com/animetv_jp)
+  - [Anitrendz](https://anitrendz.net/news/) [:x:](https://x.com/anitrendz)
+  - [AnimeTV](https://animetv-jp.net/) [:x:](https://x.com/animetv_jp)
   - [Eiga](https://anime.eiga.com/) :flag-japan:
   - [English Dubbed Anime Lovers](https://english-dubbed.com/)
 - **Blog / Interview**
@@ -189,22 +189,22 @@ Illustrations now has its [own page](/art)!
   - [Full Frontal](https://fullfrontal.moe/) :s:
   - [Furaba Anime search](https://furaba-animeseichi.blog.jp/)
   - [Let's Anime](https://letsanime.blogspot.com/)
-  - [Sakuga Blog](https://blog.sakugabooru.com/) :s: [:simple-icons-twitter:](https://x.com/SakugaBlog)
+  - [Sakuga Blog](https://blog.sakugabooru.com/) :s: [:x:](https://x.com/SakugaBlog)
 
 
 ## Manga & LN
 
 - **Info / News**
-  - [Deb Aoki](https://x.com/debaoki) :simple-icons-twitter:
-  - [Erzat](https://x.com/Erzat110) :simple-icons-twitter:
-  - [Josu Ke](https://x.com/Josu_ke) :simple-icons-twitter:
-  - [Manga Alerts](https://x.com/MangaAlerts) :simple-icons-twitter:
+  - [Deb Aoki](https://x.com/debaoki) :x:
+  - [Erzat](https://x.com/Erzat110) :x:
+  - [Josu Ke](https://x.com/Josu_ke) :x:
+  - [Manga Alerts](https://x.com/MangaAlerts) :x:
   - [Manga Bookshelf](https://mangabookshelf.com/)
-  - [Manga Mogura](https://x.com/MangaMoguraRE) <Badge type="tip" text="2" link="https://x.com/MangaReporter" /> :s::simple-icons-twitter:
+  - [Manga Mogura](https://x.com/MangaMoguraRE) <Badge type="tip" text="2" link="https://x.com/MangaReporter" /> :s::x:
     - [Ecchi & Smut Mogura](https://x.com/EcchiMogura)
-  - [Nez](https://x.com/mangaxrepublic) :simple-icons-twitter:
+  - [Nez](https://x.com/mangaxrepublic) :x:
   - [Randomanga](https://randomanga.wordpress.com/)
-  - [Shonen Jump News](https://x.com/WSJ_manga) :s::simple-icons-twitter:
+  - [Shonen Jump News](https://x.com/WSJ_manga) :s::x:
 - **Blog / Interview**
   - [BehindTheManga](https://www.behindthemanga.com/)
   - [Manga Splaining](https://www.mangasplaining.com/)

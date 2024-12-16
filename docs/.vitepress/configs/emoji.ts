@@ -58,7 +58,12 @@ const aliases: Record<string, string> = {
   cs: 'material-symbols-lock-outline',
   // Others
   s: 'twemoji-glowing-star',
-  tf: 'mdi-airplane'
+  e: 'mdi-puzzle',
+  x: 'simple-icons-twitter',
+  f: 'simple-icons-4chan',
+  tf: 'mdi-airplane',
+  js: 'simple-icons-javascript',
+  css: 'mdi-format-paint'
 }
 
 

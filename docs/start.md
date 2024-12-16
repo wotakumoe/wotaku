@@ -67,7 +67,7 @@ Wotaku fetches icons from [**Icones**](https://icones.js.org/). All the added ic
 
 Examples:
 - `:win:` -> :win:
-- `<Badge type="tip" icon="i-simple-icons-twitter" text="Twitter" link="https://x.com/animecorner_ac" />` ->  <Badge type="tip" icon="i-simple-icons-twitter" text="Twitter" link="https://x.com/animecorner_ac" />
+- `<Badge type="tip" icon="i-x" text="Twitter" link="https://x.com/animecorner_ac" />` ->  <Badge type="tip" icon="i-x" text="Twitter" link="https://x.com/animecorner_ac" />
 
 ![](/iconname.png)
 
