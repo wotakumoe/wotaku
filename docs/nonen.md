@@ -113,7 +113,9 @@ If you have recommendations for good sites in your native language or want to re
 - [Baozimh.com](https://www.baozimh.com/) <Badge type="tip" text="2" link="https://www.kukuc.co/" /><Badge type="tip" text="3" link="https://www.webmota.com/" />
 - [Baozimh.org](https://baozimh.org/)
 - [Colamanga](https://www.colamanga.com/)
+- [Copymanga](https://copymanga.tv/) <Badge type="danger" text="18+" />
 - [DMZJ](https://www.idmzj.com/)
+- [Komiic](https://komiic.com/)
 - [Manga Reader](https://1zumii.github.io/manga-reader/#/) [:simple-icons-github:](https://github.com/1zumii/manga-reader)
 - [Manhua Gui](https://www.manhuagui.com/)
 - [XManhua](https://xmanhua.com/)
@@ -129,7 +131,8 @@ If you have recommendations for good sites in your native language or want to re
 - [HD Comic](https://www.hdcomic.com/)
 - [JAV Comics](https://javcomics.com/)
 - [JMWU](https://jmwu.xyz/) <Badge type="tip" text="2" link="https://jmzj.xyz/" />
-
+- [PicACG](https://manhuabika.com/)
+- [WNACG](https://www.wnacg.com/)
 
 ### Software
 
@@ -138,7 +141,7 @@ If you have recommendations for good sites in your native language or want to re
 | Category | Resources |
 |-|-|
 | Anime | [AGETV](https://github.com/muedsa/AGETV) <br> [Ani](https://github.com/open-ani/ani) <br> [Anime](https://github.com/lanlinju/Anime) <br> [Animeko](https://myani.org/) [:simple-icons-github:](https://github.com/open-ani/animeko) <br> [DMZJ](https://github.com/xiaoyaocz/flutter_dmzj) <br> [Kazumi](https://github.com/Predidit/Kazumi) <br> [Mediabox](https://github.com/RyensX/MediaBox) <br> [Miru App](https://miru.js.org/) <Badge text="Manga" /><br> [Neko Anime](https://github.com/xioneko/neko-anime) <br> [oneAnime](https://github.com/Predidit/oneAnime) |
-| Manga | [PasteMangaX](https://github.com/crowforkotlin/pastemangax) <br> [kobi](https://github.com/niuhuan/kobi) <br> [MangaReader](https://github.com/youniaogu/MangaReader) |
+| Manga | [PasteMangaX](https://github.com/crowforkotlin/pastemangax) <br> [kobi](https://github.com/niuhuan/kobi) <br> [MangaReader](https://github.com/youniaogu/MangaReader) <br> [Venra](https://github.com/venera-app/venera) |
 | Novels | [Hikari Novel](https://github.com/15dd/wenku8reader) <br> [Legado](https://github.com/gedoor/legado) <br> [LightNovelReader](https://github.com/dmzz-yyhyy/LightNovelReader) |
 | Tracker | [Bangumi](https://github.com/czy0729/Bangumi) <br> [Bangumi for Android](https://github.com/xiaoyvyv/bangumi) <br> [Bangumi MX](http://bgmx.mysxl.cn/) [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi) |
 
@@ -146,8 +149,8 @@ If you have recommendations for good sites in your native language or want to re
 
 | Category | Resources |
 |-|-|
-| Anime | [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) <Badge text="Downloader" /><br> [Bangumi Renamer](https://github.com/nuthx/bangumi-renamer) |
-| Manga | [Bilibili manga downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) <Badge text="Downloader" /><br> [Bilibili manga watermark remover](https://github.com/lanyeeee/bilibili-manga-watermark-remover) |
+| Anime | [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) <Badge text="Downloader" /> <br> [Miru App](https://miru.js.org/) [:simple-icons-github:](https://github.com/miru-project/miru-app) <br> [Bangumi Renamer](https://github.com/nuthx/bangumi-renamer) |
+| Manga | [Miru App](https://miru.js.org/) [:simple-icons-github:](https://github.com/miru-project/miru-app) <br> [Venra](https://github.com/venera-app/venera) <br> [Bilibili manga downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) <Badge text="Downloader" /><br> [Bilibili manga watermark remover](https://github.com/lanyeeee/bilibili-manga-watermark-remover) |
 | Others | [JProxy](https://github.com/LuckyPuppy514/jproxy) <Badge text=" Downloader" /><br> [Novel downloader](https://github.com/404-novel-project/novel-downloader) |
 
 ### Others
