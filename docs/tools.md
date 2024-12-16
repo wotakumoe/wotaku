@@ -181,6 +181,7 @@ outline: [1,2]
 - [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) :simple-icons-windows:
 - [mpvQC](https://github.com/mpvqc/mpvQC) :simple-icons-windows:
 - [StaxRip](https://github.com/staxrip/staxrip) :simple-icons-windows:
+- [Subtitle Edit](https://www.nikse.dk/subtitleedit) :simple-icons-windows: [:simple-icons-github:](https://github.com/SubtitleEdit/subtitleedit)
 - [Sushi.net](https://github.com/maxpiva/Sushi.Net) :simple-icons-windows::simple-icons-apple::simple-icons-linux:
 - [VapourSynth](https://www.vapoursynth.com/) :simple-icons-windows: [:simple-icons-github:](https://github.com/vapoursynth/vapoursynth)
   - :material-symbols-subdirectory-arrow-right: [VSDB](https://vsdb.top/)
