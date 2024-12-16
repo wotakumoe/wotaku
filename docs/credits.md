@@ -64,6 +64,6 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 
 == Guide
 
-- [neckothy](https://gist.github.com/neckothy/6654f928fef87529646df3799f5e555a)
+- The base structure of Digital Manga Info was taken from [neckothy's gist](https://gist.github.com/neckothy/6654f928fef87529646df3799f5e555a)
 
 :::
