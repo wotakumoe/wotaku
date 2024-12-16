@@ -181,3 +181,7 @@ FMD2 can't download 3 files at a time. For that use **JDL2**.
 3. Install the extension and go to its settings page.
 4. Add your login credentials.
 5. Now go to the Source page and click on Madokami to read/download the available manga.
+
+::: warning WEBP issue
+The Madokami extension by Keiyoushi uses Madokami's web reader instead of downloading the files like other downloaders (so that you can load the manga page by page). Madokami's web reader can't read `.webp` files, resulting in errors in Mihon and its forks as well.
+:::
