@@ -100,6 +100,7 @@ outline: [1,2]
 ## Others
 - [Anihonetwallpaper](https://anihonetwallpaper.com/) <Badge type="green" text="SFW" />
 - [Anime Pictures](https://anime-pictures.net/)
+- [Character Design References](https://characterdesignreferences.com/) <Badge type="green" text="SFW" />
 - [Kemono](https://kemono.su/)
 - [Minitokyo](http://www.minitokyo.net/)
 - [Nekohouse](https://nekohouse.su/)
