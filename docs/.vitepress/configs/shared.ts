@@ -6,7 +6,7 @@ import { imgLazyload } from '@mdit/plugin-img-lazyload'
 import { align } from '@mdit/plugin-align'
 import { imgSize } from '@mdit/plugin-img-size'
 import { tabsMarkdownPlugin } from 'vitepress-plugin-tabs'
-import { emojiRender, defs, movePlugin } from './emoji'
+import { emojiRender, defs, movePlugin, aliases } from './emoji'
 import { x } from 'tinyexec'
 import {
   PageProperties,
@@ -339,7 +339,7 @@ export const shared: UserConfig<DefaultTheme.Config> = {
     generateImages(context)
   },
   markdown: {
-    emoji: { defs },
+    emoji: { defs, shortcuts: aliases },
     config(md) {
       md.use(emojiRender)
       // @ts-expect-error
@@ -399,7 +399,7 @@ export const shared: UserConfig<DefaultTheme.Config> = {
     ],
     footer: {
       message: `<a href="https://github.com/wotakumoe">The Wotaku Team</a> <span class="divider">|</span> <a href="https://github.com/wotakumoe/Wotaku/commit/${GIT_COMMIT}">${GIT_COMMIT.slice(0, 7)}</a>`,
-      copyright: `made with love and eepy energy`
+      copyright: 'made with love and eepy energy'
     }
   },
   vite: {

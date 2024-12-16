@@ -33,6 +33,15 @@ const emojis: { pack: IconifyJSON; prefix?: string }[] = [
   { pack: iconoir, prefix: 'iconoir-' }
 ]
 
+// Add aliases here...
+const aliases: Record<string, string> = {
+  win: 'simple-icons-windows',
+  apple: 'simple-icons-apple',
+  linux: 'simple-icons-linux',
+  android: 'simple-icons-android',
+  github: 'simple-icons-github'
+}
+
 const defs: Record<string, string> = {}
 
 for (const elem of emojis) {
@@ -42,17 +51,26 @@ for (const elem of emojis) {
   }
 }
 
-export { defs }
+for (const [alias, fullName] of Object.entries(aliases)) {
+  defs[alias] = defs[fullName] !== undefined ? '' : 'INVALID_ALIAS'
+}
+
+export { defs, aliases }
 
 export function emojiRender(md: MarkdownRenderer) {
   md.renderer.rules.emoji = (tokens, idx) => {
+    const markup = tokens[idx].markup
+    if (aliases[markup]) {
+      return `<span class="i-${aliases[markup]}"></span>`
+    }
+
     for (const emoji of emojis) {
-      if (tokens[idx].markup.startsWith(emoji.prefix!)) {
-        return `<span class="i-${tokens[idx].markup}"></span>`
+      if (markup.startsWith(emoji.prefix!)) {
+        return `<span class="i-${markup}"></span>`
       }
     }
 
-    return `<span class="i-twemoji-${tokens[idx].markup}"></span>`
+    return `<span class="i-twemoji-${markup}"></span>`
   }
 }
 
