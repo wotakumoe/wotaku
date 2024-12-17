@@ -287,6 +287,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
   - [Stremio Addon Manager](https://stremio-addon-manager.vercel.app/) [:gh:](https://github.com/pancake3000/stremio-addon-manager)
   - [Stremio Jackett Addon](https://github.com/aymene69/stremio-jackett)
   - [Animeo: AniList Tracking](https://7a625ac658ec-animeo.baby-beamup.club/configure) [:gh:](https://github.com/Jenrykster/animeo)
+  - [MAL-Stremio Addon](https://mal-stremio.vercel.app/) [:gh:](https://github.com/SageTendo/mal-stremio-addon)
   - [SIMKL Addon](https://simkl.com/apps/stremio/)
   - [Anime Catalogs](https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/configure)
 
@@ -344,7 +345,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 |-|-|
 | Anime  | [Plex](https://www.plex.tv/) :s::cs: <br> [Jellyfin](https://jellyfin.org/) [:gh:](https://github.com/jellyfin/jellyfin) <br> [Emby](https://emby.media/) :cs:   |
 | Manga  | [Komga](https://komga.org/) :s: [:gh:](https://github.com/gotson/komga) <br> [Kavita](https://www.kavitareader.com/) [:gh:](https://github.com/Kareadita/Kavita) <br> [LANraragi](https://sugoi.gitbook.io/lanraragi/v/dev) [:gh:](https://github.com/Difegue/LANraragi) <br> [Teemii](https://www.teemii.io/) [:gh:](https://github.com/dokkaner/teemii) <br> [Mango](https://github.com/getmango/Mango) <Badge type="warning" text="Outdated" /> |
-| Novels | [Kavita](https://www.kavitareader.com/) :s: [:gh:](https://github.com/Kareadita/Kavita) <br> [Komga](https://komga.org/) [:gh:](https://github.com/gotson/komga) <br> [Calibre-Web](https://github.com/janeczku/calibre-web) <br> [Librium](https://librumreader.com/) |
+| Novels | [Kavita](https://www.kavitareader.com/) :s: [:gh:](https://github.com/Kareadita/Kavita) <br> [Komga](https://komga.org/) [:gh:](https://github.com/gotson/komga) <br> [Calibre-Web](https://github.com/janeczku/calibre-web) <br> [Librium](https://librumreader.com/) [:gh:](https://github.com/Librum-Reader/Librum) |
 | Audiobook | [audiobookshelf](https://www.audiobookshelf.org/) [:gh:](https://github.com/advplyr/audiobookshelf) <br> [Booksonic](https://booksonic.org/) [:gh:](https://github.com/popeen/Booksonic-App) |
 
 ### Client / Tools
