@@ -512,7 +512,7 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 
 ### Misc
 - [Karaoke Mugen](https://mugen.karaokes.moe/en/) :win::app::lin: [:gl:](https://gitlab.com/karaokemugen/code/karaokemugen-app)
-
+- [Music Presence](https://github.com/ungive/discord-music-presence) :win::app::cs:
 
 
 
