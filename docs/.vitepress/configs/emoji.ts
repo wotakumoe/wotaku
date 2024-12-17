@@ -58,6 +58,8 @@ const aliases: Record<string, string> = {
   gh: 'simple-icons-github',
   gl: 'simple-icons-gitlab',
   cb: 'simple-icons-codeberg',
+  kde: 'simple-icons-kde',
+  gn: 'simple-icons-gnome',
   cs: 'material-symbols-lock-outline',
 
   // Platform

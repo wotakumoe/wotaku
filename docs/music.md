@@ -382,7 +382,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 ### Local
 - [AIMP](https://www.aimp.ru/) :s::win::lin::cs:
 - [DeaDBeeF](https://deadbeef.sourceforge.io/) :lin:
-- [Elisa](https://apps.kde.org/elisa/) :win::app::lin:
+- [Elisa](https://apps.kde.org/elisa/) :win::app::lin: [:kde:](https://invent.kde.org/multimedia/elisa)
 - [Foobar2000](https://www.foobar2000.org/) :s::win::app::cs:
   - :material-symbols-subdirectory-arrow-right: [Foobar2000 add-ons](#foobar2000-add-ons)
 - [Fooyin](https://github.com/fooyin/fooyin)

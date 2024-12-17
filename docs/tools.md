@@ -147,7 +147,7 @@ outline: [1,2]
 - **Tools**
   - [FFmpeg](https://ffmpeg.org/) :octicon-command-palette-16: [:gh:](https://github.com/FFmpeg/FFmpeg)
     - [HandBrake](https://handbrake.fr/) :win::app::lin: [:gh:](https://github.com/HandBrake/HandBrake)
-    - [Videomass](https://jeanslack.github.io/Videomass/) :win::app::lin:
+    - [Videomass](https://jeanslack.github.io/Videomass/) :win::app::lin: [:gh:](https://github.com/jeanslack/Videomass)
     - [FFmpeg.wasm](https://ffmpegwasm.netlify.app/) :web: [:gh:](https://github.com/ffmpegwasm/ffmpeg.wasm)
     - [FFmpeg Batch AV Converter](https://github.com/eibol/ffmpeg_batch) :win:
 
@@ -177,7 +177,7 @@ outline: [1,2]
 - [AviSynth+](https://avs-plus.net/) :win::app::lin: [:gh:](https://github.com/AviSynth/AviSynthPlus)
 - [gMKVExtractGUI](https://sourceforge.net/projects/gmkvextractgui/) :win::app::lin:
 - [MKVcleaver](https://www.videohelp.com/software/MKVcleaver) :win::cs:
-- [MKV Extract](https://qgustavor.github.io/mkv-extract/en/) :web:
+- [MKV Extract](https://qgustavor.github.io/mkv-extract/en/) :web: [:gh:](https://github.com/qgustavor/mkv-extract/)
 - [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) :win:
 - [mpvQC](https://github.com/mpvqc/mpvQC) :win:
 - [StaxRip](https://github.com/staxrip/staxrip) :win:
@@ -232,16 +232,16 @@ outline: [1,2]
 
 ## General Tools
 
-- [BleachBit](https://www.bleachbit.org/)
-- [Bulk Crap Uninstaller](https://www.bcuninstaller.com/)
+- [BleachBit](https://www.bleachbit.org/) [:gh:](https://github.com/bleachbit/bleachbit)
+- [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) [:gh:](https://github.com/Klocman/Bulk-Crap-Uninstaller)
 - [Everything](https://www.voidtools.com/) :cs:
   - [EverythingToolbar](https://github.com/srwi/EverythingToolbar)
-- [File Converter](https://file-converter.io/index.html)
-- [Flow Launcher](https://www.flowlauncher.com/)
-- [LocalSend](https://localsend.org/)
+- [File Converter](https://file-converter.io/index.html) [:gh:](https://github.com/Tichau/FileConverter)
+- [Flow Launcher](https://www.flowlauncher.com/) [:gh:](https://github.com/Flow-Launcher/Flow.Launcher)
+- [LocalSend](https://localsend.org/) [:gh:](https://github.com/localsend/localsend)
 - [NanaZip](https://github.com/M2Team/NanaZip)
-- [ShareX](https://getsharex.com/)
-- [Syncthing](https://syncthing.net/)
+- [ShareX](https://getsharex.com/) [:gh:](https://github.com/ShareX/ShareX)
+- [Syncthing](https://syncthing.net/) [:gh:](https://github.com/syncthing/syncthing)
 - [TeraCopy](https://www.codesector.com/teracopy) :cs:
 
 
