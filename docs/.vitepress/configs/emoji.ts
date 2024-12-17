@@ -42,7 +42,7 @@ const aliases: Record<string, string> = {
   lin: 'simple-icons-linux',
   ff: 'simple-icons-firefoxbrowser',
   cr: 'simple-icons-googlechrome',
-  web: 'mdi-earth',
+  web: 'mdi-web',
 
   // Type
   strm: 'material-symbols-play-circle-outline',
