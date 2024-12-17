@@ -5,6 +5,10 @@ customDescription: Basic how-to torrent guide to get you started
 
 <GradientCard title="Getting Started" description="Basic how-to torrent guide to get you started" theme="turquoise" variant="thin"/>
 
+::: tip Hello!
+This is a quick start guide. If you have any questions, check out our [**FAQs**](/torrenting/faq) or [**Glossary**](/torrenting/glossary) if you want to learn the meaning of a specific term.
+:::
+
 To start downloading torrents, you will need two things:
 1. Torrent link
 2. Torrent client
