@@ -101,3 +101,70 @@ You have to add the iconpack manually in `docs\.vitepress\configs\emoji.ts`. Oth
 3. Then github/gitlab or similar source link button
 4. Then related buttons like Guides, Proxies etc
 5. Unlike icons, there will be space between buttons (so that it is easy to click).
+
+### Sheet
+
+::: tabs
+
+== System
+
+| Icon | Code |
+|-|-|
+| :win: | `:win:` |
+| :and: | `:and:` |
+| :app: | `:app:` |
+| :lin: | `:lin:` |
+| :ff: | `:ff:` |
+| :cr: | `:cr:` |
+| :web: | `:web:` |
+
+== Type
+
+| Icon | Code |
+|-|-|
+| :strm: | `:strm:` |
+| :ddl: | `:ddl:` |
+| :mag: | `:mag:` |
+| :lcl: | `:lcl:` |
+
+== Price
+
+| Icon | Code |
+|-|-|
+| :paid: | `:paid:` |
+| :fm: | `:fm:` |
+
+== Source
+
+| Icon | Code |
+|-|-|
+| :gh: | `:gh:` |
+| :gl: | `:gl:` |
+| :cb: | `:cb:` |
+| :cs: | `:cs:` |
+
+== Platform
+
+| Icon | Code |
+|-|-|
+| :d: | `:d:` |
+| :f: | `:f:` |
+| :x: | `:x:` |
+| :tg: | `:tg:` |
+| :mal: | `:mal:` |
+| :al: | `:al:` |
+| :k: | `:k:` |
+
+== Others
+
+| Icon | Code |
+|-|-|
+| :s: | `:s:` |
+| :e: | `:e:` |
+| :rss: | `:rss:` |
+| :tf: | `:tf:` |
+| :js: | `:js:` |
+| :css: | `:css:` |
+
+:::
+
