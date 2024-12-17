@@ -113,7 +113,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [Lucida](https://lucida.to/) <Badge type="tip" text="2" link="https://lucida.su/" />
 - [DoubleDouble](https://doubledouble.top/)
 - [MP3Daddy](https://mp3-daddy.com/) <tooltip>Don't download WAV and AIFF versions. It's pointless bloat. Use Squid.wtf or YAMS deezer. Better service.</tooltip>
-- [:ic-outline-telegram: Beatspot Music](https://t.me/BeatSpotBot)
+- [:tg: Beatspot Music](https://t.me/BeatSpotBot)
 
 ## Doujin
 
@@ -283,7 +283,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - **Vocaloid**
   - [Imo Danshaku](https://www.youtube.com/@%E3%81%84%E3%82%82%E7%94%B7%E7%88%B5-g7g)
   - [Vocamed](https://www.youtube.com/@vocamed)
-  - [:f:/jp/ vocaloid playlist ](https://www.youtube.com/playlist?list=PLQqLx44OgzZybkIf7LZ2YI8iLL9b3BpJw)
+  - [:f: /jp/ vocaloid playlist ](https://www.youtube.com/playlist?list=PLQqLx44OgzZybkIf7LZ2YI8iLL9b3BpJw)
   - [Vocaloid Big Hits](https://music.youtube.com/playlist?list=RDCLAK5uy_mgu07-HoqLSU-WqjK2ldEQWLuPPm3CAy8)
 
 ## Portal

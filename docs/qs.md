@@ -202,16 +202,16 @@ You should never use cracked or modded VPN cause all of your traffic will go thr
 - [Anychans](https://anychans.github.io/4chan/) :mdi-desktop-mac:
 
 ### Boards
-- [:f:/a/ - Anime & Manga](https://boards.4channel.org/a/)
-- [:f:/c/ - Anime/Cute](https://boards.4channel.org/c/)
-- [:f:/cgl/ - Cosplay & EGL](https://boards.4channel.org/cgl/)
-- [:f:/co/ - Comics & Cartoons](https://boards.4channel.org/co/)
-- [:f:/e/ - Ecchi](https://boards.4channel.org/e/)
-- [:f:/h/ - Hentai](https://boards.4channel.org/h/)
-- [:f:/m/ - Mecha](https://boards.4channel.org/m/)
-- [:f:/jp/ - Otaku Culture](https://boards.4channel.org/jp/)
-- [:f:/vt/ - Virtual YouTubers](https://boards.4channel.org/vt/)
-- [:f:/w/ - Anime/Wallpapers](https://boards.4channel.org/w/)
+- [:f: /a/ - Anime & Manga](https://boards.4channel.org/a/)
+- [:f: /c/ - Anime/Cute](https://boards.4channel.org/c/)
+- [:f: /cgl/ - Cosplay & EGL](https://boards.4channel.org/cgl/)
+- [:f: /co/ - Comics & Cartoons](https://boards.4channel.org/co/)
+- [:f: /e/ - Ecchi](https://boards.4channel.org/e/)
+- [:f: /h/ - Hentai](https://boards.4channel.org/h/)
+- [:f: /m/ - Mecha](https://boards.4channel.org/m/)
+- [:f: /jp/ - Otaku Culture](https://boards.4channel.org/jp/)
+- [:f: /vt/ - Virtual YouTubers](https://boards.4channel.org/vt/)
+- [:f: /w/ - Anime/Wallpapers](https://boards.4channel.org/w/)
 
 ### Archives
 - [4chan archive search](https://4search.neocities.org/)

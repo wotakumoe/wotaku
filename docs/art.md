@@ -108,7 +108,7 @@ outline: [1,2]
 - [Studio Ghibli](https://www.ghibli.jp/info/013772/) <Badge type="green" text="SFW" />
 - [Wallhaven](https://wallhaven.cc/)
 - [wanderer.moe](https://wanderer.moe/) [:gh:](https://github.com/wanderer-moe/site)
-- [:f:/w/](http://catalog.neet.tv/w/) <Badge type="danger" icon="i-mingcute-skull-fill" text="NSFL" />
+- [:f: /w/](http://catalog.neet.tv/w/) <Badge type="danger" icon="i-mingcute-skull-fill" text="NSFL" />
 
 
 ![](/banner/software.webp)

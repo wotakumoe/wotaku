@@ -96,7 +96,7 @@ outline: [1,2]
   - [MoeList](https://moelist.net/) [:gh:](https://github.com/axiel7/MoeList)
   - [Risuto](https://github.com/lexwilliam/Risuto)
 - **Others**
-  - [Kitsune](https://github.com/Drumber/Kitsune) :simple-icons-kitsu:
+  - [Kitsune](https://github.com/Drumber/Kitsune) :k:
   - [OpenComicVine](https://github.com/proninyaroslav/OpenComicVine) <Badge type="info" text="ComicVine" />
 
 

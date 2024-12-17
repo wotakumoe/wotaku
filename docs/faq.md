@@ -81,7 +81,7 @@ Like a seedbox, it's also a remote service. It can download from p2p and various
 <br>
 
 :::details Where can I get the highest quality manga releases?
-[Nyaa.si](https://nyaa.si/), [:f:/co/](https://boards.4channel.org/co/) & [Madokami](/guides/manga/madokami). Manga image quality depends on the [**source**](/guides/digim) and how it's been ripped, with volume release usually being better than [**CaaS**](/glossary/manga#publisher) release. If you want to download officially translated manga, [**Nyaa**](https://nyaa.si/) is always the best source, though some of the rippers upload upscaled SD rips. 
+[Nyaa.si](https://nyaa.si/), [:f: /co/](https://boards.4channel.org/co/) & [Madokami](/guides/manga/madokami). Manga image quality depends on the [**source**](/guides/digim) and how it's been ripped, with volume release usually being better than [**CaaS**](/glossary/manga#publisher) release. If you want to download officially translated manga, [**Nyaa**](https://nyaa.si/) is always the best source, though some of the rippers upload upscaled SD rips. 
 
 We have listed the most trusted rippers in the [**Nyaa section**](/websites#nyaa). Madokami mainly mirrors the nyaa releases.
 :::
@@ -135,7 +135,7 @@ You can use [**CBconvert**](https://github.com/gen2brain/cbconvert) to compress 
 :::
 
 :::details How do I setup my own manga server?
-Use [**Komga**](https://komga.org/). Read their [**docs**](https://komga.org/docs/introduction) to understand the setup process. You can join their [:simple-icons-discord:](https://discord.gg/TdRpkDu) for further support.
+Use [**Komga**](https://komga.org/). Read their [**docs**](https://komga.org/docs/introduction) to understand the setup process. You can join their [:d:](https://discord.gg/TdRpkDu) for further support.
 :::
 
 <br>

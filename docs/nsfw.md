@@ -211,20 +211,20 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 
 ## Communities
 
-- [r/hentai](https://old.reddit.com/r/hentai/) [:simple-icons-discord:](https://discord.gg/rhentai)
-- [r/pornhwa](https://old.reddit.com/r/pornhwa/) [:simple-icons-discord:](https://discord.gg/epjkRVp7gD)
-- [:f:/h/](https://boards.4chan.org/h/) :simple-icons-discord: <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/h/" /><Badge type="tip" text="Archive" link="https://archived.moe/h/" />
-- [:f:/e/](https://boards.4chan.org/e/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/e/" /><Badge type="tip" text="Archive" link="https://archived.moe/e/" />
+- [r/hentai](https://old.reddit.com/r/hentai/) [:d:](https://discord.gg/rhentai)
+- [r/pornhwa](https://old.reddit.com/r/pornhwa/) [:d:](https://discord.gg/epjkRVp7gD)
+- [:f: /h/](https://boards.4chan.org/h/) :d: <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/h/" /><Badge type="tip" text="Archive" link="https://archived.moe/h/" />
+- [:f: /e/](https://boards.4chan.org/e/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/e/" /><Badge type="tip" text="Archive" link="https://archived.moe/e/" />
 - [r/Artistic_Hentai](https://old.reddit.com/r/Artistic_Hentai/)
 - [r/Artistic_Ecchi](https://old.reddit.com/r/Artistic_Ecchi/)
 - [r/doujinshi](https://old.reddit.com/r/doujinshi/)
 - [r/ecchi](https://old.reddit.com/r/ecchi/)
 - [r/hentaimemes](https://old.reddit.com/r/hentaimemes/)
 - [r/HENTAI_GIF](https://old.reddit.com/r/HENTAI_GIF/)
-- [r/rule34](https://old.reddit.com/r/rule34/) [:simple-icons-discord:](https://discord.gg/zMrMhpZ)
+- [r/rule34](https://old.reddit.com/r/rule34/) [:d:](https://discord.gg/zMrMhpZ)
 - [r/thighdeology](https://old.reddit.com/r/thighdeology/)
 - [:f:JAV Thread](https://4channel.org/jp/jav) <Badge type="tip" text="FAQ" link="https://jav.now.sh/" />
-- [:simple-icons-discord: Rule34.xxx](https://discord.gg/rule34xxx)
+- [:d: Rule34.xxx](https://discord.gg/rule34xxx)
 
 ## Scripts
 

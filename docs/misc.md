@@ -236,21 +236,20 @@ Illustrations now has its [own page](/art)!
 | Others | [Imgtrans](https://touhou.ai/imgtrans/) [:gh:](https://github.com/zyddnys/manga-image-translator) <br> [Slowpoke Pics](https://slow.pics/) |
 
 
-## Stats
-- [Sekai](https://sekai.rl404.com/) :s::simple-icons-myanimelist: [:gh:](https://github.com/rl404/sekai)
-- [Anistats](https://mayudev.github.io/anistats/) :simple-icons-anilist: [:gh:](https://github.com/mayudev/anistats)
-- [Anime Taste Tool](https://www.anipop.uk/) :simple-icons-anilist: [:gh:](https://github.com/kay-mw/popularity-tool-for-anilist)
-- [anime.plus](https://anime.plus/) :simple-icons-myanimelist: [:gh:](https://github.com/anime-plus/graph)
-- [KitsuStats](https://drumber.github.io/KitsuStats/#/) :simple-icons-kitsu: [:gh:](https://github.com/Drumber/KitsuStats)
-- [MAL Badges](https://www.mal-badges.com/) :simple-icons-myanimelist:
+## Tracker
 
+### Stats
+- [Sekai](https://sekai.rl404.com/) :s::mal: [:gh:](https://github.com/rl404/sekai)
+- [Anistats](https://mayudev.github.io/anistats/) :al: [:gh:](https://github.com/mayudev/anistats)
+- [Anime Taste Tool](https://www.anipop.uk/) :al: [:gh:](https://github.com/kay-mw/popularity-tool-for-anilist)
+- [anime.plus](https://anime.plus/) :mal: [:gh:](https://github.com/anime-plus/graph)
+- [KitsuStats](https://drumber.github.io/KitsuStats/#/) :k: [:gh:](https://github.com/Drumber/KitsuStats)
+- [MAL Badges](https://www.mal-badges.com/) :mal:
 
-## Others
-- [AniTools](https://anitools.koopz.rocks/)
-- [aniTrakt](https://anitrakt.huere.net/) [:gh:](https://github.com/ryuuganime/aniTrakt-IndexParser)
-- [MAL/AL/K/AP lists XML Exporter](https://malscraper.azurewebsites.net/)
-- [OpenTierBoy](https://www.opentierboy.com/) [:gh:](https://github.com/infinia-yzl/opentierboy)
-
+### Tools
+- [AniTools](https://anitools.koopz.rocks/) :al:
+- [aniTrakt](https://anitrakt.huere.net/) :mal: [:gh:](https://github.com/ryuuganime/aniTrakt-IndexParser)
+- [MAL Exporter](https://malscraper.azurewebsites.net/) :mal::al::k:
 
 
 
@@ -387,7 +386,7 @@ Illustrations now has its [own page](/art)!
   - [u/FetchFrosh](https://old.reddit.com/r/anime/comments/o16ipm/rebuild_of_the_ultimate_anime_recommendation/)
 - **Algorithm Based**
   - [AniBrain](https://anibrain.ai/)
-  - [Sprout Anime Recommender](https://anime.ameo.dev/) :s::simple-icons-myanimelist::simple-icons-anilist:
+  - [Sprout Anime Recommender](https://anime.ameo.dev/) :s::mal::al:
 
 ### Visual Novel
 - [VNDB](https://vndb.org/v?f=022gja3gja&s=34w)

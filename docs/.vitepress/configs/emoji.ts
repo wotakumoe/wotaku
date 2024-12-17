@@ -43,24 +43,35 @@ const aliases: Record<string, string> = {
   ff: 'simple-icons-firefoxbrowser',
   cr: 'simple-icons-googlechrome',
   web: 'mdi-earth',
+
   // Type
   strm: 'material-symbols-play-circle-outline',
   ddl: 'material-symbols-cloud-download-outline-rounded',
   mag: 'lucide-magnet',
   lcl: 'iconoir-floppy-disk',
+
   // Price
   paid: 'material-symbols-credit-card-outline',
   fm: 'material-symbols-add-shopping-cart-rounded',
+
   // Source
   gh: 'simple-icons-github',
   gl: 'simple-icons-gitlab',
   cb: 'simple-icons-codeberg',
   cs: 'material-symbols-lock-outline',
+
+  // Platform
+  d: 'simple-icons-discord',
+  f: 'simple-icons-4chan',
+  x: 'simple-icons-twitter',
+  tg: 'simple-icons-telegram',
+  mal: 'simple-icons-myanimelist',
+  al: 'simple-icons-anilist',
+  k: 'simple-icons-kitsu',
+  
   // Others
   s: 'twemoji-glowing-star',
   e: 'mdi-puzzle',
-  x: 'simple-icons-twitter',
-  f: 'simple-icons-4chan',
   tf: 'mdi-airplane',
   js: 'simple-icons-javascript',
   css: 'mdi-format-paint'

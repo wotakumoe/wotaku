@@ -579,12 +579,12 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 
 | Category | Websites |
 |-|-|
-| Anime | [AnimeBytes](https://animebytes.tv/) `General` <br> [AnimeWorld](https://animeworld.cx/) :flag-germany: <br> [AnimeZ](https://animetorrents.me/) [:simple-icons-discord:](https://discord.gg/GYahYNWutE)<br> [BakaBT](https://bakabt.me/) <br> [U2](https://u2.dmhy.org/portal.php) |
+| Anime | [AnimeBytes](https://animebytes.tv/) `General` <br> [AnimeWorld](https://animeworld.cx/) :flag-germany: <br> [AnimeZ](https://animetorrents.me/) [:d:](https://discord.gg/GYahYNWutE)<br> [BakaBT](https://bakabt.me/) <br> [U2](https://u2.dmhy.org/portal.php) |
 | Books | [MyAnonamouse](https://myanonamouse.net/) |
 | Games | [Gazelle Games](https://gazellegames.net/login.php) |
-| Live Action | [AvistaZ](https://avistaz.to/) [:simple-icons-discord:](https://discord.gg/GYahYNWutE)<br> [JPTV.club](https://jptv.club/) <br> [jptvts](https://jptvts.us/) |
+| Live Action | [AvistaZ](https://avistaz.to/) [:d:](https://discord.gg/GYahYNWutE)<br> [JPTV.club](https://jptv.club/) <br> [jptvts](https://jptvts.us/) |
 | Music | [Redacted](https://redacted.sh/) <br> [JPopsuki](https://jpopsuki.eu/) <br> [Orpheus](https://orpheus.network/) <br> [Sugoi Music](https://sugoimusic.me/) <br> [Bemaniso](https://bemaniso.ws/) `Rhythm` <br> [Aidoru](https://aidoru-online.me/) `Idol` |
-| NSFW | [ExoticaZ](https://exoticaz.to/) [:simple-icons-discord:](https://discord.gg/GYahYNWutE)<br> [Empornium](https://www.empornium.is/) |
+| NSFW | [ExoticaZ](https://exoticaz.to/) [:d:](https://discord.gg/GYahYNWutE)<br> [Empornium](https://www.empornium.is/) |
 
 ::: details :material-symbols-subdirectory-arrow-right: Related resources
 - [InstallGentoo Wiki](https://wiki.installgentoo.com/wiki/Private_trackers) :s:

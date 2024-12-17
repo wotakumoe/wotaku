@@ -39,7 +39,7 @@ outline: [1,2]
 - **Local**
   - [mpvKt](https://github.com/abdallahmehiz/mpvKt) :s::and: <Badge type="tip" text="Nightly" link="https://nightly.link/abdallahmehiz/mpvKt/workflows/nightlies/main" />
   - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en&gl=US) :s::and::cs:
-  - [mpv-android](https://github.com/mpv-android/mpv-android) [:and:](https://play.google.com/store/apps/details?id=is.xyz.mpv&hl=en&gl=US)
+  - [mpv-android](https://github.com/mpv-android/mpv-android)
   - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) :and:
   - [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) :app::cs:
 - **Online**

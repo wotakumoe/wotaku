@@ -391,7 +391,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 ### Others
 - [Booktoki](https://www.xn--h10bx0wsvp.org/)
-- [GoPlay](https://goplay.su/) <Badge type="tip" text="2" link="https://goplay.ml/" /> <Badge type="tip" text="3" link="https://goplay.anontpp.com/" /> [:simple-icons-discord:](https://discord.gg/yY2P3DQR8S)
+- [GoPlay](https://goplay.su/) <Badge type="tip" text="2" link="https://goplay.ml/" /> <Badge type="tip" text="3" link="https://goplay.anontpp.com/" /> [:d:](https://discord.gg/yY2P3DQR8S)
 - [WatchaKR](https://m82.watchakr.com/) <Badge type="info" text="2" link="https://m133.kormovie.com/" /><Badge type="info" text="3" link="https://m06.kotbc2.com/" /><Badge type="info" text="4" link="https://m82.kowatcha.com/" />
 
 ### Software
@@ -446,7 +446,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [NewZect](https://newzect.com/)
 - [Rádio Toku Hero Club](https://www.radiotokuheroclub.com/)
 - [Tokusatsu.com.br](https://tokusatsubr.com.br/)
-- [:ic-outline-telegram: TOKUSHARE](https://t.me/s/tokushareoficial)
+- [:tg: TOKUSHARE](https://t.me/s/tokushareoficial)
 
 
 ## Romanian
@@ -541,7 +541,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
   - [Mundo Donghua](https://www.mundodonghua.com/)
   - [Tio Donghua](https://tiodonghua.com/)
 - **Download**
-  - [Japan Paw](https://japan-paw.net/) [:simple-icons-discord:](https://discord.gg/gc7HaE5V)
+  - [Japan Paw](https://japan-paw.net/) [:d:](https://discord.gg/gc7HaE5V)
   - [SphinxAnime](https://sphinxanime.com/)
   - [Nekomitai](https://nekomitai.net/)
   - [Ivanime](https://www.ivanime.com/)
