@@ -46,7 +46,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 ### Websites
 
 - **Online**
-  - [Comick](https://comick.io/home) <Badge type="tip" text="RSS" icon="i-material-symbols-rss-feed-rounded" link="https://manga.ldez.workers.dev/" />
+  - [Comick](https://comick.io/home)
   - [Mangadex](https://mangadex.org/)
   - [Weeb Central](https://weebcentral.com/) <Badge type="tip" text="2" link="https://mangasee123.com/" /><Badge type="tip" text="3" link="https://manga4life.com/" /><Badge type="tip" text="Alt" link="https://atsu.moe/" />
 - **Download**

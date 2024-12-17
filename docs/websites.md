@@ -262,7 +262,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 
 ## Online
 
-- [Comick](https://comick.io/home) :s: <Badge type="tip" text="RSS" icon="i-material-symbols-rss-feed-rounded" link="https://manga.ldez.workers.dev/" />  
+- [Comick](https://comick.io/home) :s: [:rss:](https://manga.ldez.workers.dev/) 
   <tooltip>
     <ul>
       <li>Minimal compression</li>
@@ -272,7 +272,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
       <li>Reader isn't as good as mangadex</li>
     </ul>
   </tooltip>
-- [Mangadex](https://mangadex.org/) <Badge type="tip" text="RSS" icon="i-material-symbols-rss-feed-rounded" link="https://mdrss.tijlvdb.me/" />  
+- [Mangadex](https://mangadex.org/) [:rss:](https://mdrss.tijlvdb.me/) 
   <tooltip>
     <ul>
       <li>Uploads without compression</li>

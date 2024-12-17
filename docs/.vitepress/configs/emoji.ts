@@ -68,10 +68,11 @@ const aliases: Record<string, string> = {
   mal: 'simple-icons-myanimelist',
   al: 'simple-icons-anilist',
   k: 'simple-icons-kitsu',
-  
+
   // Others
   s: 'twemoji-glowing-star',
   e: 'mdi-puzzle',
+  rss: 'simple-icons-rss',
   tf: 'mdi-airplane',
   js: 'simple-icons-javascript',
   css: 'mdi-format-paint'

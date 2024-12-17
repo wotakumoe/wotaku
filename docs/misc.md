@@ -157,19 +157,19 @@ Illustrations now has its [own page](/art)!
 ## General
 
 - **Info / News**
-  - [Anime News Network](https://www.animenewsnetwork.com/) :s: [:x:](https://x.com/animecorner_ac)
+  - [Anime News Network](https://www.animenewsnetwork.com/) :s: [:x:](https://x.com/animecorner_ac) [:rss:](https://www.animenewsnetwork.com/newsfeed/)
   - [Anime UK News](https://animeuknews.net/)
-  - [Crunchyroll News](https://www.crunchyroll.com/news)
+  - [Crunchyroll News](https://www.crunchyroll.com/news) [:rss:](https://www.crunchyroll.com/feed)
   - [GUNDAM.INFO](https://en.gundam.info/)
   - [Japan Anime News](https://us.oricon-group.com/) [:x:](https://x.com/JapanAnimeNews_)
-  - [Kanzenshuu](https://www.kanzenshuu.com/)
-  - [MAL News](https://myanimelist.net/news) [:x:](https://x.com/myanimelist)
+  - [Kanzenshuu](https://www.kanzenshuu.com/) [:rss:](https://www.kanzenshuu.com/feed/)
+  - [MAL News](https://myanimelist.net/news) [:x:](https://x.com/myanimelist) [:rss:](https://myanimelist.net/rss/news.xml)
   - [ORICON NEWS](https://www.oricon.co.jp/) :flag-japan:
-  - [Otaku News](https://www.otakunews.com/)
+  - [Otaku News](https://www.otakunews.com/) [:rss:](https://www.otakunews.com/Rss)
 - **Blog / Interview**
   - [Anime Blog Tracker](https://aniblogtracker.com/) :s: <Badge text="Aggregator" /> 
   - [Anime Nano](https://www.animenano.com/) <Badge text="Aggregator" />
-  - [Halcyon Realms](https://halcyonrealms.com/)
+  - [Halcyon Realms](https://halcyonrealms.com/) [:rss:](https://halcyonrealms.com/subscribe/)
   - [Zimmerit](https://www.zimmerit.moe/)
 
 ## Anime
@@ -189,7 +189,7 @@ Illustrations now has its [own page](/art)!
   - [Full Frontal](https://fullfrontal.moe/) :s:
   - [Furaba Anime search](https://furaba-animeseichi.blog.jp/)
   - [Let's Anime](https://letsanime.blogspot.com/)
-  - [Sakuga Blog](https://blog.sakugabooru.com/) :s: [:x:](https://x.com/SakugaBlog)
+  - [Sakuga Blog](https://blog.sakugabooru.com/) :s: [:x:](https://x.com/SakugaBlog) [:rss:](https://blog.sakugabooru.com/feed/)
 
 
 ## Manga & LN
@@ -201,7 +201,7 @@ Illustrations now has its [own page](/art)!
   - [Manga Alerts](https://x.com/MangaAlerts) :x:
   - [Manga Bookshelf](https://mangabookshelf.com/)
   - [Manga Mogura](https://x.com/MangaMoguraRE) <Badge type="tip" text="2" link="https://x.com/MangaReporter" /> :s::x:
-    - [Ecchi & Smut Mogura](https://x.com/EcchiMogura)
+    - [Ecchi & Smut Mogura](https://x.com/EcchiMogura) :x:
   - [Nez](https://x.com/mangaxrepublic) :x:
   - [Randomanga](https://randomanga.wordpress.com/)
   - [Shonen Jump News](https://x.com/WSJ_manga) :s::x:
