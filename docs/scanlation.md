@@ -71,7 +71,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 # Tools
 
 ## General
-- Adobe Software
+- Adobe Software :paid::cs:
   - [m0nkrus](https://vk.com/monkrus) :win::app:
   - [RuTracker](https://rutracker.org/forum/index.php) :win::app:
   - [GenP](https://genpguides.github.io) :win:
@@ -80,11 +80,12 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
   - :material-symbols-subdirectory-arrow-right: Adobe Alternatives
     - [KennyNL](https://github.com/KenneyNL/Adobe-Alternatives)
     - [XdanielArt](https://rentry.org/adobealt)
-- [Affinity](https://affinity.serif.com/en-gb/)
-- [Clip Studio Paint EX](https://www.clipstudio.net/en/function_ex/)
-- [MediBang Paint](https://medibangpaint.com/en/)
-- [Krita](https://krita.org/en/)
-- [GIMP](https://www.gimp.org/)
+- [Affinity](https://affinity.serif.com/en-gb/) :win::app::paid::cs:
+- [Clip Studio Paint EX](https://www.clipstudio.net/en/function_ex/) :and::win::app::paid::cs:
+- [FireAlpaca](https://firealpaca.com/) :win::app::lin::fm::cs:
+- [MediBang Paint](https://medibangpaint.com/en/) :win::app::fm::cs:
+- [Krita](https://krita.org/en/) :win::app::lin: [:kde:](https://invent.kde.org/graphics/krita)
+- [GIMP](https://www.gimp.org/) :win::app::lin: [:gn:](https://gitlab.gnome.org/GNOME/gimp)
 
 
 ## Cleaning
