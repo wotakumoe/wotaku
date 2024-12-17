@@ -108,65 +108,65 @@ You have to add the iconpack manually in `docs\.vitepress\configs\emoji.ts`. Oth
 
 == System
 
-| Icon | Code |
-|-|-|
-| :win: | `:win:` |
-| :and: | `:and:` |
-| :app: | `:app:` |
-| :lin: | `:lin:` |
-| :ff: | `:ff:` |
-| :cr: | `:cr:` |
-| :web: | `:web:` |
+| Icon | Code | Desc |
+|-|-|-|
+| :win: | `:win:` | Windows |
+| :and: | `:and:` | Android |
+| :app: | `:app:` | iOS / iPadOS / macOS |
+| :lin: | `:lin:` | Linux |
+| :ff: | `:ff:` | Firefox |
+| :cr: | `:cr:` | Chromium |
+| :web: | `:web:` | Web |
 
 == Type
 
-| Icon | Code |
-|-|-|
-| :strm: | `:strm:` |
-| :ddl: | `:ddl:` |
-| :mag: | `:mag:` |
-| :lcl: | `:lcl:` |
+| Icon | Code | Desc |
+|-|-|-|
+| :strm: | `:strm:` | Stream |
+| :ddl: | `:ddl:` | Online / DDL |
+| :mag: | `:mag:` | Torrent / p2p |
+| :lcl: | `:lcl:` | Local File |
 
 == Price
 
-| Icon | Code |
-|-|-|
-| :paid: | `:paid:` |
-| :fm: | `:fm:` |
+| Icon | Code | Desc |
+|-|-|-|
+| :paid: | `:paid:` | Paid |
+| :fm: | `:fm:` | Freemium |
 
 == Source
 
-| Icon | Code |
-|-|-|
-| :gh: | `:gh:` |
-| :gl: | `:gl:` |
-| :cb: | `:cb:` |
-| :kde: | `:kde:` |
-| :gn: | `:gn:` |
-| :cs: | `:cs:` |
+| Icon | Code | Desc |
+|-|-|-|
+| :gh: | `:gh:` | GitHub |
+| :gl: | `:gl:` | GitLab |
+| :cb: | `:cb:` | Codeberg |
+| :kde: | `:kde:` | KDE |
+| :gn: | `:gn:` | GNOME |
+| :cs: | `:cs:` | Closed Source |
 
 == Platform
 
-| Icon | Code |
-|-|-|
-| :d: | `:d:` |
-| :f: | `:f:` |
-| :x: | `:x:` |
-| :tg: | `:tg:` |
-| :mal: | `:mal:` |
-| :al: | `:al:` |
-| :k: | `:k:` |
+| Icon | Code | Desc |
+|-|-|-|
+| :d: | `:d:` | Discord |
+| :f: | `:f:` | 4chan |
+| :x: | `:x:` | Twitter |
+| :tg: | `:tg:` | Telegram |
+| :mal: | `:mal:` | MyAnimeList |
+| :al: | `:al:` | AniList |
+| :k: | `:k:` | Kitsu |
 
 == Others
 
-| Icon | Code |
-|-|-|
-| :s: | `:s:` |
-| :e: | `:e:` |
-| :rss: | `:rss:` |
-| :tf: | `:tf:` |
-| :js: | `:js:` |
-| :css: | `:css:` |
+| Icon | Code | Desc |
+|-|-|-|
+| :s: | `:s:` | Favorite |
+| :e: | `:e:` | Extension(s) |
+| :rss: | `:rss:` | RSS Feed |
+| :tf: | `:tf:` | Apple TestFlight |
+| :js: | `:js:` | JavaScript |
+| :css: | `:css:` | CSS |
 
 :::
 
