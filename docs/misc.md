@@ -73,10 +73,10 @@ outline: [1,2]
 - [Anisaki](https://anisaki.vercel.app/) [:gh:](https://github.com/BayuDC/anisaki)
 - [Bangumi List](https://bgmlist.com/) :flag-japan::flag-china: [:gh:](https://github.com/wxt2005/bangumi-list-v3) <tooltip>Maintained by chinese devs, but lists JP schedule too.</tooltip>
 - [Kansou](https://www.kansou.me/) :flag-japan:
-- [Livechart](https://www.livechart.me/schedule) :s:
+- [Livechart](https://www.livechart.me/schedule) :s: [:rss:](https://www.livechart.me/pages/rss)
 - [Notify.moe](https://notify.moe/calendar) [:gh:](https://github.com/animenotifier/notify.moe)
 - [Senpai.moe](https://www.senpai.moe/)
-- [Syoboi Calendar](https://cal.syoboi.jp/) :flag-japan:
+- [Syoboi Calendar](https://cal.syoboi.jp/) :flag-japan: [:rss:](https://docs.cal.syoboi.jp/spec/rss.php/)
 - [Moon Phase](https://m-p.sakura.ne.jp/) :flag-japan:
 - [Yatta-Tachi](https://yattatachi.com/)
 
@@ -120,7 +120,7 @@ outline: [1,2]
 
 #### Index
 - [Mynewworm](https://myneworm.katsurin.com/) [:gh:](https://github.com/Butterstroke/Myneworm)
-- [Otaku Calendar](https://otakucalendar.com/Release/?filterCategory=2)
+- [Otaku Calendar](https://otakucalendar.com/Release/?filterCategory=2) [:rss:](https://otakucalendar.com/rss)
 - [Licensed Light Novel Releases](https://lnrelease.github.io/) [:gh:](https://github.com/LNRelease/lnrelease.github.io)
 - [r/LightNovels upcoming releases](https://old.reddit.com/r/LightNovels/wiki/upcomingreleases/)
 - [Von's Manga Calendar](https://v0n.notion.site/Manga-297a9ad3a4904173b3a4ce319f9b2879)
