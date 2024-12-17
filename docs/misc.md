@@ -69,7 +69,7 @@ outline: [1,2]
 - [AniChart](https://anichart.net/airing) :s:
 - [Anime Countdown](https://animecountdown.com/)
 - [Anime Dubs Release Calendar](https://teamup.com/ksdhpfjcouprnauwda)
-- [AnimeSchedule](https://animeschedule.net/)
+- [AnimeSchedule](https://animeschedule.net/) [:rss:](https://animeschedule.net/rss) [:rss:](https://github.com/RockinChaos/AniSchedule)
 - [Anisaki](https://anisaki.vercel.app/) [:gh:](https://github.com/BayuDC/anisaki)
 - [Bangumi List](https://bgmlist.com/) :flag-japan::flag-china: [:gh:](https://github.com/wxt2005/bangumi-list-v3) <tooltip>Maintained by chinese devs, but lists JP schedule too.</tooltip>
 - [Kansou](https://www.kansou.me/) :flag-japan:
