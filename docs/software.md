@@ -182,7 +182,6 @@ or buy an Android phone :ic-twotone-thumb-up:
 - [Zenshin](https://github.com/hitarth-gg/zenshin) :win::app::lin::mag:
 - [Totoro](https://github.com/insomniachi/Totoro) :win::mag::ddl:
 - [Layendanimator](https://github.com/Layendan/Layendanimator) :win::app::lin::ddl:
-- [Anikki](https://github.com/Kylart/Anikki) :win::app::lin::mag::ddl:
 - [ani-cli](https://github.com/pystardust/ani-cli) :win::app::lin::ddl:
 
 :::
