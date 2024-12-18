@@ -342,15 +342,10 @@ export const shared: UserConfig<DefaultTheme.Config> = {
     emoji: { defs, shortcuts: aliases },
     config(md) {
       md.use(emojiRender)
-      // @ts-expect-error
       md.use(imgLazyload)
-      // @ts-expect-error
       md.use(align)
-      // @ts-expect-error
       md.use(figure)
-      // @ts-expect-error
       md.use(tabsMarkdownPlugin)
-      // @ts-expect-error
       md.use(imgSize)
       md.use(headersPlugin)
     }

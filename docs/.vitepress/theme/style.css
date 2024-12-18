@@ -10,6 +10,11 @@
   --vp-c-brand-3: #1473e6;
   --vp-c-brand-soft: rgba(123, 197, 228, 0.08);
   --vp-c-green-light: #16a891;
+  --vp-c-brand-nav-active: color-mix(
+    in srgb,
+    var(--vp-c-brand-1) 15%,
+    transparent 100%
+  );
 
   /** Button brand style */
   --vp-button-brand-text: var(--vp-c-bg);
@@ -411,5 +416,64 @@ main figure figcaption {
 .VPFooter {
   .divider {
     color: var(--vp-c-divider);
+  }
+}
+
+#VPSidebarNav
+  > .group:nth-child(-n + 8):not(:first-child)
+  > .VPSidebarItem
+  > .item
+  > .text::before {
+  filter: invert(1);
+}
+
+#VPSidebarNav > .group {
+  @apply border-t-0;
+
+  & > .VPSidebarItem {
+    @apply pb-1;
+
+    & > .item > .text {
+      @apply flex items-center text-base py-1.5;
+    }
+
+    & > .items {
+      & > .VPSidebarItem {
+        @apply pl-4 border-l dark:border-l-gray-600 rounded-none transition-all duration-150 ease-out;
+
+        /* Separation between nested table of content */
+        &:not(.collapsible),
+        &.collapsible > .items > .VPSidebarItem {
+          &:hover,
+          &:focus,
+          &.is-active.has-active {
+            @apply rounded-lg border-transparent;
+
+            background-color: var(--vp-c-brand-nav-active);
+
+            & > .item > .indicator {
+              background-color: var(--vp-c-brand-1);
+            }
+          }
+        }
+
+        &.collapsible {
+          & > .items {
+            @apply border-0 pl-0;
+
+            & > .VPSidebarItem {
+              @apply border-l pl-4 dark:border-l-gray-600;
+            }
+
+            & > .caret {
+              &:hover,
+              &:focus {
+                background-color: transparent;
+              }
+            }
+          }
+        }
+      }
+    }
   }
 }
