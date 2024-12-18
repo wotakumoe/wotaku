@@ -57,15 +57,15 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 ### Software
 
 - **Android**
-  - [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:gh:](https://github.com/jobobby04/TachiyomiSY) [:e:](/guides/tech/repo)
   - [Yokai](https://mihon.app/forks/Yokai/) :s: [:gh:](https://github.com/null2264/yokai) [:e:](/guides/tech/repo)
+  - [Komikku](https://github.com/komikku-app/komikku)
   - [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :s::lcl::fm::cs:
 - **iOS**
   - [Paperback](https://github.com/Paperback-iOS/app) [:e:](/guides/tech/repo#ios)
   - [Aidoku](https://github.com/Aidoku/Aidoku) [:e:](/guides/tech/repo#ios)
   - [YACReader](https://apps.apple.com/app/id635717885) :s::lcl::paid::cs:[:tf:](https://testflight.apple.com/join/5zhB7sRP)
 - **PC**
-  - [Houdoku](https://houdoku.netlify.app/) :win::app::lin:
+  - [Houdoku](https://houdoku.netlify.app/) :win::app::lin: [:gh:](https://github.com/xgi/houdoku)
   - [CDisplayEx](https://www.cdisplayex.com/) :win::lcl::cs:
   - [YACReader](https://www.yacreader.com/) :win::app::lin::lcl:
 

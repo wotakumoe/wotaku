@@ -47,14 +47,14 @@ outline: [1,2]
 
 ### Online
 - [Mihon](https://mihon.app/) [:gh:](https://github.com/mihonapp/mihon) [:e:](/guides/tech/repo)
-  - [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:gh:](https://github.com/jobobby04/TachiyomiSY)
-  - [TachiyomiJ2K](https://mihon.app/forks/TachiyomiJ2K/) [:gh:](https://github.com/Jays2Kings/tachiyomiJ2K)
   - [Yokai](https://mihon.app/forks/Yokai/) :s: [:gh:](https://github.com/null2264/yokai)
   - [Komikku](https://github.com/komikku-app/komikku)
 - [Kotatsu](https://kotatsu.app/) [:gh:](https://github.com/KotatsuApp/Kotatsu)
 
 ::: details More
 - [TachiyomiAZ](https://mihon.app/forks/TachiyomiAZ/) <Badge type="info" text="Dev build" link="https://crafty.moe/tachiyomiAZ.apk" />[:gh:](https://github.com/az4521/tachiyomiAZ)
+- [TachiyomiJ2K](https://mihon.app/forks/TachiyomiJ2K/) [:gh:](https://github.com/Jays2Kings/tachiyomiJ2K)
+- [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:gh:](https://github.com/jobobby04/TachiyomiSY)
 - [Animetail](https://github.com/Dark25/Animetail2)
 - [Aniyomi](https://aniyomi.org/) [:gh:](https://github.com/aniyomiorg/aniyomi)
 - [Dantotsu](https://dantotsuapp.netlify.app/) [:gh:](https://github.com/rebelonion/Dantotsu) [:e:](/guides/tech/repo)
@@ -198,7 +198,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 ### Online
 
-- [Houdoku](https://houdoku.netlify.app/) :win::app::lin:
+- [Houdoku](https://houdoku.netlify.app/) :win::app::lin: [:gh:](https://github.com/xgi/houdoku)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi) :win::app::lin:
 - [Suwayomi](https://github.com/Suwayomi/Suwayomi-Server) :win::app::lin:
   - [Tachidesk Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi)
