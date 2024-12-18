@@ -17,50 +17,50 @@
     "og:dev": "x-satori -t ./docs/.vitepress/theme/components/OgImageTemplate.vue -c ./.vitepress/hooks/satoriConfig.ts --dev"
   },
   "dependencies": {
-    "@fmhy/colors": "^0.0.11",
     "@fmhy/components": "^0.0.3",
     "@mdit/plugin-align": "^0.13.1",
     "@mdit/plugin-figure": "^0.13.1",
     "@mdit/plugin-img-lazyload": "^0.13.1",
     "@mdit/plugin-img-size": "^0.13.1",
     "@resvg/resvg-js": "^2.6.2",
-    "@vueuse/core": "^11.2.0",
+    "@taskylizard/colors": "^0.0.2",
+    "@vueuse/core": "^11.3.0",
     "floating-vue": "^5.2.2",
     "itty-fetcher": "^0.9.4",
     "markdown-it": "^14.1.0",
     "medium-zoom": "^1.1.0",
     "nitro-cors": "^0.7.1",
-    "nitropack": "^2.10.3",
+    "nitropack": "^2.10.4",
     "tinyexec": "^0.3.1",
     "unocss": "0.59.0-beta.1",
     "vitepress": "^1.5.0",
     "vitepress-plugin-tabs": "^0.5.0",
-    "vue": "^3.5.12",
+    "vue": "^3.5.13",
     "x-satori": "^0.2.0",
-    "zod": "^3.23.8"
+    "zod": "^3.24.1"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",
-    "@iconify-json/ic": "^1.2.1",
-    "@iconify-json/icon-park-outline": "^1.2.1",
-    "@iconify-json/iconoir": "^1.2.3",
-    "@iconify-json/logos": "^1.2.3",
-    "@iconify-json/lucide": "^1.2.12",
-    "@iconify-json/material-symbols": "^1.2.6",
-    "@iconify-json/mdi": "^1.2.1",
-    "@iconify-json/mingcute": "^1.2.1",
-    "@iconify-json/octicon": "^1.2.1",
-    "@iconify-json/simple-icons": "^1.2.11",
-    "@iconify-json/twemoji": "^1.2.1",
-    "@iconify-json/uil": "^1.2.1",
-    "@iconify/utils": "^2.1.33",
-    "@nolebase/vitepress-plugin-enhanced-readabilities": "^2.8.1",
-    "@nolebase/vitepress-plugin-git-changelog": "^2.8.1",
-    "@nolebase/vitepress-plugin-page-properties": "^2.8.1",
+    "@iconify-json/ic": "^1.2.2",
+    "@iconify-json/icon-park-outline": "^1.2.2",
+    "@iconify-json/iconoir": "^1.2.6",
+    "@iconify-json/logos": "^1.2.4",
+    "@iconify-json/lucide": "^1.2.19",
+    "@iconify-json/material-symbols": "^1.2.12",
+    "@iconify-json/mdi": "^1.2.2",
+    "@iconify-json/mingcute": "^1.2.2",
+    "@iconify-json/octicon": "^1.2.2",
+    "@iconify-json/simple-icons": "^1.2.16",
+    "@iconify-json/twemoji": "^1.2.2",
+    "@iconify-json/uil": "^1.2.3",
+    "@iconify/utils": "^2.2.1",
+    "@nolebase/vitepress-plugin-enhanced-readabilities": "^2.11.1",
+    "@nolebase/vitepress-plugin-git-changelog": "^2.11.1",
+    "@nolebase/vitepress-plugin-page-properties": "^2.11.1",
     "@taskylizard/biome-config": "^1.0.5",
-    "@types/node": "^22.9.0",
-    "sass": "^1.80.6",
-    "wrangler": "^3.85.0"
+    "@types/node": "^22.10.2",
+    "sass": "^1.83.0",
+    "wrangler": "^3.96.0"
   },
   "pnpm": {
     "peerDependencyRules": {
@@ -70,5 +70,5 @@
       ]
     }
   },
-  "packageManager": "pnpm@9.14.4+sha512.c8180b3fbe4e4bca02c94234717896b5529740a6cbadf19fa78254270403ea2f27d4e1d46a08a0f56c89b63dc8ebfd3ee53326da720273794e6200fcf0d184ab"
+  "packageManager": "pnpm@9.15.0"
 }
