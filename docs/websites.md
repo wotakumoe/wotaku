@@ -393,7 +393,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 
 ### Manhwa
 
-- [Asura Scans](https://asuracomic.net/) + :flag-china:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/juxsa9z/asura" />
+- [Asura Scans](https://asuracomic.net/) + :flag-china:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/juxsa9z/asura" /><Badge type="info" text="Free" link="https://asurascansfree.com/" />
 - [Flame Comics](https://flamecomics.com/) + :flag-china:  <Badge type="info" text="Dex" link="https://mangadex.org/group/fdad9851-164f-43fc-9ab0-25b8054c99ed/flame-scans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/btgsdiy/flame-scans" /><tooltip>Formerly Flame Scans</tooltip>
 - [Hive Toon](https://hivetoon.com/) + :flag-china: <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/10nt2ki/infernal-void-scans" /><tooltip>Formerly Infernal Void Scans and Void Scans</tooltip>
 - [Reaper Scans](https://reaperscans.com/) + :flag-china:  <Badge type="info" text="Dex" link="https://mangadex.org/group/e892ed1b-ed75-414a-bc86-71226f3364ad/reaper-scans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/5ev5t5s/reaper-scans" />
