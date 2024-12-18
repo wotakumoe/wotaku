@@ -4,7 +4,7 @@
   "scripts": {
     "postinstall": "nitropack prepare",
     "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
+    "docs:build": "NODE_OPTIONS='--max-old-space-size=8192' vitepress build docs",
     "docs:preview": "vitepress preview docs",
     "api:prepare": "nitropack prepare",
     "api:dev": "nitropack dev",
