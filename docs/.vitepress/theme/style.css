@@ -1,28 +1,34 @@
 :root {
+  /** Layout */
   --vp-layout-max-width: 1490px;
   --vp-sidebar-width: 280px;
   --vp-nav-logo-height: 36px;
-  --vp-c-brand: #7bc5e4;
-  --vp-c-brand-light: #1473e6;
-  --vp-c-brand-lighter: #c4e2f2;
-  --vp-c-brand-lightest: #e1f0f8;
-  --vp-c-brand-dark: #1473e6;
-  --vp-c-brand-darker: #36678c;
-  --vp-c-brand-dimm: rgba(123, 197, 228, 0.08);
-  --vp-button-brand-border: var(--vp-c-brand-light);
-  --vp-button-brand-text: var(--vp-c-white);
-  --vp-button-brand-bg: var(--vp-c-brand);
-  --vp-button-brand-hover-border: var(--vp-c-brand-light);
-  --vp-button-brand-hover-text: var(--vp-c-white);
-  --vp-button-brand-hover-bg: var(--vp-c-brand-light);
-  --vp-button-brand-active-border: var(--vp-c-brand-light);
-  --vp-button-brand-active-text: var(--vp-c-white);
-  --vp-button-brand-active-bg: var(--vp-button-brand-bg);
+
+  /** Colors */
+  --vp-c-brand-1: #7bc5e4;
+  --vp-c-brand-2: #1473e6;
+  --vp-c-brand-3: #1473e6;
+  --vp-c-brand-soft: rgba(123, 197, 228, 0.08);
   --vp-c-green-light: #16a891;
-  --vp-button-alt-bg: #f5f5f5;
-  --vp-button-alt-text: rgb(75, 85, 99);
-  --vp-button-alt-hover-bg: #efeeee;
-  --vp-button-alt-hover-text: rgb(75, 85, 99);
+
+  /** Button brand style */
+  --vp-button-brand-text: var(--vp-c-bg);
+  --vp-button-brand-bg: var(--vp-c-brand-2);
+  --vp-button-brand-hover-text: var(--vp-c-bg);
+  --vp-button-brand-hover-bg: var(--vp-c-brand-1);
+  --vp-button-brand-active-text: var(--vp-c-bg);
+  --vp-button-brand-active-bg: var(--vp-c-brand-1);
+
+  /** Button alt style */
+  --vp-button-alt-border: var(--vp-c-default-3);
+  --vp-button-alt-text: var(--vp-c-text-1);
+  --vp-button-alt-bg: transparent;
+  --vp-button-alt-hover-border: var(--vp-c-default-1);
+  --vp-button-alt-hover-text: var(--vp-c-text-1);
+  --vp-button-alt-hover-bg: transparent;
+  --vp-button-alt-active-border: var(--vp-c-default-1);
+  --vp-button-alt-active-text: var(--vp-c-text-1);
+  --vp-button-alt-active-bg: transparent;
   --vp-c-bg-nav: rgba(255, 255, 255, 0.7);
   --vp-c-bg-mark: rgb(232, 232, 232);
 
@@ -59,11 +65,6 @@
   --vp-c-bg-alt: rgb(23, 23, 23);
   --vp-c-bg-nav: rgba(23, 23, 23, 0.8);
   --vp-c-bg-mark: rgb(0, 0, 0);
-  --vp-button-brand-bg: var(--vp-c-brand-dark);
-  --vp-button-alt-bg: #484848;
-  --vp-button-alt-text: #f0eeee;
-  --vp-button-alt-hover-bg: #484848;
-  --vp-button-alt-hover-text: #f0eeee;
 
   /* Colors: Custom Block */
   /** Info */
@@ -94,7 +95,7 @@
 }
 
 .vp-doc a {
-  color: var(--vp-c-brand);
+  color: var(--vp-c-brand-1);
   text-decoration: underline;
   text-underline-offset: 4px;
   text-decoration-style: solid;
@@ -104,9 +105,9 @@
 }
 
 .vp-doc a:hover {
-  color: var(--vp-c-brand);
-  text-decoration-color: var(--vp-c-brand);
-  -webkit-text-decoration-color: var(--vp-c-brand);
+  color: var(--vp-c-brand-1);
+  text-decoration-color: var(--vp-c-brand-1);
+  -webkit-text-decoration-color: var(--vp-c-brand-1);
 }
 
 :root {
@@ -117,7 +118,9 @@
     #1473e6
   );
   --vp-home-hero-image-background-image: linear-gradient(
-    -30deg, #FEE097, #f7f6c8
+    -30deg,
+    #fee097,
+    #f7f6c8
   );
   --vp-home-hero-image-filter: blur(40px);
 }
