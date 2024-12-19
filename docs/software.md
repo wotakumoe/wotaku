@@ -282,7 +282,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Shoko Anime](https://shokoanime.com/) :win::app::lin: [:gh:](https://github.com/ShokoAnime/)
 - **Stremio**
   - [Viren070's Guides](https://guides.viren070.me/) [:gh:](https://github.com/Viren070/guides)
-  - [Stremio Community Addons List](https://stremio-addons.netlify.app/)
+  - [Stremio Addons](https://www.stremio-addons.com/)
   - [Stremio Addon Manager](https://stremio-addon-manager.vercel.app/) [:gh:](https://github.com/pancake3000/stremio-addon-manager)
   - [Stremio Jackett Addon](https://github.com/aymene69/stremio-jackett)
   - [Animeo: AniList Tracking](https://7a625ac658ec-animeo.baby-beamup.club/configure) [:gh:](https://github.com/Jenrykster/animeo)
