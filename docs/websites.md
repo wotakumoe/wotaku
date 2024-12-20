@@ -195,11 +195,11 @@ outline: 1
 ::: details Symbols
 
 - Uploaded on own server -> :ddl:
-- Uploaded on Google Drive -> :mdi-google-drive:
-- Uploaded on Host sites -> :mdi-snail:
-- Batch Download -> :material-symbols-package-2:
+- Uploaded on Google Drive -> :sgd:
+- Uploaded on Host sites -> :host:
+- Batch Download -> :batch:
 - Torrent Download -> :mag:
-- Account Needed -> :mdi-account:
+- Account Needed -> :acc:
 - Blu-ray -> :mdi-disc:
 
 :::
@@ -208,16 +208,16 @@ outline: 1
 #### Reuploads / Untouched
 - [Flugel Anime](https://flugelanime.com/) :ddl:
 - [Tokyo Insider](https://www.tokyoinsider.com/) :ddl:
-- [JPFiles](https://jpfiles.net/) :mdi-snail::mdi-disc:
-- [AnimeRSS](https://animerss.com/) :mdi-snail::mdi-disc:
+- [JPFiles](https://jpfiles.net/) :host::mdi-disc:
+- [AnimeRSS](https://animerss.com/) :host::mdi-disc:
 
 #### Re-encodes
-- [Kayo anime](https://kayoanime.com/) :mdi-google-drive::material-symbols-package-2:
-- [Mkvseries](https://mkvseries.com/) <Badge text="2" link="https://mkvcinema.in/" /> :mdi-google-drive::material-symbols-package-2:
-- [Anime out](https://www.animeout.xyz/) :ddl::mdi-account:
-- [Chauthanh](https://chauthanh.info/) :ddl::mdi-account:
-- [RIP Crabby Anime](https://ripcrabbyanime.com/) :mdi-google-drive::material-symbols-package-2:
-- [hi10anime](https://hi10anime.com/) :ddl::mag::mdi-account::material-symbols-package-2:
+- [Kayo anime](https://kayoanime.com/) :sgd::batch:
+- [Mkvseries](https://mkvseries.com/) <Badge text="2" link="https://mkvcinema.in/" /> :sgd::batch:
+- [Anime out](https://www.animeout.xyz/) :ddl::acc:
+- [Chauthanh](https://chauthanh.info/) :ddl::acc:
+- [RIP Crabby Anime](https://ripcrabbyanime.com/) :sgd::batch:
+- [hi10anime](https://hi10anime.com/) :ddl::mag::acc::batch:
 
 #### Subtitles
 - [Closed Caption Browser](https://cc.edatribe.com/#/) <Badge type="info" text="Dubtitles" />
@@ -318,7 +318,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [Manga Katana](https://mangakatana.com/)
 - [Hachi](https://hachi.moe/) 
 - [Mangahasu](https://mangahasu.se/)
-- [Mangahub](https://mangahub.io/)<Badge type="info" text="Needs account" />
+- [Mangahub](https://mangahub.io/):acc:
 - [Manga Buddy](https://mangabuddy.com/home) <Badge type="info" text="2" link="https://mangamirror.com/home-page" /><Badge type="info" text="3" link="https://mangaforest.com/home" />
 - [Dynasty Reader](https://dynasty-scans.com/) 
 - [Like Manga](https://likemanga.in)
@@ -550,7 +550,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [GetComics](https://getcomics.info/) :s:
 - [Library Genesis](https://libgen.gs/)
 - [Old Comics World](https://oldcomicsworld.blogspot.com/) <Badge type="info" text="Vintage"/>
-- [TheLongbox](https://thelongbox.net/) <Badge type="info" text="Needs account" />
+- [TheLongbox](https://thelongbox.net/) :acc:
 
 ## Others
 - **Info**

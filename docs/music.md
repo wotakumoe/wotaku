@@ -29,7 +29,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [AKROSS](https://www.akross.ru/index.cgi?l=e)
 - [AMV Hell](https://www.amvhell.com/)
 - [AMV News](https://amvnews.ru/)
-- [Anime Music Videos](https://www.animemusicvideos.org/home/home.php) <Badge type="info" text="Needs account" />
+- [Anime Music Videos](https://www.animemusicvideos.org/home/home.php) :acc:
 
 ## Doujin
 - [Touhou Player](https://touhou.kuukunen.net/)
@@ -83,13 +83,13 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 ::: details Symbols
 
 - Uploaded on own server -> :ddl:
-- Uploaded on Google Drive -> :mdi-google-drive:
-- Uploaded on Mega -> :simple-icons-mega:
-- Uploaded on Mediafire -> :simple-icons-mediafire:
+- Uploaded on Google Drive -> :sgd:
+- Uploaded on Mega -> :sm:
+- Uploaded on Mediafire -> :smf:
 - Upload on different cloud storage site -> :ic-round-cloud-download:
-- Uploaded on Host sites -> :mdi-snail:
+- Uploaded on Host sites -> :host:
 - Torrent/p2p Download -> :mag:
-- Account Needed -> :mdi-account:
+- Account Needed -> :acc:
 
 :::
 
@@ -97,16 +97,16 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 
 - **FLAC**
   - [Nyaa](https://nyaa.si/) :s::mag: <Badge type="info" text="2" link="https://nyaa.iss.one/" /> <Badge type="info" text="3" link="https://nyaa.iss.ink/" /> <Badge type="info" text="4" link="https://nyaa.land/" />
-  - [Sitting on Clouds](https://www.sittingonclouds.net/) :s::simple-icons-mega::simple-icons-mediafire: <Badge type="info" text="2" link="https://www.sittingonclouds.com/" /> <Badge type="info" text="3" link="https://www.sittingonclouds.org/" /> <Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" />
-  - [SquidBoard](https://www.squid-board.org/) :mdi-account::simple-icons-mega::simple-icons-mediafire::mdi-google-drive:
-  - [Sukidesu OST](https://sukidesuost.info/) :simple-icons-mega::mag:
+  - [Sitting on Clouds](https://www.sittingonclouds.net/) :s::sm::smf: <Badge type="info" text="2" link="https://www.sittingonclouds.com/" /> <Badge type="info" text="3" link="https://www.sittingonclouds.org/" /> <Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" />
+  - [SquidBoard](https://www.squid-board.org/) :acc::sgd::sm::smf:
+  - [Sukidesu OST](https://sukidesuost.info/) :sm::mag:
   - [RuTracker.org](https://rutracker.org/forum/index.php) :mag:
-  - [Asia Media Blog](https://asiamediablog.com/media/music/) :mdi-snail:<Badge type="danger" text="18+" /> <Badge type="tip" text="2" link="https://jpmediadl.com/music/" />
+  - [Asia Media Blog](https://asiamediablog.com/media/music/) :host:<Badge type="danger" text="18+" /> <Badge type="tip" text="2" link="https://jpmediadl.com/music/" />
 - **MP3**
   - [Nipponsei](https://nipponsei.minglong.org/tracker/) :mag:
   - [OS Anime](https://osanime.com/) :ddl:
-  - [Hiyori OST](https://www.hiyoriost.com/) :mdi-google-drive::mdi-snail:
-  - [Sakura OST](https://www.sakuraost.com/) :mdi-snail:
+  - [Hiyori OST](https://www.hiyoriost.com/) :sgd::host:
+  - [Sakura OST](https://www.sakuraost.com/) :host:
 
 ## Downloader
 - [Squid.wtf](https://squid.wtf/) :s:
@@ -117,18 +117,18 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 
 ## Doujin
 
-- [Doujin Cafe](https://discord.gg/doujincafe) :simple-icons-mega::simple-icons-mediafire::ic-round-cloud-download:
+- [Doujin Cafe](https://discord.gg/doujincafe) :sm::smf::ic-round-cloud-download:
 - [Doujin Music](https://vk.com/wall-60027733) :ddl:
-- [Doujin Style](https://doujinstyle.com/) :simple-icons-mediafire:<Badge type="tip" text="Touhou" link="https://doujinstyle.com/?p=tlmc" /><Badge type="tip" text="Downloader" link="https://github.com/Relepega/doujinstyle-downloader"/>
-- [MikuDB](https://mikudb.moe/) :mdi-google-drive::mag:
+- [Doujin Style](https://doujinstyle.com/) :smf:<Badge type="tip" text="Touhou" link="https://doujinstyle.com/?p=tlmc" /><Badge type="tip" text="Downloader" link="https://github.com/Relepega/doujinstyle-downloader"/>
+- [MikuDB](https://mikudb.moe/) :sgd::mag:
 - [Moriya Shrine](https://moriyashrine.org/) :mag:
 - [Touhou Disc](https://alist.thdisc.tk) :ddl:
 
 
 ## Games
 
-- [Sitting on Clouds](https://www.sittingonclouds.net/) :simple-icons-mega::simple-icons-mediafire: <Badge type="info" text="2" link="https://www.sittingonclouds.com/" /> <Badge type="info" text="3" link="https://www.sittingonclouds.org/" /> <Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" />
-- [SquidBoard](https://www.squid-board.org/) :mdi-account::simple-icons-mega::simple-icons-mediafire::mdi-google-drive:
+- [Sitting on Clouds](https://www.sittingonclouds.net/) :sm::smf: <Badge type="info" text="2" link="https://www.sittingonclouds.com/" /> <Badge type="info" text="3" link="https://www.sittingonclouds.org/" /> <Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" />
+- [SquidBoard](https://www.squid-board.org/) :acc::sgd::sm::smf:
 - [HCS VGM Archive](https://vgm.hcs64.com/) :ddl:
 - [VGM Preservation Foundation](https://www.vgmpf.com/Wiki/index.php) :ddl:
 - [VGMusic](https://vgmusic.com/) :ddl:

@@ -179,7 +179,7 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 
 #### Practice
 - [Kanken](https://www.kanken.or.jp/kanken/meyasucheck/)
-- [Kotu](https://kotu.io/) `Needs Account`
+- [Kotu](https://kotu.io/) :acc:
 - [Migaku Pitch Trainer](https://pitch-demo.migaku.io/) :fm:
 - [SuperNative](https://supernative.tv/ja/)
 - [MyKikitori](https://www.mykikitori.com/)

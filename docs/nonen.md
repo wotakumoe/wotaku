@@ -178,7 +178,7 @@ If you have recommendations for good sites in your native language or want to re
 ### Manga
 
 - [Japscan](https://www.japscan.lol/)
-- [LPEBK](https://www.lpebk.com/forumv2/) :ddl:<Badge type="info" text="Needs account" />
+- [LPEBK](https://www.lpebk.com/forumv2/) :ddl::acc:
 - [Mangadraft](https://www.mangadraft.com/)
 - [Planete-BD](https://planete-bd.org/)
 - [Raijin Scans](https://raijinscans.fr/)
@@ -214,7 +214,7 @@ If you have recommendations for good sites in your native language or want to re
 - [aniSearch](https://www.anisearch.de/forum/categories)
 - [Baka Board](https://baka-bewerbung.me/) <Badge type="info" text="Usenet" />
 - [littleAkiba](https://www.littleakiba.ch/)
-- [myGully](https://mygully.com/) :ddl:<Badge type="info" text="Needs account" />
+- [myGully](https://mygully.com/) :ddl::acc:
 - [Pirateboard](https://www.pirateboard.net/)
 - [Proxer](https://proxer.me/)
 
@@ -329,7 +329,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 - Uploads novels -> :material-symbols-book-5:
 - Uploads magazines -> :ic-outline-menu-book:
-- Uploaded on Host sites -> :mdi-snail:
+- Uploaded on Host sites -> :host:
 
 :::
 
@@ -351,17 +351,17 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - **Torrent Download**
   - [Nyaa](https://nyaa.si/) :s: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" />
 - **Direct Download**
-  - [A-Z Manga](https://www.a-zmanga.net/) :material-symbols-book-5::ic-outline-menu-book::mdi-snail:
-  - [Asia Media Blog](https://asiamediablog.com/media/comic/manga/) :material-symbols-book-5::ic-outline-menu-book::mdi-snail:
-  - [Book Share Zip](https://bszip.com/) :material-symbols-book-5::ic-outline-menu-book::mdi-snail:
-  - [Comic 77](https://comic77.com/) :mdi-snail:
-  - [Comics 888](https://comics888.com/) :material-symbols-book-5::ic-outline-menu-book::mdi-snail:
-  - [DL-Raw](https://dl-raw.se/) :material-symbols-book-5::ic-outline-menu-book::mdi-snail:
-  - [DL Raw net](https://dlraw.net/category/raw-manga/) <Badge type="tip" text="2" link="https://manga-zip.info/category/raw-manga/" /><Badge type="tip" text="3" link="https://13dl.me/home.i1/" /> :material-symbols-book-5::ic-outline-menu-book::mdi-snail:
-  - [DL Zip](https://dl-zip.com/) :material-symbols-book-5::ic-outline-menu-book::mdi-snail:
-  - [JP DDL](https://jpddl.com/manga) :mdi-snail:
-  - [Manga Zone](http://www.manga-zone.org/) :material-symbols-book-5::mdi-snail:
-  - [Raw Cans](http://raw-cans.net/) :ic-outline-menu-book::mdi-snail:
+  - [A-Z Manga](https://www.a-zmanga.net/) :material-symbols-book-5::ic-outline-menu-book::host:
+  - [Asia Media Blog](https://asiamediablog.com/media/comic/manga/) :material-symbols-book-5::ic-outline-menu-book::host:
+  - [Book Share Zip](https://bszip.com/) :material-symbols-book-5::ic-outline-menu-book::host:
+  - [Comic 77](https://comic77.com/) :host:
+  - [Comics 888](https://comics888.com/) :material-symbols-book-5::ic-outline-menu-book::host:
+  - [DL-Raw](https://dl-raw.se/) :material-symbols-book-5::ic-outline-menu-book::host:
+  - [DL Raw net](https://dlraw.net/category/raw-manga/) <Badge type="tip" text="2" link="https://manga-zip.info/category/raw-manga/" /><Badge type="tip" text="3" link="https://13dl.me/home.i1/" /> :material-symbols-book-5::ic-outline-menu-book::host:
+  - [DL Zip](https://dl-zip.com/) :material-symbols-book-5::ic-outline-menu-book::host:
+  - [JP DDL](https://jpddl.com/manga) :host:
+  - [Manga Zone](http://www.manga-zone.org/) :material-symbols-book-5::host:
+  - [Raw Cans](http://raw-cans.net/) :ic-outline-menu-book::host:
 
 ### Others
 

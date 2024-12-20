@@ -126,6 +126,7 @@ You have to add the iconpack manually in `docs\.vitepress\configs\emoji.ts`. Oth
 | :ddl: | `:ddl:` | Online / DDL |
 | :mag: | `:mag:` | Torrent / p2p |
 | :lcl: | `:lcl:` | Local File |
+| :batch: | `:bach:` | Batch Download |
 
 == Price
 
@@ -157,12 +158,22 @@ You have to add the iconpack manually in `docs\.vitepress\configs\emoji.ts`. Oth
 | :al: | `:al:` | AniList |
 | :k: | `:k:` | Kitsu |
 
+== Storage
+
+| Icon | Code | Desc |
+|-|-|-|
+| :sgd: | `:sgd:` | Google Drive |
+| :sm: | `:sm:` | Mega |
+| :smf: | `:smf:` | Mediafire |
+| :host: | `:host:` | Host websites (specifically with speed paywall) |
+
 == Others
 
 | Icon | Code | Desc |
 |-|-|-|
 | :s: | `:s:` | Favorite |
 | :e: | `:e:` | Extension(s) |
+| :acc: | `:acc:` | Needs Account |
 | :rss: | `:rss:` | RSS Feed |
 | :tf: | `:tf:` | Apple TestFlight |
 | :js: | `:js:` | JavaScript |

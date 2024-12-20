@@ -22,7 +22,7 @@ outline: 2
 - [Old Games Download](https://oldgamesdownload.com/)
 - [Ova Games](https://www.ovagames.com/)
 - [The Collection Chamber](https://collectionchamber.blogspot.com/)
-- [Torrminatorr](https://torrminatorr.com/) <Badge type="info" text="Needs Account" />
+- [Torrminatorr](https://torrminatorr.com/) :acc:
 
 ::: danger Untrusted sites
 [**Click here to get the list**](https://rentry.org/pgames#untrusted-sites) of Untrusted Game Downloading Websites.
@@ -35,12 +35,12 @@ outline: 2
 - [CDRomance](https://cdromance.com/)
 - [ConsoleRoms](https://www.consoleroms.com/)
 - [Crocdb](https://crocdb.net/)
-- [EBZero ROM set](https://archive.org/details/retro-roms-best-set) <Badge type="info" text="Needs account" />
+- [EBZero ROM set](https://archive.org/details/retro-roms-best-set) :acc:
 - [Edge Emulation](https://edgeemu.net/)
 - [Myrient](https://myrient.erista.me/)
 - [Romheaven](https://romheaven.com/) <Badge type="info" text="2" link="https://romheaven.su/" />
 - [ROMsPURE](https://romspure.cc/roms)
-- [The ROM Depot](https://theromdepot.com/) <Badge type="info" text="Needs account" />
+- [The ROM Depot](https://theromdepot.com/) :acc:
 - [AlvRo's Collection](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml)
 
 ### Platform Specific

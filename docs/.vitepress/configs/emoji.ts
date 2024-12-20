@@ -64,6 +64,7 @@ const aliases: Record<string, string> = {
   ddl: 'material-symbols-cloud-download-outline-rounded',
   mag: 'lucide-magnet',
   lcl: 'iconoir-floppy-disk',
+  batch: 'material-symbols-package-2-outline',
 
   // Price
   paid: 'material-symbols-credit-card-outline',
@@ -86,9 +87,16 @@ const aliases: Record<string, string> = {
   al: 'simple-icons-anilist',
   k: 'simple-icons-kitsu',
 
+  // Storage
+  sgd: 'simple-icons-googledrive',
+  sm: 'simple-icons-mega',
+  smf: 'simple-icons-mediafire',
+  host: 'mdi-snail',
+
   // Others
   s: 'twemoji-glowing-star',
   e: 'mdi-puzzle',
+  acc: 'material-symbols-person-add',
   rss: 'simple-icons-rss',
   tf: 'mdi-airplane',
   js: 'simple-icons-javascript',

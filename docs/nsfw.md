@@ -108,15 +108,15 @@ outline: [1,2]
 ## Games
 
 - [DLsite](https://www.dlsite.com/) <Badge type="warning" text="Legal" />
-- [Anime-sharing](https://www.anime-sharing.com/) <Badge type="info" text="Needs account" />
+- [Anime-sharing](https://www.anime-sharing.com/) :acc:
 - [CPG Repacks](https://cpgrepacks.site)
 - [Eroge Download](https://erogedownload.com/)
-- [F95Zone](https://f95zone.to/) <Badge type="info" text="Needs account" />
+- [F95Zone](https://f95zone.to/) :acc:
 - [Gamcore](https://gamcore.com/)
 - [Kimochi](https://kimochi.info)
-- [LewdCorner](https://lewdcorner.com/) <Badge type="info" text="Needs account" />
+- [LewdCorner](https://lewdcorner.com/) :acc:
 - [Ryuugames](https://www.ryuugames.com/)
-- [ULMF](https://ulmf.org/) <Badge type="info" text="Needs account" />
+- [ULMF](https://ulmf.org/) :acc:
 - [VNPocket](https://vnpocket.com/)
 
 ::: info Try searching with Japanese titles or DLSite product ID on Sukebei.

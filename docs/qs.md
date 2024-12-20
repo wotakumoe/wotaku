@@ -24,7 +24,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 - **Download**
   - [Nyaa](https://nyaa.si/) :s::mag:
   - [Tokyo Insider](https://www.tokyoinsider.com/) :ddl:
-  - [Kayo anime](https://kayoanime.com/) :ddl:<Badge type="info" text="Batch" />
+  - [Kayo anime](https://kayoanime.com/) :ddl::batch:
 
 ### Software
 
