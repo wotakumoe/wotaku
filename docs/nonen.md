@@ -478,7 +478,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Shiza Project](https://shiza-project.com/)
 - [SovetRomantica](https://sovetromantica.com/) <Badge type="info" text="Sub" />
 - [Tunime](https://an0ncer.github.io/) [:gh:](https://github.com/AN0NCER/an0ncer.github.io)<Badge type="info" text="Sub" />
-- [Yummy Anime](https://yummyani.me/) <Badge type="info" text="2" link="https://yummyani.meme/" />
 
 ### Manga
 - [Com-X](https://com-x.life/)
