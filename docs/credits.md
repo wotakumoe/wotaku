@@ -49,7 +49,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 
 #### Manga
 - [A Practical Guide to Translating Japanese Manga Sound Effects](https://nomansguy.wordpress.com/2023/02/04/translating-manga-sfx-guide-part-1/)
-- Bentoki from Helvetica Scans
+- [Bentoki from Helvetica Scans](https://www.mangaupdates.com/group/nztl66c/helvetica-scans)
 - [u/rui_is_dead from Atelier du Noir](https://old.reddit.com/r/manga/comments/tc90d8/guys_can_you_explain_the_process_of/)
 
 #### Audio
