@@ -71,9 +71,6 @@ If you have recommendations for good sites in your native language or want to re
 - [AnimeOverdose](https://www.anime-overdose.com/)
 - [Anime Srbija](https://www.animesrbija.com/)
 
-### Manga
-- [Manga Balkan](https://mangabalkan.org/)
-
 ### Others
 - [Potamanime](https://potamanime.rs/) <Badge type="info" text="News" />
 
@@ -283,9 +280,9 @@ If you have recommendations for good sites in your native language or want to re
 
 ### Manga
 - [Komiku](https://komiku.id/)
-- [Komikcast](https://komikcast.cz/)
+- [Komikcast](https://komikcast.bz/)
 - [MGKOMIK](https://mgkomik.id/)
-- [Shinigami ID](https://shinigami03.com/)
+- [Shinigami ID](https://shinigami08.com/)
 - [YuuManga](https://yuumanga.blogspot.com/)
 
 ### Light Novels
@@ -482,7 +479,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Shiza Project](https://shiza-project.com/)
 - [SovetRomantica](https://sovetromantica.com/) <Badge type="info" text="Sub" />
 - [Tunime](https://an0ncer.github.io/) [:gh:](https://github.com/AN0NCER/an0ncer.github.io)<Badge type="info" text="Sub" />
-- [Yummy Anime](https://yummyanime.org/)
+- [Yummy Anime](https://yummyani.me/) <Badge type="info" text="2" link="https://yummyani.meme/" />
 
 ### Manga
 - [Com-X](https://com-x.life/)
@@ -607,7 +604,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Anime47](https://anime47.cam/)
 - [AnimeHay](https://animehay.in/)
 - [AnimeVsub](https://animevsub.eu.org/) [:gh:](https://github.com/anime-vsub/desktop-web)
-- [HHNINJA](https://hhninja13.tv/)
+- [HHNINJA](https://hhninja14.tv/)
 - [Phimplay](https://phimplay24h.com/)
 - [Unime](https://unime.vercel.app/) [:gh:](https://github.com/huy232/Unime)
 - [Vui Ghe](https://vuighe3.com/)
@@ -625,7 +622,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Truyen Sieuhay](https://truyensieuhay.com/)
 
 ### Light Novels
-- [Hako](https://docln.net/) <Badge type="tip" text="2" link="https://novelvn.net/" />
+- [Hako](https://docln.net/)
 - [Sonako Light Novel Wiki](https://sonako.fandom.com/vi/wiki/Sonako_Light_Novel)
 - [SSTruyen](https://sstruyen.vn/)
 - [Truyen Full](https://truyenfull.io/)
