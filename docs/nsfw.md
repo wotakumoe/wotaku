@@ -131,9 +131,8 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 # Software
 
 ## Android
-- [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY)
-- [Komikku](https://github.com/komikku-app/komikku)
-- [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta)
+- [Komikku](https://github.com/komikku-app/komikku) [:e:](/guides/tech/repo)
+- [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta) [:e:](/guides/tech/repo)
 - [EhViewer-FooIbar](https://github.com/FooIbar/EhViewer)
 - [EhViewer-NekoInverter](https://github.com/EhViewer-NekoInverter/EhViewer)
 - [ErosFE](https://github.com/3003h/Eros-FE)

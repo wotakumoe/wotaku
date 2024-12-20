@@ -14,16 +14,16 @@ outline: [1,2]
 ## Anime Streaming
 
 - [Aniyomi](https://aniyomi.org/) :s: [:gh:](https://github.com/aniyomiorg/aniyomi) [:e:](/guides/tech/repo)
-  - [Animetail](https://github.com/Dark25/Animetail2)
-  - [Animiru](https://github.com/quickdesh/Animiru)
+  - [Animetail](https://github.com/Dark25/Animetail2) [:e:](/guides/tech/repo)
+  - [Animiru](https://github.com/quickdesh/Animiru) [:e:](/guides/tech/repo)
 - [Dantotsu](https://dantotsuapp.netlify.app/) [:gh:](https://github.com/rebelonion/Dantotsu) [:e:](/guides/tech/repo)
 - [Cloudstream](https://cloudstream.on.fleek.co/) [:gh:](https://github.com/recloudstream/cloudstream)
 - [Migu](https://miguapp.pages.dev/) [:gh:](https://github.com/NoCrypt/migu)
 - [AnimeTV](https://amarullz.com/) [:gh:](https://github.com/amarullz/AnimeTV)
 
 ::: details More Apps
-- [Awery](https://github.com/MrBoomDeveloper/Awery)
-- [Himitsu](https://repodevil.vercel.app/) [:gl:](https://gitlab.com/RepoDevil/himitsu)
+- [Awery](https://github.com/MrBoomDeveloper/Awery) [:e:](/guides/tech/repo)
+- [Himitsu](https://repodevil.vercel.app/) [:gl:](https://gitlab.com/RepoDevil/himitsu) [:e:](/guides/tech/repo)
 - [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one)
   - :material-symbols-subdirectory-arrow-right: [Stremio Tools](#anime-tools)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
@@ -47,16 +47,16 @@ outline: [1,2]
 
 ### Online
 - [Mihon](https://mihon.app/) [:gh:](https://github.com/mihonapp/mihon) [:e:](/guides/tech/repo)
-  - [Yokai](https://mihon.app/forks/Yokai/) :s: [:gh:](https://github.com/null2264/yokai)
-  - [Komikku](https://github.com/komikku-app/komikku)
+  - [Yokai](https://mihon.app/forks/Yokai/) :s: [:gh:](https://github.com/null2264/yokai) [:e:](/guides/tech/repo)
+  - [Komikku](https://github.com/komikku-app/komikku) [:e:](/guides/tech/repo)
 - [Kotatsu](https://kotatsu.app/) [:gh:](https://github.com/KotatsuApp/Kotatsu)
 
 ::: details More
-- [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:gh:](https://github.com/jobobby04/TachiyomiSY)
-- [TachiyomiJ2K](https://mihon.app/forks/TachiyomiJ2K/) [:gh:](https://github.com/Jays2Kings/tachiyomiJ2K)
-- [TachiyomiAZ](https://mihon.app/forks/TachiyomiAZ/) <Badge type="info" text="Dev build" link="https://crafty.moe/tachiyomiAZ.apk" />[:gh:](https://github.com/az4521/tachiyomiAZ)
-- [Animetail](https://github.com/Dark25/Animetail2)
-- [Aniyomi](https://aniyomi.org/) [:gh:](https://github.com/aniyomiorg/aniyomi)
+- [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:gh:](https://github.com/jobobby04/TachiyomiSY) [:e:](/guides/tech/repo)
+- [TachiyomiJ2K](https://mihon.app/forks/TachiyomiJ2K/) [:gh:](https://github.com/Jays2Kings/tachiyomiJ2K) [:e:](/guides/tech/repo)
+- [TachiyomiAZ](https://mihon.app/forks/TachiyomiAZ/) <Badge type="info" text="Dev build" link="https://crafty.moe/tachiyomiAZ.apk" /> [:gh:](https://github.com/az4521/tachiyomiAZ)
+- [Animetail](https://github.com/Dark25/Animetail2) [:e:](/guides/tech/repo)
+- [Aniyomi](https://aniyomi.org/) [:gh:](https://github.com/aniyomiorg/aniyomi) [:e:](/guides/tech/repo)
 - [Dantotsu](https://dantotsuapp.netlify.app/) [:gh:](https://github.com/rebelonion/Dantotsu) [:e:](/guides/tech/repo)
 - [Neko](https://github.com/nekomangaorg/Neko)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
