@@ -430,7 +430,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Better Anime](https://betteranime.net/)
 - [Geekdot](https://geekdot.live/)
 - [Hinata Soul](https://www.hinatasoul.com/)
-- [Saikoni](https://saikoani.me/)
 - [HentaisTube](https://www.hentaistube.com/) <Badge type="danger" text="18+" />
 
 ### Manga
