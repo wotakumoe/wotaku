@@ -8,17 +8,7 @@ outline: [2,3]
 
 <br>
 
-Information about various types of publishers for manga and manhwa.
-<br>
-
-::: info Things to consider when buying {open}
-- Image quality varies by publisher **and** by platform
-- Convenience of platform apps varies, consider testing them if you plan to read without removing DRM.
-- If you're not able to back up your purchases locally you could lose them entirely if a platform closes.
-- DRM-free does not always mean "free from identifiable info".
-:::
-
->To simplify the guide, here "resolution" essentially means "quality". Although some publishers (e.g. Yen Press) offer low resolution images with minimal JPEG compression as "high quality", we will still consider this as low quality since most readers would see it that way.
+Information about various types of publishers for manga and manhwa. Image quality (resoultion, compression & codec) varies by publisher and by platform. Convenience of platform apps varies, consider testing them if you plan to read without removing DRM. 
 
 ## Volumes
 
