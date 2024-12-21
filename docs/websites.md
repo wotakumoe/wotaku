@@ -98,7 +98,7 @@ outline: 1
       <li>Good for airing shows.</li>
     </ul>
   </tooltip>
-- [Animepahe](https://animepahe.ru/) :mingcute-server-fill: <Badge type="tip" text="2" link="https://animepahe.com/" /><Badge type="tip" text="3" link="https://animepahe.org" />
+- [Animepahe](https://animepahe.ru/) :mingcute-server-fill: <Badge type="tip" text="2" link="https://animepahe.com/" /> <Badge type="tip" text="3" link="https://animepahe.org" />
   <tooltip>
     <ul>
       <li>Uploads mini encoded files, best if you want smaller files or have low bandwidth.</li>
@@ -125,8 +125,8 @@ outline: 1
   </tooltip>
 - [Animegg](https://www.animegg.org/) :mingcute-server-fill:
 - [Animotvslash](https://www.animotvslash.nl/) :mingcute-server-fill:
-- [Anivibe](https://anivibe.net/) :mingcute-server-fill: <Badge type="tip" text="2" link="https://anix.sh/home" /><Badge type="tip" text="3" link="https://www1.aniwave.ch/home" />
-- [Watch Cartoon Online](https://www.wco.tv/) :mingcute-server-fill::mingcute-user-2-fill: <Badge text="2" link="https://www.wcofun.net/" /><Badge text="3" link="https://www.wcostream.tv/" /><Badge text="4" link="https://www.wcoforever.tv/" />
+- [Anivibe](https://anivibe.net/) :mingcute-server-fill: <Badge type="tip" text="2" link="https://anix.sh/home" /> <Badge type="tip" text="3" link="https://www1.aniwave.ch/home" />
+- [Watch Cartoon Online](https://www.wco.tv/) :mingcute-server-fill::mingcute-user-2-fill: <Badge text="2" link="https://www.wcofun.net/" /> <Badge text="3" link="https://www.wcostream.tv/" /> <Badge text="4" link="https://www.wcoforever.tv/" />
   <tooltip>
     <ul>
       <li>Has both anime and cartoons.</li>
@@ -139,7 +139,7 @@ outline: 1
 ### Low Res
 - [AnimeOnsen](https://www.animeonsen.xyz/) :mingcute-server-fill::mingcute-user-2-fill:
 - [AnimeZ](https://animez.org/) :mingcute-server-fill::mingcute-user-2-fill: <tooltip> Good library size, most are scraped from Aniwave.</tooltip>
-- [Otaku-Streamers](https://beta.otaku-streamers.com/) :mingcute-server-fill::mingcute-user-2-fill: <Badge type="info" text="Old" link="https://otaku-streamers.com/" /><tooltip> Although new releases are in 1080p, older releases are a mixed bag, ranging from 480p to 720p.</tooltip>
+- [Otaku-Streamers](https://beta.otaku-streamers.com/) :mingcute-server-fill::mingcute-user-2-fill: <Badge type="info" text="Old" link="https://otaku-streamers.com/" /> <tooltip> Although new releases are in 1080p, older releases are a mixed bag, ranging from 480p to 720p.</tooltip>
 
 ### Scrapers
 - [Anime Realms](https://www.animerealms.org/) :mingcute-refresh-2-fill:
@@ -184,7 +184,7 @@ outline: 1
 
 ### Torrent
 
-- [Nyaa](https://nyaa.si/) :s: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" /> 
+- [Nyaa](https://nyaa.si/) :s: <Badge type="info" text="2" link="https://nyaa.iss.one/" /> <Badge type="info" text="3" link="https://nyaa.iss.ink/" /> <Badge type="info" text="4" link="https://nyaa.land/" /> 
 - [Anirena](https://www.anirena.com/)
 - [Shana Project](https://www.shanaproject.com/)
 - [Tokyo Toshokan](https://www.tokyotosho.info/)
@@ -232,9 +232,9 @@ outline: 1
 
 ### IRC
 
-- [nibl](https://nibl.co.uk/search) <tooltip><ul><li>Server: <code>irc.rizon.net</code></li><li>Port: <code>6697</code></li><li>Channel: <code>#nibl</code></li></ul></tooltip>
-- [subsplease](https://subsplease.org/xdcc/) <tooltip><ul><li>Server: <code>irc.rizon.net</code></li><li>Port: <code>6697</code></li><li>Channel: <code>#subsplease</code></li></ul></tooltip>
-- [animk](https://animk.info/xdcc/) <tooltip><ul><li>Server: <code>irc.xertion.org</code></li><li>Port: <code>6697</code></li><li>Channel: <code>#MK</code> or <code>XDCCLeech</code></li></ul></tooltip>
+- [nibl](https://nibl.co.uk/search) <tooltip> <ul> <li>Server: <code>irc.rizon.net</code> </li> <li>Port: <code>6697</code> </li> <li>Channel: <code>#nibl</code> </li> </ul> </tooltip>
+- [subsplease](https://subsplease.org/xdcc/) <tooltip> <ul> <li>Server: <code>irc.rizon.net</code> </li> <li>Port: <code>6697</code> </li> <li>Channel: <code>#subsplease</code> </li> </ul> </tooltip>
+- [animk](https://animk.info/xdcc/) <tooltip> <ul> <li>Server: <code>irc.xertion.org</code> </li> <li>Port: <code>6697</code> </li> <li>Channel: <code>#MK</code> or <code>XDCCLeech</code> </li> </ul> </tooltip>
 - [XDCC EU](https://www.xdcc.eu/)
 - [SunXDCC](https://sunxdcc.com/)
 - [Anidex](https://xdcc.anidex.moe/) <tooltip>`Michiko` bot is over at `#Doki`</tooltip>
@@ -282,7 +282,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
       <li>May remove content if there is a DMCA request by the publisher or doesn't allow upload at all (e.g. One Punch-Man)</li>
     </ul>
   </tooltip>
-- [Weeb Central](https://weebcentral.com/) <Badge type="tip" text="2" link="https://mangasee123.com/" /><Badge type="tip" text="3" link="https://manga4life.com/" /><Badge type="tip" text="Alt" link="https://atsu.moe/" />  
+- [Weeb Central](https://weebcentral.com/) <Badge type="tip" text="2" link="https://mangasee123.com/" /> <Badge type="tip" text="3" link="https://manga4life.com/" /> <Badge type="tip" text="Alt" link="https://atsu.moe/" />  
   <tooltip>
     <ul>
       <li>Has official translations</li>
@@ -319,12 +319,12 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [Hachi](https://hachi.moe/) 
 - [Mangahasu](https://mangahasu.se/)
 - [Mangahub](https://mangahub.io/):acc:
-- [Manga Buddy](https://mangabuddy.com/home) <Badge type="info" text="2" link="https://mangamirror.com/home-page" /><Badge type="info" text="3" link="https://mangaforest.com/home" />
+- [Manga Buddy](https://mangabuddy.com/home) <Badge type="info" text="2" link="https://mangamirror.com/home-page" /> <Badge type="info" text="3" link="https://mangaforest.com/home" />
 - [Dynasty Reader](https://dynasty-scans.com/) 
 - [Like Manga](https://likemanga.in)
-- [Comic Fans](https://www.comicfans.io/) <Badge type="info" text="Manhua" /><tooltip>Backup of Bilibili Comics</tooltip>
+- [Comic Fans](https://www.comicfans.io/) <Badge type="info" text="Manhua" /> <tooltip>Backup of Bilibili Comics</tooltip>
 - [Manga Here](https://www.mangahere.cc/) <Badge type="info" text="2" link="https://fanfox.net/" />
-- [Manganato](https://manganato.com/) <Badge type="info" text="2" link="https://mangakakalot.com/" /><Badge type="info" text="Alt" link="https://akari-psi.vercel.app/" />
+- [Manganato](https://manganato.com/) <Badge type="info" text="2" link="https://mangakakalot.com/" /> <Badge type="info" text="Alt" link="https://akari-psi.vercel.app/" />
 
 :::
 
@@ -353,7 +353,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [Empy](https://nyaa.si/user/empyrealarrow) `Ch` `Comp` <tooltip>[Glacier Bay Books](https://glacierbaybooks.com/), [MANGA Plus](https://mangaplus.shueisha.co.jp/)</tooltip>
 - [Lord_ne](https://nyaa.si/user/lord_ne) <tooltip>[Crunchyroll](https://store.crunchyroll.com/collections/manga/), [Lezhin Comics](https://www.lezhinus.com/en), [Yen Press](https://yenpress.com/)</tooltip>
 - [LuCaZ](https://nyaa.si/user/LuCaZ) `Ch` `Vol` <tooltip>[Kodansha](https://kodansha.us/), [Seven Seas](https://sevenseasentertainment.com/), [Yen Press](https://yenpress.com/)</tooltip>
-- [Oakminati](https://nyaa.si/user/Oakminati) `Ch` `Comp` <Badge type="tip" text="Releases" link="https://sheet.zohopublic.com/sheet/published/3v5my3d014d3b97064f55b7114631ac87efda?sheetid=1&range=A1" /><tooltip>[MANGA Plus](https://mangaplus.shueisha.co.jp/), [Manga UP!](https://global.manga-up.com/) (Main), [SQUARE ENIX](https://squareenixmangaandbooks.square-enix-games.com/en-us)</tooltip>
+- [Oakminati](https://nyaa.si/user/Oakminati) `Ch` `Comp` <Badge type="tip" text="Releases" link="https://sheet.zohopublic.com/sheet/published/3v5my3d014d3b97064f55b7114631ac87efda?sheetid=1&range=A1" /> <tooltip>[MANGA Plus](https://mangaplus.shueisha.co.jp/), [Manga UP!](https://global.manga-up.com/) (Main), [SQUARE ENIX](https://squareenixmangaandbooks.square-enix-games.com/en-us)</tooltip>
 - [Rillant](https://nyaa.si/user/Rillant) `Ch` <tooltip>[K Manga](https://kmanga.kodansha.com/), [Kodansha](https://kodansha.us/), [MANGA Plus](https://mangaplus.shueisha.co.jp/), [VIZ](https://www.viz.com/)</tooltip>
 - [Shellshock](https://nyaa.si/user/shellshock) <tooltip>[Kodansha](https://kodansha.us/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
 - [Shizu](https://nyaa.si/user/wolfsbanes) <tooltip>[Kodansha](https://kodansha.us/), [SuBLime](https://www.sublimemanga.com/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
@@ -383,30 +383,30 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 
 ### Manga
 
-- [Animated Glitched Comics](https://agrcomics.com/) + :flag-south-korea:  <Badge type="info" text="Dex" link="https://mangadex.org/group/1dde9054-11fd-4f5e-a575-a50f7bd22d5f/animated-glitched-scans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/15ncn1v/animated-glitched-scans" />
+- [Animated Glitched Comics](https://agrcomics.com/) + :flag-south-korea:  <Badge type="info" text="Dex" link="https://mangadex.org/group/1dde9054-11fd-4f5e-a575-a50f7bd22d5f/animated-glitched-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/15ncn1v/animated-glitched-scans" />
 - [Assorted Scans](https://assortedscans.com/)
-- [Danke fürs Lesen Scans](https://danke.moe/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/91035fe1-d6b0-4816-be51-b54d05d546cf/danke-furs-lesen" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/xlp7424/danke-fuers-lesen" />
-- [LHTranslation](https://lhtranslation.net/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/24adf288-d0e3-4d34-b342-bf8c189aacaa/lhtranslation" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/f6nc2yt/lhtranslation" />
-- [Scylla Comics](https://scyllacomics.xyz/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/4209a4a9-b838-4817-be40-0c8ef2f7be4a/scylla-scans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/groups.html?id=14042" /><tooltip>Formerly Scylla Scans</tooltip>
-- [TCB Scans](https://tcbscans.me/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/db85f2a1-d69b-4181-a7a0-aa37db4bcbcf/tcb-scans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/wn8v9bv/tcb-scans" />
+- [Danke fürs Lesen Scans](https://danke.moe/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/91035fe1-d6b0-4816-be51-b54d05d546cf/danke-furs-lesen" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/xlp7424/danke-fuers-lesen" />
+- [LHTranslation](https://lhtranslation.net/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/24adf288-d0e3-4d34-b342-bf8c189aacaa/lhtranslation" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/f6nc2yt/lhtranslation" />
+- [Scylla Comics](https://scyllacomics.xyz/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/4209a4a9-b838-4817-be40-0c8ef2f7be4a/scylla-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/groups.html?id=14042" /> <tooltip>Formerly Scylla Scans</tooltip>
+- [TCB Scans](https://tcbscans.me/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/db85f2a1-d69b-4181-a7a0-aa37db4bcbcf/tcb-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/wn8v9bv/tcb-scans" />
 - [Tritinia Scans](https://tritinia.org/) + :flag-china::flag-south-korea:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/zfxsenj/tritinia-scans" />
 
 ### Manhwa
 
-- [Asura Scans](https://asuracomic.net/) + :flag-china:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/juxsa9z/asura" /><Badge type="info" text="Free" link="https://asurascansfree.com/" />
-- [Flame Comics](https://flamecomics.com/) + :flag-china:  <Badge type="info" text="Dex" link="https://mangadex.org/group/fdad9851-164f-43fc-9ab0-25b8054c99ed/flame-scans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/btgsdiy/flame-scans" /><tooltip>Formerly Flame Scans</tooltip>
-- [Hive Toon](https://hivetoon.com/) + :flag-china: <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/10nt2ki/infernal-void-scans" /><tooltip>Formerly Infernal Void Scans and Void Scans</tooltip>
-- [Reaper Scans](https://reaperscans.com/) + :flag-china:  <Badge type="info" text="Dex" link="https://mangadex.org/group/e892ed1b-ed75-414a-bc86-71226f3364ad/reaper-scans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/5ev5t5s/reaper-scans" />
+- [Asura Scans](https://asuracomic.net/) + :flag-china:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/juxsa9z/asura" /> <Badge type="info" text="Free" link="https://asurascansfree.com/" />
+- [Flame Comics](https://flamecomics.com/) + :flag-china:  <Badge type="info" text="Dex" link="https://mangadex.org/group/fdad9851-164f-43fc-9ab0-25b8054c99ed/flame-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/btgsdiy/flame-scans" /> <tooltip>Formerly Flame Scans</tooltip>
+- [Hive Toon](https://hivetoon.com/) + :flag-china: <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/10nt2ki/infernal-void-scans" /> <tooltip>Formerly Infernal Void Scans and Void Scans</tooltip>
+- [Reaper Scans](https://reaperscans.com/) + :flag-china:  <Badge type="info" text="Dex" link="https://mangadex.org/group/e892ed1b-ed75-414a-bc86-71226f3364ad/reaper-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/5ev5t5s/reaper-scans" />
 - [Reset Scans](https://rspro.xyz/home/) +:flag-japan::flag-china:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/df9ckct/reset-scans" />
-- [Rizz Fables](https://rizzfables.com/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/v5djjz8/rizz-comics" /><tooltip>Formerly Realm Scans and Rizz Comics</tooltip>
+- [Rizz Fables](https://rizzfables.com/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/v5djjz8/rizz-comics" /> <tooltip>Formerly Realm Scans and Rizz Comics</tooltip>
 - [StoneScape](https://stonescape.xyz/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/zt7x4q1/stonescape" />
-- [UTOON](https://utoon.net/) +:flag-japan::flag-china:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/mtcug74/utoon" /><tooltip>Formerly Manhwa Freak, freak scans. freak comics</tooltip>
-- [Zero Scans](https://zscans.com/) + :flag-china:  <Badge type="info" text="Dex" link="https://mangadex.org/group/dd0a3018-21f1-4488-948c-08499b179fcf/zero-scans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/vlkvmk7/zero-scans-discord" />
+- [UTOON](https://utoon.net/) +:flag-japan::flag-china:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/mtcug74/utoon" /> <tooltip>Formerly Manhwa Freak, freak scans. freak comics</tooltip>
+- [Zero Scans](https://zscans.com/) + :flag-china:  <Badge type="info" text="Dex" link="https://mangadex.org/group/dd0a3018-21f1-4488-948c-08499b179fcf/zero-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/vlkvmk7/zero-scans-discord" />
 
 ### Manhua
 
 - [Disaster Scans](https://disasterscans.com/)
-- [Drake Scans](https://drakecomic.org/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/50caf96d-fe2b-4638-9d13-4954b782e112/drake-scans" /><Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/ktajd9u/drake-scans" />
+- [Drake Scans](https://drakecomic.org/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/50caf96d-fe2b-4638-9d13-4954b782e112/drake-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/ktajd9u/drake-scans" />
 - [Manhua Ga](https://manhuaga.com/)
 - [Manhua Plus](https://manhuaplus.com/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/3apm0du/manhua-plus" />
 - [xCaliBR Scans](https://xcalibrscans.com/webcomics/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/ynopo9s/cursed-xcalibr" />
@@ -429,7 +429,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [Novel Updates](https://www.novelupdates.com/)
 - [Baka-tsuki](https://www.baka-tsuki.org/project/index.php?title=Main_Page)
 - [Boxnovel](https://boxnovel.com/)
-- [Light Novel Pub](https://www.lightnovelpub.com/) <Badge type="tip" text="2" link="https://www.lightnovelworld.com/" /><Badge type="tip" text="3" link="https://www.webnovelpub.pro/home" />
+- [Light Novel Pub](https://www.lightnovelpub.com/) <Badge type="tip" text="2" link="https://www.lightnovelworld.com/" /> <Badge type="tip" text="3" link="https://www.webnovelpub.pro/home" />
 - [Novel Bin](https://novelbin.com/)
 - [Novel Buddy](https://novelbuddy.com/home)
 - [VyNovel](https://vynovel.com/)
@@ -463,7 +463,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [Madokami](https://manga.madokami.al)
 - [Anna’s Archive](https://annas-archive.org/) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
 - [Library Genesis](https://libgen.gs/)
-- [Z-Library](https://z-lib.gs/) <Badge type="tip" text="2" link="https://z-lib.gd/" /><Badge type="tip" text="3" link="https://1lib.sk/" /><Badge type="tip" text="4" link="https://articles.sk/" />
+- [Z-Library](https://z-lib.gs/) <Badge type="tip" text="2" link="https://z-lib.gd/" /> <Badge type="tip" text="3" link="https://1lib.sk/" /> <Badge type="tip" text="4" link="https://articles.sk/" />
 
 
 ## Audiobook

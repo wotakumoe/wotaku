@@ -119,7 +119,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 
 - [Doujin Cafe](https://discord.gg/doujincafe) :sm::smf::ic-round-cloud-download:
 - [Doujin Music](https://vk.com/wall-60027733) :ddl:
-- [Doujin Style](https://doujinstyle.com/) :smf:<Badge type="tip" text="Touhou" link="https://doujinstyle.com/?p=tlmc" /><Badge type="tip" text="Downloader" link="https://github.com/Relepega/doujinstyle-downloader"/>
+- [Doujin Style](https://doujinstyle.com/) :smf:<Badge type="tip" text="Touhou" link="https://doujinstyle.com/?p=tlmc" /> <Badge type="tip" text="Downloader" link="https://github.com/Relepega/doujinstyle-downloader"/>
 - [MikuDB](https://mikudb.moe/) :sgd::mag:
 - [Moriya Shrine](https://moriyashrine.org/) :mag:
 - [Touhou Disc](https://alist.thdisc.tk) :ddl:
@@ -148,11 +148,11 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 ## General
 - [asia DREAM radio](https://asiadreamradio.torontocast.stream/stations/en/index.html) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://asiadreamradio.torontocast.stream/stations/newstream.html" />
 - [J1 Radio](https://www.j1fm.tokyo/player/j1hits/) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://www.j1fm.tokyo/listen/" />
-- [Nightwave Plaza](https://plaza.one/) [:and:](https://play.google.com/store/apps/details?id=one.plaza.nightwaveplaza) [:app:](https://apps.apple.com/us/app/nightwave-plaza/id1532678227) [:gh:](https://github.com/nightwaveplaza/plaza) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://plaza.one/plaza.m3u" /><Badge type="info" text="Vaporwave" />
-- [Patchwork Radio](https://patchwork.moekyun.me/radio) :s: <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://a4.asurahosting.com/public/patchworkarchive/playlist.m3u" /><Badge type="info" text="VTuber" />
+- [Nightwave Plaza](https://plaza.one/) [:and:](https://play.google.com/store/apps/details?id=one.plaza.nightwaveplaza) [:app:](https://apps.apple.com/us/app/nightwave-plaza/id1532678227) [:gh:](https://github.com/nightwaveplaza/plaza) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://plaza.one/plaza.m3u" /> <Badge type="info" text="Vaporwave" />
+- [Patchwork Radio](https://patchwork.moekyun.me/radio) :s: <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://a4.asurahosting.com/public/patchworkarchive/playlist.m3u" /> <Badge type="info" text="VTuber" />
 - [Sasalele Music Station](https://basic.pp.ua/) [:gh:](https://github.com/Mikeexe2/Sasalele-Music-Station) <Badge type="info" text="Aggregator" />
-- [Wapchan](https://radio.wapchan.org/public/wapfm) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://radio.wapchan.org/public/wapfm/playlist.pls" /><Badge type="info" text="City Pop" />
-- [Yumi Co. Radio](https://yumicoradio.net/) <Badge type="info" icon="i-material-symbols-download-2" text="256kbps" link="http://s1.yumicoradio.net:8000/stream.m3u" /><Badge type="info" text="City Pop" />
+- [Wapchan](https://radio.wapchan.org/public/wapfm) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://radio.wapchan.org/public/wapfm/playlist.pls" /> <Badge type="info" text="City Pop" />
+- [Yumi Co. Radio](https://yumicoradio.net/) <Badge type="info" icon="i-material-symbols-download-2" text="256kbps" link="http://s1.yumicoradio.net:8000/stream.m3u" /> <Badge type="info" text="City Pop" />
 
 ## Anime
 - [Anime(bits)](https://radio.animebits.moe/) <Badge type="info" icon="i-material-symbols-download-2" text="FLAC" link="https://radio.animebits.moe/m3u/stream192.mp3.m3u" />
@@ -175,8 +175,8 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 ## Doujin & Vocaloid
 
 - [Doujin Style](https://embed.radio.co/player/735ee7b.html) <Badge type="tip" icon="i-material-symbols-download-2" text="192kbps" link="https://streams.radio.co/s5ff57669c/listen.m3u" />
-- [Gensokyo Radio](https://gensokyoradio.net/playing/) <Badge type="tip" icon="i-material-symbols-download-2" text="256kbps" link="https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u" /><Badge type="info" text="Touhou" />
-- [Phate](https://phate.io/) <Badge type="tip" icon="i-material-symbols-download-2" text="192kbps" link="https://phate.io/phate.m3u" /><Badge type="info" text="Utaite" />
+- [Gensokyo Radio](https://gensokyoradio.net/playing/) <Badge type="tip" icon="i-material-symbols-download-2" text="256kbps" link="https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u" /> <Badge type="info" text="Touhou" />
+- [Phate](https://phate.io/) <Badge type="tip" icon="i-material-symbols-download-2" text="192kbps" link="https://phate.io/phate.m3u" /> <Badge type="info" text="Utaite" />
 - [Vocaloid Radio VRX](https://vrx.piro.moe/)
 - [Vocaloid Radio](https://www.vocaloidradio.com/) <tooltip>Stream URL (192kbps) : https://vocaloid.radioca.st/stream</tooltip>
 
@@ -403,7 +403,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 ### Foobar2000 add-ons
 - **Component**
   - [Coverflow](https://www.foobar2000.org/components/view/foo_chronflow)
-  - [Discord Rich Presence Integration](https://github.com/s0hv/foo_discord_rich) <Badge type="info" text="Catbox" link="https://github.com/realoksi/foobar2000-catbox" /><Badge type="info" text="Guide" link="https://s0hv.github.io/foo_discord_rich/" />
+  - [Discord Rich Presence Integration](https://github.com/s0hv/foo_discord_rich) <Badge type="info" text="Catbox" link="https://github.com/realoksi/foobar2000-catbox" /> <Badge type="info" text="Guide" link="https://s0hv.github.io/foo_discord_rich/" />
   - [Encoder Pack](https://www.foobar2000.org/encoderpack)
   - [ESLyric](https://github.com/ESLyric/release)
   - [OpenLyrics](https://www.foobar2000.org/components/view/foo_openlyrics) <Badge type="info" text="Guide" link="/guides/music/fb2klyrics" />

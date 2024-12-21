@@ -63,7 +63,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 
 ## Redrawing guides
 
-- Fascans Redrawing guide <Badge type="tip" text="Part 1" link="https://web.archive.org/web/20230523124036/https://fascans.com/featured/basic-redrawing-tutorials-part-1-using-clone-stamp-tool-effectively/" /><Badge type="tip" text="Part 2" link="https://web.archive.org/web/20230523123708/https://fascans.com/position/redrawer/basic-redrawing-tutorials-part-2-dealing-with-linesspeed-lines/" />
+- Fascans Redrawing guide <Badge type="tip" text="Part 1" link="https://web.archive.org/web/20230523124036/https://fascans.com/featured/basic-redrawing-tutorials-part-1-using-clone-stamp-tool-effectively/" /> <Badge type="tip" text="Part 2" link="https://web.archive.org/web/20230523123708/https://fascans.com/position/redrawer/basic-redrawing-tutorials-part-2-dealing-with-linesspeed-lines/" />
 - [Rain's Redraw Tutorials](https://web.archive.org/web/20140814131939/http://www.redhawkscans.com/showthread.php?7057-Rain-s-Redraw-Tutorials&p=112119&viewfull=1#post112119)
 
 
@@ -94,7 +94,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 - [Panel Cleaner](https://github.com/VoxelCubes/PanelCleaner)
 
 ## Typesetting
-- Font Finder <Badge type="tip" text="Font Spring" link="https://www.fontspring.com/matcherator" /><Badge type="tip" text="Font Squirrel" link="https://www.fontsquirrel.com/matcherator" /><Badge type="tip" text="MyFonts" link="https://www.myfonts.com/pages/whatthefont" /><Badge type="tip" text="What font is" link="https://www.whatfontis.com/" />
+- Font Finder <Badge type="tip" text="Font Spring" link="https://www.fontspring.com/matcherator" /> <Badge type="tip" text="Font Squirrel" link="https://www.fontsquirrel.com/matcherator" /> <Badge type="tip" text="MyFonts" link="https://www.myfonts.com/pages/whatthefont" /> <Badge type="tip" text="What font is" link="https://www.whatfontis.com/" />
 - [Quickstitch](https://github.com/quietkiro/quickstitch)
 - [Smart Stitch](https://github.com/MechTechnology/SmartStitch)
 - [Stitch Tool](https://github.com/Aeonss/StitchTool)
@@ -106,7 +106,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 ## Upscaling
 - [Real ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 - [SickZil-Machine](https://github.com/KUR-creative/SickZil-Machine)
-- [Waifu2X](https://github.com/nagadomi/waifu2x) <Badge type="tip" text="caffe" link="https://github.com/lltcggie/waifu2x-caffe" /><Badge type="tip" text="ncnn Vulkan" link="https://github.com/nihui/waifu2x-ncnn-vulkan" /><Badge type="tip" text="Ext GUI" link="https://github.com/AaronFeng753/Waifu2x-Extension-GUI" /><Badge type="tip" text="nunif" link="https://github.com/nagadomi/nunif" />
+- [Waifu2X](https://github.com/nagadomi/waifu2x) <Badge type="tip" text="caffe" link="https://github.com/lltcggie/waifu2x-caffe" /> <Badge type="tip" text="ncnn Vulkan" link="https://github.com/nihui/waifu2x-ncnn-vulkan" /> <Badge type="tip" text="Ext GUI" link="https://github.com/AaronFeng753/Waifu2x-Extension-GUI" /> <Badge type="tip" text="nunif" link="https://github.com/nagadomi/nunif" />
 - [chaiNNer](https://github.com/chaiNNer-org/chaiNNer)
 
 ## Others

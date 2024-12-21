@@ -27,7 +27,7 @@ outline: [1,2]
 - [Hentai World](https://hentaiworld.tv/)
 - [Hentaverse](https://hentaverse.com/)
 - [HMV Mania](https://hmvmania.com/) [:f:](https://archived.moe/h/thread/7621997/)
-- [Mucho Hentai](https://muchohentai.com/) <Badge type="info" text="Schedule" /><Badge type="info" text="PV" />
+- [Mucho Hentai](https://muchohentai.com/) <Badge type="info" text="Schedule" /> <Badge type="info" text="PV" />
 - [Oppai](https://oppai.stream/) <Badge type="info" text="Upscale" />
 - [Rule34video](https://rule34video.com/)
 - [Sakura Circle](https://sakuracircle.com/) <Badge type="info" text="DDL" />
@@ -35,7 +35,7 @@ outline: [1,2]
 ## Manga
 
 ### General
-- [E-Hentai](https://e-hentai.org/) :s: <Badge type="tip" text="Search Guide" link="https://e-hentaitagsearch.blogspot.com/" /><tooltip>It is the mangadex for doujins. Almost every doujin is first uploaded here before being scraped by other sites. Online viewer compresses the images but has the option to download stuff in original quality.<br>
+- [E-Hentai](https://e-hentai.org/) :s: <Badge type="tip" text="Search Guide" link="https://e-hentaitagsearch.blogspot.com/" /> <tooltip>It is the mangadex for doujins. Almost every doujin is first uploaded here before being scraped by other sites. Online viewer compresses the images but has the option to download stuff in original quality.<br>
 <a href="https://exhentai.org/">Exhentai</a> is it's sister site, which also hosts the more extreme and questionable content. You'll need an account on e-hentai to gain access.</tooltip>
 - [nHentai](https://nhentai.net/) <tooltip>Most popular. Decent UI but compresses images.</tooltip>
 - [Akuma](https://akuma.moe/) <tooltip>E-Hentai clone.</tooltip>
@@ -44,7 +44,7 @@ outline: [1,2]
 - [HentaiRead](https://hentairead.com/)
 - [Hitomi](https://hitomi.la/) <tooltip>Big library but difficult to navigate.</tooltip>
 - [Panda Backup](https://panda.chaika.moe/) <tooltip>Archive of stuff removed from E-Hentai due to DMCA complaints. Has some obscure stuff deleted on most sites.</tooltip>
-- [SchaleNetwork](https://schale.network/) <Badge text="Mirrors" link="https://rentry.org/schalenet" /><tooltip>Formerly Koharu, has Fakku/Irodori rips (official TLs).</tooltip>
+- [SchaleNetwork](https://schale.network/) <Badge text="Mirrors" link="https://rentry.org/schalenet" /> <tooltip>Formerly Koharu, has Fakku/Irodori rips (official TLs).</tooltip>
 - [Yabai](https://yabai.si/) <tooltip>E-Hentai clone.</tooltip>
 
 ### English-only
@@ -58,7 +58,7 @@ outline: [1,2]
 
 ### Aggregator
 - [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13)  <Badge type="info" text="DDL" />
-- [Batoto](https://battwo.com/v3x) <Badge type="tip" text="2" link="https://mangatoto.net/" /><Badge type="tip" text="3" link="https://mangatoto.com/" />
+- [Batoto](https://battwo.com/v3x) <Badge type="tip" text="2" link="https://mangatoto.net/" /> <Badge type="tip" text="3" link="https://mangatoto.com/" />
 - [Doujindesu](https://doujindesu.tv/) <Badge type="info" text="Raw" />
 - [Hiperdex](https://hiperdex.com/)
 - [Manga District](https://mangadistrict.com/) :s:
@@ -161,7 +161,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 
 ### Downloader
 - [Hakuneko](https://github.com/manga-download/haruneko) <Badge type="info" text="Multi" /> [:web:](https://hakuneko.download/)
-- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) <Badge type="info" text="Multi" /><Badge type="info" text="Anime" /> [:web:]()
+- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) <Badge type="info" text="Multi" /> <Badge type="info" text="Anime" /> [:web:]()
 - [HDoujin Downloader](https://doujindownloader.com/) <Badge type="info" text="Multi" />
 - [Hentai downloader](https://github.com/touno-io/hentai-downloader)<Badge type="info" text="E-Hentai" />
 - [E-Hentai Downloader](https://github.com/ccloli/E-Hentai-Downloader)<Badge type="info" text="E-Hentai" />
@@ -190,7 +190,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 ## AV
 
 ### Stream
-- [MissAV](https://missav.com/en) <Badge type="tip" text="2" link="https://myav.com/" /><Badge type="tip" text="3" link="https://thisav.com/" />
+- [MissAV](https://missav.com/en) <Badge type="tip" text="2" link="https://myav.com/" /> <Badge type="tip" text="3" link="https://thisav.com/" />
 - [JAVLibrary](https://www.javlibrary.com/en/)
 - [SexTB](https://sextb.net/)
 - [JavGuru](https://jav.guru/)
@@ -212,8 +212,8 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 
 - [r/hentai](https://old.reddit.com/r/hentai/) [:d:](https://discord.gg/rhentai)
 - [r/pornhwa](https://old.reddit.com/r/pornhwa/) [:d:](https://discord.gg/epjkRVp7gD)
-- [:f: /h/](https://boards.4chan.org/h/) :d: <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/h/" /><Badge type="tip" text="Archive" link="https://archived.moe/h/" />
-- [:f: /e/](https://boards.4chan.org/e/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/e/" /><Badge type="tip" text="Archive" link="https://archived.moe/e/" />
+- [:f: /h/](https://boards.4chan.org/h/) :d: <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/h/" /> <Badge type="tip" text="Archive" link="https://archived.moe/h/" />
+- [:f: /e/](https://boards.4chan.org/e/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/e/" /> <Badge type="tip" text="Archive" link="https://archived.moe/e/" />
 - [r/Artistic_Hentai](https://old.reddit.com/r/Artistic_Hentai/)
 - [r/Artistic_Ecchi](https://old.reddit.com/r/Artistic_Ecchi/)
 - [r/doujinshi](https://old.reddit.com/r/doujinshi/)

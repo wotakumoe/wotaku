@@ -107,7 +107,7 @@ If you have recommendations for good sites in your native language or want to re
 - [69xinshu](https://www.69xinshu.com/)
 - [8Comic](https://www.comicabc.com/)
 - [Antbyw](https://www.antbyw.com/)
-- [Baozimh.com](https://www.baozimh.com/) <Badge type="tip" text="2" link="https://www.kukuc.co/" /><Badge type="tip" text="3" link="https://www.webmota.com/" />
+- [Baozimh.com](https://www.baozimh.com/) <Badge type="tip" text="2" link="https://www.kukuc.co/" /> <Badge type="tip" text="3" link="https://www.webmota.com/" />
 - [Baozimh.org](https://baozimh.org/)
 - [Colamanga](https://www.colamanga.com/)
 - [Copymanga](https://copymanga.tv/) <Badge type="danger" text="18+" />
@@ -137,7 +137,7 @@ If you have recommendations for good sites in your native language or want to re
 
 | Category | Resources |
 |-|-|
-| Anime | [AGETV](https://github.com/muedsa/AGETV) <br> [Ani](https://github.com/open-ani/ani) <br> [Anime](https://github.com/lanlinju/Anime) <br> [Animeko](https://myani.org/) [:gh:](https://github.com/open-ani/animeko) <br> [DMZJ](https://github.com/xiaoyaocz/flutter_dmzj) <br> [Kazumi](https://github.com/Predidit/Kazumi) <br> [Mediabox](https://github.com/RyensX/MediaBox) <br> [Miru App](https://miru.js.org/) <Badge text="Manga" /><br> [Neko Anime](https://github.com/xioneko/neko-anime) <br> [oneAnime](https://github.com/Predidit/oneAnime) |
+| Anime | [AGETV](https://github.com/muedsa/AGETV) <br> [Ani](https://github.com/open-ani/ani) <br> [Anime](https://github.com/lanlinju/Anime) <br> [Animeko](https://myani.org/) [:gh:](https://github.com/open-ani/animeko) <br> [DMZJ](https://github.com/xiaoyaocz/flutter_dmzj) <br> [Kazumi](https://github.com/Predidit/Kazumi) <br> [Mediabox](https://github.com/RyensX/MediaBox) <br> [Miru App](https://miru.js.org/) <Badge text="Manga" /> <br> [Neko Anime](https://github.com/xioneko/neko-anime) <br> [oneAnime](https://github.com/Predidit/oneAnime) |
 | Manga | [PasteMangaX](https://github.com/crowforkotlin/pastemangax) <br> [kobi](https://github.com/niuhuan/kobi) <br> [MangaReader](https://github.com/youniaogu/MangaReader) <br> [Venra](https://github.com/venera-app/venera) |
 | Novels | [Hikari Novel](https://github.com/15dd/wenku8reader) <br> [Legado](https://github.com/gedoor/legado) <br> [LightNovelReader](https://github.com/dmzz-yyhyy/LightNovelReader) |
 | Tracker | [Bangumi](https://github.com/czy0729/Bangumi) <br> [Bangumi for Android](https://github.com/xiaoyvyv/bangumi) <br> [Bangumi MX](http://bgmx.mysxl.cn/) [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi) |
@@ -334,7 +334,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 :::
 
 - **Reader**
-  - [KL Manga](https://klz9.com/idx) <Badge type="tip" text="2" link="https://hachiraw.net/" /><Badge type="tip" text="3" link="https://klto9.com/" /><Badge type="tip" text="4" link="https://jestful.net/" />
+  - [KL Manga](https://klz9.com/idx) <Badge type="tip" text="2" link="https://hachiraw.net/" /> <Badge type="tip" text="3" link="https://klto9.com/" /> <Badge type="tip" text="4" link="https://jestful.net/" />
   - [MangaFire](https://mangafire.to/home)
   - [MangaReader](https://mangareader.to/home)
   - [Manga Mate](https://manga-mate.org/)
@@ -349,7 +349,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
   - [Twicomi](https://twicomi.com/)
   - [We Love Manga](https://welovemanga.one/) <Badge type="tip" text="2" link="https://manga1000.top/" />
 - **Torrent Download**
-  - [Nyaa](https://nyaa.si/) :s: <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="4" link="https://nyaa.land/" />
+  - [Nyaa](https://nyaa.si/) :s: <Badge type="info" text="2" link="https://nyaa.iss.one/" /> <Badge type="info" text="3" link="https://nyaa.iss.ink/" /> <Badge type="info" text="4" link="https://nyaa.land/" />
 - **Direct Download**
   - [A-Z Manga](https://www.a-zmanga.net/) :material-symbols-book-5::ic-outline-menu-book::host:
   - [Asia Media Blog](https://asiamediablog.com/media/comic/manga/) :material-symbols-book-5::ic-outline-menu-book::host:
@@ -357,7 +357,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
   - [Comic 77](https://comic77.com/) :host:
   - [Comics 888](https://comics888.com/) :material-symbols-book-5::ic-outline-menu-book::host:
   - [DL-Raw](https://dl-raw.se/) :material-symbols-book-5::ic-outline-menu-book::host:
-  - [DL Raw net](https://dlraw.net/category/raw-manga/) <Badge type="tip" text="2" link="https://manga-zip.info/category/raw-manga/" /><Badge type="tip" text="3" link="https://13dl.me/home.i1/" /> :material-symbols-book-5::ic-outline-menu-book::host:
+  - [DL Raw net](https://dlraw.net/category/raw-manga/) <Badge type="tip" text="2" link="https://manga-zip.info/category/raw-manga/" /> <Badge type="tip" text="3" link="https://13dl.me/home.i1/" /> :material-symbols-book-5::ic-outline-menu-book::host:
   - [DL Zip](https://dl-zip.com/) :material-symbols-book-5::ic-outline-menu-book::host:
   - [JP DDL](https://jpddl.com/manga) :host:
   - [Manga Zone](http://www.manga-zone.org/) :material-symbols-book-5::host:
@@ -374,7 +374,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 ## Korean
 
 ### Anime
-- [aniabout](https://aniabout.com/) <Badge type="info" text="2" link="https://aniweek.com/" /><Badge type="info" text="3" link="https://c.aniwolf.com/" /><Badge type="info" text="4" link="https://a06.kotbc2.com/" /><Badge type="info" text="5" link="https://a24.ohli24.com/" /><Badge type="info" text="6" link="https://ohlipia.com/" />
+- [aniabout](https://aniabout.com/) <Badge type="info" text="2" link="https://aniweek.com/" /> <Badge type="info" text="3" link="https://c.aniwolf.com/" /> <Badge type="info" text="4" link="https://a06.kotbc2.com/" /> <Badge type="info" text="5" link="https://a24.ohli24.com/" /> <Badge type="info" text="6" link="https://ohlipia.com/" />
 - [Anilife](https://anilife.live/)
 - [Anissia](https://anissia.net/) <tooltip>Subtitle files only, you need to get the episodes from another source.</tooltip>
 
@@ -382,14 +382,14 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [BlackToon](https://blacktoon.live/) <Badge type="danger" text="18+" />
 - [Manatoki](https://www.xn--h10b2b940bwzy.store/) <Badge type="danger" text="18+" />
 - [Newtoki](https://www.ntoki.info/) <Badge type="danger" text="18+" />
-- [OKToon](https://oktoon.com/) <Badge type="danger" text="18+" /><tooltip>Needs Korean VPN server.</tooltip>
-- [TOONKOR](https://www.xn--yq5bv6mzmcca.live/) <Badge type="info" text="2" link="https://funbe451.com/%EC%9B%B9%ED%88%B0" /><Badge type="danger" text="18+" />
+- [OKToon](https://oktoon.com/) <Badge type="danger" text="18+" /> <tooltip>Needs Korean VPN server.</tooltip>
+- [TOONKOR](https://www.xn--yq5bv6mzmcca.live/) <Badge type="info" text="2" link="https://funbe451.com/%EC%9B%B9%ED%88%B0" /> <Badge type="danger" text="18+" />
 - [Wolf](https://nicelink22.com/) <Badge type="danger" text="18+" />
 
 ### Others
 - [Booktoki](https://www.xn--h10bx0wsvp.org/)
 - [GoPlay](https://goplay.su/) <Badge type="tip" text="2" link="https://goplay.ml/" /> <Badge type="tip" text="3" link="https://goplay.anontpp.com/" /> [:d:](https://discord.gg/yY2P3DQR8S)
-- [WatchaKR](https://m82.watchakr.com/) <Badge type="info" text="2" link="https://m133.kormovie.com/" /><Badge type="info" text="3" link="https://m06.kotbc2.com/" /><Badge type="info" text="4" link="https://m82.kowatcha.com/" />
+- [WatchaKR](https://m82.watchakr.com/) <Badge type="info" text="2" link="https://m133.kormovie.com/" /> <Badge type="info" text="3" link="https://m06.kotbc2.com/" /> <Badge type="info" text="4" link="https://m82.kowatcha.com/" />
 
 ### Software
 

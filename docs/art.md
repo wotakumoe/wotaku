@@ -24,7 +24,7 @@ outline: [1,2]
 - [DeviantArt](https://www.deviantart.com/)
 - [Illust Days](https://illust.daysneo.com/)
 - [Instagram](https://www.instagram.com/)
-- [Misskey.io](https://misskey.io/) <Badge type="tip" text="Others" link="https://misskey-hub.net/en/servers/" /><tooltip>Registrations are currently limited to Japan only.</tooltip>
+- [Misskey.io](https://misskey.io/) <Badge type="tip" text="Others" link="https://misskey-hub.net/en/servers/" /> <tooltip>Registrations are currently limited to Japan only.</tooltip>
 - [Newgrounds](https://www.newgrounds.com/art)
 - [Nico Nico Seiga](https://seiga.nicovideo.jp/)
 - [Pixiv](https://www.pixiv.net) :s:
@@ -153,8 +153,9 @@ outline: [1,2]
 ### Downloaders
 - [Cultured Downloader](https://github.com/KJHJason/Cultured-Downloader) :win::app::lin:
 - [gallery-dl](https://github.com/mikf/gallery-dl) :s::win::lin:
-- [Hydrus network](https://hydrusnetwork.github.io/hydrus/) :win::app::lin: <Badge type="info" text="Scripts" link="https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts"/>
-- [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) :win::app::lin:
+- [Hydrus network](https://hydrusnetwork.github.io/hydrus/) :win::app::lin: [:gh:](https://github.com/hydrusnetwork/hydrus) <Badge type="info" text="Scripts" link="https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts"/>
+- [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) :win::app::lin: [:gh:](https://github.com/Bionus/imgbrd-grabber)
+- [Media Downloader](https://github.com/mhogomchungu/media-downloader) :win::app::lin:
 - [Pixiv FANBOX Downloader](https://github.com/hareku/fanbox-dl) :win::app:
 - [PixivUtil2](https://github.com/Nandaka/PixivUtil2) :win:
 
