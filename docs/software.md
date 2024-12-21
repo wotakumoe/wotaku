@@ -353,7 +353,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 |-|-|
 | [Jellyfin](https://jellyfin.org/) | [Jellyfin MPV Shim](https://github.com/jellyfin/jellyfin-mpv-shim) <br> [Jellyfin-RPC](https://github.com/Radiicall/jellyfin-rpc) |
 | [Kavita](https://www.kavitareader.com/) | [komf](https://github.com/Snd-R/komf) <Badge type="tip" text="Script" link="https://github.com/Snd-R/komf-userscript" /> |
-| [Komga](https://komga.org/) | [komf](https://github.com/Snd-R/komf) <Badge type="tip" text="Script" link="https://github.com/Snd-R/komf-userscript" />  <br> [Komelia](https://github.com/Snd-R/Komelia) :and::win::lin: |
+| [Komga](https://komga.org/) | [Komelia](https://github.com/Snd-R/Komelia) :and::win::lin: <br> [komf](https://github.com/Snd-R/komf) <Badge type="tip" text="Script" link="https://github.com/Snd-R/komf-userscript" /> <br> [Komga Bulk Download Helper](https://github.com/darthmooguy/komga-bulk-download-helper) :js: |
 | [LANraragi](https://sugoi.gitbook.io/lanraragi/v/dev) | [Ichaival](https://github.com/Utazukin/Ichaival) :and: <br> [LANreader](https://github.com/Doraemoe/LANreader) :app: <br> [LRReader](https://github.com/Guerra24/LRReader) :win: |
 | [Plex](https://www.plex.tv/) | [MPV Shim for Plex](https://github.com/iwalton3/plex-mpv-shim) <br> [Plex to AniList Sync](https://github.com/RickDB/PlexAniSync) <br> [PlexAniSync-Mappings](https://github.com/mizz141/PlexAniSync-Mappings) |
 
