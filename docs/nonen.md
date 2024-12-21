@@ -526,7 +526,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 ### Anime
 
 - **Stream**
-  - [MonosChinos](https://monoschinos2.com/)
   - [AnimeFLV](https://www3.animeflv.net/)
   - [Latanime](https://latanime.org/) <Badge type="info" text="Dub" />
   - [AnimeOnlineNinja](https://ww3.animeonline.ninja/) <Badge type="info" text="Dub" />
