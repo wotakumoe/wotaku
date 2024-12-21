@@ -1,20 +1,5 @@
 /**
-*  Copyright (c) 2024 taskylizard
-*
-*  Licensed under the Apache License, Version 2.0 (the "License");
-*  you may not use this file except in compliance with the License.
-*  You may obtain a copy of the License at
-*
-*  http://www.apache.org/licenses/LICENSE-2.0
-*
-*  Unless required by applicable law or agreed to in writing, software
-*  distributed under the License is distributed on an "AS IS" BASIS,
-*  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-*  See the License for the specific language governing permissions and
-*  limitations under the License.
-*/
-/**
- *  Copyright (c) taskylizard. All rights reserved.
+ *  Copyright (c) 2024 taskylizard
  *
  *  Licensed under the Apache License, Version 2.0 (the "License");
  *  you may not use this file except in compliance with the License.
@@ -28,7 +13,6 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
  */
-
 import { fetcher } from 'itty-fetcher'
 
 // Look inside tbe docs directory
@@ -95,7 +79,6 @@ export default defineEventHandler(async (event) => {
     }
   }
 
-  // biome-ignore lint/correctness/noUndeclaredVariables: <explanation>
   appendResponseHeader(event, 'content-type', 'text/markdown;charset=utf-8')
   return body
 })

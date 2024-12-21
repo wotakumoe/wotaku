@@ -1,0 +1,40 @@
+/**
+ * Component: Element Plus
+ */
+body {
+  --el-color-primary: var(--vp-c-brand-1)
+}
+
+.vp-doc a {
+  text-decoration: none
+
+  &:hover {
+    text-decoration: underline
+    text-underline-offset: 2px
+  }
+}
+
+.navigation {
+  color: var(--vp-c-green-2)
+  font-weight: 600
+
+  &:hover {
+    color: var(--vp-c-green-1)
+    cursor: default
+  }
+
+  svg,
+  span.name {
+    vertical-align: middle // Align both SVG and <span> vertically
+    position: relative
+    bottom: 1px
+  }
+
+  svg {
+    fill: currentColor
+    height: 1em
+    width: 1em
+    display: inline-block
+    margin-right: 4px
+  }
+}

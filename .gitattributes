@@ -1,1 +1,7 @@
-* text=auto eol=lf
+* text=auto eol=lf whitespace=tab-in-indent,trailing-space,tabwidth=2 linguist-detectable
+
+*.vue linguist-language=Vue
+*.ts linguist-language=TypeScript
+*.css linguist-language=CSS
+*.html linguist-language=HTML
+*.styl linguist-language=Stylus

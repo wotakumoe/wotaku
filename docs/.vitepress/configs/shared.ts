@@ -1,18 +1,18 @@
 /**
-*  Copyright (c) 2024 taskylizard
-*
-*  Licensed under the Apache License, Version 2.0 (the "License");
-*  you may not use this file except in compliance with the License.
-*  You may obtain a copy of the License at
-*
-*  http://www.apache.org/licenses/LICENSE-2.0
-*
-*  Unless required by applicable law or agreed to in writing, software
-*  distributed under the License is distributed on an "AS IS" BASIS,
-*  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-*  See the License for the specific language governing permissions and
-*  limitations under the License.
-*/
+ *  Copyright (c) 2024 taskylizard
+ *
+ *  Licensed under the Apache License, Version 2.0 (the "License");
+ *  you may not use this file except in compliance with the License.
+ *  You may obtain a copy of the License at
+ *
+ *  http://www.apache.org/licenses/LICENSE-2.0
+ *
+ *  Unless required by applicable law or agreed to in writing, software
+ *  distributed under the License is distributed on an "AS IS" BASIS,
+ *  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ *  See the License for the specific language governing permissions and
+ *  limitations under the License.
+ */
 import type { DefaultTheme, UserConfig } from 'vitepress'
 import { generateImages, generateMeta } from '../hooks'
 import { headersPlugin } from '../markdown/headers'
@@ -33,6 +33,7 @@ import {
 } from '@nolebase/vitepress-plugin-git-changelog/vite'
 import { fileURLToPath, URL } from 'node:url'
 import UnoCSS from 'unocss/vite'
+import ElementPlus from 'unplugin-element-plus/vite'
 
 export const hostname: string = 'https://wotaku.wiki'
 export const excludedFiles = ['t.md']
@@ -422,6 +423,7 @@ export const shared: UserConfig<DefaultTheme.Config> = {
     },
     ssr: {
       noExternal: [
+        'element-plus',
         '@nolebase/vitepress-plugin-enhanced-readabilities',
         '@nolebase/vitepress-plugin-page-properties',
         '@nolebase/vitepress-plugin-git-changelog',
@@ -430,6 +432,7 @@ export const shared: UserConfig<DefaultTheme.Config> = {
       ]
     },
     plugins: [
+      ElementPlus({}),
       PageProperties(),
       PagePropertiesMarkdownSection(),
       GitChangelog({
