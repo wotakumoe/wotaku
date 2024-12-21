@@ -554,15 +554,17 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 
 ## Others
 - **Info**
-  - [CMRO](https://cmro.travis-starnes.com/)
   - [Comichron](https://www.comichron.com/index.php)
   - [Comic Book Herald](https://www.comicbookherald.com/)
   - [Comic Book Reading Orders](https://comicbookreadingorders.com/)
   - [Comic Book Treasury](https://www.comicbooktreasury.com/)
   - [Comic Shop Locator](https://www.comicshoplocator.com/)
   - [Comic Watch](https://comic-watch.com/)
+  - [Complete Marvel Reading Order](https://cmro.travis-starnes.com/)
   - [Grand Comics Database](https://www.comics.org/)
+  - [How To Love Comics](https://www.howtolovecomics.com/)
   - [Marvel Guides](https://marvelguides.com/)
+  - [Official Marvel Guides](https://www.marvel.com/comics/guides)
   - [The Comics Journal](https://www.tcj.com/)
 - **Tools**
   - [Kapowarr](https://casvt.github.io/Kapowarr/) [:gh:](https://github.com/Casvt/Kapowarr)
