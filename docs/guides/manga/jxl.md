@@ -23,6 +23,7 @@ outline: [2,3]
 - [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) :win:
 - [YACReader](https://www.yacreader.com/) :win::app::lin: :warning: [:gh:](https://github.com/YACReader/yacreader) <tooltip>For some lossy original images it won't work. Kinda random.</tooltip>
 - [XnView MP](https://www.xnview.com/en/xnviewmp/) :win::app::lin::cs:
+- [Picview](https://picview.org/) :win: [:gh:](https://github.com/Ruben2776/PicView/)
 - [Bandiview](https://en.bandisoft.com/bandiview/) :win::paid::cs:
 - [Komelia](https://github.com/Snd-R/Komelia) :win::lin: <Badge type="info" text="Komga" />
 - [MComix](https://sourceforge.net/projects/mcomix/files/) :win::lin: :warning: <tooltip>Doesn't work when the source is lossy image</tooltip>
