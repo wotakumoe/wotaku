@@ -33,7 +33,6 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
   - [Dantotsu](https://dantotsuapp.netlify.app/) [:gh:](https://github.com/rebelonion/Dantotsu) [:e:](/guides/tech/repo)
   - [AnimeTV](https://amarullz.com/) [:gh:](https://github.com/amarullz/AnimeTV)
 - **iOS**
-  - [Ryu](https://github.com/cranci1/Ryu) [:tf:](https://testflight.apple.com/join/Sxyg9JXF)
   - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - **PC**
   - [Miru](https://miru.watch/) :s::win::app::lin::mag: [:gh:](https://github.com/ThaUnknown/miru/)

@@ -117,7 +117,6 @@ Check out [**CFW's iOS guide**](https://ios.cfw.guide/) & [**The Apple Wiki**](h
 :::
 
 ## Anime Streaming
-- [Ryu](https://github.com/cranci1/Ryu) [:tf:](https://testflight.apple.com/join/Sxyg9JXF)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 
 ## Manga Readers
