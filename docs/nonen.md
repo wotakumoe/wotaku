@@ -334,7 +334,8 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 :::
 
 - **Reader**
-  - [KL Manga](https://klz9.com/idx) <Badge type="tip" text="2" link="https://hachiraw.net/" /> <Badge type="tip" text="3" link="https://klto9.com/" /> <Badge type="tip" text="4" link="https://jestful.net/" />
+  - [FireManga](https://www.firemanga.com/)
+  - [KL Manga](https://klz9.com/idx) <Badge type="tip" text="2" link="https://klto9.com/" /><Badge type="tip" text="3" link="https://jestful.net/" />
   - [MangaFire](https://mangafire.to/home)
   - [MangaReader](https://mangareader.to/home)
   - [Manga Mate](https://manga-mate.org/)
@@ -345,7 +346,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
   - [Raw Otaku](https://rawotaku.com/home/) <Badge type="tip" text="2" link="https://jmanga.ac/home/" />
   - [RawUwU](https://rawuwu.com/) <Badge type="tip" text="2" link="https://rawdevart.art/" />
   - [Sen Manga](https://raw.senmanga.com/)
-  - [Spoilerplus](https://spoilerplus.tv/) <tooltip>Image host has geo restriction. So won't load manga images for every region. Tested region is US.</tooltip>
+  - [Spoilerplus](https://spoilerplus.tv/) <tooltip>Image host is geo-restricted, so won't load pages in every region. Tested for the US.</tooltip>
   - [Twicomi](https://twicomi.com/)
   - [We Love Manga](https://welovemanga.one/) <Badge type="tip" text="2" link="https://manga1000.top/" />
 - **Torrent Download**
