@@ -144,6 +144,7 @@ You have to add the iconpack manually in `docs\.vitepress\configs\emoji.ts`. Oth
 | :cb: | `:cb:` | Codeberg |
 | :kde: | `:kde:` | KDE |
 | :gn: | `:gn:` | GNOME |
+| :gt: | `:gt:` | Gitea |
 | :cs: | `:cs:` | Closed Source |
 
 == Platform

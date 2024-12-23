@@ -76,6 +76,7 @@ const aliases: Record<string, string> = {
   cb: 'simple-icons-codeberg',
   kde: 'simple-icons-kde',
   gn: 'simple-icons-gnome',
+  gt: 'simple-icons-gitea',
   cs: 'material-symbols-lock-outline',
 
   // Platform

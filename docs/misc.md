@@ -74,7 +74,7 @@ outline: [1,2]
 - [Bangumi List](https://bgmlist.com/) :flag-japan::flag-china: [:gh:](https://github.com/wxt2005/bangumi-list-v3) <tooltip>Maintained by chinese devs, but lists JP schedule too.</tooltip>
 - [Kansou](https://www.kansou.me/) :flag-japan:
 - [Livechart](https://www.livechart.me/schedule) :s: [:rss:](https://www.livechart.me/pages/rss)
-- [Notify.moe](https://notify.moe/calendar) [:gh:](https://github.com/animenotifier/notify.moe)
+- [Notify.moe](https://notify.moe/calendar) [:gt:](https://git.akyoto.dev/web/notify.moe)
 - [Senpai.moe](https://www.senpai.moe/)
 - [Syoboi Calendar](https://cal.syoboi.jp/) :flag-japan: [:rss:](https://docs.cal.syoboi.jp/spec/rss.php/)
 - [Moon Phase](https://m-p.sakura.ne.jp/) :flag-japan:
