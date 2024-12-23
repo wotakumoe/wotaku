@@ -303,16 +303,16 @@ export const shared: UserConfig<DefaultTheme.Config> = {
     ['meta', { name: 'theme-color', content: '#56b4fc' }],
     ['meta', { name: 'og:type', content: 'website' }],
     ['meta', { name: 'og:locale', content: 'en' }],
-    ['link', { rel: 'icon', href: '/asset/inaread.png' }],
+    ['link', { rel: 'icon', href: '/asset/ame.png' }],
     // PWA
     [
       'link',
-      { rel: 'icon', href: '/asset/inaread.png', type: 'image/svg+xml' }
+      { rel: 'icon', href: '/asset/ame.png', type: 'image/svg+xml' }
     ],
-    ['link', { rel: 'alternate icon', href: '/asset/inaread.png' }],
+    ['link', { rel: 'alternate icon', href: '/asset/ame.png' }],
     [
       'link',
-      { rel: 'mask-icon', href: '/asset/inaread.png', color: '#56b4fc' }
+      { rel: 'mask-icon', href: '/asset/ame.png', color: '#56b4fc' }
     ],
     // prettier-ignore
     [
@@ -327,7 +327,7 @@ export const shared: UserConfig<DefaultTheme.Config> = {
       'link',
       {
         rel: 'apple-touch-icon',
-        href: '/asset/inaread.png',
+        href: '/asset/ame.png',
         sizes: '192x192'
       }
     ],
@@ -398,7 +398,7 @@ export const shared: UserConfig<DefaultTheme.Config> = {
       },
       provider: 'local'
     },
-    logo: { src: '/asset/inaread.png' },
+    logo: { src: '/asset/ame.png' },
     sidebar,
     nav,
     socialLinks: [
