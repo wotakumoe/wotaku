@@ -1,11 +1,11 @@
 ---
 title: JXL Manga Readers
-description: Manga readers with JXL support
-customDescription: Manga readers with JXL support
+description: Manga readers with JPEG XL / JXL support for Android, iOS & PC
+customDescription: Manga readers with JPEG XL / JXL support for Android, iOS & PC
 outline: [2,3]
 ---
 
-<GradientCard title="JXL Manga Readers" description="Manga readers with JXL support for Android, iOS & PC" theme="turquoise" variant="thin"/>
+<GradientCard title="JXL Manga Readers" description="Manga readers with JPEG XL / JXL support for Android, iOS & PC" theme="turquoise" variant="thin"/>
 
 ## Readers
 
@@ -20,14 +20,15 @@ outline: [2,3]
 - [Panels](https://apps.apple.com/us/app/panels-comic-reader/id1236567663) :fm::cs:
 
 ### PC
-- [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) :win:
-- [YACReader](https://www.yacreader.com/) :win::app::lin: :warning: [:gh:](https://github.com/YACReader/yacreader) <tooltip>For some lossy original images it won't work. Kinda random.</tooltip>
-- [XnView MP](https://www.xnview.com/en/xnviewmp/) :win::app::lin::cs:
-- [Picview](https://picview.org/) :win: [:gh:](https://github.com/Ruben2776/PicView/)
-- [Bandiview](https://en.bandisoft.com/bandiview/) :win::paid::cs:
-- [Komelia](https://github.com/Snd-R/Komelia) :win::lin: <Badge type="info" text="Komga" />
-- [MComix](https://sourceforge.net/projects/mcomix/files/) :win::lin: :warning: <tooltip>Doesn't work when the source is lossy image</tooltip>
-
+- **Dedicated**
+  - [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) :win:
+  - [YACReader](https://www.yacreader.com/) :win::app::lin: :warning: [:gh:](https://github.com/YACReader/yacreader) <tooltip>For some lossy original images it won't work. Kinda random.</tooltip>
+  - [Komelia](https://github.com/Snd-R/Komelia) :win::lin: <Badge type="info" text="Komga" />
+  - [MComix](https://sourceforge.net/projects/mcomix/files/) :win::lin: :warning: <tooltip>Doesn't work when the source is lossy image</tooltip>
+- **Photo Viewer**
+  - [XnView MP](https://www.xnview.com/en/xnviewmp/) :win::app::lin::cs:
+  - [Picview](https://picview.org/) :win: [:gh:](https://github.com/Ruben2776/PicView/)
+  - [Bandiview](https://en.bandisoft.com/bandiview/) :win::paid::cs:
 
 ## Guide
 
