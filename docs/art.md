@@ -205,6 +205,7 @@ outline: [1,2]
 - [Pixiv Plus](https://greasyfork.org/en/scripts/34153)
 - [Pixiv Popularity Sorter/Filter](https://greasyfork.org/en/scripts/497015)
 - [Pixiv Preview](https://greasyfork.org/en/scripts/39387) [:gh:](https://github.com/NightLancer/PixivPreview)
+- [Pixiv Overhaul](https://github.com/wlm3201/Pixiv-Overhaul)
 - [Pixiv Ranking Wideveiw](https://greasyfork.org/en/scripts/449227) [:gh:](https://github.com/asadahimeka/userscripts)
 - [ppixiv for Pixiv](https://greasyfork.org/en/scripts/370418) [:gh:](https://github.com/ppixiv/ppixiv)
 
