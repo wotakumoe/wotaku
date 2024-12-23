@@ -230,6 +230,7 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
                 <li>
                   Sites that
                   <ul>
+                    <li>imitate other websites</li>
                     <li>are very small in size</li>
                     <li>are mostly paywalled</li>
                     <li>sell unofficial merch</li>
@@ -243,12 +244,7 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
                 </li>
                 <li>Sites focused on lolicon or furry stuff</li>
                 <li>
-                  Sites listed in
-                  <a
-                    href="https://fmhy.net/unsafesites"
-                    class="text-primary text-underline font-semibold"
-                    >FMHY unsafe list</a
-                  >
+                  Sites found in the Unsafe lists of <a href="https://fmhy.net/unsafesites" class="text-primary text-underline font-semibold">FMHY</a>, <a href="https://megathread.pages.dev/unsafe" class="text-primary text-underline font-semibold">Privateersclub</a> and/or <a href="https://rentry.org/pgames#untrusted-sites" class="text-primary text-underline font-semibold">r/PiratedGames</a>.
                 </li>
               </ol>
             </details>
@@ -263,7 +259,7 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
                   Sites that only use hosters such Katfile, Nitroflare, DDownload and Rapidgator
                 </li>
                 <li>Sites that aren't primarily for anime but have it as a side product</li>
-                <li>Sites scraping only one source, such as gogo or zoro</li>
+                <li>Sites scraping only one source, such as HiAnime or Anivibe</li>
                 <li>Things that are too niche and/or have a small userbase</li>
               </ol>
             </details>
