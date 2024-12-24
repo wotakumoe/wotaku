@@ -539,7 +539,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
   - [Mundo Donghua](https://www.mundodonghua.com/)
   - [Tio Donghua](https://tiodonghua.com/)
 - **Download**
-  - [Japan Paw](https://japan-paw.net/) [:d:](https://discord.gg/gc7HaE5V)
+  - [Japan Paw](https://japan-paw.net/)
   - [SphinxAnime](https://sphinxanime.com/)
   - [Nekomitai](https://nekomitai.net/)
   - [Ivanime](https://www.ivanime.com/)
