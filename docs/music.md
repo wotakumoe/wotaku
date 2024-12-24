@@ -420,7 +420,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [Nicotine+](https://nicotine-plus.org/) :win::app::lin::mdi-lan-pending:<tooltip>Direct peer-to-peer sharing network, primarily used for music</tooltip>
 - [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD)
 - [Soggfy](https://github.com/Rafiuth/Soggfy) :win::app::lin:
-- [Spotify AAC Downloader](https://github.com/glomatico/spotify-aac-downloader)
+- [Votify](https://github.com/glomatico/votify)
 - [Zotify](https://zotify.xyz/)
 
 
