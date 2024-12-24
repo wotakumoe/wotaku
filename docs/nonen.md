@@ -262,9 +262,11 @@ If you have recommendations for good sites in your native language or want to re
 
 ### Anime
 
-- **Stream**
-  - [Indonesian Fansubbers' Index](https://www.fansub.id/home)
+- **Info**
+  - [Best Release Indonesia](https://best-release.koisuru.web.id/) [:gh:](https://github.com/Aruh1/best-release-indonesia)
   - [Database Tontonan Wibu Indonesia](https://db.silveryasha.id/)
+  - [Indonesian Fansubbers' Index](https://www.fansub.id/home)
+- **Stream**
   - [AnimeSail](https://154.26.137.28/)
   - [Anoboy](https://anoboy.ch/)
   - [Kaizonime](https://koranime.us.to/)
@@ -275,6 +277,7 @@ If you have recommendations for good sites in your native language or want to re
   - [Samehadaku](https://samehadaku.email/)
   - [ZANIME](https://anime.uhuyy.dev/) [:gh:](https://github.com/Fauzanmhr/zannime)
 - **DDL**
+  - [Koisuru](https://db.koisuru.web.id/0:/) <tooltip>Subtitle files only, you need to get the episodes from another source.</tooltip>
   - [Kusonime](https://kusonime.com/)
   - [Meownime](https://m.meownime.ai/)
 
@@ -294,7 +297,7 @@ If you have recommendations for good sites in your native language or want to re
 ## Italian
 
 ### Anime
-- [Anime Saturn](https://www.animesaturn.cx/)
+- [AnimeSaturn](https://www.anisaturn.com/) <Badge type="info" text="Proxies" link="https://www.animesaturn.me/" />
 - [AnimeUnity](https://www.animeunity.to/)
 - [AnimeWorld](https://www.animeworld.so/)
 - [One Piece Power](https://onepiecepower.com/anime18/lista-anime)
