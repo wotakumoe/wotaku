@@ -212,9 +212,9 @@ If you have recommendations for good sites in your native language or want to re
 - [Animexx](https://www.animexx.de/)
 - [aniSearch](https://www.anisearch.de/forum/categories)
 - [Baka Board](https://baka-bewerbung.me/) <Badge type="info" text="Usenet" />
-- [Data-Load](https://www.data-load.me/) :ddl::acc::host:
+- [Data-Load](https://www.data-load.me/) :ddl::host::acc:
 - [littleAkiba](https://www.littleakiba.ch/)
-- [myGully](https://mygully.com/) :ddl::acc::host:
+- [myGully](https://mygully.com/) :ddl::host::acc:
 - [Pirateboard](https://www.pirateboard.net/)
 - [Proxer](https://proxer.me/)
 
