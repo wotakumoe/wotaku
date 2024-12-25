@@ -17,8 +17,6 @@ customDescription: Adblocking Solutions for every device
   - [Brave](https://play.google.com/store/apps/details?id=com.brave.browser)
   - [Cromite](https://github.com/uazo/cromite)
   - [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
-  - [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)
-  - [Mull](https://github.com/Divested-Mobile/Mull-Fenix)
 
 
 ## Browser
