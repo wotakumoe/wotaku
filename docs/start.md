@@ -65,9 +65,6 @@ Wotaku fetches icons from [**Icones**](https://icones.js.org/). All the added ic
 - In-line -> :package name-icon name:
 - Inside button, page icon -> :i-package name-icon name:
 
-Examples:
-- `:win:` -> :win:
-- `<Badge type="tip" icon="i-x" text="Twitter" link="https://x.com/animecorner_ac" />` ->  <Badge type="tip" icon="i-x" text="Twitter" link="https://x.com/animecorner_ac" />
 
 ![](/iconname.png)
 
@@ -86,14 +83,6 @@ You have to add the iconpack manually in `docs\.vitepress\configs\emoji.ts`. Oth
 
 
 ### Sorting
-
-| Description | Icon |
-|-|-|
-| Favourite | :s: |
-| System | :and::win::app::lin::ff::cr::web: |
-| Type | :strm::ddl::mag::lcl: |
-| Price | :fm::paid: |
-| Source | :cs::gh::gl::cb: |
 
 **Rules**
 1. There will be no space between icons
@@ -114,6 +103,7 @@ You have to add the iconpack manually in `docs\.vitepress\configs\emoji.ts`. Oth
 | :and: | `:and:` | Android |
 | :app: | `:app:` | iOS / iPadOS / macOS |
 | :lin: | `:lin:` | Linux |
+| :cmd: | `:cmd:` | CLI / TUI |
 | :ff: | `:ff:` | Firefox |
 | :cr: | `:cr:` | Chromium |
 | :web: | `:web:` | Web |

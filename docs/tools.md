@@ -77,14 +77,14 @@ outline: [1,2]
 | [Internet Download Manager](https://www.internetdownloadmanager.com/) :s: | :win: | :check-mark-button: | :cross-mark: | :cross-mark: |
 | [qBittorrent](https://www.qbittorrent.org/) :s: [:gh:](https://github.com/qbittorrent/qBittorrent/) | :win::app::lin: | :cross-mark: | :check-mark-button: | :check-mark-button: |
 | [AB Download Manager](https://abdownloadmanager.com/) [:gh:](https://github.com/amir1376/ab-download-manager) | :win::lin: | :check-mark-button: | :cross-mark: | :check-mark-button: |
-| [aria2](https://aria2.github.io/) :s: [:gh:](https://github.com/aria2/aria2) | :octicon-command-palette-16: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
+| [aria2](https://aria2.github.io/) :s: [:gh:](https://github.com/aria2/aria2) | :cmd: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
 | [Deluge](https://www.deluge-torrent.org/) [:gh:](https://github.com/deluge-torrent/deluge) | :win::app::lin: | :cross-mark: | :check-mark-button: | :check-mark-button: |
 | [File centipede](https://filecxx.com/en_US/index.html) [:gh:](https://github.com/filecxx/FileCentipede) | :win::lin: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
 | [Free Download Manager](https://www.freedownloadmanager.org/) | :win::app::lin: | :check-mark-button: | :check-mark-button: | :cross-mark: |
 | [Gopeed](https://gopeed.com/) [:gh:](https://github.com/GopeedLab/gopeed) | :win::app::lin: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
 | [ImFile](https://imfile.io/) [:gh:](https://github.com/imfile-io/imfile-desktop/) | :win::app: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
 | [JDownloader](https://jdownloader.org/) | :win::app::lin: | :check-mark-button: | :cross-mark: | :cross-mark: |
-| [libtorrent](https://www.libtorrent.org/index.html) [:gh:](https://github.com/arvidn/libtorrent) | :octicon-command-palette-16: | :cross-mark: | :check-mark-button: | :check-mark-button: |
+| [libtorrent](https://www.libtorrent.org/index.html) [:gh:](https://github.com/arvidn/libtorrent) | :cmd: | :cross-mark: | :check-mark-button: | :check-mark-button: |
 | [Media Downloader](https://github.com/mhogomchungu/media-downloader) | :win::app::lin: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
 | [MegaBasterd](https://github.com/tonikelope/megabasterd) | :win::app::lin: | :check-mark-button: | :cross-mark: | :check-mark-button: |
 | [Persepolis](https://persepolisdm.github.io/) [:gh:](https://github.com/persepolisdm/persepolis) | :win::app::lin: | :check-mark-button: | :cross-mark: | :check-mark-button: |
@@ -145,7 +145,7 @@ outline: [1,2]
   - [SMPlayer](https://www.smplayer.info/) :win::app::lin: [:gh:](https://github.com/smplayer-dev/smplayer)
   - [K-Lite Codec Pack](https://codecguide.com/download_kl.htm) :win:
 - **Tools**
-  - [FFmpeg](https://ffmpeg.org/) :octicon-command-palette-16: [:gh:](https://github.com/FFmpeg/FFmpeg)
+  - [FFmpeg](https://ffmpeg.org/) :cmd: [:gh:](https://github.com/FFmpeg/FFmpeg)
     - [HandBrake](https://handbrake.fr/) :win::app::lin: [:gh:](https://github.com/HandBrake/HandBrake)
     - [Videomass](https://jeanslack.github.io/Videomass/) :win::app::lin: [:gh:](https://github.com/jeanslack/Videomass)
     - [FFmpeg.wasm](https://ffmpegwasm.netlify.app/) :web: [:gh:](https://github.com/ffmpegwasm/ffmpeg.wasm)

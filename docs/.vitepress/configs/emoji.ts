@@ -55,6 +55,7 @@ const aliases: Record<string, string> = {
   win: 'simple-icons-windows',
   app: 'simple-icons-apple',
   lin: 'simple-icons-linux',
+  cmd: 'material-symbols-terminal-rounded',
   ff: 'simple-icons-firefoxbrowser',
   cr: 'simple-icons-googlechrome',
   web: 'mdi-web',

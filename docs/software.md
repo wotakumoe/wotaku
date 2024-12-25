@@ -173,15 +173,14 @@ or buy an Android phone :ic-twotone-thumb-up:
 - [Mangayomi](https://github.com/kodjodevf/mangayomi) :win::app::lin::mag::ddl:
 - [Seanime](https://seanime.rahim.app/) :win::app::lin::mag::ddl: [:gh:](https://github.com/5rahim/seanime)
 - [Unyo](https://github.com/K3vinb5/Unyo)  :win::app::lin::ddl:
-- [Toru](https://github.com/sweetbbak/toru) :win::app::lin::mag:
+- [Toru](https://github.com/sweetbbak/toru) :win::app::lin::cmd::mag:
 - [AnimeTV](https://amarullz.com/) :win::app::lin::ddl: [:gh:](https://github.com/amarullz/AnimeTV)
 
 :::details More
 - [Miru App](https://miru.js.org/) :win: [:gh:](https://github.com/miru-project/miru-app) :mag::ddl:
 - [Zenshin](https://github.com/hitarth-gg/zenshin) :win::app::lin::mag:
 - [Totoro](https://github.com/insomniachi/Totoro) :win::mag::ddl:
-- [Layendanimator](https://github.com/Layendan/Layendanimator) :win::app::lin::ddl:
-- [ani-cli](https://github.com/pystardust/ani-cli) :win::app::lin::ddl:
+- [ani-cli](https://github.com/pystardust/ani-cli) :win::app::lin::cmd::ddl:
 
 :::
 
@@ -205,8 +204,8 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
   - [Tachidesk-VaadinUI](https://github.com/Suwayomi/Suwayomi-VaadinUI)
   - [Suwayomi-VUI](https://github.com/Suwayomi/Suwayomi-VUI)
 - [Cubari](https://cubari.moe/) :web:
-- [Mangadex](https://github.com/darylhjd/mangadesk) :win::app::lin:
-- [Manga-tui](https://github.com/josueBarretogit/manga-tui) :app::lin:
+- [Mangadex](https://github.com/darylhjd/mangadesk) :win::app::lin::cmd:
+- [Manga-tui](https://github.com/josueBarretogit/manga-tui) :app::lin::cmd:
 
 ### Local
 
@@ -236,32 +235,30 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 ### Anime
 
 - **Hakuneko**
-  - [Classic](https://hakuneko.download/) :win::app::lin: [:gh:](https://github.com/manga-download/hakuneko) <tooltip><ul><li>No Crunchyroll implementation</li><li>You have to index each site first, which takes quite a long time, after that the search is almost instant, but loading episodes for anime again takes some time depending on the source.</li><li>Not a great interface, but it does the job, and you can tell it is more thought out for manga.</li><li>Not too many anime sources, some of them do not work.</li></ul></tooltip>
+  - [Classic](https://hakuneko.download/) :win::app::lin: [:gh:](https://github.com/manga-download/hakuneko)
   - [Fluent Core](https://github.com/manga-download/haruneko) :win::app:
-- [ADL](https://github.com/RaitaroH/adl) :win::lin: <tooltip><ul><li>No UI, terminal based</li><li>"Complicated" installation, especially on Windows</li><li>Uses many different scripts, including animedl, so lots of functionality</li><li>Tracking capability & many more</li><li>Same amount of sources as AnimDL</li></ul></tooltip>
+- [ADL](https://github.com/RaitaroH/adl) :win::lin::cmd:
 - [Crunchyroll-Downloader](https://github.com/Crunchy-DL/Crunchy-Downloader) :win:
   - [Keydive](https://github.com/hyugogirubato/KeyDive)
-- [Anime Downloader NX](https://github.com/anidl/multi-downloader-nx) :win::app::lin:
-
-
+- [Anime Downloader NX](https://github.com/anidl/multi-downloader-nx) :win::app::lin::cmd:
 
 ### Manga
 
-- [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) :win: <tooltip><ul><li>Supports almost every major site</li><li>You can add your own account</li><li>Highly configurable with downloading automation</li><li>Has converter and a lot of great tools</li></ul></tooltip>
+- [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) :win:
 - [Red Squirrel's Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader) :win::lin::cs:
 - **Hakuneko**
   - [Classic](https://hakuneko.download/) :win::app::lin: [:gh:](https://github.com/manga-download/hakuneko)
   - [Fluent Core](https://github.com/manga-download/haruneko) :win::app:
-- [MangaL](https://github.com/metafates/mangal) :win::app::lin: <tooltip><ul><li>TUI based</li><li>Very Fast</li><li>You can add your own lua scrapers for non-supported sites (mangadex and mangasee already supported)</li></ul></tooltip>
-- [HDoujin Downloader](https://doujindownloader.com/) :win::cs: [:gh:](https://github.com/HDoujinDownloader/HDoujinDownloader)<tooltip><ul><li>Huge list of supported nsfw sites</li><li>Good UI, many settings and amazing speed</li><li>But has a 25 chapter daily limit</li></ul></tooltip>
+- [MangaL](https://github.com/metafates/mangal) :win::app::lin::cmd:
+- [HDoujin Downloader](https://doujindownloader.com/) :win::cs: <tooltip>Has a 25 chapter daily limit</tooltip>
 
 ::: details More
-- [Clip Studio Reader](https://github.com/MrCocoNuat/clip-studio-reader-downloader)
-- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) :win::app: <tooltip><ul><li>Supports mostly nsfw sites but works great for the supported ones</li></ul></tooltip>
-- [Mangadex Downloader](https://github.com/mansuf/mangadex-downloader) :win::app::lin: <tooltip><ul><li>CLI based</li><li>Mangadex downloader</li><li>Easy to use and fast</li></ul></tooltip>
-- [Manga Scraper](https://github.com/YofaGh/MangaScraper)
-- [Manga downloader](https://github.com/xuzhengyi1995/Manga_downloader) `Raw`
-- [Getjump](https://github.com/eggplants/getjump) `Raw`
+- [Clip Studio Reader](https://greasyfork.org/en/scripts/481576-clip-studio-reader-downloader) :js: [:gh:](https://github.com/MrCocoNuat/clip-studio-reader-downloader)
+- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) :win::app:
+- [Mangadex Downloader](https://github.com/mansuf/mangadex-downloader) :win::app::lin::cmd:
+- [Manga Scraper](https://github.com/YofaGh/MangaScraper) :win::app::lin::cmd:
+- [Manga downloader](https://github.com/xuzhengyi1995/Manga_downloader) :cr: <Badge type="info" text="Raw"/>
+- [Getjump](https://github.com/eggplants/getjump) :cmd: <Badge type="info" text="Raw"/>
 
 :::
 
