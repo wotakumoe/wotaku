@@ -108,7 +108,7 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 ## osu!
 
 ### Websites
-- [osu!](https://osu.ppy.sh/) [:gh:](https://github.com/ppy/osu)<Badge type="info" text="Official" />
+- [osu!](https://osu.ppy.sh/) [:gh:](https://github.com/ppy/osu) <Badge type="info" text="Official" />
 - [Anisync](https://anisync.live/)
 - [BeatConnect](https://beatconnect.io/)
 - [osu.direct](https://osu.direct/home)

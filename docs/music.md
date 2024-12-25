@@ -101,7 +101,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
   - [SquidBoard](https://www.squid-board.org/) :acc::sgd::sm::smf:
   - [Sukidesu OST](https://sukidesuost.info/) :sm::mag:
   - [RuTracker.org](https://rutracker.org/forum/index.php) :mag:
-  - [Asia Media Blog](https://asiamediablog.com/media/music/) :host:<Badge type="danger" text="18+" /> <Badge type="tip" text="2" link="https://jpmediadl.com/music/" />
+  - [Asia Media Blog](https://asiamediablog.com/media/music/) :host: <Badge type="danger" text="18+" /> <Badge type="tip" text="2" link="https://jpmediadl.com/music/" />
 - **MP3**
   - [Nipponsei](https://nipponsei.minglong.org/tracker/) :mag:
   - [OS Anime](https://osanime.com/) :ddl:
@@ -119,7 +119,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 
 - [Doujin Cafe](https://discord.gg/doujincafe) :sm::smf::ic-round-cloud-download:
 - [Doujin Music](https://vk.com/wall-60027733) :ddl:
-- [Doujin Style](https://doujinstyle.com/) :smf:<Badge type="tip" text="Touhou" link="https://doujinstyle.com/?p=tlmc" /> <Badge type="tip" text="Downloader" link="https://github.com/Relepega/doujinstyle-downloader"/>
+- [Doujin Style](https://doujinstyle.com/) :smf: <Badge type="tip" text="Touhou" link="https://doujinstyle.com/?p=tlmc" /> <Badge type="tip" text="Downloader" link="https://github.com/Relepega/doujinstyle-downloader"/>
 - [MikuDB](https://mikudb.moe/) :sgd::mag:
 - [Moriya Shrine](https://moriyashrine.org/) :mag:
 - [Touhou Disc](https://alist.thdisc.tk) :ddl:
@@ -368,8 +368,8 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
   - [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) :mdi-lastfm::and:
   - [Marvis Pro](https://apps.apple.com/au/app/marvis-pro/id1447768809) :mdi-lastfm::app::cs:
 - **Others**
-  - [MusicSearch](https://github.com/lydavid/MusicSearch) :and:<Badge type="info" text="MusicBrainz" />
-  - [Seeker](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1) :and:<Badge type="info" text="Soulseek" />
+  - [MusicSearch](https://github.com/lydavid/MusicSearch) :and: <Badge type="info" text="MusicBrainz" />
+  - [Seeker](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1) :and: <Badge type="info" text="Soulseek" />
   - [Stats.fm](https://stats.fm/) :mdi-spotify::and::app::cs:
 
 
@@ -417,7 +417,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [Deemix](https://download.deemix.workers.dev/) :cs:
 - [Onthespot](https://github.com/casualsnek/onthespot)
 - [Lidarr](https://lidarr.audio/) :win::app::lin:
-- [Nicotine+](https://nicotine-plus.org/) :win::app::lin::mdi-lan-pending:<tooltip>Direct peer-to-peer sharing network, primarily used for music</tooltip>
+- [Nicotine+](https://nicotine-plus.org/) :win::app::lin::mdi-lan-pending: <tooltip>Direct peer-to-peer sharing network, primarily used for music</tooltip>
 - [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD)
 - [Soggfy](https://github.com/Rafiuth/Soggfy) :win::app::lin:
 - [Votify](https://github.com/glomatico/votify)
@@ -440,7 +440,7 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 - [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler) [:cr:](https://chrome.google.com/webstore/detail/lastfm-scrobbler/hhinaapppaileiechjoiifaancjggfjm) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/web-scrobbler/)
 
 ### Script
-- [Ame](https://gitlab.com/SuperSaltyGamer/ame) :appmusic::simple-icons-musicbrainz:<Badge text="VGMdb" />
+- [Ame](https://gitlab.com/SuperSaltyGamer/ame) :appmusic::simple-icons-musicbrainz: <Badge text="VGMdb" />
 - [dzunlock](https://uhwotgit.fly.dev/uhwot/dzunlock)
 - [Gallery Mode for Lists - RateYourMusic](https://greasyfork.org/en/scripts/434865-gallery-mode-for-lists-rateyourmusic)
 - [MusicBrainz Userscripts](https://musicbrainz.org/doc/Guides/Userscripts)
@@ -507,7 +507,7 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 - [MP3Tag](https://www.mp3tag.de/en/) :win::app::cs:
 - [MusicBrainz Picard](https://picard.musicbrainz.org/) :win::app::lin: [:gh:](https://github.com/metabrainz/picard)
 - [TagScanner](https://www.xdlab.ru/en/) :win::cs:
-- [beets](https://beets.io/) [:gh:](https://github.com/beetbox/beets)<Badge type="info" text="Guide" link="https://beets.readthedocs.io/en/stable/index.html" />
+- [beets](https://beets.io/) [:gh:](https://github.com/beetbox/beets) <Badge type="info" text="Guide" link="https://beets.readthedocs.io/en/stable/index.html" />
 
 ### Misc
 - [Karaoke Mugen](https://mugen.karaokes.moe/en/) :win::app::lin: [:gl:](https://gitlab.com/karaokemugen/code/karaokemugen-app)

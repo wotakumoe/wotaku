@@ -67,7 +67,7 @@ It has various variables. The free VPNs are very limited such as untrusted owner
 - [Mullvad](https://mullvad.net/) <Badge type="tip" text="No port forwarding" />
 - [nVPN](https://nvpn.net/)
 - [OVPN](https://www.ovpn.com/)
-- [Proton](https://protonvpn.com/) :fm:<tooltip>The free tier doesn't support torrenting.</tooltip>
+- [Proton](https://protonvpn.com/) :fm: <tooltip>The free tier doesn't support torrenting.</tooltip>
 - [Windscribe](https://windscribe.com/) :fm:
 - [Xeovo](https://xeovo.com/)
 
@@ -93,12 +93,12 @@ Torrent trackers that don't allow you to freely make an account, but require you
 
 | Category | Websites |
 |-|-|
-| Anime | [AnimeBytes](https://animebytes.tv/) `General` <br> [AnimeWorld](https://animeworld.cx/) :flag-germany: <br> [AnimeZ](https://animetorrents.me/) [:d:](https://discord.gg/GYahYNWutE)<br> [BakaBT](https://bakabt.me/) <br> [U2](https://u2.dmhy.org/portal.php) |
+| Anime | [AnimeBytes](https://animebytes.tv/) `General` <br> [AnimeWorld](https://animeworld.cx/) :flag-germany: <br> [AnimeZ](https://animetorrents.me/) [:d:](https://discord.gg/GYahYNWutE) <br> [BakaBT](https://bakabt.me/) <br> [U2](https://u2.dmhy.org/portal.php) |
 | Books | [MyAnonamouse](https://myanonamouse.net/) |
 | Games | [Gazelle Games](https://gazellegames.net/login.php) |
-| Live Action | [AvistaZ](https://avistaz.to/) [:d:](https://discord.gg/GYahYNWutE)<br> [JPTV.club](https://jptv.club/) <br> [jptvts](https://jptvts.us/) |
+| Live Action | [AvistaZ](https://avistaz.to/) [:d:](https://discord.gg/GYahYNWutE) <br> [JPTV.club](https://jptv.club/) <br> [jptvts](https://jptvts.us/) |
 | Music | [Redacted](https://redacted.sh/) <br> [JPopsuki](https://jpopsuki.eu/) <br> [Orpheus](https://orpheus.network/) <br> [Sugoi Music](https://sugoimusic.me/) <br> [Bemaniso](https://bemaniso.ws/) `Rhythm` <br> [Aidoru](https://aidoru-online.me/) `Idol` |
-| NSFW | [ExoticaZ](https://exoticaz.to/) [:d:](https://discord.gg/GYahYNWutE)<br> [Empornium](https://www.empornium.is/) |
+| NSFW | [ExoticaZ](https://exoticaz.to/) [:d:](https://discord.gg/GYahYNWutE) <br> [Empornium](https://www.empornium.is/) |
 
 ### Related resources
 - [InstallGentoo Wiki](https://wiki.installgentoo.com/wiki/Private_trackers) :s:

@@ -163,13 +163,13 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [Hakuneko](https://github.com/manga-download/haruneko) <Badge type="info" text="Multi" /> [:web:](https://hakuneko.download/)
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) <Badge type="info" text="Multi" /> <Badge type="info" text="Anime" /> [:web:]()
 - [HDoujin Downloader](https://doujindownloader.com/) <Badge type="info" text="Multi" />
-- [Hentai downloader](https://github.com/touno-io/hentai-downloader)<Badge type="info" text="E-Hentai" />
-- [E-Hentai Downloader](https://github.com/ccloli/E-Hentai-Downloader)<Badge type="info" text="E-Hentai" />
-- [nHentai](https://github.com/RicterZ/nhentai)<Badge type="info" text="nHentai" />
+- [Hentai downloader](https://github.com/touno-io/hentai-downloader) <Badge type="info" text="E-Hentai" />
+- [E-Hentai Downloader](https://github.com/ccloli/E-Hentai-Downloader) <Badge type="info" text="E-Hentai" />
+- [nHentai](https://github.com/RicterZ/nhentai) <Badge type="info" text="nHentai" />
   - [nHentai GUI](https://github.com/edgar1016/nhentai-GUI)
-- [nHentai Archivist](https://github.com/9-FS/nhentai_archivist)<Badge type="info" text="nHentai" />
-- [nHentai Downloader](https://github.com/Xwilarg/NHentaiDownloader)<Badge type="info" text="nHentai" />
-- [NSFW Box](https://github.com/Kisspeace/NsfwBox)<Badge type="info" text="Multi" />
+- [nHentai Archivist](https://github.com/9-FS/nhentai_archivist) <Badge type="info" text="nHentai" />
+- [nHentai Downloader](https://github.com/Xwilarg/NHentaiDownloader) <Badge type="info" text="nHentai" />
+- [NSFW Box](https://github.com/Kisspeace/NsfwBox) <Badge type="info" text="Multi" />
 
 
 ![](/banner/hoth.webp)

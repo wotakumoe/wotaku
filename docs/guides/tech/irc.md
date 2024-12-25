@@ -27,12 +27,12 @@ If you face any issues when connecting, try enabling **"Accept invalid SSL certi
 ## IRC Client
 - [Revolution IRC](https://f-droid.org/packages/io.mrarm.irc/) <Badge type="info" text="Android" />
 - [IRCCloud](https://github.com/irccloud/android) <Badge type="info" text="Android" />
-- [HexChat](https://hexchat.github.io/)	<Badge type="info" text="Windows" /><tooltip>Repo is archived, but still works properly.</tooltip>
+- [HexChat](https://hexchat.github.io/)	<Badge type="info" text="Windows"/> <tooltip>Repo is archived, but still works properly.</tooltip>
 - [mIRC](https://www.mirc.com/)	<Badge type="info" text="Windows" />
 - [AdiIRC](https://adiirc.com/)	<Badge type="info" text="Windows" />
-- [KVIrc](https://github.com/kvirc/KVIrc/releases) <Badge type="info" text="Windows" /><Badge type="info" text="Linux" /><Badge type="info" text="macOS" />
+- [KVIrc](https://github.com/kvirc/KVIrc/releases) <Badge type="info" text="Windows"/> <Badge type="info" text="Linux"/> <Badge type="info" text="macOS" />
 - [Irssi](https://irssi.org/) <Badge type="info" text="Linux" />
-- [WeeChat](https://weechat.org/) <Badge type="info" text="Linux" /><Badge type="info" text="macOS" />
+- [WeeChat](https://weechat.org/) <Badge type="info" text="Linux"/> <Badge type="info" text="macOS" />
 - [LimeChat](https://apps.apple.com/us/app/limechat/id414030210) <Badge type="info" text="macOS" />
 
 

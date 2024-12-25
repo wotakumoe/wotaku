@@ -128,7 +128,7 @@ outline: [2,3]
 
 ### Vlogs
 - [Abroad in Japan](https://www.youtube.com/@AbroadinJapan)
-    - Journey Across Japan <Badge type="tip" text="S1" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVfl4ghftQDpTA4CXUvCKRlsL" /><Badge type="tip" text="S2" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVflVY0eQlZY4V0gArxUiOMLR" /><Badge type="tip" text="S3" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVflGF8OZwBqYH4mxDXvlkpSX" /><Badge type="tip" text="S4" link="https://www.youtube.com/playlist?list=PLdd050JRcXCJlhiSBMjIwvB7wQ8PR-JzV" /><Badge type="tip" text="S5" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVflb2CWbcuXX8JQoVTcXCh2X" /><Badge type="tip" text="S6" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVfm7GkI4U9bFBjJn4-KSFfsD" />
+    - Journey Across Japan <Badge type="tip" text="S1" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVfl4ghftQDpTA4CXUvCKRlsL"/> <Badge type="tip" text="S2" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVflVY0eQlZY4V0gArxUiOMLR"/> <Badge type="tip" text="S3" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVflGF8OZwBqYH4mxDXvlkpSX"/> <Badge type="tip" text="S4" link="https://www.youtube.com/playlist?list=PLdd050JRcXCJlhiSBMjIwvB7wQ8PR-JzV"/> <Badge type="tip" text="S5" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVflb2CWbcuXX8JQoVTcXCh2X"/> <Badge type="tip" text="S6" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVfm7GkI4U9bFBjJn4-KSFfsD" />
     - [WACKY WEEKEND](https://www.youtube.com/playlist?list=PL3BrCRgvsZ9DbueHiNITARMRqi0YfCgbT) :s:
     - [Documentaries](https://www.youtube.com/playlist?list=PLSOR9_iNzVfnEAmyp9QbIQk3xkeLVTUTq)
 - [Ask Japanese](https://www.youtube.com/@AskJapanese)

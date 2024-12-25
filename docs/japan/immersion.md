@@ -12,7 +12,7 @@ outline: [2,3]
 
 ### General
 
-- **jpdb difficulty list** <Badge type="tip" text="Anime" link="https://jpdb.io/anime-difficulty-list" /><Badge type="tip" text="Live Action" link="https://jpdb.io/live-action-difficulty-list" /><Badge type="tip" text="Novel" link="https://jpdb.io/novel-difficulty-list" /><Badge type="tip" text="Visual Novel" link="https://jpdb.io/visual-novel-difficulty-list" /><Badge type="tip" text="Web Novel" link="https://jpdb.io/web-novel-difficulty-list" /> 
+- **jpdb difficulty list** <Badge type="tip" text="Anime" link="https://jpdb.io/anime-difficulty-list"/> <Badge type="tip" text="Live Action" link="https://jpdb.io/live-action-difficulty-list"/> <Badge type="tip" text="Novel" link="https://jpdb.io/novel-difficulty-list"/> <Badge type="tip" text="Visual Novel" link="https://jpdb.io/visual-novel-difficulty-list"/> <Badge type="tip" text="Web Novel" link="https://jpdb.io/web-novel-difficulty-list" /> 
 - [Kuri's Japanese Media Recommendations](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/edit#gid=1019246469)
 - [Jo-Mako's Japanese Spreadsheet](https://docs.google.com/spreadsheets/d/1ukDIWSkh_xvpppPbgs1nUR2kaEwFaWlsJgZUlb9LuTs/edit#gid=822742203)
 - [Learn Natively](https://learnnatively.com/)
@@ -44,7 +44,7 @@ outline: [2,3]
 ## TV
 
 ### Movies & Drama
-- [Viki](https://www.viki.com/categories/country/japan/genre/all) :fm:<Badge type="info" text="JP Sub" />
+- [Viki](https://www.viki.com/categories/country/japan/genre/all) :fm: <Badge type="info" text="JP Sub" />
 - [ViewAsian](https://www.viewasian.org/)
 - [DramaFull](https://dramafull.net/)
 - [Tokuzilla](https://tokuzilla.net/) <Badge type="info" text="2" link="https://tokuzl.net/" />

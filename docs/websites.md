@@ -318,7 +318,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [Manga Katana](https://mangakatana.com/)
 - [Hachi](https://hachi.moe/) 
 - [Mangahasu](https://mangahasu.se/)
-- [Mangahub](https://mangahub.io/):acc:
+- [Mangahub](https://mangahub.io/) :acc:
 - [Manga Buddy](https://mangabuddy.com/home) <Badge type="info" text="2" link="https://mangamirror.com/home-page" /> <Badge type="info" text="3" link="https://mangaforest.com/home" />
 - [Dynasty Reader](https://dynasty-scans.com/) 
 - [Like Manga](https://likemanga.in)

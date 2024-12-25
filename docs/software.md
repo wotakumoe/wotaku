@@ -238,7 +238,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - **Hakuneko**
   - [Classic](https://hakuneko.download/) :win::app::lin: [:gh:](https://github.com/manga-download/hakuneko) <tooltip><ul><li>No Crunchyroll implementation</li><li>You have to index each site first, which takes quite a long time, after that the search is almost instant, but loading episodes for anime again takes some time depending on the source.</li><li>Not a great interface, but it does the job, and you can tell it is more thought out for manga.</li><li>Not too many anime sources, some of them do not work.</li></ul></tooltip>
   - [Fluent Core](https://github.com/manga-download/haruneko) :win::app:
-- [ADL](https://github.com/RaitaroH/adl) :win::lin:<tooltip><ul><li>No UI, terminal based</li><li>"Complicated" installation, especially on Windows</li><li>Uses many different scripts, including animedl, so lots of functionality</li><li>Tracking capability & many more</li><li>Same amount of sources as AnimDL</li></ul></tooltip>
+- [ADL](https://github.com/RaitaroH/adl) :win::lin: <tooltip><ul><li>No UI, terminal based</li><li>"Complicated" installation, especially on Windows</li><li>Uses many different scripts, including animedl, so lots of functionality</li><li>Tracking capability & many more</li><li>Same amount of sources as AnimDL</li></ul></tooltip>
 - [Crunchyroll-Downloader](https://github.com/Crunchy-DL/Crunchy-Downloader) :win:
   - [Keydive](https://github.com/hyugogirubato/KeyDive)
 - [Anime Downloader NX](https://github.com/anidl/multi-downloader-nx) :win::app::lin:
@@ -247,18 +247,18 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 ### Manga
 
-- [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) :win:<tooltip><ul><li>Supports almost every major site</li><li>You can add your own account</li><li>Highly configurable with downloading automation</li><li>Has converter and a lot of great tools</li></ul></tooltip>
+- [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) :win: <tooltip><ul><li>Supports almost every major site</li><li>You can add your own account</li><li>Highly configurable with downloading automation</li><li>Has converter and a lot of great tools</li></ul></tooltip>
 - [Red Squirrel's Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader) :win::lin::cs:
 - **Hakuneko**
   - [Classic](https://hakuneko.download/) :win::app::lin: [:gh:](https://github.com/manga-download/hakuneko)
   - [Fluent Core](https://github.com/manga-download/haruneko) :win::app:
-- [MangaL](https://github.com/metafates/mangal) :win::app::lin:<tooltip><ul><li>TUI based</li><li>Very Fast</li><li>You can add your own lua scrapers for non-supported sites (mangadex and mangasee already supported)</li></ul></tooltip>
+- [MangaL](https://github.com/metafates/mangal) :win::app::lin: <tooltip><ul><li>TUI based</li><li>Very Fast</li><li>You can add your own lua scrapers for non-supported sites (mangadex and mangasee already supported)</li></ul></tooltip>
 - [HDoujin Downloader](https://doujindownloader.com/) :win::cs: [:gh:](https://github.com/HDoujinDownloader/HDoujinDownloader)<tooltip><ul><li>Huge list of supported nsfw sites</li><li>Good UI, many settings and amazing speed</li><li>But has a 25 chapter daily limit</li></ul></tooltip>
 
 ::: details More
 - [Clip Studio Reader](https://github.com/MrCocoNuat/clip-studio-reader-downloader)
-- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) :win::app:<tooltip><ul><li>Supports mostly nsfw sites but works great for the supported ones</li></ul></tooltip>
-- [Mangadex Downloader](https://github.com/mansuf/mangadex-downloader) :win::app::lin:<tooltip><ul><li>CLI based</li><li>Mangadex downloader</li><li>Easy to use and fast</li></ul></tooltip>
+- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) :win::app: <tooltip><ul><li>Supports mostly nsfw sites but works great for the supported ones</li></ul></tooltip>
+- [Mangadex Downloader](https://github.com/mansuf/mangadex-downloader) :win::app::lin: <tooltip><ul><li>CLI based</li><li>Mangadex downloader</li><li>Easy to use and fast</li></ul></tooltip>
 - [Manga Scraper](https://github.com/YofaGh/MangaScraper)
 - [Manga downloader](https://github.com/xuzhengyi1995/Manga_downloader) `Raw`
 - [Getjump](https://github.com/eggplants/getjump) `Raw`

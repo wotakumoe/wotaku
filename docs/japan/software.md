@@ -168,7 +168,7 @@ outline: [2,3]
     - [Yomitan Grammar Dictionaries](https://github.com/aiko-tanaka/Grammar-Dictionaries)
     - [Local Audio Server for Yomichan](https://github.com/themoeway/local-audio-yomichan)
     - [VNDB Names for Yomitan](https://github.com/kaanium/VNDB-Names-for-Yomitan)
-- [Rikitan](https://github.com/Ajatt-Tools/rikaitan) :ff::cr: <Badge type="tip" text="Guide" link="https://tatsumoto.neocities.org/blog/setting-up-yomichan" /><Badge type="tip" text="Dictionaries" link="https://tatsumoto.neocities.org/blog/yomichan-and-epwing-dictionaries" /> `Pop-up dictionary`
+- [Rikitan](https://github.com/Ajatt-Tools/rikaitan) :ff::cr: <Badge type="tip" text="Guide" link="https://tatsumoto.neocities.org/blog/setting-up-yomichan"/> <Badge type="tip" text="Dictionaries" link="https://tatsumoto.neocities.org/blog/yomichan-and-epwing-dictionaries" /> `Pop-up dictionary`
 - [10ten Japanese Reader](https://github.com/birchill/10ten-ja-reader) :ff::cr::mingcute-safari-fill: `Pop-up dictionary`
 - [ASB Auto Subs](https://github.com/GodPepe7/asb-auto-subs) :ff::cr: `Jimaku subs in anime sites`
 - [Japanese.io](https://www.japanese.io/) :cr: `Pop-up dictionary`
@@ -183,7 +183,7 @@ outline: [2,3]
 ### Tools
 
 #### Dictionary / Word Lookup
-- [GoldenDict-NG](https://xiaoyifang.github.io/goldendict-ng/)  <Badge type="tip" text="Guide" link="https://tatsumoto.neocities.org/blog/setting-up-goldendict" /><Badge type="tip" text="Tools" link="https://github.com/Ajatt-Tools/gd-tools" />
+- [GoldenDict-NG](https://xiaoyifang.github.io/goldendict-ng/)  <Badge type="tip" text="Guide" link="https://tatsumoto.neocities.org/blog/setting-up-goldendict"/> <Badge type="tip" text="Tools" link="https://github.com/Ajatt-Tools/gd-tools" />
 - [Kamite](https://github.com/fauu/Kamite)
 - [japReader](https://github.com/marisukukise/japReader)
 - [JL](https://github.com/rampaa/JL)

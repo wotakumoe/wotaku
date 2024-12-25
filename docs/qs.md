@@ -76,9 +76,9 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 ### Streaming
 
 - **Dedicated**
-  - [Anithemes.moe](https://animethemes.moe/) :s: [:gh:](https://github.com/AnimeThemes)<Badge type="info" text="Alt" link="https://themes.moe/" />
+  - [Anithemes.moe](https://animethemes.moe/) :s: [:gh:](https://github.com/AnimeThemes) <Badge type="info" text="Alt" link="https://themes.moe/" />
   - [Karaoke Mugen](https://kara.moe)
-  - [Anisong Database](https://anisongdb.com/) [:gh:](https://github.com/xSardine/AMQ-Artists-DB)<Badge type="info" text="Alt" link="https://43d.github.io/player/#/" />
+  - [Anisong Database](https://anisongdb.com/) [:gh:](https://github.com/xSardine/AMQ-Artists-DB) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" />
 - **General**
   - [Youtube Music](https://music.youtube.com/)
   - [Apple Music](https://music.apple.com/)
@@ -155,8 +155,8 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 - **Direct**
   - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) :and::cs:
   - [LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) :and:
-  - [Internet Download Manager](https://www.internetdownloadmanager.com/) :win::paid::cs:<Badge text="Guide" link="https://rentry.org/installidm" />
-  - [JDownloader 2](https://jdownloader.org/) :win::app::lin::cs:<Badge text="Debloat" link="/guides/misc#jdownloader-ad-removal" />
+  - [Internet Download Manager](https://www.internetdownloadmanager.com/) :win::paid::cs: <Badge text="Guide" link="https://rentry.org/installidm" />
+  - [JDownloader 2](https://jdownloader.org/) :win::app::lin::cs: <Badge text="Debloat" link="/guides/misc#jdownloader-ad-removal" />
 - **Torrent**
   - [libretorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) :and:
   - [qBittorrent](https://www.qbittorrent.org/) :win::app::lin:
@@ -171,7 +171,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 - [Mullvad](https://mullvad.net/) <Badge type="tip" text="No port forwarding" />
 - [nVPN](https://nvpn.net/)
 - [OVPN](https://www.ovpn.com/)
-- [Proton](https://protonvpn.com/) :fm:<tooltip>The free tier doesn't support torrenting.</tooltip>
+- [Proton](https://protonvpn.com/) :fm: <tooltip>The free tier doesn't support torrenting.</tooltip>
 - [Windscribe](https://windscribe.com/) :fm:
 - [Xeovo](https://xeovo.com/)
 

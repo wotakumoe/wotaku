@@ -232,7 +232,7 @@ Illustrations now has its [own page](/art)!
 | Category | Websites |
 |---|---|
 | Search | [SauceNAO](https://saucenao.com/) :s: <br> [Trace](https://trace.moe/) [:gh:](https://github.com/soruly/trace.moe) <br> [SauceKudasai](https://saucekudasai.com/) [:gh:](https://github.com/ayushgptaa/SauceKudasai) <br> [Multi-service image search](https://iqdb.org/) |
-| Upscaling | [Waif2x](https://unlimited.waifu2x.net/) [:gh:](https://github.com/nagadomi/waifu2x)<Badge type="tip" text="Cloud Ver" link="https://waifu2x.udp.jp/" /><br> [WaifuXL](https://waifuxl.com/) [:gh:](https://github.com/TheFutureGadgetsLab/WaifuXL) |
+| Upscaling | [Waif2x](https://unlimited.waifu2x.net/) [:gh:](https://github.com/nagadomi/waifu2x) <Badge type="tip" text="Cloud Ver" link="https://waifu2x.udp.jp/" /><br> [WaifuXL](https://waifuxl.com/) [:gh:](https://github.com/TheFutureGadgetsLab/WaifuXL) |
 | Others | [Imgtrans](https://touhou.ai/imgtrans/) [:gh:](https://github.com/zyddnys/manga-image-translator) <br> [Slowpoke Pics](https://slow.pics/) |
 
 
@@ -262,7 +262,7 @@ Illustrations now has its [own page](/art)!
 |---|---|
 | Fan Projects | [Holodex](https://holodex.net/) [:gh:](https://github.com/HolodexNet/Holodex) <br> [Musicdex](https://music.holodex.net/) [:gh:](https://github.com/HolodexNet/Musicdex) <br> [Ragtag Archive](https://archive.ragtag.moe/) [:gh:](https://github.com/ragtag-archive) <br> [Patchwork Archive](https://patchwork.moekyun.me/) [:gh:](https://github.com/Patchwork-Archive/) |
 | Database | [Amatsukaze](https://amatsukaze.rl404.com/) :s: [:gh:](https://github.com/rl404/amatsukaze) <br> [Virtual YouTuber Wiki](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki) <br> [Good VTuber Subs](https://goodvtubersubs.com/) <br> [Hololist](https://hololist.net/) <br> [ironmouse Model Index](https://www.ironmousemodelindex.com/) <br> [VTBs in Bilibili!](https://vtbs.moe/) |
-| Stats | [VChama](https://vchama.xyz) :s: <Badge type="info" text="Schedule" /><br> [vtstats](https://vt.poi.cat/) :s: <Badge type="info" text="Schedule" /><Badge text="Revenue"/><br> [VSTATS](https://www.vstats.jp/) <br> [Userlocal VTuber](https://virtual-youtuber.userlocal.jp/) <Badge type="info" text="Stream Rank" link="https://live-ranking.userlocal.jp/vtuber-ranking" /><Badge type="info" text="Schedule" /><br> [TwitchTracker](https://twitchtracker.com/) <br> [Streams Charts](https://streamscharts.com/) |
+| Stats | [VChama](https://vchama.xyz) :s: <Badge type="info" text="Schedule" /><br> [vtstats](https://vt.poi.cat/) :s: <Badge type="info" text="Schedule"/> <Badge text="Revenue"/><br> [VSTATS](https://www.vstats.jp/) <br> [Userlocal VTuber](https://virtual-youtuber.userlocal.jp/) <Badge type="info" text="Stream Rank" link="https://live-ranking.userlocal.jp/vtuber-ranking"/> <Badge type="info" text="Schedule" /><br> [TwitchTracker](https://twitchtracker.com/) <br> [Streams Charts](https://streamscharts.com/) |
 | Schedule | [VTuber Schedule](https://vtuberschedules.com/) <br> [Hololyzer](https://www.hololyzer.net/) <br> [vTubie](https://vtubie.com/) |
 | Others | [VTuber Highlights](https://vtuber.atodeyo.com/) :flag-japan: <Badge type="info" text="News" /><br> [VTuber Newsdrop](https://vtubernewsdrop.com/) <Badge type="info" text="News" /><br> [Reincar](https://reincar.net/) <Badge type="info" text="News" /> |
 
@@ -271,7 +271,7 @@ Illustrations now has its [own page](/art)!
 ## Hololive
 
 - [Hololive Fan Wiki](https://hololive.wiki/wiki/Main_Page) <Badge type="info" text="DB" />
-- [Hololive Production](https://hololive.hololivepro.com/) <Badge type="info" text="Schedule" link="https://schedule.hololive.tv/lives" /><Badge type="info" text="DB" /><Badge type="info" text="News" />
+- [Hololive Production](https://hololive.hololivepro.com/) <Badge type="info" text="Schedule" link="https://schedule.hololive.tv/lives"/> <Badge type="info" text="DB"/> <Badge type="info" text="News" />
 - [Holotracker](https://trackholo.live/en/) <Badge type="info" text="Stats" />
 - [Hololize Zone](https://hololive.zone/) <Badge type="info" text="Stats" />
 - [hololive TODAY](https://hololivetoday.com/) <Badge type="info" text="News" />

@@ -173,7 +173,7 @@ outline: [1,2]
   - :material-symbols-subdirectory-arrow-right: Adobe Alternatives
     - [KennyNL](https://github.com/KenneyNL/Adobe-Alternatives)
     - [XdanielArt](https://rentry.org/adobealt)
-- [Aegisub](https://github.com/arch1t3cht/Aegisub) :win::lin:<Badge type="tip" text="Original" link="https://github.com/arch1t3cht/Aegisub" />
+- [Aegisub](https://github.com/arch1t3cht/Aegisub) :win::lin: <Badge type="tip" text="Original" link="https://github.com/arch1t3cht/Aegisub" />
 - [AviSynth+](https://avs-plus.net/) :win::app::lin: [:gh:](https://github.com/AviSynth/AviSynthPlus)
 - [gMKVExtractGUI](https://sourceforge.net/projects/gmkvextractgui/) :win::app::lin:
 - [MKVcleaver](https://www.videohelp.com/software/MKVcleaver) :win::cs:

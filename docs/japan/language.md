@@ -37,8 +37,8 @@ outline: [2,3]
   - [Hiragana](https://www.tofugu.com/japanese/learn-hiragana/) <Badge type="tip" text="PDF" link="https://www.tofugu.com/japanese/learn-hiragana-book-pdf/" />
   - [Katakana](https://www.tofugu.com/japanese/learn-katakana/) <Badge type="tip" text="PDF" link="https://www.tofugu.com/japanese/learn-katakana-book-pdf/" />
 - [**Japanese-lesson.com**](http://japanese-lesson.com/)
-  - [Hiragana](http://japanese-lesson.com/characters/hiragana/hiragana_drill/index.html) <Badge type="tip" text="PDF" link="http://japanese-lesson.com/resources/pdf/characters/hiragana_chart.pdf" /><Badge type="tip" text="Practice" link="http://japanese-lesson.com/resources/pdf/characters/hiragana_writing_practice_sheets.pdf" />
-  - [Katakana](http://japanese-lesson.com/characters/katakana/katakana_drill/index.html) <Badge type="tip" text="PDF" link="http://japanese-lesson.com/resources/pdf/characters/katakana_chart.pdf" /><Badge type="tip" text="Practice" link="http://japanese-lesson.com/resources/pdf/characters/katakana_writing_practice_sheets.pdf" />
+  - [Hiragana](http://japanese-lesson.com/characters/hiragana/hiragana_drill/index.html) <Badge type="tip" text="PDF" link="http://japanese-lesson.com/resources/pdf/characters/hiragana_chart.pdf"/> <Badge type="tip" text="Practice" link="http://japanese-lesson.com/resources/pdf/characters/hiragana_writing_practice_sheets.pdf" />
+  - [Katakana](http://japanese-lesson.com/characters/katakana/katakana_drill/index.html) <Badge type="tip" text="PDF" link="http://japanese-lesson.com/resources/pdf/characters/katakana_chart.pdf"/> <Badge type="tip" text="Practice" link="http://japanese-lesson.com/resources/pdf/characters/katakana_writing_practice_sheets.pdf" />
 - [Tae Kim's Writing System](https://gohoneko.neocities.org/grammar/taekim#6%20The%20Scripts)
 
 ### Videos
@@ -54,7 +54,7 @@ outline: [2,3]
 - [Type Kana](https://lab.fleon.org/type-kana/)
 - [Hentaigana Quiz](https://kuuuube.github.io/kana-quiz/hentaigana/hentaigana-dark/index.html)
 - [Steven Kraft’s Japanese Projects](https://steven-kraft.com/projects/japanese/) <Badge type="warning" text="general" />
-- Freerice <Badge type="tip" text="hiragana" link="https://play.freerice.com/categories/hiragana" /><Badge type="tip" text="katakana" link="https://play.freerice.com/categories/katakana" />
+- Freerice <Badge type="tip" text="hiragana" link="https://play.freerice.com/categories/hiragana"/> <Badge type="tip" text="katakana" link="https://play.freerice.com/categories/katakana" />
 
 
 ## Kanji / Vocabulary
@@ -86,7 +86,7 @@ outline: [2,3]
 - [Tangorin](https://tangorin.com/)
 - [The Kanji Map](https://thekanjimap.com/)
 - [Weblio](https://ejje.weblio.jp/)
-- [Wiktionary](https://wiktionary.org) <Badge type="tip" text="EN" link="https://en.wiktionary.org/" /><Badge type="tip" text="JP" link="https://ja.wiktionary.org/" />
+- [Wiktionary](https://wiktionary.org) <Badge type="tip" text="EN" link="https://en.wiktionary.org/"/> <Badge type="tip" text="JP" link="https://ja.wiktionary.org/" />
 
 
 ### Practice
@@ -103,7 +103,7 @@ outline: [2,3]
 
 #### N5 & N4
 - **Kanji**
-  - [Remembering the Kanji 1](https://www.amazon.com/gp/product/0824835921) <Badge type="tip" text="2" link="https://www.amazon.com/gp/product/0824836693" /><Badge type="info" text="General" />
+  - [Remembering the Kanji 1](https://www.amazon.com/gp/product/0824835921) <Badge type="tip" text="2" link="https://www.amazon.com/gp/product/0824836693"/> <Badge type="info" text="General" />
   - [The Kodansha Kanji Learner's Course](https://www.amazon.com/Kodansha-Kanji-Learners-Course-Step/dp/1568365268)
   - [Kanji Look and Learn](https://www.amazon.com/Kanji-Look-Learn-Eri-Banno/dp/4789013499)
   - [Tobira: Power Up Your Kanji](https://www.amazon.com/gp/product/4874244874)
@@ -259,7 +259,7 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 - [Genki Answer Key](https://www.amazon.com/GENKI-Integrated-Elementary-Japanese-E8-A7-A3-E7-AD-94-E3-80-90-E7-AC-AC3-E7-89-88-E3-80-91-dp-478/dp/4789017362)
 - [Tobira 1: Beginning Japanese](https://www.amazon.com/Tobira-Beginning-Japanese-Resources-Multilingual/dp/4874248705) <Badge type="tip" text="2" link="https://www.amazon.com/Tobira-II-Beginning-Japanese-Multilingual/dp/4874249000" />
 - [Nihongo Fun&Easy](https://www.amazon.com/NIHONGO-FUN-EASY-Conversation-Beginners/dp/4872177215)
-- [Minna No Nihongo 1](https://www.amazon.com/Minna-No-Nihongo-Beginner-2nd/dp/4883196038) <Badge type="tip" text="2" link="https://www.amazon.com/Minna-Nihongo-II-Main-Textbook/dp/4883196461" /><Badge type="tip" text="Workbook" link="https://www.amazon.com/Nihongo-Shokyu-Workbook-Hyojun-Mondaishu/dp/4883196631/" />
+- [Minna No Nihongo 1](https://www.amazon.com/Minna-No-Nihongo-Beginner-2nd/dp/4883196038) <Badge type="tip" text="2" link="https://www.amazon.com/Minna-Nihongo-II-Main-Textbook/dp/4883196461"/> <Badge type="tip" text="Workbook" link="https://www.amazon.com/Nihongo-Shokyu-Workbook-Hyojun-Mondaishu/dp/4883196631/" />
 
 <br>
 

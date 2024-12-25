@@ -195,13 +195,13 @@ If you have recommendations for good sites in your native language or want to re
 - [German Fansubbers' Index](https://anime-fansubs.de/)
 - [Amalgam Fansubs](https://amalgam-fansubs.moe/) :strm::ddl:
 - [Anime Archive](https://anime-archive.com/) :ddl:
-- [Anime Loads](https://www.anime-loads.org/) :strm::ddl:
+- [Anime Loads](https://www.anime-loads.org/) :strm::ddl::host:
 - [AniWorld](https://aniworld.to/) :strm:
 - [Melon-Subs](https://melon-subs.de/) :ddl:
 - [NanaOne](https://nanaone.net/) :ddl:
 - [OtakuKingdom Subs](https://www.otakukingdom-subs.de/) :ddl:
 - [Shiroi-Fansubs](https://shiroi-fansubs.de/) :ddl:
-- [S.to](https://s.to/) <Badge type="tip" text="2" link="https://serienstream.to/" />:strm:
+- [S.to](https://s.to/) <Badge type="tip" text="2" link="https://serienstream.to/" /> :strm:
 
 ### Manga
 - [ComicMafia](https://comicmafia.to/?s=manga) :ddl:
@@ -212,8 +212,9 @@ If you have recommendations for good sites in your native language or want to re
 - [Animexx](https://www.animexx.de/)
 - [aniSearch](https://www.anisearch.de/forum/categories)
 - [Baka Board](https://baka-bewerbung.me/) <Badge type="info" text="Usenet" />
+- [Data-Load](https://www.data-load.me/) :ddl::acc::host:
 - [littleAkiba](https://www.littleakiba.ch/)
-- [myGully](https://mygully.com/) :ddl::acc:
+- [myGully](https://mygully.com/) :ddl::acc::host:
 - [Pirateboard](https://www.pirateboard.net/)
 - [Proxer](https://proxer.me/)
 
@@ -337,7 +338,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 - **Reader**
   - [FireManga](https://www.firemanga.com/)
-  - [KL Manga](https://klz9.com/idx) <Badge type="tip" text="2" link="https://hachiraw.net/" /><Badge type="tip" text="3" link="https://klto9.com/" /><Badge type="tip" text="4" link="https://jestful.net/" />
+  - [KL Manga](https://klz9.com/idx) <Badge type="tip" text="2" link="https://hachiraw.net/"/> <Badge type="tip" text="3" link="https://klto9.com/"/> <Badge type="tip" text="4" link="https://jestful.net/" />
   - [MangaFire](https://mangafire.to/home)
   - [MangaReader](https://mangareader.to/home)
   - [Manga Mate](https://manga-mate.org/)
@@ -480,7 +481,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [MAL to Kodik](https://mal-to-kodik.github.io/) <Badge type="info" text="Aggregator" />
 - [Shiza Project](https://shiza-project.com/)
 - [SovetRomantica](https://sovetromantica.com/) <Badge type="info" text="Sub" />
-- [Tunime](https://an0ncer.github.io/) [:gh:](https://github.com/AN0NCER/an0ncer.github.io)<Badge type="info" text="Sub" />
+- [Tunime](https://an0ncer.github.io/) [:gh:](https://github.com/AN0NCER/an0ncer.github.io) <Badge type="info" text="Sub" />
 
 ### Manga
 - [Com-X](https://com-x.life/)
