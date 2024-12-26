@@ -160,7 +160,7 @@ outline: 1
 - [Japanese Animated Film Classics](https://animation.filmarchives.jp/en/index.html)
 
 ### Donghua
-- [Animekhor](https://animekhor.xyz/)
+- [Animekhor](https://animekhor.org/)
 - [COMICXY](https://comicxy.com/)
 - [Crimson Subs](https://crimsonfansubs.com/)
 - [Dongsub](https://www.dongsub.com/)
