@@ -66,6 +66,11 @@ Wotaku fetches icons from [**Icones**](https://icones.js.org/). All the added ic
 - Inside button, page icon -> :i-package name-icon name:
 
 
+::: tip Using Alias
+Most used icons have been shortened using Alias. You can find them in [sheet](#sheet). They work in-line, not inside button. You have to use the traditional method.
+
+:::
+
 ![](/iconname.png)
 
 ::: info Twitter emoji
@@ -82,14 +87,21 @@ Twitter emoji is the default iconpack for wotaku. For twemoji, you dont have to 
 You have to add the iconpack manually in `docs\.vitepress\configs\emoji.ts`. Otherwise it wont work. Follow the already added ones as example.
 
 
-### Sorting
+### Rules
+1. Follow the order of the tabs in [**sheet**](#sheet)
+2. There will be no space between icons. Just at the beginning.
+3. Icons will be after main URL
+4. Then github/gitlab or similar source link button
+5. Then related buttons like Extensions, Alts, Proxies etc
+6. Unlike icons, there will be space between buttons (so that it is easy to click).
+7. If there is an icon for that button (example: GitHub), use [icon](URL). Otherwise normal button.
+8. Tooltip will always be at the end. Also with a space before it.
 
-**Rules**
-1. There will be no space between icons
-2. Icons will be after main URL
-3. Then github/gitlab or similar source link button
-4. Then related buttons like Guides, Proxies etc
-5. Unlike icons, there will be space between buttons (so that it is easy to click).
+**Example**: [Anisong Database](https://anisongdb.com/) :win::app::web: [:gh:](https://github.com/xSardine/AMQ-Artists-DB) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" /> <tooltip>icons here are just for example. dont put them in main wiki</tooltip>
+
+```
+[Anisong Database](https://anisongdb.com/) :win::app::web: [:gh:](https://github.com/xSardine/AMQ-Artists-DB) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" /> <tooltip>icons here are just for example. dont put them in main wiki</tooltip>
+```
 
 ### Sheet
 
