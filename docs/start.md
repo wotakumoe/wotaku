@@ -59,7 +59,7 @@ outline: [2-3]
 
 
 ## Icon conventions
-Wotaku fetches icons from [**Icones**](https://icones.js.org/). All the added iconpacks are [**here**](https://github.com/wotakumoe/wotaku/network/dependencies?page=1&q=iconify-json%2F).
+Wotaku fetches icons from [**Icones**](https://icones.js.org/). All the added iconpacks are [**here**](https://github.com/wotakumoe/wotaku/blob/main/docs/.vitepress/configs/emoji.ts#L20).
 
 ### Writing Rules
 - In-line -> :package name-icon name:
@@ -99,7 +99,7 @@ You have to add the iconpack manually in `docs\.vitepress\configs\emoji.ts`. Oth
 
 **Example**: [Anisong Database](https://anisongdb.com/) :win::app::web: [:gh:](https://github.com/xSardine/AMQ-Artists-DB) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" /> <tooltip>icons here are just for example. dont put them in main wiki</tooltip>
 
-```
+``` html
 [Anisong Database](https://anisongdb.com/) :win::app::web: [:gh:](https://github.com/xSardine/AMQ-Artists-DB) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" /> <tooltip>icons here are just for example. dont put them in main wiki</tooltip>
 ```
 
