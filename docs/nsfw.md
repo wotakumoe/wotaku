@@ -16,10 +16,11 @@ outline: [1,2]
 :::
 
 ## Anime
-- [Eronews](https://en.eroeronews.com/) <Badge type="tip" text="Schedule & News" />
+- [Eronews](https://en.eroeronews.com/) <Badge type="info" text="Schedule & News" />
 - [AnimeID Hentai](https://animeidhentai.com/)
-- [Hanime](https://hanime.tv/) <Badge type="info" text="720p" /> 
+- [Hanime](https://hanime.tv/) <Badge type="info" text="720p" />
 - [Hentai.tv](https://hentai.tv/)
+- [Hentaibros](https://hentaibros.net/)
 - [Hentai AHO Streaming](https://haho.moe/)
 - [Hentai Haven](https://hentaihaven.xxx/)
 - [Hentai Mama](https://hentaimama.io/)
@@ -30,7 +31,7 @@ outline: [1,2]
 - [Mucho Hentai](https://muchohentai.com/) <Badge type="info" text="Schedule" /> <Badge type="info" text="PV" />
 - [Oppai](https://oppai.stream/) <Badge type="info" text="Upscale" />
 - [Rule34video](https://rule34video.com/)
-- [Sakura Circle](https://sakuracircle.com/) <Badge type="info" text="DDL" />
+- [Sakura Circle](https://sakuracircle.com/) :ddl:
 
 ## Manga
 
@@ -57,7 +58,7 @@ outline: [1,2]
 ## Manhwa
 
 ### Aggregator
-- [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13)  <Badge type="info" text="DDL" />
+- [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) :ddl:
 - [Batoto](https://battwo.com/v3x) <Badge type="tip" text="2" link="https://mangatoto.net/" /> <Badge type="tip" text="3" link="https://mangatoto.com/" />
 - [Doujindesu](https://doujindesu.tv/) <Badge type="info" text="Raw" />
 - [Hiperdex](https://hiperdex.com/)
