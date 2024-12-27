@@ -73,7 +73,6 @@ outline: [1,2]
 - [Mack Bay](https://x.com/SaberzzSeiba) :x:
 - [randomsakuga](https://x.com/randomsakuga) :x:
 - [rinri](https://x.com/guyayaHime) :x:
-- [Sakuga Clips](https://x.com/sakugaclips) :x:
 - [SakugaDEYO](https://x.com/SakugaDEYO) :x:
 - [Sakuga 作画](https://x.com/sakugacontent) :x:
 
