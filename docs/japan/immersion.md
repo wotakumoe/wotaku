@@ -35,9 +35,6 @@ outline: [2,3]
 - [r/VN's 2018](https://vnrecs.github.io/)
 - [What are you reading?](https://some-guy.org/vnswayrarchive/recommendations)
 
-### Technical
-- [Fully Automatic Retiming of Subtitles](https://youtu.be/x0h3ooBHrpk)
-
 
 ## Anime
 - [Animelon](https://animelon.com/) :s:
@@ -84,6 +81,7 @@ outline: [2,3]
 - [moex3's JP Anime Subs](https://github.com/moex3/random_jp_anime_subs)
 - [JP Subtitles](https://github.com/Matchoo95/JP-Subtitles)
 - [JP Audiobook Subtitles](https://github.com/ym1234/JPAudiobookSubtitles)
+- [Fully Automatic Retiming of Subtitles](https://youtu.be/x0h3ooBHrpk)
 
 
 ## Easy Reading
