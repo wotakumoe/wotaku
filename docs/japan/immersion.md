@@ -8,11 +8,16 @@ outline: [2,3]
 <GradientCard title="Immersion" description="Media to help you learn japanese" theme="turquoise" variant="thin"/>
 
 
-## Guide
+## Guides
 
 ### General
 
-- **jpdb difficulty list** <Badge type="tip" text="Anime" link="https://jpdb.io/anime-difficulty-list"/> <Badge type="tip" text="Live Action" link="https://jpdb.io/live-action-difficulty-list"/> <Badge type="tip" text="Novel" link="https://jpdb.io/novel-difficulty-list"/> <Badge type="tip" text="Visual Novel" link="https://jpdb.io/visual-novel-difficulty-list"/> <Badge type="tip" text="Web Novel" link="https://jpdb.io/web-novel-difficulty-list" /> 
+- **jpdb difficulty list**
+  - [Anime](https://jpdb.io/anime-difficulty-list)
+  - [Live Action](https://jpdb.io/live-action-difficulty-list)
+  - [Novels](https://jpdb.io/novel-difficulty-list)
+  - [Visual Novels](https://jpdb.io/visual-novel-difficulty-list)
+  - [Web Novels](https://jpdb.io/web-novel-difficulty-list)
 - [Kuri's Japanese Media Recommendations](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/edit#gid=1019246469)
 - [Jo-Mako's Japanese Spreadsheet](https://docs.google.com/spreadsheets/d/1ukDIWSkh_xvpppPbgs1nUR2kaEwFaWlsJgZUlb9LuTs/edit#gid=822742203)
 - [Learn Natively](https://learnnatively.com/)
@@ -22,7 +27,7 @@ outline: [2,3]
 - [Acquiring Japanese Efficiently](https://docs.google.com/document/d/1LH82FjsCqCgp6-TFqUcS_EB15V7sx7O1VCjREp6Lexw/edit#heading=h.ct5zhbvvh3b8)
 - [Inhae's blog](https://notes.inhae.blog/)
 
-### VN
+### Visual Novels
 - [List of starter Japanese Media](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub)
 - [VN-chart by difficulty](https://anacreondjt.gitlab.io/vn-chart/)
 - [r/Visualnovels](https://sites.google.com/view/rvisualnovels-recs/home)
