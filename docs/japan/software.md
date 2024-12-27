@@ -189,25 +189,24 @@ outline: [2,3]
 - [JL](https://github.com/rampaa/JL)
 
 #### Subtitles
-- [Aegisub](https://github.com/arch1t3cht/Aegisub) :win::app::lin:  `Subtitle editor`
-- [Resync subtitles](https://animecards.site/subtitles/) :win:
-- [Subtitle Edit](https://www.nikse.dk/subtitleedit) :win: [:gh:](https://github.com/SubtitleEdit/subtitleedit)  `Subtitle editor`
-- [Subtitle Downloader](https://github.com/wayneclub/Subtitle-Downloader) :win::app::lin: `Download subtitle from streaming services`
-- [subs2srs](https://subs2srs.sourceforge.net/) :win: `Generates audio clip from media using subs for Anki/SRS`
-- [subtitles-rs](https://github.com/emk/subtitles-rs) :app::lin: `Various subtitle related tools`
-- [subs2cia](https://github.com/dxing97/subs2cia) :app::lin: `Generates audio clip from media using subs for Anki/SRS`
-- [FFsubsync](https://github.com/smacke/ffsubsync) :win::app::lin: `Auto-sync subs with video`
-- [SubPlz](https://github.com/kanjieater/SubPlz/) :win::lin: `Generate accurate subtitles from audio`
-- [Subtitle Character Counter](https://cademcniven.com/subtitleCharacterCounter.html) :web:
-- [Sub transition](https://github.com/Ajatt-Tools/sub-transition) :simple-icons-mpv: `Speed up the video parts with no subs`
-- [Nekomoe JP Formatter](https://jp-formatter.pages.dev/) :web: [:gh:](https://github.com/Nekomoekissaten-SUB/nekomoe-jp-formatter)  `Clean up subtitles`
-- :material-symbols-subdirectory-arrow-right: [Resource list for subtitle-related things](https://rentry.co/jpsub)
+- **SRS**
+  - [subs2srs](https://subs2srs.sourceforge.net/) :win:
+  - [subtitles-rs](https://github.com/emk/subtitles-rs) :app::lin:
+  - [subs2cia](https://github.com/dxing97/subs2cia) :app::lin:
+- **Others**
+  - [Subtitle Downloader](https://github.com/wayneclub/Subtitle-Downloader) :win::app::lin:
+  - [Nekomoe JP Formatter](https://jp-formatter.pages.dev/) :web: [:gh:](https://github.com/Nekomoekissaten-SUB/nekomoe-jp-formatter)
+  - [SubPlz](https://github.com/kanjieater/SubPlz/) :win::lin:
+  - [Sub transition](https://github.com/Ajatt-Tools/sub-transition) :simple-icons-mpv:
+  - [Subtitle Character Counter](https://cademcniven.com/subtitleCharacterCounter.html) :web:
+  - [Resource list for subtitle-related things](https://rentry.co/jpsub)
+- :material-symbols-subdirectory-arrow-right: [General subtitle tools](/tools#fansubbing-sub-tools)
 
 #### Audio tools
 - [Automatic Condensed Audio Dialogue Script](https://anacreondjt.gitlab.io/docs/condensed_audio/)
 - [Koemoe](https://condense.moe/)
-- [Tenacity](https://tenacityaudio.org/) :win::lin: `Audio Editor`
-- [Immersion pod](https://github.com/Ajatt-Tools/impd) `Condensed audio tools through mpd`
+- [Tenacity](https://tenacityaudio.org/) :win::lin:
+- [Immersion pod](https://github.com/Ajatt-Tools/impd)
 
 #### Games/VN
 - [EXSTATIC](https://github.com/KamWithK/exSTATic)

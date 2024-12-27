@@ -164,30 +164,16 @@ outline: [1,2]
 
 
 ## Fansubbing & Sub Tools
-- Adobe Software :cs:
-  - [m0nkrus](https://vk.com/monkrus) :win::app:
-  - [RuTracker](https://rutracker.org/forum/index.php) :win::app:
-  - [GenP](https://genpguides.github.io) :win:
-  - [Download Pirate](https://www.downloadpirate.com/) :win:
-  - [a.dove.isdumb.one](https://github.com/ignaciocastro/a-dove-is-dumb)
-  - :material-symbols-subdirectory-arrow-right: Adobe Alternatives
-    - [KennyNL](https://github.com/KenneyNL/Adobe-Alternatives)
-    - [XdanielArt](https://rentry.org/adobealt)
-- [Aegisub](https://github.com/arch1t3cht/Aegisub) :win::app::lin: <Badge type="tip" text="Original" link="https://github.com/TypesettingTools/Aegisub" />
-- [AviSynth+](https://avs-plus.net/) :win::app::lin: [:gh:](https://github.com/AviSynth/AviSynthPlus)
-- [gMKVExtractGUI](https://sourceforge.net/projects/gmkvextractgui/) :win::app::lin:
-- [MKVcleaver](https://www.videohelp.com/software/MKVcleaver) :win::cs:
-- [MKV Extract](https://qgustavor.github.io/mkv-extract/en/) :web: [:gh:](https://github.com/qgustavor/mkv-extract/)
-- [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) :win:
-- [mpvQC](https://github.com/mpvqc/mpvQC) :win:
-- [StaxRip](https://github.com/staxrip/staxrip) :win:
-- [Subtitle Edit](https://www.nikse.dk/subtitleedit) :win: [:gh:](https://github.com/SubtitleEdit/subtitleedit)
-- [Sushi.net](https://github.com/maxpiva/Sushi.Net) :win::app::lin:
-- [VapourSynth](https://www.vapoursynth.com/) :win: [:gh:](https://github.com/vapoursynth/vapoursynth)
-  - :material-symbols-subdirectory-arrow-right: [VSDB](https://vsdb.top/)
-- [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) :win::app::lin:
+| Category | Resources |  
+|--------------|---------------|  
+| General | [Aegisub](https://github.com/arch1t3cht/Aegisub) :win::app::lin: <br> [Subtitle Edit](https://www.nikse.dk/subtitleedit) :win: [:gh:](https://github.com/SubtitleEdit/subtitleedit) |  
+| Adobe | [m0nkrus](https://vk.com/monkrus) :win::app: <br> [RuTracker](https://rutracker.org/forum/index.php) :win::app: <br> [GenP](https://genpguides.github.io) :win: <br> [Download Pirate](https://www.downloadpirate.com/) :win: <br> [a.dove.isdumb.one](https://github.com/ignaciocastro/a-dove-is-dumb) |  
+| Encoding | [AviSynth+](https://avs-plus.net/) :win::app::lin: [:gh:](https://github.com/AviSynth/AviSynthPlus) <br> [mpvQC](https://mpvqc.github.io/) [:gh:](https://github.com/mpvqc/mpvQC) :win: <br> [StaxRip](https://github.com/staxrip/staxrip) :win: <br> [VapourSynth](https://www.vapoursynth.com/) :win: [:gh:](https://github.com/vapoursynth/vapoursynth) <br> [VapourSynth Database](https://vsdb.top/) |  
+| MKV Tools | [gMKVExtractGUI](https://sourceforge.net/projects/gmkvextractgui/) :win::app::lin: <br> [MKVcleaver](https://www.videohelp.com/software/MKVcleaver) :win::cs: <br> [MKV Extract](https://qgustavor.github.io/mkv-extract/en/) :web: [:gh:](https://github.com/qgustavor/mkv-extract/) <br> [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) :win: |  
+| Sync | [FFsubsync](https://github.com/smacke/ffsubsync) :win::app::lin: <br> [Resync subtitles](https://animecards.site/subtitles/) :win: <br> [Sushi.net](https://github.com/maxpiva/Sushi.Net) :win::app::lin: |
+| Other | [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) :win::app::lin: |
 - :material-symbols-subdirectory-arrow-right: [Encoding & Fansubbing Guides](/misc#encoding-fansubbing-guides)
-- :material-symbols-subdirectory-arrow-right: [More subtitle tools](/japan/software#subtitle)
+- :material-symbols-subdirectory-arrow-right: [JP Learning centric tools](/japan/software#subtitles)
 
 
 ## arr Tools
