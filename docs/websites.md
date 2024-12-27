@@ -150,6 +150,20 @@ outline: 1
 - [Shiroko](https://shiroko.co/en) :mingcute-refresh-2-fill:
 :::
 
+::: details Donghua
+- [Animekhor](https://animekhor.org/) [:tg:](https://t.me/AnimeKhorOfficial)
+- [Chiki Animation](https://chikianimation.com/) <Badge type="info" text="2D" /> [:tg:](https://t.me/Donghuanewofficial)
+- [Chiki Animation](https://chikianimation.net/) <Badge type="info" text="3D" /> [:tg:](https://t.me/Dimensional_Animation)
+- [COMICXY](https://comicxy.in/) [:d:](https://discord.gg/zmAy8YuVrg) [:tg:](https://telegram.me/chineseanimecoin)
+- [Donghua Stream](https://donghuastream.org/) [:d:](https://discord.gg/4zrUguAakG) [:tg:](https://telegram.me/DonghuaStream_com)
+- [Dongsub](https://www.dongsub.com/) [:tg:](https://t.me/dongsub)
+- [JHD Anime](https://jhdanime.live/) [:tg:](https://telegram.im/@jhdanime)
+- [LM Anime](https://lmanime.com/)
+- [Lucifer Donghua](https://luciferdonghua.in/)
+- [Myanime](https://myanime.live/)
+
+:::
+
 :::details Misc
 
 ### Others
@@ -158,21 +172,6 @@ outline: 1
   - [Stremio](https://github.com/au2001/onepace-stremio)
 - [Sonic Zone TV](https://soniczone.net/tv/home.html)
 - [Japanese Animated Film Classics](https://animation.filmarchives.jp/en/index.html)
-
-### Donghua
-- [Animekhor](https://animekhor.org/)
-- [Chiki Animation](https://chikianimation.com/) <Badge type="info" text="2D" />
-- [Chiki Animation](https://chikianimation.net/) <Badge type="info" text="3D" />
-- [COMICXY](https://comicxy.com/)
-- [Crimson Subs](https://crimsonfansubs.com/)
-- [Donghua Stream](https://donghuastream.org/)
-- [Donghua World](https://donghuaworld.com/)
-- [Dongsub](https://www.dongsub.com/)
-- [H-Donghua](https://h-donghua.xyz/)
-- [JHD Anime](https://jhdanime.live/)
-- [LM Anime](https://lmanime.com/)
-- [Lucifer Donghua](https://luciferdonghua.in/)
-- [Myanime](https://myanime.live/)
 
 ### Youtube
 - [Anime Bancho](https://www.youtube.com/@AnimeBancho/)
