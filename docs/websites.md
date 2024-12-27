@@ -159,7 +159,7 @@ outline: 1
 - [Dongsub](https://www.dongsub.com/) [:tg:](https://t.me/dongsub)
 - [JHD Anime](https://jhdanime.live/) [:tg:](https://telegram.im/@jhdanime)
 - [LM Anime](https://lmanime.com/)
-- [Lucifer Donghua](https://luciferdonghua.in/)
+- [Lucifer Donghua](https://luciferdonghua.in/) [:tg:](https://t.me/luciferdonghuaz)
 - [Myanime](https://myanime.live/)
 
 :::
