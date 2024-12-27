@@ -188,8 +188,8 @@ outline: [2,3]
 - [japReader](https://github.com/marisukukise/japReader)
 - [JL](https://github.com/rampaa/JL)
 
-#### Subtitle
-- [Ageisub](https://github.com/arch1t3cht/Aegisub) :win::app:  `Subtitle editor`
+#### Subtitles
+- [Aegisub](https://github.com/arch1t3cht/Aegisub) :win::app::lin:  `Subtitle editor`
 - [Resync subtitles](https://animecards.site/subtitles/) :win:
 - [Subtitle Edit](https://www.nikse.dk/subtitleedit) :win: [:gh:](https://github.com/SubtitleEdit/subtitleedit)  `Subtitle editor`
 - [Subtitle Downloader](https://github.com/wayneclub/Subtitle-Downloader) :win::app::lin: `Download subtitle from streaming services`
