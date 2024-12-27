@@ -140,7 +140,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [Hentoid](https://github.com/avluis/Hentoid)
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
 - [Jasmine](https://github.com/niuhuan/jasmine)
-- [NClientV2](https://github.com/Dar9586/NClientV2)
+- [NClientV3](https://github.com/maxwai/NClientV3) <Badge type="tip" text="V2" link="https://github.com/Dar9586/NClientV2" />
 - [Pupil](https://github.com/tom5079/Pupil)
 
 ## iOS
