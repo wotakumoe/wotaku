@@ -161,9 +161,15 @@ outline: 1
 
 ### Donghua
 - [Animekhor](https://animekhor.org/)
+- [Chiki Animation](https://chikianimation.com/) <Badge type="info" text="2D" />
+- [Chiki Animation](https://chikianimation.net/) <Badge type="info" text="3D" />
 - [COMICXY](https://comicxy.com/)
 - [Crimson Subs](https://crimsonfansubs.com/)
+- [Donghua Stream](https://donghuastream.org/)
+- [Donghua World](https://donghuaworld.com/)
 - [Dongsub](https://www.dongsub.com/)
+- [H-Donghua](https://h-donghua.xyz/)
+- [JHD Anime](https://jhdanime.live/)
 - [LM Anime](https://lmanime.com/)
 - [Lucifer Donghua](https://luciferdonghua.in/)
 - [Myanime](https://myanime.live/)
