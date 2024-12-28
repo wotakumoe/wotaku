@@ -72,7 +72,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 
 ## General
 - Adobe Software :paid::cs:
-  - [m0nkrus](https://vk.com/monkrus) :win::app:
+  - [m0nkrus](https://w16.monkrus.ws/) :win::app: [:simple-icons-vk:](https://vk.com/monkrus)
   - [RuTracker](https://rutracker.org/forum/index.php) :win::app:
   - [GenP](https://genpguides.github.io) :win:
   - [Download Pirate](https://www.downloadpirate.com/) :win:

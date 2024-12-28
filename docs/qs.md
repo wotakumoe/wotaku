@@ -150,7 +150,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 
 - **Anime & Manga**
   - [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) :win: <Badge type="info" text="Manga" />
-  - [Hakuneko](https://github.com/manga-download/haruneko) :win::app::lin: <Badge type="info" text="General" />
+  - [Hakuneko](https://github.com/manga-download/haruneko) :win::app::lin: <Badge type="info" text="General" /> <Badge type="tip" text="Old" link="https://github.com/manga-download/hakuneko" /> <tooltip>For Linux, you have to use old one atm.</tooltip>
   - [Red Squirrel's Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader) :win::lin::cs: <Badge type="info" text="Manga" />
 - **Direct**
   - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) :and::cs:

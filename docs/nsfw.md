@@ -161,7 +161,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 
 
 ### Downloader
-- [Hakuneko](https://github.com/manga-download/haruneko) <Badge type="info" text="Multi" /> [:web:](https://hakuneko.download/)
+- [Hakuneko](https://github.com/manga-download/haruneko) :win::app::lin: <Badge type="info" text="Multi" /> <Badge type="tip" text="Old" link="https://github.com/manga-download/hakuneko" /> <tooltip>For Linux, you have to use old one atm.</tooltip>
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) <Badge type="info" text="Multi" /> <Badge type="info" text="Anime" /> [:web:]()
 - [HDoujin Downloader](https://doujindownloader.com/) <Badge type="info" text="Multi" />
 - [Hentai downloader](https://github.com/touno-io/hentai-downloader) <Badge type="info" text="E-Hentai" />

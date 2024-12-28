@@ -234,9 +234,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 ### Anime
 
-- **Hakuneko**
-  - [Classic](https://hakuneko.download/) :win::app::lin: [:gh:](https://github.com/manga-download/hakuneko)
-  - [Fluent Core](https://github.com/manga-download/haruneko) :win::app:
+- [Hakuneko](https://github.com/manga-download/haruneko) :win::app::lin: <Badge type="tip" text="Old" link="https://github.com/manga-download/hakuneko" /> <tooltip>For Linux, you have to use old one atm.</tooltip>
 - [ADL](https://github.com/RaitaroH/adl) :win::lin::cmd:
 - [Crunchyroll-Downloader](https://github.com/Crunchy-DL/Crunchy-Downloader) :win:
   - [Keydive](https://github.com/hyugogirubato/KeyDive)
@@ -246,9 +244,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 - [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) :win:
 - [Red Squirrel's Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader) :win::lin::cs:
-- **Hakuneko**
-  - [Classic](https://hakuneko.download/) :win::app::lin: [:gh:](https://github.com/manga-download/hakuneko)
-  - [Fluent Core](https://github.com/manga-download/haruneko) :win::app:
+- [Hakuneko](https://github.com/manga-download/haruneko) :win::app::lin: <Badge type="tip" text="Old" link="https://github.com/manga-download/hakuneko" /> <tooltip>For Linux, you have to use old one atm.</tooltip>
 - [MangaL](https://github.com/metafates/mangal) :win::app::lin::cmd:
 - [HDoujin Downloader](https://doujindownloader.com/) :win::cs: <tooltip>Has a 25 chapter daily limit</tooltip>
 
