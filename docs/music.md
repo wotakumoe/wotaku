@@ -334,10 +334,10 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 
 ### Online
 - [**Youtube Music**](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
-  - [Revanced Music](https://github.com/j-hc/revanced-magisk-module/releases)
+  - [Revanced Music](https://github.com/j-hc/revanced-magisk-module/releases) :and:
   - [Innertune](https://github.com/z-huang/InnerTune) :s::and:
   - [Metrolist](https://github.com/mostafaalagamy/metrolist) :and:
-  - [OuterTune](https://github.com/DD3Boh/OuterTune)
+  - [OuterTune](https://github.com/DD3Boh/OuterTune) :and:
   - [RiMusic](https://github.com/fast4x/RiMusic) :and:
   - [SimpMusic](https://github.com/maxrave-dev/SimpMusic) :and:
 - [**Spotify**](https://www.spotify.com/us/download/) :cs:
