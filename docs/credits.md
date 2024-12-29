@@ -24,17 +24,26 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 
 == Art 
 
-- Smol Ame home art by [**Dr.Pigeon PhD**](https://x.com/PhdPigeon/status/1866313003119030404)
-- Smol Ame fav art by [**Dr.Pigeon PhD**](https://x.com/PhdPigeon/status/1869579249688231945)
-- Hololive EN plush art by [**CLERO**](https://x.com/CLERO_ART/status/1788894299007971680)
-- Embed art by [**夕城**](https://x.com/yukiyasa1/status/1770385782379020322)
-- Smol Ina's diary by [**underdatv**](https://x.com/underdatv/status/1790765775349072046)
+#### Current Assets
 - AO-chan by [**3ton**](https://www.pixiv.net/en/artworks/110412826)
-- Artoria Pendragon (Fate) by [**MinJaeCucheoo**](https://www.deviantart.com/minjaecucheoo/art/Transparent-PNG-Artoria-Pendragon-Fate-845014345)
+- Embed art by [**夕城**](https://x.com/yukiyasa1/status/1770385782379020322)
 - Moiré vs Non-Moiré Pattern Comparison by [**konijnsate**](https://tips.clip-studio.com/en-us/articles/3489)
 - NSFW banner art taken from [**Mogudan Illust Works**](https://www.fakku.net/hentai/mogudan-illust-works-english)
+- Smol Ame favicon art by [**Dr.Pigeon PhD**](https://x.com/PhdPigeon/status/1869579249688231945)
+- Smol Ame home art by [**Dr.Pigeon PhD**](https://x.com/PhdPigeon/status/1866313003119030404)
 - Suisei music banner art by [**フカヒレ**](https://x.com/fuka_hire/status/1619998921757192195)
-- Christmas card art by [**advarcher**](https://www.pixiv.net/en/artworks/114538066)
+
+#### Previous Assets
+- Artoria Pendragon (Fate) by [**MinJaeCucheoo**](https://www.deviantart.com/minjaecucheoo/art/Transparent-PNG-Artoria-Pendragon-Fate-845014345)
+- Christmas card 2024 art by [**advarcher**](https://www.pixiv.net/en/artworks/114538066)
+- Hololive EN plush art by [**CLERO**](https://x.com/CLERO_ART/status/1788894299007971680)
+- Ninomae Ina'Nis back art by [**Himeliofon**](https://x.com/hmlf_/status/1581015485524545536)
+- Ninomae Ina'Nis padoru by [**how-dee**](https://www.reddit.com/r/Padoru/comments/iu6jvx/ninomae_inanis_hololive/)
+- Ninomae Ina'Nis pixel art by [**Holocure Team**](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/)
+- Ninomae Ina'Nis reading art by [**Ninomae Ina'Nis**](https://x.com/ninomaeinanis/status/1340047328963510273)
+- Ninomae Ina'Nis WAH by [**Chroneco**](https://www.chroneco.moe/)
+- Ninomae Ina'Nis WAHU WAHU by [**Ninomae Ina'Nis**](https://x.com/ninomaeinanis/status/1652829909218373632)
+- Smol Ina's diary by [**underdatv**](https://x.com/underdatv/status/1790765775349072046)
 
 == Glossary
 
