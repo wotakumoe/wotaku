@@ -174,7 +174,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 - [Seanime](https://seanime.rahim.app/) :win::app::lin::mag::ddl: [:gh:](https://github.com/5rahim/seanime)
 - [Unyo](https://github.com/K3vinb5/Unyo)  :win::app::lin::ddl:
 - [Toru](https://github.com/sweetbbak/toru) :win::app::lin::cmd::mag:
-- [AnimeTV](https://amarullz.com/) :win::app::lin::ddl: [:gh:](https://github.com/amarullz/AnimeTV)
+- [AnimeTV](https://amarullz.com/) :win::lin::ddl: [:gh:](https://github.com/amarullz/AnimeTV)
 
 :::details More
 - [Miru App](https://miru.js.org/) :win: [:gh:](https://github.com/miru-project/miru-app) :mag::ddl:
