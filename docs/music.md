@@ -198,6 +198,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [Jukebox](https://jukebox.today/)
 - [LRCLIB](https://lrclib.net/)
 - [Metadata Lookup Engine](https://seed.musichoarders.xyz/)
+- [ReleaseFeed](https://releasefeed.elomatreb.eu/) [:cb:](https://codeberg.org/elomatreb/releasefeed)
 - [Songle](https://songle.jp/) <Badge text="Vocaloid"/>
 - [Songlink](https://odesli.co/)
 - [Soundiiz](https://soundiiz.com/) <Badge text="Transfer"/>
