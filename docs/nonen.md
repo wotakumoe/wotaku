@@ -386,7 +386,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [BlackToon](https://blacktoon.live/) <Badge type="danger" text="18+" />
 - [Manatoki](https://www.xn--h10b2b940bwzy.store/) <Badge type="danger" text="18+" />
 - [Newtoki](https://www.ntoki.info/) <Badge type="danger" text="18+" />
-- [OKToon](https://oktoon.com/) <Badge type="danger" text="18+" /> <tooltip>Needs Korean VPN server.</tooltip>
 - [TOONKOR](https://www.xn--yq5bv6mzmcca.live/) <Badge type="info" text="2" link="https://funbe451.com/%EC%9B%B9%ED%88%B0" /> <Badge type="danger" text="18+" />
 - [Wolf](https://nicelink22.com/) <Badge type="danger" text="18+" />
 
