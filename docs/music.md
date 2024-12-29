@@ -531,13 +531,13 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 - [Subsonic](https://www.subsonic.org/pages/index.jsp)
 
 ## Android
+- [Tempo](https://github.com/CappielloAntonio/tempo) :s:
 - [Subtracks](https://github.com/austinried/subtracks#readme)
 - [substreamer](https://substreamerapp.com/)
 - [Ultrasonic](https://ultrasonic.gitlab.io/)
 - [Plexamp](https://www.plex.tv/plexamp/) :fm:
 - [DSub](https://play.google.com/store/apps/details?id=github.daneren2005.dsub) :paid:
 - [Symfonium](https://symfonium.app/) :paid:  
-- [Tempo](https://github.com/CappielloAntonio/tempo)
 
 ## iOS
 
