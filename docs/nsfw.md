@@ -12,11 +12,11 @@ outline: [1,2]
 
 <br>
 
-::: info [**Sukebei**](https://sukebei.nyaa.si/) for everything
+::: info Readme
+[**Nyaa Sukebei**](https://sukebei.nyaa.si/) is kinda ideal for everything. You can check [**Eronews**](https://en.eroeronews.com/) for news and ero anime schedule. [**AniSchedule**](https://github.com/RockinChaos/AniSchedule) has :rss: RSS Feed for ero anime release. 
 :::
 
 ## Anime
-- [Eronews](https://en.eroeronews.com/) <Badge type="info" text="Schedule & News" />
 - [AnimeID Hentai](https://animeidhentai.com/)
 - [Hanime](https://hanime.tv/) <Badge type="info" text="720p" />
 - [Hentai.tv](https://hentai.tv/)
