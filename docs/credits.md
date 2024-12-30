@@ -28,7 +28,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 
 | Artist / Studio         | Art                                                                                                                                | Used as               |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
-| **3ton**                | [AO-chan](https://www.pixiv.net/en/artworks/110412826)                                                                             | Default banner        |
+| **三萬筒 (30kton)**     | [AO-chan](https://www.pixiv.net/en/artworks/110412826)                                                                             | Default banner        |
 | **ATLUS**               | [Futaba Sakura](https://megamitensei.fandom.com/wiki/Futaba_Sakura)                                                                | Music banner          |
 | **Capcom**              | [Phoenix Wright](https://news.capcomusa.com/lets/browse/phoenix-wright-ace-attorney-trilogy-dev-column-2-the-art-of-the-turnabout) | Legal banner          |
 | **ChristieDA**          | [Headphone Anime Girl Render](https://www.deviantart.com/christieda/art/Headphone-Anime-Girl-Render-611521170)                     | Audio Glossary banner |
@@ -41,7 +41,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Jan Azuren**          | [Elie Wayne](https://www.pixiv.net/en/artworks/98768157)                                                                           | Music banner          |
 | **J.C.Staff**           | [Taiga Aisaka](https://donmai.moe/posts/8290230)                                                                                   | Music banner          |
 | **Kazuki Takahashi**    | [Yami Yugi](https://www.zerochan.net/7739)                                                                                         | Manga banner          |
-| **konijnsate**          | [Moiré vs Non-Moiré Pattern Comparison](https://tips.clip-studio.com/en-us/articles/3489)                                          | Glossary              |
+| **konijnsate**          | [Moiré vs Non-Moiré Pattern Comparison](https://tips.clip-studio.com/en-us/articles/3489)                                         | Manga glossary example |
 | **Kyoto Animation**     | [Mio Akiyama](https://konachan.net/post/show/49838)                                                                                | Music banner          |
 | **Kyoto Animation**     | [Tsumugi Kotobuki](https://konachan.com/post/show/169507)                                                                          | Audio Glossary banner |
 | **Lacie Walker**        | [Eto Yoshimura](https://www.zerochan.net/1880948)                                                                                  | 4chan banner          |
@@ -53,7 +53,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **トゥーミ (Twumi)**    | [Chibi Nadeshiko Kagamihara](https://www.pixiv.net/en/artworks/67505931)                                                           | Essentials banner     |
 | **tyasuzu**             | [Ryo Yamada](https://www.pixiv.net/en/artworks/104004187)                                                                          | Music banner          |
 | **WayForward**          | [Risky Boots](https://shantae.fandom.com/wiki/Risky_Boots)                                                                         | PT banner             |
-| **youamo**              | [Antonina](https://42lab-us.sunborngame.com/index)                                                                                 | Music banner          |
+| **柱 (youamo)**         | [Antonina](https://42lab-us.sunborngame.com/index)                                                                                 | Music banner          |
 | **夕城 (Yuki)**         | [Hoshimachi Suisei meteor shower](https://xfolio.jp/en/portfolio/yukiyasa1/works/3491276)                                          | Link embed            |
 | **れんた (Renta)**      | [Defoko birthday festival!](https://www.pixiv.net/en/artworks/41424418)                                                            | Audio Glossary banner |
 
@@ -68,11 +68,11 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Holocure**             | [Ninomae Ina’nis idle](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/)                               | Favicon             |
 | **how-dee**              | [Ninomae Ina’nis padoru](https://www.reddit.com/r/Padoru/comments/iu6jvx/ninomae_inanis_hololive/)                        | Home art & Favicon  |
 | **MinJaeCucheoo**        | [Artoria Pendragon (Fate)](https://www.deviantart.com/minjaecucheoo/art/Transparent-PNG-Artoria-Pendragon-Fate-845014345) | Fate banner         |
-| **森倉円 (Morikura En)** | [Kizuna Ai](https://en.namu.wiki/w/%ED%82%A4%EC%A6%88%EB%82%98%20%EC%95%84%EC%9D%B4)                                      | Vtuber banner       |
+| **森倉円 (Morikura En)** | [Kizuna Ai Profile Art](https://en.namu.wiki/w/%ED%82%A4%EC%A6%88%EB%82%98%20%EC%95%84%EC%9D%B4)                          | Vtuber banner       |
 | **Ninomae Ina’nis**      | [Ninomae Ina’nis peek](https://x.com/ninomaeinanis/status/1339282161715691521)                                            | General banner      |
 | **Ninomae Ina’nis**      | [Ninomae Ina’nis reading](https://x.com/ninomaeinanis/status/1340047328963510273)                                         | Glossary banner     |
 | **Ninomae Ina’nis**      | [Ninomae Ina’nis WAHU WAHU](https://x.com/ninomaeinanis/status/1652829909218373632)                                       | Button              |
-| **underdatv**            | [Smol Ina's diary](https://x.com/underdatv/status/1790765775349072046)                                                    | Favicon             |
+| **티비아래underdatv**     | [Smol Ina's diary](https://x.com/underdatv/status/1790765775349072046)                                                    | Favicon             |
 
 
 == Glossary
