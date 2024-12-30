@@ -68,11 +68,11 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Holocure**             | [Ninomae Ina’nis idle](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/)                               | Favicon             |
 | **how-dee**              | [Ninomae Ina’nis padoru](https://www.reddit.com/r/Padoru/comments/iu6jvx/ninomae_inanis_hololive/)                        | Home art & Favicon  |
 | **MinJaeCucheoo**        | [Artoria Pendragon (Fate)](https://www.deviantart.com/minjaecucheoo/art/Transparent-PNG-Artoria-Pendragon-Fate-845014345) | Fate banner         |
+| **森倉円 (Morikura En)** | [Kizuna Ai](https://en.namu.wiki/w/%ED%82%A4%EC%A6%88%EB%82%98%20%EC%95%84%EC%9D%B4)                                      | Vtuber banner       |
 | **Ninomae Ina’nis**      | [Ninomae Ina’nis peek](https://x.com/ninomaeinanis/status/1339282161715691521)                                            | General banner      |
 | **Ninomae Ina’nis**      | [Ninomae Ina’nis reading](https://x.com/ninomaeinanis/status/1340047328963510273)                                         | Glossary banner     |
 | **Ninomae Ina’nis**      | [Ninomae Ina’nis WAHU WAHU](https://x.com/ninomaeinanis/status/1652829909218373632)                                       | Button              |
 | **underdatv**            | [Smol Ina's diary](https://x.com/underdatv/status/1790765775349072046)                                                    | Favicon             |
-| **森倉円 (Morikura En)** | [Kizuna Ai](https://en.namu.wiki/w/%ED%82%A4%EC%A6%88%EB%82%98%20%EC%95%84%EC%9D%B4)                                      | Vtuber banner       |
 
 
 == Glossary
