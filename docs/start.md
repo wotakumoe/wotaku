@@ -99,7 +99,7 @@ You have to add the iconpack manually in `docs\.vitepress\configs\emoji.ts`. Oth
 
 **Example**: [Anisong Database](https://anisongdb.com/) :win::app::web: [:gh:](https://github.com/xSardine/AMQ-Artists-DB) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" /> <tooltip>icons here are just for example. dont put them in main wiki</tooltip>
 
-``` html
+```raw
 [Anisong Database](https://anisongdb.com/) :win::app::web: [:gh:](https://github.com/xSardine/AMQ-Artists-DB) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" /> <tooltip>icons here are just for example. dont put them in main wiki</tooltip>
 ```
 
