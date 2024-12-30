@@ -431,6 +431,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [AnimesROLL](https://www.anroll.net/)
 - [Animes Zone](https://animeszone.net/)
 - [Better Anime](https://betteranime.net/)
+- [Dark Animes](https://darkmahou.org/) :mag:
 - [Geekdot](https://geekdot.live/)
 - [Hinata Soul](https://www.hinatasoul.com/)
 - [HentaisTube](https://www.hentaistube.com/) <Badge type="danger" text="18+" />
@@ -537,6 +538,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
   - [OtakusTV](https://www1.otakustv.com/)
   - [Mundo Donghua](https://www.mundodonghua.com/)
   - [Tio Donghua](https://tiodonghua.com/)
+  - [HentaiLA](https://www5.hentaila.com/) <Badge type="danger" text="18+" />
 - **Download**
   - [Japan Paw](https://japan-paw.net/)
   - [SphinxAnime](https://sphinxanime.com/)
