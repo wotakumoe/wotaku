@@ -37,12 +37,12 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 - Artoria Pendragon (Fate) by [**MinJaeCucheoo**](https://www.deviantart.com/minjaecucheoo/art/Transparent-PNG-Artoria-Pendragon-Fate-845014345)
 - Christmas card 2024 art by [**advarcher**](https://www.pixiv.net/en/artworks/114538066)
 - Hololive EN plush art by [**CLERO**](https://x.com/CLERO_ART/status/1788894299007971680)
-- Ninomae Ina'Nis back art by [**Himeliofon**](https://x.com/hmlf_/status/1581015485524545536)
-- Ninomae Ina'Nis padoru by [**how-dee**](https://www.reddit.com/r/Padoru/comments/iu6jvx/ninomae_inanis_hololive/)
-- Ninomae Ina'Nis pixel art by [**Holocure Team**](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/)
-- Ninomae Ina'Nis reading art by [**Ninomae Ina'Nis**](https://x.com/ninomaeinanis/status/1340047328963510273)
-- Ninomae Ina'Nis WAH by [**Chroneco**](https://www.chroneco.moe/)
-- Ninomae Ina'Nis WAHU WAHU by [**Ninomae Ina'Nis**](https://x.com/ninomaeinanis/status/1652829909218373632)
+- Ninomae Ina’nis back art by [**Himeliofon**](https://x.com/hmlf_/status/1581015485524545536)
+- Ninomae Ina’nis padoru by [**how-dee**](https://www.reddit.com/r/Padoru/comments/iu6jvx/ninomae_inanis_hololive/)
+- Ninomae Ina’nis pixel art by [**Holocure Team**](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/)
+- Ninomae Ina’nis reading art by [**Ninomae Ina’nis**](https://x.com/ninomaeinanis/status/1340047328963510273)
+- Ninomae Ina’nis WAH by [**Chroneco**](https://www.chroneco.moe/)
+- Ninomae Ina’nis WAHU WAHU by [**Ninomae Ina’nis**](https://x.com/ninomaeinanis/status/1652829909218373632)
 - Smol Ina's diary by [**underdatv**](https://x.com/underdatv/status/1790765775349072046)
 
 == Glossary
