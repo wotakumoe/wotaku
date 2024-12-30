@@ -37,6 +37,7 @@ outline: 2
 - [Crocdb](https://crocdb.net/)
 - [EBZero ROM set](https://archive.org/details/retro-roms-best-set) :acc:
 - [Edge Emulation](https://edgeemu.net/)
+- [FantasyAnime](https://fantasyanime.com/)
 - [Myrient](https://myrient.erista.me/)
 - [Romheaven](https://romheaven.com/) <Badge type="info" text="2" link="https://romheaven.su/" />
 - [ROMsPURE](https://romspure.cc/roms)
