@@ -204,7 +204,7 @@ If you have recommendations for good sites in your native language or want to re
 - [S.to](https://s.to/) <Badge type="tip" text="2" link="https://serienstream.to/" /> :strm:
 
 ### Manga
-- [ComicMafia](https://comicmafia.to/?s=manga) :ddl:
+- [ComicMafia](https://comicmafia.to/?s=manga) :ddl::host:
 - [Kanjiku](https://kanjiku.net/)
 - [Manga-Tube](https://manga-tube.me/)
 
