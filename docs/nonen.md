@@ -209,6 +209,7 @@ If you have recommendations for good sites in your native language or want to re
 - [Manga-Tube](https://manga-tube.me/)
 
 ### Communities
+- [Anime Community Germany](https://anime-community-germany.de/)
 - [Animexx](https://www.animexx.de/)
 - [aniSearch](https://www.anisearch.de/forum/categories)
 - [Baka Board](https://baka-bewerbung.me/) <Badge type="info" text="Usenet" />
