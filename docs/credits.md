@@ -32,14 +32,14 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **ATLUS**                | [Futaba Sakura](https://megamitensei.fandom.com/wiki/Futaba_Sakura)                                                                | [Music banner](/music#utility-sites)                           |
 | **Capcom**               | [Phoenix Wright](https://news.capcomusa.com/lets/browse/phoenix-wright-ace-attorney-trilogy-dev-column-2-the-art-of-the-turnabout) | [Legal banner](/websites#legal)                                |
 | **ChristieDA**           | [Headphone Anime Girl Render](https://www.deviantart.com/christieda/art/Headphone-Anime-Girl-Render-611521170)                     | [Audio glossary banner](/glossary/audio#audio-file-1)          |
-| **Dr.Pigeon PhD**        | [Smol Ame idle w/ Christmas hat](https://x.com/PhdPigeon/status/1869579249688231945)                                               | Favicon                                                        |
+| **Dr.Pigeon PhD**        | [Smol Ame with Christmas hat](https://x.com/PhdPigeon/status/1869579249688231945)                                               | [Favicon](/)                                                        |
 | **Dr.Pigeon PhD**        | [Smol Ame in winter jacket](https://x.com/PhdPigeon/status/1866313003119030404)                                                    | [Home art](/)                                                  |
 | **Erik Larsen**          | [Spawn](https://antiheroes.fandom.com/wiki/Spawn)                                                                                  | [Comics banner](/websites#comics)                              |
 | **藤ちょこ (Fujichoco)** | [Hatsune Miku “Magical Mirai 2020” Osaka](https://magicalmirai.com/2020/osaka/)                                                    | [Audio glossary banner](/glossary/audio#japanese-music-genres) |
 | **フカヒレ (Fukahire)**  | [Hoshimachi Suisei](https://x.com/fuka_hire/status/1619998921757192195)                                                            | [Music banner](/qs#music)                                      |
 | **Huu**                  | [Rem](https://www.pixiv.net/en/artworks/79939625)                                                                                  | [Music banner](/music#radio)                                   |
 | **Jan Azuren**           | [Elie Wayne](https://www.pixiv.net/en/artworks/98768157)                                                                           | [Music banner](/music#info-sites)                              |
-| **J.C.Staff**            | [Taiga Aisaka](https://donmai.moe/posts/8290230)                                                                                   | [Music banner](/music#pc)                                      |
+| **J.C.Staff**            | [Taiga Aisaka](https://yande.re/post/show/46578)                                                                                   | [Music banner](/music#pc)                                      |
 | **Kazuki Takahashi**     | [Yami Yugi](https://www.zerochan.net/7739)                                                                                         | [Manga banner](/qs#manga)                                      |
 | **konijnsate**           | [Moiré vs Non-Moiré Pattern Comparison](https://tips.clip-studio.com/en-us/articles/3489)                                          | [Manga glossary example](/glossary/manga#artist-side)          |
 | **Kyoto Animation**      | [Mio Akiyama](https://yande.re/post/show/255575)                                                                                   | [Music banner](/music#communities)                             |
@@ -65,17 +65,17 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | --------------------------- | -------------------------------------------------------------------------------------------------- | ------------------- |
 | **advarcher**               | [Gawr Gura delivering Christmas gift](https://www.pixiv.net/en/artworks/114538066)                 | Christmas card 2024 |
 | **Chroneco**                | [Ninomae Ina’nis WAH](https://www.chroneco.moe/)                                                   | Button              |
-| **CLERO**                   | [Hololive EN plush](https://x.com/CLERO_ART/status/1788894299007971680)                            | [Home art](/)            |
+| **CLERO**                   | [Hololive EN plushies](https://x.com/CLERO_ART/status/1788894299007971680)                            | Home art          |
 | **Gambe**                   | [Nero Claudius](https://www.pixiv.net/en/artworks/78042247)                                        | Fate banner         |
 | **胡麻乃りお (Gomano Rio)** | [Mash Kyrielight](https://www.pixiv.net/en/artworks/61127636)                                      | Fate banner         |
-| **Himeliofon**              | [Ninomae Ina’nis back](https://x.com/hmlf_/status/1581015485524545536)                             | [NSFW banner](/nsfw)         |
+| **Himeliofon**              | [Ninomae Ina’nis back](https://x.com/hmlf_/status/1581015485524545536)                             | NSFW banner         |
 | **Holocure**                | [Ninomae Ina’nis idle](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/)        | Favicon             |
-| **HoYoLAB**                 | [Tanuki sticker](https://genshin-impact.fandom.com/wiki/Bake-Danuki)                               | [Japan banner](/japan/culture)        |
-| **Kyoto Animation**         | [Mio Naganohara](https://www.zerochan.net/520314)                                                  | [Random banner](/misc#fun-sites)       |
-| **how-dee**                 | [Ninomae Ina’nis padoru](https://www.reddit.com/r/Padoru/comments/iu6jvx/ninomae_inanis_hololive/) | [Home art & Favicon](/)  |
+| **HoYoLAB**                 | [Tanuki sticker](https://genshin-impact.fandom.com/wiki/Bake-Danuki)                               | Japan banner        |
+| **Kyoto Animation**         | [Mio Naganohara](https://www.zerochan.net/520314)                                                  | Random banner       |
+| **how-dee**                 | [Ninomae Ina’nis padoru](https://www.reddit.com/r/Padoru/comments/iu6jvx/ninomae_inanis_hololive/) | Home art & Favicon  |
 | **しらび (Shirabi)**        | [Artoria Pendragon](https://www.pixiv.net/en/artworks/60495690)                                    | Fate banner         |
-| **森倉円 (Morikura En)**    | [Kizuna Ai Profile Art](https://en.namu.wiki/w/%ED%82%A4%EC%A6%88%EB%82%98%20%EC%95%84%EC%9D%B4)   | [Vtuber banner](/misc#vtuber)       |
-| **Ninomae Ina’nis**         | [Ninomae Ina’nis reading](https://x.com/ninomaeinanis/status/1340047328963510273)                  | [Glossary banner](/glossary/general)     |
+| **森倉円 (Morikura En)**    | [Kizuna Ai Profile Art](https://en.namu.wiki/w/%ED%82%A4%EC%A6%88%EB%82%98%20%EC%95%84%EC%9D%B4)   | Vtuber banner       |
+| **Ninomae Ina’nis**         | [Ninomae Ina’nis reading](https://x.com/ninomaeinanis/status/1340047328963510273)                  | Glossary banner     |
 | **Ninomae Ina’nis**         | [Ninomae Ina’nis WAHU WAHU](https://x.com/ninomaeinanis/status/1652829909218373632)                | Button              |
 | **Takashi Takeuchi**        | [Shiki Ryougi](https://danbooru.donmai.us/posts/2671155)                                           | Fate banner         |
 | **てのべ (Tenobe)**         | [Enkidu](https://www.pixiv.net/en/artworks/67902495)                                               | Fate banner         |
