@@ -32,7 +32,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **ATLUS**                | [Futaba Sakura](https://megamitensei.fandom.com/wiki/Futaba_Sakura)                                                                | [Music banner](/music#utility-sites)                           |
 | **Capcom**               | [Phoenix Wright](https://news.capcomusa.com/lets/browse/phoenix-wright-ace-attorney-trilogy-dev-column-2-the-art-of-the-turnabout) | [Legal banner](/websites#legal)                                |
 | **ChristieDA**           | [Headphone Anime Girl Render](https://www.deviantart.com/christieda/art/Headphone-Anime-Girl-Render-611521170)                     | [Audio glossary banner](/glossary/audio#audio-file-1)          |
-| **Dr.Pigeon PhD**        | [Smol Ame with Christmas hat](https://x.com/PhdPigeon/status/1869579249688231945)                                               | [Favicon](/)                                                        |
+| **Dr.Pigeon PhD**        | [Smol Ame with Christmas hat](https://x.com/PhdPigeon/status/1869579249688231945)                                                  | [Favicon](/)                                                  |
 | **Dr.Pigeon PhD**        | [Smol Ame in winter jacket](https://x.com/PhdPigeon/status/1866313003119030404)                                                    | [Home art](/)                                                  |
 | **Erik Larsen**          | [Spawn](https://antiheroes.fandom.com/wiki/Spawn)                                                                                  | [Comics banner](/websites#comics)                              |
 | **藤ちょこ (Fujichoco)** | [Hatsune Miku “Magical Mirai 2020” Osaka](https://magicalmirai.com/2020/osaka/)                                                    | [Audio glossary banner](/glossary/audio#japanese-music-genres) |
@@ -71,6 +71,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Himeliofon**              | [Ninomae Ina’nis back](https://x.com/hmlf_/status/1581015485524545536)                             | NSFW banner         |
 | **Holocure**                | [Ninomae Ina’nis idle](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/)        | Favicon             |
 | **HoYoLAB**                 | [Tanuki sticker](https://genshin-impact.fandom.com/wiki/Bake-Danuki)                               | Japan banner        |
+| **Kukie-Nyan** | [FUWAMOCO pointing meme](https://mobile.x.com/Kukie_nyan/status/1687668480278228992) | Domain change banner |
 | **Kyoto Animation**         | [Mio Naganohara](https://www.zerochan.net/520314)                                                  | Random banner       |
 | **how-dee**                 | [Ninomae Ina’nis padoru](https://www.reddit.com/r/Padoru/comments/iu6jvx/ninomae_inanis_hololive/) | Home art & Favicon  |
 | **しらび (Shirabi)**        | [Artoria Pendragon](https://www.pixiv.net/en/artworks/60495690)                                    | Fate banner         |
