@@ -422,6 +422,10 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Shinden](https://shinden.pl/main) <Badge type="info" text="Client" link="https://github.com/KlapChat-Entertainment/shinden-client" />
 - [Wbijam](https://web.archive.org/web/20241001185535/https://www.wbijam.pl/)
 
+### Software
+
+#### Android
+- [Naikamu](https://naikamu.com/) [:gh:](https://github.com/fezmlg/naikamu)
 
 ## Portuguese
 
