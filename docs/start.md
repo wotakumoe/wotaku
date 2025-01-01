@@ -99,9 +99,7 @@ You have to add the iconpack manually in `docs\.vitepress\configs\emoji.ts`. Oth
 
 **Example**: [Anisong Database](https://anisongdb.com/) :win::app::web: [:gh:](https://github.com/xSardine/AMQ-Artists-DB) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" /> <tooltip>icons here are just for example. dont put them in main wiki</tooltip>
 
-```md
-[Anisong Database](https://anisongdb.com/) :win::app::web: [:gh:](https://github.com/xSardine/AMQ-Artists-DB) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" /> <tooltip>icons here are just for example. dont put them in main wiki</tooltip>
-```
+Sample code [**here**](https://rentry.org/ty7iihnf)
 
 ### Sheet
 
@@ -115,6 +113,7 @@ You have to add the iconpack manually in `docs\.vitepress\configs\emoji.ts`. Oth
 | :and: | `:and:` | Android |
 | :app: | `:app:` | iOS / iPadOS / macOS |
 | :lin: | `:lin:` | Linux |
+| :bsd: | `:bsd:` | FreeBSD |
 | :cmd: | `:cmd:` | CLI / TUI |
 | :ff: | `:ff:` | Firefox |
 | :cr: | `:cr:` | Chromium |
