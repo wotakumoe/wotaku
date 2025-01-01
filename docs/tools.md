@@ -138,11 +138,11 @@ outline: [1,2]
 ## Video Tools
 
 - **Player**
-  - [IINA](https://iina.io/) :app: [:gh:](https://github.com/iina/iina)
-  - [MPC-HC](https://github.com/clsid2/mpc-hc) :win: <Badge type="info" text="Codec guide" link="https://codecguide.com/media_player_classic.htm"/>
   - [mpv](https://mpv.io/) :s::win::app::lin: [:gh:](https://github.com/mpv-player/mpvs)
     - :material-symbols-subdirectory-arrow-right: [mpv Resources](#mpv)
   - [SMPlayer](https://www.smplayer.info/) :win::app::lin: [:gh:](https://github.com/smplayer-dev/smplayer)
+  - [IINA](https://iina.io/) :app: [:gh:](https://github.com/iina/iina)
+  - [MPC-HC](https://github.com/clsid2/mpc-hc) :win:
   - [K-Lite Codec Pack](https://codecguide.com/download_kl.htm) :win:
 - **Tools**
   - [FFmpeg](https://ffmpeg.org/) :cmd: [:gh:](https://github.com/FFmpeg/FFmpeg)
