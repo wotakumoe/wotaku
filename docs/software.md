@@ -27,6 +27,7 @@ outline: [1,2]
 - [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one)
   - :material-symbols-subdirectory-arrow-right: [Stremio Tools](#anime-tools)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
+- [AnymeX](https://anymex.vercel.app/) [:gh:](https://github.com/RyanYuuki/AnymeX)
 - [Miru App](https://miru.js.org/) [:gh:](https://github.com/miru-project/miru-app)
 - [AniVu](https://github.com/SkyD666/AniVu)
 - [Animity](https://github.com/kl3jvi/animity)
@@ -172,7 +173,8 @@ or buy an Android phone :ic-twotone-thumb-up:
   - :material-symbols-subdirectory-arrow-right: [Stremio Tools](#anime-tools)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi) :win::app::lin::mag::ddl:
 - [Seanime](https://seanime.rahim.app/) :win::app::lin::mag::ddl: [:gh:](https://github.com/5rahim/seanime)
-- [Unyo](https://github.com/K3vinb5/Unyo)  :win::app::lin::ddl:
+- [Unyo](https://github.com/K3vinb5/Unyo) :win::app::lin::ddl:
+- [AnymeX](https://anymex.vercel.app/) :win::app::lin: [:gh:](https://github.com/RyanYuuki/AnymeX)
 - [Toru](https://github.com/sweetbbak/toru) :win::app::lin::cmd::mag:
 - [AnimeTV](https://amarullz.com/) :win::lin::ddl: [:gh:](https://github.com/amarullz/AnimeTV)
 
