@@ -321,7 +321,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 
 
 ::: details More
-- [Cubari Proxy](https://proxy.cubari.moe/) 
+- [Cubari Proxy](https://proxy.cubari.moe/#/) <Badge type="info" text="Alt" link="https://manga.guru/#/" />
 - [Manga Katana](https://mangakatana.com/)
 - [Hachi](https://hachi.moe/) 
 - [Mangahasu](https://mangahasu.se/)

@@ -31,7 +31,6 @@ outline: [1,2]
 - [Miru App](https://miru.js.org/) [:gh:](https://github.com/miru-project/miru-app)
 - [AniVu](https://github.com/SkyD666/AniVu)
 - [Animity](https://github.com/kl3jvi/animity)
-- [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
 :::
 
 ::: details :material-symbols-tv-gen-outline: Android TV ranking
@@ -61,7 +60,7 @@ outline: [1,2]
 - [Dantotsu](https://dantotsuapp.netlify.app/) [:gh:](https://github.com/rebelonion/Dantotsu) [:e:](/guides/tech/repo)
 - [Neko](https://github.com/nekomangaorg/Neko)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
-- [Cubari](https://cubari.moe/) :web:
+- [Cubari](https://cubari.moe/) :web: <Badge type="info" text="Alt" link="https://reader.manga.guru/" />
 :::
 
 ### Local
@@ -205,7 +204,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
   - [Suwayomi-JUI](https://github.com/Suwayomi/Tachidesk-JUI)
   - [Tachidesk-VaadinUI](https://github.com/Suwayomi/Suwayomi-VaadinUI)
   - [Suwayomi-VUI](https://github.com/Suwayomi/Suwayomi-VUI)
-- [Cubari](https://cubari.moe/) :web:
+- [Cubari](https://cubari.moe/) :web: <Badge type="info" text="Alt" link="https://reader.manga.guru/" />
 - [Mangadex](https://github.com/darylhjd/mangadesk) :win::app::lin::cmd:
 - [Manga-tui](https://github.com/josueBarretogit/manga-tui) :app::lin::cmd:
 
