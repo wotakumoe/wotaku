@@ -32,6 +32,6 @@ import Field from './CardField.vue'
     <Field icon="i-iconoir-floppy-disk">Local</Field>
     <Field icon="i-lucide-message-circle">Feedback</Field>
     <Field icon="i-material-symbols-info-outline-rounded">More Info</Field>
-    <Field icon="i-material-symbols-subdirectory-arrow-right">Related</Field>
+    <Field icon="i-mdi-arrow-right-bold">Related</Field>
   </div>
 </template>

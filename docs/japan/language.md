@@ -120,7 +120,7 @@ outline: [2,3]
 - [Japanese Pitch Accent and Intonation](https://www.youtube.com/playlist?list=PLFGs3d9Sobfgr4clmLcHUM_X4JBCyIP2n) `by Speak Japanese Naturally`
 - [Pitch Accent for Absolute Beginners](https://www.youtube.com/playlist?list=PLAmROvem8e1LhXfCUqCDshBLAdi_LlR6y) `by Yudai Sensei`
 - [Verb Pitch Accent and Verbs' Conjugations](https://www.youtube.com/playlist?list=PLbEVYkEj81RzdzDWujEkfjJZrzsqV3Q8O) `by Seize Japanese`
-- :material-symbols-subdirectory-arrow-right: [Related Channels](/japan/immersion#youtube)
+- :more: [Related Channels](/japan/immersion#youtube)
 
 <br>
 

@@ -49,7 +49,7 @@ outline: [1,2]
 - [MyAnimeShelf](https://myanimeshelf.com/)
 - [TV Drama Database](http://www.tvdrama-db.com/) :flag-japan:
 
-::: details :material-symbols-subdirectory-arrow-right: Related resources
+::: details :more: Related resources
 - [Tracker apps for phone](/software#trackers)
 - [Tracker software for pc](/software#trackers-1)
 
@@ -126,7 +126,7 @@ outline: [1,2]
 - [r/LightNovels upcoming releases](https://old.reddit.com/r/LightNovels/wiki/upcomingreleases/)
 - [Von's Manga Calendar](https://v0n.notion.site/Manga-297a9ad3a4904173b3a4ce319f9b2879)
 - [Yatta-Tachi](https://yattatachi.com/tag/releases)
-- :material-symbols-subdirectory-arrow-right: [Manga release portals](#manga-ln-2)
+- :more: [Manga release portals](#manga-ln-2)
 
 #### Publisher
 - [Azuki](https://www.azuki.co/release-calendar) <Badge type="info" text="CaaS" />
@@ -310,7 +310,7 @@ Illustrations now has its [own page](/art)!
 - [HoloSchedule](https://github.com/YunzheZJU/holo-schedule) [:cr:](https://chromewebstore.google.com/detail/holoschedule/fjicegllhddldnnkgfefblholeegpcad) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/holo-schedule/)
 - [HyperChat](https://livetl.app/hyperchat) [:cr:](https://chromewebstore.google.com/detail/hyperchat-improved-youtub/naipgebhooiiccifflecbffmnjbabdbh) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/hyperchat/)
 - [TTV LOL PRO](https://github.com/younesaassila/ttv-lol-pro) [:cr:](https://chrome.google.com/webstore/detail/ttv-lol-pro/bpaoeijjlplfjbagceilcgbkcdjbomjd) [:ff:](https://addons.mozilla.org/addon/ttv-lol-pro/)
-  - :material-symbols-subdirectory-arrow-right: More [Twitch Ad Solutions](https://github.com/pixeltris/TwitchAdSolutions/blob/master/full-list.md)
+  - :more: More [Twitch Ad Solutions](https://github.com/pixeltris/TwitchAdSolutions/blob/master/full-list.md)
 - [ytcFilter](https://github.com/LiveTL/ytcfilter) [:cr:](https://chromewebstore.google.com/detail/ytcfilter/mnldnbhgfocmkehnlkeanlhfmopepnko) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/ytcfilter/)
 
 
@@ -348,7 +348,7 @@ Illustrations now has its [own page](/art)!
 - [Unanimated](https://unanimated.github.io/guides.htm)
 - [Yukisubs](https://yukisubs.wordpress.com/guides/)
 - [Zeriyu's Fansub Guide](https://github.com/zeriyu/fansub-guide)
-- :material-symbols-subdirectory-arrow-right: [Fansubbing tools](/tools#fansubbing-sub-tools)
+- :more: [Fansubbing tools](/tools#fansubbing-sub-tools)
 
 ## Fun sites
 

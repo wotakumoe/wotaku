@@ -12,7 +12,7 @@ customDescription: Adblocking Solutions for every device
   - [Adguard](https://adguard.com/en/welcome.html) :s:
   - [Adaway](https://adaway.org/)
   - [RethinkDNS](https://rethinkdns.com/)
-  - :material-symbols-subdirectory-arrow-right: [DNS based](#dns)
+  - :more: [DNS based](#dns)
 - **Browser**
   - [Brave](https://play.google.com/store/apps/details?id=com.brave.browser)
   - [Cromite](https://github.com/uazo/cromite)

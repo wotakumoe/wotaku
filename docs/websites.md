@@ -249,7 +249,7 @@ outline: 1
 <Button link="/guides/tech/irc" icon="i-octicon-command-palette-16">To learn how to use IRC, you can read the guide</Button>
 
 
-::: details :material-symbols-subdirectory-arrow-right: Related resources
+::: details :more: Related resources
 - [Anime apps for Android](/software#anime-streaming) and [PC](/software#anime-streaming-2)
 - [Anime downloader for PC](/software#anime)
 - [Anime info sites](/misc#anime-1) and [tracking sites](/misc#general)
@@ -419,7 +419,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [xCaliBR Scans](https://xcalibrscans.com/webcomics/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/ynopo9s/cursed-xcalibr" />
 
 
-::: details :material-symbols-subdirectory-arrow-right: Related resources
+::: details :more: Related resources
 - [Manga apps for Android](/software#manga-readers) and [PC](/software#manga-readers-2)
 - [Manga downloader for PC](/software#manga)
 - [Manga related tools](/software#manga-tools)
@@ -478,7 +478,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [PZG](https://nyaa.si/user/Phantom132)
 - [Stick](https://nyaa.si/user/dumbboy58)
 - [AudioBook Bay](https://audiobookbay.is/)
-- :material-symbols-subdirectory-arrow-right: [Audiobook player for phone](/music#audiobook)
+- :more: [Audiobook player for phone](/music#audiobook)
 
 
 
@@ -595,7 +595,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 | Music | [Redacted](https://redacted.sh/) <br> [JPopsuki](https://jpopsuki.eu/) <br> [Orpheus](https://orpheus.network/) <br> [Sugoi Music](https://sugoimusic.me/) <br> [Bemaniso](https://bemaniso.ws/) `Rhythm` <br> [Aidoru](https://aidoru-online.me/) `Idol` |
 | NSFW | [ExoticaZ](https://exoticaz.to/) [:d:](https://discord.gg/GYahYNWutE)<br> [Empornium](https://www.empornium.is/) |
 
-::: details :material-symbols-subdirectory-arrow-right: Related resources
+::: details :more: Related resources
 - [InstallGentoo Wiki](https://wiki.installgentoo.com/wiki/Private_trackers) :s:
 - [Invite route graph](https://inviteroute.github.io/graph/)
 - [Redacted Interview Prep](https://interviewfor.red/en/index.html)

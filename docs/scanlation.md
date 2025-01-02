@@ -77,7 +77,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
   - [GenP](https://genpguides.github.io) :win:
   - [Download Pirate](https://www.downloadpirate.com/) :win:
   - [a.dove.isdumb.one](https://github.com/ignaciocastro/a-dove-is-dumb)
-  - :material-symbols-subdirectory-arrow-right: Adobe Alternatives
+  - :more: Adobe Alternatives
     - [KennyNL](https://github.com/KenneyNL/Adobe-Alternatives)
     - [XdanielArt](https://rentry.org/adobealt)
 - [Affinity](https://affinity.serif.com/en-gb/) :win::app::paid::cs:

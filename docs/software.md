@@ -25,7 +25,7 @@ outline: [1,2]
 - [Awery](https://github.com/MrBoomDeveloper/Awery) [:e:](/guides/tech/repo)
 - [Himitsu](https://repodevil.vercel.app/) [:gl:](https://gitlab.com/RepoDevil/himitsu) [:e:](/guides/tech/repo)
 - [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one)
-  - :material-symbols-subdirectory-arrow-right: [Stremio Tools](#anime-tools)
+  - :more: [Stremio Tools](#anime-tools)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [AnymeX](https://anymex.vercel.app/) [:gh:](https://github.com/RyanYuuki/AnymeX)
 - [Miru App](https://miru.js.org/) [:gh:](https://github.com/miru-project/miru-app)
@@ -38,7 +38,7 @@ outline: [1,2]
 - [Migu](https://miguapp.pages.dev/) [:gh:](https://github.com/NoCrypt/migu)
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
 - [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one)
-  - :material-symbols-subdirectory-arrow-right: [Stremio Tools](#anime-tools)
+  - :more: [Stremio Tools](#anime-tools)
 - [AnimeTV](https://amarullz.com/) [:gh:](https://github.com/amarullz/AnimeTV)
 - [Crunchyroll for TIZEN](https://github.com/jhassan8/crunchyroll-tizen)
 :::
@@ -169,7 +169,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 - [Miru](https://miru.watch/) :s::win::app::lin::mag: [:gh:](https://github.com/ThaUnknown/miru/)
   - [Migu](https://miguapp.pages.dev/) [:gh:](https://github.com/NoCrypt/migu)
 - [Stremio](https://www.stremio.com/) :win::app::lin::mag::ddl:
-  - :material-symbols-subdirectory-arrow-right: [Stremio Tools](#anime-tools)
+  - :more: [Stremio Tools](#anime-tools)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi) :win::app::lin::mag::ddl:
 - [Seanime](https://seanime.rahim.app/) :win::app::lin::mag::ddl: [:gh:](https://github.com/5rahim/seanime)
 - [Unyo](https://github.com/K3vinb5/Unyo) :win::app::lin::ddl:
@@ -297,8 +297,8 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Poppler](https://poppler.freedesktop.org/) :win::app::lin::bsd: [:gl:](https://gitlab.freedesktop.org/poppler/poppler)
 - [SyncYomi](https://github.com/syncyomi/syncyomi) :win::app::lin::mdi-docker:
 - [XpdfReader](https://www.xpdfreader.com/index.html) :win::lin:
-- :material-symbols-subdirectory-arrow-right: [Image Tools](/tools#image-tools)
-- :material-symbols-subdirectory-arrow-right: [Manga image editing guide](/guides/manga/imagedit)
+- :more: [Image Tools](/tools#image-tools)
+- :more: [Manga image editing guide](/guides/manga/imagedit)
 
 
 ## eBook Tools
@@ -367,7 +367,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [OwOCR](https://github.com/AuroraWright/owocr)
 - [Poricom](https://github.com/blueaxis/Poricom)
 - [Yomiwa](https://www.yomiwa.net/) :cs:
-- :material-symbols-subdirectory-arrow-right: [OCR Game tools](https://wotaku.wiki/games#tools)
+- :more: [OCR Game tools](https://wotaku.wiki/games#tools)
 
 :::danger Don't use MTL
 Using Machine Translation to translate manga will be a mess. Manga has lots of slang, cultural references, and visual elements that MTL won't understand. So, it's better to have a human translator who knows the language and culture well. You don't want to end up with a wonky or inaccurate translation!

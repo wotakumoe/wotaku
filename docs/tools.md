@@ -139,7 +139,7 @@ outline: [1,2]
 
 - **Player**
   - [mpv](https://mpv.io/) :s::win::app::lin: [:gh:](https://github.com/mpv-player/mpvs)
-    - :material-symbols-subdirectory-arrow-right: [mpv Resources](#mpv)
+    - :more: [mpv Resources](#mpv)
   - [SMPlayer](https://www.smplayer.info/) :win::app::lin: [:gh:](https://github.com/smplayer-dev/smplayer)
   - [IINA](https://iina.io/) :app: [:gh:](https://github.com/iina/iina)
   - [MPC-HC](https://github.com/clsid2/mpc-hc) :win:
@@ -172,8 +172,8 @@ outline: [1,2]
 | MKV Tools | [gMKVExtractGUI](https://sourceforge.net/projects/gmkvextractgui/) :win::app::lin: <br> [MKVcleaver](https://www.videohelp.com/software/MKVcleaver) :win::cs: <br> [MKV Extract](https://qgustavor.github.io/mkv-extract/en/) :web: [:gh:](https://github.com/qgustavor/mkv-extract/) <br> [MKVToolNix](https://mkvtoolnix.download/) :win::app::lin::bsd: <br> [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) :win: |  
 | Sync | [FFsubsync](https://github.com/smacke/ffsubsync) :win::app::lin: <br> [Resync subtitles](https://animecards.site/subtitles/) :win: <br> [Sushi.net](https://github.com/maxpiva/Sushi.Net) :win::app::lin: |
 | Other | [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) :win::app::lin: |
-- :material-symbols-subdirectory-arrow-right: [Encoding & Fansubbing Guides](/misc#encoding-fansubbing-guides)
-- :material-symbols-subdirectory-arrow-right: [JP Learning centric tools](/japan/software#subtitles)
+- :more: [Encoding & Fansubbing Guides](/misc#encoding-fansubbing-guides)
+- :more: [JP Learning centric tools](/japan/software#subtitles)
 
 
 ## arr Tools
@@ -209,7 +209,7 @@ outline: [1,2]
 - [Nyuu](https://github.com/animetosho/Nyuu)
 - [ngPost](https://github.com/mbruel/ngPost)
 
-::: details :material-symbols-subdirectory-arrow-right: Related resources
+::: details :more: Related resources
 - [r/usenet](https://old.reddit.com/r/usenet/) :s:
 - [r/UsenetInvites](https://old.reddit.com/r/UsenetInvites/)
 - [A Guideline to usenet and how to setup Automation](https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/mobilebasic)

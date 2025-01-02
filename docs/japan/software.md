@@ -200,7 +200,7 @@ outline: [2,3]
   - [Sub transition](https://github.com/Ajatt-Tools/sub-transition) :simple-icons-mpv:
   - [Subtitle Character Counter](https://cademcniven.com/subtitleCharacterCounter.html) :web:
   - [Resource list for subtitle-related things](https://rentry.co/jpsub)
-- :material-symbols-subdirectory-arrow-right: [General subtitle tools](/tools#fansubbing-sub-tools)
+- :more: [General subtitle tools](/tools#fansubbing-sub-tools)
 
 #### Audio tools
 - [Automatic Condensed Audio Dialogue Script](https://anacreondjt.gitlab.io/docs/condensed_audio/)
@@ -222,4 +222,4 @@ outline: [2,3]
 - [Lapis](https://github.com/donkuri/lapis)
 - [LN Readability](https://colab.research.google.com/github/Gilfaro/ln-recommender/blob/main/LNReadability.ipynb)
 - [Supermemo](https://super-memory.com/) <Badge type="warning" text="Trialware"/><Badge type="tip" text="Wiki" link="https://www.supermemo.wiki/en/home" />
-- :material-symbols-subdirectory-arrow-right: [OCR/Translator section](https://wotaku.wiki/software#ocr-translator)
+- :more: [OCR/Translator section](https://wotaku.wiki/software#ocr-translator)

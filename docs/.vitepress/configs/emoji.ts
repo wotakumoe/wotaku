@@ -103,7 +103,8 @@ const aliases: Record<string, string> = {
   rss: 'simple-icons-rss',
   tf: 'mdi-airplane',
   js: 'simple-icons-javascript',
-  css: 'mdi-format-paint'
+  css: 'mdi-format-paint',
+  more: 'mdi-arrow-right-bold'
 }
 
 
