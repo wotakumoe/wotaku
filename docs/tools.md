@@ -150,6 +150,7 @@ outline: [1,2]
     - [Videomass](https://jeanslack.github.io/Videomass/) :win::app::lin: [:gh:](https://github.com/jeanslack/Videomass)
     - [FFmpeg.wasm](https://ffmpegwasm.netlify.app/) :web: [:gh:](https://github.com/ffmpegwasm/ffmpeg.wasm)
     - [FFmpeg Batch AV Converter](https://github.com/eibol/ffmpeg_batch) :win:
+  - [LosslessCut](https://mifi.no/losslesscut/) :win::app::lin: [:gh:](https://github.com/mifi/lossless-cut)
 
 ## mpv
 
@@ -168,10 +169,18 @@ outline: [1,2]
 |--------------|---------------|  
 | General | [Aegisub](https://github.com/arch1t3cht/Aegisub) :win::app::lin: <br> [Subtitle Edit](https://www.nikse.dk/subtitleedit) :win: [:gh:](https://github.com/SubtitleEdit/subtitleedit) |  
 | Adobe | [m0nkrus](https://w16.monkrus.ws/) :win::app: [:simple-icons-vk:](https://vk.com/monkrus) <br> [RuTracker](https://rutracker.org/forum/index.php) :win::app: <br> [GenP](https://genpguides.github.io) :win: <br> [Download Pirate](https://www.downloadpirate.com/) :win: <br> [a.dove.isdumb.one](https://github.com/ignaciocastro/a-dove-is-dumb) |  
-| Encoding | [AviSynth+](https://avs-plus.net/) :win::app::lin: [:gh:](https://github.com/AviSynth/AviSynthPlus) <br> [mpvQC](https://mpvqc.github.io/) [:gh:](https://github.com/mpvqc/mpvQC) :win: <br> [StaxRip](https://github.com/staxrip/staxrip) :win: <br> [VapourSynth](https://www.vapoursynth.com/) :win: [:gh:](https://github.com/vapoursynth/vapoursynth) <br> [VapourSynth Database](https://vsdb.top/) |  
-| MKV Tools | [gMKVExtractGUI](https://sourceforge.net/projects/gmkvextractgui/) :win::app::lin: <br> [MKVcleaver](https://www.videohelp.com/software/MKVcleaver) :win::cs: <br> [MKV Extract](https://qgustavor.github.io/mkv-extract/en/) :web: [:gh:](https://github.com/qgustavor/mkv-extract/) <br> [MKVToolNix](https://mkvtoolnix.download/) :win::app::lin::bsd: <br> [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) :win: |  
+| Encoding | [AviSynth+](https://avs-plus.net/) :win::app::lin: [:gh:](https://github.com/AviSynth/AviSynthPlus) <br> [StaxRip](https://github.com/staxrip/staxrip) :win: <br> [VapourSynth](https://www.vapoursynth.com/) :win: [:gh:](https://github.com/vapoursynth/vapoursynth) <br> [VapourSynth Database](https://vsdb.top/) |  
+| MKV Tools | [MKVToolNix](https://mkvtoolnix.download/) :win::app::lin::bsd: <br> [MKV Extract](https://qgustavor.github.io/mkv-extract/en/) :web: [:gh:](https://github.com/qgustavor/mkv-extract/) |  
 | Sync | [FFsubsync](https://github.com/smacke/ffsubsync) :win::app::lin: <br> [Resync subtitles](https://animecards.site/subtitles/) :win: <br> [Sushi.net](https://github.com/maxpiva/Sushi.Net) :win::app::lin: |
-| Other | [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) :win::app::lin: |
+| Other | [mpvQC](https://mpvqc.github.io/) [:gh:](https://github.com/mpvqc/mpvQC) :win: <br> [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) :win::app::lin: |
+
+#### Related resources
+
+| Category | Resources |  
+|--------------|---------------|
+| [Aegisub](https://github.com/arch1t3cht/Aegisub) | [Aegisub-Motion](https://github.com/TypesettingTools/Aegisub-Motion) <br> [AI2ASS](https://github.com/TypesettingTools/AI2ASS) <br> [DependencyControl](https://github.com/TypesettingTools/DependencyControl) <br> [Perspective](https://github.com/TypesettingTools/Perspective) |
+| [MKVToolNix](https://mkvtoolnix.download/) |  [gMKVExtractGUI](https://sourceforge.net/projects/gmkvextractgui/) :win::app::lin: <br> [MKVcleaver](https://www.videohelp.com/software/MKVcleaver) :win::cs: <br> [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) :win:  |
+
 - :more: [Encoding & Fansubbing Guides](/misc#encoding-fansubbing-guides)
 - :more: [JP Learning centric tools](/japan/software#subtitles)
 
