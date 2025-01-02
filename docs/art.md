@@ -1,7 +1,7 @@
 ---
 title: Art
 description: Everything Art
-customDescription: Art-based sites, software, scipts and extensions
+customDescription: Art-based sites, software, scripts and extensions
 outline: [1,2]
 ---
 

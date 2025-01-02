@@ -8,7 +8,7 @@ outline: [2,3]
 
 <br>
 
-Information about various types of publishers for manga and manhwa. Image quality (resoultion, compression & codec) varies by publisher and by platform. Convenience of platform apps varies, consider testing them if you plan to read without removing DRM. 
+Information about various types of publishers for manga and manhwa. Image quality (resolution, compression & codec) varies by publisher and by platform. Convenience of platform apps varies, consider testing them if you plan to read without removing DRM. 
 
 ## Volumes
 
