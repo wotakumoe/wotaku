@@ -18,6 +18,7 @@ outline: [1,2]
 ## Artist Platforms
 
 - [ArtStation](https://www.artstation.com/)
+- [Art Street](https://medibang.com/)
 - [Bluesky](https://bsky.app/)
 - [Cara](https://cara.app/explore)
 - [Charaforio](https://charaforio.com/en)
