@@ -89,14 +89,14 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 
 #### General
 
-| Author / Pub | Article | Used as |
+| Author / Pub | Article | Used in |
 |-|-|-|
 | **Japanese with Anime** | [Common Anime Words Glossary](https://www.japanesewithanime.com/2017/01/anime-words-japanese-meanings.html) | [General Term](/glossary/general#terms) |
 | **Yen Press** | [Horimiya Vol. 15 by Yen Press](https://yenpress.com/titles/9781975324735-horimiya-vol-15) | [Common Honorifics](/glossary/general#common-honorifics) |
 | - | [The Dere Types Wiki](https://the-dere-types.fandom.com/wiki/The_Dere_Types_Wiki) | [Dere Types](/glossary/general#dere-types) |
 
 #### Anime
-| Author / Pub | Article | Used as |
+| Author / Pub | Article | Used in |
 |-|-|-|
 | **Bridge** | [Shaman King](https://setteidreams.net/storyboards/shaman-king-2021-opening-02/) | [E-Konte](/glossary/anime#e-konte) |
 | **CloverWorks** | [Akebi-chan no Sailor-fuku](https://setteidreams.net/settei/akebi-chan-no-sailor-fuku/) | [Settai](/glossary/anime#settai) |
@@ -106,7 +106,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Japanese with Anime** | [anime - Terminology](https://www.japanesewithanime.com/2016/08/anime.html) | [Release terms](/glossary/anime#release-terms) |
 
 #### Manga
-| Artist / Author / Pub | Article | Used as |
+| Artist / Author / Pub | Article | Used in |
 |-|-|-|
 | **Akutami Gege** | [Jujutsu Kaisen](https://shonenjumpplus.com/episode/10834108156650001170) | [Release Terms](/glossary/manga#release-terms) |
 | **Atelier du Noir** | [Kilroy Was Here](https://old.reddit.com/r/manga/comments/tc90d8/guys_can_you_explain_the_process_of/) | [Scanlation](/glossary/manga#scanlation) |
@@ -134,7 +134,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 
 #### Audio
 
-| Author / Pub | Article | Used as |
+| Author / Pub | Article | Used in |
 |-|-|-|
 | **Akash Murthy** | [Digital Audio Fundamentals](https://www.youtube.com/playlist?list=PLbqhA-NKGP6B6V_AiS-jbvSzdd7nbwwCw) | [Audio file](/glossary/audio#audio-file-1) |
 | **ANA[DIA]LOG** | [DSD: The Good, The Bad & The Test](https://youtu.be/eu5I-z7f6is) | [Audio Signal](/glossary/audio#audio-signal) |
@@ -145,7 +145,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 
 == Guide
 
-| Author / Pub | Article | Used as |
+| Author / Pub | Article | Used in |
 |-|-|-|
 | **neckothy** | [Digital Manga Buyer's Guide](https://gist.github.com/neckothy/6654f928fef87529646df3799f5e555a) (Base structure) | [Digital Comic Info](/guides/manga/digim) |
 
