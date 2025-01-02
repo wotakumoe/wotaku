@@ -294,7 +294,9 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Icaros](https://www.videohelp.com/software/Icaros) :win::cs:
 - [MangaJaNai](https://github.com/the-database/MangaJaNai) <Badge type="info" text="GUI" link="https://github.com/the-database/MangaJaNaiConverterGui" />
 - [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager) :win::app::lin:
+- [Poppler](https://poppler.freedesktop.org/) :win::app::lin::bsd: [:gl:](https://gitlab.freedesktop.org/poppler/poppler)
 - [SyncYomi](https://github.com/syncyomi/syncyomi) :win::app::lin::mdi-docker:
+- [XpdfReader](https://www.xpdfreader.com/index.html) :win::lin:
 - :material-symbols-subdirectory-arrow-right: [Image Tools](/tools#image-tools)
 - :material-symbols-subdirectory-arrow-right: [Manga image editing guide](/guides/manga/imagedit)
 
