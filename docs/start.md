@@ -14,7 +14,7 @@ outline: [2-3]
 3. :logos-nodejs-icon-alt: [Node JS](https://nodejs.org/en) <tooltip>Only if you run wotaku locally in your browser. Otherwise ignore. Recommended to use LTSC version. You can try the latest too.</tooltip>
 4. :logos-git-icon: [Git](https://git-scm.com/)
 
-### Clonning
+### Cloning
 
 1. Download and install the first two tools as instructed.  
 2. Open GitHub Desktop and log in using your GitHub account credentials.
@@ -40,7 +40,7 @@ outline: [2-3]
    - Click **Commit to Main** to stage and commit your changes locally.  
 
 ::: tip README
-- Before pushing or editing your local repo, fetch the repo so that your local repo is updated and doesnt cause any conflict when pushing.
+- Before pushing or editing your local repo, fetch the repo so that your local repo is updated and doesn't cause any conflict when pushing.
 - If you have multiple changes to commit, repeat this process for each set of changes before pushing them.
 :::
 
@@ -74,7 +74,7 @@ Most used icons have been shortened using Alias. You can find them in [sheet](#s
 ![](/iconname.png)
 
 ::: info Twitter emoji
-Twitter emoji is the default iconpack for wotaku. For twemoji, you dont have to mention twemoji. just icon name.
+Twitter emoji is the default iconpack for wotaku. For twemoji, you don't have to mention twemoji. just icon name.
 :::
 
 ### Commands
@@ -97,7 +97,7 @@ You have to add the iconpack manually in `docs\.vitepress\configs\emoji.ts`. Oth
 7. If there is an icon for that button (example: GitHub), use [icon](URL). Otherwise normal button.
 8. Tooltip will always be at the end. Also with a space before it.
 
-**Example**: [Anisong Database](https://anisongdb.com/) :win::app::web: [:gh:](https://github.com/xSardine/AMQ-Artists-DB) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" /> <tooltip>icons here are just for example. dont put them in main wiki</tooltip>
+**Example**: [Anisong Database](https://anisongdb.com/) :win::app::web: [:gh:](https://github.com/xSardine/AMQ-Artists-DB) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" /> <tooltip>icons here are just for example. don't put them in main wiki</tooltip>
 
 Sample code [**here**](https://rentry.org/ty7iihnf)
 

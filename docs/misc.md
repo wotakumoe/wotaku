@@ -273,7 +273,7 @@ Illustrations now has its [own page](/art)!
 - [Hololive Fan Wiki](https://hololive.wiki/wiki/Main_Page) <Badge type="info" text="DB" />
 - [Hololive Production](https://hololive.hololivepro.com/) <Badge type="info" text="Schedule" link="https://schedule.hololive.tv/lives"/> <Badge type="info" text="DB"/> <Badge type="info" text="News" />
 - [Holotracker](https://trackholo.live/en/) <Badge type="info" text="Stats" />
-- [Hololize Zone](https://hololive.zone/) <Badge type="info" text="Stats" />
+- [Hololive Zone](https://hololive.zone/) <Badge type="info" text="Stats" />
 - [hololive TODAY](https://hololivetoday.com/) <Badge type="info" text="News" />
 - [Quick Reference](https://monkonius.github.io/hololive-quick-reference/) <Badge type="info" text="DB" />
 - [Hololive MMD Models](https://3d.nicovideo.jp/users/89765617/works)
