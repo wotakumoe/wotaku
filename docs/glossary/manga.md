@@ -82,8 +82,7 @@ It's a newer type of comics format. Long strip comics are drawn for smartphone r
 
 <br>
 
-Occasionally, the publisher also releases the physical version, with panels strategically rearranged to accommodate the right-left/left-right reading direction. Example: [Solo Leveling Vol. 2 by Yen Press](https://yenpress.com/titles/9781975319458-solo-leveling-vol-2-comic)
-
+Occasionally, the publisher also releases the physical version, with panels strategically rearranged to accommodate the right-left/left-right reading direction. Example: Solo Leveling Vol. 2.
 
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/S6EloIXKWj4" frameborder="0" allowfullscreen></iframe></div>
 
@@ -183,7 +182,7 @@ Redrawer redraws all the erased parts by the cleaner and makes them as smooth as
 ### Translator (TL)
 The translator translates all the text in the manga, including dialogues, sound effects, and other texts in the panels. They also provide explanations for all the jokes, cultural references, or wordplays.
 
-![TL script of Living, Eating, and Sleeping Together ch. 1 (Page 1-5) (Helvetica Scans)](/glossary/manga/tl.png)
+![TL script of Living, Eating, and Sleeping Together ch. 1 (Page 1-5)](/glossary/manga/tl.png)
 
 ### Typesetter (TS)
 Typesetter takes the translated script from the translator and typesets it on the panel with appropriate font, formatting & sfx drawing. Sometimes TS can do both translation and typesetting.
@@ -194,7 +193,7 @@ PR reviews all translated text to correct any typos, awkward translations, or gr
 ### Quality checker (QC)
 Quality checker oversees all processes, including checking the translated manga for typos, grammar errors, translation issues, and redrawing problems. However, whether or not this role exists depends on the project or group's working strategy.
 
-![Kilroy Was Here (SL by Atelier du Noir)](/glossary/manga/compare.jpg)
+![Kilroy Was Here](/glossary/manga/compare.jpg)
 
 
 ## Technical Terms

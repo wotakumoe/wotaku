@@ -88,32 +88,65 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 == Glossary
 
 #### General
-- [Japanese with Anime](https://www.japanesewithanime.com/)
-- [Horimiya Vol. 15 by Yen Press](https://yenpress.com/titles/9781975324735-horimiya-vol-15)
-- [The Dere Types Wiki](https://the-dere-types.fandom.com/wiki/The_Dere_Types_Wiki)
+
+| Author / Pub | Article | Used as |
+|-|-|-|
+| **Japanese with Anime** | [Common Anime Words Glossary](https://www.japanesewithanime.com/2017/01/anime-words-japanese-meanings.html) | [General Term](/glossary/general#terms) |
+| **Yen Press** | [Horimiya Vol. 15 by Yen Press](https://yenpress.com/titles/9781975324735-horimiya-vol-15) | [Common Honorifics](/glossary/general#common-honorifics) |
+| - | [The Dere Types Wiki](https://the-dere-types.fandom.com/wiki/The_Dere_Types_Wiki) | [Dere Types](/glossary/general#dere-types) |
 
 #### Anime
-- [Sakuga Wiki](https://sakuga.fandom.com/wiki/Sakuga_Wiki)
-- [Graymouser's artwork terminology](https://itamejihada.net/terminology/artwork.html)
-- [What is Genga? How to draw Genga. How to get work in Anime drawing Genga](https://www.youtube.com/watch?v=iOB7t6KtIFE)
+| Author / Pub | Article | Used as |
+|-|-|-|
+| **Bridge** | [Shaman King](https://setteidreams.net/storyboards/shaman-king-2021-opening-02/) | [E-Konte](/glossary/anime#e-konte) |
+| **CloverWorks** | [Akebi-chan no Sailor-fuku](https://setteidreams.net/settei/akebi-chan-no-sailor-fuku/) | [Settai](/glossary/anime#settai) |
+| **Dong Chang** | [What is Genga?](https://www.youtube.com/watch?v=iOB7t6KtIFE) | [Technical terms](/glossary/anime#technical-terms) |
+| **Graymouser** | [Artwork terminology](https://itamejihada.net/terminology/artwork.html) | [Technical terms](/glossary/anime#technical-terms) |
+| **ISA** | [Sakuga Wiki](https://sakuga.fandom.com/wiki/Sakuga_Wiki) | [Technical terms](/glossary/anime#technical-terms) |
+| **Japanese with Anime** | [anime - Terminology](https://www.japanesewithanime.com/2016/08/anime.html) | [Release terms](/glossary/anime#release-terms) |
 
 #### Manga
-- [A Practical Guide to Translating Japanese Manga Sound Effects](https://nomansguy.wordpress.com/2023/02/04/translating-manga-sfx-guide-part-1/)
-- [Bentoki from Helvetica Scans](https://www.mangaupdates.com/group/nztl66c/helvetica-scans)
-- [u/rui_is_dead from Atelier du Noir](https://old.reddit.com/r/manga/comments/tc90d8/guys_can_you_explain_the_process_of/)
+| Artist / Author / Pub | Article | Used as |
+|-|-|-|
+| **Akutami Gege** | [Jujutsu Kaisen](https://shonenjumpplus.com/episode/10834108156650001170) | [Release Terms](/glossary/manga#release-terms) |
+| **Atelier du Noir** | [Kilroy Was Here](https://old.reddit.com/r/manga/comments/tc90d8/guys_can_you_explain_the_process_of/) | [Scanlation](/glossary/manga#scanlation) |
+| **Chomoran** | [Sachi's Monstrous Appetite](https://comics.inkr.com/title/2255-sachi-s-monstrous-appetite-1-4) | [Technical Terms](/glossary/manga#technical-terms) |
+| **DUBU** | [Solo Leveling](https://www.tappytoon.com/en/book/solo-leveling-official) | [Panel Terms](/glossary/manga#panel-terms) |
+| **DUBU** | [Solo Leveling, Vol. 2 (comic)](https://yenpress.com/titles/9781975319458-solo-leveling-vol-2-comic) | [Panel Terms](/glossary/manga#panel-terms) |
+| **DUBU** | [Solo Leveling, Vol. 7 (comic)](https://yenpress.com/titles/9798400900488-solo-leveling-vol-7-comic) | [Panel Terms](/glossary/manga#panel-terms) |
+| **Fukushima Teppei** | [Bokura wa Mahou Shounen](https://tonarinoyj.jp/episode/10834108156629255987) | [Release Terms](/glossary/manga#release-terms) |
+| **Furudate Haruichi** | [Haikyu!!](https://www.viz.com/haikyu) | [Panel Terms](/glossary/manga#panel-terms) |
+| **Helvetica Scans** | [TL Script of Kuu Neru Futari Sumu Futari](https://www.mangaupdates.com/group/nztl66c/helvetica-scans) | [Scanlation](/glossary/manga#scanlation) |
+| **Higurashi Kinoko** | [Kuu Neru Futari Sumu Futari](https://www.amazon.co.jp/%E5%96%B0%E3%81%86%E5%AF%9D%E3%82%8B%E3%81%B5%E3%81%9F%E3%82%8A-%E4%BD%8F%E3%82%80%E3%81%B5%E3%81%9F%E3%82%8A-%E3%82%BC%E3%83%8E%E3%83%B3%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E6%97%A5%E6%9A%AE-%E3%82%AD%E3%83%8E%E3%82%B3/dp/4199801197) | [Scanlation](/glossary/manga#scanlation) |
+| **Isayama Hajime** | [Attack on Titan](https://comics.inkr.com/title/409-attack-on-titan) | [Panel Terms](/glossary/manga#panel-terms) |
+| **Mizukami Satoshi** | [Sengoku Youko](https://comics.inkr.com/title/1999-sengoku-youko) | [Panel Terms](/glossary/manga#panel-terms) |
+| **Murata Yuusuke** | [One Punch-Man](https://www.viz.com/shonenjump/chapters/one-punch-man) | [Panel Terms](/glossary/manga#panel-terms) |
+| **NOBEL** | [Mousou Telepathy](https://mangadex.org/title/3d25d7da-893f-400e-9aeb-6163773c671a/mousou-telepathy) | [Panel Terms](/glossary/manga#panel-terms) |
+| **No Man's Guy** | [Translating Manga SFX](https://nomansguy.wordpress.com/2023/02/04/translating-manga-sfx-guide-part-1/) | [Sound Effects](/glossary/manga#sound-effects) |
+| **OLM** | [Fabiniku](https://fabiniku.com/) | [Sound Effects](/glossary/manga#sound-effects) |
+| **Raj** | [Redraw P/B](https://www.youtube.com/watch?v=lwOTTa8F3bM&t=0s) | [Scanlation](/glossary/manga#scanlation) |
+| **Tachibana Roku** | [Kawaii Joushi wo Komarasetai](https://comic.pixiv.net/works/3884) | [Panel Terms](/glossary/manga#panel-terms) |
+| **Tsukasa Abe** | [Frieren: Beyond Journey's End](https://www.viz.com/vizmanga/chapters/frieren-the-journeys-end) | [Panel Terms](/glossary/manga#panel-terms) |
+| **Wakaki Tamiki** | [Kekkon surutte, Hontou desu ka](https://bigcomicbros.net/comics/?cid=a1303w10359) | [Sound Effects](/glossary/manga#sound-effects) |
+| **若林稔弥 (Toshiya Wakabayashi)** | [Tsuredure Children](https://comics.inkr.com/title/804-tsuredure-children) | [Panel Terms](/glossary/manga#panel-terms) |
+| **Yamano Ran** | [Kilroy Was Here](https://www.hmv.co.jp/artist_%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E7%B7%A8%E9%9B%86%E9%83%A8_000000000470398/item_%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97-2016%E5%B9%B4-3%E6%9C%88%E5%8F%B7-%E9%80%B1%E5%88%8A%E3%83%A4%E3%83%B3%E3%82%B0%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97-2016%E5%B9%B4-3%E6%9C%88-30%E6%97%A5%E5%8F%B7%E5%A2%97%E5%88%8A_6892269) | [Scanlation](/glossary/manga#scanlation) |
+| **Yūki Tabata** | [Black Clover](https://mangaplus.shueisha.co.jp/titles/100003) | [Panel Terms](/glossary/manga#panel-terms) |
 
 #### Audio
 
-- [A Digital Media Primer For Geeks (Monty Montgomery @ xiph.org)](https://youtu.be/FG9jemV1T7I)
-- [Digital Show and Tell (Monty Montgomery @ xiph.org)](https://youtu.be/cIQ9IXSUzuM)
-- [24/192 Music Downloads... and why they make no sense](https://people.xiph.org/~xiphmont/demo/neil-young.html)
-- [Dynamic range](https://en.wikipedia.org/wiki/Dynamic_range#:~:text=The%2016-bit%20compact%20disc,response%20of%20the%20human%20ear)
-- [Transparency (data compression)](https://en.wikipedia.org/wiki/Transparency_(data_compression))
-- [Digital Audio Fundamentals](https://www.youtube.com/playlist?list=PLbqhA-NKGP6B6V_AiS-jbvSzdd7nbwwCw)
-- [DSD: The Good, The Bad & The Test](https://youtu.be/eu5I-z7f6is)
+| Author / Pub | Article | Used as |
+|-|-|-|
+| **Akash Murthy** | [Digital Audio Fundamentals](https://www.youtube.com/playlist?list=PLbqhA-NKGP6B6V_AiS-jbvSzdd7nbwwCw) | [Audio file](/glossary/audio#audio-file-1) |
+| **ANA[DIA]LOG** | [DSD: The Good, The Bad & The Test](https://youtu.be/eu5I-z7f6is) | [Audio Signal](/glossary/audio#audio-signal) |
+| **Monty Montgomery** | [24/192 Music Downloads... and why they make no sense](https://people.xiph.org/~xiphmont/demo/neil-young.html) | [Audio file](/glossary/audio#audio-file-1) |
+| **Monty Montgomery** | [A Digital Media Primer For Geeks](https://youtu.be/FG9jemV1T7I) | [Audio file](/glossary/audio#audio-file-1) |
+| **Monty Montgomery** | [Digital Show and Tell](https://youtu.be/cIQ9IXSUzuM) | [Audio file](/glossary/audio#audio-file-1) |
+| - | [Transparency (data compression)](https://en.wikipedia.org/wiki/Transparency_(data_compression)) | [Transparency Threshold](/glossary/audio#transparency-threshold) |
 
 == Guide
 
-- The base structure of Digital Manga Info was taken from [neckothy's gist](https://gist.github.com/neckothy/6654f928fef87529646df3799f5e555a)
+| Author / Pub | Article | Used as |
+|-|-|-|
+| **neckothy** | [Digital Manga Buyer's Guide](https://gist.github.com/neckothy/6654f928fef87529646df3799f5e555a) (Base structure) | [Digital Comic Info](/guides/manga/digim) |
 
 :::

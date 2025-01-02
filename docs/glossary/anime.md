@@ -63,7 +63,7 @@ Sakuga means drawing, animation. In the fan community, it generally means cool s
 ### Settai
 Settai is collection of model sheets and important places (can be a house, place or anything important). The designs go through multiple stages, so they can change over time. The final drawings are used by staff as the character standard. Depending on the budget, settai can have very high details.
 
-![Akebi-chan no Sailor-fuku (Image by Settai Dreams)](/glossary/anime/akb.webp)
+![Akebi-chan no Sailor-fuku](/glossary/anime/akb.webp)
 
 ### E-Konte
 E-Konte / storyboard shows all the sequences in rough sketches so the director can show the vision to the animators and organize accordingly. It generally has 5 columns:
@@ -75,7 +75,7 @@ E-Konte / storyboard shows all the sequences in rough sketches so the director c
 
 Formatting of a storyboard can change depending on the studio and director.
 
-![Shaman King (2021) Opening #02 (Image by Settai Dreams)](/glossary/anime/sk.webp)
+![Shaman King (2021) Opening #02](/glossary/anime/sk.webp)
 
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/ln1sKXXpSdg" frameborder="0" allowfullscreen></iframe></div>
 
