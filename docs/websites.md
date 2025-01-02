@@ -390,25 +390,25 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 
 ### Manga
 
-- [AGR Comics](https://agrcomics.com/) + :flag-south-korea::flag-china:  <Badge type="info" text="Dex" link="https://mangadex.org/group/1dde9054-11fd-4f5e-a575-a50f7bd22d5f/animated-glitched-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/15ncn1v/animated-glitched-scans" /> <tooltip>Formerly Animated Glitched Scans and Animated Glitched Comics</tooltip>
+- [AGR Comics](https://agrcomics.com/) + :fkr::fcn:  <Badge type="info" text="Dex" link="https://mangadex.org/group/1dde9054-11fd-4f5e-a575-a50f7bd22d5f/animated-glitched-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/15ncn1v/animated-glitched-scans" /> <tooltip>Formerly Animated Glitched Scans and Animated Glitched Comics</tooltip>
 - [Assorted Scans](https://assortedscans.com/)
 - [Danke fürs Lesen Scans](https://danke.moe/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/91035fe1-d6b0-4816-be51-b54d05d546cf/danke-furs-lesen" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/xlp7424/danke-fuers-lesen" />
 - [LHTranslation](https://lhtranslation.net/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/24adf288-d0e3-4d34-b342-bf8c189aacaa/lhtranslation" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/f6nc2yt/lhtranslation" />
 - [Scylla Comics](https://scyllacomics.xyz/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/4209a4a9-b838-4817-be40-0c8ef2f7be4a/scylla-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/groups.html?id=14042" /> <tooltip>Formerly Scylla Scans</tooltip>
 - [TCB Scans](https://tcbscans.me/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/db85f2a1-d69b-4181-a7a0-aa37db4bcbcf/tcb-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/wn8v9bv/tcb-scans" />
-- [Tritinia Scans](https://tritinia.org/) + :flag-china::flag-south-korea:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/zfxsenj/tritinia-scans" />
+- [Tritinia Scans](https://tritinia.org/) + :fcn::fkr:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/zfxsenj/tritinia-scans" />
 
 ### Manhwa
 
-- [Asura Scans](https://asuracomic.net/) + :flag-china:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/juxsa9z/asura" /> <Badge type="info" text="Free" link="https://asurascansfree.com/" />
-- [Flame Comics](https://flamecomics.com/) + :flag-china:  <Badge type="info" text="Dex" link="https://mangadex.org/group/fdad9851-164f-43fc-9ab0-25b8054c99ed/flame-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/btgsdiy/flame-scans" /> <tooltip>Formerly Flame Scans</tooltip>
-- [Hive Toon](https://hivetoon.com/) + :flag-china: <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/10nt2ki/infernal-void-scans" /> <tooltip>Formerly Infernal Void Scans and Void Scans</tooltip>
-- [Reaper Scans](https://reaperscans.com/) + :flag-china:  <Badge type="info" text="Dex" link="https://mangadex.org/group/e892ed1b-ed75-414a-bc86-71226f3364ad/reaper-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/5ev5t5s/reaper-scans" />
-- [Reset Scans](https://rspro.xyz/home/) +:flag-japan::flag-china:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/df9ckct/reset-scans" />
+- [Asura Scans](https://asuracomic.net/) + :fcn:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/juxsa9z/asura" /> <Badge type="info" text="Free" link="https://asurascansfree.com/" />
+- [Flame Comics](https://flamecomics.com/) + :fcn:  <Badge type="info" text="Dex" link="https://mangadex.org/group/fdad9851-164f-43fc-9ab0-25b8054c99ed/flame-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/btgsdiy/flame-scans" /> <tooltip>Formerly Flame Scans</tooltip>
+- [Hive Toon](https://hivetoon.com/) + :fcn: <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/10nt2ki/infernal-void-scans" /> <tooltip>Formerly Infernal Void Scans and Void Scans</tooltip>
+- [Reaper Scans](https://reaperscans.com/) + :fcn:  <Badge type="info" text="Dex" link="https://mangadex.org/group/e892ed1b-ed75-414a-bc86-71226f3364ad/reaper-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/5ev5t5s/reaper-scans" />
+- [Reset Scans](https://rspro.xyz/home/) +:fjp::fcn:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/df9ckct/reset-scans" />
 - [Rizz Fables](https://rizzfables.com/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/v5djjz8/rizz-comics" /> <tooltip>Formerly Realm Scans and Rizz Comics</tooltip>
 - [StoneScape](https://stonescape.xyz/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/zt7x4q1/stonescape" />
-- [UTOON](https://utoon.net/) +:flag-japan::flag-china:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/mtcug74/utoon" /> <tooltip>Formerly Manhwa Freak, freak scans. freak comics</tooltip>
-- [Zero Scans](https://zscans.com/) + :flag-china:  <Badge type="info" text="Dex" link="https://mangadex.org/group/dd0a3018-21f1-4488-948c-08499b179fcf/zero-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/vlkvmk7/zero-scans-discord" />
+- [UTOON](https://utoon.net/) +:fjp::fcn:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/mtcug74/utoon" /> <tooltip>Formerly Manhwa Freak, freak scans. freak comics</tooltip>
+- [Zero Scans](https://zscans.com/) + :fcn:  <Badge type="info" text="Dex" link="https://mangadex.org/group/dd0a3018-21f1-4488-948c-08499b179fcf/zero-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/vlkvmk7/zero-scans-discord" />
 
 ### Manhua
 

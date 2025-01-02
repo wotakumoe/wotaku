@@ -169,6 +169,14 @@ Sample code [**here**](https://rentry.org/ty7iihnf)
 | :smf: | `:smf:` | Mediafire |
 | :host: | `:host:` | Host websites (specifically with speed paywall) |
 
+== Flag
+
+| Icon | Code | Desc |
+|-|-|-|
+| :fjp: | `:fjp:` | Japan |
+| :fkr: | `:fkr:` | South Korea |
+| :fcn: | `:fcn:` | China |
+
 == Others
 
 | Icon | Code | Desc |

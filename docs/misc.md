@@ -18,7 +18,7 @@ outline: [1,2]
 - [Anime Planet](https://www.anime-planet.com/)
 - [aniSearch](https://www.anisearch.com/)
 - [Kitsu](https://kitsu.io/)
-- [Sakuhin Database](https://sakuhindb.com/) :flag-japan:
+- [Sakuhin Database](https://sakuhindb.com/) :fjp:
 - [Kurozora](https://kurozora.app/)
 
 ### Anime
@@ -27,14 +27,14 @@ outline: [1,2]
 - [Annict](https://annict.com/)
 - [Aniplaylist](https://aniplaylist.com/)
 - [SIMKL](https://simkl.com/)
-- [Anikore](https://www.anikore.jp/) :flag-japan:
+- [Anikore](https://www.anikore.jp/) :fjp:
 
 ### Manga & LN
 - [Mangaupdates](https://www.mangaupdates.com/) :s:
 - [Novel updates](https://www.novelupdates.com/)
 - [RanobeDB](https://ranobedb.org/) [:gh:](https://github.com/Blastose/ranobedb)
-- [Ranobe Mori](https://ranobe-mori.net/) :flag-japan:
-- [Bookmeter](https://bookmeter.com/) :flag-japan:
+- [Ranobe Mori](https://ranobe-mori.net/) :fjp:
+- [Bookmeter](https://bookmeter.com/) :fjp:
 - [Goodreads](https://www.goodreads.com/)
 
 ### Seiyuu / Voice Actor
@@ -47,7 +47,7 @@ outline: [1,2]
 - [MyDramaList](https://mydramalist.com/)
 - [MyFigureCollection](https://myfigurecollection.net/)
 - [MyAnimeShelf](https://myanimeshelf.com/)
-- [TV Drama Database](http://www.tvdrama-db.com/) :flag-japan:
+- [TV Drama Database](http://www.tvdrama-db.com/) :fjp:
 
 ::: details :more: Related resources
 - [Tracker apps for phone](/software#trackers)
@@ -72,13 +72,13 @@ outline: [1,2]
 - [Anime Dubs Release Calendar](https://teamup.com/ksdhpfjcouprnauwda)
 - [AnimeSchedule](https://animeschedule.net/) [:rss:](https://animeschedule.net/rss) [:rss:](https://github.com/RockinChaos/AniSchedule)
 - [Anisaki](https://anisaki.vercel.app/) [:gh:](https://github.com/BayuDC/anisaki)
-- [Bangumi List](https://bgmlist.com/) :flag-japan::flag-china: [:gh:](https://github.com/wxt2005/bangumi-list-v3) <tooltip>Maintained by chinese devs, but lists JP schedule too.</tooltip>
-- [Kansou](https://www.kansou.me/) :flag-japan:
+- [Bangumi List](https://bgmlist.com/) :fjp::fcn: [:gh:](https://github.com/wxt2005/bangumi-list-v3) <tooltip>Maintained by chinese devs, but lists JP schedule too.</tooltip>
+- [Kansou](https://www.kansou.me/) :fjp:
 - [Livechart](https://www.livechart.me/schedule) :s: [:rss:](https://www.livechart.me/pages/rss)
 - [Notify.moe](https://notify.moe/calendar) [:gt:](https://git.akyoto.dev/web/notify.moe)
 - [Senpai.moe](https://www.senpai.moe/)
-- [Syoboi Calendar](https://cal.syoboi.jp/) :flag-japan: [:rss:](https://docs.cal.syoboi.jp/spec/rss.php/)
-- [Moon Phase](https://m-p.sakura.ne.jp/) :flag-japan:
+- [Syoboi Calendar](https://cal.syoboi.jp/) :fjp: [:rss:](https://docs.cal.syoboi.jp/spec/rss.php/)
+- [Moon Phase](https://m-p.sakura.ne.jp/) :fjp:
 - [Yatta-Tachi](https://yattatachi.com/)
 
 ### Stats & Watch guide
@@ -105,15 +105,15 @@ outline: [1,2]
 
 ### Info
 
-- [Bookmeter](https://bookmeter.com/) :flag-japan:
-- [Bunko Light Novel Ranking](http://bunkoranoberanking.blog.fc2.com/) :flag-japan:
+- [Bookmeter](https://bookmeter.com/) :fjp:
+- [Bunko Light Novel Ranking](http://bunkoranoberanking.blog.fc2.com/) :fjp:
 - [Erzat](https://erzat.blog/)
 - [Jajanken](https://www.jajanken.net/en/)
 - [Mangacodex](https://www.mangacodex.com/)
 - [MANGA Plus Views](https://mangaplustracker.github.io/) [:gh:](https://github.com/MangaplusTracker/MangaplusTracker.github.io)
 - [MANGA Plus Top 40](https://manga.tumeo.space/) [:gh:](https://github.com/williamd1k0/manga-plus-top40)
 - [r/LightNovels reading order](https://old.reddit.com/r/LightNovels/wiki/reading_order)
-- [Shoseki Ranking](http://shosekiranking.blog.fc2.com/) :flag-japan:
+- [Shoseki Ranking](http://shosekiranking.blog.fc2.com/) :fjp:
 - [Touhou Doujinshi Index](https://scarlet.nsk.sh/) [:gh:](https://github.com/nanoskript/touhou-doujinshi-index) <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" />
 
 
@@ -165,7 +165,7 @@ Illustrations now has its [own page](/art)!
   - [Japan Anime News](https://us.oricon-group.com/) [:x:](https://x.com/JapanAnimeNews_)
   - [Kanzenshuu](https://www.kanzenshuu.com/) [:rss:](https://www.kanzenshuu.com/feed/)
   - [MAL News](https://myanimelist.net/news) [:x:](https://x.com/myanimelist) [:rss:](https://myanimelist.net/rss/news.xml)
-  - [ORICON NEWS](https://www.oricon.co.jp/) :flag-japan:
+  - [ORICON NEWS](https://www.oricon.co.jp/) :fjp:
   - [Otaku News](https://www.otakunews.com/) [:rss:](https://www.otakunews.com/Rss)
 - **Blog / Interview**
   - [Anime Blog Tracker](https://aniblogtracker.com/) :s: <Badge text="Aggregator" /> 
@@ -177,11 +177,11 @@ Illustrations now has its [own page](/art)!
 
 - **Info / News**
   - [Anime Corner](https://animecorner.me/) :s: [:x:](https://x.com/animecorner_ac)
-  - [AnimeDB](https://animedb.jp/) :flag-japan:
-  - [Anime Freaks](https://times.abema.tv/anime) :flag-japan:
+  - [AnimeDB](https://animedb.jp/) :fjp:
+  - [Anime Freaks](https://times.abema.tv/anime) :fjp:
   - [Anitrendz](https://anitrendz.net/news/) [:x:](https://x.com/anitrendz)
   - [AnimeTV](https://animetv-jp.net/) [:x:](https://x.com/animetv_jp)
-  - [Eiga](https://anime.eiga.com/) :flag-japan:
+  - [Eiga](https://anime.eiga.com/) :fjp:
   - [English Dubbed Anime Lovers](https://english-dubbed.com/)
 - **Blog / Interview**
   - [Animation Obsessive](https://animationobsessive.substack.com/)
@@ -265,7 +265,7 @@ Illustrations now has its [own page](/art)!
 | Database | [Amatsukaze](https://amatsukaze.rl404.com/) :s: [:gh:](https://github.com/rl404/amatsukaze) <br> [Virtual YouTuber Wiki](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki) <br> [Good VTuber Subs](https://goodvtubersubs.com/) <br> [Hololist](https://hololist.net/) <br> [ironmouse Model Index](https://www.ironmousemodelindex.com/) <br> [VTBs in Bilibili!](https://vtbs.moe/) |
 | Stats | [VChama](https://vchama.xyz) :s: <Badge type="info" text="Schedule" /><br> [vtstats](https://vt.poi.cat/) :s: <Badge type="info" text="Schedule"/> <Badge text="Revenue"/><br> [VSTATS](https://www.vstats.jp/) <br> [Userlocal VTuber](https://virtual-youtuber.userlocal.jp/) <Badge type="info" text="Stream Rank" link="https://live-ranking.userlocal.jp/vtuber-ranking"/> <Badge type="info" text="Schedule" /><br> [TwitchTracker](https://twitchtracker.com/) <br> [Streams Charts](https://streamscharts.com/) |
 | Schedule | [VTuber Schedule](https://vtuberschedules.com/) <br> [Hololyzer](https://www.hololyzer.net/) <br> [vTubie](https://vtubie.com/) |
-| Others | [VTuber Highlights](https://vtuber.atodeyo.com/) :flag-japan: <Badge type="info" text="News" /><br> [VTuber Newsdrop](https://vtubernewsdrop.com/) <Badge type="info" text="News" /><br> [Reincar](https://reincar.net/) <Badge type="info" text="News" /> |
+| Others | [VTuber Highlights](https://vtuber.atodeyo.com/) :fjp: <Badge type="info" text="News" /><br> [VTuber Newsdrop](https://vtubernewsdrop.com/) <Badge type="info" text="News" /><br> [Reincar](https://reincar.net/) <Badge type="info" text="News" /> |
 
 
 

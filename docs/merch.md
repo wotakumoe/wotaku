@@ -74,7 +74,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 
 
 ## Info
-- [Anime-DB](https://anime.dbsearch.net/) :flag-japan:
+- [Anime-DB](https://anime.dbsearch.net/) :fjp:
 - [Blu-ray.com](https://www.blu-ray.com/)
 - [Buyfag Store Digest](https://docs.google.com/document/u/0/d/1W4fAKQzCOhiWK6mJ_tvkZHIfzfzBZN57oGSaVB47TCQ/pub)
 - [Buying visual novels](https://old.reddit.com/r/visualnovels/wiki/buy)

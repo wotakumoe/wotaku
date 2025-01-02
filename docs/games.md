@@ -90,15 +90,15 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 
 ### News
 
-- [4Gamer](https://www.4gamer.net/) :flag-japan:
-- [Famitsu](https://www.famitsu.com/) :flag-japan:
+- [4Gamer](https://www.4gamer.net/) :fjp:
+- [Famitsu](https://www.famitsu.com/) :fjp:
 - [GachaRevenue](https://www.gacharevenue.com/) [:gh:](https://github.com/zigamacele/gacharevenue)
 - [Gematsu](https://www.gematsu.com/)
 - [Frontline](https://www.frontlinejp.net/)
 - [Siliconera](https://www.siliconera.com/)
 - [RPGFan](https://www.rpgfan.com/) 
 - [RPG Site](https://www.rpgsite.net/)
-- [Touhou Yomoyama News](https://touhou-project.news/) :flag-japan:
+- [Touhou Yomoyama News](https://touhou-project.news/) :fjp:
 
 ### Price
 - [Deku Deals](https://www.dekudeals.com/)

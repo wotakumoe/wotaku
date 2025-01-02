@@ -179,13 +179,13 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 ## Websites
 - [Anime-sharing](http://www.anime-sharing.com/forum/)
 - [ASMR Online](https://asmr.one/)
-- [DOJINDB](https://dojindb.net/) :flag-japan:
+- [DOJINDB](https://dojindb.net/) :fjp:
 - [Hemdomblog](https://www.hemdomblog.com/)
 - [HentTag](https://hentag.com/)
 - [Hentai ASMR](https://www.hentaiasmr.moe/)
 - [Kasumi](http://xdcc.kasumi.moe/) <Badge type="tip" text="Guide" link="http://kasumi.moe/guide/" />
 - [Kemono](https://kemono.su/)
-- [Manga-DB](https://adultcomic.dbsearch.net/) :flag-japan::s:
+- [Manga-DB](https://adultcomic.dbsearch.net/) :fjp::s:
 - [Nekohouse](https://nekohouse.su/)
 
 ## AV

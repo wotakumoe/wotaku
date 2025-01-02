@@ -96,6 +96,11 @@ const aliases: Record<string, string> = {
   smf: 'simple-icons-mediafire',
   host: 'mdi-snail',
 
+  // Flag
+  fjp: 'twemoji-flag-japan',
+  fkr: 'twemoji-flag-south-korea',
+  fcn: 'twemoji-flag-china',
+
   // Others
   s: 'twemoji-glowing-star',
   e: 'mdi-puzzle',

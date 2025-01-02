@@ -292,11 +292,11 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
   - [Japanese Music Calendar](https://docs.google.com/spreadsheets/d/1VcrXXQKn_wuwtiExqZK9Ahj2R4jqwDIgL4O7xPBKAIs/edit#gid=928410087)
   - [ORICON](https://www.oricon.co.jp/release/album/)
 - **General**
-  - [Billboard JAPAN](https://www.billboard-japan.com/d_news/jpn/) :flag-japan:
+  - [Billboard JAPAN](https://www.billboard-japan.com/d_news/jpn/) :fjp:
   - [JaME](https://www.jame-world.com/en/) :s:
   - [Natalie](https://natalie.mu/music/news/)
-  - [Uta-Net](https://www.uta-net.com/) :flag-japan:
-  - [UtaTen](https://utaten.com/) :flag-japan:
+  - [Uta-Net](https://www.uta-net.com/) :fjp:
+  - [UtaTen](https://utaten.com/) :fjp:
   - [Make Believe Mailer](https://mbmelodies.substack.com/) :s:
 - **Doujin & Vocaloid**
   - [Vocasphere](https://vocasphere.net/)
