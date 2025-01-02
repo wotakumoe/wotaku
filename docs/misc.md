@@ -47,6 +47,7 @@ outline: [1,2]
 - [MyDramaList](https://mydramalist.com/)
 - [MyFigureCollection](https://myfigurecollection.net/)
 - [MyAnimeShelf](https://myanimeshelf.com/)
+- [TV Drama Database](http://www.tvdrama-db.com/) :flag-japan:
 
 ::: details :material-symbols-subdirectory-arrow-right: Related resources
 - [Tracker apps for phone](/software#trackers)
