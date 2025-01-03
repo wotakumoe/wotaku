@@ -118,6 +118,7 @@ Check out [**CFW's iOS guide**](https://ios.cfw.guide/) & [**The Apple Wiki**](h
 
 ## Anime Streaming
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
+- [Sora](https://github.com/cranci1/Sora) [:e:](/guides/tech/repo#ios) [:d:](https://discord.gg/XR3SrmUbpd) <Badge type="info" text="Altstore" link="https://www.cranci.tech/repo.json" /> <tooltip>To get the sources, join the Discord server.</tooltip>
 
 ## Manga Readers
 
@@ -294,9 +295,9 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Icaros](https://www.videohelp.com/software/Icaros) :win::cs:
 - [MangaJaNai](https://github.com/the-database/MangaJaNai) <Badge type="info" text="GUI" link="https://github.com/the-database/MangaJaNaiConverterGui" />
 - [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager) :win::app::lin:
-- [Poppler](https://poppler.freedesktop.org/) :win::app::lin::bsd: [:gl:](https://gitlab.freedesktop.org/poppler/poppler)
 - [SyncYomi](https://github.com/syncyomi/syncyomi) :win::app::lin::mdi-docker:
 - [XpdfReader](https://www.xpdfreader.com/index.html) :win::lin:
+  - [Poppler](https://poppler.freedesktop.org/) :win::app::lin::bsd: [:gl:](https://gitlab.freedesktop.org/poppler/poppler)
 - :more: [Image Tools](/tools#image-tools)
 - :more: [Manga image editing guide](/guides/manga/imagedit)
 
