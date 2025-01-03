@@ -26,8 +26,8 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 
 ### A-G
 - [ACE SCANS](https://discord.gg/e5kFjW8u3Q)
+- [AGR Community](https://discord.gg/YjuSSE273C)
 - [r/Anime](https://discord.gg/r-anime)
-- [Animated Glitched Scans](https://discord.gg/YjuSSE273C)
 - [Anime UK News](https://discord.gg/014sRKGzuUPGPpYRa)
 - [AniWave](https://discord.gg/KRQQKzQ6CS)
 - [Aniyomi](https://discord.gg/F32UjdJZrR)

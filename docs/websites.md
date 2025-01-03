@@ -390,7 +390,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 
 ### Manga
 
-- [AGR Comics](https://agrcomics.com/) + :fkr::fcn:  <Badge type="info" text="Dex" link="https://mangadex.org/group/1dde9054-11fd-4f5e-a575-a50f7bd22d5f/animated-glitched-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/15ncn1v/animated-glitched-scans" /> <tooltip>Formerly Animated Glitched Scans and Animated Glitched Comics</tooltip>
+- [AGR Comics](https://agrcomics.com/) + :fkr::fcn:  <Badge type="info" text="Dex" link="https://mangadex.org/group/1dde9054-11fd-4f5e-a575-a50f7bd22d5f/animated-glitched-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/nfkpfd9/agr-comics" /> <tooltip>Formerly Animated Glitched Scans and Animated Glitched Comics</tooltip>
 - [Assorted Scans](https://assortedscans.com/)
 - [Danke fürs Lesen Scans](https://danke.moe/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/91035fe1-d6b0-4816-be51-b54d05d546cf/danke-furs-lesen" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/xlp7424/danke-fuers-lesen" />
 - [LHTranslation](https://lhtranslation.net/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/24adf288-d0e3-4d34-b342-bf8c189aacaa/lhtranslation" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/f6nc2yt/lhtranslation" />
