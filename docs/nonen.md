@@ -338,7 +338,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 :::
 
 - **Reader**
-  - [FireManga](https://www.firemanga.com/)
+  - [Manga Jikan](https://www.mangajikan.com/) <Badge type="tip" text="2" link="https://www.mangasuika.com/"/> <Badge type="tip" text="3" link="https://www.lmanga.com/"/> <Badge type="tip" text="4" link="https://www.firemanga.com/" />
   - [KL Manga](https://klz9.com/idx) <Badge type="tip" text="2" link="https://hachiraw.net/"/> <Badge type="tip" text="3" link="https://klto9.com/"/> <Badge type="tip" text="4" link="https://jestful.net/" />
   - [MangaFire](https://mangafire.to/home)
   - [MangaReader](https://mangareader.to/home)
