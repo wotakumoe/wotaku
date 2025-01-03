@@ -431,7 +431,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 ### Anime
 - [AniBunker](https://www.anibunker.com/)
-- [Anime Fire](https://animefire.net/)
+- [AnimeFire](https://animefire.plus/) <Badge type="info" text="2" link="https://animefire.net/" />
 - [Animes House](https://animeshouse.app/)
 - [AnimesROLL](https://www.anroll.net/)
 - [Animes Zone](https://animeszone.net/)
