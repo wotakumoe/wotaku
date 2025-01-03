@@ -200,7 +200,7 @@ outline: [2,3]
   - [Sub transition](https://github.com/Ajatt-Tools/sub-transition) :simple-icons-mpv:
   - [Subtitle Character Counter](https://cademcniven.com/subtitleCharacterCounter.html) :web:
   - [Resource list for subtitle-related things](https://rentry.co/jpsub)
-- :more: [General subtitle tools](/tools#fansubbing-sub-tools)
+- :more: [General subtitle tools](/tools#video-tools)
 
 #### Audio tools
 - [Automatic Condensed Audio Dialogue Script](https://anacreondjt.gitlab.io/docs/condensed_audio/)

@@ -70,14 +70,13 @@ outline: [1,2]
 
 ## Downloader
 
-### General
-
 | Software | OS | DDL | P2P | FOSS |
 |-|-|-|-|-|
+| [aria2](https://aria2.github.io/) :s: [:gh:](https://github.com/aria2/aria2) | :cmd: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
 | [Internet Download Manager](https://www.internetdownloadmanager.com/) :s: | :win: | :check-mark-button: | :cross-mark: | :cross-mark: |
 | [qBittorrent](https://www.qbittorrent.org/) :s: [:gh:](https://github.com/qbittorrent/qBittorrent/) | :win::app::lin: | :cross-mark: | :check-mark-button: | :check-mark-button: |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) :s: | :win::app::lin::cmd: | :check-mark-button: | :cross-mark: | :check-mark-button: |
 | [AB Download Manager](https://abdownloadmanager.com/) [:gh:](https://github.com/amir1376/ab-download-manager) | :win::lin: | :check-mark-button: | :cross-mark: | :check-mark-button: |
-| [aria2](https://aria2.github.io/) :s: [:gh:](https://github.com/aria2/aria2) | :cmd: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
 | [Deluge](https://www.deluge-torrent.org/) [:gh:](https://github.com/deluge-torrent/deluge) | :win::app::lin: | :cross-mark: | :check-mark-button: | :check-mark-button: |
 | [File centipede](https://filecxx.com/en_US/index.html) [:gh:](https://github.com/filecxx/FileCentipede) | :win::lin: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
 | [Free Download Manager](https://www.freedownloadmanager.org/) | :win::app::lin: | :check-mark-button: | :check-mark-button: | :cross-mark: |
@@ -102,57 +101,27 @@ outline: [1,2]
 | [MegaBasterd](https://github.com/tonikelope/megabasterd) | [Account generator](https://github.com/qtchaos/py_mega_account_generator) <br> [MegaDoctor](https://github.com/tonikelope/megadoctor) |
 | [qBittorrent](https://www.qbittorrent.org/) | [Theme Index](https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-qBittorrent-themes) <br> [Search Plugins](https://github.com/qbittorrent/search-plugins) <br> [qBitController](https://github.com/Bartuzen/qBitController) <br> [VueTorrent](https://github.com/VueTorrent/VueTorrent) |
 | [Transmission](https://transmissionbt.com/) | [Transmission Remote GUI](https://github.com/transmission-remote-gui/transgui) |
-
-### Media
-
-  - [yt-dlp](https://github.com/yt-dlp/yt-dlp) :s::win::app::lin:
-    - [yt-dlp interface](https://github.com/ErrorFlynn/ytdlp-interface)
-    - [yt-dlp GUI](https://github.com/kannagi0303/yt-dlp-gui)
-    - [yt-dlp GUI Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer)
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | [yt-dlp interface](https://github.com/ErrorFlynn/ytdlp-interface) <br> [yt-dlp GUI](https://github.com/kannagi0303/yt-dlp-gui) <br> [yt-dlp GUI Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer) |
 
 
-## Image Tools
+## Media
 
-- **Viewer**
-  - [IrfanView](https://www.irfanview.com/) :cs:
-  - [XnView MP](https://www.xnview.com/en/xnviewmp/) :cs:
-  - [JPEGView](https://github.com/sylikc/jpegview)
-  - [qView](https://interversehq.com/qview/) [:gh:](https://github.com/jurplel/qView)
-  - [FastStone Image Viewer](https://www.faststone.org/FSViewerDetail.htm) :cs:
-- **Optimizer**
-  - [ImageMagick](https://imagemagick.org/index.php) [:gh:](https://github.com/ImageMagick/ImageMagick) <Badge type="tip" text="Scripts" link="https://www.fmwconcepts.com/imagemagick/index.php" />
-    - [FotoKilof](https://github.com/TeaM-TL/FotoKilof)
-    - [imgdanke](https://github.com/DrWhoCares/imgdanke) <tooltip>Optional for GUI but does not support Pingo v1+ at the moment.</tooltip>
-  - [pingo](https://css-ig.net/pingo) :cs:
-    - [pinga](https://css-ig.net/pinga) :cs:
-- **Processor / Upscaler**
-  - [chaiNNer](https://chainner.app/) [:gh:](https://github.com/chaiNNer-org/chaiNNer)
-  - [Magpie](https://github.com/Blinue/Magpie)
-  - [Waifu2X](https://github.com/nagadomi/waifu2x)
-    - [caffe](https://github.com/lltcggie/waifu2x-caffe)
-    - [ncnn Vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan)
-    - [Waifu2x Extension GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
-    - [nunif](https://github.com/nagadomi/nunif)
+### Image Viewer
+- [IrfanView](https://www.irfanview.com/) :cs:
+- [XnView MP](https://www.xnview.com/en/xnviewmp/) :cs:
+- [JPEGView](https://github.com/sylikc/jpegview)
+- [qView](https://interversehq.com/qview/) [:gh:](https://github.com/jurplel/qView)
+- [FastStone Image Viewer](https://www.faststone.org/FSViewerDetail.htm) :cs:
 
+### Video Player
+- [mpv](https://mpv.io/) :s::win::app::lin: [:gh:](https://github.com/mpv-player/mpvs)
+  - :more: [mpv Resources](#mpv)
+- [SMPlayer](https://www.smplayer.info/) :win::app::lin: [:gh:](https://github.com/smplayer-dev/smplayer)
+- [IINA](https://iina.io/) :app: [:gh:](https://github.com/iina/iina)
+- [MPC-HC](https://github.com/clsid2/mpc-hc) :win:
+- [K-Lite Codec Pack](https://codecguide.com/download_kl.htm) :win:
 
-## Video Tools
-
-- **Player**
-  - [mpv](https://mpv.io/) :s::win::app::lin: [:gh:](https://github.com/mpv-player/mpvs)
-    - :more: [mpv Resources](#mpv)
-  - [SMPlayer](https://www.smplayer.info/) :win::app::lin: [:gh:](https://github.com/smplayer-dev/smplayer)
-  - [IINA](https://iina.io/) :app: [:gh:](https://github.com/iina/iina)
-  - [MPC-HC](https://github.com/clsid2/mpc-hc) :win:
-  - [K-Lite Codec Pack](https://codecguide.com/download_kl.htm) :win:
-- **Tools**
-  - [FFmpeg](https://ffmpeg.org/) :cmd: [:gh:](https://github.com/FFmpeg/FFmpeg)
-    - [HandBrake](https://handbrake.fr/) :win::app::lin: [:gh:](https://github.com/HandBrake/HandBrake)
-    - [Videomass](https://jeanslack.github.io/Videomass/) :win::app::lin: [:gh:](https://github.com/jeanslack/Videomass)
-    - [FFmpeg.wasm](https://ffmpegwasm.netlify.app/) :web: [:gh:](https://github.com/ffmpegwasm/ffmpeg.wasm)
-    - [FFmpeg Batch AV Converter](https://github.com/eibol/ffmpeg_batch) :win:
-  - [LosslessCut](https://mifi.no/losslesscut/) :win::app::lin: [:gh:](https://github.com/mifi/lossless-cut)
-
-## mpv
+#### mpv
 
 | **Category** | **Resources** |
 |---------------|----------------|
@@ -164,10 +133,31 @@ outline: [1,2]
 | Addons | [webtorrent mpv hook](https://github.com/mrxdst/webtorrent-mpv-hook) <br> [ani-skip](https://github.com/synacktraa/ani-skip) |
 
 
-## Fansubbing & Sub Tools
+## Media Tools
+
+### Image Tools
+
+- [ImageMagick](https://imagemagick.org/index.php) [:gh:](https://github.com/ImageMagick/ImageMagick) <Badge type="tip" text="Scripts" link="https://www.fmwconcepts.com/imagemagick/index.php" />
+  - [FotoKilof](https://github.com/TeaM-TL/FotoKilof)
+  - [imgdanke](https://github.com/DrWhoCares/imgdanke) <tooltip>Optional for GUI but does not support Pingo v1+ at the moment.</tooltip>
+- [pingo](https://css-ig.net/pingo) :cs:
+  - [pinga](https://css-ig.net/pinga) :cs:
+- [FFmpeg](https://ffmpeg.org/) :cmd: [:gh:](https://github.com/FFmpeg/FFmpeg)
+- [chaiNNer](https://chainner.app/) [:gh:](https://github.com/chaiNNer-org/chaiNNer)
+- [Magpie](https://github.com/Blinue/Magpie)
+- [Waifu2X](https://github.com/nagadomi/waifu2x)
+  - [caffe](https://github.com/lltcggie/waifu2x-caffe)
+  - [ncnn Vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan)
+  - [Waifu2x Extension GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
+  - [nunif](https://github.com/nagadomi/nunif)
+
+
+### Video Tools
+
 | Category | Resources |  
-|--------------|---------------|  
-| General | [Aegisub](https://github.com/arch1t3cht/Aegisub) :win::app::lin: <br> [Subtitle Edit](https://www.nikse.dk/subtitleedit) :win: [:gh:](https://github.com/SubtitleEdit/subtitleedit) |  
+|--------------|---------------|
+| General Video tools | [FFmpeg](https://ffmpeg.org/) :win::app::lin::cmd: [:gh:](https://github.com/FFmpeg/FFmpeg) <br> [LosslessCut](https://mifi.no/losslesscut/) :win::app::lin: [:gh:](https://github.com/mifi/lossless-cut) |
+| General Sub tools | [Aegisub](https://github.com/arch1t3cht/Aegisub) :win::app::lin: <br> [Subtitle Edit](https://www.nikse.dk/subtitleedit) :win: [:gh:](https://github.com/SubtitleEdit/subtitleedit) |  
 | Adobe | [m0nkrus](https://w16.monkrus.ws/) :win::app: [:simple-icons-vk:](https://vk.com/monkrus) <br> [RuTracker](https://rutracker.org/forum/index.php) :win::app: <br> [GenP](https://genpguides.github.io) :win: <br> [Download Pirate](https://www.downloadpirate.com/) :win: <br> [a.dove.isdumb.one](https://github.com/ignaciocastro/a-dove-is-dumb) |  
 | Encoding | [AviSynth+](https://avs-plus.net/) :win::app::lin: [:gh:](https://github.com/AviSynth/AviSynthPlus) <br> [StaxRip](https://github.com/staxrip/staxrip) :win: <br> [VapourSynth](https://www.vapoursynth.com/) :win: [:gh:](https://github.com/vapoursynth/vapoursynth) <br> [VapourSynth Database](https://vsdb.top/) |  
 | MKV Tools | [MKVToolNix](https://mkvtoolnix.download/) :win::app::lin::bsd: <br> [MKV Extract](https://qgustavor.github.io/mkv-extract/en/) :web: [:gh:](https://github.com/qgustavor/mkv-extract/) |  
@@ -179,6 +169,7 @@ outline: [1,2]
 | Category | Resources |  
 |--------------|---------------|
 | [Aegisub](https://github.com/arch1t3cht/Aegisub) | [Aegisub-Motion](https://github.com/TypesettingTools/Aegisub-Motion) <br> [AI2ASS](https://github.com/TypesettingTools/AI2ASS) <br> [DependencyControl](https://github.com/TypesettingTools/DependencyControl) <br> [Perspective](https://github.com/TypesettingTools/Perspective) |
+| [FFmpeg](https://ffmpeg.org/) | [HandBrake](https://handbrake.fr/) :win::app::lin: [:gh:](https://github.com/HandBrake/HandBrake) <br> [Videomass](https://jeanslack.github.io/Videomass/) :win::app::lin: [:gh:](https://github.com/jeanslack/Videomass) <br> [FFmpeg.wasm](https://ffmpegwasm.netlify.app/) :web: [:gh:](https://github.com/ffmpegwasm/ffmpeg.wasm) <br> [FFmpeg Batch AV Converter](https://github.com/eibol/ffmpeg_batch) :win: |
 | [MKVToolNix](https://mkvtoolnix.download/) |  [gMKVExtractGUI](https://sourceforge.net/projects/gmkvextractgui/) :win::app::lin: <br> [MKVcleaver](https://www.videohelp.com/software/MKVcleaver) :win::cs: <br> [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) :win:  |
 
 - :more: [Encoding & Fansubbing Guides](/misc#encoding-fansubbing-guides)

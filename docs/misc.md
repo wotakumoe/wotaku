@@ -348,7 +348,7 @@ Illustrations now has its [own page](/art)!
 - [Unanimated](https://unanimated.github.io/guides.htm)
 - [Yukisubs](https://yukisubs.wordpress.com/guides/)
 - [Zeriyu's Fansub Guide](https://github.com/zeriyu/fansub-guide)
-- :more: [Fansubbing tools](/tools#fansubbing-sub-tools)
+- :more: [Fansubbing tools](/tools#video-tools)
 
 ## Fun sites
 
