@@ -165,7 +165,7 @@ If you have recommendations for good sites in your native language or want to re
 - [AnimeKO](https://animeko.co/)
 - [Anime-Sama](https://anime-sama.fr/)
 - [FanKai](http://fankai.fr/) <Badge type="tip" text="2" link="https://linktr.ee/FanKai" />
-- [FRAnime](https://franime.fr/)
+- [FRAnime](https://franime.fr/) <Badge type="tip" text="2" link="https://franime.to/" />
 - [French Anime](https://french-anime.com/)
 - [JetAnime](https://vww.jetanimes.com/)
 - [Mavanimes](https://mavanimes.co/)
