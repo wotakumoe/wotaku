@@ -17,9 +17,9 @@ outline: [1,2]
 - [MyAnimeList](https://myanimelist.net/)
 - [Anime Planet](https://www.anime-planet.com/)
 - [aniSearch](https://www.anisearch.com/)
-- [Kitsu](https://kitsu.io/)
-- [Sakuhin Database](https://sakuhindb.com/) :fjp:
+- [Kitsu](https://kitsu.app/explore/anime)
 - [Kurozora](https://kurozora.app/)
+- [Sakuhin Database](https://sakuhindb.com/) :fjp:
 
 ### Anime
 - [aniDB](https://anidb.net/) :s:
