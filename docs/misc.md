@@ -44,9 +44,9 @@ outline: [1,2]
 - [Behind The Voice Actors](https://www.behindthevoiceactors.com/)
 
 ### Others
+- [MyAnimeShelf](https://myanimeshelf.com/)
 - [MyDramaList](https://mydramalist.com/)
 - [MyFigureCollection](https://myfigurecollection.net/)
-- [MyAnimeShelf](https://myanimeshelf.com/)
 - [TV Drama Database](http://www.tvdrama-db.com/) :fjp:
 
 ::: details :more: Related resources
