@@ -354,7 +354,8 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
   - [Twicomi](https://twicomi.com/)
   - [We Love Manga](https://welovemanga.one/) <Badge type="tip" text="2" link="https://manga1000.top/" />
 - **Torrent Download**
-  - [Nyaa](https://nyaa.si/) :s: <Badge type="info" text="2" link="https://nyaa.iss.one/" /> <Badge type="info" text="3" link="https://nyaa.iss.ink/" /> <Badge type="info" text="4" link="https://nyaa.land/" />
+  - [Nyaa](https://nyaa.si/) :s: <Badge type="info" text="Proxies" link="https://rentry.org/nyaap" />
+  - [Tokyo Toshokan](https://www.tokyotosho.info/) <Badge type="info" text="2" link="http://tokyotosho.se/" /> <Badge type="info" text="3" link="http://tokyo-tosho.net/" />
 - **Direct Download**
   - [A-Z Manga](https://www.a-zmanga.net/) :material-symbols-book-5::ic-outline-menu-book::host:
   - [Asia Media Blog](https://asiamediablog.com/media/comic/manga/) :material-symbols-book-5::ic-outline-menu-book::host:

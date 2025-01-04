@@ -191,10 +191,11 @@ outline: 1
 
 ### Torrent
 
-- [Nyaa](https://nyaa.si/) :s: <Badge type="info" text="2" link="https://nyaa.iss.one/" /> <Badge type="info" text="3" link="https://nyaa.iss.ink/" /> <Badge type="info" text="4" link="https://nyaa.land/" /> 
+- [Nyaa](https://nyaa.si/) :s: <Badge type="info" text="Proxies" link="https://rentry.org/nyaap" />
+- [Anime Tosho](https://animetosho.org/)
 - [Anirena](https://www.anirena.com/)
 - [Shana Project](https://www.shanaproject.com/)
-- [Tokyo Toshokan](https://www.tokyotosho.info/)
+- [Tokyo Toshokan](https://www.tokyotosho.info/) <Badge type="info" text="2" link="http://tokyotosho.se/" /> <Badge type="info" text="3" link="http://tokyo-tosho.net/" />
 
 
 ### Direct Download
