@@ -472,6 +472,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [AnimeGO](https://animego.org/) <Badge type="info" text="Aggregator" />
 - [AnimeJoy](https://animejoy.ru/)
 - [Animelayer](http://animelayer.ru/) :mag:
+- [AnimeLIB](https://anilib.me/)
 - [AnimeShot](https://animeshot.ru/)
 - [AnimeStars](https://animestars.org/) <Badge type="info" text="Aggregator" />
 - [Anisun](https://anisun.vercel.app/en) [:gh:](https://github.com/notwindstone/anisun)
