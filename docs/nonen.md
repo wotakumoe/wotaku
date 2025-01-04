@@ -434,7 +434,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [AnimeFire](https://animefire.plus/) <Badge type="info" text="2" link="https://animefire.net/" />
 - [Animes House](https://animeshouse.app/)
 - [AnimesROLL](https://www.anroll.net/)
-- [Animes Zone](https://animeszone.net/)
 - [Better Anime](https://betteranime.net/)
 - [Dark Animes](https://darkmahou.org/) :mag:
 - [Geekdot](https://geekdot.live/)
