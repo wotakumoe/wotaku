@@ -14,7 +14,7 @@
     "lint": "biome lint .",
     "lint:fix": "biome lint . --write",
     "lint:fix:unsafe": "biome lint . --unsafe",
-    "og:dev": "x-satori -t ./docs/.vitepress/theme/components/OgImageTemplate.vue -c ./.vitepress/hooks/satoriConfig.ts --dev"
+    "og:dev": "x-satori -t ./docs/.vitepress/theme/components/OgImageTemplate.vue -c ./docs/.vitepress/hooks/satoriConfig.ts --dev"
   },
   "dependencies": {
     "@fmhy/components": "^0.0.3",

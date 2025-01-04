@@ -41,6 +41,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **フカヒレ (Fukahire)**  | [Hoshimachi Suisei](https://x.com/fuka_hire/status/1619998921757192195)                                                            | [Music banner](/qs#music)                                      |
 | **Huu**                  | [Rem](https://www.pixiv.net/en/artworks/79939625)                                                                                  | [Music banner](/music#radio)                                   |
 | **J.C.Staff**            | [Taiga Aisaka](https://yande.re/post/show/46578)                                                                                   | [Music banner](/music#pc)                                      |
+| **可 (Ka / 996beshi)** | [15枚](https://www.pixiv.net/en/artworks/116320124) | Default link embed |
 | **Kazuki Takahashi**     | [Yami Yugi](https://www.zerochan.net/7739)                                                                                         | [Manga banner](/qs#manga)                                      |
 | **konijnsate**           | [Moiré vs Non-Moiré Pattern Comparison](https://tips.clip-studio.com/en-us/articles/3489)                                          | [Manga glossary example](/glossary/manga#artist-side)          |
 | **Kyoto Animation**      | [Mio Akiyama](https://yande.re/post/show/255575)                                                                                   | [Music banner](/music#communities)                             |
@@ -57,7 +58,6 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **tyasuzu**              | [Ryo Yamada](https://www.pixiv.net/en/artworks/104004187)                                                                          | [Music banner](/music#stream)                                  |
 | **WayForward**           | [Risky Boots](https://shantae.fandom.com/wiki/Risky_Boots)                                                                         | [PT banner](/websites#private-trackers)                        |
 | **柱 (youamo)**          | [Antonina](https://42lab-us.sunborngame.com/index)                                                                                 | [Music banner](/music#server)                                  |
-| **夕城 (Yuki)**          | [Hoshimachi Suisei meteor shower](https://xfolio.jp/en/portfolio/yukiyasa1/works/3491276)                                          | Link embed                                                     |
 
 
 #### Previous Assets
@@ -84,7 +84,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **TROYCA**                  | [Waver Velvet](https://yande.re/post/show/551600)                                                  | Fate banner         |
 | **티비아래underdatv**       | [Smol Ina's diary](https://x.com/underdatv/status/1790765775349072046)                             | Favicon             |
 | **Walfie**                  | [Ninomae Ina’nis peek](https://x.com/ninomaeinanis/status/1339282161715691521)                     | General banner      |
-
+| **夕城 (Yuki)**          | [Hoshimachi Suisei meteor shower](https://xfolio.jp/en/portfolio/yukiyasa1/works/3491276)             | Default link embed  |
 
 == Glossary
 
