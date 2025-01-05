@@ -49,7 +49,7 @@ outline: [2,3]
 - [Viki](https://www.viki.com/categories/country/japan/genre/all) :fm: <Badge type="info" text="JP Sub" />
 - [ViewAsian](https://www.viewasian.org/)
 - [SFlix](https://sflix2.to/home)
-- [Dramacool](https://asianc.co/) <Badge type="info" text="2" link="https://embasic.pro/" /> <tooltip>Not updated anymore, but still good for older stuff.</tooltip>
+- [Dramacool](https://asianc.co/) <Badge type="info" text="2" link="https://embasic.pro/" /><tooltip>Not updated anymore, but still good for older stuff.</tooltip>
 - [Tokuzilla](https://tokuzilla.net/) <Badge type="info" text="2" link="https://tokuzl.net/" />
 - [Toku555](https://toku555.com/)
 - [Japanese Movies Subtitles](https://github.com/eurusdagr/Japanese-Movies-Subtitles)

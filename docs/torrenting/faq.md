@@ -67,7 +67,7 @@ It has various variables. The free VPNs are very limited such as untrusted owner
 - [Mullvad](https://mullvad.net/) <Badge type="tip" text="No port forwarding" />
 - [nVPN](https://nvpn.net/)
 - [OVPN](https://www.ovpn.com/)
-- [Proton](https://protonvpn.com/) :fm: <tooltip>The free tier doesn't support torrenting.</tooltip>
+- [Proton](https://protonvpn.com/) :fm:<tooltip>The free tier doesn't support torrenting.</tooltip>
 - [Windscribe](https://windscribe.com/) :fm:
 - [Xeovo](https://xeovo.com/)
 

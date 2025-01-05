@@ -15,7 +15,7 @@ To start downloading torrents, you will need two things:
 
 
 Torrent link is basically the download link for the torrent file or folder. It carries all the metadata and comes in two types:
-1. Magnet URL <tooltip>Magnet URL is the link that starts with `magnet:`</tooltip>
+1. Magnet URL<tooltip>Magnet URL is the link that starts with `magnet:`</tooltip>
 2. `.torrent` file
 
 

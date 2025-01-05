@@ -10,8 +10,8 @@ outline: [2-3]
 
 ### Requirement
 1. :logos-visual-studio-code: [VS Code](https://code.visualstudio.com/)
-2. :gh: [GitHub Desktop](https://github.com/apps/desktop) <tooltip>It's optional. You can do the same thing using VS Code. Can be easier using it depending on ur skill level. The guide assumes you went for this one.</tooltip>
-3. :logos-nodejs-icon-alt: [Node JS](https://nodejs.org/en) <tooltip>Only if you run wotaku locally in your browser. Otherwise ignore. Recommended to use LTSC version. You can try the latest too.</tooltip>
+2. :gh: [GitHub Desktop](https://github.com/apps/desktop)<tooltip>It's optional. You can do the same thing using VS Code. Can be easier using it depending on ur skill level. The guide assumes you went for this one.</tooltip>
+3. :logos-nodejs-icon-alt: [Node JS](https://nodejs.org/en)<tooltip>Only if you run wotaku locally in your browser. Otherwise ignore. Recommended to use LTSC version. You can try the latest too.</tooltip>
 4. :logos-git-icon: [Git](https://git-scm.com/)
 
 ### Cloning
@@ -97,7 +97,7 @@ You have to add the iconpack manually in `docs\.vitepress\configs\emoji.ts`. Oth
 7. If there is an icon for that button (example: GitHub), use [icon](URL). Otherwise normal button.
 8. Tooltip will always be at the end. Also with a space before it.
 
-**Example**: [Anisong Database](https://anisongdb.com/) :win::app::web: [:gh:](https://github.com/xSardine/AMQ-Artists-DB) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" /> <tooltip>icons here are just for example. don't put them in main wiki</tooltip>
+**Example**: [Anisong Database](https://anisongdb.com/) :win::app::web: [:gh:](https://github.com/xSardine/AMQ-Artists-DB) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" /><tooltip>icons here are just for example. don't put them in main wiki</tooltip>
 
 Sample code [**here**](https://rentry.org/ty7iihnf)
 

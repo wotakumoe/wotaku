@@ -67,7 +67,7 @@ outline: [2,3]
 - **Ulrike's Mnemonics**
   - [Original version](https://www.joyokanji.com/ulrikes-mnemonics)
   - [Carlos version](https://japanesestudies.github.io/ulrikes-mnemonics/)
-- [Marshall's Site](https://marshallyin.com/) :fm: <tooltip>Marshall's site contain almost everything. So to avoid dupe, it will be linked once.</tooltip>
+- [Marshall's Site](https://marshallyin.com/) :fm:<tooltip>Marshall's site contain almost everything. So to avoid dupe, it will be linked once.</tooltip>
 - [THE KANJI VISUAL LANGUAGE PROJECT](https://kvlp.org/)
 - [Proverb encyclopedia](https://proverb-encyclopedia.com/)
 

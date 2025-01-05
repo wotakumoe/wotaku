@@ -112,7 +112,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [Squid.wtf](https://squid.wtf/) :s:
 - [Lucida](https://lucida.to/) <Badge type="tip" text="2" link="https://lucida.su/" />
 - [DoubleDouble](https://doubledouble.top/)
-- [MP3Daddy](https://mp3-daddy.com/) <tooltip>Don't download WAV and AIFF versions. It's pointless bloat. Use Squid.wtf or YAMS deezer. Better service.</tooltip>
+- [MP3Daddy](https://mp3-daddy.com/)<tooltip>Don't download WAV and AIFF versions. It's pointless bloat. Use Squid.wtf or YAMS deezer. Better service.</tooltip>
 - [:tg: Beatspot Music](https://t.me/BeatSpotBot)
 
 ## Doujin
@@ -178,7 +178,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [Gensokyo Radio](https://gensokyoradio.net/playing/) <Badge type="tip" icon="i-material-symbols-download-2" text="256kbps" link="https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u" /> <Badge type="info" text="Touhou" />
 - [Phate](https://phate.io/) <Badge type="tip" icon="i-material-symbols-download-2" text="192kbps" link="https://phate.io/phate.m3u" /> <Badge type="info" text="Utaite" />
 - [Vocaloid Radio VRX](https://vrx.piro.moe/)
-- [Vocaloid Radio](https://www.vocaloidradio.com/) <tooltip>Stream URL (192kbps) : https://vocaloid.radioca.st/stream</tooltip>
+- [Vocaloid Radio](https://www.vocaloidradio.com/)<tooltip>Stream URL (192kbps) : https://vocaloid.radioca.st/stream</tooltip>
 
 ## Games
 - [Game That Tune Radio](https://gttradio.com/)
@@ -419,7 +419,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [Deemix](https://download.deemix.workers.dev/) :cs:
 - [Onthespot](https://github.com/casualsnek/onthespot)
 - [Lidarr](https://lidarr.audio/) :win::app::lin:
-- [Nicotine+](https://nicotine-plus.org/) :win::app::lin::mdi-lan-pending: <tooltip>Direct peer-to-peer sharing network, primarily used for music</tooltip>
+- [Nicotine+](https://nicotine-plus.org/) :win::app::lin::mdi-lan-pending:<tooltip>Direct peer-to-peer sharing network, primarily used for music</tooltip>
 - [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD)
 - [Soggfy](https://github.com/Rafiuth/Soggfy) :win::app::lin:
 - [Votify](https://github.com/glomatico/votify)
@@ -491,7 +491,7 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 - [Explaining Vocaloid in under 3 minutes](https://www.youtube.com/watch?v=GODXMGAMpVc)
 - [My First Miku Concert!](https://www.youtube.com/watch?v=XIgANZCBRKo)
 - [A guide to Vocaloid concerts](https://www.youtube.com/watch?v=2JtLAwllxI8) <Badge type="info" text="Part 2" link="https://www.youtube.com/watch?v=OzPKF-DMuUE" />
-- [So, you wanna get into VOCALOID](https://www.youtube.com/watch?v=y5pPALER7WU) <tooltip>Watch this for the introduction only (till `21:42`), since the software section is outdated. </tooltip>
+- [So, you wanna get into VOCALOID](https://www.youtube.com/watch?v=y5pPALER7WU)<tooltip>Watch this for the introduction only (till `21:42`), since the software section is outdated. </tooltip>
     - [So, you wanna get into VSynth Covers](https://www.youtube.com/watch?v=ySledv37IrQ)
 - [The Foundations of Making Vocaloid - A Beginner's Guide Tutorial](https://www.youtube.com/watch?v=6cisVNaOJXY)
 :::
@@ -567,7 +567,7 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 - [Subsonic Kodi Plugin](https://github.com/warwickh/plugin.audio.subsonic#readme)
 - [Navidrome Kodi Plugin](https://github.com/BobHasNoSoul/plugin.audio.navidrome#readme)
 - [HTTPDirFS](https://github.com/fangfufu/httpdirfs#readme)
-- [upmpdcli](https://www.lesbonscomptes.com/upmpdcli/index.html) <tooltip>Expose Navidrome as a UPnP/DLNA media library. Read the [discussion](https://github.com/navidrome/navidrome/discussions/2324)</tooltip>
+- [upmpdcli](https://www.lesbonscomptes.com/upmpdcli/index.html)<tooltip>Expose Navidrome as a UPnP/DLNA media library. Read the [discussion](https://github.com/navidrome/navidrome/discussions/2324)</tooltip>
 
 :::details Related Resources
 - [Self-hosted Music Overview](https://github.com/basings/selfhosted-music-overview)

@@ -281,7 +281,7 @@ If you have recommendations for good sites in your native language or want to re
   - [Samehadaku](https://samehadaku.email/)
   - [ZANIME](https://anime.uhuyy.dev/) [:gh:](https://github.com/Fauzanmhr/zannime)
 - **DDL**
-  - [Koisuru](https://db.koisuru.web.id/0:/) <tooltip>Subtitle files only, you need to get the episodes from another source.</tooltip>
+  - [Koisuru](https://db.koisuru.web.id/0:/)<tooltip>Subtitle files only, you need to get the episodes from another source.</tooltip>
   - [Kusonime](https://kusonime.com/)
   - [Meownime](https://m.meownime.ai/)
 
@@ -353,7 +353,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
   - [Raw Otaku](https://rawotaku.com/home/) <Badge type="tip" text="2" link="https://jmanga.ac/home/" />
   - [RawUwU](https://rawuwu.com/) <Badge type="tip" text="2" link="https://rawdevart.art/" />
   - [Sen Manga](https://raw.senmanga.com/)
-  - [Spoilerplus](https://spoilerplus.tv/) <tooltip>Image host is geo-restricted, so won't load pages in every region. Tested for the US.</tooltip>
+  - [Spoilerplus](https://spoilerplus.tv/)<tooltip>Image host is geo-restricted, so won't load pages in every region. Tested for the US.</tooltip>
   - [Twicomi](https://twicomi.com/)
   - [We Love Manga](https://welovemanga.one/) <Badge type="tip" text="2" link="https://manga1000.top/" />
 - **Torrent Download**
@@ -385,7 +385,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 ### Anime
 - [aniabout](https://aniabout.com/) <Badge type="info" text="2" link="https://aniweek.com/" /> <Badge type="info" text="3" link="https://c.aniwolf.com/" /> <Badge type="info" text="4" link="https://a06.kotbc2.com/" /> <Badge type="info" text="5" link="https://a24.ohli24.com/" /> <Badge type="info" text="6" link="https://ohlipia.com/" />
 - [Anilife](https://anilife.live/)
-- [Anissia](https://anissia.net/) <tooltip>Subtitle files only, you need to get the episodes from another source.</tooltip>
+- [Anissia](https://anissia.net/)<tooltip>Subtitle files only, you need to get the episodes from another source.</tooltip>
 
 ### Comics
 - [BlackToon](https://blacktoon.live/) <Badge type="danger" text="18+" />
@@ -487,7 +487,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Dream Cast](https://dreamerscast.com/)
 - [Freedub Studio](https://freedubstudio.club/)
 - [Jut.su](https://jut.su/) <Badge type="info" text="Helper" link="https://github.com/Xeltone/Jut.su-Helper" />
-- [Kage Project](http://fansubs.ru/) <tooltip>Subtitle files only, you need to get the episodes from another source.</tooltip>
+- [Kage Project](http://fansubs.ru/)<tooltip>Subtitle files only, you need to get the episodes from another source.</tooltip>
 - [MAL to Kodik](https://mal-to-kodik.github.io/) <Badge type="info" text="Aggregator" />
 - [Shiza Project](https://shiza-project.com/)
 - [SovetRomantica](https://sovetromantica.com/) <Badge type="info" text="Sub" />
@@ -502,7 +502,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [MangaLib](https://mangalib.me/)
 - [MangaPoisk](https://mangapoisk.live/)
 - [ReManga](https://remanga.org/)
-- [Usagi](https://web.usagi.one/) <tooltip>Formerly ReadManga</tooltip>
+- [Usagi](https://web.usagi.one/)<tooltip>Formerly ReadManga</tooltip>
 
 ### More Sites
 - [HentaiLIB](https://hentailib.me/) <Badge type="danger" text="18+" />

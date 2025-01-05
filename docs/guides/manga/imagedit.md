@@ -36,7 +36,7 @@ And last but not least: if you have a reasonably fast AMD GPU, consider using ot
 The following tools will be used for any kind of grayscaling, leveling, and lossless optimizing:
 - [ImageMagick](https://imagemagick.org/index.php)
 - [Pingo](https://css-ig.net/pingo)
-- [imgdanke](https://github.com/DrWhoCares/imgdanke) <tooltip>Optional for GUI but does not support Pingo version 1+ at the moment.</tooltip>
+- [imgdanke](https://github.com/DrWhoCares/imgdanke)<tooltip>Optional for GUI but does not support Pingo version 1+ at the moment.</tooltip>
 :::
 
 ## Grayscaling

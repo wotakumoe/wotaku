@@ -72,7 +72,7 @@ outline: [1,2]
 - [Anime Dubs Release Calendar](https://teamup.com/ksdhpfjcouprnauwda)
 - [AnimeSchedule](https://animeschedule.net/) [:rss:](https://animeschedule.net/rss) [:rss:](https://github.com/RockinChaos/AniSchedule)
 - [Anisaki](https://anisaki.vercel.app/) [:gh:](https://github.com/BayuDC/anisaki)
-- [Bangumi List](https://bgmlist.com/) :fjp::fcn: [:gh:](https://github.com/wxt2005/bangumi-list-v3) <tooltip>Maintained by chinese devs, but lists JP schedule too.</tooltip>
+- [Bangumi List](https://bgmlist.com/) :fjp::fcn: [:gh:](https://github.com/wxt2005/bangumi-list-v3)<tooltip>Maintained by chinese devs, but lists JP schedule too.</tooltip>
 - [Kansou](https://www.kansou.me/) :fjp:
 - [Livechart](https://www.livechart.me/schedule) :s: [:rss:](https://www.livechart.me/pages/rss)
 - [Notify.moe](https://notify.moe/calendar) [:gt:](https://git.akyoto.dev/web/notify.moe)
@@ -318,7 +318,7 @@ Illustrations now has its [own page](/art)!
 
 ## Games
 
-- [holo Indie](https://store.steampowered.com/publisher/holo_Indie) :s: <Badge type="tip" text="Info" link="https://hololive.wiki/wiki/Holo_Indie" /> <tooltip>We won't add the games here that are under holo Indie</tooltip>
+- [holo Indie](https://store.steampowered.com/publisher/holo_Indie) :s: <Badge type="tip" text="Info" link="https://hololive.wiki/wiki/Holo_Indie" /><tooltip>We won't add the games here that are under holo Indie</tooltip>
 - [Days With Ollie](https://store.steampowered.com/app/2776750/Days_With_Ollie/) :paid:
 - [Delivering Hope](https://david-wu-softdev.itch.io/delivering-hope-hololive-fangame)  
 - [Holo on Suika](https://tkgames.jp/holo_watermelon.html)  

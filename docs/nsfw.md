@@ -36,21 +36,21 @@ outline: [1,2]
 ## Manga
 
 ### General
-- [E-Hentai](https://e-hentai.org/) :s: <Badge type="tip" text="Search Guide" link="https://e-hentaitagsearch.blogspot.com/" /> <tooltip>It is the mangadex for doujins. Almost every doujin is first uploaded here before being scraped by other sites. Online viewer compresses the images but has the option to download stuff in original quality.<br>
+- [E-Hentai](https://e-hentai.org/) :s: <Badge type="tip" text="Search Guide" link="https://e-hentaitagsearch.blogspot.com/" /><tooltip>It is the mangadex for doujins. Almost every doujin is first uploaded here before being scraped by other sites. Online viewer compresses the images but has the option to download stuff in original quality.<br>
 <a href="https://exhentai.org/">Exhentai</a> is it's sister site, which also hosts the more extreme and questionable content. You'll need an account on e-hentai to gain access.</tooltip>
-- [nHentai](https://nhentai.net/) <tooltip>Most popular. Decent UI but compresses images.</tooltip>
-- [Akuma](https://akuma.moe/) <tooltip>E-Hentai clone.</tooltip>
+- [nHentai](https://nhentai.net/)<tooltip>Most popular. Decent UI but compresses images.</tooltip>
+- [Akuma](https://akuma.moe/)<tooltip>E-Hentai clone.</tooltip>
 - [AsmHentai](https://asmhentai.com/)
-- [IMHentai](https://imhentai.xxx/) <tooltip>Big library and great search filters.</tooltip>
+- [IMHentai](https://imhentai.xxx/)<tooltip>Big library and great search filters.</tooltip>
 - [HentaiRead](https://hentairead.com/)
-- [Hitomi](https://hitomi.la/) <tooltip>Big library but difficult to navigate.</tooltip>
-- [Panda Backup](https://panda.chaika.moe/) <tooltip>Archive of stuff removed from E-Hentai due to DMCA complaints. Has some obscure stuff deleted on most sites.</tooltip>
-- [SchaleNetwork](https://schale.network/) <Badge text="Mirrors" link="https://rentry.org/schalenet" /> <tooltip>Formerly Koharu, has Fakku/Irodori rips (official TLs).</tooltip>
-- [Yabai](https://yabai.si/) <tooltip>E-Hentai clone.</tooltip>
+- [Hitomi](https://hitomi.la/)<tooltip>Big library but difficult to navigate.</tooltip>
+- [Panda Backup](https://panda.chaika.moe/)<tooltip>Archive of stuff removed from E-Hentai due to DMCA complaints. Has some obscure stuff deleted on most sites.</tooltip>
+- [SchaleNetwork](https://schale.network/) <Badge text="Mirrors" link="https://rentry.org/schalenet" /><tooltip>Formerly Koharu, has Fakku/Irodori rips (official TLs).</tooltip>
+- [Yabai](https://yabai.si/)<tooltip>E-Hentai clone.</tooltip>
 
 ### English-only
-- [Hentai Nexus](https://hentainexus.com/) <tooltip>fakku/irodori rips (official TLs).</tooltip>
-- [HentaiFox](https://hentaifox.com/) <tooltip>Fast Updates and English only library.</tooltip>
+- [Hentai Nexus](https://hentainexus.com/)<tooltip>fakku/irodori rips (official TLs).</tooltip>
+- [HentaiFox](https://hentaifox.com/)<tooltip>Fast Updates and English only library.</tooltip>
 - [HentaiKisu](https://hentaikisu.com/)
 - [Tsumino](https://www.tsumino.com/)
 - [Wholesome Hentai God List](https://wholesomelist.com/)
@@ -67,7 +67,7 @@ outline: [1,2]
 - [Manhwa-raw](https://manhwa-raw.com/) <Badge type="info" text="+Raw" />
 - [Manhwas](https://manhwas.men/) <Badge type="info" text="+Raw" />
 - [Manytoon](https://manytoon.com/) :s:
-- [Oppai](https://read.oppai.stream/) :s: <tooltip>Late releases but less compressed than other aggregators'</tooltip>
+- [Oppai](https://read.oppai.stream/) :s:<tooltip>Late releases but less compressed than other aggregators'</tooltip>
 - [RawDEX](https://rawdex.net/) <Badge type="info" text="Raw" />
 - [Sauce Manhwa](https://saucemanhwa.com/) <Badge type="info" text="+Raw" />
 - [Toonily](https://toonily.com/) :s:
@@ -96,8 +96,8 @@ outline: [1,2]
 - [Nozomi](https://nozomi.la/)
 - [Oreno3D](https://oreno3d.com/)
 - [Pixiv](https://www.pixiv.net)
-- [Rule34.xxx](https://rule34.xxx/) <tooltip><ul><li>Boasts a larger content library compared to Paheal.</li><li>Features an extensive tagging system, allowing searches based on descriptions or depicted acts.</li><li>Permits larger file uploads, up to 100MB.</li><li>Searching is more user-friendly compared to Paheal.</li></ul></tooltip>
-- [Rule 34 Paheal](https://rule34.paheal.net/) <tooltip><ul><li>Categorizes content by characters, franchises, events (such as holidays), animations, and sound.</li><li>Limits uploads to 10MB.</li></ul></tooltip>
+- [Rule34.xxx](https://rule34.xxx/)<tooltip><ul><li>Boasts a larger content library compared to Paheal.</li><li>Features an extensive tagging system, allowing searches based on descriptions or depicted acts.</li><li>Permits larger file uploads, up to 100MB.</li><li>Searching is more user-friendly compared to Paheal.</li></ul></tooltip>
+- [Rule 34 Paheal](https://rule34.paheal.net/)<tooltip><ul><li>Categorizes content by characters, franchises, events (such as holidays), animations, and sound.</li><li>Limits uploads to 10MB.</li></ul></tooltip>
 - [yande.re](https://yande.re/)
 
 ### Frontends
@@ -161,7 +161,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 
 
 ### Downloader
-- [Hakuneko](https://github.com/manga-download/haruneko) :win::app::lin: <Badge type="info" text="Multi" /> <Badge type="tip" text="Old" link="https://github.com/manga-download/hakuneko" /> <tooltip>For Linux, you have to use old one atm.</tooltip>
+- [Hakuneko](https://github.com/manga-download/haruneko) :win::app::lin: <Badge type="info" text="Multi" /> <Badge type="tip" text="Old" link="https://github.com/manga-download/hakuneko" /><tooltip>For Linux, you have to use old one atm.</tooltip>
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) <Badge type="info" text="Multi" /> <Badge type="info" text="Anime" /> [:web:]()
 - [HDoujin Downloader](https://doujindownloader.com/) <Badge type="info" text="Multi" />
 - [Hentai downloader](https://github.com/touno-io/hentai-downloader) <Badge type="info" text="E-Hentai" />

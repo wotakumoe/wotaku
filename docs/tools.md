@@ -139,7 +139,7 @@ outline: [1,2]
 
 - [ImageMagick](https://imagemagick.org/index.php) [:gh:](https://github.com/ImageMagick/ImageMagick) <Badge type="tip" text="Scripts" link="https://www.fmwconcepts.com/imagemagick/index.php" />
   - [FotoKilof](https://github.com/TeaM-TL/FotoKilof)
-  - [imgdanke](https://github.com/DrWhoCares/imgdanke) <tooltip>Optional for GUI but does not support Pingo v1+ at the moment.</tooltip>
+  - [imgdanke](https://github.com/DrWhoCares/imgdanke)<tooltip>Optional for GUI but does not support Pingo v1+ at the moment.</tooltip>
 - [pingo](https://css-ig.net/pingo) :cs:
   - [pinga](https://css-ig.net/pinga) :cs:
 - [FFmpeg](https://ffmpeg.org/) :cmd: [:gh:](https://github.com/FFmpeg/FFmpeg)

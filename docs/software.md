@@ -118,7 +118,7 @@ Check out [**CFW's iOS guide**](https://ios.cfw.guide/) & [**The Apple Wiki**](h
 
 ## Anime Streaming
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
-- [Sora](https://github.com/cranci1/Sora) [:e:](/guides/tech/repo#ios) [:d:](https://discord.gg/XR3SrmUbpd) <Badge type="info" text="Altstore" link="https://www.cranci.tech/repo.json" /> <tooltip>To get the sources, join the Discord server.</tooltip>
+- [Sora](https://github.com/cranci1/Sora) [:e:](/guides/tech/repo#ios) [:d:](https://discord.gg/XR3SrmUbpd) <Badge type="info" text="Altstore" link="https://www.cranci.tech/repo.json" /><tooltip>To get the sources, join the Discord server.</tooltip>
 
 ## Manga Readers
 
@@ -211,13 +211,13 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 ### Local
 
-- [YACReader](https://www.yacreader.com/) :win::app::lin: [:gh:](https://github.com/YACReader/yacreader) <tooltip><ul><li>Has all the standard features, keeps last read history</li><li>Doesn't have built-in library like MComix, only the history</li><li>The bundled YACLibrary is excellent</li><li>Lots of customization</li><li>Can act like a local manga server like calibre</li><li>But the server client for <a href="https://play.google.com/store/apps/details?id=com.yacreader.yacreader&hl=en&gl=US">Android</a> and <a href="https://apps.apple.com/ca/app/yacreader-comic-reader/id635717885">iOS</a> is paid</li></ul></tooltip>
-- [CDisplayEx](https://www.cdisplayex.com/) :win::cs: <tooltip><ul><li>Minimalist UI</li><li>Fast and simple reader with good amount of configuration</li><li>Has Nearest, Draft, linear and Lanczos (with various level) as scaling options</li><li>Not FOSS and not maintained since the development team has marked it as complete</li><li>No library view, only recent reads</li></ul></tooltip>
-- [Yomikiru](https://github.com/mienaiyami/yomikiru) :win::lin: <tooltip>Simple UI with all the basic settings. Has longstrip mode and anilist tracking.</tooltip>
+- [YACReader](https://www.yacreader.com/) :win::app::lin: [:gh:](https://github.com/YACReader/yacreader)<tooltip><ul><li>Has all the standard features, keeps last read history</li><li>Doesn't have built-in library like MComix, only the history</li><li>The bundled YACLibrary is excellent</li><li>Lots of customization</li><li>Can act like a local manga server like calibre</li><li>But the server client for <a href="https://play.google.com/store/apps/details?id=com.yacreader.yacreader&hl=en&gl=US">Android</a> and <a href="https://apps.apple.com/ca/app/yacreader-comic-reader/id635717885">iOS</a> is paid</li></ul></tooltip>
+- [CDisplayEx](https://www.cdisplayex.com/) :win::cs:<tooltip><ul><li>Minimalist UI</li><li>Fast and simple reader with good amount of configuration</li><li>Has Nearest, Draft, linear and Lanczos (with various level) as scaling options</li><li>Not FOSS and not maintained since the development team has marked it as complete</li><li>No library view, only recent reads</li></ul></tooltip>
+- [Yomikiru](https://github.com/mienaiyami/yomikiru) :win::lin:<tooltip>Simple UI with all the basic settings. Has longstrip mode and anilist tracking.</tooltip>
 - [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) :win:
-- [OpenComic](https://github.com/ollm/OpenComic) :win::app::lin: <tooltip><ul><li>Nice clean UI, has dark mode</li><li>Has all the standard functions, including recent history</li><li>Has long strip mode which is pretty smooth</li><li>Has Anilist tracking built in as well as controller support</li><li>Supports Lanczos and other scaling methods.</li></ul></tooltip>
-- [MComix](https://sourceforge.net/projects/mcomix/files/) :win::lin: <tooltip><ul><li>Minimal & responsive UI with good amount of customization</li><li>Has nice library option, also remembers last reading options</li><li>Has 3 scaling options. Normal, Bilinear (default) and hyperbolic</li></ul></tooltip>
-- [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) :win: [:gh:](https://github.com/sumatrapdfreader/sumatrapdf) <tooltip><ul><li>Very simple program with all the standard features</li><li>Doesn't have a library, but keeps track of recently opened files</li><li>Includes vertical mode</li><li>Can open a variety of ebook formats (PDF, epub, mobi, cbz/cbr, DjVu, XPS, CHM)</li></ul></tooltip>
+- [OpenComic](https://github.com/ollm/OpenComic) :win::app::lin:<tooltip><ul><li>Nice clean UI, has dark mode</li><li>Has all the standard functions, including recent history</li><li>Has long strip mode which is pretty smooth</li><li>Has Anilist tracking built in as well as controller support</li><li>Supports Lanczos and other scaling methods.</li></ul></tooltip>
+- [MComix](https://sourceforge.net/projects/mcomix/files/) :win::lin:<tooltip><ul><li>Minimal & responsive UI with good amount of customization</li><li>Has nice library option, also remembers last reading options</li><li>Has 3 scaling options. Normal, Bilinear (default) and hyperbolic</li></ul></tooltip>
+- [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) :win: [:gh:](https://github.com/sumatrapdfreader/sumatrapdf)<tooltip><ul><li>Very simple program with all the standard features</li><li>Doesn't have a library, but keeps track of recently opened files</li><li>Includes vertical mode</li><li>Can open a variety of ebook formats (PDF, epub, mobi, cbz/cbr, DjVu, XPS, CHM)</li></ul></tooltip>
 - [ComicRack CE](https://github.com/maforget/ComicRackCE) :win:
 
 
@@ -236,7 +236,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 ### Anime
 
-- [Hakuneko](https://github.com/manga-download/haruneko) :win::app::lin: <Badge type="tip" text="Old" link="https://github.com/manga-download/hakuneko" /> <tooltip>For Linux, you have to use old one atm.</tooltip>
+- [Hakuneko](https://github.com/manga-download/haruneko) :win::app::lin: <Badge type="tip" text="Old" link="https://github.com/manga-download/hakuneko" /><tooltip>For Linux, you have to use old one atm.</tooltip>
 - [ADL](https://github.com/RaitaroH/adl) :win::lin::cmd:
 - [Crunchyroll-Downloader](https://github.com/Crunchy-DL/Crunchy-Downloader) :win:
   - [Keydive](https://github.com/hyugogirubato/KeyDive)
@@ -246,9 +246,9 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 - [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) :win:
 - [Red Squirrel's Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader) :win::lin::cs:
-- [Hakuneko](https://github.com/manga-download/haruneko) :win::app::lin: <Badge type="tip" text="Old" link="https://github.com/manga-download/hakuneko" /> <tooltip>For Linux, you have to use old one atm.</tooltip>
+- [Hakuneko](https://github.com/manga-download/haruneko) :win::app::lin: <Badge type="tip" text="Old" link="https://github.com/manga-download/hakuneko" /><tooltip>For Linux, you have to use old one atm.</tooltip>
 - [MangaL](https://github.com/metafates/mangal) :win::app::lin::cmd:
-- [HDoujin Downloader](https://doujindownloader.com/) :win::cs: <tooltip>Has a 25 chapter daily limit</tooltip>
+- [HDoujin Downloader](https://doujindownloader.com/) :win::cs:<tooltip>Has a 25 chapter daily limit</tooltip>
 
 ::: details More
 - [Clip Studio Reader](https://greasyfork.org/en/scripts/481576-clip-studio-reader-downloader) :js: [:gh:](https://github.com/MrCocoNuat/clip-studio-reader-downloader)
@@ -288,7 +288,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 ## Manga Tools
 - [ACBR](https://github.com/binarynonsense/comic-book-reader) :win::lin:
 - [CBconvert](https://github.com/gen2brain/cbconvert) :win::app::lin:
-- [CbxConverter](https://tomeko.net/software/CbxConverter/) :win: <tooltip>The version of Magick inside is really outdated. If you use it, download "ImageMagick-[Latest_Version]-portable-Q8-x64.zip" from the Imagemagick site, take the magick.exe from there and replace it in CbxConverter folder.</tooltip>
+- [CbxConverter](https://tomeko.net/software/CbxConverter/) :win:<tooltip>The version of Magick inside is really outdated. If you use it, download "ImageMagick-[Latest_Version]-portable-Q8-x64.zip" from the Imagemagick site, take the magick.exe from there and replace it in CbxConverter folder.</tooltip>
 - [ComicbookArchiveToolbox](https://degoedel.github.io/ComicbookArchiveToolbox/) :win: [:gh:](https://degoedel.github.io/ComicbookArchiveToolbox/)
 - [ComicTagger](https://github.com/comictagger/comictagger) :win::app::lin:
 - [DarkThumbs](https://github.com/fire-eggs/DarkThumbs) :win:

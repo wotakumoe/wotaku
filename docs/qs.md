@@ -34,7 +34,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
   - [AnimeTV](https://amarullz.com/) [:gh:](https://github.com/amarullz/AnimeTV)
 - **iOS**
   - [Mangayomi](https://github.com/kodjodevf/mangayomi)
-  - [Sora](https://github.com/cranci1/Sora) [:e:](/guides/tech/repo#ios) [:d:](https://discord.gg/XR3SrmUbpd) <Badge type="info" text="Altstore" link="https://www.cranci.tech/repo.json" /> <tooltip>To get the sources, join the Discord server.</tooltip>
+  - [Sora](https://github.com/cranci1/Sora) [:e:](/guides/tech/repo#ios) [:d:](https://discord.gg/XR3SrmUbpd) <Badge type="info" text="Altstore" link="https://www.cranci.tech/repo.json" /><tooltip>To get the sources, join the Discord server.</tooltip>
 - **PC**
   - [Miru](https://miru.watch/) :s::win::app::lin::mag: [:gh:](https://github.com/ThaUnknown/miru/)
   - [Mangayomi](https://github.com/kodjodevf/mangayomi) :win::app::lin::mag::ddl:
@@ -151,7 +151,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 
 - **Anime & Manga**
   - [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) :win: <Badge type="info" text="Manga" />
-  - [Hakuneko](https://github.com/manga-download/haruneko) :win::app::lin: <Badge type="info" text="General" /> <Badge type="tip" text="Old" link="https://github.com/manga-download/hakuneko" /> <tooltip>For Linux, you have to use old one atm.</tooltip>
+  - [Hakuneko](https://github.com/manga-download/haruneko) :win::app::lin: <Badge type="info" text="General" /> <Badge type="tip" text="Old" link="https://github.com/manga-download/hakuneko" /><tooltip>For Linux, you have to use old one atm.</tooltip>
   - [Red Squirrel's Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader) :win::lin::cs: <Badge type="info" text="Manga" />
 - **Direct**
   - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) :and::cs:
@@ -172,7 +172,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 - [Mullvad](https://mullvad.net/) <Badge type="tip" text="No port forwarding" />
 - [nVPN](https://nvpn.net/)
 - [OVPN](https://www.ovpn.com/)
-- [Proton](https://protonvpn.com/) :fm: <tooltip>The free tier doesn't support torrenting.</tooltip>
+- [Proton](https://protonvpn.com/) :fm:<tooltip>The free tier doesn't support torrenting.</tooltip>
 - [Windscribe](https://windscribe.com/) :fm:
 - [Xeovo](https://xeovo.com/)
 
