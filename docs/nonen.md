@@ -102,6 +102,8 @@ If you have recommendations for good sites in your native language or want to re
   - [Mikan Project](https://mikanani.me/) [:gh:](https://github.com/iota9star/mikan_flutter)
   - [MioBT](http://www.miobt.com/)
   - [Nyaa Pantsu](https://ouo.si/)
+- **Others**
+  - [Bangumi Staff Statistics](https://search.bgmss.fun/) [:gh:](https://github.com/AcuLY/BangumiStaffStats)
 
 ### Comics
 - [69xinshu](https://www.69xinshu.com/)
