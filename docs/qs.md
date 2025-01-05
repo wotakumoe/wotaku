@@ -22,7 +22,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
   - [Miruro](https://www.miruro.tv/) <Badge type="info" text="Proxies" link="https://www.miruro.com" />
   - [Anime Nexus](https://anime.nexus/)
 - **Download**
-  - [Nyaa](https://nyaa.si/) :s::mag:
+  - [Nyaa](https://nyaa.si/) :s::mag: <Badge type="info" text="Proxies" link="https://rentry.org/nyaap" />
   - [Tokyo Insider](https://www.tokyoinsider.com/) :ddl:
   - [Kayo anime](https://kayoanime.com/) :ddl::batch:
 
@@ -50,7 +50,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
   - [Mangadex](https://mangadex.org/)
   - [Weeb Central](https://weebcentral.com/) <Badge type="tip" text="Alt" link="https://atsu.moe/" />
 - **Download**
-  - [Nyaa](https://nyaa.si/) :s::mag:
+  - [Nyaa](https://nyaa.si/) :s::mag: <Badge type="info" text="Proxies" link="https://rentry.org/nyaap" />
   - [Madokami](https://manga.madokami.al) :s: <Badge type="info" text="Guide" link="/guides/manga/madokami" />
   - [Library Genesis](https://libgen.gs/)
 
@@ -88,7 +88,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 ### Download
 
 - **Dedicated**
-  - [Nyaa](https://nyaa.si/) :s::mag:
+  - [Nyaa](https://nyaa.si/) :s::mag: <Badge type="info" text="Proxies" link="https://rentry.org/nyaap" />
   - [Sitting on Clouds](https://www.sittingonclouds.net/) :s: <Badge type="info" text="2" link="https://www.sittingonclouds.com/" /> <Badge type="info" text="3" link="https://www.sittingonclouds.org/" /> <Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" />
   - [SquidBoard](https://www.squid-board.org/)
 - **General**
