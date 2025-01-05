@@ -440,6 +440,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Geekdot](https://geekdot.live/)
 - [Hinata Soul](https://www.hinatasoul.com/)
 - [HentaisTube](https://www.hentaistube.com/) <Badge type="danger" text="18+" />
+- [:tg: Toonami na Era do Telegram](https://t.me/toonamibr)
 
 ### Manga
 - [Ler Mangas](https://lermangas.me/)
