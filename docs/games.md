@@ -193,6 +193,7 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 - [Card Database](https://www.db.yugioh-card.com/yugiohdb/) <Badge type="info" text="Official" />
 - [YGOrganization](https://ygorganization.com/)
 - [YGOPRODeck](https://ygoprodeck.com/)
+- [Yugipedia](https://yugipedia.com/wiki/Yugipedia)
 - [Yu-Gi-Oh! Meta](https://www.yugiohmeta.com/)
 - [Master Duel Meta](https://www.masterduelmeta.com/)
 - [Duel Links Meta](https://www.duellinksmeta.com/)
