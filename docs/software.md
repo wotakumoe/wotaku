@@ -347,7 +347,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 | **Solution**  | **Client/Tools**  |
 |-|-|
-| [Jellyfin](https://jellyfin.org/) | [Jellyfin MPV Shim](https://github.com/jellyfin/jellyfin-mpv-shim) <br> [Jellyfin-RPC](https://github.com/Radiicall/jellyfin-rpc) |
+| [Jellyfin](https://jellyfin.org/) | [Jellyfin MPV Shim](https://github.com/jellyfin/jellyfin-mpv-shim) <br> [Jellyfin-RPC](https://github.com/Radiicall/jellyfin-rpc) <br> [Streamyfin](https://github.com/streamyfin/streamyfin) :and::app: |
 | [Kavita](https://www.kavitareader.com/) | [komf](https://github.com/Snd-R/komf) <Badge type="tip" text="Script" link="https://github.com/Snd-R/komf-userscript" /> |
 | [Komga](https://komga.org/) | [Komelia](https://github.com/Snd-R/Komelia) :and::win::lin: <br> [komf](https://github.com/Snd-R/komf) <Badge type="tip" text="Script" link="https://github.com/Snd-R/komf-userscript" /> <br> [Komga Bulk Download Helper](https://github.com/darthmooguy/komga-bulk-download-helper) :js: |
 | [LANraragi](https://sugoi.gitbook.io/lanraragi/v/dev) | [Ichaival](https://github.com/Utazukin/Ichaival) :and: <br> [LANreader](https://github.com/Doraemoe/LANreader) :app: <br> [LRReader](https://github.com/Guerra24/LRReader) :win: |
