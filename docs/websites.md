@@ -80,16 +80,6 @@ outline: 1
       <li>Also smaller library size.</li>
     </ul>
   </tooltip>
-- [Enimoe](https://enimoe.live/) :mingcute-shovel-fill:
-  <tooltip>
-    <ul>
-      <li>Scrapes from multiple sources.</li>
-      <li>Really minimal UI.</li>
-      <li>Links DDL source from Kayoanime.</li>
-      <li>No dub selector.</li>
-      <li>Mapping might give issues.</li>
-    </ul>
-  </tooltip>
 - [AniZone](https://anizone.to/) :mingcute-server-fill:
   <tooltip>
     <ul>
@@ -145,8 +135,6 @@ outline: 1
 - [Anime Realms](https://www.animerealms.org/) :mingcute-refresh-2-fill:
 - [AniPlay](https://aniplaynow.live/) :mingcute-refresh-2-fill::mingcute-user-2-fill:
 - [Gojo](https://gojo.live/) :mingcute-user-2-fill: <Badge type="info" text="2" link="https://gojo.wtf" />
-- [Kaido](https://kaido.to/) :mingcute-user-2-fill:
-- [Makima](https://makima.xyz/) :mingcute-refresh-2-fill:
 - [Shiroko](https://shiroko.co/en) :mingcute-refresh-2-fill:
 :::
 
