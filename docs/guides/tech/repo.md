@@ -82,6 +82,7 @@ These apps aren't part of the Tachiyomi/Mihon ecosystem, but instead use their o
 
 | Apps | Repo URL |
 |-|-|
+| [Dantotsu](https://github.com/rebelonion/Dantotsu) | [Novel extensions](https://github.com/dannovels/novel-extensions) |
 | [LNReader](https://lnreader.github.io/) | [Official](https://lnreader.github.io/plugins) [:gh:](https://github.com/LNReader/lnreader-plugins) |
 
 
