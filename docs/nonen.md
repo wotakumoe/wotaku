@@ -148,7 +148,7 @@ If you have recommendations for good sites in your native language or want to re
 |-|-|
 | Anime | [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) <Badge text="Downloader" /> <br> [Miru App](https://miru.js.org/) [:gh:](https://github.com/miru-project/miru-app) <br> [Bangumi Renamer](https://github.com/nuthx/bangumi-renamer) |
 | Manga | [Miru App](https://miru.js.org/) [:gh:](https://github.com/miru-project/miru-app) <br> [Venra](https://github.com/venera-app/venera) <br> [Bilibili manga downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) <Badge text="Downloader" /><br> [Bilibili manga watermark remover](https://github.com/lanyeeee/bilibili-manga-watermark-remover) |
-| Others | [JProxy](https://github.com/LuckyPuppy514/jproxy) <Badge text=" Downloader" /><br> [Novel downloader](https://github.com/404-novel-project/novel-downloader) |
+| Others | [JProxy](https://github.com/LuckyPuppy514/jproxy) <Badge text=" Downloader" /><br> [Novel downloader](https://github.com/404-novel-project/novel-downloader) <br> [PicACG Qt](https://github.com/tonquer/picacg-qt) :win::app::lin: |
 
 ### Others
 
