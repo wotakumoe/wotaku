@@ -43,6 +43,7 @@ If you have recommendations for good sites in your native language or want to re
 - [Animeblkom](https://blkom.com/)
 - [Animelek](https://animelek.me/)
 - [Animerco](https://animerco.com/)
+- [Arabic Toons](https://www.arabic-toons.com/)
 - [Okanime](https://okanime.tv/)
 - [Wit anime](https://witanime.com/)
 - [XSAnime](https://v.xsanime.com/)
