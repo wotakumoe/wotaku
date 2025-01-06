@@ -18,12 +18,13 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 # Stream
 
 ## Anime
-- [AnimeThemes](https://animethemes.moe/) :s: [:gh:](https://github.com/AnimeThemes)
-- [Animusic](https://animusic.moe/) <Badge type="info" text="Alt" link="https://themes.moe/" />
-- [Anisong Database](https://anisongdb.com/) [:gh:](https://github.com/xSardine/AMQ-Artists-DB) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" />
+- [AnimeThemes](https://animethemes.moe/) :s: [:gh:](https://github.com/AnimeThemes) <Badge type="info" text="Alt" link="https://themes.moe/" />
+- [Animusic](https://animusic.moe/)
 - [Karaoke Mugen](https://kara.moe)
-- [One Piece Tracklist](http://onepiecetracklist.com/)
+- [Lyrical Nonsense](https://www.lyrical-nonsense.com/global/)
+- [Anisong Database](https://anisongdb.com/) [:gh:](https://github.com/xSardine/AMQ-Artists-DB) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" />
 - [Squidify](https://www.squidify.org/) <Badge type="tip" text="Guide" link="/guides/music/squidify" />
+- [One Piece Tracklist](http://onepiecetracklist.com/)
 
 ## AMVs
 - [AKROSS](https://www.akross.ru/index.cgi?l=e)
