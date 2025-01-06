@@ -589,6 +589,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Turk Anime](https://www.turkanime.co/)
 
 ### Manga
+- [Sadscans](https://sadscans.com/)
 - [Seri Manga](https://serimanga.com/)
 
 
@@ -623,21 +624,28 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [WebLinhTinh](https://weblinhtinh.net/)
 
 ### Comics
-- [Bao Tang Truyen](https://baotangtruyen20.com/)
+- [Bao Tang Truyen](https://baotangtruyen23.com/)
 - [BlogTruyenMoi](https://blogtruyenmoi.com/)
-- [COMI](https://comi.mobi/)
 - [Cuu Truyen](https://cuutruyen.net/)
-- [Doc Truyen Online](https://dtruyen.com/)
-- [Fecomic](https://fecomicc.xyz/)
-- [Goc Truyen Tranh](https://goctruyentranhvui3.com/trang-chu)
+- [Fecomic](https://fftruyen.net/)
+- [Goc Truyen Tranh](https://goctruyentranhvui6.com/trang-chu)
 - [HanulTruyen](https://hanultruyen.net/) <Badge type="danger" text="18+" />
+- [Manhuarockz](https://manhuarockz.com/)
+- [Manhuavn](https://manhuavn.top/)
+- [NetTruyenFull](https://nettruyenqqviet.com/)
+- [POPS](https://pops.vn/)
+- [Than Vuong](https://thanvuc.com/)
 - [Truyen Sieuhay](https://truyensieuhay.com/)
 
-### Light Novels
+### Novels
+- [Dtruyen](https://dtruyen.com/)
 - [Hako](https://docln.net/)
+- [Metruyenhot](https://metruyenhot.vn/)
 - [Sonako Light Novel Wiki](https://sonako.fandom.com/vi/wiki/Sonako_Light_Novel)
-- [SSTruyen](https://sstruyen.vn/)
-- [Truyen Full](https://truyenfull.io/)
+- [SSTruyen](https://sstruyen.vn/) <Badge type="danger" text="18+" />
+- [TruyenFull.io](https://truyenfull.io/) <Badge type="danger" text="18+" />
+- [TruyenFull.tv](https://truyenfull.tv/) <Badge type="danger" text="18+" />
+- [Xalosach](https://xalosach.com/)
 
 ### Others
 - [Tana.moe](https://tana.moe/)

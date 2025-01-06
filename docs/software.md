@@ -132,9 +132,9 @@ Check out [**CFW's iOS guide**](https://ios.cfw.guide/) & [**The Apple Wiki**](h
 
 ### Local
 - [YACReader](https://apps.apple.com/app/id635717885) :s::paid::cs: [:tf:](https://testflight.apple.com/join/5zhB7sRP)
+- [Panels](https://apps.apple.com/us/app/panels-comic-reader/id1236567663) :fm::cs:
 - [iComics](https://apps.apple.com/us/app/icomics/id493845493) :paid::cs:
 - [SideBooks](https://apps.apple.com/us/app/sidebooks/id409777225) :cs:
-- [Panels](https://apps.apple.com/us/app/panels-comic-reader/id1236567663) :cs:
 - [Manga Viewer](https://apps.apple.com/us/app/manga-viewer-cbz-cbr-reader/id1309007086) :cs:
 
 ::: details "iOS app not working. What should i do?"
