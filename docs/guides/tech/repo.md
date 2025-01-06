@@ -37,19 +37,25 @@ Some apps might not support **Auto Install method**. That doesn't mean the guide
 
 ## Sideloading Methods
 
+### Mihon & Forks
+
 #### Adding Repo
 - **Auto:** Click on **Install** and the repo will be sideloaded automatically.
 - **Manual:** Copy the **URL** (from the manual column) and put it in **:mdi-dots-horizontal:More -> :mdi-cog-outline:Settings -> :mdi-compass-outline:Browse -> Extension repos**.
 
-### Adding Extension
+#### Adding Extension
 1. After [**adding the repo**](#adding-repo), go to **Home -> :mdi-compass:Browse -> Anime/Manga Extension**.
 2. Download & install your desired extension by clicking :mdi-download-outline:.
 3. Find it in the "**Installed**" section (at the top of the list) with :mdi-close-octagon: beside it.
 4. The extension is disabled by default, so click on the :mdi-shield-check-outline: icon to enable it.
 
-::: tip For Dantotsu & its forks
-Copy the **URL** (from the manual column) and put it in: **Profile avatar (top right) -> :mdi-cog:Settings -> :e:Extensions -> Add Anime/Manga Repo**.
+### Dantotsu & forks
 
+#### Adding Repo
+- **Auto:** Click on **Install** and the repo will be sideloaded automatically.
+- **Manual:** Copy the **URL** (from the manual column) and put it in: **Profile avatar (top right) -> :mdi-cog:Settings -> :e:Extensions -> Add Anime/Manga Repo**.
+
+::: tip for torrent extensions
 To activate torrent features, navigate to **Profile avatar (top right) -> :mdi-cog:Settings -> :mdi-silverware-fork-knife:Add-ons**. Then download and install the **:mag:Torrent Add-on**. Afterwards, switch on **:mdi-server:Enable Torrent**.
 :::
 
@@ -74,6 +80,10 @@ ___
 
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/dubXV-R9lUM" frameborder="0" allowfullscreen></iframe></div>
 
+::: info Auto install
+Dantotsu [**now supports**](https://github.com/rebelonion/Dantotsu/pull/558/commits/38d68a79761b59f6a5a6cbb7380cfdb99a82b21b) auto install method like mihon & forks.
+
+:::
 
 ## Other Apps
 These apps aren't part of the Tachiyomi/Mihon ecosystem, but instead use their own extensions. This section indexes these repos.
