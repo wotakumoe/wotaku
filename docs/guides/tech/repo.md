@@ -37,7 +37,7 @@ Some apps might not support **Auto Install method**. That doesn't mean the guide
 
 ## Sideloading Methods
 
-### Mihon & Forks
+### Mihon & forks
 
 #### Adding Repo
 - **Auto:** Click on **Install** and the repo will be sideloaded automatically.
