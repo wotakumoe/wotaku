@@ -70,6 +70,7 @@ outline: [2,3]
 - [Search TV](https://searchtv.net/)
 - [takelab](https://github.com/take2560/takelab)
 - [TVer](https://tver.jp/) <Badge type="info" text="Needs VPN" />
+- [TV Garden](https://tv.garden/jp)
 
 ## Subtitles
 - [Kitsunekko](https://kitsunekko.net/)
