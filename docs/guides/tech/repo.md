@@ -94,12 +94,12 @@ These apps aren't part of the Tachiyomi/Mihon ecosystem, but instead use their o
 
 | Name | Region | Auto |
 | - | - | - |
-| [Dannovels](https://github.com/dannovels/novel-extensions) | :globe-showing-asia-australia: | [Auto](novelyomi://https://raw.githubusercontent.com/dannovels/novel-extensions/repo/index.min.json) |
+| [Dannovels](https://github.com/dannovels/novel-extensions) | :globe-showing-asia-australia: | [Install](novelyomi://https://raw.githubusercontent.com/dannovels/novel-extensions/repo/index.min.json) |
 
 #### LNReader
-| Name | Region | Auto |
+| Name | Region | Install |
 | - | - | - |
-| [Official](https://lnreader.github.io/plugins) [:gh:](https://github.com/LNReader/lnreader-plugins) | :globe-showing-asia-australia: | [Auto](lnreader://repo/add?url=https%3A%2F%2Fraw.githubusercontent.com%2FLNReader%2Flnreader-plugins%2Fplugins%2Fv3.0.0%2F.dist%2Fplugins.min.json) |
+| [Official](https://lnreader.github.io/plugins) [:gh:](https://github.com/LNReader/lnreader-plugins) | :globe-showing-asia-australia: | [Install](lnreader://repo/add?url=https%3A%2F%2Fraw.githubusercontent.com%2FLNReader%2Flnreader-plugins%2Fplugins%2Fv3.0.0%2F.dist%2Fplugins.min.json) |
 
 ### iOS
 
@@ -107,19 +107,19 @@ These apps aren't part of the Tachiyomi/Mihon ecosystem, but instead use their o
 
 | Name | Region | Auto |
 | - | - | - |
-| [Skittyblock](https://github.com/Skittyblock/aidoku-community-sources) | :globe-showing-asia-australia: | [Auto](https://aidoku.app/add-source-list/?url=https://raw.githubusercontent.com/Skittyblock/aidoku-community-sources/gh-pages/) |
-| [Suiyuran](https://github.com/suiyuran/aidoku-zh-sources) | :fcn: | [Auto](https://aidoku.app/add-source-list/?url=https://raw.githubusercontent.com/suiyuran/aidoku-zh-sources/main/public/) |
-| [Moomooo95](https://github.com/Moomooo95/aidoku-french-sources) | :flag-france: | [Auto](https://aidoku.app/add-source-list/?url=https://raw.githubusercontent.com/Moomooo95/aidoku-french-sources/gh-pages/) |
+| [Skittyblock](https://github.com/Skittyblock/aidoku-community-sources) | :globe-showing-asia-australia: | [Install](https://aidoku.app/add-source-list/?url=https://raw.githubusercontent.com/Skittyblock/aidoku-community-sources/gh-pages/) |
+| [Suiyuran](https://github.com/suiyuran/aidoku-zh-sources) | :fcn: | [Install](https://aidoku.app/add-source-list/?url=https://raw.githubusercontent.com/suiyuran/aidoku-zh-sources/main/public/) |
+| [Moomooo95](https://github.com/Moomooo95/aidoku-french-sources) | :flag-france: | [Install](https://aidoku.app/add-source-list/?url=https://raw.githubusercontent.com/Moomooo95/aidoku-french-sources/gh-pages/) |
 
 
 #### Paperback
 
 | Name | Region | Auto |
 | - | - | - |
-| [Thenetsky 0.8](https://thenetsky.github.io/community-extensions/0.8/) [:gh:](https://github.com/TheNetsky/community-extensions) | :globe-showing-asia-australia: | [Auto](paperback://addRepo?displayName=Paperback%20Community%20Extensions%20(0.8)&url=https%3A%2F%2Fthenetsky.github.io%2Fcommunity-extensions%2F0.8) |
-| [Seyden](https://seyden.github.io/extensions-generic-0.8/mangastream/) [:gh:](https://github.com/Seyden/extensions-generic-0.8) | :globe-showing-asia-australia: | [Auto](paperback://addRepo?displayName=MangaStream%20Generic%20(0.8)&url=https%3A%2F%2Fseyden.github.io%2Fextensions-generic-0.8%2Fmangastream) |
-| [Huynlx](https://huynlx.github.io/Extensions-Viet/) [:gh:](https://github.com/huynlx/Extensions-Viet) | :flag-vietnam: | [Auto](https://paperback.moe/addRepo/?name=Vietnamese+Extensions+created+by+L%C3%8A+T%C3%94N+GI%E1%BA%A2&url=https%3A%2F%2Fhuynlx.github.io%2FExtensions-Viet%2F) |
-| [ACK72](https://ack72.github.io/kavya-paperback/) [:gh:](https://github.com/ACK72/kavya-paperback) | :globe-showing-asia-australia: | [Auto](paperback://addRepo?displayName=ACK72%27s%20Extensions&url=https%3A%2F%2Fack72.github.io%2Fkavya-paperback) |
+| [Thenetsky 0.8](https://thenetsky.github.io/community-extensions/0.8/) [:gh:](https://github.com/TheNetsky/community-extensions) | :globe-showing-asia-australia: | [Install](paperback://addRepo?displayName=Paperback%20Community%20Extensions%20(0.8)&url=https%3A%2F%2Fthenetsky.github.io%2Fcommunity-extensions%2F0.8) |
+| [Seyden](https://seyden.github.io/extensions-generic-0.8/mangastream/) [:gh:](https://github.com/Seyden/extensions-generic-0.8) | :globe-showing-asia-australia: | [Install](paperback://addRepo?displayName=MangaStream%20Generic%20(0.8)&url=https%3A%2F%2Fseyden.github.io%2Fextensions-generic-0.8%2Fmangastream) |
+| [Huynlx](https://huynlx.github.io/Extensions-Viet/) [:gh:](https://github.com/huynlx/Extensions-Viet) | :flag-vietnam: | [Install](https://paperback.moe/addRepo/?name=Vietnamese+Extensions+created+by+L%C3%8A+T%C3%94N+GI%E1%BA%A2&url=https%3A%2F%2Fhuynlx.github.io%2FExtensions-Viet%2F) |
+| [ACK72](https://ack72.github.io/kavya-paperback/) [:gh:](https://github.com/ACK72/kavya-paperback) | :globe-showing-asia-australia: | [Install](paperback://addRepo?displayName=ACK72%27s%20Extensions&url=https%3A%2F%2Fack72.github.io%2Fkavya-paperback) |
 
 #### Sora
 
@@ -132,8 +132,8 @@ These apps aren't part of the Tachiyomi/Mihon ecosystem, but instead use their o
 
 | Name | Region | Auto |
 | - | - | - |
-| [Mantton](https://aegir.mantton.com/) | :flag-united-kingdom: | [Auto](suwatte://list?url=https://aegir.mantton.com) |
-| [Jishnu](https://jishnusen.github.io/SuwatteSources/) [:gh:](https://github.com/jishnusen/SuwatteSources) | :globe-showing-asia-australia: | [Auto](suwatte://list?url=https://jishnusen.github.io/SuwatteSources) |
-| [Seyden](https://seyden.github.io/extensions-suwatte-generic-6.0/generic/) [:gh:](https://github.com/Seyden/extensions-suwatte-generic-6.0/tree/generic) | :globe-showing-asia-australia: | [Auto](suwatte://list?url=https://seyden.github.io/extensions-suwatte-generic-6.0/generic) |
-| [Kusahime](https://sources.kusahi.me/) | :globe-showing-asia-australia: | [Auto](suwatte://list?url=https://sources.kusahi.me) |
-| [Community](https://community.suwatte.app/) | :globe-showing-asia-australia: | [Auto](suwatte://list?url=https://community.suwatte.app) |
+| [Mantton](https://aegir.mantton.com/) | :flag-united-kingdom: | [Install](suwatte://list?url=https://aegir.mantton.com) |
+| [Jishnu](https://jishnusen.github.io/SuwatteSources/) [:gh:](https://github.com/jishnusen/SuwatteSources) | :globe-showing-asia-australia: | [Install](suwatte://list?url=https://jishnusen.github.io/SuwatteSources) |
+| [Seyden](https://seyden.github.io/extensions-suwatte-generic-6.0/generic/) [:gh:](https://github.com/Seyden/extensions-suwatte-generic-6.0/tree/generic) | :globe-showing-asia-australia: | [Install](suwatte://list?url=https://seyden.github.io/extensions-suwatte-generic-6.0/generic) |
+| [Kusahime](https://sources.kusahi.me/) | :globe-showing-asia-australia: | [Install](suwatte://list?url=https://sources.kusahi.me) |
+| [Community](https://community.suwatte.app/) | :globe-showing-asia-australia: | [Install](suwatte://list?url=https://community.suwatte.app) |
