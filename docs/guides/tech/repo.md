@@ -94,7 +94,7 @@ These apps aren't part of the Tachiyomi/Mihon ecosystem, but instead use their o
 
 | Name | Region | Auto |
 | - | - | - |
-| [Dannovels](https://github.com/dannovels/novel-extensions) | :globe-showing-asia-australia: | [Install](novelyomi://https://raw.githubusercontent.com/dannovels/novel-extensions/repo/index.min.json) |
+| [Dannovels](https://github.com/dannovels/novel-extensions) | :globe-showing-asia-australia: | [Install](novelyomi://add-repo?url=https://raw.githubusercontent.com/dannovels/novel-extensions/repo/index.min.json) |
 
 #### LNReader
 | Name | Region | Install |
