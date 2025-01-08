@@ -557,6 +557,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
   - [DW Anime](https://dw-anime.net/)
   - [Union Fansub](https://foro.unionfansub.com/index.php) :mag:
   - [Frozen Layer](https://www.frozen-layer.com/) :mag:
+  - [:tg: YaichiList](https://t.me/addlist/xA7wYMGu0CI2YzBh)
 
 ### Manga
 - [TuMangaOnline](https://visortmo.com/) <Badge type="info" text="2" link="https://lectormanga.com/" />
