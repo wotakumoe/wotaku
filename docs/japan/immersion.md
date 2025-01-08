@@ -52,11 +52,12 @@ outline: [2,3]
 - [Dramacool](https://asianc.co/) <Badge type="info" text="2" link="https://embasic.pro/" /><tooltip>Not updated anymore, but still good for older stuff.</tooltip>
 - [Tokuzilla](https://tokuzilla.net/) <Badge type="info" text="2" link="https://tokuzl.net/" />
 - [Toku555](https://toku555.com/)
+- [JP-Films](https://jp-films.com/)
 - [Japanese Movies Subtitles](https://github.com/eurusdagr/Japanese-Movies-Subtitles)
 
 ### Program
-- [NHK Learn Japanese](https://www3.nhk.or.jp/nhkworld/en/ondemand/category/28/)
 - [NHK Easy Japanese](https://www.nhk.or.jp/lesson/)
+- [NHK Learn Japanese](https://www3.nhk.or.jp/nhkworld/en/ondemand/category/28/)
 
 ### Live TV
 - [9tsu](https://9tsu.cc/) <Badge type="info" text="VOD" />
