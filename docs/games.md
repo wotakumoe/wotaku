@@ -70,7 +70,6 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
    - [Locale Remulator](https://github.com/InWILL/Locale_Remulator) :win:
    - [Megami Tensei Fusion Tools](https://aqiu384.github.io/megaten-fusion-tool/home)
    - [Starward](https://github.com/Scighost/Starward) :win:
-   - [thprac](https://github.com/touhouworldcup/thprac) :win:
 
 
 ## Info
@@ -98,7 +97,6 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 - [Siliconera](https://www.siliconera.com/)
 - [RPGFan](https://www.rpgfan.com/) 
 - [RPG Site](https://www.rpgsite.net/)
-- [Touhou Yomoyama News](https://touhou-project.news/) :fjp:
 
 ### Price
 - [Deku Deals](https://www.dekudeals.com/)
@@ -185,6 +183,44 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 - [Sonic Project 06](https://archive.org/details/project-06-silver-release)
 - [Sonic Robo Blast 2](https://www.srb2.org/)
 - [Sonic Triple Trouble 16-bit](https://stt16bit.wixsite.com/sonictripletrouble16)
+
+## Touhou
+
+### Databases / News
+- [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)
+- [Touhou Yomoyama News](https://touhou-project.news/) :fjp:
+
+### Software
+ 
+#### Download sites
+- [Moriya Shrine](https://moriyashrine.org/) :s:
+- [Doujin Style](https://doujinstyle.com/)
+
+#### Fan games / Modded
+- [NitorInc](http://nitorincmicro.games/) [:simple-icons-steam:](https://store.steampowered.com/app/772260/NitorInc_Touhou_Microgames/)
+- [ShanghaiEXE](https://gitgud.io/SHNecro/shanghaiexe)
+- [Taisei](https://taisei-project.org/) [:gh:](https://github.com/taisei-project/taisei)
+- [Touhou Hisoutensoku](https://soku.delthas.fr/)
+- [Touhou Fan Game Jam BLM](https://nitori.itch.io/touhou-jam-blm)
+- [Touhou Music Room](https://touhoumusicroom.com/)
+- [Touhou Puppet Play (Touhoumon)](https://maribelhearn.com/touhoumon)
+- [Danmakufu Fangame site](https://www.bulletforge.org/projects)
+
+#### Game Tools
+- [Game Tools and Modifications](https://en.touhouwiki.net/wiki/Game_Tools_and_Modifications)
+- [autopunch](https://autopunch.delthas.fr/) [:gh:](https://github.com/delthas/autopunch)
+- [LunarCast Game Replays](http://replay.lunarcast.net/)
+- [Neko Project II](https://nc-roadgeek.neocities.org/mima/pc98-neko)
+- [Touhou Launcher](https://a-digital-project.github.io/launcher/)
+- [Touhou Replay Manager](https://github.com/raviddog/threplay)
+- [Touhou Toolkit](https://thtk.thpatch.net/) [:gh:](https://github.com/thpatch/thtk)
+- [thprac](https://github.com/touhouworldcup/thprac)
+- [V-Sync Patch](https://moriyashrine.org/files/file/40-v-sync-patch/)
+
+### Other fan works
+- [Fantasy Kaleidoscope ~The Memories of Phantasm~](https://www.youtube.com/playlist?list=PLUGHUFEjeh3FCf6_xeGSIU7bRQBxuO-05)
+- [Touhou Doujinshi Index](https://scarlet.nsk.sh/) [:gh:](https://github.com/nanoskript/touhou-doujinshi-index) <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" />
+- Touhou related music works are [**here**](/music)
 
 ## Yu-Gi-Oh!
 
