@@ -35,8 +35,8 @@ outline: 1
 - [Miruro](https://www.miruro.tv/) :mingcute-shovel-fill::mingcute-refresh-2-fill: <Badge type="info" text="Proxies" link="https://www.miruro.com" />
   <tooltip>
     <ul>
-      <li>Have nice and minimal UI.</li>
-      <li>HiAnime and Anivibe scraper.</li>
+      <li>Nice and minimal UI.</li>
+      <li>Scrapes HiAnime (Zoro & Bun), Animepahe (Kiwi), Anivibe (Vibe), Gogo (Gogo & Vid).</li>
       <li>Has built-in AniList support.</li>
     </ul>
   </tooltip>
