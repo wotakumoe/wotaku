@@ -70,9 +70,10 @@ outline: [1,2]
 ## Novel Readers
 
 ### Online
-- [LN Reader](https://lnreader.github.io/) [:gh:](https://github.com/LNReader/lnreader) [:e:](/guides/tech/repo/#android)
+- [LN Reader](https://lnreader.github.io/) [:gh:](https://github.com/LNReader/lnreader) [:e:](/guides/tech/repo/#lnreader)
 - [Quicknovel](https://github.com/LagradOst/QuickNovel)
 - [Shosetsu](https://shosetsu.app/) [:gl:](https://gitlab.com/shosetsuorg/shosetsu)
+- [Legado](https://gedoor.github.io/) [:gh:](https://github.com/gedoor/legado) [:e:](/guides/tech/repo#legado)
 - [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha)
 - [Ranobe](https://github.com/ranobe-org/ranobe)
 
@@ -117,16 +118,16 @@ Check out [**CFW's iOS guide**](https://ios.cfw.guide/) & [**The Apple Wiki**](h
 
 ## Anime Streaming
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
-- [Sora](https://github.com/cranci1/Sora) [:e:](/guides/tech/repo#ios) [:d:](https://discord.gg/XR3SrmUbpd) <Badge type="info" text="Altstore" link="https://www.cranci.tech/repo.json" /><tooltip>To get the sources, join the Discord server.</tooltip>
+- [Sora](https://github.com/cranci1/Sora) [:e:](/guides/tech/repo#sora) [:d:](https://discord.gg/XR3SrmUbpd) <Badge type="info" text="Altstore" link="https://www.cranci.tech/repo.json" /><tooltip>To get the sources, join the Discord server.</tooltip>
 
 ## Manga Readers
 
 ### Online
-- [Paperback](https://paperback.moe/) [:gh:](https://github.com/Paperback-iOS/app) [:e:](/guides/tech/repo#ios)
-- [Aidoku](https://aidoku.app/) [:gh:](https://github.com/Aidoku/Aidoku) [:e:](/guides/tech/repo#ios)
+- [Paperback](https://paperback.moe/) [:gh:](https://github.com/Paperback-iOS/app) [:e:](/guides/tech/repo#paperback)
+- [Aidoku](https://aidoku.app/) [:gh:](https://github.com/Aidoku/Aidoku) [:e:](/guides/tech/repo#aidoku)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [Tachimanga](https://tachimanga.app/) :fm::cs: [:e:](https://tachimanga.app/help/guides/adding-repos.html)
-- [Suwatte](https://suwatte.mantton.com/) [:gh:](https://github.com/Suwatte/Suwatte) [:e:](/guides/tech/repo#ios) <Badge type="tip" text="Converter" link="https://seyden.github.io/SuwatteConverter/suwatte" />
+- [Suwatte](https://suwatte.mantton.com/) [:gh:](https://github.com/Suwatte/Suwatte) [:e:](/guides/tech/repo#suwatte) <Badge type="tip" text="Converter" link="https://seyden.github.io/SuwatteConverter/suwatte" />
 - [Hanami](https://github.com/oolxg/Hanami)
 
 ### Local
