@@ -1,6 +1,6 @@
 ---
 title: Mihon, Aniyomi & Dantotsu Extension Repos
-customDescription: Mihon, Aniyomi & Dantotsu Extension Repos & Guides
+customDescription: Extension Repos & Guides Mihon, Aniyomi, Dantotsu, Aidoku, Paperback & Suwatte
 outline: [2,3]
 ---
 
@@ -96,8 +96,13 @@ These apps aren't part of the Tachiyomi/Mihon ecosystem, but instead use their o
 | - | - | - |
 | [Dannovels](https://github.com/dannovels/novel-extensions) | :globe-showing-asia-australia: | [Install](novelyomi://add-repo?url=https://raw.githubusercontent.com/dannovels/novel-extensions/repo/index.min.json) |
 
+#### Legado
+| Name | Region | Auto |
+| - | - | - |
+| [rektpartyaftermath](https://github.com/rektpartyaftermath/Legado-booksource-collection) | :flag-united-kingdom: | [Install](legado://import/bookSource?src=https://raw.githubusercontent.com/rektpartyaftermath/Legado-booksource-collection/main/AllBooksource.json) |
+
 #### LNReader
-| Name | Region | Install |
+| Name | Region | Auto |
 | - | - | - |
 | [Official](https://lnreader.github.io/plugins) [:gh:](https://github.com/LNReader/lnreader-plugins) | :globe-showing-asia-australia: | [Install](lnreader://repo/add?url=https%3A%2F%2Fraw.githubusercontent.com%2FLNReader%2Flnreader-plugins%2Fplugins%2Fv3.0.0%2F.dist%2Fplugins.min.json) |
 

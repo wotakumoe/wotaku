@@ -73,6 +73,7 @@ outline: [1,2]
 - [LN Reader](https://lnreader.github.io/) [:gh:](https://github.com/LNReader/lnreader) [:e:](/guides/tech/repo/#android)
 - [Quicknovel](https://github.com/LagradOst/QuickNovel)
 - [Shosetsu](https://shosetsu.app/) [:gl:](https://gitlab.com/shosetsuorg/shosetsu)
+- [Legado](https://gedoor.github.io/) [:gh:](https://github.com/gedoor/legado) [:e:](/guides/tech/repo#legado)
 - [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha)
 - [Ranobe](https://github.com/ranobe-org/ranobe)
 
