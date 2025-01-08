@@ -34,7 +34,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
   - [AnimeTV](https://amarullz.com/) [:gh:](https://github.com/amarullz/AnimeTV)
 - **iOS**
   - [Mangayomi](https://github.com/kodjodevf/mangayomi)
-  - [Sora](https://github.com/cranci1/Sora) [:e:](/guides/tech/repo#ios) [:d:](https://discord.gg/XR3SrmUbpd) <Badge type="info" text="Altstore" link="https://www.cranci.tech/repo.json" /><tooltip>To get the sources, join the Discord server.</tooltip>
+  - [Sora](https://github.com/cranci1/Sora) [:e:](/guides/tech/repo#sora) [:d:](https://discord.gg/XR3SrmUbpd) <Badge type="info" text="Altstore" link="https://www.cranci.tech/repo.json" /><tooltip>To get the sources, join the Discord server.</tooltip>
 - **PC**
   - [Miru](https://miru.watch/) :s::win::app::lin::mag: [:gh:](https://github.com/ThaUnknown/miru/)
   - [Mangayomi](https://github.com/kodjodevf/mangayomi) :win::app::lin::mag::ddl:
@@ -61,8 +61,8 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
   - [Komikku](https://github.com/komikku-app/komikku) [:e:](/guides/tech/repo)
   - [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :s::lcl::fm::cs:
 - **iOS**
-  - [Paperback](https://github.com/Paperback-iOS/app) [:e:](/guides/tech/repo#ios)
-  - [Aidoku](https://github.com/Aidoku/Aidoku) [:e:](/guides/tech/repo#ios)
+  - [Paperback](https://github.com/Paperback-iOS/app) [:e:](/guides/tech/repo#paperback)
+  - [Aidoku](https://github.com/Aidoku/Aidoku) [:e:](/guides/tech/repo#aidoku)
   - [YACReader](https://apps.apple.com/app/id635717885) :s::lcl::paid::cs:[:tf:](https://testflight.apple.com/join/5zhB7sRP)
 - **PC**
   - [Houdoku](https://houdoku.netlify.app/) :win::app::lin: [:gh:](https://github.com/xgi/houdoku)
