@@ -484,6 +484,7 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 - [Studio One](https://www.presonus.com/en-US/studio-one.html) :cs:
 
 ### Related Links
+- [SynthV.info](https://synthv.info/)
 - [EL RINCÓN DEL KITSUNE NEO](https://elrincondelkitsuneneo2-0.blogspot.com/)
 - [CeVIO Voice Database Installer Archive](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vc3ByZWFkc2hlZXRzL2QvMWJsUGRuN1V1Tk5TVWJUczNGUnRCVjVtZERVQ2Y3MjhOSkM3eVpoT2FlLU0vZWRpdCNnaWQ9MA.ZHVjaw)
 - [RuTracker.org](https://rutracker.org/forum/index.php)
