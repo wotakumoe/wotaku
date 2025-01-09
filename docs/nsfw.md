@@ -49,7 +49,6 @@ outline: [1,2]
 - [Yabai](https://yabai.si/)<tooltip>E-Hentai clone.</tooltip>
 
 ### English-only
-- [Hentai Nexus](https://hentainexus.com/)<tooltip>fakku/irodori rips (official TLs).</tooltip>
 - [HentaiFox](https://hentaifox.com/)<tooltip>Fast Updates and English only library.</tooltip>
 - [HentaiKisu](https://hentaikisu.com/)
 - [Tsumino](https://www.tsumino.com/)
