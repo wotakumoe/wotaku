@@ -78,6 +78,9 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [Buyfag Store Digest](https://docs.google.com/document/u/0/d/1W4fAKQzCOhiWK6mJ_tvkZHIfzfzBZN57oGSaVB47TCQ/pub)
 - [Buying visual novels](https://old.reddit.com/r/visualnovels/wiki/buy)
 - [Dakindex!](https://dakidex.com/) <Badge type="danger" text="18+" />
+- [Figgy](https://www.figgy.jp/) :fjp:
+- [Figsoku](https://figsoku.net/) :fjp:
+- [Gameiroiro Calendar](https://calendar.gameiroiro.com/) :s::fjp:
 - [Gundam Kits Collection](https://www.gundamkitscollection.com/)
 - [Gunjap](https://www.gunjap.net/)
 - [JOSIC](https://www.japanonlineshopping.com/)
