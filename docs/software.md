@@ -312,14 +312,18 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 
 ## Trackers
-- [AniCour](https://github.com/ReStartQ/anicour) :win:
-- [Hachidori](https://malupdaterosx.moe/hachidori/) :app: [:gh:](https://github.com/Atelier-Shiori/hachidori)
-- [Keroro](https://github.com/hotsno/keroro) :simple-icons-mpv:
-- [MALClient](https://apps.microsoft.com/store/detail/malclient/9NBLGGH5F3BL) :win: [:gh:](https://github.com/Drutol/MALClient)
-- [MAL-Sync](https://malsync.moe/) :web: [:gh:](https://github.com/MALSync/MALSync)
-- [Taiga](https://taiga.moe/) :win: [:gh:](https://github.com/erengy/taiga)
-- [Trackma](https://z411.github.io/trackma/) :lin: [:gh:](https://github.com/z411/trackma)
-- [Tundra](https://tundra.moe/) :lin: [:gh:](https://github.com/m4tx/tundra)
+
+| **Software**    | **Platform**             | **Service**         |
+| ------------ | ---------- | ---- |
+| [AniCour](https://github.com/ReStartQ/anicour)        | :win:     | :al:        |
+| [Chibi](https://chibi-cli.pages.dev/) [:gh:](https://github.com/CosmicPredator/chibi-cli)      | :win::app::lin::cmd: | :al:        |
+| [Hachidori](https://malupdaterosx.moe/hachidori/) [:gh:](https://github.com/Atelier-Shiori/hachidori)       | :app:      | :mal:      |
+| [Keroro](https://github.com/hotsno/keroro)     | :simple-icons-mpv:   | :al:           |
+| [MALClient](https://apps.microsoft.com/store/detail/malclient/9NBLGGH5F3BL) [:gh:](https://github.com/Drutol/MALClient) | :win:                    | :mal:    |
+| [MAL-Sync](https://malsync.moe/) [:gh:](https://github.com/MALSync/MALSync)       | :cr::ff::js:     | :mal: :al: :k: :simple-icons-simkl: :simple-icons-shikimori: |
+| [Taiga](https://taiga.moe/) [:gh:](https://github.com/erengy/taiga)     | :win:       | :mal: :al: :k:  |
+| [Trackma](https://z411.github.io/trackma/) [:gh:](https://github.com/z411/trackma)   | :lin:   | :mal: :al: :k: :simple-icons-shikimori:  |
+| [Tundra](https://tundra.moe/) [:gh:](https://github.com/m4tx/tundra)    | :lin:      | :mal:     |
 
 
 ## Other Tools
