@@ -59,7 +59,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 
 
 ## Guides :s:
-- [A Complete Guide by BuyFag](https://www.buyfags.moe/Full_guide)
+- [A Complete Guide by BuyFag](https://www.buyfags.moe/)
 - [Bootleg Figure Spotting Guide by Solaris](https://solarisjapan.com/blogs/news/ultimate-guide-bootlegs-fake-anime-figures)
 - [chastetiddy’s Arcade Sticks Guide](https://docs.google.com/document/d/1fYqVRt_99AGFv7k7oBuEsW5POb50PdTdT5qirqZLS6w/edit)
 - [A Comprehensive Guide to Dakimakuras as a Hobby](https://daki.info/)
@@ -73,20 +73,22 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 
 
 ## Info
-- [Anime-DB](https://anime.dbsearch.net/) :fjp:
-- [Blu-ray.com](https://www.blu-ray.com/)
-- [Buyfag Store Digest](https://docs.google.com/document/u/0/d/1W4fAKQzCOhiWK6mJ_tvkZHIfzfzBZN57oGSaVB47TCQ/pub)
-- [Buying visual novels](https://old.reddit.com/r/visualnovels/wiki/buy)
-- [Dakindex!](https://dakidex.com/) <Badge type="danger" text="18+" />
-- [Figgy](https://www.figgy.jp/) :fjp:
-- [Figsoku](https://figsoku.net/) :fjp:
-- [Gameiroiro Calendar](https://calendar.gameiroiro.com/) :s::fjp:
-- [Gundam Kits Collection](https://www.gundamkitscollection.com/)
-- [Gunjap](https://www.gunjap.net/)
-- [JOSIC](https://www.japanonlineshopping.com/)
-- [Omiai](https://omiai-dakimakura.com/) <Badge type="danger" text="18+" />
-- [Otaku Calendar](https://otakucalendar.com/)
-- [Upcoming English Dubbed Releases](https://english-dubbed.com/anime-releases/upcoming-english-dubbed-release-dates/)
+- **General**
+  - [Gameiroiro Calendar](https://calendar.gameiroiro.com/) :s::fjp:
+  - [Otaku Calendar](https://otakucalendar.com/)
+- **Anime**
+  - [Anime-DB](https://anime.dbsearch.net/) :fjp:
+  - [Blu-ray.com](https://www.blu-ray.com/)
+  - [Upcoming English Dubbed Releases](https://english-dubbed.com/anime-releases/upcoming-english-dubbed-release-dates/)
+- **Figures**
+  - [Figgy](https://www.figgy.jp/) :fjp:
+  - [Figsoku](https://figsoku.net/) :fjp:
+  - [Gundam Kits Collection](https://www.gundamkitscollection.com/)
+  - [Gunjap](https://www.gunjap.net/)
+- **Others**
+  - [Buying visual novels](https://old.reddit.com/r/visualnovels/wiki/buy)
+  - [Dakindex!](https://dakidex.com/) <Badge type="danger" text="18+" />
+  - [Omiai](https://omiai-dakimakura.com/) <Badge type="danger" text="18+" />
 
 
 ## YouTube
