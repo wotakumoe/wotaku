@@ -227,6 +227,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Freda](https://www.turnipsoft.com/freda/) :win::cs:
 - [Koodo Reader](https://www.koodoreader.com/) :win::app::lin: [:gh:](https://github.com/koodo-reader/koodo-reader)
 - [KOReader](https://koreader.rocks/) :lin::material-symbols-chrome-reader-mode-outline: [:gh:](https://github.com/koreader/koreader)
+  - [rakuyomi](https://github.com/hanatsumi/rakuyomi)
 - [Okular](https://okular.kde.org/) :win::lin:
 - [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) :win: [:gh:](https://github.com/sumatrapdfreader/sumatrapdf)
 - [Thorium reader](https://www.edrlab.org/software/thorium-reader/) :win::app::lin: [:gh:](https://github.com/edrlab/thorium-reader)
