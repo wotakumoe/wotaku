@@ -490,7 +490,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 ### Download
 - [Zekozimo](https://zekozimo.blogspot.com/) :s: <Badge type="tip" text="General"  />
 - [KRDL](https://krdl.moe/) :s:
-- [Nyaa](https://nyaa.si/) :p2p: <Badge type="info" text="Proxies" link="https://rentry.org/nyaap" />
+- [Nyaa](https://nyaa.si/) :mag: <Badge type="info" text="Proxies" link="https://rentry.org/nyaap" />
 - [Metallic Subs](https://metallicsubs.wordpress.com/)
 - [Megabeast Empire](https://megabeastempire.wordpress.com/)
 
