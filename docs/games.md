@@ -59,17 +59,22 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 
 ## Tools
 
-- **OCR**
-   - [Agent](https://github.com/0xDC00/agent)
-   - [Game2Text](https://game2text.com/)
-   - [MTool](https://trs.mtool.app/release.php?lang=en) :fm:
-   - [YomiNinja](https://github.com/matt-m-o/YomiNinja)
-- **Others**
-   - [Hoyolab Auto-sign](https://github.com/canaria3406/hoyolab-auto-sign)
-   - [Locale Emulator](https://github.com/xupefei/Locale-Emulator) :win:
-   - [Locale Remulator](https://github.com/InWILL/Locale_Remulator) :win:
-   - [Megami Tensei Fusion Tools](https://aqiu384.github.io/megaten-fusion-tool/home)
-   - [Starward](https://github.com/Scighost/Starward) :win:
+### Misc
+- [Arks-Layer](https://arks-layer.com/index.php)
+- [Hoyolab Auto-sign](https://github.com/canaria3406/hoyolab-auto-sign)
+- [Locale Emulator](https://github.com/xupefei/Locale-Emulator)
+- [Locale Remulator](https://github.com/InWILL/Locale_Remulator)
+- [Megami Tensei Fusion Tools](https://aqiu384.github.io/megaten-fusion-tool/home)
+- [Sekai Viewer](https://sekai.best/) [:gh:](https://github.com/Sekai-World/sekai-viewer)
+- [sm64coopdx](https://sm64coopdx.com/)
+- [Starward](https://github.com/Scighost/Starward)
+- [XIVLauncher](https://goatcorp.github.io/)
+
+### OCR
+- [Agent](https://github.com/0xDC00/agent)
+- [Game2Text](https://game2text.com/)
+- [MTool](https://trs.mtool.app/release.php?lang=en) :fm:
+- [YomiNinja](https://github.com/matt-m-o/YomiNinja)
 
 
 ## Info
