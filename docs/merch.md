@@ -70,7 +70,6 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [Gunpla Wiki r/Gunpla](https://old.reddit.com/r/Gunpla/wiki/)
 - [Meramifan's guide to support doujin artists/circles](https://meramifan.wordpress.com/guide/)
 - [Music Stuff from Japan by Dimsim](https://old.reddit.com/r/japanesemusic/comments/dagaj8/how_to_buy_music_stuff_from_japan_a_guide/)
-- [Solaris Japan](https://www.youtube.com/@Solaris_Japan)
 
 
 ## Info
@@ -85,6 +84,14 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [Omiai](https://omiai-dakimakura.com/) <Badge type="danger" text="18+" />
 - [Otaku Calendar](https://otakucalendar.com/)
 - [Upcoming English Dubbed Releases](https://english-dubbed.com/anime-releases/upcoming-english-dubbed-release-dates/)
+
+
+## YouTube
+- [emgo316](https://www.youtube.com/@emgo316)
+- [JobbytheHong](https://www.youtube.com/@JobbytheHong)
+- [KenKen](https://www.youtube.com/@KenKen004)
+- [Mecha Gaikotsu](https://www.youtube.com/@MechaGaikotsu)
+- [Solaris Japan](https://www.youtube.com/@Solaris_Japan)
 
 
 ## Communities
