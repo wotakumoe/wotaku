@@ -200,7 +200,6 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 ### Downloads
 - [Moriya Shrine](https://moriyashrine.org/) :s:
 - [Doujin Style](https://doujinstyle.com/)
-- [Touhou Disc](https://alist.thdisc.tk)
 
 ### Fan Games / Mods
 - [NitorInc](http://nitorincmicro.games/) [:simple-icons-steam:](https://store.steampowered.com/app/772260/NitorInc_Touhou_Microgames/)
@@ -223,10 +222,19 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 - [thprac](https://github.com/touhouworldcup/thprac)
 - [V-Sync Patch](https://moriyashrine.org/files/file/40-v-sync-patch/)
 
-### Other fan works
+### Others
 - [Fantasy Kaleidoscope ~The Memories of Phantasm~](https://www.youtube.com/playlist?list=PLUGHUFEjeh3FCf6_xeGSIU7bRQBxuO-05)
 - [Touhou Doujinshi Index](https://scarlet.nsk.sh/) [:gh:](https://github.com/nanoskript/touhou-doujinshi-index) <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" />
-- Touhou related music works are [**here**](/music)
+- **Music**
+  - Info / Wiki
+    - [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)
+    - [THB Wiki](https://thwiki.cc/)
+    - [Touhou Spotify Music](https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit#gid=0)
+  - Download / Streaming
+    - [Gensokyo Radio](https://gensokyoradio.net/playing/) <Badge type="tip" icon="i-material-symbols-download-2" text="256kbps" link="https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u" />
+    - [Touhou Disc](https://alist.thdisc.tk)
+    - [Touhou Lossess Music Collection](https://tlmc.pf-n.co/tlmc)
+    - [Touhou Player](https://touhou.kuukunen.net/)
 
 ## Yu-Gi-Oh!
 
