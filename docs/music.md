@@ -35,9 +35,9 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [Anime Music Videos](https://www.animemusicvideos.org/home/home.php) :acc:
 
 ## Doujin
+- [Touhou Disc](https://alist.thdisc.tk/)
+- [Touhou Lossess Music Collection](https://tlmc.pf-n.co/tlmc)
 - [Touhou Player](https://touhou.kuukunen.net/)
-- [THDISC](https://alist.thdisc.tk/)
-- [TLMC](https://tlmc.pf-n.co/tlmc)
 
 
 ## Games
