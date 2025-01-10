@@ -3,6 +3,8 @@ title: NSFW
 description: huh... ahem...
 customDescription: Explore a wide range of NSFW websites, manga, manhwa, illustrations, and software.
 outline: [1,2]
+og:
+    image: https://files.catbox.moe/nckxof.png
 ---
 
 <GradientCard title="NSFW" description="Everyone has to let off some steam once in a while, we don't judge." theme="turquoise" variant="thin"/>

@@ -104,8 +104,8 @@ async function generateImage({
 
   const options: SatoriOptions = {
     // Use custom dimensions from frontmatter.og if provided
-    width: frontmatter.og?.width ?? 1942,
-    height: frontmatter.og?.height ?? 1022,
+    width: frontmatter.og?.width ?? 1800,
+    height: frontmatter.og?.height ?? 900,
     fonts,
     props: {
       title:
@@ -117,7 +117,7 @@ async function generateImage({
           ? (frontmatter.hero.tagline ?? frontmatter.description)
           : frontmatter.description,
       // dir: getDir(url)
-      image: frontmatter.og?.image ?? 'https://files.catbox.moe/tzivg0.jpg'
+      image: frontmatter.og?.image ?? 'https://files.catbox.moe/kzhgvy.png'
     }
   }
 

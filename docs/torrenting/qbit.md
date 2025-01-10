@@ -1,6 +1,8 @@
 ---
 title: qBittorrent
 customDescription: Various how-tos for qBittorrent
+og:
+    image: https://files.catbox.moe/5c89o9.png
 ---
 
 <GradientCard title="qBittorrent" description="Various how-tos for qBittorrent" theme="turquoise" variant="thin"/>

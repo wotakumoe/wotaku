@@ -1,6 +1,8 @@
 ---
 title: Torrent Glossary
 customDescription: All the basic torrent related terms
+og:
+    image: https://files.catbox.moe/5c89o9.png
 ---
 
 <GradientCard title="Torrent Glossary" description="All the basic torrent related terms" theme="turquoise" variant="thin"/>

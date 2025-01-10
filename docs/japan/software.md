@@ -3,6 +3,8 @@ title: Software
 description: Software to help you learn japanese
 customDescription: Software to help you learn japanese
 outline: [2,3]
+og:
+    image: https://files.catbox.moe/er0eiz.png
 ---
 
 <GradientCard title="Software" description=" Software to help you learn japanese" theme="turquoise" variant="thin"/>

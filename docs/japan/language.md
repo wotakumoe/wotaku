@@ -3,6 +3,8 @@ title: Learning Japanese
 description: Japanese language learning resources.
 customDescription: Japanese language learning resources.
 outline: [2,3]
+og:
+    image: https://files.catbox.moe/er0eiz.png
 ---
 
 <GradientCard title="Learning Japanese" description="All the resources to learn Japanese" theme="turquoise" variant="thin"/>

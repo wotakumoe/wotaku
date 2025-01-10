@@ -3,6 +3,8 @@ title: Music
 description: Wotaku Music Megathread!
 customDescription: Wotaku Music Megathread! Everything Music-related in one page.
 outline: [1,2]
+og:
+    image: https://files.catbox.moe/s32qh2.png
 ---
 
 <GradientCard title="Music" description="Everything Music-related in one page!" theme="turquoise" variant="thin"/>

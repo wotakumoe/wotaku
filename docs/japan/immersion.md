@@ -3,6 +3,8 @@ title: Immersion
 description: Media to help you learn japanese
 customDescription: Media to help you learn japanese
 outline: [2,3]
+og:
+    image: https://files.catbox.moe/er0eiz.png
 ---
 
 <GradientCard title="Immersion" description="Media to help you learn japanese" theme="turquoise" variant="thin"/>

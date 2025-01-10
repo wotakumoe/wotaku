@@ -48,8 +48,8 @@ const fonts: SatoriOptions['fonts'] = [
 ]
 
 export default defineSatoriConfig({
-  width: 1942,
-  height: 1022,
+  width: 1800,
+  height: 900,
   fonts,
   props: {
     title: 'Very Long Title so that I Can See How Shit Looks',

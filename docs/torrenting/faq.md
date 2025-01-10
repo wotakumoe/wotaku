@@ -1,6 +1,8 @@
 ---
 title: FAQs
 customDescription: Common questions about torrenting
+og:
+    image: https://files.catbox.moe/5c89o9.png
 ---
 
 <GradientCard title="FAQs" description="Common questions about torrenting" theme="turquoise" variant="thin"/>
