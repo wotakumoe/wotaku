@@ -189,6 +189,8 @@ Sample code [**here**](https://rentry.org/ty7iihnf)
 | :js: | `:js:` | JavaScript |
 | :css: | `:css:` | CSS |
 | :more: | `:more:` | Related resources |
+| :yes: | `:yes:` | Supported |
+| :no: | `:no:` | Not supported |
 
 :::
 

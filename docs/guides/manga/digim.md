@@ -16,13 +16,13 @@ Information about various types of publishers for manga and manhwa. Image qualit
 
 | Store                                       | Resolution | DRM Removal | SFW | Recommended { class="compact" } |
 |---------------------------------------------|------------|-------------|-----|----------------------------------|
-| [Amazon (Kindle HD)](https://www.amazon.com/kindle-dbs/comics-store/home/) | Semi-dead<sup>1</sup> | Medium | :check-mark-button: | YESN'T |
-| [Amazon (Comixology)](https://www.amazon.com/kindle-dbs/comics-store/home/)<sup>2</sup> | Dead | Hard | :check-mark-button: | NO |
-| [Apple Books](https://www.apple.com/apple-books/) | Standard | Medium | :check-mark-button: | NO |
-| [BookWalker Global](https://global.bookwalker.jp/) | Standard | Hard | :check-mark-button: | NO<sup>3</sup> |
-| [Google Play Books](https://play.google.com/books) | Standard | Very Easy | :check-mark-button: | YES |
-| [Humble Bundle](https://www.humblebundle.com/) | Highest | DRM-Free | :check-mark-button: | YES |
-| [Kobo](https://www.kobo.com/)                | Standard | Easy | :check-mark-button: | YES |
+| [Amazon (Kindle HD)](https://www.amazon.com/kindle-dbs/comics-store/home/) | Semi-dead<sup>1</sup> | Medium | :yes: | YESN'T |
+| [Amazon (Comixology)](https://www.amazon.com/kindle-dbs/comics-store/home/)<sup>2</sup> | Dead | Hard | :yes: | NO |
+| [Apple Books](https://www.apple.com/apple-books/) | Standard | Medium | :yes: | NO |
+| [BookWalker Global](https://global.bookwalker.jp/) | Standard | Hard | :yes: | NO<sup>3</sup> |
+| [Google Play Books](https://play.google.com/books) | Standard | Very Easy | :yes: | YES |
+| [Humble Bundle](https://www.humblebundle.com/) | Highest | DRM-Free | :yes: | YES |
+| [Kobo](https://www.kobo.com/)                | Standard | Easy | :yes: | YES |
 
 
 :::tip Notes {open}
@@ -36,25 +36,25 @@ Original: ~~Blurry downscales for anything that would be above that on other pla
 ### Publishers
 | Store                                          | Resolution | DRM-Free | SFW | Highest Quality { class="compact" } |
 |-----------------------------------------------|------------|----------|-----|-------------------------------------|
-| [Alpha Manga](https://www.alpha-manga.com/)   | x1800       |  -  | :check-mark-button: | - |
-| [Azuki](https://www.azuki.co/)                | x4800<sup>1</sup> | :check-mark-button: | :check-mark-button: | Own Store |
-| [Dark Horse](https://digital.darkhorse.com/)  | x3000+<sup>2</sup> | :cross-mark: | :check-mark-button: | Kindle HD |
-| [DENPA](https://denpa.pub/)<sup>3</sup>      | Varies     | :cross-mark: | :check-mark-button: | Own Store |
-| [FAKKU!](https://www.fakku.net/)              | x3200      | :check-mark-button: | :cross-mark: | Own Store |
-| [Glacier Bay Books](https://glacierbaybooks.com/) | Varies | :cross-mark: | :check-mark-button: | Own Store |
-| [Irodori Comics](https://irodoricomics.com/)  | x3200      | :check-mark-button: | :cross-mark: | Own Store / Fakku |
-| [J-Novel Club](https://j-novel.club/)         | x3840      | :check-mark-button: | :check-mark-button: | Own Store |
-| [Kaiten Books](https://www.kaitenbooks.com/)  | ~x2400     | :check-mark-button: | :check-mark-button: | Own Store |
-| [Kodansha USA](https://kodansha.us/)         | ~x3000<sup>4</sup> | :cross-mark: | :check-mark-button: | Humble Bundle / Kindle HD |
-| [Medibang](https://medibang.itch.io/) <sup>5</sup>   | x2048 | - | :cross-mark: | - |
-| Media Do/Coamix <sup>5</sup> | x1800 | - | :cross-mark: | - |
-| [Seven Seas Entertainment](https://sevenseasentertainment.com/) | x3000<sup>6</sup> | :cross-mark: | :check-mark-button: | Kindle HD |
-| [Square Enix Manga & Books](https://squareenixmangaandbooks.square-enix-games.com/en-us)| ~x2230 | :cross-mark: | :check-mark-button: | Same Everywhere |
-| [Star Fruit Books](https://starfruitbooks.com/) | Varies | :check-mark-button: | :check-mark-button: | Own Store |
-| [TOKYOPOP](https://tokyopop.com/)            | ~x2300<sup>7</sup> | :cross-mark: | :check-mark-button: | Same Everywhere |
-| [VAST Visual](https://vastmanga.com/)        | ~x2250<sup>8</sup> | :cross-mark: | :check-mark-button: | Apple Books |
-| [VIZ](https://www.viz.com/read)              | x2100-x2475<sup>9</sup> | :cross-mark: | :check-mark-button: | Kobo |
-| [Yen Press](https://yenpress.com/)            | x1291-x1350 | :cross-mark: | :check-mark-button: | Same Everywhere |
+| [Alpha Manga](https://www.alpha-manga.com/)   | x1800       |  -  | :yes: | - |
+| [Azuki](https://www.azuki.co/)                | x4800<sup>1</sup> | :yes: | :yes: | Own Store |
+| [Dark Horse](https://digital.darkhorse.com/)  | x3000+<sup>2</sup> | :no: | :yes: | Kindle HD |
+| [DENPA](https://denpa.pub/)<sup>3</sup>      | Varies     | :no: | :yes: | Own Store |
+| [FAKKU!](https://www.fakku.net/)              | x3200      | :yes: | :no: | Own Store |
+| [Glacier Bay Books](https://glacierbaybooks.com/) | Varies | :no: | :yes: | Own Store |
+| [Irodori Comics](https://irodoricomics.com/)  | x3200      | :yes: | :no: | Own Store / Fakku |
+| [J-Novel Club](https://j-novel.club/)         | x3840      | :yes: | :yes: | Own Store |
+| [Kaiten Books](https://www.kaitenbooks.com/)  | ~x2400     | :yes: | :yes: | Own Store |
+| [Kodansha USA](https://kodansha.us/)         | ~x3000<sup>4</sup> | :no: | :yes: | Humble Bundle / Kindle HD |
+| [Medibang](https://medibang.itch.io/) <sup>5</sup>   | x2048 | - | :no: | - |
+| Media Do/Coamix <sup>5</sup> | x1800 | - | :no: | - |
+| [Seven Seas Entertainment](https://sevenseasentertainment.com/) | x3000<sup>6</sup> | :no: | :yes: | Kindle HD |
+| [Square Enix Manga & Books](https://squareenixmangaandbooks.square-enix-games.com/en-us)| ~x2230 | :no: | :yes: | Same Everywhere |
+| [Star Fruit Books](https://starfruitbooks.com/) | Varies | :yes: | :yes: | Own Store |
+| [TOKYOPOP](https://tokyopop.com/)            | ~x2300<sup>7</sup> | :no: | :yes: | Same Everywhere |
+| [VAST Visual](https://vastmanga.com/)        | ~x2250<sup>8</sup> | :no: | :yes: | Apple Books |
+| [VIZ](https://www.viz.com/read)              | x2100-x2475<sup>9</sup> | :no: | :yes: | Kobo |
+| [Yen Press](https://yenpress.com/)            | x1291-x1350 | :no: | :yes: | Same Everywhere |
 
 
 :::tip Notes {open}
@@ -74,18 +74,18 @@ Original: ~~Blurry downscales for anything that would be above that on other pla
 ### Manga
 | Platform                                          | Resolution          | SFW |
 |---------------------------------------------------|---------------------|-----|
-| [Alpha Manga](https://www.alpha-manga.com/)       | x1536               | :check-mark-button: |
-| [Azuki](https://www.azuki.co/)                    |  x2400-3000   | :check-mark-button: |
-| [Comikey](https://comikey.com/)                   | x2048               | :check-mark-button: |
-| [Coolmic](https://coolmic.me/)                    | x1536               | :cross-mark: |
-| [INKR](https://comics.inkr.com/)                  | Varies<sup>1</sup> | :check-mark-button: |
-| [MangaPlus](https://mangaplus.shueisha.co.jp/)    | x2100<sup>2</sup>  | :check-mark-button: |
-| [MangaPlanet](https://mangaplanet.com/)           | x1536 / x1600       | :cross-mark: |
-| [MangaUp!](https://global.manga-up.com/)          | x3072+<sup>3</sup>  | :check-mark-button: |
-| [Mangamo](https://www.mangamo.com/)               | ~x17xx              | :check-mark-button: |
-| [K Manga (by Kodansha JP)](https://kmanga.kodansha.com/)<sup>4</sup>| x1378             | :check-mark-button: |
-| [Yen Press](https://yenpress.com/)            | x1291-x1350 | :cross-mark: | :check-mark-button: | 
-| [VIZ](https://www.viz.com/)                       | ~x1145              | :check-mark-button: |
+| [Alpha Manga](https://www.alpha-manga.com/)       | x1536               | :yes: |
+| [Azuki](https://www.azuki.co/)                    |  x2400-3000   | :yes: |
+| [Comikey](https://comikey.com/)                   | x2048               | :yes: |
+| [Coolmic](https://coolmic.me/)                    | x1536               | :no: |
+| [INKR](https://comics.inkr.com/)                  | Varies<sup>1</sup> | :yes: |
+| [MangaPlus](https://mangaplus.shueisha.co.jp/)    | x2100<sup>2</sup>  | :yes: |
+| [MangaPlanet](https://mangaplanet.com/)           | x1536 / x1600       | :no: |
+| [MangaUp!](https://global.manga-up.com/)          | x3072+<sup>3</sup>  | :yes: |
+| [Mangamo](https://www.mangamo.com/)               | ~x17xx              | :yes: |
+| [K Manga (by Kodansha JP)](https://kmanga.kodansha.com/)<sup>4</sup>| x1378             | :yes: |
+| [Yen Press](https://yenpress.com/)            | x1291-x1350 | :no: | :yes: | 
+| [VIZ](https://www.viz.com/)                       | ~x1145              | :yes: |
 
 
 ::: tip Notes {open}
@@ -101,14 +101,14 @@ Original: ~~Blurry downscales for anything that would be above that on other pla
 
 | Platform                                         | Resolution { class="compact" } |  SFW |
 |--------------------------------------------------|----------------------------------|----- |
-| [Lezhin](https://www.lezhinus.com/en)            | 1280x <sup>1</sup>              | :cross-mark: |
-| [Line Webtoon](https://www.webtoons.com/en/)     | 720-800x                        | :check-mark-button:|
-| [Manta](https://manta.net/en) <sup>2</sup>                   | 720x                            | :check-mark-button: |
-| [Tapas](https://tapas.io/)   <sup>2</sup>                    | 940x                            | :check-mark-button: |
-| [Tappytoon](https://www.tappytoon.com/en/comics/home)<sup>2</sup> | 720x                       | :check-mark-button: |
-| [Day Comics](https://daycomics.com/) <sup>3</sup> | 720x                       | :cross-mark:|
-| [Toomics](https://toomics.com/en/) <sup>4</sup> | 720x                       | :cross-mark:|
-| [INKR](https://comics.inkr.com/)                  | Varies<sup>5</sup> |  :cross-mark: |
+| [Lezhin](https://www.lezhinus.com/en)            | 1280x <sup>1</sup>              | :no: |
+| [Line Webtoon](https://www.webtoons.com/en/)     | 720-800x                        | :yes:|
+| [Manta](https://manta.net/en) <sup>2</sup>                   | 720x                            | :yes: |
+| [Tapas](https://tapas.io/)   <sup>2</sup>                    | 940x                            | :yes: |
+| [Tappytoon](https://www.tappytoon.com/en/comics/home)<sup>2</sup> | 720x                       | :yes: |
+| [Day Comics](https://daycomics.com/) <sup>3</sup> | 720x                       | :no:|
+| [Toomics](https://toomics.com/en/) <sup>4</sup> | 720x                       | :no:|
+| [INKR](https://comics.inkr.com/)                  | Varies<sup>5</sup> |  :no: |
 
 
 

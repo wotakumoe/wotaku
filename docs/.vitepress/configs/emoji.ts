@@ -109,7 +109,9 @@ const aliases: Record<string, string> = {
   tf: 'mdi-airplane',
   js: 'simple-icons-javascript',
   css: 'mdi-format-paint',
-  more: 'mdi-arrow-right-bold'
+  more: 'mdi-arrow-right-bold',
+  yes: 'twemoji-check-mark-button',
+  no: 'twemoji-cross-mark'
 }
 
 const defs: Record<string, string> = {}

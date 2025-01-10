@@ -19,20 +19,20 @@ og:
 
 | Name | DDL | P2P | FOSS | Free |
 |-|-|-|-|-|
-| [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) :s: | :check-mark-button: | :check-mark-button: | :cross-mark: | Ads, feature limit |
-| [LibreTorrent](https://github.com/proninyaroslav/libretorrent) :s: | :cross-mark: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
-| [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) | :check-mark-button: | :check-mark-button: | :cross-mark: | Ads |
-| [Aria2App](https://github.com/devgianlu/Aria2App) | :check-mark-button: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
-| [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) | :cross-mark: | :check-mark-button: | :cross-mark: | Ads, theme limit |
-| [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) | :check-mark-button: | :check-mark-button: | :cross-mark: | :check-mark-button: |
-| [Gopeed](https://gopeed.com/) [:gh:](https://github.com/GopeedLab/gopeed) | :check-mark-button: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
+| [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) :s: | :yes: | :yes: | :no: | Ads, feature limit |
+| [LibreTorrent](https://github.com/proninyaroslav/libretorrent) :s: | :no: | :yes: | :yes: | :yes: |
+| [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) | :yes: | :yes: | :no: | Ads |
+| [Aria2App](https://github.com/devgianlu/Aria2App) | :yes: | :yes: | :yes: | :yes: |
+| [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) | :no: | :yes: | :no: | Ads, theme limit |
+| [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) | :yes: | :yes: | :no: | :yes: |
+| [Gopeed](https://gopeed.com/) [:gh:](https://github.com/GopeedLab/gopeed) | :yes: | :yes: | :yes: | :yes: |
 
 #### iOS
 
 | Name | DDL | P2P | FOSS |
 |-|-|-|-|
-| [fGet](https://apps.apple.com/us/app/fget-file-manager-browser/id1582654012) | :check-mark-button: | :cross-mark: | :cross-mark: |
-| [iTorrent](https://github.com/XITRIX/iTorrent) | :cross-mark: | :check-mark-button: | :check-mark-button: |
+| [fGet](https://apps.apple.com/us/app/fget-file-manager-browser/id1582654012) | :yes: | :no: | :no: |
+| [iTorrent](https://github.com/XITRIX/iTorrent) | :no: | :yes: | :yes: |
 
 
 ## Media
@@ -75,24 +75,24 @@ og:
 
 | Software | OS | DDL | P2P | FOSS |
 |-|-|-|-|-|
-| [aria2](https://aria2.github.io/) :s: [:gh:](https://github.com/aria2/aria2) | :cmd: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
-| [Internet Download Manager](https://www.internetdownloadmanager.com/) :s: | :win: | :check-mark-button: | :cross-mark: | :cross-mark: |
-| [qBittorrent](https://www.qbittorrent.org/) :s: [:gh:](https://github.com/qbittorrent/qBittorrent/) | :win::app::lin: | :cross-mark: | :check-mark-button: | :check-mark-button: |
-| [yt-dlp](https://github.com/yt-dlp/yt-dlp) :s: | :win::app::lin::cmd: | :check-mark-button: | :cross-mark: | :check-mark-button: |
-| [AB Download Manager](https://abdownloadmanager.com/) [:gh:](https://github.com/amir1376/ab-download-manager) | :win::lin: | :check-mark-button: | :cross-mark: | :check-mark-button: |
-| [Deluge](https://www.deluge-torrent.org/) [:gh:](https://github.com/deluge-torrent/deluge) | :win::app::lin: | :cross-mark: | :check-mark-button: | :check-mark-button: |
-| [File centipede](https://filecxx.com/en_US/index.html) [:gh:](https://github.com/filecxx/FileCentipede) | :win::lin: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
-| [Free Download Manager](https://www.freedownloadmanager.org/) | :win::app::lin: | :check-mark-button: | :check-mark-button: | :cross-mark: |
-| [Gopeed](https://gopeed.com/) [:gh:](https://github.com/GopeedLab/gopeed) | :win::app::lin: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
-| [ImFile](https://imfile.io/) [:gh:](https://github.com/imfile-io/imfile-desktop/) | :win::app: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
-| [JDownloader](https://jdownloader.org/) | :win::app::lin: | :check-mark-button: | :cross-mark: | :cross-mark: |
-| [libtorrent](https://www.libtorrent.org/index.html) [:gh:](https://github.com/arvidn/libtorrent) | :cmd: | :cross-mark: | :check-mark-button: | :check-mark-button: |
-| [Media Downloader](https://github.com/mhogomchungu/media-downloader) | :win::app::lin: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
-| [MegaBasterd](https://github.com/tonikelope/megabasterd) | :win::app::lin: | :check-mark-button: | :cross-mark: | :check-mark-button: |
-| [Persepolis](https://persepolisdm.github.io/) [:gh:](https://github.com/persepolisdm/persepolis) | :win::app::lin: | :check-mark-button: | :cross-mark: | :check-mark-button: |
-| [TIXATI](https://www.tixati.com/) | :win::lin: | :cross-mark: | :check-mark-button: | :cross-mark: |
-| [Transmission](https://transmissionbt.com/) [:gh:](https://github.com/transmission/transmission) | :win::app::lin: | :cross-mark: | :check-mark-button: | :check-mark-button: |
-| [Xtreme Download Manager](https://xtremedownloadmanager.com/) [:gh:](https://github.com/subhra74/xdm) | :win::app::lin: | :check-mark-button: | :cross-mark: | :check-mark-button: |
+| [aria2](https://aria2.github.io/) :s: [:gh:](https://github.com/aria2/aria2) | :cmd: | :yes: | :yes: | :yes: |
+| [Internet Download Manager](https://www.internetdownloadmanager.com/) :s: | :win: | :yes: | :no: | :no: |
+| [qBittorrent](https://www.qbittorrent.org/) :s: [:gh:](https://github.com/qbittorrent/qBittorrent/) | :win::app::lin: | :no: | :yes: | :yes: |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) :s: | :win::app::lin::cmd: | :yes: | :no: | :yes: |
+| [AB Download Manager](https://abdownloadmanager.com/) [:gh:](https://github.com/amir1376/ab-download-manager) | :win::lin: | :yes: | :no: | :yes: |
+| [Deluge](https://www.deluge-torrent.org/) [:gh:](https://github.com/deluge-torrent/deluge) | :win::app::lin: | :no: | :yes: | :yes: |
+| [File centipede](https://filecxx.com/en_US/index.html) [:gh:](https://github.com/filecxx/FileCentipede) | :win::lin: | :yes: | :yes: | :yes: |
+| [Free Download Manager](https://www.freedownloadmanager.org/) | :win::app::lin: | :yes: | :yes: | :no: |
+| [Gopeed](https://gopeed.com/) [:gh:](https://github.com/GopeedLab/gopeed) | :win::app::lin: | :yes: | :yes: | :yes: |
+| [ImFile](https://imfile.io/) [:gh:](https://github.com/imfile-io/imfile-desktop/) | :win::app: | :yes: | :yes: | :yes: |
+| [JDownloader](https://jdownloader.org/) | :win::app::lin: | :yes: | :no: | :no: |
+| [libtorrent](https://www.libtorrent.org/index.html) [:gh:](https://github.com/arvidn/libtorrent) | :cmd: | :no: | :yes: | :yes: |
+| [Media Downloader](https://github.com/mhogomchungu/media-downloader) | :win::app::lin: | :yes: | :yes: | :yes: |
+| [MegaBasterd](https://github.com/tonikelope/megabasterd) | :win::app::lin: | :yes: | :no: | :yes: |
+| [Persepolis](https://persepolisdm.github.io/) [:gh:](https://github.com/persepolisdm/persepolis) | :win::app::lin: | :yes: | :no: | :yes: |
+| [TIXATI](https://www.tixati.com/) | :win::lin: | :no: | :yes: | :no: |
+| [Transmission](https://transmissionbt.com/) [:gh:](https://github.com/transmission/transmission) | :win::app::lin: | :no: | :yes: | :yes: |
+| [Xtreme Download Manager](https://xtremedownloadmanager.com/) [:gh:](https://github.com/subhra74/xdm) | :win::app::lin: | :yes: | :no: | :yes: |
 
 #### Related resources
 
