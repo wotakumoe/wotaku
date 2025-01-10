@@ -154,10 +154,4 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Monty Montgomery** | [Digital Show and Tell](https://youtu.be/cIQ9IXSUzuM) | [Audio file](/glossary/audio#audio-file-1) |
 | - | [Transparency (data compression)](https://en.wikipedia.org/wiki/Transparency_(data_compression)) | [Transparency Threshold](/glossary/audio#transparency-threshold) |
 
-== Guide
-
-| Author / Pub | Article | Used in |
-|-|-|-|
-| **neckothy** | [Digital Manga Buyer's Guide](https://gist.github.com/neckothy/6654f928fef87529646df3799f5e555a) (Base structure) | [Digital Comic Info](/guides/manga/digim) |
-
 :::

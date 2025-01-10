@@ -115,7 +115,6 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [Squid.wtf](https://squid.wtf/) :s:
 - [Lucida](https://lucida.to/) <Badge type="tip" text="2" link="https://lucida.su/" />
 - [DoubleDouble](https://doubledouble.top/)
-- [MP3Daddy](https://mp3-daddy.com/)<tooltip>Don't download WAV and AIFF versions. It's pointless bloat. Use Squid.wtf or YAMS deezer. Better service.</tooltip>
 - [:tg: Beatspot Music](https://t.me/BeatSpotBot)
 
 ## Doujin
@@ -187,7 +186,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [Game That Tune Radio](https://gttradio.com/)
 - [Rainwave VGM Radio](https://rainwave.cc/all/)
 - [RPGamers Radio](http://www.rpgamers.net/radio/)
-- [SquidRadio](https://www.squid-radio.net/)
+- [SquidRadio](https://radio.sittingonclouds.net/) <Badge type="info" text="2" link="https://www.squidify.org/library/radios" />
 
 
 

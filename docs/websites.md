@@ -212,7 +212,6 @@ outline: 1
 - [Mkvseries](https://mkvseries.com/) <Badge text="2" link="https://mkvcinema.in/" /> :sgd::batch:
 - [Anime out](https://www.animeout.xyz/) :ddl::acc:
 - [Chauthanh](https://chauthanh.info/) :ddl::acc:
-- [RIP Crabby Anime](https://ripcrabbyanime.com/) :sgd::batch:
 - [hi10anime](https://hi10anime.com/) :ddl::mag::acc::batch:
 
 #### Subtitles

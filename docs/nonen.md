@@ -97,7 +97,7 @@ If you have recommendations for good sites in your native language or want to re
 - **Torrent**
   - [ACG](https://acg.rip/)
   - [ACGNX](https://share.acgnx.se/)
-  - [Anime Garden](https://garden.onekuma.cn/)
+  - [Anime Garden](https://garden.breadio.wiki/)
   - [Bangumi](https://bangumi.moe/)
   - [DMHY](https://dmhy.org/)
   - [Mikan Project](https://mikanani.me/) [:gh:](https://github.com/iota9star/mikan_flutter)
@@ -245,7 +245,6 @@ If you have recommendations for good sites in your native language or want to re
   - [Anisaga](https://anisaga.org/)
   - [Anplay](https://anplay.in/)
   - [Dora Bash](https://doraemontheanime.com/)
-  - [HiddenLeaf](https://hiddenleaf.to/home/)
   - [Toonbaba](https://toonbaba.site/)
   - [ToonStream](https://toonstream.day/)
 - **DDL**
@@ -278,7 +277,7 @@ If you have recommendations for good sites in your native language or want to re
   - [Kuramanime](https://kuramanime.red/)
   - [Mynimeku](https://www.mynimeku.com/)
   - [Otaku Desu](https://otakudesu.cloud/)
-  - [Samehadaku](https://samehadaku.email/)
+  - [Samehadaku](https://samehadaku.ws/)
   - [ZANIME](https://anime.uhuyy.dev/) [:gh:](https://github.com/Fauzanmhr/zannime)
 - **DDL**
   - [Koisuru](https://db.koisuru.web.id/0:/)<tooltip>Subtitle files only, you need to get the episodes from another source.</tooltip>
@@ -389,9 +388,8 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 ### Comics
 - [BlackToon](https://blacktoon.live/) <Badge type="danger" text="18+" />
+- [Funbe](https://funbe451.com/%EC%9B%B9%ED%88%B0) <Badge type="danger" text="18+" />
 - [Manatoki](https://www.xn--h10b2b940bwzy.store/) <Badge type="danger" text="18+" />
-- [Newtoki](https://www.ntoki.info/) <Badge type="danger" text="18+" />
-- [TOONKOR](https://www.xn--yq5bv6mzmcca.live/) <Badge type="info" text="2" link="https://funbe451.com/%EC%9B%B9%ED%88%B0" /> <Badge type="danger" text="18+" />
 - [Wolf](https://nicelink22.com/) <Badge type="danger" text="18+" />
 
 ### Others
@@ -478,7 +476,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [AnimeJoy](https://animejoy.ru/)
 - [Animelayer](http://animelayer.ru/) :mag:
 - [AnimeLIB](https://anilib.me/)
-- [AnimeShot](https://animeshot.ru/)
 - [AnimeStars](https://animestars.org/) <Badge type="info" text="Aggregator" />
 - [Anisun](https://anisun.vercel.app/en) [:gh:](https://github.com/notwindstone/anisun)
 - [ANIXART](https://anixart-tv.org/) <Badge type="info" text="Aggregator" />
@@ -565,7 +562,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [AnzMangas](https://www.anzmangashd.com/)
 - [Leer Manga](https://r2.leermanga.xyz/)
 - [Manga Crab](https://mangacrab.com/)
-- [Notasanime](https://ver.notasanime.me/)
 
 ### News
 - [ANMOSugoi](https://www.anmosugoi.com/)
