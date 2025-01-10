@@ -196,14 +196,13 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 ### Databases / News
 - [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)
 - [Touhou Yomoyama News](https://touhou-project.news/) :fjp:
-
-### Software
  
-#### Download sites
+### Downloads
 - [Moriya Shrine](https://moriyashrine.org/) :s:
 - [Doujin Style](https://doujinstyle.com/)
+- [Touhou Disc](https://alist.thdisc.tk)
 
-#### Fan games / Modded
+### Fan Games / Mods
 - [NitorInc](http://nitorincmicro.games/) [:simple-icons-steam:](https://store.steampowered.com/app/772260/NitorInc_Touhou_Microgames/)
 - [ShanghaiEXE](https://gitgud.io/SHNecro/shanghaiexe)
 - [Taisei](https://taisei-project.org/) [:gh:](https://github.com/taisei-project/taisei)
@@ -213,7 +212,7 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 - [Touhou Puppet Play (Touhoumon)](https://maribelhearn.com/touhoumon)
 - [Danmakufu Fangame site](https://www.bulletforge.org/projects)
 
-#### Game Tools
+### Game Tools
 - [Game Tools and Modifications](https://en.touhouwiki.net/wiki/Game_Tools_and_Modifications)
 - [autopunch](https://autopunch.delthas.fr/) [:gh:](https://github.com/delthas/autopunch)
 - [LunarCast Game Replays](http://replay.lunarcast.net/)
