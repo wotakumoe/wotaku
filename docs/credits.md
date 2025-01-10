@@ -53,6 +53,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Kyoto Animation**      | [Mio Akiyama](https://konachan.net/post/show/49838)                                                                                | [Music banner](/music#phone)                                   |
 | **Kyoto Animation**      | [Tsumugi Kotobuki](https://konachan.com/post/show/169507)                                                                          | [Audio glossary banner](/glossary/audio#basic-terms)           |
 | **Lacie Walker**         | [Eto Yoshimura](https://www.zerochan.net/1880948)                                                                                  | [4chan banner](/qs#_4chan)                                     |
+| **megamiceto** | [Brazilian miku](https://x.com/megamiceto/status/1826372184731955667) | Non-English link embed |
 | **Mogudan**              | [Mogudan Illust Works](https://www.fakku.net/hentai/mogudan-illust-works-english)                                                  | [NSFW banners](/nsfw)                                          |
 | **neggo** | [extra tips](https://x.com/neggoartz/status/1834776522801971603) | Torrent link embed |
 | **queasyS** | [Ishtar and Ereshkigal - FGO](https://www.pixiv.net/en/artworks/112928609) | NSFW link embed  |
