@@ -52,7 +52,7 @@ og:
 - [ViewAsian](https://www.viewasian.org/)
 - [Asiaflix](https://asiaflix.net/home)
 - [SFlix](https://sflix2.to/home)
-- [Asianload](https://embasic.pro/) <tooltip>Not updated anymore, but still good for older stuff.</tooltip>
+- [Asianload](https://embasic.pro/)<tooltip>Not updated anymore, but still good for older stuff.</tooltip>
 - [Tokuzilla](https://tokuzilla.net/) <Badge type="info" text="2" link="https://tokuzl.net/" />
 - [Toku555](https://toku555.com/)
 - [JP-Films](https://jp-films.com/)
