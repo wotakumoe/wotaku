@@ -28,7 +28,8 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 
 | Artist / Studio          | Art                                                                                                                                | Used as                                                        |
 | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| **三萬筒 (30kton)**      | [AO-chan](https://www.pixiv.net/en/artworks/110412826)                                                                             | [Default banner](/faq#general)                                 |
+| **三萬筒 (30kton)**      | [Have you seen AO-chan?](https://www.pixiv.net/en/artworks/110412826)                              | [Default banner](/faq#general)                                 |
+| **6y9brows** | [My life will one day be colorful](https://6y9brows.tumblr.com/post/668069737059713024/my-life-will-one-day-be-colorful) | Art link embed |
 | **ATLUS**                | [Futaba Sakura](https://megamitensei.fandom.com/wiki/Futaba_Sakura)                                                                | [Music banner](/music#utility-sites)                           |
 | **Bandai Namco**         | [Boa Hancock](https://opbr-en.bn-ent.net/character/detail/0017.html)                                                               | [Anime Banner](/qs#anime)                                      |
 | **Capcom**               | [Phoenix Wright](https://news.capcomusa.com/lets/browse/phoenix-wright-ace-attorney-trilogy-dev-column-2-the-art-of-the-turnabout) | [Legal banner](/websites#legal)                                |
@@ -36,10 +37,14 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Dr.Pigeon PhD**        | [Smol Ame with Christmas hat](https://x.com/PhdPigeon/status/1869579249688231945)                                                  | [Favicon](/)                                                  |
 | **Dr.Pigeon PhD**        | [Smol Ame in winter jacket](https://x.com/PhdPigeon/status/1866313003119030404)                                                    | [Home art](/)                                                  |
 | **Erik Larsen**          | [Spawn](https://antiheroes.fandom.com/wiki/Spawn)                                                                                  | [Comics banner](/websites#comics)                              |
+| **Eyeye** | [Futaba-chan](https://www.pixiv.net/en/artworks/115469094) | FAQs link embed |
 | **Fari**                 | [V](https://medibang.com/picture/142307130449401690015558098/)                                                                     | [Music banner](/music#info-sites)                             |
+| **frakon98** | [Kaiji - Rolling the dice](https://www.deviantart.com/frakon98/art/Kaiji-Rolling-the-dice-860584411) | Madokami link embed |
 | **藤ちょこ (Fujichoco)** | [Hatsune Miku “Magical Mirai 2020” Osaka](https://magicalmirai.com/2020/osaka/)                                                    | [Audio glossary banner](/glossary/audio#japanese-music-genres) |
 | **フカヒレ (Fukahire)**  | [Hoshimachi Suisei](https://x.com/fuka_hire/status/1619998921757192195)                                                            | [Music banner](/qs#music)                                      |
+| **はいべぎん (greatpengh)** | [Artifical Enemy](https://www.pixiv.net/en/artworks/51789252) | Software link embed |
 | **Huu**                  | [Rem](https://www.pixiv.net/en/artworks/79939625)                                                                                  | [Music banner](/music#radio)                                   |
+| **あきふゆはるか (Ibushi Roun)** | [Reimu vs Patchouli](https://www.pixiv.net/en/artworks/109967460) | Game link embed |
 | **J.C.Staff**            | [Taiga Aisaka](https://yande.re/post/show/46578)                                                                                   | [Music banner](/music#pc)                                      |
 | **可 (Ka / 996beshi)** | [15枚](https://www.pixiv.net/en/artworks/116320124) | Default link embed |
 | **Kazuki Takahashi**     | [Yami Yugi](https://www.zerochan.net/7739)                                                                                         | [Manga banner](/qs#manga)                                      |
@@ -49,11 +54,16 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Kyoto Animation**      | [Tsumugi Kotobuki](https://konachan.com/post/show/169507)                                                                          | [Audio glossary banner](/glossary/audio#basic-terms)           |
 | **Lacie Walker**         | [Eto Yoshimura](https://www.zerochan.net/1880948)                                                                                  | [4chan banner](/qs#_4chan)                                     |
 | **Mogudan**              | [Mogudan Illust Works](https://www.fakku.net/hentai/mogudan-illust-works-english)                                                  | [NSFW banners](/nsfw)                                          |
+| **neggo** | [extra tips](https://x.com/neggoartz/status/1834776522801971603) | Torrent link embed |
+| **queasyS** | [Ishtar and Ereshkigal - FGO](https://www.pixiv.net/en/artworks/112928609) | NSFW link embed  |
 | **れんた (Renta)**       | [Defoko birthday festival!](https://www.pixiv.net/en/artworks/41424418)                                                            | [Audio glossary banner](/glossary/audio#hardware-1)            |
 | **Saeki Yahiro**         | [Hoshimachi Suisei Profile Art](https://hololive.hololivepro.com/en/talents/hoshimachi-suisei/)                                    | [Vtuber banner](/misc#vtuber)                                  |
 | **SHAFT**                | [Ene](https://kagerouproject.fandom.com/wiki/Ene#Anime)                                                                            | [Music banner](/music#download)                                |
+| **Taizo** | [The sound of the forest, the smell of paper.](https://www.pixiv.net/en/artworks/120581878) | Japan link embed |
+| **Takeshi Obata** | [Moritaka Mashiro](https://konachan.com/post/show/71470) | Scanlation link embed |
 | **tencross**             | [Ainz Ooal Gown](https://vsbattles.fandom.com/wiki/Ainz_Ooal_Gown)                                                                 | [Novel banner](/websites#novels)                               |
 | **Toei**                 | [Kamen Rider Imperial Demons](https://www.deviantart.com/stainrender/art/Kamen-Rider-Imperial-Demons-Render-1025700355)            | [Tokusatsu banner](/websites#tokusatsu)                        |
+| **たくぼん (Tokubon)** | [Suichan wa~??](https://www.pixiv.net/en/artworks/82665330) | Music link embed |
 | **トゥーミ (Twumi)**     | [Chibi Nadeshiko Kagamihara](https://www.pixiv.net/en/artworks/67505931)                                                           | [Essentials banner](/qs#essentials)                            |
 | **tyasuzu**              | [Ryo Yamada](https://www.pixiv.net/en/artworks/104004187)                                                                          | [Music banner](/music#stream)                                  |
 | **WayForward**           | [Risky Boots](https://shantae.fandom.com/wiki/Risky_Boots)                                                                         | [PT banner](/websites#private-trackers)                        |
