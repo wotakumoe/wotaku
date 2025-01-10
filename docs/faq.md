@@ -2,6 +2,9 @@
 title: Frequently Asked Questions
 customDescription: Answers to some of the most commonly asked questions about manga and anime we've seen in the otaku community.
 outline: 1
+og:
+    image: https://files.catbox.moe/rkrxly.png
+
 ---
 
 <GradientCard title="FAQs" description="Answers to some of the most commonly asked questions about otaku topics." theme="turquoise" variant="thin"/>

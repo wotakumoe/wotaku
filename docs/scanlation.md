@@ -3,6 +3,9 @@ title: Scanlation
 description: Guides and resources for scanlation
 customDescription: Guides and resources for everything scanlation related!
 outline: [1,2]
+og:
+    image: https://files.catbox.moe/whc1dt.png
+
 ---
 
 <GradientCard title="Scanlation" description="Guides and resources for scanlating manga." theme="turquoise" variant="thin"/>

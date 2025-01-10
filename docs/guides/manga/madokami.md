@@ -2,6 +2,9 @@
 title: Madokami Guide
 customDescription: The Joining guide for Madokami through IRC. Also how to download stuff from Madokami.
 outline: [2,3]
+og:
+    image: https://files.catbox.moe/rkrxly.png
+
 ---
 
 <GradientCard title="Madokami Guide" description="Joining guide for Madokami through IRC" theme="turquoise" variant="thin"/>

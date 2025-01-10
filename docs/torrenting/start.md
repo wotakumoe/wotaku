@@ -2,7 +2,7 @@
 title: Getting Started
 customDescription: Basic how-to torrent guide to get you started 
 og:
-    image: https://files.catbox.moe/5c89o9.png
+    image: https://files.catbox.moe/d3zs1e.png
 ---
 
 <GradientCard title="Getting Started" description="Basic how-to torrent guide to get you started" theme="turquoise" variant="thin"/>

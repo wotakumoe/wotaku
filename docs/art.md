@@ -3,6 +3,9 @@ title: Art
 description: Everything Art
 customDescription: Art-based sites, software, scripts and extensions
 outline: [1,2]
+og:
+    image: https://files.catbox.moe/hpfdzb.png
+
 ---
 
 <GradientCard title="Art" description="Everything Art-related in one page!" theme="turquoise" variant="thin"/>

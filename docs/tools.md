@@ -3,6 +3,9 @@ title: Tools
 description: Software to make life easier
 customDescription: Various tools to enhance your experience; not all of them are necessarily weeb-related, but they can be genuinely helpful.
 outline: [1,2]
+og:
+    image: https://files.catbox.moe/d3zs1e.png
+
 ---
 
 <GradientCard title="Tools" description="Various tools and extensions to enhance your experience." theme="turquoise" variant="thin"/>
