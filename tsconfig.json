@@ -17,14 +17,13 @@
     "types": ["vitepress/client"]
   },
   "include": [
-    "**/.vitepress/**/*.ts",
-    "**/.vitepress/**/*.mts",
-    "**/.vitepress/**/*.vue",
+    "docs/.vitepress/**/*.ts",
+    "docs/.vitepress/**/*.mts",
+    "docs/.vitepress/**/*.vue",
     "docs/**/*.md"
   ],
   "exclude": ["node_modules"],
   "vueCompilerOptions": {
     "vitePressExtensions": [".md"]
-  },
-  "extends": "./.nitro/types/tsconfig.json"
+  }
 }

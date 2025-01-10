@@ -60,14 +60,12 @@
     "@taskylizard/biome-config": "^1.0.5",
     "@types/node": "^22.10.2",
     "sass": "^1.83.0",
+    "vite-plugin-vue-devtools": "^7.6.8",
     "wrangler": "^3.96.0"
   },
   "pnpm": {
     "peerDependencyRules": {
-      "ignoreMissing": [
-        "@algolia/client-search",
-        "search-insights"
-      ]
+      "ignoreMissing": ["@algolia/client-search", "search-insights"]
     }
   },
   "packageManager": "pnpm@9.15.0"

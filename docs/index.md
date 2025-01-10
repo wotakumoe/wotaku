@@ -24,6 +24,8 @@ hero:
 
 aside: left
 
+og:
+  image: https://cdn.donmai.us/original/6c/2e/__yaguchi_yatora_hashida_haruka_ayukawa_ryuuji_takahashi_yotasuke_and_kuwana_maki_blue_period_drawn_by_6y9brows__6c2e5d04d5cce5f1f0e1e0868ce21388.png
 customDescription: A wiki that covers everything weeb-related!
 
 features:

@@ -20,8 +20,8 @@ const clickIcon = ref<HTMLSpanElement>()
 const card = ref<HTMLDivElement>()
 
 const handleClick = () => {
-	card.value?.classList.toggle('is-opened')
-	clickIcon.value?.classList.toggle('is-hidden')
+  card.value?.classList.toggle('is-opened')
+  clickIcon.value?.classList.toggle('is-hidden')
 }
 </script>
 
