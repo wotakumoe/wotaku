@@ -313,6 +313,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [Cubari Proxy](https://proxy.cubari.moe/#/) <Badge type="info" text="Alt" link="https://manga.guru/#/" />
 - [Manga Katana](https://mangakatana.com/)
 - [Hachi](https://hachi.moe/) 
+- [Novelmic](https://novelmic.com/) <Badge type="info" text="Manhua" />
 - [Mangahasu](https://mangahasu.se/)
 - [Mangahub](https://mangahub.io/) :acc:
 - [Manga Buddy](https://mangabuddy.com/home) <Badge type="info" text="2" link="https://mangamirror.com/home-page" /> <Badge type="info" text="3" link="https://mangaforest.com/home" />
