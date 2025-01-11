@@ -3,6 +3,8 @@ title: Merch
 description: Everything merch related!
 customDescription: Get information & guides on figurines, plushes, books, CDs, and more.
 outline: 2
+og:
+  image: https://files.catbox.moe/b7hmee.png
 ---
 
 <GradientCard title="Merch" description="Information on figurines, plushes, books, CDs and more!" theme="turquoise" variant="thin"/>
