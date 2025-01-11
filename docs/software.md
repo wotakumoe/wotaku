@@ -355,7 +355,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 | **Solution**  | **Client/Tools**  |
 |-|-|
-| [Jellyfin](https://jellyfin.org/) | [Jellyfin MPV Shim](https://github.com/jellyfin/jellyfin-mpv-shim) <br> [Jellyfin-RPC](https://github.com/Radiicall/jellyfin-rpc) <br> [Streamyfin](https://github.com/streamyfin/streamyfin) :and::app: |
+| [Jellyfin](https://jellyfin.org/) | [Jellyfin MPV Shim](https://github.com/jellyfin/jellyfin-mpv-shim) <br> [Jellyfin-RPC](https://github.com/Radiicall/jellyfin-rpc) <br> [Jellyfin shikimori plugin](https://github.com/te9c/jellyfin-shikimori-plugin) <br> [Streamyfin](https://github.com/streamyfin/streamyfin) :and::app: |
 | [Kavita](https://www.kavitareader.com/) | [komf](https://github.com/Snd-R/komf) <Badge type="tip" text="Script" link="https://github.com/Snd-R/komf-userscript" /> |
 | [Komga](https://komga.org/) | [Komelia](https://github.com/Snd-R/Komelia) :and::win::lin: <br> [komf](https://github.com/Snd-R/komf) <Badge type="tip" text="Script" link="https://github.com/Snd-R/komf-userscript" /> <br> [Komga Bulk Download Helper](https://github.com/darthmooguy/komga-bulk-download-helper) :js: |
 | [LANraragi](https://sugoi.gitbook.io/lanraragi/v/dev) | [Ichaival](https://github.com/Utazukin/Ichaival) :and: <br> [LANreader](https://github.com/Doraemoe/LANreader) :app: <br> [LRReader](https://github.com/Guerra24/LRReader) :win: |
@@ -366,7 +366,6 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 :::
 
 ## OCR / Translator
-- [Sugoi Translation Toolkit](https://blog.sugoitoolkit.com/) :cs:
 - [Ballons Translator](https://github.com/dmMaze/BallonsTranslator)
 - [Capture2text](https://capture2text.sourceforge.net/)
 - [Imagetrans](https://www.basiccat.org/imagetrans/) :cs:
@@ -375,6 +374,8 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Mokuro](https://github.com/kha-white/mokuro)
 - [OwOCR](https://github.com/AuroraWright/owocr)
 - [Poricom](https://github.com/blueaxis/Poricom)
+- [Sugoi Translation Toolkit](https://blog.sugoitoolkit.com/) :cs:
+- [Transformers OCR](https://github.com/Ajatt-Tools/transformers_ocr)
 - [Yomiwa](https://www.yomiwa.net/) :cs:
 - :more: [OCR Game tools](https://wotaku.wiki/games#tools)
 
