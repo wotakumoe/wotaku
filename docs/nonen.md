@@ -80,6 +80,10 @@ If you have recommendations for good sites in your native language or want to re
 ### Everything
 - [Fansubs.cat](https://www.fansubs.cat/)
 - [Hentai.cat](https://www.hentai.cat/) <Badge type="danger" text="18+" />
+- [SX3](https://www.3cat.cat/tv3/sx3/x3/) <Badge type="tip" text="TV" link="https://www.3cat.cat/tv3/sx3/directe/" />
+- [TotsRucs](http://www.totsrucs.cat/) :mag:
+- [UnionFansub](https://foro.unionfansub.com/) :mag::acc:
+- [Doblatge d'Anime en Català](https://doblatgeanimecatala.blogspot.com/)
 
 
 ## Chinese
@@ -537,9 +541,9 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 ### Anime
 
 - **Stream**
-  - [AnimeFLV](https://www3.animeflv.net/)
+  - [AnimeOnlineNinja](https://ww3.animeonline.ninja/)
   - [Latanime](https://latanime.org/) <Badge type="info" text="Dub" />
-  - [AnimeOnlineNinja](https://ww3.animeonline.ninja/) <Badge type="info" text="Dub" />
+  - [AnimeFLV](https://www3.animeflv.net/)
   - [JKAnime](https://jkanime.net/)
   - [TioAnime](https://tioanime.com/)
   - [OtakusTV](https://www1.otakustv.com/)
@@ -552,15 +556,21 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
   - [Nekomitai](https://nekomitai.net/)
   - [Ivanime](https://www.ivanime.com/)
   - [DW Anime](https://dw-anime.net/)
-  - [Union Fansub](https://foro.unionfansub.com/index.php) :mag:
+  - [Union Fansub](https://foro.unionfansub.com/index.php) :mag::acc:
   - [Frozen Layer](https://www.frozen-layer.com/) :mag:
-  - [:tg: YaichiList](https://t.me/addlist/xA7wYMGu0CI2YzBh)
+  - [:tg: YaichiList](https://t.me/addlist/xA7wYMGu0CI2YzBh) :strm:
 
 ### Manga
 - [TuMangaOnline](https://zonatmo.com/) <Badge type="info" text="2" link="https://lectormanga.com/" />
 - [Plot Twist No Fansub](https://plotnf.com/)
 - [AnzMangas](https://www.anzmangashd.com/)
 - [Manga Crab](https://mangacrab.com/)
+
+### Light Novels
+- [ZeePubs](https://zeepubs.wordpress.com/)
+- [Fukou-Da](https://fukou-da.net/novels)
+- [Rock Valley Novels](https://rockvalleynovels.wixsite.com/kardia037)
+- [Next Novels](https://nextnovels.com/)
 
 ### News
 - [ANMOSugoi](https://www.anmosugoi.com/)
