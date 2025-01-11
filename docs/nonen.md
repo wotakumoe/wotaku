@@ -41,23 +41,20 @@ If you have recommendations for good sites in your native language or want to re
 ## Arabic
 
 ### Anime
-- [Anime4up](https://w1.anime4up.tv/)
+- [Anime3rb](https://anime3rb.com/)
+- [Anime4up](https://anime4up.rest/)
 - [Animeblkom](https://blkom.com/)
-- [Animelek](https://animelek.me/)
-- [Animerco](https://animerco.com/)
+- [Animelek](https://animelek.vip/)
+- [Animerco](https://web.animerco.org/)
 - [Arabic Toons](https://www.arabic-toons.com/)
 - [Okanime](https://okanime.tv/)
-- [Wit anime](https://witanime.com/)
-- [XSAnime](https://v.xsanime.com/)
+- [WitAnime](https://witanime.cyou/)
 
 ### Manga
 - [3asQ](https://3asq.org/)
 - [Ares Manga](https://fl-ares.com/)
 - [Azora Moon](https://azoramoon.com/)
-- [G Manga](https://gmanga.org/)
-- [Manga Arabic](https://mangarabic.com/)
-- [Swat Manhua](https://swatmanhua.com/)
-- [Team x](https://team11x11.com/)
+- [SWAT Manga](https://swatscans.com/)
 
 ### Software
 
