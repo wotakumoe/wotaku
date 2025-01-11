@@ -388,7 +388,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [DeaDBeeF](https://deadbeef.sourceforge.io/) :lin:
 - [Elisa](https://apps.kde.org/elisa/) :win::app::lin: [:kde:](https://invent.kde.org/multimedia/elisa)
 - [Foobar2000](https://www.foobar2000.org/) :s::win::app::cs:
-  - :more: [Foobar2000 add-ons](#foobar2000-add-ons)
+  - [Foobar2000 add-ons](#foobar2000-add-ons)
 - [Fooyin](https://github.com/fooyin/fooyin)
 - [MusicBee](https://www.getmusicbee.com/) :win::cs:
 - [Strawberry](https://www.strawberrymusicplayer.org/) :lin:
@@ -461,7 +461,7 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 - [X Lossless Decoder](https://tmkk.undo.jp/xld/index_e.html) :app:
 - [Whipper](https://github.com/whipper-team/whipper) :lin:
 
-::: details :more: Must Read Guides
+::: details Must Read Guides
 - [redacted Interview Prep](https://interviewfor.red/en/index.html)
 - [Sharky's Guide](https://docs.google.com/document/d/1Poj4p2W0C0Napmwd7bcustlgWrkgp71dy9HlZwUr46w/edit)
   - [Exact Audio Copy: A Guide to Perfect CD Rips](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg)

@@ -28,7 +28,7 @@ og:
 - [Awery](https://github.com/MrBoomDeveloper/Awery) [:e:](/guides/tech/repo)
 - [Himitsu](https://repodevil.vercel.app/) [:gl:](https://gitlab.com/RepoDevil/himitsu) [:e:](/guides/tech/repo)
 - [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one)
-  - :more: [Stremio Tools](#anime-tools)
+  - [Stremio Tools](#anime-tools)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [AnymeX](https://anymex.vercel.app/) [:gh:](https://github.com/RyanYuuki/AnymeX)
 - [Miru App](https://miru.js.org/) [:gh:](https://github.com/miru-project/miru-app)
@@ -40,7 +40,7 @@ og:
 - [Cloudstream](https://cloudstream.on.fleek.co/) [:gh:](https://github.com/recloudstream/cloudstream)
 - [Migu](https://miguapp.pages.dev/) [:gh:](https://github.com/NoCrypt/migu)
 - [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one)
-  - :more: [Stremio Tools](#anime-tools)
+  - [Stremio Tools](#anime-tools)
 - [AnimeTV](https://amarullz.com/) [:gh:](https://github.com/amarullz/AnimeTV)
 - [Crunchyroll for TIZEN](https://github.com/jhassan8/crunchyroll-tizen)
 :::
@@ -173,7 +173,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 - [Miru](https://miru.watch/) :s::win::app::lin::mag: [:gh:](https://github.com/ThaUnknown/miru/)
   - [Migu](https://miguapp.pages.dev/) [:gh:](https://github.com/NoCrypt/migu)
 - [Stremio](https://www.stremio.com/) :win::app::lin::mag::ddl:
-  - :more: [Stremio Tools](#anime-tools)
+  - [Stremio Tools](#anime-tools)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi) :win::app::lin::mag::ddl:
 - [Seanime](https://seanime.rahim.app/) :win::app::lin::mag::ddl: [:gh:](https://github.com/5rahim/seanime)
 - [Unyo](https://github.com/K3vinb5/Unyo) :win::app::lin::ddl:

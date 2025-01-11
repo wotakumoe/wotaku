@@ -118,7 +118,7 @@ og:
 
 ### Video Player
 - [mpv](https://mpv.io/) :s::win::app::lin: [:gh:](https://github.com/mpv-player/mpvs)
-  - :more: [mpv Resources](#mpv)
+  - [mpv Resources](#mpv)
 - [SMPlayer](https://www.smplayer.info/) :win::app::lin: [:gh:](https://github.com/smplayer-dev/smplayer)
 - [IINA](https://iina.io/) :app: [:gh:](https://github.com/iina/iina)
 - [MPC-HC](https://github.com/clsid2/mpc-hc) :win:
@@ -213,7 +213,7 @@ og:
 - [Nyuu](https://github.com/animetosho/Nyuu)
 - [ngPost](https://github.com/mbruel/ngPost)
 
-::: details :more: Related resources
+::: details Related resources
 - [r/usenet](https://old.reddit.com/r/usenet/) :s:
 - [r/UsenetInvites](https://old.reddit.com/r/UsenetInvites/)
 - [A Guideline to usenet and how to setup Automation](https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/mobilebasic)

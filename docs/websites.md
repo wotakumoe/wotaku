@@ -584,7 +584,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 | Music | [Redacted](https://redacted.sh/) <br> [JPopsuki](https://jpopsuki.eu/) <br> [Orpheus](https://orpheus.network/) <br> [Sugoi Music](https://sugoimusic.me/) <br> [Bemaniso](https://bemaniso.ws/) `Rhythm` <br> [Aidoru](https://aidoru-online.me/) `Idol` |
 | NSFW | [ExoticaZ](https://exoticaz.to/) [:d:](https://discord.gg/GYahYNWutE)<br> [Empornium](https://www.empornium.is/) |
 
-::: details :more: Related resources
+::: details Related resources
 - [InstallGentoo Wiki](https://wiki.installgentoo.com/wiki/Private_trackers) :s:
 - [Invite route graph](https://inviteroute.github.io/graph/)
 - [Redacted Interview Prep](https://interviewfor.red/en/index.html)
