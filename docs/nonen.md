@@ -71,14 +71,15 @@ If you have recommendations for good sites in your native language or want to re
 - [AnimeOverdose](https://www.anime-overdose.com/)
 - [Anime Srbija](https://www.animesrbija.com/)
 
-### Others
-- [Potamanime](https://potamanime.rs/) <Badge type="info" text="News" />
+### News
+- [Potamanime](https://potamanime.rs/)
 
 
-## Bangla
+## Catalan
 
-### Anime
-- [Bangla Dub Zone](http://bangladubzone.xyz/)
+### Everything
+- [Fansubs.cat](https://www.fansubs.cat/)
+- [Hentai.cat](https://www.hentai.cat/) <Badge type="danger" text="18+" />
 
 
 ## Chinese
@@ -225,7 +226,7 @@ If you have recommendations for good sites in your native language or want to re
 ## Greek
 
 ### Anime
-- [An1me](https://an1me.io/)
+- [An1me](https://an1me.to/)
 
 
 ## Hebrew
@@ -546,7 +547,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
   - [Tio Donghua](https://tiodonghua.com/)
   - [HentaiLA](https://www5.hentaila.com/) <Badge type="danger" text="18+" />
 - **Download**
-  - [Japan Paw](https://japan-paw.net/)
+  - [Japan Paw](https://japanpaw.com/)
   - [SphinxAnime](https://sphinxanime.com/)
   - [Nekomitai](https://nekomitai.net/)
   - [Ivanime](https://www.ivanime.com/)
@@ -556,10 +557,9 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
   - [:tg: YaichiList](https://t.me/addlist/xA7wYMGu0CI2YzBh)
 
 ### Manga
-- [TuMangaOnline](https://visortmo.com/) <Badge type="info" text="2" link="https://lectormanga.com/" />
+- [TuMangaOnline](https://zonatmo.com/) <Badge type="info" text="2" link="https://lectormanga.com/" />
 - [Plot Twist No Fansub](https://plotnf.com/)
 - [AnzMangas](https://www.anzmangashd.com/)
-- [Leer Manga](https://r2.leermanga.xyz/)
 - [Manga Crab](https://mangacrab.com/)
 
 ### News
