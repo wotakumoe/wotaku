@@ -267,7 +267,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 ### Novels
 - [WebtoEpub](https://github.com/dteviot/WebToEpub) :ff::cr:
 - [Epublifier](https://github.com/maoserr/epublifier) :ff::cr:
-- [Novel Crawler](https://github.com/dipu-bd/lightnovel-crawler) :win::app::lin:
+- [Lightnovel Crawler](https://github.com/dipu-bd/lightnovel-crawler) :win::app::lin:
 
 
 ## Anime Tools
