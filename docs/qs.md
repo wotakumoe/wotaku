@@ -127,12 +127,6 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 ::: tip [**Click here**](/guides/tech/adblock) for full adblock solutions.
 :::
 
-### Browsers
-
-- [Firefox](https://www.mozilla.org/en-US/firefox/browsers/) :and::win::app::lin:
-- [Brave](https://brave.com/) :and::win::app::lin:
-- [Librewolf](https://librewolf.net/) :win::app::lin:
-
 
 ### Database & Tracker
 
@@ -163,27 +157,25 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
   - [qBittorrent](https://www.qbittorrent.org/) :win::app::lin:
   - [Transmission](https://transmissionbt.com/) :win::app::lin:
 
-::: details Suggested VPN services
+### VPN
 
-#### Paid
-- [AirVPN](https://airvpn.org/)
-- [Cryptostorm](https://cryptostorm.is/)
-- [IVPN](https://www.ivpn.net/) 
-- [Mullvad](https://mullvad.net/) <Badge type="tip" text="No port forwarding" />
-- [nVPN](https://nvpn.net/)
-- [OVPN](https://www.ovpn.com/)
-- [Proton](https://protonvpn.com/) :fm:<tooltip>The free tier doesn't support torrenting.</tooltip>
-- [Windscribe](https://windscribe.com/) :fm:
-- [Xeovo](https://xeovo.com/)
+| Feature          | [AirVPN](https://airvpn.org/) | [IVPN](https://www.ivpn.net/en/) | [Mullvad](https://mullvad.net/en) | [Proton](https://protonvpn.com/) | [Windscribe](https://windscribe.com/) |
+| ---------------- | ----------------------------- | -------------------------------- | --------------------------------- | -------------------------------- | ------------------------------------- |
+| **2FA**          | :yes:                         | :yes:                            | :no:                              | :yes:                            | :yes:                                 |
+| **Based in**     | Italy                         | Gibraltar                        | Sweden                            | Switzerland                      | Canada                                |
+| **Crypto**       | :yes:                         | :yes:                            | :yes:                             | :yes:                            | :yes:                                 |
+| **IPv6**         | :yes:                         | :yes:                            | :yes:                             | :yes:                            | :yes:                                 |
+| **Japan Server** | :yes:                         | :yes:                            | :yes:                             | :yes:                            | :yes:                                 |
+| **Kill Switch**  | :yes:                         | :yes:                            | :yes:                             | :yes:                            | :yes:                                 |
+| **Multi-hop**    | :no:                          | :yes:                            | :yes:                             | :yes:                            | :yes:                                 |
+| **OpenVPN**      | :yes:                         | :yes:                            | :yes:                             | :yes:                            | :yes:                                 |
+| **Port Forward** | :yes:                         | :no:                             | :no:                              | :yes:                            | :yes:                                 |
+| **RAM-only**     | :yes:                         | :no:                             | :yes:                             | :no:                             | :yes:                                 |
+| **WireGuard**    | :yes:                         | :yes:                            | :yes:                             | :yes:                            | :yes:                                 |
 
-#### Free VPNs
-- [WARP](https://one.one.one.one/)
-  - [WARP through WireGuard](https://rentry.co/foss-warp)
-  - [wgcf](https://github.com/ViRb3/wgcf)
-  - [Oblivion](https://github.com/bepass-org/oblivion-desktop)
-- [RiseupVPN](https://riseup.net/en/vpn)
-
-<Button link="https://www.techlore.tech/vpn" icon="i-mdi-lightbulb-alert-outline">Go through Techlore's VPNs comparison for more details</Button>
+::: tip Readme
+This overview lists the paid features, the free tier (if a VPN has it) would be more limited. There are free vpns like [WARP](https://one.one.one.one/) and [Riseup vpn](https://riseup.net/en/vpn) but they weren't consisdered because of their reliability and lack of features. Go through [Techlore's VPNs comparison](https://www.techlore.tech/vpn) for more comparisons.
+:::
 
 ::: danger Never use Cracked / Modded VPN {open}
 You should never use cracked or modded VPN cause all of your traffic will go through that VPN. So using a compromised VPN is extremely risky.

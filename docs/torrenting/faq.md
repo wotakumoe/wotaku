@@ -59,31 +59,7 @@ The distribution (here seeding / uploading) of pirated content is illegal. In pe
 :::
 
 :::details What VPN should I use? Free or Paid?
-
-It has various variables. The free VPNs are very limited such as untrusted owner, data cap, very few servers or very slow speed. Also, it's not like, all the paid VPNs are great. The ownership of the VPN company, the transparency or how they handle government bodies matter a lot.
-
-### Paid VPNs
-- [AirVPN](https://airvpn.org/)
-- [Cryptostorm](https://cryptostorm.is/)
-- [IVPN](https://www.ivpn.net/)
-- [Mullvad](https://mullvad.net/) <Badge type="tip" text="No port forwarding" />
-- [nVPN](https://nvpn.net/)
-- [OVPN](https://www.ovpn.com/)
-- [Proton](https://protonvpn.com/) :fm:<tooltip>The free tier doesn't support torrenting.</tooltip>
-- [Windscribe](https://windscribe.com/) :fm:
-- [Xeovo](https://xeovo.com/)
-
-### Free VPNs
-- [WARP](https://one.one.one.one/)
-  - [WARP through WireGuard](https://rentry.co/foss-warp)
-  - [wgcf](https://github.com/ViRb3/wgcf)
-  - [Oblivion](https://github.com/bepass-org/oblivion-desktop)
-- [RiseupVPN](https://riseup.net/en/vpn)
-
-<Button link="https://www.techlore.tech/vpn" icon="i-mdi-lightbulb-alert-outline">Go through Techlore's VPNs comparison for more details</Button>
-
-::: danger Never use Cracked / Modded VPN {open}
-You should never use cracked or modded VPN cause all of your traffic will go through that VPN. So using a compromised VPN is extremely risky.
+Check our [VPN section](/qs#vpn).
 :::
 
 :::details What are private trackers?
