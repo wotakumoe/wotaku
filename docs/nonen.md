@@ -77,12 +77,17 @@ If you have recommendations for good sites in your native language or want to re
 
 ## Catalan
 
-### Everything
-- [Fansubs.cat](https://www.fansubs.cat/)
-- [Hentai.cat](https://www.hentai.cat/) <Badge type="danger" text="18+" />
-- [SX3](https://www.3cat.cat/tv3/sx3/x3/) <Badge type="tip" text="TV" link="https://www.3cat.cat/tv3/sx3/directe/" />
-- [TotsRucs](http://www.totsrucs.cat/) :mag:
-- [UnionFansub](https://foro.unionfansub.com/) :mag::acc:
+### Anime / Manga
+
+- **Online**
+  - [Fansubs.cat](https://www.fansubs.cat/)
+  - [Hentai.cat](https://www.hentai.cat/) <Badge type="danger" text="18+" />
+  - [SX3](https://www.3cat.cat/tv3/sx3/x3/) <Badge type="tip" text="TV" link="https://www.3cat.cat/tv3/sx3/directe/" />
+- **Download**
+  - [TotsRucs](http://www.totsrucs.cat/) :mag:
+  - [UnionFansub](https://foro.unionfansub.com/) :mag::acc:
+
+### News
 - [Doblatge d'Anime en Català](https://doblatgeanimecatala.blogspot.com/)
 
 
@@ -556,7 +561,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
   - [Nekomitai](https://nekomitai.net/)
   - [Ivanime](https://www.ivanime.com/)
   - [DW Anime](https://dw-anime.net/)
-  - [Union Fansub](https://foro.unionfansub.com/index.php) :mag::acc:
+  - [Union Fansub](https://foro.unionfansub.com/) :mag::acc:
   - [Frozen Layer](https://www.frozen-layer.com/) :mag:
   - [:tg: YaichiList](https://t.me/addlist/xA7wYMGu0CI2YzBh) :strm:
 
