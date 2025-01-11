@@ -162,6 +162,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | Feature          | [AirVPN](https://airvpn.org/) | [IVPN](https://www.ivpn.net/en/) | [Mullvad](https://mullvad.net/en) | [Proton](https://protonvpn.com/) | [Windscribe](https://windscribe.com/) |
 | ---------------- | ----------------------------- | -------------------------------- | --------------------------------- | -------------------------------- | ------------------------------------- |
 | **2FA**          | :yes:                         | :yes:                            | :no:                              | :yes:                            | :yes:                                 |
+| **Audits**       | :no:                          | :yes:                            | :yes:                             | :yes:                            | :yes:                                 |
 | **Based in**     | Italy                         | Gibraltar                        | Sweden                            | Switzerland                      | Canada                                |
 | **Crypto**       | :yes:                         | :yes:                            | :yes:                             | :yes:                            | :yes:                                 |
 | **IPv6**         | :yes:                         | :yes:                            | :yes:                             | :yes:                            | :yes:                                 |
@@ -174,7 +175,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | **WireGuard**    | :yes:                         | :yes:                            | :yes:                             | :yes:                            | :yes:                                 |
 
 ::: tip Readme
-This overview lists the paid features, the free tier (if a VPN has it) would be more limited. There are free vpns like [WARP](https://one.one.one.one/) and [Riseup vpn](https://riseup.net/en/vpn) but they weren't consisdered because of their reliability and lack of features. Go through [Techlore's VPNs comparison](https://www.techlore.tech/vpn) for more comparisons.
+This overview (**<u>not</u>** ranking) lists the paid features, the free tier (if a VPN has it) would be more limited. There are free vpns like [WARP](https://one.one.one.one/) and [Riseup vpn](https://riseup.net/en/vpn) but they weren't consisdered because of their reliability and lack of features. Go through [Techlore's VPNs comparison](https://www.techlore.tech/vpn) for more comparisons.
 :::
 
 ::: danger Never use Cracked / Modded VPN {open}
