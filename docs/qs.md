@@ -164,6 +164,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | **2FA**          | :yes:                         | :yes:                            | :no:                              | :yes:                            | :yes:                                 |
 | **Audits**       | :no:                          | :yes:                            | :yes:                             | :yes:                            | :yes:                                 |
 | **Based in**     | Italy                         | Gibraltar                        | Sweden                            | Switzerland                      | Canada                                |
+| **Crypto**       | :yes:                         | :yes:                            | :yes:                             | :yes:                            | :yes:                                 |
 | **Japan Server** | :yes:                         | :yes:                            | :yes:                             | :yes:                            | :yes:                                 |
 | **Kill Switch**  | :yes:                         | :yes:                            | :yes:                             | :yes:                            | :yes:                                 |
 | **Multi-hop**    | :no:                          | :yes:                            | :yes:                             | :yes:                            | :yes:                                 |
