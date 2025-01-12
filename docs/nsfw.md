@@ -134,21 +134,24 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 # Software
 
 ## Android
-- [Komikku](https://github.com/komikku-app/komikku) [:e:](/guides/tech/repo)
-- [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta) [:e:](/guides/tech/repo)
-- [EhViewer-FooIbar](https://github.com/FooIbar/EhViewer)
-- [EhViewer-NekoInverter](https://github.com/EhViewer-NekoInverter/EhViewer)
-- [ErosFE](https://github.com/3003h/Eros-FE)
-- [Hentoid](https://github.com/avluis/Hentoid)
-- [JHenTai](https://github.com/jiangtian616/JHenTai)
-- [Jasmine](https://github.com/niuhuan/jasmine)
-- [NClientV3](https://github.com/maxwai/NClientV3) <Badge type="tip" text="V2" link="https://github.com/Dar9586/NClientV2" />
-- [Pupil](https://github.com/tom5079/Pupil)
+- **General**
+  - [Komikku](https://github.com/komikku-app/komikku) [:e:](/guides/tech/repo)
+  - [Hentoid](https://github.com/avluis/Hentoid)
+  - [Jasmine](https://github.com/niuhuan/jasmine)
+  - [Pupil](https://github.com/tom5079/Pupil)
+  - [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta) [:e:](/guides/tech/repo)
+- **E-Hentai**
+  - [EhViewer-FooIbar](https://github.com/FooIbar/EhViewer)
+  - [EhViewer-NekoInverter](https://github.com/EhViewer-NekoInverter/EhViewer)
+  - [ErosFE](https://github.com/3003h/Eros-FE)
+  - [JHenTai](https://github.com/jiangtian616/JHenTai)
+- **nHentai**
+  - [NClientV3](https://github.com/maxwai/NClientV3) <Badge type="tip" text="V2" link="https://github.com/Dar9586/NClientV2" />
+  - [nhviewer universal](https://github.com/ttdyce/nhviewer-universal)
 
 ## iOS
 - [EhPanda](https://github.com/EhPanda-Team/EhPanda)
 - [ErosFE](https://github.com/3003h/Eros-FE)
-- [FEhViewer](https://github.com/3003h/FEhViewer)
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
 - [Jasmine](https://github.com/niuhuan/jasmine)
 
