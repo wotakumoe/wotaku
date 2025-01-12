@@ -1,6 +1,8 @@
 ---
 title: Network Stream
 customDescription: Stream video files through DDL, IRC, and Torrent. Enjoy seamless online video streaming!
+og:
+    image: https://files.catbox.moe/ys1mv5.png
 ---
 
 <GradientCard title="Network Stream" description="Network streaming DDL, IRC and Torrent video files." theme="turquoise" variant="thin"/>

@@ -69,6 +69,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **トゥーミ (Twumi)** | [Chibi Nadeshiko Kagamihara](https://www.pixiv.net/en/artworks/67505931) | [Essentials banner](/qs#essentials) |
 | **tyasuzu** | [Ryo Yamada](https://www.pixiv.net/en/artworks/104004187) | [Music banner](/music#stream) |
 | **WayForward** | [Risky Boots](https://shantae.fandom.com/wiki/Risky_Boots) | [PT banner](/websites#private-trackers) |
+| **夏優Sieg (Xiayou Sieg)** | [A Street in Another World](https://www.pixiv.net/en/artworks/121786919) | Guide default link embed |
 | **柱 (youamo)** | [Antonina](https://42lab-us.sunborngame.com/index) | [Music banner](/music#server) |
 
 

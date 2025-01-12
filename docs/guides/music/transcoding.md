@@ -2,6 +2,8 @@
 title: Transcoding Audio
 description: Basic guide for transcoding audio file using foobar2000
 customDescription: Basic guide for transcoding audio file using foobar2000
+og:
+    image: https://files.catbox.moe/ys1mv5.png
 ---
 
 <GradientCard title="Transcoding Audio" description="Basic transcoding guide for audio file using foobar2000" theme="turquoise" variant="thin"/>

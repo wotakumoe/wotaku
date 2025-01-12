@@ -1,6 +1,8 @@
 ---
 title: JDownloader2 AD Removal
 customDescription: Remove banner & Pop-up ads from JDownloader2
+og:
+    image: https://files.catbox.moe/ys1mv5.png
 ---
 
 <GradientCard title="JDL AD Removal" description="Remove banner & Pop-up ads from JDL2" theme="turquoise" variant="thin"/>

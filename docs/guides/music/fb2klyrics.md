@@ -1,7 +1,8 @@
 ---
 exclude: true
+og:
+    image: https://files.catbox.moe/ys1mv5.png
 ---
-
 <GradientCard title="Foobar2000 Synced Lyrics" theme="turquoise" variant="thin"/>
 
 

@@ -3,6 +3,8 @@ title: JXL Manga Readers
 description: Manga readers with JPEG XL / JXL support for Android, iOS & PC
 customDescription: Manga readers with JPEG XL / JXL support for Android, iOS & PC
 outline: [2,3]
+og:
+    image: https://files.catbox.moe/ys1mv5.png
 ---
 
 <GradientCard title="JXL Manga Readers" description="Manga readers with JPEG XL / JXL support for Android, iOS & PC" theme="turquoise" variant="thin"/>

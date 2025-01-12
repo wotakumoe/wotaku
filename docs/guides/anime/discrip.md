@@ -1,6 +1,8 @@
 ---
 title: Disc Ripping
 customDescription: Guide on how to rip DVD, Blu-ray, and UHD Discs conversions to MKV and ISO formats.
+og:
+    image: https://files.catbox.moe/ys1mv5.png
 ---
 
 <GradientCard title="Disc Ripping" description="Guide on how to rip DVD, Blu-ray, and UHD Discs" theme="turquoise" variant="thin"/>

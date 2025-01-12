@@ -2,6 +2,8 @@
 title: Mihon, Aniyomi & Dantotsu Extension Repos
 customDescription: Extension Repos & Guides Mihon, Aniyomi, Dantotsu, Aidoku, Paperback & Suwatte
 outline: [2,3]
+og:
+    image: https://files.catbox.moe/ys1mv5.png
 ---
 
 <GradientCard title="Extension Repos" description="Mihon, Aniyomi & Dantotsu Extension Repos & Guides" theme="turquoise" variant="thin"/>

@@ -1,6 +1,8 @@
 ---
 title: Blocking Ads & Annoyances
 customDescription: Adblocking Solutions for every device
+og:
+    image: https://files.catbox.moe/ys1mv5.png
 ---
 
 <GradientCard title="Blocking Ads" description="Adblocking Solutions for every device" theme="turquoise" variant="thin"/>
