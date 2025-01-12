@@ -60,8 +60,8 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [MikuDB](https://discord.gg/w9Dq25n)
 
 ### N-Z
-- [NanDesuKa](https://discord.gg/RZN95Yer7d)
 - [OTAQUEST](https://discord.gg/SCHR2QB)
+- [Privateersclub](https://discord.gg/jz8dUnnD6Q)
 - [Scanner Usage School](https://discord.gg/NCzxVB9)
 - [Sho Habby Scans](https://discord.gg/GdV76sQs7d)
 - [Sitting on Clouds](https://discord.gg/x23SFbE)
