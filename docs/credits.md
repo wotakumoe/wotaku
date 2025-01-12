@@ -66,6 +66,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **tencross** | [Ainz Ooal Gown](https://vsbattles.fandom.com/wiki/Ainz_Ooal_Gown) | [Novel banner](/websites#novels) |
 | **Toei** | [Kamen Rider Imperial Demons](https://www.deviantart.com/stainrender/art/Kamen-Rider-Imperial-Demons-Render-1025700355) | [Tokusatsu banner](/websites#tokusatsu) |
 | **たくぼん (Tokubon)** | [Suichan wa~??](https://www.pixiv.net/en/artworks/82665330) | Music link embed |
+| **トパドリ (Topadori)** | [Patchouli](https://www.pixiv.net/en/artworks/95111697) | Glossary default link embed |
 | **トゥーミ (Twumi)** | [Chibi Nadeshiko Kagamihara](https://www.pixiv.net/en/artworks/67505931) | [Essentials banner](/qs#essentials) |
 | **tyasuzu** | [Ryo Yamada](https://www.pixiv.net/en/artworks/104004187) | [Music banner](/music#stream) |
 | **WayForward** | [Risky Boots](https://shantae.fandom.com/wiki/Risky_Boots) | [PT banner](/websites#private-trackers) |

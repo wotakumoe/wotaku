@@ -3,7 +3,7 @@ title: Manga Image Editing
 customDescription: Image Magick guide for Grayscaling, Leveling, and Optimizing
 outline: [2,3]
 og:
-    image: https://files.catbox.moe/ys1mv5.png
+    image: https://files.catbox.moe/l2g45x.png
 ---
 
 <GradientCard title="Manga Image Editing" description="Image Magick guide for Grayscaling, Leveling, and Optimizing" theme="turquoise" variant="thin"/>

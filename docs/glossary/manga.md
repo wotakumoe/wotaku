@@ -3,7 +3,7 @@ title: Manga Glossary
 customDescription: Manga related terms that you have to know!
 outline: [2,3]
 og:
-    image: https://files.catbox.moe/l2g45x.png
+    image: https://files.catbox.moe/ys1mv5.png
 ---
 
 <GradientCard title="Manga Glossary" description="Manga portion of the Wotaku glossary!" theme="turquoise" variant="thin"/>

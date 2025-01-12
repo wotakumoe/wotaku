@@ -2,7 +2,7 @@
 title: Squidify
 customDescription: Guide on how to use squidify on various devices. 
 og:
-    image: https://files.catbox.moe/ys1mv5.png
+    image: https://files.catbox.moe/l2g45x.png
 ---
 
 <GradientCard title="Squidify" description="Guide on how to use squidify on various devices" theme="turquoise" variant="thin"/>

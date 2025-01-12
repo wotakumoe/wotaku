@@ -2,7 +2,7 @@
 title: IRC & XDCC
 customDescription: Basic guide on how to use IRC.
 og:
-    image: https://files.catbox.moe/ys1mv5.png
+    image: https://files.catbox.moe/l2g45x.png
 ---
 
 <GradientCard title="IRC & XDCC" description="Basic guide on how to use IRC" theme="turquoise" variant="thin"/>

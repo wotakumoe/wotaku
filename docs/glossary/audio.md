@@ -3,7 +3,7 @@ title: Audio Glossary
 customDescription: Audio terms that you need to know
 outline: [1,2]
 og:
-    image: https://files.catbox.moe/l2g45x.png
+    image: https://files.catbox.moe/ys1mv5.png
 ---
 
 

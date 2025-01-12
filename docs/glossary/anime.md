@@ -2,7 +2,7 @@
 title: Anime Glossary
 customDescription: Discover the anime related terms you should know!
 og:
-    image: https://files.catbox.moe/l2g45x.png
+    image: https://files.catbox.moe/ys1mv5.png
 ---
 
 <GradientCard title="Anime Glossary" description="Anime portion of the Wotaku glossary!" theme="turquoise" variant="thin"/>

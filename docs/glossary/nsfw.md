@@ -2,7 +2,7 @@
 title: NSFW Glossary
 customDescription: Why not learn some words while reading or watching? Can help while searching.
 og:
-    image: https://files.catbox.moe/l2g45x.png
+    image: https://files.catbox.moe/ys1mv5.png
 ---
 
 <GradientCard title="NSFW Glossary" description="Want to learn what those elusive tags on hentai sites mean? Then this page is for you!" theme="turquoise" variant="thin"/>

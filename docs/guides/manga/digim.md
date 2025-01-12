@@ -3,7 +3,7 @@ title: Digital Manga & Manhwa Info
 customDescription: "Information about digital manga & manhwa publishers on resolution"
 outline: [2,3]
 og:
-    image: https://files.catbox.moe/ys1mv5.png
+    image: https://files.catbox.moe/l2g45x.png
 ---
 
 <GradientCard title="Digital Comic Info" description="Information about digital comic publishers and quality." theme="turquoise" variant="thin"/>
