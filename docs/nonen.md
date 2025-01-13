@@ -174,8 +174,9 @@ If you have recommendations for good sites in your native language or want to re
 
 ### Anime
 
-- [AnimeKO](https://animeko.co/)
+- [AnimeKO](https://animeko.ws/)
 - [Anime-Sama](https://anime-sama.fr/)
+- [AnimesUltra](https://v6.animesultra.net/)
 - [FanKai](http://fankai.fr/) <Badge type="tip" text="2" link="https://linktr.ee/FanKai" />
 - [FRAnime](https://franime.fr/) <Badge type="tip" text="2" link="https://franime.to/" />
 - [French Anime](https://french-anime.com/)
@@ -184,6 +185,7 @@ If you have recommendations for good sites in your native language or want to re
 - [OtakuFR](https://otakufr.cc/)
 - [Sekai](https://sekai.one/)
 - [Streaming-integrale](https://streaming-integrale.com/)
+- [ToonAnime](https://fr.toonanime.biz/)
 - [Voiranime](https://v3.voiranime.com/) <Badge type="tip" text="Extension" link="https://github.com/Dastan21/BetterVoirAnime" />
 - [Vostfree](https://vostfree.ws/)
 
@@ -193,7 +195,7 @@ If you have recommendations for good sites in your native language or want to re
 - [LPEBK](https://www.lpebk.com/forumv2/) :ddl::acc:
 - [Mangadraft](https://www.mangadraft.com/)
 - [Planete-BD](https://planete-bd.org/)
-- [Raijin Scans](https://raijinscans.fr/)
+- [Raijin Scans](https://raijinscans.net/)
 - [Sushi-Scan](https://sushiscan.net/)
 
 ### Others
