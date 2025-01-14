@@ -638,7 +638,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 ### Comics
 - [Bao Tang Truyen](https://baotangtruyen23.com/)
-- [BlogTruyenMoi](https://blogtruyenmoi.com/)
 - [Cuu Truyen](https://cuutruyen.net/)
 - [Fecomic](https://fftruyen.net/)
 - [Goc Truyen Tranh](https://goctruyentranhvui6.com/trang-chu)
