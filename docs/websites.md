@@ -361,9 +361,9 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 
 #### Aggregators
 - [Madokami](https://manga.madokami.al) :s: <Badge type="info" text="Guide" link="/guides/manga/madokami" />
-- [Anna's Archive](https://annas-archive.org/) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
+- [Anna's Archive](https://annas-archive.org/) <Badge type="info" text="Proxies" link="https://rentry.org/wotaxy#annas-archive" /> <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
 - [Desuarchive](https://desuarchive.org/) :f: <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
-- [Library Genesis](https://libgen.gs/)
+- [Library Genesis+](https://libgen.gs/) <Badge type="info" text="Proxies" link="https://rentry.org/wotaxy#library-genesis" />
 - [Internet Archive](https://archive.org/)
 
 #### Rippers
@@ -457,9 +457,9 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [Elscione Official LNs](https://server.elscione.com/Officially%20Translated%20Light%20Novels/)
 - [Novel Onedrive Index](https://novel-indx.vercel.app/)
 - [Madokami](https://manga.madokami.al)
-- [Anna’s Archive](https://annas-archive.org/) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
-- [Library Genesis](https://libgen.gs/)
-- [Z-Library](https://z-lib.gs/) <Badge type="tip" text="2" link="https://z-lib.gd/" /> <Badge type="tip" text="3" link="https://1lib.sk/" /> <Badge type="tip" text="4" link="https://articles.sk/" />
+- [Anna’s Archive](https://annas-archive.org/) <Badge type="info" text="Proxies" link="https://rentry.org/wotaxy#annas-archive" /> <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
+- [Library Genesis+](https://libgen.gs/) <Badge type="info" text="Proxies" link="https://rentry.org/wotaxy#library-genesis" />
+- [Z-Library](https://z-lib.gs/) <Badge type="info" text="Proxies" link="https://rentry.org/wotaxy#z-library" />
 
 
 ## Audiobook
@@ -539,12 +539,12 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [View Comics](https://azcomix.me/)
 
 ## Direct Download
-- [Anna’s Archive](https://annas-archive.org/) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
+- [Anna’s Archive](https://annas-archive.org/) <Badge type="info" text="Proxies" link="https://rentry.org/wotaxy#annas-archive" /> <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
 - [Comics All](https://comics-all.com/) <Badge type="tip" text="2" link="https://newcomic.info/" />
 - [Comics For All](https://comicsforall269084760.wordpress.com/) <Badge type="info" text="Vintage"/>
 - [Desuarchive](https://desuarchive.org/) <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
 - [GetComics](https://getcomics.info/) :s:
-- [Library Genesis](https://libgen.gs/)
+- [Library Genesis+](https://libgen.gs/) <Badge type="info" text="Proxies" link="https://rentry.org/wotaxy#library-genesis" />
 - [Old Comics World](https://oldcomicsworld.blogspot.com/) <Badge type="info" text="Vintage"/>
 - [TheLongbox](https://thelongbox.net/) :acc:
 

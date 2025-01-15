@@ -52,7 +52,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 - **Download**
   - [Nyaa](https://nyaa.si/) :s::mag: <Badge type="info" text="Proxies" link="https://rentry.org/nyaap" />
   - [Madokami](https://manga.madokami.al) :s: <Badge type="info" text="Guide" link="/guides/manga/madokami" />
-  - [Library Genesis](https://libgen.gs/)
+  - [Library Genesis+](https://libgen.gs/) <Badge type="info" text="Proxies" link="https://rentry.org/wotaxy#library-genesis" />
 
 ### Software
 
