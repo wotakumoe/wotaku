@@ -17,6 +17,9 @@ og:
 - [Kuri's Immersion-Based Japanese Learning](https://donkuri.github.io/learn-japanese/)
 - [Acquiring Japanese Efficiently](https://docs.google.com/document/d/1LH82FjsCqCgp6-TFqUcS_EB15V7sx7O1VCjREp6Lexw/edit)
 - [DJT GUIDE](https://djtguide.neocities.org/guide)
+
+:::details More
+
 - [itazuraneko](https://djtguide.github.io/learn/guide.html)
 - [Refold Japanese](https://refold.la/roadmap/)  <Badge type="tip" text="Docs" link="https://docs.google.com/document/d/1tQmoGwCJQqmjdmaQdigAG0Ph1ODSMsGhsD7qOhlUuc0/edit" />
 - [Jo-Mako's Japanese Guide](https://sites.google.com/view/jo-mako/home)
@@ -28,6 +31,7 @@ og:
 - [Jazzy's Guide](https://rentry.co/jazzy180)
 - [Mordraug's Personal Japanese Observations Diary](https://docs.google.com/document/d/1kxYa53a2UjnpMZyHdU-YNuctkq6wHT3cJ00Z5poj2hY/edit)
 - [Inhae's blog](https://notes.inhae.blog/learning-japanese/)
+:::
 
 
 ## Kana
@@ -262,30 +266,12 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 
 ## Others
 
-### Communities 
-
-#### Discord
-- [Japanese Language Study Space](https://discord.gg/jlss)
-- [Marshall's Server](https://discord.gg/ejmrfwSYAH)
-- [NativShark](https://discord.gg/nativshark)
-- [Perdition](https://discord.gg/uK4HeGN)
-- [TheMoeWay](https://discord.gg/nhqjydaR8j) :s:
-- [ToKini Andy](https://discord.gg/WP7zYHC)
-- [JPDB](https://discord.gg/jWwVD7D2sZ)
-
-<br>
-
-#### Reddit
-- [AJATT](https://old.reddit.com/r/ajatt/)
-- [LearnJapanese](https://old.reddit.com/r/LearnJapanese/)
-
-<br>
-
-#### Others
-- [Conversation Exchange](https://www.conversationexchange.com/)
-- [Japanese Language Stack Exchange](https://japanese.stackexchange.com/)
-- [My Language Exchange](https://www.mylanguageexchange.com/)
-- [Tatsumoto](https://tatsumoto.neocities.org/blog/join-our-community)
+### Communities
+| Category      | Links                                                                                                                                                          |
+|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Discord**   | [Japanese Language Study Space](https://discord.gg/jlss)<br>[Marshall's Server](https://discord.gg/ejmrfwSYAH)<br>[NativShark](https://discord.gg/nativshark)<br>[Perdition](https://discord.gg/uK4HeGN)<br>[TheMoeWay](https://discord.gg/nhqjydaR8j) :s:<br>[ToKini Andy](https://discord.gg/WP7zYHC)<br>[JPDB](https://discord.gg/jWwVD7D2sZ) |
+| **Reddit**    | [AJATT](https://old.reddit.com/r/ajatt/)<br>[LearnJapanese](https://old.reddit.com/r/LearnJapanese/)                                                          |
+| **Others**    | [Conversation Exchange](https://www.conversationexchange.com/)<br>[Japanese Language Stack Exchange](https://japanese.stackexchange.com/)<br>[My Language Exchange](https://www.mylanguageexchange.com/)<br>[Tatsumoto](https://tatsumoto.neocities.org/blog/join-our-community) |
 
 ### Course Sites
 
