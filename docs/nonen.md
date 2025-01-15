@@ -167,7 +167,7 @@ If you have recommendations for good sites in your native language or want to re
 | Category | Resources |
 |-|-|
 | Tracker | [Bangumi](https://bangumi.tv/) <br> [Anime Tracker List](https://github.com/DeSireFire/animeTrackerList) |
-| Script | [AniList Chinese](https://github.com/soruly/AniList-chinese) <br> [Bilibili Evolved](https://github.com/the1812/Bilibili-Evolved) <br> [Score comparison assistant](https://greasyfork.org/en/scripts/451809-%E8%AF%84%E5%88%86%E5%AF%B9%E6%AF%94%E5%8A%A9%E6%89%8B) |
+| Script | [AniList Chinese](https://github.com/soruly/AniList-chinese) <br> [Bilibili Evolved](https://github.com/the1812/Bilibili-Evolved) <br> [EhSyringe](https://github.com/EhTagTranslation/EhSyringe) <br> [Score comparison assistant](https://greasyfork.org/en/scripts/451809-%E8%AF%84%E5%88%86%E5%AF%B9%E6%AF%94%E5%8A%A9%E6%89%8B) |
 
 
 ## French
