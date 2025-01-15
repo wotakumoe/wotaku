@@ -85,7 +85,7 @@ og:
 ### Booru
 - [booring](https://booring.herokuapp.com/) [:gh:](https://github.com/markpwns1/booring)
 - [Booru Masonary](https://booru.pixiv.pics/) :s: [:gh:](https://github.com/asadahimeka/booruwf-web) <Badge type="tip" text="2" link="https://booru.vercel.app/" /> <Badge type="tip" text="3" link="https://booru.cocomi.eu.org/" />
-- [Moeview](https://moeview.app/) <Badge type="tip" text="2" link="https://moeview.pages.dev/" /> <Badge type="tip" text="3" link="https://moeview.pixiv.pics/" />
+- [Moeview](https://moeview.app/) <Badge type="tip" text="2" link="https://moeview.pages.dev/" /> <Badge type="tip" text="3" link="https://moeview.cocomi.eu.org/" />
 
 ### Pixiv
 - [Pixiv.cat](https://pixiv.cat/) [:gh:](https://github.com/pixiv-cat/pixivcat-backend) <Badge type="tip" text="2" link="https://pixiv.re/" />
