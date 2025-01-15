@@ -106,7 +106,7 @@ og:
 - [Booru Masonary](https://booru.pixiv.pics/) :s: [:gh:](https://github.com/asadahimeka/booruwf-web) <Badge type="tip" text="2" link="https://booru.vercel.app/" /> <Badge type="tip" text="3" link="https://booru.cocomi.eu.org/" />
 - [Consurf](https://consurf.onrender.com/) [:gh:](https://github.com/QueenAkaAlt/Consurf)
 - [Moeview](https://moeview.app/) <Badge type="tip" text="2" link="https://moeview.pages.dev/" /> <Badge type="tip" text="3" link="https://moeview.pixiv.pics/" />
-- [Pixiv Viewer](https://pixiv.pics/) :s:
+- [Pixiv Viewer](https://pixiv.pictures/) :s:
 
 ## Games
 

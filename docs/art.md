@@ -91,7 +91,7 @@ og:
 - [Pixiv.cat](https://pixiv.cat/) [:gh:](https://github.com/pixiv-cat/pixivcat-backend) <Badge type="tip" text="2" link="https://pixiv.re/" />
 - [PixivFE](https://pixivfe.drgns.space/) :s: [:cb:](https://codeberg.org/VnPower/PixivFE)
 - [Pixiv Now](https://pixiv.js.org/) [:gh:](https://github.com/FreeNowOrg/PixivNow) <Badge type="tip" text="2" link="https://now.pixiv.pics/#/" />
-- [Pixiv Viewer](https://pixiv.pics/) [:gh:](https://github.com/asadahimeka/pixiv-viewer)
+- [Pixiv Viewer](https://pixiv.pictures/) [:gh:](https://github.com/asadahimeka/pixiv-viewer)
 - [Pixiv Yearbook](https://pixiv.navirank.com/)
 - [Pxelk](https://pxelk.pixiv.pics/) [:gh:](https://github.com/ShugetsuSoft/pixivel-front)
 
