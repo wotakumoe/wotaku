@@ -647,7 +647,6 @@ You can go through [**digital manga info**](/guides/manga/digim) to get more sit
 - [J-Novel Club](https://j-novel.club/)
 - [Kodansha](https://kodansha.us/)
 - [Square Enix](https://squareenixmangaandbooks.square-enix-games.com/en-us)
-- [Tentai Books](https://tentaibooks.com/en/)
 - [VIZ](https://www.viz.com/)
 - [Yen Press](https://yenpress.com/)
 - [WebNovel](https://www.webnovel.com/)

@@ -110,7 +110,6 @@ ___
 - [Kana - Hiragana and Katakana](https://apps.apple.com/us/app/kana-hiragana-and-katakana/id1454200955)
 - [Kanji Garden](https://apps.apple.com/us/app/kanji-garden-japanese/id1338967114) [:web:](https://kanji.garden/)
 - [kawaiiNihongo](https://apps.apple.com/us/app/kawaiinihongo-learn-japanese/id1015333181)
-- [Real Kana](https://apps.apple.com/us/app/real-kana/id343807473)
 - [renshuu](https://apps.apple.com/us/app/renshuu-japanese-learning/id1542730063) [:web:](https://www.renshuu.org/)
 
 ### Reader
