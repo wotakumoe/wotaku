@@ -359,15 +359,9 @@ ___
 ## Recommendations
 
 ### Anime & Manga
-- **User Recommendations**
-  - ANN TOP 100
-    - [Anime](https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=popular&n=100)
-    - [Manga](https://www.animenewsnetwork.com/encyclopedia/ratings-manga.php?top50=best_bayesian&n=100)
-  - [r/Anime](https://old.reddit.com/r/anime/wiki/recommendations/)
-  - [u/FetchFrosh](https://old.reddit.com/r/anime/comments/o16ipm/rebuild_of_the_ultimate_anime_recommendation/)
-- **Algorithm Based**
-  - [AniBrain](https://anibrain.ai/)
-  - [Sprout Anime Recommender](https://anime.ameo.dev/) :s::mal::al:
+- [r/Anime](https://old.reddit.com/r/anime/wiki/recommendations/)
+- [u/FetchFrosh](https://old.reddit.com/r/anime/comments/o16ipm/rebuild_of_the_ultimate_anime_recommendation/)
+- [Sprout Anime Recommender](https://anime.ameo.dev/) :s::mal::al:
 
 ### Visual Novel
 - [VNDB](https://vndb.org/v?f=022gja3gja&s=34w)
