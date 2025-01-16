@@ -158,7 +158,7 @@ Illustrations now has its [own page](/art)!
 ## General
 
 - **Info / News**
-  - [Anime News Network](https://www.animenewsnetwork.com/) :s: [:x:](https://x.com/animecorner_ac) [:rss:](https://www.animenewsnetwork.com/newsfeed/)
+  - [Anime News Network](https://www.animenewsnetwork.com/) :s: [:x:](https://x.com/anime) [:rss:](https://www.animenewsnetwork.com/newsfeed/)
   - [Anime UK News](https://animeuknews.net/)
   - [Crunchyroll News](https://www.crunchyroll.com/news) [:rss:](https://www.crunchyroll.com/feed)
   - [GUNDAM.INFO](https://en.gundam.info/)
