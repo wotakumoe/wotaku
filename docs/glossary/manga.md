@@ -151,7 +151,7 @@ Simultaneous publication, meaning releasing and translating the latest chapters 
 Tankoubon means the volume release. Many manga are initially published in magazines such as [Weekly Shonen Jump](https://www.shonenjump.com/j/index.html). If a manga becomes very popular, it can receive a volume release a.k.a. Tankoubon. These volumes often include redrawn content, extra chapters, and notes from the mangaka. Sometimes, Tankoubon collections can feature various works by the mangaka, similar to an anthology.
 
 ![One Piece](/glossary/manga/tankoubon.jpg)
-
+___
 #### Other volume types
 
 | Term | Meaning { class="compact" } |
@@ -207,25 +207,20 @@ In general printing, halftones refer to the technique of using different sized d
 [Moiré](https://en.wikipedia.org/wiki/Moir%C3%A9_pattern) is the creation of a new pattern by overlapping two patterns / halftone / screentone. It can occur due to several factors:
 
 ![](/glossary/manga/pattern.png)
-
-
+___
 #### **Artist-side**
 Artists often overlap two or more pattern to create a new pattern. Although it's technically moiré, it's an intended effect, thus when we talk about moiré, we focus more on the uneven or the unintentional ones. Moiré can also happen if the artist uses higher frequency of halftone during drawing since those can't be printed with 100% scale or published digitally.
 
 ![Moiré vs Non-Moiré Pattern Comparison](/glossary/manga/artistside.png)
-
-<br>
-
+___
 #### **Publisher-side**
 Sometimes, the publisher messes it up during release (digital or physical). Example: [Boy's Abyss vol. 3](https://slow.pics/c/PwgOYQtw)
-
+___
 #### **Reader-side**
 If the image render resolution is lower than the image native resolution (even if the screen resolution itself is high), it can cause moiré when scaling down. The effect may be more pronounced depending on the screen's DPI and on the physical screen size. It can also depend on the reader app/program used, as some handle this process better than others.
 
 ![Sachi's Monstrous Appetite vol. 4](/glossary/manga/danke.png)
-
-<br>
-
+___
 #### **Solution**
 If it's due to artist or publisher's side, it's not really fixable without redraw. If it's due to screen resolution/DPI,
 - The level of moiré can be lowered by using a better image scaling algorithm, such as Lanczos scaling. For example: [CDisplayEx](https://www.cdisplayex.com/) (Windows) and [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer) (Android). You can tweak the Lanczos level in the settings to get a better result. The level depends on the

@@ -130,18 +130,18 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Mercari](https://www.mercari.com/)
 - [Play-Asia](https://www.play-asia.com/)
 - [YESASIA](https://www.yesasia.com/global/en/home.html)
-
+___
 #### Figures / Merch
 - [Big in Japan](https://biginjap.com/)
 - [E2046.com](https://www.e2046.com/)
 - [Hobby Link](https://www.hlj.com/)
 - [Hobby Search](https://www.1999.co.jp/eng/)
 - [Otaku Mode](https://otakumode.com/) <Badge type="green" link="" text="SFW"/>
-
+___
 #### Manga
 - [honto](https://honto.jp/)
 - [Mangaoh](https://www.mangaoh.co.jp/)
-
+___
 #### Digital Music
 - [Bandcamp](https://bandcamp.com/)
 - [Mora](https://mora.jp/)

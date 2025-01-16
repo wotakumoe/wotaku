@@ -206,14 +206,14 @@ outline: 1
 - [Tokyo Insider](https://www.tokyoinsider.com/) :ddl:
 - [JPFiles](https://jpfiles.net/) :host::mdi-disc:
 - [AnimeRSS](https://animerss.com/) :host::mdi-disc:
-
+___
 #### Re-encodes
 - [Kayo anime](https://kayoanime.com/) :sgd::batch:
 - [Mkvseries](https://mkvseries.com/) <Badge text="2" link="https://mkvcinema.in/" /> :sgd::batch:
 - [Anime out](https://www.animeout.xyz/) :ddl::acc:
 - [Chauthanh](https://chauthanh.info/) :ddl::acc:
 - [hi10anime](https://hi10anime.com/) :ddl::mag::acc::batch:
-
+___
 #### Subtitles
 - [Closed Caption Browser](https://cc.edatribe.com/#/) <Badge type="info" text="Dubtitles" />
 - [Open Subtitles](https://opensubtitles.org/)
@@ -365,7 +365,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [Desuarchive](https://desuarchive.org/) :f: <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
 - [Library Genesis+](https://libgen.gs/) <Badge type="info" text="Proxies" link="https://rentry.org/wotaxy#library-genesis" />
 - [Internet Archive](https://archive.org/)
-
+___
 #### Rippers
 - [1r0n](https://nyaa.si/user/tsuna69)<tooltip>Available in description</tooltip>
 - [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) 

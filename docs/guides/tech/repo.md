@@ -44,7 +44,7 @@ Some apps might not support **Auto Install method**. That doesn't mean the guide
 #### Adding Repo
 - **Auto:** Click on **Install** and the repo will be sideloaded automatically.
 - **Manual:** Copy the **URL** (from the manual column) and put it in **:mdi-dots-horizontal:More -> :mdi-cog-outline:Settings -> :mdi-compass-outline:Browse -> Extension repos**.
-
+___
 #### Adding Extension
 1. After [**adding the repo**](#adding-repo), go to **Home -> :mdi-compass:Browse -> Anime/Manga Extension**.
 2. Download & install your desired extension by clicking :mdi-download-outline:.

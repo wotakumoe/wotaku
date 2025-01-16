@@ -254,17 +254,17 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 - [Master Duel](https://www.konami.com/yugioh/masterduel/us/en/)
 - [Duel Links](https://www.konami.com/yugioh/duel_links/en/)
 - [Yu-Gi-Oh! Neuron](https://www.konami.com/yugioh/neuron/en/) <Badge type="info" text="Companion app" />
-
+___
 #### Unofficial
 - [Dueling Book](https://www.duelingbook.com/) <Badge type="info" text="Website" />
 - [EDO Pro](https://projectignis.github.io/download.html) <Badge type="info" text="Client" />
 - [YGO Omega](https://omega.duelistsunite.org/) <Badge type="info" text="Client" />
-
+___
 #### Alternative/Historic Formats
 - [Format Library](https://www.formatlibrary.com/)
 - [Edison Format](https://www.edisonformat.com/)
 - [Goat Format](https://www.goatformat.com/)
-
+___
 #### Subreddits
 - [Yu-Gi-Oh!](https://old.reddit.com/r/yugioh/)
 - [Master Duel](https://old.reddit.com/r/masterduel/)

@@ -164,7 +164,7 @@ og:
 - [Understanding the Japanese Writing System](https://www.youtube.com/watch?v=r7a8OjvViwE)
 - [Why Most Japanese Clip Art Looks Like This](https://www.youtube.com/watch?v=g3CyRZY90M4)
 - [Why some Asian accents swap Ls and Rs in English](https://www.youtube.com/watch?v=2yzMUs3badc)
-
+___
 #### Otaku
 
 - [Anime Figures 101](https://youtube.com/playlist?list=PL67Usptllz-RMadnMX0oCWXqdiD2pAHnS)

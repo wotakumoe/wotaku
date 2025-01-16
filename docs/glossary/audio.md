@@ -229,7 +229,7 @@ Lossless refers to lossless compression, which is compression that preserves all
 
 ### Lossy
 Lossy compression, also known simply as lossy, is a data compression technique that reduces file size by selectively removing or approximating some of the original data from the source file. While this process discards certain information, modern algorithms are designed to do so in a way that minimizes perceptible differences from the original, making it nearly indistinguishable in quality for most users at certain bitrates. Common formats utilizing lossy compression include MP3, AAC, and OPUS.
-
+___
 #### Transparency Threshold
 Transparency means that the compression of the original file is accurate to a degree such that a listener can't distinguish between the compressed and original files. The level or threshold of transparency depends on the listeners hearing ability, hardware, and the compression method. Since it's based on hearing ability, transparency is very subjective. The more efficient the codec is, the better it will sound **below its perceptually transparent bitrate**. In general, encoding quality follows the trend Opus > AAC ≈ Vorbis > MP3. The bit rates at which lossy audio files become transparent are subjective but the following are common choices of bitrates:
 

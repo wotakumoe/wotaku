@@ -20,6 +20,7 @@ outline: [1,2]
 - [Kitsu](https://kitsu.app/explore/anime)
 - [Kurozora](https://kurozora.app/)
 - [Sakuhin Database](https://sakuhindb.com/) :fjp:
+- [Wikipedia](https://www.wikipedia.org/) <Badge type="info" text="Alt" link="https://www.wikiwand.com/" />
 
 ### Anime
 - [aniDB](https://anidb.net/) :s:
@@ -83,22 +84,11 @@ outline: [1,2]
 
 ### Stats & Watch guide
 
-#### Watch Order
-- [Chiaki](https://chiaki.site/)
-- [Related Anime](https://relatedanime.com/)
-- [r/Anime Watch Order](https://old.reddit.com/r/anime/wiki/watch_order/)
-
-#### Filler
-- [Anime Filler Guide](https://www.animefillerguide.com/)
-- [Anime Filler List](https://www.animefillerlist.com/)
-
-#### Ranking
-- [Anime Karma List](https://animekarmalist.com/)
-- [Anime Stats](https://anime-stats.net/) :s:
-- [Anime Corner](https://animecorner.me/category/anime-corner/rankings/)
-- [Anitrendz](https://anitrendz.com/charts/top-anime)
-- [Kitsu Season Trends](https://season.moe/) [:gh:](https://github.com/wopian/kitsu-season-trends)
-
+| Category        | Links                                                                                                                                                                                                                     |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Watch Order** | [Chiaki](https://chiaki.site/)<br>[Related Anime](https://relatedanime.com/)<br>[r/Anime Watch Order](https://old.reddit.com/r/anime/wiki/watch_order/)                                                                  |
+| **Filler**      | [Anime Filler Guide](https://www.animefillerguide.com/)<br>[Anime Filler List](https://www.animefillerlist.com/)                                                                                                         |
+| **Ranking**     | [Anime Karma List](https://animekarmalist.com/)<br>[Anime Stats](https://anime-stats.net/) :s:<br>[Anime Corner](https://animecorner.me/category/anime-corner/rankings/)<br>[Anitrendz](https://anitrendz.com/charts/top-anime)<br>[Kitsu Season Trends](https://season.moe/) [:gh:](https://github.com/wopian/kitsu-season-trends) |
 
 
 ## Manga & LN
@@ -116,7 +106,6 @@ outline: [1,2]
 - [Shoseki Ranking](http://shosekiranking.blog.fc2.com/) :fjp:
 
 
-
 ### Calendar
 
 #### Index
@@ -127,7 +116,7 @@ outline: [1,2]
 - [Von's Manga Calendar](https://v0n.notion.site/Manga-297a9ad3a4904173b3a4ce319f9b2879)
 - [Yatta-Tachi](https://yattatachi.com/tag/releases)
 - :more: [Manga release portals](#manga-ln-2)
-
+___
 #### Publisher
 - [Azuki](https://www.azuki.co/release-calendar) <Badge type="info" text="CaaS" />
 - [Cross Infinite World](https://www.crossinfworld.com/Calendar.html)
@@ -142,15 +131,6 @@ outline: [1,2]
 - [VIZ](https://www.viz.com/calendar/ )
 - [Yen Press](https://yenpress.com/calendar)
 
-
-
-<hr>
-
-### Illustrations
-
-Illustrations now has its [own page](/art)!
-
-<hr>
 
 ![](/banner/portals.webp)
 # Portals

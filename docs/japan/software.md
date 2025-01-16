@@ -185,7 +185,7 @@ ___
 - [Kamite](https://github.com/fauu/Kamite)
 - [japReader](https://github.com/marisukukise/japReader)
 - [JL](https://github.com/rampaa/JL)
-
+___
 #### Subtitles
 - **SRS**
   - [subs2srs](https://subs2srs.sourceforge.net/) :win:
@@ -199,13 +199,13 @@ ___
   - [Subtitle Character Counter](https://cademcniven.com/subtitleCharacterCounter.html) :web:
   - [Resource list for subtitle-related things](https://rentry.co/jpsub)
 - [General subtitle tools](/tools#video-tools)
-
+___
 #### Audio tools
 - [Automatic Condensed Audio Dialogue Script](https://anacreondjt.gitlab.io/docs/condensed_audio/)
 - [Koemoe](https://condense.moe/)
 - [Tenacity](https://tenacityaudio.org/) :win::lin:
 - [Immersion pod](https://github.com/Ajatt-Tools/impd)
-
+___
 #### Games/VN
 - [EXSTATIC](https://github.com/KamWithK/exSTATic)
 - [Luna Hook](https://github.com/HIllya51/LunaHook)
@@ -213,7 +213,7 @@ ___
 - [Textractor](https://github.com/Artikash/Textractor) <Badge type="tip" text="Guide" link="https://xelieu.github.io/jp-lazy-guide/setupVnOnPC/" />
 - [Textractor websocket](https://github.com/kuroahna/textractor_websocket)
 - [Trim Japanese Game Audio](https://github.com/bpwhelan/TrimJapaneseGameAudio/)
-
+___
 #### Others
 - [ComicEater](https://github.com/kanjieater/ComicEater)
 - [GenkiYoshi](https://github.com/FragozoLeonardo/Genki-Yoshi)
