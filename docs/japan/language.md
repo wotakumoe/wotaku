@@ -48,8 +48,8 @@ og:
 - [Tae Kim's Writing System](https://gohoneko.neocities.org/grammar/taekim#6%20The%20Scripts)
 
 ### Videos
-- [Learn ALL hiragana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=6p9Il_j0zjc) `by JapanesePod101`
-- [Learn ALL katakana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=s6DKRgtVLGA) `by JapanesePod101`
+- [Learn ALL hiragana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=6p9Il_j0zjc) <tooltip>by JapanesePod101</tooltip>
+- [Learn ALL katakana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=s6DKRgtVLGA) <tooltip>by JapanesePod101</tooltip>
 
 ### Practice
 - [Kana Pro](https://kana.pro/)
@@ -117,52 +117,45 @@ og:
 - [The Pitch Accent Journey](https://docs.google.com/document/d/1ReBf08JFK4n0PXdOxThAfWuiK9UWVZEWWzeKSECWTQo/edit)
 - [Resources for pitch accent](https://xythh.github.io/resources)
 - [Maggie Sensei's Conversation Guide](https://maggiesensei.com/)
-
-<br>
-
+___
 #### Youtube
-- [Japanese pitch-accent & pronunciation playlist](https://www.youtube.com/playlist?list=PLxMXdmBM9wPvsySiMoBzgh8d68xqKz1YP) `by Dogen`
-- [Strategies for Acquiring Pitch Accent in Japanese](https://www.youtube.com/watch?v=I-dRbTnLmBY) `by Darius Jahandarie`
-- [Japanese Pitch Accent and Intonation](https://www.youtube.com/playlist?list=PLFGs3d9Sobfgr4clmLcHUM_X4JBCyIP2n) `by Speak Japanese Naturally`
-- [Pitch Accent for Absolute Beginners](https://www.youtube.com/playlist?list=PLAmROvem8e1LhXfCUqCDshBLAdi_LlR6y) `by Yudai Sensei`
-- [Verb Pitch Accent and Verbs' Conjugations](https://www.youtube.com/playlist?list=PLbEVYkEj81RzdzDWujEkfjJZrzsqV3Q8O) `by Seize Japanese`
-- :more: [Related Channels](/japan/immersion#youtube)
-
-<br>
-
+- [Japanese pitch-accent & pronunciation playlist](https://www.youtube.com/playlist?list=PLxMXdmBM9wPvsySiMoBzgh8d68xqKz1YP) <tooltip>by Dogen</tooltip>
+- [Strategies for Acquiring Pitch Accent in Japanese](https://www.youtube.com/watch?v=I-dRbTnLmBY) <tooltip>by Darius Jahandarie</tooltip>
+- [Japanese Pitch Accent and Intonation](https://www.youtube.com/playlist?list=PLFGs3d9Sobfgr4clmLcHUM_X4JBCyIP2n) <tooltip>by Speak Japanese Naturally</tooltip>
+- [Pitch Accent for Absolute Beginners](https://www.youtube.com/playlist?list=PLAmROvem8e1LhXfCUqCDshBLAdi_LlR6y) <tooltip>by Yudai Sensei</tooltip>
+- [Verb Pitch Accent and Verbs' Conjugations](https://www.youtube.com/playlist?list=PLbEVYkEj81RzdzDWujEkfjJZrzsqV3Q8O) <tooltip>by Seize Japanese</tooltip>
+- [Related Channels](/japan/immersion#youtube)
+___
 #### Practice
 - [Kanken](https://www.kanken.or.jp/kanken/meyasucheck/)
 - [Kotu](https://kotu.io/) :acc:
 - [Migaku Pitch Trainer](https://pitch-demo.migaku.io/) :fm:
 - [SuperNative](https://supernative.tv/ja/)
 - [MyKikitori](https://www.mykikitori.com/)
-
-
+___
 ### Resources
 
 #### Pronunciation
-- [CaptionPop](https://www.captionpop.com/japanese?nl=en) `Youtube`
-- [Filmot](https://filmot.com/) `Youtube`
-- [Forvo](https://forvo.com/languages/ja/) `Native Speaker`
-- [Immersion Kit](https://www.immersionkit.com/) :s: `Japanese Media`
-- [Sentence Search](https://sentencesearch.neocities.org/) `Book / Deck / Web`
-- [YouGlish](https://youglish.com/japanese) :s: `Youtube`
-
-<br>
-
+- [CaptionPop](https://www.captionpop.com/japanese?nl=en) <tooltip>Youtube</tooltip>
+- [Filmot](https://filmot.com/) <tooltip>Youtube</tooltip>
+- [Forvo](https://forvo.com/languages/ja/) <tooltip>Native Speaker</tooltip>
+- [Immersion Kit](https://www.immersionkit.com/) :s: <tooltip>Japanese Media</tooltip>
+- [Sentence Search](https://sentencesearch.neocities.org/) <tooltip>Book / Deck / Web</tooltip>
+- [YouGlish](https://youglish.com/japanese) :s: <tooltip>Youtube</tooltip>
+___
 #### Misc
-- [BOOK WALKER Cross Search](https://bsearch.bookwalker.jp/search) `Search through BW books`
+- [BOOK WALKER Cross Search](https://bsearch.bookwalker.jp/search) <tooltip>Search through BW books</tooltip>
 - [Hinoki Project](https://hinoki-project.org/)
-- [Hiragana](https://www.hiragana.jp/en/) `Add Hiragana over Kanji`
-- [jReadability](https://jreadability.net/) `Text readability measurement`
-- [Kanji Canvas](https://asdfjkl.github.io/kanjicanvas/) `Kanji recognition from drawing`
-- [Kanji Portraits](https://kanjiportraits.wordpress.com/) `Kanji origins`
+- [Hiragana](https://www.hiragana.jp/en/) <tooltip>Add Hiragana over Kanji</tooltip>
+- [jReadability](https://jreadability.net/) <tooltip>Text readability measurement</tooltip>
+- [Kanji Canvas](https://asdfjkl.github.io/kanjicanvas/) <tooltip>Kanji recognition from drawing</tooltip>
+- [Kanji Portraits](https://kanjiportraits.wordpress.com/) <tooltip>Kanji origins</tooltip>
 - [Kanji Tools](https://kanji.sljfaq.org/)
-- [Kanji Worksheets](https://jensechu.github.io/kanji/index.html) `Printable Kanji worksheet`
-- [Massif](https://massif.la/ja) `Search through Book / WN / Web`
-- [OJAD AI Reader](https://www.gavo.t.u-tokyo.ac.jp/ojad/phrasing/index) `Generate pitch accent`
+- [Kanji Worksheets](https://jensechu.github.io/kanji/index.html) <tooltip>Printable Kanji worksheet</tooltip>
+- [Massif](https://massif.la/ja) <tooltip>Search through Book / WN / Web</tooltip>
+- [OJAD AI Reader](https://www.gavo.t.u-tokyo.ac.jp/ojad/phrasing/index) <tooltip>Generate pitch accent</tooltip>
 - [RTK Search](https://hochanh.github.io/rtk/)
-- [Tatoeba](https://tatoeba.org/en/) `Crowd-sourced sentence`
+- [Tatoeba](https://tatoeba.org/en/) <tooltip>Crowd-sourced sentence</tooltip>
 
 ## Grammar
 
@@ -197,13 +190,12 @@ og:
 - [Tae Kim](https://www.youtube.com/@taekimjapanese)
 - [ToKini Andy](https://www.youtube.com/@ToKiniAndy)
 - [Yudai Sensei](https://www.youtube.com/@yudaisensei2020)
-
+___
 #### Playlists
-- [Japanese from Scratch](https://www.youtube.com/watch?v=pSvH9vH60Ig&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) `by Cure Doly`
-- [Japanese From Zero! Books 1-5 VIDEOS](https://www.youtube.com/playlist?list=PLOcym2c7xnBwU12Flkm5RcLIEhvURQ8TB) `by Learn Japanese From Zero!`
-- [【JLPT N5】GENKI Grammar Made Clear](https://www.youtube.com/playlist?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2) `by ToKini Andy`
-- [【JLPT N4】GENKI 2 Grammar Made Clear](https://www.youtube.com/playlist?list=PLA_RcUI8km1P8bJzp3_TMMv1jhL3BcKQk) `by ToKini Andy`
-
+- [Japanese from Scratch](https://www.youtube.com/watch?v=pSvH9vH60Ig&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) <tooltip>by Cure Doly</tooltip>
+- [Japanese From Zero! Books 1-5 VIDEOS](https://www.youtube.com/playlist?list=PLOcym2c7xnBwU12Flkm5RcLIEhvURQ8TB) <tooltip>by Learn Japanese From Zero!</tooltip>
+- [【JLPT N5】GENKI Grammar Made Clear](https://www.youtube.com/playlist?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2) <tooltip>by ToKini Andy</tooltip>
+- [【JLPT N4】GENKI 2 Grammar Made Clear](https://www.youtube.com/playlist?list=PLA_RcUI8km1P8bJzp3_TMMv1jhL3BcKQk) <tooltip>by ToKini Andy</tooltip>
 
 ### Practice
 
@@ -214,7 +206,7 @@ og:
 - [Duendecat](http://duendecat.com/)
 - [Japanese Conjugation Practice](https://baileysnyder.com/jconj/)
 - [Don's Japanese Conjugation Drill](https://wkdonc.github.io/conjugation/drill.html)
-
+___
 #### Number
 - [Japanese Numbers](https://langpractice.com/japanese)
 - [助数詞を練習](https://www.jyosuushi.com/)
@@ -276,11 +268,11 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 ### Course Sites
 
 - [80/20 Japanese](https://8020japanese.com/)
-- [Bunpro](https://bunpro.jp/) `Grammar`
+- [Bunpro](https://bunpro.jp/) <Badge type="info" text="Grammar" />
 - [Forvo](https://forvo.com/)
-- [Hanabira](https://hanabira.org/) `General`
-- [Kanshudo](https://www.kanshudo.com/) `General`
-- [MaruMori](https://marumori.io/) `General`
+- [Hanabira](https://hanabira.org/) <Badge type="info" text="General" />
+- [Kanshudo](https://www.kanshudo.com/) <Badge type="info" text="General" />
+- [MaruMori](https://marumori.io/) <Badge type="info" text="General" />
 - [Migaku](https://migaku.com/)
-- [NativShark](https://www.nativshark.com/) `General`
-- [WaniKani](https://www.wanikani.com/) `Kanji`
+- [NativShark](https://www.nativshark.com/) <Badge type="info" text="General" />
+- [WaniKani](https://www.wanikani.com/) <Badge type="info" text="Kanji" />

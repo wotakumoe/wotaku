@@ -50,11 +50,10 @@ og:
 - [Yurei Attack!: The Japanese Ghost Survival Guide](https://www.amazon.com/Yurei-Attack-Japanese-Survival-ATTACK/dp/4805312149)
 
 ### Youtube
-- [Mythology & Fiction Explained] [Japanese Folklore](https://www.youtube.com/playlist?list=PLgZdqfi4SZ0q-BLpzfuzWrXgxkyNcqagc)
-- [See U in History / Mythology] [Japanese Mythology](https://www.youtube.com/playlist?list=PLY7BFnOZ_ONQF02Aj2gfFKyC-RmsdgQHL)
-- [GenoSamuel3] [Yokai: Monsters of Japan](https://www.youtube.com/playlist?list=PLiHkvPlOtVBCPoN70Edn_Sosl5PeeAiFW)
-- [Inaka Adventure] [Japanese WEIRD Yokai, Monsters & Folklore Compilation](https://www.youtube.com/watch?v=LEH_9iygWvw)
-
+- [Japanese Folklore](https://www.youtube.com/playlist?list=PLgZdqfi4SZ0q-BLpzfuzWrXgxkyNcqagc) <tooltip>By Mythology & Fiction Explained</tooltip>
+- [Japanese Mythology](https://www.youtube.com/playlist?list=PLY7BFnOZ_ONQF02Aj2gfFKyC-RmsdgQHL) <tooltip>By See U in History / Mythology</tooltip>
+- [Yokai: Monsters of Japan](https://www.youtube.com/playlist?list=PLiHkvPlOtVBCPoN70Edn_Sosl5PeeAiFW) <tooltip>By GenoSamuel3</tooltip>
+- [Japanese WEIRD Yokai, Monsters & Folklore Compilation](https://www.youtube.com/watch?v=LEH_9iygWvw) <tooltip>By Inaka Adventure</tooltip>
 
 
 ## Festivals & Travel

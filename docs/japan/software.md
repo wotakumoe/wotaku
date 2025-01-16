@@ -21,7 +21,7 @@ og:
 - [AnkiMobile Flashcards](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) :app::paid:
 - [Ankiconnect Android](https://github.com/KamWithK/AnkiconnectAndroid) :and:
 - [VocabSieve](https://docs.freelanguagetools.org/)
-
+___
 #### Guide
 - [Anki Manual](https://docs.ankiweb.net/)
 - [Tatsumoto](https://tatsumoto.neocities.org/blog/setting-up-anki) :s:
@@ -56,26 +56,23 @@ og:
 
 #### Kanji
 - [KanjiDamage](https://ankiweb.net/shared/info/748570187) 
-- [Kanken Deck](https://ankiweb.net/shared/info/759825185) <Badge type="tip" text="2" link="https://ankiweb.net/shared/info/1113953752" /> `Advanced`
+- [Kanken Deck](https://ankiweb.net/shared/info/759825185) <Badge type="info" text="Advanced" /> <Badge type="tip" text="2" link="https://ankiweb.net/shared/info/1113953752" />
 - [Kodansha kanji learner's course with vocabulary](https://ankiweb.net/shared/info/779483253) 
-- [RRTK450 Anki deck](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9tZWdhLm56L2ZpbGUvMlNKaVdDNGIjaEw5OHF0Q19oaUxsUURnMExxVkpvcUQyLTV5d1QyTndkNGtqUk9ZX0t3UQ.ZHVjaw) `Beginner`
+- [RRTK450 Anki deck](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9tZWdhLm56L2ZpbGUvMlNKaVdDNGIjaEw5OHF0Q19oaUxsUURnMExxVkpvcUQyLTV5d1QyTndkNGtqUk9ZX0t3UQ.ZHVjaw) <Badge type="info" text="Beginner" />
 - [Usagi Chan Kanji Phonetics Deck](https://drive.google.com/file/d/1xyynMQiOuqlC_cBBTwG9t3snRubHqU7e/view)
 - [Wanikani Ultimate 3](https://links.gamesdrive.net/#/link/aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2k5dnVzcmR6cjIwdjQzei9XYW5pa2FuaV9VbHRpbWF0ZV8zX19Ub2t5b19EcmlmdF8tXF8yMDIzLTA2LTI0LmFwa2cvZmlsZQ.ZHVjaw) <Badge type="tip" text="Support" link="https://discord.gg/cSEXEB5DgF" />
 - [Kanji de Go](https://github.com/MarvNC/kanjidego-yomitan-anki)
-
+___
 #### Vocab
 - [Anime decks (Official AnkiWeb)](https://ankiweb.net/shared/decks?search=anime)
 - [Anime decks (Sub2Srs)](https://links.gamesdrive.net/#/link/aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9mb2xkZXIvcDE3ZzV1azRwaGI0MS9Vc2VyX1VwbG9hZGVkX0Fua2lfRGVja3M)
-- [Kaishi](https://github.com/donkuri/Kaishi) `Beginner`
+- [Kaishi](https://github.com/donkuri/Kaishi) <Badge type="info" text="Beginner" />
 - [Core 2k/6k Optimized Japanese Vocabulary Anki](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) 
 - [DoJG Deck](https://dojgdeck.neocities.org/) 
 - [Japanese course based on Tae Kim's grammar guide & anime](https://ankiweb.net/shared/info/911122782) 
-- [Tango N5 omega deck](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9tZWdhLm56L2ZpbGUvdUh4V2pUYUMjWDJoQkFZZ19jTHR0UW1VdkpRV21sazhRYm5RdElJb1hIN3hVNUR1REZlVQ.ZHVjaw) `Beginner`
-
-
+- [Tango N5 omega deck](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9tZWdhLm56L2ZpbGUvdUh4V2pUYUMjWDJoQkFZZ19jTHR0UW1VdkpRV21sazhRYm5RdElJb1hIN3hVNUR1REZlVQ.ZHVjaw) <Badge type="info" text="Beginner" />
 
 ## Phone
-
 
 ### Dictionary
 
@@ -87,7 +84,7 @@ og:
 - [Kaku Japanese Dictionary (OCR)](https://play.google.com/store/apps/details?id=ca.fuwafuwa.kaku)
 - [Nani?](https://f-droid.org/en/packages/eu.lepiller.nani/)
 - [Rin](https://github.com/kamui-fin/rin)
-
+___
 #### Apple
 - [Kantan Manga](https://apps.apple.com/us/app/kantan-manga/id1518666365)
 - [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380)
@@ -105,7 +102,7 @@ og:
 - [renshuu](https://play.google.com/store/apps/details?id=com.renshuu.renshuu_org) [:web:](https://www.renshuu.org/)
 - [Textbender](https://github.com/fruitports/android-textbender)
 - [Vocal Pitch Monitor](https://play.google.com/store/apps/details?id=com.tadaoyamaoka.vocalpitchmonitor)
-
+___
 #### Apple
 - [Japanese](https://apps.apple.com/us/app/japanese/id290664053)
 - [Learn Japanese! - Kanji](https://apps.apple.com/us/app/learn-japanese-kanji/id1078107994)
@@ -124,8 +121,7 @@ og:
 - [OCR Manga Reader for Android](https://sourceforge.net/projects/ocrmangareaderforandroid/)
 - [Satori Reader](https://play.google.com/store/apps/details?id=com.braksoftware.SatoriReader) [:web:](https://www.satorireader.com/)
 - [Write It! Japanese](https://play.google.com/store/apps/details?id=com.jernung.writeit.jpn)
-
-
+___
 #### Apple
 - [Easy Japanese](https://apps.apple.com/us/app/easy-japanese-news-%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/id1107177166) [:web:](https://easyjapanese.net/)
 - [Immersion Reader](https://reader.immersionkit.com/)
@@ -146,7 +142,7 @@ og:
 - [Asbplayer](https://killergerbah.github.io/asbplayer/) :web::cr: [:gh:](https://github.com/killergerbah/asbplayer)
 - [Emby Jimaku](https://github.com/bpwhelan/Emby.Jimaku)
 - [Voracious](https://voracious.app/) :win::lin: [:gh:](https://github.com/rsimmons/voracious)
-
+___
 #### mpv
 - [autosubsync mpv](https://github.com/Ajatt-Tools/autosubsync-mpv)
 - [memento](https://github.com/ripose-jp/Memento) :win::app::lin:
@@ -155,7 +151,7 @@ og:
 - [mpv retiming scripts](https://github.com/Ulidtsoa01/mpv-retiming-scripts)
 - [mpv sub scripts](https://github.com/peldas/mpv-sub-scripts)
 - [mpv subversive](https://github.com/nairyosangha/mpv-subversive)
-
+___
 #### Reader
 - [Mokuro](https://github.com/kha-white/mokuro) :win::app::lin:
   - [Mokuro Catalog](https://catalog.mokuro.moe/)
@@ -165,21 +161,21 @@ og:
 
 ### Browser
 
-- [Yomitan](https://yomitan.wiki/) :ff::cr: [:gh:](https://github.com/themoeway/yomitan) <Badge type="tip" text="Guide" link="https://learnjapanese.moe/yomichan/" /> `Pop-up dictionary`
+- [Yomitan](https://yomitan.wiki/) :ff::cr: [:gh:](https://github.com/themoeway/yomitan) <Badge type="tip" text="Guide" link="https://learnjapanese.moe/yomichan/" /><tooltip>Pop-up dictionary</tooltip>
     - [Yomitan Dictionaries](https://github.com/MarvNC/yomichan-dictionaries/)
     - [Yomitan Grammar Dictionaries](https://github.com/aiko-tanaka/Grammar-Dictionaries)
     - [Local Audio Server for Yomichan](https://github.com/themoeway/local-audio-yomichan)
     - [VNDB Names for Yomitan](https://github.com/kaanium/VNDB-Names-for-Yomitan)
-- [Rikitan](https://github.com/Ajatt-Tools/rikaitan) :ff::cr: <Badge type="tip" text="Guide" link="https://tatsumoto.neocities.org/blog/setting-up-yomichan"/> <Badge type="tip" text="Dictionaries" link="https://tatsumoto.neocities.org/blog/yomichan-and-epwing-dictionaries" /> `Pop-up dictionary`
-- [10ten Japanese Reader](https://github.com/birchill/10ten-ja-reader) :ff::cr::mingcute-safari-fill: `Pop-up dictionary`
-- [ASB Auto Subs](https://github.com/GodPepe7/asb-auto-subs) :ff::cr: `Jimaku subs in anime sites`
-- [Japanese.io](https://www.japanese.io/) :cr: `Pop-up dictionary`
-- [jimaku player](https://github.com/sheodox/jimaku-player) :js: `Custom subs for CR`
-- [Language Reactor](https://www.languagereactor.com/) :cr: `Pop-up dictionary & immersion helper` :fm:
-- [mirigana](https://github.com/mirigana/mirigana) :ff::cr: `Insert furigana on Twitter`
+- [Rikitan](https://github.com/Ajatt-Tools/rikaitan) :ff::cr:<Badge type="tip" text="Guide" link="https://tatsumoto.neocities.org/blog/setting-up-yomichan"/> <Badge type="tip" text="Dictionaries" link="https://tatsumoto.neocities.org/blog/yomichan-and-epwing-dictionaries" /><tooltip>Pop-up dictionary</tooltip>
+- [10ten Japanese Reader](https://github.com/birchill/10ten-ja-reader) :ff::cr::mingcute-safari-fill:<tooltip>Pop-up dictionary</tooltip>
+- [ASB Auto Subs](https://github.com/GodPepe7/asb-auto-subs) :ff::cr:<tooltip>Jimaku subs in anime sites</tooltip>
+- [Japanese.io](https://www.japanese.io/) :cr:<tooltip>Pop-up dictionary</tooltip>
+- [jimaku player](https://github.com/sheodox/jimaku-player) :js:<tooltip>Custom subs for CR</tooltip>
+- [Language Reactor](https://www.languagereactor.com/) :cr::fm:<tooltip>Pop-up dictionary & immersion helper</tooltip>
+- [mirigana](https://github.com/mirigana/mirigana) :ff::cr:<tooltip>Insert furigana on Twitter</tooltip>
 - [JPDB Web Reader](https://github.com/max-kamps/jpd-breader) :ff::cr:
-- [Rikaikun](https://github.com/melink14/rikaikun) :cr: `Pop-up dictionary`
-- [Subadub](https://github.com/rsimmons/subadub) :ff::cr: `Netflix subs tool w/ pop-up dictionary`
+- [Rikaikun](https://github.com/melink14/rikaikun) :cr:<tooltip>Pop-up dictionary</tooltip>
+- [Subadub](https://github.com/rsimmons/subadub) :ff::cr:<tooltip>Netflix subs tool w/ pop-up dictionary</tooltip>
 
 
 ### Tools
@@ -202,7 +198,7 @@ og:
   - [Sub transition](https://github.com/Ajatt-Tools/sub-transition) :simple-icons-mpv:
   - [Subtitle Character Counter](https://cademcniven.com/subtitleCharacterCounter.html) :web:
   - [Resource list for subtitle-related things](https://rentry.co/jpsub)
-- :more: [General subtitle tools](/tools#video-tools)
+- [General subtitle tools](/tools#video-tools)
 
 #### Audio tools
 - [Automatic Condensed Audio Dialogue Script](https://anacreondjt.gitlab.io/docs/condensed_audio/)
@@ -224,4 +220,4 @@ og:
 - [Lapis](https://github.com/donkuri/lapis)
 - [LN Readability](https://colab.research.google.com/github/Gilfaro/ln-recommender/blob/main/LNReadability.ipynb)
 - [Supermemo](https://super-memory.com/) <Badge type="warning" text="Trialware"/><Badge type="tip" text="Wiki" link="https://www.supermemo.wiki/en/home" />
-- :more: [OCR/Translator section](https://wotaku.wiki/software#ocr-translator)
+- [OCR/Translator section](https://wotaku.wiki/software#ocr-translator)
