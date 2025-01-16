@@ -81,7 +81,7 @@ ___
 - [Akebi Japanese Dictionary](https://play.google.com/store/apps/details?id=com.craxic.akebifree)
 - [Aedict3 Japanese Dictionary](https://play.google.com/store/apps/details?id=sk.baka.aedict3)
 - [Japanese Dictionary Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto)
-- [Kaku Japanese Dictionary (OCR)](https://play.google.com/store/apps/details?id=ca.fuwafuwa.kaku)
+- [Kaku Japanese Dictionary (OCR)](https://github.com/0xbad1d3a5/Kaku)
 - [Nani?](https://f-droid.org/en/packages/eu.lepiller.nani/)
 - [Rin](https://github.com/kamui-fin/rin)
 ___
