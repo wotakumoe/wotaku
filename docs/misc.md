@@ -99,7 +99,7 @@ outline: [1,2]
 - [Bunko Light Novel Ranking](http://bunkoranoberanking.blog.fc2.com/) :fjp:
 - [Erzat](https://erzat.blog/)
 - [Jajanken](https://www.jajanken.net/en/)
-- [Mangacodex](https://www.mangacodex.com/)
+- [Mangacodex](https://www.mangacodex.com/) [:x:](https://x.com/Josu_ke) <tooltip>The site doesn't get update often. Visit twitter profile for more recent graphs.</tooltip>
 - [MANGA Plus Views](https://mangaplustracker.github.io/) [:gh:](https://github.com/MangaplusTracker/MangaplusTracker.github.io)
 - [MANGA Plus Top 40](https://manga.tumeo.space/) [:gh:](https://github.com/williamd1k0/manga-plus-top40)
 - [r/LightNovels reading order](https://old.reddit.com/r/LightNovels/wiki/reading_order)
