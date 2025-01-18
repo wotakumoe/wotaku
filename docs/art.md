@@ -30,7 +30,7 @@ og:
 - [Instagram](https://www.instagram.com/)
 - [Misskey.io](https://misskey.io/) <Badge type="tip" text="Others" link="https://misskey-hub.net/en/servers/" /><tooltip>Registrations are currently limited to Japan only.</tooltip>
 - [Newgrounds](https://www.newgrounds.com/art)
-- [Nico Nico Seiga](https://seiga.nicovideo.jp/)
+- [Nico Nico Seiga](https://seiga.nicovideo.jp/) <tooltip>The site is now region locked. Use VPN with JP server to access it.</tooltip>
 - [Pixiv](https://www.pixiv.net) :s:
   - [Pixivision](https://www.pixivision.net/en/)
 - [Poipiku](https://poipiku.com/)
