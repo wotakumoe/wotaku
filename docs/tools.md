@@ -173,6 +173,7 @@ og:
 |--------------|---------------|
 | [Aegisub](https://github.com/arch1t3cht/Aegisub) | [Aegisub-Motion](https://github.com/TypesettingTools/Aegisub-Motion) <br> [AI2ASS](https://github.com/TypesettingTools/AI2ASS) <br> [DependencyControl](https://github.com/TypesettingTools/DependencyControl) <br> [Perspective](https://github.com/TypesettingTools/Perspective) |
 | [alass](https://github.com/kaegi/alass) | [Resync subtitles](https://animecards.site/subtitles/) :win: |
+| [AviSynth+](https://avs-plus.net/) | [MeGUI](https://en.wikibooks.org/wiki/MeGUI) [:simple-icons-sourceforge:](https://sourceforge.net/projects/megui/) |
 | [FFmpeg](https://ffmpeg.org/) | [HandBrake](https://handbrake.fr/) :win::app::lin: [:gh:](https://github.com/HandBrake/HandBrake) <br> [Videomass](https://jeanslack.github.io/Videomass/) :win::app::lin: [:gh:](https://github.com/jeanslack/Videomass) <br> [FFmpeg.wasm](https://ffmpegwasm.netlify.app/) :web: [:gh:](https://github.com/ffmpegwasm/ffmpeg.wasm) <br> [FFmpeg Batch AV Converter](https://github.com/eibol/ffmpeg_batch) :win: |
 | [MKVToolNix](https://mkvtoolnix.download/) |  [gMKVExtractGUI](https://sourceforge.net/projects/gmkvextractgui/) :win::app::lin: <br> [MKVcleaver](https://www.videohelp.com/software/MKVcleaver) :win::cs: <br> [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) :win:  |
 
