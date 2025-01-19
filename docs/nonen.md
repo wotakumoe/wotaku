@@ -381,6 +381,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
   - [JP DDL](https://jpddl.com/manga) :host:
   - [Manga Zone](http://www.manga-zone.org/) :material-symbols-book-5::host:
   - [Raw Cans](http://raw-cans.net/) :ic-outline-menu-book::host:
+  - [X3DL.NET](https://x3dl.net/wp/) :material-symbols-book-5::ic-outline-menu-book::host:
 
 ### Others
 
