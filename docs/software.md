@@ -169,22 +169,24 @@ or buy an Android phone :ic-twotone-thumb-up:
 
 ## Anime Streaming
 
-- [Miru](https://miru.watch/) :s::win::app::lin::mag: [:gh:](https://github.com/ThaUnknown/miru/)
-  - [Migu](https://miguapp.pages.dev/) [:gh:](https://github.com/NoCrypt/migu)
-- [Stremio](https://www.stremio.com/) :win::app::lin::mag::ddl:
-  - [Stremio Tools](#anime-tools)
-- [Mangayomi](https://github.com/kodjodevf/mangayomi) :win::app::lin::mag::ddl:
-- [Seanime](https://seanime.rahim.app/) :win::app::lin::mag::ddl: [:gh:](https://github.com/5rahim/seanime)
-- [Unyo](https://github.com/K3vinb5/Unyo) :win::app::lin::ddl:
-- [AnymeX](https://anymex.vercel.app/) :win::app::lin: [:gh:](https://github.com/RyanYuuki/AnymeX)
-- [Toru](https://github.com/sweetbbak/toru) :win::app::lin::cmd::mag:
-- [AnimeTV](https://amarullz.com/) :win::lin::ddl: [:gh:](https://github.com/amarullz/AnimeTV)
+| Program | OS | Source | Tracker |
+|-|-|-|-|
+| [Miru](https://miru.watch/) :s: [:gh:](https://github.com/ThaUnknown/miru/) | :win::app::lin: | :mag: | :al: |
+| [Migu](https://miguapp.pages.dev/) [:gh:](https://github.com/NoCrypt/migu) | :win::app::lin: | :mag: | :al: |
+| [Stremio](https://www.stremio.com/) | :win::app::lin: | :mag::ddl: | :mal::al::k::simple-icons-simkl: |
+| [Mangayomi](https://github.com/kodjodevf/mangayomi) | :win::app::lin: | :mag::ddl: | :mal::al::k: |
+| [Seanime](https://seanime.rahim.app/) | :win::app::lin: | :mag::ddl: | :al: |
+| [Unyo](https://github.com/K3vinb5/Unyo) | :win::app::lin: | :ddl: | :al: |
+| [AnymeX](https://anymex.vercel.app/) [:gh:](https://github.com/RyanYuuki/AnymeX) | :win::app::lin: | :ddl: | :al: |
 
 :::details More
-- [Miru App](https://miru.js.org/) :win: [:gh:](https://github.com/miru-project/miru-app) :mag::ddl:
-- [Zenshin](https://github.com/hitarth-gg/zenshin) :win::app::lin::mag:
-- [Totoro](https://github.com/insomniachi/Totoro) :win::mag::ddl:
-- [ani-cli](https://github.com/pystardust/ani-cli) :win::app::lin::cmd::ddl:
+| Program | OS | Source | Tracker |
+|-|-|-|-|
+| [Toru](https://github.com/sweetbbak/toru) | :win::app::lin::cmd: | :mag: | :no: |
+| [Miru App](https://miru.js.org/) [:gh:](https://github.com/miru-project/miru-app) | :win: | :mag::ddl: | :al: |
+| [Zenshin](https://hitarth-gg.github.io/zenshin-website/) [:gh:](https://github.com/hitarth-gg/zenshin) | :win::app::lin: | :mag: | :al: |
+| [Totoro](https://github.com/insomniachi/Totoro) | :win: | :mag::ddl: | :mal::al::simple-icons-simkl: |
+| [ani-cli](https://github.com/pystardust/ani-cli) | :win::app::lin::cmd: | :ddl: | :no: |
 
 :::
 
