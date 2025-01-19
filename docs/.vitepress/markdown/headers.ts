@@ -38,7 +38,7 @@ export const headersPlugin = (md: MarkdownRenderer) => {
     //
     // The token after `heading_open` contains the link as a child token.
     const children = tokens[idx + 1].children || []
-    const linkOpenToken = children.find((c) => c.type === 'link_open')
+    const linkOpenToken = children.findLast((c) => c.type === 'link_open')
     if (!linkOpenToken) return result
 
     const heading = tokens[idxClose - 1]
@@ -50,9 +50,11 @@ export const headersPlugin = (md: MarkdownRenderer) => {
 
     return result
   }
+    
+  let defaultRender = md.renderer.rules.link_open;
 
   md.renderer.rules.link_open = (tokens, idx, options, env, self) => {
-    const result = self.renderToken(tokens, idx, options)
+    const result = defaultRender(tokens, idx, options, env, self);
 
     const meta = tokens[idx].meta
     if (!meta || !meta.feedback) return result
