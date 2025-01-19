@@ -67,7 +67,7 @@ outline: 1
     <ul>
       <li>Good for new airing.</li>
       <li>Uploads from good sources but re-encoded smaller file size.</li>
-      <li>Small library size.</li>
+      <li>Decent library size.</li>
     </ul>
   </tooltip>
 - [Sudatachi](https://sudatchi.com/) :mingcute-server-fill::mingcute-user-2-fill:
