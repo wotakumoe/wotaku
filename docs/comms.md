@@ -71,6 +71,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [TCB Scans](https://discord.gg/tcbscans)
 - [TheMoeWay](https://discord.gg/nhqjydaR8j)
 - [r/Tokusatsu](https://discord.gg/Rf2dDaJSp3)
+- [ToonsHub](https://discord.gg/2mPFKykW4j)
 - [Tritinia](https://discord.gg/NKXKeDNFB7)
 - [TypesettingTools](https://discord.gg/AZaVyPr)
 - [r/Yugioh](https://discord.gg/yugioh)
