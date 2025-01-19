@@ -35,10 +35,12 @@ ___
 - [Advanced Browser](https://ankiweb.net/shared/info/874215009)
 - [AnkiMorphs](https://mortii.github.io/anki-morphs/intro.html)
 - [Batch Installer For Immersion Kit](https://github.com/kaanium/Batch-Installer-For-Immersion-Kit)
+- [Anki SRS Kai](https://kuroahna.github.io/anki_srs_kai/) [:gh:](https://github.com/kuroahna/anki_srs_kai)
 - [Forvo Pronunciation Downloader fully automatic](https://ankiweb.net/shared/info/1784714388)
 - [FSRS4Anki](https://github.com/open-spaced-repetition/fsrs4anki)
 - [Japanese Support](https://ankiweb.net/shared/info/3918629684)
 - [Kanji Grid](https://github.com/Kuuuube/kanjigrid)
+- [Kanji Schizos](https://github.com/kaanium/new-kanji-finder)
 - [Kotu](https://kotu.io/) :web:
 - [MorphMan](https://ankiweb.net/shared/info/900801631)  [:gh:](https://github.com/kaegi/MorphMan)
 - [quick image](https://github.com/ZXY101/quick-image)
@@ -140,6 +142,7 @@ ___
 - [Animebook](https://animebook.github.io/) :web: <Badge type="info" text="Guide" link="https://cademcniven.com/posts/20210703/" />
 - [Asbplayer](https://killergerbah.github.io/asbplayer/) :web::cr: [:gh:](https://github.com/killergerbah/asbplayer)
 - [Emby Jimaku](https://github.com/bpwhelan/Emby.Jimaku)
+- [Stremio Jimaku](https://jimaku-subs-stremio.echevarria.org/configure) [:gh:](https://github.com/Pedrubik2000/jimaku-subs-stremio)
 - [Voracious](https://voracious.app/) :win::lin: [:gh:](https://github.com/rsimmons/voracious)
 ___
 #### mpv
@@ -153,6 +156,8 @@ ___
 ___
 #### Reader
 - [Mokuro](https://github.com/kha-white/mokuro) :win::app::lin:
+  - [ZXY101's fork](https://github.com/ZXY101/mokuro-reader)
+  - [KojoZero's fork](https://github.com/KojoZero/mokuro-reader)
   - [Mokuro Catalog](https://catalog.mokuro.moe/)
   - [2500 Volume Mokuro OCR Manga PDF Collection](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTY0MTI2NQ.RHVjaw)
 - [ttsu Ebook Reader](https://reader.ttsu.app/) :web: [:gh:](https://github.com/ttu-ttu/ebook-reader) 

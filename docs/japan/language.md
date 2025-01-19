@@ -33,6 +33,15 @@ og:
 - [Inhae's blog](https://notes.inhae.blog/learning-japanese/)
 :::
 
+::: details General resources
+
+| Site | Kana | Kanji | Grammar | Quiz | Books |
+|-|-|-|-|-|-|
+| [Nihongo NET](https://nihongokyoshi-net.com/) | :yes: | :yes: | :yes: | :yes: | :yes: | 
+| [Itazuraneko](https://gohoneko.neocities.org/) | :yes: | :yes: | :yes: | :no: | :no: | 
+|  |  |  |  |  |  | 
+
+:::
 
 ## Kana
 
@@ -252,7 +261,7 @@ ___
 
 
 ::: tip **Downloading books**
-Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTM3MjM2Nw.RHVjaw). You can visit these sites to download books. [**Learn Japanese Online**](https://tailieuhoctiengnhat.com/), [**Nyaa**](https://nyaa.si/?c=3_3), [**Anna’s Archive**](https://annas-archive.org), [**Z-Library**](https://z-lib.gs/) & [**PDF Drive**](https://www.pdfdrive.com/).
+Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTM3MjM2Nw.RHVjaw). You can visit these sites to download books. [**Learn Japanese Online**](https://tailieuhoctiengnhat.com/), [**Nyaa**](https://nyaa.si/?c=3_3), [**Anna’s Archive**](https://annas-archive.org), [**Z-Library**](https://z-lib.gs/). [**OceanofPDF**](https://oceanofpdf.com/category/languages/japanese-language-books/) & [**PDF Drive**](https://www.pdfdrive.com/).
 :::
 
 
