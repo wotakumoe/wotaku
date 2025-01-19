@@ -231,7 +231,8 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
                   Sites that
                   <ul>
                     <li>imitate other websites</li>
-                    <li>are very small in size</li>
+                    <li>have very small libraries</li>
+                    <li>only feature MTL'd works</li>
                     <li>are mostly paywalled</li>
                     <li>sell unofficial merch</li>
                     <li>exlusively sell sex toys</li>

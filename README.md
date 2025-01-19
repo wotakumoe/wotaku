@@ -30,7 +30,8 @@ enhance the wiki further. Also, don't hesitate to [suggest ideas](#submitting-a-
    etc.)
 2. Sites that
    - imitate other websites
-   - are very small in size
+   - have very small libraries
+   - only feature MTL'd works
    - are mostly paywalled
    - sell unofficial merch
    - exclusively sell sex toys
