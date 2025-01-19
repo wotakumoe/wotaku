@@ -25,7 +25,6 @@ og:
 - [AnimeTV](https://amarullz.com/) [:gh:](https://github.com/amarullz/AnimeTV)
 
 ::: details More Apps
-- [Awery](https://github.com/MrBoomDeveloper/Awery) [:e:](/guides/tech/repo)
 - [Himitsu](https://repodevil.vercel.app/) [:gl:](https://gitlab.com/RepoDevil/himitsu) [:e:](/guides/tech/repo)
 - [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one)
   - [Stremio Tools](#anime-tools)
@@ -356,7 +355,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | [Kavita](https://www.kavitareader.com/) | [komf](https://github.com/Snd-R/komf) <Badge type="tip" text="Script" link="https://github.com/Snd-R/komf-userscript" /> |
 | [Komga](https://komga.org/) | [Komelia](https://github.com/Snd-R/Komelia) :and::win::lin: <br> [komf](https://github.com/Snd-R/komf) <Badge type="tip" text="Script" link="https://github.com/Snd-R/komf-userscript" /> <br> [Komga Bulk Download Helper](https://github.com/darthmooguy/komga-bulk-download-helper) :js: |
 | [LANraragi](https://sugoi.gitbook.io/lanraragi/v/dev) | [Ichaival](https://github.com/Utazukin/Ichaival) :and: <br> [LANreader](https://github.com/Doraemoe/LANreader) :app: <br> [LRReader](https://github.com/Guerra24/LRReader) :win: |
-| [Plex](https://www.plex.tv/) | [MPV Shim for Plex](https://github.com/iwalton3/plex-mpv-shim) <br> [Plex to AniList Sync](https://github.com/RickDB/PlexAniSync) <br> [PlexAniSync-Mappings](https://github.com/mizz141/PlexAniSync-Mappings) <br> [PlexAniBridge](https://plexanibridge.elias.eu.org/) [:gh:](https://github.com/eliasbenb/PlexAniBridge) |
+| [Plex](https://www.plex.tv/) | [MPV Shim for Plex](https://github.com/iwalton3/plex-mpv-shim) <br> [Plex to AniList Sync](https://github.com/RickDB/PlexAniSync) <br> [PlexAniBridge](https://plexanibridge.elias.eu.org/) [:gh:](https://github.com/eliasbenb/PlexAniBridge) |
 
 ::: tip Mihon, Aniyomi & forks
 [**Android apps**](#manga-readers) that support the mihon extension system, can be used as clients for Jellyfin, Komga, Kavita & LANraragi. You can get extensions from [**here**](/guides/tech/repo).
