@@ -569,6 +569,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
   - [:tg: YaichiList](https://t.me/addlist/xA7wYMGu0CI2YzBh) :strm:
 
 ### Manga
+- [ZonaTMO](https://zonatmo.com/)
 - [TuMangaOnline](https://zonatmo.com/) <Badge type="info" text="2" link="https://lectormanga.com/" />
 - [Plot Twist No Fansub](https://plotnf.com/)
 - [AnzMangas](https://www.anzmangashd.com/)
