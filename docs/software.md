@@ -16,21 +16,28 @@ og:
 
 ## Anime Streaming
 
-- [Aniyomi](https://aniyomi.org/) :s: [:gh:](https://github.com/aniyomiorg/aniyomi) [:e:](/guides/tech/repo)
-  - [Animetail](https://github.com/Dark25/Animetail2) [:e:](/guides/tech/repo)
-  - [Animiru](https://github.com/quickdesh/Animiru) [:e:](/guides/tech/repo)
-- [Dantotsu](https://dantotsuapp.netlify.app/) [:gh:](https://github.com/rebelonion/Dantotsu) [:e:](/guides/tech/repo)
-- [Cloudstream](https://cloudstream.on.fleek.co/) [:gh:](https://github.com/recloudstream/cloudstream)
-- [Migu](https://miguapp.pages.dev/) [:gh:](https://github.com/NoCrypt/migu)
-- [AnimeTV](https://amarullz.com/) [:gh:](https://github.com/amarullz/AnimeTV)
+::: tip Extensions
+For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/tech/repo).
+:::
 
-::: details More Apps
-- [Himitsu](https://repodevil.vercel.app/) [:gl:](https://gitlab.com/RepoDevil/himitsu) [:e:](/guides/tech/repo)
-- [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one)
-  - [Stremio Tools](#anime-tools)
-- [Mangayomi](https://github.com/kodjodevf/mangayomi)
-- [AnymeX](https://anymex.vercel.app/) [:gh:](https://github.com/RyanYuuki/AnymeX)
-- [Miru App](https://miru.js.org/) [:gh:](https://github.com/miru-project/miru-app)
+| App | Source | Tracker |
+|-|-|-|
+| [Aniyomi](https://aniyomi.org/) :s: [:gh:](https://github.com/aniyomiorg/aniyomi)  | :ddl: | :mal::al::k::simkl: |
+| [Animetail](https://github.com/Dark25/Animetail2)  | :ddl::mag: | :mal::al::k::simkl: |
+| [Dantotsu](https://dantotsuapp.netlify.app/) [:gh:](https://github.com/rebelonion/Dantotsu)  | :ddl::mag: | :mal::al: |
+| [Cloudstream](https://cloudstream.on.fleek.co/) | :ddl: | :mal::al::simkl: |
+| [Migu](https://miguapp.pages.dev/) [:gh:](https://github.com/NoCrypt/migu) | :mag: | :al: |
+| [AnimeTV](https://amarullz.com/) [:gh:](https://github.com/amarullz/AnimeTV) | :ddl: | :mal::al: |
+
+::: details More
+| App | Source | Tracker |
+|-|-|-|
+| [Himitsu](https://repodevil.vercel.app/) [:gl:](https://gitlab.com/RepoDevil/himitsu)  | :ddl: | :al: |
+| [Animiru](https://github.com/quickdesh/Animiru)  | :ddl: | :mal::al::k::simkl: |
+| [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one) | :mag: | :mal::al::k::simkl: |
+| [Mangayomi](https://github.com/kodjodevf/mangayomi) | :ddl::mag: | :mal::al::k: |
+| [AnymeX](https://anymex.vercel.app/) [:gh:](https://github.com/RyanYuuki/AnymeX) | :ddl: | :al: |
+| [Miru App](https://miru.js.org/) [:gh:](https://github.com/miru-project/miru-app) | :ddl::mag: | :al: |
 :::
 
 ::: details :material-symbols-tv-gen-outline: Android TV ranking
