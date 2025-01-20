@@ -219,10 +219,9 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 
 - [r/hentai](https://old.reddit.com/r/hentai/) [:d:](https://discord.gg/rhentai)
 - [r/pornhwa](https://old.reddit.com/r/pornhwa/) [:d:](https://discord.gg/epjkRVp7gD)
-- [:f: /h/](https://boards.4chan.org/h/) :d: <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/h/" /> <Badge type="tip" text="Archive" link="https://archived.moe/h/" />
+- [:f: /h/](https://boards.4chan.org/h/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/h/" /> <Badge type="tip" text="Archive" link="https://archived.moe/h/" />
 - [:f: /e/](https://boards.4chan.org/e/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/e/" /> <Badge type="tip" text="Archive" link="https://archived.moe/e/" />
 - [r/Artistic_Hentai](https://old.reddit.com/r/Artistic_Hentai/)
-- [r/Artistic_Ecchi](https://old.reddit.com/r/Artistic_Ecchi/)
 - [r/doujinshi](https://old.reddit.com/r/doujinshi/)
 - [r/ecchi](https://old.reddit.com/r/ecchi/)
 - [r/hentaimemes](https://old.reddit.com/r/hentaimemes/)
