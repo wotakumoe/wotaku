@@ -89,6 +89,7 @@ const aliases: Record<string, string> = {
   mal: 'simple-icons-myanimelist',
   al: 'simple-icons-anilist',
   k: 'simple-icons-kitsu',
+  simkl: 'simple-icons-simkl',
 
   // Storage
   sgd: 'simple-icons-googledrive',

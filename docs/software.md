@@ -31,8 +31,6 @@ og:
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [AnymeX](https://anymex.vercel.app/) [:gh:](https://github.com/RyanYuuki/AnymeX)
 - [Miru App](https://miru.js.org/) [:gh:](https://github.com/miru-project/miru-app)
-- [AniVu](https://github.com/SkyD666/AniVu)
-- [Animity](https://github.com/kl3jvi/animity)
 :::
 
 ::: details :material-symbols-tv-gen-outline: Android TV ranking
@@ -172,7 +170,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 |-|-|-|-|
 | [Miru](https://miru.watch/) :s: [:gh:](https://github.com/ThaUnknown/miru/) | :win::app::lin: | :mag: | :al: |
 | [Migu](https://miguapp.pages.dev/) [:gh:](https://github.com/NoCrypt/migu) | :win::app::lin: | :mag: | :al: |
-| [Stremio](https://www.stremio.com/) | :win::app::lin: | :mag::ddl: | :mal::al::k::simple-icons-simkl: |
+| [Stremio](https://www.stremio.com/) | :win::app::lin: | :mag::ddl: | :mal::al::k::simkl: |
 | [Mangayomi](https://github.com/kodjodevf/mangayomi) | :win::app::lin: | :mag::ddl: | :mal::al::k: |
 | [Seanime](https://seanime.rahim.app/) | :win::app::lin: | :mag::ddl: | :al: |
 | [Unyo](https://github.com/K3vinb5/Unyo) | :win::app::lin: | :ddl: | :al: |
@@ -184,7 +182,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 | [Toru](https://github.com/sweetbbak/toru) | :win::app::lin::cmd: | :mag: | :no: |
 | [Miru App](https://miru.js.org/) [:gh:](https://github.com/miru-project/miru-app) | :win: | :mag::ddl: | :al: |
 | [Zenshin](https://hitarth-gg.github.io/zenshin-website/) [:gh:](https://github.com/hitarth-gg/zenshin) | :win::app::lin: | :mag: | :al: |
-| [Totoro](https://github.com/insomniachi/Totoro) | :win: | :mag::ddl: | :mal::al::simple-icons-simkl: |
+| [Totoro](https://github.com/insomniachi/Totoro) | :win: | :mag::ddl: | :mal::al::simkl: |
 | [ani-cli](https://github.com/pystardust/ani-cli) | :win::app::lin::cmd: | :ddl: | :no: |
 
 :::
@@ -320,7 +318,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | [Hachidori](https://malupdaterosx.moe/hachidori/) [:gh:](https://github.com/Atelier-Shiori/hachidori)       | :app:      | :mal:      |
 | [Keroro](https://github.com/hotsno/keroro)     | :simple-icons-mpv:   | :al:           |
 | [MALClient](https://apps.microsoft.com/store/detail/malclient/9NBLGGH5F3BL) [:gh:](https://github.com/Drutol/MALClient) | :win:                    | :mal:    |
-| [MAL-Sync](https://malsync.moe/) [:gh:](https://github.com/MALSync/MALSync)       | :cr::ff::js:     | :mal: :al: :k: :simple-icons-simkl: :simple-icons-shikimori: |
+| [MAL-Sync](https://malsync.moe/) [:gh:](https://github.com/MALSync/MALSync)       | :cr::ff::js:     | :mal: :al: :k: :simkl: :simple-icons-shikimori: |
 | [Taiga](https://taiga.moe/) [:gh:](https://github.com/erengy/taiga)     | :win:       | :mal: :al: :k:  |
 | [Trackma](https://z411.github.io/trackma/) [:gh:](https://github.com/z411/trackma)   | :lin:   | :mal: :al: :k: :simple-icons-shikimori:  |
 | [Tundra](https://tundra.moe/) [:gh:](https://github.com/m4tx/tundra)    | :lin:      | :mal:     |

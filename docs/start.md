@@ -159,6 +159,7 @@ Sample code [**here**](https://rentry.org/ty7iihnf)
 | :mal: | `:mal:` | MyAnimeList |
 | :al: | `:al:` | AniList |
 | :k: | `:k:` | Kitsu |
+| :simkl: | `:simkl:` | SIMKL |
 
 == Storage
 
