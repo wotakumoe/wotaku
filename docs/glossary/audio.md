@@ -706,7 +706,7 @@ You can check out [**AKB48**](https://www.youtube.com/@akb48/), [**BABYMETAL**](
 
 ::: info Where to purchase Japanese Music?
 
-Give the [Wotaku music page](https://wotaku.wiki/music\#purchase) a look. Both [**Ototoy**](https://ototoy.jp/top/) and [**Bandcamp**](https://bandcamp.com/) house a lot of high quality japanese music, both from the mainstream as well as the underground. Each storefront allows the user to save music purchases to an account. As long as the service is live, music can be redownloaded indefinitely. Both services also offer lossless, as well as 24 bit lossless.
+Give the [Wotaku music page](/music#purchase) a look. Both [**Ototoy**](https://ototoy.jp/top/) and [**Bandcamp**](https://bandcamp.com/) house a lot of high quality japanese music, both from the mainstream as well as the underground. Each storefront allows the user to save music purchases to an account. As long as the service is live, music can be redownloaded indefinitely. Both services also offer lossless, as well as 24 bit lossless.
 
 For physicals, [**Suruga-ya**](https://www.suruga-ya.com/en/index) is a Japanese second hand market with a good english translation and international shipping feature. Otherwise, a website such as booth-pm or melonbooks can be navigated with minimal trouble, however, a proxy shipping service must be utilized. 
 :::

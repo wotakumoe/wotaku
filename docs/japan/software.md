@@ -224,4 +224,4 @@ ___
 - [Lapis](https://github.com/donkuri/lapis)
 - [LN Readability](https://colab.research.google.com/github/Gilfaro/ln-recommender/blob/main/LNReadability.ipynb)
 - [Supermemo](https://super-memory.com/) <Badge type="warning" text="Trialware"/><Badge type="tip" text="Wiki" link="https://www.supermemo.wiki/en/home" />
-- [OCR/Translator section](https://wotaku.wiki/software#ocr-translator)
+- [OCR/Translator section](/software#ocr-translator)

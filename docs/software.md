@@ -80,6 +80,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 - [LN Reader](https://lnreader.github.io/) [:gh:](https://github.com/LNReader/lnreader) [:e:](/guides/tech/repo/#lnreader)
 - [Quicknovel](https://github.com/LagradOst/QuickNovel)
 - [Shosetsu](https://shosetsu.app/) [:gl:](https://gitlab.com/shosetsuorg/shosetsu)
+- [Dantotsu](https://dantotsuapp.netlify.app/) [:gh:](https://github.com/rebelonion/Dantotsu) [:e:](/guides/tech/repo#dantotsu)
 - [Legado](https://gedoor.github.io/) [:gh:](https://github.com/gedoor/legado) [:e:](/guides/tech/repo#legado)
 - [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha)
 - [Ranobe](https://github.com/ranobe-org/ranobe)
@@ -378,7 +379,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Sugoi Translation Toolkit](https://blog.sugoitoolkit.com/) :cs:
 - [Transformers OCR](https://github.com/Ajatt-Tools/transformers_ocr)
 - [Yomiwa](https://www.yomiwa.net/) :cs:
-- :more: [OCR Game tools](https://wotaku.wiki/games#tools)
+- :more: [OCR Game tools](/games#ocr)
 
 :::danger Don't use MTL
 Using Machine Translation to translate manga will be a mess. Manga has lots of slang, cultural references, and visual elements that MTL won't understand. So, it's better to have a human translator who knows the language and culture well. You don't want to end up with a wonky or inaccurate translation!
