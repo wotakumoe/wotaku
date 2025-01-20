@@ -197,7 +197,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 ## AV
 
 ### Stream
-- [MissAV](https://missav.com/en) <Badge type="tip" text="2" link="https://myav.com/" /> <Badge type="tip" text="3" link="https://thisav.com/" />
+- [MissAV](https://missav.ws/)
 - [JAVLibrary](https://www.javlibrary.com/en/)
 - [SexTB](https://sextb.net/)
 - [JavGuru](https://jav.guru/)
