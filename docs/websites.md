@@ -113,8 +113,8 @@ outline: 1
       <li>SW player is 720p only.</li>
     </ul>
   </tooltip>
-- [Animegg](https://www.animegg.org/) :mingcute-server-fill:
-- [Animotvslash](https://www.animotvslash.nl/) :mingcute-server-fill:
+- [AnimeKai](https://animekai.to/home) :mingcute-server-fill:
+- [Animotvslash](https://www.animotvslash.org/) :mingcute-server-fill:
 - [Anivibe](https://anivibe.net/) :mingcute-server-fill: <Badge type="tip" text="2" link="https://anix.sh/home" /> <Badge type="tip" text="3" link="https://www1.aniwave.ch/home" />
 - [Watch Cartoon Online](https://www.wco.tv/) :mingcute-server-fill::mingcute-user-2-fill: <Badge text="2" link="https://www.wcofun.net/" /> <Badge text="3" link="https://www.wcostream.tv/" /> <Badge text="4" link="https://www.wcoforever.tv/" />
   <tooltip>
