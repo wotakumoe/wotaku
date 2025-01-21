@@ -23,7 +23,7 @@ og:
 | [LibreTorrent](https://github.com/proninyaroslav/libretorrent) :s: | :no: | :yes: | :yes: | :yes: |
 | [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) | :yes: | :yes: | :no: | Ads |
 | [Aria2App](https://github.com/devgianlu/Aria2App) | :yes: | :yes: | :yes: | :yes: |
-| [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) | :no: | :yes: | :no: | Ads, theme limit |
+| [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud)<tooltip>Has a VPN-only option.</tooltip> | :no: | :yes: | :no: | Ads, theme limit |
 | [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) | :yes: | :yes: | :no: | :yes: |
 | [Gopeed](https://gopeed.com/) [:gh:](https://github.com/GopeedLab/gopeed) | :yes: | :yes: | :yes: | :yes: |
 
