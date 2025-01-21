@@ -151,7 +151,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
   - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) :and::cs:
   - [LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) :and:
   - [Internet Download Manager](https://www.internetdownloadmanager.com/) :win::paid::cs: <Badge text="Guide" link="https://rentry.org/installidm" />
-  - [JDownloader 2](https://jdownloader.org/) :win::app::lin::cs: <Badge text="Debloat" link="/guides/misc#jdownloader-ad-removal" />
+  - [JDownloader 2](https://jdownloader.org/) :win::app::lin::cs: <Badge text="Debloat" link="/guides/tech/jdl" />
 - **Torrent**
   - [libretorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) :and:
   - [qBittorrent](https://www.qbittorrent.org/) :win::app::lin:
