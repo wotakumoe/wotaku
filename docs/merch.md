@@ -132,7 +132,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [YESASIA](https://www.yesasia.com/global/en/home.html)
 ___
 #### Figures / Merch
-- [ABYstyle](https://www.abystyle.com/en/)
+- [ABYstyle](https://www.abystyle.com/en/) <Badge type="green" link="" text="SFW"/>
 - [Big in Japan](https://biginjap.com/)
 - [E2046.com](https://www.e2046.com/)
 - [Hobby Link](https://www.hlj.com/)
