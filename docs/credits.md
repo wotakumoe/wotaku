@@ -34,7 +34,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Bandai Namco** | [Boa Hancock](https://opbr-en.bn-ent.net/character/detail/0017.html) | [Anime Banner](/qs#anime) |
 | **Capcom** | [Phoenix Wright](https://news.capcomusa.com/lets/browse/phoenix-wright-ace-attorney-trilogy-dev-column-2-the-art-of-the-turnabout) | [Legal banner](/websites#legal) |
 | **ChristieDA** | [Headphone Anime Girl Render](https://www.deviantart.com/christieda/art/Headphone-Anime-Girl-Render-611521170) | [Audio glossary banner](/glossary/audio#audio-file-1) |
-| **돌만 (Dollman)** | [𝗧𝗔𝗞 [𝗺𝗼𝗰𝗵𝗶𝗺𝗼𝗰𝗵𝗶] :twemoji-dango:](https://x.com/TAK_DRDR/status/1827994397784657986) | Software link embed |
+| **돌만 (Dollman)** | [𝗧𝗔𝗞 [𝗺𝗼𝗰𝗵𝗶𝗺𝗼𝗰𝗵𝗶]🍡](https://x.com/TAK_DRDR/status/1827994397784657986) | Software link embed |
 | **Dr.Pigeon PhD** | [Smol Ame with Christmas hat](https://x.com/PhdPigeon/status/1869579249688231945) | [Favicon](/) |
 | **Dr.Pigeon PhD** | [Smol Ame in winter jacket](https://x.com/PhdPigeon/status/1866313003119030404) | [Home art](/) |
 | **Erik Larsen** | [Spawn](https://antiheroes.fandom.com/wiki/Spawn) | [Comics banner](/websites#comics) |

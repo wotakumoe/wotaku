@@ -87,7 +87,7 @@ ___
 - [Nani?](https://f-droid.org/en/packages/eu.lepiller.nani/)
 - [Rin](https://github.com/kamui-fin/rin)
 ___
-#### Apple
+#### iOS
 - [Kantan Manga](https://apps.apple.com/us/app/kantan-manga/id1518666365)
 - [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380)
 
