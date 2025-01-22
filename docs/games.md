@@ -34,17 +34,17 @@ og:
 
 ### General
 - [/r/Roms Megathread](https://r-roms.github.io/) :s:
-- [CDRomance](https://cdromance.com/)
 - [ConsoleRoms](https://www.consoleroms.com/)
 - [Crocdb](https://crocdb.net/)
 - [EBZero ROM set](https://archive.org/details/retro-roms-best-set) :acc:
 - [Edge Emulation](https://edgeemu.net/)
 - [FantasyAnime](https://fantasyanime.com/)
 - [Myrient](https://myrient.erista.me/)
+- [RetroGameTalk](https://retrogametalk.com/) :acc:
 - [Romheaven](https://romheaven.com/) <Badge type="info" text="2" link="https://romheaven.su/" />
 - [ROMsPURE](https://romspure.cc/roms)
 - [The ROM Depot](https://theromdepot.com/) :acc:
-- [AlvRo's Collection](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml)
+- [AlvRo's Collection](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml) :host:
 
 ### Platform Specific
 - [hShop](https://hshop.erista.me/) :simple-icons-nintendo3ds:
