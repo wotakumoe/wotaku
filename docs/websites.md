@@ -26,8 +26,7 @@ outline: 1
 - [KickAssAnime](https://kaas.ro/) :mingcute-server-fill::mingcute-shovel-fill::mingcute-user-2-fill: <Badge type="info" text="Proxies" link="https://watchanime.io/" />
   <tooltip>
     <ul>
-      <li>KAA encodes (videstreaming) are okay but really inconsistent.</li>
-      <li>Birdstream player scrapes Bilibili.</li>
+      <li>KAA encodes are on Videstreaming, Birdstream scrapes Bilibili.</li>
       <li>Pretty good for Airing anime.</li>
       <li>Has good amount of missing old titles, but you can request them in their support server.</li>
     </ul>
