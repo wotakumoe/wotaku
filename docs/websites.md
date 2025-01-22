@@ -543,10 +543,10 @@ ___
 - [Comics All](https://comics-all.com/) <Badge type="tip" text="2" link="https://newcomic.info/" />
 - [Comics For All](https://comicsforall269084760.wordpress.com/) <Badge type="info" text="Vintage"/>
 - [Desuarchive](https://desuarchive.org/) <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
-- [GetComics](https://getcomics.info/) :s:
+- [GetComics](https://getcomics.info/) :s: <Badge type="info" text="PD Bypass" link="https://pixeldrain-bypass.cybar.xyz/" />
 - [Library Genesis+](https://libgen.gs/) <Badge type="info" text="Proxies" link="https://rentry.org/wotaxy#library-genesis" />
 - [Old Comics World](https://oldcomicsworld.blogspot.com/) <Badge type="info" text="Vintage"/>
-- [TheLongbox](https://thelongbox.net/) :acc:
+- [TheLongbox](https://thelongbox.net/) :host::acc:
 
 ## Others
 - **Info**

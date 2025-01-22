@@ -13,10 +13,11 @@ og:
 ## General Download
 
 - [Nyaa](https://nyaa.si/?f=0&c=6_2&q=)  <Badge type="green" text="SFW" />
+- [CS RIN](https://cs.rin.ru/forum/)
 - [Doujin Style](https://doujinstyle.com/) <Badge type="info" text="Doujin" />
 - [Free GOG PC Games](https://freegogpcgames.com/)
 - [Gload](https://gload.to/)
-- [GOG Games](https://gog-games.to/)
+- [GOG Games](https://gog-games.to/) <Badge type="info" text="PD Bypass" link="https://pixeldrain-bypass.cybar.xyz/" />
 - [Japanese PC Compendium](https://japanesepccompendium.blogspot.com/)
 - [Legends World](https://legendsworld.net/main/legendsworld/)
 - [Moriya Shrine](https://moriyashrine.org/) <Badge type="info" text="Touhou" />
@@ -41,7 +42,7 @@ og:
 - [FantasyAnime](https://fantasyanime.com/)
 - [Myrient](https://myrient.erista.me/)
 - [RetroGameTalk](https://retrogametalk.com/) :acc:
-- [Romheaven](https://romheaven.com/) <Badge type="info" text="2" link="https://romheaven.su/" />
+- [Romheaven](https://romheaven.com/) <Badge type="info" text="2" link="https://romheaven.su/" /> <Badge type="info" text="PD Bypass" link="https://pixeldrain-bypass.cybar.xyz/" />
 - [ROMsPURE](https://romspure.cc/roms)
 - [The ROM Depot](https://theromdepot.com/) :acc:
 - [AlvRo's Collection](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml) :host:
