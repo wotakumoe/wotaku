@@ -62,7 +62,7 @@ outline: 1
       <li>Medium library size.</li>
     </ul>
   </tooltip>
-- [Hikari](https://hikaritv.xyz/) :mingcute-server-fill::mingcute-user-2-fill:
+- [Hikari](https://hikari.gg/) <Badge type="tip" text="2" link="https://watch.hikaritv.xyz/" /> :mingcute-server-fill::mingcute-user-2-fill:
   <tooltip>
     <ul>
       <li>Good for new airing.</li>
@@ -113,8 +113,8 @@ outline: 1
       <li>SW player is 720p only.</li>
     </ul>
   </tooltip>
-- [AnimeKai](https://animekai.to/home) :mingcute-server-fill:
-- [Animotvslash](https://www.animotvslash.org/) :mingcute-server-fill:
+- [AnimeKai](https://animekai.to/home) :mingcute-server-fill::mingcute-user-2-fill:
+- [Animotvslash](https://www.animotvslash.org/search) :mingcute-server-fill:<tooltip>Small library size.</tooltip>
 - [Anivibe](https://anivibe.net/) :mingcute-server-fill: <Badge type="tip" text="2" link="https://anix.sh/home" /> <Badge type="tip" text="3" link="https://www1.aniwave.ch/home" />
 - [Watch Cartoon Online](https://www.wco.tv/) :mingcute-server-fill::mingcute-user-2-fill: <Badge text="2" link="https://www.wcofun.net/" /> <Badge text="3" link="https://www.wcostream.tv/" /> <Badge text="4" link="https://www.wcoforever.tv/" />
   <tooltip>
@@ -128,7 +128,7 @@ outline: 1
 
 ### Low Res
 - [AnimeOnsen](https://www.animeonsen.xyz/) :mingcute-server-fill::mingcute-user-2-fill:
-- [AnimeZ](https://animez.org/) :mingcute-server-fill::mingcute-user-2-fill:<tooltip> Good library size, most are scraped from Aniwave.</tooltip>
+- [AnimeZ](https://animez.org/) :mingcute-server-fill::mingcute-user-2-fill:<tooltip>Good library size, most are scraped from Aniwave.</tooltip>
 - [Otaku-Streamers](https://beta.otaku-streamers.com/) :mingcute-server-fill::mingcute-user-2-fill: <Badge type="info" text="Old" link="https://otaku-streamers.com/" /><tooltip> Although new releases are in 1080p, older releases are a mixed bag, ranging from 480p to 720p.</tooltip>
 
 ### Scrapers
