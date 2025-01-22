@@ -531,6 +531,7 @@ ___
 # Comics
 
 ## Online
+- [BatCave.biz](https://batcave.biz/)
 - [Comic Book Plus](http://comicbookplus.com/) <Badge type="info" text="Vintage"/>
 - [Digital Comic Museum](https://digitalcomicmuseum.com/) <Badge type="info" text="Vintage"/>
 - [Read All Comics](https://readallcomics.com/) :s:
