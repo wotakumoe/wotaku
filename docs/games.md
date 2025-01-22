@@ -13,7 +13,7 @@ og:
 ## General Download
 
 - [Nyaa](https://nyaa.si/?f=0&c=6_2&q=)  <Badge type="green" text="SFW" />
-- [CS RIN](https://cs.rin.ru/forum/)
+- [CS RIN](https://cs.rin.ru/forum/) :acc:
 - [Doujin Style](https://doujinstyle.com/) <Badge type="info" text="Doujin" />
 - [Free GOG PC Games](https://freegogpcgames.com/)
 - [Gload](https://gload.to/)
