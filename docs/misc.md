@@ -360,6 +360,7 @@ ___
 
 ### Anime & Manga
 - [r/Anime](https://old.reddit.com/r/anime/wiki/recommendations/)
+  - [/r/anime Awards](https://animeawards.moe/) [:gh:](https://github.com/r-anime/awards-web)
 - [u/FetchFrosh](https://old.reddit.com/r/anime/comments/o16ipm/rebuild_of_the_ultimate_anime_recommendation/)
 - [Sprout Anime Recommender](https://anime.ameo.dev/) :s::mal::al:
 
