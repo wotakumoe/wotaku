@@ -244,82 +244,38 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 
 ## Database
 
-- **General**
-  - [Discogs](https://www.discogs.com/)
-  - [Rate Your Music](https://rateyourmusic.com/)
-  - [VGMdb](https://vgmdb.net/)
-- **Anime**
-  - [Aniplaylist](https://aniplaylist.com/) :s:
-  - [Anime Song Lyrics](https://www.animesonglyrics.com/)
-- **Doujin**
-  - [Dojin Music](https://www.dojin-music.info/)
-  - [VocaDB](https://vocadb.net/)
-  - [Vocaloid Rankings](https://vocaloid-rankings.fly.dev/en)
-  - [TouhouDB](https://touhoudb.com/)
-  - [UtaiteDB](https://utaitedb.net/)
-  - [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)
-  - [THB Wiki](https://thwiki.cc/)
-  - [Touhou Spotify Music](https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit#gid=0)
-  - [Utaite Key](https://utaite-key.info/)
-- **Scrobbler**
-  - [Last.fm](https://www.last.fm/) :s:
-  - [ListenBrainz](https://listenbrainz.org/)
-  - [Libre.fm](https://libre.fm/)
+| Category  | Links           |
+|---------------|--------|
+| **General**   | [Discogs](https://www.discogs.com/)<br>[Rate Your Music](https://rateyourmusic.com/)<br>[VGMdb](https://vgmdb.net/)      |
+| **Anime**     | [Aniplaylist](https://aniplaylist.com/) :s:<br>[Anime Song Lyrics](https://www.animesonglyrics.com/) |
+| **Doujin**    | [Dojin Music](https://www.dojin-music.info/)<br>[VocaDB](https://vocadb.net/)<br>[Vocaloid Rankings](https://vocaloid-rankings.fly.dev/en)<br>[TouhouDB](https://touhoudb.com/)<br>[UtaiteDB](https://utaitedb.net/)<br>[Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)<br>[THB Wiki](https://thwiki.cc/)<br>[Touhou Spotify Music](https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit#gid=0)<br>[Utaite Key](https://utaite-key.info/) |
+| **Scrobbler** | [Last.fm](https://www.last.fm/) :s:<br>[ListenBrainz](https://listenbrainz.org/)<br>[Libre.fm](https://libre.fm/)  |
+
 
 ## Discovery
 
-- **General**
-  - [Every Noise at Once](https://everynoise.com/) :s:
-  - [Rate Your Music](https://rateyourmusic.com/) :s:
-  - [Chosic](https://www.chosic.com/) :s:
-  - [Discover Quickly](https://discoverquickly.com/)
-  - [Skiley](https://skiley.net/)
-  - [Music-Map](https://www.music-map.com/)
-  - [Japanese music by year](https://en.wikipedia.org/wiki/Category:Japanese_music_by_year) <Badge type="tip" text="Wand" link="https://www.wikiwand.com/en/Category:Japanese_music_by_year" />
-  - [Dubolt](https://dubolt.com/)
-- **RYM Ultimate Box Set** :s:
-  - [Japanese Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-japanese-music/)
-  - [Doujin Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-doujin-music/)
-  - [Touhou Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-touhou-music/)
-  - [Vocaloid](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-vocaloid/)
-  - [Utaite Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-utaite-music/)
-- **Vocaloid**
-  - [Imo Danshaku](https://www.youtube.com/@%E3%81%84%E3%82%82%E7%94%B7%E7%88%B5-g7g)
-  - [Vocamed](https://www.youtube.com/@vocamed)
-  - [:f: /jp/ vocaloid playlist ](https://www.youtube.com/playlist?list=PLQqLx44OgzZybkIf7LZ2YI8iLL9b3BpJw)
-  - [Vocaloid Big Hits](https://music.youtube.com/playlist?list=RDCLAK5uy_mgu07-HoqLSU-WqjK2ldEQWLuPPm3CAy8)
+| Category    | Links       |
+|----|------|
+| **General**    | [Every Noise at Once](https://everynoise.com/) :s:<br>[Rate Your Music](https://rateyourmusic.com/) :s:<br>[Chosic](https://www.chosic.com/) :s:<br>[Discover Quickly](https://discoverquickly.com/)<br>[Skiley](https://skiley.net/)<br>[Music-Map](https://www.music-map.com/)<br>[Japanese music by year](https://en.wikipedia.org/wiki/Category:Japanese_music_by_year) <Badge type="tip" text="Wand" link="https://www.wikiwand.com/en/Category:Japanese_music_by_year" /><br>[Dubolt](https://dubolt.com/) |
+| **RYM Ultimate Box Set** :s: | [Japanese Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-japanese-music/)<br>[Doujin Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-doujin-music/)<br>[Touhou Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-touhou-music/)<br>[Vocaloid](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-vocaloid/)<br>[Utaite Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-utaite-music/) |
+| **Vocaloid**    | [Imo Danshaku](https://www.youtube.com/@%E3%81%84%E3%82%82%E7%94%B7%E7%88%B5-g7g)<br>[Vocamed](https://www.youtube.com/@vocamed)<br>[:f: /jp/ vocaloid playlist](https://www.youtube.com/playlist?list=PLQqLx44OgzZybkIf7LZ2YI8iLL9b3BpJw)<br>[Vocaloid Big Hits](https://music.youtube.com/playlist?list=RDCLAK5uy_mgu07-HoqLSU-WqjK2ldEQWLuPPm3CAy8) |
+
 
 ## Portal
 
-- **Release**
-  - [Japanese Music Calendar](https://docs.google.com/spreadsheets/d/1VcrXXQKn_wuwtiExqZK9Ahj2R4jqwDIgL4O7xPBKAIs/edit#gid=928410087)
-  - [ORICON](https://www.oricon.co.jp/release/album/)
-- **General**
-  - [Billboard JAPAN](https://www.billboard-japan.com/d_news/jpn/) :fjp:
-  - [JaME](https://www.jame-world.com/en/) :s:
-  - [Natalie](https://natalie.mu/music/news/)
-  - [Uta-Net](https://www.uta-net.com/) :fjp:
-  - [UtaTen](https://utaten.com/) :fjp:
-  - [Make Believe Mailer](https://mbmelodies.substack.com/) :s:
-- **Doujin & Vocaloid**
-  - [Vocasphere](https://vocasphere.net/)
-  - [Merami fan](https://meramifan.wordpress.com/) :s:
-  - [Touhou Memories](https://touhou-memories.com/)
-  - [Hatsune Miku](https://x.com/cfm_miku_en)
+| Category   | Links    |
+|---|------|
+| **Release**   | [Japanese Music Calendar](https://docs.google.com/spreadsheets/d/1VcrXXQKn_wuwtiExqZK9Ahj2R4jqwDIgL4O7xPBKAIs/edit#gid=928410087)<br>[ORICON](https://www.oricon.co.jp/release/album/)      |
+| **General**   | [Billboard JAPAN](https://www.billboard-japan.com/d_news/jpn/) :fjp:<br>[JaME](https://www.jame-world.com/en/) :s:<br>[Natalie](https://natalie.mu/music/news/)<br>[Uta-Net](https://www.uta-net.com/) :fjp:<br>[UtaTen](https://utaten.com/) :fjp:<br>[Make Believe Mailer](https://mbmelodies.substack.com/) :s: |
+| **Doujin & Vocaloid**  | [Vocasphere](https://vocasphere.net/)<br>[Merami fan](https://meramifan.wordpress.com/) :s:<br>[Touhou Memories](https://touhou-memories.com/)<br>[Hatsune Miku](https://x.com/cfm_miku_en)      |
+
 
 ## Others
 
-- **Ranking**
-  - [Kworb](https://kworb.net/) :s:
-  - [ORICON](https://www.oricon.co.jp/music/rankinglab/) :s: <Badge type="tip" text="Full" link="https://www.oricon.co.jp/rank/" />
-  - [Billboard JAPAN](https://www.billboard-japan.com/charts/)
-  - [Uta-Net](https://www.uta-net.com/ranking/)
-  - [UtaTen](https://utaten.com/ranking/)
-- **Events**
-  - [JaME](https://www.jame-world.com/en/event) :s:
-  - [Tokyo Dross](https://tokyodross.blogspot.com/) :s:
-  - [Doujin Events](https://docs.google.com/document/d/1Kf4gf2Dtnc_Cd2ndRWacw9QGy8kYvUTZ7K9rkR8D2-0/edit)
-  - [Songkick](https://www.songkick.com/) <Badge type="info" text="General" />
+| Category  | Links   |
+|-----|-----|
+| **Ranking**    | [Kworb](https://kworb.net/) :s:<br>[ORICON](https://www.oricon.co.jp/music/rankinglab/) :s: <Badge type="tip" text="Full" link="https://www.oricon.co.jp/rank/" /><br>[Billboard JAPAN](https://www.billboard-japan.com/charts/)<br>[Uta-Net](https://www.uta-net.com/ranking/)<br>[UtaTen](https://utaten.com/ranking/) |
+| **Events**     | [JaME](https://www.jame-world.com/en/event) :s:<br>[Tokyo Dross](https://tokyodross.blogspot.com/) :s:<br>[Doujin Events](https://docs.google.com/document/d/1Kf4gf2Dtnc_Cd2ndRWacw9QGy8kYvUTZ7K9rkR8D2-0/edit)<br>[Songkick](https://www.songkick.com/) <Badge type="info" text="General" />            |
 
 
 ![](/music/mph.webp)
@@ -336,22 +292,13 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [USB Audio Player PRO](https://play.google.com/store/apps/details?id=com.extreamsd.usbaudioplayerpro&hl=en&gl=US) :and::cs::paid:
 
 ### Online
-- [**Youtube Music**](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
-  - [Revanced Music](https://github.com/j-hc/revanced-magisk-module/releases) :and:
-  - [Innertune](https://github.com/z-huang/InnerTune) :s::and:
-  - [Metrolist](https://github.com/mostafaalagamy/metrolist) :and:
-  - [OuterTune](https://github.com/DD3Boh/OuterTune) :and:
-  - [RiMusic](https://github.com/fast4x/RiMusic) :and:
-  - [SimpMusic](https://github.com/maxrave-dev/SimpMusic) :and:
-- [**Spotify**](https://www.spotify.com/us/download/) :cs:
-  - [xManager](https://www.xmanagerapp.com/) :and::cs:
-  - [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) :app::cs:
-- [Apple Music](https://apps.apple.com/us/app/apple-music/id1108187390) :app::cs:
-- [ReFreezer](https://github.com/DJDoubleD/refreezer) :and: `Deezer` 
-- [Echo](https://github.com/brahmkshatriya/echo) :and: `General`
-- [Harmony Music](https://github.com/anandnet/Harmony-Music) :and: `YouTube`
-- [Soundbound](https://soundbound.app/) :and::cs: `General`
-- [Transistor](https://codeberg.org/y20k/transistor) :and::cs: `Radio`
+| Category  | Links    |
+|-----|----------------|
+| **General** | [Echo](https://github.com/brahmkshatriya/echo) :and:<br>[Soundbound](https://soundbound.app/) :and::cs:    |
+| **YouTube** | [**Youtube Music**](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)<br>[Revanced Music](https://github.com/j-hc/revanced-magisk-module/releases) :and:<br>[Innertune](https://github.com/z-huang/InnerTune) :s::and:<br>[Metrolist](https://github.com/mostafaalagamy/metrolist) :and:<br>[OuterTune](https://github.com/DD3Boh/OuterTune) :and:<br>[RiMusic](https://github.com/fast4x/RiMusic) :and:<br>[SimpMusic](https://github.com/maxrave-dev/SimpMusic) :and:<br>[Harmony Music](https://github.com/anandnet/Harmony-Music) :and: |
+| **Spotify** | [**Spotify**](https://www.spotify.com/us/download/) :cs:<br>[xManager](https://www.xmanagerapp.com/) :and::cs:<br>[SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) :app::cs:     |
+| **Others**  | [Apple Music](https://apps.apple.com/us/app/apple-music/id1108187390) :app::cs:<br>[ReFreezer](https://github.com/DJDoubleD/refreezer) :and: `Deezer`<br>[Transistor](https://codeberg.org/y20k/transistor) :and::cs: `Radio` |
+
 
 ### Audiobook
 - [Voice](https://github.com/PaulWoitaschek/Voice) :and:
@@ -361,21 +308,13 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 
 ## Tools
 
-- **Identifier**
-  - [Audile](https://github.com/aleksey-saenko/MusicRecognizer) :and:
-  - [Audire](https://github.com/alexmercerind/audire) :simple-icons-shazam::and:
-- **Lyrics**
-  - [FastLyrics](https://github.com/TecCheck/FastLyrics)
-  - [Lyrics Grabbr](https://github.com/IllusionMan1212/lyrics-grabbr)
-  - [Rush](https://github.com/shub39/Rush)
-  - [SongSync](https://github.com/Lambada10/SongSync)
-- **Scrobbler**
-  - [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) :mdi-lastfm::and:
-  - [Marvis Pro](https://apps.apple.com/au/app/marvis-pro/id1447768809) :mdi-lastfm::app::cs:
-- **Others**
-  - [MusicSearch](https://github.com/lydavid/MusicSearch) :and: <Badge type="info" text="MusicBrainz" />
-  - [Seeker](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1) :and: <Badge type="info" text="Soulseek" />
-  - [Stats.fm](https://stats.fm/) :mdi-spotify::and::app::cs:
+| Category | Links   |
+|---|-----|
+| **Identifier**| [Audile](https://github.com/aleksey-saenko/MusicRecognizer) :and:<br>[Audire](https://github.com/alexmercerind/audire) :simple-icons-shazam::and:    |
+| **Lyrics**    | [FastLyrics](https://github.com/TecCheck/FastLyrics)<br>[Lyrics Grabbr](https://github.com/IllusionMan1212/lyrics-grabbr)<br>[Rush](https://github.com/shub39/Rush)<br>[SongSync](https://github.com/Lambada10/SongSync)            |
+| **Scrobbler** | [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) :mdi-lastfm::and:<br>[Marvis Pro](https://apps.apple.com/au/app/marvis-pro/id1447768809) :mdi-lastfm::app::cs:                                                   |
+| **Others**    | [MusicSearch](https://github.com/lydavid/MusicSearch) :and: <Badge type="info" text="MusicBrainz" /><br>[Seeker](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1) :and: <Badge type="info" text="Soulseek" /><br>[Stats.fm](https://stats.fm/) :mdi-spotify::and::app::cs: |
+
 
 
 ![](/music/mpc.webp)
@@ -581,18 +520,10 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 ![](/music/mcm.webp)
 # Communities
 
-## Forums
-- [Anime Music Videos](https://www.animemusicvideos.org/forum/)
-- [SquidBoard](https://www.squid-board.org/)
-- [VocaVerse Network](https://vocaverse.network/)
+<br>
 
-## Discord
-- [Doujin Cafe](https://discord.gg/doujincafe)
-- [DoujinStyle](https://discord.gg/z2QDFdA)
-- [MikuDB](https://discord.gg/w9Dq25n)
-- [OTAQUEST](https://discord.gg/SCHR2QB)
-- [Sitting on Clouds](https://discord.gg/x23SFbE)
-
-## Subreddits
-- [Vocaloid](https://old.reddit.com/r/vocaloid/)
-- [VocaTorrent](https://old.reddit.com/r/VocaTorrent/)
+| Category      | Links    |
+|---------------|-------|
+| **Forums**    | [Anime Music Videos](https://www.animemusicvideos.org/forum/)<br>[SquidBoard](https://www.squid-board.org/)<br>[VocaVerse Network](https://vocaverse.network/) |
+| **Discord**   | [Doujin Cafe](https://discord.gg/doujincafe)<br>[DoujinStyle](https://discord.gg/z2QDFdA)<br>[MikuDB](https://discord.gg/w9Dq25n)<br>[OTAQUEST](https://discord.gg/SCHR2QB)<br>[Sitting on Clouds](https://discord.gg/x23SFbE) |
+| **Subreddits**| [Vocaloid](https://old.reddit.com/r/vocaloid/)<br>[VocaTorrent](https://old.reddit.com/r/VocaTorrent/)   |
