@@ -256,7 +256,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 
 ## Online
 
-- [Comick](https://comick.io/home) :s: [:rss:](https://manga.ldez.workers.dev/) 
+- [Comick](https://comick.io/home) :s: [:rss:](https://manga-ldez.vercel.app/) 
   <tooltip>
     <ul>
       <li>Minimal compression</li>
