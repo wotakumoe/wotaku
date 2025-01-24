@@ -20,11 +20,11 @@ og:
 | Name | DDL | P2P | FOSS | Free |
 |-|-|-|-|-|
 | [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) :s: | :yes: | :yes: | :no: | Ads, feature limit |
+| [BiglyBT](https://play.google.com/store/apps/details?id=com.biglybt.android.client) :s: | :no: | :yes: | :yes: | :yes: |
 | [LibreTorrent](https://github.com/proninyaroslav/libretorrent) :s: | :no: | :yes: | :yes: | :yes: |
 | [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) | :yes: | :yes: | :no: | Ads |
 | [Aria2App](https://github.com/devgianlu/Aria2App) | :yes: | :yes: | :yes: | :yes: |
 | [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud)<tooltip>Has a VPN-only option.</tooltip> | :no: | :yes: | :no: | Ads, theme limit |
-| [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) | :yes: | :yes: | :no: | :yes: |
 | [Gopeed](https://gopeed.com/) [:gh:](https://github.com/GopeedLab/gopeed) | :yes: | :yes: | :yes: | :yes: |
 
 #### iOS
@@ -80,9 +80,9 @@ og:
 | [qBittorrent](https://www.qbittorrent.org/) :s: [:gh:](https://github.com/qbittorrent/qBittorrent/) | :win::app::lin: | :no: | :yes: | :yes: |
 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) :s: | :win::app::lin::cmd: | :yes: | :no: | :yes: |
 | [AB Download Manager](https://abdownloadmanager.com/) [:gh:](https://github.com/amir1376/ab-download-manager) | :win::lin: | :yes: | :no: | :yes: |
+| [BiglyBT](https://www.biglybt.com/) [:gh:](https://github.com/BiglySoftware/BiglyBT) | :win::app::lin::bsd: | :no: | :yes: | :yes: |
 | [Deluge](https://www.deluge-torrent.org/) [:gh:](https://github.com/deluge-torrent/deluge) | :win::app::lin: | :no: | :yes: | :yes: |
 | [File centipede](https://filecxx.com/en_US/index.html) [:gh:](https://github.com/filecxx/FileCentipede) | :win::lin: | :yes: | :yes: | :yes: |
-| [Free Download Manager](https://www.freedownloadmanager.org/) | :win::app::lin: | :yes: | :yes: | :no: |
 | [Gopeed](https://gopeed.com/) [:gh:](https://github.com/GopeedLab/gopeed) | :win::app::lin: | :yes: | :yes: | :yes: |
 | [ImFile](https://imfile.io/) [:gh:](https://github.com/imfile-io/imfile-desktop/) | :win::app: | :yes: | :yes: | :yes: |
 | [JDownloader](https://jdownloader.org/) | :win::app::lin: | :yes: | :no: | :no: |
