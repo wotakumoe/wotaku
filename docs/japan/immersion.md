@@ -125,7 +125,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 
 ### Audiobook
 - [Nyaa.si](https://nyaa.si/) :s:
-- [Japanese Audiobooks Collection (2022)](https://core6000.neocities.org/audio/)
+- [Japanese Audiobook Collection](https://core6000.neocities.org/audio/) [:d:](https://discord.gg/nhqjydaR8j)
 - [Librivox](https://librivox.org/)
 - [Aozora Roudoku](https://aozoraroudoku.jp/index.html)
 
