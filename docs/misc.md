@@ -24,11 +24,14 @@ outline: [1,2]
 
 ### Anime
 - [aniDB](https://anidb.net/) :s:
-- [AnimeSongs.org](https://animesongs.org/)
-- [Annict](https://annict.com/)
-- [Aniplaylist](https://aniplaylist.com/)
-- [SIMKL](https://simkl.com/)
 - [Anikore](https://www.anikore.jp/) :fjp:
+- [Animeco](https://animeco.link/) :fjp:
+- [AnimeDB](https://animedb.jp/) :fjp:
+- [AnimeSongs.org](https://animesongs.org/)
+- [Annict](https://annict.com/) :fjp:
+- [Aniplaylist](https://aniplaylist.com/)
+- [Anisil](https://www.anisil.com/) :fjp:
+- [SIMKL](https://simkl.com/)
 
 ### Manga & LN
 - [Mangaupdates](https://www.mangaupdates.com/) :s:
@@ -157,7 +160,6 @@ ___
 
 - **Info / News**
   - [Anime Corner](https://animecorner.me/) :s: [:x:](https://x.com/animecorner_ac)
-  - [AnimeDB](https://animedb.jp/) :fjp:
   - [Anime Freaks](https://times.abema.tv/anime) :fjp:
   - [Anitrendz](https://anitrendz.net/news/) [:x:](https://x.com/anitrendz)
   - [AnimeTV](https://animetv-jp.net/) [:x:](https://x.com/animetv_jp)
