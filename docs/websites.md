@@ -46,17 +46,6 @@ outline: 1
       <li>Has good amount of missing old titles, but you can request them in their support server.</li>
     </ul>
   </tooltip>
-- [Sudatachi](https://sudatchi.com/) :mingcute-server-fill::mingcute-user-2-fill:
-  <tooltip>
-    <ul>
-      <li>Good for new airing.</li>
-      <li>Re-encoded to smaller filesize.</li>
-      <li>Uses IPFS</li>
-      <li>Only 1080p atm for most.</li>
-      <li>Site can go down.</li>
-      <li>Also smaller library size.</li>
-    </ul>
-  </tooltip>
 - [AnimeKai](https://animekai.to/home) :mingcute-server-fill::mingcute-user-2-fill:
   <tooltip>
     <ul>
@@ -65,6 +54,15 @@ outline: 1
       <li>Re-encodes shows for smaller size.</li>
       <li>Mix of Web and Blu-ray releases.</li>
       <li>Anilist scraper is buggy. Adds PV, Specials & Extra entries even though it doesn't have the uploads.</li>
+    </ul>
+  </tooltip>
+- [Sudatachi](https://sudatchi.com/) :mingcute-server-fill::mingcute-user-2-fill:
+  <tooltip>
+    <ul>
+      <li>Smaller library size. Good for new airing.</li>
+      <li>Re-encoded to smaller filesize.</li>
+      <li>Uses IPFS</li>
+      <li>Only 1080p atm for most.</li>
     </ul>
   </tooltip>
 - [HiAnime](https://hianime.to/home) :mingcute-server-fill::mingcute-user-2-fill: <Badge type="info" text="Proxies" link="https://hianime.tv/" />
