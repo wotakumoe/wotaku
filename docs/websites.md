@@ -23,6 +23,21 @@ outline: 1
 
 :::
 
+- [Miruro](https://www.miruro.tv/) :mingcute-shovel-fill::mingcute-refresh-2-fill: <Badge type="info" text="Proxies" link="https://www.miruro.com" />
+  <tooltip>
+    <ul>
+      <li>Nice and minimal UI.</li>
+      <li>Scrapes HiAnime (Zoro & Bun), Animepahe (Kiwi), Anivibe (Vibe), Gogo (Gogo & Vid).</li>
+      <li>Has built-in AniList support.</li>
+    </ul>
+  </tooltip>
+- [AnimeStream](https://anime.uniquestream.net/) :mingcute-shovel-fill:
+  <tooltip>
+    <ul>
+      <li>Scrapes from Crunchyroll.</li>
+      <li>UI is really basic.</li>
+    </ul>
+  </tooltip>
 - [KickAssAnime](https://kaas.ro/) :mingcute-server-fill::mingcute-shovel-fill::mingcute-user-2-fill: <Badge type="info" text="Proxies" link="https://watchanime.io/" />
   <tooltip>
     <ul>
@@ -31,12 +46,25 @@ outline: 1
       <li>Has good amount of missing old titles, but you can request them in their support server.</li>
     </ul>
   </tooltip>
-- [Miruro](https://www.miruro.tv/) :mingcute-shovel-fill::mingcute-refresh-2-fill: <Badge type="info" text="Proxies" link="https://www.miruro.com" />
+- [Sudatachi](https://sudatchi.com/) :mingcute-server-fill::mingcute-user-2-fill:
   <tooltip>
     <ul>
-      <li>Nice and minimal UI.</li>
-      <li>Scrapes HiAnime (Zoro & Bun), Animepahe (Kiwi), Anivibe (Vibe), Gogo (Gogo & Vid).</li>
-      <li>Has built-in AniList support.</li>
+      <li>Good for new airing.</li>
+      <li>Re-encoded to smaller filesize.</li>
+      <li>Uses IPFS</li>
+      <li>Only 1080p atm for most.</li>
+      <li>Site can go down.</li>
+      <li>Also smaller library size.</li>
+    </ul>
+  </tooltip>
+- [AnimeKai](https://animekai.to/home) :mingcute-server-fill::mingcute-user-2-fill:
+  <tooltip>
+    <ul>
+      <li>Huge library.</li>
+      <li>Anime are hard-subbed.</li>
+      <li>Re-encodes shows for smaller size.</li>
+      <li>Mix of Web and Blu-ray releases.</li>
+      <li>Anilist scraper is buggy. Adds PV, Specials & Extra entries even though it doesn't have the uploads.</li>
     </ul>
   </tooltip>
 - [HiAnime](https://hianime.to/home) :mingcute-server-fill::mingcute-user-2-fill: <Badge type="info" text="Proxies" link="https://hianime.tv/" />
@@ -47,20 +75,6 @@ outline: 1
       <li>Re-encodes shows for smaller size.</li>
     </ul>
   </tooltip>
-- [AnimeStream](https://anime.uniquestream.net/) :mingcute-shovel-fill:
-  <tooltip>
-    <ul>
-      <li>Scrapes from Crunchyroll.</li>
-    </ul>
-  </tooltip>
-- [Anime Nexus](https://anime.nexus/) :mingcute-server-fill::mingcute-user-2-fill:
-  <tooltip>
-    <ul>
-      <li>Good bitrate.</li>
-      <li>Has multi-language softsub.</li>
-      <li>Medium library size.</li>
-    </ul>
-  </tooltip>
 - [Hikari](https://hikari.gg/) <Badge type="tip" text="2" link="https://watch.hikaritv.xyz/" /> :mingcute-server-fill::mingcute-user-2-fill:
   <tooltip>
     <ul>
@@ -69,14 +83,12 @@ outline: 1
       <li>Decent library size.</li>
     </ul>
   </tooltip>
-- [Sudatachi](https://sudatchi.com/) :mingcute-server-fill::mingcute-user-2-fill:
+- [Anime Nexus](https://anime.nexus/) :mingcute-server-fill::mingcute-user-2-fill:
   <tooltip>
     <ul>
-      <li>Good for new airing.</li>
-      <li>Re-encoded to smaller filesize.</li>
-      <li>Only 1080p atm for most.</li>
-      <li>Site can go down.</li>
-      <li>Also smaller library size.</li>
+      <li>Good bitrate.</li>
+      <li>Has multi-language softsub.</li>
+      <li>Medium library size.</li>
     </ul>
   </tooltip>
 - [AniZone](https://anizone.to/) :mingcute-server-fill:
@@ -96,7 +108,6 @@ outline: 1
     </ul>
   </tooltip>
 
-
 :::details More
 
 ### Self-hosted
@@ -112,7 +123,6 @@ outline: 1
       <li>SW player is 720p only.</li>
     </ul>
   </tooltip>
-- [AnimeKai](https://animekai.to/home) :mingcute-server-fill::mingcute-user-2-fill:
 - [Animotvslash](https://www.animotvslash.org/search) :mingcute-server-fill:<tooltip>Small library size.</tooltip>
 - [Anivibe](https://anivibe.net/) :mingcute-server-fill: <Badge type="tip" text="2" link="https://anix.sh/home" /> <Badge type="tip" text="3" link="https://www1.aniwave.ch/home" />
 - [Watch Cartoon Online](https://www.wco.tv/) :mingcute-server-fill::mingcute-user-2-fill: <Badge text="2" link="https://www.wcofun.net/" /> <Badge text="3" link="https://www.wcostream.tv/" /> <Badge text="4" link="https://www.wcoforever.tv/" />
