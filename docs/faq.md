@@ -72,7 +72,7 @@ Usenet is a subscription-based service. Though really old, it's still very relia
 A seedbox is a remote service that can download (leech) & upload (seed) from p2p networks. Since it's always online, it keeps the torrents alive, thus helping you keep a high ratio in [PTs](#pt-private-tracker). Examples: [Ultra.cc](https://ultra.cc/), [RapidSeedbox](https://www.rapidseedbox.com/) & [Pulsed Media](https://pulsedmedia.com/).
 
 ### Debrid
-Like a seedbox, it's also a remote service. It can download from p2p and various host sites (e.g. [MEGA](https://mega.io/), [RapidGator](https://rapidgators.net/)). One of the big differences is that they (generally) don't seed p2p files and keep the downloaded files cached on their servers, meaning you can download currently dead torrents that have already been cached in the past. Example: [AllDebrid](https://alldebrid.com/).
+Like a seedbox, it's also a remote service. It can download from p2p and various host sites (e.g. [MEGA](https://mega.io/), [RapidGator](https://rapidgators.net/)). One of the big differences is that they (generally) don't seed p2p files and keep the downloaded files cached on their servers, meaning you can download currently dead torrents that have already been cached in the past. Example: [AllDebrid](https://alldebrid.com/) & [Debrid-Link](https://debrid-link.com/).
 
 :::
 
