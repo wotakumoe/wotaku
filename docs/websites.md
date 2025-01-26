@@ -455,8 +455,8 @@ ___
 
 - [Ganba](https://nyaa.si/user/Ganba)
 - [How Unfortunate](https://nyaa.si/user/HowUnfortunate)
-- [Lucaz](https://nyaa.si/user/LuCaZ)
-- [Stick](https://nyaa.si/user/dumbboy58)
+- [LuCaZ](https://nyaa.si/?f=0&c=0_0&q=%22%5BLuCaZ%5D%22)
+- [Stick](https://nyaa.si/?f=0&c=0_0&q=%22%5Bstick%5D%22)
 
 ### Direct Download
 
@@ -469,10 +469,10 @@ ___
 - [Z-Library](https://z-lib.gs/) <Badge type="info" text="Proxies" link="https://rentry.org/wotaxy#z-library" />
 
 
-## Audiobook
+## Audiobooks
 
-- [PZG](https://nyaa.si/user/Phantom132)
-- [Stick](https://nyaa.si/user/dumbboy58)
+- [PZG](https://nyaa.si/?f=0&c=0_0&q=%22%5Bpzg%5D%22)
+- [Stick](https://nyaa.si/?f=0&c=0_0&q=%22%5Bstick%5D%22)
 - [AudioBook Bay](https://audiobookbay.is/)
 - :more: [Audiobook player for phone](/music#audiobook)
 
