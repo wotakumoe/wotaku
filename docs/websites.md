@@ -453,10 +453,10 @@ ___
 
 ### Nyaa
 
-- [Ganba](https://nyaa.si/user/Ganba)
+- [Ganba](https://nyaa.si/user/Ganba?f=0&c=3_1&q=)
 - [How Unfortunate](https://nyaa.si/user/HowUnfortunate)
-- [LuCaZ](https://nyaa.si/?f=0&c=0_0&q=%22%5BLuCaZ%5D%22)
-- [Stick](https://nyaa.si/?f=0&c=0_0&q=%22%5Bstick%5D%22)
+- [LuCaZ](https://nyaa.si/?f=0&c=3_1&q=%22%5BLuCaZ%5D%22)
+- [Stick](https://nyaa.si/?f=0&c=3_1&q=%22%5Bstick%5D%22)
 
 ### Direct Download
 
@@ -471,8 +471,8 @@ ___
 
 ## Audiobooks
 
-- [PZG](https://nyaa.si/?f=0&c=0_0&q=%22%5Bpzg%5D%22)
-- [Stick](https://nyaa.si/?f=0&c=0_0&q=%22%5Bstick%5D%22)
+- [PZG](https://nyaa.si/?f=0&c=3_1&q=%22%5Bpzg%5D%22)
+- [Stick](https://nyaa.si/?f=0&c=3_1&q=%22%5Bstick%5D%22)
 - [AudioBook Bay](https://audiobookbay.is/)
 - :more: [Audiobook player for phone](/music#audiobook)
 
