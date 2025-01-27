@@ -36,6 +36,16 @@ outline: 1
     <ul>
       <li>Scrapes from Crunchyroll.</li>
       <li>UI is really basic.</li>
+      <li>Browser has to support DRM.</li>
+    </ul>
+  </tooltip>
+- [Anime Nexus](https://anime.nexus/) :mingcute-server-fill::mingcute-user-2-fill: :warning:
+  <tooltip>
+    <ul>
+      <li>Gereally really good quality uploads.</li>
+      <li>Has multi-language softsub.</li>
+      <li>Library size isn't that big. Good for recent airing shows.</li>
+      <li>⚠️ Has optimization issue. Doesn't support Sufferi / WebKit. May not support low-specs phone. Can try different browsers.</li>
     </ul>
   </tooltip>
 - [KickAssAnime](https://kaas.ro/) :mingcute-server-fill::mingcute-shovel-fill::mingcute-user-2-fill: <Badge type="info" text="Proxies" link="https://watchanime.io/" />
@@ -56,15 +66,6 @@ outline: 1
       <li>Anilist scraper is buggy. Adds PV, Specials & Extra entries even though it doesn't have the uploads.</li>
     </ul>
   </tooltip>
-- [Sudatachi](https://sudatchi.com/) :mingcute-server-fill::mingcute-user-2-fill:
-  <tooltip>
-    <ul>
-      <li>Smaller library size. Good for new airing.</li>
-      <li>Re-encoded to smaller filesize.</li>
-      <li>Uses IPFS</li>
-      <li>Only 1080p atm for most.</li>
-    </ul>
-  </tooltip>
 - [HiAnime](https://hianime.to/home) :mingcute-server-fill::mingcute-user-2-fill: <Badge type="info" text="Proxies" link="https://hianime.tv/" />
   <tooltip>
     <ul>
@@ -78,15 +79,16 @@ outline: 1
     <ul>
       <li>Good for new airing.</li>
       <li>Uploads from good sources but re-encoded smaller file size.</li>
-      <li>Decent library size.</li>
+      <li>Large library size.</li>
     </ul>
   </tooltip>
-- [Anime Nexus](https://anime.nexus/) :mingcute-server-fill::mingcute-user-2-fill:
+- [Sudatachi](https://sudatchi.com/) :mingcute-server-fill::mingcute-user-2-fill:
   <tooltip>
     <ul>
-      <li>Good bitrate.</li>
-      <li>Has multi-language softsub.</li>
-      <li>Medium library size.</li>
+      <li>Smaller library size. Good for new airing.</li>
+      <li>Re-encoded to smaller filesize.</li>
+      <li>Uses IPFS</li>
+      <li>Only 1080p atm for most.</li>
     </ul>
   </tooltip>
 - [AniZone](https://anizone.to/) :mingcute-server-fill:
