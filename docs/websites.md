@@ -39,13 +39,13 @@ outline: 1
       <li>Browser has to support DRM.</li>
     </ul>
   </tooltip>
-- [Anime Nexus](https://anime.nexus/) :mingcute-server-fill::mingcute-user-2-fill: :warning:
+- [Anime Nexus](https://anime.nexus/) :mingcute-server-fill::mingcute-user-2-fill:
   <tooltip>
     <ul>
       <li>Gereally really good quality uploads.</li>
       <li>Has multi-language softsub.</li>
       <li>Library size isn't that big. Good for recent airing shows.</li>
-      <li>⚠️ Has optimization issue. Doesn't support Sufferi / WebKit. May not support low-specs phone. Can try different browsers.</li>
+      <li>⚠️Has optimization issues on lower-end phones, may work better on different browsers. Doesn't support Sufferi / WebKit.</li>
     </ul>
   </tooltip>
 - [KickAssAnime](https://kaas.ro/) :mingcute-server-fill::mingcute-shovel-fill::mingcute-user-2-fill: <Badge type="info" text="Proxies" link="https://watchanime.io/" />
