@@ -237,6 +237,8 @@ If you have recommendations for good sites in your native language or want to re
 
 ### Anime
 - [An1me](https://an1me.to/)
+- [AnimeClipse](http://www.animeclipse.com/index.php) :mag:
+- [Sick-Fansubs](https://sickfansubs.com/) :mag:
 
 
 ## Hebrew
