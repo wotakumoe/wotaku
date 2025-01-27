@@ -42,7 +42,7 @@ outline: 1
 - [Anime Nexus](https://anime.nexus/) :mingcute-server-fill::mingcute-user-2-fill:
   <tooltip>
     <ul>
-      <li>Gereally really good quality uploads.</li>
+      <li>Generally good video quality.</li>
       <li>Has multi-language softsub.</li>
       <li>Library size isn't that big. Good for recent airing shows.</li>
       <li>⚠️Has optimization issues on lower-end phones, may work better on different browsers. Doesn't support Sufferi / WebKit.</li>
@@ -52,7 +52,7 @@ outline: 1
   <tooltip>
     <ul>
       <li>KAA encodes are on Videstreaming, Birdstream scrapes Bilibili.</li>
-      <li>Pretty good for Airing anime.</li>
+      <li>Pretty good for airing anime.</li>
       <li>Has good amount of missing old titles, but you can request them in their support server.</li>
     </ul>
   </tooltip>
