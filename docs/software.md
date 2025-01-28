@@ -25,18 +25,18 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 | [Aniyomi](https://aniyomi.org/) :s: [:gh:](https://github.com/aniyomiorg/aniyomi)  | :ddl: | :mal::al::k::simkl: |
 | [Animetail](https://github.com/Dark25/Animetail2)  | :ddl::mag: | :mal::al::k::simkl: |
 | [Dantotsu](https://dantotsuapp.netlify.app/) [:gh:](https://github.com/rebelonion/Dantotsu)  | :ddl::mag: | :mal::al: |
+| [Himitsu](https://repodevil.vercel.app/) [:gl:](https://gitlab.com/RepoDevil/himitsu) [:gh:](https://github.com/RepoDevil/Himitsu) | :ddl::mag: | :mal::al: |
 | [Cloudstream](https://cloudstream.on.fleek.co/) | :ddl: | :mal::al::simkl: |
 | [Migu](https://miguapp.pages.dev/) [:gh:](https://github.com/NoCrypt/migu) | :mag: | :al: |
-| [AnimeTV](https://amarullz.com/) [:gh:](https://github.com/amarullz/AnimeTV) | :ddl: | :mal::al: |
 
 ::: details More
 | App | Source | Tracker |
 |-|-|-|
-| [Himitsu](https://repodevil.vercel.app/) [:gl:](https://gitlab.com/RepoDevil/himitsu)  | :ddl: | :al: |
 | [Animiru](https://github.com/quickdesh/Animiru)  | :ddl: | :mal::al::k::simkl: |
 | [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one) | :mag: | :mal::al::k::simkl: |
 | [Mangayomi](https://github.com/kodjodevf/mangayomi) | :ddl::mag: | :mal::al::k: |
 | [AnymeX](https://anymex.vercel.app/) [:gh:](https://github.com/RyanYuuki/AnymeX) | :ddl: | :al: |
+| [AnimeTV](https://amarullz.com/) [:gh:](https://github.com/amarullz/AnimeTV) | :ddl: | :mal::al: |
 | [Miru App](https://miru.js.org/) [:gh:](https://github.com/miru-project/miru-app) | :ddl::mag: | :al: |
 :::
 
