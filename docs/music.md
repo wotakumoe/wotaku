@@ -25,7 +25,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [Karaoke Mugen](https://kara.moe)
 - [Lyrical Nonsense](https://www.lyrical-nonsense.com/global/)
 - [Anisong Database](https://anisongdb.com/) [:gh:](https://github.com/xSardine/AMQ-Artists-DB) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" />
-- [Squidify](https://www.squidify.org/) <Badge type="tip" text="Guide" link="/guides/music/squidify" />
+- [Squidify](https://www.squidify.org/) <Badge type="tip" text="2" link="https://www.squidify.net/" /> <Badge type="tip" text="Guide" link="/guides/music/squidify" />
 - [One Piece Tracklist](http://onepiecetracklist.com/)
 
 ## AMVs
@@ -41,7 +41,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 
 
 ## Games
-- [Squidify](https://www.squidify.org/) :s: <Badge type="tip" text="Guide" link="/guides/music/squidify" />
+- [Squidify](https://www.squidify.org/) :s: <Badge type="tip" text="2" link="https://www.squidify.net/" /> <Badge type="tip" text="Guide" link="/guides/music/squidify" />
 - [Zophar's Domain](https://www.zophar.net/music) :ddl:
 - [Vidya Intarweb Playlist](https://www.vipvgm.net/)
 - [Keygen Music](https://keygenmusic.tk/)
