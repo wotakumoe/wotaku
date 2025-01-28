@@ -46,6 +46,8 @@ Squidify is based on Navidrome which has its own set of third-party Apps besides
     - [STMP](https://github.com/wildeyedskies/stmp#readme) :app::lin::app:
 
 == Others
+
+- [ampcast](https://ampcast.app/) [:gh:](https://github.com/rekkyrosso/ampcast) :web:
 - [SonicLair](https://github.com/thelinkin3000/SonicLair) :material-symbols-google-tv:
 - **Connected Speakers**
   - [bonob](https://github.com/simojenki/bonob#readme) :simple-icons-sonos:
