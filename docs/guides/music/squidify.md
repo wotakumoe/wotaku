@@ -41,7 +41,7 @@ Squidify is based on Navidrome which has its own set of third-party Apps besides
 - [Sublime Music](https://sublimemusic.app/) :app::lin:
 - [Supersonic](https://github.com/dweymouth/supersonic) :win::app::lin:
 - [Submariner](https://submarinerapp.com/) :app:
-- [ampcast](https://ampcast.app/) :win::web: [:gh:](https://github.com/rekkyrosso/ampcast)
+- [ampcast](https://ampcast.app/) :win::app::lin::web: [:gh:](https://github.com/rekkyrosso/ampcast)
 - **CLI**
     - [Jellycli](https://github.com/tryffel/jellycli#readme) :win::app::lin:
     - [STMP](https://github.com/wildeyedskies/stmp#readme) :app::lin::app:
