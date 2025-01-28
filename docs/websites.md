@@ -82,7 +82,7 @@ outline: 1
       <li>Large library size.</li>
     </ul>
   </tooltip>
-- [Sudatachi](https://sudatchi.com/) :mingcute-server-fill::mingcute-user-2-fill:
+- [Sudatchi](https://sudatchi.com/) :mingcute-server-fill::mingcute-user-2-fill:
   <tooltip>
     <ul>
       <li>Smaller library size. Good for new airing.</li>
@@ -112,7 +112,7 @@ outline: 1
 
 ### Self-hosted
 
-- [All Anime](https://allmanga.to/anime?tr=sub&cty=ALL) :mingcute-server-fill::mingcute-shovel-fill::mingcute-user-2-fill:
+- [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) :mingcute-server-fill::mingcute-shovel-fill::mingcute-user-2-fill:
   <tooltip>
     <ul>
       <li>UI is really cluttered.</li>
@@ -216,7 +216,7 @@ outline: 1
 - [AnimeRSS](https://animerss.com/) :host::mdi-disc:
 ___
 #### Re-encodes
-- [Kayo anime](https://kayoanime.com/) :sgd::batch:
+- [Kayoanime](https://kayoanime.com/) :sgd::batch:
 - [Mkvseries](https://mkvseries.com/) <Badge text="2" link="https://mkvcinema.in/" /> :sgd::batch:
 - [Anime out](https://www.animeout.xyz/) :ddl::acc:
 - [Chauthanh](https://chauthanh.info/) :ddl::acc:

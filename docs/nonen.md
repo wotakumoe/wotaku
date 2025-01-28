@@ -24,7 +24,7 @@ If you have recommendations for good sites in your native language or want to re
 - [HiAnime](https://hianime.to/home)
 - [Hikari](https://hikari.gg/) <Badge type="tip" text="2" link="https://watch.hikaritv.xyz/" />
 - [KickAssAnime](https://kaas.ro/) <Badge type="info" text="Proxies" link="https://watchanime.io/" />
-- [Sudatachi](https://sudatchi.com/)
+- [Sudatchi](https://sudatchi.com/)
 
 ### Manga
 - [MangaDex](https://mangadex.org/) [:rss:](https://mdrss.tijlvdb.me/)
