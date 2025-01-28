@@ -27,8 +27,8 @@ If you have recommendations for good sites in your native language or want to re
 - [Sudatachi](https://sudatchi.com/)
 
 ### Manga
-- [Mangadex](https://mangadex.org/)
-- [Comick](https://comick.io/home)  <Badge type="tip" text="RSS" icon="i-material-symbols-rss-feed-rounded" link="https://manga.ldez.workers.dev/" />
+- [MangaDex](https://mangadex.org/) [:rss:](https://mdrss.tijlvdb.me/)
+- [ComicK](https://comick.io/home2) [:rss:](https://manga-ldez.vercel.app/) 
 - [Batoto](https://battwo.com/v3x)
 - [Nine Manga](https://www.ninemanga.com/)
 - [Novel Cool](https://novelcool.com/)

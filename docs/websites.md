@@ -265,7 +265,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 
 ## Online
 
-- [Comick](https://comick.io/home) :s: [:rss:](https://manga-ldez.vercel.app/) 
+- [ComicK](https://comick.io/home) :s: [:rss:](https://manga-ldez.vercel.app/) 
   <tooltip>
     <ul>
       <li>Minimal compression</li>
@@ -275,7 +275,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
       <li>Reader isn't as good as mangadex</li>
     </ul>
   </tooltip>
-- [Mangadex](https://mangadex.org/) [:rss:](https://mdrss.tijlvdb.me/) 
+- [MangaDex](https://mangadex.org/) [:rss:](https://mdrss.tijlvdb.me/) 
   <tooltip>
     <ul>
       <li>Uploads without compression</li>
@@ -303,7 +303,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
       <li>Indexing is poor</li>
     </ul>
   </tooltip>
-- [Mangapark](https://mangapark.net/)  
+- [MangaPark](https://mangapark.net/)  
 - [MangaFire](https://mangafire.to/home)  
   <tooltip>
     <ul>

@@ -211,7 +211,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Mangayomi](https://github.com/kodjodevf/mangayomi) :win::app::lin:
 - [Suwayomi](https://github.com/Suwayomi/Suwayomi-Server) :win::app::lin:
 - [Cubari](https://cubari.moe/) :web: <Badge type="info" text="Alt" link="https://reader.manga.guru/" />
-- [Mangadex](https://github.com/darylhjd/mangadesk) :win::app::lin::cmd:
+- [MangaDex](https://github.com/darylhjd/mangadesk) :win::app::lin::cmd:
 - [Manga-tui](https://github.com/josueBarretogit/manga-tui) :app::lin::cmd:
 
 ### Local

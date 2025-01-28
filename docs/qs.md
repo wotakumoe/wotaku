@@ -46,8 +46,8 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 ### Websites
 
 - **Online**
-  - [Comick](https://comick.io/home)
-  - [Mangadex](https://mangadex.org/)
+  - [ComicK](https://comick.io/home2)
+  - [MangaDex](https://mangadex.org/)
   - [Weeb Central](https://weebcentral.com/) <Badge type="tip" text="Alt" link="https://atsu.moe/" />
 - **Download**
   - [Nyaa](https://nyaa.si/) :s::mag: <Badge type="info" text="Proxies" link="https://rentry.org/nyaap" />
