@@ -35,7 +35,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Capcom** | [Phoenix Wright](https://news.capcomusa.com/lets/browse/phoenix-wright-ace-attorney-trilogy-dev-column-2-the-art-of-the-turnabout) | [Legal banner](/websites#legal) |
 | **ChristieDA** | [Headphone Anime Girl Render](https://www.deviantart.com/christieda/art/Headphone-Anime-Girl-Render-611521170) | [Audio glossary banner](/glossary/audio#audio-file-1) |
 | **돌만 (Dollman)** | [𝗧𝗔𝗞 [𝗺𝗼𝗰𝗵𝗶𝗺𝗼𝗰𝗵𝗶]🍡](https://x.com/TAK_DRDR/status/1827994397784657986) | Software link embed |
-| **Dr.Pigeon PhD** | [Smol Ame with Christmas hat](https://x.com/PhdPigeon/status/1869579249688231945) | [Favicon](/) |
+| **Dr.Pigeon PhD** | [Smol Ame waving](https://x.com/PhdPigeon/status/1884043982680014972) | [Favicon](/) |
 | **Dr.Pigeon PhD** | [Smol Ame in winter jacket](https://x.com/PhdPigeon/status/1866313003119030404) | [Home art](/) |
 | **Erik Larsen** | [Spawn](https://antiheroes.fandom.com/wiki/Spawn) | [Comics banner](/websites#comics) |
 | **Eyeye** | [Futaba-chan](https://www.pixiv.net/en/artworks/115469094) | FAQs link embed |
@@ -82,6 +82,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **advarcher**               | [Gawr Gura delivering Christmas gift](https://www.pixiv.net/en/artworks/114538066)                 | Christmas card 2024 |
 | **Chroneco**                | [Ninomae Ina’nis WAH](https://www.chroneco.moe/)                                                   | Button              |
 | **CLERO**                   | [Hololive EN plushies](https://x.com/CLERO_ART/status/1788894299007971680)                            | Home art          |
+| **Dr.Pigeon PhD** | [Smol Ame with Christmas hat](https://x.com/PhdPigeon/status/1869579249688231945) | [Favicon](/) |
 | **Gambe**                   | [Nero Claudius](https://www.pixiv.net/en/artworks/78042247)                                        | Fate banner         |
 | **胡麻乃りお (Gomano Rio)** | [Mash Kyrielight](https://www.pixiv.net/en/artworks/61127636)                                      | Fate banner         |
 | **はいべぎん (greatpengh)** | [Artifical Enemy](https://www.pixiv.net/en/artworks/51789252) | Software link embed |

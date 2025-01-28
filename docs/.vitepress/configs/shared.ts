@@ -304,11 +304,11 @@ export const shared: UserConfig<DefaultTheme.Config> = {
     ['meta', { name: 'theme-color', content: '#56b4fc' }],
     ['meta', { name: 'og:type', content: 'website' }],
     ['meta', { name: 'og:locale', content: 'en' }],
-    ['link', { rel: 'icon', href: '/asset/ame.png' }],
+    ['link', { rel: 'icon', href: '/asset/fav.png' }],
     // PWA
-    ['link', { rel: 'icon', href: '/asset/ame.png', type: 'image/svg+xml' }],
-    ['link', { rel: 'alternate icon', href: '/asset/ame.png' }],
-    ['link', { rel: 'mask-icon', href: '/asset/ame.png', color: '#56b4fc' }],
+    ['link', { rel: 'icon', href: '/asset/fav.png', type: 'image/svg+xml' }],
+    ['link', { rel: 'alternate icon', href: '/asset/fav.png' }],
+    ['link', { rel: 'mask-icon', href: '/asset/fav.png', color: '#56b4fc' }],
     // prettier-ignore
     [
       'meta',
@@ -322,7 +322,7 @@ export const shared: UserConfig<DefaultTheme.Config> = {
       'link',
       {
         rel: 'apple-touch-icon',
-        href: '/asset/ame.png',
+        href: '/asset/fav.png',
         sizes: '192x192'
       }
     ],
@@ -393,7 +393,7 @@ export const shared: UserConfig<DefaultTheme.Config> = {
       },
       provider: 'local'
     },
-    logo: { src: '/asset/ame.png' },
+    logo: { src: '/asset/fav.png' },
     sidebar,
     nav,
     socialLinks: [
