@@ -358,7 +358,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 
 
 ## Downloader
-- [Deemix](https://download.deemix.workers.dev/) :cs:
+- [Deemix](https://github.com/bambanah/deemix) :cs:
 - [Onthespot](https://github.com/casualsnek/onthespot)
 - [Lidarr](https://lidarr.audio/) :win::app::lin:
 - [Nicotine+](https://nicotine-plus.org/) :win::app::lin::mdi-lan-pending:<tooltip>Direct peer-to-peer sharing network, primarily used for music</tooltip>
