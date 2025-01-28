@@ -41,6 +41,7 @@ Squidify is based on Navidrome which has its own set of third-party Apps besides
 - [Sublime Music](https://sublimemusic.app/) :app::lin:
 - [Supersonic](https://github.com/dweymouth/supersonic) :win::app::lin:
 - [Submariner](https://submarinerapp.com/) :app:
+- [Aonsoku](https://github.com/victoralvesf/aonsoku) :win::app::lin:
 - [ampcast](https://ampcast.app/) :win::app::lin::web: [:gh:](https://github.com/rekkyrosso/ampcast)
 - **CLI**
     - [Jellycli](https://github.com/tryffel/jellycli#readme) :win::app::lin:
@@ -68,7 +69,7 @@ For more options, look at the [**list of clients**](https://airsonic.github.io/d
 
 Connecting to Squidify is very easy, just login with the following credentials:
 
-- Server Address: `https://www.squidify.org`
+- Server Address: `https://www.squidify.org` or `https://www.squidify.net`
 - Port (If needed): `443`
 - Username: `Guest`
 - Password: `Guest`
