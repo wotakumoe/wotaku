@@ -72,6 +72,12 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 - [Kuro Reader +](https://kurotoshiro.dev/) :fm::cs:
 - [CDisplayEx Comic Reader](https://play.google.com/store/apps/details?id=com.progdigy.cdisplay.free) :fm::cs:
 
+::: details Tachiyomi forks flowchart
+
+![](/asset/tachi.svg)
+
+:::
+
 ## Novel Readers
 
 ### Online
