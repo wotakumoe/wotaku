@@ -100,6 +100,7 @@ If you have recommendations for good sites in your native language or want to re
   - [Bimibimi](http://www.bimiacg10.net/)
   - [CC](https://ccdm.cc/)
   - [ddys](https://ddys.art/category/anime/)
+  - [HKanime](https://www.hkanime.com/) :flag-hong-kong-sar-china:
   - [MoMoVod](https://momovod.app/show/30.html)
   - [XG Cartoon](https://www.xgcartoon.com/)
   - [Yinghuacd](http://www.yinghuacd.com/)
