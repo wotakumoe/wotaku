@@ -466,7 +466,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [DGB Catálogo](https://dgbcatalogo.carrd.co/)
 - [NewZect](https://newzect.com/)
 - [Rádio Toku Hero Club](https://www.radiotokuheroclub.com/)
-- [Tokusatsu.com.br](https://tokusatsubr.com.br/)
+- [Senpuu Tokusatsu](https://senpuu.com.br/)
 - [:tg: TOKUSHARE](https://t.me/s/tokushareoficial)
 
 
