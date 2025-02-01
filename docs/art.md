@@ -76,9 +76,9 @@ og:
 - [Effects Sakuga](https://x.com/EffectsSakuga) :x:
 - [Mack Bay](https://x.com/SaberzzSeiba) :x:
 - [randomsakuga](https://x.com/randomsakuga) :x:
-- [rinri](https://x.com/guyayaHime) :x:
+- [rinri](https://x.com/guyayaHime) :s::x:
 - [SakugaDEYO](https://x.com/SakugaDEYO) :x:
-- [Sakuga 作画](https://x.com/sakugacontent) :x:
+- [Sakuga 作画](https://x.com/sakugacontent) :s::x:
 
 ## Front-end / Utility
 
