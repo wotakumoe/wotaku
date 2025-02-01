@@ -94,19 +94,30 @@ These apps aren't part of the Tachiyomi/Mihon ecosystem, but instead use their o
 
 #### Dantotsu
 
-| Name | Region | Auto |
-| - | - | - |
-| [Dannovels](https://github.com/dannovels/novel-extensions) | :globe-showing-asia-australia: | [Install](novelyomi://add-repo?url=https://raw.githubusercontent.com/dannovels/novel-extensions/repo/index.min.json) |
+| Name | Region | Auto | Manual |
+| - | - | - | - |
+| [Dannovels](https://github.com/dannovels/novel-extensions) | :globe-showing-asia-australia: | [Install](novelyomi://add-repo?url=https://raw.githubusercontent.com/dannovels/novel-extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/dannovels/novel-extensions/refs/heads/repo/index.min.json) |
 
 #### Legado
-| Name | Region | Auto |
-| - | - | - |
-| [rektpartyaftermath](https://github.com/rektpartyaftermath/Legado-booksource-collection) | :flag-united-kingdom: | [Install](legado://import/bookSource?src=https://raw.githubusercontent.com/rektpartyaftermath/Legado-booksource-collection/main/AllBooksource.json) |
+| Name | Region | Auto | Manual |
+| - | - | - | - |
+| [rektpartyaftermath](https://github.com/rektpartyaftermath/Legado-booksource-collection) | :flag-united-kingdom: | [Install](legado://import/bookSource?src=https://raw.githubusercontent.com/rektpartyaftermath/Legado-booksource-collection/main/AllBooksource.json) | [URL](https://raw.githubusercontent.com/rektpartyaftermath/Legado-booksource-collection/main/AllBooksource.json) |
 
 #### LNReader
-| Name | Region | Auto |
+| Name | Region | Auto | Manual |
+| - | - | - | - |
+| [Official](https://lnreader.github.io/plugins) [:gh:](https://github.com/LNReader/lnreader-plugins) | :globe-showing-asia-australia: | [Install](lnreader://repo/add?url=https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v3.0.0/.dist/plugins.min.json) | [URL](https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v3.0.0/.dist/plugins.min.json) |
+
+#### Mangayomi
+| Name | Region | Manual |
 | - | - | - |
-| [Official](https://lnreader.github.io/plugins) [:gh:](https://github.com/LNReader/lnreader-plugins) | :globe-showing-asia-australia: | [Install](lnreader://repo/add?url=https%3A%2F%2Fraw.githubusercontent.com%2FLNReader%2Flnreader-plugins%2Fplugins%2Fv3.0.0%2F.dist%2Fplugins.min.json) |
+| [Official Anime](https://github.com/kodjodevf/mangayomi-extensions) | :globe-showing-asia-australia: | [URL](https://kodjodevf.github.io/mangayomi-extensions/anime_index.json) |
+| [Official Manga](https://github.com/kodjodevf/mangayomi-extensions) | :globe-showing-asia-australia: | [URL](https://kodjodevf.github.io/mangayomi-extensions/index.json) |
+| [Official Novel](https://github.com/kodjodevf/mangayomi-extensions) | :globe-showing-asia-australia: | [URL](https://kodjodevf.github.io/mangayomi-extensions/novel_index.json) |
+
+::: tip Other apps
+[**AnymeX**](https://anymex.vercel.app/) & [**Dartotsu**](https://github.com/aayush2622/Dartotsu) also support Mangayomi extensions. Paste the manual URL in their repo option.
+:::
 
 ### iOS
 
