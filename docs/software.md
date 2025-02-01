@@ -162,13 +162,13 @@ or buy an Android phone :ic-twotone-thumb-up:
 - [Yomu](https://www.yomu-reader.com/) :paid::cs::lcl:
 
 ## Trackers
-- [AniHyou](https://apps.apple.com/us/app/anihyou-anilist-client/id1635777325) [:gh:](https://github.com/axiel7/AniHyou-iOS)
-- [Kitsune for MyAnimeList](https://apps.apple.com/us/app/kitsune-for-myanimelist/id6466716447) :cs:
-- [MyAniList](https://apps.apple.com/us/app/myanilist/id741257899) :cs:
+- [AniHyou](https://apps.apple.com/us/app/anihyou-anilist-client/id1635777325) :al: [:gh:](https://github.com/axiel7/AniHyou-iOS)
+- [Kitsune](https://apps.apple.com/us/app/kitsune-for-myanimelist/id6466716447) :mal::cs:
+- [MyAniList](https://apps.apple.com/us/app/myanilist/id741257899) :al::cs:
 - [MyAnimeList Official](https://apps.apple.com/us/app/myanimelist-official/id1469330778) :cs:
-- [Risuto for AniList](https://apps.apple.com/us/app/risuto-for-anilist/id6455685990) :cs:
-- [Ryuusei for AniList](https://apps.apple.com/us/app/ryuusei-for-anilist/id1347721581) :cs:
-
+- [Otraku](https://github.com/lotusprey/otraku) :al:
+- [Risuto](https://apps.apple.com/us/app/risuto-for-anilist/id6455685990) :al::cs:
+- [Ryuusei](https://apps.apple.com/us/app/ryuusei-for-anilist/id1347721581) :al::cs:
 
 ![](/banner/pc.webp)
 
