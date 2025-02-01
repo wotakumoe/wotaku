@@ -26,6 +26,7 @@ og:
 | [Aria2App](https://github.com/devgianlu/Aria2App) | :yes: | :yes: | :yes: | :yes: |
 | [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud)<tooltip>Has a VPN-only option.</tooltip> | :no: | :yes: | :no: | Ads, theme limit |
 | [Gopeed](https://gopeed.com/) [:gh:](https://github.com/GopeedLab/gopeed) | :yes: | :yes: | :yes: | :yes: |
+| [YTDLnis](https://ytdlnis.org/) [:gh:](https://github.com/deniscerri/ytdlnis) | :yes: | :yes: | :no: | :yes: |
 
 #### iOS
 
