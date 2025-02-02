@@ -32,6 +32,7 @@ og:
 
 | Name | DDL | P2P | FOSS |
 |-|-|-|-|
+| [Gopeed](https://gopeed.com/) [:gh:](https://github.com/GopeedLab/gopeed) | :yes: | :yes: | :yes: |
 | [fGet](https://apps.apple.com/us/app/fget-file-manager-browser/id1582654012) | :yes: | :no: | :no: |
 | [iTorrent](https://github.com/XITRIX/iTorrent) | :no: | :yes: | :yes: |
 
