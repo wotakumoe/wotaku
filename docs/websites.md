@@ -176,6 +176,7 @@ outline: 1
 - [Anime Bancho](https://www.youtube.com/@AnimeBancho/)
 - [Ani-One Asia](https://www.youtube.com/@AniOneAsia/) <Badge type="info" text="Regional" />
 - [Muse Asia](https://www.youtube.com/@MuseAsia/) <Badge type="info" text="Regional" />
+- [Pokémon TV](https://www.youtube.com/@OfficialPoke%CC%81monTV) <Badge type="info" text="Regional" />
 - [TMS Official](https://www.youtube.com/@AnimeonTMSOfficialChannel/) <Badge type="info" text="Regional" />
 
 ### TV
