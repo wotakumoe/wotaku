@@ -166,6 +166,7 @@ outline: 1
 
 ### Others
 - [One Pace](https://linktr.ee/onepaceproject)
+  - [OnePace.net](https://onepace.net/en/watch)
   - [OnePace.me](https://onepace.me/)
   - [Stremio](https://github.com/au2001/onepace-stremio)
 - [Sonic Zone TV](https://soniczone.net/tv/home.html)

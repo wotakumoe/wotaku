@@ -27,7 +27,6 @@ og:
 - [Game Gengo's Games for Studying Japanese](https://docs.google.com/spreadsheets/u/0/d/14TKRFvnDmBsgfxCJzkaNKTKmx4qDcsv7QSmfyzIKxQ4/htmlview#gid=0)
 - [Perdition](https://perdition-japanese.github.io/posts/how-to-study-japanese/#step-1-h--immersion-optional)
 - [Acquiring Japanese Efficiently](https://docs.google.com/document/d/1LH82FjsCqCgp6-TFqUcS_EB15V7sx7O1VCjREp6Lexw/edit#heading=h.ct5zhbvvh3b8)
-- [Inhae's blog](https://notes.inhae.blog/)
 
 ### Visual Novels
 - [List of starter Japanese Media](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub)
@@ -70,7 +69,6 @@ og:
 - [IPTV-Org jpn.m3u](https://iptv-org.github.io/iptv/languages/jpn.m3u)
 - [IPTV-JP](https://raw.githubusercontent.com/luongz/iptv-jp/main/jp.m3u)
 - [Japanese TV](https://mov3.co/)
-- [Keylabo](https://www.keylabo.com/watch-tv-online-for-free/)
 - [Search TV](https://searchtv.net/)
 - [takelab](https://github.com/take2560/takelab)
 - [TVer](https://tver.jp/) <Badge type="info" text="Needs VPN" />
@@ -113,7 +111,6 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 ## Novel
 - [All EPUBs](https://boroboro.neocities.org/listfullepub)
 - [Aozora Bunko](https://www.aozora.gr.jp/)
-- [itazuraneko](https://yonde.itazuraneko.org/)
 - [Japanese Learner’s Anthology](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTM1MDUyMw.ZHVjaw)  <Badge type="tip" text="v2" link="https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTU0ODk0Mw.ZHVjaw" />
 - [Kakuyomu](https://kakuyomu.jp/) `WN`
 - [Nyaa](https://nyaa.si/?f=0&c=3_3&q=) :s:

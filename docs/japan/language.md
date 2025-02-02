@@ -30,7 +30,6 @@ og:
 - [r/LearnJapanese Starter's Guide](https://old.reddit.com/r/LearnJapanese/wiki/index/startersguide/)
 - [Jazzy's Guide](https://rentry.co/jazzy180)
 - [Mordraug's Personal Japanese Observations Diary](https://docs.google.com/document/d/1kxYa53a2UjnpMZyHdU-YNuctkq6wHT3cJ00Z5poj2hY/edit)
-- [Inhae's blog](https://notes.inhae.blog/learning-japanese/)
 :::
 
 ::: details General resources

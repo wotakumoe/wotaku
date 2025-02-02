@@ -21,7 +21,6 @@ Squidify is based on Navidrome which has its own set of third-party Apps besides
 - [Subtracks](https://github.com/austinried/subtracks#readme)
 - [substreamer](https://substreamerapp.com/)
 - [Ultrasonic](https://ultrasonic.gitlab.io/)
-- [DSub](https://play.google.com/store/apps/details?id=github.daneren2005.dsub) :paid:
 - [Symfonium](https://symfonium.app/) :paid:
 - [Tempo](https://github.com/CappielloAntonio/tempo)
 - [Chora](https://github.com/CraftWorksMC/Chora)

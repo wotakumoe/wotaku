@@ -480,7 +480,6 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 - [substreamer](https://substreamerapp.com/)
 - [Ultrasonic](https://ultrasonic.gitlab.io/)
 - [Plexamp](https://www.plex.tv/plexamp/) :fm:
-- [DSub](https://play.google.com/store/apps/details?id=github.daneren2005.dsub) :paid:
 - [Symfonium](https://symfonium.app/) :paid:  
 
 ## iOS

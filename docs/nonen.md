@@ -188,7 +188,6 @@ If you have recommendations for good sites in your native language or want to re
 - [Streaming-integrale](https://streaming-integrale.com/)
 - [ToonAnime](https://fr.toonanime.biz/)
 - [Voiranime](https://v6.voiranime.com/) <Badge type="tip" text="Extension" link="https://github.com/Dastan21/BetterVoirAnime" />
-- [Vostfree](https://vostfree.ws/)
 
 ### Manga
 
@@ -212,7 +211,6 @@ If you have recommendations for good sites in your native language or want to re
 - [Anime Archive](https://anime-archive.com/) :ddl:
 - [Anime Loads](https://www.anime-loads.org/) :strm::ddl::host:
 - [AniWorld](https://aniworld.to/) :strm:
-- [Melon-Subs](https://melon-subs.de/) :ddl:
 - [NanaOne](https://nanaone.net/) :ddl:
 - [OtakuKingdom Subs](https://www.otakukingdom-subs.de/) :ddl:
 - [S.to](https://s.to/) <Badge type="tip" text="2" link="https://serienstream.to/" /> :strm:
@@ -257,7 +255,6 @@ If you have recommendations for good sites in your native language or want to re
   - [Anime World](https://anime-world.in/)
   - [Anisaga](https://anisaga.org/)
   - [Anplay](https://anplay.in/)
-  - [Dora Bash](https://doraemontheanime.com/)
   - [Toonbaba](https://toonbaba.site/)
   - [ToonStream](https://toonstream.day/)
 - **DDL**
@@ -285,7 +282,6 @@ If you have recommendations for good sites in your native language or want to re
 - **Stream**
   - [AnimeSail](https://154.26.137.28/)
   - [Anoboy](https://anoboy.ch/)
-  - [Kaizonime](https://koranime.us.to/)
   - [Kazefuri](https://kazefuri.net/)
   - [Kuramanime](https://kuramanime.red/)
   - [Mynimeku](https://www.mynimeku.com/)
@@ -401,7 +397,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Anissia](https://anissia.net/)<tooltip>Subtitle files only, you need to get the episodes from another source.</tooltip>
 
 ### Comics
-- [BlackToon](https://blacktoon.fun/) <Badge type="danger" text="18+" />
 - [Funbe](https://funbe501.com/%EC%9B%B9%ED%88%B0) <Badge type="danger" text="18+" />
 - [Manatoki](https://www.xn--h10b2b940bwzy.store/) <Badge type="danger" text="18+" />
 - [Wolf](https://nicelink22.com/) <Badge type="danger" text="18+" />
@@ -434,7 +429,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Mioro-Subs](https://miorosubs.pl/)
 - [NanaSubs](https://nanasubs.com/)
 - [Oglądaj Anime](https://ogladajanime.pl/)
-- [Okami-Subs](https://okami-subs.pl/)
 - [Shinden](https://shinden.pl/main) <Badge type="info" text="Client" link="https://github.com/KlapChat-Entertainment/shinden-client" />
 - [Wbijam](https://web.archive.org/web/20241001185535/https://www.wbijam.pl/)
 
@@ -507,7 +501,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 ### Manga
 - [Com-X](https://com-x.life/)
 - [Desu.Me](https://desu.me/)
-- [Manga-chan](https://manga-chan.me/)
 - [MangaClub](https://mangaclub.ru/)
 - [MangaHub](https://mangahub.ru/)
 - [MangaLib](https://mangalib.me/)
@@ -567,7 +560,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
   - [Ivanime](https://www.ivanime.com/)
   - [DW Anime](https://dw-anime.net/)
   - [Union Fansub](https://foro.unionfansub.com/) :mag::acc:
-  - [Frozen Layer](https://www.frozen-layer.com/) :mag:
   - [:tg: YaichiList](https://t.me/addlist/xA7wYMGu0CI2YzBh) :strm:
 
 ### Manga
@@ -642,7 +634,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 ### Comics
 - [Bao Tang Truyen](https://baotangtruyen23.com/)
 - [Cuu Truyen](https://cuutruyen.net/)
-- [Fecomic](https://fftruyen.net/)
 - [Goc Truyen Tranh](https://goctruyentranhvui6.com/trang-chu)
 - [HanulTruyen](https://hanultruyen.net/) <Badge type="danger" text="18+" />
 - [Manhuarockz](https://manhuarockz.com/)
