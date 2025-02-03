@@ -213,7 +213,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Cubari](https://cubari.moe/) :web: <Badge type="info" text="Alt" link="https://reader.manga.guru/" />
 - [MangaDex](https://github.com/darylhjd/mangadesk) :win::app::lin::cmd:
 - [Manga-tui](https://github.com/josueBarretogit/manga-tui) :app::lin::cmd:
-- [AnymeX](https://anymex.vercel.app/) :win::app::lin::cmd: [:gh:](https://github.com/RyanYuuki/AnymeX) [:e:](/guides/tech/repo#mangayomi)
+- [AnymeX](https://anymex.vercel.app/) :win::app::lin: [:gh:](https://github.com/RyanYuuki/AnymeX) [:e:](/guides/tech/repo#mangayomi)
 
 ### Local
 
