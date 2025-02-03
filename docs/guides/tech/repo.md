@@ -111,9 +111,9 @@ These apps aren't part of the Tachiyomi/Mihon ecosystem, but instead use their o
 #### Mangayomi
 | Name | Region | Manual |
 | - | - | - |
-| [Official Anime](https://github.com/kodjodevf/mangayomi-extensions) | :globe-showing-asia-australia: | [URL](https://kodjodevf.github.io/mangayomi-extensions/anime_index.json) |
-| [Official Manga](https://github.com/kodjodevf/mangayomi-extensions) | :globe-showing-asia-australia: | [URL](https://kodjodevf.github.io/mangayomi-extensions/index.json) |
-| [Official Novel](https://github.com/kodjodevf/mangayomi-extensions) | :globe-showing-asia-australia: | [URL](https://kodjodevf.github.io/mangayomi-extensions/novel_index.json) |
+| [Kodjo Anime](https://github.com/kodjodevf/mangayomi-extensions) | :globe-showing-asia-australia: | [URL](https://kodjodevf.github.io/mangayomi-extensions/anime_index.json) |
+| [Kodjo Manga](https://github.com/kodjodevf/mangayomi-extensions) | :globe-showing-asia-australia: | [URL](https://kodjodevf.github.io/mangayomi-extensions/index.json) |
+| [Kodjo Novel](https://github.com/kodjodevf/mangayomi-extensions) | :globe-showing-asia-australia: | [URL](https://kodjodevf.github.io/mangayomi-extensions/novel_index.json) |
 
 ::: tip Other apps
 [**AnymeX**](https://anymex.vercel.app/) & [**Dartotsu**](https://github.com/aayush2622/Dartotsu) also support Mangayomi extensions. Paste the manual URL in their repo option.
