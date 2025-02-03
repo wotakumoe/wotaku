@@ -199,7 +199,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 ### Stream
 - [MissAV](https://missav.ws/)
 - [JAVLibrary](https://www.javlibrary.com/en/)
-- [SexTB](https://sextb.net/)
+- [SexTB](https://sextb.net/) <Badge type="tip" text="2" link="https://sextb.date/" />
 - [JavGuru](https://jav.guru/)
 - [JAVSeen](https://javseen.tv/)
 - [JAVGG](https://javgg.net/)
