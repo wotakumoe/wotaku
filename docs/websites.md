@@ -404,7 +404,7 @@ ___
 - [Hive Toon](https://hivetoon.com/) + :fcn: <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/10nt2ki/infernal-void-scans" /><tooltip>Formerly Infernal Void Scans and Void Scans</tooltip>
 - [Reaper Scans](https://reaperscans.com/) + :fcn:  <Badge type="info" text="Dex" link="https://mangadex.org/group/e892ed1b-ed75-414a-bc86-71226f3364ad/reaper-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/5ev5t5s/reaper-scans" />
 - [Reset Scans](https://rspro.xyz/home/) +:fjp::fcn:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/df9ckct/reset-scans" />
-- [Rizz Fables](https://rizzfables.com/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/v5djjz8/rizz-comics" /><tooltip>Formerly Realm Scans and Rizz Comics</tooltip>
+- [Realm Oasis](https://realmoasis.com/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/v5djjz8/rizz-comics" /><tooltip>Formerly Realm Scans, Rizz Comics and Rizz Fables</tooltip>
 - [StoneScape](https://stonescape.xyz/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/zt7x4q1/stonescape" />
 - [UTOON](https://utoon.net/) +:fjp::fcn:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/mtcug74/utoon" /><tooltip>Formerly Manhwa Freak, freak scans. freak comics</tooltip>
 - [Zero Scans](https://zscans.com/) + :fcn:  <Badge type="info" text="Dex" link="https://mangadex.org/group/dd0a3018-21f1-4488-948c-08499b179fcf/zero-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/vlkvmk7/zero-scans-discord" />
