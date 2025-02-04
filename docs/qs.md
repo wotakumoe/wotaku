@@ -155,6 +155,16 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
   - [qBittorrent](https://www.qbittorrent.org/) :win::app::lin:
   - [Transmission](https://transmissionbt.com/) :win::app::lin:
 
+### DNS
+
+| Resolver | Based in | Adblock | Query Limit (Base / Account) |
+|-|-|-|-|
+| [Adguard](https://adguard-dns.io/en/welcome.html) | Cyprus | :yes: | :no: / 300kpm |
+| [Control D](https://controld.com/) | Canada | :yes: | :no: / :no: |
+| [dns0.eu](https://www.dns0.eu/) | EU | :yes: | :no: / NA |
+| [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) | Sweden | :yes: | :no: / NA |
+| [Quad9](https://quad9.net/) | Switzerland | :no: | :no: / NA |
+
 ### VPN
 
 | Feature          | [AirVPN](https://airvpn.org/) | [IVPN](https://www.ivpn.net/en/) | [Mullvad](https://mullvad.net/en) | [Proton](https://protonvpn.com/) | [Windscribe](https://windscribe.com/) |
