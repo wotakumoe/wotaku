@@ -34,7 +34,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 |-|-|-|
 | [Animiru](https://github.com/quickdesh/Animiru)  | :ddl: | :mal::al::k::simkl: |
 | [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one) | :mag: | :mal::al::k::simkl: |
-| [AnymeX](https://anymex.vercel.app/) [:gh:](https://github.com/RyanYuuki/AnymeX) | :ddl: | :al: |
+| [AnymeX](https://anymex.vercel.app/) [:gh:](https://github.com/RyanYuuki/AnymeX) | :ddl: | :mal::al::simkl: |
 | [AnimeTV](https://amarullz.com/) [:gh:](https://github.com/amarullz/AnimeTV) | :ddl: | :mal::al: |
 | [Miru App](https://miru.js.org/) [:gh:](https://github.com/miru-project/miru-app) | :ddl::mag: | :al: |
 :::
@@ -183,7 +183,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 | [Stremio](https://www.stremio.com/) | :win::app::lin: | :mag::ddl: | :mal::al::k::simkl: |
 | [Seanime](https://seanime.rahim.app/) | :win::app::lin: | :mag::ddl: | :al: |
 | [Unyo](https://github.com/K3vinb5/Unyo) | :win::app::lin: | :ddl: | :al: |
-| [AnymeX](https://anymex.vercel.app/) [:gh:](https://github.com/RyanYuuki/AnymeX) | :win::app::lin: | :ddl: | :al: |
+| [AnymeX](https://anymex.vercel.app/) [:gh:](https://github.com/RyanYuuki/AnymeX) | :win::app::lin: | :ddl: | :mal::al::simkl: |
 
 :::details More
 | Program | OS | Source | Tracker |
