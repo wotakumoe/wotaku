@@ -188,6 +188,7 @@ If you have recommendations for good sites in your native language or want to re
 - [Streaming-integrale](https://streaming-integrale.com/)
 - [ToonAnime](https://fr.toonanime.biz/)
 - [Voiranime](https://v6.voiranime.com/) <Badge type="tip" text="Extension" link="https://github.com/Dastan21/BetterVoirAnime" />
+- [Vostfree](https://vostfree.ws/)
 
 ### Manga
 
@@ -211,6 +212,7 @@ If you have recommendations for good sites in your native language or want to re
 - [Anime Archive](https://anime-archive.com/) :ddl:
 - [Anime Loads](https://www.anime-loads.org/) :strm::ddl::host:
 - [AniWorld](https://aniworld.to/) :strm:
+- [Melon-Subs](https://melon-subs.de/) :ddl:
 - [NanaOne](https://nanaone.net/) :ddl:
 - [OtakuKingdom Subs](https://www.otakukingdom-subs.de/) :ddl:
 - [S.to](https://s.to/) <Badge type="tip" text="2" link="https://serienstream.to/" /> :strm:
