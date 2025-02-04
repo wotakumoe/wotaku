@@ -95,7 +95,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 
 ## YouTube
 - [emgo316](https://www.youtube.com/@emgo316)
-- [JobbytheHong](https://www.youtube.com/@JobbytheHong)
+- [JobbytheHong](https://www.youtube.com/@JobbytheHong) <Badge type="tip" text="2" link="https://www.youtube.com/@Jobby2" />
 - [KenKen](https://www.youtube.com/@KenKen004)
 - [Mecha Gaikotsu](https://www.youtube.com/@MechaGaikotsu)
 - [Solaris Japan](https://www.youtube.com/@Solaris_Japan)
@@ -103,12 +103,13 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 
 ## Communities
 - [My Figure Collection](https://myfigurecollection.net/)
-- [Anime Deals](https://old.reddit.com/r/AnimeDeals)
+- [Anime Deals](https://old.reddit.com/r/AnimeDeals/)
 - [Anime Figures](https://old.reddit.com/r/AnimeFigures/)
-- [Anime Merchandise](https://old.reddit.com/r/AnimeMerchandise)
-- [Manga Collectors](https://old.reddit.com/r/MangaCollectors)
-- [Gunpla](https://old.reddit.com/r/Gunpla)
-- [Dakimakuras](https://old.reddit.com/r/Dakimakuras) <Badge type="danger" text="18+" />
+- [Anime Merchandise](https://old.reddit.com/r/AnimeMerchandise/)
+- [Manga Collectors](https://old.reddit.com/r/MangaCollectors/)
+- [Gunpla](https://old.reddit.com/r/Gunpla/)
+- [Nendoroid](https://old.reddit.com/r/Nendoroid/)
+- [Dakimakuras](https://old.reddit.com/r/Dakimakuras/) <Badge type="danger" text="18+" />
 
 
 ## Shops
