@@ -18,7 +18,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 ### Websites
 
 - **Streaming**
-  - [KickAssAnime](https://www1.kickassanime.mx/)
+  - [KickAssAnime](https://kaa.mx/) <Badge type="info" text="Proxies" link="https://watchanime.io/" />
   - [Miruro](https://www.miruro.tv/) <Badge type="info" text="Proxies" link="https://www.miruro.com" />
   - [Anime Nexus](https://anime.nexus/)
 - **Download**

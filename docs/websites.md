@@ -48,7 +48,7 @@ outline: 1
       <li>⚠️Has optimization issues on lower-end phones, may work better on different browsers. Doesn't support Sufferi / WebKit.</li>
     </ul>
   </tooltip>
-- [KickAssAnime](https://kaas.ro/) :mingcute-server-fill::mingcute-shovel-fill::mingcute-user-2-fill: <Badge type="info" text="Proxies" link="https://watchanime.io/" />
+- [KickAssAnime](https://kaa.mx/) :mingcute-server-fill::mingcute-shovel-fill::mingcute-user-2-fill: <Badge type="info" text="Proxies" link="https://watchanime.io/" />
   <tooltip>
     <ul>
       <li>KAA encodes are on Videstreaming, Birdstream scrapes Bilibili.</li>
@@ -82,7 +82,7 @@ outline: 1
       <li>Large library size.</li>
     </ul>
   </tooltip>
-- [Sudatchi](https://sudatchi.com/) :mingcute-server-fill::mingcute-user-2-fill:
+- [Sudatchi](https://sudatchi.com/) :mingcute-server-fill::mingcute-refresh-2-fill:
   <tooltip>
     <ul>
       <li>Smaller library size. Good for new airing.</li>
