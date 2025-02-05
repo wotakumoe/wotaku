@@ -283,4 +283,5 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 - [MaruMori](https://marumori.io/) <Badge type="info" text="General" />
 - [Migaku](https://migaku.com/)
 - [NativShark](https://www.nativshark.com/) <Badge type="info" text="General" />
+- [Refold](https://refold.la/) <Badge type="info" text="General" />
 - [WaniKani](https://www.wanikani.com/) <Badge type="info" text="Kanji" />
