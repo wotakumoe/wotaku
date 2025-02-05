@@ -248,6 +248,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Crunchyroll-Downloader](https://github.com/Crunchy-DL/Crunchy-Downloader) :win:
   - [Keydive](https://github.com/hyugogirubato/KeyDive)
 - [Anime Downloader NX](https://github.com/anidl/multi-downloader-nx) :win::app::lin::cmd:
+- [Yoimi](https://github.com/NyaShinn1204/Yoimi) :simple-icons-python:
 
 ### Manga
 
