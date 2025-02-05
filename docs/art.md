@@ -103,7 +103,7 @@ og:
 ## Others
 - [Anihonetwallpaper](https://anihonetwallpaper.com/) <Badge type="green" text="SFW" />
 - [Anime Pictures](https://anime-pictures.net/)
-- [Character Design References](https://characterdesignreferences.com/) :s:
+- [Character Design References](https://characterdesignreferences.com/) :s: [:x:](https://x.com/CDReferences)
 - [Kemono](https://kemono.su/)
 - [Minitokyo](http://www.minitokyo.net/)
 - [Nekohouse](https://nekohouse.su/)
@@ -112,6 +112,7 @@ og:
 - [Wallhaven](https://wallhaven.cc/)
 - [wanderer.moe](https://wanderer.moe/) [:gh:](https://github.com/wanderer-moe/site)
 - [:f: /w/](http://catalog.neet.tv/w/) <Badge type="danger" icon="i-mingcute-skull-fill" text="NSFL" />
+- [VideoArtGame](https://x.com/VideoArtGame) :x:
 
 
 ![](/banner/software.webp)
