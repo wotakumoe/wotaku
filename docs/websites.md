@@ -169,6 +169,7 @@ outline: 1
   - [OnePace.net](https://onepace.net/en/watch)
   - [OnePace.me](https://onepace.me/)
   - [Stremio](https://github.com/au2001/onepace-stremio)
+  - [One Pace Public Subtitles](https://github.com/one-pace/one-pace-public-subtitles)
 - [Sonic Zone TV](https://soniczone.net/tv/home.html)
 - [Japanese Animated Film Classics](https://animation.filmarchives.jp/en/index.html)
 
