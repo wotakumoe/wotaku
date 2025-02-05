@@ -11,6 +11,11 @@ og:
 
 <br>
 
+::: tip Contribute in the wiki
+
+If you're knowledgeable in Japanese, consider contributing to the wiki. We could use some help with sorting in the learning page and making the software sections better. You can send materials or feedback by clicking the :lucide-message-circle: of that section, but we'd prefer if you join our [discord server](https://discord.gg/wZMuSGpZ8s) so we can have a conversation.
+:::
+
 ## Starter Guide
 - [TheMoeWay Guide](https://learnjapanese.moe/) :s:
 - [Tatsumoto's Guide](https://tatsumoto.neocities.org/)
