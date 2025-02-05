@@ -45,6 +45,7 @@ ___
 - [MorphMan](https://ankiweb.net/shared/info/900801631)  [:gh:](https://github.com/kaegi/MorphMan)
 - [quick image](https://github.com/ZXY101/quick-image)
 - [Review Heatmap](https://ankiweb.net/shared/info/1771074083)
+- [Senren](https://github.com/BrenoAqua/Senren)
 - [Yomichan Forvo Server](https://ankiweb.net/shared/info/580654285) [:gh:](https://github.com/jamesnicolas/yomichan-forvo-server)
 - [WaniAnki](https://damiansh.github.io/waniAnki/instructions)
 

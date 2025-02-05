@@ -181,7 +181,8 @@ ___
 - [昨日 Sakubi: Yesterday's Grammar Guide](https://sakubi.neocities.org/)
 - [A Beginner’s Japanese Grammar Guide](https://www.japanistry.com/japanese-grammar-guide/)
 - [Visualizing Japanese Grammar](https://www2.gwu.edu/~eall/vjgnew/vjghomepage/vjghome.htm)
-- [DoJK](https://dojgdeck.neocities.org/)
+- [DoJG Deck](https://dojgdeck.neocities.org/)
+- [DoJG Lite](https://dojglite.github.io/main/) [:gh:](https://github.com/dojglite/main)
 - [Bunpro](https://bunpro.jp/) :fm:
 - [JLPT Grammar List](https://jlptgrammarlist.neocities.org/)
 - [Ultra Handy Japanese Verb Conjugator](https://www.japaneseverbconjugator.com/)
