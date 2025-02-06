@@ -445,6 +445,7 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 ### Checker / Visualizer
 - [Bitter](https://www.stillwellaudio.com/plugins/bitter/) :win::app::cs:
 - [cambia LogTools](https://logs.musichoarders.xyz/) :ff::cr: [:gh:](https://github.com/arg274/cambia)
+  - [loggers](https://gitlab.com/SuperSaltyGamer/loggers)
 - [Sonic Visualiser](https://www.sonicvisualiser.org/) :win::app::lin: [:gh:](https://github.com/sonic-visualiser/sonic-visualiser/)
 - [Spek](https://www.spek.cc/) :s::win::app::lin: [:gh:](https://github.com/alexkay/spek)
 
