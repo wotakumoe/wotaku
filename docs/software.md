@@ -148,7 +148,7 @@ Check out [**CFW's iOS guide**](https://ios.cfw.guide/) & [**The Apple Wiki**](h
 
 ::: details "iOS app not working. What should i do?"
 
-![](\asset\cope.gif)
+![](/asset/cope.gif)
 
 :::center
 
