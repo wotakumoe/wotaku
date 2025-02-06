@@ -114,6 +114,7 @@ og:
 - [DLsite](https://www.dlsite.com/) <Badge type="warning" text="Legal" />
 - [Anime-sharing](https://www.anime-sharing.com/) :acc:
 - [CPG Repacks](https://cpgrepacks.site)
+- [Craneanime](https://blog.craneanime.xyz/)
 - [Eroge Download](https://erogedownload.com/)
 - [F95Zone](https://f95zone.to/) :acc:
 - [Gamcore](https://gamcore.com/)
