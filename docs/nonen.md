@@ -23,7 +23,7 @@ If you have recommendations for good sites in your native language or want to re
 - [AnimeStream](https://anime.uniquestream.net/)
 - [HiAnime](https://hianime.to/home)
 - [Hikari](https://hikari.gg/) <Badge type="tip" text="2" link="https://watch.hikaritv.xyz/" />
-- [KickAssAnime](https://kaa.mx/) <Badge type="info" text="Proxies" link="https://watchanime.io/" />
+- [KickAssAnime](https://kaa.mx/)
 - [Sudatchi](https://sudatchi.com/)
 
 ### Manga
@@ -566,7 +566,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
   - [:tg: YaichiList](https://t.me/addlist/xA7wYMGu0CI2YzBh) :strm:
 
 ### Manga
-- [TuMangaOnline](https://zonatmo.com/) <Badge type="info" text="2" link="https://lectormanga.com/" />
+- [TuMangaOnline](https://zonatmo.com/)
 - [Plot Twist No Fansub](https://plotnf.com/)
 - [AnzMangas](https://www.anzmangashd.com/)
 - [Manga Crab](https://mangacrab.com/)
