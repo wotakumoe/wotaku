@@ -56,7 +56,7 @@ outline: 1
       <li>Has good amount of missing old titles, but you can request them in their support server.</li>
     </ul>
   </tooltip>
-- [AnimeKai](https://animekai.to/home) :mingcute-server-fill::mingcute-user-2-fill:
+- [AnimeKai](https://animekai.to/home) :mingcute-server-fill::mingcute-refresh-2-fill::mingcute-user-2-fill:
   <tooltip>
     <ul>
       <li>Huge library.</li>

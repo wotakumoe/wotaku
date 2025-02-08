@@ -213,6 +213,7 @@ ___
 ___
 #### Games/VN
 - [EXSTATIC](https://github.com/KamWithK/exSTATic)
+- [Game Sentence Miner](https://github.com/bpwhelan/GameSentenceMiner)
 - [Luna Hook](https://github.com/HIllya51/LunaHook)
 - [Luna Translator](https://github.com/HIllya51/LunaTranslator)
 - [Textractor](https://github.com/Artikash/Textractor) <Badge type="tip" text="Guide" link="https://xelieu.github.io/jp-lazy-guide/setupVnOnPC/" />
