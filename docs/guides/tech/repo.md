@@ -111,9 +111,8 @@ These apps aren't part of the Tachiyomi/Mihon ecosystem, but instead use their o
 #### Mangayomi
 | Name | Region | Manual |
 | - | - | - |
-| [Kodjo Anime](https://github.com/kodjodevf/mangayomi-extensions) | :globe-showing-asia-australia: | [URL](https://kodjodevf.github.io/mangayomi-extensions/anime_index.json) |
-| [Kodjo Manga](https://github.com/kodjodevf/mangayomi-extensions) | :globe-showing-asia-australia: | [URL](https://kodjodevf.github.io/mangayomi-extensions/index.json) |
-| [Kodjo Novel](https://github.com/kodjodevf/mangayomi-extensions) | :globe-showing-asia-australia: | [URL](https://kodjodevf.github.io/mangayomi-extensions/novel_index.json) |
+| [Kodjo](https://github.com/kodjodevf/mangayomi-extensions) | :globe-showing-asia-australia: | [Anime](https://kodjodevf.github.io/mangayomi-extensions/anime_index.json)<br>[Manga](https://kodjodevf.github.io/mangayomi-extensions/index.json)<br>[Novel](https://kodjodevf.github.io/mangayomi-extensions/novel_index.json) |
+| [MiraiEnoki](https://github.com/MiraiEnoki/anymex-extensions) | :globe-showing-asia-australia: | [Anime](https://miraienoki.github.io/anymex-extensions/anime_index.json)<br>[Manga](https://miraienoki.github.io/anymex-extensions/index.json)<br>[Novel](https://miraienoki.github.io/anymex-extensions/novel_index.json) |
 
 ::: tip Other apps
 [**AnymeX**](https://anymex.vercel.app/) & [**Dartotsu**](https://github.com/aayush2622/Dartotsu) also support Mangayomi extensions. Paste the manual URL in their repo option.
@@ -123,7 +122,6 @@ These apps aren't part of the Tachiyomi/Mihon ecosystem, but instead use their o
 - Go to AnymeX app
 - Click Profile picture /:material-symbols-person-rounded: -> :mdi-puzzle: Extensions -> Click :gh: 
 - Paste the URL based on repo type
-
 
 :::
 
@@ -149,10 +147,16 @@ These apps aren't part of the Tachiyomi/Mihon ecosystem, but instead use their o
 
 #### Sora
 
-| Name | Region | Auto |
-| - | - | - |
-| [Bshar](https://github.com/bshar1865/MFS)<tooltip>- Click on the **[site_name].json**<br>- Click on :mdi-dots-horizontal: and then **View**<br>- Copy the URL<br>- Paste it in Sora ":mdi-cog: Settings -> :mdi-puzzle: Modules -> :material-symbols-add-circle-rounded:"</tooltip> | :globe-showing-asia-australia: | - |
+| Name | Region |
+| - | - |
+| [50n50](https://github.com/50n50/sources) | :globe-showing-asia-australia: |
 
+::: tip Adding repo manually
+- Click on the **[site_name].json**
+- Click on :mdi-dots-horizontal: and then **View**
+- Copy the URL
+- Paste it in Sora ":mdi-cog: Settings -> :mdi-puzzle: Modules -> :material-symbols-add-circle-rounded:"
+:::
 
 #### Suwatte
 
