@@ -249,8 +249,6 @@ ___
 | Schedule | [VTuber Schedule](https://vtuberschedules.com/) <br> [Hololyzer](https://www.hololyzer.net/) <br> [vTubie](https://vtubie.com/) |
 | Others | [VTuber Highlights](https://vtuber.atodeyo.com/) :fjp: <Badge type="info" text="News" /><br> [VTuber Newsdrop](https://vtubernewsdrop.com/) <Badge type="info" text="News" /><br> [Reincar](https://reincar.net/) <Badge type="info" text="News" /> |
 
-
-
 ## Hololive
 
 - [Hololive Fan Wiki](https://hololive.wiki/wiki/Main_Page) <Badge type="info" text="DB" />
@@ -258,6 +256,7 @@ ___
 - [Holotracker](https://trackholo.live/en/) <Badge type="info" text="Stats" />
 - [Hololive Zone](https://hololive.zone/) <Badge type="info" text="Stats" />
 - [hololive TODAY](https://hololivetoday.com/) <Badge type="info" text="News" />
+- [holoplus](https://www.holoplus.com/)
 - [Quick Reference](https://monkonius.github.io/hololive-quick-reference/) <Badge type="info" text="DB" />
 - [Hololive MMD Models](https://3d.nicovideo.jp/users/89765617/works)
 - [Hololive Member Sorter](https://hololive.sorter.my.id/)
