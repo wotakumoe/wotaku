@@ -201,6 +201,7 @@ outline: 1
 
 - Uploaded on own server -> :ddl:
 - Uploaded on Google Drive -> :sgd:
+- Uploaded on SharePoint -> :simple-icons-microsoftsharepoint:
 - Uploaded on Host sites -> :host:
 - Batch Download -> :batch:
 - Torrent Download -> :mag:
@@ -211,7 +212,7 @@ outline: 1
 
 
 #### Reuploads / Untouched
-- [Flugel Anime](https://flugelanime.com/) :ddl:
+- [Flugel Anime](https://flugelanime.com/) :simple-icons-microsoftsharepoint:
 - [Tokyo Insider](https://www.tokyoinsider.com/) :ddl:
 - [JPFiles](https://jpfiles.net/) :host::mdi-disc:
 - [AnimeRSS](https://animerss.com/) :host::mdi-disc:
