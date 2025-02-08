@@ -116,9 +116,9 @@ These apps aren't part of the Tachiyomi/Mihon ecosystem, but instead use their o
 
 
 ::: tip Other apps
-[**AnymeX**](https://anymex.vercel.app/) & [**Dartotsu**](https://github.com/aayush2622/Dartotsu) also support Mangayomi extensions. Paste the manual URL in their repo option.
+[**AnymeX**](https://anymex.vercel.app/) & [**Dartotsu**](https://github.com/aayush2622/Dartotsu) support Mangayomi extensions (both **Auto** and **Manual** method). For manual installation:
 
-#### AnymeX
+##### AnymeX
 - Copy the **Manual URL**
 - Go to AnymeX app
 - Click Profile picture /:material-symbols-person-rounded: -> :mdi-puzzle: Extensions -> Click :gh: 
