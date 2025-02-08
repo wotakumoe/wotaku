@@ -38,7 +38,7 @@ enhance the wiki further. Also, don't hesitate to [suggest ideas](#submitting-a-
 3. Adult content sites similar to OnlyFans
 4. Software that's too general (for example Windows OS related or Tweaking for privacy)
 5. Sites focused on lolicon or furry stuff
-6. Sites scraping only one or two common sources, such as HiAnime or Anivibe
+6. Sites scraping only one or two common sources, such as HiAnime or Animepahe
 7. Sites found in the Unsafe lists of [FMHY](https://fmhy.net/unsafesites), [Privateersclub](https://megathread.pages.dev/unsafe) and/or [r/PiratedGames](https://rentry.org/pgames#untrusted-sites)
 
 ## ⚠️ Things we will try to avoid

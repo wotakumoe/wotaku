@@ -244,7 +244,7 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
                   privacy)
                 </li>
                 <li>Sites focused on lolicon or furry stuff</li>
-                <li>Sites scraping only one or two common sources, such as HiAnime or Anivibe</li>
+                <li>Sites scraping only one or two common sources, such as HiAnime or Animepahe</li>
                 <li>
                   Sites found in the Unsafe lists of <a href="https://fmhy.net/unsafesites" class="text-primary text-underline font-semibold">FMHY</a>, <a href="https://megathread.pages.dev/unsafe" class="text-primary text-underline font-semibold">Privateersclub</a> and/or <a href="https://rentry.org/pgames#untrusted-sites" class="text-primary text-underline font-semibold">r/PiratedGames</a>.
                 </li>
