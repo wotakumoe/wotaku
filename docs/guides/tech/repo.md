@@ -109,10 +109,11 @@ These apps aren't part of the Tachiyomi/Mihon ecosystem, but instead use their o
 | [Official](https://lnreader.github.io/plugins) [:gh:](https://github.com/LNReader/lnreader-plugins) | :globe-showing-asia-australia: | [Install](lnreader://repo/add?url=https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v3.0.0/.dist/plugins.min.json) | [URL](https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v3.0.0/.dist/plugins.min.json) |
 
 #### Mangayomi
-| Name | Region | Manual |
-| - | - | - |
-| [Kodjo](https://github.com/kodjodevf/mangayomi-extensions) | :globe-showing-asia-australia: | [Anime](https://kodjodevf.github.io/mangayomi-extensions/anime_index.json)<br>[Manga](https://kodjodevf.github.io/mangayomi-extensions/index.json)<br>[Novel](https://kodjodevf.github.io/mangayomi-extensions/novel_index.json) |
-| [MiraiEnoki](https://github.com/MiraiEnoki/anymex-extensions) | :globe-showing-asia-australia: | [Anime](https://miraienoki.github.io/anymex-extensions/anime_index.json)<br>[Manga](https://miraienoki.github.io/anymex-extensions/index.json)<br>[Novel](https://miraienoki.github.io/anymex-extensions/novel_index.json) |
+| Name | Region | Auto | Manual |
+| - | - | - | - |
+| [Kodjo](https://github.com/kodjodevf/mangayomi-extensions) | :globe-showing-asia-australia: |  [Anime](sugoireads://add-repo?anime_url=https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/anime_index.json)<br>[Manga](sugoireads://add-repo?manga_url=https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/index.json)<br>[Novel](sugoireads://add-repo?novel_url=https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/novel_index.json) | [Anime](https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/anime_index.json)<br>[Manga](https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/index.json)<br>[Novel](https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/novel_index.json) |
+| [MiraiEnoki](https://github.com/MiraiEnoki/anymex-extensions) | :globe-showing-asia-australia: | [Anime](sugoireads://add-repo?anime_url=https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/anime_index.json)<br>[Manga](sugoireads://add-repo?manga_url=https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/index.json)<br>[Novel](sugoireads://add-repo?novel_url=https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/novel_index.json) | [Anime](https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/anime_index.json)<br>[Manga](https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/index.json)<br>[Novel](https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/novel_index.json) |
+
 
 ::: tip Other apps
 [**AnymeX**](https://anymex.vercel.app/) & [**Dartotsu**](https://github.com/aayush2622/Dartotsu) also support Mangayomi extensions. Paste the manual URL in their repo option.
