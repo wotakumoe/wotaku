@@ -150,7 +150,7 @@ These apps aren't part of the Tachiyomi/Mihon ecosystem, but instead use their o
 
 | Name | Region |
 | - | - |
-| [50n50](https://github.com/50n50/sources) | :globe-showing-asia-australia: |
+| [50/50](https://github.com/50n50/sources) | :globe-showing-asia-australia: |
 
 ::: tip Adding repo manually
 - Click on the **[site_name].json**
