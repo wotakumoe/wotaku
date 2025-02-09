@@ -98,7 +98,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 - **Android**
   - [Poweramp](https://powerampapp.com/) :s::lcl::paid::cs:
   - [Musicolet Music Player](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) :lcl::cs:
-  - [Innertune](https://github.com/z-huang/InnerTune)
+  - [Metrolist](https://github.com/mostafaalagamy/metrolist)
   - [xManager](https://www.xmanagerapp.com/) :cs:
 - **iOS**
   - [Flacbox](https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256) :cs:
@@ -197,11 +197,6 @@ You should never use cracked or modded VPN cause all of your traffic will go thr
 ::: warning Only use this if you know what you're getting yourselves into.
 :::
 
-### Websites
-- [4Chan](https://4chan.org/) <Badge type="tip" text="Mobile" link="https://p.4chan.org/" />
-- [4stats.io](https://4stats.io/)
-- [Anychans](https://anychans.github.io/4chan/) :mdi-desktop-mac:
-
 ### Boards
 - [:f: /a/ - Anime & Manga](https://boards.4channel.org/a/)
 - [:f: /c/ - Anime/Cute](https://boards.4channel.org/c/)
@@ -216,19 +211,17 @@ You should never use cracked or modded VPN cause all of your traffic will go thr
 
 ### Archives
 - [4chan archive search](https://4search.neocities.org/)
-  - [4plebs](https://archive.4plebs.org/)
-  - [Archived.Moe](https://archived.moe/)
-  - [Desuarchive](https://desuarchive.org/) :s:
-  - [Eientei](https://eientei.xyz/)
-  - [Palanq](https://archive.palanq.win/)
-  - [Warosu](https://warosu.org/)
+- [Archived.Moe](https://archived.moe/)
+- [Desuarchive](https://desuarchive.org/) :s:
+- [Warosu](https://warosu.org/)
 
 ### Others
 
 - **Clients**
+  - [Anychans](https://anychans.github.io/4chan/) :web: [:gh:](https://github.com/catamphetamine/anychan)
   - [DashchanFork](https://github.com/TrixiEther/DashchanFork) :and:
   - [KurobaEx](https://github.com/K1rakishou/Kuroba-Experimental/) :and:
-  - [Read Chan](https://play.google.com/store/apps/details?id=com.deezus.pchan) :and:
+  - [Read Chan](https://play.google.com/store/apps/details?id=com.deezus.pchan) :and::cs:
   - [TUI-Chan](https://github.com/tuqqu/tui-chan) :win:
 - **Extension / Script**
   - [4chan X](https://github.com/ccd0/4chan-x) :cr::js:
@@ -238,3 +231,5 @@ You should never use cracked or modded VPN cause all of your traffic will go thr
       - [SS21](https://github.com/saxamaphone69/ss21) :js::mdi-format-paint:
   - [Desu X](https://greasyfork.org/en/scripts/483282-desu-x-enhancement-script-for-desuarchive-org) :js:
   - [Dollchan](https://github.com/SthephanShinkufag/Dollchan-Extension-Tools/) :ff::js:
+- **Stats**
+  - [4stats.io](https://4stats.io/)
