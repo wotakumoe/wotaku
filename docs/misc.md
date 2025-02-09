@@ -300,6 +300,7 @@ ___
 ## Games
 
 - [holo Indie](https://store.steampowered.com/publisher/holo_Indie) :s: <Badge type="tip" text="Info" link="https://hololive.wiki/wiki/Holo_Indie" /><tooltip>We won't add the games here that are under holo Indie</tooltip>
+- [AQUARIUM](https://www.entergram.co.jp/aquarium/) :paid:
 - [Days With Ollie](https://store.steampowered.com/app/2776750/Days_With_Ollie/) :paid:
 - [Delivering Hope](https://david-wu-softdev.itch.io/delivering-hope-hololive-fangame)  
 - [Holo on Suika](https://tkgames.jp/holo_watermelon.html)  
@@ -309,6 +310,7 @@ ___
 - [Mumei's Memory Juggling](https://david-wu-softdev.itch.io/mumeis-memory-juggling)  
 - [Nameless](https://sk-jynx.itch.io/nameless) :s:
 - [Nimi Nightmare's dream dash](https://gioba-games.itch.io/nimi-nightmare-dream-dash)
+- [Okayunyumu](https://www.entergram.co.jp/okayunyumu/) :paid::fjp:
 - [Pebble Jame](https://gioba-games.itch.io/pebble-jame)  
 - [smol Ame](https://moocow-games.itch.io/smol-ame)  
 - [Snowed In](https://shiorinovella.itch.io/shiorivisualnovella)  
