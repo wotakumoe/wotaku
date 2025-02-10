@@ -98,7 +98,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 
 ## Anime
 
-- **FLAC**
+- **FLAC & MP3**
   - [Nyaa](https://nyaa.si/) :s::mag: <Badge type="info" text="Proxies" link="https://rentry.org/nyaap" />
   - [Sitting on Clouds](https://www.sittingonclouds.net/) :s::sm::smf: <Badge type="info" text="2" link="https://www.sittingonclouds.com/" /> <Badge type="info" text="3" link="https://www.sittingonclouds.org/" /> <Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" />
   - [SquidBoard](https://www.squid-board.org/) :acc::sgd::sm::smf:
@@ -384,7 +384,7 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 - [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler) [:cr:](https://chrome.google.com/webstore/detail/lastfm-scrobbler/hhinaapppaileiechjoiifaancjggfjm) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/web-scrobbler/)
 
 ### Script
-- [Ame](https://gitlab.com/SuperSaltyGamer/ame) :appmusic::simple-icons-musicbrainz: <Badge text="VGMdb" />
+- [Ame](https://gitlab.com/SuperSaltyGamer/ame) :simple-icons-applemusic::simple-icons-musicbrainz: <Badge text="VGMdb" />
 - [dzunlock](https://uhwotgit.fly.dev/uhwot/dzunlock)
 - [Gallery Mode for Lists - RateYourMusic](https://greasyfork.org/en/scripts/434865-gallery-mode-for-lists-rateyourmusic)
 - [MusicBrainz Userscripts](https://musicbrainz.org/doc/Guides/Userscripts)
