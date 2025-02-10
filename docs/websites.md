@@ -220,7 +220,7 @@ ___
 #### Re-encodes
 - [Kayoanime](https://kayoanime.com/) :sgd::batch:
 - [Mkvseries](https://mkvseries.com/) <Badge text="2" link="https://mkvcinema.in/" /> :sgd::batch:
-- [Anime out](https://www.animeout.xyz/) :ddl::acc:
+- [AnimeOut](https://www.animeout.xyz/) <Badge text="2" link="https://animewat.ch/" /> :ddl::acc:
 - [Chauthanh](https://chauthanh.info/) :ddl::acc:
 - [hi10anime](https://hi10anime.com/) :ddl::mag::acc::batch:
 ___
@@ -364,6 +364,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [Shellshock](https://nyaa.si/user/shellshock)<tooltip>[Kodansha](https://kodansha.us/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
 - [Shizu](https://nyaa.si/user/wolfsbanes)<tooltip>[Kodansha](https://kodansha.us/), [SuBLime](https://www.sublimemanga.com/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
 - [Stick](https://nyaa.si/user/dumbboy58)<tooltip>[Cross Infinite World](https://www.crossinfworld.com/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
+- [Trite](https://nyaa.si/user/Trite)
 - [Ushi](https://nyaa.si/user/bakaushi)<tooltip>[Seven Seas](https://sevenseasentertainment.com/), [Yen Press](https://yenpress.com/)</tooltip>
 - [XRA](https://nyaa.si/?f=0&c=0_0&q=XRA) :f:
 
@@ -436,7 +437,7 @@ ___
 - [Baka-tsuki](https://www.baka-tsuki.org/project/index.php?title=Main_Page)
 - [Boxnovel](https://boxnovel.com/)
 - [Light Novel Pub](https://www.lightnovelpub.com/) <Badge type="tip" text="2" link="https://www.lightnovelworld.com/" /> <Badge type="tip" text="3" link="https://www.webnovelpub.pro/home" />
-- [Novel Bin](https://novelbin.com/)
+- [Novel Bin](https://novelbin.com/) <Badge type="tip" text="2" link="https://novelbin.me/" />
 - [Novel Buddy](https://novelbuddy.com/home)
 - [VyNovel](https://vynovel.com/)
 
@@ -448,7 +449,6 @@ ___
 - [Novel Hall](https://www.novelhall.com/)
 - [Novels Online](https://novelsonline.net/)
 - [Ranobes](https://ranobes.top/)
-- [Royal Road](https://www.royalroad.com/home)
 
 :::
 
