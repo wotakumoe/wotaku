@@ -168,7 +168,7 @@ ___
   - [Eiga](https://anime.eiga.com/) :fjp:
   - [English Dubbed Anime Lovers](https://english-dubbed.com/)
 - **Blog / Interview**
-  - [Animation Obsessive](https://animationobsessive.substack.com/) [:x:](https://x.com/ani_obsessive)
+  - [Animation Obsessive](https://animationobsessive.substack.com/) :fm: [:x:](https://x.com/ani_obsessive)
   - [Animétudes](https://animetudes.com/) :s:
   - [artist_unknown](https://artistunknown.info/)
   - [Full Frontal](https://fullfrontal.moe/) :s:
