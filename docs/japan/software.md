@@ -145,6 +145,7 @@ ___
 - [Emby Jimaku](https://github.com/bpwhelan/Emby.Jimaku)
 - [Stremio Jimaku](https://jimaku-subs-stremio.echevarria.org/configure) [:gh:](https://github.com/Pedrubik2000/jimaku-subs-stremio)
 - [Voracious](https://voracious.app/) :win::lin: [:gh:](https://github.com/rsimmons/voracious)
+- [Zak's asbplayer](https://zakwarsame.github.io/asbplayer/) :web: [:gh:](https://github.com/zakwarsame/asbplayer)
 ___
 #### mpv
 - [autosubsync mpv](https://github.com/Ajatt-Tools/autosubsync-mpv)
