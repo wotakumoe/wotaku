@@ -48,10 +48,12 @@ outline: [1,2]
 - [Behind The Voice Actors](https://www.behindthevoiceactors.com/)
 
 ### Others
+- [FanCons](https://fancons.com/) <Badge type="tip" text="2" link="https://animecons.com/" />
 - [MyAnimeShelf](https://myanimeshelf.com/)
 - [MyDramaList](https://mydramalist.com/)
 - [MyFigureCollection](https://myfigurecollection.net/)
 - [TV Drama Database](http://www.tvdrama-db.com/) :fjp:
+- [UpcomingCons](https://upcomingcons.com/)
 
 ::: details Related resources
 - [Tracker apps for phone](/software#trackers)
@@ -166,7 +168,7 @@ ___
   - [Eiga](https://anime.eiga.com/) :fjp:
   - [English Dubbed Anime Lovers](https://english-dubbed.com/)
 - **Blog / Interview**
-  - [Animation Obsessive](https://animationobsessive.substack.com/)
+  - [Animation Obsessive](https://animationobsessive.substack.com/) [:x:](https://x.com/ani_obsessive)
   - [Animétudes](https://animetudes.com/) :s:
   - [artist_unknown](https://artistunknown.info/)
   - [Full Frontal](https://fullfrontal.moe/) :s:
