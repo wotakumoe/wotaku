@@ -237,6 +237,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Okular](https://okular.kde.org/) :win::lin:
 - [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) :win: [:gh:](https://github.com/sumatrapdfreader/sumatrapdf)
 - [Thorium reader](https://www.edrlab.org/software/thorium-reader/) :win::app::lin: [:gh:](https://github.com/edrlab/thorium-reader)
+- [Yomikiru](https://github.com/mienaiyami/yomikiru) :win::lin:
 
 
 ## Downloaders
