@@ -94,6 +94,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 
 
 ## YouTube
+- [Anime Collective](https://www.youtube.com/@AnimeCollective) [:web:](https://animecollective.com/)
 - [emgo316](https://www.youtube.com/@emgo316)
 - [JobbytheHong](https://www.youtube.com/@JobbytheHong) <Badge type="tip" text="2" link="https://www.youtube.com/@Jobby2" />
 - [KenKen](https://www.youtube.com/@KenKen004)
