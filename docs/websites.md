@@ -354,7 +354,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 
 - [1r0n](https://nyaa.si/user/tsuna69) `Ch` `Vol`<tooltip>[Comikey](https://comikey.com/), [J-Novel Club](https://j-novel.club/), [K Manga](https://kmanga.kodansha.com/), [Kodansha](https://kodansha.us/), [Manga UP!](https://global.manga-up.com/), [Seven Seas](https://sevenseasentertainment.com/), [SQUARE ENIX](https://squareenixmangaandbooks.square-enix-games.com/en-us), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
 - [anadius](https://nyaa.si/user/anadius) <Badge type="warning" text="Retired"/> `Ch`<tooltip>[VIZ](https://www.viz.com/)</tooltip>
-- [Danke](https://nyaa.si/?f=0&c=0_0&q=danke-empire) :f:<tooltip>[Seven Seas](https://sevenseasentertainment.com/), [Kodansha](https://kodansha.us/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
+- [Danke](https://nyaa.si/?f=0&c=0_0&q=danke-empire) :f:<tooltip>[Kodansha](https://kodansha.us/), [Seven Seas](https://sevenseasentertainment.com/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
 - [Digital Manga Fan](https://nyaa.si/user/digitalmangafan)<tooltip>[J-Novel Club](https://j-novel.club/), [Kodansha](https://kodansha.us/), [ONE PEACE BOOKS](https://www.onepeacebooks.com/), [Seven Seas](https://sevenseasentertainment.com/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
 - [Empy](https://nyaa.si/user/empyrealarrow) `Ch` `Comp`<tooltip>[Glacier Bay Books](https://glacierbaybooks.com/), [MANGA Plus](https://mangaplus.shueisha.co.jp/)</tooltip>
 - [Lord_ne](https://nyaa.si/user/lord_ne)<tooltip>[Crunchyroll](https://store.crunchyroll.com/collections/manga/), [Lezhin Comics](https://www.lezhinus.com/en), [Yen Press](https://yenpress.com/)</tooltip>
@@ -364,7 +364,8 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [Shellshock](https://nyaa.si/user/shellshock)<tooltip>[Kodansha](https://kodansha.us/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
 - [Shizu](https://nyaa.si/user/wolfsbanes)<tooltip>[Kodansha](https://kodansha.us/), [SuBLime](https://www.sublimemanga.com/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
 - [Stick](https://nyaa.si/user/dumbboy58)<tooltip>[Cross Infinite World](https://www.crossinfworld.com/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
-- [Trite](https://nyaa.si/user/Trite)
+- [SWId](https://nyaa.si/?f=0&c=3_1&q=SWId)<tooltip>[Kodansha](https://kodansha.us/), [Seven Seas](https://sevenseasentertainment.com/), [Yen Press](https://yenpress.com/)</tooltip>
+- [Trite](https://nyaa.si/user/Trite)<tooltip>Cover-to-cover (c2c) scans of physical-only books by various publishers.</tooltip>
 - [Ushi](https://nyaa.si/user/bakaushi)<tooltip>[Seven Seas](https://sevenseasentertainment.com/), [Yen Press](https://yenpress.com/)</tooltip>
 - [XRA](https://nyaa.si/?f=0&c=0_0&q=XRA) :f:
 
