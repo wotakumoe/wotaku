@@ -188,7 +188,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/tech/repo#mangayomi) | :win::app::lin: | :mag::ddl: | :mal::al::k: |
 | [Seanime](https://seanime.rahim.app/) | :win::app::lin: | :mag::ddl: | :al: |
 | [Unyo](https://github.com/K3vinb5/Unyo) | :win::app::lin: | :ddl: | :al: |
-| [AnymeX](https://anymex.vercel.app/) [:gh:](https://github.com/RyanYuuki/AnymeX) | :win::app::lin: | :ddl: | :mal::al::simkl: |
+| [AnymeX](https://anymex.vercel.app/) [:gh:](https://github.com/RyanYuuki/AnymeX) [:e:](/guides/tech/repo#mangayomi) | :win::app::lin: | :ddl: | :mal::al::simkl: |
 
 :::details More
 | Program | OS | Source | Tracker |
