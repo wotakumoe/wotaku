@@ -458,7 +458,7 @@ ___
 ### Nyaa
 
 - [Ganba](https://nyaa.si/user/Ganba?f=0&c=3_1&q=)
-- [How Unfortunate](https://nyaa.si/user/HowUnfortunate)
+- [HowUnfortunate](https://nyaa.si/user/HowUnfortunate?f=0&c=3_1&q=)
 - [LuCaZ](https://nyaa.si/?f=0&c=3_1&q=%22%5BLuCaZ%5D%22)
 - [Stick](https://nyaa.si/?f=0&c=3_1&q=%22%5BStick%5D%22)
 
