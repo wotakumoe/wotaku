@@ -33,9 +33,11 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
   - [Dantotsu](https://dantotsuapp.netlify.app/) [:gh:](https://github.com/rebelonion/Dantotsu) [:e:](/guides/tech/repo)
   - [AnimeTV](https://amarullz.com/) [:gh:](https://github.com/amarullz/AnimeTV)
 - **iOS**
+  - [Mangayomi](https://github.com/kodjodevf/mangayomi)
   - [Sora](https://github.com/cranci1/Sora) [:e:](/guides/tech/repo#sora) [:d:](https://discord.gg/XR3SrmUbpd) <Badge type="info" text="Altstore" link="https://www.cranci.tech/repo.json" /><tooltip>To get the sources, join the Discord server.</tooltip>
 - **PC**
   - [Miru](https://miru.watch/) :s::win::app::lin::mag: [:gh:](https://github.com/ThaUnknown/miru/)
+  - [Mangayomi](https://github.com/kodjodevf/mangayomi) :win::app::lin::mag::ddl:
 
 ![](/banner/wmanga.webp)
 

@@ -34,6 +34,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 |-|-|-|
 | [Animiru](https://github.com/quickdesh/Animiru)  | :ddl: | :mal::al::k::simkl: |
 | [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one) | :mag: | :mal::al::k::simkl: |
+| [Mangayomi](https://github.com/kodjodevf/mangayomi) | :ddl::mag: | :mal::al::k: |
 | [AnymeX](https://anymex.vercel.app/) [:gh:](https://github.com/RyanYuuki/AnymeX) | :ddl: | :mal::al::simkl: |
 | [AnimeTV](https://amarullz.com/) [:gh:](https://github.com/amarullz/AnimeTV) | :ddl: | :mal::al: |
 | [Miru App](https://miru.js.org/) [:gh:](https://github.com/miru-project/miru-app) | :ddl::mag: | :al: |
@@ -64,6 +65,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 - [Aniyomi](https://aniyomi.org/) [:gh:](https://github.com/aniyomiorg/aniyomi) [:e:](/guides/tech/repo)
 - [Dantotsu](https://dantotsuapp.netlify.app/) [:gh:](https://github.com/rebelonion/Dantotsu) [:e:](/guides/tech/repo)
 - [Neko](https://github.com/nekomangaorg/Neko)
+- [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [Cubari](https://cubari.moe/) :web: <Badge type="info" text="Alt" link="https://reader.manga.guru/" />
 :::
 
@@ -129,6 +131,7 @@ Check out [**CFW's iOS guide**](https://ios.cfw.guide/) & [**The Apple Wiki**](h
 :::
 
 ## Anime Streaming
+- [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [Sora](https://github.com/cranci1/Sora) [:e:](/guides/tech/repo#sora) [:d:](https://discord.gg/XR3SrmUbpd) <Badge type="info" text="Altstore" link="https://www.cranci.tech/repo.json" /><tooltip>To get the sources, join the Discord server.</tooltip>
 
 ## Manga Readers
@@ -136,6 +139,7 @@ Check out [**CFW's iOS guide**](https://ios.cfw.guide/) & [**The Apple Wiki**](h
 ### Online
 - [Paperback](https://paperback.moe/) [:gh:](https://github.com/Paperback-iOS/app) [:e:](/guides/tech/repo#paperback)
 - [Aidoku](https://aidoku.app/) [:gh:](https://github.com/Aidoku/Aidoku) [:e:](/guides/tech/repo#aidoku)
+- [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [Tachimanga](https://tachimanga.app/) :fm::cs: [:e:](https://tachimanga.app/help/guides/adding-repos.html)
 - [Suwatte](https://suwatte.mantton.com/) [:gh:](https://github.com/Suwatte/Suwatte) [:e:](/guides/tech/repo#suwatte) <Badge type="tip" text="Converter" link="https://seyden.github.io/SuwatteConverter/suwatte" />
 - [Hanami](https://github.com/oolxg/Hanami)
@@ -181,6 +185,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 | [Miru](https://miru.watch/) :s: [:gh:](https://github.com/ThaUnknown/miru/) | :win::app::lin: | :mag: | :al: |
 | [Migu](https://miguapp.pages.dev/) [:gh:](https://github.com/NoCrypt/migu) | :win::app::lin: | :mag: | :al: |
 | [Stremio](https://www.stremio.com/) | :win::app::lin: | :mag::ddl: | :mal::al::k::simkl: |
+| [Mangayomi](https://github.com/kodjodevf/mangayomi) | :win::app::lin: | :mag::ddl: | :mal::al::k: |
 | [Seanime](https://seanime.rahim.app/) | :win::app::lin: | :mag::ddl: | :al: |
 | [Unyo](https://github.com/K3vinb5/Unyo) | :win::app::lin: | :ddl: | :al: |
 | [AnymeX](https://anymex.vercel.app/) [:gh:](https://github.com/RyanYuuki/AnymeX) | :win::app::lin: | :ddl: | :mal::al::simkl: |
@@ -209,6 +214,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 ### Online
 
 - [Houdoku](https://houdoku.netlify.app/) :win::app::lin: [:gh:](https://github.com/xgi/houdoku)
+- [Mangayomi](https://github.com/kodjodevf/mangayomi) :win::app::lin:
 - [Suwayomi](https://github.com/Suwayomi/Suwayomi-Server) :win::app::lin:
 - [Cubari](https://cubari.moe/) :web: <Badge type="info" text="Alt" link="https://reader.manga.guru/" />
 - [MangaDex](https://github.com/darylhjd/mangadesk) :win::app::lin::cmd:
