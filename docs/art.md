@@ -21,23 +21,26 @@ og:
 ## Artist Platforms
 
 - [ArtStation](https://www.artstation.com/)
+- [DeviantArt](https://www.deviantart.com/)
+- [Misskey.io](https://misskey.io/) <Badge type="tip" text="Others" link="https://misskey-hub.net/en/servers/" /><tooltip>Registrations are currently limited to Japan only.</tooltip>
+- [Pixiv](https://www.pixiv.net) :s:
+  - [Pixivision](https://www.pixivision.net/en/)
+- [Twitter](https://x.com/home) :s:
+  - [Twoucan](https://twoucan.com/)
+
+::: details More
 - [ART street](https://medibang.com/)
 - [Bluesky](https://bsky.app/)
 - [Cara](https://cara.app/explore)
 - [Charaforio](https://charaforio.com/en)
-- [DeviantArt](https://www.deviantart.com/)
 - [Illust Days](https://illust.daysneo.com/)
 - [Instagram](https://www.instagram.com/)
-- [Misskey.io](https://misskey.io/) <Badge type="tip" text="Others" link="https://misskey-hub.net/en/servers/" /><tooltip>Registrations are currently limited to Japan only.</tooltip>
 - [Newgrounds](https://www.newgrounds.com/art)
 - [Nico Nico Seiga](https://seiga.nicovideo.jp/) <tooltip>The site is now region locked, use a VPN with JP servers to access it.</tooltip>
-- [Pixiv](https://www.pixiv.net) :s:
-  - [Pixivision](https://www.pixivision.net/en/)
 - [Poipiku](https://poipiku.com/)
 - [Tinami](https://www.tinami.com/)
 - [Tumblr](https://www.tumblr.com/)
-- [Twitter](https://x.com/home) :s:
-  - [Twoucan](https://twoucan.com/)
+:::
 
 ## Support / Commission
 - [Art Mug](https://artmug.kr/index.php)
