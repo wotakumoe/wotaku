@@ -182,7 +182,7 @@ ___
 - **Info / News**
   - [Deb Aoki](https://x.com/debaoki) :x:
   - [Erzat](https://x.com/Erzat110) :x:
-  - [Josu Ke](https://x.com/Josu_ke) :x:
+  - [Josu Ke](https://x.com/Josu_ke) :s::x:
   - [Manga Alerts](https://x.com/MangaAlerts) :x:
   - [Manga Bookshelf](https://mangabookshelf.com/)
   - [Manga Mogura](https://x.com/MangaMoguraRE) <Badge type="tip" text="2" link="https://x.com/MangaReporter" /> :s::x:
@@ -192,8 +192,8 @@ ___
   - [Shonen Jump News](https://x.com/WSJ_manga) :s::x:
 - **Blog / Interview**
   - [BehindTheManga](https://www.behindthemanga.com/)
-  - [Manga Splaining](https://www.mangasplaining.com/)
-  - [TheOASG](https://www.theoasg.com/)
+  - [Mangasplaining](https://www.mangasplaining.com/) [:x:](https://x.com/mangasplaining)
+  - [TheOASG](https://www.theoasg.com/) [:x:](https://x.com/TheOASG)
 
 
 
