@@ -185,7 +185,7 @@ ___
   - [Josu Ke](https://x.com/Josu_ke) :s::x:
   - [Manga Alerts](https://x.com/MangaAlerts) :x:
   - [Manga Bookshelf](https://mangabookshelf.com/)
-  - [Manga Mogura](https://x.com/MangaMoguraRE) <Badge type="tip" text="2" link="https://x.com/MangaReporter" /> :s::x:
+  - [Manga Mogura](https://x.com/MangaMoguraRE) <Badge type="tip" text="2" link="https://x.com/MangaReporter" /> :x:
     - [Ecchi & Smut Mogura](https://x.com/EcchiMogura) :x:
   - [Nez](https://x.com/mangaxrepublic) :x:
   - [Randomanga](https://randomanga.wordpress.com/)
