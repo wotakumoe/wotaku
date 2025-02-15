@@ -27,7 +27,7 @@ outline: 1
   <tooltip>
     <ul>
       <li>Nice and minimal UI.</li>
-      <li>Scrapes HiAnime (Zoro & Bun), Animepahe (Kiwi), Gogo (Gogo & Vid).</li>
+      <li>Scrapes HiAnime (Zoro & Bun), AnimeKai (Arc & Gut) Animepahe (Kiwi), Gogo (Gogo & Vid), AnimeZ (Jet).</li>
       <li>Has built-in AniList support.</li>
     </ul>
   </tooltip>
