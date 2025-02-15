@@ -203,15 +203,11 @@ ___
 <br>
 
 ## Anime & Manga
-- [3x3 Generator](https://gqgs.github.io/3x3-generator/) [:gh:](https://github.com/gqgs/3x3-generator)
-- [Anime Bingo](https://anime-bingo.aikats.us/) [:gh:](https://github.com/walfie/anime-bingo)
-- [due.moe](https://due.moe/)
-- [Ermitteln](https://ermitteln.ihateani.me/) [:gh:](https://github.com/noaione/cmx-ermitteln)
-- [MangaAdaptations for AniList](https://anilist-adaptations.timschneeberger.me/) [:gh:](https://github.com/timschneeb/manga-adaptations-anilist)
-- [Mitsukeru for AniList](https://mitsukeru.timschneeberger.me/) [:gh:](https://github.com/timschneeb/Mitsukeru)
-- [Randime](https://randime.moe/)
-- [Related Anime](https://relatedanime.com/)
-- [Spin.moe](https://spin.moe/)
+| Category  | Websites |
+|-----------|----------|
+| **General** | [3x3 Generator](https://gqgs.github.io/3x3-generator/) :mal::al::k: [:gh:](https://github.com/gqgs/3x3-generator/)<br> [Anime Bingo](https://anime-bingo.aikats.us/) :al: <br> [due.moe](https://due.moe/) :al: [:gh:](https://github.com/walfie/anime-bingo)<br> [Related Anime](https://relatedanime.com/) :mal: |
+| **Anime** | [Manga Adaptations](https://anilist-adaptations.timschneeberger.me/) :al: [:gh:](https://github.com/timschneeb/manga-adaptations-anilist)<br> [Randime](https://randime.moe/) <br> [Spin.moe](https://spin.moe/) :mal::al::k: |
+| **Manga** | [Ermitteln](https://ermitteln.ihateani.me/) :simple-icons-amazon: [:gh:](https://github.com/noaione/cmx-ermitteln) <br> [Mitsukeru](https://mitsukeru.timschneeberger.me/) :al: [:gh:](https://github.com/timschneeb/Mitsukeru) <br> [Tachibk Viewer](https://backup.mihon.tools/) [:gh:](https://github.com/Animeboynz/Mihon-Backup-Viewer) |
 
 ## Image
 | Category | Websites |
@@ -222,19 +218,12 @@ ___
 
 
 ## Tracker
+ 
+| Category  | Websites |
+|-----------|----------|
+| **Stats** | [Sekai](https://sekai.rl404.com/) :s::mal: [:gh:](https://github.com/rl404/sekai) <br> [Anistats](https://mayudev.github.io/anistats/) :al: [:gh:](https://github.com/mayudev/anistats) <br> [Anime Taste Tool](https://www.anipop.uk/) :al: [:gh:](https://github.com/kay-mw/popularity-tool-for-anilist) <br> [anime.plus](https://anime.plus/) :mal: [:gh:](https://github.com/anime-plus/graph) <br> [KitsuStats](https://drumber.github.io/KitsuStats/#/) :k: [:gh:](https://github.com/Drumber/KitsuStats) <br> [MAL Badges](https://www.mal-badges.com/) :mal: |
+| **Tools** | [AniTools](https://anitools.koopz.rocks/) :al: <br> [aniTrakt](https://anitrakt.huere.net/) :mal: [:gh:](https://github.com/ryuuganime/aniTrakt-IndexParser) <br> [MAL Exporter](https://malscraper.azurewebsites.net/) :mal::al::k: |
 
-### Stats
-- [Sekai](https://sekai.rl404.com/) :s::mal: [:gh:](https://github.com/rl404/sekai)
-- [Anistats](https://mayudev.github.io/anistats/) :al: [:gh:](https://github.com/mayudev/anistats)
-- [Anime Taste Tool](https://www.anipop.uk/) :al: [:gh:](https://github.com/kay-mw/popularity-tool-for-anilist)
-- [anime.plus](https://anime.plus/) :mal: [:gh:](https://github.com/anime-plus/graph)
-- [KitsuStats](https://drumber.github.io/KitsuStats/#/) :k: [:gh:](https://github.com/Drumber/KitsuStats)
-- [MAL Badges](https://www.mal-badges.com/) :mal:
-
-### Tools
-- [AniTools](https://anitools.koopz.rocks/) :al:
-- [aniTrakt](https://anitrakt.huere.net/) :mal: [:gh:](https://github.com/ryuuganime/aniTrakt-IndexParser)
-- [MAL Exporter](https://malscraper.azurewebsites.net/) :mal::al::k:
 
 
 
