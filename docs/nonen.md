@@ -114,6 +114,7 @@ If you have recommendations for good sites in your native language or want to re
   - [MioBT](http://www.miobt.com/)
   - [Nyaa Pantsu](https://ouo.si/)
 - **Others**
+  - [BangumiD](https://bgmd.bytex.space/) [:gh:](https://github.com/iota9star/bgmd)
   - [Bangumi Staff Statistics](https://search.bgmss.fun/) [:gh:](https://github.com/AcuLY/BangumiStaffStats)
 
 ### Comics
