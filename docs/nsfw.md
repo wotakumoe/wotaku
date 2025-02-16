@@ -137,7 +137,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 
 ## Android
 - **General**
-  - [Komikku](https://github.com/komikku-app/komikku) [:e:](/guides/tech/repo)
+  - [Komikku](https://komikku-app.github.io/) [:gh:](https://github.com/komikku-app/komikku) [:e:](/guides/tech/repo)
   - [Hentoid](https://github.com/avluis/Hentoid)
   - [Jasmine](https://github.com/niuhuan/jasmine)
   - [Pupil](https://github.com/tom5079/Pupil)

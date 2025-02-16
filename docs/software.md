@@ -54,7 +54,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 ### Online
 - [Mihon](https://mihon.app/) [:gh:](https://github.com/mihonapp/mihon) [:e:](/guides/tech/repo)
   - [Yokai](https://mihon.app/forks/Yokai/) :s: [:gh:](https://github.com/null2264/yokai) [:e:](/guides/tech/repo)
-  - [Komikku](https://github.com/komikku-app/komikku) [:e:](/guides/tech/repo)
+  - [Komikku](https://komikku-app.github.io/) [:gh:](https://github.com/komikku-app/komikku) [:e:](/guides/tech/repo)
 - [Kotatsu](https://kotatsu.app/) [:gh:](https://github.com/KotatsuApp/Kotatsu)
 
 ::: details More

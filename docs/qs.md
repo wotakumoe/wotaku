@@ -58,7 +58,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 
 - **Android**
   - [Yokai](https://mihon.app/forks/Yokai/) :s: [:gh:](https://github.com/null2264/yokai) [:e:](/guides/tech/repo)
-  - [Komikku](https://github.com/komikku-app/komikku) [:e:](/guides/tech/repo)
+  - [Komikku](https://komikku-app.github.io/) [:gh:](https://github.com/komikku-app/komikku) [:e:](/guides/tech/repo)
   - [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :s::lcl::fm::cs:
 - **iOS**
   - [Paperback](https://github.com/Paperback-iOS/app) [:e:](/guides/tech/repo#paperback)
