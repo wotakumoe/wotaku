@@ -147,6 +147,7 @@ og:
   - [imgdanke](https://github.com/DrWhoCares/imgdanke)<tooltip>Optional for GUI but does not support Pingo v1+ at the moment.</tooltip>
 - [pingo](https://css-ig.net/pingo) :cs:
   - [pinga](https://css-ig.net/pinga) :cs:
+- [XL Converter](https://codepoems.eu/xl-converter/) [:gh:](https://github.com/JacobDev1/xl-converter)
 - [FFmpeg](https://ffmpeg.org/) :cmd: [:gh:](https://github.com/FFmpeg/FFmpeg)
 - [chaiNNer](https://chainner.app/) [:gh:](https://github.com/chaiNNer-org/chaiNNer)
 - [Magpie](https://github.com/Blinue/Magpie)
