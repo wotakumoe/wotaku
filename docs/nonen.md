@@ -49,6 +49,7 @@ If you have recommendations for good sites in your native language or want to re
 - [Arabic Toons](https://www.arabic-toons.com/)
 - [Okanime](https://okanime.tv/)
 - [WitAnime](https://witanime.cyou/)
+- [Zorox](https://anime.zoroxtv.site/)
 
 ### Manga
 - [3asQ](https://3asq.org/)
