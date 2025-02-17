@@ -614,7 +614,7 @@ ___
 - [Prime Video](https://www.primevideo.com/)
 
 ::: details More
-### Regional Websites
+### Regional
 - [Otakulogy List](https://github.com/otakulogy/anime-streaming)
 - [YATTA-TACHI List](https://yattatachi.com/legal-anime-streaming-sites)
 
