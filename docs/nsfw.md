@@ -137,11 +137,11 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 
 ## Android
 - **General**
-  - [Komikku](https://komikku-app.github.io/) [:gh:](https://github.com/komikku-app/komikku) [:e:](/guides/tech/repo)
+  - [Komikku](https://komikku-app.github.io/) [:gh:](https://github.com/komikku-app/komikku) [:e:](/guides/ext/mihon)
   - [Hentoid](https://github.com/avluis/Hentoid)
   - [Jasmine](https://github.com/niuhuan/jasmine)
   - [Pupil](https://github.com/tom5079/Pupil)
-  - [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta) [:e:](/guides/tech/repo)
+  - [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta) [:e:](/guides/ext/mihon)
 - **E-Hentai**
   - [EhViewer-FooIbar](https://github.com/FooIbar/EhViewer)
   - [EhViewer-NekoInverter](https://github.com/EhViewer-NekoInverter/EhViewer)

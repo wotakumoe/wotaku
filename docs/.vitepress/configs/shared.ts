@@ -119,6 +119,16 @@ const nav: DefaultTheme.NavItem[] = [
         ]
       },
       {
+        text: 'Extension Repos',
+        collapsed: true,
+        items: [
+          { text: 'Mihon & Aniyomi', link: '/guides/ext/mihon' },
+          { text: 'Mangayomi', link: '/guides/ext/mangayomi' },
+          { text: 'Other Androids', link: '/guides/ext/misc' },
+          { text: 'iOS apps', link: '/guides/ext/ios' }
+        ]
+      },
+      {
         text: 'Music',
         items: [
           { text: 'FB2K Synced Lyrics', link: '/guides/music/fb2klyrics' },
@@ -130,7 +140,6 @@ const nav: DefaultTheme.NavItem[] = [
         text: 'Technical',
         items: [
           { text: 'Blocking Ads', link: '/guides/tech/adblock' },
-          { text: 'Extension Repos', link: '/guides/tech/repo' },
           { text: 'IRC & XDCC', link: '/guides/tech/irc' },
           { text: 'JDL2 Ad-removal', link: '/guides/tech/jdl' }
         ]
@@ -260,6 +269,16 @@ const sidebar: DefaultTheme.Sidebar = [
         ]
       },
       {
+        text: 'Extension Repos',
+        collapsed: true,
+        items: [
+          { text: 'Mihon & Aniyomi', link: '/guides/ext/mihon' },
+          { text: 'Mangayomi', link: '/guides/ext/mangayomi' },
+          { text: 'Other Androids', link: '/guides/ext/misc' },
+          { text: 'iOS apps', link: '/guides/ext/ios' }
+        ]
+      },
+      {
         text: 'Music',
         collapsed: true,
         items: [
@@ -273,7 +292,6 @@ const sidebar: DefaultTheme.Sidebar = [
         collapsed: true,
         items: [
           { text: 'Blocking Ads', link: '/guides/tech/adblock' },
-          { text: 'Extension Repos', link: '/guides/tech/repo' },
           { text: 'IRC & XDCC', link: '/guides/tech/irc' },
           { text: 'JDL2 Ad-removal', link: '/guides/tech/jdl' }
         ]

@@ -7,7 +7,7 @@ hero:
   text: "The Otaku Index"
   announcement:
     title: Mihon & Aniyomi Extensions
-    link: /guides/tech/repo
+    link: /guides/ext/mihon
   image:
     src: \asset\smolame.png
     alt: Wotaku
