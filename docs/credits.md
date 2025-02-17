@@ -32,6 +32,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **6y9brows** | [My life will one day be colorful](https://6y9brows.tumblr.com/post/668069737059713024/my-life-will-one-day-be-colorful) | Art link embed |
 | **ATLUS** | [Futaba Sakura](https://megamitensei.fandom.com/wiki/Futaba_Sakura) | [Music banner](/music#utility-sites) |
 | **Bandai Namco** | [Boa Hancock](https://opbr-en.bn-ent.net/character/detail/0017.html) | [Anime Banner](/qs#anime) |
+| **BuiBui** | [Towa meme laugh](https://x.com/k_e_cttp/status/1788708044228223415) | iOS Extension repos link embed |
 | **Capcom** | [Phoenix Wright](https://news.capcomusa.com/lets/browse/phoenix-wright-ace-attorney-trilogy-dev-column-2-the-art-of-the-turnabout) | [Legal banner](/websites#legal) |
 | **ChristieDA** | [Headphone Anime Girl Render](https://www.deviantart.com/christieda/art/Headphone-Anime-Girl-Render-611521170) | [Audio glossary banner](/glossary/audio#audio-file-1) |
 | **돌만 (Dollman)** | [𝗧𝗔𝗞 [𝗺𝗼𝗰𝗵𝗶𝗺𝗼𝗰𝗵𝗶]🍡](https://x.com/TAK_DRDR/status/1827994397784657986) | Software link embed |
