@@ -25,7 +25,6 @@ outline: [1,2]
 ### Anime
 - [aniDB](https://anidb.net/) :s:
 - [Anikore](https://www.anikore.jp/) :fjp:
-- [Animeco](https://animeco.link/) :fjp:
 - [AnimeDB](https://animedb.jp/) :fjp:
 - [AnimeSongs.org](https://animesongs.org/)
 - [Annict](https://annict.com/) :fjp:
