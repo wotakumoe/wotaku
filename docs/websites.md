@@ -172,13 +172,6 @@ outline: 1
 - [Sonic Zone TV](https://soniczone.net/tv/home.html)
 - [Japanese Animated Film Classics](https://animation.filmarchives.jp/en/index.html)
 
-### Youtube
-- [Anime Bancho](https://www.youtube.com/@AnimeBancho/)
-- [Ani-One Asia](https://www.youtube.com/@AniOneAsia/) <Badge type="info" text="Regional" />
-- [Muse Asia](https://www.youtube.com/@MuseAsia/) <Badge type="info" text="Regional" />
-- [Pokémon TV](https://www.youtube.com/@OfficialPoke%CC%81monTV) <Badge type="info" text="Regional" />
-- [TMS Official](https://www.youtube.com/@AnimeonTMSOfficialChannel/) <Badge type="info" text="Regional" />
-
 ### TV
 - [Toonami Aftermath](https://www.toonamiaftermath.com/)
 - [Toonami Remastered](https://www.toonamiremastered.com/)
@@ -620,9 +613,17 @@ ___
 - [Netflix](https://www.netflix.com)
 - [Prime Video](https://www.primevideo.com/)
 
-::: details Regional Websites
+::: details More
+### Regional Websites
 - [Otakulogy List](https://github.com/otakulogy/anime-streaming)
 - [YATTA-TACHI List](https://yattatachi.com/legal-anime-streaming-sites)
+
+### Youtube
+- [Anime Bancho](https://www.youtube.com/@AnimeBancho/)
+- [Ani-One Asia](https://www.youtube.com/@AniOneAsia/) <Badge type="info" text="Regional" />
+- [Muse Asia](https://www.youtube.com/@MuseAsia/) <Badge type="info" text="Regional" />
+- [Pokémon TV](https://www.youtube.com/@OfficialPoke%CC%81monTV) <Badge type="info" text="Regional" />
+- [TMS Official](https://www.youtube.com/@AnimeonTMSOfficialChannel/) <Badge type="info" text="Regional" />
 :::
 
 ## Manga
