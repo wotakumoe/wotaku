@@ -15,20 +15,20 @@ og:
 ### Anime
 | Name | Region | Auto | Manual |
 | - | - | - | - |
-| [Kodjo](https://github.com/kodjodevf/mangayomi-extensions) | :globe-showing-asia-australia: | [Anime](mangayomi://add-repo?anime_url=https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/anime_index.json) | [Anime](https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/anime_index.json) |
-| [MiraiEnoki](https://github.com/MiraiEnoki/anymex-extensions) | :globe-showing-asia-australia: | [Anime](sugoireads://add-repo?anime_url=https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/anime_index.json) | [Anime](https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/anime_index.json) |
+| [Kodjo](https://github.com/kodjodevf/mangayomi-extensions) | :globe-showing-asia-australia: | [Install](mangayomi://add-repo?anime_url=https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/anime_index.json) | [URL](https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/anime_index.json) |
+| [MiraiEnoki](https://github.com/MiraiEnoki/anymex-extensions) | :globe-showing-asia-australia: | [Install](sugoireads://add-repo?anime_url=https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/anime_index.json) | [URL](https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/anime_index.json) |
 
 ### Manga
 | Name | Region | Auto | Manual |
 | - | - | - | - |
-| [Kodjo](https://github.com/kodjodevf/mangayomi-extensions) | :globe-showing-asia-australia: | [Manga](mangayomi://add-repo?manga_url=https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/index.json) | [Manga](https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/index.json) |
-| [MiraiEnoki](https://github.com/MiraiEnoki/anymex-extensions) | :globe-showing-asia-australia: | [Manga](sugoireads://add-repo?manga_url=https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/index.json) | [Manga](https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/index.json) |
+| [Kodjo](https://github.com/kodjodevf/mangayomi-extensions) | :globe-showing-asia-australia: | [Install](mangayomi://add-repo?manga_url=https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/index.json) | [URL](https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/index.json) |
+| [MiraiEnoki](https://github.com/MiraiEnoki/anymex-extensions) | :globe-showing-asia-australia: | [Install](sugoireads://add-repo?manga_url=https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/index.json) | [URL](https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/index.json) |
 
 ### Novels
 | Name | Region | Auto | Manual |
 | - | - | - | - |
-| [Kodjo](https://github.com/kodjodevf/mangayomi-extensions) | :globe-showing-asia-australia: | [Novel](mangayomi://add-repo?novel_url=https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/novel_index.json) | [Novel](https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/novel_index.json) |
-| [MiraiEnoki](https://github.com/MiraiEnoki/anymex-extensions) | :globe-showing-asia-australia: | [Novel](sugoireads://add-repo?novel_url=https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/novel_index.json) | [Novel](https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/novel_index.json) |
+| [Kodjo](https://github.com/kodjodevf/mangayomi-extensions) | :globe-showing-asia-australia: | [Install](mangayomi://add-repo?novel_url=https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/novel_index.json) | [URL](https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/novel_index.json) |
+| [MiraiEnoki](https://github.com/MiraiEnoki/anymex-extensions) | :globe-showing-asia-australia: | [Install](sugoireads://add-repo?novel_url=https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/novel_index.json) | [URL](https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/novel_index.json) |
 
 
 ::: tip Manual methods
