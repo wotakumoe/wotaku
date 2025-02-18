@@ -42,18 +42,16 @@ og:
 <a href="https://exhentai.org/">Exhentai</a> is it's sister site, which also hosts the more extreme and questionable content. You'll need an account on e-hentai to gain access.</tooltip>
 - [nHentai](https://nhentai.net/)<tooltip>Most popular. Decent UI but compresses images.</tooltip>
 - [Akuma](https://akuma.moe/)<tooltip>E-Hentai clone.</tooltip>
-- [AsmHentai](https://asmhentai.com/)
 - [IMHentai](https://imhentai.xxx/)<tooltip>Big library and great search filters.</tooltip>
-- [HentaiRead](https://hentairead.com/)
 - [Hitomi](https://hitomi.la/)<tooltip>Big library but difficult to navigate.</tooltip>
 - [Panda Backup](https://panda.chaika.moe/)<tooltip>Archive of stuff removed from E-Hentai due to DMCA complaints. Has some obscure stuff deleted on most sites.</tooltip>
 - [SchaleNetwork](https://schale.network/) <Badge text="Mirrors" link="https://rentry.org/schalenet" /><tooltip>Formerly Koharu, has Fakku/Irodori rips (official TLs).</tooltip>
 - [Yabai](https://yabai.si/)<tooltip>E-Hentai clone.</tooltip>
 
 ### English-only
-- [Hentai Nexus](https://hentainexus.com/)<tooltip>fakku/irodori rips (official TLs).</tooltip>
-- [HentaiFox](https://hentaifox.com/)<tooltip>Fast Updates and English only library.</tooltip>
-- [HentaiKisu](https://hentaikisu.com/)
+- [Hentai Nexus](https://hentainexus.com/)<tooltip>Fakku/Irodori rips (official TLs).</tooltip>
+- [HentaiFox](https://hentaifox.com/)
+- [HentaiRead](https://hentairead.com/)
 - [Tsumino](https://www.tsumino.com/)
 - [Wholesome Hentai God List](https://wholesomelist.com/)
 
