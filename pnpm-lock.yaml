@@ -23,6 +23,9 @@ importers:
       '@mdit/plugin-img-size':
         specifier: ^0.13.1
         version: 0.13.1(markdown-it@14.1.0)
+      '@openpanel/web':
+        specifier: ^1.0.1
+        version: 1.0.1
       '@resvg/resvg-js':
         specifier: ^2.6.2
         version: 2.6.2
@@ -53,6 +56,9 @@ importers:
       tinyexec:
         specifier: ^0.3.1
         version: 0.3.1
+      ufo:
+        specifier: ^1.5.4
+        version: 1.5.4
       unocss:
         specifier: 0.59.0-beta.1
         version: 0.59.0-beta.1(postcss@8.4.49)(rollup@4.24.4)(vite@5.4.10(@types/node@22.10.2)(less@4.2.1)(sass@1.83.0)(terser@5.36.0))
@@ -1292,6 +1298,12 @@ packages:
 
   '@nolebase/vitepress-plugin-page-properties@2.11.1':
     resolution: {integrity: sha512-70qP49/d5+vHH3tWIZXUWq6gSnOfEOkOTNKjUNKSTQ9+P5/bMz7aYG4FQlYWNb/DK3BtYCW87VBJODKo8UaxnA==}
+
+  '@openpanel/sdk@1.0.0':
+    resolution: {integrity: sha512-FNmmfjdXoC/VHEjA+WkrQ4lyM5lxEmV7xDd57uj4E+lIS0sU3DLG2mV/dpS8AscnZbUvuMn3kPhiLCqYzuv/gg==}
+
+  '@openpanel/web@1.0.1':
+    resolution: {integrity: sha512-cVZ7Kr9SicczJ/RDIfEtZs8+1iGDzwkabVA/j3NqSl8VSucsC8m1+LVbjmCDzCJNnK4yVn6tEcc9PJRi2rtllw==}
 
   '@parcel/watcher-android-arm64@2.4.1':
     resolution: {integrity: sha512-LOi/WTbbh3aTn2RYddrO8pnapixAziFl6SMxHM69r3tvdSm94JtCenaKgk1GRg5FJ5wpMCpHeW+7yqPlvZv7kg==}
@@ -5195,6 +5207,12 @@ snapshots:
       - terser
       - typescript
       - universal-cookie
+
+  '@openpanel/sdk@1.0.0': {}
+
+  '@openpanel/web@1.0.1':
+    dependencies:
+      '@openpanel/sdk': 1.0.0
 
   '@parcel/watcher-android-arm64@2.4.1':
     optional: true

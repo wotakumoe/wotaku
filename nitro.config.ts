@@ -17,7 +17,8 @@
 export default defineNitroConfig({
   compatibilityDate: '2024-12-16',
   runtimeConfig: {
-    WEBHOOK_URL: process.env.WEBHOOK_URL
+    WEBHOOK_URL: process.env.WEBHOOK_URL,
+    op: { url: process.env.OP_URL, id: process.env.OP_ID },
   },
   srcDir: 'api',
   routeRules: {

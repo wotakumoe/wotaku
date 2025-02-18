@@ -34,7 +34,7 @@ import 'virtual:uno.css'
 import Feedback from './components/Feedback.vue'
 import Layout from './Layout.vue'
 import PreferenceRadio from './components/PreferenceRadio.vue'
-import { createScienceProvider } from './composables/science'
+import { createOpProvider } from './composables/op'
 
 export default {
   extends: DefaultTheme,
@@ -50,7 +50,7 @@ export default {
         }
       }
     })
-    // createScienceProvider()
+    createOpProvider(app)
     enhanceAppWithTabs(app)
     app.component('Button', Button)
     app.component('Authors', Authors)
