@@ -52,30 +52,33 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 ## Legal
 
 ### Stream
-- **Freemium**
-  - [Spotify](https://spotify.com/)
-  - [Youtube Music](https://music.youtube.com/)
-- **Subscription**
-  - [Amazon Music](https://music.amazon.com/)
-  - [Apple Music](https://music.apple.com/)
-  - [Deezer](https://www.deezer.com/)
-  - [Qobuz](https://play.qobuz.com/)
-  - [Tidal](https://tidal.com/)
 
+| Service | Price | Lossy | Lossless | Others | Focus |
+|-|-|-|-|-|-|
+| [Amazon Music](https://music.amazon.com/) | :paid: | Opus 320 | 24/192 | Dolby Atmos, Sony 360 | General |
+| [Apple Music](https://music.apple.com/) | :paid: | AAC 256 | 24/192 | Dolby Atmos | General |
+| [Deezer](https://www.deezer.com/) | :paid:<sup>1</sup> | MP3 320 | 16/44.1 | :no: | General |
+| [Qobuz](https://play.qobuz.com/) | :paid: | MP3 320 | 24/192 | :no: | Western |
+| [Spotify](https://spotify.com/) | :fm: | [Varies](https://support.spotify.com/bd-en/article/audio-quality/) | 16/44.1<sup>2</sup> | :no: | General |
+| [Tidal](https://tidal.com/) | :paid: | AAC 320 | 24/192 | Dolby Atmos | Western |
+| [Youtube Music](https://music.youtube.com/) | :fm: | Opus 256 | :no: | :no: | General |
 
 ### Purchase
-- **Physical**
-  - [Amazon](https://www.amazon.com/)
-  - [CDJapan](https://www.cdjapan.co.jp/)
-  - [Play-Asia](https://www.play-asia.com/)
-  - [HMV & Books](https://www.hmv.co.jp/)
-- **Digital**
-  - [Amazon](https://www.amazon.com/)
-  - [Qobuz](https://www.qobuz.com/us-en/shop)
-  - [Mora](https://mora.jp/)
-  - [Ototoy](https://ototoy.jp/)
-  - [Recochoku](https://recochoku.jp/)
 
+| Service | Lossy | Lossless | Others | Focus |
+|-|-|-|-|-|
+| [Amazon](https://www.amazon.com/) | MP3 256 | :no: | :no: | General |
+| [Mora](https://mora.jp/) | AAC-LC 320 | 24/96 | :no: | Japan |
+| [Ototoy](https://ototoy.jp/) | Lossy | 24/192 | DSD | Japan |
+| [Recochoku](https://recochoku.jp/) | AAC 320 | 24/192 | :no: | Japan |
+| [Qobuz](https://www.qobuz.com/us-en/shop) | MP3 320 | 24/192 | :no: | Western |
+
+::: tip Notes
+1. Some countries have free access. You can try [dzunlock](https://uhwotgit.fly.dev/uhwot/dzunlock) or [echo](https://github.com/brahmkshatriya/echo).
+2. No public access at the moment.
+
+The sources mentioned here are all digital, with their max qualities listed. Quality of an individual track/album depends on the Label and Platform. For physical purchases go to [**merch**](/merch#shops).
+:::
 
 ![](/music/mdl.webp)
 
