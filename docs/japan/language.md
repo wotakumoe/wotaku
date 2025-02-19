@@ -275,7 +275,7 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 ### Communities
 | Category      | Links                                                                                                                                                          |
 |---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Discord**   | [Japanese Language Study Space](https://discord.gg/jlss)<br>[Marshall's Server](https://discord.gg/ejmrfwSYAH)<br>[NativShark](https://discord.gg/nativshark)<br>[Perdition](https://discord.gg/uK4HeGN)<br>[TheMoeWay](https://discord.gg/nhqjydaR8j) :s:<br>[ToKini Andy](https://discord.gg/WP7zYHC)<br>[JPDB](https://discord.gg/jWwVD7D2sZ) |
+| **Discord**   | [Japanese Language Study Space](https://discord.gg/jlss)<br>[Marshall's Server](https://discord.gg/ejmrfwSYAH)<br>[NativShark](https://discord.gg/nativshark)<br>[Perdition](https://discord.gg/uK4HeGN)<br>[TheMoeWay](https://discord.gg/nhqjydaR8j)<br>[ToKini Andy](https://discord.gg/WP7zYHC)<br>[JPDB](https://discord.gg/jWwVD7D2sZ) |
 | **Reddit**    | [AJATT](https://old.reddit.com/r/ajatt/)<br>[LearnJapanese](https://old.reddit.com/r/LearnJapanese/)                                                          |
 | **Others**    | [Conversation Exchange](https://www.conversationexchange.com/)<br>[Japanese Language Stack Exchange](https://japanese.stackexchange.com/)<br>[My Language Exchange](https://www.mylanguageexchange.com/)<br>[Tatsumoto](https://tatsumoto.neocities.org/blog/join-our-community) |
 
