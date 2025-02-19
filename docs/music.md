@@ -68,8 +68,9 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 | Service | Lossy | Lossless | Others | Focus |
 |-|-|-|-|-|
 | [Amazon](https://www.amazon.com/) | MP3 256 | :no: | :no: | General |
+| [Bandcamp](https://bandcamp.com/) | [Varies](https://get.bandcamp.help/hc/en-us/articles/23020723975959-Can-I-upload-higher-resolution-tracks-What-about-24-bit) | [Varies](https://get.bandcamp.help/hc/en-us/articles/23020723975959-Can-I-upload-higher-resolution-tracks-What-about-24-bit) | :no: | General |
 | [Mora](https://mora.jp/) | AAC-LC 320 | 24/96 | :no: | Japan |
-| [Ototoy](https://ototoy.jp/) | Lossy | 24/192 | DSD | Japan |
+| [Ototoy](https://ototoy.jp/) | AAC | 24/192 | DSD | Japan |
 | [Recochoku](https://recochoku.jp/) | AAC 320 | 24/192 | :no: | Japan |
 | [Qobuz](https://www.qobuz.com/us-en/shop) | MP3 320 | 24/192 | :no: | Western |
 
