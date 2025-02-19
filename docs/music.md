@@ -68,7 +68,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 | Service | Lossy | Lossless | Others | Focus |
 |-|-|-|-|-|
 | [Amazon](https://www.amazon.com/) | MP3 256 | :no: | :no: | General |
-| [Bandcamp](https://bandcamp.com/) | [Varies](https://get.bandcamp.help/hc/en-us/articles/23020723975959-Can-I-upload-higher-resolution-tracks-What-about-24-bit) | [Varies](https://get.bandcamp.help/hc/en-us/articles/23020723975959-Can-I-upload-higher-resolution-tracks-What-about-24-bit) | :no: | General |
+| [Bandcamp](https://bandcamp.com/) | MP3 320 | 24/192<sup>3</sup> | :no: | General |
 | [Mora](https://mora.jp/) | AAC-LC 320 | 24/96 | :no: | Japan |
 | [Ototoy](https://ototoy.jp/) | AAC | 24/192 | DSD | Japan |
 | [Recochoku](https://recochoku.jp/) | AAC 320 | 24/192 | :no: | Japan |
@@ -77,6 +77,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 ::: tip Notes
 1. Some countries have free access. You can try [dzunlock](https://uhwotgit.fly.dev/uhwot/dzunlock) or [echo](https://github.com/brahmkshatriya/echo).
 2. No public access at the moment.
+3. The quality depends on the artist's upload. ALAC will be up to [24/48](https://get.bandcamp.help/hc/en-us/articles/23020723975959-Can-I-upload-higher-resolution-tracks-What-about-24-bit).
 
 The sources mentioned here are all digital, with their max qualities listed. Quality of an individual track/album depends on the Label and Platform. For physical purchases go to [**merch**](/merch#shops).
 :::
