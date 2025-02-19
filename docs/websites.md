@@ -359,6 +359,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [Shizu](https://nyaa.si/user/wolfsbanes)<tooltip>[Kodansha](https://kodansha.us/), [SuBLime](https://www.sublimemanga.com/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
 - [Stick](https://nyaa.si/user/dumbboy58)<tooltip>[Cross Infinite World](https://www.crossinfworld.com/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
 - [SWId](https://nyaa.si/?f=0&c=3_1&q=SWId)<tooltip>[Kodansha](https://kodansha.us/), [Seven Seas](https://sevenseasentertainment.com/), [Yen Press](https://yenpress.com/)</tooltip>
+- [TooManyIsekai](https://nyaa.si/?f=0&c=3_1&q=TooManyIsekai)<tooltip>[J-Novel Club](https://j-novel.club/), [K Manga](https://kmanga.kodansha.com/), [Kodansha](https://kodansha.us/), [Manga UP!](https://global.manga-up.com/), [ONE PEACE BOOKS](https://www.onepeacebooks.com/), [Seven Seas](https://sevenseasentertainment.com/)</tooltip>
 - [Trite](https://nyaa.si/user/Trite)<tooltip>Cover-to-cover (c2c) scans of physical-only books by various publishers.</tooltip>
 - [Ushi](https://nyaa.si/user/bakaushi)<tooltip>[Seven Seas](https://sevenseasentertainment.com/), [Yen Press](https://yenpress.com/)</tooltip>
 - [XRA](https://nyaa.si/?f=0&c=0_0&q=XRA) :f:
