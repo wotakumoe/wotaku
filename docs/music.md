@@ -301,7 +301,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | **General** | [Echo](https://github.com/brahmkshatriya/echo) :and:<br>[Soundbound](https://soundbound.app/) :and::cs:    |
 | **YouTube** | [**Youtube Music**](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)<br>[Revanced Music](https://github.com/j-hc/revanced-magisk-module/releases) :and:<br>[Innertune](https://github.com/z-huang/InnerTune) :s::and:<br>[Metrolist](https://github.com/mostafaalagamy/metrolist) :and:<br>[OuterTune](https://github.com/DD3Boh/OuterTune) :and:<br>[RiMusic](https://github.com/fast4x/RiMusic) :and:<br>[SimpMusic](https://github.com/maxrave-dev/SimpMusic) :and:<br>[Harmony Music](https://github.com/anandnet/Harmony-Music) :and: |
 | **Spotify** | [**Spotify**](https://www.spotify.com/us/download/) :cs:<br>[xManager](https://www.xmanagerapp.com/) :and::cs:<br>[SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) :app::cs:     |
-| **Others**  | [Apple Music](https://apps.apple.com/us/app/apple-music/id1108187390) :app::cs:<br>[ReFreezer](https://github.com/DJDoubleD/refreezer) :and: `Deezer`<br>[Transistor](https://codeberg.org/y20k/transistor) :and::cs: `Radio` |
+| **Others**  | [Apple Music](https://apps.apple.com/us/app/apple-music/id1108187390) :app::cs:<br>[ReFreezer](https://github.com/DJDoubleD/refreezer) :and: `Deezer`<br>[Transistor](https://codeberg.org/y20k/transistor) :and: `Radio` |
 
 
 ### Audiobook
