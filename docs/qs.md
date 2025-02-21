@@ -34,7 +34,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
   - [AnimeTV](https://amarullz.com/) [:gh:](https://github.com/amarullz/AnimeTV)
 - **iOS**
   - [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi)
-  - [Sora](https://github.com/cranci1/Sora) [:e:](/guides/ext/ios#sora) [:d:](https://discord.gg/XR3SrmUbpd) <Badge type="info" text="Altstore" link="https://www.cranci.tech/repo.json" /><tooltip>To get the sources, join the Discord server.</tooltip>
+  - [Sora](https://github.com/cranci1/Sora) [:e:](/guides/ext/ios#sora) <Badge type="info" text="Altstore" link="https://www.cranci.tech/repo.json" />
 - **PC**
   - [Miru](https://miru.watch/) :s::win::app::lin::mag: [:gh:](https://github.com/ThaUnknown/miru/)
   - [Mangayomi](https://github.com/kodjodevf/mangayomi) :win::app::lin::mag::ddl: [:e:](/guides/ext/mangayomi)
@@ -206,8 +206,10 @@ You should never use cracked or modded VPN cause all of your traffic will go thr
 - [:f: /co/ - Comics & Cartoons](https://boards.4channel.org/co/)
 - [:f: /e/ - Ecchi](https://boards.4channel.org/e/)
 - [:f: /h/ - Hentai](https://boards.4channel.org/h/)
-- [:f: /m/ - Mecha](https://boards.4channel.org/m/)
 - [:f: /jp/ - Otaku Culture](https://boards.4channel.org/jp/)
+- [:f: /m/ - Mecha](https://boards.4channel.org/m/)
+- [:f: /u/ - Yuri](https://boards.4channel.org/u/)
+- [:f: /vp/ - Pokémon](https://boards.4channel.org/vp/)
 - [:f: /vt/ - Virtual YouTubers](https://boards.4channel.org/vt/)
 - [:f: /w/ - Anime/Wallpapers](https://boards.4channel.org/w/)
 
