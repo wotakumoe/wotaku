@@ -431,7 +431,7 @@ ___
 
 - [Novel Updates](https://www.novelupdates.com/)
 - [Baka-tsuki](https://www.baka-tsuki.org/project/index.php?title=Main_Page)
-- [Boxnovel](https://boxnovel.com/)
+- [Novgo](https://novgo.co/)
 - [Light Novel Pub](https://www.lightnovelpub.com/) <Badge type="tip" text="2" link="https://www.lightnovelworld.com/" /> <Badge type="tip" text="3" link="https://www.webnovelpub.pro/home" />
 - [Novel Bin](https://novelbin.com/) <Badge type="tip" text="2" link="https://novelbin.me/" />
 - [Novel Buddy](https://novelbuddy.com/home)
