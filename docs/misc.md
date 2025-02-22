@@ -108,6 +108,7 @@ outline: [1,2]
 - [MANGA Plus Top 40](https://manga.tumeo.space/) [:gh:](https://github.com/williamd1k0/manga-plus-top40)
 - [r/LightNovels reading order](https://old.reddit.com/r/LightNovels/wiki/reading_order)
 - [Shoseki Ranking](http://shosekiranking.blog.fc2.com/) :fjp:
+- [Sumikko](https://comic.sumikko.info/) :s: :fjp: [:rss:](https://comic.sumikko.info/rss.xml)
 
 
 ### Calendar
@@ -168,6 +169,8 @@ ___
   - [English Dubbed Anime Lovers](https://english-dubbed.com/)
 - **Blog / Interview**
   - [Animation Obsessive](https://animationobsessive.substack.com/) :fm: [:x:](https://x.com/ani_obsessive)
+  - [Anime Herald](https://www.animeherald.com/)
+  - [Animenomics](https://news.animenomics.com/) :fm:
   - [Animétudes](https://animetudes.com/) :s:
   - [artist_unknown](https://artistunknown.info/)
   - [Full Frontal](https://fullfrontal.moe/) :s:
@@ -187,7 +190,7 @@ ___
   - [Manga Mogura](https://x.com/MangaMoguraRE) <Badge type="tip" text="2" link="https://x.com/MangaReporter" /> :x:
     - [Ecchi & Smut Mogura](https://x.com/EcchiMogura) :x:
   - [Nez](https://x.com/mangaxrepublic) :x:
-  - [Randomanga](https://randomanga.wordpress.com/)
+  - [Randomanga](https://randomanga.wordpress.com/) :flag-france:
   - [Shonen Jump News](https://x.com/WSJ_manga) :s::x:
 - **Blog / Interview**
   - [BehindTheManga](https://www.behindthemanga.com/)
