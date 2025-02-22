@@ -17,12 +17,14 @@ og:
 | - | - | - | - |
 | [Kodjo](https://github.com/kodjodevf/mangayomi-extensions) | :globe-showing-asia-australia: | [Install](mangayomi://add-repo?anime_url=https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/anime_index.json) | [URL](https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/anime_index.json) |
 | [MiraiEnoki](https://github.com/MiraiEnoki/anymex-extensions) | :globe-showing-asia-australia: | [Install](mangayomi://add-repo?anime_url=https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/anime_index.json) | [URL](https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/anime_index.json) |
+| [Gato404](https://github.com/gato404/kegareta-sauces) | :no-one-under-eighteen: | [Install](mangayomi://add-repo?anime_url=https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/anime_index.json) | [URL](https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/anime_index.json) |
 
 ### Manga
 | Name | Region | Auto | Manual |
 | - | - | - | - |
 | [Kodjo](https://github.com/kodjodevf/mangayomi-extensions) | :globe-showing-asia-australia: | [Install](mangayomi://add-repo?manga_url=https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/index.json) | [URL](https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/index.json) |
 | [MiraiEnoki](https://github.com/MiraiEnoki/anymex-extensions) | :globe-showing-asia-australia: | [Install](mangayomi://add-repo?manga_url=https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/index.json) | [URL](https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/index.json) |
+| [Gato404](https://github.com/gato404/kegareta-sauces) | :no-one-under-eighteen: | [Install](mangayomi://add-repo?manga_url=https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/index.json) | [URL](https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/index.json) |
 
 ### Novels
 | Name | Region | Auto | Manual |
