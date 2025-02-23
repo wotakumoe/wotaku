@@ -99,7 +99,7 @@ outline: [1,2]
 
 ### Info
 
-- [ComicRanking500](https://x.com/ComicRanking500)
+- [ComicRanking500](https://x.com/ComicRanking500) <tooltip>The rankings here are based on POS (point-of-sale) data from various bookstore chains in Japan's offline market. Books that primarily sell online or are heavily focused on online stores may rank lower on this list.</tooltip>
   - [Manga Ranking](http://shosekiranking.blog.fc2.com/) :fjp: [:rss:](http://shosekiranking.blog.fc2.com/?xml)
   - [Novel Ranking](http://bunkoranoberanking.blog.fc2.com/) :fjp: [:rss:](http://bunkoranoberanking.blog.fc2.com/?xml)
 - [Erzat](https://erzat.blog/) [:x:](https://x.com/Erzat110)
@@ -118,7 +118,6 @@ outline: [1,2]
 - [Sumikko](https://comic.sumikko.info/) :s: :fjp: [:rss:](https://comic.sumikko.info/rss.xml)
 - [Von's Manga Calendar](https://v0n.notion.site/Manga-297a9ad3a4904173b3a4ce319f9b2879)
 - [Yatta-Tachi](https://yattatachi.com/tag/releases)
-- :more: [Manga release portals](#manga-ln-2)
 ___
 #### Publisher
 - [Azuki](https://www.azuki.co/release-calendar) <Badge type="info" text="CaaS" />
