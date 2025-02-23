@@ -3,7 +3,7 @@ title: Mangayomi, AnymeX & Dartotsu Extension Repos
 customDescription: Extension Repos & Guides for Mangayomi, AnymeX & Dartotsu.
 outline: [2,3]
 og:
-    image: https://files.catbox.moe/l2g45x.png
+    image: https://files.catbox.moe/gi8tqu.jpg
 ---
 
 <GradientCard title="Extension Repos" description="Mangayomi, AnymeX & Dartotsu Extension Repos & Guides" theme="turquoise" variant="thin"/>

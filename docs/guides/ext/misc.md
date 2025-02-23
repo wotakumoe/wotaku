@@ -3,7 +3,7 @@ title: Dantotsu, Legado & LNReader Extension Repos
 customDescription: Extension Repos & Guides for Dantotsu, Legado & LNReader
 outline: [2,3]
 og:
-    image: https://files.catbox.moe/l2g45x.png
+    image: https://files.catbox.moe/gi8tqu.jpg
 ---
 
 <GradientCard title="Extension Repos" description="Miscellaneous Extension Repos & Guides" theme="turquoise" variant="thin"/>

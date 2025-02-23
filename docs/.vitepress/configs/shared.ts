@@ -124,7 +124,7 @@ const nav: DefaultTheme.NavItem[] = [
         items: [
           { text: 'Mihon & Aniyomi', link: '/guides/ext/mihon' },
           { text: 'Mangayomi', link: '/guides/ext/mangayomi' },
-          { text: 'Other Androids', link: '/guides/ext/misc' },
+          { text: 'Other Android Apps', link: '/guides/ext/misc' },
           { text: 'iOS apps', link: '/guides/ext/ios' }
         ]
       },
@@ -274,7 +274,7 @@ const sidebar: DefaultTheme.Sidebar = [
         items: [
           { text: 'Mihon & Aniyomi', link: '/guides/ext/mihon' },
           { text: 'Mangayomi', link: '/guides/ext/mangayomi' },
-          { text: 'Other Androids', link: '/guides/ext/misc' },
+          { text: 'Other Android Apps', link: '/guides/ext/misc' },
           { text: 'iOS apps', link: '/guides/ext/ios' }
         ]
       },

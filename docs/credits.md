@@ -41,6 +41,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Erik Larsen** | [Spawn](https://antiheroes.fandom.com/wiki/Spawn) | [Comics banner](/websites#comics) |
 | **Eyeye** | [Futaba-chan](https://www.pixiv.net/en/artworks/115469094) | FAQs link embed |
 | **Fari** | [V](https://medibang.com/picture/142307130449401690015558098/) | [Music banner](/music#info-sites) |
+| Feel. | [Akane Mizuno](https://myanimelist.net/anime/34822/Tsuki_ga_Kirei/episode/4) | Extension Repos default link embed |
 | **frakon98** | [Kaiji - Rolling the dice](https://www.deviantart.com/frakon98/art/Kaiji-Rolling-the-dice-860584411) | Madokami link embed |
 | **藤ちょこ (Fujichoco)** | [Hatsune Miku “Magical Mirai 2020” Osaka](https://magicalmirai.com/2020/osaka/) | [Audio glossary banner](/glossary/audio#japanese-music-genres) |
 | **フカヒレ (Fukahire)** | [Hoshimachi Suisei](https://x.com/fuka_hire/status/1619998921757192195) | [Music banner](/qs#music) |
