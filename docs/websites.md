@@ -555,7 +555,7 @@ ___
 - [TheLongbox](https://thelongbox.net/) :host::acc:
 
 ## Others
-- **Info**
+- **Info / News**
   - [Comichron](https://www.comichron.com/index.php)
   - [Comic Book Herald](https://www.comicbookherald.com/)
   - [Comic Book Reading Orders](https://comicbookreadingorders.com/)
@@ -567,6 +567,7 @@ ___
   - [How To Love Comics](https://www.howtolovecomics.com/)
   - [Marvel Guides](https://marvelguides.com/)
   - [Official Marvel Guides](https://www.marvel.com/comics/guides)
+  - [The Beat](https://www.comicsbeat.com/)
   - [The Comics Journal](https://www.tcj.com/)
 - **Tools**
   - [Kapowarr](https://casvt.github.io/Kapowarr/) [:gh:](https://github.com/Casvt/Kapowarr)
