@@ -100,24 +100,23 @@ outline: [1,2]
 ### Info
 
 - [Bookmeter](https://bookmeter.com/) :fjp:
-- [Bunko Light Novel Ranking](http://bunkoranoberanking.blog.fc2.com/) :fjp:
-- [Erzat](https://erzat.blog/)
-- [Jajanken](https://www.jajanken.net/en/)
-- [Mangacodex](https://www.mangacodex.com/) [:x:](https://x.com/Josu_ke) <tooltip>The site doesn't get updated often, visit their twitter for more recent graphs.</tooltip>
-- [MANGA Plus Views](https://mangaplustracker.github.io/) [:gh:](https://github.com/MangaplusTracker/MangaplusTracker.github.io)
+- **ComicRanking500**
+  - [Manga Ranking](http://shosekiranking.blog.fc2.com/) :fjp: [:rss:](http://shosekiranking.blog.fc2.com/?xml)
+  - [Novel Ranking](http://bunkoranoberanking.blog.fc2.com/) :fjp: [:rss:](http://bunkoranoberanking.blog.fc2.com/?xml)
+- [Erzat](https://erzat.blog/) [:x:](https://x.com/Erzat110)
+- [Jajanken](https://www.jajanken.net/en/) <Badge text="WSJ" />
 - [MANGA Plus Top 40](https://manga.tumeo.space/) [:gh:](https://github.com/williamd1k0/manga-plus-top40)
-- [r/LightNovels reading order](https://old.reddit.com/r/LightNovels/wiki/reading_order)
-- [Shoseki Ranking](http://shosekiranking.blog.fc2.com/) :fjp:
-- [Sumikko](https://comic.sumikko.info/) :s: :fjp: [:rss:](https://comic.sumikko.info/rss.xml)
-
+- [MANGA Plus Views](https://mangaplustracker.github.io/) [:gh:](https://github.com/MangaplusTracker/MangaplusTracker.github.io)
+- [Randomanga](https://randomanga.wordpress.com/) :flag-france: <Badge text="Oricon" /> 
 
 ### Calendar
 
 #### Index
 - [Mynewworm](https://myneworm.katsurin.com/) [:gh:](https://github.com/Butterstroke/Myneworm)
-- [Otaku Calendar](https://otakucalendar.com/Release/?filterCategory=2) [:rss:](https://otakucalendar.com/rss)
+- [Otaku Calendar](https://otakucalendar.com/Release/?filterCategory=2) :s: [:rss:](https://otakucalendar.com/rss)
 - [Licensed Light Novel Releases](https://lnrelease.github.io/) [:gh:](https://github.com/LNRelease/lnrelease.github.io)
 - [r/LightNovels upcoming releases](https://old.reddit.com/r/LightNovels/wiki/upcomingreleases/)
+- [Sumikko](https://comic.sumikko.info/) :s: :fjp: [:rss:](https://comic.sumikko.info/rss.xml)
 - [Von's Manga Calendar](https://v0n.notion.site/Manga-297a9ad3a4904173b3a4ce319f9b2879)
 - [Yatta-Tachi](https://yattatachi.com/tag/releases)
 - :more: [Manga release portals](#manga-ln-2)
@@ -144,14 +143,14 @@ ___
 
 - **Info / News**
   - [Anime News Network](https://www.animenewsnetwork.com/) :s: [:x:](https://x.com/anime) [:rss:](https://www.animenewsnetwork.com/newsfeed/)
-  - [Anime UK News](https://animeuknews.net/)
+  - [Anime UK News](https://animeuknews.net/) :flag-united-kingdom:
   - [Crunchyroll News](https://www.crunchyroll.com/news) [:rss:](https://www.crunchyroll.com/feed)
   - [GUNDAM.INFO](https://en.gundam.info/)
-  - [Japan Anime News](https://us.oricon-group.com/) [:x:](https://x.com/JapanAnimeNews_)
   - [Kanzenshuu](https://www.kanzenshuu.com/) [:rss:](https://www.kanzenshuu.com/feed/)
   - [MAL News](https://myanimelist.net/news) [:x:](https://x.com/myanimelist) [:rss:](https://myanimelist.net/rss/news.xml)
   - [ORICON NEWS](https://www.oricon.co.jp/) :fjp:
-  - [Otaku News](https://www.otakunews.com/) [:rss:](https://www.otakunews.com/Rss)
+    - [Japan Anime News](https://us.oricon-group.com/) [:x:](https://x.com/JapanAnimeNews_)
+  - [Otaku News](https://www.otakunews.com/) :flag-united-kingdom: [:rss:](https://www.otakunews.com/Rss)
 - **Blog / Interview**
   - [Anime Blog Tracker](https://aniblogtracker.com/) :s: <Badge text="Aggregator" /> 
   - [Anime Nano](https://www.animenano.com/) <Badge text="Aggregator" />
@@ -162,6 +161,7 @@ ___
 
 - **Info / News**
   - [Anime Corner](https://animecorner.me/) :s: [:x:](https://x.com/animecorner_ac)
+  - [Animenomics](https://news.animenomics.com/) :fm:
   - [Anime Freaks](https://times.abema.tv/anime) :fjp:
   - [Anitrendz](https://anitrendz.net/news/) [:x:](https://x.com/anitrendz)
   - [AnimeTV](https://animetv-jp.net/) [:x:](https://x.com/animetv_jp)
@@ -170,7 +170,6 @@ ___
 - **Blog / Interview**
   - [Animation Obsessive](https://animationobsessive.substack.com/) :fm: [:x:](https://x.com/ani_obsessive)
   - [Anime Herald](https://www.animeherald.com/)
-  - [Animenomics](https://news.animenomics.com/) :fm:
   - [Animétudes](https://animetudes.com/) :s:
   - [artist_unknown](https://artistunknown.info/)
   - [Full Frontal](https://fullfrontal.moe/) :s:
@@ -183,17 +182,14 @@ ___
 
 - **Info / News**
   - [Deb Aoki](https://x.com/debaoki) :x:
-  - [Erzat](https://x.com/Erzat110) :x:
-  - [Josu Ke](https://x.com/Josu_ke) :s::x:
+  - [Josu Ke](https://x.com/Josu_ke) :s::x: [:web:](https://www.mangacodex.com/)<tooltip>The site doesn't get updated often, visit their twitter for more recent graphs.</tooltip>
   - [Manga Alerts](https://x.com/MangaAlerts) :x:
-  - [Manga Bookshelf](https://mangabookshelf.com/)
   - [Manga Mogura](https://x.com/MangaMoguraRE) <Badge type="tip" text="2" link="https://x.com/MangaReporter" /> :x:
     - [Ecchi & Smut Mogura](https://x.com/EcchiMogura) :x:
-  - [Nez](https://x.com/mangaxrepublic) :x:
-  - [Randomanga](https://randomanga.wordpress.com/) :flag-france:
   - [Shonen Jump News](https://x.com/WSJ_manga) :s::x:
 - **Blog / Interview**
   - [BehindTheManga](https://www.behindthemanga.com/)
+  - [Manga Bookshelf](https://mangabookshelf.com/)
   - [Mangasplaining](https://www.mangasplaining.com/) [:x:](https://x.com/mangasplaining)
   - [TheOASG](https://www.theoasg.com/) [:x:](https://x.com/TheOASG)
 
