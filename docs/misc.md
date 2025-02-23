@@ -99,8 +99,7 @@ outline: [1,2]
 
 ### Info
 
-- [Bookmeter](https://bookmeter.com/) :fjp:
-- **ComicRanking500**
+- [ComicRanking500](https://x.com/ComicRanking500)
   - [Manga Ranking](http://shosekiranking.blog.fc2.com/) :fjp: [:rss:](http://shosekiranking.blog.fc2.com/?xml)
   - [Novel Ranking](http://bunkoranoberanking.blog.fc2.com/) :fjp: [:rss:](http://bunkoranoberanking.blog.fc2.com/?xml)
 - [Erzat](https://erzat.blog/) [:x:](https://x.com/Erzat110)
