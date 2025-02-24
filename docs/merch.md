@@ -100,6 +100,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [KenKen](https://www.youtube.com/@KenKen004)
 - [Mecha Gaikotsu](https://www.youtube.com/@MechaGaikotsu)
 - [Solaris Japan](https://www.youtube.com/@Solaris_Japan)
+- [Sukima Sangyo](https://www.youtube.com/@sukimasangyo)
 
 
 ## Communities
