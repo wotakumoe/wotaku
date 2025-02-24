@@ -101,7 +101,7 @@ If you look at the sakuga, we can see a few numbers.
 :::
 
 ::: info More Info
-We tried to really simplify the process. For more details, check out [**Dong Chang**](https://www.youtube.com/@DongChang) & [**Sakuga Foundry**](https://www.youtube.com/@SakugaFoundry).
+We tried to really simplify the process. For more details, check out [**Dong Chang**](https://www.youtube.com/@DongChang), [**Sakuga Foundry**](https://www.youtube.com/@SakugaFoundry) & [Iwane Masaaki’s Animating Channel](https://www.youtube.com/@animator).
 :::
 
 ### Douga
