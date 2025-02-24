@@ -142,6 +142,7 @@ outline: 1
 ### Scrapers
 - [Anime Realms](https://www.animerealms.org/) :mingcute-refresh-2-fill:
 - [AniPlay](https://aniplaynow.live/) :mingcute-refresh-2-fill::mingcute-user-2-fill:
+- [Enimoe](https://enimoe.live/) :mingcute-refresh-2-fill:<tooltip>Scrapes HiAnime (Kaido), AnimeKai (Rose), AniZone (Zone), Anify (Violet), AnimeNoSub (Stack), FireAnime (Fire), Hikari (Cope), AnimeFox (Fox).</tooltip>
 - [Gojo](https://gojo.live/) :mingcute-user-2-fill: <Badge type="info" text="2" link="https://gojo.wtf" />
 :::
 
@@ -315,7 +316,6 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 ::: details More
 - [Cubari Proxy](https://proxy.cubari.moe/#/) <Badge type="info" text="Alt" link="https://manga.guru/#/" />
 - [Manga Katana](https://mangakatana.com/)
-- [Hachi](https://hachi.moe/) 
 - [Novelmic](https://novelmic.com/) <Badge type="info" text="Manhua" />
 - [Mangahasu](https://mangahasu.se/)
 - [Mangahub](https://mangahub.io/) :acc:
