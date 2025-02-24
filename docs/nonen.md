@@ -214,6 +214,7 @@ If you have recommendations for good sites in your native language or want to re
 - [Anime Archive](https://anime-archive.com/) :ddl:
 - [Anime Loads](https://www.anime-loads.org/) :strm::ddl::host:
 - [AniWorld](https://aniworld.to/) :strm:
+- [FireAnime](https://fireani.me/) :strm:
 - [Melon-Subs](https://melon-subs.de/) :ddl:
 - [NanaOne](https://nanaone.net/) :ddl:
 - [OtakuKingdom Subs](https://www.otakukingdom-subs.de/) :ddl:
@@ -256,7 +257,7 @@ If you have recommendations for good sites in your native language or want to re
 
 - **Stream**
   - [AllWish](https://all-wish.me/home)
-  - [Anime World](https://anime-world.in/)
+  - [Anime World](https://anime-world.co/)
   - [Anisaga](https://anisaga.org/)
   - [Anplay](https://anplay.in/)
   - [Toonbaba](https://toonbaba.site/)
