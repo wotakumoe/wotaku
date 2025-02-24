@@ -26,7 +26,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 | [Animetail](https://github.com/Dark25/Animetail2)  | :ddl::mag: | :mal::al::k::simkl: |
 | [Dantotsu](https://dantotsuapp.netlify.app/) [:gh:](https://github.com/rebelonion/Dantotsu)  | :ddl::mag: | :mal::al: |
 | [Himitsu](https://repodevil.vercel.app/) [:gl:](https://gitlab.com/RepoDevil/himitsu) [:gh:](https://github.com/RepoDevil/Himitsu) | :ddl::mag: | :mal::al: |
-| [Cloudstream](https://cloudstream.on.fleek.co/) | :ddl::mag: | :mal::al::simkl: |
+| [Cloudstream](https://cloudstream.on.fleek.co/) [:e:](/guides/ext/misc#cloudstream) | :ddl::mag: | :mal::al::simkl: |
 | [Migu](https://miguapp.pages.dev/) [:gh:](https://github.com/NoCrypt/migu) | :mag: | :al: |
 
 ::: details More
@@ -41,7 +41,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 :::
 
 ::: details :material-symbols-tv-gen-outline: Android TV ranking
-- [Cloudstream](https://cloudstream.on.fleek.co/) [:gh:](https://github.com/recloudstream/cloudstream)
+- [Cloudstream](https://cloudstream.on.fleek.co/)  [:e:](/guides/ext/misc#cloudstream) [:gh:](https://github.com/recloudstream/cloudstream)
 - [Migu](https://miguapp.pages.dev/) [:gh:](https://github.com/NoCrypt/migu)
 - [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one)
   - [Stremio Tools](#anime-tools)

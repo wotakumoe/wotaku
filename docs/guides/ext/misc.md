@@ -8,6 +8,21 @@ og:
 
 <GradientCard title="Extension Repos" description="Miscellaneous Extension Repos & Guides" theme="turquoise" variant="thin"/>
 
+## Cloudstream
+
+| Name | Region | Auto | Manual |
+| - | - | - | - |
+| [Aniyomi Compat](https://github.com/CranberrySoup/AniyomiCompatExtension) | :globe-showing-asia-australia: | [Install](cloudstreamrepo://raw.githubusercontent.com/CranberrySoup/AniyomiCompatExtension/master/repo.json) | [URL](https://raw.githubusercontent.com/CranberrySoup/AniyomiCompatExtension/master/repo.json) |
+| [Avocado/Rowdy](https://github.com/Rowdy-Avocado/18plus-Extensions) | :no-one-under-eighteen: | [Install](cloudstreamrepo://raw.githubusercontent.com/Rowdy-Avocado/18plus-Extensions/refs/heads/builds/repo.json) | [URL](https://raw.githubusercontent.com/Rowdy-Avocado/18plus-Extensions/refs/heads/builds/repo.json) |
+| [Avocado/Rowdy](https://github.com/Rowdy-Avocado/Rowdycado-Extensions) | :globe-showing-asia-australia: | [Install](cloudstreamrepo://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/repo.json) | [URL](https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/repo.json) |
+| [Azya](https://git.disroot.org/ayza/FStream) | :flag-france: | [Install](cloudstreamrepo://git.disroot.org/ayza/FStream/raw/branch/main/repo.json) | [URL](https://git.disroot.org/ayza/FStream/raw/branch/main/repo.json) |
+| [CakesTwix](https://github.com/CakesTwix/cloudstream-extensions-uk) | :flag-ukraine: | [Install](cloudstreamrepo://raw.githubusercontent.com/CakesTwix/cloudstream-extensions-uk/master/repo.json) | [URL](https://raw.githubusercontent.com/CakesTwix/cloudstream-extensions-uk/master/repo.json) |
+| [CSX](https://github.com/SaurabhKaperwan/CSX) | :flag-india: | [Install](cloudstreamrepo://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CS.json) | [URL](https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CS.json) |
+| [CuxPlug](https://github.com/ycngmn/CuxPlug) | :globe-showing-asia-australia: | [Install](cloudstreamrepo://raw.githubusercontent.com/ycngmn/CuxPlug/refs/heads/main/repo.json) | [URL](https://raw.githubusercontent.com/ycngmn/CuxPlug/refs/heads/main/repo.json) |
+| [Gian-Fr](https://github.com/Gian-Fr/ItalianProvider) | :flag-italy: | [Install](cloudstreamrepo://raw.githubusercontent.com/Gian-Fr/ItalianProvider/builds/repo.json) | [URL](https://raw.githubusercontent.com/Gian-Fr/ItalianProvider/builds/repo.json) |
+| [Kekik](https://github.com/keyiflerolsun/Kekik-cloudstream) | :flag-turkiye: | [Install](cloudstreamrepo://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/master/repo.json) | [URL](https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/master/repo.json) |
+| [Tearrs](https://gitlab.com/tearrs/cloudstream-vietnamese) | :flag-vietnam: | [Install](cloudstreamrepo://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/repo.json) | [URL](https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/repo.json) |
+
 ## Dantotsu
 
 | Name | Region | Auto | Manual |
