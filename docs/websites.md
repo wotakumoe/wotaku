@@ -140,10 +140,10 @@ outline: 1
 - [Otaku-Streamers](https://beta.otaku-streamers.com/) :mingcute-server-fill::mingcute-user-2-fill: <Badge type="info" text="Old" link="https://otaku-streamers.com/" /><tooltip> Although new releases are in 1080p, older releases are a mixed bag, ranging from 480p to 720p.</tooltip>
 
 ### Scrapers
-- [Anime Realms](https://www.animerealms.org/) :mingcute-refresh-2-fill:
-- [AniPlay](https://aniplaynow.live/) :mingcute-refresh-2-fill::mingcute-user-2-fill:
+- [Anime Realms](https://www.animerealms.org/) :mingcute-refresh-2-fill:<tooltip>Scrapes HiAnime (Soft), AnimePahe (Pahe), AnimeHeaven (Heaven - 720p)</tooltip>
+- [AniPlay](https://aniplaynow.live/) :mingcute-refresh-2-fill::mingcute-user-2-fill:<tooltip>Scrapes HiAnime (Yuki), AnimePahe (Pahe)</tooltip>
 - [Enimoe](https://enimoe.live/) :mingcute-refresh-2-fill:<tooltip>Scrapes HiAnime (Kaido), AnimeKai (Rose), AniZone (Zone), Anify (Violet), AnimeNoSub (Stack), FireAnime (Fire), Hikari (Cope), AnimeFox (Fox).</tooltip>
-- [Gojo](https://gojo.live/) :mingcute-user-2-fill: <Badge type="info" text="2" link="https://gojo.wtf" />
+- [Gojo](https://gojo.live/) :mingcute-user-2-fill: <Badge type="info" text="2" link="https://gojo.wtf" /> <tooltip>Scrapes HiAnime (Roro), AnimePahe (Pahe), AnimeZ (Zaza)</tooltip>
 :::
 
 ::: details Donghua
