@@ -272,8 +272,8 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 ## Others
 
 ### Resource Lists
-[Kuri's Japanese Resources](https://github.com/donkuri/japanese-resources) :s:
-[TMW's Resources](https://learnjapanese.moe/resources/)
+- [Kuri's Japanese Resources](https://github.com/donkuri/japanese-resources)
+- [TMW's Resources](https://learnjapanese.moe/resources/)
 
 ### Communities
 | Category      | Links                                                                                                                                                          |
