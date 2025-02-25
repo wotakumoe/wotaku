@@ -19,6 +19,7 @@ og:
 :::
 
 ## Anime
+- [Anime Defenders](https://animedefenders.me/) <Badge type="info" text="720p" />
 - [AnimeID Hentai](https://animeidhentai.com/)
 - [Hanime](https://hanime.tv/) <Badge type="info" text="720p" />
 - [Hentai.tv](https://hentai.tv/)

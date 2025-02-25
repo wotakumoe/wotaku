@@ -135,6 +135,7 @@ outline: 1
   </tooltip>
 
 ### Low Res
+- [Anime Defenders](https://animedefenders.me/) :mingcute-user-2-fill: <Badge type="danger" text="18+" />
 - [AnimeOnsen](https://www.animeonsen.xyz/) :mingcute-server-fill::mingcute-user-2-fill:
 - [AnimeZ](https://animez.org/) :mingcute-server-fill::mingcute-user-2-fill:<tooltip>Good library size, most are scraped from Aniwave.</tooltip>
 - [Otaku-Streamers](https://beta.otaku-streamers.com/) :mingcute-server-fill::mingcute-user-2-fill: <Badge type="info" text="Old" link="https://otaku-streamers.com/" /><tooltip> Although new releases are in 1080p, older releases are a mixed bag, ranging from 480p to 720p.</tooltip>
