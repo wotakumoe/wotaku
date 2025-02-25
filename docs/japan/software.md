@@ -24,7 +24,8 @@ og:
 ___
 #### Guide
 - [Anki Manual](https://docs.ankiweb.net/)
-- [Tatsumoto](https://tatsumoto.neocities.org/blog/setting-up-anki) :s:
+- [Kuri's Setup Guide](https://donkuri.github.io/learn-japanese/setup/#anki-setup) :s:
+- [Tatsumoto](https://tatsumoto.neocities.org/blog/setting-up-anki)
 - [jp-mining-note](https://arbyste.github.io/jp-mining-note/) <Badge type="tip" text="original" link="https://aquafina-water-bottle.github.io/jp-mining-note/"/>
 - [Xelieu's Modified Anime Card](https://xelieu.github.io/jp-lazy-guide/)
 - [vladsperspective](https://vladsperspective.wordpress.com/2020/07/15/using-anime-decks-subs2srs-mediafire-premade-decks/)
@@ -67,9 +68,9 @@ ___
 - [Kanji de Go](https://github.com/MarvNC/kanjidego-yomitan-anki)
 ___
 #### Vocab
+- [Kaishi](https://github.com/donkuri/Kaishi) :s: <Badge type="info" text="Beginner" />
 - [Anime decks (Official AnkiWeb)](https://ankiweb.net/shared/decks?search=anime)
 - [Anime decks (Sub2Srs)](https://links.gamesdrive.net/#/link/aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9mb2xkZXIvcDE3ZzV1azRwaGI0MS9Vc2VyX1VwbG9hZGVkX0Fua2lfRGVja3M)
-- [Kaishi](https://github.com/donkuri/Kaishi) <Badge type="info" text="Beginner" />
 - [Core 2k/6k Optimized Japanese Vocabulary Anki](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) 
 - [DoJG Deck](https://dojgdeck.neocities.org/) 
 - [Japanese course based on Tae Kim's grammar guide & anime](https://ankiweb.net/shared/info/911122782) 
@@ -166,13 +167,11 @@ ___
 
 
 ### Browser
-
-- [Yomitan](https://yomitan.wiki/) :ff::cr: [:gh:](https://github.com/themoeway/yomitan) <Badge type="tip" text="Guide" link="https://learnjapanese.moe/yomichan/" /><tooltip>Pop-up dictionary</tooltip>
+- [Yomitan](https://yomitan.wiki/) :s: :ff::cr: [:gh:](https://github.com/yomidevs/yomitan) <Badge type="tip" text="Guide" link="https://learnjapanese.moe/yomichan/" /><tooltip>Pop-up dictionary. Can be used on mobile, with browsers that support extensions.</tooltip>
     - [Yomitan Dictionaries](https://github.com/MarvNC/yomichan-dictionaries/)
     - [Yomitan Grammar Dictionaries](https://github.com/aiko-tanaka/Grammar-Dictionaries)
     - [Local Audio Server for Yomichan](https://github.com/themoeway/local-audio-yomichan)
     - [VNDB Names for Yomitan](https://github.com/kaanium/VNDB-Names-for-Yomitan)
-- [Rikitan](https://github.com/Ajatt-Tools/rikaitan) :ff::cr:<Badge type="tip" text="Guide" link="https://tatsumoto.neocities.org/blog/setting-up-yomichan"/> <Badge type="tip" text="Dictionaries" link="https://tatsumoto.neocities.org/blog/yomichan-and-epwing-dictionaries" /><tooltip>Pop-up dictionary</tooltip>
 - [10ten Japanese Reader](https://github.com/birchill/10ten-ja-reader) :ff::cr::mingcute-safari-fill:<tooltip>Pop-up dictionary</tooltip>
 - [ASB Auto Subs](https://github.com/GodPepe7/asb-auto-subs) :ff::cr:<tooltip>Jimaku subs in anime sites</tooltip>
 - [Japanese.io](https://www.japanese.io/) :cr:<tooltip>Pop-up dictionary</tooltip>

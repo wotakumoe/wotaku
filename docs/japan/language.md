@@ -18,10 +18,10 @@ If you're knowledgeable in Japanese, consider contributing to the wiki. We could
 
 ## Starter Guide
 - [TheMoeWay Guide](https://learnjapanese.moe/) :s:
-- [Tatsumoto's Guide](https://tatsumoto.neocities.org/)
-- [Kuri's Immersion-Based Japanese Learning](https://donkuri.github.io/learn-japanese/)
+- [Kuri's Immersion-Based Japanese Learning](https://donkuri.github.io/learn-japanese/) :s:
 - [Acquiring Japanese Efficiently](https://docs.google.com/document/d/1LH82FjsCqCgp6-TFqUcS_EB15V7sx7O1VCjREp6Lexw/edit)
 - [DJT GUIDE](https://djtguide.neocities.org/guide)
+- [Tatsumoto's Guide](https://tatsumoto.neocities.org/)
 
 :::details More
 
@@ -87,7 +87,6 @@ If you're knowledgeable in Japanese, consider contributing to the wiki. We could
   - [Original version](https://www.joyokanji.com/ulrikes-mnemonics)
   - [Carlos version](https://japanesestudies.github.io/ulrikes-mnemonics/)
 - [Marshall's Site](https://marshallyin.com/) :fm:<tooltip>Marshall's site contain almost everything. So to avoid dupe, it will be linked once.</tooltip>
-- [THE KANJI VISUAL LANGUAGE PROJECT](https://kvlp.org/)
 - [Proverb encyclopedia](https://proverb-encyclopedia.com/)
 
 ### Dictionary
@@ -271,6 +270,10 @@ Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/l
 
 
 ## Others
+
+### Resource Lists
+[Kuri's Japanese Resources](https://github.com/donkuri/japanese-resources) :s:
+[TMW's Resources](https://learnjapanese.moe/resources/)
 
 ### Communities
 | Category      | Links                                                                                                                                                          |
