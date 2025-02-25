@@ -463,6 +463,35 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [SlimeRead](https://slimeread.com/)
 - [Tao Sect](https://taosect.com/)
 
+::: details Scalators
+#### Website
+- [Argos Comic](https://argoscomic.com) :fjp::fkr::fcn:<Badge type="danger" text="18+" />  
+- [Crystal Comics](https://crystalcomics.com/) :fkr::fcn:  
+- [Kakusei Project](https://kakuseiproject.com/) :fjp:<Badge type="danger" text="18+" />  
+- [Portal Yaoi](https://portalyaoi.com/) :fjp::fkr::fcn:<Badge type="danger" text="18+" />  
+- [Valkyrie Scan](https://valkyriescan.com/) :fjp::fkr::fcn:<Badge type="danger" text="18+" />  
+- [Yugen Mangas BR](https://yugenmangasbr.safel.net/) :fjp::fkr::fcn:<Badge type="danger" text="18+" />  
+- [Yuri.Live](https://yuri.live/) :fjp::fkr::fcn:<Badge type="danger" text="18+" />  
+
+___
+
+#### Mangadex
+- [Cerise Scan](https://mangadex.org/group/ede42574-8939-4311-b86f-cf75f25283f3/cerise-scan) :fkr:<Badge type="danger" text="18+" />  
+- [Dango Scan](https://mangadex.org/group/7ea0c022-deb0-4a3c-94cf-0610f48007aa/dango-scan) :fjp::fkr::fcn:  
+- [Diskus Scan](https://mangadex.org/group/dd3d3092-abee-4f7d-83c8-f9903b82ee06/diskus-scan) :fjp::fkr::fcn:  
+- [Eleven Scanlator](https://mangadex.org/group/ddd2776a-c49e-41ec-8f01-7fc5a98d21cf/eleven-scanlator) :fjp::fkr::fcn:<Badge type="danger" text="18+" />  
+- [Fay Scans](https://mangadex.org/group/ee6d695c-1a74-4753-a10e-a37ad7a63160/fay-scans) :fjp::fkr:  
+- [Fuckill](https://mangadex.org/group/222493b7-6e60-4b7d-8ed0-ffcbec04c0da/fuckill) :fjp:<Badge type="danger" text="18+" />  
+- [Kami Sama Explorer](https://mangadex.org/group/450af2bd-9ccc-4fa4-b865-f86337d23322/kami-sama-explorer) :fjp:<Badge type="danger" text="18+" />  
+- [MiniTwo Scan](https://mangadex.org/group/5889f18b-1801-44f9-8c83-19be84ac03db) :fjp::fkr::fcn:<Badge type="danger" text="18+" />  
+- [Saikai Scan](https://mangadex.org/group/c1a3aadb-8b80-4456-93b7-68ba90f819ce/saikai-scan) :fjp::fkr::fcn:<Badge type="danger" text="18+" />  
+- [Shin Sekai Scans](https://mangadex.org/group/cb2c8352-1b79-45d7-a6d5-6fac95dad901/shin-sekai-scans) :fjp:<Badge type="danger" text="18+" />  
+- [Sinensis Scan](https://mangadex.org/group/c42e2110-6d8c-41da-bf15-468daec41e7d/sinensis-scan) :fkr::fcn:<Badge type="danger" text="18+" />  
+- [Sirius Scanlator](https://mangadex.org/group/36a6b11a-d29f-4f21-b73a-ca9f688b36df/sirius-scanlator) :fjp:<Badge type="danger" text="18+" />  
+- [Tsundoku Traduções](https://mangadex.org/group/49c08636-a37e-4d4b-a8fa-3f03b1fd58f3/tsundoku-traducoes) :fjp::fkr::fcn:<Badge type="danger" text="18+" />  
+- [Wicked Witch Scan](https://mangadex.org/group/b1252064-f603-4956-a632-774a45f2bc1a/wicked-witch-scan) :fkr::fcn:<Badge type="danger" text="18+" />  
+:::
+
 ### Tokusatsu
 - [DGB Catálogo](https://dgbcatalogo.carrd.co/)
 - [NewZect](https://newzect.com/)
