@@ -403,9 +403,10 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 ### Comics
 - [BlackToon](https://www.blacktoon.fun/) <Badge type="danger" text="18+" />
-- [Funbe](https://funbe501.com/%EC%9B%B9%ED%88%B0) <Badge type="danger" text="18+" />
+- [Funbe](https://funbe512.com/%EC%9B%B9%ED%88%B0) <Badge type="danger" text="18+" />
 - [Manatoki](https://www.xn--h10b2b940bwzy.store/) <Badge type="danger" text="18+" />
 - [Wolf](https://nicelink22.com/) <Badge type="danger" text="18+" />
+- [XToon](https://t1.xtoon2.com/) <Badge type="danger" text="18+" />
 
 ### Others
 - [Booktoki](https://www.xn--h10bx0wsvp.org/)
