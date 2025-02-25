@@ -620,7 +620,7 @@ ___
 - [Otakulogy List](https://github.com/otakulogy/anime-streaming)
 - [YATTA-TACHI List](https://yattatachi.com/legal-anime-streaming-sites)
 
-### Youtube
+### YouTube
 - [Anime Bancho](https://www.youtube.com/@AnimeBancho/)
 - [Ani-One Asia](https://www.youtube.com/@AniOneAsia/) <Badge type="info" text="Regional" />
 - [Muse Asia](https://www.youtube.com/@MuseAsia/) <Badge type="info" text="Regional" />

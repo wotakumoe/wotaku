@@ -130,7 +130,7 @@ If you're knowledgeable in Japanese, consider contributing to the wiki. We could
 - [Resources for pitch accent](https://xythh.github.io/resources)
 - [Maggie Sensei's Conversation Guide](https://maggiesensei.com/)
 ___
-#### Youtube
+#### YouTube
 - [Japanese pitch-accent & pronunciation playlist](https://www.youtube.com/playlist?list=PLxMXdmBM9wPvsySiMoBzgh8d68xqKz1YP) <tooltip>by Dogen</tooltip>
 - [Strategies for Acquiring Pitch Accent in Japanese](https://www.youtube.com/watch?v=I-dRbTnLmBY) <tooltip>by Darius Jahandarie</tooltip>
 - [Japanese Pitch Accent and Intonation](https://www.youtube.com/playlist?list=PLFGs3d9Sobfgr4clmLcHUM_X4JBCyIP2n) <tooltip>by Speak Japanese Naturally</tooltip>
@@ -148,12 +148,12 @@ ___
 ### Resources
 
 #### Pronunciation
-- [CaptionPop](https://www.captionpop.com/japanese?nl=en) <tooltip>Youtube</tooltip>
-- [Filmot](https://filmot.com/) <tooltip>Youtube</tooltip>
+- [CaptionPop](https://www.captionpop.com/japanese?nl=en) <tooltip>YouTube</tooltip>
+- [Filmot](https://filmot.com/) <tooltip>YouTube</tooltip>
 - [Forvo](https://forvo.com/languages/ja/) <tooltip>Native Speaker</tooltip>
 - [Immersion Kit](https://www.immersionkit.com/) :s: <tooltip>Japanese Media</tooltip>
 - [Sentence Search](https://sentencesearch.neocities.org/) <tooltip>Book / Deck / Web</tooltip>
-- [YouGlish](https://youglish.com/japanese) :s: <tooltip>Youtube</tooltip>
+- [YouGlish](https://youglish.com/japanese) :s: <tooltip>YouTube</tooltip>
 ___
 #### Misc
 - [BOOK WALKER Cross Search](https://bsearch.bookwalker.jp/search) <tooltip>Search through BW books</tooltip>
@@ -191,7 +191,7 @@ ___
 - [JLPT Grammar List](https://jlptgrammarlist.neocities.org/)
 - [Ultra Handy Japanese Verb Conjugator](https://www.japaneseverbconjugator.com/)
 
-### Youtube
+### YouTube
 
 #### Channels
 - [JapanesePod101](https://www.youtube.com/@JapanesePod101)

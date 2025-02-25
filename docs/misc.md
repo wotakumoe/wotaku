@@ -255,7 +255,7 @@ ___
     - [yt-dlp interface](https://github.com/ErrorFlynn/ytdlp-interface)
 - [ytarchive](https://github.com/Kethsar/ytarchive)
     - [hoshinova](https://github.com/HoloArchivists/hoshinova)
-- [Youtube Community Tab](https://github.com/HoloArchivists/youtube-community-tab)
+- [YouTube Community Tab](https://github.com/HoloArchivists/youtube-community-tab)
 - [Chat Downloader](https://github.com/xenova/chat-downloader)
 - [Streamlink](https://streamlink.github.io/index.html) [:gh:](https://github.com/streamlink/streamlink)
     - [Streamlink Twitch GUI](https://streamlink.github.io/streamlink-twitch-gui/) [:gh:](https://github.com/streamlink/streamlink-twitch-gui)

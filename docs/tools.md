@@ -345,7 +345,7 @@ og:
   - [Discogs Scout](https://greasyfork.org/en/scripts/439452-discogs-scout) [:gh:](https://github.com/Purfview/Discogs-Scout)
   - [MusicBrainz Userscripts](https://musicbrainz.org/doc/Guides/Userscripts)
   - [Slav Art User Scripts](https://rentry.org/slavartuserscripts)
-- **Youtube**
+- **YouTube**
   - [Fix Brave Bug for YouTube Live Chat](https://greasyfork.org/en/scripts/474214-fix-brave-bug-for-youtube-live-chat)
   - [PKGA YouTube Theater Mode](https://greasyfork.org/en/scripts/442089-pkga-youtube-theater-mode)
   - [Simple YouTube Age Restriction Bypass](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass)

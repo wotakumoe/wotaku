@@ -81,7 +81,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
   - [Karaoke Mugen](https://kara.moe)
   - [Anisong Database](https://anisongdb.com/) [:gh:](https://github.com/xSardine/AMQ-Artists-DB) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" />
 - **General**
-  - [Youtube Music](https://music.youtube.com/)
+  - [YouTube Music](https://music.youtube.com/)
   - [Apple Music](https://music.apple.com/)
   - [Spotify](https://spotify.com/)
 

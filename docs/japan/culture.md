@@ -25,7 +25,7 @@ og:
 - [A Short History of Japan: From Samurai to Sony](https://www.amazon.com/Short-History-Japan-Samurai-Sony/dp/1865085162)
 - [Pure Invention: How Japan Made the Modern World](https://www.amazon.com/gp/product/1984826719)
 
-### Youtube
+### YouTube
 - [Japan's History and Geography](https://www.youtube.com/playlist?list=PLZZ0o0vuqmrOKvwEDnlb_ogILpBlo3RoW) :s:
 - [The Shogunate](https://www.youtube.com/@TheShogunate/)
 
@@ -49,7 +49,7 @@ og:
 - [Yokai Attack!: The Japanese Monster Survival Guide](https://www.amazon.com/Yokai-Attack-Japanese-Monster-Survival/dp/480531219X)
 - [Yurei Attack!: The Japanese Ghost Survival Guide](https://www.amazon.com/Yurei-Attack-Japanese-Survival-ATTACK/dp/4805312149)
 
-### Youtube
+### YouTube
 - [Japanese Folklore](https://www.youtube.com/playlist?list=PLgZdqfi4SZ0q-BLpzfuzWrXgxkyNcqagc) <tooltip>By Mythology & Fiction Explained</tooltip>
 - [Japanese Mythology](https://www.youtube.com/playlist?list=PLY7BFnOZ_ONQF02Aj2gfFKyC-RmsdgQHL) <tooltip>By See U in History / Mythology</tooltip>
 - [Yokai: Monsters of Japan](https://www.youtube.com/playlist?list=PLiHkvPlOtVBCPoN70Edn_Sosl5PeeAiFW) <tooltip>By GenoSamuel3</tooltip>
@@ -96,11 +96,11 @@ og:
 ## Cooking
 
 ### Blog
-- [Just One Cookbook](https://www.justonecookbook.com/) <Badge type="info" text="Youtube" link="https://www.youtube.com/@justonecookbook" />
-- [Sirogohan](https://www.sirogohan.com/) <Badge type="info" text="Youtube" link="https://www.youtube.com/@sirogohancom/" />
-- [Cooking with Dog](https://cookingwithdog.com/) <Badge type="info" text="Youtube" link="https://www.youtube.com/@cookingwithdog" />
-- [Japanese Cooking 101](https://www.japanesecooking101.com/) <Badge type="info" text="Youtube" link="https://www.youtube.com/@JapaneseCooking101/" />
-- [RecipeTin Japan](https://japan.recipetineats.com/) <Badge type="info" text="Youtube" link="https://www.youtube.com/@JapaneseCooking101" />
+- [Just One Cookbook](https://www.justonecookbook.com/) <Badge type="info" text="YouTube" link="https://www.youtube.com/@justonecookbook" />
+- [Sirogohan](https://www.sirogohan.com/) <Badge type="info" text="YouTube" link="https://www.youtube.com/@sirogohancom/" />
+- [Cooking with Dog](https://cookingwithdog.com/) <Badge type="info" text="YouTube" link="https://www.youtube.com/@cookingwithdog" />
+- [Japanese Cooking 101](https://www.japanesecooking101.com/) <Badge type="info" text="YouTube" link="https://www.youtube.com/@JapaneseCooking101/" />
+- [RecipeTin Japan](https://japan.recipetineats.com/) <Badge type="info" text="YouTube" link="https://www.youtube.com/@JapaneseCooking101" />
 - [Kurashiru](https://www.kurashiru.com/)
 - [Chopstick Chronicles](https://www.chopstickchronicles.com/)
 - [Okonomiyaki World](https://okonomiyakiworld.com/index.html)
@@ -108,7 +108,7 @@ og:
 - [Japan food addict](https://www.japanfoodaddict.com/)
 - [Just Hungry](https://www.justhungry.com/recipes)
 
-### Youtube
+### YouTube
 - [Champ's Japanese Kitchen](https://www.youtube.com/@ChampsJapaneseKitchen)
 - [CHEF'S LABO](https://www.youtube.com/@CHEFSLABO)
 - [Nigiricco](https://www.youtube.com/@nigiricco)

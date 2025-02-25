@@ -136,7 +136,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 - [Japanese Condensed Audio](https://mega.nz/folder/8HhhWDyJ#SHw5xsYxyhWUX536UcqkeQ) <Badge type="tip" text="2" link="https://mega.nz/folder/N4d3STJC#w3wPPgk9UgD6qE_UvjtB8Q" />
 
 
-## Youtube
+## YouTube
 - [Seeder Playlist](https://zenith-raincoat-5cf.notion.site/Japanese-Seeder-Playlist-15fc740a87d843a2a2a5f36a913af551)
 - [Volt's Japanese subtitles playlist](https://www.youtube.com/playlist?list=PLiPR3922q7iAsSm2EsQVMou0kCVavNR2c)
 - [AJATT: Narrated (All Japanese All The Time Blog - Fan Narrated)](https://www.youtube.com/playlist?list=PLmPxwS02_wYP0Y7kprP9ZzLhlZjRSAHWv)
