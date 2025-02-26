@@ -15,8 +15,8 @@ outline: 1
 
 ::: details Symbols
 
-- Self-hosted<tooltip>Self-hosted means they upload their own or someone else's rips unchanged or re-encoded. It can be in their own storage or a video host service.</tooltip> -> :mingcute-server-fill:
-- Scraper<tooltip>Scraper means they don't have their own uploads, but scrape from self-hosted sites. If a host site goes down, changes site structure or API, the scraper site will become useless.</tooltip> -> :mingcute-shovel-fill:
+- Self-uploaded<tooltip>Meaning they upload their own or someone else's rips unchanged or re-encoded. It can be in their own storage or a video host service.</tooltip> -> :mingcute-server-fill:
+- Scraper<tooltip>Meaning they don't have their own uploads, but scrape from self-hosted sites. If a host site goes down, changes site structure or API, the scraper site will become useless.</tooltip> -> :mingcute-shovel-fill:
 - Tracker ([AL](https://anilist.co/home)/[MAL](https://myanimelist.net/)) sync -> :mingcute-refresh-2-fill:
 - In-site Account -> :mingcute-user-2-fill:
 
