@@ -463,7 +463,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [SlimeRead](https://slimeread.com/)
 - [Tao Sect](https://taosect.com/)
 
-::: details Scalators
+::: details Scanlators
 #### Website
 - [Argos Comic](https://argoscomic.com) :fjp::fkr::fcn:<Badge type="danger" text="18+" />  
 - [Crystal Comics](https://crystalcomics.com/) :fkr::fcn:  
