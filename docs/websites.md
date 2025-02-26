@@ -283,7 +283,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
       <li>May remove content if there is a DMCA request by the publisher or doesn't allow upload at all (e.g. One Punch-Man)</li>
     </ul>
   </tooltip>
-- [Weeb Central](https://weebcentral.com/) <Badge type="tip" text="Alt" link="https://atsu.moe/" />  
+- [Weeb Central](https://weebcentral.com/)
   <tooltip>
     <ul>
       <li>Has official translations</li>

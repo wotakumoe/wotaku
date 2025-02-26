@@ -48,7 +48,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 - **Online**
   - [ComicK](https://comick.io/home2)
   - [MangaDex](https://mangadex.org/)
-  - [Weeb Central](https://weebcentral.com/) <Badge type="tip" text="Alt" link="https://atsu.moe/" />
+  - [Weeb Central](https://weebcentral.com/)
 - **Download**
   - [Nyaa](https://nyaa.si/) :s::mag: <Badge type="info" text="Proxies" link="https://rentry.org/nyaap" />
   - [Madokami](https://manga.madokami.al) :s: <Badge type="info" text="Guide" link="/guides/manga/madokami" />
