@@ -35,29 +35,36 @@ og:
 
 ## Sideloading Methods
 
-::: tip Auto Install
-Click on **Install** button in the Auto column and select your app in the pop-up.
-:::
+### Auto Install
+- Click on **Install** button in the Auto column
+- Select your app in the **Open with** pop-up.
+- In Mangayomi, it will ask for confirmation. Click **Add**. Not needed in other apps.
+- Depending on the app, you should see different confirmation message.
 
-### Mangayomi
+![](/ss/open.png)
 
-#### Manual
+### Manual Install
+
+#### Mangayomi
+
 - Copy the **Manual URL**
 - Go to Mangayomi app
 - Click :mdi-dots-horizontal:**More** -> :mdi-compass: **Browse** -> **Manga / Anime / Novel extensions repo** -> :mdi-plus: **Add**
 - Paste the URL and click **Add**
 
-### AnymeX
+<hr>
 
-#### Manual
+#### AnymeX
+
 - Copy the **Manual URL**
 - Go to AnymeX app
 - Click Profile picture /:material-symbols-person-rounded: -> :mdi-puzzle: **Extensions** -> Click :gh: 
 - Paste the URL based on repo type and click **Confirm**
 
-### Dartotsu
+<hr>
 
-#### Manual
+#### Dartotsu
+
 - Copy the **Manual URL**
 - Go to Dartotsu app
 - Click :material-symbols-settings: -> :mdi-puzzle: **Extensions** -> **Available Anime / Manga / Novel** -> Click :gh: 
