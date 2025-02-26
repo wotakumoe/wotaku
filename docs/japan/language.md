@@ -265,7 +265,7 @@ ___
 
 
 ::: tip **Downloading books**
-Check out the [**Japanese Mega Learning Pack**](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTM3MjM2Nw.RHVjaw). You can visit these sites to download books. [**Learn Japanese Online**](https://tailieuhoctiengnhat.com/), [**Nyaa**](https://nyaa.si/?c=3_3), [**Anna’s Archive**](https://annas-archive.org), [**Z-Library**](https://z-lib.gs/). [**OceanofPDF**](https://oceanofpdf.com/category/languages/japanese-language-books/) & [**PDF Drive**](https://www.pdfdrive.com/).
+Check out the [**Japanese Mega Learning Pack**](https://rentry.org/wotadirect). You can visit these sites to download books. [**Learn Japanese Online**](https://tailieuhoctiengnhat.com/), [**Nyaa**](https://nyaa.si/?c=3_3), [**Anna’s Archive**](https://annas-archive.org), [**Z-Library**](https://z-lib.gs/). [**OceanofPDF**](https://oceanofpdf.com/category/languages/japanese-language-books/) & [**PDF Drive**](https://www.pdfdrive.com/).
 :::
 
 

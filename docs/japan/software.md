@@ -62,19 +62,19 @@ ___
 - [KanjiDamage](https://ankiweb.net/shared/info/748570187) 
 - [Kanken Deck](https://ankiweb.net/shared/info/759825185) <Badge type="info" text="Advanced" /> <Badge type="tip" text="2" link="https://ankiweb.net/shared/info/1113953752" />
 - [Kodansha kanji learner's course with vocabulary](https://ankiweb.net/shared/info/779483253) 
-- [RRTK450 Anki deck](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9tZWdhLm56L2ZpbGUvMlNKaVdDNGIjaEw5OHF0Q19oaUxsUURnMExxVkpvcUQyLTV5d1QyTndkNGtqUk9ZX0t3UQ.ZHVjaw) <Badge type="info" text="Beginner" />
+- [RRTK450 Anki deck](https://rentry.org/wotadirect) <Badge type="info" text="Beginner" />
 - [Usagi Chan Kanji Phonetics Deck](https://drive.google.com/file/d/1xyynMQiOuqlC_cBBTwG9t3snRubHqU7e/view)
-- [Wanikani Ultimate 3](https://links.gamesdrive.net/#/link/aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2k5dnVzcmR6cjIwdjQzei9XYW5pa2FuaV9VbHRpbWF0ZV8zX19Ub2t5b19EcmlmdF8tXF8yMDIzLTA2LTI0LmFwa2cvZmlsZQ.ZHVjaw) <Badge type="tip" text="Support" link="https://discord.gg/cSEXEB5DgF" />
+- [Wanikani Ultimate 3](https://rentry.org/wotadirect) <Badge type="tip" text="Support" link="https://discord.gg/cSEXEB5DgF" />
 - [Kanji de Go](https://github.com/MarvNC/kanjidego-yomitan-anki)
 ___
 #### Vocab
 - [Kaishi](https://github.com/donkuri/Kaishi) :s: <Badge type="info" text="Beginner" />
 - [Anime decks (Official AnkiWeb)](https://ankiweb.net/shared/decks?search=anime)
-- [Anime decks (Sub2Srs)](https://links.gamesdrive.net/#/link/aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9mb2xkZXIvcDE3ZzV1azRwaGI0MS9Vc2VyX1VwbG9hZGVkX0Fua2lfRGVja3M)
+- [Anime decks (Sub2Srs)](https://rentry.org/wotadirect)
 - [Core 2k/6k Optimized Japanese Vocabulary Anki](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) 
 - [DoJG Deck](https://dojgdeck.neocities.org/) 
 - [Japanese course based on Tae Kim's grammar guide & anime](https://ankiweb.net/shared/info/911122782) 
-- [Tango N5 omega deck](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9tZWdhLm56L2ZpbGUvdUh4V2pUYUMjWDJoQkFZZ19jTHR0UW1VdkpRV21sazhRYm5RdElJb1hIN3hVNUR1REZlVQ.ZHVjaw) <Badge type="info" text="Beginner" />
+- [Tango N5 omega deck](https://rentry.org/wotadirect) <Badge type="info" text="Beginner" />
 
 ## Phone
 
@@ -162,7 +162,7 @@ ___
   - [ZXY101's fork](https://github.com/ZXY101/mokuro-reader)
   - [KojoZero's fork](https://github.com/KojoZero/mokuro-reader)
   - [Mokuro Catalog](https://catalog.mokuro.moe/)
-  - [2500 Volume Mokuro OCR Manga PDF Collection](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTY0MTI2NQ.RHVjaw)
+  - [Mokuro.moe Full Manga Catalog [2024-10-09]](https://rentry.org/wotadirect)
 - [ttsu Ebook Reader](https://reader.ttsu.app/) :web: [:gh:](https://github.com/ttu-ttu/ebook-reader) 
 
 

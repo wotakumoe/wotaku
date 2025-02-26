@@ -380,7 +380,7 @@ ___
 - [Danke](https://desuarchive.org/_/search/text/(digital)%20(danke-empire)/)
 - [LuCaZ](https://nyaa.si/user/LuCaZ)<tooltip>Available in description</tooltip>
 - [Stick](https://nyaa.si/user/dumbboy58)<tooltip>Available in description</tooltip>
-- [XRA](https://desuarchive.org/_/search/text/(digital)%20(xra-empire)/) <Badge type="tip" text="Old Releases" link="https://links.gamesdrive.net/#/link/aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci94VGgyZ1M2YSNLWHR6WlpUc3YyZHVMVVdFZXpQZ1p3.RHVjaw" />
+- [XRA](https://desuarchive.org/_/search/text/(digital)%20(xra-empire)/) <Badge type="tip" text="Old Releases" link="https://rentry.org/wotadirect" />
 
 
 ## Scanlators

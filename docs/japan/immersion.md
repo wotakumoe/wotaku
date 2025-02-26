@@ -79,7 +79,7 @@ og:
   - [TheMoeWay](https://learnjapanese.moe/kitsubackup.html#/ja)
   - [Ajatt-Tools](https://github.com/Ajatt-Tools/kitsunekko-mirror)
 - [itazuraneko](https://djtguide.github.io/library/sub)
-- [Xavier's Retimed JP Sub Pack](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTA0NDM1NA.ZHVjaw)
+- [Xavier's Retimed JP Sub Pack](https://rentry.org/wotadirect)
 - [Nekomoe Kissaten's Subtitles](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage)
 - [moex3's JP Anime Subs](https://github.com/moex3/random_jp_anime_subs)
 - [JP Subtitles](https://github.com/Matchoo95/JP-Subtitles)
@@ -110,7 +110,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 ## Novel
 - [All EPUBs](https://boroboro.neocities.org/listfullepub)
 - [Aozora Bunko](https://www.aozora.gr.jp/)
-- [Japanese Learner’s Anthology](https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTM1MDUyMw.ZHVjaw)  <Badge type="tip" text="v2" link="https://links.gamesdrive.net/#/link/aHR0cHM6Ly9ueWFhLnNpL3ZpZXcvMTU0ODk0Mw.ZHVjaw" />
+- [Japanese Learner’s Anthology](https://rentry.org/wotadirect) 
 - [Kakuyomu](https://kakuyomu.jp/) `WN`
 - [Nyaa](https://nyaa.si/?f=0&c=3_3&q=) :s:
 - [Syosetu](https://syosetu.com/) `WN`
