@@ -110,7 +110,7 @@ outline: 1
 
 :::details More
 
-### Self-hosted
+### Self-uploaded
 
 - [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) :mingcute-server-fill::mingcute-shovel-fill::mingcute-user-2-fill:
   <tooltip>
