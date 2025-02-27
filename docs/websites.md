@@ -74,7 +74,7 @@ outline: 1
       <li>Re-encodes shows for smaller size.</li>
     </ul>
   </tooltip>
-- [Hikari](https://hikari.gg/) <Badge type="tip" text="2" link="https://watch.hikaritv.xyz/" /> :mingcute-server-fill::mingcute-user-2-fill:
+- [Hikari](https://watch.hikaritv.xyz/) :mingcute-server-fill::mingcute-user-2-fill:
   <tooltip>
     <ul>
       <li>Good for new airing.</li>
