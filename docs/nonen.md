@@ -527,6 +527,7 @@ ___
 - [Dark Libria](https://darklibria.it/) :strm::mag:
 - [Dream Cast](https://dreamerscast.com/)
 - [Freedub Studio](https://freedubstudio.club/)
+- [Gidanime](https://gidanime.tv/)
 - [Jut.su](https://jut.su/) <Badge type="info" text="Helper" link="https://github.com/Xeltone/Jut.su-Helper" />
 - [Kage Project](http://fansubs.ru/)<tooltip>Subtitle files only, you need to get the episodes from another source.</tooltip>
 - [MAL to Kodik](https://mal-to-kodik.github.io/) <Badge type="info" text="Aggregator" />
@@ -700,4 +701,5 @@ ___
 
 | Category | Resources |
 |-|-|
+| General | [Hoyomi](https://github.com/tachibana-shin/hoyomi) |
 | Anime | [Anime VSub](https://github.com/anime-vsub/app) |
