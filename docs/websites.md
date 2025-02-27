@@ -56,7 +56,7 @@ outline: 1
       <li>Has good amount of missing old titles, but you can request them in their support server.</li>
     </ul>
   </tooltip>
-- [AnimeKai](https://animekai.to/home) :mingcute-server-fill::mingcute-refresh-2-fill::mingcute-user-2-fill:
+- [AnimeKai](https://animekai.to/home) :mingcute-server-fill::mingcute-refresh-2-fill::mingcute-user-2-fill: <Badge type="tip" text="2" link="https://animekai.bz/home" />
   <tooltip>
     <ul>
       <li>Huge library.</li>
@@ -215,7 +215,7 @@ outline: 1
 ___
 #### Re-encodes
 - [Kayoanime](https://kayoanime.com/) :sgd::batch:
-- [Mkvseries](https://mkvseries.com/) <Badge text="2" link="https://mkvcinema.in/" /> :sgd::batch:
+- [Mkvseries](https://mkvseries.com/) :sgd::batch:
 - [AnimeOut](https://www.animeout.xyz/) <Badge text="2" link="https://animewat.ch/" /> :ddl::acc:
 - [Chauthanh](https://chauthanh.info/) :ddl::acc:
 - [hi10anime](https://hi10anime.com/) :ddl::mag::acc::batch:
