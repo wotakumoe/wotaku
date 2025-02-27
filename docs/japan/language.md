@@ -67,6 +67,7 @@ If you're knowledgeable in Japanese, consider contributing to the wiki. We could
 ### Practice
 - [Kana Pro](https://kana.pro/)
 - [Kuuuube Kana](https://kuuuube.github.io/kana-quiz/kana/kana-dark/index.html)
+- [Vedxyz Kana](https://vedxyz.github.io/kana/) [:gh:](https://github.com/vedxyz/kana)
 - [Real Kana](https://realkana.com/)
 - [Kana Review](https://kanareview.com/)
 - [Japanese Practice](https://japanesepractice.app/) [:gh:](https://github.com/RichiePowell/japanese-practice)
