@@ -110,18 +110,27 @@ og:
 
 ## Games
 
-- [DLsite](https://www.dlsite.com/) <Badge type="warning" text="Legal" />
-- [Anime-sharing](https://www.anime-sharing.com/) :acc:
+### General
+- [Anime-Sharing](https://www.anime-sharing.com/) :acc:
 - [CPG Repacks](https://cpgrepacks.site)
 - [Craneanime](https://blog.craneanime.xyz/)
 - [Eroge Download](https://erogedownload.com/)
 - [F95Zone](https://f95zone.to/) :acc:
 - [Gamcore](https://gamcore.com/)
+- [HSuki](https://www.h-suki.com/en/games)
 - [Kimochi](https://kimochi.info)
 - [LewdCorner](https://lewdcorner.com/) :acc:
 - [Ryuugames](https://www.ryuugames.com/)
 - [ULMF](https://ulmf.org/) :acc:
 - [VNPocket](https://vnpocket.com/)
+
+### Legal
+- [Denpasoft](https://denpasoft.com/)
+- [DLsite](https://www.dlsite.com/)
+- [FAKKU](https://www.fakku.net/games)
+- [JAST](https://jastusa.com/)
+- [Johren](https://www.johren.games/)
+- [MangaGamer](https://www.mangagamer.com/)
 
 ::: info Try searching with Japanese titles or DLSite product ID on Sukebei.
 :::
