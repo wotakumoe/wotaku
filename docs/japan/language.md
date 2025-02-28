@@ -178,10 +178,11 @@ ___
 - [Tae Kim's Guide](https://guidetojapanese.org/learn/)
 - [Pomax's An introduction to Japanese](https://pomax.github.io/nrGrammar/)
 - [IMABI](https://imabi.org/)
-- **CURE DOLLY TEXTBOOK**
+- **Cure Dolly**
   - [Original version](https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit)
   - [Mordraug version](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit)
   - [Kellen version](https://kellenok.github.io/cure-script/) :s:
+  - [Archive by Yomsi](https://rentry.org/wotadirect)
 - [Learning Japanese When You Think In A Western Language](https://kimallen.sheepdogdesign.net/)
 - [昨日 Sakubi: Yesterday's Grammar Guide](https://sakubi.neocities.org/)
 - [A Beginner’s Japanese Grammar Guide](https://www.japanistry.com/japanese-grammar-guide/)
