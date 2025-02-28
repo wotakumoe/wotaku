@@ -127,7 +127,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Barnes & Noble](https://www.barnesandnoble.com/)
 - [CDJapan](https://www.cdjapan.co.jp/)
 - [Crunchyroll](https://store.crunchyroll.com/) <Badge type="green" link="" text="SFW"/>
-- [Fakku](https://www.fakku.net/)
+- [FAKKU](https://www.fakku.net/)
 - [HMV & Books](https://www.hmv.co.jp/)
 - [Mandarake](https://www.mandarake.co.jp/)
 - [Melonbooks](https://www.melonbooks.co.jp/)
