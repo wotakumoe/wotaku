@@ -95,6 +95,7 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 - [Infinite Backlog](https://infinitebacklog.net/) :s:
 - [MobyGames](https://www.mobygames.com/)
 - [SteamDB](https://steamdb.info/)
+- [The Doujin RPG Database (Nepchan)](https://nepchan.org/)
 - [The Visual Novel Database (VNDB)](https://vndb.org/) :s:
 - [VNStat](https://vnstat.net/)
 
