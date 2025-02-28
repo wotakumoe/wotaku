@@ -23,17 +23,20 @@ og:
 - [Kuri's Japanese Media Recommendations](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/edit#gid=1019246469)
 - [Jo-Mako's Japanese Spreadsheet](https://docs.google.com/spreadsheets/d/1ukDIWSkh_xvpppPbgs1nUR2kaEwFaWlsJgZUlb9LuTs/edit#gid=822742203)
 - [Learn Natively](https://learnnatively.com/)
-- [Moeclub LN Recommendations](https://bookmeter.com/users/1313898/)
 - [Game Gengo's Games for Studying Japanese](https://docs.google.com/spreadsheets/u/0/d/14TKRFvnDmBsgfxCJzkaNKTKmx4qDcsv7QSmfyzIKxQ4/htmlview#gid=0)
 - [Perdition](https://perdition-japanese.github.io/posts/how-to-study-japanese/#step-1-h--immersion-optional)
 - [Acquiring Japanese Efficiently](https://docs.google.com/document/d/1LH82FjsCqCgp6-TFqUcS_EB15V7sx7O1VCjREp6Lexw/edit#heading=h.ct5zhbvvh3b8)
 
+### Light Novels
+- [Moeclub LN Recommendations](https://bookmeter.com/users/1313898/)
+
 ### Visual Novels
 - [List of starter Japanese Media](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub)
-- [VN-chart by difficulty](https://anacreondjt.gitlab.io/vn-chart/)
 - [r/Visualnovels](https://sites.google.com/view/rvisualnovels-recs/home)
-- [VNDB Ranking](https://vndb.org/v?f=022gja3gja&s=34w)
 - [r/VN's 2018](https://vnrecs.github.io/)
+- [VN-chart by difficulty](https://anacreondjt.gitlab.io/vn-chart/)
+- [VNDB Ranking](https://vndb.org/v?f=022gja3gja&s=34w)
+- [VN Difficulty List 2.0 (by Chronopolize)](https://docs.google.com/spreadsheets/d/18vCgQHhBNBeRJdcTcyUi2Atq-nAapQW--33qrwl5Yfw/edit?gid=0#gid=0)
 - [What are you reading?](https://some-guy.org/vnswayrarchive/recommendations)
 
 
@@ -110,6 +113,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 ## Novel
 - [All EPUBs](https://boroboro.neocities.org/listfullepub)
 - [Aozora Bunko](https://www.aozora.gr.jp/)
+- [boroboro](https://boroboro.neocities.org/)
 - [Japanese Learner’s Anthology](https://rentry.org/wotadirect) 
 - [Kakuyomu](https://kakuyomu.jp/) `WN`
 - [Nyaa](https://nyaa.si/?f=0&c=3_3&q=) :s:
@@ -122,6 +126,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 ### Audiobook
 - [Nyaa.si](https://nyaa.si/) :s:
 - [Japanese Audiobook Collection](https://core6000.neocities.org/audio/) [:d:](https://discord.gg/nhqjydaR8j)
+- [TMW Japanese Audiobooks Collection](https://rentry.org/wotadirect)
 - [Librivox](https://librivox.org/)
 - [Aozora Roudoku](https://aozoraroudoku.jp/index.html)
 
