@@ -73,7 +73,7 @@ og:
 - [Japanese TV](https://mov3.co/)
 - [Search TV](https://searchtv.net/)
 - [takelab](https://github.com/take2560/takelab)
-- [TVer](https://tver.jp/) <Badge type="info" text="Needs VPN" />
+- [TVer](https://tver.jp/) <tooltip>Needs JP VPN by default, but you can stream without it if you copy-paste the video URL in a video player (e.g. MPV).</tooltip>
 - [TV Garden](https://tv.garden/jp)
 
 ## Subtitles
