@@ -59,6 +59,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **megamiceto** | [Brazilian miku](https://x.com/megamiceto/status/1826372184731955667) | Non-English link embed |
 | **Mogudan** | [Mogudan Illust Works](https://www.fakku.net/hentai/mogudan-illust-works-english) | [NSFW banners](/nsfw) |
 | **neggo** | [extra tips](https://x.com/neggoartz/status/1834776522801971603) | Torrent link embed |
+| **pantsu_ripper** | [lain/rei](https://x.com/pantsu_ripper/status/1575844099688497153) | Squidify link embed |
 | **queasyS** | [Ishtar and Ereshkigal - FGO](https://www.pixiv.net/en/artworks/112928609) | NSFW link embed |
 | **れんた (Renta)** | [Defoko birthday festival!](https://www.pixiv.net/en/artworks/41424418) | [Audio glossary banner](/glossary/audio#hardware-1) |
 | **Ring** | [Mahō Shōjo](https://www.pixiv.net/en/artworks/94104639) | Merch link embed |
