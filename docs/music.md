@@ -109,7 +109,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
   - [SquidBoard](https://www.squid-board.org/) :acc::sgd::sm::smf:
   - [Sukidesu OST](https://sukidesuost.info/) :sm::mag:
   - [RuTracker.org](https://rutracker.org/forum/index.php) :mag:
-  - [Asia Media Blog](https://asiamediablog.com/media/music/) :host: <Badge type="danger" text="18+" /> <Badge type="tip" text="2" link="https://jpmediadl.com/music/" />
+  - [Asia Media Blog](https://asiamediablog.com/media/music/) :host: <Badge type="danger" text="18+" /> <Badge type="info" text="Proxies" link="https://rentry.org/wotaxy#asia-media-blog" />
 - **MP3**
   - [Nipponsei](https://nipponsei.minglong.org/tracker/) :mag:
   - [OS Anime](https://osanime.com/) :ddl:
