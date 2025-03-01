@@ -153,6 +153,7 @@ ___
 - [autosubsync mpv](https://github.com/Ajatt-Tools/autosubsync-mpv)
 - [memento](https://github.com/ripose-jp/Memento) :win::app::lin:
 - [mpvacious](https://github.com/Ajatt-Tools/mpvacious) :win::lin:
+- [mpv anki mining config](https://github.com/kamperemu/jp-mpv-conf)
 - [mpv jimaku](https://github.com/ZXY101/mpv-jimaku)
 - [mpv retiming scripts](https://github.com/Ulidtsoa01/mpv-retiming-scripts)
 - [mpv sub scripts](https://github.com/peldas/mpv-sub-scripts)
