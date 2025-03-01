@@ -107,8 +107,16 @@ We tried to really simplify the process. For more details, check out [**Dong Cha
 ### Douga
 More cleaned up frames, done by key animators. Dougas are way more completed and have more shading in general. The final animation looks pretty close to douga. In-betweens are also added in this step. Sometime, genga and douga can look pretty close depending on the artist.
 
-### Shiage
-This is the final step. All the frames are colored and minor issues get fixed.
+
+::: details Anime Production Process
+
+<div class="video_wrapper"><iframe src="https://www.youtube.com/embed/D0tux0QoeUE" frameborder="0" allowfullscreen></iframe></div>
+
+![Edited version of flowchart by Dong Chang](/glossary/anime/anipro.svg)
+
+Mentioned [Kikakusho / Pitch package](https://wiki.evageeks.org/Resources:Neon_Genesis_Evangelion_Proposal_(Translation)#Page_2_(Synopsis_and_Staff)) of Neon Genesis Evangelion.
+
+:::
 
 ![](/glossary/file/af.png)
 
