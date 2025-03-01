@@ -12,6 +12,14 @@ og:
 
 ## Repositories
 
+### All-in-One
+
+| Name | Region | Auto | Anime | Manga | Novel |
+|-|-|-|-|-|-|
+| [Kodjo](https://github.com/kodjodevf/mangayomi-extensions) | :globe-showing-asia-australia: | [Install](mangayomi://add-repo?repo_name=mangayomi-extensions&repo_url=https://github.com/kodjodevf/mangayomi-extensions&manga_url=https://kodjodevf.github.io/mangayomi-extensions/index.json&anime_url=https://kodjodevf.github.io/mangayomi-extensions/anime_index.json&novel_url=https://kodjodevf.github.io/mangayomi-extensions/novel_index.json) | :yes: | :yes: | :yes: |
+| [MiraiEnoki](https://github.com/MiraiEnoki/anymex-extensions) | :globe-showing-asia-australia: | [Install](mangayomi://add-repo?repo_name=mangayomi-extensions&repo_url=https://github.com/miraienoki/anymex-extensions&manga_url=https://miraienoki.github.io/anymex-extensions/index.json&anime_url=https://miraienoki.github.io/anymex-extensions/anime_index.json&novel_url=https://miraienoki.github.io/anymex-extensions/novel_index.json) | :yes: | :yes: | :yes: |
+| [Gato404](https://github.com/gato404/kegareta-sauces) | :no-one-under-eighteen: | [Install](mangayomi://add-repo?repo_name=kegareta-sauces&repo_url=https://github.com/gato404/kegareta-sauces&manga_url=https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/index.json&anime_url=https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/anime_index.json) | :yes: | :yes: | :no: |
+
 ### Anime
 | Name | Region | Auto | Manual |
 | - | - | - | - |
