@@ -153,6 +153,7 @@ ___
 - [Filmot](https://filmot.com/) <tooltip>YouTube</tooltip>
 - [Forvo](https://forvo.com/languages/ja/) <tooltip>Native Speaker</tooltip>
 - [Immersion Kit](https://www.immersionkit.com/) :s: <tooltip>Japanese Media</tooltip>
+- [Nadeshiko](https://nadeshiko.co/) [:gh:](https://github.com/BrigadaSOS/Nadeshiko)
 - [Sentence Search](https://sentencesearch.neocities.org/) <tooltip>Book / Deck / Web</tooltip>
 - [YouGlish](https://youglish.com/japanese) :s: <tooltip>YouTube</tooltip>
 ___
