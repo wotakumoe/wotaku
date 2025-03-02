@@ -12,33 +12,37 @@ og:
 
 ### Public Trackers
 
-| Category  | Websites |
-|-----------|----------|
-| **General** | [Nyaa](https://nyaa.si/) :s: <Badge type="info" text="Proxies" link="https://rentry.org/nyaap" /> <br> [Anirena](https://www.anirena.com/) <br> [Tokyo Toshokan](https://www.tokyotosho.info/) <Badge type="info" text="2" link="http://tokyotosho.se/" /> <Badge type="info" text="3" link="http://tokyo-tosho.net/" /> |
-| **Anime** | [Anime Tosho](https://animetosho.org/) <br> [Shana Project](https://www.shanaproject.com/) |
-| **NSFW** | [Sukebei](https://sukebei.nyaa.si/) |
+| Category    | Websites |
+|------------|----------|
+| General    | [Nyaa](https://nyaa.si/) :s: <Badge type="info" text="Proxies" link="https://rentry.org/nyaap" /> |
+| General    | [Anirena](https://www.anirena.com/) |
+| General    | [Tokyo Toshokan](https://www.tokyotosho.info/) <Badge type="info" text="2" link="http://tokyotosho.se/" /> <Badge type="info" text="3" link="http://tokyo-tosho.net/" /> |
+| Anime      | [Anime Tosho](https://animetosho.org/) |
+| Anime      | [Shana Project](https://www.shanaproject.com/) |
+| NSFW       | [Sukebei](https://sukebei.nyaa.si/) |
+
 
 ### Private Trackers
 
 | Category    | Websites |
 |------------|----------|
 | General    | [AnimeBytes](https://animebytes.tv/)  |
-|            | [BakaBT](https://bakabt.me/)  |
+| General    | [BakaBT](https://bakabt.me/)  |
 | Anime      | [AnimeZ](https://animetorrents.me/) [:d:](https://discord.gg/GYahYNWutE)  |
-|            | [U2](https://u2.dmhy.org/portal.php)  |
+| Anime | [U2](https://u2.dmhy.org/portal.php)  |
 | Books      | [MyAnonamouse](https://myanonamouse.net/)  |
 | Games      | [Gazelle Games](https://gazellegames.net/login.php)  |
 | Live Action | [AvistaZ](https://avistaz.to/) [:d:](https://discord.gg/GYahYNWutE)  |
-|            | [JPTV.club](https://jptv.club/)  |
-|            | [jptvts](https://jptvts.us/)  |
+| Live Action | [JPTV.club](https://jptv.club/)  |
+| Music | [jptvts](https://jptvts.us/)  |
 | Music      | [Redacted](https://redacted.sh/)  |
-|            | [JPopsuki](https://jpopsuki.eu/)  |
-|            | [Orpheus](https://orpheus.network/)  |
-|            | [Sugoi Music](https://sugoimusic.me/)  |
-|            | [Bemaniso](https://bemaniso.ws/)  |
-|            | [Aidoru](https://aidoru-online.me/)  |
+| Music      | [JPopsuki](https://jpopsuki.eu/)  |
+|   Music     | [Orpheus](https://orpheus.network/)  |
+| Music | [Sugoi Music](https://sugoimusic.me/)  |
+|  Music  | [Bemaniso](https://bemaniso.ws/)  |
+|   Music     | [Aidoru](https://aidoru-online.me/)  |
 | NSFW       | [ExoticaZ](https://exoticaz.to/) [:d:](https://discord.gg/GYahYNWutE)  |
-|            | [Empornium](https://www.empornium.is/)  |
+| NSFW | [Empornium](https://www.empornium.is/)  |
 
 ## Non-English
 
@@ -48,10 +52,16 @@ og:
 
 ### Chinese  
 
-| Category  | Websites |
-|-----------|----------|
-| **General** | [DMHY](https://dmhy.org/) <br> [MioBT](http://www.miobt.com/) |
-| **Anime** | [ACG](https://acg.rip/) <br> [ACGNX](https://share.acgnx.se/) <br> [Anime Garden](https://garden.breadio.wiki/) <br> [Bangumi](https://bangumi.moe/) <br> [Mikan Project](https://mikanani.me/) [:gh:](https://github.com/iota9star/mikan_flutter) <br> [Nyaa Pantsu](https://ouo.si/) |
+| Category    | Websites |
+|------------|----------|
+| General    | [DMHY](https://dmhy.org/) |
+| General    | [MioBT](http://www.miobt.com/) |
+| Anime      | [ACG](https://acg.rip/) |
+| Anime      | [ACGNX](https://share.acgnx.se/) |
+| Anime      | [Anime Garden](https://garden.breadio.wiki/) |
+| Anime      | [Bangumi](https://bangumi.moe/) |
+| Anime      | [Mikan Project](https://mikanani.me/) [:gh:](https://github.com/iota9star/mikan_flutter) |
+| Anime      | [Nyaa Pantsu](https://ouo.si/) |
 
 
 ### German
