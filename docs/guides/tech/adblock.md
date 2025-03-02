@@ -37,14 +37,14 @@ og:
 ## DNS
 
 ### Cloud
-| Resolver   | Based in  | Query Limit (Base / Account) |
+| Resolver   | Based in  | Query Limit (Account) |
 |------------|----------|-----------------------------|
-| [NextDNS](https://nextdns.io/) :s:  | US       | :no: / 300kpm   |
-| [Adguard](https://adguard-dns.io/en/welcome.html)   | Cyprus   | :no: / 300kpm   |
-| [Control D](https://controld.com/)   | Canada   | :no: / :no:   |
-| [dnswarden](https://dnswarden.com/index.html) | Switzerland | :no: / NA  |
-| [dns0.eu](https://www.dns0.eu/)   | EU   | :no: / NA   |
-| [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)   | Sweden   | :no: / NA   |
+| [NextDNS](https://nextdns.io/) :s:  | US       | 300kpm   |
+| [Adguard](https://adguard-dns.io/en/welcome.html)   | Cyprus   | 300kpm   |
+| [Control D](https://controld.com/)   | Canada   | :no:   |
+| [dnswarden](https://dnswarden.com/index.html) | Switzerland | NA  |
+| [dns0.eu](https://www.dns0.eu/)   | EU   | NA   |
+| [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)   | Sweden   | NA |
 
 ### Self Hosted
 - [Pi-hole](https://pi-hole.net/)
