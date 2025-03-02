@@ -66,23 +66,3 @@ Check our [VPN section](/qs#vpn).
 Torrent trackers that don't allow you to freely make an account, but require you to get an invitation from an existing member or pass an interview. Some PTs also have specific periods where they allow for open signups. It is important to note that you shouldn't use a VPN when signing up for a private tracker, as the site has to make sure you are a new unique member. Once joined, you should carefully read the rules and see what kind of VPN usage they allow on their site. On the other hand, using VPNs for torrenting is most often allowed, and encouraged.
 
 :::
-
-:::details What are some good private trackers?
-
-| Category | Websites |
-|-|-|
-| Anime | [AnimeBytes](https://animebytes.tv/) `General` <br> [AnimeWorld](https://animeworld.cx/) :flag-germany: <br> [AnimeZ](https://animetorrents.me/) [:d:](https://discord.gg/GYahYNWutE) <br> [BakaBT](https://bakabt.me/) <br> [U2](https://u2.dmhy.org/portal.php) |
-| Books | [MyAnonamouse](https://myanonamouse.net/) |
-| Games | [Gazelle Games](https://gazellegames.net/login.php) |
-| Live Action | [AvistaZ](https://avistaz.to/) [:d:](https://discord.gg/GYahYNWutE) <br> [JPTV.club](https://jptv.club/) <br> [jptvts](https://jptvts.us/) |
-| Music | [Redacted](https://redacted.sh/) <br> [JPopsuki](https://jpopsuki.eu/) <br> [Orpheus](https://orpheus.network/) <br> [Sugoi Music](https://sugoimusic.me/) <br> [Bemaniso](https://bemaniso.ws/) `Rhythm` <br> [Aidoru](https://aidoru-online.me/) `Idol` |
-| NSFW | [ExoticaZ](https://exoticaz.to/) [:d:](https://discord.gg/GYahYNWutE) <br> [Empornium](https://www.empornium.is/) |
-
-### Related resources
-- [InstallGentoo Wiki](https://wiki.installgentoo.com/wiki/Private_trackers) :s:
-- [Invite route graph](https://inviteroute.github.io/graph/)
-- [Redacted Interview Prep](https://interviewfor.red/en/index.html)
-  - [Wotaku Audio Glossary](/glossary/audio)
-- [BakaBT Wiki](https://wiki.bakabt.me/index.php/Sign_up)
-
-:::

@@ -94,7 +94,8 @@ const nav: DefaultTheme.NavItem[] = [
       { text: 'Getting Started', link: '/torrenting/start' },
       { text: 'FAQs', link: '/torrenting/faq' },
       { text: 'Glossary', link: '/torrenting/glossary' },
-      { text: 'qBittorrent', link: '/torrenting/qbit' }
+      { text: 'qBittorrent', link: '/torrenting/qbit' },
+      {text: `Trackers`, link: '/torrenting/trackers'}
     ]
   },
   {
@@ -243,7 +244,8 @@ const sidebar: DefaultTheme.Sidebar = [
       { text: 'Getting Started', link: '/torrenting/start' },
       { text: 'FAQs', link: '/torrenting/faq' },
       { text: 'Glossary', link: '/torrenting/glossary' },
-      { text: 'qBittorrent', link: '/torrenting/qbit' }
+      { text: 'qBittorrent', link: '/torrenting/qbit' },
+      {text: `Trackers`, link: '/torrenting/trackers'}
     ]
   },
   {
