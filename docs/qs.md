@@ -163,6 +163,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 |-|-|-|-|
 | [Adguard](https://adguard-dns.io/en/welcome.html) | Cyprus | :yes: | :no: / 300kpm |
 | [Control D](https://controld.com/) | Canada | :yes: | :no: / :no: |
+| [dnswarden](https://dnswarden.com/index.html) | Switzerland | :yes: | :no: / NA  |
 | [DNS.SB](https://dns.sb/) [:gh:](https://github.com/dns-sb/) | Germany | :no: | :no: / NA |
 | [dns0.eu](https://www.dns0.eu/) | EU | :yes: | :no: / NA |
 | [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) | Sweden | :yes: | :no: / NA |
