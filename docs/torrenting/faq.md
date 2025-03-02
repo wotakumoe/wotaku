@@ -59,10 +59,5 @@ The distribution (here seeding / uploading) of pirated content is illegal. In pe
 :::
 
 :::details What VPN should I use? Free or Paid?
-Check our [VPN section](/qs#vpn).
-:::
-
-:::details What are private trackers?
-Torrent trackers that don't allow you to freely make an account, but require you to get an invitation from an existing member or pass an interview. Some PTs also have specific periods where they allow for open signups. It is important to note that you shouldn't use a VPN when signing up for a private tracker, as the site has to make sure you are a new unique member. Once joined, you should carefully read the rules and see what kind of VPN usage they allow on their site. On the other hand, using VPNs for torrenting is most often allowed, and encouraged.
-
+Paid. Check our [VPN section](/qs#vpn).
 :::
