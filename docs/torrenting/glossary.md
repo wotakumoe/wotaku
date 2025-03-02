@@ -11,7 +11,7 @@ og:
 
 | Term             | Definition  { class="compact" }     |
 |------------------|----------------------|
-| Magnet URL | Magnet URL is a link that starts with `magnet:`. It contains basic information about the torrent and uses it to retrieve all metadata. |
+| Magnet URL | Magnet URL is a link that starts with `magnet:`. It contains basic information about the torrent and uses it to retrieve all metadata. Can contain info hash, display name, trackers etc. |
 | Leech  | Can have two meanings: either a downloader in general or peers with a very low share ratio.  |
 | Peer             | A client connected to the internet transferring data. Can be a downloader or seeder.   |
 | Private tracker | Torrent trackers that don't allow you to freely make an account, but require you to get an invitation from an existing member or pass an interview. Some PTs also have specific periods where they allow for open signups. It is important to note that you shouldn't use a VPN when signing up for a private tracker, as the site has to make sure you are a new unique member. Once joined, you should carefully read the rules and see what kind of VPN usage they allow on their site. On the other hand, using VPNs for torrenting is most often allowed, and encouraged. |
@@ -38,8 +38,12 @@ og:
 | Announce | Announcing means that your torrent client is pinging the tracker to send your upload/download stats and receive an updated peerlist for the given torrent. |
 | Availability | Availability indicates the health of the given torrent. Being equal or greater than 1 means that all files are available for download. If it's less than 1, you can't fully download the torrent. |
 | Client           | A program that enables peer-to-peer file sharing via the BitTorrent protocol (qBit, Transmission, etc.) |
+| DHT | Full form is Distributed Hash Table. It is a method of finding more peers without depending on a tracker. The client participates in the DHT network to discover peers with the same torrent. |
+| Info hash | Unique identifier for a torrent. |
+| PEX | Full form is Peer Exchange. It does not depend on a tracker but requires at least one connected peer. Once connected, it gets a peer list from that peer to find more. |
 | Piece | In torrenting, files are divided into pieces/chunks for downloading. The piece number and size can vary depending on the total file size. By default, torrent clients download random pieces to balance the load. |
 | Sequential Download     | Activating this option makes the client download the file pieces in sequential order, making it possible to already stream the files while the transfer is still going (provided you have a decent internet speed). |
+| Super-seeding | Only used if you are the initial seeder and others are grabbing it from you. Every torrent piece send will be unique, so the peers among themselves exchange pieces they need. Otherwise it could happen that some pieces get sent out more often than others, thus making the initial seed take longer. |
 
 ## VPN
 
