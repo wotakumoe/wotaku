@@ -29,6 +29,7 @@
     "floating-vue": "^5.2.2",
     "itty-fetcher": "^0.9.4",
     "markdown-it": "^14.1.0",
+    "markdown-it-merge-cells": "^2.0.0",
     "medium-zoom": "^1.1.0",
     "nitro-cors": "^0.7.1",
     "nitropack": "^2.10.4",

@@ -121,7 +121,6 @@ async function generateImage({
     }
   }
 
-  console.log(options.props.image)
 
   const svg = await satoriVue(options, template)
 

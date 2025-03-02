@@ -20,15 +20,25 @@ og:
 
 ### Private Trackers
 
-| Category | Websites |
-|-|-|
-| General | [AnimeBytes](https://animebytes.tv/) <br> [BakaBT](https://bakabt.me/) |
-| Anime | [AnimeZ](https://animetorrents.me/) [:d:](https://discord.gg/GYahYNWutE) <br> [U2](https://u2.dmhy.org/portal.php) |
-| Books | [MyAnonamouse](https://myanonamouse.net/) |
-| Games | [Gazelle Games](https://gazellegames.net/login.php) |
-| Live Action | [AvistaZ](https://avistaz.to/) [:d:](https://discord.gg/GYahYNWutE) <br> [JPTV.club](https://jptv.club/) <br> [jptvts](https://jptvts.us/) |
-| Music | [Redacted](https://redacted.sh/) <br> [JPopsuki](https://jpopsuki.eu/) <br> [Orpheus](https://orpheus.network/) <br> [Sugoi Music](https://sugoimusic.me/) <br> [Bemaniso](https://bemaniso.ws/) <br> [Aidoru](https://aidoru-online.me/) |
-| NSFW | [ExoticaZ](https://exoticaz.to/) [:d:](https://discord.gg/GYahYNWutE) <br> [Empornium](https://www.empornium.is/) |
+| Category    | Websites |
+|------------|----------|
+| General    | [AnimeBytes](https://animebytes.tv/)  |
+|            | [BakaBT](https://bakabt.me/)  |
+| Anime      | [AnimeZ](https://animetorrents.me/) [:d:](https://discord.gg/GYahYNWutE)  |
+|            | [U2](https://u2.dmhy.org/portal.php)  |
+| Books      | [MyAnonamouse](https://myanonamouse.net/)  |
+| Games      | [Gazelle Games](https://gazellegames.net/login.php)  |
+| Live Action | [AvistaZ](https://avistaz.to/) [:d:](https://discord.gg/GYahYNWutE)  |
+|            | [JPTV.club](https://jptv.club/)  |
+|            | [jptvts](https://jptvts.us/)  |
+| Music      | [Redacted](https://redacted.sh/)  |
+|            | [JPopsuki](https://jpopsuki.eu/)  |
+|            | [Orpheus](https://orpheus.network/)  |
+|            | [Sugoi Music](https://sugoimusic.me/)  |
+|            | [Bemaniso](https://bemaniso.ws/)  |
+|            | [Aidoru](https://aidoru-online.me/)  |
+| NSFW       | [ExoticaZ](https://exoticaz.to/) [:d:](https://discord.gg/GYahYNWutE)  |
+|            | [Empornium](https://www.empornium.is/)  |
 
 ## Non-English
 

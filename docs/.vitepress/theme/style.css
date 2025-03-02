@@ -492,3 +492,9 @@ main figure figcaption {
     }
   }
 }
+
+/** Fix for markdown-it-merge-cells */
+.vp-doc table tr:nth-child(even),
+.vp-doc table tr:nth-child(odd) {
+  background-color: transparent !important;
+}

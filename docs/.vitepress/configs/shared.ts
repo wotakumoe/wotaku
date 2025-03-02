@@ -34,6 +34,8 @@ import {
 import { fileURLToPath, URL } from 'node:url'
 import UnoCSS from 'unocss/vite'
 import Devtools from 'vite-plugin-vue-devtools'
+// @ts-expect-error
+import mergeCells from "markdown-it-merge-cells"
 
 export const hostname: string = 'https://wotaku.wiki'
 export const excludedFiles = ['t.md']
@@ -95,7 +97,7 @@ const nav: DefaultTheme.NavItem[] = [
       { text: 'FAQs', link: '/torrenting/faq' },
       { text: 'Glossary', link: '/torrenting/glossary' },
       { text: 'qBittorrent', link: '/torrenting/qbit' },
-      {text: `Trackers`, link: '/torrenting/trackers'}
+      { text: `Trackers`, link: '/torrenting/trackers' }
     ]
   },
   {
@@ -245,7 +247,7 @@ const sidebar: DefaultTheme.Sidebar = [
       { text: 'FAQs', link: '/torrenting/faq' },
       { text: 'Glossary', link: '/torrenting/glossary' },
       { text: 'qBittorrent', link: '/torrenting/qbit' },
-      {text: `Trackers`, link: '/torrenting/trackers'}
+      { text: `Trackers`, link: '/torrenting/trackers' }
     ]
   },
   {
@@ -380,6 +382,7 @@ export const shared: UserConfig<DefaultTheme.Config> = {
       md.use(tabsMarkdownPlugin)
       md.use(imgSize)
       md.use(headersPlugin)
+      md.use(mergeCells)
     }
   },
   themeConfig: {
