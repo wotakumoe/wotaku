@@ -8,21 +8,15 @@ og:
 <GradientCard title="Blocking Ads" description="Adblocking Solutions for every device" theme="turquoise" variant="thin"/>
 
 
-## Android
-
-- **System-wide**
-  - [Adguard](https://adguard.com/en/welcome.html) :s:
-  - [Adaway](https://adaway.org/)
-  - [RethinkDNS](https://rethinkdns.com/)
-  - :more: [DNS based](#dns)
-- **Browser**
-  - [Brave](https://play.google.com/store/apps/details?id=com.brave.browser)
-  - [Cromite](https://github.com/uazo/cromite)
-  - [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
-
-
 ## Browser
+| Browser | Phone | PC |
+|-|-|-|
+| [Brave](https://brave.com/) [:gh:](https://github.com/brave/brave-browser) | :and::app: | :win::app::lin: |
+| [Cromite](https://github.com/uazo/cromite) | :and: | :win::lin: |
+| [Ironfox](https://gitlab.com/ironfox-oss/IronFox/) | :and: | :no: |
+| [LibreWolf](https://librewolf.net/) [:cb:](https://codeberg.org/librewolf/source) | :no: | :win::app::lin: |
 
+## In-browser
 - **Extension**
   - [uBlock Origin](https://github.com/gorhill/uBlock) :s::ff::cr:
     - [uBO Website Fixes](https://old.reddit.com/r/uBlockOrigin/wiki/solutions/)
@@ -35,25 +29,26 @@ og:
   - [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)
   - [Bypass.city](https://bypass.city/how-to-install-userscript)
 
+## Apps
+- [Adguard](https://adguard.com/en/welcome.html) :s: :and::app:
+- [Adaway](https://adaway.org/) :and:
+- [RethinkDNS](https://rethinkdns.com/) :and:
 
 ## DNS
-- **Online Hosted**
-  - [NextDNS](https://nextdns.io/) :s:
-  - [Adguard DNS](https://adguard-dns.io/en/welcome.html)
-  - [Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)
-  - [dnswarden](https://dnswarden.com/index.html)
-- **Self Hosted**
-  - [Pi-hole](https://pi-hole.net/)
-  - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)
 
-::: details More
-- [OpenBLD.net DNS](https://openbld.net/)
-- [AhaDNS](https://blitz-setup.ahadns.com/)
-- [BlahDNS](https://blahdns.com/)
-- [Control D](https://controld.com/free-dns)
-- [YogaDNS](https://yogadns.com/) :win:
-- [LibreDNS](https://libredns.gr/)
-:::
+### Cloud
+| Resolver   | Based in  | Query Limit (Base / Account) |
+|------------|----------|-----------------------------|
+| [NextDNS](https://nextdns.io/) :s:  | US       | :no: / 300kpm   |
+| [Adguard](https://adguard-dns.io/en/welcome.html)   | Cyprus   | :no: / 300kpm   |
+| [Control D](https://controld.com/)   | Canada   | :no: / :no:   |
+| [dnswarden](https://dnswarden.com/index.html) | Switzerland | :no: / NA  |
+| [dns0.eu](https://www.dns0.eu/)   | EU   | :no: / NA   |
+| [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)   | Sweden   | :no: / NA   |
+
+### Self Hosted
+- [Pi-hole](https://pi-hole.net/)
+- [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)
 
 ## Filters
 
@@ -65,6 +60,7 @@ Adding a lot of filters to your adblocker (that you don't specifically need) can
 - [FMHY Filterlist](https://github.com/fmhy/FMHYFilterlist)
 - [Hagezi DNS Blocklists](https://github.com/hagezi/dns-blocklists)
 - [Yokoffing Filterlists](https://github.com/yokoffing/filterlists) 
+
 
 ## Annoyances
 
