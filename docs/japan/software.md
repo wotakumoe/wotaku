@@ -59,14 +59,15 @@ ___
 ### Decks
 
 #### Kanji
-- [KanjiDamage](https://ankiweb.net/shared/info/748570187) 
+- [Hanzi Web](https://ankiweb.net/shared/info/125468335?cb=1740905928130) [:gh:](https://github.com/elizagamedev/anki-hanziweb)
+- [KanjiDamage](https://ankiweb.net/shared/info/748570187)
+- [Kanji de Go](https://github.com/MarvNC/kanjidego-yomitan-anki)
 - [Kanken Deck](https://ankiweb.net/shared/info/759825185) <Badge type="info" text="Advanced" /> <Badge type="tip" text="2" link="https://ankiweb.net/shared/info/1113953752" />
 - [Kodansha kanji learner's course with vocabulary](https://ankiweb.net/shared/info/779483253) 
 - [RRTK450 Anki deck](https://rentry.org/wotadirect) <Badge type="info" text="Beginner" />
 - [Usagi Chan Kanji Phonetics Deck](https://drive.google.com/file/d/1xyynMQiOuqlC_cBBTwG9t3snRubHqU7e/view)
 - [WaniKani Complete Lv 1-60](https://ankiweb.net/shared/info/2072613354) <Badge type="tip" text="Script" link="https://gist.github.com/Destroxia54/6925a3e1cb75afc7a3dd14d1ba2ff611" />
 - [Wanikani Ultimate 3](https://rentry.org/wotadirect) <Badge type="tip" text="Support" link="https://discord.gg/cSEXEB5DgF" />
-- [Kanji de Go](https://github.com/MarvNC/kanjidego-yomitan-anki)
 ___
 #### Vocab
 - [Kaishi](https://github.com/donkuri/Kaishi) :s: <Badge type="info" text="Beginner" />
