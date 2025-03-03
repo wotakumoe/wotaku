@@ -35,6 +35,7 @@ import Feedback from './components/Feedback.vue'
 import Layout from './Layout.vue'
 import PreferenceRadio from './components/PreferenceRadio.vue'
 import { createOpProvider } from './composables/op'
+import "./styles/tooltip-hint.css";
 
 export default {
   extends: DefaultTheme,
@@ -42,6 +43,11 @@ export default {
   enhanceApp({ app, router, siteData }) {
     app.use(FloatingVue, {
       themes: {
+        'hint': {
+          $extend: 'tooltip',
+          delay: { show: 0, hide: 0 },
+          html: true,
+        },
         'vp-tooltip': {
           $extend: 'tooltip',
           $resetCss: true,

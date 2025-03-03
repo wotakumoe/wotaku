@@ -1,0 +1,27 @@
+@import url("floating-vue/dist/style.css");
+
+div.v-popper--theme-hint {
+  display: inline-block;
+
+  > span:first-child {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: var(--vp-c-text-3);
+    text-underline-offset: 0.5em;
+    text-decoration-thickness: 1px;
+  }
+}
+
+.v-popper--theme-hint {
+  .v-popper__inner {
+    font-size: small;
+    color: var(--vp-c-text-1) !important;
+    background-color: var(--vp-c-bg-elv) !important;
+    border: var(--vp-c-divider) 1px solid;
+    box-shadow: var(--vp-shadow-3);
+  }
+
+  .v-popper__arrow-container {
+    display: none;
+  }
+}

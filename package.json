@@ -31,6 +31,7 @@
     "markdown-it": "^14.1.0",
     "markdown-it-merge-cells": "^2.0.0",
     "markdown-it-multimd-table": "^4.2.3",
+    "markdown-it-regexp": "^0.4.0",
     "medium-zoom": "^1.1.0",
     "nitro-cors": "^0.7.1",
     "nitropack": "^2.10.4",

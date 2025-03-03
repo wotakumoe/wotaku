@@ -50,6 +50,9 @@ importers:
       markdown-it-multimd-table:
         specifier: ^4.2.3
         version: 4.2.3
+      markdown-it-regexp:
+        specifier: ^0.4.0
+        version: 0.4.0
       medium-zoom:
         specifier: ^1.1.0
         version: 1.1.0
@@ -3055,6 +3058,9 @@ packages:
 
   markdown-it-multimd-table@4.2.3:
     resolution: {integrity: sha512-KepCr2OMJqm7IT6sOIbuqHGe+NERhgy66XMrc5lo6dHW7oaPzMDtYwR1EGwK16/blb6mCSg4jqityOe0o/H7HA==}
+
+  markdown-it-regexp@0.4.0:
+    resolution: {integrity: sha512-0XQmr46K/rMKnI93Y3CLXsHj4jIioRETTAiVnJnjrZCEkGaDOmUxTbZj/aZ17G5NlRcVpWBYjqpwSlQ9lj+Kxw==}
 
   markdown-it@14.1.0:
     resolution: {integrity: sha512-a54IwgWPaeBCAAsv13YgmALOF1elABB08FxO9i+r4VFk5Vl4pKokRPeX8u5TCgSsPi6ec1otfLjdOpVcgbpshg==}
@@ -7134,6 +7140,8 @@ snapshots:
   markdown-it-merge-cells@2.0.0: {}
 
   markdown-it-multimd-table@4.2.3: {}
+
+  markdown-it-regexp@0.4.0: {}
 
   markdown-it@14.1.0:
     dependencies:

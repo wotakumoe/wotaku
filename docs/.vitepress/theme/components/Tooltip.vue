@@ -16,14 +16,14 @@
 <script setup lang="ts">
 withDefaults(
   defineProps<{
-    title: string
-    icon: string
+    title: string;
+    icon: string;
   }>(),
   {
-    title: 'Info',
-    icon: 'i-material-symbols-info-i'
-  }
-)
+    title: "Info",
+    icon: "i-material-symbols-info-i",
+  },
+);
 </script>
 
 <template>
@@ -36,7 +36,7 @@ withDefaults(
     <template #popper>
       <div class="border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 max-w-lg border-2 border-solid p-4 transition-all">
         <h3 class="text-$vp-c-text-1 mb-2 text-lg font-semibold" v-text="title" />
-        <p class="text-$vp-c-text-2 text-sm">
+        <p class="text-$vp-c-text-2 text-sm content">
           <slot />
         </p>
       </div>
@@ -46,10 +46,20 @@ withDefaults(
 
 <style>
 .v-popper__popper {
-  --uno: z-10;
+  --uno: z-9999;
 }
 
 .v-popper {
   display: inline-flex !important;
+}
+
+.v-popper__popper .content ol {
+  list-style: decimal !important;
+}
+
+.v-popper__popper .content ul {
+  --uno: ml-4;
+  color: var(--vp-c-text-2);
+  list-style: disc !important;
 }
 </style>
