@@ -75,7 +75,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 | [Qobuz](https://www.qobuz.com/us-en/shop) | MP3 320 | 24/192 | :no: | Western |
 
 ::: tip Notes
-1. Some countries have free access. You can try [dzunlock](https://uhwotgit.fly.dev/uhwot/dzunlock) or [echo](https://github.com/brahmkshatriya/echo).
+1. Some countries have free access. You can also try [echo](https://github.com/brahmkshatriya/echo).
 2. No public access at the moment.
 3. The quality depends on the artist's upload. ALAC will be up to [24/48](https://get.bandcamp.help/hc/en-us/articles/23020723975959-Can-I-upload-higher-resolution-tracks-What-about-24-bit).
 
@@ -450,7 +450,6 @@ You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Pre
 
 ### Script
 - [Ame](https://gitlab.com/SuperSaltyGamer/ame) :simple-icons-applemusic::simple-icons-musicbrainz: <Badge text="VGMdb" />
-- [dzunlock](https://uhwotgit.fly.dev/uhwot/dzunlock)
 - [Gallery Mode for Lists - RateYourMusic](https://greasyfork.org/en/scripts/434865-gallery-mode-for-lists-rateyourmusic)
 - [MusicBrainz Userscripts](https://musicbrainz.org/doc/Guides/Userscripts)
 - [Slav Art User Scripts](https://rentry.org/slavartuserscripts) <Badge text="Qobuz" />
