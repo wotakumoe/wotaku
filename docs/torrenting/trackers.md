@@ -12,14 +12,14 @@ og:
 
 ### Public Trackers
 
-| Category | Websites                                                                                                                                                                 |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| General  | [Nyaa](https://nyaa.si/) :s: <Badge type="info" text="Proxies" link="https://rentry.org/nyaap" />                                                                        |
-| General  | [Anirena](https://www.anirena.com/)                                                                                                                                      |
-| General  | [Tokyo Toshokan](https://www.tokyotosho.info/) <Badge type="info" text="2" link="http://tokyotosho.se/" /> <Badge type="info" text="3" link="http://tokyo-tosho.net/" /> |
-| Anime    | [Anime Tosho](https://animetosho.org/)                                                                                                                                   |
-| Anime    | [Shana Project](https://www.shanaproject.com/)                                                                                                                           |
-| NSFW     | [Sukebei](https://sukebei.nyaa.si/)                                                                                                                                      |
+| Category    | Websites |
+|------------|----------|
+| General    | [Nyaa](https://nyaa.si/) :s: <Badge type="info" text="Proxies" link="https://rentry.org/nyaap" /> |
+| ^^         | [Anirena](https://www.anirena.com/) |
+| ^^         | [Tokyo Toshokan](https://www.tokyotosho.info/) <Badge type="info" text="2" link="http://tokyotosho.se/" /> <Badge type="info" text="3" link="http://tokyo-tosho.net/" /> |
+| Anime      | [Anime Tosho](https://animetosho.org/) |
+| ^^         | [Shana Project](https://www.shanaproject.com/) |
+| NSFW       | [Sukebei](https://sukebei.nyaa.si/) |
 
 ### Private Trackers
 
@@ -54,16 +54,16 @@ og:
 
 ### Chinese
 
-| Category | Websites                                                                                 |
-| -------- | ---------------------------------------------------------------------------------------- |
-| General  | [DMHY](https://dmhy.org/)                                                                |
-| General  | [MioBT](http://www.miobt.com/)                                                           |
-| Anime    | [ACG](https://acg.rip/)                                                                  |
-| Anime    | [ACGNX](https://share.acgnx.se/)                                                         |
-| Anime    | [Anime Garden](https://garden.breadio.wiki/)                                             |
-| Anime    | [Bangumi](https://bangumi.moe/)                                                          |
-| Anime    | [Mikan Project](https://mikanani.me/) [:gh:](https://github.com/iota9star/mikan_flutter) |
-| Anime    | [Nyaa Pantsu](https://ouo.si/)                                                           |
+| Category    | Websites |
+|------------|----------|
+| General    | [DMHY](https://dmhy.org/) |
+| ^^         | [MioBT](http://www.miobt.com/) |
+| Anime      | [ACG](https://acg.rip/) |
+| ^^         | [ACGNX](https://share.acgnx.se/) |
+| ^^         | [Anime Garden](https://garden.breadio.wiki/) |
+| ^^         | [Bangumi](https://bangumi.moe/) |
+| ^^         | [Mikan Project](https://mikanani.me/) [:gh:](https://github.com/iota9star/mikan_flutter) |
+| ^^         | [Nyaa Pantsu](https://ouo.si/) |
 
 ### German
 
