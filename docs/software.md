@@ -133,7 +133,7 @@ Check out [**CFW's iOS guide**](https://ios.cfw.guide/) & [**The Apple Wiki**](h
 :::
 
 ## Anime Streaming
-- [Sora](https://github.com/cranci1/Sora) [:e:](/guides/ext/ios#sora) <Badge type="info" text="Altstore" link="https://www.cranci.tech/repo.json" />
+- [Sora](https://github.com/cranci1/Sora) [:e:](/guides/ext/ios#sora) [:tf:](https://testflight.apple.com/join/qMUCpNaS) <Badge type="info" text="Altstore" link="https://www.cranci.tech/repo.json" />
 - [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi)
 
 ## Manga Readers
