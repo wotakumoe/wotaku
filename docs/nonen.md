@@ -363,6 +363,7 @@ If you have recommendations for good sites in your native language or want to re
 |----------|-----------|
 | **Anime** | [Anime-dl](https://github.com/gabelluardo/anime-dl) |
 | ^^        | [Sonarr Anime Downloader](https://github.com/MainKronos/Sonarr-AnimeDownloader) |
+| ^^        | [zDownloader-chan](https://github.com/zGenny/zDownloader-chan) |
 | **Manga** | [MangaWorld Downloader](https://github.com/Lysagxra/MangaWorldDownloader) |
 
 
