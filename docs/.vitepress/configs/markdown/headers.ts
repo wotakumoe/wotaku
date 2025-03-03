@@ -50,8 +50,8 @@ export const headersPlugin = (md: MarkdownRenderer) => {
 
     return result
   }
-    
-  let defaultRender = md.renderer.rules.link_open;
+
+  let defaultRender = md.renderer.rules.link_open as any;
 
   md.renderer.rules.link_open = (tokens, idx, options, env, self) => {
     const result = defaultRender(tokens, idx, options, env, self);

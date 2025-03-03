@@ -20,7 +20,7 @@ import { createContentLoader } from 'vitepress'
 import type { ContentData, SiteConfig } from 'vitepress'
 import { type SatoriOptions, satoriVue } from 'x-satori/vue'
 import { renderAsync } from '@resvg/resvg-js'
-import { excludedFiles } from '../configs'
+import { excludedFiles } from '../'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const __fonts = resolve(__dirname, '../fonts')
@@ -33,7 +33,7 @@ export async function generateImages(config: SiteConfig) {
     }
   }).load()
   const template = await readFile(
-    resolve(__dirname, '../theme/components/OgImageTemplate.vue'),
+    resolve(__dirname, '../../theme/components/OgImageTemplate.vue'),
     'utf-8'
   )
 

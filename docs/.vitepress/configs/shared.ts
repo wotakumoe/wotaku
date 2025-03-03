@@ -14,14 +14,14 @@
  *  limitations under the License.
  */
 import type { DefaultTheme, UserConfig } from 'vitepress'
-import { generateImages, generateMeta } from '../hooks'
-import { headersPlugin } from '../markdown/headers'
+import { generateImages, generateMeta } from './hooks'
+import { headersPlugin } from './markdown/headers'
 import { figure } from '@mdit/plugin-figure'
 import { imgLazyload } from '@mdit/plugin-img-lazyload'
 import { align } from '@mdit/plugin-align'
 import { imgSize } from '@mdit/plugin-img-size'
 import { tabsMarkdownPlugin } from 'vitepress-plugin-tabs'
-import { emojiRender, defs, movePlugin, aliases } from './emoji'
+import { emojiRender, defs, movePlugin, aliases } from './markdown/emoji'
 import { x } from 'tinyexec'
 import {
   PageProperties,
@@ -34,8 +34,8 @@ import {
 import { fileURLToPath, URL } from 'node:url'
 import UnoCSS from 'unocss/vite'
 import Devtools from 'vite-plugin-vue-devtools'
-// @ts-expect-error
-import mergeCells from "markdown-it-merge-cells"
+import Tables from 'markdown-it-multimd-table'
+import type multimd_table_plugin from 'markdown-it-multimd-table'
 
 export const hostname: string = 'https://wotaku.wiki'
 export const excludedFiles = ['t.md']
@@ -382,7 +382,13 @@ export const shared: UserConfig<DefaultTheme.Config> = {
       md.use(tabsMarkdownPlugin)
       md.use(imgSize)
       md.use(headersPlugin)
-      md.use(mergeCells)
+      md.use(Tables, {
+        multiline: true,
+        rowspan: true,
+        headerless: true,
+        multibody: true,
+        aotolabel: true,
+      });
     }
   },
   themeConfig: {
