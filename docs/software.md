@@ -358,22 +358,42 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 ## Server / Hosting
 
-| **Type**  | **Solution**  |
-|-|-|
-| Anime  | [Plex](https://www.plex.tv/) :s::cs: <br> [Jellyfin](https://jellyfin.org/) [:gh:](https://github.com/jellyfin/jellyfin) <br> [Emby](https://emby.media/) :cs:   |
-| Manga  | [Komga](https://komga.org/) :s: [:gh:](https://github.com/gotson/komga) <br> [Kavita](https://www.kavitareader.com/) [:gh:](https://github.com/Kareadita/Kavita) <br> [LANraragi](https://sugoi.gitbook.io/lanraragi/v/dev) [:gh:](https://github.com/Difegue/LANraragi) <br> [Teemii](https://www.teemii.io/) [:gh:](https://github.com/dokkaner/teemii) <br> [Mango](https://github.com/getmango/Mango) <Badge type="warning" text="Outdated" /> |
-| Novels | [Kavita](https://www.kavitareader.com/) :s: [:gh:](https://github.com/Kareadita/Kavita) <br> [Komga](https://komga.org/) [:gh:](https://github.com/gotson/komga) <br> [Calibre-Web](https://github.com/janeczku/calibre-web) <br> [Librium](https://librumreader.com/) [:gh:](https://github.com/Librum-Reader/Librum) |
-| Audiobook | [audiobookshelf](https://www.audiobookshelf.org/) [:gh:](https://github.com/advplyr/audiobookshelf) <br> [Booksonic](https://booksonic.org/) [:gh:](https://github.com/popeen/Booksonic-App) <br> [Storyteller](https://smoores.gitlab.io/storyteller/) [:gl:](https://gitlab.com/smoores/storyteller) |
+| Type       | Solution |
+|----------- |----------|
+| Anime      | [Plex](https://www.plex.tv/) :s::cs: |
+| ^^         | [Jellyfin](https://jellyfin.org/) [:gh:](https://github.com/jellyfin/jellyfin) |
+| ^^         | [Emby](https://emby.media/) :cs: |
+| Manga      | [Komga](https://komga.org/) :s: [:gh:](https://github.com/gotson/komga) |
+| ^^         | [Kavita](https://www.kavitareader.com/) [:gh:](https://github.com/Kareadita/Kavita) |
+| ^^         | [LANraragi](https://sugoi.gitbook.io/lanraragi/v/dev) [:gh:](https://github.com/Difegue/LANraragi) |
+| ^^         | [Teemii](https://www.teemii.io/) [:gh:](https://github.com/dokkaner/teemii) |
+| ^^         | [Mango](https://github.com/getmango/Mango) <Badge type="warning" text="Outdated" /> |
+| Novels     | [Kavita](https://www.kavitareader.com/) :s: [:gh:](https://github.com/Kareadita/Kavita) |
+| ^^         | [Komga](https://komga.org/) [:gh:](https://github.com/gotson/komga) |
+| ^^         | [Calibre-Web](https://github.com/janeczku/calibre-web) |
+| ^^         | [Librium](https://librumreader.com/) [:gh:](https://github.com/Librum-Reader/Librum) |
+| Audiobook  | [audiobookshelf](https://www.audiobookshelf.org/) [:gh:](https://github.com/advplyr/audiobookshelf) |
+| ^^         | [Booksonic](https://booksonic.org/) [:gh:](https://github.com/popeen/Booksonic-App) |
+| ^^         | [Storyteller](https://smoores.gitlab.io/storyteller/) [:gl:](https://gitlab.com/smoores/storyteller) |
 
 ### Client / Tools
 
-| **Solution**  | **Client/Tools**  |
-|-|-|
-| [Jellyfin](https://jellyfin.org/) | [Jellyfin MPV Shim](https://github.com/jellyfin/jellyfin-mpv-shim) <br> [Jellyfin-RPC](https://github.com/Radiicall/jellyfin-rpc) <br> [Jellyfin shikimori plugin](https://github.com/te9c/jellyfin-shikimori-plugin) <br> [Streamyfin](https://github.com/streamyfin/streamyfin) :and::app: |
+| Solution   | Client/Tools |
+|----------- |-------------|
+| [Jellyfin](https://jellyfin.org/) | [Jellyfin MPV Shim](https://github.com/jellyfin/jellyfin-mpv-shim) |
+| ^^         | [Jellyfin-RPC](https://github.com/Radiicall/jellyfin-rpc) |
+| ^^         | [Jellyfin shikimori plugin](https://github.com/te9c/jellyfin-shikimori-plugin) |
+| ^^         | [Streamyfin](https://github.com/streamyfin/streamyfin) :and::app: |
 | [Kavita](https://www.kavitareader.com/) | [komf](https://github.com/Snd-R/komf) <Badge type="tip" text="Script" link="https://github.com/Snd-R/komf-userscript" /> |
-| [Komga](https://komga.org/) | [Komelia](https://github.com/Snd-R/Komelia) :and::win::lin: <br> [komf](https://github.com/Snd-R/komf) <Badge type="tip" text="Script" link="https://github.com/Snd-R/komf-userscript" /> <br> [Komga Bulk Download Helper](https://github.com/darthmooguy/komga-bulk-download-helper) :js: |
-| [LANraragi](https://sugoi.gitbook.io/lanraragi/v/dev) | [Ichaival](https://github.com/Utazukin/Ichaival) :and: <br> [LANreader](https://github.com/Doraemoe/LANreader) :app: <br> [LRReader](https://github.com/Guerra24/LRReader) :win: |
-| [Plex](https://www.plex.tv/) | [MPV Shim for Plex](https://github.com/iwalton3/plex-mpv-shim) <br> [Plex to AniList Sync](https://github.com/RickDB/PlexAniSync) <br> [PlexAniBridge](https://plexanibridge.elias.eu.org/) [:gh:](https://github.com/eliasbenb/PlexAniBridge) |
+| [Komga](https://komga.org/) | [Komelia](https://github.com/Snd-R/Komelia) :and::win::lin: |
+| ^^         | [komf](https://github.com/Snd-R/komf) <Badge type="tip" text="Script" link="https://github.com/Snd-R/komf-userscript" /> |
+| ^^         | [Komga Bulk Download Helper](https://github.com/darthmooguy/komga-bulk-download-helper) :js: |
+| [LANraragi](https://sugoi.gitbook.io/lanraragi/v/dev) | [Ichaival](https://github.com/Utazukin/Ichaival) :and: |
+| ^^         | [LANreader](https://github.com/Doraemoe/LANreader) :app: |
+| ^^         | [LRReader](https://github.com/Guerra24/LRReader) :win: |
+| [Plex](https://www.plex.tv/) | [MPV Shim for Plex](https://github.com/iwalton3/plex-mpv-shim) |
+| ^^         | [Plex to AniList Sync](https://github.com/RickDB/PlexAniSync) |
+| ^^         | [PlexAniBridge](https://plexanibridge.elias.eu.org/) [:gh:](https://github.com/eliasbenb/PlexAniBridge) |
 
 ::: tip Mihon, Aniyomi & forks
 [**Android apps**](#manga-readers) that support the mihon extension system, can be used as clients for Jellyfin, Komga, Kavita & LANraragi. You can get extensions from [**here**](/guides/tech/repo).

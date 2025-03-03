@@ -151,26 +151,54 @@ If you have recommendations for good sites in your native language or want to re
 #### Android
 
 | Category | Resources |
-|-|-|
-| Anime | [AGETV](https://github.com/muedsa/AGETV) <br> [Ani](https://github.com/open-ani/ani) <br> [Anime](https://github.com/lanlinju/Anime) <br> [Animeko](https://myani.org/) [:gh:](https://github.com/open-ani/animeko) <br> [DMZJ](https://github.com/xiaoyaocz/flutter_dmzj) <br> [Kazumi](https://github.com/Predidit/Kazumi) <br> [Mediabox](https://github.com/RyensX/MediaBox) <br> [Miru App](https://miru.js.org/) <Badge text="Manga" /> <br> [Neko Anime](https://github.com/xioneko/neko-anime) <br> [oneAnime](https://github.com/Predidit/oneAnime) |
-| Manga | [PasteMangaX](https://github.com/crowforkotlin/pastemangax) <br> [kobi](https://github.com/niuhuan/kobi) <br> [MangaReader](https://github.com/youniaogu/MangaReader) <br> [Venra](https://github.com/venera-app/venera) |
-| Novels | [Hikari Novel](https://github.com/15dd/wenku8reader) <br> [Legado](https://github.com/gedoor/legado) <br> [LightNovelReader](https://github.com/dmzz-yyhyy/LightNovelReader) |
-| Tracker | [Bangumi](https://github.com/czy0729/Bangumi) <br> [Bangumi for Android](https://github.com/xiaoyvyv/bangumi) <br> [Bangumi MX](http://bgmx.mysxl.cn/) [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi) |
+|----------|-----------|
+| **Anime** | [AGETV](https://github.com/muedsa/AGETV) |
+| ^^       | [Ani](https://github.com/open-ani/ani) |
+| ^^       | [Anime](https://github.com/lanlinju/Anime) |
+| ^^       | [Animeko](https://myani.org/) [:gh:](https://github.com/open-ani/animeko) |
+| ^^       | [DMZJ](https://github.com/xiaoyaocz/flutter_dmzj) |
+| ^^       | [Kazumi](https://github.com/Predidit/Kazumi) |
+| ^^       | [Mediabox](https://github.com/RyensX/MediaBox) |
+| ^^       | [Miru App](https://miru.js.org/) <Badge text="Manga" /> |
+| ^^       | [Neko Anime](https://github.com/xioneko/neko-anime) |
+| ^^       | [oneAnime](https://github.com/Predidit/oneAnime) |
+| **Manga** | [PasteMangaX](https://github.com/crowforkotlin/pastemangax) |
+| ^^       | [kobi](https://github.com/niuhuan/kobi) |
+| ^^       | [MangaReader](https://github.com/youniaogu/MangaReader) |
+| ^^       | [Venra](https://github.com/venera-app/venera) |
+| **Novels** | [Hikari Novel](https://github.com/15dd/wenku8reader) |
+| ^^        | [Legado](https://github.com/gedoor/legado) |
+| ^^        | [LightNovelReader](https://github.com/dmzz-yyhyy/LightNovelReader) |
+| **Tracker** | [Bangumi](https://github.com/czy0729/Bangumi) |
+| ^^         | [Bangumi for Android](https://github.com/xiaoyvyv/bangumi) |
+| ^^         | [Bangumi MX](http://bgmx.mysxl.cn/) |
+| ^^         | [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi) |
 
 #### PC
 
 | Category | Resources |
-|-|-|
-| Anime | [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) <Badge text="Downloader" /> <br> [Miru App](https://miru.js.org/) [:gh:](https://github.com/miru-project/miru-app) <br> [Bangumi Renamer](https://github.com/nuthx/bangumi-renamer) |
-| Manga | [Miru App](https://miru.js.org/) [:gh:](https://github.com/miru-project/miru-app) <br> [Venra](https://github.com/venera-app/venera) <br> [Bilibili manga downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) <Badge text="Downloader" /><br> [Bilibili manga watermark remover](https://github.com/lanyeeee/bilibili-manga-watermark-remover) |
-| Others | [JProxy](https://github.com/LuckyPuppy514/jproxy) <Badge text=" Downloader" /><br> [Novel downloader](https://github.com/404-novel-project/novel-downloader) <br> [PicACG Qt](https://github.com/tonquer/picacg-qt) :win::app::lin: |
+|----------|-----------|
+| **Anime** | [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) <Badge text="Downloader" /> |
+| ^^       | [Miru App](https://miru.js.org/) [:gh:](https://github.com/miru-project/miru-app) |
+| ^^       | [Bangumi Renamer](https://github.com/nuthx/bangumi-renamer) |
+| **Manga** | [Miru App](https://miru.js.org/) [:gh:](https://github.com/miru-project/miru-app) |
+| ^^       | [Venra](https://github.com/venera-app/venera) |
+| ^^       | [Bilibili manga downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) <Badge text="Downloader" /> |
+| ^^       | [Bilibili manga watermark remover](https://github.com/lanyeeee/bilibili-manga-watermark-remover) |
+| **Others** | [JProxy](https://github.com/LuckyPuppy514/jproxy) <Badge text="Downloader" /> |
+| ^^        | [Novel downloader](https://github.com/404-novel-project/novel-downloader) |
+| ^^        | [PicACG Qt](https://github.com/tonquer/picacg-qt) :win::app::lin: |
 
 ### Others
 
 | Category | Resources |
-|-|-|
-| Tracker | [Bangumi](https://bangumi.tv/) <br> [Anime Tracker List](https://github.com/DeSireFire/animeTrackerList) |
-| Script | [AniList Chinese](https://github.com/soruly/AniList-chinese) <br> [Bilibili Evolved](https://github.com/the1812/Bilibili-Evolved) <br> [EhSyringe](https://github.com/EhTagTranslation/EhSyringe) <br> [Score comparison assistant](https://greasyfork.org/en/scripts/451809-%E8%AF%84%E5%88%86%E5%AF%B9%E6%AF%94%E5%8A%A9%E6%89%8B) |
+|----------|-----------|
+| **Tracker** | [Bangumi](https://bangumi.tv/) |
+| ^^         | [Anime Tracker List](https://github.com/DeSireFire/animeTrackerList) |
+| **Script**  | [AniList Chinese](https://github.com/soruly/AniList-chinese) |
+| ^^          | [Bilibili Evolved](https://github.com/the1812/Bilibili-Evolved) |
+| ^^          | [EhSyringe](https://github.com/EhTagTranslation/EhSyringe) |
+| ^^          | [Score comparison assistant](https://greasyfork.org/en/scripts/451809-%E8%AF%84%E5%88%86%E5%AF%B9%E6%AF%94%E5%8A%A9%E6%89%8B) |
 
 
 ## French
@@ -332,9 +360,10 @@ If you have recommendations for good sites in your native language or want to re
 
 #### PC
 | Category | Resources |
-|-|-|
-| Anime | [Anime-dl](https://github.com/gabelluardo/anime-dl) <br> [Sonarr Anime Downloader](https://github.com/MainKronos/Sonarr-AnimeDownloader) |
-| Manga | [MangaWorld Downloader](https://github.com/Lysagxra/MangaWorldDownloader) |
+|----------|-----------|
+| **Anime** | [Anime-dl](https://github.com/gabelluardo/anime-dl) |
+| ^^        | [Sonarr Anime Downloader](https://github.com/MainKronos/Sonarr-AnimeDownloader) |
+| **Manga** | [MangaWorld Downloader](https://github.com/Lysagxra/MangaWorldDownloader) |
 
 
 ## Japanese
@@ -556,18 +585,22 @@ ___
 #### Android
 
 | Category | Resources |
-|-|-|
-| Anime |  [ShiraBox](https://shirabox.org/) [:gh:](https://github.com/urFate/shirabox-app) <br> [ShikiWatch](https://github.com/wheremyfiji/ShikiWatch) <br> [Anixart](https://play.google.com/store/apps/details?id=com.swiftsoft.anixartlt) |
-| Manga | [Manga Grabber](https://github.com/lirix360/ReadmangaGrabber) |
+|----------|-----------|
+| **Anime** | [ShiraBox](https://shirabox.org/) [:gh:](https://github.com/urFate/shirabox-app) |
+| ^^       | [ShikiWatch](https://github.com/wheremyfiji/ShikiWatch) |
+| ^^       | [Anixart](https://play.google.com/store/apps/details?id=com.swiftsoft.anixartlt) |
+| **Manga** | [Manga Grabber](https://github.com/lirix360/ReadmangaGrabber) |
 
 #### PC
 
 | Category | Resources |
-|-|-|
-| General | [Nlight](https://github.com/brandonzorn/Nlight) |
-| Anime | [Aniship](https://github.com/progzone122/AniShip) :strm: <br> [AndLibria.Qt](https://github.com/anilibria/anilibria-winmaclinux) :strm: |
-| Script | [Watch and download on Shikimori](https://github.com/Malanavi/Watch-and-download-on-Shikimori) <br> [Shiki Rating](https://github.com/ImoutoChan/shiki-rating-userscript) |
-| Extension | [Shikimorist](https://github.com/Hokid/shikimorist) :cr: |
+|----------|-----------|
+| **General** | [Nlight](https://github.com/brandonzorn/Nlight) |
+| **Anime** | [Aniship](https://github.com/progzone122/AniShip) :strm: |
+| ^^       | [AndLibria.Qt](https://github.com/anilibria/anilibria-winmaclinux) :strm: |
+| **Script** | [Watch and download on Shikimori](https://github.com/Malanavi/Watch-and-download-on-Shikimori) |
+| ^^       | [Shiki Rating](https://github.com/ImoutoChan/shiki-rating-userscript) |
+| **Extension** | [Shikimorist](https://github.com/Hokid/shikimorist) :cr: |
 
 ### Others
 

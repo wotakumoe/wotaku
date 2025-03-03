@@ -98,15 +98,25 @@ og:
 
 #### Related resources
 
-| Software | Materials |
-|-|-|
-| [aria2](https://aria2.github.io/) | [AriaNg](https://ariang.mayswind.net/) <br> [Aria2 Explorer](https://github.com/alexhua/Aria2-Explorer) <br> [Aria2 Integration](https://github.com/baptistecdr/aria2-extensions) <br> [Aria2 Manager](https://github.com/alexhua/Aria2-Manager) <br> [TrackersListCollection](https://github.com/XIU2/TrackersListCollection) |
-| [Internet Download Manager](https://www.internetdownloadmanager.com/) | [Installation Guide](https://rentry.org/installidm) |
-| [JDownloader](https://jdownloader.org/) | [Remove ads](/guides/tech/jdl) |
-| [MegaBasterd](https://github.com/tonikelope/megabasterd) | [Account generator](https://github.com/qtchaos/py_mega_account_generator) <br> [MegaDoctor](https://github.com/tonikelope/megadoctor) |
-| [qBittorrent](https://www.qbittorrent.org/) | [Theme Index](https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-qBittorrent-themes) <br> [Search Plugins](https://github.com/qbittorrent/search-plugins) <br> [qBitController](https://github.com/Bartuzen/qBitController) <br> [VueTorrent](https://github.com/VueTorrent/VueTorrent) |
-| [Transmission](https://transmissionbt.com/) | [Transmission Remote GUI](https://github.com/transmission-remote-gui/transgui) |
-| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | [yt-dlp interface](https://github.com/ErrorFlynn/ytdlp-interface) <br> [yt-dlp GUI](https://github.com/kannagi0303/yt-dlp-gui) <br> [yt-dlp GUI Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer) |
+| Software                   | Materials |
+|----------------------------|-----------|
+| **[aria2](https://aria2.github.io/)** | [AriaNg](https://ariang.mayswind.net/) |  
+| ^^                         | [Aria2 Explorer](https://github.com/alexhua/Aria2-Explorer) |  
+| ^^                         | [Aria2 Integration](https://github.com/baptistecdr/aria2-extensions) |  
+| ^^                         | [Aria2 Manager](https://github.com/alexhua/Aria2-Manager) |  
+| ^^                         | [TrackersListCollection](https://github.com/XIU2/TrackersListCollection) |  
+| **[Internet Download Manager](https://www.internetdownloadmanager.com/)** | [Installation Guide](https://rentry.org/installidm) |  
+| **[JDownloader](https://jdownloader.org/)** | [Remove ads](/guides/tech/jdl) |  
+| **[MegaBasterd](https://github.com/tonikelope/megabasterd)** | [Account generator](https://github.com/qtchaos/py_mega_account_generator) |  
+| ^^                         | [MegaDoctor](https://github.com/tonikelope/megadoctor) |  
+| **[qBittorrent](https://www.qbittorrent.org/)** | [Theme Index](https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-qBittorrent-themes) |  
+| ^^                         | [Search Plugins](https://github.com/qbittorrent/search-plugins) |  
+| ^^                         | [qBitController](https://github.com/Bartuzen/qBitController) |  
+| ^^                         | [VueTorrent](https://github.com/VueTorrent/VueTorrent) |  
+| **[Transmission](https://transmissionbt.com/)** | [Transmission Remote GUI](https://github.com/transmission-remote-gui/transgui) |  
+| **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** | [yt-dlp interface](https://github.com/ErrorFlynn/ytdlp-interface) |  
+| ^^                         | [yt-dlp GUI](https://github.com/kannagi0303/yt-dlp-gui) |  
+| ^^                         | [yt-dlp GUI Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer) |
 
 
 ## Media
@@ -129,13 +139,26 @@ og:
 #### mpv
 
 | **Category** | **Resources** |
-|---------------|----------------|
-| Resources | [mpv manual](https://mpv.io/manual/stable/) <br> [Scum's Setup Guide](https://iamscum.wordpress.com/guides/videoplayback-guide/) <br> [mpv Script Wiki](https://github.com/mpv-player/mpv/wiki/User-Scripts) <br> [Awesome mpv](https://github.com/stax76/awesome-mpv) |
-| Alt UI | [ModernX](https://github.com/cyl0/ModernX) <br> [mpv.net](https://github.com/mpvnet-player/mpv.net) :s: <br> [Tethys](https://github.com/Zren/mpv-osc-tethys) <br> [uosc](https://github.com/tomasklaen/uosc) |
-| Video | [Autocrop](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autocrop.lua) <br> [Autoload](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua) <br> [Eisa's Scripts](https://github.com/Eisa01/mpv-scripts) <br> [thumbfast](https://github.com/po5/thumbfast/) |
-| QoL | [mpv Playlistmanager](https://github.com/jonniek/mpv-playlistmanager) <br> [trackselect](https://github.com/po5/trackselect) <br> [pause when minimize](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/pause-when-minimize.lua) |
-| Shaders | [ArtCNN](https://github.com/Artoriuz/ArtCNN) <br> [Prescalers](https://github.com/bjin/mpv-prescalers) |
-| Addons | [webtorrent mpv hook](https://github.com/mrxdst/webtorrent-mpv-hook) <br> [ani-skip](https://github.com/synacktraa/ani-skip) |
+|--------------|---------------|
+| **Resources** | [mpv manual](https://mpv.io/manual/stable/) |  
+| ^^           | [Scum's Setup Guide](https://iamscum.wordpress.com/guides/videoplayback-guide/) |  
+| ^^           | [mpv Script Wiki](https://github.com/mpv-player/mpv/wiki/User-Scripts) |  
+| ^^           | [Awesome mpv](https://github.com/stax76/awesome-mpv) |  
+| **Alt UI**    | [ModernX](https://github.com/cyl0/ModernX) |  
+| ^^           | [mpv.net](https://github.com/mpvnet-player/mpv.net) :s: |  
+| ^^           | [Tethys](https://github.com/Zren/mpv-osc-tethys) |  
+| ^^           | [uosc](https://github.com/tomasklaen/uosc) |  
+| **Video**     | [Autocrop](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autocrop.lua) |  
+| ^^           | [Autoload](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua) |  
+| ^^           | [Eisa's Scripts](https://github.com/Eisa01/mpv-scripts) |  
+| ^^           | [thumbfast](https://github.com/po5/thumbfast/) |  
+| **QoL**       | [mpv Playlistmanager](https://github.com/jonniek/mpv-playlistmanager) |  
+| ^^           | [trackselect](https://github.com/po5/trackselect) |  
+| ^^           | [pause when minimize](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/pause-when-minimize.lua) |  
+| **Shaders**   | [ArtCNN](https://github.com/Artoriuz/ArtCNN) |  
+| ^^           | [Prescalers](https://github.com/bjin/mpv-prescalers) |  
+| **Addons**    | [webtorrent mpv hook](https://github.com/mrxdst/webtorrent-mpv-hook) |  
+| ^^           | [ani-skip](https://github.com/synacktraa/ani-skip) |
 
 
 ## Media Tools
@@ -160,25 +183,46 @@ og:
 
 ### Video Tools
 
-| Category | Resources |  
-|--------------|---------------|
-| General Video tools | [FFmpeg](https://ffmpeg.org/) :win::app::lin::cmd: [:gh:](https://github.com/FFmpeg/FFmpeg) <br> [LosslessCut](https://mifi.no/losslesscut/) :win::app::lin: [:gh:](https://github.com/mifi/lossless-cut) |
-| General Sub tools | [Aegisub](https://github.com/arch1t3cht/Aegisub) :win::app::lin: <br> [Subtitle Edit](https://www.nikse.dk/subtitleedit) :win: [:gh:](https://github.com/SubtitleEdit/subtitleedit) |  
-| Adobe | [m0nkrus](https://w16.monkrus.ws/) :win::app: [:simple-icons-vk:](https://vk.com/monkrus) <br> [RuTracker](https://rutracker.org/forum/index.php) :win::app: <br> [GenP](https://genpguides.github.io) :win: <br> [Download Pirate](https://www.downloadpirate.com/) :win: <br> [a.dove.isdumb.one](https://github.com/ignaciocastro/a-dove-is-dumb) |  
-| Encoding | [AviSynth+](https://avs-plus.net/) :win::app::lin: [:gh:](https://github.com/AviSynth/AviSynthPlus) <br> [StaxRip](https://github.com/staxrip/staxrip) :win: <br> [VapourSynth](https://www.vapoursynth.com/) :win: [:gh:](https://github.com/vapoursynth/vapoursynth) <br> [VapourSynth Database](https://vsdb.top/) |  
-| MKV Tools | [MKVToolNix](https://mkvtoolnix.download/) :win::app::lin::bsd: <br> [MKV Extract](https://qgustavor.github.io/mkv-extract/en/) :web: [:gh:](https://github.com/qgustavor/mkv-extract/) |  
-| Sync | [alass](https://github.com/kaegi/alass) :win::lin: <br> [FFsubsync](https://github.com/smacke/ffsubsync) :win::app::lin: <br> [Sushi.net](https://github.com/maxpiva/Sushi.Net) :win::app::lin: |
-| Other | [mpvQC](https://mpvqc.github.io/) [:gh:](https://github.com/mpvqc/mpvQC) :win: <br> [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) :win::app::lin: |
+| **Category** | **Resources** |  
+|--------------|---------------|  
+| **General Video tools** | [FFmpeg](https://ffmpeg.org/) :win::app::lin::cmd: [:gh:](https://github.com/FFmpeg/FFmpeg) |  
+| ^^               | [LosslessCut](https://mifi.no/losslesscut/) :win::app::lin: [:gh:](https://github.com/mifi/lossless-cut) |  
+| **General Sub tools** | [Aegisub](https://github.com/arch1t3cht/Aegisub) :win::app::lin: |  
+| ^^               | [Subtitle Edit](https://www.nikse.dk/subtitleedit) :win: [:gh:](https://github.com/SubtitleEdit/subtitleedit) |  
+| **Adobe**         | [m0nkrus](https://w16.monkrus.ws/) :win::app: [:simple-icons-vk:](https://vk.com/monkrus) |  
+| ^^               | [RuTracker](https://rutracker.org/forum/index.php) :win::app: |  
+| ^^               | [GenP](https://genpguides.github.io) :win: |  
+| ^^               | [Download Pirate](https://www.downloadpirate.com/) :win: |  
+| ^^               | [a.dove.isdumb.one](https://github.com/ignaciocastro/a-dove-is-dumb) |  
+| **Encoding**      | [AviSynth+](https://avs-plus.net/) :win::app::lin: [:gh:](https://github.com/AviSynth/AviSynthPlus) |  
+| ^^               | [StaxRip](https://github.com/staxrip/staxrip) :win: |  
+| ^^               | [VapourSynth](https://www.vapoursynth.com/) :win: [:gh:](https://github.com/vapoursynth/vapoursynth) |  
+| ^^               | [VapourSynth Database](https://vsdb.top/) |  
+| **MKV Tools**     | [MKVToolNix](https://mkvtoolnix.download/) :win::app::lin::bsd: |  
+| ^^               | [MKV Extract](https://qgustavor.github.io/mkv-extract/en/) :web: [:gh:](https://github.com/qgustavor/mkv-extract/) |  
+| **Sync**          | [alass](https://github.com/kaegi/alass) :win::lin: |  
+| ^^               | [FFsubsync](https://github.com/smacke/ffsubsync) :win::app::lin: |  
+| ^^               | [Sushi.net](https://github.com/maxpiva/Sushi.Net) :win::app::lin: |  
+| **Other**         | [mpvQC](https://mpvqc.github.io/) [:gh:](https://github.com/mpvqc/mpvQC) :win: |  
+| ^^               | [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) :win::app::lin: |
 
 #### Related resources
 
-| Category | Resources |  
-|--------------|---------------|
-| [Aegisub](https://github.com/arch1t3cht/Aegisub) | [Aegisub-Motion](https://github.com/TypesettingTools/Aegisub-Motion) <br> [AI2ASS](https://github.com/TypesettingTools/AI2ASS) <br> [DependencyControl](https://github.com/TypesettingTools/DependencyControl) <br> [Perspective](https://github.com/TypesettingTools/Perspective) |
-| [alass](https://github.com/kaegi/alass) | [Resync subtitles](https://animecards.site/subtitles/) :win: |
-| [AviSynth+](https://avs-plus.net/) | [MeGUI](https://en.wikibooks.org/wiki/MeGUI) [:simple-icons-sourceforge:](https://sourceforge.net/projects/megui/) |
-| [FFmpeg](https://ffmpeg.org/) | [HandBrake](https://handbrake.fr/) :win::app::lin: [:gh:](https://github.com/HandBrake/HandBrake) <br> [Videomass](https://jeanslack.github.io/Videomass/) :win::app::lin: [:gh:](https://github.com/jeanslack/Videomass) <br> [FFmpeg.wasm](https://ffmpegwasm.netlify.app/) :web: [:gh:](https://github.com/ffmpegwasm/ffmpeg.wasm) <br> [FFmpeg Batch AV Converter](https://github.com/eibol/ffmpeg_batch) :win: |
-| [MKVToolNix](https://mkvtoolnix.download/) |  [gMKVExtractGUI](https://sourceforge.net/projects/gmkvextractgui/) :win::app::lin: <br> [MKVcleaver](https://www.videohelp.com/software/MKVcleaver) :win::cs: <br> [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) :win:  |
+| Category        | Resources |
+|-----------------|-----------|
+| **Aegisub**     | [Aegisub-Motion](https://github.com/TypesettingTools/Aegisub-Motion) :gh: |  
+| ^^              | [AI2ASS](https://github.com/TypesettingTools/AI2ASS) :gh: |  
+| ^^              | [DependencyControl](https://github.com/TypesettingTools/DependencyControl) :gh: |  
+| ^^              | [Perspective](https://github.com/TypesettingTools/Perspective) :gh: |  
+| **alass**       | [Resync subtitles](https://animecards.site/subtitles/) :win: |  
+| **AviSynth+**   | [MeGUI](https://en.wikibooks.org/wiki/MeGUI) [:simple-icons-sourceforge:](https://sourceforge.net/projects/megui/) |  
+| **FFmpeg**      | [HandBrake](https://handbrake.fr/) :win::app::lin: [:gh:](https://github.com/HandBrake/HandBrake) |  
+| ^^              | [Videomass](https://jeanslack.github.io/Videomass/) :win::app::lin: [:gh:](https://github.com/jeanslack/Videomass) |  
+| ^^              | [FFmpeg.wasm](https://ffmpegwasm.netlify.app/) :web: [:gh:](https://github.com/ffmpegwasm/ffmpeg.wasm) |  
+| ^^              | [FFmpeg Batch AV Converter](https://github.com/eibol/ffmpeg_batch) :win: |  
+| **MKVToolNix**  | [gMKVExtractGUI](https://sourceforge.net/projects/gmkvextractgui/) :win::app::lin: |  
+| ^^              | [MKVcleaver](https://www.videohelp.com/software/MKVcleaver) :win::cs: |  
+| ^^              | [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) :win: |
 
 - :more: [Encoding & Fansubbing Guides](/misc#encoding-fansubbing-guides)
 - :more: [JP Learning centric tools](/japan/software#subtitles)

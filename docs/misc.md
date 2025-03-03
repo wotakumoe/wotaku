@@ -88,12 +88,18 @@ outline: [1,2]
 
 ### Stats & Watch guide
 
-| Category        | Links                                                                                                                                                                                                                     |
-|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Watch Order** | [Chiaki](https://chiaki.site/)<br>[Related Anime](https://relatedanime.com/)<br>[r/Anime Watch Order](https://old.reddit.com/r/anime/wiki/watch_order/)                                                                  |
-| **Filler**      | [Anime Filler Guide](https://www.animefillerguide.com/)<br>[Anime Filler List](https://www.animefillerlist.com/)                                                                                                         |
-| **Ranking**     | [Anime Karma List](https://animekarmalist.com/)<br>[Anime Stats](https://anime-stats.net/) :s:<br>[Anime Corner](https://animecorner.me/category/anime-corner/rankings/)<br>[Anitrendz](https://anitrendz.com/charts/top-anime)<br>[Kitsu Season Trends](https://season.moe/) [:gh:](https://github.com/wopian/kitsu-season-trends) |
-
+| Category        | Links |
+|-----------------|-------|
+| **Watch Order** | [Chiaki](https://chiaki.site/) |
+| ^^             | [Related Anime](https://relatedanime.com/) |
+| ^^             | [r/Anime Watch Order](https://old.reddit.com/r/anime/wiki/watch_order/) |
+| **Filler**     | [Anime Filler Guide](https://www.animefillerguide.com/) |
+| ^^             | [Anime Filler List](https://www.animefillerlist.com/) |
+| **Ranking**    | [Anime Karma List](https://animekarmalist.com/) |
+| ^^             | [Anime Stats](https://anime-stats.net/) :s: |
+| ^^             | [Anime Corner](https://animecorner.me/category/anime-corner/rankings/) |
+| ^^             | [Anitrendz](https://anitrendz.com/charts/top-anime) |
+| ^^             | [Kitsu Season Trends](https://season.moe/) [:gh:](https://github.com/wopian/kitsu-season-trends) |
 
 ## Manga & LN
 
@@ -201,25 +207,45 @@ ___
 ## Anime & Manga
 | Category  | Websites |
 |-----------|----------|
-| **General** | [3x3 Generator](https://gqgs.github.io/3x3-generator/) :mal::al::k: [:gh:](https://github.com/gqgs/3x3-generator/)<br> [Anime Bingo](https://anime-bingo.aikats.us/) :al: <br> [due.moe](https://due.moe/) :al: [:gh:](https://github.com/walfie/anime-bingo)<br> [Related Anime](https://relatedanime.com/) :mal: |
-| **Anime** | [Manga Adaptations](https://anilist-adaptations.timschneeberger.me/) :al: [:gh:](https://github.com/timschneeb/manga-adaptations-anilist)<br> [Randime](https://randime.moe/) <br> [Spin.moe](https://spin.moe/) :mal::al::k: |
-| **Manga** | [Ermitteln](https://ermitteln.ihateani.me/) :simple-icons-amazon: [:gh:](https://github.com/noaione/cmx-ermitteln) <br> [Mitsukeru](https://mitsukeru.timschneeberger.me/) :al: [:gh:](https://github.com/timschneeb/Mitsukeru) <br> [Tachibk Viewer](https://backup.mihon.tools/) [:gh:](https://github.com/Animeboynz/Mihon-Backup-Viewer) |
+| **General** | [3x3 Generator](https://gqgs.github.io/3x3-generator/) :mal::al::k: [:gh:](https://github.com/gqgs/3x3-generator/) |
+| ^^        | [Anime Bingo](https://anime-bingo.aikats.us/) :al: |
+| ^^        | [due.moe](https://due.moe/) :al: [:gh:](https://github.com/walfie/anime-bingo) |
+| ^^        | [Related Anime](https://relatedanime.com/) :mal: |
+| **Anime** | [Manga Adaptations](https://anilist-adaptations.timschneeberger.me/) :al: [:gh:](https://github.com/timschneeb/manga-adaptations-anilist) |
+| ^^        | [Randime](https://randime.moe/) |
+| ^^        | [Spin.moe](https://spin.moe/) :mal::al::k: |
+| **Manga** | [Ermitteln](https://ermitteln.ihateani.me/) :simple-icons-amazon: [:gh:](https://github.com/noaione/cmx-ermitteln) |
+| ^^        | [Mitsukeru](https://mitsukeru.timschneeberger.me/) :al: [:gh:](https://github.com/timschneeb/Mitsukeru) |
+| ^^        | [Tachibk Viewer](https://backup.mihon.tools/) [:gh:](https://github.com/Animeboynz/Mihon-Backup-Viewer) |
+
 
 ## Image
-| Category | Websites |
-|---|---|
-| Search | [SauceNAO](https://saucenao.com/) :s: <br> [Trace](https://trace.moe/) [:gh:](https://github.com/soruly/trace.moe) <br> [SauceKudasai](https://saucekudasai.com/) [:gh:](https://github.com/ayushgptaa/SauceKudasai) <br> [Multi-service image search](https://iqdb.org/) |
-| Upscaling | [Waif2x](https://unlimited.waifu2x.net/) [:gh:](https://github.com/nagadomi/waifu2x) <Badge type="tip" text="Cloud Ver" link="https://waifu2x.udp.jp/" /><br> [WaifuXL](https://waifuxl.com/) [:gh:](https://github.com/TheFutureGadgetsLab/WaifuXL) |
-| Others | [Imgtrans](https://touhou.ai/imgtrans/) [:gh:](https://github.com/zyddnys/manga-image-translator) <br> [Slowpoke Pics](https://slow.pics/) |
+| Category    | Websites |
+|------------|----------|
+| **Search** | [SauceNAO](https://saucenao.com/) :s: |
+| ^^         | [Trace](https://trace.moe/) [:gh:](https://github.com/soruly/trace.moe) |
+| ^^         | [SauceKudasai](https://saucekudasai.com/) [:gh:](https://github.com/ayushgptaa/SauceKudasai) |
+| ^^         | [Multi-service image search](https://iqdb.org/) |
+| **Upscaling** | [Waif2x](https://unlimited.waifu2x.net/) [:gh:](https://github.com/nagadomi/waifu2x) <Badge type="tip" text="Cloud Ver" link="https://waifu2x.udp.jp/" /> |
+| ^^         | [WaifuXL](https://waifuxl.com/) [:gh:](https://github.com/TheFutureGadgetsLab/WaifuXL) |
+| **Others** | [Imgtrans](https://touhou.ai/imgtrans/) [:gh:](https://github.com/zyddnys/manga-image-translator) |
+| ^^        | [Slowpoke Pics](https://slow.pics/) |
+
 
 
 ## Tracker
  
 | Category  | Websites |
 |-----------|----------|
-| **Stats** | [Sekai](https://sekai.rl404.com/) :s::mal: [:gh:](https://github.com/rl404/sekai) <br> [Anistats](https://mayudev.github.io/anistats/) :al: [:gh:](https://github.com/mayudev/anistats) <br> [Anime Taste Tool](https://www.anipop.uk/) :al: [:gh:](https://github.com/kay-mw/popularity-tool-for-anilist) <br> [anime.plus](https://anime.plus/) :mal: [:gh:](https://github.com/anime-plus/graph) <br> [KitsuStats](https://drumber.github.io/KitsuStats/#/) :k: [:gh:](https://github.com/Drumber/KitsuStats) <br> [MAL Badges](https://www.mal-badges.com/) :mal: |
-| **Tools** | [AniTools](https://anitools.koopz.rocks/) :al: <br> [aniTrakt](https://anitrakt.huere.net/) :mal: [:gh:](https://github.com/ryuuganime/aniTrakt-IndexParser) <br> [MAL Exporter](https://malscraper.azurewebsites.net/) :mal::al::k: |
-
+| **Stats** | [Sekai](https://sekai.rl404.com/) :s::mal: [:gh:](https://github.com/rl404/sekai) |
+| ^^        | [Anistats](https://mayudev.github.io/anistats/) :al: [:gh:](https://github.com/mayudev/anistats) |
+| ^^        | [Anime Taste Tool](https://www.anipop.uk/) :al: [:gh:](https://github.com/kay-mw/popularity-tool-for-anilist) |
+| ^^        | [anime.plus](https://anime.plus/) :mal: [:gh:](https://github.com/anime-plus/graph) |
+| ^^        | [KitsuStats](https://drumber.github.io/KitsuStats/#/) :k: [:gh:](https://github.com/Drumber/KitsuStats) |
+| ^^        | [MAL Badges](https://www.mal-badges.com/) :mal: |
+| **Tools** | [AniTools](https://anitools.koopz.rocks/) :al: |
+| ^^        | [aniTrakt](https://anitrakt.huere.net/) :mal: [:gh:](https://github.com/ryuuganime/aniTrakt-IndexParser) |
+| ^^        | [MAL Exporter](https://malscraper.azurewebsites.net/) :mal::al::k: |
 
 
 
@@ -228,13 +254,30 @@ ___
 
 ## General
 
-| Category | Websites |
-|---|---|
-| Fan Projects | [Holodex](https://holodex.net/) [:gh:](https://github.com/HolodexNet/Holodex) <br> [Musicdex](https://music.holodex.net/) [:gh:](https://github.com/HolodexNet/Musicdex) <br> [Ragtag Archive](https://archive.ragtag.moe/) [:gh:](https://github.com/ragtag-archive) <br> [Patchwork Archive](https://patchwork.moekyun.me/) [:gh:](https://github.com/Patchwork-Archive/) |
-| Database | [Amatsukaze](https://amatsukaze.rl404.com/) :s: [:gh:](https://github.com/rl404/amatsukaze) <br> [Virtual YouTuber Wiki](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki) <br> [Good VTuber Subs](https://goodvtubersubs.com/) <br> [Hololist](https://hololist.net/) <br> [ironmouse Model Index](https://www.ironmousemodelindex.com/) <br> [VTBs in Bilibili!](https://vtbs.moe/) |
-| Stats | [VChama](https://vchama.xyz) :s: <Badge type="info" text="Schedule" /><br> [vtstats](https://vt.poi.cat/) <Badge type="info" text="Schedule"/> <Badge text="Revenue"/> [:gh:](https://github.com/vtstats/web) <tooltip>Doesn't get frequent update. So there can be missing streamers.</tooltip> <br> [VSTATS](https://www.vstats.jp/) <br> [Userlocal VTuber](https://virtual-youtuber.userlocal.jp/) <Badge type="info" text="Stream Rank" link="https://live-ranking.userlocal.jp/vtuber-ranking"/> <Badge type="info" text="Schedule" /><br> [TwitchTracker](https://twitchtracker.com/) <br> [Streams Charts](https://streamscharts.com/) |
-| Schedule | [VTuber Schedule](https://vtuberschedules.com/) <br> [Hololyzer](https://www.hololyzer.net/) <br> [vTubie](https://vtubie.com/) |
-| Others | [VTuber Highlights](https://vtuber.atodeyo.com/) :fjp: <Badge type="info" text="News" /><br> [VTuber Newsdrop](https://vtubernewsdrop.com/) <Badge type="info" text="News" /><br> [Reincar](https://reincar.net/) <Badge type="info" text="News" /> |
+| Category  | Websites |
+|-----------|----------|
+| Fan Projects | [Holodex](https://holodex.net/) [:gh:](https://github.com/HolodexNet/Holodex) |
+| ^^         | [Musicdex](https://music.holodex.net/) [:gh:](https://github.com/HolodexNet/Musicdex) |
+| ^^         | [Ragtag Archive](https://archive.ragtag.moe/) [:gh:](https://github.com/ragtag-archive) |
+| ^^         | [Patchwork Archive](https://patchwork.moekyun.me/) [:gh:](https://github.com/Patchwork-Archive/) |
+| Database   | [Amatsukaze](https://amatsukaze.rl404.com/) :s: [:gh:](https://github.com/rl404/amatsukaze) |
+| ^^         | [Virtual YouTuber Wiki](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki) |
+| ^^         | [Good VTuber Subs](https://goodvtubersubs.com/) |
+| ^^         | [Hololist](https://hololist.net/) |
+| ^^         | [ironmouse Model Index](https://www.ironmousemodelindex.com/) |
+| ^^         | [VTBs in Bilibili!](https://vtbs.moe/) |
+| Stats      | [VChama](https://vchama.xyz) :s: <Badge type="info" text="Schedule" /> |
+| ^^         | [vtstats](https://vt.poi.cat/) <Badge type="info" text="Schedule"/> <Badge text="Revenue"/> [:gh:](https://github.com/vtstats/web) <tooltip>Doesn't get frequent updates. So there can be missing streamers.</tooltip> |
+| ^^         | [VSTATS](https://www.vstats.jp/) |
+| ^^         | [Userlocal VTuber](https://virtual-youtuber.userlocal.jp/) <Badge type="info" text="Stream Rank" link="https://live-ranking.userlocal.jp/vtuber-ranking"/> <Badge type="info" text="Schedule" /> |
+| ^^         | [TwitchTracker](https://twitchtracker.com/) |
+| ^^         | [Streams Charts](https://streamscharts.com/) |
+| Schedule   | [VTuber Schedule](https://vtuberschedules.com/) |
+| ^^         | [Hololyzer](https://www.hololyzer.net/) |
+| ^^         | [vTubie](https://vtubie.com/) |
+| Others     | [VTuber Highlights](https://vtuber.atodeyo.com/) :fjp: <Badge type="info" text="News" /> |
+| ^^         | [VTuber Newsdrop](https://vtubernewsdrop.com/) <Badge type="info" text="News" /> |
+| ^^         | [Reincar](https://reincar.net/) <Badge type="info" text="News" /> |
 
 ## Hololive
 

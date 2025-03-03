@@ -85,8 +85,8 @@ Original: ~~Blurry downscales for anything that would be above that on other pla
 | [MangaPlanet](https://mangaplanet.com/)           | x1536 / x1600       | :no: |
 | [MangaUp!](https://global.manga-up.com/)          | x3072+<sup>3</sup>  | :yes: |
 | [Mangamo](https://www.mangamo.com/)               | ~x17xx              | :yes: |
-| [K Manga (by Kodansha JP)](https://kmanga.kodansha.com/)<sup>4</sup>| x1378             | :yes: |
-| [Yen Press](https://yenpress.com/)            | x1291-x1350 | :no: | :yes: | 
+| [K Manga (by Kodansha JP)](https://kmanga.kodansha.com/)<sup>4</sup>| x1378   | :yes: |
+| [Yen Press](https://yenpress.com/)            | x1291-x1350 | :no: |
 | [VIZ](https://www.viz.com/)                       | ~x1145              | :yes: |
 
 
