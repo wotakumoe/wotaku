@@ -13,9 +13,9 @@ og:
 |------------------|----------------------|
 | Magnet URL | Magnet URL is a link that starts with `magnet:`. It contains basic information about the torrent and uses it to retrieve all metadata. Can contain info hash, display name, trackers etc. |
 | Leech  | Can have two meanings: either a downloader in general or peers with a very low share ratio.  |
-| Peer             | A client connected to the internet transferring data. Can be a downloader or seeder.   |
-| p2p | Full form is Peer-to-Peer. A file sharing network in which every computer/client both uploads and downloads data.   |
-| Ratio            | The relation between the amounts of uploaded and downloaded data. Trackers usually require you to have more upload than download, thus keeping it at a value above 1. |
+| Peer  | A client connected to the internet transferring data. Can be a downloader or seeder.   |
+| P2P | Torrenting is a P2P (Peer-to-Peer) service. Instead of everyone downloading from a centralized server hosting a file (direct download), people downloading the torrent connect to each other and distribute the file(s) between each other automatically. Peers connect directly to your IP address, meaning that any peer connected to you can see your IP address and what you're downloading. |
+| Ratio  | The relation between the amounts of uploaded and downloaded data. Trackers usually require you to have more upload than download, thus keeping it at a value above 1. |
 | Seed   | A seed is a peer that has fully downloaded a torrent. Seeding is uploading that data to other peers. Partial seeds are also possible, but not encouraged by trackers, as they're bad for file retention. | 
 | Swarm            | The collective term for all peers sharing a particular torrent.        |
 | Torrent          | A torrent file contains the metadata of specific files/folders and enables their distribution.   |
@@ -52,6 +52,7 @@ og:
 |------------------|----------------------|
 | Binding VPN | VPN binding is used so that your client only leeches and seeds through your desired VPN and isn't connecting to the internet otherwise. This method is preferred over kill switch for torrenting. |
 | Kill switch | This automatically disconnects the device from the internet if the VPN disconnects unexpectedly, preventing the real IP from leaking. But it can leak your real IP, if there is a software lag or other issues. |
+| Port | A port is a number from 0 to 65535, and it is meant to denote the type of service used. They are commonly written at the end of ip addresses (e.g. `10.0.0.0:12345`). VPN clients use protocols that are not expecting a specific port, so any port can be assigned to it. VPN client shouldn't be assigned a port that is being used by another service. Operating systems have a range of ports reserved for services that do not requires specific ports, and a random port from this range should be used. |
 | Port Forwarding      | Port forwarding allows computers to become connectable, thus being able to interact with a larger number of peers and improving transfer speeds. [Video Explaining Port Forwarding](https://www.youtube.com/watch?v=2G1ueMDgwxw) or [Beginners Guide to Port Forwarding.](https://learn.g2.com/port-forwarding) |
 | Proxy     | A proxy server acts as a gateway between you and the internet. They're commonly used to mask your true IP address or avoid geoblocks. |
 | VPN (Virtual Private Network) | Services used to securely route all the traffic on your system through an encrypted connection to a remote server, thus giving you an additional layer of security and anonymity. This encrypted tunnel is what distinguishes them from simple proxies. |
