@@ -115,9 +115,11 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 - [Aozora Bunko](https://www.aozora.gr.jp/)
 - [boroboro](https://boroboro.neocities.org/)
 - [Japanese Learner’s Anthology](https://rentry.org/wotadirect) 
+- [lolibrary](https://lolibrary.moe/) <tooltip>It's just an index, specially for TMW collection.</tooltip>
 - [Kakuyomu](https://kakuyomu.jp/) `WN`
 - [Nyaa](https://nyaa.si/?f=0&c=3_3&q=) :s:
 - [Syosetu](https://syosetu.com/) `WN`
+- [TMW eBook Collection](https://rentry.org/wotadirect)
 
 <Button icon="i-mdi-lightbulb-alert-outline" link="/nonen#japanese" >More in manga direct download</Button>
 
@@ -142,6 +144,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 
 
 ## YouTube
+- [Comprehensible Japanese](https://cijapanese.com/resources)
 - [Seeder Playlist](https://zenith-raincoat-5cf.notion.site/Japanese-Seeder-Playlist-15fc740a87d843a2a2a5f36a913af551)
 - [Volt's Japanese subtitles playlist](https://www.youtube.com/playlist?list=PLiPR3922q7iAsSm2EsQVMou0kCVavNR2c)
 - [AJATT: Narrated (All Japanese All The Time Blog - Fan Narrated)](https://www.youtube.com/playlist?list=PLmPxwS02_wYP0Y7kprP9ZzLhlZjRSAHWv)

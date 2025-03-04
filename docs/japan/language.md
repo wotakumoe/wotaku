@@ -149,6 +149,7 @@ ___
 ### Resources
 
 #### Pronunciation
+- [AxTongue](https://axtongue.com/) <tooltip>YouTube</tooltip>
 - [CaptionPop](https://www.captionpop.com/japanese?nl=en) <tooltip>YouTube</tooltip>
 - [Filmot](https://filmot.com/) <tooltip>YouTube</tooltip>
 - [Forvo](https://forvo.com/languages/ja/) <tooltip>Native Speaker</tooltip>
@@ -186,6 +187,7 @@ ___
   - [Archive by Yomsi](https://rentry.org/wotadirect)
 - [Learning Japanese When You Think In A Western Language](https://kimallen.sheepdogdesign.net/)
 - [昨日 Sakubi: Yesterday's Grammar Guide](https://sakubi.neocities.org/)
+  - [Tylab version](https://tylab.dev/sakubi/home.html)
 - [A Beginner’s Japanese Grammar Guide](https://www.japanistry.com/japanese-grammar-guide/)
 - [Visualizing Japanese Grammar](https://www2.gwu.edu/~eall/vjgnew/vjghomepage/vjghome.htm)
 - [DoJG Deck](https://dojgdeck.neocities.org/)

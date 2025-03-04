@@ -392,6 +392,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
   - [Pixiv Comics](https://comic.pixiv.net/)
   - [RawInu](https://rawinu.com/) <Badge type="tip" text="2" link="https://nicomanga.com/" />
   - [Rawkuma](https://rawkuma.com/)
+  - [Rawkuro](https://rawkuro.net/home)
   - [Raw Lazy](https://rawlazy.si/)
   - [Raw Otaku](https://rawotaku.com/home/) <Badge type="tip" text="2" link="https://jmanga.ac/home/" />
   - [RawUwU](https://rawuwu.com/) <Badge type="tip" text="2" link="https://rawdevart.art/" />

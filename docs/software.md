@@ -402,6 +402,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 ## OCR / Translator
 - [Ballons Translator](https://github.com/dmMaze/BallonsTranslator)
 - [Capture2text](https://capture2text.sourceforge.net/)
+- [Chrome Lens OCR](https://github.com/dimdenGD/chrome-lens-ocr)
 - [Imagetrans](https://www.basiccat.org/imagetrans/) :cs:
 - [Kanji tomo](https://www.kanjitomo.net/)
 - [Manga OCR](https://github.com/kha-white/manga-ocr)

@@ -39,6 +39,7 @@ ___
 - [Anki SRS Kai](https://kuroahna.github.io/anki_srs_kai/) [:gh:](https://github.com/kuroahna/anki_srs_kai)
 - [Forvo Pronunciation Downloader fully automatic](https://ankiweb.net/shared/info/1784714388)
 - [FSRS4Anki](https://github.com/open-spaced-repetition/fsrs4anki)
+- [Immersion Kit Downloader](https://ankiweb.net/shared/info/1317828804)
 - [Japanese Support](https://ankiweb.net/shared/info/3918629684)
 - [Kanji Grid](https://github.com/Kuuuube/kanjigrid)
 - [Kanji Schizos](https://github.com/kaanium/new-kanji-finder)
@@ -46,6 +47,7 @@ ___
 - [MorphMan](https://ankiweb.net/shared/info/900801631)  [:gh:](https://github.com/kaegi/MorphMan)
 - [quick image](https://github.com/ZXY101/quick-image)
 - [Review Heatmap](https://ankiweb.net/shared/info/1771074083)
+- [Search Stats Extended](https://ankiweb.net/shared/info/1613056169)
 - [Senren](https://github.com/BrenoAqua/Senren)
 - [Yomichan Forvo Server](https://ankiweb.net/shared/info/580654285) [:gh:](https://github.com/jamesnicolas/yomichan-forvo-server)
 - [WaniAnki](https://damiansh.github.io/waniAnki/instructions)
@@ -220,13 +222,15 @@ ___
 - [Luna Hook](https://github.com/HIllya51/LunaHook)
 - [Luna Translator](https://github.com/HIllya51/LunaTranslator)
 - [Textractor](https://github.com/Artikash/Textractor) <Badge type="tip" text="Guide" link="https://xelieu.github.io/jp-lazy-guide/setupVnOnPC/" />
+- [Texthooker UI](https://github.com/Renji-XD/texthooker-ui)
 - [Textractor websocket](https://github.com/kuroahna/textractor_websocket)
 - [Trim Japanese Game Audio](https://github.com/bpwhelan/TrimJapaneseGameAudio/)
 ___
 #### Others
 - [ComicEater](https://github.com/kanjieater/ComicEater)
+- [Furiganalyse](https://furiganalyse.itsupera.co/) :web: [:gh:](https://github.com/itsupera/furiganalyse)
 - [GenkiYoshi](https://github.com/FragozoLeonardo/Genki-Yoshi)
 - [Lapis](https://github.com/donkuri/lapis)
 - [LN Readability](https://colab.research.google.com/github/Gilfaro/ln-recommender/blob/main/LNReadability.ipynb)
 - [Supermemo](https://super-memory.com/) <Badge type="warning" text="Trialware"/><Badge type="tip" text="Wiki" link="https://www.supermemo.wiki/en/home" />
-- [OCR/Translator section](/software#ocr-translator)
+- :more: [OCR/Translator section](/software#ocr-translator)
