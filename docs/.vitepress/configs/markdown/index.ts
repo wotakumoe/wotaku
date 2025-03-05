@@ -136,7 +136,11 @@ Scylla: { content: "Formerly Scylla Scans" },
 Flame: { content: "Formerly Flame Scans" },
 hive: { content: "Formerly Infernal Void Scans and Void Scans" },
 realm: { content: "Formerly Realm Scans, Rizz Comics and Rizz Fables" },
-utoon: { content: "Formerly Manhwa Freak, freak scans. freak comics" },
+utoon: { content: "Formerly Manhwa Freak, freak scans, freak comics" },
+Shiru: { content: "Hard fork of Miru" },
+Hakuneko: { content: "For Linux, you have to use old one atm." },
+HDoujin: { content: "Has a limit of 25 chapters per day." },
+CbxConverter: { content: "The version of Magick inside is really outdated. If you use it, download ImageMagick-[Latest_Version]-portable-Q8-x64.zip from the Imagemagick site, take the magick.exe from there and replace it in CbxConverter folder." },
 
 }
 

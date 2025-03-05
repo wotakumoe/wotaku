@@ -27,7 +27,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 | [Dantotsu](https://dantotsuapp.netlify.app/) [:gh:](https://github.com/rebelonion/Dantotsu)  | :ddl::mag: | :mal::al: |
 | [Himitsu](https://repodevil.vercel.app/) [:gl:](https://gitlab.com/RepoDevil/himitsu) [:gh:](https://github.com/RepoDevil/Himitsu) | :ddl::mag: | :mal::al: |
 | [Cloudstream](https://cloudstream.on.fleek.co/) [:e:](/guides/ext/misc#cloudstream) | :ddl::mag: | :mal::al::simkl: |
-| [Shiru](https://github.com/RockinChaos/Shiru) <tooltip>Hard fork of Miru.</tooltip> | :mag: | :mal::al: |
+| [Shiru](https://github.com/RockinChaos/Shiru) ==Shiru== | :mag: | :mal::al: |
 | [Migu](https://miguapp.pages.dev/) [:gh:](https://github.com/NoCrypt/migu) | :mag: | :mal::al: |
 
 ::: details More
@@ -185,7 +185,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 | Program | OS | Source | Tracker |
 |-|-|-|-|
 | [Miru](https://miru.watch/) :s: [:gh:](https://github.com/ThaUnknown/miru/) | :win::app::lin: | :mag: | :al: |
-| [Shiru](https://github.com/RockinChaos/Shiru) <tooltip>Hard fork of Miru.</tooltip> | :win::app::lin: | :mag: | :mal::al: |
+| [Shiru](https://github.com/RockinChaos/Shiru) ==Shiru== | :win::app::lin: | :mag: | :mal::al: |
 | [Migu](https://miguapp.pages.dev/) [:gh:](https://github.com/NoCrypt/migu) | :win::app::lin: | :mag: | :mal::al: |
 | [Stremio](https://www.stremio.com/) | :win::app::lin: | :mag::ddl: | :mal::al::k::simkl: |
 | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi) | :win::app::lin: | :mag::ddl: | :mal::al::k: |
@@ -253,7 +253,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 ### Anime
 
-- [Hakuneko](https://github.com/manga-download/haruneko) :win::app::lin: <Badge type="tip" text="Old" link="https://github.com/manga-download/hakuneko" /><tooltip>For Linux, you have to use old one atm.</tooltip>
+- [Hakuneko](https://github.com/manga-download/haruneko) :win::app::lin: <Badge type="tip" text="Old" link="https://github.com/manga-download/hakuneko" /> ==Hakuneko==
 - [ADL](https://github.com/RaitaroH/adl) :win::lin::cmd:
 - [Crunchyroll-Downloader](https://github.com/Crunchy-DL/Crunchy-Downloader) :win:
   - [Keydive](https://github.com/hyugogirubato/KeyDive)
@@ -264,9 +264,9 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 - [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) :win:
 - [Red Squirrel's Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader) :win::lin::cs:
-- [Hakuneko](https://github.com/manga-download/haruneko) :win::app::lin: <Badge type="tip" text="Old" link="https://github.com/manga-download/hakuneko" /><tooltip>For Linux, you have to use old one atm.</tooltip>
+- [Hakuneko](https://github.com/manga-download/haruneko) :win::app::lin: <Badge type="tip" text="Old" link="https://github.com/manga-download/hakuneko" /> ==Hakuneko==
 - [MangaL](https://github.com/metafates/mangal) :win::app::lin::cmd:
-- [HDoujin Downloader](https://doujindownloader.com/) :win::cs:<tooltip>Has a 25 chapter daily limit</tooltip>
+- [HDoujin Downloader](https://doujindownloader.com/) :win::cs: ==HDoujin==
 
 ::: details More
 - [Clip Studio Reader](https://greasyfork.org/en/scripts/481576-clip-studio-reader-downloader) :js: [:gh:](https://github.com/MrCocoNuat/clip-studio-reader-downloader)
@@ -306,7 +306,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 ## Manga Tools
 - [ACBR](https://github.com/binarynonsense/comic-book-reader) :win::lin:
 - [CBconvert](https://github.com/gen2brain/cbconvert) :win::app::lin:
-- [CbxConverter](https://tomeko.net/software/CbxConverter/) :win:<tooltip>The version of Magick inside is really outdated. If you use it, download "ImageMagick-[Latest_Version]-portable-Q8-x64.zip" from the Imagemagick site, take the magick.exe from there and replace it in CbxConverter folder.</tooltip>
+- [CbxConverter](https://tomeko.net/software/CbxConverter/) :win: ==CbxConverter==
 - [ComicbookArchiveToolbox](https://degoedel.github.io/ComicbookArchiveToolbox/) :win: [:gh:](https://degoedel.github.io/ComicbookArchiveToolbox/)
 - [ComicTagger](https://github.com/comictagger/comictagger) :win::app::lin:
 - [DarkThumbs](https://github.com/fire-eggs/DarkThumbs) :win:
