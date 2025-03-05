@@ -34,7 +34,6 @@ import 'virtual:uno.css'
 import Feedback from './components/Feedback.vue'
 import Layout from './Layout.vue'
 import PreferenceRadio from './components/PreferenceRadio.vue'
-import { createOpProvider } from './composables/op'
 import "./styles/tooltip-hint.css";
 
 export default {
@@ -56,7 +55,6 @@ export default {
         }
       }
     })
-    createOpProvider(app)
     enhanceAppWithTabs(app)
     app.component('Button', Button)
     app.component('Authors', Authors)
