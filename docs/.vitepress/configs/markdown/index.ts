@@ -153,6 +153,22 @@ VocaloidRadio: { content: "Stream URL (192kbps): https://vocaloid.radioca.st/str
 Nicotine: { content: "Direct peer-to-peer sharing network, primarily used for music." },
 Koisuru: { content: "Subtitle files only, you need to get the episodes from another source." },
 Spoilerplus: { content: "Image host is geo-restricted, so won't load pages in every region. Tested for the US." },
+Oppai: { content: "Late releases, but less compressed than other aggregators." },
+nHentai: { content: "Most popular. Decent UI but compresses images." },
+Akuma: { content: "E-Hentai clone." },
+IMHentai: { content: "Big library and great search filters." },
+Hitomi: { content: "Big library, but difficult to navigate." },
+PandaBackup: { content: "Archive of stuff removed from E-Hentai due to DMCA complaints. Has some obscure stuff deleted on most sites." },
+SchaleNetwork: { content: "Formerly Koharu, has Fakku/Irodori rips (official TLs)." },
+Yabai: { content: "E-Hentai clone." },
+HentaiNexus: { content: "Fakku/Irodori rips (official TLs)." },
+EHentai: { content: "The Mangadex of doujins, almost every doujin is first uploaded here before being scraped by other sites. The online viewer compresses the images, but has the option to download in original quality. [ExHentai](https://exhentai.org/) is its sister site, which also hosts the more extreme and questionable content. You'll need an account on E-Hentai to gain access." },
+Rule34xxx: { content: `  
+  - Boasts a larger content library compared to Paheal.  
+  - Features an extensive tagging system, allowing searches based on descriptions or depicted acts.  
+  - Allows larger file uploads, up to 100MB.  
+  - Searching is more user-friendly compared to Paheal.` },  
+Rule34Paheal: { content: "Categorizes content by characters, franchises, events (such as holidays), animations, and sound, but limits uploads to 10MB." },
 
 }
 
