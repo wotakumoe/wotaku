@@ -208,8 +208,8 @@ ___
 | Category  | Websites |
 |-----------|----------|
 | **General** | [3x3 Generator](https://gqgs.github.io/3x3-generator/) :mal::al::k: [:gh:](https://github.com/gqgs/3x3-generator/) |
-| ^^        | [Anime Bingo](https://anime-bingo.aikats.us/) :al: |
-| ^^        | [due.moe](https://due.moe/) :al: [:gh:](https://github.com/walfie/anime-bingo) |
+| ^^        | [Anime Bingo](https://anime-bingo.aikats.us/) :al: [:gh:](https://github.com/walfie/anime-bingo) |
+| ^^        | [due.moe](https://due.moe/) :al: |
 | ^^        | [Related Anime](https://relatedanime.com/) :mal: |
 | **Anime** | [Manga Adaptations](https://anilist-adaptations.timschneeberger.me/) :al: [:gh:](https://github.com/timschneeb/manga-adaptations-anilist) |
 | ^^        | [Randime](https://randime.moe/) |
