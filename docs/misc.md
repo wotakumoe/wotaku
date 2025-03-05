@@ -383,7 +383,6 @@ ___
 - [AIDN](https://aidn.jp/contents/)
 - [AniAnimals.moe](https://www.anianimals.moe/)
 - [Anime Bath Scene Wiki](https://animebathscenewiki.com/index.php?title=Main_Page)
-- [Anime Girls Holding Programming Books](https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/)
 - [HUNTER×HUNTER Hiatus Chart](https://hiatus-hiatus.github.io/)
 - [Inazuma](https://inazuma.rl404.com/) [:gh:](https://github.com/rl404/inazuma)
 - [TV Tropes](https://tvtropes.org/)
