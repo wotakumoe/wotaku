@@ -322,7 +322,7 @@ If you have recommendations for good sites in your native language or want to re
   - [Samehadaku](https://samehadaku.ws/)
   - [ZANIME](https://anime.uhuyy.dev/) [:gh:](https://github.com/Fauzanmhr/zannime)
 - **DDL**
-  - [Koisuru](https://db.koisuru.web.id/0:/)<tooltip>Subtitle files only, you need to get the episodes from another source.</tooltip>
+  - [Koisuru](https://db.koisuru.web.id/0:/) ==Koisuru==
   - [Kusonime](https://kusonime.com/)
   - [Meownime](https://m.meownime.ai/)
 
@@ -397,7 +397,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
   - [Raw Otaku](https://rawotaku.com/home/) <Badge type="tip" text="2" link="https://jmanga.ac/home/" />
   - [RawUwU](https://rawuwu.com/) <Badge type="tip" text="2" link="https://rawdevart.art/" />
   - [Sen Manga](https://raw.senmanga.com/)
-  - [Spoilerplus](https://spoilerplus.tv/)<tooltip>Image host is geo-restricted, so won't load pages in every region. Tested for the US.</tooltip>
+  - [Spoilerplus](https://spoilerplus.tv/) ==Spoilerplus==
   - [Twicomi](https://twicomi.com/)
   - [We Love Manga](https://welovemanga.one/) <Badge type="tip" text="2" link="https://manga1000.top/" />
 - **Torrent Download**

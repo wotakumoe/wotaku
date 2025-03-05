@@ -141,6 +141,18 @@ Shiru: { content: "Hard fork of Miru" },
 Hakuneko: { content: "For Linux, you have to use old one atm." },
 HDoujin: { content: "Has a limit of 25 chapters per day." },
 CbxConverter: { content: "The version of Magick inside is really outdated. If you use it, download ImageMagick-[Latest_Version]-portable-Q8-x64.zip from the Imagemagick site, take the magick.exe from there and replace it in CbxConverter folder." },
+BangumiList: { content: "Maintained by chinese devs, but lists JP schedule too." },
+ComicRanking500: { content: "The rankings here are based on POS (point-of-sale) data from various bookstore chains in Japan's offline market. Books that primarily sell online or are heavily focused on online stores may rank lower on this list." },
+JosuKe: { content: "The site doesn't get updated often, visit their twitter for more recent graphs." },
+vtstats: { content: "Doesn't get frequent updates, so there can be missing streamers." },
+Flud: { content: "Has a VPN-only option." },
+imgdanke: { content: "Optional for GUI, but doesn't support Pingo v1+ at the moment." },
+Misskey: { content: "Registrations are currently limited to Japan only." },
+Boorusphere: { content: "Repo is archived, but still works as of October 25, 2024." },
+VocaloidRadio: { content: "Stream URL (192kbps): https://vocaloid.radioca.st/stream" },
+Nicotine: { content: "Direct peer-to-peer sharing network, primarily used for music." },
+Koisuru: { content: "Subtitle files only, you need to get the episodes from another source." },
+Spoilerplus: { content: "Image host is geo-restricted, so won't load pages in every region. Tested for the US." },
 
 }
 

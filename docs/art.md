@@ -22,7 +22,7 @@ og:
 
 - [ArtStation](https://www.artstation.com/)
 - [DeviantArt](https://www.deviantart.com/)
-- [Misskey.io](https://misskey.io/) <Badge type="tip" text="Others" link="https://misskey-hub.net/en/servers/" /><tooltip>Registrations are currently limited to Japan only.</tooltip>
+- [Misskey.io](https://misskey.io/) <Badge type="tip" text="Others" link="https://misskey-hub.net/en/servers/" /> ==Misskey==
 - [Pixiv](https://www.pixiv.net) :s:
   - [Pixivision](https://www.pixivision.net/en/)
 - [Twitter](https://x.com/home) :s:
@@ -126,7 +126,7 @@ og:
 
 ### Booru
 - [Boorusama](https://github.com/khoadng/Boorusama) :s:
-- [Boorusphere](https://github.com/nullxception/boorusphere)<tooltip>Repo is archived, but still works as of October 25, 2024.</tooltip>
+- [Boorusphere](https://github.com/nullxception/boorusphere) ==Boorusphere==
 - [Mikansei](https://github.com/uragiristereo/Mikansei)
 - [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/)
 

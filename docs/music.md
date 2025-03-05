@@ -184,7 +184,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 - [Gensokyo Radio](https://gensokyoradio.net/playing/) <Badge type="tip" icon="i-material-symbols-download-2" text="256kbps" link="https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u" /> <Badge type="info" text="Touhou" />
 - [Phate](https://phate.io/) <Badge type="tip" icon="i-material-symbols-download-2" text="192kbps" link="https://phate.io/phate.m3u" /> <Badge type="info" text="Utaite" />
 - [Vocaloid Radio VRX](https://vrx.piro.moe/)
-- [Vocaloid Radio](https://www.vocaloidradio.com/)<tooltip>Stream URL (192kbps) : https://vocaloid.radioca.st/stream</tooltip>
+- [Vocaloid Radio](https://www.vocaloidradio.com/) ==VocaloidRadio==
 
 ## Games
 - [Game That Tune Radio](https://gttradio.com/)
@@ -426,7 +426,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 - [Deemix](https://github.com/bambanah/deemix)
 - [OnTheSpot](https://github.com/justin025/onthespot)
 - [Lidarr](https://lidarr.audio/) :win::app::lin:
-- [Nicotine+](https://nicotine-plus.org/) :win::app::lin::mdi-lan-pending:<tooltip>Direct peer-to-peer sharing network, primarily used for music</tooltip>
+- [Nicotine+](https://nicotine-plus.org/) :win::app::lin::mdi-lan-pending: ==Nicotine==
 - [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD)
 - [Soggfy](https://github.com/Rafiuth/Soggfy) :win::app::lin:
 - [Votify](https://github.com/glomatico/votify)

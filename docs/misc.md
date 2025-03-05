@@ -77,7 +77,7 @@ outline: [1,2]
 - [Anime Dubs Release Calendar](https://teamup.com/ksdhpfjcouprnauwda)
 - [AnimeSchedule](https://animeschedule.net/) [:rss:](https://animeschedule.net/rss) [:rss:](https://github.com/RockinChaos/AniSchedule)
 - [Anisaki](https://anisaki.vercel.app/) [:gh:](https://github.com/BayuDC/anisaki)
-- [Bangumi List](https://bgmlist.com/) :fjp::fcn: [:gh:](https://github.com/wxt2005/bangumi-list-v3)<tooltip>Maintained by chinese devs, but lists JP schedule too.</tooltip>
+- [Bangumi List](https://bgmlist.com/) :fjp::fcn: [:gh:](https://github.com/wxt2005/bangumi-list-v3) ==BangumiList==
 - [Kansou](https://www.kansou.me/) :fjp:
 - [Livechart](https://www.livechart.me/schedule) :s: [:rss:](https://www.livechart.me/pages/rss)
 - [Notify.moe](https://notify.moe/calendar) [:gt:](https://git.akyoto.dev/web/notify.moe)
@@ -105,7 +105,7 @@ outline: [1,2]
 
 ### Info
 
-- [ComicRanking500](https://x.com/ComicRanking500) <tooltip>The rankings here are based on POS (point-of-sale) data from various bookstore chains in Japan's offline market. Books that primarily sell online or are heavily focused on online stores may rank lower on this list.</tooltip>
+- [ComicRanking500](https://x.com/ComicRanking500) ==ComicRanking500==
   - [Manga Ranking](http://shosekiranking.blog.fc2.com/) :fjp: [:rss:](http://shosekiranking.blog.fc2.com/?xml)
   - [Novel Ranking](http://bunkoranoberanking.blog.fc2.com/) :fjp: [:rss:](http://bunkoranoberanking.blog.fc2.com/?xml)
 - [Erzat](https://erzat.blog/) [:x:](https://x.com/Erzat110)
@@ -186,7 +186,7 @@ ___
 
 - **Info / News**
   - [Deb Aoki](https://x.com/debaoki) :x:
-  - [Josu Ke](https://x.com/Josu_ke) :s::x: [:web:](https://www.mangacodex.com/)<tooltip>The site doesn't get updated often, visit their twitter for more recent graphs.</tooltip>
+  - [Josu Ke](https://x.com/Josu_ke) :s::x: [:web:](https://www.mangacodex.com/) ==JosuKe==
   - [Manga Alerts](https://x.com/MangaAlerts) :x:
   - [Manga Mogura](https://x.com/MangaMoguraRE) <Badge type="tip" text="2" link="https://x.com/MangaReporter" /> :x:
     - [Ecchi & Smut Mogura](https://x.com/EcchiMogura) :x:
@@ -267,7 +267,7 @@ ___
 | ^^         | [ironmouse Model Index](https://www.ironmousemodelindex.com/) |
 | ^^         | [VTBs in Bilibili!](https://vtbs.moe/) |
 | Stats      | [VChama](https://vchama.xyz) :s: <Badge type="info" text="Schedule" /> |
-| ^^         | [vtstats](https://vt.poi.cat/) <Badge type="info" text="Schedule"/> <Badge text="Revenue"/> [:gh:](https://github.com/vtstats/web) <tooltip>Doesn't get frequent updates. So there can be missing streamers.</tooltip> |
+| ^^         | [vtstats](https://vt.poi.cat/) <Badge type="info" text="Schedule"/> <Badge text="Revenue"/> [:gh:](https://github.com/vtstats/web) ==vtstats== |
 | ^^         | [VSTATS](https://www.vstats.jp/) |
 | ^^         | [Userlocal VTuber](https://virtual-youtuber.userlocal.jp/) <Badge type="info" text="Stream Rank" link="https://live-ranking.userlocal.jp/vtuber-ranking"/> <Badge type="info" text="Schedule" /> |
 | ^^         | [TwitchTracker](https://twitchtracker.com/) |
@@ -329,7 +329,7 @@ ___
 
 ## Games
 
-- [holo Indie](https://store.steampowered.com/publisher/holo_Indie) :s: <Badge type="tip" text="Info" link="https://hololive.wiki/wiki/Holo_Indie" /><tooltip>We won't add the games here that are under holo Indie</tooltip>
+- [holo Indie](https://store.steampowered.com/publisher/holo_Indie) :s: <Badge type="tip" text="Info" link="https://hololive.wiki/wiki/Holo_Indie" />
 - [AQUARIUM](https://www.entergram.co.jp/aquarium/) :paid:
 - [Days With Ollie](https://store.steampowered.com/app/2776750/Days_With_Ollie/) :paid:
 - [Delivering Hope](https://david-wu-softdev.itch.io/delivering-hope-hololive-fangame)  

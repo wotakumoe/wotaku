@@ -24,7 +24,7 @@ og:
 | [LibreTorrent](https://github.com/proninyaroslav/libretorrent) :s: | :no: | :yes: | :yes: | :yes: |
 | [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) | :yes: | :yes: | :no: | Ads |
 | [Aria2App](https://github.com/devgianlu/Aria2App) | :yes: | :yes: | :yes: | :yes: |
-| [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud)<tooltip>Has a VPN-only option.</tooltip> | :no: | :yes: | :no: | Ads, theme limit |
+| [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) ==Flud== | :no: | :yes: | :no: | Ads, theme limit |
 | [Gopeed](https://gopeed.com/) [:gh:](https://github.com/GopeedLab/gopeed) | :yes: | :yes: | :yes: | :yes: |
 | [YTDLnis](https://ytdlnis.org/) [:gh:](https://github.com/deniscerri/ytdlnis) | :yes: | :yes: | :no: | :yes: |
 
@@ -167,7 +167,7 @@ og:
 
 - [ImageMagick](https://imagemagick.org/index.php) [:gh:](https://github.com/ImageMagick/ImageMagick) <Badge type="tip" text="Scripts" link="https://www.fmwconcepts.com/imagemagick/index.php" />
   - [FotoKilof](https://github.com/TeaM-TL/FotoKilof)
-  - [imgdanke](https://github.com/DrWhoCares/imgdanke)<tooltip>Optional for GUI but does not support Pingo v1+ at the moment.</tooltip>
+  - [imgdanke](https://github.com/DrWhoCares/imgdanke) ==imgdanke==
 - [pingo](https://css-ig.net/pingo) :cs:
   - [pinga](https://css-ig.net/pinga) :cs:
 - [XL Converter](https://codepoems.eu/xl-converter/) [:gh:](https://github.com/JacobDev1/xl-converter)
