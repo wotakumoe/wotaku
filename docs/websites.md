@@ -143,12 +143,14 @@ ___
 
 ### IRC
 
-- [nibl](https://nibl.co.uk/search)<tooltip> <ul> <li>Server: <code>irc.rizon.net</code> </li> <li>Port: <code>6697</code> </li> <li>Channel: <code>#nibl</code> </li> </ul> </tooltip>
-- [subsplease](https://subsplease.org/xdcc/)<tooltip> <ul> <li>Server: <code>irc.rizon.net</code> </li> <li>Port: <code>6697</code> </li> <li>Channel: <code>#subsplease</code> </li> </ul> </tooltip>
-- [animk](https://animk.info/xdcc/)<tooltip> <ul> <li>Server: <code>irc.xertion.org</code> </li> <li>Port: <code>6697</code> </li> <li>Channel: <code>#MK</code> or <code>XDCCLeech</code> </li> </ul> </tooltip>
-- [XDCC EU](https://www.xdcc.eu/)
-- [SunXDCC](https://sunxdcc.com/)
-- [Anidex](https://xdcc.anidex.moe/)<tooltip>`Michiko` bot is over at `#Doki`</tooltip>
+| Website | Server | Port | Channel |
+|-|-|-|-|
+| [nibl](https://nibl.co.uk/search) | irc.rizon.net | 6697 / 9999 | #nibl |
+| [subsplease](https://subsplease.org/xdcc/) | ^^ | ^^ | #subsplease |
+| [Anidex](https://xdcc.anidex.moe/) | ^^ | ^^ | #Doki |
+| [animk](https://animk.info/xdcc/) | irc.xertion.org | ^^ | #MK / #XDCCLeech |
+| [XDCC EU](https://www.xdcc.eu/) | - | - | - |
+| [SunXDCC](https://sunxdcc.com/) | - | - | - |
 
 <Button link="/guides/tech/irc" icon="i-octicon-command-palette-16">To learn how to use IRC, you can read the guide</Button>
 

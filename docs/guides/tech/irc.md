@@ -44,20 +44,14 @@ If you face any issues when connecting, try enabling **"Accept invalid SSL certi
 
 
 ## XDCC Packlists
-- [**nibl**](https://nibl.co.uk/search)	<Badge type="info" text="Anime" />
-	- Server: `irc.rizon.net`
-	- Port: `6697`
-	- Channel: `#nibl`
-- [**subsplease**](https://subsplease.org/xdcc/) <Badge type="info" text="Anime" />
-	- Server: `irc.rizon.net`
-	- Port: `6697`
-	- Channel: `#subsplease`
-- [**animk**](https://animk.info/xdcc/) <Badge type="info" text="Anime" />
-	- Server: `irc.xertion.org`
-	- Port: `6697`
-	- Channel: `#MK` or `XDCCLeech`
-- [**XDCC EU**](https://www.xdcc.eu/) <Badge type="info" text="General" />
-- [**SunXDCC**](https://sunxdcc.com/) <Badge type="info" text="General" />
+| Website | Server | Port | Channel |
+|-|-|-|-|
+| [nibl](https://nibl.co.uk/search) | irc.rizon.net | 6697 / 9999 | #nibl |
+| [subsplease](https://subsplease.org/xdcc/) | ^^ | ^^ | #subsplease |
+| [Anidex](https://xdcc.anidex.moe/) | ^^ | ^^ | #Doki |
+| [animk](https://animk.info/xdcc/) | irc.xertion.org | ^^ | #MK / #XDCCLeech |
+| [XDCC EU](https://www.xdcc.eu/) | - | - | - |
+| [SunXDCC](https://sunxdcc.com/) | - | - | - |
 
 
 ::: warning Both XDCC EU and SunXDCC don't have a single bot channel. They mention the server and the channel address in the search result<
