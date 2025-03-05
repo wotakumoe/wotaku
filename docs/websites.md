@@ -23,128 +23,38 @@ outline: 1
 
 :::
 
-- [Miruro](https://www.miruro.tv/) :mingcute-shovel-fill::mingcute-refresh-2-fill: <Badge type="info" text="Proxies" link="https://www.miruro.com" />
-  <tooltip>
-    <ul>
-      <li>Nice and minimal UI.</li>
-      <li>Scrapes HiAnime (Zoro & Bun), AnimeKai (Arc & Gut) Animepahe (Kiwi), Gogo (Gogo & Vid), AnimeZ (Jet).</li>
-      <li>Has built-in AniList support.</li>
-    </ul>
-  </tooltip>
-- [AnimeStream](https://anime.uniquestream.net/) :mingcute-shovel-fill:
-  <tooltip>
-    <ul>
-      <li>Scrapes from Crunchyroll.</li>
-      <li>UI is really basic.</li>
-      <li>Browser has to support DRM.</li>
-    </ul>
-  </tooltip>
-- [Anime Nexus](https://anime.nexus/) :mingcute-server-fill::mingcute-user-2-fill:
-  <tooltip>
-    <ul>
-      <li>Generally good video quality.</li>
-      <li>Has multi-language softsub.</li>
-      <li>Library size isn't that big. Good for recent airing shows.</li>
-      <li>⚠️Has optimization issues on lower-end phones, may work better on different browsers. Doesn't support Sufferi / WebKit.</li>
-    </ul>
-  </tooltip>
-- [KickAssAnime](https://kaa.mx/) :mingcute-server-fill::mingcute-shovel-fill::mingcute-user-2-fill:
-  <tooltip>
-    <ul>
-      <li>KAA encodes are on Videstreaming, Birdstream scrapes Bilibili.</li>
-      <li>Pretty good for airing anime.</li>
-      <li>Has good amount of missing old titles, but you can request them in their support server.</li>
-    </ul>
-  </tooltip>
-- [AnimeKai](https://animekai.to/home) :mingcute-server-fill::mingcute-refresh-2-fill::mingcute-user-2-fill: <Badge type="tip" text="2" link="https://animekai.bz/home" />
-  <tooltip>
-    <ul>
-      <li>Huge library.</li>
-      <li>Anime are hard-subbed.</li>
-      <li>Re-encodes shows for smaller size.</li>
-      <li>Mix of Web and Blu-ray releases.</li>
-      <li>Anilist scraper is buggy. Adds PV, Specials & Extra entries even though it doesn't have the uploads.</li>
-    </ul>
-  </tooltip>
-- [HiAnime](https://hianime.to/home) :mingcute-server-fill::mingcute-user-2-fill: <Badge type="info" text="Proxies" link="https://hianime.tv/" />
-  <tooltip>
-    <ul>
-      <li>Huge library.</li>
-      <li>Has multi-language softsub.</li>
-      <li>Re-encodes shows for smaller size.</li>
-    </ul>
-  </tooltip>
-- [Hikari](https://watch.hikaritv.xyz/) :mingcute-server-fill::mingcute-user-2-fill:
-  <tooltip>
-    <ul>
-      <li>Good for new airing.</li>
-      <li>Uploads from good sources but re-encoded smaller file size.</li>
-      <li>Large library size.</li>
-    </ul>
-  </tooltip>
-- [Sudatchi](https://sudatchi.com/) :mingcute-server-fill::mingcute-refresh-2-fill:
-  <tooltip>
-    <ul>
-      <li>Smaller library size. Good for new airing.</li>
-      <li>Re-encoded to smaller filesize.</li>
-      <li>Uses IPFS</li>
-      <li>Only 1080p atm for most.</li>
-    </ul>
-  </tooltip>
-- [AniZone](https://anizone.to/) :mingcute-server-fill:
-  <tooltip>
-    <ul>
-      <li>Re-encoded to smaller file size.</li>
-      <li>Very small library size.</li>
-      <li>Good for airing shows.</li>
-    </ul>
-  </tooltip>
-- [Animepahe](https://animepahe.ru/) :mingcute-server-fill: <Badge type="tip" text="2" link="https://animepahe.com/" /> <Badge type="tip" text="3" link="https://animepahe.org" />
-  <tooltip>
-    <ul>
-      <li>Uploads mini encoded files, best if you want smaller files or have low bandwidth.</li>
-      <li>Has a good amount of missing titles.</li>
-      <li>Some titles don't get regular update.</li>
-    </ul>
-  </tooltip>
+- [Miruro](https://www.miruro.tv/) :mingcute-shovel-fill::mingcute-refresh-2-fill: <Badge type="info" text="Proxies" link="https://www.miruro.com" /> ==miruro==
+- [AnimeStream](https://anime.uniquestream.net/) :mingcute-shovel-fill: ==AnimeStream==
+- [Anime Nexus](https://anime.nexus/) :mingcute-server-fill::mingcute-user-2-fill: ==AnimeNexus==
+- [KickAssAnime](https://kaa.mx/) :mingcute-server-fill::mingcute-shovel-fill::mingcute-user-2-fill: ==KAA==
+- [AnimeKai](https://animekai.to/home) :mingcute-server-fill::mingcute-refresh-2-fill::mingcute-user-2-fill: <Badge type="tip" text="2" link="https://animekai.bz/home" /> ==AnimeKai==
+- [HiAnime](https://hianime.to/home) :mingcute-server-fill::mingcute-user-2-fill: <Badge type="info" text="Proxies" link="https://hianime.tv/" /> ==Zoro==
+- [Hikari](https://watch.hikaritv.xyz/) :mingcute-server-fill::mingcute-user-2-fill: ==Hikari==  
+- [Sudatchi](https://sudatchi.com/) :mingcute-server-fill::mingcute-refresh-2-fill: ==Sudatchi==  
+- [AniZone](https://anizone.to/) :mingcute-server-fill: ==AniZone==  
+- [Animepahe](https://animepahe.ru/) :mingcute-server-fill: <Badge type="tip" text="2" link="https://animepahe.com/" /> <Badge type="tip" text="3" link="https://animepahe.org" /> ==Animepahe==
 
 :::details More
 
 ### Self-uploaded
 
-- [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) :mingcute-server-fill::mingcute-shovel-fill::mingcute-user-2-fill:
-  <tooltip>
-    <ul>
-      <li>UI is really cluttered.</li>
-      <li>Video quality fluctuates quite a bit.</li>
-      <li>Players are a mix of self-hosted and scrapers.</li>
-      <li>Luf-mp4 and Vid-mp4 are gogo scrapers.</li>
-      <li>OK and AK have multiple resolutions.</li>
-      <li>SW player is 720p only.</li>
-    </ul>
-  </tooltip>
-- [Animotvslash](https://www.animotvslash.org/search) :mingcute-server-fill:<tooltip>Small library size.</tooltip>
-- [Watch Cartoon Online](https://www.wco.tv/) :mingcute-server-fill::mingcute-user-2-fill: <Badge text="2" link="https://www.wcofun.net/" /> <Badge text="3" link="https://www.wcostream.tv/" /> <Badge text="4" link="https://www.wcoforever.tv/" />
-  <tooltip>
-    <ul>
-      <li>Has both anime and cartoons.</li>
-      <li>Library size is pretty good including old stuff.</li>
-      <li>Uploads are compressed to mini-encode and low res.</li>
-      <li>Movie uploads are paywalled. You can bypass some using wco.tv.</li>
-    </ul>
-  </tooltip>
+- [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) :mingcute-server-fill::mingcute-shovel-fill::mingcute-user-2-fill: ==AllManga==  
+- [Animotvslash](https://www.animotvslash.org/search) :mingcute-server-fill: ==Animotvslash==  
+- [Watch Cartoon Online](https://www.wco.tv/) :mingcute-server-fill::mingcute-user-2-fill: <Badge text="2" link="https://www.wcofun.net/" /> <Badge text="3" link="https://www.wcostream.tv/" /> <Badge text="4" link="https://www.wcoforever.tv/" /> ==WCO== 
 
 ### Low Res
 - [Anime Defenders](https://animedefenders.me/) :mingcute-user-2-fill: <Badge type="danger" text="18+" />
-- [AnimeOnsen](https://www.animeonsen.xyz/) :mingcute-server-fill::mingcute-user-2-fill:
-- [AnimeZ](https://animez.org/) :mingcute-server-fill::mingcute-user-2-fill:<tooltip>Good library size, most are scraped from Aniwave.</tooltip>
-- [Otaku-Streamers](https://beta.otaku-streamers.com/) :mingcute-server-fill::mingcute-user-2-fill: <Badge type="info" text="Old" link="https://otaku-streamers.com/" /><tooltip> Although new releases are in 1080p, older releases are a mixed bag, ranging from 480p to 720p.</tooltip>
+- [AnimeOnsen](https://www.animeonsen.xyz/) :mingcute-server-fill::mingcute-user-2-fill: 
+- [AnimeZ](https://animez.org/) :mingcute-server-fill::mingcute-user-2-fill: ==AnimeZ==  
+- [Otaku-Streamers](https://beta.otaku-streamers.com/) :mingcute-server-fill::mingcute-user-2-fill: <Badge type="info" text="Old" link="https://otaku-streamers.com/" /> ==OtakuStreamers==  
+
 
 ### Scrapers
-- [Anime Realms](https://www.animerealms.org/) :mingcute-refresh-2-fill:<tooltip>Scrapes HiAnime (Soft), AnimePahe (Pahe), AnimeHeaven (Heaven - 720p)</tooltip>
-- [AniPlay](https://aniplaynow.live/) :mingcute-refresh-2-fill::mingcute-user-2-fill:<tooltip>Scrapes HiAnime (Yuki), AnimePahe (Pahe)</tooltip>
-- [Enimoe](https://enimoe.live/) :mingcute-refresh-2-fill:<tooltip>Scrapes HiAnime (Kaido), AnimeKai (Rose), AniZone (Zone), Anify (Violet), AnimeNoSub (Stack), FireAnime (Fire), Hikari (Cope), AnimeFox (Fox).</tooltip>
-- [Gojo](https://gojo.live/) :mingcute-user-2-fill: <Badge type="info" text="2" link="https://gojo.wtf" /> <tooltip>Scrapes HiAnime (Roro), AnimePahe (Pahe), AnimeZ (Zaza)</tooltip>
+- [Anime Realms](https://www.animerealms.org/) :mingcute-refresh-2-fill: ==AnimeRealms==  
+- [AniPlay](https://aniplaynow.live/) :mingcute-refresh-2-fill::mingcute-user-2-fill: ==AniPlay==  
+- [Enimoe](https://enimoe.live/) :mingcute-refresh-2-fill: ==Enimoe==  
+- [Gojo](https://gojo.live/) :mingcute-user-2-fill: <Badge type="info" text="2" link="https://gojo.wtf" /> ==Gojo==  
+
 :::
 
 ::: details Donghua
@@ -263,55 +173,13 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 
 ## Online
 
-- [ComicK](https://comick.io/home) :s: [:rss:](https://manga-ldez.vercel.app/) 
-  <tooltip>
-    <ul>
-      <li>Minimal compression</li>
-      <li>Aggregates from various scanlation groups</li>
-      <li>There's a 2/3 hour upload delay for most chapters sourced from scanlators' sites</li>
-      <li>Has official translations</li>
-      <li>Reader isn't as good as mangadex</li>
-    </ul>
-  </tooltip>
-- [MangaDex](https://mangadex.org/) [:rss:](https://mdrss.tijlvdb.me/) 
-  <tooltip>
-    <ul>
-      <li>Uploads without compression</li>
-      <li>Best reader UI (for a web reader)</li>
-      <li>Uploads from various scanlation groups</li>
-      <li>No official translations, barring some exceptions. </li>
-      <li>May remove content if there is a DMCA request by the publisher or doesn't allow upload at all (e.g. One Punch-Man)</li>
-    </ul>
-  </tooltip>
-- [Weeb Central](https://weebcentral.com/)
-  <tooltip>
-    <ul>
-      <li>Has official translations</li>
-      <li>Compresses chapter images</li>
-      <li>Chapter updates are relatively slow</li>
-      <li>You can use AL sync with atsu</li>
-    </ul>
-  </tooltip>
-- [Batoto](https://battwo.com/v3x) <Badge type="tip" text="Proxies" link="https://rentry.co/batoto" />  
-  <tooltip>
-    <ul>
-      <li>Has both scanlated and official releases</li>
-      <li>Has some exclusive uploads</li>
-      <li>Decent filtering options with site theme options</li>
-      <li>Indexing is poor</li>
-    </ul>
-  </tooltip>
+- [ComicK](https://comick.io/home) :s: [:rss:](https://manga-ldez.vercel.app/) ==ComicK==  
+- [MangaDex](https://mangadex.org/) [:rss:](https://mdrss.tijlvdb.me/) ==MangaDex==  
+- [Weeb Central](https://weebcentral.com/) ==WeebCentral==  
+- [Batoto](https://battwo.com/v3x) <Badge type="tip" text="Proxies" link="https://rentry.co/batoto" /> ==Batoto==  
 - [MangaPark](https://mangapark.net/)  
-- [MangaFire](https://mangafire.to/home)  
-  <tooltip>
-    <ul>
-      <li>The UI is very clean with notification system</li>
-      <li>Uploads both chapter (multi-lang) & volume releases</li>
-      <li>Basic reader UI</li>
-      <li>Watermark on almost every manga chapters</li>
-      <li>Manga uploads are up to x1600</li>
-    </ul>
-  </tooltip>
+- [MangaFire](https://mangafire.to/home) ==MangaFire==  
+
 
 
 ::: details More
@@ -347,23 +215,24 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 
 :::
 
-- [1r0n](https://nyaa.si/user/tsuna69) `Ch` `Vol`<tooltip>[Comikey](https://comikey.com/), [J-Novel Club](https://j-novel.club/), [K Manga](https://kmanga.kodansha.com/), [Kodansha](https://kodansha.us/), [Manga UP!](https://global.manga-up.com/), [Seven Seas](https://sevenseasentertainment.com/), [SQUARE ENIX](https://squareenixmangaandbooks.square-enix-games.com/en-us), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
-- [anadius](https://nyaa.si/user/anadius) <Badge type="warning" text="Retired"/> `Ch`<tooltip>[VIZ](https://www.viz.com/)</tooltip>
-- [Danke](https://nyaa.si/?f=0&c=0_0&q=danke-empire) :f:<tooltip>[Kodansha](https://kodansha.us/), [Seven Seas](https://sevenseasentertainment.com/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
-- [Digital Manga Fan](https://nyaa.si/user/digitalmangafan)<tooltip>[J-Novel Club](https://j-novel.club/), [Kodansha](https://kodansha.us/), [ONE PEACE BOOKS](https://www.onepeacebooks.com/), [Seven Seas](https://sevenseasentertainment.com/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
-- [Empy](https://nyaa.si/user/empyrealarrow) <Badge type="warning" text="Retired"/> `Ch` `Comp`<tooltip>[Glacier Bay Books](https://glacierbaybooks.com/), [MANGA Plus](https://mangaplus.shueisha.co.jp/)</tooltip>
-- [Lord_ne](https://nyaa.si/user/lord_ne)<tooltip>[Crunchyroll](https://store.crunchyroll.com/collections/manga/), [Lezhin Comics](https://www.lezhinus.com/en), [Yen Press](https://yenpress.com/)</tooltip>
-- [LuCaZ](https://nyaa.si/user/LuCaZ) `Ch` `Vol`<tooltip>[Kodansha](https://kodansha.us/), [Seven Seas](https://sevenseasentertainment.com/), [Yen Press](https://yenpress.com/)</tooltip>
-- [Oakminati](https://nyaa.si/user/Oakminati) `Ch` `Comp` <Badge type="tip" text="Releases" link="https://sheet.zohopublic.com/sheet/published/3v5my3d014d3b97064f55b7114631ac87efda?sheetid=1&range=A1" /><tooltip>[MANGA Plus](https://mangaplus.shueisha.co.jp/), [Manga UP!](https://global.manga-up.com/) (Main), [SQUARE ENIX](https://squareenixmangaandbooks.square-enix-games.com/en-us)</tooltip>
-- [Rillant](https://nyaa.si/user/Rillant) `Ch`<tooltip>[K Manga](https://kmanga.kodansha.com/), [Kodansha](https://kodansha.us/), [MANGA Plus](https://mangaplus.shueisha.co.jp/), [VIZ](https://www.viz.com/)</tooltip>
-- [Shellshock](https://nyaa.si/user/shellshock)<tooltip>[Kodansha](https://kodansha.us/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
-- [Shizu](https://nyaa.si/user/wolfsbanes)<tooltip>[Kodansha](https://kodansha.us/), [SuBLime](https://www.sublimemanga.com/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
-- [Stick](https://nyaa.si/user/dumbboy58)<tooltip>[Cross Infinite World](https://www.crossinfworld.com/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)</tooltip>
-- [SWId](https://nyaa.si/?f=0&c=3_1&q=SWId)<tooltip>[Kodansha](https://kodansha.us/), [Seven Seas](https://sevenseasentertainment.com/), [Yen Press](https://yenpress.com/)</tooltip>
-- [TooManyIsekai](https://nyaa.si/?f=0&c=3_1&q=TooManyIsekai)<tooltip>[J-Novel Club](https://j-novel.club/), [K Manga](https://kmanga.kodansha.com/), [Kodansha](https://kodansha.us/), [Manga UP!](https://global.manga-up.com/), [ONE PEACE BOOKS](https://www.onepeacebooks.com/), [Seven Seas](https://sevenseasentertainment.com/)</tooltip>
-- [Trite](https://nyaa.si/user/Trite)<tooltip>Cover-to-cover (c2c) scans of physical-only books by various publishers.</tooltip>
-- [Ushi](https://nyaa.si/user/bakaushi)<tooltip>[Seven Seas](https://sevenseasentertainment.com/), [Yen Press](https://yenpress.com/)</tooltip>
+- [1r0n](https://nyaa.si/user/tsuna69) `Ch` `Vol` ==tron==
+- [anadius](https://nyaa.si/user/anadius) <Badge type="warning" text="Retired"/> `Ch` ==anadius==
+- [Danke](https://nyaa.si/?f=0&c=0_0&q=danke-empire) :f: ==Danke==
+- [Digital Manga Fan](https://nyaa.si/user/digitalmangafan) ==DMF==
+- [Empy](https://nyaa.si/user/empyrealarrow) <Badge type="warning" text="Retired"/> `Ch` `Comp` ==Empy==
+- [Lord_ne](https://nyaa.si/user/lord_ne) ==Lord_ne==
+- [LuCaZ](https://nyaa.si/user/LuCaZ) `Ch` `Vol` ==LuCaZ==
+- [Oakminati](https://nyaa.si/user/Oakminati) `Ch` `Comp` <Badge type="tip" text="Releases" link="https://sheet.zohopublic.com/sheet/published/3v5my3d014d3b97064f55b7114631ac87efda?sheetid=1&range=A1" /> ==Oakminati==
+- [Rillant](https://nyaa.si/user/Rillant) `Ch` ==Rillant==
+- [Shellshock](https://nyaa.si/user/shellshock) ==Shellshock==
+- [Shizu](https://nyaa.si/user/wolfsbanes) ==Shizu==
+- [Stick](https://nyaa.si/user/dumbboy58) ==Stick==
+- [SWId](https://nyaa.si/?f=0&c=3_1&q=SWId) ==SWId==
+- [TooManyIsekai](https://nyaa.si/?f=0&c=3_1&q=TooManyIsekai) ==TooManyIsekai==
+- [Trite](https://nyaa.si/user/Trite) ==Trite==
+- [Ushi](https://nyaa.si/user/bakaushi) ==Ushi==
 - [XRA](https://nyaa.si/?f=0&c=0_0&q=XRA) :f:
+
 
 ### Direct Download
 
@@ -387,24 +256,23 @@ ___
 
 ### Manga
 
-- [AGR Comics](https://agrcomics.com/) + :fkr::fcn:  <Badge type="info" text="Dex" link="https://mangadex.org/group/1dde9054-11fd-4f5e-a575-a50f7bd22d5f/animated-glitched-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/nfkpfd9/agr-comics" /><tooltip>Formerly Animated Glitched Scans and Animated Glitched Comics</tooltip>
+- [AGR Comics](https://agrcomics.com/) + :fkr::fcn:  <Badge type="info" text="Dex" link="https://mangadex.org/group/1dde9054-11fd-4f5e-a575-a50f7bd22d5f/animated-glitched-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/nfkpfd9/agr-comics" />==AGR==
 - [Assorted Scans](https://assortedscans.com/)
 - [Danke fürs Lesen Scans](https://danke.moe/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/91035fe1-d6b0-4816-be51-b54d05d546cf/danke-furs-lesen" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/xlp7424/danke-fuers-lesen" />
 - [LHTranslation](https://lhtranslation.net/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/24adf288-d0e3-4d34-b342-bf8c189aacaa/lhtranslation" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/f6nc2yt/lhtranslation" />
-- [Scylla Comics](https://scyllacomics.xyz/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/4209a4a9-b838-4817-be40-0c8ef2f7be4a/scylla-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/groups.html?id=14042" /><tooltip>Formerly Scylla Scans</tooltip>
+- [Scylla Comics](https://scyllacomics.xyz/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/4209a4a9-b838-4817-be40-0c8ef2f7be4a/scylla-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/groups.html?id=14042" /> ==Scylla==
 - [TCB Scans](https://tcbscans.me/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/db85f2a1-d69b-4181-a7a0-aa37db4bcbcf/tcb-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/wn8v9bv/tcb-scans" />
 - [Tritinia Scans](https://tritinia.org/) + :fcn::fkr:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/zfxsenj/tritinia-scans" />
 
 ### Manhwa
-
 - [Asura Scans](https://asuracomic.net/) + :fcn:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/juxsa9z/asura" /> <Badge type="info" text="Free" link="https://asurascansfree.com/" />
-- [Flame Comics](https://flamecomics.com/) + :fcn:  <Badge type="info" text="Dex" link="https://mangadex.org/group/fdad9851-164f-43fc-9ab0-25b8054c99ed/flame-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/btgsdiy/flame-scans" /><tooltip>Formerly Flame Scans</tooltip>
-- [Hive Toon](https://hivetoon.com/) + :fcn: <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/10nt2ki/infernal-void-scans" /><tooltip>Formerly Infernal Void Scans and Void Scans</tooltip>
+- [Flame Comics](https://flamecomics.com/) + :fcn:  <Badge type="info" text="Dex" link="https://mangadex.org/group/fdad9851-164f-43fc-9ab0-25b8054c99ed/flame-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/btgsdiy/flame-scans" />==Flame==
+- [Hive Toon](https://hivetoon.com/) + :fcn: <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/10nt2ki/infernal-void-scans" />==hive==
 - [Reaper Scans](https://reaperscans.com/) + :fcn:  <Badge type="info" text="Dex" link="https://mangadex.org/group/e892ed1b-ed75-414a-bc86-71226f3364ad/reaper-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/5ev5t5s/reaper-scans" />
 - [Reset Scans](https://rspro.xyz/home/) +:fjp::fcn:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/df9ckct/reset-scans" />
-- [Realm Oasis](https://realmoasis.com/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/v5djjz8/rizz-comics" /><tooltip>Formerly Realm Scans, Rizz Comics and Rizz Fables</tooltip>
+- [Realm Oasis](https://realmoasis.com/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/v5djjz8/rizz-comics" />==realm==
 - [StoneScape](https://stonescape.xyz/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/zt7x4q1/stonescape" />
-- [UTOON](https://utoon.net/) +:fjp::fcn:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/mtcug74/utoon" /><tooltip>Formerly Manhwa Freak, freak scans. freak comics</tooltip>
+- [UTOON](https://utoon.net/) +:fjp::fcn:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/mtcug74/utoon" />==utoon==
 - [Zero Scans](https://zscans.com/) + :fcn:  <Badge type="info" text="Dex" link="https://mangadex.org/group/dd0a3018-21f1-4488-948c-08499b179fcf/zero-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/vlkvmk7/zero-scans-discord" />
 
 ### Manhua
