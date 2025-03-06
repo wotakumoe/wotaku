@@ -68,11 +68,6 @@ export const contribs = {
   ],
   contributors: [
     {
-      avatar: 'https://github.com/knightmob.png',
-      name: 'Abyss',
-      site: 'https://github.com/knightmob'
-    },
-    {
       name: 'DenpaEater',
       site: 'https://x.com/shibayanfanclub',
       avatar: '/pfp/denpa.jpg'

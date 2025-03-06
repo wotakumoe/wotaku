@@ -72,7 +72,6 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **トパドリ (Topadori)** | [Patchouli](https://www.pixiv.net/en/artworks/95111697) | Glossary default link embed |
 | **トゥーミ (Twumi)** | [Chibi Nadeshiko Kagamihara](https://www.pixiv.net/en/artworks/67505931) | [Essentials banner](/qs#essentials) |
 | **tyasuzu** | [Ryo Yamada](https://www.pixiv.net/en/artworks/104004187) | [Music banner](/music#stream) |
-| **WayForward** | [Risky Boots](https://shantae.fandom.com/wiki/Risky_Boots) | [PT banner](/websites#private-trackers) |
 | **夏優Sieg (Xiayou Sieg)** | [A Street in Another World](https://www.pixiv.net/en/artworks/121786919) | Guide default link embed |
 | **柱 (youamo)** | [Antonina](https://42lab-us.sunborngame.com/index) | [Music banner](/music#server) |
 
@@ -105,6 +104,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **TROYCA**                  | [Waver Velvet](https://yande.re/post/show/551600)                                                  | Fate banner         |
 | **티비아래underdatv**       | [Smol Ina's diary](https://x.com/underdatv/status/1790765775349072046)                             | Favicon             |
 | **Walfie**                  | [Ninomae Ina’nis peek](https://x.com/ninomaeinanis/status/1339282161715691521)                     | General banner      |
+| **WayForward** | [Risky Boots](https://shantae.fandom.com/wiki/Risky_Boots) | [PT banner](/websites#private-trackers) |
 | **夕城 (Yuki)**          | [Hoshimachi Suisei meteor shower](https://xfolio.jp/en/portfolio/yukiyasa1/works/3491276)             | Default link embed  |
 
 == Glossary
