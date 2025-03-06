@@ -287,7 +287,6 @@ If you have recommendations for good sites in your native language or want to re
   - [AllWish](https://all-wish.me/home)
   - [Anime World](https://anime-world.co/)
   - [Anisaga](https://anisaga.org/)
-  - [Anplay](https://anplay.in/)
   - [Toonbaba](https://toonbaba.site/)
   - [ToonStream](https://toonstream.day/)
 - **DDL**
