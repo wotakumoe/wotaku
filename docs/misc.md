@@ -165,8 +165,9 @@ ___
 
 - **Info / News**
   - [Anime Corner](https://animecorner.me/) :s: [:x:](https://x.com/animecorner_ac)
-  - [Animenomics](https://news.animenomics.com/) :fm:
   - [Anime Freaks](https://times.abema.tv/anime) :fjp:
+  - [Anime News by AIR](https://x.com/AIR_News01) :x:
+  - [Animenomics](https://news.animenomics.com/) :fm:
   - [Anitrendz](https://anitrendz.net/news/) [:x:](https://x.com/anitrendz)
   - [AnimeTV](https://animetv-jp.net/) [:x:](https://x.com/animetv_jp)
   - [Eiga](https://anime.eiga.com/) :fjp:
