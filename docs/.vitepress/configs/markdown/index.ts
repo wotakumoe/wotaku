@@ -169,6 +169,35 @@ Rule34xxx: { content: `
   - Allows larger file uploads, up to 100MB.  
   - Searching is more user-friendly compared to Paheal.` },  
 Rule34Paheal: { content: "Categorizes content by characters, franchises, events (such as holidays), animations, and sound, but limits uploads to 10MB." },
+YACReader: { content: `  
+  - Has all the standard features, keeps last read history.  
+  - Doesn't have built-in library like MComix, only the history.  
+  - The bundled YACLibrary is excellent.  
+  - Has lots of customization.  
+  - Can act as a local manga server, like Calibre.  
+  - But the server client for [Android](https://play.google.com/store/apps/details?id=com.yacreader.yacreader&hl=en&gl=US) and [iOS](https://apps.apple.com/ca/app/yacreader-comic-reader/id635717885) is paid.` },  
+CDisplayEx: { content: `  
+  - Has a minimalist UI.  
+  - Fast and simple reader with good amount of configuration.  
+  - Has Nearest, Draft, linear and Lanczos (with various level) as scaling options.  
+  - Not FOSS and not maintained since the development team has marked it as complete.  
+  - No library view, only recent reads.` },  
+OpenComic: { content: `  
+  - Nice clean UI, has dark mode.  
+  - Has all the standard functions, including recent history.  
+  - Has long strip mode which is pretty smooth.  
+  - Has AniList tracking and controller support.  
+  - Supports Lanczos and other scaling methods.` },  
+MComix: { content: `  
+  - Minimal & responsive UI with good amount of customization.  
+  - Has a nice library option and remembers last reading options.  
+  - Has 3 scaling options: Normal, Bilinear (default) and Hyperbolic.` },  
+SumatraPDF: { content: `  
+  - Very simple program with all the standard features.  
+  - Doesn't have a library, but keeps track of recently opened files.  
+  - Includes vertical mode.  
+  - Can open a variety of ebook formats (PDF, epub, mobi, cbz/cbr, DjVu, XPS, CHM).` },  
+Yomikiru: { content: "Simple UI with all the basic settings. Has longstrip mode and AniList tracking." },
 
 }
 
