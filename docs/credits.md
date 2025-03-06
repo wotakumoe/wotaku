@@ -83,8 +83,8 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | --------------------------- | -------------------------------------------------------------------------------------------------- | ------------------- |
 | **advarcher**               | [Gawr Gura delivering Christmas gift](https://www.pixiv.net/en/artworks/114538066)                 | Christmas card 2024 |
 | **Chroneco**                | [Ninomae Ina’nis WAH](https://www.chroneco.moe/)                                                   | Button              |
-| **CLERO**                   | [Hololive EN plushies](https://x.com/CLERO_ART/status/1788894299007971680)                            | Home art          |
-| **Dr.Pigeon PhD** | [Smol Ame with Christmas hat](https://x.com/PhdPigeon/status/1869579249688231945) | [Favicon](/) |
+| **CLERO**                   | [Hololive EN plushies](https://x.com/CLERO_ART/status/1788894299007971680)                         | Home art          |
+| **Dr.Pigeon PhD**           | [Smol Ame with Christmas hat](https://x.com/PhdPigeon/status/1869579249688231945)                  | Favicon        |
 | **Gambe**                   | [Nero Claudius](https://www.pixiv.net/en/artworks/78042247)                                        | Fate banner         |
 | **胡麻乃りお (Gomano Rio)** | [Mash Kyrielight](https://www.pixiv.net/en/artworks/61127636)                                      | Fate banner         |
 | **はいべぎん (greatpengh)** | [Artifical Enemy](https://www.pixiv.net/en/artworks/51789252) | Software link embed |
@@ -100,11 +100,11 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Ninomae Ina’nis**         | [Ninomae Ina’nis WAHU WAHU](https://x.com/ninomaeinanis/status/1652829909218373632)                | Button              |
 | **Takashi Takeuchi**        | [Shiki Ryougi](https://danbooru.donmai.us/posts/2671155)                                           | Fate banner         |
 | **てのべ (Tenobe)**         | [Enkidu](https://www.pixiv.net/en/artworks/67902495)                                               | Fate banner         |
-| **Takeshi Obata** | [Moritaka Mashiro](https://konachan.com/post/show/71470) | Scanlation link embed |
+| **Takeshi Obata**           | [Moritaka Mashiro](https://konachan.com/post/show/71470)                                           | Scanlation link embed |
 | **TROYCA**                  | [Waver Velvet](https://yande.re/post/show/551600)                                                  | Fate banner         |
 | **티비아래underdatv**       | [Smol Ina's diary](https://x.com/underdatv/status/1790765775349072046)                             | Favicon             |
 | **Walfie**                  | [Ninomae Ina’nis peek](https://x.com/ninomaeinanis/status/1339282161715691521)                     | General banner      |
-| **WayForward** | [Risky Boots](https://shantae.fandom.com/wiki/Risky_Boots) | [PT banner](/websites#private-trackers) |
+| **WayForward**           | [Risky Boots](https://shantae.fandom.com/wiki/Risky_Boots)                                            | PT banner         |
 | **夕城 (Yuki)**          | [Hoshimachi Suisei meteor shower](https://xfolio.jp/en/portfolio/yukiyasa1/works/3491276)             | Default link embed  |
 
 == Glossary
