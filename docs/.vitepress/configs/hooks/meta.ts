@@ -14,7 +14,7 @@
  *  limitations under the License.
  */
 import type { HeadConfig, TransformContext } from 'vitepress'
-import { excludedFiles } from '../'
+import { excludedFiles } from '../constants'
 
 export function generateMeta(context: TransformContext, hostname: string) {
   const head: HeadConfig[] = []

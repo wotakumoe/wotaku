@@ -20,7 +20,7 @@ import { createContentLoader } from 'vitepress'
 import type { ContentData, SiteConfig } from 'vitepress'
 import { type SatoriOptions, satoriVue } from 'x-satori/vue'
 import { renderAsync } from '@resvg/resvg-js'
-import { excludedFiles } from '../'
+import { excludedFiles } from '../constants'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const __fonts = resolve(__dirname, '../fonts')

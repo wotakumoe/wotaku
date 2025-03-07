@@ -33,7 +33,7 @@ const safelist = Object.entries(colors).flatMap(([group, shades]) =>
 
 export default defineConfig({
   content: {
-    filesystem: ['.vitepress/configs/shared.ts']
+    filesystem: ['.vitepress/configs/constants.ts']
   },
   safelist,
   theme: {
