@@ -150,6 +150,7 @@ imgdanke: { content: "Optional for GUI, but doesn't support Pingo v1+ at the mom
 Misskey: { content: "Registrations are currently limited to Japan only." },
 Boorusphere: { content: "Repo is archived, but still works as of October 25, 2024." },
 VocaloidRadio: { content: "Stream URL (192kbps): https://vocaloid.radioca.st/stream" },
+xManager: { content: "Due to Spotify changes, it doesn't work well in a lot of regions. Switch to echo."},
 Nicotine: { content: "Direct peer-to-peer sharing network, primarily used for music." },
 Koisuru: { content: "Subtitle files only, you need to get the episodes from another source." },
 Spoilerplus: { content: "Image host is geo-restricted, so won't load pages in every region. Tested for the US." },
