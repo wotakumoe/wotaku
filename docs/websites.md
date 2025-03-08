@@ -59,7 +59,7 @@ outline: 1
 
 ::: details Donghua
 - [Animekhor](https://animekhor.org/) [:tg:](https://t.me/AnimeKhorOfficial)
-- [AnimeXin](https://animexin.vip/) <Badge type="tip" text="2" link="https://animexin.dev/" />  [:d:](https://discord.com/invite/9sGpnnzM)
+- [AnimeXin](https://animexin.dev/) [:d:](https://discord.com/invite/9sGpnnzM)
 - [Chiki Animation](https://chikianimation.com/) <Badge type="info" text="2D" /> [:tg:](https://t.me/Donghuanewofficial)
 - [Chiki Animation](https://chikianimation.net/) <Badge type="info" text="3D" /> [:tg:](https://t.me/Dimensional_Animation)
 - [COMICXY](https://comicxy.in/) [:d:](https://discord.gg/zmAy8YuVrg) [:tg:](https://telegram.me/chineseanimecoin)
