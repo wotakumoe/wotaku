@@ -195,7 +195,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [Like Manga](https://likemanga.in)
 - [Comic Fans](https://www.comicfans.io/) <Badge type="info" text="Manhua" /><tooltip>Backup of Bilibili Comics</tooltip>
 - [Manga Here](https://www.mangahere.cc/) <Badge type="info" text="2" link="https://fanfox.net/" />
-- [Manganato](https://manganato.com/) <Badge type="info" text="2" link="https://mangakakalot.com/" /> <Badge type="info" text="Alt" link="https://akari-psi.vercel.app/" />
+- [MangaKakalot](https://www.mangakakalot.gg/) <Badge type="info" text="Proxies" link="https://rentry.org/wotaxy#mangakakalot" /> <Badge type="info" text="Alt" link="https://akari-psi.vercel.app/" />
 
 :::
 
