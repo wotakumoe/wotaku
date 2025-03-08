@@ -246,7 +246,6 @@ If you have recommendations for good sites in your native language or want to re
 - [Melon-Subs](https://melon-subs.de/) :ddl:
 - [NanaOne](https://nanaone.net/) :ddl:
 - [OtakuKingdom Subs](https://www.otakukingdom-subs.de/) :ddl:
-- [S.to](https://s.to/) <Badge type="tip" text="2" link="https://serienstream.to/" /> :strm:
 
 ### Manga
 - [ComicMafia](https://comicmafia.to/?s=manga) :ddl::host:
