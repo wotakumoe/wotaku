@@ -34,7 +34,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [Batoto](https://discord.gg/batoto)
 - [Boredom Society Scanlations](https://discord.gg/NNS8cRR)
 - [Circle](https://discord.gg/85KtgSjkJJ)
-- [ComicK](https://discord.gg/comick)
+- [Comick](https://discord.gg/comick)
 - [Danke fürs Lesen](https://discord.gg/nxkDPvDhgv)
 - [DigimonBasic](https://discord.gg/B3RXtnXRSG)
 - [Doujin Cafe](https://discord.gg/doujincafe)
