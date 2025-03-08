@@ -96,7 +96,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 ### Local
 - [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) :fm::cs:
 - [ReadEra](https://play.google.com/store/apps/details?id=org.readera) :fm::cs:
-- [Lithium: EPUB Reader](https://play.google.com/store/apps/details?id=com.faultexception.reader&hl=en&gl=US) :cs:
+- [Lithium: EPUB Reader](https://www.apkmirror.com/apk/faultexception/lithium-epub-reader/) :cs:
 - [Book's Story](https://github.com/Acclorite/book-story)
 
 ## Trackers
