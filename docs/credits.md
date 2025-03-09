@@ -35,9 +35,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **BuiBui** | [Towa meme laugh](https://x.com/k_e_cttp/status/1788708044228223415) | iOS Extension repos link embed |
 | **Capcom** | [Phoenix Wright](https://news.capcomusa.com/lets/browse/phoenix-wright-ace-attorney-trilogy-dev-column-2-the-art-of-the-turnabout) | [Legal banner](/websites#legal) |
 | **ChristieDA** | [Headphone Anime Girl Render](https://www.deviantart.com/christieda/art/Headphone-Anime-Girl-Render-611521170) | [Audio glossary banner](/glossary/audio#audio-file-1) |
-| **돌만 (Dollman)** | [𝗧𝗔𝗞 [𝗺𝗼𝗰𝗵𝗶𝗺𝗼𝗰𝗵𝗶]🍡](https://x.com/TAK_DRDR/status/1827994397784657986) | Software link embed |
-| **Dr.Pigeon PhD** | [Smol Ame waving](https://x.com/PhdPigeon/status/1884043982680014972) | [Favicon](/) |
-| **Dr.Pigeon PhD** | [Smol Ame in winter jacket](https://x.com/PhdPigeon/status/1866313003119030404) | [Home art](/) |
+| **돌만 (Dollman)** | [𝗧𝗔𝗞 [𝗺𝗼𝗰𝗵𝗶𝗺𝗼𝗰𝗵𝗶] :dango:](https://x.com/TAK_DRDR/status/1827994397784657986) | Software link embed |
 | **Erik Larsen** | [Spawn](https://antiheroes.fandom.com/wiki/Spawn) | [Comics banner](/websites#comics) |
 | **Eyeye** | [Futaba-chan](https://www.pixiv.net/en/artworks/115469094) | FAQs link embed |
 | **Fari** | [V](https://medibang.com/picture/142307130449401690015558098/) | [Music banner](/music#info-sites) |
@@ -57,6 +55,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Kyoto Animation** | [Tsumugi Kotobuki](https://konachan.com/post/show/169507) | [Audio glossary banner](/glossary/audio#basic-terms) |
 | **Lacie Walker** | [Eto Yoshimura](https://www.zerochan.net/1880948) | [4chan banner](/qs#_4chan) |
 | **megamiceto** | [Brazilian miku](https://x.com/megamiceto/status/1826372184731955667) | Non-English link embed |
+| **MeLonPanz** | [sharkkkkkk !!!](https://www.pixiv.net/en/artworks/86516526) | [Favicon](/) |
 | **Mogudan** | [Mogudan Illust Works](https://www.fakku.net/hentai/mogudan-illust-works-english) | [NSFW banners](/nsfw) |
 | **neggo** | [extra tips](https://x.com/neggoartz/status/1834776522801971603) | Torrent link embed |
 | **pantsu_ripper** | [lain/rei](https://x.com/pantsu_ripper/status/1575844099688497153) | Squidify link embed |
@@ -64,6 +63,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **れんた (Renta)** | [Defoko birthday festival!](https://www.pixiv.net/en/artworks/41424418) | [Audio glossary banner](/glossary/audio#hardware-1) |
 | **Ring** | [Mahō Shōjo](https://www.pixiv.net/en/artworks/94104639) | Merch link embed |
 | **Saeki Yahiro** | [Hoshimachi Suisei Profile Art](https://hololive.hololivepro.com/en/talents/hoshimachi-suisei/) | [Vtuber banner](/misc#vtuber) |
+| **さめあんこ (Sameanko)** | [:cat: :shark: :bathtub: :sparkles:](https://www.pixiv.net/en/artworks/93131457) | [Home art](/) |
 | **SHAFT** | [Ene](https://kagerouproject.fandom.com/wiki/Ene#Anime) | [Music banner](/music#download) |
 | **Taizo** | [The sound of the forest, the smell of paper.](https://www.pixiv.net/en/artworks/120581878) | Japan link embed |
 | **tencross** | [Ainz Ooal Gown](https://vsbattles.fandom.com/wiki/Ainz_Ooal_Gown) | [Novel banner](/websites#novels) |
@@ -84,6 +84,8 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **advarcher**               | [Gawr Gura delivering Christmas gift](https://www.pixiv.net/en/artworks/114538066)                 | Christmas card 2024 |
 | **Chroneco**                | [Ninomae Ina’nis WAH](https://www.chroneco.moe/)                                                   | Button              |
 | **CLERO**                   | [Hololive EN plushies](https://x.com/CLERO_ART/status/1788894299007971680)                         | Home art          |
+| **Dr.Pigeon PhD** | [Smol Ame in winter jacket](https://x.com/PhdPigeon/status/1866313003119030404) | [Home art](/) |
+| **Dr.Pigeon PhD** | [Smol Ame waving](https://x.com/PhdPigeon/status/1884043982680014972) | [Favicon](/) |
 | **Dr.Pigeon PhD**           | [Smol Ame with Christmas hat](https://x.com/PhdPigeon/status/1869579249688231945)                  | Favicon        |
 | **Gambe**                   | [Nero Claudius](https://www.pixiv.net/en/artworks/78042247)                                        | Fate banner         |
 | **胡麻乃りお (Gomano Rio)** | [Mash Kyrielight](https://www.pixiv.net/en/artworks/61127636)                                      | Fate banner         |

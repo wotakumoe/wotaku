@@ -9,7 +9,7 @@ hero:
     title: Mihon & Aniyomi Extensions
     link: /guides/ext/mihon
   image:
-    src: \asset\smolame.png
+    src: \asset\same.png
     alt: Wotaku
   actions:
     - theme: brand
