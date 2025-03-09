@@ -51,8 +51,8 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Kazuki Takahashi** | [Yami Yugi](https://www.zerochan.net/7739) | [Manga banner](/qs#manga) |
 | **konijnsate** | [Moiré vs Non-Moiré Pattern Comparison](https://tips.clip-studio.com/en-us/articles/3489) | [Manga glossary example](/glossary/manga#artist-side) |
 | **Kyoto Animation** | [Mio Akiyama](https://yande.re/post/show/255575) | [Music banner](/music#communities) |
-| **Kyoto Animation** | [Mio Akiyama](https://konachan.net/post/show/49838) | [Music banner](/music#phone) |
-| **Kyoto Animation** | [Tsumugi Kotobuki](https://konachan.com/post/show/169507) | [Audio glossary banner](/glossary/audio#basic-terms) |
+| ^^ | [Mio Akiyama](https://konachan.net/post/show/49838) | [Music banner](/music#phone) |
+| ^^ | [Tsumugi Kotobuki](https://konachan.com/post/show/169507) | [Audio glossary banner](/glossary/audio#basic-terms) |
 | **Lacie Walker** | [Eto Yoshimura](https://www.zerochan.net/1880948) | [4chan banner](/qs#_4chan) |
 | **megamiceto** | [Brazilian miku](https://x.com/megamiceto/status/1826372184731955667) | Non-English link embed |
 | **MeLonPanz** | [sharkkkkkk !!!](https://www.pixiv.net/en/artworks/86516526) | [Favicon](/) |
@@ -84,9 +84,9 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **advarcher**               | [Gawr Gura delivering Christmas gift](https://www.pixiv.net/en/artworks/114538066)                 | Christmas card 2024 |
 | **Chroneco**                | [Ninomae Ina’nis WAH](https://www.chroneco.moe/)                                                   | Button              |
 | **CLERO**                   | [Hololive EN plushies](https://x.com/CLERO_ART/status/1788894299007971680)                         | Home art          |
-| **Dr.Pigeon PhD** | [Smol Ame in winter jacket](https://x.com/PhdPigeon/status/1866313003119030404) | [Home art](/) |
-| **Dr.Pigeon PhD** | [Smol Ame waving](https://x.com/PhdPigeon/status/1884043982680014972) | [Favicon](/) |
-| **Dr.Pigeon PhD**           | [Smol Ame with Christmas hat](https://x.com/PhdPigeon/status/1869579249688231945)                  | Favicon        |
+| **Dr.Pigeon PhD** | [Smol Ame in winter jacket](https://x.com/PhdPigeon/status/1866313003119030404) | Home art |
+| ^^ | [Smol Ame waving](https://x.com/PhdPigeon/status/1884043982680014972) | Favicon |
+| ^^           | [Smol Ame with Christmas hat](https://x.com/PhdPigeon/status/1869579249688231945)                  | Favicon        |
 | **Gambe**                   | [Nero Claudius](https://www.pixiv.net/en/artworks/78042247)                                        | Fate banner         |
 | **胡麻乃りお (Gomano Rio)** | [Mash Kyrielight](https://www.pixiv.net/en/artworks/61127636)                                      | Fate banner         |
 | **はいべぎん (greatpengh)** | [Artifical Enemy](https://www.pixiv.net/en/artworks/51789252) | Software link embed |
@@ -99,7 +99,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **しらび (Shirabi)**        | [Artoria Pendragon](https://www.pixiv.net/en/artworks/60495690)                                    | Fate banner         |
 | **森倉円 (Morikura En)**    | [Kizuna Ai Profile Art](https://en.namu.wiki/w/%ED%82%A4%EC%A6%88%EB%82%98%20%EC%95%84%EC%9D%B4)   | Vtuber banner       |
 | **Ninomae Ina’nis**         | [Ninomae Ina’nis reading](https://x.com/ninomaeinanis/status/1340047328963510273)                  | Glossary banner     |
-| **Ninomae Ina’nis**         | [Ninomae Ina’nis WAHU WAHU](https://x.com/ninomaeinanis/status/1652829909218373632)                | Button              |
+| ^^         | [Ninomae Ina’nis WAHU WAHU](https://x.com/ninomaeinanis/status/1652829909218373632)                | Button              |
 | **Takashi Takeuchi**        | [Shiki Ryougi](https://danbooru.donmai.us/posts/2671155)                                           | Fate banner         |
 | **てのべ (Tenobe)**         | [Enkidu](https://www.pixiv.net/en/artworks/67902495)                                               | Fate banner         |
 | **Takeshi Obata**           | [Moritaka Mashiro](https://konachan.com/post/show/71470)                                           | Scanlation link embed |
