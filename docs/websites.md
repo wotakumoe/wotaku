@@ -40,7 +40,7 @@ outline: 1
 
 - [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) :mingcute-server-fill::mingcute-shovel-fill::mingcute-user-2-fill: ==AllManga==  
 - [Animotvslash](https://www.animotvslash.org/search) :mingcute-server-fill: ==Animotvslash==  
-- [Watch Cartoon Online](https://www.wco.tv/) :mingcute-server-fill::mingcute-user-2-fill: <Badge text="Proxiess" link="https://rentry.org/wotaxy#watch-cartoon-online" /> ==WCO==
+- [Watch Cartoon Online](https://www.wco.tv/) :mingcute-server-fill::mingcute-user-2-fill: <Badge text="Proxies" link="https://rentry.org/wotaxy#watch-cartoon-online" /> ==WCO==
 
 ### Low Res
 - [Anime Defenders](https://animedefenders.me/) :mingcute-user-2-fill: <Badge type="danger" text="18+" />
