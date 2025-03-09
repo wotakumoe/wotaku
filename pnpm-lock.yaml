@@ -87,9 +87,6 @@ importers:
         specifier: ^3.24.1
         version: 3.24.1
     devDependencies:
-      '@biomejs/biome':
-        specifier: ^1.9.4
-        version: 1.9.4
       '@iconify-json/ic':
         specifier: ^1.2.2
         version: 1.2.2

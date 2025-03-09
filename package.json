@@ -45,7 +45,6 @@
     "zod": "^3.24.1"
   },
   "devDependencies": {
-    "@biomejs/biome": "^1.9.4",
     "@iconify-json/ic": "^1.2.2",
     "@iconify-json/icon-park-outline": "^1.2.2",
     "@iconify-json/iconoir": "^1.2.6",

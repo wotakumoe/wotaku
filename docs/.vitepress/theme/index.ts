@@ -13,27 +13,28 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
  */
-import type { Theme } from 'vitepress'
-import DefaultTheme from 'vitepress/theme'
-import '@nolebase/vitepress-plugin-git-changelog/client/style.css'
-import './style.css'
-import FloatingVue from 'floating-vue'
-import { enhanceAppWithTabs } from 'vitepress-plugin-tabs/client'
-import { NolebaseGitChangelogPlugin } from '@nolebase/vitepress-plugin-git-changelog/client'
-import { NolebasePagePropertiesPlugin } from '@nolebase/vitepress-plugin-page-properties/client'
-import '@nolebase/vitepress-plugin-enhanced-readabilities/client/style.css'
-import '@nolebase/vitepress-plugin-page-properties/client/style.css'
-import '@nolebase/vitepress-plugin-git-changelog/client/style.css'
-import 'floating-vue/dist/style.css'
-import { createMediumZoomProvider } from './composables'
-import Button from './components/Button.vue'
-import Tooltip from './components/Tooltip.vue'
-import Authors from './components/Authors.vue'
-import Components from '@fmhy/components'
-import 'virtual:uno.css'
-import Feedback from './components/Feedback.vue'
-import Layout from './Layout.vue'
-import PreferenceRadio from './components/PreferenceRadio.vue'
+import type { Theme } from "vitepress";
+import DefaultTheme from "vitepress/theme";
+import "@nolebase/vitepress-plugin-git-changelog/client/style.css";
+import "./style.css";
+import FloatingVue from "floating-vue";
+import { enhanceAppWithTabs } from "vitepress-plugin-tabs/client";
+import { NolebaseGitChangelogPlugin } from "@nolebase/vitepress-plugin-git-changelog/client";
+import { NolebasePagePropertiesPlugin } from "@nolebase/vitepress-plugin-page-properties/client";
+import "@nolebase/vitepress-plugin-enhanced-readabilities/client/style.css";
+import "@nolebase/vitepress-plugin-page-properties/client/style.css";
+import "@nolebase/vitepress-plugin-git-changelog/client/style.css";
+import "floating-vue/dist/style.css";
+import { createMediumZoomProvider } from "./composables/medium-zoom";
+import { createOpProvider } from "./composables/op";
+import Button from "./components/Button.vue";
+import Tooltip from "./components/Tooltip.vue";
+import Authors from "./components/Authors.vue";
+import Components from "@fmhy/components";
+import "virtual:uno.css";
+import Feedback from "./components/Feedback.vue";
+import Layout from "./Layout.vue";
+import PreferenceRadio from "./components/PreferenceRadio.vue";
 import "./styles/tooltip-hint.css";
 
 export default {
@@ -42,43 +43,44 @@ export default {
   enhanceApp({ app, router, siteData }) {
     app.use(FloatingVue, {
       themes: {
-        'hint': {
-          $extend: 'tooltip',
+        hint: {
+          $extend: "tooltip",
           delay: { show: 0, hide: 0 },
           html: true,
         },
-        'vp-tooltip': {
-          $extend: 'tooltip',
+        "vp-tooltip": {
+          $extend: "tooltip",
           $resetCss: true,
-          triggers: ['click', 'touch'],
-          autoHide: true
-        }
-      }
-    })
-    enhanceAppWithTabs(app)
-    app.component('Button', Button)
-    app.component('Authors', Authors)
-    app.component('Tooltip', Tooltip)
-    app.component('Feedback', Feedback)
-    app.component('PreferenceRadio', PreferenceRadio)
-    createMediumZoomProvider(app, router)
-    app.use(Components)
+          triggers: ["click", "touch"],
+          autoHide: true,
+        },
+      },
+    });
+    enhanceAppWithTabs(app);
+    app.component("Button", Button);
+    app.component("Authors", Authors);
+    app.component("Tooltip", Tooltip);
+    app.component("Feedback", Feedback);
+    app.component("PreferenceRadio", PreferenceRadio);
+    createMediumZoomProvider(app, router);
+    createOpProvider(app);
+    app.use(Components);
     app.use(NolebaseGitChangelogPlugin, {
       commitsRelativeTime: true,
       hideChangelogHeader: true,
       mapAuthors: [
         {
-          name: 'taskylizard',
-          username: 'taskylizard',
-          avatar: 'https://github.com/taskylizard.png'
+          name: "taskylizard",
+          username: "taskylizard",
+          avatar: "https://github.com/taskylizard.png",
         },
         {
-          name: 'Duck',
-          username: 'woducku',
-          avatar: 'https://github.com/woducku.png'
-        }
-      ]
-    })
+          name: "Duck",
+          username: "woducku",
+          avatar: "https://github.com/woducku.png",
+        },
+      ],
+    });
     app.use(
       NolebasePagePropertiesPlugin<{ tags: string[]; progress: number }>(),
       [
@@ -86,45 +88,45 @@ export default {
           locales: {
             en: [
               {
-                key: 'tags',
-                type: 'tags',
-                title: 'Tags'
+                key: "tags",
+                type: "tags",
+                title: "Tags",
               },
               {
-                key: 'createdAt',
-                type: 'datetime',
-                title: 'Created at',
+                key: "createdAt",
+                type: "datetime",
+                title: "Created at",
                 formatAsFrom: true,
-                dateFnsLocaleName: 'enUS'
+                dateFnsLocaleName: "enUS",
               },
               {
-                key: 'updatedAt',
-                type: 'datetime',
-                title: 'Updated at',
+                key: "updatedAt",
+                type: "datetime",
+                title: "Updated at",
                 formatAsFrom: true,
-                dateFnsLocaleName: 'enUS'
+                dateFnsLocaleName: "enUS",
               },
               {
-                key: 'wordsCount',
-                type: 'dynamic',
-                title: 'Word count',
+                key: "wordsCount",
+                type: "dynamic",
+                title: "Word count",
                 options: {
-                  type: 'wordsCount'
-                }
+                  type: "wordsCount",
+                },
               },
               {
-                key: 'readingTime',
-                type: 'dynamic',
-                title: 'Reading time',
+                key: "readingTime",
+                type: "dynamic",
+                title: "Reading time",
                 options: {
-                  type: 'readingTime',
-                  dateFnsLocaleName: 'enUS'
-                }
-              }
-            ]
-          }
-        }
+                  type: "readingTime",
+                  dateFnsLocaleName: "enUS",
+                },
+              },
+            ],
+          },
+        },
       ]
-    )
-  }
-} satisfies Theme
+    );
+  },
+} satisfies Theme;
