@@ -221,72 +221,85 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 ### Online
 
-- [Houdoku](https://houdoku.netlify.app/) :win::app::lin: [:gh:](https://github.com/xgi/houdoku)
-- [Mangayomi](https://github.com/kodjodevf/mangayomi) :win::app::lin: [:e:](/guides/ext/mangayomi)
-- [Suwayomi](https://github.com/Suwayomi/Suwayomi-Server) :win::app::lin:
-- [Cubari](https://cubari.moe/) :web: <Badge type="info" text="Alt" link="https://reader.manga.guru/" />
-- [MangaDex](https://github.com/darylhjd/mangadesk) :win::app::lin::cmd:
-- [Manga-tui](https://github.com/josueBarretogit/manga-tui) :app::lin::cmd:
-- [AnymeX](https://anymex.vercel.app/) :win::app::lin: [:gh:](https://github.com/RyanYuuki/AnymeX) [:e:](/guides/ext/mangayomi)
+| Software   | Platform            |
+|------------|---------------------|
+| [Houdoku](https://houdoku.netlify.app/) [:gh:](https://github.com/xgi/houdoku) | :win::app::lin: |
+| [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi) | :win::app::lin: |
+| [Suwayomi](https://github.com/Suwayomi/Suwayomi-Server) | :win::app::lin: |
+| [Cubari](https://cubari.moe/) <Badge type="info" text="Alt" link="https://reader.manga.guru/" /> | :web: |
+| [MangaDex](https://github.com/darylhjd/mangadesk) | :win::app::lin::cmd: |
+| [Manga-tui](https://github.com/josueBarretogit/manga-tui) | :app::lin::cmd: |
+| [AnymeX](https://anymex.vercel.app/) [:gh:](https://github.com/RyanYuuki/AnymeX) [:e:](/guides/ext/mangayomi) | :win::app::lin: |
 
 ### Local
 
-- [YACReader](https://www.yacreader.com/) :win::app::lin: [:gh:](https://github.com/YACReader/yacreader) ==YACReader==
-- [CDisplayEx](https://www.cdisplayex.com/) :win::cs: ==CDisplayEx==
-- [Yomikiru](https://github.com/mienaiyami/yomikiru) :win::lin: ==Yomikiru==
-- [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) :win:
-- [OpenComic](https://github.com/ollm/OpenComic) :win::app::lin: ==OpenComic==
-- [MComix](https://sourceforge.net/projects/mcomix/files/) :win::lin: ==MComix==
-- [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) :win: [:gh:](https://github.com/sumatrapdfreader/sumatrapdf) ==SumatraPDF==
-- [ComicRack CE](https://github.com/maforget/ComicRackCE) :win:
+| Software | Platform |
+|----------|---------|
+| [YACReader](https://www.yacreader.com/) [:gh:](https://github.com/YACReader/yacreader) ==YACReader== | :win::app::lin: |
+| [CDisplayEx](https://www.cdisplayex.com/) :cs: ==CDisplayEx== | :win: |
+| [Yomikiru](https://github.com/mienaiyami/yomikiru) ==Yomikiru== | :win::lin: |
+| [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) | :win: |
+| [OpenComic](https://github.com/ollm/OpenComic) ==OpenComic== | :win::app::lin: |
+| [MComix](https://sourceforge.net/projects/mcomix/files/) ==MComix== | :win::lin: |
+| [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) [:gh:](https://github.com/sumatrapdfreader/sumatrapdf) ==SumatraPDF== | :win: |
+| [ComicRack CE](https://github.com/maforget/ComicRackCE) | :win: |
 
 
 ## Novel Readers
 
-- [Calibre](https://calibre-ebook.com/) :win::app::lin: [:gh:](https://github.com/kovidgoyal/calibre)
-- [Freda](https://www.turnipsoft.com/freda/) :win::cs:
-- [Koodo Reader](https://www.koodoreader.com/) :win::app::lin: [:gh:](https://github.com/koodo-reader/koodo-reader)
-- [KOReader](https://koreader.rocks/) :lin::material-symbols-chrome-reader-mode-outline: [:gh:](https://github.com/koreader/koreader)
-  - [rakuyomi](https://github.com/hanatsumi/rakuyomi)
-- [Okular](https://okular.kde.org/) :win::lin:
-- [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) :win: [:gh:](https://github.com/sumatrapdfreader/sumatrapdf)
-- [Thorium reader](https://www.edrlab.org/software/thorium-reader/) :win::app::lin: [:gh:](https://github.com/edrlab/thorium-reader)
-- [Yomikiru](https://github.com/mienaiyami/yomikiru) :win::lin:
+| Software | Platform |
+|----------|---------|
+| [Calibre](https://calibre-ebook.com/) [:gh:](https://github.com/kovidgoyal/calibre) | :win::app::lin: |
+| [Freda](https://www.turnipsoft.com/freda/) | :win::cs: |
+| [Koodo Reader](https://www.koodoreader.com/) [:gh:](https://github.com/koodo-reader/koodo-reader) | :win::app::lin: |
+| [KOReader](https://koreader.rocks/) [:gh:](https://github.com/koreader/koreader) <Badge type="tip" text="rakuyomi" link="https://github.com/hanatsumi/rakuyomi" /> | :lin::material-symbols-chrome-reader-mode-outline: |
+| [Okular](https://okular.kde.org/) | :win::lin: |
+| [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) [:gh:](https://github.com/sumatrapdfreader/sumatrapdf) | :win: |
+| [Thorium reader](https://www.edrlab.org/software/thorium-reader/) [:gh:](https://github.com/edrlab/thorium-reader) | :win::app::lin: |
+| [Yomikiru](https://github.com/mienaiyami/yomikiru) | :win::lin: |
 
 
 ## Downloaders
 
 ### Anime
 
-- [Hakuneko](https://github.com/manga-download/haruneko) :win::app::lin: <Badge type="tip" text="Old" link="https://github.com/manga-download/hakuneko" /> ==Hakuneko==
-- [ADL](https://github.com/RaitaroH/adl) :win::lin::cmd:
-- [Crunchyroll-Downloader](https://github.com/Crunchy-DL/Crunchy-Downloader) :win:
-  - [Keydive](https://github.com/hyugogirubato/KeyDive)
-- [Anime Downloader NX](https://github.com/anidl/multi-downloader-nx) :win::app::lin::cmd:
-- [Yoimi](https://github.com/NyaShinn1204/Yoimi) :simple-icons-python:
+| Software | Platform |
+|----------|---------|
+| [Hakuneko](https://github.com/manga-download/haruneko) <Badge type="tip" text="Old" link="https://github.com/manga-download/hakuneko" /> ==Hakuneko== | :win::app::lin: |
+| [ADL](https://github.com/RaitaroH/adl) | :win::lin::cmd: |
+| [Crunchyroll-Downloader](https://github.com/Crunchy-DL/Crunchy-Downloader) <Badge type="tip" text="Keydive" link="https://github.com/hyugogirubato/KeyDive" /> | :win: |
+| [Anime Downloader NX](https://github.com/anidl/multi-downloader-nx) | :win::app::lin::cmd: |
+| [Yoimi](https://github.com/NyaShinn1204/Yoimi) | :simple-icons-python: |
 
 ### Manga
 
-- [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) :win:
-- [Red Squirrel's Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader) :win::lin::cs:
-- [Hakuneko](https://github.com/manga-download/haruneko) :win::app::lin: <Badge type="tip" text="Old" link="https://github.com/manga-download/hakuneko" /> ==Hakuneko==
-- [MangaL](https://github.com/metafates/mangal) :win::app::lin::cmd:
-- [HDoujin Downloader](https://doujindownloader.com/) :win::cs: ==HDoujin==
+| Software | Platform |
+|----------|---------|
+| [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) | :win: |
+| [Red Squirrel's Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader) :cs: | :win::lin: |
+| [Hakuneko](https://github.com/manga-download/haruneko) <Badge type="tip" text="Old" link="https://github.com/manga-download/hakuneko" /> ==Hakuneko== | :win::app::lin: |
+| [MangaL](https://github.com/metafates/mangal) | :win::app::lin::cmd: |
+| [HDoujin Downloader](https://doujindownloader.com/) :cs: ==HDoujin== | :win: |
+
 
 ::: details More
-- [Clip Studio Reader](https://greasyfork.org/en/scripts/481576-clip-studio-reader-downloader) :js: [:gh:](https://github.com/MrCocoNuat/clip-studio-reader-downloader)
-- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) :win::app:
-- [Mangadex Downloader](https://github.com/mansuf/mangadex-downloader) :win::app::lin::cmd:
-- [Manga Scraper](https://github.com/YofaGh/MangaScraper) :win::app::lin::cmd:
-- [Manga downloader](https://github.com/xuzhengyi1995/Manga_downloader) :cr: <Badge type="info" text="Raw"/>
-- [Getjump](https://github.com/eggplants/getjump) :cmd: <Badge type="info" text="Raw"/>
+| Software | Platform |
+|----------|---------|
+| [Clip Studio Reader](https://greasyfork.org/en/scripts/481576-clip-studio-reader-downloader) [:gh:](https://github.com/MrCocoNuat/clip-studio-reader-downloader) | :js: |
+| [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) | :win::app: |
+| [Mangadex Downloader](https://github.com/mansuf/mangadex-downloader) | :win::app::lin::cmd: |
+| [Manga Scraper](https://github.com/YofaGh/MangaScraper) | :win::app::lin::cmd: |
+| [Manga downloader](https://github.com/xuzhengyi1995/Manga_downloader) <Badge type="info" text="Raw"/> | :cr: |
+| [Getjump](https://github.com/eggplants/getjump) <Badge type="info" text="Raw"/> | :cmd: |
 
 :::
 
 ### Novels
-- [WebtoEpub](https://github.com/dteviot/WebToEpub) :ff::cr:
-- [Epublifier](https://github.com/maoserr/epublifier) :ff::cr:
-- [Lightnovel Crawler](https://github.com/dipu-bd/lightnovel-crawler) :win::app::lin:
+| Software | Platform |
+|----------|---------|
+| [WebtoEpub](https://github.com/dteviot/WebToEpub) | :ff::cr: |
+| [Epublifier](https://github.com/maoserr/epublifier) | :ff::cr: |
+| [Lightnovel Crawler](https://github.com/dipu-bd/lightnovel-crawler) | :win::app::lin: |
 
 
 ## Anime Tools
@@ -309,18 +322,20 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 
 ## Manga Tools
-- [ACBR](https://github.com/binarynonsense/comic-book-reader) :win::lin:
-- [CBconvert](https://github.com/gen2brain/cbconvert) :win::app::lin:
-- [CbxConverter](https://tomeko.net/software/CbxConverter/) :win: ==CbxConverter==
-- [ComicbookArchiveToolbox](https://degoedel.github.io/ComicbookArchiveToolbox/) :win: [:gh:](https://degoedel.github.io/ComicbookArchiveToolbox/)
-- [ComicTagger](https://github.com/comictagger/comictagger) :win::app::lin:
-- [DarkThumbs](https://github.com/fire-eggs/DarkThumbs) :win:
-- [Icaros](https://www.videohelp.com/software/Icaros) :win::cs:
-- [MangaJaNai](https://github.com/the-database/MangaJaNai) <Badge type="info" text="GUI" link="https://github.com/the-database/MangaJaNaiConverterGui" />
-- [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager) :win::app::lin:
-- [SyncYomi](https://github.com/syncyomi/syncyomi) :win::app::lin::mdi-docker:
-- [XpdfReader](https://www.xpdfreader.com/index.html) :win::lin:
-  - [Poppler](https://poppler.freedesktop.org/) :win::app::lin::bsd: [:gl:](https://gitlab.freedesktop.org/poppler/poppler)
+| Software | Platform |
+|----------|---------|
+| [ACBR](https://github.com/binarynonsense/comic-book-reader) | :win::lin: |
+| [CBconvert](https://github.com/gen2brain/cbconvert) | :win::app::lin: |
+| [CbxConverter](https://tomeko.net/software/CbxConverter/) ==CbxConverter== | :win: |
+| [ComicbookArchiveToolbox](https://degoedel.github.io/ComicbookArchiveToolbox/) [:gh:](https://degoedel.github.io/ComicbookArchiveToolbox/) | :win: |
+| [ComicTagger](https://github.com/comictagger/comictagger) | :win::app::lin: |
+| [DarkThumbs](https://github.com/fire-eggs/DarkThumbs) | :win: |
+| [Icaros](https://www.videohelp.com/software/Icaros) :cs: | :win: |
+| [MangaJaNai](https://github.com/the-database/MangaJaNai) <Badge type="info" text="GUI" link="https://github.com/the-database/MangaJaNaiConverterGui" /> | :win: |
+| [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager) | :win::app::lin: |
+| [SyncYomi](https://github.com/syncyomi/syncyomi) | :win::app::lin::mdi-docker: |
+| [XpdfReader](https://www.xpdfreader.com/index.html) | :win::lin: |
+| [Poppler](https://poppler.freedesktop.org/) [:gl:](https://gitlab.freedesktop.org/poppler/poppler) | :win::app::lin::bsd: |
 - :more: [Image Tools](/tools#image-tools)
 - :more: [Manga image editing guide](/guides/manga/imagedit)
 
