@@ -550,6 +550,7 @@ ___
 - [Animelayer](http://animelayer.ru/) :mag:
 - [AnimeLIB](https://anilib.me/)
 - [AnimeStars](https://animestars.org/) <Badge type="info" text="Aggregator" />
+- [Animevost](https://animevost.org/)
 - [Anisun](https://anisun.vercel.app/en) [:gh:](https://github.com/notwindstone/anisun)
 - [ANIXART](https://anixart-tv.org/) <Badge type="info" text="Aggregator" />
 - [Averlist](https://averlist.ru/) [:gh:](https://github.com/Averito/Averlist)
