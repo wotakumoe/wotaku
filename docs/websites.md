@@ -40,7 +40,7 @@ outline: 1
 
 - [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) :mingcute-server-fill::mingcute-shovel-fill::mingcute-user-2-fill: ==AllManga==  
 - [Animotvslash](https://www.animotvslash.org/search) :mingcute-server-fill: ==Animotvslash==  
-- [Watch Cartoon Online](https://www.wco.tv/) :mingcute-server-fill::mingcute-user-2-fill: <Badge text="2" link="https://www.wcofun.net/" /> <Badge text="3" link="https://www.wcostream.tv/" /> <Badge text="4" link="https://www.wcoforever.tv/" /> ==WCO== 
+- [Watch Cartoon Online](https://www.wco.tv/) :mingcute-server-fill::mingcute-user-2-fill: <Badge text="Proxiess" link="https://rentry.org/wotaxy#watch-cartoon-online" /> ==WCO==
 
 ### Low Res
 - [Anime Defenders](https://animedefenders.me/) :mingcute-user-2-fill: <Badge type="danger" text="18+" />
@@ -98,7 +98,7 @@ outline: 1
 - [Anime Tosho](https://animetosho.org/)
 - [Anirena](https://www.anirena.com/)
 - [Shana Project](https://www.shanaproject.com/)
-- [Tokyo Toshokan](https://www.tokyotosho.info/) <Badge type="info" text="2" link="http://tokyotosho.se/" /> <Badge type="info" text="3" link="http://tokyo-tosho.net/" />
+- [Tokyo Toshokan](https://www.tokyotosho.info/) <Badge type="info" text="2" link="http://tokyo-tosho.net/" />
 
 
 ### Direct Download
