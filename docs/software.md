@@ -101,18 +101,17 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 
 ## Trackers
 
-- **AniList**
-  - [AL-Chan](https://play.google.com/store/apps/details?id=com.zen.alchan) :cs:
-  - [AniHyou](https://github.com/axiel7/AniHyou-android)
-  - [Kurumi](https://github.com/subrotokumar/kurumi)
-  - [Otraku](https://github.com/lotusprey/otraku)
-- **MyAnimeList**
-  - [DailyAL](https://github.com/JICA98/DailyAL)
-  - [MoeList](https://moelist.net/) [:gh:](https://github.com/axiel7/MoeList)
-  - [Risuto](https://github.com/lexwilliam/Risuto)
-- **Others**
-  - [Kitsune](https://github.com/Drumber/Kitsune) :k:
-  - [OpenComicVine](https://github.com/proninyaroslav/OpenComicVine) <Badge type="info" text="ComicVine" />
+| Tracker       | App |
+|---------------|-------------|
+| **AniList**   | [AL-Chan](https://play.google.com/store/apps/details?id=com.zen.alchan) :cs: |
+| ^^           | [AniHyou](https://github.com/axiel7/AniHyou-android) |
+| ^^           | [Kurumi](https://github.com/subrotokumar/kurumi) |
+| ^^           | [Otraku](https://github.com/lotusprey/otraku) |
+| **MyAnimeList** | [DailyAL](https://github.com/JICA98/DailyAL) |
+| ^^           | [MoeList](https://moelist.net/) [:gh:](https://github.com/axiel7/MoeList) |
+| ^^           | [Risuto](https://github.com/lexwilliam/Risuto) |
+| **Others**   | [Kitsune](https://github.com/Drumber/Kitsune) :k: |
+| ^^           | [OpenComicVine](https://github.com/proninyaroslav/OpenComicVine) <Badge type="info" text="ComicVine" /> |
 
 
 ## Others
@@ -169,13 +168,18 @@ or buy an Android phone :ic-twotone-thumb-up:
 - [Yomu](https://www.yomu-reader.com/) :paid::cs::lcl:
 
 ## Trackers
-- [AniHyou](https://apps.apple.com/us/app/anihyou-anilist-client/id1635777325) :al: [:gh:](https://github.com/axiel7/AniHyou-iOS)
-- [Kitsune](https://apps.apple.com/us/app/kitsune-for-myanimelist/id6466716447) :mal::cs:
-- [MyAniList](https://apps.apple.com/us/app/myanilist/id741257899) :al::cs:
-- [MyAnimeList Official](https://apps.apple.com/us/app/myanimelist-official/id1469330778) :cs:
-- [Otraku](https://github.com/lotusprey/otraku) :al:
-- [Risuto](https://apps.apple.com/us/app/risuto-for-anilist/id6455685990) :al::cs:
-- [Ryuusei](https://apps.apple.com/us/app/ryuusei-for-anilist/id1347721581) :al::cs:
+| Category       | Name & Links |
+|---------------|-------------|
+| **AniList**   | [AniHyou](https://apps.apple.com/us/app/anihyou-anilist-client/id1635777325) [:gh:](https://github.com/axiel7/AniHyou-iOS) |
+| ^^           | [MyAniList](https://apps.apple.com/us/app/myanilist/id741257899) :cs::fm: |
+| ^^           | [Otraku](https://github.com/lotusprey/otraku) |
+| ^^           | [Risuto](https://apps.apple.com/us/app/risuto-for-anilist/id6455685990) :cs: |
+| ^^           | [Ryuusei](https://apps.apple.com/us/app/ryuusei-for-anilist/id1347721581) :cs::fm: |
+| **MyAnimeList** | [Kitsune](https://apps.apple.com/us/app/kitsune-for-myanimelist/id6466716447) :cs: |
+| ^^           | [ManGo](https://apps.apple.com/us/app/mango-anime-manga-tracker/id1604385869) :cs::fm: |
+| ^^           | [MyAnimeList Official](https://apps.apple.com/us/app/myanimelist-official/id1469330778) :cs: |
+
+
 
 ![](/banner/pc.webp)
 
