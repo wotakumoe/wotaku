@@ -180,7 +180,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [Weeb Central](https://weebcentral.com/) ==WeebCentral==  
 - [Batoto](https://battwo.com/v3x) <Badge type="tip" text="Proxies" link="https://rentry.co/batoto" /> ==Batoto==  
 - [MangaPark](https://mangapark.net/)  
-- [MangaFire](https://mangafire.to/home) ==MangaFire==  
+- [MangaFire](https://mangafire.to/home) <Badge type="tip" text="Proxies" link="https://rentry.co/mangapark" /> ==MangaFire==  
 
 
 
