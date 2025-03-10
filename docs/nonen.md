@@ -294,6 +294,7 @@ If you have recommendations for good sites in your native language or want to re
   - [Anime Academy](https://animeacademy.in/)
   - [ATOZ CARTOONIST](https://www.atozcartoonist.com/)
   - [Dead Toons India](https://deadtoons.us/)
+  - [PikaHD](https://pikahd.com/)
   - [Puretoons](https://puretoons.site/)
   - [Rare Animes India](https://rareanimes.me/home/)
   - [SDToons](https://sdtoons.in/)
