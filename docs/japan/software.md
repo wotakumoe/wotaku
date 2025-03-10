@@ -20,7 +20,7 @@ og:
 - [AnkiDroid Flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki) :and:
 - [AnkiMobile Flashcards](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) :app::paid:
 - [Ankiconnect Android](https://github.com/KamWithK/AnkiconnectAndroid) :and:
-- [VocabSieve](https://docs.freelanguagetools.org/)
+
 ___
 #### Guide
 - [Anki Manual](https://docs.ankiweb.net/)
@@ -38,25 +38,24 @@ ___
 - [Batch Installer For Immersion Kit](https://github.com/kaanium/Batch-Installer-For-Immersion-Kit)
 - [Anki SRS Kai](https://kuroahna.github.io/anki_srs_kai/) [:gh:](https://github.com/kuroahna/anki_srs_kai)
 - [Forvo Pronunciation Downloader fully automatic](https://ankiweb.net/shared/info/1784714388)
-- [FSRS4Anki](https://github.com/open-spaced-repetition/fsrs4anki)
 - [Immersion Kit Downloader](https://ankiweb.net/shared/info/1317828804)
-- [Japanese Support](https://ankiweb.net/shared/info/3918629684)
 - [Kanji Grid](https://github.com/Kuuuube/kanjigrid)
 - [Kanji Schizos](https://github.com/kaanium/new-kanji-finder)
-- [Kotu](https://kotu.io/) :web:
-- [MorphMan](https://ankiweb.net/shared/info/900801631)  [:gh:](https://github.com/kaegi/MorphMan)
+- [Local Audio Server for Yomichan](https://github.com/themoeway/local-audio-yomichan)
 - [quick image](https://github.com/ZXY101/quick-image)
 - [Review Heatmap](https://ankiweb.net/shared/info/1771074083)
 - [Search Stats Extended](https://ankiweb.net/shared/info/1613056169)
-- [Senren](https://github.com/BrenoAqua/Senren)
-- [Yomichan Forvo Server](https://ankiweb.net/shared/info/580654285) [:gh:](https://github.com/jamesnicolas/yomichan-forvo-server)
 - [WaniAnki](https://damiansh.github.io/waniAnki/instructions)
+- [Yomichan Forvo Server](https://ankiweb.net/shared/info/580654285) [:gh:](https://github.com/jamesnicolas/yomichan-forvo-server)
 
 ### Card templates
-- [jp-mining-note](https://aquafina-water-bottle.github.io/jp-mining-note/)
-- [Xelieu's Modified Anime Card](https://xelieu.github.io/jp-lazy-guide/)
 - [Anki Prettify](https://github.com/pranavdeshai/anki-prettify)
 - [JP Study tools](https://github.com/rudnam/JP-study)
+- [Lapis](https://github.com/donkuri/lapis)
+- [Senren](https://github.com/BrenoAqua/Senren)
+- [Xelieu's Modified Anime Card](https://xelieu.github.io/jp-lazy-guide/)
+- [jp-mining-note](https://aquafina-water-bottle.github.io/jp-mining-note/)
+
 
 ### Decks
 
@@ -137,9 +136,7 @@ ___
 - [Write It! Japanese](https://apps.apple.com/us/app/write-it-japanese/id1268225663)
 
 
-
 ## PC
-
 
 ### Media
 
@@ -153,6 +150,7 @@ ___
 - [Zak's asbplayer](https://zakwarsame.github.io/asbplayer/) :web: [:gh:](https://github.com/zakwarsame/asbplayer)
 ___
 #### mpv
+- [Anacreon MPV script](https://github.com/friedrich-de/Anacreon-Script) <Badge type="info" text="animecards" link="https://animecards.site/minefromanime/" />
 - [autosubsync mpv](https://github.com/Ajatt-Tools/autosubsync-mpv)
 - [memento](https://github.com/ripose-jp/Memento) :win::app::lin:
 - [mpvacious](https://github.com/Ajatt-Tools/mpvacious) :win::lin:
@@ -175,7 +173,6 @@ ___
 - [Yomitan](https://yomitan.wiki/) :s: :ff::cr: [:gh:](https://github.com/yomidevs/yomitan) <Badge type="tip" text="Guide" link="https://learnjapanese.moe/yomichan/" /><tooltip>Pop-up dictionary. Can be used on mobile, with browsers that support extensions.</tooltip>
     - [Yomitan Dictionaries](https://github.com/MarvNC/yomichan-dictionaries/)
     - [Yomitan Grammar Dictionaries](https://github.com/aiko-tanaka/Grammar-Dictionaries)
-    - [Local Audio Server for Yomichan](https://github.com/themoeway/local-audio-yomichan)
     - [VNDB Names for Yomitan](https://github.com/kaanium/VNDB-Names-for-Yomitan)
 - [10ten Japanese Reader](https://github.com/birchill/10ten-ja-reader) :ff::cr::mingcute-safari-fill:<tooltip>Pop-up dictionary</tooltip>
 - [ASB Auto Subs](https://github.com/GodPepe7/asb-auto-subs) :ff::cr:<tooltip>Jimaku subs in anime sites</tooltip>
@@ -230,7 +227,6 @@ ___
 - [ComicEater](https://github.com/kanjieater/ComicEater)
 - [Furiganalyse](https://furiganalyse.itsupera.co/) :web: [:gh:](https://github.com/itsupera/furiganalyse)
 - [GenkiYoshi](https://github.com/FragozoLeonardo/Genki-Yoshi)
-- [Lapis](https://github.com/donkuri/lapis)
 - [LN Readability](https://colab.research.google.com/github/Gilfaro/ln-recommender/blob/main/LNReadability.ipynb)
 - [Supermemo](https://super-memory.com/) <Badge type="warning" text="Trialware"/><Badge type="tip" text="Wiki" link="https://www.supermemo.wiki/en/home" />
 - :more: [OCR/Translator section](/software#ocr-translator)

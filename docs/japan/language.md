@@ -18,19 +18,15 @@ If you're knowledgeable in Japanese, consider contributing to the wiki. We could
 
 ## Starter Guide
 - [TheMoeWay Guide](https://learnjapanese.moe/) :s:
+- [Animecards Site](https://animecards.site/)
 - [Kuri's Immersion-Based Japanese Learning](https://donkuri.github.io/learn-japanese/) :s:
-- [Acquiring Japanese Efficiently](https://docs.google.com/document/d/1LH82FjsCqCgp6-TFqUcS_EB15V7sx7O1VCjREp6Lexw/edit)
-- [DJT GUIDE](https://djtguide.neocities.org/guide)
-- [Tatsumoto's Guide](https://tatsumoto.neocities.org/)
 
 :::details More
-
-- [itazuraneko](https://djtguide.github.io/learn/guide.html)
+- [itazuraneko](https://gohoneko.neocities.org/)
 - [Refold Japanese](https://refold.la/roadmap/)  <Badge type="tip" text="Docs" link="https://docs.google.com/document/d/1tQmoGwCJQqmjdmaQdigAG0Ph1ODSMsGhsD7qOhlUuc0/edit" />
 - [Jo-Mako's Japanese Guide](https://sites.google.com/view/jo-mako/home)
 - [Perdition's Guide](https://perdition-japanese.github.io/posts/how-to-study-japanese/)
 - [A Year to Learn Japanese](https://docs.google.com/document/d/10bRzVblKVOsQJjTc2PIi1Gbj_LrsJCkMkh0SutXCZdI/edit)
-- [Animecards Site](https://animecards.site/)
 - [Japanese with Anime](https://www.japanesewithanime.com/)
 - [r/LearnJapanese Starter's Guide](https://old.reddit.com/r/LearnJapanese/wiki/index/startersguide/)
 - [Jazzy's Guide](https://rentry.co/jazzy180)
