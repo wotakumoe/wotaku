@@ -179,8 +179,8 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [MangaDex](https://mangadex.org/) [:rss:](https://mdrss.tijlvdb.me/) ==MangaDex==  
 - [Weeb Central](https://weebcentral.com/) ==WeebCentral==  
 - [Batoto](https://battwo.com/v3x) <Badge type="tip" text="Proxies" link="https://rentry.co/batoto" /> ==Batoto==  
-- [MangaPark](https://mangapark.net/)  
-- [MangaFire](https://mangafire.to/home) <Badge type="tip" text="Proxies" link="https://rentry.co/mangapark" /> ==MangaFire==  
+- [MangaPark](https://mangapark.net/)  <Badge type="tip" text="Proxies" link="https://rentry.co/mangapark" />
+- [MangaFire](https://mangafire.to/home) ==MangaFire==  
 
 
 
