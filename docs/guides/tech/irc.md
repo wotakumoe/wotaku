@@ -49,7 +49,7 @@ If you face any issues when connecting, try enabling **"Accept invalid SSL certi
 | [nibl](https://nibl.co.uk/search) | irc.rizon.net | 6697 / 9999 | #nibl |
 | [subsplease](https://subsplease.org/xdcc/) | ^^ | ^^ | #subsplease |
 | [Anidex](https://xdcc.anidex.moe/) | ^^ | ^^ | #Doki |
-| [animk](https://animk.info/xdcc/) | irc.xertion.org | ^^ | #MK / #XDCCLeech |
+| [animk](https://animk.info/xdcc/) | irc.xertion.org | 6667 | #MK / #XDCCLeech |
 | [XDCC EU](https://www.xdcc.eu/) | - | - | - |
 | [SunXDCC](https://sunxdcc.com/) | - | - | - |
 
