@@ -62,10 +62,6 @@ function getPrompt() {
 }
 
 const messages = {
-  bug: [
-    "We're sorry to hear that!",
-    'Please try to be as specific as possible and provide us with the steps to reproduce the bug.'
-  ],
   suggestion: [
     "We're glad you want to share your ideas!",
     'Nix the fluff and just tell us what you think!',
