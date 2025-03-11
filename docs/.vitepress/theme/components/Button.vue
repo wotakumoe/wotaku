@@ -31,7 +31,8 @@ withDefaults(
     :is="link ? 'a' : 'span'"
     :href="link"
     :class="type"
-    class="VButton px4 py3 mt2 gap2 block flex items-center rounded-md">
+    class="VButton px4 py3 mt2 gap2 block flex items-center rounded-md"
+  >
     <div :class="icon" />
     <slot>{{ text }}</slot>
   </component>

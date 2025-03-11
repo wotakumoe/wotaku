@@ -21,7 +21,7 @@ defineProps<{ title: string; description?: string; image: string }>()
   <span
     tw="w-full h-full bg-black flex flex-col"
     :style="{
-      backgroundImage: `url(${image})`,
+      backgroundImage: `url(${image})`
     }"
   >
     <span

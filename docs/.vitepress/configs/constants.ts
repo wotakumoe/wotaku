@@ -1,4 +1,4 @@
-import type { DefaultTheme } from "vitepress"
+import type { DefaultTheme } from 'vitepress'
 import { x } from 'tinyexec'
 
 export const hostname: string = 'https://wotaku.wiki'
@@ -276,7 +276,6 @@ export const sidebar: DefaultTheme.Sidebar = [
   }
 ]
 
-
 export const siteConfig = {
   title: 'Wotaku',
   description:
@@ -331,6 +330,5 @@ export const siteConfig = {
   srcExclude: ['README.md', 'sandbox/**/*.md'],
   sitemap: {
     hostname: hostname
-  },
-
+  }
 }

@@ -138,7 +138,7 @@ const { Layout } = DefaultTheme
         class="pointer-events-none fixed absolute z-[9999] h-10 w-10 opacity-0 transition-opacity duration-500"
         :style="{
           left: `${position.x}px`,
-          top: `${position.y}px`,
+          top: `${position.y}px`
         }"
       />
     </template>

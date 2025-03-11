@@ -27,9 +27,12 @@ const imageSize = ref('550px') // Fixed size for the image
         :style="{ width: imageSize, height: 'auto' }"
         src="/asset/404.gif"
         alt="404 Image"
-        class="mx-auto" />
+        class="mx-auto"
+      />
       <p class="text-title-lg mt-4 font-bold leading-tight text-white">404</p>
-      <p class="text-body-lg flex flex-wrap items-center justify-center leading-snug text-gray-400">
+      <p
+        class="text-body-lg flex flex-wrap items-center justify-center leading-snug text-gray-400"
+      >
         Umm.... you shouldn’t be here
         <span class="icon-container mx-1">
           <img class="icon-img" src="/asset/inahuh.png" alt="Inahuh Icon" />
@@ -43,7 +46,8 @@ const imageSize = ref('550px') // Fixed size for the image
             stroke="currentColor"
             stroke-linecap="round"
             stroke-linejoin="round"
-            stroke-width="2">
+            stroke-width="2"
+          >
             <path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"></path>
           </svg>
         </span>

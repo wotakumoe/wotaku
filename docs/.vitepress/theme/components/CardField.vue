@@ -23,8 +23,8 @@ defineProps<{
 <template>
   <div class="g-[12px] mb-[8px] flex items-center">
     <span class="flex items-center">
-      <span class="text-2xl" :class="[icon, iconClass]" />
-      <div class="ml-2 text-sm text-[var(--vp-c-text-2)]">
+      <span class="size-6" :class="[icon, iconClass]" />
+      <div class="ml-2 text-sm text-$vp-c-text-2">
         <slot />
       </div>
     </span>

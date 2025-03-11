@@ -110,17 +110,16 @@ async function generateImage({
     props: {
       title:
         frontmatter.layout === 'home'
-          ? (frontmatter.hero.name ?? frontmatter.title)
-          : (frontmatter.customMetaTitle ?? frontmatter.title),
+          ? frontmatter.hero.name ?? frontmatter.title
+          : frontmatter.customMetaTitle ?? frontmatter.title,
       description:
         frontmatter.layout === 'home'
-          ? (frontmatter.hero.tagline ?? frontmatter.description)
+          ? frontmatter.hero.tagline ?? frontmatter.description
           : frontmatter.description,
       // dir: getDir(url)
       image: frontmatter.og?.image ?? 'https://files.catbox.moe/kzhgvy.png'
     }
   }
-
 
   const svg = await satoriVue(options, template)
 

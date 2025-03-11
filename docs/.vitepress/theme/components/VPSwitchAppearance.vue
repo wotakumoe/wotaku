@@ -33,7 +33,8 @@ const toggleAppearance = inject('toggle-appearance', () => {
     title="VPSwitchAppearance"
     class="VPSwitchAppearance"
     :aria-checked="isDark"
-    @click="toggleAppearance">
+    @click="toggleAppearance"
+  >
     <ClientOnly>
       <Transition name="fade" mode="out-in">
         <VPIconSun v-if="!isDark" class="sun" />
@@ -64,7 +65,7 @@ const toggleAppearance = inject('toggle-appearance', () => {
     fill: currentColor;
   }
 
-  &[data-view-transition="false"] {
+  &[data-view-transition='false'] {
     .fade-enter-active,
     .fade-leave-active {
       transition: opacity 0.1s ease;

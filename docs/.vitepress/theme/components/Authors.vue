@@ -75,7 +75,7 @@ const Credits = computed(() => credits[props.page] || ([] as CreditsInfo[]))
       <img :src="c.avatar" class="h-8 w-8 rounded-full" />
       <a v-if="c.site" :href="c.site">{{ c.name }}</a>
       <span v-else>{{ c.name }}</span>
-      <span v-if="index < Credits.length - 1"> • </span>
+      <span v-if="index < Credits.length - 1">•</span>
     </div>
   </div>
 </template>

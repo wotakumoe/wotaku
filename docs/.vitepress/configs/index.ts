@@ -28,13 +28,7 @@ import { fileURLToPath, URL } from 'node:url'
 import UnoCSS from 'unocss/vite'
 import Devtools from 'vite-plugin-vue-devtools'
 import { configureMarkdown } from './markdown'
-import {
-  GIT_COMMIT,
-  hostname,
-  nav,
-  sidebar,
-  siteConfig
-} from "./constants"
+import { GIT_COMMIT, hostname, nav, sidebar, siteConfig } from './constants'
 
 export const shared: UserConfig<DefaultTheme.Config> = {
   ...siteConfig,
@@ -92,7 +86,10 @@ export const shared: UserConfig<DefaultTheme.Config> = {
       }
     ],
     footer: {
-      message: `<a href="https://github.com/wotakumoe">The Wotaku Team</a> <span class="divider">|</span> <a href="https://github.com/wotakumoe/Wotaku/commit/${GIT_COMMIT}">${GIT_COMMIT.slice(0, 7)}</a>`,
+      message: `<a href="https://github.com/wotakumoe">The Wotaku Team</a> <span class="divider">|</span> <a href="https://github.com/wotakumoe/Wotaku/commit/${GIT_COMMIT}">${GIT_COMMIT.slice(
+        0,
+        7
+      )}</a>`,
       copyright: 'made with love and eepy energy'
     }
   },

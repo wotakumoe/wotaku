@@ -161,18 +161,23 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
   <template v-if="props.heading">
     <button
       @click="toggleCard()"
-      class="bg-$vp-c-default-soft hover:bg-$vp-c-default-soft/40 text-primary border-$vp-c-default-soft hover:border-primary ml-3 inline-flex h-7 items-center justify-center whitespace-nowrap rounded-md border-2 border-solid px-1.5 py-1.5 text-sm font-medium transition-all duration-300 sm:h-6">
-      <span :class="isCardShown === false ? `i-lucide:message-circle` : `i-lucide:circle-x`" />
+      class="bg-$vp-c-default-soft text-primary border-$vp-c-default-soft hover:border-primary ml-3 inline-flex h-7 items-center justify-center whitespace-nowrap rounded-md border-2 border-solid px-1.5 py-3.5 text-sm font-medium transition-all duration-300 sm:h-6"
+    >
+      <span
+        :class="isCardShown === false ? `i-lucide:mail` : `i-lucide:mail-x`"
+      />
     </button>
   </template>
   <template v-else>
     <button
-      class="bg-$vp-c-default-soft hover:bg-$vp-c-default-soft/40 text-primary px2 py1 border-$vp-c-default-soft hover:border-primary mt-2 select-none rounded border-2 border-solid font-bold transition-all duration-300"
-      @click="toggleCard()">
+      class="bg-$vp-c-default-soft text-primary px2 py1 border-$vp-c-default-soft hover:border-primary mt-2 select-none rounded border-2 border-solid font-bold transition-all duration-300"
+      @click="toggleCard()"
+    >
       <span
         :class="
-          isCardShown === false ? `i-lucide:message-circle mr-2` : `i-lucide:circle-x mr-2`
-        " />
+          isCardShown === false ? `i-lucide:mail mr-2` : `i-lucide:mail-x mr-2`
+        "
+      />
       <span>Send Feedback</span>
     </button>
   </template>
@@ -180,42 +185,30 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
   <Transition name="fade" mode="out-in">
     <div
       v-if="isCardShown"
-      class="border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 m-[2rem 0] step mt-4 border-2 border-solid p-6">
+      class="border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 m-[2rem 0] mt-4 border-2 border-solid p-6"
+    >
       <Transition name="fade" mode="out-in">
-        <div v-if="!feedback.type" class="step">
-          <div>
-            <div>
-              <p class="desc">{{ prompt }}</p>
-              <p class="heading">
-                {{ helpfulText }}
-              </p>
-            </div>
-          </div>
+        <div v-if="!feedback.type">
+          <p class="heading">
+            {{ helpfulText }}
+          </p>
           <div class="flex flex-wrap gap-2">
             <button
               v-for="item in feedbackOptions"
               :key="item.value"
-              class="btn"
-              @click="handleSubmit(item.value)">
+              class="bg-bg border-$vp-c-default-soft hover:border-primary mt-2 select-none rounded border-2 border-solid font-bold transition-all duration-250 rounded-lg text-[14px] font-500 leading-normal m-0 px-3 py-1.5 text-center align-middle whitespace-nowrap"
+              @click="handleSubmit(item.value)"
+            >
               <span>{{ item.label }}</span>
             </button>
           </div>
         </div>
-        <div v-else-if="feedback.type && !success" class="step">
+        <div v-else-if="feedback.type && !success">
           <div>
-            <p class="desc">
-              {{ helpfulDescription }}
-            </p>
-            <div>
-              <span>{{ getFeedbackOption(feedback.type)?.label }}</span>
-              <button style="margin-left: 0.5rem" class="btn" @click="feedback.type = undefined">
-                <span class="i-lucide:arrow-left-from-line">close</span>
-              </button>
-            </div>
+            <p class="desc">{{ helpfulDescription }} - {{ prompt }}</p>
+            <span>{{ getFeedbackOption(feedback.type)?.label }}</span>
           </div>
-          <p class="heading">
-            {{ message }}
-          </p>
+          <p class="heading" v-text="message"></p>
           <div v-if="feedback.type === 'suggestion'" class="mb-2 text-sm">
             <details>
               <summary>
@@ -224,8 +217,8 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
               </summary>
               <ol>
                 <li>
-                  Websites that are only or primarily for generative AI (Chatbot, roleplaying bot,
-                  ai art generator etc.)
+                  Websites that are only or primarily for generative AI
+                  (Chatbot, roleplaying bot, ai art generator etc.)
                 </li>
                 <li>
                   Sites that
@@ -240,13 +233,37 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
                 </li>
                 <li>Adult content sites similar to OnlyFans</li>
                 <li>
-                  Software that's too general (for example Windows OS related or Tweaking for
-                  privacy)
+                  Software that's too general (for example Windows OS related or
+                  Tweaking for privacy)
                 </li>
                 <li>Sites focused on lolicon or furry stuff</li>
-                <li>Sites scraping only one or two common sources, such as HiAnime or Animepahe</li>
                 <li>
-                  Sites found in the Unsafe lists of <a href="https://fmhy.net/unsafesites" class="text-primary text-underline font-semibold">FMHY</a>, <a href="https://megathread.pages.dev/unsafe" class="text-primary text-underline font-semibold">Privateersclub</a> and/or <a href="https://rentry.org/pgames#untrusted-sites" class="text-primary text-underline font-semibold">r/PiratedGames</a>.
+                  Sites scraping only one or two common sources, such as HiAnime
+                  or Animepahe
+                </li>
+                <li>
+                  Sites found in the Unsafe lists of
+                  <a
+                    href="https://fmhy.net/unsafesites"
+                    class="text-primary text-underline font-semibold"
+                  >
+                    FMHY
+                  </a>
+                  ,
+                  <a
+                    href="https://megathread.pages.dev/unsafe"
+                    class="text-primary text-underline font-semibold"
+                  >
+                    Privateersclub
+                  </a>
+                  and/or
+                  <a
+                    href="https://rentry.org/pgames#untrusted-sites"
+                    class="text-primary text-underline font-semibold"
+                  >
+                    r/PiratedGames
+                  </a>
+                  .
                 </li>
               </ol>
             </details>
@@ -258,9 +275,13 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
               <ol>
                 <li>Closed source software (with good FOSS alternatives)</li>
                 <li>
-                  Sites that only use hosters such Katfile, Nitroflare, DDownload and Rapidgator
+                  Sites that only use hosters such Katfile, Nitroflare,
+                  DDownload and Rapidgator
                 </li>
-                <li>Sites that aren't primarily for anime but have it as a side product</li>
+                <li>
+                  Sites that aren't primarily for anime but have it as a side
+                  product
+                </li>
                 <li>Things that are too niche and/or have a small userbase</li>
               </ol>
             </details>
@@ -268,26 +289,37 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
           <textarea
             v-model="feedback.message"
             autofocus
-            class="input"
-            placeholder="What a lovely wiki!" />
+            class="bg-$vp-c-bg-alt text-$vp-c-text-2 w-full h-[100px] border border-$vp-c-divider rounded px-3 py-1.5 border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 border-2 border-solid"
+            placeholder="What a lovely wiki!"
+          />
           <p class="desc mb-2">
-            If you want a reply to your feedback, feel free to mention a contact in the message or
-            join our
+            If you want a reply to your feedback, feel free to mention a contact
+            in the message or join our
             <a
               class="text-primary text-underline font-semibold"
-              href="https://discord.gg/wZMuSGpZ8s">
+              href="https://discord.gg/wZMuSGpZ8s"
+            >
               Discord.
             </a>
           </p>
-          <button
-            type="submit"
-            class="btn btn-primary"
-            :disabled="isDisabled"
-            @click="handleSubmit()">
-            Send Feedback 📩
-          </button>
+          <div class="flex flex-row gap-2">
+            <button
+              class="bg-$vp-c-default-soft text-primary border-$vp-c-default-soft inline-flex h-7 items-center justify-center whitespace-nowrap rounded-md border-2 border-solid px-1.5 py-3.5 text-sm font-medium transition-all duration-300 sm:h-6"
+              @click="feedback.type = undefined"
+            >
+              <span class="i-lucide:panel-left-close">close</span>
+            </button>
+            <button
+              type="submit"
+              class="border border-div rounded-lg transition-colors duration-250 inline-block text-14px font-500 leading-1.5 px-3 py-3 text-center align-middle whitespace-nowrap disabled:opacity-50 text-text-2 bg-swarm-100 dark:bg-swarm-700 border-swarm-800 dark:border-swarm-700 disabled:bg-swarm-100 dark:disabled:bg-swarm-900 hover:border-swarm-900 dark:hover:border-swarm-800 hover:bg-swarm-200 dark:hover:bg-swarm-800"
+              :disabled="isDisabled"
+              @click="handleSubmit()"
+            >
+              Send Feedback 📩
+            </button>
+          </div>
         </div>
-        <div v-else class="step">
+        <div v-else>
           <p class="heading">Thanks for your feedback!</p>
         </div>
       </Transition>
@@ -296,17 +328,11 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
 </template>
 
 <style scoped lang="css">
-.step > * + * {
-  margin-top: 1rem;
-}
-
 .btn {
   border: 1px solid var(--vp-c-divider);
   background-color: var(--vp-c-bg);
   border-radius: 8px;
-  transition:
-    border-color 0.25s,
-    background-color 0.25s;
+  transition: border-color 0.25s, background-color 0.25s;
   display: inline-block;
   font-size: 14px;
   font-weight: 500;
@@ -340,16 +366,6 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
 .heading {
   font-size: 1.2rem;
   font-weight: 700;
-}
-
-.input {
-  background-color: var(--vp-c-bg-alt);
-  color: var(--vp-c-text-2);
-  width: 100%;
-  height: 100px;
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 4px;
-  padding: 0.375rem 0.75rem;
 }
 
 .desc {
