@@ -197,6 +197,9 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 - [Sonic Robo Blast 2](https://www.srb2.org/)
 - [Sonic Triple Trouble 16-bit](https://stt16bit.wixsite.com/sonictripletrouble16)
 
+### Tools
+- [Unleashed Recompiled](https://github.com/hedge-dev/UnleashedRecomp)
+
 ## Touhou
 
 ### Databases / News
