@@ -55,10 +55,9 @@ If you're knowledgeable in Japanese, consider contributing to the wiki. We could
   - [Hiragana](http://japanese-lesson.com/characters/hiragana/hiragana_drill/index.html) <Badge type="tip" text="PDF" link="http://japanese-lesson.com/resources/pdf/characters/hiragana_chart.pdf"/> <Badge type="tip" text="Practice" link="http://japanese-lesson.com/resources/pdf/characters/hiragana_writing_practice_sheets.pdf" />
   - [Katakana](http://japanese-lesson.com/characters/katakana/katakana_drill/index.html) <Badge type="tip" text="PDF" link="http://japanese-lesson.com/resources/pdf/characters/katakana_chart.pdf"/> <Badge type="tip" text="Practice" link="http://japanese-lesson.com/resources/pdf/characters/katakana_writing_practice_sheets.pdf" />
 - [Tae Kim's Writing System](https://gohoneko.neocities.org/grammar/taekim#6%20The%20Scripts)
-
-### Videos
-- [Learn ALL hiragana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=6p9Il_j0zjc) <tooltip>by JapanesePod101</tooltip>
-- [Learn ALL katakana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=s6DKRgtVLGA) <tooltip>by JapanesePod101</tooltip>
+- [JapanesePod101](https://www.youtube.com/@JapanesePod101)
+  - [hiragana](https://www.youtube.com/watch?v=6p9Il_j0zjc)
+  - [katakana](https://www.youtube.com/watch?v=s6DKRgtVLGA)
 
 ### Practice
 - [Kana Pro](https://kana.pro/)

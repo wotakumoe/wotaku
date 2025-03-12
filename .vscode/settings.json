@@ -3,9 +3,6 @@
   "editor.formatOnSave": true,
   // Default formatter
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "[markdown]": {
-    "editor.formatOnSave": true
-  },
   "[typescript]": {
     "editor.formatOnSave": true
   },
