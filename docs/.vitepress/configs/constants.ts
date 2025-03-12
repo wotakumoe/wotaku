@@ -79,7 +79,7 @@ export const nav: DefaultTheme.NavItem[] = [
       {
         text: 'Manga',
         items: [
-          { text: 'Digital Comic Info', link: '/guides/manga/digim' },
+          { text: 'Digital Comic Info', link: '/guides/manga/comicinfo' },
           { text: 'JXL Manga Readers', link: '/guides/manga/jxl' },
           { text: 'Madokami', link: '/guides/manga/madokami' },
           { text: 'Manga Image Editing', link: '/guides/manga/imagedit' }
@@ -230,7 +230,7 @@ export const sidebar: DefaultTheme.Sidebar = [
         text: 'Manga',
         collapsed: true,
         items: [
-          { text: 'Digital Comic Info', link: '/guides/manga/digim' },
+          { text: 'Digital Comic Info', link: '/guides/manga/comicinfo' },
           { text: 'JXL Manga Readers', link: '/guides/manga/jxl' },
           { text: 'Madokami', link: '/guides/manga/madokami' },
           { text: 'Manga Image Editing', link: '/guides/manga/imagedit' }

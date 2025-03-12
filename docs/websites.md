@@ -505,7 +505,7 @@ Trackers have been moved to their [**own page**](/torrenting/trackers)!
   - [Webtoon](https://www.webtoons.com/en/)
 
 ::: info More sites
-You can go through [**digital manga info**](/guides/manga/digim) to get more sites including sites for volume releases.
+You can go through [**digital comic info**](/guides/manga/comicinfo) to get more sites including sites for volume releases.
 :::
 
 ## Novels

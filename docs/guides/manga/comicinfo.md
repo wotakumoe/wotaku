@@ -1,6 +1,6 @@
 ---
-title: Digital Manga & Manhwa Info
-customDescription: "Information about digital manga & manhwa publishers on resolution"
+title: Digital Comic Info
+customDescription: "Information about digital comic publishers on resolution"
 outline: [2,3]
 og:
     image: https://files.catbox.moe/l2g45x.png
