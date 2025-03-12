@@ -316,9 +316,10 @@ If you have recommendations for good sites in your native language or want to re
   - [Anoboy](https://anoboy.ch/)
   - [Kazefuri](https://kazefuri.net/)
   - [Kuramanime](https://kuramanime.red/)
+  - [Kiyocomics](https://kiyocomics.netlify.app/) [:gh:](https://github.com/Bilhaq12/kiyoanime)
   - [Mynimeku](https://www.mynimeku.com/)
   - [Otaku Desu](https://otakudesu.cloud/)
-  - [Samehadaku](https://samehadaku.ws/)
+  - [Samehadaku](https://samehadaku.care/)
   - [ZANIME](https://anime.uhuyy.dev/) [:gh:](https://github.com/Fauzanmhr/zannime)
 - **DDL**
   - [Koisuru](https://db.koisuru.web.id/0:/) ==Koisuru==
