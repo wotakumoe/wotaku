@@ -184,6 +184,7 @@ Sample code [**here**](https://rentry.org/ty7iihnf)
 |-|-|-|
 | :s: | `:s:` | Favorite |
 | :e: | `:e:` | Extension(s) |
+| :ero: | `:ero:` | Focuses on NSFW content |
 | :acc: | `:acc:` | Needs Account |
 | :rss: | `:rss:` | RSS Feed |
 | :tf: | `:tf:` | Apple TestFlight |
