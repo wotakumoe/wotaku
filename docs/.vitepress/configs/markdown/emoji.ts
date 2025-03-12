@@ -15,8 +15,6 @@
  */
 import type { MarkdownRenderer } from 'vitepress'
 import type { IconifyJSON } from '@iconify-json/octicon'
-import fs from 'node:fs'
-import path from 'node:path'
 
 // Icons that need to be used should be imported here
 import { icons as twemoji } from '@iconify-json/twemoji'
@@ -117,43 +115,20 @@ const aliases: Record<string, string> = {
   no: 'twemoji-cross-mark'
 }
 
-const CACHE_FILE = path.join(__dirname, 'emoji.cache.json')
+const defs: Record<string, string> = {}
 
-let cachedDefs: Record<string, string> = {}
-
-async function initializeEmojis() {
-  if (fs.existsSync(CACHE_FILE)) {
-    console.log('Loading emoji cache... bust this cache by deleting the file')
-    const json = await import(CACHE_FILE, { assert: { type: 'json' } })
-    const emojiNames = json.default as string[]
-    cachedDefs = emojiNames.reduce((acc, name) => {
-      acc[name] = ''
-      return acc
-    }, {} as Record<string, string>)
-  } else {
-    console.log('No emoji cache found, initializing...')
-    cachedDefs = {}
-    for (const elem of emojis) {
-      for (const key in elem.pack.icons) {
-        if (elem.prefix) cachedDefs[elem.prefix + key] = ''
-        else cachedDefs[key] = ''
-      }
-    }
-
-    for (const [alias, fullName] of Object.entries(aliases)) {
-      cachedDefs[alias] =
-        cachedDefs[fullName] !== undefined ? '' : 'INVALID_ALIAS'
-    }
-
-    const emojiNames = Object.keys(cachedDefs).sort()
-    fs.writeFileSync(CACHE_FILE, JSON.stringify(emojiNames, null, undefined))
+for (const elem of emojis) {
+  for (const key in elem.pack.icons) {
+    if (elem.prefix) defs[elem.prefix + key] = ''
+    else defs[key] = ''
   }
-
-  return cachedDefs
 }
 
-export const defs = initializeEmojis()
-export { aliases }
+for (const [alias, fullName] of Object.entries(aliases)) {
+  defs[alias] = defs[fullName] !== undefined ? '' : 'INVALID_ALIAS'
+}
+
+export { defs, aliases }
 
 export function emojiRender(md: MarkdownRenderer) {
   md.renderer.rules.emoji = (tokens, idx) => {
