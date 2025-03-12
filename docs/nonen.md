@@ -369,53 +369,60 @@ If you have recommendations for good sites in your native language or want to re
 
 ## Japanese
 
-### Manga
+
 
 ::: danger Adult content
 Websites may contain adult content, partner with adult sites, or feature adult-themed first-party ads.
 :::
 
-::: details Symbols
+### Online
 
-- Uploads novels -> :material-symbols-book-5:
-- Uploads magazines -> :ic-outline-menu-book:
-- Uploaded on Host sites -> :host:
+#### Manga
 
+- [KL Manga](https://klz9.com/idx) <Badge type="tip" text="2" link="https://hachiraw.net/"/> <Badge type="tip" text="3" link="https://klto9.com/"/> <Badge type="tip" text="4" link="https://jestful.net/" />
+- [MangaFire](https://mangafire.to/home)
+- [Manga Jikan](https://www.mangajikan.com/) <Badge type="tip" text="2" link="https://www.mangasuika.com/"/> <Badge type="tip" text="3" link="https://www.lmanga.com/"/> <Badge type="tip" text="4" link="https://www.firemanga.com/" /> <Badge type="tip" text="5" link="https://www.rawbig.com/" />
+- [Manga Mate](https://manga-mate.org/)
+- [MangaReader](https://mangareader.to/home)
+- [Pixiv Comics](https://comic.pixiv.net/)
+- [RawInu](https://rawinu.com/) <Badge type="tip" text="2" link="https://nicomanga.com/" />
+- [Rawkuma](https://rawkuma.com/)
+- [Rawkuro](https://rawkuro.net/home)
+- [Raw Lazy](https://rawlazy.si/)
+- [Raw Otaku](https://rawotaku.com/home/) <Badge type="tip" text="2" link="https://jmanga.ac/home/" />
+- [RawUwU](https://rawuwu.com/) <Badge type="tip" text="2" link="https://rawdevart.art/" />
+- [Sen Manga](https://raw.senmanga.com/)
+- [Spoilerplus](https://spoilerplus.tv/) ==Spoilerplus==
+- [Twicomi](https://twicomi.com/)
+- [We Love Manga](https://welovemanga.one/) <Badge type="tip" text="2" link="https://manga1000.top/" />
+
+### Download
+
+#### Torrent
+- [Nyaa](https://nyaa.si/) :s: <Badge type="info" text="Proxies" link="https://rentry.org/nyaap" />
+- [Tokyo Toshokan](https://www.tokyotosho.info/)
+
+#### Direct
+
+::: warning Slow download
+All websites listed here use slow host sites to store files, unless noted otherwise.
 :::
 
-- **Reader**
-  - [KL Manga](https://klz9.com/idx) <Badge type="tip" text="2" link="https://hachiraw.net/"/> <Badge type="tip" text="3" link="https://klto9.com/"/> <Badge type="tip" text="4" link="https://jestful.net/" />
-  - [MangaFire](https://mangafire.to/home)
-  - [Manga Jikan](https://www.mangajikan.com/) <Badge type="tip" text="2" link="https://www.mangasuika.com/"/> <Badge type="tip" text="3" link="https://www.lmanga.com/"/> <Badge type="tip" text="4" link="https://www.firemanga.com/" /> <Badge type="tip" text="5" link="https://www.rawbig.com/" />
-  - [Manga Mate](https://manga-mate.org/)
-  - [MangaReader](https://mangareader.to/home)
-  - [Pixiv Comics](https://comic.pixiv.net/)
-  - [RawInu](https://rawinu.com/) <Badge type="tip" text="2" link="https://nicomanga.com/" />
-  - [Rawkuma](https://rawkuma.com/)
-  - [Rawkuro](https://rawkuro.net/home)
-  - [Raw Lazy](https://rawlazy.si/)
-  - [Raw Otaku](https://rawotaku.com/home/) <Badge type="tip" text="2" link="https://jmanga.ac/home/" />
-  - [RawUwU](https://rawuwu.com/) <Badge type="tip" text="2" link="https://rawdevart.art/" />
-  - [Sen Manga](https://raw.senmanga.com/)
-  - [Spoilerplus](https://spoilerplus.tv/) ==Spoilerplus==
-  - [Twicomi](https://twicomi.com/)
-  - [We Love Manga](https://welovemanga.one/) <Badge type="tip" text="2" link="https://manga1000.top/" />
-- **Torrent Download**
-  - [Nyaa](https://nyaa.si/) :s: <Badge type="info" text="Proxies" link="https://rentry.org/nyaap" />
-  - [Tokyo Toshokan](https://www.tokyotosho.info/) <Badge type="info" text="2" link="http://tokyotosho.se/" /> <Badge type="info" text="3" link="http://tokyo-tosho.net/" />
-- **Direct Download**
-  - [A-Z Manga](https://www.a-zmanga.net/) :material-symbols-book-5::ic-outline-menu-book::host:
-  - [Asia Media Blog](https://asiamediablog.com/media/comic/manga/) :material-symbols-book-5::ic-outline-menu-book::host:
-  - [Book Share Zip](https://bszip.com/) :material-symbols-book-5::ic-outline-menu-book::host:
-  - [Comic 77](https://comic77.com/) :host:
-  - [Comics 888](https://comics888.com/) :material-symbols-book-5::ic-outline-menu-book::host:
-  - [DL-Raw](https://dl-raw.se/) :material-symbols-book-5::ic-outline-menu-book::host:
-  - [DL Raw net](https://dlraw.net/category/raw-manga/) <Badge type="tip" text="2" link="https://manga-zip.info/category/raw-manga/" /> <Badge type="tip" text="3" link="https://13dl.me/home.i1/" /> :material-symbols-book-5::ic-outline-menu-book::host:
-  - [DL Zip](https://dl-zip.com/) :material-symbols-book-5::ic-outline-menu-book::host:
-  - [JP DDL](https://jpddl.com/manga) :host:
-  - [Manga Zone](http://www.manga-zone.org/) :material-symbols-book-5::host:
-  - [Raw Cans](http://raw-cans.net/) :ic-outline-menu-book::host:
-  - [X3DL.NET](https://x3dl.net/wp/) :material-symbols-book-5::ic-outline-menu-book::host:
+| Site | Manga | Novel | Magazine |
+|------|:-----:|:-----:|:--------:|
+| [A-Z Manga](https://www.a-zmanga.net/) | :yes: | :yes: | :yes: |
+| [Asia Media Blog](https://asiamediablog.com/media/comic/manga/) | :yes: | :yes: | :yes: |
+| [Book Share Zip](https://bszip.com/) | :yes: | :yes: | :yes: |
+| [Comic 77](https://comic77.com/) | :yes: | :no: | :no: |
+| [Comics 888](https://comics888.com/) | :yes: | :yes: | :yes: |
+| [DL-Raw](https://dl-raw.se/) | :yes: | :yes: | :yes: |
+| [DL Raw net](https://dlraw.net/category/raw-manga/) <Badge type="tip" text="2" link="https://manga-zip.info/category/raw-manga/" /> <Badge type="tip" text="3" link="https://13dl.me/home.i1/" /> | :yes: | :yes: | :yes: |
+| [DL Zip](https://dl-zip.com/) | :yes: | :yes: | :yes: |
+| [JP DDL](https://jpddl.com/manga) | :yes: | :no: | :no: |
+| [Manga Zone](http://www.manga-zone.org/) | :yes: | :no: | :yes: |
+| [Raw Cans](http://raw-cans.net/) | :yes: | :no: | :yes: |
+| [X3DL.NET](https://x3dl.net/wp/) | :yes: | :yes: | :yes: |
+
 
 ### Others
 
