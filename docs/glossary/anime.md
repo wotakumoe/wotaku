@@ -104,6 +104,14 @@ If you look at the sakuga, we can see a few numbers.
 We tried to really simplify the process. For more details, check out [**Dong Chang**](https://www.youtube.com/@DongChang), [**Sakuga Foundry**](https://www.youtube.com/@SakugaFoundry) & [Iwane Masaaki’s Animating Channel](https://www.youtube.com/@animator).
 :::
 
+### Timesheet
+
+![Satsuma! by Miyakawa (Unofficial TL by Liss)](/glossary/anime/time.webp)
+
+::: info Satsuma!
+[**Free PDF book**](https://satuma.grupo.jp/free838189) by [**Miyakawa**](https://fixupx.com/satuma_info) contains a lot of info about timesheets / exposure sheets. [**Liss**](https://fixupx.com/LissBevs) has been doing an unofficial English translation of the book. You can find a parital compiled version [**here**](https://drive.google.com/file/d/1yB2U-OONyAHhFnWsNJhU-R-5-t26YwlY/view) and for the latest updates, [**click here**](https://fixupx.com/hashtag/satsuma_pdf?f=live).
+:::
+
 ### Douga
 More cleaned up frames, done by key animators. Dougas are way more completed and have more shading in general. The final animation looks pretty close to douga. In-betweens are also added in this step. Sometime, genga and douga can look pretty close depending on the artist.
 
