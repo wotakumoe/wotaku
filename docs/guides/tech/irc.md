@@ -50,25 +50,24 @@ If you face any issues when connecting, try enabling **"Accept invalid SSL certi
 | [subsplease](https://subsplease.org/xdcc/) | ^^ | ^^ | #subsplease |
 | [Anidex](https://xdcc.anidex.moe/) | ^^ | ^^ | #Doki |
 | [animk](https://animk.info/xdcc/) | irc.xertion.org | 6667 | #MK / #XDCCLeech |
-| [XDCC EU](https://www.xdcc.eu/) | - | - | - |
-| [SunXDCC](https://sunxdcc.com/) | - | - | - |
 
+## XDCC Indexers
+- [SkullXDCC](https://skullxdcc.com/)
+- [SunXDCC](https://sunxdcc.com/)
+- [XDCC.EU](https://www.xdcc.eu/)
 
-::: warning Both XDCC EU and SunXDCC don't have a single bot channel. They mention the server and the channel address in the search result<
-:::
-
-
-:::info XDCC EU
-1. Click on the ℹ️ button
-2. Join the server and the channel of the bot
-3. copy and send the bot command in the channel
-    ![XDCC EU](/ss/irc/xdcceu.png)
-:::
 
 ::: info SunXDCC
 1. Join the server and the channel of the bot. 
 2. Make the bot command according to the standard form. For this screenshot the bot command will be `/msg [FutureBot]-[C21] xdcc send #530`
 	![SunXDCC](/ss/irc/sunxdcc.png)
+:::
+
+:::info XDCC.EU
+1. Click on the ℹ️ button
+2. Join the server and the channel of the bot
+3. copy and send the bot command in the channel
+    ![XDCC.EU](/ss/irc/xdcceu.png)
 :::
 
 ## Batch DL

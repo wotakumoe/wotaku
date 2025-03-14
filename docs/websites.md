@@ -149,8 +149,6 @@ ___
 | [subsplease](https://subsplease.org/xdcc/) | ^^ | ^^ | #subsplease |
 | [Anidex](https://xdcc.anidex.moe/) | ^^ | ^^ | #Doki |
 | [animk](https://animk.info/xdcc/) | irc.xertion.org | 6667 | #MK / #XDCCLeech |
-| [XDCC EU](https://www.xdcc.eu/) | - | - | - |
-| [SunXDCC](https://sunxdcc.com/) | - | - | - |
 
 <Button link="/guides/tech/irc" icon="i-octicon-command-palette-16">To learn how to use IRC, you can read the guide</Button>
 
