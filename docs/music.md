@@ -407,6 +407,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 - [spmp](https://github.com/toasterofbread/spmp) :win::lin:
 - [Harmony Music](https://github.com/anandnet/Harmony-Music) :win::lin:
 - [YouTube Music](https://github.com/th-ch/youtube-music) :win::app::lin:
+- [ytmdesktop2](https://youtube-music.app/) [:gh:](https://github.com/Venipa/ytmdesktop2) :win::app::lin:
 
 
 ### Foobar2000 add-ons
