@@ -1,74 +1,103 @@
 ---
 title: Start
 description: Getting started
-outline: [2-3]
 ---
 
 # Getting started
 
-## Local setup
+## Local
 
-### Requirement
-1. :logos-visual-studio-code: [VS Code](https://code.visualstudio.com/)
-2. :gh: [GitHub Desktop](https://github.com/apps/desktop)<tooltip>It's optional. You can do the same thing using VS Code. Can be easier using it depending on ur skill level. The guide assumes you went for this one.</tooltip>
-3. :logos-nodejs-icon-alt: [Node JS](https://nodejs.org/en)<tooltip>Only if you run wotaku locally in your browser. Otherwise ignore. Recommended to use LTSC version. You can try the latest too.</tooltip>
-4. :logos-git-icon: [Git](https://git-scm.com/)
+:::tabs
+
+== Step 1
+
+### Installing prerequisites
+1. :logos-git-icon: [Git](https://git-scm.com/)
+2. :logos-nodejs-icon-alt: [Node JS](https://nodejs.org/en)
+3. :logos-pnpm: [pnpm](https://pnpm.io/)
+
+Open powershell and run this:
+
+```bash
+# Download and install Chocolatey:
+powershell -c "irm https://community.chocolatey.org/install.ps1|iex"
+
+# Download and install Git:
+choco install git
+
+# Verify Git version:
+git -v
+
+# Download and install Node.js:
+choco install nodejs
+
+# Verify the Node.js version:
+node -v
+
+# Download and install pnpm:
+corepack enable pnpm
+
+# Verify pnpm version:
+pnpm -v
+
+```
+== Step 2
 
 ### Cloning
 
-1. Download and install the first two tools as instructed.  
-2. Open GitHub Desktop and log in using your GitHub account credentials.
-3. **Clone the Wotaku Repository**  
-   - Open Github Desktop and press `Ctrl + Shift + o`
-   - Go to URL tab and paste `https://github.com/wotakumoe/wotaku`. Also set the location.
-   - GitHub Desktop will clone the repository to your specified location.
+To clone the repository, open PowerShell in your desired folder and run:
 
-### Changing
+```bash
+git clone https://github.com/wotakumoe/wotaku.git
+cd wotaku
+```
 
-1. **Open the Project in Visual Studio Code**  
-   - Once the repository is cloned, you'll see options in GitHub Desktop's home screen.  
-   - Select **Open in VS Code** to open the project in Visual Studio Code.
-2. **Make Changes and Save**  
-   - Edit the files as needed.  
-   - Save your changes.
-     - Modified files will be highlighted in yellow
-     - New files will be in green
-     - Removed files will be in red in Github Desktop
-3. **Commit Changes Locally**  
-   - Return to GitHub Desktop. The modified files will be listed on the left.  
-   - Add a descriptive summary for your changes in the **Summary** tab.  
-   - Click **Commit to Main** to stage and commit your changes locally.  
+Alternatively, you can specify a directory without opening PowerShell in that location:
 
-::: tip README
-- Before pushing or editing your local repo, fetch the repo so that your local repo is updated and doesn't cause any conflict when pushing.
-- If you have multiple changes to commit, repeat this process for each set of changes before pushing them.
+```bash
+git clone https://github.com/wotakumoe/wotaku.git "C:\your\directory"
+cd "C:\your\directory\wotaku"
+```
+
+To clone the repository without its commit history (shallow clone):
+
+```bash
+git clone --depth 1 https://github.com/wotakumoe/wotaku.git
+cd wotaku
+```
+
+== Step 3
+
+### Installing dependencies
+
+```bash
+pnpm install
+
+```
+
+### Running in dev mode
+
+```bash
+pnpm docs:dev
+
+```
 :::
 
-4. After all your changes are committed, click **Push to Origin** to upload your changes to the GitHub repository.
-5. Done!
-
-
-
-### Running Localhost
-- Open wotaku in :logos-visual-studio-code: VS code
-- Then open **terminal** in :logos-visual-studio-code: VS code
-- Run `npm i -g pnpm`. This will install :logos-pnpm: **pnpm** using :logos-npm-icon: **npm**.
-- After that, run `pnpm i`. It will download and update all the required shit
-- After everything is done, run `pnpm run docs:dev`. It will run local host after processing the files and building it. after a short while it will give a localhost url. example `http://localhost:5173/`
-- Open the localhost url in browser by clicking on it. and done.
-
-
-## Icon conventions
-Wotaku fetches icons from [**Icones**](https://icones.js.org/). All the added iconpacks are [**here**](https://github.com/wotakumoe/wotaku/blob/main/docs/.vitepress/configs/emoji.ts#L20).
+## Icon
+Wotaku fetches icons using [**Iconfiy**](https://iconify.design/). To get the icon names, visit [**Iconify**](https://icon-sets.iconify.design/) or [**Icones**](https://icones.js.org/). All the added iconpacks are [**here**](https://github.com/wotakumoe/wotaku/blob/main/docs/.vitepress/configs/emoji.ts#L20).
 
 ### Writing Rules
-- In-line -> :package name-icon name:
-- Inside button, page icon -> :i-package name-icon name:
+
+| Section | Style |
+|-|-|
+| In-line | `:package name-icon name:` |
+| Button | `:i-package name-icon name:` |
+| Typescript | `<span class="i-package-name:icon-name"></span>` |
+| Index.md | SVG Code |
 
 
 ::: tip Using Alias
 Most used icons have been shortened using Alias. You can find them in [sheet](#sheet). They work in-line, not inside button. You have to use the traditional method.
-
 :::
 
 ![](/iconname.png)
@@ -86,6 +115,7 @@ Twitter emoji is the default iconpack for wotaku. For twemoji, you don't have to
 
 You have to add the iconpack manually in `docs\.vitepress\configs\emoji.ts`. Otherwise it wont work. Follow the already added ones as example.
 
+![URL entry convention](/conv.svg)
 
 ### Rules
 1. Follow the order of the tabs in [**sheet**](#sheet)
@@ -95,11 +125,16 @@ You have to add the iconpack manually in `docs\.vitepress\configs\emoji.ts`. Oth
 5. Then related buttons like Extensions, Alts, Proxies etc
 6. Unlike icons, there will be space between buttons (so that it is easy to click).
 7. If there is an icon for that button (example: GitHub), use [icon](URL). Otherwise normal button.
-8. Tooltip will always be at the end. Also with a space before it.
+8. Tooltip will always be at the end.
 
-**Example**: [Anisong Database](https://anisongdb.com/) :win::app::web: [:gh:](https://github.com/xSardine/AMQ-Artists-DB) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" /><tooltip>icons here are just for example. don't put them in main wiki</tooltip>
+**Example**: [Anisong Database](https://anisongdb.com/) :win::app::web: [:gh:](https://github.com/xSardine/AMQ-Artists-DB) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" />==demo==
 
-Sample code [**here**](https://rentry.org/ty7iihnf)
+```html
+[Anisong Database](https://anisongdb.com/) :win::app::web: [:gh:](https://github.com/xSardine/AMQ-Artists-DB) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" />==demo==
+```
+::: tip Adding tooltips
+To learn, how to add tooltips, [click here](#tooltips).
+:::
 
 ### Sheet
 
@@ -196,3 +231,7 @@ Sample code [**here**](https://rentry.org/ty7iihnf)
 
 :::
 
+
+## Tooltips
+
+`docs\.vitepress\configs\markdown\index.ts`
