@@ -129,11 +129,8 @@ You have to add the iconpack manually in `docs\.vitepress\configs\emoji.ts`. Oth
 
 **Example**: [Anisong Database](https://anisongdb.com/) :win::app::web: [:gh:](https://github.com/xSardine/AMQ-Artists-DB) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" />==demo==
 
-```html
-[Anisong Database](https://anisongdb.com/) :win::app::web: [:gh:](https://github.com/xSardine/AMQ-Artists-DB) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" />==demo==
-```
 ::: tip Adding tooltips
-To learn, how to add tooltips, [click here](#tooltips).
+To learn, how to add tooltips, [click here](#tooltip).
 :::
 
 ### Sheet
@@ -232,6 +229,57 @@ To learn, how to add tooltips, [click here](#tooltips).
 :::
 
 
-## Tooltips
+## Tooltip
 
-`docs\.vitepress\configs\markdown\index.ts`
+Tooltip is used to give extra information. The information should be precise. No need of stating something obvious. Tooltip has two components. The key will be beside the URL in the markdown file and key data will be in  `docs\.vitepress\configs\markdown\index.ts`. The key is case-sensitive.
+
+
+```ts
+
+// Single line
+
+key: { content: "markdown" }
+
+// Single line with other variables
+
+key2: {
+   title: "key2",
+   icon: "i-material-symbols-info-i",
+   content: "content"
+   }
+
+// Multi line with other variables
+
+multiline: {
+   title: "multiline",
+   icon: "i-material-symbols-info-i",
+   content: `This is **markdown** with
+ - A bullet point
+ - Another bullet point`
+   }
+
+```
+
+## Front matter
+
+For every markdown page, you have to add front matter. Otherwise, the build will fail.
+
+```yaml
+---
+title: Non-English
+description: Otaku resources for other regions
+customDescription: Discover anime, manga, and other related content for all the languages.
+outline: 2
+og:
+    image: https://files.catbox.moe/9wi4ma.png
+---
+```
+
+| Variables         | Description |
+|-------------------|-------------|
+| `title`           | Sets the title of the homepage and is also used for Open Graph (OG) embeds when sharing links. |
+| `description`     | Defines the OG description, though it is currently unused. It also works as a description for link embeds unless `customDescription` is specified. |
+| `customDescription` | Overrides the default OG description, providing a custom description for link embeds. |
+| `outline`        | Determines the header levels shown in the outline. The default is `2`, but you can specify a range, e.g., `[2,3]`, to include multiple levels. |
+| `og`             | Specifies a custom image for the OG link embed. By default, it uses the image set in `docs\.vitepress\configs\hooks\opengraph.ts`. If a custom OG image is needed for a specific page, it should be added in the front matter. The required resolution is `1800x900`. |
+
