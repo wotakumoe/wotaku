@@ -56,28 +56,38 @@ If you face any issues when connecting, try enabling **"Accept invalid SSL certi
 - [SunXDCC](https://sunxdcc.com/)
 - [XDCC.EU](https://www.xdcc.eu/)
 
+::: details SkullXDCC {open}
+1. Click on your desired file.
+2. Join the server and the channel of the bot. 
+3. Click on the marked place to copy the cmd. Then paste the cmd in that channel.
 
-::: info SunXDCC
-1. Join the server and the channel of the bot. 
-2. Make the bot command according to the standard form. For this screenshot the bot command will be `/msg [FutureBot]-[C21] xdcc send #530`
-	![SunXDCC](/ss/irc/sunxdcc.png)
+![SkullXDCC](/ss/irc/skull.webp)
 :::
 
-:::info XDCC.EU
-1. Click on the ℹ️ button
+::: details SunXDCC {open}
+1. Join the server and the channel of the bot. 
+2. Make the bot command according to the standard form. For this screenshot the bot command will be `/msg [FutureBot]-[C21] xdcc send #530`
+
+![SunXDCC](/ss/irc/sunxdcc.png)
+:::
+
+::: details XDCC.EU {open}
+1. Click on the :mingcute-information-line: button
 2. Join the server and the channel of the bot
 3. copy and send the bot command in the channel
-    ![XDCC.EU](/ss/irc/xdcceu.png)
+
+![XDCC.EU](/ss/irc/xdcceu.png)
 :::
 
 ## Batch DL
 
-- `/msg [botname] XDCC BATCH [a]-[b]` → Request packs with numbers a to b, including a and b, from the bot.
-- `/msg [botname] XDCC BATCH [a],[b],[c]` → Request packs with numbers [a],[b] and [c] from the bot.
-- `/msg [botname] XDCC BATCH [a]-[b] [password]` → Request passworded packs with numbers a to b, including a and b, with password "password" from the bot.
-- `/msg [botname] XDCC BATCH [a],[b],[c] [password]` → Request packs with numbers [a],[b] and [c], with password "password" from the bot.
-- `/msg [botname] XDCC BATCH [a],[b],[c]-[d]` → Request packs with numbers a, b and c to d from the bot. (i.e, you can combine the two methods of saying which set of packs you want)
-
+| Command                                      | Action                                                             |
+|----------------------------------------------|--------------------------------------------------------------------|
+| `/msg [botname] XDCC BATCH [a]-[b]`         | Request packs with numbers a to b, including a and b.             |
+| `/msg [botname] XDCC BATCH [a],[b],[c]`     | Request packs with numbers a, b, and c.                           |
+| `/msg [botname] XDCC BATCH [a]-[b] [password]` | Request passworded packs with numbers a to b, including a and b. |
+| `/msg [botname] XDCC BATCH [a],[b],[c] [password]` | Request packs with numbers a, b, and c, with a password. |
+| `/msg [botname] XDCC BATCH [a],[b],[c]-[d]` | Request packs with numbers a, b, and c to d.                      |
 
 ::: info More commands [here](https://wiki.xertion.org/w/XDCC_Commands).
 :::
