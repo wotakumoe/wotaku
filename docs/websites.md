@@ -173,7 +173,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 
 ## Online
 
-- [ComicK](https://comick.io/home) :s: [:rss:](https://manga-ldez.vercel.app/) ==ComicK==  
+- [ComicK](https://comick.io/home2) :s: [:rss:](https://manga-ldez.vercel.app/) ==ComicK==  
 - [MangaDex](https://mangadex.org/) [:rss:](https://mdrss.tijlvdb.me/) ==MangaDex==  
 - [Weeb Central](https://weebcentral.com/) ==WeebCentral==  
 - [Batoto](https://battwo.com/v3x) <Badge type="tip" text="Proxies" link="https://rentry.co/batoto" /> ==Batoto==  

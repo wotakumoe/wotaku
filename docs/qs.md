@@ -46,7 +46,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 ### Websites
 
 - **Online**
-  - [ComicK](https://comick.io/home2)
+  - [ComicK](https://comick.io/home22)
   - [MangaDex](https://mangadex.org/)
   - [Weeb Central](https://weebcentral.com/)
 - **Download**

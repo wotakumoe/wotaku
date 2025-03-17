@@ -90,7 +90,7 @@ We have listed the most trusted rippers in the [**Nyaa section**](/websites#nyaa
 :::
 
 :::details What's the best website to read manga?
-Personal preference. Good online manga reading sites generally reupload nyaa releases (when it's available replacing/alongside the fantranslated one), but with added compression (e.g. [**Comick**](https://comick.io/home), [**Weeb Central**](https://weebcentral.com/), [**MangaFire**](https://mangafire.to/home), [**Batoto**](https://battwo.com/v3x), [**Mangapark**](https://mangapark.net/)) & watermark on (almost) every page (mangafire :slightly-smiling-face: ). On the other hand, generic ones only keep the fan-translated ones. You can read a short description about the sites [**here**](/websites#manga).
+Personal preference. Good online manga reading sites generally reupload nyaa releases (when it's available replacing/alongside the fantranslated one), but with added compression (e.g. [**Comick**](https://comick.io/home2), [**Weeb Central**](https://weebcentral.com/), [**MangaFire**](https://mangafire.to/home), [**Batoto**](https://battwo.com/v3x), [**Mangapark**](https://mangapark.net/)) & watermark on (almost) every page (mangafire :slightly-smiling-face: ). On the other hand, generic ones only keep the fan-translated ones. You can read a short description about the sites [**here**](/websites#manga).
 :::
 
 :::details When will the new volume of "X" get ripped?
@@ -110,7 +110,7 @@ There are a few options. [**CDisplayEx**](https://www.cdisplayex.com/), [**YACRe
 :::
 
 :::details What's the best extension for mihon / tachiyomi?
-Like websites, it's also personal preference. But to us, [**Madokami**](/guides/manga/madokami) (in terms of quality) & [**Comick**](https://comick.io/home) (in terms of flexibility). There are also mangadex, batoto & others.
+Like websites, it's also personal preference. But to us, [**Madokami**](/guides/manga/madokami) (in terms of quality) & [**Comick**](https://comick.io/home2) (in terms of flexibility). There are also mangadex, batoto & others.
 :::
 
 :::details Why are the manga pages filled with squares / artifacts?
