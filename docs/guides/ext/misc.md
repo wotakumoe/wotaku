@@ -12,6 +12,7 @@ og:
 
 | Name | Region | Auto | Manual |
 | - | - | - | - |
+| [MegaRepo](https://github.com/self-similarity/MegaRepo/) ==megarepo== | :globe-showing-asia-australia: | [Install](cloudstreamrepo://raw.githubusercontent.com/self-similarity/MegaRepo/builds/repo.json) | [URL](https://raw.githubusercontent.com/self-similarity/MegaRepo/builds/repo.json) |
 | [Aniyomi Compat](https://github.com/CranberrySoup/AniyomiCompatExtension) | :globe-showing-asia-australia: | [Install](cloudstreamrepo://raw.githubusercontent.com/CranberrySoup/AniyomiCompatExtension/master/repo.json) | [URL](https://raw.githubusercontent.com/CranberrySoup/AniyomiCompatExtension/master/repo.json) |
 | [Avocado/Rowdy](https://github.com/Rowdy-Avocado/18plus-Extensions) | :ero: | [Install](cloudstreamrepo://raw.githubusercontent.com/Rowdy-Avocado/18plus-Extensions/refs/heads/builds/repo.json) | [URL](https://raw.githubusercontent.com/Rowdy-Avocado/18plus-Extensions/refs/heads/builds/repo.json) |
 | [Avocado/Rowdy](https://github.com/Rowdy-Avocado/Rowdycado-Extensions) | :globe-showing-asia-australia: | [Install](cloudstreamrepo://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/repo.json) | [URL](https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/repo.json) |
