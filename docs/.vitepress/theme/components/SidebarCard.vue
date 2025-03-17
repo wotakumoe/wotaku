@@ -33,7 +33,7 @@ import Field from './CardField.vue'
     </Field>
     <Field icon="i-lucide-magnet">Torrent / p2p</Field>
     <Field icon="i-iconoir-floppy-disk">Local</Field>
-    <Field icon="i-lucide-message-circle">Feedback</Field>
+    <Field icon="i-lucide-mail">Feedback</Field>
     <Field icon="i-material-symbols-info-outline-rounded">More Info</Field>
     <Field icon="i-mdi-arrow-right-bold">Related</Field>
   </div>
