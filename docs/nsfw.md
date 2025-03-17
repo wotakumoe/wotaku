@@ -196,6 +196,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [Anime-sharing](http://www.anime-sharing.com/forum/)
 - [ASMR Online](https://asmr.one/)
 - [DOJINDB](https://dojindb.net/) :fjp:
+- [Fapservice](https://fapservice.com/)
 - [Hemdomblog](https://www.hemdomblog.com/)
 - [HentTag](https://hentag.com/)
 - [Hentai ASMR](https://www.hentaiasmr.moe/)
@@ -204,6 +205,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [Kemono](https://kemono.su/)
 - [Manga-DB](https://adultcomic.dbsearch.net/) :fjp::s:
 - [Nekohouse](https://nekohouse.su/)
+- [Yuri Scenes in Non-Yuri Media](https://yuriscenes.com/)
 
 ## AV
 
