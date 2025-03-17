@@ -257,7 +257,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^          | [Anime Song Lyrics](https://www.animesonglyrics.com/) |
 | **Doujin**  | [Dojin Music](https://www.dojin-music.info/) |
 | ^^          | [VocaDB](https://vocadb.net/) |
-| ^^          | [Vocaloid Rankings](https://vocaloid-rankings.fly.dev/en) |
+| ^^          | [Vocaranking](https://vocaloid-rankings.fly.dev/en) [:gh:](https://github.com/Duosion/vocaloid-rankings) |
 | ^^          | [TouhouDB](https://touhoudb.com/) |
 | ^^          | [UtaiteDB](https://utaitedb.net/) |
 | ^^          | [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki) |
