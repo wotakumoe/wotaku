@@ -357,7 +357,8 @@ const tooltips: {
   secozzi: { content: 'For Jellyfin and Stremio' },
   kei: { content: 'Maintained by active Tachiyomi contributors' },
   komikku: { content: 'Mirrors Keiyoushi repo with a few extra extensions' },
-  demo: { content: 'Demo tooltips for start page' }
+  demo: { content: 'Demo tooltips for start page' },
+  mirai: { content: 'Syncs the Mangayomi repository and includes their own plugins' }
 }
 
 export function configureMarkdown(md: MarkdownRenderer) {
