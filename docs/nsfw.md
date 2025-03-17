@@ -34,7 +34,7 @@ og:
 - [Mucho Hentai](https://muchohentai.com/) <Badge type="info" text="Schedule" /> <Badge type="info" text="PV" />
 - [Oppai](https://oppai.stream/) <Badge type="info" text="Upscale" />
 - [Rule34video](https://rule34video.com/)
-- [Sakura Circle](https://sakuracircle.com/) :ddl:
+- [SakuraCircle](https://sakuracircle.com/) :ddl:
 - [UnderHentai](https://www.underhentai.net/) :strm::ddl:
 
 ## Manga
@@ -232,9 +232,10 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [r/pornhwa](https://old.reddit.com/r/pornhwa/) [:d:](https://discord.gg/epjkRVp7gD)
 - [:f: /h/](https://boards.4chan.org/h/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/h/" /> <Badge type="tip" text="Archive" link="https://archived.moe/h/" />
 - [:f: /e/](https://boards.4chan.org/e/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/e/" /> <Badge type="tip" text="Archive" link="https://archived.moe/e/" />
+- [:f: /u/](https://boards.4chan.org/u/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/u/" /> <Badge type="tip" text="Archive" link="https://archived.moe/u/" />
 - [r/Artistic_Hentai](https://old.reddit.com/r/Artistic_Hentai/)
 - [r/doujinshi](https://old.reddit.com/r/doujinshi/)
-- [r/ecchi](https://old.reddit.com/r/ecchi/)
+- [r/ecchi](https://old.reddit.com/r/ecchi/) [:d:](https://discord.gg/jVvSbYB)
 - [r/hentaimemes](https://old.reddit.com/r/hentaimemes/)
 - [r/HENTAI_GIF](https://old.reddit.com/r/HENTAI_GIF/)
 - [r/rule34](https://old.reddit.com/r/rule34/) [:d:](https://discord.gg/zMrMhpZ)
