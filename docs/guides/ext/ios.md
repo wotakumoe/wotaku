@@ -31,6 +31,7 @@ og:
 | Name | Region |
 | - | - |
 | [50/50](https://sora-modules.pages.dev/) [:gh:](https://github.com/50n50/sources) | :globe-showing-asia-australia: |
+| [ShadeOfChaos](https://github.com/ShadeOfChaos/Sora-Modules) | :globe-showing-asia-australia: |
 
 ::: tip Adding repo manually
 - Click on the **[site_name].json**
