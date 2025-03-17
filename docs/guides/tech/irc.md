@@ -56,7 +56,7 @@ If you face any issues when connecting, try enabling **"Accept invalid SSL certi
 - [SunXDCC](https://sunxdcc.com/)
 - [XDCC.EU](https://www.xdcc.eu/)
 
-::: details SkullXDCC {open}
+::: details SkullXDCC
 1. Click on your desired file.
 2. Join the server and the channel of the bot. 
 3. Click on the marked place to copy the cmd. Then paste the cmd in that channel.
@@ -64,14 +64,14 @@ If you face any issues when connecting, try enabling **"Accept invalid SSL certi
 ![SkullXDCC](/ss/irc/skull.webp)
 :::
 
-::: details SunXDCC {open}
+::: details SunXDCC
 1. Join the server and the channel of the bot. 
 2. Make the bot command according to the standard form. For this screenshot the bot command will be `/msg [FutureBot]-[C21] xdcc send #530`
 
 ![SunXDCC](/ss/irc/sunxdcc.png)
 :::
 
-::: details XDCC.EU {open}
+::: details XDCC.EU
 1. Click on the :mingcute-information-line: button
 2. Join the server and the channel of the bot
 3. copy and send the bot command in the channel
