@@ -205,7 +205,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [Kemono](https://kemono.su/)
 - [Manga-DB](https://adultcomic.dbsearch.net/) :fjp::s:
 - [Nekohouse](https://nekohouse.su/)
-- [Yuri Scenes in Non-Yuri Media](https://yuriscenes.com/)
+- [Yuri Scenes](https://yuriscenes.com/)
 
 ## AV
 
