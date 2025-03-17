@@ -175,16 +175,17 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 
 
 ### Downloader
-- [Hakuneko](https://github.com/manga-download/haruneko) :win::app::lin: <Badge type="info" text="Multi" /> <Badge type="tip" text="Old" link="https://github.com/manga-download/hakuneko" /> ==Hakuneko==
-- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) <Badge type="info" text="Multi" /> <Badge type="info" text="Anime" /> [:web:]()
-- [HDoujin Downloader](https://doujindownloader.com/) <Badge type="info" text="Multi" />
-- [Hentai downloader](https://github.com/touno-io/hentai-downloader) <Badge type="info" text="E-Hentai" />
-- [E-Hentai Downloader](https://github.com/ccloli/E-Hentai-Downloader) <Badge type="info" text="E-Hentai" />
-- [nHentai](https://github.com/RicterZ/nhentai) <Badge type="info" text="nHentai" />
-  - [nHentai GUI](https://github.com/edgar1016/nhentai-GUI)
-- [nHentai Archivist](https://github.com/9-FS/nhentai_archivist) <Badge type="info" text="nHentai" />
-- [nHentai Downloader](https://github.com/Xwilarg/NHentaiDownloader) <Badge type="info" text="nHentai" />
-- [NSFW Box](https://github.com/Kisspeace/NsfwBox) <Badge type="info" text="Multi" />
+| Website  | Downloader | Platform |
+|----------|----------------------|-|
+| **Multi** | [Hakuneko](https://github.com/manga-download/haruneko) <Badge type="tip" text="Old" link="https://github.com/manga-download/hakuneko" />==Hakuneko== | :win::app::lin: |
+|    ^^      | [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) | :win::app: |
+|    ^^     | [HDoujin Downloader](https://doujindownloader.com/) | :win: |
+|    ^^    | [NSFW Box](https://github.com/Kisspeace/NsfwBox) | :and::win: |
+| **E-Hentai**    | [E-Hentai Downloader](https://github.com/ccloli/E-Hentai-Downloader) | :js: |
+| **nHentai** | [nHentai](https://github.com/RicterZ/nhentai)  | :simple-icons-python::mdi-docker: |
+|     ^^   | [nHentai GUI](https://github.com/edgar1016/nhentai-GUI) | :win: |
+|     ^^    | [nHentai Archivist](https://github.com/9-FS/nhentai_archivist) | :win::lin::mdi-docker: |
+|     ^^   | [nHentai Downloader](https://github.com/Xwilarg/NHentaiDownloader) | :cr::ff: |
 
 
 ![](/banner/hoth.webp)
