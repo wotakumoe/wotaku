@@ -260,19 +260,17 @@ multiline: {
 
 ```
 
-## Front matter
+## Frontmatter
 
-For every markdown page, you have to add front matter. Otherwise, the build will fail.
+For every markdown page, you have to add frontmatter. Otherwise, the build will fail.
 
 ```yaml
----
 title: Non-English
 description: Otaku resources for other regions
 customDescription: Discover anime, manga, and other related content for all the languages.
 outline: 2
 og:
     image: https://files.catbox.moe/9wi4ma.png
----
 ```
 
 | Variables         | Description |
@@ -282,4 +280,3 @@ og:
 | `customDescription` | Overrides the default OG description, providing a custom description for link embeds. |
 | `outline`        | Determines the header levels shown in the outline. The default is `2`, but you can specify a range, e.g., `[2,3]`, to include multiple levels. |
 | `og`             | Specifies a custom image for the OG link embed. By default, it uses the image set in `docs\.vitepress\configs\hooks\opengraph.ts`. If a custom OG image is needed for a specific page, it should be added in the front matter. The required resolution is `1800x900`. |
-
