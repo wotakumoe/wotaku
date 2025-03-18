@@ -264,7 +264,7 @@ multiline: {
 
 For every markdown page, you have to add frontmatter. Otherwise, the build will fail.
 
-```yaml
+```md
 title: Non-English
 description: Otaku resources for other regions
 customDescription: Discover anime, manga, and other related content for all the languages.
