@@ -329,6 +329,8 @@ If you have recommendations for good sites in your native language or want to re
 ### Manga
 - [Komiku](https://komiku.id/)
 - [Komikcast](https://komikcast.bz/)
+- [Komik Indo](https://komikindo2.com/)
+- [Cuymanga](http://cuymanga.infy.uk/) [:gh:](https://github.com/whyudacok/Cuymanga)
 - [MGKOMIK](https://mgkomik.id/)
 - [Shinigami ID](https://shinigami08.com/)
 - [YuuManga](https://yuumanga.blogspot.com/)
@@ -630,9 +632,11 @@ ___
   - [JKAnime](https://jkanime.net/)
   - [TioAnime](https://tioanime.com/)
   - [OtakusTV](https://www1.otakustv.com/)
+  - [AnimeJL](https://www.anime-jl.net/)
   - [Mundo Donghua](https://www.mundodonghua.com/)
   - [Tio Donghua](https://tiodonghua.com/)
   - [HentaiLA](https://www5.hentaila.com/) <Badge type="danger" text="18+" />
+  - [HentaiJL](https://hentaijl.com/) <Badge type="danger" text="18+" />
 - **Download**
   - [Japan Paw](https://japanpaw.com/)
   - [SphinxAnime](https://sphinxanime.com/)
