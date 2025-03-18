@@ -103,7 +103,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 
 | Tracker       | App |
 |---------------|-------------|
-| **AniList**   | [AL-Chan](https://play.google.com/store/apps/details?id=com.zen.alchan) :cs: |
+| **AniList**   | [AL-Chan](https://github.com/zend10/AL-chan) |
 | ^^           | [AniHyou](https://github.com/axiel7/AniHyou-android) |
 | ^^           | [Kurumi](https://github.com/subrotokumar/kurumi) |
 | ^^           | [Otraku](https://github.com/lotusprey/otraku) |
