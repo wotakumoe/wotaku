@@ -76,11 +76,12 @@ outline: 1
 :::details Misc
 
 ### Others
-- [One Pace](https://linktr.ee/onepaceproject)
-  - [OnePace.net](https://onepace.net/en/watch)
-  - [OnePace.me](https://onepace.me/)
-  - [Stremio](https://github.com/au2001/onepace-stremio)
-  - [One Pace Public Subtitles](https://github.com/one-pace/one-pace-public-subtitles)
+| Name                        | Link |
+|-----------------------------|------|
+| [One Pace Project](https://linktr.ee/onepaceproject) | [One Pace](https://onepace.net/en/watch) |
+| ^^                          | [OnePace.me](https://onepace.me/) |
+| ^^                          | [Stremio](https://github.com/au2001/onepace-stremio) |
+| ^^                          | [One Pace Public Subtitles](https://github.com/one-pace/one-pace-public-subtitles) |
 - [Sonic Zone TV](https://soniczone.net/tv/home.html)
 - [Japanese Animated Film Classics](https://animation.filmarchives.jp/en/index.html)
 
@@ -117,22 +118,19 @@ outline: 1
 :::
 
 
-#### Reuploads / Untouched
-- [Flugel Anime](https://flugelanime.com/) :simple-icons-microsoftsharepoint:
-- [Tokyo Insider](https://www.tokyoinsider.com/) :ddl:
-- [JPFiles](https://jpfiles.net/) :host::mdi-disc:
-- [AnimeRSS](https://animerss.com/) :host::mdi-disc:
-___
-#### Re-encodes
-- [Kayoanime](https://kayoanime.com/) :sgd::batch:
-- [Mkvseries](https://mkvseries.com/) :sgd::batch:
-- [AnimeOut](https://www.animeout.xyz/) <Badge text="2" link="https://animewat.ch/" /> :ddl::acc:
-- [Chauthanh](https://chauthanh.info/) :ddl::acc:
-- [hi10anime](https://hi10anime.com/) :ddl::mag::acc::batch:
-___
-#### Subtitles
-- [Closed Caption Browser](https://cc.edatribe.com/#/) <Badge type="info" text="Dubtitles" />
-- [Open Subtitles](https://opensubtitles.org/)
+| Category      | Name |
+|--------------|------|
+| **Reuploads / Untouched** | [Flugel Anime](https://flugelanime.com/) :simple-icons-microsoftsharepoint: |
+| ^^ | [Tokyo Insider](https://www.tokyoinsider.com/) :ddl: |
+| ^^ | [JPFiles](https://jpfiles.net/) :host::mdi-disc: |
+| ^^ | [AnimeRSS](https://animerss.com/) :host::mdi-disc: |
+| **Re-encodes** | [Kayoanime](https://kayoanime.com/) :sgd::batch: |
+| ^^ | [Mkvseries](https://mkvseries.com/) :sgd::batch: |
+| ^^ | [AnimeOut](https://www.animeout.xyz/) :ddl::acc: <Badge text="2" link="https://animewat.ch/" /> |
+| ^^ | [Chauthanh](https://chauthanh.info/) :ddl::acc: |
+| ^^ | [hi10anime](https://hi10anime.com/) :ddl::mag::acc::batch: |
+| **Subtitles** | [Closed Caption Browser](https://cc.edatribe.com/#/) <Badge type="info" text="Dubtitles" /> |
+| ^^ | [Open Subtitles](https://opensubtitles.org/) |
 
 ::: tip Batch Downloading from Google Drive
 - To batch download from Google Drive, use [**JDownloader 2**](https://jdownloader.org/).
@@ -253,35 +251,37 @@ ___
 
 ## Scanlators
 
-### Manga
+| Group | Source | MDex | Baka |
+|-------|--------|-----|------|
+| [AGR Comics](https://agrcomics.com/) ==AGR== | :fjp::fkr::fcn: | [URL](https://mangadex.org/group/1dde9054-11fd-4f5e-a575-a50f7bd22d5f/animated-glitched-scans) | [URL](https://www.mangaupdates.com/group/nfkpfd9/agr-comics) |
+| [Assorted Scans](https://assortedscans.com/) | :fjp: | - | - |
+| [Asura Scans](https://asuracomic.net/) | :fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/juxsa9z/asura) |
+| [Danke fürs Lesen Scans](https://danke.moe/) | :fjp: | [URL](https://mangadex.org/group/91035fe1-d6b0-4816-be51-b54d05d546cf/danke-furs-lesen) | [URL](https://www.mangaupdates.com/group/xlp7424/danke-fuers-lesen) |
+| [Disaster Scans](https://disasterscans.com/) | :fcn: | - | - |
+| [Drake Scans](https://drakecomic.org/) | :fcn: | [URL](https://mangadex.org/group/50caf96d-fe2b-4638-9d13-4954b782e112/drake-scans) | [URL](https://www.mangaupdates.com/group/ktajd9u/drake-scans) |
+| [Flame Comics](https://flamecomics.com/) ==Flame== | :fkr::fcn: | [URL](https://mangadex.org/group/fdad9851-164f-43fc-9ab0-25b8054c99ed/flame-scans) | [URL](https://www.mangaupdates.com/group/btgsdiy/flame-scans) |
 
-- [AGR Comics](https://agrcomics.com/) + :fkr::fcn:  <Badge type="info" text="Dex" link="https://mangadex.org/group/1dde9054-11fd-4f5e-a575-a50f7bd22d5f/animated-glitched-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/nfkpfd9/agr-comics" />==AGR==
-- [Assorted Scans](https://assortedscans.com/)
-- [Danke fürs Lesen Scans](https://danke.moe/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/91035fe1-d6b0-4816-be51-b54d05d546cf/danke-furs-lesen" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/xlp7424/danke-fuers-lesen" />
-- [LHTranslation](https://lhtranslation.net/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/24adf288-d0e3-4d34-b342-bf8c189aacaa/lhtranslation" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/f6nc2yt/lhtranslation" />
-- [Scylla Comics](https://scyllacomics.xyz/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/4209a4a9-b838-4817-be40-0c8ef2f7be4a/scylla-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/groups.html?id=14042" /> ==Scylla==
-- [TCB Scans](https://tcbscans.me/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/db85f2a1-d69b-4181-a7a0-aa37db4bcbcf/tcb-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/wn8v9bv/tcb-scans" />
-- [Tritinia Scans](https://tritinia.org/) + :fcn::fkr:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/zfxsenj/tritinia-scans" />
 
-### Manhwa
-- [Asura Scans](https://asuracomic.net/) + :fcn:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/juxsa9z/asura" /> <Badge type="info" text="Free" link="https://asurascansfree.com/" />
-- [Flame Comics](https://flamecomics.com/) + :fcn:  <Badge type="info" text="Dex" link="https://mangadex.org/group/fdad9851-164f-43fc-9ab0-25b8054c99ed/flame-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/btgsdiy/flame-scans" />==Flame==
-- [Hive Toon](https://hivetoon.com/) + :fcn: <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/10nt2ki/infernal-void-scans" />==hive==
-- [Reaper Scans](https://reaperscans.com/) + :fcn:  <Badge type="info" text="Dex" link="https://mangadex.org/group/e892ed1b-ed75-414a-bc86-71226f3364ad/reaper-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/5ev5t5s/reaper-scans" />
-- [Reset Scans](https://rspro.xyz/home/) +:fjp::fcn:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/df9ckct/reset-scans" />
-- [Realm Oasis](https://realmoasis.com/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/v5djjz8/rizz-comics" />==realm==
-- [StoneScape](https://stonescape.xyz/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/zt7x4q1/stonescape" />
-- [UTOON](https://utoon.net/) +:fjp::fcn:  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/mtcug74/utoon" />==utoon==
-- [Zero Scans](https://zscans.com/) + :fcn:  <Badge type="info" text="Dex" link="https://mangadex.org/group/dd0a3018-21f1-4488-948c-08499b179fcf/zero-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/vlkvmk7/zero-scans-discord" />
+::: details More
 
-### Manhua
+| Group | Source | MDex | Baka |
+|-------|--------|-----|------|
+| [Hive Toon](https://hivetoon.com/) ==hive== | :fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/10nt2ki/infernal-void-scans) |
+| [LHTranslation](https://lhtranslation.net/) | :fjp: | [URL](https://mangadex.org/group/24adf288-d0e3-4d34-b342-bf8c189aacaa/lhtranslation) | [URL](https://www.mangaupdates.com/group/f6nc2yt/lhtranslation) |
+| [Manhua Ga](https://manhuaga.com/) | :fcn: | - | - |
+| [Manhua Plus](https://manhuaplus.com/) | :fcn: | - | [URL](https://www.mangaupdates.com/group/3apm0du/manhua-plus) |
+| [Reaper Scans](https://reaperscans.com/) | :fkr::fcn: | [URL](https://mangadex.org/group/e892ed1b-ed75-414a-bc86-71226f3364ad/reaper-scans) | [URL](https://www.mangaupdates.com/group/5ev5t5s/reaper-scans) |
+| [Realm Oasis](https://realmoasis.com/) ==realm== | :fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/v5djjz8/rizz-comics) |
+| [Reset Scans](https://rspro.xyz/home/) | :fjp::fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/df9ckct/reset-scans) |
+| [Scylla Comics](https://scyllacomics.xyz/) ==Scylla== | :fjp: | [URL](https://mangadex.org/group/4209a4a9-b838-4817-be40-0c8ef2f7be4a/scylla-scans) | [URL](https://www.mangaupdates.com/groups.html?id=14042) |
+| [StoneScape](https://stonescape.xyz/) | :fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/zt7x4q1/stonescape) |
+| [TCB Scans](https://tcbscans.me/) | :fjp: | [URL](https://mangadex.org/group/db85f2a1-d69b-4181-a7a0-aa37db4bcbcf/tcb-scans) | [URL](https://www.mangaupdates.com/group/wn8v9bv/tcb-scans) |
+| [Tritinia Scans](https://tritinia.org/) | :fjp::fcn::fkr: | - | [URL](https://www.mangaupdates.com/group/zfxsenj/tritinia-scans) |
+| [UTOON](https://utoon.net/) ==utoon== | :fjp::fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/mtcug74/utoon) |
+| [Zero Scans](https://zscans.com/) | :fkr::fcn: | [URL](https://mangadex.org/group/dd0a3018-21f1-4488-948c-08499b179fcf/zero-scans) | [URL](https://www.mangaupdates.com/group/vlkvmk7/zero-scans-discord) |
+| [xCaliBR Scans](https://xcalibrscans.com/webcomics/) | :fcn: | - | [URL](https://www.mangaupdates.com/group/ynopo9s/cursed-xcalibr) |
 
-- [Disaster Scans](https://disasterscans.com/)
-- [Drake Scans](https://drakecomic.org/)  <Badge type="info" text="Dex" link="https://mangadex.org/group/50caf96d-fe2b-4638-9d13-4954b782e112/drake-scans" /> <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/ktajd9u/drake-scans" />
-- [Manhua Ga](https://manhuaga.com/)
-- [Manhua Plus](https://manhuaplus.com/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/3apm0du/manhua-plus" />
-- [xCaliBR Scans](https://xcalibrscans.com/webcomics/)  <Badge type="info" text="Baka" link="https://www.mangaupdates.com/group/ynopo9s/cursed-xcalibr" />
-
+:::
 
 ::: details :more: Related resources
 - [Manga apps for Android](/software#manga-readers) and [PC](/software#manga-readers-2)
