@@ -234,8 +234,7 @@ To learn, how to add tooltips, [click here](#tooltip).
 Tooltip is used to give extra information. The information should be precise. No need of stating something obvious. Tooltip has two components. The key will be beside the URL in the markdown file and key data will be in  `docs\.vitepress\configs\markdown\index.ts`. The key is case-sensitive.
 
 
-```ts
-
+```
 // Single line
 
 key: { content: "markdown" }
@@ -264,7 +263,7 @@ multiline: {
 
 For every markdown page, you have to add frontmatter. Otherwise, the build will fail.
 
-```md
+```
 title: Non-English
 description: Otaku resources for other regions
 customDescription: Discover anime, manga, and other related content for all the languages.
