@@ -31,7 +31,7 @@ Some apps might not support **Auto Install method**. That doesn't mean the guide
 | Name | Region | Auto | Manual |
 | - | - | - | - |
 | [Keiyoushi](https://keiyoushi.github.io/) [:gh:](https://github.com/keiyoushi/extensions) ==kei== | :globe-showing-asia-australia: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json) |
-| [Komikku](https://komikku-repo.github.io/) [:gh:](https://github.com/komikku-repo/komikku-extensions)==komikku== | :globe-showing-asia-australia: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/komikku-repo/extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/komikku-repo/extensions/repo/index.min.json) |
+| [Komikku](https://github.com/komikku-repo/komikku-extensions) ==komikku== | :globe-showing-asia-australia: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/komikku-repo/extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/komikku-repo/extensions/repo/index.min.json) |
 | [Kavita](https://github.com/Kareadita/tach-extension/) | :globe-showing-asia-australia: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/Kareadita/tach-extension/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Kareadita/tach-extension/repo/index.min.json) |
 | [Suwayomi](https://github.com/Suwayomi/tachiyomi-extension) | :globe-showing-asia-australia: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/Suwayomi/tachiyomi-extension/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Suwayomi/tachiyomi-extension/repo/index.min.json) |
 
