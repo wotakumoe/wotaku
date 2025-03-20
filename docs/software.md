@@ -238,7 +238,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | [YACReader](https://www.yacreader.com/) [:gh:](https://github.com/YACReader/yacreader) ==YACReader== | :win::app::lin: |
 | [CDisplayEx](https://www.cdisplayex.com/) :cs: ==CDisplayEx== | :win: |
 | [Yomikiru](https://github.com/mienaiyami/yomikiru) ==Yomikiru== | :win::lin: |
-| [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) | :win: |
+| [NeeView](https://neelabo.github.io/NeeView/en-us/) [:gh:](https://github.com/neelabo/NeeView) | :win: |
 | [OpenComic](https://github.com/ollm/OpenComic) ==OpenComic== | :win::app::lin: |
 | [MComix](https://sourceforge.net/projects/mcomix/files/) ==MComix== | :win::lin: |
 | [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) [:gh:](https://github.com/sumatrapdfreader/sumatrapdf) ==SumatraPDF== | :win: |

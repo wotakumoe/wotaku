@@ -23,7 +23,7 @@ og:
 
 ### PC
 - **Dedicated**
-  - [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) :win:
+  - [NeeView](https://neelabo.github.io/NeeView/en-us/) :win: [:gh:](https://github.com/neelabo/NeeView)
   - [YACReader](https://www.yacreader.com/) :win::app::lin: :warning: [:gh:](https://github.com/YACReader/yacreader)<tooltip>For some lossy original images it won't work. Kinda random.</tooltip>
   - [Komelia](https://github.com/Snd-R/Komelia) :win::lin: <Badge type="info" text="Komga" />
 - **Photo Viewer**
