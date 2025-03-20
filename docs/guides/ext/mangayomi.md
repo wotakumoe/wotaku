@@ -16,29 +16,29 @@ og:
 
 | Name | Region | Auto | Anime | Manga | Novel |
 |-|-|-|-|-|-|
-| [Kodjo](https://github.com/kodjodevf/mangayomi-extensions) | :globe-showing-asia-australia: | [Install](mangayomi://add-repo?repo_name=mangayomi-extensions&repo_url=https://github.com/kodjodevf/mangayomi-extensions&manga_url=https://kodjodevf.github.io/mangayomi-extensions/index.json&anime_url=https://kodjodevf.github.io/mangayomi-extensions/anime_index.json&novel_url=https://kodjodevf.github.io/mangayomi-extensions/novel_index.json) | :yes: | :yes: | :yes: |
-| [MiraiEnoki](https://github.com/MiraiEnoki/anymex-extensions) ==mirai== | :globe-showing-asia-australia: | [Install](mangayomi://add-repo?repo_name=mangayomi-extensions&repo_url=https://github.com/miraienoki/anymex-extensions&manga_url=https://miraienoki.github.io/anymex-extensions/index.json&anime_url=https://miraienoki.github.io/anymex-extensions/anime_index.json&novel_url=https://miraienoki.github.io/anymex-extensions/novel_index.json) | :yes: | :yes: | :yes: |
+| [Kodjo](https://github.com/kodjodevf/mangayomi-extensions) | :global: | [Install](mangayomi://add-repo?repo_name=mangayomi-extensions&repo_url=https://github.com/kodjodevf/mangayomi-extensions&manga_url=https://kodjodevf.github.io/mangayomi-extensions/index.json&anime_url=https://kodjodevf.github.io/mangayomi-extensions/anime_index.json&novel_url=https://kodjodevf.github.io/mangayomi-extensions/novel_index.json) | :yes: | :yes: | :yes: |
+| [MiraiEnoki](https://github.com/MiraiEnoki/anymex-extensions) ==mirai== | :global: | [Install](mangayomi://add-repo?repo_name=mangayomi-extensions&repo_url=https://github.com/miraienoki/anymex-extensions&manga_url=https://miraienoki.github.io/anymex-extensions/index.json&anime_url=https://miraienoki.github.io/anymex-extensions/anime_index.json&novel_url=https://miraienoki.github.io/anymex-extensions/novel_index.json) | :yes: | :yes: | :yes: |
 | [Gato404](https://github.com/gato404/kegareta-sauces) | :ero: | [Install](mangayomi://add-repo?repo_name=kegareta-sauces&repo_url=https://github.com/gato404/kegareta-sauces&manga_url=https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/index.json&anime_url=https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/anime_index.json) | :yes: | :yes: | :no: |
 
 ### Anime
 | Name | Region | Auto | Manual |
 | - | - | - | - |
-| [Kodjo](https://github.com/kodjodevf/mangayomi-extensions) | :globe-showing-asia-australia: | [Install](mangayomi://add-repo?anime_url=https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/anime_index.json) | [URL](https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/anime_index.json) |
-| [MiraiEnoki](https://github.com/MiraiEnoki/anymex-extensions) | :globe-showing-asia-australia: | [Install](mangayomi://add-repo?anime_url=https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/anime_index.json) | [URL](https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/anime_index.json) |
+| [Kodjo](https://github.com/kodjodevf/mangayomi-extensions) | :global: | [Install](mangayomi://add-repo?anime_url=https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/anime_index.json) | [URL](https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/anime_index.json) |
+| [MiraiEnoki](https://github.com/MiraiEnoki/anymex-extensions) | :global: | [Install](mangayomi://add-repo?anime_url=https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/anime_index.json) | [URL](https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/anime_index.json) |
 | [Gato404](https://github.com/gato404/kegareta-sauces) | :ero: | [Install](mangayomi://add-repo?anime_url=https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/anime_index.json) | [URL](https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/anime_index.json) |
 
 ### Manga
 | Name | Region | Auto | Manual |
 | - | - | - | - |
-| [Kodjo](https://github.com/kodjodevf/mangayomi-extensions) | :globe-showing-asia-australia: | [Install](mangayomi://add-repo?manga_url=https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/index.json) | [URL](https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/index.json) |
-| [MiraiEnoki](https://github.com/MiraiEnoki/anymex-extensions) | :globe-showing-asia-australia: | [Install](mangayomi://add-repo?manga_url=https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/index.json) | [URL](https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/index.json) |
+| [Kodjo](https://github.com/kodjodevf/mangayomi-extensions) | :global: | [Install](mangayomi://add-repo?manga_url=https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/index.json) | [URL](https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/index.json) |
+| [MiraiEnoki](https://github.com/MiraiEnoki/anymex-extensions) | :global: | [Install](mangayomi://add-repo?manga_url=https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/index.json) | [URL](https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/index.json) |
 | [Gato404](https://github.com/gato404/kegareta-sauces) | :ero: | [Install](mangayomi://add-repo?manga_url=https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/index.json) | [URL](https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/index.json) |
 
 ### Novels
 | Name | Region | Auto | Manual |
 | - | - | - | - |
-| [Kodjo](https://github.com/kodjodevf/mangayomi-extensions) | :globe-showing-asia-australia: | [Install](mangayomi://add-repo?novel_url=https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/novel_index.json) | [URL](https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/novel_index.json) |
-| [MiraiEnoki](https://github.com/MiraiEnoki/anymex-extensions) | :globe-showing-asia-australia: | [Install](mangayomi://add-repo?novel_url=https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/novel_index.json) | [URL](https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/novel_index.json) |
+| [Kodjo](https://github.com/kodjodevf/mangayomi-extensions) | :global: | [Install](mangayomi://add-repo?novel_url=https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/novel_index.json) | [URL](https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/novel_index.json) |
+| [MiraiEnoki](https://github.com/MiraiEnoki/anymex-extensions) | :global: | [Install](mangayomi://add-repo?novel_url=https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/novel_index.json) | [URL](https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/novel_index.json) |
 
 
 ## Sideloading Methods

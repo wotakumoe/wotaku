@@ -12,18 +12,18 @@ og:
 
 | Name | Region | Auto | Manual |
 | - | - | - | - |
-| [MegaRepo](https://github.com/self-similarity/MegaRepo/) ==megarepo== | :globe-showing-asia-australia: | [Install](cloudstreamrepo://raw.githubusercontent.com/self-similarity/MegaRepo/builds/repo.json) | [URL](https://raw.githubusercontent.com/self-similarity/MegaRepo/builds/repo.json) |
-| [Aniyomi Compat](https://github.com/CranberrySoup/AniyomiCompatExtension) | :globe-showing-asia-australia: | [Install](cloudstreamrepo://raw.githubusercontent.com/CranberrySoup/AniyomiCompatExtension/master/repo.json) | [URL](https://raw.githubusercontent.com/CranberrySoup/AniyomiCompatExtension/master/repo.json) |
+| [MegaRepo](https://github.com/self-similarity/MegaRepo/) ==megarepo== | :global: | [Install](cloudstreamrepo://raw.githubusercontent.com/self-similarity/MegaRepo/builds/repo.json) | [URL](https://raw.githubusercontent.com/self-similarity/MegaRepo/builds/repo.json) |
+| [Aniyomi Compat](https://github.com/CranberrySoup/AniyomiCompatExtension) | :global: | [Install](cloudstreamrepo://raw.githubusercontent.com/CranberrySoup/AniyomiCompatExtension/master/repo.json) | [URL](https://raw.githubusercontent.com/CranberrySoup/AniyomiCompatExtension/master/repo.json) |
 | [Avocado/Rowdy](https://github.com/Rowdy-Avocado/18plus-Extensions) | :ero: | [Install](cloudstreamrepo://raw.githubusercontent.com/Rowdy-Avocado/18plus-Extensions/refs/heads/builds/repo.json) | [URL](https://raw.githubusercontent.com/Rowdy-Avocado/18plus-Extensions/refs/heads/builds/repo.json) |
-| [Avocado/Rowdy](https://github.com/Rowdy-Avocado/Rowdycado-Extensions) | :globe-showing-asia-australia: | [Install](cloudstreamrepo://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/repo.json) | [URL](https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/repo.json) |
+| [Avocado/Rowdy](https://github.com/Rowdy-Avocado/Rowdycado-Extensions) | :global: | [Install](cloudstreamrepo://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/repo.json) | [URL](https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/repo.json) |
 | [Azya](https://git.disroot.org/ayza/FStream) | :flag-france: | [Install](cloudstreamrepo://git.disroot.org/ayza/FStream/raw/branch/main/repo.json) | [URL](https://git.disroot.org/ayza/FStream/raw/branch/main/repo.json) |
 | [CakesTwix](https://github.com/CakesTwix/cloudstream-extensions-uk) | :flag-ukraine: | [Install](cloudstreamrepo://raw.githubusercontent.com/CakesTwix/cloudstream-extensions-uk/master/repo.json) | [URL](https://raw.githubusercontent.com/CakesTwix/cloudstream-extensions-uk/master/repo.json) |
 | [CSX](https://github.com/SaurabhKaperwan/CSX) | :flag-india: | [Install](cloudstreamrepo://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CS.json) | [URL](https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CS.json) |
-| [CuxPlug](https://github.com/ycngmn/CuxPlug) | :globe-showing-asia-australia: | [Install](cloudstreamrepo://raw.githubusercontent.com/ycngmn/CuxPlug/refs/heads/main/repo.json) | [URL](https://raw.githubusercontent.com/ycngmn/CuxPlug/refs/heads/main/repo.json) |
+| [CuxPlug](https://github.com/ycngmn/CuxPlug) | :global: | [Install](cloudstreamrepo://raw.githubusercontent.com/ycngmn/CuxPlug/refs/heads/main/repo.json) | [URL](https://raw.githubusercontent.com/ycngmn/CuxPlug/refs/heads/main/repo.json) |
 | [doGior](https://github.com/doGior/doGiorsHadEnough) | :flag-italy: | [Install](cloudstreamrepo://raw.githubusercontent.com/doGior/doGiorsHadEnough/refs/heads/builds/repo.json) | [URL](https://raw.githubusercontent.com/doGior/doGiorsHadEnough/refs/heads/builds/repo.json) |
 | [Gian-Fr](https://github.com/Gian-Fr/ItalianProvider) | :flag-italy: | [Install](cloudstreamrepo://raw.githubusercontent.com/Gian-Fr/ItalianProvider/builds/repo.json) | [URL](https://raw.githubusercontent.com/Gian-Fr/ItalianProvider/builds/repo.json) |
 | [Kekik](https://github.com/keyiflerolsun/Kekik-cloudstream) | :flag-turkiye: | [Install](cloudstreamrepo://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/master/repo.json) | [URL](https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/master/repo.json) |
-| [Phisher](https://github.com/phisher98/cloudstream-extensions-phisher) | :globe-showing-asia-australia: | [Install](cloudstreamrepo://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/repo.json) | [URL](https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/repo.json) |
+| [Phisher](https://github.com/phisher98/cloudstream-extensions-phisher) | :global: | [Install](cloudstreamrepo://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/repo.json) | [URL](https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/repo.json) |
 | [Redowan](https://github.com/redowan99/Redowan-CloudStream) | :flag-bangladesh: | [Install](cloudstreamrepo://raw.githubusercontent.com/redowan99/Redowan-CloudStream/master/repo.json) | [URL](https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/master/repo.json) |
 | [Tearrs](https://gitlab.com/tearrs/cloudstream-vietnamese) | :flag-vietnam: | [Install](cloudstreamrepo://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/repo.json) | [URL](https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/repo.json) |
 
@@ -39,7 +39,7 @@ og:
 
 | Name | Region | Auto | Manual |
 | - | - | - | - |
-| [Dannovels](https://github.com/dannovels/novel-extensions) | :globe-showing-asia-australia: | [Install](novelyomi://add-repo?url=https://raw.githubusercontent.com/dannovels/novel-extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/dannovels/novel-extensions/refs/heads/repo/index.min.json) |
+| [Dannovels](https://github.com/dannovels/novel-extensions) | :global: | [Install](novelyomi://add-repo?url=https://raw.githubusercontent.com/dannovels/novel-extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/dannovels/novel-extensions/refs/heads/repo/index.min.json) |
 
 ## Legado
 | Name | Region | Auto | Manual |
@@ -49,4 +49,4 @@ og:
 ## LNReader
 | Name | Region | Auto | Manual |
 | - | - | - | - |
-| [Official](https://lnreader.github.io/plugins) [:gh:](https://github.com/LNReader/lnreader-plugins) | :globe-showing-asia-australia: | [Install](lnreader://repo/add?url=https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v3.0.0/.dist/plugins.min.json) | [URL](https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v3.0.0/.dist/plugins.min.json) |
+| [Official](https://lnreader.github.io/plugins) [:gh:](https://github.com/LNReader/lnreader-plugins) | :global: | [Install](lnreader://repo/add?url=https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v3.0.0/.dist/plugins.min.json) | [URL](https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v3.0.0/.dist/plugins.min.json) |

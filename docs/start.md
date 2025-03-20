@@ -225,6 +225,7 @@ To learn, how to add tooltips, [click here](#tooltip).
 | :more: | `:more:` | Related resources |
 | :yes: | `:yes:` | Supported |
 | :no: | `:no:` | Not supported |
+| :global: | `:global:` | Multilingual |
 
 :::
 

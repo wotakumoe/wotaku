@@ -20,9 +20,9 @@ Some apps might not support **Auto Install method**. That doesn't mean the guide
 
 | Name | Region | Auto | Manual |
 | - | - | - | - |
-| [Kohi-den](https://github.com/Kohi-den/extensions) [:gh:](https://github.com/Kohi-den/extensions-source) ==kohi== | :globe-showing-asia-australia: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json) | [URL](https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json) |
-| [ni3x](https://github.com/ni3x/aniyomi-extensions) ==ni3x== | :globe-showing-asia-australia: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/ni3x/aniyomi-extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/ni3x/aniyomi-extensions/repo/index.min.json) |
-| [Secozzi](https://github.com/Secozzi/aniyomi-extensions) ==secozzi== | :globe-showing-asia-australia: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/Secozzi/aniyomi-extensions/refs/heads/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Secozzi/aniyomi-extensions/refs/heads/repo/index.min.json) |
+| [Kohi-den](https://github.com/Kohi-den/extensions) [:gh:](https://github.com/Kohi-den/extensions-source) ==kohi== | :global: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json) | [URL](https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json) |
+| [ni3x](https://github.com/ni3x/aniyomi-extensions) ==ni3x== | :global: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/ni3x/aniyomi-extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/ni3x/aniyomi-extensions/repo/index.min.json) |
+| [Secozzi](https://github.com/Secozzi/aniyomi-extensions) ==secozzi== | :global: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/Secozzi/aniyomi-extensions/refs/heads/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Secozzi/aniyomi-extensions/refs/heads/repo/index.min.json) |
 | [Claudemirovsky](https://github.com/Claudemirovsky/cursedyomi-extensions) | :flag-brazil::flag-turkiye: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/Claudemirovsky/cursedyomi-extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Claudemirovsky/cursedyomi-extensions/repo/index.min.json) |
 | [hollow](https://codeberg.org/hollow/aniyomi-extensions-fr) | :flag-france: | [Install](aniyomi://add-repo?url=https://codeberg.org/hollow/aniyomi-extensions-fr/media/branch/repo/index.min.json) | [URL](https://codeberg.org/hollow/aniyomi-extensions-fr/media/branch/repo/index.min.json) |
 
@@ -30,10 +30,10 @@ Some apps might not support **Auto Install method**. That doesn't mean the guide
 ### Manga
 | Name | Region | Auto | Manual |
 | - | - | - | - |
-| [Keiyoushi](https://keiyoushi.github.io/) [:gh:](https://github.com/keiyoushi/extensions) ==kei== | :globe-showing-asia-australia: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json) |
-| [Komikku](https://github.com/komikku-repo/komikku-extensions) ==komikku== | :globe-showing-asia-australia: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/komikku-repo/extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/komikku-repo/extensions/repo/index.min.json) |
-| [Kavita](https://github.com/Kareadita/tach-extension/) | :globe-showing-asia-australia: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/Kareadita/tach-extension/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Kareadita/tach-extension/repo/index.min.json) |
-| [Suwayomi](https://github.com/Suwayomi/tachiyomi-extension) | :globe-showing-asia-australia: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/Suwayomi/tachiyomi-extension/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Suwayomi/tachiyomi-extension/repo/index.min.json) |
+| [Keiyoushi](https://keiyoushi.github.io/) [:gh:](https://github.com/keiyoushi/extensions) ==kei== | :global: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json) |
+| [Komikku](https://github.com/komikku-repo/komikku-extensions) ==komikku== | :global: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/komikku-repo/extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/komikku-repo/extensions/repo/index.min.json) |
+| [Kavita](https://github.com/Kareadita/tach-extension/) | :global: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/Kareadita/tach-extension/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Kareadita/tach-extension/repo/index.min.json) |
+| [Suwayomi](https://github.com/Suwayomi/tachiyomi-extension) | :global: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/Suwayomi/tachiyomi-extension/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Suwayomi/tachiyomi-extension/repo/index.min.json) |
 
 
 ## Sideloading Methods
