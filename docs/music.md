@@ -130,7 +130,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [Squid.wtf](https://squid.wtf/) :s: | Qobuz, Deezer, THInsider |
 | [DAB Music Player](https://dab-music.vercel.app/) ==dab== | Qobuz |
 | [Lucida](https://lucida.to/) <Badge type="tip" text="2" link="https://lucida.su/" /> | Qobuz, Tidal, Amazon Music, Deezer, Yandex |
-| [:tg: Beatspot Music](https://t.me/BeatSpotBot) | - |
 
 ## Doujin
 
