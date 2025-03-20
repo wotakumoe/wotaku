@@ -650,7 +650,7 @@ ___
 - [TuMangaOnline](https://zonatmo.com/)
 - [Plot Twist No Fansub](https://plotnf.com/)
 - [AnzMangas](https://www.anzmangashd.com/)
-- [Manga Crab](https://mangacrab.com/)
+- [Manga Crab](https://mangacrab.org/)
 
 ### Light Novels
 - [ZeePubs](https://zeepubs.wordpress.com/)
