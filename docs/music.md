@@ -164,13 +164,13 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 | Website | Quality | Tag |
 |---------|---------|-----|
-| [asia DREAM radio](https://asiadreamradio.torontocast.stream/stations/en/index.html) | [128](https://asiadreamradio.torontocast.stream/stations/newstream.html) | Geneal |
-| [J1 Radio](https://www.j1fm.tokyo/player/j1hits/) | [128](https://www.j1fm.tokyo/listen/) | General |
-| [Nightwave Plaza](https://plaza.one/) [:and:](https://play.google.com/store/apps/details?id=one.plaza.nightwaveplaza) [:app:](https://apps.apple.com/us/app/nightwave-plaza/id1532678227) [:gh:](https://github.com/nightwaveplaza/plaza) | [128](https://plaza.one/plaza.m3u) | Vaporwave |
-| [Patchwork Radio](https://patchwork.moekyun.me/radio) | [192](https://a4.asurahosting.com/public/patchworkarchive/playlist.m3u) | VTuber |
+| [asia DREAM radio](https://asiadreamradio.torontocast.stream/stations/en/index.html) | [MP3 128](https://asiadreamradio.torontocast.stream/stations/newstream.html) | Geneal |
+| [J1 Radio](https://www.j1fm.tokyo/player/j1hits/) | [MP3 128](https://www.j1fm.tokyo/listen/) | General |
+| [Nightwave Plaza](https://plaza.one/) [:and:](https://play.google.com/store/apps/details?id=one.plaza.nightwaveplaza) [:app:](https://apps.apple.com/us/app/nightwave-plaza/id1532678227) [:gh:](https://github.com/nightwaveplaza/plaza) | [MP3 128](https://plaza.one/plaza.m3u) | Vaporwave |
+| [Patchwork Radio](https://patchwork.moekyun.me/radio) | [MP3 192](https://a4.asurahosting.com/public/patchworkarchive/playlist.m3u) | VTuber |
 | [Sasalele Music Station](https://basic.pp.ua/) [:gh:](https://github.com/Mikeexe2/Sasalele-Music-Station) | :no: | Aggregator |
 | [Wapchan](https://radio.wapchan.org/public/wapfm) | [128](https://radio.wapchan.org/public/wapfm/playlist.pls) | City Pop |
-| [Yumi Co. Radio](https://yumicoradio.net/) | [256](http://s1.yumicoradio.net:8000/stream.m3u) | City Pop |
+| [Yumi Co. Radio](https://yumicoradio.net/) | [MP3 256](http://s1.yumicoradio.net:8000/stream.m3u) | City Pop |
 
 
 ## Anime
