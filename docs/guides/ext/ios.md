@@ -30,6 +30,7 @@ og:
 
 | Name | Region |
 | - | - |
+| [Compilation](https://sora.jm26.net/library/) | :globe-showing-asia-australia: |
 | [50/50](https://sora-modules.pages.dev/) [:gh:](https://github.com/50n50/sources) | :globe-showing-asia-australia: |
 | [ShadeOfChaos](https://github.com/ShadeOfChaos/Sora-Modules) | :globe-showing-asia-australia: |
 
