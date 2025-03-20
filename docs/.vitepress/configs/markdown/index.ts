@@ -360,7 +360,7 @@ const tooltips: {
   demo: { content: 'Demo tooltips for start page' },
   mirai: { content: 'Syncs the Mangayomi repository and includes their own plugins' },
   megarepo: { content: 'Adds all the repo present in /recloudstream/cs-repos' },
-  dab: { content: 'It downloads from qobuz streaming platform, which only supports flac. So, you wont be able to download other formats mentioned in the about page.' }
+  dab: { content: 'Downloads from the Qobuz streaming platform, which only supports FLAC, not the other formats mentioned in the About page.' }
 }
 
 export function configureMarkdown(md: MarkdownRenderer) {
