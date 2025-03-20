@@ -58,7 +58,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 | [Amazon Music](https://music.amazon.com/) | :paid: | Opus 320 | 24/192 | Dolby Atmos, Sony 360 | General |
 | [Apple Music](https://music.apple.com/) | :paid: | AAC 256 | 24/192 | Dolby Atmos | General |
 | [Deezer](https://www.deezer.com/) | :paid:<sup>1</sup> | MP3 320 | 16/44.1 | :no: | General |
-| [Qobuz](https://play.qobuz.com/) | :paid: | MP3 320 | 24/192 | :no: | Western |
+| [Qobuz](https://play.qobuz.com/) | :paid: | MP3 320 | 24/192 | DSD | Western |
 | [Spotify](https://spotify.com/) | :fm: | [Varies](https://support.spotify.com/bd-en/article/audio-quality/) | 16/44.1<sup>2</sup> | :no: | General |
 | [Tidal](https://tidal.com/) | :paid: | AAC 320 | 24/192 | Dolby Atmos | Western |
 | [YouTube Music](https://music.youtube.com/) | :fm: | Opus 256 | :no: | :no: | General |
@@ -103,88 +103,104 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 ## Anime
 
-- **FLAC & MP3**
-  - [Nyaa](https://nyaa.si/) :s::mag: <Badge type="info" text="Proxies" link="https://rentry.org/nyaap" />
-  - [Sitting on Clouds](https://www.sittingonclouds.net/) :s::sm::smf: <Badge type="info" text="2" link="https://www.sittingonclouds.com/" /> <Badge type="info" text="3" link="https://www.sittingonclouds.org/" /> <Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" />
-  - [SquidBoard](https://www.squid-board.org/) :acc::sgd::sm::smf:
-  - [Sukidesu OST](https://sukidesuost.info/) :sm::mag:
-  - [RuTracker.org](https://rutracker.org/forum/index.php) :mag:
-  - [Asia Media Blog](https://asiamediablog.com/media/music/) :host: <Badge type="danger" text="18+" /> <Badge type="info" text="Proxies" link="https://rentry.org/wotaxy#asia-media-blog" />
-- **MP3**
-  - [Nipponsei](https://nipponsei.minglong.org/tracker/) :mag:
-  - [OS Anime](https://osanime.com/) :ddl:
-  - [Hiyori OST](https://www.hiyoriost.com/) :sgd::host:
-  - [Sakura OST](https://www.sakuraost.com/) :host:
+### FLAC & MP3
+
+| Website | Type | Host |
+|-|-|-|
+| [Nyaa](https://nyaa.si/) :s: <Badge type="info" text="Proxies" link="https://rentry.org/nyaap" /> | :mag: | - |
+| [Sitting on Clouds](https://www.sittingonclouds.net/) :s: <Badge type="info" text="Proxies" link="https://rentry.org/wotaxy#sitting-on-clouds" /> | :ddl: | :sm::smf: |
+| [SquidBoard](https://www.squid-board.org/) :acc: | :ddl: | :sgd::sm::smf: |
+| [Sukidesu OST](https://sukidesuost.info/) | :ddl::mag: | :sm: |
+| [RuTracker.org](https://rutracker.org/forum/index.php) | :mag: | - |
+| [Asia Media Blog](https://asiamediablog.com/media/music/) <Badge type="danger" text="18+" /> <Badge type="info" text="Proxies" link="https://rentry.org/wotaxy#asia-media-blog" /> | :ddl: | :host: |
+
+### MP3
+
+| Website | Type | Host |
+|-|-|-|
+| [Nipponsei](https://nipponsei.minglong.org/tracker/) | :mag: | - |
+| [OS Anime](https://osanime.com/) | :ddl: | own |
+| [Hiyori OST](https://www.hiyoriost.com/) | :ddl: | :sgd::host: |
+
 
 ## Downloader
-- [Squid.wtf](https://squid.wtf/) :s:
-- [Lucida](https://lucida.to/) <Badge type="tip" text="2" link="https://lucida.su/" />
-- [:tg: Beatspot Music](https://t.me/BeatSpotBot)
+
+| Website | Service |
+|-|-|
+| [Squid.wtf](https://squid.wtf/) :s: | Qobuz, Deezer, THInsider |
+| [DAB Music Player](https://dab-music.vercel.app/) ==dab== | Qobuz |
+| [Lucida](https://lucida.to/) <Badge type="tip" text="2" link="https://lucida.su/" /> | Qobuz, Tidal, Amazon Music, Deezer, Yandex |
+| [:tg: Beatspot Music](https://t.me/BeatSpotBot) | - |
 
 ## Doujin
 
-- [Doujin Cafe](https://discord.gg/doujincafe) :sm::smf::ic-round-cloud-download:
-- [Doujin Music](https://vk.com/wall-60027733) :ddl:
-- [Doujin Style](https://doujinstyle.com/) :smf: <Badge type="tip" text="Touhou" link="https://doujinstyle.com/?p=tlmc" /> <Badge type="tip" text="Downloader" link="https://github.com/Relepega/doujinstyle-downloader"/>
-- [MikuDB](https://mikudb.moe/) :sgd::mag:
-- [Moriya Shrine](https://moriyashrine.org/) :mag:
-- [Touhou Disc](https://alist.thdisc.tk) :ddl:
+
+| Website | Type | Host |
+|-|-|-|
+| [Doujin Cafe](https://discord.gg/doujincafe) | :ddl: | :sm::smf: |
+| [Doujin Music](https://vk.com/wall-60027733) | :ddl: | :simple-icons-vk: |
+| [Doujin Style](https://doujinstyle.com/) <Badge type="tip" text="Touhou" link="https://doujinstyle.com/?p=tlmc" /> <Badge type="tip" text="Downloader" link="https://github.com/Relepega/doujinstyle-downloader"/> | :ddl: | :smf: |
+| [MikuDB](https://mikudb.moe/) | :ddl::mag: | :sgd: |
+| [Moriya Shrine](https://moriyashrine.org/) | :mag: | - |
 
 
 ## Games
 
-- [Sitting on Clouds](https://www.sittingonclouds.net/) :sm::smf: <Badge type="info" text="2" link="https://www.sittingonclouds.com/" /> <Badge type="info" text="3" link="https://www.sittingonclouds.org/" /> <Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" />
-- [SquidBoard](https://www.squid-board.org/) :acc::sgd::sm::smf:
-- [HCS VGM Archive](https://vgm.hcs64.com/) :ddl:
-- [VGM Preservation Foundation](https://www.vgmpf.com/Wiki/index.php) :ddl:
-- [VGMusic](https://vgmusic.com/) :ddl:
+| Website | Type | Host |
+|-|-|-|
+| [Nyaa](https://nyaa.si/) <Badge type="info" text="Proxies" link="https://rentry.org/nyaap" /> | :mag: | - |
+| [Sitting on Clouds](https://www.sittingonclouds.net/) <Badge type="info" text="Proxies" link="https://rentry.org/wotaxy#sitting-on-clouds" /> | :ddl: | :sm::smf: |
+| [SquidBoard](https://www.squid-board.org/) :acc: | :ddl: | :sgd::sm::smf: |
+| [HCS VGM Archive](https://vgm.hcs64.com/) | :ddl: | own |
+| [VGM Preservation Foundation](https://www.vgmpf.com/Wiki/index.php) | :ddl: | own |
+| [VGMusic](https://vgmusic.com/) | :ddl: | own |
 
-## Legal
-
-- [Amazon](https://www.amazon.com/)
-- [Qobuz](https://www.qobuz.com/us-en/shop)
-- [Mora](https://mora.jp/)
-- [Ototoy](https://ototoy.jp/)
-- [Recochoku](https://recochoku.jp/)
 
 
 ![](/music/radio.webp)
 # Radio
 
 ## General
-- [asia DREAM radio](https://asiadreamradio.torontocast.stream/stations/en/index.html) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://asiadreamradio.torontocast.stream/stations/newstream.html" />
-- [J1 Radio](https://www.j1fm.tokyo/player/j1hits/) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://www.j1fm.tokyo/listen/" />
-- [Nightwave Plaza](https://plaza.one/) [:and:](https://play.google.com/store/apps/details?id=one.plaza.nightwaveplaza) [:app:](https://apps.apple.com/us/app/nightwave-plaza/id1532678227) [:gh:](https://github.com/nightwaveplaza/plaza) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://plaza.one/plaza.m3u" /> <Badge type="info" text="Vaporwave" />
-- [Patchwork Radio](https://patchwork.moekyun.me/radio) :s: <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://a4.asurahosting.com/public/patchworkarchive/playlist.m3u" /> <Badge type="info" text="VTuber" />
-- [Sasalele Music Station](https://basic.pp.ua/) [:gh:](https://github.com/Mikeexe2/Sasalele-Music-Station) <Badge type="info" text="Aggregator" />
-- [Wapchan](https://radio.wapchan.org/public/wapfm) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://radio.wapchan.org/public/wapfm/playlist.pls" /> <Badge type="info" text="City Pop" />
-- [Yumi Co. Radio](https://yumicoradio.net/) <Badge type="info" icon="i-material-symbols-download-2" text="256kbps" link="http://s1.yumicoradio.net:8000/stream.m3u" /> <Badge type="info" text="City Pop" />
+
+| Website | Quality | Tag |
+|---------|---------|-----|
+| [asia DREAM radio](https://asiadreamradio.torontocast.stream/stations/en/index.html) | [128](https://asiadreamradio.torontocast.stream/stations/newstream.html) | Geneal |
+| [J1 Radio](https://www.j1fm.tokyo/player/j1hits/) | [128](https://www.j1fm.tokyo/listen/) | General |
+| [Nightwave Plaza](https://plaza.one/) [:and:](https://play.google.com/store/apps/details?id=one.plaza.nightwaveplaza) [:app:](https://apps.apple.com/us/app/nightwave-plaza/id1532678227) [:gh:](https://github.com/nightwaveplaza/plaza) | [128](https://plaza.one/plaza.m3u) | Vaporwave |
+| [Patchwork Radio](https://patchwork.moekyun.me/radio) | [192](https://a4.asurahosting.com/public/patchworkarchive/playlist.m3u) | VTuber |
+| [Sasalele Music Station](https://basic.pp.ua/) [:gh:](https://github.com/Mikeexe2/Sasalele-Music-Station) | :no: | Aggregator |
+| [Wapchan](https://radio.wapchan.org/public/wapfm) | [128](https://radio.wapchan.org/public/wapfm/playlist.pls) | City Pop |
+| [Yumi Co. Radio](https://yumicoradio.net/) | [256](http://s1.yumicoradio.net:8000/stream.m3u) | City Pop |
+
 
 ## Anime
-- [Anime(bits)](https://radio.animebits.moe/) <Badge type="info" icon="i-material-symbols-download-2" text="FLAC" link="https://radio.animebits.moe/m3u/stream192.mp3.m3u" />
-- [Anison.fm](https://en.anison.fm/) :s: <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="https://anison.fm/anison.m3u" /> :flag-united-kingdom::flag-russia:
-- [chiru.no](https://chiru.no/) <Badge type="info" icon="i-material-symbols-download-2" text="FLAC" link="https://chiru.no/?chiru.no.m3u" />
-- [Greek Otaku Radio](https://goradio.gr/) <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="http://192.99.4.210:2199/tunein/greekota.pls" /> :flag-united-kingdom::flag-greece:
-- [JPopSuki](http://jpopsuki.fm/) <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="http://jpopsuki.fm:2199/tunein/jpopsuki-stream.pls" />
-- [Listen.moe](https://listen.moe/) <Badge type="info" text="128kbps" icon="i-material-symbols-download-2" link="https://listen.moe/m3u8/jpop.m3u" />
-- [R/a/dio](https://r-a-d.io/) <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://r-a-d.io/assets/main.mp3.m3u" />
-- [Yggdrasil Radio](https://yggdrasilradio.com/) <Badge type="info" icon="i-material-symbols-download-2" text="128kbps" link="https://yggdrasilradio.net/yggdrasilradio_mp3_128kbps.pls" />
-- [AnimeRadio.de](https://www.animeradio.de/) <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://www.animeradio.de/streams/animeradio.mp3.m3u" /> :flag-germany:
-- [Japanradio.de](https://japanradio.de/) <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://japanradio.de/player/japanradio.m3u" /> :flag-germany:
-- [Kibo.FM](https://kibo.fm/) <Badge type="info" icon="i-material-symbols-download-2" text="192kbps" link="https://kibo.fm/kibo.m3u" /> :flag-germany:
-- [Radio Anime24](https://www.radioanime24.pl/) <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="https://www.radioanime24.pl/Radio-Anime24.pls" /> :flag-poland:
-- [Radio Anime Nexus](https://www.animenexus.net/) <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="https://radio.animenexus.net:8000/animenexus-mp3.m3u" /> :flag-spain:
-- [Rádio Animu](https://www.animu.com.br/) <Badge type="info" icon="i-material-symbols-download-2" text="320kbps" link="http://yp.shoutcast.com/sbin/tunein-station.m3u?id=99545187" /> :flag-brazil:
-- [Rádio J-Hero](https://radiojhero.com/) <Badge type="info" icon="i-material-symbols-download-2" text="96kbps" link="https://radiojhero.com/ouvir/radiojhero.m3u" /> :flag-brazil:
-- [Stereo Anime](https://www.stereoanime.net/) <Badge type="info" icon="i-material-symbols-download-2" text="FLAC" link="https://radio.stereoanime.net:8000/flac.m3u" /> :flag-spain:
+| Website | Quality | Language |
+|---------|---------|----------|
+| [Anime(bits)](https://radio.animebits.moe/) | [FLAC](https://radio.animebits.moe/m3u/stream192.mp3.m3u) | :flag-united-kingdom: |
+| [Anison.fm](https://en.anison.fm/) | [MP3 320](https://anison.fm/anison.m3u) | :flag-united-kingdom::flag-russia: |
+| [chiru.no](https://chiru.no/) | [FLAC](https://chiru.no/?chiru.no.m3u) | :flag-united-kingdom: |
+| [Greek Otaku Radio](https://goradio.gr/) | [MP3 320](http://192.99.4.210:2199/tunein/greekota.pls) | :flag-united-kingdom::flag-greece: |
+| [JPopSuki](http://jpopsuki.fm/) | [MP3 192](http://jpopsuki.fm:2199/tunein/jpopsuki-stream.pls) | :flag-united-kingdom: |
+| [Listen.moe](https://listen.moe/) | [Vorbis 128](https://listen.moe/m3u8/jpop.m3u) | :flag-united-kingdom: |
+| [R/a/dio](https://r-a-d.io/) | [MP3 192](https://r-a-d.io/assets/main.mp3.m3u) | :flag-united-kingdom: |
+| [Yggdrasil Radio](https://yggdrasilradio.com/) | [MP3 128](https://yggdrasilradio.net/yggdrasilradio_mp3_128kbps.pls) | :flag-united-kingdom: |
+| [AnimeRadio.de](https://www.animeradio.de/) | [MP3 192](https://www.animeradio.de/streams/animeradio.mp3.m3u) | :flag-germany: |
+| [Japanradio.de](https://japanradio.de/) | [MP3 192](https://japanradio.de/player/japanradio.m3u) | :flag-germany: |
+| [Kibo.FM](https://kibo.fm/) | [MP3 192](https://kibo.fm/kibo.m3u) | :flag-germany: |
+| [Radio Anime24](https://www.radioanime24.pl/) | [MP3 320](https://www.radioanime24.pl/Radio-Anime24.pls) | :flag-poland: |
+| [Radio Anime Nexus](https://www.animenexus.net/) | [MP3 320](https://radio.animenexus.net:8000/animenexus-mp3.m3u) | :flag-spain: |
+| [Rádio Animu](https://www.animu.com.br/) | [MP3 320](http://yp.shoutcast.com/sbin/tunein-station.m3u?id=99545187) | :flag-brazil: |
+| [Stereo Anime](https://www.stereoanime.net/) | [FLAC](https://radio.stereoanime.net:8000/flac.m3u) | :flag-spain: |
 
 ## Doujin & Vocaloid
 
-- [Doujin Style](https://embed.radio.co/player/735ee7b.html) <Badge type="tip" icon="i-material-symbols-download-2" text="192kbps" link="https://streams.radio.co/s5ff57669c/listen.m3u" />
-- [Gensokyo Radio](https://gensokyoradio.net/playing/) <Badge type="tip" icon="i-material-symbols-download-2" text="256kbps" link="https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u" /> <Badge type="info" text="Touhou" />
-- [Phate](https://phate.io/) <Badge type="tip" icon="i-material-symbols-download-2" text="192kbps" link="https://phate.io/phate.m3u" /> <Badge type="info" text="Utaite" />
-- [Vocaloid Radio VRX](https://vrx.piro.moe/)
-- [Vocaloid Radio](https://www.vocaloidradio.com/) ==VocaloidRadio==
+| Website | Quality | Tag |
+|---------|---------|-----|
+| [Doujin Style](https://embed.radio.co/player/735ee7b.html) | [MP3 192](https://streams.radio.co/s5ff57669c/listen.m3u) | General |
+| [Gensokyo Radio](https://gensokyoradio.net/playing/) | [MP3 256](https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u) | Touhou |
+| [Phate](https://phate.io/) | [MP3 192](https://phate.io/phate.m3u) | Utaite |
+| [Vocaloid Radio VRX](https://vrx.piro.moe/) | :no: | - |
+| [Vocaloid Radio](https://www.vocaloidradio.com/) | ==VocaloidRadio== | General |
 
 ## Games
 - [Game That Tune Radio](https://gttradio.com/)

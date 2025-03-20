@@ -89,7 +89,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 
 - **Dedicated**
   - [Nyaa](https://nyaa.si/) :s::mag: <Badge type="info" text="Proxies" link="https://rentry.org/nyaap" />
-  - [Sitting on Clouds](https://www.sittingonclouds.net/) :s: <Badge type="info" text="2" link="https://www.sittingonclouds.com/" /> <Badge type="info" text="3" link="https://www.sittingonclouds.org/" /> <Badge type="tip" text="Onion" link="https://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/" />
+  - [Sitting on Clouds](https://www.sittingonclouds.net/) :s: <Badge type="info" text="Proxies" link="https://rentry.org/wotaxy#sitting-on-clouds" />
   - [SquidBoard](https://www.squid-board.org/)
 - **General**
   - [Squid.wtf](https://squid.wtf/) :s:

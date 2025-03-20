@@ -360,6 +360,7 @@ const tooltips: {
   demo: { content: 'Demo tooltips for start page' },
   mirai: { content: 'Syncs the Mangayomi repository and includes their own plugins' },
   megarepo: { content: 'Adds all the repo present in /recloudstream/cs-repos' },
+  dab: { content: 'Although it mentions DSD/DXD (in about), it does not download those.' }
 }
 
 export function configureMarkdown(md: MarkdownRenderer) {
