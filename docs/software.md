@@ -380,8 +380,8 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 | Type       | Solution |
 |----------- |----------|
-| Anime      | [Plex](https://www.plex.tv/) :s::cs: |
-| ^^         | [Jellyfin](https://jellyfin.org/) [:gh:](https://github.com/jellyfin/jellyfin) |
+| Anime      | [Jellyfin](https://jellyfin.org/) :s: [:gh:](https://github.com/jellyfin/jellyfin) |
+| ^^         | [Plex](https://www.plex.tv/) :cs: |
 | ^^         | [Emby](https://emby.media/) :cs: |
 | Manga      | [Komga](https://komga.org/) :s: [:gh:](https://github.com/gotson/komga) |
 | ^^         | [Kavita](https://www.kavitareader.com/) [:gh:](https://github.com/Kareadita/Kavita) |
