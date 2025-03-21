@@ -131,6 +131,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [DAB Music Player](https://dab-music.vercel.app/) ==dab== | Qobuz |
 | [Lucida](https://lucida.to/) <Badge type="tip" text="2" link="https://lucida.su/" /> | Qobuz, Tidal, Amazon Music, Deezer, Yandex |
 
+
 ## Doujin
 
 
@@ -356,7 +357,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 ### Online
 | Category   | Links   |
 |-----------|--------|
-| **General** | [Echo](https://github.com/brahmkshatriya/echo) :and: |
+| **General** | [Echo](https://github.com/brahmkshatriya/echo) :and: ==echo== |
 | ^^         | [Soundbound](https://soundbound.app/) :and::cs: |
 | **YouTube** | [**YouTube Music**](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music) |
 | ^^         | [Revanced Music](https://github.com/j-hc/revanced-magisk-module/releases) :and: |
