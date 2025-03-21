@@ -70,9 +70,9 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 | [Amazon](https://www.amazon.com/) | MP3 256 | :no: | :no: | General |
 | [Bandcamp](https://bandcamp.com/) | MP3 320 | 24/192<sup>3</sup> | :no: | General |
 | [Mora](https://mora.jp/) | AAC-LC 320 | 24/96 | :no: | Japan |
-| [Ototoy](https://ototoy.jp/) | AAC | 24/192 | DSD, DXD | Japan |
+| [Ototoy](https://ototoy.jp/) | AAC | 24/192 | DSD | Japan |
 | [Recochoku](https://recochoku.jp/) | AAC 320 | 24/192 | :no: | Japan |
-| [Qobuz](https://www.qobuz.com/us-en/shop) | MP3 320 | 24/192 | :DSD: | Western |
+| [Qobuz](https://www.qobuz.com/us-en/shop) | MP3 320 | 24/192 | DSD, DXD | Western |
 
 ::: tip Notes
 1. Some countries have free access up to 128kbps MP3. You can also try [dzunlock](https://web.archive.org/web/20250311162133/https://uhwotgit.fly.dev/uhwot/dzunlock) or [echo](https://github.com/brahmkshatriya/echo).
