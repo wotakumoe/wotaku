@@ -137,11 +137,15 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 ___
 #### Figures / Merch
 - [ABYstyle](https://www.abystyle.com/en/) <Badge type="green" link="" text="SFW"/>
+- [BigBadToyStore](https://www.bigbadtoystore.com/)
 - [Big in Japan](https://biginjap.com/)
 - [E2046.com](https://www.e2046.com/)
+- [GKLoot Store](https://www.gkloot.com/)
+- [GunDamit.com](https://gundamit.com/)
 - [Hobby Link](https://www.hlj.com/)
 - [Hobby Search](https://www.1999.co.jp/eng/)
 - [Otaku Mode](https://otakumode.com/) <Badge type="green" link="" text="SFW"/>
+- [Show.Z Store](https://showzstore.com/)
 ___
 #### Manga
 - [honto](https://honto.jp/)
