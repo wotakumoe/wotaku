@@ -725,6 +725,7 @@ ___
 - [TruyenGG](https://truyengg.com/)
 - [TruyenQQ](https://truyenqqto.com/)
 - [Truyen Sieuhay](https://truyensieuhay.com/)
+- [YuriNeko](https://yurineko.site/) <Badge type="danger" text="18+" />
 
 ### Hentai
 - [DuaLeoTruyen](https://dualeotruyenbotx.com/)
@@ -756,4 +757,5 @@ ___
 | Category | Resources |
 |-|-|
 | General | [Hoyomi](https://github.com/tachibana-shin/hoyomi) |
-| Anime | [Anime VSub](https://github.com/anime-vsub/app) |
+| Anime | [Anime VSub](https://app.animevsub.eu.org/) [:gh:](https://github.com/anime-vsub/app) |
+| Comics | [TruyenDex](https://truyendex.xyz/) [:gh:](https://github.com/zennomi/truyendex) |
