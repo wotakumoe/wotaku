@@ -43,7 +43,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 
 ::: details :material-symbols-tv-gen-outline: Android TV ranking
 - [Cloudstream](https://cloudstream.on.fleek.co/)  [:e:](/guides/ext/misc#cloudstream) [:gh:](https://github.com/recloudstream/cloudstream)
-- [Migu](https://miguapp.pages.dev/) [:gh:](https://github.com/NoCrypt/migu)
+- [Shiru](https://github.com/RockinChaos/Shiru) ==Shiru==
 - [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one)
   - [Stremio Tools](#anime-tools)
 - [AnimeTV](https://amarullz.com/) [:gh:](https://github.com/amarullz/AnimeTV)
