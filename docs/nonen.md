@@ -716,16 +716,23 @@ ___
 - [WebLinhTinh](https://weblinhtinh.net/)
 
 ### Comics
-- [Bao Tang Truyen](https://baotangtruyen23.com/)
-- [Cuu Truyen](https://cuutruyen.net/)
-- [Goc Truyen Tranh](https://goctruyentranhvui6.com/trang-chu)
-- [HanulTruyen](https://hanultruyen.net/) <Badge type="danger" text="18+" />
-- [Manhuarockz](https://manhuarockz.com/)
-- [Manhuavn](https://manhuavn.top/)
-- [NetTruyenFull](https://nettruyenqqviet.com/)
-- [POPS](https://pops.vn/)
-- [Than Vuong](https://thanvuc.com/)
+- [CManga](https://cmangaax.com/)
+- [Cuu Truyen](https://cuutruyen.net/) [:prx:](https://truycapcuutruyen.pages.dev/)
+- [DocTruyen3Q](https://doctruyen3qui5.pro/) <Badge type="danger" text="18+" />
+- [Goc Truyen Tranh](https://goctruyentranh.net/)
+- [NhatTruyen](https://nhattruyenqq.com/)
+- [Than Vuc](https://thanvuc.com/)
+- [TruyenGG](https://truyengg.com/)
+- [TruyenQQ](https://truyenqqto.com/)
 - [Truyen Sieuhay](https://truyensieuhay.com/)
+
+### Hentai
+- [DuaLeoTruyen](https://dualeotruyenbotx.com/)
+- [HentaiCube](https://hentaicube.xyz/)
+- [HentaiVN](https://www.mehentaivn.xyz/)
+- [KuroNeko](https://vi-hentai.com/)
+- [LXmanga](https://lxmanga.wiki/)
+- [TruyenHentaiVN](https://truyenhentaivn.live/)
 
 ### Novels
 - [Dtruyen](https://dtruyen.com/)
