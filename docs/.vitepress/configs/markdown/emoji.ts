@@ -108,6 +108,7 @@ const aliases: Record<string, string> = {
   ero: 'twemoji-no-one-under-eighteen',
   acc: 'material-symbols-person-add',
   rss: 'simple-icons-rss',
+  prx: 'material-symbols-directions-alt',
   tf: 'mdi-airplane',
   js: 'simple-icons-javascript',
   css: 'mdi-format-paint',

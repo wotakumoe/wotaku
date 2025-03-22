@@ -107,12 +107,12 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 | Website | Type | Host |
 |-|-|-|
-| [Nyaa](https://nyaa.si/) :s: <Badge type="info" text="Proxies" link="https://rentry.org/nyaap" /> | :mag: | - |
-| [Sitting on Clouds](https://www.sittingonclouds.net/) :s: <Badge type="info" text="Proxies" link="https://rentry.org/wotaxy#sitting-on-clouds" /> | :ddl: | :sm::smf: |
+| [Nyaa](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap) | :mag: | - |
+| [Sitting on Clouds](https://www.sittingonclouds.net/) :s: [:prx:](https://rentry.org/wotaxy#sitting-on-clouds) | :ddl: | :sm::smf: |
 | [SquidBoard](https://www.squid-board.org/) :acc: | :ddl: | :sgd::sm::smf: |
 | [Sukidesu OST](https://sukidesuost.info/) | :ddl::mag: | :sm: |
 | [RuTracker.org](https://rutracker.org/forum/index.php) | :mag: | - |
-| [Asia Media Blog](https://asiamediablog.com/media/music/) <Badge type="danger" text="18+" /> <Badge type="info" text="Proxies" link="https://rentry.org/wotaxy#asia-media-blog" /> | :ddl: | :host: |
+| [Asia Media Blog](https://asiamediablog.com/media/music/) <Badge type="danger" text="18+" /> [:prx:](https://rentry.org/wotaxy#asia-media-blog) | :ddl: | :host: |
 
 ### MP3
 
@@ -148,8 +148,8 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 | Website | Type | Host |
 |-|-|-|
-| [Nyaa](https://nyaa.si/) <Badge type="info" text="Proxies" link="https://rentry.org/nyaap" /> | :mag: | - |
-| [Sitting on Clouds](https://www.sittingonclouds.net/) <Badge type="info" text="Proxies" link="https://rentry.org/wotaxy#sitting-on-clouds" /> | :ddl: | :sm::smf: |
+| [Nyaa](https://nyaa.si/) [:prx:](https://rentry.org/nyaap) | :mag: | - |
+| [Sitting on Clouds](https://www.sittingonclouds.net/) [:prx:](https://rentry.org/wotaxy#sitting-on-clouds) | :ddl: | :sm::smf: |
 | [SquidBoard](https://www.squid-board.org/) :acc: | :ddl: | :sgd::sm::smf: |
 | [HCS VGM Archive](https://vgm.hcs64.com/) | :ddl: | own |
 | [VGM Preservation Foundation](https://www.vgmpf.com/Wiki/index.php) | :ddl: | own |

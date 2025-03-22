@@ -19,10 +19,10 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 
 - **Streaming**
   - [KickAssAnime](https://kaa.mx/)
-  - [Miruro](https://www.miruro.tv/) <Badge type="info" text="Proxies" link="https://www.miruro.com" />
+  - [Miruro](https://www.miruro.tv/) [:prx:](https://www.miruro.com)
   - [Anime Nexus](https://anime.nexus/)
 - **Download**
-  - [Nyaa](https://nyaa.si/) :s::mag: <Badge type="info" text="Proxies" link="https://rentry.org/nyaap" />
+  - [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap)
   - [Tokyo Insider](https://www.tokyoinsider.com/) :ddl:
   - [Kayoanime](https://kayoanime.com/) :ddl::batch:
 
@@ -50,9 +50,9 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
   - [MangaDex](https://mangadex.org/)
   - [Weeb Central](https://weebcentral.com/)
 - **Download**
-  - [Nyaa](https://nyaa.si/) :s::mag: <Badge type="info" text="Proxies" link="https://rentry.org/nyaap" />
+  - [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap)
   - [Madokami](https://manga.madokami.al) :s: <Badge type="info" text="Guide" link="/guides/manga/madokami" />
-  - [Library Genesis+](https://libgen.gs/) <Badge type="info" text="Proxies" link="https://rentry.org/wotaxy#library-genesis" />
+  - [Library Genesis+](https://libgen.gs/) [:prx:](https://rentry.org/wotaxy#library-genesis)
 
 ### Software
 
@@ -88,8 +88,8 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 ### Download
 
 - **Dedicated**
-  - [Nyaa](https://nyaa.si/) :s::mag: <Badge type="info" text="Proxies" link="https://rentry.org/nyaap" />
-  - [Sitting on Clouds](https://www.sittingonclouds.net/) :s: <Badge type="info" text="Proxies" link="https://rentry.org/wotaxy#sitting-on-clouds" />
+  - [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap)
+  - [Sitting on Clouds](https://www.sittingonclouds.net/) :s: [:prx:](https://rentry.org/wotaxy#sitting-on-clouds)
   - [SquidBoard](https://www.squid-board.org/)
 - **General**
   - [Squid.wtf](https://squid.wtf/) :s:

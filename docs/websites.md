@@ -23,12 +23,12 @@ outline: 1
 
 :::
 
-- [Miruro](https://www.miruro.tv/) :mingcute-shovel-fill::mingcute-refresh-2-fill: <Badge type="info" text="Proxies" link="https://www.miruro.com" /> ==miruro==
+- [Miruro](https://www.miruro.tv/) :mingcute-shovel-fill::mingcute-refresh-2-fill: [:prx:](https://www.miruro.com) ==miruro==
 - [AnimeStream](https://anime.uniquestream.net/) :mingcute-shovel-fill: ==AnimeStream==
 - [Anime Nexus](https://anime.nexus/) :mingcute-server-fill::mingcute-user-2-fill: ==AnimeNexus==
 - [KickAssAnime](https://kaa.mx/) :mingcute-server-fill::mingcute-shovel-fill::mingcute-user-2-fill: ==KAA==
 - [AnimeKai](https://animekai.to/home) :mingcute-server-fill::mingcute-refresh-2-fill::mingcute-user-2-fill: <Badge type="tip" text="2" link="https://animekai.bz/home" /> ==AnimeKai==
-- [HiAnime](https://hianime.to/home) :mingcute-server-fill::mingcute-user-2-fill: <Badge type="info" text="Proxies" link="https://hianime.tv/" /> ==Zoro==
+- [HiAnime](https://hianime.to/home) :mingcute-server-fill::mingcute-user-2-fill: [:prx:](https://hianime.tv/) ==Zoro==
 - [Hikari](https://watch.hikaritv.xyz/) :mingcute-server-fill::mingcute-user-2-fill: ==Hikari==  
 - [Sudatchi](https://sudatchi.com/) :mingcute-server-fill::mingcute-refresh-2-fill: ==Sudatchi==  
 - [AniZone](https://anizone.to/) :mingcute-server-fill: ==AniZone==  
@@ -95,7 +95,7 @@ outline: 1
 
 ### Torrent
 
-- [Nyaa](https://nyaa.si/) :s: <Badge type="info" text="Proxies" link="https://rentry.org/nyaap" />
+- [Nyaa](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap)
 - [Anime Tosho](https://animetosho.org/)
 - [Anirena](https://www.anirena.com/)
 - [Shana Project](https://www.shanaproject.com/)
@@ -174,8 +174,8 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [ComicK](https://comick.io/home2) :s: [:rss:](https://manga-ldez.vercel.app/) ==ComicK==  
 - [MangaDex](https://mangadex.org/) [:rss:](https://mdrss.tijlvdb.me/) ==MangaDex==  
 - [Weeb Central](https://weebcentral.com/) ==WeebCentral==  
-- [Batoto](https://battwo.com/v3x) <Badge type="tip" text="Proxies" link="https://rentry.co/batoto" /> ==Batoto==  
-- [MangaPark](https://mangapark.net/)  <Badge type="tip" text="Proxies" link="https://rentry.co/mangapark" />
+- [Batoto](https://battwo.com/v3x) [:prx:](https://rentry.co/batoto) ==Batoto==  
+- [MangaPark](https://mangapark.net/) [:prx:](https://rentry.co/mangapark)
 - [MangaFire](https://mangafire.to/home) ==MangaFire==  
 
 
@@ -190,7 +190,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [Dynasty Reader](https://dynasty-scans.com/) 
 - [Like Manga](https://likemanga.in)
 - [Manga Here](https://www.mangahere.cc/) <Badge type="info" text="2" link="https://fanfox.net/" />
-- [MangaKakalot](https://www.mangakakalot.gg/) <Badge type="info" text="Proxies" link="https://rentry.org/wotaxy#mangakakalot" /> <Badge type="info" text="Alt" link="https://akari-psi.vercel.app/" />
+- [MangaKakalot](https://www.mangakakalot.gg/) [:prx:](https://rentry.org/wotaxy#mangakakalot) <Badge type="info" text="Alt" link="https://akari-psi.vercel.app/" />
 
 :::
 
@@ -235,9 +235,9 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 
 #### Aggregators
 - [Madokami](https://manga.madokami.al) :s: <Badge type="info" text="Guide" link="/guides/manga/madokami" />
-- [Anna's Archive](https://annas-archive.org/) <Badge type="info" text="Proxies" link="https://rentry.org/wotaxy#annas-archive" /> <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
+- [Anna's Archive](https://annas-archive.org/) [:prx:](https://rentry.org/wotaxy#annas-archive) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
 - [Desuarchive](https://desuarchive.org/) :f: <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
-- [Library Genesis+](https://libgen.gs/) <Badge type="info" text="Proxies" link="https://rentry.org/wotaxy#library-genesis" />
+- [Library Genesis+](https://libgen.gs/) [:prx:](https://rentry.org/wotaxy#library-genesis)
 - [Internet Archive](https://archive.org/)
 ___
 #### Rippers
@@ -331,9 +331,9 @@ ___
 - [Elscione Official LNs](https://server.elscione.com/Officially%20Translated%20Light%20Novels/)
 - [Novel Onedrive Index](https://novel-indx.vercel.app/)
 - [Madokami](https://manga.madokami.al)
-- [Anna’s Archive](https://annas-archive.org/) <Badge type="info" text="Proxies" link="https://rentry.org/wotaxy#annas-archive" /> <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
-- [Library Genesis+](https://libgen.gs/) <Badge type="info" text="Proxies" link="https://rentry.org/wotaxy#library-genesis" />
-- [Z-Library](https://z-lib.gs/) <Badge type="info" text="Proxies" link="https://rentry.org/wotaxy#z-library" />
+- [Anna’s Archive](https://annas-archive.org/) [:prx:](https://rentry.org/wotaxy#annas-archive) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
+- [Library Genesis+](https://libgen.gs/) [:prx:](https://rentry.org/wotaxy#library-genesis)
+- [Z-Library](https://z-lib.gs/) [:prx:](https://rentry.org/wotaxy#z-library)
 
 
 ## Audiobooks
@@ -365,7 +365,7 @@ ___
 ### Download
 - [Zekozimo](https://zekozimo.blogspot.com/) :s: <Badge type="tip" text="General"  />
 - [KRDL](https://krdl.moe/) :s:
-- [Nyaa](https://nyaa.si/) :mag: <Badge type="info" text="Proxies" link="https://rentry.org/nyaap" />
+- [Nyaa](https://nyaa.si/) :mag: [:prx:](https://rentry.org/nyaap)
 - [Metallic Subs](https://metallicsubs.wordpress.com/)
 - [Megabeast Empire](https://megabeastempire.wordpress.com/)
 
@@ -413,12 +413,12 @@ ___
 - [Read Comics Online (.ru)](https://readcomicsonline.ru/)
 
 ## Direct Download
-- [Anna’s Archive](https://annas-archive.org/) <Badge type="info" text="Proxies" link="https://rentry.org/wotaxy#annas-archive" /> <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
+- [Anna’s Archive](https://annas-archive.org/) [:prx:](https://rentry.org/wotaxy#annas-archive) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
 - [ComicsCodes](https://comics.codes/)
 - [Comics For All](https://comicsforall269084760.wordpress.com/) <Badge type="info" text="Vintage"/>
 - [Desuarchive](https://desuarchive.org/) <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
 - [GetComics](https://getcomics.info/) :s: <Badge type="info" text="PD Bypass" link="https://pixeldrain-bypass.cybar.xyz/" />
-- [Library Genesis+](https://libgen.gs/) <Badge type="info" text="Proxies" link="https://rentry.org/wotaxy#library-genesis" />
+- [Library Genesis+](https://libgen.gs/) [:prx:](https://rentry.org/wotaxy#library-genesis)
 - [Old Comics World](https://oldcomicsworld.blogspot.com/) <Badge type="info" text="Vintage"/>
 - [TheLongbox](https://thelongbox.net/) :host::acc:
 

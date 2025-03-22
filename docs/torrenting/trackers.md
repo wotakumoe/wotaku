@@ -14,7 +14,7 @@ og:
 
 | Category    | Websites |
 |------------|----------|
-| General    | [Nyaa](https://nyaa.si/) :s: <Badge type="info" text="Proxies" link="https://rentry.org/nyaap" /> |
+| General    | [Nyaa](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap) |
 | ^^         | [Anirena](https://www.anirena.com/) |
 | ^^         | [Tokyo Toshokan](https://www.tokyotosho.info/) <Badge type="info" text="2" link="http://tokyotosho.se/" /> <Badge type="info" text="3" link="http://tokyo-tosho.net/" /> |
 | Anime      | [Anime Tosho](https://animetosho.org/) |

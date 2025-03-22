@@ -219,6 +219,7 @@ To learn, how to add tooltips, [click here](#tooltip).
 | :ero: | `:ero:` | Focuses on NSFW content |
 | :acc: | `:acc:` | Needs Account |
 | :rss: | `:rss:` | RSS Feed |
+| :prx: | `:prx:` | Proxies |
 | :tf: | `:tf:` | Apple TestFlight |
 | :js: | `:js:` | JavaScript |
 | :css: | `:css:` | CSS |

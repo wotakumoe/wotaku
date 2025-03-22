@@ -344,7 +344,7 @@ If you have recommendations for good sites in your native language or want to re
 ## Italian
 
 ### Anime
-- [AnimeSaturn](https://www.anisaturn.com/) <Badge type="info" text="Proxies" link="https://www.animesaturn.me/" />
+- [AnimeSaturn](https://www.anisaturn.com/) [:prx:](https://www.animesaturn.me/)
 - [AnimeUnity](https://www.animeunity.to/)
 - [AnimeWorld](https://www.animeworld.so/)
 - [One Piece Power](https://onepiecepower.com/anime18/lista-anime)
@@ -401,7 +401,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 ### Download
 
 #### Torrent
-- [Nyaa](https://nyaa.si/) :s: <Badge type="info" text="Proxies" link="https://rentry.org/nyaap" />
+- [Nyaa](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap)
 - [Tokyo Toshokan](https://www.tokyotosho.info/)
 
 #### Direct

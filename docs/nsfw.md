@@ -46,7 +46,7 @@ og:
 - [IMHentai](https://imhentai.xxx/) ==IMHentai==
 - [Hitomi](https://hitomi.la/) ==Hitomi==
 - [Panda Backup](https://panda.chaika.moe/) ==PandaBackup==
-- [SchaleNetwork](https://schale.network/) :s: <Badge text="Mirrors" link="https://rentry.org/schalenet" /> ==SchaleNetwork==
+- [SchaleNetwork](https://schale.network/) :s: [:prx:](https://rentry.org/schalenet) ==SchaleNetwork==
 - [Yabai](https://yabai.si/) ==Yabai==
 
 ### English-only
@@ -60,7 +60,7 @@ og:
 
 ### Aggregator
 - [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) :ddl:
-- [Batoto](https://battwo.com/v3x) <Badge type="tip" text="2" link="https://mangatoto.net/" /> <Badge type="tip" text="3" link="https://mangatoto.com/" />
+- [Batoto](https://battwo.com/v3x)  [:prx:](https://rentry.co/batoto)
 - [Doujindesu](https://doujindesu.tv/) <Badge type="info" text="Raw" />
 - [Hiperdex](https://hiperdex.com/)
 - [Manga District](https://mangadistrict.com/) :s:
