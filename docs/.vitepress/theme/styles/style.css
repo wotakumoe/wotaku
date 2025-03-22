@@ -420,6 +420,47 @@ main figure figcaption {
   -webkit-text-decoration-color: theme('colors.swarm.300');
 }
 
+/** Fix for markdown-it-merge-cells */
+.vp-doc table tr:nth-child(even),
+.vp-doc table tr:nth-child(odd) {
+  background-color: transparent !important;
+}
+
+table tr:nth-child(even),
+table tr:nth-child(odd) {
+  background-color: transparent !important;
+}
+
+.tip.custom-block table tr,
+.tip.custom-block table td,
+.tip.custom-block table th {
+  border-color: theme('colors.meadow.800') !important;
+}
+
+.info.custom-block table tr,
+.info.custom-block table td,
+.info.custom-block table th {
+  border-color: theme('colors.swarm.800') !important;
+}
+
+.warning.custom-block table tr,
+.warning.custom-block table td,
+.warning.custom-block table th {
+  border-color: theme('colors.merlin.800') !important;
+}
+
+.danger.custom-block table tr,
+.danger.custom-block table td,
+.danger.custom-block table th {
+  border-color: theme('colors.carnation.800') !important;
+}
+
+.details.custom-block table tr,
+.details.custom-block table td,
+.details.custom-block table th {
+  border-color: theme('colors.swarm.800') !important;
+}
+
 /** fix for nolebase-git-changelog */
 .vp-nolebase-git-changelog a {
   text-decoration: none !important;
@@ -488,10 +529,4 @@ main figure figcaption {
       }
     }
   }
-}
-
-/** Fix for markdown-it-merge-cells */
-.vp-doc table tr:nth-child(even),
-.vp-doc table tr:nth-child(odd) {
-  background-color: transparent !important;
 }
