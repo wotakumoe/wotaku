@@ -45,7 +45,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 - [Cloudstream](https://cloudstream.on.fleek.co/)  [:e:](/guides/ext/misc#cloudstream) [:gh:](https://github.com/recloudstream/cloudstream)
 - [Shiru](https://github.com/RockinChaos/Shiru) ==Shiru==
 - [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one)
-  - [Stremio Tools](#anime-tools)
+  - [Stremio Tools](#stremio)
 - [AnimeTV](https://amarullz.com/) [:gh:](https://github.com/amarullz/AnimeTV)
 - [Crunchyroll for TIZEN](https://github.com/jhassan8/crunchyroll-tizen)
 :::
@@ -309,15 +309,20 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Getnative](https://github.com/Infiziert90/getnative)
 - [Manami](https://github.com/manami-project/manami)
 - [Shoko Anime](https://shokoanime.com/) :win::app::lin: [:gh:](https://github.com/ShokoAnime/)
-- **Stremio**
-  - [Viren070's Guides](https://guides.viren070.me/) [:gh:](https://github.com/Viren070/guides)
-  - [Stremio Addons](https://www.stremio-addons.com/)
-  - [Stremio Addon Manager](https://stremio-addon-manager.vercel.app/) [:gh:](https://github.com/pancake3000/stremio-addon-manager)
-  - [Stremio Jackett Addon](https://github.com/aymene69/stremio-jackett)
-  - [Animeo: AniList Tracking](https://7a625ac658ec-animeo.baby-beamup.club/configure) [:gh:](https://github.com/Jenrykster/animeo)
-  - [MAL-Stremio Addon](https://mal-stremio.vercel.app/) [:gh:](https://github.com/SageTendo/mal-stremio-addon)
-  - [SIMKL Addon](https://simkl.com/apps/stremio/)
-  - [Anime Catalogs](https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/configure)
+
+
+### Stremio
+| Category   | Resource |
+|------------|--------------------------------------------------|
+| **Starter** | [Viren070's Guides](https://guides.viren070.me/) [:gh:](https://github.com/Viren070/guides) |
+| ^^         | [Stremio Addons](https://www.stremio-addons.com/) |
+| **Tracker** | [Animeo: AniList Tracking](https://7a625ac658ec-animeo.baby-beamup.club/configure) [:gh:](https://github.com/Jenrykster/animeo) |
+| ^^         | [MAL-Stremio Addon](https://mal-stremio.vercel.app/) [:gh:](https://github.com/SageTendo/mal-stremio-addon) |
+| ^^         | [SIMKL Addon](https://simkl.com/apps/stremio/) |
+| **Others**  | [Anime Catalogs](https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/configure) |
+| ^^         | [Jackett Addon](https://github.com/aymene69/stremio-jackett) |
+| ^^         | [Addon Manager](https://stremio-addon-manager.vercel.app/) [:gh:](https://github.com/pancake3000/stremio-addon-manager) |
+
 
 
 ## Manga Tools
