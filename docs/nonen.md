@@ -489,7 +489,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 ### Anime
 - [AniBunker](https://www.anibunker.com/)
 - [AnimeFire](https://animefire.plus/) <Badge type="info" text="2" link="https://animefire.net/" />
-- [Animes House](https://animeshouse.app/)
 - [AnimesROLL](https://www.anroll.net/)
 - [Better Anime](https://betteranime.net/)
 - [Dark Animes](https://darkmahou.org/) :mag:
