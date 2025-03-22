@@ -305,7 +305,6 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 ## Anime Tools
 - [Anicon for AniList](https://github.com/EnArvy/AniconforAnilist) :win:
 - [AnimeJaNai](https://github.com/the-database/mpv-upscale-2x_animejanai)
-- [Anitomy](https://github.com/erengy/anitomy)
 - [GetFnative](https://github.com/YomikoR/GetFnative) <Badge type="info" text="getfscaler" link="https://github.com/Jaded-Encoding-Thaumaturgy/getfscaler"/>
 - [Getnative](https://github.com/Infiziert90/getnative)
 - [Manami](https://github.com/manami-project/manami)
@@ -322,20 +321,19 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 
 ## Manga Tools
-| Software | Platform |
-|----------|---------|
-| [ACBR](https://github.com/binarynonsense/comic-book-reader) | :win::lin: |
-| [CBconvert](https://github.com/gen2brain/cbconvert) | :win::app::lin: |
-| [CbxConverter](https://tomeko.net/software/CbxConverter/) ==CbxConverter== | :win: |
-| [ComicbookArchiveToolbox](https://degoedel.github.io/ComicbookArchiveToolbox/) [:gh:](https://degoedel.github.io/ComicbookArchiveToolbox/) | :win: |
-| [ComicTagger](https://github.com/comictagger/comictagger) | :win::app::lin: |
-| [DarkThumbs](https://github.com/fire-eggs/DarkThumbs) | :win: |
-| [Icaros](https://www.videohelp.com/software/Icaros) :cs: | :win: |
-| [MangaJaNai](https://github.com/the-database/MangaJaNai) <Badge type="info" text="GUI" link="https://github.com/the-database/MangaJaNaiConverterGui" /> | :win: |
-| [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager) | :win::app::lin: |
-| [SyncYomi](https://github.com/syncyomi/syncyomi) | :win::app::lin::mdi-docker: |
-| [XpdfReader](https://www.xpdfreader.com/index.html) | :win::lin: |
-| [Poppler](https://poppler.freedesktop.org/) [:gl:](https://gitlab.freedesktop.org/poppler/poppler) | :win::app::lin::bsd: |
+| Category     | Software | Platform |
+|-------------|----------|----------|
+| **Conversion** | [ACBR](https://github.com/binarynonsense/comic-book-reader) | :win::lin: |
+| ^^          | [CBconvert](https://github.com/gen2brain/cbconvert) | :win::app::lin: |
+| ^^          | [CbxConverter](https://tomeko.net/software/CbxConverter/) ==CbxConverter== | :win: |
+| ^^          | [ComicbookArchiveToolbox](https://degoedel.github.io/ComicbookArchiveToolbox/) [:gh:](https://degoedel.github.io/ComicbookArchiveToolbox/) | :win: |
+| **Metadata**  | [ComicTagger](https://github.com/comictagger/comictagger) | :win::app::lin: |
+| ^^          | [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager) | :win::app::lin: |
+| **Cover**     | [DarkThumbs](https://github.com/fire-eggs/DarkThumbs) | :win: |
+| ^^          | [Icaros](https://www.videohelp.com/software/Icaros) :cs: | :win: |
+| **Others**    | [MangaJaNai](https://github.com/the-database/MangaJaNai) <Badge type="info" text="GUI" link="https://github.com/the-database/MangaJaNaiConverterGui" /> | :win: |
+| ^^          | [XpdfReader](https://www.xpdfreader.com/index.html) | :win::lin: |
+| ^^          | [Poppler](https://poppler.freedesktop.org/) [:gl:](https://gitlab.freedesktop.org/poppler/poppler) | :win::app::lin::bsd: |
 - :more: [Image Tools](/tools#image-tools)
 - :more: [Manga image editing guide](/guides/manga/imagedit)
 
