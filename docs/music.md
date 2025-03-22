@@ -274,12 +274,12 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | **Doujin**  | [Dojin Music](https://www.dojin-music.info/) |
 | ^^          | [VocaDB](https://vocadb.net/) |
 | ^^          | [Vocaranking](https://vocaloid-rankings.fly.dev/en) [:gh:](https://github.com/Duosion/vocaloid-rankings) |
-| ^^          | [TouhouDB](https://touhoudb.com/) |
 | ^^          | [UtaiteDB](https://utaitedb.net/) |
+| ^^          | [Utaite Key](https://utaite-key.info/) |
+| **Touhou**  | [TouhouDB](https://touhoudb.com/) |
 | ^^          | [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki) |
 | ^^          | [THB Wiki](https://thwiki.cc/) |
 | ^^          | [Touhou Spotify Music](https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit#gid=0) |
-| ^^          | [Utaite Key](https://utaite-key.info/) |
 | **Scrobbler** | [Last.fm](https://www.last.fm/) :s: |
 | ^^          | [ListenBrainz](https://listenbrainz.org/) |
 | ^^          | [Libre.fm](https://libre.fm/) |
@@ -291,9 +291,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 |-------------|-------|
 | **General** | [Every Noise at Once](https://everynoise.com/) :s: |
 | ^^          | [Rate Your Music](https://rateyourmusic.com/) :s: |
-| ^^          | [Chosic](https://www.chosic.com/) :s: |
-| ^^          | [Discover Quickly](https://discoverquickly.com/) |
-| ^^          | [Skiley](https://skiley.net/) |
 | ^^          | [Music-Map](https://www.music-map.com/) |
 | ^^          | [Japanese music by year](https://en.wikipedia.org/wiki/Category:Japanese_music_by_year) <Badge type="tip" text="Wand" link="https://www.wikiwand.com/en/Category:Japanese_music_by_year" /> |
 | ^^          | [Dubolt](https://dubolt.com/) |
