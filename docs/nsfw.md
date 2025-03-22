@@ -46,7 +46,7 @@ og:
 - [IMHentai](https://imhentai.xxx/) ==IMHentai==
 - [Hitomi](https://hitomi.la/) ==Hitomi==
 - [Panda Backup](https://panda.chaika.moe/) ==PandaBackup==
-- [SchaleNetwork](https://schale.network/) <Badge text="Mirrors" link="https://rentry.org/schalenet" /> ==SchaleNetwork==
+- [SchaleNetwork](https://schale.network/) :s: <Badge text="Mirrors" link="https://rentry.org/schalenet" /> ==SchaleNetwork==
 - [Yabai](https://yabai.si/) ==Yabai==
 
 ### English-only
