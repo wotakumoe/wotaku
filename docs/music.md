@@ -214,40 +214,40 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 # Utility Sites
 
 ## General
-- [Apple Music Artwork Fetcher](https://artwork.thekvt.eu.org/)
-- [Cover Search Engine](https://covers.musichoarders.xyz/) :s:
-- [Instafest](https://www.instafest.app/)
-- [Jukebox](https://jukebox.today/)
-- [LRCLIB](https://lrclib.net/)
-- [Metadata Lookup Engine](https://seed.musichoarders.xyz/)
-- [MusicButler](https://www.musicbutler.io/) :s:
-- [ReleaseFeed](https://releasefeed.elomatreb.eu/) [:cb:](https://codeberg.org/elomatreb/releasefeed)
-- [Songle](https://songle.jp/) <Badge text="Vocaloid"/>
-- [Songlink](https://odesli.co/)
-- [Soundiiz](https://soundiiz.com/) <Badge text="Transfer"/>
-- [tagger.site](https://martinbarker.me/tagger)
-- [TuneMyMusic](https://www.tunemymusic.com/) <Badge text="Transfer"/>
-- [YADG](https://yadg.cc/) <Badge text="Tracklist"/>
+| Category    | Resource |
+|------------|--------------------------------------------------|
+| **Metadata** | [Apple Music Artwork Fetcher](https://artwork.thekvt.eu.org/) |
+|    ^^      | [Cover Search Engine](https://covers.musichoarders.xyz/) :s: |
+|    ^^      | [LRCLIB](https://lrclib.net/) |
+|    ^^      | [Metadata Lookup Engine](https://seed.musichoarders.xyz/) |
+| **Tracklist** | [tagger.site](https://martinbarker.me/tagger) |
+|    ^^      | [YADG](https://yadg.cc/) |
+| **Release**  | [MusicButler](https://www.musicbutler.io/) :s: |
+|    ^^      | [ReleaseFeed](https://releasefeed.elomatreb.eu/) [:cb:](https://codeberg.org/elomatreb/releasefeed) |
+| **Others**   | [Instafest](https://www.instafest.app/) |
+|    ^^      | [Jukebox](https://jukebox.today/) |
+|    ^^      | [Songle](https://songle.jp/) |
+|    ^^      | [Songlink](https://odesli.co/) |
 
 
 ## Spotify
-- [Album Availability on Spotify](https://kaaes.github.io/albums-availability/) [:gh:](https://github.com/kaaes/albums-availability)
-- [Check Track Availability](https://spotify-check-track-availability.vercel.app/) [:gh:](https://github.com/wcelery/spotify-check-track-availability)
-- [Chosic](https://www.chosic.com/) :s:
-- [Discover Quickly](https://discoverquickly.com/)
-- [Exportify](https://exportify.app/) [:gh:](https://github.com/watsonbox/exportify)
-- [Lyricpost](https://palinkiewicz.github.io/lyricpost/) [:gh:](https://github.com/palinkiewicz/lyricpost)
-- [Musicalyst](https://musicalyst.com/)
-- [Playlist Sorter](https://www.playlistsorter.com/)
-- [Random Music Generator](https://random-song.com/)
-- [Skiley](https://skiley.net/) :s:
-- [Spotify Dedup](https://spotify-dedup.com/) [:gh:](https://github.com/JMPerez/spotify-dedup/)
-- [Spotify Playlist Archive](https://spotifyplaylistarchive.com/)
-- [Spotify Release List](https://spotifyreleaselist.netlify.app/) [:gh:](https://github.com/jakubito/spotify-release-list)
-- [Spotify Stats](https://spotifystats.app/) [:gh:](https://github.com/felhag/lastfm-stats-web)
-- [Spotlistr](https://www.spotlistr.com/)
-- [Stats for Spotify](https://www.statsforspotify.com/)
-- [Volt.fm](https://volt.fm/) :s:
+| Category            | Resource |
+|--------------------|--------------------------------------------------|
+| **Availability**   | [Album Availability on Spotify](https://kaaes.github.io/albums-availability/) [:gh:](https://github.com/kaaes/albums-availability) |
+| ^^                 | [Check Track Availability](https://spotify-check-track-availability.vercel.app/) [:gh:](https://github.com/wcelery/spotify-check-track-availability) |
+| **Discovery & Stats** | [Chosic](https://www.chosic.com/) :s: |
+| ^^                 | [Discover Quickly](https://discoverquickly.com/) |
+| ^^                 | [Musicalyst](https://musicalyst.com/) |
+| ^^                 | [Random Music Generator](https://random-song.com/) |
+| ^^                 | [Skiley](https://skiley.net/) :s::fm: |
+| ^^                 | [Spotify Playlist Archive](https://spotifyplaylistarchive.com/) [:gh:](https://github.com/mackorone/spotify-playlist-archive) |
+| ^^                 | [Spotify Release List](https://spotifyreleaselist.netlify.app/) [:gh:](https://github.com/jakubito/spotify-release-list) |
+| ^^                 | [Volt.fm](https://volt.fm/) :s::fm: |
+| **Tools**          | [Exportify](https://exportify.app/) [:gh:](https://github.com/watsonbox/exportify) |
+| ^^                 | [Lyricpost](https://palinkiewicz.github.io/lyricpost/) [:gh:](https://github.com/palinkiewicz/lyricpost) |
+| ^^                 | [Playlist Sorter](https://www.playlistsorter.com/) |
+| ^^                 | [Spotify Dedup](https://spotify-dedup.com/) [:gh:](https://github.com/JMPerez/spotify-dedup/) |
+| ^^                 | [Spotlistr](https://www.spotlistr.com/) |
 
 ## Last.fm
 - [Last.fm stats](https://lastfmstats.com/) [:gh:](https://github.com/felhag/lastfm-stats-web)
