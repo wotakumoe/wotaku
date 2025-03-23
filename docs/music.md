@@ -447,11 +447,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 - [Zotify](https://zotify.xyz/)
 
 
-::: info Free premium accounts
-You can go through [**Firehawk's Guide**](https://rentry.org/firehawk52) for Premium ARL.
-:::
-
-
 ## Browser
 
 ### Extension
