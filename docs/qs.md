@@ -59,7 +59,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 |------------|--------------------------------------------------|
 | **Android** | [Yokai](https://mihon.app/forks/Yokai/) :s: [:gh:](https://github.com/null2264/yokai) [:e:](/guides/ext/mihon) |
 | ^^         | [Komikku](https://komikku-app.github.io/) [:gh:](https://github.com/komikku-app/komikku) [:e:](/guides/ext/mihon) |
-| ^^         | [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :s::lcl::fm::cs: |
+| ^^         | [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :s::fm::cs: |
 | **iOS**    | [Paperback](https://paperback.moe/) [:gh:](https://github.com/Paperback-iOS/app) [:e:](/guides/ext/ios#paperback) |
 | ^^         | [Aidoku](https://aidoku.app/) [:gh:](https://github.com/Aidoku/Aidoku) [:e:](/guides/ext/ios#aidoku) |
 | ^^         | [YACReader](https://apps.apple.com/app/id635717885) :s::paid::cs: [:tf:](https://testflight.apple.com/join/5zhB7sRP) |
@@ -76,9 +76,9 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 
 | Category   | Resource |
 |------------|--------------------------------------------------|
-| **Dedicated** | [Anithemes.moe](https://animethemes.moe/) :s: [:gh:](https://github.com/AnimeThemes) <Badge type="info" text="Alt" link="https://themes.moe/" /> |
+| **Dedicated** | [Anithemes.moe](https://animethemes.moe/) :s: [:gh:](https://github.com/AnimeThemes) |
 | ^^         | [Karaoke Mugen](https://kara.moe) |
-| ^^         | [Anisong Database](https://anisongdb.com/) [:gh:](https://github.com/xSardine/AMQ-Artists-DB) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" /> |
+| ^^         | [Anisong Database](https://anisongdb.com/) [:gh:](https://github.com/xSardine/AMQ-Artists-DB) |
 | **General** | [YouTube Music](https://music.youtube.com/) :fm: |
 | ^^         | [Apple Music](https://music.apple.com/) :paid: |
 | ^^         | [Spotify](https://spotify.com/) :fm: |
@@ -145,13 +145,13 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 
 | Category           | Resource                                                            | Platform                |
 |--------------------|---------------------------------------------------------------------|-------------------------|
-| **Animanga**  | [FMD 2](https://github.com/dazedcat19/FMD2)                         | :win:                   |
+| **Animanga**       | [FMD 2](https://github.com/dazedcat19/FMD2)                         | :win:                   |
 | ^^                 | [Hakuneko](https://github.com/manga-download/haruneko)              | :win::app::lin:         |
 | ^^                 | [Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader) :cs: | :win::lin:       |
 | **Direct**         | [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) :cs: | :and:               |
 | ^^                 | [LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) | :and:                   |
-| ^^                 | [IDM](https://www.internetdownloadmanager.com/)                     | :win::paid::cs:         |
-| ^^                 | [JDL 2](https://jdownloader.org/)                                   | :win::app::lin::cs:     |
+| ^^                 | [IDM](https://www.internetdownloadmanager.com/)  :cs:  [:material-symbols-help:](https://rentry.org/installidm)    | :win::paid:         |
+| ^^                 | [JDL 2](https://jdownloader.org/) :cs:     [:material-symbols-help:](/guides/tech/jdl)                | :win::app::lin:     |
 | **Torrent**        | [libretorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) | :and:                   |
 | ^^                 | [qBittorrent](https://www.qbittorrent.org/)                          | :win::app::lin:         |
 | ^^                 | [Transmission](https://transmissionbt.com/)                         | :win::app::lin:         |
