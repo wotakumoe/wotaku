@@ -277,6 +277,9 @@ If you have recommendations for good sites in your native language or want to re
 ### Anime
 - [AnimeIL-TV](https://www.animeil-tv.com/)
 
+## Hungarian
+- [AnimeDrive](https://animedrive.hu/)
+- [MagyarAnime](https://magyaranime.eu/)
 
 ## Indian
 
