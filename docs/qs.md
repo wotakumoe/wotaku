@@ -17,27 +17,26 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 
 ### Websites
 
-- **Streaming**
-  - [KickAssAnime](https://kaa.mx/)
-  - [Miruro](https://www.miruro.tv/) [:prx:](https://www.miruro.com)
-  - [Anime Nexus](https://anime.nexus/)
-- **Download**
-  - [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap)
-  - [Tokyo Insider](https://www.tokyoinsider.com/) :ddl:
-  - [Kayoanime](https://kayoanime.com/) :ddl::batch:
+| Category   | Resource |
+|------------|--------------------------------------------------|
+| **Streaming** | [KickAssAnime](https://kaa.mx/) |
+| ^^         | [Miruro](https://www.miruro.tv/) [:prx:](https://www.miruro.com) |
+| ^^         | [Anime Nexus](https://anime.nexus/) |
+| **Download**  | [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap) |
+| ^^         | [Tokyo Insider](https://www.tokyoinsider.com/) :ddl: |
+| ^^         | [Kayoanime](https://kayoanime.com/) :ddl: |
 
 ### Software
 
-- **Android**
-  - [Aniyomi](https://aniyomi.org/) :s: [:gh:](https://github.com/aniyomiorg/aniyomi) [:e:](/guides/ext/mihon)
-  - [Dantotsu](https://dantotsuapp.netlify.app/) [:gh:](https://github.com/rebelonion/Dantotsu) [:e:](/guides/ext/mihon)
-  - [AnimeTV](https://amarullz.com/) [:gh:](https://github.com/amarullz/AnimeTV)
-- **iOS**
-  - [Sora](https://apps.apple.com/us/app/sulfur/id6742741043) [:gh:](https://github.com/cranci1/Sora) [:e:](/guides/ext/ios#sora) [:tf:](https://testflight.apple.com/join/qMUCpNaS) <Badge type="info" text="Altstore" link="https://www.cranci.tech/repo.json" />
-  - [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi)
-- **PC**
-  - [Miru](https://miru.watch/) :s::win::app::lin::mag: [:gh:](https://github.com/ThaUnknown/miru/)
-  - [Mangayomi](https://github.com/kodjodevf/mangayomi) :win::app::lin::mag::ddl: [:e:](/guides/ext/mangayomi)
+| Category  | Resource |
+|-----------|--------------------------------------------------|
+| **Android** | [Aniyomi](https://aniyomi.org/) :s: [:gh:](https://github.com/aniyomiorg/aniyomi) [:e:](/guides/ext/mihon) |
+| ^^        | [Dantotsu](https://dantotsuapp.netlify.app/) [:gh:](https://github.com/rebelonion/Dantotsu) [:e:](/guides/ext/mihon) |
+| ^^        | [AnimeTV](https://amarullz.com/) [:gh:](https://github.com/amarullz/AnimeTV) |
+| **iOS**   | [Sora](https://apps.apple.com/us/app/sulfur/id6742741043) [:gh:](https://github.com/cranci1/Sora) [:e:](/guides/ext/ios#sora) [:tf:](https://testflight.apple.com/join/qMUCpNaS) <Badge type="info" text="Altstore" link="https://www.cranci.tech/repo.json" /> |
+| ^^        | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi) |
+| **PC**    | [Miru](https://miru.watch/) :s::mag: [:gh:](https://github.com/ThaUnknown/miru/) |
+| ^^        | [Mangayomi](https://github.com/kodjodevf/mangayomi) :mag::ddl: [:e:](/guides/ext/mangayomi) |
 
 ![](/banner/wmanga.webp)
 
@@ -45,29 +44,28 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 
 ### Websites
 
-- **Online**
-  - [ComicK](https://comick.io/home22)
-  - [MangaDex](https://mangadex.org/)
-  - [Weeb Central](https://weebcentral.com/)
-- **Download**
-  - [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap)
-  - [Madokami](https://manga.madokami.al) :s: <Badge type="info" text="Guide" link="/guides/manga/madokami" />
-  - [Library Genesis+](https://libgen.gs/) [:prx:](https://rentry.org/wotaxy#library-genesis)
+| Category   | Resource |
+|------------|--------------------------------------------------|
+| **Online** | [ComicK](https://comick.io/home22) |
+| ^^         | [MangaDex](https://mangadex.org/) |
+| ^^         | [Weeb Central](https://weebcentral.com/) |
+| **Download**  | [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap) |
+| ^^         | [Madokami](https://manga.madokami.al) :s: [:material-symbols-help:](/guides/manga/madokami) |
+| ^^         | [Library Genesis+](https://libgen.gs/) [:prx:](https://rentry.org/wotaxy#library-genesis) |
 
 ### Software
 
-- **Android**
-  - [Yokai](https://mihon.app/forks/Yokai/) :s: [:gh:](https://github.com/null2264/yokai) [:e:](/guides/ext/mihon)
-  - [Komikku](https://komikku-app.github.io/) [:gh:](https://github.com/komikku-app/komikku) [:e:](/guides/ext/mihon)
-  - [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :s::lcl::fm::cs:
-- **iOS**
-  - [Paperback](https://paperback.moe/) [:gh:](https://github.com/Paperback-iOS/app) [:e:](/guides/ext/ios#paperback)
-  - [Aidoku](https://aidoku.app/) [:gh:](https://github.com/Aidoku/Aidoku) [:e:](/guides/ext/ios#aidoku)
-  - [YACReader](https://apps.apple.com/app/id635717885) :s::lcl::paid::cs:[:tf:](https://testflight.apple.com/join/5zhB7sRP)
-- **PC**
-  - [Houdoku](https://houdoku.netlify.app/) :win::app::lin: [:gh:](https://github.com/xgi/houdoku)
-  - [CDisplayEx](https://www.cdisplayex.com/) :win::lcl::cs:
-  - [YACReader](https://www.yacreader.com/) :win::app::lin::lcl:
+| Category   | Resource |
+|------------|--------------------------------------------------|
+| **Android** | [Yokai](https://mihon.app/forks/Yokai/) :s: [:gh:](https://github.com/null2264/yokai) [:e:](/guides/ext/mihon) |
+| ^^         | [Komikku](https://komikku-app.github.io/) [:gh:](https://github.com/komikku-app/komikku) [:e:](/guides/ext/mihon) |
+| ^^         | [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :s::lcl::fm::cs: |
+| **iOS**    | [Paperback](https://paperback.moe/) [:gh:](https://github.com/Paperback-iOS/app) [:e:](/guides/ext/ios#paperback) |
+| ^^         | [Aidoku](https://aidoku.app/) [:gh:](https://github.com/Aidoku/Aidoku) [:e:](/guides/ext/ios#aidoku) |
+| ^^         | [YACReader](https://apps.apple.com/app/id635717885) :s::paid::cs: [:tf:](https://testflight.apple.com/join/5zhB7sRP) |
+| **PC**     | [Houdoku](https://houdoku.netlify.app/) :win::app::lin: [:gh:](https://github.com/xgi/houdoku) |
+| ^^         | [CDisplayEx](https://www.cdisplayex.com/) :win::cs: |
+| ^^         | [YACReader](https://www.yacreader.com/) :win::app::lin: |
 
 
 ![](/banner/music.webp)
@@ -76,40 +74,39 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 
 ### Streaming
 
-- **Dedicated**
-  - [Anithemes.moe](https://animethemes.moe/) :s: [:gh:](https://github.com/AnimeThemes) <Badge type="info" text="Alt" link="https://themes.moe/" />
-  - [Karaoke Mugen](https://kara.moe)
-  - [Anisong Database](https://anisongdb.com/) [:gh:](https://github.com/xSardine/AMQ-Artists-DB) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" />
-- **General**
-  - [YouTube Music](https://music.youtube.com/)
-  - [Apple Music](https://music.apple.com/)
-  - [Spotify](https://spotify.com/)
+| Category   | Resource |
+|------------|--------------------------------------------------|
+| **Dedicated** | [Anithemes.moe](https://animethemes.moe/) :s: [:gh:](https://github.com/AnimeThemes) <Badge type="info" text="Alt" link="https://themes.moe/" /> |
+| ^^         | [Karaoke Mugen](https://kara.moe) |
+| ^^         | [Anisong Database](https://anisongdb.com/) [:gh:](https://github.com/xSardine/AMQ-Artists-DB) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" /> |
+| **General** | [YouTube Music](https://music.youtube.com/) :fm: |
+| ^^         | [Apple Music](https://music.apple.com/) :paid: |
+| ^^         | [Spotify](https://spotify.com/) :fm: |
 
 ### Download
 
-- **Dedicated**
-  - [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap)
-  - [Sitting on Clouds](https://www.sittingonclouds.net/) :s: [:prx:](https://rentry.org/wotaxy#sitting-on-clouds)
-  - [SquidBoard](https://www.squid-board.org/)
-- **General**
-  - [Squid.wtf](https://squid.wtf/) :s:
-  - [Lucida](https://lucida.to/) <Badge type="tip" text="2" link="https://lucida.su/" />
+| Category   | Resource |
+|------------|--------------------------------------------------|
+| **Dedicated** | [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap) |
+| ^^         | [Sitting on Clouds](https://www.sittingonclouds.net/) :s: [:prx:](https://rentry.org/wotaxy#sitting-on-clouds) |
+| ^^         | [SquidBoard](https://www.squid-board.org/) |
+| **General** | [Squid.wtf](https://squid.wtf/) :s: |
+| ^^         | [Lucida](https://lucida.to/) <Badge type="tip" text="2" link="https://lucida.su/" /> |
 
 ### Software
 
-- **Android**
-  - [Poweramp](https://powerampapp.com/) :s::lcl::paid::cs:
-  - [Musicolet Music Player](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) :lcl::cs:
-  - [Metrolist](https://github.com/mostafaalagamy/metrolist)
-  - [xManager](https://www.xmanagerapp.com/) :cs:
-- **iOS**
-  - [Flacbox](https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256) :cs:
-- **PC**
-  - [Foobar2000](https://www.foobar2000.org/) :s::win::app::cs:
-  - [AIMP](https://www.aimp.ru/) :s::win::lin::cs:
-  - [MusicBee](https://www.getmusicbee.com/) :win::cs:
-  - [Spicetify](https://spicetify.app/) :win::app::lin:
-  - [SPOTX](https://github.com/SpotX-Official/SpotX) :win:
+| Category   | Resource |
+|------------|--------------------------------------------------|
+| **Android** | [Poweramp](https://powerampapp.com/) :s::lcl::paid::cs: |
+| ^^         | [Musicolet Music Player](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) :lcl::cs: |
+| ^^         | [Metrolist](https://github.com/mostafaalagamy/metrolist) |
+| ^^         | [xManager](https://www.xmanagerapp.com/) :cs: |
+| **iOS**    | [Flacbox](https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256) :cs: |
+| **PC**     | [Foobar2000](https://www.foobar2000.org/) :s::win::app::cs: |
+| ^^         | [AIMP](https://www.aimp.ru/) :s::win::lin::cs: |
+| ^^         | [MusicBee](https://www.getmusicbee.com/) :win::cs: |
+| ^^         | [Spicetify](https://spicetify.app/) :win::app::lin: |
+| ^^         | [SPOTX](https://github.com/SpotX-Official/SpotX) :win: |
 
 
 ![](/banner/essentails.webp)
@@ -118,11 +115,14 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 
 ### Adblockers
 
-- [uBlock Origin](https://github.com/gorhill/uBlock) :ff::cr:
-- [Adguard](https://adguard.com/en/welcome.html) :and::win::app::ff::cr::cs:
-- [Adaway](https://adaway.org/) :and:
-- [RethinkDNS](https://rethinkdns.com/) :and::win::app::lin:
-- [NextDNS](https://nextdns.io/) :and::win::app::lin:
+| Resource                                                        | Phone                   | PC                      | Browser                |
+|-----------------------------------------------------------------|-------------------------|-------------------------|------------------------|
+| [uBlock Origin](https://github.com/gorhill/uBlock)     :s:      |  -                      |       -                 | :ff::cr:               |
+| [Adguard](https://adguard.com/en/welcome.html)         :cs:     | :and::app:              | :win::app:              | :ff::cr:               |
+| [Adaway](https://adaway.org/)                                   | :and:                   |        -                |     -                  |
+| [RethinkDNS](https://rethinkdns.com/)                           | :and:                   | :win::app::lin:         |     -                  |
+| [NextDNS](https://nextdns.io/)    :s:                           | :and::app:              | :win::app::lin:         |  :ff::cr:              |
+
 
 ::: tip [**Click here**](/guides/tech/adblock) for full adblock solutions.
 :::
@@ -130,32 +130,32 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 
 ### Database & Tracker
 
-- **Websites**
-  - [AniList](https://anilist.co/) <Badge type="info" text="General" />
-  - [MyAnimeList](https://myanimelist.net/) <Badge type="info" text="General" />
-  - [aniDB](https://anidb.net/) <Badge type="info" text="Anime" />
-  - [Mangaupdates](https://www.mangaupdates.com/) <Badge type="info" text="Manga" />
-- **Software**
-  - [Android trackers](/software#trackers)
-  - [iOS trackers](/software#trackers-1)
-  - [PC trackers](/software#trackers-2)
+| Category   | Resource |
+|------------|--------------------------------------------------|
+| **Websites** | [AniList](https://anilist.co/) |
+| ^^         | [MyAnimeList](https://myanimelist.net/) |
+| ^^         | [aniDB](https://anidb.net/) |
+| ^^         | [Mangaupdates](https://www.mangaupdates.com/) |
+| **Software** | [Android trackers](/software#trackers) |
+| ^^         | [iOS trackers](/software#trackers-1) |
+| ^^         | [PC trackers](/software#trackers-2) |
 
 
 ### Downloaders
 
-- **Anime & Manga**
-  - [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) :win: <Badge type="info" text="Manga" />
-  - [Hakuneko](https://github.com/manga-download/haruneko) :win::app::lin: <Badge type="info" text="General" /> <Badge type="tip" text="Old" link="https://github.com/manga-download/hakuneko" /><tooltip>For Linux, you have to use old one atm.</tooltip>
-  - [Red Squirrel's Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader) :win::lin::cs: <Badge type="info" text="Manga" />
-- **Direct**
-  - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) :and::cs:
-  - [LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) :and:
-  - [Internet Download Manager](https://www.internetdownloadmanager.com/) :win::paid::cs: <Badge text="Guide" link="https://rentry.org/installidm" />
-  - [JDownloader 2](https://jdownloader.org/) :win::app::lin::cs: <Badge text="Debloat" link="/guides/tech/jdl" />
-- **Torrent**
-  - [libretorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) :and:
-  - [qBittorrent](https://www.qbittorrent.org/) :win::app::lin:
-  - [Transmission](https://transmissionbt.com/) :win::app::lin:
+| Category           | Resource                                                            | Platform                |
+|--------------------|---------------------------------------------------------------------|-------------------------|
+| **Animanga**  | [FMD 2](https://github.com/dazedcat19/FMD2)                         | :win:                   |
+| ^^                 | [Hakuneko](https://github.com/manga-download/haruneko)              | :win::app::lin:         |
+| ^^                 | [Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader) :cs: | :win::lin:       |
+| **Direct**         | [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) :cs: | :and:               |
+| ^^                 | [LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) | :and:                   |
+| ^^                 | [IDM](https://www.internetdownloadmanager.com/)                     | :win::paid::cs:         |
+| ^^                 | [JDL 2](https://jdownloader.org/)                                   | :win::app::lin::cs:     |
+| **Torrent**        | [libretorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) | :and:                   |
+| ^^                 | [qBittorrent](https://www.qbittorrent.org/)                          | :win::app::lin:         |
+| ^^                 | [Transmission](https://transmissionbt.com/)                         | :win::app::lin:         |
+
 
 ### DNS
 
