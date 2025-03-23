@@ -493,7 +493,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [Better Anime](https://betteranime.net/)
 - [Dark Animes](https://darkmahou.org/) :mag:
 - [Geekdot](https://geekdot.live/)
-- [Hinata Soul](https://www.hinatasoul.com/)
+- [Hinata Soul](https://www.hinatasoul.net/)
 - [HentaisTube](https://www.hentaistube.com/) <Badge type="danger" text="18+" />
 - [:tg: Toonami na Era do Telegram](https://t.me/toonamibr)
 
