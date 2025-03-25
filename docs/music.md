@@ -365,7 +365,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^         | [SimpMusic](https://github.com/maxrave-dev/SimpMusic) :and: |
 | ^^         | [Harmony Music](https://github.com/anandnet/Harmony-Music) :and: |
 | **Spotify** | [**Spotify**](https://www.spotify.com/us/download/) :cs: |
-| ^^         | [xManager](https://www.xmanagerapp.com/) :and::cs: ==xManager== |
+| ^^         | [xManager](https://www.xmanagerapp.com/) :and::cs: |
 | ^^         | [EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) :app: <Badge type="info" text="Sideload" link="https://github.com/whoeevee/EeveeSpotify/tree/swift/Repositories#eeveespotify-official-repositories" /> |
 | **Others**  | [Apple Music](https://apps.apple.com/us/app/apple-music/id1108187390) :app::cs: |
 | ^^         | [ReFreezer](https://github.com/DJDoubleD/refreezer) :and: `Deezer` |
