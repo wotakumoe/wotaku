@@ -267,9 +267,17 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 |----------|---------|
 | [Hakuneko](https://github.com/manga-download/haruneko) <Badge type="tip" text="Old" link="https://github.com/manga-download/hakuneko" /> ==Hakuneko== | :win::app::lin: |
 | [ADL](https://github.com/RaitaroH/adl) | :win::lin::cmd: |
-| [Crunchyroll-Downloader](https://github.com/Crunchy-DL/Crunchy-Downloader) <Badge type="tip" text="Keydive" link="https://github.com/hyugogirubato/KeyDive" /> | :win: |
+| [Crunchyroll-Downloader](https://github.com/Crunchy-DL/Crunchy-Downloader) | :win: |
 | [Anime Downloader NX](https://github.com/anidl/multi-downloader-nx) | :win::app::lin::cmd: |
 | [Yoimi](https://github.com/NyaShinn1204/Yoimi) | :simple-icons-python: |
+
+#### DRM
+| Category          | Resource                                                       |
+|------------------|-----------------------------------------------------------------|
+| **Video Extractor** | [Devine](https://github.com/devine-dl/devine)                 |
+| ^^               | [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) <Badge type="tip" text="WidevineProxy2" link="https://github.com/DevLARLEY/WidevineProxy2" /> |
+| **Key Extractor** | [KeyDive](https://github.com/hyugogirubato/KeyDive/) `L3`       |
+| **Utility** | [pywidevine](https://github.com/devine-dl/pywidevine)          |
 
 ### Manga
 
@@ -368,16 +376,17 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 
 ## Other Tools
-- [AMV Tracker](https://github.com/bsobotka/amv_tracker) :win:
-- **Image Search**
-  - [SmartImage](https://github.com/Decimation/SmartImage) :win::lin:
-  - [Search by Image](https://github.com/dessant/search-by-image) :ff::cr::mingcute-safari-fill:
-  - [AnimeSnap](https://github.com/rohankishore/AnimeSnap) :win:
-  - [Sauce](https://github.com/cadecuddy/sauce)
-- **Nyaa Tools**
-  - [nyaa](https://github.com/Beastwick18/nyaa) :win::lin:
-  - [Nyaa Downloader](https://github.com/marcpinet/nyaadownloader) :win:
-  - [Koneko](https://github.com/irevenko/koneko)
+
+| Category       | Resource                                                       | Platform             |
+|---------------|-----------------------------------------------------------------|----------------------|
+| **Image Search** | [SmartImage](https://github.com/Decimation/SmartImage)       | :win::lin:          |
+| ^^            | [Search by Image](https://github.com/dessant/search-by-image)   | :ff::cr::simple-icons-safari: |
+| ^^            | [AnimeSnap](https://github.com/rohankishore/AnimeSnap)          | :win:               |
+| ^^            | [Sauce](https://github.com/cadecuddy/sauce)                     |   :cmd:                 |
+| **Nyaa Tools** | [nyaa](https://github.com/Beastwick18/nyaa)                     | :win::lin:          |
+| ^^            | [Nyaa Downloader](https://github.com/marcpinet/nyaadownloader)  | :win:               |
+| ^^            | [Koneko](https://github.com/irevenko/koneko)                    |    :cmd:               |
+| **Others**    | [AMV Tracker](https://github.com/bsobotka/amv_tracker)          | :win:               |
 
 ## Server / Hosting
 
