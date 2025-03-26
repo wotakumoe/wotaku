@@ -259,6 +259,7 @@ ___
 |-----------|----------|
 | Fan Projects | [Holodex](https://holodex.net/) [:gh:](https://github.com/HolodexNet/Holodex) |
 | ^^         | [Musicdex](https://music.holodex.net/) [:gh:](https://github.com/HolodexNet/Musicdex) |
+| ^^         | [ENreco Archive](https://enreco-archive.net/#0/0)
 | Archive    | [Ragtag Archive](https://archive.ragtag.moe/) [:gh:](https://github.com/ragtag-archive) |
 | ^^         | [Patchwork Archive](https://patchwork.moekyun.me/) [:gh:](https://github.com/Patchwork-Archive/) |
 | ^^         | [Rebel's ASMR Archive](https://asmr.ahegao.dev/) |
