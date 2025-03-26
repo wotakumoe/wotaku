@@ -174,7 +174,7 @@ ___
 - [Yokubi](https://yoku.bi/) :s: <tooltip>Updated version of Sakubi by community</tooltip>
 - [A Dictionary of Japanese Grammar](https://core6000.neocities.org/dojg/)
 - [IMABI](https://imabi.org/) :s: <tooltip>Very detailed reference</tooltip>
-- [Tae Kim's Guide](https://guidetojapanese.org/learn/) :s:
+- [Tae Kim's Guide](https://guidetojapanese.org/learn/)
 - [Pomax's An introduction to Japanese](https://pomax.github.io/nrGrammar/)
 - **Cure Dolly**
   - [Original version](https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit)
