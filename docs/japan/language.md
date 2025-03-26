@@ -18,8 +18,8 @@ If you're knowledgeable in Japanese, consider contributing to the wiki. We could
 
 ## Starter Guide
 - [TheMoeWay Guide](https://learnjapanese.moe/) :s:
-- [Animecards Site](https://animecards.site/)
 - [Kuri's Immersion-Based Japanese Learning](https://donkuri.github.io/learn-japanese/) :s:
+- [Animecards Site](https://animecards.site/)
 
 :::details More
 - [itazuraneko](https://gohoneko.neocities.org/)
@@ -171,10 +171,11 @@ ___
 
 ### Sites
 
+- [Yokubi](https://yoku.bi/) :s: <tooltip>Updated version of Sakubi by community</tooltip>
 - [A Dictionary of Japanese Grammar](https://core6000.neocities.org/dojg/)
-- [Tae Kim's Guide](https://guidetojapanese.org/learn/)
+- [IMABI](https://imabi.org/) :s: <tooltip>Very detailed reference</tooltip>
+- [Tae Kim's Guide](https://guidetojapanese.org/learn/) :s:
 - [Pomax's An introduction to Japanese](https://pomax.github.io/nrGrammar/)
-- [IMABI](https://imabi.org/)
 - **Cure Dolly**
   - [Original version](https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit)
   - [Mordraug version](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit)
@@ -306,7 +307,6 @@ Check out the [**Japanese Mega Learning Pack**](https://rentry.org/wotadirect). 
 | **Others**    | [Conversation Exchange](https://www.conversationexchange.com/) |  
 | ^^            | [Japanese Language Stack Exchange](https://japanese.stackexchange.com/) |  
 | ^^            | [My Language Exchange](https://www.mylanguageexchange.com/) |  
-| ^^            | [Tatsumoto](https://tatsumoto.neocities.org/blog/join-our-community) |
 
 
 ### Course Sites
