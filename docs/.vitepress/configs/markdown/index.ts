@@ -355,7 +355,7 @@ const tooltips: {
   kohi: { content: 'Sorta maintains all the official extensions by Aniyomi' },
   ni3x: { content: 'Focuses on Torrents and Ero anime' },
   secozzi: { content: 'For Jellyfin and Stremio' },
-  kei: { content: 'Maintained by active Tachiyomi contributors' },
+  kei: { content: 'Maintained by former Tachiyomi contributors' },
   zosetsu: { content: 'By Komikku dev. Mirrors Keiyoushi repo with a few extra extensions' },
   zoani: { content: 'By Komikku dev. Mirrors Kohi-den repo with a few extra extensions' },
   demo: { content: 'Demo tooltips for start page' },
