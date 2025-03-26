@@ -502,6 +502,9 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [HentaisTube](https://www.hentaistube.com/) <Badge type="danger" text="18+" />
 - [:tg: Toonami na Era do Telegram](https://t.me/toonamibr)
 
+#### Software
+- [GoAnime](https://github.com/alvarorichard/GoAnime) :win::cmd:
+
 ### Manga
 - [Ler Mangas](https://lermangas.me/)
 - [SlimeRead](https://slimeread.com/)
