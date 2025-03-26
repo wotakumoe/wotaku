@@ -19,20 +19,20 @@ outline: 1
 - Scraper<tooltip>Meaning they don't have their own uploads, but scrape from self-hosted sites. If a host site goes down, changes site structure or API, the scraper site will become useless.</tooltip> -> :mingcute-shovel-fill:
 - Tracker ([AL](https://anilist.co/home)/[MAL](https://myanimelist.net/)) sync -> :mingcute-refresh-2-fill:
 - In-site Account -> :mingcute-user-2-fill:
-
-
 :::
 
-- [Miruro](https://www.miruro.tv/) :mingcute-shovel-fill::mingcute-refresh-2-fill: [:prx:](https://www.miruro.com) ==miruro==
-- [AnimeStream](https://anime.uniquestream.net/) :mingcute-shovel-fill: ==AnimeStream==
-- [Anime Nexus](https://anime.nexus/) :mingcute-server-fill::mingcute-user-2-fill: ==AnimeNexus==
-- [KickAssAnime](https://kaa.mx/) :mingcute-server-fill::mingcute-shovel-fill::mingcute-user-2-fill: ==KAA==
-- [AnimeKai](https://animekai.to/home) :mingcute-server-fill::mingcute-refresh-2-fill::mingcute-user-2-fill: <Badge type="tip" text="2" link="https://animekai.bz/home" /> ==AnimeKai==
-- [HiAnime](https://hianime.to/home) :mingcute-server-fill::mingcute-user-2-fill: [:prx:](https://hianime.tv/) ==Zoro==
-- [Hikari](https://watch.hikaritv.xyz/) :mingcute-server-fill::mingcute-user-2-fill: ==Hikari==  
-- [Sudatchi](https://sudatchi.com/) :mingcute-server-fill::mingcute-refresh-2-fill: ==Sudatchi==  
-- [AniZone](https://anizone.to/) :mingcute-server-fill: ==AniZone==  
-- [Animepahe](https://animepahe.ru/) :mingcute-server-fill: <Badge type="tip" text="2" link="https://animepahe.com/" /> <Badge type="tip" text="3" link="https://animepahe.org" /> ==Animepahe==
+| Websites | Type | Login |
+|----------|----------------------|----------------------|
+| [Miruro](https://www.miruro.tv/) [:prx:](https://www.miruro.com) ==miruro== | :mingcute-shovel-fill: | :mingcute-refresh-2-fill: |
+| [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :mingcute-shovel-fill: | :no: |
+| [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :mingcute-server-fill: | :mingcute-user-2-fill: |
+| [KickAssAnime](https://kaa.mx/) ==KAA== | :mingcute-server-fill: :mingcute-shovel-fill: | :mingcute-user-2-fill: |
+| [AnimeKai](https://animekai.to/home) <Badge type="tip" text="2" link="https://animekai.bz/home" /> ==AnimeKai== | :mingcute-server-fill: | :mingcute-refresh-2-fill: :mingcute-user-2-fill: |
+| [HiAnime](https://hianime.to/home) [:prx:](https://hianime.tv/) ==Zoro== | :mingcute-server-fill: | :mingcute-user-2-fill: |
+| [Hikari](https://watch.hikaritv.xyz/) ==Hikari== | :mingcute-server-fill: | :mingcute-user-2-fill: |
+| [Sudatchi](https://sudatchi.com/) ==Sudatchi== | :mingcute-server-fill: | :mingcute-refresh-2-fill: |
+| [AniZone](https://anizone.to/) ==AniZone== | :mingcute-server-fill: | :no: |
+| [Animepahe](https://animepahe.ru/) ==Animepahe== | :mingcute-server-fill: | :no: |
 
 :::details More
 
@@ -40,7 +40,7 @@ outline: 1
 
 - [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) :mingcute-server-fill::mingcute-shovel-fill::mingcute-user-2-fill: ==AllManga==  
 - [Animotvslash](https://www.animotvslash.org/search) :mingcute-server-fill: ==Animotvslash==  
-- [Watch Cartoon Online](https://www.wco.tv/) :mingcute-server-fill::mingcute-user-2-fill: <Badge text="Proxies" link="https://rentry.org/wotaxy#watch-cartoon-online" /> ==WCO==
+- [Watch Cartoon Online](https://www.wco.tv/) :mingcute-server-fill::mingcute-user-2-fill: [:prx:](https://rentry.org/wotaxy#watch-cartoon-online) ==WCO==
 
 ### Low Res
 - [Anime Defenders](https://animedefenders.me/) :mingcute-user-2-fill: <Badge type="danger" text="18+" />
@@ -151,7 +151,7 @@ outline: 1
 <Button link="/guides/tech/irc" icon="i-octicon-command-palette-16">To learn how to use IRC, you can read the guide</Button>
 
 
-::: details :more: Related resources
+::: details Related resources
 - [Anime apps for Android](/software#anime-streaming) and [PC](/software#anime-streaming-2)
 - [Anime downloader for PC](/software#anime)
 - [Anime info sites](/misc#anime-1) and [tracking sites](/misc#general)
@@ -233,20 +233,19 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 
 ### Direct Download
 
-#### Aggregators
-- [Madokami](https://manga.madokami.al) :s: <Badge type="info" text="Guide" link="/guides/manga/madokami" />
-- [Anna's Archive](https://annas-archive.org/) [:prx:](https://rentry.org/wotaxy#annas-archive) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
-- [Desuarchive](https://desuarchive.org/) :f: <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
-- [Library Genesis+](https://libgen.gs/) [:prx:](https://rentry.org/wotaxy#library-genesis)
-- [Internet Archive](https://archive.org/)
-___
-#### Rippers
-- [1r0n](https://nyaa.si/user/tsuna69)<tooltip>Available in description</tooltip>
-- [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) 
-- [Danke](https://desuarchive.org/_/search/text/(digital)%20(danke-empire)/)
-- [LuCaZ](https://nyaa.si/user/LuCaZ)<tooltip>Available in description</tooltip>
-- [Stick](https://nyaa.si/user/dumbboy58)<tooltip>Available in description</tooltip>
-- [XRA](https://desuarchive.org/_/search/text/(digital)%20(xra-empire)/) <Badge type="tip" text="Old Releases" link="https://rentry.org/wotadirect" />
+| Category      | Website |
+|--------------|----------------------------------------------------------------------------------|
+| **Aggregators** | [Madokami](https://manga.madokami.al) :s: <Badge type="info" text="Guide" link="/guides/manga/madokami" /> |
+| ^^           | [Anna's Archive](https://annas-archive.org/) [:prx:](https://rentry.org/wotaxy#annas-archive) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" /> |
+| ^^           | [Desuarchive](https://desuarchive.org/) :f: <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" /> |
+| ^^           | [Library Genesis+](https://libgen.gs/) [:prx:](https://rentry.org/wotaxy#library-genesis) |
+| ^^           | [Internet Archive](https://archive.org/) |
+| **Rippers**  | [1r0n](https://nyaa.si/user/tsuna69)<tooltip>Available in description</tooltip> |
+| ^^           | [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) |
+| ^^           | [Danke](https://desuarchive.org/_/search/text/(digital)%20(danke-empire)/) |
+| ^^           | [LuCaZ](https://nyaa.si/user/LuCaZ)<tooltip>Available in description</tooltip> |
+| ^^           | [Stick](https://nyaa.si/user/dumbboy58)<tooltip>Available in description</tooltip> |
+| ^^           | [XRA](https://desuarchive.org/_/search/text/(digital)%20(xra-empire)/) <Badge type="tip" text="Old Releases" link="https://rentry.org/wotadirect" /> |
 
 
 ## Scanlators
@@ -283,7 +282,7 @@ ___
 
 :::
 
-::: details :more: Related resources
+::: details  Related resources
 - [Manga apps for Android](/software#manga-readers) and [PC](/software#manga-readers-2)
 - [Manga downloader for PC](/software#manga)
 - [Manga related tools](/software#manga-tools)
@@ -318,23 +317,19 @@ ___
 
 ## Download
 
-### Nyaa
-
-- [Ganba](https://nyaa.si/user/Ganba?f=0&c=3_1&q=) <Badge type="warning" text="Retired"/>
-- [HowUnfortunate](https://nyaa.si/user/HowUnfortunate?f=0&c=3_1&q=)
-- [LuCaZ](https://nyaa.si/?f=0&c=3_1&q=%22%5BLuCaZ%5D%22)
-- [Stick](https://nyaa.si/?f=0&c=3_1&q=%22%5BStick%5D%22)
-
-### Direct Download
-
-- [Ganba's DDL sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSvd0SjjPYZKzhUwTYK2n2peZD_n6_wDmEKV3I37nuM-FnOtAU5xZkec35GabjrZ6olJTbr_CMXS6AH/pubhtml)
-- [Elscione Official LNs](https://server.elscione.com/Officially%20Translated%20Light%20Novels/)
-- [Novel Onedrive Index](https://novel-indx.vercel.app/)
-- [Madokami](https://manga.madokami.al)
-- [Anna’s Archive](https://annas-archive.org/) [:prx:](https://rentry.org/wotaxy#annas-archive) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
-- [Library Genesis+](https://libgen.gs/) [:prx:](https://rentry.org/wotaxy#library-genesis)
-- [Z-Library](https://z-lib.gs/) [:prx:](https://rentry.org/wotaxy#z-library)
-
+| Category          | Website |
+|------------------|-----------------------------------------------------------------|
+| **Nyaa**         | [Ganba](https://nyaa.si/user/Ganba?f=0&c=3_1&q=) <Badge type="warning" text="Retired"/> |
+| ^^              | [HowUnfortunate](https://nyaa.si/user/HowUnfortunate?f=0&c=3_1&q=) |
+| ^^              | [LuCaZ](https://nyaa.si/?f=0&c=3_1&q=%22%5BLuCaZ%5D%22) |
+| ^^              | [Stick](https://nyaa.si/?f=0&c=3_1&q=%22%5BStick%5D%22) |
+| **Direct Download** | [Ganba's DDL sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSvd0SjjPYZKzhUwTYK2n2peZD_n6_wDmEKV3I37nuM-FnOtAU5xZkec35GabjrZ6olJTbr_CMXS6AH/pubhtml) <Badge type="warning" text="Retired"/> |
+| ^^              | [Elscione Official LNs](https://server.elscione.com/Officially%20Translated%20Light%20Novels/) |
+| ^^              | [Novel Onedrive Index](https://novel-indx.vercel.app/) |
+| ^^              | [Madokami](https://manga.madokami.al) |
+| ^^              | [Anna’s Archive](https://annas-archive.org/) [:prx:](https://rentry.org/wotaxy#annas-archive) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" /> |
+| ^^              | [Library Genesis+](https://libgen.gs/) [:prx:](https://rentry.org/wotaxy#library-genesis) |
+| ^^              | [Z-Library](https://z-lib.gs/) [:prx:](https://rentry.org/wotaxy#z-library) |
 
 ## Audiobooks
 
@@ -352,22 +347,21 @@ ___
 
 ## Media
 
-### Streaming
+| Category   | Website |
+|------------|-----------------------------------------------------------------|
+| **Streaming** | [Tokuzilla](https://tokuzilla.net/) :s: <Badge type="info" text="2" link="https://tokuzl.net/" /> |
+| ^^         | [Toku555](https://toku555.com/) |
+| ^^         | [Zokaj](https://zokaj.com/) |
+| ^^         | [ViewAsian](https://www.viewasian.org/) |
+| ^^         | [Power Rangers Official](https://www.youtube.com/@PowerRangersOfficial/) |
+| ^^         | [ULTRAMAN Official](https://www.youtube.com/@ULTRAMAN_OFFICIAL/) <Badge type="tip" text="New" link="https://www.youtube.com/@ultraman_english_official/" /> |
+| ^^         | [Legal Tokusatsu Streaming List](https://otakulogy.github.io/tokusatsu-streaming/) |
+| **Download** | [Zekozimo](https://zekozimo.blogspot.com/) :s: <Badge type="tip" text="General" /> |
+| ^^         | [KRDL](https://krdl.moe/) :s: |
+| ^^         | [Nyaa](https://nyaa.si/) :mag: [:prx:](https://rentry.org/nyaap) |
+| ^^         | [Metallic Subs](https://metallicsubs.wordpress.com/) |
+| ^^         | [Megabeast Empire](https://megabeastempire.wordpress.com/) |
 
-- [Tokuzilla](https://tokuzilla.net/) :s: <Badge type="info" text="2" link="https://tokuzl.net/" />
-- [Toku555](https://toku555.com/)
-- [Zokaj](https://zokaj.com/)
-- [ViewAsian](https://www.viewasian.org/)
-- [Power Rangers Official](https://www.youtube.com/@PowerRangersOfficial/)
-- [ULTRAMAN Official](https://www.youtube.com/@ULTRAMAN_OFFICIAL/) <Badge type="tip" text="New" link="https://www.youtube.com/@ultraman_english_official/" />
-- [Legal Tokusatsu Streaming List](https://otakulogy.github.io/tokusatsu-streaming/)
-
-### Download
-- [Zekozimo](https://zekozimo.blogspot.com/) :s: <Badge type="tip" text="General"  />
-- [KRDL](https://krdl.moe/) :s:
-- [Nyaa](https://nyaa.si/) :mag: [:prx:](https://rentry.org/nyaap)
-- [Metallic Subs](https://metallicsubs.wordpress.com/)
-- [Megabeast Empire](https://megabeastempire.wordpress.com/)
 
 ## Wikis
 
@@ -423,26 +417,25 @@ ___
 - [TheLongbox](https://thelongbox.net/) :host::acc:
 
 ## Others
-- **Info / News**
-  - [Comichron](https://www.comichron.com/index.php)
-  - [Comic Book Herald](https://www.comicbookherald.com/)
-  - [Comic Book Reading Orders](https://comicbookreadingorders.com/)
-  - [Comic Book Treasury](https://www.comicbooktreasury.com/)
-  - [Comic Shop Locator](https://www.comicshoplocator.com/)
-  - [Comic Watch](https://comic-watch.com/)
-  - [Complete Marvel Reading Order](https://cmro.travis-starnes.com/)
-  - [Grand Comics Database](https://www.comics.org/)
-  - [How To Love Comics](https://www.howtolovecomics.com/)
-  - [Marvel Guides](https://marvelguides.com/)
-  - [Official Marvel Guides](https://www.marvel.com/comics/guides)
-  - [The Beat](https://www.comicsbeat.com/)
-  - [The Comics Journal](https://www.tcj.com/)
-- **Tools**
-  - [Kapowarr](https://casvt.github.io/Kapowarr/) [:gh:](https://github.com/Casvt/Kapowarr)
-  - [Mylar3](https://github.com/mylar3/mylar3)
-- **Tracker**
-  - [Comic Vine](https://comicvine.gamespot.com/)
-  - [League of Comic Geeks](https://leagueofcomicgeeks.com/)
+| Category                | Website |
+|-------------------------|---------|
+| **Info**               | [Comichron](https://www.comichron.com/index.php) |
+| ^^                     | [Comic Book Treasury](https://www.comicbooktreasury.com/) |
+| ^^                     | [Comic Shop Locator](https://www.comicshoplocator.com/) |
+| ^^                     | [Grand Comics Database](https://www.comics.org/) |
+| **Guide / Reading Order** | [Comic Book Herald](https://www.comicbookherald.com/) |
+| ^^                     | [Comic Book Reading Orders](https://comicbookreadingorders.com/) |
+| ^^                     | [Complete Marvel Reading Order](https://cmro.travis-starnes.com/) |
+| ^^                     | [How To Love Comics](https://www.howtolovecomics.com/) |
+| ^^                     | [Marvel Guides](https://marvelguides.com/) |
+| ^^                     | [Official Marvel Guides](https://www.marvel.com/comics/guides) |
+| **Portal**               | [Comic Watch](https://comic-watch.com/) |
+| ^^                     | [The Beat](https://www.comicsbeat.com/) |
+| ^^                     | [The Comics Journal](https://www.tcj.com/) |
+| **Tracker**            | [Comic Vine](https://comicvine.gamespot.com/) |
+| ^^                     | [League of Comic Geeks](https://leagueofcomicgeeks.com/) |
+| **Tools**              | [Kapowarr](https://casvt.github.io/Kapowarr/) [:gh:](https://github.com/Casvt/Kapowarr) |
+| ^^                     | [Mylar3](https://github.com/mylar3/mylar3) |
 
 
 #### Private Trackers
@@ -480,26 +473,26 @@ Trackers have been moved to their [**own page**](/torrenting/trackers)!
 
 ## Manga
 
-- **Manga**
-  - [Azuki](https://www.azuki.co/)
-  - [Comikey](https://comikey.com/)
-  - [INKR](https://comics.inkr.com/)
-  - [KManga](https://kmanga.kodansha.com/)<tooltip>Available in the United States, the Philippines, Thailand, Vietnam, Hong Kong, Taiwan, India, Mexico, and Brazil.</tooltip>
-  - [Manga Plus](https://mangaplus.shueisha.co.jp/)
-  - [Manga UP!](https://global.manga-up.com/)
-  - [Mangamo](https://www.mangamo.com/)
-  - [Renta](https://www.ebookrenta.com/)
-  - [Shonen Jump](https://www.viz.com/sj-offer)<tooltip>Available in the United States, Canada, the United Kingdom, Ireland, New Zealand, Australia, South Africa, the Philippines, Singapore, and India.</tooltip>
-  - [VIZ Manga](https://www.viz.com/vm-offer)<tooltip>Available in the United States, the United Kingdom, Canada, Australia, New Zealand and Ireland.</tooltip>
-  - [YURI HUB](https://www.yurihub.com/)  
-- **Manhwa & Manhua**
-  - [Lezhin](https://www.lezhinus.com/en)
-  - [Manta](https://manta.net/en)
-  - [Pocket Comics](https://www.pocketcomics.com/)
-  - [Tapas](https://tapas.io/)
-  - [Tappytoon](https://www.tappytoon.com/en/comics/home)
-  - [WebComics](https://webcomicsapp.com/)
-  - [Webtoon](https://www.webtoons.com/en/)
+| Category | Websites |  
+|----------|----------|  
+| **Manga** | [Azuki](https://www.azuki.co/) |  
+| ^^ | [Comikey](https://comikey.com/) |  
+| ^^ | [INKR](https://comics.inkr.com/) |  
+| ^^ | [KManga](https://kmanga.kodansha.com/) <tooltip>Available in the United States, the Philippines, Thailand, Vietnam, Hong Kong, Taiwan, India, Mexico, and Brazil.</tooltip> |  
+| ^^ | [Manga Plus](https://mangaplus.shueisha.co.jp/) |  
+| ^^ | [Manga UP!](https://global.manga-up.com/) |  
+| ^^ | [Mangamo](https://www.mangamo.com/) |  
+| ^^ | [Renta](https://www.ebookrenta.com/) |  
+| ^^ | [Shonen Jump](https://www.viz.com/sj-offer) <tooltip>Available in the United States, Canada, the United Kingdom, Ireland, New Zealand, Australia, South Africa, the Philippines, Singapore, and India.</tooltip> |  
+| ^^ | [VIZ Manga](https://www.viz.com/vm-offer) <tooltip>Available in the United States, the United Kingdom, Canada, Australia, New Zealand, and Ireland.</tooltip> |  
+| ^^ | [YURI HUB](https://www.yurihub.com/) |  
+| **Manhwa & Manhua** | [Lezhin](https://www.lezhinus.com/en) |  
+| ^^ | [Manta](https://manta.net/en) |  
+| ^^ | [Pocket Comics](https://www.pocketcomics.com/) |  
+| ^^ | [Tapas](https://tapas.io/) |  
+| ^^ | [Tappytoon](https://www.tappytoon.com/en/comics/home) |  
+| ^^ | [WebComics](https://webcomicsapp.com/) |  
+| ^^ | [Webtoon](https://www.webtoons.com/en/) |  
 
 ::: info More sites
 You can go through [**digital comic info**](/guides/manga/comicinfo) to get more sites including sites for volume releases.
