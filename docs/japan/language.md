@@ -163,6 +163,7 @@ ___
 - [Kanji Tools](https://kanji.sljfaq.org/)
 - [Kanji Worksheets](https://jensechu.github.io/kanji/index.html) <tooltip>Printable Kanji worksheet</tooltip>
 - [Massif](https://massif.la/ja) <tooltip>Search through Book / WN / Web</tooltip>
+- [Niai](https://niai.mrahhal.net/similar) <tooltip>Similar kanji, homonyms & synonyms finder</tooltip>
 - [OJAD AI Reader](https://www.gavo.t.u-tokyo.ac.jp/ojad/phrasing/index) <tooltip>Generate pitch accent</tooltip>
 - [RTK Search](https://hochanh.github.io/rtk/)
 - [Tatoeba](https://tatoeba.org/en/) <tooltip>Crowd-sourced sentence</tooltip>
