@@ -356,7 +356,7 @@ const tooltips: {
   ni3x: { content: 'Focuses on Torrents and Ero anime' },
   secozzi: { content: 'For Jellyfin and Stremio' },
   kei: { content: 'Maintained by active Tachiyomi contributors' },
-  komikku: { content: 'Mirrors Keiyoushi repo with a few extra extensions' },
+  komikku: { content: 'By Komikku dev. Mirrors Keiyoushi repo with a few extra extensions' },
   demo: { content: 'Demo tooltips for start page' },
   mirai: { content: 'Syncs the Mangayomi repository and includes their own plugins' },
   megarepo: { content: 'Adds all the repo present in /recloudstream/cs-repos' },
