@@ -25,7 +25,6 @@ ___
 #### Guide
 - [Anki Manual](https://docs.ankiweb.net/)
 - [Kuri's Setup Guide](https://donkuri.github.io/learn-japanese/setup/#anki-setup) :s:
-- [Tatsumoto](https://tatsumoto.neocities.org/blog/setting-up-anki)
 - [jp-mining-note](https://arbyste.github.io/jp-mining-note/) <Badge type="tip" text="original" link="https://aquafina-water-bottle.github.io/jp-mining-note/"/>
 - [Xelieu's Modified Anime Card](https://xelieu.github.io/jp-lazy-guide/)
 - [vladsperspective](https://vladsperspective.wordpress.com/2020/07/15/using-anime-decks-subs2srs-mediafire-premade-decks/)
