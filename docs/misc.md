@@ -228,8 +228,6 @@ ___
 | ^^         | [Trace](https://trace.moe/) [:gh:](https://github.com/soruly/trace.moe) |
 | ^^         | [SauceKudasai](https://saucekudasai.com/) [:gh:](https://github.com/ayushgptaa/SauceKudasai) |
 | ^^         | [Multi-service image search](https://iqdb.org/) |
-| **Upscaling** | [Waif2x](https://unlimited.waifu2x.net/) [:gh:](https://github.com/nagadomi/waifu2x) <Badge type="tip" text="Cloud Ver" link="https://waifu2x.udp.jp/" /> |
-| ^^         | [WaifuXL](https://waifuxl.com/) [:gh:](https://github.com/TheFutureGadgetsLab/WaifuXL) |
 | **Others** | [Imgtrans](https://touhou.ai/imgtrans/) [:gh:](https://github.com/zyddnys/manga-image-translator) |
 | ^^        | [Slowpoke Pics](https://slow.pics/) |
 
