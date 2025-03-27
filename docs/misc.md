@@ -71,20 +71,22 @@ outline: [1,2]
 
 ### Schedule
 
-- [Anica](https://anica.jp/)
-- [AniChart](https://anichart.net/airing) :s:
-- [Anime Countdown](https://animecountdown.com/)
-- [Anime Dubs Release Calendar](https://teamup.com/ksdhpfjcouprnauwda)
-- [AnimeSchedule](https://animeschedule.net/) [:rss:](https://animeschedule.net/rss) [:rss:](https://github.com/RockinChaos/AniSchedule)
-- [Anisaki](https://anisaki.vercel.app/) [:gh:](https://github.com/BayuDC/anisaki)
-- [Bangumi List](https://bgmlist.com/) :fjp::fcn: [:gh:](https://github.com/wxt2005/bangumi-list-v3) ==BangumiList==
-- [Kansou](https://www.kansou.me/) :fjp:
-- [Livechart](https://www.livechart.me/schedule) :s: [:rss:](https://www.livechart.me/pages/rss)
-- [Notify.moe](https://notify.moe/calendar) [:gt:](https://git.akyoto.dev/web/notify.moe)
-- [Senpai.moe](https://www.senpai.moe/)
-- [Syoboi Calendar](https://cal.syoboi.jp/) :fjp: [:rss:](https://docs.cal.syoboi.jp/spec/rss.php/)
-- [Moon Phase](https://m-p.sakura.ne.jp/) :fjp:
-- [Yatta-Tachi](https://yattatachi.com/)
+| Category | Websites |  
+|----------|----------|  
+| **Weekly** | [AniChart](https://anichart.net/airing) :s: | 
+| ^^ | [Livechart](https://www.livechart.me/schedule) :s: [:rss:](https://www.livechart.me/pages/rss) |   
+| ^^ | [AnimeSchedule](https://animeschedule.net/) [:rss:](https://animeschedule.net/rss) [:rss:](https://github.com/RockinChaos/AniSchedule) |  
+| ^^ | [Anime Countdown](https://animecountdown.com/) |  
+| ^^ | [Anisaki](https://anisaki.vercel.app/) [:gh:](https://github.com/BayuDC/anisaki) |  
+| ^^ | [Notify.moe](https://notify.moe/calendar) [:gt:](https://git.akyoto.dev/web/notify.moe) |  
+| ^^ | [Senpai.moe](https://www.senpai.moe/) |  
+| **Monthly** | [Anica](https://anica.jp/) |  
+| ^^ | [Anime Dubs Release Calendar](https://teamup.com/ksdhpfjcouprnauwda) |  
+| **Others** | [Bangumi List](https://bgmlist.com/) :fjp::fcn: [:gh:](https://github.com/wxt2005/bangumi-list-v3) ==BangumiList== |  
+| ^^ | [Kansou](https://www.kansou.me/) :fjp: |  
+| ^^ | [Moon Phase](https://m-p.sakura.ne.jp/) :fjp: |  
+| ^^ | [Syoboi Calendar](https://cal.syoboi.jp/) :fjp: [:rss:](https://docs.cal.syoboi.jp/spec/rss.php/) |  
+| ^^ | [Yatta-Tachi](https://yattatachi.com/) |
 
 ### Stats & Watch guide
 
@@ -145,59 +147,58 @@ ___
 
 ## General
 
-- **Info / News**
-  - [Anime News Network](https://www.animenewsnetwork.com/) :s: [:x:](https://x.com/anime) [:rss:](https://www.animenewsnetwork.com/newsfeed/)
-  - [Anime UK News](https://animeuknews.net/) :flag-united-kingdom:
-  - [Crunchyroll News](https://www.crunchyroll.com/news) [:rss:](https://www.crunchyroll.com/feed)
-  - [GUNDAM.INFO](https://en.gundam.info/)
-  - [Kanzenshuu](https://www.kanzenshuu.com/) [:rss:](https://www.kanzenshuu.com/feed/)
-  - [MAL News](https://myanimelist.net/news) [:x:](https://x.com/myanimelist) [:rss:](https://myanimelist.net/rss/news.xml)
-  - [ORICON NEWS](https://www.oricon.co.jp/) :fjp:
-    - [Japan Anime News](https://us.oricon-group.com/) [:x:](https://x.com/JapanAnimeNews_)
-  - [Otaku News](https://www.otakunews.com/) :flag-united-kingdom: [:rss:](https://www.otakunews.com/Rss)
-- **Blog / Interview**
-  - [Anime Blog Tracker](https://aniblogtracker.com/) :s: <Badge text="Aggregator" /> 
-  - [Anime Nano](https://www.animenano.com/) <Badge text="Aggregator" />
-  - [Halcyon Realms](https://halcyonrealms.com/) [:rss:](https://halcyonrealms.com/subscribe/)
-  - [Zimmerit](https://www.zimmerit.moe/)
+| Category | Websites |  
+|----------|----------|  
+| **Info / News** | [Anime News Network](https://www.animenewsnetwork.com/) :s: [:x:](https://x.com/anime) [:rss:](https://www.animenewsnetwork.com/newsfeed/) |  
+| ^^ | [Anime UK News](https://animeuknews.net/) :flag-united-kingdom: |  
+| ^^ | [Crunchyroll News](https://www.crunchyroll.com/news) [:rss:](https://www.crunchyroll.com/feed) |  
+| ^^ | [GUNDAM.INFO](https://en.gundam.info/) |  
+| ^^ | [Kanzenshuu](https://www.kanzenshuu.com/) [:rss:](https://www.kanzenshuu.com/feed/) |  
+| ^^ | [MAL News](https://myanimelist.net/news) [:x:](https://x.com/myanimelist) [:rss:](https://myanimelist.net/rss/news.xml) |  
+| ^^ | [ORICON NEWS](https://www.oricon.co.jp/) :fjp: |  
+| ^^ | [Japan Anime News](https://us.oricon-group.com/) [:x:](https://x.com/JapanAnimeNews_) |  
+| ^^ | [Otaku News](https://www.otakunews.com/) :flag-united-kingdom: [:rss:](https://www.otakunews.com/Rss) |  
+| **Blog / Interview** | [Anime Blog Tracker](https://aniblogtracker.com/) :s: <Badge text="Aggregator" /> |  
+| ^^ | [Anime Nano](https://www.animenano.com/) <Badge text="Aggregator" /> |  
+| ^^ | [Halcyon Realms](https://halcyonrealms.com/) [:rss:](https://halcyonrealms.com/subscribe/) |  
+| ^^ | [Zimmerit](https://www.zimmerit.moe/) |  
 
 ## Anime
 
-- **Info / News**
-  - [Anime Corner](https://animecorner.me/) :s: [:x:](https://x.com/animecorner_ac)
-  - [Anime Freaks](https://times.abema.tv/anime) :fjp:
-  - [Anime News by AIR](https://x.com/AIR_News01) :x:
-  - [Animenomics](https://news.animenomics.com/) :fm:
-  - [Anitrendz](https://anitrendz.net/news/) [:x:](https://x.com/anitrendz)
-  - [AnimeTV](https://animetv-jp.net/) [:x:](https://x.com/animetv_jp)
-  - [Eiga](https://anime.eiga.com/) :fjp:
-  - [English Dubbed Anime Lovers](https://english-dubbed.com/)
-- **Blog / Interview**
-  - [Animation Obsessive](https://animationobsessive.substack.com/) :fm: [:x:](https://x.com/ani_obsessive)
-  - [Anime Herald](https://www.animeherald.com/)
-  - [Animétudes](https://animetudes.com/) :s:
-  - [artist_unknown](https://artistunknown.info/)
-  - [Full Frontal](https://fullfrontal.moe/) :s:
-  - [Furaba Anime search](https://furaba-animeseichi.blog.jp/)
-  - [Let's Anime](https://letsanime.blogspot.com/)
-  - [Sakuga Blog](https://blog.sakugabooru.com/) :s: [:x:](https://x.com/SakugaBlog) [:rss:](https://blog.sakugabooru.com/feed/)
+| Category | Websites |  
+|----------|----------|  
+| **Info / News** | [Anime Corner](https://animecorner.me/) :s: [:x:](https://x.com/animecorner_ac) |  
+| ^^ | [Anime Freaks](https://times.abema.tv/anime) :fjp: |  
+| ^^ | [Anime News by AIR](https://x.com/AIR_News01) :x: |  
+| ^^ | [Animenomics](https://news.animenomics.com/) :fm: |  
+| ^^ | [Anitrendz](https://anitrendz.net/news/) [:x:](https://x.com/anitrendz) |  
+| ^^ | [AnimeTV](https://animetv-jp.net/) [:x:](https://x.com/animetv_jp) |  
+| ^^ | [Eiga](https://anime.eiga.com/) :fjp: |  
+| ^^ | [English Dubbed Anime Lovers](https://english-dubbed.com/) |  
+| **Blog / Interview** | [Animation Obsessive](https://animationobsessive.substack.com/) :fm: [:x:](https://x.com/ani_obsessive) |  
+| ^^ | [Anime Herald](https://www.animeherald.com/) |  
+| ^^ | [Animétudes](https://animetudes.com/) :s: |  
+| ^^ | [artist_unknown](https://artistunknown.info/) |  
+| ^^ | [Full Frontal](https://fullfrontal.moe/) :s: |  
+| ^^ | [Furaba Anime search](https://furaba-animeseichi.blog.jp/) |  
+| ^^ | [Let's Anime](https://letsanime.blogspot.com/) |  
+| ^^ | [Sakuga Blog](https://blog.sakugabooru.com/) :s: [:x:](https://x.com/SakugaBlog) [:rss:](https://blog.sakugabooru.com/feed/) |  
 
 
 ## Manga & LN
 
-- **Info / News**
-  - [Deb Aoki](https://x.com/debaoki) :x:
-  - [Josu Ke](https://x.com/Josu_ke) :s::x: [:web:](https://www.mangacodex.com/) ==JosuKe==
-  - [Manga Alerts](https://x.com/MangaAlerts) :x:
-  - [Manga Mogura](https://x.com/MangaMoguraRE) <Badge type="tip" text="2" link="https://x.com/MangaReporter" /> :x:
-    - [Ecchi & Smut Mogura](https://x.com/EcchiMogura) :x:
-  - [Shonen Jump News](https://x.com/WSJ_manga) :s::x:
-- **Blog / Interview**
-  - [BehindTheManga](https://www.behindthemanga.com/)
-  - [Manga Bookshelf](https://mangabookshelf.com/)
-  - [Mangasplaining](https://www.mangasplaining.com/) [:x:](https://x.com/mangasplaining)
-  - [TheOASG](https://www.theoasg.com/) [:x:](https://x.com/TheOASG)
-
+| Category | Websites |  
+|----------|----------|  
+| **Info / News** | [Deb Aoki](https://x.com/debaoki) :x: |  
+| ^^ | [Josu Ke](https://x.com/Josu_ke) :s::x: [:web:](https://www.mangacodex.com/) ==JosuKe== |  
+| ^^ | [Manga Alerts](https://x.com/MangaAlerts) :x: |  
+| ^^ | [Manga Mogura](https://x.com/MangaMoguraRE) <Badge type="tip" text="2" link="https://x.com/MangaReporter" /> :x: |  
+| ^^ | [Ecchi & Smut Mogura](https://x.com/EcchiMogura) :x: |  
+| ^^ | [Shonen Jump News](https://x.com/WSJ_manga) :s::x: |  
+| **Blog / Interview** | [BehindTheManga](https://www.behindthemanga.com/) |  
+| ^^ | [Manga Bookshelf](https://mangabookshelf.com/) |  
+| ^^ | [Mangasplaining](https://www.mangasplaining.com/) [:x:](https://x.com/mangasplaining) |  
+| ^^ | [TheOASG](https://www.theoasg.com/) [:x:](https://x.com/TheOASG) |  
 
 
 ![](/banner/utility.webp)
@@ -206,18 +207,18 @@ ___
 <br>
 
 ## Anime & Manga
-| Category  | Websites |
-|-----------|----------|
-| **General** | [3x3 Generator](https://gqgs.github.io/3x3-generator/) :mal::al::k: [:gh:](https://github.com/gqgs/3x3-generator/) |
-| ^^        | [Anime Bingo](https://anime-bingo.aikats.us/) :al: [:gh:](https://github.com/walfie/anime-bingo) |
-| ^^        | [due.moe](https://due.moe/) :al: |
-| ^^        | [Related Anime](https://relatedanime.com/) :mal: |
-| **Anime** | [Manga Adaptations](https://anilist-adaptations.timschneeberger.me/) :al: [:gh:](https://github.com/timschneeb/manga-adaptations-anilist) |
-| ^^        | [Randime](https://randime.moe/) |
-| ^^        | [Spin.moe](https://spin.moe/) :mal::al::k: |
-| **Manga** | [Ermitteln](https://ermitteln.ihateani.me/) :simple-icons-amazon: [:gh:](https://github.com/noaione/cmx-ermitteln) |
-| ^^        | [Mitsukeru](https://mitsukeru.timschneeberger.me/) :al: [:gh:](https://github.com/timschneeb/Mitsukeru) |
-| ^^        | [Tachibk Viewer](https://backup.mihon.tools/) [:gh:](https://github.com/Animeboynz/Mihon-Backup-Viewer) |
+| Category  | Websites | Tracker |  
+|-----------|----------|---------|  
+| **General** | [3x3 Generator](https://gqgs.github.io/3x3-generator/) [:gh:](https://github.com/gqgs/3x3-generator/) | :mal::al::k: |  
+| ^^        | [Anime Bingo](https://anime-bingo.aikats.us/) [:gh:](https://github.com/walfie/anime-bingo) | :al: |  
+| ^^        | [due.moe](https://due.moe/) | :al: |  
+| ^^        | [Related Anime](https://relatedanime.com/) | :mal: |  
+| **Anime** | [Manga Adaptations](https://anilist-adaptations.timschneeberger.me/) [:gh:](https://github.com/timschneeb/manga-adaptations-anilist) | :al: |  
+| ^^        | [Randime](https://randime.moe/) | :no: |  
+| ^^        | [Spin.moe](https://spin.moe/) | :mal::al::k: |  
+| **Manga** | [Ermitteln](https://ermitteln.ihateani.me/) [:gh:](https://github.com/noaione/cmx-ermitteln) | :no: |  
+| ^^        | [Mitsukeru](https://mitsukeru.timschneeberger.me/) [:gh:](https://github.com/timschneeb/Mitsukeru) | :al: |  
+| ^^        | [Tachibk Viewer](https://backup.mihon.tools/) [:gh:](https://github.com/Animeboynz/Mihon-Backup-Viewer) | :no: |  
 
 
 ## Image
@@ -236,18 +237,17 @@ ___
 
 ## Tracker
  
-| Category  | Websites |
-|-----------|----------|
-| **Stats** | [Sekai](https://sekai.rl404.com/) :s::mal: [:gh:](https://github.com/rl404/sekai) |
-| ^^        | [Anistats](https://mayudev.github.io/anistats/) :al: [:gh:](https://github.com/mayudev/anistats) |
-| ^^        | [Anime Taste Tool](https://www.anipop.uk/) :al: [:gh:](https://github.com/kay-mw/popularity-tool-for-anilist) |
-| ^^        | [anime.plus](https://anime.plus/) :mal: [:gh:](https://github.com/anime-plus/graph) |
-| ^^        | [KitsuStats](https://drumber.github.io/KitsuStats/#/) :k: [:gh:](https://github.com/Drumber/KitsuStats) |
-| ^^        | [MAL Badges](https://www.mal-badges.com/) :mal: |
-| **Tools** | [AniTools](https://anitools.koopz.rocks/) :al: |
-| ^^        | [aniTrakt](https://anitrakt.huere.net/) :mal: [:gh:](https://github.com/ryuuganime/aniTrakt-IndexParser) |
-| ^^        | [MAL Exporter](https://malscraper.azurewebsites.net/) :mal::al::k: |
-
+| Category  | Websites | Tracker |  
+|-----------|----------|---------|  
+| **Stats** | [Sekai](https://sekai.rl404.com/) [:gh:](https://github.com/rl404/sekai) :s: | :mal: |  
+| ^^        | [Anistats](https://mayudev.github.io/anistats/) [:gh:](https://github.com/mayudev/anistats) | :al: |  
+| ^^        | [Anime Taste Tool](https://www.anipop.uk/) [:gh:](https://github.com/kay-mw/popularity-tool-for-anilist) | :al: |  
+| ^^        | [anime.plus](https://anime.plus/) [:gh:](https://github.com/anime-plus/graph) | :mal: |  
+| ^^        | [KitsuStats](https://drumber.github.io/KitsuStats/#/) [:gh:](https://github.com/Drumber/KitsuStats) | :k: |  
+| ^^        | [MAL Badges](https://www.mal-badges.com/) | :mal: |  
+| **Tools** | [AniTools](https://anitools.koopz.rocks/) | :al: |  
+| ^^        | [aniTrakt](https://anitrakt.huere.net/) [:gh:](https://github.com/ryuuganime/aniTrakt-IndexParser) | :mal: |  
+| ^^        | [MAL Exporter](https://malscraper.azurewebsites.net/) | :mal::al::k: |  
 
 
 ![](/banner/vt2.webp)
@@ -279,9 +279,9 @@ ___
 | Schedule   | [VTuber Schedule](https://vtuberschedules.com/) |
 | ^^         | [Hololyzer](https://www.hololyzer.net/) |
 | ^^         | [vTubie](https://vtubie.com/) |
-| Others     | [VTuber Highlights](https://vtuber.atodeyo.com/) :fjp: <Badge type="info" text="News" /> |
-| ^^         | [VTuber Newsdrop](https://vtubernewsdrop.com/) <Badge type="info" text="News" /> |
-| ^^         | [Reincar](https://reincar.net/) <Badge type="info" text="News" /> |
+| News       | [VTuber Highlights](https://vtuber.atodeyo.com/) :fjp: |
+| ^^         | [VTuber Newsdrop](https://vtubernewsdrop.com/) |
+| ^^         | [Reincar](https://reincar.net/) |
 
 ## Hololive
 
@@ -325,7 +325,7 @@ ___
 - [HoloSchedule](https://github.com/YunzheZJU/holo-schedule) [:cr:](https://chromewebstore.google.com/detail/holoschedule/fjicegllhddldnnkgfefblholeegpcad) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/holo-schedule/)
 - [HyperChat](https://livetl.app/hyperchat) [:cr:](https://chromewebstore.google.com/detail/hyperchat-improved-youtub/naipgebhooiiccifflecbffmnjbabdbh) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/hyperchat/)
 - [TTV LOL PRO](https://github.com/younesaassila/ttv-lol-pro) [:cr:](https://chrome.google.com/webstore/detail/ttv-lol-pro/bpaoeijjlplfjbagceilcgbkcdjbomjd) [:ff:](https://addons.mozilla.org/addon/ttv-lol-pro/)
-  -  More [Twitch Ad Solutions](https://github.com/pixeltris/TwitchAdSolutions/blob/master/full-list.md)
+  -  :more: [Twitch Ad Solutions](https://github.com/pixeltris/TwitchAdSolutions/blob/master/full-list.md)
 - [ytcFilter](https://github.com/LiveTL/ytcfilter) [:cr:](https://chromewebstore.google.com/detail/ytcfilter/mnldnbhgfocmkehnlkeanlhfmopepnko) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/ytcfilter/)
 
 
