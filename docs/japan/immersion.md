@@ -51,9 +51,10 @@ og:
 
 ### Movies & Drama
 - [Viki](https://www.viki.com/categories/country/japan/genre/all) :fm: <Badge type="info" text="JP Sub" />
-- [ViewAsian](https://www.viewasian.org/)
+- [kisskh](https://kisskh.co/) <Badge type="info" text="720p" />
 - [Asiaflix](https://asiaflix.net/home)
-- [SFlix](https://sflix2.to/home)
+- [ViewAsian](https://www.viewasian.org/)
+- [SFlix](https://sflix2.to/home) <Badge type="info" text="JP" link="https://sflix2.to/filter?type=all&quality=all&release_year=all&genre=all&country=173" />
 - [Tokuzilla](https://tokuzilla.net/) <Badge type="info" text="2" link="https://tokuzl.net/" />
 - [Toku555](https://toku555.com/)
 - [JP-Films](https://jp-films.com/)
