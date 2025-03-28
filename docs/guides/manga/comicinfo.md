@@ -99,25 +99,27 @@ Original: ~~Blurry downscales for anything that would be above that on other pla
 
 :::
 
-### Manhwa
+### Long-strip
+These websites focus on Manhwa, Manhua and OEL.
 
 | Platform                                         | Resolution { class="compact" } |  SFW |
 |--------------------------------------------------|----------------------------------|----- |
-| [Lezhin](https://www.lezhinus.com/en)            | 1280x <sup>1</sup>              | :no: |
+| [Day Comics](https://daycomics.com/) <sup>1</sup> | 720x                       | :no: |
+| [INKR](https://comics.inkr.com/)                  | Varies<sup>2</sup> |  :no: |
+| [Lezhin](https://www.lezhinus.com/en)            | 1280x <sup>3</sup>              | :no: |
 | [Line Webtoon](https://www.webtoons.com/en/)     | 720-800x                        | :yes:|
-| [Manta](https://manta.net/en) <sup>2</sup>                   | 720x                            | :yes: |
-| [Tapas](https://tapas.io/)   <sup>2</sup>                    | 940x                            | :yes: |
-| [Tappytoon](https://www.tappytoon.com/en/comics/home)<sup>2</sup> | 720x                       | :yes: |
-| [Day Comics](https://daycomics.com/) <sup>3</sup> | 720x                       | :no:|
-| [Toomics](https://toomics.com/en/) <sup>4</sup> | 720x                       | :no:|
-| [INKR](https://comics.inkr.com/)                  | Varies<sup>5</sup> |  :no: |
-
-
+| [MangaToon](https://mangatoon.mobi/en) | Varies<sup>4</sup> | :no: |
+| [Manta](https://manta.net/en) <sup>5</sup>       | 720x                            | :yes: |
+| [Tapas](https://tapas.io/)   <sup>5</sup>        | 940x                            | :yes: |
+| [Tappytoon](https://www.tappytoon.com/en/comics/home)<sup>5</sup> | 720x                       | :yes: |
+| [Toomics](https://toomics.com/en/) <sup>6</sup> | 720x                       | :no: |
+| [WebNovel](https://www.webnovel.com/) | 800x | :no: |
 
 ::: tip Notes {open}
-1. By default, Lezhin is 1080x. But 1280x is available, if you know how.
-2. Manta, Tapas and Tappytoon have some mature (non-porn) titles.
-3. Merged with Toptoon Plus so they primarily have pornhwa now, but they do also have SFW titles.
-4. Does have SFW titles, even if they're primarily known for their NSFW titles.
-5. Inkr does have their own licenses, for manhwa it's typically 1080x but they do plenty of cross-licensing here as well. Their own licenses are often SFW but they have plenty of NSFW content on the site both cross-licensed from others and licensed by themselves so they've been marked as NSFW.
+1. Merged with Toptoon Plus so they primarily have pornhwa now, but they do also have SFW titles.
+2. Inkr does have their own licenses, for manhwa it's typically 1080x but they do plenty of cross-licensing here as well. Their own licenses are often SFW but they have plenty of NSFW content on the site both cross-licensed from others and licensed by themselves so they've been marked as NSFW.
+3. By default, Lezhin is 1080x. But 1280x is available, if you know how.
+4. Most of the titles are 1000x. Some are 800x or 720x.
+5. Manta, Tapas and Tappytoon have some mature (non-porn) titles.
+6. Does have SFW titles, even if they're primarily known for their NSFW titles.
 :::
