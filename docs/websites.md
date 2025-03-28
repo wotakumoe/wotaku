@@ -186,7 +186,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [Novelmic](https://novelmic.com/) <Badge type="info" text="Manhua" />
 - [Mangahasu](https://mangahasu.se/)
 - [Mangahub](https://mangahub.io/) :acc:
-- [Manga Buddy](https://mangabuddy.com/home) <Badge type="info" text="2" link="https://mangamirror.com/home-page" /> <Badge type="info" text="3" link="https://mangaforest.com/home" />
+- [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy)
 - [Dynasty Reader](https://dynasty-scans.com/) 
 - [Like Manga](https://likemanga.in)
 - [Manga Here](https://www.mangahere.cc/) <Badge type="info" text="2" link="https://fanfox.net/" />
@@ -299,7 +299,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [Novel Updates](https://www.novelupdates.com/)
 - [Baka-tsuki](https://www.baka-tsuki.org/project/index.php?title=Main_Page)
 - [Novgo](https://novgo.co/)
-- [Light Novel Pub](https://www.lightnovelpub.com/) <Badge type="tip" text="2" link="https://www.lightnovelworld.com/" /> <Badge type="tip" text="3" link="https://www.webnovelpub.pro/home" />
+- [Light Novel Pub](https://www.lightnovelpub.com/) [:prx:](https://rentry.org/wotaxy#light-novel-pub)
 - [Novel Bin](https://novelbin.com/) <Badge type="tip" text="2" link="https://novelbin.me/" />
 - [Novel Buddy](https://novelbuddy.com/home)
 - [VyNovel](https://vynovel.com/)

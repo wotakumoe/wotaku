@@ -386,9 +386,9 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 #### Manga
 
-- [KL Manga](https://klz9.com/idx) <Badge type="tip" text="2" link="https://hachiraw.net/"/> <Badge type="tip" text="3" link="https://klto9.com/"/> <Badge type="tip" text="4" link="https://jestful.net/" />
+- [KL Manga](https://klz9.com/idx) [:prx:](https://rentry.org/wotaxy#kl-manga)
 - [MangaFire](https://mangafire.to/home)
-- [Manga Jikan](https://www.mangajikan.com/) <Badge type="tip" text="2" link="https://www.mangasuika.com/"/> <Badge type="tip" text="3" link="https://www.lmanga.com/"/> <Badge type="tip" text="4" link="https://www.firemanga.com/" /> <Badge type="tip" text="5" link="https://www.rawbig.com/" />
+- [Manga Jikan](https://www.mangajikan.com/) [:prx:](https://rentry.org/wotaxy#manga-jikan)
 - [Manga Mate](https://manga-mate.org/)
 - [MangaReader](https://mangareader.to/home)
 - [Pixiv Comics](https://comic.pixiv.net/)
