@@ -188,7 +188,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy)
 - [Dynasty Reader](https://dynasty-scans.com/) 
 - [Like Manga](https://likemanga.in)
-- [Manga Here](https://www.mangahere.cc/) <Badge type="info" text="2" link="https://fanfox.net/" />
+- [Manga Fox](https://mangafox.la/) [:prx:](https://rentry.org/wotaxy#manga-fox)
 - [MangaKakalot](https://www.mangakakalot.gg/) [:prx:](https://rentry.org/wotaxy#mangakakalot)
 
 :::
