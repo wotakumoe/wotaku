@@ -389,10 +389,12 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [KL Manga](https://klz9.com/idx) [:prx:](https://rentry.org/wotaxy#kl-manga)
 - [MangaFire](https://mangafire.to/home)
 - [Manga Jikan](https://www.mangajikan.com/) [:prx:](https://rentry.org/wotaxy#manga-jikan)
-- [Manga Mate](https://manga-mate.org/)
+- [Manga RAW](https://mangajp.top/) <Badge type="tip" text="2" link="https://mangaraw.org/" />
+- [Manga RAW (.best)](https://mangaraw.best/)
 - [MangaReader](https://mangareader.to/home)
 - [Pixiv Comics](https://comic.pixiv.net/)
-- [RawInu](https://rawinu.com/) <Badge type="tip" text="2" link="https://nicomanga.com/" />
+- [NicoManga](https://nicomanga.com/) [:prx:](https://rentry.org/wotaxy#nicomanga)
+- [RAW 1001](https://raw1001.net/home)
 - [Rawkuma](https://rawkuma.com/)
 - [Rawkuro](https://rawkuro.net/home)
 - [Raw Lazy](https://rawlazy.si/)
