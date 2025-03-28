@@ -201,18 +201,18 @@ You should never use cracked or modded VPN cause all of your traffic will go thr
 :::
 
 ### Boards
-- [:f: /a/ - Anime & Manga](https://boards.4channel.org/a/)
-- [:f: /c/ - Anime/Cute](https://boards.4channel.org/c/)
-- [:f: /cgl/ - Cosplay & EGL](https://boards.4channel.org/cgl/)
-- [:f: /co/ - Comics & Cartoons](https://boards.4channel.org/co/)
-- [:f: /e/ - Ecchi](https://boards.4channel.org/e/)
-- [:f: /h/ - Hentai](https://boards.4channel.org/h/)
-- [:f: /jp/ - Otaku Culture](https://boards.4channel.org/jp/)
-- [:f: /m/ - Mecha](https://boards.4channel.org/m/)
-- [:f: /u/ - Yuri](https://boards.4channel.org/u/)
-- [:f: /vp/ - Pokémon](https://boards.4channel.org/vp/)
-- [:f: /vt/ - Virtual YouTubers](https://boards.4channel.org/vt/)
-- [:f: /w/ - Anime/Wallpapers](https://boards.4channel.org/w/)
+- [/a/ - Anime & Manga](https://boards.4channel.org/a/)
+- [/c/ - Anime/Cute](https://boards.4channel.org/c/)
+- [/cgl/ - Cosplay & EGL](https://boards.4channel.org/cgl/)
+- [/co/ - Comics & Cartoons](https://boards.4channel.org/co/)
+- [/e/ - Ecchi](https://boards.4channel.org/e/)
+- [/h/ - Hentai](https://boards.4channel.org/h/)
+- [/jp/ - Otaku Culture](https://boards.4channel.org/jp/)
+- [/m/ - Mecha](https://boards.4channel.org/m/)
+- [/u/ - Yuri](https://boards.4channel.org/u/)
+- [/vp/ - Pokémon](https://boards.4channel.org/vp/)
+- [/vt/ - Virtual YouTubers](https://boards.4channel.org/vt/)
+- [/w/ - Anime/Wallpapers](https://boards.4channel.org/w/)
 
 ### Archives
 - [4chan archive search](https://4search.neocities.org/)
