@@ -366,6 +366,7 @@ const tooltips: {
   cubari: { content: 'Scrapes MangaDex, WeebCentral, MangaKatana & scanlators.' },
   mguru: { content: 'Another instance of Cubari maintained by different people. Not much maintained. Scrapes MangaDex and Manga Katana' },
   akari: { content: 'Scrapes MangaKakalot.' },
+  mhaven: { content: 'Scrapes MangaFire.' },
 }
 
 export function configureMarkdown(md: MarkdownRenderer) {

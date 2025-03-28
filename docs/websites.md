@@ -196,6 +196,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 ::: details Scrapers
 - [Cubari Proxy](https://proxy.cubari.moe/#/) ==cubari==
 - [Manga Guru](https://manga.guru/#/) ==mguru==
+- [MangaHaven](https://mangahaven.net/) ==mhaven==
 - [Akari](https://akari-psi.vercel.app/) [:gh:](https://github.com/sn0w12/akari) ==akari==
 :::
 
