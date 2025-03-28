@@ -85,23 +85,21 @@ og:
 
 ## Front-end / Utility
 
-### Booru
-- [Booru Masonry](https://booru.cocomi.eu.org/) :s: [:gh:](https://github.com/asadahimeka/booruwf-web) <Badge type="tip" text="2" link="https://booru.vercel.app/" />
-- [Danbooru Viewer](https://danbooru.defaultkavy.com/) [:gh:](https://github.com/defaultkavy-dev/danbooru-viewer)
-- [Moeview](https://moeview.app/) <Badge type="tip" text="2" link="https://moeview.pages.dev/" /> <Badge type="tip" text="3" link="https://moeview.cocomi.eu.org/" />
+| Category  | Websites |
+|-----------|----------|
+| **Booru** | [Booru Masonry](https://booru.cocomi.eu.org/) :s: [:gh:](https://github.com/asadahimeka/booruwf-web) <Badge type="tip" text="2" link="https://booru.vercel.app/" /> |
+| ^^        | [Danbooru Viewer](https://danbooru.defaultkavy.com/) [:gh:](https://github.com/defaultkavy-dev/danbooru-viewer) |
+| ^^        | [Moeview](https://moeview.app/) <Badge type="tip" text="2" link="https://moeview.pages.dev/" /> <Badge type="tip" text="3" link="https://moeview.cocomi.eu.org/" /> |
+| **Pixiv** | [Pixiv.cat](https://pixiv.cat/) [:gh:](https://github.com/pixiv-cat/pixivcat-backend) <Badge type="tip" text="2" link="https://pixiv.re/" /> |
+| ^^        | [PixivFE](https://pixivfe.drgns.space/) :s: [:cb:](https://codeberg.org/VnPower/PixivFE) |
+| ^^        | [Pixiv Now](https://pixiv.js.org/) [:gh:](https://github.com/FreeNowOrg/PixivNow) <Badge type="tip" text="2" link="https://now.pixiv.pics/#/" /> |
+| ^^        | [Pixiv Viewer](https://pixiv.pictures/) [:gh:](https://github.com/asadahimeka/pixiv-viewer) |
+| ^^        | [Pixiv Yearbook](https://pixiv.navirank.com/) |
+| ^^        | [Pxelk](https://pxelk.pixiv.pics/) [:gh:](https://github.com/ShugetsuSoft/pixivel-front) |
+| **Others** | [Piokok](https://www.piokok.com/) |
+| ^^        | [Priviblur](https://pb.bloat.cat/) [:gh:](https://github.com/syeopite/priviblur) |
+| ^^        | [X Cancelled](https://xcancel.com/) [:gh:](https://github.com/zedeus/nitter) |
 
-### Pixiv
-- [Pixiv.cat](https://pixiv.cat/) [:gh:](https://github.com/pixiv-cat/pixivcat-backend) <Badge type="tip" text="2" link="https://pixiv.re/" />
-- [PixivFE](https://pixivfe.drgns.space/) :s: [:cb:](https://codeberg.org/VnPower/PixivFE)
-- [Pixiv Now](https://pixiv.js.org/) [:gh:](https://github.com/FreeNowOrg/PixivNow) <Badge type="tip" text="2" link="https://now.pixiv.pics/#/" />
-- [Pixiv Viewer](https://pixiv.pictures/) [:gh:](https://github.com/asadahimeka/pixiv-viewer)
-- [Pixiv Yearbook](https://pixiv.navirank.com/)
-- [Pxelk](https://pxelk.pixiv.pics/) [:gh:](https://github.com/ShugetsuSoft/pixivel-front)
-
-### Others
-- [Piokok](https://www.piokok.com/)
-- [Priviblur](https://pb.bloat.cat/) [:gh:](https://github.com/syeopite/priviblur)
-- [X Cancelled](https://xcancel.com/) [:gh:](https://github.com/zedeus/nitter)
 
 ## Others
 - [Anihonetwallpaper](https://anihonetwallpaper.com/) <Badge type="green" text="SFW" />
@@ -124,23 +122,20 @@ og:
 
 ## Android
 
-### Booru
-- [Boorusama](https://github.com/khoadng/Boorusama) :s:
-- [Boorusphere](https://github.com/nullxception/boorusphere) ==Boorusphere==
-- [Mikansei](https://github.com/uragiristereo/Mikansei)
-- [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/)
-
-### Pixiv
-- [PixEz](https://github.com/Notsfsssf/pixez-flutter) :s:
-- [pixes](https://github.com/wgh136/pixes)
-- [PixShaft](https://github.com/CeuiLiSA/Pixiv-Shaft)
-- [Pixiv](https://play.google.com/store/apps/details?id=jp.pxv.android) :cs:
-- [PixiView](https://github.com/matsumo0922/PixiView-KMP) <Badge type="info" text="Fanbox" />
-
-### Others
-- [Wallflow](https://github.com/ammargitham/WallFlow)
-- [RWalls](https://github.com/meh430/RWalls)
-- [Pixiv for Muzei 3](https://github.com/yellowbluesky/PixivforMuzei3)
+| Category  | Websites |
+|-----------|----------|
+| **Booru** | [Boorusama](https://github.com/khoadng/Boorusama) :s: |
+| ^^        | [Boorusphere](https://github.com/nullxception/boorusphere) ==Boorusphere== |
+| ^^        | [Mikansei](https://github.com/uragiristereo/Mikansei) |
+| ^^        | [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) |
+| **Pixiv** | [PixEz](https://github.com/Notsfsssf/pixez-flutter) :s: |
+| ^^        | [pixes](https://github.com/wgh136/pixes) |
+| ^^        | [PixShaft](https://github.com/CeuiLiSA/Pixiv-Shaft) |
+| ^^        | [Pixiv](https://play.google.com/store/apps/details?id=jp.pxv.android) :cs: |
+| ^^        | [PixiView](https://github.com/matsumo0922/PixiView-KMP) <Badge type="info" text="Fanbox" /> |
+| **Others** | [Wallflow](https://github.com/ammargitham/WallFlow) |
+| ^^        | [RWalls](https://github.com/meh430/RWalls) |
+| ^^        | [Pixiv for Muzei 3](https://github.com/yellowbluesky/PixivforMuzei3) |
 
 ## iOS
 
@@ -171,6 +166,23 @@ og:
 - [Pixiv OAuth Flow (with Selenium) by upbit](https://gist.github.com/upbit/6edda27cb1644e94183291109b8a5fde)
 - [get pixivpy token](https://github.com/eggplants/get-pixivpy-token)
 
+| Category    | Software | Platform |
+|------------|------|----------|
+| **Clients** | [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) :s: | :win::app::lin: |
+| ^^         | [pixes](https://github.com/wgh136/pixes) | :win::app::lin: |
+| ^^         | [Pixeval](https://pixeval.github.io/) [:gh:](https://github.com/Pixeval/Pixeval) | :win: |
+| ^^         | [Pixiv Powerful Viewer](https://github.com/fekoneko/pixiv-powerful-viewer) | :win: |
+| **Downloaders** | [Cultured Downloader](https://github.com/KJHJason/Cultured-Downloader) | :win::app::lin: |
+| ^^         | [gallery-dl](https://github.com/mikf/gallery-dl) :s: | :win::lin: |
+| ^^         | [Hydrus network](https://hydrusnetwork.github.io/hydrus/) [:gh:](https://github.com/hydrusnetwork/hydrus) <Badge type="info" text="Scripts" link="https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts"/> | :win::app::lin: |
+| ^^         | [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) [:gh:](https://github.com/Bionus/imgbrd-grabber) | :win::app::lin: |
+| ^^         | [Media Downloader](https://github.com/mhogomchungu/media-downloader) | :win::app::lin: |
+| ^^         | [Pixiv FANBOX Downloader](https://github.com/hareku/fanbox-dl) | :win::app: |
+| ^^         | [PixivUtil2](https://github.com/Nandaka/PixivUtil2) | :win: |
+| **Others** | [Pixiv OAuth Flow `ZipFile`](https://gist.github.com/ZipFile/c9ebedb224406f4f11845ab700124362) :s: | :simple-icons-python: |
+| ^^         | [Pixiv OAuth Flow `upbit`](https://gist.github.com/upbit/6edda27cb1644e94183291109b8a5fde) | :simple-icons-python: |
+| ^^         | [get pixivpy token](https://github.com/eggplants/get-pixivpy-token) | :simple-icons-python: |
+
 
 ![](/banner/others.webp)
 
@@ -178,21 +190,18 @@ og:
 
 ## Extensions
 
-### Booru
-- [Booru Shinshi](https://github.com/kuanyui/BooruShinshi) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/booru-shinshi/)
-- [Sakuga Extended](https://github.com/ftLoic/Sakuga-Extended) [:cr:](https://chromewebstore.google.com/detail/khmnmdaghmhkcbooicndamlhkcmpklmc) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/sakuga-extended/)
-
-### Pixiv
-- [Pixiv Batch Downloader](https://github.com/xuejianxianzun/PixivBatchDownloader) [:web:](https://pixiv.download/) [:cr:](https://chrome.google.com/webstore/detail/powerful-pixiv-downloader/dkndmhgdcmjdmkdonmbgjpijejdcilfh)
-- [Pixiv Fanbox Downloader](https://github.com/xuejianxianzun/PixivFanboxDownloader) [:cr:](https://chromewebstore.google.com/detail/pixiv-fanbox-downloader/ihnfpdchjnmlehnoeffgcbakfmdjcckn)
-- [Pixiv Toolkit Next](https://github.com/leoding86/webextension-pixiv-toolkit) [:cr:](https://chromewebstore.google.com/detail/pixiv-toolkit-next/ajlcnbbeidbackfknkgknjefhmbngdnj) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/pixiv-toolkit/)
-
-### General
-- [Betterviewer](https://github.com/Ademking/Betterviewer)
-- [Control Panel for Twitter](https://jbscript.dev/control-panel-for-twitter)
-- [Journey Buster 3](https://journeybuster.com/)
-- [KellyC Image Downloader](https://github.com/NC22/KellyC-Image-Downloader) [:cr:](https://chrome.google.com/webstore/detail/kellyc-image-downloader/mbhkdmjolnhcppnkldbdfaomeabjiofm)
-- [Search by Image](https://github.com/dessant/search-by-image) :s:
+| Category    | Extension |
+|-------------|-------------|
+| **Booru**   | [Booru Shinshi](https://github.com/kuanyui/BooruShinshi) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/booru-shinshi/) |
+| ^^          | [Sakuga Extended](https://github.com/ftLoic/Sakuga-Extended) [:cr:](https://chromewebstore.google.com/detail/khmnmdaghmhkcbooicndamlhkcmpklmc) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/sakuga-extended/) |
+| **Pixiv**   | [Pixiv Batch Downloader](https://github.com/xuejianxianzun/PixivBatchDownloader) [:web:](https://pixiv.download/) [:cr:](https://chrome.google.com/webstore/detail/powerful-pixiv-downloader/dkndmhgdcmjdmkdonmbgjpijejdcilfh) |
+| ^^          | [Pixiv Fanbox Downloader](https://github.com/xuejianxianzun/PixivFanboxDownloader) [:cr:](https://chromewebstore.google.com/detail/pixiv-fanbox-downloader/ihnfpdchjnmlehnoeffgcbakfmdjcckn) |
+| ^^          | [Pixiv Toolkit Next](https://github.com/leoding86/webextension-pixiv-toolkit) [:cr:](https://chromewebstore.google.com/detail/pixiv-toolkit-next/ajlcnbbeidbackfknkgknjefhmbngdnj) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/pixiv-toolkit/) |
+| **General** | [Betterviewer](https://github.com/Ademking/Betterviewer) |
+| ^^          | [Control Panel for Twitter](https://jbscript.dev/control-panel-for-twitter) |
+| ^^          | [Journey Buster 3](https://journeybuster.com/) |
+| ^^          | [KellyC Image Downloader](https://github.com/NC22/KellyC-Image-Downloader) [:cr:](https://chrome.google.com/webstore/detail/kellyc-image-downloader/mbhkdmjolnhcppnkldbdfaomeabjiofm) |
+| ^^          | [Search by Image](https://github.com/dessant/search-by-image) :s: |
 
 ## Scripts
 

@@ -15,7 +15,7 @@ og:
 
 ## Downloader
 
-#### Android
+### Android
 
 | Name | DDL | P2P | FOSS | Free |
 |-|-|-|-|-|
@@ -28,7 +28,7 @@ og:
 | [Gopeed](https://gopeed.com/) [:gh:](https://github.com/GopeedLab/gopeed) | :yes: | :yes: | :yes: | :yes: |
 | [YTDLnis](https://ytdlnis.org/) [:gh:](https://github.com/deniscerri/ytdlnis) | :yes: | :yes: | :no: | :yes: |
 
-#### iOS
+### iOS
 
 | Name | DDL | P2P | FOSS |
 |-|-|-|-|
@@ -41,32 +41,33 @@ og:
 
 ### Video
 
-- **Local**
-  - [mpvKt](https://github.com/abdallahmehiz/mpvKt) :s::and: <Badge type="tip" text="Nightly" link="https://nightly.link/abdallahmehiz/mpvKt/workflows/nightlies/main" />
-  - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en&gl=US) :s::and::cs:
-  - [mpv-android](https://github.com/mpv-android/mpv-android)
-  - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) :and:
-  - [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) :app::cs:
-- **Online**
-  - [Revanced](https://revanced.app/) :mdi-youtube::and: [:gh:](https://github.com/ReVanced/revanced-manager)
-  - [Libretube](https://libretube.dev/) :mdi-youtube::and: [:gh:](https://github.com/libre-tube/LibreTube)
-  - [Grayjay](https://grayjay.app/) :mdi-youtube::mdi-twitch::and: [:gl:](https://gitlab.futo.org/videostreaming/grayjay)
-  - [uYou+](https://github.com/qnblackcat/uYouPlus) :mdi-youtube::app:
-  - [Twire](https://github.com/twireapp/Twire) :mdi-twitch::and:
+| Category  | Software |
+|-----------|----------|
+| **Local** | [mpvKt](https://github.com/abdallahmehiz/mpvKt) :s::and: <Badge type="tip" text="Nightly" link="https://nightly.link/abdallahmehiz/mpvKt/workflows/nightlies/main" /> |
+| ^^        | [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en&gl=US) :s::and::cs: |
+| ^^        | [mpv-android](https://github.com/mpv-android/mpv-android) |
+| ^^        | [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) :and: |
+| ^^        | [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) :app::cs: |
+| **Online** | [Revanced](https://revanced.app/) :mdi-youtube::and: [:gh:](https://github.com/ReVanced/revanced-manager) |
+| ^^        | [Libretube](https://libretube.dev/) :mdi-youtube::and: [:gh:](https://github.com/libre-tube/LibreTube) |
+| ^^        | [Grayjay](https://grayjay.app/) :mdi-youtube::mdi-twitch::and: [:gl:](https://gitlab.futo.org/videostreaming/grayjay) |
+| ^^        | [uYou+](https://github.com/qnblackcat/uYouPlus) :mdi-youtube::app: |
+| ^^        | [Twire](https://github.com/twireapp/Twire) :mdi-twitch::and: |
+
 
 
 ## General
 
-- **Store**
-  - [Aurora Store](https://auroraoss.com/) :and: [:gl:](https://gitlab.com/AuroraOSS/AuroraStore)
-  - [Neo Store](https://github.com/NeoApplications/Neo-Store) :and:
-  - [Droid-ify](https://github.com/Droid-ify/client) :and:
-  - [Sideloadly](https://sideloadly.io/) :app::cs:
-  - [SideStore](https://sidestore.io/) :app: [:gh:](https://github.com/SideStore/SideStore/)
-- **Misc**
-  - [APKUpdater](https://github.com/rumboalla/apkupdater) :and:
-  - [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) :and: [:gh:](https://github.com/spacecowboy/Feeder)
-  - [Obtainium](https://github.com/ImranR98/Obtainium) :and:
+| Category  | Websites |
+|-----------|----------|
+| **Store** | [Aurora Store](https://auroraoss.com/) :and: [:gl:](https://gitlab.com/AuroraOSS/AuroraStore) |
+| ^^        | [Neo Store](https://github.com/NeoApplications/Neo-Store) :and: |
+| ^^        | [Droid-ify](https://github.com/Droid-ify/client) :and: |
+| ^^        | [Sideloadly](https://sideloadly.io/) :app::cs: |
+| ^^        | [SideStore](https://sidestore.io/) :app: [:gh:](https://github.com/SideStore/SideStore/) |
+| **Misc**  | [APKUpdater](https://github.com/rumboalla/apkupdater) :and: |
+| ^^        | [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) :and: [:gh:](https://github.com/spacecowboy/Feeder) |
+| ^^        | [Obtainium](https://github.com/ImranR98/Obtainium) :and: |
 
 
 ![](/banner/pc.webp)
@@ -230,27 +231,25 @@ og:
 
 ## arr Tools
 
-- **Media Automation**
-  - [Radarr](https://radarr.video/) <Badge text="Movies" />
-  - [Sonarr](https://sonarr.tv/) <Badge text="TV Series" />
-- **Tools**
-  - [Overseerr](https://overseerr.dev/)
-  - [Prowlarr](https://prowlarr.com/)
-  - [Jackett](https://github.com/Jackett/Jackett)
-  - [autobrr](https://autobrr.com/)
-  - [Ombi](https://ombi.io/)
-  - [Maintainerr](https://github.com/jorenn92/Maintainerr)
-  - [Jellyseerr](https://docs.jellyseerr.dev/) [:gh:](https://github.com/Fallenbagel/jellyseerr)
-  - [Tdarr](https://home.tdarr.io/)
-  - [Bazarr](https://www.bazarr.media/)
-  - [Sonarr/Radarr/Lidarr autosearch](https://chromewebstore.google.com/detail/jmmjjcddjldjdjgckdiokhfokccdnekc)
-  - [Doplarr](https://github.com/kiranshila/Doplarr)
-  - [homarr](https://github.com/ajnart/homarr)
-  - [requestrr](https://github.com/thomst08/requestrr)
-- **Guides**
-  - [Servarr Wiki](https://wiki.servarr.com/)
-  - [TRaSH Guides](https://trash-guides.info/)
-
+| Category            | Software |
+|---------------------|----------|
+| **Media Automation** | [Radarr](https://radarr.video/) <Badge text="Movies" /> |
+| ^^                 | [Sonarr](https://sonarr.tv/) <Badge text="TV Series" /> |
+| **Tools**          | [Overseerr](https://overseerr.dev/) |
+| ^^                 | [Prowlarr](https://prowlarr.com/) |
+| ^^                 | [Jackett](https://github.com/Jackett/Jackett) |
+| ^^                 | [autobrr](https://autobrr.com/) |
+| ^^                 | [Ombi](https://ombi.io/) |
+| ^^                 | [Maintainerr](https://github.com/jorenn92/Maintainerr) |
+| ^^                 | [Jellyseerr](https://docs.jellyseerr.dev/) [:gh:](https://github.com/Fallenbagel/jellyseerr) |
+| ^^                 | [Tdarr](https://home.tdarr.io/) |
+| ^^                 | [Bazarr](https://www.bazarr.media/) |
+| ^^                 | [Sonarr/Radarr/Lidarr autosearch](https://chromewebstore.google.com/detail/jmmjjcddjldjdjgckdiokhfokccdnekc) |
+| ^^                 | [Doplarr](https://github.com/kiranshila/Doplarr) |
+| ^^                 | [homarr](https://github.com/ajnart/homarr) |
+| ^^                 | [requestrr](https://github.com/thomst08/requestrr) |
+| **Guides**         | [Servarr Wiki](https://wiki.servarr.com/) |
+| ^^                 | [TRaSH Guides](https://trash-guides.info/) |
 
 ## Usenet Tools
 
@@ -381,23 +380,21 @@ og:
 
 ## Others
 
-- **Games**
-  - [CS RIN RU Enhanced](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external)
-  - Game DL Links on <Badge type="tip" text="GOG" link="https://greasyfork.org/en/scripts/481134-gog-to-free-download-site" /> <Badge type="tip" text="Steam" link="https://greasyfork.org/en/scripts/481139-steam-to-free-download-site" />
-- **Music**
-  - [Ame](https://gitlab.com/SuperSaltyGamer/ame)
-  - [Discogs Scout](https://greasyfork.org/en/scripts/439452-discogs-scout) [:gh:](https://github.com/Purfview/Discogs-Scout)
-  - [MusicBrainz Userscripts](https://musicbrainz.org/doc/Guides/Userscripts)
-  - [Slav Art User Scripts](https://rentry.org/slavartuserscripts)
-- **YouTube**
-  - [Fix Brave Bug for YouTube Live Chat](https://greasyfork.org/en/scripts/474214-fix-brave-bug-for-youtube-live-chat)
-  - [PKGA YouTube Theater Mode](https://greasyfork.org/en/scripts/442089-pkga-youtube-theater-mode)
-  - [Simple YouTube Age Restriction Bypass](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass)
-  - [YouTube: Search results in Grid view](https://greasyfork.org/en/scripts/481422-youtube-search-results-in-grid-view)
-- **Misc**
-  - [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)
-  - [Fandom Fixed](https://github.com/squabbled/FandomFixed)
-  - [Pixeldrain Download Bypass](https://greasyfork.org/en/scripts/491326-pixeldrain-download-bypass)
+| Category  | Websites |
+|-----------|----------|
+| **Games** | [CS RIN RU Enhanced](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external) |
+| ^^        | Game DL Links on <Badge type="tip" text="GOG" link="https://greasyfork.org/en/scripts/481134-gog-to-free-download-site" /> <Badge type="tip" text="Steam" link="https://greasyfork.org/en/scripts/481139-steam-to-free-download-site" /> |
+| **Music** | [Ame](https://gitlab.com/SuperSaltyGamer/ame) |
+| ^^        | [Discogs Scout](https://greasyfork.org/en/scripts/439452-discogs-scout) [:gh:](https://github.com/Purfview/Discogs-Scout) |
+| ^^        | [MusicBrainz Userscripts](https://musicbrainz.org/doc/Guides/Userscripts) |
+| ^^        | [Slav Art User Scripts](https://rentry.org/slavartuserscripts) |
+| **YouTube** | [Fix Brave Bug for YouTube Live Chat](https://greasyfork.org/en/scripts/474214-fix-brave-bug-for-youtube-live-chat) |
+| ^^        | [PKGA YouTube Theater Mode](https://greasyfork.org/en/scripts/442089-pkga-youtube-theater-mode) |
+| ^^        | [Simple YouTube Age Restriction Bypass](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass) |
+| ^^        | [YouTube: Search results in Grid view](https://greasyfork.org/en/scripts/481422-youtube-search-results-in-grid-view) |
+| **Misc**  | [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/) |
+| ^^        | [Fandom Fixed](https://github.com/squabbled/FandomFixed) |
+| ^^        | [Pixeldrain Download Bypass](https://greasyfork.org/en/scripts/491326-pixeldrain-download-bypass) |
 
 :::warning Scripts may not function correctly or reliably all the time
 Active maintenance is necessary for scripts to work properly. If a script fails, try reinstalling it; otherwise, wait for a fix to be released. Install [**Violentmonkey**](https://violentmonkey.github.io/) or [**Tampermonkey**](https://www.tampermonkey.net/) to use scripts.
