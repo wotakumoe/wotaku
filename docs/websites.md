@@ -181,7 +181,6 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 
 
 ::: details More
-- [Cubari Proxy](https://proxy.cubari.moe/#/) <Badge type="info" text="Alt" link="https://manga.guru/#/" />
 - [Manga Katana](https://mangakatana.com/)
 - [Novelmic](https://novelmic.com/) <Badge type="info" text="Manhua" />
 - [Mangahasu](https://mangahasu.se/)
@@ -190,8 +189,14 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [Dynasty Reader](https://dynasty-scans.com/) 
 - [Like Manga](https://likemanga.in)
 - [Manga Here](https://www.mangahere.cc/) <Badge type="info" text="2" link="https://fanfox.net/" />
-- [MangaKakalot](https://www.mangakakalot.gg/) [:prx:](https://rentry.org/wotaxy#mangakakalot) <Badge type="info" text="Alt" link="https://akari-psi.vercel.app/" />
+- [MangaKakalot](https://www.mangakakalot.gg/) [:prx:](https://rentry.org/wotaxy#mangakakalot)
 
+:::
+
+::: details Scrapers
+- [Cubari Proxy](https://proxy.cubari.moe/#/) ==cubari==
+- [Manga Guru](https://manga.guru/#/) ==mguru==
+- [Akari](https://akari-psi.vercel.app/) [:gh:](https://github.com/sn0w12/akari) ==akari==
 :::
 
 ## Download

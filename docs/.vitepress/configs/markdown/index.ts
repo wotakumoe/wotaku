@@ -363,6 +363,9 @@ const tooltips: {
   megarepo: { content: 'Adds all the repo present in /recloudstream/cs-repos' },
   dab: { content: 'Downloads from the Qobuz streaming platform, which only supports FLAC, not the other formats mentioned in the About page.' },
   echo: { content: 'Use "extension" as code to load all the extensions.' },
+  cubari: { content: 'Scrapes MangaDex, WeebCentral, MangaKatana & scanlators.' },
+  mguru: { content: 'Another instance of Cubari maintained by different people. Not much maintained. Scrapes MangaDex and Manga Katana' },
+  akari: { content: 'Scrapes MangaKakalot.' },
 }
 
 export function configureMarkdown(md: MarkdownRenderer) {
