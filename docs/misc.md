@@ -256,8 +256,6 @@ ___
 | Category  | Websites |
 |-----------|----------|
 | Fan Projects | [Holodex](https://holodex.net/) [:gh:](https://github.com/HolodexNet/Holodex) |
-| ^^         | [Musicdex](https://music.holodex.net/) [:gh:](https://github.com/HolodexNet/Musicdex) |
-| ^^         | [ENreco Archive](https://enreco-archive.net/#0/0)
 | Archive    | [Ragtag Archive](https://archive.ragtag.moe/) [:gh:](https://github.com/ragtag-archive) |
 | ^^         | [Patchwork Archive](https://patchwork.moekyun.me/) [:gh:](https://github.com/Patchwork-Archive/) |
 | ^^         | [Rebel's ASMR Archive](https://asmr.ahegao.dev/) |
@@ -283,15 +281,20 @@ ___
 
 ## Hololive
 
-- [Hololive Fan Wiki](https://hololive.wiki/wiki/Main_Page) <Badge type="info" text="DB" />
-- [Hololive Production](https://hololive.hololivepro.com/) <Badge type="info" text="Schedule" link="https://schedule.hololive.tv/lives"/> <Badge type="info" text="DB"/> <Badge type="info" text="News" />
-- [Holotracker](https://trackholo.live/en/) <Badge type="info" text="Stats" />
-- [Hololive Zone](https://hololive.zone/) <Badge type="info" text="Stats" />
-- [hololive TODAY](https://hololivetoday.com/) <Badge type="info" text="News" />
-- [holoplus](https://www.holoplus.com/)
-- [Quick Reference](https://monkonius.github.io/hololive-quick-reference/) <Badge type="info" text="DB" />
-- [Hololive MMD Models](https://3d.nicovideo.jp/users/89765617/works)
-- [Hololive Member Sorter](https://hololive.sorter.my.id/)
+| Category      | Name & Link |
+|--------------|------------|
+| **Fan Projects** | [ENreco Archive](https://enreco-archive.net/#0/0) |
+| ^^           | [Hololive Fan Wiki](https://hololive.wiki/wiki/Main_Page) |
+| ^^           | [Mumei Soundboard](https://mumei-cute.com/) |
+| ^^           | [Musicdex](https://music.holodex.net/) [:gh:](https://github.com/HolodexNet/Musicdex) :s: |
+| **Official** | [Hololive MMD Models](https://3d.nicovideo.jp/users/89765617/works) |
+| ^^          | [Hololive Production](https://hololive.hololivepro.com/) <Badge type="info" text="Schedule" link="https://schedule.hololive.tv/lives"/> |
+| ^^          | [holoplus](https://www.holoplus.com/) |
+| **Stats**   | [Hololive Zone](https://hololive.zone/) |
+| ^^          | [Holotracker](https://trackholo.live/en/) |
+| **Others**  | [Hololive Member Sorter](https://hololive.sorter.my.id/) |
+| ^^          | [Quick Reference](https://monkonius.github.io/hololive-quick-reference/) <Badge type="info" text="DB" /> |
+| ^^          | [hololive TODAY](https://hololivetoday.com/) <Badge type="info" text="News" /> |
 
 ## Tools
 
@@ -325,8 +328,6 @@ ___
 - [TTV LOL PRO](https://github.com/younesaassila/ttv-lol-pro) [:cr:](https://chrome.google.com/webstore/detail/ttv-lol-pro/bpaoeijjlplfjbagceilcgbkcdjbomjd) [:ff:](https://addons.mozilla.org/addon/ttv-lol-pro/)
   -  :more: [Twitch Ad Solutions](https://github.com/pixeltris/TwitchAdSolutions/blob/master/full-list.md)
 - [ytcFilter](https://github.com/LiveTL/ytcfilter) [:cr:](https://chromewebstore.google.com/detail/ytcfilter/mnldnbhgfocmkehnlkeanlhfmopepnko) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/ytcfilter/)
-
-
 
 
 ## Games
