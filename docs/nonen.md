@@ -638,6 +638,7 @@ ___
 - **Stream**
   - [AnimeOnlineNinja](https://ww3.animeonline.ninja/)
   - [Latanime](https://latanime.org/) <Badge type="info" text="Dub" />
+  - [Estrenos Anime](https://estrenosanime.net/)
   - [AnimeFLV](https://www3.animeflv.net/)
   - [JKAnime](https://jkanime.net/)
   - [TioAnime](https://tioanime.com/)
@@ -664,7 +665,6 @@ ___
 
 ### Light Novels
 - [ZeePubs](https://zeepubs.wordpress.com/)
-- [Fukou-Da](https://fukou-da.net/novels)
 - [Rock Valley Novels](https://rockvalleynovels.wixsite.com/kardia037)
 - [Next Novels](https://nextnovels.com/)
 
