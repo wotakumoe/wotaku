@@ -51,7 +51,6 @@ og:
 - [hShop](https://hshop.erista.me/) :simple-icons-nintendo3ds:
 - [NoPayStation](https://nopaystation.com/) :simple-icons-playstation:
 - [nsw2u](https://nsw2u.com/) :simple-icons-nintendoswitch:
-- [NswRom](https://nswrom.com/) :simple-icons-nintendoswitch:
 - [NXBrew](https://nxbrew.net/) :simple-icons-nintendoswitch:
 - [ROMSIM](https://romsim.com/) :simple-icons-nintendoswitch:
 - [Romslab](https://romslab.com/) :simple-icons-nintendoswitch:
