@@ -6,7 +6,6 @@ og:
     image: https://files.catbox.moe/l2g45x.png
 ---
 
-[![](/asset/ad.png)](https://tinyurl.com/southvpn)
 
 <GradientCard title="Extension Repos" description="Mihon, Aniyomi & Dantotsu Extension Repos & Guides" theme="turquoise" variant="thin"/>
 

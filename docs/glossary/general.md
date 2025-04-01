@@ -5,7 +5,6 @@ og:
     image: https://files.catbox.moe/ys1mv5.png
 ---
 
-[![](/asset/ad.png)](https://tinyurl.com/southvpn)
 
 <GradientCard title="Wotaku Glossary" description="Want to increase your otaku knowledge? Look for no further!" theme="turquoise" variant="thin"/>
 

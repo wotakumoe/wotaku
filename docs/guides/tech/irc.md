@@ -5,7 +5,6 @@ og:
     image: https://files.catbox.moe/l2g45x.png
 ---
 
-[![](/asset/ad.png)](https://tinyurl.com/southvpn)
 
 <GradientCard title="IRC & XDCC" description="Basic guide on how to use IRC" theme="turquoise" variant="thin"/>
 

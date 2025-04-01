@@ -7,7 +7,6 @@ og:
     image: https://files.catbox.moe/vgbs7u.png
 ---
 
-[![](/asset/ad.png)](https://tinyurl.com/southvpn)
 
 <GradientCard title="Games" description="Everything Game-related in one page!" theme="turquoise" variant="thin"/>
 

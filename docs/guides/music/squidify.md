@@ -5,7 +5,6 @@ og:
     image: https://files.catbox.moe/q4b9bu.png
 ---
 
-[![](/asset/ad.png)](https://tinyurl.com/southvpn)
 
 <GradientCard title="Squidify" description="Guide on how to use squidify on various devices" theme="turquoise" variant="thin"/>
 

@@ -7,7 +7,6 @@ og:
   image: https://files.catbox.moe/b7hmee.png
 ---
 
-[![](/asset/ad.png)](https://tinyurl.com/southvpn)
 
 <GradientCard title="Merch" description="Information on figurines, plushes, books, CDs and more!" theme="turquoise" variant="thin"/>
 

@@ -5,7 +5,6 @@ og:
     image: https://files.catbox.moe/l2g45x.png
 ---
 
-[![](/asset/ad.png)](https://tinyurl.com/southvpn)
 
 <GradientCard title="Disc Ripping" description="Guide on how to rip DVD, Blu-ray, and UHD Discs" theme="turquoise" variant="thin"/>
 

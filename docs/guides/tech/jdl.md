@@ -5,7 +5,6 @@ og:
     image: https://files.catbox.moe/l2g45x.png
 ---
 
-[![](/asset/ad.png)](https://tinyurl.com/southvpn)
 
 <GradientCard title="JDL AD Removal" description="Remove banner & Pop-up ads from JDL2" theme="turquoise" variant="thin"/>
 

@@ -7,7 +7,6 @@ og:
     image: https://files.catbox.moe/er0eiz.png
 ---
 
-[![](/asset/ad.png)](https://tinyurl.com/southvpn)
 
 <GradientCard title="Immersion" description="Media to help you learn japanese" theme="turquoise" variant="thin"/>
 

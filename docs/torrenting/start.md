@@ -5,7 +5,6 @@ og:
     image: https://files.catbox.moe/d3zs1e.png
 ---
 
-[![](/asset/ad.png)](https://tinyurl.com/southvpn)
 
 <GradientCard title="Getting Started" description="Basic how-to torrent guide to get you started" theme="turquoise" variant="thin"/>
 

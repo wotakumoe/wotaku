@@ -8,7 +8,6 @@ og:
 
 ---
 
-[![](/asset/ad.png)](https://tinyurl.com/southvpn)
 
 <GradientCard title="Art" description="Everything Art-related in one page!" theme="turquoise" variant="thin"/>
 

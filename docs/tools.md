@@ -8,7 +8,6 @@ og:
 
 ---
 
-[![](/asset/ad.png)](https://tinyurl.com/southvpn)
 
 <GradientCard title="Tools" description="Various tools and extensions to enhance your experience." theme="turquoise" variant="thin"/>
 

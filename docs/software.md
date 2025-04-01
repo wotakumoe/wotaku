@@ -8,7 +8,6 @@ og:
 
 ---
 
-[![](/asset/ad.png)](https://tinyurl.com/southvpn)
 
 <GradientCard title="Software" description="Enjoy anime, manga and novels on all your devices, no matter the OS!" theme="turquoise" variant="thin"/>
 

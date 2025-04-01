@@ -5,7 +5,6 @@ og:
     image: https://files.catbox.moe/l2g45x.png
 ---
 
-[![](/asset/ad.png)](https://tinyurl.com/southvpn)
 
 <GradientCard title="Network Stream" description="Network streaming DDL, IRC and Torrent video files." theme="turquoise" variant="thin"/>
 

@@ -6,7 +6,6 @@ og:
   image: https://files.catbox.moe/d3zs1e.png
 ---
 
-[![](/asset/ad.png)](https://tinyurl.com/southvpn)
 
 <GradientCard title="Trackers" description="Index of all the popular public and popular trackers" theme="turquoise" variant="thin"/>
 

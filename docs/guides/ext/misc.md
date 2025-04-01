@@ -6,7 +6,6 @@ og:
     image: https://files.catbox.moe/dzy5dt.png
 ---
 
-[![](/asset/ad.png)](https://tinyurl.com/southvpn)
 
 <GradientCard title="Extension Repos" description="Miscellaneous Extension Repos & Guides" theme="turquoise" variant="thin"/>
 

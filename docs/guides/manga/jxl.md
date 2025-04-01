@@ -7,7 +7,6 @@ og:
     image: https://files.catbox.moe/l2g45x.png
 ---
 
-[![](/asset/ad.png)](https://tinyurl.com/southvpn)
 
 <GradientCard title="JXL Manga Readers" description="Manga readers with JPEG XL / JXL support for Android, iOS & PC" theme="turquoise" variant="thin"/>
 

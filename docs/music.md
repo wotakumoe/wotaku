@@ -7,7 +7,6 @@ og:
     image: https://files.catbox.moe/s32qh2.png
 ---
 
-[![](/asset/ad.png)](https://tinyurl.com/southvpn)
 
 <GradientCard title="Music" description="Everything Music-related in one page!" theme="turquoise" variant="thin"/>
 

@@ -5,7 +5,6 @@ og:
     image: https://files.catbox.moe/d3zs1e.png
 ---
 
-[![](/asset/ad.png)](https://tinyurl.com/southvpn)
 
 <GradientCard title="Torrent Glossary" description="All the basic torrent related terms" theme="turquoise" variant="thin"/>
 
