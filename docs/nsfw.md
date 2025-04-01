@@ -24,6 +24,7 @@ og:
 - [Anime Defenders](https://animedefenders.me/) <Badge type="info" text="720p" />
 - [AnimeID Hentai](https://animeidhentai.com/)
 - [Hanime](https://hanime.tv/) <Badge type="info" text="720p" />
+- [Hanime1](https://hanime1.me/) :fjp::fcn:
 - [Hentai.tv](https://hentai.tv/)
 - [Hentaibros](https://hentaibros.net/)
 - [Hentai AHO Streaming](https://haho.moe/)
