@@ -111,7 +111,7 @@ We tried to really simplify the process. For more details, check out [**Dong Cha
 ![Satsuma! by Miyakawa (Unofficial TL by Liss)](/glossary/anime/time.webp)
 
 ::: info Satsuma!
-[**Free PDF book**](https://satuma.grupo.jp/free838189) by [**Miyakawa**](https://fixupx.com/satuma_info) contains a lot of info about timesheets / exposure sheets. [**Liss**](https://fixupx.com/LissBevs) has been doing an unofficial English translation of the book. You can find a parital compiled version [**here**](https://drive.google.com/file/d/1yB2U-OONyAHhFnWsNJhU-R-5-t26YwlY/view) and for the latest updates, [**click here**](https://fixupx.com/hashtag/satsuma_pdf?f=live).
+[**Free PDF book**](https://satuma.grupo.jp/free838189) by [**Miyakawa**](https://x.com/satuma_info) contains a lot of info about timesheets / exposure sheets. [**Liss**](https://x.com/LissBevs) has been doing an unofficial English translation of the book. You can find a parital compiled version [**here**](https://drive.google.com/file/d/1yB2U-OONyAHhFnWsNJhU-R-5-t26YwlY/view) and for the latest updates, [**click here**](https://x.com/hashtag/satsuma_pdf?f=live).
 :::
 
 ### Douga
