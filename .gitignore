@@ -1,0 +1,14 @@
+node_modules
+**/.vitepress/dist
+**/.vitepress/cache
+**/.vitepress/.temp
+dev-dist
+*.log*
+.nitro
+.cache
+.output
+.env
+dist
+.eslintcache
+# There should be only pnpm-lock.yaml for faster builds on Pages
+package-lock.json

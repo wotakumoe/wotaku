@@ -1,0 +1,79 @@
+{
+  "name": "@wotaku/repo",
+  "type": "module",
+  "scripts": {
+    "postinstall": "nitropack prepare",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "NODE_OPTIONS='--max-old-space-size=8192' vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "api:prepare": "nitropack prepare",
+    "api:dev": "nitropack dev",
+    "api:build": "nitropack build",
+    "api:preview": "node .output/server/index.mjs",
+    "format": "biome format . --write",
+    "lint": "biome lint .",
+    "lint:fix": "biome lint . --write",
+    "lint:fix:unsafe": "biome lint . --unsafe",
+    "og:dev": "x-satori -t ./docs/.vitepress/theme/components/OgImageTemplate.vue -c ./docs/.vitepress/hooks/satoriConfig.ts --dev"
+  },
+  "dependencies": {
+    "@fmhy/components": "^0.0.3",
+    "@mdit/plugin-align": "^0.13.1",
+    "@mdit/plugin-figure": "^0.13.1",
+    "@mdit/plugin-img-lazyload": "^0.13.1",
+    "@mdit/plugin-img-size": "^0.13.1",
+    "@openpanel/web": "^1.0.1",
+    "@resvg/resvg-js": "^2.6.2",
+    "@taskylizard/colors": "^0.0.2",
+    "@vueuse/core": "^11.3.0",
+    "floating-vue": "^5.2.2",
+    "itty-fetcher": "^0.9.4",
+    "markdown-it": "^14.1.0",
+    "markdown-it-merge-cells": "^2.0.0",
+    "markdown-it-multimd-table": "^4.2.3",
+    "markdown-it-regexp": "^0.4.0",
+    "medium-zoom": "^1.1.0",
+    "nitro-cors": "^0.7.1",
+    "nitropack": "^2.10.4",
+    "tinyexec": "^0.3.1",
+    "ufo": "^1.5.4",
+    "unocss": "0.59.0-beta.1",
+    "vitepress": "^1.6.3",
+    "vitepress-plugin-tabs": "^0.5.0",
+    "vue": "^3.5.13",
+    "x-satori": "^0.2.0",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@iconify-json/ic": "^1.2.2",
+    "@iconify-json/icon-park-outline": "^1.2.2",
+    "@iconify-json/iconoir": "^1.2.6",
+    "@iconify-json/logos": "^1.2.4",
+    "@iconify-json/lucide": "^1.2.19",
+    "@iconify-json/material-symbols": "^1.2.12",
+    "@iconify-json/mdi": "^1.2.2",
+    "@iconify-json/mingcute": "^1.2.2",
+    "@iconify-json/octicon": "^1.2.2",
+    "@iconify-json/simple-icons": "^1.2.16",
+    "@iconify-json/twemoji": "^1.2.2",
+    "@iconify-json/uil": "^1.2.3",
+    "@iconify/utils": "^2.2.1",
+    "@nolebase/vitepress-plugin-enhanced-readabilities": "^2.11.1",
+    "@nolebase/vitepress-plugin-git-changelog": "^2.11.1",
+    "@nolebase/vitepress-plugin-page-properties": "^2.11.1",
+    "@taskylizard/biome-config": "^1.0.5",
+    "@types/node": "^22.10.2",
+    "sass": "^1.83.0",
+    "vite-plugin-vue-devtools": "^7.6.8",
+    "wrangler": "^3.96.0"
+  },
+  "pnpm": {
+    "peerDependencyRules": {
+      "ignoreMissing": [
+        "@algolia/client-search",
+        "search-insights"
+      ]
+    }
+  },
+  "packageManager": "pnpm@9.15.0"
+}
