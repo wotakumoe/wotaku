@@ -57,6 +57,7 @@ og:
 | ^^          | [Hololive Zone](https://hololive.zone/) |
 | ^^          | [Holotracker](https://trackholo.live/en/) |
 | **News**    | [aside's newsfeed](https://asideaside.github.io/feed/#/) [:gh:](https://github.com/asideaside/feed) |
+| ^^          | [Hololive merch information](https://merch-matome.com/) [:x:](https://x.com/hololive_goods)
 | ^^          | [hololive TODAY](https://hololivetoday.com/)  |
 | **Others**  | [Hololive Member Sorter](https://hololive.sorter.my.id/) |
 | ^^          | [Quick Reference](https://monkonius.github.io/hololive-quick-reference/) |
