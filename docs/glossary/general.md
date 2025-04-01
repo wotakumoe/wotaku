@@ -22,13 +22,13 @@ og:
 
 ## Demography
 
-| Genre     | Target audience { class="compact" }  |
-| :------:  | :------: |
-| Kodomo    | Kids (under 12)    |
-| Shounen   | Boys (12-18)     |
-| Shoujo    | Girls (12-18)  |
-| Seinen    | Men (19-40+)  |
-| Josei    | Women (19-40+)  |
+| Genre | Age range | Target audience |
+|-|-|-|
+| Kodomo | under 12 | Kids |
+| Shounen | 12-18 | Boys |
+| Shoujo | ^^ | Girls |
+| Seinen | 19-40+ | Men |
+| Josei | ^^ | Women |
 
 > Demography refers to the target audience for a piece of content. Studios and publishers need to market their content towards that specific audience, but it does not mean that only one demographic will enjoy the show. Additionally, many anime/manga incorporate elements that appeal to various demographics.
 
