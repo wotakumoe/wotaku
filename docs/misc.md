@@ -35,6 +35,7 @@ outline: [1,2]
 
 ### Manga & LN
 - [Mangaupdates](https://www.mangaupdates.com/) :s:
+- [MangaBaka](https://mangabaka.dev/)
 - [Novel updates](https://www.novelupdates.com/)
 - [RanobeDB](https://ranobedb.org/) [:gh:](https://github.com/Blastose/ranobedb)
 - [Ranobe Mori](https://ranobe-mori.net/) :fjp:
