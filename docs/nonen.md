@@ -393,7 +393,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [RAW 1001](https://raw1001.net/home)
 - [Rawkuma](https://rawkuma.com/)
 - [Rawkuro](https://rawkuro.net/home)
-- [Raw Lazy](https://rawlazy.si/)
 - [Raw Otaku](https://rawotaku.com/home/) <Badge type="tip" text="2" link="https://jmanga.ac/home/" />
 - [RawUwU](https://rawuwu.com/) <Badge type="tip" text="2" link="https://rawdevart.art/" />
 - [Sen Manga](https://raw.senmanga.com/)
