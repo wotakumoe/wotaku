@@ -151,7 +151,7 @@ og:
 - [Rambalac](https://www.youtube.com/@rambalac)
 - [Solo Solo Travel](https://www.youtube.com/@solosolotravel)
 - [SUKIYAKI Travel](https://www.youtube.com/@sukiyakitravel)
-- [travelgeek](https://www.youtube.com/@travelgeekphotography)
+- [travelgeek](https://www.youtube.com/@travelgeekvideography)
 
 ### Explainers
 
