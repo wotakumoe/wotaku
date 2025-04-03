@@ -33,7 +33,6 @@ og:
 | Books       | [MyAnonamouse](https://myanonamouse.net/)                                |
 | Games       | [Gazelle Games](https://gazellegames.net/login.php)                      |
 | Live Action | [AvistaZ](https://avistaz.to/) [:d:](https://discord.gg/GYahYNWutE)      |
-| ^^          | [JPTV.club](https://jptv.club/)                                          |
 | Music       | [jptvts](https://jptvts.us/)                                             |
 | ^^          | [Redacted](https://redacted.sh/)                                         |
 | ^^          | [JPopsuki](https://jpopsuki.eu/)                                         |

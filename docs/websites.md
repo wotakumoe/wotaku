@@ -63,7 +63,6 @@ outline: 1
 - [AnimeXin](https://animexin.dev/) [:d:](https://discord.com/invite/9sGpnnzM)
 - [Chiki Animation](https://chikianimation.com/) <Badge type="info" text="2D" /> [:tg:](https://t.me/Donghuanewofficial)
 - [Chiki Animation](https://chikianimation.net/) <Badge type="info" text="3D" /> [:tg:](https://t.me/Dimensional_Animation)
-- [COMICXY](https://comicxy.in/) [:d:](https://discord.gg/zmAy8YuVrg) [:tg:](https://telegram.me/chineseanimecoin)
 - [Crimson Subs](https://crimsonfansubs.com/) [:d:](https://discord.com/invite/JMn7Y8qv)
 - [Donghua Stream](https://donghuastream.org/) [:d:](https://discord.gg/4zrUguAakG) [:tg:](https://telegram.me/DonghuaStream_com)
 - [Dongsub](https://www.dongsub.com/) [:tg:](https://t.me/dongsub)
@@ -71,6 +70,7 @@ outline: 1
 - [LM Anime](https://lmanime.com/)
 - [Lucifer Donghua](https://luciferdonghua.in/) [:tg:](https://t.me/luciferdonghuaz)
 - [Myanime](https://myanime.live/)
+- [Top Chinese Anime](https://topchineseanime.com/) [:d:](https://discord.gg/zmAy8YuVrg) [:tg:](https://telegram.me/chineseanimecoin)
 
 :::
 
@@ -272,7 +272,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 
 | Group | Source | MDex | Baka |
 |-------|--------|-----|------|
-| [Hive Toon](https://hivetoon.com/) ==hive== | :fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/10nt2ki/infernal-void-scans) |
+| [Hive Toon](https://hivecomic.com/home) ==hive== | :fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/10nt2ki/infernal-void-scans) |
 | [LHTranslation](https://lhtranslation.net/) | :fjp: | [URL](https://mangadex.org/group/24adf288-d0e3-4d34-b342-bf8c189aacaa/lhtranslation) | [URL](https://www.mangaupdates.com/group/f6nc2yt/lhtranslation) |
 | [Manhua Ga](https://manhuaga.com/) | :fcn: | - | - |
 | [Manhua Plus](https://manhuaplus.com/) | :fcn: | - | [URL](https://www.mangaupdates.com/group/3apm0du/manhua-plus) |

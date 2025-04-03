@@ -179,7 +179,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 |---------|---------|----------|
 | [Anime(bits)](https://radio.animebits.moe/) | [FLAC](https://radio.animebits.moe/m3u/stream192.mp3.m3u) | :flag-united-kingdom: |
 | [Anison.fm](https://en.anison.fm/) | [MP3 320](https://anison.fm/anison.m3u) | :flag-united-kingdom::flag-russia: |
-| [chiru.no](https://chiru.no/) | [FLAC](https://chiru.no/?chiru.no.m3u) | :flag-united-kingdom: |
 | [Greek Otaku Radio](https://goradio.gr/) | [MP3 320](http://192.99.4.210:2199/tunein/greekota.pls) | :flag-united-kingdom::flag-greece: |
 | [JPopSuki](http://jpopsuki.fm/) | [MP3 192](http://jpopsuki.fm:2199/tunein/jpopsuki-stream.pls) | :flag-united-kingdom: |
 | [Listen.moe](https://listen.moe/) | [Vorbis 128](https://listen.moe/m3u8/jpop.m3u) | :flag-united-kingdom: |

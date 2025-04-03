@@ -299,7 +299,6 @@ If you have recommendations for good sites in your native language or want to re
   - [Dead Toons India](https://deadtoons.us/)
   - [PikaHD](https://pikahd.com/)
   - [Puretoons](https://puretoons.site/)
-  - [Rare Animes India](https://rareanimes.me/home/)
   - [SDToons](https://sdtoons.in/)
   - [Toonhub4u](https://toonhub4u.net/)
   - [ToonsHub](https://www.toonshub.xyz/)
@@ -422,7 +421,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | [DL-Raw](https://dl-raw.se/) | :yes: | :yes: | :yes: |
 | [DL Raw net](https://dlraw.net/category/raw-manga/) <Badge type="tip" text="2" link="https://manga-zip.info/category/raw-manga/" /> <Badge type="tip" text="3" link="https://13dl.me/home.i1/" /> | :yes: | :yes: | :yes: |
 | [DL Zip](https://dl-zip.com/) | :yes: | :yes: | :yes: |
-| [JP DDL](https://jpddl.com/manga) | :yes: | :no: | :no: |
 | [Manga Zone](http://www.manga-zone.org/) | :yes: | :no: | :yes: |
 | [Raw Cans](http://raw-cans.net/) | :yes: | :no: | :yes: |
 | [X3DL.NET](https://x3dl.net/wp/) | :yes: | :yes: | :yes: |
@@ -513,7 +511,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [Kakusei Project](https://kakuseiproject.com/) :fjp:<Badge type="danger" text="18+" />  
 - [Portal Yaoi](https://portalyaoi.com/) :fjp::fkr::fcn:<Badge type="danger" text="18+" />  
 - [Valkyrie Scan](https://valkyriescan.com/) :fjp::fkr::fcn:<Badge type="danger" text="18+" />  
-- [Yugen Mangas BR](https://yugenmangasbr.safel.net/) :fjp::fkr::fcn:<Badge type="danger" text="18+" />  
+- [Yugen Mangas BR](https://yugenmangasbr.readmis.com/) :fjp::fkr::fcn:<Badge type="danger" text="18+" />  
 - [Yuri.Live](https://yuri.live/) :fjp::fkr::fcn:<Badge type="danger" text="18+" />  
 
 ___

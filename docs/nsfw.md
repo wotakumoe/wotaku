@@ -72,7 +72,7 @@ og:
 - [Manytoon](https://manytoon.com/) :s:
 - [Oppai](https://read.oppai.stream/) :s: ==Oppai==
 - [RawDEX](https://rawdex.net/) <Badge type="info" text="Raw" />
-- [Sauce Manhwa](https://saucemanhwa.com/) <Badge type="info" text="+Raw" />
+- [Sauce Manhwa](https://saucemanhwa.org/) <Badge type="info" text="+Raw" />
 - [Toonily](https://toonily.com/) :s:
 - [Webtoon](https://www.webtoon.xyz/)
 - [Webtooni](https://webtooni.net/en/)  <Badge type="tip" text="2" link="https://heytoon.net/en/" />

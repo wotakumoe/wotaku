@@ -91,7 +91,7 @@ og:
 | **Booru** | [Booru Masonry](https://booru.cocomi.eu.org/) :s: [:gh:](https://github.com/asadahimeka/booruwf-web) <Badge type="tip" text="2" link="https://booru.vercel.app/" /> |
 | ^^        | [Danbooru Viewer](https://danbooru.defaultkavy.com/) [:gh:](https://github.com/defaultkavy-dev/danbooru-viewer) |
 | ^^        | [Moeview](https://moeview.app/) <Badge type="tip" text="2" link="https://moeview.pages.dev/" /> <Badge type="tip" text="3" link="https://moeview.cocomi.eu.org/" /> |
-| **Pixiv** | [Pixiv.cat](https://pixiv.cat/) [:gh:](https://github.com/pixiv-cat/pixivcat-backend) <Badge type="tip" text="2" link="https://pixiv.re/" /> |
+| **Pixiv** | [Pixiv.cat](https://pixiv.cat/) [:gh:](https://github.com/pixiv-cat/pixivcat-backend) |
 | ^^        | [PixivFE](https://pixivfe.drgns.space/) :s: [:cb:](https://codeberg.org/VnPower/PixivFE) |
 | ^^        | [Pixiv Viewer](https://pixiv.pictures/) [:gh:](https://github.com/asadahimeka/pixiv-viewer) |
 | ^^        | [Pixiv Yearbook](https://pixiv.navirank.com/) |
