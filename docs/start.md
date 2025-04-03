@@ -216,6 +216,7 @@ To learn, how to add tooltips, [click here](#tooltip).
 |-|-|-|
 | :s: | `:s:` | Favorite |
 | :e: | `:e:` | Extension(s) |
+| :n: | `:n:` | Nightly / Preview / Dev builds |
 | :ero: | `:ero:` | Focuses on NSFW content |
 | :acc: | `:acc:` | Needs Account |
 | :rss: | `:rss:` | RSS Feed |
