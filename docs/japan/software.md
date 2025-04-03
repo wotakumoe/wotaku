@@ -85,7 +85,6 @@ ___
 
 #### Android
 - [jidoujisho](https://github.com/lrorpilla/jidoujisho) :s:
-- [Akebi Japanese Dictionary](https://play.google.com/store/apps/details?id=com.craxic.akebifree)
 - [Aedict3 Japanese Dictionary](https://play.google.com/store/apps/details?id=sk.baka.aedict3)
 - [Japanese Dictionary Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto)
 - [Kaku Japanese Dictionary (OCR)](https://github.com/0xbad1d3a5/Kaku)

@@ -321,7 +321,6 @@ If you have recommendations for good sites in your native language or want to re
   - [Mynimeku](https://www.mynimeku.com/)
   - [Otaku Desu](https://otakudesu.cloud/)
   - [Samehadaku](https://samehadaku.care/)
-  - [ComicHive](https://comic-hive.tuxedolabs.xyz/anime) [:gh:](https://github.com/tuxedo-labs/ComicHive)
   - [ZANIME](https://anime.uhuyy.dev/) [:gh:](https://github.com/Fauzanmhr/zannime)
 - **DDL**
   - [Koisuru](https://db.koisuru.web.id/0:/) ==Koisuru==
@@ -330,7 +329,6 @@ If you have recommendations for good sites in your native language or want to re
 
 ### Manga
 - [Komiku](https://komiku.id/)
-- [ComicHive](https://comic-hive.tuxedolabs.xyz/manga) [:gh:](https://github.com/tuxedo-labs/ComicHive)
 - [Komikcast](https://komikcast.bz/)
 - [Komik Indo](https://komikindo2.com/)
 - [Cuymanga](http://cuymanga.infy.uk/) [:gh:](https://github.com/whyudacok/Cuymanga)
