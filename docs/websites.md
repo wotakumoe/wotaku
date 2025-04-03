@@ -336,7 +336,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 | ^^              | [Madokami](https://manga.madokami.al) |
 | ^^              | [Anna’s Archive](https://annas-archive.org/) [:prx:](https://rentry.org/wotaxy#annas-archive) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" /> |
 | ^^              | [Library Genesis+](https://libgen.gs/) [:prx:](https://rentry.org/wotaxy#library-genesis) |
-| ^^              | [Z-Library](https://z-lib.gs/) [:prx:](https://rentry.org/wotaxy#z-library) |
+| ^^              | [Z-Library](https://z-lib.gd/) [:prx:](https://rentry.org/wotaxy#z-library) |
 
 ## Audiobooks
 
