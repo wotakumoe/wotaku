@@ -160,3 +160,35 @@ For this guide, we are using [LibreTorrent](https://play.google.com/store/apps/d
 
 ![](/torrenting/lib7.png)
 :::
+
+## iOS guide
+
+For this guide, we will use [iTorrent](https://github.com/XITRIX/iTorrent). *Not like they have any better choice.*
+
+:::tabs
+
+== Magnet URL
+
+1. Click on the ":mdi-magnet: Magnet".
+2. Click **Open** when it asks "Open in iTorrent?"
+3. It will start downloading automatically.
+
+![](/torrenting/ipad1.jpg)
+
+![](/torrenting/ipad2.jpg)
+
+![](/torrenting/ipad3.jpg)
+
+== .torrent file
+
+1. Click on ":ic-sharp-download: Download Torrent". It will download a `.torrent` file.
+2. Then it will ask "Open in iTorrent". Click on it.
+3. It will start downloading automatically.
+
+![](/torrenting/ipad1.jpg)
+
+![](/torrenting/ipad4.jpg)
+
+![](/torrenting/ipad3.jpg)
+
+:::
