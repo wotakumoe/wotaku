@@ -27,7 +27,7 @@ ___
 - [Anki Manual](https://docs.ankiweb.net/)
 - [Kuri's Setup Guide](https://donkuri.github.io/learn-japanese/setup/#anki-setup) :s:
 - [jp-mining-note](https://arbyste.github.io/jp-mining-note/) <Badge type="tip" text="original" link="https://aquafina-water-bottle.github.io/jp-mining-note/"/>
-- [Xelieu's Modified Anime Card](https://xelieu.github.io/jp-lazy-guide/)
+- [Xelieu's Modified Anime Card](https://lazyguidejp.github.io/jp-lazy-guide/)
 - [vladsperspective](https://vladsperspective.wordpress.com/2020/07/15/using-anime-decks-subs2srs-mediafire-premade-decks/)
 - [Optimizing Anki For Language Learning](https://cademcniven.com/posts/20210410/)
 - [Mokuro's Guide to mining manga](https://mokuro.moe/)
@@ -53,7 +53,7 @@ ___
 - [JP Study tools](https://github.com/rudnam/JP-study)
 - [Lapis](https://github.com/donkuri/lapis)
 - [Senren](https://github.com/BrenoAqua/Senren)
-- [Xelieu's Modified Anime Card](https://xelieu.github.io/jp-lazy-guide/)
+- [Xelieu's Modified Anime Card](https://lazyguidejp.github.io/jp-lazy-guide/)
 - [jp-mining-note](https://aquafina-water-bottle.github.io/jp-mining-note/)
 
 
@@ -217,7 +217,7 @@ ___
 - [Game Sentence Miner](https://github.com/bpwhelan/GameSentenceMiner)
 - [Luna Hook](https://github.com/HIllya51/LunaHook)
 - [Luna Translator](https://github.com/HIllya51/LunaTranslator)
-- [Textractor](https://github.com/Artikash/Textractor) <Badge type="tip" text="Guide" link="https://xelieu.github.io/jp-lazy-guide/setupVnOnPC/" />
+- [Textractor](https://github.com/Artikash/Textractor) <Badge type="tip" text="Guide" link="https://lazyguidejp.github.io/jp-lazy-guide/setupVnOnPC/" />
 - [Texthooker UI](https://github.com/Renji-XD/texthooker-ui)
 - [Textractor websocket](https://github.com/kuroahna/textractor_websocket)
 - [Trim Japanese Game Audio](https://github.com/bpwhelan/TrimJapaneseGameAudio/)
