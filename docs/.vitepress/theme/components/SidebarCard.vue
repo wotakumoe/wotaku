@@ -28,11 +28,10 @@ import Field from './CardField.vue'
     <Field icon="i-material-symbols-lock-outline">Closed Source</Field>
     <Field icon="i-material-symbols-credit-card-outline">Paid</Field>
     <Field icon="i-material-symbols-add-shopping-cart-rounded">Freemium</Field>
-    <Field icon="i-material-symbols-cloud-download-outline-rounded">
-      Online / DDL
-    </Field>
+    <Field icon="i-material-symbols-cloud-download-outline-rounded">Online / DDL</Field>
     <Field icon="i-lucide-magnet">Torrent / p2p</Field>
     <Field icon="i-iconoir-floppy-disk">Local</Field>
+    <Field icon="i-material-symbols-science">Nightly build</Field>
     <Field icon="i-lucide-mail">Feedback</Field>
     <Field icon="i-material-symbols-directions-alt">Proxies</Field>
     <Field icon="i-material-symbols-info-outline-rounded">More Info</Field>
