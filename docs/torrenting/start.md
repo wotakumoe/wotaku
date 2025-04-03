@@ -21,6 +21,8 @@ This is a quick start guide. If you have any questions, check out our [**FAQs**]
 
 ## Client
 
+Dedicated clients are recommended since they have a lot torrent-centric features.
+
 ### Dedicated
 
 | Platform | Client |
@@ -47,7 +49,7 @@ This is a quick start guide. If you have any questions, check out our [**FAQs**]
 | ^^       | [Gopeed](https://gopeed.com/) [:gh:](https://github.com/GopeedLab/gopeed) |
 
 
-## Guide
+## PC guide
 
 For this guide, we will use [**qBittorrent**](https://www.qbittorrent.org/) `v5.0.1` and download files from [**Nyaa**](https://nyaa.si/). Other clients should work in a similar manner, with minor UI changes.
 
@@ -101,7 +103,7 @@ Default dark mode of qBittorrent is just too ugly. So we are using a custom them
 
 == Magnet URL
 
-1. Click on the ":mag: Magnet".
+1. Click on the ":mdi-magnet: Magnet".
 2. Choose your torrent client (if it's your first time).
 3. It will open a pop-up window in qBittorent. Client will retrieve all the metadata and then show all the files and folders, where to download them, and other settings. After adjusting everything, click **OK**.
 
@@ -123,4 +125,38 @@ Default dark mode of qBittorrent is just too ugly. So we are using a custom them
 ![](/torrenting/tor2.png)
 
 ![](/torrenting/tor3.png)
+:::
+
+## Android guide
+
+For this guide, we are using [LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) v3.6. Other clients should work similarly.
+
+:::tabs
+
+== Magnet URL
+
+1. Click on the ":mdi-magnet: Magnet".
+2. Choose your torrent client (if it's your first time).
+3. It will open a pop-up window in LibreTorrent. It will show file count and download location. After adjusting everything, click ":material-symbols-check:".
+
+![](/torrenting/lib1.png)
+
+![](/torrenting/lib2.png)
+
+![](/torrenting/lib3.png)
+
+== .torrent File
+
+1. Click on ":ic-sharp-download: Download Torrent". It will download a `.torrent` file.
+2. Open the file.
+3. Choose your torrent client (if it's your first time).
+4. It will open a pop-up window in qBittorent. It will show file count and download location. After adjusting everything, click ":material-symbols-check:".
+
+![](/torrenting/lib4.png)
+
+![](/torrenting/lib5.png)
+
+![](/torrenting/lib6.png)
+
+![](/torrenting/lib7.png)
 :::
