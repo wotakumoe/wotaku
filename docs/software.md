@@ -23,8 +23,8 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 
 | App | Source | Tracker |
 |-|-|-|
-| [Aniyomi](https://aniyomi.org/) :s: [:gh:](https://github.com/aniyomiorg/aniyomi)  | :ddl: | :mal::al::k::simkl: |
-| [Animetail](https://github.com/Dark25/Animetail2)  | :ddl::mag: | :mal::al::k::simkl: |
+| [Aniyomi](https://aniyomi.org/) :s: [:gh:](https://github.com/aniyomiorg/aniyomi) [:n:](https://github.com/aniyomiorg/aniyomi-preview) | :ddl: | :mal::al::k::simkl: |
+| [Animetail](https://github.com/Dark25/Animetail2) [:n:](https://github.com/Animetailapp/Animetail-preview) | :ddl::mag: | :mal::al::k::simkl: |
 | [Dantotsu](https://dantotsuapp.netlify.app/) [:gh:](https://github.com/rebelonion/Dantotsu)  | :ddl::mag: | :mal::al: |
 | [Himitsu](https://repodevil.vercel.app/) [:gl:](https://gitlab.com/RepoDevil/himitsu) [:gh:](https://github.com/RepoDevil/Himitsu) | :ddl::mag: | :mal::al: |
 | [Cloudstream](https://cloudstream.on.fleek.co/) [:e:](/guides/ext/misc#cloudstream) | :ddl::mag: | :mal::al::simkl: |
@@ -54,21 +54,20 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 ## Manga Readers
 
 ### Online
-- [Mihon](https://mihon.app/) [:gh:](https://github.com/mihonapp/mihon) [:e:](/guides/ext/mihon)
-  - [Yokai](https://mihon.app/forks/Yokai/) :s: [:gh:](https://github.com/null2264/yokai) [:e:](/guides/ext/mihon)
-  - [Komikku](https://komikku-app.github.io/) [:gh:](https://github.com/komikku-app/komikku) [:e:](/guides/ext/mihon)
-- [Kotatsu](https://kotatsu.app/) [:gh:](https://github.com/KotatsuApp/Kotatsu)
+- [Mihon](https://mihon.app/) [:gh:](https://github.com/mihonapp/mihon) [:e:](/guides/ext/mihon) [:n:](https://github.com/mihonapp/mihon-preview)
+- [Yokai](https://mihon.app/forks/Yokai/) :s: [:gh:](https://github.com/null2264/yokai) [:e:](/guides/ext/mihon)
+- [Komikku](https://komikku-app.github.io/) [:gh:](https://github.com/komikku-app/komikku) [:e:](/guides/ext/mihon) [:n:](https://github.com/komikku-app/komikku-preview)
+- [Kotatsu](https://kotatsu.app/) [:gh:](https://github.com/KotatsuApp/Kotatsu) [:n:](https://github.com/KotatsuApp/Kotatsu-nightly)
 
 ::: details More
-- [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:gh:](https://github.com/jobobby04/TachiyomiSY) [:e:](/guides/ext/mihon)
+- [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:gh:](https://github.com/jobobby04/TachiyomiSY) [:e:](/guides/ext/mihon) [:n:](https://github.com/jobobby04/TachiyomiSYPreview)
 - [TachiyomiJ2K](https://mihon.app/forks/TachiyomiJ2K/) [:gh:](https://github.com/Jays2Kings/tachiyomiJ2K) [:e:](/guides/ext/mihon)
-- [TachiyomiAZ](https://mihon.app/forks/TachiyomiAZ/) <Badge type="info" text="Dev build" link="https://crafty.moe/tachiyomiAZ.apk" /> [:gh:](https://github.com/az4521/tachiyomiAZ)
-- [Animetail](https://github.com/Dark25/Animetail2) [:e:](/guides/ext/mihon)
-- [Aniyomi](https://aniyomi.org/) [:gh:](https://github.com/aniyomiorg/aniyomi) [:e:](/guides/ext/mihon)
+- [TachiyomiAZ](https://mihon.app/forks/TachiyomiAZ/) [:gh:](https://github.com/az4521/tachiyomiAZ) [:n:](https://crafty.moe/tachiyomiAZ.apk)
+- [Animetail](https://github.com/Dark25/Animetail2) [:e:](/guides/ext/mihon) [:n:](https://github.com/Animetailapp/Animetail-preview)
+- [Aniyomi](https://aniyomi.org/) [:gh:](https://github.com/aniyomiorg/aniyomi) [:e:](/guides/ext/mihon) [:n:](https://github.com/aniyomiorg/aniyomi-preview)
 - [Dantotsu](https://dantotsuapp.netlify.app/) [:gh:](https://github.com/rebelonion/Dantotsu) [:e:](/guides/ext/mihon)
 - [Neko](https://github.com/nekomangaorg/Neko)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi)
-- [Cubari](https://cubari.moe/) :web: <Badge type="info" text="Alt" link="https://reader.manga.guru/" />
 :::
 
 ### Local
