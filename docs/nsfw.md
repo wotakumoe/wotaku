@@ -258,7 +258,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [Kemono Browser](https://sleazyfork.org/en/scripts/483259-kemono-browser)
 - [Let's panda!](https://sleazyfork.org/en/scripts/33979-let-s-panda)
 - [MALSync Adult](https://sleazyfork.org/en/scripts/387981-mal-sync-adult-fatexxxblood-edition)
-- [Manga Loader NSFW](https://sleazyfork.org/en/scripts/12657-manga-loader-nsfw)
+- [Manga Loader NSFW](https://sleazyfork.org/en/scripts/483574-manga-loader-nsfw-download)
 - [Manga OnlineViewer](https://github.com/TagoDR/MangaOnlineViewer)
 - [nhentai helper](https://sleazyfork.org/en/scripts/375992-nhentai-helper) [:gh:](https://github.com/Tsuk1ko/nhentai-helper)
 - [nhentai konnichiwa](https://github.com/naiymu/nhentai-konnichiwa)
