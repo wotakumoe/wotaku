@@ -52,7 +52,7 @@ og:
 | ^^          | [holoplus](https://www.holoplus.com/) |
 | **Stats**   | [Hololive Spotify Stats](https://holo-spotify-stats.jirikunes.eu/) [:gh:](https://github.com/kunesj/holo-spotify-stats) |
 | ^^          | [Hololive Livestream Activity Statistics](https://holopro-yt-livestream-activity-statistics.streamlit.app/) [:gh:](https://github.com/risbi0/Hololive-Production-Livestream-Activity-Statistics) |
-| ^^          | [HoloChatStats](https://beta.holochatstats.info/) [:gh:](https://github.com/mipacd/HoloChatStats) |
+| ^^          | [HoloChatStats](https://holochatstats.info/) [:gh:](https://github.com/mipacd/HoloChatStats) |
 | ^^          | [Hololive Zone](https://hololive.zone/) |
 | ^^          | [Holotracker](https://trackholo.live/en/) |
 | **News**    | [aside's newsfeed](https://asideaside.github.io/feed/#/) [:gh:](https://github.com/asideaside/feed) |
