@@ -24,11 +24,11 @@ outline: 1
 
 | Websites | Type | Login |
 |----------|----------------------|----------------------|
-| [Miruro](https://www.miruro.tv/) [:prx:](https://www.miruro.com) ==miruro== | :mingcute-shovel-fill: | :mingcute-refresh-2-fill: |
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :mingcute-shovel-fill: | :no: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :mingcute-server-fill: | :mingcute-user-2-fill: |
-| [KickAssAnime](https://kaa.mx/) ==KAA== | :mingcute-server-fill: :mingcute-shovel-fill: | :mingcute-user-2-fill: |
 | [AnimeKai](https://animekai.to/home) <Badge type="tip" text="2" link="https://animekai.bz/home" /> ==AnimeKai== | :mingcute-server-fill: | :mingcute-refresh-2-fill: :mingcute-user-2-fill: |
+| [Miruro](https://www.miruro.tv/) [:prx:](https://www.miruro.com) ==miruro== | :mingcute-shovel-fill: | :mingcute-refresh-2-fill: |
+| [KickAssAnime](https://kaa.mx/) ==KAA== | :mingcute-server-fill: :mingcute-shovel-fill: | :mingcute-user-2-fill: |
 | [HiAnime](https://hianime.to/home) [:prx:](https://hianime.tv/) ==Zoro== | :mingcute-server-fill: | :mingcute-user-2-fill: |
 | [Hikari](https://watch.hikaritv.xyz/) ==Hikari== | :mingcute-server-fill: | :mingcute-user-2-fill: |
 | [Sudatchi](https://sudatchi.com/) ==Sudatchi== | :mingcute-server-fill: | :mingcute-refresh-2-fill: |
