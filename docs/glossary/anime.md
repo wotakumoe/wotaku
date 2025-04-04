@@ -32,13 +32,17 @@ og:
 | Simulcast | Simultaneous broadcast or stream of the latest episodes alongside their country of origin. |
 | Simuldub | Simultaneous dub release of the latest episodes alongside their country of origin. |
 
-:::details Cour, Season, Split-cour {open}
-In Japanese TV, the broadcast schedule is divided into four seasons: Spring (March -- May), Summer (June -- August), Autumn (September -- November), and Winter (December -- February). This means that an anime can have 13 episodes in each season.
+## Cour, Season, Split-cour
+In Japanese TV, the broadcast schedule is divided into four seasons: Spring, Summer, Autumn, and Winter. This means that an anime can have maximum 13 episodes in each season.
 
-- **Cour:** Each 13eps/season is called a cour.
-- **Season:** The continuous run of an anime is called a season. It can be a 1 cour (Example: [Chainsaw Man](https://anilist.co/anime/127230/Chainsaw-Man)), 2 cour anime (Example: [Kimetsu no Yaiba](https://anilist.co/anime/101922/Kimetsu-no-Yaiba)) or a 4 cour (Example: [Naruto](https://anilist.co/anime/20/NARUTO))
-- **Split-cour:** When the anime season isn't continuous and has a break of one or two cours. Example: [Spy x Family](https://anilist.co/anime/142838/SPYFAMILY-Part-2)
-:::
+| Term | Description |
+|-|-|
+| Cour | Each 13eps/season is called a cour. |
+| Season | The continuous run of an anime is called a season. It can be a 1-cour (Example: [Chainsaw Man](https://anilist.co/anime/127230/Chainsaw-Man)), 2-cour anime (Example: [Kimetsu no Yaiba](https://anilist.co/anime/101922/Kimetsu-no-Yaiba)) or a 4-cour (Example: [Naruto](https://anilist.co/anime/20/NARUTO)) |
+| Split-cour | When the anime season isn't continuous and has a break of one or two cours. Example: [Spy x Family](https://anilist.co/anime/142838/SPYFAMILY-Part-2) |
+
+![](/diagram/cour.svg)
+
 
 ## Episode Sections
 
