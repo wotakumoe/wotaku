@@ -465,6 +465,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 ## Polish
 
 ### Anime
+- [AnimeDesu](https://animedesu.pl/)
 - [Anime Odcinki](https://anime-odcinki.pl/)
 - [Animesub](http://animesub.info/)
 - [Anime Zone](https://www.animezone.pl/)
