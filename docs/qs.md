@@ -20,8 +20,8 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 
 | Category   | Resource |
 |------------|--------------------------------------------------|
-| **Streaming** | [KickAssAnime](https://kaa.mx/) |
-| ^^         | [Miruro](https://www.miruro.tv/) [:prx:](https://www.miruro.com) |
+| **Streaming** | [AnimeKai](https://animekai.to/home) <Badge type="tip" text="2" link="https://animekai.bz/home" /> ==AnimeKai== |
+| ^^         | [Miruro](https://www.miruro.tv/) [:prx:](https://www.miruro.com) ==miruro== |
 | ^^         | [Anime Nexus](https://anime.nexus/) |
 | **Download**  | [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap) |
 | ^^         | [Tokyo Insider](https://www.tokyoinsider.com/) :ddl: |
