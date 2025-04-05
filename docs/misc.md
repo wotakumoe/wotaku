@@ -199,7 +199,8 @@ ___
 | ^^ | [Shonen Jump News](https://x.com/WSJ_manga) :s::x: |  
 | **Blog / Interview** | [BehindTheManga](https://www.behindthemanga.com/) |  
 | ^^ | [Manga Bookshelf](https://mangabookshelf.com/) |  
-| ^^ | [Mangasplaining](https://www.mangasplaining.com/) [:x:](https://x.com/mangasplaining) |  
+| ^^ | [Mangasplaining](https://www.mangasplaining.com/) [:x:](https://x.com/mangasplaining) |
+| ^^ | [Mangasplaining Extra](https://mangasplaining.substack.com/) |
 | ^^ | [TheOASG](https://www.theoasg.com/) [:x:](https://x.com/TheOASG) |  
 
 
