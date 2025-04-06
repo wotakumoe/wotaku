@@ -147,6 +147,7 @@ og:
 | [Nameless](https://sk-jynx.itch.io/nameless)                | Free   | Nanashi Mumei     | SK_Jynx | SK_Jynx |
 | [Nimi Nightmare's dream dash](https://gioba-games.itch.io/nimi-nightmare-dream-dash) | Free   | Nimi Nightmare    | Goiba   | Goiba |
 | [Miko in Maguma](https://store.steampowered.com/app/2877240/Miko_in_Maguma/) | Free   | Sakura Miko      | frog blend | holo Indie |
+| [SIMPWALK](https://store.steampowered.com/app/3362870/SIMPWALK/) | Free | HOLORO | Altersky Skyraze | holo Indie |
 
 ### Puzzle
   
