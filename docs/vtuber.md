@@ -142,23 +142,27 @@ og:
 | Game                                                       | Price  | MC                 | Dev        | Publisher |
 |------------------------------------------------------------|--------|--------------------|------------|-----|
 | [Bibbidiba fan game](https://store.steampowered.com/app/3428800/Bibbidiba_fan_game) | Free   | Hoshimachi Suisei | shadow     | holo Indie |
+| [Chrono Gear: Warden of Time](https://store.steampowered.com/app/3081840/Chrono_Gear_Warden_of_Time) | - | Ouro Kronii | Team Chrono Gear | holo Indie |
 | [FLARE NUINUI QUEST](https://store.steampowered.com/app/3081830/FLARE_NUINUI_QUEST) | $4.49  | Shiranui Flare    | sulpx      | holo Indie |
 | [HoloRun](https://store.steampowered.com/app/3389760/HoloRun/) | $2.99  | Hololive          | Pixfox     | holo Indie |
 | [Nameless](https://sk-jynx.itch.io/nameless)                | Free   | Nanashi Mumei     | SK_Jynx | SK_Jynx |
 | [Nimi Nightmare's dream dash](https://gioba-games.itch.io/nimi-nightmare-dream-dash) | Free   | Nimi Nightmare    | Goiba   | Goiba |
 | [Miko in Maguma](https://store.steampowered.com/app/2877240/Miko_in_Maguma/) | Free   | Sakura Miko      | frog blend | holo Indie |
 | [SIMPWALK](https://store.steampowered.com/app/3362870/SIMPWALK/) | Free | HOLORO | Altersky Skyraze | holo Indie |
+| [smol Ame](https://moocow-games.itch.io/smol-ame)              | Free   | Amelia Watson     | MooCow     | MooCow |
 
-### Puzzle
+### Puzzle / Strategy
   
 | Game                                                           | Price  | MC                 | Dev         | Publisher |
 |----------------------------------------------------------------|--------|--------------------|------------|-----|
 | [Holo on Suika](https://tkgames.jp/holo_watermelon.html)       | Free   | Hololive          | TKGames    | TKGames |
+| [hololive GoroGoro Mountain](https://store.steampowered.com/app/3511130/hololive_GoroGoro_Mountain/) | -  | POV  | BeXide    | holo Indie |
+| [hololive Treasure Mountain](https://store.steampowered.com/app/2972990/hololive_Treasure_Mountain/) | $4.99  | Houshou Marine   | BeXide     | holo Indie |
+| [holoReversi](https://store.steampowered.com/app/3446980/holoReversi/) | - | RomanKitayama | holo Indie |
 | [Mumei's Memory Juggling](https://david-wu-softdev.itch.io/mumeis-memory-juggling) | Free   | Nanashi Mumei     | David Wu   | David Wu |
 | [Pebble Jame](https://gioba-games.itch.io/pebble-jame)         | Free   | Koseki Bijou      | Goiba      | Goiba |
-| [smol Ame](https://moocow-games.itch.io/smol-ame)              | Free   | Amelia Watson     | MooCow     | MooCow |
 | [Takos Organised Neatly](https://ae-lux-production.itch.io/takos-organised-neatly) | Free   | Ninomae Ina'Nis  | Ae Lux     | Ae Lux |
-| [hololive Treasure Mountain](https://store.steampowered.com/app/2972990/hololive_Treasure_Mountain/) | $4.99  | Houshou Marine   | BeXide     | holo Indie |
+
 
 ### Role Playing
 
