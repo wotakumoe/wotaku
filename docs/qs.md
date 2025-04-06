@@ -47,7 +47,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 
 | Category   | Resource |
 |------------|--------------------------------------------------|
-| **Online** | [ComicK](https://comick.io/home22) |
+| **Online** | [ComicK](https://comick.io/home2) |
 | ^^         | [MangaDex](https://mangadex.org/) |
 | ^^         | [Weeb Central](https://weebcentral.com/) |
 | **Download**  | [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap) |
