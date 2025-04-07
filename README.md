@@ -12,7 +12,7 @@ enhance the wiki further. Also, don't hesitate to [suggest ideas](#submitting-a-
   [PC](https://wotaku.wiki/software#pc) & [iOS](https://wotaku.wiki/software#ios).
 - Various sites for [db, tracker & info](https://wotaku.wiki/misc#info),
   [illustrations](https://wotaku.wiki/misc#illustrations),
-  [utility](https://wotaku.wiki/misc#utility) & [vtuber](https://wotaku.wiki/misc#vtuber)
+  [utility](https://wotaku.wiki/misc#utility) & [vtuber](https://wotaku.wiki/vtuber)
 - Other related software for [phone](https://wotaku.wiki/tools#phone) &
   [PC](https://wotaku.wiki/tools#pc), [extensions](https://wotaku.wiki/tools#extensions) &
   [scripts](https://wotaku.wiki/tools#scripts)
