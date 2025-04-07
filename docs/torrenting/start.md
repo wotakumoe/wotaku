@@ -8,15 +8,22 @@ og:
 
 <GradientCard title="Getting Started" description="Basic how-to torrent guide to get you started" theme="turquoise" variant="thin"/>
 
-::: tip Hello!
+## Intro
+
 This is a quick start guide. If you have any questions, check out our [**FAQs**](/torrenting/faq) or [**Glossary**](/torrenting/glossary) if you want to learn the meaning of a specific term.
-:::
 
 ::: info TL;DR
 1. Download and install torrent [client](#client).
 2. Get a `.torrent` file or magnet URL.
 3. Open the file/URL in your torrent client.
 4. Confirm your download.
+:::
+
+::: tip Quick Dos and Don'ts
+1. Always try to seed as much as you can (if you're on a non-metered connection).
+2. Try to use a VPN (if your ISP goes after torrents, then you must).
+3. If you are downloading from private trackers, make sure to read the rules.
+4. Don't use torrent streaming software like Miru, Webtorrent, Stremio for private torrents.
 :::
 
 ## Client
