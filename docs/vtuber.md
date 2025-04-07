@@ -55,6 +55,7 @@ og:
 | ^^          | [HoloChatStats](https://holochatstats.info/) [:gh:](https://github.com/mipacd/HoloChatStats) |
 | ^^          | [Hololive Zone](https://hololive.zone/) |
 | ^^          | [Holotracker](https://trackholo.live/en/) |
+| ^^          | [Holouta Songs](https://www.youtube.com/@hololivesongs9790/) |
 | **News**    | [aside's newsfeed](https://asideaside.github.io/feed/#/) [:gh:](https://github.com/asideaside/feed) |
 | ^^          | [Hololive merch information](https://merch-matome.com/) [:x:](https://x.com/hololive_goods)
 | ^^          | [hololive TODAY](https://hololivetoday.com/)  |
