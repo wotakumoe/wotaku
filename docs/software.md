@@ -70,16 +70,12 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 - [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi)
 :::
 
+![](/diagram/tachi.svg)
+
 ### Local
 - [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :s::fm::cs:
 - [Kuro Reader +](https://kurotoshiro.dev/) :fm::cs:
 - [CDisplayEx Comic Reader](https://play.google.com/store/apps/details?id=com.progdigy.cdisplay.free) :fm::cs:
-
-::: details Tachiyomi forks flowchart
-
-![](/diagram/tachi.svg)
-
-:::
 
 ## Novel Readers
 
