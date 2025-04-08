@@ -57,8 +57,9 @@ a Github or Discord account.
 
 You can also post an [issue](https://github.com/wotakumoe/Wotaku/issues/new) on the Github page.
 
-> This makes it easier for me to add it to the wiki, since we need to maintain the categories and
-> markdown style.
+> [!NOTE]
+> This makes it easier for me to add it to the wiki, since we need to maintain the categories and markdown style.
+
 
 ## Discord
 
@@ -72,7 +73,7 @@ You can submit any feedback in our [discord server](https://discord.gg/vShRGx8ZB
 
 <br/>
 
-> [!NOTE]  
+> [!Warning]  
 > We may choose not to add the site if it is redundant or if it does not meet our preferences.
 
 # Wotaku Star History
