@@ -413,8 +413,10 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 | Solution   | Client/Tools |
 |----------- |-------------|
+| General    | [MAL-Sync](https://github.com/MALSync/MALSync) |
 | [Jellyfin](https://jellyfin.org/) | [Jellyfin MPV Shim](https://github.com/jellyfin/jellyfin-mpv-shim) |
 | ^^         | [Jellyfin-RPC](https://github.com/Radiicall/jellyfin-rpc) |
+| ^^         | [Jellyfin MAL Metadata Plugin](https://github.com/ryandash/jellyfin-plugin-myanimelist) |
 | ^^         | [Jellyfin shikimori plugin](https://github.com/te9c/jellyfin-shikimori-plugin) |
 | ^^         | [Streamyfin](https://github.com/streamyfin/streamyfin) :and::app: |
 | [Kavita](https://www.kavitareader.com/) | [komf](https://github.com/Snd-R/komf) <Badge type="tip" text="Script" link="https://github.com/Snd-R/komf-userscript" /> |
