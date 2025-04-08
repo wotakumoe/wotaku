@@ -474,6 +474,7 @@ Trackers have been moved to their [**own page**](/torrenting/trackers)!
 - [Anime Bancho](https://www.youtube.com/@AnimeBancho/)
 - [Ani-One Asia](https://www.youtube.com/@AniOneAsia/) <Badge type="info" text="Regional" />
 - [Muse Asia](https://www.youtube.com/@MuseAsia/) <Badge type="info" text="Regional" />
+- [GODZILLA OFFICIAL by TOHO](https://www.youtube.com/GodzillaToho)
 - [Pokémon TV](https://www.youtube.com/@OfficialPoke%CC%81monTV) <Badge type="info" text="Regional" />
 - [TMS Official](https://www.youtube.com/@AnimeonTMSOfficialChannel/) <Badge type="info" text="Regional" />
 :::
