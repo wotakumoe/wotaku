@@ -536,7 +536,7 @@ ___
 :::
 
 ### Tokusatsu
-- [DGB Catálogo](https://dgbcatalogo.carrd.co/)
+- [DGB Catálogo](https://dgbfansub.carrd.co/)
 - [NewZect](https://newzect.com/)
 - [Rádio Toku Hero Club](https://www.radiotokuheroclub.com/)
 - [Senpuu Tokusatsu](https://senpuu.com.br/)
