@@ -82,10 +82,9 @@ og:
   - [Jimaku](https://jimaku.cc/) :s:
   - [TheMoeWay](https://learnjapanese.moe/kitsubackup.html#/ja)
   - [Ajatt-Tools](https://github.com/Ajatt-Tools/kitsunekko-mirror)
+- [JPTV.club subtitle archive](https://rentry.org/wotadirect#japanimmersion)
 - [itazuraneko](https://djtguide.github.io/library/sub)
 - [Xavier's Retimed JP Sub Pack](https://rentry.org/wotadirect)
-- [Nekomoe Kissaten's Subtitles](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage)
-- [moex3's JP Anime Subs](https://github.com/moex3/random_jp_anime_subs)
 - [JP Subtitles](https://github.com/Matchoo95/JP-Subtitles)
 - [JP Audiobook Subtitles](https://github.com/ym1234/JPAudiobookSubtitles)
 - [Fully Automatic Retiming of Subtitles](https://youtu.be/x0h3ooBHrpk)
