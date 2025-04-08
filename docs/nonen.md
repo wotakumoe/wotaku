@@ -499,6 +499,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 #### Software
 - [GoAnime](https://github.com/alvarorichard/GoAnime) :win::cmd:
+- [Tomato](https://play.google.com/store/apps/details?id=com.tomatos.clientapp) :and::cs:
 
 ### Manga
 - [Ler Mangas](https://lermangas.me/)
