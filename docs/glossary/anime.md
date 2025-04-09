@@ -70,12 +70,18 @@ og:
 
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/D0tux0QoeUE" frameborder="0" allowfullscreen></iframe></div>
 
+::: tip Extra
 Mentioned [Kikakusho / Pitch package](https://wiki.evageeks.org/Resources:Neon_Genesis_Evangelion_Proposal_(Translation)#Page_2_(Synopsis_and_Staff)) of Neon Genesis Evangelion.
+:::
 
 ### Settai
 Settai is collection of model sheets and important places (can be a house, place or anything important). The designs go through multiple stages, so they can change over time. The final drawings are used by staff as the character standard. Depending on the budget, settai can have very high details.
 
 ![Akebi-chan no Sailor-fuku](/glossary/anime/akb.webp)
+
+::: tip Extra
+[Settai Dreams](https://setteidreams.net/) & [Character Design References](https://characterdesignreferences.com/) have a lot of model sheets. Vist these sites for more examples.
+:::
 
 ### E-Konte
 E-Konte / storyboard shows all the sequences in rough sketches so the director can show the vision to the animators and organize accordingly. It generally has 5 columns:
@@ -90,6 +96,10 @@ Formatting of a storyboard can change depending on the studio and director.
 ![Shaman King (2021) Opening #02](/glossary/anime/sk.webp)
 
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/ln1sKXXpSdg" frameborder="0" allowfullscreen></iframe></div>
+
+::: tip Extra
+[rinri](https://x.com/guyayaHime) posts a lot of stuff regarding storyboard. You can check out her posts there.
+:::
 
 ### Genga
 
@@ -111,7 +121,7 @@ If you look at the sakuga, we can see a few numbers.
 ![Solo Leveling ep. 11](/glossary/anime/solo.webp)
 :::
 
-::: info More Info
+::: tip Extra
 We tried to really simplify the process. For more details, check out [**Dong Chang**](https://www.youtube.com/@DongChang), [**Sakuga Foundry**](https://www.youtube.com/@SakugaFoundry) & [Iwane Masaaki’s Animating Channel](https://www.youtube.com/@animator).
 :::
 
@@ -119,7 +129,7 @@ We tried to really simplify the process. For more details, check out [**Dong Cha
 
 ![Satsuma! by Miyakawa (Unofficial TL by Liss)](/glossary/anime/time.webp)
 
-::: info Satsuma!
+::: tip Extra
 [**Free PDF book**](https://satuma.grupo.jp/free838189) by [**Miyakawa**](https://x.com/satuma_info) contains a lot of info about timesheets / exposure sheets. [**Liss**](https://x.com/LissBevs) has been doing an unofficial English translation of the book. You can find a parital compiled version [**here**](https://drive.google.com/file/d/1yB2U-OONyAHhFnWsNJhU-R-5-t26YwlY/view) and for the latest updates, [**click here**](https://x.com/hashtag/satsuma_pdf?f=live).
 :::
 
@@ -152,7 +162,7 @@ The number of pixels contained in each frame, a higher value means improved qual
 ### Video Codec
 The encoding process for the video file. The most popular encoders today are **x264** (AVC) and **x265** (HEVC), with the latter being newer and able to achieve higher compression rates with less quality loss.
 
-::: info More about encoding
+::: tip Extra
 To learn more about encoding, visit [**Codec Wiki**](https://wiki.x266.mov/docs/introduction/prologue).
 :::
 
