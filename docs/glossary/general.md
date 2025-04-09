@@ -29,7 +29,7 @@ og:
 | Seinen | 19-40+ | Men |
 | Josei | ^^ | Women |
 
-> Demography refers to the target audience for a piece of content. Studios and publishers need to market their content towards that specific audience, but it does not mean that only one demographic will enjoy the show. Additionally, many anime/manga incorporate elements that appeal to various demographics.
+Demography refers to the target audience for a piece of content. Studios and publishers need to market their content towards that specific audience, but it does not mean that only one demographic will enjoy the show. Additionally, many anime/manga incorporate elements that appeal to various demographics.
 
 
 ## Genre

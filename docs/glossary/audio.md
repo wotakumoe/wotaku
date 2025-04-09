@@ -507,11 +507,10 @@ C:\Music\歌曲3.mp3
 
 # Hardware
 
-<br>
+![Digital signal to Playback device](/diagram/audhw.svg)
 
-Hardware refers to the devices within the signal chain to reproduce listenable audio. The 3 core devices are the Dac, Amp, and playback device. To briefly explain the signal chain, digital audio needs to be sent to a DAC in order to be converted into a usable analog signal. That analog signal is then amplified to bring it to a listenable volume. Finally, a headphone, IEM, or speaker is plugged into the amplifier to reproduce the sound. This chain holds true for any form of digital media, but analog sources do not require a DAC, as the audio signal is already in the analog form.
+Hardware refers to the devices within the signal chain to reproduce listenable audio. The 3 core devices are the DAC, AMP, and playback device. To briefly explain the signal chain, digital audio needs to be sent to a DAC in order to be converted into a usable analog signal. That analog signal is then amplified to bring it to a listenable volume. Finally, a headphone, IEM, or speaker is plugged into the amplifier to reproduce the sound. This chain holds true for any form of digital media, but analog sources do not require a DAC, as the audio signal is already in the analog form.
 
-![](/diagram/audhw.svg)
 
 ## DAC
 

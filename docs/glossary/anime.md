@@ -34,14 +34,14 @@ og:
 
 ## Season
 
+![Different types of anime by cour](/diagram/cour.svg)
+
 | Term | Description |
 |-|-|
 | Season | In Japanese TV, the broadcast schedule is divided into four seasons: Spring, Summer, Autumn, and Winter. |
 | Cour | Each 13eps/season is called a cour. |
 | Consecutive-cour | When the anime season spreads throught 2 or more contniously without a seasonal break. Example: 2-cour anime ([Kimetsu no Yaiba](https://anilist.co/anime/101922/Kimetsu-no-Yaiba), [The Apothecary Diaries Season 2](https://anilist.co/anime/176301/Kusuriya-no-Hitorigoto-2nd-Season)), 3-cour ([DEATH NOTE](https://anilist.co/anime/1535/DEATH-NOTE)) or a 4-cour ([Naruto](https://anilist.co/anime/20/NARUTO)) |
 | Split-cour | When the anime season isn't continuous and has a break of one or two cours. Example: [Spy x Family](https://anilist.co/anime/142838/SPYFAMILY-Part-2) |
-
-![](/diagram/cour.svg)
 
 
 ## Episode Sections
@@ -64,8 +64,13 @@ og:
 
 ## Technical terms
 
-### Sakuga
-Sakuga means drawing, animation. In the fan community, it generally means cool sequences.
+### Anime Production Process
+
+![Edited version of flowchart by Dong Chang](/diagram/anipro.svg)
+
+<div class="video_wrapper"><iframe src="https://www.youtube.com/embed/D0tux0QoeUE" frameborder="0" allowfullscreen></iframe></div>
+
+Mentioned [Kikakusho / Pitch package](https://wiki.evageeks.org/Resources:Neon_Genesis_Evangelion_Proposal_(Translation)#Page_2_(Synopsis_and_Staff)) of Neon Genesis Evangelion.
 
 ### Settai
 Settai is collection of model sheets and important places (can be a house, place or anything important). The designs go through multiple stages, so they can change over time. The final drawings are used by staff as the character standard. Depending on the budget, settai can have very high details.
@@ -87,9 +92,10 @@ Formatting of a storyboard can change depending on the studio and director.
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/ln1sKXXpSdg" frameborder="0" allowfullscreen></iframe></div>
 
 ### Genga
-Genga means tie-down drawings or raw keyframes, drawn by genga artists. The drawn genga goes though a multi-step process.
 
-![](/diagram/genga.svg)
+![Genga workflow](/diagram/genga.svg)
+
+Genga means tie-down drawings or raw keyframes, drawn by genga artists. The drawn genga goes though a multi-step process.
 
 Genga generally goes for important details of a scene. It can be just the character (or part of the character) or the character and their surrounding if the character is interacting with it. Genga doesn't generally include frame in-betweens, so it will be rough in motion by nature.
 
@@ -121,19 +127,9 @@ We tried to really simplify the process. For more details, check out [**Dong Cha
 More cleaned up frames, done by key animators. Dougas are way more completed and have more shading in general. The final animation looks pretty close to douga. In-betweens are also added in this step. Sometime, genga and douga can look pretty close depending on the artist.
 
 
-::: details Anime Production Process
-
-<div class="video_wrapper"><iframe src="https://www.youtube.com/embed/D0tux0QoeUE" frameborder="0" allowfullscreen></iframe></div>
-
-![Edited version of flowchart by Dong Chang](/diagram/anipro.svg)
-
-Mentioned [Kikakusho / Pitch package](https://wiki.evageeks.org/Resources:Neon_Genesis_Evangelion_Proposal_(Translation)#Page_2_(Synopsis_and_Staff)) of Neon Genesis Evangelion.
-
-:::
-
-![](/diagram/anifile.svg)
-
 ## File Naming
+
+![Anime file name sections](/diagram/anifile.svg)
 
 ### Release group
 The individual or team behind the release, also called Encoder in the case of encodes. Example: SubsPlease, Erai-raws, EMBER, Yameii, etc. Sometimes, the release group name is mentioned at the end.

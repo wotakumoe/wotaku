@@ -169,9 +169,9 @@ ___
 Was originally published on a web platform. The platform can be free(twitter, pixiv etc) or paid (Comico, comic-walker etc.). Example: [ReLife](https://mangadex.org/title/6e3553b9-ddb5-4d37-b7a3-99998044774e/relife) ([comico](https://www.comico.jp/comic/23)) & [A Story About Smoking at the Back of the Supermarket](https://mangadex.org/title/baa95345-24fb-47a9-83e9-434ff671f968/super-no-ura-de-yani-suu-hanashi) ([twitter](https://x.com/jinusi822))
 
 
-![](/diagram/scan.svg)
-
 ## Scanlation
+
+![Scanlation](/diagram/scan.svg)
 
 ### Scanlator
 A group that fan translate a manga/manhwa/manhua. The group takes the raw file and translates the whole manga (including dialogue, sfx & other forms of text). Also, sometimes the [wordplays](https://psychology.fandom.com/wiki/Japanese_wordplay) & cultural references provided in that chapter are explained in the credit section.
@@ -233,9 +233,9 @@ If it's due to artist or publisher's side, it's not really fixable without redra
 - Reading a version downscaled by a third party (aggregators or nyaa uploads with "SD" tag) or manually downscaling them
 - Or using a higher resolution and/or bigger display
 
-
-![](/diagram/manfile.svg)
 ## File Naming
+
+![Manga file name sections](/diagram/manfile.svg)
 
 ### Publisher
 The publisher can be mainly two types.
