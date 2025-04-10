@@ -100,7 +100,7 @@ Wotaku fetches icons using [**Iconfiy**](https://iconify.design/). To get the ic
 Most used icons have been shortened using Alias. You can find them in [sheet](#sheet). They work in-line, not inside button. You have to use the traditional method.
 :::
 
-![](/iconname.png)
+![icon name section](/diagram/icon.svg)
 
 ::: info Twitter emoji
 Twitter emoji is the default iconpack for wotaku. For twemoji, you don't have to mention twemoji. just icon name.
@@ -115,7 +115,7 @@ Twitter emoji is the default iconpack for wotaku. For twemoji, you don't have to
 
 You have to add the iconpack manually in `docs\.vitepress\configs\emoji.ts`. Otherwise it wont work. Follow the already added ones as example.
 
-![URL entry convention](/conv.svg)
+![URL entry convention](/diagram/convo.svg)
 
 ### Rules
 1. Follow the order of the tabs in [**sheet**](#sheet)
@@ -126,8 +126,6 @@ You have to add the iconpack manually in `docs\.vitepress\configs\emoji.ts`. Oth
 6. Unlike icons, there will be space between buttons (so that it is easy to click).
 7. If there is an icon for that button (example: GitHub), use [icon](URL). Otherwise normal button.
 8. Tooltip will always be at the end.
-
-**Example**: [Anisong Database](https://anisongdb.com/) :win::app::web: [:gh:](https://github.com/xSardine/AMQ-Artists-DB) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" />==demo==
 
 ::: tip Adding tooltips
 To learn, how to add tooltips, [click here](#tooltip).
@@ -237,7 +235,7 @@ To learn, how to add tooltips, [click here](#tooltip).
 Tooltip is used to give extra information. The information should be precise. No need of stating something obvious. Tooltip has two components. The key will be beside the URL in the markdown file and key data will be in  `docs\.vitepress\configs\markdown\index.ts`. The key is case-sensitive.
 
 
-```
+```ts
 // Single line
 
 key: { content: "markdown" }
@@ -262,23 +260,8 @@ multiline: {
 
 ```
 
-## Frontmatter
+## Front matter
 
-For every markdown page, you have to add frontmatter. Otherwise, the build will fail.
-
-```
-title: Non-English
-description: Otaku resources for other regions
-customDescription: Discover anime, manga, and other related content for all the languages.
-outline: 2
-og:
-    image: https://files.catbox.moe/9wi4ma.png
-```
-
-| Variables         | Description |
-|-------------------|-------------|
-| `title`           | Sets the title of the homepage and is also used for Open Graph (OG) embeds when sharing links. |
-| `description`     | Defines the OG description, though it is currently unused. It also works as a description for link embeds unless `customDescription` is specified. |
-| `customDescription` | Overrides the default OG description, providing a custom description for link embeds. |
-| `outline`        | Determines the header levels shown in the outline. The default is `2`, but you can specify a range, e.g., `[2,3]`, to include multiple levels. |
-| `og`             | Specifies a custom image for the OG link embed. By default, it uses the image set in `docs\.vitepress\configs\hooks\opengraph.ts`. If a custom OG image is needed for a specific page, it should be added in the front matter. The required resolution is `1800x900`. |
+::: tip Moved
+Check the front matter description [**here**](https://rentry.org/wotakufm).
+:::
