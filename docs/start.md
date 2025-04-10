@@ -260,6 +260,12 @@ multiline: {
 
 ```
 
+There is also ^[inline tooltips](just like this). For this, you don't have to put them in index file.
+
+```md
+^[inline tooltips](just like this)
+```
+
 ## Front matter
 
 ::: tip Moved
