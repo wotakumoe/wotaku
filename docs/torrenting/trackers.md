@@ -29,6 +29,7 @@ og:
 | General     | [AnimeBytes](https://animebytes.tv/)                                     |
 | ^^          | [BakaBT](https://bakabt.me/)                                             |
 | Anime       | [AnimeZ](https://animetorrents.me/) [:d:](https://discord.gg/GYahYNWutE) |
+| ^^          | [Oldtoons](https://oldtoons.world/)                                      |
 | ^^          | [U2](https://u2.dmhy.org/portal.php)                                     |
 | Books       | [MyAnonamouse](https://myanonamouse.net/)                                |
 | Games       | [Gazelle Games](https://gazellegames.net/login.php)                      |
