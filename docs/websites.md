@@ -28,7 +28,7 @@ outline: 1
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :mingcute-server-fill: | :mingcute-user-2-fill: |
 | [AnimeKai](https://animekai.to/home) <Badge type="tip" text="2" link="https://animekai.bz/home" /> ==AnimeKai== | :mingcute-server-fill: | :mingcute-refresh-2-fill: :mingcute-user-2-fill: |
 | [KickAssAnime](https://kaa.mx/) ==KAA== | :mingcute-server-fill: :mingcute-shovel-fill: | :mingcute-user-2-fill: |
-| [HiAnime](https://hianime.to/home) [:prx:](https://hianime.tv/) ==Zoro== | :mingcute-server-fill: | :mingcute-user-2-fill: |
+| [HiAnime](https://hianimez.to/home) [:prx:](https://hianime.tv/) ==Zoro== | :mingcute-server-fill: | :mingcute-user-2-fill: |
 | [Hikari](https://watch.hikaritv.xyz/) ==Hikari== | :mingcute-server-fill: | :mingcute-user-2-fill: |
 | [Sudatchi](https://sudatchi.com/) ==Sudatchi== | :mingcute-server-fill: | :mingcute-refresh-2-fill: |
 | [AniZone](https://anizone.to/) ==AniZone== | :mingcute-server-fill: | :no: |

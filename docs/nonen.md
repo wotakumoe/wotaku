@@ -22,7 +22,7 @@ If you have recommendations for good sites in your native language or want to re
 ### Anime
 - [Anime Nexus](https://anime.nexus/)
 - [AnimeStream](https://anime.uniquestream.net/)
-- [HiAnime](https://hianime.to/home)
+- [HiAnime](https://hianimez.to/home)
 - [Hikari](https://hikari.gg/) <Badge type="tip" text="2" link="https://watch.hikaritv.xyz/" />
 - [KickAssAnime](https://kaa.mx/)
 - [Sudatchi](https://sudatchi.com/)
