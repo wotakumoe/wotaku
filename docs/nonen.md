@@ -99,6 +99,7 @@ If you have recommendations for good sites in your native language or want to re
 
 - **Stream**
   - [AGE](https://www.agedm.org/)
+  - [AniCh](https://anich.emmmm.eu.org/) [:gh:](https://github.com/Sle2p/AniCh)
   - [Bimibimi](http://www.bimiacg10.net/)
   - [CC](https://ccdm.cc/)
   - [ddys](https://ddys.art/category/anime/)
