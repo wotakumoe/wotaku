@@ -134,6 +134,7 @@ og:
 | ^^        | [Pixiv](https://play.google.com/store/apps/details?id=jp.pxv.android) :cs: |
 | ^^        | [PixiView](https://github.com/matsumo0922/PixiView-KMP) <Badge type="info" text="Fanbox" /> |
 | **Others** | [Wallflow](https://github.com/ammargitham/WallFlow) |
+| ^^        | [Piko/twitter](https://github.com/crimera/piko) <Badge type="info" text="APK" link="https://github.com/crimera/twitter-apk"/>
 | ^^        | [RWalls](https://github.com/meh430/RWalls) |
 | ^^        | [Pixiv for Muzei 3](https://github.com/yellowbluesky/PixivforMuzei3) |
 
