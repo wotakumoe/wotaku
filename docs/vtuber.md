@@ -201,27 +201,47 @@ og:
 [David Wu's list](https://softdevwu.dev/hologames/) has more fangames.
 :::
 
-## Others
+## Animation
 
-### Animation
-
-#### Official
+### Official
 - [Holo Graffiti](https://www.youtube.com/playlist?list=PL1NeGg1woXqngQytLzL8lJJLYwmzk1Wuq)
 - [holoEN3DRepeat](https://www.youtube.com/playlist?list=PLC77BeCZrRsGj_gC71PgsRCn0CnPzdrmH)
 - [Giri-giri warukunai Watame](https://www.youtube.com/playlist?list=PLZ34fLWik_iASrR26p_41rirqp8GkPAr_)
 
-#### Fan-made
+### Fan-made
 
-| Channel | Style | Group |
-|---------|-------|-------|
-| [2ManySnacks](https://www.youtube.com/@2ManySnacks) :s: | 2D | Hololive |
-| [Aka Mushi](https://www.youtube.com/@akamushi3d) | 3D | Hololive |
-| [ChegiCH](https://www.youtube.com/@chegichannel/) | 3D | Hololive |
-| [H and Mr.H](https://www.youtube.com/@HandMrH) | 2D | General |
-| [Kanauru](https://www.youtube.com/@kanauru) :s: | 3D | General |
-| [meuol](https://www.youtube.com/@meuol) | 2D | Hololive |
-| [Moonia](https://www.youtube.com/@BloodyMoonia/) | 2D | Hololive |
-| [Reiruka れいるか](https://www.youtube.com/@reiruka/) | 2D | Hololive |
-| [Terrible Joe](https://www.youtube.com/@TerribleJhoe) | 3D | Hololive |
-| [tives](https://www.youtube.com/@tivetives/) | 3D | Hololive |
-| [とりぷる / Tripl3](https://www.youtube.com/@Tripl3jp) <Badge type="tip" text="EN Sub" link="https://www.youtube.com/@Tripl3en" /> | 2D | Hololive |
+#### 2D
+- [2ManySnacks](https://www.youtube.com/@2ManySnacks) :s:
+- [Chroneco](https://www.youtube.com/@chrone_co/) <Badge type="warning" text="Inactive"/>
+- [H and Mr.H](https://www.youtube.com/@HandMrH)
+- [Mazumaro](https://www.youtube.com/@mazumaro/) <Badge type="warning" text="Inactive"/>
+- [meuol](https://www.youtube.com/@meuol)
+- [Moonia](https://www.youtube.com/@BloodyMoonia/)
+- [Reiruka れいるか](https://www.youtube.com/@reiruka/)
+
+<hr>
+
+#### Clip focused
+- [9am](https://www.youtube.com/@9amKR/) <Badge type="warning" text="Inactive"/> <Badge type="tip" text="EN" link="https://www.youtube.com/@9amEN/" />
+- [Coomfus](https://www.youtube.com/@Coomfus/) <Badge type="warning" text="Inactive"/>
+- [FuwaFuwa](https://www.youtube.com/@fuwafuwa_35/)
+- [カイ / Kai](https://www.youtube.com/@%E3%82%AB%E3%82%A4-w3d) <Badge type="tip" text="EN" link="https://www.youtube.com/@kai_en8684/" />
+- [くまいゆうき / Kamai Yuki](https://www.youtube.com/@kumayuki55) <Badge type="tip" text="EN" link="https://www.youtube.com/@KumaiYuki_EN/" />
+- [Khelly](https://www.youtube.com/@Khelly_Ch/)
+- [もものふ&あおつき / momonofu & aotuki](https://www.youtube.com/@momonofuaotuki/) <Badge type="tip" text="EN" link="https://www.youtube.com/@momonofuen1427/" />
+- [noeee](https://www.youtube.com/@noeee/)
+- [Riri Zpt](https://www.youtube.com/@RiriZhepelton/)
+- [てりたま / Teritama](https://www.youtube.com/@%E3%81%A6%E3%82%8A%E3%81%9F%E3%81%BE-k1s) <Badge type="tip" text="EN" link="" />
+- [とりぷる / Tripl3](https://www.youtube.com/@Tripl3jp) <Badge type="tip" text="EN" link="https://www.youtube.com/@Tripl3en" />
+- [やんのか / Yan_noka](https://www.youtube.com/@yan_noka) <Badge type="tip" text="EN" link="https://www.youtube.com/@yan_noka_en/" />
+
+<hr>
+
+#### 3D
+- [Aka Mushi](https://www.youtube.com/@akamushi3d)
+- [cbo](https://www.youtube.com/@cbo_ch/) <Badge type="warning" text="Inactive"/>
+- [ChegiCH](https://www.youtube.com/@chegichannel/)
+- [Crash Landing Studios](https://www.youtube.com/@CrashLandingStudio/) :s:
+- [Kanauru](https://www.youtube.com/@kanauru) :s:
+- [Terrible Joe](https://www.youtube.com/@TerribleJhoe)
+- [tives](https://www.youtube.com/@tivetives/)
