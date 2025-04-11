@@ -154,6 +154,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
   - [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta) [:e:](/guides/ext/mihon)
 - **E-Hentai**
   - [EhViewer-FooIbar](https://github.com/FooIbar/EhViewer)
+  - [EhViewer-UjuiUjuMandan](https://github.com/UjuiUjuMandan/EhViewer)
   - [EhViewer-NekoInverter](https://github.com/EhViewer-NekoInverter/EhViewer)
   - [ErosFE](https://github.com/3003h/Eros-FE)
   - [JHenTai](https://github.com/jiangtian616/JHenTai)
