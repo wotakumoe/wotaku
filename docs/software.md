@@ -117,6 +117,32 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 - [Trace.moe](https://github.com/localhostov/trace.moe-app)
 - [Tachisync](https://github.com/axiel7/Tachisync) <Badge type="info" text="Needs PC" />
 
+![](/banner/ereader.webp)
+
+<br>
+
+# E-reader
+
+## Reader
+- **Linux based**
+  - [KOReader](https://koreader.rocks/)
+  - [rakuyomi](https://github.com/hanatsumi/rakuyomi) [:e:](/guides/ext/ios#aidoku)
+- :more: [**Android based**](#manga-readers)
+
+## Tools
+
+| Category | Software | Platform |
+|-|-|-|
+| General    | [Calibre](https://calibre-ebook.com/) :s: [:gh:](https://github.com/kovidgoyal/calibre) | :win::app::lin: |
+| Conversion | [Kindle Comic Converter](https://github.com/ciromattia/kcc)                         | :win::app::lin::mdi-docker: |
+| Transfer   | [send2ereader](https://github.com/daniel-j/send2ereader)                            | :win::app::lin::mdi-docker: |
+| ^^         | [Send to Kindle](https://www.amazon.com/sendtokindle)                               | :web::win::app::lin: |
+- :more: [Manga tools](#manga-tools)
+
+::: tip Extra
+- [Kindle Modding Wiki](https://kindlemodding.org/)
+:::
+
 ![](/banner/ios.webp)
 
 # iOS
@@ -350,10 +376,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 ## eBook Tools
 - [Calibre](https://calibre-ebook.com/) :win::app::lin: [:gh:](https://github.com/kovidgoyal/calibre)
-- [Kindle Comic Converter](https://github.com/ciromattia/kcc) :win::app::lin::mdi-docker:
-- [KOReader](https://koreader.rocks/) :lin::material-symbols-chrome-reader-mode-outline:
 - [Libation](https://getlibation.com/) :win::app::lin: [:gh:](https://github.com/rmcrackan/Libation)
-- [Send to Kindle](https://www.amazon.com/sendtokindle) :web::win::app::lin:
 - [Sigil-Ebook](https://sigil-ebook.com/) :win::app: [:gh:](https://github.com/Sigil-Ebook)
 
 
@@ -448,4 +471,3 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 :::danger Don't use MTL
 Using Machine Translation to translate manga will be a mess. Manga has lots of slang, cultural references, and visual elements that MTL won't understand. So, it's better to have a human translator who knows the language and culture well. You don't want to end up with a wonky or inaccurate translation!
 :::
-
