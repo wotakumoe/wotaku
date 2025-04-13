@@ -109,7 +109,7 @@ ___
 - [Textbender](https://github.com/fruitports/android-textbender)
 - [Vocal Pitch Monitor](https://play.google.com/store/apps/details?id=com.tadaoyamaoka.vocalpitchmonitor)
 ___
-#### Apple
+#### iOS
 - [Japanese](https://apps.apple.com/us/app/japanese/id290664053)
 - [Learn Japanese! - Kanji](https://apps.apple.com/us/app/learn-japanese-kanji/id1078107994)
 - [KankenToNews](https://apps.apple.com/us/app/kankentonews/id1449966937)
@@ -127,7 +127,7 @@ ___
 - [Satori Reader](https://play.google.com/store/apps/details?id=com.braksoftware.SatoriReader) [:web:](https://www.satorireader.com/)
 - [Write It! Japanese](https://play.google.com/store/apps/details?id=com.jernung.writeit.jpn)
 ___
-#### Apple
+#### iOS
 - [Easy Japanese](https://apps.apple.com/us/app/easy-japanese-news-%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/id1107177166) [:web:](https://easyjapanese.net/)
 - [Immersion Reader](https://reader.immersionkit.com/)
 - [Manabi Reader](https://reader.manabi.io/)
