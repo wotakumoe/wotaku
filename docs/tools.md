@@ -203,7 +203,9 @@ og:
 | **MKV Tools**     | [MKVToolNix](https://mkvtoolnix.download/) :win::app::lin::bsd: |  
 | ^^               | [MKV Extract](https://qgustavor.github.io/mkv-extract/en/) :web: [:gh:](https://github.com/qgustavor/mkv-extract/) |  
 | **Sync**          | [alass](https://github.com/kaegi/alass) :win::lin: |  
+| ^^               | [AutoSubSync](https://github.com/denizsafak/AutoSubSync) :win::app::lin: |
 | ^^               | [FFsubsync](https://github.com/smacke/ffsubsync) :win::app::lin: |  
+| ^^               | [Sushi](https://github.com/tp7/Sushi) :win::app::lin::cmd: |
 | ^^               | [Sushi.net](https://github.com/maxpiva/Sushi.Net) :win::app::lin: |  
 | **Other**         | [mpvQC](https://mpvqc.github.io/) [:gh:](https://github.com/mpvqc/mpvQC) :win: |  
 | ^^               | [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) :win::app::lin: |
