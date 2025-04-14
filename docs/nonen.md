@@ -329,11 +329,11 @@ If you have recommendations for good sites in your native language or want to re
 
 ### Manga
 - [Komiku](https://komiku.id/)
-- [Komikcast](https://komikcast.bz/)
-- [Komik Indo](https://komikindo2.com/)
+- [Komikcast](https://komikcast02.com/)
+- [Komik Indo](https://komikindo3.com/)
 - [Cuymanga](http://cuymanga.infy.uk/) [:gh:](https://github.com/whyudacok/Cuymanga)
-- [MGKOMIK](https://mgkomik.id/)
-- [Shinigami ID](https://shinigami08.com/)
+- [MGKOMIK](https://mgkomik.org/)
+- [Shinigami ID](https://id.shinigami.asia/)
 - [YuuManga](https://yuumanga.blogspot.com/)
 
 ### Light Novels
