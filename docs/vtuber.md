@@ -226,6 +226,7 @@ og:
 #### Clip focused
 - [9am](https://www.youtube.com/@9amKR/) <Badge type="warning" text="Inactive"/> <Badge type="tip" text="EN" link="https://www.youtube.com/@9amEN/" />
 - [Coomfus](https://www.youtube.com/@Coomfus/) <Badge type="warning" text="Inactive"/>
+- [エビフライ / Ebihurai](https://www.youtube.com/@Ebihuraii) <Badge type="tip" text="EN" link="https://www.youtube.com/@EbihuraiIEN" />
 - [FuwaFuwa](https://www.youtube.com/@fuwafuwa_35/)
 - [カイ / Kai](https://www.youtube.com/@%E3%82%AB%E3%82%A4-w3d) <Badge type="tip" text="EN" link="https://www.youtube.com/@kai_en8684/" />
 - [くまいゆうき / Kamai Yuki](https://www.youtube.com/@kumayuki55) <Badge type="tip" text="EN" link="https://www.youtube.com/@KumaiYuki_EN/" />
