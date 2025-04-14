@@ -87,6 +87,7 @@ If you're knowledgeable in Japanese, consider contributing to the wiki. We could
 - [Proverb encyclopedia](https://proverb-encyclopedia.com/)
 
 ### Dictionary
+- [Etymology encyclopedia](https://etymology-encyclopedia.com/)
 - [ichi.moe](https://ichi.moe/)
 - [JapanDict](https://www.japandict.com/)
 - [Japanese KANJI Names Dictionary](https://kanji.reader.bz/en/)
