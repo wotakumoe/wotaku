@@ -29,8 +29,26 @@ og:
 | Seinen | 19-40+ | Men |
 | Josei | ^^ | Women |
 
-Demography refers to the target audience for a piece of content. Studios and publishers need to market their content towards that specific audience, but it does not mean that only one demographic will enjoy the show. Additionally, many anime/manga incorporate elements that appeal to various demographics.
+Demography refers to the target audience for a work. While studios / publisher market content toward this group, it can still appeal to multiple demographics, as many anime and manga include elements for a broad audience.
 
+| Publisher    | Magazine                  | Demography | Notable Manga               |
+|--------------|---------------------------|------------|----------------------------------|
+| Shueisha     | Weekly Shounen Jump       | Shounen    | One Piece             |
+| ^^           | Ribon                     | Shoujo     | Honey Lemon Soda |
+| ^^           | Weekly Young Jump         | Seinen     | Gantz |
+| ^^           | Cocohana (ex-Young You)   | Josei | Honey and Clover |
+| Shogakukan   | CoroCoro Comic            | Kodomo     | Doraemon |
+| ^^           | Weekly Shounen Sunday     | Shounen    | Frieren |
+| ^^           | Ciao                      | Shoujo     | Kirarin Revolution |
+| ^^           | Big Comic Spirits         | Seinen     | 21st Century Boys |
+| ^^           | Flowers                   | Josei      | 7SEEDS |
+| Kodansha     | Weekly Shounen Magazine   | Shounen    | Attack on Titan |
+| ^^           | Nakayoshi                 | Shoujo     | Sailor Moon |
+| ^^           | Weekly Young Magazine     | Seinen     | Akira |
+| ^^           | Be-Love                   | Josei      | Nina the Starry Bride |
+| Square Enix  | Monthly Shounen Gangan    | Shounen    | Fullmetal Alchemist |
+| ^^           | Young Gangan              | Seinen     | My Dress-Up Darling |
+[Popular publishers, their magazines, target audiences, and key manga titles]
 
 ## Genre
 
