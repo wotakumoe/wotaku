@@ -85,9 +85,10 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 | **Anime** | [Anime-DB](https://anime.dbsearch.net/) :fjp: |
 | ^^        | [Blu-ray.com](https://www.blu-ray.com/) |
 | ^^        | [Upcoming English Dubbed Releases](https://english-dubbed.com/anime-releases/upcoming-english-dubbed-release-dates/) |
-| **Figures** | [Figgy](https://www.figgy.jp/) :fjp: |
-| ^^        | [Figsoku](https://figsoku.net/) :fjp: |
-| ^^        | [Fig-memo R18](https://fig-memo-r18.site/) :fjp: <Badge type="danger" text="18+" /> |
+| **Figures** | [Figgy](https://www.figgy.jp/) :fjp: <Badge text="General" /> |
+| ^^        | [Figgy Adult](https://adult.figgy.jp/) :fjp: <Badge text="Bishoujo" /> <Badge type="danger" text="18+" /> |
+| ^^        | [Figsoku](https://figsoku.net/) :fjp: <Badge text="General" /> |
+| ^^        | [Fig-memo R18](https://fig-memo-r18.site/) :fjp: <Badge text="Bishoujo" /> <Badge type="danger" text="18+" /> |
 | ^^        | [Gundam Kits Collection](https://www.gundamkitscollection.com/) |
 | ^^        | [Gunjap](https://www.gunjap.net/) |
 | **Others** | [Buying visual novels](https://old.reddit.com/r/visualnovels/wiki/buy) |
