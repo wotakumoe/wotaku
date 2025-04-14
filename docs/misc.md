@@ -288,6 +288,7 @@ ___
 - [Anime Bath Scene Wiki](https://animebathscenewiki.com/index.php?title=Main_Page)
 - [HUNTER×HUNTER Hiatus Chart](https://hiatus-hiatus.github.io/)
 - [Inazuma](https://inazuma.rl404.com/) [:gh:](https://github.com/rl404/inazuma)
+- [One Piece Wanted Poster Maker](https://yuskawu.github.io/one-piece-wanted-poster/dist/) [:gh:](https://github.com/YuskaWu/one-piece-wanted-poster)
 - [TV Tropes](https://tvtropes.org/)
 - [Vagabond Hiatus Chart](https://vagabond-hiatus-chart.vercel.app/) [:gh:](https://github.com/falsepopsky/vagabond-hiatus-chart)
 - [Wired Sound For Wired People](https://fauux.neocities.org/)
