@@ -171,6 +171,7 @@ og:
 |------------------------------------------------------------|--------|--------------------|--------|-----|
 | [Hololive Councilrys RPG](https://kebbie.itch.io/councilrysrpg) | Free   | Hololive Promise  | Kebbie | Kebbie |
 | [デュエホロ (DUEHOLO)](https://store.steampowered.com/app/2996280/_DUEHOLO/) | $2.49  | Hololive JP       | テイク  | holo Indie |
+| [ぷちホロの村 (Puchi Holo no Mura)](https://x.com/holovillage) | - | Hololive | Holo village team | holo Indie |
 | [Submerged Mystery: Takodachi](https://velveteenio.itch.io/submerged-mystery-takodachi) | Free   | Ninomae Ina'Nis  | Velveteen  | Velveteen |
 
 ### Tower Defence
@@ -179,6 +180,7 @@ og:
 |--------------------------------------------------------|--------|---------------|----------------|-----|
 | [HOLOSAGA](http://store.steampowered.com/app/2899450/HOLOSAGA_Invasion_of_the_HoloX/) | Free   | Hololive     | Team SEONGWON  | holo Indie |
 | [HoloParade](https://store.steampowered.com/app/2647230/HoloParade/) | $2.99  | Hololive     | RoboqloLab     | holo Indie |
+| [Holo vs Robo](https://x.com/pompmaker1) | - | Hololive | Pompmaker1 | Pompmaker1 |
 | [Miko Sniper](https://store.steampowered.com/app/2971440/Miko_Sniper/) | $2.49  | Sakura Miko   | さめ Games     | holo Indie |
 
 ### Visual Novel
