@@ -45,7 +45,7 @@ og:
 - [E-Hentai](https://e-hentai.org/) :s: <Badge type="tip" text="Search Guide" link="https://e-hentaitagsearch.blogspot.com/" /> ==EHentai==
 - [nHentai](https://nhentai.net/) ==nHentai==
 - [Akuma](https://akuma.moe/) ==Akuma==
-- [IMHentai](https://imhentai.xxx/) ==IMHentai==
+- [IMHentai](https://imhentai.xxx/) [:prx:](https://rentry.org/wotaxy#imhentai) ==IMHentai==
 - [Hitomi](https://hitomi.la/) ==Hitomi==
 - [Panda Backup](https://panda.chaika.moe/) ==PandaBackup==
 - [SchaleNetwork](https://schale.network/) :s: [:prx:](https://rentry.org/schalenet) ==SchaleNetwork==
