@@ -34,6 +34,8 @@ import Field from './CardField.vue'
     <Field icon="i-material-symbols-science">Nightly build</Field>
     <Field icon="i-lucide-mail">Feedback</Field>
     <Field icon="i-material-symbols-directions-alt">Proxies</Field>
+    <Field icon="i-material-symbols-help">Help / Docs</Field>
+    <Field icon="i-material-symbols-person-add">Needs account</Field>
     <Field icon="i-material-symbols-info-outline-rounded">More Info</Field>
     <Field icon="i-mdi-arrow-right-bold">Related</Field>
   </div>

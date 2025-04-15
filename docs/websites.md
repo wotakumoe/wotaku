@@ -242,7 +242,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 
 | Category      | Website |
 |--------------|----------------------------------------------------------------------------------|
-| **Aggregators** | [Madokami](https://manga.madokami.al) :s: <Badge type="info" text="Guide" link="/guides/manga/madokami" /> |
+| **Aggregators** | [Madokami](https://manga.madokami.al) :s: [:help:](/guides/manga/madokami) |
 | ^^           | [Anna's Archive](https://annas-archive.org/) [:prx:](https://rentry.org/wotaxy#annas-archive) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" /> |
 | ^^           | [Desuarchive](https://desuarchive.org/) :f: <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" /> |
 | ^^           | [Library Genesis+](https://libgen.gs/) [:prx:](https://rentry.org/wotaxy#library-genesis) |

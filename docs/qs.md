@@ -51,7 +51,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | ^^         | [MangaDex](https://mangadex.org/) |
 | ^^         | [Weeb Central](https://weebcentral.com/) |
 | **Download**  | [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap) |
-| ^^         | [Madokami](https://manga.madokami.al) :s: [:material-symbols-help:](/guides/manga/madokami) |
+| ^^         | [Madokami](https://manga.madokami.al) :s: [:help:](/guides/manga/madokami) |
 | ^^         | [Library Genesis+](https://libgen.gs/) [:prx:](https://rentry.org/wotaxy#library-genesis) |
 
 ### Software
@@ -151,8 +151,8 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | ^^                 | [Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader) :cs: | :win::lin:       |
 | **Direct**         | [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) :cs: | :and:               |
 | ^^                 | [LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) | :and:                   |
-| ^^                 | [IDM](https://www.internetdownloadmanager.com/)  :cs:  [:material-symbols-help:](https://rentry.org/installidm)    | :win::paid:         |
-| ^^                 | [JDL 2](https://jdownloader.org/) :cs:     [:material-symbols-help:](/guides/tech/jdl)                | :win::app::lin:     |
+| ^^                 | [IDM](https://www.internetdownloadmanager.com/)  :cs:  [:help:](https://rentry.org/installidm)    | :win::paid:         |
+| ^^                 | [JDL 2](https://jdownloader.org/) :cs:     [:help:](/guides/tech/jdl)                | :win::app::lin:     |
 | **Torrent**        | [libretorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) | :and:                   |
 | ^^                 | [qBittorrent](https://www.qbittorrent.org/)                          | :win::app::lin:         |
 | ^^                 | [Transmission](https://transmissionbt.com/)                         | :win::app::lin:         |

@@ -114,6 +114,7 @@ const aliases: Record<string, string> = {
   js: 'simple-icons-javascript',
   css: 'mdi-format-paint',
   more: 'mdi-arrow-right-bold',
+  help: 'material-symbols-help',
   yes: 'twemoji-check-mark-button',
   no: 'twemoji-cross-mark',
   global: 'twemoji-globe-showing-asia-australia'

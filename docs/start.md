@@ -223,6 +223,7 @@ To learn, how to add tooltips, [click here](#tooltip).
 | :js: | `:js:` | JavaScript |
 | :css: | `:css:` | CSS |
 | :more: | `:more:` | Related resources |
+| :help: | `:help:` | Help / Docs |
 | :yes: | `:yes:` | Supported |
 | :no: | `:no:` | Not supported |
 | :global: | `:global:` | Multilingual |
