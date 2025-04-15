@@ -367,6 +367,7 @@ const tooltips: {
   mguru: { content: 'Another instance of Cubari maintained by different people. Not much maintained. Scrapes MangaDex and Manga Katana' },
   akari: { content: 'Scrapes MangaKakalot.' },
   mhaven: { content: 'Scrapes MangaFire.' },
+  komik: {content: 'Mostly up to the artist. Some of them are R2L too.'}
 }
 
 export function configureMarkdown(md: MarkdownRenderer) {

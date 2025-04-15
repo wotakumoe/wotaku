@@ -47,9 +47,13 @@ In the sfx image you can see the parallel lines at the tops. These are symbols; 
 
 ### General
 
-| Type      | Manga         | Manhwa        | Manhua     { class="compact" }   |
-|:---------:|:-------------:|:-------------:|:-------------:|
-| Direction | Right to Left | Left to Right | Left to Right |
+| Direction | Type |
+|-|-|
+| Right to Left (R2L) | Manga  |
+| ^^				  | Manfra |
+| Left to Right (L2R) | Manhwa |
+| ^^				  | Manhua |
+| ^^				  | Komik ==komik==  |
 
 The usual reading direction for manga is right to left, whereas manhwa and manhua are read left to right (like standard comics). In the case of manga, the individual panels are read right to left and top to bottom, then top again upon reaching the next page.
 
