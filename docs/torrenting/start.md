@@ -62,7 +62,7 @@ For this guide, we will use [**qBittorrent**](https://www.qbittorrent.org/) `v5.
 
 ::: details Basic UI guide
 
-![](/torrenting/0.webp)
+![](/torrenting/start/0.png)
 
 The columns are customizable. You can rearrange them, adjust width or choose which ones to keep (by right clicking on them).
 
@@ -101,7 +101,7 @@ Default dark mode of qBittorrent is just too ugly. So we are using a custom them
 2. Select your downloaded ICEBERG.qbtheme from File explorer
 3. Press Apply and restart qBittorrent
 
-![](/torrenting/100.webp)
+![](/torrenting/start/100.png)
 
 :::
 
@@ -114,11 +114,11 @@ Default dark mode of qBittorrent is just too ugly. So we are using a custom them
 2. Choose your torrent client (if it's your first time).
 3. It will open a pop-up window in qBittorent. Client will retrieve all the metadata and then show all the files and folders, where to download them, and other settings. After adjusting everything, click **OK**.
 
-![](/torrenting/mag1.webp)
+![](/torrenting/mag1.png)
 
-![](/torrenting/mag2.webp)
+![](/torrenting/mag2.png)
 
-![](/torrenting/mag3.webp)
+![](/torrenting/mag3.png)
 
 == .torrent File
 
@@ -127,11 +127,11 @@ Default dark mode of qBittorrent is just too ugly. So we are using a custom them
 3. Choose your torrent client (if it's your first time).
 4. It will open a pop-up window in qBittorent. It will show all the files and folders, where to download them, and other settings. After adjusting everything, click **OK**.
 
-![](/torrenting/tor1.webp)
+![](/torrenting/tor1.png)
 
-![](/torrenting/tor2.webp)
+![](/torrenting/tor2.png)
 
-![](/torrenting/tor3.webp)
+![](/torrenting/tor3.png)
 :::
 
 ## Android guide
@@ -146,11 +146,11 @@ For this guide, we are using [LibreTorrent](https://play.google.com/store/apps/d
 2. Choose your torrent client (if it's your first time).
 3. It will open a pop-up window in LibreTorrent. It will show file count and download location. After adjusting everything, click ":material-symbols-check:".
 
-![](/torrenting/lib1.webp)
+![](/torrenting/lib1.png)
 
-![](/torrenting/lib2.webp)
+![](/torrenting/lib2.png)
 
-![](/torrenting/lib3.webp)
+![](/torrenting/lib3.png)
 
 == .torrent File
 
@@ -159,13 +159,13 @@ For this guide, we are using [LibreTorrent](https://play.google.com/store/apps/d
 3. Choose your torrent client (if it's your first time).
 4. It will open a pop-up window in qBittorent. It will show file count and download location. After adjusting everything, click ":material-symbols-check:".
 
-![](/torrenting/lib4.webp)
+![](/torrenting/lib4.png)
 
-![](/torrenting/lib5.webp)
+![](/torrenting/lib5.png)
 
-![](/torrenting/lib6.webp)
+![](/torrenting/lib6.png)
 
-![](/torrenting/lib7.webp)
+![](/torrenting/lib7.png)
 :::
 
 ## iOS guide
@@ -180,11 +180,11 @@ For this guide, we will use [iTorrent](https://github.com/XITRIX/iTorrent). *Not
 2. Click **Open** when it asks "Open in iTorrent?"
 3. It will start downloading automatically.
 
-![](/torrenting/ipad1.webp)
+![](/torrenting/ipad1.jpg)
 
-![](/torrenting/ipad2.webp)
+![](/torrenting/ipad2.jpg)
 
-![](/torrenting/ipad3.webp)
+![](/torrenting/ipad3.jpg)
 
 == .torrent file
 
@@ -192,10 +192,10 @@ For this guide, we will use [iTorrent](https://github.com/XITRIX/iTorrent). *Not
 2. Then it will ask "Open in iTorrent". Click on it.
 3. It will start downloading automatically.
 
-![](/torrenting/ipad1.webp)
+![](/torrenting/ipad1.jpg)
 
-![](/torrenting/ipad4.webp)
+![](/torrenting/ipad4.jpg)
 
-![](/torrenting/ipad3.webp)
+![](/torrenting/ipad3.jpg)
 
 :::
