@@ -84,6 +84,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 - [LN Reader](https://lnreader.github.io/) [:gh:](https://github.com/LNReader/lnreader) [:e:](/guides/ext/misc/#lnreader)
 - [Quicknovel](https://github.com/LagradOst/QuickNovel)
 - [Shosetsu](https://shosetsu.app/) [:gl:](https://gitlab.com/shosetsuorg/shosetsu)
+- [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi)
 - [Dantotsu](https://dantotsuapp.netlify.app/) [:gh:](https://github.com/rebelonion/Dantotsu) [:e:](/guides/ext/misc#dantotsu)
 - [Legado](https://gedoor.github.io/) [:gh:](https://github.com/gedoor/legado) [:e:](/guides/ext/misc#legado)
 - [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha)
@@ -151,7 +152,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 <br>
 
 ::: tip Sideloading apps on Apple devices
-Check out [**CFW's iOS guide**](https://ios.cfw.guide/) & [**The Apple Wiki**](https://theapplewiki.com/wiki/Main_Page) for info and guides on jailbreaking and sideloading.
+Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.github.io/ios-sideloading/) & [**The Apple Wiki**](https://theapplewiki.com/wiki/Main_Page) for info and guides on jailbreaking and sideloading.
 :::
 
 ## Anime Streaming
@@ -188,6 +189,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 :::
 
 ## Novel Readers
+- [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi)
 - [Yomu](https://www.yomu-reader.com/) :paid::cs::lcl:
 
 ## Trackers
