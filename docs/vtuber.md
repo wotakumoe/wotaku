@@ -39,7 +39,7 @@ og:
 | ^^         | [VTuber Schedule](https://vtuberschedules.com/) [:gh:](https://github.com/clovenski/vtuber-schedules) |
 | News       | [VTuber Highlights](https://vtuber.atodeyo.com/) :fjp: |
 | ^^         | [VTuber Newsdrop](https://vtubernewsdrop.com/) |
-| ^^         | [Reincar](https://reincar.net/) |
+| ^^         | [Reincar](https://reincar.net/) :fjp: |
 | Non-English | [VTBs in Bilibili!](https://vtbs.moe/) :fcn: [:gh:](https://github.com/dd-center/vtbs.moe/) |
 | ^^          | [臺灣 VTuber 列表](https://taiwanvtuberdata.github.io/) :fcn: [:gh:](https://github.com/TaiwanVtuberData/TaiwanVtuberTrackingData) |
 | Others     | [Mogu](https://mogu.holopirates.moe/) |
@@ -58,11 +58,10 @@ og:
 | **Stats**   | [Hololive Spotify Stats](https://holo-spotify-stats.jirikunes.eu/) [:gh:](https://github.com/kunesj/holo-spotify-stats) |
 | ^^          | [Hololive Livestream Activity Statistics](https://holopro-yt-livestream-activity-statistics.streamlit.app/) [:gh:](https://github.com/risbi0/Hololive-Production-Livestream-Activity-Statistics) |
 | ^^          | [HoloChatStats](https://holochatstats.info/) [:gh:](https://github.com/mipacd/HoloChatStats) |
-| ^^          | [Hololive Zone](https://hololive.zone/) |
 | ^^          | [Holotracker](https://trackholo.live/en/) |
-| ^^          | [Holouta Songs](https://www.youtube.com/@hololivesongs9790/) |
+| ^^          | [Holouta Songs](https://www.youtube.com/@hololivesongs9790/) :fjp: |
 | **News**    | [aside's newsfeed](https://asideaside.github.io/feed/#/) [:gh:](https://github.com/asideaside/feed) |
-| ^^          | [Hololive merch information](https://merch-matome.com/) [:x:](https://x.com/hololive_goods)
+| ^^          | [Hololive merch information](https://merch-matome.com/) :fjp: [:x:](https://x.com/hololive_goods) |
 | ^^          | [hololive TODAY](https://hololivetoday.com/)  |
 | **Others**  | [Hololive Member Sorter](https://hololive.sorter.my.id/) |
 | ^^          | [Quick Reference](https://monkonius.github.io/hololive-quick-reference/) |
@@ -102,7 +101,7 @@ og:
 - [Best VTuber software](https://gist.github.com/emilianavt/cbf4d6de6f7fb01a42d4cce922795794)
 - [VTResources](https://vtresources.carrd.co/)
 - [VTuber Assets](https://discord.gg/acU3dFRtvC)
-- [Reincar VTuber Materials](https://reincar.net/sozai/)
+- [Reincar VTuber Materials](https://reincar.net/sozai/) :fjp:
 
 ## Extensions
 
