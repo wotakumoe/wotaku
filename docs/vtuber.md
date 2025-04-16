@@ -13,8 +13,9 @@ og:
 
 | Category  | Websites |
 |-----------|----------|
-| Fan Projects | [Holodex](https://holodex.net/) :s: [:gh:](https://github.com/HolodexNet/Holodex) |
-| ^^           | [Amatsukaze](https://amatsukaze.rl404.com/) [:gh:](https://github.com/rl404/amatsukaze) |
+| Alt viewer | [Holodex](https://holodex.net/) :s: [:gh:](https://github.com/HolodexNet/Holodex) |
+| ^^         | [VTGrid](https://vt-grid.com/) :fjp: |
+| ^^         | [Amatsukaze](https://amatsukaze.rl404.com/) [:gh:](https://github.com/rl404/amatsukaze) |
 | Archive    | [Ragtag Archive](https://archive.ragtag.moe/) [:gh:](https://github.com/ragtag-archive) |
 | ^^         | [Patchwork Archive](https://patchwork.moekyun.me/) [:gh:](https://github.com/Patchwork-Archive/) |
 | ^^         | [Rebel's ASMR Archive](https://asmr.ahegao.dev/) |
@@ -23,20 +24,24 @@ og:
 | ^^         | [Good VTuber Subs](https://goodvtubersubs.com/) |
 | ^^         | [Hololist](https://hololist.net/) |
 | ^^         | [ironmouse Model Index](https://www.ironmousemodelindex.com/) |
-| Stats      | [VChama](https://vchama.xyz) :s: <Badge type="info" text="Schedule" /> |
-| ^^         | [vtstats](https://vt.poi.cat/) <Badge type="info" text="Schedule"/> <Badge text="Revenue"/> [:gh:](https://github.com/vtstats/web) ==vtstats== |
-| ^^         | [VSTATS](https://www.vstats.jp/) |
-| ^^         | [Userlocal VTuber](https://virtual-youtuber.userlocal.jp/) <Badge type="info" text="Stream Rank" link="https://live-ranking.userlocal.jp/vtuber-ranking"/> <Badge type="info" text="Schedule" /> |
-| ^^         | [TwitchTracker](https://twitchtracker.com/) |
+| Stats      | [VChama](https://vchama.xyz) :s: |
+| ^^         | [vtstats](https://vt.poi.cat/) [:gh:](https://github.com/vtstats/web) ==vtstats== |
+| ^^         | [VSTATS](https://www.vstats.jp/) :fjp: |
+| ^^         | [VRabi](https://vrabi.net/) :fjp: |
+| General Stats | [TwitchTracker](https://twitchtracker.com/) |
 | ^^         | [Streams Charts](https://streamscharts.com/) |
-| Schedule   | [VTuber Schedule](https://vtuberschedules.com/) |
+| ^^         | [Live Streamer Ranking](https://live-ranking.userlocal.jp/vtuber-ranking) :fjp: |
+| ^^         | [Ikioi Ranking](https://ikioi-ranking.com/) :fjp: |
+| Schedule   | [vtstats](https://vt.poi.cat/stream/scheduled) [:gh:](https://github.com/vtstats/web) ==vtstats== |
 | ^^         | [Hololyzer](https://www.hololyzer.net/) |
+| ^^         | [Userlocal](https://virtual-youtuber.userlocal.jp/) :fjp: |
 | ^^         | [vTubie](https://vtubie.com/) |
+| ^^         | [VTuber Schedule](https://vtuberschedules.com/) [:gh:](https://github.com/clovenski/vtuber-schedules) |
 | News       | [VTuber Highlights](https://vtuber.atodeyo.com/) :fjp: |
 | ^^         | [VTuber Newsdrop](https://vtubernewsdrop.com/) |
 | ^^         | [Reincar](https://reincar.net/) |
-| Non-English | [VTBs in Bilibili!](https://vtbs.moe/) [:gh:](https://github.com/dd-center/vtbs.moe/) |
-| ^^          | [臺灣 VTuber 列表](https://taiwanvtuberdata.github.io/) [:gh:](https://github.com/TaiwanVtuberData/TaiwanVtuberTrackingData) |
+| Non-English | [VTBs in Bilibili!](https://vtbs.moe/) :fcn: [:gh:](https://github.com/dd-center/vtbs.moe/) |
+| ^^          | [臺灣 VTuber 列表](https://taiwanvtuberdata.github.io/) :fcn: [:gh:](https://github.com/TaiwanVtuberData/TaiwanVtuberTrackingData) |
 | Others     | [Mogu](https://mogu.holopirates.moe/) |
 
 ## Hololive
@@ -220,6 +225,7 @@ og:
 - [meuol](https://www.youtube.com/@meuol)
 - [Moonia](https://www.youtube.com/@BloodyMoonia/)
 - [Reiruka れいるか](https://www.youtube.com/@reiruka/)
+- [超級蘋果人 SuperAppleMan](https://www.youtube.com/@superappleman4725)
 
 <hr>
 
