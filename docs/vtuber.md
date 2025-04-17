@@ -163,11 +163,13 @@ og:
 | [Holo on Suika](https://tkgames.jp/holo_watermelon.html)       | Free   | Hololive          | TKGames    | TKGames |
 | [hololive GoroGoro Mountain](https://store.steampowered.com/app/3511130/hololive_GoroGoro_Mountain/) | -  | POV  | BeXide    | holo Indie |
 | [hololive Treasure Mountain](https://store.steampowered.com/app/2972990/hololive_Treasure_Mountain/) | $4.99  | Houshou Marine   | BeXide     | holo Indie |
+| [Hiya-Peko DLC](https://store.steampowered.com/app/3157450/hololive_Treasure_Mountain_Usada_Pekoras_HiyaPeko_DLC/) | $2.49 | Usada Pekora | ^^ | ^^ |
+| [SUKONNA DLC](https://store.steampowered.com/app/3519000/hololive_Treasure_Mountain_Shirakami_Fubukis_SUKONNA_DLC/) | ^^ | Shirakami Fubuki | ^^ | ^^ |
+| [POPOPOPO DLC](https://store.steampowered.com/app/3519010/hololive_Treasure_Mountain_Omaru_Polkas_POPOPOPO_DLC/) | ^^ | Omaru Polka | ^^ | ^^ | ^^ |
 | [holoReversi](https://store.steampowered.com/app/3446980/holoReversi/) | - | RomanKitayama | holo Indie |
 | [Mumei's Memory Juggling](https://david-wu-softdev.itch.io/mumeis-memory-juggling) | Free   | Nanashi Mumei     | David Wu   | David Wu |
 | [Pebble Jame](https://gioba-games.itch.io/pebble-jame)         | Free   | Koseki Bijou      | Goiba      | Goiba |
 | [Takos Organised Neatly](https://ae-lux-production.itch.io/takos-organised-neatly) | Free   | Ninomae Ina'Nis  | Ae Lux     | Ae Lux |
-
 
 ### Role Playing
 
