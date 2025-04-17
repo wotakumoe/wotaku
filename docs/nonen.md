@@ -422,6 +422,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | [DL-Raw](https://dl-raw.se/) | :yes: | :yes: | :yes: |
 | [DL Raw net](https://dlraw.net/category/raw-manga/) <Badge type="tip" text="2" link="https://manga-zip.info/category/raw-manga/" /> <Badge type="tip" text="3" link="https://13dl.me/home.i1/" /> | :yes: | :yes: | :yes: |
 | [DL Zip](https://dl-zip.com/) | :yes: | :yes: | :yes: |
+| [JPFiles](https://jpfiles.net/) | :yes: | :yes: | :yes: |
 | [Manga Zone](http://www.manga-zone.org/) | :yes: | :no: | :yes: |
 | [Raw Cans](http://raw-cans.net/) | :yes: | :no: | :yes: |
 | [X3DL.NET](https://x3dl.net/wp/) | :yes: | :yes: | :yes: |
