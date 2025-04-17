@@ -41,7 +41,7 @@ Original: ~~Blurry downscales for anything that would be above that on other pla
 |-----------------------------------------------|------------|----------|-----|-------------------------------------|
 | [Alpha Manga](https://www.alpha-manga.com/)   | x1800       |  -  | :yes: | - |
 | [Azuki](https://www.azuki.co/)                | x4800<sup>1</sup> | :yes: | :yes: | Own Store |
-| [Dark Horse](https://digital.darkhorse.com/)  | x3000+<sup>2</sup> | :no: | :yes: | Kindle HD |
+| [Dark Horse](https://darkhorse.com/)  | x3000+<sup>2</sup> | :no: | :yes: | Kindle HD |
 | [DENPA](https://denpa.pub/)<sup>3</sup>      | Varies     | :no: | :yes: | Own Store |
 | [FAKKU!](https://www.fakku.net/)              | x3200      | :yes: | :no: | Own Store |
 | [Glacier Bay Books](https://glacierbaybooks.com/) | Varies | :no: | :yes: | Own Store |
