@@ -359,7 +359,6 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 | **Streaming** | [Tokuzilla](https://tokuzilla.net/) :s: <Badge type="info" text="2" link="https://tokuzl.net/" /> |
 | ^^         | [Toku555](https://toku555.com/) |
 | ^^         | [Zokaj](https://zokaj.com/) |
-| ^^         | [ViewAsian](https://www.viewasian.org/) |
 | ^^         | [Power Rangers Official](https://www.youtube.com/@PowerRangersOfficial/) |
 | ^^         | [ULTRAMAN Official](https://www.youtube.com/@ULTRAMAN_OFFICIAL/) <Badge type="tip" text="New" link="https://www.youtube.com/@ultraman_english_official/" /> |
 | ^^         | [Legal Tokusatsu Streaming List](https://otakulogy.github.io/tokusatsu-streaming/) |
