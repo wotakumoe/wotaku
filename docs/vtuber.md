@@ -116,98 +116,6 @@ og:
 ::: tip [**Click here**](/guides/tech/adblock) for full adblock solutions.
 :::
 
-## Games
-
-### Action
-
-| Game                                                   | Price  | MC             | Dev             | Publisher |
-|--------------------------------------------------------|--------|---------------|----------------|-----|
-| [Idol Showdown](http://store.steampowered.com/app/1742020/Idol_Showdown/) | Free   | Hololive      | Besto Game Team  | holo Indie |
-| [Holo X Break](http://store.steampowered.com/app/2719150/Holo_X_Break/) | Free   | NePoLaBo      | Kay Yu  | Kay Yu  |
-| [MYRIAD DEATH](https://store.steampowered.com/app/3324320/MYRIAD_DEATH/) | $4.99  | Mori Calliope | IGNITION  | holo Indie |
-
-### Bullet Hell
-  
-| Game                                                   | Price  | MC                 | Dev                  | Publisher |
-|--------------------------------------------------------|--------|--------------------|----------------------|-----|
-| [Elite Exorcist Miko](http://store.steampowered.com/app/3040560/Elite_Exorcist_Miko/) | $5.49  | Sakura Miko      | tian nya            | holo Indie |
-| [Holocure](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/) | Free   | Hololive         | Kay Yu | Kay Yu  |
-| [The Adventure of Ninomae Ina'nis](https://store.steampowered.com/app/3143980/The_Adventure_of_Ninomae_Inanis/) | $1.29  | Ninomae Ina'Nis  | Minimum Wage Media  | holo Indie |
-| [WOWOWOW KORONE BOX](https://store.steampowered.com/app/2825180/WOWOWOW_KORONE_BOX/) | Free   | Inugami Korone   | tian nya            | holo Indie |
-
-### Horror
-  
-| Game                                                   | Price  | MC   | Dev                | Publisher |
-|--------------------------------------------------------|--------|------|--------------------|-----|
-| [hololive ERROR](https://store.steampowered.com/app/2062550/hololive_ERROR/) | $5.49  | POV  | 株式会社Mogura     | CCMC Corp. |
-| [holo8](https://store.steampowered.com/app/3373960/holo8/) | $2.49  | POV  | frog blend        | holo Indie |
- 
-### Platformer
-  
-| Game                                                       | Price  | MC                 | Dev        | Publisher |
-|------------------------------------------------------------|--------|--------------------|------------|-----|
-| [Bibbidiba fan game](https://store.steampowered.com/app/3428800/Bibbidiba_fan_game) | Free   | Hoshimachi Suisei | shadow     | holo Indie |
-| [Chrono Gear: Warden of Time](https://store.steampowered.com/app/3081840/Chrono_Gear_Warden_of_Time) | - | Ouro Kronii | Team Chrono Gear | holo Indie |
-| [FLARE NUINUI QUEST](https://store.steampowered.com/app/3081830/FLARE_NUINUI_QUEST) | $4.49  | Shiranui Flare    | sulpx      | holo Indie |
-| [HoloRun](https://store.steampowered.com/app/3389760/HoloRun/) | $2.99  | Hololive          | Pixfox     | holo Indie |
-| [Nameless](https://sk-jynx.itch.io/nameless)                | Free   | Nanashi Mumei     | SK_Jynx | SK_Jynx |
-| [Nimi Nightmare's dream dash](https://gioba-games.itch.io/nimi-nightmare-dream-dash) | Free   | Nimi Nightmare    | Goiba   | Goiba |
-| [Miko in Maguma](https://store.steampowered.com/app/2877240/Miko_in_Maguma/) | Free   | Sakura Miko      | frog blend | holo Indie |
-| [SIMPWALK](https://store.steampowered.com/app/3362870/SIMPWALK/) | Free | HOLORO | Altersky Skyraze | holo Indie |
-| [smol Ame](https://moocow-games.itch.io/smol-ame)              | Free   | Amelia Watson     | MooCow     | MooCow |
-
-### Puzzle / Strategy
-  
-| Game                                                           | Price  | MC                 | Dev         | Publisher |
-|----------------------------------------------------------------|--------|--------------------|------------|-----|
-| [Holo on Suika](https://tkgames.jp/holo_watermelon.html)       | Free   | Hololive          | TKGames    | TKGames |
-| [hololive GoroGoro Mountain](https://store.steampowered.com/app/3511130/hololive_GoroGoro_Mountain/) | -  | POV  | BeXide    | holo Indie |
-| [hololive Treasure Mountain](https://store.steampowered.com/app/2972990/hololive_Treasure_Mountain/) | $4.99  | Houshou Marine   | BeXide     | holo Indie |
-| [Hiya-Peko DLC](https://store.steampowered.com/app/3157450/hololive_Treasure_Mountain_Usada_Pekoras_HiyaPeko_DLC/) | $2.49 | Usada Pekora | ^^ | ^^ |
-| [SUKONNA DLC](https://store.steampowered.com/app/3519000/hololive_Treasure_Mountain_Shirakami_Fubukis_SUKONNA_DLC/) | ^^ | Shirakami Fubuki | ^^ | ^^ |
-| [POPOPOPO DLC](https://store.steampowered.com/app/3519010/hololive_Treasure_Mountain_Omaru_Polkas_POPOPOPO_DLC/) | ^^ | Omaru Polka | ^^ | ^^ | ^^ |
-| [holoReversi](https://store.steampowered.com/app/3446980/holoReversi/) | - | RomanKitayama | holo Indie |
-| [Mumei's Memory Juggling](https://david-wu-softdev.itch.io/mumeis-memory-juggling) | Free   | Nanashi Mumei     | David Wu   | David Wu |
-| [Pebble Jame](https://gioba-games.itch.io/pebble-jame)         | Free   | Koseki Bijou      | Goiba      | Goiba |
-| [Takos Organised Neatly](https://ae-lux-production.itch.io/takos-organised-neatly) | Free   | Ninomae Ina'Nis  | Ae Lux     | Ae Lux |
-
-### Role Playing
-
-| Game                                                       | Price  | MC                 | Dev     | Publisher |
-|------------------------------------------------------------|--------|--------------------|--------|-----|
-| [Hololive Councilrys RPG](https://kebbie.itch.io/councilrysrpg) | Free   | Hololive Promise  | Kebbie | Kebbie |
-| [デュエホロ (DUEHOLO)](https://store.steampowered.com/app/2996280/_DUEHOLO/) | $2.49  | Hololive JP       | テイク  | holo Indie |
-| [ぷちホロの村 (Puchi Holo no Mura)](https://x.com/holovillage) | - | Hololive | Holo village team | holo Indie |
-| [Submerged Mystery: Takodachi](https://velveteenio.itch.io/submerged-mystery-takodachi) | Free   | Ninomae Ina'Nis  | Velveteen  | Velveteen |
-
-### Tower Defence
-  
-| Game                                                   | Price  | MC             | Dev             | Publisher |
-|--------------------------------------------------------|--------|---------------|----------------|-----|
-| [HOLOSAGA](http://store.steampowered.com/app/2899450/HOLOSAGA_Invasion_of_the_HoloX/) | Free   | Hololive     | Team SEONGWON  | holo Indie |
-| [HoloParade](https://store.steampowered.com/app/2647230/HoloParade/) | $2.99  | Hololive     | RoboqloLab     | holo Indie |
-| [Holo vs Robo](https://x.com/pompmaker1) | - | Hololive | Pompmaker1 | Pompmaker1 |
-| [Miko Sniper](https://store.steampowered.com/app/2971440/Miko_Sniper/) | $2.49  | Sakura Miko   | さめ Games     | holo Indie |
-
-### Visual Novel
-  
-| Game                                                     | Price   | MC               | Dev        | Publisher |
-|----------------------------------------------------------|---------|-----------------|------------|-----|
-| [AQUARIUM](https://www.entergram.co.jp/aquarium/)         | $20.46  | Minato Aqua     | ENTERGRAM  | ENTERGRAM |
-| [Days With Ollie](https://store.steampowered.com/app/2776750/Days_With_Ollie/) | $3.99   | Kureiji Ollie   | PT. Global | Hololive ID |
-| [Okayunyumu](https://www.entergram.co.jp/okayunyumu/)     | $19.79  | Nekomata Okayu  | ENTERGRAM  | ENTERGRAM |
-| [Snowed In](https://shiorinovella.itch.io/shiorivisualnovella) | Free    | Shiori Novella  | Pending | Shiori Novella |
-
-### Misc
-
-| Game                                                         | Price  | MC                | Dev        | Publisher |
-|--------------------------------------------------------------|--------|-------------------|------------|-----|
-| [Age of Advent](https://store.steampowered.com/app/2679690/Age_of_Advent/) | Free   | Hololive Advent   | MooCow     | holo Indie |
-| [Delivering Hope](https://david-wu-softdev.itch.io/delivering-hope-hololive-fangame) | Free   | IRyS              | David Wu   | David Wu |
-
-::: tip More games
-[David Wu's list](https://softdevwu.dev/hologames/) has more fangames.
-:::
 
 ## Animation
 
@@ -255,3 +163,123 @@ og:
 - [Kanauru](https://www.youtube.com/@kanauru) :s:
 - [Terrible Joe](https://www.youtube.com/@TerribleJhoe)
 - [tives](https://www.youtube.com/@tivetives/)
+
+## Games
+
+### Action
+
+| Game                                                   | Price  | MC             | Dev             | Publisher |
+|--------------------------------------------------------|--------|---------------|----------------|-----|
+| [DooG](https://david-wu-softdev.itch.io/doog-hololive-fangame) | Free | Inugami Korone | David Wu | David Wu |
+| [Idol Showdown](http://store.steampowered.com/app/1742020/) | Free   | Hololive      | Besto Game Team  | holo Indie |
+| [Holo X Break](http://store.steampowered.com/app/2719150/) | Free   | NePoLaBo      | Kay Yu  | Kay Yu  |
+| [MYRIAD DEATH](https://store.steampowered.com/app/3324320/) | $4.99  | Mori Calliope | IGNITION  | holo Indie |
+
+### Bullet Hell
+  
+| Game                                                   | Price  | MC                 | Dev                  | Publisher |
+|--------------------------------------------------------|--------|--------------------|----------------------|-----|
+| [Elite Exorcist Miko](http://store.steampowered.com/app/3040560/) | $5.49  | Sakura Miko      | tian nya            | holo Indie |
+| [Holocure](https://store.steampowered.com/app/2420510/) | Free   | Hololive         | Kay Yu | Kay Yu  |
+| [The Adventure of Ninomae Ina'nis](https://store.steampowered.com/app/3143980/) | $1.29  | Ninomae Ina'Nis  | Minimum Wage Media  | holo Indie |
+| [WOWOWOW KORONE BOX](https://store.steampowered.com/app/2825180/) | Free   | Inugami Korone   | tian nya            | holo Indie |
+
+### Casual
+
+| Game                                                   | Price  | MC                 | Dev                  | Publisher |
+|--------------------------------------------------------|--------|--------------------|----------------------|-----|
+| [Holo on Suika](https://tkgames.jp/holo_watermelon.html)       | Free   | Hololive          | TKGames    | TKGames |
+| [ホロポップ (Holo Pop)](https://store.steampowered.com/app/3155810/) :fjp: | $2.49 | Hololive JP | HappyHoppyHappy | holo Indie |
+| [hololive Treasure Mountain](https://store.steampowered.com/app/2972990/) | $4.99  | Houshou Marine   | BeXide     | holo Indie |
+| [Pebble Jame](https://gioba-games.itch.io/pebble-jame)         | Free   | Koseki Bijou      | Goiba      | Goiba |
+
+### DLC
+
+| Game  |  DLC  | Price  | MC |
+|-|-|-|-|
+| [hololive Treasure Mountain](https://store.steampowered.com/app/2972990/) | [Hiya-Peko DLC](https://store.steampowered.com/app/3157450/) | $2.49 | Usada Pekora
+| ^^ | [SUKONNA DLC](https://store.steampowered.com/app/3519000/)  | $2.49 | Shirakami Fubuki |
+| ^^ | [POPOPOPO DLC](https://store.steampowered.com/app/3519010/) | $2.49 | Omaru Polka |
+
+### Horror
+  
+| Game                                                   | Price  | MC   | Dev                | Publisher |
+|--------------------------------------------------------|--------|------|--------------------|-----|
+| [hololive ERROR](https://store.steampowered.com/app/2062550/) | $5.49  | POV  | 株式会社Mogura     | CCMC Corp. |
+| [holo8](https://store.steampowered.com/app/3373960/) | $2.49  | POV  | frog blend        | holo Indie |
+ 
+### Platformer
+  
+| Game                                                       | Price  | MC                 | Dev        | Publisher |
+|------------------------------------------------------------|--------|--------------------|------------|-----|
+| [Bibbidiba fan game](https://store.steampowered.com/app/3428800/) | Free   | Hoshimachi Suisei | shadow     | holo Indie |
+| [Chrono Gear: Warden of Time](https://store.steampowered.com/app/3081840/) | - | Ouro Kronii | Team Chrono Gear | holo Indie |
+| [FLARE NUINUI QUEST](https://store.steampowered.com/app/3081830/) | $4.49  | Shiranui Flare    | sulpx      | holo Indie |
+| [hololive GoroGoro Mountain](https://store.steampowered.com/app/3511130/) | -  | POV  | BeXide    | holo Indie |
+| [HoloRun](https://store.steampowered.com/app/3389760/) | $2.99  | Hololive          | Pixfox     | holo Indie |
+| [Nameless](https://sk-jynx.itch.io/nameless)                | Free   | Nanashi Mumei     | SK_Jynx | SK_Jynx |
+| [Nimi Nightmare's dream dash](https://gioba-games.itch.io/nimi-nightmare-dream-dash) | Free   | Nimi Nightmare    | Goiba   | Goiba |
+| [Miko in Maguma](https://store.steampowered.com/app/2877240/) | Free   | Sakura Miko      | frog blend | holo Indie |
+| [SIMPWALK](https://store.steampowered.com/app/3362870/) | Free | HOLORO | Altersky Skyraze | holo Indie |
+| [smol Ame](https://moocow-games.itch.io/smol-ame)              | Free   | Amelia Watson     | MooCow     | MooCow |
+
+### Puzzle / Strategy
+  
+| Game                                                           | Price  | MC                 | Dev         | Publisher |
+|----------------------------------------------------------------|--------|--------------------|------------|-----|
+| [Holo's Hanafuda](https://store.steampowered.com/app/3327640/) | - | Hololive JP | Gemdrops, Inc. | Gemdrops, Inc. |
+| [holoReversi](https://store.steampowered.com/app/3446980/) | - | Hololive JP | RomanKitayama | holo Indie |
+| [Juufuutei Raden's Guide for Pixel Museum](https://store.steampowered.com/app/3204020/) | - | Juufuutei Raden | Jupiter | Jupiter |
+| [Mumei's Memory Juggling](https://david-wu-softdev.itch.io/mumeis-memory-juggling) | Free   | Nanashi Mumei     | David Wu   | David Wu |
+| [Takos Organised Neatly](https://ae-lux-production.itch.io/takos-organised-neatly) | Free   | Ninomae Ina'Nis  | Ae Lux     | Ae Lux |
+
+### Rhythm
+| Game                                                           | Price  | MC                 | Dev         | Publisher |
+|----------------------------------------------------------------|--------|--------------------|------------|-----|
+| [ChikuTaku](https://watsonamelia.itch.io/chikutaku) | Free | Amelia Watson | CenTdemeern1 | Amelia Watson |
+| [Deadbeats Encore](https://zkfie.itch.io/deadbeat) | Free | Calliope Mori | fie | fie |
+| [HoloCall - Send Your Cheers!](https://store.steampowered.com/app/3439700/) :fjp: | Free | POV | Wei Hsu | Wei Hsu |
+| [Kizuna AI - Touch the Beat!](https://store.steampowered.com/app/2168240/) | $32.99 | Kizuna AI | Gemdrops, Inc. | Gemdrops, Inc. |
+
+
+### Role Playing
+
+| Game                                                       | Price  | MC                 | Dev     | Publisher |
+|------------------------------------------------------------|--------|--------------------|--------|-----|
+| [Hololive Councilrys RPG](https://kebbie.itch.io/councilrysrpg) | Free   | Hololive Promise  | Kebbie | Kebbie |
+| [Holo Dungeon](https://zkfie.itch.io/holo-dungeon) | Free | Amelia Watson | fie | fie |
+| [デュエホロ (DUEHOLO)](https://store.steampowered.com/app/2996280/) | $2.49  | Hololive JP       | テイク  | holo Indie |
+| [狐の旅路 (Kitsune no Tabiji)](https://store.steampowered.com/app/1178050/) :fjp: | Free | Shirakami Fubuki | 狐の旅路制作组 | DZ |
+| [ぷちホロの村 (Puchi Holo no Mura)](https://x.com/holovillage) | - | Hololive | Holo village team | holo Indie |
+| [Submerged Mystery: Takodachi](https://velveteenio.itch.io/submerged-mystery-takodachi) | Free   | Ninomae Ina'Nis  | Velveteen  | Velveteen |
+| [Super Holo Wars](https://tshadowknight.itch.io/super-holo-wars) | Free | Hololive | TShadowKnight | TShadowKnight |
+
+### Tower Defence
+  
+| Game                                                   | Price  | MC             | Dev             | Publisher |
+|--------------------------------------------------------|--------|---------------|----------------|-----|
+| [HOLOSAGA](http://store.steampowered.com/app/2899450/) | Free   | Hololive     | Team SEONGWON  | holo Indie |
+| [HoloParade](https://store.steampowered.com/app/2647230/) | $2.99  | Hololive     | RoboqloLab     | holo Indie |
+| [Holo vs Robo](https://x.com/pompmaker1) | - | Hololive | Pompmaker1 | Pompmaker1 |
+| [Miko Sniper](https://store.steampowered.com/app/2971440/) | $2.49  | Sakura Miko   | さめ Games     | holo Indie |
+
+### Visual Novel
+  
+| Game                                                     | Price   | MC               | Dev        | Publisher |
+|----------------------------------------------------------|---------|-----------------|------------|-----|
+| [AQUARIUM](https://www.entergram.co.jp/aquarium/)        | $20.46  | Minato Aqua     | ENTERGRAM  | ENTERGRAM |
+| [Days With Ollie](https://store.steampowered.com/app/2776750/) | $3.99   | Kureiji Ollie   | PT. Global | Hololive ID |
+| [Okayunyumu](https://www.entergram.co.jp/okayunyumu/) :fjp:    | $19.79  | Nekomata Okayu  | ENTERGRAM  | ENTERGRAM |
+| [Snowed In](https://shiorinovella.itch.io/shiorivisualnovella) | Free    | Shiori Novella  | Pending | Shiori Novella |
+
+### Misc
+
+| Game                                                         | Price  | MC                | Dev        | Publisher |
+|--------------------------------------------------------------|--------|-------------------|------------|-----|
+| [Age of Advent](https://store.steampowered.com/app/2679690/) | Free   | Hololive Advent   | MooCow     | holo Indie |
+| [Delivering Hope](https://david-wu-softdev.itch.io/delivering-hope-hololive-fangame) | Free   | IRyS              | David Wu   | David Wu |
+
+::: tip Other lists
+- [David Wu](https://softdevwu.dev/hologames/)
+- [Games With VTubers In Them](https://store.steampowered.com/curator/44929098)
+:::
