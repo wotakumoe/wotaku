@@ -126,7 +126,6 @@ outline: 1
 | ^^ | [JPFiles](https://jpfiles.net/) :host::mdi-disc: |
 | ^^ | [AnimeRSS](https://animerss.com/) :host::mdi-disc: |
 | **Re-encodes** | [Kayoanime](https://kayoanime.com/) :sgd::batch: |
-| ^^ | [Mkvseries](https://mkvseries.com/) :sgd::batch: |
 | ^^ | [AnimeOut](https://www.animeout.xyz/) :ddl::acc: <Badge text="2" link="https://animewat.ch/" /> |
 | ^^ | [Chauthanh](https://chauthanh.info/) :ddl::acc: |
 | ^^ | [hi10anime](https://hi10anime.com/) :ddl::mag::acc::batch: |
