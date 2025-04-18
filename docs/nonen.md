@@ -497,7 +497,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [AnimeFire](https://animefire.plus/) <Badge type="info" text="2" link="https://animefire.net/" />
 - [AnimesROLL](https://www.anroll.net/)
 - [Better Anime](https://betteranime.net/)
-- [Dark Animes](https://darkmahou.org/) :mag:
 - [Geekdot](https://geekdot.live/)
 - [Hinata Soul](https://www.hinatasoul.net/)
 - [HentaisTube](https://www.hentaistube.com/) <Badge type="danger" text="18+" />
