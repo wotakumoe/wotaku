@@ -515,7 +515,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [Kakusei Project](https://kakuseiproject.com/) :fjp:<Badge type="danger" text="18+" />  
 - [Portal Yaoi](https://portalyaoi.com/) :fjp::fkr::fcn:<Badge type="danger" text="18+" />  
 - [Valkyrie Scan](https://valkyriescan.com/) :fjp::fkr::fcn:<Badge type="danger" text="18+" />  
-- [Yugen Mangas BR](https://yugenmangasbr.readmis.com/) :fjp::fkr::fcn:<Badge type="danger" text="18+" />  
+- [Yugen Mangas BR](https://yugenmangasbr.nssec.xyz/) :fjp::fkr::fcn:<Badge type="danger" text="18+" />  
 - [Yuri.Live](https://yuri.live/) :fjp::fkr::fcn:<Badge type="danger" text="18+" />  
 
 ___
