@@ -95,8 +95,10 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 ### Local
 - [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) :fm::cs:
 - [ReadEra](https://play.google.com/store/apps/details?id=org.readera) :fm::cs:
+- [Librera Reader](https://github.com/foobnix/LibreraReader)
 - [Lithium: EPUB Reader](https://www.apkmirror.com/apk/faultexception/lithium-epub-reader/) :cs:
 - [Book's Story](https://github.com/Acclorite/book-story)
+- [KOReader](https://koreader.rocks/) [:gh:](https://github.com/koreader/koreader)
 
 ## Trackers
 
@@ -127,10 +129,9 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 # E-reader
 
 ## Reader
-- **Linux based**
-  - [KOReader](https://koreader.rocks/)
-  - [rakuyomi](https://github.com/hanatsumi/rakuyomi) [:e:](/guides/ext/ios#aidoku)
-- :more: [**Android based**](#manga-readers)
+- [KOReader](https://koreader.rocks/) [:gh:](https://github.com/koreader/koreader) :and::lin:
+  - [rakuyomi](https://github.com/hanatsumi/rakuyomi) :lin: [:e:](/guides/ext/ios#aidoku)
+- :more: [**Android only**](#manga-readers)
 
 ## Tools
 
