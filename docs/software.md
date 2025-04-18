@@ -85,6 +85,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 - [Quicknovel](https://github.com/LagradOst/QuickNovel)
 - [Shosetsu](https://shosetsu.app/) [:gl:](https://gitlab.com/shosetsuorg/shosetsu)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi)
+- [Akashic Records](https://github.com/AkashicRecordsApp/akashic_records)
 - [Dantotsu](https://dantotsuapp.netlify.app/) [:gh:](https://github.com/rebelonion/Dantotsu) [:e:](/guides/ext/misc#dantotsu)
 - [Legado](https://gedoor.github.io/) [:gh:](https://github.com/gedoor/legado) [:e:](/guides/ext/misc#legado)
 - [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha)
