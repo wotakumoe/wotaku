@@ -344,6 +344,10 @@ If you have recommendations for good sites in your native language or want to re
 
 ## Italian
 
+### Info
+- [AnimeClick](https://www.animeclick.it/)
+- [FansubDB.it](https://fansubdb.it/) [:rss:](https://fansubdb.it/feed)
+
 ### Anime
 - [AnimeSaturn](https://www.anisaturn.com/) [:prx:](https://www.animesaturn.me/)
 - [AnimeUnity](https://www.animeunity.to/)
