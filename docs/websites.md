@@ -43,7 +43,7 @@ outline: 1
 - [Watch Cartoon Online](https://www.wco.tv/) :mingcute-server-fill::mingcute-user-2-fill: [:prx:](https://rentry.org/wotaxy#watch-cartoon-online) ==WCO==
 
 ### Low Res
-- [Anime Defenders](https://animedefenders.me/) :mingcute-user-2-fill: <Badge type="danger" text="18+" />
+- [Anime Defenders](https://animedefenders.me/) :mingcute-user-2-fill: :ero:
 - [AnimeOnsen](https://www.animeonsen.xyz/) :mingcute-server-fill::mingcute-user-2-fill: 
 - [AnimeZ](https://animez.org/) :mingcute-server-fill::mingcute-user-2-fill: ==AnimeZ==  
 - [Otaku-Streamers](https://beta.otaku-streamers.com/) :mingcute-server-fill::mingcute-user-2-fill: <Badge type="info" text="Old" link="https://otaku-streamers.com/" /> ==OtakuStreamers==  

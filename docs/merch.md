@@ -86,14 +86,14 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 | ^^        | [Blu-ray.com](https://www.blu-ray.com/) |
 | ^^        | [Upcoming English Dubbed Releases](https://english-dubbed.com/anime-releases/upcoming-english-dubbed-release-dates/) |
 | **Figures** | [Figgy](https://www.figgy.jp/) :fjp: <Badge text="General" /> |
-| ^^        | [Figgy Adult](https://adult.figgy.jp/) :fjp: <Badge text="Bishoujo" /> <Badge type="danger" text="18+" /> |
+| ^^        | [Figgy Adult](https://adult.figgy.jp/) :fjp::ero: <Badge text="Bishoujo" /> |
 | ^^        | [Figsoku](https://figsoku.net/) :fjp: <Badge text="General" /> |
-| ^^        | [Fig-memo R18](https://fig-memo-r18.site/) :fjp: <Badge text="Bishoujo" /> <Badge type="danger" text="18+" /> |
+| ^^        | [Fig-memo R18](https://fig-memo-r18.site/) :fjp::ero: <Badge text="Bishoujo" /> |
 | ^^        | [Gundam Kits Collection](https://www.gundamkitscollection.com/) |
 | ^^        | [Gunjap](https://www.gunjap.net/) |
 | **Others** | [Buying visual novels](https://old.reddit.com/r/visualnovels/wiki/buy) |
-| ^^        | [Dakindex!](https://dakidex.com/) <Badge type="danger" text="18+" /> |
-| ^^        | [Omiai](https://omiai-dakimakura.com/) <Badge type="danger" text="18+" /> |
+| ^^        | [Dakindex!](https://dakidex.com/) :ero: |
+| ^^        | [Omiai](https://omiai-dakimakura.com/) :ero: |
 
 
 ## YouTube
@@ -114,7 +114,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [Manga Collectors](https://old.reddit.com/r/MangaCollectors/)
 - [Gunpla](https://old.reddit.com/r/Gunpla/)
 - [Nendoroid](https://old.reddit.com/r/Nendoroid/)
-- [Dakimakuras](https://old.reddit.com/r/Dakimakuras/) <Badge type="danger" text="18+" />
+- [Dakimakuras](https://old.reddit.com/r/Dakimakuras/) :ero:
 
 
 ## Shops

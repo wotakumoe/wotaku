@@ -83,7 +83,7 @@ If you have recommendations for good sites in your native language or want to re
 
 - **Online**
   - [Fansubs.cat](https://www.fansubs.cat/)
-  - [Hentai.cat](https://www.hentai.cat/) <Badge type="danger" text="18+" />
+  - [Hentai.cat](https://www.hentai.cat/) :ero:
   - [SX3](https://www.3cat.cat/tv3/sx3/x3/) <Badge type="tip" text="TV" link="https://www.3cat.cat/tv3/sx3/directe/" />
 - **Download**
   - [TotsRucs](http://www.totsrucs.cat/) :mag:
@@ -126,7 +126,7 @@ If you have recommendations for good sites in your native language or want to re
 - [Baozimh.com](https://www.baozimh.com/) <Badge type="tip" text="2" link="https://www.kukuc.co/" /> <Badge type="tip" text="3" link="https://www.webmota.com/" />
 - [Baozimh.org](https://baozimh.org/)
 - [Colamanga](https://www.colamanga.com/)
-- [Copymanga](https://copymanga.tv/) <Badge type="danger" text="18+" />
+- [Copymanga](https://copymanga.tv/) :ero:
 - [DMZJ](https://www.idmzj.com/)
 - [Komiic](https://komiic.com/)
 - [Manga Reader](https://1zumii.github.io/manga-reader/#/) [:gh:](https://github.com/1zumii/manga-reader)
@@ -496,7 +496,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [Better Anime](https://betteranime.net/)
 - [Geekdot](https://geekdot.live/)
 - [Hinata Soul](https://www.hinatasoul.net/)
-- [HentaisTube](https://www.hentaistube.com/) <Badge type="danger" text="18+" />
+- [HentaisTube](https://www.hentaistube.com/) :ero:
 - [:tg: Toonami na Era do Telegram](https://t.me/toonamibr)
 
 #### Software
@@ -509,31 +509,31 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 ::: details Scanlators
 #### Website
-- [Argos Comic](https://argoscomic.com) :fjp::fkr::fcn:<Badge type="danger" text="18+" />  
+- [Argos Comic](https://argoscomic.com) :fjp::fkr::fcn::ero:  
 - [Crystal Comics](https://crystalcomics.com/) :fkr::fcn:  
-- [Kakusei Project](https://kakuseiproject.com/) :fjp:<Badge type="danger" text="18+" />  
-- [Portal Yaoi](https://portalyaoi.com/) :fjp::fkr::fcn:<Badge type="danger" text="18+" />  
-- [Valkyrie Scan](https://valkyriescan.com/) :fjp::fkr::fcn:<Badge type="danger" text="18+" />  
-- [Yugen Mangas BR](https://yugenmangasbr.nssec.xyz/) :fjp::fkr::fcn:<Badge type="danger" text="18+" />  
-- [Yuri.Live](https://yuri.live/) :fjp::fkr::fcn:<Badge type="danger" text="18+" />  
+- [Kakusei Project](https://kakuseiproject.com/) :fjp::ero:  
+- [Portal Yaoi](https://portalyaoi.com/) :fjp::fkr::fcn::ero:  
+- [Valkyrie Scan](https://valkyriescan.com/) :fjp::fkr::fcn::ero:  
+- [Yugen Mangas BR](https://yugenmangasbr.nssec.xyz/) :fjp::fkr::fcn::ero:  
+- [Yuri.Live](https://yuri.live/) :fjp::fkr::fcn::ero:  
 
 ___
 
 #### Mangadex
-- [Cerise Scan](https://mangadex.org/group/ede42574-8939-4311-b86f-cf75f25283f3/cerise-scan) :fkr:<Badge type="danger" text="18+" />  
+- [Cerise Scan](https://mangadex.org/group/ede42574-8939-4311-b86f-cf75f25283f3/cerise-scan) :fkr::ero:  
 - [Dango Scan](https://mangadex.org/group/7ea0c022-deb0-4a3c-94cf-0610f48007aa/dango-scan) :fjp::fkr::fcn:  
 - [Diskus Scan](https://mangadex.org/group/dd3d3092-abee-4f7d-83c8-f9903b82ee06/diskus-scan) :fjp::fkr::fcn:  
-- [Eleven Scanlator](https://mangadex.org/group/ddd2776a-c49e-41ec-8f01-7fc5a98d21cf/eleven-scanlator) :fjp::fkr::fcn:<Badge type="danger" text="18+" />  
+- [Eleven Scanlator](https://mangadex.org/group/ddd2776a-c49e-41ec-8f01-7fc5a98d21cf/eleven-scanlator) :fjp::fkr::fcn::ero:  
 - [Fay Scans](https://mangadex.org/group/ee6d695c-1a74-4753-a10e-a37ad7a63160/fay-scans) :fjp::fkr:  
-- [Fuckill](https://mangadex.org/group/222493b7-6e60-4b7d-8ed0-ffcbec04c0da/fuckill) :fjp:<Badge type="danger" text="18+" />  
-- [Kami Sama Explorer](https://mangadex.org/group/450af2bd-9ccc-4fa4-b865-f86337d23322/kami-sama-explorer) :fjp:<Badge type="danger" text="18+" />  
-- [MiniTwo Scan](https://mangadex.org/group/5889f18b-1801-44f9-8c83-19be84ac03db) :fjp::fkr::fcn:<Badge type="danger" text="18+" />  
-- [Saikai Scan](https://mangadex.org/group/c1a3aadb-8b80-4456-93b7-68ba90f819ce/saikai-scan) :fjp::fkr::fcn:<Badge type="danger" text="18+" />  
-- [Shin Sekai Scans](https://mangadex.org/group/cb2c8352-1b79-45d7-a6d5-6fac95dad901/shin-sekai-scans) :fjp:<Badge type="danger" text="18+" />  
-- [Sinensis Scan](https://mangadex.org/group/c42e2110-6d8c-41da-bf15-468daec41e7d/sinensis-scan) :fkr::fcn:<Badge type="danger" text="18+" />  
-- [Sirius Scanlator](https://mangadex.org/group/36a6b11a-d29f-4f21-b73a-ca9f688b36df/sirius-scanlator) :fjp:<Badge type="danger" text="18+" />  
-- [Tsundoku Traduções](https://mangadex.org/group/49c08636-a37e-4d4b-a8fa-3f03b1fd58f3/tsundoku-traducoes) :fjp::fkr::fcn:<Badge type="danger" text="18+" />  
-- [Wicked Witch Scan](https://mangadex.org/group/b1252064-f603-4956-a632-774a45f2bc1a/wicked-witch-scan) :fkr::fcn:<Badge type="danger" text="18+" />  
+- [Fuckill](https://mangadex.org/group/222493b7-6e60-4b7d-8ed0-ffcbec04c0da/fuckill) :fjp::ero:  
+- [Kami Sama Explorer](https://mangadex.org/group/450af2bd-9ccc-4fa4-b865-f86337d23322/kami-sama-explorer) :fjp::ero:  
+- [MiniTwo Scan](https://mangadex.org/group/5889f18b-1801-44f9-8c83-19be84ac03db) :fjp::fkr::fcn::ero:  
+- [Saikai Scan](https://mangadex.org/group/c1a3aadb-8b80-4456-93b7-68ba90f819ce/saikai-scan) :fjp::fkr::fcn::ero:  
+- [Shin Sekai Scans](https://mangadex.org/group/cb2c8352-1b79-45d7-a6d5-6fac95dad901/shin-sekai-scans) :fjp::ero:  
+- [Sinensis Scan](https://mangadex.org/group/c42e2110-6d8c-41da-bf15-468daec41e7d/sinensis-scan) :fkr::fcn::ero:  
+- [Sirius Scanlator](https://mangadex.org/group/36a6b11a-d29f-4f21-b73a-ca9f688b36df/sirius-scanlator) :fjp::ero:  
+- [Tsundoku Traduções](https://mangadex.org/group/49c08636-a37e-4d4b-a8fa-3f03b1fd58f3/tsundoku-traducoes) :fjp::fkr::fcn::ero:  
+- [Wicked Witch Scan](https://mangadex.org/group/b1252064-f603-4956-a632-774a45f2bc1a/wicked-witch-scan) :fkr::fcn::ero:  
 :::
 
 ### Tokusatsu
@@ -590,7 +590,7 @@ ___
 - [Usagi](https://web.usagi.one/)<tooltip>Formerly ReadManga</tooltip>
 
 ### More Sites
-- [HentaiLIB](https://hentailib.me/) <Badge type="danger" text="18+" />
+- [HentaiLIB](https://hentailib.me/) :ero:
 - [RanobeLIB](https://ranobelib.me/)
 - [VseDoramy](https://vsedoramy.top/)
 
@@ -639,8 +639,8 @@ ___
   - [AnimeJL](https://www.anime-jl.net/)
   - [Mundo Donghua](https://www.mundodonghua.com/)
   - [Tio Donghua](https://tiodonghua.com/)
-  - [HentaiLA](https://www5.hentaila.com/) <Badge type="danger" text="18+" />
-  - [HentaiJL](https://hentaijl.com/) <Badge type="danger" text="18+" />
+  - [HentaiLA](https://www5.hentaila.com/) :ero:
+  - [HentaiJL](https://hentaijl.com/) :ero:
 - **Download**
   - [Japan Paw](https://japanpaw.com/)
   - [SphinxAnime](https://sphinxanime.com/)
@@ -694,7 +694,7 @@ ___
 - [ANIMEUA](https://animeua.club/)
 - [AniTube](https://anitube.in.ua/)
 - [Unimay Media](https://unimay.media/)
-- [HentaiUKR](https://hentaiukr.com/) <Badge type="danger" text="18+" />
+- [HentaiUKR](https://hentaiukr.com/) :ero:
 
 ### Manga
 - [Manga.in.ua](https://manga.in.ua/)
@@ -719,7 +719,7 @@ ___
 ### Comics
 - [CManga](https://cmangaax.com/)
 - [Cuu Truyen](https://cuutruyen.net/) [:prx:](https://truycapcuutruyen.pages.dev/)
-- [DocTruyen3Q](https://doctruyen3qui5.pro/) <Badge type="danger" text="18+" />
+- [DocTruyen3Q](https://doctruyen3qui5.pro/) :ero:
 - [Goc Truyen Tranh](https://goctruyentranh.net/)
 - [NhatTruyen](https://nhattruyenqq.com/)
 - [Than Vuc](https://thanvuc.com/)
@@ -740,9 +740,9 @@ ___
 - [Hako](https://docln.net/)
 - [Metruyenhot](https://metruyenhot.vn/)
 - [Sonako Light Novel Wiki](https://sonako.fandom.com/vi/wiki/Sonako_Light_Novel)
-- [SSTruyen](https://sstruyen.vn/) <Badge type="danger" text="18+" />
-- [TruyenFull.io](https://truyenfull.io/) <Badge type="danger" text="18+" />
-- [TruyenFull.tv](https://truyenfull.tv/) <Badge type="danger" text="18+" />
+- [SSTruyen](https://sstruyen.vn/) :ero:
+- [TruyenFull.io](https://truyenfull.io/) :ero:
+- [TruyenFull.tv](https://truyenfull.tv/) :ero:
 - [Xalosach](https://xalosach.com/)
 
 ### Others

@@ -136,7 +136,7 @@ ___
 - [J-Novel Club](https://j-novel.club/calendar)
 - [Kodansha](https://kodansha.us/calendar/)
 - [Seven Seas](https://sevenseasentertainment.com/release-dates/)
-- [SuBLime](https://www.sublimemanga.com/calendar)  <Badge type="danger" text="18+" />
+- [SuBLime](https://www.sublimemanga.com/calendar) :ero:
 - [SQUARE ENIX](https://squareenixmangaandbooks.square-enix-games.com/en-us/release-calendar)
 - [TITAN Comics](https://titan-comics.com/manga/)
 - [TOKYOPOP](https://tokyopop.com/collections/comingsoon)
@@ -278,7 +278,7 @@ ___
 - [Animerdle](https://www.animerdle.com/)
 - [Anipool](https://www.anipool.app/)
 - [Chiaki Anime Quiz](https://chiaki.site/?/quiz)
-- [Eroge Music Quiz](https://erogemusicquiz.com/) <Badge type="danger" text="18+" />
+- [Eroge Music Quiz](https://erogemusicquiz.com/) :ero:
 - [Guess The Anime Opening](https://guesstheopening.com/anime)
 
 
