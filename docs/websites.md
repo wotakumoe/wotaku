@@ -245,6 +245,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 | ^^           | [Anna's Archive](https://annas-archive.org/) [:prx:](https://rentry.org/wotaxy#annas-archive) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" /> |
 | ^^           | [Desuarchive](https://desuarchive.org/) :f: <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" /> |
 | ^^           | [Library Genesis+](https://libgen.gs/) [:prx:](https://rentry.org/wotaxy#library-genesis) |
+| ^^           | [The Manga Library](https://rentry.org/wotadirect#websites) |
 | ^^           | [Internet Archive](https://archive.org/) |
 | **Rippers**  | [1r0n](https://nyaa.si/user/tsuna69)<tooltip>Available in description</tooltip> |
 | ^^           | [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) |

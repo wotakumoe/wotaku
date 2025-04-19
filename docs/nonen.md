@@ -321,7 +321,6 @@ If you have recommendations for good sites in your native language or want to re
   - [Mynimeku](https://www.mynimeku.com/)
   - [Otaku Desu](https://otakudesu.cloud/)
   - [Samehadaku](https://samehadaku.care/)
-  - [ZANIME](https://anime.uhuyy.dev/) [:gh:](https://github.com/Fauzanmhr/zannime)
 - **DDL**
   - [Koisuru](https://db.koisuru.web.id/0:/) ==Koisuru==
   - [Kusonime](https://kusonime.com/)
@@ -442,22 +441,20 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 ## Korean
 
-### Anime
-- [aniabout](https://aniabout.com/) <Badge type="info" text="2" link="https://aniweek.com/" /> <Badge type="info" text="3" link="https://c.aniwolf.com/" /> <Badge type="info" text="4" link="https://a06.kotbc2.com/" /> <Badge type="info" text="5" link="https://a24.ohli24.com/" /> <Badge type="info" text="6" link="https://ohlipia.com/" />
-- [Anilife](https://anilife.live/)
-- [Anissia](https://anissia.net/)<tooltip>Subtitle files only, you need to get the episodes from another source.</tooltip>
-
-### Comics
-- [BlackToon](https://www.blacktoon.fun/) <Badge type="danger" text="18+" />
-- [Funbe](https://funbe512.com/%EC%9B%B9%ED%88%B0) <Badge type="danger" text="18+" />
-- [Manatoki](https://www.xn--h10b2b940bwzy.store/) <Badge type="danger" text="18+" />
-- [Wolf](https://nicelink22.com/) <Badge type="danger" text="18+" />
-- [XToon](https://t1.xtoon2.com/) <Badge type="danger" text="18+" />
-
-### Others
-- [Booktoki](https://www.xn--h10bx0wsvp.org/)
-- [GoPlay](https://goplay.su/) <Badge type="tip" text="2" link="https://goplay.ml/" /> <Badge type="tip" text="3" link="https://goplay.anontpp.com/" /> [:d:](https://discord.gg/yY2P3DQR8S)
-- [WatchaKR](https://m82.watchakr.com/) <Badge type="info" text="2" link="https://m133.kormovie.com/" /> <Badge type="info" text="3" link="https://m06.kotbc2.com/" /> <Badge type="info" text="4" link="https://m82.kowatcha.com/" />
+| Group | Website | Type |
+|-|-|-|
+| [KORSITE](https://korsite.net/) | [TOONKOR](https://tkor013.com/%EC%9B%B9%ED%88%B0) | Manhwa :ero: |
+| ^^                              | [Funbe](https://funbe527.com/%EC%9B%B9%ED%88%B0)  | Manhwa :ero: |
+| ^^                              | [BlackTOON](https://blacktoon349.com/)            | Manhwa :ero: |
+| ^^                              | [Annie24](https://ohli24.net/) [:prx:](https://rentry.org/wotaxy#annie24)   | Anime  |
+| [BlackToon](https://www.blacktoon.fun/) | [NEWTOKI](https://newtoki468.com/) | Manhwa :ero: |
+| ^^                                      | [Manatoki](https://manatoki468.net/) | Manga :ero: |
+| ^^                                      | [Booktoki](https://booktoki468.com/) [:prx:](https://www.xn--h10bx0wsvp.org/) | Novel :ero: |
+| Others  | [Wolf](https://nicelink22.com/) | Mix comics :ero: |
+| ^^      | [XToon](https://t1.xtoon2.com/) | ^^ |
+| ^^      | [Anilife](https://anilife.live/) | Anime |
+| ^^      | [Anissia](https://anissia.net/) | Anime Subs |
+| ^^      | [GoPlay](https://goplay.su/) [:prx:](https://rentry.org/wotaxy#goplay) [:d:](https://discord.gg/yY2P3DQR8S) | Live Action |
 
 ### Software
 
@@ -716,9 +713,7 @@ ___
 - [AnimeHay](https://animehay.in/)
 - [AnimeVsub](https://animevsub.eu.org/) [:gh:](https://github.com/anime-vsub/desktop-web)
 - [HHNINJA](https://hhninja14.tv/)
-- [Phimplay](https://phimplay24h.com/)
 - [Unime](https://unime.vercel.app/) [:gh:](https://github.com/huy232/Unime)
-- [Vui Ghe](https://vuighe3.com/)
 - [WebLinhTinh](https://weblinhtinh.net/)
 
 ### Comics
@@ -731,7 +726,6 @@ ___
 - [TruyenGG](https://truyengg.com/)
 - [TruyenQQ](https://truyenqqto.com/)
 - [Truyen Sieuhay](https://truyensieuhay.com/)
-- [YuriNeko](https://yurineko.site/) <Badge type="danger" text="18+" />
 
 ### Hentai
 - [DuaLeoTruyen](https://dualeotruyenbotx.com/)
