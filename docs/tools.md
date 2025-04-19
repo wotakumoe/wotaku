@@ -109,8 +109,7 @@ og:
 | ^^                         | [TrackersListCollection](https://github.com/XIU2/TrackersListCollection) |  
 | **[Internet Download Manager](https://www.internetdownloadmanager.com/)** | [Installation Guide](https://rentry.org/installidm) |  
 | **[JDownloader](https://jdownloader.org/)** | [Remove ads](/guides/tech/jdl) |  
-| **[MegaBasterd](https://github.com/tonikelope/megabasterd)** | [Account generator](https://github.com/qtchaos/py_mega_account_generator) |  
-| ^^                         | [MegaDoctor](https://github.com/tonikelope/megadoctor) |  
+| **[MegaBasterd](https://github.com/tonikelope/megabasterd)** | [Account generator](https://github.com/qtchaos/py_mega_account_generator) |   
 | **[qBittorrent](https://www.qbittorrent.org/)** | [Theme Index](https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-qBittorrent-themes) |  
 | ^^                         | [Search Plugins](https://github.com/qbittorrent/search-plugins) |  
 | ^^                         | [qBitController](https://github.com/Bartuzen/qBitController) |  
