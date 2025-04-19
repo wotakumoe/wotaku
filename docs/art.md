@@ -67,7 +67,6 @@ og:
 - [Konachan.net](https://konachan.net/) <Badge type="green" link="" text="SFW"/>
 - [Mikubooru](https://booru.funmaker.moe/) [:gh:](https://github.com/funmaker/hybooru)
 - [Safebooru](https://safebooru.org/) <Badge type="green" text="SFW" />
-- [TBIB](https://tbib.org/)
 - [yande.re](https://yande.re/)
 - [Zerochan](https://www.zerochan.net/) <Badge type="green" text="SFW" />
 
