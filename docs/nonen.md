@@ -491,7 +491,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 ### Anime
 - [AniBunker](https://www.anibunker.com/)
-- [AnimeFire](https://animefire.plus/) <Badge type="info" text="2" link="https://animefire.net/" />
+- [AnimeFire](https://animefire.plus/)
 - [AnimesROLL](https://www.anroll.net/)
 - [Better Anime](https://betteranime.net/)
 - [Geekdot](https://geekdot.live/)
