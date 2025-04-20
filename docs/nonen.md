@@ -291,7 +291,7 @@ If you have recommendations for good sites in your native language or want to re
   - [AnimeCat](https://anime.cat/)
   - [Anisaga](https://anisaga.org/)
   - [Toonbaba](https://toonbaba.site/)
-  - [ToonStream](https://toonstream.day/)
+  - [ToonStream](https://toonstream.love/)
 - **DDL**
   - [1XAnime](https://www.1xanimes.in/)
   - [Animeraja](https://www.animeraja.in/)
