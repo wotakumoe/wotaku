@@ -147,6 +147,7 @@ og:
 - [くまいゆうき / Kamai Yuki](https://www.youtube.com/@kumayuki55) <Badge type="tip" text="EN" link="https://www.youtube.com/@KumaiYuki_EN/" />
 - [Khelly](https://www.youtube.com/@Khelly_Ch/)
 - [もものふ&あおつき / momonofu & aotuki](https://www.youtube.com/@momonofuaotuki/) <Badge type="tip" text="EN" link="https://www.youtube.com/@momonofuen1427/" />
+- [ニコニコニコたん手描き切り抜き (Niconiconico-tan Tegaki Kirinuki)](https://www.youtube.com/@25tan_ouen_tegaki) :fjp:
 - [noeee](https://www.youtube.com/@noeee/)
 - [Riri Zpt](https://www.youtube.com/@RiriZhepelton/)
 - [てりたま / Teritama](https://www.youtube.com/@%E3%81%A6%E3%82%8A%E3%81%9F%E3%81%BE-k1s) <Badge type="tip" text="EN" link="" />
