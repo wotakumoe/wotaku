@@ -162,6 +162,7 @@ og:
 - [ChegiCH](https://www.youtube.com/@chegichannel/)
 - [Crash Landing Studios](https://www.youtube.com/@CrashLandingStudio/) :s:
 - [Kanauru](https://www.youtube.com/@kanauru) :s:
+- [Miriwa ミリワ](https://www.youtube.com/@Miriwa)
 - [Terrible Joe](https://www.youtube.com/@TerribleJhoe)
 - [tives](https://www.youtube.com/@tivetives/)
 
@@ -209,7 +210,7 @@ og:
 | [hololive ERROR](https://store.steampowered.com/app/2062550/) | $5.49  | POV  | 株式会社Mogura     | CCMC Corp. |
 | [holo8](https://store.steampowered.com/app/3373960/) | $2.49  | POV  | frog blend        | holo Indie |
  
-### Platformer
+### Platformer / Side-scrolling
   
 | Game                                                       | Price  | MC                 | Dev        | Publisher |
 |------------------------------------------------------------|--------|--------------------|------------|-----|
@@ -240,7 +241,9 @@ og:
 |----------------------------------------------------------------|--------|--------------------|------------|-----|
 | [ChikuTaku](https://watsonamelia.itch.io/chikutaku) | Free | Amelia Watson | CenTdemeern1 | Amelia Watson |
 | [Deadbeats Encore](https://zkfie.itch.io/deadbeat) | Free | Calliope Mori | fie | fie |
+| [Gura Tambourine](https://nullrefrepro.itch.io/gura-tambourine) | Free | Gawr Gura | nullrefrepro | nullrefrepro |
 | [HoloCall - Send Your Cheers!](https://store.steampowered.com/app/3439700/) :fjp: | Free | POV | Wei Hsu | Wei Hsu |
+| [Holo EN Rhythm Game](https://nullrefrepro.itch.io/hinotori-rhythm) | Free | Gawr Gura | nullrefrepro | nullrefrepro |
 | [Kizuna AI - Touch the Beat!](https://store.steampowered.com/app/2168240/) | $32.99 | Kizuna AI | Gemdrops, Inc. | Gemdrops, Inc. |
 
 
