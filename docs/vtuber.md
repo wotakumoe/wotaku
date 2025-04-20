@@ -216,6 +216,7 @@ og:
 | [Bibbidiba fan game](https://store.steampowered.com/app/3428800/) | Free   | Hoshimachi Suisei | shadow     | holo Indie |
 | [Chrono Gear: Warden of Time](https://store.steampowered.com/app/3081840/) | - | Ouro Kronii | Team Chrono Gear | holo Indie |
 | [FLARE NUINUI QUEST](https://store.steampowered.com/app/3081830/) | $4.49  | Shiranui Flare    | sulpx      | holo Indie |
+| [FUBUKI ～zero in on Holoearth～](https://store.steampowered.com/app/3446990/) | $6.79 | Shirakami Fubuki | PEPOSOFT | Phoenixx Inc. |
 | [hololive GoroGoro Mountain](https://store.steampowered.com/app/3511130/) | -  | POV  | BeXide    | holo Indie |
 | [HoloRun](https://store.steampowered.com/app/3389760/) | $2.99  | Hololive          | Pixfox     | holo Indie |
 | [Nameless](https://sk-jynx.itch.io/nameless)                | Free   | Nanashi Mumei     | SK_Jynx | SK_Jynx |
