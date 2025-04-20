@@ -445,8 +445,8 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | Group | Website | Type |
 |-|-|-|
 | [KORSITE](https://korsite.net/) | [TOONKOR](https://tkor013.com/%EC%9B%B9%ED%88%B0) | Manhwa :ero: |
-| ^^                              | [Funbe](https://funbe527.com/%EC%9B%B9%ED%88%B0)  | Manhwa :ero: |
-| ^^                              | [BlackTOON](https://blacktoon349.com/)            | Manhwa :ero: |
+| ^^                              | [Funbe](https://funbe527.com/%EC%9B%B9%ED%88%B0)  | ^^ |
+| ^^                              | [BlackTOON](https://blacktoon349.com/)            | ^^ |
 | ^^                              | [Annie24](https://ohli24.net/) [:prx:](https://rentry.org/wotaxy#annie24)   | Anime  |
 | [BlackToon](https://www.blacktoon.fun/) | [NEWTOKI](https://newtoki468.com/) | Manhwa :ero: |
 | ^^                                      | [Manatoki](https://manatoki468.net/) | Manga :ero: |
