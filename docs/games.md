@@ -42,7 +42,7 @@ og:
 - [FantasyAnime](https://fantasyanime.com/)
 - [Myrient](https://myrient.erista.me/)
 - [RetroGameTalk](https://retrogametalk.com/) :acc:
-- [Romheaven](https://romheaven.com/) <Badge type="info" text="2" link="https://romheaven.su/" /> <Badge type="info" text="PD Bypass" link="https://pixeldrain-bypass.cybar.xyz/" />
+- [Romheaven](https://romheaven.com/) [:alt:](https://romheaven.su/) <Badge type="info" text="PD Bypass" link="https://pixeldrain-bypass.cybar.xyz/" />
 - [ROMsPURE](https://romspure.cc/roms)
 - [The ROM Depot](https://theromdepot.com/) :acc:
 - [AlvRo's Collection](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml) :host:

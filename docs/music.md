@@ -21,12 +21,12 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 # Stream
 
 ## Anime
-- [AnimeThemes](https://animethemes.moe/) :s: [:gh:](https://github.com/AnimeThemes) <Badge type="info" text="Alt" link="https://themes.moe/" />
+- [AnimeThemes](https://animethemes.moe/) :s: [:gh:](https://github.com/AnimeThemes) [:alt:](https://themes.moe/)
 - [Animusic](https://animusic.moe/)
 - [Karaoke Mugen](https://kara.moe)
 - [Lyrical Nonsense](https://www.lyrical-nonsense.com/global/)
-- [Anisong Database](https://anisongdb.com/) [:gh:](https://github.com/xSardine/AMQ-Artists-DB) <Badge type="info" text="Alt" link="https://43d.github.io/player/#/" />
-- [Squidify](https://www.squidify.org/) <Badge type="tip" text="2" link="https://www.squidify.net/" /> <Badge type="tip" text="Guide" link="/guides/music/squidify" />
+- [Anisong Database](https://anisongdb.com/) [:gh:](https://github.com/xSardine/AMQ-Artists-DB) [:alt:](https://43d.github.io/player/#/)
+- [Squidify](https://www.squidify.org/) [:alt:](https://www.squidify.net/) [:help:](/guides/music/squidify)
 - [One Piece Tracklist](http://onepiecetracklist.com/)
 
 ## AMVs
@@ -42,7 +42,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 
 
 ## Games
-- [Squidify](https://www.squidify.org/) :s: <Badge type="tip" text="2" link="https://www.squidify.net/" /> <Badge type="tip" text="Guide" link="/guides/music/squidify" />
+- [Squidify](https://www.squidify.org/) :s: [:alt:](https://www.squidify.net/) [:help:](/guides/music/squidify)
 - [Zophar's Domain](https://www.zophar.net/music) :ddl:
 - [Vidya Intarweb Playlist](https://www.vipvgm.net/)
 - [Keygen Music](https://keygenmusic.tk/)
@@ -130,7 +130,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 |-|-|
 | [Squid.wtf](https://squid.wtf/) :s: | Qobuz, Deezer, THInsider |
 | [DAB Music Player](https://dab-music.vercel.app/) ==dab== | Qobuz |
-| [Lucida](https://lucida.to/) <Badge type="tip" text="2" link="https://lucida.su/" /> | Qobuz, Tidal, Amazon Music, Deezer, Yandex |
+| [Lucida](https://lucida.to/) [:alt:](https://lucida.su/) | Qobuz, Tidal, Amazon Music, Deezer, Yandex |
 | [DeezMate](https://deezmate.com/) | Deezer |
 
 ## Doujin
@@ -206,7 +206,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 - [Game That Tune Radio](https://gttradio.com/)
 - [Rainwave VGM Radio](https://rainwave.cc/all/)
 - [RPGamers Radio](http://www.rpgamers.net/radio/)
-- [SquidRadio](https://radio.sittingonclouds.net/) <Badge type="info" text="2" link="https://www.squidify.org/library/radios" />
+- [SquidRadio](https://radio.sittingonclouds.net/) [:alt:](https://www.squidify.org/library/radios)
 
 
 
@@ -427,10 +427,10 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 ### Foobar2000 add-ons
 - **Component**
   - [Coverflow](https://www.foobar2000.org/components/view/foo_chronflow)
-  - [Discord Rich Presence Integration](https://github.com/s0hv/foo_discord_rich) <Badge type="info" text="Catbox" link="https://github.com/realoksi/foobar2000-catbox" /> <Badge type="info" text="Guide" link="https://s0hv.github.io/foo_discord_rich/" />
+  - [Discord Rich Presence Integration](https://github.com/s0hv/foo_discord_rich) <Badge type="info" text="Catbox" link="https://github.com/realoksi/foobar2000-catbox" /> [:help:](https://s0hv.github.io/foo_discord_rich/)
   - [Encoder Pack](https://www.foobar2000.org/encoderpack)
   - [ESLyric](https://github.com/ESLyric/release)
-  - [OpenLyrics](https://www.foobar2000.org/components/view/foo_openlyrics) <Badge type="info" text="Guide" link="/guides/music/fb2klyrics" />
+  - [OpenLyrics](https://www.foobar2000.org/components/view/foo_openlyrics) [:help:](/guides/music/fb2klyrics)
   - [ReplayGain DSP](https://www.foobar2000.org/components/view/foo_dsp_replaygain)
 - **Theme**
   - [Georgia-ReBORN](https://github.com/TT-ReBORN/Georgia-ReBORN) 
@@ -528,7 +528,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 - [MP3Tag](https://www.mp3tag.de/en/) :win::app::cs:
 - [MusicBrainz Picard](https://picard.musicbrainz.org/) :win::app::lin: [:gh:](https://github.com/metabrainz/picard)
 - [TagScanner](https://www.xdlab.ru/en/) :win::cs:
-- [beets](https://beets.io/) [:gh:](https://github.com/beetbox/beets) <Badge type="info" text="Guide" link="https://beets.readthedocs.io/en/stable/index.html" />
+- [beets](https://beets.io/) [:gh:](https://github.com/beetbox/beets) [:help:](https://beets.readthedocs.io/en/stable/index.html)
 
 ### Misc
 - [Karaoke Mugen](https://mugen.karaokes.moe/en/) :win::app::lin: [:gl:](https://gitlab.com/karaokemugen/code/karaokemugen-app)

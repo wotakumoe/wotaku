@@ -21,7 +21,7 @@ outline: [1,2]
 - [Kitsu](https://kitsu.app/explore/anime)
 - [Kurozora](https://kurozora.app/)
 - [Sakuhin Database](https://sakuhindb.com/) :fjp:
-- [Wikipedia](https://www.wikipedia.org/) <Badge type="info" text="Alt" link="https://www.wikiwand.com/" />
+- [Wikipedia](https://www.wikipedia.org/) [:alt:](https://www.wikiwand.com/)
 
 ### Anime
 - [aniDB](https://anidb.net/) :s:
@@ -49,7 +49,7 @@ outline: [1,2]
 - [Behind The Voice Actors](https://www.behindthevoiceactors.com/)
 
 ### Others
-- [FanCons](https://fancons.com/) <Badge type="tip" text="2" link="https://animecons.com/" />
+- [FanCons](https://fancons.com/) [:alt:](https://animecons.com/)
 - [MyAnimeShelf](https://myanimeshelf.com/)
 - [MyDramaList](https://mydramalist.com/)
 - [MyFigureCollection](https://myfigurecollection.net/)
@@ -194,7 +194,7 @@ ___
 | **Info / News** | [Deb Aoki](https://x.com/debaoki) :x: |  
 | ^^ | [Josu Ke](https://x.com/Josu_ke) :s::x: [:web:](https://www.mangacodex.com/) ==JosuKe== |  
 | ^^ | [Manga Alerts](https://x.com/MangaAlerts) :x: |  
-| ^^ | [Manga Mogura](https://x.com/MangaMoguraRE) <Badge type="tip" text="2" link="https://x.com/MangaReporter" /> :x: |  
+| ^^ | [Manga Mogura](https://x.com/MangaMoguraRE) [:alt:](https://x.com/MangaReporter) :x: |  
 | ^^ | [Ecchi & Smut Mogura](https://x.com/EcchiMogura) :x: |  
 | ^^ | [Shonen Jump News](https://x.com/WSJ_manga) :s::x: |  
 | **Blog / Interview** | [BehindTheManga](https://www.behindthemanga.com/) |  

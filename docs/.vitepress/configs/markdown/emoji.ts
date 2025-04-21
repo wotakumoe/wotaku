@@ -106,6 +106,7 @@ const aliases: Record<string, string> = {
   s: 'twemoji-glowing-star',
   e: 'mdi-puzzle',
   n: 'material-symbols-science',
+  alt: 'ic-round-looks-two',
   ero: 'twemoji-no-one-under-eighteen',
   acc: 'material-symbols-person-add',
   rss: 'simple-icons-rss',

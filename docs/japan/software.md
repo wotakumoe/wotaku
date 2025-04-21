@@ -63,7 +63,7 @@ ___
 - [Hanzi Web](https://ankiweb.net/shared/info/125468335?cb=1740905928130) [:gh:](https://github.com/elizagamedev/anki-hanziweb)
 - [KanjiDamage](https://ankiweb.net/shared/info/748570187)
 - [Kanji de Go](https://github.com/MarvNC/kanjidego-yomitan-anki)
-- [Kanken Deck](https://ankiweb.net/shared/info/759825185) <Badge type="info" text="Advanced" /> <Badge type="tip" text="2" link="https://ankiweb.net/shared/info/1113953752" />
+- [Kanken Deck](https://ankiweb.net/shared/info/759825185) <Badge type="info" text="Advanced" /> [:alt:](https://ankiweb.net/shared/info/1113953752)
 - [Kodansha kanji learner's course with vocabulary](https://ankiweb.net/shared/info/779483253) 
 - [RRTK450 Anki deck](https://rentry.org/wotadirect) <Badge type="info" text="Beginner" />
 - [Usagi Chan Kanji Phonetics Deck](https://drive.google.com/file/d/1xyynMQiOuqlC_cBBTwG9t3snRubHqU7e/view)
@@ -141,7 +141,7 @@ ___
 
 #### Video Player
 - [Anime Subtitle Player](https://anime-subtitle-player.vercel.app/) :web: [:gh:](https://github.com/LostArrows27/anime-subtitle-player)
-- [Animebook](https://animebook.github.io/) :web: <Badge type="info" text="Guide" link="https://cademcniven.com/posts/20210703/" />
+- [Animebook](https://animebook.github.io/) :web: [:help:](https://cademcniven.com/posts/20210703/)
 - [Asbplayer](https://killergerbah.github.io/asbplayer/) :web::cr: [:gh:](https://github.com/killergerbah/asbplayer)
 - [Emby Jimaku](https://github.com/bpwhelan/Emby.Jimaku)
 - [Stremio Jimaku](https://jimaku-subs-stremio.echevarria.org/configure) [:gh:](https://github.com/Pedrubik2000/jimaku-subs-stremio)
@@ -169,7 +169,7 @@ ___
 
 
 ### Browser
-- [Yomitan](https://yomitan.wiki/) :s: :ff::cr: [:gh:](https://github.com/yomidevs/yomitan) <Badge type="tip" text="Guide" link="https://learnjapanese.moe/yomichan/" /><tooltip>Pop-up dictionary. Can be used on mobile, with browsers that support extensions.</tooltip>
+- [Yomitan](https://yomitan.wiki/) :s: :ff::cr: [:gh:](https://github.com/yomidevs/yomitan) [:help:](https://learnjapanese.moe/yomichan/)<tooltip>Pop-up dictionary. Can be used on mobile, with browsers that support extensions.</tooltip>
     - [Yomitan Dictionaries](https://github.com/MarvNC/yomichan-dictionaries/)
     - [Yomitan Grammar Dictionaries](https://github.com/aiko-tanaka/Grammar-Dictionaries)
     - [VNDB Names for Yomitan](https://github.com/kaanium/VNDB-Names-for-Yomitan)
@@ -187,7 +187,7 @@ ___
 ### Tools
 
 #### Dictionary / Word Lookup
-- [GoldenDict-NG](https://xiaoyifang.github.io/goldendict-ng/)  <Badge type="tip" text="Guide" link="https://tatsumoto.neocities.org/blog/setting-up-goldendict"/> <Badge type="tip" text="Tools" link="https://github.com/Ajatt-Tools/gd-tools" />
+- [GoldenDict-NG](https://xiaoyifang.github.io/goldendict-ng/) [:help:](https://tatsumoto.neocities.org/blog/setting-up-goldendict) <Badge type="tip" text="Tools" link="https://github.com/Ajatt-Tools/gd-tools" />
 - [Kamite](https://github.com/fauu/Kamite)
 - [japReader](https://github.com/marisukukise/japReader)
 - [JL](https://github.com/rampaa/JL)
@@ -217,7 +217,7 @@ ___
 - [Game Sentence Miner](https://github.com/bpwhelan/GameSentenceMiner)
 - [Luna Hook](https://github.com/HIllya51/LunaHook)
 - [Luna Translator](https://github.com/HIllya51/LunaTranslator)
-- [Textractor](https://github.com/Artikash/Textractor) <Badge type="tip" text="Guide" link="https://lazyguidejp.github.io/jp-lazy-guide/setupVnOnPC/" />
+- [Textractor](https://github.com/Artikash/Textractor) [:help:](https://lazyguidejp.github.io/jp-lazy-guide/setupVnOnPC/)
 - [Texthooker UI](https://github.com/Renji-XD/texthooker-ui)
 - [Textractor websocket](https://github.com/kuroahna/textractor_websocket)
 - [Trim Japanese Game Audio](https://github.com/bpwhelan/TrimJapaneseGameAudio/)

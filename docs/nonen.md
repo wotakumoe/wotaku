@@ -23,7 +23,7 @@ If you have recommendations for good sites in your native language or want to re
 - [Anime Nexus](https://anime.nexus/)
 - [AnimeStream](https://anime.uniquestream.net/)
 - [HiAnime](https://hianimez.to/home)
-- [Hikari](https://hikari.gg/) <Badge type="tip" text="2" link="https://watch.hikaritv.xyz/" />
+- [Hikari](https://hikari.gg/) [:alt:](https://watch.hikaritv.xyz/)
 - [KickAssAnime](https://kaa.mx/)
 - [Sudatchi](https://sudatchi.com/)
 
@@ -69,7 +69,7 @@ If you have recommendations for good sites in your native language or want to re
 ## Balkan
 
 ### Anime
-- [Anime Balkan](https://animebalkan.org/) <Badge type="tip" text="2" link="https://animebalkan.gg/" />
+- [Anime Balkan](https://animebalkan.org/) [:alt:](https://animebalkan.gg/)
 - [AnimeOverdose](https://www.anime-overdose.com/)
 - [Anime Srbija](https://www.animesrbija.com/)
 
@@ -126,7 +126,7 @@ If you have recommendations for good sites in your native language or want to re
 - [Baozimh.com](https://www.baozimh.com/)
 - [Baozimh.org](https://baozimh.org/)
 - [Colamanga](https://www.colamanga.com/)
-- [Copymanga](https://www.mangacopy.com/) <Badge type="tip" text="2" link="https://www.copy-manga.com/" /> :ero:
+- [Copymanga](https://www.mangacopy.com/) [:alt:](https://www.copy-manga.com/) :ero:
 - [DMZJ](https://www.idmzj.com/)
 - [Komiic](https://komiic.com/)
 - [Manga Reader](https://1zumii.github.io/manga-reader/#/) [:gh:](https://github.com/1zumii/manga-reader)
@@ -143,7 +143,7 @@ If you have recommendations for good sites in your native language or want to re
 - [55Comic](https://www.55comic.com/)
 - [HD Comic](https://www.hdcomic.com/)
 - [JAV Comics](https://javcomics.com/)
-- [JMWU](https://jmwu.xyz/) <Badge type="tip" text="2" link="https://jmzj.xyz/" />
+- [JMWU](https://jmwu.xyz/) [:alt:](https://jmzj.xyz/)
 - [PicACG](https://manhuabika.com/)
 - [WNACG](https://www.wnacg.com/)
 
@@ -210,8 +210,8 @@ If you have recommendations for good sites in your native language or want to re
 - [AnimeKO](https://animeko.ws/)
 - [Anime-Sama](https://anime-sama.fr/)
 - [AnimesUltra](https://v6.animesultra.net/)
-- [FanKai](http://fankai.fr/) <Badge type="tip" text="2" link="https://linktr.ee/FanKai" />
-- [FRAnime](https://franime.fr/) <Badge type="tip" text="2" link="https://franime.to/" />
+- [FanKai](http://fankai.fr/) [:alt:](https://linktr.ee/FanKai)
+- [FRAnime](https://franime.fr/) [:alt:](https://franime.to/)
 - [French Anime](https://french-anime.com/)
 - [JetAnime](https://vww.jetanimes.com/)
 - [Mavanimes](https://mavanimes.co/)
@@ -390,7 +390,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [KL Manga](https://klz9.com/idx) [:prx:](https://rentry.org/wotaxy#kl-manga)
 - [MangaFire](https://mangafire.to/home)
 - [Manga Jikan](https://www.mangajikan.com/) [:prx:](https://rentry.org/wotaxy#manga-jikan)
-- [Manga RAW](https://mangajp.top/) <Badge type="tip" text="2" link="https://mangaraw.org/" />
+- [Manga RAW](https://mangajp.top/) [:alt:](https://mangaraw.org/)
 - [Manga RAW (.best)](https://mangaraw.best/)
 - [MangaReader](https://mangareader.to/home)
 - [Pixiv Comics](https://comic.pixiv.net/)
@@ -398,12 +398,12 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [RAW 1001](https://raw1001.net/home)
 - [Rawkuma](https://rawkuma.com/)
 - [Rawkuro](https://rawkuro.net/home)
-- [Raw Otaku](https://rawotaku.com/home/) <Badge type="tip" text="2" link="https://jmanga.ac/home/" />
-- [RawUwU](https://rawuwu.com/) <Badge type="tip" text="2" link="https://rawdevart.art/" />
+- [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.ac/home/)
+- [RawUwU](https://rawuwu.com/) [:alt:](https://rawdevart.art/)
 - [Sen Manga](https://raw.senmanga.com/)
 - [Spoilerplus](https://spoilerplus.tv/) ==Spoilerplus==
 - [Twicomi](https://twicomi.com/)
-- [We Love Manga](https://welovemanga.one/) <Badge type="tip" text="2" link="https://manga1000.top/" />
+- [We Love Manga](https://welovemanga.one/) [:alt:](https://manga1000.top/)
 
 ### Download
 
@@ -425,7 +425,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | [Comic 77](https://comic77.com/) | :yes: | :no: | :no: |
 | [Comics 888](https://comics888.com/) | :yes: | :yes: | :yes: |
 | [DL-Raw](https://dl-raw.se/) | :yes: | :yes: | :yes: |
-| [DL Raw net](https://dlraw.net/category/raw-manga/) <Badge type="tip" text="2" link="https://manga-zip.info/category/raw-manga/" /> <Badge type="tip" text="3" link="https://13dl.me/home.i1/" /> | :yes: | :yes: | :yes: |
+| [DL Raw net](https://dlraw.net/category/raw-manga/) [:prx:](https://rentry.org/wotaxy#dl-raw) | :yes: | :yes: | :yes: |
 | [DL Zip](https://dl-zip.com/) | :yes: | :yes: | :yes: |
 | [JPFiles](https://jpfiles.net/) | :yes: | :yes: | :yes: |
 | [Manga Zone](http://www.manga-zone.org/) | :yes: | :no: | :yes: |

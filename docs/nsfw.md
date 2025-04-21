@@ -75,7 +75,7 @@ og:
 - [Sauce Manhwa](https://saucemanhwa.org/) <Badge type="info" text="+Raw" />
 - [Toonily](https://toonily.com/) :s:
 - [Webtoon](https://www.webtoon.xyz/)
-- [Webtooni](https://webtooni.net/en/)  <Badge type="tip" text="2" link="https://heytoon.net/en/" />
+- [Webtooni](https://webtooni.net/en/)  [:alt:](https://heytoon.net/en/)
 
 ### Scanlators {open}
 - [The Blank](https://mangadex.org/group/d53b6ec6-bbbf-4fad-a254-2b7ddda84c2c/the-blank) :s: [:web:](https://theblank.net/)
@@ -104,10 +104,10 @@ og:
 - [yande.re](https://yande.re/)
 
 ### Frontends
-- [Booru Masonry](https://booru.cocomi.eu.org/) :s: [:gh:](https://github.com/asadahimeka/booruwf-web) <Badge type="tip" text="2" link="https://booru.vercel.app/" />
+- [Booru Masonry](https://booru.cocomi.eu.org/) :s: [:gh:](https://github.com/asadahimeka/booruwf-web) [:alt:](https://booru.vercel.app/)
 - [Consurf](https://consurf.onrender.com/) [:gh:](https://github.com/QueenAkaAlt/Consurf)
 - [Danbooru Viewer](https://danbooru.defaultkavy.com/) [:gh:](https://github.com/defaultkavy-dev/danbooru-viewer)
-- [Moeview](https://moeview.app/) <Badge type="tip" text="2" link="https://moeview.pages.dev/" /> <Badge type="tip" text="3" link="https://moeview.cocomi.eu.org/" />
+- [Moeview](https://moeview.app/) [:prx:](https://rentry.org/wotaxy#moeview)
 - [Pixiv Viewer](https://pixiv.pictures/) [:gh:](https://github.com/asadahimeka/pixiv-viewer)
 
 ## Games
@@ -204,7 +204,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [HentTag](https://hentag.com/)
 - [Hentai ASMR](https://www.hentaiasmr.moe/)
 - [Japanese ASMR](https://japaneseasmr.com/)
-- [Kasumi](http://xdcc.kasumi.moe/) <Badge type="tip" text="Guide" link="http://kasumi.moe/guide/" />
+- [Kasumi](http://xdcc.kasumi.moe/) [:help:](http://kasumi.moe/guide/)
 - [Kemono](https://kemono.su/)
 - [Manga-DB](https://adultcomic.dbsearch.net/) :fjp::s:
 - [Nekohouse](https://nekohouse.su/)
@@ -215,7 +215,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 ### Stream
 - [MissAV](https://missav.ws/)
 - [JAVLibrary](https://www.javlibrary.com/en/)
-- [SexTB](https://sextb.net/) <Badge type="tip" text="2" link="https://sextb.date/" />
+- [SexTB](https://sextb.net/) [:alt:](https://sextb.date/)
 - [JavGuru](https://jav.guru/)
 - [JAVSeen](https://javseen.tv/)
 - [JAVGG](https://javgg.net/)
@@ -223,13 +223,13 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 ### Torrent
 - [Project JAV](https://projectjav.com/)
 - [One JAV](https://onejav.com/)
-- [141 JAV](https://www.141jav.com/) <Badge type="tip" text="2" link="https://www.141ppv.com/" />
+- [141 JAV](https://www.141jav.com/) [:alt:](https://www.141ppv.com/)
 
 ### Others
 - [Gravure Idols](https://gravureidols.top/)
 - [Mabui Onna](https://mabui-onna.com/)
 - [Sougou Wiki](http://sougouwiki.com/)
-- [X-IDOL](https://xidol.net/) <Badge type="tip" text="2" link="https://www.ivworld.net/" />
+- [X-IDOL](https://xidol.net/) [:alt:](https://www.ivworld.net/)
 
 ## Communities
 

@@ -55,7 +55,7 @@ og:
 - [kisskh](https://kisskh.co/) <Badge type="info" text="720p" />
 - [Asiaflix](https://asiaflix.net/home)
 - [SFlix](https://sflix2.to/home) <Badge type="info" text="JP" link="https://sflix2.to/filter?type=all&quality=all&release_year=all&genre=all&country=173" />
-- [Tokuzilla](https://tokuzilla.net/) <Badge type="info" text="2" link="https://tokuzl.net/" />
+- [Tokuzilla](https://tokuzilla.net/) [:alt:](https://tokuzl.net/)
 - [Toku555](https://toku555.com/)
 - [JP-Films](https://jp-films.com/)
 - [Rare Doramas](https://www.raredoramas.com/) :ddl:
@@ -141,7 +141,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 
 ### Others
 - [Condensed Audio Catalog](https://condensedaudiocatalog.com/)
-- [Japanese Condensed Audio](https://mega.nz/folder/8HhhWDyJ#SHw5xsYxyhWUX536UcqkeQ) <Badge type="tip" text="2" link="https://mega.nz/folder/N4d3STJC#w3wPPgk9UgD6qE_UvjtB8Q" />
+- [Japanese Condensed Audio](https://mega.nz/folder/8HhhWDyJ#SHw5xsYxyhWUX536UcqkeQ) [:alt:](https://mega.nz/folder/N4d3STJC#w3wPPgk9UgD6qE_UvjtB8Q)
 
 
 ## YouTube
@@ -159,4 +159,4 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 - [Seichan Bungaku](https://www.youtube.com/@seichan_bungaku/featured)
 - [Speak Japanese Naturally](https://www.youtube.com/@SpeakJapaneseNaturally)
 - [YUYUの日本語Podcast](https://www.youtube.com/@yuyunihongopodcast)
-- [Folktales](https://www.youtube.com/playlist?list=PL1DnK3_eexijBUgFRq9Vlc1mW3gQv6gPf) <Badge type="tip" text="2" link="https://www.youtube.com/playlist?list=PL1DnK3_eexigbTRh6rIZIIY8MJfvnlw9Q" />
+- [Folktales](https://www.youtube.com/playlist?list=PL1DnK3_eexijBUgFRq9Vlc1mW3gQv6gPf) [:alt:](https://www.youtube.com/playlist?list=PL1DnK3_eexigbTRh6rIZIIY8MJfvnlw9Q)

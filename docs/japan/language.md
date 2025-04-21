@@ -235,7 +235,7 @@ ___
 ### N5 & N4
 | **Category** | **Resources** |  
 |--------------|---------------|  
-| **Kanji** | [Remembering the Kanji 1](https://www.amazon.com/gp/product/0824835921) <Badge type="tip" text="2" link="https://www.amazon.com/gp/product/0824836693"/> <Badge type="info" text="General" /> |
+| **Kanji** | [Remembering the Kanji 1](https://www.amazon.com/gp/product/0824835921) [:alt:](https://www.amazon.com/gp/product/0824836693) <Badge type="info" text="General" /> |
 | ^^          | [The Kodansha Kanji Learner's Course](https://www.amazon.com/Kodansha-Kanji-Learners-Course-Step/dp/1568365268) |
 | ^^          | [Kanji Look and Learn](https://www.amazon.com/Kanji-Look-Learn-Eri-Banno/dp/4789013499) |
 | ^^          | [Tobira: Power Up Your Kanji](https://www.amazon.com/gp/product/4874244874) |
@@ -244,9 +244,9 @@ ___
 | **Grammar** | [Genki Textbook Volume 1](https://www.amazon.com/Genki-Vol-1-Textbook-3e-ed/dp/4789017303) <Badge type="tip" text="Workbook" link="https://www.amazon.com/Genki-Vol-1-Workbook-3e-ed/dp/4789017311" /> |
 | ^^          | [Genki Textbook Volume 2](https://www.amazon.com/Genki-Integrated-Elementary-Japanese-Multilingual/dp/478901732X) <Badge type="tip" text="Workbook" link="https://www.amazon.com/Genki-Integrated-Elementary-Japanese-Multilingual/dp/4789017338" /> |
 | ^^          | [Genki Answer Key](https://www.amazon.com/GENKI-Integrated-Elementary-Japanese-E8-A7-A3-E7-AD-94-E3-80-90-E7-AC-AC3-E7-89-88-E3-80-91-dp-478/dp/4789017362) |
-| ^^          | [Tobira 1: Beginning Japanese](https://www.amazon.com/Tobira-Beginning-Japanese-Resources-Multilingual/dp/4874248705) <Badge type="tip" text="2" link="https://www.amazon.com/Tobira-II-Beginning-Japanese-Multilingual/dp/4874249000" /> |
+| ^^          | [Tobira 1: Beginning Japanese](https://www.amazon.com/Tobira-Beginning-Japanese-Resources-Multilingual/dp/4874248705) [:alt:](https://www.amazon.com/Tobira-II-Beginning-Japanese-Multilingual/dp/4874249000) |
 | ^^          | [Nihongo Fun&Easy](https://www.amazon.com/NIHONGO-FUN-EASY-Conversation-Beginners/dp/4872177215) |
-| ^^          | [Minna No Nihongo 1](https://www.amazon.com/Minna-No-Nihongo-Beginner-2nd/dp/4883196038) <Badge type="tip" text="2" link="https://www.amazon.com/Minna-Nihongo-II-Main-Textbook/dp/4883196461"/> <Badge type="tip" text="Workbook" link="https://www.amazon.com/Nihongo-Shokyu-Workbook-Hyojun-Mondaishu/dp/4883196631/" /> |
+| ^^          | [Minna No Nihongo 1](https://www.amazon.com/Minna-No-Nihongo-Beginner-2nd/dp/4883196038) [:alt:](https://www.amazon.com/Minna-Nihongo-II-Main-Textbook/dp/4883196461) <Badge type="tip" text="Workbook" link="https://www.amazon.com/Nihongo-Shokyu-Workbook-Hyojun-Mondaishu/dp/4883196631/" /> |
 
 
 ### N3

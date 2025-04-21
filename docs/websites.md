@@ -26,7 +26,7 @@ outline: 1
 |----------|----------------------|----------------------|
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :mingcute-shovel-fill: | :no: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :mingcute-server-fill: | :mingcute-user-2-fill: |
-| [AnimeKai](https://animekai.to/home) <Badge type="tip" text="2" link="https://animekai.bz/home" /> ==AnimeKai== | :mingcute-server-fill: | :mingcute-refresh-2-fill: :mingcute-user-2-fill: |
+| [AnimeKai](https://animekai.to/home) [:alt:](https://animekai.bz/home) ==AnimeKai== | :mingcute-server-fill: | :mingcute-refresh-2-fill: :mingcute-user-2-fill: |
 | [KickAssAnime](https://kaa.mx/) ==KAA== | :mingcute-server-fill: :mingcute-shovel-fill: | :mingcute-user-2-fill: |
 | [HiAnime](https://hianimez.to/home) [:prx:](https://hianime.tv/) ==Zoro== | :mingcute-server-fill: | :mingcute-user-2-fill: |
 | [Hikari](https://watch.hikaritv.xyz/) ==Hikari== | :mingcute-server-fill: | :mingcute-user-2-fill: |
@@ -53,7 +53,7 @@ outline: 1
 - [Anime Realms](https://www.animerealms.org/) :mingcute-refresh-2-fill: ==AnimeRealms==  
 - [AniPlay](https://aniplaynow.live/) :mingcute-refresh-2-fill::mingcute-user-2-fill: ==AniPlay==  
 - [Enimoe](https://enimoe.live/) :mingcute-refresh-2-fill: ==Enimoe==  
-- [Gojo](https://gojo.live/) :mingcute-user-2-fill: <Badge type="info" text="2" link="https://gojo.wtf" /> ==Gojo==  
+- [Gojo](https://gojo.live/) :mingcute-user-2-fill: [:alt:](https://gojo.wtf) ==Gojo==  
 - [Miruro](https://www.miruro.tv/) :mingcute-refresh-2-fill: [:prx:](https://www.miruro.com) ==miruro==
 
 :::
@@ -100,7 +100,7 @@ outline: 1
 - [Anime Tosho](https://animetosho.org/)
 - [Anirena](https://www.anirena.com/)
 - [Shana Project](https://www.shanaproject.com/)
-- [Tokyo Toshokan](https://www.tokyotosho.info/) <Badge type="info" text="2" link="http://tokyo-tosho.net/" />
+- [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](http://tokyo-tosho.net/)
 
 
 ### Direct Download
@@ -127,7 +127,7 @@ outline: 1
 | ^^ | [JPFiles](https://jpfiles.net/) :host::mdi-disc: |
 | ^^ | [AnimeRSS](https://animerss.com/) :host::mdi-disc: |
 | **Re-encodes** | [Kayoanime](https://kayoanime.com/) :sgd::batch: |
-| ^^ | [AnimeOut](https://www.animeout.xyz/) :ddl::acc: <Badge text="2" link="https://animewat.ch/" /> |
+| ^^ | [AnimeOut](https://www.animeout.xyz/) :ddl::acc: [:alt:](https://animewat.ch/) |
 | ^^ | [Chauthanh](https://chauthanh.info/) :ddl::acc: |
 | ^^ | [hi10anime](https://hi10anime.com/) :ddl::mag::acc::batch: |
 | **Subtitles** | [Closed Caption Browser](https://cc.edatribe.com/#/) <Badge type="info" text="Dubtitles" /> |
@@ -307,7 +307,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 - [Novel Updates](https://www.novelupdates.com/)
 - [Baka-tsuki](https://www.baka-tsuki.org/project/index.php?title=Main_Page)
 - [Novgo](https://novgo.co/)
-- [Novel Bin](https://novelbin.com/) <Badge type="tip" text="2" link="https://novelbin.me/" />
+- [Novel Bin](https://novelbin.com/) [:alt:](https://novelbin.me/)
 - [Novel Buddy](https://novelbuddy.com/home)
 - [VyNovel](https://vynovel.com/)
 
@@ -356,7 +356,7 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 
 | Category   | Website |
 |------------|-----------------------------------------------------------------|
-| **Streaming** | [Tokuzilla](https://tokuzilla.net/) :s: <Badge type="info" text="2" link="https://tokuzl.net/" /> |
+| **Streaming** | [Tokuzilla](https://tokuzilla.net/) :s: [:alt:](https://tokuzl.net/) |
 | ^^         | [Toku555](https://toku555.com/) |
 | ^^         | [Zokaj](https://zokaj.com/) |
 | ^^         | [Power Rangers Official](https://www.youtube.com/@PowerRangersOfficial/) |

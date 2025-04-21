@@ -17,7 +17,7 @@ og:
 |------------|----------|
 | General    | [Nyaa](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap) |
 | ^^         | [Anirena](https://www.anirena.com/) |
-| ^^         | [Tokyo Toshokan](https://www.tokyotosho.info/) <Badge type="info" text="2" link="http://tokyotosho.se/" /> <Badge type="info" text="3" link="http://tokyo-tosho.net/" /> |
+| ^^         | [Tokyo Toshokan](https://www.tokyotosho.info/) |
 | Anime      | [Anime Tosho](https://animetosho.org/) |
 | ^^         | [Shana Project](https://www.shanaproject.com/) |
 | NSFW       | [Sukebei](https://sukebei.nyaa.si/) |

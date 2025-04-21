@@ -20,7 +20,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 
 | Category   | Resource |
 |------------|--------------------------------------------------|
-| **Streaming** | [AnimeKai](https://animekai.to/home) <Badge type="tip" text="2" link="https://animekai.bz/home" /> ==AnimeKai== |
+| **Streaming** | [AnimeKai](https://animekai.to/home) [:alt:](https://animekai.bz/home) ==AnimeKai== |
 | ^^         | [Miruro](https://www.miruro.tv/) [:prx:](https://www.miruro.com) ==miruro== |
 | ^^         | [Anime Nexus](https://anime.nexus/) |
 | **Download**  | [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap) |
@@ -92,7 +92,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | ^^         | [Sitting on Clouds](https://www.sittingonclouds.net/) :s: [:prx:](https://rentry.org/wotaxy#sitting-on-clouds) |
 | ^^         | [SquidBoard](https://www.squid-board.org/) |
 | **General** | [Squid.wtf](https://squid.wtf/) :s: |
-| ^^         | [Lucida](https://lucida.to/) <Badge type="tip" text="2" link="https://lucida.su/" /> |
+| ^^         | [Lucida](https://lucida.to/) [:alt:](https://lucida.su/) |
 
 ### Software
 
