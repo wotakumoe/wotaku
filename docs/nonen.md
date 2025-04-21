@@ -409,7 +409,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 #### Torrent
 - [Nyaa](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap)
-- [Tokyo Toshokan](https://www.tokyotosho.info/)
+- [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](http://tokyo-tosho.net/)
 
 #### Direct
 
