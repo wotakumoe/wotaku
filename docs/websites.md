@@ -122,6 +122,7 @@ outline: 1
 | Category      | Name |
 |--------------|------|
 | **Reuploads / Untouched** | [Flugel Anime](https://flugelanime.com/) :simple-icons-microsoftsharepoint: |
+| ^^ | [Anime Tosho](https://animetosho.org/) :ddl: ==atosho== |
 | ^^ | [Tokyo Insider](https://www.tokyoinsider.com/) :ddl: |
 | ^^ | [JPFiles](https://jpfiles.net/) :host::mdi-disc: |
 | ^^ | [AnimeRSS](https://animerss.com/) :host::mdi-disc: |

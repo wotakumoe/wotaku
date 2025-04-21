@@ -367,7 +367,8 @@ const tooltips: {
   mguru: { content: 'Another instance of Cubari maintained by different people. Not much maintained. Scrapes MangaDex and Manga Katana' },
   akari: { content: 'Scrapes MangaKakalot.' },
   mhaven: { content: 'Scrapes MangaFire.' },
-  komik: {content: 'Mostly up to the artist. Some of them are R2L too.'}
+  komik: {content: 'Mostly up to the artist. Some of them are R2L too.'},
+  atosho: {content: 'Offers both DDL hosts and Usenet as download options, but only keeps uploads up to 16GB. DDL files might be auto-deleted by the hosts due to inactivity, unlike Usenet files. You can try [magicNZB](https://magicnzb.com/) for free Usenet downloads, as it allows temp-mails and does not require a CC.'}
 }
 
 export function configureMarkdown(md: MarkdownRenderer) {
