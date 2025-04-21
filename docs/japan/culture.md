@@ -22,8 +22,8 @@ og:
 
 ### Books
 - [The Cambridge History of Japan](https://www.cambridge.org/core/series/cambridge-history-of-japan/18F050C94D8B0E2BFAAF5CCAE19E87FE)
-- [The Japanese Experience: A Short History of Japan](https://www.amazon.com/Japanese-Experience-Short-History-Civilisation/dp/0520225600)
-- [A Short History of Japan: From Samurai to Sony](https://www.amazon.com/Short-History-Japan-Samurai-Sony/dp/1865085162)
+- [The Japanese Experience: A Short History of Japan](https://www.amazon.com/dp/0520225600)
+- [A Short History of Japan: From Samurai to Sony](https://www.amazon.com/dp/1865085162)
 - [Pure Invention: How Japan Made the Modern World](https://www.amazon.com/gp/product/1984826719)
 
 ### YouTube
@@ -42,13 +42,13 @@ og:
 - [Folktales from Japan](https://sites.pitt.edu/~dash/japan.html) <Badge type="info" text="Books" link="https://sites.pitt.edu/~dash/japantales.html" />
 
 ### Books
-- [The Japanese Myths: A Guide to Gods, Heroes and Spirits](https://www.amazon.com/Japanese-Myths-Guide-Heroes-Spirits/dp/0500252319)
-- [Kwaidan: Stories and Studies of Strange Things](https://www.amazon.com/Kwaidan-Stories-Studies-Strange-Classics/dp/0804836620)
-- [The Kojiki: An Account of Ancient Matters](https://www.amazon.com/Kojiki-Account-Ancient-Translations-Classics/dp/0231163894)
-- [The Book of Yokai: Mysterious Creatures of Japanese Folklore](https://www.amazon.com/Book-Yokai-Mysterious-Creatures-Japanese/dp/0520271025)
-- [Tales of Moonlight and Rain](https://www.amazon.com/Tales-Moonlight-Translations-Classics-Paperback/dp/0231139136)
-- [Yokai Attack!: The Japanese Monster Survival Guide](https://www.amazon.com/Yokai-Attack-Japanese-Monster-Survival/dp/480531219X)
-- [Yurei Attack!: The Japanese Ghost Survival Guide](https://www.amazon.com/Yurei-Attack-Japanese-Survival-ATTACK/dp/4805312149)
+- [The Japanese Myths: A Guide to Gods, Heroes and Spirits](https://www.amazon.com/dp/0500252319)
+- [Kwaidan: Stories and Studies of Strange Things](https://www.amazon.com/dp/0804836620)
+- [The Kojiki: An Account of Ancient Matters](https://www.amazon.com/dp/0231163894)
+- [The Book of Yokai: Mysterious Creatures of Japanese Folklore](https://www.amazon.com/dp/0520271025)
+- [Tales of Moonlight and Rain](https://www.amazon.com/dp/0231139136)
+- [Yokai Attack!: The Japanese Monster Survival Guide](https://www.amazon.com/dp/480531219X)
+- [Yurei Attack!: The Japanese Ghost Survival Guide](https://www.amazon.com/dp/4805312149)
 
 ### YouTube
 - [Japanese Folklore](https://www.youtube.com/playlist?list=PLgZdqfi4SZ0q-BLpzfuzWrXgxkyNcqagc) <tooltip>By Mythology & Fiction Explained</tooltip>
@@ -118,11 +118,11 @@ og:
 - [Anime with Alvin](https://www.youtube.com/playlist?list=PLopY4n17t8RAHz5OSGQP6I9z7UZqAZ4WW)
 
 ### Cookbook
-- [Japanese Cooking: A Simple Art](https://www.amazon.com/Japanese-Cooking-Simple-Shizuo-Tsuji/dp/1568363885)
-- [Washoku: Recipes from the Japanese Home Kitchen](https://www.amazon.com/Washoku-Recipes-Japanese-Home-Kitchen/dp/1580085199)
-- [Japanese Farm Food](https://www.amazon.com/Japanese-Farm-Nancy-Singleton-Hachisu/dp/1449418295)
-- [The Japanese Kitchen: 250 Recipes in a Traditional Spirit](https://www.amazon.com/Japanese-Kitchen-Recipes-Traditional-Spirit/dp/1558321772)
-- [My Japanese Table: A Lifetime of Cooking with Friends and Family](https://www.amazon.com/My-Japanese-Table-Lifetime-Cooking/dp/4805311185)
+- [Japanese Cooking: A Simple Art](https://www.amazon.com/dp/1568363885)
+- [Washoku: Recipes from the Japanese Home Kitchen](https://www.amazon.com/dp/1580085199)
+- [Japanese Farm Food](https://www.amazon.com/dp/1449418295)
+- [The Japanese Kitchen: 250 Recipes in a Traditional Spirit](https://www.amazon.com/dp/1558321772)
+- [My Japanese Table: A Lifetime of Cooking with Friends and Family](https://www.amazon.com/dp/4805311185)
 
 
 
