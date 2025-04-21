@@ -123,10 +123,10 @@ If you have recommendations for good sites in your native language or want to re
 - [69xinshu](https://www.69xinshu.com/)
 - [8Comic](https://www.comicabc.com/)
 - [Antbyw](https://www.antbyw.com/)
-- [Baozimh.com](https://www.baozimh.com/) <Badge type="tip" text="2" link="https://www.kukuc.co/" /> <Badge type="tip" text="3" link="https://www.webmota.com/" />
+- [Baozimh.com](https://www.baozimh.com/)
 - [Baozimh.org](https://baozimh.org/)
 - [Colamanga](https://www.colamanga.com/)
-- [Copymanga](https://copymanga.tv/) :ero:
+- [Copymanga](https://www.mangacopy.com/) <Badge type="tip" text="2" link="https://www.copy-manga.com/" /> :ero:
 - [DMZJ](https://www.idmzj.com/)
 - [Komiic](https://komiic.com/)
 - [Manga Reader](https://1zumii.github.io/manga-reader/#/) [:gh:](https://github.com/1zumii/manga-reader)
@@ -164,6 +164,7 @@ If you have recommendations for good sites in your native language or want to re
 | ^^       | [Neko Anime](https://github.com/xioneko/neko-anime) |
 | ^^       | [oneAnime](https://github.com/Predidit/oneAnime) |
 | **Manga** | [PasteMangaX](https://github.com/crowforkotlin/pastemangax) |
+| ^^       | [Copymanga](https://github.com/fumiama/copymanga/) |
 | ^^       | [kobi](https://github.com/niuhuan/kobi) |
 | ^^       | [MangaReader](https://github.com/youniaogu/MangaReader) |
 | ^^       | [Venra](https://github.com/venera-app/venera) |
