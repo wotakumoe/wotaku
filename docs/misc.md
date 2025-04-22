@@ -21,7 +21,9 @@ outline: [1,2]
 - [Kitsu](https://kitsu.app/explore/anime)
 - [Kurozora](https://kurozora.app/)
 - [Sakuhin Database](https://sakuhindb.com/) :fjp:
-- [Wikipedia](https://www.wikipedia.org/) [:alt:](https://www.wikiwand.com/)
+- [Wikipedia](https://www.wikipedia.org/)
+  - [WikiTimeline](https://wiki-timeline.com/) [:gh:](https://github.com/wenzhenl/wikitimeline)
+  - [WikiWand](https://www.wikiwand.com/)
 
 ### Anime
 - [aniDB](https://anidb.net/) :s:
