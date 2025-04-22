@@ -306,17 +306,21 @@ Almost all the sites have ero manga or manga with mature content, so proceed wit
 
 - [Novel Updates](https://www.novelupdates.com/)
 - [Baka-tsuki](https://www.baka-tsuki.org/project/index.php?title=Main_Page)
-- [Novgo](https://novgo.co/)
+- [Novel Full](https://novelfull.net/) [:prx:](https://rentry.org/wotaxy#novel-full)
 - [Novel Bin](https://novelbin.com/) [:alt:](https://novelbin.me/)
-- [Novel Buddy](https://novelbuddy.com/home)
+- [Novel Buddy](https://novelbuddy.com/home) [:alt:](https://novelbuddy.io/home)
 - [VyNovel](https://vynovel.com/)
+- [NovelFire](https://novelfire.net/home)
+- [Reaper Scans](https://reaperscans.com/novels)
 
 :::details More
-- [Allnovel](https://allnovel.org/)
+- [Novgo](https://novgo.co/)
 - [Free web novel](https://freewebnovel.com/)
+- [Light Novel Heaven](https://lightnovelheaven.com/)
+- [WuxiaClick](https://wuxia.click/) [:alt:](https://readnovel.eu/)
 - [Novel Cool](https://www.novelcool.com/)
-- [Novel Full](https://novelfull.net/)
 - [Novel Hall](https://www.novelhall.com/)
+- [MVLEMPYR](https://www.mvlempyr.com/)
 - [Novels Online](https://novelsonline.net/)
 - [Ranobes](https://ranobes.top/)
 
