@@ -418,6 +418,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 - [SoundCloud](https://github.com/makufelis/SoundCloud-Client) :win:
 - [Spicetify](https://spicetify.app/) :win::app::lin:
 - [SPOTX](https://github.com/SpotX-Official/SpotX) :win:
+- [Official Spotify full installers](https://loadspot.pages.dev/) :win::app::lin:
 - [spmp](https://github.com/toasterofbread/spmp) :win::lin:
 - [Harmony Music](https://github.com/anandnet/Harmony-Music) :win::lin:
 - [YouTube Music](https://github.com/th-ch/youtube-music) :win::app::lin:
