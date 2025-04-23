@@ -167,7 +167,11 @@ outline: 1
 <br>
 
 ::: danger NSFW warning
-Almost all the sites have ero manga or manga with mature content, so proceed with caution.
+Almost all the sites feature erotic/mature content, so proceed with caution.
+:::
+
+::: info Content note
+All the listed sites contain a mix of Manga, Manhwa and Manhua.
 :::
 
 ## Online
