@@ -40,7 +40,6 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi) | :ddl::mag: | :mal::al::k: |
 | [AnymeX](https://anymex.vercel.app/) [:gh:](https://github.com/RyanYuuki/AnymeX) [:e:](/guides/ext/mangayomi) | :ddl: | :mal::al::simkl: |
 | [AnimeTV](https://amarullz.com/) [:gh:](https://github.com/amarullz/AnimeTV) | :ddl: | :mal::al: |
-| [Miru App](https://miru.js.org/) [:gh:](https://github.com/miru-project/miru-app) | :ddl::mag: | :al: |
 :::
 
 ::: details :material-symbols-tv-gen-outline: Android TV ranking
@@ -229,7 +228,6 @@ or buy an Android phone :ic-twotone-thumb-up:
 | Program | OS | Source | Tracker |
 |-|-|-|-|
 | [Toru](https://github.com/sweetbbak/toru) | :win::app::lin::cmd: | :mag: | :no: |
-| [Miru App](https://miru.js.org/) [:gh:](https://github.com/miru-project/miru-app) | :win: | :mag::ddl: | :al: |
 | [Zenshin](https://hitarth-gg.github.io/zenshin-website/) [:gh:](https://github.com/hitarth-gg/zenshin) | :win::app::lin: | :mag: | :al: |
 | [Totoro](https://github.com/insomniachi/Totoro) | :win: | :mag::ddl: | :mal::al::simkl: |
 | [ani-cli](https://github.com/pystardust/ani-cli) | :win::app::lin::cmd: | :ddl: | :no: |
