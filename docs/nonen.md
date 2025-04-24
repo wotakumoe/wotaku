@@ -583,7 +583,7 @@ ___
 
 ### Manga
 - [Com-X](https://com-x.life/)
-- [Desu.Me](https://desu.me/)
+- [Desu.Me](https://desu.work/) [:alt:](https://desu.me/)
 - [MangaClub](https://mangaclub.ru/)
 - [MangaHub](https://mangahub.ru/)
 - [MangaLib](https://mangalib.me/)
