@@ -129,7 +129,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | Website | Service |
 |-|-|
 | [Squid.wtf](https://squid.wtf/) :s: | Qobuz, Deezer, THInsider |
-| [DAB Music Player](https://dab-music.vercel.app/) ==dab== | Qobuz |
+| [DAB Music Player](https://dab.yeet.su/) ==dab== | Qobuz |
 | [Lucida](https://lucida.to/) [:alt:](https://lucida.su/) | Qobuz, Tidal, Amazon Music, Deezer, Yandex |
 | [DeezMate](https://deezmate.com/) | Deezer |
 
