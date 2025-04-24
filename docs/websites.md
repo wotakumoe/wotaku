@@ -40,6 +40,7 @@ outline: 1
 
 - [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) :mingcute-server-fill::mingcute-shovel-fill::mingcute-user-2-fill: ==AllManga==  
 - [Animotvslash](https://www.animotvslash.org/search) :mingcute-server-fill: ==Animotvslash==  
+- [Anime-stream](https://anime-stream.io/) :mingcute-server-fill::mingcute-user-2-fill:
 - [Watch Cartoon Online](https://www.wco.tv/) :mingcute-server-fill::mingcute-user-2-fill: [:prx:](https://rentry.org/wotaxy#watch-cartoon-online) ==WCO==
 
 ### Low Res
