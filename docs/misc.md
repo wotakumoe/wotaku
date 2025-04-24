@@ -36,6 +36,7 @@ outline: [1,2]
 - [SIMKL](https://simkl.com/)
 
 ### Manga & LN
+- [Manba](https://manba.co.jp/) :s::fjp:
 - [Mangaupdates](https://www.mangaupdates.com/) :s:
 - [MangaBaka](https://mangabaka.dev/)
 - [Novel updates](https://www.novelupdates.com/)
