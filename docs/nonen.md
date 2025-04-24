@@ -763,3 +763,9 @@ ___
 | General | [Hoyomi](https://github.com/tachibana-shin/hoyomi) |
 | Anime | [Anime VSub](https://app.animevsub.eu.org/) [:gh:](https://github.com/anime-vsub/app) |
 | Comics | [TruyenDex](https://truyendex.xyz/) [:gh:](https://github.com/zennomi/truyendex) |
+
+#### iOS
+
+| Category | Resources |
+|-|-|
+| General | [Hoyomi](https://github.com/tachibana-shin/hoyomi) |
