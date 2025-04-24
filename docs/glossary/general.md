@@ -31,27 +31,9 @@ og:
 
 Demography refers to the target audience for a work. While studios / publisher market content toward this group, it can still appeal to multiple demographics, as many anime and manga include elements for a broad audience.
 
-| Publisher    | Magazine                  | Demography | Notable Manga               |
-|--------------|---------------------------|------------|----------------------------------|
-| Kadokawa Shoten | Shounen Ace            | Shounen    | Nichijou |
-| ^^           | Flos Comic                | Shoujo     | The Saint's Magic Power Is Omnipotent |
-| ^^           | Young Ace                 | Seinen     | Neon Genesis Evangelion |
-| Kodansha     | Weekly Shounen Magazine   | Shounen    | Attack on Titan |
-| ^^           | Nakayoshi                 | Shoujo     | Sailor Moon |
-| ^^           | Weekly Young Magazine     | Seinen     | Akira |
-| ^^           | Be-Love                   | Josei      | Nina the Starry Bride |
-| Shueisha     | Weekly Shounen Jump       | Shounen    | One Piece             |
-| ^^           | Ribon                     | Shoujo     | Honey Lemon Soda |
-| ^^           | Weekly Young Jump         | Seinen     | Gantz |
-| ^^           | Cocohana (ex-Young You)   | Josei      | Honey and Clover |
-| Shogakukan   | CoroCoro Comic            | Kodomo     | Doraemon |
-| ^^           | Weekly Shounen Sunday     | Shounen    | Frieren |
-| ^^           | Ciao                      | Shoujo     | Kirarin Revolution |
-| ^^           | Big Comic Spirits         | Seinen     | 21st Century Boys |
-| ^^           | Flowers                   | Josei      | 7SEEDS |
-| Square Enix  | Monthly Shounen Gangan    | Shounen    | Fullmetal Alchemist |
-| ^^           | Young Gangan              | Seinen     | My Dress-Up Darling |
-[Popular publishers, their magazines, target audiences, and key manga titles]
+::: tip Extra
+[Click here](/glossary/manga#magazine) to browse popular manga magazines by genre.
+:::
 
 ## Genre
 

@@ -151,6 +151,34 @@ The term 'RAW' refers to manga (Japan), manhwa (Korea), or manhua (China) that h
 ### Simulpub
 Simultaneous publication, meaning releasing and translating the latest chapters alongside their country of origin.
 
+### Magazine
+Magazines are the most common medium of manga serialization, with the most popular ones being owned by big publishers. Each magazine focuses on a certain demographic, though some are mixed too (generally shoujo and josei). Magazines can be multi-medium too, for example Dengeki G's Magazine (by ASCII Media Works). The release intervals vary, most common being weekly, monthly or bimonthly.
+
+| Publisher    | Magazine                  | Demography | Notable Manga               |
+|--------------|---------------------------|------------|----------------------------------|
+| Kadokawa Shoten | Shounen Ace            | Shounen    | Nichijou |
+| ^^           | Flos Comic                | Shoujo     | The Saint's Magic Power Is Omnipotent |
+| ^^           | Young Ace                 | Seinen     | Neon Genesis Evangelion |
+| Kodansha     | Weekly Shounen Magazine   | Shounen    | Attack on Titan |
+| ^^           | Nakayoshi                 | Shoujo     | Sailor Moon |
+| ^^           | Weekly Young Magazine     | Seinen     | Akira |
+| ^^           | Be-Love                   | Josei      | Nina the Starry Bride |
+| Shueisha     | Weekly Shounen Jump       | Shounen    | One Piece             |
+| ^^           | Ribon                     | Shoujo     | Honey Lemon Soda |
+| ^^           | Weekly Young Jump         | Seinen     | Gantz |
+| ^^           | Cocohana (ex-Young You)   | Josei      | Honey and Clover |
+| Shogakukan   | CoroCoro Comic            | Kodomo     | Doraemon |
+| ^^           | Weekly Shounen Sunday     | Shounen    | Frieren |
+| ^^           | Ciao                      | Shoujo     | Kirarin Revolution |
+| ^^           | Big Comic Spirits         | Seinen     | 21st Century Boys |
+| ^^           | Flowers                   | Josei      | 7SEEDS |
+| Square Enix  | Monthly Shounen Gangan    | Shounen    | Fullmetal Alchemist |
+| ^^           | Young Gangan              | Seinen     | My Dress-Up Darling |
+| ASCII Media Works | Dengeki Daioh | Mix	| Azumanga Daioh |
+| ^^		   | Dengeki G's Magazine	   | Mix 		| Angel Beats! |
+| ^^		   | Dengeki Maoh 			   | Mix 		| Spice and Wolf |
+
+Shueisha and Shogakukan are owned by Hitotsubashi Group; Kadokawa Shoten and ASCII Media Works by Kadokawa Future Publishing.
 
 ### Tankoubon
 Tankoubon means the volume release. Many manga are initially published in magazines such as [Weekly Shonen Jump](https://www.shonenjump.com/j/index.html). If a manga becomes very popular, it can receive a volume release a.k.a. Tankoubon. These volumes often include redrawn content, extra chapters, and notes from the mangaka. Sometimes, Tankoubon collections can feature various works by the mangaka, similar to an anthology.
@@ -159,15 +187,16 @@ Tankoubon means the volume release. Many manga are initially published in magazi
 ___
 #### Other volume types
 
-| Term | Meaning { class="compact" } |
-| --- | --- |
-| Aizouban ("loving collection edition") | Collector's edition volumes, usually printed in limited runs. These volumes are generally more expensive and come with special features such as new covers, higher-quality paper, a special slipcase, etc. |
-| Bunkoban ("paperback edition") | A volume printed in bunko format, or a typical Japanese novel-sized volume. Generally A6 size and thicker than tankoubon, usually with new covers. Bunkoban tends to contain considerably more pages than a tankoubon, meaning the bunko edition of a given manga will consist of fewer volumes. |
-| Goukaaizouban ("luxury favorite edition") | Another term occasionally used to designate a type of special release. |
-| Kanzenban ("perfect complete edition") | A special complete edition. Volumes are generally A5 size and will typically include individual chapter covers, color pages, and side-stories from its original magazine run, all of which are often omitted or converted to grayscale in standard tankoubon releases. |
-| Shinsouban ("new decoration edition") | A new edition, usually with special covers, new color pages and other extras. They can even feature completely redrawn pages and rewritten dialogue. |
-| Soushuuhen ("complete collection") | A format published by Shueisha beginning in 2008. Volumes are B5 size, larger than a kanzenban. They include chapter covers, color pages, and various bonus features such as posters and interviews. They're usually reserved for popular manga with ongoing serializations and contain far more pages than a standard tankoubon, thus feature more chapters in fewer volumes. |
-| Wide-ban | A larger (A5 size) edition. Many manga, particularly seinen and josei, are published in wide-ban editions after magazine serialization, and are never released in the tankoubon format that is common in shounen and shoujo manga. When a series is originally published in tankoubon format and then re-released in wide-ban, each volume will contain more pages than the original edition, thus consisting of fewer volumes. |
+| Term | Literal Meaning | Meaning |
+| --- | --- | --- |
+| Aizouban | Loving collection edition | Collector's edition volumes, usually printed in limited runs. These volumes are generally more expensive and come with special features such as new covers, higher-quality paper, a special slipcase, etc. |
+| Bunkoban | Paperback edition | A volume printed in bunko format, or a typical Japanese novel-sized volume. Generally A6 size and thicker than tankoubon, usually with new covers. Bunkoban tends to contain considerably more pages than a tankoubon, meaning the bunko edition of a given manga will consist of fewer volumes. |
+| Goukaaizouban | Luxury favorite edition | Another term occasionally used to designate a type of special release. |
+| Kanzenban | Perfect complete edition | A special complete edition. Volumes are generally A5 size and will typically include individual chapter covers, color pages, and side-stories from its original magazine run, all of which are often omitted or converted to grayscale in standard tankoubon releases. |
+| Shinsouban | New decoration edition | A new edition, usually with special covers, new color pages and other extras. They can even feature completely redrawn pages and rewritten dialogue. |
+| Soushuuhen | Complete collection | A format published by Shueisha beginning in 2008. Volumes are B5 size, larger than a kanzenban. They include chapter covers, color pages, and various bonus features such as posters and interviews. They're usually reserved for popular manga with ongoing serializations and contain far more pages than a standard tankoubon, thus feature more chapters in fewer volumes. |
+| Wide-ban | — | A larger (A5 size) edition. Many manga, particularly seinen and josei, are published in wide-ban editions after magazine serialization, and are never released in the tankoubon format that is common in shounen and shoujo manga. When a series is originally published in tankoubon format and then re-released in wide-ban, each volume will contain more pages than the original edition, thus consisting of fewer volumes. |
+
 
 ### Webcomic/Webmanga
 Was originally published on a web platform. The platform can be free(twitter, pixiv etc) or paid (Comico, comic-walker etc.). Example: [ReLife](https://mangadex.org/title/6e3553b9-ddb5-4d37-b7a3-99998044774e/relife) ([comico](https://www.comico.jp/comic/23)) & [A Story About Smoking at the Back of the Supermarket](https://mangadex.org/title/baa95345-24fb-47a9-83e9-434ff671f968/super-no-ura-de-yani-suu-hanashi) ([twitter](https://x.com/jinusi822))
