@@ -177,6 +177,8 @@ Magazines are the most common medium of manga serialization, with the most popul
 | ASCII Media Works | Dengeki Daioh | Mix	| Azumanga Daioh |
 | ^^		   | Dengeki G's Magazine	   | Mix 		| Angel Beats! |
 | ^^		   | Dengeki Maoh 			   | Mix 		| Spice and Wolf |
+| Akita Shoten | Weekly Shounen Champion   | Shounen    | Baki |
+| ^^		   | Young Champion			   | Seinen     | Battle Royale |
 
 Shueisha and Shogakukan are owned by Hitotsubashi Group; Kadokawa Shoten and ASCII Media Works by Kadokawa Future Publishing.
 
