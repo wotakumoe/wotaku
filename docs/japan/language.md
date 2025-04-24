@@ -147,6 +147,7 @@ ___
 
 #### Pronunciation
 - [AxTongue](https://axtongue.com/) <tooltip>YouTube</tooltip>
+- [aiueo](https://aiueo.cc/pages/en/home.php)
 - [CaptionPop](https://www.captionpop.com/japanese?nl=en) <tooltip>YouTube</tooltip>
 - [Filmot](https://filmot.com/) <tooltip>YouTube</tooltip>
 - [Forvo](https://forvo.com/languages/ja/) <tooltip>Native Speaker</tooltip>
