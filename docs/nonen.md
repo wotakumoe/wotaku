@@ -122,6 +122,7 @@ If you have recommendations for good sites in your native language or want to re
 ### Comics
 - [69xinshu](https://www.69xinshu.com/)
 - [8Comic](https://www.comicabc.com/)
+- [Anime Island](https://www.dmd77.com/) [:prx:](https://rentry.org/dmd8)
 - [Antbyw](https://www.antbyw.com/)
 - [Baozimh.com](https://www.baozimh.com/)
 - [Baozimh.org](https://baozimh.org/)
@@ -137,6 +138,7 @@ If you have recommendations for good sites in your native language or want to re
 - [23qb](https://www.23qb.net/)
 - [ESJ Zone](https://www.esjzone.cc/)
 - [Light Novel](https://www.lightnovel.us/)
+- [Yodu](https://www.yodu.org/)
 
 ### NSFW
 - [Hanime1.me](https://hanime1.me/)
