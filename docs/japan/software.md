@@ -51,10 +51,11 @@ ___
 ### Card templates
 - [Anki Prettify](https://github.com/pranavdeshai/anki-prettify)
 - [JP Study tools](https://github.com/rudnam/JP-study)
+- [jp-mining-note](https://aquafina-water-bottle.github.io/jp-mining-note/)
 - [Lapis](https://github.com/donkuri/lapis)
 - [Senren](https://github.com/BrenoAqua/Senren)
+- [Vertical Cards](https://github.com/kiwakiwaa/vertical-cards/)
 - [Xelieu's Modified Anime Card](https://lazyguidejp.github.io/jp-lazy-guide/)
-- [jp-mining-note](https://aquafina-water-bottle.github.io/jp-mining-note/)
 
 
 ### Decks
