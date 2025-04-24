@@ -74,6 +74,7 @@ og:
 |--------------|------------|
 | **Downloader** | [Chat Downloader](https://github.com/xenova/chat-downloader) |
 | ^^           | [Holoscrape](https://github.com/dannylty/holoscrape) |
+| ^^           | [Pinchflat](https://github.com/kieraneglin/pinchflat) |
 | ^^           | [Twspace-dl](https://github.com/HoloArchivists/twspace-dl) |
 | ^^           | [YouTube Community Tab](https://github.com/HoloArchivists/youtube-community-tab) |
 | ^^           | [yt-dlp](https://github.com/yt-dlp/yt-dlp) |
