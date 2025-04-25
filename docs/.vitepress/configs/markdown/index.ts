@@ -123,7 +123,7 @@ const tooltips: {
   },
   Gojo: {
     content: `  
-  Scrapes HiAnime (Roro), AnimePahe (Pahe), AnimeZ (Zaza).`
+  Scrapes AnimeOwl (Strix), AnimePahe (Pahe), AnimeZ (Zaza).`
   },
   ComicK: {
     content: `  

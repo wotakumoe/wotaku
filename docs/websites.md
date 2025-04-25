@@ -54,7 +54,7 @@ outline: 1
 - [Anime Realms](https://www.animerealms.org/) :mingcute-refresh-2-fill: ==AnimeRealms==  
 - [AniPlay](https://aniplaynow.live/) :mingcute-refresh-2-fill::mingcute-user-2-fill: ==AniPlay==  
 - [Enimoe](https://enimoe.live/) :mingcute-refresh-2-fill: ==Enimoe==  
-- [Gojo](https://gojo.live/) :mingcute-user-2-fill: [:alt:](https://gojo.wtf) ==Gojo==  
+- [Gojo](https://gojo.live/) :mingcute-user-2-fill: [:alt:](https://aninow.to/) ==Gojo==  
 - [Miruro](https://www.miruro.tv/) :mingcute-refresh-2-fill: [:prx:](https://www.miruro.com) ==miruro==
 
 :::
