@@ -13,7 +13,18 @@ og:
 ## Basic Terms 
 
 ### Adaptation
-Not original content but based on an already existing work (light novel, anime, picture book etc.). Example: [Josee, the Tiger and the Fish](https://mangadex.org/search?q=Josee%2C+the+Tiger+and+the+Fish) which was a [Light Novel](https://yenpress.com/titles/9781975340469-josee-the-tiger-and-the-fish-light-novel) adaptation.
+Not original content but based on an already existing work.
+
+| Title | Source |
+|-|-|
+| [Neon Genesis Evangelion](https://myanimelist.net/manga/698/) | Anime |
+| [No Longer Human](https://myanimelist.net/manga/106609) | Novel |
+| [Rascal Does Not Dream of Bunny Girl Senpai](https://myanimelist.net/manga/92182/) | Light Novel |
+| [Steins;Gate](https://myanimelist.net/manga/17517/) | Visual Novel |
+| [Persona 3](https://myanimelist.net/manga/2566) | JRPG |
+| [Josee, the Tiger and the Fish](https://myanimelist.net/manga/130661/) | Short Story |
+| [Goodbye Declaration](https://myanimelist.net/manga/151025) | Song |
+| [Love Live! School Idol Diary](https://myanimelist.net/manga/79473) | Franchise |
 
 ### Mangaka
 Mangaka means the artist of the manga. Mangaka can also be the story writer. Generally, mangaka does everything by himself, but sometimes he may employ assistants to speed up the work and cope with the weekly release schedule.
@@ -30,18 +41,10 @@ Mangaka means the artist of the manga. Mangaka can also be the story writer. Gen
 | Komik    | Indonesia            |
 
 
-### Sound Effects
+### Sound Effects (SFX)
 Sound effects in manga visualizes the character's physical or mental state, the environment of the scenario, motions or just sounds (obviously). [**Here**](https://www.muri.se/misc/soundfx.html) is a collection of Japanese Sound effects.
 
 ![365 Days To The Wedding; The sfx here is どよおーん” (“Doyoooon”) which means “depressed atmosphere”](/glossary/manga/sfx.webp)
-
-
-:::details **Example** {open}
-In the sfx image you can see the parallel lines at the tops. These are symbols; works like sfx. These symbols may be used with or without sfx. They can have multiple meanings depending on the context. Like in the next image, it means shock.
-:::center
-![Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout ep. 5](/glossary/manga/symbol.gif)
-:::
-
 
 ## Panel Terms
 
@@ -126,31 +129,6 @@ Doujinshi refers to self-published works. It can be a standalone self-published 
 
 Sometimes, mangaka publish their work as a doujin before an official serialization. Example: [Ganbare, Douki-chan (Pre-serialization)](https://mangadex.org/title/190616bc-7da6-45fd-abd4-dd2ca656c183/ganbare-douki-chan). Sometimes after the serialization has ended. Example: [Mangaka-sensei and the Zashiki Warashi (post ch. 29)](https://nukyui.booth.pm/)
 
-### OEL Comics
-OEL, or Original English-language comics, originate in English-speaking countries. They prominently feature Asian cultural influences in their art styles, themes, and storytelling, while the creators, including artists and production, are primarily non-Asian. Prominent examples include [Bizenghast](https://www.mangaupdates.com/series/ia6dfoc/bizenghast), [Attack on Titan Anthology](https://www.mangaupdates.com/series/bo81id9/attack-on-titan-anthology), [Ghost in the Shell: Global Neural Network](https://www.mangaupdates.com/series/29bycqg/the-ghost-in-the-shell-global-neural-network) and [The Beginning After the End](https://www.mangaupdates.com/series/rwg23en/the-beginning-after-the-end).
-
-### Omake
-A bonus/extra chapter that doesn't really affect the main story. Generally it gives artworks, character backgrounds, mangaka notes or an extra story.
-
-### Omnibus
-A release type characteristic of western publishers where multiple tankoubon volumes are contained in one book. It's most commonly seen as 2-in-1 or 3-in-1 editions, tho it can sometimes contain an entire series, like in the case of the Death Note All-in-One volume. They're usually larger format and can contain extras, especially if the series already had a tankoubon release previously.
-
-![Naruto 3-in-1 volume (left) & Death Note All-in-One (right)](/glossary/manga/omnibus.webp)
-
-
-### One-Shot
-A manga that's been published at once. The length of the story depends on the mangaka. Also, it can be serialized later. Example: [Kimi no Kaketeru Tokomo Suki](https://mangadex.org/title/690540ab-5f55-4b44-910d-4d2ed0a0faa9/kimi-no-kaketeru-tokomo-suki)
-
-
-### Raw
-The term 'RAW' refers to manga (Japan), manhwa (Korea), or manhua (China) that has not been modified in any way from its original form. It can be both physical (scanned) or digital (ripped). Nowadays most of the raws are digital.
-
-![We are Magical Boys (left, physical) & Jujutsu Kaisen (right, digital)](/glossary/manga/raw.webp)
-
-
-### Simulpub
-Simultaneous publication, meaning releasing and translating the latest chapters alongside their country of origin.
-
 ### Magazine
 Magazines are the most common medium of manga serialization, with the most popular ones being owned by big publishers. Each magazine focuses on a certain demographic, though some are mixed too (generally shoujo and josei). Magazines can be multi-medium too, for example Dengeki G's Magazine (by ASCII Media Works). The release intervals vary, most common being weekly, monthly or bimonthly.
 
@@ -182,6 +160,29 @@ Magazines are the most common medium of manga serialization, with the most popul
 
 Shueisha and Shogakukan are owned by Hitotsubashi Group; Kadokawa Shoten and ASCII Media Works by Kadokawa Future Publishing.
 
+### OEL Comics
+OEL, or Original English-language comics, originate in English-speaking countries. They prominently feature Asian cultural influences in their art styles, themes, and storytelling, while the creators, including artists and production, are primarily non-Asian. Prominent examples include [Bizenghast](https://www.mangaupdates.com/series/ia6dfoc/bizenghast), [Attack on Titan Anthology](https://www.mangaupdates.com/series/bo81id9/attack-on-titan-anthology), [Ghost in the Shell: Global Neural Network](https://www.mangaupdates.com/series/29bycqg/the-ghost-in-the-shell-global-neural-network) and [The Beginning After the End](https://www.mangaupdates.com/series/rwg23en/the-beginning-after-the-end).
+
+### Omake
+A bonus/extra chapter that doesn't really affect the main story. Generally it gives artworks, character backgrounds, mangaka notes or an extra story.
+
+### Omnibus
+A release type characteristic of western publishers where multiple tankoubon volumes are contained in one book. It's most commonly seen as 2-in-1 or 3-in-1 editions, tho it can sometimes contain an entire series, like in the case of the Death Note All-in-One volume. They're usually larger format and can contain extras, especially if the series already had a tankoubon release previously.
+
+![Naruto 3-in-1 volume (left) & Death Note All-in-One (right)](/glossary/manga/omnibus.webp)
+
+### One-Shot
+A manga that's been published at once. The length of the story depends on the mangaka. Also, it can be serialized later. Example: [Kimi no Kaketeru Tokomo Suki](https://mangadex.org/title/690540ab-5f55-4b44-910d-4d2ed0a0faa9/kimi-no-kaketeru-tokomo-suki)
+
+
+### Raw
+The term 'RAW' refers to manga (Japan), manhwa (Korea), or manhua (China) that has not been modified in any way from its original form. It can be both physical (scanned) or digital (ripped). Nowadays most of the raws are digital.
+
+![We are Magical Boys (left, physical) & Jujutsu Kaisen (right, digital)](/glossary/manga/raw.webp)
+
+### Simulpub
+Simultaneous publication, meaning releasing and translating the latest chapters alongside their country of origin.
+
 ### Tankoubon
 Tankoubon means the volume release. Many manga are initially published in magazines such as [Weekly Shonen Jump](https://www.shonenjump.com/j/index.html). If a manga becomes very popular, it can receive a volume release a.k.a. Tankoubon. These volumes often include redrawn content, extra chapters, and notes from the mangaka. Sometimes, Tankoubon collections can feature various works by the mangaka, similar to an anthology.
 
@@ -200,7 +201,7 @@ ___
 | Wide-ban | — | A larger (A5 size) edition. Many manga, particularly seinen and josei, are published in wide-ban editions after magazine serialization, and are never released in the tankoubon format that is common in shounen and shoujo manga. When a series is originally published in tankoubon format and then re-released in wide-ban, each volume will contain more pages than the original edition, thus consisting of fewer volumes. |
 
 
-### Webcomic/Webmanga
+### Webcomic / Webmanga
 Was originally published on a web platform. The platform can be free(twitter, pixiv etc) or paid (Comico, comic-walker etc.). Example: [ReLife](https://mangadex.org/title/6e3553b9-ddb5-4d37-b7a3-99998044774e/relife) ([comico](https://www.comico.jp/comic/23)) & [A Story About Smoking at the Back of the Supermarket](https://mangadex.org/title/baa95345-24fb-47a9-83e9-434ff671f968/super-no-ura-de-yani-suu-hanashi) ([twitter](https://x.com/jinusi822))
 
 
