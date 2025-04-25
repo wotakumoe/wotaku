@@ -14,14 +14,14 @@ outline: [1,2]
 ## Database & Tracker
 
 ### General
-- [AniList](https://anilist.co/)
-- [MyAnimeList](https://myanimelist.net/)
+- [AniList](https://anilist.co/) :s:
+- [MyAnimeList](https://myanimelist.net/) :s:
 - [Anime Planet](https://www.anime-planet.com/)
 - [aniSearch](https://www.anisearch.com/)
 - [Kitsu](https://kitsu.app/explore/anime)
 - [Kurozora](https://kurozora.app/)
 - [Sakuhin Database](https://sakuhindb.com/) :fjp:
-- [Wikipedia](https://www.wikipedia.org/)
+- [Wikipedia](https://www.wikipedia.org/) :s:
   - [WikiTimeline](https://wiki-timeline.com/) [:gh:](https://github.com/wenzhenl/wikitimeline)
   - [WikiWand](https://www.wikiwand.com/)
 
