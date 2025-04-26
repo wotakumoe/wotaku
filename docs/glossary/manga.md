@@ -3,7 +3,7 @@ title: Manga Glossary
 customDescription: Manga related terms that you have to know!
 outline: [2,3]
 og:
-    image: https://files.catbox.moe/ys1mv5.png
+	image: https://files.catbox.moe/ys1mv5.png
 ---
 
 
@@ -48,7 +48,9 @@ Sound effects in manga visualizes the character's physical or mental state, the 
 
 ## Panel Terms
 
-### General
+::: tabs
+
+== General
 
 | Direction | Type |
 |-|-|
@@ -66,7 +68,7 @@ For a spread, you can set an imaginary line based on the page number.
 
 ![Black Clover ch. 361 (2 page)](/glossary/panel/gnrlspread.webp)
 
-### 4-Koma
+== 4-Koma
 
 4-Koma (a.k.a. Yonkoma manga) features four panels and follows a specific pattern where every four panels lead up to a punchline. These are generally read up-down instead of the traditional right-left. The right column is always the starting column. It can be a single column or a double column. For some manga or omake, it may follow right to left a.k.a. the traditional way.
 
@@ -84,9 +86,9 @@ At times, the beginning of a 4-Koma manga may feature a sizable illustration, sp
 
 ![Kawaii Joushi wo Komarasetai ch. 29, 46, 56, 62 (right to left)](/glossary/panel/4komaillust.webp)
 
-### Long strip
+== Long strip
 
-It's a newer type of comics format. Long strip comics are drawn for smartphone readers. The flow of the panels is up-down instead of traditional right-left/left-right. For long strip comics, the artist has to follow [different rules](https://www.webtoons.com/en/tiptoon/lozolz/webtoon-editing-tips/viewer?title_no=1268&episode_no=24) than in the traditional manga format. This format is widely used in the manhwa and manhua industries. But it's available for every region. Example: [Solo Leveling](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0/solo-leveling) (Manhwa), [Relife](https://mangadex.org/title/6e3553b9-ddb5-4d37-b7a3-99998044774e/relife) (Manga), [The Beginning After the End](https://comick.io/comic/00-the-beginning-after-the-end-1) (OEL).
+It's a newer type of comics format. Long strip comics are drawn for smartphone readers. The flow of the panels is up-down instead of traditional right-left/left-right. For long strip comics, the artist has to follow [different rules](https://www.webtoons.com/en/tiptoon/lozolz/webtoon-editing-tips/viewer?title_no=1268&episode_no=24) than in the traditional manga format. This format is widely used in the manhwa and manhua industries. But it's available for every region. Example: [Solo Leveling](https://myanimelist.net/manga/121496/) (Manhwa), [Relife](https://myanimelist.net/manga/78523/) (Manga), [The Beginning After the End](https://www.mangaupdates.com/series/rwg23en/) (OEL).
 
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/0hESrODhTMk" frameborder="0" allowfullscreen></iframe></div>
 
@@ -97,13 +99,13 @@ Occasionally, the publisher also releases the physical version, with panels stra
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/S6EloIXKWj4" frameborder="0" allowfullscreen></iframe></div>
 
 
-### Splash
+== Splash
 
 A splash page is a single panel that covers the entire page and is typically reserved for depicting an action-packed or dramatic scene.
 
 ![Attack on Titan ch. 95 (single page)](/glossary/panel/spread_1.webp)
 
-### Spread
+== Spread
 
 A panel/artwork that is spread out over two pages, reserved for particularly impactful moments.
 
@@ -117,7 +119,7 @@ They can sometimes cover multiple pages, which is solved by having fold-outs.
 
 ![Sengoku Youko ch. 48 (5-page)](/glossary/panel/spread_5.webp)
 
-
+:::
 
 ## Release Terms
 
@@ -125,9 +127,12 @@ They can sometimes cover multiple pages, which is solved by having fold-outs.
 When the translation of a series starts with the latest chapters, with the publisher later working on the rest, starting from the beginning.
 
 ### Doujinshi
-Doujinshi refers to self-published works. It can be a standalone self-published work, but it can also be a derivative of an existing published franchise or work. Doujinshi need not be NSFW, anything self-published counts.
+Doujinshi refers to self-published works. It can be a standalone self-published work, but it can also be a derivative of an existing published franchise or work. Doujinshi need not be NSFW, anything self-published counts. Sometimes, mangaka publish their work as a doujin either before an official serialization or after the serialization has ended.
 
-Sometimes, mangaka publish their work as a doujin before an official serialization. Example: [Ganbare, Douki-chan (Pre-serialization)](https://mangadex.org/title/190616bc-7da6-45fd-abd4-dd2ca656c183/ganbare-douki-chan). Sometimes after the serialization has ended. Example: [Mangaka-sensei and the Zashiki Warashi (post ch. 29)](https://nukyui.booth.pm/)
+| Manga | Type |
+|-|-|
+| [Ganbare, Douki-chan](https://www.mangaupdates.com/series/gdd4cvg/) | Pre-serialization |
+| [Mangaka-sensei and the Zashiki Warashi (post ch. 29)](https://nukyui.booth.pm/) | Post-serialization |
 
 ### Magazine
 Magazines are the most common medium of manga serialization, with the most popular ones being owned by big publishers. Each magazine focuses on a certain demographic, though some are mixed too (generally shoujo and josei). Magazines can be multi-medium too, for example Dengeki G's Magazine (by ASCII Media Works). The release intervals vary, most common being weekly, monthly or bimonthly.
@@ -161,18 +166,16 @@ Magazines are the most common medium of manga serialization, with the most popul
 Shueisha and Shogakukan are owned by Hitotsubashi Group; Kadokawa Shoten and ASCII Media Works by Kadokawa Future Publishing.
 
 ### OEL Comics
-OEL, or Original English-language comics, originate in English-speaking countries. They prominently feature Asian cultural influences in their art styles, themes, and storytelling, while the creators, including artists and production, are primarily non-Asian. Prominent examples include [Bizenghast](https://www.mangaupdates.com/series/ia6dfoc/bizenghast), [Attack on Titan Anthology](https://www.mangaupdates.com/series/bo81id9/attack-on-titan-anthology), [Ghost in the Shell: Global Neural Network](https://www.mangaupdates.com/series/29bycqg/the-ghost-in-the-shell-global-neural-network) and [The Beginning After the End](https://www.mangaupdates.com/series/rwg23en/the-beginning-after-the-end).
+OEL, or Original English-language comics, originate in English-speaking countries. They prominently feature Asian cultural influences in their art styles, themes, and storytelling, while the creators, including artists and production, are primarily non-Asian. Prominent examples include [Bizenghast](https://www.mangaupdates.com/series/ia6dfoc/), [Attack on Titan Anthology](https://www.mangaupdates.com/series/bo81id9/), [Ghost in the Shell: Global Neural Network](https://www.mangaupdates.com/series/29bycqg/) and [The Beginning After the End](https://www.mangaupdates.com/series/rwg23en/the-beginning-after-the-end).
 
 ### Omake
 A bonus/extra chapter that doesn't really affect the main story. Generally it gives artworks, character backgrounds, mangaka notes or an extra story.
 
 ### Omnibus
-A release type characteristic of western publishers where multiple tankoubon volumes are contained in one book. It's most commonly seen as 2-in-1 or 3-in-1 editions, tho it can sometimes contain an entire series, like in the case of the Death Note All-in-One volume. They're usually larger format and can contain extras, especially if the series already had a tankoubon release previously.
-
-![Naruto 3-in-1 volume (left) & Death Note All-in-One (right)](/glossary/manga/omnibus.webp)
+A release type characteristic of western publishers where multiple tankoubon volumes are contained in one book. It's most commonly seen as 2-in-1 or 3-in-1 editions. Example: [Don’t Call it Mystery](https://sevenseasentertainment.com/series/dont-call-it-mystery-omnibus/). They're usually larger format and can contain extras, especially if the series already had a tankoubon release previously. Sometime it can sometimes contain an entire series, like in the case of the [Death Note All-in-One volume](https://www.viz.com/manga-books/manga/death-note/product/5272).
 
 ### One-Shot
-A manga that's been published at once. The length of the story depends on the mangaka. Also, it can be serialized later. Example: [Kimi no Kaketeru Tokomo Suki](https://mangadex.org/title/690540ab-5f55-4b44-910d-4d2ed0a0faa9/kimi-no-kaketeru-tokomo-suki)
+A manga that's been published at once. The length of the story depends on the mangaka. Also, it can be serialized later. Example: [Kimi no Kaketeru Tokomo Suki](https://myanimelist.net/manga/154790/)
 
 
 ### Raw
@@ -184,9 +187,8 @@ The term 'RAW' refers to manga (Japan), manhwa (Korea), or manhua (China) that h
 Simultaneous publication, meaning releasing and translating the latest chapters alongside their country of origin.
 
 ### Tankoubon
-Tankoubon means the volume release. Many manga are initially published in magazines such as [Weekly Shonen Jump](https://www.shonenjump.com/j/index.html). If a manga becomes very popular, it can receive a volume release a.k.a. Tankoubon. These volumes often include redrawn content, extra chapters, and notes from the mangaka. Sometimes, Tankoubon collections can feature various works by the mangaka, similar to an anthology.
+Tankoubon means the volume release. Many manga are initially published in [magazines](#magazine). If a manga becomes very popular, it can receive a volume release a.k.a. Tankoubon. These volumes often include redrawn content, extra chapters, and notes from the mangaka. Sometimes, Tankoubon collections can feature various works by the mangaka, similar to an anthology.
 
-![One Piece](/glossary/manga/tankoubon.webp)
 ___
 #### Other volume types
 
@@ -202,40 +204,31 @@ ___
 
 
 ### Webcomic / Webmanga
-Was originally published on a web platform. The platform can be free(twitter, pixiv etc) or paid (Comico, comic-walker etc.). Example: [ReLife](https://mangadex.org/title/6e3553b9-ddb5-4d37-b7a3-99998044774e/relife) ([comico](https://www.comico.jp/comic/23)) & [A Story About Smoking at the Back of the Supermarket](https://mangadex.org/title/baa95345-24fb-47a9-83e9-434ff671f968/super-no-ura-de-yani-suu-hanashi) ([twitter](https://x.com/jinusi822))
+Webcomic means that the primary source of a manga is a web platform. It doesn't mean it won't get a volume release later on.
+
+For [doujinshi](#doujinshi), it applies to those released on a platform not owned by a publisher, either for free (on twitter, pixiv etc) or paid (on Pixiv Fanbox, FANZA etc). Example: [Sometimes Even Reality Is a Lie!](https://www.pixiv.net/user/1035047/series/60488), [Monochrome Days](https://myanimelist.net/manga/175237).
+
+For serialized manga, it applies when they are uploaded exclusively to a publisher's online platform instead of a magazine, or if the publisher is online-only. Example: [The Fragrant Flower Blooms with Dignity](https://myanimelist.net/manga/144267/), [ReLife](https://myanimelist.net/manga/78523/).
 
 
 ## Scanlation
 
 ![Scanlation](/diagram/scan.svg)
 
-### Scanlator
 A group that fan translate a manga/manhwa/manhua. The group takes the raw file and translates the whole manga (including dialogue, sfx & other forms of text). Also, sometimes the [wordplays](https://psychology.fandom.com/wiki/Japanese_wordplay) & cultural references provided in that chapter are explained in the credit section.
 
-### Cleaner (CL)
-Cleaner takes the raw file, fixes any faults (such as artifacts due to scanning, color shifts, tilts, etc.), and cleans all of the original text including SFX, if necessary. But these days, it is usually only removing text since digital raws are widely available.
-
-### Redrawer (RD)
-Redrawer redraws all the erased parts by the cleaner and makes them as smooth as possible. They patch everything that was affected due to scanning or other issues. Nowadays, cleaning and redrawing are often done by a single person since these two tasks are closely related.
-
-<div class="video_wrapper"><iframe src="https://www.youtube.com/embed/wG84MsPyteI" frameborder="0" allowfullscreen></iframe></div>
-
-### Translator (TL)
-The translator translates all the text in the manga, including dialogues, sound effects, and other texts in the panels. They also provide explanations for all the jokes, cultural references, or wordplays.
+| Member | Description |
+|-|-|
+| Cleaner (CL) | Cleaner takes the raw file, fixes any faults (such as artifacts due to scanning, color shifts, tilts, etc.), and cleans all of the original text including SFX, if necessary. But these days, it is usually only removing text since digital raws are widely available. |
+| Redrawer (RD) | Redrawer redraws all the erased parts by the cleaner and makes them as smooth as possible. They patch everything that was affected due to scanning or other issues. Nowadays, cleaning and redrawing are often done by a single person since these two tasks are closely related. Example: [CL and RD by Raj of The Fragrant Flower Blooms with Dignity ch.39 p16](https://youtu.be/wG84MsPyteI) |
+| Translator (TL) | The translator translates all the text in the manga, including dialogues, sound effects, and other texts in the panels. They also provide explanations for all the jokes, cultural references, or wordplays |
+| Typesetter (TS) | Typesetter takes the translated script from the translator and typesets it on the panel with appropriate font, formatting & sfx drawing. Sometimes TS can do both translation and typesetting. |
+| Proof reader (PR) | PR reviews all translated text to correct any typos, awkward translations, or grammar issues. It is essential that PR is fluent in the translation language. The job of PR may become unnecessary if the TL is highly experienced, as QC could potentially take on the responsibilities. |
+| Quality checker (QC) | Quality checker oversees all processes, including checking the translated manga for typos, grammar errors, translation issues, and redrawing problems. However, whether or not this role exists depends on the project or group's working strategy. |
 
 ![TL script of Living, Eating, and Sleeping Together ch. 1 (Page 1-5)](/glossary/manga/tl.webp)
 
-### Typesetter (TS)
-Typesetter takes the translated script from the translator and typesets it on the panel with appropriate font, formatting & sfx drawing. Sometimes TS can do both translation and typesetting.
-
-### Proof reader (PR)
-PR reviews all translated text to correct any typos, awkward translations, or grammar issues. It is essential that PR is fluent in the translation language. The job of PR may become unnecessary if the TL is highly experienced, as QC could potentially take on the responsibilities.
-
-### Quality checker (QC)
-Quality checker oversees all processes, including checking the translated manga for typos, grammar errors, translation issues, and redrawing problems. However, whether or not this role exists depends on the project or group's working strategy.
-
 ![Kilroy Was Here](/glossary/manga/compare.webp)
-
 
 ## Technical Terms
 
@@ -273,29 +266,12 @@ If it's due to artist or publisher's side, it's not really fixable without redra
 
 ![Manga file name sections](/diagram/manfile.svg)
 
-### Publisher
-The publisher can be mainly two types.
-- **CaaS(Chapters as a Service)**: These sites release chapters indvidually instead of volume. Examples: Manga Plus, Manga UP!, Comikey, Tapas etc.
-- **Volume**: Sells the whole volume with better quality. Example: VIZ, Kodansha, Square Enix etc.
-
-### Source
-Nowadays the primary source is digital, since it is easier to rip and usually higher quality. In the case of scans, the most used tag is c2c - cover to cover.
-
-### Uploader
-The ripper of the manga. Sometimes, it can be more than one person too. Also, if the manga is scanlated, the scanlation group is credited here.
-
-### f
-It indicated this is a fixed version after the initial upload. If there are further fixes, it will be put as f2, f3 etc.
-
-### PRE
-It indicates that a digital release has issues the publisher has yet to fix (like missing/duplicated pages). PRE2 means the publisher has fixed some of those issues, but not all of them.
-
-### Brackets
-| Bracket | Use Case { class="compact" } |
-| --- | --- |
-| () | Manga |
-| {} | Manhwa |
-| [] | Light Novel |
-
-### Format
-CBZ is the most common file format for manga. CBZ is just a Zip container. There are also CBR(RAR), CB7(7zip), PDF, ePub etc. The image files inside are generally jpeg and png.
+| Part | Description |
+|-|-|
+| Publisher | The publisher can be mainly two types. **CaaS (Chapters as a Service)** sites release chapters indvidually instead of volume. Examples: Manga Plus, Manga UP!, Comikey, Tapas etc. **Volume** websites sells the whole volume with better quality. Example: VIZ, Kodansha, Square Enix etc. |
+| Source | Nowadays the primary source is digital, since it is easier to rip and usually higher quality. In the case of scans, the most used tag is c2c - cover to cover. |
+| Uploader | The ripper of the manga. Sometimes, it can be more than one person too. Also, if the manga is scanlated, the scanlation group is credited here. |
+| pre | It indicates that a digital release has issues the publisher has yet to fix (like missing/duplicated pages). PRE2 means the publisher has fixed some of those issues, but not all of them. |
+| f | It indicated this is a fixed version after the initial upload. If there are further fixes, it will be put as f2, f3 etc. |
+| Brackets | () -> Manga, {} -> Manhwa and [] -> Light Novel |
+| Format | CBZ is the most common file format for manga. CBZ is just a Zip container. There are also CBR(RAR), CB7(7zip), PDF, ePub etc. The image files inside are generally jpeg and png. |
