@@ -62,7 +62,7 @@ Sound effects in manga visualizes the character's physical or mental state, the 
 
 The usual reading direction for manga is right to left, whereas manhwa and manhua are read left to right (like standard comics). In the case of manga, the individual panels are read right to left and top to bottom, then top again upon reaching the next page.
 
-![Sousou no Frieren Vol. 3 (Left) & Solo Leveling Vol. 7 (right)](/glossary/panel/gnrl.webp)
+![Sousou no Frieren Vol. 3 (Left) & Jack Frost Vol. 1 (right)](/glossary/panel/gnrl.webp)
 
 For a spread, you can set an imaginary line based on the page number.
 
