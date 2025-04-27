@@ -206,7 +206,7 @@ ___
 ### Webcomic / Webmanga
 Webcomic means that the primary source of a manga is a web platform. It doesn't mean it won't get a volume release later on.
 
-For [doujinshi](#doujinshi), it applies to those released on a platform not owned by a publisher, either for free (on twitter, pixiv etc) or paid (on Pixiv Fanbox, FANZA etc). Example: [Sometimes Even Reality Is a Lie!](https://www.pixiv.net/user/1035047/series/60488), [Monochrome Days](https://myanimelist.net/manga/175237).
+For [doujinshi](#doujinshi), it applies to those released on a platform not owned by a publisher, either for free (on twitter, pixiv etc) or paid (on Pixiv Fanbox, BOOTH etc). Example: [Sometimes Even Reality Is a Lie!](https://www.pixiv.net/user/1035047/series/60488), [Mangaka-sensei and the Zashiki Warashi (post ch. 29)](https://nukyui.booth.pm/).
 
 For serialized manga, it applies when they are uploaded exclusively to a publisher's online platform instead of a magazine, or if the publisher is online-only. Example: [The Fragrant Flower Blooms with Dignity](https://myanimelist.net/manga/144267/), [ReLife](https://myanimelist.net/manga/78523/).
 
