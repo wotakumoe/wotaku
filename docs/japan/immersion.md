@@ -58,6 +58,7 @@ og:
 - [Tokuzilla](https://tokuzilla.net/) [:alt:](https://tokuzl.net/)
 - [Toku555](https://toku555.com/)
 - [JP-Films](https://jp-films.com/)
+- [DramaSuki](https://rentry.org/wotadirect) :ddl:
 - [Rare Doramas](https://www.raredoramas.com/) :ddl:
 - [Japanese Movies Subtitles](https://github.com/eurusdagr/Japanese-Movies-Subtitles)
 - [JPFiles](https://jpfiles.net/) :ddl::host::mdi-disc:
