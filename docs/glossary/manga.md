@@ -211,6 +211,41 @@ For [doujinshi](#doujinshi), it applies to those released on a platform not owne
 For serialized manga, it applies when they are uploaded exclusively to a publisher's online platform instead of a magazine, or if the publisher is online-only. Example: [The Fragrant Flower Blooms with Dignity](https://myanimelist.net/manga/144267/), [ReLife](https://myanimelist.net/manga/78523/).
 
 
+For doujinshi platforms, most are website-focused, with some having apps as well. Paid ones offer either artist-based subscriptions or the purchase of individual chapters/volumes. These platforms are generally open for all with a mix of genres.
+
+For example pixiv provides all three types of solutions:
+- **[pixiv](https://www.pixiv.net/en/)** for showcasing manga for free
+- **[pixivFANBOX](https://www.fanbox.cc/)** for artist-based monthly susbcriptions (like Patreon)
+- **[BOOTH](https://booth.pm/en/)** for buying manga issues individually.
+
+
+For publisher platforms, some of the series are website-exclusive, while others are from their serialized manga magazines. Most offer a browser reader, while some make you use their app to access all features and chapters. They usually have a coin/point-based system for payment.
+
+
+| Owner        | Platform                                                       | Genre            | Format      | Type         | Payment     |
+|--------------|-----------------------------------------------------------------|------------------|-------------|--------------|-------------|
+| Shueisha     | [Shonen Jump+](https://shonenjumpplus.com/) :fjp:               | Shounen          | Print       | Web + App    | Point       |
+| ^^           | [Manga Plus](https://mangaplus.shueisha.co.jp/)                 | Shounen          | Print       | Web + App    | Point       |
+| ^^           | [Jump TOON](https://jumptoon.com/) :fjp:                        | Shounen          | Long-Strip  | Web + App    | Point       |
+| ^^           | [Young Jump!](https://ynjn.jp/) :fjp:                           | Seinen           | Print       | Web + App    | Point + Sub |
+| ^^           | [RimaComi+](https://rimacomiplus.jp/) :fjp:                     | Shoujo + Josei   | Print       | Web          | Point       |
+| Kodansha     | [Pocket Magazine](https://pocket.shonenmagazine.com/) :fjp:     | All              | Print       | Web + App    | Point       |
+| ^^           | [K MANGA](https://kmanga.kodansha.com/)                         | All              | Print       | Web + App    | Point       |
+| ^^           | [Young Magazine WEB](https://yanmaga.jp/) :fjp:                 | Seinen           | Print       | Web          | Point       |
+| ^^           | [Comic Days](https://comic-days.com/) :fjp:                     | All              | Print       | Web + App    | Point       |
+| Square Enix  | [Manga UP!](https://www.manga-up.com/) :fjp:                     | All              | Print       | Web + App    | Point + Sub |
+| ^^           | [Manga UP! Global](https://global.manga-up.com/)                 | All              | Print       | Web + App    | Point + Sub |
+| Kadokawa     | [Kadokomi](https://comic-walker.com/) :fjp:                     | All              | Print       | Web + App    | Free        |
+| Naver        | [Naver WEBTOON](https://comic.naver.com/index) :fkr:             | All              | Long-Strip  | App Focused  | Point       |
+| ^^           | [WEBTOON](https://www.webtoons.com/en/)                         | All              | Long-Strip  | App Focused  | Point       |
+| ^^           | [LINE Manga](https://manga.line.me/) :fjp:                      | All              | Long-Strip  | App Focused  | Point       |
+| ^^           | [Dongman Manhua](https://www.dongmanmanhua.cn/) :fcn:            | All              | Long-Strip  | App Focused  | Point       |
+| Kakao        | [KakaoPage](https://page.kakao.com/) :fkr:                       | All              | Long-Strip  | Web + App    | Point       |
+| ^^           | [KAKAO WEBTOON](https://webtoon.kakao.com/) :fkr:                | All              | Long-Strip  | Web + App    | Point       |
+| ^^           | [Tapas](https://tapas.io/)                                       | All              | Long-Strip  | Web + App    | Point       |
+| ^^           | [Piccoma](https://piccoma.com/) :fjp:                            | All              | Both        | Web + App    | Point       |
+
+
 ## Scanlation
 
 ![Scanlation](/diagram/scan.svg)
