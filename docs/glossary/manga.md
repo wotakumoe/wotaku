@@ -240,6 +240,10 @@ For publisher platforms, some of the series are website-exclusive, while others 
 | ^^           | [WEBTOON](https://www.webtoons.com/en/)                         | All              | Long-Strip  | App Focused  | Point       |
 | ^^           | [LINE Manga](https://manga.line.me/) :fjp:                      | All              | Long-Strip  | App Focused  | Point       |
 | ^^           | [Dongman Manhua](https://www.dongmanmanhua.cn/) :fcn:            | All              | Long-Strip  | App Focused  | Point       |
+| ^^           | [WEBTOON China](https://www.webtoons.com/zh-hant/) :fcn:          | All             | Long-Strip  | App Focused  | Point       |
+| NHN		   | [Comico](https://www.comico.jp/) :fjp:								| All				| Long-Strip | Web + App | Point |
+| ^^		   | [Comico Korea](https://www.comico.kr/) :fkr:								| All				| Long-Strip | Web + App | Point |
+| ^^		   | [Pocket Comics](https://www.pocketcomics.com/)								| All				| Long-Strip | Web + App | Point |
 | Kakao        | [KakaoPage](https://page.kakao.com/) :fkr:                       | All              | Long-Strip  | Web + App    | Point       |
 | ^^           | [KAKAO WEBTOON](https://webtoon.kakao.com/) :fkr:                | All              | Long-Strip  | Web + App    | Point       |
 | ^^           | [Tapas](https://tapas.io/)                                       | All              | Long-Strip  | Web + App    | Point       |
