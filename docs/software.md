@@ -350,7 +350,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | Category   | Resource |
 |------------|--------------------------------------------------|
 | **Starter** | [Viren070's Guides](https://guides.viren070.me/) [:gh:](https://github.com/Viren070/guides) |
-| ^^         | [Stremio Addons](https://www.stremio-addons.com/) |
+| ^^         | [Stremio Addons](https://beta.stremio-addons.net/) |
 | **Tracker** | [SyncriBullet](https://56bca7d190fc-syncribullet.baby-beamup.club/) [:gh:](https://github.com/aliyss/syncribullet) |
 | ^^         | [Animeo: AniList Tracking](https://7a625ac658ec-animeo.baby-beamup.club/configure) [:gh:](https://github.com/Jenrykster/animeo) |
 | ^^         | [MAL-Stremio Addon](https://mal-stremio.vercel.app/) [:gh:](https://github.com/SageTendo/mal-stremio-addon) |
