@@ -119,6 +119,7 @@ outline: [1,2]
 - [Jajanken](https://www.jajanken.net/en/) <Badge text="WSJ" />
 - [MANGA Plus Top 40](https://manga.tumeo.space/) [:gh:](https://github.com/williamd1k0/manga-plus-top40)
 - [MANGA Plus Views](https://mangaplustracker.github.io/) [:gh:](https://github.com/MangaplusTracker/MangaplusTracker.github.io)
+- [Mannavi](https://mannavi.net/) :fjp:
 - [Randomanga](https://randomanga.wordpress.com/) :flag-france: <Badge text="Oricon" /> 
 
 ### Calendar
