@@ -100,6 +100,7 @@ If you have recommendations for good sites in your native language or want to re
 - **Stream**
   - [AGE](https://www.agedm.org/)
   - [AniCh](https://anich.emmmm.eu.org/) [:gh:](https://github.com/Sle2p/AniCh)
+  - [Anime Island](https://www.dmd77.com/) [:prx:](https://rentry.org/dmd8)
   - [Bimibimi](http://www.bimiacg10.net/)
   - [CC](https://ccdm.cc/)
   - [ddys](https://ddys.art/category/anime/)
@@ -122,7 +123,6 @@ If you have recommendations for good sites in your native language or want to re
 ### Comics
 - [69xinshu](https://www.69xinshu.com/)
 - [8Comic](https://www.comicabc.com/)
-- [Anime Island](https://www.dmd77.com/) [:prx:](https://rentry.org/dmd8)
 - [Antbyw](https://www.antbyw.com/)
 - [Baozimh.com](https://www.baozimh.com/)
 - [Baozimh.org](https://baozimh.org/)
@@ -132,6 +132,7 @@ If you have recommendations for good sites in your native language or want to re
 - [Komiic](https://komiic.com/)
 - [Manga Reader](https://1zumii.github.io/manga-reader/#/) [:gh:](https://github.com/1zumii/manga-reader)
 - [Manhua Gui](https://www.manhuagui.com/)
+- [TVBS Comics](https://www.tvbsmh.com/)
 - [XManhua](https://xmanhua.com/)
 
 ### Novels
@@ -690,6 +691,7 @@ ___
 ### Manga
 - [Sadscans](https://sadscans.com/)
 - [Seri Manga](https://serimanga.com/)
+- [Tortuga Ceviri](https://tortuga-ceviri.com/)
 
 
 ## Ukranian
