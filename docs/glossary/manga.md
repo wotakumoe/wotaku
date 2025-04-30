@@ -218,7 +218,7 @@ For example pixiv provides all three types of solutions:
 - **[pixivFANBOX](https://www.fanbox.cc/)** for artist-based monthly susbcriptions (like Patreon)
 - **[BOOTH](https://booth.pm/en/)** for buying manga issues individually.
 
-**[pixiv Comics](https://comic.pixiv.net/)** cross licenses manga from other magazines.
+[pixiv Comics](https://comic.pixiv.net/) licenses manga from other publishers and magazines. These titles can be either traditional print-format manga or vertical long-strip webtoons. The platform uses a coin-based system, with some chapters available for free. For certain series, only the first and last three chapters are free, while others may be entirely free to read.
 
 For publisher platforms, some of the series are website-exclusive, while others are from their serialized manga magazines. Most offer a browser reader, while some make you use their app to access all features and chapters. They usually have a coin/point-based system for payment.
 
@@ -238,7 +238,7 @@ For publisher platforms, some of the series are website-exclusive, while others 
 | ^^           | [Manga UP! Global](https://global.manga-up.com/)                 | All              | Print       | Web + App    | Point + Sub |
 | Kadokawa     | [Kadokomi](https://comic-walker.com/) :fjp:                     | All              | Print       | Web + App    | Free        |
 | Naver        | [Naver WEBTOON](https://comic.naver.com/index) :fkr:             | All              | Long-Strip  | App Focused  | Point       |
-| ^^           | [WEBTOON](https://www.webtoons.com/en/)                         | All              | Long-Strip  | App Focused  | Point       |
+| ^^           | [WEBTOON](https://www.webtoons.com/en/)  ==linew==                    | All              | Long-Strip  | App Focused  | Point       |
 | ^^           | [LINE Manga](https://manga.line.me/) :fjp:                      | All              | Long-Strip  | App Focused  | Point       |
 | ^^           | [Dongman Manhua](https://www.dongmanmanhua.cn/) :fcn:            | All              | Long-Strip  | App Focused  | Point       |
 | ^^           | [WEBTOON China](https://www.webtoons.com/zh-hant/) :fcn:          | All             | Long-Strip  | App Focused  | Point       |
