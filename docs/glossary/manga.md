@@ -218,6 +218,7 @@ For example pixiv provides all three types of solutions:
 - **[pixivFANBOX](https://www.fanbox.cc/)** for artist-based monthly susbcriptions (like Patreon)
 - **[BOOTH](https://booth.pm/en/)** for buying manga issues individually.
 
+**[pixiv Comics](https://comic.pixiv.net/)** cross licenses manga from other magazines.
 
 For publisher platforms, some of the series are website-exclusive, while others are from their serialized manga magazines. Most offer a browser reader, while some make you use their app to access all features and chapters. They usually have a coin/point-based system for payment.
 
