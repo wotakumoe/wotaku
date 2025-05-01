@@ -118,7 +118,9 @@ const aliases: Record<string, string> = {
   help: 'material-symbols-help',
   yes: 'twemoji-check-mark-button',
   no: 'twemoji-cross-mark',
-  global: 'twemoji-globe-showing-asia-australia'
+  global: 'twemoji-globe-showing-asia-australia',
+  cc: 'mdi-closed-caption',
+  hs: 'mdi-hulu'
 }
 
 const defs: Record<string, string> = {}
