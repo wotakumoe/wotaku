@@ -20,6 +20,8 @@ outline: 1
 - Scraper<tooltip>Meaning they don't have their own uploads, but scrape from self-hosted sites. If a host site goes down, changes site structure or API, the scraper site will become useless.</tooltip> -> :mingcute-shovel-fill:
 - Tracker ([AL](https://anilist.co/home)/[MAL](https://myanimelist.net/)) sync -> :mingcute-refresh-2-fill:
 - In-site Account -> :mingcute-user-2-fill:
+- Player with Softsub -> :cc:
+- Player with Hardsub -> :hs:
 :::
 
 | Websites | Type | Login | Sub |
