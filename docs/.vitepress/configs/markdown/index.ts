@@ -38,8 +38,8 @@ const tooltips: {
   },
   KAA: {
     content: `  
-  - KAA encodes are on Videstreaming, Birdstream scrapes Bilibili.  
-  - Pretty good for airing anime.  
+  - KAA encodes are on Videstreaming and Catstream. Birdstream scrapes Bilibili.  
+  - Good for airing anime.  
   - Has good amount of missing old titles, but you can request them in their support server.`
   },
   AnimeKai: {
