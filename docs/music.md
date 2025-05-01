@@ -532,6 +532,8 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 - [beets](https://beets.io/) [:gh:](https://github.com/beetbox/beets) [:help:](https://beets.readthedocs.io/en/stable/index.html)
 
 ### Misc
+- [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) :win:
+  - [Peace Equalizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/) :win:
 - [Karaoke Mugen](https://mugen.karaokes.moe/en/) :win::app::lin: [:gl:](https://gitlab.com/karaokemugen/code/karaokemugen-app)
 - [Music Presence](https://github.com/ungive/discord-music-presence) :win::app::cs:
 
