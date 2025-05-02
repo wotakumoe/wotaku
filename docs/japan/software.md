@@ -176,6 +176,7 @@ ___
     - [Yomitan Grammar Dictionaries](https://github.com/aiko-tanaka/Grammar-Dictionaries)
     - [VNDB Names for Yomitan](https://github.com/kaanium/VNDB-Names-for-Yomitan)
 - [10ten Japanese Reader](https://github.com/birchill/10ten-ja-reader) :ff::cr::simple-icons-safari:<tooltip>Pop-up dictionary</tooltip>
+- [Anki JPDB Reader](https://github.com/Kagu-chan/anki-jpdb.reader) :ff::cr:
 - [ASB Auto Subs](https://github.com/GodPepe7/asb-auto-subs) :ff::cr:<tooltip>Jimaku subs in anime sites</tooltip>
 - [Japanese.io](https://www.japanese.io/) :cr:<tooltip>Pop-up dictionary</tooltip>
 - [jimaku player](https://github.com/sheodox/jimaku-player) :js:<tooltip>Custom subs for CR</tooltip>
