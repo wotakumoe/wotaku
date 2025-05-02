@@ -79,7 +79,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 - Adobe Software :paid::cs:
   - [m0nkrus](https://w16.monkrus.ws/) :win::app: [:simple-icons-vk:](https://vk.com/monkrus)
   - [RuTracker](https://rutracker.org/forum/index.php) :win::app:
-  - [GenP](https://genpguides.github.io) :win:
+  - [GenP](https://lemmy.dbzer0.com/c/GenP) :win:
   - [Download Pirate](https://www.downloadpirate.com/) :win:
   - [a.dove.isdumb.one](https://github.com/ignaciocastro/a-dove-is-dumb)
   - Adobe Alternatives
