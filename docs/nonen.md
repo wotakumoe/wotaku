@@ -389,21 +389,23 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 #### Manga
 
+- [Jestful](https://jestful.net/)
 - [KL Manga](https://klz9.com/idx) [:prx:](https://rentry.org/wotaxy#kl-manga)
 - [MangaFire](https://mangafire.to/home)
 - [Manga Jikan](https://www.mangajikan.com/) [:prx:](https://rentry.org/wotaxy#manga-jikan)
-- [Manga RAW](https://mangajp.top/) [:alt:](https://mangaraw.org/)
 - [Manga RAW (.best)](https://mangaraw.best/)
+- [Manga RAW (.plus)](https://mangaraw.plus/)
+- [Manga RAW (.top)](https://mangajp.top/) [:alt:](https://mangaraw.org/)
 - [MangaReader](https://mangareader.to/home)
 - [Pixiv Comics](https://comic.pixiv.net/)
 - [NicoManga](https://nicomanga.com/) [:prx:](https://rentry.org/wotaxy#nicomanga)
-- [RAW 1001](https://raw1001.net/home)
+- [RAW 1001](https://raw1001.net/home) [:prx:](https://rentry.org/wotaxy#raw1001)
 - [Rawkuma](https://rawkuma.com/)
-- [Rawkuro](https://rawkuro.net/home)
-- [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.ac/home/)
+- [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.my/home/)
 - [RawUwU](https://rawuwu.com/) [:alt:](https://rawdevart.art/)
 - [Sen Manga](https://raw.senmanga.com/)
 - [Spoilerplus](https://spoilerplus.tv/) ==Spoilerplus==
+- [Syosetu](https://syosetu.now/)
 - [Twicomi](https://twicomi.com/)
 - [We Love Manga](https://welovemanga.one/) [:alt:](https://manga1000.top/)
 
