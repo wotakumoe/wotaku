@@ -166,7 +166,7 @@ Magazines are the most common medium of manga serialization, with the most popul
 | Akita Shoten | Weekly Shounen Champion   | Shounen    | Baki |
 | ^^		   | Young Champion			   | Seinen     | Battle Royale |
 
-Shueisha and Shogakukan are owned by Hitotsubashi Group; Kadokawa Shoten and ASCII Media Works by Kadokawa Future Publishing.
+Shueisha, Shogakukan and Hakusensha are owned by Hitotsubashi Group; Kadokawa Shoten and ASCII Media Works by Kadokawa Future Publishing.
 
 ### OEL Comics
 OEL, or Original English-language comics, originate in English-speaking countries. They prominently feature Asian cultural influences in their art styles, themes, and storytelling, while the creators, including artists and production, are primarily non-Asian. Prominent examples include [Bizenghast](https://www.mangaupdates.com/series/ia6dfoc/), [Attack on Titan Anthology](https://www.mangaupdates.com/series/bo81id9/), [Ghost in the Shell: Global Neural Network](https://www.mangaupdates.com/series/29bycqg/) and [The Beginning After the End](https://www.mangaupdates.com/series/rwg23en/the-beginning-after-the-end).
@@ -233,6 +233,7 @@ For publisher platforms, some of the series are website-exclusive, while others 
 | ^^           | [Jump TOON](https://jumptoon.com/) :fjp:                        | Shounen          | Long-Strip  | Web + App    | Point       |
 | ^^           | [Young Jump!](https://ynjn.jp/) :fjp:                           | Seinen           | Print       | Web + App    | Point + Sub |
 | ^^           | [RimaComi+](https://rimacomiplus.jp/) :fjp:                     | Shoujo/Josei   | Print       | Web          | Point       |
+| Hakusensha   | [Manga Park](https://manga-park.com/) :fjp:					 | General 			| Print     | Web + App     | Point |
 | Kodansha     | [Pocket Magazine](https://pocket.shonenmagazine.com/) :fjp:     | General              | Print       | Web + App    | Point       |
 | ^^           | [K MANGA](https://kmanga.kodansha.com/)                         | General              | Print       | Web + App    | Point       |
 | ^^           | [Young Magazine WEB](https://yanmaga.jp/) :fjp:                 | Seinen           | Print       | Web          | Point       |
@@ -283,21 +284,24 @@ In general printing, halftones refer to the technique of using different sized d
 [Moiré](https://en.wikipedia.org/wiki/Moir%C3%A9_pattern) is the creation of a new pattern by overlapping two patterns / halftone / screentone. It can occur due to several factors:
 
 ![](/glossary/manga/pattern.png)
-___
-#### **Artist-side**
+
+::: tabs
+
+== Artist-side
 Artists often overlap two or more pattern to create a new pattern. Although it's technically moiré, it's an intended effect, thus when we talk about moiré, we focus more on the uneven or the unintentional ones. Moiré can also happen if the artist uses higher frequency of halftone during drawing since those can't be printed with 100% scale or published digitally.
 
 ![Moiré vs Non-Moiré Pattern Comparison](/glossary/manga/artistside.webp)
-___
-#### **Publisher-side**
+
+== Publisher-side
 Sometimes, the publisher messes it up during release (digital or physical). Example: [Boy's Abyss vol. 3](https://slow.pics/c/PwgOYQtw)
-___
-#### **Reader-side**
+
+== Reader-side
 If the image render resolution is lower than the image native resolution (even if the screen resolution itself is high), it can cause moiré when scaling down. The effect may be more pronounced depending on the screen's DPI and on the physical screen size. It can also depend on the reader app/program used, as some handle this process better than others.
 
 ![Sachi's Monstrous Appetite vol. 4](/glossary/manga/danke.webp)
-___
-#### **Solution**
+:::
+
+#### Solution
 If it's due to artist or publisher's side, it's not really fixable without redraw. If it's due to screen resolution/DPI,
 - The level of moiré can be lowered by using a better image scaling algorithm, such as Lanczos scaling. For example: [CDisplayEx](https://www.cdisplayex.com/) (Windows) and [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer) (Android). You can tweak the Lanczos level in the settings to get a better result. The level depends on the
 	- image DPI of the comic
