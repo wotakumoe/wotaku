@@ -155,6 +155,9 @@ Magazines are the most common medium of manga serialization, with the most popul
 | ^^           | Ciao                      | Shoujo     | Kirarin Revolution |
 | ^^           | Big Comic Spirits         | Seinen     | 21st Century Boys |
 | ^^           | Flowers                   | Josei      | 7SEEDS |
+| Hakusensha   | Young Animal			   | Seinen     | Berserk |
+| ^^		   | Hana to Yume			   | Shoujo     | Fruits Basket |
+| ^^		   | LaLa                      | Shoujo     | Maid-sama! |
 | Square Enix  | Monthly Shounen Gangan    | Shounen    | Fullmetal Alchemist |
 | ^^           | Young Gangan              | Seinen     | My Dress-Up Darling |
 | ASCII Media Works | Dengeki Daioh | Mix	| Azumanga Daioh |
@@ -229,26 +232,27 @@ For publisher platforms, some of the series are website-exclusive, while others 
 | ^^           | [Manga Plus](https://mangaplus.shueisha.co.jp/)                 | Shounen          | Print       | Web + App    | Point       |
 | ^^           | [Jump TOON](https://jumptoon.com/) :fjp:                        | Shounen          | Long-Strip  | Web + App    | Point       |
 | ^^           | [Young Jump!](https://ynjn.jp/) :fjp:                           | Seinen           | Print       | Web + App    | Point + Sub |
-| ^^           | [RimaComi+](https://rimacomiplus.jp/) :fjp:                     | Shoujo + Josei   | Print       | Web          | Point       |
-| Kodansha     | [Pocket Magazine](https://pocket.shonenmagazine.com/) :fjp:     | All              | Print       | Web + App    | Point       |
-| ^^           | [K MANGA](https://kmanga.kodansha.com/)                         | All              | Print       | Web + App    | Point       |
+| ^^           | [RimaComi+](https://rimacomiplus.jp/) :fjp:                     | Shoujo/Josei   | Print       | Web          | Point       |
+| Kodansha     | [Pocket Magazine](https://pocket.shonenmagazine.com/) :fjp:     | General              | Print       | Web + App    | Point       |
+| ^^           | [K MANGA](https://kmanga.kodansha.com/)                         | General              | Print       | Web + App    | Point       |
 | ^^           | [Young Magazine WEB](https://yanmaga.jp/) :fjp:                 | Seinen           | Print       | Web          | Point       |
-| ^^           | [Comic Days](https://comic-days.com/) :fjp:                     | All              | Print       | Web + App    | Point       |
-| Square Enix  | [Manga UP!](https://www.manga-up.com/) :fjp:                     | All              | Print       | Web + App    | Point + Sub |
-| ^^           | [Manga UP! Global](https://global.manga-up.com/)                 | All              | Print       | Web + App    | Point + Sub |
-| Kadokawa     | [Kadokomi](https://comic-walker.com/) :fjp:                     | All              | Print       | Web + App    | Free        |
-| Naver        | [Naver WEBTOON](https://comic.naver.com/index) :fkr:             | All              | Long-Strip  | App Focused  | Point       |
-| ^^           | [WEBTOON](https://www.webtoons.com/en/)  ==linew==                    | All              | Long-Strip  | App Focused  | Point       |
-| ^^           | [LINE Manga](https://manga.line.me/) :fjp:                      | All              | Long-Strip  | App Focused  | Point       |
-| ^^           | [Dongman Manhua](https://www.dongmanmanhua.cn/) :fcn:            | All              | Long-Strip  | App Focused  | Point       |
-| ^^           | [WEBTOON China](https://www.webtoons.com/zh-hant/) :fcn:          | All             | Long-Strip  | App Focused  | Point       |
-| NHN		   | [Comico](https://www.comico.jp/) :fjp:								| All				| Long-Strip | Web + App | Point |
-| ^^		   | [Comico Korea](https://www.comico.kr/) :fkr:								| All				| Long-Strip | Web + App | Point |
-| ^^		   | [Pocket Comics](https://www.pocketcomics.com/)								| All				| Long-Strip | Web + App | Point |
-| Kakao        | [KakaoPage](https://page.kakao.com/) :fkr:                       | All              | Long-Strip  | Web + App    | Point       |
-| ^^           | [KAKAO WEBTOON](https://webtoon.kakao.com/) :fkr:                | All              | Long-Strip  | Web + App    | Point       |
-| ^^           | [Tapas](https://tapas.io/)                                       | All              | Long-Strip  | Web + App    | Point       |
-| ^^           | [Piccoma](https://piccoma.com/) :fjp:                            | All              | Both        | Web + App    | Point       |
+| ^^           | [Comic Days](https://comic-days.com/) :fjp:                     | General              | Print       | Web + App    | Point       |
+| Square Enix  | [Manga UP!](https://www.manga-up.com/) :fjp:                     | General              | Print       | Web + App    | Point + Sub |
+| ^^           | [Manga UP! Global](https://global.manga-up.com/)                 | General              | Print       | Web + App    | Point + Sub |
+| Kadokawa     | [Kadokomi](https://comic-walker.com/) :fjp:                     | General              | Print       | Web + App    | Free        |
+| Naver        | [Naver WEBTOON](https://comic.naver.com/index) :fkr:             | General              | Long-Strip  | App Focused  | Point       |
+| ^^           | [WEBTOON](https://www.webtoons.com/en/)  ==linew==                    | General              | Long-Strip  | App Focused  | Point       |
+| ^^           | [LINE Manga](https://manga.line.me/) :fjp:                      | General              | Long-Strip  | App Focused  | Point       |
+| ^^           | [Dongman Manhua](https://www.dongmanmanhua.cn/) :fcn:            | General              | Long-Strip  | App Focused  | Point       |
+| ^^           | [WEBTOON China](https://www.webtoons.com/zh-hant/) :fcn:          | General             | Long-Strip  | App Focused  | Point       |
+| ^^           | [Naver Series](https://series.naver.com/) :fkr:                   | General              | Both       | Web + App   | Point |
+| NHN		   | [Comico](https://www.comico.jp/) :fjp:								| General				| Long-Strip | Web + App | Point |
+| ^^		   | [Comico Korea](https://www.comico.kr/) :fkr:								| General				| Long-Strip | Web + App | Point |
+| ^^		   | [Pocket Comics](https://www.pocketcomics.com/)								| General				| Long-Strip | Web + App | Point |
+| Kakao        | [KakaoPage](https://page.kakao.com/) :fkr:                       | General              | Long-Strip  | Web + App    | Point       |
+| ^^           | [KAKAO WEBTOON](https://webtoon.kakao.com/) :fkr:                | General              | Long-Strip  | Web + App    | Point       |
+| ^^           | [Tapas](https://tapas.io/)                                       | General              | Long-Strip  | Web + App    | Point       |
+| ^^           | [Piccoma](https://piccoma.com/) :fjp:                            | General              | Both        | Web + App    | Point       |
 
 
 ## Scanlation
