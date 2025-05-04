@@ -41,7 +41,7 @@ og:
 | ^^         | [VTuber Newsdrop](https://vtubernewsdrop.com/) |
 | ^^         | [Reincar](https://reincar.net/) :fjp: |
 | Non-English | [VTBs in Bilibili!](https://vtbs.moe/) :fcn: [:gh:](https://github.com/dd-center/vtbs.moe/) |
-| ^^          | [臺灣 VTuber 列表](https://taiwanvtuberdata.github.io/) :fcn: [:gh:](https://github.com/TaiwanVtuberData/TaiwanVtuberTrackingData) |
+| ^^          | [臺灣 VTuber 列表](https://taiwanvtuberdata.github.io/) :flag-taiwan: [:gh:](https://github.com/TaiwanVtuberData/TaiwanVtuberTrackingData) |
 | Others     | [Mogu](https://mogu.holopirates.moe/) |
 
 ## Hololive
