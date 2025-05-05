@@ -369,8 +369,6 @@ const tooltips: {
   komik: {content: 'Mostly up to the artist. Some of them are R2L too.'},
   atosho: {content: 'Offers both DDL hosts and Usenet as download options, but only keeps uploads up to 16GB. DDL files might be auto-deleted by the hosts due to inactivity, unlike Usenet files. You can try [magicNZB](https://magicnzb.com/) for free Usenet downloads, as it allows temp-mails and does not require a CC.'},
   linew: {content: 'In 2019, they rebranded LINE WEBTOON as WEBTOON. In some regions, it is still branded as LINE WEBTOON.'},
-  toomics: {content: 'Uploads pornhwa published in Toomics.com'},
-  daycomics: {content: 'Uploads pornhwa published in Daycomics.com'},
 }
 
 export function configureMarkdown(md: MarkdownRenderer) {

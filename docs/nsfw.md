@@ -80,10 +80,12 @@ og:
 
 ::: warning These ain't official
 :::
-- [Hotcomics](https://hotcomics.io/en) :s: [:alt:](https://hotcomics.me/en/) ==toomics==
-- [DayComics](https://daycomics.me/) ==daycomics==
-- [Heytoon](https://heytoon.net/en/)  ==toomics==
-- [Webtooni](https://webtooni.net/en/) ==daycomics==
+| Source | Website |
+|-|-|
+| Toomics.com | [Hotcomics](https://hotcomics.io/en) :s: [:alt:](https://hotcomics.me/en/) |
+| ^^          | [Heytoon](https://heytoon.net/en/) |
+| DayComcis.com | [DayComics](https://daycomics.me/) |
+| ^^            | [Webtooni](https://webtooni.net/en/) |
 
 ### Scanlators {open}
 - [The Blank](https://mangadex.org/group/d53b6ec6-bbbf-4fad-a254-2b7ddda84c2c/the-blank) :s: [:web:](https://theblank.net/)
