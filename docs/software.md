@@ -314,7 +314,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | [gallery-dl](https://github.com/mikf/gallery-dl/) [:help:](https://gdl-org.github.io/docs/) | :win::app::lin::cmd: |
 | [Media Downloader](https://github.com/mhogomchungu/media-downloader) | :win::app::lin::cmd: |
 | [MangaL](https://github.com/metafates/mangal) | :win::app::lin::cmd: |
-| [HDoujin Downloader](https://doujindownloader.com/) :cs: ==HDoujin== | :win: |
+| [HDoujin Downloader](https://doujindownloader.com/) :cs: ==HDoujinDownloader== | :win: |
 
 
 ::: details More

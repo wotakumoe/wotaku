@@ -233,7 +233,7 @@ const tooltips: {
   utoon: { content: 'Formerly Manhwa Freak, freak scans, freak comics' },
   Shiru: { content: 'Hard fork of Miru' },
   Hakuneko: { content: 'For Linux, you have to use old one atm.' },
-  HDoujin: { content: 'Has a limit of 25 chapters per day.' },
+  HDoujinDownloader: { content: 'Has a limit of 25 chapters per day.' },
   CbxConverter: {
     content:
       'The version of Magick inside is really outdated. If you use it, download ImageMagick-[Latest_Version]-portable-Q8-x64.zip from the Imagemagick site, take the magick.exe from there and replace it in CbxConverter folder.'
@@ -281,10 +281,11 @@ const tooltips: {
   Oppai: {
     content: 'Late releases, but less compressed than other aggregators.'
   },
-  nHentai: { content: 'Most popular. Decent UI but compresses images.' },
+  nHentai: { content: 'Most popular. Decent UI, but compresses images.' },
   Akuma: { content: 'E-Hentai clone.' },
-  IMHentai: { content: 'Big library and great search filters.' },
+  HDoujin: { content: 'Side project of Schale Network, similar to nHentai.' },
   Hitomi: { content: 'Big library, but difficult to navigate.' },
+  IMHentai: { content: 'Big library and great search filters.' },
   PandaBackup: {
     content:
       'Archive of stuff removed from E-Hentai due to DMCA complaints. Has some obscure stuff deleted on most sites.'
@@ -293,7 +294,7 @@ const tooltips: {
     content: 'Formerly Koharu, has Fakku/Irodori rips (official TLs).'
   },
   Yabai: { content: 'E-Hentai clone.' },
-  HentaiNexus: { content: 'Fakku/Irodori rips (official TLs).' },
+  HenTalkNexus: { content: 'Fakku/Irodori rips (official TLs).' },
   EHentai: {
     content:
       "The Mangadex of doujins, almost every doujin is first uploaded here before being scraped by other sites. The online viewer compresses the images, but has the option to download in original quality. [ExHentai](https://exhentai.org/) is its sister site, which also hosts the more extreme and questionable content. You'll need an account on E-Hentai to gain access."

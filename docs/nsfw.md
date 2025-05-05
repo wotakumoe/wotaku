@@ -45,16 +45,19 @@ og:
 - [E-Hentai](https://e-hentai.org/) :s: <Badge type="tip" text="Search Guide" link="https://e-hentaitagsearch.blogspot.com/" /> ==EHentai==
 - [nHentai](https://nhentai.net/) ==nHentai==
 - [Akuma](https://akuma.moe/) ==Akuma==
-- [IMHentai](https://imhentai.xxx/) [:prx:](https://rentry.org/wotaxy#imhentai) ==IMHentai==
+- [HDoujin](https://hdoujin.org/) ==HDoujin==
 - [Hitomi](https://hitomi.la/) ==Hitomi==
+- [IMHentai](https://imhentai.xxx/) [:prx:](https://rentry.org/wotaxy#imhentai) ==IMHentai==
 - [Panda Backup](https://panda.chaika.moe/) ==PandaBackup==
-- [SchaleNetwork](https://schale.network/) :s: [:prx:](https://rentry.org/schalenet) ==SchaleNetwork==
+- [Schale Network](https://schale.network/) :s: [:prx:](https://rentry.org/schalenet) ==SchaleNetwork==
 - [Yabai](https://yabai.si/) ==Yabai==
 
 ### English-only
-- [Hentai Nexus](https://hentainexus.com/) ==HentaiNexus==
+- [EAHentai](https://eahentai.com/home)
+- [Hentai Nexus](https://hentainexus.com/) ==HenTalkNexus==
 - [HentaiFox](https://hentaifox.com/)
 - [HentaiRead](https://hentairead.com/)
+- [HenTalk](https://hentalk.pw/) [:prx:](https://fakku.cc/) ==HenTalkNexus==
 - [Tsumino](https://www.tsumino.com/)
 - [Wholesome Hentai God List](https://wholesomelist.com/)
 
@@ -76,16 +79,16 @@ og:
 - [Toonily](https://toonily.com/) :s:
 - [Webtoon](https://www.webtoon.xyz/)
 
-### Official Look-alike
+### Official Look-alikes
 
-::: warning These ain't official
+::: warning Despite the names, these aren't official.
 :::
 | Source | Website |
 |-|-|
-| Toomics.com | [Hotcomics](https://hotcomics.io/en) :s: [:alt:](https://hotcomics.me/en/) |
-| ^^          | [Heytoon](https://heytoon.net/en/) |
-| DayComcis.com | [DayComics](https://daycomics.me/) |
-| ^^            | [Webtooni](https://webtooni.net/en/) |
+| Toomics.com | [Hotcomics](https://hotcomics.io/en) :s::fm: [:alt:](https://hotcomics.me/en/) |
+| ^^          | [Heytoon](https://heytoon.net/en/) :fm: |
+| DayComcis.com | [DayComics](https://daycomics.me/) :fm: |
+| ^^            | [Webtooni](https://webtooni.net/en/) :fm: |
 
 ### Scanlators {open}
 - [The Blank](https://mangadex.org/group/d53b6ec6-bbbf-4fad-a254-2b7ddda84c2c/the-blank) :s: [:web:](https://theblank.net/)
