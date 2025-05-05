@@ -27,7 +27,7 @@ og:
   - [FastForward](https://fastforward.team/) :ff::cr:
 - **Script**
   - [AdsBypasser](https://adsbypasser.github.io/) [:gh:](https://github.com/adsbypasser/adsbypasser)
-  - [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)
+  - [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/) :s:
   - [Bypass.city](https://bypass.city/how-to-install-userscript)
 
 ## Apps
