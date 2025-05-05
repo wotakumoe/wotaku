@@ -63,19 +63,27 @@ og:
 ### Aggregator
 - [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) :ddl:
 - [Batoto](https://battwo.com/v3x)  [:prx:](https://rentry.co/batoto)
-- [Doujindesu](https://doujindesu.tv/) <Badge type="info" text="Raw" />
+- [Doujindesu](https://doujindesu.tv/) :fjp::fkr:
 - [Hiperdex](https://hiperdex.com/)
 - [Manga District](https://mangadistrict.com/) :s:
 - [Manhwa18](http://manhwa18.com/)
-- [Manhwa-raw](https://manhwa-raw.com/) <Badge type="info" text="+Raw" />
-- [Manhwas](https://manhwas.men/) <Badge type="info" text="+Raw" />
+- [Manhwa-raw](https://manhwa-raw.com/) +:fkr:
+- [Manhwas](https://manhwas.men/) +:fkr:
 - [Manytoon](https://manytoon.com/) :s:
 - [Oppai](https://read.oppai.stream/) :s: ==Oppai==
-- [RawDEX](https://rawdex.net/) <Badge type="info" text="Raw" />
-- [Sauce Manhwa](https://saucemanhwa.org/) <Badge type="info" text="+Raw" />
+- [RawDEX](https://rawdex.net/) :fkr:
+- [Sauce Manhwa](https://saucemanhwa.org/) +:fkr:
 - [Toonily](https://toonily.com/) :s:
 - [Webtoon](https://www.webtoon.xyz/)
-- [Webtooni](https://webtooni.net/en/)  [:alt:](https://heytoon.net/en/)
+
+### Official Look-alike
+
+::: warning These ain't official
+:::
+- [Hotcomics](https://hotcomics.io/en) :s: [:alt:](https://hotcomics.me/en/) ==toomics==
+- [DayComics](https://daycomics.me/) ==daycomics==
+- [Heytoon](https://heytoon.net/en/)  ==toomics==
+- [Webtooni](https://webtooni.net/en/) ==daycomics==
 
 ### Scanlators {open}
 - [The Blank](https://mangadex.org/group/d53b6ec6-bbbf-4fad-a254-2b7ddda84c2c/the-blank) :s: [:web:](https://theblank.net/)
