@@ -148,6 +148,7 @@ og:
 - [カイ / Kai](https://www.youtube.com/@%E3%82%AB%E3%82%A4-w3d) <Badge type="tip" text="EN" link="https://www.youtube.com/@kai_en8684/" />
 - [くまいゆうき / Kamai Yuki](https://www.youtube.com/@kumayuki55) <Badge type="tip" text="EN" link="https://www.youtube.com/@KumaiYuki_EN/" />
 - [Khelly](https://www.youtube.com/@Khelly_Ch/)
+- [もちみこ / Mochimiko](https://www.youtube.com/mochimikoJP) <Badge type="tip" text="EN" link="https://youtube.com/@mochimikoen" />
 - [もものふ&あおつき / momonofu & aotuki](https://www.youtube.com/@momonofuaotuki/) <Badge type="tip" text="EN" link="https://www.youtube.com/@momonofuen1427/" />
 - [ニコニコニコたん手描き切り抜き (Niconiconico-tan Tegaki Kirinuki)](https://www.youtube.com/@25tan_ouen_tegaki) :fjp:
 - [noeee](https://www.youtube.com/@noeee/)
