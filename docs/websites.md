@@ -428,6 +428,7 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 - [Digital Comic Museum](https://digitalcomicmuseum.com/) <Badge type="info" text="Vintage"/>
 - [Read Comic Online (.li)](https://readcomiconline.li/) :s:
 - [Read Comics Online (.ru)](https://readcomicsonline.ru/)
+- [XOXO Comics](https://xoxocomic.com/) [:alt:](https://comichubfree.com/)
 
 ## Direct Download
 - [Anna’s Archive](https://annas-archive.org/) [:prx:](https://rentry.org/wotaxy#annas-archive) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
