@@ -291,7 +291,6 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 | [LHTranslation](https://lhtranslation.net/) | :fjp: | [URL](https://mangadex.org/group/24adf288-d0e3-4d34-b342-bf8c189aacaa/lhtranslation) | [URL](https://www.mangaupdates.com/group/f6nc2yt/lhtranslation) |
 | [Manhua Ga](https://manhuaga.com/) | :fcn: | - | - |
 | [Manhua Plus](https://manhuaplus.com/) | :fcn: | - | [URL](https://www.mangaupdates.com/group/3apm0du/manhua-plus) |
-| [Reaper Scans](https://reaperscans.com/) | :fkr::fcn: | [URL](https://mangadex.org/group/e892ed1b-ed75-414a-bc86-71226f3364ad/reaper-scans) | [URL](https://www.mangaupdates.com/group/5ev5t5s/reaper-scans) |
 | [Realm Oasis](https://realmoasis.com/) ==realm== | :fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/v5djjz8/rizz-comics) |
 | [Reset Scans](https://rspro.xyz/home/) | :fjp::fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/df9ckct/reset-scans) |
 | [Scylla Comics](https://scyllacomics.xyz/) ==Scylla== | :fjp: | [URL](https://mangadex.org/group/4209a4a9-b838-4817-be40-0c8ef2f7be4a/scylla-scans) | [URL](https://www.mangaupdates.com/groups.html?id=14042) |
@@ -325,7 +324,6 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 - [Novel Buddy](https://novelbuddy.com/home) [:alt:](https://novelbuddy.io/home)
 - [VyNovel](https://vynovel.com/)
 - [NovelFire](https://novelfire.net/home)
-- [Reaper Scans](https://reaperscans.com/novels)
 
 :::details More
 - [Novgo](https://novgo.co/)
