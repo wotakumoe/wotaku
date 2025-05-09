@@ -81,7 +81,7 @@ outline: 1
 - [Lucifer Donghua](https://luciferdonghua.in/) [:tg:](https://t.me/luciferdonghuaz)
 - [Myanime](https://myanime.live/)
 - [Top Chinese Anime](https://topchineseanime.com/) [:d:](https://discord.gg/zmAy8YuVrg) [:tg:](https://telegram.me/chineseanimecoin)
-
+- [WowTopix](https://wowtopix.com/)
 :::
 
 :::details Misc
