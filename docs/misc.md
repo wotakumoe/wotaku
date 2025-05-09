@@ -225,6 +225,7 @@ ___
 | ^^        | [Anime Bingo](https://anime-bingo.aikats.us/) [:gh:](https://github.com/walfie/anime-bingo) | :al: |  
 | ^^        | [due.moe](https://due.moe/) | :al: |  
 | ^^        | [Related Anime](https://relatedanime.com/) | :mal: |  
+| ^^        | [Topsters](https://topsters.org/) | :simple-icons-themoviedatabase::simple-icons-lastdotfm::simple-icons-igdb::simple-icons-internetarchive: |
 | **Anime** | [Manga Adaptations](https://anilist-adaptations.timschneeberger.me/) [:gh:](https://github.com/timschneeb/manga-adaptations-anilist) | :al: |  
 | ^^        | [Randime](https://randime.moe/) | :no: |  
 | ^^        | [Spin.moe](https://spin.moe/) | :mal::al::k: |  
