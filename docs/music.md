@@ -128,9 +128,9 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 | Website | Service |
 |-|-|
-| [Squid.wtf](https://squid.wtf/) :s: | Qobuz, Deezer, THInsider |
+| [Lucida](https://lucida.to/) :s: [:alt:](https://lucida.su/) | Qobuz, Tidal, Amazon Music, Deezer, Yandex |
 | [DAB Music Player](https://dab.yeet.su/) ==dab== | Qobuz |
-| [Lucida](https://lucida.to/) [:alt:](https://lucida.su/) | Qobuz, Tidal, Amazon Music, Deezer, Yandex |
+| [Squid.wtf](https://squid.wtf/) | Qobuz, Deezer, THInsider |
 | [DeezMate](https://deezmate.com/) | Deezer |
 | [Apple Music Downloader](https://aaplmusicdownloader.com/) ==amdl== | Apple (Lossy) |
 

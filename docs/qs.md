@@ -91,8 +91,8 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | **Dedicated** | [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap) |
 | ^^         | [Sitting on Clouds](https://www.sittingonclouds.net/) :s: [:prx:](https://rentry.org/wotaxy#sitting-on-clouds) |
 | ^^         | [SquidBoard](https://www.squid-board.org/) |
-| **General** | [Squid.wtf](https://squid.wtf/) :s: |
-| ^^         | [Lucida](https://lucida.to/) [:alt:](https://lucida.su/) |
+| **General** | [Lucida](https://lucida.to/) :s: [:alt:](https://lucida.su/) |
+| ^^         | [Squid.wtf](https://squid.wtf/) |
 
 ### Software
 
