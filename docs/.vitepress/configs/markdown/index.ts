@@ -357,7 +357,7 @@ const tooltips: {
   secozzi: { content: 'For Jellyfin and Stremio' },
   kei: { content: 'Maintained by former Tachiyomi contributors' },
   yuzono: { content: 'By Komikku dev. Mirrors Keiyoushi repo with a few extra extensions' },
-  yuani: { content: 'By Komikku dev. Mirrors Kohi-den repo with a few extra extensions' },
+  yuani: { content: 'By Anikku dev. Mirrors Kohi-den repo with a few extra extensions' },
   demo: { content: 'Demo tooltips for start page' },
   mirai: { content: 'Syncs the Mangayomi repository and includes their own plugins' },
   megarepo: { content: 'Adds all the repo present in /recloudstream/cs-repos' },
