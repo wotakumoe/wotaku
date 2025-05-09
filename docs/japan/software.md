@@ -229,6 +229,7 @@ ___
 - [ComicEater](https://github.com/kanjieater/ComicEater)
 - [Furiganalyse](https://furiganalyse.itsupera.co/) :web: [:gh:](https://github.com/itsupera/furiganalyse)
 - [GenkiYoshi](https://github.com/FragozoLeonardo/Genki-Yoshi)
+- [imajin.py](https://github.com/YonKuma/imajin.py)
 - [LN Readability](https://colab.research.google.com/github/Gilfaro/ln-recommender/blob/main/LNReadability.ipynb)
 - [Supermemo](https://super-memory.com/) <Badge type="warning" text="Trialware"/><Badge type="tip" text="Wiki" link="https://www.supermemo.wiki/en/home" />
 - :more: [OCR/Translator section](/software#ocr-translator)
