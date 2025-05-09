@@ -370,7 +370,8 @@ const tooltips: {
   komik: {content: 'Mostly up to the artist. Some of them are R2L too.'},
   atosho: {content: 'Offers both DDL hosts and Usenet as download options, but only keeps uploads up to 16GB. DDL files might be auto-deleted by the hosts due to inactivity, unlike Usenet files. You can try [magicNZB](https://magicnzb.com/) for free Usenet downloads, as it allows temp-mails and does not require a CC.'},
   linew: {content: 'In 2019, they rebranded LINE WEBTOON as WEBTOON. In some regions, it is still branded as LINE WEBTOON.'},
-  amdl: {content: 'We have not tested their software, use the web downloader for your own security. Best for downloading separate songs instead of albums. For audio quality, use "Original Quality".'}
+  amdl: {content: 'We have not tested their software, use the web downloader for your own security. Best for downloading separate songs instead of albums. For audio quality, use "Original Quality".'},
+  webtooni: {content: 'Not uploading for a while.'}
 }
 
 export function configureMarkdown(md: MarkdownRenderer) {

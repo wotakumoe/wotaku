@@ -88,7 +88,7 @@ og:
 | Toomics.com | [Hotcomics](https://hotcomics.io/en) :s::fm: [:alt:](https://hotcomics.me/en/) |
 | ^^          | [Heytoon](https://heytoon.net/en/) :fm: |
 | DayComcis.com | [DayComics](https://daycomics.me/) :fm: |
-| ^^            | [Webtooni](https://webtooni.net/en/) :fm: |
+| ^^            | [Webtooni](https://webtooni.net/en/) :fm: ==webtooni== |
 
 ### Scanlators {open}
 - [The Blank](https://mangadex.org/group/d53b6ec6-bbbf-4fad-a254-2b7ddda84c2c/the-blank) :s: [:web:](https://theblank.net/)
