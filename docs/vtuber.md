@@ -63,6 +63,7 @@ og:
 | **News**    | [aside's newsfeed](https://asideaside.github.io/feed/#/) [:gh:](https://github.com/asideaside/feed) |
 | ^^          | [Hololive merch information](https://merch-matome.com/) :fjp: [:x:](https://x.com/hololive_goods) |
 | ^^          | [hololive TODAY](https://hololivetoday.com/)  |
+| ^^          | [Hololive Tsuushin](https://hololive-tsuushin.com/) :fjp: |
 | **Others**  | [Hololive Member Sorter](https://hololive.sorter.my.id/) |
 | ^^          | [Quick Reference](https://monkonius.github.io/hololive-quick-reference/) |
 
