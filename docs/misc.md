@@ -177,7 +177,8 @@ ___
 
 | Category | Websites |  
 |----------|----------|  
-| **Info / News** | [Anime Corner](https://animecorner.me/) :s: [:x:](https://x.com/animecorner_ac) |  
+| **Info / News** | [Animation Business Journal](http://animationbusiness.info/) :fjp: |
+| ^^ | [Anime Corner](https://animecorner.me/) :s: [:x:](https://x.com/animecorner_ac) |  
 | ^^ | [Anime Freaks](https://times.abema.tv/anime) :fjp: |  
 | ^^ | [Anime News by AIR](https://x.com/AIR_News01) :x: |  
 | ^^ | [Animenomics](https://news.animenomics.com/) :fm: |  
