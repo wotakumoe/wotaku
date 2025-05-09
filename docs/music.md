@@ -132,6 +132,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [DAB Music Player](https://dab.yeet.su/) ==dab== | Qobuz |
 | [Lucida](https://lucida.to/) [:alt:](https://lucida.su/) | Qobuz, Tidal, Amazon Music, Deezer, Yandex |
 | [DeezMate](https://deezmate.com/) | Deezer |
+| [Apple Music Downloader](https://aaplmusicdownloader.com/) ==amdl== | Apple (Lossy) |
 
 ## Doujin
 
