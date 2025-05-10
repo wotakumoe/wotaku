@@ -59,7 +59,6 @@ outline: 1
 ### Scrapers
 | Websites | Login | Sub |
 |----------|----------------------|--------|
-| [Anime Realms](https://www.animerealms.org/) ==AnimeRealms== | :mingcute-refresh-2-fill: | :cc::hs: |
 | [AniPlay](https://aniplaynow.live/) ==AniPlay== | :mingcute-refresh-2-fill: :mingcute-user-2-fill: | :cc::hs: |
 | [Enimoe](https://enimoe.live/) ==Enimoe== | :mingcute-refresh-2-fill: | :cc::hs: |
 | [Gojo](https://gojo.wtf/) [:alt:](https://aninow.to/) ==Gojo== | :mingcute-user-2-fill: | :hs: |

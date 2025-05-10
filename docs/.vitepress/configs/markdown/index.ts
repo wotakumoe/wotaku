@@ -108,10 +108,6 @@ const tooltips: {
     content: `  
   Although new releases are in 1080p, older releases are a mixed bag, ranging from 480p to 720p.`
   },
-  AnimeRealms: {
-    content: `  
-  Scrapes HiAnime (Soft), AnimePahe (Pahe), AnimeHeaven (Heaven - 720p).`
-  },
   AniPlay: {
     content: `  
   Scrapes HiAnime (Yuki), AnimePahe (Pahe).`
