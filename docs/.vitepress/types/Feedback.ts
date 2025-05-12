@@ -30,14 +30,23 @@ export interface Option {
 
 export const feedbackOptions: Option[] = [
   {
-    label: '💡 I have a suggestion',
+    label: '➕ Want to add a link',
+    value: "suggestion"
+  },
+    {
+    label: '❌ Broken / unsafe website',
+    value: "suggestion"
+  },
+  {
+    label: '💡 Have a suggestion',
     value: 'suggestion'
   },
   {
-    label: '👍 I appreciate the work',
+    label: '❤️ Love the wiki',
     value: 'appreciation'
   },
-  { label: '📂 Something else', value: 'other' }
+  { label: '📂 Something else', 
+    value: 'other' }
 ]
 
 export function getFeedbackOption(
