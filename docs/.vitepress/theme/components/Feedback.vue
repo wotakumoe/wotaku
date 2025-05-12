@@ -286,7 +286,7 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
             v-model="feedback.message"
             autofocus
             class="bg-$vp-c-bg-alt text-$vp-c-text-2 w-full h-[100px] border border-$vp-c-divider rounded px-3 py-1.5 border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 border-2 border-solid"
-            placeholder="What a lovely wiki!"
+            placeholder="Tip: Did you know that starring our GitHub repo doubles the chances that your feedback will be read?"
           />
           <p class="desc mb-2">
             If you want a reply to your feedback, feel free to mention a contact
