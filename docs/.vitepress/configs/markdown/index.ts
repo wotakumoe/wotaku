@@ -348,7 +348,7 @@ const tooltips: {
     content:
       'Simple UI with all the basic settings. Has longstrip mode and AniList tracking.'
   },
-  kohi: { content: 'Sorta maintains all the official extensions by Aniyomi' },
+  kohi: { content: 'For now, you need to manually install and update the APK(s) from the "apk" folder in the repository. The install and URL buttons are currently non-functional.' },
   ni3x: { content: 'Focuses on Torrents and Ero anime' },
   secozzi: { content: 'For Jellyfin and Stremio' },
   kei: { content: 'Maintained by former Tachiyomi contributors' },
