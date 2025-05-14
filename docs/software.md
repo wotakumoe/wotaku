@@ -116,7 +116,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 
 ## Others
 - [Aniyomi Local Manager](https://github.com/Secozzi/AniyomiLocalManager)
-- [Nekotatsu](https://github.com/PhantomShift/nekotatsu) <Badge type="info" text="Needs PC" />
+- [Nekotatsu](https://github.com/PhantomShift/nekotatsu) <Badge type="info" text="Phone GUI" link="https://github.com/PhantomShift/nekotatsu-mobile/" />
 - [SauceNAO](https://github.com/LuK1337/SauceNAO)
 - [Trace.moe](https://github.com/localhostov/trace.moe-app)
 - [Tachisync](https://github.com/axiel7/Tachisync) <Badge type="info" text="Needs PC" />
