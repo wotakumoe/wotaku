@@ -157,6 +157,7 @@ og:
 - [ニコニコニコたん手描き切り抜き (Niconiconico-tan Tegaki Kirinuki)](https://www.youtube.com/@25tan_ouen_tegaki) :fjp:
 - [noeee](https://www.youtube.com/@noeee/)
 - [Riri Zpt](https://www.youtube.com/@RiriZhepelton/)
+- [TAKERU【ANIMATION🍀】](https://www.youtube.com/@takeru.animation/)
 - [てりたま / Teritama](https://www.youtube.com/@%E3%81%A6%E3%82%8A%E3%81%9F%E3%81%BE-k1s) <Badge type="tip" text="EN" link="" />
 - [とりぷる / Tripl3](https://www.youtube.com/@Tripl3jp) <Badge type="tip" text="EN" link="https://www.youtube.com/@Tripl3en" />
 - [やんのか / Yan_noka](https://www.youtube.com/@yan_noka) <Badge type="tip" text="EN" link="https://www.youtube.com/@yan_noka_en/" />
