@@ -132,6 +132,7 @@ og:
 #### 2D
 - [2ManySnacks](https://www.youtube.com/@2ManySnacks) :s:
 - [Chroneco](https://www.youtube.com/@chrone_co/) <Badge type="warning" text="Inactive"/>
+- [Dunkemz](https://x.com/dunkemz) :x:
 - [H and Mr.H](https://www.youtube.com/@HandMrH)
 - [Mazumaro](https://www.youtube.com/@mazumaro/) <Badge type="warning" text="Inactive"/>
 - [meuol](https://www.youtube.com/@meuol)
@@ -141,12 +142,13 @@ og:
 
 <hr>
 
-#### Clip focused
+#### Animatics / Clip focused
 - [9am](https://www.youtube.com/@9amKR/) <Badge type="warning" text="Inactive"/> <Badge type="tip" text="EN" link="https://www.youtube.com/@9amEN/" />
 - [Applisaur](https://youtube.com/@applisaur)
 - [Coomfus](https://www.youtube.com/@Coomfus/) <Badge type="warning" text="Inactive"/>
 - [エビフライ / Ebihurai](https://www.youtube.com/@Ebihuraii) <Badge type="tip" text="EN" link="https://www.youtube.com/@EbihuraiIEN" />
 - [FuwaFuwa](https://www.youtube.com/@fuwafuwa_35/)
+- [hikipanda](https://www.youtube.com/@hikipanda) :fkr:
 - [カイ / Kai](https://www.youtube.com/@%E3%82%AB%E3%82%A4-w3d) <Badge type="tip" text="EN" link="https://www.youtube.com/@kai_en8684/" />
 - [くまいゆうき / Kamai Yuki](https://www.youtube.com/@kumayuki55) <Badge type="tip" text="EN" link="https://www.youtube.com/@KumaiYuki_EN/" />
 - [Khelly](https://www.youtube.com/@Khelly_Ch/)
@@ -168,6 +170,7 @@ og:
 - [Crash Landing Studios](https://www.youtube.com/@CrashLandingStudio/) :s:
 - [Kanauru](https://www.youtube.com/@kanauru) :s:
 - [Miriwa ミリワ](https://www.youtube.com/@Miriwa)
+- [MomonKusa](https://www.youtube.com/@momonkusa)
 - [Terrible Joe](https://www.youtube.com/@TerribleJhoe)
 - [tives](https://www.youtube.com/@tivetives/)
 
