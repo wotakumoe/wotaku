@@ -275,7 +275,7 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 |-------|--------|-----|------|
 | [AGR Comics](https://agrcomics.com/) ==AGR== | :fjp::fkr::fcn: | [URL](https://mangadex.org/group/1dde9054-11fd-4f5e-a575-a50f7bd22d5f/animated-glitched-scans) | [URL](https://www.mangaupdates.com/group/nfkpfd9/agr-comics) |
 | [Assorted Scans](https://assortedscans.com/) | :fjp: | - | - |
-| [Asura Scans](https://asuracomic.net/) | :fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/juxsa9z/asura) |
+| [Asura Scans](https://asuracomic.net/) | :fjp::fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/juxsa9z/asura) |
 | [Danke fürs Lesen Scans](https://danke.moe/) | :fjp: | [URL](https://mangadex.org/group/91035fe1-d6b0-4816-be51-b54d05d546cf/danke-furs-lesen) | [URL](https://www.mangaupdates.com/group/xlp7424/danke-fuers-lesen) |
 | [Disaster Scans](https://disasterscans.com/) | :fcn: | - | - |
 | [Drake Scans](https://drakecomic.org/) | :fcn: | [URL](https://mangadex.org/group/50caf96d-fe2b-4638-9d13-4954b782e112/drake-scans) | [URL](https://www.mangaupdates.com/group/ktajd9u/drake-scans) |
