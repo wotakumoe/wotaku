@@ -164,6 +164,8 @@ To learn, how to add tooltips, [click here](#tooltip).
 | Icon | Code | Desc |
 |-|-|-|
 | :paid: | `:paid:` | Paid |
+| :sub: | `:sub:` | Subscription |
+| :coin: | `:coin:` | Coin / Point |
 | :fm: | `:fm:` | Freemium |
 
 == Source

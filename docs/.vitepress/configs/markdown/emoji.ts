@@ -73,8 +73,10 @@ const aliases: Record<string, string> = {
   batch: 'material-symbols-package-2-outline',
 
   // Price
-  paid: 'material-symbols-credit-card-outline',
-  fm: 'material-symbols-add-shopping-cart-rounded',
+  paid: 'ic-round-attach-money',
+  fm: 'ic-round-add-shopping-cart',
+  sub: 'ic-round-currency-exchange',
+  coin: 'akar-icons-coin',
 
   // Source
   gh: 'simple-icons-github',
