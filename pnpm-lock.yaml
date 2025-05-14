@@ -87,6 +87,9 @@ importers:
         specifier: ^3.24.1
         version: 3.24.1
     devDependencies:
+      '@iconify-json/akar-icons':
+        specifier: ^1.2.2
+        version: 1.2.2
       '@iconify-json/ic':
         specifier: ^1.2.2
         version: 1.2.2
@@ -114,6 +117,9 @@ importers:
       '@iconify-json/octicon':
         specifier: ^1.2.2
         version: 1.2.2
+      '@iconify-json/ri':
+        specifier: ^1.2.5
+        version: 1.2.5
       '@iconify-json/simple-icons':
         specifier: ^1.2.16
         version: 1.2.16
@@ -1144,6 +1150,9 @@ packages:
       vitepress: ^1.3.2
       vue: ^3.4.21
 
+  '@iconify-json/akar-icons@1.2.2':
+    resolution: {integrity: sha512-PoUMM4FKQ6NumbSUjoM4lsulJ0GPpj979nLjZS8MGwk99MuZc80LV6AP51lfLcF4jvZFmC5G1gDIymQOi66Sqg==}
+
   '@iconify-json/carbon@1.2.4':
     resolution: {integrity: sha512-DhW2jjMVGwV0DLHc0cmDYohdtGxMra8UuwgjHrryPy+rQX4gXhJwCBBVP2h2UG/92AoRCTn7zUJve4WvY5MLYg==}
 
@@ -1173,6 +1182,9 @@ packages:
 
   '@iconify-json/octicon@1.2.2':
     resolution: {integrity: sha512-qEPkP9DMMay5uILzyaSmVksSMxRw9i2wSDREfB8OK20mPdSadusjLqD/u69GzpFpw6894c+WNmoq7WzN5KAPeg==}
+
+  '@iconify-json/ri@1.2.5':
+    resolution: {integrity: sha512-kWGimOXMZrlYusjBKKXYOWcKhbOHusFsmrmRGmjS7rH0BpML5A9/fy8KHZqFOwZfC4M6amObQYbh8BqO5cMC3w==}
 
   '@iconify-json/simple-icons@1.2.16':
     resolution: {integrity: sha512-mnQ0Ih8CDIgOqbi0qz01AJNOeFVuGFRimelg3JmJtD0y5EpZVw+enPPcpcxJKipsRZ/oqhcP3AhYkF1kM7yomg==}
@@ -5094,6 +5106,10 @@ snapshots:
       vitepress: 1.6.3(@algolia/client-search@5.21.0)(@types/node@22.10.2)(change-case@5.4.4)(less@4.2.1)(lightningcss@1.29.1)(postcss@8.5.3)(sass@1.83.0)(search-insights@2.17.2)(terser@5.36.0)(typescript@5.6.3)
       vue: 3.5.13(typescript@5.6.3)
 
+  '@iconify-json/akar-icons@1.2.2':
+    dependencies:
+      '@iconify/types': 2.0.0
+
   '@iconify-json/carbon@1.2.4':
     dependencies:
       '@iconify/types': 2.0.0
@@ -5131,6 +5147,10 @@ snapshots:
       '@iconify/types': 2.0.0
 
   '@iconify-json/octicon@1.2.2':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/ri@1.2.5':
     dependencies:
       '@iconify/types': 2.0.0
 
