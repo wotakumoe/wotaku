@@ -240,7 +240,7 @@ ___
 | ^^          | [The Kodansha Kanji Learner's Course](https://www.amazon.com/dp/1568365268) |
 | ^^          | [Kanji Look and Learn](https://www.amazon.com/dp/4789013499) |
 | ^^          | [Tobira: Power Up Your Kanji](https://www.amazon.com/gp/product/4874244874) |
-| **Reading** | [Tadoku Books](https://old.reddit.com/r/LearnJapanese/comments/o7x7ha/2021_updated_free_tadoku_graded_reader_pdfs_1796/) <Badge type="info" text="General" /> |
+| **Reading** | [Tadoku Books](https://old.reddit.com/r/LearnJapanese/comments/19bitqy/2024_updated_free_tadoku_graded_reader_pdfs_2681/) <Badge type="info" text="General" /> |
 | **Vocabulary** | [JLPT Tango N5](https://www.amazon.com/dp/4872179811) <Badge type="tip" text="N4" link="https://www.amazon.com/dp/487217982X" /> |
 | **Grammar** | [Genki Textbook Volume 1](https://www.amazon.com/dp/4789017303) <Badge type="tip" text="Workbook" link="https://www.amazon.com/dp/4789017311" /> |
 | ^^          | [Genki Textbook Volume 2](https://www.amazon.com/dp/478901732X) <Badge type="tip" text="Workbook" link="https://www.amazon.com/dp/4789017338" /> |
