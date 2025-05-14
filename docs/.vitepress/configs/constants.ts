@@ -278,6 +278,10 @@ export const sidebar: DefaultTheme.Sidebar = [
   {
     text: '<span class="i-lucide:heart-handshake"></span> Credits',
     link: '/credits'
+  },
+    {
+    text: '<span class="i-lucide:goal"></span> Getting Started',
+    link: '/start'
   }
 ]
 

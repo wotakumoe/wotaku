@@ -83,6 +83,10 @@ pnpm docs:dev
 ```
 :::
 
+::: tip Deployment
+If you want to learn how to deploy the website online, read the [**official vitepress docs**](https://vitepress.dev/guide/deploy).
+:::
+
 ## Icon
 Wotaku fetches icons using [**Iconfiy**](https://iconify.design/). To get the icon names, visit [**Iconify**](https://icon-sets.iconify.design/) or [**Icones**](https://icones.js.org/). All the added iconpacks are [**here**](https://github.com/wotakumoe/wotaku/blob/main/docs/.vitepress/configs/emoji.ts#L20).
 
@@ -134,6 +138,17 @@ To learn, how to add tooltips, [click here](#tooltip).
 ### Sheet
 
 ::: tabs
+
+== Frequent
+| Icon | Code | Desc |
+|-|-|-|
+| :s: | `:s:` | Favorite |
+| :e: | `:e:` | Extension(s) |
+| :prx: | `:prx:` | Proxies |
+| :ero: | `:ero:` | Focuses on NSFW content |
+| :acc: | `:acc:` | Needs Account |
+| :help: | `:help:` | Help / Docs |
+| :more: | `:more:` | Related resources |
 
 == System
 
@@ -210,22 +225,22 @@ To learn, how to add tooltips, [click here](#tooltip).
 | :fkr: | `:fkr:` | South Korea |
 | :fcn: | `:fcn:` | China |
 
+== Code
+
+| Icon | Code | Desc |
+|-|-|-|
+| :js: | `:js:` | JavaScript |
+| :css: | `:css:` | CSS |
+| :py: | `:py:` | Python |
+| :dock: | `:dock:` | Docker |
+
 == Others
 
 | Icon | Code | Desc |
 |-|-|-|
-| :s: | `:s:` | Favorite |
-| :e: | `:e:` | Extension(s) |
 | :n: | `:n:` | Nightly / Preview / Dev builds |
-| :ero: | `:ero:` | Focuses on NSFW content |
-| :acc: | `:acc:` | Needs Account |
 | :rss: | `:rss:` | RSS Feed |
-| :prx: | `:prx:` | Proxies |
 | :tf: | `:tf:` | Apple TestFlight |
-| :js: | `:js:` | JavaScript |
-| :css: | `:css:` | CSS |
-| :more: | `:more:` | Related resources |
-| :help: | `:help:` | Help / Docs |
 | :yes: | `:yes:` | Supported |
 | :no: | `:no:` | Not supported |
 | :global: | `:global:` | Multilingual |
