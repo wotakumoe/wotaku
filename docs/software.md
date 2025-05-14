@@ -137,8 +137,8 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 | Category | Software | Platform |
 |-|-|-|
 | General    | [Calibre](https://calibre-ebook.com/) :s: [:gh:](https://github.com/kovidgoyal/calibre) | :win::app::lin: |
-| Conversion | [Kindle Comic Converter](https://github.com/ciromattia/kcc)                         | :win::app::lin::mdi-docker: |
-| Transfer   | [send2ereader](https://github.com/daniel-j/send2ereader)                            | :win::app::lin::mdi-docker: |
+| Conversion | [Kindle Comic Converter](https://github.com/ciromattia/kcc)                         | :win::app::lin::dock: |
+| Transfer   | [send2ereader](https://github.com/daniel-j/send2ereader)                            | :win::app::lin::dock: |
 | ^^         | [Send to Kindle](https://www.amazon.com/sendtokindle)                               | :web::win::app::lin: |
 - :more: [Manga tools](#manga-tools)
 
@@ -294,7 +294,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | [ADL](https://github.com/RaitaroH/adl) | :win::lin::cmd: |
 | [Crunchyroll-Downloader](https://github.com/Crunchy-DL/Crunchy-Downloader) | :win: |
 | [Anime Downloader NX](https://github.com/anidl/multi-downloader-nx) | :win::app::lin::cmd: |
-| [Yoimi](https://github.com/NyaShinn1204/Yoimi) | :simple-icons-python: |
+| [Yoimi](https://github.com/NyaShinn1204/Yoimi) | :py: |
 
 #### DRM
 | Category          | Resource                                                       |
@@ -316,17 +316,21 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | [MangaL](https://github.com/metafates/mangal) | :win::app::lin::cmd: |
 | [HDoujin Downloader](https://doujindownloader.com/) :cs: ==HDoujinDownloader== | :win: |
 
+::: details Specific / Site-focused 
+| Software | Platform |
+|----------|---------|
+| [Clip Studio Reader](https://greasyfork.org/en/scripts/481576-clip-studio-reader-downloader) [:gh:](https://github.com/MrCocoNuat/clip-studio-reader-downloader) | :js: |
+| [Getjump](https://github.com/eggplants/getjump) <Badge type="info" text="GigaViewer"/> | :py: |
+| [Mangadex Downloader](https://github.com/mansuf/mangadex-downloader) | :py: |
+| [Mangaplus Downloader](https://github.com/hurlenko/mloader/) | :py: |
+:::
 
 ::: details More
 | Software | Platform |
 |----------|---------|
-| [Clip Studio Reader](https://greasyfork.org/en/scripts/481576-clip-studio-reader-downloader) [:gh:](https://github.com/MrCocoNuat/clip-studio-reader-downloader) | :js: |
 | [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) | :win::app: |
-| [Mangadex Downloader](https://github.com/mansuf/mangadex-downloader) | :win::app::lin::cmd: |
-| [Manga Scraper](https://github.com/YofaGh/MangaScraper) | :win::app::lin::cmd: |
+| [Manga Scraper](https://github.com/YofaGh/MangaScraper) | :py: |
 | [Manga downloader](https://github.com/xuzhengyi1995/Manga_downloader) <Badge type="info" text="Raw"/> | :cr: |
-| [Getjump](https://github.com/eggplants/getjump) <Badge type="info" text="Raw"/> | :cmd: |
-
 :::
 
 ### Novels

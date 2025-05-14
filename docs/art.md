@@ -179,9 +179,9 @@ og:
 | ^^         | [Media Downloader](https://github.com/mhogomchungu/media-downloader) | :win::app::lin: |
 | ^^         | [Pixiv FANBOX Downloader](https://github.com/hareku/fanbox-dl) | :win::app: |
 | ^^         | [PixivUtil2](https://github.com/Nandaka/PixivUtil2) | :win: |
-| **Others** | [Pixiv OAuth Flow `ZipFile`](https://gist.github.com/ZipFile/c9ebedb224406f4f11845ab700124362) :s: | :simple-icons-python: |
-| ^^         | [Pixiv OAuth Flow `upbit`](https://gist.github.com/upbit/6edda27cb1644e94183291109b8a5fde) | :simple-icons-python: |
-| ^^         | [get pixivpy token](https://github.com/eggplants/get-pixivpy-token) | :simple-icons-python: |
+| **Others** | [Pixiv OAuth Flow `ZipFile`](https://gist.github.com/ZipFile/c9ebedb224406f4f11845ab700124362) :s: | :py: |
+| ^^         | [Pixiv OAuth Flow `upbit`](https://gist.github.com/upbit/6edda27cb1644e94183291109b8a5fde) | :py: |
+| ^^         | [get pixivpy token](https://github.com/eggplants/get-pixivpy-token) | :py: |
 
 
 ![](/banner/others.webp)

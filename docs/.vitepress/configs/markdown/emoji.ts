@@ -102,6 +102,12 @@ const aliases: Record<string, string> = {
   fkr: 'twemoji-flag-south-korea',
   fcn: 'twemoji-flag-china',
 
+  // Code
+  py: 'simple-icons-python',
+  js: 'simple-icons-javascript',
+  css: 'simple-icons-css',
+  dock: 'simple-icons-docker',
+  
   // Others
   s: 'twemoji-glowing-star',
   e: 'mdi-puzzle',
@@ -112,8 +118,6 @@ const aliases: Record<string, string> = {
   rss: 'simple-icons-rss',
   prx: 'material-symbols-directions-alt',
   tf: 'mdi-airplane',
-  js: 'simple-icons-javascript',
-  css: 'mdi-format-paint',
   more: 'mdi-arrow-right-bold',
   help: 'material-symbols-help',
   yes: 'twemoji-check-mark-button',
