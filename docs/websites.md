@@ -273,9 +273,9 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 
 | Group | Source | MDex | Baka |
 |-------|--------|-----|------|
-| [AGR Comics](https://agrcomics.com/) ==AGR== | :fjp::fkr::fcn: | [URL](https://mangadex.org/group/1dde9054-11fd-4f5e-a575-a50f7bd22d5f/animated-glitched-scans) | [URL](https://www.mangaupdates.com/group/nfkpfd9/agr-comics) |
+| [AGR Comics](https://agrcomics.com/) :coin: ==AGR== | :fjp::fkr::fcn: | [URL](https://mangadex.org/group/1dde9054-11fd-4f5e-a575-a50f7bd22d5f/animated-glitched-scans) | [URL](https://www.mangaupdates.com/group/nfkpfd9/agr-comics) |
 | [Assorted Scans](https://assortedscans.com/) | :fjp: | - | - |
-| [Asura Scans](https://asuracomic.net/) | :fjp::fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/juxsa9z/asura) |
+| [Asura Scans](https://asuracomic.net/) :sub: | :fjp::fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/juxsa9z/asura) |
 | [Danke fürs Lesen Scans](https://danke.moe/) | :fjp: | [URL](https://mangadex.org/group/91035fe1-d6b0-4816-be51-b54d05d546cf/danke-furs-lesen) | [URL](https://www.mangaupdates.com/group/xlp7424/danke-fuers-lesen) |
 | [Disaster Scans](https://disasterscans.com/) | :fcn: | - | - |
 | [Drake Scans](https://drakecomic.org/) | :fcn: | [URL](https://mangadex.org/group/50caf96d-fe2b-4638-9d13-4954b782e112/drake-scans) | [URL](https://www.mangaupdates.com/group/ktajd9u/drake-scans) |
@@ -286,17 +286,18 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 
 | Group | Source | MDex | Baka |
 |-------|--------|-----|------|
-| [Hive Toon](https://hivecomic.com/home) ==hive== | :fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/10nt2ki/infernal-void-scans) |
+| [Genz Toons](https://genzupdates.com/) :coin: | :fjp::fkr::fcn: | [URL](https://mangadex.org/group/fc187866-e852-4522-af62-40d148e6c235/genz-toons) | [URL](https://www.mangaupdates.com/group/tkuadg0/genztoons) |
+| [Hive Scan](https://hivecomic.com/home) :coin: ==hive== | :fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/10nt2ki/infernal-void-scans) |
 | [LHTranslation](https://lhtranslation.net/) | :fjp: | [URL](https://mangadex.org/group/24adf288-d0e3-4d34-b342-bf8c189aacaa/lhtranslation) | [URL](https://www.mangaupdates.com/group/f6nc2yt/lhtranslation) |
 | [Manhua Ga](https://manhuaga.com/) | :fcn: | - | - |
 | [Manhua Plus](https://manhuaplus.com/) | :fcn: | - | [URL](https://www.mangaupdates.com/group/3apm0du/manhua-plus) |
-| [Realm Oasis](https://realmoasis.com/) ==realm== | :fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/v5djjz8/rizz-comics) |
-| [Reset Scans](https://rspro.xyz/home/) | :fjp::fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/df9ckct/reset-scans) |
+| [Reset Scans](https://reset-scans.org/) :coin: | :fjp::fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/df9ckct/reset-scans) |
+| [Rizz Fables](https://rizzfables.com/) ==realm== | :fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/v5djjz8/rizz-comics) |
 | [Scylla Comics](https://scyllacomics.xyz/) ==Scylla== | :fjp: | [URL](https://mangadex.org/group/4209a4a9-b838-4817-be40-0c8ef2f7be4a/scylla-scans) | [URL](https://www.mangaupdates.com/groups.html?id=14042) |
-| [StoneScape](https://stonescape.xyz/) | :fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/zt7x4q1/stonescape) |
-| [TCB Scans](https://tcbscans.me/) | :fjp: | [URL](https://mangadex.org/group/db85f2a1-d69b-4181-a7a0-aa37db4bcbcf/tcb-scans) | [URL](https://www.mangaupdates.com/group/wn8v9bv/tcb-scans) |
+| [StoneScape](https://stonescape.xyz/) :coin: | :fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/zt7x4q1/stonescape) |
+| [TCB Scans](https://tcbonepiecechapters.com/) | :fjp: | [URL](https://mangadex.org/group/db85f2a1-d69b-4181-a7a0-aa37db4bcbcf/tcb-scans) | [URL](https://www.mangaupdates.com/group/wn8v9bv/tcb-scans) |
 | [Tritinia Scans](https://tritinia.org/) | :fjp::fcn::fkr: | - | [URL](https://www.mangaupdates.com/group/zfxsenj/tritinia-scans) |
-| [UTOON](https://utoon.net/) ==utoon== | :fjp::fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/mtcug74/utoon) |
+| [UTOON](https://utoon.net/) :coin: ==utoon== | :fjp::fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/mtcug74/utoon) |
 | [Zero Scans](https://zscans.com/) | :fkr::fcn: | [URL](https://mangadex.org/group/dd0a3018-21f1-4488-948c-08499b179fcf/zero-scans) | [URL](https://www.mangaupdates.com/group/vlkvmk7/zero-scans-discord) |
 | [xCaliBR Scans](https://xcalibrscans.com/webcomics/) | :fcn: | - | [URL](https://www.mangaupdates.com/group/ynopo9s/cursed-xcalibr) |
 
