@@ -318,6 +318,7 @@ If you have recommendations for good sites in your native language or want to re
   - [Database Tontonan Wibu Indonesia](https://db.silveryasha.id/)
   - [Indonesian Fansubbers' Index](https://www.fansub.id/home)
 - **Stream**
+  - [Anichin](https://s24.anichin.blog/) [:prx:](https://anichin.bio/)
   - [SKUY](https://skuy.fun/home) :acc:
   - [Kazefuri](https://kazefuri.info/)
   - [Kuramanime](https://kuramanime.red/)
