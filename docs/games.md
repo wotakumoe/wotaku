@@ -55,6 +55,7 @@ og:
 - [RomsHQ](https://romshq.com/) :simple-icons-nintendoswitch:
 - [ROMSIM](https://romsim.com/) :simple-icons-nintendoswitch:
 - [Romslab](https://romslab.com/) :simple-icons-nintendoswitch:
+- [Switch Games Mall](https://www.switchgamesmall.icu/) :simple-icons-nintendoswitch:
 - [TAODUNG](https://taodung.com/) :simple-icons-nintendoswitch:
 - [Ziperto](https://www.ziperto.com/) :simple-icons-nintendoswitch:
 
