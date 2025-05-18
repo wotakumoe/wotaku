@@ -34,6 +34,7 @@ outline: 1
 | [Hikari](https://watch.hikaritv.xyz/) ==Hikari== | :mingcute-server-fill: | :mingcute-user-2-fill: | :cc::hs: |
 | [Sudatchi](https://sudatchi.com/) ==Sudatchi== | :mingcute-server-fill: | :mingcute-refresh-2-fill: | :cc: |
 | [AniZone](https://anizone.to/) ==AniZone== | :mingcute-server-fill: | :no: | :cc: |
+| [AniXL](https://anixl.to/) | :mingcute-server-fill: | :mingcute-user-2-fill: | :cc: |
 | [Animepahe](https://animepahe.ru/) ==Animepahe== | :mingcute-server-fill: | :no: | :hs: |
 
 :::details More
