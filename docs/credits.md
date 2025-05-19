@@ -147,7 +147,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Isayama Hajime** | [Attack on Titan](https://comics.inkr.com/title/409-attack-on-titan) | [Panel Terms](/glossary/manga#panel-terms) |
 | **Mizukami Satoshi** | [Sengoku Youko](https://comics.inkr.com/title/1999-sengoku-youko) | [Panel Terms](/glossary/manga#panel-terms) |
 | **Murata Yuusuke** | [One Punch-Man](https://www.viz.com/shonenjump/chapters/one-punch-man) | [Panel Terms](/glossary/manga#panel-terms) |
-| **NOBEL** | [Mousou Telepathy](https://mangadex.org/title/3d25d7da-893f-400e-9aeb-6163773c671a/mousou-telepathy) | [Panel Terms](/glossary/manga#panel-terms) |
+| **NOBEL** | [Mousou Telepathy](https://anilist.co/manga/97836/Mousou-Telepathy) | [Panel Terms](/glossary/manga#panel-terms) |
 | **No Man's Guy** | [Translating Manga SFX](https://nomansguy.wordpress.com/2023/02/04/translating-manga-sfx-guide-part-1/) | [Sound Effects](/glossary/manga#sound-effects) |
 | **OLM** | [Fabiniku](https://fabiniku.com/) | [Sound Effects](/glossary/manga#sound-effects) |
 | **Raj** | [Redraw P/B](https://www.youtube.com/watch?v=lwOTTa8F3bM&t=0s) | [Scanlation](/glossary/manga#scanlation) |
