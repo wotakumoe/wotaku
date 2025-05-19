@@ -71,9 +71,9 @@ const aliases: Record<string, string> = {
   mag: 'lucide-magnet',
   lcl: 'iconoir-floppy-disk',
   batch: 'material-symbols-package-2-outline',
-  sp: `ri-file-4-line`,
-  dp: `ri-book-open-line`,
-  ls: `ri-file-paper-2-line`,
+  sp: `lucide-file`,
+  dp: `lucide-book-open`,
+  ls: `lucide-scroll`,
 
   // Price
   paid: 'ic-round-attach-money',
