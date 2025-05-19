@@ -258,6 +258,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [r/HENTAI_GIF](https://old.reddit.com/r/HENTAI_GIF/)
 - [r/rule34](https://old.reddit.com/r/rule34/) [:d:](https://discord.gg/zMrMhpZ)
 - [r/thighdeology](https://old.reddit.com/r/thighdeology/)
+- [r/wholesomehentai](https://old.reddit.com/r/wholesomehentai/) [:d:](https://discord.com/invite/aqttTca)
 - [:f:JAV Thread](https://4channel.org/jp/jav) <Badge type="tip" text="FAQ" link="https://jav.now.sh/" />
 - [:d: Rule34.xxx](https://discord.gg/rule34xxx)
 
