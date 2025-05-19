@@ -32,12 +32,20 @@ og:
 - [Hentai Stream](https://hstream.moe/) <Badge type="info" text="Upscale" />
 - [Hentai World](https://hentaiworld.tv/)
 - [Hentaverse](https://hentaverse.com/)
-- [HMV Mania](https://hmvmania.com/) [:f:](https://archived.moe/h/thread/7621997/)
 - [Mucho Hentai](https://muchohentai.com/) <Badge type="info" text="Schedule" /> <Badge type="info" text="PV" />
 - [Oppai](https://oppai.stream/) <Badge type="info" text="Upscale" />
+
+
+::: details More {open}
+- [Hentai Ocean](https://hentaiocean.com/)
+- [HenVids](https://henvids.com/)
+- [HMV Mania](https://hmvmania.com/) [:f:](https://archived.moe/h/thread/7621997/)
 - [Rule34video](https://rule34video.com/)
 - [SakuraCircle](https://sakuracircle.com/) :ddl:
 - [UnderHentai](https://www.underhentai.net/) :strm::ddl:
+
+:::
+
 
 ## Manga
 
