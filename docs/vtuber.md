@@ -234,6 +234,7 @@ og:
 | [Miko in Maguma](https://store.steampowered.com/app/2877240/) | Free   | Sakura Miko      | frog blend | holo Indie |
 | [SIMPWALK](https://store.steampowered.com/app/3362870/) | Free | HOLORO | Altersky Skyraze | holo Indie |
 | [smol Ame](https://moocow-games.itch.io/smol-ame)              | Free   | Amelia Watson     | MooCow     | MooCow |
+| [Star Soraight Fantasy](https://store.steampowered.com/app/3668950/) | - | Tokino Sora | Altoseal and Hoshikuzunoyoru | holo Indie |
 
 ### Puzzle / Strategy
   
