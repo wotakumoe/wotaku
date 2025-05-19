@@ -150,6 +150,7 @@ og:
 - [FuwaFuwa](https://www.youtube.com/@fuwafuwa_35/)
 - [hikipanda](https://www.youtube.com/@hikipanda) :fkr:
 - [カイ / Kai](https://www.youtube.com/@%E3%82%AB%E3%82%A4-w3d) <Badge type="tip" text="EN" link="https://www.youtube.com/@kai_en8684/" />
+- [かたくりこ](https://www.youtube.com/@katakuriko)
 - [くまいゆうき / Kamai Yuki](https://www.youtube.com/@kumayuki55) <Badge type="tip" text="EN" link="https://www.youtube.com/@KumaiYuki_EN/" />
 - [Khelly](https://www.youtube.com/@Khelly_Ch/)
 - [もちみこ / Mochimiko](https://www.youtube.com/mochimikoJP) <Badge type="tip" text="EN" link="https://youtube.com/@mochimikoen" />
