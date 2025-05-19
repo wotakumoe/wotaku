@@ -58,6 +58,10 @@ If you have recommendations for good sites in your native language or want to re
 - [Azora Moon](https://azoramoon.com/)
 - [SWAT Manga](https://swatscans.com/)
 
+### NSFW
+- [Arabs hentai](https://arabshentai.com/)
+- [Hentai Time](https://hentai-time.com/)
+
 ### Software
 
 #### Android
