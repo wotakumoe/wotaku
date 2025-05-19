@@ -252,22 +252,21 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi) | :win::app::lin: |
 | [Suwayomi](https://github.com/Suwayomi/Suwayomi-Server) | :win::app::lin: |
 | [Cubari](https://cubari.moe/) [:alt:](https://reader.manga.guru/) | :web: |
-| [MangaDex](https://github.com/darylhjd/mangadesk) | :win::app::lin::cmd: |
 | [Manga-tui](https://github.com/josueBarretogit/manga-tui) | :app::lin::cmd: |
 | [AnymeX](https://anymex.vercel.app/) [:gh:](https://github.com/RyanYuuki/AnymeX) [:e:](/guides/ext/mangayomi) | :win::app::lin: |
 
 ### Local
 
-| Software | Platform |
-|----------|---------|
-| [YACReader](https://www.yacreader.com/) [:gh:](https://github.com/YACReader/yacreader) ==YACReader== | :win::app::lin: |
-| [CDisplayEx](https://www.cdisplayex.com/) :cs: ==CDisplayEx== | :win: |
-| [Yomikiru](https://github.com/mienaiyami/yomikiru) ==Yomikiru== | :win::lin: |
-| [NeeView](https://neelabo.github.io/NeeView/en-us/) [:gh:](https://github.com/neelabo/NeeView) | :win: |
-| [OpenComic](https://github.com/ollm/OpenComic) ==OpenComic== | :win::app::lin: |
-| [MComix](https://sourceforge.net/projects/mcomix/files/) ==MComix== | :win::lin: |
-| [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) [:gh:](https://github.com/sumatrapdfreader/sumatrapdf) ==SumatraPDF== | :win: |
-| [ComicRack CE](https://github.com/maforget/ComicRackCE) | :win: |
+| Software | Platform | Reading Mode |
+|----------|---------|-|
+| [YACReader](https://www.yacreader.com/) [:gh:](https://github.com/YACReader/yacreader) ==YACReader== | :win::app::lin: | :sp::dp: |
+| [CDisplayEx](https://www.cdisplayex.com/) :cs: ==CDisplayEx== | :win: | :sp::dp: |
+| [OpenComic](https://github.com/ollm/OpenComic) ==OpenComic== | :win::app::lin: | :sp::dp::ls: |
+| [Yomikiru](https://github.com/mienaiyami/yomikiru) ==Yomikiru== | :win::lin: | :sp::dp::ls: |
+| [NeeView](https://neelabo.github.io/NeeView/en-us/) [:gh:](https://github.com/neelabo/NeeView) | :win: | :sp::dp: |
+| [MComix](https://sourceforge.net/projects/mcomix/files/) ==MComix== | :win::lin: | :sp::dp: |
+| [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) [:gh:](https://github.com/sumatrapdfreader/sumatrapdf) ==SumatraPDF== | :win: | :sp::dp::ls: |
+| [ComicRack CE](https://github.com/maforget/ComicRackCE) | :win: | :sp::dp: |
 
 
 ## Novel Readers

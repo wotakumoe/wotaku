@@ -327,7 +327,6 @@ const tooltips: {
     content: `  
   - Nice clean UI, has dark mode.  
   - Has all the standard functions, including recent history.  
-  - Has long strip mode which is pretty smooth.  
   - Has AniList tracking and controller support.  
   - Supports Lanczos and other scaling methods.`
   },
@@ -341,12 +340,11 @@ const tooltips: {
     content: `  
   - Very simple program with all the standard features.  
   - Doesn't have a library, but keeps track of recently opened files.  
-  - Includes vertical mode.  
   - Can open a variety of ebook formats (PDF, epub, mobi, cbz/cbr, DjVu, XPS, CHM).`
   },
   Yomikiru: {
     content:
-      'Simple UI with all the basic settings. Has longstrip mode and AniList tracking.'
+      'Simple UI with all the basic settings. Has AniList tracking.'
   },
   kohi: { content: 'For now, you need to manually install and update the APK(s) from the "apk" folder in the repository. The install and URL buttons are currently non-functional.' },
   ni3x: { content: 'Focuses on Torrents and Ero anime' },

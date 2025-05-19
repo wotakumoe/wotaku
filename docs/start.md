@@ -173,6 +173,9 @@ To learn, how to add tooltips, [click here](#tooltip).
 | :mag: | `:mag:` | Torrent / p2p |
 | :lcl: | `:lcl:` | Local File |
 | :batch: | `:bach:` | Batch Download |
+| :sp: | `:sp:` | Single page mode |
+| :dp: | `:dp:` | Dual page mode |
+| :ls: | `:ls:` | Long-strip mode |
 
 == Price
 
