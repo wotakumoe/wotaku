@@ -36,7 +36,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | ^^        | [AnimeTV](https://amarullz.com/) [:gh:](https://github.com/amarullz/AnimeTV) |
 | **iOS**   | [Sora](https://apps.apple.com/us/app/sulfur/id6742741043) [:gh:](https://github.com/cranci1/Sora) [:e:](/guides/ext/ios#sora) [:tf:](https://testflight.apple.com/join/qMUCpNaS) <Badge type="info" text="Altstore" link="https://www.cranci.tech/repo.json" /> |
 | ^^        | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi) |
-| **PC**    | [Miru](https://miru.watch/) :s::mag: [:gh:](https://github.com/ThaUnknown/miru/) |
+| **PC**    | [Shiru](https://github.com/RockinChaos/Shiru) :s::mag: |
 | ^^        | [Mangayomi](https://github.com/kodjodevf/mangayomi) :mag::ddl: [:e:](/guides/ext/mangayomi) |
 
 ![](/banner/wmanga.webp)
