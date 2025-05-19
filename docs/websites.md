@@ -187,9 +187,9 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 ## Online
 
 - [ComicK](https://comick.io/home2) :s: [:rss:](https://manga-ldez.vercel.app/) ==ComicK==  
-- [MangaDex](https://mangadex.org/) [:rss:](https://mdrss.tijlvdb.me/) ==MangaDex==  
 - [Weeb Central](https://weebcentral.com/) ==WeebCentral==  
 - [Batoto](https://battwo.com/v3x) [:prx:](https://rentry.co/batoto) ==Batoto==  
+- [MangaDex](https://mangadex.org/) [:rss:](https://mdrss.tijlvdb.me/) ==MangaDex==  
 - [MangaPark](https://mangapark.net/) [:prx:](https://rentry.co/mangapark)
 - [MangaFire](https://mangafire.to/home) ==MangaFire==  
 

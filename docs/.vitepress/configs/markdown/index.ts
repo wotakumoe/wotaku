@@ -134,7 +134,7 @@ const tooltips: {
   - Best reader UI (for a web reader)  
   - Uploads from various scanlation groups  
   - No official translations, barring some exceptions.  
-  - May remove content if there is a DMCA request by the publisher or doesn't allow upload at all (e.g. One Punch-Man).`
+  - Removes content upon DMCA takedown request, has already done so for 7000+ titles.`
   },
   WeebCentral: {
     content: `  

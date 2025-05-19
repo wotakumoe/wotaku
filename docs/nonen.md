@@ -28,9 +28,9 @@ If you have recommendations for good sites in your native language or want to re
 - [Sudatchi](https://sudatchi.com/)
 
 ### Manga
-- [MangaDex](https://mangadex.org/) [:rss:](https://mdrss.tijlvdb.me/)
 - [ComicK](https://comick.io/home2) [:rss:](https://manga-ldez.vercel.app/) 
 - [Batoto](https://battwo.com/v3x)
+- [MangaDex](https://mangadex.org/) [:rss:](https://mdrss.tijlvdb.me/)
 - [Nine Manga](https://www.ninemanga.com/)
 - [Novel Cool](https://novelcool.com/)
 
