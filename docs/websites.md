@@ -60,6 +60,7 @@ outline: 1
 ### Scrapers
 | Websites | Login | Sub |
 |----------|----------------------|--------|
+| [Anime Realms](https://www.animerealms.org/) ==AnimeRealms== | :mingcute-refresh-2-fill: | :cc::hs: |
 | [AniPlay](https://aniplaynow.live/) ==AniPlay== | :mingcute-refresh-2-fill: :mingcute-user-2-fill: | :cc::hs: |
 | [Enimoe](https://enimoe.live/) ==Enimoe== | :mingcute-refresh-2-fill: | :cc::hs: |
 | [Gojo](https://gojo.wtf/) [:alt:](https://aninow.to/) ==Gojo== | :mingcute-user-2-fill: | :hs: |
@@ -210,8 +211,6 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 
 ::: details Scrapers
 - [Cubari Proxy](https://proxy.cubari.moe/#/) ==cubari==
-- [Manga Guru](https://manga.guru/#/) ==mguru==
-- [MangaHaven](https://mangahaven.net/) ==mhaven==
 - [Akari](https://akari-psi.vercel.app/) [:gh:](https://github.com/sn0w12/akari) ==akari==
 :::
 

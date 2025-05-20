@@ -108,6 +108,10 @@ const tooltips: {
     content: `  
   Although new releases are in 1080p, older releases are a mixed bag, ranging from 480p to 720p.`
   },
+  AnimeRealms: {
+    content: `  
+  Scrapes HiAnime (Soft), AnimePahe (Pahe), AnimeHeaven (Heaven - 720p).`
+  },
   AniPlay: {
     content: `  
   Scrapes HiAnime (Yuki), AnimePahe (Pahe).`
@@ -358,9 +362,7 @@ const tooltips: {
   dab: { content: 'Downloads from the Qobuz streaming platform, which only supports FLAC, not the other formats mentioned in the About page.' },
   echo: { content: 'Use "extension" as code to load all the extensions.' },
   cubari: { content: 'Scrapes MangaDex, WeebCentral, MangaKatana & scanlators.' },
-  mguru: { content: 'Another instance of Cubari maintained by different people. Not much maintained. Scrapes MangaDex and Manga Katana' },
   akari: { content: 'Scrapes MangaKakalot.' },
-  mhaven: { content: 'Scrapes MangaFire.' },
   komik: {content: 'Mostly up to the artist. Some of them are R2L too.'},
   atosho: {content: 'Offers both DDL hosts and Usenet as download options, but only keeps uploads up to 16GB. DDL files might be auto-deleted by the hosts due to inactivity, unlike Usenet files. You can try [magicNZB](https://magicnzb.com/) for free Usenet downloads, as it allows temp-mails and does not require a CC.'},
   linew: {content: 'In 2019, they rebranded LINE WEBTOON as WEBTOON. In some regions, it is still branded as LINE WEBTOON.'},
