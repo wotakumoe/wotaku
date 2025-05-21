@@ -59,8 +59,10 @@ If you have recommendations for good sites in your native language or want to re
 - [SWAT Manga](https://swatscans.com/)
 
 ### NSFW
-- [Arabs hentai](https://arabshentai.com/)
+- [Arabs Hentai](https://arabshentai.com/)
 - [Hentai Time](https://hentai-time.com/)
+- [NXX Hentai](https://nxxhentai.com/)
+- [RistoHentai](https://ristohentai.com/)
 
 ### Software
 
