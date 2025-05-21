@@ -37,11 +37,11 @@ og:
 
 
 ::: details More {open}
+- [AmateurSubs](https://amateursubs.com/) :ddl: <Badge type="tip" text="Nyaa" link="https://sukebei.nyaa.si/user/denis18312" />
 - [Hentai Ocean](https://hentaiocean.com/)
 - [HenVids](https://henvids.com/)
-- [HMV Mania](https://hmvmania.com/) [:f:](https://archived.moe/h/thread/7621997/)
 - [Rule34video](https://rule34video.com/)
-- [SakuraCircle](https://sakuracircle.com/) :ddl:
+- [SakuraCircle](https://sakuracircle.com/) :ddl: <Badge type="warning" text="Retired"/> <Badge type="tip" text="Nyaa" link="https://sukebei.nyaa.si/user/Tennouji" />
 - [UnderHentai](https://www.underhentai.net/) :strm::ddl:
 
 :::
@@ -224,6 +224,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [Hemdomblog](https://www.hemdomblog.com/)
 - [HentTag](https://hentag.com/)
 - [Hentai ASMR](https://www.hentaiasmr.moe/)
+- [HMV Mania](https://hmvmania.com/) [:f:](https://archived.moe/h/thread/7621997/)
 - [Japanese ASMR](https://japaneseasmr.com/)
 - [Kasumi](http://xdcc.kasumi.moe/) [:help:](http://kasumi.moe/guide/)
 - [Kemono](https://kemono.su/)
@@ -247,7 +248,6 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [141 JAV](https://www.141jav.com/) [:alt:](https://www.141ppv.com/)
 
 ### Others
-- [Gravure Idols](https://gravureidols.top/)
 - [Mabui Onna](https://mabui-onna.com/)
 - [Sougou Wiki](http://sougouwiki.com/)
 - [X-IDOL](https://xidol.net/) [:alt:](https://www.ivworld.net/)
