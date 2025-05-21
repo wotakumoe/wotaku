@@ -55,12 +55,6 @@ const tooltips: {
   - Has multi-language softsub.  
   - Re-encodes shows for smaller size.`
   },
-  Hikari: {
-    content: `  
-  - Good for new airing.  
-  - Uploads from good sources but re-encoded smaller file size.  
-  - Large library size.`
-  },
   Sudatchi: {
     content: `  
   - Smaller library size. Good for new airing.  
