@@ -28,7 +28,7 @@ outline: 1
 |----------|----------------------|----------------------|--------|
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :mingcute-shovel-fill: | :no: | :cc: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :mingcute-server-fill: | :mingcute-user-2-fill: | :cc: |
-| [AnimeKai](https://animekai.to/home) [:alt:](https://animekai.bz/home) ==AnimeKai== | :mingcute-server-fill: | :mingcute-refresh-2-fill: :mingcute-user-2-fill: | :cc::hs: |
+| [AnimeKai](https://animekai.to/home) [:prx:](https://rentry.org/wotaxy#animekai) ==AnimeKai== | :mingcute-server-fill: | :mingcute-refresh-2-fill: :mingcute-user-2-fill: | :cc::hs: |
 | [KickAssAnime](https://kaa.mx/) ==KAA== | :mingcute-server-fill: :mingcute-shovel-fill: | :mingcute-user-2-fill: | :cc: |
 | [HiAnime](https://hianimez.to/home) [:prx:](https://hianime.tv/) ==Zoro== | :mingcute-server-fill: | :mingcute-user-2-fill: | :cc: |
 | [Hikari](https://watch.hikaritv.xyz/) ==Hikari== | :mingcute-server-fill: | :mingcute-user-2-fill: | :cc::hs: |
