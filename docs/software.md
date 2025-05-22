@@ -412,7 +412,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | ^^            | [AnimeSnap](https://github.com/rohankishore/AnimeSnap)          | :win:               |
 | ^^            | [Sauce](https://github.com/cadecuddy/sauce)                     | :cmd:               |
 | **Nyaa Tools** | [nyaa](https://github.com/Beastwick18/nyaa)                    | :win::lin:          |
-| ^^            | [Meow](https://github.com/wotakumoe/meow)                       | :win:               |
+| ^^            | [Meow](https://github.com/wotakumoe/meow)                       | :py:                |
 | ^^            | [Koneko](https://github.com/irevenko/koneko)                    | :cmd:               |
 | **Others**    | [AMV Tracker](https://github.com/bsobotka/amv_tracker)          | :win:               |
 
