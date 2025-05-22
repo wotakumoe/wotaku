@@ -410,10 +410,10 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | **Image Search** | [SmartImage](https://github.com/Decimation/SmartImage)       | :win::lin:          |
 | ^^            | [Search by Image](https://github.com/dessant/search-by-image)   | :ff::cr::simple-icons-safari: |
 | ^^            | [AnimeSnap](https://github.com/rohankishore/AnimeSnap)          | :win:               |
-| ^^            | [Sauce](https://github.com/cadecuddy/sauce)                     |   :cmd:                 |
-| **Nyaa Tools** | [nyaa](https://github.com/Beastwick18/nyaa)                     | :win::lin:          |
-| ^^            | [Nyaa Downloader](https://github.com/marcpinet/nyaadownloader)  | :win:               |
-| ^^            | [Koneko](https://github.com/irevenko/koneko)                    |    :cmd:               |
+| ^^            | [Sauce](https://github.com/cadecuddy/sauce)                     | :cmd:               |
+| **Nyaa Tools** | [nyaa](https://github.com/Beastwick18/nyaa)                    | :win::lin:          |
+| ^^            | [Meow](https://github.com/wotakumoe/meow)                       | :win:               |
+| ^^            | [Koneko](https://github.com/irevenko/koneko)                    | :cmd:               |
 | **Others**    | [AMV Tracker](https://github.com/bsobotka/amv_tracker)          | :win:               |
 
 ## Server / Hosting
