@@ -39,7 +39,6 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 | [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one) | :mag: | :mal::al::k::simkl: |
 | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi) | :ddl::mag: | :mal::al::k: |
 | [AnymeX](https://anymex.vercel.app/) [:gh:](https://github.com/RyanYuuki/AnymeX) [:e:](/guides/ext/mangayomi) | :ddl: | :mal::al::simkl: |
-| [AnimeTV](https://amarullz.com/) [:gh:](https://github.com/amarullz/AnimeTV) | :ddl: | :mal::al: |
 :::
 
 ::: details :material-symbols-tv-gen-outline: Android TV ranking
@@ -47,7 +46,6 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 - [Shiru](https://github.com/RockinChaos/Shiru) ==Shiru==
 - [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one)
   - [Stremio Tools](#stremio)
-- [AnimeTV](https://amarullz.com/) [:gh:](https://github.com/amarullz/AnimeTV)
 - [Crunchyroll for TIZEN](https://github.com/jhassan8/crunchyroll-tizen)
 :::
 

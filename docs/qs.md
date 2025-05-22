@@ -33,7 +33,6 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 |-----------|--------------------------------------------------|
 | **Android** | [Aniyomi](https://aniyomi.org/) :s: [:gh:](https://github.com/aniyomiorg/aniyomi) [:e:](/guides/ext/mihon) |
 | ^^        | [Dantotsu](https://dantotsuapp.netlify.app/) [:gh:](https://github.com/rebelonion/Dantotsu) [:e:](/guides/ext/mihon) |
-| ^^        | [AnimeTV](https://amarullz.com/) [:gh:](https://github.com/amarullz/AnimeTV) |
 | **iOS**   | [Sora](https://apps.apple.com/us/app/sulfur/id6742741043) [:gh:](https://github.com/cranci1/Sora) [:e:](/guides/ext/ios#sora) [:tf:](https://testflight.apple.com/join/qMUCpNaS) <Badge type="info" text="Altstore" link="https://www.cranci.tech/repo.json" /> |
 | ^^        | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi) |
 | **PC**    | [Shiru](https://github.com/RockinChaos/Shiru) :s::mag: |
