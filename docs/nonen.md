@@ -241,6 +241,7 @@ If you have recommendations for good sites in your native language or want to re
 
 ### Others
 - [Hyakanime](https://hyakanime.fr/)
+- [Kibo](https://www.kiboanime.app/)
 
 
 ## German
