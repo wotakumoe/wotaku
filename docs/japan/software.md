@@ -21,6 +21,7 @@ og:
 - [AnkiDroid Flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki) :and:
 - [AnkiMobile Flashcards](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) :app::paid:
 - [Ankiconnect Android](https://github.com/KamWithK/AnkiconnectAndroid) :and:
+- [KAnki](https://github.com/crizmo/KAnki) :simple-icons-amazon:
 
 ___
 #### Guide
