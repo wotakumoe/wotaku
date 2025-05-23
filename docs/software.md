@@ -26,7 +26,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 | [Aniyomi](https://aniyomi.org/) :s: [:gh:](https://github.com/aniyomiorg/aniyomi) [:n:](https://github.com/aniyomiorg/aniyomi-preview) | :ddl: | :mal::al::k::simkl: |
 | [Animetail](https://github.com/Dark25/Animetail2) [:n:](https://github.com/Animetailapp/Animetail-preview) | :ddl::mag: | :mal::al::k::simkl: |
 | [Anikku](https://anikku-app.github.io/) [:gh:](https://github.com/komikku-app/anikku) [:n:](https://github.com/komikku-app/anikku-preview) | :ddl::mag: | :mal::al::k::simkl: |
-| [Dantotsu](https://dantotsuapp.netlify.app/) [:gh:](https://github.com/rebelonion/Dantotsu)  | :ddl::mag: | :mal::al: |
+| [Dantotsu](https://discord.com/invite/4HPZ5nAWwM) | :ddl::mag: | :mal::al: |
 | [Himitsu](https://repodevil.vercel.app/) [:gl:](https://gitlab.com/RepoDevil/himitsu) [:gh:](https://github.com/RepoDevil/Himitsu) | :ddl::mag: | :mal::al: |
 | [Cloudstream](https://cloudstream.on.fleek.co/) [:e:](/guides/ext/misc#cloudstream) | :ddl::mag: | :mal::al::simkl: |
 | [Shiru](https://github.com/RockinChaos/Shiru) ==Shiru== | :mag: | :mal::al: |
@@ -63,7 +63,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 - [TachiyomiAZ](https://mihon.app/forks/TachiyomiAZ/) [:gh:](https://github.com/az4521/tachiyomiAZ) [:n:](https://crafty.moe/tachiyomiAZ.apk)
 - [Animetail](https://github.com/Dark25/Animetail2) [:e:](/guides/ext/mihon) [:n:](https://github.com/Animetailapp/Animetail-preview)
 - [Aniyomi](https://aniyomi.org/) [:gh:](https://github.com/aniyomiorg/aniyomi) [:e:](/guides/ext/mihon) [:n:](https://github.com/aniyomiorg/aniyomi-preview)
-- [Dantotsu](https://dantotsuapp.netlify.app/) [:gh:](https://github.com/rebelonion/Dantotsu) [:e:](/guides/ext/mihon)
+- [Dantotsu](https://discord.com/invite/4HPZ5nAWwM) [:e:](/guides/ext/mihon)
 - [Neko](https://github.com/nekomangaorg/Neko)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi)
 :::
@@ -83,7 +83,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 - [Shosetsu](https://shosetsu.app/) [:gl:](https://gitlab.com/shosetsuorg/shosetsu)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi)
 - [Akashic Records](https://github.com/AkashicRecordsApp/akashic_records)
-- [Dantotsu](https://dantotsuapp.netlify.app/) [:gh:](https://github.com/rebelonion/Dantotsu) [:e:](/guides/ext/misc#dantotsu)
+- [Dantotsu](https://discord.com/invite/4HPZ5nAWwM) [:e:](/guides/ext/misc#dantotsu)
 - [Legado](https://gedoor.github.io/) [:gh:](https://github.com/gedoor/legado) [:e:](/guides/ext/misc#legado)
 - [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha)
 - [Ranobe](https://github.com/ranobe-org/ranobe)
