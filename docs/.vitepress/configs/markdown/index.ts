@@ -362,7 +362,8 @@ const tooltips: {
   linew: {content: 'In 2019, they rebranded LINE WEBTOON as WEBTOON. In some regions, it is still branded as LINE WEBTOON.'},
   amdl: {content: 'We have not tested their software, use the web downloader for your own security. Best for downloading separate songs instead of albums. For audio quality, use "Original Quality".'},
   webtooni: {content: 'Not uploading for a while.'},
-  hef: {content: 'Does not have all the recent fan projects.'}
+  hef: {content: 'Does not have all the recent fan projects.'},
+  cupscale: {content: 'Cupscale is not good for color and pages with no screentone.'}
 }
 
 export function configureMarkdown(md: MarkdownRenderer) {

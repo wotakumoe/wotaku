@@ -174,6 +174,7 @@ og:
 - [XL Converter](https://codepoems.eu/xl-converter/) [:gh:](https://github.com/JacobDev1/xl-converter)
 - [FFmpeg](https://ffmpeg.org/) :cmd: [:gh:](https://github.com/FFmpeg/FFmpeg)
 - [chaiNNer](https://chainner.app/) [:gh:](https://github.com/chaiNNer-org/chaiNNer)
+- [Cupscale](https://github.com/n00mkrad/cupscale) :cupscale:
 - [Magpie](https://github.com/Blinue/Magpie)
 - [Waifu2X](https://github.com/nagadomi/waifu2x)
   - [caffe](https://github.com/lltcggie/waifu2x-caffe)
