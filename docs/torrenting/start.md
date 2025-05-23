@@ -41,6 +41,7 @@ Dedicated clients are recommended since they have a lot torrent-centric features
 | PC        | [qBittorrent](https://www.qbittorrent.org/) :s: [:gh:](https://github.com/qbittorrent/qBittorrent/) |
 | ^^        | [Deluge](https://www.deluge-torrent.org/) [:gh:](https://github.com/deluge-torrent/deluge) |
 | ^^        | [Transmission](https://transmissionbt.com/) [:gh:](https://github.com/transmission/transmission) |
+| ^^        | [Fragments](https://apps.gnome.org/Fragments/) [:gn:](https://gitlab.gnome.org/World/Fragments) |
 
 ### General
 
