@@ -170,6 +170,7 @@ og:
 - [cbo](https://www.youtube.com/@cbo_ch/) <Badge type="warning" text="Inactive"/>
 - [ChegiCH](https://www.youtube.com/@chegichannel/)
 - [Crash Landing Studios](https://www.youtube.com/@CrashLandingStudio/) :s:
+- [itsMeanWaterfall](https://www.youtube.com/@itsMeanWaterfall)
 - [Kanauru](https://www.youtube.com/@kanauru) :s:
 - [Miriwa ミリワ](https://www.youtube.com/@Miriwa)
 - [MomonKusa](https://www.youtube.com/@momonkusa)
@@ -202,6 +203,7 @@ og:
 |--------------------------------------------------------|--------|--------------------|----------------------|-----|
 | [Holo on Suika](https://tkgames.jp/holo_watermelon.html)       | Free   | Hololive          | TKGames    | TKGames |
 | [ホロポップ (Holo Pop)](https://store.steampowered.com/app/3155810/) :fjp: | $2.49 | Hololive JP | HappyHoppyHappy | holo Indie |
+| [Holoidle](https://store.steampowered.com/app/3543350/) | - | Hololive | Kindred Interactive | holo Indie |
 | [hololive Treasure Mountain](https://store.steampowered.com/app/2972990/) | $4.99  | Houshou Marine   | BeXide     | holo Indie |
 | [Pebble Jame](https://gioba-games.itch.io/pebble-jame)         | Free   | Koseki Bijou      | Goiba      | Goiba |
 
