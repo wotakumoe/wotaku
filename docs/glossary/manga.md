@@ -62,21 +62,21 @@ Sound effects in manga visualizes the character's physical or mental state, the 
 
 The usual reading direction for manga is right to left, whereas manhwa and manhua are read left to right (like standard comics). In the case of manga, the individual panels are read right to left and top to bottom, then top again upon reaching the next page.
 
-![Sousou no Frieren Vol. 3 (Left) & Jack Frost Vol. 1 (right)](/glossary/panel/gnrl.webp)
+![Sousou no Frieren :fjp: Vol. 3 (Left) & Jack Frost :fkr: Vol. 1 (right)](/glossary/panel/gnrl.webp)
 
 For a spread, you can set an imaginary line based on the page number.
 
-![Black Clover ch. 361 (2 page)](/glossary/panel/gnrlspread.webp)
+![Black Clover :fjp: ch. 361 (2 page)](/glossary/panel/gnrlspread.webp)
 
 == 4-Koma
 
 4-Koma (a.k.a. Yonkoma manga) features four panels and follows a specific pattern where every four panels lead up to a punchline. These are generally read up-down instead of the traditional right-left. The right column is always the starting column. It can be a single column or a double column. For some manga or omake, it may follow right to left a.k.a. the traditional way.
 
-![Mousou Telepathy ch. 622 (left), Tsurezure Children ch. 20 (center) & Komi-san wa Komyushou Desu. ch 382 (right)](/glossary/panel/4koma.webp)
+![Mousou Telepathy :fjp: ch. 622 (left), Tsurezure Children :fjp: ch. 20 (center) and Komi-san wa Komyushou Desu. :fjp: ch 382 (right)](/glossary/panel/4koma.webp)
 
 To easily understand the reading order, you can look for the space between rows or columns. If the column has more space, then it's up to down. If otherwise, then right to left.
 
-![](/glossary/panel/4komagrid.webp)
+![Tsurezure Children :fjp: ch. 20 (left) and Komi-san wa Komyushou Desu. :fjp: ch 382](/glossary/panel/4komagrid.webp)
 
 Occasionally, panel sizes or column gaps may exhibit variations, resulting in a change in the reading direction.
 
@@ -84,7 +84,7 @@ Occasionally, panel sizes or column gaps may exhibit variations, resulting in a 
 
 At times, the beginning of a 4-Koma manga may feature a sizable illustration, spanning either half the page vertically or horizontally.
 
-![Kawaii Joushi wo Komarasetai ch. 29, 46, 56, 62 (right to left)](/glossary/panel/4komaillust.webp)
+![Kawaii Joushi wo Komarasetai :fjp: ch. 29, 46, 56, 62 (right to left)](/glossary/panel/4komaillust.webp)
 
 == Long strip
 
@@ -109,15 +109,15 @@ A splash page is a single panel that covers the entire page and is typically res
 
 A panel/artwork that is spread out over two pages, reserved for particularly impactful moments.
 
-![One Punch-Man ch. 155 (2-page)](/glossary/panel/spread_2.webp)
+![One Punch-Man :fjp: ch. 155 (2-page)](/glossary/panel/spread_2.webp)
 
 Another type of spread where the panel covers more than one page, but not the whole two pages.
 
-![Haikyu!! ch. 39](/glossary/panel/spread_1andahalf.webp)
+![Haikyu!! :fjp: ch. 39](/glossary/panel/spread_1andahalf.webp)
 
 They can sometimes cover multiple pages, which is solved by having fold-outs.
 
-![Sengoku Youko ch. 48 (5-page)](/glossary/panel/spread_5.webp)
+![Sengoku Youko :fjp: ch. 48 (5-page)](/glossary/panel/spread_5.webp)
 
 :::
 
