@@ -39,6 +39,7 @@ og:
 - [ConsoleRoms](https://www.consoleroms.com/)
 - [Crocdb](https://crocdb.net/)
 - [EBZero ROM set](https://archive.org/details/retro-roms-best-set) :acc:
+- [EpicRoms](https://epicroms.net/)
 - [FantasyAnime](https://fantasyanime.com/)
 - [Myrient](https://myrient.erista.me/)
 - [RetroGameTalk](https://retrogametalk.com/) :acc:
