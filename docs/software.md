@@ -396,6 +396,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | [Keroro](https://github.com/hotsno/keroro)     | :simple-icons-mpv:   | :al:           |
 | [MALClient](https://apps.microsoft.com/store/detail/malclient/9NBLGGH5F3BL) [:gh:](https://github.com/Drutol/MALClient) | :win:                    | :mal:    |
 | [MAL-Sync](https://malsync.moe/) [:gh:](https://github.com/MALSync/MALSync)       | :cr::ff::js:     | :mal: :al: :k: :simkl: :simple-icons-shikimori: |
+| [Tadoku](https://github.com/Eroge-Abyss/tadoku) | :win: | VNDB |
 | [Taiga](https://taiga.moe/) [:gh:](https://github.com/erengy/taiga)     | :win:       | :mal: :al: :k:  |
 | [Trackma](https://z411.github.io/trackma/) [:gh:](https://github.com/z411/trackma)   | :lin:   | :mal: :al: :k: :simple-icons-shikimori:  |
 | [Tundra](https://tundra.moe/) [:gh:](https://github.com/m4tx/tundra)    | :lin:      | :mal:     |
