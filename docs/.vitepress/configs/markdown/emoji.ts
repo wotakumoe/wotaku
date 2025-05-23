@@ -114,7 +114,7 @@ const aliases: Record<string, string> = {
   // Code
   py: 'simple-icons-python',
   js: 'simple-icons-javascript',
-  css: 'simple-icons-css',
+  css: 'mdi-language-css3',
   dock: 'simple-icons-docker',
   
   // Others
