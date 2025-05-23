@@ -262,6 +262,9 @@ If you have recommendations for good sites in your native language or want to re
 - [Kanjiku](https://kanjiku.net/)
 - [Manga-Tube](https://manga-tube.me/)
 
+### Software
+- [Anime/Series Scraper](https://github.com/wolfswolke/aniworld_scraper)
+
 ### Communities
 - [Anime Community Germany](https://anime-community-germany.de/)
 - [Animexx](https://www.animexx.de/)
@@ -661,6 +664,7 @@ ___
   - [DW Anime](https://dw-anime.net/)
   - [Union Fansub](https://foro.unionfansub.com/) :mag::acc:
   - [:tg: YaichiList](https://t.me/addlist/xA7wYMGu0CI2YzBh) :strm:
+  - [FapDex](https://fapdex.moe/) :ero:
 
 ### Manga
 - [TuMangaOnline](https://zonatmo.com/)
@@ -734,6 +738,7 @@ ___
 - [Cuu Truyen](https://cuutruyen.net/) [:prx:](https://truycapcuutruyen.pages.dev/)
 - [DocTruyen3Q](https://doctruyen3qui5.pro/) :ero:
 - [Goc Truyen Tranh](https://goctruyentranh.net/)
+- [MangaMAX](https://manga-max.vercel.app/) [:gh:](https://github.com/huynlx/MangaMAX)
 - [NhatTruyen](https://nhattruyenqq.com/)
 - [Than Vuc](https://thanvuc.com/)
 - [TruyenGG](https://truyengg.com/)
