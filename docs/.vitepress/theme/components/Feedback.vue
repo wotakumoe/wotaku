@@ -61,24 +61,6 @@ function getPrompt() {
   return prompts[Math.floor(Math.random() * prompts.length)]
 }
 
-const messages = {
-  suggestion: [
-    "We're glad you want to share your ideas!",
-    'Nix the fluff and just tell us what you think!',
-    "We'll be happy to read your thoughts and incorporate them into our wiki.",
-    "Hello! We're glad you want to share your ideas!"
-  ],
-  appreciation: [
-    'We appreciate your support!',
-    "We're always looking for ways to improve!"
-  ],
-  other: ["We're always looking for ways to improve!"]
-}
-
-function getMessage(type: FeedbackType['type']) {
-  return messages[type][Math.floor(Math.random() * messages[type].length)]
-}
-
 const loading = ref<boolean>(false)
 const error = ref<unknown>(null)
 const success = ref<boolean>(false)
@@ -149,7 +131,6 @@ const helpfulDescription = props.heading
   : 'Let us know how helpful this page is.'
 
 const prompt = computed(() => getPrompt())
-const message = computed(() => getMessage(feedback.type!))
 const toggleCard = () => (isCardShown.value = !isCardShown.value)
 </script>
 
@@ -200,11 +181,11 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
           </div>
         </div>
         <div v-else-if="feedback.type && !success">
-          <div>
+          <div class="mb-2">
             <p class="desc">{{ helpfulDescription }} - {{ prompt }}</p>
             <span>{{ getFeedbackOption(feedback.type)?.label }}</span>
           </div>
-          <p class="heading" v-text="message"></p>
+
           <div v-if="feedback.type === 'suggestion'" class="mb-2 text-sm">
             <details>
               <summary>
@@ -366,9 +347,7 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
 
 .desc {
   display: block;
-  line-height: 20px;
   font-size: 12px;
-  font-weight: 500;
   color: var(--vp-c-text-2);
 }
 

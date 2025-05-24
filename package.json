@@ -1,5 +1,6 @@
 {
   "name": "@wotaku/repo",
+  "version": "0",
   "type": "module",
   "scripts": {
     "postinstall": "nitropack prepare",

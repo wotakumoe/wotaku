@@ -59,17 +59,16 @@ export default defineEventHandler(async (event) => {
 
   await fetcher()
     .post(env.WEBHOOK_URL, {
-      username: 'Feedback',
-      avatar_url:
-        'https://i.kym-cdn.com/entries/icons/facebook/000/043/403/cover3.jpg',
-      embeds: [
-        {
-          color: 3447003,
-          title: getFeedbackOption(type)!.label,
-          fields
-        }
-      ]
-    })
+        username: 'Feedback',
+        embeds: [
+          {
+            color: 3447003,
+            title: getFeedbackOption(type)!.label,
+            fields
+          }
+        ]
+      }
+    )
     .catch((error) => {
       throw new Error(error)
     })

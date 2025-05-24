@@ -17,7 +17,14 @@ import z from 'zod'
 
 export const FeedbackSchema = z.object({
   message: z.string().min(5).max(1000),
-  type: z.enum(['suggestion', 'appreciation', 'other']),
+  type: z.enum([
+    'submit',
+    'update',
+    'report',
+    'suggestion',
+    'appreciation',
+    'other'
+  ]),
   page: z.string().url(),
   // For heading based feedback
   heading: z.string().min(3).max(20).optional()
@@ -31,11 +38,15 @@ export interface Option {
 export const feedbackOptions: Option[] = [
   {
     label: '➕ Submit link',
-    value: "suggestion"
+    value: 'submit'
   },
-    {
+  {
+    label: '❗️ Update link',
+    value: 'update'
+  },
+  {
     label: '❌ Report bad / dead link',
-    value: "suggestion"
+    value: 'report'
   },
   {
     label: '💡 Suggest edit',
@@ -45,8 +56,7 @@ export const feedbackOptions: Option[] = [
     label: '❤️ Love the wiki',
     value: 'appreciation'
   },
-  { label: '💬 Something else', 
-    value: 'other' }
+  { label: '💬 Something else', value: 'other' }
 ]
 
 export function getFeedbackOption(
