@@ -186,6 +186,7 @@ ___
 | ^^ | [AnimeTV](https://animetv-jp.net/) [:x:](https://x.com/animetv_jp) |  
 | ^^ | [Eiga](https://anime.eiga.com/) :fjp: |  
 | ^^ | [English Dubbed Anime Lovers](https://english-dubbed.com/) |  
+| ^^ | [Toonami Squad](https://toonamisquad.com/) [:x:](https://x.com/ToonamiSquad) |  
 | **Blog / Interview** | [Animation Obsessive](https://animationobsessive.substack.com/) :fm: [:x:](https://x.com/ani_obsessive) |  
 | ^^ | [Anime Herald](https://www.animeherald.com/) |  
 | ^^ | [Animétudes](https://animetudes.com/) :s: |  
@@ -299,6 +300,7 @@ ___
 - [HUNTER×HUNTER Hiatus Chart](https://hiatus-hiatus.github.io/)
 - [Inazuma](https://inazuma.rl404.com/) [:gh:](https://github.com/rl404/inazuma)
 - [One Piece Wanted Poster Maker](https://yuskawu.github.io/one-piece-wanted-poster/dist/) [:gh:](https://github.com/YuskaWu/one-piece-wanted-poster)
+- [True Harem](https://trueharem.carrd.co/)
 - [TV Tropes](https://tvtropes.org/)
 - [Vagabond Hiatus Chart](https://vagabond-hiatus-chart.vercel.app/) [:gh:](https://github.com/falsepopsky/vagabond-hiatus-chart)
 - [Wired Sound For Wired People](https://fauux.neocities.org/)
