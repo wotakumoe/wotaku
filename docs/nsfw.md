@@ -36,7 +36,7 @@ og:
 - [Oppai](https://oppai.stream/) <Badge type="info" text="Upscale" />
 
 
-::: details More {open}
+::: details More
 - [AmateurSubs](https://amateursubs.com/) :ddl: <Badge type="tip" text="Nyaa" link="https://sukebei.nyaa.si/user/denis18312" />
 - [Hentai Ocean](https://hentaiocean.com/)
 - [HenVids](https://henvids.com/)
