@@ -95,7 +95,8 @@ outline: 1
 - [Sonic Zone TV](https://soniczone.net/tv/home.html)
 - [Japanese Animated Film Classics](https://animation.filmarchives.jp/en/index.html)
 
-### TV
+### Toonami
+- [BumpWorthy](https://www.bumpworthy.com/)
 - [Toonami Aftermath](https://www.toonamiaftermath.com/)
 - [Toonami Remastered](https://www.toonamiremastered.com/)
 :::
