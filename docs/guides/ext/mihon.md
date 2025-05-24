@@ -25,7 +25,6 @@ Some apps might not support **Auto Install method**. That doesn't mean the guide
 | [ni3x](https://github.com/ni3x/aniyomi-extensions) ==ni3x== | :global: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/ni3x/aniyomi-extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/ni3x/aniyomi-extensions/repo/index.min.json) |
 | [Secozzi](https://github.com/Secozzi/aniyomi-extensions) ==secozzi== | :global: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/Secozzi/aniyomi-extensions/refs/heads/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Secozzi/aniyomi-extensions/refs/heads/repo/index.min.json) |
 | [Claudemirovsky](https://github.com/Claudemirovsky/cursedyomi-extensions) | :flag-brazil::flag-turkiye: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/Claudemirovsky/cursedyomi-extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Claudemirovsky/cursedyomi-extensions/repo/index.min.json) |
-| [hollow](https://codeberg.org/hollow/aniyomi-extensions-fr) | :flag-france: | [Install](aniyomi://add-repo?url=https://codeberg.org/hollow/aniyomi-extensions-fr/media/branch/repo/index.min.json) | [URL](https://codeberg.org/hollow/aniyomi-extensions-fr/media/branch/repo/index.min.json) |
 
 
 ### Manga
