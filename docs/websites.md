@@ -324,7 +324,7 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 - [NovelFire](https://novelfire.net/home)
 
 :::details More
-- [Novgo](https://novgo.co/)
+- [Nov Love](https://novlove.com/)
 - [Free web novel](https://freewebnovel.com/)
 - [Light Novel Heaven](https://lightnovelheaven.com/)
 - [WuxiaClick](https://wuxia.click/) [:alt:](https://readnovel.eu/)
