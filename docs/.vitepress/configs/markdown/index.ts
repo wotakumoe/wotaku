@@ -114,6 +114,10 @@ const tooltips: {
     content: `  
   Scrapes HiAnime (Kaido), AnimeKai (Rose), AniZone (Zone), Anify (Violet), AnimeNoSub (Stack), FireAnime (Fire), Hikari (Cope), AnimeFox (Fox).`
   },
+  Gojo: {
+    content: `  
+  Scrapes AnimeOwl (Strix), AnimePahe (Pahe), AnimeZ (Zaza).`
+  },
   ComicK: {
     content: `  
   - Minimal compression  
