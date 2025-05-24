@@ -109,7 +109,9 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 | ^^           | [MoeList](https://moelist.net/) [:gh:](https://github.com/axiel7/MoeList) |
 | ^^           | [Risuto](https://github.com/lexwilliam/Risuto) |
 | **Others**   | [Kitsune](https://github.com/Drumber/Kitsune) :k: |
-| ^^           | [OpenComicVine](https://github.com/proninyaroslav/OpenComicVine) <Badge type="info" text="ComicVine" /> |
+| ^^           | [Nekome](https://github.com/Chesire/Nekome) :k: |
+| ^^           | [OpenComicVine](https://github.com/proninyaroslav/OpenComicVine) |
+| ^^           | [VNDB Lite](https://daniel-c-j.github.io/vndb-lite/) [:gh:](https://github.com/Daniel-C-J/vndb-lite) |
 
 
 ## Others
