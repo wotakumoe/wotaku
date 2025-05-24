@@ -40,7 +40,7 @@ If you're knowledgeable in Japanese, consider contributing to the wiki. We could
 |-|-|-|-|-|-|
 | [Nihongo NET](https://nihongokyoshi-net.com/) | :yes: | :yes: | :yes: | :yes: | :yes: | 
 | [Itazuraneko](https://gohoneko.neocities.org/) | :yes: | :yes: | :yes: | :no: | :no: | 
-|  |  |  |  |  |  | 
+| [renshuu](https://www.renshuu.org/) | :yes: | :yes: | :yes: | :yes: | :yes: | 
 
 :::
 
@@ -312,6 +312,7 @@ Check out the [**Japanese Mega Learning Pack**](https://rentry.org/wotadirect). 
 | **Others**    | [Conversation Exchange](https://www.conversationexchange.com/) |  
 | ^^            | [Japanese Language Stack Exchange](https://japanese.stackexchange.com/) |  
 | ^^            | [My Language Exchange](https://www.mylanguageexchange.com/) |  
+| ^^            | [renshuu](https://www.renshuu.org/) |
 
 
 ### Course Sites
