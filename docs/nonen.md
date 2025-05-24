@@ -480,6 +480,10 @@ All websites listed here use slow host sites to store files, unless noted otherw
 |-|-|
 | Manhwa | [Manga View Android](https://junheah.github.io/MangaViewAndroid/) |
 
+## Lithuanian
+
+### Anime
+- [Animesub.lt](https://animesub.lt/)
 
 ## Polish
 
