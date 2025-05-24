@@ -1,0 +1,139 @@
+<!--
+  Copyright (c) 2025 taskylizard
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<script setup lang="ts">
+defineProps<{
+  isOpen: boolean
+}>()
+
+defineEmits<{
+  (e: 'close'): void
+}>()
+
+const sections = [
+  {
+    title: 'Frequent',
+    items: [
+      { icon: 'i-twemoji-glowing-star', label: 'Favorite' },
+      { icon: 'i-material-symbols-directions-alt', label: 'Proxies' },
+      { icon: 'i-material-symbols-person-add', label: 'Needs account' },
+      { icon: 'i-material-symbols-help', label: 'Help / Docs' },
+      { icon: 'i-mdi-arrow-right-bold', label: 'Related' }
+    ]
+  },
+  {
+    title: 'Type',
+    items: [
+      {
+        icon: 'i-material-symbols-cloud-download-outline-rounded',
+        label: 'Online / DDL'
+      },
+      { icon: 'i-lucide-magnet', label: 'Torrent / p2p' },
+      { icon: 'i-iconoir-floppy-disk', label: 'Local' }
+    ]
+  },
+  {
+    title: 'Price',
+    items: [
+      { icon: 'i-ic-round-attach-money', label: 'Paid' },
+      { icon: 'i-ic-round-currency-exchange', label: 'Subscription' },
+      { icon: 'i-akar-icons-coin', label: 'Coin / Point' },
+      { icon: 'i-ic-round-add-shopping-cart', label: 'Freemium' }
+    ]
+  },
+  {
+    title: 'Source',
+    items: [{ icon: 'i-material-symbols-lock-outline', label: 'Closed Source' }]
+  },
+  {
+    title: 'Others',
+    items: [
+      { icon: 'i-material-symbols-science', label: 'Nightly build' },
+      { icon: 'i-lucide-mail', label: 'Feedback' },
+      { icon: 'i-material-symbols-info-outline-rounded', label: 'More Info' }
+    ]
+  }
+]
+</script>
+
+<template>
+  <Teleport to="body">
+    <Transition name="modal">
+      <div
+        v-if="isOpen"
+        class="fixed inset-0 z-9999 p-4 sm:p-6 overflow-y-auto"
+      >
+        <!-- Backdrop -->
+        <div
+          class="fixed inset-0 bg-black/50 backdrop-blur-sm"
+          @click="$emit('close')"
+        />
+
+        <!-- Modal -->
+        <div
+          class="relative mx-auto bg-$vp-c-bg rounded-lg border-2 border-$vp-c-default-soft p-4 sm:p-6 shadow-xl w-full max-w-4xl mt-16 mb-8"
+        >
+          <div class="flex justify-between items-center mb-4 sm:mb-6">
+            <h2 class="text-$vp-c-text-1 text-lg sm:text-xl font-bold">
+              Legend
+            </h2>
+            <button
+              class="text-$vp-c-text-2 hover:text-$vp-c-text-1 transition-colors p-1"
+              @click="$emit('close')"
+            >
+              <div class="i-material-symbols-close text-lg" />
+            </button>
+          </div>
+
+          <div class="space-y-8">
+            <div v-for="section in sections" :key="section.title">
+              <h3 class="text-$vp-c-text-1 font-bold mb-3">
+                {{ section.title }}
+              </h3>
+              <div
+                class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-2"
+              >
+                <div
+                  v-for="item in section.items"
+                  :key="item.label"
+                  class="flex flex-col items-center justify-center p-3 rounded-lg bg-$vp-c-bg-alt hover:bg-$vp-c-bg-elv transition-colors"
+                >
+                  <div
+                    :class="[item.icon, 'text-2xl mb-1 text-$vp-c-text-1']"
+                  />
+                  <div class="text-$vp-c-text-2 text-xs text-center">
+                    {{ item.label }}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </Transition>
+  </Teleport>
+</template>
+
+<style scoped>
+.modal-enter-active,
+.modal-leave-active {
+  transition: opacity 0.3s ease;
+}
+
+.modal-enter-from,
+.modal-leave-to {
+  opacity: 0;
+}
+</style>

@@ -14,31 +14,33 @@
   limitations under the License.
 -->
 <script setup lang="ts">
-import Field from './CardField.vue'
+import { ref } from 'vue'
+
+import LegendModal from './LegendModal.vue'
+
+const isModalOpen = ref(false)
+
+const focusLegendModal = () => {
+  isModalOpen.value = true
+}
 </script>
 
 <template>
   <div
     class="bg-$vp-c-bg hover:bg-$vp-c-bg/40 border-$vp-c-default-soft hover:border-primary transition-border relative z-0 rounded-lg border-2 border-solid p-5 duration-500 mt-2"
   >
-    <div class="align-center mb-4 flex justify-between">
-      <div class="text-$vp-c-text-1 lh-relaxed text-sm font-bold">Legend</div>
-    </div>
-    <Field icon="i-twemoji-glowing-star">Favorite</Field>
-    <Field icon="i-material-symbols-lock-outline">Closed Source</Field>
-    <Field icon="i-ic-round-attach-money">Paid</Field>
-    <Field icon="i-ic-round-currency-exchange">Subscription</Field>
-    <Field icon="i-akar-icons-coin">Coin / Point</Field>
-    <Field icon="i-ic-round-add-shopping-cart">Freemium</Field>
-    <Field icon="i-material-symbols-cloud-download-outline-rounded">Online / DDL</Field>
-    <Field icon="i-lucide-magnet">Torrent / p2p</Field>
-    <Field icon="i-iconoir-floppy-disk">Local</Field>
-    <Field icon="i-material-symbols-science">Nightly build</Field>
-    <Field icon="i-lucide-mail">Feedback</Field>
-    <Field icon="i-material-symbols-directions-alt">Proxies</Field>
-    <Field icon="i-material-symbols-help">Help / Docs</Field>
-    <Field icon="i-material-symbols-person-add">Needs account</Field>
-    <Field icon="i-material-symbols-info-outline-rounded">More Info</Field>
-    <Field icon="i-mdi-arrow-right-bold">Related</Field>
+    <button class="w-full text-left" @click="isModalOpen = true">
+      <div class="align-center flex items-center gap-2">
+        <div
+          class="i-material-symbols-info-outline-rounded text-$vp-c-text-2"
+        />
+        <div class="text-$vp-c-text-1 lh-relaxed text-sm font-bold">Legend</div>
+      </div>
+      <div class="text-$vp-c-text-2 text-xs mt-1">
+        Click to view all icons and their meanings
+      </div>
+    </button>
+
+    <LegendModal :is-open="isModalOpen" @close="isModalOpen = false" />
   </div>
 </template>
