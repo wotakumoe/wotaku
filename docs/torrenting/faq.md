@@ -2,7 +2,7 @@
 title: FAQs
 customDescription: Common questions about torrenting
 og:
-    image: https://files.catbox.moe/d3zs1e.png
+    image: https://files.catbox.moe/36tr6c.png
 ---
 
 
