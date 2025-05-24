@@ -135,7 +135,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | **Websites** | [AniList](https://anilist.co/) |
 | ^^         | [MyAnimeList](https://myanimelist.net/) |
 | ^^         | [aniDB](https://anidb.net/) |
-| ^^         | [Mangaupdates](https://www.mangaupdates.com/) |
+| ^^         | [MangaUpdates](https://www.mangaupdates.com/) |
 | **Software** | [Android trackers](/software#trackers) |
 | ^^         | [iOS trackers](/software#trackers-1) |
 | ^^         | [PC trackers](/software#trackers-2) |

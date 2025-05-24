@@ -41,8 +41,8 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 
 ### Manga & LN
 - [Manba](https://manba.co.jp/) :s::fjp:
-- [Mangaupdates](https://www.mangaupdates.com/) :s:
-- [MangaBaka](https://mangabaka.dev/)
+- [MangaUpdates](https://www.mangaupdates.com/) :s:
+- [MangaBaka](https://mangabaka.dev/) :s:
 - [Novel updates](https://www.novelupdates.com/)
 - [RanobeDB](https://ranobedb.org/) [:gh:](https://github.com/Blastose/ranobedb)
 - [Ranobe Mori](https://ranobe-mori.net/) :fjp:
