@@ -93,10 +93,10 @@ og:
 :::
 | Source | Website |
 |-|-|
-| Toomics.com | [Hotcomics](https://hotcomics.io/en) :s::fm: [:alt:](https://hotcomics.me/en/) |
-| ^^          | [Heytoon](https://heytoon.net/en/) :fm: |
-| DayComcis.com | [DayComics](https://daycomics.me/) :fm: |
-| ^^            | [Webtooni](https://webtooni.net/en/) :fm: ==webtooni== |
+| Toomics.com | [Hotcomics](https://hotcomics.io/en) :s::fm::sub: [:alt:](https://hotcomics.me/en/) |
+| ^^          | [Heytoon](https://heytoon.net/en/) :fm::sub: |
+| DayComcis.com | [DayComics](https://daycomics.me/) :fm::sub: |
+| ^^            | [Webtooni](https://webtooni.net/en/) :fm::sub: ==webtooni== |
 
 ### Scanlators {open}
 - [The Blank](https://mangadex.org/group/d53b6ec6-bbbf-4fad-a254-2b7ddda84c2c/the-blank) :s: [:web:](https://theblank.net/)

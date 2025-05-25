@@ -181,13 +181,13 @@ ___
 | ^^ | [Anime Corner](https://animecorner.me/) :s: [:x:](https://x.com/animecorner_ac) |  
 | ^^ | [Anime Freaks](https://times.abema.tv/anime) :fjp: |  
 | ^^ | [Anime News by AIR](https://x.com/AIR_News01) :x: |  
-| ^^ | [Animenomics](https://news.animenomics.com/) :fm: |  
+| ^^ | [Animenomics](https://news.animenomics.com/) :fm::sub: |  
 | ^^ | [Anitrendz](https://anitrendz.net/news/) [:x:](https://x.com/anitrendz) |  
 | ^^ | [AnimeTV](https://animetv-jp.net/) [:x:](https://x.com/animetv_jp) |  
 | ^^ | [Eiga](https://anime.eiga.com/) :fjp: |  
 | ^^ | [English Dubbed Anime Lovers](https://english-dubbed.com/) |  
 | ^^ | [Toonami Squad](https://toonamisquad.com/) [:x:](https://x.com/ToonamiSquad) |  
-| **Blog / Interview** | [Animation Obsessive](https://animationobsessive.substack.com/) :fm: [:x:](https://x.com/ani_obsessive) |  
+| **Blog / Interview** | [Animation Obsessive](https://animationobsessive.substack.com/) :fm::sub: [:x:](https://x.com/ani_obsessive) |  
 | ^^ | [Anime Herald](https://www.animeherald.com/) |  
 | ^^ | [Animétudes](https://animetudes.com/) :s: |  
 | ^^ | [artist_unknown](https://artistunknown.info/) |  

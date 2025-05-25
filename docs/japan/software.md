@@ -181,7 +181,7 @@ ___
 - [ASB Auto Subs](https://github.com/GodPepe7/asb-auto-subs) :ff::cr:<tooltip>Jimaku subs in anime sites</tooltip>
 - [Japanese.io](https://www.japanese.io/) :cr:<tooltip>Pop-up dictionary</tooltip>
 - [jimaku player](https://github.com/sheodox/jimaku-player) :js:<tooltip>Custom subs for CR</tooltip>
-- [Language Reactor](https://www.languagereactor.com/) :cr::fm:<tooltip>Pop-up dictionary & immersion helper</tooltip>
+- [Language Reactor](https://www.languagereactor.com/) :cr::fm::sub:<tooltip>Pop-up dictionary & immersion helper</tooltip>
 - [mirigana](https://github.com/mirigana/mirigana) :ff::cr:<tooltip>Insert furigana on Twitter</tooltip>
 - [JPDB Web Reader](https://github.com/max-kamps/jpd-breader) :ff::cr:
 - [Rikaikun](https://github.com/melink14/rikaikun) :cr:<tooltip>Pop-up dictionary</tooltip>

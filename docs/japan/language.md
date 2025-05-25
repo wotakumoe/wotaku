@@ -107,8 +107,8 @@ If you're knowledgeable in Japanese, consider contributing to the wiki. We could
 
 ### Practice
 - [Kotobaweb](https://kotobaweb.com/)
-- [Wanikani](https://www.wanikani.com/) :fm:
-- [NativShark](https://www.nativshark.com/) :fm:
+- [Wanikani](https://www.wanikani.com/) :fm::sub:
+- [NativShark](https://www.nativshark.com/) :fm::sub:
 - [Kanji Garden](https://kanji.garden/)
 - [Kanji Koohii](https://kanji.koohii.com/)
 - [Kenji Sugimoto](https://www.kenjisugimoto.com/shuji/index.html?shuji=%E3%81%8A%E6%89%8B%E6%9C%AC)

@@ -167,13 +167,13 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.github.
 - [Paperback](https://paperback.moe/) [:gh:](https://github.com/Paperback-iOS/app) [:e:](/guides/ext/ios#paperback)
 - [Aidoku](https://aidoku.app/) [:gh:](https://github.com/Aidoku/Aidoku) [:e:](/guides/ext/ios#aidoku)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi)
-- [Tachimanga](https://tachimanga.app/) :fm::cs: [:e:](https://tachimanga.app/help/guides/adding-repos.html)
+- [Tachimanga](https://tachimanga.app/) :fm::sub::cs: [:e:](https://tachimanga.app/help/guides/adding-repos.html)
 - [Suwatte](https://suwatte.mantton.com/) [:gh:](https://github.com/Suwatte/Suwatte) [:e:](/guides/ext/ios#suwatte) <Badge type="tip" text="Converter" link="https://seyden.github.io/SuwatteConverter/suwatte" />
 - [Hanami](https://github.com/oolxg/Hanami)
 
 ### Local
 - [YACReader](https://apps.apple.com/app/id635717885) :s::paid::cs: [:tf:](https://testflight.apple.com/join/5zhB7sRP)
-- [Panels](https://apps.apple.com/us/app/panels-comic-reader/id1236567663) :fm::cs:
+- [Panels](https://apps.apple.com/us/app/panels-comic-reader/id1236567663) :fm::sub::cs:
 - [iComics](https://apps.apple.com/us/app/icomics/id493845493) :paid::cs:
 - [SideBooks](https://apps.apple.com/us/app/sidebooks/id409777225) :cs:
 
@@ -197,12 +197,12 @@ or buy an Android phone :ic-twotone-thumb-up:
 | Category       | Name & Links |
 |---------------|-------------|
 | **AniList**   | [AniHyou](https://apps.apple.com/us/app/anihyou-anilist-client/id1635777325) [:gh:](https://github.com/axiel7/AniHyou-iOS) |
-| ^^           | [MyAniList](https://apps.apple.com/us/app/myanilist/id741257899) :cs::fm: |
+| ^^           | [MyAniList](https://apps.apple.com/us/app/myanilist/id741257899) :cs::fm::sub: |
 | ^^           | [Otraku](https://github.com/lotusprey/otraku) |
 | ^^           | [Risuto](https://apps.apple.com/us/app/risuto-for-anilist/id6455685990) :cs: |
-| ^^           | [Ryuusei](https://apps.apple.com/us/app/ryuusei-for-anilist/id1347721581) :cs::fm: |
+| ^^           | [Ryuusei](https://apps.apple.com/us/app/ryuusei-for-anilist/id1347721581) :cs::fm::sub: |
 | **MyAnimeList** | [Kitsune](https://apps.apple.com/us/app/kitsune-for-myanimelist/id6466716447) :cs: |
-| ^^           | [ManGo](https://apps.apple.com/us/app/mango-anime-manga-tracker/id1604385869) :cs::fm: |
+| ^^           | [ManGo](https://apps.apple.com/us/app/mango-anime-manga-tracker/id1604385869) :cs::fm::paid::sub: |
 | ^^           | [MyAnimeList Official](https://apps.apple.com/us/app/myanimelist-official/id1469330778) :cs: |
 
 

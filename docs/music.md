@@ -56,13 +56,13 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 
 | Service | Price | Lossy | Lossless | Others | Focus |
 |-|-|-|-|-|-|
-| [Amazon Music](https://music.amazon.com/) | :paid: | Opus 320 | 24/192 | Dolby Atmos, Sony 360 | General |
-| [Apple Music](https://music.apple.com/) | :paid: | AAC 256 | 24/192 | Dolby Atmos | General |
-| [Deezer](https://www.deezer.com/) | :paid:<sup>1</sup> | MP3 320 | 16/44.1 | :no: | General |
-| [Qobuz](https://play.qobuz.com/) | :paid: | MP3 320 | 24/192 | :no: | Western |
-| [Spotify](https://spotify.com/) | :fm: | [Varies](https://support.spotify.com/bd-en/article/audio-quality/) | 16/44.1<sup>2</sup> | :no: | General |
-| [Tidal](https://tidal.com/) | :paid: | AAC 320 | 24/192 | Dolby Atmos | Western |
-| [YouTube Music](https://music.youtube.com/) | :fm: | Opus 256 | :no: | :no: | General |
+| [Amazon Music](https://music.amazon.com/) | :sub: | Opus 320 | 24/192 | Dolby Atmos, Sony 360 | General |
+| [Apple Music](https://music.apple.com/) | :sub: | AAC 256 | 24/192 | Dolby Atmos | General |
+| [Deezer](https://www.deezer.com/) | :sub:<sup>1</sup> | MP3 320 | 16/44.1 | :no: | General |
+| [Qobuz](https://play.qobuz.com/) | :sub: | MP3 320 | 24/192 | :no: | Western |
+| [Spotify](https://spotify.com/) | :fm::sub: | [Varies](https://support.spotify.com/bd-en/article/audio-quality/) | 16/44.1<sup>2</sup> | :no: | General |
+| [Tidal](https://tidal.com/) | :sub: | AAC 320 | 24/192 | Dolby Atmos | Western |
+| [YouTube Music](https://music.youtube.com/) | :fm::sub: | Opus 256 | :no: | :no: | General |
 
 ### Purchase
 
@@ -247,7 +247,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^                 | [Skiley](https://skiley.net/) :s::fm: |
 | ^^                 | [Spotify Playlist Archive](https://spotifyplaylistarchive.com/) [:gh:](https://github.com/mackorone/spotify-playlist-archive) |
 | ^^                 | [Spotify Release List](https://spotifyreleaselist.netlify.app/) [:gh:](https://github.com/jakubito/spotify-release-list) |
-| ^^                 | [Volt.fm](https://volt.fm/) :s::fm: |
+| ^^                 | [Volt.fm](https://volt.fm/) :s::fm::sub: |
 | **Tools**          | [Exportify](https://exportify.app/) [:gh:](https://github.com/watsonbox/exportify) |
 | ^^                 | [MixMoose](https://mixmoose.com/) |
 | ^^                 | [Lyricpost](https://palinkiewicz.github.io/lyricpost/) [:gh:](https://github.com/palinkiewicz/lyricpost) |

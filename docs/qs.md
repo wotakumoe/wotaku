@@ -79,9 +79,9 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | **Dedicated** | [Anithemes.moe](https://animethemes.moe/) :s: [:gh:](https://github.com/AnimeThemes) |
 | ^^         | [Karaoke Mugen](https://kara.moe) |
 | ^^         | [Anisong Database](https://anisongdb.com/) [:gh:](https://github.com/xSardine/AMQ-Artists-DB) |
-| **General** | [YouTube Music](https://music.youtube.com/) :fm: |
+| **General** | [YouTube Music](https://music.youtube.com/) :fm::sub: |
 | ^^         | [Apple Music](https://music.apple.com/) :paid: |
-| ^^         | [Spotify](https://spotify.com/) :fm: |
+| ^^         | [Spotify](https://spotify.com/) :fm::sub: |
 
 ### Download
 
