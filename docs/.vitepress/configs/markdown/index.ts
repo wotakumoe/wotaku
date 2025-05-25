@@ -262,7 +262,7 @@ const tooltips: {
       "Due to Spotify changes, it doesn't work well in a lot of regions. Switch to echo."
   },
   Nicotine: {
-    content: 'Direct peer-to-peer sharing network, primarily used for music.'
+    content: 'A client for the Soulseek peer-to-peer file sharing network, primarily used for music.'
   },
   Koisuru: {
     content:
