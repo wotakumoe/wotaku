@@ -78,6 +78,7 @@ const aliases: Record<string, string> = {
   // Price
   paid: 'ic-round-attach-money',
   fm: 'ic-round-add-shopping-cart',
+  free: 'ic-round-money-off-csred',
   sub: 'ic-round-currency-exchange',
   coin: 'akar-icons-coin',
 

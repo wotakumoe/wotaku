@@ -183,6 +183,7 @@ To learn, how to add tooltips, [click here](#tooltip).
 |-|-|-|
 | :paid: | `:paid:` | Paid |
 | :sub: | `:sub:` | Subscription |
+| :free: | `:free:` | Has free content |
 | :coin: | `:coin:` | Coin / Point |
 | :fm: | `:fm:` | Freemium |
 

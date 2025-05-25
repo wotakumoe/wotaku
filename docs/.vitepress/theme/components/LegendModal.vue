@@ -68,8 +68,9 @@ const sections = [
     items: [
       { icon: 'i-ic-round-attach-money', label: 'Paid' },
       { icon: 'i-ic-round-currency-exchange', label: 'Subscription' },
+      { icon: 'i-ic-round-money-off-csred', label: 'Has free content' },
       { icon: 'i-akar-icons-coin', label: 'Coin / Point' },
-      { icon: 'i-ic-round-add-shopping-cart', label: 'Freemium' }
+      { icon: 'i-ic-round-add-shopping-cart', label: 'Freemium' },
     ]
   },
   {
