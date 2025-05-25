@@ -189,7 +189,7 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 - [Sonic Stadium](https://www.sonicstadium.org/)
 
 ### Media
-- [Astro Museum's Sonic Zone](https://astromuseum.org/sonicZone/SonicZone)
+- [Astro Museum's Sonic Zone](https://astromuseum.org/sonicZone/main)
 - [Grabber Zone](https://grabber.zone/)
 - [Sonic Zone](https://soniczone.net/index.html)
 
