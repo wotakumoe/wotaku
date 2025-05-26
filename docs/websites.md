@@ -319,15 +319,16 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 
 - [Novel Updates](https://www.novelupdates.com/)
 - [Baka-tsuki](https://www.baka-tsuki.org/project/index.php?title=Main_Page)
-- [Novel Full](https://novelfull.net/) [:prx:](https://rentry.org/wotaxy#novel-full)
-- [Novel Bin](https://novelbin.com/) [:alt:](https://novelbin.me/)
+- [Novel Bin](https://novelbin.com/) [:prx:](https://rentry.org/wotaxy#novel-bin)
 - [Novel Buddy](https://novelbuddy.com/home) [:alt:](https://novelbuddy.io/home)
 - [VyNovel](https://vynovel.com/)
 - [NovelFire](https://novelfire.net/home)
 
 :::details More
-- [Nov Love](https://novlove.com/)
-- [Free web novel](https://freewebnovel.com/)
+- [All Novel](https://allnovel.org/)
+- [Novel Full](https://novelfull.net/)
+- [Read Novel Full](https://readnovelfull.com/)
+- [Free Web Novel](https://freewebnovel.com/)
 - [Light Novel Heaven](https://lightnovelheaven.com/)
 - [WuxiaClick](https://wuxia.click/) [:alt:](https://readnovel.eu/)
 - [Novel Cool](https://www.novelcool.com/)
