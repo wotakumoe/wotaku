@@ -525,6 +525,7 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 ## Novels
 
 - [BookWalker](https://global.bookwalker.jp/)
+- [Cross Infinite World](https://www.crossinfworld.com/index.html)
 - [Dark Horse Comics](https://www.darkhorse.com/)
 - [J-Novel Club](https://j-novel.club/)
 - [Kodansha](https://kodansha.us/)
