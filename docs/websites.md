@@ -141,7 +141,7 @@ outline: 1
 | ^^ | [AnimeOut](https://www.animeout.xyz/) :ddl::acc: [:alt:](https://animewat.ch/) |
 | ^^ | [Chauthanh](https://chauthanh.info/) :ddl::acc: |
 | ^^ | [hi10anime](https://hi10anime.com/) :ddl::mag::acc::batch: |
-| **Subtitles** | [Closed Caption Browser](https://cc.edatribe.com/#/) <Badge type="info" text="Dubtitles" /> |
+| **Subtitles** | [Anime Tosho](https://animetosho.org/) |
 | ^^ | [Open Subtitles](https://opensubtitles.org/) |
 
 ::: tip Batch Downloading from Google Drive
