@@ -199,7 +199,7 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 - [MangaDex](https://mangadex.org/) [:rss:](https://mdrss.tijlvdb.me/) ==MangaDex==  
 - [Manga Katana](https://mangakatana.com/)
 - [Novelmic](https://novelmic.com/) <Badge type="info" text="Manhua" />
-- [Mangahasu](https://mangahasu.se/)
+- [MangaHasu](https://mangahasu.me/)
 - [Mangahub](https://mangahub.io/) :acc:
 - [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy)
 - [Dynasty Reader](https://dynasty-scans.com/) 
@@ -299,7 +299,6 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 | [Tritinia Scans](https://tritinia.org/) | :fjp::fcn::fkr: | - | [URL](https://www.mangaupdates.com/group/zfxsenj/tritinia-scans) |
 | [UTOON](https://utoon.net/) :coin: ==utoon== | :fjp::fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/mtcug74/utoon) |
 | [Zero Scans](https://zscans.com/) | :fkr::fcn: | [URL](https://mangadex.org/group/dd0a3018-21f1-4488-948c-08499b179fcf/zero-scans) | [URL](https://www.mangaupdates.com/group/vlkvmk7/zero-scans-discord) |
-| [xCaliBR Scans](https://xcalibrscans.com/webcomics/) | :fcn: | - | [URL](https://www.mangaupdates.com/group/ynopo9s/cursed-xcalibr) |
 
 :::
 
