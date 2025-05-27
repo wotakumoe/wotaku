@@ -39,12 +39,14 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 - [Anisil](https://www.anisil.com/) :fjp:
 - [SIMKL](https://simkl.com/)
 
-### Manga & LN
-- [Manba](https://manba.co.jp/) :s::fjp:
+### Manga
 - [MangaUpdates](https://www.mangaupdates.com/) :s:
 - [MangaBaka](https://mangabaka.dev/) :s:
-- [Novel updates](https://www.novelupdates.com/)
-- [RanobeDB](https://ranobedb.org/) [:gh:](https://github.com/Blastose/ranobedb)
+- [Manba](https://manba.co.jp/) :fjp:
+
+### Novels
+- [Novel Updates](https://www.novelupdates.com/) :s:
+- [RanobeDB](https://ranobedb.org/) :s: [:gh:](https://github.com/Blastose/ranobedb)
 - [Ranobe Mori](https://ranobe-mori.net/) :fjp:
 - [Bookmeter](https://bookmeter.com/) :fjp:
 - [Goodreads](https://www.goodreads.com/)
