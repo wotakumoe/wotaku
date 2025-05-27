@@ -235,13 +235,14 @@ If you have recommendations for good sites in your native language or want to re
 - [Japscan](https://www.japscan.lol/)
 - [LPEBK](https://www.lpebk.com/forumv2/) :ddl::acc:
 - [Mangadraft](https://www.mangadraft.com/)
+- [Mangakawaii](https://www.mangakawaii.io/)
 - [Planete-BD](https://planete-bd.org/)
 - [Raijin Scans](https://raijinscans.net/)
 - [Sushi-Scan](https://sushiscan.net/)
 
 ### Others
 - [Hyakanime](https://hyakanime.fr/)
-- [Kibo](https://www.kiboanime.app/)
+- [Kibo Anime](https://www.kiboanime.app/)
 
 
 ## German
