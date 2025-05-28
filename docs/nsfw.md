@@ -73,18 +73,18 @@ og:
 
 ### Aggregator
 - [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) :ddl:
-- [Batoto](https://battwo.com/v3x)  [:prx:](https://rentry.co/batoto)
+- [Batoto](https://battwo.com/v3x) [:prx:](https://rentry.co/batoto)
 - [Doujindesu](https://doujindesu.tv/) :fjp::fkr:
 - [Hiperdex](https://hiperdex.com/)
-- [Manga District](https://mangadistrict.com/) :s:
+- [Manga District](https://mangadistrict.com/)
 - [Manhwa18](http://manhwa18.com/)
 - [Manhwa-raw](https://manhwa-raw.com/) +:fkr:
 - [Manhwas](https://manhwas.men/) +:fkr:
-- [Manytoon](https://manytoon.com/) :s:
-- [Oppai](https://read.oppai.stream/) :s: ==Oppai==
+- [Manytoon](https://manytoon.com/)
+- [Oppai](https://read.oppai.stream/) ==Oppai==
 - [RawDEX](https://rawdex.net/) :fkr:
 - [Sauce Manhwa](https://saucemanhwa.org/) +:fkr:
-- [Toonily](https://toonily.com/) :s:
+- [Toonily](https://toonily.com/)
 - [Webtoon](https://www.webtoon.xyz/)
 
 ### Official Look-alikes
@@ -99,8 +99,8 @@ og:
 | ^^            | [Webtooni](https://webtooni.net/en/) :fm::sub: ==webtooni== |
 
 ### Scanlators {open}
-- [The Blank](https://mangadex.org/group/d53b6ec6-bbbf-4fad-a254-2b7ddda84c2c/the-blank) :s: [:web:](https://theblank.net/)
-- [Omega scans](https://mangadex.org/group/8295f3f9-7462-403b-8fc0-f93a6c245a5c/omegascans) :s: [:web:](https://omegascans.org/)
+- [The Blank](https://mangadex.org/group/d53b6ec6-bbbf-4fad-a254-2b7ddda84c2c/the-blank) [:web:](https://theblank.net/)
+- [Omega scans](https://mangadex.org/group/8295f3f9-7462-403b-8fc0-f93a6c245a5c/omegascans) [:web:](https://omegascans.org/)
 - [Constellar Scans](https://constellarcomic.com/)
 - [Lunar Scans](https://lunarscan.org/)
 - [Acera the great](https://mangadex.org/group/ea35447d-5035-485f-8eda-841bafc4b215/acerathegreat)
@@ -112,7 +112,7 @@ og:
 ## Illustrations
 
 ### Self Hosted
-- [Danbooru](https://danbooru.donmai.us/)
+- [Danbooru](https://danbooru.donmai.us/) :s:
 - [Gelbooru](https://gelbooru.com/) :s:
 - [Hentai Game CG](https://hentaigamecg.com/)
 - [Konachan](https://konachan.com/)
