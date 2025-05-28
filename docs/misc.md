@@ -258,7 +258,9 @@ ___
 | ^^        | [anime.plus](https://anime.plus/) [:gh:](https://github.com/anime-plus/graph) | :mal: |  
 | ^^        | [KitsuStats](https://drumber.github.io/KitsuStats/#/) [:gh:](https://github.com/Drumber/KitsuStats) | :k: |  
 | ^^        | [MAL Badges](https://www.mal-badges.com/) | :mal: |  
-| **Tools** | [AniTools](https://anitools.koopz.rocks/) | :al: |  
+| **Tools** | [Anicheck](https://anicheck.moe/) [:gh:](https://github.com/gubo97000/aniCheck) | :al: |
+| ^^        | [Anipool](https://www.anipool.app/) | :al::mal: |
+| ^^        | [AniTools](https://anitools.koopz.rocks/) | :al: |  
 | ^^        | [aniTrakt](https://anitrakt.huere.net/) [:gh:](https://github.com/ryuuganime/aniTrakt-IndexParser) | :mal: |  
 | ^^        | [MAL Exporter](https://malscraper.azurewebsites.net/) | :mal::al::k: |  
 
