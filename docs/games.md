@@ -69,6 +69,7 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 
 ### Misc
 - [Arks-Layer](https://arks-layer.com/index.php)
+- [Collapse Launcher](https://collapselauncher.com/) [:gh:](https://github.com/CollapseLauncher/Collapse)
 - [Hoyolab Auto-sign](https://github.com/canaria3406/hoyolab-auto-sign)
 - [Locale Emulator](https://github.com/xupefei/Locale-Emulator)
 - [Locale Remulator](https://github.com/InWILL/Locale_Remulator)
