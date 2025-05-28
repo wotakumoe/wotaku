@@ -14,7 +14,7 @@ The basic process:
 1. Copy the download link
 2. Put it in the stream button
 
-You can't play videos from some sources like Google drive, Mega etc. For this example, we will use [Tokyo Insider](https://www.tokyoinsider.com/). You can get more good **Direct Download** websites [**here**](/websites#anime).
+You can't play videos from some sources like Google drive, Mega etc. For this example, we will use [Tokyo Insider](https://www.tokyoinsider.com/).
 
 <div class="video_wrapper"><iframe src="https://youtube.com/embed/1dsTb8YoNDM" frameborder="0" allowfullscreen></iframe></div>
 
