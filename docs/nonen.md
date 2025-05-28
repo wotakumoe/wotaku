@@ -230,6 +230,9 @@ If you have recommendations for good sites in your native language or want to re
 - [Voiranime](https://v6.voiranime.com/) <Badge type="tip" text="Extension" link="https://github.com/Dastan21/BetterVoirAnime" />
 - [Vostfree](https://vostfree.ws/)
 
+#### Software
+- [Kibo Anime](https://www.kiboanime.app/) :win::and::app::lin:
+
 ### Manga
 
 - [Japscan](https://www.japscan.lol/)
@@ -242,7 +245,6 @@ If you have recommendations for good sites in your native language or want to re
 
 ### Others
 - [Hyakanime](https://hyakanime.fr/)
-- [Kibo Anime](https://www.kiboanime.app/)
 
 
 ## German
@@ -517,13 +519,12 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [AnimesROLL](https://www.anroll.net/)
 - [Better Anime](https://betteranime.net/)
 - [Geekdot](https://geekdot.live/)
-- [Hinata Soul](https://www.hinatasoul.net/)
+- [Hinata Soul](https://www.hinatasoul.com/)
 - [HentaisTube](https://www.hentaistube.com/) :ero:
 - [:tg: Toonami na Era do Telegram](https://t.me/toonamibr)
 
 #### Software
 - [GoAnime](https://github.com/alvarorichard/GoAnime) :win::cmd:
-- [Tomato](https://play.google.com/store/apps/details?id=com.tomatos.clientapp) :and::cs:
 
 ### Manga
 - [Ler Mangas](https://lermangas.me/)
