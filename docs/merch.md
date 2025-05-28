@@ -84,6 +84,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 | ^^        | [Dengeki Hobby Web](https://hobby.dengeki.com/) |
 | **Anime** | [Anime-DB](https://anime.dbsearch.net/) :fjp: |
 | ^^        | [Blu-ray.com](https://www.blu-ray.com/) |
+| ^^      | [Sumikko Anime](https://anime.sumikko.info/) :fjp: [:rss:](https://anime.sumikko.info/rss.xml) |
 | ^^        | [Upcoming English Dubbed Releases](https://english-dubbed.com/anime-releases/upcoming-english-dubbed-release-dates/) |
 | **Figures** | [Figgy](https://www.figgy.jp/) :fjp: <Badge text="General" /> |
 | ^^        | [Figgy Adult](https://adult.figgy.jp/) :fjp::ero: <Badge text="Bishoujo" /> |

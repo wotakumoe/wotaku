@@ -138,10 +138,11 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^      | [Otaku Calendar](https://otakucalendar.com/Release/?filterCategory=2) :s: [:rss:](https://otakucalendar.com/rss) |
 | ^^      | [Yatta-Tachi](https://yattatachi.com/tag/releases) | 
 | Manga   | [Von's Manga Calendar](https://v0n.notion.site/Manga-297a9ad3a4904173b3a4ce319f9b2879) |
-| ^^      | [Sumikko](https://comic.sumikko.info/) :s: :fjp: [:rss:](https://comic.sumikko.info/rss.xml) |
-| Light Novel | [RanobeDB](https://ranobedb.org/releases) [:gh:](https://github.com/Blastose/ranobedb) |
+| ^^      | [Sumikko Comic](https://comic.sumikko.info/) :fjp: [:rss:](https://comic.sumikko.info/rss.xml) |
+| Light Novel | [RanobeDB](https://ranobedb.org/releases) :s: [:gh:](https://github.com/Blastose/ranobedb) |
 | ^^      | [Light Novel Releases](https://lnrelease.github.io/) [:gh:](https://github.com/LNRelease/lnrelease.github.io) |
-| ^^      | [r/LightNovels upcoming releases](https://old.reddit.com/r/LightNovels/wiki/upcomingreleases/) |
+| ^^      | [Sumikko Novel](https://novel.sumikko.info/) :fjp: [:rss:](https://novel.sumikko.info/rss.xml) |
+| ^^      | [Sumikko Bunko](https://bunko.sumikko.info/) :fjp: [:rss:](https://bunko.sumikko.info/rss.xml) |
 
 ___
 #### Publisher
