@@ -113,6 +113,12 @@ outline: 1
 - [Shana Project](https://www.shanaproject.com/)
 - [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](http://tokyo-tosho.net/)
 
+::: details :more: Related resources {open}
+- [Seadex](https://releases.moe/)
+- [Sneedex](https://sneedex.moe/)
+- [A Certain Fansubber's Index](https://index.fansubcar.tel/)
+- [Fansub Database](https://fansubdb.com/)
+:::
 
 ### Direct Download
 

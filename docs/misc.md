@@ -73,13 +73,6 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 
 ## Anime
 
-### Index
-
-- [Seadex](https://releases.moe/)
-- [Sneedex](https://sneedex.moe/)
-- [A Certain Fansubber's Index](https://index.fansubcar.tel/)
-- [Fansub Database](https://fansubdb.com/)
-
 ### Schedule
 
 | Category | Websites |  
