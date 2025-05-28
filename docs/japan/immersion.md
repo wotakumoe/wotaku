@@ -54,7 +54,7 @@ og:
 ### Movies & Drama
 - [Anisub](https://anisub.tv/)
 - [Viki](https://www.viki.com/categories/country/japan/genre/all) :fm::sub: <Badge type="info" text="JP Sub" />
-- [kisskh](https://kisskh.co/) <Badge type="info" text="720p" />
+- [Kisskh](https://kisskh.co/) <Badge type="info" text="720p" /> [:prx:](https://rentry.org/wotaxy#kisskh)
 - [Asiaflix](https://asiaflix.net/home)
 - [SFlix](https://sflix2.to/home) <Badge type="info" text="JP" link="https://sflix2.to/filter?type=all&quality=all&release_year=all&genre=all&country=173" />
 - [Tokuzilla](https://tokuzilla.net/) [:alt:](https://tokuzl.net/)
