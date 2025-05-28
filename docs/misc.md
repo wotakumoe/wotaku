@@ -131,13 +131,18 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 ### Calendar
 
 #### Index
-- [Mynewworm](https://myneworm.katsurin.com/) [:gh:](https://github.com/Butterstroke/Myneworm)
-- [Otaku Calendar](https://otakucalendar.com/Release/?filterCategory=2) :s: [:rss:](https://otakucalendar.com/rss)
-- [Licensed Light Novel Releases](https://lnrelease.github.io/) [:gh:](https://github.com/LNRelease/lnrelease.github.io)
-- [r/LightNovels upcoming releases](https://old.reddit.com/r/LightNovels/wiki/upcomingreleases/)
-- [Sumikko](https://comic.sumikko.info/) :s: :fjp: [:rss:](https://comic.sumikko.info/rss.xml)
-- [Von's Manga Calendar](https://v0n.notion.site/Manga-297a9ad3a4904173b3a4ce319f9b2879)
-- [Yatta-Tachi](https://yattatachi.com/tag/releases)
+
+| Type | Website |
+|-|-|
+| General | [Mynewworm](https://myneworm.katsurin.com/) [:gh:](https://github.com/Butterstroke/Myneworm) |
+| ^^      | [Otaku Calendar](https://otakucalendar.com/Release/?filterCategory=2) :s: [:rss:](https://otakucalendar.com/rss) |
+| ^^      | [Yatta-Tachi](https://yattatachi.com/tag/releases) | 
+| Manga   | [Von's Manga Calendar](https://v0n.notion.site/Manga-297a9ad3a4904173b3a4ce319f9b2879) |
+| ^^      | [Sumikko](https://comic.sumikko.info/) :s: :fjp: [:rss:](https://comic.sumikko.info/rss.xml) |
+| Light Novel | [RanobeDB](https://ranobedb.org/releases) [:gh:](https://github.com/Blastose/ranobedb) |
+| ^^      | [Light Novel Releases](https://lnrelease.github.io/) [:gh:](https://github.com/LNRelease/lnrelease.github.io) |
+| ^^      | [r/LightNovels upcoming releases](https://old.reddit.com/r/LightNovels/wiki/upcomingreleases/) |
+
 ___
 #### Publisher
 - [Azuki](https://www.azuki.co/release-calendar) <Badge type="info" text="CaaS" />
