@@ -30,7 +30,6 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 | [Himitsu](https://repodevil.vercel.app/) [:gl:](https://gitlab.com/RepoDevil/himitsu) [:gh:](https://github.com/RepoDevil/Himitsu) | :ddl::mag: | :mal::al: |
 | [Cloudstream](https://cloudstream.on.fleek.co/) [:e:](/guides/ext/misc#cloudstream) | :ddl::mag: | :mal::al::simkl: |
 | [Shiru](https://github.com/RockinChaos/Shiru) ==Shiru== | :mag: | :mal::al: |
-| [Migu](https://miguapp.pages.dev/) [:gh:](https://github.com/NoCrypt/migu) | :mag: | :mal::al: |
 
 ::: details More
 | App | Source | Tracker |
@@ -215,9 +214,8 @@ or buy an Android phone :ic-twotone-thumb-up:
 
 | Program | OS | Source | Tracker |
 |-|-|-|-|
-| [Miru](https://miru.watch/) :s: [:gh:](https://github.com/ThaUnknown/miru/) | :win::app::lin: | :mag: | :al: |
+| [Miru](https://miru.watch/) [:gh:](https://github.com/ThaUnknown/miru/) | :win::app::lin: | :mag: | :al: |
 | [Shiru](https://github.com/RockinChaos/Shiru) ==Shiru== | :win::app::lin: | :mag: | :mal::al: |
-| [Migu](https://miguapp.pages.dev/) [:gh:](https://github.com/NoCrypt/migu) | :win::app::lin: | :mag: | :mal::al: |
 | [Stremio](https://www.stremio.com/) | :win::app::lin: | :mag::ddl: | :mal::al::k::simkl: |
 | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi) | :win::app::lin: | :mag::ddl: | :mal::al::k: |
 | [Seanime](https://seanime.rahim.app/) | :win::app::lin: | :mag::ddl: | :al: |
