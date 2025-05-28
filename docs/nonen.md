@@ -231,7 +231,7 @@ If you have recommendations for good sites in your native language or want to re
 - [Vostfree](https://vostfree.ws/)
 
 #### Software
-- [Kibo Anime](https://www.kiboanime.app/) :win::and::app::lin:
+- [Kibo](https://www.kiboanime.app/) :win::and::app::lin:
 
 ### Manga
 
