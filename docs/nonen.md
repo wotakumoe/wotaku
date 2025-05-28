@@ -302,6 +302,7 @@ If you have recommendations for good sites in your native language or want to re
 
 - **Stream**
   - [AllWish](https://all-wish.me/home)
+  - [Anime World India](https://watchanimeworld.in/)
   - [Anisaga](https://anisaga.org/)
   - [Toonbaba](https://toonbaba.site/)
   - [ToonStream](https://toonstream.love/)
