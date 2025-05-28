@@ -99,8 +99,8 @@ og:
 | ^^            | [Webtooni](https://webtooni.net/en/) :fm::sub: ==webtooni== |
 
 ### Scanlators {open}
-- [The Blank](https://mangadex.org/group/d53b6ec6-bbbf-4fad-a254-2b7ddda84c2c/the-blank) [:web:](https://theblank.net/)
-- [Omega scans](https://mangadex.org/group/8295f3f9-7462-403b-8fc0-f93a6c245a5c/omegascans) [:web:](https://omegascans.org/)
+- [The Blank](https://theblank.net/) :sub: [mdex](https://mangadex.org/group/d53b6ec6-bbbf-4fad-a254-2b7ddda84c2c/the-blank)
+- [Omega scans](https://omegascans.org/) :sub: [mdex](https://mangadex.org/group/8295f3f9-7462-403b-8fc0-f93a6c245a5c/omegascans)
 - [Constellar Scans](https://constellarcomic.com/)
 - [Lunar Scans](https://lunarscan.org/)
 - [Acera the great](https://mangadex.org/group/ea35447d-5035-485f-8eda-841bafc4b215/acerathegreat)
