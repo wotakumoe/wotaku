@@ -363,7 +363,8 @@ const tooltips: {
   amdl: {content: 'We have not tested their software, use the web downloader for your own security. Best for downloading separate songs instead of albums. For audio quality, use "Original Quality".'},
   webtooni: {content: 'Not uploading for a while.'},
   hef: {content: 'Does not have all the recent fan projects.'},
-  cupscale: {content: 'Cupscale is not good for color and pages with no screentone.'}
+  cupscale: {content: 'Cupscale is not good for color and pages with no screentone.'},
+  kazamakase: {content: 'Does not get much update but has info about old comics.'}
 }
 
 export function configureMarkdown(md: MarkdownRenderer) {
