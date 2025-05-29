@@ -24,6 +24,13 @@ import {
   transformerDirectives
 } from 'unocss'
 
+// Custom icons collection
+const customIcons = {
+  circle:
+    '<svg viewBox="0 0 120 120"><circle cx="60" cy="60" r="50"></circle></svg>'
+  // Add more custom icons here as needed
+}
+
 const safelist = Object.entries(colors).flatMap(([group, shades]) =>
   Object.keys(shades).flatMap((shade) => [
     `text-${group}-${shade}`,
@@ -59,7 +66,8 @@ export default defineConfig({
       },
       warn: true,
       collections: {
-        custom: FileSystemIconLoader(resolve(__dirname, '.docs/public/custom'))
+        custom: FileSystemIconLoader(resolve(__dirname, '.docs/public/custom')),
+        inline: customIcons
       }
     })
   ],

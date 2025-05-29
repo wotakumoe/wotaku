@@ -31,7 +31,7 @@ import { icons as uil } from '@iconify-json/uil'
 import { icons as ri } from '@iconify-json/ri'
 import { icons as akar } from '@iconify-json/akar-icons'
 
-// 1. Install emoji pack with `pnpm add -g @iconify-json/<icon>`
+// 1. Install emoji pack with `pnpm add -D @iconify-json/<icon>`
 // 2. Import them like I did above
 // 3. Add it to this emojis array, like I did for octicon, and add a prefix
 const emojis: { pack: IconifyJSON; prefix?: string }[] = [
@@ -117,7 +117,7 @@ const aliases: Record<string, string> = {
   js: 'simple-icons-javascript',
   css: 'mdi-language-css3',
   dock: 'simple-icons-docker',
-  
+
   // Others
   s: 'twemoji-glowing-star',
   e: 'mdi-puzzle',
@@ -137,13 +137,25 @@ const aliases: Record<string, string> = {
   hs: 'mdi-hulu'
 }
 
+// Custom icons using UnoCSS inline collection
+const customIconAliases: Record<string, string> = {
+  'custom-circle': 'inline-circle'
+  // Add more custom icon aliases here
+}
+
 const defs: Record<string, string> = {}
 
+// Add pack icons to defs
 for (const elem of emojis) {
   for (const key in elem.pack.icons) {
     if (elem.prefix) defs[elem.prefix + key] = ''
     else defs[key] = ''
   }
+}
+
+// Add custom icon aliases to defs
+for (const [alias, _] of Object.entries(customIconAliases)) {
+  defs[alias] = ''
 }
 
 for (const [alias, fullName] of Object.entries(aliases)) {
@@ -155,16 +167,25 @@ export { defs, aliases }
 export function emojiRender(md: MarkdownRenderer) {
   md.renderer.rules.emoji = (tokens, idx) => {
     const markup = tokens[idx].markup
+
+    // Check for custom icon aliases first
+    if (customIconAliases[markup]) {
+      return `<span class="i-${customIconAliases[markup]}"></span>`
+    }
+
+    // Check for aliases
     if (aliases[markup]) {
       return `<span class="i-${aliases[markup]}"></span>`
     }
 
+    // Check for prefixed icons
     for (const emoji of emojis) {
       if (markup.startsWith(emoji.prefix!)) {
         return `<span class="i-${markup}"></span>`
       }
     }
 
+    // Default to twemoji
     return `<span class="i-twemoji-${markup}"></span>`
   }
 }
