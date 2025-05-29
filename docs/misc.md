@@ -40,9 +40,9 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 - [SIMKL](https://simkl.com/)
 
 ### Manga
-- [MangaUpdates](https://www.mangaupdates.com/) :s:
 - [MangaBaka](https://mangabaka.dev/) :s:
-- [Manba](https://manba.co.jp/) :fjp:
+- [MangaUpdates](https://www.mangaupdates.com/) :s:
+- [Manba](https://manba.co.jp/) :s::fjp:
 - [Comic Vine](https://comicvine.gamespot.com/)
 - [Chill Chill](https://www.chil-chil.net/) :ero::fjp:
 - [Kazamkase Comic Database](https://kazemakase.wjg.jp/comics/) ==kazamakase==
