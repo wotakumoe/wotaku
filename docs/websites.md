@@ -52,7 +52,6 @@ outline: 1
 |----------|----------------------|----------------------|--------|
 | [Anime Defenders](https://animedefenders.me/) :ero: | :mingcute-server-fill: | :mingcute-user-2-fill: | :hs: |
 | [AnimeOnsen](https://www.animeonsen.xyz/) | :mingcute-server-fill: | :mingcute-user-2-fill: | :cc: |
-| [AnimeZ](https://animez.org/) ==AnimeZ== | :mingcute-server-fill: | :mingcute-user-2-fill: | :hs: |
 | [Otaku-Streamers](https://beta.otaku-streamers.com/) <Badge type="info" text="Old" link="https://otaku-streamers.com/" /> ==OtakuStreamers== | :mingcute-server-fill: | :mingcute-user-2-fill: | :hs: |
 
 
@@ -209,7 +208,7 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 - [Mangahub](https://mangahub.io/) :acc:
 - [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy)
 - [Dynasty Reader](https://dynasty-scans.com/) 
-- [Like Manga](https://likemanga.in)
+- [Like Manga](https://likemanga.in) [:alt:](https://likemanga.ink/)
 - [Manga Fox](https://mangafox.la/) [:prx:](https://rentry.org/wotaxy#manga-fox)
 - [MangaKakalot](https://www.mangakakalot.gg/) [:prx:](https://rentry.org/wotaxy#mangakakalot)
 

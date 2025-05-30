@@ -94,10 +94,6 @@ const tooltips: {
   - Uploads are compressed to mini-encode and low res.  
   - Movie uploads are paywalled. You can bypass some using wco.tv.`
   },
-  AnimeZ: {
-    content: `  
-  Good library size, most are scraped from Aniwave.`
-  },
   OtakuStreamers: {
     content: `  
   Although new releases are in 1080p, older releases are a mixed bag, ranging from 480p to 720p.`
