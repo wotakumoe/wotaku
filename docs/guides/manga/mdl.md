@@ -2,7 +2,7 @@
 title: Downloading manga
 customDescription: Guide on how to download manga in pc.
 og:
-    image: https://files.catbox.moe/cjn5p0.png
+    image: https://files.catbox.moe/l2g45x.png
 ---
 
 <GradientCard title="Downloading manga" description="Guide on how to download manga in pc." theme="turquoise" variant="thin"/>
