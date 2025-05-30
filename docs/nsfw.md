@@ -216,21 +216,27 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 ![](/banner/hoth.webp)
 # Others
 
+## Database / Info / Portal
+| Category | Websites |
+|-|-|
+| Database | [DOJINDB](https://dojindb.net/) :fjp: |
+| ^^ | [Doujinshi.info](https://www.doujinshi.info/) [:gh:](https://github.com/doujinshi-info/frontend-nuxt) |
+| ^^ | [HentTag](https://hentag.com/) |
+| ^^ | [Manga-DB](https://adultcomic.dbsearch.net/) :fjp::s: |
+| Info | [Fapservice](https://fapservice.com/) |
+| ^^   | [Yuri Scenes](https://yuriscenes.com/) |
+| Portal | [EroEro News](https://en.eroeronews.com/) |
+ 
+
 ## Websites
 - [Anime-sharing](http://www.anime-sharing.com/forum/)
 - [ASMR Online](https://asmr.one/)
-- [DOJINDB](https://dojindb.net/) :fjp:
-- [Fapservice](https://fapservice.com/)
-- [Hemdomblog](https://www.hemdomblog.com/)
-- [HentTag](https://hentag.com/)
 - [Hentai ASMR](https://www.hentaiasmr.moe/)
 - [HMV Mania](https://hmvmania.com/) [:f:](https://archived.moe/h/thread/7621997/)
 - [Japanese ASMR](https://japaneseasmr.com/)
 - [Kasumi](http://xdcc.kasumi.moe/) [:help:](http://kasumi.moe/guide/)
 - [Kemono](https://kemono.su/)
-- [Manga-DB](https://adultcomic.dbsearch.net/) :fjp::s:
 - [Nekohouse](https://nekohouse.su/)
-- [Yuri Scenes](https://yuriscenes.com/)
 
 ## AV
 
