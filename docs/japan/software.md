@@ -219,7 +219,6 @@ ___
 #### Games/VN
 - [EXSTATIC](https://github.com/KamWithK/exSTATic)
 - [Game Sentence Miner](https://github.com/bpwhelan/GameSentenceMiner)
-- [Luna Hook](https://github.com/HIllya51/LunaHook)
 - [Luna Translator](https://github.com/HIllya51/LunaTranslator)
 - [Textractor](https://github.com/Artikash/Textractor) [:help:](https://lazyguidejp.github.io/jp-lazy-guide/setupVnOnPC/)
 - [Texthooker UI](https://github.com/Renji-XD/texthooker-ui)
