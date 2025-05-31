@@ -5,11 +5,11 @@ og:
     image: https://files.catbox.moe/l2g45x.png
 ---
 
-<GradientCard title="Downloading manga" description="Guide on how to download manga in pc." theme="turquoise" variant="thin"/>
+<GradientCard title="Downloading manga" description="Guide on how to download manga in pc" theme="turquoise" variant="thin"/>
 
 </br>
 
-This guide is for PC (specifically Windows). For Android, Mihon and Mihon forks should be sufficient (save as CBZ). For, iOS.... cope.
+This guide is for PC (specifically Windows) using [FMD 2](https://github.com/dazedcat19/FMD2/). For Android, Mihon and Mihon forks should be sufficient (save as CBZ). For, iOS.... cope.
 
 ## FMD 2
 
@@ -17,7 +17,12 @@ This guide is for PC (specifically Windows). For Android, Mihon and Mihon forks 
 - Download the software from [**here**](https://github.com/dazedcat19/FMD2/releases).
 - Unzip the file.
 - Open **fmd.exe**.
-- It will check GitHub and open a popup saying "Modules update found". Click **Yes**. It will download all the modules (a.k.a. extensions). Look at the bottom bar and wait until it's done downloading everything.
+- It will then connect to GitHub repo and check for modules (a.k.a sources).
+![](/ss/fmd/cg.png)
+- After it done scanning, it will open a popup saying "Modules update found". Click **Yes**. It will start downloading all the modules.
+![](/ss/fmd/allow.png)
+- Wait until it's done downloading everything.
+![](/ss/fmd/progress.png)
 - After the download is complete, it will ask you to restart the software. **Restart**.
 
 ### Settings
@@ -44,4 +49,4 @@ For Comick, go to "Options > Websites > Options > Comick":
 - Enter the scanlation group name into the filter. To access the filter, click :check-mark-button:. You can set the filter there.
 - Select the entries you want to download and click **Download**.
 
-![FMD2](/ss/fmd.png)
+![FMD2](/ss/fmd/fmd.png)
