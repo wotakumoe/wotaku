@@ -415,7 +415,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Pixiv Comics](https://comic.pixiv.net/)
 - [NicoManga](https://nicomanga.com/) [:prx:](https://rentry.org/wotaxy#nicomanga)
 - [RAW 1001](https://raw1001.net/home) [:prx:](https://rentry.org/wotaxy#raw1001)
-- [Rawkuma](https://rawkuma.com/)
+- [Rawkuma](https://rawkuma.net/)
 - [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.my/home/)
 - [RawUwU](https://rawuwu.com/) [:alt:](https://rawdevart.art/)
 - [Sen Manga](https://raw.senmanga.com/)
@@ -703,12 +703,14 @@ ___
 ## Turkish
 
 ### Anime
-
+- [Acheriya](https://acheriya.com/)
+- [AnimeWho?](https://animewho.com/)
 - [Anizm](https://anizm.net/)
 - [TRanimeizle](https://www.tranimeizle.co/)
 - [Turk Anime](https://www.turkanime.co/)
 
 ### Manga
+- [Ayatoon](https://ayatoon.com/)
 - [Sadscans](https://sadscans.com/)
 - [Seri Manga](https://serimanga.com/)
 - [Tortuga Ceviri](https://tortuga-ceviri.com/)
