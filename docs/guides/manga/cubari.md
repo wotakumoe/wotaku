@@ -12,7 +12,7 @@ og:
 This guide is on how to publish your comic through [**Cubari**](https://cubari.moe/). Cubari doesn't host any files itself, but instead reads a JSON file with all the image file links (alongside other metadata). To host the images we will use [**Image Chest**](https://imgchest.com/) and to generate JSON file, we will use Kaguya script.
 
 ::: warning Cubari ≠ Cubari Proxy
-[Cubari](https://cubari.moe/) and [Cubari Proxy](https://proxy.cubari.moe/) are functionally different. Cubari Proxy is a scraper, meanwhile Cubari is more to proxy images from your hosted source. 
+[**Cubari**](https://cubari.moe/) and [**Cubari Proxy**](https://proxy.cubari.moe/) are functionally different. Cubari Proxy is a scraper, meanwhile Cubari is more to proxy images from your hosted source. 
 :::
 
 ## Files and metadata
@@ -25,7 +25,7 @@ Your comic folder should follow this scheme. The folders name should be like `V#
 
 ```bash
 Comic_Folder/
-├── info.txt                    # For metadata                     
+├── info.txt                    # Comic metadata                     
 ├── V01 Ch001 First Chapter/          
 │   ├── page001.jpg
 │   ├── page002.jpg
@@ -60,7 +60,7 @@ Kaguya is a python based script, so you have to download and install Python its 
 
 1. Download and install the latest Python binary from [here](https://www.python.org/downloads/).
 2. When installing, you will see `Add Python X.XX to PATH`. You have to check that.
-3. Open PowerShell and run `pip install requests`. For this guide, I have used [PowerShell 7.5.1](https://github.com/PowerShell/PowerShell).
+3. Open PowerShell and run `pip install requests`. For this guide, I have used [**PowerShell 7.5.1**](https://github.com/PowerShell/PowerShell).
 
 == Imgchest
 To host images, we are using [Image chest](https://imgchest.com/). Here we can post images up to 20 at a time, but later we can add more. The script will add images in chunks. To upload the images we need API key.
@@ -95,14 +95,14 @@ After the run, the script will generate `Comic_Name.json` and `imgchest_upload_r
 
 ```bash
 Comic_Folder/
-├── info.txt                           # Manga metadata
+├── info.txt                           # Comic metadata
 ├── imgchest_upload_record.txt         # Upload history (auto-created)
-├── Your_Manga_Title.json              # Manga database (auto-created)
+├── Comic_Title.json                   # JSON for Cubari (auto-created)
 ├── V01 Ch001 First Chapter/           # Chapter folder
 │   ├── page001.jpg
 │   ├── page002.jpg
 │   └── ...
-└── V01 Ch002 Second Chapter/
+└── V01 Ch002 Second Chapter/          # Chapter folder
     ├── page001.jpg
     └── ...
 ```
@@ -113,8 +113,8 @@ Comic_Folder/
 
 ## Cubari
 1. You need to have a GitHub account. Older account is better, so that GitHub doesn't randomly flag your account.
-2. Go to [GitHub Gist](https://gist.github.com/) and upload the JSON file there. It can be secret or public gist.
+2. Go to [**GitHub Gist**](https://gist.github.com/) and upload the JSON file there. It can be secret or public gist.
 3. Click the **RAW** button after uploading and copy the link.
-4. Go to [Cubari](https://cubari.moe/) and enter the link there. It will load all the chapters with the metadata.
+4. Go to [**Cubari**](https://cubari.moe/) and enter the link there. It will load all the chapters with the metadata.
 
 The cubari link of that page will be the comic link.
