@@ -31,6 +31,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 |-|-|-|
 | **三萬筒 (30kton)** | [Have you seen AO-chan?](https://www.pixiv.net/en/artworks/110412826) | [Default banner](/faq#general) |
 | **6y9brows** | [My life will one day be colorful](https://6y9brows.tumblr.com/post/668069737059713024/my-life-will-one-day-be-colorful) | Art link embed |
+| **A-1 Pictures** | [Kaguya sama](https://myanimelist.net/anime/37999/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen/episode/4) | Cubari link embed |
 | **あまねこそら (Amane Sora)** | [おてんば兎の大宴会](https://donmai.moe/posts/6008236) | VTuber Link Embed |
 | **ATLUS** | [Futaba Sakura](https://megamitensei.fandom.com/wiki/Futaba_Sakura) | [Music banner](/music#utility-sites) |
 | **Bandai Namco** | [Boa Hancock](https://opbr-en.bn-ent.net/character/detail/0017.html) | [Anime Banner](/qs#anime) |
