@@ -153,6 +153,7 @@ ___
 - [Filmot](https://filmot.com/) <tooltip>YouTube</tooltip>
 - [Forvo](https://forvo.com/languages/ja/) <tooltip>Native Speaker</tooltip>
 - [Immersion Kit](https://www.immersionkit.com/) :s: <tooltip>Japanese Media</tooltip>
+- [Jiten](https://jiten.moe/) [:gh:](https://github.com/Sirush/Jiten)
 - [Nadeshiko](https://nadeshiko.co/) [:gh:](https://github.com/BrigadaSOS/Nadeshiko)
 - [Sentence Search](https://sentencesearch.neocities.org/) <tooltip>Book / Deck / Web</tooltip>
 - [YouGlish](https://youglish.com/japanese) :s: <tooltip>YouTube</tooltip>
@@ -161,7 +162,6 @@ ___
 - [BOOK WALKER Cross Search](https://bsearch.bookwalker.jp/search) <tooltip>Search through BW books</tooltip>
 - [Hinoki Project](https://hinoki-project.org/)
 - [Hiragana](https://www.hiragana.jp/en/) <tooltip>Add Hiragana over Kanji</tooltip>
-- [Jiten](https://jiten.moe/) [:gh:](https://github.com/Sirush/Jiten)
 - [jReadability](https://jreadability.net/) <tooltip>Text readability measurement</tooltip>
 - [Kanji Canvas](https://asdfjkl.github.io/kanjicanvas/) <tooltip>Kanji recognition from drawing</tooltip>
 - [Kanji Portraits](https://kanjiportraits.wordpress.com/) <tooltip>Kanji origins</tooltip>
