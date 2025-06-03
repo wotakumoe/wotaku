@@ -99,6 +99,11 @@ export const contribs = {
       avatar: 'https://github.com/officialkaizen.png',
       site: 'https://github.com/officialkaizen'
     },
+        {
+      name: 'ld3z',
+      avatar: 'https://github.com/ld3z.png',
+      site: 'https://github.com/ld3z'
+    },
     {
       name: 'loocool',
       avatar: 'https://github.com/loocool2.png',
