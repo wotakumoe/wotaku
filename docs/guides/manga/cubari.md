@@ -59,7 +59,7 @@ groups: Uploader Name
 ::: tabs
 
 == Python
-Kaguya is a Python-based script, so you need to install Python and its dependencies first.
+Kaguya is a Python-based script, so you need to install Python first.
 
 1. Download and install the latest Python release from [here](https://www.python.org/downloads/).
 2. During installation, make sure to check the option **"Add Python X.XX to PATH"**.
@@ -72,7 +72,7 @@ To host images, we are using [Image Chest](https://imgchest.com/). You can uploa
 1. Visit [Image Chest](https://imgchest.com/).
 2. Register a [new account](https://imgchest.com/register).
 3. After verifying your email, go to the [API section](https://imgchest.com/profile/api).
-4. Create an API key and save it somewhere safe — you'll need it in a later step.
+4. Create an API key and save it somewhere safe, you'll need it in a later step.
 
 == Script setup
 1. Visit [Kaguya repository](https://github.com/wotakumoe/kaguya).
