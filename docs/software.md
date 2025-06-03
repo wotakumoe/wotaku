@@ -249,7 +249,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | [Houdoku](https://houdoku.netlify.app/) [:gh:](https://github.com/xgi/houdoku) | :win::app::lin: |
 | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi) | :win::app::lin: |
 | [Suwayomi](https://github.com/Suwayomi/Suwayomi-Server) | :win::app::lin: |
-| [Cubari](https://cubari.moe/) | :web: |
+| [Cubari](https://cubari.moe/) [:help:](/guides/manga/cubari) | :web: |
 | [Manga-tui](https://github.com/josueBarretogit/manga-tui) | :app::lin::cmd: |
 | [AnymeX](https://anymex.vercel.app/) [:gh:](https://github.com/RyanYuuki/AnymeX) [:e:](/guides/ext/mangayomi) | :win::app::lin: |
 
