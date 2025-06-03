@@ -80,6 +80,7 @@ export const nav: DefaultTheme.NavItem[] = [
       {
         text: 'Manga',
         items: [
+          { text: 'Cubari guide', link: '/guides/manga/cubari' },
           { text: 'Digital Comic Info', link: '/guides/manga/comicinfo' },
           { text: 'Downloading Manga', link: '/guides/manga/mdl' },
           { text: 'JXL Manga Readers', link: '/guides/manga/jxl' },
@@ -236,6 +237,7 @@ export const sidebar: DefaultTheme.Sidebar = [
         text: 'Manga',
         collapsed: true,
         items: [
+          { text: 'Cubari guide', link: '/guides/manga/cubari' },
           { text: 'Digital Comic Info', link: '/guides/manga/comicinfo' },
           { text: 'Downloading Manga', link: '/guides/manga/mdl' },
           { text: 'JXL Manga Readers', link: '/guides/manga/jxl' },

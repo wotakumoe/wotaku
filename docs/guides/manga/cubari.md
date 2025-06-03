@@ -9,10 +9,10 @@ og:
 
 <br>
 
-This guide is on how to publish your comic through [**Cubari**](https://cubari.moe/). Cubari doesn't host any files itself, but instead reads a JSON file with all the image file links (alongside other metadata). To host the images we will use [**Image Chest**](https://imgchest.com/) and to generate JSON file, we will use Kaguya script.
+This guide explains how to publish your comic using [**Cubari**](https://cubari.moe/). Cubari does not host any files directly; instead, it reads a JSON file containing image links and other metadata. To host the images, we’ll use [**Image Chest**](https://imgchest.com/), and to generate the JSON file, we’ll use the [**Kaguya script**](https://github.com/wotakumoe/kaguya).
 
 ::: warning Cubari ≠ Cubari Proxy
-[**Cubari**](https://cubari.moe/) and [**Cubari Proxy**](https://proxy.cubari.moe/) are functionally different. Cubari Proxy is a scraper, meanwhile Cubari is more to proxy images from your hosted source. 
+[**Cubari**](https://cubari.moe/) and [**Cubari Proxy**](https://proxy.cubari.moe/) serve different purposes. Cubari Proxy is a scraper, while Cubari acts as a proxy that displays images from your own hosted sources.
 :::
 
 ## Files and metadata
@@ -21,7 +21,9 @@ This guide is on how to publish your comic through [**Cubari**](https://cubari.m
 
 == Files and folders
 
-Your comic folder should follow this scheme. The folders name should be like `V# Ch# Title`. You can skip volume number and chapter title, but the chapter number is a must. The images inside should be alphabetically sorted.
+Your comic folder should follow this naming scheme:  
+- Folder names should be formatted like `V# Ch# Title`. The volume number (`V#`) and chapter title are optional, but the chapter number (`Ch#`) is required.  
+- Make sure the images inside each folder are sorted alphabetically.
 
 ```bash
 Comic_Folder/
@@ -33,12 +35,13 @@ Comic_Folder/
 └── V01 Ch002 Second Chapter/
     ├── page001.jpg
     └── ...
-
 ```
 
 == Metadata
 
-The given metadata will be shown in the comic homepage. You have to create a `info.txt` file inside your base comic folder, then fill out the text file following this scheme. The script expects only one uploader/group, so if there are multiple, you have to do it manually.
+The given metadata will be displayed on the comic's homepage. Create an `info.txt` file inside your base comic folder and fill it out using the following format.  
+
+**Note:** The script supports only one uploader/group. If there are multiple, you'll need to handle it manually.
 
 ```bash
 title: Comic Title
@@ -56,31 +59,33 @@ groups: Uploader Name
 ::: tabs
 
 == Python
-Kaguya is a python based script, so you have to download and install Python its dependencies.
+Kaguya is a Python-based script, so you need to install Python and its dependencies first.
 
-1. Download and install the latest Python binary from [here](https://www.python.org/downloads/).
-2. When installing, you will see `Add Python X.XX to PATH`. You have to check that.
-3. Open PowerShell and run `pip install requests`. For this guide, I have used [**PowerShell 7.5.1**](https://github.com/PowerShell/PowerShell).
+1. Download and install the latest Python release from [here](https://www.python.org/downloads/).
+2. During installation, make sure to check the option **"Add Python X.XX to PATH"**.
+
+**Note:** For this guide, I used [**PowerShell 7.5.1**](https://github.com/PowerShell/PowerShell).
 
 == Imgchest
-To host images, we are using [Image chest](https://imgchest.com/). Here we can post images up to 20 at a time, but later we can add more. The script will add images in chunks. To upload the images we need API key.
-1. Visit [Image chest](https://imgchest.com/).
-2. Register [new account](https://imgchest.com/register).
-3. After verifying your email, go to [API section](https://imgchest.com/profile/api).
-4. Create an API key and keep it somewhere saved. We will need it later step.
+To host images, we are using [Image Chest](https://imgchest.com/). You can upload up to 20 images at a time, but more can be added later. The script uploads images in chunks, so you'll need an API key to automate this process.
+
+1. Visit [Image Chest](https://imgchest.com/).
+2. Register a [new account](https://imgchest.com/register).
+3. After verifying your email, go to the [API section](https://imgchest.com/profile/api).
+4. Create an API key and save it somewhere safe — you'll need it in a later step.
 
 == Script setup
-1. Visit Kaguya repository.
-2. Download `kaguya.py` from the repository.
-3. Place it in a folder.
-4. Create `api_key.txt` in the same folder.
-5. Put the Image chest API key in the text file.
+1. Visit [Kaguya repository](https://github.com/wotakumoe/kaguya).
+2. Clone/download the repository.
+3. Open powershell in the folder and run `pip install -r requirements.txt`
+4. Put the Image chest API key in `api_key.txt`
 
 ```bash
-Cubari
-├── api_key.txt                                   
-└── kaguya.py
-
+Kaguya/
+├── api_key.txt  
+├── kaguya.py
+├── readme.md                                 
+└── requirements.txt
 ```
 
 == Run
@@ -91,7 +96,7 @@ Cubari
 5. It will then start uploading in batch
 6. After it done uploading, it will give summary
 
-After the run, the script will generate `Comic_Name.json` and `imgchest_upload_record.txt` in the comic's base folder.
+After the run, the script will generate `Comic_Title.json` and `imgchest_upload_record.txt` in the comic's base folder.
 
 ```bash
 Comic_Folder/
@@ -107,14 +112,17 @@ Comic_Folder/
     └── ...
 ```
 
-`imgchest_upload_record.txt` will contain all the folders uploaded. If any folder upload fails, it will be missing in the text file. When you run the script, it will be tagged as new. Select `2. Upload only new folders (skip already uploaded)` to retry. After successful upload, they will be added in the JSON file. Although the new uploads will be at bottom, it won't impact Cubari serial.
+The `imgchest_upload_record.txt` file keeps track of all uploaded folders. If a folder fails to upload, it won’t be listed in this file. When you run the script again, the missing folder will be detected as new.
 
+To retry failed uploads, select: `2. Upload only new folders (skip already uploaded)`
+
+After a successful upload, the folder will be added to the JSON file. New uploads appear at the bottom of the JSON, but this won't affect the chapter order in Cubari.
 :::
 
 ## Cubari
-1. You need to have a GitHub account. Older account is better, so that GitHub doesn't randomly flag your account.
-2. Go to [**GitHub Gist**](https://gist.github.com/) and upload the JSON file there. It can be secret or public gist.
-3. Click the **RAW** button after uploading and copy the link.
-4. Go to [**Cubari**](https://cubari.moe/) and enter the link there. It will load all the chapters with the metadata.
+1. You need a GitHub account. An older account is less likely to be flagged by GitHub.
+2. Go to [**GitHub Gist**](https://gist.github.com/) and upload your JSON file. You can choose to make it a public or secret gist.
+3. After uploading, click the **RAW** button and copy the URL.
+4. Go to [**Cubari**](https://cubari.moe/) and paste the RAW URL there. It will load all your chapters along with their metadata.
 
-The cubari link of that page will be the comic link.
+The Cubari link generated on that page will be your comic’s final shareable link.
