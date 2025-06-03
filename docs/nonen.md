@@ -307,6 +307,7 @@ If you have recommendations for good sites in your native language or want to re
   - [AllWish](https://all-wish.me/home)
   - [Anime World India](https://watchanimeworld.in/)
   - [Anisaga](https://anisaga.org/)
+  - [Dora Bash](https://dorabash.com/)
   - [Toonbaba](https://toonbaba.site/)
   - [ToonStream](https://toonstream.love/)
 - **DDL**
