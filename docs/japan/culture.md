@@ -84,7 +84,7 @@ og:
 - [Anime Tourism](https://anime-tourism.jp/) :s:
 - [anitabi](https://anitabi.cn/) :s:
 - [Odakyu Railway Anime Map](https://www.odakyu.jp/sc/anime/)
-- [Anime Tourism Association](https://x.com/animetourism88)
+- [Anime Tourism Association](https://animetourism88.com/en/) [:x:](https://x.com/animetourism88)
 
 ### City Specific
 - [Tokyojin](https://tokyojin.info/)
