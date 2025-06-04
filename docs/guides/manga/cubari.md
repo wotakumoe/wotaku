@@ -1,11 +1,11 @@
 ---
 title: Cubari guide
-customDescription: Guide on how to proxy comic through Cubari
+customDescription: Guide on how to proxy comic through Cubari.moe
 og:
     image: https://files.catbox.moe/m3xqdl.png
 ---
 
-<GradientCard title="Cubari guide" description="Guide on how to proxy comic through Cubari." theme="turquoise" variant="thin"/>
+<GradientCard title="Cubari guide" description="Guide on how to proxy comic through Cubari.moe" theme="turquoise" variant="thin"/>
 
 <br>
 
@@ -98,7 +98,7 @@ Kaguya/
 
 After the run, the script will generate `Comic_Title.json` and `imgchest_upload_record.txt` in the comic's base folder.
 
-```bash
+```
 Comic_Folder/
 ├── info.txt                           # Comic metadata
 ├── imgchest_upload_record.txt         # Upload history (auto-created)
@@ -114,7 +114,15 @@ Comic_Folder/
 
 The `imgchest_upload_record.txt` file keeps track of all uploaded folders. If a folder fails to upload, it won’t be listed in this file. When you run the script again, the missing folder will be detected as new.
 
-To retry failed uploads, select: `2. Upload only new folders (skip already uploaded)`
+To retry failed uploads, select second option.
+
+```powershell
+⬆️ Upload Options:
+1. Upload all folders
+2. Upload only new folders (skip already uploaded)
+3. Select specific folder(s) to upload/re-upload
+4. Cancel
+```
 
 After a successful upload, the folder will be added to the JSON file. New uploads appear at the bottom of the JSON, but this won't affect the chapter order in Cubari.
 :::
@@ -128,6 +136,9 @@ After a successful upload, the folder will be added to the JSON file. New upload
 1. You need a GitHub account. An older account is less likely to be flagged by GitHub.
 2. Open a new [public repo](https://github.com/new) and upload the JSON file there.
 3. Go to [**Cubari**](https://cubari.moe/) and paste `https://raw.githubusercontent.com/user/repo/main/Comic_Title.json` there. It will load all your chapters along with their metadata.
+
+== Script
+Soon.
 
 :::
 
