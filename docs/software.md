@@ -210,6 +210,12 @@ or buy an Android phone :ic-twotone-thumb-up:
 
 # PC
 
+<br>
+
+::: tip Anti-leech note
+Torrent streaming is really convenient compared to downloading and watching. However, most mainstream torrent players don't seed after finishing playback. Try seeding the torrents using a proper torrent client.
+:::
+
 ## Anime Streaming
 
 | Program | OS | Source | Tracker |

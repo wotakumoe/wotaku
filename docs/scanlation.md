@@ -11,6 +11,12 @@ og:
 
 <GradientCard title="Scanlation" description="Guides and resources for scanlating manga." theme="turquoise" variant="thin"/>
 
+<br>
+
+::: tip Kaguya
+To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/kaguya) for [Cubari](https://cubari.moe/). It can batch upload manga chpaters on Imgchest and generate full JSON. Full guide [here](/guides/manga/cubari).
+:::
+
 ![](/banner/comms.webp)
 # Communities
 

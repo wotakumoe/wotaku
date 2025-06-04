@@ -142,7 +142,8 @@ const tooltips: {
   - Has both scanlated and official releases  
   - Has some exclusive uploads  
   - Decent filtering options with site theme options  
-  - Indexing is poor.`
+  - Has a lot of dupe entries.
+  - Images are compressed WEBP.`
   },
   MangaFire: {
     content: `  

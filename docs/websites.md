@@ -305,6 +305,10 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 | [UTOON](https://utoon.net/) :coin: ==utoon== | :fjp::fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/mtcug74/utoon) |
 | [Zero Scans](https://zscans.com/) | :fkr::fcn: | [URL](https://mangadex.org/group/dd0a3018-21f1-4488-948c-08499b179fcf/zero-scans) | [URL](https://www.mangaupdates.com/group/vlkvmk7/zero-scans-discord) |
 
+::: tip Kaguya
+To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/kaguya) for [Cubari](https://cubari.moe/). It can batch upload manga chpaters on Imgchest and generate full JSON. Full guide [here](/guides/manga/cubari).
+:::
+
 :::
 
 ::: details  Related resources
