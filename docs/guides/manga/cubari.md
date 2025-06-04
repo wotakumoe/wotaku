@@ -120,9 +120,15 @@ After a successful upload, the folder will be added to the JSON file. New upload
 :::
 
 ## Cubari
+
+::: tabs
+
+== Manual
+
 1. You need a GitHub account. An older account is less likely to be flagged by GitHub.
-2. Go to [**GitHub Gist**](https://gist.github.com/) and upload your JSON file. You can choose to make it a public or secret gist.
-3. After uploading, click the **RAW** button and copy the URL.
-4. Go to [**Cubari**](https://cubari.moe/) and paste the RAW URL there. It will load all your chapters along with their metadata.
+2. Open a new [public repo](https://github.com/new) and upload the JSON file there.
+3. Go to [**Cubari**](https://cubari.moe/) and paste `https://raw.githubusercontent.com/user/repo/main/Comic_Title.json` there. It will load all your chapters along with their metadata.
+
+:::
 
 The Cubari link generated on that page will be your comic’s final shareable link.
