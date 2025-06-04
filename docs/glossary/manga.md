@@ -260,7 +260,7 @@ For publisher platforms, some of the series are website-exclusive, while others 
 
 ![Scanlation](/diagram/scan.svg)
 
-A group that fan translate a manga/manhwa/manhua. The group takes the raw file and translates the whole manga (including dialogue, sfx & other forms of text). Also, sometimes the [wordplays](https://psychology.fandom.com/wiki/Japanese_wordplay) & cultural references provided in that chapter are explained in the credit section.
+Scanlator is a group that fan translates a comic. The group takes the raw file and translates the whole manga (including dialogue, sfx & other forms of text). Also, sometimes the [wordplays](https://psychology.fandom.com/wiki/Japanese_wordplay) & cultural references provided in that chapter are explained in the credit section. The whole process is scanlation.
 
 | Member | Description |
 |-|-|
