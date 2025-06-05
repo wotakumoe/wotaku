@@ -132,7 +132,7 @@ If you have recommendations for good sites in your native language or want to re
 - [Baozimh.com](https://www.baozimh.com/)
 - [Baozimh.org](https://baozimh.org/)
 - [Colamanga](https://www.colamanga.com/)
-- [Copymanga](https://www.mangacopy.com/) [:alt:](https://www.copy-manga.com/) :ero:
+- [Copymanga](https://www.mangacopy.com/) [:alt:](https://www.copy20.com/) :ero:
 - [DMZJ](https://www.idmzj.com/)
 - [Komiic](https://komiic.com/)
 - [Manga Reader](https://1zumii.github.io/manga-reader/#/) [:gh:](https://github.com/1zumii/manga-reader)

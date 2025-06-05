@@ -452,7 +452,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 - [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD)
 - [Soggfy](https://github.com/Rafiuth/Soggfy) :win::app::lin:
 - [Votify](https://github.com/glomatico/votify)
-- [Zotify](https://zotify.xyz/)
+- [Zotify](https://github.com/zotify-dev/zotify)
 
 
 ## Browser

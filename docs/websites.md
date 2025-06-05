@@ -74,7 +74,7 @@ outline: 1
 - [Chiki Animation](https://chikianimation.net/) <Badge type="info" text="3D" /> [:tg:](https://t.me/Dimensional_Animation)
 - [Crimson Subs](https://crimsonfansubs.com/) [:d:](https://discord.com/invite/JMn7Y8qv)
 - [Donghua Stream](https://donghuastream.org/) [:d:](https://discord.gg/4zrUguAakG) [:tg:](https://telegram.me/DonghuaStream_com)
-- [Dongsub](https://www.dongsub.com/) [:tg:](https://t.me/dongsub)
+- [Dongsub](https://www.dongsub.net/) [:tg:](https://t.me/dongsub)
 - [JHD Anime](https://jhdanime.live/) [:tg:](https://telegram.im/@jhdanime)
 - [LM Anime](https://lmanime.com/)
 - [Lucifer Donghua](https://luciferdonghua.in/) [:tg:](https://t.me/luciferdonghuaz)

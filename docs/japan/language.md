@@ -207,7 +207,7 @@ ___
 - [Miku Real Japanese](https://www.youtube.com/channel/UCsQCbl3a9FtYvA55BxdzYiQ/)
 - [Organic Japanese with Cure Dolly](https://www.youtube.com/channel/UCkdmU8hGK4Fg3LghTVtKltQ)
 - [Sambon Juku](https://www.youtube.com/channel/UC0ujXryUUwILURRKt9Eh7Nw)
-- [Tae Kim](https://www.youtube.com/@taekimjapanese)
+- [Tae Kim](https://www.youtube.com/@taekimguide)
 - [ToKini Andy](https://www.youtube.com/@ToKiniAndy)
 - [Yudai Sensei](https://www.youtube.com/@yudaisensei2020)
 ___
