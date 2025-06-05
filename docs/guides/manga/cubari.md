@@ -128,13 +128,21 @@ Kaguya/
 All operations complete. Goodbye!
 ```
 
-After the run, the script will generate `Comic_Title.json` and `imgchest_upload_record.txt` in the comic's base folder.
+### Generated files
+
+After the run, the script will generate `comic_title.json`, `imgchest_upload_record.txt` and `cubari_urls.txt` in the comic's base folder.
+
+| filename | Destination | Description |
+|-|-|-|
+| `comic_title.json` | Comic folder | Will contain all the chapter links and metadata for cubari. |
+| `imgchest_upload_record.txt` | Comic folder | keeps track of all uploaded folders. If a folder fails to upload, it won’t be listed in this file. When you run the script again, the missing folder will be detected as new. |
+| `cubari_urls.txt` | Kaguya folder | Keeps log of all the uploads using Kaguya | 
 
 ```bash
 Comic_Folder/
+├── comic_title.json                   # JSON for Cubari (auto-created)
 ├── info.txt                           # Comic metadata
 ├── imgchest_upload_record.txt         # Upload history (auto-created)
-├── Comic_Title.json                   # JSON for Cubari (auto-created)
 ├── V01 Ch001 First Chapter/           # Chapter folder
 │   ├── page001.jpg
 │   ├── page002.jpg
@@ -143,8 +151,6 @@ Comic_Folder/
     ├── page001.jpg
     └── ...
 ```
-
-The `imgchest_upload_record.txt` file keeps track of all uploaded folders. If a folder fails to upload, it won’t be listed in this file. When you run the script again, the missing folder will be detected as new. Also `cubari_urls.txt` in the Kaguya folder.
 
 ::: info Manual JSON Upload
 1. You need a GitHub account. An older account is less likely to be flagged by GitHub.
