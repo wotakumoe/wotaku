@@ -599,6 +599,7 @@ ___
 - [Jut.su](https://jut.su/) <Badge type="info" text="Helper" link="https://github.com/Xeltone/Jut.su-Helper" />
 - [Kage Project](http://fansubs.ru/)<tooltip>Subtitle files only, you need to get the episodes from another source.</tooltip>
 - [MAL to Kodik](https://mal-to-kodik.github.io/) <Badge type="info" text="Aggregator" />
+- [One Pace](https://onepace-ru.tilda.ws/)
 - [OTA-KUN](https://ota-ku.am/) [:gh:](https://github.com/KU-OTA-KU/Ota-ku-frontend)
 - [Shiza Project](https://shiza-project.com/)
 - [SovetRomantica](https://sovetromantica.com/) <Badge type="info" text="Sub" />
@@ -607,6 +608,7 @@ ___
 ### Manga
 - [Com-X](https://com-x.life/)
 - [Desu.Me](https://desu.work/) [:alt:](https://desu.me/)
+- [Manga.ovh](https://manga.ovh/content)
 - [MangaClub](https://mangaclub.ru/)
 - [MangaHub](https://mangahub.ru/)
 - [MangaLib](https://mangalib.me/)
