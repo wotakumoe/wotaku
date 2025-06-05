@@ -170,6 +170,7 @@ og:
 - [cbo](https://www.youtube.com/@cbo_ch/) <Badge type="warning" text="Inactive"/>
 - [ChegiCH](https://www.youtube.com/@chegichannel/)
 - [Crash Landing Studios](https://www.youtube.com/@CrashLandingStudio/) :s:
+- [Edoman Ch.](https://www.youtube.com/@EdomanCh)
 - [itsMeanWaterfall](https://www.youtube.com/@itsMeanWaterfall)
 - [Kanauru](https://www.youtube.com/@kanauru) :s:
 - [Miriwa ミリワ](https://www.youtube.com/@Miriwa)
