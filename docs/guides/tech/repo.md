@@ -9,7 +9,7 @@ og:
 
 <GradientCard title="Extension Repos" description="Mihon, Aniyomi & Dantotsu Extension Repos & Guides" theme="turquoise" variant="thin"/>
 
-Due to DMCA takedown notices, [Tachiyomi](https://tachiyomi.org/) (now continued as [Mihon](https://mihon.app/)) and [Aniyomi](https://aniyomi.org/) no longer come with preloaded extensions. You have to sideload extension repos in [Mihon](https://mihon.app/), [Aniyomi](https://aniyomi.org/), [Dantotsu](https://git.rebelonion.dev/onion/Dantotsu) and their forks to get extensions.
+Due to DMCA takedown notices, [Tachiyomi](https://tachiyomi.org/) (now continued as [Mihon](https://mihon.app/)) and [Aniyomi](https://aniyomi.org/) no longer come with preloaded extensions. You have to sideload extension repos in [Mihon](https://mihon.app/), [Aniyomi](https://aniyomi.org/), [Dantotsu](https://discord.com/invite/4HPZ5nAWwM) and their forks to get extensions.
 
 ## Repositories
 
