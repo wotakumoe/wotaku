@@ -116,17 +116,13 @@ Kaguya/
 6. After it done uploading, it will ask whether you wanna upload the JSON in the GitHub repo.
 7. When all the process is done, it will give summary.
 
-```bash
-✅ GitHub: Uploaded comic_title.json (branch: main)
-🔗 Raw URL: https://raw.githubusercontent.com/user/repo/main/comic_title.json
-📚 Cubari URL: https://cubari.moe/read/gist/cmF3L3VzZXIvcmVwby9tYWluL2NvbWljX3RpdGxlLmpzb24==/
+::: info Manual JSON Upload
+1. You need a GitHub account. An older account is less likely to be flagged by GitHub.
+2. Open a new [public repo](https://github.com/new) and upload the JSON file there.
+3. Go to [**Cubari**](https://cubari.moe/) and paste `https://raw.githubusercontent.com/user/repo/main/comic_title.json` there. It will load all your chapters along with their metadata.
 
-✓ Successfully uploaded comic_title.json ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-💾 GitHub upload log saved/appended to: cubari_urls.txt
-
-All operations complete. Goodbye!
-```
+The Cubari link generated on that page will be your comic’s final shareable link.
+:::
 
 ### Generated files
 
@@ -137,25 +133,3 @@ After the run, the script will generate `comic_title.json`, `imgchest_upload_rec
 | `comic_title.json` | Comic folder | Will contain all the chapter links and metadata for cubari. |
 | `imgchest_upload_record.txt` | Comic folder | keeps track of all uploaded folders. If a folder fails to upload, it won’t be listed in this file. When you run the script again, the missing folder will be detected as new. |
 | `cubari_urls.txt` | Kaguya folder | Keeps log of all the uploads using Kaguya | 
-
-```bash
-Comic_Folder/
-├── comic_title.json                   # JSON for Cubari (auto-created)
-├── info.txt                           # Comic metadata
-├── imgchest_upload_record.txt         # Upload history (auto-created)
-├── V01 Ch001 First Chapter/           # Chapter folder
-│   ├── page001.jpg
-│   ├── page002.jpg
-│   └── ...
-└── V01 Ch002 Second Chapter/          # Chapter folder
-    ├── page001.jpg
-    └── ...
-```
-
-::: info Manual JSON Upload
-1. You need a GitHub account. An older account is less likely to be flagged by GitHub.
-2. Open a new [public repo](https://github.com/new) and upload the JSON file there.
-3. Go to [**Cubari**](https://cubari.moe/) and paste `https://raw.githubusercontent.com/user/repo/main/comic_title.json` there. It will load all your chapters along with their metadata.
-
-The Cubari link generated on that page will be your comic’s final shareable link.
-:::
