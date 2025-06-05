@@ -614,7 +614,6 @@ ___
 - [MangaLib](https://mangalib.me/)
 - [MangaPoisk](https://mangapoisk.live/)
 - [ReManga](https://remanga.org/)
-- [Usagi](https://web.usagi.one/)<tooltip>Formerly ReadManga</tooltip>
 
 ### More Sites
 - [HentaiLIB](https://hentailib.me/) :ero:
