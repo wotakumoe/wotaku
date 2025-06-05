@@ -54,7 +54,7 @@ groups: Uploader Name
 
 :::
 
-## Kaguya
+## Setup
 
 ::: tabs
 
@@ -74,31 +74,63 @@ To host images, we are using [Image Chest](https://imgchest.com/). You can uploa
 3. After verifying your email, go to the [API section](https://imgchest.com/profile/api).
 4. Create an API key and save it somewhere safe, you'll need it in a later step.
 
-== Script setup
+== GitHub
+1. You need a GitHub account. An older account is less likely to be flagged by GitHub.
+2. Open a new [public repo](https://github.com/new).
+3. Generate a new [token](https://github.com/settings/tokens/new?scopes=public_repo&description=Kaguya).
+4. Save the token to somewhere safe like ImgChest API token.
+
+== Script
 1. Visit [Kaguya repository](https://github.com/wotakumoe/kaguya).
 2. Clone/download the repository.
 3. Open powershell in the folder and run `pip install -r requirements.txt`
 4. Put the Image chest API key in `api_key.txt`
+5. Open the `github.txt`, fill out the user name, repository name and token.
 
 ```bash
 Kaguya/
 ├── api_key.txt  
+├── github.txt  
 ├── kaguya.py
 ├── readme.md                                 
 └── requirements.txt
 ```
 
-== Run
+:::
+
+## Kaguya
+
 1. Open powershell in the script folder.
 2. Run `python kaguya.py`
 3. Enter comic folder path.
 4. Choose options accordingly.
-5. It will then start uploading in batch
-6. After it done uploading, it will give summary
+```bash
+⬆️ Process Options:
+1. Upload all folders
+2. Upload only new folders (skip already uploaded)
+3. Select specific folder(s) to upload/re-upload
+4. Update GitHub only (uses existing manga.json for this manga)
+5. Cancel
+```
+5. It will then start uploading in batch.
+6. After it done uploading, it will ask whether you wanna upload the JSON in the GitHub repo.
+7. When all the process is done, it will give summary.
+
+```bash
+✅ GitHub: Uploaded comic_title.json (branch: main)
+🔗 Raw URL: https://raw.githubusercontent.com/user/repo/main/comic_title.json
+📚 Cubari URL: https://cubari.moe/read/gist/cmF3L3VzZXIvcmVwby9tYWluL2NvbWljX3RpdGxlLmpzb24==/
+
+✓ Successfully uploaded comic_title.json ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💾 GitHub upload log saved/appended to: cubari_urls.txt
+
+All operations complete. Goodbye!
+```
 
 After the run, the script will generate `Comic_Title.json` and `imgchest_upload_record.txt` in the comic's base folder.
 
-```
+```bash
 Comic_Folder/
 ├── info.txt                           # Comic metadata
 ├── imgchest_upload_record.txt         # Upload history (auto-created)
@@ -112,34 +144,12 @@ Comic_Folder/
     └── ...
 ```
 
-The `imgchest_upload_record.txt` file keeps track of all uploaded folders. If a folder fails to upload, it won’t be listed in this file. When you run the script again, the missing folder will be detected as new.
+The `imgchest_upload_record.txt` file keeps track of all uploaded folders. If a folder fails to upload, it won’t be listed in this file. When you run the script again, the missing folder will be detected as new. Also `cubari_urls.txt` in the Kaguya folder.
 
-To retry failed uploads, select second option.
-
-```powershell
-⬆️ Upload Options:
-1. Upload all folders
-2. Upload only new folders (skip already uploaded)
-3. Select specific folder(s) to upload/re-upload
-4. Cancel
-```
-
-After a successful upload, the folder will be added to the JSON file. New uploads appear at the bottom of the JSON, but this won't affect the chapter order in Cubari.
-:::
-
-## Cubari
-
-::: tabs
-
-== Manual
-
+::: info Manual JSON Upload
 1. You need a GitHub account. An older account is less likely to be flagged by GitHub.
 2. Open a new [public repo](https://github.com/new) and upload the JSON file there.
-3. Go to [**Cubari**](https://cubari.moe/) and paste `https://raw.githubusercontent.com/user/repo/main/Comic_Title.json` there. It will load all your chapters along with their metadata.
-
-== Script
-Soon.
-
-:::
+3. Go to [**Cubari**](https://cubari.moe/) and paste `https://raw.githubusercontent.com/user/repo/main/comic_title.json` there. It will load all your chapters along with their metadata.
 
 The Cubari link generated on that page will be your comic’s final shareable link.
+:::
