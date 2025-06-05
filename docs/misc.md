@@ -62,9 +62,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 
 ### Others
 - [FanCons](https://fancons.com/) [:alt:](https://animecons.com/)
-- [MyAnimeShelf](https://myanimeshelf.com/)
 - [MyDramaList](https://mydramalist.com/)
-- [MyFigureCollection](https://myfigurecollection.net/)
 - [TV Drama Database](http://www.tvdrama-db.com/) :fjp:
 - [UpcomingCons](https://upcomingcons.com/)
 

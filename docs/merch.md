@@ -78,6 +78,8 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 ## Info
 | Category  | Websites |
 |-----------|----------|
+| **Database** | [MyAnimeShelf](https://myanimeshelf.com/) |
+| ^^           | [MyFigureCollection](https://myfigurecollection.net/) |
 | **General** | [Gameiroiro Calendar](https://calendar.gameiroiro.com/) :s::fjp: |
 | ^^        | [Otaku Goods](https://ota-goods.info/) :s::fjp: |
 | ^^        | [Otaku Calendar](https://otakucalendar.com/) |
