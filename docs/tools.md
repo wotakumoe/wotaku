@@ -329,7 +329,6 @@ og:
 ## General
 - [Better Lyrics](https://better-lyrics.boidu.dev/) [:gh:](https://github.com/boidushya/better-lyrics)
 - [Buster](https://github.com/dessant/buster)
-- [FastForward](https://fastforward.team/) [:gh:](https://github.com/FastForwardTeam/FastForward)
 - [FastStream](https://faststream.online/) [:gh:](https://github.com/Andrews54757/FastStream/)
 - [Indie Wiki Buddy](https://getindie.wiki/) [:gh:](https://github.com/KevinPayravi/indie-wiki-buddy)
 - [Live Stream Downloader](https://webextension.org/listing/hls-downloader.html) [:gh:](https://github.com/chandler-stimson/live-stream-downloader/)

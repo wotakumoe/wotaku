@@ -24,7 +24,6 @@ og:
   - [uBO Lite](https://github.com/uBlockOrigin/uBOL-home) :ff::cr:
   - [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html) :ff::cr:
   - [ClearURLs](https://docs.clearurls.xyz/) :ff::cr:
-  - [FastForward](https://fastforward.team/) :ff::cr:
 - **Script**
   - [AdsBypasser](https://adsbypasser.github.io/) [:gh:](https://github.com/adsbypasser/adsbypasser)
   - [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/) :s:
@@ -79,7 +78,7 @@ Adding a lot of filters to your adblocker (that you don't specifically need) can
 
 | Websites    | Solutions                                                                 | Type                      |
 |-------------|---------------------------------------------------------------------------|---------------------------|
-| [Discord](https://discord.com/)    | [Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin)      | :ic-twotone-css:           |
+| [Discord](https://discord.com/)    | [Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin)      | :css:           |
 | [Fandom](https://www.fandom.com/)   | [Fandom Fixed](https://github.com/squabbled/FandomFixed)                    | :js:                       |
 | [Spotify](https://www.spotify.com/) | [Spicetify](https://spicetify.app/)                                         | :win::app::lin:            |
 | ^^                                 | [SpotX](https://github.com/SpotX-Official/SpotX)                            | :win:                      |
