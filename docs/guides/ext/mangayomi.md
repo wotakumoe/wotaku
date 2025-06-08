@@ -15,7 +15,7 @@ og:
 
 ### All-in-One
 
-| Name | Region | Auto | Livecounter | Anime | Manga | Novel |
+| Name | Region | Auto | LiveContainer | Anime | Manga | Novel |
 |-|-|-|-|-|-|-|
 | [Kodjo](https://github.com/kodjodevf/mangayomi-extensions) | :global: | [Install](mangayomi://add-repo?repo_name=mangayomi-extensions&repo_url=https://github.com/kodjodevf/mangayomi-extensions&manga_url=https://kodjodevf.github.io/mangayomi-extensions/index.json&anime_url=https://kodjodevf.github.io/mangayomi-extensions/anime_index.json&novel_url=https://kodjodevf.github.io/mangayomi-extensions/novel_index.json) | [Install](livecontainer://open-url?url=bWFuZ2F5b21pOi8vYWRkLXJlcG8/cmVwb19uYW1lPW1hbmdheW9taS1leHRlbnNpb25zJnJlcG9fdXJsPWh0dHBzOi8vZ2l0aHViLmNvbS9rb2Rqb2RldmYvbWFuZ2F5b21pLWV4dGVuc2lvbnMmbWFuZ2FfdXJsPWh0dHBzOi8va29kam9kZXZmLmdpdGh1Yi5pby9tYW5nYXlvbWktZXh0ZW5zaW9ucy9pbmRleC5qc29uJmFuaW1lX3VybD1odHRwczovL2tvZGpvZGV2Zi5naXRodWIuaW8vbWFuZ2F5b21pLWV4dGVuc2lvbnMvYW5pbWVfaW5kZXguanNvbiZub3ZlbF91cmw9aHR0cHM6Ly9rb2Rqb2RldmYuZ2l0aHViLmlvL21hbmdheW9taS1leHRlbnNpb25zL25vdmVsX2luZGV4Lmpzb24=) | :yes: | :yes: | :yes: |
 | [MiraiEnoki](https://github.com/MiraiEnoki/anymex-extensions) ==mirai== | :global: | [Install](mangayomi://add-repo?repo_name=mangayomi-extensions&repo_url=https://github.com/miraienoki/anymex-extensions&manga_url=https://miraienoki.github.io/anymex-extensions/index.json&anime_url=https://miraienoki.github.io/anymex-extensions/anime_index.json&novel_url=https://miraienoki.github.io/anymex-extensions/novel_index.json) | - | :yes: | :yes: | :yes: |
@@ -23,7 +23,7 @@ og:
 | [Gato404](https://github.com/gato404/kegareta-sauces) | :ero: | [Install](mangayomi://add-repo?repo_name=kegareta-sauces&repo_url=https://github.com/gato404/kegareta-sauces&manga_url=https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/index.json&anime_url=https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/anime_index.json) | - | :yes: | :yes: | :no: |
 
 ### Anime
-| Name | Region | Auto | Manual | Livecounter |
+| Name | Region | Auto | Manual | LiveContainer |
 | - | - | - | - | - |
 | [Kodjo](https://github.com/kodjodevf/mangayomi-extensions) | :global: | [Install](mangayomi://add-repo?anime_url=https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/anime_index.json) | [URL](https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/anime_index.json) | [Install](livecontainer://open-url?url=bWFuZ2F5b21pOi8vYWRkLXJlcG8/cmVwb19uYW1lPW1hbmdheW9taS1leHRlbnNpb25zJnJlcG9fdXJsPWh0dHBzOi8vZ2l0aHViLmNvbS9rb2Rqb2RldmYvbWFuZ2F5b21pLWV4dGVuc2lvbnMmYW5pbWVfdXJsPWh0dHBzOi8va29kam9kZXZmLmdpdGh1Yi5pby9tYW5nYXlvbWktZXh0ZW5zaW9ucy9hbmltZV9pbmRleC5qc29u) |
 | [MiraiEnoki](https://github.com/MiraiEnoki/anymex-extensions) | :global: | [Install](mangayomi://add-repo?anime_url=https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/anime_index.json) | [URL](https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/anime_index.json) | - |
@@ -31,7 +31,7 @@ og:
 | [Gato404](https://github.com/gato404/kegareta-sauces) | :ero: | [Install](mangayomi://add-repo?anime_url=https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/anime_index.json) | [URL](https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/anime_index.json) | - |
 
 ### Manga
-| Name | Region | Auto | Manual | Livecounter |
+| Name | Region | Auto | Manual | LiveContainer |
 | - | - | - | - | - |
 | [Kodjo](https://github.com/kodjodevf/mangayomi-extensions) | :global: | [Install](mangayomi://add-repo?manga_url=https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/index.json) | [URL](https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/index.json) | [Install](livecontainer://open-url?url=bWFuZ2F5b21pOi8vYWRkLXJlcG8/cmVwb19uYW1lPW1hbmdheW9taS1leHRlbnNpb25zJnJlcG9fdXJsPWh0dHBzOi8vZ2l0aHViLmNvbS9rb2Rqb2RldmYvbWFuZ2F5b21pLWV4dGVuc2lvbnMmbWFuZ2FfdXJsPWh0dHBzOi8va29kam9kZXZmLmdpdGh1Yi5pby9tYW5nYXlvbWktZXh0ZW5zaW9ucy9pbmRleC5qc29u) |
 | [MiraiEnoki](https://github.com/MiraiEnoki/anymex-extensions) | :global: | [Install](mangayomi://add-repo?manga_url=https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/index.json) | [URL](https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/index.json) | - |
@@ -39,7 +39,7 @@ og:
 | [Gato404](https://github.com/gato404/kegareta-sauces) | :ero: | [Install](mangayomi://add-repo?manga_url=https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/index.json) | [URL](https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/index.json) | - |
 
 ### Novels
-| Name | Region | Auto | Manual | Livecounter |
+| Name | Region | Auto | Manual | LiveContainer |
 | - | - | - | - | - |
 | [Kodjo](https://github.com/kodjodevf/mangayomi-extensions) | :global: | [Install](mangayomi://add-repo?novel_url=https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/novel_index.json) | [URL](https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/novel_index.json) | [Install](livecontainer://open-url?url=bWFuZ2F5b21pOi8vYWRkLXJlcG8/cmVwb19uYW1lPW1hbmdheW9taS1leHRlbnNpb25zJnJlcG9fdXJsPWh0dHBzOi8vZ2l0aHViLmNvbS9rb2Rqb2RldmYvbWFuZ2F5b21pLWV4dGVuc2lvbnMmbm92ZWxfdXJsPWh0dHBzOi8va29kam9kZXZmLmdpdGh1Yi5pby9tYW5nYXlvbWktZXh0ZW5zaW9ucy9ub3ZlbF9pbmRleC5qc29u) |
 | [MiraiEnoki](https://github.com/MiraiEnoki/anymex-extensions) | :global: | [Install](mangayomi://add-repo?novel_url=https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/novel_index.json) | [URL](https://raw.githubusercontent.com/MiraiEnoki/anymex-extensions/refs/heads/main/novel_index.json) | - |

@@ -113,7 +113,7 @@ Default dark mode of qBittorrent is just too ugly. So we are using a custom them
 
 1. Click on the ":mdi-magnet: Magnet".
 2. Choose your torrent client (if it's your first time).
-3. It will open a pop-up window in qBittorent. Client will retrieve all the metadata and then show all the files and folders, where to download them, and other settings. After adjusting everything, click **OK**.
+3. It will open a pop-up window in qBittorrent. Client will retrieve all the metadata and then show all the files and folders, where to download them, and other settings. After adjusting everything, click **OK**.
 
 ![](/torrenting/mag1.png)
 
@@ -126,7 +126,7 @@ Default dark mode of qBittorrent is just too ugly. So we are using a custom them
 1. Click on ":ic-sharp-download: Download Torrent". It will download a `.torrent` file.
 2. Open the file.
 3. Choose your torrent client (if it's your first time).
-4. It will open a pop-up window in qBittorent. It will show all the files and folders, where to download them, and other settings. After adjusting everything, click **OK**.
+4. It will open a pop-up window in qBittorrent. It will show all the files and folders, where to download them, and other settings. After adjusting everything, click **OK**.
 
 ![](/torrenting/tor1.png)
 
@@ -158,7 +158,7 @@ For this guide, we are using [LibreTorrent](https://play.google.com/store/apps/d
 1. Click on ":ic-sharp-download: Download Torrent". It will download a `.torrent` file.
 2. Open the file.
 3. Choose your torrent client (if it's your first time).
-4. It will open a pop-up window in qBittorent. It will show file count and download location. After adjusting everything, click ":material-symbols-check:".
+4. It will open a pop-up window in qBittorrent. It will show file count and download location. After adjusting everything, click ":material-symbols-check:".
 
 ![](/torrenting/lib4.png)
 
