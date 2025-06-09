@@ -363,7 +363,8 @@ const tooltips: {
   hef: {content: 'Does not have all the recent fan projects.'},
   cupscale: {content: 'Cupscale is not good for color and pages with no screentone.'},
   kazamakase: {content: 'Does not get much update but has info about old comics.'},
-  mangarawspoil: {content: 'Has unusual geo-restrictions. Everything works in Japan, but some content may also be accessible in other regions. Although the watermarks differ, the content remains the same.'}
+  mangarawspoil: {content: 'Has unusual geo-restrictions. Everything works in Japan, but some content may also be accessible in other regions. Although the watermarks differ, the content remains the same.'},
+  animez: {content: 'Rips 1080p from Kai.'}
 }
 
 export function configureMarkdown(md: MarkdownRenderer) {

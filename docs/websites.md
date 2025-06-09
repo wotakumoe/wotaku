@@ -43,6 +43,7 @@ outline: 1
 | Websites | Type | Login | Sub |
 |----------|----------------------|----------------------|--------|
 | [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) ==AllManga== | :mingcute-server-fill: :mingcute-shovel-fill: | :mingcute-user-2-fill: | :cc::hs: |
+| [AnimeZ](https://animeyy.com/) ==animez== | :mingcute-server-fill: | :mingcute-user-2-fill: | :hs: |
 | [Animotvslash](https://www.animotvslash.org/search) ==Animotvslash== | :mingcute-server-fill: | :no: | :cc::hs: |
 | [AniHQ](https://anihq.to/home/) | :mingcute-server-fill: | :mingcute-user-2-fill: | :hs: |
 | [Watch Cartoon Online](https://www.wco.tv/) [:prx:](https://rentry.org/wotaxy#watch-cartoon-online) ==WCO== | :mingcute-server-fill: | :mingcute-user-2-fill: | :hs: |
@@ -217,6 +218,7 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 ::: details Scrapers
 - [Cubari Proxy](https://proxy.cubari.moe/#/) ==cubari==
 - [Akari](https://akari-psi.vercel.app/) [:gh:](https://github.com/sn0w12/akari) ==akari==
+- [Manga Clan](https://mangaclan.online/)
 :::
 
 ## Download
