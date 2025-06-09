@@ -309,8 +309,6 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/kaguya) for [Cubari](https://cubari.moe/). It can batch upload manga chapters on Imgchest and generate full JSON. Full guide [here](/guides/manga/cubari).
 :::
 
-:::
-
 ::: details  Related resources
 - [Manga apps for Android](/software#manga-readers) and [PC](/software#manga-readers-2)
 - [Manga downloader for PC](/software#manga)

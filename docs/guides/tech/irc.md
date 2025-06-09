@@ -75,7 +75,7 @@ If you face any issues when connecting, try enabling **"Accept invalid SSL certi
 ::: details XDCC.EU
 1. Click on the :mingcute-information-line: button
 2. Join the server and the channel of the bot
-3. copy and send the bot command in the channel
+3. Copy and send the bot command in the channel
 
 ![XDCC.EU](/ss/irc/xdcceu.png)
 :::

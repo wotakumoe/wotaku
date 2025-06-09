@@ -40,7 +40,7 @@ og:
 |-|-|
 | Season | In Japanese TV, the broadcast schedule is divided into four seasons: Spring, Summer, Autumn, and Winter. |
 | Cour | Each 13eps/season is called a cour. |
-| Consecutive-cour | When the anime season spreads throught 2 or more contniously without a seasonal break. Example: 2-cour anime ([Kimetsu no Yaiba](https://anilist.co/anime/101922/Kimetsu-no-Yaiba), [The Apothecary Diaries Season 2](https://anilist.co/anime/176301/Kusuriya-no-Hitorigoto-2nd-Season)), 3-cour ([DEATH NOTE](https://anilist.co/anime/1535/DEATH-NOTE)) or a 4-cour ([Naruto](https://anilist.co/anime/20/NARUTO)) |
+| Consecutive-cour | When the anime season spreads through 2 or more continuously without a seasonal break. Example: 2-cour anime ([Kimetsu no Yaiba](https://anilist.co/anime/101922/Kimetsu-no-Yaiba), [The Apothecary Diaries Season 2](https://anilist.co/anime/176301/Kusuriya-no-Hitorigoto-2nd-Season)), 3-cour ([DEATH NOTE](https://anilist.co/anime/1535/DEATH-NOTE)) or a 4-cour ([Naruto](https://anilist.co/anime/20/NARUTO)) |
 | Split-cour | When the anime season isn't continuous and has a break of one or two cours. Example: [Spy x Family](https://anilist.co/anime/142838/SPYFAMILY-Part-2) |
 
 
@@ -80,7 +80,7 @@ Settai is collection of model sheets and important places (can be a house, place
 ![Akebi-chan no Sailor-fuku](/glossary/anime/akb.webp)
 
 ::: tip Extra
-[Settai Dreams](https://setteidreams.net/) & [Character Design References](https://characterdesignreferences.com/) have a lot of model sheets. Vist these sites for more examples.
+[Settai Dreams](https://setteidreams.net/) & [Character Design References](https://characterdesignreferences.com/) have a lot of model sheets. Visit these sites for more examples.
 :::
 
 ### E-Konte
@@ -130,7 +130,7 @@ We tried to really simplify the process. For more details, check out [**Dong Cha
 ![Satsuma! by Miyakawa (Unofficial TL by Liss)](/glossary/anime/time.webp)
 
 ::: tip Extra
-[**Free PDF book**](https://satuma.grupo.jp/free838189) by [**Miyakawa**](https://x.com/satuma_info) contains a lot of info about timesheets / exposure sheets. [**Liss**](https://x.com/LissBevs) has been doing an unofficial English translation of the book. You can find a parital compiled version [**here**](https://drive.google.com/file/d/1yB2U-OONyAHhFnWsNJhU-R-5-t26YwlY/view) and for the latest updates, [**click here**](https://x.com/hashtag/satsuma_pdf?f=live).
+[**Free PDF book**](https://satuma.grupo.jp/free838189) by [**Miyakawa**](https://x.com/satuma_info) contains a lot of info about timesheets / exposure sheets. [**Liss**](https://x.com/LissBevs) has been doing an unofficial English translation of the book. You can find a partial compiled version [**here**](https://drive.google.com/file/d/1yB2U-OONyAHhFnWsNJhU-R-5-t26YwlY/view) and for the latest updates, [**click here**](https://x.com/hashtag/satsuma_pdf?f=live).
 :::
 
 ### Douga
