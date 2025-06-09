@@ -127,22 +127,22 @@ outline: 1
 - Uploaded on own server -> :ddl:
 - Uploaded on Google Drive -> :sgd:
 - Uploaded on SharePoint -> :simple-icons-microsoftsharepoint:
-- Uploaded on Host sites -> :host:
 - Batch Download -> :batch:
 - Torrent Download -> :mag:
 - Account Needed -> :acc:
-- Blu-ray -> :mdi-disc:
 
 :::
 
 
 | Category      | Name |
 |--------------|------|
-| **Reuploads / Untouched** | [Flugel Anime](https://flugelanime.com/) :simple-icons-microsoftsharepoint: |
+| **Reuploads** | [Flugel Anime](https://flugelanime.com/) :simple-icons-microsoftsharepoint: |
 | ^^ | [Anime Tosho](https://animetosho.org/) :ddl: ==atosho== |
 | ^^ | [Tokyo Insider](https://www.tokyoinsider.com/) :ddl: |
-| ^^ | [JPFiles](https://jpfiles.net/) :host::mdi-disc: |
-| ^^ | [AnimeRSS](https://animerss.com/) :host::mdi-disc: |
+| ^^ |  |
+| **Slow host** | [JPFiles](https://jpfiles.net/) |
+| ^^ | [AnimeRSS](https://animerss.com/) |
+| ^^ | [urajp](https://urajp.se/) |
 | **Re-encodes** | [Kayoanime](https://kayoanime.com/) :sgd::batch: |
 | ^^ | [AnimeOut](https://www.animeout.xyz/) :ddl::acc: [:alt:](https://animewat.ch/) |
 | ^^ | [Chauthanh](https://chauthanh.info/) :ddl::acc: |
