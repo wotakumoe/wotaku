@@ -254,6 +254,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [141 JAV](https://www.141jav.com/) [:alt:](https://www.141ppv.com/)
 
 ### Others
+- [Gravure Princess](https://idol.gravureprincess.date/)
 - [Mabui Onna](https://mabui-onna.com/)
 - [Sougou Wiki](http://sougouwiki.com/)
 - [X-IDOL](https://xidol.net/) [:alt:](https://www.ivworld.net/)
