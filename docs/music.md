@@ -360,11 +360,11 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 ### Online
 | Category   | Links   |
 |-----------|--------|
-| **General** | [Echo](https://github.com/brahmkshatriya/echo) :and: ==echo== |
+| **General** | [Echo](https://github.com/brahmkshatriya/echo) :s::and: ==echo== |
 | ^^         | [Soundbound](https://soundbound.app/) :and::cs: |
 | **YouTube** | [**YouTube Music**](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music) |
 | ^^         | [Revanced Music](https://github.com/j-hc/revanced-magisk-module/releases) :and: |
-| ^^         | [Innertune](https://github.com/z-huang/InnerTune) :s::and: |
+| ^^         | [Innertune](https://github.com/z-huang/InnerTune) :and: |
 | ^^         | [Metrolist](https://github.com/mostafaalagamy/metrolist) :and: |
 | ^^         | [OuterTune](https://github.com/DD3Boh/OuterTune) :and: |
 | ^^         | [RiMusic](https://github.com/fast4x/RiMusic) :and: |
