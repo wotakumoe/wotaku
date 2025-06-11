@@ -111,6 +111,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 - [Stitch Tool](https://github.com/Aeonss/StitchTool)
 - [Typertools](https://swirt.github.io/typertools/)
 - [Typesetter*er*](https://illuminati-manga.com/illiteracy/typesetterer/)
+- [TypeR](https://typer.hayasaku.fr/) [:gh:](https://github.com/SeanR-ScanR/TypeR)
 - [TypeX](https://github.com/XandeKK/TypeX)
 
 ## Upscaling
