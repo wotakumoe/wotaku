@@ -60,10 +60,15 @@ Squidify is based on Navidrome which has its own set of third-party Apps besides
     - Expose Navidrome as a UPnP/DLNA media library. See the [**discussion**](https://github.com/navidrome/navidrome/discussions/2324).
 :::
 
+::: warning Known Issue
+If you experience audio breakups, we recommend using [Feishin](https://github.com/jeffvli/feishin) together with [MPV](https://mpv.io/) for better playback performance.
+
+![](/ss/feshin.gif)
+:::
+
 ::: info More clients
 For more options, look at the [**list of clients**](https://airsonic.github.io/docs/apps/) maintained by the Airsonic project
 :::
-
 
 ## Credentials
 
