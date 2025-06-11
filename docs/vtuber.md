@@ -145,6 +145,7 @@ og:
 #### Animatics / Clip focused
 - [9am](https://www.youtube.com/@9amKR/) <Badge type="warning" text="Inactive"/> <Badge type="tip" text="EN" link="https://www.youtube.com/@9amEN/" />
 - [Applisaur](https://youtube.com/@applisaur)
+- [ばかくん三世](https://www.youtube.com/@bakakunsansei)
 - [Coomfus](https://www.youtube.com/@Coomfus/) <Badge type="warning" text="Inactive"/>
 - [エビフライ / Ebihurai](https://www.youtube.com/@Ebihuraii) <Badge type="tip" text="EN" link="https://www.youtube.com/@EbihuraiIEN" />
 - [FuwaFuwa](https://www.youtube.com/@fuwafuwa_35/)
