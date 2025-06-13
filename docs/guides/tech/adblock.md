@@ -17,17 +17,12 @@ og:
 | [Ironfox](https://gitlab.com/ironfox-oss/IronFox/) | :and: | :no: |
 | [LibreWolf](https://librewolf.net/) [:cb:](https://codeberg.org/librewolf/source) | :no: | :win::app::lin: |
 
-## In-browser
-- **Extension**
-  - [uBlock Origin](https://github.com/gorhill/uBlock) :s::ff::cr:
-    - [uBO Website Fixes](https://old.reddit.com/r/uBlockOrigin/wiki/solutions/)
-  - [uBO Lite](https://github.com/uBlockOrigin/uBOL-home) :ff::cr:
-  - [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html) :ff::cr:
-  - [ClearURLs](https://docs.clearurls.xyz/) :ff::cr:
-- **Script**
-  - [AdsBypasser](https://adsbypasser.github.io/) [:gh:](https://github.com/adsbypasser/adsbypasser)
-  - [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/) :s:
-  - [Bypass.city](https://bypass.city/how-to-install-userscript)
+## Extension
+- [uBlock Origin](https://github.com/gorhill/uBlock) :s::ff::cr:
+  - [uBO Website Fixes](https://old.reddit.com/r/uBlockOrigin/wiki/solutions/)
+- [uBO Lite](https://github.com/uBlockOrigin/uBOL-home) :ff::cr:
+- [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html) :ff::cr:
+- [ClearURLs](https://docs.clearurls.xyz/) :ff::cr:
 
 ## Apps
 - [Adguard](https://adguard.com/en/welcome.html) :s: :and::app:
@@ -68,7 +63,10 @@ Adding a lot of filters to your adblocker (that you don't specifically need) can
 |--------|-----------|
 | **Captcha** | [Buster](https://github.com/dessant/buster) :ff::cr: |  
 | ^^     | [NopeCHA](https://nopecha.com/) :ff::cr: |  
-| **Paywall** | [Bye Bye Paywall](https://byebyepaywall.com/en/) :web: |  
+| **Paywall** | [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/) :s::js: | 
+| ^^     | [AdsBypasser](https://adsbypasser.github.io/) [:gh:](https://github.com/adsbypasser/adsbypasser) :js: |
+| ^^     | [Bye Bye Paywall](https://byebyepaywall.com/en/) :web: |  
+| ^^     | [Bypass.city](https://bypass.city/how-to-install-userscript) :js: |
 | ^^     | [Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bpc_updates) :ff::cr: |  
 | ^^     | [Bypass Paywalls Clean Filters](https://gitflic.ru/project/magnolia1234/bypass-paywalls-clean-filters) :mdi-filter: |  
 | **Others** | [BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) :ff::cr: |
