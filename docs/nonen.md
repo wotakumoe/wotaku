@@ -409,7 +409,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Dokiraw](https://dokiraw.com/home)
 - [KL Manga](https://klz9.com/idx) [:prx:](https://rentry.org/wotaxy#kl-manga)
 - [MangaFire](https://mangafire.to/home)
-- [Manga Jikan](https://www.mangajikan.com/) [:prx:](https://rentry.org/wotaxy#manga-jikan)
+- [Manga Jikan](https://www.mangajikan.cc/) [:prx:](https://rentry.org/wotaxy#manga-jikan)
 - [MangaKuro](https://mangakuro.net/home)
 - [Manga Raw (.ac)](https://mangaraw.ac/) [:prx:](https://rentry.org/wotaxy#mangarawspoil) ==mangarawspoil==
 - [Manga RAW (.ad)](https://mangaraw.ad/)
