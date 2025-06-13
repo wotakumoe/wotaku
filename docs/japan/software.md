@@ -48,6 +48,7 @@ ___
 - [Search Stats Extended](https://ankiweb.net/shared/info/1613056169)
 - [WaniAnki](https://damiansh.github.io/waniAnki/instructions)
 - [Yomichan Forvo Server](https://ankiweb.net/shared/info/580654285) [:gh:](https://github.com/jamesnicolas/yomichan-forvo-server)
+- [Yomitan Backfil](https://ankiweb.net/shared/info/1184164376)
 - [Yomitan Frequency Sort](https://ankiweb.net/shared/info/295700265)
 
 ### Card templates
