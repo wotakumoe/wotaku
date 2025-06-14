@@ -101,6 +101,7 @@ export const nav: DefaultTheme.NavItem[] = [
       {
         text: 'Music',
         items: [
+          { text: 'Echo', link: '/guides/music/echo' },
           { text: 'FB2K Synced Lyrics', link: '/guides/music/fb2klyrics' },
           { text: 'Squidify', link: '/guides/music/squidify' },
           { text: 'Transcoding Audio', link: '/guides/music/transcoding' }
@@ -259,6 +260,7 @@ export const sidebar: DefaultTheme.Sidebar = [
         text: 'Music',
         collapsed: true,
         items: [
+          { text: 'Echo', link: '/guides/music/echo' },
           { text: 'FB2K Synced Lyrics', link: '/guides/music/fb2klyrics' },
           { text: 'Squidify', link: '/guides/music/squidify' },
           { text: 'Transcoding Audio', link: '/guides/music/transcoding' }

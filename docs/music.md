@@ -360,7 +360,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 ### Online
 | Category   | Links   |
 |-----------|--------|
-| **General** | [Echo](https://github.com/brahmkshatriya/echo) :s::and: ==echo== |
+| **General** | [Echo](https://github.com/brahmkshatriya/echo) :s::and: [:help:](/guides/music/echo) ==echo== |
 | ^^         | [Soundbound](https://soundbound.app/) :and::cs: |
 | **YouTube** | [**YouTube Music**](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music) |
 | ^^         | [Revanced Music](https://github.com/j-hc/revanced-magisk-module/releases) :and: |
