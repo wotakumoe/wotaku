@@ -28,7 +28,7 @@ Extensions are mix of `.eapk` and `.apk`. `.eapk` ones will be installed without
 
 | Extension | Code | Manual |
 |-|-|-|
-| All-in-one :s: | `extension` | [Link](https://paste.rs/ZHV6H) [:alt:](https://raw.githubusercontent.com/itsmechinmoy/echo-extensions/main/echo_extensions.json) |
+| All-in-one :s: | `extension` | [Link](https://raw.githubusercontent.com/itsmechinmoy/echo-extensions/main/echo_extensions.json) |
 | EchoDown | `echodown` | [Link](https://paste.rs/9x6hj) |
 
 == Repositories
