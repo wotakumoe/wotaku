@@ -85,7 +85,7 @@ Extensions are mix of `.eapk` and `.apk`. `.eapk` ones will be installed without
 
 ### Updating extension
 Echo automatically checks for extension updates every 6 hours. If you'd like to check for updates manually,
-- Go to :material-symbols-settings-outline-rounded: Settings -> :material-symbols-info-outline-rounded: Misc
+- Go to :material-symbols-settings-outline-rounded: **Settings** -> :material-symbols-info-outline-rounded: **Misc**
 - Hold tap "**Check for Extensions Updates**"
 - If it finds new update, it will give prompt to install the update.
 - After installation, restart Echo.
@@ -94,24 +94,26 @@ Echo automatically checks for extension updates every 6 hours. If you'd like to 
 ### Playing music
 By default, Echo is an offline music player. You have to install [music extensions](#installing-extension) to stream music.
 
-- Click :material-symbols-stream-rounded: Extension icon and select a music streaming extension.
+- Click :material-symbols-stream-rounded: **Extension** icon and select a music streaming extension.
 - Depending on the extension:
   - It can show and play songs without login (e.g., YouTube Music).
   - It may show playlists and songs but cannot play any tracks (e.g., Spotify).
   - It may not show anything without login (e.g., Deezer).
 
 To access personalized content, playlists, and streaming features, add your account. To add an account,
-- Go to :material-symbols-settings-outline-rounded: Settings -> :material-symbols-stream-rounded: Extension
+- Go to :material-symbols-settings-outline-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension**
 - Then click on the music streaming extension you want to link.
-- Click :material-symbols-login-rounded: Login and follow the instructions.
+- Click :material-symbols-login-rounded: **Login** and follow the instructions.
 
 ::: info Unified Extension
 The Unified Extension lets you browse all extensions from the top bar. In the library, you can create playlists and add songs from multiple services there.
 :::
 
-::: danger Spotify Account Suspension
-The Spotify extension violates Spotify’s Terms of Service. Accounts are typically banned in waves. The Echo development team is not responsible for any account bans. If your account is suspended, you will need to contact Spotify Support directly.
-:::
+## Important
+
+#### Spotify Account Suspension
+The Spotify extension violates Spotify’s Terms of Service. Accounts are typically suspended in waves. The Echo development team is not responsible for any account suspension. If your account is suspended, you will need to contact Spotify Support directly.
+
 
 ## Miscellaneous
 
@@ -121,9 +123,9 @@ The Spotify extension violates Spotify’s Terms of Service. Accounts are typica
 To download songs in Echo, you have to install [EchoDown](#installing-extension) extension.
 
 - Open any song/album you want to download.
-- Press :material-symbols-more-horiz: to open the menu and then click :material-symbols-download-for-offline-outline-rounded: Download
+- Press :material-symbols-more-horiz: to open the menu and then click :material-symbols-download-for-offline-outline-rounded: **Download**
 
-You can see the progress in :material-symbols-settings-outline-rounded: Settings ->  :material-symbols-download-for-offline-outline-rounded: Downloads. Once done, you'll find them in :material-symbols-files-outline: Offline section. If you can't find offline section, click the extension icon, and select :material-symbols-files-outline: Offline from there.
+You can see the progress in :material-symbols-settings-outline-rounded: **Settings** ->  :material-symbols-download-for-offline-outline-rounded: **Downloads**. Once done, you'll find them in :material-symbols-files-outline: **Offline**. If you can't find offline section, click the extension icon, and select :material-symbols-files-outline: **Offline** from there.
 
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/-TamZ_J7NmA" frameborder="0" allowfullscreen></iframe></div>
 
@@ -160,6 +162,14 @@ You can also use [Trikatuka](https://trikatuka.aknakn.eu/#/) to transfer data fr
 
 ## Troubleshooting
 
-::: details Extension Update Issue
+### General
+
+#### Extension Update Issue
 Some ISPs might block GitHub raw or gist URLs, which can prevent extension updates. To work around this, use a [VPN](/qs#vpn).
-:::
+
+___
+
+### Deezer
+
+#### Deezer not available in my country
+Use a [VPN](/qs#vpn) to create your Deezer account. After that, you can access Deezer without a VPN by using a proxy server. To set up a proxy, go to :material-symbols-settings-outline-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension** -> **Deezer** -> **Use Proxy**, and select a proxy server from the list.
