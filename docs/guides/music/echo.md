@@ -33,24 +33,39 @@ Extensions are a mix of `.eapk` and `.apk` files. `.eapk` files are installed au
 
 == Repositories
 
-| Dev            | Extensions                                                                 |
-|----------------|------------------------------------------------------------------------|
-| brahmkshatriya | [Cineby](https://github.com/brahmkshatriya/echo-cineby-extension/releases)         |
-| ^^             | [Discord](https://github.com/brahmkshatriya/echo-discord/releases)                 |
-| ^^             | [Spotify](https://github.com/brahmkshatriya/echo-spotify-extension/releases)       |
-| ^^             | [YouTube](https://github.com/brahmkshatriya/echo-youtube-extension/releases)       |
-| GrimXer0       | [TuneIn](https://github.com/GrimXer0/EchoTuneIn-extension/releases)                |
-| LuftVerbot     | [Deezer](https://github.com/LuftVerbot/echo-deezer-extension/releases)             |
-| ^^             | [Echodown](https://github.com/LuftVerbot/echo-echodown-extension/releases)         |
-| rebelonion     | [ASMR One](https://github.com/rebelonion/echo-asmr-one/releases)                   |
-| ^^             | [Last.fm](https://github.com/rebelonion/echo-lastfm/releases)                      |
-| ^^             | [Lyrics Translator](https://github.com/rebelonion/echo-lyrics-translator/releases) |
-| Secozzi        | [Jellyfin](https://github.com/Secozzi/echo-jellyfin-extension/releases)            |
-| shub39         | [Genius](https://github.com/shub39/echo-genius-extension/releases)                 |
-| ^^             | [Kugou](https://github.com/shub39/echo-kugou-extension/releases)                   |
-| ^^             | [Lrclib](https://github.com/shub39/echo-lrclib-extension/releases)                 |
-| ^^             | [Musixmatch](https://github.com/shub39/echo-musixmatch-extension/releases)         |
+#### Music Streaming
 
+| Dev            | Extensions                                                                                   |
+|----------------|----------------------------------------------------------------------------------------------|
+| brahmkshatriya | [Spotify](https://github.com/brahmkshatriya/echo-spotify-extension/releases)                |
+| ^^             | [YouTube](https://github.com/brahmkshatriya/echo-youtube-extension/releases)                |
+| GrimXer0       | [TuneIn](https://github.com/GrimXer0/EchoTuneIn-extension/releases)                         |
+| LuftVerbot     | [Deezer](https://github.com/LuftVerbot/echo-deezer-extension/releases)                      |
+| Secozzi        | [Jellyfin](https://github.com/Secozzi/echo-jellyfin-extension/releases)                     |
+
+#### Lyrics
+
+| Dev        | Extensions                                                                                   |
+|------------|----------------------------------------------------------------------------------------------|
+| rebelonion | [Lyrics Translator](https://github.com/rebelonion/echo-lyrics-translator/releases)          |
+| shub39     | [Genius](https://github.com/shub39/echo-genius-extension/releases)                          |
+| ^^         | [Kugou](https://github.com/shub39/echo-kugou-extension/releases)                            |
+| ^^         | [LRCLIB](https://github.com/shub39/echo-lrclib-extension/releases)                          |
+| ^^         | [MusixMatch](https://github.com/shub39/echo-musixmatch-extension/releases)                  |
+
+#### Tracking
+
+| Dev        | Extensions                                                                                   |
+|------------|----------------------------------------------------------------------------------------------|
+| rebelonion | [Last.fm](https://github.com/rebelonion/echo-lastfm/releases)                               |
+
+#### Others
+| Dev            | Extensions                                                                                   |
+|----------------|----------------------------------------------------------------------------------------------|
+| brahmkshatriya | [Cineby](https://github.com/brahmkshatriya/echo-cineby-extension/releases)                  |
+| brahmkshatriya | [Discord](https://github.com/brahmkshatriya/echo-discord/releases)                          |
+| LuftVerbot     | [Echodown](https://github.com/LuftVerbot/echo-echodown-extension/releases)                  |
+| rebelonion     | [ASMR One](https://github.com/rebelonion/echo-asmr-one/releases)                            |
 
 :::
 
@@ -115,7 +130,7 @@ The Unified Extension lets you browse all extensions from the top bar. In the li
 The Spotify extension violates Spotify’s Terms of Service. Accounts are typically suspended in waves. The Echo development team is not responsible for any account suspension. If your account is suspended, you will need to contact Spotify Support directly.
 
 
-## Miscellaneous guides
+## Other guides
 
 ### Changing lyrics provider
 Echo supports multiple lyrics providers. You can select your preferred provider from the player.
