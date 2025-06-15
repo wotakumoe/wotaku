@@ -11,7 +11,7 @@ og:
 
 [**Echo**](https://github.com/brahmkshatriya/echo) is an extension-based music player app. It can play music from streaming websites (e.g., YouTube, Spotify, Deezer) and self-hosted servers (e.g., Jellyfin). Echo also supports external lyrics and music tracking (e.g., Last.fm).
 
-## Getting started
+## Setup
 
 ### Installing Echo
 - Download the first ZIP file from the [**nightly**](https://nightly.link/brahmkshatriya/echo/workflows/nightly/main/artifact) page.
@@ -20,7 +20,7 @@ og:
 
 
 ### Installing extension
-Extensions are mix of `.eapk` and `.apk`. `.eapk` ones will be installed without any extra steps. But for `.apk`, you have to install it like normal apps.
+Extensions are a mix of `.eapk` and `.apk` files. `.eapk` files are installed automatically, but `.apk` files need to be installed manually like regular apps.
 
 ::: tabs
 
@@ -72,7 +72,7 @@ Extensions are mix of `.eapk` and `.apk`. `.eapk` ones will be installed without
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/l9WsxYekKfY" frameborder="0" allowfullscreen></iframe></div>
 
 == File
-- Go to [repositories](#installing-extension) tab and tap on the repo you want to add in the player.
+- Go to the [Repositories](#installing-extension) tab and tap on the repository you want to add to the player.
 - Download the latest `.apk` / `.eapk` from there.
 - Open the Echo app.
 - Tap the :material-symbols-stream-rounded: **Extension** icon.
@@ -86,8 +86,8 @@ Extensions are mix of `.eapk` and `.apk`. `.eapk` ones will be installed without
 ### Updating extension
 Echo automatically checks for extension updates every 6 hours. If you'd like to check for updates manually,
 - Go to :material-symbols-settings-outline-rounded: **Settings** -> :material-symbols-info-outline-rounded: **Misc**
-- Hold tap "**Check for Extensions Updates**"
-- If it finds new update, it will give prompt to install the update.
+- Tap and hold "**Check for Extension Updates**".
+- If a new update is found, you'll be prompted to install it.
 - After installation, restart Echo.
 
 
@@ -115,38 +115,43 @@ The Unified Extension lets you browse all extensions from the top bar. In the li
 The Spotify extension violates Spotify’s Terms of Service. Accounts are typically suspended in waves. The Echo development team is not responsible for any account suspension. If your account is suspended, you will need to contact Spotify Support directly.
 
 
-## Miscellaneous
+## Miscellaneous guides
 
-::: tabs
+### Changing lyrics provider
+Echo supports multiple lyrics providers. You can select your preferred provider from the player.
+- Play a song and click on **Lyrics**.
+- Then scroll up and you will see :material-symbols-queue-music-rounded: Music Provider "Logo".
+- Click on the logo and select the lyrics provider.
 
-== Downloading
+The last selected lyrics provider will be set as the default.
+
+<div class="video_wrapper"><iframe src="https://www.youtube.com/embed/t0lBUbf4HLs" frameborder="0" allowfullscreen></iframe></div>
+
+___
+
+### Downloading music
 To download songs in Echo, you have to install [EchoDown](#installing-extension) extension.
 
 - Open any song/album you want to download.
 - Press :material-symbols-more-horiz: to open the menu and then click :material-symbols-download-for-offline-outline-rounded: **Download**
 
-You can see the progress in :material-symbols-settings-outline-rounded: **Settings** ->  :material-symbols-download-for-offline-outline-rounded: **Downloads**. Once done, you'll find them in :material-symbols-files-outline: **Offline**. If you can't find offline section, click the extension icon, and select :material-symbols-files-outline: **Offline** from there.
+You can see the progress in :material-symbols-settings-outline-rounded: **Settings** ->  :material-symbols-download-for-offline-outline-rounded: **Downloads**. Once done, you'll find them in :material-symbols-files-outline: **Offline**. If you can't find the Offline section, click :material-symbols-stream-rounded: **Extension** icon, and select :material-symbols-files-outline: **Offline** from there.
 
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/-TamZ_J7NmA" frameborder="0" allowfullscreen></iframe></div>
 
-== Lyrics Provider
-Echo supports multiple lyrics provider. You can select the lyrics provider from the player.
-- Play a song and click on **Lyrics**.
-- Then scroll up and you will see :material-symbols-queue-music-rounded: Music Provider "Logo".
-- Click on the logo and select the lyrics provider.
+___
 
-Last selected lyrics provider will be set as default lyrics provider.
+### Transferring Spotify data
 
-<div class="video_wrapper"><iframe src="https://www.youtube.com/embed/t0lBUbf4HLs" frameborder="0" allowfullscreen></iframe></div>
+::: tabs
 
-== Spotify transfer
-### Export
+== Export
 - Go to [**Exportify**](https://exportify.net)
 - Login with Spotify
 - Click "**Export**" beside each playlist
 - Save the CSV files
 
-### Import
+== Import
 - Go to [**TuneMyMusic**](https://www.tunemymusic.com)
 - Select "**File**" as source
 - Upload your CSV file
@@ -154,11 +159,11 @@ Last selected lyrics provider will be set as default lyrics provider.
 - Login to new account
 - Name playlist and click "Start Moving My Music"
 - Repeat for each playlist
-
-You can also use [Trikatuka](https://trikatuka.aknakn.eu/#/) to transfer data from one Spotify account to another.
 :::
 
-
+::: tip Acount-to-Account transfer
+Alternatively, you can use [Trikatuka](https://trikatuka.aknakn.eu/#/) to transfer data between Spotify accounts.
+:::
 
 ## Troubleshooting
 
