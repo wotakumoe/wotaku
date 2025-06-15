@@ -42,7 +42,6 @@ og:
 
 
 ## Anime
-- [Animelon](https://animelon.com/) :s:
 - [Anisub](https://anisub.tv/)
 - [Nyaa](https://nyaa.si/) <tooltip>Searching for anime with the 日 symbol will give results for uploads containing both chinese and japanese subs (usually statcked on top of each other). This trick works on both japanese and chinese trackers (found in the non-en section). The full nyaa link is: https://nyaa.si/?f=0&c=1_0&q=%E6%97%A5</tooltip>
 - [HiAnime](https://hianimez.to/home)
