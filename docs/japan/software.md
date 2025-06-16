@@ -48,7 +48,7 @@ ___
 - [Search Stats Extended](https://ankiweb.net/shared/info/1613056169)
 - [WaniAnki](https://damiansh.github.io/waniAnki/instructions)
 - [Yomichan Forvo Server](https://ankiweb.net/shared/info/580654285) [:gh:](https://github.com/jamesnicolas/yomichan-forvo-server)
-- [Yomitan Backfil](https://ankiweb.net/shared/info/1184164376)
+- [Yomitan Backfill](https://ankiweb.net/shared/info/1184164376)
 - [Yomitan Frequency Sort](https://ankiweb.net/shared/info/295700265)
 
 ### Card templates
@@ -148,6 +148,7 @@ ___
 - [Anime Subtitle Player](https://anime-subtitle-player.vercel.app/) :web: [:gh:](https://github.com/LostArrows27/anime-subtitle-player)
 - [Animebook](https://animebook.github.io/) :web: [:help:](https://cademcniven.com/posts/20210703/)
 - [Asbplayer](https://killergerbah.github.io/asbplayer/) :web::cr: [:gh:](https://github.com/killergerbah/asbplayer)
+  - [Yomine](https://github.com/mcgrizzz/Yomine)
 - [Emby Jimaku](https://github.com/bpwhelan/Emby.Jimaku)
 - [Stremio Jimaku](https://jimaku-subs-stremio.echevarria.org/configure) [:gh:](https://github.com/Pedrubik2000/jimaku-subs-stremio)
 - [Voracious](https://voracious.app/) :win::lin: [:gh:](https://github.com/rsimmons/voracious)
@@ -176,6 +177,7 @@ ___
 ### Browser
 - [Yomitan](https://yomitan.wiki/) :s: :ff::cr: [:gh:](https://github.com/yomidevs/yomitan) [:help:](https://learnjapanese.moe/yomichan/)<tooltip>Pop-up dictionary. Can be used on mobile, with browsers that support extensions.</tooltip>
     - [Yomitan Dictionaries](https://github.com/MarvNC/yomichan-dictionaries/)
+    - [Collection of Yomitan dictionaries (japanese)](https://rentry.org/wotadirect#japansoftware)
     - [Yomitan Grammar Dictionaries](https://github.com/aiko-tanaka/Grammar-Dictionaries)
     - [VNDB Names for Yomitan](https://github.com/kaanium/VNDB-Names-for-Yomitan)
 - [10ten Japanese Reader](https://github.com/birchill/10ten-ja-reader) :ff::cr::simple-icons-safari:<tooltip>Pop-up dictionary</tooltip>
@@ -223,11 +225,13 @@ ___
 - [Game Sentence Miner](https://github.com/bpwhelan/GameSentenceMiner)
 - [Luna Translator](https://github.com/HIllya51/LunaTranslator)
 - [Textractor](https://github.com/Artikash/Textractor) [:help:](https://lazyguidejp.github.io/jp-lazy-guide/setupVnOnPC/)
+- [Chenx221's Textractor fork](https://github.com/Chenx221/Textractor)
 - [Texthooker UI](https://github.com/Renji-XD/texthooker-ui)
 - [Textractor websocket](https://github.com/kuroahna/textractor_websocket)
 - [Trim Japanese Game Audio](https://github.com/bpwhelan/TrimJapaneseGameAudio/)
 ___
 #### Others
+- [buukuru](https://github.com/duykhanh472/buukuru)
 - [ComicEater](https://github.com/kanjieater/ComicEater)
 - [Furiganalyse](https://furiganalyse.itsupera.co/) :web: [:gh:](https://github.com/itsupera/furiganalyse)
 - [GenkiYoshi](https://github.com/FragozoLeonardo/Genki-Yoshi)
