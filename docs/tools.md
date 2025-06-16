@@ -356,9 +356,10 @@ og:
 - [nyaablue](https://greasyfork.org/en/scripts/441017-nyaablue)
 
 ## AniList
-- [AniList Unlimited](https://greasyfork.org/en/scripts/404465-anilist-unlimited-score-in-header) [:gh:](https://github.com/mysticflute/ani-list-unlimited)
 - [AniList Activity-Feed Filter](https://greasyfork.org/en/scripts/475234-anilist-activity-feed-filter)
 - [AniList External Links](https://greasyfork.org/en/scripts/442599-AniList-external-links)
+- [AniList Extras](https://github.com/pilar6195/AniList-Extras)
+- [AniList Unlimited](https://greasyfork.org/en/scripts/404465-anilist-unlimited-score-in-header) [:gh:](https://github.com/mysticflute/ani-list-unlimited)
 - [Anisongs](https://greasyfork.org/en/scripts/374785-anisongs)
 - [Automail](https://greasyfork.org/en/scripts/370473-automail) [:gh:](https://github.com/hohMiyazawa/Automail)
 
