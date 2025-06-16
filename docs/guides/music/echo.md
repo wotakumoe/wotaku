@@ -63,7 +63,7 @@ Extensions are a mix of `.eapk` and `.apk` files. `.eapk` files are installed au
 | Dev            | Extensions                                                                                   |
 |----------------|----------------------------------------------------------------------------------------------|
 | brahmkshatriya | [Cineby](https://github.com/brahmkshatriya/echo-cineby-extension/releases)                  |
-| brahmkshatriya | [Discord](https://github.com/brahmkshatriya/echo-discord/releases)                          |
+| brahmkshatriya | [Discord RPC](https://github.com/brahmkshatriya/echo-discord/releases)                          |
 | LuftVerbot     | [Echodown](https://github.com/LuftVerbot/echo-echodown-extension/releases)                  |
 | rebelonion     | [ASMR One](https://github.com/rebelonion/echo-asmr-one/releases)                            |
 
@@ -129,6 +129,9 @@ The Unified Extension lets you browse all extensions from the top bar. In the li
 #### Spotify Account Suspension
 The Spotify extension violates Spotify’s Terms of Service. Accounts are typically suspended in waves. The Echo development team is not responsible for any account suspension. If your account is suspended, you will need to contact Spotify Support directly.
 
+::: tip Audio glossary
+If you wanna learn about the audio basics, read our [**audio glossary**](/glossary/audio)
+:::
 
 ## Other guides
 
