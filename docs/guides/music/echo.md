@@ -202,4 +202,4 @@ ___
 ### Spotify
 
 #### Missing Argument
-Go to :material-symbols-settings-outline-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension** -> :simple-icons-spotify: **Spotify** and toggle on "**Show Widevine Streams**".
+Go to :material-symbols-settings-outline-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension** -> :simple-icons-spotify: **Spotify**, and enable **Show Widevine Streams**. Disable it again once the issue is resolved, as some songs may not play audio while it's enabled.
