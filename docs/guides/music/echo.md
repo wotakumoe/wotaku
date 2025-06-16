@@ -196,3 +196,10 @@ ___
 
 #### Deezer not available in my country
 Use a [VPN](/qs#vpn) to create your Deezer account. After that, you can access Deezer without a VPN by using a proxy server. To set up a proxy, go to :material-symbols-settings-outline-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension** -> **Deezer** -> **Use Proxy**, and select a proxy server from the list.
+
+___
+
+### Spotify
+
+#### Missing Argument
+Go to :material-symbols-settings-outline-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension** -> :simple-icons-spotify: **Spotify** and toggle on "**Show Widevine Streams**".
