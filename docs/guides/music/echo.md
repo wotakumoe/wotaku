@@ -164,27 +164,37 @@ You can see the progress in :material-symbols-settings-outline-rounded: **Settin
 
 ___
 
-### Transferring Spotify data
+### Transferring playlist
+
+Using the Spotify extension can lead to account suspension. It’s best to use an alternate account and transfer all your data there.
+
+___
+
+#### General
+
+- Go to [**TuneMyMusic**](https://www.tunemymusic.com/transfer).  
+- Select the source service. A pop-up window will open. Grant the necessary permissions.  
+- Click **Load from Source Account**.  
+- Once the new page loads, click **Choose Destination**.  
+- Select the destination service and grant permissions, just like for the source.  
+- Click **Start Transfer** to begin.
+
+::: tip TuneMyMusic Limit Bypass
+TuneMyMusic lets you transfer 500 songs for free. You can reset this limit by clearing the website’s data and cookies — available in your browser’s site settings (usually found next to the address bar).
+:::
+
+___
+
+#### Spotify
 
 ::: tabs
-
-== Export
+== CSV
 - Go to [**Exportify**](https://exportify.net)
 - Login with Spotify
 - Click "**Export**" beside each playlist
 - Save the CSV files
 
-== Import
-- Go to [**TuneMyMusic**](https://www.tunemymusic.com)
-- Select "**File**" as source
-- Upload your CSV file
-- Select "**Spotify**" as destination
-- Login to new account
-- Name playlist and click "Start Moving My Music"
-- Repeat for each playlist
-:::
-
-::: tip Acount-to-Account transfer
+== Acc-to-Acc
 Alternatively, you can use [Trikatuka](https://trikatuka.aknakn.eu/#/) to transfer data between Spotify accounts.
 :::
 
