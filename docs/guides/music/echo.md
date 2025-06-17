@@ -105,6 +105,11 @@ Echo automatically checks for extension updates every 6 hours. If you'd like to 
 - If a new update is found, you'll be prompted to install it.
 - After installation, restart Echo.
 
+### Adding account
+To access personalized content, playlists, and streaming features, add your account. To add an account,
+- Go to :material-symbols-settings-outline-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension**
+- Then click on the music streaming extension you want to link.
+- Click :material-symbols-login-rounded: **Login** and follow the instructions.
 
 ### Playing music
 By default, Echo is an offline music player. You have to install [music extensions](#installing-extension) to stream music.
@@ -115,13 +120,12 @@ By default, Echo is an offline music player. You have to install [music extensio
   - It may show playlists and songs but cannot play any tracks (e.g., Spotify).
   - It may not show anything without login (e.g., Deezer).
 
-To access personalized content, playlists, and streaming features, add your account. To add an account,
-- Go to :material-symbols-settings-outline-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension**
-- Then click on the music streaming extension you want to link.
-- Click :material-symbols-login-rounded: **Login** and follow the instructions.
-
 ::: info Unified Extension
 The Unified Extension lets you browse all extensions from the top bar. In the library, you can create playlists and add songs from multiple services there.
+:::
+
+::: tip Audio glossary
+If you wanna learn about the audio basics, read our [**audio glossary**](/glossary/audio)
 :::
 
 ## Important
@@ -129,9 +133,10 @@ The Unified Extension lets you browse all extensions from the top bar. In the li
 #### Spotify Account Suspension
 The Spotify extension violates Spotify’s Terms of Service. Accounts are typically suspended in waves. The Echo development team is not responsible for any account suspension. If your account is suspended, you will need to contact Spotify Support directly.
 
-::: tip Audio glossary
-If you wanna learn about the audio basics, read our [**audio glossary**](/glossary/audio)
+::: warning False Negative
+Sometimes the app may show a false negative about account suspension. Check your email for any message from Spotify with the subject "**Notice under Spotify Terms and Conditions of Use**". If you haven't received such an email, simply log out and log back in. This resolves the issue.
 :::
+
 
 ## Other guides
 
@@ -202,6 +207,6 @@ ___
 ### Spotify
 
 #### Missing Argument
-Go to :material-symbols-settings-outline-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension** -> :simple-icons-spotify: **Spotify**, and enable **Show Widevine Streams**. This should solve the playback issue.
+Go to :material-symbols-settings-outline-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension** -> :simple-icons-spotify: **Spotify**, and enable **Show Widevine Streams** and set the "**Stream Quality**" as **Medium**. This should solve the playback issue.
 
-Disable it again once the extension issue is resolved, as some songs may not play audio while it's enabled.
+Revert it again once the spotify extension is fixed, as some songs may not play audio while "**Show Widevine Streams**" is enabled.
