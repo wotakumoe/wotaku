@@ -651,7 +651,7 @@ There are multiple genres that are distinctly Japanese, all with different origi
 ## Vocaloid
 
 ::: tip Vocaloid & Vocaloid
-The genre vocaloid is name after the voice synth [Vocaloid](https://www.vocaloid.com/en/) (by Yamaha). But as a genre, it counts every song produced by voice synth. For example:  [Synthesizer V](https://dreamtonics.com/synthesizerv/), [CeVIO](https://cevio.jp/), [OpenUTAO](https://www.openutau.com/) etc.
+The genre vocaloid is name after the voice synth [Vocaloid](https://www.vocaloid.com/en/) (by Yamaha). But as a genre, it counts every song produced by voice synth. For example:  [Synthesizer V](https://dreamtonics.com/synthesizerv/), [CeVIO](https://cevio.jp/), [OpenUtau](https://www.openutau.com/) etc.
 :::
 
 Vocaloid remains an icon of the early to mid 2000s. With the help of [NicoNico Douga](https://www.nicovideo.jp/), a japanese video sharing platform, Vocaloid would skyrocket in popularity within the underground doujin scene. [Hatsune Miku](https://en.wikipedia.org/wiki/Hatsune_Miku)’s cover of "[**Ievan Polkka**](https://youtu.be/widZEAJc0QM)" in particular would garner the genre massive exposure. (A remastered version of the track can be heard [here](https://youtu.be/z5Ub37hEQFo?si=EuYtiGZkcZrrYooX).)

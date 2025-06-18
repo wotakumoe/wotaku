@@ -497,7 +497,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 - [Synthesizer V](https://dreamtonics.com/synthesizerv/) :cs:
 - [Piapro Studio](https://piaprostudio.com/?lang=en) :cs:
 - [CeVIO](https://cevio.jp/) :cs:
-- [Open UTAU](https://www.openutau.com/)
+- [OpenUtau](https://www.openutau.com/)
 
 ### DAW / Digital Audio Workstation
 - [Ableton](https://www.ableton.com/en/) :cs:
