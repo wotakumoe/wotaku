@@ -252,7 +252,6 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
     - [Gensokyo Radio](https://gensokyoradio.net/playing/) <Badge type="tip" icon="i-material-symbols-download-2" text="256kbps" link="https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u" />
     - [Touhou Disc](https://alist.thdisc.tk)
     - [Touhou Lossess Music Collection](https://tlmc.pf-n.co/tlmc)
-    - [Touhou Player](https://touhou.kuukunen.net/)
 
 ## Yu-Gi-Oh!
 
