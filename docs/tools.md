@@ -145,8 +145,10 @@ og:
 | ^^           | [Scum's Setup Guide](https://iamscum.wordpress.com/guides/videoplayback-guide/) |  
 | ^^           | [mpv Script Wiki](https://github.com/mpv-player/mpv/wiki/User-Scripts) |  
 | ^^           | [Awesome mpv](https://github.com/stax76/awesome-mpv) |  
+| Utilities    | [MPV Easy](https://mpv-easy.github.io/mpv-build/) [:gh:](https://github.com/mpv-easy/mpv-easy) |
 | **Alt UI**    | [Haruna](https://haruna.kde.org/) :lin: |  
 | ^^           | [ModernX](https://github.com/cyl0/ModernX) |  
+| ^^           | [ModernZ](https://github.com/Samillion/ModernZ) |
 | ^^           | [mpv.net](https://github.com/mpvnet-player/mpv.net) :s::win: |  
 | ^^           | [Tethys](https://github.com/Zren/mpv-osc-tethys) |  
 | ^^           | [uosc](https://github.com/tomasklaen/uosc) |  
