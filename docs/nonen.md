@@ -46,6 +46,7 @@ If you have recommendations for good sites in your native language or want to re
 - [Animeblkom](https://blkom.com/)
 - [Animelek](https://animelek.vip/)
 - [Animerco](https://web.animerco.org/)
+- [Anime Slayer WEB](https://animeslayerweb.site/)
 - [Arabic Toons](https://www.arabic-toons.com/)
 - [Okanime](https://okanime.tv/)
 - [WitAnime](https://witanime.cyou/)
