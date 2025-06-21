@@ -137,6 +137,7 @@ og:
 - [Mazumaro](https://www.youtube.com/@mazumaro/) <Badge type="warning" text="Inactive"/>
 - [meuol](https://www.youtube.com/@meuol)
 - [Moonia](https://www.youtube.com/@BloodyMoonia/)
+- [Orbitten](https://www.youtube.com/@Orbitten)
 - [Reiruka れいるか](https://www.youtube.com/@reiruka/)
 - [超級蘋果人 SuperAppleMan](https://www.youtube.com/@superappleman4725)
 
