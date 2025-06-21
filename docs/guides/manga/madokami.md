@@ -14,7 +14,7 @@ og:
 # Madokami Guide
 
 
-[Madokami](https://manga.madokami.al/) is a private website that hosts manga, novels and artbooks. They upload the same manga rips found on nyaa without compression. You can either download from their site (upto 3 parallel downloads) or directly read in [mihon & their forks](#mihon-forks) using [Keiyoushi repo](https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo) extension. You sign up by joining their IRC channel and trying your luck at gacha rolls.
+[Madokami](https://manga.madokami.al/) is a private website that hosts manga, novels and artbooks. They upload the same manga rips found on nyaa without compression. You can either download from their site (upto 3 parallel downloads) or directly read in [mihon & their forks](#mihon-forks) using [Keiyoushi repo](https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo) extension. Open registrations are closed, but you can always join their IRC channel and try your luck at gacha rolling for an account.
 <br>
 
 ## Creating Account
