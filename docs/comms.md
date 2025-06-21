@@ -24,7 +24,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 
 ## Discord servers
 
-### A-G
+### A-D
 - [ACE SCANS](https://discord.gg/e5kFjW8u3Q)
 - [AGR Community](https://discord.gg/YjuSSE273C)
 - [r/Anime](https://discord.gg/r-anime)
@@ -35,17 +35,17 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [Boredom Society Scanlations](https://discord.gg/NNS8cRR)
 - [Circle](https://discord.gg/85KtgSjkJJ)
 - [ComicK](https://discord.gg/comick)
+- [Crunchyroll](https://discord.gg/crunchyroll)
 - [Danke fürs Lesen](https://discord.gg/nxkDPvDhgv)
 - [DigimonBasic](https://discord.gg/B3RXtnXRSG)
 - [Doujin Cafe](https://discord.gg/doujincafe)
 - [DoujinStyle](https://discord.gg/z2QDFdA)
-- [GetComics](https://discord.gg/G7UwGPZDJ7)
 
-### H-M
+### G-M
+- [GetComics](https://discord.gg/G7UwGPZDJ7)
 - [HiAnime](https://discord.gg/hianime)
-- [Hikari](https://discord.gg/4bvsQS5555)
 - [Japanese Language Study Space](https://discord.gg/jlss)
-- [KickAssAnime](https://discord.gg/qduzrvTG6p)
+- [KickAssAnime Support](https://discord.gg/6EGTnNQAaV)
 - [Kirei](https://discord.gg/55y8apc)
 - [Knox](https://discord.gg/HcDZFB9Gub)
 - [Laughing in Quarantine](https://discord.gg/x6AuGp7)
@@ -67,7 +67,6 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [Sonic Zone](https://discord.gg/bj5vmb96YT)
 - [SubsPlease](https://discord.gg/33Hxdas)
 - [Tachiyomi](https://discord.gg/tachiyomi)
-- [TCB Scans](https://discord.gg/tcbscans)
 - [TheMoeWay](https://discord.gg/nhqjydaR8j)
 - [r/Tokusatsu](https://discord.gg/Rf2dDaJSp3)
 - [ToonsHub](https://discord.gg/cTRhnt7N8B)
