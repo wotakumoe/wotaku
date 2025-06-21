@@ -33,7 +33,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 |-----------|--------------------------------------------------|
 | **Android** | [Aniyomi](https://aniyomi.org/) :s: [:gh:](https://github.com/aniyomiorg/aniyomi) [:e:](/guides/ext/mihon) |
 | ^^        | [Dantotsu](https://discord.com/invite/4HPZ5nAWwM) [:e:](/guides/ext/mihon) |
-| **iOS**   | [Sora](https://apps.apple.com/us/app/sulfur/id6742741043) [:gh:](https://github.com/cranci1/Sora) [:e:](/guides/ext/ios#sora) [:tf:](https://testflight.apple.com/join/qMUCpNaS) <Badge type="info" text="Altstore" link="https://www.cranci.tech/repo.json" /> |
+| **iOS**   | [Sora](https://apps.apple.com/us/app/sulfur/id6742741043) [:gh:](https://github.com/cranci1/Sora) [:e:](/guides/ext/ios#sora) [:tf:](https://testflight.apple.com/join/uJPzdTTj) <Badge type="info" text="Altstore" link="https://www.cranci.tech/repo.json" /> |
 | ^^        | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi) |
 | **PC**    | [Shiru](https://github.com/RockinChaos/Shiru) :s::mag: |
 | ^^        | [Mangayomi](https://github.com/kodjodevf/mangayomi) :mag::ddl: [:e:](/guides/ext/mangayomi) |
