@@ -140,6 +140,7 @@ Sometimes the app may show a false negative about account suspension. Check your
 ::: tip Alternative Account
 To avoid risking your main account, use an alternate account instead. You can follow the [**transfer guide**](#transferring-playlist) to move playlists, albums, artists, and more. Or, simply add your alt account as a collaborator on your playlists. Here’s how:
 
+- Open official Spotify app or website.
 - Go to one of your own playlists (this won't work for public playlists created by others).
 - Click the :ic-baseline-person-add: **Invite Collaborators** button.
 - This will copy a collaboration link to your clipboard.
