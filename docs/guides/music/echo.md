@@ -137,6 +137,14 @@ The Spotify extension violates Spotify’s Terms of Service. Accounts are typica
 Sometimes the app may show a false negative about account suspension. Check your email for any message from Spotify with the subject "**Notice under Spotify Terms and Conditions of Use**". If you haven't received such an email, simply log out and log back in. This resolves the issue.
 :::
 
+::: tip Alternative Account
+To avoid risking your main account, use an alternate account instead. You can follow the [**transfer guide**](#transferring-playlist) to move playlists, albums, artists, and more. Or, simply add your alt account as a collaborator on your playlists. Here’s how:
+
+- Go to one of your own playlists (this won't work for public playlists created by others).
+- Click the :ic-baseline-person-add: **Invite Collaborators** button.
+- This will copy a collaboration link to your clipboard.
+- Open the link while logged in to your alt account.
+:::
 
 ## Other guides
 
@@ -180,7 +188,7 @@ ___
 - Click **Start Transfer** to begin.
 
 ::: tip TuneMyMusic Limit Bypass
-TuneMyMusic lets you transfer 500 songs for free. You can reset this limit by clearing the website’s data and cookies — available in your browser’s site settings (usually found next to the address bar).
+TuneMyMusic lets you transfer 500 songs for free. You can reset this limit by clearing the website’s data and cookies, available in your browser’s site settings (usually found next to the address bar).
 :::
 
 ___
@@ -207,6 +215,15 @@ Some ISPs might block GitHub raw or gist URLs, which can prevent extension updat
 
 ___
 
+#### Out of Date
+
+Your current extensions need to be updated. Follow these steps:
+- [Update your extension(s)](#updating-extension)
+- Force stop the app
+- Open Echo again
+
+___
+
 ### Deezer
 
 #### Deezer not available in my country
@@ -216,7 +233,9 @@ ___
 
 ### Spotify
 
-#### Missing Argument
-Go to :material-symbols-settings-outline-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension** -> :simple-icons-spotify: **Spotify**, and enable **Show Widevine Streams** and set the "**Stream Quality**" as **Medium**. This should solve the playback issue.
+#### Socket Closed
+Force close the app and reopen it. Alternatively, switch to incognito mode in the extension and log back in.
 
-Revert it again once the spotify extension is fixed, as some songs may not play audio while "**Show Widevine Streams**" is enabled.
+To enter incognito mode:
+- Tap the :material-symbols-account-circle-full: button at the top right
+- Select :mdi-incognito: **Incognito**
