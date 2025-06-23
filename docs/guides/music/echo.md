@@ -149,6 +149,9 @@ To avoid risking your main account, use an alternate account instead. You can fo
 
 ## Other guides
 
+### Blacklisting folder
+Echo scans all your music folders and displays them in the :material-symbols-files-outline: **Offline** extension. If you want to exclude a folder, go to :material-symbols-settings-outline-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension** -> :material-symbols-files-outline: **Offline** and tap **Blacklist Folders**. Then, select the folders you don’t want Echo to scan.
+
 ### Changing lyrics provider
 Echo supports multiple lyrics providers. You can select your preferred provider from the player.
 - Play a song and click on **Lyrics**.
@@ -230,7 +233,15 @@ ___
 #### Deezer not available in my country
 Use a [VPN](/qs#vpn) to create your Deezer account. After that, you can access Deezer without a VPN by using a proxy server. To set up a proxy, go to :material-symbols-settings-outline-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension** -> **Deezer** -> **Use Proxy**, and select a proxy server from the list.
 
+### Download / EchoDown
+
+#### Downloaded file not the highest quality
+By default, EchoDown downloads files in medium quality. To change this, go to :material-symbols-settings-outline-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension** -> **Misc** -> **EchoDown** and tap **Download Quality**. Then select **Highest**.
+
 ___
+
+#### open failed: ENOENT (No such file or directory)
+You will see this error if you move or delete the downloaded folder from its original location. To fix it, either move the folder back to its original location or remove it from :material-symbols-download-for-offline-outline-rounded: **Downloads** and use the :material-symbols-files-outline: **Offline** extension to play the files.
 
 ### Spotify
 
