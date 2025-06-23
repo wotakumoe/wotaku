@@ -46,6 +46,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 - [Comic Vine](https://comicvine.gamespot.com/)
 - [Chill Chill](https://www.chil-chil.net/) :ero::fjp:
 - [Kazamkase Comic Database](https://kazemakase.wjg.jp/comics/) ==kazamakase==
+- [LAMA](https://lama.watch/)
 
 ### Novels
 - [Novel Updates](https://www.novelupdates.com/) :s:
@@ -117,6 +118,8 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
   - [Novel Ranking](http://bunkoranoberanking.blog.fc2.com/) :fjp: [:rss:](http://bunkoranoberanking.blog.fc2.com/?xml)
 - [Erzat](https://erzat.blog/) [:x:](https://x.com/Erzat110)
 - [Jajanken](https://www.jajanken.net/en/) <Badge text="WSJ" />
+- [Manga Codex](https://mangacodex.com/)
+- [Manga Properties](https://manga.properties/)
 - [MANGA Plus Top 40](https://manga.tumeo.space/) [:gh:](https://github.com/williamd1k0/manga-plus-top40)
 - [MANGA Plus Views](https://mangaplustracker.github.io/) [:gh:](https://github.com/MangaplusTracker/MangaplusTracker.github.io)
 - [Mannavi](https://mannavi.net/) :fjp:
