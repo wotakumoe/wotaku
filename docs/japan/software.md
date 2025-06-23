@@ -42,6 +42,7 @@ ___
 - [Immersion Kit Downloader](https://ankiweb.net/shared/info/1317828804)
 - [Kanji Grid](https://github.com/Kuuuube/kanjigrid)
 - [Kanji Schizos](https://github.com/kaanium/new-kanji-finder)
+- [Local Anki Server](https://ankiweb.net/shared/info/49665391)
 - [Local Audio Server for Yomichan](https://github.com/themoeway/local-audio-yomichan)
 - [quick image](https://github.com/ZXY101/quick-image)
 - [Review Heatmap](https://ankiweb.net/shared/info/1771074083)
