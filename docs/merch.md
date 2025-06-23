@@ -88,10 +88,13 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 | ^^        | [Blu-ray.com](https://www.blu-ray.com/) |
 | ^^      | [Sumikko Anime](https://anime.sumikko.info/) :fjp: [:rss:](https://anime.sumikko.info/rss.xml) |
 | ^^        | [Upcoming English Dubbed Releases](https://english-dubbed.com/anime-releases/upcoming-english-dubbed-release-dates/) |
-| **Figures** | [Figgy](https://www.figgy.jp/) :fjp: <Badge text="General" /> |
-| ^^        | [Figgy Adult](https://adult.figgy.jp/) :fjp::ero: <Badge text="Bishoujo" /> |
+| **Bishoujo** | [Asahiwa](https://asahiwa.jp/) :fjp: |
+| ^^        | [Figgy Adult](https://adult.figgy.jp/) :fjp::ero: |
+| ^^        | [Figsoku B](https://figsoku-b.net/) :fjp: |
+| ^^        | [Fig-memo R18](https://fig-memo-r18.site/) :fjp::ero: |
+| ^^        | [moeyo](https://www.moeyo.com/) |
+| Figures   | [Figgy](https://www.figgy.jp/) :fjp: <Badge text="General" /> |
 | ^^        | [Figsoku](https://figsoku.net/) :fjp: <Badge text="General" /> |
-| ^^        | [Fig-memo R18](https://fig-memo-r18.site/) :fjp::ero: <Badge text="Bishoujo" /> |
 | ^^        | [Gundam Kits Collection](https://www.gundamkitscollection.com/) |
 | ^^        | [Gunjap](https://www.gunjap.net/) |
 | **Others** | [Buying visual novels](https://old.reddit.com/r/visualnovels/wiki/buy) |
