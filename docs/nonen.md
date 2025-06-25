@@ -720,6 +720,7 @@ ___
 
 ### Manga
 - [Ayatoon](https://ayatoon.com/)
+- [Manga-TR](https://manga-tr.com/index.html)
 - [Sadscans](https://sadscans.com/)
 - [Seri Manga](https://serimanga.com/)
 - [Tortuga Ceviri](https://tortuga-ceviri.com/)
