@@ -19,6 +19,7 @@ og:
 #### Software
 - [Anki](https://apps.ankiweb.net/) :win::app::lin:
 - [AnkiDroid Flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki) :and:
+  - [Anki with Add-ons on Android: Guide](https://github.com/kaihouguide/the_ULTIMATE_android_mining_setup)
 - [AnkiMobile Flashcards](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) :app::paid:
 - [Ankiconnect Android](https://github.com/KamWithK/AnkiconnectAndroid) :and:
 - [KAnki](https://github.com/crizmo/KAnki) :simple-icons-amazon:
@@ -82,6 +83,7 @@ ___
 - [Core 2k/6k Optimized Japanese Vocabulary Anki](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) 
 - [DoJG Deck](https://dojgdeck.neocities.org/) 
 - [Japanese course based on Tae Kim's grammar guide & anime](https://ankiweb.net/shared/info/911122782) 
+- [Japanese Proper Nouns Deck](https://github.com/friedrich-de/Japanese-Proper-Nouns-Deck)
 - [Tango N5 omega deck](https://rentry.org/wotadirect) <Badge type="info" text="Beginner" />
 
 ## Phone
