@@ -1,7 +1,7 @@
 ---
 title: Echo
 customDescription: Guide on how to use echo. 
-outline: [2,3]
+outline: [1,2]
 og:
     image: https://files.catbox.moe/60r3ra.png
 ---
@@ -11,15 +11,17 @@ og:
 
 [**Echo**](https://github.com/brahmkshatriya/echo) is an extension-based music player app. It can play music from streaming websites (e.g., YouTube, Spotify, Deezer) and self-hosted servers (e.g., Jellyfin). Echo also supports external lyrics and music tracking (e.g., Last.fm).
 
-## Setup
+<br>
 
-### Installing Echo
+# Setup
+
+## Installing Echo
 - Download the first ZIP file from the [**nightly**](https://nightly.link/brahmkshatriya/echo/workflows/nightly/main/artifact) page.
 - Unzip the downloaded file. If your file manager doesn't support unzipping, try using [MiXplorer](https://forum.xda-developers.com/showpost.php?p=23109280).
 - You will find an `.apk` file inside. Install it on your device.
 
 
-### Installing extension
+## Installing extension
 Extensions are a mix of `.eapk` and `.apk` files. `.eapk` files are installed automatically, but `.apk` files need to be installed manually like regular apps.
 
 ::: tabs
@@ -33,7 +35,7 @@ Extensions are a mix of `.eapk` and `.apk` files. `.eapk` files are installed au
 
 == Repositories
 
-#### Music Streaming
+### Music Streaming
 
 | Dev            | Extensions                                                                                   |
 |----------------|----------------------------------------------------------------------------------------------|
@@ -43,7 +45,7 @@ Extensions are a mix of `.eapk` and `.apk` files. `.eapk` files are installed au
 | LuftVerbot     | [Deezer](https://github.com/LuftVerbot/echo-deezer-extension/releases)                      |
 | Secozzi        | [Jellyfin](https://github.com/Secozzi/echo-jellyfin-extension/releases)                     |
 
-#### Lyrics
+### Lyrics
 
 | Dev        | Extensions                                                                                   |
 |------------|----------------------------------------------------------------------------------------------|
@@ -53,13 +55,13 @@ Extensions are a mix of `.eapk` and `.apk` files. `.eapk` files are installed au
 | ^^         | [LRCLIB](https://github.com/shub39/echo-lrclib-extension/releases)                          |
 | ^^         | [MusixMatch](https://github.com/shub39/echo-musixmatch-extension/releases)                  |
 
-#### Tracking
+### Tracking
 
 | Dev        | Extensions                                                                                   |
 |------------|----------------------------------------------------------------------------------------------|
 | rebelonion | [Last.fm](https://github.com/rebelonion/echo-lastfm/releases)                               |
 
-#### Others
+### Others
 | Dev            | Extensions                                                                                   |
 |----------------|----------------------------------------------------------------------------------------------|
 | brahmkshatriya | [Cineby](https://github.com/brahmkshatriya/echo-cineby-extension/releases)                  |
@@ -69,7 +71,7 @@ Extensions are a mix of `.eapk` and `.apk` files. `.eapk` files are installed au
 
 :::
 
-#### Steps
+### Steps
 
 ::: tabs
 
@@ -105,13 +107,13 @@ Echo automatically checks for extension updates every 6 hours. If you'd like to 
 - If a new update is found, you'll be prompted to install it.
 - After installation, restart Echo.
 
-### Adding account
+## Adding account
 To access personalized content, playlists, and streaming features, add your account. To add an account,
 - Go to :material-symbols-settings-outline-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension**
 - Then click on the music streaming extension you want to link.
 - Click :material-symbols-login-rounded: **Login** and follow the instructions.
 
-### Playing music
+## Playing music
 By default, Echo is an offline music player. You have to install [music extensions](#installing-extension) to stream music.
 
 - Click :material-symbols-stream-rounded: **Extension** icon and select a music streaming extension.
@@ -128,9 +130,15 @@ The Unified Extension lets you browse all extensions from the top bar. In the li
 If you wanna learn about the audio basics, read our [**audio glossary**](/glossary/audio)
 :::
 
-## Important
+<br>
 
-#### Spotify Account Suspension
+# Important
+
+<br>
+
+___
+
+### Spotify Account Suspension
 The Spotify extension violates Spotify’s Terms of Service. Accounts are typically suspended in waves. The Echo development team is not responsible for any account suspension. If your account is suspended, you will need to contact Spotify Support directly.
 
 ::: warning False Negative
@@ -147,12 +155,14 @@ To avoid risking your main account, use an alternate account instead. You can fo
 - Open the link while logged in to your alt account.
 :::
 
-## Other guides
+<br>
 
-### Blacklisting folder
+# Other guides
+
+## Blacklisting folder
 Echo scans all your music folders and displays them in the :material-symbols-files-outline: **Offline** extension. If you want to exclude a folder, go to :material-symbols-settings-outline-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension** -> :material-symbols-files-outline: **Offline** and tap **Blacklist Folders**. Then, select the folders you don’t want Echo to scan.
 
-### Changing lyrics provider
+## Changing lyrics provider
 Echo supports multiple lyrics providers. You can select your preferred provider from the player.
 - Play a song and click on **Lyrics**.
 - Then scroll up and you will see :material-symbols-queue-music-rounded: Music Provider "Logo".
@@ -162,9 +172,8 @@ The last selected lyrics provider will be set as the default.
 
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/t0lBUbf4HLs" frameborder="0" allowfullscreen></iframe></div>
 
-___
 
-### Downloading music
+## Downloading music
 To download songs in Echo, you have to install [EchoDown](#installing-extension) extension.
 
 - Open any song/album you want to download.
@@ -174,15 +183,14 @@ You can see the progress in :material-symbols-settings-outline-rounded: **Settin
 
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/-TamZ_J7NmA" frameborder="0" allowfullscreen></iframe></div>
 
-___
 
-### Transferring playlist
+
+## Transferring playlist
 
 Using the Spotify extension can lead to account suspension. It’s best to use an alternate account and transfer all your data there.
 
-___
 
-#### General
+### General
 
 - Go to [**TuneMyMusic**](https://www.tunemymusic.com/transfer).  
 - Select the source service. A pop-up window will open. Grant the necessary permissions.  
@@ -195,9 +203,8 @@ ___
 TuneMyMusic lets you transfer 500 songs for free. You can reset this limit by clearing the website’s data and cookies, available in your browser’s site settings (usually found next to the address bar).
 :::
 
-___
 
-#### Spotify
+### Spotify
 
 ::: tabs
 == CSV
@@ -210,44 +217,59 @@ ___
 Alternatively, you can use [Trikatuka](https://trikatuka.aknakn.eu/#/) to transfer data between Spotify accounts.
 :::
 
-## Troubleshooting
+<br>
 
-### General
+# Troubleshooting
 
-#### Extension Update Issue
+## General
+
+### Extension Update Issue
 Some ISPs might block GitHub raw or gist URLs, which can prevent extension updates. To work around this, use a [VPN](/qs#vpn).
 
-___
 
-#### Out of Date
+### Out of Date
 
 Your current extensions need to be updated. Follow these steps:
 - [Update your extension(s)](#updating-extension)
 - Force stop the app
 - Open Echo again
 
-___
 
-### Deezer
+## Deezer
 
-#### Deezer not available in my country
+### Deezer not available in my country
 Use a [VPN](/qs#vpn) to create your Deezer account. After that, you can access Deezer without a VPN by using a proxy server. To set up a proxy, go to :material-symbols-settings-outline-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension** -> **Deezer** -> **Use Proxy**, and select a proxy server from the list.
 
-### Download / EchoDown
+## Download / EchoDown
 
-#### Downloaded file not the highest quality
+### Downloaded file not the highest quality
 By default, EchoDown downloads files in medium quality. To change this, go to :material-symbols-settings-outline-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension** -> **Misc** -> **EchoDown** and tap **Download Quality**. Then select **Highest**.
 
-___
-
-#### open failed: ENOENT (No such file or directory)
+### open failed: ENOENT (No such file or directory)
 You will see this error if you move or delete the downloaded folder from its original location. To fix it, either move the folder back to its original location or remove it from :material-symbols-download-for-offline-outline-rounded: **Downloads** and use the :material-symbols-files-outline: **Offline** extension to play the files.
 
-### Spotify
+## Spotify
 
-#### Socket Closed
+### Oops! Something went wrong
+While logging into the Spotify extension, if you encounter the error `Oops! Something went wrong, please try again or check out our help area`, try logging in using the password method instead of the OTP method. You can also check the help area.
+
+If both of them don’t work, force close the app, reopen it, and try again.
+
+
+### Socket Closed
 Force close the app and reopen it. Alternatively, switch to incognito mode in the extension and log back in.
 
 To enter incognito mode:
 - Tap the :material-symbols-account-circle-full: button at the top right
 - Select :mdi-incognito: **Incognito**
+
+
+### Spotify stored token required
+Log out of the Spotify extension, then force close the app. Reopen it and log back into the Spotify extension.
+
+
+## YouTube Music
+
+::: info Under Rewrite
+The YouTube Music extension is currently being rewritten. Several bugs are present in the current version, and fixes will be included in the upcoming rewrite update. If you're experiencing login issues, retrying is the only available workaround for now.
+:::
