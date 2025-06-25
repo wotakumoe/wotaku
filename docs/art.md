@@ -92,7 +92,7 @@ og:
 | ^^        | [Danbooru Viewer](https://danbooru.defaultkavy.com/) [:gh:](https://github.com/defaultkavy-dev/danbooru-viewer) |
 | ^^        | [Moeview](https://moeview.app/) [:prx:](https://rentry.org/wotaxy#moeview) |
 | **Pixiv** | [Pixiv.cat](https://pixiv.cat/) [:gh:](https://github.com/pixiv-cat/pixivcat-backend) |
-| ^^        | [PixivFE](https://pixivfe.drgns.space/) :s: [:cb:](https://codeberg.org/VnPower/PixivFE) |
+| ^^        | [PixivFE](https://pixiv.perennialte.ch/) :s: [:cb:](https://codeberg.org/VnPower/PixivFE) |
 | ^^        | [Pixiv Viewer](https://pixiv.pictures/) [:gh:](https://github.com/asadahimeka/pixiv-viewer) |
 | ^^        | [Pixiv Yearbook](https://pixiv.navirank.com/) |
 | ^^        | [Pxelk](https://pxelk.pixiv.pics/) [:gh:](https://github.com/ShugetsuSoft/pixivel-front) |
