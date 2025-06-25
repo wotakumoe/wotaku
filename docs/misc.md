@@ -89,7 +89,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | **Monthly** | [Anica](https://anica.jp/) |  
 | ^^ | [Anime Dubs Release Calendar](https://teamup.com/ksdhpfjcouprnauwda) |  
 | **Others** | [Bangumi List](https://bgmlist.com/) :fjp::fcn: [:gh:](https://github.com/wxt2005/bangumi-list-v3) ==BangumiList== |  
-| ^^ | [Kansou](https://www.kansou.me/) :fjp: |  
+| ^^ | [Kansou](https://www.kansou.me/) :s: :fjp: |  
 | ^^ | [Moon Phase](https://m-p.sakura.ne.jp/) :fjp: |  
 | ^^ | [Syoboi Calendar](https://cal.syoboi.jp/) :fjp: [:rss:](https://docs.cal.syoboi.jp/spec/rss.php/) |  
 | ^^ | [Yatta-Tachi](https://yattatachi.com/) |
