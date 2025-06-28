@@ -224,6 +224,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 | ^^ | [HentTag](https://hentag.com/) |
 | ^^ | [Manga-DB](https://adultcomic.dbsearch.net/) :fjp::s: |
 | Info | [Fapservice](https://fapservice.com/) |
+| ^^   | [ManhwaList](https://manhwalist.vercel.app/) |
 | ^^   | [Yuri Scenes](https://yuriscenes.com/) |
 | Portal | [EroEro News](https://en.eroeronews.com/) |
  
