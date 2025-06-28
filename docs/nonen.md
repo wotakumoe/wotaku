@@ -425,9 +425,8 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [RAW LAZY](https://rawlazy.io/)
 - [Raw Otaku](https://rawotaku.com/home/) [:prx:](https://rentry.org/wotaxy#raw-otaku)
 - [RawUwU](https://rawuwu.com/) [:alt:](https://rawdevart.art/)
-- [Sen Manga](https://raw.senmanga.com/)
 - [Spoilerraw](https://spoilerraw.net/) [:alt:](https://mangarawtrend.com/)
-- [Syosetu](https://syosetu.fm/)
+- [Syosetu](https://syosetu.my/)
 - [Twicomi](https://twicomi.com/)
 
 ### Download
