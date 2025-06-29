@@ -284,7 +284,7 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 | [Assorted Scans](https://assortedscans.com/) | :fjp: | - | - |
 | [Asura Scans](https://asuracomic.net/) :sub: | :fjp::fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/juxsa9z/asura) |
 | [Danke fürs Lesen Scans](https://danke.moe/) | :fjp: | [URL](https://mangadex.org/group/91035fe1-d6b0-4816-be51-b54d05d546cf/danke-furs-lesen) | [URL](https://www.mangaupdates.com/group/xlp7424/danke-fuers-lesen) |
-| [Disaster Scans](https://disasterscans.com/) | :fcn: | - | - |
+| [Disaster Scans](https://disasterscans.com/home) | :fcn: | - | - |
 | [Drake Scans](https://drakecomic.org/) | :fcn: | [URL](https://mangadex.org/group/50caf96d-fe2b-4638-9d13-4954b782e112/drake-scans) | [URL](https://www.mangaupdates.com/group/ktajd9u/drake-scans) |
 | [Flame Comics](https://flamecomics.com/) ==Flame== | :fkr::fcn: | [URL](https://mangadex.org/group/fdad9851-164f-43fc-9ab0-25b8054c99ed/flame-scans) | [URL](https://www.mangaupdates.com/group/btgsdiy/flame-scans) |
 
@@ -296,7 +296,6 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 | [Genz Toons](https://genzupdates.com/) :coin: | :fjp::fkr::fcn: | [URL](https://mangadex.org/group/fc187866-e852-4522-af62-40d148e6c235/genz-toons) | [URL](https://www.mangaupdates.com/group/tkuadg0/genztoons) |
 | [Hive Scan](https://hivecomic.com/home) :coin: ==hive== | :fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/10nt2ki/infernal-void-scans) |
 | [LHTranslation](https://lhtranslation.net/) | :fjp: | [URL](https://mangadex.org/group/24adf288-d0e3-4d34-b342-bf8c189aacaa/lhtranslation) | [URL](https://www.mangaupdates.com/group/f6nc2yt/lhtranslation) |
-| [Manhua Ga](https://manhuaga.com/) | :fcn: | - | - |
 | [Manhua Plus](https://manhuaplus.com/) | :fcn: | - | [URL](https://www.mangaupdates.com/group/3apm0du/manhua-plus) |
 | [Reset Scans](https://reset-scans.org/) :coin: | :fjp::fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/df9ckct/reset-scans) |
 | [Rizz Fables](https://rizzfables.com/) ==realm== | :fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/v5djjz8/rizz-comics) |

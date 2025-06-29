@@ -238,7 +238,6 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 - [Touhou Replay Manager](https://github.com/raviddog/threplay)
 - [Touhou Toolkit](https://thtk.thpatch.net/) [:gh:](https://github.com/thpatch/thtk)
 - [thprac](https://github.com/touhouworldcup/thprac)
-- [V-Sync Patch](https://moriyashrine.org/files/file/40-v-sync-patch/)
 
 ### Others
 - [Fantasy Kaleidoscope ~The Memories of Phantasm~](https://www.youtube.com/playlist?list=PLUGHUFEjeh3FCf6_xeGSIU7bRQBxuO-05)

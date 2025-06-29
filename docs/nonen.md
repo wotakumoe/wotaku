@@ -145,14 +145,12 @@ If you have recommendations for good sites in your native language or want to re
 - [23qb](https://www.23qb.net/)
 - [ESJ Zone](https://www.esjzone.cc/)
 - [Light Novel](https://www.lightnovel.us/)
-- [Yodu](https://www.yodu.org/)
 
 ### NSFW
 - [Hanime1.me](https://hanime1.me/)
 - [55Comic](https://www.55comic.com/)
 - [HD Comic](https://www.hdcomic.com/)
 - [JAV Comics](https://javcomics.com/)
-- [JMWU](https://jmwu.xyz/) [:alt:](https://jmzj.xyz/)
 - [PicACG](https://manhuabika.com/)
 - [WNACG](https://www.wnacg.com/)
 
@@ -319,7 +317,7 @@ If you have recommendations for good sites in your native language or want to re
   - [ATOZ CARTOONIST](https://www.atozcartoonist.com/)
   - [Dead Toons India](https://deadtoons.us/)
   - [PikaHD](https://pikahd.com/)
-  - [Puretoons](https://puretoons.site/)
+  - [Puretoons](https://puretoons.in/)
   - [SDToons](https://sdtoons.in/)
   - [Toonhub4u](https://toonhub4u.net/)
   - [ToonsHub](https://www.toonshub.xyz/)

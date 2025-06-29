@@ -121,7 +121,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 |-|-|-|
 | [Nipponsei](https://nipponsei.minglong.org/tracker/) | :mag: | - |
 | [OS Anime](https://osanime.com/) | :ddl: | own |
-| [Hiyori OST](https://www.hiyoriost.com/) | :ddl: | :sgd::host: |
 
 
 ## Downloader
