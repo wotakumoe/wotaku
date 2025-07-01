@@ -542,7 +542,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [Kakusei Project](https://kakuseiproject.com/) :fjp::ero:  
 - [Portal Yaoi](https://portalyaoi.com/) :fjp::fkr::fcn::ero:  
 - [Valkyrie Scan](https://valkyriescan.com/) :fjp::fkr::fcn::ero:  
-- [Yugen Mangas BR](https://yugenmangasbr.nssec.xyz/) :fjp::fkr::fcn::ero:  
 - [Yuri.Live](https://yuri.live/) :fjp::fkr::fcn::ero:  
 
 ___
