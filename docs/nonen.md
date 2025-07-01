@@ -744,7 +744,7 @@ ___
 - [Anime47](https://anime47.shop/)
 - [AnimeHay](https://animehay.in/)
 - [AnimeVsub](https://animevsub.eu.org/) [:gh:](https://github.com/anime-vsub/desktop-web)
-- [HHNINJA](https://hhninja14.tv/)
+- [HHNINJA](hhninja14) [:prx:](https://hhtq1.xyz/)
 - [Unime](https://unime.vercel.app/) [:gh:](https://github.com/huy232/Unime)
 - [WebLinhTinh](https://weblinhtinh.net/)
 
