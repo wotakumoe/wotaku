@@ -130,7 +130,7 @@ og:
 - [FastStone Image Viewer](https://www.faststone.org/FSViewerDetail.htm) :cs:
 
 ### Video Player
-- [mpv](https://mpv.io/) :s::win::app::lin: [:gh:](https://github.com/mpv-player/mpvs)
+- [mpv](https://mpv.io/) :s::win::app::lin: [:gh:](https://github.com/mpv-player/mpv)
   - [mpv Resources](#mpv)
 - [SMPlayer](https://www.smplayer.info/) :win::app::lin: [:gh:](https://github.com/smplayer-dev/smplayer)
 - [IINA](https://iina.io/) :app: [:gh:](https://github.com/iina/iina)

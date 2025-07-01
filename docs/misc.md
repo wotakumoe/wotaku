@@ -107,7 +107,6 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^             | [Anime Stats](https://anime-stats.net/) :s: |
 | ^^             | [Anime Corner](https://animecorner.me/category/anime-corner/rankings/) |
 | ^^             | [Anitrendz](https://anitrendz.com/charts/top-anime) |
-| ^^             | [Kitsu Season Trends](https://season.moe/) [:gh:](https://github.com/wopian/kitsu-season-trends) |
 
 ## Manga & LN
 

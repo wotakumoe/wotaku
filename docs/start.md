@@ -88,7 +88,7 @@ If you want to learn how to deploy the website online, read the [**official vite
 :::
 
 ## Icon
-Wotaku fetches icons using [**Iconfiy**](https://iconify.design/). To get the icon names, visit [**Iconify**](https://icon-sets.iconify.design/) or [**Icones**](https://icones.js.org/). All the added iconpacks are [**here**](https://github.com/wotakumoe/wotaku/blob/main/docs/.vitepress/configs/emoji.ts#L20).
+Wotaku fetches icons using [**Iconfiy**](https://iconify.design/). To get the icon names, visit [**Iconify**](https://icon-sets.iconify.design/) or [**Icones**](https://icones.js.org/). All the added iconpacks are [**here**](https://github.com/wotakumoe/wotaku/blob/main/docs/.vitepress/configs/markdown/emoji.ts#L19).
 
 ### Writing Rules
 

@@ -144,7 +144,7 @@ If you have recommendations for good sites in your native language or want to re
 ### Novels
 - [23qb](https://www.23qb.net/)
 - [ESJ Zone](https://www.esjzone.cc/)
-- [Light Novel](https://www.lightnovel.us/)
+- [Light Novel](https://www.lightnovel.fun/)
 
 ### NSFW
 - [Hanime1.me](https://hanime1.me/)
@@ -601,7 +601,7 @@ ___
 - [Kage Project](http://fansubs.ru/)<tooltip>Subtitle files only, you need to get the episodes from another source.</tooltip>
 - [MAL to Kodik](https://mal-to-kodik.github.io/) <Badge type="info" text="Aggregator" />
 - [One Pace](https://onepace-ru.tilda.ws/)
-- [OTA-KUN](https://ota-ku.am/) [:gh:](https://github.com/KU-OTA-KU/Ota-ku-frontend)
+- [OTA-KUN](https://ota-ku.am/)
 - [Shiza Project](https://shiza-project.com/)
 - [SovetRomantica](https://sovetromantica.com/) <Badge type="info" text="Sub" />
 - [Tunime](https://an0ncer.github.io/) [:gh:](https://github.com/AN0NCER/an0ncer.github.io) <Badge type="info" text="Sub" />
