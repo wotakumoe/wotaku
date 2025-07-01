@@ -39,7 +39,6 @@ og:
 | ^^         | [VTuber Schedule](https://vtuberschedules.com/) [:gh:](https://github.com/clovenski/vtuber-schedules) |
 | News       | [VTuber Highlights](https://vtuber.atodeyo.com/) :fjp: |
 | ^^         | [VTuber Newsdrop](https://vtubernewsdrop.com/) |
-| ^^         | [Reincar](https://reincar.net/) :fjp: |
 | Non-English | [VTBs in Bilibili!](https://vtbs.moe/) :fcn: [:gh:](https://github.com/dd-center/vtbs.moe/) |
 | ^^          | [臺灣 VTuber 列表](https://taiwanvtuberdata.github.io/) :flag-taiwan: [:gh:](https://github.com/TaiwanVtuberData/TaiwanVtuberTrackingData) |
 | Others     | [Mogu](https://mogu.holopirates.moe/) |
@@ -104,7 +103,6 @@ og:
 - [Best VTuber software](https://gist.github.com/emilianavt/cbf4d6de6f7fb01a42d4cce922795794)
 - [VTResources](https://vtresources.carrd.co/)
 - [VTuber Assets](https://discord.gg/acU3dFRtvC)
-- [Reincar VTuber Materials](https://reincar.net/sozai/) :fjp:
 
 ## Extensions
 

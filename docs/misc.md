@@ -84,7 +84,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [AnimeSchedule](https://animeschedule.net/) [:rss:](https://animeschedule.net/rss) [:rss:](https://github.com/RockinChaos/AniSchedule) |  
 | ^^ | [Anime Countdown](https://animecountdown.com/) |  
 | ^^ | [Anisaki](https://anisaki.vercel.app/) [:gh:](https://github.com/BayuDC/anisaki) |  
-| ^^ | [Notify.moe](https://notify.moe/calendar) [:gt:](https://git.akyoto.dev/web/notify.moe) |  
+| ^^ | [Notify.moe](https://notify.moe/calendar) |  
 | ^^ | [Senpai.moe](https://www.senpai.moe/) |  
 | **Monthly** | [Anica](https://anica.jp/) |  
 | ^^ | [Anime Dubs Release Calendar](https://teamup.com/ksdhpfjcouprnauwda) |  
@@ -173,7 +173,7 @@ ___
 | ^^ | [ORICON NEWS](https://www.oricon.co.jp/) :fjp: |  
 | ^^ | [Japan Anime News](https://us.oricon-group.com/) [:x:](https://x.com/JapanAnimeNews_) |  
 | ^^ | [Otaku News](https://www.otakunews.com/) :flag-united-kingdom: [:rss:](https://www.otakunews.com/Rss) |  
-| **Blog / Interview** | [Anime Blog Tracker](https://aniblogtracker.com/) :s: <Badge text="Aggregator" /> |  
+| **Blog / Interview** | [Anime Blog Tracker](https://aniblogtracker.app/index.php) :s: <Badge text="Aggregator" /> [:gh:](https://github.com/AniBlogTracker) |  
 | ^^ | [Anime Nano](https://www.animenano.com/) <Badge text="Aggregator" /> |  
 | ^^ | [Halcyon Realms](https://halcyonrealms.com/) [:rss:](https://halcyonrealms.com/subscribe/) |  
 | ^^ | [Zimmerit](https://www.zimmerit.moe/) |  
@@ -195,7 +195,6 @@ ___
 | **Blog / Interview** | [Animation Obsessive](https://animationobsessive.substack.com/) :fm::sub: [:x:](https://x.com/ani_obsessive) |  
 | ^^ | [Anime Herald](https://www.animeherald.com/) |  
 | ^^ | [Animétudes](https://animetudes.com/) :s: |  
-| ^^ | [artist_unknown](https://artistunknown.info/) |  
 | ^^ | [Full Frontal](https://fullfrontal.moe/) :s: |  
 | ^^ | [Furaba Anime search](https://furaba-animeseichi.blog.jp/) |  
 | ^^ | [Let's Anime](https://letsanime.blogspot.com/) |  

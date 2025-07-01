@@ -89,7 +89,3 @@ If you face any issues when connecting, try enabling **"Accept invalid SSL certi
 | `/msg [botname] XDCC BATCH [a]-[b] [password]` | Request passworded packs with numbers a to b, including a and b. |
 | `/msg [botname] XDCC BATCH [a],[b],[c] [password]` | Request packs with numbers a, b, and c, with a password. |
 | `/msg [botname] XDCC BATCH [a],[b],[c]-[d]` | Request packs with numbers a, b, and c to d.                      |
-
-::: info More commands [here](https://wiki.xertion.org/w/XDCC_Commands).
-:::
-

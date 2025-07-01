@@ -153,7 +153,6 @@ ___
 - [Asbplayer](https://killergerbah.github.io/asbplayer/) :web::cr: [:gh:](https://github.com/killergerbah/asbplayer)
   - [Yomine](https://github.com/mcgrizzz/Yomine)
 - [Emby Jimaku](https://github.com/bpwhelan/Emby.Jimaku)
-- [Stremio Jimaku](https://jimaku-subs-stremio.echevarria.org/configure) [:gh:](https://github.com/Pedrubik2000/jimaku-subs-stremio)
 - [Voracious](https://voracious.app/) :win::lin: [:gh:](https://github.com/rsimmons/voracious)
 - [Zak's asbplayer](https://zakwarsame.github.io/asbplayer/) :web: [:gh:](https://github.com/zakwarsame/asbplayer)
 ___

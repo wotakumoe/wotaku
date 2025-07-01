@@ -258,7 +258,6 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [Asia Media Blog](https://asiamediablog.com/) [:prx:](https://rentry.org/wotaxy#asia-media-blog)
 - [Gravure Princess](https://idol.gravureprincess.date/)
 - [Mabui Onna](https://mabui-onna.com/)
-- [Sougou Wiki](http://sougouwiki.com/)
 - [X-IDOL](https://xidol.net/) [:alt:](https://www.ivworld.net/)
 - :more: [Japanese DDL](/nonen#direct)
 

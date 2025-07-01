@@ -44,7 +44,7 @@ og:
 - [FantasyAnime](https://fantasyanime.com/)
 - [Myrient](https://myrient.erista.me/)
 - [RetroGameTalk](https://retrogametalk.com/) :acc:
-- [Romheaven](https://romheaven.com/) [:alt:](https://romheaven.su/) <Badge type="info" text="PD Bypass" link="https://pixeldrain-bypass.cybar.xyz/" />
+- [Romheaven](https://romheaven.com/) <Badge type="info" text="PD Bypass" link="https://pixeldrain-bypass.cybar.xyz/" />
 - [ROMsPURE](https://romspure.cc/roms)
 - [The ROM Depot](https://theromdepot.com/) :acc:
 - [AlvRo's Collection](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml) :host:
@@ -220,7 +220,6 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 - [Doujin Style](https://doujinstyle.com/)
 
 ### Fan Games / Mods
-- [NitorInc](http://nitorincmicro.games/) [:simple-icons-steam:](https://store.steampowered.com/app/772260/NitorInc_Touhou_Microgames/)
 - [ShanghaiEXE](https://gitgud.io/SHNecro/shanghaiexe)
 - [Taisei](https://taisei-project.org/) [:gh:](https://github.com/taisei-project/taisei)
 - [Touhou Hisoutensoku](https://soku.delthas.fr/)

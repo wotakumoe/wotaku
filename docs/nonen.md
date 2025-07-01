@@ -127,7 +127,7 @@ If you have recommendations for good sites in your native language or want to re
   - [Bangumi Staff Statistics](https://search.bgmss.fun/) [:gh:](https://github.com/AcuLY/BangumiStaffStats)
 
 ### Comics
-- [69xinshu](https://www.69xinshu.com/)
+- [69xinshu](https://69shuba.cx/index.html)
 - [8Comic](https://www.comicabc.com/)
 - [Antbyw](https://www.antbyw.com/)
 - [Baozimh.com](https://www.baozimh.com/)
@@ -149,7 +149,6 @@ If you have recommendations for good sites in your native language or want to re
 ### NSFW
 - [Hanime1.me](https://hanime1.me/)
 - [55Comic](https://www.55comic.com/)
-- [HD Comic](https://www.hdcomic.com/)
 - [JAV Comics](https://javcomics.com/)
 - [PicACG](https://manhuabika.com/)
 - [WNACG](https://www.wnacg.com/)
@@ -218,11 +217,11 @@ If you have recommendations for good sites in your native language or want to re
 - [Anime-Sama](https://anime-sama.fr/)
 - [AnimesUltra](https://v6.animesultra.net/)
 - [FanKai](http://fankai.fr/) [:alt:](https://linktr.ee/FanKai)
-- [FRAnime](https://franime.fr/) [:alt:](https://franime.to/)
+- [FRAnime](https://franime.fr/)
 - [French Anime](https://french-anime.com/)
 - [JetAnime](https://vww.jetanimes.com/)
 - [Mavanimes](https://mavanimes.co/)
-- [OtakuFR](https://otakufr.cc/)
+- [OtakuFR](https://www.otakufr.org/)
 - [Ryokai Anime](https://ryokaianime.fr/)
 - [Sekai](https://sekai.one/)
 - [Streaming-integrale](https://streaming-integrale.com/)
@@ -274,7 +273,6 @@ If you have recommendations for good sites in your native language or want to re
 - [Anime Community Germany](https://anime-community-germany.de/)
 - [Animexx](https://www.animexx.de/)
 - [aniSearch](https://www.anisearch.de/forum/categories)
-- [Baka Board](https://baka-bewerbung.me/) <Badge type="info" text="Usenet" />
 - [Data-Load](https://www.data-load.me/) :ddl::host::acc:
 - [littleAkiba](https://www.littleakiba.ch/)
 - [myGully](https://mygully.com/) :ddl::host::acc:
@@ -423,6 +421,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [RAW LAZY](https://rawlazy.io/)
 - [Raw Otaku](https://rawotaku.com/home/) [:prx:](https://rentry.org/wotaxy#raw-otaku)
 - [RawUwU](https://rawuwu.com/) [:alt:](https://rawdevart.art/)
+- [Sen Manga](https://raw.senmanga.com/)
 - [Spoilerraw](https://spoilerraw.net/) [:alt:](https://mangarawtrend.com/)
 - [Syosetu](https://syosetu.my/)
 - [Twicomi](https://twicomi.com/)
@@ -718,7 +717,6 @@ ___
 - [Ayatoon](https://ayatoon.com/)
 - [Manga-TR](https://manga-tr.com/index.html)
 - [Sadscans](https://sadscans.com/)
-- [Seri Manga](https://serimanga.com/)
 - [Tortuga Ceviri](https://tortuga-ceviri.com/)
 
 
@@ -743,7 +741,7 @@ ___
 
 ### Anime
 - [Ani4u](https://ani4u.org/)
-- [Anime47](https://anime47.cam/)
+- [Anime47](https://anime47.shop/)
 - [AnimeHay](https://animehay.in/)
 - [AnimeVsub](https://animevsub.eu.org/) [:gh:](https://github.com/anime-vsub/desktop-web)
 - [HHNINJA](https://hhninja14.tv/)
@@ -763,7 +761,7 @@ ___
 - [Truyen Sieuhay](https://truyensieuhay.com/)
 
 ### Hentai
-- [DuaLeoTruyen](https://dualeotruyenbotx.com/)
+- [DuaLeoTruyen](https://dualeotruyenc.com/)
 - [HentaiCube](https://hentaicube.xyz/)
 - [HentaiVN](https://www.mehentaivn.xyz/)
 - [KuroNeko](https://vi-hentai.com/)
@@ -776,7 +774,7 @@ ___
 - [Metruyenhot](https://metruyenhot.vn/)
 - [Sonako Light Novel Wiki](https://sonako.fandom.com/vi/wiki/Sonako_Light_Novel)
 - [SSTruyen](https://sstruyen.vn/) :ero:
-- [TruyenFull.io](https://truyenfull.io/) :ero:
+- [TruyenFull.io](https://truyenfull.vision/) :ero:
 - [TruyenFull.tv](https://truyenfull.tv/) :ero:
 - [Xalosach](https://xalosach.com/)
 

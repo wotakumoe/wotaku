@@ -220,7 +220,6 @@ ___
 ### Practice
 
 #### General
-- [Grindmaster](https://goshintai.xyz/projects/grindmaster/)
 - [Genki Study Resources](https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/)
 - [Tobira Study Resources](https://sethclydesdale.github.io/tobira-study-resources/)
 - [Duendecat](http://duendecat.com/)

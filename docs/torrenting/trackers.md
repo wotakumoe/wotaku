@@ -87,8 +87,9 @@ og:
 
 ### Russian
 
+- [Anilibria](https://anilibria.top/)
 - [Animelayer](http://animelayer.ru/) :acc:
-- [Dark Libria](https://darklibria.it/)
+
 
 ### Spanish
 
