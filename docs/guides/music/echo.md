@@ -101,15 +101,13 @@ Extensions are a mix of `.eapk` and `.apk` files. `.eapk` files are installed au
 :::
 
 ### Updating extension
-Echo automatically checks for extension updates every 6 hours. If you'd like to check for updates manually,
-- Go to :material-symbols-settings-outline-rounded: **Settings** -> :material-symbols-info-outline-rounded: **Misc**
-- Tap and hold "**Check for Extension Updates**".
-- If a new update is found, you'll be prompted to install it.
-- After installation, restart Echo.
+Echo automatically checks for extension updates every 6 hours. If you'd like to check for updates manually, go to :material-symbols-settings-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension** -> :material-symbols-sync-rounded:
+
+If a new update is available, you'll be prompted to install it. If the app still shows as out of date, try restarting it.
 
 ## Adding account
 To access personalized content, playlists, and streaming features, add your account. To add an account,
-- Go to :material-symbols-settings-outline-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension**
+- Go to :material-symbols-settings-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension**
 - Then click on the music streaming extension you want to link.
 - Click :material-symbols-login-rounded: **Login** and follow the instructions.
 
@@ -160,7 +158,7 @@ To avoid risking your main account, use an alternate account instead. You can fo
 # Other guides
 
 ## Blacklisting folder
-Echo scans all your music folders and displays them in the :material-symbols-files-outline: **Offline** extension. If you want to exclude a folder, go to :material-symbols-settings-outline-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension** -> :material-symbols-files-outline: **Offline** and tap **Blacklist Folders**. Then, select the folders you don’t want Echo to scan.
+Echo scans all your music folders and displays them in the :material-symbols-files-outline: **Offline** extension. If you want to exclude a folder, go to :material-symbols-settings-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension** -> :material-symbols-files-outline: **Offline** and tap **Blacklist Folders**. Then, select the folders you don’t want Echo to scan.
 
 ## Changing lyrics provider
 Echo supports multiple lyrics providers. You can select your preferred provider from the player.
@@ -179,7 +177,7 @@ To download songs in Echo, you have to install [EchoDown](#installing-extension)
 - Open any song/album you want to download.
 - Press :material-symbols-more-horiz: to open the menu and then click :material-symbols-download-for-offline-outline-rounded: **Download**
 
-You can see the progress in :material-symbols-settings-outline-rounded: **Settings** ->  :material-symbols-download-for-offline-outline-rounded: **Downloads**. Once done, you'll find them in :material-symbols-files-outline: **Offline**. If you can't find the Offline section, click :material-symbols-stream-rounded: **Extension** icon, and select :material-symbols-files-outline: **Offline** from there.
+You can see the progress in :material-symbols-settings-rounded: **Settings** ->  :material-symbols-download-for-offline-outline-rounded: **Downloads**. Once done, you'll find them in :material-symbols-files-outline: **Offline**. If you can't find the Offline section, click :material-symbols-stream-rounded: **Extension** icon, and select :material-symbols-files-outline: **Offline** from there.
 
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/-TamZ_J7NmA" frameborder="0" allowfullscreen></iframe></div>
 
@@ -238,12 +236,12 @@ Your current extensions need to be updated. Follow these steps:
 ## Deezer
 
 ### Deezer not available in my country
-Use a [VPN](/qs#vpn) to create your Deezer account. After that, you can access Deezer without a VPN by using a proxy server. To set up a proxy, go to :material-symbols-settings-outline-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension** -> **Deezer** -> **Use Proxy**, and select a proxy server from the list.
+Use a [VPN](/qs#vpn) to create your Deezer account. After that, you can access Deezer without a VPN by using a proxy server. To set up a proxy, go to :material-symbols-settings-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension** -> **Deezer** -> **Use Proxy**, and select a proxy server from the list.
 
 ## Download / EchoDown
 
 ### Downloaded file not the highest quality
-By default, EchoDown downloads files in medium quality. To change this, go to :material-symbols-settings-outline-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension** -> **Misc** -> **EchoDown** and tap **Download Quality**. Then select **Highest**.
+By default, EchoDown downloads files in medium quality. To change this, go to :material-symbols-settings-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension** -> **Misc** -> **EchoDown** and tap **Download Quality**. Then select **Highest**.
 
 ### open failed: ENOENT (No such file or directory)
 You will see this error if you move or delete the downloaded folder from its original location. To fix it, either move the folder back to its original location or remove it from :material-symbols-download-for-offline-outline-rounded: **Downloads** and use the :material-symbols-files-outline: **Offline** extension to play the files.
