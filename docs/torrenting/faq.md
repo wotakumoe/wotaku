@@ -30,7 +30,7 @@ You *can* stream torrent files (by downloading the files sequentially).
 [Animetail](https://github.com/Dark25/Animetail2) & [Dantotsu](https://discord.com/invite/4HPZ5nAWwM) can stream torrents from various sources including Nyaa.si. For that, install the Torrentio extension. You can customize good amount of things in extension settings.
 
 ### PC
-There are a few listed in [**software page**](/software#anime-streaming-2). [Hayase](https://miru.watch/) is the most feature-rich one. You can also [qBittorrent](https://www.qbittorrent.org/), [TorrServer](https://github.com/YouROK/TorrServer) & [WebTorrent](https://webtorrent.io/). You can read the info tab below the software list for How-to.
+There are a few listed in [**software page**](/software#anime-streaming-2). [Hayase](https://hayase.watch/) is the most feature-rich one. You can also [qBittorrent](https://www.qbittorrent.org/), [TorrServer](https://github.com/YouROK/TorrServer) & [WebTorrent](https://webtorrent.io/). You can read the info tab below the software list for How-to.
 
 :::
 
