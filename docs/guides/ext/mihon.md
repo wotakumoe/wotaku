@@ -82,8 +82,3 @@ ___
 ___
 
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/dubXV-R9lUM" frameborder="0" allowfullscreen></iframe></div>
-
-::: info Auto install
-Dantotsu [**now supports**](https://github.com/rebelonion/Dantotsu/pull/558/commits/38d68a79761b59f6a5a6cbb7380cfdb99a82b21b) auto install method like mihon & forks.
-
-:::
