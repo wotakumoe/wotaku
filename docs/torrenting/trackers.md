@@ -86,8 +86,6 @@ og:
 - [Dark Animes](https://darkmahou.org/)
 
 ### Russian
-
-- [Anilibria](https://anilibria.top/)
 - [Animelayer](http://animelayer.ru/) :acc:
 
 
