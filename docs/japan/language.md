@@ -101,7 +101,7 @@ If you're knowledgeable in Japanese, consider contributing to the wiki. We could
 - [pixiv Encyclopedia](https://dic.pixiv.net/)
 - [Takoboto](https://takoboto.jp/)
 - [Tangorin](https://tangorin.com/)
-- [The Kanji Map](https://thekanjimap.com/)
+- [The Kanji Map](https://thekanjimap.netlify.app/) [:gh:](https://github.com/gabor-kovacs/the-kanji-map)
 - [Weblio](https://ejje.weblio.jp/)
 - [Wiktionary](https://wiktionary.org) <Badge type="tip" text="EN" link="https://en.wiktionary.org/"/> <Badge type="tip" text="JP" link="https://ja.wiktionary.org/" />
 

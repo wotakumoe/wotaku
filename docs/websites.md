@@ -43,6 +43,7 @@ outline: 1
 | Websites | Type | Login | Sub |
 |----------|----------------------|----------------------|--------|
 | [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) ==AllManga== | :mingcute-server-fill: :mingcute-shovel-fill: | :mingcute-user-2-fill: | :cc::hs: |
+| [Animaru](https://animaru.site/) | :mingcute-server-fill: | :no: | :hs: |
 | [AnimeZ](https://animeyy.com/) ==animez== | :mingcute-server-fill: | :mingcute-user-2-fill: | :hs: |
 | [Animotvslash](https://www.animotvslash.org/search) ==Animotvslash== | :mingcute-server-fill: | :no: | :cc::hs: |
 | [AniHQ](https://anihq.to/home/) | :mingcute-server-fill: | :mingcute-user-2-fill: | :hs: |
@@ -76,6 +77,7 @@ outline: 1
 - [Crimson Subs](https://crimsonfansubs.com/) [:d:](https://discord.com/invite/JMn7Y8qv)
 - [Donghua Stream](https://donghuastream.org/) [:d:](https://discord.gg/4zrUguAakG) [:tg:](https://telegram.me/DonghuaStream_com)
 - [Dongsub](https://www.dongsub.net/) [:tg:](https://t.me/dongsub)
+- [mcommerce](https://mcommerce.news/)
 - [JHD Anime](https://jhdanime.live/) [:tg:](https://telegram.im/@jhdanime)
 - [LM Anime](https://lmanime.com/)
 - [Lucifer Donghua](https://luciferdonghua.in/) [:tg:](https://t.me/luciferdonghuaz)

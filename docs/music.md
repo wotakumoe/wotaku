@@ -210,7 +210,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 - [Game That Tune Radio](https://gttradio.com/)
 - [Rainwave VGM Radio](https://rainwave.cc/all/)
 - [RPGamers Radio](http://www.rpgamers.net/radio/)
-- [SquidRadio](https://radio.sittingonclouds.net/) [:alt:](https://www.squidify.org/library/radios)
 
 
 
