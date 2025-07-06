@@ -79,25 +79,30 @@ og:
 
 | Software | OS | DDL | P2P | FOSS |
 |-|-|-|-|-|
-| [qBittorrent](https://www.qbittorrent.org/) :s: [:gh:](https://github.com/qbittorrent/qBittorrent/) | :win::app::lin: | :no: | :yes: | :yes: |
-| [yt-dlp](https://github.com/yt-dlp/yt-dlp) :s: | :win::app::lin::cmd: | :yes: | :no: | :yes: |
 | [AB Download Manager](https://abdownloadmanager.com/) [:gh:](https://github.com/amir1376/ab-download-manager) | :win::lin: | :yes: | :no: | :yes: |
 | [aria2](https://aria2.github.io/) [:gh:](https://github.com/aria2/aria2) | :cmd: | :yes: | :yes: | :yes: |
 | [Brisk](https://github.com/BrisklyDev/brisk) | :win::app::lin: | :yes: | :no: | :yes: |
-| [BiglyBT](https://www.biglybt.com/) [:gh:](https://github.com/BiglySoftware/BiglyBT) | :win::app::lin::bsd: | :no: | :yes: | :yes: |
 | [Deluge](https://www.deluge-torrent.org/) [:gh:](https://github.com/deluge-torrent/deluge) | :win::app::lin: | :no: | :yes: | :yes: |
+| [Internet Download Manager](https://www.internetdownloadmanager.com/) | :win: | :yes: | :no: | :no: |
+| [JDownloader](https://jdownloader.org/) | :win::app::lin: | :yes: | :no: | :no: |
+| [qBittorrent](https://www.qbittorrent.org/) [:gh:](https://github.com/qbittorrent/qBittorrent/) | :win::app::lin: | :no: | :yes: | :yes: |
+| [Transmission](https://transmissionbt.com/) [:gh:](https://github.com/transmission/transmission) | :win::app::lin: | :no: | :yes: | :yes: |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | :win::app::lin::cmd: | :yes: | :no: | :yes: |
+
+::: details More
+| Software | OS | DDL | P2P | FOSS |
+|-|-|-|-|-|
+| [BiglyBT](https://www.biglybt.com/) [:gh:](https://github.com/BiglySoftware/BiglyBT) | :win::app::lin::bsd: | :no: | :yes: | :yes: |
 | [File centipede](https://filecxx.com/en_US/index.html) [:gh:](https://github.com/filecxx/FileCentipede) | :win::lin: | :yes: | :yes: | :yes: |
 | [Gopeed](https://gopeed.com/) [:gh:](https://github.com/GopeedLab/gopeed) | :win::app::lin: | :yes: | :yes: | :yes: |
 | [ImFile](https://github.com/imfile-io/imfile-desktop/) | :win::app: | :yes: | :yes: | :yes: |
-| [Internet Download Manager](https://www.internetdownloadmanager.com/) | :win: | :yes: | :no: | :no: |
-| [JDownloader](https://jdownloader.org/) | :win::app::lin: | :yes: | :no: | :no: |
 | [libtorrent](https://www.libtorrent.org/index.html) [:gh:](https://github.com/arvidn/libtorrent) | :cmd: | :no: | :yes: | :yes: |
 | [Media Downloader](https://github.com/mhogomchungu/media-downloader) | :win::app::lin: | :yes: | :yes: | :yes: |
 | [MegaBasterd](https://github.com/tonikelope/megabasterd) | :win::app::lin: | :yes: | :no: | :yes: |
 | [Persepolis](https://persepolisdm.github.io/) [:gh:](https://github.com/persepolisdm/persepolis) | :win::app::lin: | :yes: | :no: | :yes: |
 | [TIXATI](https://www.tixati.com/) | :win::lin: | :no: | :yes: | :no: |
-| [Transmission](https://transmissionbt.com/) [:gh:](https://github.com/transmission/transmission) | :win::app::lin: | :no: | :yes: | :yes: |
 | [Xtreme Download Manager](https://xtremedownloadmanager.com/) [:gh:](https://github.com/subhra74/xdm) | :win::app::lin: | :yes: | :no: | :yes: |
+:::
 
 #### Related resources
 
