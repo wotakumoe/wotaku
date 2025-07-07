@@ -15,7 +15,6 @@ og:
 | - | - | - | - |
 | [MegaRepo](https://github.com/self-similarity/MegaRepo/) ==megarepo== | :global: | [Install](cloudstreamrepo://raw.githubusercontent.com/self-similarity/MegaRepo/builds/repo.json) | [URL](https://raw.githubusercontent.com/self-similarity/MegaRepo/builds/repo.json) |
 | [Aniyomi Compat](https://github.com/CranberrySoup/AniyomiCompatExtension) | :global: | [Install](cloudstreamrepo://raw.githubusercontent.com/CranberrySoup/AniyomiCompatExtension/master/repo.json) | [URL](https://raw.githubusercontent.com/CranberrySoup/AniyomiCompatExtension/master/repo.json) |
-| [Azya](https://git.disroot.org/ayza/FStream) | :flag-france: | [Install](cloudstreamrepo://git.disroot.org/ayza/FStream/raw/branch/main/repo.json) | [URL](https://git.disroot.org/ayza/FStream/raw/branch/main/repo.json) |
 | [CakesTwix](https://github.com/CakesTwix/cloudstream-extensions-uk) | :flag-ukraine: | [Install](cloudstreamrepo://raw.githubusercontent.com/CakesTwix/cloudstream-extensions-uk/master/repo.json) | [URL](https://raw.githubusercontent.com/CakesTwix/cloudstream-extensions-uk/master/repo.json) |
 | [CSX](https://github.com/SaurabhKaperwan/CSX) | :flag-india: | [Install](cloudstreamrepo://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CS.json) | [URL](https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CS.json) |
 | [CuxPlug](https://github.com/ycngmn/CuxPlug) | :global: | [Install](cloudstreamrepo://raw.githubusercontent.com/ycngmn/CuxPlug/refs/heads/main/repo.json) | [URL](https://raw.githubusercontent.com/ycngmn/CuxPlug/refs/heads/main/repo.json) |
@@ -25,6 +24,7 @@ og:
 | [Phisher](https://github.com/phisher98/cloudstream-extensions-phisher) | :global: | [Install](cloudstreamrepo://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/repo.json) | [URL](https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/repo.json) |
 | [Redowan](https://github.com/redowan99/Redowan-CloudStream) | :flag-bangladesh: | [Install](cloudstreamrepo://raw.githubusercontent.com/redowan99/Redowan-CloudStream/master/repo.json) | [URL](https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/master/repo.json) |
 | [Tearrs](https://gitlab.com/tearrs/cloudstream-vietnamese) | :flag-vietnam: | [Install](cloudstreamrepo://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/repo.json) | [URL](https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/repo.json) |
+| [zzikozz](https://codeberg.org/zzikozz/frencharchive/) | :flag-france: | [Install](cloudstreamrepo://codeberg.org/zzikozz/frencharchive/raw/branch/Release/repo.json) | [URL](https://codeberg.org/zzikozz/frencharchive/raw/branch/Release/repo.json) |
 
 ### Manual Installation
 - Copy the **Manual URL**
