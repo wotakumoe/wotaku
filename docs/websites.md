@@ -40,21 +40,27 @@ outline: 1
 
 ### Self-uploaded
 
-| Websites | Type | Login | Sub |
-|----------|----------------------|----------------------|--------|
-| [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) ==AllManga== | :mingcute-server-fill: :mingcute-shovel-fill: | :mingcute-user-2-fill: | :cc::hs: |
-| [Animaru](https://animaru.site/) | :mingcute-server-fill: | :no: | :hs: |
-| [AnimeZ](https://animeyy.com/) ==animez== | :mingcute-server-fill: | :mingcute-user-2-fill: | :hs: |
-| [Animotvslash](https://www.animotvslash.org/search) ==Animotvslash== | :mingcute-server-fill: | :no: | :cc::hs: |
-| [AniHQ](https://anihq.to/home/) | :mingcute-server-fill: | :mingcute-user-2-fill: | :hs: |
-| [Watch Cartoon Online](https://www.wco.tv/) [:prx:](https://rentry.org/wotaxy#watch-cartoon-online) ==WCO== | :mingcute-server-fill: | :mingcute-user-2-fill: | :hs: |
+| Websites | Login | Sub |
+|----------|----------------------|--------|
+| [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) ==AllManga== | :mingcute-user-2-fill: | :cc::hs: |
+| [Animaru](https://animaru.site/) | :no: | :hs: |
+| [AnimeZ](https://animeyy.com/) ==animez== | :mingcute-user-2-fill: | :hs: |
+| [Animotvslash](https://www.animotvslash.org/search) ==Animotvslash== | :no: | :cc::hs: |
+| [AniHQ](https://anihq.to/home/) | :mingcute-user-2-fill: | :hs: |
+| [Watch Cartoon Online](https://www.wco.tv/) [:prx:](https://rentry.org/wotaxy#watch-cartoon-online) ==WCO== | :mingcute-user-2-fill: | :hs: |
+
+### Mix
+| Websites | Login | Sub |
+|----------|----------------------|--------|
+| [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) ==AllManga== | :mingcute-user-2-fill: | :cc::hs: |
+| [Aninow](https://aninow.tv/home) | :mingcute-user-2-fill: | :cc::hs: |
 
 ### Low Res
-| Websites | Type | Login | Sub |
-|----------|----------------------|----------------------|--------|
-| [Anime Defenders](https://animedefenders.me/) :ero: | :mingcute-server-fill: | :mingcute-user-2-fill: | :hs: |
-| [AnimeOnsen](https://www.animeonsen.xyz/) | :mingcute-server-fill: | :mingcute-user-2-fill: | :cc: |
-| [Otaku-Streamers](https://beta.otaku-streamers.com/) <Badge type="info" text="Old" link="https://otaku-streamers.com/" /> ==OtakuStreamers== | :mingcute-server-fill: | :mingcute-user-2-fill: | :hs: |
+| Websites | Login | Sub |
+|----------|----------------------|--------|
+| [Anime Defenders](https://animedefenders.me/) :ero: | :mingcute-user-2-fill: | :hs: |
+| [AnimeOnsen](https://www.animeonsen.xyz/) | :mingcute-user-2-fill: | :cc: |
+| [Otaku-Streamers](https://beta.otaku-streamers.com/) <Badge type="info" text="Old" link="https://otaku-streamers.com/" /> ==OtakuStreamers== | :mingcute-user-2-fill: | :hs: |
 
 
 ### Scrapers

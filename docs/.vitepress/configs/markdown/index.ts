@@ -365,7 +365,8 @@ const tooltips: {
   kazamakase: {content: 'Does not get much update but has info about old comics.'},
   mangarawspoil: {content: 'Has unusual geo-restrictions. Everything works in Japan, but some content may also be accessible in other regions. Although the watermarks differ, the content remains the same.'},
   animez: {content: 'Rips 1080p from Kai.'},
-  kureha: {content: 'The site doesn’t offer a search option. To find a specific title, use Google: `LN/WN Title site:vn-meido.com`'}
+  kureha: {content: 'The site doesn’t offer a search option. To find a specific title, use Google: `LN/WN Title site:vn-meido.com`'},
+  aninow: {content: 'Scrapes HiAnime(ZoroX) and AnimePahe(BunnyCDN). Aninow is their own uploads.'}
 }
 
 export function configureMarkdown(md: MarkdownRenderer) {
