@@ -23,7 +23,7 @@ og:
 
 - [ArtStation](https://www.artstation.com/)
 - [DeviantArt](https://www.deviantart.com/)
-- [Misskey.io](https://misskey.io/) <Badge type="tip" text="Others" link="https://misskey-hub.net/en/servers/" /> ==Misskey==
+- [Misskey Art Servers](https://rentry.org/wotakey)
 - [Pixiv](https://www.pixiv.net) :s:
   - [Pixivision](https://www.pixivision.net/en/)
 - [Twitter](https://x.com/home) :s:
