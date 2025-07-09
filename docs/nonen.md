@@ -406,12 +406,10 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Dokiraw](https://dokiraw.com/home)
 - [KL Manga](https://klz9.com/idx) [:prx:](https://rentry.org/wotaxy#kl-manga)
 - [MangaFire](https://mangafire.to/home)
-- [Manga Jikan](https://www.mangajikan.cc/) [:prx:](https://rentry.org/wotaxy#manga-jikan)
 - [MangaKuro](https://mangakuro.net/home)
 - [Manga Raw (.ac)](https://mangaraw.ac/) [:prx:](https://rentry.org/wotaxy#mangarawspoil) ==mangarawspoil==
 - [Manga RAW (.ad)](https://mangaraw.ad/)
 - [Manga RAW (.best)](https://mangaraw.best/)
-- [Manga RAW (.plus)](https://mangaraw.plus/)
 - [MangarawJP](https://mangarawjp.me/)
 - [MangaReader](https://mangareader.to/home)
 - [Pixiv Comics](https://comic.pixiv.net/)
@@ -422,7 +420,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Raw Otaku](https://rawotaku.com/home/) [:prx:](https://rentry.org/wotaxy#raw-otaku)
 - [RawUwU](https://rawuwu.com/) [:alt:](https://rawdevart.art/)
 - [Sen Manga](https://raw.senmanga.com/)
-- [Spoilerraw](https://spoilerraw.net/) [:alt:](https://mangarawtrend.com/)
+- [Spoilerraw](https://spoilerraw.net/)
 - [Syosetu](https://syosetu.my/)
 - [Twicomi](https://twicomi.com/)
 
