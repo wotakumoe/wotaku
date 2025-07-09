@@ -53,7 +53,7 @@ outline: 1
 | Websites | Login | Sub |
 |----------|----------------------|--------|
 | [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) ==AllManga== | :mingcute-user-2-fill: | :cc::hs: |
-| [Aninow](https://aninow.tv/home) | :mingcute-user-2-fill: | :cc::hs: |
+| [Aninow](https://aninow.tv/home) ==aninow== | :mingcute-user-2-fill: | :cc::hs: |
 
 ### Low Res
 | Websites | Login | Sub |
@@ -292,7 +292,6 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 | [Assorted Scans](https://assortedscans.com/) | :fjp: | - | - |
 | [Asura Scans](https://asuracomic.net/) :sub: | :fjp::fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/juxsa9z/asura) |
 | [Danke fürs Lesen Scans](https://danke.moe/) | :fjp: | [URL](https://mangadex.org/group/91035fe1-d6b0-4816-be51-b54d05d546cf/danke-furs-lesen) | [URL](https://www.mangaupdates.com/group/xlp7424/danke-fuers-lesen) |
-| [Drake Scans](https://drakecomic.org/) | :fcn: | [URL](https://mangadex.org/group/50caf96d-fe2b-4638-9d13-4954b782e112/drake-scans) | [URL](https://www.mangaupdates.com/group/ktajd9u/drake-scans) |
 | [Flame Comics](https://flamecomics.com/) ==Flame== | :fkr::fcn: | [URL](https://mangadex.org/group/fdad9851-164f-43fc-9ab0-25b8054c99ed/flame-scans) | [URL](https://www.mangaupdates.com/group/btgsdiy/flame-scans) |
 
 

@@ -222,7 +222,6 @@ If you have recommendations for good sites in your native language or want to re
 - [JetAnime](https://vww.jetanimes.com/)
 - [Mavanimes](https://mavanimes.co/)
 - [OtakuFR](https://www.otakufr.org/)
-- [Ryokai Anime](https://ryokaianime.fr/)
 - [Sekai](https://sekai.one/)
 - [Streaming-integrale](https://streaming-integrale.com/)
 - [ToonAnime](https://fr.toonanime.biz/)
