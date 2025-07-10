@@ -31,7 +31,7 @@ Extensions are a mix of `.eapk` and `.apk` files. `.eapk` files are installed au
 | Extension | Code | Manual |
 |-|-|-|
 | All-in-one :s: | `extension` | [Link](https://raw.githubusercontent.com/itsmechinmoy/echo-extensions/main/echo_extensions.json) |
-| EchoDown | `echodown` | [Link](https://paste.rs/9x6hj) |
+| EchoDown | `echodown` | [Link](https://gist.githubusercontent.com/LuftVerbot/81f8748205dc7fc419269c59e7cffdb1/raw/993b221af28a01a6380fd36692935b670a18ee43/echo_extensions.json) |
 
 == Repositories
 
