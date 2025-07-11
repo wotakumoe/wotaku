@@ -63,6 +63,7 @@ If you have recommendations for good sites in your native language or want to re
 - [Hentai Time](https://hentai-time.com/)
 - [NXX Hentai](https://nxxhentai.com/)
 - [RistoHentai](https://ristohentai.com/)
+- [Saudi Hentai](https://saudihentai.com/)
 
 ### Software
 
@@ -221,7 +222,6 @@ If you have recommendations for good sites in your native language or want to re
 - [French Anime](https://french-anime.com/)
 - [JetAnime](https://vww.jetanimes.com/)
 - [Mavanimes](https://mavanimes.co/)
-- [OtakuFR](https://www.otakufr.org/)
 - [Sekai](https://sekai.one/)
 - [Streaming-integrale](https://streaming-integrale.com/)
 - [ToonAnime](https://fr.toonanime.biz/)
@@ -590,7 +590,6 @@ ___
 - [AnimeStars](https://animestars.org/) <Badge type="info" text="Aggregator" />
 - [Animevost](https://animevost.org/)
 - [Anisun](https://anisun.vercel.app/en) [:gh:](https://github.com/notwindstone/anisun)
-- [ANIXART](https://anixart-tv.org/) <Badge type="info" text="Aggregator" />
 - [Dream Cast](https://dreamerscast.com/)
 - [Freedub Studio](https://freedubstudio.club/)
 - [Gidanime](https://gidanime.tv/)
@@ -605,7 +604,7 @@ ___
 
 ### Manga
 - [Com-X](https://com-x.life/)
-- [Desu.Me](https://desu.work/) [:alt:](https://desu.me/)
+- [Desu.Me](https://desu.city/) [:alt:](https://desu.me/)
 - [Manga.ovh](https://manga.ovh/content)
 - [MangaClub](https://mangaclub.ru/)
 - [MangaHub](https://mangahub.ru/)
