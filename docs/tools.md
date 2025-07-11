@@ -81,7 +81,6 @@ og:
 |-|-|-|-|-|
 | [AB Download Manager](https://abdownloadmanager.com/) [:gh:](https://github.com/amir1376/ab-download-manager) | :win::lin: | :yes: | :no: | :yes: |
 | [aria2](https://aria2.github.io/) [:gh:](https://github.com/aria2/aria2) | :cmd: | :yes: | :yes: | :yes: |
-| [Brisk](https://github.com/BrisklyDev/brisk) | :win::app::lin: | :yes: | :no: | :yes: |
 | [Deluge](https://www.deluge-torrent.org/) [:gh:](https://github.com/deluge-torrent/deluge) | :win::app::lin: | :no: | :yes: | :yes: |
 | [Internet Download Manager](https://www.internetdownloadmanager.com/) | :win: | :yes: | :no: | :no: |
 | [JDownloader](https://jdownloader.org/) | :win::app::lin: | :yes: | :no: | :no: |
@@ -93,6 +92,7 @@ og:
 | Software | OS | DDL | P2P | FOSS |
 |-|-|-|-|-|
 | [BiglyBT](https://www.biglybt.com/) [:gh:](https://github.com/BiglySoftware/BiglyBT) | :win::app::lin::bsd: | :no: | :yes: | :yes: |
+| [Brisk](https://github.com/BrisklyDev/brisk) | :win::app::lin: | :yes: | :no: | :yes: |
 | [File centipede](https://filecxx.com/en_US/index.html) [:gh:](https://github.com/filecxx/FileCentipede) | :win::lin: | :yes: | :yes: | :yes: |
 | [Gopeed](https://gopeed.com/) [:gh:](https://github.com/GopeedLab/gopeed) | :win::app::lin: | :yes: | :yes: | :yes: |
 | [ImFile](https://github.com/imfile-io/imfile-desktop/) | :win::app: | :yes: | :yes: | :yes: |
