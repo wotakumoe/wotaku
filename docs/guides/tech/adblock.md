@@ -67,8 +67,7 @@ Adding a lot of filters to your adblocker (that you don't specifically need) can
 | ^^     | [AdsBypasser](https://adsbypasser.github.io/) [:gh:](https://github.com/adsbypasser/adsbypasser) :js: |
 | ^^     | [Bye Bye Paywall](https://byebyepaywall.com/en/) :web: |  
 | ^^     | [Bypass.city](https://bypass.city/how-to-install-userscript) :js: |
-| ^^     | [Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bpc_updates) :ff::cr: |  
-| ^^     | [Bypass Paywalls Clean Filters](https://gitflic.ru/project/magnolia1234/bypass-paywalls-clean-filters) :mdi-filter: |  
+| ^^     | [Bypass Paywalls Clean](https://gitflic.ru/user/magnolia1234) :ff::cr::mdi-filter: |  
 | **Others** | [BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) :ff::cr: |
 
 

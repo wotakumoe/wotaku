@@ -128,7 +128,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | Website | Service |
 |-|-|
 | [Lucida](https://lucida.to/) :s: [:alt:](https://lucida.su/) | Qobuz, Tidal, Amazon Music, Deezer, Yandex |
-| [DAB Music Player](https://dab.yeet.su/) ==dab== | Qobuz |
+| [DAB Music Player](https://dab.yeet.su/) [:alt:](https://dabmusic.xyz/) ==dab== | Qobuz |
 | [Squid.wtf](https://squid.wtf/) | Qobuz, Deezer, THInsider |
 | [DeezMate](https://deezmate.com/) | Deezer |
 | [Apple Music Downloader](https://aaplmusicdownloader.com/) ==amdl== | Apple (Lossy) |
@@ -370,7 +370,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^         | [Harmony Music](https://github.com/anandnet/Harmony-Music) :and: |
 | **Spotify** | [**Spotify**](https://www.spotify.com/us/download/) :cs: |
 | ^^         | [xManager](https://www.xmanagerapp.com/) :and::cs: |
-| ^^         | [EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) :app: <Badge type="info" text="Sideload" link="https://github.com/whoeevee/EeveeSpotify/tree/swift/Repositories#eeveespotify-official-repositories" /> |
+| ^^         | [EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) :app: <Badge type="info" text="Sideload" link="https://github.com/whoeevee/EeveeSpotify/tree/swift/Repositories#eeveespotify-official-repositories" /> <Badge type="info" text="Compiled" link="https://github.com/SpotCompiled/SpotveeC" /> |
 | **Others**  | [Apple Music](https://apps.apple.com/us/app/apple-music/id1108187390) :app::cs: |
 | ^^         | [ReFreezer](https://github.com/DJDoubleD/refreezer) :and: `Deezer` |
 | ^^         | [RootlessJamesDSP](https://github.com/timschneeb/RootlessJamesDSP) |

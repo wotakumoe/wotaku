@@ -341,7 +341,7 @@ If you have recommendations for good sites in your native language or want to re
 - **DDL**
   - [Koisuru](https://db.koisuru.web.id/0:/) ==Koisuru==
   - [Kusonime](https://kusonime.com/)
-  - [Meownime](https://m.meownime.ai/)
+  - [Meownime](https://midori.meownime.io/)
 
 ### Manga
 - [Komiku](https://komiku.id/)
