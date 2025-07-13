@@ -140,6 +140,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 | Transfer   | [send2ereader](https://github.com/daniel-j/send2ereader)                            | :win::app::lin::dock: |
 | ^^         | [Send to Kindle](https://www.amazon.com/sendtokindle)                               | :web::win::app::lin: |
 - :more: [Manga tools](#manga-tools)
+- :more: [OPDS to E-reader](/guides/manga/opds)
 
 ::: tip Extra
 - [Kindle Modding Wiki](https://kindlemodding.org/)

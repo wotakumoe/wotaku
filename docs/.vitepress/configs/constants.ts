@@ -85,7 +85,8 @@ export const nav: DefaultTheme.NavItem[] = [
           { text: 'Downloading Manga', link: '/guides/manga/mdl' },
           { text: 'JXL Manga Readers', link: '/guides/manga/jxl' },
           { text: 'Madokami', link: '/guides/manga/madokami' },
-          { text: 'Manga Image Editing', link: '/guides/manga/imagedit' }
+          { text: 'Manga Image Editing', link: '/guides/manga/imagedit' },
+          { text: 'OPDS to E-reader', link: '/guides/manga/opds' }
         ]
       },
       {
@@ -243,7 +244,8 @@ export const sidebar: DefaultTheme.Sidebar = [
           { text: 'Downloading Manga', link: '/guides/manga/mdl' },
           { text: 'JXL Manga Readers', link: '/guides/manga/jxl' },
           { text: 'Madokami', link: '/guides/manga/madokami' },
-          { text: 'Manga Image Editing', link: '/guides/manga/imagedit' }
+          { text: 'Manga Image Editing', link: '/guides/manga/imagedit' },
+          { text: 'OPDS to E-reader', link: '/guides/manga/opds' }
         ]
       },
       {
