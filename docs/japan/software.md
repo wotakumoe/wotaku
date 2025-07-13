@@ -233,7 +233,6 @@ ___
 - [Trim Japanese Game Audio](https://github.com/bpwhelan/TrimJapaneseGameAudio/)
 ___
 #### Others
-- [buukuru](https://github.com/duykhanh472/buukuru)
 - [ComicEater](https://github.com/kanjieater/ComicEater)
 - [Furiganalyse](https://furiganalyse.itsupera.co/) :web: [:gh:](https://github.com/itsupera/furiganalyse)
 - [GenkiYoshi](https://github.com/FragozoLeonardo/Genki-Yoshi)

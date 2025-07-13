@@ -194,6 +194,7 @@ ___
 | **Blog / Interview** | [Animation Obsessive](https://animationobsessive.substack.com/) :fm::sub: [:x:](https://x.com/ani_obsessive) |  
 | ^^ | [Anime Herald](https://www.animeherald.com/) |  
 | ^^ | [Animétudes](https://animetudes.com/) :s: |  
+| ^^ | [artist_unknown](https://artistunknown.info/) |
 | ^^ | [Full Frontal](https://fullfrontal.moe/) :s: |  
 | ^^ | [Furaba Anime search](https://furaba-animeseichi.blog.jp/) |  
 | ^^ | [Let's Anime](https://letsanime.blogspot.com/) |  
@@ -234,8 +235,7 @@ ___
 | ^^        | [Randime](https://randime.moe/) | :no: |  
 | ^^        | [Spin.moe](https://spin.moe/) | :mal::al::k: |  
 | **Manga** | [Ermitteln](https://ermitteln.ihateani.me/) [:gh:](https://github.com/noaione/cmx-ermitteln) | :no: |  
-| ^^        | [Mitsukeru](https://mitsukeru.timschneeberger.me/) [:gh:](https://github.com/timschneeb/Mitsukeru) | :al: |  
-| ^^        | [Tachibk Viewer](https://backup.mihon.tools/) [:gh:](https://github.com/Animeboynz/Mihon-Backup-Viewer) | :no: |  
+| ^^        | [Mitsukeru](https://mitsukeru.timschneeberger.me/) [:gh:](https://github.com/timschneeb/Mitsukeru) | :al: |   
 
 
 ## Image
