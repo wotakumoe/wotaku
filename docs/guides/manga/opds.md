@@ -2,7 +2,7 @@
 title: OPDS to your e-ink reader
 customDescription: Guide on how to selfhost your library to your Kindle
 og:
-    image: https://files.catbox.moe/m3xqdl.png
+    image: https://files.catbox.moe/l2g45x.png
 ---
 
 <GradientCard title="OPDS to your e-ink reader" description="Guide on how to selfhost your library to your Kindle/Kobo" theme="turquoise" variant="thin"/>
@@ -13,7 +13,7 @@ OPDS (Open Publication Distribution System) is a open standardized distribution 
 
 OPDS is widely supported by most self-hosted library management systems, like Calibre, Kavita or Komga, and we'll dive on how to enable it on the three of them, but it's usually enabled by default.
 
-This guide will explain how to server your library available in your computer/server to your Kindle/Kobo device. We will be using the OPDS protocol as the main way of downloading our content to our Kindle.
+This guide will explain how to server your library available in your computer/server to your Kindle/Kobo device. We will be using the OPDS protocol as the main way of downloading our content to our device.
 
 ## Enabling OPDS
 
