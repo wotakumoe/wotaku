@@ -133,3 +133,18 @@ After the run, the script will generate `comic_title.json`, `imgchest_upload_rec
 | `comic_title.json` | Comic folder | Will contain all the chapter links and metadata for cubari. |
 | `imgchest_upload_record.txt` | Comic folder | keeps track of all uploaded folders. If a folder fails to upload, it won’t be listed in this file. When you run the script again, the missing folder will be detected as new. |
 | `cubari_urls.txt` | Kaguya folder | Keeps log of all the uploads using Kaguya | 
+
+
+## Mihon
+
+- You can find the Cubari extension in [these repositories](/guides/ext/mihon#manga). Follow the guide to install the extension.
+- Then go to your phone: **Settings** -> **Apps** -> **All Apps** -> **Tachiyomi: Cubari** -> **Open by default** -> **Add link**.
+- Check the links you want to associate. For this guide, you should enable `cubari.moe` and `*.cubari.moe`, then tap **Add**.
+
+![](/ss/cubariss.png)
+
+Your phone will now open selected Cubari URLs directly in Mihon using the extension.
+
+::: warning README
+Cubari behaves differently from typical extensions. It won’t display a catalog of manga inside Mihon. Instead, it will only show titles you’ve visited via this extension or those you've added to your library manually.
+:::
