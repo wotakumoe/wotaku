@@ -221,7 +221,7 @@ Torrent streaming is really convenient compared to downloading and watching. How
 
 | Program | OS | Source | Tracker |
 |-|-|-|-|
-| [Hayase](https://hayase.watch/) [:gh:](https://github.com/ThaUnknown/miru/) | :win::app::lin: | :mag: | :al: |
+| [Hayase](https://hayase.watch/) [:gh:](https://github.com/hayase-app/ui) | :win::app::lin: | :mag: | :al: |
 | [Shiru](https://github.com/RockinChaos/Shiru) ==Shiru== | :win::app::lin: | :mag: | :mal::al: |
 | [Stremio](https://www.stremio.com/) | :win::app::lin: | :mag::ddl: | :mal::al::k::simkl: |
 | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi) | :win::app::lin: | :mag::ddl: | :mal::al::k: |
