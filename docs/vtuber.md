@@ -147,7 +147,7 @@ og:
 - [ばかくん三世](https://www.youtube.com/@bakakunsansei)
 - [Coomfus](https://www.youtube.com/@Coomfus/) <Badge type="warning" text="Inactive"/>
 - [エビフライ / Ebihurai](https://www.youtube.com/@Ebihuraii) <Badge type="tip" text="EN" link="https://www.youtube.com/@EbihuraiIEN" />
-- [FuwaFuwa](https://www.youtube.com/@fuwafuwa_35/)
+- [FuwaFuwa](https://youtube.com/@FuwaFuwa%E8%BB%9F%E8%B6%B4%E8%B6%B4)
 - [hikipanda](https://www.youtube.com/@hikipanda) :fkr:
 - [カイ / Kai](https://www.youtube.com/@%E3%82%AB%E3%82%A4-w3d) <Badge type="tip" text="EN" link="https://www.youtube.com/@kai_en8684/" />
 - [かたくりこ](https://www.youtube.com/@katakuriko)

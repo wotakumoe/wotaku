@@ -301,6 +301,7 @@ If you have recommendations for good sites in your native language or want to re
 ### Anime
 
 - **Stream**
+  - [1XAnime](https://www.1xanime.org/)
   - [AllWish](https://all-wish.me/home)
   - [Anime World India](https://watchanimeworld.in/)
   - [Anisaga](https://anisaga.org/)
@@ -308,7 +309,6 @@ If you have recommendations for good sites in your native language or want to re
   - [Toonbaba](https://toonbaba.site/)
   - [ToonStream](https://toonstream.love/)
 - **DDL**
-  - [1XAnime](https://www.1xanimes.in/)
   - [Animeraja](https://www.animeraja.in/)
   - [Anime Academy](https://animeacademy.in/)
   - [ATOZ CARTOONIST](https://www.atozcartoonist.com/)
@@ -536,7 +536,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [Argos Comic](https://argoscomic.com) :fjp::fkr::fcn::ero:  
 - [Crystal Comics](https://crystalcomics.com/) :fkr::fcn:  
 - [Kakusei Project](https://kakuseiproject.com/) :fjp::ero:  
-- [Portal Yaoi](https://portalyaoi.com/) :fjp::fkr::fcn::ero:  
 - [Valkyrie Scan](https://valkyriescan.com/) :fjp::fkr::fcn::ero:  
 - [Yuri.Live](https://yuri.live/) :fjp::fkr::fcn::ero:  
 
@@ -591,7 +590,6 @@ ___
 - [Animevost](https://animevost.org/)
 - [Anisun](https://anisun.vercel.app/en) [:gh:](https://github.com/notwindstone/anisun)
 - [Dream Cast](https://dreamerscast.com/)
-- [Freedub Studio](https://freedubstudio.club/)
 - [Gidanime](https://gidanime.tv/)
 - [Jut.su](https://jut.su/) <Badge type="info" text="Helper" link="https://github.com/Xeltone/Jut.su-Helper" />
 - [Kage Project](http://fansubs.ru/)<tooltip>Subtitle files only, you need to get the episodes from another source.</tooltip>

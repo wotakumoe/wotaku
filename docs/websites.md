@@ -447,7 +447,6 @@ To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/k
 ## Direct Download
 - [Anna’s Archive](https://annas-archive.org/) [:prx:](https://rentry.org/wotaxy#annas-archive) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
 - [ComicsCodes](https://comics.codes/)
-- [Comics For All](https://comicsforall269084760.wordpress.com/) <Badge type="info" text="Vintage"/>
 - [Desuarchive](https://desuarchive.org/) <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
 - [GetComics](https://getcomics.info/) :s: <Badge type="info" text="PD Bypass" link="https://pixeldrain-bypass.cybar.xyz/" />
 - [Library Genesis+](https://libgen.gs/) [:prx:](https://rentry.org/wotaxy#library-genesis)

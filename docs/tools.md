@@ -403,7 +403,6 @@ og:
 | ^^        | [Slav Art User Scripts](https://rentry.org/slavartuserscripts) |
 | **YouTube** | [Fix Brave Bug for YouTube Live Chat](https://greasyfork.org/en/scripts/474214-fix-brave-bug-for-youtube-live-chat) |
 | ^^        | [PKGA YouTube Theater Mode](https://greasyfork.org/en/scripts/442089-pkga-youtube-theater-mode) |
-| ^^        | [YouTube: Search results in Grid view](https://greasyfork.org/en/scripts/481422-youtube-search-results-in-grid-view) |
 | **Misc**  | [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/) |
 | ^^        | [Fandom Fixed](https://github.com/squabbled/FandomFixed) |
 | ^^        | [Pixeldrain Download Bypass](https://greasyfork.org/en/scripts/491326-pixeldrain-download-bypass) |
