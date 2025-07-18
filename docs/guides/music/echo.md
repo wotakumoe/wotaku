@@ -239,11 +239,7 @@ Your current extensions need to be updated. Follow these steps:
 Use a [VPN](/qs#vpn) to create your Deezer account. After that, you can access Deezer without a VPN by using a proxy server. To set up a proxy, go to :material-symbols-settings-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension** -> **Deezer** -> **Use Proxy**, and select a proxy server from the list.
 
 ### Null error
-1. Connect [VPN](/qs#vpn)
-2. Login using email and password
-3. Add/change [proxy](#deezer-not-available-in-my-country)
-4. Disconnect VPN
-5. Restart Echo
+Null error usually occurs due to network issues, non-functional proxy, or incorrect login credentials.
 
 ## Download / EchoDown
 
