@@ -238,7 +238,7 @@ If you have recommendations for good sites in your native language or want to re
 - [Mangadraft](https://www.mangadraft.com/)
 - [Mangakawaii](https://www.mangakawaii.io/)
 - [Planete-BD](https://planete-bd.org/)
-- [Raijin Scans](https://raijinscans.net/)
+- [Raijin Scans](https://raijinscan.co/)
 - [Sushi-Scan](https://sushiscan.net/)
 
 ### Others
@@ -309,7 +309,6 @@ If you have recommendations for good sites in your native language or want to re
   - [Toonbaba](https://toonbaba.site/)
   - [ToonStream](https://toonstream.love/)
 - **DDL**
-  - [Animeraja](https://www.animeraja.in/)
   - [Anime Academy](https://animeacademy.in/)
   - [ATOZ CARTOONIST](https://www.atozcartoonist.com/)
   - [Dead Toons India](https://deadtoons.us/)
