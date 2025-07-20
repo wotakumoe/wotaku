@@ -490,9 +490,9 @@ Trackers have been moved to their [**own page**](/torrenting/trackers)!
 - [Bilibili](https://www.bilibili.tv/en/anime)
 - [Crunchyroll](https://www.crunchyroll.com/)
 - [Disney+](https://www.disneyplus.com/)
+- [HBO Max](https://www.hbomax.com/)
 - [Hidive](https://www.hidive.com/)
 - [Hulu](https://www.hulu.com/)
-- [Max](https://www.max.com/)
 - [Netflix](https://www.netflix.com/)
 - [OceanVeil](https://oceanveil.net/) :ero:
 - [Prime Video](https://www.primevideo.com/)
