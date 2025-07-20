@@ -212,10 +212,11 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 ::: details More
 - [MangaDex](https://mangadex.org/) [:rss:](https://mdrss.tijlvdb.me/) ==MangaDex==  
 - [Manga Katana](https://mangakatana.com/)
-- [Novelmic](https://novelmic.com/) <Badge type="info" text="Manhua" />
-- [MangaHasu](https://mangahasu.me/)
-- [Mangahub](https://mangahub.io/) :acc:
 - [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy)
+- [MangaHasu](https://mangahasu.me/)
+- [MangaTARO](https://mangataro.net/home)
+- [Mangahub](https://mangahub.io/) :acc:
+- [Novelmic](https://novelmic.com/) <Badge type="info" text="Manhua" />
 - [Dynasty Reader](https://dynasty-scans.com/) 
 - [Like Manga](https://likemanga.in) [:alt:](https://likemanga.ink/)
 - [Manga Fox](https://mangafox.la/) [:prx:](https://rentry.org/wotaxy#manga-fox)
