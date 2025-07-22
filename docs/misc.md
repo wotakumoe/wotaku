@@ -135,7 +135,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^      | [Yatta-Tachi](https://yattatachi.com/tag/releases) | 
 | Manga   | [Von's Manga Calendar](https://v0n.notion.site/Manga-297a9ad3a4904173b3a4ce319f9b2879) |
 | ^^      | [Sumikko Comic](https://comic.sumikko.info/) :fjp: [:rss:](https://comic.sumikko.info/rss.xml) |
-| Light Novel | [RanobeDB](https://ranobedb.org/releases) :s: [:gh:](https://github.com/Blastose/ranobedb) |
+| Light Novel | [RanobeDB](https://ranobedb.org/releases/calendar) :s: [:gh:](https://github.com/Blastose/ranobedb) |
 | ^^      | [Light Novel Releases](https://lnrelease.github.io/) [:gh:](https://github.com/LNRelease/lnrelease.github.io) |
 | ^^      | [Sumikko Novel](https://novel.sumikko.info/) :fjp: [:rss:](https://novel.sumikko.info/rss.xml) |
 | ^^      | [Sumikko Bunko](https://bunko.sumikko.info/) :fjp: [:rss:](https://bunko.sumikko.info/rss.xml) |
