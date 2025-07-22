@@ -306,7 +306,6 @@ If you have recommendations for good sites in your native language or want to re
   - [Anime World India](https://watchanimeworld.in/)
   - [Anisaga](https://anisaga.org/)
   - [Dora Bash](https://dorabash.com/)
-  - [Toonbaba](https://toonbaba.site/)
   - [ToonStream](https://toonstream.love/)
 - **DDL**
   - [Anime Academy](https://animeacademy.in/)
@@ -401,7 +400,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 #### Manga
 - [ComicTop](https://comic-top.com/)
-- [Dokiraw](https://dokiraw.com/home)
+- [Gomuraw](https://gomuraw.com/top)
 - [KL Manga](https://klz9.com/idx) [:prx:](https://rentry.org/wotaxy#kl-manga)
 - [MangaFire](https://mangafire.to/home)
 - [MangaKuro](https://mangakuro.net/home)
@@ -596,7 +595,6 @@ ___
 - [One Pace](https://onepace-ru.tilda.ws/)
 - [OTA-KUN](https://ota-ku.am/)
 - [Shiza Project](https://shiza-project.com/)
-- [SovetRomantica](https://sovetromantica.com/) <Badge type="info" text="Sub" />
 - [Tunime](https://an0ncer.github.io/) [:gh:](https://github.com/AN0NCER/an0ncer.github.io) <Badge type="info" text="Sub" />
 
 ### Manga
@@ -766,7 +764,6 @@ ___
 - [Hako](https://docln.net/)
 - [Metruyenhot](https://metruyenhot.vn/)
 - [Sonako Light Novel Wiki](https://sonako.fandom.com/vi/wiki/Sonako_Light_Novel)
-- [SSTruyen](https://sstruyen.vn/) :ero:
 - [TruyenFull.io](https://truyenfull.vision/) :ero:
 - [TruyenFull.tv](https://truyenfull.tv/) :ero:
 - [Xalosach](https://xalosach.com/)

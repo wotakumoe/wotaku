@@ -310,7 +310,6 @@ og:
 - [AniList Watcher](https://github.com/Sans3108/AniList-Watcher) [:cr:](https://chromewebstore.google.com/detail/anilist-watcher/pkffcfjbnbhnbbgfeoanckhcnbpfobim)
 - [Animepahe Plus](https://github.com/Cyan903/Animepahe-plus) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/animepahe-plus/)
 - [Anime Skip Player](https://github.com/anime-skip/player) [:web:](https://anime-skip.com/) [:cr:](https://chrome.google.com/webstore/detail/anime-skip/mgmdkjcljneegjfajchedjpdhbadklcf) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/anime-skip)
-- [Anime Watch Parties](https://github.com/Dragicafit/Anime-Watch-Parties/) [:web:](https://animewatchparties.com/) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/)
 - [Aniskip](https://github.com/lexesjan/typescript-aniskip-extension) [:cr:](https://chrome.google.com/webstore/detail/aniskip/npfcdmjgaocepmpdnmliimijgfjbgcdd) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/aniskip/)
 - [Crunchyroll With Better Seasons](https://github.com/Dragicafit/Crunchyroll-With-Better-Seasons)
 - Improve Crunchyroll :cs: [:cr:](https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/improve-crunchyroll/)

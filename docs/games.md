@@ -82,7 +82,6 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 
 ### OCR
 - [Agent](https://github.com/0xDC00/agent)
-- [Game2Text](https://game2text.com/)
 - [MTool](https://trs.mtool.app/release.php?lang=en) :fm:
 - [YomiNinja](https://github.com/matt-m-o/YomiNinja)
 
