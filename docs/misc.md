@@ -193,11 +193,13 @@ ___
 | ^^ | [Toonami Squad](https://toonamisquad.com/) [:x:](https://x.com/ToonamiSquad) |  
 | **Blog / Interview** | [Animation Obsessive](https://animationobsessive.substack.com/) :fm::sub: [:x:](https://x.com/ani_obsessive) |  
 | ^^ | [Anime Herald](https://www.animeherald.com/) |  
+| ^^ | [Anime Mind Probe](https://www.youtube.com/@ANIMEMINDPROBE) :s: |
 | ^^ | [Animétudes](https://animetudes.com/) :s: |  
 | ^^ | [artist_unknown](https://artistunknown.info/) |
 | ^^ | [Full Frontal](https://fullfrontal.moe/) :s: |  
 | ^^ | [Furaba Anime search](https://furaba-animeseichi.blog.jp/) |  
 | ^^ | [Let's Anime](https://letsanime.blogspot.com/) |  
+| ^^ | [NHK: Anime & Manga](https://www3.nhk.or.jp/nhkworld/en/shows/category/31/) :s: |
 | ^^ | [Sakuga Blog](https://blog.sakugabooru.com/) :s: [:x:](https://x.com/SakugaBlog) [:rss:](https://blog.sakugabooru.com/feed/) |  
 
 
