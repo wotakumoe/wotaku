@@ -10,11 +10,13 @@ og:
 
 ## Aidoku
 
-| Name | Region | Auto |
-| - | - | - |
-| [Skittyblock](https://github.com/Skittyblock/aidoku-community-sources) | :global: | [Install](https://aidoku.app/add-source-list/?url=https://raw.githubusercontent.com/Skittyblock/aidoku-community-sources/gh-pages/) |
-| [Suiyuran](https://github.com/suiyuran/aidoku-zh-sources) | :fcn: | [Install](https://aidoku.app/add-source-list/?url=https://raw.githubusercontent.com/suiyuran/aidoku-zh-sources/main/public/) |
-| [Moomooo95](https://github.com/Moomooo95/aidoku-french-sources) | :flag-france: | [Install](https://aidoku.app/add-source-list/?url=https://raw.githubusercontent.com/Moomooo95/aidoku-french-sources/gh-pages/) |
+| Name | Region | Auto | Manual |
+| - | - | - | - |
+| [Community](https://aidoku-community.github.io/sources/) [:gh:](https://github.com/Aidoku-Community/sources) | :global: | [Install](https://aidoku.app/add-source-list/?url=https://raw.githubusercontent.com/Aidoku-Community/sources/gh-pages/) | [URL](https://aidoku-community.github.io/sources/index.min.json) |
+| [Skittyblock](https://github.com/Skittyblock/aidoku-community-sources) | :global: | [Install](https://aidoku.app/add-source-list/?url=https://raw.githubusercontent.com/Skittyblock/aidoku-community-sources/gh-pages/) | [URL](https://skittyblock.github.io/aidoku-community-sources/index.min.json) |
+| [Suiyuran](https://github.com/suiyuran/aidoku-zh-sources) | :fcn: | [Install](https://aidoku.app/add-source-list/?url=https://raw.githubusercontent.com/suiyuran/aidoku-zh-sources/main/public/) | [URL](https://raw.githubusercontent.com/suiyuran/aidoku-zh-sources/refs/heads/main/public/index.min.json) |
+| [Moomooo95](https://github.com/Moomooo95/aidoku-french-sources) | :flag-france: | [Install](https://aidoku.app/add-source-list/?url=https://raw.githubusercontent.com/Moomooo95/aidoku-french-sources/gh-pages/) | [URL](https://moomooo95.github.io/aidoku-french-sources/index.min.json) |
+
 
 
 ## Paperback
@@ -52,7 +54,7 @@ og:
 
 | Name | Region |
 | - | - |
-| [Compilation](https://sora.jm26.net/library/) | :global: |
+| [Module Library](https://library.cufiy.net/library/) | :global: |
 | [50/50](https://sora-modules.pages.dev/) [:gh:](https://github.com/50n50/sources) | :global: |
 | [ShadeOfChaos](https://github.com/ShadeOfChaos/Sora-Modules) | :global: |
 | [Xibrox](https://github.com/xibrox/sora-movie-module) | :global: |
