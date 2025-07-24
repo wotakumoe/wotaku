@@ -148,8 +148,9 @@ outline: 1
 | ^^ | [Anime Tosho](https://animetosho.org/) :ddl: ==atosho== |
 | ^^ | [Tokyo Insider](https://www.tokyoinsider.com/) :ddl: |
 | ^^ |  |
-| **Slow host** | [JPFiles](https://jpfiles.net/) |
+| **BDMV (slow host)** | [JPFiles](https://jpfiles.net/) |
 | ^^ | [AnimeRSS](https://animerss.com/) |
+| ^^ | [Asia Media Blog](https://asiamediablog.com/) :ero: [:prx:](https://rentry.org/wotaxy#asia-media-blog) |
 | ^^ | [urajp](https://urajp.se/) |
 | **Re-encodes** | [Kayoanime](https://kayoanime.com/) :sgd::batch: |
 | ^^ | [AnimeOut](https://www.animeout.xyz/) :ddl::acc: [:alt:](https://animewat.ch/) |
