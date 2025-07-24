@@ -75,6 +75,7 @@ og:
 - [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) :ddl:
 - [Batoto](https://battwo.com/v3x) [:prx:](https://rentry.co/batoto)
 - [Doujindesu](https://doujindesu.tv/) :fjp::fkr:
+- [Hentai20](https://hentai20.io/)
 - [Hiperdex](https://hiperdex.com/)
 - [Manga District](https://mangadistrict.com/)
 - [Manhwa18](http://manhwa18.com/)
