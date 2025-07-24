@@ -467,7 +467,8 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 ### Script
 - [Ame](https://gitlab.com/SuperSaltyGamer/ame) :simple-icons-applemusic::simple-icons-musicbrainz: <Badge text="VGMdb" />
-- [dzunlock](https://uhwotgit.fly.dev/uhwot/dzunlock)
+- [bleh](https://bleh.katelyn.moe/)  <Badge text="Lastfm" />
+- [dzunlock](https://uhwotgit.fly.dev/uhwot/dzunlock)  <Badge text="Deezer" />
 - [Gallery Mode for Lists - RateYourMusic](https://greasyfork.org/en/scripts/434865-gallery-mode-for-lists-rateyourmusic)
 - [MusicBrainz Userscripts](https://musicbrainz.org/doc/Guides/Userscripts)
 - [Slav Art User Scripts](https://rentry.org/slavartuserscripts) <Badge text="Qobuz" />
