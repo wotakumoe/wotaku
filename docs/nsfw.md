@@ -111,7 +111,7 @@ og:
 
 ## Illustrations
 
-### Self Hosted
+### Self-Hosted
 - [Danbooru](https://danbooru.donmai.us/) :s:
 - [Gelbooru](https://gelbooru.com/) :s:
 - [Hentai Game CG](https://hentaigamecg.com/)
