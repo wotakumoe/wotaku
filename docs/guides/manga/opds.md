@@ -1,11 +1,11 @@
 ---
 title: OPDS to your e-ink reader
-customDescription: Guide on how to selfhost your library to your Kindle
+customDescription: Guide on how to self-host your library to your Kindle
 og:
     image: https://files.catbox.moe/l2g45x.png
 ---
 
-<GradientCard title="OPDS to your e-ink reader" description="Guide on how to selfhost your library to your Kindle/Kobo" theme="turquoise" variant="thin"/>
+<GradientCard title="OPDS to your e-ink reader" description="Guide on how to self-host your library to your Kindle/Kobo" theme="turquoise" variant="thin"/>
 
 <br>
 
@@ -51,7 +51,7 @@ You can follow [**the guide**](https://komga.org/docs/guides/opds/) on the offic
 
 ## Optimizing files using KCC
 
-If you prefer using Kindle/Kobo reader for reading manga rather than the KOReader one, you should optimize the files before transfering them to your device or adding it to your library. We'll use [**KCC**](https://github.com/ciromattia/kcc) for that.
+If you prefer using Kindle/Kobo reader for reading manga rather than the KOReader one, you should optimize the files before transferring them to your device or adding it to your library. We'll use [**KCC**](https://github.com/ciromattia/kcc) for that.
 
 1. Install KindleGen [as KCC stands depending on your OS](https://github.com/ciromattia/kcc?tab=readme-ov-file#kindlegen)
 2. [Install KCC](https://github.com/ciromattia/kcc?tab=readme-ov-file#downloads)

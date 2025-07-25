@@ -41,7 +41,7 @@ og:
 | [dns0.eu](https://www.dns0.eu/)   | EU   | NA   |
 | [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)   | Sweden   | NA |
 
-### Self Hosted
+### Self-Hosted
 - [Pi-hole](https://pi-hole.net/)
 - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)
 
