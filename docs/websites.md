@@ -76,6 +76,7 @@ outline: 1
 
 ::: details Donghua
 - [Animekhor](https://animekhor.org/) [:tg:](https://t.me/AnimeKhorOfficial)
+- [Anoboye](https://anoboye.com/) [:d:](https://discord.gg/RsTrWFtShB)
 - [AnimeXin](https://animexin.dev/) [:d:](https://discord.com/invite/9sGpnnzM)
 - [Chiki Animation](https://chikianimation.com/) <Badge type="info" text="2D" /> [:tg:](https://t.me/Donghuanewofficial)
 - [Chiki Animation](https://chikianimation.net/) <Badge type="info" text="3D" /> [:tg:](https://t.me/Dimensional_Animation)
