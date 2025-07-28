@@ -263,6 +263,9 @@ og:
 ### Software
 - [Anime/Series Scraper](https://github.com/wolfswolke/aniworld_scraper)
 
+### Others
+- [KelifAsya](https://kesifasya.com/)
+
 ### Communities
 - [Anime Community Germany](https://anime-community-germany.de/)
 - [Animexx](https://www.animexx.de/)
