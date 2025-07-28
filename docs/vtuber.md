@@ -205,7 +205,7 @@ og:
 |--------------------------------------------------------|--------|--------------------|----------------------|-----|
 | [Holo on Suika](https://tkgames.jp/holo_watermelon.html)       | Free   | Hololive          | TKGames    | TKGames |
 | [ホロポップ (Holo Pop)](https://store.steampowered.com/app/3155810/) :fjp: | $2.49 | Hololive JP | HappyHoppyHappy | holo Indie |
-| [Holoidle](https://store.steampowered.com/app/3543350/) | - | Hololive | Kindred Interactive | holo Indie |
+| [Holoidle](https://store.steampowered.com/app/3543350/) | $2.99 | Hololive | Kindred Interactive | holo Indie |
 | [hololive Treasure Mountain](https://store.steampowered.com/app/2972990/) | $4.99  | Houshou Marine   | BeXide     | holo Indie |
 | [Pebble Jame](https://gioba-games.itch.io/pebble-jame)         | Free   | Koseki Bijou      | Goiba      | Goiba |
 
@@ -239,15 +239,15 @@ og:
 | [Miko in Maguma](https://store.steampowered.com/app/2877240/) | Free   | Sakura Miko      | frog blend | holo Indie |
 | [SIMPWALK](https://store.steampowered.com/app/3362870/) | Free | HOLORO | Altersky Skyraze | holo Indie |
 | [smol Ame](https://moocow-games.itch.io/smol-ame)              | Free   | Amelia Watson     | MooCow     | MooCow |
-| [Star Soraight Fantasy](https://store.steampowered.com/app/3668950/) | - | Tokino Sora | Altoseal and Hoshikuzunoyoru | holo Indie |
+| [Star Soraight Fantasy](https://store.steampowered.com/app/3668950/) | $4.99 | Tokino Sora | Altoseal and Hoshikuzunoyoru | holo Indie |
 
 ### Puzzle / Strategy
   
 | Game                                                           | Price  | MC                 | Dev         | Publisher |
 |----------------------------------------------------------------|--------|--------------------|------------|-----|
-| [Holo's Hanafuda](https://store.steampowered.com/app/3327640/) | - | Hololive JP | Gemdrops, Inc. | Gemdrops, Inc. |
-| [holoReversi](https://store.steampowered.com/app/3446980/) | - | Hololive JP | RomanKitayama | holo Indie |
-| [Juufuutei Raden's Guide for Pixel Museum](https://store.steampowered.com/app/3204020/) | - | Juufuutei Raden | Jupiter | Jupiter |
+| [Holo's Hanafuda](https://store.steampowered.com/app/3327640/) | Free | Hololive JP | Gemdrops, Inc. | Gemdrops, Inc. |
+| [holoReversi](https://store.steampowered.com/app/3446980/) | $5.49 | Hololive JP | RomanKitayama | holo Indie |
+| [Juufuutei Raden's Guide for Pixel Museum](https://store.steampowered.com/app/3204020/) | $7.99 | Juufuutei Raden | Jupiter | Jupiter |
 | [Mumei's Memory Juggling](https://david-wu-softdev.itch.io/mumeis-memory-juggling) | Free   | Nanashi Mumei     | David Wu   | David Wu |
 | [Takos Organised Neatly](https://ae-lux-production.itch.io/takos-organised-neatly) | Free   | Ninomae Ina'Nis  | Ae Lux     | Ae Lux |
 
@@ -270,7 +270,7 @@ og:
 | [Holo Dungeon](https://zkfie.itch.io/holo-dungeon) | Free | Amelia Watson | fie | fie |
 | [デュエホロ (DUEHOLO)](https://store.steampowered.com/app/2996280/) | $2.49  | Hololive JP       | テイク  | holo Indie |
 | [狐の旅路 (Kitsune no Tabiji)](https://store.steampowered.com/app/1178050/) :fjp: | Free | Shirakami Fubuki | 狐の旅路制作组 | DZ |
-| [ぷちホロの村 (Puchi Holo no Mura)](https://x.com/holovillage) | - | Hololive | Holo village team | holo Indie |
+| [holoVillage: Our Cozy Days](https://store.steampowered.com/app/3856280/) | - | Hololive | Holo village team | holo Indie |
 | [Submerged Mystery: Takodachi](https://velveteenio.itch.io/submerged-mystery-takodachi) | Free   | Ninomae Ina'Nis  | Velveteen  | Velveteen |
 | [Super Holo Wars](https://tshadowknight.itch.io/super-holo-wars) | Free | Hololive | TShadowKnight | TShadowKnight |
 
@@ -298,6 +298,7 @@ og:
 |--------------------------------------------------------------|--------|-------------------|------------|-----|
 | [Age of Advent](https://store.steampowered.com/app/2679690/) | Free   | Hololive Advent   | MooCow     | holo Indie |
 | [Delivering Hope](https://david-wu-softdev.itch.io/delivering-hope-hololive-fangame) | Free   | IRyS              | David Wu   | David Wu |
+| [Koro-san's Home "WAN!" Derby](https://store.steampowered.com/app/3732150/) | $2.49 | Inugami Korone | To You Games, Wit One | holo Indie |
 
 ::: tip Other lists
 - [David Wu](https://softdevwu.dev/hologames/)
