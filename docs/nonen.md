@@ -12,11 +12,6 @@ og:
 
 <br>
 
-::: tip Contribute :index-pointing-at-the-viewer:
-If you have recommendations for good sites in your native language or want to report an issue with an already added site, please use the feedback option in the left sidebar. You can also join our [Discord server](https://discord.gg/wZMuSGpZ8s) to submit your suggestions. 
-:::
-
-
 ## Multi Language
 
 ### Anime
