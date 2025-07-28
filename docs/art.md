@@ -105,7 +105,7 @@ og:
 - [Anihonetwallpaper](https://anihonetwallpaper.com/) <Badge type="green" text="SFW" />
 - [Anime Pictures](https://anime-pictures.net/)
 - [Character Design References](https://characterdesignreferences.com/) :s: [:x:](https://x.com/CDReferences)
-- [Kemono](https://kemono.su/)
+- [Kemono](https://kemono.cr/)
 - [Nekohouse](https://nekohouse.su/)
 - [Settai Dreams](https://setteidreams.net/) :s:
 - [Studio Ghibli](https://www.ghibli.jp/info/013772/) <Badge type="green" text="SFW" />

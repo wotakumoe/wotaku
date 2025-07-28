@@ -236,7 +236,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [HMV Mania](https://hmvmania.com/) [:f:](https://archived.moe/h/thread/7621997/)
 - [Japanese ASMR](https://japaneseasmr.com/)
 - [Kasumi](http://xdcc.kasumi.moe/) [:help:](http://kasumi.moe/guide/)
-- [Kemono](https://kemono.su/)
+- [Kemono](https://kemono.cr/)
 - [Nekohouse](https://nekohouse.su/)
 
 ## AV
