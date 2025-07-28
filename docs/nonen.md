@@ -515,7 +515,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [AnimeFire](https://animefire.plus/)
 - [AnimesROLL](https://www.anroll.net/)
 - [Better Anime](https://betteranime.net/)
-- [Geekdot](https://geekdot.live/)
 - [Hinata Soul](https://www.hinatasoul.com/)
 - [HentaisTube](https://www.hentaistube.com/) :ero:
 - [:tg: Toonami na Era do Telegram](https://t.me/toonamibr)
