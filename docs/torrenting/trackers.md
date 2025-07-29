@@ -45,7 +45,6 @@ og:
 | ^^          | [Empornium](https://www.empornium.is/)                                   |
 
 ::: details Related resources
-- [InstallGentoo Wiki](https://wiki.installgentoo.com/wiki/Private_trackers) :s:
 - [Invite route graph](https://inviteroute.github.io/graph/)
 - [Redacted Interview Prep](https://interviewfor.red/en/index.html)
   - [Wotaku Audio Glossary](/glossary/audio)
