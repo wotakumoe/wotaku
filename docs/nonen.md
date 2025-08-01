@@ -529,7 +529,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 ::: details Scanlators
 #### Website
 - [Argos Comic](https://argoscomic.com) :fjp::fkr::fcn::ero:  
-- [Crystal Comics](https://crystalcomics.com/) :fkr::fcn:  
 - [Kakusei Project](https://kakuseiproject.com/) :fjp::ero:  
 - [Valkyrie Scan](https://valkyriescan.com/) :fjp::fkr::fcn::ero:  
 - [Yuri.Live](https://yuri.live/) :fjp::fkr::fcn::ero:  
