@@ -54,9 +54,8 @@ og:
 - [NoPayStation](https://nopaystation.com/) :simple-icons-playstation:
 - [notUltraNX](https://not.ultranx.ru/en) :simple-icons-nintendoswitch::acc:
 - [NXBrew](https://nxbrew.net/) :simple-icons-nintendoswitch:
-- [RomsHQ](https://romshq.com/) :simple-icons-nintendoswitch:
 - [ROMSIM](https://romsim.com/) :simple-icons-nintendoswitch:
-- [Romslab](https://romslab.com/) :simple-icons-nintendoswitch:
+- [Romslab](https://romslab.com/) :simple-icons-nintendoswitch::simple-icons-playstation:
 - [Switch Games Mall](https://www.switchgamesmall.icu/) :simple-icons-nintendoswitch:
 - [TAODUNG](https://taodung.com/) :simple-icons-nintendoswitch:
 - [Ziperto](https://www.ziperto.com/) :simple-icons-nintendoswitch:
