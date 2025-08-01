@@ -18,7 +18,7 @@ og:
 - [Anime Nexus](https://anime.nexus/)
 - [AnimeStream](https://anime.uniquestream.net/)
 - [HiAnime](https://hianimez.to/home)
-- [KickAssAnime](https://kaa.mx/)
+- [KickAssAnime](https://kaa.to/)
 - [Sudatchi](https://sudatchi.com/)
 
 ### Manga
