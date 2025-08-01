@@ -335,7 +335,6 @@ To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/k
 - [Novel Updates](https://www.novelupdates.com/)
 - [Baka-tsuki](https://www.baka-tsuki.org/project/index.php?title=Main_Page)
 - [Novel Bin](https://novelbin.com/) [:prx:](https://rentry.org/wotaxy#novel-bin)
-- [Novel Buddy](https://novelbuddy.com/home) [:alt:](https://novelbuddy.io/home)
 - [VyNovel](https://vynovel.com/)
 - [NovelFire](https://novelfire.net/home)
 
