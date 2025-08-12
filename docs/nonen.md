@@ -705,7 +705,7 @@ ___
 
 ### Others
 - [AnimeListem](https://animelistem.online/)
-- [KelifAsya](https://kesifasya.com/)
+- [KesifAsya](https://kesifasya.com/)
 
 
 ## Ukranian
