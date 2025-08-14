@@ -101,7 +101,6 @@ og:
 
 - **Stream**
   - [AGE](https://www.agedm.org/)
-  - [AniCh](https://anich.emmmm.eu.org/) [:gh:](https://github.com/Sle2p/AniCh)
   - [Anime Island](https://www.dmd77.com/) [:prx:](https://rentry.org/dmd8)
   - [Bimibimi](http://www.bimiacg10.net/)
   - [CC](https://ccdm.cc/)
