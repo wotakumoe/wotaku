@@ -265,9 +265,9 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 | Software | Platform | Reading Mode |
 |----------|---------|-|
+| [OpenComic](https://github.com/ollm/OpenComic) :s: ==OpenComic== | :win::app::lin: | :sp::dp::ls: |
 | [YACReader](https://www.yacreader.com/) [:gh:](https://github.com/YACReader/yacreader) ==YACReader== | :win::app::lin: | :sp::dp: |
 | [CDisplayEx](https://www.cdisplayex.com/) :cs: ==CDisplayEx== | :win: | :sp::dp: |
-| [OpenComic](https://github.com/ollm/OpenComic) ==OpenComic== | :win::app::lin: | :sp::dp::ls: |
 | [Yomikiru](https://github.com/mienaiyami/yomikiru) ==Yomikiru== | :win::lin: | :sp::dp::ls: |
 | [NeeView](https://neelabo.github.io/NeeView/en-us/) [:gh:](https://github.com/neelabo/NeeView) | :win: | :sp::dp: |
 | [MComix](https://sourceforge.net/projects/mcomix/files/) ==MComix== | :win::lin: | :sp::dp: |
