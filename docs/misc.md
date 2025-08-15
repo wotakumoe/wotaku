@@ -195,7 +195,6 @@ ___
 | ^^ | [Anime Herald](https://www.animeherald.com/) |  
 | ^^ | [Anime Mind Probe](https://www.youtube.com/@ANIMEMINDPROBE) :s: |
 | ^^ | [Animétudes](https://animetudes.com/) :s: |  
-| ^^ | [artist_unknown](https://artistunknown.info/) |
 | ^^ | [Full Frontal](https://fullfrontal.moe/) :s: |  
 | ^^ | [Furaba Anime search](https://furaba-animeseichi.blog.jp/) |  
 | ^^ | [Let's Anime](https://letsanime.blogspot.com/) |  
