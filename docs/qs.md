@@ -161,6 +161,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 
 | Resolver | Based in | Adblock | Query Limit (Account) |
 |-|-|-|-|
+| [NextDNS](https://nextdns.io/) :s:  | US  | yes    | 300kpm   |
 | [Adguard](https://adguard-dns.io/en/welcome.html) | Cyprus | :yes: | 300kpm |
 | [Control D](https://controld.com/) | Canada | :yes: | :no: |
 | [dnswarden](https://dnswarden.com/index.html) | Switzerland | :yes: | NA  |
