@@ -107,7 +107,7 @@ og:
   - [ddys](https://ddys.art/category/anime/)
   - [MoMoVod](https://momovod.app/show/30.html)
   - [XG Cartoon](https://www.xgcartoon.com/)
-  - [Yinghuacd](http://www.yinghuacd.com/)
+  - [Yinghuacd](https://www.yinhuadm.vip/) [:prx:](http://yinhuadm.one/)
 - **Torrent**
   - [ACG](https://acg.rip/)
   - [ACGNX](https://share.acgnx.se/)
