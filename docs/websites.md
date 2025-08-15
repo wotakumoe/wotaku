@@ -410,6 +410,7 @@ To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/k
 - [King Kong Wiki](https://kingkong.fandom.com/wiki/King_Kong_Wiki)
 - [Metal Heroes Wiki](https://metalheroes.fandom.com/wiki/Metal_Heroes_Wiki)
 - [RangerWiki](https://powerrangers.fandom.com/wiki/RangerWiki)
+- [Tokusubs Wiki](https://tokusubs.fandom.com/wiki/Tokusubs_Wiki)
 - [Ultraman Wiki](https://ultra.fandom.com/wiki/Ultraman_Wiki)
 - [Wikizilla](https://wikizilla.org/wiki/Main_Page)
 
