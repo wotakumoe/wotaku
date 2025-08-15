@@ -312,9 +312,7 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 | [Scylla Comics](https://scyllacomics.xyz/) ==Scylla== | :fjp: | [URL](https://mangadex.org/group/4209a4a9-b838-4817-be40-0c8ef2f7be4a/scylla-scans) | [URL](https://www.mangaupdates.com/groups.html?id=14042) |
 | [StoneScape](https://stonescape.xyz/) :coin: | :fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/zt7x4q1/stonescape) |
 | [TCB Scans](https://tcbonepiecechapters.com/) | :fjp: | [URL](https://mangadex.org/group/db85f2a1-d69b-4181-a7a0-aa37db4bcbcf/tcb-scans) | [URL](https://www.mangaupdates.com/group/wn8v9bv/tcb-scans) |
-| [Tritinia Scans](https://backup.tritinia.org/) | :fjp::fcn::fkr: | - | [URL](https://www.mangaupdates.com/group/zfxsenj/tritinia-scans) |
 | [UTOON](https://utoon.net/) :coin: ==utoon== | :fjp::fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/mtcug74/utoon) |
-| [Zero Scans](https://zscans.com/) | :fkr::fcn: | [URL](https://mangadex.org/group/dd0a3018-21f1-4488-948c-08499b179fcf/zero-scans) | [URL](https://www.mangaupdates.com/group/vlkvmk7/zero-scans-discord) |
 
 ::: tip Kaguya
 To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/kaguya) for [Cubari](https://cubari.moe/). It can batch upload manga chapters on Imgchest and generate full JSON. Full guide [here](/guides/manga/cubari).
