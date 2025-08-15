@@ -307,7 +307,7 @@ og:
   - [Dead Toons India](https://deadtoons.us/)
   - [PikaHD](https://pikahd.com/)
   - [Puretoons](https://puretoons.in/)
-  - [SDToons](https://sdtoons.in/)
+  - [SDToons](https://sdtoons.in/) :ero: [:alt:](https://sdtoons.com/)
   - [Tamil Toon](https://tamiltoon.net/)
   - [Toonhub4u](https://toonhub4u.net/)
   - [ToonsHub](https://www.toonshub.xyz/)
