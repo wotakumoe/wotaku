@@ -25,7 +25,6 @@ og:
 | ^^         | [Hololist](https://hololist.net/) |
 | ^^         | [ironmouse Model Index](https://www.ironmousemodelindex.com/) |
 | Stats      | [VChama](https://vchama.xyz) :s: |
-| ^^         | [vtstats](https://vt.poi.cat/) [:gh:](https://github.com/vtstats/web) ==vtstats== |
 | ^^         | [VSTATS](https://www.vstats.jp/) :fjp: |
 | ^^         | [VRabi](https://vrabi.net/) :fjp: |
 | General Stats | [TwitchTracker](https://twitchtracker.com/) |

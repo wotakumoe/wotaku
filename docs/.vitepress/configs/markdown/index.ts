@@ -241,9 +241,6 @@ const tooltips: {
     content:
       "The site doesn't get updated often, visit their twitter for more recent graphs."
   },
-  vtstats: {
-    content: "Doesn't get frequent updates, so there can be missing streamers."
-  },
   Flud: { content: 'Has a VPN-only option.' },
   imgdanke: {
     content: "Optional for GUI, but doesn't support Pingo v1+ at the moment."
