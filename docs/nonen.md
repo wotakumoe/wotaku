@@ -644,13 +644,13 @@ ___
 ### Anime
 
 - **Stream**
+  - [AnimeAV1](https://animeav1.com/)
   - [AnimeOnlineNinja](https://ww3.animeonline.ninja/)
   - [Latanime](https://latanime.org/) <Badge type="info" text="Dub" />
   - [Estrenos Anime](https://estrenosanime.net/)
-  - [AnimeAV1](https://animeav1.com/)
-  - [AnimeFLV](https://www3.animeflv.net/)
   - [JKAnime](https://jkanime.net/)
   - [TioAnime](https://tioanime.com/)
+  - [AnimeFLV](https://www3.animeflv.net/)
   - [AnimeJL](https://www.anime-jl.net/)
   - [Mundo Donghua](https://www.mundodonghua.com/)
   - [Tio Donghua](https://tiodonghua.com/)
