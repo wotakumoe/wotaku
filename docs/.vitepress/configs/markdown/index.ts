@@ -367,7 +367,8 @@ const tooltips: {
   animez: {content: 'Rips 1080p from Kai.'},
   kureha: {content: 'The site doesn’t offer a search option. To find a specific title, use Google: `LN/WN Title site:vn-meido.com`'},
   aninow: {content: 'Scrapes HiAnime(ZoroX) and AnimePahe(BunnyCDN). Aninow is their own uploads.'},
-  zunime: {content: 'Scrapes HiAnime(yuki), Aniwave.se(miko) Animepahe(pahe) & Anizone (shiro)'}
+  zunime: {content: 'Scrapes HiAnime(yuki), Aniwave.se(miko) Animepahe(pahe) & Anizone (shiro)'},
+  mangaclan: {content: `Scrapes Zinmanga and MangaNato`}
 }
 
 export function configureMarkdown(md: MarkdownRenderer) {
