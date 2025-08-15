@@ -358,7 +358,8 @@ To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/k
 
 | Category          | Website |
 |------------------|-----------------------------------------------------------------|
-| **Nyaa**         | [Ganba](https://nyaa.si/user/Ganba?f=0&c=3_1&q=) <Badge type="warning" text="Retired"/> |
+| **Nyaa**         | [AlpinDale](https://nyaa.si/user/AlpinDale) |
+| ^^               | [Ganba](https://nyaa.si/user/Ganba?f=0&c=3_1&q=) <Badge type="warning" text="Retired"/> |
 | ^^              | [HowUnfortunate](https://nyaa.si/user/HowUnfortunate?f=0&c=3_1&q=) |
 | ^^              | [LuCaZ](https://nyaa.si/?f=0&c=3_1&q=%22%5BLuCaZ%5D%22) |
 | ^^              | [Stick](https://nyaa.si/?f=0&c=3_1&q=%22%5BStick%5D%22) |
