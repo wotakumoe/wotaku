@@ -24,7 +24,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 
 ## Discord servers
 
-### A-D
+### A-F
 - [ACE SCANS](https://discord.gg/e5kFjW8u3Q)
 - [AGR Community](https://discord.gg/YjuSSE273C)
 - [r/Anime](https://discord.gg/r-anime)
@@ -65,6 +65,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [Sho Habby Scans](https://discord.gg/GdV76sQs7d)
 - [Sitting on Clouds](https://discord.gg/x23SFbE)
 - [Sonic Zone](https://discord.gg/bj5vmb96YT)
+- [SquidBoard](https://discord.gg/yuvnx7FS89)
 - [SubsPlease](https://discord.gg/33Hxdas)
 - [Tachiyomi](https://discord.gg/tachiyomi)
 - [TheMoeWay](https://discord.gg/nhqjydaR8j)
