@@ -102,7 +102,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 |---------------|-------------|
 | **AniList**   | [AL-Chan](https://github.com/zend10/AL-chan) |
 | ^^           | [AniHyou](https://github.com/axiel7/AniHyou-android) |
-| ^^           | [Kurumi](https://github.com/subrotokumar/kurumi) |
+| ^^           | [Kurumi](https://play.google.com/store/apps/details?id=com.subrotokumar.kurumi) :cs: |
 | ^^           | [Otraku](https://github.com/lotusprey/otraku) |
 | **MyAnimeList** | [DailyAL](https://github.com/JICA98/DailyAL) |
 | ^^           | [MoeList](https://moelist.net/) [:gh:](https://github.com/axiel7/MoeList) |
