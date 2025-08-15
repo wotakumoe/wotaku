@@ -96,7 +96,7 @@ og:
 ## Easy Reading
 
 - [NHK News Web Easy](https://www3.nhk.or.jp/news/easy/)
-- [Easy Japanese](https://easyjapanese.net/)
+- [Easy Japanese](https://japanese.todaiinews.com/)
 - [e-douwa](https://www.e-douwa.com/)
 - [Satori Reader](https://www.satorireader.com/)
 - [Tadoku](https://tadoku.org/japanese/)

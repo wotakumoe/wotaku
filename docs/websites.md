@@ -348,7 +348,7 @@ To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/k
 - [Novel Cool](https://www.novelcool.com/)
 - [Novel Hall](https://www.novelhall.com/)
 - [MVLEMPYR](https://www.mvlempyr.com/)
-- [Novels Online](https://novelsonline.net/)
+- [Novels Online](https://novelsonline.org/)
 - [Ranobes](https://ranobes.top/)
 
 :::
