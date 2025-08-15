@@ -308,6 +308,7 @@ og:
   - [PikaHD](https://pikahd.com/)
   - [Puretoons](https://puretoons.in/)
   - [SDToons](https://sdtoons.in/)
+  - [Tamil Toon](https://tamiltoon.net/)
   - [Toonhub4u](https://toonhub4u.net/)
   - [ToonsHub](https://www.toonshub.xyz/)
   - [Toonworld4all](https://toonworld4all.me/)
@@ -513,6 +514,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [Better Anime](https://betteranime.net/)
 - [CXTv](https://www.cxtv.com.br/) `TV`
 - [Geekdot](https://geekdot.live/) `TV`
+- [Goyabu](https://goyabu.to/home-2)
 - [Hinata Soul](https://www.hinatasoul.com/)
 - [HentaisTube](https://www.hentaistube.com/) :ero:
 - [Kanade](https://kanade.com.br/) `TV`
