@@ -230,6 +230,7 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 - [Cubari Proxy](https://proxy.cubari.moe/#/) ==cubari==
 - [Akari](https://akari-rosy.vercel.app/) [:gh:](https://github.com/sn0w12/akari) ==akari==
 - [Manga Clan](https://mangaclan.online/) ==mangaclan==
+- [Vidbox](https://vidbox.to/manga) ==vidbox==
 :::
 
 ## Download

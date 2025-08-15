@@ -368,7 +368,8 @@ const tooltips: {
   kureha: {content: 'The site doesn’t offer a search option. To find a specific title, use Google: `LN/WN Title site:vn-meido.com`'},
   aninow: {content: 'Scrapes HiAnime(ZoroX) and AnimePahe(BunnyCDN). Aninow is their own uploads.'},
   zunime: {content: 'Scrapes HiAnime(yuki), Aniwave.se(miko) Animepahe(pahe) & Anizone (shiro)'},
-  mangaclan: {content: `Scrapes Zinmanga and MangaNato`}
+  mangaclan: {content: `Scrapes Zinmanga and MangaNato`},
+  vidbox: {content: `Scrapes MangaFire`}
 }
 
 export function configureMarkdown(md: MarkdownRenderer) {
