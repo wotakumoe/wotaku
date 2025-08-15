@@ -441,6 +441,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | Audiobook  | [audiobookshelf](https://www.audiobookshelf.org/) [:gh:](https://github.com/advplyr/audiobookshelf) |
 | ^^         | [Booksonic](https://booksonic.org/) [:gh:](https://github.com/popeen/Booksonic-App) |
 | ^^         | [Storyteller](https://smoores.gitlab.io/storyteller/) [:gl:](https://gitlab.com/smoores/storyteller) |
+| Others     | [Copyparty](https://github.com/9001/copyparty/) |
 
 ### Client / Tools
 
@@ -462,6 +463,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | [Plex](https://www.plex.tv/) | [MPV Shim for Plex](https://github.com/iwalton3/plex-mpv-shim) |
 | ^^         | [Plex to AniList Sync](https://github.com/RickDB/PlexAniSync) |
 | ^^         | [PlexAniBridge](https://plexanibridge.elias.eu.org/) [:gh:](https://github.com/eliasbenb/PlexAniBridge) |
+| Others     | [Tailscale](https://tailscale.com/) |
 
 ::: tip Mihon, Aniyomi & forks
 [**Android apps**](#manga-readers) that support the mihon extension system, can be used as clients for Jellyfin, Komga, Kavita & LANraragi. You can get extensions from [**here**](/guides/tech/repo).
