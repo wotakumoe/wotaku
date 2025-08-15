@@ -406,7 +406,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [MangarawJP](https://mangarawjp.me/)
 - [MangaReader](https://mangareader.to/home)
 - [Pixiv Comics](https://comic.pixiv.net/)
-- [NicoManga](https://nicomanga.com/) [:prx:](https://rentry.org/wotaxy#nicomanga)
 - [RAW 1001](https://raw1001.net/home) [:prx:](https://rentry.org/wotaxy#raw1001)
 - [Rawkuma](https://rawkuma.net/)
 - [RAW LAZY](https://rawlazy.io/)
