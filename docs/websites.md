@@ -214,6 +214,7 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 - [MangaDex](https://mangadex.org/) [:rss:](https://mdrss.tijlvdb.me/) ==MangaDex==  
 - [Manga Katana](https://mangakatana.com/)
 - [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy)
+- [MangaReader](https://mangareader.to/home)
 - [MangaHasu](https://mangahasu.me/)
 - [MangaTARO](https://mangataro.net/home)
 - [Mangahub](https://mangahub.io/) :acc:
