@@ -51,8 +51,8 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 ## Manga Readers
 
 ### Online
-- [Mihon](https://mihon.app/) [:gh:](https://github.com/mihonapp/mihon) [:e:](/guides/ext/mihon) [:n:](https://github.com/mihonapp/mihon-preview)
-- [Yokai](https://mihon.app/forks/Yokai/) :s: [:gh:](https://github.com/null2264/yokai) [:e:](/guides/ext/mihon)
+- [Mihon](https://mihon.app/) :s: [:gh:](https://github.com/mihonapp/mihon) [:e:](/guides/ext/mihon) [:n:](https://github.com/mihonapp/mihon-preview)
+- [Yokai](https://mihon.app/forks/Yokai/) [:gh:](https://github.com/null2264/yokai) [:e:](/guides/ext/mihon)
 - [Komikku](https://komikku-app.github.io/) [:gh:](https://github.com/komikku-app/komikku) [:e:](/guides/ext/mihon) [:n:](https://github.com/komikku-app/komikku-preview)
 - [Kotatsu](https://kotatsu.app/) [:gh:](https://github.com/KotatsuApp/Kotatsu) [:n:](https://github.com/KotatsuApp/Kotatsu-nightly)
 

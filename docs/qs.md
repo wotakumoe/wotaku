@@ -57,7 +57,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 
 | Category   | Resource |
 |------------|--------------------------------------------------|
-| **Android** | [Yokai](https://mihon.app/forks/Yokai/) :s: [:gh:](https://github.com/null2264/yokai) [:e:](/guides/ext/mihon) |
+| **Android** | [Mihon](https://mihon.app/) :s: [:gh:](https://github.com/mihonapp/mihon) [:e:](/guides/ext/mihon) |
 | ^^         | [Komikku](https://komikku-app.github.io/) [:gh:](https://github.com/komikku-app/komikku) [:e:](/guides/ext/mihon) |
 | ^^         | [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :s::fm::cs: |
 | **iOS**    | [Paperback](https://paperback.moe/) [:gh:](https://github.com/Paperback-iOS/app) [:e:](/guides/ext/ios#paperback) |
