@@ -651,7 +651,6 @@ ___
   - [AnimeFLV](https://www3.animeflv.net/)
   - [JKAnime](https://jkanime.net/)
   - [TioAnime](https://tioanime.com/)
-  - [OtakusTV](https://www1.otakustv.com/)
   - [AnimeJL](https://www.anime-jl.net/)
   - [Mundo Donghua](https://www.mundodonghua.com/)
   - [Tio Donghua](https://tiodonghua.com/)
