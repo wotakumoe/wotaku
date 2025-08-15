@@ -131,6 +131,7 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 - [osu!next Signature Generator](https://lemmmy.pw/osusig/)
 - [osu-pps](https://osu-pps.com)
 - [o!rdr](https://ordr.issou.best/)
+- [Web osu!mania](https://webosumania.com/) [:gh:](https://github.com/HecticKiwi/Web-Osu-Mania)
 
 ### Tools
 - [ani!Search](https://klof44.ca/ani-search/)
