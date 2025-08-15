@@ -511,8 +511,11 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [AnimeFire](https://animefire.plus/)
 - [AnimesROLL](https://www.anroll.net/)
 - [Better Anime](https://betteranime.net/)
+- [CXTv](https://www.cxtv.com.br/) `TV`
+- [Geekdot](https://geekdot.live/) `TV`
 - [Hinata Soul](https://www.hinatasoul.com/)
 - [HentaisTube](https://www.hentaistube.com/) :ero:
+- [Kanade](https://kanade.com.br/) `TV`
 - [:tg: Toonami na Era do Telegram](https://t.me/toonamibr)
 
 #### Software
