@@ -102,10 +102,6 @@ const tooltips: {
     content: `  
   Scrapes HiAnime (Soft), AnimePahe (Pahe), AnimeHeaven (Heaven - 720p).`
   },
-  AniPlay: {
-    content: `  
-  Scrapes HiAnime (Yuki), AnimePahe (Pahe).`
-  },
   Enimoe: {
     content: `  
   Scrapes HiAnime (Kaido), AnimeKai (Rose), AniZone (Zone), Anify (Violet), AnimeNoSub (Stack), FireAnime (Fire), Hikari (Cope), AnimeFox (Fox).`
