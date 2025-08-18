@@ -29,7 +29,6 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [AGR Community](https://discord.gg/YjuSSE273C)
 - [r/Anime](https://discord.gg/r-anime)
 - [Anime UK News](https://discord.gg/014sRKGzuUPGPpYRa)
-- [AniWave](https://discord.gg/KRQQKzQ6CS)
 - [Aniyomi](https://discord.gg/F32UjdJZrR)
 - [Batoto](https://discord.gg/batoto)
 - [Boredom Society Scanlations](https://discord.gg/NNS8cRR)
