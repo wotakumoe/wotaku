@@ -143,10 +143,8 @@ outline: 1
 
 | Category      | Name |
 |--------------|------|
-| **Reuploads** | [Flugel Anime](https://flugelanime.com/) :simple-icons-microsoftsharepoint: |
-| ^^ | [Anime Tosho](https://animetosho.org/) :ddl: ==atosho== |
+| **Reuploads** | [Anime Tosho](https://animetosho.org/) :ddl: ==atosho== |
 | ^^ | [Tokyo Insider](https://www.tokyoinsider.com/) :ddl: |
-| ^^ |  |
 | **BDMV (slow host)** | [JPFiles](https://jpfiles.net/) |
 | ^^ | [AnimeRSS](https://animerss.com/) |
 | ^^ | [Asia Media Blog](https://asiamediablog.com/) :ero: [:prx:](https://rentry.org/wotaxy#asia-media-blog) |
