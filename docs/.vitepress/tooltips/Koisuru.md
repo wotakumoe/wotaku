@@ -1,0 +1,1 @@
+Subtitle files only, you need to get the episodes from another source.

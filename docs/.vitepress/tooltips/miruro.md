@@ -1,0 +1,3 @@
+- Nice and minimal UI.
+- Scrapes HiAnime (Zoro & Bun), AnimeKai (Arc & Gut) Animepahe (Kiwi), Gogo (Gogo & Vid), AnimeZ (Jet).
+- Has built-in AniList support.

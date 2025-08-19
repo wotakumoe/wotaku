@@ -1,0 +1,6 @@
+- UI is really cluttered.
+- Video quality fluctuates quite a bit.
+- Players are a mix of self-hosted and scrapers.
+- Luf-mp4 and Vid-mp4 are gogo scrapers.
+- OK and AK have multiple resolutions.
+- SW player is 720p only.

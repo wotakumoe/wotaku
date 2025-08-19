@@ -1,0 +1,1 @@
+Formerly Manhwa Freak, freak scans, freak comics

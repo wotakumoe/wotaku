@@ -1,0 +1,1 @@
+The Mangadex of doujins, almost every doujin is first uploaded here before being scraped by other sites. The online viewer compresses the images, but has the option to download in original quality. [ExHentai](https://exhentai.org/) is its sister site, which also hosts the more extreme and questionable content. You'll need an account on E-Hentai to gain access.

@@ -1,0 +1,1 @@
+Simple UI with all the basic settings. Has AniList tracking.

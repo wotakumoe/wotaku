@@ -1,0 +1,1 @@
+Categorizes content by characters, franchises, events (such as holidays), animations, and sound, but limits uploads to 10MB.

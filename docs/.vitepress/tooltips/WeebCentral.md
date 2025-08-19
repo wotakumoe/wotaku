@@ -1,0 +1,4 @@
+- Has official translations
+- Compresses chapter images
+- Chapter updates are relatively slow
+- You can use AL sync with atsu.

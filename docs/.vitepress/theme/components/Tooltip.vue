@@ -15,15 +15,16 @@
 -->
 <script setup lang="ts">
 withDefaults(
-  defineProps<{
-    title: string
-    icon: string
-  }>(),
-  {
-    title: 'Info',
-    icon: 'i-material-symbols-info-i'
-  }
-)
+	defineProps<{
+		title: string;
+		icon: string;
+	}>(),
+	{
+		title: "Info",
+		// https://icon-sets.iconify.design/material-symbols/
+		icon: "i-material-symbols-info-i",
+	},
+);
 </script>
 
 <template>

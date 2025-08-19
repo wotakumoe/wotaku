@@ -1,0 +1,1 @@
+Has unusual geo-restrictions. Everything works in Japan, but some content may also be accessible in other regions. Although the watermarks differ, the content remains the same.

@@ -1,0 +1,1 @@
+Scrapes Zinmanga and MangaNato

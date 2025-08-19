@@ -1,0 +1,1 @@
+[MANGA Plus](https://mangaplus.shueisha.co.jp/), [Manga UP!](https://global.manga-up.com/) (Main), [SQUARE ENIX](https://squareenixmangaandbooks.square-enix-games.com/en-us)

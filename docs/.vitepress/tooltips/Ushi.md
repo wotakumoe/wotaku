@@ -1,0 +1,1 @@
+[Seven Seas](https://sevenseasentertainment.com/), [Yen Press](https://yenpress.com/)

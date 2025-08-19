@@ -1,0 +1,1 @@
+For now, you need to manually install and update the APK(s) from the "apk" folder in the repository. The install and URL buttons are currently non-functional.

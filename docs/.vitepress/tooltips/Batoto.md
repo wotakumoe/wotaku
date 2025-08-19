@@ -1,0 +1,6 @@
+- Has both scanlated and official releases
+- Has some exclusive uploads
+- Decent filtering options with site theme options
+- Not an aggregator (unlike sister site Mangapark). Upload depends on manual upload. So has missing comics
+- Has a lot of dupe entries.
+- Images are compressed WEBP.

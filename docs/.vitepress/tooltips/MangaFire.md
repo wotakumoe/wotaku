@@ -1,0 +1,5 @@
+- The UI is very clean with notification system
+- Uploads both chapter (multi-lang) & volume releases
+- Basic reader UI
+- Watermark on almost every manga chapters
+- Manga uploads are up to x1600.

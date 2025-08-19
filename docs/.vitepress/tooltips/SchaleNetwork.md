@@ -1,0 +1,1 @@
+Formerly Koharu, has Fakku/Irodori rips (official TLs).

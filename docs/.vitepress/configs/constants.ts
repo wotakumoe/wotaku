@@ -55,8 +55,6 @@ export const nav: DefaultTheme.NavItem[] = [
   },
   {
     text: 'Torrenting',
-    // @ts-expect-error
-    collapsed: true,
     items: [
       { text: 'Getting Started', link: '/torrenting/start' },
       { text: 'FAQs', link: '/torrenting/faq' },
@@ -67,8 +65,6 @@ export const nav: DefaultTheme.NavItem[] = [
   },
   {
     text: 'Guides',
-    // @ts-expect-error
-    collapsed: true,
     items: [
       {
         text: 'Anime',
@@ -91,7 +87,6 @@ export const nav: DefaultTheme.NavItem[] = [
       },
       {
         text: 'Extension Repos',
-        collapsed: true,
         items: [
           { text: 'Mihon & Aniyomi', link: '/guides/ext/mihon' },
           { text: 'Mangayomi', link: '/guides/ext/mangayomi' },
@@ -287,7 +282,7 @@ export const sidebar: DefaultTheme.Sidebar = [
     text: '<span class="i-lucide:heart-handshake"></span> Credits',
     link: '/credits'
   },
-    {
+  {
     text: '<span class="i-lucide:goal"></span> Getting Started',
     link: '/start'
   }
@@ -314,13 +309,13 @@ export const siteConfig = {
     ['link', { rel: 'mask-icon', href: '/asset/fav.png', color: '#56b4fc' }],
     // prettier-ignore
     [
-      'meta',
-      {
-        name: 'keywords',
-        content:
-          'Anime, Anime Piracy, Manga, Manga Piracy, VTuber, Hentai, JPOP, Music, Japan, Learning Japanese, Weeb, Otaku'
-      }
-    ],
+			"meta",
+			{
+				name: "keywords",
+				content:
+					"Anime, Anime Piracy, Manga, Manga Piracy, VTuber, Hentai, JPOP, Music, Japan, Learning Japanese, Weeb, Otaku",
+			},
+		],
     [
       'link',
       {
@@ -328,20 +323,6 @@ export const siteConfig = {
         href: '/asset/fav.png',
         sizes: '192x192'
       }
-    ],
-    [
-      'script',
-      { id: 'restore-banner-preference' },
-      `
-(() => {
-  const restore = (key, cls, def = false) => {
-    const saved = localStorage.getItem(key);
-    if (saved) {
-      document.documentElement.classList.add(cls);
-    }
-  };
-  restore('ackDomainChange', 'banner-dismissed');
-})();`
     ]
   ],
   srcExclude: ['README.md', 'sandbox/**/*.md'],

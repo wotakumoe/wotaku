@@ -1,0 +1,1 @@
+We have not tested their software, use the web downloader for your own security. Best for downloading separate songs instead of albums. For audio quality, use "Original Quality".

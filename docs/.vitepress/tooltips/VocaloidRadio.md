@@ -1,0 +1,1 @@
+Stream URL (192kbps): https://vocaloid.radioca.st/stream

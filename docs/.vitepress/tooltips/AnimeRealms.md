@@ -1,0 +1,1 @@
+Scrapes HiAnime (Soft), AnimePahe (Pahe), AnimeHeaven (Heaven - 720p).

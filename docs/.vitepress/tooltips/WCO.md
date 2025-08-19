@@ -1,0 +1,4 @@
+- Has both anime and cartoons.
+- Library size is pretty good including old stuff.
+- Uploads are compressed to mini-encode and low res.
+- Movie uploads are paywalled. You can bypass some using wco.tv.

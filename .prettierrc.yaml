@@ -1,4 +1,4 @@
-proseWrap: always
+proseWrap: never
 semi: false
 singleQuote: true
 printWidth: 80

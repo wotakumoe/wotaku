@@ -1,0 +1,5 @@
+- Minimal compression
+- Aggregates from various scanlation groups
+- There's a 2/3 hour upload delay for most chapters sourced from scanlators' sites
+- Has official translations
+- Reader isn't as good as mangadex.

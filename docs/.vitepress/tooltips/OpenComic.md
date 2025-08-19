@@ -1,0 +1,4 @@
+- Nice clean UI, has dark mode.
+- Has all the standard functions, including recent history.
+- Has AniList tracking and controller support.
+- Supports Lanczos and other scaling methods.

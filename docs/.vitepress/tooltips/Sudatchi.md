@@ -1,0 +1,4 @@
+- Smaller library size. Good for new airing.
+- Re-encoded to smaller filesize.
+- Uses IPFS
+- Only 1080p atm for most.

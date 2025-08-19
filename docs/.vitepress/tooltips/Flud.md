@@ -1,0 +1,1 @@
+Has a VPN-only option.

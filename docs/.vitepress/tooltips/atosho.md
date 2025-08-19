@@ -1,0 +1,1 @@
+Offers both DDL hosts and Usenet as download options, but only keeps uploads up to 16GB. DDL files might be auto-deleted by the hosts due to inactivity, unlike Usenet files. You can try [magicNZB](https://magicnzb.com/) for free Usenet downloads, as it allows temp-mails and does not require a CC.

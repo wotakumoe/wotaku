@@ -1,0 +1,1 @@
+Focuses on Torrents and Ero anime

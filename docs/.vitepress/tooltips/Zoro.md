@@ -1,0 +1,3 @@
+- Huge library.
+- Has multi-language softsub.
+- Re-encodes shows for smaller size.

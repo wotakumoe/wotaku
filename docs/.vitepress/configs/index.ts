@@ -13,7 +13,7 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
  */
-import type { DefaultTheme, UserConfig } from 'vitepress'
+import type { DefaultTheme, Plugin, UserConfig } from 'vitepress'
 import { generateImages, generateMeta } from './hooks'
 import { defs, movePlugin, aliases } from './markdown/emoji'
 import {
@@ -33,7 +33,6 @@ import { GIT_COMMIT, hostname, nav, sidebar, siteConfig } from './constants'
 export const shared: UserConfig<DefaultTheme.Config> = {
   ...siteConfig,
   transformHead: async (context) => generateMeta(context, hostname),
-  // biome-ignore lint/suspicious/useAwait: <explanation>
   buildEnd: async (context) => {
     generateImages(context)
   },
@@ -126,10 +125,16 @@ export const shared: UserConfig<DefaultTheme.Config> = {
         name: 'custom:adjust-order',
         configResolved(c) {
           movePlugin(
-            c.plugins as any,
+            c.plugins as unknown as Plugin[],
             'vitepress',
             'before',
             'unocss:transformers:pre'
+          )
+          movePlugin(
+            c.plugins as unknown as Plugin[],
+            'custom:tooltip-loader',
+            'before',
+            'vitepress'
           )
         }
       }
