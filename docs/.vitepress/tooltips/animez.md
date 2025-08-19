@@ -1,1 +1,1 @@
-Rips 1080p from Kai.
+Rips 1080p from AnimeKai.
