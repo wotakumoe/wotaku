@@ -20,6 +20,7 @@
   "dependencies": {
     "@fmhy/components": "^0.0.3",
     "@mdit/plugin-align": "^0.13.1",
+    "@mdit/plugin-attrs": "^0.23.1",
     "@mdit/plugin-figure": "^0.13.1",
     "@mdit/plugin-img-lazyload": "^0.13.1",
     "@mdit/plugin-img-size": "^0.13.1",
@@ -37,6 +38,7 @@
     "medium-zoom": "^1.1.0",
     "nitro-cors": "^0.7.1",
     "nitropack": "^2.10.4",
+    "pathe": "^2.0.3",
     "tinyexec": "^0.3.1",
     "ufo": "^1.5.4",
     "unocss": "0.59.0-beta.1",

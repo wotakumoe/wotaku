@@ -10,6 +10,7 @@ import { imgSize } from '@mdit/plugin-img-size'
 import { tabsMarkdownPlugin } from 'vitepress-plugin-tabs'
 import { emojiRender } from './emoji'
 import { getTooltip } from '../../utils/tooltips'
+import { attrs } from '@mdit/plugin-attrs'
 
 export function configureMarkdown(md: MarkdownRenderer) {
   md.use(emojiRender)
@@ -26,6 +27,7 @@ export function configureMarkdown(md: MarkdownRenderer) {
     multibody: true,
     aotolabel: true
   })
+  md.use(attrs)
   renderTooltip(md)
   renderInlineTooltip(md)
 }
