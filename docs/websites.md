@@ -272,7 +272,7 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 | **Aggregators** | [Madokami](https://manga.madokami.al) :s: [:help:](/guides/manga/madokami) |
 | ^^           | [Anna's Archive](https://annas-archive.org/) [:prx:](https://rentry.org/wotaxy#annas-archive) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" /> |
 | ^^           | [Desuarchive](https://desuarchive.org/) :f: <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" /> |
-| ^^           | [Library Genesis+](https://libgen.bz/) [:prx:](https://rentry.org/wotaxy#library-genesis) |
+| ^^           | [Library Genesis+](https://libgen.la/) |
 | ^^           | [The Manga Library](https://rentry.org/wotadirect#websites) |
 | ^^           | [Internet Archive](https://archive.org/) |
 | **Rippers**  | [1r0n](https://nyaa.si/user/tsuna69)<tooltip>Available in description</tooltip> |
@@ -363,7 +363,7 @@ To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/k
 | ^^              | [Kureha One](http://www.vn-meido.com/k1/index.php?board=17.0) ==kureha== |
 | ^^              | [Madokami](https://manga.madokami.al) |
 | ^^              | [Anna’s Archive](https://annas-archive.org/) [:prx:](https://rentry.org/wotaxy#annas-archive) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" /> |
-| ^^              | [Library Genesis+](https://libgen.bz/) [:prx:](https://rentry.org/wotaxy#library-genesis) |
+| ^^              | [Library Genesis+](https://libgen.la/) |
 | ^^              | [Z-Library](https://z-lib.gd/) [:prx:](https://rentry.org/wotaxy#z-library) |
 
 ## Audiobooks
@@ -447,7 +447,7 @@ To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/k
 - [ComicsCodes](https://comics.codes/)
 - [Desuarchive](https://desuarchive.org/) <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
 - [GetComics](https://getcomics.info/) :s: <Badge type="info" text="PD Bypass" link="https://pixeldrain-bypass.cybar.xyz/" />
-- [Library Genesis+](https://libgen.bz/) [:prx:](https://rentry.org/wotaxy#library-genesis)
+- [Library Genesis+](https://libgen.la/)
 - [Old Comics World](https://oldcomicsworld.blogspot.com/) <Badge type="info" text="Vintage"/>
 - [TheLongbox](https://thelongbox.net/) :host::acc:
 
