@@ -595,7 +595,6 @@ ___
 - [Com-X](https://com-x.life/)
 - [Desu.Me](https://desu.city/) [:alt:](https://desu.me/)
 - [Manga.ovh](https://manga.ovh/content)
-- [MangaClub](https://mangaclub.ru/)
 - [MangaHub](https://mangahub.ru/)
 - [MangaLib](https://mangalib.me/)
 - [MangaPoisk](https://mangapoisk.live/)
