@@ -117,7 +117,6 @@ outline: 1
 - [Nyaa](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap)
 - [Anime Tosho](https://animetosho.org/)
 - [Anirena](https://www.anirena.com/)
-- [Shana Project](https://www.shanaproject.com/)
 - [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](http://tokyo-tosho.net/)
 
 ::: details :more: Related resources {open}
@@ -215,7 +214,6 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 - [MangaHasu](https://mangahasu.me/)
 - [MangaTARO](https://mangataro.net/home)
 - [Mangahub](https://mangahub.io/) :acc:
-- [Novelmic](https://novelmic.com/) <Badge type="info" text="Manhua" />
 - [Dynasty Reader](https://dynasty-scans.com/) 
 - [Like Manga](https://likemanga.in) [:alt:](https://likemanga.ink/)
 - [Manga Fox](https://mangafox.la/) [:prx:](https://rentry.org/wotaxy#manga-fox)

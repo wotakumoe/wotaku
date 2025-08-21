@@ -258,7 +258,6 @@ ___
 |-----------|----------|---------|  
 | **Stats** | [Sekai](https://sekai.rl404.com/) [:gh:](https://github.com/rl404/sekai) :s: | :mal: |  
 | ^^        | [Anistats](https://mayudev.github.io/anistats/) [:gh:](https://github.com/mayudev/anistats) | :al: |  
-| ^^        | [Anime Taste Tool](https://www.anipop.uk/) [:gh:](https://github.com/kay-mw/popularity-tool-for-anilist) | :al: |  
 | ^^        | [anime.plus](https://anime.plus/) [:gh:](https://github.com/anime-plus/graph) | :mal: |  
 | ^^        | [KitsuStats](https://drumber.github.io/KitsuStats/#/) [:gh:](https://github.com/Drumber/KitsuStats) | :k: |  
 | ^^        | [MAL Badges](https://www.mal-badges.com/) | :mal: |  

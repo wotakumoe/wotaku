@@ -41,7 +41,6 @@ og:
 - [Animeblkom](https://blkom.com/)
 - [Animelek](https://animelek.vip/)
 - [Animerco](https://web.animerco.org/)
-- [Anime Slayer WEB](https://animeslayerweb.site/)
 - [Arabic Toons](https://www.arabic-toons.com/)
 - [Okanime](https://okanime.tv/)
 - [WitAnime](https://witanime.cyou/)
@@ -144,7 +143,6 @@ og:
 ### NSFW
 - [Hanime1.me](https://hanime1.me/)
 - [55Comic](https://www.55comic.com/)
-- [JAV Comics](https://javcomics.com/)
 - [PicACG](https://manhuabika.com/)
 - [WNACG](https://www.wnacg.com/)
 
