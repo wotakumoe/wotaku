@@ -117,7 +117,7 @@ By default, Echo is an offline music player. You have to install [music extensio
 - Click :material-symbols-stream-rounded: **Extension** icon and select a music streaming extension.
 - Depending on the extension:
   - It can show and play songs without login (e.g., YouTube Music).
-  - It may show playlists and songs but cannot play any tracks (e.g., Spotify).
+  - It may show playlists and songs but cannot play any tracks without login (e.g., Spotify).
   - It may not show anything without login (e.g., Deezer).
 
 ::: info Unified Extension
@@ -236,11 +236,14 @@ You will see this error if you move or delete the downloaded folder from its ori
 
 ## Spotify
 
+### Extension outdated despite being latest
+- Go to your Spotify [personal info settings](https://www.spotify.com/account/profile/).
+- Change "Country or region"
+
 ### Oops! Something went wrong
 While logging into the Spotify extension, if you encounter the error `Oops! Something went wrong, please try again or check out our help area`, try logging in using the password method instead of the OTP method. You can also check the help area.
 
 If both of them don’t work, force close the app, reopen it, and try again.
-
 
 ### Socket Closed
 Force close the app and reopen it. Alternatively, switch to incognito mode in the extension and log back in.
