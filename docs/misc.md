@@ -174,7 +174,7 @@ ___
 | ^^ | [Otaku News](https://www.otakunews.com/) :flag-united-kingdom: [:rss:](https://www.otakunews.com/Rss) |  
 | **Blog / Interview** | [Anime Blog Tracker](https://aniblogtracker.app/index.php) :s: <Badge text="Aggregator" /> [:gh:](https://github.com/AniBlogTracker) |  
 | ^^ | [Anime Nano](https://www.animenano.com/) <Badge text="Aggregator" /> |  
-| ^^ | [Halcyon Realms](https://halcyonrealms.com/) [:rss:](https://halcyonrealms.com/subscribe/) |  
+| ^^ | [Halcyon Realms](https://halcyonrealms.com/) :s: [:rss:](https://halcyonrealms.com/subscribe/) |  
 | ^^ | [Zimmerit](https://www.zimmerit.moe/) |  
 
 ## Anime
