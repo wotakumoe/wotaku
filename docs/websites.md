@@ -394,8 +394,9 @@ To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/k
 | **Download** | [Zekozimo](https://zekozimo.blogspot.com/) :s: <Badge type="tip" text="General" /> |
 | ^^         | [KRDL](https://krdl.moe/) :s: |
 | ^^         | [Nyaa](https://nyaa.si/) :mag: [:prx:](https://rentry.org/nyaap) |
-| ^^         | [Metallic Subs](https://metallicsubs.wordpress.com/) |
+| ^^         | [Bereke Scrubs](https://berekescrubs.wordpress.com/) |
 | ^^         | [Megabeast Empire](https://megabeastempire.wordpress.com/) |
+| ^^         | [Metallic Subs](https://metallicsubs.wordpress.com/) |
 
 
 ## Wikis
