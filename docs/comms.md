@@ -42,6 +42,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 
 ### G-M
 - [GetComics](https://discord.gg/G7UwGPZDJ7)
+- [GJM - Subtitling Hub](https://discord.gg/0jeKKhzGn3EBNDI2)
 - [HiAnime](https://discord.gg/hianime)
 - [Japanese Language Study Space](https://discord.gg/jlss)
 - [KickAssAnime Support](https://discord.gg/6EGTnNQAaV)
