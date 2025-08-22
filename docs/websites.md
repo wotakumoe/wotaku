@@ -117,6 +117,7 @@ outline: 1
 - [Nyaa](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap)
 - [Anime Tosho](https://animetosho.org/)
 - [Anirena](https://www.anirena.com/)
+- [Shana Project](https://www.shanaproject.com/)
 - [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](http://tokyo-tosho.net/)
 
 ::: details :more: Related resources {open}

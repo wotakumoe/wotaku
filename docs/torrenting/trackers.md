@@ -19,6 +19,7 @@ og:
 | ^^         | [Anirena](https://www.anirena.com/) |
 | ^^         | [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](http://tokyo-tosho.net/) |
 | Anime      | [Anime Tosho](https://animetosho.org/) |
+| ^^         | [Shana Project](https://www.shanaproject.com/) |
 | NSFW       | [Sukebei](https://sukebei.nyaa.si/) |
 
 ### Private Trackers
