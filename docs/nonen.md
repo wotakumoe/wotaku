@@ -70,7 +70,6 @@ og:
 ## Balkan
 
 ### Anime
-- [Anime Balkan](https://animebalkan.org/) [:alt:](https://animebalkan.gg/)
 - [AnimeOverdose](https://www.anime-overdose.com/)
 - [Anime Srbija](https://www.animesrbija.com/)
 
