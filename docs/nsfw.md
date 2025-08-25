@@ -77,6 +77,7 @@ og:
 - [Doujindesu](https://doujindesu.tv/) :fjp::fkr:
 - [Hentai20](https://hentai20.io/)
 - [Hiperdex](https://hiperdex.com/)
+- [Kagane](https://kagane.org/) :s: ==Kagane==
 - [Manga District](https://mangadistrict.com/)
 - [Manhwa18](http://manhwa18.com/)
 - [Manhwa-raw](https://manhwa-raw.com/) +:fkr:

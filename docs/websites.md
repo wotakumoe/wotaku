@@ -204,6 +204,7 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 - [Batoto](https://battwo.com/v3x) [:prx:](https://rentry.co/batoto) ==Batoto==  
 - [MangaPark](https://mangapark.net/) [:prx:](https://rentry.co/mangapark)
 - [MangaFire](https://mangafire.to/home) ==MangaFire==  
+- [Kagane](https://kagane.org/) ==Kagane==
 
 
 
