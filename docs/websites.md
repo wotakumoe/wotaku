@@ -373,7 +373,7 @@ To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/k
 - [PZG](https://nyaa.si/?f=0&c=3_1&q=%22%5Bpzg%5D%22)
 - [Stick](https://nyaa.si/?f=0&c=3_1&q=%22%5BStick%5D%22)
 - [Troglodyte](https://nyaa.si/?f=0&c=3_1&q=%22%5BTroglodyte%5D%22)
-- [AudioBook Bay](https://audiobookbay.is/)
+- [AudioBook Bay](https://audiobookbay.lu/)
 - :more: [Audiobook player for phone](/music#audiobook)
 
 
