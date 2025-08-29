@@ -217,8 +217,12 @@ You should never use cracked or modded VPN cause all of your traffic will go thr
 
 ### Archives
 - [4chan archive search](https://4search.neocities.org/)
-- [Archived.Moe](https://archived.moe/)
+- [4plebs](https://archive.4plebs.org/)
+- [arch.b4k](https://arch.b4k.dev/)
+- [Archive of Sins](https://archiveofsins.com/)
 - [Desuarchive](https://desuarchive.org/) :s:
+- [Palanq](https://archive.palanq.win/)
+- [The /b/ Archive](https://thebarchive.com/)
 - [Warosu](https://warosu.org/)
 
 ### Others

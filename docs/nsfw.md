@@ -227,7 +227,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [Anime-sharing](http://www.anime-sharing.com/forum/)
 - [ASMR Online](https://asmr.one/)
 - [Hentai ASMR](https://www.hentaiasmr.moe/)
-- [HMV Mania](https://hmvmania.com/) [:f:](https://archived.moe/h/thread/7621997/)
+- [HMV Mania](https://hmvmania.com/) [:f:](https://archiveofsins.com/h/thread/8676515)
 - [Japanese ASMR](https://japaneseasmr.com/)
 - [Kasumi](http://xdcc.kasumi.moe/) [:help:](http://kasumi.moe/guide/)
 - [Kemono](https://kemono.cr/)
@@ -259,9 +259,9 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 
 - [r/hentai](https://old.reddit.com/r/hentai/) [:d:](https://discord.gg/rhentai)
 - [r/pornhwa](https://old.reddit.com/r/pornhwa/) [:d:](https://discord.gg/epjkRVp7gD)
-- [:f: /h/](https://boards.4chan.org/h/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/h/" /> <Badge type="tip" text="Archive" link="https://archived.moe/h/" />
-- [:f: /e/](https://boards.4chan.org/e/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/e/" /> <Badge type="tip" text="Archive" link="https://archived.moe/e/" />
-- [:f: /u/](https://boards.4chan.org/u/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/u/" /> <Badge type="tip" text="Archive" link="https://archived.moe/u/" />
+- [:f: /h/](https://boards.4chan.org/h/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/h/" /> <Badge type="tip" text="Archive" link="https://archiveofsins.com/h/" />
+- [:f: /e/](https://boards.4chan.org/e/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/e/" /> <Badge type="tip" text="Archive" link="https://archive.palanq.win/e/" />
+- [:f: /u/](https://boards.4chan.org/u/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/u/" /> <Badge type="tip" text="Archive" link="https://archiveofsins.com/u/" />
 - [r/Artistic_Hentai](https://old.reddit.com/r/Artistic_Hentai/)
 - [r/doujinshi](https://old.reddit.com/r/doujinshi/)
 - [r/ecchi](https://old.reddit.com/r/ecchi/) [:d:](https://discord.gg/jVvSbYB)
