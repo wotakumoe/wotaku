@@ -3,7 +3,7 @@ title: Manga Glossary
 customDescription: Manga related terms that you have to know!
 outline: [2,3]
 og:
-	image: https://files.catbox.moe/ys1mv5.png
+	image: https://i.wotaku.wiki/api/images/glossary.png
 ---
 
 

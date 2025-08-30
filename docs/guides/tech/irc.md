@@ -2,7 +2,7 @@
 title: IRC & XDCC
 customDescription: Basic guide on how to use IRC.
 og:
-    image: https://files.catbox.moe/l2g45x.png
+    image: https://i.wotaku.wiki/api/images/guide.png
 ---
 
 

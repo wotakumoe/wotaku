@@ -4,7 +4,7 @@ description: Guides and resources for scanlation
 customDescription: Guides and resources for everything scanlation related!
 outline: [1,2]
 og:
-    image: https://files.catbox.moe/s75w2a.png
+    image: https://i.wotaku.wiki/api/images/scan.png
 
 ---
 

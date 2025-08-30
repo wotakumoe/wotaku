@@ -2,7 +2,7 @@
 title: JDownloader2 AD Removal
 customDescription: Remove banner & Pop-up ads from JDownloader2
 og:
-    image: https://files.catbox.moe/l2g45x.png
+    image: https://i.wotaku.wiki/api/images/guide.png
 ---
 
 

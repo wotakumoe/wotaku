@@ -1,7 +1,7 @@
 ---
 exclude: true
 og:
-    image: https://files.catbox.moe/l2g45x.png
+    image: https://i.wotaku.wiki/api/images/guide.png
 ---
 
 

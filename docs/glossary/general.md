@@ -2,7 +2,7 @@
 title: General Glossary
 customDescription: Weeb terms that you will see everywhere!
 og:
-    image: https://files.catbox.moe/ys1mv5.png
+    image: https://i.wotaku.wiki/api/images/glossary.png
 ---
 
 

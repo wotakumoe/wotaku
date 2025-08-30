@@ -2,7 +2,7 @@
 title: qBittorrent
 customDescription: Various how-tos for qBittorrent
 og:
-    image: https://files.catbox.moe/36tr6c.png
+    image: https://i.wotaku.wiki/api/images/tor.png
 ---
 
 

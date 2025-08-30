@@ -4,7 +4,7 @@ description: Enjoy anime, manga and novels on all your devices, no matter the OS
 customDescription: Enjoy anime, manga and novels on all your devices, no matter the OS!
 outline: [1,2]
 og:
-    image: https://files.catbox.moe/gc3d9j.png
+    image: https://i.wotaku.wiki/api/images/soft.png
 
 ---
 

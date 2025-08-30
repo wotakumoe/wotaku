@@ -3,7 +3,7 @@ title: Transcoding Audio
 description: Basic guide for transcoding audio file
 outline: [2,3]
 og:
-    image: https://files.catbox.moe/l2g45x.png
+    image: https://i.wotaku.wiki/api/images/guide.png
 ---
 
 <GradientCard title="Transcoding Audio" description="Basic transcoding guide for audio file" theme="turquoise" variant="thin"/>

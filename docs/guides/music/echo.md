@@ -3,7 +3,7 @@ title: Echo
 customDescription: Guide on how to use echo. 
 outline: [1,2]
 og:
-    image: https://files.catbox.moe/60r3ra.png
+    image: https://i.wotaku.wiki/api/images/echo.png
 ---
 
 

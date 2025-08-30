@@ -4,7 +4,7 @@ description: Everything Art
 customDescription: Art-based sites, software, scripts and extensions
 outline: [1,2]
 og:
-    image: https://files.catbox.moe/hpfdzb.png
+    image: https://i.wotaku.wiki/api/images/art.png
 
 ---
 

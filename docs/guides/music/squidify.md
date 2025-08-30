@@ -2,7 +2,7 @@
 title: Squidify
 customDescription: Guide on how to use squidify on various devices. 
 og:
-    image: https://files.catbox.moe/q4b9bu.png
+    image: https://i.wotaku.wiki/api/images/squid.png
 ---
 
 

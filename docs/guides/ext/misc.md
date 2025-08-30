@@ -3,7 +3,7 @@ title: Cloudstream, Legado & LNReader Extension Repos
 customDescription: Extension Repos & Guides for Cloudstream, Legado & LNReader
 outline: [2,3]
 og:
-    image: https://files.catbox.moe/dzy5dt.png
+    image: https://i.wotaku.wiki/api/images/extension.png
 ---
 
 

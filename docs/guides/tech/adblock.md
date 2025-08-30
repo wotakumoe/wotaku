@@ -2,7 +2,7 @@
 title: Blocking Ads & Annoyances
 customDescription: Adblocking Solutions for every device
 og:
-    image: https://files.catbox.moe/l2g45x.png
+    image: https://i.wotaku.wiki/api/images/guide.png
 ---
 
 

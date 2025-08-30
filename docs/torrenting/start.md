@@ -2,7 +2,7 @@
 title: Getting Started
 customDescription: Basic how-to torrent guide to get you started 
 og:
-    image: https://files.catbox.moe/36tr6c.png
+    image: https://i.wotaku.wiki/api/images/tor.png
 ---
 
 
