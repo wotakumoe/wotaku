@@ -293,6 +293,7 @@ ___
 | General   | [AniGuessr](https://aniguessr.com/) |
 | Song      | [Anime Music Quiz](https://animemusicquiz.com/) <Badge type="tip" text="Script" link="https://github.com/Shaykaden/AMQ-tabify-anime-selection" /> |
 | ^^        | [AnimeSongs Quiz](https://quiz.animesongs.org/) |
+| ^^        | [Eroge Music Quiz](https://erogemusicquiz.com/) :ero: |
 | ^^        | [Guess The Anime Opening](https://guesstheopening.com/anime) |
 | Character | [Chiaki Anime Quiz](https://chiaki.site/?/quiz) |
 | Scene     | [AnimeGuess](https://www.animeguess.moe/) |
