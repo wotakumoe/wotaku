@@ -16,249 +16,366 @@ og:
 # Setup
 
 ## Installing Echo
-- Download the first ZIP file from the [**nightly**](https://nightly.link/brahmkshatriya/echo/workflows/nightly/main/artifact) page.
-- Unzip the downloaded file. If your file manager doesn't support unzipping, try using [MiXplorer](https://forum.xda-developers.com/showpost.php?p=23109280).
-- You will find an `.apk` file inside. Install it on your device.
-
-
-## Installing extension
-Extensions are a mix of `.eapk` and `.apk` files. `.eapk` files are installed automatically, but `.apk` files need to be installed manually like regular apps.
-
-::: tabs
-
-== Link / Code
-
-| Extension | Code | Manual |
-|-|-|-|
-| All-in-one :s: | `extension` | [Link](https://raw.githubusercontent.com/itsmechinmoy/echo-extensions/main/echo_extensions.json) |
-| EchoDown | `echodown` | [Link](https://gist.githubusercontent.com/LuftVerbot/81f8748205dc7fc419269c59e7cffdb1/raw/993b221af28a01a6380fd36692935b670a18ee43/echo_extensions.json) |
-
-== Repositories
-
-### Music Streaming
-
-| Dev            | Extensions                                                                                   |
-|----------------|----------------------------------------------------------------------------------------------|
-| brahmkshatriya | [Spotify](https://github.com/brahmkshatriya/echo-spotify-extension/releases)                |
-| ^^             | [YouTube](https://github.com/brahmkshatriya/echo-youtube-extension/releases)                |
-| GrimXer0       | [TuneIn](https://github.com/GrimXer0/EchoTuneIn-extension/releases)                         |
-| LuftVerbot     | [Deezer](https://github.com/LuftVerbot/echo-deezer-extension/releases)                      |
-| Secozzi        | [Jellyfin](https://github.com/Secozzi/echo-jellyfin-extension/releases)                     |
-
-### Lyrics
-
-| Dev        | Extensions                                                                                   |
-|------------|----------------------------------------------------------------------------------------------|
-| rebelonion | [Lyrics Translator](https://github.com/rebelonion/echo-lyrics-translator/releases)          |
-| shub39     | [Genius](https://github.com/shub39/echo-genius-extension/releases)                          |
-| ^^         | [Kugou](https://github.com/shub39/echo-kugou-extension/releases)                            |
-| ^^         | [LRCLIB](https://github.com/shub39/echo-lrclib-extension/releases)                          |
-| ^^         | [MusixMatch](https://github.com/shub39/echo-musixmatch-extension/releases)                  |
-
-### Tracking
-
-| Dev        | Extensions                                                                                   |
-|------------|----------------------------------------------------------------------------------------------|
-| rebelonion | [Last.fm](https://github.com/rebelonion/echo-lastfm/releases)                               |
-
-### Others
-| Dev            | Extensions                                                                                   |
-|----------------|----------------------------------------------------------------------------------------------|
-| brahmkshatriya | [Cineby](https://github.com/brahmkshatriya/echo-cineby-extension/releases)                  |
-| brahmkshatriya | [Discord RPC](https://github.com/brahmkshatriya/echo-discord/releases)                      |
-| LuftVerbot     | [Echodown](https://github.com/LuftVerbot/echo-echodown-extension/releases)                  |
-| rebelonion     | [ASMR One](https://github.com/rebelonion/echo-asmr-one/releases)                            |
-
+1. Visit the [**Echo Nightly Builds**](https://nightly.link/brahmkshatriya/echo/workflows/nightly/main/artifact) page and download the latest ZIP file (usually the first one listed).
+2. Extract the ZIP file using your file manager. If extraction isn't supported, consider using an app like [MiXplorer](https://forum.xda-developers.com/showpost.php?p=23109280).
+3. Inside the extracted folder, locate the `.apk` file.
+4. Open the `.apk` file to begin installation. If prompted, allow installation from unknown sources in your device settings.
+5. Once installed, launch Echo and proceed to install extensions as needed (see below).
+::: info
+To install apps from outside the Play Store, you may need to enable the "Unknown Sources" option in your device settings.
 :::
 
-### Steps
+## Installing Extensions
+
+Echo supports two types of extension files:
+- `.eapk` files: Installed automatically by Echo.
+- `.apk` files: Must be installed manually, like any other Android app.
+
+Follow the steps below to install extensions using either a link/code or by downloading files directly.
 
 ::: tabs
 
 == Link / Code
 
-- Open the Echo app.
-- Tap the :material-symbols-stream-rounded: **Extension** icon.
-- Tap :material-symbols-add-circle-outline-rounded: **Add Extension** and enter the shortcode or URL from [**here**](#installing-extension).
-- Tap **Add**.
-- A menu will appear displaying all available extensions.  
-- Select the extensions you want to install.  
-- Tap **Add** to install the selected extensions. 
-- The **Extension Installer** menu will pop up for each extension. Tap **Install**.
+**Quick Add via Code or Link**
+
+1. **Open the Echo app.**
+2. Tap the :material-symbols-stream-rounded: **Extension** icon in the app.
+3. Tap :material-symbols-add-circle-outline-rounded: **Add Extension**.
+4. Enter a shortcode or paste a URL from the table below.
+5. Tap **Add**.
+6. A list of available extensions will appear.
+7. Select the extensions you want to install.
+8. Tap **Add** again.
+9. For each extension, the **Extension Installer** will appear. Tap **Install** to complete.
+
+| Extension         | Code         | Direct Link                                                                                   |
+|-------------------|-------------|----------------------------------------------------------------------------------------------|
+| All-in-one :s:    | `extension` | [All-in-one](https://raw.githubusercontent.com/itsmechinmoy/echo-extensions/main/echo_extensions.json) |
+| EchoDown          | `echodown`  | [EchoDown](https://gist.githubusercontent.com/LuftVerbot/81f8748205dc7fc419269c59e7cffdb1/raw/993b221af28a01a6380fd36692935b670a18ee43/echo_extensions.json) |
 
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/l9WsxYekKfY" frameborder="0" allowfullscreen></iframe></div>
 
 == File
-- Go to the [Repositories](#installing-extension) tab and tap on the repository you want to add to the player.
-- Download the latest `.apk` / `.eapk` from there.
-- Open the Echo app.
-- Tap the :material-symbols-stream-rounded: **Extension** icon.
-- Tap :material-symbols-add-circle-outline-rounded: **Add Extension** and tap on **File**.
-- Tap "**Add**" then select the downloaded `.apk` / `.eapk`.
-- The **Extension Installer** menu will pop up. Tap **Install**.
+
+**Manual Install via File**
+
+1. Go to the [Repositories](#extension-repositories) tab below and choose a repository for the extension you want.
+2. Download the latest `.apk` or `.eapk` file from the repository link.
+3. Open the Echo app.
+4. Tap the :material-symbols-stream-rounded: **Extension** icon.
+5. Tap :material-symbols-add-circle-outline-rounded: **Add Extension**, then select **File**.
+6. Tap **Add** and select the downloaded `.apk` or `.eapk` file.
+7. The **Extension Installer** will appear. Tap **Install** to finish.
 
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/QTP9PruoH8c" frameborder="0" allowfullscreen></iframe></div>
 :::
 
-### Updating extension
-Echo automatically checks for extension updates every 6 hours. If you'd like to check for updates manually, go to :material-symbols-settings-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension** -> :material-symbols-sync-rounded:
+---
 
-If a new update is available, you'll be prompted to install it. If the app still shows as out of date, try restarting it.
+### Extension Repositories
 
-## Adding account
-To access personalized content, playlists, and streaming features, add your account. To add an account,
-- Go to :material-symbols-settings-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension**
-- Then click on the music streaming extension you want to link.
-- Click :material-symbols-login-rounded: **Login** and follow the instructions.
+Below are official and community repositories for various types of extensions. Use these links to download extension files or find more information.
 
-## Playing music
-By default, Echo is an offline music player. You have to install [music extensions](#installing-extension) to stream music.
+::: tabs
 
-- Click :material-symbols-stream-rounded: **Extension** icon and select a music streaming extension.
-- Depending on the extension:
-  - It can show and play songs without login (e.g., YouTube Music).
-  - It may show playlists and songs but cannot play any tracks without login (e.g., Spotify).
-  - It may not show anything without login (e.g., Deezer).
+== Music
+
+| Developer        | Extension                                                                                   | Description                                                                                                   |
+|------------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| brahmkshatriya   | [Spotify](https://github.com/brahmkshatriya/echo-spotify-extension/releases)               | Stream music from Spotify. Requires login for full access.                                                    |
+| ^^               | [YouTube](https://github.com/brahmkshatriya/echo-youtube-extension/releases)               | Play and browse music from YouTube and YouTube Music, often works without login.                              |
+| GrimXer0         | [TuneIn](https://github.com/GrimXer0/EchoTuneIn-extension/releases)                        | Listen to live radio stations and streams via TuneIn.                                                         |
+| LuftVerbot       | [Deezer](https://github.com/LuftVerbot/echo-deezer-extension/releases)                     | Access and stream music from Deezer. Login required to browse and play tracks.                                |
+| Secozzi          | [Jellyfin](https://github.com/Secozzi/echo-jellyfin-extension/releases)                    | Connect to your Jellyfin server to stream your personal music library.                                        |
+
+== Tracking
+
+| Developer    | Extension                                                                                   | Description                                                                                                   |
+|--------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| rebelonion   | [Last.fm](https://github.com/rebelonion/echo-lastfm/releases)                              | Scrobble your listening activity to Last.fm for music tracking and recommendations.                           |
+
+== Lyrics
+
+| Developer    | Extension                                                                                   | Description                                                                                                   |
+|--------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| rebelonion   | [Lyrics Translator](https://github.com/rebelonion/echo-lyrics-translator/releases)          | View and translate song lyrics in real time while listening.                                                  |
+| shub39       | [Genius](https://github.com/shub39/echo-genius-extension/releases)                         | Fetch lyrics and annotations from Genius for your currently playing song.                                     |
+| ^^           | [Kugou](https://github.com/shub39/echo-kugou-extension/releases)                           | Get lyrics from Kugou, including support for Chinese and international tracks.                                |
+| ^^           | [LRCLIB](https://github.com/shub39/echo-lrclib-extension/releases)                         | Access a large open-source lyrics database (LRCLIB) for synced and unsynced lyrics.                           |
+| ^^           | [MusixMatch](https://github.com/shub39/echo-musixmatch-extension/releases)                 | Display synced lyrics from MusixMatch, supporting many languages and artists.                                 |
+
+== Others
+
+| Developer        | Extension                                                                                   | Description                                                                                                   |
+|------------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| brahmkshatriya   | [Cineby](https://github.com/brahmkshatriya/echo-cineby-extension/releases)                 | Watch and manage movies and TV shows directly within Echo.                                                    |
+| brahmkshatriya   | [Discord RPC](https://github.com/brahmkshatriya/echo-discord/releases)                     | Show your currently playing music as a status on Discord using Rich Presence.                                 |
+| LuftVerbot       | [Echodown](https://github.com/LuftVerbot/echo-echodown-extension/releases)                 | Download music from supported streaming services for offline listening.                                       |
+| rebelonion       | [ASMR One](https://github.com/rebelonion/echo-asmr-one/releases)                           | Stream relaxing ASMR audio content from ASMR One.                                                             |
+
+:::
+
+## Updating Extensions
+
+- Echo automatically checks for extension updates every 6 hours.
+- To check for updates manually:
+  1. Go to :material-symbols-settings-rounded: **Settings**.
+  2. Tap :material-symbols-stream-rounded: **Extension**.
+  3. Tap :material-symbols-sync-rounded: to check for updates.
+- If an update is available, you will be prompted to install it.
+- If the app still shows an extension as out of date, try restarting Echo.
+
+## Adding your music accounts
+
+To enjoy personalized features like playlists, recommendations, and streaming, you’ll need to link your music service accounts to Echo. Here’s how to get started:
+
+1. Open :material-symbols-settings-rounded: **Settings** in Echo.
+2. Tap :material-symbols-stream-rounded: **Extension**.
+3. Select the music streaming extension you want to connect (for example, Spotify, YouTube, or Deezer).
+4. Tap :material-symbols-login-rounded: **Login** and follow the on-screen instructions to sign in.
+
+Once your account is linked, you’ll have access to your personal music library and streaming features, depending on the service.
+
+## How to Play Music in Echo
+
+Echo works as an offline music player by default, letting you play music stored on your device. To stream music from online services, you’ll need to install [music extensions](#installing-extensions).
+
+To play music from a streaming service:
+
+1. Tap the :material-symbols-stream-rounded: **Extension** icon.
+2. Choose a music streaming extension from the list.
+
+Depending on the extension you select:
+- Some services (like YouTube Music) let you browse and play songs without logging in.
+- Others (like Spotify) may let you browse playlists and songs, but require you to log in before you can play anything.
+- Some (like Deezer) may not show any content until you log in.
 
 ::: info Unified Extension
-The Unified Extension lets you browse all extensions from the top bar. In the library, you can create playlists and add songs from multiple services there.
+With the Unified Extension, you can browse all your installed music services from the top bar. In your library, you can create playlists and add songs from multiple services in one place.
 :::
 
-::: tip Audio glossary
-If you wanna learn about the audio basics, read our [**audio glossary**](/glossary/audio)
+::: tip Audio Glossary
+New to audio terms? Check out our [**audio glossary**](/glossary/audio) to learn the basics!
 :::
+
+---
 
 <br>
 
-# Important
+# Essential Information & Troubleshooting for Echo
 
-<br>
+## 1. Account Safety & Spotify Usage
 
-___
+### Spotify Extension Risks
 
-### Spotify Account Suspension
-The Spotify extension violates Spotify’s Terms of Service. Accounts are typically suspended in waves. The Echo development team is not responsible for any account suspension. If your account is suspended, you will need to contact Spotify Support directly.
-
-::: warning False Negative
-Sometimes the app may show a false negative about account suspension. Check your email for any message from Spotify with the subject "**Notice under Spotify Terms and Conditions of Use**". If you haven't received such an email, simply log out and log back in. This resolves the issue.
+::: warning Important
+The Spotify extension violates Spotify’s Terms of Service. Using it may result in your Spotify account being suspended, often in waves.
 :::
 
-::: tip Use alternative account
-To avoid risking your main account, use an alternate account instead. You can follow the [**transfer guide**](#transferring-playlist) to move playlists, albums, artists, and more. Or, simply add your alt account as a collaborator on your playlists. Here’s how:
-
-- Open official Spotify app or website.
-- Go to one of your own playlists (this won't work for public playlists created by others).
-- Click the :ic-baseline-person-add: **Invite Collaborators** button.
-- This will copy a collaboration link to your clipboard.
-- Open the link while logged in to your alt account.
+::: info Responsibility
+The Echo team is not responsible for any account suspensions. If your account is suspended, you must open email about your account suspension and contact Spotify Support directly from there (it will open a live chat).
 :::
 
-<br>
+### False Suspension Warnings
 
-# Other guides
+Sometimes Echo may incorrectly report your account as suspended. To check:
+- Look for an email from Spotify with the subject "**Notice under Spotify Terms and Conditions of Use**".
+- If you haven’t received such an email, log out and log back in to Echo. This usually resolves the issue.
 
-## Blacklisting folder
-Echo scans all your music folders and displays them in the :material-symbols-files-outline: **Offline** extension. If you want to exclude a folder, go to :material-symbols-settings-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension** -> :material-symbols-files-outline: **Offline** and tap **Blacklist Folders**. Then, select the folders you don’t want Echo to scan.
+### Safer Usage: Use an Alternate Account
 
-## Changing lyrics provider
-Echo supports multiple lyrics providers. You can select your preferred provider from the player.
-- Play a song and click on **Lyrics**.
-- Then scroll up and you will see :material-symbols-queue-music-rounded: Music Provider "Logo".
-- Click on the logo and select the lyrics provider.
+To protect your main Spotify account:
+- Create and use an alternate (alt) Spotify account for Echo.
+- Transfer your playlists, albums, and artists using the [**transfer guide**](#transferring-playlists).
+- Or, add your alt account as a collaborator on your playlists:
+  1. Open the official Spotify app or website.
+  2. Go to one of your own playlists.
+  3. Click the :ic-baseline-person-add: **Invite Collaborators** button.
+  4. Copy the collaboration link and open it while logged into your alt account.
 
-The last selected lyrics provider will be set as the default.
+## 2. Managing Your Music & Echo Features
+
+### Blacklisting Folders
+
+Echo scans all your music folders for offline playback. To exclude a folder:
+- Go to :material-symbols-settings-rounded: **Settings** → :material-symbols-stream-rounded: **Extension** → :material-symbols-files-outline: **Offline**.
+- Tap **Blacklist Folders** and select folders you want to exclude.
+
+### Changing Lyrics Provider
+
+Echo supports multiple lyrics sources. To switch:
+1. Play a song and tap **Lyrics**.
+2. Scroll up to see the :material-symbols-queue-music-rounded: Music Provider "Logo".
+3. Tap the logo and select your preferred lyrics provider.
+::: info
+The last selected provider becomes the default.
+:::
 
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/t0lBUbf4HLs" frameborder="0" allowfullscreen></iframe></div>
 
+### Downloading Music
 
-## Downloading music
-To download songs in Echo, you have to install [EchoDown](#installing-extension) extension.
+To download songs:
+1. Install the [EchoDown extension](#installing-extensions).
+2. Open any song/album you want to download.
+3. Press :material-symbols-more-horiz: and select :material-symbols-download-for-offline-outline-rounded: **Download**.
 
-- Open any song/album you want to download.
-- Press :material-symbols-more-horiz: to open the menu and then click :material-symbols-download-for-offline-outline-rounded: **Download**
-
-You can see the progress in :material-symbols-settings-rounded: **Settings** ->  :material-symbols-download-for-offline-outline-rounded: **Downloads**. Once done, you'll find them in :material-symbols-files-outline: **Offline**. If you can't find the Offline section, click :material-symbols-stream-rounded: **Extension** icon, and select :material-symbols-files-outline: **Offline** from there.
+- Track download progress in :material-symbols-settings-rounded: **Settings** → :material-symbols-download-for-offline-outline-rounded: **Downloads**.
+- Find completed downloads in :material-symbols-files-outline: **Offline**. If you can't find this section, tap :material-symbols-stream-rounded: **Extension** and select :material-symbols-files-outline: **Offline**.
 
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/-TamZ_J7NmA" frameborder="0" allowfullscreen></iframe></div>
 
+### Transferring Playlists
 
+If you use an alternate Spotify account, transfer your data as follows:
 
-## Transferring playlist
+### Exporting Playlists as CSV
 
-Using the Spotify extension can lead to account suspension. It’s best to use an alternate account and transfer all your data there.
-
-### Spotify
-
-::: tabs
-== CSV
-- Go to [**Exportify**](https://exportify.net)
-- Login with Spotify
+- Visit [**Exportify**](https://exportify.net)
+- Log in with Spotify
 - Click "**Export**" beside each playlist
 - Save the CSV files
 
-== Acc-to-Acc
-Alternatively, you can use [Trikatuka](https://trikatuka.aknakn.eu/#/) to transfer data between Spotify accounts.
+### Account To Account Playlist Transfer
+
+::: tabs
+
+== Trikatuka
+
+To transfer playlists between Spotify accounts using Trikatuka:
+
+1. Go to [Trikatuka](https://trikatuka.aknakn.eu/#/).
+2. Log in with your source Spotify account.
+3. Select the playlists you want to transfer.
+4. Log out and log in with your destination Spotify account.
+5. Import the previously selected playlists into the new account.
+
+== SpotMyBackup
+
+To transfer playlists using SpotMyBackup:
+
+1. Visit [SpotMyBackup](http://www.spotmybackup.com/).
+2. Log in with your source Spotify account.
+3. Click "Backup" to export your playlists as a file.
+4. Log out and log in with your destination Spotify account.
+5. Click "Restore" and upload the backup file to import your playlists.
+
+
+== SpotifyMigrator (Advanced)
+
+>[!INFO]
+This guide is more advanced than the other two and requires some more time to setup and configure. This guide is here as an alternative in case the other two no longer work. For more details and troubleshooting, see the [official documentation](https://github.com/JustSxm/SpotifyMigrator#readme).
+
+[SpotifyMigrator](https://github.com/JustSxm/SpotifyMigrator) is an application to help you transfer your data from an account to another account. It requires some technical setup.
+
+**Steps:**
+
+1. **Spotify App Configuration**  
+   - Create an app on the [Spotify Developer Website](https://developer.spotify.com/dashboard/applications).
+   - Fill out the **App Name**, **App Description** and **Redirect URI**. For the **Redirect URI**, use `http://localhost:5009/api/Spotify`
+   - Click on **Settings**, then **User Management**. Add the email of the other account you are **not currently logged in with** (new or old) to give it access to the application. Once you filled out the details, click **Add User**.
+
+2. **Migrator App Configuration**  
+   - Download the [Release](https://github.com/JustSxm/SpotifyMigrator/releases).
+   - Open `wwwroot/appsettings.json`.
+   - Put the **Client ID** of the application you just created (found in **Basic Information**).
+   - If you are using the application for migrating your liked songs into **multiple playlists**, put the **ID** of a playlist where all the songs migrated will be put. If you don't need it, just create a **temporary playlis**t and delete it after using the application.
+   - Once done, save and exit.
+   - Now open `appsettings.json`.
+   - Put the **Client ID & Client Secret** of the application you just created (found in **Basic Information**).
+
+3. **Running The Migration Tool**  
+   - If you are on Windows, simply open `SpotifyMigrator.Server.exe`. Then visit `localhost:3000` on your browser.
+   - If you are on Linux or Mac, simply run `dotnet SpotifyMigrator.Server.dll` in the command line
+   >[!INFO]
+   You will need [dotnet](https://dotnet.microsoft.com/en-us/download) installed to run the application on Linux or Mac.
+   - Then visit `localhost:3000` on your browser.
+
+4. **Demo:**
+   ![SpotifyMigrator Demo](https://raw.githubusercontent.com/JustSxm/SpotifyMigrator/master/meta/demo.gif)
+
 :::
 
-<br>
+## 3. Troubleshooting Common Issues
 
-# Troubleshooting
+### General Issues
 
-## General
+#### Extension Update Problems
 
-### Extension Update Issue
-Some ISPs might block GitHub raw or gist URLs, which can prevent extension updates. To work around this, use a [VPN](/qs#vpn).
+- Some ISPs block GitHub Raw/Gist URLs, which can prevent extension updates.
+- **Solution:** Use a [VPN](/qs#vpn) to bypass these restrictions.
 
+#### Extensions Out of Date
 
-### Out of Date
+- Update your extensions ([see instructions](#updating-extensions)).
+- Force stop the app and re-open Echo.
 
-Your current extensions need to be updated. Follow these steps:
-- [Update your extension(s)](#updating-extension)
-- Force stop the app
-- Open Echo again
+---
 
+### Deezer Issues
 
-## Deezer
+#### Deezer Not Available in Your Country
 
-### Deezer not available in my country
-Use a [VPN](/qs#vpn) to create your Deezer account. After that, you can access Deezer without a VPN by using a proxy server. To set up a proxy, go to :material-symbols-settings-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension** -> **Deezer** -> **Use Proxy**, and select a proxy server from the list.
+- Use a [VPN](/qs#vpn) to create your Deezer account.
+- Afterward, you can use a proxy server for access:
+  - Go to :material-symbols-settings-rounded: **Settings** → :material-symbols-stream-rounded: **Extension** → **Deezer** → **Use Proxy** and select a server.
 
-### Null error
-Null error usually occurs due to network issues, non-functional proxy, or incorrect login credentials.
+#### Null Error
 
-## Download / EchoDown
+- Usually caused by network issues, a non-functional proxy, or incorrect login credentials.
 
-### Downloaded file not the highest quality
-By default, EchoDown downloads files in medium quality. To change this, go to :material-symbols-settings-rounded: **Settings** -> :material-symbols-stream-rounded: **Extension** -> **Misc** -> **EchoDown** and tap **Download Quality**. Then select **Highest**.
+---
 
-### open failed: ENOENT (No such file or directory)
-You will see this error if you move or delete the downloaded folder from its original location. To fix it, either move the folder back to its original location or remove it from :material-symbols-download-for-offline-outline-rounded: **Downloads** and use the :material-symbols-files-outline: **Offline** extension to play the files.
+### Downloading / EchoDown Issues
 
-## Spotify
+#### Downloaded File Not Highest Quality
 
-### Extension outdated despite being latest
-- Go to your Spotify [personal info settings](https://www.spotify.com/account/profile/).
-- Change "Country or region"
+- By default, EchoDown uses medium quality.
+- To change: :material-symbols-settings-rounded: **Settings** → :material-symbols-stream-rounded: **Extension** → **Misc** → **EchoDown** → **Download Quality** → select **Highest**.
 
-### Oops! Something went wrong
-While logging into the Spotify extension, if you encounter the error `Oops! Something went wrong, please try again or check out our help area`, try logging in using the password method instead of the OTP method. You can also check the help area.
+#### "open failed: ENOENT (No such file or directory)"
 
-If both of them don’t work, force close the app, reopen it, and try again.
+- This happens if you move or delete the downloaded folder.
+- Fix: Move the folder back, or remove it from :material-symbols-download-for-offline-outline-rounded: **Downloads** and use :material-symbols-files-outline: **Offline** to play files.
 
-### Socket Closed
-Force close the app and reopen it. Alternatively, switch to incognito mode in the extension and log back in.
+---
 
-To enter incognito mode:
-- Tap the :material-symbols-account-circle-full: button at the top right
-- Select :mdi-incognito: **Incognito**
+### Spotify Issues
 
+#### Extension Outdated Despite Being Latest
 
-### Spotify stored token required
-Log out of the Spotify extension, then force close the app. Reopen it and log back into the Spotify extension.
+- Go to your [Spotify Personal Info Settings](https://www.spotify.com/account/profile/).
+- Change your "Country or region".
 
+#### "Oops! Something went wrong"
 
-## YouTube Music
+- If you see this error while logging in, try using the password method instead of OTP.
+- If it persists, force close and reopen the app, then try again.
 
-::: info Under Rewrite
-The YouTube Music extension is currently being rewritten. Several bugs are present in the current version, and fixes will be included in the upcoming rewrite update. If you're experiencing login issues, retrying is the only available workaround for now.
+#### Socket Closed
+
+- Force close and reopen Echo.
+- Or, switch to incognito mode in the extension and log back in:
+  - Tap :material-symbols-account-circle-full: at the top right
+  - Select :mdi-incognito: **Incognito**
+
+#### "Spotify stored token required"
+
+- Log out of the Spotify extension, force close Echo, reopen, and log back in.
+
+---
+
+### YouTube Music Issues
+
+::: info
+The extension has recently been updated to fix all the errors users faced. As time goes, this part will be updated for any common error codes that pop up.
 :::
+
+### Discord RPC Issues
+
+::: info
+There is a known issue, specifically with logging into the extension. You'll have to wait for an update that fixes this before you're able to use the RPC features again in Echo.
+:::
+
+---
