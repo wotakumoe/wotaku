@@ -459,7 +459,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 ## Browser
 
 ### Extension
-- [AudD Music](https://github.com/AudDMusic) :s::cs: [:cr:](https://chromewebstore.google.com/detail/lhhohkfofnfbnildpdhhjeeenapeceei) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/audd/)
+- [AudD Music](https://github.com/AudDMusic) :s::cs: [:ff:](https://addons.mozilla.org/en-US/firefox/addon/audd/)
 - [AHA Music](https://aha-music.com/) :cs: [:cr:](https://chromewebstore.google.com/detail/aha-music-song-finder-for/dpacanjfikmhoddligfbehkpomnbgblf)
 - [BetterRYM](https://github.com/jgchk/better-rym) [:cr:](https://chromewebstore.google.com/detail/pdbgknkejapoehgogijhmahhpiimlhjg) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/better-rym/) 
 - [Spotify Lyrics](https://github.com/mantou132/Spotify-Lyrics) :cr::ff:
