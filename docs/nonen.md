@@ -404,13 +404,13 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [MangaReader](https://mangareader.to/home)
 - [Pixiv Comics](https://comic.pixiv.net/)
 - [RAW 1001](https://raw1001.net/home) [:prx:](https://rentry.org/wotaxy#raw1001)
+- [Rawdevart](https://rawdevart.art/)
 - [Rawkuma](https://rawkuma.net/)
 - [RAW LAZY](https://rawlazy.io/)
 - [Raw Otaku](https://rawotaku.com/home/) [:prx:](https://rentry.org/wotaxy#raw-otaku)
-- [RawUwU](https://rawuwu.com/) [:alt:](https://rawdevart.art/)
 - [Sen Manga](https://raw.senmanga.com/)
 - [Spoilerraw](https://spoilerraw.net/)
-- [Syosetu](https://syosetu.my/)
+- [Syosetu](https://syosetu.ax/)
 - [Twicomi](https://twicomi.com/)
 
 ### Download
