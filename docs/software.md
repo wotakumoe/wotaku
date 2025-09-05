@@ -225,7 +225,7 @@ Torrent streaming is really convenient compared to downloading and watching. How
 | [Shiru](https://github.com/RockinChaos/Shiru) ==Shiru== | :win::app::lin: | :mag: | :mal::al: |
 | [Stremio](https://www.stremio.com/) | :win::app::lin: | :mag::ddl: | :mal::al::k::simkl: |
 | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi) | :win::app::lin: | :mag::ddl: | :mal::al::k: |
-| [Seanime](https://seanime.rahim.app/) | :win::app::lin: | :mag::ddl: | :al: |
+| [Seanime](https://seanime.app/) | :win::app::lin: | :mag::ddl: | :al: |
 | [Unyo](https://github.com/K3vinb5/Unyo) | :win::app::lin: | :ddl: | :al: |
 | [AnymeX](https://anymex.vercel.app/) [:gh:](https://github.com/RyanYuuki/AnymeX) [:e:](/guides/ext/mangayomi) | :win::app::lin: | :ddl: | :mal::al::simkl: |
 
