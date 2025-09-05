@@ -124,6 +124,7 @@ og:
 - [Danbooru Viewer](https://danbooru.defaultkavy.com/) [:gh:](https://github.com/defaultkavy-dev/danbooru-viewer)
 - [Moeview](https://moeview.app/) [:prx:](https://rentry.org/wotaxy#moeview)
 - [Pixiv Viewer](https://pixiv.pictures/) [:gh:](https://github.com/asadahimeka/pixiv-viewer)
+- [ScrollX](https://scrollx.org/)
 
 ## Games
 
