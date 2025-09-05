@@ -409,7 +409,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 ## Player
 
 ### Local
-- [AIMP](https://www.aimp.ru/) :s::win::lin::cs:
+- [AIMP](https://www.aimp.ru/) :s::win::cs:
 - [DeaDBeeF](https://deadbeef.sourceforge.io/) :lin:
 - [Elisa](https://apps.kde.org/elisa/) :win::app::lin: [:kde:](https://invent.kde.org/multimedia/elisa)
 - [Foobar2000](https://www.foobar2000.org/) :s::win::app::cs:
@@ -418,7 +418,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 - [MusicBee](https://www.getmusicbee.com/) :win::cs:
 - [Strawberry](https://www.strawberrymusicplayer.org/) :lin:
 - [WACUP](https://getwacup.com/) :win::cs:
-- [Amberol](https://apps.gnome.org/Amberol/) :lin:
 - [Tauon Music Box](https://tauonmusicbox.rocks/) :win::lin: <Badge type="info" text="Synced Lyrics" link="https://github.com/Taiko2k/TauonMusicBox/wiki/Lyrics#synced-lyrics" />
 
 ### Online

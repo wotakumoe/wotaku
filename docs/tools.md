@@ -139,7 +139,6 @@ og:
 - [mpv](https://mpv.io/) :s::win::app::lin: [:gh:](https://github.com/mpv-player/mpv)
   - [mpv Resources](#mpv)
 - [SMPlayer](https://www.smplayer.info/) :win::app::lin: [:gh:](https://github.com/smplayer-dev/smplayer)
-- [IINA](https://iina.io/) :app: [:gh:](https://github.com/iina/iina)
 - [MPC-HC](https://github.com/clsid2/mpc-hc) :win:
 - [K-Lite Codec Pack](https://codecguide.com/download_kl.htm) :win:
 
@@ -152,9 +151,12 @@ og:
 | ^^           | [mpv Script Wiki](https://github.com/mpv-player/mpv/wiki/User-Scripts) |  
 | ^^           | [Awesome mpv](https://github.com/stax76/awesome-mpv) |  
 | Utilities    | [MPV Easy](https://mpv-easy.github.io/mpv-build/) [:gh:](https://github.com/mpv-easy/mpv-easy) |
-| **Alt UI**    | [Haruna](https://haruna.kde.org/) :lin: |  
+| **Alt UI**    | [Celluloid](https://celluloid-player.github.io/) :lin: [:gh:](https://github.com/celluloid-player/celluloid) | 
+| ^^            | [Haruna](https://haruna.kde.org/) :lin: |  
+| ^^            | [IINA](https://iina.io/) :app: [:gh:](https://github.com/iina/iina) |
 | ^^           | [ModernX](https://github.com/cyl0/ModernX) |  
 | ^^           | [ModernZ](https://github.com/Samillion/ModernZ) |
+| ^^           | [mpc-qt](https://mpc-qt.github.io/) :win::lin: [:gh:](https://github.com/mpc-qt/mpc-qt) |
 | ^^           | [mpv.net](https://github.com/mpvnet-player/mpv.net) :s::win: |  
 | ^^           | [Tethys](https://github.com/Zren/mpv-osc-tethys) |  
 | ^^           | [uosc](https://github.com/tomasklaen/uosc) |  
