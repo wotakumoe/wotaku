@@ -4,7 +4,7 @@ description: Everything merch related!
 customDescription: Get information & guides on figurines, plushes, books, CDs, and more.
 outline: 2
 og:
-  image: https://i.wotaku.wiki/api/images/merch.png
+  image: https://i.wotaku.wiki/f/merch.png
 ---
 
 

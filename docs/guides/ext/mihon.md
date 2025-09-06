@@ -3,7 +3,7 @@ title: Mihon, Aniyomi & Dantotsu Extension Repos
 customDescription: Extension Repos & Guides for Mihon, Aniyomi & Dantotsu
 outline: [2,3]
 og:
-    image: https://i.wotaku.wiki/api/images/extension.png
+    image: https://i.wotaku.wiki/f/extension.png
 ---
 
 

@@ -117,7 +117,7 @@ async function generateImage({
           ? frontmatter.hero.tagline ?? frontmatter.description
           : frontmatter.description,
       // dir: getDir(url)
-      image: frontmatter.og?.image ?? 'https://i.wotaku.wiki/api/images/default.png'
+      image: frontmatter.og?.image ?? 'https://i.wotaku.wiki/f/default.png'
     }
   }
 

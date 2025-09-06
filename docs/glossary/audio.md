@@ -3,7 +3,7 @@ title: Audio Glossary
 customDescription: Audio terms that you need to know
 outline: [1,2]
 og:
-    image: https://i.wotaku.wiki/api/images/glossary.png
+    image: https://i.wotaku.wiki/f/glossary.png
 ---
 
 

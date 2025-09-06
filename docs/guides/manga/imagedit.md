@@ -3,7 +3,7 @@ title: Manga Image Editing
 customDescription: Image Magick guide for Grayscaling, Leveling, and Optimizing
 outline: [2,3]
 og:
-    image: https://i.wotaku.wiki/api/images/guide.png
+    image: https://i.wotaku.wiki/f/guide.png
 ---
 
 

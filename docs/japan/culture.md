@@ -4,7 +4,7 @@ description: Learn about Japanese Culture, History & Festivals!
 customDescription: Learn about Japanese Culture, History & Festivals!
 outline: [2,3]
 og:
-    image: https://i.wotaku.wiki/api/images/jp.png
+    image: https://i.wotaku.wiki/f/jp.png
 ---
 
 

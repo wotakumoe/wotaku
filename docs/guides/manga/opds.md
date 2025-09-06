@@ -2,7 +2,7 @@
 title: OPDS to your e-ink reader
 customDescription: Guide on how to self-host your library to your Kindle
 og:
-    image: https://i.wotaku.wiki/api/images/guide.png
+    image: https://i.wotaku.wiki/f/guide.png
 ---
 
 <GradientCard title="OPDS to your e-ink reader" description="Guide on how to self-host your library to your Kindle/Kobo" theme="turquoise" variant="thin"/>

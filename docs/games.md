@@ -4,7 +4,7 @@ description: Wotaku Games Megathread!
 customDescription: Wotaku Games Megathread! Everything Game-related in one page.
 outline: 2
 og:
-    image: https://i.wotaku.wiki/api/images/game.png
+    image: https://i.wotaku.wiki/f/game.png
 ---
 
 

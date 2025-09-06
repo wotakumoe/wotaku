@@ -2,7 +2,7 @@
 title: Torrent Glossary
 customDescription: All the basic torrent related terms
 og:
-    image: https://i.wotaku.wiki/api/images/tor.png
+    image: https://i.wotaku.wiki/f/tor.png
 ---
 
 

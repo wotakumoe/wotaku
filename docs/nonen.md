@@ -4,7 +4,7 @@ description: Otaku resources for other regions
 customDescription: Discover anime, manga, and other related content for all the languages.
 outline: 2
 og:
-    image: https://i.wotaku.wiki/api/images/nonen.png
+    image: https://i.wotaku.wiki/f/nonen.png
 ---
 
 

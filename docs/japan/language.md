@@ -4,7 +4,7 @@ description: Japanese language learning resources.
 customDescription: Japanese language learning resources.
 outline: [2,3]
 og:
-    image: https://i.wotaku.wiki/api/images/jp.png
+    image: https://i.wotaku.wiki/f/jp.png
 ---
 
 

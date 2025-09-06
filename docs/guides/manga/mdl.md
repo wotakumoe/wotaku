@@ -2,7 +2,7 @@
 title: Downloading manga
 customDescription: Guide on how to download manga in pc.
 og:
-    image: https://i.wotaku.wiki/api/images/guide.png
+    image: https://i.wotaku.wiki/f/guide.png
 ---
 
 <GradientCard title="Downloading manga" description="Guide on how to download manga in pc" theme="turquoise" variant="thin"/>

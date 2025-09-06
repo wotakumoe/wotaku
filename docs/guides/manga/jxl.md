@@ -4,7 +4,7 @@ description: Manga readers with JPEG XL / JXL support for Android, iOS & PC
 customDescription: Manga readers with JPEG XL / JXL support for Android, iOS & PC
 outline: [2,3]
 og:
-    image: https://i.wotaku.wiki/api/images/guide.png
+    image: https://i.wotaku.wiki/f/guide.png
 ---
 
 

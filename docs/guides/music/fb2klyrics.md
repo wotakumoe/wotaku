@@ -1,7 +1,7 @@
 ---
 exclude: true
 og:
-    image: https://i.wotaku.wiki/api/images/guide.png
+    image: https://i.wotaku.wiki/f/guide.png
 ---
 
 

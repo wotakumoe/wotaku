@@ -2,7 +2,7 @@
 title: Network Stream
 customDescription: Stream video files through DDL, IRC, and Torrent. Enjoy seamless online video streaming!
 og:
-    image: https://i.wotaku.wiki/api/images/guide.png
+    image: https://i.wotaku.wiki/f/guide.png
 ---
 
 

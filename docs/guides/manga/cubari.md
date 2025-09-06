@@ -2,7 +2,7 @@
 title: Cubari guide
 customDescription: Guide on how to proxy comic through Cubari.moe
 og:
-    image: https://i.wotaku.wiki/api/images/cubari.png
+    image: https://i.wotaku.wiki/f/cubari.png
 ---
 
 <GradientCard title="Cubari guide" description="Guide on how to proxy comic through Cubari.moe" theme="turquoise" variant="thin"/>

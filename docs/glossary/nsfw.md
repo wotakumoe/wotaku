@@ -2,7 +2,7 @@
 title: NSFW Glossary
 customDescription: Why not learn some words while reading or watching? Can help while searching.
 og:
-    image: https://i.wotaku.wiki/api/images/glossary.png
+    image: https://i.wotaku.wiki/f/glossary.png
 ---
 
 
