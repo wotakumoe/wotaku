@@ -111,6 +111,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [Mecha Gaikotsu](https://www.youtube.com/@MechaGaikotsu)
 - [Solaris Japan](https://www.youtube.com/@Solaris_Japan)
 - [Sukima Sangyo](https://www.youtube.com/@sukimasangyo)
+- [The Omnibus Collector](https://www.youtube.com/@omnibuscollector)
 
 
 ## Communities
