@@ -72,7 +72,6 @@ og:
 | - | - | - |
 | [Mantton](https://aegir.mantton.com/) | :flag-united-kingdom: | [Install](suwatte://list?url=https://aegir.mantton.com) |
 | [Jishnu](https://jishnusen.github.io/SuwatteSources/) [:gh:](https://github.com/jishnusen/SuwatteSources) | :global: | [Install](suwatte://list?url=https://jishnusen.github.io/SuwatteSources) |
-| [Seyden](https://seyden.github.io/extensions-suwatte-generic-6.0/generic/) [:gh:](https://github.com/Seyden/extensions-suwatte-generic-6.0/tree/generic) | :global: | [Install](suwatte://list?url=https://seyden.github.io/extensions-suwatte-generic-6.0/generic) |
 | [Seb](https://sebzzzzzzzzzzzzzzzz.github.io/sources/) | :global: | [Install](suwatte://list?url=https://sebzzzzzzzzzzzzzzzz.github.io/sources) |
 | [Kusahime](https://sources.kusahi.me/) | :global: | [Install](suwatte://list?url=https://sources.kusahi.me) |
 | [Community](https://community.suwatte.app/) | :global: | [Install](suwatte://list?url=https://community.suwatte.app) |
