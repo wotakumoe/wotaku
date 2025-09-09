@@ -74,4 +74,5 @@ og:
 | [Jishnu](https://jishnusen.github.io/SuwatteSources/) [:gh:](https://github.com/jishnusen/SuwatteSources) | :global: | [Install](suwatte://list?url=https://jishnusen.github.io/SuwatteSources) |
 | [Seb](https://sebzzzzzzzzzzzzzzzz.github.io/sources/) | :global: | [Install](suwatte://list?url=https://sebzzzzzzzzzzzzzzzz.github.io/sources) |
 | [Kusahime](https://sources.kusahi.me/) | :global: | [Install](suwatte://list?url=https://sources.kusahi.me) |
+| [ldez](https://ld3z.github.io/suwatte-sources/) [:gh:](https://github.com/ld3z/suwatte-sources) | :global: | [Install](suwatte://list?url=https://ld3z.github.io/suwatte-sources) |
 | [Community](https://community.suwatte.app/) | :global: | [Install](suwatte://list?url=https://community.suwatte.app) |
