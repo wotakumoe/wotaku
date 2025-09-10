@@ -348,6 +348,8 @@ og:
 - [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web) :s:
 - [uBlock Origin](https://github.com/gorhill/uBlock) :s:
 - [Violentmonkey](https://violentmonkey.github.io/) :s: [:gh:](https://github.com/violentmonkey/violentmonkey)
+- [CompliMate AI – AI compliance suite for privacy policies, cookie banners, terms & conditions, and global regulations](https://complimate-ai.com)
+
 
 ::: tip [**Click here**](/guides/tech/adblock) for full adblock solutions.
 :::
