@@ -103,10 +103,10 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | ^^         | [Metrolist](https://github.com/mostafaalagamy/metrolist) |
 | **iOS**    | [Flacbox](https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256) :cs: |
 | **PC**     | [Foobar2000](https://www.foobar2000.org/) :s::win::app::cs: |
-| ^^         | [AIMP](https://www.aimp.ru/) :s::win::lin::cs: |
+| ^^         | [AIMP](https://www.aimp.ru/) :s::win::cs: |
 | ^^         | [MusicBee](https://www.getmusicbee.com/) :win::cs: |
-| ^^         | [Spicetify](https://spicetify.app/) :win::app::lin: |
-| ^^         | [SPOTX](https://github.com/SpotX-Official/SpotX) :win: |
+| ^^         | [Fooyin](https://fooyin.org/) :s::lin: |
+| ^^         | [Audacious](https://audacious-media-player.org/) :win::app::lin: |
 
 
 ![](/banner/essentails.webp)
