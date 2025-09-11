@@ -34,7 +34,7 @@ outline: 1
 | [Sudatchi](https://sudatchi.com/) ==Sudatchi== | :mingcute-server-fill: | :mingcute-refresh-2-fill: | :cc: |
 | [AniZone](https://anizone.to/) ==AniZone== | :mingcute-server-fill: | :no: | :cc: |
 | [AniXL](https://anixl.to/) | :mingcute-server-fill: | :mingcute-user-2-fill: | :cc: |
-| [Animepahe](https://animepahe.ru/) ==Animepahe== | :mingcute-server-fill: | :no: | :hs: |
+| [Animepahe](https://animepahe.si/) ==Animepahe== | :mingcute-server-fill: | :no: | :hs: |
 
 :::details More
 
@@ -216,7 +216,7 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 - [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy)
 - [MangaReader](https://mangareader.to/home)
 - [MangaHasu](https://mangahasu.me/)
-- [MangaTARO](https://mangataro.net/home)
+- [MangaTARO](https://mangataro.org/home)
 - [Mangahub](https://mangahub.io/) :acc:
 - [Dynasty Reader](https://dynasty-scans.com/) 
 - [Like Manga](https://likemanga.in) [:alt:](https://likemanga.ink/)
