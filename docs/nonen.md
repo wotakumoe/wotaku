@@ -295,7 +295,6 @@ og:
   - [1XAnime](https://www.1xanime.org/)
   - [AllWish](https://all-wish.me/home)
   - [Anime World India](https://watchanimeworld.in/)
-  - [Anisaga](https://anisaga.org/)
   - [Dora Bash](https://dorabash.com/)
   - [ToonStream](https://toonstream.love/)
 - **DDL**
