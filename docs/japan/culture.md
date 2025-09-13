@@ -111,7 +111,7 @@ og:
 ### YouTube
 - [Champ's Japanese Kitchen](https://www.youtube.com/@ChampsJapaneseKitchen)
 - [CHEF'S LABO](https://www.youtube.com/@CHEFSLABO)
-- [Nigiricco](https://www.youtube.com/@nigiricco)
+- [Nigiricco](https://www.youtube.com/c/obentotyu%E3%81%8A%E5%BC%81%E5%BD%93%E4%B8%AD)
 - [ochikeron](https://www.youtube.com/@ochikeron)
 - [Taiji's Kitchen](https://www.youtube.com/@taijiskitchen/)
 - [Anime with Alvin](https://www.youtube.com/playlist?list=PLopY4n17t8RAHz5OSGQP6I9z7UZqAZ4WW)
