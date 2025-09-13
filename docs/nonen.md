@@ -127,7 +127,6 @@ og:
 - [Baozimh.org](https://baozimh.org/)
 - [Colamanga](https://www.colamanga.com/)
 - [Copymanga](https://www.mangacopy.com/) [:alt:](https://www.copy20.com/) :ero:
-- [DMZJ](https://www.idmzj.com/)
 - [Komiic](https://komiic.com/)
 - [Manga Reader](https://1zumii.github.io/manga-reader/#/) [:gh:](https://github.com/1zumii/manga-reader)
 - [Manhua Gui](https://www.manhuagui.com/)
@@ -300,7 +299,7 @@ og:
 - **DDL**
   - [Anime Academy](https://animeacademy.in/)
   - [ATOZ CARTOONIST](https://www.atozcartoonist.com/)
-  - [Dead Toons India](https://deadtoons.us/)
+  - [Dead Toons India](https://deadtoonsindia.cc/)
   - [PikaHD](https://pikahd.com/)
   - [Puretoons](https://puretoons.in/)
   - [SDToons](https://sdtoons.com/) :ero: [:alt:](https://sdtoons.in/)
@@ -315,7 +314,6 @@ og:
 ### Anime
 
 - **Info**
-  - [Best Release Indonesia](https://best-release.koisuru.web.id/) [:gh:](https://github.com/Aruh1/best-release-indonesia)
   - [Database Tontonan Wibu Indonesia](https://db.silveryasha.id/)
   - [Indonesian Fansubbers' Index](https://www.fansub.id/home)
 - **Stream**
@@ -573,7 +571,6 @@ ___
 - [AniFox](https://anifox.club/anime) <Badge type="info" text="Aggregator" />
 - [Anilibria](https://anilibria.top/) <Badge type="info" text="Sub" />
 - [AnimeBuff](https://animebuff.ru/) <Badge type="info" text="Sub" />
-- [AnimeGO](https://animego.org/) <Badge type="info" text="Aggregator" />
 - [AnimeJoy](https://animejoy.ru/)
 - [Animelayer](http://animelayer.ru/) :mag:
 - [AnimeLIB](https://anilib.me/)
