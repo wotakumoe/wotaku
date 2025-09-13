@@ -31,7 +31,7 @@ og:
 | ^^         | [Streams Charts](https://streamscharts.com/) |
 | ^^         | [Live Streamer Ranking](https://live-ranking.userlocal.jp/vtuber-ranking) :fjp: |
 | ^^         | [Ikioi Ranking](https://ikioi-ranking.com/) :fjp: |
-| ^^         | [Hololyzer](https://www.hololyzer.net/) |
+|Schedule    | [Hololyzer](https://www.hololyzer.net/) |
 | ^^         | [Userlocal](https://virtual-youtuber.userlocal.jp/) :fjp: |
 | ^^         | [vTubie](https://vtubie.com/) |
 | ^^         | [VTuber Schedule](https://vtuberschedules.com/) [:gh:](https://github.com/clovenski/vtuber-schedules) |
