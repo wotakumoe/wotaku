@@ -91,7 +91,7 @@ We have listed the most trusted rippers in the [**Nyaa section**](/websites#nyaa
 :::
 
 :::details What's the best website to read manga?
-Personal preference. Good online manga reading sites generally reupload nyaa releases (when it's available replacing/alongside the fantranslated one), but with added compression (e.g. [**Comick**](https://comick.io/home2), [**Weeb Central**](https://weebcentral.com/), [**MangaFire**](https://mangafire.to/home), [**Batoto**](https://battwo.com/v3x), [**Mangapark**](https://mangapark.net/)) & watermark on (almost) every page (mangafire :slightly-smiling-face: ). On the other hand, generic ones only keep the fan-translated ones. You can read a short description about the sites [**here**](/websites#manga).
+Personal preference. Good online manga reading sites generally reupload nyaa releases (when it's available replacing/alongside the fantranslated one), but with added compression (e.g. [**Weeb Central**](https://weebcentral.com/), [**MangaFire**](https://mangafire.to/home), [**Batoto**](https://battwo.com/v3x), [**Mangapark**](https://mangapark.net/)) & watermark on (almost) every page (mangafire :slightly-smiling-face: ). On the other hand, generic ones only keep the fan-translated ones. You can read a short description about the sites [**here**](/websites#manga).
 :::
 
 :::details When will the new volume of "X" get ripped?
@@ -111,7 +111,7 @@ There are a few options. [**CDisplayEx**](https://www.cdisplayex.com/), [**YACRe
 :::
 
 :::details What's the best extension for mihon / tachiyomi?
-Like websites, it's also personal preference. But to us, [**Madokami**](/guides/manga/madokami) (in terms of quality) & [**Comick**](https://comick.io/home2) (in terms of flexibility). There are also mangadex, batoto & others.
+Like with websites, it's also personal preference. But to us, it's [**Madokami**](/guides/manga/madokami) (in terms of quality). There are also MangaDex, Batoto & others.
 :::
 
 :::details Why are the manga pages filled with squares / artifacts?
@@ -119,11 +119,11 @@ Moiré. It generally happens during image downscaling. You can read about it in 
 :::
 
 :::details Where can I download manga in bulk?
-You can use multiple sources. [**Nyaa.si**](https://nyaa.si/), [**Madokami**](/guides/manga/madokami) or any other direct download websites like Comick or mangadex.
+You can use multiple sources. [**Nyaa.si**](https://nyaa.si/), [**Madokami**](/guides/manga/madokami), [**MangaDex**](https://mangadex.org/) or any other direct download sites.
 
 ### PC
 - For Nyaa.si, just use [**qBittorrent**](https://www.qbittorrent.org/). It's more than enough.
-- For other DDL sites (mangadex, comick, madokami), use [**Free Manga Downloader 2**](https://github.com/dazedcat19/FMD2).
+- For other DDL sites (MangaDex, Madokami), use [**Free Manga Downloader 2**](https://github.com/dazedcat19/FMD2).
 
 ### Android
 - For Nyaa.si, you can use [**libretorrent**](https://github.com/proninyaroslav/libretorrent), [**Flud**](https://play.google.com/store/apps/details?id=com.delphicoder.flud) or [**1DM**](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US).

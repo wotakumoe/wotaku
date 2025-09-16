@@ -46,8 +46,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 
 | Category   | Resource |
 |------------|--------------------------------------------------|
-| **Online** | [ComicK](https://comick.io/home2) |
-| ^^         | [Weeb Central](https://weebcentral.com/) |
+| **Online** | [Weeb Central](https://weebcentral.com/) |
 | ^^         | [Batoto](https://battwo.com/v3x) [:prx:](https://rentry.co/batoto) |
 | **Download**  | [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap) |
 | ^^         | [Madokami](https://manga.madokami.al) :s: [:help:](/guides/manga/madokami) |

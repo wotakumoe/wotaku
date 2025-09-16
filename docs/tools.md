@@ -386,7 +386,7 @@ og:
 ## Manga
 
 - [MangaDex Condensed](https://greasyfork.org/en/scripts/429495-mangadex-condensed)
-- [Mangadex Follows](https://greasyfork.org/en/scripts/430295-new-mangadex-follows)
+- [MangaDex Follows](https://greasyfork.org/en/scripts/430295-new-mangadex-follows)
 - [Manga Online Viewer](https://github.com/TagoDR/MangaOnlineViewer)
 - [MangaPlusPlus](https://github.com/kmsomebody/MangaPlusPlus)
 

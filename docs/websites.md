@@ -201,7 +201,6 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 
 ## Online
 
-- [ComicK](https://comick.io/home2) :s: [:rss:](https://manga-ldez.vercel.app/) ==ComicK==  
 - [Weeb Central](https://weebcentral.com/) ==WeebCentral==  
 - [Batoto](https://battwo.com/v3x) [:prx:](https://rentry.co/batoto) ==Batoto==  
 - [MangaPark](https://mangapark.net/) [:prx:](https://rentry.co/mangapark)

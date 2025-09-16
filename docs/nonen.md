@@ -22,7 +22,6 @@ og:
 - [Sudatchi](https://sudatchi.com/)
 
 ### Manga
-- [ComicK](https://comick.io/home2) [:rss:](https://manga-ldez.vercel.app/) 
 - [Batoto](https://battwo.com/v3x)
 - [MangaDex](https://mangadex.org/) [:rss:](https://mdrss.tijlvdb.me/)
 - [Nine Manga](https://www.ninemanga.com/)

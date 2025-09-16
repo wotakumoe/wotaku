@@ -24,7 +24,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 
 ## Discord servers
 
-### A-F
+### A-G
 - [ACE SCANS](https://discord.gg/e5kFjW8u3Q)
 - [AGR Community](https://discord.gg/YjuSSE273C)
 - [r/Anime](https://discord.gg/r-anime)
@@ -33,16 +33,15 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [Batoto](https://discord.gg/batoto)
 - [Boredom Society Scanlations](https://discord.gg/NNS8cRR)
 - [Circle](https://discord.gg/85KtgSjkJJ)
-- [ComicK](https://discord.gg/comick)
 - [Crunchyroll](https://discord.gg/crunchyroll)
 - [Danke fürs Lesen](https://discord.gg/nxkDPvDhgv)
 - [DigimonBasic](https://discord.gg/B3RXtnXRSG)
 - [Doujin Cafe](https://discord.gg/doujincafe)
 - [DoujinStyle](https://discord.gg/z2QDFdA)
-
-### G-M
 - [GetComics](https://discord.gg/G7UwGPZDJ7)
 - [GJM - Subtitling Hub](https://discord.gg/0jeKKhzGn3EBNDI2)
+
+### H-M
 - [HiAnime](https://discord.gg/hianime)
 - [Japanese Language Study Space](https://discord.gg/jlss)
 - [KickAssAnime Support](https://discord.gg/6EGTnNQAaV)
