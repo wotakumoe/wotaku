@@ -36,12 +36,6 @@ This guide is for PC (specifically Windows) using [FMD 2](https://github.com/daz
 | ^^               | Options will show settings specific to each module.                                                                                |
 | ^^               | Advanced is for module-specific proxy and connection settings.                                                                     |
 
-::: tip Comick
-For Comick, go to "Options > Websites > Options > Comick":
-- Select the language you want.
-- Check the scanlation group.
-:::
-
 ### Downloading
 - Go to "Manga info".
 - Paste the comic URL into "Input rule here" and click :ic-outline-arrow-forward:. It will load all the chapters.
