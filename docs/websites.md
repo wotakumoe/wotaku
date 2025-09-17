@@ -201,16 +201,17 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 
 ## Online
 
-- [Weeb Central](https://weebcentral.com/) ==WeebCentral==  
 - [Batoto](https://battwo.com/v3x) [:prx:](https://rentry.co/batoto) ==Batoto==  
 - [MangaPark](https://mangapark.net/) [:prx:](https://rentry.co/mangapark)
-- [MangaFire](https://mangafire.to/home) ==MangaFire==  
+- [Weeb Central](https://weebcentral.com/) ==WeebCentral==  
 - [Kagane](https://kagane.org/) ==Kagane==
+- [MangaFire](https://mangafire.to/home) ==MangaFire==  
+- [MangaDex](https://mangadex.org/) [:rss:](https://mdrss.tijlvdb.me/) ==MangaDex==  
 
 
 
 ::: details More
-- [MangaDex](https://mangadex.org/) [:rss:](https://mdrss.tijlvdb.me/) ==MangaDex==  
+- [Atsumaru](https://atsu.moe/)
 - [Manga Katana](https://mangakatana.com/)
 - [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy)
 - [MangaReader](https://mangareader.to/home)
