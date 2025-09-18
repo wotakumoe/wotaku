@@ -156,6 +156,7 @@ outline: 1
 | ^^ | [Chauthanh](https://chauthanh.info/) :ddl::acc: |
 | ^^ | [hi10anime](https://hi10anime.com/) :ddl::mag::acc::batch: |
 | **Subtitles** | [Anime Tosho](https://animetosho.org/) |
+| ^^ | [Closed Caption Browser](https://cc.edatribe.com/#/) <Badge type="info" text="Dubtitles" /> |
 | ^^ | [Open Subtitles](https://opensubtitles.org/) |
 
 ::: tip Batch Downloading from Google Drive
