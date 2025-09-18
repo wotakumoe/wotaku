@@ -200,29 +200,38 @@ Almost all the sites feature erotic/mature content, so proceed with caution.
 All the listed sites contain a mix of Manga, Manhwa and Manhua.
 :::
 
+::: details Symbols
+- MAL-Sync Support -> :mingcute-refresh-2-fill:
+- In-site Account -> :mingcute-user-2-fill:
+- Comment Section -> :ic-round-mode-comment:
+- Forum -> :ic-round-forum:
+
+:::
+
 ## Online
 
-- [Batoto](https://battwo.com/v3x) [:prx:](https://rentry.co/batoto) ==Batoto==  
-- [MangaPark](https://mangapark.net/) [:prx:](https://rentry.co/mangapark)
-- [Weeb Central](https://weebcentral.com/) ==WeebCentral==  
-- [Kagane](https://kagane.org/) ==Kagane==
-- [MangaFire](https://mangafire.to/home) ==MangaFire==  
-- [MangaDex](https://mangadex.org/) [:rss:](https://mdrss.tijlvdb.me/) ==MangaDex==  
-
-
+| Websites | Login | Social |
+|----------|-------|-------|
+| [Batoto](https://battwo.com/v3x) [:prx:](https://rentry.co/batoto) ==Batoto== | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
+| [MangaPark](https://mangapark.net/) [:prx:](https://rentry.co/mangapark) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
+| [Weeb Central](https://weebcentral.com/) ==WeebCentral== | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
+| [Kagane](https://kagane.org/) ==Kagane== | :no: | :no: |
+| [MangaFire](https://mangafire.to/home) ==MangaFire== | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :no: |
+| [MangaDex](https://mangadex.org/) [:rss:](https://mdrss.tijlvdb.me/) ==MangaDex== | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
 
 ::: details More
-- [Atsumaru](https://atsu.moe/)
-- [Manga Katana](https://mangakatana.com/)
-- [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy)
-- [MangaReader](https://mangareader.to/home)
-- [MangaTARO](https://mangataro.org/home)
-- [Mangahub](https://mangahub.io/) :acc:
-- [Dynasty Reader](https://dynasty-scans.com/) 
-- [Like Manga](https://likemanga.in) [:alt:](https://likemanga.ink/)
-- [Manga Fox](https://mangafox.la/) [:prx:](https://rentry.org/wotaxy#manga-fox)
-- [MangaKakalot](https://www.mangakakalot.gg/) [:prx:](https://rentry.org/wotaxy#mangakakalot)
-
+| Websites | Login | Social |
+|----------|-------|-------|
+| [Atsumaru](https://atsu.moe/) | :mingcute-refresh-2-fill: | :no: |
+| [Manga Katana](https://mangakatana.com/) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
+| [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
+| [MangaReader](https://mangareader.to/home) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
+| [MangaTARO](https://mangataro.org/home) | :mingcute-refresh-2-fill: | :ic-round-mode-comment: |
+| [Mangahub](https://mangahub.io/) :acc: | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
+| [Dynasty Reader](https://dynasty-scans.com/) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-forum: |
+| [Like Manga](https://likemanga.in) [:alt:](https://likemanga.ink/) | :mingcute-refresh-2-fill: | :ic-round-mode-comment: |
+| [Manga Fox](https://mangafox.la/) [:prx:](https://rentry.org/wotaxy#manga-fox) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
+| [MangaKakalot](https://www.mangakakalot.gg/) [:prx:](https://rentry.org/wotaxy#mangakakalot) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
 :::
 
 ::: details Scrapers
