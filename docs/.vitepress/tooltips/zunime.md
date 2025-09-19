@@ -1,1 +1,0 @@
-Scrapes HiAnime(yuki), Aniwave.se(miko) Animepahe(pahe) & Anizone (shiro)

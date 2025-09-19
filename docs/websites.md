@@ -68,7 +68,6 @@ outline: 1
 | [Enimoe](https://enimoe.live/) ==Enimoe== | :mingcute-refresh-2-fill: | :cc::hs: |
 | [Gojo](https://gojo.live/) [:alt:](https://animetsu.cc/) ==Gojo== | :mingcute-user-2-fill: | :hs: |
 | [Miruro](https://www.miruro.tv/) [:prx:](https://www.miruro.com) ==miruro== | :mingcute-refresh-2-fill: | :cc::hs: |
-| [Zunime](https://zunime.live/home) ==zunime== | :mingcute-user-2-fill: | :cc::hs: |
 
 
 :::
