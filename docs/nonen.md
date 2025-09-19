@@ -204,12 +204,13 @@ og:
 ### Anime
 
 - [AnimeKO](https://animeko.ws/)
+- [Anime-Kami](https://anime-kami.com/)
 - [Anime-Sama](https://anime-sama.fr/)
-- [AnimesUltra](https://v6.animesultra.net/)
+- [AnimesUltra](https://animesultra.org/)
 - [FanKai](http://fankai.fr/) [:alt:](https://linktr.ee/FanKai)
 - [FRAnime](https://franime.fr/)
 - [French Anime](https://french-anime.com/)
-- [JetAnime](https://vww.jetanimes.com/)
+- [JetAnime](https://on.jetanimes.com/)
 - [Mavanimes](https://mavanimes.co/)
 - [Sekai](https://sekai.one/)
 - [Streaming-integrale](https://streaming-integrale.com/)
