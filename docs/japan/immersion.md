@@ -43,7 +43,7 @@ og:
 
 ## Anime
 - [Anisub](https://anisub.tv/)
-- [Nyaa](https://nyaa.si/) <tooltip>Searching for anime with the 日 symbol will give results for uploads containing both chinese and japanese subs (usually statcked on top of each other). This trick works on both japanese and chinese trackers (found in the non-en section). The full nyaa link is: https://nyaa.si/?f=0&c=1_0&q=%E6%97%A5</tooltip>
+- [Nyaa](https://nyaa.si/) [:prx:](https://rentry.org/nyaap) <tooltip>Searching for anime with the 日 symbol will give results for uploads containing both chinese and japanese subs (usually statcked on top of each other). This trick works on both japanese and chinese trackers (found in the non-en section). The full nyaa link is: https://nyaa.si/?f=0&c=1_0&q=%E6%97%A5</tooltip>
 - [HiAnime](https://hianimez.to/home)
 - [Classics](https://animation.filmarchives.jp/index.html)
 
@@ -122,7 +122,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 - [Japanese Learner’s Anthology](https://rentry.org/wotadirect) 
 - [lolibrary](https://lolibrary.moe/) <tooltip>It's just an index, specially for TMW collection.</tooltip>
 - [Kakuyomu](https://kakuyomu.jp/) `WN`
-- [Nyaa](https://nyaa.si/?f=0&c=3_3&q=) :s:
+- [Nyaa](https://nyaa.si/?f=0&c=3_3&q=) :s: [:prx:](https://rentry.org/nyaap)
 - [Syosetu](https://syosetu.com/) `WN`
 - [TMW eBook Collection](https://rentry.org/wotadirect)
 
@@ -131,7 +131,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 ## Audio
 
 ### Audiobook
-- [Nyaa.si](https://nyaa.si/) :s:
+- [Nyaa.si](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap)
 - [Japanese Audiobook Collection](https://core6000.neocities.org/audio/) [:d:](https://discord.gg/nhqjydaR8j)
 - [TMW Japanese Audiobooks Collection](https://rentry.org/wotadirect)
 - [Librivox](https://librivox.org/)
