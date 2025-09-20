@@ -30,11 +30,12 @@ If you face any issues when connecting, try enabling **"Accept invalid SSL certi
 ## IRC Client
 - [Revolution IRC](https://f-droid.org/packages/io.mrarm.irc/) :and:
 - [IRCCloud](https://github.com/irccloud/android) :and:
-- [HexChat](https://hexchat.github.io/)	:win:<tooltip>Repo is archived, but still works properly.</tooltip>
+- [HexChat](https://hexchat.github.io/)	:s: :win:<tooltip>Repo is archived, but still works properly.</tooltip>
 - [mIRC](https://www.mirc.com/)	:win:
 - [AdiIRC](https://adiirc.com/)	:win:
 - [KVIrc](https://github.com/kvirc/KVIrc/releases) :win::lin::app:
 - [Irssi](https://irssi.org/) :lin:
+- [Konversation](https://flathub.org/en/apps/org.kde.konversation) :s: :lin:
 - [WeeChat](https://weechat.org/) :lin::app:
 - [LimeChat](https://apps.apple.com/us/app/limechat/id414030210) :app:
 
