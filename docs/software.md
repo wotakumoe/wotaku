@@ -90,6 +90,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 ### Local
 - [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) :fm::cs:
 - [ReadEra](https://play.google.com/store/apps/details?id=org.readera) :fm::cs:
+- [Readest](https://readest.com/) [:gh:](https://github.com/readest/readest)
 - [Librera Reader](https://github.com/foobnix/LibreraReader)
 - [Lithium: EPUB Reader](https://www.apkmirror.com/apk/faultexception/lithium-epub-reader/) :cs:
 - [Book's Story](https://github.com/Acclorite/book-story)
@@ -191,6 +192,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 
 ## Novel Readers
 - [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi)
+- [Readest](https://readest.com/) [:gh:](https://github.com/readest/readest) :paid::lcl:
 - [Yomu](https://www.yomu-reader.com/) :paid::cs::lcl:
 
 ## Trackers
@@ -283,6 +285,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | [Koodo Reader](https://www.koodoreader.com/) [:gh:](https://github.com/koodo-reader/koodo-reader) | :win::app::lin: |
 | [KOReader](https://koreader.rocks/) [:gh:](https://github.com/koreader/koreader) <Badge type="tip" text="rakuyomi" link="https://github.com/hanatsumi/rakuyomi" /> | :lin::material-symbols-chrome-reader-mode-outline: |
 | [Okular](https://okular.kde.org/) | :win::lin: |
+| [Readest](https://readest.com/) [:gh:](https://github.com/readest/readest) | :win::app::lin: |
 | [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) [:gh:](https://github.com/sumatrapdfreader/sumatrapdf) | :win: |
 | [Thorium reader](https://www.edrlab.org/software/thorium-reader/) [:gh:](https://github.com/edrlab/thorium-reader) | :win::app::lin: |
 | [Yomikiru](https://github.com/mienaiyami/yomikiru) | :win::lin: |
