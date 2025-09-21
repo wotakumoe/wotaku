@@ -125,8 +125,9 @@ You can also set up your client to do this automatically by adding it to the **C
 1. Download and install FMD2 from [**here**](https://github.com/dazedcat19/FMD2)
 2. Update all the modules and restart FMD2 after the update is complete. You can check the update process in `Options > Websites > Modules`
 3. Then go to `Options > Websites > Accounts` and add your Madokami credentials. After that select Madokami and click apply.
-4. Now go to **Manga info** and paste the URL in **Input URL here** and click :right-arrow:
-5. After it loads the chapters, select the chapters you want to download and click **Download**
+4. Set the number of downloaded files per task at the same time under `Options > Connections > Downloads` to 3.
+5. Now go to **Manga info** and paste the URL in **Input URL here** and click :right-arrow:
+6. After it loads the chapters, select the chapters you want to download and click **Download**
 
 <div class="video_wrapper"><iframe src="https://youtube.com/embed/BR3GR8S_Oqo" frameborder="0" allowfullscreen></iframe></div>
 
@@ -152,8 +153,8 @@ By default, FMD2 will save it as folder. Go to `Options > Save to > Save downloa
 
 :::
 
-::: info FMD2 limitation
-FMD2 can't download 3 files at a time. For that use **JDL2**.
+::: warning WEBP issue
+Note that FMD2's module uses Madokami's web reader, which can't read `.webp` files, thus resulting in errors.
 :::
 
 
