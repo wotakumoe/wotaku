@@ -659,6 +659,7 @@ ___
 
 ### Manga
 - [TuMangaOnline](https://zonatmo.com/)
+- [MangaOni](https://manga-oni.com/)
 - [Plot Twist No Fansub](https://plotnf.com/)
 - [AnzMangas](https://www.anzmangashd.com/)
 - [MangaCrab](https://mangacrab.yopres.com/inicio/)
