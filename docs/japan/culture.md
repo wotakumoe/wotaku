@@ -168,7 +168,6 @@ ___
 #### Otaku
 
 - [Anime Figures 101](https://youtube.com/playlist?list=PL67Usptllz-RMadnMX0oCWXqdiD2pAHnS)
-- [Doujinshi: Japan's Most Misunderstood Medium](https://www.youtube.com/watch?v=5N0VerI9DxE)
 - [IDOL - The Terrifying Reality of Perfect Blue](https://www.youtube.com/watch?v=WAcb_57r1Bo)
 - [Smoother animation ≠ Better animation [AI ENHANCED]](https://www.youtube.com/watch?v=_KRb_qV9P4g)
     - [reviewing your takes on animation](https://www.youtube.com/watch?v=OhcLATiI9Is)
