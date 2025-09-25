@@ -81,37 +81,47 @@ Below are official and community repositories for various types of extensions. U
 
 == Music
 
-| Developer        | Extension                                                                                   | Description                                                                                                   |
+| Developer        | Extension                                                                                  | Description                                                                                                   |
 |------------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| Abhishek         | [YouTube](https://github.com/Abhishek890/Eco-Youtube_Music/releases)                       | Play and browse music from YouTube and YouTube Music, often works without login.                              |
+| ^^               | [Saavn](https://github.com/Abhishek890/Echo-Saavn-Extension/releases)                      | Listen to streams from Saavn on Echo.                                                                         |
+| BitFable         | [DAB](https://github.com/BitFable/echo-dab-yeet-extension/releases)                        | Play and browse music from DAB Music on Echo.                                                                 |
 | brahmkshatriya   | [Spotify](https://github.com/brahmkshatriya/echo-spotify-extension/releases)               | Stream music from Spotify. Requires login for full access.                                                    |
-| ^^               | [YouTube](https://github.com/brahmkshatriya/echo-youtube-extension/releases)               | Play and browse music from YouTube and YouTube Music, often works without login.                              |
-| GrimXer0         | [TuneIn](https://github.com/GrimXer0/EchoTuneIn-extension/releases)                        | Listen to live radio stations and streams via TuneIn.                                                         |
 | LuftVerbot       | [Deezer](https://github.com/LuftVerbot/echo-deezer-extension/releases)                     | Access and stream music from Deezer. Login required to browse and play tracks.                                |
 | Secozzi          | [Jellyfin](https://github.com/Secozzi/echo-jellyfin-extension/releases)                    | Connect to your Jellyfin server to stream your personal music library.                                        |
 
+== Radio
+
+| Developer        | Extension                                                                                  | Description                                                                                                   |
+|------------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| m-tki            | [iHeartRadio](https://github.com/m-tki/echo-iheart-extension/releases)                     | Play music from iHeartRadio on Echo.                                                                          |
+| ^^               | [Radio Browser](https://github.com/m-tki/echo-radiobrowser-extension/releases)             | Play and browse radio from Radio Browser on Echo.                                                             |
+| ^^               | [TuneIn](https://github.com/m-tki/echo-tunein-extension/releases)                          | Listen to live radio stations and streams via TuneIn.                                                         |
+
 == Tracking
 
-| Developer    | Extension                                                                                   | Description                                                                                                   |
-|--------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| rebelonion   | [Last.fm](https://github.com/rebelonion/echo-lastfm/releases)                              | Scrobble your listening activity to Last.fm for music tracking and recommendations.                           |
+| Developer    | Extension                                                                                      | Description                                                                                                   |
+|--------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| rebelonion   | [Last.fm](https://github.com/rebelonion/echo-lastfm/releases)                                  | Scrobble your listening activity to Last.fm for music tracking and recommendations.                           |
 
 == Lyrics
 
-| Developer    | Extension                                                                                   | Description                                                                                                   |
-|--------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| rebelonion   | [Lyrics Translator](https://github.com/rebelonion/echo-lyrics-translator/releases)          | View and translate song lyrics in real time while listening.                                                  |
-| shub39       | [Genius](https://github.com/shub39/echo-genius-extension/releases)                         | Fetch lyrics and annotations from Genius for your currently playing song.                                     |
-| ^^           | [Kugou](https://github.com/shub39/echo-kugou-extension/releases)                           | Get lyrics from Kugou, including support for Chinese and international tracks.                                |
-| ^^           | [LRCLIB](https://github.com/shub39/echo-lrclib-extension/releases)                         | Access a large open-source lyrics database (LRCLIB) for synced and unsynced lyrics.                           |
-| ^^           | [MusixMatch](https://github.com/shub39/echo-musixmatch-extension/releases)                 | Display synced lyrics from MusixMatch, supporting many languages and artists.                                 |
+| Developer    | Extension                                                                                      | Description                                                                                                   |
+|--------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| rebelonion   | [Lyrics Translator](https://github.com/rebelonion/echo-lyrics-translator/releases)             | View and translate song lyrics in real time while listening.                                                  |
+| shub39       | [Genius](https://github.com/shub39/echo-genius-extension/releases)                             | Fetch lyrics and annotations from Genius for your currently playing song.                                     |
+| ^^           | [Kugou](https://github.com/shub39/echo-kugou-extension/releases)                               | Get lyrics from Kugou, including support for Chinese and international tracks.                                |
+| ^^           | [LRCLIB](https://github.com/shub39/echo-lrclib-extension/releases)                             | Access a large open-source lyrics database (LRCLIB) for synced and unsynced lyrics.                           |
+| ^^           | [MusixMatch](https://github.com/shub39/echo-musixmatch-extension/releases)                     | Display synced lyrics from MusixMatch, supporting many languages and artists.                                 |
 
 == Others
 
-| Developer        | Extension                                                                                   | Description                                                                                                   |
+| Developer        | Extension                                                                                  | Description                                                                                                   |
 |------------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | brahmkshatriya   | [Cineby](https://github.com/brahmkshatriya/echo-cineby-extension/releases)                 | Watch and manage movies and TV shows directly within Echo.                                                    |
-| brahmkshatriya   | [Discord RPC](https://github.com/brahmkshatriya/echo-discord/releases)                     | Show your currently playing music as a status on Discord using Rich Presence.                                 |
+| ^^               | [Discord RPC](https://github.com/brahmkshatriya/echo-discord/releases)                     | Show your currently playing music as a status on Discord using Rich Presence.                                 |
 | LuftVerbot       | [Echodown](https://github.com/LuftVerbot/echo-echodown-extension/releases)                 | Download music from supported streaming services for offline listening.                                       |
+| m-tki            | [IPTV](https://github.com/m-tki/echo-iptv-extension/releases)                              | Watch IPTV streams from IPTV-org on Echo.                                                                     |
 | rebelonion       | [ASMR One](https://github.com/rebelonion/echo-asmr-one/releases)                           | Stream relaxing ASMR audio content from ASMR One.                                                             |
 
 :::
