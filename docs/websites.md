@@ -533,6 +533,7 @@ Trackers have been moved to their [**own page**](/torrenting/trackers)!
 | ^^ | [Renta](https://www.ebookrenta.com/) |  
 | ^^ | [Shonen Jump](https://www.viz.com/sj-offer) <tooltip>Available in the United States, Canada, the United Kingdom, Ireland, New Zealand, Australia, South Africa, the Philippines, Singapore, and India.</tooltip> |  
 | ^^ | [VIZ Manga](https://www.viz.com/vm-offer) <tooltip>Available in the United States, the United Kingdom, Canada, Australia, New Zealand, and Ireland.</tooltip> |  
+| ^^ | [Yen Press](https://yenpress.com/) |  
 | ^^ | [YURI HUB](https://www.yurihub.com/) |  
 | **Manhwa & Manhua** | [Lezhin](https://www.lezhinus.com/en) |  
 | ^^ | [Manta](https://manta.net/en) |  
@@ -555,9 +556,9 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 - [Kodansha](https://kodansha.us/)
 - [Square Enix](https://squareenixmangaandbooks.square-enix-games.com/en-us)
 - [VIZ](https://www.viz.com/)
-- [Yen Press](https://yenpress.com/)
 - [WebNovel](https://www.webnovel.com/)
 - [Wuxia World](https://www.wuxiaworld.com/)
+- [Yen Press](https://yenpress.com/)
 
 ## Comics
 - [Comics Kingdom](https://comicskingdom.com/)
