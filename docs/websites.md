@@ -210,8 +210,8 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 
 | Websites | Login | Social |
 |----------|-------|-------|
-| [Batoto](https://battwo.com/v3x) [:prx:](https://rentry.org/wotaxy#batoto) ==Batoto== | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
-| [MangaPark](https://mangapark.net/) [:prx:](https://rentry.co/mangapark) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
+| [Batoto](https://battwo.com/v3x) [:prx:](https://batotomirrors.pages.dev/) ==Batoto== | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
+| [MangaPark](https://mangapark.net/) [:prx:](https://mangaparkmirrors.pages.dev/) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
 | [Weeb Central](https://weebcentral.com/) ==WeebCentral== | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
 | [Kagane](https://kagane.org/) ==Kagane== | :no: | :no: |
 | [MangaFire](https://mangafire.to/home) ==MangaFire== | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :no: |
