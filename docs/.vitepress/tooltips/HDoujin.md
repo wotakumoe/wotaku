@@ -1,1 +1,1 @@
-Side project of Schale Network, similar to nHentai.
+Side project of Schale Network. ExHentai mirror for manga and doujinshi, keeping the original resolution.
