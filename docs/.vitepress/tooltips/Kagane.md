@@ -1,6 +1,5 @@
 - Scrapes official sources.
 - Has pretty good quality.
 - Provides multi-source for series with multiple licensors.
-- Currently manhwa only, will add manga, manhua and OEL later on.
+- Has mostly manhwa, will add more manga, manhua and OEL later on.
 - Requires a browser with DRM support.
-- The search is still pretty bare-bones.
