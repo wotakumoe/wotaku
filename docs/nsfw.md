@@ -51,11 +51,11 @@ og:
 
 ### General
 - [E-Hentai](https://e-hentai.org/) :s: <Badge type="tip" text="Search Guide" link="https://e-hentaitagsearch.blogspot.com/" /> ==EHentai==
-- [nHentai](https://nhentai.net/) ==nHentai==
 - [Akuma](https://akuma.moe/) ==Akuma==
-- [HDoujin](https://hdoujin.org/) ==HDoujin==
+- [HDoujin](https://hdoujin.org/) :s: ==HDoujin==
 - [Hitomi](https://hitomi.la/) ==Hitomi==
 - [IMHentai](https://imhentai.xxx/) [:prx:](https://rentry.org/wotaxy#imhentai) ==IMHentai==
+- [nHentai](https://nhentai.net/) ==nHentai==
 - [Panda Backup](https://panda.chaika.moe/) ==PandaBackup==
 - [Schale Network](https://schale.network/) :s: [:prx:](https://gitgud.io/Schale/schale-network) ==SchaleNetwork==
 - [Yabai](https://yabai.si/) ==Yabai==
