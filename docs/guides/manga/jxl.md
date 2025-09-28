@@ -13,9 +13,9 @@ og:
 ## Readers
 
 ### Android
-- [Mihon](https://mihon.app/) [:gh:](https://github.com/mihonapp/mihon)
-  - [Yokai](https://mihon.app/forks/Yokai/) :s: [:gh:](https://github.com/null2264/yokai)
-  - [Komikku](https://komikku-app.github.io/) [:gh:](https://github.com/komikku-app/komikku)
+- [Mihon](https://mihon.app/) :s: [:gh:](https://github.com/mihonapp/mihon)
+- [Yokai](https://mihon.app/forks/Yokai/) [:gh:](https://github.com/null2264/yokai)
+- [Komikku](https://komikku-app.github.io/) [:gh:](https://github.com/komikku-app/komikku)
 - [Komelia](https://github.com/Snd-R/Komelia) <Badge type="info" text="Komga" />
 
 ### iOS
