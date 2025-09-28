@@ -24,7 +24,7 @@ og:
 
 ### PC
 - **Dedicated**
-  - [OpenComic](https://github.com/ollm/OpenComic) :s::win::app::lin:
+  - [OpenComic](https://opencomic.app/) :s::win::app::lin: [:gh:](https://github.com/ollm/OpenComic)
   - [NeeView](https://neelabo.github.io/NeeView/en-us/) :win: [:gh:](https://github.com/neelabo/NeeView)
   - [YACReader](https://www.yacreader.com/) :win::app::lin: :warning: [:gh:](https://github.com/YACReader/yacreader)<tooltip>For some lossy original images it won't work. Kinda random.</tooltip>
   - [Komelia](https://github.com/Snd-R/Komelia) :win::lin: <Badge type="info" text="Komga" />
