@@ -284,6 +284,7 @@ og:
 
 ## Hungarian
 - [AnimeDrive](https://animedrive.hu/)
+- [Mangashelf](https://mangashelf.co.il/)
 - [MagyarAnime](https://magyaranime.eu/)
 
 ## Indian
