@@ -342,6 +342,7 @@ To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/k
 - [Novel Bin](https://novelbin.com/) [:prx:](https://rentry.org/wotaxy#novel-bin)
 - [VyNovel](https://vynovel.com/)
 - [NovelFire](https://novelfire.net/home)
+- [NovelList](https://www.novellist.co/)
 
 :::details More
 - [All Novel](https://allnovel.org/)
