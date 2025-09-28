@@ -45,7 +45,7 @@ og:
 | Category  | Software |
 |-----------|----------|
 | **Local** | [mpvKt](https://github.com/abdallahmehiz/mpvKt) :and: [:n:](https://nightly.link/abdallahmehiz/mpvKt/workflows/nightlies/main) |
-| ^^        | [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en&gl=US) :s::and::cs: |
+| ^^        | ^[MX Player](Don't install play store version. It's bought by Amazon. Instead install Blatan's mod. You can get the codecs from https://mx.j2inter.com/download) :s: :and::cs: |
 | ^^        | [mpv-android](https://github.com/mpv-android/mpv-android) |
 | ^^        | [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) :and: |
 | ^^        | [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) :app::cs: |
