@@ -1,17 +1,9 @@
 <!--
-  Copyright (c) 2024 taskylizard
+  All Rights Reserved
 
-  Licensed under the Apache License, Version 2.0 (the "License");
-  you may not use this file except in compliance with the License.
-  You may obtain a copy of the License at
+  Copyright (c) 2025 taskylizard
 
-  http://www.apache.org/licenses/LICENSE-2.0
-
-  Unless required by applicable law or agreed to in writing, software
-  distributed under the License is distributed on an "AS IS" BASIS,
-  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-  See the License for the specific language governing permissions and
-  limitations under the License.
+  All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
 -->
 <script setup lang="ts">
 import DefaultTheme from 'vitepress/theme'
@@ -130,17 +122,11 @@ const { Layout } = DefaultTheme
 <template>
   <Layout>
     <template #layout-top>
-      <img
-        id="takodachi"
-        ref="takodachiRef"
-        src="/takodachi.webp"
-        alt="Takodachi"
-        class="pointer-events-none fixed absolute z-[9999] h-10 w-10 opacity-0 transition-opacity duration-500"
-        :style="{
+      <img id="takodachi" ref="takodachiRef" src="/takodachi.webp" alt="Takodachi"
+        class="pointer-events-none fixed absolute z-[9999] h-10 w-10 opacity-0 transition-opacity duration-500" :style="{
           left: `${position.x}px`,
           top: `${position.y}px`
-        }"
-      />
+        }" />
     </template>
     <template #not-found>
       <NotFoundComponent />

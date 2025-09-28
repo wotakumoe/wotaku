@@ -1,17 +1,9 @@
 <!--
-  Copyright (c) 2024 taskylizard
+  All Rights Reserved
 
-  Licensed under the Apache License, Version 2.0 (the "License");
-  you may not use this file except in compliance with the License.
-  You may obtain a copy of the License at
+  Copyright (c) 2025 taskylizard
 
-  http://www.apache.org/licenses/LICENSE-2.0
-
-  Unless required by applicable law or agreed to in writing, software
-  distributed under the License is distributed on an "AS IS" BASIS,
-  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-  See the License for the specific language governing permissions and
-  limitations under the License.
+  All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
 -->
 <script setup lang="ts">
 interface Props {
@@ -26,13 +18,8 @@ withDefaults(defineProps<Props>(), {
 </script>
 
 <template>
-  <component
-    :target="link ? '_blank' : undefined"
-    :is="link ? 'a' : 'span'"
-    class="VPBadge"
-    :class="link ? 'tip' : type"
-    :href="link"
-  >
+  <component :target="link ? '_blank' : undefined" :is="link ? 'a' : 'span'" class="VPBadge"
+    :class="link ? 'tip' : type" :href="link">
     <div v-if="icon" :class="icon" />
     <slot>{{ text }}</slot>
   </component>
@@ -57,24 +44,24 @@ withDefaults(defineProps<Props>(), {
   text-decoration: none !important;
 }
 
-.vp-doc h1 > .VPBadge {
+.vp-doc h1>.VPBadge {
   margin-top: 4px;
   vertical-align: top;
 }
 
-.vp-doc h2 > .VPBadge {
+.vp-doc h2>.VPBadge {
   margin-top: 3px;
   padding: 0 8px;
   vertical-align: top;
 }
 
-.vp-doc h3 > .VPBadge {
+.vp-doc h3>.VPBadge {
   vertical-align: middle;
 }
 
-.vp-doc h4 > .VPBadge,
-.vp-doc h5 > .VPBadge,
-.vp-doc h6 > .VPBadge {
+.vp-doc h4>.VPBadge,
+.vp-doc h5>.VPBadge,
+.vp-doc h6>.VPBadge {
   vertical-align: middle;
   line-height: 18px;
 }
