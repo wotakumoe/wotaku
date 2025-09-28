@@ -11,13 +11,13 @@ og:
 
 OPDS (Open Publication Distribution System) is a open standardized distribution system that allows you to deliver books, articles, mangas, etc. Think of it like RSS but for books and articles.
 
-OPDS is widely supported by most self-hosted library management systems, like Calibre, Kavita or Komga, and we'll dive on how to enable it on the three of them, but it's usually enabled by default.
+OPDS is widely supported by most self-hosted library management systems, like Calibre, [Kavita](https://wiki.kavitareader.com/guides/features/opds/), [Komga](https://komga.org/docs/guides/opds/) and [copyparty](https://github.com/9001/copyparty?tab=readme-ov-file#opds-feeds), and we'll dive on how to enable it on the three of them, but it's usually enabled by default.
 
 This guide will explain how to server your library available in your computer/server to your Kindle/Kobo device. We will be using the OPDS protocol as the main way of downloading our content to our device.
 
 ## Enabling OPDS
 
-### Calibre
+### Calibre (desktop)
 
 1. Connect/share -> Start Content server
 ![](/ss/opds/connect-share.png)
@@ -31,9 +31,8 @@ This guide will explain how to server your library available in your computer/se
 If you only have calibre-web it's already enabled by default.
 :::
 
-::: tip Komga
-You can follow [**the guide**](https://komga.org/docs/guides/opds/) on the official site
-
+::: tip Komga, Kavita and copyparty
+Links to their respective guides are on the top of this guide.
 :::
 
 ## Adding the repo to KOReader
