@@ -353,6 +353,7 @@ og:
 - [FansubDB.it](https://fansubdb.it/) [:rss:](https://fansubdb.it/feed)
 
 ### Anime
+- [AniDream](https://anidream.cc/)
 - [AnimeSaturn](https://www.anisaturn.com/) [:prx:](https://www.animesaturn.me/)
 - [AnimeUnity](https://www.animeunity.to/)
 - [AnimeWorld](https://www.animeworld.so/)
