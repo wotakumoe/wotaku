@@ -1,105 +1,108 @@
 /**
-*  All Rights Reserved
-*
-*  Copyright (c) 2025 taskylizard
-*
-*  All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
-*/
-import type { DefaultTheme, Plugin, UserConfig } from 'vitepress'
-import { generateImages, generateMeta } from './hooks'
-import { defs, movePlugin, aliases } from './markdown/emoji'
+ *  All Rights Reserved
+ *
+ *  Copyright (c) 2025 taskylizard
+ *
+ *  All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
+ */
+import type { DefaultTheme, Plugin, UserConfig } from "vitepress";
+import { generateImages, generateMeta } from "./hooks";
+import { defs, movePlugin, aliases } from "./markdown/emoji";
 import {
   PageProperties,
-  PagePropertiesMarkdownSection
-} from '@nolebase/vitepress-plugin-page-properties/vite'
+  PagePropertiesMarkdownSection,
+} from "@nolebase/vitepress-plugin-page-properties/vite";
 import {
   GitChangelog,
-  GitChangelogMarkdownSection
-} from '@nolebase/vitepress-plugin-git-changelog/vite'
-import { fileURLToPath, URL } from 'node:url'
-import UnoCSS from 'unocss/vite'
-import Devtools from 'vite-plugin-vue-devtools'
-import { configureMarkdown } from './markdown'
-import { GIT_COMMIT, hostname, nav, sidebar, siteConfig } from './constants'
+  GitChangelogMarkdownSection,
+} from "@nolebase/vitepress-plugin-git-changelog/vite";
+import { fileURLToPath, URL } from "node:url";
+import UnoCSS from "unocss/vite";
+import Devtools from "vite-plugin-vue-devtools";
+import { configureMarkdown } from "./markdown";
+import { GIT_COMMIT, hostname, nav, sidebar, siteConfig } from "./constants";
 
 export const shared: UserConfig<DefaultTheme.Config> = {
   ...siteConfig,
   transformHead: async (context) => generateMeta(context, hostname),
   buildEnd: async (context) => {
-    generateImages(context)
+    generateImages(context);
   },
   markdown: {
     emoji: { defs, shortcuts: aliases },
     config(md) {
-      configureMarkdown(md)
-    }
+      configureMarkdown(md);
+    },
   },
   themeConfig: {
     search: {
       options: {
         miniSearch: {
           searchOptions: {
-            combineWith: 'AND',
+            combineWith: "AND",
             fuzzy: false,
             // @ts-ignore
             boostDocument: (
               _,
               term,
-              storedFields: Record<string, string | string[]>
+              storedFields: Record<string, string | string[]>,
             ) => {
               const titles = (storedFields?.titles as string[])
                 .filter((t) => Boolean(t))
-                .map((t) => t.toLowerCase())
+                .map((t) => t.toLowerCase());
               // Uprate if term appears in titles. Add bonus for higher levels (i.e. lower index)
               const titleIndex =
                 titles
                   .map((t, i) => (t?.includes(term) ? i : -1))
-                  .find((i) => i >= 0) ?? -1
-              if (titleIndex >= 0) return 10000 - titleIndex
+                  .find((i) => i >= 0) ?? -1;
+              if (titleIndex >= 0) return 10000 - titleIndex;
 
-              return 1
-            }
-          }
+              return 1;
+            },
+          },
         },
-        detailedView: true
+        detailedView: true,
       },
-      provider: 'local'
+      provider: "local",
     },
-    logo: { src: '/asset/fav.png' },
+    logo: { src: "/asset/fav.png" },
     sidebar,
     nav,
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/wotakumoe/Wotaku' },
-      { icon: 'discord', link: 'https://discord.gg/vShRGx8ZBC' },
+      { icon: "github", link: "https://github.com/wotakumoe/Wotaku" },
+      { icon: "discord", link: "https://discord.gg/vShRGx8ZBC" },
       {
-        icon: 'bluesky',
-        link: 'https://bsky.app/profile/wotaku.wiki'
-      }
+        icon: "bluesky",
+        link: "https://bsky.app/profile/wotaku.wiki",
+      },
     ],
     footer: {
       message: `<a href="https://github.com/wotakumoe">The Wotaku Team</a> <span class="divider">|</span> <a href="https://github.com/wotakumoe/Wotaku/commit/${GIT_COMMIT}">${GIT_COMMIT.slice(
         0,
-        7
+        7,
       )}</a>`,
-      copyright: 'made with love and eepy energy'
-    }
+      copyright: "made with love and eepy energy",
+    },
   },
   vite: {
+    experimental: {
+      enableNativePlugin: true,
+    },
     optimizeDeps: {
       exclude: [
-        '@nolebase/vitepress-plugin-enhanced-readabilities/client',
-        '@nolebase/vitepress-plugin-git-changelog/client',
-        '@nolebase/vitepress-plugin-page-properties/client'
-      ]
+        "@nolebase/vitepress-plugin-enhanced-readabilities/client",
+        "@nolebase/vitepress-plugin-git-changelog/client",
+        "@nolebase/vitepress-plugin-page-properties/client",
+      ],
     },
     ssr: {
       noExternal: [
-        '@nolebase/vitepress-plugin-enhanced-readabilities',
-        '@nolebase/vitepress-plugin-page-properties',
-        '@nolebase/vitepress-plugin-git-changelog',
-        '@nolebase/ui',
-        '@fmhy/components'
-      ]
+        "@nolebase/vitepress-plugin-enhanced-readabilities",
+        "@nolebase/vitepress-plugin-page-properties",
+        "@nolebase/vitepress-plugin-git-changelog",
+        "@nolebase/ui",
+        "@fmhy/components",
+      ],
     },
     plugins: [
       Devtools(),
@@ -107,48 +110,48 @@ export const shared: UserConfig<DefaultTheme.Config> = {
       PagePropertiesMarkdownSection(),
       GitChangelog({
         maxGitLogCount: 20,
-        repoURL: 'https://github.com/wotakumoe/Wotaku'
+        repoURL: "https://github.com/wotakumoe/Wotaku",
       }),
       GitChangelogMarkdownSection({ sections: { disableContributors: true } }),
       UnoCSS({
-        configFile: '../unocss.config.ts'
+        configFile: "../unocss.config.ts",
       }),
       {
-        name: 'custom:adjust-order',
+        name: "custom:adjust-order",
         configResolved(c) {
           movePlugin(
             c.plugins as unknown as Plugin[],
-            'vitepress',
-            'before',
-            'unocss:transformers:pre'
-          )
+            "vitepress",
+            "before",
+            "unocss:transformers:pre",
+          );
           movePlugin(
             c.plugins as unknown as Plugin[],
-            'custom:tooltip-loader',
-            'before',
-            'vitepress'
-          )
-        }
-      }
+            "custom:tooltip-loader",
+            "before",
+            "vitepress",
+          );
+        },
+      },
     ],
     resolve: {
       alias: [
         {
           find: /^.*\/VPBadge\.vue$/,
           replacement: fileURLToPath(
-            new URL('../theme/components/Badge.vue', import.meta.url)
-          )
+            new URL("../theme/components/Badge.vue", import.meta.url),
+          ),
         },
         {
           find: /^.*VPSwitchAppearance\.vue$/,
           replacement: fileURLToPath(
             new URL(
-              '../theme/components/VPSwitchAppearance.vue',
-              import.meta.url
-            )
-          )
-        }
-      ]
-    }
-  }
-}
+              "../theme/components/VPSwitchAppearance.vue",
+              import.meta.url,
+            ),
+          ),
+        },
+      ],
+    },
+  },
+};
