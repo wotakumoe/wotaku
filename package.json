@@ -76,9 +76,6 @@
     "wrangler": "^4.40.2"
   },
   "pnpm": {
-    "overrides": {
-      "vite": "npm:rolldown-vite@latest"
-    },
     "peerDependencyRules": {
       "ignoreMissing": [
         "@algolia/client-search",
