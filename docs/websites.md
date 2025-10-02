@@ -220,7 +220,7 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 ::: details More
 | Websites | Login | Social |
 |----------|-------|-------|
-| [Atsumaru](https://atsu.moe/) | :mingcute-refresh-2-fill: | :no: |
+| [Atsumaru](https://atsu.moe/) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
 | [Manga Katana](https://mangakatana.com/) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
 | [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
 | [MangaReader](https://mangareader.to/home) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
