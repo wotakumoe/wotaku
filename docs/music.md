@@ -130,7 +130,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [Lucida](https://lucida.to/) :s: [:alt:](https://lucida.su/) | Qobuz, Tidal, Amazon Music, Deezer, Yandex |
 | [DoubleDouble](https://doubledouble.top/) :s: | Amazon Music, Beatport, Qobuz, Soundcloud, Tidal |
 | [DAB Music Player](https://dab.yeet.su/) [:alt:](https://dabmusic.xyz/) | Qobuz |
-| [Squid.wtf](https://squid.wtf/) | Deezer, Qobuz, THInsider |
+| [Squid.wtf](https://squid.wtf/) | KHInsider, Qobuz, Tidal |
 | [EZ-DL](https://ezdl.yeet.su/) | Qobuz |
 | [QQDL](https://qqdl.site/) | Qobuz |
 | [DeezMate](https://deezmate.com/) | Deezer |
