@@ -126,7 +126,7 @@ const sections = [
       { icon: 'i-material-symbols-info-outline-rounded', label: 'More Info' },
       { icon: 'i-ic-round-looks-two', label: 'Alternative' },
       { icon: 'i-simple-icons-rss', label: 'RSS Feed' },
-      { icon: 'i-mdi-airplane', label: 'Airgap / Transfer' },
+      { icon: 'i-mdi-airplane', label: 'Testflight' },
       { icon: 'i-twemoji-check-mark-button', label: 'Yes / Available' },
       { icon: 'i-twemoji-cross-mark', label: 'No / Unavailable' },
       { icon: 'i-twemoji-globe-showing-asia-australia', label: 'Global' },
