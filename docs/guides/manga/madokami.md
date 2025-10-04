@@ -87,8 +87,10 @@ If everything worked, you will now see a **sola** tab on the left (or at the top
 ![](/ss/mado/gacha.gif)
 
 
-::: warning Nickname Issues
-In case you followed this guide perfectly, but still aren't getting a reply from sola in the side tab, try removing any special symbols from your nick, leaving only letters and numbers. If the issue still persists, try picking a different nick alltogether. It could be that the current one was already registered by someone else, thereby causing a conflict.
+::: warning Possible Issues
+In case you followed this guide perfectly, but still aren't getting a reply from sola in the side tab, try the following:
+- Remove any special characters from your nick, leaving only letters and numbers, or use a more unique nick (in case someone else already registered it).
+- If you're using mobile data, switch to wi-fi.
 :::
 
 
