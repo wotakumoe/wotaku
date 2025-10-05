@@ -55,9 +55,6 @@ og:
 | Name | Region |
 | - | - |
 | [Module Library](https://library.cufiy.net/library/) | :global: |
-| [50/50](https://sora-modules.pages.dev/) [:cb:](https://codeberg.org/50n50/sources/) | :global: |
-| [ShadeOfChaos](https://github.com/ShadeOfChaos/Sora-Modules) | :global: |
-| [Xibrox](https://github.com/xibrox/sora-movie-module) | :global: |
 
 ::: tip Adding repo manually
 - Click on the **[site_name].json**
