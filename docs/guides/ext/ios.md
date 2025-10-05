@@ -55,6 +55,9 @@ og:
 | Name | Region |
 | - | - |
 | [Module Library](https://library.cufiy.net/library/) | :global: |
+| [50/50](https://gitlab.com/50n50/sources) | :global: |
+| [ShadeOfChaos](https://gitlab.com/ofchaos/modules) | :global: |
+| [Ibra](https://gitlab.com/sora-source/modules) | :global: |
 
 ::: tip Adding repo manually
 - Click on the **[site_name].json**
