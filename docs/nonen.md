@@ -464,7 +464,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^      | [XToon](https://t1.xtoon2.com/) | ^^ |
 | ^^      | [Anilife](https://anilife.live/) | Anime |
 | ^^      | [Anissia](https://anissia.net/) | Anime Subs |
-| ^^      | [GoPlay](https://goplay.su/) [:prx:](https://rentry.org/wotaxy#goplay) [:d:](https://discord.gg/yY2P3DQR8S) | Live Action |
+| ^^      | [GoPlay](https://goplay.su/) [:alt:](https://goplay.ml/) [:d:](https://discord.gg/yY2P3DQR8S) | Live Action |
 
 ### Software
 

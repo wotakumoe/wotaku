@@ -45,7 +45,6 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 
 - [Jaded Network's SFX library](http://thejadednetwork.com/sfx/)
 - [Japanese Onomatopoeia Search](https://nsk.sh/tools/jp-onomatopoeia/)
-- [Japanese Manga SFX](https://docs.google.com/spreadsheets/d/1iXFIVmSzukN1PYD1JakdqMmrNNlc7TtkutDKevuKM0c/edit#gid=2101741657)
 - [Japanese SFX](https://gist.github.com/UserUnknownFactor/093a2296c5a4d9ef7b404728ebde94a3)
 - [Manga Fonts Dictionary](https://mangafonts.carrd.co/)
 - [Scanlator School Fonts](https://drive.google.com/drive/folders/1hPV4o8fmxY2Ab9tXi84l0vVOUQEgFIbU)
