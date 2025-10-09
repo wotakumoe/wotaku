@@ -129,10 +129,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 |-|-|
 | [Lucida](https://lucida.to/) :s: [:alt:](https://lucida.su/) | Amazon Music, Deezer, Qobuz, Tidal, Yandex |
 | [DoubleDouble](https://doubledouble.top/) :s: | Amazon Music, Beatport, Qobuz, Soundcloud, Tidal |
-| [DAB Music Player](https://dab.yeet.su/) [:alt:](https://dabmusic.xyz/) | Qobuz |
-| [Squid.wtf](https://squid.wtf/) | KHInsider, Spectrum Analyzer, Tidal |
-| [EZ-DL](https://ezdl.yeet.su/) | Qobuz |
-| [QQDL](https://qqdl.site/) | Qobuz |
+| [Squid.wtf](https://squid.wtf/) | KHInsider, Tidal |
 | [DeezMate](https://deezmate.com/) | Deezer |
 | [Apple Music Downloader](https://aaplmusicdownloader.com/) ==amdl== | Apple Music (Lossy) |
 
