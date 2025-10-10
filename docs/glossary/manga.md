@@ -17,14 +17,14 @@ Not original content but based on an already existing work.
 
 | Title | Source |
 |-|-|
-| [Neon Genesis Evangelion](https://myanimelist.net/manga/698/) | Anime |
-| [No Longer Human](https://myanimelist.net/manga/106609) | Novel |
-| [Rascal Does Not Dream of Bunny Girl Senpai](https://myanimelist.net/manga/92182/) | Light Novel |
-| [Steins;Gate](https://myanimelist.net/manga/17517/) | Visual Novel |
-| [Persona 3](https://myanimelist.net/manga/2566) | JRPG |
-| [Josee, the Tiger and the Fish](https://myanimelist.net/manga/130661/) | Short Story |
-| [Goodbye Declaration](https://myanimelist.net/manga/151025) | Song |
-| [Love Live! School Idol Diary](https://myanimelist.net/manga/79473) | Franchise |
+| [Neon Genesis Evangelion](https://mangabaka.dev/1527) | Anime |
+| [No Longer Human](https://mangabaka.dev/28291) | Novel |
+| [Rascal Does Not Dream of Bunny Girl Senpai](https://mangabaka.dev/24398) | Light Novel |
+| [Steins;Gate](https://mangabaka.dev/19110) | Visual Novel |
+| [Persona 3](https://mangabaka.dev/16867) | JRPG |
+| [Josee, the Tiger and the Fish](https://mangabaka.dev/7881) | Short Story |
+| [Goodbye Declaration](https://mangabaka.dev/7579) | Song |
+| [Love Live! School Idol Diary](https://mangabaka.dev/21314) | Franchise |
 
 ### Mangaka
 Mangaka means the artist of the manga. Mangaka can also be the story writer. Generally, mangaka does everything by himself, but sometimes he may employ assistants to speed up the work and cope with the weekly release schedule.
@@ -88,7 +88,7 @@ At times, the beginning of a 4-Koma manga may feature a sizable illustration, sp
 
 == Long strip
 
-It's a newer type of comics format. Long strip comics are drawn for smartphone readers. The flow of the panels is up-down instead of traditional right-left/left-right. For long strip comics, the artist has to follow [different rules](https://www.webtoons.com/en/tiptoon/lozolz/webtoon-editing-tips/viewer?title_no=1268&episode_no=24) than in the traditional manga format. This format is widely used in the manhwa and manhua industries. But it's available for every region. Example: [Solo Leveling](https://myanimelist.net/manga/121496/) (Manhwa), [Relife](https://myanimelist.net/manga/78523/) (Manga), [The Beginning After the End](https://www.mangaupdates.com/series/rwg23en/) (OEL).
+It's a newer type of comics format. Long strip comics are drawn for smartphone readers. The flow of the panels is up-down instead of traditional right-left/left-right. For long strip comics, the artist has to follow [different rules](https://www.webtoons.com/en/tiptoon/lozolz/webtoon-editing-tips/viewer?title_no=1268&episode_no=24) than in the traditional manga format. This format is widely used in the manhwa and manhua industries. But it's available for every region. Example: [Solo Leveling](https://mangabaka.dev/3397) (Manhwa), [Relife](https://mangabaka.dev/9991) (Manga), [The Beginning After the End](https://mangabaka.dev/1238) (OEL).
 
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/0hESrODhTMk" frameborder="0" allowfullscreen></iframe></div>
 
@@ -131,7 +131,7 @@ Doujinshi refers to self-published works. It can be a standalone self-published 
 
 | Manga | Type |
 |-|-|
-| [Ganbare, Douki-chan](https://www.mangaupdates.com/series/gdd4cvg/) | Pre-serialization |
+| [Ganbare, Douki-chan](https://mangabaka.dev/38955) | Pre-serialization |
 | [Mangaka-sensei and the Zashiki Warashi (post ch. 29)](https://nukyui.booth.pm/) | Post-serialization |
 
 ### Magazine
@@ -169,7 +169,7 @@ Magazines are the most common medium of manga serialization, with the most popul
 Shueisha, Shogakukan and Hakusensha are owned by Hitotsubashi Group; Kadokawa Shoten and ASCII Media Works by Kadokawa Future Publishing.
 
 ### OEL Comics
-OEL, or Original English-language comics, originate in English-speaking countries. They prominently feature Asian cultural influences in their art styles, themes, and storytelling, while the creators, including artists and production, are primarily non-Asian. Prominent examples include [Bizenghast](https://www.mangaupdates.com/series/ia6dfoc/), [Attack on Titan Anthology](https://www.mangaupdates.com/series/bo81id9/), [Ghost in the Shell: Global Neural Network](https://www.mangaupdates.com/series/29bycqg/) and [The Beginning After the End](https://www.mangaupdates.com/series/rwg23en/the-beginning-after-the-end).
+OEL, or Original English-language comics, originate in English-speaking countries. They prominently feature Asian cultural influences in their art styles, themes, and storytelling, while the creators, including artists and production, are primarily non-Asian. Prominent examples include [Bizenghast](https://mangabaka.dev/57249), [Attack on Titan Anthology](https://mangabaka.dev/37047), [Ghost in the Shell: Global Neural Network](https://mangabaka.dev/63209) and [The Beginning After the End](https://mangabaka.dev/1238).
 
 ### Omake
 A bonus/extra chapter that doesn't really affect the main story. Generally it gives artworks, character backgrounds, mangaka notes or an extra story.
@@ -178,7 +178,7 @@ A bonus/extra chapter that doesn't really affect the main story. Generally it gi
 A release type characteristic of western publishers where multiple tankoubon volumes are contained in one book. It's most commonly seen as 2-in-1 or 3-in-1 editions. Example: [Don’t Call it Mystery](https://sevenseasentertainment.com/series/dont-call-it-mystery-omnibus/). They're usually larger format and can contain extras, especially if the series already had a tankoubon release previously. Sometime it can sometimes contain an entire series, like in the case of the [Death Note All-in-One volume](https://www.viz.com/manga-books/manga/death-note/product/5272).
 
 ### One-Shot
-A manga that's been published at once. The length of the story depends on the mangaka. Also, it can be serialized later. Example: [Kimi no Kaketeru Tokomo Suki](https://myanimelist.net/manga/154790/)
+A manga that's been published at once. The length of the story depends on the mangaka. Also, it can be serialized later. Example: [Kimi no Kaketeru Tokomo Suki](https://mangabaka.dev/4379)
 
 
 ### Raw
