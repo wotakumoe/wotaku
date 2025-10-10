@@ -97,8 +97,8 @@ export const nav: DefaultTheme.NavItem[] = [
         items: [
           { text: 'Mihon & Aniyomi', link: '/guides/ext/mihon' },
           { text: 'Mangayomi', link: '/guides/ext/mangayomi' },
-          { text: 'Other Android Apps', link: '/guides/ext/misc' },
-          { text: 'iOS apps', link: '/guides/ext/ios' }
+          { text: 'iOS apps', link: '/guides/ext/ios' },
+          { text: 'Miscellaneous', link: '/guides/ext/misc' }
         ]
       },
       {
@@ -256,8 +256,8 @@ export const sidebar: DefaultTheme.Sidebar = [
         items: [
           { text: 'Mihon & Aniyomi', link: '/guides/ext/mihon' },
           { text: 'Mangayomi', link: '/guides/ext/mangayomi' },
-          { text: 'Other Android Apps', link: '/guides/ext/misc' },
-          { text: 'iOS apps', link: '/guides/ext/ios' }
+          { text: 'iOS apps', link: '/guides/ext/ios' },
+          { text: 'Miscellaneous', link: '/guides/ext/misc' }
         ]
       },
       {
