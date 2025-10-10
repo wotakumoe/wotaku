@@ -88,6 +88,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 | **Anime** | [Anime-DB](https://anime.dbsearch.net/) :fjp: |
 | ^^        | [Blu-ray.com](https://www.blu-ray.com/) |
 | ^^      | [Sumikko Anime](https://anime.sumikko.info/) :fjp: [:rss:](https://anime.sumikko.info/rss.xml) |
+| **Manga** | [The eBook librarian](https://k.xpg.jp/) :fjp: [:rss:](https://k.xpg.jp/feed.xml) |
 | **Bishoujo** | [Asahiwa](https://asahiwa.jp/) :fjp: |
 | ^^        | [Figgy Adult](https://adult.figgy.jp/) :fjp::ero: |
 | ^^        | [Figsoku B](https://figsoku-b.net/) :fjp: |
