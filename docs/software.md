@@ -24,15 +24,16 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 | App | Source | Tracker |
 |-|-|-|
 | [Aniyomi](https://aniyomi.org/) :s: [:gh:](https://github.com/aniyomiorg/aniyomi) [:n:](https://github.com/aniyomiorg/aniyomi-preview) | :ddl: | :mal::al::k::simkl: |
+| [Hayase](https://hayase.watch/) :s: [:gh:](https://github.com/hayase-app/ui) [:e:](/guides/ext/misc#hayase) | :mag::material-symbols-newspaper-rounded: | :mal::al::k: |
 | [Animetail](https://github.com/Dark25/Animetail2) [:n:](https://github.com/Animetailapp/Animetail-preview) | :ddl::mag: | :mal::al::k::simkl: |
 | [Anikku](https://anikku-app.github.io/) [:gh:](https://github.com/komikku-app/anikku) [:n:](https://github.com/komikku-app/anikku-preview) | :ddl::mag: | :mal::al::k::simkl: |
 | [Dantotsu](https://discord.com/invite/4HPZ5nAWwM) | :ddl::mag: | :mal::al: |
 | [Cloudstream](https://cloudstream.on.fleek.co/) [:e:](/guides/ext/misc#cloudstream) | :ddl::mag: | :mal::al::simkl: |
-| [Shiru](https://github.com/RockinChaos/Shiru) ==Shiru== | :mag: | :mal::al: |
 
 ::: details More
 | App | Source | Tracker |
 |-|-|-|
+| [Shiru](https://github.com/RockinChaos/Shiru) [:e:](/guides/ext/misc#hayase) ==Shiru== | :mag: | :mal::al: |
 | [Animiru](https://github.com/quickdesh/Animiru)  | :ddl: | :mal::al::k::simkl: |
 | [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one) | :mag: | :mal::al::k::simkl: |
 | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi) | :ddl::mag: | :mal::al::k: |
@@ -41,7 +42,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 
 ::: details :material-symbols-tv-gen-outline: Android TV ranking
 - [Cloudstream](https://cloudstream.on.fleek.co/)  [:e:](/guides/ext/misc#cloudstream) [:gh:](https://github.com/recloudstream/cloudstream)
-- [Shiru](https://github.com/RockinChaos/Shiru) ==Shiru==
+- [Hayase](https://hayase.watch/) :s: [:gh:](https://github.com/hayase-app/ui) [:e:](/guides/ext/misc#hayase)
 - [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one)
   - [Stremio Tools](#stremio)
 - [Crunchyroll for TIZEN](https://github.com/jhassan8/crunchyroll-tizen)
@@ -213,18 +214,11 @@ or buy an Android phone :ic-twotone-thumb-up:
 
 # PC
 
-<br>
-
-::: tip Anti-leech note
-Torrent streaming is really convenient compared to downloading and watching. However, most mainstream torrent players don't seed after finishing playback. Try seeding the torrents using a proper torrent client.
-:::
-
 ## Anime Streaming
 
 | Program | OS | Source | Tracker |
 |-|-|-|-|
-| [Hayase](https://hayase.watch/) [:gh:](https://github.com/hayase-app/ui) | :win::app::lin: | :mag: | :al: |
-| [Shiru](https://github.com/RockinChaos/Shiru) ==Shiru== | :win::app::lin: | :mag: | :mal::al: |
+| [Hayase](https://hayase.watch/) :s: [:gh:](https://github.com/hayase-app/ui) [:e:](/guides/ext/misc#hayase) | :win::app::lin: | :mag::material-symbols-newspaper-rounded: | :mal::al::k: |
 | [Stremio](https://www.stremio.com/) | :win::app::lin: | :mag::ddl: | :mal::al::k::simkl: |
 | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi) | :win::app::lin: | :mag::ddl: | :mal::al::k: |
 | [Seanime](https://seanime.app/) | :win::app::lin: | :mag::ddl: | :al: |
@@ -234,6 +228,7 @@ Torrent streaming is really convenient compared to downloading and watching. How
 :::details More
 | Program | OS | Source | Tracker |
 |-|-|-|-|
+| [Shiru](https://github.com/RockinChaos/Shiru) ==Shiru== | :win::app::lin: | :mag: | :mal::al: |
 | [Toru](https://github.com/sweetbbak/toru) | :win::app::lin::cmd: | :mag: | :no: |
 | [Zenshin](https://hitarth-gg.github.io/zenshin-website/) [:gh:](https://github.com/hitarth-gg/zenshin) | :win::app::lin: | :mag: | :al: |
 | [Totoro](https://github.com/insomniachi/Totoro) | :win: | :mag::ddl: | :mal::al::simkl: |

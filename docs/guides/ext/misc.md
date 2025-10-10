@@ -1,6 +1,6 @@
 ---
-title: Cloudstream, Legado & LNReader Extension Repos
-customDescription: Extension Repos & Guides for Cloudstream, Legado & LNReader
+title: Extension Repos for Miscellaneous Software
+customDescription: Miscellaneous Extension Repos & Guides
 outline: [2,3]
 og:
     image: https://i.wotaku.wiki/f/extension.png
@@ -44,6 +44,14 @@ og:
 | Name | Region | Auto | Manual |
 | - | - | - | - |
 | [rektpartyaftermath](https://github.com/rektpartyaftermath/Legado-booksource-collection) | :flag-united-kingdom: | [Install](legado://import/bookSource?src=https://raw.githubusercontent.com/rektpartyaftermath/Legado-booksource-collection/main/AllBooksource.json) | [URL](https://raw.githubusercontent.com/rektpartyaftermath/Legado-booksource-collection/main/AllBooksource.json) |
+
+## Hayase
+
+| Type | Code |
+|-|-|
+| Default | `gh:hayase-app/extensions` |
+| Mutli Subs | `gh:hayase-app/extensions/multi` | 
+| Dub | `gh:hayase-app/extensions/dub` |
 
 ## LNReader
 | Name | Region | Auto | Manual |
