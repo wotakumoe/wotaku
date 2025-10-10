@@ -241,7 +241,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 ![](/ss/seq.png)
 
-[TorrServer](https://github.com/YouROK/TorrServer) & [WebTorrent](https://webtorrent.io/) can also be used to stream torrents.
+[TorrServer](https://github.com/YouROK/TorrServer) & [WebTorrent](https://github.com/webtorrent/webtorrent-cli) can also be used to stream torrents.
 :::
 
 ## Manga Readers

@@ -27,6 +27,4 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 ![](/ss/seq.png)
 
-[TorrServer](https://github.com/YouROK/TorrServer) & [WebTorrent](https://webtorrent.io/) can also be used to stream torrents.
-
-<div class="video_wrapper"><iframe src="https://youtube.com/embed/abkKsVsyRdE" frameborder="0" allowfullscreen></iframe></div>
+[TorrServer](https://github.com/YouROK/TorrServer) & [WebTorrent](https://github.com/webtorrent/webtorrent-cli) can also be used to stream torrents.
