@@ -286,9 +286,13 @@ og:
 ### Anime
 - [AnimeIL-TV](https://www.animeil-tv.com/)
 
-## Hungarian
-- [AnimeDrive](https://animedrive.hu/)
+### Manga
 - [Mangashelf](https://mangashelf.co.il/)
+
+## Hungarian
+
+### Anime
+- [AnimeDrive](https://animedrive.hu/)
 - [MagyarAnime](https://magyaranime.eu/)
 
 ## Indian
