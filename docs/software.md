@@ -301,7 +301,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 #### DRM
 | Category          | Resource                                                       |
 |------------------|-----------------------------------------------------------------|
-| **Video Extractor** | [Devine](https://github.com/devine-dl/devine)                 |
+| **Video Extractor** | [Unshackle](https://github.com/unshackle-dl/unshackle)                 |
 | ^^               | [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) <Badge type="tip" text="WidevineProxy2" link="https://github.com/DevLARLEY/WidevineProxy2" /> |
 | **Key Extractor** | [KeyDive](https://github.com/hyugogirubato/KeyDive/) `L3`       |
 | **Utility** | [pywidevine](https://github.com/devine-dl/pywidevine)          |
