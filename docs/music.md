@@ -539,7 +539,9 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 ### Misc
 - [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) :win:
   - [Peace Equalizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/) :win:
+- [JamesDSP](https://flathub.org/en/apps/me.timschneeberger.jdsp4linux) :lin:
 - [Karaoke Mugen](https://mugen.karaokes.moe/en/) :win::app::lin: [:gl:](https://gitlab.com/karaokemugen/code/karaokemugen-app)
+- [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) :win::app::lin:
 - [Music Presence](https://github.com/ungive/discord-music-presence) :win::app::cs:
 
 
