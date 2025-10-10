@@ -98,7 +98,6 @@ og:
 
 - **Stream**
   - [AGE](https://www.agedm.org/)
-  - [Anime Island](https://www.dmd77.com/) [:prx:](https://rentry.org/dmd8)
   - [Bimibimi](http://www.bimiacg10.net/)
   - [CC](https://ccdm.cc/)
   - [ddys](https://ddys.art/category/anime/)
@@ -308,7 +307,6 @@ og:
 - **DDL**
   - [Anime Academy](https://animeacademy.in/)
   - [ATOZ CARTOONIST](https://www.atozcartoonist.com/)
-  - [Dead Toons India](https://deadtoonsindia.cc/)
   - [PikaHD](https://pikahd.com/)
   - [Puretoons](https://puretoons.in/)
   - [SDToons](https://sdtoons.com/) :ero: [:alt:](https://sdtoons.in/)
@@ -465,7 +463,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^                              | [Funbe](https://funbe527.com/%EC%9B%B9%ED%88%B0)  | ^^ |
 | ^^                              | [BlackTOON](https://blacktoon349.com/)            | ^^ |
 | ^^                              | [Annie24](https://ohli24.net/) [:prx:](https://rentry.org/wotaxy#annie24)   | Anime  |
-| [BlackToon](https://www.blacktoon.fun/) | [NEWTOKI](https://newtoki468.com/) | Manhwa :ero: |
+| Toki | [NEWTOKI](https://newtoki468.com/) | Manhwa :ero: |
 | ^^                                      | [Manatoki](https://manatoki468.net/) | Manga :ero: |
 | ^^                                      | [Booktoki](https://booktoki468.com/) [:prx:](https://www.xn--h10bx0wsvp.net/) | Novel :ero: |
 | Others  | [Wolf](https://nicelink22.com/) | Mix comics :ero: |
@@ -754,7 +752,7 @@ ___
 - [Truyen Sieuhay](https://truyensieuhay.com/)
 
 ### Hentai
-- [DuaLeoTruyen](https://dualeotruyenc.com/)
+- [DuaLeoTruyen](https://dualeotruyenzx.com/)
 - [HentaiCube](https://hentaicube.xyz/)
 - [HentaiVN](https://www.mehentaivn.xyz/)
 - [KuroNeko](https://vi-hentai.com/)

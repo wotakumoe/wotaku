@@ -255,7 +255,7 @@ og:
 | ^^                 | [autobrr](https://autobrr.com/) |
 | ^^                 | [Ombi](https://ombi.io/) |
 | ^^                 | [Maintainerr](https://github.com/jorenn92/Maintainerr) |
-| ^^                 | [Jellyseerr](https://docs.jellyseerr.dev/) [:gh:](https://github.com/Fallenbagel/jellyseerr) |
+| ^^                 | [Jellyseerr](https://docs.seerr.dev/) [:gh:](https://github.com/Fallenbagel/jellyseerr) |
 | ^^                 | [Tdarr](https://home.tdarr.io/) |
 | ^^                 | [Bazarr](https://www.bazarr.media/) |
 | ^^                 | [Sonarr/Radarr/Lidarr autosearch](https://chromewebstore.google.com/detail/jmmjjcddjldjdjgckdiokhfokccdnekc) |

@@ -235,8 +235,7 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 ::: details Scrapers
 - [Cubari Proxy](https://proxy.cubari.moe/#/) ==cubari==
 - [Akari Manga](https://akarimanga.dpdns.org/) [:gh:](https://github.com/sn0w12/akari) ==akari==
-- [Manga Clan](https://mangaclan.online/) ==mangaclan==
-- [Vidbox](https://vidbox.to/manga) ==vidbox==
+- [Vidbox](https://vidbox.cc/manga) ==vidbox==
 :::
 
 ## Download
