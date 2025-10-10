@@ -175,6 +175,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 ### Aggregators
 - [FMSTREAM](https://fmstream.org/)
+- [Globe Radio](https://globeradio.app/)
 - [RadioBrowser](https://www.radio-browser.info/) [:gl:](https://gitlab.com/radiobrowser/radiobrowser-web-angular)
 - [Radio Garden](https://radio.garden/)
 - [Sasalele Music Station](https://basic.pp.ua/) [:gh:](https://github.com/Mikeexe2/Sasalele-Music-Station)
