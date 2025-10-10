@@ -43,11 +43,16 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 - [MangaBaka](https://mangabaka.dev/) :s:
 - [MangaUpdates](https://www.mangaupdates.com/) :s:
 - [Manba](https://manba.co.jp/) :s::fjp:
-- [Touhou Doujinshi Index](https://scarlet.nsk.sh/) [:gh:](https://github.com/nanoskript/touhou-doujinshi-index) <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" />
 - [Comic Vine](https://comicvine.gamespot.com/)
+
+::: details More
 - [Chill Chill](https://www.chil-chil.net/) :ero::fjp:
 - [Kazamkase Comic Database](https://kazemakase.wjg.jp/comics/) ==kazamakase==
 - [LAMA](https://lama.watch/)
+- [Shounen Manga Encyclopedia](https://comicdate.web.fc2.com/) `fc2`
+- [Shounen Manga Encyclopedia](https://allcomic.noor.jp/) `noor`
+- [Touhou Doujinshi Index](https://scarlet.nsk.sh/) [:gh:](https://github.com/nanoskript/touhou-doujinshi-index) <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" />
+:::
 
 ### Novels
 - [Novel Updates](https://www.novelupdates.com/) :s:
