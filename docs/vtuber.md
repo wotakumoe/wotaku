@@ -201,7 +201,7 @@ og:
 
 | Game                                                   | Price  | MC                 | Dev                  | Publisher |
 |--------------------------------------------------------|--------|--------------------|----------------------|-----|
-| [Holo Hidden](https://store.steampowered.com/app/3904810/) | - | Harusaki Nodoka | toMoMI Games | holo Indie | 
+| [Holo Hidden](https://store.steampowered.com/app/3904810/) | $2.49 | Harusaki Nodoka | toMoMI Games | holo Indie | 
 | [Holo on Suika](https://tkgames.jp/holo_watermelon.html)       | Free   | Hololive          | TKGames    | TKGames |
 | [ホロポップ (Holo Pop)](https://store.steampowered.com/app/3155810/) :fjp: | $2.49 | Hololive JP | HappyHoppyHappy | holo Indie |
 | [Holoidle](https://store.steampowered.com/app/3543350/) | $2.99 | Hololive | Kindred Interactive | holo Indie |
@@ -220,6 +220,7 @@ og:
   
 | Game                                                   | Price  | MC   | Dev                | Publisher |
 |--------------------------------------------------------|--------|------|--------------------|-----|
+| [Holo ADV: SakuraSingularity.exe](https://store.steampowered.com/app/3923980/) | - | Sakura Miko | Lexilia Games | holo Indie |
 | [hololive ERROR](https://store.steampowered.com/app/2062550/) | $5.49  | POV  | 株式会社Mogura     | CCMC Corp. |
 | [holo8](https://store.steampowered.com/app/3373960/) | $2.49  | POV  | frog blend        | holo Indie |
  
@@ -228,12 +229,13 @@ og:
 | Game                                                       | Price  | MC                 | Dev        | Publisher |
 |------------------------------------------------------------|--------|--------------------|------------|-----|
 | [Bibbidiba fan game](https://store.steampowered.com/app/3428800/) | Free   | Hoshimachi Suisei | shadow     | holo Indie |
-| [Chrono Gear: Warden of Time](https://store.steampowered.com/app/3081840/) | - | Ouro Kronii | Team Chrono Gear | holo Indie |
+| [Chrono Gear: Warden of Time](https://store.steampowered.com/app/3081840/) | $7.79 | Ouro Kronii | Team Chrono Gear | holo Indie |
 | [FLARE NUINUI QUEST](https://store.steampowered.com/app/3081830/) | $4.49  | Shiranui Flare    | sulpx      | holo Indie |
 | [FUBUKI ～zero in on Holoearth～](https://store.steampowered.com/app/3446990/) | $6.79 | Shirakami Fubuki | PEPOSOFT | Phoenixx Inc. |
 | [GuraQuest](https://store.steampowered.com/app/3637180/) | Free | Gawr Gura | Lee-Pic | holo Indie |
-| [hololive GoroGoro Mountain](https://store.steampowered.com/app/3511130/) | -  | POV  | BeXide    | holo Indie |
+| [hololive GoroGoro Mountain](https://store.steampowered.com/app/3511130/) | $6.49 | POV  | BeXide    | holo Indie |
 | [HoloRun](https://store.steampowered.com/app/3389760/) | $2.99  | Hololive          | Pixfox     | holo Indie |
+| [Kaelaverse: Pemascape](https://store.steampowered.com/app/3831350/) | Free | Kaela Kovalskia | KayAnimate | holo Indie |
 | [Nameless](https://sk-jynx.itch.io/nameless)                | Free   | Nanashi Mumei     | SK_Jynx | SK_Jynx |
 | [Nimi Nightmare's dream dash](https://gioba-games.itch.io/nimi-nightmare-dream-dash) | Free   | Nimi Nightmare    | Goiba   | Goiba |
 | [Miko in Maguma](https://store.steampowered.com/app/2877240/) | Free   | Sakura Miko      | frog blend | holo Indie |
