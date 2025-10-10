@@ -255,6 +255,10 @@ og:
 - [Kanjiku](https://kanjiku.net/)
 - [Manga-Tube](https://manga-tube.me/)
 
+### Info / News
+- [aniSearch](https://www.anisearch.de/)
+- [Manga Passion](https://www.manga-passion.de/)
+
 ### Software
 - [Anime/Series Scraper](https://github.com/wolfswolke/aniworld_scraper)
 
