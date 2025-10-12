@@ -253,7 +253,6 @@ ___
 |------------|----------|
 | **Search** | [SauceNAO](https://saucenao.com/) :s: |
 | ^^         | [Trace](https://trace.moe/) [:gh:](https://github.com/soruly/trace.moe) |
-| ^^         | [SauceKudasai](https://saucekudasai.com/) [:gh:](https://github.com/ayushgptaa/SauceKudasai) |
 | ^^         | [ascii2d](https://ascii2d.net/) |
 | ^^         | [Multi-service image search](https://iqdb.org/) |
 | **Others** | [Imgtrans](https://touhou.ai/imgtrans/) [:gh:](https://github.com/zyddnys/manga-image-translator) |

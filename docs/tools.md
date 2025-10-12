@@ -202,7 +202,7 @@ og:
 | ^^               | [LosslessCut](https://mifi.no/losslesscut/) :win::app::lin: [:gh:](https://github.com/mifi/lossless-cut) |  
 | **General Sub tools** | [Aegisub](https://github.com/arch1t3cht/Aegisub) :win::app::lin: |  
 | ^^               | [Subtitle Edit](https://www.nikse.dk/subtitleedit) :win: [:gh:](https://github.com/SubtitleEdit/subtitleedit) |  
-| **Adobe**         | [m0nkrus](https://w16.monkrus.ws/) :win::app: [:simple-icons-vk:](https://vk.com/monkrus) |  
+| **Adobe**         | [m0nkrus](https://vk.com/monkrus) :win::app: |  
 | ^^               | [RuTracker](https://rutracker.org/forum/index.php) :win::app: |  
 | ^^               | [GenP](https://lemmy.dbzer0.com/c/GenP) :win: |  
 | ^^               | [Download Pirate](https://www.downloadpirate.com/) :win: |  

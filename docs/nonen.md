@@ -47,7 +47,6 @@ og:
 
 ### Manga
 - [3asQ](https://3asq.org/)
-- [Ares Manga](https://fl-ares.com/)
 - [Azora Moon](https://azoramoon.com/)
 - [SWAT Manga](https://swatscans.com/)
 
@@ -341,7 +340,6 @@ og:
 - [Komiku](https://komiku.id/)
 - [Komikcast](https://komikcast02.com/)
 - [Komik Indo](https://komikindo3.com/)
-- [Cuymanga](http://cuymanga.infy.uk/) [:gh:](https://github.com/whyudacok/Cuymanga)
 - [MGKOMIK](https://mgkomik.org/)
 - [Shinigami ID](https://id.shinigami.asia/)
 - [YuuManga](https://yuumanga.blogspot.com/)
@@ -586,12 +584,10 @@ ___
 - [Animevost](https://animevost.org/)
 - [Anisun](https://anisun.vercel.app/en) [:gh:](https://github.com/notwindstone/anisun)
 - [Dream Cast](https://dreamerscast.com/)
-- [Gidanime](https://gidanime.tv/)
 - [Kage Project](http://fansubs.ru/)<tooltip>Subtitle files only, you need to get the episodes from another source.</tooltip>
 - [MAL to Kodik](https://mal-to-kodik.github.io/) <Badge type="info" text="Aggregator" />
 - [One Pace](https://onepace-ru.tilda.ws/)
 - [OTA-KUN](https://ota-ku.am/)
-- [Shiza Project](https://shiza-project.com/)
 - [Tunime](https://an0ncer.github.io/) [:gh:](https://github.com/AN0NCER/an0ncer.github.io) <Badge type="info" text="Sub" />
 
 ### Manga
