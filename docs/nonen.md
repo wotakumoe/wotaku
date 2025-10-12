@@ -760,7 +760,6 @@ ___
 - [TruyenHentaiVN](https://truyenhentaivn.live/)
 
 ### Novels
-- [Dtruyen](https://dtruyen.com/)
 - [Hako](https://docln.net/)
 - [Metruyenhot](https://metruyenhot.vn/)
 - [Sonako Light Novel Wiki](https://sonako.fandom.com/vi/wiki/Sonako_Light_Novel)
