@@ -8,12 +8,11 @@ outline: [1,2]
 
 <GradientCard title="Misc-sites" description="Various sites and tools for all needs and interests." theme="turquoise" variant="thin"/>
 
-![](/banner/info.webp)
-# Info
+![](/banner/db.webp)
 
-## Database & Tracker
+# Database
 
-### General
+## General
 - [AniList](https://anilist.co/) :s:
 - [MyAnimeList](https://myanimelist.net/) :s:
 - [Anime Planet](https://www.anime-planet.com/)
@@ -29,7 +28,7 @@ outline: [1,2]
 Visit the [**tracker utility**](#tracker) section for tracker stats and data transfer between sites.
 :::
 
-### Anime
+## Anime
 - [aniDB](https://anidb.net/) :s:
 - [Anikore](https://www.anikore.jp/) :fjp:
 - [AnimeDB](https://animedb.jp/) :fjp:
@@ -39,7 +38,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 - [Anisil](https://www.anisil.com/) :fjp:
 - [SIMKL](https://simkl.com/)
 
-### Manga
+## Manga
 - [MangaBaka](https://mangabaka.dev/) :s:
 - [MangaUpdates](https://www.mangaupdates.com/) :s:
 - [Manba](https://manba.co.jp/) :s::fjp:
@@ -55,20 +54,20 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 - [Touhou Doujinshi Index](https://scarlet.nsk.sh/) [:gh:](https://github.com/nanoskript/touhou-doujinshi-index) <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" />
 :::
 
-### Novels
+## Novels
 - [Novel Updates](https://www.novelupdates.com/) :s:
 - [RanobeDB](https://ranobedb.org/) :s: [:gh:](https://github.com/Blastose/ranobedb)
 - [Ranobe Mori](https://ranobe-mori.net/) :fjp:
 - [Bookmeter](https://bookmeter.com/) :fjp:
 - [Goodreads](https://www.goodreads.com/)
 
-### Seiyuu / Voice Actor
+## Seiyuu / Voice Actor
 - [Seiyuu.moe](https://seiyuu.moe/) :s:
 - [Anime voice actor and seiyuu comparison](https://avac.moe/index.php)
 - [Seiyuu (voice actor) database](http://www.usagi.org/doi/seiyuu/index.html)
 - [Behind The Voice Actors](https://www.behindthevoiceactors.com/)
 
-### Others
+## Others
 - [FanCons](https://fancons.com/) [:alt:](https://animecons.com/)
 - [MyDramaList](https://mydramalist.com/)
 - [TV Drama Database](http://www.tvdrama-db.com/) :fjp:
@@ -77,8 +76,11 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 ::: details Related resources
 - [Tracker apps for phone](/software#trackers)
 - [Tracker software for pc](/software#trackers-1)
-
 :::
+
+
+![](/banner/info.webp)
+# Info
 
 ## Anime
 
