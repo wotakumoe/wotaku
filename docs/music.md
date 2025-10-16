@@ -29,6 +29,11 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [Squidify](https://www.squidify.org/) [:alt:](https://www.squidify.net/) [:help:](/guides/music/squidify)
 - [One Piece Tracklist](http://onepiecetracklist.com/)
 
+## General
+- [Monochrome](https://monochrome.tf/) [:alt:](https://monochrome.prigoana.com/) `tidal`
+- [BiniLossless](https://music.binimum.org/) `tidal`
+- [Squid.wtf](https://tidal.squid.wtf/) `tidal`
+
 ## AMVs
 - [AKROSS](https://www.akross.ru/index.cgi?l=e)
 - [AMV Hell](https://www.amvhell.com/)
