@@ -396,7 +396,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | ------------ | ---------- | ---- |
 | [AniCour](https://github.com/ReStartQ/anicour)        | :win:     | :al:        |
 | [Chibi](https://chibi-cli.pages.dev/) [:gh:](https://github.com/CosmicPredator/chibi-cli)      | :win::app::lin::cmd: | :al:        |
-| [Hachidori](https://malupdaterosx.moe/hachidori/) [:gh:](https://github.com/Atelier-Shiori/hachidori)       | :app:      | :mal:      |
+| [Hachidori](https://malupdaterosx.moe/hachidori/) [:gh:](https://github.com/Atelier-Shiori/hachidori)       | :app:      | :mal::al::k:      |
 | [Keroro](https://github.com/hotsno/keroro)     | :simple-icons-mpv:   | :al:           |
 | [MALClient](https://apps.microsoft.com/store/detail/malclient/9NBLGGH5F3BL) [:gh:](https://github.com/Drutol/MALClient) | :win:                    | :mal:    |
 | [MAL-Sync](https://malsync.moe/) [:gh:](https://github.com/MALSync/MALSync)       | :cr::ff::js:     | :mal: :al: :k: :simkl: :simple-icons-shikimori: |
