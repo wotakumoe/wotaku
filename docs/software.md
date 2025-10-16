@@ -33,7 +33,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 ::: details More
 | App | Source | Tracker |
 |-|-|-|
-| [Shiru](https://github.com/RockinChaos/Shiru) [:e:](/guides/ext/misc#hayase) ==Shiru== | :mag: | :mal::al: |
+| [Shiru](https://github.com/RockinChaos/Shiru) ==Shiru== | :mag: | :mal::al: |
 | [Animiru](https://github.com/quickdesh/Animiru)  | :ddl: | :mal::al::k::simkl: |
 | [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one) | :mag: | :mal::al::k::simkl: |
 | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi) | :ddl::mag: | :mal::al::k: |
