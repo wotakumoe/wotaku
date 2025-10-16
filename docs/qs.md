@@ -63,9 +63,9 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | **iOS**    | [Paperback](https://paperback.moe/) [:gh:](https://github.com/Paperback-iOS/app) [:e:](/guides/ext/ios#paperback) |
 | ^^         | [Aidoku](https://aidoku.app/) [:gh:](https://github.com/Aidoku/Aidoku) [:e:](/guides/ext/ios#aidoku) |
 | ^^         | [YACReader](https://apps.apple.com/app/id635717885) :s::paid::cs: [:tf:](https://testflight.apple.com/join/5zhB7sRP) |
-| **PC**     | [Houdoku](https://houdoku.netlify.app/) :win::app::lin: [:gh:](https://github.com/xgi/houdoku) |
-| ^^         | [CDisplayEx](https://www.cdisplayex.com/) :win::cs: |
+| **PC**     | [OpenComic](https://opencomic.app/) :s: :win::app::lin: [:gh:](https://github.com/ollm/OpenComic) |
 | ^^         | [YACReader](https://www.yacreader.com/) :win::app::lin: |
+| ^^         | [Houdoku](https://houdoku.netlify.app/) :win::app::lin: [:gh:](https://github.com/xgi/houdoku) |
 
 
 ![](/banner/music.webp)
