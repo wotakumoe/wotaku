@@ -199,7 +199,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 ## Trackers
 | Category       | Name & Links |
 |---------------|-------------|
-| **AniList**  | [Aluminium](https://play.google.com/store/apps/details?id=moe.emi.aluminium) |
+| **AniList**  | [Aluminium](https://play.google.com/store/apps/details?id=moe.emi.aluminium) :cs: |
 | ^^           | [AniHyou](https://apps.apple.com/us/app/anihyou-anilist-client/id1635777325) [:gh:](https://github.com/axiel7/AniHyou-iOS) |
 | ^^           | [MyAniList](https://apps.apple.com/us/app/myanilist/id741257899) :cs::fm::sub: |
 | ^^           | [Otraku](https://github.com/lotusprey/otraku) |
