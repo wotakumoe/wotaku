@@ -77,7 +77,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 ## Novel Readers
 
 ### Online
-- [LN Reader](https://lnreader.github.io/) [:gh:](https://github.com/LNReader/lnreader) [:e:](/guides/ext/misc/#lnreader)
+- [LN Reader](https://www.lnreader.app/) [:gh:](https://github.com/LNReader/lnreader) [:e:](/guides/ext/misc/#lnreader)
 - [Quicknovel](https://github.com/LagradOst/QuickNovel)
 - [Shosetsu](https://shosetsu.app/) [:gl:](https://gitlab.com/shosetsuorg/shosetsu)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi)
