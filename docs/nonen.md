@@ -96,7 +96,7 @@ og:
 ### Anime
 
 - **Stream**
-  - [AGE](https://www.agedm.org/)
+  - [AGE](https://www.agedm.io/) [:prx:](https://rentry.org/agefans)
   - [Bimibimi](http://www.bimiacg10.net/)
   - [CC](https://ccdm.cc/)
   - [ddys](https://ddys.art/category/anime/)
@@ -212,7 +212,7 @@ og:
 - [Mavanimes](https://mavanimes.co/)
 - [Sekai](https://sekai.one/)
 - [Streaming-integrale](https://streaming-integrale.com/)
-- [ToonAnime](https://fr.toonanime.biz/)
+- [ToonAnime](https://v8.toonanime.co/)
 - [Voiranime](https://v6.voiranime.com/) <Badge type="tip" text="Extension" link="https://github.com/Dastan21/BetterVoirAnime" />
 - [Vostfree](https://vostfree.ws/)
 
@@ -347,7 +347,6 @@ og:
 ### Light Novels
 - [BacaLightNovel](https://bacalightnovel.co/)
 - [Meionovel](https://meionovel.id/)
-- [Novelgo](https://novelgo.id/)
 - [Sakuranovel](https://sakuranovel.id/)
 
 ## Italian
@@ -750,7 +749,6 @@ ___
 ### Hentai
 - [DuaLeoTruyen](https://dualeotruyenzx.com/)
 - [HentaiCube](https://hentaicube.xyz/)
-- [HentaiVN](https://www.mehentaivn.xyz/)
 - [KuroNeko](https://vi-hentai.com/)
 - [LXmanga](https://lxmanga.wiki/)
 - [TruyenHentaiVN](https://truyenhentaivn.live/)
