@@ -260,6 +260,11 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^                 | [Spotify Dedup](https://spotify-dedup.com/) [:gh:](https://github.com/JMPerez/spotify-dedup/) |
 | ^^                 | [Spotlistr](https://www.spotlistr.com/) |
 
+## MusicBrainz
+- [a-tisket](https://atisket.pulsewidth.org.uk/)
+- [Harmony](https://harmony.pulsewidth.org.uk/) [:gh:](https://github.com/kellnerd/harmony)
+- [SAMBL: Streaming Artist MusicBrainz Lookup](https://sambl.lioncat6.com/) [:gh:](https://github.com/Lioncat6/SAMBL-React)
+
 ## Last.fm
 - [Last.fm stats](https://lastfmstats.com/) [:gh:](https://github.com/felhag/lastfm-stats-web)
 - [Last History](https://anhuynh.github.io/last-history)
