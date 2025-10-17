@@ -1,5 +1,5 @@
-- Scrapes official sources.
+- Scrapes official sources and some scanlators.
 - Has pretty good quality.
 - Provides multi-source for series with multiple licensors.
-- Has mostly manhwa and manhua, will add more manga and OEL later on.
+- Best for manhwa at the moment. Has few publishers for Manga and Manhua.
 - Requires a browser with DRM support.
