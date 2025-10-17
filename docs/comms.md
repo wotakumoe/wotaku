@@ -41,10 +41,9 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [GetComics](https://discord.gg/G7UwGPZDJ7)
 - [GJM - Subtitling Hub](https://discord.gg/0jeKKhzGn3EBNDI2)
 
-### H-M
+### H-O
 - [HiAnime](https://discord.gg/hianime)
 - [Japanese Language Study Space](https://discord.gg/jlss)
-- [KickAssAnime Support](https://discord.gg/6EGTnNQAaV)
 - [Kirei](https://discord.gg/55y8apc)
 - [Knox](https://discord.gg/HcDZFB9Gub)
 - [Laughing in Quarantine](https://discord.gg/x6AuGp7)
@@ -56,9 +55,9 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [Manga Piracy](https://discord.gg/ZgMtAyxFSU)
 - [Mihon](https://discord.gg/mihon)
 - [MikuDB](https://discord.gg/w9Dq25n)
-
-### N-Z
 - [OTAQUEST](https://discord.gg/SCHR2QB)
+
+### P-Z
 - [Privateersclub](https://discord.gg/jz8dUnnD6Q)
 - [Scanner Usage School](https://discord.gg/NCzxVB9)
 - [Sho Habby Scans](https://discord.gg/GdV76sQs7d)
