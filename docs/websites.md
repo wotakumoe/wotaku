@@ -474,7 +474,8 @@ To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/k
 | ^^                     | [How To Love Comics](https://www.howtolovecomics.com/) |
 | ^^                     | [Marvel Guides](https://marvelguides.com/) |
 | ^^                     | [Official Marvel Guides](https://www.marvel.com/comics/guides) |
-| **Portal**               | [Comic Watch](https://comic-watch.com/) |
+| **Portal**               | [Comic Book Roundup](https://comicbookroundup.com/) |
+| ^^                     | [Comic Watch](https://comic-watch.com/) |
 | ^^                     | [The Beat](https://www.comicsbeat.com/) |
 | ^^                     | [The Comics Journal](https://www.tcj.com/) |
 | **Tracker**            | [Comic Vine](https://comicvine.gamespot.com/) |
