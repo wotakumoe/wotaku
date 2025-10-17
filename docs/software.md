@@ -102,6 +102,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 | Tracker       | App |
 |---------------|-------------|
 | **AniList**   | [AL-Chan](https://github.com/zend10/AL-chan) |
+| ^^            | [Aluminium](https://play.google.com/store/apps/details?id=moe.emi.aluminium) :cs: |
 | ^^           | [AniHyou](https://github.com/axiel7/AniHyou-android) |
 | ^^           | [Kurumi](https://play.google.com/store/apps/details?id=com.subrotokumar.kurumi) :cs: |
 | ^^           | [Otraku](https://github.com/lotusprey/otraku) |
@@ -199,8 +200,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 ## Trackers
 | Category       | Name & Links |
 |---------------|-------------|
-| **AniList**  | [Aluminium](https://play.google.com/store/apps/details?id=moe.emi.aluminium) :cs: |
-| ^^           | [AniHyou](https://apps.apple.com/us/app/anihyou-anilist-client/id1635777325) [:gh:](https://github.com/axiel7/AniHyou-iOS) |
+| AniList       | [AniHyou](https://apps.apple.com/us/app/anihyou-anilist-client/id1635777325) [:gh:](https://github.com/axiel7/AniHyou-iOS) |
 | ^^           | [MyAniList](https://apps.apple.com/us/app/myanilist/id741257899) :cs::fm::sub: |
 | ^^           | [Otraku](https://github.com/lotusprey/otraku) |
 | ^^           | [Risuto](https://apps.apple.com/us/app/risuto-for-anilist/id6455685990) :cs: |
