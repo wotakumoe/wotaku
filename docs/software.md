@@ -27,7 +27,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 | [Hayase](https://hayase.watch/) :s: [:gh:](https://github.com/hayase-app/ui) [:e:](/guides/ext/misc#hayase) | :mag::material-symbols-newspaper-rounded: | :mal::al::k: |
 | [Animetail](https://github.com/Dark25/Animetail2) [:n:](https://github.com/Animetailapp/Animetail-preview) | :ddl::mag: | :mal::al::k::simkl: |
 | [Anikku](https://anikku-app.github.io/) [:gh:](https://github.com/komikku-app/anikku) [:n:](https://github.com/komikku-app/anikku-preview) | :ddl::mag: | :mal::al::k::simkl: |
-| [Dantotsu](https://discord.com/invite/4HPZ5nAWwM) [:simple-icons-forgejo:](https://git.rebelonion.dev/rebelonion/Dantotsu) | :ddl::mag: | :mal::al: |
+| [Dantotsu](https://discord.com/invite/4HPZ5nAWwM) [:simple-icons-forgejo:](https://git.rebelonion.dev/rebelonion/Dantotsu) [:alt:](https://github.com/itsmechinmoy/dantotsu-updater) | :ddl::mag: | :mal::al: |
 | [Cloudstream](https://cloudstream.on.fleek.co/) [:e:](/guides/ext/misc#cloudstream) | :ddl::mag: | :mal::al::simkl: |
 
 ::: details More
