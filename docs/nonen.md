@@ -408,7 +408,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [RAW 1001](https://raw1001.net/home) [:prx:](https://rentry.org/wotaxy#raw1001)
 - [Rawkuma](https://rawkuma.net/)
 - [RAW LAZY](https://rawlazy.io/)
-- [Raw Otaku](https://rawotaku.com/home/) [:prx:](https://rentry.org/wotaxy#raw-otaku)
+- [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.cam/)
 - [RawUwU](https://rawuwu.net/) [:alt:](https://rawdevart.art/)
 - [Sen Manga](https://raw.senmanga.com/)
 - [Spoilerraw](https://spoilerraw.net/)
