@@ -134,7 +134,8 @@ og:
     - [Documentaries](https://www.youtube.com/playlist?list=PLSOR9_iNzVfnEAmyp9QbIQk3xkeLVTUTq)
 - [Ask Japanese](https://www.youtube.com/@AskJapanese)
 - [Japanalysis](https://www.youtube.com/@Japanalysis) :s:
-- [Lets ask Shogo](https://www.youtube.com/@LetsaskShogo)
+- [Let's ask Shogo](https://www.youtube.com/@LetsaskShogo)
+- [Megan and Ben](https://www.youtube.com/@thehitobito)
 - [Paolo from TOKYO](https://www.youtube.com/@PaolofromTOKYO)
 - [Rion Ishida](https://www.youtube.com/@RionIshida)
 - [Robcdee](https://www.youtube.com/@Robcdee)
