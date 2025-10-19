@@ -46,7 +46,7 @@ outline: 1
 | [AnimeZ](https://animeyy.com/) ==animez== | :mingcute-user-2-fill: | :hs: |
 | [Animotvslash](https://www.animotvslash.org/search) ==Animotvslash== | :no: | :cc::hs: |
 | [AniHQ](https://anihq.to/home/) | :mingcute-user-2-fill: | :hs: |
-| [Watch Cartoon Online](https://www.wco.tv/) [:prx:](https://rentry.org/wotaxy#watch-cartoon-online) ==WCO== | :mingcute-user-2-fill: | :hs: |
+| [Watch Cartoon Online](https://www.wco.tv/) [:prx:](https://www.wcostatus.com/) ==WCO== | :mingcute-user-2-fill: | :hs: |
 
 ### Mix
 | Websites | Login | Sub |
