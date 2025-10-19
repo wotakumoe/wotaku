@@ -191,3 +191,7 @@ Note that FMD2's module uses Madokami's web reader, which can't read `.webp` fil
 ::: warning WEBP issue
 The Madokami extension by Keiyoushi uses Madokami's web reader instead of downloading the files like other downloaders (so that you can load the manga page by page). Madokami's web reader can't read `.webp` files, resulting in errors in Mihon and its forks as well.
 :::
+
+
+### iOS
+You can access Madokami on [Suwatte](https://suwatte.mantton.com/) using the [Seb repository](https://sebzzzzzzzzzzzzzzzz.github.io/sources/).
