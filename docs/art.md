@@ -90,7 +90,7 @@ og:
 | **Booru** | [Booru Masonry](https://booru.cocomi.eu.org/) :s: [:gh:](https://github.com/asadahimeka/booruwf-web) [:alt:](https://booru.vercel.app/) |
 | ^^        | [Booruview](https://booruview.com/) [:gh:](https://github.com/Kangaroux/booruview) |
 | ^^        | [Danbooru Viewer](https://danbooru.defaultkavy.com/) [:gh:](https://github.com/defaultkavy-dev/danbooru-viewer) |
-| ^^        | [Moeview](https://moeview.app/) [:prx:](https://rentry.org/wotaxy#moeview) |
+| ^^        | [Moeview](https://moeview.app/) [:alt:](https://moeview.cocomi.eu.org/) |
 | **Pixiv** | [Pixiv.cat](https://pixiv.cat/) [:gh:](https://github.com/pixiv-cat/pixivcat-backend) |
 | ^^        | [PixivFE](https://pixiv.perennialte.ch/) :s: [:cb:](https://codeberg.org/VnPower/PixivFE) |
 | ^^        | [Pixiv Viewer](https://pixiv.pictures/) [:gh:](https://github.com/asadahimeka/pixiv-viewer) |

@@ -122,7 +122,7 @@ og:
 - [Booru Masonry](https://booru.cocomi.eu.org/) :s: [:gh:](https://github.com/asadahimeka/booruwf-web) [:alt:](https://booru.vercel.app/)
 - [Consurf](https://consurf.onrender.com/) [:gh:](https://github.com/QueenAkaAlt/Consurf)
 - [Danbooru Viewer](https://danbooru.defaultkavy.com/) [:gh:](https://github.com/defaultkavy-dev/danbooru-viewer)
-- [Moeview](https://moeview.app/) [:prx:](https://rentry.org/wotaxy#moeview)
+- [Moeview](https://moeview.app/) [:alt:](https://moeview.cocomi.eu.org/)
 - [Pixiv Viewer](https://pixiv.pictures/) [:gh:](https://github.com/asadahimeka/pixiv-viewer)
 - [ScrollX](https://scrollx.org/)
 
