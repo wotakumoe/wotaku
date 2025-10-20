@@ -1,5 +1,6 @@
-- Scrapes official sources and some scanlators.
-- Has pretty good quality.
-- Provides multi-source for series with multiple licensors.
-- Best for manhwa at the moment. Has few publishers for Manga and Manhua.
+- Best for manhwa at the moment.  
+- Includes a few manga publishers and adds new titles upon request.  
+- Scrapes official sources (for manhwa), uploads from Nyaa rippers (for manga), and select scanlators.  
+- Offers high-quality uploads without watermarks.  
+- Provides multi-source options for series with multiple licensors.  
 - Requires a browser with DRM support.

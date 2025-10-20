@@ -49,6 +49,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 |------------|--------------------------------------------------|
 | **Online** | [Batoto](https://battwo.com/v3x) [:prx:](https://batotomirrors.pages.dev/) |
 | ^^         | [Weeb Central](https://weebcentral.com/) |
+| ^^         | [Kagane](https://kagane.org/) |
 | **Download**  | [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap) |
 | ^^         | [Madokami](https://manga.madokami.al) :s: [:help:](/guides/manga/madokami) |
 | ^^         | [Library Genesis+](https://libgen.la/) [:prx:](https://open-slum.pages.dev/) |
