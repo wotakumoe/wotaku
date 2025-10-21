@@ -200,7 +200,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [Kibo.FM](https://kibo.fm/) | [MP3 192](https://kibo.fm/kibo.m3u) | :flag-germany: |
 | [Radio Anime24](https://www.radioanime24.pl/) | [MP3 320](https://www.radioanime24.pl/Radio-Anime24.pls) | :flag-poland: |
 | [Radio Anime Nexus](https://www.animenexus.net/) | [MP3 320](https://radio.animenexus.net:8000/animenexus-mp3.m3u) | :flag-spain: |
-| [Rádio Animu](https://www.animu.com.br/) | [MP3 320](http://yp.shoutcast.com/sbin/tunein-station.m3u?id=99545187) | :flag-brazil: |
+| [Rádio Animu](https://www.animu.moe/) | [MP3 320](http://yp.shoutcast.com/sbin/tunein-station.m3u?id=99545187) | :flag-brazil: |
 | [Stereo Anime](https://www.stereoanime.net/) | [FLAC](https://radio.stereoanime.net:8000/flac.m3u) | :flag-spain: |
 
 ## Doujin & Vocaloid
