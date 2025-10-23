@@ -135,6 +135,7 @@ og:
 - [Ask Japanese](https://www.youtube.com/@AskJapanese)
 - [Japanalysis](https://www.youtube.com/@Japanalysis) :s:
 - [Let's ask Shogo](https://www.youtube.com/@LetsaskShogo)
+- [Life Where I'm From](https://www.youtube.com/@LifeWhereImFrom)
 - [Megan and Ben](https://www.youtube.com/@thehitobito)
 - [Paolo from TOKYO](https://www.youtube.com/@PaolofromTOKYO)
 - [Rion Ishida](https://www.youtube.com/@RionIshida)
