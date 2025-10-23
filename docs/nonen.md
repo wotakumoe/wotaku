@@ -737,14 +737,17 @@ ___
 ### Comics
 - [CManga](https://cmangaax.com/)
 - [Cuu Truyen](https://cuutruyen.net/) [:prx:](https://truycapcuutruyen.pages.dev/)
-- [DocTruyen3Q](https://doctruyen3qui5.pro/) :ero:
+- [DocTruyen3Q](https://doctruyen3qui15.com/) :ero:
+- [FoxTruyen](https://foxtruyen.com/)
 - [Goc Truyen Tranh](https://goctruyentranh.net/)
 - [MangaMAX](https://manga-max.vercel.app/) [:gh:](https://github.com/huynlx/MangaMAX)
 - [NhatTruyen](https://nhattruyenqq.com/)
 - [Than Vuc](https://thanvuc.com/)
-- [TruyenGG](https://truyengg.com/)
-- [TruyenQQ](https://truyenqqto.com/)
+- [TopTruyen](https://www.toptruyentv11.com/)
+- [TruyenQQ](https://truyenqqgo.com/)
 - [Truyen Sieuhay](https://truyensieuhay.com/)
+- [TruyenTranh3Q](https://truyentranh3qc.com/)
+- [VlogTruyen](https://vlogtruyen55.com/)
 
 ### Hentai
 - [DuaLeoTruyen](https://dualeotruyenzx.com/)
@@ -759,7 +762,6 @@ ___
 - [Metruyenhot](https://metruyenhot.vn/)
 - [Sonako Light Novel Wiki](https://sonako.fandom.com/vi/wiki/Sonako_Light_Novel)
 - [TruyenFull.io](https://truyenfull.vision/) :ero:
-- [TruyenFull.tv](https://truyenfull.tv/) :ero:
 - [Xalosach](https://xalosach.com/)
 
 ### Others
