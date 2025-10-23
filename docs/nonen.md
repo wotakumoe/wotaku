@@ -749,9 +749,10 @@ ___
 ### Hentai
 - [DuaLeoTruyen](https://dualeotruyenzx.com/)
 - [HentaiCube](https://hentaicube.xyz/)
+- [HentaiVN](https://hentaivn.party/)
 - [KuroNeko](https://vi-hentai.com/)
 - [LXmanga](https://lxmanga.wiki/)
-- [TruyenHentaiVN](https://truyenhentaivn.live/)
+- [TruyenHentaiVN](https://truyenhentaivn.club/)
 
 ### Novels
 - [Hako](https://docln.net/)
