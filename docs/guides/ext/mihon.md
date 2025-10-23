@@ -31,7 +31,7 @@ Some apps might not support **Auto Install method**. That doesn't mean the guide
 ### Manga
 | Name | Region | Auto | Manual |
 | - | - | - | - |
-| [Keiyoushi](https://keiyoushi.github.io/) [:gh:](https://github.com/keiyoushi/extensions) ==kei== | :global: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json) |
+| [Keiyoushi](https://keiyoushi.github.io/) [:gh:](https://github.com/keiyoushi/extensions-source) ==kei== | :global: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json) |
 | [Yūzōnō](https://yuzono.github.io) [:gh:](https://github.com/yuzono/tachiyomi-extensions) [:cb:](https://codeberg.org/cuong-tran/komikku-extensions) ==yuzono== | :global: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/yuzono/manga-repo/repo/index.min.json) | [URL](https://raw.githubusercontent.com/yuzono/manga-repo/repo/index.min.json) |
 | [Kavita](https://github.com/Kareadita/tach-extension/) | :global: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/Kareadita/tach-extension/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Kareadita/tach-extension/repo/index.min.json) |
 | [Suwayomi](https://github.com/Suwayomi/tachiyomi-extension) | :global: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/Suwayomi/tachiyomi-extension/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Suwayomi/tachiyomi-extension/repo/index.min.json) |
