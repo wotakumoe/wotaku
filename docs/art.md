@@ -105,6 +105,7 @@ og:
 - [Anihonetwallpaper](https://anihonetwallpaper.com/) <Badge type="green" text="SFW" />
 - [Anime Pictures](https://anime-pictures.net/)
 - [Character Design References](https://characterdesignreferences.com/) :s: [:x:](https://x.com/CDReferences)
+- [Frutiger Aero Archive](https://frutigeraeroarchive.org/wallpapers)
 - [Kemono](https://kemono.cr/)
 - [Nekohouse](https://nekohouse.su/)
 - [Settai Dreams](https://setteidreams.net/) :s:
