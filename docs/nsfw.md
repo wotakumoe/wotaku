@@ -81,6 +81,7 @@ og:
 - [Manga District](https://mangadistrict.com/)
 - [Manhwa18](http://manhwa18.com/)
 - [Manhwa-raw](https://manhwa-raw.com/) +:fkr:
+- [ManhwaRead](https://manhwaread.com/)
 - [Manytoon](https://manytoon.com/)
 - [Oppai](https://read.oppai.stream/) ==Oppai==
 - [RawDEX](https://rawdex.net/) :fkr:
