@@ -21,7 +21,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | Category   | Resource |
 |------------|--------------------------------------------------|
 | **Streaming** | [AnimeKai](https://animekai.to/home) [:prx:](https://rentry.org/wotaxy#animekai) ==AnimeKai== |
-| ^^         | [Miruro](https://www.miruro.tv/) [:prx:](https://www.miruro.com) ==miruro== |
+| ^^         | [Miruro](https://www.miruro.to/) [:prx:](https://www.miruro.com) ==miruro== |
 | ^^         | [Anime Nexus](https://anime.nexus/) |
 | **Download**  | [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap) |
 | ^^         | [Tokyo Insider](https://www.tokyoinsider.com/) :ddl: |
