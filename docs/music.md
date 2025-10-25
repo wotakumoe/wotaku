@@ -409,7 +409,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | **Scrobbler** | [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) :mdi-lastfm::and: |
 | ^^           | [Marvis Pro](https://apps.apple.com/au/app/marvis-pro/id1447768809) :mdi-lastfm::app::cs: |
 | **Others**   | [MusicSearch](https://github.com/lydavid/MusicSearch) :and: <Badge type="info" text="MusicBrainz" /> |
-| ^^           | [Seeker](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1) :and: <Badge type="info" text="Soulseek" /> |
+| ^^           | [Seeker](https://github.com/jackBonadies/SeekerAndroid) :and: <Badge type="info" text="Soulseek" /> |
 | ^^           | [Stats.fm](https://stats.fm/) :mdi-spotify::and::app::cs: |
 
 
