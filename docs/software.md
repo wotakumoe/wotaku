@@ -252,7 +252,6 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 |------------|---------------------|
 | [Houdoku](https://houdoku.netlify.app/) [:gh:](https://github.com/xgi/houdoku) | :win::app::lin: |
 | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi) | :win::app::lin: |
-| [Suwayomi](https://github.com/Suwayomi/Suwayomi-Server) | :win::app::lin: |
 | [Cubari](https://cubari.moe/) [:help:](/guides/manga/cubari) | :web: |
 | [Manga-tui](https://github.com/josueBarretogit/manga-tui) | :app::lin::cmd: |
 | [AnymeX](https://anymex.vercel.app/) [:gh:](https://github.com/RyanYuuki/AnymeX) [:e:](/guides/ext/mangayomi) | :win::app::lin: |
@@ -430,6 +429,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | ^^         | [Kavita](https://www.kavitareader.com/) [:gh:](https://github.com/Kareadita/Kavita) |
 | ^^         | [LANraragi](https://sugoi.gitbook.io/lanraragi/v/dev) [:gh:](https://github.com/Difegue/LANraragi) |
 | ^^         | [Teemii](https://www.teemii.io/) [:gh:](https://github.com/dokkaner/teemii) |
+| ^^         | [Suwayomi](https://github.com/Suwayomi/Suwayomi-Server) |
 | ^^         | [Mango](https://github.com/getmango/Mango) <Badge type="warning" text="Outdated" /> |
 | Novels     | [Kavita](https://www.kavitareader.com/) :s: [:gh:](https://github.com/Kareadita/Kavita) |
 | ^^         | [Komga](https://komga.org/) [:gh:](https://github.com/gotson/komga) |
