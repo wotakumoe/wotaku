@@ -49,9 +49,9 @@ og:
 
 | Type | Code |
 |-|-|
-| Default | `gh:hayase-app/extensions` |
-| Mutli Subs | `gh:hayase-app/extensions/multi` | 
-| Dub | `gh:hayase-app/extensions/dub` |
+| Default | `npm:hayase-app/extensions` |
+| Mutli Subs | `npm:hayase-app/extensions/multi` | 
+| Dub | `npm:hayase-app/extensions/dub` |
 
 ## LNReader
 | Name | Region | Auto | Manual |
