@@ -313,7 +313,6 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 | [LHTranslation](https://lhtranslation.net/) | :fjp: | [URL](https://mangadex.org/group/24adf288-d0e3-4d34-b342-bf8c189aacaa/lhtranslation) | [URL](https://www.mangaupdates.com/group/f6nc2yt/lhtranslation) |
 | [Manhua Plus](https://manhuaplus.com/) | :fcn: | - | [URL](https://www.mangaupdates.com/group/3apm0du/manhua-plus) |
 | [Reset Scans](https://reset-scans.org/) :coin: | :fjp::fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/df9ckct/reset-scans) |
-| [Scylla Comics](https://scyllacomics.xyz/) ==Scylla== | :fjp: | [URL](https://mangadex.org/group/4209a4a9-b838-4817-be40-0c8ef2f7be4a/scylla-scans) | [URL](https://www.mangaupdates.com/groups.html?id=14042) |
 | [StoneScape](https://stonescape.xyz/) :coin: | :fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/zt7x4q1/stonescape) |
 | [TCB Scans](https://tcbonepiecechapters.com/) | :fjp: | [URL](https://mangadex.org/group/db85f2a1-d69b-4181-a7a0-aa37db4bcbcf/tcb-scans) | [URL](https://www.mangaupdates.com/group/wn8v9bv/tcb-scans) |
 | [UTOON](https://utoon.net/) :coin: ==utoon== | :fjp::fkr::fcn: | - | [URL](https://www.mangaupdates.com/group/mtcug74/utoon) |
