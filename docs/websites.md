@@ -96,7 +96,7 @@ outline: 1
 | Name                        | Link |
 |-----------------------------|------|
 | [One Pace Project](https://linktr.ee/onepaceproject) | [One Pace](https://onepace.net/en/watch) |
-| ^^                          | [OnePace.me](https://onepace.me/) |
+| ^^                          | [OnePace](https://onepace.co/) `Unofficial` |
 | ^^                          | [Stremio](https://github.com/au2001/onepace-stremio) |
 | ^^                          | [One Pace Public Subtitles](https://github.com/one-pace/one-pace-public-subtitles) |
 - [Sonic Zone TV](https://soniczone.net/tv/home.html)
