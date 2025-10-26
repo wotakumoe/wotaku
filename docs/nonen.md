@@ -53,7 +53,7 @@ og:
 ### NSFW
 - [Arabs Hentai](https://arabshentai.com/)
 - [Hentai Time](https://hentai-time.com/)
-- [NXX Hentai](https://nxxhentai.com/)
+- [NXX Hentai](https://nxxhentai.net/)
 - [RistoHentai](https://ristohentai.com/)
 - [Saudi Hentai](https://saudihentai.com/)
 
@@ -732,7 +732,7 @@ ___
 - [AnimeVsub](https://animevsub.eu.org/) [:gh:](https://github.com/anime-vsub/desktop-web)
 - [HHNINJA](hhninja14) [:prx:](https://hhtq1.xyz/)
 - [Unime](https://unime.vercel.app/) [:gh:](https://github.com/huy232/Unime)
-- [WebLinhTinh](https://weblinhtinh.net/)
+- [WebLinhTinh](https://weblinhtinh1.net/)
 
 ### Comics
 - [CManga](https://cmangaax.com/)
