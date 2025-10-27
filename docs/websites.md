@@ -42,10 +42,10 @@ outline: 1
 |----------|----------------------|--------|
 | [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) ==AllManga== | :mingcute-user-2-fill: | :cc::hs: |
 | [AniHQ](https://anihq.to/home/) | :mingcute-user-2-fill: | :hs: |
-| [Animepahe](https://animepahe.si/) ==Animepahe== | :mingcute-server-fill: | :no: | :hs: |
+| [Animepahe](https://animepahe.si/) ==Animepahe== | :no: | :hs: |
 | [AnimeZ](https://animeyy.com/) ==animez== | :mingcute-user-2-fill: | :hs: |
 | [Animotvslash](https://www.animotvslash.org/search) ==Animotvslash== | :no: | :cc::hs: |
-| [AniXL](https://anixl.to/) | :mingcute-server-fill: | :mingcute-user-2-fill: | :cc: |
+| [AniXL](https://anixl.to/) | :mingcute-user-2-fill: | :cc: |
 | [Watch Cartoon Online](https://www.wco.tv/) [:prx:](https://www.wcostatus.com/) ==WCO== | :mingcute-user-2-fill: | :hs: |
 
 ### Mix
