@@ -74,7 +74,7 @@ og:
 - [AQ Stream](https://aqstream.com/jp)
 - [Globe TV](https://globetv.app/)
 - [IPTV-Org](https://iptv-org.github.io/) [:gh:](https://github.com/iptv-org/iptv) <Badge type="info" icon="i-material-symbols-download-2" text="JP" link="https://iptv-org.github.io/iptv/countries/jp.m3u" /> <Badge type="info" icon="i-material-symbols-download-2" text="JPN" link="https://iptv-org.github.io/iptv/languages/jpn.m3u" />
-- [JapanTV](https://web.utako.moe/)
+- [JapanTV](https://web.utako.moe/) [:gt:](https://gitea.com/luongz/utako)
 - [Japanese TV](https://mov3.co/)
 - [Search TV](https://searchtv.net/)
 - [takelab](https://github.com/take2560/takelab)
