@@ -47,6 +47,7 @@ og:
 - [Romheaven](https://romheaven.com/) <Badge type="info" text="PD Bypass" link="https://pixeldrain-bypass.cybar.xyz/" />
 - [ROMsPURE](https://romspure.cc/roms)
 - [The ROM Depot](https://theromdepot.com/) :acc:
+- [Vimm's Lair](https://vimm.net/)
 - [AlvRo's Collection](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml) :host:
 
 ### Platform Specific
