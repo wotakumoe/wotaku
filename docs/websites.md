@@ -27,14 +27,12 @@ outline: 1
 | Websites | Type | Login | Sub |
 |----------|----------------------|----------------------|--------|
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :mingcute-shovel-fill: | :no: | :cc: |
-| [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :mingcute-server-fill: | :mingcute-refresh-2-fill: :mingcute-user-2-fill: | :cc: |
-| [AnimeKai](https://animekai.to/home) [:prx:](https://rentry.org/wotaxy#animekai) ==AnimeKai== | :mingcute-server-fill: | :mingcute-refresh-2-fill: :mingcute-user-2-fill: | :cc::hs: |
-| [KickassAnime](https://kickass-anime.ru/) [:prx:](https://kickassanime.cx/) ==KAA== | :mingcute-server-fill: :mingcute-shovel-fill: | :mingcute-user-2-fill: | :cc: |
+| [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :mingcute-server-fill: | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :cc: |
+| [AnimeKai](https://animekai.to/home) [:prx:](https://rentry.org/wotaxy#animekai) ==AnimeKai== | :mingcute-server-fill: | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :cc::hs: |
+| [KickassAnime](https://kickass-anime.ru/) [:prx:](https://kickassanime.cx/) ==KAA== | :mingcute-server-fill: | :mingcute-user-2-fill: | :cc: |
 | [HiAnime](https://hianimez.to/home) [:prx:](https://hianime.tv/) ==Zoro== | :mingcute-server-fill: | :mingcute-user-2-fill: | :cc: |
 | [Sudatchi](https://sudatchi.com/) ==Sudatchi== | :mingcute-server-fill: | :mingcute-refresh-2-fill: | :cc: |
 | [AniZone](https://anizone.to/) ==AniZone== | :mingcute-server-fill: | :no: | :cc: |
-| [AniXL](https://anixl.to/) | :mingcute-server-fill: | :mingcute-user-2-fill: | :cc: |
-| [Animepahe](https://animepahe.si/) ==Animepahe== | :mingcute-server-fill: | :no: | :hs: |
 
 :::details More
 
@@ -43,9 +41,11 @@ outline: 1
 | Websites | Login | Sub |
 |----------|----------------------|--------|
 | [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) ==AllManga== | :mingcute-user-2-fill: | :cc::hs: |
+| [AniHQ](https://anihq.to/home/) | :mingcute-user-2-fill: | :hs: |
+| [Animepahe](https://animepahe.si/) ==Animepahe== | :mingcute-server-fill: | :no: | :hs: |
 | [AnimeZ](https://animeyy.com/) ==animez== | :mingcute-user-2-fill: | :hs: |
 | [Animotvslash](https://www.animotvslash.org/search) ==Animotvslash== | :no: | :cc::hs: |
-| [AniHQ](https://anihq.to/home/) | :mingcute-user-2-fill: | :hs: |
+| [AniXL](https://anixl.to/) | :mingcute-server-fill: | :mingcute-user-2-fill: | :cc: |
 | [Watch Cartoon Online](https://www.wco.tv/) [:prx:](https://www.wcostatus.com/) ==WCO== | :mingcute-user-2-fill: | :hs: |
 
 ### Mix
@@ -78,7 +78,7 @@ outline: 1
 - [Anoboye](https://anoboye.com/) [:d:](https://discord.gg/RsTrWFtShB)
 - [AnimeXin](https://animexin.dev/) [:d:](https://discord.com/invite/9sGpnnzM)
 - [Chiki Animation](https://chikianimation.com/) <Badge type="info" text="2D" /> [:tg:](https://t.me/Donghuanewofficial)
-- [Chiki Animation](https://chikianimation.net/) <Badge type="info" text="3D" /> [:tg:](https://t.me/Dimensional_Animation)
+- [Chiki Animation](https://chikianimations.xyz/) <Badge type="info" text="3D" /> [:tg:](https://t.me/Dimensional_Animation)
 - [Crimson Subs](https://crimsonfansubs.com/) [:d:](https://discord.com/invite/JMn7Y8qv)
 - [Donghua Stream](https://donghuastream.org/) [:d:](https://discord.gg/4zrUguAakG) [:tg:](https://telegram.me/DonghuaStream_com)
 - [Dongsub](https://www.dongsub.net/) [:tg:](https://t.me/dongsub)
@@ -214,15 +214,15 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 |----------|-------|-------|
 | [Batoto](https://battwo.com/v3x) [:prx:](https://batotomirrors.pages.dev/) ==Batoto== | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
 | [MangaPark](https://mangapark.net/) [:prx:](https://mangaparkmirrors.pages.dev/) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
+| [Kagane](https://kagane.org/) ==Kagane== | :mingcute-refresh-2-fill: | :no: |
 | [Weeb Central](https://weebcentral.com/) ==WeebCentral== | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
-| [Kagane](https://kagane.org/) ==Kagane== | :no: | :no: |
+| [Atsumaru](https://atsu.moe/) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
 | [MangaFire](https://mangafire.to/home) ==MangaFire== | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :no: |
 | [MangaDex](https://mangadex.org/) [:rss:](https://mdrss.tijlvdb.me/) ==MangaDex== | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
 
 ::: details More
 | Websites | Login | Social |
 |----------|-------|-------|
-| [Atsumaru](https://atsu.moe/) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
 | [Manga Katana](https://mangakatana.com/) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
 | [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
 | [MangaReader](https://mangareader.to/home) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
