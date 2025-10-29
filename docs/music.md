@@ -118,7 +118,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [SquidBoard](https://www.squid-board.org/) :acc: | :ddl: | :sgd::sm::smf: |
 | [Sukidesu OST](https://sukidesuost.info/) | :ddl::mag: | :sm: |
 | [RuTracker.org](https://rutracker.org/forum/index.php) | :mag: | - |
-| [Asia Media Blog](https://asiamediablog.com/) :ero: [:prx:](https://rentry.org/wotaxy#asia-media-blog) | :ddl: | :host: |
+| [Asia Media Blog](https://asiamediablog.com/media/music/) :ero: [:prx:](https://rentry.org/wotaxy#asia-media-blog) | :ddl: | :host: |
 
 ### MP3
 
