@@ -252,7 +252,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [141 JAV](https://www.141jav.com/) [:alt:](https://www.141ppv.com/)
 
 ### Others
-- [Asia Media Blog](https://asiamediablog.com/) [:prx:](https://rentry.org/wotaxy#asia-media-blog)
+- [Asia Media Blog](https://asiamediablog.com/) :host: [:prx:](https://rentry.org/wotaxy#asia-media-blog)
 - [Gravure Princess](https://idol.gravureprincess.date/)
 - [Mabui Onna](https://mabui-onna.com/)
 - [X-IDOL](https://xidol.net/) [:prx:](https://rentry.org/wotaxy#x-idol)
@@ -267,7 +267,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [:f: /u/](https://boards.4chan.org/u/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/u/" /> <Badge type="tip" text="Archive" link="https://archiveofsins.com/u/" />
 - [r/Artistic_Hentai](https://old.reddit.com/r/Artistic_Hentai/)
 - [r/doujinshi](https://old.reddit.com/r/doujinshi/)
-- [r/ecchi](https://old.reddit.com/r/ecchi/) [:d:](https://discord.gg/jVvSbYB)
+- [r/ecchi](https://old.reddit.com/r/ecchi/)
 - [r/hentaimemes](https://old.reddit.com/r/hentaimemes/)
 - [r/HENTAI_GIF](https://old.reddit.com/r/HENTAI_GIF/)
 - [r/rule34](https://old.reddit.com/r/rule34/) [:d:](https://discord.gg/zMrMhpZ)
