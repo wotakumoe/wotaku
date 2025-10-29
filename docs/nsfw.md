@@ -131,6 +131,7 @@ og:
 
 ### General
 - [Anime-Sharing](https://www.anime-sharing.com/) :acc:
+- [Asia Media Blog](https://asiamediablog.com/media/game/) :host: [:prx:](https://rentry.org/wotaxy#asia-media-blog)
 - [CPG Repacks](https://cpgrepacks.site)
 - [Craneanime](https://blog.craneanime.xyz/)
 - [Eroge Download](https://erogedownload.com/)
