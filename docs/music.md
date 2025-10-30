@@ -29,11 +29,6 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [Squidify](https://www.squidify.org/) [:alt:](https://www.squidify.net/) [:help:](/guides/music/squidify)
 - [One Piece Tracklist](http://onepiecetracklist.com/)
 
-## General
-- [Monochrome](https://monochrome.tf/) [:alt:](https://monochrome.prigoana.com/) `tidal`
-- [BiniLossless](https://music.binimum.org/) `tidal`
-- [Squid.wtf](https://tidal.squid.wtf/) `tidal`
-
 ## AMVs
 - [AKROSS](https://www.akross.ru/index.cgi?l=e)
 - [AMV Hell](https://www.amvhell.com/)
@@ -132,11 +127,12 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 | Website | Service |
 |-|-|
-| [Lucida](https://lucida.to/) :s: [:alt:](https://lucida.su/) | Amazon Music, Deezer, Qobuz, Tidal, Yandex |
-| [DoubleDouble](https://doubledouble.top/) :s: | Amazon Music, Beatport, Qobuz, Soundcloud, Tidal |
-| [QQDL](https://qqdl.site/) | Qobuz |
+| [Lucida](https://lucida.to/) :s: [:alt:](https://lucida.su/) | Amazon, Deezer, Qobuz, Soundcloud, Tidal, Yandex |
+| [DoubleDouble](https://doubledouble.top/) :s: | Amazon, Deezer, Qobuz, Soundcloud, Tidal |
 | [Squid.wtf](https://squid.wtf/) | KHInsider, Tidal |
 | [BiniLossless](https://music.binimum.org/) | Tidal |
+| [Monochrome](https://monochrome.tf/) [:alt:](https://monochrome.prigoana.com/) | Tidal |
+| [QQDL](https://qqdl.site/) | Tidal |
 | [DeezMate](https://deezmate.com/) | Deezer |
 | [Apple Music Downloader](https://aaplmusicdownloader.com/) ==amdl== | Apple Music (Lossy) |
 
