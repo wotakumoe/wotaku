@@ -36,6 +36,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 - [Annict](https://annict.com/) :fjp:
 - [Aniplaylist](https://aniplaylist.com/)
 - [Anisil](https://www.anisil.com/) :fjp:
+- [KeyFrame Staff List](https://keyframe-staff-list.com/)
 - [SIMKL](https://simkl.com/)
 
 ## Manga
@@ -285,10 +286,10 @@ ___
 
 ## Encoding & Fansubbing Guides
 
+- [JET Encoding Guide](https://jaded-encoding-thaumaturgy.github.io/JET-guide/) :s:
 - [Advanced Encoding Guide](https://silentaperture.gitlab.io/mdbook-guide/introduction.html)
 - [Fansubbing Guide](https://guide.encode.moe/)
 - [Goodjob Media](https://www.goodjobmedia.com/fansubbing/)
-- [JET Encoding Guide](https://jaded-encoding-thaumaturgy.github.io/JET-guide/)
 - [Subarashii Tutorial](https://subarashii-no-fansub.github.io/Subbing-Tutorial/)
 - [Unanimated](https://unanimated.github.io/guides.htm)
 - [Yukisubs](https://yukisubs.wordpress.com/guides/)
