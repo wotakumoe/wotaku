@@ -398,6 +398,7 @@ og:
 | **Games** | [CS RIN RU Enhanced](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external) |
 | ^^        | Game DL Links on <Badge type="tip" text="GOG" link="https://greasyfork.org/en/scripts/481134-gog-to-free-download-site" /> <Badge type="tip" text="Steam" link="https://greasyfork.org/en/scripts/481139-steam-to-free-download-site" /> |
 | ^^        | [VN(db) Userscripts](https://github.com/MarvNC/vn-userscripts) |
+| ^^        | [VNDB:Re](https://userstyles.world/style/13179/) |
 | **Music** | [Ame](https://gitlab.com/SuperSaltyGamer/ame) |
 | ^^        | [Discogs Scout](https://greasyfork.org/en/scripts/439452-discogs-scout) [:gh:](https://github.com/Purfview/Discogs-Scout) |
 | ^^        | [MusicBrainz Userscripts](https://musicbrainz.org/doc/Guides/Userscripts) |
