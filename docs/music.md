@@ -568,42 +568,34 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 - [Polaris](https://github.com/agersant/polaris)
 - [Subsonic](https://www.subsonic.org/pages/index.jsp)
 
-## Android
-- [Tempo](https://github.com/CappielloAntonio/tempo) :s:
-- [Subtracks](https://github.com/austinried/subtracks#readme)
-- [substreamer](https://substreamerapp.com/)
-- [Ultrasonic](https://ultrasonic.gitlab.io/)
-- [Plexamp](https://www.plex.tv/plexamp/) :fm:
-- [Symfonium](https://symfonium.app/) :paid:  
-
-## iOS
-
-- [play:Sub](http://michaelsapps.dk/playsubapp/)
-- [substreamer](https://substreamerapp.com/)
-- [Amperfy](https://github.com/BLeeEZ/amperfy#readme)
-- [iSub](https://isub.app)
-
-
-## Desktop
-
-- [Sonixd](https://github.com/jeffvli/sonixd) :win::app::lin:
-- [Sublime Music](https://sublimemusic.app/) :lin:
-- [Supersonic](https://github.com/dweymouth/supersonic)  :win::app::lin:
-- [Submariner](https://submarinerapp.com/) :app:
-- [Plexamp](https://www.plex.tv/plexamp/) :win::app::lin::fm:
-- **CLI**
-    - [Jellycli](https://github.com/tryffel/jellycli#readme) :win::lin:
-    - [STMP](https://github.com/wildeyedskies/stmp#readme) :win::app::lin:
-
-## Others
-- [SonicLair](https://github.com/thelinkin3000/SonicLair) <Badge type="info" text="Android TV" />
-- **Connected Speakers**
-  - [bonob](https://github.com/simojenki/bonob#readme) <Badge type="info" text="Sonos" />
-  - [AskSonic](https://github.com/srichter/asksonic#readme) <Badge type="info" text="Alexa" />
-- [Subsonic Kodi Plugin](https://github.com/warwickh/plugin.audio.subsonic#readme)
-- [Navidrome Kodi Plugin](https://github.com/BobHasNoSoul/plugin.audio.navidrome#readme)
-- [HTTPDirFS](https://github.com/fangfufu/httpdirfs#readme)
-- [upmpdcli](https://www.lesbonscomptes.com/upmpdcli/index.html)<tooltip>Expose Navidrome as a UPnP/DLNA media library. Read the [discussion](https://github.com/navidrome/navidrome/discussions/2324)</tooltip>
+## Client
+| Platform | Software |
+|-----------|-----------|
+| **Android** | [Tempo](https://github.com/CappielloAntonio/tempo) :s: |
+| ^^ | [Castafiore](https://github.com/sawyerf/Castafiore) :ff::cr: |
+| ^^ | [Subtracks](https://github.com/austinried/subtracks#readme) |
+| ^^ | [substreamer](https://substreamerapp.com/) |
+| ^^ | [Ultrasonic](https://ultrasonic.gitlab.io/) |
+| ^^ | [Plexamp](https://www.plex.tv/plexamp/) :fm: |
+| ^^ | [Symfonium](https://symfonium.app/) :paid: |
+| **iOS** | [play:Sub](http://michaelsapps.dk/playsubapp/) |
+| ^^ | [substreamer](https://substreamerapp.com/) |
+| ^^ | [Amperfy](https://github.com/BLeeEZ/amperfy#readme) |
+| ^^ | [iSub](https://isub.app) |
+| **Desktop** | [Sonixd](https://github.com/jeffvli/sonixd) :win::app::lin: |
+| ^^ | [Sublime Music](https://sublimemusic.app/) :lin: |
+| ^^ | [Supersonic](https://github.com/dweymouth/supersonic) :win::app::lin: |
+| ^^ | [Submariner](https://submarinerapp.com/) :app: |
+| ^^ | [Plexamp](https://www.plex.tv/plexamp/) :win::app::lin::fm: |
+| ^^ | [Jellycli](https://github.com/tryffel/jellycli#readme) :win::lin::cmd: |
+| ^^ | [STMP](https://github.com/wildeyedskies/stmp#readme) :win::app::lin::cmd: |
+| **Others** | [SonicLair](https://github.com/thelinkin3000/SonicLair) <Badge type="info" text="Android TV" /> |
+| ^^ | [bonob](https://github.com/simojenki/bonob#readme) <Badge type="info" text="Sonos" /> |
+| ^^ | [AskSonic](https://github.com/srichter/asksonic#readme) <Badge type="info" text="Alexa" /> |
+| ^^ | [Subsonic Kodi Plugin](https://github.com/warwickh/plugin.audio.subsonic#readme) |
+| ^^ | [Navidrome Kodi Plugin](https://github.com/BobHasNoSoul/plugin.audio.navidrome#readme) |
+| ^^ | [HTTPDirFS](https://github.com/fangfufu/httpdirfs#readme) |
+| ^^ | [upmpdcli](https://www.lesbonscomptes.com/upmpdcli/index.html) <tooltip>Expose Navidrome as a UPnP/DLNA media library. Read the [discussion](https://github.com/navidrome/navidrome/discussions/2324)</tooltip> |
 
 :::details Related Resources
 - [Self-hosted Music Overview](https://github.com/basings/selfhosted-music-overview)
