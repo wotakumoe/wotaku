@@ -94,6 +94,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [AnimeSchedule](https://animeschedule.net/) [:rss:](https://animeschedule.net/rss) [:rss:](https://github.com/RockinChaos/AniSchedule) |  
 | ^^ | [Anime Countdown](https://animecountdown.com/) |  
 | ^^ | [Anisaki](https://anisaki.vercel.app/) [:gh:](https://github.com/BayuDC/anisaki) |  
+| ^^ | [Kenny Stryker’s English dublist](https://myanimelist.net/forum/?topicid=1692966) |
 | ^^ | [Notify.moe](https://notify.moe/calendar) |  
 | ^^ | [Senpai.moe](https://www.senpai.moe/) |  
 | **Monthly** | [Anica](https://anica.jp/) |  
@@ -243,14 +244,16 @@ ___
 | ^^        | [due.moe](https://due.moe/) | :al: |  
 | ^^        | [Related Anime](https://relatedanime.com/) | :mal: |  
 | ^^        | [Topsters](https://topsters.org/) | :simple-icons-themoviedatabase::simple-icons-lastdotfm::simple-icons-igdb::simple-icons-internetarchive: |
-| **Anime** | [Manga Adaptations](https://anilist-adaptations.timschneeberger.me/) [:gh:](https://github.com/timschneeb/manga-adaptations-anilist) | :al: |  
-| ^^        | [Randime](https://randime.moe/) | :no: |  
+| **Anime** | [Animerank](https://animerank.top/) | :mal: |
+| ^^        | [Manga Adaptations](https://anilist-adaptations.timschneeberger.me/) [:gh:](https://github.com/timschneeb/manga-adaptations-anilist) | :al: |  
+| ^^        | [MyDubList](https://mydublist.com/) [:gh:](https://github.com/Joelis57/MyDubList) | - |
+| ^^        | [Randime](https://randime.moe/) | - |  
 | ^^        | [Spin.moe](https://spin.moe/) | :mal::al::k: |  
-| **Manga** | [Ermitteln](https://ermitteln.ihateani.me/) [:gh:](https://github.com/noaione/cmx-ermitteln) | :no: |  
-| ^^        | [iTunes Artwork Finder](https://bendodson.com/projects/itunes-artwork-finder/) | :no: |
-| ^^        | [Mihon Local Source JSON Generator](https://local.mihon.tools/) | :no: |
+| **Manga** | [Ermitteln](https://ermitteln.ihateani.me/) [:gh:](https://github.com/noaione/cmx-ermitteln) | - |  
+| ^^        | [iTunes Artwork Finder](https://bendodson.com/projects/itunes-artwork-finder/) | - |
+| ^^        | [Mihon Local Source JSON Generator](https://local.mihon.tools/) | - |
 | ^^        | [Mitsukeru](https://mitsukeru.timschneeberger.me/) [:gh:](https://github.com/timschneeb/Mitsukeru) | :al: |   
-| ^^        | [Tachibk Viewer](https://backup.mihon.tools/) [:gh:](https://github.com/Animeboynz/Mihon-Backup-Viewer) | :no: |
+| ^^        | [Tachibk Viewer](https://backup.mihon.tools/) [:gh:](https://github.com/Animeboynz/Mihon-Backup-Viewer) | - |
 
 ## Image
 | Category    | Websites |
