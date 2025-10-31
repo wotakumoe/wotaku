@@ -11,16 +11,6 @@ hero:
   image:
     src: \asset\same.png
     alt: Wotaku
-  actions:
-    - theme: brand
-      text: Browse
-      link: /qs.md
-    - theme: alt
-      text: GitHub
-      link: https://github.com/wotakumoe/Wotaku
-    - theme: alt
-      text: Discord
-      link: https://discord.gg/vShRGx8ZBC
 
 aside: left
 
