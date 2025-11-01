@@ -298,8 +298,8 @@ og:
 ### Anime
 
 - **Stream**
-  - [1XAnime](https://www.1xanime.org/)
   - [AllWish](https://all-wish.me/home)
+  - [AnimaHD](https://animahd.com/) [:alt:](https://www.1xanime.org/)
   - [Anime World India](https://watchanimeworld.in/)
   - [Dora Bash](https://dorabash.com/)
   - [ToonStream](https://toonstream.love/)
@@ -308,9 +308,9 @@ og:
   - [ATOZ CARTOONIST](https://www.atozcartoonist.com/)
   - [PikaHD](https://pikahd.com/)
   - [Puretoons](https://puretoons.in/)
-  - [SDToons](https://sdtoons.com/) :ero: [:alt:](https://sdtoons.in/)
+  - [SDToons](https://sdtoons.com/) :ero:
   - [Tamil Toon](https://tamiltoon.net/)
-  - [Toonhub4u](https://toonhub4u.net/)
+  - [Toonhub4u](https://toonhub4u.co/home/)
   - [ToonsHub](https://www.toonshub.xyz/)
   - [Toonworld4all](https://toonworld4all.me/)
 
