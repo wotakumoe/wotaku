@@ -81,7 +81,6 @@ ___
 - [Anime decks (Official AnkiWeb)](https://ankiweb.net/shared/decks?search=anime)
 - [Anime decks (Sub2Srs)](https://rentry.org/wotadirect)
 - [Core 2k/6k Optimized Japanese Vocabulary Anki](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) 
-- [DoJG Deck](https://dojgdeck.neocities.org/) 
 - [Japanese course based on Tae Kim's grammar guide & anime](https://ankiweb.net/shared/info/911122782) 
 - [Japanese Proper Nouns Deck](https://github.com/friedrich-de/Japanese-Proper-Nouns-Deck)
 - [Tango N5 omega deck](https://rentry.org/wotadirect) <Badge type="info" text="Beginner" />

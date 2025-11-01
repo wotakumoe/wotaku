@@ -173,7 +173,6 @@ ___
 ### Sites
 
 - [Yokubi](https://yoku.bi/) :s: <tooltip>Updated version of Sakubi by community</tooltip>
-- [A Dictionary of Japanese Grammar](https://core6000.neocities.org/dojg/)
 - [IMABI](https://imabi.org/) :s: <tooltip>Very detailed reference</tooltip>
 - [Tae Kim's Guide](https://guidetojapanese.org/learn/)
 - [Pomax's An introduction to Japanese](https://pomax.github.io/nrGrammar/)
@@ -187,7 +186,6 @@ ___
   - [Tylab version](https://tylab.dev/sakubi/home.html)
 - [A Beginner’s Japanese Grammar Guide](https://www.japanistry.com/japanese-grammar-guide/)
 - [Visualizing Japanese Grammar](https://www2.gwu.edu/~eall/vjgnew/vjghomepage/vjghome.htm)
-- [DoJG Deck](https://dojgdeck.neocities.org/)
 - [DoJG Lite](https://dojglite.github.io/main/) [:gh:](https://github.com/dojglite/main)
 - [Bunpro](https://bunpro.jp/) :fm:
 - [JLPT Grammar List](https://jlptgrammarlist.neocities.org/)
