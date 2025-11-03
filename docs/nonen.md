@@ -516,7 +516,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [Goyabu](https://goyabu.to/home-2)
 - [Hinata Soul](https://www.hinatasoul.com/)
 - [HentaisTube](https://www.hentaistube.com/) :ero:
-- [Kanade](https://kanade.com.br/) `TV`
 - [:tg: Toonami na Era do Telegram](https://t.me/toonamibr)
 
 #### Software
@@ -754,7 +753,6 @@ ___
 - [HentaiCube](https://hentaicube.xyz/)
 - [HentaiVN](https://hentaivn.party/)
 - [KuroNeko](https://vi-hentai.com/)
-- [LXmanga](https://lxmanga.wiki/)
 - [TruyenHentaiVN](https://truyenhentaivn.club/)
 
 ### Novels
