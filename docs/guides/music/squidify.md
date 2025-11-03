@@ -17,7 +17,7 @@ Squidify is a public music streaming service that offers a vast collection of An
 Squidify is based on Navidrome which has its own set of third-party Apps besides its own [Web UI](https://www.squidify.org/). It should be compatible with all Subsonic clients. The following clients are tested and confirmed to work properly:
 
 ::: info Client list
-Check the clients listed [**here**](/music#client)
+Check out the clients listed [**here**](/music#client)
 :::
 
 ## Credentials
