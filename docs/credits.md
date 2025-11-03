@@ -95,11 +95,13 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Himeliofon**              | [Ninomae Ina’nis back](https://x.com/hmlf_/status/1581015485524545536)                             | NSFW banner         |
 | **Holocure**                | [Ninomae Ina’nis idle](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/)        | Favicon             |
 | **HoYoLAB**                 | [Tanuki sticker](https://genshin-impact.fandom.com/wiki/Bake-Danuki)                               | Japan banner        |
+| **けけ (keke)** | [Halloween girl](https://keke-i.tumblr.com/post/666805124273930240) | Discord server icon |
 | **Kukie-Nyan** | [FUWAMOCO pointing meme](https://x.com/Kukie_nyan/status/1687668480278228992) | Domain change banner |
 | **Kyoto Animation**         | [Mio Naganohara](https://www.zerochan.net/520314)                                                  | Random banner       |
 | **how-dee**                 | [Ninomae Ina’nis padoru](https://www.reddit.com/r/Padoru/comments/iu6jvx/ninomae_inanis_hololive/) | Home art & Favicon  |
 | **しらび (Shirabi)**        | [Artoria Pendragon](https://www.pixiv.net/en/artworks/60495690)                                    | Fate banner         |
 | **森倉円 (Morikura En)**    | [Kizuna Ai Profile Art](https://en.namu.wiki/w/%ED%82%A4%EC%A6%88%EB%82%98%20%EC%95%84%EC%9D%B4)   | Vtuber banner       |
+| **なかゥま (NAKAuMA)** | [Frieren](https://x.com/NAKA_u_MA/status/1976599561096568835) | Discord server icon |
 | **Ninomae Ina’nis**         | [Ninomae Ina’nis reading](https://x.com/ninomaeinanis/status/1340047328963510273)                  | Glossary banner     |
 | ^^         | [Ninomae Ina’nis WAHU WAHU](https://x.com/ninomaeinanis/status/1652829909218373632)                | Button              |
 | **Saeki Yahiro** | [Hoshimachi Suisei Profile Art](https://hololive.hololivepro.com/en/talents/hoshimachi-suisei/) | Vtuber banner |
