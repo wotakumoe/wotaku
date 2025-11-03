@@ -43,11 +43,12 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 - [MangaBaka](https://mangabaka.dev/) :s:
 - [MangaUpdates](https://www.mangaupdates.com/) :s:
 - [Manba](https://manba.co.jp/) :s::fjp:
-- [Comic Vine](https://comicvine.gamespot.com/)
+- [Bookmeter](https://bookmeter.com/) :fjp:
 
 ::: details More
 - [Chill Chill](https://www.chil-chil.net/) :ero::fjp:
-- [Comic bibliographic and cover archives](https://web.archive.org/web/20220928162853/http://www.eshita.jp/comics/index.html)
+- [Comic Bibliographic and Cover Archives](https://web.archive.org/web/20220928162853/http://www.eshita.jp/comics/index.html)
+- [Comic Vine](https://comicvine.gamespot.com/)
 - [Kazamkase Comic Database](https://kazemakase.wjg.jp/comics/) ==kazamakase==
 - [LAMA](https://lama.watch/)
 - [Shounen Manga Encyclopedia](https://comicdate.web.fc2.com/) `fc2`
