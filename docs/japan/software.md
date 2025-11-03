@@ -32,7 +32,6 @@ ___
 - [Xelieu's Modified Anime Card](https://lazyguidejp.github.io/jp-lazy-guide/)
 - [vladsperspective](https://vladsperspective.wordpress.com/2020/07/15/using-anime-decks-subs2srs-mediafire-premade-decks/)
 - [Optimizing Anki For Language Learning](https://cademcniven.com/posts/20210410/)
-- [Mokuro's Guide to mining manga](https://mokuro.moe/)
 
 ### Addons
 - [Advanced Browser](https://ankiweb.net/shared/info/874215009)
@@ -170,7 +169,6 @@ ___
 - [Mokuro](https://github.com/kha-white/mokuro) :win::app::lin:
   - [ZXY101's fork](https://github.com/ZXY101/mokuro-reader)
   - [KojoZero's fork](https://github.com/KojoZero/mokuro-reader)
-  - [Mokuro Catalog](https://catalog.mokuro.moe/)
   - [Mokuro.moe Full Manga Catalog [2024-10-09]](https://rentry.org/wotadirect)
 - [ttsu Ebook Reader](https://reader.ttsu.app/) :web: [:gh:](https://github.com/ttu-ttu/ebook-reader) 
 

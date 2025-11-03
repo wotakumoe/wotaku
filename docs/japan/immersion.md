@@ -107,7 +107,6 @@ og:
 ## Manga
 
 - [Bilingual Manga](https://bilingualmanga.org/) :s: <Badge type="tip" text="Backup" link="https://github.com/B-M-dev/Bilingual_Manga-home-" />
-- [Mokuro Catalog](https://catalog.mokuro.moe/) <Badge type="tip" text="Nyaa" link="https://nyaa.si/view/1883088" />
 
 ::: info Raw section has been moved
 To remove clutter and dupe links, raw manga websites have been move to [**Non-English**](/nonen#japanese). Only OCR-ed manga or those specifically uploaded for learning japanese will stay here.
