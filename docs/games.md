@@ -10,81 +10,9 @@ og:
 
 <GradientCard title="Games" description="Everything Game-related in one page!" theme="turquoise" variant="thin"/>
 
-
-## General Download
-
-- [Nyaa](https://nyaa.si/?f=0&c=6_2&q=)  <Badge type="green" text="SFW" />
-- [CS RIN](https://cs.rin.ru/forum/) :acc:
-- [Doujin Style](https://doujinstyle.com/) <Badge type="info" text="Doujin" />
-- [Free GOG PC Games](https://freegogpcgames.com/)
-- [Gload](https://gload.to/)
-- [GOG Games](https://gog-games.to/) <Badge type="info" text="PD Bypass" link="https://pixeldrain-bypass.cybar.xyz/" />
-- [Japanese PC Compendium](https://japanesepccompendium.blogspot.com/)
-- [Legends World](https://legendsworld.net/main/legendsworld/)
-- [Moriya Shrine](https://moriyashrine.org/) <Badge type="info" text="Touhou" />
-- [My Abandonware](https://www.myabandonware.com/)
-- [Old Games Download](https://oldgamesdownload.com/)
-- [Ova Games](https://www.ovagames.com/)
-- [The Collection Chamber](https://collectionchamber.blogspot.com/)
-- [Torrminatorr](https://torrminatorr.com/) :acc:
-
-::: danger Untrusted sites
-[**Click here to get the list**](https://rentry.org/pgames#untrusted-sites) of Untrusted Game Downloading Websites.
+::: tip Quick Tip
+For game download sites, you can visit our friends over at [**Privateersclub**](https://megathread.pages.dev/download).
 :::
-
-## ROM
-
-### General
-- [/r/Roms Megathread](https://r-roms.github.io/) :s:
-- [Axekin](https://www.axekin.com/)
-- [ConsoleRoms](https://www.consoleroms.com/)
-- [Crocdb](https://crocdb.net/)
-- [EBZero ROM set](https://archive.org/details/retro-roms-best-set) :acc:
-- [EpicRoms](https://epicroms.net/)
-- [FantasyAnime](https://fantasyanime.com/)
-- [Myrient](https://myrient.erista.me/)
-- [RetroGameTalk](https://retrogametalk.com/) :acc:
-- [Romheaven](https://romheaven.com/) <Badge type="info" text="PD Bypass" link="https://pixeldrain-bypass.cybar.xyz/" />
-- [ROMsPURE](https://romspure.cc/roms)
-- [The ROM Depot](https://theromdepot.com/) :acc:
-- [Vimm's Lair](https://vimm.net/)
-- [AlvRo's Collection](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml) :host:
-
-### Platform Specific
-- [hShop](https://hshop.erista.me/) :simple-icons-nintendo3ds:
-- [NoPayStation](https://nopaystation.com/) :simple-icons-playstation:
-- [notUltraNX](https://not.ultranx.ru/en) :simple-icons-nintendoswitch::acc:
-- [NXBrew](https://nxbrew.net/) :simple-icons-nintendoswitch:
-- [ROMSIM](https://romsim.com/) :simple-icons-nintendoswitch:
-- [Romslab](https://romslab.com/) :simple-icons-nintendoswitch::simple-icons-playstation:
-- [Switch Games Mall](https://www.switchgamesmall.icu/) :simple-icons-nintendoswitch:
-- [TAODUNG](https://taodung.com/) :simple-icons-nintendoswitch:
-- [Ziperto](https://www.ziperto.com/) :simple-icons-nintendoswitch:
-
-
-::: info Emulation
-check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page).
-:::
-
-## Tools
-
-### Misc
-- [Arks-Layer](https://arks-layer.com/index.php)
-- [Collapse Launcher](https://collapselauncher.com/) [:gh:](https://github.com/CollapseLauncher/Collapse)
-- [Hoyolab Auto-sign](https://github.com/canaria3406/hoyolab-auto-sign)
-- [Locale Emulator](https://github.com/xupefei/Locale-Emulator)
-- [Locale Remulator](https://github.com/InWILL/Locale_Remulator)
-- [Megami Tensei Fusion Tools](https://aqiu384.github.io/megaten-fusion-tool/home)
-- [Sekai Viewer](https://sekai.best/) [:gh:](https://github.com/Sekai-World/sekai-viewer)
-- [sm64coopdx](https://sm64coopdx.com/)
-- [Starward](https://github.com/Scighost/Starward)
-- [XIVLauncher](https://goatcorp.github.io/)
-
-### OCR
-- [Agent](https://github.com/0xDC00/agent)
-- [MTool](https://trs.mtool.app/release.php?lang=en) :fm:
-- [YomiNinja](https://github.com/matt-m-o/YomiNinja)
-
 
 ## Info
 
@@ -119,6 +47,24 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 - [GG.deals](https://gg.deals/)
 - [psprices](https://psprices.com/)
 
+## Tools
+
+### Misc
+- [Arks-Layer](https://arks-layer.com/index.php)
+- [Collapse Launcher](https://collapselauncher.com/) [:gh:](https://github.com/CollapseLauncher/Collapse)
+- [Hoyolab Auto-sign](https://github.com/canaria3406/hoyolab-auto-sign)
+- [Locale Emulator](https://github.com/xupefei/Locale-Emulator)
+- [Locale Remulator](https://github.com/InWILL/Locale_Remulator)
+- [Megami Tensei Fusion Tools](https://aqiu384.github.io/megaten-fusion-tool/home)
+- [Sekai Viewer](https://sekai.best/) [:gh:](https://github.com/Sekai-World/sekai-viewer)
+- [sm64coopdx](https://sm64coopdx.com/)
+- [Starward](https://github.com/Scighost/Starward)
+- [XIVLauncher](https://goatcorp.github.io/)
+
+### OCR
+- [Agent](https://github.com/0xDC00/agent)
+- [MTool](https://trs.mtool.app/release.php?lang=en) :fm:
+- [YomiNinja](https://github.com/matt-m-o/YomiNinja)
 
 ## osu!
 
@@ -156,7 +102,6 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 - [PokéJungle](https://pokejungle.net/) <Badge type="info" text="News" />
 - [PokéPalette](https://pokemonpalette.com/)
 
-
 ### Fan Games
 - [Deluge RPG](https://www.delugerpg.com/)
 - [Eevee Expo](https://eeveeexpo.com/)
@@ -169,7 +114,6 @@ check [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main
 - [Pokémon Xenoverse](https://pokemonxenoverse.com/)
 - [PokéRogue](https://pokerogue.net/) [:gh:](https://github.com/pagefaultgames/pokerogue)
 - [Who's that Pokémon?](https://gearoid.me/pokemon/)
-
 
 ### Tools
 - [dataDex](https://play.google.com/store/apps/details?id=com.talzz.datadex) :and:
