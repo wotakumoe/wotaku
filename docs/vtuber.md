@@ -277,7 +277,7 @@ og:
 | [Submerged Mystery: Takodachi](https://velveteenio.itch.io/submerged-mystery-takodachi) | Free   | Ninomae Ina'Nis  | Velveteen  | Velveteen |
 | [Super Holo Wars](https://tshadowknight.itch.io/super-holo-wars) | Free | Hololive | TShadowKnight | TShadowKnight |
 
-### Tower Defence
+### Tower Defense
   
 | Game                                                   | Price  | MC             | Dev             | Publisher |
 |--------------------------------------------------------|--------|---------------|----------------|-----|
