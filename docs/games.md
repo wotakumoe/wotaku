@@ -212,7 +212,7 @@ For game download sites, you can visit our friends over at [**Privateersclub**](
 #### Official
 - [Master Duel](https://www.konami.com/yugioh/masterduel/us/en/)
 - [Duel Links](https://www.konami.com/yugioh/duel_links/en/)
-- [Yu-Gi-Oh! Neuron](https://www.konami.com/yugioh/neuron/en/) <Badge type="info" text="Companion app" />
+- [Yu-Gi-Oh! Neuron](https://www.konami.com/yugioh/neuron/en/) <Badge type="info" text="Companion" />
 ___
 #### Unofficial
 - [Dueling Book](https://www.duelingbook.com/) <Badge type="info" text="Website" />
