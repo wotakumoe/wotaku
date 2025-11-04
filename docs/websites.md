@@ -503,7 +503,6 @@ Trackers have been moved to their [**own page**](/torrenting/trackers)!
 - [Disney+](https://www.disneyplus.com/)
 - [HBO Max](https://www.hbomax.com/)
 - [Hidive](https://www.hidive.com/)
-- [Hulu](https://www.hulu.com/)
 - [Netflix](https://www.netflix.com/)
 - [OceanVeil](https://oceanveil.net/) :ero:
 - [Prime Video](https://www.primevideo.com/)
@@ -517,7 +516,6 @@ Trackers have been moved to their [**own page**](/torrenting/trackers)!
 - [Anime Bancho](https://www.youtube.com/@AnimeBancho/)
 - [Ani-One Asia](https://www.youtube.com/@AniOneAsia/) <Badge type="info" text="Regional" />
 - [Muse Asia](https://www.youtube.com/@MuseAsia/) <Badge type="info" text="Regional" />
-- [GODZILLA OFFICIAL by TOHO](https://www.youtube.com/GodzillaToho)
 - [Pokémon TV](https://www.youtube.com/@OfficialPoke%CC%81monTV) <Badge type="info" text="Regional" />
 - [TMS Official](https://www.youtube.com/@AnimeonTMSOfficialChannel/) <Badge type="info" text="Regional" />
 :::
