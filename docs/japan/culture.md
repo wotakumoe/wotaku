@@ -133,6 +133,7 @@ og:
     - [WACKY WEEKEND](https://www.youtube.com/playlist?list=PL3BrCRgvsZ9DbueHiNITARMRqi0YfCgbT) :s:
     - [Documentaries](https://www.youtube.com/playlist?list=PLSOR9_iNzVfnEAmyp9QbIQk3xkeLVTUTq)
 - [Ask Japanese](https://www.youtube.com/@AskJapanese)
+- [Emirichu](https://www.youtube.com/@Emirichu)
 - [Japanalysis](https://www.youtube.com/@Japanalysis) :s:
 - [Let's ask Shogo](https://www.youtube.com/@LetsaskShogo)
 - [Life Where I'm From](https://www.youtube.com/@LifeWhereImFrom)
