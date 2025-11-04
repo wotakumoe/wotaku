@@ -101,7 +101,7 @@ Rippers upload what they like, without following any specific schedule (even in 
 :::details What's the best reader for manga?
 
 ### Android
-[**Perfect viewer**](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer). Why? Because it has better scaling algorithm than others (including tachiyomi / mihon and kotatsu). But you wont get the luxury of directly reading from online sources in Perfect viewer. So, you have to balance between the sources.
+[**Perfect viewer**](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer). Why? Because it has better scaling algorithm than others (including Tachiyomi / Mihon). But you wont get the luxury of directly reading from online sources in Perfect viewer. So, you have to balance between the sources.
 
 ### iOS
 [**YACReader**](https://apps.apple.com/app/id635717885) is recommended as local reader. You can use [Paperback](https://github.com/Paperback-iOS/app) as your komga or kavita client and [Aidoku](https://github.com/Aidoku/Aidoku) as an online reader.
