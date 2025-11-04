@@ -70,11 +70,7 @@ export const shared: UserConfig<DefaultTheme.Config> = {
     nav,
     socialLinks: [
       { icon: 'github', link: 'https://github.com/wotakumoe/Wotaku' },
-      { icon: 'discord', link: 'https://discord.gg/vShRGx8ZBC' },
-      {
-        icon: 'bluesky',
-        link: 'https://bsky.app/profile/wotaku.wiki'
-      }
+      { icon: 'discord', link: 'https://discord.gg/vShRGx8ZBC' }
     ],
     footer: {
       message: `<a href="https://github.com/wotakumoe">The Wotaku Team</a> <span class="divider">|</span> <a href="https://github.com/wotakumoe/Wotaku/commit/${GIT_COMMIT}">${GIT_COMMIT.slice(
