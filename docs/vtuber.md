@@ -204,6 +204,7 @@ og:
 | [Holo Hidden](https://store.steampowered.com/app/3904810/) | $2.49 | Harusaki Nodoka | toMoMI Games | holo Indie | 
 | [Holo on Suika](https://tkgames.jp/holo_watermelon.html)       | Free   | Hololive          | TKGames    | TKGames |
 | [ホロポップ (Holo Pop)](https://store.steampowered.com/app/3155810/) :fjp: | $2.49 | Hololive JP | HappyHoppyHappy | holo Indie |
+| [HoloCafe](https://store.steampowered.com/app/3923440/) | $4.99 | Hololive | Kevinfu510 | holo Indie |
 | [Holoidle](https://store.steampowered.com/app/3543350/) | $2.99 | Hololive | Kindred Interactive | holo Indie |
 | [hololive Treasure Mountain](https://store.steampowered.com/app/2972990/) | $4.99  | Houshou Marine   | BeXide     | holo Indie |
 | [Pebble Jame](https://gioba-games.itch.io/pebble-jame)         | Free   | Koseki Bijou      | Goiba      | Goiba |
