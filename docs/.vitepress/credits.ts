@@ -65,10 +65,6 @@ export const contribs = {
       avatar: '/pfp/denpa.jpg'
     },
     {
-      name: 'nuff',
-      avatar: '/pfp/nuff.png'
-    },
-    {
       avatar: '/pfp/green.webp',
       name: 'Green'
     },
@@ -95,6 +91,10 @@ export const contribs = {
       name: 'loocool',
       avatar: 'https://github.com/loocool2.png',
       site: 'https://github.com/loocool2'
+    },
+    {
+      name: 'nuff',
+      avatar: '/pfp/nuff.png'
     }
   ],
   special: [
