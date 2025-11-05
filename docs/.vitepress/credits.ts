@@ -65,11 +65,6 @@ export const contribs = {
       avatar: '/pfp/denpa.jpg'
     },
     {
-      avatar: 'https://github.com/farahnur42.png',
-      name: 'Fahim',
-      site: 'https://github.com/farahnur42'
-    },
-    {
       name: 'nuff',
       avatar: '/pfp/nuff.png'
     },
