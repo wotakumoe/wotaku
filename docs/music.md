@@ -129,6 +129,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 |-|-|
 | [Lucida](https://lucida.to/) :s: [:alt:](https://lucida.su/) | Amazon, Deezer, Qobuz, Soundcloud, Tidal, Yandex |
 | [DoubleDouble](https://doubledouble.top/) :s: | Amazon, Deezer, Qobuz, Soundcloud, Tidal |
+| [YAMS](https://yams.tf/) | Deezer, Qobuz |
 | [Squid.wtf](https://squid.wtf/) | KHInsider, Tidal |
 | [BiniLossless](https://music.binimum.org/) | Tidal |
 | [Monochrome](https://monochrome.tf/) [:alt:](https://monochrome.prigoana.com/) | Tidal |
