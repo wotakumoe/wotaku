@@ -99,7 +99,6 @@ og:
   - [AGE](https://www.agedm.io/) [:prx:](https://rentry.org/agefans)
   - [Bimibimi](http://www.bimiacg10.net/)
   - [CC](https://ccdm.cc/)
-  - [ddys](https://ddys.art/category/anime/)
   - [MoMoVod](https://momovod.app/show/30.html)
   - [XG Cartoon](https://www.xgcartoon.com/)
   - [Yinghuacd](https://www.yinhuadm.vip/) [:prx:](http://yinhuadm.one/)
@@ -203,7 +202,7 @@ og:
 
 - [AnimeKO](https://animeko.ws/)
 - [Anime-Kami](https://anime-kami.com/)
-- [Anime-Sama](https://anime-sama.fr/)
+- [Anime-Sama](https://anime-sama.org/)
 - [AnimesUltra](https://animesultra.org/)
 - [FanKai](http://fankai.fr/) [:alt:](https://linktr.ee/FanKai)
 - [FRAnime](https://franime.fr/)

@@ -48,19 +48,12 @@ outline: 1
 | [AniXL](https://anixl.to/) | :mingcute-user-2-fill: | :cc: |
 | [Watch Cartoon Online](https://www.wco.tv/) [:prx:](https://www.wcostatus.com/) ==WCO== | :mingcute-user-2-fill: | :hs: |
 
-### Mix
-| Websites | Login | Sub |
-|----------|----------------------|--------|
-| [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) ==AllManga== | :mingcute-user-2-fill: | :cc::hs: |
-| [Aninow](https://aninow.tv/home) ==aninow== | :mingcute-user-2-fill: | :cc::hs: |
-
 ### Low Res
 | Websites | Login | Sub |
 |----------|----------------------|--------|
 | [Anime Defenders](https://animedefenders.me/) :ero: | :mingcute-user-2-fill: | :hs: |
 | [AnimeOnsen](https://www.animeonsen.xyz/) | :mingcute-user-2-fill: | :cc: |
 | [Otaku-Streamers](https://beta.otaku-streamers.com/) <Badge type="info" text="Old" link="https://otaku-streamers.com/" /> ==OtakuStreamers== | :mingcute-user-2-fill: | :hs: |
-
 
 ### Scrapers
 | Websites | Login | Sub |
