@@ -93,13 +93,13 @@ export const contribs = {
       site: 'https://github.com/loocool2'
     },
     {
+      name: 'nuff',
+      avatar: '/pfp/nuff.png'
+    },
+    {
       name: 'P10',
       avatar: 'https://github.com/P10Ms.png',
       site: 'https://github.com/P10Ms'
-    },
-    {
-      name: 'nuff',
-      avatar: '/pfp/nuff.png'
     }
   ],
   special: [
