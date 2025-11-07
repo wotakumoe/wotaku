@@ -230,7 +230,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [Anime-sharing](http://www.anime-sharing.com/forum/)
 - [ASMR Online](https://asmr.one/)
 - [Hentai ASMR](https://www.hentaiasmr.moe/)
-- [HMV Mania](https://hmvmania.com/) [:f:](https://archiveofsins.com/h/thread/8676515)
+- [HMV Mania](https://hmvmania.com/) [:f:](https://archiveofsins.com/h/thread/8735646)
 - [Japanese ASMR](https://japaneseasmr.com/)
 - [Kasumi](http://xdcc.kasumi.moe/) [:help:](http://kasumi.moe/guide/)
 - [Kemono](https://kemono.cr/)
