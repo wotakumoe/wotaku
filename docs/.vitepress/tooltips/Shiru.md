@@ -1,1 +1,0 @@
-This project is a hard fork of Miru. As Miru has been fully rewritten into Hayase, certain dependencies may now be outdated.

@@ -1,1 +1,0 @@
-Scrapes HiAnime(ZoroX) and AnimePahe(BunnyCDN). Aninow is their own uploads.

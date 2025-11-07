@@ -33,7 +33,6 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 ::: details More
 | App | Source | Tracker |
 |-|-|-|
-| [Shiru](https://github.com/RockinChaos/Shiru) ==Shiru== | :mag: | :mal::al: |
 | [Animiru](https://github.com/quickdesh/Animiru)  | :ddl: | :mal::al::k::simkl: |
 | [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one) | :mag: | :mal::al::k::simkl: |
 | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi) | :ddl::mag: | :mal::al::k: |
@@ -227,7 +226,6 @@ or buy an Android phone :ic-twotone-thumb-up:
 :::details More
 | Program | OS | Source | Tracker |
 |-|-|-|-|
-| [Shiru](https://github.com/RockinChaos/Shiru) ==Shiru== | :win::app::lin: | :mag: | :mal::al: |
 | [Toru](https://github.com/sweetbbak/toru) | :win::app::lin::cmd: | :mag: | :no: |
 | [Zenshin](https://hitarth-gg.github.io/zenshin-website/) [:gh:](https://github.com/hitarth-gg/zenshin) | :win::app::lin: | :mag: | :al: |
 | [Totoro](https://github.com/insomniachi/Totoro) | :win: | :mag::ddl: | :mal::al::simkl: |
