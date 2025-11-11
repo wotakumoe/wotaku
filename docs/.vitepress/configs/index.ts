@@ -5,22 +5,32 @@
  *
  *  All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
  */
-import type { DefaultTheme, Plugin, UserConfig } from 'vitepress'
-import { generateImages, generateMeta } from './hooks'
-import { defs, movePlugin, aliases } from './markdown/emoji'
-import {
-  PageProperties,
-  PagePropertiesMarkdownSection
-} from '@nolebase/vitepress-plugin-page-properties/vite'
 import {
   GitChangelog,
   GitChangelogMarkdownSection
 } from '@nolebase/vitepress-plugin-git-changelog/vite'
+import {
+  PageProperties,
+  PagePropertiesMarkdownSection
+} from '@nolebase/vitepress-plugin-page-properties/vite'
 import { fileURLToPath, URL } from 'node:url'
 import UnoCSS from 'unocss/vite'
 import Devtools from 'vite-plugin-vue-devtools'
+import type { DefaultTheme, Plugin, UserConfig } from 'vitepress'
+import { hostname, sidebar, siteConfig } from './constants'
+import { generateImages, generateMeta } from './hooks'
 import { configureMarkdown } from './markdown'
-import { GIT_COMMIT, hostname, nav, sidebar, siteConfig } from './constants'
+import { aliases, defs, movePlugin } from './markdown/emoji'
+
+const GIT_COMMIT = process.env.NODE_ENV === 'development'
+  ? 'dev'
+  /** Github actions commit hash */
+  : (process.env.GITHUB_SHA ??
+    /** Commit hash from git */
+    (await (await import('tinyexec'))
+      .x('git', ['rev-parse', 'HEAD'])
+      .then((result) => result.stdout.trim())) ??
+    'dev')
 
 export const shared: UserConfig<DefaultTheme.Config> = {
   ...siteConfig,
@@ -51,10 +61,9 @@ export const shared: UserConfig<DefaultTheme.Config> = {
                 .filter((t) => Boolean(t))
                 .map((t) => t.toLowerCase())
               // Uprate if term appears in titles. Add bonus for higher levels (i.e. lower index)
-              const titleIndex =
-                titles
-                  .map((t, i) => (t?.includes(term) ? i : -1))
-                  .find((i) => i >= 0) ?? -1
+              const titleIndex = titles
+                .map((t, i) => (t?.includes(term) ? i : -1))
+                .find((i) => i >= 0) ?? -1
               if (titleIndex >= 0) return 10000 - titleIndex
 
               return 1
@@ -67,20 +76,26 @@ export const shared: UserConfig<DefaultTheme.Config> = {
     },
     logo: { src: '/asset/fav.png' },
     sidebar,
-    nav,
+    // nav,
     socialLinks: [
       { icon: 'github', link: 'https://github.com/wotakumoe/Wotaku' },
       { icon: 'discord', link: 'https://discord.gg/vShRGx8ZBC' }
     ],
     footer: {
-      message: `<a href="https://github.com/wotakumoe">The Wotaku Team</a> <span class="divider">|</span> <a href="https://github.com/wotakumoe/Wotaku/commit/${GIT_COMMIT}">${GIT_COMMIT.slice(
-        0,
-        7
-      )}</a>`,
+      message:
+        `<a href="https://github.com/wotakumoe">The Wotaku Team</a> <span class="divider">|</span> <a href="https://github.com/wotakumoe/Wotaku/commit/${GIT_COMMIT}">${
+          GIT_COMMIT.slice(
+            0,
+            7
+          )
+        }</a>`,
       copyright: 'made with love and eepy energy'
     }
   },
   vite: {
+    experimental: {
+      enableNativePlugin: true
+    },
     optimizeDeps: {
       exclude: [
         '@nolebase/vitepress-plugin-enhanced-readabilities/client',
@@ -136,12 +151,9 @@ export const shared: UserConfig<DefaultTheme.Config> = {
           )
         },
         {
-          find: /^.*VPSwitchAppearance\.vue$/,
+          find: /^.*\/VPNavBarSearch\.vue$/,
           replacement: fileURLToPath(
-            new URL(
-              '../theme/components/VPSwitchAppearance.vue',
-              import.meta.url
-            )
+            new URL('../theme/components/NavBarSearch.vue', import.meta.url)
           )
         }
       ]

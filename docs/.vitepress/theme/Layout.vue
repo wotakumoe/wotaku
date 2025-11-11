@@ -6,18 +6,72 @@
   All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
 -->
 <script setup lang="ts">
+import {
+  customStorageEventName,
+  useEventListener,
+  useStorage
+} from '@vueuse/core'
+import { usePreferredReducedMotion } from '@vueuse/core'
+import { useData, useRoute } from 'vitepress'
+import type { DefaultTheme as Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
-import { useEventListener, customStorageEventName } from '@vueuse/core'
-import SidebarCard from './components/SidebarCard.vue'
+import { computed, onMounted, onUnmounted, ref } from 'vue'
+import { sidebar } from '../configs/constants'
 import AnnouncementPill from './components/AnnouncementPill.vue'
 import NotFoundComponent from './components/NotFound.vue'
 import {
   NolebaseEnhancedReadabilitiesMenu,
   NolebaseEnhancedReadabilitiesScreenMenu
-} from '@nolebase/vitepress-plugin-enhanced-readabilities/client'
-import { usePreferredReducedMotion } from '@vueuse/core'
-import { ref, onMounted, onUnmounted } from 'vue'
-import { type Vec2D, v2add, v2mag, v2norm, v2smul, v2sub } from './math'
+} from './components/settings'
+import SidebarCard from './components/SidebarCard.vue'
+import { v2add, v2mag, v2norm, v2smul, v2sub, type Vec2D } from './math'
+import { TakodachiStorageKey } from './constants'
+
+const route = useRoute()
+const { Layout } = DefaultTheme
+
+interface BreadcrumbItem {
+  text: string
+  link?: string
+}
+
+const buildBreadcrumbs = (
+  items: Theme.SidebarItem[],
+  currentPath: string
+): BreadcrumbItem[] => {
+  for (const item of items) {
+    // Check if this item matches the current path
+    if (item.link === currentPath) {
+      return [
+        {
+          text: item.text!.replace('mr-2 block w-4 h-4 bg-cover', '').trim(),
+          link: item.link
+        }
+      ]
+    }
+
+    // Check nested items
+    if (item.items) {
+      const nestedBreadcrumbs = buildBreadcrumbs(item.items, currentPath)
+      if (nestedBreadcrumbs.length > 0) {
+        return [
+          {
+            text: item.text!.replace('mr-2 block w-4 h-4 bg-cover', '').trim(),
+            link: item.link
+          },
+          ...nestedBreadcrumbs
+        ]
+      }
+    }
+  }
+  return []
+}
+
+const breadcrumbs = computed(() => {
+  const currentPath = route.path
+  // @ts-expect-error
+  return buildBreadcrumbs(sidebar, currentPath)
+})
 
 // Respect user's reduced motion preferences
 const prefs = usePreferredReducedMotion()
@@ -44,13 +98,14 @@ const updateMousePos = (e: MouseEvent | TouchEvent) => {
 }
 
 const takodachiDisable = ref<(() => void) | null>(null)
+const takodachiToggledOn = useStorage(TakodachiStorageKey, false)
 
 const reloadTakodachi = () => {
-  takodachiDisable.value && takodachiDisable.value()
+  takodachiDisable.value?.()
 
   if (prefs.value === 'reduce') return
-  const saved = localStorage.getItem('preference-takodachi-enable-disable')
-  if (saved === 'Disable') return
+  const saved = takodachiToggledOn
+  if (saved.value === false) return
 
   window.addEventListener('mousemove', updateMousePos)
   window.addEventListener('touchstart', updateMousePos)
@@ -115,8 +170,6 @@ onMounted(() => {
 onUnmounted(() => {
   takodachiDisable.value && takodachiDisable.value()
 })
-
-const { Layout } = DefaultTheme
 </script>
 
 <template>
@@ -127,6 +180,25 @@ const { Layout } = DefaultTheme
           left: `${position.x}px`,
           top: `${position.y}px`
         }" />
+    </template>
+    <template #doc-before>
+      <!-- Breadcrumb Navigation -->
+      <nav v-if="breadcrumbs.length > 0" class="breadcrumb mb-6 text-sm text-text-2" aria-label="Breadcrumb">
+        <ol class="flex flex-wrap items-center gap-2">
+          <li>
+            <a href="/" class="hover:text-primary transition-colors">
+              <span class="i-lucide:home"></span>
+            </a>
+          </li>
+          <li v-for="(crumb, index) in breadcrumbs" :key="crumb.link || index" class="flex items-center gap-2">
+            <span class="i-lucide:chevron-right text-text-3 flex-shrink-0"></span>
+            <span v-if="index === breadcrumbs.length - 1" v-html="crumb.text"
+              class="font-medium text-text-1 break-words"></span>
+            <a v-else :href="crumb.link" v-html="crumb.text"
+              class="hover:text-primary transition-colors break-words"></a>
+          </li>
+        </ol>
+      </nav>
     </template>
     <template #not-found>
       <NotFoundComponent />
@@ -140,7 +212,7 @@ const { Layout } = DefaultTheme
     <template #nav-bar-content-after>
       <NolebaseEnhancedReadabilitiesMenu />
     </template>
-    <template #nav-bar-screen-content-after>
+    <template #nav-screen-content-after>
       <NolebaseEnhancedReadabilitiesScreenMenu />
     </template>
   </Layout>

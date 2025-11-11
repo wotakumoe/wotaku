@@ -7,11 +7,6 @@ og:
     image: https://i.wotaku.wiki/f/music.png
 ---
 
-
-<GradientCard title="Music" description="Everything Music-related in one page!" theme="turquoise" variant="thin"/>
-
-<br>
-
 ::: info Audio glossary
 If you wanna learn about the audio basics, read our [**audio glossary**](/glossary/audio)
 :::

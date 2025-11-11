@@ -5,9 +5,6 @@ customDescription: Discover the best websites for anime, manga, novels & more.
 outline: 1
 ---
 
-
-<GradientCard title="Websites" description="Online resources for anime, manga, novels and more." theme="turquoise" variant="thin"/>
-
 ![](/banner/wanime.webp)
 
 # Anime
@@ -168,7 +165,7 @@ outline: 1
 | [Anidex](https://xdcc.anidex.moe/) | ^^ | ^^ | #Doki |
 | [animk](https://animk.info/xdcc/) | irc.xertion.org | 6667 | #MK / #XDCCLeech |
 
-<Button link="/guides/tech/irc" icon="i-octicon-command-palette-16">To learn how to use IRC, you can read the guide</Button>
+<Block link="/guides/tech/irc" icon="i-octicon-command-palette-16">To learn how to use IRC, you can read the guide</Block>
 
 
 ::: details Related resources
@@ -439,6 +436,7 @@ To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/k
 - [Ultraman](https://old.reddit.com/r/Ultraman/)
 
 ![](/banner/comics.webp)
+
 # Comics
 
 ## Online
@@ -471,7 +469,7 @@ To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/k
 | ^^                     | [How To Love Comics](https://www.howtolovecomics.com/) |
 | ^^                     | [Marvel Guides](https://marvelguides.com/) |
 | ^^                     | [Official Marvel Guides](https://www.marvel.com/comics/guides) |
-| **Portal**               | [Comic Book Roundup](https://comicbookroundup.com/) |
+| **Portal**             | [Comic Book Roundup](https://comicbookroundup.com/) |
 | ^^                     | [Comic Watch](https://comic-watch.com/) |
 | ^^                     | [The Beat](https://www.comicsbeat.com/) |
 | ^^                     | [The Comics Journal](https://www.tcj.com/) |
@@ -479,13 +477,6 @@ To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/k
 | ^^                     | [League of Comic Geeks](https://leagueofcomicgeeks.com/) |
 | **Tools**              | [Kapowarr](https://casvt.github.io/Kapowarr/) [:gh:](https://github.com/Casvt/Kapowarr) |
 | ^^                     | [Mylar3](https://github.com/mylar3/mylar3) |
-
-
-#### Private Trackers
-
-::: info Moved
-Trackers have been moved to their [**own page**](/torrenting/trackers)!
-:::
 
 ![](/banner/wlegal.webp)
 
@@ -510,6 +501,7 @@ Trackers have been moved to their [**own page**](/torrenting/trackers)!
 - [Anime Bancho](https://www.youtube.com/@AnimeBancho/)
 - [Ani-One Asia](https://www.youtube.com/@AniOneAsia/) <Badge type="info" text="Regional" />
 - [Muse Asia](https://www.youtube.com/@MuseAsia/) <Badge type="info" text="Regional" />
+- [Official Yu-Gi-Oh!](https://www.youtube.com/@yugioh) <Badge type="info" text="Regional" />
 - [Pokémon TV](https://www.youtube.com/@OfficialPoke%CC%81monTV) <Badge type="info" text="Regional" />
 - [TMS Official](https://www.youtube.com/@AnimeonTMSOfficialChannel/) <Badge type="info" text="Regional" />
 :::

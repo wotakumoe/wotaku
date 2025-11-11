@@ -5,10 +5,6 @@ og:
     image: https://i.wotaku.wiki/f/tor.png
 ---
 
-
-<GradientCard title="FAQs" description="Common questions about torrenting" theme="turquoise" variant="thin"/>
-
-
 :::details What does X term mean?
 
 Check out our [torrent glossary](/torrenting/glossary), you should find all important terms there.

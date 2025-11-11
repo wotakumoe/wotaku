@@ -1,0 +1,39 @@
+{
+  "lineWidth": 80,
+  "typescript": {
+    "quoteStyle": "preferSingle",
+    "binaryExpression.operatorPosition": "sameLine",
+    "semiColons": "asi",
+    "trailingCommas": "never"
+  },
+  "json": {
+    "indentWidth": 2
+  },
+  "yaml": {
+    "quotes": "preferSingle"
+  },
+  "toml": {},
+  "malva": {},
+  "markup": {},
+  "excludes": [
+    "trash",
+    "docs/*.md",
+    "docs/public",
+    "*.cache.json",
+    "docs/.vitepress/dist",
+    "docs/.vitepress/cache",
+    "docs/.vitepress/temp",
+    "**/.output",
+    "**/node_modules",
+    "**/*-lock.json",
+    "**/bun.lock"
+  ],
+  "plugins": [
+    "https://plugins.dprint.dev/typescript-0.95.10.wasm",
+    "https://plugins.dprint.dev/json-0.20.0.wasm",
+    "https://plugins.dprint.dev/toml-0.7.0.wasm",
+    "https://plugins.dprint.dev/g-plane/malva-v0.14.2.wasm",
+    "https://plugins.dprint.dev/g-plane/markup_fmt-v0.23.2.wasm",
+    "https://plugins.dprint.dev/g-plane/pretty_yaml-v0.5.1.wasm"
+  ]
+}

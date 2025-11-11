@@ -6,11 +6,6 @@ og:
     image: https://i.wotaku.wiki/f/mado.png
 ---
 
-
-<GradientCard title="Madokami Guide" description="Joining guide for Madokami through IRC" theme="turquoise" variant="thin"/>
-
-<br>
-
 # Madokami Guide
 
 
@@ -27,6 +22,8 @@ Install an IRC client, [**HexChat**](https://hexchat.github.io/) if PC and [**Re
 ### Step 1
 
 Connect to **Rizon IRC network**.
+
+:::steps
 1. Add nickname for your account
 2. Select Rizon in the network list
 3. Click Edit
@@ -34,6 +31,7 @@ Connect to **Rizon IRC network**.
 5. Enable **Accept invalid SSL certificates**
 6. Click Close
 7. Click Connect
+:::
 
 ![](/ss/mado/cnnctrzn.png)
 
@@ -62,24 +60,25 @@ By default, Revolution IRC doesn't list any networks, so you will need to add Ri
 - Make sure that your password is longer than 5 characters
 :::
 
+:::steps
 1. Register your current nickname by typing the following: `/msg NickServ REGISTER yourPassword your@email.address`
 2. Now you should get a confirmation code like this
 
-![](/ss/mado/rzncnfrm.png)
-
+    ![](/ss/mado/rzncnfrm.png)
 3. Copy and paste the confirmation code into the following command: `/msg NickServ CONFIRM ConfirmationCodeFromEmail`
-
+:::
 
 Now, your nickname is registered, and you've automatically been identified. You are eligible to join Madokami.
 Upon your next visit to Rizon IRC network, use the same nickname, and identify using the following command: `/msg NickServ IDENTIFY yourPassword`
 
 ### Step 3
 
+:::steps
 1. Type `/join #madokami` at the bottom command bar to join Madokami channel.
 2. Now type `/msg sola REGISTER username password` in the Madokami channel. You shouldn't reuse the RIZON password here.
 
-![](/ss/mado/madohome.png)
-
+    ![](/ss/mado/madohome.png)
+:::
 
 If everything worked, you will now see a **sola** tab on the left (or at the top on Android). Clicking on it, you will find the bot's reply. If it says that you aren't favored, you can try again after about **4 hours**.
 
@@ -124,12 +123,14 @@ You can also set up your client to do this automatically by adding it to the **C
 
 ### Free Manga Downloader 2
 
+:::steps
 1. Download and install FMD2 from [**here**](https://github.com/dazedcat19/FMD2)
 2. Update all the modules and restart FMD2 after the update is complete. You can check the update process in `Options > Websites > Modules`
 3. Then go to `Options > Websites > Accounts` and add your Madokami credentials. After that select Madokami and click apply.
 4. Set the number of downloaded files per task at the same time under `Options > Connections > Downloads` to 3.
 5. Now go to **Manga info** and paste the URL in **Input URL here** and click :right-arrow:
 6. After it loads the chapters, select the chapters you want to download and click **Download**
+:::
 
 <div class="video_wrapper"><iframe src="https://youtube.com/embed/BR3GR8S_Oqo" frameborder="0" allowfullscreen></iframe></div>
 
@@ -162,6 +163,7 @@ Note that FMD2's module uses Madokami's web reader, which can't read `.webp` fil
 
 ### JDownloader 2
 
+:::steps
 1. Download and install JDL2 from [**here**](/guides/tech/jdl)
 2. Go to `Settings > Basic Authentication` and click the **Add** button at the bottom
 3. Now add the details
@@ -175,23 +177,24 @@ Note that FMD2's module uses Madokami's web reader, which can't read `.webp` fil
    - Max. Chunks per Download: **1**
    - Max. simultaneous Downloads: **3**
 6. Now select the cbz files and right click. Then press **Start Downloads**
-
+:::
 
 <div class="video_wrapper"><iframe src="https://youtube.com/embed/Ar2ZMXjMRDQ" frameborder="0" allowfullscreen></iframe></div>
 
 
 ### Mihon forks
 
+:::steps
 1. Add the [Keiyoushi repo](https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo) in your Mihon forks.
 2. Go to the extension list and search **Madokami**.
 3. Install the extension and go to its settings page.
 4. Add your login credentials.
 5. Now go to the Source page and click on Madokami to read/download the available manga.
+:::
 
 ::: warning WEBP issue
 The Madokami extension by Keiyoushi uses Madokami's web reader instead of downloading the files like other downloaders (so that you can load the manga page by page). Madokami's web reader can't read `.webp` files, resulting in errors in Mihon and its forks as well.
 :::
-
 
 ### iOS
 You can access Madokami on [Suwatte](https://suwatte.mantton.com/) using the [Seb repository](https://sebzzzzzzzzzzzzzzzz.github.io/sources/).

@@ -1,15 +1,11 @@
 ---
 title: Culture
-description: Learn about Japanese Culture, History & Festivals!
-customDescription: Learn about Japanese Culture, History & Festivals!
+description: Learn all about Japanese Culture, History & Customs!
+customDescription: Learn all about Japanese Culture, History & Customs!
 outline: [2,3]
 og:
     image: https://i.wotaku.wiki/f/jp.png
 ---
-
-
-<GradientCard title="About Japan" description=" Learn about Japanese Culture, History & Festivals!" theme="turquoise" variant="thin"/>
-
 
 ## Culture & History
 

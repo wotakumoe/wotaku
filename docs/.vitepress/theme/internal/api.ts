@@ -1,10 +1,10 @@
 /**
-*  All Rights Reserved
-*
-*  Copyright (c) 2025 taskylizard
-*
-*  All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
-*/
+ *  All Rights Reserved
+ *
+ *  Copyright (c) 2025 taskylizard
+ *
+ *  All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
+ */
 interface ApiConfig {
   baseUrl: string
   defaultHeaders?: Record<string, string | Promise<string | null>>
@@ -93,25 +93,25 @@ class Api {
 
 export type TrackHandlerPayload =
   | {
-      type: 'track'
-      payload: TrackPayload
-    }
+    type: 'track'
+    payload: TrackPayload
+  }
   | {
-      type: 'increment'
-      payload: IncrementPayload
-    }
+    type: 'increment'
+    payload: IncrementPayload
+  }
   | {
-      type: 'decrement'
-      payload: DecrementPayload
-    }
+    type: 'decrement'
+    payload: DecrementPayload
+  }
   | {
-      type: 'alias'
-      payload: AliasPayload
-    }
+    type: 'alias'
+    payload: AliasPayload
+  }
   | {
-      type: 'identify'
-      payload: IdentifyPayload
-    }
+    type: 'identify'
+    payload: IdentifyPayload
+  }
 
 export type TrackPayload = {
   name: string
@@ -177,8 +177,8 @@ export class InternalAPI {
     }
 
     defaultHeaders['openpanel-sdk-name'] = options.sdk || 'node'
-    defaultHeaders['openpanel-sdk-version'] =
-      options.sdkVersion || process.env.SDK_VERSION!
+    defaultHeaders['openpanel-sdk-version'] = options.sdkVersion ||
+      process.env.SDK_VERSION!
 
     this.api = new Api({
       baseUrl: 'https://wotaku.wiki',

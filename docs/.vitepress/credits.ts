@@ -1,10 +1,10 @@
 /**
-*  All Rights Reserved
-*
-*  Copyright (c) 2025 taskylizard
-*
-*  All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
-*/
+ *  All Rights Reserved
+ *
+ *  Copyright (c) 2025 taskylizard
+ *
+ *  All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
+ */
 interface Contributor {
   name: string
   avatar: string
@@ -94,7 +94,8 @@ export const contribs = {
     },
     {
       name: 'nuff',
-      avatar: '/pfp/nuff.png'
+      avatar: '/pfp/nuff.png',
+      site: 'https://github.com/gengotech'
     },
     {
       name: 'P10',

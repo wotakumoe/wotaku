@@ -6,8 +6,6 @@ og:
     image: https://i.wotaku.wiki/f/guide.png
 ---
 
-<GradientCard title="Transcoding Audio" description="Basic transcoding guide for audio file" theme="turquoise" variant="thin"/>
-
 Transcoding means converting/encoding audio files from one format to another. In this guide, we will discuss the basics and procedures of transcoding audio files. For the transcoding, we will use [**foobar2000**](https://www.foobar2000.org/) and [**fre:ac**](https://www.freac.org/), but the process should be similar in other programs also.
 
 ::: tip Before starting
@@ -24,6 +22,8 @@ Transcoding means converting/encoding audio files from one format to another. In
 :::
 
 ### fre:ac
+
+:::steps
 1. Download and install [**fre:ac**](https://www.freac.org/)
 2. Click :mdi-plus: **"Add Audio File(s) to the joblist"** button at the top right. If you wanna select a whole folder, you can click the :mdi-menu-down: right beside the Add button.
 3. After selecting the audio files, click **"Open"**.
@@ -34,14 +34,17 @@ Transcoding means converting/encoding audio files from one format to another. In
 8. You can select your output folder at the bottom.
 9. Now click the :mdi-play: button to start the encoding process.
 
-![](/ss/freac.png)
+  ![](/ss/freac.png)
+:::
 
 ### Foobar2000
 
+:::steps
 1. Download and install [**Foobar2000**](https://www.foobar2000.org/) & [**encoder pack**](https://www.foobar2000.org/encoderpack).
    - (Optional) Add [**Georgia-ReBORN**](https://github.com/TT-ReBORN/Georgia-ReBORN) theme.
 2. Add your music library in the foobar2000.
 3. Now follow the video below
+:::
 
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/VjPCHhot_k8" frameborder="0" allowfullscreen></iframe></div>
 

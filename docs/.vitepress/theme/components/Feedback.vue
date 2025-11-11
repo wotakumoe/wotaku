@@ -6,13 +6,13 @@
   All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
 -->
 <script setup lang="ts">
-import { computed, ref, reactive } from 'vue'
+import { useRouter, withBase } from 'vitepress'
+import { computed, reactive, ref } from 'vue'
 import {
   feedbackOptions,
   type FeedbackType,
   getFeedbackOption
 } from '../../types/Feedback'
-import { useRouter, withBase } from 'vitepress'
 
 const props = defineProps<{
   heading?: string
@@ -68,11 +68,11 @@ const isDisabled = computed(() => {
 const router = useRouter()
 // prettier-ignore
 const feedback = reactive<
-  Pick<FeedbackType, "message" | "page"> & Partial<Pick<FeedbackType, "type">>
+  Pick<FeedbackType, 'message' | 'page'> & Partial<Pick<FeedbackType, 'type'>>
 >({
   page: getURL(props.heading!),
-  message: "",
-});
+  message: ''
+})
 
 const selectedOption = ref(feedbackOptions[0])
 
@@ -128,33 +128,46 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
 
 <template>
   <template v-if="props.heading">
-    <button @click="toggleCard()"
-      class="bg-$vp-c-default-soft text-primary border-$vp-c-default-soft hover:border-primary ml-3 inline-flex h-7 items-center justify-center whitespace-nowrap rounded-md border-2 border-solid px-1.5 py-3.5 text-sm font-medium transition-all duration-300 sm:h-6">
-      <span :class="isCardShown === false ? `i-lucide:mail` : `i-lucide:mail-x`" />
+    <button
+      @click="toggleCard()"
+      class="bg-$vp-c-default-soft text-primary border-$vp-c-default-soft hover:border-primary ml-3 inline-flex h-7 items-center justify-center whitespace-nowrap rounded-md border-2 border-solid px-1.5 py-3.5 text-sm font-medium transition-all duration-300 sm:h-6"
+    >
+      <span
+        :class="isCardShown === false ? `i-lucide:mail` : `i-lucide:mail-x`"
+      />
     </button>
   </template>
   <template v-else>
     <button
       class="bg-$vp-c-default-soft text-primary px2 py1 border-$vp-c-default-soft hover:border-primary mt-2 select-none rounded border-2 border-solid font-bold transition-all duration-300"
-      @click="toggleCard()">
-      <span :class="isCardShown === false ? `i-lucide:mail mr-2` : `i-lucide:mail-x mr-2`
-        " />
+      @click="toggleCard()"
+    >
+      <span
+        :class="isCardShown === false
+        ? `i-lucide:mail mr-2`
+        : `i-lucide:mail-x mr-2`"
+      />
       <span>Send Feedback</span>
     </button>
   </template>
 
   <Transition name="fade" mode="out-in">
-    <div v-if="isCardShown"
-      class="border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 m-[2rem 0] mt-4 border-2 border-solid p-6">
+    <div
+      v-if="isCardShown"
+      class="border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 m-[2rem 0] mt-4 border-2 border-solid p-6"
+    >
       <Transition name="fade" mode="out-in">
         <div v-if="!feedback.type">
           <p class="heading">
             {{ helpfulText }}
           </p>
           <div class="flex flex-wrap gap-2">
-            <button v-for="item in feedbackOptions" :key="item.value"
+            <button
+              v-for="item in feedbackOptions"
+              :key="item.value"
               class="bg-bg border-$vp-c-default-soft hover:border-primary mt-2 select-none rounded border-2 border-solid font-bold transition-all duration-250 rounded-lg text-[14px] font-500 leading-normal m-0 px-3 py-1.5 text-center align-middle whitespace-nowrap"
-              @click="handleSubmit(item.value)">
+              @click="handleSubmit(item.value)"
+            >
               <span>{{ item.label }}</span>
             </button>
           </div>
@@ -199,15 +212,24 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
                 </li>
                 <li>
                   Sites found in the Unsafe lists of
-                  <a href="https://fmhy.net/unsafesites" class="text-primary text-underline font-semibold">
+                  <a
+                    href="https://fmhy.net/unsafesites"
+                    class="text-primary text-underline font-semibold"
+                  >
                     FMHY
                   </a>
                   ,
-                  <a href="https://megathread.pages.dev/unsafe" class="text-primary text-underline font-semibold">
+                  <a
+                    href="https://megathread.pages.dev/unsafe"
+                    class="text-primary text-underline font-semibold"
+                  >
                     Privateersclub
                   </a>
                   and/or
-                  <a href="https://rentry.org/pgames#untrusted-sites" class="text-primary text-underline font-semibold">
+                  <a
+                    href="https://rentry.org/pgames#untrusted-sites"
+                    class="text-primary text-underline font-semibold"
+                  >
                     r/PiratedGames
                   </a>
                   .
@@ -233,25 +255,35 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
               </ol>
             </details>
           </div>
-          <textarea v-model="feedback.message" autofocus
+          <textarea
+            v-model="feedback.message"
+            autofocus
             class="bg-$vp-c-bg-alt text-$vp-c-text-2 w-full h-[100px] border border-$vp-c-divider rounded px-3 py-1.5 border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 border-2 border-solid"
-            placeholder="Tip: Did you know that starring our GitHub repo doubles the chances that your feedback will be read?" />
+            placeholder="Tip: Did you know that starring our GitHub repo doubles the chances that your feedback will be read?"
+          />
           <p class="desc mb-2">
             If you want a reply to your feedback, feel free to mention a contact
             in the message or join our
-            <a class="text-primary text-underline font-semibold" href="https://discord.gg/wZMuSGpZ8s">
+            <a
+              class="text-primary text-underline font-semibold"
+              href="https://discord.gg/wZMuSGpZ8s"
+            >
               Discord.
             </a>
           </p>
           <div class="flex flex-row gap-2">
             <button
               class="bg-$vp-c-default-soft text-primary border-$vp-c-default-soft inline-flex h-7 items-center justify-center whitespace-nowrap rounded-md border-2 border-solid px-1.5 py-3.5 text-sm font-medium transition-all duration-300 sm:h-6"
-              @click="feedback.type = undefined">
+              @click="feedback.type = undefined"
+            >
               <span class="i-lucide:panel-left-close">close</span>
             </button>
-            <button type="submit"
+            <button
+              type="submit"
               class="border border-div rounded-lg transition-colors duration-250 inline-block text-14px font-500 leading-1.5 px-3 py-3 text-center align-middle whitespace-nowrap disabled:opacity-50 text-text-2 bg-swarm-100 dark:bg-swarm-700 border-swarm-800 dark:border-swarm-700 disabled:bg-swarm-100 dark:disabled:bg-swarm-900 hover:border-swarm-900 dark:hover:border-swarm-800 hover:bg-swarm-200 dark:hover:bg-swarm-800"
-              :disabled="isDisabled" @click="handleSubmit()">
+              :disabled="isDisabled"
+              @click="handleSubmit()"
+            >
               Send Feedback 📩
             </button>
           </div>
@@ -269,9 +301,7 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
   border: 1px solid var(--vp-c-divider);
   background-color: var(--vp-c-bg);
   border-radius: 8px;
-  transition:
-    border-color 0.25s,
-    background-color 0.25s;
+  transition: border-color 0.25s, background-color 0.25s;
   display: inline-block;
   font-size: 14px;
   font-weight: 500;

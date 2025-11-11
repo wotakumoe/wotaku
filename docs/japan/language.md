@@ -1,16 +1,11 @@
 ---
 title: Learning Japanese
-description: Japanese language learning resources.
-customDescription: Japanese language learning resources.
+description: Japanese language learning resources
+customDescription: Japanese language learning resources
 outline: [2,3]
 og:
     image: https://i.wotaku.wiki/f/jp.png
 ---
-
-
-<GradientCard title="Learning Japanese" description="All the resources to learn Japanese" theme="turquoise" variant="thin"/>
-
-<br>
 
 ## Starter Guide
 - [TheMoeWay Guide](https://learnjapanese.moe/) :s:

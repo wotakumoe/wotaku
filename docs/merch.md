@@ -7,9 +7,6 @@ og:
   image: https://i.wotaku.wiki/f/merch.png
 ---
 
-
-<GradientCard title="Merch" description="Information on figurines, plushes, books, CDs and more!" theme="turquoise" variant="thin"/>
-
 :::details Important Information
 
 ### Delivery Types

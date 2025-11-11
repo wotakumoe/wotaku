@@ -1,17 +1,17 @@
 /**
-*  All Rights Reserved
-*
-*  Copyright (c) 2025 taskylizard
-*
-*  All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
-*/
+ *  All Rights Reserved
+ *
+ *  Copyright (c) 2025 taskylizard
+ *
+ *  All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
+ */
+import { renderAsync } from '@resvg/resvg-js'
 import { mkdir, readFile, writeFile } from 'node:fs/promises'
 import { dirname, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { createContentLoader } from 'vitepress'
 import type { ContentData, SiteConfig } from 'vitepress'
 import { type SatoriOptions, satoriVue } from 'x-satori/vue'
-import { renderAsync } from '@resvg/resvg-js'
 import { excludedFiles } from '../constants'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
@@ -96,19 +96,16 @@ async function generateImage({
 
   const options: SatoriOptions = {
     // Use custom dimensions from frontmatter.og if provided
-    width: frontmatter.og?.width ?? 1800,
-    height: frontmatter.og?.height ?? 900,
+    width: frontmatter.og?.width ?? 1200,
+    height: frontmatter.og?.height ?? 630,
     fonts,
     props: {
-      title:
-        frontmatter.layout === 'home'
-          ? (frontmatter.hero.name ?? frontmatter.title)
-          : (frontmatter.customMetaTitle ?? frontmatter.title),
-      description:
-        frontmatter.layout === 'home'
-          ? (frontmatter.hero.tagline ?? frontmatter.description)
-          : frontmatter.description,
-      // dir: getDir(url)
+      title: frontmatter.layout === 'home'
+        ? (frontmatter.hero.name ?? frontmatter.title)
+        : (frontmatter.customMetaTitle ?? frontmatter.title),
+      description: frontmatter.layout === 'home'
+        ? (frontmatter.hero.tagline ?? frontmatter.description)
+        : frontmatter.description,
       image: frontmatter.og?.image ?? 'https://i.wotaku.wiki/f/default.png'
     }
   }

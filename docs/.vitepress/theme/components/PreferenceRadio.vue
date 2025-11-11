@@ -17,9 +17,11 @@ const props = defineProps<{
 }>()
 
 const key = removeSpaces(
-  `preference-${props.group}-${props.options
-    .map((key) => key.toLowerCase())
-    .join('-')}`
+  `preference-${props.group}-${
+    props.options
+      .map((key) => key.toLowerCase())
+      .join('-')
+  }`
 )
 const name = key + (props.screenMenu ? '-screen-menu' : '')
 
@@ -39,7 +41,13 @@ function removeSpaces(str: string) {
   <p class="title">{{ text }}</p>
   <div class="VPPreference" :class="{ 'screen-menu': screenMenu }">
     <template v-for="option in optionsWithKeys" :key="option">
-      <input type="radio" :id="option.key" :name="name" :value="option.value" v-model="selected" />
+      <input
+        type="radio"
+        :id="option.key"
+        :name="name"
+        :value="option.value"
+        v-model="selected"
+      />
       <label :for="option.key">{{ option.value }}</label>
     </template>
   </div>
@@ -67,7 +75,7 @@ function removeSpaces(str: string) {
   margin: 12px 0 0 12px;
 }
 
-.VPPreference input[type='radio'] {
+.VPPreference input[type="radio"] {
   pointer-events: none;
   position: fixed;
   opacity: 0;
@@ -82,7 +90,7 @@ function removeSpaces(str: string) {
   text-align: center;
 }
 
-.VPPreference input[type='radio']:checked+label {
+.VPPreference input[type="radio"]:checked + label {
   background-color: var(--vp-c-default-soft);
   color: var(--vp-c-brand-1);
 }

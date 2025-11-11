@@ -6,9 +6,6 @@ og:
     image: https://i.wotaku.wiki/f/extension.png
 ---
 
-
-<GradientCard title="Extension Repos" description="Mihon, Aniyomi & Dantotsu Extension Repos & Guides" theme="turquoise" variant="thin"/>
-
 Due to DMCA takedown notices, [Tachiyomi](https://tachiyomi.org/) (now continued as [Mihon](https://mihon.app/)) and [Aniyomi](https://aniyomi.org/) no longer come with preloaded extensions. You have to sideload extension repos in [Mihon](https://mihon.app/), [Aniyomi](https://aniyomi.org/), [Dantotsu](https://discord.com/invite/4HPZ5nAWwM) and their forks to get extensions.
 
 ## Repositories
@@ -46,10 +43,13 @@ Some apps might not support **Auto Install method**. That doesn't mean the guide
 - **Manual:** Copy the **URL** (from the manual column) and put it in **:mdi-dots-horizontal:More -> :mdi-cog-outline:Settings -> :mdi-compass-outline:Browse -> Extension repos**.
 ___
 #### Adding Extension
+
+:::steps
 1. After [**adding the repo**](#adding-repo), go to **Home -> :mdi-compass:Browse -> Anime/Manga Extension**.
 2. Download & install your desired extension by clicking :mdi-download-outline:.
 3. Find it in the "**Installed**" section (at the top of the list) with :mdi-close-octagon: beside it.
 4. The extension is disabled by default, so click on the :mdi-shield-check-outline: icon to enable it.
+:::
 
 ### Dantotsu & forks
 

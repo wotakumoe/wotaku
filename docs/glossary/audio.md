@@ -1,16 +1,10 @@
 ---
 title: Audio Glossary
-customDescription: Audio terms that you need to know
+customDescription: Audio terms that you need to know!
 outline: [1,2]
 og:
     image: https://i.wotaku.wiki/f/glossary.png
 ---
-
-
-
-<GradientCard title="Audio Glossary" description="Audio concepts that you need to know." theme="turquoise" variant="thin"/>
-
-
 
 <Authors page="audiog" />
 

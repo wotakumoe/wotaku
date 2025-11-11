@@ -6,10 +6,6 @@ og:
 	image: https://i.wotaku.wiki/f/glossary.png
 ---
 
-
-<GradientCard title="Manga Glossary" description="Manga portion of the Wotaku glossary!" theme="turquoise" variant="thin"/>
-
-
 ## Basic Terms 
 
 ### Adaptation

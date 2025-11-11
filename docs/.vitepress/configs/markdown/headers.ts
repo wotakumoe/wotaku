@@ -1,10 +1,10 @@
 /**
-*  All Rights Reserved
-*
-*  Copyright (c) 2025 taskylizard
-*
-*  All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
-*/
+ *  All Rights Reserved
+ *
+ *  Copyright (c) 2025 taskylizard
+ *
+ *  All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
+ */
 import type { MarkdownRenderer } from 'vitepress'
 
 const excluded = ['Credits']
@@ -18,8 +18,7 @@ export const headersPlugin = (md: MarkdownRenderer) => {
   md.renderer.rules.heading_open = (tokens, idx, options, env, self) => {
     const result = self.renderToken(tokens, idx, options)
 
-    const idxClose =
-      idx +
+    const idxClose = idx +
       tokens.slice(idx).findIndex((token) => token.type === 'heading_close')
     if (idxClose <= idx) return result
 

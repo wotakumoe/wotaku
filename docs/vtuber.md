@@ -6,9 +6,6 @@ og:
 
 ---
 
-
-<GradientCard title="VTuber" description="Sui-chan wa~" theme="turquoise" variant="thin"/>
-
 ## General
 
 | Category  | Websites |

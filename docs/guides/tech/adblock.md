@@ -5,10 +5,6 @@ og:
     image: https://i.wotaku.wiki/f/guide.png
 ---
 
-
-<GradientCard title="Blocking Ads" description="Adblocking Solutions for every device" theme="turquoise" variant="thin"/>
-
-
 ## Browser
 | Browser | Phone | PC |
 |-|-|-|

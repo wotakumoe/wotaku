@@ -1,140 +1,17 @@
 /**
-*  All Rights Reserved
-*
-*  Copyright (c) 2025 taskylizard
-*
-*  All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
-*/
+ *  All Rights Reserved
+ *
+ *  Copyright (c) 2025 taskylizard
+ *
+ *  All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
+ */
 import type { DefaultTheme } from 'vitepress'
-import { x } from 'tinyexec'
 
 export const hostname: string = 'https://wotaku.wiki'
-export const excludedFiles = ['t.md']
-export const GIT_COMMIT =
-  /** Github actions commit hash */
-  process.env.GITHUB_SHA ??
-  /** Commit hash from git */
-  (await x('git', ['rev-parse', 'HEAD']).then((result) =>
-    result.stdout.trim()
-  )) ??
-  'dev'
+export const excludedFiles = ['t.md', 'sandbox.md']
 
 // @unocss-include
-export const nav: DefaultTheme.NavItem[] = [
-  {
-    text: 'Pages',
-    items: [
-      { text: 'Quick Start', link: '/qs' },
-      { text: 'FAQs', link: '/faq' },
-      { text: 'Websites', link: '/websites' },
-      { text: 'Software', link: '/software' },
-      { text: 'Misc-sites', link: '/misc' },
-      { text: 'Tools', link: '/tools' },
-      { text: 'Art', link: '/art' },
-      { text: 'Music', link: '/music' },
-      { text: 'Games', link: '/games' },
-      { text: 'Non-English', link: '/nonen' },
-      { text: 'NSFW', link: '/nsfw' },
-      { text: 'Merch', link: '/merch' },
-      { text: 'Scanlation', link: '/scanlation' },
-      { text: 'VTuber', link: '/vtuber' },
-      { text: 'Communities', link: '/comms' }
-    ]
-  },
-  {
-    text: 'Japan',
-    items: [
-      { text: 'Language', link: '/japan/language' },
-      { text: 'Immersion', link: '/japan/immersion' },
-      { text: 'Software', link: '/japan/software' },
-      { text: 'Culture', link: '/japan/culture' }
-    ]
-  },
-  {
-    text: 'Glossary',
-    items: [
-      { text: 'General', link: '/glossary/general' },
-      { text: 'Anime', link: '/glossary/anime' },
-      { text: 'Manga', link: '/glossary/manga' },
-      { text: 'Audio', link: '/glossary/audio' },
-      { text: 'NSFW', link: '/glossary/nsfw' }
-    ]
-  },
-  {
-    text: 'Torrenting',
-    items: [
-      { text: 'Getting Started', link: '/torrenting/start' },
-      { text: 'FAQs', link: '/torrenting/faq' },
-      { text: 'Glossary', link: '/torrenting/glossary' },
-      { text: 'qBittorrent', link: '/torrenting/qbit' },
-      { text: `Trackers`, link: '/torrenting/trackers' }
-    ]
-  },
-  {
-    text: 'Guides',
-    items: [
-      {
-        text: 'Anime',
-        items: [
-          { text: 'Disc Ripping', link: '/guides/anime/discrip' },
-          { text: 'Network Streaming', link: '/guides/anime/ns' }
-        ]
-      },
-      {
-        text: 'Manga',
-        items: [
-          { text: 'Cubari guide', link: '/guides/manga/cubari' },
-          { text: 'Digital Comic Info', link: '/guides/manga/comicinfo' },
-          { text: 'Downloading Manga', link: '/guides/manga/mdl' },
-          { text: 'JXL Manga Readers', link: '/guides/manga/jxl' },
-          { text: 'Madokami', link: '/guides/manga/madokami' },
-          { text: 'Manga Image Editing', link: '/guides/manga/imagedit' },
-          { text: 'OPDS to E-reader', link: '/guides/manga/opds' }
-        ]
-      },
-      {
-        text: 'Extension Repos',
-        items: [
-          { text: 'Mihon & Aniyomi', link: '/guides/ext/mihon' },
-          { text: 'Mangayomi', link: '/guides/ext/mangayomi' },
-          { text: 'iOS apps', link: '/guides/ext/ios' },
-          { text: 'Miscellaneous', link: '/guides/ext/misc' }
-        ]
-      },
-      {
-        text: 'Music',
-        items: [
-          { text: 'Echo', link: '/guides/music/echo' },
-          { text: 'FB2K Synced Lyrics', link: '/guides/music/fb2klyrics' },
-          { text: 'Squidify', link: '/guides/music/squidify' },
-          { text: 'Transcoding Audio', link: '/guides/music/transcoding' }
-        ]
-      },
-      {
-        text: 'Technical',
-        items: [
-          { text: 'Blocking Ads', link: '/guides/tech/adblock' },
-          { text: 'IRC & XDCC', link: '/guides/tech/irc' },
-          { text: 'JDL2 Ad-removal', link: '/guides/tech/jdl' }
-        ]
-      }
-    ]
-  },
-  {
-    text: 'Preferences',
-    items: [
-      {
-        component: 'PreferenceRadio',
-        props: {
-          text: 'Floating Takodachi',
-          group: 'takodachi',
-          options: ['Enable', 'Disable'],
-          defaultOption: 'Disable'
-        }
-      }
-    ]
-  }
-]
+export const nav: DefaultTheme.NavItem[] = []
 
 export const sidebar: DefaultTheme.Sidebar = [
   {
@@ -194,40 +71,10 @@ export const sidebar: DefaultTheme.Sidebar = [
     link: '/vtuber'
   },
   {
-    text: '<span class="i-uil:letter-japanese-a"></span> Japan',
+    text:
+      '<span class="mr-2 w-4 h-4 bg-cover i-lucide:book-key"></span> Guides',
     collapsed: true,
-    items: [
-      { text: 'Language', link: '/japan/language' },
-      { text: 'Immersion', link: '/japan/immersion' },
-      { text: 'Software', link: '/japan/software' },
-      { text: 'Culture', link: '/japan/culture' }
-    ]
-  },
-  {
-    text: '<span class="i-lucide:book-open"></span> Glossary',
-    collapsed: true,
-    items: [
-      { text: 'General', link: '/glossary/general' },
-      { text: 'Anime', link: '/glossary/anime' },
-      { text: 'Manga', link: '/glossary/manga' },
-      { text: 'Audio', link: '/glossary/audio' },
-      { text: 'NSFW', link: '/glossary/nsfw' }
-    ]
-  },
-  {
-    text: '<span class="i-lucide:magnet"></span> Torrenting',
-    collapsed: true,
-    items: [
-      { text: 'Getting Started', link: '/torrenting/start' },
-      { text: 'FAQs', link: '/torrenting/faq' },
-      { text: 'Glossary', link: '/torrenting/glossary' },
-      { text: 'qBittorrent', link: '/torrenting/qbit' },
-      { text: `Trackers`, link: '/torrenting/trackers' }
-    ]
-  },
-  {
-    text: '<span class="i-lucide:book-key"></span> Guides',
-    collapsed: true,
+    link: '/guides',
     items: [
       {
         text: 'Anime',
@@ -282,6 +129,44 @@ export const sidebar: DefaultTheme.Sidebar = [
     ]
   },
   {
+    text:
+      '<span class="mr-2 w-4 h-4 bg-cover i-lucide:book-open"></span> Glossary',
+    collapsed: true,
+    link: '/glossary',
+    items: [
+      { text: 'General', link: '/glossary/general' },
+      { text: 'Anime', link: '/glossary/anime' },
+      { text: 'Manga', link: '/glossary/manga' },
+      { text: 'Audio', link: '/glossary/audio' },
+      { text: 'NSFW', link: '/glossary/nsfw' }
+    ]
+  },
+  {
+    text:
+      '<span class="mr-2 w-4 h-4 bg-cover i-lucide:magnet"></span> Torrenting',
+    collapsed: true,
+    link: '/torrenting',
+    items: [
+      { text: 'Getting Started', link: '/torrenting/start' },
+      { text: 'FAQs', link: '/torrenting/faq' },
+      { text: 'Glossary', link: '/torrenting/glossary' },
+      { text: 'qBittorrent', link: '/torrenting/qbit' },
+      { text: `Trackers`, link: '/torrenting/trackers' }
+    ]
+  },
+  {
+    text:
+      '<span class="mr-2 w-4 h-4 bg-cover i-uil:letter-japanese-a"></span> Japan',
+    collapsed: true,
+    link: '/japan',
+    items: [
+      { text: 'Language', link: '/japan/language' },
+      { text: 'Immersion', link: '/japan/immersion' },
+      { text: 'Software', link: '/japan/software' },
+      { text: 'Culture', link: '/japan/culture' }
+    ]
+  },
+  {
     text: '<span class="i-lucide:messages-square"></span> Communities',
     link: '/comms'
   },
@@ -316,13 +201,13 @@ export const siteConfig = {
     ['link', { rel: 'mask-icon', href: '/asset/fav.png', color: '#56b4fc' }],
     // prettier-ignore
     [
-			"meta",
-			{
-				name: "keywords",
-				content:
-					"Anime, Anime Piracy, Manga, Manga Piracy, VTuber, Hentai, JPOP, Music, Japan, Learning Japanese, Weeb, Otaku",
-			},
-		],
+      'meta',
+      {
+        name: 'keywords',
+        content:
+          'Anime, Anime Piracy, Manga, Manga Piracy, VTuber, Hentai, JPOP, Music, Japan, Learning Japanese, Weeb, Otaku'
+      }
+    ],
     [
       'link',
       {

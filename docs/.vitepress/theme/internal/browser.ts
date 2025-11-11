@@ -1,10 +1,10 @@
 /**
-*  All Rights Reserved
-*
-*  Copyright (c) 2025 taskylizard
-*
-*  All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
-*/
+ *  All Rights Reserved
+ *
+ *  Copyright (c) 2025 taskylizard
+ *
+ *  All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
+ */
 import type {
   InternalOptions as InternalBaseOptions,
   TrackProperties
@@ -19,8 +19,9 @@ export type InternalOptions = InternalBaseOptions & {
 }
 
 function toCamelCase(str: string) {
-  return str.replace(/([-_][a-z])/gi, ($1) =>
-    $1.toUpperCase().replace('-', '').replace('_', '')
+  return str.replace(
+    /([-_][a-z])/gi,
+    ($1) => $1.toUpperCase().replace('-', '').replace('_', '')
   )
 }
 
@@ -77,8 +78,7 @@ export class Internal extends InternalBase {
         if (href?.startsWith('http')) {
           super.track('link_out', {
             href,
-            text:
-              link.innerText ||
+            text: link.innerText ||
               link.getAttribute('title') ||
               target.getAttribute('alt') ||
               target.getAttribute('title')

@@ -1,23 +1,24 @@
 /**
-*  All Rights Reserved
-*
-*  Copyright (c) 2025 taskylizard
-*
-*  All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
-*/
+ *  All Rights Reserved
+ *
+ *  Copyright (c) 2025 taskylizard
+ *
+ *  All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
+ */
 import MdMTables from 'markdown-it-multimd-table'
 // @ts-expect-error
-import MdReg from 'markdown-it-regexp'
-import type { MarkdownRenderer } from 'vitepress'
-import { headersPlugin } from '../markdown/headers'
+import { align } from '@mdit/plugin-align'
+import { attrs } from '@mdit/plugin-attrs'
 import { figure } from '@mdit/plugin-figure'
 import { imgLazyload } from '@mdit/plugin-img-lazyload'
-import { align } from '@mdit/plugin-align'
 import { imgSize } from '@mdit/plugin-img-size'
+import MdReg from 'markdown-it-regexp'
+import type { MarkdownRenderer } from 'vitepress'
 import { tabsMarkdownPlugin } from 'vitepress-plugin-tabs'
-import { emojiRender } from './emoji'
 import { getTooltip } from '../../utils/tooltips'
-import { attrs } from '@mdit/plugin-attrs'
+import { headersPlugin } from '../markdown/headers'
+import { emojiRender } from './emoji'
+import markdownSteps from './steps'
 
 export function configureMarkdown(md: MarkdownRenderer) {
   md.use(emojiRender)
@@ -37,6 +38,7 @@ export function configureMarkdown(md: MarkdownRenderer) {
   md.use(attrs)
   renderTooltip(md)
   renderInlineTooltip(md)
+  md.use(markdownSteps)
 }
 
 function renderInlineTooltip(md: MarkdownRenderer) {
@@ -66,8 +68,8 @@ function renderTooltip(md: MarkdownRenderer) {
       const title = item.frontmatter.title
         ? `title="${item.frontmatter.title}"`
         : item.id
-          ? `title="${item.id}"`
-          : '' /** Impossible */
+        ? `title="${item.id}"`
+        : '' /** Impossible */
       const props = icon + title
       const renderedContent = md.render(item.content)
 
@@ -81,10 +83,11 @@ function span(
   attrs: Record<string, unknown> | undefined = undefined
 ) {
   let html = '<span'
-  if (attrs)
+  if (attrs) {
     for (const [key, value] of Object.entries(attrs)) {
       html += ` ${key}="${value}"`
     }
+  }
   html += `>${content}</span>`
   return html
 }

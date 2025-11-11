@@ -6,9 +6,6 @@ og:
     image: https://i.wotaku.wiki/f/extension.png
 ---
 
-
-<GradientCard title="Extension Repos" description="Mangayomi, AnymeX & Dartotsu Extension Repos & Guides" theme="turquoise" variant="thin"/>
-
 [**Mangayomi**](https://github.com/kodjodevf/mangayomi) extensions are supported by [**AnymeX**](https://anymex.vercel.app/) and [**Dartotsu**](https://github.com/aayush2622/Dartotsu).
 
 ## Repositories
@@ -60,36 +57,45 @@ og:
 ## Sideloading Methods
 
 ### Auto Install
-- Click on **Install** button in the Auto column
-- Select your app in the **Open with** pop-up.
-- In Mangayomi, it will ask for confirmation. Click **Add**. Not needed in other apps.
-- Depending on the app, you should see different confirmation message.
 
-![](/ss/open.png)
+:::steps
+1. Click on **Install** button in the Auto column
+2. Select your app in the **Open with** pop-up.
+3. In Mangayomi, it will ask for confirmation. Click **Add**. Not needed in other apps.
+4. Depending on the app, you should see different confirmation message.
+
+    ![](/ss/open.png)
+:::
 
 ### Manual Install
 
 #### Mangayomi
 
-- Copy the **Manual URL**
-- Go to Mangayomi app
-- Click :mdi-dots-horizontal:**More** -> :mdi-compass: **Browse** -> **Manga / Anime / Novel extensions repo** -> :mdi-plus: **Add**
-- Paste the URL and click **Add**
+:::steps
+1. Copy the **Manual URL**
+2. Go to Mangayomi app
+3. Click :mdi-dots-horizontal:**More** -> :mdi-compass: **Browse** -> **Manga / Anime / Novel extensions repo** -> :mdi-plus: **Add**
+4. Paste the URL and click **Add**
+:::
 
 <hr>
 
 #### AnymeX
 
-- Copy the **Manual URL**
-- Go to AnymeX app
-- Click Profile picture /:material-symbols-person-rounded: -> :mdi-puzzle: **Extensions** -> Click :gh:
-- Paste the URL based on repo type and click **Confirm**
+:::steps
+1. Copy the **Manual URL**
+2. Go to AnymeX app
+3. Click Profile picture /:material-symbols-person-rounded: -> :mdi-puzzle: **Extensions** -> Click :gh:
+4. Paste the URL based on repo type and click **Confirm**
+:::
 
 <hr>
 
 #### Dartotsu
 
-- Copy the **Manual URL**
-- Go to Dartotsu app
-- Click :material-symbols-settings: -> :mdi-puzzle: **Extensions** -> **Available Anime / Manga / Novel** -> Click :gh:
-- Paste the URL and click **OK**
+:::steps
+1. Copy the **Manual URL**
+2. Go to Dartotsu app
+3. Click :material-symbols-settings: -> :mdi-puzzle: **Extensions** -> **Available Anime / Manga / Novel** -> Click :gh:
+4. Paste the URL and click **OK**
+:::

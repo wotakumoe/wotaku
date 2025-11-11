@@ -15,7 +15,12 @@ const imageSize = ref('550px') // Fixed size for the image
 <template>
   <div class="flex min-h-[calc(100vh-4rem)] items-center justify-center p-4">
     <div class="text-center">
-      <img :style="{ width: imageSize, height: 'auto' }" src="/asset/404.gif" alt="404 Image" class="mx-auto" />
+      <img
+        :style="{ width: imageSize, height: 'auto' }"
+        src="/asset/404.gif"
+        alt="404 Image"
+        class="mx-auto"
+      />
       <p class="text-title-lg mt-4 font-bold leading-tight text-white">404</p>
       <p class="text-body-lg flex flex-wrap items-center justify-center leading-snug text-gray-400">
         Umm.... you shouldn’t be here
@@ -24,9 +29,16 @@ const imageSize = ref('550px') // Fixed size for the image
         </span>
         If you got here from a link, please click
         <span class="icon-container mx-1">
-          <svg class="w-icon h-icon inline-block align-text-bottom" xmlns="http://www.w3.org/2000/svg"
-            viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
-            stroke-width="2">
+          <svg
+            class="w-icon h-icon inline-block align-text-bottom"
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+          >
             <rect width="20" height="16" x="2" y="4" rx="2"></rect>
             <path d="m22 7l-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"></path>
           </svg>

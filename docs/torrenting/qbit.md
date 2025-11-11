@@ -5,9 +5,6 @@ og:
     image: https://i.wotaku.wiki/f/tor.png
 ---
 
-
-<GradientCard title="qBittorrent" description="Various how-tos for qBittorrent" theme="turquoise" variant="thin"/>
-
 ## RSS Feed
 You can use [RSS Feed](https://en.wikipedia.org/wiki/RSS) to get an upload feed from supported sites. In this case, we're gonna use [Nyaa](https://nyaa.si/) to fetch from [1r0n's](https://nyaa.si/user/tsuna69) profile. You can fetch from other pages too in a similar way.
 

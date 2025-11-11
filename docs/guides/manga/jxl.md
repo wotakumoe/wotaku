@@ -7,9 +7,6 @@ og:
     image: https://i.wotaku.wiki/f/guide.png
 ---
 
-
-<GradientCard title="JXL Manga Readers" description="Manga readers with JPEG XL / JXL support for Android, iOS & PC" theme="turquoise" variant="thin"/>
-
 ## Readers
 
 ### Android
@@ -36,10 +33,16 @@ og:
 ## Guide
 
 ### Neeview
+
+:::steps
 1. Install [**jxl-winthumb**](https://github.com/saschanaz/jxl-winthumb).
 2. Open Neeview -> Option -> Settings -> File Types.
 3. Click **Add** in Image file extensions and add `.jxl`. Done.
+:::
 
 ### YACReader
+
+:::steps
 1. Download `plugin_for_qt6_x_x.zip` from [**here**](https://github.com/novomesk/qt-jpegxl-image-plugin) & unzip it. `qjpegxl6.dll` will be inside it.
 2. Go to `C:\Program Files\YACReader\imageformats\` and put `qjpegxl6.dll` there. Done.
+:::

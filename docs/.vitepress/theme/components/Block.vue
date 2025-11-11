@@ -19,7 +19,7 @@ withDefaults(
 
 <template>
   <component :target="link ? '_blank' : undefined" :is="link ? 'a' : 'span'" :href="link" :class="type"
-    class="VButton px4 py3 mt2 gap2 block flex items-center rounded-md">
+    class="VButton inline-flex items-center px4 py3 gap2 rounded-md align-middle cursor-pointer">
     <div :class="icon" />
     <slot>{{ text }}</slot>
   </component>

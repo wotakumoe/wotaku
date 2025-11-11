@@ -6,11 +6,6 @@ og:
     image: https://i.wotaku.wiki/f/guide.png
 ---
 
-
-<GradientCard title="Manga Image Editing" description="Image Magick guide for Grayscaling, Leveling, and Optimizing" theme="turquoise" variant="thin"/>
-
-
-
 A simple to understand guide covering the most important page edits.
 <Authors page="imagedit" />
 

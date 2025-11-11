@@ -66,12 +66,10 @@ const classes = computed(() => {
         </div>
       </div>
     </div>
-    <div
-      :class="`${theme.bgleft} ${classes.bgleft} absolute top-1/3 -translate-y-1/2 rounded-full mix-blend`"
-    ></div>
-    <div
-      :class="`${theme.bgright} ${classes.bgright} absolute left-1/2 -translate-x-1/2 rounded-full mix-blend`"
-    ></div>
+    <div :class="`${theme.bgleft} ${classes.bgleft} absolute top-1/3 -translate-y-1/2 rounded-full mix-blend`">
+    </div>
+    <div :class="`${theme.bgright} ${classes.bgright} absolute left-1/2 -translate-x-1/2 rounded-full mix-blend`">
+    </div>
     <div :class="`absolute ${classes.icon}`">
       <div class="flex items-start">
         <div
@@ -92,7 +90,8 @@ const classes = computed(() => {
               fill-rule="evenodd"
               d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z"
               clip-rule="evenodd"
-            ></path>
+            >
+            </path>
           </svg>
         </a>
       </div>

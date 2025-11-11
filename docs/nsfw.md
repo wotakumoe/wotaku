@@ -7,9 +7,6 @@ og:
     image: https://i.wotaku.wiki/f/nsfw.png
 ---
 
-
-<GradientCard title="NSFW" description="Everyone has to let off some steam once in a while, we don't judge." theme="turquoise" variant="thin"/>
-
 ![](/banner/hweb.webp)
 # Websites
 

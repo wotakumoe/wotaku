@@ -5,9 +5,6 @@ og:
     image: https://i.wotaku.wiki/f/tor.png
 ---
 
-
-<GradientCard title="Torrent Glossary" description="All the basic torrent related terms" theme="turquoise" variant="thin"/>
-
 ## Basic
 
 | Term             | Definition  { class="compact" }     |

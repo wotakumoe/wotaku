@@ -1,10 +1,10 @@
 /**
-*  All Rights Reserved
-*
-*  Copyright (c) 2025 taskylizard
-*
-*  All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
-*/
+ *  All Rights Reserved
+ *
+ *  Copyright (c) 2025 taskylizard
+ *
+ *  All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
+ */
 import type { HeadConfig, TransformContext } from 'vitepress'
 import { excludedFiles } from '../constants'
 
@@ -15,8 +15,9 @@ export function generateMeta(context: TransformContext, hostname: string) {
     pageData.isNotFound ||
     excludedFiles.includes(pageData.filePath) ||
     pageData.frontmatter.exclude
-  )
+  ) {
     return head
+  }
 
   const { relativePath, frontmatter, filePath, lastUpdated } = pageData
 

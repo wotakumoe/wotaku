@@ -5,22 +5,22 @@ og:
     image: https://i.wotaku.wiki/f/guide.png
 ---
 
-
-<GradientCard title="IRC & XDCC" description="Basic guide on how to use IRC" theme="turquoise" variant="thin"/>
-
 IRC (Internet Relay Chat) is a real-time messaging protocol, while XDCC (eXtended DCC) is a method used on IRC to facilitate file sharing through direct client-to-client connections. In this guide, we explained how to use bots in IRC.
 <br>
 
 ## Getting Started
+
+:::steps
 1. Install an [**IRC Client**](#irc-client) on your device.
 2. Go to a [**XDCC Packlists**](#xdcc-packlists) and search for your content
 3. Click on the search result for the command message 
+    > **Standard XDCC command** `/msg [bot name] xdcc send #[packet number]`
+:::
 
-**Standard XDCC command** `/msg [bot name] xdcc send #[packet number]`
-
-
+:::steps
 1. Join the server and the channel of the bot and send the command message
 2. It will show a pop up for the download.
+:::
 
 ::: info SSL issue
 If you face any issues when connecting, try enabling **"Accept invalid SSL certificates"** in the network options.

@@ -7,10 +7,6 @@ og:
     image: https://i.wotaku.wiki/f/jp.png
 ---
 
-
-<GradientCard title="Software" description=" Software to help you learn japanese" theme="turquoise" variant="thin"/>
-
-
 ## Anki
 
 

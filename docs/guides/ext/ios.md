@@ -5,9 +5,6 @@ og:
     image: https://i.wotaku.wiki/f/ios.png
 ---
 
-
-<GradientCard title="Extension Repos" description="iOS Apps Extension Repos & Guides" theme="turquoise" variant="thin"/>
-
 ## Aidoku
 
 | Name | Region | Auto | Manual |

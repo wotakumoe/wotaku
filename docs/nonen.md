@@ -7,11 +7,6 @@ og:
     image: https://i.wotaku.wiki/f/nonen.png
 ---
 
-
-<GradientCard title="Non-English" description="Otaku resources for other languages/regions." theme="turquoise" variant="thin"/>
-
-<br>
-
 ## Multi Language
 
 ### Anime

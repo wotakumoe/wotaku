@@ -6,9 +6,6 @@ og:
     image: https://i.wotaku.wiki/f/echo.png
 ---
 
-
-<GradientCard title="Echo" description="Guide on how to use echo" theme="turquoise" variant="thin"/>
-
 [**Echo**](https://github.com/brahmkshatriya/echo) is an extension-based music player app. It can play music from streaming websites (e.g., YouTube, Spotify, Deezer) and self-hosted servers (e.g., Jellyfin). Echo also supports external lyrics and music tracking (e.g., Last.fm).
 
 <br>

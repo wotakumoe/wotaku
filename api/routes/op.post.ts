@@ -1,10 +1,10 @@
 /**
-*  All Rights Reserved
-*
-*  Copyright (c) 2025 taskylizard
-*
-*  All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
-*/
+ *  All Rights Reserved
+ *
+ *  Copyright (c) 2025 taskylizard
+ *
+ *  All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
+ */
 import { joinURL } from 'ufo'
 
 export default defineEventHandler(async (event) => {
@@ -16,22 +16,21 @@ export default defineEventHandler(async (event) => {
     const headers = {
       'X-Forwarded-For': getRequestIP(event, { xForwardedFor: true }),
       'Content-Type': 'application/json',
-      'openpanel-client-id': config.id,
+      'openpanel-client-id': config.id
     }
 
     headers['openpanel-sdk-name'] = 'nitro'
     headers['openpanel-sdk-version'] = '1.0.0'
 
     return proxyRequest(event, target, {
-      headers,
+      headers
     })
-  }
-  catch (error) {
+  } catch (error) {
     console.error(error)
 
     throw createError({
       statusCode: 502,
-      message: 'Failed to proxy request',
+      message: 'Failed to proxy request'
     })
   }
 })

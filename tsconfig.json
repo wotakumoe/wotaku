@@ -4,17 +4,21 @@
     "baseUrl": ".",
     "module": "esnext",
     "target": "esnext",
-    "lib": ["DOM", "ESNext"],
+    "lib": [
+      "DOM",
+      "ESNext"
+    ],
     "strict": true,
     "jsx": "preserve",
     "esModuleInterop": true,
     "skipLibCheck": true,
     "moduleResolution": "Bundler",
     "resolveJsonModule": true,
-    "noUnusedLocals": true,
     "strictNullChecks": true,
     "forceConsistentCasingInFileNames": true,
-    "types": ["vitepress/client"]
+    "types": [
+      "vitepress/client"
+    ]
   },
   "include": [
     "docs/.vitepress/**/*.ts",
@@ -22,8 +26,12 @@
     "docs/.vitepress/**/*.vue",
     "docs/**/*.md"
   ],
-  "exclude": ["node_modules"],
+  "exclude": [
+    "node_modules"
+  ],
   "vueCompilerOptions": {
-    "vitePressExtensions": [".md"]
+    "vitePressExtensions": [
+      ".md"
+    ]
   }
 }

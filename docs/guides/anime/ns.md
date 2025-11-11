@@ -5,14 +5,13 @@ og:
     image: https://i.wotaku.wiki/f/guide.png
 ---
 
-
-<GradientCard title="Network Stream" description="Network streaming DDL, IRC and Torrent video files." theme="turquoise" variant="thin"/>
-
-
 ## DDL
 The basic process:
+
+:::steps
 1. Copy the download link
 2. Put it in the stream button
+:::
 
 You can't play videos from some sources like Google drive, Mega etc. For this example, we will use [Tokyo Insider](https://www.tokyoinsider.com/).
 

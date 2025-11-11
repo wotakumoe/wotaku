@@ -7,9 +7,6 @@ og:
     image: https://i.wotaku.wiki/f/game.png
 ---
 
-
-<GradientCard title="Games" description="Everything Game-related in one page!" theme="turquoise" variant="thin"/>
-
 ::: tip Quick Tip
 For game download sites, you can visit our friends over at [**Privateersclub**](https://megathread.pages.dev/download).
 :::

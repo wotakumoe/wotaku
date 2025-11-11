@@ -6,9 +6,6 @@ og:
     image: https://i.wotaku.wiki/f/extension.png
 ---
 
-
-<GradientCard title="Extension Repos" description="Miscellaneous Extension Repos & Guides" theme="turquoise" variant="thin"/>
-
 ## Cloudstream
 
 | Name | Region | Auto | Manual |

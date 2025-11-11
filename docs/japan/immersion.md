@@ -7,10 +7,6 @@ og:
     image: https://i.wotaku.wiki/f/jp.png
 ---
 
-
-<GradientCard title="Immersion" description="Media to help you learn japanese" theme="turquoise" variant="thin"/>
-
-
 ## Guides
 
 ### General
@@ -124,7 +120,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 - [Syosetu](https://syosetu.com/) `WN`
 - [TMW eBook Collection](https://rentry.org/wotadirect)
 
-<Button icon="i-mdi-lightbulb-alert-outline" link="/nonen#japanese" >More in manga direct download</Button>
+<Block icon="i-mdi-lightbulb-alert-outline" link="/nonen#japanese" >More in manga direct download</Block>
 
 ## Audio
 

@@ -1,27 +1,27 @@
 /**
-*  All Rights Reserved
-*
-*  Copyright (c) 2025 taskylizard
-*
-*  All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
-*/
-import type { MarkdownRenderer } from 'vitepress'
+ *  All Rights Reserved
+ *
+ *  Copyright (c) 2025 taskylizard
+ *
+ *  All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
+ */
 import type { IconifyJSON } from '@iconify-json/octicon'
+import type { MarkdownRenderer } from 'vitepress'
 
 // Icons that need to be used should be imported here
-import { icons as twemoji } from '@iconify-json/twemoji'
-import { icons as octicon } from '@iconify-json/octicon'
-import { icons as logos } from '@iconify-json/logos'
-import { icons as ic } from '@iconify-json/ic'
-import { icons as mingcute } from '@iconify-json/mingcute'
-import { icons as mdi } from '@iconify-json/mdi'
-import { icons as materials } from '@iconify-json/material-symbols'
-import { icons as simple } from '@iconify-json/simple-icons'
-import { icons as lucide } from '@iconify-json/lucide'
-import { icons as iconoir } from '@iconify-json/iconoir'
-import { icons as uil } from '@iconify-json/uil'
-import { icons as ri } from '@iconify-json/ri'
 import { icons as akar } from '@iconify-json/akar-icons'
+import { icons as ic } from '@iconify-json/ic'
+import { icons as iconoir } from '@iconify-json/iconoir'
+import { icons as logos } from '@iconify-json/logos'
+import { icons as lucide } from '@iconify-json/lucide'
+import { icons as materials } from '@iconify-json/material-symbols'
+import { icons as mdi } from '@iconify-json/mdi'
+import { icons as mingcute } from '@iconify-json/mingcute'
+import { icons as octicon } from '@iconify-json/octicon'
+import { icons as ri } from '@iconify-json/ri'
+import { icons as simple } from '@iconify-json/simple-icons'
+import { icons as twemoji } from '@iconify-json/twemoji'
+import { icons as uil } from '@iconify-json/uil'
 
 // 1. Install emoji pack with `pnpm add -D @iconify-json/<icon>`
 // 2. Import them like I did above
@@ -154,7 +154,7 @@ for (const [alias, fullName] of Object.entries(aliases)) {
   defs[alias] = defs[fullName] !== undefined ? '' : 'INVALID_ALIAS'
 }
 
-export { defs, aliases }
+export { aliases, defs }
 
 export function emojiRender(md: MarkdownRenderer) {
   md.renderer.rules.emoji = (tokens, idx) => {

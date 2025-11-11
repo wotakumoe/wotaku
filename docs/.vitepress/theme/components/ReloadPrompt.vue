@@ -32,15 +32,24 @@ onBeforeMount(async () => {
   <template v-if="needRefresh">
     <div
       class="pwa-toast z-100 bg-$vp-c-bg b b-solid b-1px b-color-$pwa-border rounded-2 fixed bottom-0 right-0 m-6 px-6 py-4 shadow-xl"
-      role="alertdialog" aria-labelledby="pwa-message">
+      role="alertdialog"
+      aria-labelledby="pwa-message"
+    >
       <div id="pwa-message" class="mb-3">
         New content available, click the reload button to update.
       </div>
-      <button type="button" class="pwa-refresh mr-2 rounded px-3 py-1" @click="updateServiceWorker?.()">
+      <button
+        type="button"
+        class="pwa-refresh mr-2 rounded px-3 py-1"
+        @click="updateServiceWorker?.()"
+      >
         Reload
       </button>
-      <button type="button" class="pwa-cancel b b-solid b-1px !b-color-$pwa-border mr-2 rounded px-3 py-1"
-        @click="close">
+      <button
+        type="button"
+        class="pwa-cancel b b-solid b-1px !b-color-$pwa-border mr-2 rounded px-3 py-1"
+        @click="close"
+      >
         Close
       </button>
     </div>

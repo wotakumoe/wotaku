@@ -6,11 +6,6 @@ og:
     image: https://i.wotaku.wiki/f/guide.png
 ---
 
-
-<GradientCard title="Digital Comic Info" description="Information about digital comic publishers and quality." theme="turquoise" variant="thin"/>
-
-<br>
-
 Information about various types of publishers for manga and manhwa. Image quality (resolution, compression & codec) varies by publisher and by platform. Convenience of platform apps varies, consider testing them if you plan to read without removing DRM. 
 
 ## Volumes

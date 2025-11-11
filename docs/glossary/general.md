@@ -5,11 +5,6 @@ og:
     image: https://i.wotaku.wiki/f/glossary.png
 ---
 
-
-<GradientCard title="Wotaku Glossary" description="Want to increase your otaku knowledge? Look for no further!" theme="turquoise" variant="thin"/>
-
-<br>
-
 ## Region
 
 | Country   | Comics   | Animation { class="compact" }  |

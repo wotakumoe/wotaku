@@ -8,11 +8,6 @@ og:
 
 ---
 
-
-<GradientCard title="Scanlation" description="Guides and resources for scanlating manga." theme="turquoise" variant="thin"/>
-
-<br>
-
 ::: tip Kaguya
 To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/kaguya) for [Cubari](https://cubari.moe/). It can batch upload manga chapters on Imgchest and generate full JSON. Full guide [here](/guides/manga/cubari).
 :::
@@ -52,7 +47,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 - [CSP Retouch Library](https://docs.google.com/spreadsheets/d/1mqIqqSoddaZYu3NhCfIXJ9PzPbCLBOe1Y6mD_7s3we4/edit#gid=2085357266)
 - [DK Hanoded Fonts by Sr.Xlr11](https://drive.google.com/drive/folders/1TQTA1FGU_Ow6WDb3fv8-1mTRF_v_NzHh)
 
-<Button link="https://discord.gg/NCzxVB9" icon="i-ic-round-discord">You can find a lot more free assets in the Scanner Usage School Server</Button>
+<Block link="https://discord.gg/NCzxVB9" icon="i-ic-round-discord">You can find a lot more free assets in the Scanner Usage School Server</Block>
 
 ## Blogs & Collections
 

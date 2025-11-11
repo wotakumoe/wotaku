@@ -6,9 +6,6 @@ og:
   image: https://i.wotaku.wiki/f/tor.png
 ---
 
-
-<GradientCard title="Trackers" description="Index of all the popular public and popular trackers" theme="turquoise" variant="thin"/>
-
 ## English
 
 ### Public Trackers

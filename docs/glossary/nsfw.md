@@ -5,10 +5,6 @@ og:
     image: https://i.wotaku.wiki/f/glossary.png
 ---
 
-
-<GradientCard title="NSFW Glossary" description="Want to learn what those elusive tags on hentai sites mean? Then this page is for you!" theme="turquoise" variant="thin"/>
-
-
 | Term | Meaning |
 | --- | --- |
 | Ahegao | A facial expression commonly seen in hentai that signifies immense pleasure or orgasm, also known as O-Face |

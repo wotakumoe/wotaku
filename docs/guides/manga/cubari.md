@@ -5,10 +5,6 @@ og:
     image: https://i.wotaku.wiki/f/cubari.png
 ---
 
-<GradientCard title="Cubari guide" description="Guide on how to proxy comic through Cubari.moe" theme="turquoise" variant="thin"/>
-
-<br>
-
 This guide explains how to publish your comic using [**Cubari**](https://cubari.moe/). Cubari does not host any files directly; instead, it reads a JSON file containing image links and other metadata. To host the images, we’ll use [**Image Chest**](https://imgchest.com/), and to generate the JSON file, we’ll use the [**Kaguya script**](https://github.com/wotakumoe/kaguya).
 
 ::: warning Cubari ≠ Cubari Proxy
@@ -100,21 +96,23 @@ Kaguya/
 
 ## Kaguya
 
+:::steps
 1. Open powershell in the script folder.
 2. Run `python kaguya.py`
 3. Enter comic folder path.
 4. Choose options accordingly.
-```bash
-⬆️ Process Options:
-1. Upload all folders
-2. Upload only new folders (skip already uploaded)
-3. Select specific folder(s) to upload/re-upload
-4. Update GitHub only (uses existing manga.json for this manga)
-5. Cancel
-```
+    ```bash
+    ⬆️ Process Options:
+    1. Upload all folders
+    2. Upload only new folders (skip already uploaded)
+    3. Select specific folder(s) to upload/re-upload
+    4. Update GitHub only (uses existing manga.json for this manga)
+    5. Cancel
+    ```
 5. It will then start uploading in batch.
 6. After it done uploading, it will ask whether you wanna upload the JSON in the GitHub repo.
 7. When all the process is done, it will give summary.
+:::
 
 ::: info Manual JSON Upload
 1. You need a GitHub account. An older account is less likely to be flagged by GitHub.

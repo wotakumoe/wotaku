@@ -3,6 +3,6 @@ export default {
     'preset-default',
     'removeUselessStrokeAndFill',
     'convertPathData',
-    'convertStyleToAttrs',
-  ],
-};
+    'convertStyleToAttrs'
+  ]
+}

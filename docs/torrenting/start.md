@@ -5,9 +5,6 @@ og:
     image: https://i.wotaku.wiki/f/tor.png
 ---
 
-
-<GradientCard title="Getting Started" description="Basic how-to torrent guide to get you started" theme="turquoise" variant="thin"/>
-
 ## Intro
 
 This is a quick start guide. If you have any questions, check out our [**FAQs**](/torrenting/faq) or [**Glossary**](/torrenting/glossary) if you want to learn the meaning of a specific term.
