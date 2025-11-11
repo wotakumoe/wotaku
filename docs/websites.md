@@ -390,8 +390,8 @@ To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/k
 | **Streaming** | [Tokuzilla](https://tokuzilla.net/) :s: [:alt:](https://tokuzl.net/) |
 | ^^         | [Toku555](https://toku555.com/) |
 | ^^         | [Zokaj](https://zokaj.com/) |
-| ^^         | [Power Rangers Official](https://www.youtube.com/@PowerRangersOfficial/) |
-| ^^         | [ULTRAMAN Official](https://www.youtube.com/@ULTRAMAN_OFFICIAL/) <Badge type="tip" text="New" link="https://www.youtube.com/@ultraman_english_official/" /> |
+| ^^         | [Power Rangers Official](https://www.youtube.com/@PowerRangersOfficial) |
+| ^^         | [ULTRAMAN Official](https://www.youtube.com/@ULTRAMAN_OFFICIAL) <Badge type="tip" text="New" link="https://www.youtube.com/@ultraman_english_official" /> |
 | ^^         | [Legal Tokusatsu Streaming List](https://otakulogy.github.io/tokusatsu-streaming/) |
 | **Download** | [Zekozimo](https://zekozimo.blogspot.com/) :s: <Badge type="tip" text="General" /> |
 | ^^         | [KRDL](https://krdl.moe/) :s: |
@@ -487,23 +487,23 @@ To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/k
 - [Crunchyroll](https://www.crunchyroll.com/)
 - [Disney+](https://www.disneyplus.com/)
 - [HBO Max](https://www.hbomax.com/)
-- [Hidive](https://www.hidive.com/)
+- [HIDIVE](https://www.hidive.com/)
 - [Netflix](https://www.netflix.com/)
 - [OceanVeil](https://oceanveil.net/) :ero:
 - [Prime Video](https://www.primevideo.com/)
 
 ::: details More
 ### Regional
-- [Otakulogy List](https://github.com/otakulogy/anime-streaming)
+- [Otakulogy List](https://otakulogy.github.io/anime-streaming/)
 - [YATTA-TACHI List](https://yattatachi.com/legal-anime-streaming-sites)
 
 ### YouTube
-- [Anime Bancho](https://www.youtube.com/@AnimeBancho/)
-- [Ani-One Asia](https://www.youtube.com/@AniOneAsia/) <Badge type="info" text="Regional" />
+- [Anime Bancho](https://www.youtube.com/@AnimeBancho)
+- [Ani-One Asia](https://www.youtube.com/@AniOneAsia) <Badge type="info" text="Regional" />
 - [Muse Asia](https://www.youtube.com/@MuseAsia/) <Badge type="info" text="Regional" />
 - [Official Yu-Gi-Oh!](https://www.youtube.com/@yugioh) <Badge type="info" text="Regional" />
 - [Pokémon TV](https://www.youtube.com/@OfficialPoke%CC%81monTV) <Badge type="info" text="Regional" />
-- [TMS Official](https://www.youtube.com/@AnimeonTMSOfficialChannel/) <Badge type="info" text="Regional" />
+- [TMS Official](https://www.youtube.com/@AnimeonTMSOfficialChannel) <Badge type="info" text="Regional" />
 :::
 
 ## Manga
