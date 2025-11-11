@@ -38,7 +38,8 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **BuiBui** | [Towa meme laugh](https://x.com/k_e_cttp/status/1788708044228223415) | iOS Extension repos link embed |
 | **Capcom** | [Phoenix Wright](https://news.capcomusa.com/lets/browse/phoenix-wright-ace-attorney-trilogy-dev-column-2-the-art-of-the-turnabout) | [Legal banner](/websites#legal) |
 | **ChristieDA** | [Headphone Anime Girl Render](https://www.deviantart.com/christieda/art/Headphone-Anime-Girl-Render-611521170) | [Audio glossary banner](/glossary/audio#audio-file-1) |
-| **돌만 (Dollman)** | [𝗧𝗔𝗞 [𝗺𝗼𝗰𝗵𝗶𝗺𝗼𝗰𝗵𝗶] :dango:](https://x.com/TAK_DRDR/status/1827994397784657986) | Software link embed |
+| **CloverWorks** | [Hoshimachi Suisei "Kireigoto"](https://youtu.be/VPhLXeU25KA) | Icon Key Banner |
+| **돌만 (Dollman)** | [TAK [mochimochi] :dango:](https://x.com/TAK_DRDR/status/1827994397784657986) | Software link embed |
 | **Erik Larsen** | [Spawn](https://antiheroes.fandom.com/wiki/Spawn) | [Comics banner](/websites#comics) |
 | **Eyeye** | [Futaba-chan](https://www.pixiv.net/en/artworks/115469094) | FAQs link embed |
 | **Fari** | [V](https://medibang.com/picture/142307130449401690015558098/) | [Music banner](/music#info-sites) |
