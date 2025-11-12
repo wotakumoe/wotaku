@@ -482,6 +482,8 @@ To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/k
 # Legal
 
 ## Anime
+
+### Platforms
 - [Bilibili](https://www.bilibili.tv/en/anime)
 - [Crunchyroll](https://www.crunchyroll.com/)
 - [Disney+](https://www.disneyplus.com/)
@@ -491,23 +493,26 @@ To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/k
 - [OceanVeil](https://oceanveil.net/) :ero:
 - [Prime Video](https://www.primevideo.com/)
 
-::: details More
-### Regional
-- [Otakulogy List](https://otakulogy.github.io/anime-streaming/)
-- [YATTA-TACHI List](https://yattatachi.com/legal-anime-streaming-sites)
-
 ### YouTube
 - [Anime Bancho](https://www.youtube.com/@AnimeBancho)
 - [Ani-One Asia](https://www.youtube.com/@AniOneAsia)
-- [CARDFIGHTVanguard](https://www.youtube.com/@CARDFIGHTVanguard)
+- [CARDFIGHT Vanguard](https://www.youtube.com/@CARDFIGHTVanguard)
 - [Code Lyoko US](https://www.youtube.com/@CODELYOKOENGLISHOFFICIAL) <Badge type="tip" text="FR" link="https://www.youtube.com/@codelyokoofficiel7410" />
 - [Muse Asia](https://www.youtube.com/@MuseAsia)
 - [Official Yu-Gi-Oh!](https://www.youtube.com/@yugioh)
 - [Pokémon TV](https://www.youtube.com/@OfficialPoke%CC%81monTV)
 - [TMS Official](https://www.youtube.com/@AnimeonTMSOfficialChannel)
+- [Totally Spies!](https://www.youtube.com/@TotallySpiesChannel)
 - [Valerian & Laureline US](https://www.youtube.com/@valerianlaurelineenglishof984) <Badge type="tip" text="FR" link="https://www.youtube.com/@valerianlaurelineofficiel9316" />
 
-**Note:** Video availability may vary by region.
+::: info Content availability
+Some of the series may not be available depending on your region.
+:::
+
+::: details More
+### Regional
+- [Otakulogy List](https://otakulogy.github.io/anime-streaming/)
+- [YATTA-TACHI List](https://yattatachi.com/legal-anime-streaming-sites)
 :::
 
 ## Manga
