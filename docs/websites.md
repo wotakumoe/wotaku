@@ -509,10 +509,11 @@ To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/k
 Some of the series may not be available depending on your region.
 :::
 
-::: details More
-### Regional
+::: details Utility sites
+- [JustWatch](https://www.justwatch.com/)
 - [Otakulogy List](https://otakulogy.github.io/anime-streaming/)
-- [YATTA-TACHI List](https://yattatachi.com/legal-anime-streaming-sites)
+- [uNoGS.com](https://unogs.com/)
+- [Yatta-Tachi List](https://yattatachi.com/legal-anime-streaming-sites)
 :::
 
 ## Manga
