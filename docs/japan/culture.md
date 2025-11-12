@@ -109,7 +109,7 @@ og:
 - [CHEF'S LABO](https://www.youtube.com/@CHEFSLABO)
 - [Nigiricco](https://www.youtube.com/c/obentotyu%E3%81%8A%E5%BC%81%E5%BD%93%E4%B8%AD)
 - [ochikeron](https://www.youtube.com/@ochikeron)
-- [Taiji's Kitchen](https://www.youtube.com/@taijiskitchen/)
+- [Taiji's Kitchen](https://www.youtube.com/@taijiskitchen)
 - [Anime with Alvin](https://www.youtube.com/playlist?list=PLopY4n17t8RAHz5OSGQP6I9z7UZqAZ4WW)
 
 ### Cookbook
@@ -124,10 +124,7 @@ og:
 ## YouTube
 
 ### Vlogs
-- [Abroad in Japan](https://www.youtube.com/@AbroadinJapan)
-    - Journey Across Japan <Badge type="tip" text="S1" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVfl4ghftQDpTA4CXUvCKRlsL"/> <Badge type="tip" text="S2" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVflVY0eQlZY4V0gArxUiOMLR"/> <Badge type="tip" text="S3" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVflGF8OZwBqYH4mxDXvlkpSX"/> <Badge type="tip" text="S4" link="https://www.youtube.com/playlist?list=PLdd050JRcXCJlhiSBMjIwvB7wQ8PR-JzV"/> <Badge type="tip" text="S5" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVflb2CWbcuXX8JQoVTcXCh2X"/> <Badge type="tip" text="S6" link="https://www.youtube.com/playlist?list=PLSOR9_iNzVfm7GkI4U9bFBjJn4-KSFfsD" />
-    - [WACKY WEEKEND](https://www.youtube.com/playlist?list=PL3BrCRgvsZ9DbueHiNITARMRqi0YfCgbT) :s:
-    - [Documentaries](https://www.youtube.com/playlist?list=PLSOR9_iNzVfnEAmyp9QbIQk3xkeLVTUTq)
+- [Abroad in Japan](https://www.youtube.com/@AbroadinJapan) :s:
 - [Ask Japanese](https://www.youtube.com/@AskJapanese)
 - [Emirichu](https://www.youtube.com/@Emirichu)
 - [Japanalysis](https://www.youtube.com/@Japanalysis) :s:

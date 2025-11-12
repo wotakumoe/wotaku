@@ -151,7 +151,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 - [Akane's JapaneseClass](https://www.youtube.com/@Akane-JapaneseClass)
 - [Japanese Immersion with Asami](https://www.youtube.com/@japaneseimmersionwithasami4249)
 - [Learn Japanese with Tanaka san](https://www.youtube.com/@japanese_tanakasan)
-- [Nihongo Con Teppei](https://www.youtube.com/@nihongoconteppei/)
+- [Nihongo Con Teppei](https://www.youtube.com/@nihongoconteppei)
 - [Sakura Tips](https://www.youtube.com/@SAKURATIPS)
 - [Seichan Bungaku](https://www.youtube.com/@seichan_bungaku/featured)
 - [Speak Japanese Naturally](https://www.youtube.com/@SpeakJapaneseNaturally)
