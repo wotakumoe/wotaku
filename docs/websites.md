@@ -496,13 +496,13 @@ To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/k
 ### YouTube
 - [Anime Bancho](https://www.youtube.com/@AnimeBancho)
 - [Ani-One Asia](https://www.youtube.com/@AniOneAsia)
+- [BEYBLADE English](https://www.youtube.com/@BeybladeOfficial) <Badge type="tip" text="Old" link="https://www.youtube.com/@beyblade-official" />
 - [CARDFIGHT Vanguard](https://www.youtube.com/@CARDFIGHTVanguard)
 - [Code Lyoko US](https://www.youtube.com/@CODELYOKOENGLISHOFFICIAL) <Badge type="tip" text="FR" link="https://www.youtube.com/@codelyokoofficiel7410" />
 - [Muse Asia](https://www.youtube.com/@MuseAsia)
 - [Official Yu-Gi-Oh!](https://www.youtube.com/@yugioh)
 - [Pokémon TV](https://www.youtube.com/@OfficialPoke%CC%81monTV)
 - [TMS Official](https://www.youtube.com/@AnimeonTMSOfficialChannel)
-- [Totally Spies!](https://www.youtube.com/@TotallySpiesChannel)
 - [Valerian & Laureline US](https://www.youtube.com/@valerianlaurelineenglishof984) <Badge type="tip" text="FR" link="https://www.youtube.com/@valerianlaurelineofficiel9316" />
 
 ::: info Content availability
