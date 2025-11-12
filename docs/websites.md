@@ -248,7 +248,6 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 **Note:**
 - The default ripping type is volume.
 - :f: -> the ripper uploads to 4chan first.
-
 :::
 
 - [1r0n](https://nyaa.si/user/tsuna69) `Ch` `Vol` ==tron==
@@ -499,11 +498,13 @@ To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/k
 
 ### YouTube
 - [Anime Bancho](https://www.youtube.com/@AnimeBancho)
-- [Ani-One Asia](https://www.youtube.com/@AniOneAsia) <Badge type="info" text="Regional" />
-- [Muse Asia](https://www.youtube.com/@MuseAsia/) <Badge type="info" text="Regional" />
-- [Official Yu-Gi-Oh!](https://www.youtube.com/@yugioh) <Badge type="info" text="Regional" />
-- [Pokémon TV](https://www.youtube.com/@OfficialPoke%CC%81monTV) <Badge type="info" text="Regional" />
-- [TMS Official](https://www.youtube.com/@AnimeonTMSOfficialChannel) <Badge type="info" text="Regional" />
+- [Ani-One Asia](https://www.youtube.com/@AniOneAsia)
+- [Muse Asia](https://www.youtube.com/@MuseAsia)
+- [Official Yu-Gi-Oh!](https://www.youtube.com/@yugioh)
+- [Pokémon TV](https://www.youtube.com/@OfficialPoke%CC%81monTV)
+- [TMS Official](https://www.youtube.com/@AnimeonTMSOfficialChannel)
+
+**Note:** Video availability may vary by region.
 :::
 
 ## Manga
