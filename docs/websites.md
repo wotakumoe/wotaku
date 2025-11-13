@@ -352,10 +352,11 @@ To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/k
 
 ## Download
 
-| Category          | Website |
-|------------------|-----------------------------------------------------------------|
-| **Nyaa**         | [AlpinDale](https://nyaa.si/user/AlpinDale) |
-| ^^               | [Ganba](https://nyaa.si/user/Ganba?f=0&c=3_1&q=) <Badge type="warning" text="Retired"/> |
+| Category        | Website |
+|-----------------|-----------------------------------------------------------------|
+| **Nyaa**        | [AlpinDale](https://nyaa.si/user/AlpinDale) |
+| ^^              | [CleanBookGuy](https://nyaa.si/?f=0&c=3_1&q=CleanBookGuy) |
+| ^^              | [Ganba](https://nyaa.si/user/Ganba?f=0&c=3_1&q=) <Badge type="warning" text="Retired"/> |
 | ^^              | [HowUnfortunate](https://nyaa.si/user/HowUnfortunate?f=0&c=3_1&q=) |
 | ^^              | [LuCaZ](https://nyaa.si/?f=0&c=3_1&q=%22%5BLuCaZ%5D%22) |
 | ^^              | [Stick](https://nyaa.si/?f=0&c=3_1&q=%22%5BStick%5D%22) |
@@ -363,7 +364,7 @@ To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/k
 | ^^              | [Elscione Official LNs](https://server.elscione.com/Officially%20Translated%20Light%20Novels/) |
 | ^^              | [JNovel Codex](https://jnovelcodex.web.app/index.html) |
 | ^^              | [Kureha One](http://www.vn-meido.com/k1/index.php?board=17.0) ==kureha== |
-| ^^              | [Madokami](https://manga.madokami.al) |
+| ^^              | [Madokami](https://manga.madokami.al) [:help:](/guides/manga/madokami) |
 | ^^              | [Anna’s Archive](https://annas-archive.org/) [:prx:](https://open-slum.pages.dev/) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" /> |
 | ^^              | [Library Genesis+](https://libgen.la/) [:prx:](https://open-slum.pages.dev/) |
 | ^^              | [Z-Library](https://z-lib.gd/) [:prx:](https://open-slum.pages.dev/) |
