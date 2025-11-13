@@ -25,8 +25,8 @@ import Feedback from './components/Feedback.vue'
 import Layout from './Layout.vue'
 import './styles/tooltip-hint.css'
 import './styles/steps.css'
-import LinkInline from './components/LinkInline.vue'
 import Block from './components/Block.vue'
+import LinkInline from './components/LinkInline.vue'
 
 export default {
   extends: DefaultTheme,

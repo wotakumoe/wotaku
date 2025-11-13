@@ -10,5 +10,6 @@ const isDev = import.meta.env.DEV
   <div v-if="isDev" class="vp-doc vp-doc-content">
     <slot />
   </div>
-  <div v-else-if="fallback" class="vp-doc vp-doc-content" v-html="fallback"></div>
+  <div v-else-if="fallback" class="vp-doc vp-doc-content" v-html="fallback">
+  </div>
 </template>

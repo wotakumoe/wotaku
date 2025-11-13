@@ -24,8 +24,8 @@ import {
   NolebaseEnhancedReadabilitiesScreenMenu
 } from './components/settings'
 import SidebarCard from './components/SidebarCard.vue'
-import { v2add, v2mag, v2norm, v2smul, v2sub, type Vec2D } from './math'
 import { TakodachiStorageKey } from './constants'
+import { v2add, v2mag, v2norm, v2smul, v2sub, type Vec2D } from './math'
 
 const route = useRoute()
 const { Layout } = DefaultTheme
@@ -130,10 +130,9 @@ const reloadTakodachi = () => {
 
     const diff = v2sub(mousePos, currentPos)
 
-    target =
-      v2mag(diff) < snapThreshold
-        ? mousePos
-        : v2add(target, v2smul(v2norm(diff), speed))
+    target = v2mag(diff) < snapThreshold
+      ? mousePos
+      : v2add(target, v2smul(v2norm(diff), speed))
 
     const finalVec = v2sub(target, offset)
 
@@ -175,27 +174,50 @@ onUnmounted(() => {
 <template>
   <Layout>
     <template #layout-top>
-      <img id="takodachi" ref="takodachiRef" src="/takodachi.webp" alt="Takodachi"
-        class="pointer-events-none fixed absolute z-[9999] h-10 w-10 opacity-0 transition-opacity duration-500" :style="{
+      <img
+        id="takodachi"
+        ref="takodachiRef"
+        src="/takodachi.webp"
+        alt="Takodachi"
+        class="pointer-events-none fixed absolute z-[9999] h-10 w-10 opacity-0 transition-opacity duration-500"
+        :style="{
           left: `${position.x}px`,
           top: `${position.y}px`
-        }" />
+        }"
+      />
     </template>
     <template #doc-before>
       <!-- Breadcrumb Navigation -->
-      <nav v-if="breadcrumbs.length > 0" class="breadcrumb mb-6 text-sm text-text-2" aria-label="Breadcrumb">
+      <nav
+        v-if="breadcrumbs.length > 0"
+        class="breadcrumb mb-6 text-sm text-text-2"
+        aria-label="Breadcrumb"
+      >
         <ol class="flex flex-wrap items-center gap-2">
           <li>
             <a href="/" class="hover:text-primary transition-colors">
               <span class="i-lucide:home"></span>
             </a>
           </li>
-          <li v-for="(crumb, index) in breadcrumbs" :key="crumb.link || index" class="flex items-center gap-2">
-            <span class="i-lucide:chevron-right text-text-3 flex-shrink-0"></span>
-            <span v-if="index === breadcrumbs.length - 1" v-html="crumb.text"
-              class="font-medium text-text-1 break-words"></span>
-            <a v-else :href="crumb.link" v-html="crumb.text"
-              class="hover:text-primary transition-colors break-words"></a>
+          <li
+            v-for="(crumb, index) in breadcrumbs"
+            :key="crumb.link || index"
+            class="flex items-center gap-2"
+          >
+            <span
+              class="i-lucide:chevron-right text-text-3 flex-shrink-0"
+            ></span>
+            <span
+              v-if="index === breadcrumbs.length - 1"
+              v-html="crumb.text"
+              class="font-medium text-text-1 break-words"
+            ></span>
+            <a
+              v-else
+              :href="crumb.link"
+              v-html="crumb.text"
+              class="hover:text-primary transition-colors break-words"
+            ></a>
           </li>
         </ol>
       </nav>

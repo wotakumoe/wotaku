@@ -2,13 +2,13 @@
 import { useMounted } from '@vueuse/core'
 import { inject } from 'vue'
 
+import { InjectionKey, VPFlyout } from '../../constants'
 import LayoutSwitch from './LayoutSwitch.vue'
 import LayoutSwitchContentLayoutWidthInput from './LayoutSwitchContentLayoutMaxWidthSlider.vue'
 import LayoutSwitchPageLayoutWidthInput from './LayoutSwitchPageLayoutMaxWidthSlider.vue'
 import Spotlight from './Spotlight.vue'
 import SpotlightStyles from './SpotlightStyles.vue'
 import Takodachi from './Takodachi.vue'
-import { InjectionKey, VPFlyout } from '../../constants'
 
 const options = inject(InjectionKey, {})
 const mounted = useMounted()
@@ -59,7 +59,7 @@ const mounted = useMounted()
 }
 
 .VPNolebaseEnhancedReadabilitiesMenuFlyout::before {
-  --uno: 'pr-1.5! pl-1.5!';
+  --uno: "pr-1.5! pl-1.5!";
 }
 
 @media (min-width: 768px) {

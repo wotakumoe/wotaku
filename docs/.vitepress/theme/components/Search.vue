@@ -139,7 +139,7 @@ const filterText = disableQueryPersistence.value
 const showDetailedList = useLocalStorage(
   'vitepress:local-search-detailed-list',
   theme.value.search?.provider === 'local' &&
-  theme.value.search.options?.detailedView === true
+    theme.value.search.options?.detailedView === true
 )
 
 const matchExact = useLocalStorage(
@@ -226,7 +226,7 @@ watchDebounced(
       if (comp?.render || comp?.setup) {
         const app = createApp(comp)
         // Silence warnings about missing components
-        app.config.warnHandler = () => { }
+        app.config.warnHandler = () => {}
         app.provide(dataSymbol, vitePressData)
         Object.defineProperties(app.config.globalProperties, {
           $frontmatter: {
@@ -293,8 +293,6 @@ watchDebounced(
     }
     // FIXME: without this whole page scrolls to the bottom
     resultsEl.value?.firstElementChild?.scrollIntoView({ block: 'start' })
-
-    resultsEl.value?.scrollTo(0, 0)
   },
   { debounce: 180, immediate: true }
 )
@@ -491,95 +489,175 @@ function onMouseMove(e: MouseEvent) {
 
 <template>
   <Teleport to="body">
-    <div ref="el" role="button" :aria-owns="results?.length ? 'localsearch-list' : undefined" aria-expanded="true"
-      aria-haspopup="listbox" aria-labelledby="localsearch-label" class="VPLocalSearchBox"
-      :class="{ 'pointer-events-none': !showSearch }">
+    <div
+      ref="el"
+      role="button"
+      :aria-owns="results?.length ? 'localsearch-list' : undefined"
+      aria-expanded="true"
+      aria-haspopup="listbox"
+      aria-labelledby="localsearch-label"
+      class="VPLocalSearchBox"
+      :class="{ 'pointer-events-none': !showSearch }"
+    >
       <AnimatePresence>
-        <motion.div v-if="showSearch" class="backdrop" @click="showSearch = false" :initial="{
-          opacity: 0
-        }" :animate="{
-            opacity: 1
-          }" :exit="{
+        <motion.div
+          v-if="showSearch"
+          class="backdrop"
+          @click="showSearch = false"
+          :initial="{
             opacity: 0
-          }" :transition="{
+          }"
+          :animate="{
+            opacity: 1
+          }"
+          :exit="{
+            opacity: 0
+          }"
+          :transition="{
             duration: 0.55,
             ease: [0.16, 1, 0.3, 1]
-          }" />
+          }"
+        />
       </AnimatePresence>
 
       <AnimatePresence>
-        <motion.div v-if="showSearch" layout="size" class="shell" :initial="{
-          opacity: 0,
-          scale: 0.9375
-        }" :animate="{
-            opacity: 1,
-            scale: 1
-          }" :exit="{
+        <motion.div
+          v-if="showSearch"
+          layout="size"
+          class="shell"
+          :initial="{
             opacity: 0,
             scale: 0.9375
-          }" :transition="{
+          }"
+          :animate="{
+            opacity: 1,
+            scale: 1
+          }"
+          :exit="{
+            opacity: 0,
+            scale: 0.9375
+          }"
+          :transition="{
             duration: 0.55,
             ease: [0.16, 1, 0.3, 1]
-          }">
-          <motion.form layout="position" class="search-bar" @pointerup="onSearchBarClick($event)" @submit.prevent="">
-            <label :title="buttonText" id="localsearch-label" for="localsearch-input">
-              <span aria-hidden="true" class="vpi-search search-icon local-search-icon" />
+          }"
+        >
+          <motion.form
+            layout="position"
+            class="search-bar"
+            @pointerup="onSearchBarClick($event)"
+            @submit.prevent=""
+          >
+            <label
+              :title="buttonText"
+              id="localsearch-label"
+              for="localsearch-input"
+            >
+              <span
+                aria-hidden="true"
+                class="vpi-search search-icon local-search-icon"
+              />
             </label>
             <div class="search-actions before">
-              <button class="back-button" :title="translate('modal.backButtonTitle')" @click="showSearch = false">
+              <button
+                class="back-button"
+                :title="translate('modal.backButtonTitle')"
+                @click="showSearch = false"
+              >
                 <span class="vpi-arrow-left local-search-icon" />
               </button>
             </div>
-            <input ref="searchInput" v-model="filterText" :aria-activedescendant="selectedIndex > -1
-                ? 'localsearch-item-' + selectedIndex
-                : undefined
-              " aria-autocomplete="both" :aria-controls="results?.length ? 'localsearch-list' : undefined"
-              aria-labelledby="localsearch-label" autocapitalize="off" autocomplete="off" autocorrect="off"
-              class="search-input" id="localsearch-input" enterkeyhint="go" maxlength="64" :placeholder="buttonText"
-              spellcheck="false" type="search" />
+            <input
+              ref="searchInput"
+              v-model="filterText"
+              :aria-activedescendant="selectedIndex > -1
+              ? 'localsearch-item-' + selectedIndex
+              : undefined"
+              aria-autocomplete="both"
+              :aria-controls="results?.length ? 'localsearch-list' : undefined"
+              aria-labelledby="localsearch-label"
+              autocapitalize="off"
+              autocomplete="off"
+              autocorrect="off"
+              class="search-input"
+              id="localsearch-input"
+              enterkeyhint="go"
+              maxlength="64"
+              :placeholder="buttonText"
+              spellcheck="false"
+              type="search"
+            />
             <div class="search-actions">
-              <button v-if="!disableDetailedView" class="toggle-layout-button" type="button"
-                :class="{ 'detailed-list': showDetailedList }" :title="translate('modal.displayDetails')" @click="
-                  selectedIndex > -1 && (showDetailedList = !showDetailedList)
-                  ">
+              <button
+                v-if="!disableDetailedView"
+                class="toggle-layout-button"
+                type="button"
+                :class="{ 'detailed-list': showDetailedList }"
+                :title="translate('modal.displayDetails')"
+                @click="selectedIndex > -1 &&
+                (showDetailedList = !showDetailedList)"
+              >
                 <TextAlignStart :size="19" stroke-width="1.25" />
               </button>
-              <button class="exact-match-button" type="button" :class="{ 'exact-match-active': matchExact }"
-                :title="translate('modal.exactMatchTitle')" @click="matchExact = !matchExact">
+              <button
+                class="exact-match-button"
+                type="button"
+                :class="{ 'exact-match-active': matchExact }"
+                :title="translate('modal.exactMatchTitle')"
+                @click="matchExact = !matchExact"
+              >
                 <Regex :size="19" stroke-width="1.25" />
               </button>
-              <button class="clear-button" type="reset" :disabled="disableReset"
-                :title="translate('modal.resetButtonTitle')" @click="resetSearch">
+              <button
+                class="clear-button"
+                type="reset"
+                :disabled="disableReset"
+                :title="translate('modal.resetButtonTitle')"
+                @click="resetSearch"
+              >
                 <Delete :size="19" stroke-width="1.25" />
               </button>
             </div>
           </motion.form>
 
-          <ul ref="resultsEl" :id="results?.length ? 'localsearch-list' : undefined"
+          <ul
+            ref="resultsEl"
+            :id="results?.length ? 'localsearch-list' : undefined"
             :role="results?.length ? 'listbox' : undefined"
-            :aria-labelledby="results?.length ? 'localsearch-label' : undefined" class="results"
-            @mousemove="onMouseMove">
+            :aria-labelledby="results?.length ? 'localsearch-label' : undefined"
+            class="results"
+            @mousemove="onMouseMove"
+          >
             <AnimatePresence>
               <motion.div
                 class="flex flex-col justify-center items-center h-47.5 gap-2 font-medium text-sm text-gray-500 dark:text-gray-300 m-auto md:mt-10 md:mb-6 opacity-90"
-                v-if="!filterText || (filterText && !results.length)" :initial="{
+                v-if="!filterText || (filterText && !results.length)"
+                :initial="{
                   opacity: 0
-                }" :animate="{
+                }"
+                :animate="{
                   opacity: 1,
                   transition: {
                     delay: 0.1
                   }
-                }" :exit="{
+                }"
+                :exit="{
                   opacity: 0,
                   height: 0,
                   transition: {
                     duration: 0.2
                   }
-                }" :transition="{
+                }"
+                :transition="{
                   duration: 0.7,
                   ease: [0.16, 1, 0.3, 1]
-                }">
-                <img class="h-40 object-contain object-center -translate-x-2" src="/asset/smolame.png" alt="Smol ame" />
+                }"
+              >
+                <img
+                  class="h-40 object-contain object-center -translate-x-2"
+                  src="/asset/smolame.png"
+                  alt="Smol ame"
+                />
                 <h1 v-if="filterText && !results.length">
                   Couldn't find anything, try again?
                 </h1>
@@ -588,39 +666,69 @@ function onMouseMove(e: MouseEvent) {
             </AnimatePresence>
 
             <AnimatePresence>
-              <motion.li v-for="(p, index) in results" :key="p.id" layout class="result-layout"
-                :id="'localsearch-item-' + (index + 1)" :aria-selected="selectedIndex === index + 1 ? 'true' : 'false'"
-                role="option" :initial="{
+              <motion.li
+                v-for="(p, index) in results"
+                :key="p.id"
+                layout
+                class="result-layout"
+                :id="'localsearch-item-' + (index + 1)"
+                :aria-selected="selectedIndex === index + 1 ? 'true' : 'false'"
+                role="option"
+                :initial="{
                   opacity: 0,
                   scale: 0.9375
-                }" :animate="{
+                }"
+                :animate="{
                   opacity: 1,
                   scale: 1
-                }" :exit="{
+                }"
+                :exit="{
                   opacity: 0,
                   scale: 0.9375,
                   height: 0,
                   transition: {
                     duration: 0.25
                   }
-                }" :transition="{
+                }"
+                :transition="{
                   duration: 0.55,
                   ease: [0.16, 1, 0.3, 1],
                   delay: index * 0.02
-                }">
-                <a :href="p.id" class="result" :class="{
-                  selected: selectedIndex === index + 1
-                }" :aria-label="[...p.titles, p.title].join(' > ')"
-                  @mouseenter="!disableMouseOver && (selectedIndex = index + 1)" @focusin="selectedIndex = index + 1"
-                  @click="showSearch = false" :data-index="index + 1">
+                }"
+              >
+                <a
+                  :href="p.id"
+                  class="result"
+                  :class="{
+                    selected: selectedIndex === index + 1
+                  }"
+                  :aria-label="[...p.titles, p.title].join(' > ')"
+                  @mouseenter="!disableMouseOver &&
+                  (selectedIndex = index + 1)"
+                  @focusin="selectedIndex = index + 1"
+                  @click="showSearch = false"
+                  :data-index="index + 1"
+                >
                   <div>
                     <div class="titles">
-                      <Hash v-if="p.titles.length > 0" stroke-width="1.25" :size="18" />
+                      <Hash
+                        v-if="p.titles.length > 0"
+                        stroke-width="1.25"
+                        :size="18"
+                      />
                       <File v-else stroke-width="1.25" :size="18" />
 
-                      <span v-for="(t, index) in p.titles" :key="index" class="title">
+                      <span
+                        v-for="(t, index) in p.titles"
+                        :key="index"
+                        class="title"
+                      >
                         <span class="text" v-html="t" />
-                        <ArrowRight stroke-width="1.25" :size="18" class="mx-0.5" />
+                        <ArrowRight
+                          stroke-width="1.25"
+                          :size="18"
+                          class="mx-0.5"
+                        />
                       </span>
                       <span class="title main">
                         <span class="text" v-html="p.title" />
@@ -628,16 +736,25 @@ function onMouseMove(e: MouseEvent) {
                     </div>
 
                     <div v-if="showDetailedList" class="excerpt-wrapper">
-                      <motion.div v-if="p.text" layout class="excerpt" inert :initial="{
-                        height: 0
-                      }" :animate="{
-                          height: '84px'
-                        }" :exit="{
+                      <motion.div
+                        v-if="p.text"
+                        layout
+                        class="excerpt"
+                        inert
+                        :initial="{
                           height: 0
-                        }" :transition="{
+                        }"
+                        :animate="{
+                          height: '84px'
+                        }"
+                        :exit="{
+                          height: 0
+                        }"
+                        :transition="{
                           duration: 0.4,
                           ease: [0.16, 1, 0.3, 1]
-                        }">
+                        }"
+                      >
                         <div class="vp-doc" v-html="p.text" />
                       </motion.div>
                       <div class="excerpt-gradient-bottom" />
@@ -651,10 +768,18 @@ function onMouseMove(e: MouseEvent) {
 
           <motion.div layout class="search-keyboard-shortcuts">
             <span>
-              <kbd :aria-label="translate('modal.footer.navigateUpKeyAriaLabel')">
+              <kbd
+                :aria-label="translate(
+                  'modal.footer.navigateUpKeyAriaLabel'
+                )"
+              >
                 <span class="vpi-arrow-up navigate-icon" />
               </kbd>
-              <kbd :aria-label="translate('modal.footer.navigateDownKeyAriaLabel')">
+              <kbd
+                :aria-label="translate(
+                  'modal.footer.navigateDownKeyAriaLabel'
+                )"
+              >
                 <span class="vpi-arrow-down navigate-icon" />
               </kbd>
               {{ translate('modal.footer.navigateText') }}
@@ -864,14 +989,14 @@ function onMouseMove(e: MouseEvent) {
   outline: none;
 }
 
-.result>div {
+.result > div {
   margin: 12px;
   width: 100%;
   overflow: hidden;
 }
 
 @media (max-width: 767px) {
-  .result>div {
+  .result > div {
     margin: 8px;
   }
 }
@@ -944,11 +1069,11 @@ function onMouseMove(e: MouseEvent) {
   display: none;
 }
 
-.excerpt :deep(.vp-code-group) div[class*='language-'] {
+.excerpt :deep(.vp-code-group) div[class*="language-"] {
   border-radius: 8px !important;
 }
 
-.excerpt>.vp-doc>*:first-child {
+.excerpt > .vp-doc > *:first-child {
   margin-top: 6px !important;
 }
 

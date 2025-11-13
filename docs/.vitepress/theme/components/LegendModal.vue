@@ -151,13 +151,9 @@ const sections = [
         />
 
         <!-- Modal -->
-        <div
-          class="relative mx-auto bg-$vp-c-bg rounded-lg border-2 border-$vp-c-default-soft p-4 sm:p-6 shadow-xl w-full max-w-4xl mt-16 mb-8"
-        >
+        <div class="relative mx-auto bg-$vp-c-bg rounded-lg border-2 border-$vp-c-default-soft p-4 sm:p-6 shadow-xl w-full max-w-4xl mt-16 mb-8">
           <div class="flex justify-between items-center mb-4 sm:mb-6">
-            <h2
-              class="text-$vp-c-text-1 text-lg sm:text-xl font-bold align-center vl-middle flex items-center"
-            >
+            <h2 class="text-$vp-c-text-1 text-lg sm:text-xl font-bold align-center vl-middle flex items-center">
               <div class="i-lucide-badge-info text-$vp-c-text-1 mr-2" />
               Icon key
             </h2>
@@ -174,16 +170,17 @@ const sections = [
               <h3 class="text-$vp-c-text-1 font-bold mb-3">
                 {{ section.title }}
               </h3>
-              <div
-                class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-2"
-              >
+              <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-2">
                 <div
                   v-for="item in section.items"
                   :key="item.label"
                   class="flex flex-col items-center justify-center p-3 rounded-lg bg-$vp-c-bg-alt hover:bg-$vp-c-bg-elv transition-colors"
                 >
                   <div
-                    :class="[item.icon, 'text-2xl mb-1 text-$vp-c-text-1']"
+                    :class="[
+                      item.icon,
+                      'text-2xl mb-1 text-$vp-c-text-1'
+                    ]"
                   />
                   <div class="text-$vp-c-text-2 text-xs text-center">
                     {{ item.label }}

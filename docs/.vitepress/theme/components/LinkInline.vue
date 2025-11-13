@@ -14,8 +14,11 @@ defineProps<{
   <span class="sr-only">{{ title }}</span>
   <ClientOnly>
     <Tooltip class="inline-block" theme="twoslash">
-      <a :href="withBase(link)" :target
-        class="bg-$vp-c-default-soft hover:bg-$vp-c-brand-soft/25 rounded px2 py1 decoration-none!">
+      <a
+        :href="withBase(link)"
+        :target
+        class="bg-$vp-c-default-soft hover:bg-$vp-c-brand-soft/25 rounded px2 py1 decoration-none!"
+      >
         {{ title }}
       </a>
 

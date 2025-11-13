@@ -18,10 +18,18 @@ const translate = createSearchTranslate(defaultTranslations)
 </script>
 
 <template>
-  <button type="button" :aria-label="translate('button.buttonAriaLabel')" aria-keyshortcuts="/ control+k meta+k"
-    class="DocSearch DocSearch-Button">
+  <button
+    type="button"
+    :aria-label="translate('button.buttonAriaLabel')"
+    aria-keyshortcuts="/ control+k meta+k"
+    class="DocSearch DocSearch-Button"
+  >
     <span class="DocSearch-Button-Container">
-      <Search :size="15" stroke-width="1.375" class="inline -translate-y-0.25 scale-125 sm:scale-100" />
+      <Search
+        :size="15"
+        stroke-width="1.375"
+        class="inline -translate-y-0.25 scale-125 sm:scale-100"
+      />
       <span class="DocSearch-Button-Placeholder">
         {{ translate('button.buttonText') }}
       </span>
@@ -75,7 +83,7 @@ const translate = createSearchTranslate(defaultTranslations)
   outline: 2px solid var(--docsearch-focus-color);
 }
 
-.DocSearch-Logo [class^='cls-'] {
+.DocSearch-Logo [class^="cls-"] {
   fill: currentColor;
 }
 
@@ -122,17 +130,17 @@ const translate = createSearchTranslate(defaultTranslations)
   color: var(--docsearch-key-color);
 }
 
-.DocSearch-Button-Keys>* {
+.DocSearch-Button-Keys > * {
   display: none;
 }
 
 .DocSearch-Button-Keys:after {
   /*rtl:ignore*/
   direction: ltr;
-  content: 'Ctrl K';
+  content: "Ctrl K";
 }
 
 .mac .DocSearch-Button-Keys:after {
-  content: '\2318  K';
+  content: "\2318  K";
 }
 </style>
