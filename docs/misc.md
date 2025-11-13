@@ -34,7 +34,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 - [Aniplaylist](https://aniplaylist.com/)
 - [Anisil](https://www.anisil.com/) :fjp:
 - [KeyFrame Staff List](https://keyframe-staff-list.com/)
-- [SIMKL](https://simkl.com/)
+- [Simkl](https://simkl.com/)
 
 ## Manga
 - [MangaBaka](https://mangabaka.dev/) :s:
