@@ -352,7 +352,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | **Tracker** | [SyncriBullet](https://56bca7d190fc-syncribullet.baby-beamup.club/) [:gh:](https://github.com/aliyss/syncribullet) |
 | ^^         | [Animeo: AniList Tracking](https://7a625ac658ec-animeo.baby-beamup.club/configure) [:gh:](https://github.com/Jenrykster/animeo) |
 | ^^         | [MAL-Stremio Addon](https://mal-stremio.vercel.app/) [:gh:](https://github.com/SageTendo/mal-stremio-addon) |
-| ^^         | [SIMKL Addon](https://simkl.com/apps/stremio/) |
+| ^^         | [Simkl Addons](https://simkl.com/apps/stremio/) |
 | **Others**  | [Anime Catalogs](https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/configure) |
 | ^^         | [Jackett Addon](https://github.com/aymene69/stremio-jackett) |
 | ^^         | [Addon Manager](https://stremio-addon-manager.vercel.app/) [:gh:](https://github.com/pancake3000/stremio-addon-manager) |
