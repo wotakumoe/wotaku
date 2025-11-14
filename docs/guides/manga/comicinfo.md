@@ -35,7 +35,6 @@ Original: ~~Blurry downscales for anything that would be above that on other pla
 | Store                                          | Resolution | DRM-Free | SFW | Highest Quality { class="compact" } |
 |-----------------------------------------------|------------|----------|-----|-------------------------------------|
 | [Alpha Manga](https://www.alpha-manga.com/)   | x1800       |  -  | :yes: | - |
-| [Azuki](https://www.azuki.co/)                | x4800<sup>1</sup> | :yes: | :yes: | Own Store |
 | [Dark Horse](https://darkhorse.com/)  | x3000+<sup>2</sup> | :no: | :yes: | Kindle HD |
 | [DENPA](https://denpa.pub/)<sup>3</sup>      | Varies     | :no: | :yes: | Own Store |
 | [FAKKU!](https://www.fakku.net/)              | x3200      | :yes: | :no: | Own Store |
@@ -46,6 +45,7 @@ Original: ~~Blurry downscales for anything that would be above that on other pla
 | [Kodansha USA](https://kodansha.us/)         | ~x3000<sup>4</sup> | :no: | :yes: | Humble Bundle / Kindle HD |
 | [Medibang](https://medibang.itch.io/) <sup>5</sup>   | x2048 | - | :no: | - |
 | Media Do/Coamix <sup>5</sup> | x1800 | - | :no: | - |
+| [Omoi](https://www.omoi.com/)                | x4800<sup>1</sup> | :yes: | :yes: | Own Store |
 | [Seven Seas Entertainment](https://sevenseasentertainment.com/) | x3000<sup>6</sup> | :no: | :yes: | Kindle HD |
 | [Square Enix Manga & Books](https://squareenixmangaandbooks.square-enix-games.com/en-us)| ~x2230 | :no: | :yes: | Same Everywhere |
 | [Star Fruit Books](https://starfruitbooks.com/) | Varies | :yes: | :yes: | Own Store |
@@ -70,19 +70,19 @@ Original: ~~Blurry downscales for anything that would be above that on other pla
 ## Chapters
 ---
 ### Manga
-| Platform                                          | Resolution          | SFW |
-|---------------------------------------------------|---------------------|-----|
+| Platform                                          | Resolution          | SFW   |
+|---------------------------------------------------|---------------------|-------|
 | [Alpha Manga](https://www.alpha-manga.com/)       | x1536               | :yes: |
-| [Azuki](https://www.azuki.co/)                    |  x2400-3000   | :yes: |
 | [Comikey](https://comikey.com/)                   | x2048               | :yes: |
-| [Coolmic](https://coolmic.me/)                    | x1536               | :no: |
-| [INKR](https://comics.inkr.com/)                  | Varies<sup>1</sup> | :yes: |
-| [MangaPlus](https://mangaplus.shueisha.co.jp/)    | x2100<sup>2</sup>  | :yes: |
-| [MangaPlanet](https://mangaplanet.com/)           | x1536 / x1600       | :no: |
-| [MangaUp!](https://global.manga-up.com/)          | x3072+<sup>3</sup>  | :yes: |
+| [Coolmic](https://coolmic.me/)                    | x1536               | :no:  |
+| [INKR](https://comics.inkr.com/)                  | Varies<sup>1</sup>  | :yes: |
+| [K Manga](https://kmanga.kodansha.com/)<sup>4</sup>| x1378              | :yes: |
 | [Mangamo](https://www.mangamo.com/)               | ~x17xx              | :yes: |
-| [K Manga (by Kodansha JP)](https://kmanga.kodansha.com/)<sup>4</sup>| x1378   | :yes: |
-| [Yen Press](https://yenpress.com/)            | x1291-x1350 | :no: |
+| [MangaPlanet](https://mangaplanet.com/)           | x1536 / x1600       | :no:  |
+| [MangaPlus](https://mangaplus.shueisha.co.jp/)    | x2100<sup>2</sup>   | :yes: |
+| [MangaUp!](https://global.manga-up.com/)          | x3072+<sup>3</sup>  | :yes: |
+| [Omoi](https://www.omoi.com/)                     | x2400-3000          | :yes: |
+| [Yen Press](https://yenpress.com/)                | x1291-x1350         | :no:  |
 | [VIZ](https://www.viz.com/)                       | ~x1145              | :yes: |
 
 

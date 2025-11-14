@@ -154,11 +154,11 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 
 ___
 #### Publisher
-- [Azuki](https://www.azuki.co/release-calendar) <Badge type="info" text="CaaS" />
 - [Cross Infinite World](https://www.crossinfworld.com/Calendar.html)
 - [Dark Horse](https://www.darkhorse.com/Manga/Upcoming)
 - [J-Novel Club](https://j-novel.club/calendar)
 - [Kodansha](https://kodansha.us/calendar/)
+- [Omoi](https://www.omoi.com/release-calendar) <Badge type="info" text="CaaS" />
 - [Seven Seas](https://sevenseasentertainment.com/release-dates/)
 - [SuBLime](https://www.sublimemanga.com/calendar) :ero:
 - [SQUARE ENIX](https://squareenixmangaandbooks.square-enix-games.com/en-us/release-calendar)

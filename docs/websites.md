@@ -527,13 +527,13 @@ Some of the series may not be available depending on your region.
 
 | Category | Websites |  
 |----------|----------|  
-| **Manga** | [Azuki](https://www.azuki.co/) |  
-| ^^ | [Comikey](https://comikey.com/) |  
+| **Manga** | [Comikey](https://comikey.com/) |  
 | ^^ | [INKR](https://comics.inkr.com/) |  
 | ^^ | [KManga](https://kmanga.kodansha.com/) <tooltip>Available in the United States, the Philippines, Thailand, Vietnam, Hong Kong, Taiwan, India, Mexico, and Brazil.</tooltip> |  
 | ^^ | [Manga Plus](https://mangaplus.shueisha.co.jp/) |  
 | ^^ | [Manga UP!](https://global.manga-up.com/) |  
 | ^^ | [Mangamo](https://www.mangamo.com/) |  
+| ^^ | [Omoi](https://www.omoi.com/) |
 | ^^ | [Renta](https://www.ebookrenta.com/) |  
 | ^^ | [Shonen Jump](https://www.viz.com/sj-offer) <tooltip>Available in the United States, Canada, the United Kingdom, Ireland, New Zealand, Australia, South Africa, the Philippines, Singapore, and India.</tooltip> |  
 | ^^ | [VIZ Manga](https://www.viz.com/vm-offer) <tooltip>Available in the United States, the United Kingdom, Canada, Australia, New Zealand, and Ireland.</tooltip> |  
