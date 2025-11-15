@@ -288,12 +288,11 @@ Check out the [**Japanese Mega Learning Pack**](https://rentry.org/wotadirect). 
 | Category      | Links            |
 |---------------|------------------|
 | **Discord**   | [Japanese Language Study Space](https://discord.gg/jlss) |  
+| ^^            | [jpdb.io](https://discord.gg/jWwVD7D2sZ) |  
 | ^^            | [Marshall's Server](https://discord.gg/ejmrfwSYAH) |  
 | ^^            | [NativShark](https://discord.gg/nativshark) |  
 | ^^            | [Perdition](https://discord.gg/uK4HeGN) |  
 | ^^            | [TheMoeWay](https://discord.gg/nhqjydaR8j) |  
-| ^^            | [ToKini Andy](https://discord.gg/WP7zYHC) |  
-| ^^            | [JPDB](https://discord.gg/jWwVD7D2sZ) |  
 | **Reddit**    | [AJATT](https://old.reddit.com/r/ajatt/) |  
 | ^^            | [LearnJapanese](https://old.reddit.com/r/LearnJapanese/) |  
 | **Others**    | [Conversation Exchange](https://www.conversationexchange.com/) |  
