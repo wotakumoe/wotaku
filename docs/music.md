@@ -601,15 +601,15 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 <br>
 
-| Category      | Links    |
-|--------------|---------|
-| **Forums**   | [Anime Music Videos](https://www.animemusicvideos.org/forum/) |
-| ^^          | [SquidBoard](https://www.squid-board.org/) |
-| ^^          | [VocaVerse Network](https://vocaverse.network/) |
-| **Discord**  | [Doujin Cafe](https://discord.gg/doujincafe) |
-| ^^          | [DoujinStyle](https://discord.gg/z2QDFdA) |
-| ^^          | [MikuDB](https://discord.gg/w9Dq25n) |
-| ^^          | [OTAQUEST](https://discord.gg/SCHR2QB) |
-| ^^          | [Sitting on Clouds](https://discord.gg/x23SFbE) |
+| Category       | Links    |
+|----------------|----------|
+| **Forums**     | [Anime Music Videos](https://www.animemusicvideos.org/forum/) |
+| ^^             | [SquidBoard](https://www.squid-board.org/) |
+| ^^             | [VocaVerse Network](https://vocaverse.network/) |
+| **Discord**    | [Doujin Cafe](https://discord.gg/doujincafe) |
+| ^^             | [DoujinStyle](https://discord.gg/z2QDFdA) |
+| ^^             | [MikuDB](https://discord.gg/w9Dq25n) |
+| ^^             | [Sitting on Clouds](https://discord.gg/x23SFbE) |
+| ^^             | [SquidBoard](https://discord.gg/yuvnx7FS89) |
 | **Subreddits** | [Vocaloid](https://old.reddit.com/r/vocaloid/) |
-| ^^           | [VocaTorrent](https://old.reddit.com/r/VocaTorrent/) |
+| ^^             | [VocaTorrent](https://old.reddit.com/r/VocaTorrent/) |

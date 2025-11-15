@@ -51,7 +51,6 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [Manga Piracy](https://discord.gg/ZgMtAyxFSU)
 - [Mihon](https://discord.gg/mihon)
 - [MikuDB](https://discord.gg/w9Dq25n)
-- [OTAQUEST](https://discord.gg/SCHR2QB)
 
 ### P-Z
 - [Privateersclub](https://discord.gg/jz8dUnnD6Q)
