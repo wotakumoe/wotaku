@@ -1,4 +1,4 @@
-| Source | Player | Sub Tag |
+| Source | Player | Sub |
 | --- | --- | --- |
 | Animepahe | pahe | :hs: |
 | Anify | lofi | :hs: |
