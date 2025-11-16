@@ -56,7 +56,7 @@ outline: 1
 | Websites | Login | Sub |
 |----------|----------------------|--------|
 | [Anidap](https://anidap.se/home) ==Anidap== | :mingcute-user-2-fill: | :cc::hs: |
-| [Gojo](https://gojo.live/) [:alt:](https://animetsu.cc/) ==Gojo== | :mingcute-user-2-fill: | :hs: |
+| [Gojo](https://animetsu.to/) [:alt:](https://animetsu.cc/) ==Gojo== | :mingcute-user-2-fill: | :hs: |
 | [Lunar Anime](https://lunaranime.ru/home) ==lunar== | :mingcute-user-2-fill:  | :cc::hs: |
 | [Miruro](https://www.miruro.to/) [:prx:](https://www.miruro.com) ==miruro== | :mingcute-refresh-2-fill: | :cc::hs: |
 
@@ -519,7 +519,7 @@ Some of the series may not be available depending on your region.
 - [JustWatch](https://www.justwatch.com/)
 - [Otakulogy List](https://otakulogy.github.io/anime-streaming/)
 - [Simkl](https://simkl.com/)
-- [uNoGS.com](https://unogs.com/)
+- [uNoGS](https://unogs.com/)
 - [Yatta-Tachi List](https://yattatachi.com/legal-anime-streaming-sites)
 :::
 
