@@ -118,22 +118,24 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [OS Anime](https://osanime.com/) | :ddl: | own |
 
 
-## Downloader
+## Downloaders
 
 | Website | Service |
 |-|-|
 | [Lucida](https://lucida.to/) :s: [:alt:](https://lucida.su/) | Amazon, Deezer, Qobuz, Soundcloud, Tidal, Yandex |
 | [DoubleDouble](https://doubledouble.top/) :s: | Amazon, Deezer, Qobuz, Soundcloud, Tidal |
-| [YAMS](https://yams.tf/) | Deezer, Qobuz |
+| [Vi•er](https://vibefetcher.com/) | Deezer, Qobuz, Soundcloud, Tidal |
+| [YAMS](https://yams.tf/) :acc: | Deezer, Qobuz |
+| [DAB Music Player](https://dab.yeet.su/) [:alt:](https://dabmusic.xyz/) :acc: | Qobuz |
 | [Squid.wtf](https://squid.wtf/) | KHInsider, Tidal |
 | [BiniLossless](https://music.binimum.org/) | Tidal |
+| [Digger](https://digger-ui.vercel.app/) | Tidal |
 | [Monochrome](https://monochrome.tf/) [:alt:](https://monochrome.prigoana.com/) | Tidal |
 | [QQDL](https://qqdl.site/) | Tidal |
 | [DeezMate](https://deezmate.com/) | Deezer |
 | [Apple Music Downloader](https://aaplmusicdownloader.com/) ==amdl== | Apple Music (Lossy) |
 
 ## Doujin
-
 
 | Website | Type | Host |
 |-|-|-|
