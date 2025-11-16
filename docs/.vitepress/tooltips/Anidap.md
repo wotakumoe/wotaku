@@ -1,1 +1,11 @@
-Scrapes Anify (lofi), Animepahe (pahe), AnimeZ (mizu), AniWave (neko), AniXL (kuro), AniZone (zone), HiAnime (yuki), KickassAnime (kami), Sudatchi (sora).
+| Source | Player | Sub Tag |
+| --- | --- | --- |
+| Animepahe | pahe | :hs: |
+| Anify | lofi | :hs: |
+| AniWave | neko | :cc: |
+| AnimeKai | ozzy | :cc: |
+| AniXL | kuro | :cc: |
+| AniZone | zone | :cc: |
+| HiAnime | yuki | :cc: |
+| KickassAnime | kami | :cc: |
+| Sudatchi | sora | :no: |
