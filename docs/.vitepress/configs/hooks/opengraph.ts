@@ -96,8 +96,8 @@ async function generateImage({
 
   const options: SatoriOptions = {
     // Use custom dimensions from frontmatter.og if provided
-    width: frontmatter.og?.width ?? 1200,
-    height: frontmatter.og?.height ?? 630,
+    width: frontmatter.og?.width ?? 1800,
+    height: frontmatter.og?.height ?? 900,
     fonts,
     props: {
       title: frontmatter.layout === 'home'
