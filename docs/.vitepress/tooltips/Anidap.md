@@ -1,11 +1,1 @@
-| Source | Player | Sub |
-| --- | --- | --- |
-| Animepahe | pahe | :hs: |
-| Anify | lofi | :hs: |
-| AniWave | neko | :cc: |
-| AnimeKai | ozzy | :cc: |
-| AniXL | kuro | :cc: |
-| AniZone | zone | :cc: |
-| HiAnime | yuki | :cc: |
-| KickassAnime | kami | :cc: |
-| Sudatchi | sora | :no: |
+Scrapes Animepahe (pahe), Anify (lofi), AniWave (neko), AnimeKai (ozzy), AniXL (kuro), AniZone (zone), HiAnime (yuki), KickassAnime (kami), Sudatchi (sora).

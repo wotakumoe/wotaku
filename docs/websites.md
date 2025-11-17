@@ -56,8 +56,8 @@ outline: 1
 | Websites | Login | Sub |
 |----------|----------------------|--------|
 | [Anidap](https://anidap.se/home) ==Anidap== | :mingcute-user-2-fill: | :cc::hs: |
+| [AnimeX](https://animex.one/home) ==AnimeX== | :mingcute-user-2-fill: | :cc::hs: |
 | [Gojo](https://animetsu.to/) [:alt:](https://animetsu.cc/) ==Gojo== | :mingcute-user-2-fill: | :hs: |
-| [Lunar Anime](https://lunaranime.ru/home) ==lunar== | :mingcute-user-2-fill:  | :cc::hs: |
 | [Miruro](https://www.miruro.to/) [:prx:](https://www.miruro.com) ==miruro== | :mingcute-refresh-2-fill: | :cc::hs: |
 
 

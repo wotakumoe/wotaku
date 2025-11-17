@@ -1,3 +1,1 @@
-- Nice and minimal UI.
-- Scrapes Animepahe (kiwi & telli), AnimeZ (jet), AniXL (izy), HiAnime (bee & bun), KickassAnime (hop & kuz).
-- Has built-in AniList support.
+Scrapes Animepahe (kiwi & telli), AnimeZ (jet), AniXL (izy), HiAnime (bee & bun), KickassAnime (hop & kuz).

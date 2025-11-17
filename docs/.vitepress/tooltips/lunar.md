@@ -1,1 +1,0 @@
-Scrapes Anify (lofi), Animepahe (pahe), AnimeZ (mizu), AniWave (neko), AniZone (zone), HiAnime (yuki), KickassAnime (kami), Sudatchi (sora).
