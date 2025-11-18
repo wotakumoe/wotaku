@@ -53,7 +53,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 
 ::: details More
 - [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:gh:](https://github.com/jobobby04/TachiyomiSY) [:e:](/guides/ext/mihon) [:n:](https://github.com/jobobby04/TachiyomiSYPreview)
-- [TachiyomiJ2K](https://mihon.app/forks/TachiyomiJ2K/) [:gh:](https://github.com/Jays2Kings/tachiyomiJ2K) [:e:](/guides/ext/mihon)
+- [Kotatsu Redo](https://github.com/Kotatsu-Redo/Kotatsu-Redo)
 - [TachiyomiAZ](https://mihon.app/forks/TachiyomiAZ/) [:gh:](https://github.com/az4521/tachiyomiAZ) [:n:](https://crafty.moe/tachiyomiAZ.apk)
 - [Animetail](https://github.com/Dark25/Animetail2) [:e:](/guides/ext/mihon) [:n:](https://github.com/Animetailapp/Animetail-preview)
 - [Aniyomi](https://aniyomi.org/) [:gh:](https://github.com/aniyomiorg/aniyomi) [:e:](/guides/ext/mihon) [:n:](https://github.com/aniyomiorg/aniyomi-preview)
