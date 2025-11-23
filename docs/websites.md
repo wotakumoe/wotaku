@@ -56,6 +56,7 @@ outline: 1
 | Websites | Login | Sub |
 |----------|----------------------|--------|
 | [Anidap](https://anidap.se/home) ==Anidap== | :mingcute-user-2-fill: | :cc::hs: |
+| [Anime Realms](https://www.animerealms.org/en) ==AnimeRealms== | :mingcute-refresh-2-fill: | :cc::hs: |
 | [AnimeX](https://animex.one/home) ==AnimeX== | :mingcute-user-2-fill: | :cc::hs: |
 | [Gojo](https://animetsu.to/) [:alt:](https://animetsu.cc/) ==Gojo== | :mingcute-user-2-fill: | :hs: |
 | [Miruro](https://www.miruro.to/) [:prx:](https://www.miruro.com) ==miruro== | :mingcute-refresh-2-fill: | :cc::hs: |
@@ -67,7 +68,7 @@ outline: 1
 - [Animekhor](https://animekhor.org/) [:tg:](https://t.me/AnimeKhorOfficial)
 - [Anoboye](https://anoboye.com/) [:d:](https://discord.gg/RsTrWFtShB)
 - [AnimeXin](https://animexin.dev/) [:d:](https://discord.com/invite/9sGpnnzM)
-- [Chiki Animation](https://chikianimation.com/) <Badge type="info" text="2D" /> [:tg:](https://t.me/Donghuanewofficial)
+- [Chiki Animation](https://chikianimation.org/) <Badge type="info" text="2D" /> [:tg:](https://t.me/Donghuanewofficial)
 - [Chiki Animation](https://chikianimations.xyz/) <Badge type="info" text="3D" /> [:tg:](https://t.me/Dimensional_Animation)
 - [Crimson Subs](https://crimsonfansubs.com/) [:d:](https://discord.com/invite/JMn7Y8qv)
 - [Donghua Stream](https://donghuastream.org/) [:d:](https://discord.gg/4zrUguAakG) [:tg:](https://telegram.me/DonghuaStream_com)
@@ -215,7 +216,7 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 |----------|-------|-------|
 | [Comix](https://comix.to/home) | :mingcute-user-2-fill: | :ic-round-mode-comment: |
 | [Manga Katana](https://mangakatana.com/) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
-| [MangaTARO](https://mangataro.org/home) | :mingcute-refresh-2-fill: | :ic-round-mode-comment: |
+| [MangaTaro](https://mangataro.org/home) | :mingcute-refresh-2-fill: | :ic-round-mode-comment: |
 | [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
 | [MangaReader](https://mangareader.to/home) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
 | [Mangahub](https://mangahub.io/) :acc: | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
