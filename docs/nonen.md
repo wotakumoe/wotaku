@@ -405,7 +405,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [RawUwU](https://rawuwu.net/) [:alt:](https://rawdevart.art/)
 - [Sen Manga](https://raw.senmanga.com/)
 - [Spoilerraw](https://spoilerraw.net/)
-- [Syosetu](https://syosetu.ax/)
 - [Twicomi](https://twicomi.com/)
 
 ### Download
