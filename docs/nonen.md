@@ -373,7 +373,6 @@ og:
 | **Anime** | [Anime-dl](https://github.com/gabelluardo/anime-dl) |
 | ^^        | [Sonarr Anime Downloader](https://github.com/MainKronos/Sonarr-AnimeDownloader) |
 | ^^        | [zDownloader-chan](https://github.com/zGenny/zDownloader-chan) |
-| **Manga** | [MangaWorld Downloader](https://github.com/Lysagxra/MangaWorldDownloader) |
 
 
 ## Japanese
@@ -632,7 +631,7 @@ ___
 
 - **Stream**
   - [AnimeAV1](https://animeav1.com/)
-  - [AnimeOnlineNinja](https://ww3.animeonline.ninja/)
+  - [AnimeOnlineNinja](https://ver.animeonline.ninja/)
   - [Latanime](https://latanime.org/) <Badge type="info" text="Dub" />
   - [Estrenos Anime](https://estrenosanime.net/)
   - [JKAnime](https://jkanime.net/)

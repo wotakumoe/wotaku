@@ -155,7 +155,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 ___
 #### Publisher
 - [Cross Infinite World](https://www.crossinfworld.com/Calendar.html)
-- [Dark Horse](https://www.darkhorse.com/Manga/Upcoming)
+- [Dark Horse](https://www.darkhorse.com/books/upcoming/)
 - [J-Novel Club](https://j-novel.club/calendar)
 - [Kodansha](https://kodansha.us/calendar/)
 - [Omoi](https://www.omoi.com/release-calendar) <Badge type="info" text="CaaS" />
@@ -292,7 +292,7 @@ ___
 - [JET Encoding Guide](https://jaded-encoding-thaumaturgy.github.io/JET-guide/) :s:
 - [Advanced Encoding Guide](https://silentaperture.gitlab.io/mdbook-guide/introduction.html)
 - [Fansubbing Guide](https://guide.encode.moe/)
-- [Goodjob Media](https://www.goodjobmedia.com/fansubbing/)
+- [Goodjob Media](https://web.archive.org/web/20250927043922/https://www.goodjobmedia.com/fansubbing/)
 - [Subarashii Tutorial](https://subarashii-no-fansub.github.io/Subbing-Tutorial/)
 - [Unanimated](https://unanimated.github.io/guides.htm)
 - [Yukisubs](https://yukisubs.wordpress.com/guides/)

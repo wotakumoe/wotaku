@@ -404,7 +404,7 @@ og:
 | ^^        | [PKGA YouTube Theater Mode](https://greasyfork.org/en/scripts/442089-pkga-youtube-theater-mode) |
 | **Misc**  | [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/) |
 | ^^        | [Fandom Fixed](https://github.com/squabbled/FandomFixed) |
-| ^^        | [Pixeldrain Download Bypass](https://greasyfork.org/en/scripts/491326-pixeldrain-download-bypass) |
+| ^^        | [Pixeldrain Download Bypass](https://greasyfork.org/en/scripts/512021-pixeldrain-download-bypass-with-zip-file-content-support) |
 
 :::warning Scripts may not function correctly or reliably all the time
 Active maintenance is necessary for scripts to work properly. If a script fails, try reinstalling it; otherwise, wait for a fix to be released. Install [**Violentmonkey**](https://violentmonkey.github.io/) or [**Tampermonkey**](https://www.tampermonkey.net/) to use scripts.
