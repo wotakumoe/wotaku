@@ -16,7 +16,7 @@ For game download sites, you can visit our friends over at [**Privateersclub**](
 ### Guides
 
 - [Game8](https://game8.co/)
-- [Prydwen](https://www.prydwen.gg/)
+- [Prydwen Institute](https://www.prydwen.gg/)
 - [Umamusume Resources](https://rentry.co/uma-resources)
 
 ### News
@@ -219,12 +219,13 @@ For game download sites, you can visit our friends over at [**Privateersclub**](
 ___
 #### Unofficial
 - [Dueling Book](https://www.duelingbook.com/) <Badge type="info" text="Website" />
+- [Dungeon Duel Monsters](https://mikaygo.itch.io/ddm) <Badge type="info" text="Client" />
 - [EDO Pro](https://projectignis.github.io/download.html) <Badge type="info" text="Client" />
 - [YGO Omega](https://omega.duelistsunite.org/) <Badge type="info" text="Client" />
 ___
 #### Alternative/Historic Formats
 - [Format Library](https://www.formatlibrary.com/)
-- [Edison Format](https://www.edisonformat.com/)
+- [Edison Format](https://www.edisonformat.net/)
 - [Goat Format](https://www.goatformat.com/)
 ___
 #### Subreddits
