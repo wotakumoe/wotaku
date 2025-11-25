@@ -160,13 +160,13 @@ For game download sites, you can visit our friends over at [**Privateersclub**](
 - [Doujin Style](https://doujinstyle.com/)
 
 ### Fan Games / Mods
+- [BulletForge](https://www.bulletforge.org/projects)
 - [ShanghaiEXE](https://gitgud.io/SHNecro/shanghaiexe)
 - [Taisei](https://taisei-project.org/) [:gh:](https://github.com/taisei-project/taisei)
 - [Touhou Hisoutensoku](https://soku.delthas.fr/)
 - [Touhou Fan Game Jam BLM](https://nitori.itch.io/touhou-jam-blm)
 - [Touhou Music Room](https://touhoumusicroom.com/)
 - [Touhou Puppet Play (Touhoumon)](https://maribelhearn.com/touhoumon)
-- [Danmakufu Fangame site](https://www.bulletforge.org/projects)
 
 ### Game Tools
 - [Game Tools and Modifications](https://en.touhouwiki.net/wiki/Game_Tools_and_Modifications)
@@ -183,8 +183,8 @@ For game download sites, you can visit our friends over at [**Privateersclub**](
 - [Touhou Doujinshi Index](https://scarlet.nsk.sh/) [:gh:](https://github.com/nanoskript/touhou-doujinshi-index) <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" />
 - **Music**
   - Info / Wiki
-    - [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)
     - [THB Wiki](https://thwiki.cc/)
+    - [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)
     - [Touhou Spotify Music](https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit#gid=0)
   - Download / Streaming
     - [Gensokyo Radio](https://gensokyoradio.net/playing/) <Badge type="tip" icon="i-material-symbols-download-2" text="256kbps" link="https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u" />
