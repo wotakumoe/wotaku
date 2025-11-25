@@ -13,20 +13,11 @@ For game download sites, you can visit our friends over at [**Privateersclub**](
 
 ## Info
 
-### Tracker
+### Guides
 
-- [Backloggd](https://www.backloggd.com/)
-- [Epic Games Database](https://egdata.app/)
-- [GameTDB](https://www.gametdb.com/)
-- [GOG Database](https://www.gogdb.org/)
-- [HowLongToBeat](https://howlongtobeat.com/)
-- [IGDB](https://www.igdb.com/)
-- [Infinite Backlog](https://infinitebacklog.net/) :s:
-- [MobyGames](https://www.mobygames.com/)
-- [SteamDB](https://steamdb.info/)
-- [The Doujin RPG Database (Nepchan)](https://nepchan.org/)
-- [The Visual Novel Database (VNDB)](https://vndb.org/) :s:
-- [VNStat](https://vnstat.net/)
+- [Game8](https://game8.co/)
+- [Prydwen](https://www.prydwen.gg/)
+- [Umamusume Resources](https://rentry.co/uma-resources)
 
 ### News
 
@@ -43,6 +34,21 @@ For game download sites, you can visit our friends over at [**Privateersclub**](
 - [Deku Deals](https://www.dekudeals.com/)
 - [GG.deals](https://gg.deals/)
 - [psprices](https://psprices.com/)
+
+### Tracker
+
+- [Backloggd](https://www.backloggd.com/)
+- [Epic Games Database](https://egdata.app/)
+- [GameTDB](https://www.gametdb.com/)
+- [GOG Database](https://www.gogdb.org/)
+- [HowLongToBeat](https://howlongtobeat.com/)
+- [IGDB](https://www.igdb.com/)
+- [Infinite Backlog](https://infinitebacklog.net/) :s:
+- [MobyGames](https://www.mobygames.com/)
+- [SteamDB](https://steamdb.info/)
+- [The Doujin RPG Database (Nepchan)](https://nepchan.org/)
+- [The Visual Novel Database (VNDB)](https://vndb.org/) :s:
+- [VNStat](https://vnstat.net/)
 
 ## Tools
 
