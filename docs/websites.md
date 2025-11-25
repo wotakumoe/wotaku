@@ -42,7 +42,6 @@ outline: 1
 | [Animepahe](https://animepahe.si/) ==Animepahe== | :no: | :hs: |
 | [AnimeZ](https://animeyy.com/) ==animez== | :mingcute-user-2-fill: | :hs: |
 | [Animotvslash](https://www.animotvslash.org/search) ==Animotvslash== | :no: | :cc::hs: |
-| [AniXL](https://anixl.to/) | :mingcute-user-2-fill: | :cc: |
 | [Watch Cartoon Online](https://www.wco.tv/) [:prx:](https://www.wcostatus.com/) ==WCO== | :mingcute-user-2-fill: | :hs: |
 
 ### Low Res
