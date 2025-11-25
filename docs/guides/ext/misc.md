@@ -50,6 +50,10 @@ og:
 | Mutli Subs | `npm:hayase-extensions/multi` | 
 | Dub | `npm:hayase-extensions/dub` |
 
+::: warning Extension issue
+Hayase's extensions aren't currently working.
+:::
+
 ## LNReader
 | Name | Region | Auto | Manual |
 | - | - | - | - |
