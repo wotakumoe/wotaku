@@ -43,7 +43,7 @@ og:
 ### Manga
 - [3asQ](https://3asq.org/)
 - [Azora Moon](https://azoramoon.com/)
-- [SWAT Manga](https://swatscans.com/)
+- [SWAT Manga](https://meshmanga.com/)
 
 ### NSFW
 - [Arabs Hentai](https://arabshentai.com/)
@@ -203,7 +203,6 @@ og:
 - [FRAnime](https://franime.fr/)
 - [French Anime](https://french-anime.com/)
 - [JetAnime](https://on.jetanimes.com/)
-- [Mavanimes](https://mavanimes.co/)
 - [Sekai](https://sekai.one/)
 - [Streaming-integrale](https://streaming-integrale.com/)
 - [ToonAnime](https://v8.toonanime.co/)
@@ -581,7 +580,7 @@ ___
 - [Tunime](https://an0ncer.github.io/) [:gh:](https://github.com/AN0NCER/an0ncer.github.io) <Badge type="info" text="Sub" />
 
 ### Manga
-- [Com-X](https://com-x.life/)
+- [Com-X](https://com-x.life/home)
 - [Desu.Me](https://desu.city/) [:alt:](https://desu.me/)
 - [Manga.ovh](https://manga.ovh/content)
 - [MangaHub](https://mangahub.ru/)
@@ -666,7 +665,6 @@ ___
 ### News
 - [ANMOSugoi](https://www.anmosugoi.com/)
 - [RamenParaDos](https://ramenparados.com/)
-- [MisionTokyo](http://misiontokyo.com/)
 
 ### Software
 
@@ -738,7 +736,7 @@ ___
 - [TruyenQQ](https://truyenqqgo.com/)
 - [Truyen Sieuhay](https://truyensieuhay.com/)
 - [TruyenTranh3Q](https://truyentranh3qc.com/)
-- [VlogTruyen](https://vlogtruyen55.com/)
+- [VlogTruyen](https://vlogtruyen57.com/)
 
 ### Hentai
 - [DuaLeoTruyen](https://dualeotruyenzx.com/)
