@@ -333,7 +333,6 @@ og:
 - [Komiku](https://komiku.id/)
 - [Komikcast](https://komikcast02.com/)
 - [Komik Indo](https://komikindo3.com/)
-- [MGKOMIK](https://mgkomik.org/)
 - [Shinigami ID](https://id.shinigami.asia/)
 - [YuuManga](https://yuumanga.blogspot.com/)
 
@@ -485,7 +484,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [Frixy Subs](https://frixysubs.pl/)
 - [Fumetsu](https://fumetsu.pl/)
 - [Grupa Mirai](https://www.grupa-mirai.pl/)
-- [Mioro-Subs](https://miorosubs.pl/)
 - [NanaSubs](https://nanasubs.com/)
 - [Oglądaj Anime](https://ogladajanime.pl/)
 - [Shinden](https://shinden.pl/main) <Badge type="info" text="Client" link="https://github.com/KlapChat-Entertainment/shinden-client" />
