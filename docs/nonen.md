@@ -302,7 +302,6 @@ og:
   - [PikaHD](https://pikahd.com/)
   - [Puretoons](https://puretoons.in/)
   - [SDToons](https://sdtoons.com/) :ero:
-  - [Tamil Toon](https://tamiltoon.net/)
   - [Toonhub4u](https://toonhub4u.co/home/)
   - [ToonsHub](https://www.toonshub.xyz/)
   - [Toonworld4all](https://toonworld4all.me/)

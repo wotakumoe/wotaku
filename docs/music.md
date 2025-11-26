@@ -358,7 +358,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 - [Flacbox](https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256) :app::cs:
 - [Oto Music Player](https://play.google.com/store/apps/details?id=com.piyush.music) :and::cs:
 - [Musicolet Music Player](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) :cs:
-- [Poweramp](https://powerampapp.com/) :s::cs::paid:
+- [Poweramp](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer) :s::cs::paid:
 - [USB Audio Player PRO](https://play.google.com/store/apps/details?id=com.extreamsd.usbaudioplayerpro&hl=en&gl=US) :and::cs::paid:
 
 ### Online
