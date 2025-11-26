@@ -96,12 +96,12 @@ og:
 - [Sirogohan](https://www.sirogohan.com/) <Badge type="info" text="YouTube" link="https://www.youtube.com/@sirogohancom/" />
 - [Cooking with Dog](https://cookingwithdog.com/) <Badge type="info" text="YouTube" link="https://www.youtube.com/@cookingwithdog" />
 - [Japanese Cooking 101](https://www.japanesecooking101.com/) <Badge type="info" text="YouTube" link="https://www.youtube.com/@JapaneseCooking101/" />
-- [RecipeTin Japan](https://japan.recipetineats.com/) <Badge type="info" text="YouTube" link="https://www.youtube.com/@JapaneseCooking101" />
+- [RecipeTin Japan](https://japan.recipetineats.com/) <Badge type="info" text="YouTube" link="https://www.youtube.com/@RecipeTinJapan" />
 - [Kurashiru](https://www.kurashiru.com/)
 - [Chopstick Chronicles](https://www.chopstickchronicles.com/)
 - [Okonomiyaki World](https://okonomiyakiworld.com/index.html)
 - [Delish Kitchen](https://delishkitchen.tv/)
-- [Japan food addict](https://www.japanfoodaddict.com/)
+- [Japan Food Addict](https://www.japanfoodaddict.com/)
 - [Just Hungry](https://www.justhungry.com/recipes)
 
 ### YouTube
@@ -152,7 +152,6 @@ og:
 
 #### Japan
 
-- [Diggin' In The Carts: Japanese Video Game Music Documentary](https://www.youtube.com/playlist?list=PLdd050JRcXCIefOzuG_gw-KNUlq_beHar)
 - [Pachinko: Japan's Biggest Gaming Obsession Explained](https://www.youtube.com/watch?v=-tBy2jemw4s)
 - [Social problems in Japan](https://www.youtube.com/playlist?list=PLpIWoYf9KNFV_I-719B3pk673xaHZ6fYY)
 - [the peculiar case of japanese web design](https://sabrinas.space/) :s: <Badge type="info" text="Video" link="https://www.youtube.com/watch?v=z6ep308goxQ" />
