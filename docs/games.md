@@ -8,7 +8,7 @@ og:
 ---
 
 ::: tip Quick Tip
-For game download sites, you can visit our friends over at [**Privateersclub**](https://megathread.pages.dev/download).
+For game downloads and emulation, you can visit our friends over at [**Privateersclub**](https://megathread.pages.dev/download).
 :::
 
 ## Info
@@ -213,15 +213,15 @@ For game download sites, you can visit our friends over at [**Privateersclub**](
 ### Simulators
 
 #### Official
-- [Master Duel](https://www.konami.com/yugioh/masterduel/us/en/)
-- [Duel Links](https://www.konami.com/yugioh/duel_links/en/)
+- [Yu-Gi-Oh! Master Duel](https://www.konami.com/yugioh/masterduel/us/en/)
+- [Yu-Gi-Oh! Duel Links](https://www.konami.com/yugioh/duel_links/en/)
 - [Yu-Gi-Oh! Neuron](https://www.konami.com/yugioh/neuron/en/) <Badge type="info" text="Companion" />
 ___
 #### Unofficial
-- [Dueling Book](https://www.duelingbook.com/) <Badge type="info" text="Website" />
-- [Dungeon Duel Monsters](https://mikaygo.itch.io/ddm) <Badge type="info" text="Client" />
-- [EDO Pro](https://projectignis.github.io/download.html) <Badge type="info" text="Client" />
-- [YGO Omega](https://omega.duelistsunite.org/) <Badge type="info" text="Client" />
+- [Dueling Book](https://www.duelingbook.com/) <Badge type="info" text="Manual" />
+- [Dungeon Duel Monsters](https://mikaygo.itch.io/ddm) <Badge type="info" text="Manual" />
+- [EDO Pro](https://projectignis.github.io/download.html) <Badge type="info" text="Automatic" />
+- [YGO Omega](https://omega.duelistsunite.org/) <Badge type="info" text="Automatic" />
 ___
 #### Alternative/Historic Formats
 - [Format Library](https://www.formatlibrary.com/)
