@@ -218,6 +218,7 @@ You should never use cracked or modded VPN cause all of your traffic will go thr
 - [4plebs](https://archive.4plebs.org/)
 - [arch.b4k](https://arch.b4k.dev/)
 - [Archive of Sins](https://archiveofsins.com/)
+- [Archived.Moe](https://archived.moe/)
 - [Desuarchive](https://desuarchive.org/) :s:
 - [Palanq.win](https://archive.palanq.win/)
 - [The /b/ Archive](https://thebarchive.com/)
@@ -228,7 +229,6 @@ You should never use cracked or modded VPN cause all of your traffic will go thr
 - **Clients**
   - [Anychans](https://anychans.github.io/4chan/) :web: [:gh:](https://github.com/catamphetamine/anychan)
   - [DashchanFork](https://github.com/TrixiEther/DashchanFork) :and:
-  - [KurobaEx](https://github.com/K1rakishou/Kuroba-Experimental/) :and:
   - [Read Chan](https://play.google.com/store/apps/details?id=com.deezus.pchan) :and::cs:
   - [TUI-Chan](https://github.com/tuqqu/tui-chan) :win:
 - **Extension / Script**
