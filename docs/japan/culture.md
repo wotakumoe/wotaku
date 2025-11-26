@@ -152,6 +152,7 @@ og:
 
 #### Japan
 
+- [Diggin' in the Carts: Japanese Video Game Music History](https://www.redbull.com/int-en/shows/diggin-in-the-carts)
 - [Pachinko: Japan's Biggest Gaming Obsession Explained](https://www.youtube.com/watch?v=-tBy2jemw4s)
 - [Social problems in Japan](https://www.youtube.com/playlist?list=PLpIWoYf9KNFV_I-719B3pk673xaHZ6fYY)
 - [the peculiar case of japanese web design](https://sabrinas.space/) :s: <Badge type="info" text="Video" link="https://www.youtube.com/watch?v=z6ep308goxQ" />
