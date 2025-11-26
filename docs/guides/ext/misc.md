@@ -32,7 +32,6 @@ og:
 
 
 ## Dantotsu
-
 | Name | Region | Auto | Manual |
 | - | - | - | - |
 | [Dannovels](https://github.com/dannovels/novel-extensions) | :global: | [Install](novelyomi://add-repo?url=https://raw.githubusercontent.com/dannovels/novel-extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/dannovels/novel-extensions/refs/heads/repo/index.min.json) |
@@ -43,16 +42,11 @@ og:
 | [rektpartyaftermath](https://github.com/rektpartyaftermath/Legado-booksource-collection) | :flag-united-kingdom: | [Install](legado://import/bookSource?src=https://raw.githubusercontent.com/rektpartyaftermath/Legado-booksource-collection/main/AllBooksource.json) | [URL](https://raw.githubusercontent.com/rektpartyaftermath/Legado-booksource-collection/main/AllBooksource.json) |
 
 ## Hayase
-
-| Type | Code |
+| Type | Manual |
 |-|-|
-| Default | `npm:hayase-extensions` |
-| Mutli Subs | `npm:hayase-extensions/multi` | 
-| Dub | `npm:hayase-extensions/dub` |
-
-::: warning Extension issue
-Hayase's extensions aren't currently working.
-:::
+| Default | [URL](https://exten.pages.dev/index.json) |
+| Dub | [URL](https://exten.pages.dev/dub/index.json) |
+| Mutli-Subs | [URL](https://exten.pages.dev/multi/index.json) |
 
 ## LNReader
 | Name | Region | Auto | Manual |
