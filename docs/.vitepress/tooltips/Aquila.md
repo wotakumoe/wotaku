@@ -1,0 +1,1 @@
+K Manga, taking over for Rillant.

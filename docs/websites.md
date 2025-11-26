@@ -252,13 +252,14 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 
 - [1r0n](https://nyaa.si/user/tsuna69) `Ch` `Vol` ==tron==
 - [anadius](https://nyaa.si/user/anadius) <Badge type="warning" text="Retired"/> `Ch` ==anadius==
+- [Aquila](https://nyaa.si/user/Aleph256) `Ch` ==Aquila==
 - [Danke](https://nyaa.si/?f=0&c=0_0&q=danke-empire) :f: ==Danke==
 - [Digital Manga Fan](https://nyaa.si/user/digitalmangafan) ==DMF==
 - [Empy](https://nyaa.si/user/empyrealarrow) <Badge type="warning" text="Retired"/> `Ch` `Comp` ==Empy==
 - [Lord_ne](https://nyaa.si/user/lord_ne) ==Lord_ne==
 - [LuCaZ](https://nyaa.si/user/LuCaZ) `Ch` `Vol` ==LuCaZ==
 - [Oakminati](https://nyaa.si/user/Oakminati) `Ch` `Comp` <Badge type="tip" text="Releases" link="https://sheet.zohopublic.com/sheet/published/3v5my3d014d3b97064f55b7114631ac87efda?sheetid=1&range=A1" /> ==Oakminati==
-- [Rillant](https://nyaa.si/user/Rillant) `Ch` ==Rillant==
+- [Rillant](https://nyaa.si/user/Rillant) `Ch` `Comp` ==Rillant==
 - [Shellshock](https://nyaa.si/user/shellshock) ==Shellshock==
 - [Shizu](https://nyaa.si/user/wolfsbanes) ==Shizu==
 - [Stick](https://nyaa.si/user/dumbboy58) ==Stick==
