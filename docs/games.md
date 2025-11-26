@@ -23,9 +23,9 @@ For game downloads and emulation, visit our friends over at [**Privateersclub**]
 
 - [4Gamer](https://www.4gamer.net/) :fjp:
 - [Famitsu](https://www.famitsu.com/) :fjp:
+- [Frontline](https://www.frontlinejp.net/)
 - [GachaRevenue](https://www.gacharevenue.com/) [:gh:](https://github.com/zigamacele/gacharevenue)
 - [Gematsu](https://www.gematsu.com/)
-- [Frontline](https://www.frontlinejp.net/)
 - [Siliconera](https://www.siliconera.com/)
 - [RPGFan](https://www.rpgfan.com/) 
 - [RPG Site](https://www.rpgsite.net/)
@@ -189,7 +189,7 @@ For game downloads and emulation, visit our friends over at [**Privateersclub**]
 - [Touhou Doujinshi Index](https://scarlet.nsk.sh/) [:gh:](https://github.com/nanoskript/touhou-doujinshi-index) <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" />
 - **Music**
   - Info / Wiki
-    - [THB Wiki](https://thwiki.cc/)
+    - [THB Wiki](https://thwiki.cc/) :fcn:
     - [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)
     - [Touhou Spotify Music](https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit#gid=0)
   - Download / Streaming
