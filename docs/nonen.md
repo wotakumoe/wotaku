@@ -293,6 +293,7 @@ og:
 - **Stream**
   - [AllWish](https://all-wish.me/home)
   - [AnimaHD](https://animahd.com/) [:alt:](https://www.1xanime.org/)
+  - [Anime Joker](https://animejoker.com/)
   - [Anime World India](https://watchanimeworld.in/)
   - [Dora Bash](https://dorabash.com/)
   - [ToonStream](https://toonstream.love/)
