@@ -136,7 +136,6 @@ og:
 - [Gamcore](https://gamcore.com/)
 - [HSuki](https://www.h-suki.com/en/games)
 - [Kimochi](https://kimochi.info)
-- [LewdCorner](https://lewdcorner.com/) :acc:
 - [Ryuugames](https://www.ryuugames.com/)
 - [ULMF](https://ulmf.org/) :acc:
 - [VNPocket](https://vnpocket.com/)
