@@ -103,7 +103,6 @@ ___
 - [Japanese Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy)
 - [jidoujisho](https://github.com/lrorpilla/jidoujisho) :s:
 - [Kakugo](https://play.google.com/store/apps/details?id=org.kaqui) [:gh:](https://github.com/blastrock/kakugo)
-- [KankenToNews](https://play.google.com/store/apps/details?id=jp.kyoto.nlp.kanken)
 - [Kanji Dojo](https://play.google.com/store/apps/details?id=ua.syt0r.kanji)
 - [Kata](https://play.google.com/store/apps/details?id=im.dacer.kata)
 - [kawaiiNihongo](https://play.google.com/store/apps/details?id=de.mardukcorp.kawaiinihongo)
