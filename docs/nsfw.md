@@ -63,7 +63,6 @@ og:
 - [HentaiFox](https://hentaifox.com/)
 - [HentaiRead](https://hentairead.com/)
 - [HenTalk](https://hentalk.pw/) [:alt:](https://fakku.cc/) ==HenTalkNexus==
-- [Tsumino](https://www.tsumino.com/)
 - [Wholesome Hentai God List](https://wholesomelist.com/)
 
 ## Pornhwa
