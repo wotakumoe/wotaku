@@ -105,6 +105,7 @@ og:
 ### Self-Hosted
 - [Danbooru](https://danbooru.donmai.us/) :s:
 - [Gelbooru](https://gelbooru.com/) :s:
+- [Hentai Game CG](https://hentaigamecg.com/)
 - [Konachan](https://konachan.com/)
 - [Kusowanka](https://kusowanka.com/)
 - [Nozomi](https://nozomi.la/)
@@ -129,6 +130,7 @@ og:
 - [Asia Media Blog](https://asiamediablog.com/media/game/) :host: [:prx:](https://rentry.org/wotaxy#asia-media-blog)
 - [CPG Repacks](https://cpgrepacks.site)
 - [Craneanime](https://blog.craneanime.xyz/)
+- [Eroge Download](https://erogedownload.com/)
 - [F95Zone](https://f95zone.to/) :acc:
 - [Gamcore](https://gamcore.com/)
 - [HSuki](https://www.h-suki.com/en/games)
