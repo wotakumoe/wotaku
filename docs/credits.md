@@ -38,7 +38,6 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **BuiBui** | [Towa meme laugh](https://x.com/k_e_cttp/status/1788708044228223415) | iOS Extension repos link embed |
 | **Capcom** | [Phoenix Wright](https://news.capcomusa.com/lets/browse/phoenix-wright-ace-attorney-trilogy-dev-column-2-the-art-of-the-turnabout) | [Legal banner](/websites#legal) |
 | **ChristieDA** | [Headphone Anime Girl Render](https://www.deviantart.com/christieda/art/Headphone-Anime-Girl-Render-611521170) | [Audio glossary banner](/glossary/audio#audio-file-1) |
-| **CloverWorks** | [Hoshimachi Suisei "Kireigoto"](https://youtu.be/VPhLXeU25KA) | Icon Key Banner |
 | **돌만 (Dollman)** | [TAK [mochimochi] :dango:](https://x.com/TAK_DRDR/status/1827994397784657986) | Software link embed |
 | **Erik Larsen** | [Spawn](https://antiheroes.fandom.com/wiki/Spawn) | [Comics banner](/websites#comics) |
 | **Eyeye** | [Futaba-chan](https://www.pixiv.net/en/artworks/115469094) | FAQs link embed |
@@ -61,6 +60,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **megamiceto** | [Brazilian miku](https://x.com/megamiceto/status/1826372184731955667) | Non-English link embed |
 | **MeLonPanz** | [sharkkkkkk !!!](https://www.pixiv.net/en/artworks/86516526) | [Favicon](/) |
 | **Mogudan** | [Mogudan Illust Works](https://www.fakku.net/hentai/mogudan-illust-works-english) | [NSFW banners](/nsfw) |
+| **なかゥま (NAKAuMA)** | [Frieren](https://x.com/NAKA_u_MA/status/1976599561096568835) | Discord server icon |
 | **neggo** | [extra tips](https://x.com/neggoartz/status/1834776522801971603) | Torrent link embed |
 | **pantsu_ripper** | [lain/rei](https://x.com/pantsu_ripper/status/1575844099688497153) | Squidify link embed |
 | **queasyS** | [Ishtar and Ereshkigal - FGO](https://www.pixiv.net/en/artworks/112928609) | NSFW link embed |
@@ -68,6 +68,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Ring** | [Mahō Shōjo](https://www.pixiv.net/en/artworks/94104639) | Merch link embed |
 | **さめあんこ (Sameanko)** | [:cat: :shark: :bathtub: :sparkles:](https://www.pixiv.net/en/artworks/93131457) | [Home art](/) |
 | **SHAFT** | [Ene](https://kagerouproject.fandom.com/wiki/Ene#Anime) | [Music banner](/music#download) |
+| **Shinichi Fukuda** | [Marin Kitagawa](https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646093656) | Icon key banner |
 | **Taizo** | [The sound of the forest, the smell of paper.](https://www.pixiv.net/en/artworks/120581878) | Japan link embed |
 | **tencross** | [Ainz Ooal Gown](https://vsbattles.fandom.com/wiki/Ainz_Ooal_Gown) | [Novel banner](/websites#novels) |
 | **Toei** | [Kamen Rider Imperial Demons](https://www.deviantart.com/stainrender/art/Kamen-Rider-Imperial-Demons-Render-1025700355) | [Tokusatsu banner](/websites#tokusatsu) |
@@ -87,6 +88,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **advarcher**               | [Gawr Gura delivering Christmas gift](https://www.pixiv.net/en/artworks/114538066)                 | Christmas card 2024 |
 | **Chroneco**                | [Ninomae Ina’nis WAH](https://www.chroneco.moe/)                                                   | Button              |
 | **CLERO**                   | [Hololive EN plushies](https://x.com/CLERO_ART/status/1788894299007971680)                         | Home art          |
+| **CloverWorks** | [Hoshimachi Suisei "Kireigoto"](https://youtu.be/VPhLXeU25KA) | Icon key banner |
 | **Dr.Pigeon PhD** | [Smol Ame in winter jacket](https://x.com/PhdPigeon/status/1866313003119030404) | Home art |
 | ^^ | [Smol Ame waving](https://x.com/PhdPigeon/status/1884043982680014972) | Favicon |
 | ^^           | [Smol Ame with Christmas hat](https://x.com/PhdPigeon/status/1869579249688231945)                  | Favicon        |
@@ -102,7 +104,6 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **how-dee**                 | [Ninomae Ina’nis padoru](https://www.reddit.com/r/Padoru/comments/iu6jvx/ninomae_inanis_hololive/) | Home art & Favicon  |
 | **しらび (Shirabi)**        | [Artoria Pendragon](https://www.pixiv.net/en/artworks/60495690)                                    | Fate banner         |
 | **森倉円 (Morikura En)**    | [Kizuna Ai Profile Art](https://en.namu.wiki/w/%ED%82%A4%EC%A6%88%EB%82%98%20%EC%95%84%EC%9D%B4)   | Vtuber banner       |
-| **なかゥま (NAKAuMA)** | [Frieren](https://x.com/NAKA_u_MA/status/1976599561096568835) | Discord server icon |
 | **Ninomae Ina’nis**         | [Ninomae Ina’nis reading](https://x.com/ninomaeinanis/status/1340047328963510273)                  | Glossary banner     |
 | ^^         | [Ninomae Ina’nis WAHU WAHU](https://x.com/ninomaeinanis/status/1652829909218373632)                | Button              |
 | **Saeki Yahiro** | [Hoshimachi Suisei Profile Art](https://hololive.hololivepro.com/en/talents/hoshimachi-suisei/) | Vtuber banner |
