@@ -8,7 +8,7 @@ og:
 ---
 
 ::: tip Quick Tip
-For game downloads and emulation, visit our friends over at [**Privateersclub**](https://megathread.pages.dev/download).
+For game [**downloads**](https://megathread.pages.dev/download) and [**emulation**](https://megathread.pages.dev/emulation), visit our friends over at [**Privateersclub**](https://megathread.pages.dev/).
 :::
 
 ## Info
@@ -224,9 +224,9 @@ ___
 - [YGO Omega](https://omega.duelistsunite.org/) <Badge type="info" text="Automatic" />
 ___
 #### Alternative/Historic Formats
-- [Format Library](https://www.formatlibrary.com/)
-- [Edison Format](https://www.edisonformat.net/)
 - [Goat Format](https://www.goatformat.com/)
+- [Edison Format](https://www.edisonformat.net/)
+- [Format Library](https://www.formatlibrary.com/)
 ___
 #### Subreddits
 - [Yu-Gi-Oh!](https://old.reddit.com/r/yugioh/)
