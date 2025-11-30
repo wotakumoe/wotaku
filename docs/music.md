@@ -124,7 +124,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 |-|-|
 | [Lucida](https://lucida.to/) :s: [:alt:](https://lucida.su/) | Amazon, Deezer, Qobuz, Soundcloud, Tidal, Yandex |
 | [DoubleDouble](https://doubledouble.top/) :s: | Amazon, Deezer, Qobuz, Soundcloud, Tidal |
-| [Vi•er](https://vibefetcher.com/) | Deezer, Qobuz, Soundcloud, Tidal |
 | [YAMS](https://yams.tf/) :acc: | Deezer, Qobuz |
 | [DAB Music Player](https://dab.yeet.su/) :acc: [:alt:](https://dabmusic.xyz/) | Qobuz |
 | [Squid.wtf](https://squid.wtf/) | KHInsider, Tidal |
