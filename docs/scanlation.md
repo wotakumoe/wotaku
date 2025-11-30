@@ -54,7 +54,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 - [Quick Sand Scans Resource](https://quicksandscans.wordpress.com/resources/) :s:
 - [Inside Scanlation](https://www.insidescanlation.com/backgrounds/index.html)
 - [Scanlation Snacks](https://scanlationsnacks.wordpress.com/)
-- [Scanlation Font Sheets](https://cubari.moe/read/imgur/UmEpOL1/)
+- [Scanlation Font Sheets](https://imgur.com/a/scanlation-font-sheets-UmEpOL1)
 - [Webtoon Guidelines](https://github.com/ricafolio/awesome-webtoon-guidelines)
 - [CSP Material List](https://cspmasterlist.carrd.co/)
 - [Tips & Tricks mega Library](https://well-zinc-cd5.notion.site/Tips-Tricks-mega-Library-586dbc3ed4bc482285180ee4aac92d92)
