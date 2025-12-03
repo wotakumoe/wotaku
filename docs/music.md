@@ -107,8 +107,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [Sitting on Clouds](https://www.sittingonclouds.net/) :s: [:prx:](https://rentry.org/wotaxy#sitting-on-clouds) | :ddl: | :sm::smf: |
 | [SquidBoard](https://www.squid-board.org/) :acc: | :ddl: | :sgd::sm::smf: |
 | [Sukidesu OST](https://sukidesuost.info/) | :ddl::mag: | :sm: |
-| [RuTracker.org](https://rutracker.org/forum/index.php) | :mag: | - |
-| [Asia Media Blog](https://asiamediablog.com/media/music/) :ero: [:prx:](https://rentry.org/wotaxy#asia-media-blog) | :ddl: | :host: |
 
 ### MP3
 
@@ -116,7 +114,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 |-|-|-|
 | [Nipponsei](https://nipponsei.minglong.org/tracker/) | :mag: | - |
 | [OS Anime](https://osanime.com/) | :ddl: | own |
-
 
 ## Downloaders
 
@@ -144,7 +141,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [MikuDB](https://mikudb.moe/) | :ddl::mag: | :sgd: |
 | [Moriya Shrine](https://moriyashrine.org/) | :mag: | - |
 
-
 ## Games
 
 | Website | Type | Host |
@@ -156,7 +152,12 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [VGM Preservation Foundation](https://www.vgmpf.com/Wiki/index.php) | :ddl: | own |
 | [VGMusic](https://vgmusic.com/) | :ddl: | own |
 
+## Misc
 
+| Website | Type | Host |
+| [RuTracker.org](https://rutracker.org/forum/index.php) | :mag: | - |
+| [Asia Media Blog](https://asiamediablog.com/media/music/) :ero: [:prx:](https://rentry.org/wotaxy#asia-media-blog) | :ddl: | :host: |
+| [The T-SQUARE Plaza](https://tsquareplaza.blogspot.com/) | :ddl: | :sgd: |
 
 ![](/music/radio.webp)
 # Radio

@@ -201,7 +201,7 @@ og:
 | **General Sub tools** | [Aegisub](https://github.com/arch1t3cht/Aegisub) :win::app::lin: |  
 | ^^               | [Subtitle Edit](https://www.nikse.dk/subtitleedit) :win: [:gh:](https://github.com/SubtitleEdit/subtitleedit) |  
 | **Adobe**         | [m0nkrus](https://vk.com/monkrus) :win::app: |  
-| ^^               | [RuTracker](https://rutracker.org/forum/index.php) :win::app: |  
+| ^^               | [RuTracker.org](https://rutracker.org/forum/index.php) :win::app: |  
 | ^^               | [GenP](https://lemmy.dbzer0.com/c/GenP) :win: |  
 | ^^               | [Download Pirate](https://www.downloadpirate.com/) :win: |  
 | ^^               | [a.dove.isdumb.one](https://github.com/ignaciocastro/a-dove-is-dumb) |  
@@ -295,7 +295,7 @@ og:
 
 
 ## Piracy Sites
-- [RuTracker.org](https://rutracker.org/) :s:
+- [RuTracker.org](https://rutracker.org/forum/index.php) :s:
 - [Soft98](https://soft98.ir/)
 - [Nsane Forums](https://nsaneforums.com/)
 - [LRepacks](https://lrepacks.net/)
