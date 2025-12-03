@@ -155,6 +155,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 ## Misc
 
 | Website | Type | Host |
+|-|-|-|
 | [RuTracker.org](https://rutracker.org/forum/index.php) | :mag: | - |
 | [Asia Media Blog](https://asiamediablog.com/media/music/) :ero: [:prx:](https://rentry.org/wotaxy#asia-media-blog) | :ddl: | :host: |
 | [The T-SQUARE Plaza](https://tsquareplaza.blogspot.com/) | :ddl: | :sgd: |
