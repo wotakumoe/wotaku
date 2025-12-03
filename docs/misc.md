@@ -39,7 +39,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 - [TVDB](https://www.thetvdb.com/)
 
 ## Manga
-- [MangaBaka](https://mangabaka.dev/) :s:
+- [MangaBaka](https://mangabaka.org/) :s:
 - [MangaUpdates](https://www.mangaupdates.com/) :s:
 - [Manba](https://manba.co.jp/) :s::fjp:
 - [Bookmeter](https://bookmeter.com/) :fjp:
