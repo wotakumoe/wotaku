@@ -31,7 +31,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 |-|-|-|
 | **三萬筒 (30kton)** | [Have you seen AO-chan?](https://www.pixiv.net/en/artworks/110412826) | [Default banner](/faq#general) |
 | **6y9brows** | [My life will one day be colorful](https://6y9brows.tumblr.com/post/668069737059713024/my-life-will-one-day-be-colorful) | Art link embed |
-| **A-1 Pictures** | [Kaguya sama](https://myanimelist.net/anime/37999/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen/episode/4) | Cubari link embed |
+| **A-1 Pictures** | [Kaguya-sama](https://myanimelist.net/anime/37999/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen/episode/4) | Cubari link embed |
 | **あまねこそら (Amane Sora)** | [おてんば兎の大宴会](https://donmai.moe/posts/6008236) | VTuber Link Embed |
 | **ATLUS** | [Futaba Sakura](https://megamitensei.fandom.com/wiki/Futaba_Sakura) | [Music banner](/music#utility-sites) |
 | **Bandai Namco** | [Boa Hancock](https://opbr-en.bn-ent.net/character/detail/0017.html) | [Anime Banner](/qs#anime) |
@@ -57,7 +57,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | ^^ | [Mio Akiyama](https://konachan.net/post/show/49838) | [Music banner](/music#phone) |
 | ^^ | [Tsumugi Kotobuki](https://konachan.com/post/show/169507) | [Audio glossary banner](/glossary/audio#basic-terms) |
 | **Lacie Walker** | [Eto Yoshimura](https://www.zerochan.net/1880948) | [4chan banner](/qs#_4chan) |
-| **megamiceto** | [Brazilian miku](https://x.com/megamiceto/status/1826372184731955667) | Non-English link embed |
+| **megamiceto** | [Brazilian Miku](https://x.com/megamiceto/status/1826372184731955667) | Non-English link embed |
 | **MeLonPanz** | [sharkkkkkk !!!](https://www.pixiv.net/en/artworks/86516526) | [Favicon](/) |
 | **Mogudan** | [Mogudan Illust Works](https://www.fakku.net/hentai/mogudan-illust-works-english) | [NSFW banners](/nsfw) |
 | **なかゥま (NAKAuMA)** | [Frieren](https://x.com/NAKA_u_MA/status/1976599561096568835) | Discord server icon |
