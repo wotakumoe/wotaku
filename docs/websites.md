@@ -368,7 +368,7 @@ To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/k
 | ^^              | [Madokami](https://manga.madokami.al) [:help:](/guides/manga/madokami) |
 | ^^              | [Anna’s Archive](https://annas-archive.org/) [:prx:](https://open-slum.pages.dev/) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" /> |
 | ^^              | [Library Genesis+](https://libgen.la/) [:prx:](https://open-slum.pages.dev/) |
-| ^^              | [Z-Library](https://z-lib.gd/) [:prx:](https://open-slum.pages.dev/) |
+| ^^              | [Z-Library](https://z-library.sk/) [:prx:](https://open-slum.pages.dev/) |
 
 ## Audiobooks
 

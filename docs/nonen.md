@@ -497,7 +497,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 ### Anime
 - [AniBunker](https://www.anibunker.com/)
 - [AnimeFire](https://animefire.plus/)
-- [AnimesROLL](https://www.anroll.net/)
 - [Better Anime](https://betteranime.net/)
 - [CXTv](https://www.cxtv.com.br/) `TV`
 - [Geekdot](https://geekdot.live/) `TV`
@@ -588,7 +587,7 @@ ___
 ### More Sites
 - [HentaiLIB](https://hentailib.me/) :ero:
 - [RanobeLIB](https://ranobelib.me/)
-- [VseDoramy](https://vsedoramy.top/)
+- [VseDoramy](https://vsedoramy.ru/)
 
 
 ### Software
