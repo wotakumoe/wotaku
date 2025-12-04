@@ -244,8 +244,6 @@ For publisher platforms, some of the series are website-exclusive, while others 
 | ^^           | [WEBTOON China](https://www.webtoons.com/zh-hant/) :fcn:          | General             | Long-Strip  | App Focused  | Point       |
 | ^^           | [Naver Series](https://series.naver.com/) :fkr:                   | General              | Both       | Web + App   | Point |
 | NHN		   | [Comico](https://www.comico.jp/) :fjp:								| General				| Long-Strip | Web + App | Point |
-| ^^		   | [Comico Korea](https://www.comico.kr/) :fkr:								| General				| Long-Strip | Web + App | Point |
-| ^^		   | [Pocket Comics](https://www.pocketcomics.com/)								| General				| Long-Strip | Web + App | Point |
 | Kakao        | [KakaoPage](https://page.kakao.com/) :fkr:                       | General              | Long-Strip  | Web + App    | Point       |
 | ^^           | [KAKAO WEBTOON](https://webtoon.kakao.com/) :fkr:                | General              | Long-Strip  | Web + App    | Point       |
 | ^^           | [Tapas](https://tapas.io/)                                       | General              | Long-Strip  | Web + App    | Point       |

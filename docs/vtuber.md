@@ -274,12 +274,12 @@ og:
 | [Super Holo Wars](https://tshadowknight.itch.io/super-holo-wars) | Free | Hololive | TShadowKnight | TShadowKnight |
 
 ### Tower Defense
-  
+
 | Game                                                   | Price  | MC             | Dev             | Publisher |
 |--------------------------------------------------------|--------|---------------|----------------|-----|
 | [HOLOSAGA](http://store.steampowered.com/app/2899450/) | Free   | Hololive     | Team SEONGWON  | holo Indie |
 | [HoloParade](https://store.steampowered.com/app/2647230/) | $2.99  | Hololive     | RoboqloLab     | holo Indie |
-| [Holo vs Robo](https://x.com/pompmaker1) | - | Hololive | Pompmaker1 | Pompmaker1 |
+| [Holo vs Robo](https://store.steampowered.com/app/4053520/) | - | Hololive | Pompmaker1 | Pompmaker1 |
 | [Miko Sniper](https://store.steampowered.com/app/2971440/) | $2.49  | Sakura Miko   | さめ Games     | holo Indie |
 
 ### Visual Novel

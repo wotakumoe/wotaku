@@ -543,7 +543,6 @@ Some of the series may not be available depending on your region.
 | ^^ | [Yuri Hub](https://www.yurihub.com/) |  
 | **Manhwa & Manhua** | [Lezhin](https://www.lezhinus.com/en) |  
 | ^^ | [Manta](https://manta.net/en) |  
-| ^^ | [Pocket Comics](https://www.pocketcomics.com/) |  
 | ^^ | [Tapas](https://tapas.io/) |  
 | ^^ | [Tappytoon](https://www.tappytoon.com/en/comics/home) |  
 | ^^ | [WebComics](https://webcomicsapp.com/) |  
