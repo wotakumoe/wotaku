@@ -200,18 +200,18 @@ You should never use cracked or modded VPN cause all of your traffic will go thr
 :::
 
 ### Boards
-- [/a/ - Anime & Manga](https://boards.4channel.org/a/)
-- [/c/ - Anime/Cute](https://boards.4channel.org/c/)
-- [/cgl/ - Cosplay & EGL](https://boards.4channel.org/cgl/)
-- [/co/ - Comics & Cartoons](https://boards.4channel.org/co/)
-- [/e/ - Ecchi](https://boards.4channel.org/e/)
-- [/h/ - Hentai](https://boards.4channel.org/h/)
-- [/jp/ - Otaku Culture](https://boards.4channel.org/jp/)
-- [/m/ - Mecha](https://boards.4channel.org/m/)
-- [/u/ - Yuri](https://boards.4channel.org/u/)
-- [/vp/ - Pokémon](https://boards.4channel.org/vp/)
-- [/vt/ - Virtual YouTubers](https://boards.4channel.org/vt/)
-- [/w/ - Anime/Wallpapers](https://boards.4channel.org/w/)
+- [:f: /a/ - Anime & Manga](https://boards.4chan.org/a/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/a/" />
+- [:f: /c/ - Anime/Cute](https://boards.4chan.org/c/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/c/" />
+- [:f: /cgl/ - Cosplay & EGL](https://boards.4chan.org/cgl/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/cgl/" />
+- [:f: /co/ - Comics & Cartoons](https://boards.4chan.org/co/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/co/" />
+- [:f: /e/ - Ecchi](https://boards.4chan.org/e/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/e/" />
+- [:f: /h/ - Hentai](https://boards.4chan.org/h/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/h/" />
+- [:f: /jp/ - Otaku Culture](https://boards.4chan.org/jp/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/jp/" />
+- [:f: /m/ - Mecha](https://boards.4chan.org/m/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/m/" />
+- [:f: /u/ - Yuri](https://boards.4chan.org/u/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/u/" />
+- [:f: /vp/ - Pokémon](https://boards.4chan.org/vp/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/vp/" />
+- [:f: /vt/ - Virtual YouTubers](https://boards.4chan.org/vt/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/vt/" />
+- [:f: /w/ - Anime/Wallpapers](https://boards.4chan.org/w/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/w/" />
 
 ### Archives
 - [4chan archive search](https://4search.neocities.org/)

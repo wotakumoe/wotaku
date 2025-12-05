@@ -27,7 +27,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [Anime UK News](https://discord.gg/014sRKGzuUPGPpYRa)
 - [Aniyomi](https://discord.gg/F32UjdJZrR)
 - [Batoto](https://discord.gg/batoto)
-- [Boredom Society Scanlations](https://discord.gg/NNS8cRR)
+- [Boredom Society](https://discord.gg/NNS8cRR)
 - [Circle](https://discord.gg/85KtgSjkJJ)
 - [Crunchyroll](https://discord.gg/crunchyroll)
 - [Danke fürs Lesen](https://discord.gg/nxkDPvDhgv)
@@ -46,7 +46,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [LHTranslation](https://discord.gg/wxVRX4j)
 - [r/Manga](https://discord.gg/manga)
 - [Manga Groups Portal](https://discord.gg/9KGMzP2)
-- [Manga Katana](https://discord.gg/bXfTCCtdXQ)
+- [MangaKatana](https://discord.gg/bXfTCCtdXQ)
 - [MangaPark](https://discord.gg/HXKXBTSGKS)
 - [Manga Piracy](https://discord.gg/ZgMtAyxFSU)
 - [Mihon](https://discord.gg/mihon)
@@ -87,15 +87,15 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 
 ## Boards
 
-- [:f: /a/ - Anime & Manga](https://boards.4channel.org/a/)
-- [:f: /c/ - Anime/Cute](https://boards.4channel.org/c/)
-- [:f: /cgl/ - Cosplay & EGL](https://boards.4channel.org/cgl/)
-- [:f: /co/ - Comics & Cartoons](https://boards.4channel.org/co/)
-- [:f: /e/ - Ecchi](https://boards.4channel.org/e/)
-- [:f: /h/ - Hentai](https://boards.4channel.org/h/)
-- [:f: /jp/ - Otaku Culture](https://boards.4channel.org/jp/)
-- [:f: /m/ - Mecha](https://boards.4channel.org/m/)
-- [:f: /u/ - Yuri](https://boards.4chan.org/u/)
-- [:f: /vp/ - Pokémon](https://boards.4channel.org/vp/)
-- [:f: /vt/ - Virtual YouTubers](https://boards.4channel.org/vt/)
-- [:f: /w/ - Anime/Wallpapers](https://boards.4channel.org/w/)
+- [:f: /a/ - Anime & Manga](https://boards.4chan.org/a/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/a/" />
+- [:f: /c/ - Anime/Cute](https://boards.4chan.org/c/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/c/" />
+- [:f: /cgl/ - Cosplay & EGL](https://boards.4chan.org/cgl/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/cgl/" />
+- [:f: /co/ - Comics & Cartoons](https://boards.4chan.org/co/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/co/" />
+- [:f: /e/ - Ecchi](https://boards.4chan.org/e/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/e/" />
+- [:f: /h/ - Hentai](https://boards.4chan.org/h/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/h/" />
+- [:f: /jp/ - Otaku Culture](https://boards.4chan.org/jp/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/jp/" />
+- [:f: /m/ - Mecha](https://boards.4chan.org/m/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/m/" />
+- [:f: /u/ - Yuri](https://boards.4chan.org/u/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/u/" />
+- [:f: /vp/ - Pokémon](https://boards.4chan.org/vp/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/vp/" />
+- [:f: /vt/ - Virtual YouTubers](https://boards.4chan.org/vt/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/vt/" />
+- [:f: /w/ - Anime/Wallpapers](https://boards.4chan.org/w/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/w/" />

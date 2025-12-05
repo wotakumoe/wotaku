@@ -279,7 +279,7 @@ og:
 |--------------------------------------------------------|--------|---------------|----------------|-----|
 | [HOLOSAGA](http://store.steampowered.com/app/2899450/) | Free   | Hololive     | Team SEONGWON  | holo Indie |
 | [HoloParade](https://store.steampowered.com/app/2647230/) | Paid  | Hololive     | RoboqloLab     | holo Indie |
-| [Holo vs Robo](https://store.steampowered.com/app/4053520/) | - | Hololive | Pompmaker1 | Pompmaker1 |
+| [Holo vs Robo](https://store.steampowered.com/app/4053520/) | - | Hololive | Pompmaker1 | holo Indie |
 | [Miko Sniper](https://store.steampowered.com/app/2971440/) | Paid  | Sakura Miko   | さめ Games     | holo Indie |
 
 ### Visual Novel
