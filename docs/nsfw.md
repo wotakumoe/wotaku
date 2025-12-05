@@ -255,7 +255,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 
 ## Communities
 
-### Reddit
+### Subreddits
 - [r/hentai](https://old.reddit.com/r/hentai/)
 - [r/Artistic_Hentai](https://old.reddit.com/r/Artistic_Hentai/)
 - [r/doujinshi](https://old.reddit.com/r/doujinshi/)
@@ -267,15 +267,15 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [r/thighdeology](https://old.reddit.com/r/thighdeology/)
 - [r/wholesomehentai](https://old.reddit.com/r/wholesomehentai/) [:d:](https://discord.com/invite/aqttTca)
 
-### Discord
+### Discord servers
 - [:d: Hanako's Hideout](https://discord.gg/jVvSbYB)
 - [:d: Rule34.xxx](https://discord.gg/rule34xxx)
 - [:d: Tsumino](https://discord.gg/v6RfNfA7WW)
 
-### 4chan
-- [:f: /h/](https://boards.4chan.org/h/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/h/" /> <Badge type="tip" text="Archive" link="https://archiveofsins.com/h/" />
-- [:f: /e/](https://boards.4chan.org/e/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/e/" /> <Badge type="tip" text="Archive" link="https://archive.palanq.win/e/" />
-- [:f: /u/](https://boards.4chan.org/u/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/u/" /> <Badge type="tip" text="Archive" link="https://archiveofsins.com/u/" />
+### Boards
+- [:f: /e/ - Ecchi](https://boards.4chan.org/e/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/e/" /> <Badge type="tip" text="Archive" link="https://archive.palanq.win/e/" />
+- [:f: /h/ - Hentai](https://boards.4chan.org/h/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/h/" /> <Badge type="tip" text="Archive" link="https://archiveofsins.com/h/" />
+- [:f: /u/ - Yuri](https://boards.4chan.org/u/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/u/" /> <Badge type="tip" text="Archive" link="https://archiveofsins.com/u/" />
 - [:f:JAV Threads](https://warosu.org/jp/?task=search&ghost=false&search_text=jav+thread) <Badge type="tip" text="FAQ" link="https://jav.now.sh/" />
 
 ## Scripts
