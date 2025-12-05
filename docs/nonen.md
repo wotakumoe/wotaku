@@ -158,6 +158,7 @@ og:
 | ^^       | [Venra](https://github.com/venera-app/venera) |
 | **Novels** | [Hikari Novel](https://github.com/15dd/wenku8reader) |
 | ^^        | [Legado](https://github.com/gedoor/legado) |
+| ^^        | [Legado MD3](https://github.com/HapeLee/legado-with-MD3) |
 | ^^        | [LightNovelReader](https://github.com/dmzz-yyhyy/LightNovelReader) |
 | **Tracker** | [Bangumi](https://github.com/czy0729/Bangumi) |
 | ^^         | [Bangumi for Android](https://github.com/xiaoyvyv/bangumi) |
