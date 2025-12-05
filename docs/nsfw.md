@@ -255,21 +255,28 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 
 ## Communities
 
-- [r/hentai](https://old.reddit.com/r/hentai/) [:d:](https://discord.gg/rhentai)
-- [r/pornhwa](https://old.reddit.com/r/pornhwa/) [:d:](https://discord.gg/epjkRVp7gD)
-- [:f: /h/](https://boards.4chan.org/h/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/h/" /> <Badge type="tip" text="Archive" link="https://archiveofsins.com/h/" />
-- [:f: /e/](https://boards.4chan.org/e/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/e/" /> <Badge type="tip" text="Archive" link="https://archive.palanq.win/e/" />
-- [:f: /u/](https://boards.4chan.org/u/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/u/" /> <Badge type="tip" text="Archive" link="https://archiveofsins.com/u/" />
+### Reddit
+- [r/hentai](https://old.reddit.com/r/hentai/)
 - [r/Artistic_Hentai](https://old.reddit.com/r/Artistic_Hentai/)
 - [r/doujinshi](https://old.reddit.com/r/doujinshi/)
 - [r/ecchi](https://old.reddit.com/r/ecchi/)
 - [r/hentaimemes](https://old.reddit.com/r/hentaimemes/)
 - [r/HENTAI_GIF](https://old.reddit.com/r/HENTAI_GIF/)
+- [r/pornhwa](https://old.reddit.com/r/pornhwa/) [:d:](https://discord.gg/epjkRVp7gD)v
 - [r/rule34](https://old.reddit.com/r/rule34/) [:d:](https://discord.gg/zMrMhpZ)
 - [r/thighdeology](https://old.reddit.com/r/thighdeology/)
 - [r/wholesomehentai](https://old.reddit.com/r/wholesomehentai/) [:d:](https://discord.com/invite/aqttTca)
-- [:f:JAV Thread](https://warosu.org/jp/?task=search&ghost=false&search_text=jav+thread) <Badge type="tip" text="FAQ" link="https://jav.now.sh/" />
+
+### Discord
+- [:d: Hanako's Hideout](https://discord.gg/jVvSbYB)
 - [:d: Rule34.xxx](https://discord.gg/rule34xxx)
+- [:d: Tsumino](https://discord.gg/v6RfNfA7WW)
+
+### 4chan
+- [:f: /h/](https://boards.4chan.org/h/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/h/" /> <Badge type="tip" text="Archive" link="https://archiveofsins.com/h/" />
+- [:f: /e/](https://boards.4chan.org/e/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/e/" /> <Badge type="tip" text="Archive" link="https://archive.palanq.win/e/" />
+- [:f: /u/](https://boards.4chan.org/u/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/u/" /> <Badge type="tip" text="Archive" link="https://archiveofsins.com/u/" />
+- [:f:JAV Threads](https://warosu.org/jp/?task=search&ghost=false&search_text=jav+thread) <Badge type="tip" text="FAQ" link="https://jav.now.sh/" />
 
 ## Scripts
 
