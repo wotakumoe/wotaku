@@ -498,7 +498,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 ### Anime
 - [AniBunker](https://www.anibunker.com/)
 - [AnimeFire](https://animefire.plus/)
-- [Better Anime](https://betteranime.net/)
 - [CXTv](https://www.cxtv.com.br/) `TV`
 - [Geekdot](https://geekdot.live/) `TV`
 - [Goyabu](https://goyabu.to/home-2)
