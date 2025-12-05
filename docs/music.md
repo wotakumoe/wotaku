@@ -577,9 +577,8 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^ | [substreamer](https://substreamerapp.com/) |
 | ^^ | [Amperfy](https://github.com/BLeeEZ/amperfy#readme) |
 | ^^ | [iSub](https://isub.app) |
-| **Desktop** | [Sonixd](https://github.com/jeffvli/sonixd) :win::app::lin: |
+| **Desktop** | [Supersonic](https://github.com/dweymouth/supersonic) :win::app::lin: |
 | ^^ | [Sublime Music](https://sublimemusic.app/) :lin: |
-| ^^ | [Supersonic](https://github.com/dweymouth/supersonic) :win::app::lin: |
 | ^^ | [Submariner](https://submarinerapp.com/) :app: |
 | ^^ | [Plexamp](https://www.plex.tv/plexamp/) :win::app::lin::fm: |
 | ^^ | [Jellycli](https://github.com/tryffel/jellycli#readme) :win::lin::cmd: |
