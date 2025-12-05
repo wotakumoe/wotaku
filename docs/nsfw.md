@@ -262,7 +262,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [r/ecchi](https://old.reddit.com/r/ecchi/)
 - [r/hentaimemes](https://old.reddit.com/r/hentaimemes/)
 - [r/HENTAI_GIF](https://old.reddit.com/r/HENTAI_GIF/)
-- [r/pornhwa](https://old.reddit.com/r/pornhwa/) [:d:](https://discord.gg/epjkRVp7gD)v
+- [r/pornhwa](https://old.reddit.com/r/pornhwa/) [:d:](https://discord.gg/epjkRVp7gD)
 - [r/rule34](https://old.reddit.com/r/rule34/) [:d:](https://discord.gg/zMrMhpZ)
 - [r/thighdeology](https://old.reddit.com/r/thighdeology/)
 - [r/wholesomehentai](https://old.reddit.com/r/wholesomehentai/) [:d:](https://discord.com/invite/aqttTca)
