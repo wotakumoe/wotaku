@@ -17,7 +17,7 @@ og:
 - [Sudatchi](https://sudatchi.com/)
 
 ### Manga
-- [Batoto](https://battwo.com/v3x)
+- [Batoto](https://bato.to/v3x)
 - [MangaDex](https://mangadex.org/) [:rss:](https://mdrss.tijlvdb.me/)
 - [Nine Manga](https://www.ninemanga.com/)
 - [Novel Cool](https://novelcool.com/)
@@ -198,7 +198,6 @@ og:
 
 - [AnimeKO](https://animeko.ws/)
 - [Anime-Kami](https://anime-kami.com/)
-- [Anime-Sama](https://anime-sama.org/)
 - [AnimesUltra](https://animesultra.org/)
 - [FanKai](http://fankai.fr/) [:alt:](https://linktr.ee/FanKai)
 - [FRAnime](https://franime.fr/)
@@ -681,7 +680,6 @@ ___
 
 ### Manga
 - [Manga-TR](https://manga-tr.com/index.html)
-- [Sadscans](https://sadscans.com/)
 - [Tortuga Ceviri](https://tortuga-ceviri.com/)
 
 ### Others

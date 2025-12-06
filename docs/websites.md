@@ -202,7 +202,7 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 
 | Websites | Login | Social |
 |----------|-------|-------|
-| [Batoto](https://battwo.com/v3x) [:prx:](https://batotomirrors.pages.dev/) ==Batoto== | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
+| [Batoto](https://bato.to/v3x) [:prx:](https://batotomirrors.pages.dev/) ==Batoto== | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
 | [MangaPark](https://mangapark.net/) [:prx:](https://mangaparkmirrors.pages.dev/) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
 | [Kagane](https://kagane.org/) ==Kagane== | :mingcute-refresh-2-fill: | :no: |
 | [Comix](https://comix.to/home) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
