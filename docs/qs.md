@@ -200,18 +200,18 @@ You should never use cracked or modded VPN cause all of your traffic will go thr
 :::
 
 ### Boards
-- [:f: /a/ - Anime & Manga](https://boards.4chan.org/a/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/a/" />
-- [:f: /c/ - Anime/Cute](https://boards.4chan.org/c/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/c/" />
-- [:f: /cgl/ - Cosplay & EGL](https://boards.4chan.org/cgl/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/cgl/" />
-- [:f: /co/ - Comics & Cartoons](https://boards.4chan.org/co/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/co/" />
-- [:f: /e/ - Ecchi](https://boards.4chan.org/e/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/e/" />
-- [:f: /h/ - Hentai](https://boards.4chan.org/h/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/h/" />
-- [:f: /jp/ - Otaku Culture](https://boards.4chan.org/jp/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/jp/" />
-- [:f: /m/ - Mecha](https://boards.4chan.org/m/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/m/" />
-- [:f: /u/ - Yuri](https://boards.4chan.org/u/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/u/" />
-- [:f: /vp/ - Pokémon](https://boards.4chan.org/vp/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/vp/" />
-- [:f: /vt/ - Virtual YouTubers](https://boards.4chan.org/vt/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/vt/" />
-- [:f: /w/ - Anime/Wallpapers](https://boards.4chan.org/w/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/w/" />
+- [:f: /a/ - Anime & Manga](https://boards.4chan.org/a/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/a/" /> <Badge type="tip" text="Archive" link="https://desuarchive.org/a/" />
+- [:f: /c/ - Anime/Cute](https://boards.4chan.org/c/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/c/" /> <Badge type="tip" text="Archive" link="https://desuarchive.org/c/" />
+- [:f: /cgl/ - Cosplay & EGL](https://boards.4chan.org/cgl/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/cgl/" /> <Badge type="tip" text="Archive" link="https://desuarchive.org/cgl/" />
+- [:f: /co/ - Comics & Cartoons](https://boards.4chan.org/co/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/co/" /> <Badge type="tip" text="Archive" link="https://desuarchive.org/co/" />
+- [:f: /e/ - Ecchi](https://boards.4chan.org/e/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/e/" /> <Badge type="tip" text="Archive" link="https://archive.palanq.win/e/" />
+- [:f: /h/ - Hentai](https://boards.4chan.org/h/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/h/" /> <Badge type="tip" text="Archive" link="https://archiveofsins.com/h/" />
+- [:f: /jp/ - Otaku Culture](https://boards.4chan.org/jp/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/jp/" /> <Badge type="tip" text="Archive" link="https://warosu.org/jp/" />
+- [:f: /m/ - Mecha](https://boards.4chan.org/m/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/m/" /> <Badge type="tip" text="Archive" link="https://desuarchive.org/m/" />
+- [:f: /u/ - Yuri](https://boards.4chan.org/u/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/u/" /> <Badge type="tip" text="Archive" link="https://archiveofsins.com/u/" />
+- [:f: /vp/ - Pokémon](https://boards.4chan.org/vp/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/vp/" /> <Badge type="tip" text="Archive" link="https://archive.palanq.win/vp/" />
+- [:f: /vt/ - Virtual YouTubers](https://boards.4chan.org/vt/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/vt/" /> <Badge type="tip" text="Archive" link="https://warosu.org/vt/" />
+- [:f: /w/ - Anime/Wallpapers](https://boards.4chan.org/w/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/w/" /> <Badge type="tip" text="Archive" link="https://archive.palanq.win/w/" />
 
 ### Archives
 - [4chan archive search](https://4search.neocities.org/)
