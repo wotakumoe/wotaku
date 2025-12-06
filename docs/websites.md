@@ -505,6 +505,7 @@ To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/k
 - [BEYBLADE English](https://www.youtube.com/@BeybladeOfficial) <Badge type="tip" text="Old" link="https://www.youtube.com/@beyblade-official" />
 - [CARDFIGHT Vanguard](https://www.youtube.com/@CARDFIGHTVanguard)
 - [Code Lyoko US](https://www.youtube.com/@CODELYOKOENGLISHOFFICIAL) <Badge type="tip" text="FR" link="https://www.youtube.com/@codelyokoofficiel7410" />
+- [CONtv](https://www.youtube.com/@CONtv)
 - [It's Anime](https://www.youtube.com/@ItsAnimeJP)
 - [Muse Asia](https://www.youtube.com/@MuseAsia)
 - [Official Yu-Gi-Oh!](https://www.youtube.com/@yugioh)
