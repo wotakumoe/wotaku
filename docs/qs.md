@@ -209,7 +209,8 @@ You should never use cracked or modded VPN cause all of your traffic will go thr
 - [:f: /jp/ - Otaku Culture](https://boards.4chan.org/jp/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/jp/" /> <Badge type="tip" text="Archive" link="https://warosu.org/jp/" />
 - [:f: /m/ - Mecha](https://boards.4chan.org/m/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/m/" /> <Badge type="tip" text="Archive" link="https://desuarchive.org/m/" />
 - [:f: /u/ - Yuri](https://boards.4chan.org/u/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/u/" /> <Badge type="tip" text="Archive" link="https://archiveofsins.com/u/" />
-- [:f: /vp/ - Pokémon](https://boards.4chan.org/vp/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/vp/" /> <Badge type="tip" text="Archive" link="https://archive.palanq.win/vp/" />
+- [:f: /vg/ - Video Game Generals](https://boards.4chan.org/vg/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/vg/" /> <Badge type="tip" text="Archive" link="https://arch.b4k.dev/vg/" />
+- [:f: /vp/ - Pokémon](https://boards.4chan.org/vp/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/vp/" /> <Badge type="tip" text="Archive" link="https://arch.b4k.dev/vp/" />
 - [:f: /vt/ - Virtual YouTubers](https://boards.4chan.org/vt/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/vt/" /> <Badge type="tip" text="Archive" link="https://warosu.org/vt/" />
 - [:f: /w/ - Anime/Wallpapers](https://boards.4chan.org/w/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/w/" /> <Badge type="tip" text="Archive" link="https://archive.palanq.win/w/" />
 
