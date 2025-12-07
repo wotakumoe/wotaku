@@ -198,6 +198,7 @@ og:
 
 - [AnimeKO](https://animeko.ws/)
 - [Anime-Kami](https://anime-kami.com/)
+- [Anime-Sama](https://anime-sama.fun/)
 - [AnimesUltra](https://animesultra.org/)
 - [FanKai](http://fankai.fr/) [:alt:](https://linktr.ee/FanKai)
 - [FRAnime](https://franime.fr/)
@@ -680,6 +681,7 @@ ___
 
 ### Manga
 - [Manga-TR](https://manga-tr.com/index.html)
+- [Sadscans](https://sadscans.net/)
 - [Tortuga Ceviri](https://tortuga-ceviri.com/)
 
 ### Others
