@@ -24,11 +24,7 @@ withDefaults(
 </script>
 
 <template>
-  <VTooltip
-    theme="vp-tooltip"
-    @show="isOpen = true"
-    @hide="isOpen = false"
-  >
+  <VTooltip theme="vp-tooltip" @show="isOpen = true" @hide="isOpen = false">
     <button
       aria-label="Tooltip"
       :class="[
@@ -45,9 +41,9 @@ withDefaults(
           class="text-$vp-c-text-1 mb-2 text-lg font-semibold"
           v-text="title"
         />
-        <p class="text-$vp-c-text-2 text-sm content">
+        <div class="text-$vp-c-text-2 text-sm content">
           <slot />
-        </p>
+        </div>
       </div>
     </template>
   </VTooltip>
@@ -70,6 +66,27 @@ withDefaults(
   --uno: ml-4;
   color: var(--vp-c-text-2);
   list-style: disc !important;
+}
+
+.v-popper__popper .content table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: var(--vp-c-bg-soft);
+  color: var(--vp-c-text-1);
+  --uno: text-sm;
+}
+
+.v-popper__popper .content thead th {
+  background-color: var(--vp-c-bg-soft);
+  color: var(--vp-c-text-1);
+  font-weight: 600;
+  padding: 6px 8px;
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+
+.v-popper__popper .content tbody td {
+  padding: 6px 8px;
+  border-bottom: 1px solid var(--vp-c-divider);
 }
 
 .tooltip-open-glow {
