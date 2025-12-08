@@ -32,7 +32,7 @@ withDefaults(
     <button
       aria-label="Tooltip"
       :class="[
-        'text-$vp-custom-block-tip-text-deep h-9 e-9 p-0 select-none font-bold cursor-pointer',
+        'text-$vp-custom-block-tip-text-deep size-3 p-0 select-none font-bold cursor-pointer',
         isOpen && 'tooltip-open-glow'
       ]"
     >
