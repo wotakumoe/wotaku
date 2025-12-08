@@ -15,6 +15,7 @@ og:
 | ^^         | [Amatsukaze](https://amatsukaze.rl404.com/) [:gh:](https://github.com/rl404/amatsukaze) |
 | Archive    | [Ragtag Archive](https://archive.ragtag.moe/) [:gh:](https://github.com/ragtag-archive) |
 | ^^         | [Patchwork Archive](https://patchwork.moekyun.me/) [:gh:](https://github.com/Patchwork-Archive/) |
+| ^^         | [Rebel's ASMR Archive](https://asmr.ahegao.dev/) |
 | ^^         | [Sakura ASMR Archive](https://stash.frostedsakura.my.id/) |
 | Database   | [Virtual YouTuber Wiki](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki) |
 | ^^         | [Good VTuber Subs](https://goodvtubersubs.com/) |
