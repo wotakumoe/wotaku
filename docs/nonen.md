@@ -17,7 +17,6 @@ og:
 - [Sudatchi](https://sudatchi.com/)
 
 ### Manga
-- [Batoto](https://bato.to/v3x)
 - [MangaDex](https://mangadex.org/) [:rss:](https://mdrss.tijlvdb.me/)
 - [Nine Manga](https://www.ninemanga.com/)
 - [Novel Cool](https://novelcool.com/)

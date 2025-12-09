@@ -39,6 +39,8 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 ### H-O
 - [HiAnime](https://discord.gg/hianime)
 - [Japanese Language Study Space](https://discord.gg/jlss)
+- [Kagane](https://discord.gg/kBPYVSzwUE)
+- [Kai Corner](https://discord.gg/kZgWWHUj22)
 - [Kirei](https://discord.gg/55y8apc)
 - [Knox](https://discord.gg/HcDZFB9Gub)
 - [Laughing in Quarantine](https://discord.gg/x6AuGp7)
@@ -46,7 +48,6 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [r/Manga](https://discord.gg/manga)
 - [Manga Groups Portal](https://discord.gg/9KGMzP2)
 - [MangaKatana](https://discord.gg/bXfTCCtdXQ)
-- [MangaPark](https://discord.gg/HXKXBTSGKS)
 - [Manga Piracy](https://discord.gg/ZgMtAyxFSU)
 - [Mihon](https://discord.gg/mihon)
 - [MikuDB](https://discord.gg/w9Dq25n)
@@ -88,12 +89,12 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [:f: /c/ - Anime/Cute](https://boards.4chan.org/c/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/c/" /> <Badge type="tip" text="Archive" link="https://desuarchive.org/c/" />
 - [:f: /cgl/ - Cosplay & EGL](https://boards.4chan.org/cgl/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/cgl/" /> <Badge type="tip" text="Archive" link="https://desuarchive.org/cgl/" />
 - [:f: /co/ - Comics & Cartoons](https://boards.4chan.org/co/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/co/" /> <Badge type="tip" text="Archive" link="https://desuarchive.org/co/" />
-- [:f: /e/ - Ecchi](https://boards.4chan.org/e/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/e/" /> <Badge type="tip" text="Archive" link="https://archive.palanq.win/e/" />
-- [:f: /h/ - Hentai](https://boards.4chan.org/h/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/h/" /> <Badge type="tip" text="Archive" link="https://archiveofsins.com/h/" />
 - [:f: /jp/ - Otaku Culture](https://boards.4chan.org/jp/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/jp/" /> <Badge type="tip" text="Archive" link="https://warosu.org/jp/" />
 - [:f: /m/ - Mecha](https://boards.4chan.org/m/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/m/" /> <Badge type="tip" text="Archive" link="https://desuarchive.org/m/" />
-- [:f: /u/ - Yuri](https://boards.4chan.org/u/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/u/" /> <Badge type="tip" text="Archive" link="https://archiveofsins.com/u/" />
 - [:f: /vg/ - Video Game Generals](https://boards.4chan.org/vg/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/vg/" /> <Badge type="tip" text="Archive" link="https://arch.b4k.dev/vg/" />
 - [:f: /vp/ - Pokémon](https://boards.4chan.org/vp/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/vp/" /> <Badge type="tip" text="Archive" link="https://arch.b4k.dev/vp/" />
 - [:f: /vt/ - Virtual YouTubers](https://boards.4chan.org/vt/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/vt/" /> <Badge type="tip" text="Archive" link="https://warosu.org/vt/" />
 - [:f: /w/ - Anime/Wallpapers](https://boards.4chan.org/w/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/w/" /> <Badge type="tip" text="Archive" link="https://archive.palanq.win/w/" />
+
+::: You can find a list of NSFW communities [**here**](/nsfw#communities).
+:::
