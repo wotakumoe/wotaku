@@ -88,7 +88,7 @@ We have listed the most trusted rippers in the [**Nyaa section**](/websites#nyaa
 :::
 
 :::details What's the best website to read manga?
-Personal preference. Good online manga reading sites generally reupload nyaa releases (when it's available replacing/alongside the fantranslated one), but with added compression (e.g. [**Weeb Central**](https://weebcentral.com/), [**Kagane**](https://kagane.org/), [**Batoto**](https://bato.to/v3x), [**Mangapark**](https://mangapark.net/)) & watermark on (almost) every page (mangafire :slightly-smiling-face: ). On the other hand, generic ones only keep the fan-translated ones. You can read a short description about the sites [**here**](/websites#manga).
+Personal preference. Good online manga reading sites generally reupload nyaa releases (when it's available replacing/alongside the fantranslated one), but with added compression (e.g. [**Weeb Central**](https://weebcentral.com/), [**Kagane**](https://kagane.org/), [**Comix**](https://comix.to/home), [**Mangapark**](https://mangapark.net/)) & watermark on (almost) every page (mangafire :slightly-smiling-face: ). On the other hand, generic ones only keep the fan-translated ones. You can read a short description about the sites [**here**](/websites#manga).
 :::
 
 :::details When will the new volume of "X" get ripped?
