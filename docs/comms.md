@@ -96,5 +96,6 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [:f: /vt/ - Virtual YouTubers](https://boards.4chan.org/vt/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/vt/" /> <Badge type="tip" text="Archive" link="https://warosu.org/vt/" />
 - [:f: /w/ - Anime/Wallpapers](https://boards.4chan.org/w/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/w/" /> <Badge type="tip" text="Archive" link="https://archive.palanq.win/w/" />
 
-::: danger You can find a list of NSFW communities [**here**](/nsfw#communities).
+::: danger NSFW Section
+You can find a list of NSFW communities [**here**](/nsfw#communities).
 :::
