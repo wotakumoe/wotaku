@@ -43,7 +43,6 @@ og:
 ### Manga
 - [3asQ](https://3asq.org/)
 - [Azora Moon](https://azoramoon.com/)
-- [SWAT Manga](https://meshmanga.com/)
 
 ### NSFW
 - [Arabs Hentai](https://arabshentai.com/)
@@ -198,7 +197,7 @@ og:
 
 - [AnimeKO](https://animeko.ws/)
 - [Anime-Kami](https://anime-kami.com/)
-- [Anime-Sama](https://anime-sama.fun/)
+- [Anime-Sama](https://anime-sama.eu/)
 - [AnimesUltra](https://animesultra.org/)
 - [FanKai](http://fankai.fr/) [:alt:](https://linktr.ee/FanKai)
 - [FRAnime](https://franime.fr/)
