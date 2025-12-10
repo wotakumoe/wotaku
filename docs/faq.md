@@ -108,7 +108,7 @@ There are a few options. [**CDisplayEx**](https://www.cdisplayex.com/), [**YACRe
 :::
 
 :::details What's the best extension for mihon / tachiyomi?
-Like with websites, it's also personal preference. But to us, it's [**Madokami**](/guides/manga/madokami) (in terms of quality). There are also MangaDex, Batoto & others.
+Like with websites, it's also personal preference. But to us, it's [**Madokami**](/guides/manga/madokami) (in terms of quality). There are also MangaDex, Comix & others.
 :::
 
 :::details Why are the manga pages filled with squares / artifacts?

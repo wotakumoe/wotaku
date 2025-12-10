@@ -25,7 +25,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [r/Anime](https://discord.gg/r-anime)
 - [Anime UK News](https://discord.gg/014sRKGzuUPGPpYRa)
 - [Aniyomi](https://discord.gg/F32UjdJZrR)
-- [Batoto](https://discord.gg/batoto)
+- [Atsumaru](https://discord.gg/Tj4QmEF4uV)
 - [Boredom Society](https://discord.gg/NNS8cRR)
 - [Circle](https://discord.gg/85KtgSjkJJ)
 - [Crunchyroll](https://discord.gg/crunchyroll)
