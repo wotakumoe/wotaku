@@ -79,7 +79,6 @@ og:
 ## Subtitles
 - [Kitsunekko](https://kitsunekko.net/)
   - [Jimaku](https://jimaku.cc/) :s:
-  - [TheMoeWay](https://learnjapanese.moe/kitsubackup.html#/ja)
   - [Ajatt-Tools](https://github.com/Ajatt-Tools/kitsunekko-mirror)
 - [JPTV.club subtitle archive](https://rentry.org/wotadirect#japanimmersion)
 - [itazuraneko](https://djtguide.github.io/library/sub)

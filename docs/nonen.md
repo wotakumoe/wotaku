@@ -238,7 +238,7 @@ og:
 - [FireAnime](https://fireani.me/) :strm:
 - [Melon-Subs](https://melon-subs.de/) :ddl:
 - [NanaOne](https://nanaone.net/) :ddl:
-- [OtakuKingdom Subs](https://www.otakukingdom-subs.de/) :ddl:
+- [OtakuKingdom Subs](http://www.otakukingdom-subs.de/) :ddl:
 
 ### Manga
 - [ComicMafia](https://comicmafia.to/?s=manga) :ddl::host:
