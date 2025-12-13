@@ -645,16 +645,23 @@ ___
   - [FapDex](https://fapdex.moe/) :ero:
 
 ### Manga
-- [TuMangaOnline](https://zonatmo.com/)
-- [MangaOni](https://manga-oni.com/)
-- [Plot Twist No Fansub](https://plotnf.com/)
-- [AnzMangas](https://www.anzmangashd.com/)
+- [Absorbiendo Mangas](https://absorbiendomangas2.blogspot.com/)
+- [AnzManga](https://www.anzmanga25.com/)
+- [HeavenManga](https://heavenmanga.com/)
+- [InManga](https://inmanga.com/)
+- [Izicomics](https://www.izicomics.com/)
+- [Leemiau](https://leemiau.com/)
+- [LexMangas](https://www.lexmangas.com/)
 - [MangaCrab](https://mangacrab.yopres.com/inicio/)
+- [MangaOni](https://manga-oni.com/)
+- [NOVA](https://novelasligeras.net/)
+- [Plot Twist No Fansub](https://plotnf.com/)
+- [TuMangaOnline](https://zonatmo.com/)
 
 ### Light Novels
-- [ZeePubs](https://zeepubs.wordpress.com/)
-- [Rock Valley Novels](https://rockvalleynovels.wixsite.com/kardia037)
 - [Next Novels](https://nextnovels.com/)
+- [Rock Valley Novels](https://rockvalleynovels.wixsite.com/kardia037)
+- [ZeePubs](https://zeepubs.wordpress.com/)
 
 ### News
 - [ANMOSugoi](https://www.anmosugoi.com/)
