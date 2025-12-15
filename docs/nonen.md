@@ -292,6 +292,7 @@ og:
 - **Stream**
   - [AllWish](https://all-wish.me/home)
   - [AnimaHD](https://animahd.com/) [:alt:](https://www.1xanime.org/)
+  - [AnimeLok](https://animelok.to/home)
   - [Anime Joker](https://animejoker.com/)
   - [Anime World India](https://watchanimeworld.in/)
   - [Dora Bash](https://dorabash.com/)
@@ -507,7 +508,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 ### Manga
 - [Ler Mangas](https://lermangas.me/)
-- [Tao Sect](https://taosect.com/)
 
 ::: details Scanlators
 #### Website

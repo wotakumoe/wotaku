@@ -158,7 +158,6 @@ ___
 - [Dark Horse](https://www.darkhorse.com/books/upcoming/)
 - [J-Novel Club](https://j-novel.club/calendar)
 - [Kodansha](https://kodansha.us/calendar/)
-- [Omoi](https://www.omoi.com/release-calendar) <Badge type="info" text="CaaS" />
 - [Seven Seas](https://sevenseasentertainment.com/release-dates/)
 - [SuBLime](https://www.sublimemanga.com/calendar) :ero:
 - [SQUARE ENIX](https://squareenixmangaandbooks.square-enix-games.com/en-us/release-calendar)
@@ -242,6 +241,7 @@ ___
 | **General** | [3x3 Generator](https://gqgs.github.io/3x3-generator/) [:gh:](https://github.com/gqgs/3x3-generator/) | :mal::al::k: |  
 | ^^        | [Anime Bingo](https://anime-bingo.aikats.us/) [:gh:](https://github.com/walfie/anime-bingo) | :al: |  
 | ^^        | [due.moe](https://due.moe/) | :al: |  
+| ^^        | [GomiTier](https://www.gomitier.tech/) | :mal::al: |
 | ^^        | [Related Anime](https://relatedanime.com/) | :mal: |  
 | ^^        | [Topsters](https://topsters.org/) | :simple-icons-themoviedatabase::simple-icons-lastdotfm::simple-icons-igdb::simple-icons-internetarchive: |
 | **Anime** | [Animerank](https://animerank.top/) | :mal: |
