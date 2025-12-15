@@ -93,8 +93,7 @@ og:
 | ^^        | [Pixiv Viewer](https://pixiv.pictures/) [:gh:](https://github.com/asadahimeka/pixiv-viewer) |
 | ^^        | [Pixiv Yearbook](https://pixiv.navirank.com/) |
 | ^^        | [Pxelk](https://pxelk.pixiv.pics/) [:gh:](https://github.com/ShugetsuSoft/pixivel-front) |
-| **Others** | [Piokok](https://www.piokok.com/) |
-| ^^        | [Priviblur](https://pb.bloat.cat/) [:gh:](https://github.com/syeopite/priviblur) |
+| **Others** | [Pixnoy](https://www.pixnoy.com/) |
 | ^^        | [X Cancelled](https://xcancel.com/) [:gh:](https://github.com/zedeus/nitter) |
 
 

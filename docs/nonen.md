@@ -297,7 +297,6 @@ og:
   - [Dora Bash](https://dorabash.com/)
   - [ToonStream](https://toonstream.love/)
 - **DDL**
-  - [Anime Academy](https://animeacademy.in/)
   - [ATOZ CARTOONIST](https://www.atozcartoonist.com/)
   - [PikaHD](https://pikahd.com/)
   - [Puretoons](https://puretoons.in/)
@@ -512,10 +511,9 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 ::: details Scanlators
 #### Website
-- [Argos Comic](https://argoscomic.com) :fjp::fkr::fcn::ero:  
-- [Kakusei Project](https://kakuseiproject.com/) :fjp::ero:  
-- [Valkyrie Scan](https://valkyriescan.com/) :fjp::fkr::fcn::ero:  
-- [Yuri.Live](https://yuri.live/) :fjp::fkr::fcn::ero:  
+- [Argos Comic](https://argoscomic.com) :fjp::fkr::fcn::ero:
+- [Kakusei Project](https://kakuseiproject.com/) :fjp::ero:
+- [Yuri.Live](https://yuri.live/) :fjp::fkr::fcn::ero:
 
 ___
 
@@ -594,7 +592,7 @@ ___
 
 | Category | Resources |
 |----------|-----------|
-| **Anime** | [ShiraBox](https://shirabox.org/) [:gh:](https://github.com/urFate/shirabox-app) |
+| **Anime** | [ShiraBox](https://github.com/urFate/shirabox-app) |
 | ^^       | [ShikiWatch](https://github.com/wheremyfiji/ShikiWatch) |
 | ^^       | [Anixart](https://play.google.com/store/apps/details?id=com.swiftsoft.anixartlt) |
 | **Manga** | [Manga Grabber](https://github.com/lirix360/ReadmangaGrabber) |
