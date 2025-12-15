@@ -565,30 +565,31 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 ## Client
 | Platform | Software |
-|-----------|-----------|
+|----------|----------|
 | **Android** | [Tempo](https://github.com/CappielloAntonio/tempo) :s: |
 | ^^ | [Castafiore](https://github.com/sawyerf/Castafiore) :ff::cr: |
-| ^^ | [Subtracks](https://github.com/austinried/subtracks#readme) |
+| ^^ | [Subtracks](https://github.com/austinried/subtracks) |
 | ^^ | [substreamer](https://substreamerapp.com/) |
 | ^^ | [Ultrasonic](https://ultrasonic.gitlab.io/) |
 | ^^ | [Plexamp](https://www.plex.tv/plexamp/) :fm: |
 | ^^ | [Symfonium](https://symfonium.app/) :paid: |
 | **iOS** | [play:Sub](http://michaelsapps.dk/playsubapp/) |
 | ^^ | [substreamer](https://substreamerapp.com/) |
-| ^^ | [Amperfy](https://github.com/BLeeEZ/amperfy#readme) |
+| ^^ | [Amperfy](https://github.com/BLeeEZ/amperfy) |
 | ^^ | [iSub](https://isub.app) |
 | **Desktop** | [Supersonic](https://github.com/dweymouth/supersonic) :win::app::lin: |
 | ^^ | [Sublime Music](https://sublimemusic.app/) :lin: |
 | ^^ | [Submariner](https://submarinerapp.com/) :app: |
 | ^^ | [Plexamp](https://www.plex.tv/plexamp/) :win::app::lin::fm: |
-| ^^ | [Jellycli](https://github.com/tryffel/jellycli#readme) :win::lin::cmd: |
-| ^^ | [STMP](https://github.com/wildeyedskies/stmp#readme) :win::app::lin::cmd: |
+| ^^ | [Jellycli](https://github.com/tryffel/jellycli) :win::lin::cmd: |
+| ^^ | [STMP](https://github.com/wildeyedskies/stmp) :win::app::lin::cmd: |
+| ^^ | [Aonsoku](https://github.com/victoralvesf/aonsoku) :win::app::lin: |
 | **Others** | [SonicLair](https://github.com/thelinkin3000/SonicLair) <Badge type="info" text="Android TV" /> |
-| ^^ | [bonob](https://github.com/simojenki/bonob#readme) <Badge type="info" text="Sonos" /> |
-| ^^ | [AskSonic](https://github.com/srichter/asksonic#readme) <Badge type="info" text="Alexa" /> |
-| ^^ | [Subsonic Kodi Plugin](https://github.com/warwickh/plugin.audio.subsonic#readme) |
-| ^^ | [Navidrome Kodi Plugin](https://github.com/BobHasNoSoul/plugin.audio.navidrome#readme) |
-| ^^ | [HTTPDirFS](https://github.com/fangfufu/httpdirfs#readme) |
+| ^^ | [bonob](https://github.com/simojenki/bonob) <Badge type="info" text="Sonos" /> |
+| ^^ | [AskSonic](https://github.com/srichter/asksonic) <Badge type="info" text="Alexa" /> |
+| ^^ | [Subsonic Kodi Plugin](https://github.com/warwickh/plugin.audio.subsonic) |
+| ^^ | [Navidrome Kodi Plugin](https://github.com/BobHasNoSoul/plugin.audio.navidrome) |
+| ^^ | [HTTPDirFS](https://github.com/fangfufu/httpdirfs) |
 | ^^ | [upmpdcli](https://www.lesbonscomptes.com/upmpdcli/index.html) <tooltip>Expose Navidrome as a UPnP/DLNA media library. Read the [discussion](https://github.com/navidrome/navidrome/discussions/2324)</tooltip> |
 
 :::details Related Resources
