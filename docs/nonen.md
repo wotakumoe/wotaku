@@ -640,6 +640,7 @@ ___
   - [DW Anime](https://dw-anime.net/)
   - [Union Fansub](https://foro.unionfansub.com/) :mag::acc:
   - [:tg: YaichiList](https://t.me/addlist/xA7wYMGu0CI2YzBh) :strm:
+  - [BeatZ-Anime](https://www.beatz-anime.net/) :ero:
   - [FapDex](https://fapdex.moe/) :ero:
 
 ### Manga
