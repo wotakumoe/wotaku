@@ -250,7 +250,6 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 :::
 
 - [1r0n](https://nyaa.si/user/tsuna69) `Ch` `Vol` ==tron==
-- [anadius](https://nyaa.si/user/anadius) <Badge type="warning" text="Retired"/> `Ch` ==anadius==
 - [Aquila](https://nyaa.si/user/Aleph256) `Ch` ==Aquila==
 - [Danke](https://nyaa.si/?f=0&c=0_0&q=danke-empire) :f: <Badge type="warning" text="Retired"/> `Ch` `Vol` ==Danke==
 - [Digital Manga Fan](https://nyaa.si/user/digitalmangafan) ==DMF==

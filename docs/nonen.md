@@ -48,7 +48,6 @@ og:
 - [Hentai Time](https://hentai-time.com/)
 - [NXX Hentai](https://nxxhentai.net/)
 - [RistoHentai](https://ristohentai.com/)
-- [Saudi Hentai](https://saudihentai.com/)
 
 ### Software
 

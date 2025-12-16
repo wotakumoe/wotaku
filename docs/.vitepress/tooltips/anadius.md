@@ -1,1 +1,0 @@
-[VIZ](https://www.viz.com/)
