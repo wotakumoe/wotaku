@@ -42,6 +42,7 @@ og:
 ### Manga
 - [3asQ](https://3asq.org/)
 - [Azora Moon](https://azoramoon.com/)
+- [SWAT Manga](https://meshmanga.com/)
 
 ### NSFW
 - [Arabs Hentai](https://arabshentai.com/)
@@ -507,6 +508,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 ### Manga
 - [Ler Mangas](https://lermangas.me/)
+- [Tao Sect](https://taosect.com/)
 
 ::: details Scanlators
 #### Website
