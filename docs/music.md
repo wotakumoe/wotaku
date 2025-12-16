@@ -119,7 +119,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 | Website | Service |
 |-|-|
-| [Lucida](https://lucida.to/) :s: [:alt:](https://lucida.su/) | Amazon, Deezer, Qobuz, Soundcloud, Tidal, Yandex |
+| [Lucida](https://lucida.to/) :s: | Amazon, Deezer, Qobuz, Soundcloud, Tidal, Yandex |
 | [DoubleDouble](https://doubledouble.top/) :s: | Amazon, Deezer, Qobuz, Soundcloud, Tidal |
 | [YAMS](https://yams.tf/) :acc: | Deezer, Qobuz |
 | [DAB Music Player](https://dab.yeet.su/) :acc: [:alt:](https://dabmusic.xyz/) | Qobuz |
@@ -127,7 +127,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [Squid.wtf](https://squid.wtf/) | KHInsider, Tidal |
 | [BiniLossless](https://music.binimum.org/) | Tidal |
 | [Digger](https://digger-ui.vercel.app/) | Tidal |
-| [Monochrome](https://monochrome.tf/) [:alt:](https://monochrome.prigoana.com/) | Tidal |
 | [QQDL](https://qqdl.site/) | Tidal |
 | [Apple Music Downloader](https://aaplmusicdownloader.com/) ==amdl== | Apple Music (Lossy) |
 
