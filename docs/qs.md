@@ -240,3 +240,5 @@ You should never use cracked or modded VPN cause all of your traffic will go thr
       - [SS21](https://github.com/saxamaphone69/ss21) :js::mdi-format-paint:
   - [Desu X](https://greasyfork.org/en/scripts/483282-desu-x-enhancement-script-for-desuarchive-org) :js:
   - [Dollchan](https://github.com/SthephanShinkufag/Dollchan-Extension-Tools/) :ff::js:
+- **Stats**
+  - [4stats.io](https://4stats.io/)
