@@ -30,6 +30,7 @@ outline: 1
 | [HiAnime](https://hianimez.to/home) [:prx:](https://hianime.tv/) ==Zoro== | :mingcute-server-fill: | :mingcute-user-2-fill: | :cc: |
 | [Sudatchi](https://sudatchi.com/) ==Sudatchi== | :mingcute-server-fill: | :mingcute-refresh-2-fill: | :cc: |
 | [AniZone](https://anizone.to/) ==AniZone== | :mingcute-server-fill: | :no: | :cc: |
+| [AnimeLok](https://animelok.to/) ==AnimeLok (previously Animerulz)== | :mingcute-shovel-fill: | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :cc: :hs: |
 
 :::details More
 
