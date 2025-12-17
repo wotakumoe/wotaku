@@ -393,7 +393,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [MangaFire](https://mangafire.to/home)
 - [MangaKuro](https://mangakuro.net/home)
 - [Manga Raw (.ac)](https://mangaraw.ac/) [:prx:](https://rentry.org/wotaxy#mangarawspoil) ==mangarawspoil==
-- [Manga RAW (.ad)](https://mangaraw.ad/)
+- [Manga RAW (.ad)](https://mangarawad.live/)
 - [Manga RAW (.best)](https://mangaraw.best/)
 - [MangarawJP](https://mangarawjp.me/)
 - [MangaReader](https://mangareader.to/home)
@@ -515,7 +515,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 ::: details Scanlators
 #### Website
-- [Argos Comic](https://argoscomic.com) :fjp::fkr::fcn::ero:
+- [Argos Comic](https://argoscomics.online/) :fjp::fkr::fcn::ero:
 - [Kakusei Project](https://kakuseiproject.com/) :fjp::ero:
 - [Yuri.Live](https://yuri.live/) :fjp::fkr::fcn::ero:
 
