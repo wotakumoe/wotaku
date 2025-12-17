@@ -30,10 +30,11 @@ og:
 | ^^          | [Oldtoons](https://oldtoons.world/)                                      |
 | ^^          | [U2](https://u2.dmhy.org/portal.php)                                     |
 | Books       | [MyAnonamouse](https://myanonamouse.net/)                                |
-| Games       | [Gazelle Games](https://gazellegames.net/login.php)                      |
+| Games       | [Gazelle Games](https://gazellegames.net/)                               |
 | Live Action | [AvistaZ](https://avistaz.to/) [:d:](https://discord.gg/GYahYNWutE)      |
-| Music       | [jptvts](https://jptvts.us/)                                             |
-| ^^          | [Redacted](https://redacted.sh/)                                         |
+| ^^          | [AsianCinema](https://eiga.moi/)                                         |
+| ^^          | [JPTVTS](https://jptvts.us/)                                             |
+| Music       | [Redacted](https://redacted.sh/)                                         |
 | ^^          | [JPopsuki](https://jpopsuki.eu/)                                         |
 | ^^          | [Orpheus](https://orpheus.network/)                                      |
 | ^^          | [Sugoi Music](https://sugoimusic.me/)                                    |
