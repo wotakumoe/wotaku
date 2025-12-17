@@ -49,6 +49,7 @@ og:
 - [Hentai Time](https://hentai-time.com/)
 - [NXX Hentai](https://nxxhentai.net/)
 - [RistoHentai](https://ristohentai.com/)
+- [Saudi Hentai](https://saudihentai.com/)
 
 ### Software
 
@@ -61,8 +62,10 @@ og:
 ## Balkan
 
 ### Anime
+- [Anime Balkan](https://animebalkan.org/) [:alt:](https://animebalkan.gg/)
 - [AnimeOverdose](https://www.anime-overdose.com/)
 - [Anime Srbija](https://www.animesrbija.com/)
+- [BalkanFlix](https://www.balkanflix.com/)
 
 ### News
 - [Potamanime](https://potamanime.rs/)
