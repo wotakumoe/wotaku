@@ -726,7 +726,7 @@ ___
 - [WebLinhTinh](https://weblinhtinh1.net/)
 
 ### Comics
-- [CManga](https://cmangaax.com/)
+- [CManga](https://cmangax9.com/)
 - [Cuu Truyen](https://cuutruyen.net/) [:prx:](https://truycapcuutruyen.pages.dev/)
 - [DocTruyen3Q](https://doctruyen3qui15.com/) :ero:
 - [FoxTruyen](https://foxtruyen.com/)
