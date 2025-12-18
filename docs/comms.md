@@ -11,6 +11,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [Arlong Park](https://forums.arlongpark.net/)
 - [EvaGeeks](https://forum.evageeks.org/index.php)
 - [Fuwanovel](https://forums.fuwanovel.net/)
+- [J-Novel Club Forums](https://forums.j-novel.club/)
 - [Manga Helper](https://mangahelpers.com/)
 - [SquidBoard](https://www.squid-board.org/)
 - [The VG Resource](https://www.vg-resource.com/)
@@ -38,6 +39,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 
 ### H-O
 - [HiAnime](https://discord.gg/hianime)
+- [J-Novel Club](https://discord.gg/WmRnnFvfS3)
 - [Japanese Language Study Space](https://discord.gg/jlss)
 - [Kagane](https://discord.gg/kBPYVSzwUE)
 - [Kai Corner](https://discord.gg/kZgWWHUj22)
