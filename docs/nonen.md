@@ -574,6 +574,7 @@ ___
 - [One Pace](https://onepace-ru.tilda.ws/)
 - [OTA-KUN](https://ota-ku.am/)
 - [Tunime](https://an0ncer.github.io/) [:gh:](https://github.com/AN0NCER/an0ncer.github.io) <Badge type="info" text="Sub" />
+- [YummyAnime](https://site.yummyani.me/)
 
 ### Manga
 - [Com-X](https://com-x.life/home)
