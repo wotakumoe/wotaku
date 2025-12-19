@@ -520,7 +520,7 @@ Some of the series may not be available depending on your region.
 - [JustWatch](https://www.justwatch.com/)
 - [Otakulogy List](https://otakulogy.github.io/anime-streaming/)
 - [Simkl](https://simkl.com/)
-- [uNoGS](https://unogs.com/)
+- [uNoGS](http://unogs.com/)
 - [Yatta-Tachi List](https://yattatachi.com/legal-anime-streaming-sites)
 :::
 
