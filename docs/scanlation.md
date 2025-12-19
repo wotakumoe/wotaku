@@ -19,7 +19,7 @@ To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/k
 
 - [Scanner Usage School Server](https://discord.gg/NCzxVB9) :s:
 - [r/Scanlation](https://old.reddit.com/r/Scanlation/)
-- [Manga Helpers](https://mangahelpers.com/)
+- [MangaHelpers](https://mangahelpers.com/)
 - [Font recommendations](https://discord.gg/ghGWcYSSUP)
 - [Krita Artists](https://krita-artists.org/)
 
