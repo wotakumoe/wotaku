@@ -55,6 +55,7 @@ outline: 1
 | Websites | Login | Sub |
 |----------|----------------------|--------|
 | [Anidap](https://anidap.se/home) ==Anidap== | :mingcute-user-2-fill: | :cc::hs: |
+| [Anikuro](https://anikuro.to/) [:prx:](https://anikuro.site/) ==Anikuro== | :mingcute-user-2-fill: | :cc::hs: |
 | [Anime Realms](https://www.animerealms.org/en) ==AnimeRealms== | :mingcute-refresh-2-fill: | :cc::hs: |
 | [AnimeX](https://animex.one/home) ==AnimeX== | :mingcute-user-2-fill: | :cc::hs: |
 | [Gojo](https://animetsu.to/) [:alt:](https://animetsu.cc/) ==Gojo== | :mingcute-user-2-fill: | :hs: |
