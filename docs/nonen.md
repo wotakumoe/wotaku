@@ -319,7 +319,7 @@ og:
   - [Indonesian Fansubbers' Index](https://www.fansub.id/home)
 - **Stream**
   - [Anichin](https://s24.anichin.blog/) [:prx:](https://anichin.bio/)
-  - [SKUY](https://skuy.fun/home) :acc:
+  - [SKUY](https://skuy.co.id/) :acc:
   - [Kazefuri](https://kazefuri.info/)
   - [Kuramanime](https://kuramanime.red/)
   - [Kiyocomics](https://kiyocomics.netlify.app/) [:gh:](https://github.com/Bilhaq12/kiyoanime)
