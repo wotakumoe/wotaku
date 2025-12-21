@@ -294,7 +294,6 @@ og:
 
 - **Stream**
   - [AllWish](https://all-wish.me/home)
-  - [AnimaHD](https://animahd.com/) [:alt:](https://www.1xanime.org/)
   - [AnimeLok](https://animelok.to/home)
   - [Anime Joker](https://animejoker.com/)
   - [Anime World India](https://watchanimeworld.in/)
@@ -471,7 +470,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 ## Lithuanian
 
 ### Anime
-- [Animesub.lt](https://animesub.lt/)
+- [Animesub.lt](https://animesub.lt/#/)
 
 ## Polish
 

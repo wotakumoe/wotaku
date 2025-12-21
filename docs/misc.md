@@ -96,7 +96,6 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [Anisaki](https://anisaki.vercel.app/) [:gh:](https://github.com/BayuDC/anisaki) |  
 | ^^ | [Kenny Stryker’s English dublist](https://myanimelist.net/forum/?topicid=1692966) |
 | ^^ | [Notify.moe](https://notify.moe/calendar) |  
-| ^^ | [Senpai.moe](https://www.senpai.moe/) |  
 | **Monthly** | [Anica](https://anica.jp/) |  
 | ^^ | [Anime Dubs Release Calendar](https://teamup.com/ksdhpfjcouprnauwda) |  
 | **Others** | [Bangumi List](https://bgmlist.com/) :fjp::fcn: [:gh:](https://github.com/wxt2005/bangumi-list-v3) ==BangumiList== |  

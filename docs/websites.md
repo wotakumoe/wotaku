@@ -375,7 +375,7 @@ To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/k
 - [Stick](https://nyaa.si/?f=0&c=3_1&q=%22%5BStick%5D%22)
 - [Troglodyte](https://nyaa.si/?f=0&c=3_1&q=%22%5BTroglodyte%5D%22)
 - [AudioBook Bay](https://audiobookbay.lu/)
-- :more: [Audiobook player for phone](/music#audiobook)
+- :more: [Mobile audiobook players](/music#audiobook)
 
 
 
@@ -520,7 +520,7 @@ Some of the series may not be available depending on your region.
 - [JustWatch](https://www.justwatch.com/)
 - [Otakulogy List](https://otakulogy.github.io/anime-streaming/)
 - [Simkl](https://simkl.com/)
-- [uNoGS](http://unogs.com/)
+- [uNoGS](https://unogs.com/)
 - [Yatta-Tachi List](https://yattatachi.com/legal-anime-streaming-sites)
 :::
 
