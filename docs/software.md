@@ -379,7 +379,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 ## eBook Tools
 - [Calibre](https://calibre-ebook.com/) :win::app::lin: [:gh:](https://github.com/kovidgoyal/calibre)
-- [Libation](https://getlibation.com/) :win::app::lin: [:gh:](https://github.com/rmcrackan/Libation)
+- [Libation](https://github.com/rmcrackan/Libation) :win::app::lin:
 - [Sigil-Ebook](https://sigil-ebook.com/) :win::app: [:gh:](https://github.com/Sigil-Ebook)
 
 

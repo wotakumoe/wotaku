@@ -207,7 +207,6 @@ og:
 - [JetAnime](https://on.jetanimes.com/)
 - [Sekai](https://sekai.one/)
 - [Streaming-integrale](https://streaming-integrale.com/)
-- [ToonAnime](https://v8.toonanime.co/)
 - [Voiranime](https://v6.voiranime.com/) <Badge type="tip" text="Extension" link="https://github.com/Dastan21/BetterVoirAnime" />
 - [Vostfree](https://vostfree.ws/)
 
