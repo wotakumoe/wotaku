@@ -48,7 +48,6 @@ Original: ~~Blurry downscales for anything that would be above that on other pla
 | [Omoi](https://www.omoi.com/)                | x4800<sup>1</sup> | :yes: | :yes: | Own Store |
 | [Seven Seas Entertainment](https://sevenseasentertainment.com/) | x3000<sup>6</sup> | :no: | :yes: | Kindle HD |
 | [Square Enix Manga & Books](https://squareenixmangaandbooks.square-enix-games.com/en-us)| ~x2230 | :no: | :yes: | Same Everywhere |
-| [Star Fruit Books](https://starfruitbooks.com/) | Varies | :yes: | :yes: | Own Store |
 | [TOKYOPOP](https://tokyopop.com/)            | ~x2300<sup>7</sup> | :no: | :yes: | Same Everywhere |
 | [VAST Visual](https://vastmanga.com/)        | ~x2250<sup>8</sup> | :no: | :yes: | Apple Books |
 | [VIZ](https://www.viz.com/read)              | x2100-x2475<sup>9</sup> | :no: | :yes: | Kobo |

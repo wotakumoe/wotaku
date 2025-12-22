@@ -49,7 +49,6 @@ og:
 - [Hentai Time](https://hentai-time.com/)
 - [NXX Hentai](https://nxxhentai.net/)
 - [RistoHentai](https://ristohentai.com/)
-- [Saudi Hentai](https://saudihentai.com/)
 
 ### Software
 
@@ -314,7 +313,6 @@ og:
 
 - **Info**
   - [Database Tontonan Wibu Indonesia](https://db.silveryasha.id/)
-  - [Indonesian Fansubbers' Index](https://www.fansub.id/home)
 - **Stream**
   - [Anichin](https://s24.anichin.blog/) [:prx:](https://anichin.bio/)
   - [SKUY](https://skuy.co.id/) :acc:
@@ -509,7 +507,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 ### Manga
 - [Ler Mangas](https://lermangas.me/)
-- [Tao Sect](https://taosect.com/)
 
 ::: details Scanlators
 #### Website
