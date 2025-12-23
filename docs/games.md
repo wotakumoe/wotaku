@@ -63,7 +63,8 @@ For game [**downloads**](https://megathread.pages.dev/download) and [**emulation
 - [Sekai Viewer](https://sekai.best/) [:gh:](https://github.com/Sekai-World/sekai-viewer)
 - [sm64coopdx](https://sm64coopdx.com/)
 - [Starward](https://github.com/Scighost/Starward)
-- [XIVLauncher](https://goatcorp.github.io/)
+- [WuWa Tracker](https://wuwatracker.com/)
+- [XIVLauncher](https://goatcorp.github.io/) [:gh:](https://github.com/goatcorp/FFXIVQuickLauncher)
 
 ### OCR
 - [Agent](https://github.com/0xDC00/agent)
