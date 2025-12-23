@@ -59,6 +59,7 @@ For game [**downloads**](https://megathread.pages.dev/download) and [**emulation
 - [Locale Emulator](https://github.com/xupefei/Locale-Emulator)
 - [Locale Remulator](https://github.com/InWILL/Locale_Remulator)
 - [Megami Tensei Fusion Tools](https://aqiu384.github.io/megaten-fusion-tool/home)
+- [Playnite](https://playnite.link/) [:gh:](https://github.com/JosefNemec/Playnite/)
 - [Sekai Viewer](https://sekai.best/) [:gh:](https://github.com/Sekai-World/sekai-viewer)
 - [sm64coopdx](https://sm64coopdx.com/)
 - [Starward](https://github.com/Scighost/Starward)
