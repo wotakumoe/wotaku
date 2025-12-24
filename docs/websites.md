@@ -27,7 +27,7 @@ outline: 1
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :mingcute-server-fill: | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :cc: |
 | [AnimeKai](https://animekai.to/home) [:prx:](https://rentry.org/wotaxy#animekai) ==AnimeKai== | :mingcute-server-fill: | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :cc::hs: |
 | [KickassAnime](https://kickass-anime.ru/) [:prx:](https://kickassanime.cx/) ==KAA== | :mingcute-server-fill: | :mingcute-user-2-fill: | :cc: |
-| [HiAnime](https://hianimez.to/home) [:prx:](https://hianime.tv/) ==Zoro== | :mingcute-server-fill: | :mingcute-user-2-fill: | :cc: |
+| [HiAnime](https://hianime.to/home) ==Zoro== | :mingcute-server-fill: | :mingcute-user-2-fill: | :cc: |
 | [Sudatchi](https://sudatchi.com/) ==Sudatchi== | :mingcute-server-fill: | :mingcute-refresh-2-fill: | :cc: |
 | [AniZone](https://anizone.to/) ==AniZone== | :mingcute-server-fill: | :no: | :cc: |
 
@@ -58,7 +58,7 @@ outline: 1
 | [Anikuro](https://anikuro.to/) [:prx:](https://anikuro.site/) ==Anikuro== | :mingcute-user-2-fill: | :cc::hs: |
 | [Anime Realms](https://www.animerealms.org/en) ==AnimeRealms== | :mingcute-refresh-2-fill: | :cc::hs: |
 | [AnimeX](https://animex.one/home) ==AnimeX== | :mingcute-user-2-fill: | :cc::hs: |
-| [Gojo](https://animetsu.to/) [:alt:](https://animetsu.cc/) ==Gojo== | :mingcute-user-2-fill: | :hs: |
+| [Gojo](https://animetsu.net/) ==Gojo== | :mingcute-user-2-fill: | :hs: |
 | [Miruro](https://www.miruro.to/) [:prx:](https://www.miruro.com) ==miruro== | :mingcute-refresh-2-fill: | :cc::hs: |
 
 

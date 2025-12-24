@@ -12,7 +12,7 @@ og:
 ### Anime
 - [Anime Nexus](https://anime.nexus/)
 - [AnimeStream](https://anime.uniquestream.net/)
-- [HiAnime](https://hianimez.to/home)
+- [HiAnime](https://hianime.to/home)
 - [KickassAnime](https://kickass-anime.ru/) [:prx:](https://kickassanime.cx/)
 - [Sudatchi](https://sudatchi.com/)
 
@@ -199,7 +199,7 @@ og:
 
 - [AnimeKO](https://animeko.ws/)
 - [Anime-Kami](https://anime-kami.com/)
-- [Anime-Sama](https://anime-sama.eu/)
+- [Anime-Sama](https://anime-sama.si/) [:prx:](https://anime-sama.pw/)
 - [AnimesUltra](https://animesultra.org/)
 - [FanKai](http://fankai.fr/) [:alt:](https://linktr.ee/FanKai)
 - [FRAnime](https://franime.fr/)
