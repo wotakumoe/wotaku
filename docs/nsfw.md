@@ -92,8 +92,7 @@ og:
 |-|-|
 | Toomics.com | [Hotcomics](https://hotcomics.io/en) :s::fm::sub: [:alt:](https://hotcomics.me/en/) |
 | ^^          | [Heytoon](https://heytoon.net/en/) :fm::sub: |
-| DayComcis.com | [DayComics](https://daycomics.me/) :fm::sub: |
-| ^^            | [Webtooni](https://webtooni.net/en/) :fm::sub: ==webtooni== |
+| DayComcis.com | [Webtooni](https://webtooni.net/en/) :fm::sub: ==webtooni== |
 
 ### Scanlators {open}
 - [The Blank](https://theblank.net/) :sub:
@@ -213,7 +212,6 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 | Database | [DOJINDB](https://dojindb.net/) :fjp: |
 | ^^ | [Doujinshi.info](https://www.doujinshi.info/) [:gh:](https://github.com/doujinshi-info/frontend-nuxt) |
 | ^^ | [HentTag](https://hentag.com/) |
-| ^^ | [Manga-DB](https://adultcomic.dbsearch.net/) :fjp::s: |
 | Info | [Fapservice](https://fapservice.com/) |
 | ^^   | [PornhwaDB](https://pornhwadb.com/) |
 | ^^   | [Yuri Scenes](https://yuriscenes.com/) |
