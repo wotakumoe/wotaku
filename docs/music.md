@@ -123,7 +123,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [DoubleDouble](https://doubledouble.top/) :s: | Amazon, Deezer, Qobuz, Soundcloud, Tidal |
 | [Squid.wtf](https://squid.wtf/) | KHInsider, Qobuz, Tidal |
 | [YAMS](https://yams.tf/) :acc: | Deezer, Qobuz |
-| [DAB Music Player](https://dab.yeet.su/) :acc: [:alt:](https://dabmusic.xyz/) | Qobuz |
+| [DAB Music Player](https://dabmusic.xyz/) :acc: | Qobuz |
 | [Jumo-DL](https://jumo-dl.pages.dev/) | Qobuz |
 | [BiniLossless](https://music.binimum.org/) | Tidal |
 | [Digger](https://digger-ui.vercel.app/) | Tidal |
