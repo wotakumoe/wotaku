@@ -104,7 +104,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | Website | Type | Host |
 |-|-|-|
 | [Nyaa](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap) | :mag: | - |
-| [Sitting on Clouds](https://www.sittingonclouds.net/) :s: [:prx:](https://rentry.org/wotaxy#sitting-on-clouds) | :ddl: | :sm::smf: |
 | [SquidBoard](https://www.squid-board.org/) :acc: | :ddl: | :sgd::sm::smf: |
 | [Sukidesu OST](https://sukidesuost.info/) | :ddl::mag: | :sm: |
 
@@ -146,7 +145,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | Website | Type | Host |
 |-|-|-|
 | [Nyaa](https://nyaa.si/) [:prx:](https://rentry.org/nyaap) | :mag: | - |
-| [Sitting on Clouds](https://www.sittingonclouds.net/) [:prx:](https://rentry.org/wotaxy#sitting-on-clouds) | :ddl: | :sm::smf: |
 | [SquidBoard](https://www.squid-board.org/) :acc: | :ddl: | :sgd::sm::smf: |
 | [HCS VGM Archive](https://vgm.hcs64.com/) | :ddl: | own |
 | [VGM Preservation Foundation](https://www.vgmpf.com/Wiki/index.php) | :ddl: | own |
@@ -611,7 +609,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | **Discord**    | [Doujin Cafe](https://discord.gg/doujincafe) |
 | ^^             | [DoujinStyle](https://discord.gg/z2QDFdA) |
 | ^^             | [MikuDB](https://discord.gg/w9Dq25n) |
-| ^^             | [Sitting on Clouds](https://discord.gg/x23SFbE) |
 | ^^             | [SquidBoard](https://discord.gg/yuvnx7FS89) |
 | **Subreddits** | [Vocaloid](https://old.reddit.com/r/vocaloid/) |
 | ^^             | [VocaTorrent](https://old.reddit.com/r/VocaTorrent/) |

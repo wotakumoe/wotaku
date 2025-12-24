@@ -86,7 +86,6 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | Category   | Resource |
 |------------|--------------------------------------------------|
 | **Dedicated** | [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap) |
-| ^^         | [Sitting on Clouds](https://www.sittingonclouds.net/) :s: [:prx:](https://rentry.org/wotaxy#sitting-on-clouds) |
 | ^^         | [SquidBoard](https://www.squid-board.org/) |
 | **General** | [DoubleDouble](https://doubledouble.top/) :s: |
 | ^^         | [Squid.wtf](https://squid.wtf/) |
