@@ -314,6 +314,7 @@ og:
 
 - **Info**
   - [Database Tontonan Wibu Indonesia](https://db.silveryasha.id/)
+  - [Indonesian Fansubbers' Index](https://www.fansub.id/home)
 - **Stream**
   - [Anichin](https://s24.anichin.blog/) [:prx:](https://anichin.bio/)
   - [SKUY](https://skuy.co.id/) :acc:
