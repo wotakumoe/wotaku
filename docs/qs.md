@@ -178,7 +178,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | **Japan Server** | :yes:                         | :yes:                            | :yes:                             | :yes:                            | :yes:                                 |
 | **Kill Switch**  | :yes:                         | :yes:                            | :yes:                             | :yes:                            | :yes:                                 |
 | **Multi-hop**    | :no:                          | :yes:                            | :yes:                             | :yes:                            | :yes:                                 |
-| **OpenVPN**      | :yes:                         | :yes:                            | :yes:                             | :yes:                            | :yes:                                 |
+| **OpenVPN**      | :yes:                         | :yes:                            | :no:                              | :yes:                            | :yes:                                 |
 | **Port Forward** | :yes:                         | :no:                             | :no:                              | :yes:                            | :yes:                                 |
 | **RAM-only**     | :yes:                         | :no:                             | :yes:                             | :no:                             | :yes:                                 |
 | **WireGuard**    | :yes:                         | :yes:                            | :yes:                             | :yes:                            | :yes:                                 |

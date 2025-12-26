@@ -212,6 +212,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 | Database | [DOJINDB](https://dojindb.net/) :fjp: |
 | ^^ | [Doujinshi.info](https://www.doujinshi.info/) [:gh:](https://github.com/doujinshi-info/frontend-nuxt) |
 | ^^ | [HentTag](https://hentag.com/) |
+| ^^ | [Manga-DB](https://adultcomic.dbsearch.net/) :fjp::s: |
 | Info | [Fapservice](https://fapservice.com/) |
 | ^^   | [PornhwaDB](https://pornhwadb.com/) |
 | ^^   | [Yuri Scenes](https://yuriscenes.com/) |
