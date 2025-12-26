@@ -127,7 +127,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 
 ## Reader
 - [KOReader](https://koreader.rocks/) [:gh:](https://github.com/koreader/koreader) :and::lin:
-  - [rakuyomi](https://github.com/hanatsumi/rakuyomi) :lin: [:e:](/guides/ext/ios#aidoku)
+  - [rakuyomi](https://github.com/tachibana-shin/rakuyomi) :lin: [:e:](/guides/ext/ios#aidoku)
 - :more: [**Android only**](#manga-readers)
 
 ## Tools
