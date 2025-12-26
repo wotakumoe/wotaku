@@ -272,7 +272,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | [Calibre](https://calibre-ebook.com/) [:gh:](https://github.com/kovidgoyal/calibre) | :win::app::lin: |
 | [Freda](https://www.turnipsoft.com/freda/) | :win::cs: |
 | [Koodo Reader](https://www.koodoreader.com/) [:gh:](https://github.com/koodo-reader/koodo-reader) | :win::app::lin: |
-| [KOReader](https://koreader.rocks/) [:gh:](https://github.com/koreader/koreader) <Badge type="tip" text="rakuyomi" link="https://github.com/hanatsumi/rakuyomi" /> | :lin::material-symbols-chrome-reader-mode-outline: |
+| [KOReader](https://koreader.rocks/) [:gh:](https://github.com/koreader/koreader) <Badge type="tip" text="rakuyomi" link="https://github.com/tachibana-shin/rakuyomi" /> | :lin::material-symbols-chrome-reader-mode-outline: |
 | [Okular](https://okular.kde.org/) | :win::lin: |
 | [Readest](https://readest.com/) [:gh:](https://github.com/readest/readest) | :win::app::lin: |
 | [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) [:gh:](https://github.com/sumatrapdfreader/sumatrapdf) | :win: |

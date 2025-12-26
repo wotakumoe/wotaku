@@ -67,10 +67,10 @@ Usenet is a subscription-based service. Though really old, it's still very relia
 
 :::details What is seedbox & debrid service?
 ### Seedbox
-A seedbox is a remote service that can download (leech) & upload (seed) from p2p networks. Since it's always online, it keeps the torrents alive, thus helping you keep a high ratio in [PTs](#pt-private-tracker). Examples: [Ultra.cc](https://ultra.cc/), [RapidSeedbox](https://www.rapidseedbox.com/) & [Pulsed Media](https://pulsedmedia.com/).
+A seedbox is a remote service that can download (leech) & upload (seed) from p2p networks. Since it's always online, it keeps the torrents alive, thus helping you keep a high ratio in [**PTs**](#pt-private-tracker). Examples: [**Ultra.cc**](https://ultra.cc/), [**RapidSeedbox**](https://www.rapidseedbox.com/) & [**Pulsed Media**](https://pulsedmedia.com/).
 
 ### Debrid
-Like a seedbox, it's also a remote service. It can download from p2p and various host sites (e.g. [MEGA](https://mega.io/), [RapidGator](https://rapidgators.net/)). One of the big differences is that they (generally) don't seed p2p files and keep the downloaded files cached on their servers, meaning you can download currently dead torrents that have already been cached in the past. Example: [AllDebrid](https://alldebrid.com/) & [Debrid-Link](https://debrid-link.com/).
+Like a seedbox, it's also a remote service. It can download from p2p and various host sites (e.g. [**MEGA**](https://mega.io/), [**RapidGator**](https://rapidgators.net/)). One of the big differences is that they (generally) don't seed p2p files and keep the downloaded files cached on their servers, meaning you can download currently dead torrents that have already been cached in the past. Example: [**AllDebrid**](https://alldebrid.com/) & [**Debrid-Link**](https://debrid-link.com/).
 
 :::
 
@@ -82,7 +82,7 @@ Like a seedbox, it's also a remote service. It can download from p2p and various
 <br>
 
 :::details Where can I get the highest quality manga releases?
-[Nyaa.si](https://nyaa.si/), [:f: /co/](https://boards.4chan.org/co/) & [Madokami](/guides/manga/madokami). Manga image quality depends on the [**source**](/guides/manga/comicinfo) and how it's been ripped, with volume release usually being better than [**CaaS**](/glossary/manga#publisher) release. If you want to download officially translated manga, [**Nyaa**](https://nyaa.si/) is always the best source, though some of the rippers upload upscaled SD rips. 
+[**Nyaa.si**](https://nyaa.si/), [:f: /co/](https://boards.4chan.org/co/) & [**Madokami**](/guides/manga/madokami). Manga image quality depends on the [**source**](/guides/manga/comicinfo) and how it's been ripped, with volume release usually being better than [**CaaS**](/glossary/manga#publisher) release. If you want to download officially translated manga, [**Nyaa**](https://nyaa.si/) is always the best source, though some of the rippers upload upscaled SD rips. 
 
 We have listed the most trusted rippers in the [**Nyaa section**](/websites#nyaa). Madokami mainly mirrors the nyaa releases.
 :::
@@ -101,7 +101,7 @@ Rippers upload what they like, without following any specific schedule (even in 
 [**Perfect viewer**](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer). Why? Because it has better scaling algorithm than others (including Tachiyomi / Mihon). But you wont get the luxury of directly reading from online sources in Perfect viewer. So, you have to balance between the sources.
 
 ### iOS
-[**YACReader**](https://apps.apple.com/app/id635717885) is recommended as local reader. You can use [Paperback](https://github.com/Paperback-iOS/app) as your komga or kavita client and [Aidoku](https://github.com/Aidoku/Aidoku) as an online reader.
+[**YACReader**](https://apps.apple.com/app/id635717885) is recommended as local reader. You can use [**Paperback**](https://github.com/Paperback-iOS/app) as your komga or kavita client and [**Aidoku**](https://github.com/Aidoku/Aidoku) as an online reader.
 
 ### PC
 There are a few options. [**CDisplayEx**](https://www.cdisplayex.com/), [**YACReader**](https://www.yacreader.com/), [**MComix**](https://sourceforge.net/projects/mcomix/files/). You should give them a try and see which ones works the best for you. There is also [**OpenComic**](https://github.com/ollm/OpenComic) which is really good for long strip comic.
@@ -152,7 +152,7 @@ The quality of the anime file depends on the [**source**](/glossary/anime#source
 
 <br>
 
-On the other hand, aggregators like [AnimeKai](https://animekai.to/home), [**KickassAnime**](https://kickass-anime.ru/) & [**HiAnime**](https://hianime.to/home) re-encode them further. They sacrifice some of the quality in favor of smaller file sizes, thereby maintaining a smoother user experience on their sites.
+On the other hand, aggregators like [**AnimeKai**](https://animekai.to/home), [**KickassAnime**](https://kickass-anime.ru/) & [**HiAnime**](https://hianime.to/home) re-encode them further. They sacrifice some of the quality in favor of smaller file sizes, thereby maintaining a smoother user experience on their sites.
 
 <br>
 
@@ -179,8 +179,8 @@ For android, there is also [mpvKt](https://github.com/abdallahmehiz/mpvKt) but t
 
 :::details What's the best source for anime songs / OST?
 - [**Nyaa**](https://nyaa.si/) has a huge library of OST and is the best place to get them. Submitters upload both lossy and lossless versions from different sources such as digital album purchase, CD or Vinyl. 
-- [SquidBoard](https://www.squid-board.org/) & [**Sukidesu OST**](https://sukidesuost.info/) upload ripped music from hi-res sources.
-- Most of the current anime songs (sometime background scores too) are uploaded on legal music streaming services. You can rip from these services using [Squid.wtf](https://squid.wtf/) and [DoubleDouble](https://doubledouble.top/), which can rip multiple hi-res sources.
+- [**SquidBoard**](https://www.squid-board.org/) & [**Sukidesu OST**](https://sukidesuost.info/) upload ripped music from hi-res sources.
+- Most of the current anime songs (sometime background scores too) are uploaded on legal music streaming services. You can rip from these services using [**Squid.wtf**](https://squid.wtf/) and [**DoubleDouble**](https://doubledouble.top/), which can rip multiple hi-res sources.
 - You can also check out [**Nicotine+**](https://nicotine-plus.org/), a [**Soulseek**](https://www.slsknet.org/) client. People share their downloaded/own rips here. It uses P2P to transfer files, so a VPN is recommended. You may find really old or rare ones.
 - More sources are listed [**here**](/websites#music). If you want more ripping tools, you can check out more ripping tools in [others section](/music#downloader).
 :::
