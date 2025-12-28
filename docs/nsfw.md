@@ -150,7 +150,7 @@ og:
 :::
 
 ::: info NSFW Glossary
-Not sure what the Japanese term means when browsing? Check out the [**nsfw glossary**](/glossary/nsfw)
+Not sure what the Japanese term means when browsing? Check out the [**nsfw glossary**](/glossary/nsfw).
 :::
 
 
