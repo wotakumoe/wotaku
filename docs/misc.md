@@ -294,7 +294,7 @@ ___
 - [Kitsune Starter Guide](https://okami.icu/)
 - [Subarashii Tutorial](https://subarashii-no-fansub.github.io/Subbing-Tutorial/)
 - [Unanimated](https://unanimated.github.io/guides.htm)
-- [Yukisubs](https://yukisubs.wordpress.com/guides/)
+- [Yuki Subs](https://yukisubs.wordpress.com/guides/)
 - [Zeriyu's Fansub Guide](https://github.com/zeriyu/fansub-guide)
 - :more: [Fansubbing tools](/tools#video-tools)
 

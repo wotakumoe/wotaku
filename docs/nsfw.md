@@ -140,6 +140,7 @@ og:
 ### Legal
 - [Denpasoft](https://denpasoft.com/)
 - [DLsite](https://www.dlsite.com/)
+  - [DLwatcher](https://dlwatcher.com/)
 - [FAKKU](https://www.fakku.net/games)
 - [JAST](https://jastusa.com/)
 - [Johren](https://www.johren.games/)
