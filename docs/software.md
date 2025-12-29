@@ -217,7 +217,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 | [Hayase](https://hayase.watch/) :s: [:gh:](https://github.com/hayase-app) [:e:](/guides/ext/misc#hayase) | :win::app::lin: | :mag::material-symbols-newspaper-rounded: | :mal::al::k: |
 | [Stremio](https://www.stremio.com/) | :win::app::lin: | :mag::ddl: | :mal::al::k::simkl: |
 | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi) | :win::app::lin: | :mag::ddl: | :mal::al::k: |
-| [Seanime](https://seanime.app/) | :win::app::lin: | :mag::ddl: | :al: |
+| [Seanime](https://seanime.app/) | :win::app::lin: | :mag::ddl: | :mal::al::k::simkl: |
 | [Unyo](https://github.com/K3vinb5/Unyo) | :win::app::lin: | :ddl: | :al: |
 | [AnymeX](https://anymex.vercel.app/) [:gh:](https://github.com/RyanYuuki/AnymeX) [:e:](/guides/ext/mangayomi) | :win::app::lin: | :ddl: | :mal::al::simkl: |
 
