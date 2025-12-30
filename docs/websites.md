@@ -222,8 +222,7 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 | [Like Manga](https://likemanga.in) [:alt:](https://likemanga.ink/) | :mingcute-refresh-2-fill: | :ic-round-mode-comment: |
 | [Manga Fox](https://mangafox.la/) [:prx:](https://rentry.org/wotaxy#manga-fox) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
 | [MangaKakalot](https://www.mangakakalot.gg/) [:prx:](https://rentry.org/wotaxy#mangakakalot) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
-| [MangaBin](https://mangabin.com/) `Manhua` | :mingcute-user-2-fill: | :no: |
-| [SumManga](https://summanga.com/) `Manhua` | :mingcute-user-2-fill: | :no: |
+| [24hNovel](https://24hnovel.com/) `Manhua` | :mingcute-user-2-fill: | :no: |
 :::
 
 ::: details Scrapers
