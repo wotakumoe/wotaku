@@ -59,6 +59,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [Privateersclub](https://discord.gg/jz8dUnnD6Q)
 - [Scanner Usage School](https://discord.gg/NCzxVB9)
 - [Sho Habby Scans](https://discord.gg/GdV76sQs7d)
+- [Sitting on Clouds](https://discord.gg/x23SFbE)
 - [Sonic Zone](https://discord.gg/bj5vmb96YT)
 - [SquidBoard](https://discord.gg/yuvnx7FS89)
 - [SubsPlease](https://discord.gg/33Hxdas)
