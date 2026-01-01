@@ -22,7 +22,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 ## Discord servers
 
 ### A-G
-- [ACE SCANS](https://discord.gg/e5kFjW8u3Q)
+- [ACE Scans](https://discord.gg/e5kFjW8u3Q)
 - [AGR Community](https://discord.gg/YjuSSE273C)
 - [r/Anime](https://discord.gg/r-anime)
 - [Anime UK News](https://discord.gg/014sRKGzuUPGPpYRa)
@@ -49,7 +49,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [Laughing in Quarantine](https://discord.gg/x6AuGp7)
 - [LHTranslation](https://discord.gg/wxVRX4j)
 - [r/Manga](https://discord.gg/manga)
-- [Manga Groups Portal](https://discord.gg/9KGMzP2)
+- [Manga Groups Hub](https://discord.gg/9KGMzP2)
 - [MangaKatana](https://discord.gg/bXfTCCtdXQ)
 - [Manga Piracy](https://discord.gg/ZgMtAyxFSU)
 - [Mihon](https://discord.gg/mihon)

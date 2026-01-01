@@ -737,7 +737,7 @@ ___
 - [TruyenQQ](https://truyenqqgo.com/)
 - [Truyen Sieuhay](https://truyensieuhay.com/)
 - [TruyenTranh3Q](https://truyentranh3qc.com/)
-- [VlogTruyen](https://vlogtruyen57.com/)
+- [VlogTruyen](https://vlogtruyen58.com/)
 
 ### Hentai
 - [DuaLeoTruyen](https://dualeotruyenjd.com/)
