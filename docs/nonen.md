@@ -736,13 +736,12 @@ ___
 - [TopTruyen](https://www.toptruyentv11.com/)
 - [TruyenQQ](https://truyenqqgo.com/)
 - [Truyen Sieuhay](https://truyensieuhay.com/)
-- [TruyenTranh3Q](https://truyentranh3qc.com/)
 - [VlogTruyen](https://vlogtruyen58.com/)
 
 ### Hentai
 - [DuaLeoTruyen](https://dualeotruyenjd.com/)
 - [HentaiCube](https://hentaicube.xyz/)
-- [HentaiVN](https://hentaivn.party/)
+- [HentaiVN](https://hentaivn.cheap/)
 - [KuroNeko](https://vi-hentai.com/)
 - [TruyenHentaiVN](https://truyenhentaivn.club/)
 
@@ -766,7 +765,7 @@ ___
 |-|-|
 | General | [Hoyomi](https://github.com/tachibana-shin/hoyomi) |
 | Anime | [Anime VSub](https://app.animevsub.eu.org/) [:gh:](https://github.com/anime-vsub/app) |
-| Comics | [TruyenDex](https://truyendex.xyz/) [:gh:](https://github.com/zennomi/truyendex) |
+| Comics | [TruyenDex](https://truyendex.cc/) [:gh:](https://github.com/zennomi/truyendex) |
 
 #### iOS
 
