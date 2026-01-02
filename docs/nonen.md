@@ -684,7 +684,7 @@ ___
 - [Acheriya](https://acheriya.com/)
 - [Anizm](https://anizm.net/)
 - [TRanimeizle](https://www.tranimeizle.co/)
-- [Turk Anime](https://www.turkanime.co/)
+- [Türk Anime TV](https://www.turkanime.tv/)
 
 ### Manga
 - [Manga-TR](https://manga-tr.com/index.html)
