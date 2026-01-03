@@ -85,9 +85,9 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 
 
 ### Local
+- [Readest](https://readest.com/) :s: [:gh:](https://github.com/readest/readest)
 - [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) :fm::cs:
 - [ReadEra](https://play.google.com/store/apps/details?id=org.readera) :fm::cs:
-- [Readest](https://readest.com/) [:gh:](https://github.com/readest/readest)
 - [Librera Reader](https://github.com/foobnix/LibreraReader)
 - [Lithium: EPUB Reader](https://www.apkmirror.com/apk/faultexception/lithium-epub-reader/) :cs:
 - [Book's Story](https://github.com/Acclorite/book-story)
@@ -189,7 +189,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 
 ## Novel Readers
 - [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi)
-- [Readest](https://readest.com/) [:gh:](https://github.com/readest/readest) :paid::lcl:
+- [Readest](https://readest.com/) [:gh:](https://github.com/readest/readest) :lcl:
 - [Yomu](https://www.yomu-reader.com/) :paid::cs::lcl:
 
 ## Trackers
