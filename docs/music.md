@@ -129,7 +129,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [Digger](https://digger-ui.vercel.app/) | Tidal |
 | [Monochrome](https://monochrome.samidy.com/) | Tidal |
 | [QQDL](https://qqdl.site/) | Tidal |
-| [Apple Music Downloader](https://aaplmusicdownloader.com/) ==amdl== | Apple Music (Lossy) |
+| [Apple Music Downloader](https://am-dl.pages.dev/) | Apple Music |
 
 ## Doujin
 
