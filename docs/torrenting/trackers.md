@@ -41,7 +41,7 @@ og:
 | ^^          | [Bemaniso](https://bemaniso.ws/)                                         |
 | ^^          | [Aidoru](https://aidoru-online.me/)                                      |
 | NSFW        | [ExoticaZ](https://exoticaz.to/) [:d:](https://discord.gg/GYahYNWutE)    |
-| ^^          | [Empornium](https://www.empornium.is/)                                   |
+| ^^          | [Empornium](https://www.empornium.sx/)                                   |
 
 ::: details Related resources
 - [InstallGentoo Wiki](https://igwiki.lyci.de//wiki/Private_trackers) :s:
