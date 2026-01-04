@@ -38,6 +38,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **BuiBui** | [Towa meme laugh](https://x.com/k_e_cttp/status/1788708044228223415) | iOS Extension repos link embed |
 | **Capcom** | [Phoenix Wright](https://news.capcomusa.com/lets/browse/phoenix-wright-ace-attorney-trilogy-dev-column-2-the-art-of-the-turnabout) | [Legal banner](/websites#legal) |
 | **ChristieDA** | [Headphone Anime Girl Render](https://www.deviantart.com/christieda/art/Headphone-Anime-Girl-Render-611521170) | [Audio glossary banner](/glossary/audio#audio-file-1) |
+| **Deimiler** | [Gif Scribbles - Aubrey](https://www.newgrounds.com/art/view/deimiler/gif-scribbles-aubrey) | Discord server icon |
 | **돌만 (Dollman)** | [TAK [mochimochi] :dango:](https://x.com/TAK_DRDR/status/1827994397784657986) | Software link embed |
 | **Erik Larsen** | [Spawn](https://antiheroes.fandom.com/wiki/Spawn) | [Comics banner](/websites#comics) |
 | **Eyeye** | [Futaba-chan](https://www.pixiv.net/en/artworks/115469094) | FAQs link embed |
@@ -60,7 +61,6 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **megamiceto** | [Brazilian Miku](https://x.com/megamiceto/status/1826372184731955667) | Non-English link embed |
 | **MeLonPanz** | [sharkkkkkk !!!](https://www.pixiv.net/en/artworks/86516526) | [Favicon](/) |
 | **Mogudan** | [Mogudan Illust Works](https://www.fakku.net/hentai/mogudan-illust-works-english) | [NSFW banners](/nsfw) |
-| **なかゥま (NAKAuMA)** | [Frieren](https://x.com/NAKA_u_MA/status/1976599561096568835) | Discord server icon |
 | **neggo** | [extra tips](https://x.com/neggoartz/status/1834776522801971603) | Torrent link embed |
 | **pantsu_ripper** | [lain/rei](https://x.com/pantsu_ripper/status/1575844099688497153) | Squidify link embed |
 | **queasyS** | [Ishtar and Ereshkigal - FGO](https://www.pixiv.net/en/artworks/112928609) | NSFW link embed |
@@ -98,15 +98,17 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Himeliofon**              | [Ninomae Ina’nis back](https://x.com/hmlf_/status/1581015485524545536)                             | NSFW banner         |
 | **Holocure**                | [Ninomae Ina’nis idle](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/)        | Favicon             |
 | **HoYoLAB**                 | [Tanuki sticker](https://genshin-impact.fandom.com/wiki/Bake-Danuki)                               | Japan banner        |
-| **けけ (keke)** | [Halloween girl](https://keke-i.tumblr.com/post/666805124273930240) | Discord server icon |
+| **Keiichi Arawi** | [Professor Shinonome & Sakamoto](https://x.com/himaraya/status/1871442256919687493) | Discord Christmas icon |
+| **けけ (keke)** | [Halloween girl](https://keke-i.tumblr.com/post/666805124273930240) | Discord Halloween icon |
 | **Kukie-Nyan** | [FUWAMOCO pointing meme](https://x.com/Kukie_nyan/status/1687668480278228992) | Domain change banner |
 | **Kyoto Animation**         | [Mio Naganohara](https://www.zerochan.net/520314)                                                  | Random banner       |
 | **how-dee**                 | [Ninomae Ina’nis padoru](https://www.reddit.com/r/Padoru/comments/iu6jvx/ninomae_inanis_hololive/) | Home art & Favicon  |
-| **しらび (Shirabi)**        | [Artoria Pendragon](https://www.pixiv.net/en/artworks/60495690)                                    | Fate banner         |
 | **森倉円 (Morikura En)**    | [Kizuna Ai Profile Art](https://en.namu.wiki/w/%ED%82%A4%EC%A6%88%EB%82%98%20%EC%95%84%EC%9D%B4)   | Vtuber banner       |
+| **なかゥま (NAKAuMA)** | [Frieren](https://x.com/NAKA_u_MA/status/1976599561096568835) | Discord server icon |
 | **Ninomae Ina’nis**         | [Ninomae Ina’nis reading](https://x.com/ninomaeinanis/status/1340047328963510273)                  | Glossary banner     |
 | ^^         | [Ninomae Ina’nis WAHU WAHU](https://x.com/ninomaeinanis/status/1652829909218373632)                | Button              |
 | **Saeki Yahiro** | [Hoshimachi Suisei Profile Art](https://hololive.hololivepro.com/en/talents/hoshimachi-suisei/) | Vtuber banner |
+| **しらび (Shirabi)**        | [Artoria Pendragon](https://www.pixiv.net/en/artworks/60495690)                                    | Fate banner         |
 | **Takashi Takeuchi**        | [Shiki Ryougi](https://danbooru.donmai.us/posts/2671155)                                           | Fate banner         |
 | **てのべ (Tenobe)**         | [Enkidu](https://www.pixiv.net/en/artworks/67902495)                                               | Fate banner         |
 | **Takeshi Obata**           | [Moritaka Mashiro](https://konachan.com/post/show/71470)                                           | Scanlation link embed |
