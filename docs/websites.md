@@ -30,6 +30,7 @@ outline: 1
 | [HiAnime](https://hianime.to/home) ==Zoro== | :mingcute-server-fill: | :mingcute-user-2-fill: | :cc: |
 | [Sudatchi](https://sudatchi.com/) ==Sudatchi== | :mingcute-server-fill: | :mingcute-refresh-2-fill: | :cc: |
 | [AniZone](https://anizone.to/) ==AniZone== | :mingcute-server-fill: | :no: | :cc: |
+| [SnowStream](https://snowstream.vercel.app) ==SnowStream== | :mingcute-server-fill: | :no: | :cc: |
 
 :::details More
 
