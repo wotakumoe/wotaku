@@ -296,7 +296,7 @@ og:
   - [AnimeLok](https://animelok.to/home)
   - [Anime Joker](https://animejoker.com/)
   - [Anime World India](https://watchanimeworld.in/)
-  - [Dora Bash](https://dorabash.com/)
+  - [Dora Bash](https://dorabash.in/)
   - [ToonStream](https://toonstream.love/)
 - **DDL**
   - [ATOZ CARTOONIST](https://www.atozcartoonist.com/)

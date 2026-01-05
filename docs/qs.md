@@ -49,7 +49,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | ^^         | [Weeb Central](https://weebcentral.com/) |
 | **Download**  | [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap) |
 | ^^         | [Madokami](https://manga.madokami.al) :s: [:help:](/guides/manga/madokami) |
-| ^^         | [Library Genesis+](https://libgen.li/) [:prx:](https://open-slum.pages.dev/) |
+| ^^         | [Library Genesis+](https://libgen.gl/) [:prx:](https://open-slum.pages.dev/) |
 
 ### Software
 
