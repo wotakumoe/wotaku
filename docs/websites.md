@@ -272,7 +272,7 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 | Category      | Website |
 |--------------|----------------------------------------------------------------------------------|
 | **Aggregators** | [Madokami](https://manga.madokami.al) :s: [:help:](/guides/manga/madokami) |
-| ^^           | [Anna's Archive](https://annas-archive.li/) [:prx:](https://open-slum.pages.dev/) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" /> |
+| ^^           | [Anna's Archive](https://annas-archive.li/) [:prx:](https://rentry.org/wotaslap) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" /> |
 | ^^           | [Desuarchive](https://desuarchive.org/) :f: <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" /> |
 | ^^           | [Library Genesis+](https://libgen.li/) [:prx:](https://rentry.org/wotaslap) |
 | ^^           | [The Manga Library](https://rentry.org/wotadirect#websites) |
@@ -363,7 +363,7 @@ To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/k
 | ^^              | [JNovel Codex](https://jnovelcodex.web.app/index.html) |
 | ^^              | [Kureha One](http://www.vn-meido.com/k1/index.php?board=17.0) ==kureha== |
 | ^^              | [Madokami](https://manga.madokami.al) [:help:](/guides/manga/madokami) |
-| ^^              | [Anna’s Archive](https://annas-archive.li/) [:prx:](https://rentry.org/wotaslap) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" /> |
+| ^^              | [Anna's Archive](https://annas-archive.li/) [:prx:](https://rentry.org/wotaslap) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" /> |
 | ^^              | [Library Genesis+](https://libgen.li/) [:prx:](https://rentry.org/wotaslap) |
 | ^^              | [Z-Library](https://z-library.ec/) [:prx:](https://rentry.org/wotaslap) |
 
