@@ -250,6 +250,7 @@ og:
 ### Info / News
 - [aniSearch](https://www.anisearch.de/)
 - [Manga Passion](https://www.manga-passion.de/)
+- [The Incomplete Manga-Guide](https://mangaguide.de/)
 
 ### Software
 - [Anime/Series Scraper](https://github.com/wolfswolke/aniworld_scraper)
