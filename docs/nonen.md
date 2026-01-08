@@ -300,6 +300,7 @@ og:
   - [Dora Bash](https://dorabash.in/)
   - [ToonStream](https://toonstream.love/)
 - **DDL**
+  - [AnimeVilla](https://animevilla.in/) :ero:
   - [ATOZ CARTOONIST](https://www.atozcartoonist.com/)
   - [PikaHD](https://pikahd.com/)
   - [Puretoons](https://puretoons.in/)
