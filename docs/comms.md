@@ -30,6 +30,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [Atsumaru](https://discord.gg/Tj4QmEF4uV)
 - [Boredom Society](https://discord.gg/NNS8cRR)
 - [Circle](https://discord.gg/85KtgSjkJJ)
+- [Colored Council](https://discord.gg/ajXTqdqv9P)
 - [Crunchyroll](https://discord.gg/crunchyroll)
 - [Danke fürs Lesen](https://discord.gg/nxkDPvDhgv)
 - [DigimonBasic](https://discord.gg/B3RXtnXRSG)
