@@ -396,7 +396,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Manga RAW (.ad)](https://mangarawad.live/)
 - [Manga RAW (.best)](https://mangaraw.best/)
 - [MangarawJP](https://mangarawjp.me/)
-- [MangaReader](https://mangareader.to/home)
 - [Pixiv Comics](https://comic.pixiv.net/)
 - [RAW 1001](https://raw1001.net/home) [:prx:](https://rentry.org/wotaxy#raw1001)
 - [Rawkuma](https://rawkuma.net/)
@@ -449,7 +448,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | Group | Website | Type |
 |-|-|-|
 | [KORSITE](https://korsite.net/) | [TOONKOR](https://tkor013.com/%EC%9B%B9%ED%88%B0) | Manhwa :ero: |
-| ^^                              | [Funbe](https://funbe527.com/%EC%9B%B9%ED%88%B0)  | ^^ |
+| ^^                              | [Funbe](https://funbe603.com/%EC%9B%B9%ED%88%B0)  | ^^ |
 | ^^                              | [Annie24](https://ohli24.net/) [:prx:](https://rentry.org/wotaxy#annie24)   | Anime  |
 | Toki | [NEWTOKI](https://newtoki468.com/) | Manhwa :ero: |
 | ^^                                      | [Manatoki](https://manatoki468.net/) | Manga :ero: |

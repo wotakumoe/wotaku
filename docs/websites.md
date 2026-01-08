@@ -216,7 +216,6 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 | [MangaTaro](https://mangataro.org/home) | :mingcute-refresh-2-fill: | :ic-round-mode-comment: |
 | [WeebDex](https://weebdex.org/) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
 | [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
-| [MangaReader](https://mangareader.to/home) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
 | [Mangahub](https://mangahub.io/) :acc: | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
 | [Dynasty Reader](https://dynasty-scans.com/) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-forum: |
 | [Like Manga](https://likemanga.in) [:alt:](https://likemanga.ink/) | :mingcute-refresh-2-fill: | :ic-round-mode-comment: |

@@ -11,7 +11,6 @@ og:
 | Category  | Websites |
 |-----------|----------|
 | Alt viewer | [Holodex](https://holodex.net/) :s: [:gh:](https://github.com/HolodexNet/Holodex) |
-| ^^         | [VTGrid](https://vt-grid.com/) :fjp: |
 | ^^         | [Amatsukaze](https://amatsukaze.rl404.com/) [:gh:](https://github.com/rl404/amatsukaze) |
 | Archive    | [Ragtag Archive](https://archive.ragtag.moe/) [:gh:](https://github.com/ragtag-archive) |
 | ^^         | [Patchwork Archive](https://patchwork.moekyun.me/) [:gh:](https://github.com/Patchwork-Archive/) |
