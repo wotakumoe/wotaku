@@ -52,4 +52,4 @@ og:
 ## LNReader
 | Name | Region | Auto | Manual |
 | - | - | - | - |
-| [Official](https://www.lnreader.app/plugins) [:gh:](https://github.com/LNReader/lnreader-plugins) | :global: | [Install](lnreader://repo/add?url=https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v3.0.0/.dist/plugins.min.json) | [URL](https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v3.0.0/.dist/plugins.min.json) |
+| [Official](https://www.lnreader.app/plugins) [:src:](https://github.com/LNReader/lnreader-plugins) | :global: | [Install](lnreader://repo/add?url=https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v3.0.0/.dist/plugins.min.json) | [URL](https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v3.0.0/.dist/plugins.min.json) |

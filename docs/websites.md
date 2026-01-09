@@ -226,7 +226,7 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 
 ::: details Scrapers
 - [Cubari Proxy](https://proxy.cubari.moe/#/) ==cubari==
-- [Akari Manga](https://akarimanga.dpdns.org/) [:gh:](https://github.com/sn0w12/akari) ==akari==
+- [Akari Manga](https://akarimanga.dpdns.org/) [:src:](https://github.com/sn0w12/akari) ==akari==
 - [Vidbox](https://vidbox.cc/manga) ==vidbox==
 :::
 
@@ -472,7 +472,7 @@ To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/k
 | ^^                     | [The Comics Journal](https://www.tcj.com/) |
 | **Tracker**            | [Comic Vine](https://comicvine.gamespot.com/) |
 | ^^                     | [League of Comic Geeks](https://leagueofcomicgeeks.com/) |
-| **Tools**              | [Kapowarr](https://casvt.github.io/Kapowarr/) [:gh:](https://github.com/Casvt/Kapowarr) |
+| **Tools**              | [Kapowarr](https://casvt.github.io/Kapowarr/) [:src:](https://github.com/Casvt/Kapowarr) |
 | ^^                     | [Mylar3](https://github.com/mylar3/mylar3) |
 
 ![](/banner/wlegal.webp)

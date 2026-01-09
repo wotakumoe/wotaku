@@ -24,7 +24,7 @@ For game [**downloads**](https://megathread.pages.dev/download) and [**emulation
 - [4Gamer](https://www.4gamer.net/) :fjp:
 - [Famitsu](https://www.famitsu.com/) :fjp:
 - [Frontline](https://www.frontlinejp.net/)
-- [GachaRevenue](https://www.gacharevenue.com/) [:gh:](https://github.com/zigamacele/gacharevenue)
+- [GachaRevenue](https://www.gacharevenue.com/) [:src:](https://github.com/zigamacele/gacharevenue)
 - [Gematsu](https://www.gematsu.com/)
 - [Siliconera](https://www.siliconera.com/)
 - [RPGFan](https://www.rpgfan.com/) 
@@ -54,17 +54,17 @@ For game [**downloads**](https://megathread.pages.dev/download) and [**emulation
 
 ### Misc
 - [Arks-Layer](https://arks-layer.com/index.php)
-- [Collapse Launcher](https://collapselauncher.com/) [:gh:](https://github.com/CollapseLauncher/Collapse)
+- [Collapse Launcher](https://collapselauncher.com/) [:src:](https://github.com/CollapseLauncher/Collapse)
 - [Hoyolab Auto-sign](https://github.com/canaria3406/hoyolab-auto-sign)
 - [Locale Emulator](https://github.com/xupefei/Locale-Emulator)
 - [Locale Remulator](https://github.com/InWILL/Locale_Remulator)
 - [Megami Tensei Fusion Tools](https://aqiu384.github.io/megaten-fusion-tool/home)
-- [Playnite](https://playnite.link/) [:gh:](https://github.com/JosefNemec/Playnite/)
-- [Sekai Viewer](https://sekai.best/) [:gh:](https://github.com/Sekai-World/sekai-viewer)
+- [Playnite](https://playnite.link/) [:src:](https://github.com/JosefNemec/Playnite/)
+- [Sekai Viewer](https://sekai.best/) [:src:](https://github.com/Sekai-World/sekai-viewer)
 - [sm64coopdx](https://sm64coopdx.com/)
 - [Starward](https://github.com/Scighost/Starward)
 - [WuWa Tracker](https://wuwatracker.com/)
-- [XIVLauncher](https://goatcorp.github.io/) [:gh:](https://github.com/goatcorp/FFXIVQuickLauncher)
+- [XIVLauncher](https://goatcorp.github.io/) [:src:](https://github.com/goatcorp/FFXIVQuickLauncher)
 
 ### OCR
 - [Agent](https://github.com/0xDC00/agent)
@@ -74,7 +74,7 @@ For game [**downloads**](https://megathread.pages.dev/download) and [**emulation
 ## osu!
 
 ### Websites
-- [osu!](https://osu.ppy.sh/) [:gh:](https://github.com/ppy/osu) <Badge type="info" text="Official" />
+- [osu!](https://osu.ppy.sh/) [:src:](https://github.com/ppy/osu) <Badge type="info" text="Official" />
 - [Anisync](https://anisync.live/)
 - [BeatConnect](https://beatconnect.io/)
 - [osu.direct](https://osu.direct/home)
@@ -83,7 +83,7 @@ For game [**downloads**](https://megathread.pages.dev/download) and [**emulation
 - [osu!next Signature Generator](https://lemmmy.pw/osusig/)
 - [osu-pps](https://osu-pps.com)
 - [o!rdr](https://ordr.issou.best/)
-- [Web osu!mania](https://webosumania.com/) [:gh:](https://github.com/HecticKiwi/Web-Osu-Mania)
+- [Web osu!mania](https://webosumania.com/) [:src:](https://github.com/HecticKiwi/Web-Osu-Mania)
 
 ### Tools
 - [ani!Search](https://klof44.ca/ani-search/)
@@ -91,7 +91,7 @@ For game [**downloads**](https://megathread.pages.dev/download) and [**emulation
 - [osu! Cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner) :win:
 - [osu! Trainer](https://github.com/FunOrange/osu-trainer) :win:
 - [sentakki](https://github.com/LumpBloom7/sentakki) :win::app::lin:
-- [Tau Ruleset](https://taulazer.github.io/) :win: [:gh:](https://github.com/taulazer/tau)
+- [Tau Ruleset](https://taulazer.github.io/) :win: [:src:](https://github.com/taulazer/tau)
 
 ## Pokémon
 
@@ -117,7 +117,7 @@ For game [**downloads**](https://megathread.pages.dev/download) and [**emulation
 - [Pokémon Revolution](https://pokemonrevolution.net/home)
 - [Pokémon Showdown!](https://play.pokemonshowdown.com/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://dex.pokemonshowdown.com/" />
 - [Pokémon Xenoverse](https://pokemonxenoverse.com/)
-- [PokéRogue](https://pokerogue.net/) [:gh:](https://github.com/pagefaultgames/pokerogue)
+- [PokéRogue](https://pokerogue.net/) [:src:](https://github.com/pagefaultgames/pokerogue)
 - [Who's that Pokémon?](https://gearoid.me/pokemon/)
 
 ### Tools
@@ -170,7 +170,7 @@ For game [**downloads**](https://megathread.pages.dev/download) and [**emulation
 ### Fan Games / Mods
 - [BulletForge](https://www.bulletforge.org/projects)
 - [ShanghaiEXE](https://gitgud.io/SHNecro/shanghaiexe)
-- [Taisei](https://taisei-project.org/) [:gh:](https://github.com/taisei-project/taisei)
+- [Taisei](https://taisei-project.org/) [:src:](https://github.com/taisei-project/taisei)
 - [Touhou Hisoutensoku](https://soku.delthas.fr/)
 - [Touhou Fan Game Jam BLM](https://nitori.itch.io/touhou-jam-blm)
 - [Touhou Music Room](https://touhoumusicroom.com/)
@@ -178,17 +178,17 @@ For game [**downloads**](https://megathread.pages.dev/download) and [**emulation
 
 ### Game Tools
 - [Game Tools and Modifications](https://en.touhouwiki.net/wiki/Game_Tools_and_Modifications)
-- [autopunch](https://autopunch.delthas.fr/) [:gh:](https://github.com/delthas/autopunch)
+- [autopunch](https://autopunch.delthas.fr/) [:src:](https://github.com/delthas/autopunch)
 - [LunarCast Game Replays](http://replay.lunarcast.net/)
 - [Neko Project II](https://nc-roadgeek.neocities.org/mima/pc98-neko)
 - [Touhou Launcher](https://a-digital-project.github.io/launcher/)
 - [Touhou Replay Manager](https://github.com/raviddog/threplay)
-- [Touhou Toolkit](https://thtk.thpatch.net/) [:gh:](https://github.com/thpatch/thtk)
+- [Touhou Toolkit](https://thtk.thpatch.net/) [:src:](https://github.com/thpatch/thtk)
 - [thprac](https://github.com/touhouworldcup/thprac)
 
 ### Others
 - [Fantasy Kaleidoscope ~The Memories of Phantasm~](https://www.youtube.com/playlist?list=PLUGHUFEjeh3FCf6_xeGSIU7bRQBxuO-05)
-- [Touhou Doujinshi Index](https://scarlet.nsk.sh/) [:gh:](https://github.com/nanoskript/touhou-doujinshi-index) <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" />
+- [Touhou Doujinshi Index](https://scarlet.nsk.sh/) [:src:](https://github.com/nanoskript/touhou-doujinshi-index) <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" />
 - **Music**
   - Info / Wiki
     - [THB Wiki](https://thwiki.cc/) :fcn:

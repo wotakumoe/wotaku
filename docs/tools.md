@@ -23,15 +23,15 @@ og:
 | [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) | :yes: | :yes: | :no: | Ads |
 | [Aria2App](https://github.com/devgianlu/Aria2App) | :yes: | :yes: | :yes: | :yes: |
 | [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) ==Flud== | :no: | :yes: | :no: | Ads, theme limit |
-| [Gopeed](https://gopeed.com/) [:gh:](https://github.com/GopeedLab/gopeed) | :yes: | :yes: | :yes: | :yes: |
-| [YTDLnis](https://ytdlnis.org/) [:gh:](https://github.com/deniscerri/ytdlnis) | :yes: | :yes: | :no: | :yes: |
+| [Gopeed](https://gopeed.com/) [:src:](https://github.com/GopeedLab/gopeed) | :yes: | :yes: | :yes: | :yes: |
+| [YTDLnis](https://ytdlnis.org/) [:src:](https://github.com/deniscerri/ytdlnis) | :yes: | :yes: | :no: | :yes: |
 
 ### iOS
 
 | Name | DDL | P2P | FOSS |
 |-|-|-|-|
 | [fGet](https://apps.apple.com/us/app/fget-file-manager-browser/id1582654012) | :yes: | :no: | :no: |
-| [Gopeed](https://gopeed.com/) [:gh:](https://github.com/GopeedLab/gopeed) | :yes: | :yes: | :yes: |
+| [Gopeed](https://gopeed.com/) [:src:](https://github.com/GopeedLab/gopeed) | :yes: | :yes: | :yes: |
 | [iTorrent](https://github.com/XITRIX/iTorrent) | :no: | :yes: | :yes: |
 
 
@@ -42,14 +42,14 @@ og:
 | Category  | Software |
 |-----------|----------|
 | **Local** | [mpvKt](https://github.com/abdallahmehiz/mpvKt) :and: [:n:](https://nightly.link/abdallahmehiz/mpvKt/workflows/nightlies/main) |
-| ^^        | [mpvExtended](https://mpvex.vercel.app/) :and: [:gh:](https://github.com/marlboro-advance/mpvEx) |
+| ^^        | [mpvExtended](https://mpvex.vercel.app/) :and: [:src:](https://github.com/marlboro-advance/mpvEx) |
 | ^^        | ^[MX Player](Don't install the play store version as it was bought by Amazon, use Balatan's mod instead. You can get the codecs from https://mx.j2inter.com/download) :s: :and::cs: |
 | ^^        | [mpv-android](https://github.com/mpv-android/mpv-android) |
 | ^^        | [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) :and: |
 | ^^        | [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) :app::cs: |
-| **Online** | [Revanced](https://revanced.app/) :mdi-youtube::and: [:gh:](https://github.com/ReVanced/revanced-manager) |
-| ^^        | [Libretube](https://libretube.dev/) :mdi-youtube::and: [:gh:](https://github.com/libre-tube/LibreTube) |
-| ^^        | [Grayjay](https://grayjay.app/) :mdi-youtube::mdi-twitch::and: [:gl:](https://gitlab.futo.org/videostreaming/grayjay) |
+| **Online** | [Revanced](https://revanced.app/) :mdi-youtube::and: [:src:](https://github.com/ReVanced/revanced-manager) |
+| ^^        | [Libretube](https://libretube.dev/) :mdi-youtube::and: [:src:](https://github.com/libre-tube/LibreTube) |
+| ^^        | [Grayjay](https://grayjay.app/) :mdi-youtube::mdi-twitch::and: [:src:](https://gitlab.futo.org/videostreaming/grayjay) |
 | ^^        | [uYou+](https://github.com/qnblackcat/uYouPlus) :mdi-youtube::app: |
 | ^^        | [Twire](https://github.com/twireapp/Twire) :mdi-twitch::and: |
 
@@ -59,13 +59,13 @@ og:
 
 | Category  | Websites |
 |-----------|----------|
-| **Store** | [Aurora Store](https://auroraoss.com/) :and: [:gl:](https://gitlab.com/AuroraOSS/AuroraStore) |
+| **Store** | [Aurora Store](https://auroraoss.com/) :and: [:src:](https://gitlab.com/AuroraOSS/AuroraStore) |
 | ^^        | [Neo Store](https://github.com/NeoApplications/Neo-Store) :and: |
 | ^^        | [Droid-ify](https://github.com/Droid-ify/client) :and: |
 | ^^        | [Sideloadly](https://sideloadly.io/) :app::cs: |
-| ^^        | [SideStore](https://sidestore.io/) :app: [:gh:](https://github.com/SideStore/SideStore/) |
+| ^^        | [SideStore](https://sidestore.io/) :app: [:src:](https://github.com/SideStore/SideStore/) |
 | **Misc**  | [APKUpdater](https://github.com/rumboalla/apkupdater) :and: |
-| ^^        | [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) :and: [:gh:](https://github.com/spacecowboy/Feeder) |
+| ^^        | [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) :and: [:src:](https://github.com/spacecowboy/Feeder) |
 | ^^        | [Obtainium](https://github.com/ImranR98/Obtainium) :and: |
 
 
@@ -77,29 +77,29 @@ og:
 
 | Software | OS | DDL | P2P | FOSS |
 |-|-|-|-|-|
-| [AB Download Manager](https://abdownloadmanager.com/) [:gh:](https://github.com/amir1376/ab-download-manager) | :win::lin: | :yes: | :no: | :yes: |
-| [aria2](https://aria2.github.io/) [:gh:](https://github.com/aria2/aria2) | :cmd: | :yes: | :yes: | :yes: |
-| [Deluge](https://www.deluge-torrent.org/) [:gh:](https://github.com/deluge-torrent/deluge) | :win::app::lin: | :no: | :yes: | :yes: |
+| [AB Download Manager](https://abdownloadmanager.com/) [:src:](https://github.com/amir1376/ab-download-manager) | :win::lin: | :yes: | :no: | :yes: |
+| [aria2](https://aria2.github.io/) [:src:](https://github.com/aria2/aria2) | :cmd: | :yes: | :yes: | :yes: |
+| [Deluge](https://www.deluge-torrent.org/) [:src:](https://github.com/deluge-torrent/deluge) | :win::app::lin: | :no: | :yes: | :yes: |
 | [Internet Download Manager](https://www.internetdownloadmanager.com/) | :win: | :yes: | :no: | :no: |
 | [JDownloader](https://jdownloader.org/) | :win::app::lin: | :yes: | :no: | :no: |
-| [qBittorrent](https://www.qbittorrent.org/) [:gh:](https://github.com/qbittorrent/qBittorrent/) | :win::app::lin: | :no: | :yes: | :yes: |
-| [Transmission](https://transmissionbt.com/) [:gh:](https://github.com/transmission/transmission) | :win::app::lin: | :no: | :yes: | :yes: |
+| [qBittorrent](https://www.qbittorrent.org/) [:src:](https://github.com/qbittorrent/qBittorrent/) | :win::app::lin: | :no: | :yes: | :yes: |
+| [Transmission](https://transmissionbt.com/) [:src:](https://github.com/transmission/transmission) | :win::app::lin: | :no: | :yes: | :yes: |
 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | :win::app::lin::cmd: | :yes: | :no: | :yes: |
 
 ::: details More
 | Software | OS | DDL | P2P | FOSS |
 |-|-|-|-|-|
-| [BiglyBT](https://www.biglybt.com/) [:gh:](https://github.com/BiglySoftware/BiglyBT) | :win::app::lin::bsd: | :no: | :yes: | :yes: |
+| [BiglyBT](https://www.biglybt.com/) [:src:](https://github.com/BiglySoftware/BiglyBT) | :win::app::lin::bsd: | :no: | :yes: | :yes: |
 | [Brisk](https://github.com/BrisklyDev/brisk) | :win::app::lin: | :yes: | :no: | :yes: |
-| [File centipede](https://filecxx.com/en_US/index.html) [:gh:](https://github.com/filecxx/FileCentipede) | :win::lin: | :yes: | :yes: | :yes: |
-| [Gopeed](https://gopeed.com/) [:gh:](https://github.com/GopeedLab/gopeed) | :win::app::lin: | :yes: | :yes: | :yes: |
+| [File centipede](https://filecxx.com/en_US/index.html) [:src:](https://github.com/filecxx/FileCentipede) | :win::lin: | :yes: | :yes: | :yes: |
+| [Gopeed](https://gopeed.com/) [:src:](https://github.com/GopeedLab/gopeed) | :win::app::lin: | :yes: | :yes: | :yes: |
 | [ImFile](https://github.com/imfile-io/imfile-desktop/) | :win::app: | :yes: | :yes: | :yes: |
-| [libtorrent](https://www.libtorrent.org/index.html) [:gh:](https://github.com/arvidn/libtorrent) | :cmd: | :no: | :yes: | :yes: |
+| [libtorrent](https://www.libtorrent.org/index.html) [:src:](https://github.com/arvidn/libtorrent) | :cmd: | :no: | :yes: | :yes: |
 | [Media Downloader](https://github.com/mhogomchungu/media-downloader) | :win::app::lin: | :yes: | :yes: | :yes: |
 | [MegaBasterd](https://github.com/tonikelope/megabasterd) | :win::app::lin: | :yes: | :no: | :yes: |
-| [Persepolis](https://persepolisdm.github.io/) [:gh:](https://github.com/persepolisdm/persepolis) | :win::app::lin: | :yes: | :no: | :yes: |
+| [Persepolis](https://persepolisdm.github.io/) [:src:](https://github.com/persepolisdm/persepolis) | :win::app::lin: | :yes: | :no: | :yes: |
 | [TIXATI](https://www.tixati.com/) | :win::lin: | :no: | :yes: | :no: |
-| [Xtreme Download Manager](https://xtremedownloadmanager.com/) [:gh:](https://github.com/subhra74/xdm) | :win::app::lin: | :yes: | :no: | :yes: |
+| [Xtreme Download Manager](https://xtremedownloadmanager.com/) [:src:](https://github.com/subhra74/xdm) | :win::app::lin: | :yes: | :no: | :yes: |
 :::
 
 #### Related resources
@@ -130,13 +130,13 @@ og:
 - [IrfanView](https://www.irfanview.com/) :cs:
 - [XnView MP](https://www.xnview.com/en/xnviewmp/) :cs:
 - [JPEGView](https://github.com/sylikc/jpegview)
-- [qView](https://interversehq.com/qview/) [:gh:](https://github.com/jurplel/qView)
+- [qView](https://interversehq.com/qview/) [:src:](https://github.com/jurplel/qView)
 - [FastStone Image Viewer](https://www.faststone.org/FSViewerDetail.htm) :cs:
 
 ### Video Player
-- [mpv](https://mpv.io/) :s::win::app::lin: [:gh:](https://github.com/mpv-player/mpv)
+- [mpv](https://mpv.io/) :s::win::app::lin: [:src:](https://github.com/mpv-player/mpv)
   - [mpv Resources](#mpv)
-- [SMPlayer](https://www.smplayer.info/) :win::app::lin: [:gh:](https://github.com/smplayer-dev/smplayer)
+- [SMPlayer](https://www.smplayer.info/) :win::app::lin: [:src:](https://github.com/smplayer-dev/smplayer)
 - [MPC-HC](https://github.com/clsid2/mpc-hc) :win:
 - [K-Lite Codec Pack](https://codecguide.com/download_kl.htm) :win:
 
@@ -148,13 +148,13 @@ og:
 | ^^           | [Scum's Setup Guide](https://iamscum.wordpress.com/guides/videoplayback-guide/) |  
 | ^^           | [mpv Script Wiki](https://github.com/mpv-player/mpv/wiki/User-Scripts) |  
 | ^^           | [Awesome mpv](https://github.com/stax76/awesome-mpv) |  
-| Utilities    | [MPV Easy](https://mpv-easy.github.io/mpv-build/) [:gh:](https://github.com/mpv-easy/mpv-easy) |
-| **Alt UI**    | [Celluloid](https://celluloid-player.github.io/) :lin: [:gh:](https://github.com/celluloid-player/celluloid) | 
+| Utilities    | [MPV Easy](https://mpv-easy.github.io/mpv-build/) [:src:](https://github.com/mpv-easy/mpv-easy) |
+| **Alt UI**    | [Celluloid](https://celluloid-player.github.io/) :lin: [:src:](https://github.com/celluloid-player/celluloid) | 
 | ^^            | [Haruna](https://haruna.kde.org/) :lin: |  
-| ^^            | [IINA](https://iina.io/) :app: [:gh:](https://github.com/iina/iina) |
+| ^^            | [IINA](https://iina.io/) :app: [:src:](https://github.com/iina/iina) |
 | ^^           | [ModernX](https://github.com/cyl0/ModernX) |  
 | ^^           | [ModernZ](https://github.com/Samillion/ModernZ) |
-| ^^           | [mpc-qt](https://mpc-qt.github.io/) :win::lin: [:gh:](https://github.com/mpc-qt/mpc-qt) |
+| ^^           | [mpc-qt](https://mpc-qt.github.io/) :win::lin: [:src:](https://github.com/mpc-qt/mpc-qt) |
 | ^^           | [mpv.net](https://github.com/mpvnet-player/mpv.net) :s::win: |  
 | ^^           | [Tethys](https://github.com/Zren/mpv-osc-tethys) |  
 | ^^           | [uosc](https://github.com/tomasklaen/uosc) |  
@@ -175,14 +175,14 @@ og:
 
 ### Image Tools
 
-- [ImageMagick](https://imagemagick.org/index.php) [:gh:](https://github.com/ImageMagick/ImageMagick) <Badge type="tip" text="Scripts" link="https://www.fmwconcepts.com/imagemagick/index.php" />
+- [ImageMagick](https://imagemagick.org/index.php) [:src:](https://github.com/ImageMagick/ImageMagick) <Badge type="tip" text="Scripts" link="https://www.fmwconcepts.com/imagemagick/index.php" />
   - [FotoKilof](https://github.com/TeaM-TL/FotoKilof)
   - [imgdanke](https://github.com/DrWhoCares/imgdanke) ==imgdanke==
 - [pingo](https://css-ig.net/pingo) :cs:
   - [pinga](https://css-ig.net/pinga) :cs:
-- [XL Converter](https://codepoems.eu/xl-converter/) [:gh:](https://github.com/JacobDev1/xl-converter)
-- [FFmpeg](https://ffmpeg.org/) :cmd: [:gh:](https://github.com/FFmpeg/FFmpeg)
-- [chaiNNer](https://chainner.app/) [:gh:](https://github.com/chaiNNer-org/chaiNNer)
+- [XL Converter](https://codepoems.eu/xl-converter/) [:src:](https://github.com/JacobDev1/xl-converter)
+- [FFmpeg](https://ffmpeg.org/) :cmd: [:src:](https://github.com/FFmpeg/FFmpeg)
+- [chaiNNer](https://chainner.app/) [:src:](https://github.com/chaiNNer-org/chaiNNer)
 - [Cupscale](https://github.com/n00mkrad/cupscale) ==cupscale==
 - [Magpie](https://github.com/Blinue/Magpie)
 - [Waifu2X](https://github.com/nagadomi/waifu2x)
@@ -196,42 +196,42 @@ og:
 
 | **Category** | **Resources** |  
 |--------------|---------------|  
-| **General Video tools** | [FFmpeg](https://ffmpeg.org/) :win::app::lin::cmd: [:gh:](https://github.com/FFmpeg/FFmpeg) |  
-| ^^               | [LosslessCut](https://mifi.no/losslesscut/) :win::app::lin: [:gh:](https://github.com/mifi/lossless-cut) |  
+| **General Video tools** | [FFmpeg](https://ffmpeg.org/) :win::app::lin::cmd: [:src:](https://github.com/FFmpeg/FFmpeg) |  
+| ^^               | [LosslessCut](https://mifi.no/losslesscut/) :win::app::lin: [:src:](https://github.com/mifi/lossless-cut) |  
 | **General Sub tools** | [Aegisub](https://github.com/arch1t3cht/Aegisub) :win::app::lin: |  
-| ^^               | [Subtitle Edit](https://www.nikse.dk/subtitleedit) :win: [:gh:](https://github.com/SubtitleEdit/subtitleedit) |  
+| ^^               | [Subtitle Edit](https://www.nikse.dk/subtitleedit) :win: [:src:](https://github.com/SubtitleEdit/subtitleedit) |  
 | **Adobe**         | [m0nkrus](https://vk.com/monkrus) :win::app: |  
 | ^^               | [RuTracker.org](https://rutracker.org/forum/index.php) :win::app: |  
 | ^^               | [GenP](https://lemmy.dbzer0.com/c/GenP) :win: |  
 | ^^               | [Download Pirate](https://www.downloadpirate.com/) :win: |  
 | ^^               | [a.dove.isdumb.one](https://github.com/ignaciocastro/a-dove-is-dumb) |  
-| **Encoding**      | [AviSynth+](https://avs-plus.net/) :win::app::lin: [:gh:](https://github.com/AviSynth/AviSynthPlus) |  
+| **Encoding**      | [AviSynth+](https://avs-plus.net/) :win::app::lin: [:src:](https://github.com/AviSynth/AviSynthPlus) |  
 | ^^               | [StaxRip](https://github.com/staxrip/staxrip) :win: |  
-| ^^               | [VapourSynth](https://www.vapoursynth.com/) :win: [:gh:](https://github.com/vapoursynth/vapoursynth) |  
+| ^^               | [VapourSynth](https://www.vapoursynth.com/) :win: [:src:](https://github.com/vapoursynth/vapoursynth) |  
 | ^^               | [VapourSynth Database](https://vsdb.top/) |  
 | **MKV Tools**     | [MKVToolNix](https://mkvtoolnix.download/) :win::app::lin::bsd: |  
-| ^^               | [MKV Extract](https://qgustavor.github.io/mkv-extract/en/) :web: [:gh:](https://github.com/qgustavor/mkv-extract/) |  
+| ^^               | [MKV Extract](https://qgustavor.github.io/mkv-extract/en/) :web: [:src:](https://github.com/qgustavor/mkv-extract/) |  
 | **Sync**          | [alass](https://github.com/kaegi/alass) :win::lin: |  
 | ^^               | [AutoSubSync](https://github.com/denizsafak/AutoSubSync) :win::app::lin: |
 | ^^               | [FFsubsync](https://github.com/smacke/ffsubsync) :win::app::lin: |  
 | ^^               | [Sushi](https://github.com/tp7/Sushi) :win::app::lin::cmd: |
 | ^^               | [Sushi.net](https://github.com/maxpiva/Sushi.Net) :win::app::lin: |  
-| **Other**         | [mpvQC](https://mpvqc.github.io/) [:gh:](https://github.com/mpvqc/mpvQC) :win: |  
+| **Other**         | [mpvQC](https://mpvqc.github.io/) [:src:](https://github.com/mpvqc/mpvQC) :win: |  
 | ^^               | [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) :win::app::lin: |
 
 #### Related resources
 
 | Category        | Resources |
 |-----------------|-----------|
-| **Aegisub**     | [Aegisub-Motion](https://github.com/TypesettingTools/Aegisub-Motion) :gh: |  
-| ^^              | [AI2ASS](https://github.com/TypesettingTools/AI2ASS) :gh: |  
-| ^^              | [DependencyControl](https://github.com/TypesettingTools/DependencyControl) :gh: |  
-| ^^              | [Perspective](https://github.com/TypesettingTools/Perspective) :gh: |  
+| **Aegisub**     | [Aegisub-Motion](https://github.com/TypesettingTools/Aegisub-Motion) :src: |  
+| ^^              | [AI2ASS](https://github.com/TypesettingTools/AI2ASS) :src: |  
+| ^^              | [DependencyControl](https://github.com/TypesettingTools/DependencyControl) :src: |  
+| ^^              | [Perspective](https://github.com/TypesettingTools/Perspective) :src: |  
 | **alass**       | [Resync subtitles](https://animecards.site/subtitles/) :win: |  
 | **AviSynth+**   | [MeGUI](https://en.wikibooks.org/wiki/MeGUI) [:simple-icons-sourceforge:](https://sourceforge.net/projects/megui/) |  
-| **FFmpeg**      | [HandBrake](https://handbrake.fr/) :win::app::lin: [:gh:](https://github.com/HandBrake/HandBrake) |  
-| ^^              | [Videomass](https://jeanslack.github.io/Videomass/) :win::app::lin: [:gh:](https://github.com/jeanslack/Videomass) |  
-| ^^              | [FFmpeg.wasm](https://ffmpegwasm.netlify.app/) :web: [:gh:](https://github.com/ffmpegwasm/ffmpeg.wasm) |  
+| **FFmpeg**      | [HandBrake](https://handbrake.fr/) :win::app::lin: [:src:](https://github.com/HandBrake/HandBrake) |  
+| ^^              | [Videomass](https://jeanslack.github.io/Videomass/) :win::app::lin: [:src:](https://github.com/jeanslack/Videomass) |  
+| ^^              | [FFmpeg.wasm](https://ffmpegwasm.netlify.app/) :web: [:src:](https://github.com/ffmpegwasm/ffmpeg.wasm) |  
 | ^^              | [FFmpeg Batch AV Converter](https://github.com/eibol/ffmpeg_batch) :win: |  
 | **MKVToolNix**  | [gMKVExtractGUI](https://sourceforge.net/projects/gmkvextractgui/) :win::app::lin: |  
 | ^^              | [MKVcleaver](https://www.videohelp.com/software/MKVcleaver) :win::cs: |  
@@ -253,7 +253,7 @@ og:
 | ^^                 | [autobrr](https://autobrr.com/) |
 | ^^                 | [Ombi](https://ombi.io/) |
 | ^^                 | [Maintainerr](https://github.com/jorenn92/Maintainerr) |
-| ^^                 | [Jellyseerr](https://docs.seerr.dev/) [:gh:](https://github.com/Fallenbagel/jellyseerr) |
+| ^^                 | [Jellyseerr](https://docs.seerr.dev/) [:src:](https://github.com/Fallenbagel/jellyseerr) |
 | ^^                 | [Tdarr](https://home.tdarr.io/) |
 | ^^                 | [Bazarr](https://www.bazarr.media/) |
 | ^^                 | [Sonarr/Radarr/Lidarr autosearch](https://chromewebstore.google.com/detail/jmmjjcddjldjdjgckdiokhfokccdnekc) |
@@ -266,8 +266,8 @@ og:
 ## Usenet Tools
 
 - [NZBHydra 2](https://github.com/theotherp/nzbhydra2)
-- [SABnzbd](https://sabnzbd.org/) [:gh:](https://github.com/sabnzbd/sabnzbd)
-- [NZBget](https://nzbget.com/) [:gh:](https://github.com/nzbgetcom/nzbget)
+- [SABnzbd](https://sabnzbd.org/) [:src:](https://github.com/sabnzbd/sabnzbd)
+- [NZBget](https://nzbget.com/) [:src:](https://github.com/nzbgetcom/nzbget)
 - [NZB Unity](https://github.com/tumblfeed/nzbunity)
 - [Nyuu](https://github.com/animetosho/Nyuu)
 - [ngPost](https://github.com/mbruel/ngPost)
@@ -281,16 +281,16 @@ og:
 
 ## General Tools
 
-- [BleachBit](https://www.bleachbit.org/) [:gh:](https://github.com/bleachbit/bleachbit)
-- [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) [:gh:](https://github.com/Klocman/Bulk-Crap-Uninstaller)
+- [BleachBit](https://www.bleachbit.org/) [:src:](https://github.com/bleachbit/bleachbit)
+- [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) [:src:](https://github.com/Klocman/Bulk-Crap-Uninstaller)
 - [Everything](https://www.voidtools.com/) :cs:
   - [EverythingToolbar](https://github.com/srwi/EverythingToolbar)
-- [File Converter](https://file-converter.io/index.html) [:gh:](https://github.com/Tichau/FileConverter)
-- [Flow Launcher](https://www.flowlauncher.com/) [:gh:](https://github.com/Flow-Launcher/Flow.Launcher)
-- [LocalSend](https://localsend.org/) [:gh:](https://github.com/localsend/localsend)
+- [File Converter](https://file-converter.io/index.html) [:src:](https://github.com/Tichau/FileConverter)
+- [Flow Launcher](https://www.flowlauncher.com/) [:src:](https://github.com/Flow-Launcher/Flow.Launcher)
+- [LocalSend](https://localsend.org/) [:src:](https://github.com/localsend/localsend)
 - [NanaZip](https://github.com/M2Team/NanaZip)
-- [ShareX](https://getsharex.com/) [:gh:](https://github.com/ShareX/ShareX)
-- [Syncthing](https://syncthing.net/) [:gh:](https://github.com/syncthing/syncthing)
+- [ShareX](https://getsharex.com/) [:src:](https://github.com/ShareX/ShareX)
+- [Syncthing](https://syncthing.net/) [:src:](https://github.com/syncthing/syncthing)
 - [TeraCopy](https://www.codesector.com/teracopy) :cs:
 
 
@@ -335,17 +335,17 @@ og:
 
 
 ## General
-- [Better Lyrics](https://better-lyrics.boidu.dev/) [:gh:](https://github.com/boidushya/better-lyrics)
+- [Better Lyrics](https://better-lyrics.boidu.dev/) [:src:](https://github.com/boidushya/better-lyrics)
 - [Buster](https://github.com/dessant/buster)
-- [FastStream](https://faststream.online/) [:gh:](https://github.com/Andrews54757/FastStream/)
-- [Indie Wiki Buddy](https://getindie.wiki/) [:gh:](https://github.com/KevinPayravi/indie-wiki-buddy)
-- [Live Stream Downloader](https://webextension.org/listing/hls-downloader.html) [:gh:](https://github.com/chandler-stimson/live-stream-downloader/)
+- [FastStream](https://faststream.online/) [:src:](https://github.com/Andrews54757/FastStream/)
+- [Indie Wiki Buddy](https://getindie.wiki/) [:src:](https://github.com/KevinPayravi/indie-wiki-buddy)
+- [Live Stream Downloader](https://webextension.org/listing/hls-downloader.html) [:src:](https://github.com/chandler-stimson/live-stream-downloader/)
 - [OldTwitter](https://github.com/dimdenGD/OldTwitter)
 - [NopeCHA](https://nopecha.com/)
 - [Selection](https://github.com/emvaized/selecton-extension) :s:
 - [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web) :s:
 - [uBlock Origin](https://github.com/gorhill/uBlock) :s:
-- [Violentmonkey](https://violentmonkey.github.io/) :s: [:gh:](https://github.com/violentmonkey/violentmonkey)
+- [Violentmonkey](https://violentmonkey.github.io/) :s: [:src:](https://github.com/violentmonkey/violentmonkey)
 
 ::: tip [**Click here**](/guides/tech/adblock) for full adblock solutions.
 :::
@@ -356,7 +356,7 @@ og:
 
 ## Anime
 - [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs)
-- [Anime Website Buttons Plus](https://greasyfork.org/en/scripts/398046-anime-website-custom-buttons-plus) [:gh:](https://github.com/Deatthwing/anime-website-buttons-plus)
+- [Anime Website Buttons Plus](https://greasyfork.org/en/scripts/398046-anime-website-custom-buttons-plus) [:src:](https://github.com/Deatthwing/anime-website-buttons-plus)
 - [Better HiAnime](https://greasyfork.org/en/scripts/506340-better-hianime)
 - [Bye Spoilers - Crunchyroll](https://github.com/zAlfok/ByeSpoilers-Crunchyroll)
 - [Find on Nyaa](https://greasyfork.org/en/scripts/379776-find-on-nyaa)
@@ -367,17 +367,17 @@ og:
 - [AniList Activity-Feed Filter](https://greasyfork.org/en/scripts/475234-anilist-activity-feed-filter)
 - [AniList External Links](https://greasyfork.org/en/scripts/442599-AniList-external-links)
 - [AniList Extras](https://github.com/pilar6195/AniList-Extras)
-- [AniList Unlimited](https://greasyfork.org/en/scripts/404465-anilist-unlimited-score-in-header) [:gh:](https://github.com/mysticflute/ani-list-unlimited)
+- [AniList Unlimited](https://greasyfork.org/en/scripts/404465-anilist-unlimited-score-in-header) [:src:](https://github.com/mysticflute/ani-list-unlimited)
 - [Anisongs](https://greasyfork.org/en/scripts/374785-anisongs)
-- [Automail](https://greasyfork.org/en/scripts/370473-automail) [:gh:](https://github.com/hohMiyazawa/Automail)
+- [Automail](https://greasyfork.org/en/scripts/370473-automail) [:src:](https://github.com/hohMiyazawa/Automail)
 
 ## MyAnimeList
 - [Affinity to you](https://greasyfork.org/en/scripts/423918-affinity-to-you)
 - [Auto Date Add](https://greasyfork.org/en/scripts/407730-automatically-add-start-finish-dates-for-animes-mangas-helpful-buttons)
 - [Endless MAL Search Pages](https://greasyfork.org/en/scripts/409957-endless-mal-search-pages)
 - [MAL Clean JS](https://greasyfork.org/en/scripts/480965-mal-clean-js)
-- [MAL Dubs](https://greasyfork.org/en/scripts/376546-mal-myanimelist-dubs) [:gh:](https://github.com/MAL-Dubs/MAL-Dubs)
-- [MAL English Titles](https://greasyfork.org/en/scripts/420200-mal-english-titles) [:gh:](https://github.com/Animorphs/MAL-English-Titles)
+- [MAL Dubs](https://greasyfork.org/en/scripts/376546-mal-myanimelist-dubs) [:src:](https://github.com/MAL-Dubs/MAL-Dubs)
+- [MAL English Titles](https://greasyfork.org/en/scripts/420200-mal-english-titles) [:src:](https://github.com/Animorphs/MAL-English-Titles)
 - [MAL tierlist](https://greasyfork.org/en/scripts/474521-mal-tierlist)
 - [Series Highlighter](https://greasyfork.org/en/scripts/424774-series-highlighter-mal)
 
@@ -398,7 +398,7 @@ og:
 | ^^        | [VN(db) Userscripts](https://github.com/MarvNC/vn-userscripts) |
 | ^^        | [VNDB:Re](https://userstyles.world/style/13179/) |
 | **Music** | [Ame](https://gitlab.com/SuperSaltyGamer/ame) |
-| ^^        | [Discogs Scout](https://greasyfork.org/en/scripts/439452-discogs-scout) [:gh:](https://github.com/Purfview/Discogs-Scout) |
+| ^^        | [Discogs Scout](https://greasyfork.org/en/scripts/439452-discogs-scout) [:src:](https://github.com/Purfview/Discogs-Scout) |
 | ^^        | [MusicBrainz Userscripts](https://musicbrainz.org/doc/Guides/Userscripts) |
 | ^^        | [Slav Art User Scripts](https://rentry.org/slavartuserscripts) |
 | **YouTube** | [Fix Brave Bug for YouTube Live Chat](https://greasyfork.org/en/scripts/474214-fix-brave-bug-for-youtube-live-chat) |

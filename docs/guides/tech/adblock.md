@@ -8,10 +8,10 @@ og:
 ## Browser
 | Browser | Phone | PC |
 |-|-|-|
-| [Brave](https://brave.com/) [:gh:](https://github.com/brave/brave-browser) | :and::app: | :win::app::lin: |
+| [Brave](https://brave.com/) [:src:](https://github.com/brave/brave-browser) | :and::app: | :win::app::lin: |
 | [Cromite](https://github.com/uazo/cromite) | :and: | :win::lin: |
 | [Ironfox](https://gitlab.com/ironfox-oss/IronFox/) | :and: | :no: |
-| [LibreWolf](https://librewolf.net/) [:cb:](https://codeberg.org/librewolf/source) | :no: | :win::app::lin: |
+| [LibreWolf](https://librewolf.net/) [:src:](https://codeberg.org/librewolf/source) | :no: | :win::app::lin: |
 
 ## Extension
 - [uBlock Origin](https://github.com/gorhill/uBlock) :s::ff::cr:
@@ -60,7 +60,7 @@ Adding a lot of filters to your adblocker (that you don't specifically need) can
 | **Captcha** | [Buster](https://github.com/dessant/buster) :ff::cr: |  
 | ^^     | [NopeCHA](https://nopecha.com/) :ff::cr: |  
 | **Paywall** | [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/) :s::js: | 
-| ^^     | [AdsBypasser](https://adsbypasser.github.io/) [:gh:](https://github.com/adsbypasser/adsbypasser) :js: |
+| ^^     | [AdsBypasser](https://adsbypasser.github.io/) [:src:](https://github.com/adsbypasser/adsbypasser) :js: |
 | ^^     | [Bye Bye Paywall](https://byebyepaywall.com/en/) :web: |  
 | ^^     | [Bypass.city](https://bypass.city/how-to-install-userscript) :js: |
 | ^^     | [Bypass Paywalls Clean](https://gitflic.ru/user/magnolia1234) :ff::cr::mdi-filter: |  

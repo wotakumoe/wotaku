@@ -62,7 +62,7 @@ og:
 - [Gelbooru](https://gelbooru.com/) :s:
 - [Konachan.com](https://konachan.com/)
 - [Konachan.net](https://konachan.net/) <Badge type="green" link="" text="SFW"/>
-- [Mikubooru](https://booru.funmaker.moe/) [:gh:](https://github.com/funmaker/hybooru)
+- [Mikubooru](https://booru.funmaker.moe/) [:src:](https://github.com/funmaker/hybooru)
 - [Safebooru](https://safebooru.org/) <Badge type="green" text="SFW" />
 - [yande.re](https://yande.re/)
 - [Zerochan](https://www.zerochan.net/) <Badge type="green" text="SFW" />
@@ -84,17 +84,17 @@ og:
 
 | Category  | Websites |
 |-----------|----------|
-| **Booru** | [Booru Masonry](https://booru.cocomi.eu.org/) :s: [:gh:](https://github.com/asadahimeka/booruwf-web) [:alt:](https://booru.vercel.app/) |
-| ^^        | [Booruview](https://booruview.com/) [:gh:](https://github.com/Kangaroux/booruview) |
-| ^^        | [Danbooru Viewer](https://danbooru.defaultkavy.com/) [:gh:](https://github.com/defaultkavy-dev/danbooru-viewer) |
+| **Booru** | [Booru Masonry](https://booru.cocomi.eu.org/) :s: [:src:](https://github.com/asadahimeka/booruwf-web) [:alt:](https://booru.vercel.app/) |
+| ^^        | [Booruview](https://booruview.com/) [:src:](https://github.com/Kangaroux/booruview) |
+| ^^        | [Danbooru Viewer](https://danbooru.defaultkavy.com/) [:src:](https://github.com/defaultkavy-dev/danbooru-viewer) |
 | ^^        | [Moeview](https://moeview.app/) [:alt:](https://moeview.cocomi.eu.org/) |
-| **Pixiv** | [Pixiv.cat](https://pixiv.cat/) [:gh:](https://github.com/pixiv-cat/pixivcat-backend) |
-| ^^        | [PixivFE](https://pixiv.perennialte.ch/) :s: [:cb:](https://codeberg.org/VnPower/PixivFE) |
-| ^^        | [Pixiv Viewer](https://pixiv.pictures/) [:gh:](https://github.com/asadahimeka/pixiv-viewer) |
+| **Pixiv** | [Pixiv.cat](https://pixiv.cat/) [:src:](https://github.com/pixiv-cat/pixivcat-backend) |
+| ^^        | [PixivFE](https://pixiv.perennialte.ch/) :s: [:src:](https://codeberg.org/VnPower/PixivFE) |
+| ^^        | [Pixiv Viewer](https://pixiv.pictures/) [:src:](https://github.com/asadahimeka/pixiv-viewer) |
 | ^^        | [Pixiv Yearbook](https://pixiv.navirank.com/) |
-| ^^        | [Pxelk](https://pxelk.pixiv.pics/) [:gh:](https://github.com/ShugetsuSoft/pixivel-front) |
+| ^^        | [Pxelk](https://pxelk.pixiv.pics/) [:src:](https://github.com/ShugetsuSoft/pixivel-front) |
 | **Others** | [Pixnoy](https://www.pixnoy.com/) |
-| ^^        | [X Cancelled](https://xcancel.com/) [:gh:](https://github.com/zedeus/nitter) |
+| ^^        | [X Cancelled](https://xcancel.com/) [:src:](https://github.com/zedeus/nitter) |
 
 
 ## Others
@@ -108,7 +108,7 @@ og:
 - [Studio Ghibli](https://www.ghibli.jp/info/013772/) <Badge type="green" text="SFW" />
 - [The Sprite Resources](https://www.spriters-resource.com/)
 - [Wallhaven](https://wallhaven.cc/)
-- [wanderer.moe](https://wanderer.moe/) [:gh:](https://github.com/wanderer-moe/site)
+- [wanderer.moe](https://wanderer.moe/) [:src:](https://github.com/wanderer-moe/site)
 - [:f: /w/](http://catalog.neet.tv/w/) <Badge type="danger" icon="i-mingcute-skull-fill" text="NSFL" />
 - [VideoArtGame](https://x.com/VideoArtGame) :x:
 
@@ -148,14 +148,14 @@ og:
 ### Clients
 - [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) :s::win::app::lin:
 - [pixes](https://github.com/wgh136/pixes) :win::app::lin:
-- [Pixeval](https://pixeval.github.io/) :win: [:gh:](https://github.com/Pixeval/Pixeval)
+- [Pixeval](https://pixeval.github.io/) :win: [:src:](https://github.com/Pixeval/Pixeval)
 - [Pixiv Powerful Viewer](https://github.com/fekoneko/pixiv-powerful-viewer) :win:
 
 ### Downloaders
 - [Cultured Downloader](https://github.com/KJHJason/Cultured-Downloader) :win::app::lin:
 - [gallery-dl](https://github.com/mikf/gallery-dl) :s::win::lin:
-- [Hydrus network](https://hydrusnetwork.github.io/hydrus/) :win::app::lin: [:gh:](https://github.com/hydrusnetwork/hydrus) <Badge type="info" text="Scripts" link="https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts"/>
-- [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) :win::app::lin: [:gh:](https://github.com/Bionus/imgbrd-grabber)
+- [Hydrus network](https://hydrusnetwork.github.io/hydrus/) :win::app::lin: [:src:](https://github.com/hydrusnetwork/hydrus) <Badge type="info" text="Scripts" link="https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts"/>
+- [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) :win::app::lin: [:src:](https://github.com/Bionus/imgbrd-grabber)
 - [Media Downloader](https://github.com/mhogomchungu/media-downloader) :win::app::lin:
 - [Pixiv FANBOX Downloader](https://github.com/hareku/fanbox-dl) :win::app:
 - [PixivUtil2](https://github.com/Nandaka/PixivUtil2) :win:
@@ -169,12 +169,12 @@ og:
 |------------|------|----------|
 | **Clients** | [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) :s: | :win::app::lin: |
 | ^^         | [pixes](https://github.com/wgh136/pixes) | :win::app::lin: |
-| ^^         | [Pixeval](https://pixeval.github.io/) [:gh:](https://github.com/Pixeval/Pixeval) | :win: |
+| ^^         | [Pixeval](https://pixeval.github.io/) [:src:](https://github.com/Pixeval/Pixeval) | :win: |
 | ^^         | [Pixiv Powerful Viewer](https://github.com/fekoneko/pixiv-powerful-viewer) | :win: |
 | **Downloaders** | [Cultured Downloader](https://github.com/KJHJason/Cultured-Downloader) | :win::app::lin: |
 | ^^         | [gallery-dl](https://github.com/mikf/gallery-dl) :s: | :win::lin: |
-| ^^         | [Hydrus network](https://hydrusnetwork.github.io/hydrus/) [:gh:](https://github.com/hydrusnetwork/hydrus) <Badge type="info" text="Scripts" link="https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts"/> | :win::app::lin: |
-| ^^         | [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) [:gh:](https://github.com/Bionus/imgbrd-grabber) | :win::app::lin: |
+| ^^         | [Hydrus network](https://hydrusnetwork.github.io/hydrus/) [:src:](https://github.com/hydrusnetwork/hydrus) <Badge type="info" text="Scripts" link="https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts"/> | :win::app::lin: |
+| ^^         | [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) [:src:](https://github.com/Bionus/imgbrd-grabber) | :win::app::lin: |
 | ^^         | [Media Downloader](https://github.com/mhogomchungu/media-downloader) | :win::app::lin: |
 | ^^         | [Pixiv FANBOX Downloader](https://github.com/hareku/fanbox-dl) | :win::app: |
 | ^^         | [PixivUtil2](https://github.com/Nandaka/PixivUtil2) | :win: |
@@ -209,24 +209,24 @@ og:
 - [Gelbooru Overhaul Userscript](https://github.com/Enchoseon/gelbooru-overhaul-userscript)
 - [Image Board Enhancer](https://sleazyfork.org/en/scripts/387312-image-board-enhancer-rule34-gelbooru-e621-and-more)
 - [Sakugabooru Browse Fix](https://greasyfork.org/en/scripts/506018)
-- [Yande.re Masonry](https://sleazyfork.org/en/scripts/444885) :s: [:gh:](https://github.com/asadahimeka/yandere-masonry)
+- [Yande.re Masonry](https://sleazyfork.org/en/scripts/444885) :s: [:src:](https://github.com/asadahimeka/yandere-masonry)
 
 ### Pixiv
-- [Improve Pixiv Thumbnails](https://greasyfork.org/en/scripts/390077) [:gh:](https://github.com/kepstin/Fix-pixiv-thumbnails)
-- [Label Pixiv Bookmarks](https://greasyfork.org/en/scripts/423823) [:gh:](https://github.com/Ziqing19/LabelPixivBookmarks)
+- [Improve Pixiv Thumbnails](https://greasyfork.org/en/scripts/390077) [:src:](https://github.com/kepstin/Fix-pixiv-thumbnails)
+- [Label Pixiv Bookmarks](https://greasyfork.org/en/scripts/423823) [:src:](https://github.com/Ziqing19/LabelPixivBookmarks)
 - [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE%2B)
-- [Pixiv Downloader](https://sleazyfork.org/zh-CN/scripts/432150) [:gh:](https://github.com/drunkg00se/Pixiv-Downloader)
+- [Pixiv Downloader](https://sleazyfork.org/zh-CN/scripts/432150) [:src:](https://github.com/drunkg00se/Pixiv-Downloader)
 - [Pixiv Infinite Scroll](https://github.com/hamachi25/Pixiv-Infinite-Scroll)
 - [Pixiv Plus](https://greasyfork.org/en/scripts/34153)
 - [Pixiv Popularity Sorter/Filter](https://greasyfork.org/en/scripts/497015)
-- [Pixiv Preview](https://greasyfork.org/en/scripts/39387) [:gh:](https://github.com/NightLancer/PixivPreview)
+- [Pixiv Preview](https://greasyfork.org/en/scripts/39387) [:src:](https://github.com/NightLancer/PixivPreview)
 - [Pixiv Overhaul](https://github.com/wlm3201/Pixiv-Overhaul)
-- [Pixiv Ranking Wideveiw](https://greasyfork.org/en/scripts/449227) [:gh:](https://github.com/asadahimeka/userscripts)
-- [ppixiv for Pixiv](https://greasyfork.org/en/scripts/370418) [:gh:](https://github.com/ppixiv/ppixiv)
+- [Pixiv Ranking Wideveiw](https://greasyfork.org/en/scripts/449227) [:src:](https://github.com/asadahimeka/userscripts)
+- [ppixiv for Pixiv](https://greasyfork.org/en/scripts/370418) [:src:](https://github.com/ppixiv/ppixiv)
 
 ### General
 - [Eza's Image Glutton](https://sleazyfork.org/en/scripts/4713-eza-s-image-glutton)
-- [Handy Image](https://sleazyfork.org/en/scripts/109-handy-image) [:gh:](https://github.com/Owyn/HandyImage)
+- [Handy Image](https://sleazyfork.org/en/scripts/109-handy-image) [:src:](https://github.com/Owyn/HandyImage)
 - [Image Max URL](https://github.com/qsniyg/maxurl)
 - [Kemer Enhancement](https://sleazyfork.org/en/scripts/472096-kemer-%E5%A2%9E%E5%BC%B7)
 - [Kemono Browser](https://sleazyfork.org/en/scripts/483259-kemono-browser)

@@ -28,12 +28,12 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 
 | Category  | Resource |
 |-----------|--------------------------------------------------|
-| **Android** | [Aniyomi](https://aniyomi.org/) :s: [:gh:](https://github.com/aniyomiorg/aniyomi) [:e:](/guides/ext/mihon) |
-| ^^        | [Hayase](https://hayase.watch/) :s: [:gh:](https://github.com/hayase-app) [:e:](/guides/ext/misc#hayase) |
+| **Android** | [Aniyomi](https://aniyomi.org/) :s: [:src:](https://github.com/aniyomiorg/aniyomi) [:e:](/guides/ext/mihon) |
+| ^^        | [Hayase](https://hayase.watch/) :s: [:src:](https://github.com/hayase-app) [:e:](/guides/ext/misc#hayase) |
 | ^^        | [Dantotsu](https://discord.com/invite/4HPZ5nAWwM) [:e:](/guides/ext/mihon) |
-| **iOS**   | [Sora](https://apps.apple.com/us/app/sulfur/id6742741043) [:gh:](https://github.com/cranci1/Sora) [:e:](/guides/ext/ios#sora) [:tf:](https://testflight.apple.com/join/uJPzdTTj) <Badge type="info" text="Altstore" link="https://www.cranci.tech/repo.json" /> |
+| **iOS**   | [Sora](https://apps.apple.com/us/app/sulfur/id6742741043) [:src:](https://github.com/cranci1/Sora) [:e:](/guides/ext/ios#sora) [:tf:](https://testflight.apple.com/join/uJPzdTTj) <Badge type="info" text="Altstore" link="https://www.cranci.tech/repo.json" /> |
 | ^^        | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi) |
-| **PC**    | [Hayase](https://hayase.watch/) :s: [:gh:](https://github.com/hayase-app) [:e:](/guides/ext/misc#hayase) |
+| **PC**    | [Hayase](https://hayase.watch/) :s: [:src:](https://github.com/hayase-app) [:e:](/guides/ext/misc#hayase) |
 | ^^        | [Mangayomi](https://github.com/kodjodevf/mangayomi) :mag::ddl: [:e:](/guides/ext/mangayomi) |
 
 ![](/banner/wmanga.webp)
@@ -55,15 +55,15 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 
 | Category   | Resource |
 |------------|--------------------------------------------------|
-| **Android** | [Mihon](https://mihon.app/) :s: [:gh:](https://github.com/mihonapp/mihon) [:e:](/guides/ext/mihon) |
-| ^^         | [Komikku](https://komikku-app.github.io/) [:gh:](https://github.com/komikku-app/komikku) [:e:](/guides/ext/mihon) |
+| **Android** | [Mihon](https://mihon.app/) :s: [:src:](https://github.com/mihonapp/mihon) [:e:](/guides/ext/mihon) |
+| ^^         | [Komikku](https://komikku-app.github.io/) [:src:](https://github.com/komikku-app/komikku) [:e:](/guides/ext/mihon) |
 | ^^         | [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :s::fm::cs: |
-| **iOS**    | [Paperback](https://paperback.moe/) [:gh:](https://github.com/Paperback-iOS/app) [:e:](/guides/ext/ios#paperback) |
-| ^^         | [Aidoku](https://aidoku.app/) [:gh:](https://github.com/Aidoku/Aidoku) [:e:](/guides/ext/ios#aidoku) |
+| **iOS**    | [Paperback](https://paperback.moe/) [:src:](https://github.com/Paperback-iOS/app) [:e:](/guides/ext/ios#paperback) |
+| ^^         | [Aidoku](https://aidoku.app/) [:src:](https://github.com/Aidoku/Aidoku) [:e:](/guides/ext/ios#aidoku) |
 | ^^         | [YACReader](https://apps.apple.com/app/id635717885) :s::paid::cs: [:tf:](https://testflight.apple.com/join/5zhB7sRP) |
-| **PC**     | [OpenComic](https://opencomic.app/) :s: :win::app::lin: [:gh:](https://github.com/ollm/OpenComic) |
+| **PC**     | [OpenComic](https://opencomic.app/) :s: :win::app::lin: [:src:](https://github.com/ollm/OpenComic) |
 | ^^         | [YACReader](https://www.yacreader.com/) :win::app::lin: |
-| ^^         | [Houdoku](https://houdoku.netlify.app/) :win::app::lin: [:gh:](https://github.com/xgi/houdoku) |
+| ^^         | [Houdoku](https://houdoku.netlify.app/) :win::app::lin: [:src:](https://github.com/xgi/houdoku) |
 
 
 ![](/banner/music.webp)
@@ -74,9 +74,9 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 
 | Category   | Resource |
 |------------|--------------------------------------------------|
-| **Dedicated** | [Anithemes.moe](https://animethemes.moe/) :s: [:gh:](https://github.com/AnimeThemes) |
+| **Dedicated** | [Anithemes.moe](https://animethemes.moe/) :s: [:src:](https://github.com/AnimeThemes) |
 | ^^         | [Karaoke Mugen](https://kara.moe) |
-| ^^         | [Anisong Database](https://anisongdb.com/) [:gh:](https://github.com/xSardine/AMQ-Artists-DB) |
+| ^^         | [Anisong Database](https://anisongdb.com/) [:src:](https://github.com/xSardine/AMQ-Artists-DB) |
 | **General** | [YouTube Music](https://music.youtube.com/) :fm::sub: |
 | ^^         | [Apple Music](https://music.apple.com/) :paid: |
 | ^^         | [Spotify](https://spotify.com/) :fm::sub: |
@@ -163,7 +163,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | [Adguard](https://adguard-dns.io/en/welcome.html) | Cyprus | :yes: | 300kpm |
 | [Control D](https://controld.com/) | Canada | :yes: | :no: |
 | [dnswarden](https://dnswarden.com/index.html) | Switzerland | :yes: | NA  |
-| [DNS.SB](https://dns.sb/) [:gh:](https://github.com/dns-sb/) | Germany | :no: | NA |
+| [DNS.SB](https://dns.sb/) [:src:](https://github.com/dns-sb/) | Germany | :no: | NA |
 | [dns0.eu](https://www.dns0.eu/) | EU | :yes: | NA |
 | [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) | Sweden | :yes: | NA |
 | [Quad9](https://quad9.net/) | Switzerland | :no: | NA |
@@ -228,7 +228,7 @@ You should never use cracked or modded VPN cause all of your traffic will go thr
 ### Others
 
 - **Clients**
-  - [Anychans](https://anychans.github.io/4chan/) :web: [:gh:](https://github.com/catamphetamine/anychan)
+  - [Anychans](https://anychans.github.io/4chan/) :web: [:src:](https://github.com/catamphetamine/anychan)
   - [DashchanFork](https://github.com/TrixiEther/DashchanFork) :and:
   - [Read Chan](https://play.google.com/store/apps/details?id=com.deezus.pchan) :and::cs:
   - [TUI-Chan](https://github.com/tuqqu/tui-chan) :win:

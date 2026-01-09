@@ -89,8 +89,8 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 - [Clip Studio Paint EX](https://www.clipstudio.net/en/function_ex/) :and::win::app::paid::cs:
 - [FireAlpaca](https://firealpaca.com/) :win::app::lin::fm::cs:
 - [MediBang Paint](https://medibangpaint.com/en/) :win::app::fm::cs:
-- [Krita](https://krita.org/en/) :win::app::lin: [:kde:](https://invent.kde.org/graphics/krita)
-- [GIMP](https://www.gimp.org/) :win::app::lin: [:gn:](https://gitlab.gnome.org/GNOME/gimp)
+- [Krita](https://krita.org/en/) :win::app::lin: [:src:](https://invent.kde.org/graphics/krita)
+- [GIMP](https://www.gimp.org/) :win::app::lin: [:src:](https://gitlab.gnome.org/GNOME/gimp)
 
 
 ## Cleaning
@@ -104,7 +104,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 - [Smart Stitch](https://github.com/MechTechnology/SmartStitch)
 - [Stitch Tool](https://github.com/Aeonss/StitchTool)
 - [Typesetter*er*](https://illuminati-manga.com/illiteracy/typesetterer/)
-- [TypeR](https://typer.hayasaku.fr/) [:gh:](https://github.com/SeanR-ScanR/TypeR)
+- [TypeR](https://typer.hayasaku.fr/) [:src:](https://github.com/SeanR-ScanR/TypeR)
 - [TypeX](https://github.com/XandeKK/TypeX)
 
 ## Upscaling

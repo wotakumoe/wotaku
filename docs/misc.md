@@ -18,7 +18,7 @@ outline: [1,2]
 - [Kurozora](https://kurozora.app/)
 - [Sakuhin Database](https://sakuhindb.com/) :fjp:
 - [Wikipedia](https://www.wikipedia.org/) :s:
-  - [WikiTimeline](https://wiki-timeline.com/) [:gh:](https://github.com/wenzhenl/wikitimeline)
+  - [WikiTimeline](https://wiki-timeline.com/) [:src:](https://github.com/wenzhenl/wikitimeline)
   - [WikiWand](https://www.wikiwand.com/)
 
 ::: tip Tracker related utility sites
@@ -52,12 +52,12 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 - [LAMA](https://lama.watch/)
 - [Shounen Manga Encyclopedia](https://comicdate.web.fc2.com/) `fc2`
 - [Shounen Manga Encyclopedia](https://allcomic.noor.jp/) `noor`
-- [Touhou Doujinshi Index](https://scarlet.nsk.sh/) [:gh:](https://github.com/nanoskript/touhou-doujinshi-index) <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" />
+- [Touhou Doujinshi Index](https://scarlet.nsk.sh/) [:src:](https://github.com/nanoskript/touhou-doujinshi-index) <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" />
 :::
 
 ## Novels
 - [Novel Updates](https://www.novelupdates.com/) :s:
-- [RanobeDB](https://ranobedb.org/) :s: [:gh:](https://github.com/Blastose/ranobedb)
+- [RanobeDB](https://ranobedb.org/) :s: [:src:](https://github.com/Blastose/ranobedb)
 - [Ranobe Mori](https://ranobe-mori.net/) :fjp:
 - [Bookmeter](https://bookmeter.com/) :fjp:
 - [Goodreads](https://www.goodreads.com/)
@@ -93,12 +93,12 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [Livechart](https://www.livechart.me/schedule) :s: [:rss:](https://www.livechart.me/pages/rss) |   
 | ^^ | [AnimeSchedule](https://animeschedule.net/) [:rss:](https://animeschedule.net/rss) [:rss:](https://github.com/RockinChaos/AniSchedule) |  
 | ^^ | [Anime Countdown](https://animecountdown.com/) |  
-| ^^ | [Anisaki](https://anisaki.vercel.app/) [:gh:](https://github.com/BayuDC/anisaki) |  
+| ^^ | [Anisaki](https://anisaki.vercel.app/) [:src:](https://github.com/BayuDC/anisaki) |  
 | ^^ | [Kenny Stryker’s English dublist](https://myanimelist.net/forum/?topicid=1692966) |
 | ^^ | [Notify.moe](https://notify.moe/calendar) |  
 | **Monthly** | [Anica](https://anica.jp/) |  
 | ^^ | [Anime Dubs Release Calendar](https://teamup.com/ksdhpfjcouprnauwda) |  
-| **Others** | [Bangumi List](https://bgmlist.com/) :fjp::fcn: [:gh:](https://github.com/wxt2005/bangumi-list-v3) ==BangumiList== |  
+| **Others** | [Bangumi List](https://bgmlist.com/) :fjp::fcn: [:src:](https://github.com/wxt2005/bangumi-list-v3) ==BangumiList== |  
 | ^^ | [Kansou](https://www.kansou.me/) :s: :fjp: |  
 | ^^ | [Moon Phase](https://m-p.sakura.ne.jp/) :fjp: |  
 | ^^ | [Syoboi Calendar](https://cal.syoboi.jp/) :fjp: [:rss:](https://docs.cal.syoboi.jp/spec/rss.php/) |  
@@ -129,8 +129,8 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 - [Jajanken](https://www.jajanken.net/en/) <Badge text="WSJ" />
 - [Manga Codex](https://mangacodex.com/)
 - [Manga Properties](https://manga.properties/)
-- [MANGA Plus Top 40](https://manga.tumeo.space/) [:gh:](https://github.com/williamd1k0/manga-plus-top40)
-- [MANGA Plus Views](https://mangaplustracker.github.io/) [:gh:](https://github.com/MangaplusTracker/MangaplusTracker.github.io)
+- [MANGA Plus Top 40](https://manga.tumeo.space/) [:src:](https://github.com/williamd1k0/manga-plus-top40)
+- [MANGA Plus Views](https://mangaplustracker.github.io/) [:src:](https://github.com/MangaplusTracker/MangaplusTracker.github.io)
 - [Mannavi](https://mannavi.net/) :fjp:
 - [Randomanga](https://randomanga.wordpress.com/) :flag-france: <Badge text="Oricon" /> 
 
@@ -140,14 +140,14 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 
 | Type | Website |
 |-|-|
-| General | [Mynewworm](https://myneworm.katsurin.com/) [:gh:](https://github.com/Butterstroke/Myneworm) |
+| General | [Mynewworm](https://myneworm.katsurin.com/) [:src:](https://github.com/Butterstroke/Myneworm) |
 | ^^      | [Otaku Calendar](https://otakucalendar.com/Release/?filterCategory=2) :s: [:rss:](https://otakucalendar.com/rss) |
 | ^^      | [Yatta-Tachi](https://yattatachi.com/tag/releases) | 
 | Manga   | [Von's Manga Calendar](https://v0n.notion.site/Manga-297a9ad3a4904173b3a4ce319f9b2879) |
 | ^^      | [Whakoom](https://en.whakoom.com/) :fm: |
 | ^^      | [Sumikko Comic](https://comic.sumikko.info/) :fjp: [:rss:](https://comic.sumikko.info/rss.xml) |
-| Light Novel | [RanobeDB](https://ranobedb.org/releases/calendar) :s: [:gh:](https://github.com/Blastose/ranobedb) |
-| ^^      | [Light Novel Releases](https://lnrelease.github.io/) [:gh:](https://github.com/LNRelease/lnrelease.github.io) |
+| Light Novel | [RanobeDB](https://ranobedb.org/releases/calendar) :s: [:src:](https://github.com/Blastose/ranobedb) |
+| ^^      | [Light Novel Releases](https://lnrelease.github.io/) [:src:](https://github.com/LNRelease/lnrelease.github.io) |
 | ^^      | [Sumikko Novel](https://novel.sumikko.info/) :fjp: [:rss:](https://novel.sumikko.info/rss.xml) |
 | ^^      | [Sumikko Bunko](https://bunko.sumikko.info/) :fjp: [:rss:](https://bunko.sumikko.info/rss.xml) |
 
@@ -182,7 +182,7 @@ ___
 | ^^ | [ORICON NEWS](https://www.oricon.co.jp/) :fjp: |  
 | ^^ | [Japan Anime News](https://us.oricon-group.com/) [:x:](https://x.com/JapanAnimeNews_) |  
 | ^^ | [Otaku News](https://www.otakunews.com/) :flag-united-kingdom: [:rss:](https://www.otakunews.com/Rss) |  
-| **Blog / Interview** | [Anime Blog Tracker](https://aniblogtracker.app/index.php) :s: <Badge text="Aggregator" /> [:gh:](https://github.com/AniBlogTracker) |  
+| **Blog / Interview** | [Anime Blog Tracker](https://aniblogtracker.app/index.php) :s: <Badge text="Aggregator" /> [:src:](https://github.com/AniBlogTracker) |  
 | ^^ | [Anime Nano](https://www.animenano.com/) <Badge text="Aggregator" /> |  
 | ^^ | [Halcyon Realms](https://halcyonrealms.com/) :s: [:rss:](https://halcyonrealms.com/subscribe/) |  
 | ^^ | [Zimmerit](https://www.zimmerit.moe/) |  
@@ -237,31 +237,31 @@ ___
 ## Anime & Manga
 | Category  | Websites | Tracker |  
 |-----------|----------|---------|  
-| **General** | [3x3 Generator](https://gqgs.github.io/3x3-generator/) [:gh:](https://github.com/gqgs/3x3-generator/) | :mal::al::k: |  
-| ^^        | [Anime Bingo](https://anime-bingo.aikats.us/) [:gh:](https://github.com/walfie/anime-bingo) | :al: |  
+| **General** | [3x3 Generator](https://gqgs.github.io/3x3-generator/) [:src:](https://github.com/gqgs/3x3-generator/) | :mal::al::k: |  
+| ^^        | [Anime Bingo](https://anime-bingo.aikats.us/) [:src:](https://github.com/walfie/anime-bingo) | :al: |  
 | ^^        | [due.moe](https://due.moe/) | :al: |  
 | ^^        | [GomiTier](https://www.gomitier.tech/) | :mal::al: |
 | ^^        | [Related Anime](https://relatedanime.com/) | :mal: |  
 | ^^        | [Topsters](https://topsters.org/) | :simple-icons-themoviedatabase::simple-icons-lastdotfm::simple-icons-igdb::simple-icons-internetarchive: |
 | **Anime** | [Animerank](https://animerank.top/) | :mal: |
-| ^^        | [Manga Adaptations](https://anilist-adaptations.timschneeberger.me/) [:gh:](https://github.com/timschneeb/manga-adaptations-anilist) | :al: |  
-| ^^        | [MyDubList](https://mydublist.com/) [:gh:](https://github.com/Joelis57/MyDubList) | - |
+| ^^        | [Manga Adaptations](https://anilist-adaptations.timschneeberger.me/) [:src:](https://github.com/timschneeb/manga-adaptations-anilist) | :al: |  
+| ^^        | [MyDubList](https://mydublist.com/) [:src:](https://github.com/Joelis57/MyDubList) | - |
 | ^^        | [Randime](https://randime.moe/) | - |  
 | ^^        | [Spin.moe](https://spin.moe/) | :mal::al::k: |  
-| **Manga** | [Ermitteln](https://ermitteln.ihateani.me/) [:gh:](https://github.com/noaione/cmx-ermitteln) | - |  
+| **Manga** | [Ermitteln](https://ermitteln.ihateani.me/) [:src:](https://github.com/noaione/cmx-ermitteln) | - |  
 | ^^        | [iTunes Artwork Finder](https://bendodson.com/projects/itunes-artwork-finder/) | - |
 | ^^        | [Mihon Local Source JSON Generator](https://local.mihon.tools/) | - |
-| ^^        | [Mitsukeru](https://mitsukeru.timschneeberger.me/) [:gh:](https://github.com/timschneeb/Mitsukeru) | :al: |   
-| ^^        | [Tachibk Viewer](https://backup.mihon.tools/) [:gh:](https://github.com/Animeboynz/Mihon-Backup-Viewer) | - |
+| ^^        | [Mitsukeru](https://mitsukeru.timschneeberger.me/) [:src:](https://github.com/timschneeb/Mitsukeru) | :al: |   
+| ^^        | [Tachibk Viewer](https://backup.mihon.tools/) [:src:](https://github.com/Animeboynz/Mihon-Backup-Viewer) | - |
 
 ## Image
 | Category    | Websites |
 |------------|----------|
 | **Search** | [SauceNAO](https://saucenao.com/) :s: |
-| ^^         | [Trace](https://trace.moe/) [:gh:](https://github.com/soruly/trace.moe) |
+| ^^         | [Trace](https://trace.moe/) [:src:](https://github.com/soruly/trace.moe) |
 | ^^         | [ascii2d](https://ascii2d.net/) |
 | ^^         | [Multi-service image search](https://iqdb.org/) |
-| **Others** | [Imgtrans](https://touhou.ai/imgtrans/) [:gh:](https://github.com/zyddnys/manga-image-translator) |
+| **Others** | [Imgtrans](https://touhou.ai/imgtrans/) [:src:](https://github.com/zyddnys/manga-image-translator) |
 | ^^        | [Slowpoke Pics](https://slow.pics/) |
 
 
@@ -270,14 +270,14 @@ ___
  
 | Category  | Websites | Tracker |  
 |-----------|----------|---------|  
-| **Stats** | [Sekai](https://sekai.rl404.com/) [:gh:](https://github.com/rl404/sekai) :s: | :mal: |  
-| ^^        | [Anistats](https://mayudev.github.io/anistats/) [:gh:](https://github.com/mayudev/anistats) | :al: |  
-| ^^        | [anime.plus](https://anime.plus/) [:gh:](https://github.com/anime-plus/graph) | :mal: |  
-| ^^        | [KitsuStats](https://drumber.github.io/KitsuStats/#/) [:gh:](https://github.com/Drumber/KitsuStats) | :k: |  
+| **Stats** | [Sekai](https://sekai.rl404.com/) [:src:](https://github.com/rl404/sekai) :s: | :mal: |  
+| ^^        | [Anistats](https://mayudev.github.io/anistats/) [:src:](https://github.com/mayudev/anistats) | :al: |  
+| ^^        | [anime.plus](https://anime.plus/) [:src:](https://github.com/anime-plus/graph) | :mal: |  
+| ^^        | [KitsuStats](https://drumber.github.io/KitsuStats/#/) [:src:](https://github.com/Drumber/KitsuStats) | :k: |  
 | ^^        | [MAL Badges](https://www.mal-badges.com/) | :mal: |  
-| **Tools** | [Anicheck](https://anicheck.moe/) [:gh:](https://github.com/gubo97000/aniCheck) | :al: |
+| **Tools** | [Anicheck](https://anicheck.moe/) [:src:](https://github.com/gubo97000/aniCheck) | :al: |
 | ^^        | [AniTools](https://anitools.koopz.rocks/) | :al: |  
-| ^^        | [aniTrakt](https://anitrakt.huere.net/) [:gh:](https://github.com/ryuuganime/aniTrakt-IndexParser) | :mal: |  
+| ^^        | [aniTrakt](https://anitrakt.huere.net/) [:src:](https://github.com/ryuuganime/aniTrakt-IndexParser) | :mal: |  
 | ^^        | [MAL Exporter](https://malscraper.azurewebsites.net/) | :mal::al::k: |  
 
 
@@ -318,18 +318,18 @@ ___
 - [AniAnimals.moe](https://www.anianimals.moe/)
 - [Anime Bath Scene Wiki](https://animebathscenewiki.com/index.php?title=Main_Page)
 - [HUNTER×HUNTER Hiatus Chart](https://hiatus-hiatus.github.io/)
-- [Inazuma](https://inazuma.rl404.com/) [:gh:](https://github.com/rl404/inazuma)
-- [One Piece Wanted Poster Maker](https://yuskawu.github.io/one-piece-wanted-poster/dist/) [:gh:](https://github.com/YuskaWu/one-piece-wanted-poster)
+- [Inazuma](https://inazuma.rl404.com/) [:src:](https://github.com/rl404/inazuma)
+- [One Piece Wanted Poster Maker](https://yuskawu.github.io/one-piece-wanted-poster/dist/) [:src:](https://github.com/YuskaWu/one-piece-wanted-poster)
 - [True Harem](https://trueharem.carrd.co/)
 - [TV Tropes](https://tvtropes.org/)
-- [Vagabond Hiatus Chart](https://vagabond-hiatus-chart.vercel.app/) [:gh:](https://github.com/falsepopsky/vagabond-hiatus-chart)
+- [Vagabond Hiatus Chart](https://vagabond-hiatus-chart.vercel.app/) [:src:](https://github.com/falsepopsky/vagabond-hiatus-chart)
 - [Wired Sound For Wired People](https://fauux.neocities.org/)
 
 ## Recommendations
 
 ### Anime & Manga
 - [r/Anime](https://old.reddit.com/r/anime/wiki/recommendations/)
-  - [/r/anime Awards](https://animeawards.moe/) [:gh:](https://github.com/r-anime/awards-web)
+  - [/r/anime Awards](https://animeawards.moe/) [:src:](https://github.com/r-anime/awards-web)
 - [u/FetchFrosh](https://old.reddit.com/r/anime/comments/o16ipm/rebuild_of_the_ultimate_anime_recommendation/)
 - [Sprout Anime Recommender](https://anime.ameo.dev/) :s::mal::al:
 

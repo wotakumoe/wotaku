@@ -68,7 +68,7 @@ og:
 | ^^         | [ACGNX](https://share.acgnx.se/) |
 | ^^         | [Anime Garden](https://garden.breadio.wiki/) |
 | ^^         | [Bangumi](https://bangumi.moe/) |
-| ^^         | [Mikan Project](https://mikanani.me/) [:gh:](https://github.com/iota9star/mikan_flutter) |
+| ^^         | [Mikan Project](https://mikanani.me/) [:src:](https://github.com/iota9star/mikan_flutter) |
 | ^^         | [Nyaa Pantsu](https://ouo.si/) |
 
 ### German

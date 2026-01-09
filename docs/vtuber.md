@@ -10,10 +10,10 @@ og:
 
 | Category  | Websites |
 |-----------|----------|
-| Alt viewer | [Holodex](https://holodex.net/) :s: [:gh:](https://github.com/HolodexNet/Holodex) |
-| ^^         | [Amatsukaze](https://amatsukaze.rl404.com/) [:gh:](https://github.com/rl404/amatsukaze) |
-| Archive    | [Ragtag Archive](https://archive.ragtag.moe/) [:gh:](https://github.com/ragtag-archive) |
-| ^^         | [Patchwork Archive](https://patchwork.moekyun.me/) [:gh:](https://github.com/Patchwork-Archive/) |
+| Alt viewer | [Holodex](https://holodex.net/) :s: [:src:](https://github.com/HolodexNet/Holodex) |
+| ^^         | [Amatsukaze](https://amatsukaze.rl404.com/) [:src:](https://github.com/rl404/amatsukaze) |
+| Archive    | [Ragtag Archive](https://archive.ragtag.moe/) [:src:](https://github.com/ragtag-archive) |
+| ^^         | [Patchwork Archive](https://patchwork.moekyun.me/) [:src:](https://github.com/Patchwork-Archive/) |
 | ^^         | [Rebel's ASMR Archive](https://asmr.ahegao.dev/) |
 | ^^         | [Sakura ASMR Archive](https://stash.frostedsakura.my.id/) |
 | Database   | [Virtual YouTuber Wiki](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki) |
@@ -30,11 +30,11 @@ og:
 |Schedule    | [Hololyzer](https://www.hololyzer.net/) |
 | ^^         | [Userlocal](https://virtual-youtuber.userlocal.jp/) :fjp: |
 | ^^         | [vTubie](https://vtubie.com/) |
-| ^^         | [VTuber Schedule](https://vtuberschedules.com/) [:gh:](https://github.com/clovenski/vtuber-schedules) |
+| ^^         | [VTuber Schedule](https://vtuberschedules.com/) [:src:](https://github.com/clovenski/vtuber-schedules) |
 | News       | [VTuber Highlights](https://vtuber.atodeyo.com/) :fjp: |
 | ^^         | [VTuber Newsdrop](https://vtubernewsdrop.com/) |
-| Non-English | [VTBs in Bilibili!](https://vtbs.moe/) :fcn: [:gh:](https://github.com/dd-center/vtbs.moe/) |
-| ^^          | [臺灣 VTuber 列表](https://taiwanvtuberdata.github.io/) :flag-taiwan: [:gh:](https://github.com/TaiwanVtuberData/TaiwanVtuberTrackingData) |
+| Non-English | [VTBs in Bilibili!](https://vtbs.moe/) :fcn: [:src:](https://github.com/dd-center/vtbs.moe/) |
+| ^^          | [臺灣 VTuber 列表](https://taiwanvtuberdata.github.io/) :flag-taiwan: [:src:](https://github.com/TaiwanVtuberData/TaiwanVtuberTrackingData) |
 | Others     | [Mogu](https://mogu.holopirates.moe/) |
 
 ## Hololive
@@ -42,19 +42,19 @@ og:
 | Category      | Name & Link |
 |--------------|------------|
 | **Fan Projects** | [ENreco Archive](https://enreco-archive.net/#0/0) |
-| ^^           | [HoloEN Fan Website](https://holoen.fans/en) [:gh:](https://github.com/GoldElysium/hef-website) ==hef== |
+| ^^           | [HoloEN Fan Website](https://holoen.fans/en) [:src:](https://github.com/GoldElysium/hef-website) ==hef== |
 | ^^           | [Hololive Fan Wiki](https://hololive.wiki/wiki/Main_Page) |
 | ^^           | [Mumei Soundboard](https://mumei-cute.com/) |
-| ^^           | [Musicdex](https://music.holodex.net/) :s: [:gh:](https://github.com/HolodexNet/Musicdex) |
+| ^^           | [Musicdex](https://music.holodex.net/) :s: [:src:](https://github.com/HolodexNet/Musicdex) |
 | **Official** | [Hololive MMD Models](https://3d.nicovideo.jp/users/89765617/works) |
 | ^^          | [Hololive Production](https://hololive.hololivepro.com/) <Badge type="info" text="Schedule" link="https://schedule.hololive.tv/lives"/> |
 | ^^          | [holoplus](https://www.holoplus.com/) |
-| **Stats**   | [Hololive Spotify Stats](https://holo-spotify-stats.jirikunes.eu/) [:gh:](https://github.com/kunesj/holo-spotify-stats) |
-| ^^          | [Hololive Livestream Activity Statistics](https://holopro-yt-livestream-activity-statistics.streamlit.app/) [:gh:](https://github.com/risbi0/Hololive-Production-Livestream-Activity-Statistics) |
-| ^^          | [HoloChatStats](https://holochatstats.info/) [:gh:](https://github.com/mipacd/HoloChatStats) |
+| **Stats**   | [Hololive Spotify Stats](https://holo-spotify-stats.jirikunes.eu/) [:src:](https://github.com/kunesj/holo-spotify-stats) |
+| ^^          | [Hololive Livestream Activity Statistics](https://holopro-yt-livestream-activity-statistics.streamlit.app/) [:src:](https://github.com/risbi0/Hololive-Production-Livestream-Activity-Statistics) |
+| ^^          | [HoloChatStats](https://holochatstats.info/) [:src:](https://github.com/mipacd/HoloChatStats) |
 | ^^          | [Holotracker](https://trackholo.live/en/) |
 | ^^          | [Holouta Songs](https://www.youtube.com/@hololivesongs9790/) :fjp: |
-| **News**    | [aside's newsfeed](https://asideaside.github.io/feed/#/) [:gh:](https://github.com/asideaside/feed) |
+| **News**    | [aside's newsfeed](https://asideaside.github.io/feed/#/) [:src:](https://github.com/asideaside/feed) |
 | ^^          | [Hololive merch information](https://merch-matome.com/) :fjp: [:x:](https://x.com/hololive_goods) |
 | ^^          | [hololive TODAY](https://hololivetoday.com/)  |
 | ^^          | [Hololive Tsuushin](https://hololive-tsuushin.com/) :fjp: |
@@ -75,14 +75,14 @@ og:
 | ^^           | [yt-dlp](https://github.com/yt-dlp/yt-dlp) |
 | ^^           | [ytarchive](https://github.com/Kethsar/ytarchive) |
 | **Stream**   | [Ragtag Player](https://archive.ragtag.moe/player) |
-| ^^          | [Streamlink](https://streamlink.github.io/index.html) [:gh:](https://github.com/streamlink/streamlink) |
+| ^^          | [Streamlink](https://streamlink.github.io/index.html) [:src:](https://github.com/streamlink/streamlink) |
 | ^^          | [Twitch Multi-Streamer](https://multistreamer.lucidnet.app/) |
 
 #### Related resources
 
 | Category      | Name & Link |
 |--------------|------------|
-| **Streamlink** | [Streamlink Twitch GUI](https://streamlink.github.io/streamlink-twitch-gui/) [:gh:](https://github.com/streamlink/streamlink-twitch-gui) |
+| **Streamlink** | [Streamlink Twitch GUI](https://streamlink.github.io/streamlink-twitch-gui/) [:src:](https://github.com/streamlink/streamlink-twitch-gui) |
 | **yt-dlp**   | [yt-dlp GUI](https://github.com/kannagi0303/yt-dlp-gui) |
 | ^^           | [yt-dlp GUI Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer) |
 | ^^           | [yt-dlp interface](https://github.com/ErrorFlynn/ytdlp-interface) |

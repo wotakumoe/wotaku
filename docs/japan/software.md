@@ -33,7 +33,7 @@ ___
 - [Advanced Browser](https://ankiweb.net/shared/info/874215009)
 - [AnkiMorphs](https://mortii.github.io/anki-morphs/intro.html)
 - [Batch Installer For Immersion Kit](https://github.com/kaanium/Batch-Installer-For-Immersion-Kit)
-- [Anki SRS Kai](https://kuroahna.github.io/anki_srs_kai/) [:gh:](https://github.com/kuroahna/anki_srs_kai)
+- [Anki SRS Kai](https://kuroahna.github.io/anki_srs_kai/) [:src:](https://github.com/kuroahna/anki_srs_kai)
 - [Forvo Pronunciation Downloader fully automatic](https://ankiweb.net/shared/info/1784714388)
 - [Immersion Kit Downloader](https://ankiweb.net/shared/info/1317828804)
 - [Kanji Grid](https://github.com/Kuuuube/kanjigrid)
@@ -44,7 +44,7 @@ ___
 - [Review Heatmap](https://ankiweb.net/shared/info/1771074083)
 - [Search Stats Extended](https://ankiweb.net/shared/info/1613056169)
 - [WaniAnki](https://damiansh.github.io/waniAnki/instructions)
-- [Yomichan Forvo Server](https://ankiweb.net/shared/info/580654285) [:gh:](https://github.com/jamesnicolas/yomichan-forvo-server)
+- [Yomichan Forvo Server](https://ankiweb.net/shared/info/580654285) [:src:](https://github.com/jamesnicolas/yomichan-forvo-server)
 - [Yomitan Backfill](https://ankiweb.net/shared/info/1184164376)
 - [Yomitan Frequency Sort](https://ankiweb.net/shared/info/295700265)
 
@@ -61,7 +61,7 @@ ___
 ### Decks
 
 #### Kanji
-- [Hanzi Web](https://ankiweb.net/shared/info/125468335?cb=1740905928130) [:gh:](https://github.com/elizagamedev/anki-hanziweb)
+- [Hanzi Web](https://ankiweb.net/shared/info/125468335?cb=1740905928130) [:src:](https://github.com/elizagamedev/anki-hanziweb)
 - [KanjiDamage](https://ankiweb.net/shared/info/748570187)
 - [Kanji de Go](https://github.com/MarvNC/kanjidego-yomitan-anki)
 - [Kanken Deck](https://ankiweb.net/shared/info/759825185) <Badge type="info" text="Advanced" /> [:alt:](https://ankiweb.net/shared/info/1113953752)
@@ -102,7 +102,7 @@ ___
 #### Android
 - [Japanese Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy)
 - [jidoujisho](https://github.com/lrorpilla/jidoujisho) :s:
-- [Kakugo](https://play.google.com/store/apps/details?id=org.kaqui) [:gh:](https://github.com/blastrock/kakugo)
+- [Kakugo](https://play.google.com/store/apps/details?id=org.kaqui) [:src:](https://github.com/blastrock/kakugo)
 - [Kanji Dojo](https://play.google.com/store/apps/details?id=ua.syt0r.kanji)
 - [Kata](https://play.google.com/store/apps/details?id=im.dacer.kata)
 - [kawaiiNihongo](https://play.google.com/store/apps/details?id=de.mardukcorp.kawaiinihongo)
@@ -141,13 +141,13 @@ ___
 ### Media
 
 #### Video Player
-- [Anime Subtitle Player](https://anime-subtitle-player.vercel.app/) :web: [:gh:](https://github.com/LostArrows27/anime-subtitle-player)
+- [Anime Subtitle Player](https://anime-subtitle-player.vercel.app/) :web: [:src:](https://github.com/LostArrows27/anime-subtitle-player)
 - [Animebook](https://animebook.github.io/) :web: [:help:](https://cademcniven.com/posts/20210703/)
-- [Asbplayer](https://killergerbah.github.io/asbplayer/) :web::cr: [:gh:](https://github.com/killergerbah/asbplayer)
+- [Asbplayer](https://killergerbah.github.io/asbplayer/) :web::cr: [:src:](https://github.com/killergerbah/asbplayer)
   - [Yomine](https://github.com/mcgrizzz/Yomine)
 - [Emby Jimaku](https://github.com/bpwhelan/Emby.Jimaku)
-- [Voracious](https://voracious.app/) :win::lin: [:gh:](https://github.com/rsimmons/voracious)
-- [Zak's asbplayer](https://zakwarsame.github.io/asbplayer/) :web: [:gh:](https://github.com/zakwarsame/asbplayer)
+- [Voracious](https://voracious.app/) :win::lin: [:src:](https://github.com/rsimmons/voracious)
+- [Zak's asbplayer](https://zakwarsame.github.io/asbplayer/) :web: [:src:](https://github.com/zakwarsame/asbplayer)
 ___
 #### mpv
 - [Anacreon MPV script](https://github.com/friedrich-de/Anacreon-Script) <Badge type="info" text="animecards" link="https://animecards.site/minefromanime/" />
@@ -166,11 +166,11 @@ ___
   - [KojoZero's fork](https://github.com/KojoZero/mokuro-reader)
   - [Mokuro Catalog](https://mokuro.moe/) [:alt:](https://catalog.mokuro.moe/)
   - [Mokuro.moe Full Manga Catalog [2024-10-09]](https://rentry.org/wotadirect)
-- [ttsu Ebook Reader](https://reader.ttsu.app/) :web: [:gh:](https://github.com/ttu-ttu/ebook-reader) 
+- [ttsu Ebook Reader](https://reader.ttsu.app/) :web: [:src:](https://github.com/ttu-ttu/ebook-reader) 
 
 
 ### Browser
-- [Yomitan](https://yomitan.wiki/) :s: :ff::cr: [:gh:](https://github.com/yomidevs/yomitan) [:help:](https://learnjapanese.moe/yomichan/)<tooltip>Pop-up dictionary. Can be used on mobile, with browsers that support extensions.</tooltip>
+- [Yomitan](https://yomitan.wiki/) :s: :ff::cr: [:src:](https://github.com/yomidevs/yomitan) [:help:](https://learnjapanese.moe/yomichan/)<tooltip>Pop-up dictionary. Can be used on mobile, with browsers that support extensions.</tooltip>
     - [Yomitan Dictionaries](https://github.com/MarvNC/yomichan-dictionaries/)
     - [Collection of Yomitan dictionaries (japanese)](https://rentry.org/wotadirect#japansoftware)
     - [Yomitan Grammar Dictionaries](https://github.com/aiko-tanaka/Grammar-Dictionaries)
@@ -202,7 +202,7 @@ ___
   - [subs2cia](https://github.com/dxing97/subs2cia) :app::lin:
 - **Others**
   - [Subtitle Downloader](https://github.com/wayneclub/Subtitle-Downloader) :win::app::lin:
-  - [Nekomoe JP Formatter](https://jp-formatter.pages.dev/) :web: [:gh:](https://github.com/Nekomoekissaten-SUB/nekomoe-jp-formatter)
+  - [Nekomoe JP Formatter](https://jp-formatter.pages.dev/) :web: [:src:](https://github.com/Nekomoekissaten-SUB/nekomoe-jp-formatter)
   - [SubPlz](https://github.com/kanjieater/SubPlz/) :win::lin:
   - [Sub transition](https://github.com/Ajatt-Tools/sub-transition) :simple-icons-mpv:
   - [Subtitle Character Counter](https://cademcniven.com/subtitleCharacterCounter.html) :web:
@@ -227,7 +227,7 @@ ___
 ___
 #### Others
 - [ComicEater](https://github.com/kanjieater/ComicEater)
-- [Furiganalyse](https://furiganalyse.itsupera.co/) :web: [:gh:](https://github.com/itsupera/furiganalyse)
+- [Furiganalyse](https://furiganalyse.itsupera.co/) :web: [:src:](https://github.com/itsupera/furiganalyse)
 - [GenkiYoshi](https://github.com/FragozoLeonardo/Genki-Yoshi)
 - [imajin.py](https://github.com/YonKuma/imajin.py)
 - [LN Readability](https://colab.research.google.com/github/Gilfaro/ln-recommender/blob/main/LNReadability.ipynb)

@@ -35,10 +35,10 @@ Dedicated clients are recommended since they have a lot torrent-centric features
 | ^^        | [LibreTorrent](https://github.com/proninyaroslav/libretorrent) :s: |
 | ^^        | [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) ==Flud== |
 | iOS       | [iTorrent](https://github.com/XITRIX/iTorrent) |
-| PC        | [qBittorrent](https://www.qbittorrent.org/) :s: [:gh:](https://github.com/qbittorrent/qBittorrent/) |
-| ^^        | [Deluge](https://www.deluge-torrent.org/) [:gh:](https://github.com/deluge-torrent/deluge) |
-| ^^        | [Transmission](https://transmissionbt.com/) [:gh:](https://github.com/transmission/transmission) |
-| ^^        | [Fragments](https://apps.gnome.org/Fragments/) [:gn:](https://gitlab.gnome.org/World/Fragments) |
+| PC        | [qBittorrent](https://www.qbittorrent.org/) :s: [:src:](https://github.com/qbittorrent/qBittorrent/) |
+| ^^        | [Deluge](https://www.deluge-torrent.org/) [:src:](https://github.com/deluge-torrent/deluge) |
+| ^^        | [Transmission](https://transmissionbt.com/) [:src:](https://github.com/transmission/transmission) |
+| ^^        | [Fragments](https://apps.gnome.org/Fragments/) [:src:](https://gitlab.gnome.org/World/Fragments) |
 
 ### General
 
@@ -47,11 +47,11 @@ Dedicated clients are recommended since they have a lot torrent-centric features
 | Android  | [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) :cs: |
 | ^^       | [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) :cs: |
 | ^^       | [Aria2App](https://github.com/devgianlu/Aria2App) |
-| ^^       | [Gopeed](https://gopeed.com/) [:gh:](https://github.com/GopeedLab/gopeed) |
-| iOS      | [Gopeed](https://gopeed.com/) [:gh:](https://github.com/GopeedLab/gopeed) |
-| PC       | [aria2](https://aria2.github.io/) [:gh:](https://github.com/aria2/aria2) |
-| ^^       | [File centipede](https://filecxx.com/en_US/index.html) [:gh:](https://github.com/filecxx/FileCentipede) |
-| ^^       | [Gopeed](https://gopeed.com/) [:gh:](https://github.com/GopeedLab/gopeed) |
+| ^^       | [Gopeed](https://gopeed.com/) [:src:](https://github.com/GopeedLab/gopeed) |
+| iOS      | [Gopeed](https://gopeed.com/) [:src:](https://github.com/GopeedLab/gopeed) |
+| PC       | [aria2](https://aria2.github.io/) [:src:](https://github.com/aria2/aria2) |
+| ^^       | [File centipede](https://filecxx.com/en_US/index.html) [:src:](https://github.com/filecxx/FileCentipede) |
+| ^^       | [Gopeed](https://gopeed.com/) [:src:](https://github.com/GopeedLab/gopeed) |
 
 
 ## PC guide

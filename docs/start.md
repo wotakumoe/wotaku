@@ -143,6 +143,8 @@ To learn, how to add tooltips, [click here](#tooltip).
 | Icon | Code | Desc |
 |-|-|-|
 | :s: | `:s:` | Favorite |
+| :src: | `:src:` | Source Code |
+| :cs: | `:cs:` | Closed Source |
 | :e: | `:e:` | Extension(s) |
 | :prx: | `:prx:` | Proxies |
 | :ero: | `:ero:` | Focuses on NSFW content |
@@ -187,17 +189,6 @@ To learn, how to add tooltips, [click here](#tooltip).
 | :coin: | `:coin:` | Coin / Point |
 | :fm: | `:fm:` | Freemium |
 
-== Source
-
-| Icon | Code | Desc |
-|-|-|-|
-| :gh: | `:gh:` | GitHub |
-| :gl: | `:gl:` | GitLab |
-| :cb: | `:cb:` | Codeberg |
-| :kde: | `:kde:` | KDE |
-| :gn: | `:gn:` | GNOME |
-| :gt: | `:gt:` | Gitea |
-| :cs: | `:cs:` | Closed Source |
 
 == Platform
 

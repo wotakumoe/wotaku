@@ -85,7 +85,7 @@ og:
 :::steps
 1. Copy the **Manual URL**
 2. Go to AnymeX app
-3. Click Profile picture /:material-symbols-person-rounded: -> :mdi-puzzle: **Extensions** -> Click :gh:
+3. Click Profile picture /:material-symbols-person-rounded: -> :mdi-puzzle: **Extensions** -> Click :src:
 4. Paste the URL based on repo type and click **Confirm**
 :::
 
@@ -96,6 +96,6 @@ og:
 :::steps
 1. Copy the **Manual URL**
 2. Go to Dartotsu app
-3. Click :material-symbols-settings: -> :mdi-puzzle: **Extensions** -> **Available Anime / Manga / Novel** -> Click :gh:
+3. Click :material-symbols-settings: -> :mdi-puzzle: **Extensions** -> **Available Anime / Manga / Novel** -> Click :src:
 4. Paste the URL and click **OK**
 :::

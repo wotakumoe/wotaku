@@ -104,12 +104,12 @@ og:
   - [Anime Garden](https://garden.breadio.wiki/)
   - [Bangumi](https://bangumi.moe/)
   - [DMHY](https://dmhy.org/)
-  - [Mikan Project](https://mikanani.me/) [:gh:](https://github.com/iota9star/mikan_flutter)
+  - [Mikan Project](https://mikanani.me/) [:src:](https://github.com/iota9star/mikan_flutter)
   - [MioBT](http://www.miobt.com/)
   - [Nyaa Pantsu](https://ouo.si/)
 - **Others**
-  - [BangumiD](https://bgmd.bytex.space/) [:gh:](https://github.com/iota9star/bgmd)
-  - [Bangumi Staff Statistics](https://search.bgmss.fun/) [:gh:](https://github.com/AcuLY/BangumiStaffStats)
+  - [BangumiD](https://bgmd.bytex.space/) [:src:](https://github.com/iota9star/bgmd)
+  - [Bangumi Staff Statistics](https://search.bgmss.fun/) [:src:](https://github.com/AcuLY/BangumiStaffStats)
 
 ### Comics
 - [69xinshu](https://69shuba.cx/index.html)
@@ -120,7 +120,7 @@ og:
 - [Colamanga](https://www.colamanga.com/)
 - [Copymanga](https://www.mangacopy.com/) [:alt:](https://www.copy20.com/) :ero:
 - [Komiic](https://komiic.com/)
-- [Manga Reader](https://1zumii.github.io/manga-reader/#/) [:gh:](https://github.com/1zumii/manga-reader)
+- [Manga Reader](https://1zumii.github.io/manga-reader/#/) [:src:](https://github.com/1zumii/manga-reader)
 - [Manhua Gui](https://www.manhuagui.com/)
 - [TVBS Comics](https://www.tvbsmh.com/)
 - [XManhua](https://xmanhua.com/)
@@ -145,7 +145,7 @@ og:
 | **Anime** | [AGETV](https://github.com/muedsa/AGETV) |
 | ^^       | [Ani](https://github.com/open-ani/ani) |
 | ^^       | [Anime](https://github.com/lanlinju/Anime) |
-| ^^       | [Animeko](https://myani.org/) [:gh:](https://github.com/open-ani/animeko) |
+| ^^       | [Animeko](https://myani.org/) [:src:](https://github.com/open-ani/animeko) |
 | ^^       | [DMZJ](https://github.com/xiaoyaocz/flutter_dmzj) |
 | ^^       | [Kazumi](https://github.com/Predidit/Kazumi) |
 | ^^       | [Mediabox](https://github.com/RyensX/MediaBox) |
@@ -171,9 +171,9 @@ og:
 | Category | Resources |
 |----------|-----------|
 | **Anime** | [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) <Badge text="Downloader" /> |
-| ^^       | [Miru App](https://miru.js.org/) [:gh:](https://github.com/miru-project/miru-app) |
+| ^^       | [Miru App](https://miru.js.org/) [:src:](https://github.com/miru-project/miru-app) |
 | ^^       | [Bangumi Renamer](https://github.com/nuthx/bangumi-renamer) |
-| **Manga** | [Miru App](https://miru.js.org/) [:gh:](https://github.com/miru-project/miru-app) |
+| **Manga** | [Miru App](https://miru.js.org/) [:src:](https://github.com/miru-project/miru-app) |
 | ^^       | [Venra](https://github.com/venera-app/venera) |
 | ^^       | [Bilibili manga downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) <Badge text="Downloader" /> |
 | ^^       | [Bilibili manga watermark remover](https://github.com/lanyeeee/bilibili-manga-watermark-remover) |
@@ -322,7 +322,7 @@ og:
   - [SKUY](https://skuy.co.id/) :acc:
   - [Kazefuri](https://kazefuri.info/)
   - [Kuramanime](https://kuramanime.red/)
-  - [Kiyocomics](https://kiyocomics.netlify.app/) [:gh:](https://github.com/Bilhaq12/kiyoanime)
+  - [Kiyocomics](https://kiyocomics.netlify.app/) [:src:](https://github.com/Bilhaq12/kiyoanime)
   - [Mynimeku](https://www.mynimeku.com/)
   - [Otaku Desu](https://otakudesu.cloud/)
   - [Samehadaku](https://samehadaku.care/)
@@ -480,7 +480,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [Animesub](http://animesub.info/)
 - [Anime Zone](https://www.animezone.pl/)
 - [Desu Online](https://desu-online.pl/)
-- [Docchi](https://docchi.pl/) [:gh:](https://github.com/docchipl/shinden-description)
+- [Docchi](https://docchi.pl/) [:src:](https://github.com/docchipl/shinden-description)
 - [Frixy Subs](https://frixysubs.pl/)
 - [Fumetsu](https://fumetsu.pl/)
 - [Grupa Mirai](https://www.grupa-mirai.pl/)
@@ -491,7 +491,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 ### Software
 
 #### Android
-- [Naikamu](https://naikamu.com/) [:gh:](https://github.com/fezmlg/naikamu)
+- [Naikamu](https://naikamu.com/) [:src:](https://github.com/fezmlg/naikamu)
 
 ## Portuguese
 
@@ -566,13 +566,13 @@ ___
 - [AnimeLIB](https://anilib.me/)
 - [AnimeStars](https://animestars.org/) <Badge type="info" text="Aggregator" />
 - [Animevost](https://animevost.org/)
-- [Anisun](https://anisun.vercel.app/en) [:gh:](https://github.com/notwindstone/anisun)
+- [Anisun](https://anisun.vercel.app/en) [:src:](https://github.com/notwindstone/anisun)
 - [Dream Cast](https://dreamerscast.com/)
 - [Kage Project](http://fansubs.ru/)<tooltip>Subtitle files only, you need to get the episodes from another source.</tooltip>
 - [MAL to Kodik](https://mal-to-kodik.github.io/) <Badge type="info" text="Aggregator" />
 - [One Pace](https://onepace-ru.tilda.ws/)
 - [OTA-KUN](https://ota-ku.am/)
-- [Tunime](https://an0ncer.github.io/) [:gh:](https://github.com/AN0NCER/an0ncer.github.io) <Badge type="info" text="Sub" />
+- [Tunime](https://an0ncer.github.io/) [:src:](https://github.com/AN0NCER/an0ncer.github.io) <Badge type="info" text="Sub" />
 - [YummyAnime](https://site.yummyani.me/)
 
 ### Manga
@@ -676,7 +676,7 @@ ___
 
 | Category | Resources |
 |-|-|
-| Anime | [UKIKU](https://ukiku.app/) [:gh:](https://github.com/jordyamc/UKIKU) |
+| Anime | [UKIKU](https://ukiku.app/) [:src:](https://github.com/jordyamc/UKIKU) |
 
 
 ## Turkish
@@ -720,9 +720,9 @@ ___
 - [Ani4u](https://ani4u.org/)
 - [Anime47](https://anime47.shop/)
 - [AnimeHay](https://animehay.in/)
-- [AnimeVsub](https://animevsub.eu.org/) [:gh:](https://github.com/anime-vsub/desktop-web)
+- [AnimeVsub](https://animevsub.eu.org/) [:src:](https://github.com/anime-vsub/desktop-web)
 - [HHNINJA](hhninja14) [:prx:](https://hhtq1.xyz/)
-- [Unime](https://unime.vercel.app/) [:gh:](https://github.com/huy232/Unime)
+- [Unime](https://unime.vercel.app/) [:src:](https://github.com/huy232/Unime)
 - [WebLinhTinh](https://weblinhtinh1.net/)
 
 ### Comics
@@ -731,7 +731,7 @@ ___
 - [DocTruyen3Q](https://doctruyen3qui15.com/) :ero:
 - [FoxTruyen](https://foxtruyen.com/)
 - [Goc Truyen Tranh](https://goctruyentranh.net/)
-- [MangaMAX](https://manga-max.vercel.app/) [:gh:](https://github.com/huynlx/MangaMAX)
+- [MangaMAX](https://manga-max.vercel.app/) [:src:](https://github.com/huynlx/MangaMAX)
 - [NhatTruyen](https://nhattruyenqq.com/)
 - [Than Vuc](https://thanvuc.com/)
 - [TopTruyen](https://www.toptruyentv11.com/)
@@ -765,8 +765,8 @@ ___
 | Category | Resources |
 |-|-|
 | General | [Hoyomi](https://github.com/tachibana-shin/hoyomi) |
-| Anime | [Anime VSub](https://app.animevsub.eu.org/) [:gh:](https://github.com/anime-vsub/app) |
-| Comics | [TruyenDex](https://truyendex.cc/) [:gh:](https://github.com/zennomi/truyendex) |
+| Anime | [Anime VSub](https://app.animevsub.eu.org/) [:src:](https://github.com/anime-vsub/app) |
+| Comics | [TruyenDex](https://truyendex.cc/) [:src:](https://github.com/zennomi/truyendex) |
 
 #### iOS
 

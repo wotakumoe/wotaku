@@ -10,9 +10,9 @@ og:
 ## Readers
 
 ### Android
-- [Mihon](https://mihon.app/) :s: [:gh:](https://github.com/mihonapp/mihon)
-- [Yokai](https://mihon.app/forks/Yokai/) [:gh:](https://github.com/null2264/yokai)
-- [Komikku](https://komikku-app.github.io/) [:gh:](https://github.com/komikku-app/komikku)
+- [Mihon](https://mihon.app/) :s: [:src:](https://github.com/mihonapp/mihon)
+- [Yokai](https://mihon.app/forks/Yokai/) [:src:](https://github.com/null2264/yokai)
+- [Komikku](https://komikku-app.github.io/) [:src:](https://github.com/komikku-app/komikku)
 - [Komelia](https://github.com/Snd-R/Komelia) <Badge type="info" text="Komga" />
 
 ### iOS
@@ -21,13 +21,13 @@ og:
 
 ### PC
 - **Dedicated**
-  - [OpenComic](https://opencomic.app/) :s::win::app::lin: [:gh:](https://github.com/ollm/OpenComic)
-  - [NeeView](https://neelabo.github.io/NeeView/en-us/) :win: [:gh:](https://github.com/neelabo/NeeView)
-  - [YACReader](https://www.yacreader.com/) :win::app::lin: :warning: [:gh:](https://github.com/YACReader/yacreader)<tooltip>For some lossy original images it won't work. Kinda random.</tooltip>
+  - [OpenComic](https://opencomic.app/) :s::win::app::lin: [:src:](https://github.com/ollm/OpenComic)
+  - [NeeView](https://neelabo.github.io/NeeView/en-us/) :win: [:src:](https://github.com/neelabo/NeeView)
+  - [YACReader](https://www.yacreader.com/) :win::app::lin: :warning: [:src:](https://github.com/YACReader/yacreader)<tooltip>For some lossy original images it won't work. Kinda random.</tooltip>
   - [Komelia](https://github.com/Snd-R/Komelia) :win::lin: <Badge type="info" text="Komga" />
 - **Photo Viewer**
   - [XnView MP](https://www.xnview.com/en/xnviewmp/) :win::app::lin::cs:
-  - [Picview](https://picview.org/) :win: [:gh:](https://github.com/Ruben2776/PicView/)
+  - [Picview](https://picview.org/) :win: [:src:](https://github.com/Ruben2776/PicView/)
   - [Bandiview](https://en.bandisoft.com/bandiview/) :win::paid::cs:
 
 ## Guide

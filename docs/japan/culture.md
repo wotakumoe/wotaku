@@ -65,7 +65,7 @@ og:
 - [Kanpai!](https://www.kanpai-japan.com/)
 - [LIVE JAPAN](https://livejapan.com/)
 - [MATCHA](https://matcha-jp.com/en)
-- [Mini Tokyo 3D](https://minitokyo3d.com/) :s: [:gh:](https://github.com/nagix/mini-tokyo-3d)
+- [Mini Tokyo 3D](https://minitokyo3d.com/) :s: [:src:](https://github.com/nagix/mini-tokyo-3d)
 - [Tokyo Cheapo](https://tokyocheapo.com/)
 
 ### Japanese

@@ -16,11 +16,11 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 # Stream
 
 ## Anime
-- [AnimeThemes](https://animethemes.moe/) :s: [:gh:](https://github.com/AnimeThemes) [:alt:](https://themes.moe/)
+- [AnimeThemes](https://animethemes.moe/) :s: [:src:](https://github.com/AnimeThemes) [:alt:](https://themes.moe/)
 - [Animusic](https://animusic.moe/)
 - [Karaoke Mugen](https://kara.moe)
 - [Lyrical Nonsense](https://www.lyrical-nonsense.com/global/)
-- [Anisong Database](https://anisongdb.com/) [:gh:](https://github.com/xSardine/AMQ-Artists-DB) [:alt:](https://43d.github.io/player/#/)
+- [Anisong Database](https://anisongdb.com/) [:src:](https://github.com/xSardine/AMQ-Artists-DB) [:alt:](https://43d.github.io/player/#/)
 - [Squidify](https://www.squidify.org/) [:alt:](https://www.squidify.net/) [:help:](/guides/music/squidify)
 - [One Piece Tracklist](http://onepiecetracklist.com/)
 
@@ -169,7 +169,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 |---------|---------|-----|
 | [asia DREAM radio](https://asiadreamradio.torontocast.stream/stations/en/index.html) | [MP3 128](https://asiadreamradio.torontocast.stream/stations/newstream.html) | General |
 | [J1 Radio](https://www.j1fm.tokyo/player/j1hits/) | [MP3 128](https://www.j1fm.tokyo/listen/) | General |
-| [Nightwave Plaza](https://plaza.one/) [:and:](https://play.google.com/store/apps/details?id=one.plaza.nightwaveplaza) [:app:](https://apps.apple.com/us/app/nightwave-plaza/id1532678227) [:gh:](https://github.com/nightwaveplaza/plaza) | [MP3 128](https://plaza.one/plaza.m3u) | Vaporwave |
+| [Nightwave Plaza](https://plaza.one/) [:and:](https://play.google.com/store/apps/details?id=one.plaza.nightwaveplaza) [:app:](https://apps.apple.com/us/app/nightwave-plaza/id1532678227) [:src:](https://github.com/nightwaveplaza/plaza) | [MP3 128](https://plaza.one/plaza.m3u) | Vaporwave |
 | [Patchwork Radio](https://patchwork.moekyun.me/radio) | [MP3 192](https://a4.asurahosting.com/public/patchworkarchive/playlist.m3u) | VTuber |
 | [Wapchan](https://radio.wapchan.org/public/wapfm) | [128](https://radio.wapchan.org/public/wapfm/playlist.pls) | City Pop |
 | [Yumi Co. Radio](https://yumicoradio.net/) | [MP3 256](http://s1.yumicoradio.net:8000/stream.m3u) | City Pop |
@@ -177,9 +177,9 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 ### Aggregators
 - [FMSTREAM](https://fmstream.org/)
 - [Globe Radio](https://globeradio.app/)
-- [RadioBrowser](https://www.radio-browser.info/) [:gl:](https://gitlab.com/radiobrowser/radiobrowser-web-angular)
+- [RadioBrowser](https://www.radio-browser.info/) [:src:](https://gitlab.com/radiobrowser/radiobrowser-web-angular)
 - [Radio Garden](https://radio.garden/)
-- [Sasalele Music Station](https://basic.pp.ua/) [:gh:](https://github.com/Mikeexe2/Sasalele-Music-Station)
+- [Sasalele Music Station](https://basic.pp.ua/) [:src:](https://github.com/Mikeexe2/Sasalele-Music-Station)
 
 ## Anime
 | Website | Quality | Language |
@@ -227,7 +227,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | **Tracklist** | [tagger.site](https://martinbarker.me/tagger) |
 |    ^^      | [YADG](https://yadg.cc/) |
 | **Release**  | [MusicButler](https://www.musicbutler.io/) :s: |
-|    ^^      | [ReleaseFeed](https://releasefeed.elomatreb.eu/) [:cb:](https://codeberg.org/elomatreb/releasefeed) |
+|    ^^      | [ReleaseFeed](https://releasefeed.elomatreb.eu/) [:src:](https://codeberg.org/elomatreb/releasefeed) |
 | **Others**   | [Instafest](https://www.instafest.app/) |
 |    ^^      | [Jukebox](https://jukebox.today/) |
 |    ^^      | [Songle](https://songle.jp/) |
@@ -237,35 +237,35 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 ## Spotify
 | Category            | Resource |
 |--------------------|--------------------------------------------------|
-| **Availability**   | [Album Availability on Spotify](https://kaaes.github.io/albums-availability/) [:gh:](https://github.com/kaaes/albums-availability) |
-| ^^                 | [Check Track Availability](https://spotify-check-track-availability.vercel.app/) [:gh:](https://github.com/wcelery/spotify-check-track-availability) |
+| **Availability**   | [Album Availability on Spotify](https://kaaes.github.io/albums-availability/) [:src:](https://github.com/kaaes/albums-availability) |
+| ^^                 | [Check Track Availability](https://spotify-check-track-availability.vercel.app/) [:src:](https://github.com/wcelery/spotify-check-track-availability) |
 | **Discovery & Stats** | [Chosic](https://www.chosic.com/) :s: |
 | ^^                 | [Discover Quickly](https://discoverquickly.com/) |
 | ^^                 | [Musicalyst](https://musicalyst.com/) |
 | ^^                 | [Random Music Generator](https://random-song.com/) |
 | ^^                 | [Skiley](https://skiley.net/) :s::fm: |
-| ^^                 | [Spotify Playlist Archive](https://spotifyplaylistarchive.com/) [:gh:](https://github.com/mackorone/spotify-playlist-archive) |
-| ^^                 | [Spotify Release List](https://spotifyreleaselist.netlify.app/) [:gh:](https://github.com/jakubito/spotify-release-list) |
+| ^^                 | [Spotify Playlist Archive](https://spotifyplaylistarchive.com/) [:src:](https://github.com/mackorone/spotify-playlist-archive) |
+| ^^                 | [Spotify Release List](https://spotifyreleaselist.netlify.app/) [:src:](https://github.com/jakubito/spotify-release-list) |
 | ^^                 | [Volt.fm](https://volt.fm/) :s::fm::sub: |
-| **Tools**          | [Exportify](https://exportify.app/) [:gh:](https://github.com/watsonbox/exportify) |
+| **Tools**          | [Exportify](https://exportify.app/) [:src:](https://github.com/watsonbox/exportify) |
 | ^^                 | [MixMoose](https://mixmoose.com/) |
-| ^^                 | [Lyricpost](https://palinkiewicz.github.io/lyricpost/) [:gh:](https://github.com/palinkiewicz/lyricpost) |
+| ^^                 | [Lyricpost](https://palinkiewicz.github.io/lyricpost/) [:src:](https://github.com/palinkiewicz/lyricpost) |
 | ^^                 | [Playlist Sorter](https://www.playlistsorter.com/) |
-| ^^                 | [Spotify Dedup](https://spotify-dedup.com/) [:gh:](https://github.com/JMPerez/spotify-dedup/) |
+| ^^                 | [Spotify Dedup](https://spotify-dedup.com/) [:src:](https://github.com/JMPerez/spotify-dedup/) |
 | ^^                 | [Spotlistr](https://www.spotlistr.com/) |
 
 ## MusicBrainz
 - [a-tisket](https://atisket.pulsewidth.org.uk/)
-- [Harmony](https://harmony.pulsewidth.org.uk/) [:gh:](https://github.com/kellnerd/harmony)
-- [SAMBL: Streaming Artist MusicBrainz Lookup](https://sambl.lioncat6.com/) [:gh:](https://github.com/Lioncat6/SAMBL-React)
+- [Harmony](https://harmony.pulsewidth.org.uk/) [:src:](https://github.com/kellnerd/harmony)
+- [SAMBL: Streaming Artist MusicBrainz Lookup](https://sambl.lioncat6.com/) [:src:](https://github.com/Lioncat6/SAMBL-React)
 
 ## Last.fm
-- [Last.fm stats](https://lastfmstats.com/) [:gh:](https://github.com/felhag/lastfm-stats-web)
+- [Last.fm stats](https://lastfmstats.com/) [:src:](https://github.com/felhag/lastfm-stats-web)
 - [Last History](https://anhuynh.github.io/last-history)
-- [musicorum](https://musicorumapp.com/) [:gh:](https://github.com/musicorum-app)
+- [musicorum](https://musicorumapp.com/) [:src:](https://github.com/musicorum-app)
 - [Open Scrobbler](https://openscrobbler.com/)
 - [Scatter.FM](https://scatterfm.markhansen.co.nz/)
-- [Last.fm Time Charts](https://pmcdonough8133.github.io/last.timer/) [:gh:](https://github.com/pmcdonough8133/last.timer)
+- [Last.fm Time Charts](https://pmcdonough8133.github.io/last.timer/) [:src:](https://github.com/pmcdonough8133/last.timer)
 
 
 
@@ -283,7 +283,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^          | [Anime Song Lyrics](https://www.animesonglyrics.com/) |
 | **Doujin**  | [Dojin Music](https://www.dojin-music.info/) |
 | ^^          | [VocaDB](https://vocadb.net/) |
-| ^^          | [Vocaranking](https://vocaloid-rankings.fly.dev/en) [:gh:](https://github.com/Duosion/vocaloid-rankings) |
+| ^^          | [Vocaranking](https://vocaloid-rankings.fly.dev/en) [:src:](https://github.com/Duosion/vocaloid-rankings) |
 | ^^          | [UtaiteDB](https://utaitedb.net/) |
 | ^^          | [Utaite Key](https://utaite-key.info/) |
 | **Touhou**  | [TouhouDB](https://touhoudb.com/) |
@@ -366,7 +366,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 |-----------|--------|
 | **General** | [Echo](https://github.com/brahmkshatriya/echo) :s::and: [:help:](/guides/music/echo) ==echo== |
 | ^^         | [Soundbound](https://soundbound.app/) :and::cs: |
-| ^^         | [Revanced](https://revanced.app/) :and: [:gh:](https://github.com/revanced) |
+| ^^         | [Revanced](https://revanced.app/) :and: [:src:](https://github.com/revanced) |
 | **YouTube** | [**YouTube Music**](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music) |
 | ^^         | [Innertune](https://github.com/z-huang/InnerTune) :and: |
 | ^^         | [Metrolist](https://github.com/mostafaalagamy/metrolist) :and: |
@@ -414,7 +414,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 ### Local
 - [AIMP](https://www.aimp.ru/) :s::win::cs:
 - [DeaDBeeF](https://deadbeef.sourceforge.io/) :lin:
-- [Elisa](https://apps.kde.org/elisa/) :win::app::lin: [:kde:](https://invent.kde.org/multimedia/elisa)
+- [Elisa](https://apps.kde.org/elisa/) :win::app::lin: [:src:](https://invent.kde.org/multimedia/elisa)
 - [Foobar2000](https://www.foobar2000.org/) :s::win::app::cs:
   - [Foobar2000 add-ons](#foobar2000-add-ons)
 - [Fooyin](https://github.com/fooyin/fooyin)
@@ -430,7 +430,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 - [Official Spotify full installers](https://loadspot.pages.dev/) :win::app::lin:
 - [Harmony Music](https://github.com/anandnet/Harmony-Music) :win::lin:
 - [YouTube Music](https://github.com/th-ch/youtube-music) :win::app::lin:
-- [ytmdesktop2](https://youtube-music.app/) [:gh:](https://github.com/Venipa/ytmdesktop2) :win::app::lin:
+- [ytmdesktop2](https://youtube-music.app/) [:src:](https://github.com/Venipa/ytmdesktop2) :win::app::lin:
 
 
 ### Foobar2000 add-ons
@@ -476,11 +476,11 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 - [Slav Art User Scripts](https://rentry.org/slavartuserscripts) <Badge text="Qobuz" />
 
 ## Converter & Ripper
-- [CUETools](http://cue.tools/wiki/CUETools) :win: [:gh:](https://github.com/gchudov/cuetools.net)
+- [CUETools](http://cue.tools/wiki/CUETools) :win: [:src:](https://github.com/gchudov/cuetools.net)
 - [dBpoweramp](https://www.dbpoweramp.com/) :win::app::cs: <Badge type="warning" text="Trialware" />
 - [Exact Audio Copy](https://exactaudiocopy.de/) :win:
 - [FFmpeg](https://ffmpeg.org/) :win::app::lin:
-- [fre:ac](https://www.freac.org/) :win::app::lin: [:gh:](https://github.com/enzo1982/freac)
+- [fre:ac](https://www.freac.org/) :win::app::lin: [:src:](https://github.com/enzo1982/freac)
 - [SoX](https://sourceforge.net/projects/sox/) :win::app:
 - [X Lossless Decoder](https://tmkk.undo.jp/xld/index_e.html) :app:
 - [Whipper](https://github.com/whipper-team/whipper) :lin:
@@ -528,22 +528,22 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 ### Checker / Visualizer
 - [Bitter](https://www.stillwellaudio.com/plugins/bitter/) :win::app::cs:
-- [cambia LogTools](https://logs.musichoarders.xyz/) :ff::cr: [:gh:](https://github.com/arg274/cambia)
+- [cambia LogTools](https://logs.musichoarders.xyz/) :ff::cr: [:src:](https://github.com/arg274/cambia)
   - [loggers](https://gitlab.com/SuperSaltyGamer/loggers)
-- [Sonic Visualiser](https://www.sonicvisualiser.org/) :win::app::lin: [:gh:](https://github.com/sonic-visualiser/sonic-visualiser/)
-- [Spek](https://www.spek.cc/) :s::win::app::lin: [:gh:](https://github.com/alexkay/spek)
+- [Sonic Visualiser](https://www.sonicvisualiser.org/) :win::app::lin: [:src:](https://github.com/sonic-visualiser/sonic-visualiser/)
+- [Spek](https://www.spek.cc/) :s::win::app::lin: [:src:](https://github.com/alexkay/spek)
 
 ### Tagger
 - [MP3Tag](https://www.mp3tag.de/en/) :win::app::cs:
-- [MusicBrainz Picard](https://picard.musicbrainz.org/) :win::app::lin: [:gh:](https://github.com/metabrainz/picard)
+- [MusicBrainz Picard](https://picard.musicbrainz.org/) :win::app::lin: [:src:](https://github.com/metabrainz/picard)
 - [TagScanner](https://www.xdlab.ru/en/) :win::cs:
-- [beets](https://beets.io/) [:gh:](https://github.com/beetbox/beets) [:help:](https://beets.readthedocs.io/en/stable/index.html)
+- [beets](https://beets.io/) [:src:](https://github.com/beetbox/beets) [:help:](https://beets.readthedocs.io/en/stable/index.html)
 
 ### Misc
 - [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) :win:
   - [Peace Equalizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/) :win:
 - [JamesDSP](https://flathub.org/en/apps/me.timschneeberger.jdsp4linux) :lin:
-- [Karaoke Mugen](https://mugen.karaokes.moe/en/) :win::app::lin: [:gl:](https://gitlab.com/karaokemugen/code/karaokemugen-app)
+- [Karaoke Mugen](https://mugen.karaokes.moe/en/) :win::app::lin: [:src:](https://gitlab.com/karaokemugen/code/karaokemugen-app)
 - [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) :win::app::lin:
 - [Music Presence](https://github.com/ungive/discord-music-presence) :win::app::cs:
 

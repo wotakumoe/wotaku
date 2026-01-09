@@ -114,11 +114,11 @@ og:
 - [yande.re](https://yande.re/)
 
 ### Frontends
-- [Booru Masonry](https://booru.cocomi.eu.org/) :s: [:gh:](https://github.com/asadahimeka/booruwf-web) [:alt:](https://booru.vercel.app/)
-- [Consurf](https://consurf.onrender.com/) [:gh:](https://github.com/QueenAkaAlt/Consurf)
-- [Danbooru Viewer](https://danbooru.defaultkavy.com/) [:gh:](https://github.com/defaultkavy-dev/danbooru-viewer)
+- [Booru Masonry](https://booru.cocomi.eu.org/) :s: [:src:](https://github.com/asadahimeka/booruwf-web) [:alt:](https://booru.vercel.app/)
+- [Consurf](https://consurf.onrender.com/) [:src:](https://github.com/QueenAkaAlt/Consurf)
+- [Danbooru Viewer](https://danbooru.defaultkavy.com/) [:src:](https://github.com/defaultkavy-dev/danbooru-viewer)
 - [Moeview](https://moeview.app/) [:alt:](https://moeview.cocomi.eu.org/)
-- [Pixiv Viewer](https://pixiv.pictures/) [:gh:](https://github.com/asadahimeka/pixiv-viewer)
+- [Pixiv Viewer](https://pixiv.pictures/) [:src:](https://github.com/asadahimeka/pixiv-viewer)
 - [ScrollX](https://scrollx.org/)
 
 ## Games
@@ -159,7 +159,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 
 ## Android
 - **General**
-  - [Komikku](https://komikku-app.github.io/) [:gh:](https://github.com/komikku-app/komikku) [:e:](/guides/ext/mihon)
+  - [Komikku](https://komikku-app.github.io/) [:src:](https://github.com/komikku-app/komikku) [:e:](/guides/ext/mihon)
   - [Hentoid](https://github.com/avluis/Hentoid)
   - [Jasmine](https://github.com/niuhuan/jasmine)
   - [Pupil](https://github.com/tom5079/Pupil)
@@ -211,7 +211,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 | Category | Websites |
 |-|-|
 | Database | [DOJINDB](https://dojindb.net/) :fjp: |
-| ^^ | [Doujinshi.info](https://www.doujinshi.info/) [:gh:](https://github.com/doujinshi-info/frontend-nuxt) |
+| ^^ | [Doujinshi.info](https://www.doujinshi.info/) [:src:](https://github.com/doujinshi-info/frontend-nuxt) |
 | ^^ | [HentTag](https://hentag.com/) |
 | ^^ | [Manga-DB](https://adultcomic.dbsearch.net/) :fjp::s: |
 | Info | [Fapservice](https://fapservice.com/) |
@@ -290,7 +290,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [MALSync Adult](https://sleazyfork.org/en/scripts/387981-mal-sync-adult-fatexxxblood-edition)
 - [Manga Loader NSFW](https://sleazyfork.org/en/scripts/483574-manga-loader-nsfw-download)
 - [Manga OnlineViewer](https://github.com/TagoDR/MangaOnlineViewer)
-- [nhentai helper](https://sleazyfork.org/en/scripts/375992-nhentai-helper) [:gh:](https://github.com/Tsuk1ko/nhentai-helper)
+- [nhentai helper](https://sleazyfork.org/en/scripts/375992-nhentai-helper) [:src:](https://github.com/Tsuk1ko/nhentai-helper)
 - [nhentai konnichiwa](https://github.com/naiymu/nhentai-konnichiwa)
 - [Nhentai Manga Loader](https://github.com/longkidkoolstar/Nhentai-Manga-Loader)
 
