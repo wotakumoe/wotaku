@@ -201,6 +201,7 @@ og:
 | [Holo on Suika](https://tkgames.jp/holo_watermelon.html)       | Free   | Hololive          | TKGames    | TKGames |
 | [ホロポップ (Holo Pop)](https://store.steampowered.com/app/3155810/) :fjp: | Paid | Hololive JP | HappyHoppyHappy | holo Indie |
 | [HoloCafe](https://store.steampowered.com/app/3923440/) | Paid | Hololive | Kevinfu510 | holo Indie |
+| [Hologuard](https://store.steampowered.com/app/3691000/) | Paid | Hololive | illuCalab | holo Indie |
 | [Holoidle](https://store.steampowered.com/app/3543350/) | Paid | Hololive | Kindred Interactive | holo Indie |
 | [hololive Treasure Mountain](https://store.steampowered.com/app/2972990/) | Paid  | Houshou Marine   | BeXide     | holo Indie |
 | [Pebble Jame](https://gioba-games.itch.io/pebble-jame)         | Free   | Koseki Bijou      | Goiba      | Goiba |
