@@ -75,13 +75,8 @@ const aliases: Record<string, string> = {
   coin: 'akar-icons-coin',
 
   // Source
-  gh: 'simple-icons-github',
-  gl: 'simple-icons-gitlab',
-  cb: 'simple-icons-codeberg',
-  kde: 'simple-icons-kde',
-  gn: 'simple-icons-gnome',
-  gt: 'simple-icons-gitea',
-  cs: 'material-symbols-lock-outline',
+  src: 'mdi-package-variant',
+  cs: 'mdi-package-variant-closed-remove',
 
   // Platform
   d: 'simple-icons-discord',
