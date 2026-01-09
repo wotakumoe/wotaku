@@ -403,6 +403,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^           | [Marvis Pro](https://apps.apple.com/au/app/marvis-pro/id1447768809) :mdi-lastfm::app::cs: |
 | **Others**   | [MusicSearch](https://github.com/lydavid/MusicSearch) :and: <Badge type="info" text="MusicBrainz" /> |
 | ^^           | [Seeker](https://github.com/jackBonadies/SeekerAndroid) :and: <Badge type="info" text="Soulseek" /> |
+| ^^           | [SpotiFLAC Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) :and::app: |
 | ^^           | [Stats.fm](https://stats.fm/) :mdi-spotify::and::app::cs: |
 
 
@@ -453,6 +454,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 - [Nicotine+](https://nicotine-plus.org/) :win::app::lin::mdi-lan-pending: ==Nicotine==
 - [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD)
 - [Soggfy](https://github.com/Rafiuth/Soggfy) :win::app::lin:
+- [SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC)
 - [Votify](https://github.com/glomatico/votify)
 - [Zotify](https://github.com/Googolplexed0/zotify)
 
