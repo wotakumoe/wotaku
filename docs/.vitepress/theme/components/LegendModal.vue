@@ -19,6 +19,8 @@ const sections = [
     title: 'Frequent',
     items: [
       { icon: 'i-twemoji-glowing-star', label: 'Favorite' },
+      { icon: 'i-mdi-package-variant', label: 'Source Code' },
+      { icon: 'i-mdi-package-variant-closed-remove', label: 'Closed Source' },
       { icon: 'i-mdi-puzzle', label: 'Extension / Plugin' },
       { icon: 'i-material-symbols-directions-alt', label: 'Proxies' },
       { icon: 'i-twemoji-no-one-under-eighteen', label: 'R18' },
@@ -65,18 +67,6 @@ const sections = [
       { icon: 'i-ic-round-money-off-csred', label: 'Has free content' },
       { icon: 'i-akar-icons-coin', label: 'Coin / Point' },
       { icon: 'i-ic-round-add-shopping-cart', label: 'Freemium' }
-    ]
-  },
-  {
-    title: 'Source',
-    items: [
-      { icon: 'i-simple-icons-github', label: 'GitHub' },
-      { icon: 'i-simple-icons-gitlab', label: 'GitLab' },
-      { icon: 'i-simple-icons-codeberg', label: 'Codeberg' },
-      { icon: 'i-simple-icons-kde', label: 'KDE' },
-      { icon: 'i-simple-icons-gnome', label: 'GNOME' },
-      { icon: 'i-simple-icons-gitea', label: 'Gitea' },
-      { icon: 'i-material-symbols-lock-outline', label: 'Closed Source' }
     ]
   },
   {
