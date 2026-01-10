@@ -228,5 +228,5 @@ og:
 - [Eza's Image Glutton](https://sleazyfork.org/en/scripts/4713-eza-s-image-glutton)
 - [Handy Image](https://sleazyfork.org/en/scripts/109-handy-image) [:src:](https://github.com/Owyn/HandyImage)
 - [Image Max URL](https://github.com/qsniyg/maxurl)
-- [Kemer Enhancement](https://sleazyfork.org/en/scripts/472096-kemer-%E5%A2%9E%E5%BC%B7)
+- [Kemer Enhancement](https://sleazyfork.org/en/scripts/472096-kemer-enhance)
 - [Kemono Browser](https://sleazyfork.org/en/scripts/483259-kemono-browser)

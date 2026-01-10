@@ -87,7 +87,6 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 | ^^      | [Sumikko Anime](https://anime.sumikko.info/) :fjp: [:rss:](https://anime.sumikko.info/rss.xml) |
 | **Manga** | [The eBook librarian](https://k.xpg.jp/) :fjp: [:rss:](https://k.xpg.jp/feed.xml) |
 | **Bishoujo** | [Asahiwa](https://asahiwa.jp/) :fjp: |
-| ^^        | [Figgy Adult](https://adult.figgy.jp/) :fjp::ero: |
 | ^^        | [Figsoku B](https://figsoku-b.net/) :fjp: |
 | ^^        | [Fig-memo R18](https://fig-memo-r18.site/) :fjp::ero: |
 | ^^        | [moeyo](https://www.moeyo.com/) |

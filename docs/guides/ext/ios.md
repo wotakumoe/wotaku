@@ -53,7 +53,6 @@ og:
 | - | - |
 | [Module Library](https://library.cufiy.net/library/) | :global: |
 | [50/50](https://git.luna-app.eu/50n50/sources) | :global: |
-| [Cufiy](https://git.luna-app.eu/Cufiy/sora-modules) | :global: |
 | [Ibra](https://git.luna-app.eu/ibro/services) | :global: |
 
 ::: tip Adding repo manually

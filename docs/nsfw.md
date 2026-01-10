@@ -284,7 +284,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [E(x)-Hentai Tags Preview](https://github.com/fp555/exh-tags-preview)
 - [ExResurrect](https://sleazyfork.org/en/scripts/411277-exresurrect)
 - [Image Board Enhancer](https://sleazyfork.org/en/scripts/387312-image-board-enhancer-rule34-gelbooru-e621-and-more)
-- [Kemer Enhancement](https://sleazyfork.org/en/scripts/472096-kemer-%E5%A2%9E%E5%BC%B7)
+- [Kemer Enhancement](https://sleazyfork.org/en/scripts/472096-kemer-enhance)
 - [Kemono Browser](https://sleazyfork.org/en/scripts/483259-kemono-browser)
 - [Let's panda!](https://sleazyfork.org/en/scripts/33979-let-s-panda)
 - [MALSync Adult](https://sleazyfork.org/en/scripts/387981-mal-sync-adult-fatexxxblood-edition)
