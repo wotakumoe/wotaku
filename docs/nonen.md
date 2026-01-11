@@ -294,6 +294,7 @@ og:
 
 - **Stream**
   - [AllWish](https://all-wish.me/home)
+  - [Aniflix](https://aniflix.uno/)
   - [AnimeLok](https://animelok.to/home)
   - [Anime Joker](https://animejoker.com/)
   - [Anime Salt](https://animesalt.top/)
