@@ -356,6 +356,7 @@ og:
 
 ## Anime
 - [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs)
+- [Animepahe Improvements](https://greasyfork.org/en/scripts/520048-animepahe-improvements)
 - [Anime Website Buttons Plus](https://greasyfork.org/en/scripts/398046-anime-website-custom-buttons-plus) [:src:](https://github.com/Deatthwing/anime-website-buttons-plus)
 - [Better HiAnime](https://greasyfork.org/en/scripts/506340-better-hianime)
 - [Bye Spoilers - Crunchyroll](https://github.com/zAlfok/ByeSpoilers-Crunchyroll)
