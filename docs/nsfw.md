@@ -135,7 +135,6 @@ og:
 - [Kimochi](https://kimochi.info)
 - [Ryuugames](https://www.ryuugames.com/)
 - [ULMF](https://ulmf.org/) :acc:
-- [VNPocket](https://vnpocket.com/)
 
 ### Legal
 - [Denpasoft](https://denpasoft.com/)

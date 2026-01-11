@@ -28,6 +28,7 @@ og:
 - [Moeclub LN Recommendations](https://bookmeter.com/users/1313898/)
 
 ### Visual Novels
+- [VN Club](https://vnclub.org/)
 - [List of starter Japanese Media](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub)
 - [r/Visualnovels](https://sites.google.com/view/rvisualnovels-recs/home)
 - [r/VN's 2018](https://vnrecs.github.io/)

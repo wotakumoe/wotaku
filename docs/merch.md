@@ -85,7 +85,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 | **Anime** | [Anime-DB](https://anime.dbsearch.net/) :fjp: |
 | ^^        | [Blu-ray.com](https://www.blu-ray.com/) |
 | ^^      | [Sumikko Anime](https://anime.sumikko.info/) :fjp: [:rss:](https://anime.sumikko.info/rss.xml) |
-| **Manga** | [The eBook librarian](https://k.xpg.jp/) :fjp: [:rss:](https://k.xpg.jp/feed.xml) |
+| **Manga** | [The eBook Librarian](https://k.xpg.jp/) :fjp: [:rss:](https://k.xpg.jp/feed.xml) |
 | **Bishoujo** | [Asahiwa](https://asahiwa.jp/) :fjp: |
 | ^^        | [Figsoku B](https://figsoku-b.net/) :fjp: |
 | ^^        | [Fig-memo R18](https://fig-memo-r18.site/) :fjp::ero: |
@@ -94,7 +94,8 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 | ^^        | [Figsoku](https://figsoku.net/) :fjp: <Badge text="General" /> |
 | ^^        | [Gundam Kits Collection](https://www.gundamkitscollection.com/) |
 | ^^        | [Gunjap](https://www.gunjap.net/) |
-| **Others** | [Buying visual novels](https://old.reddit.com/r/visualnovels/wiki/buy) |
+| ^^        | [MOEPOP](https://www.ruru-berryz.com/) [:x:](https://x.com/Ruru_Berryz) <Badge text="General" /> |
+| **Others** | [Buying Visual Novels](https://old.reddit.com/r/visualnovels/wiki/buy) |
 | ^^        | [Dakindex!](https://dakidex.com/) :ero: |
 | ^^        | [Omiai](https://omiai-dakimakura.com/) :ero: |
 

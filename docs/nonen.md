@@ -296,6 +296,7 @@ og:
   - [AllWish](https://all-wish.me/home)
   - [AnimeLok](https://animelok.to/home)
   - [Anime Joker](https://animejoker.com/)
+  - [Anime Salt](https://animesalt.top/)
   - [Anime World India](https://watchanimeworld.in/)
   - [Dora Bash](https://dorabash.in/)
   - [ToonStream](https://toonstream.love/)
