@@ -157,6 +157,7 @@ ___
 - [Dark Horse](https://www.darkhorse.com/books/upcoming/)
 - [J-Novel Club](https://j-novel.club/calendar)
 - [Kodansha](https://kodansha.us/calendar/)
+- [Omoi](https://www.omoi.com/release-calendar) <Badge type="info" text="CaaS" />
 - [Seven Seas](https://sevenseasentertainment.com/release-dates/)
 - [SuBLime](https://www.sublimemanga.com/calendar) :ero:
 - [SQUARE ENIX](https://squareenixmangaandbooks.square-enix-games.com/en-us/release-calendar)
