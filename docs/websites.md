@@ -449,7 +449,7 @@ To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/k
 - [Anna’s Archive](https://annas-archive.li/) [:prx:](https://rentry.org/wotaslap) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
 - [ComicsCodes](https://comics.codes/)
 - [Desuarchive](https://desuarchive.org/) <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
-- [GetComics](https://getcomics.org/) :s: <Badge type="info" text="PD Bypass" link="https://pixeldrain-bypass.cybar.xyz/" />
+- [GetComics](https://getcomics.org/) :s:
 - [Library Genesis+](https://libgen.li/) [:prx:](https://rentry.org/wotaslap)
 - [Old Comics World](https://oldcomicsworld.blogspot.com/) <Badge type="info" text="Vintage"/>
 - [TheLongbox](https://thelongbox.net/) :host::acc:
