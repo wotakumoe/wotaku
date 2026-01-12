@@ -633,10 +633,10 @@ ___
   - [JKAnime](https://jkanime.net/)
   - [TioAnime](https://tioanime.com/)
   - [AnimeFLV](https://www3.animeflv.net/)
-  - [AnimeJL](https://www.anime-jl.net/)
+  - [AnimeJL](https://www.anime-jl.net/) :ero:
   - [Mundo Donghua](https://www.mundodonghua.com/)
   - [Tio Donghua](https://tiodonghua.com/)
-  - [HentaiLA](https://www5.hentaila.com/) :ero:
+  - [HentaiLA](https://hentaila.com/hub) :ero:
   - [HentaiJL](https://hentaijl.com/) :ero:
 - **Download**
   - [Japan Paw](https://japanpaw.com/)
