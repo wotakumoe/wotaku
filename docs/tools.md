@@ -41,9 +41,9 @@ og:
 
 | Category  | Software |
 |-----------|----------|
-| **Local** | [mpvKt](https://github.com/abdallahmehiz/mpvKt) :and: [:n:](https://nightly.link/abdallahmehiz/mpvKt/workflows/nightlies/main) |
-| ^^        | [mpvExtended](https://mpvex.vercel.app/) :and: [:src:](https://github.com/marlboro-advance/mpvEx) |
+| **Local** | [mpvEx](https://mpvex.vercel.app/) :s: :and: [:src:](https://github.com/marlboro-advance/mpvEx) |
 | ^^        | ^[MX Player](Don't install the play store version as it was bought by Amazon, use Balatan's mod instead. You can get the codecs from https://mx.j2inter.com/download) :s: :and::cs: |
+| ^^        | [mpvKt](https://github.com/abdallahmehiz/mpvKt) :and: [:n:](https://nightly.link/abdallahmehiz/mpvKt/workflows/nightlies/main) |
 | ^^        | [mpv-android](https://github.com/mpv-android/mpv-android) |
 | ^^        | [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) :and: |
 | ^^        | [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) :app::cs: |
