@@ -335,7 +335,7 @@ og:
 
 ### Manga
 - [Komiku](https://komiku.id/)
-- [Komikcast](https://komikcast02.com/)
+- [Komikcast](https://komikcast03.com/)
 - [Komik Indo](https://komikindo3.com/)
 - [Shinigami ID](https://id.shinigami.asia/)
 - [YuuManga](https://yuumanga.blogspot.com/)

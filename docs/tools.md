@@ -406,6 +406,7 @@ og:
 | ^^        | [PKGA YouTube Theater Mode](https://greasyfork.org/en/scripts/442089-pkga-youtube-theater-mode) |
 | **Misc**  | [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/) |
 | ^^        | [Fandom Fixed](https://github.com/squabbled/FandomFixed) |
+| ^^        | [GoComics DePaywall](https://github.com/Idiot-01/Gocomics-Depaywall) |
 | ^^        | [Pixeldrain Download Bypass](https://greasyfork.org/en/scripts/512021-pixeldrain-download-bypass-with-zip-file-content-support) |
 
 :::warning Scripts may not function correctly or reliably all the time
