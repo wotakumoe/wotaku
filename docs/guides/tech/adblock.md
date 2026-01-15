@@ -34,7 +34,6 @@ og:
 | [Adguard](https://adguard-dns.io/en/welcome.html)   | Cyprus   | 300kpm   |
 | [Control D](https://controld.com/)   | Canada   | :no:   |
 | [dnswarden](https://dnswarden.com/index.html) | Switzerland | NA  |
-| [dns0.eu](https://www.dns0.eu/)   | EU   | NA   |
 | [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)   | Sweden   | NA |
 
 ### Self-Hosted

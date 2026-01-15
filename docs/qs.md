@@ -164,7 +164,6 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | [Control D](https://controld.com/) | Canada | :yes: | :no: |
 | [dnswarden](https://dnswarden.com/index.html) | Switzerland | :yes: | NA  |
 | [DNS.SB](https://dns.sb/) [:src:](https://github.com/dns-sb/) | Germany | :no: | NA |
-| [dns0.eu](https://www.dns0.eu/) | EU | :yes: | NA |
 | [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) | Sweden | :yes: | NA |
 | [Quad9](https://quad9.net/) | Switzerland | :no: | NA |
 
