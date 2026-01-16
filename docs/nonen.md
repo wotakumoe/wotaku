@@ -422,18 +422,19 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 | Site | Manga | Novel | Magazine |
 |------|:-----:|:-----:|:--------:|
-| [A-Z Manga](https://www.a-zmanga.net/) | :yes: | :yes: | :yes: |
-| [Asia Media Blog](https://asiamediablog.com/media/comic/manga/) | :yes: | :yes: | :yes: |
-| [Book Share Zip](https://bszip.com/) | :yes: | :yes: | :yes: |
-| [Comic 77](https://comic77.com/) | :yes: | :no: | :no: |
 | [888DL](https://888dl.ps/) | :yes: | :yes: | :yes: |
+| [A-z Manga](https://www.a-zmanga.net/) | :yes: | :yes: | :yes: |
+| [Asia Media Blog](https://asiamediablog.com/media/comic/manga/) | :yes: | :yes: | :yes: |
+| [Book Share ZIP](https://bszip.com/) | :yes: | :yes: | :yes: |
+| [Comic77](https://comic77.com/) | :yes: | :no: | :no: |
 | [DL-Raw](https://dl-raw.se/) | :yes: | :yes: | :yes: |
-| [DL Raw net](https://dlraw.net/category/raw-manga/) [:prx:](https://rentry.org/wotaxy#dl-raw) | :yes: | :yes: | :yes: |
-| [DL Zip](https://dl-zip.com/) | :yes: | :yes: | :yes: |
+| [DLRaw.net](https://dlraw.net/category/raw-manga/) [:prx:](https://rentry.org/wotaxy#dlraw) | :yes: | :yes: | :yes: |
+| [DL-Zip](https://dl-zip.com/) | :yes: | :yes: | :yes: |
 | [JPFiles](https://jpfiles.net/) | :yes: | :yes: | :yes: |
 | [Manga Zone](http://www.manga-zone.org/) | :yes: | :no: | :yes: |
 | [Manga ZIP](https://manga-zip.is/post) | :yes: | :no: | :yes: |
 | [Raw Cans](http://raw-cans.net/) | :yes: | :no: | :yes: |
+| [Raw Manga Archive](https://mangasora.net/) | :yes: | :yes: | :yes: |
 | [X3DL.NET](https://x3dl.net/wp/) | :yes: | :yes: | :yes: |
 
 
