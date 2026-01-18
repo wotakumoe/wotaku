@@ -454,7 +454,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 - [Nicotine+](https://nicotine-plus.org/) :win::app::lin::mdi-lan-pending: ==Nicotine==
 - [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD)
 - [Soggfy](https://github.com/Rafiuth/Soggfy) :win::app::lin:
-- [SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC)
 - [Votify](https://github.com/glomatico/votify)
 - [Zotify](https://github.com/Googolplexed0/zotify)
 

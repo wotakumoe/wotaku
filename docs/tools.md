@@ -24,7 +24,7 @@ og:
 | [Aria2App](https://github.com/devgianlu/Aria2App) | :yes: | :yes: | :yes: | :yes: |
 | [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) ==Flud== | :no: | :yes: | :no: | Ads, theme limit |
 | [Gopeed](https://gopeed.com/) [:src:](https://github.com/GopeedLab/gopeed) | :yes: | :yes: | :yes: | :yes: |
-| [YTDLnis](https://ytdlnis.org/) [:src:](https://github.com/deniscerri/ytdlnis) | :yes: | :yes: | :no: | :yes: |
+| [YTDLnis](https://ytdlnis.org/) [:src:](https://github.com/deniscerri/ytdlnis) | :yes: | :yes: | :yes: | :yes: |
 
 ### iOS
 
