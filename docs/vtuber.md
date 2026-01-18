@@ -40,12 +40,13 @@ og:
 ## Hololive
 
 | Category      | Name & Link |
-|--------------|------------|
+|---------------|-------------|
 | **Fan Projects** | [ENreco Archive](https://enreco-archive.net/#0/0) |
 | ^^           | [HoloEN Fan Website](https://holoen.fans/en) [:src:](https://github.com/GoldElysium/hef-website) ==hef== |
 | ^^           | [Hololive Fan Wiki](https://hololive.wiki/wiki/Main_Page) |
 | ^^           | [Mumei Soundboard](https://mumei-cute.com/) |
 | ^^           | [Musicdex](https://music.holodex.net/) :s: [:src:](https://github.com/HolodexNet/Musicdex) |
+| ^^           | [Raora's Kitchen](https://raoras-kitchen.pages.dev/) |
 | **Official** | [Hololive MMD Models](https://3d.nicovideo.jp/users/89765617/works) |
 | ^^          | [Hololive Production](https://hololive.hololivepro.com/) <Badge type="info" text="Schedule" link="https://schedule.hololive.tv/lives"/> |
 | ^^          | [holoplus](https://www.holoplus.com/) |
