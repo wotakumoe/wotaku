@@ -85,7 +85,7 @@ og:
 | Category  | Websites |
 |-----------|----------|
 | **Booru** | [Booru Masonry](https://booru.cocomi.eu.org/) :s: [:src:](https://github.com/asadahimeka/booruwf-web) [:alt:](https://booru.vercel.app/) |
-| ^^        | [Booruview](https://booruview.com/) [:src:](https://github.com/Kangaroux/booruview) |
+| ^^        | [Booruview](https://booruview.com/) [:src:](https://codeberg.org/jessienyan/booruview) |
 | ^^        | [Danbooru Viewer](https://danbooru.defaultkavy.com/) [:src:](https://github.com/defaultkavy-dev/danbooru-viewer) |
 | ^^        | [Moeview](https://moeview.app/) [:alt:](https://moeview.cocomi.eu.org/) |
 | **Pixiv** | [Pixiv.cat](https://pixiv.cat/) [:src:](https://github.com/pixiv-cat/pixivcat-backend) |
