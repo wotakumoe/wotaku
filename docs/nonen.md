@@ -332,7 +332,6 @@ og:
 - **DDL**
   - [Koisuru](https://db.koisuru.web.id/0:/) ==Koisuru==
   - [Kusonime](https://kusonime.com/)
-  - [Meownime](https://midori.meownime.io/)
 
 ### Manga
 - [Komiku](https://komiku.id/)
@@ -389,7 +388,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 ### Online
 
 #### Manga
-- [ComicTop](https://comic-top.com/)
 - [Free PDF Comic](https://freepdfcomic.eu/)
 - [Gomuraw](https://gomuraw.com/top)
 - [KL Manga](https://klz9.com/) [:prx:](https://rentry.org/wotaxy#kl-manga)
@@ -655,7 +653,6 @@ ___
 - [Absorbiendo Mangas](https://absorbiendomangas2.blogspot.com/)
 - [AnzManga](https://www.anzmanga25.com/)
 - [HeavenManga](https://heavenmanga.com/)
-- [InManga](https://inmanga.com/)
 - [Izicomics](https://www.izicomics.com/)
 - [Leemiau](https://leemiau.com/)
 - [LexMangas](https://www.lexmangas.com/)
@@ -746,7 +743,7 @@ ___
 ### Hentai
 - [DuaLeoTruyen](https://dualeotruyenjd.com/)
 - [HentaiCube](https://hentaicube.xyz/)
-- [HentaiVN](https://hentaivn.cheap/)
+- [HentaiVN](https://hentaivn.show/)
 - [KuroNeko](https://vi-hentai.com/)
 - [TruyenHentaiVN](https://truyenhentaivn.club/)
 
