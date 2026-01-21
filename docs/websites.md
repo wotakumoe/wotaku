@@ -212,7 +212,7 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 
 ::: details More
 | Websites | Login | Social |
-|----------|-------|-------|
+|----------|-------|--------|
 | [Manga Katana](https://mangakatana.com/) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
 | [MangaTaro](https://mangataro.org/home) | :mingcute-refresh-2-fill: | :ic-round-mode-comment: |
 | [WeebDex](https://weebdex.org/) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
@@ -221,6 +221,7 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 | [Dynasty Reader](https://dynasty-scans.com/) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-forum: |
 | [Like Manga](https://likemanga.in) [:alt:](https://likemanga.ink/) | :mingcute-refresh-2-fill: | :ic-round-mode-comment: |
 | [Manga Fox](https://mangafox.la/) [:prx:](https://rentry.org/wotaxy#manga-fox) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
+| [MangaBall](https://mangaball.net/) | :mingcute-user-2-fill: | :ic-round-mode-comment: |
 | [MangaKakalot](https://www.mangakakalot.fan/) [:prx:](https://rentry.org/wotaxy#mangakakalot) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
 | [24hNovel](https://24hnovel.com/) `Manhua` | :mingcute-user-2-fill: | :no: |
 :::
