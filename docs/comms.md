@@ -10,7 +10,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [Animesuki](https://forums.animesuki.com/)
 - [Arlong Park](https://forums.arlongpark.net/)
 - [EvaGeeks](https://forum.evageeks.org/index.php)
-- [Fuwanovel](https://forums.fuwanovel.net/)
+- [Fuwanovel](https://forums.fuwanovel.moe/)
 - [J-Novel Club](https://forums.j-novel.club/)
 - [MangaHelpers](https://mangahelpers.com/forum/)
 - [MyAnimeList](https://myanimelist.net/forum/)
