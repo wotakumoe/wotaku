@@ -33,7 +33,7 @@ If you face any issues when connecting, try enabling **"Accept invalid SSL certi
 - [HexChat](https://hexchat.github.io/)	:s: :win:<tooltip>Repo is archived, but still works properly.</tooltip>
 - [mIRC](https://www.mirc.com/)	:win:
 - [AdiIRC](https://adiirc.com/)	:win:
-- [KVIrc](https://github.com/kvirc/KVIrc/releases) :win::lin::app:
+- [KVIrc](https://github.com/kvirc/KVIrc) :win::lin::app:
 - [Irssi](https://irssi.org/) :lin:
 - [Konversation](https://flathub.org/en/apps/org.kde.konversation) :s: :lin:
 - [WeeChat](https://weechat.org/) :lin::app:

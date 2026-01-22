@@ -111,7 +111,7 @@ outline: 1
 - [Anime Tosho](https://animetosho.org/)
 - [Anirena](https://www.anirena.com/)
 - [Shana Project](https://www.shanaproject.com/)
-- [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](http://tokyo-tosho.net/)
+- [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](https://tokyo-tosho.net/)
 
 ::: details :more: Related resources {open}
 - [Seadex](https://releases.moe/)
