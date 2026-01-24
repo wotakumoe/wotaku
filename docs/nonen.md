@@ -332,6 +332,7 @@ og:
 - **DDL**
   - [Koisuru](https://db.koisuru.web.id/0:/) ==Koisuru==
   - [Kusonime](https://kusonime.com/)
+  - [Meownime](https://midori.meownime.io/)
 
 ### Manga
 - [Komiku](https://komiku.id/)
@@ -653,6 +654,7 @@ ___
 - [Absorbiendo Mangas](https://absorbiendomangas2.blogspot.com/)
 - [AnzManga](https://www.anzmanga25.com/)
 - [HeavenManga](https://heavenmanga.com/)
+- [InManga](https://inmanga.com/)
 - [Izicomics](https://www.izicomics.com/)
 - [Leemiau](https://leemiau.com/)
 - [LexMangas](https://www.lexmangas.com/)
