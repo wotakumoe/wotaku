@@ -132,7 +132,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Amazon](https://www.amazon.com/)
 - [AmiAmi](https://www.amiami.com)
 - [animate](https://www.animate-onlineshop.jp/)
-- [Barnes & Noble](https://www.barnesandnoble.com/)
 - [CDJapan](https://www.cdjapan.co.jp/)
 - [Crunchyroll](https://store.crunchyroll.com/) <Badge type="green" link="" text="SFW"/>
 - [FAKKU](https://www.fakku.net/)
@@ -159,8 +158,10 @@ ___
 - [Show.Z Store](https://showzstore.com/)
 ___
 #### Manga
+- [Barnes & Noble](https://www.barnesandnoble.com/)
 - [honto](https://honto.jp/)
 - [Mangaoh](https://www.mangaoh.co.jp/)
+- [Waterstones](https://www.waterstones.com/)
 ___
 #### Digital Music
 - [Bandcamp](https://bandcamp.com/)
