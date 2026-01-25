@@ -329,24 +329,25 @@ To make the process easier, we have made [Kaguya](https://github.com/wotakumoe/k
 
 - [Novel Updates](https://www.novelupdates.com/)
 - [Baka-tsuki](https://www.baka-tsuki.org/project/index.php?title=Main_Page)
-- [Novel Bin](https://novelbin.com/) [:prx:](https://rentry.org/wotaxy#novel-bin)
+- [LNori](https://lnori.qzz.io/)
+- [Ranobes](https://ranobes.top/)
+
+::: details More
 - [VyNovel](https://vynovel.com/)
 - [NovelFire](https://novelfire.net/home)
 - [NovelList](https://www.novellist.co/)
-
-:::details More
+- [Novel Bin](https://novelbin.com/) [:prx:](https://rentry.org/wotaxy#novel-bin)
 - [All Novel](https://allnovel.org/)
 - [Novel Full](https://novelfull.net/)
 - [Read Novel Full](https://readnovelfull.com/)
 - [Free Web Novel](https://freewebnovel.com/)
 - [Light Novel Heaven](https://lightnovelheaven.com/)
 - [WuxiaClick](https://wuxia.click/) [:alt:](https://readnovel.eu/)
-- [Novel Cool](https://www.novelcool.com/)
 - [Novel Hall](https://www.novelhall.com/)
-- [MVLEMPYR](https://www.mvlempyr.com/)
 - [Novels Online](https://novelsonline.org/)
-- [Ranobes](https://ranobes.top/)
 
+::: danger AI warning
+These sites contain a mix of both actual and AI-generated novels.
 :::
 
 ## Download
