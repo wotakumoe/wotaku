@@ -127,6 +127,7 @@ og:
 
 ### Novels
 - [23qb](https://www.23qb.net/)
+- [EPUB.moe](https://epub.moe/)
 - [ESJ Zone](https://www.esjzone.cc/)
 - [Light Novel](https://www.lightnovel.fun/)
 
@@ -443,6 +444,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | Category | Resources |
 |-|-|
 | Community | [Annict](https://annict.com/) |
+| Novels | [EPUB.moe](https://epub.moe/) |
 | Tracker | [EroGamescape](https://erogamescape.org/) <Badge text="EN Guide" link="https://www.youtube.com/watch?v=oPIWgXDllzQ"/> |
 
 
@@ -560,7 +562,7 @@ ___
 ### Anime
 
 - [AniDUB](https://anidub.pro/)
-- [AniFilm](https://anifilm.net/)
+- [AniFilm](https://anifilm.pro/)
 - [AniFox](https://anifox.club/anime) <Badge type="info" text="Aggregator" />
 - [Anilibria](https://anilibria.top/) <Badge type="info" text="Sub" />
 - [AnimeBuff](https://animebuff.ru/) <Badge type="info" text="Sub" />
