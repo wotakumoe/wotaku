@@ -296,6 +296,7 @@ og:
 
 ## Piracy Sites
 - [RuTracker.org](https://rutracker.org/forum/index.php) :s:
+- [Soft98](https://soft98.ir/)
 - [Nsane Forums](https://nsaneforums.com/)
 - [LRepacks](https://lrepacks.net/)
 - [Game Bounty](https://gamebounty.world/)

@@ -118,7 +118,7 @@ og:
 - [Baozimh.com](https://www.baozimh.com/)
 - [Baozimh.org](https://baozimh.org/)
 - [Colamanga](https://www.colamanga.com/)
-- [Copymanga](https://www.mangacopy.com/) [:alt:](https://www.copy20.com/) :ero:
+- [Copymanga](https://www.copy20.com/) [:alt:](https://www.2025copy.com/) :ero:
 - [Komiic](https://komiic.com/)
 - [Manga Reader](https://1zumii.github.io/manga-reader/#/) [:src:](https://github.com/1zumii/manga-reader)
 - [Manhua Gui](https://www.manhuagui.com/)

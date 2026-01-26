@@ -312,6 +312,7 @@ ___
 | Character | [Chiaki Anime Quiz](https://chiaki.site/?/quiz) |
 | Scene     | [AnimeGuess](https://www.animeguess.moe/) |
 | Others    | [Animerdle](https://www.animerdle.com/) |
+| ^^        | [Rule34dle](https://rule34dle.vercel.app/) |
 
 
 ### Others
