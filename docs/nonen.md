@@ -562,7 +562,6 @@ ___
 ### Anime
 
 - [AniDUB](https://anidub.pro/)
-- [AniFilm](https://anifilm.pro/)
 - [AniFox](https://anifox.club/anime) <Badge type="info" text="Aggregator" />
 - [Anilibria](https://anilibria.top/) <Badge type="info" text="Sub" />
 - [AnimeBuff](https://animebuff.ru/) <Badge type="info" text="Sub" />

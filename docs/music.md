@@ -206,6 +206,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [Gensokyo Radio](https://gensokyoradio.net/playing/) | [MP3 256](https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u) | Touhou |
 | [Phate](https://phate.io/) | [MP3 192](https://phate.io/phate.m3u) | Utaite |
 | [Vocaloid Radio](https://www.vocaloidradio.com/) | [MP3 192](https://vocaloid.radioca.st/stream) | General |
+| [Vocaloid Radio VRX](https://vrx.piro.moe/) | [MP3 256](https://vrx.piro.moe/) | General |
 
 ## Games
 - [Game That Tune Radio](https://gttradio.com/)
