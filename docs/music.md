@@ -122,7 +122,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [Lucida](https://lucida.to/) :s: | Amazon, Deezer, Qobuz, Soundcloud, Tidal, Yandex |
 | [DoubleDouble](https://doubledouble.top/) :s: | Amazon, Deezer, Qobuz, Soundcloud, Tidal |
 | [Squid.wtf](https://squid.wtf/) | Amazon, KHInsider, Qobuz, Soundcloud, Tidal |
-| [YAMS](https://yams.tf/) :acc: | Deezer, Qobuz |
 | [DAB Music Player](https://dabmusic.xyz/) :acc: | Qobuz |
 | [Jumo-DL](https://jumo-dl.pages.dev/) | Qobuz |
 | [BiniLossless](https://music.binimum.org/) | Tidal |

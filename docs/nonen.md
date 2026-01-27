@@ -740,7 +740,6 @@ ___
 - [Than Vuc](https://thanvuc.com/)
 - [TopTruyen](https://www.toptruyentv11.com/)
 - [TruyenQQ](https://truyenqqgo.com/)
-- [Truyen Sieuhay](https://truyensieuhay.com/)
 - [VlogTruyen](https://vlogtruyen58.com/)
 
 ### Hentai
