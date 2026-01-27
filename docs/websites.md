@@ -367,7 +367,7 @@ These sites contain a mix of both actual and AI-generated novels.
 | ^^              | [Madokami](https://manga.madokami.al) [:help:](/guides/manga/madokami) |
 | ^^              | [Anna's Archive](https://annas-archive.li/) [:prx:](https://rentry.org/wotaslap) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" /> |
 | ^^              | [Library Genesis+](https://libgen.li/) [:prx:](https://rentry.org/wotaslap) |
-| ^^              | [Z-Library](https://z-library.ec/) [:prx:](https://rentry.org/wotaslap) |
+| ^^              | [Z-Library](https://z-lib.sk/) [:prx:](https://rentry.org/wotaslap) |
 
 ## Audiobooks
 
