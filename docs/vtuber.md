@@ -20,8 +20,7 @@ og:
 | ^^         | [Good VTuber Subs](https://goodvtubersubs.com/) |
 | ^^         | [Hololist](https://hololist.net/) |
 | ^^         | [ironmouse Model Index](https://www.ironmousemodelindex.com/) |
-| Stats      | [VChama](https://vchama.xyz) :s: |
-| ^^         | [VSTATS](https://www.vstats.jp/) :fjp: |
+| Stats      | [VSTATS](https://www.vstats.jp/) :fjp: |
 | ^^         | [VRabi](https://vrabi.net/) :fjp: |
 | General Stats | [TwitchTracker](https://twitchtracker.com/) |
 | ^^         | [Streams Charts](https://streamscharts.com/) |

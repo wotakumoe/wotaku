@@ -76,7 +76,6 @@ For game [**downloads**](https://megathread.pages.dev/download) and [**emulation
 ### Websites
 - [osu!](https://osu.ppy.sh/) [:src:](https://github.com/ppy/osu) <Badge type="info" text="Official" />
 - [Anisync](https://anisync.live/)
-- [BeatConnect](https://beatconnect.io/)
 - [osu.direct](https://osu.direct/home)
 - [osu skinner](https://osuskinner.com/)
 - [osu!chan](https://osuchan.syrin.me/)
