@@ -499,6 +499,7 @@ These sites contain a mix of both actual and AI-generated novels.
 
 ### YouTube
 - [Anime Bancho](https://www.youtube.com/@AnimeBancho)
+- [Anime Manga Official by Kodansha](https://www.youtube.com/@AnimeMangaOfficial)
 - [Ani-One Asia](https://www.youtube.com/@AniOneAsia)
 - [Arait Play English](https://www.youtube.com/@AraitPlayEnglish)
 - [BEYBLADE English](https://www.youtube.com/@BeybladeOfficial) <Badge type="tip" text="Old" link="https://www.youtube.com/@beyblade-official" />
