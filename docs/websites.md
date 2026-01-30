@@ -194,6 +194,7 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 ::: details Symbols
 - MAL-Sync Support -> :mingcute-refresh-2-fill:
 - In-site Account -> :mingcute-user-2-fill:
+- Account Required -> :acc:
 - Comment Section -> :ic-round-mode-comment:
 - Forum -> :ic-round-forum:
 
@@ -214,7 +215,7 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 | Websites | Login | Social |
 |----------|-------|--------|
 | [Manga Katana](https://mangakatana.com/) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
-| [MangaTaro](https://mangataro.org/home) | :mingcute-refresh-2-fill: | :ic-round-mode-comment: |
+| [MangaTaro](https://mangataro.org/home) | :mingcute-refresh-2-fill::acc: | :ic-round-mode-comment: |
 | [WeebDex](https://weebdex.org/) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
 | [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
 | [Mangahub](https://mangahub.io/) :acc: | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
