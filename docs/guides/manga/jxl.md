@@ -14,6 +14,7 @@ og:
 - [Yokai](https://mihon.app/forks/Yokai/) [:src:](https://github.com/null2264/yokai)
 - [Komikku](https://komikku-app.github.io/) [:src:](https://github.com/komikku-app/komikku)
 - [Komelia](https://github.com/Snd-R/Komelia) <Badge type="info" text="Komga" />
+- [Kuro Reader +](https://kurotoshiro.dev/) :fm::cs:
 
 ### iOS
 - [YACReader](https://apps.apple.com/app/id635717885) :s::paid::cs: [:tf:](https://testflight.apple.com/join/5zhB7sRP)
