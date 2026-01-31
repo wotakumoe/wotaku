@@ -216,7 +216,7 @@ og:
 | ^^               | [FFsubsync](https://github.com/smacke/ffsubsync) :win::app::lin: |  
 | ^^               | [Sushi](https://github.com/tp7/Sushi) :win::app::lin::cmd: |
 | ^^               | [Sushi.net](https://github.com/maxpiva/Sushi.Net) :win::app::lin: |  
-| **Other**         | [mpvQC](https://mpvqc.github.io/) [:src:](https://github.com/mpvqc/mpvQC) :win: |  
+| **Other**         | [mpvQC](https://mpvqc.github.io/) :win: [:src:](https://github.com/mpvqc/mpvQC) |  
 | ^^               | [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) :win::app::lin: |
 
 #### Related resources
@@ -281,17 +281,18 @@ og:
 
 ## General Tools
 
-- [BleachBit](https://www.bleachbit.org/) [:src:](https://github.com/bleachbit/bleachbit)
-- [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) [:src:](https://github.com/Klocman/Bulk-Crap-Uninstaller)
-- [Everything](https://www.voidtools.com/) :cs:
-  - [EverythingToolbar](https://github.com/srwi/EverythingToolbar)
-- [File Converter](https://file-converter.io/index.html) [:src:](https://github.com/Tichau/FileConverter)
-- [Flow Launcher](https://www.flowlauncher.com/) [:src:](https://github.com/Flow-Launcher/Flow.Launcher)
-- [LocalSend](https://localsend.org/) [:src:](https://github.com/localsend/localsend)
-- [NanaZip](https://github.com/M2Team/NanaZip)
-- [ShareX](https://getsharex.com/) [:src:](https://github.com/ShareX/ShareX)
-- [Syncthing](https://syncthing.net/) [:src:](https://github.com/syncthing/syncthing)
-- [TeraCopy](https://www.codesector.com/teracopy) :cs:
+- [BleachBit](https://www.bleachbit.org/) :win::lin: [:src:](https://github.com/bleachbit/bleachbit)
+- [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) :win: [:src:](https://github.com/Klocman/Bulk-Crap-Uninstaller)
+- [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/) :win::cs:
+- [Everything](https://www.voidtools.com/) :win::cs:
+  - [EverythingToolbar](https://github.com/srwi/EverythingToolbar) :win:
+- [File Converter](https://file-converter.io/index.html) :win: [:src:](https://github.com/Tichau/FileConverter)
+- [Flow Launcher](https://www.flowlauncher.com/) :win: [:src:](https://github.com/Flow-Launcher/Flow.Launcher)
+- [LocalSend](https://localsend.org/) :win::app::lin: [:src:](https://github.com/localsend/localsend)
+- [NanaZip](https://github.com/M2Team/NanaZip) :win:
+- [ShareX](https://getsharex.com/) :win: [:src:](https://github.com/ShareX/ShareX)
+- [Syncthing](https://syncthing.net/) :win::lin: [:src:](https://github.com/syncthing/syncthing)
+- [TeraCopy](https://www.codesector.com/teracopy) :win::app::cs:
 
 
 ## Piracy Sites
@@ -307,7 +308,6 @@ og:
 # Extensions
 
 ## Anime
-- [AniList Watcher](https://github.com/Sans3108/AniList-Watcher) [:cr:](https://chromewebstore.google.com/detail/anilist-watcher/pkffcfjbnbhnbbgfeoanckhcnbpfobim)
 - [Animepahe Plus](https://github.com/Cyan903/Animepahe-plus) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/animepahe-plus/)
 - [Anime Skip Player](https://github.com/anime-skip/player) [:web:](https://anime-skip.com/) [:cr:](https://chrome.google.com/webstore/detail/anime-skip/mgmdkjcljneegjfajchedjpdhbadklcf) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/anime-skip)
 - [Aniskip](https://github.com/lexesjan/typescript-aniskip-extension) [:cr:](https://chrome.google.com/webstore/detail/aniskip/npfcdmjgaocepmpdnmliimijgfjbgcdd) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/aniskip/)
