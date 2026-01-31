@@ -580,6 +580,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^ | [substreamer](https://substreamerapp.com/) |
 | ^^ | [Amperfy](https://github.com/BLeeEZ/amperfy) |
 | ^^ | [iSub](https://isub.app) |
+| ^^ | [Narjo](https://narjomusic.com/) |
 | **Desktop** | [Supersonic](https://github.com/dweymouth/supersonic) :win::app::lin: |
 | ^^ | [Sublime Music](https://sublimemusic.app/) :lin: |
 | ^^ | [Submariner](https://submarinerapp.com/) :app: |

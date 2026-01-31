@@ -306,6 +306,7 @@ og:
 - **DDL**
   - [AnimeVilla](https://animevilla.in/) :ero:
   - [ATOZ CARTOONIST](https://www.atozcartoonist.com/)
+  - [GokuHD](https://www.gokuhd.com/)
   - [PikaHD](https://pikahd.com/)
   - [Puretoons](https://puretoons.in/)
   - [SDToons](https://sdtoons.com/) :ero:
