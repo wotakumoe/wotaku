@@ -48,7 +48,7 @@ og:
 |-|-|
 | Default | [URL](https://exten.pages.dev/index.json) |
 | Dub | [URL](https://exten.pages.dev/dub/index.json) |
-| Mutli-Subs | [URL](https://exten.pages.dev/multi/index.json) |
+| Multi-Subs | [URL](https://exten.pages.dev/multi/index.json) |
 
 ## LNReader
 | Name | Region | Auto | Manual |
