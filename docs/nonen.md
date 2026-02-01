@@ -297,10 +297,10 @@ og:
   - [AllWish](https://all-wish.me/home)
   - [Aniflix](https://aniflix.uno/)
   - [AnimeDekho](https://animedekho.in/home)
-  - [AnimeLok](https://animelok.to/home)
   - [Anime Joker](https://animejoker.com/)
   - [Anime Salt](https://animesalt.top/)
   - [Anime World India](https://watchanimeworld.in/)
+  - [Desi Dub Anime](https://www.desidubanime.me/)
   - [Dora Bash](https://dorabash.in/)
   - [ToonStream](https://toonstream.love/)
 - **DDL**
@@ -341,6 +341,7 @@ og:
 - [Komikcast](https://komikcast03.com/)
 - [Komik Indo](https://komikindo3.com/)
 - [Shinigami ID](https://id.shinigami.asia/)
+- [Softkomik](https://softkomik.com/)
 - [YuuManga](https://yuumanga.blogspot.com/)
 
 ### Light Novels
@@ -563,12 +564,13 @@ ___
 ### Anime
 
 - [AniDUB](https://anidub.pro/)
+- [AniFilm](https://anifilm.pro/)
 - [AniFox](https://anifox.club/anime) <Badge type="info" text="Aggregator" />
 - [Anilibria](https://anilibria.top/) <Badge type="info" text="Sub" />
 - [AnimeBuff](https://animebuff.ru/) <Badge type="info" text="Sub" />
 - [AnimeJoy](https://animejoy.ru/)
 - [Animelayer](http://animelayer.ru/) :mag:
-- [AnimeLIB](https://anilib.me/)
+- [AnimeLIB](https://anilib.me/) [:alt:](https://v4.animelib.org/)
 - [AnimeStars](https://animestars.org/) <Badge type="info" text="Aggregator" />
 - [Animevost](https://animevost.org/)
 - [Anisun](https://anisun.vercel.app/en) [:src:](https://github.com/notwindstone/anisun)
@@ -642,11 +644,12 @@ ___
   - [HentaiLA](https://hentaila.com/hub) :ero:
   - [HentaiJL](https://hentaijl.com/) :ero:
 - **Download**
-  - [Japan Paw](https://japanpaw.com/)
+  - [Japan Paw!](https://japanpaw.com/)
   - [SphinxAnime](https://sphinxanime.com/)
   - [Nekomitai](https://nekomitai.net/)
   - [Ivanime](https://www.ivanime.com/)
   - [DW Anime](https://dw-anime.net/)
+  - [Az-Animex](https://www.az-animex.com/)
   - [Union Fansub](https://foro.unionfansub.com/) :mag::acc:
   - [:tg: YaichiList](https://t.me/addlist/xA7wYMGu0CI2YzBh) :strm:
   - [BeatZ-Anime](https://www.beatz-anime.net/) :ero:
@@ -700,6 +703,7 @@ ___
 ### Others
 - [AnimeListem](https://animelistem.online/)
 - [KesifAsya](https://kesifasya.com/)
+- [Web Drama Turkey](https://webdramaturkey2.com/)
 
 
 ## Ukranian
