@@ -31,7 +31,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | **Android** | [Aniyomi](https://aniyomi.org/) :s: [:src:](https://github.com/aniyomiorg/aniyomi) [:e:](/guides/ext/mihon) |
 | ^^        | [Hayase](https://hayase.watch/) :s: [:src:](https://github.com/hayase-app) [:e:](/guides/ext/misc#hayase) |
 | ^^        | [Dantotsu](https://discord.com/invite/4HPZ5nAWwM) [:e:](/guides/ext/mihon) |
-| **iOS**   | [Sora](https://apps.apple.com/us/app/sulfur/id6742741043) [:src:](https://github.com/cranci1/Sora) [:e:](/guides/ext/ios#sora) [:tf:](https://testflight.apple.com/join/uJPzdTTj) <Badge type="info" text="Altstore" link="https://www.cranci.tech/repo.json" /> |
+| **iOS**   | [Luna](https://github.com/cranci1/Luna) [:e:](/guides/ext/ios#sora) |
 | ^^        | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi) |
 | **PC**    | [Hayase](https://hayase.watch/) :s: [:src:](https://github.com/hayase-app) [:e:](/guides/ext/misc#hayase) |
 | ^^        | [Mangayomi](https://github.com/kodjodevf/mangayomi) :mag::ddl: [:e:](/guides/ext/mangayomi) |

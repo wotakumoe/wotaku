@@ -156,7 +156,7 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.github.
 :::
 
 ## Anime Streaming
-- [Sora](https://apps.apple.com/us/app/sulfur/id6742741043) [:src:](https://github.com/cranci1/Sora) [:e:](/guides/ext/ios#sora) [:tf:](https://testflight.apple.com/join/uJPzdTTj) <Badge type="info" text="Altstore" link="https://www.cranci.tech/repo.json" />
+- [Luna](https://github.com/cranci1/Luna) [:e:](/guides/ext/ios#sora)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi)
 - [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) [:e:](/guides/ext/mangayomi)
 
@@ -467,8 +467,8 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Imagetrans](https://www.basiccat.org/imagetrans/) :cs: <Badge type="tip" text="Plugins" link="https://github.com/xulihang/ImageTrans_plugins" />
 - [Kanji tomo](https://www.kanjitomo.net/)
 - [Luna Translator](https://github.com/HIllya51/LunaTranslator)
-- [Manga OCR](https://github.com/kha-white/manga-ocr)
 - [Manatan](https://github.com/KolbyML/Manatan)
+- [Manga OCR](https://github.com/kha-white/manga-ocr)
 - [Mokuro](https://github.com/kha-white/mokuro)
 - [OwOCR](https://github.com/AuroraWright/owocr) :s:
 - [Poricom](https://github.com/blueaxis/Poricom)
