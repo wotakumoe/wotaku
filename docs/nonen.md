@@ -325,13 +325,12 @@ og:
   - [Indonesian Fansubbers' Index](https://www.fansub.id/home)
 - **Stream**
   - [Anichin](https://s24.anichin.blog/) [:prx:](https://anichin.bio/)
-  - [SKUY](https://skuy.co.id/) :acc:
-  - [Kazefuri](https://kazefuri.info/)
   - [Kuramanime](https://kuramanime.red/)
   - [Kiyocomics](https://kiyocomics.netlify.app/) [:src:](https://github.com/Bilhaq12/kiyoanime)
   - [Mynimeku](https://www.mynimeku.com/)
   - [Otaku Desu](https://otakudesu.cloud/)
   - [Samehadaku](https://samehadaku.care/)
+  - [SKUY](https://skuy.co.id/) :acc:
 - **DDL**
   - [Koisuru](https://db.koisuru.web.id/0:/) ==Koisuru==
   - [Kusonime](https://kusonime.com/)

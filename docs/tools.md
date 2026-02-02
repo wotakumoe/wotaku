@@ -162,7 +162,8 @@ og:
 | ^^           | [Autoload](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua) |  
 | ^^           | [Eisa's Scripts](https://github.com/Eisa01/mpv-scripts) |  
 | ^^           | [thumbfast](https://github.com/po5/thumbfast/) |  
-| **QoL**       | [mpv Playlistmanager](https://github.com/jonniek/mpv-playlistmanager) |  
+| **QoL**       | [mpv AniList Updater](https://github.com/AzuredBlue/mpv-anilist-updater) |
+| ^^           | [mpv Playlistmanager](https://github.com/jonniek/mpv-playlistmanager) |  
 | ^^           | [trackselect](https://github.com/po5/trackselect) |  
 | ^^           | [pause when minimize](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/pause-when-minimize.lua) |  
 | **Shaders**   | [ArtCNN](https://github.com/Artoriuz/ArtCNN) |  
