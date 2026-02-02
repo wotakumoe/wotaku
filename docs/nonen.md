@@ -297,6 +297,7 @@ og:
   - [AllWish](https://all-wish.me/home)
   - [Aniflix](https://aniflix.uno/)
   - [AnimeDekho](https://animedekho.in/home)
+  - [AnimeLok](https://animelok.site/home)
   - [Anime Joker](https://animejoker.com/)
   - [Anime Salt](https://animesalt.top/)
   - [Anime World India](https://watchanimeworld.in/)
