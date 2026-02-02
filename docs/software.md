@@ -468,7 +468,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Kanji tomo](https://www.kanjitomo.net/)
 - [Luna Translator](https://github.com/HIllya51/LunaTranslator)
 - [Manga OCR](https://github.com/kha-white/manga-ocr)
-- [Mangatan](https://github.com/kaihouguide/Mangatan)
+- [Manatan](https://github.com/KolbyML/Manatan)
 - [Mokuro](https://github.com/kha-white/mokuro)
 - [OwOCR](https://github.com/AuroraWright/owocr) :s:
 - [Poricom](https://github.com/blueaxis/Poricom)
