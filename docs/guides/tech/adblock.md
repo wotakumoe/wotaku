@@ -10,7 +10,7 @@ og:
 |-|-|-|
 | [Brave](https://brave.com/) [:src:](https://github.com/brave/brave-browser) | :and::app: | :win::app::lin: |
 | [Cromite](https://github.com/uazo/cromite) | :and: | :win::lin: |
-| [Ironfox](https://gitlab.com/ironfox-oss/IronFox/) | :and: | :no: |
+| [Ironfox](https://ironfoxoss.org/) [:src:](https://gitlab.com/ironfox-oss/IronFox/) | :and: | :no: |
 | [LibreWolf](https://librewolf.net/) [:src:](https://codeberg.org/librewolf/source) | :no: | :win::app::lin: |
 
 ## Extension
