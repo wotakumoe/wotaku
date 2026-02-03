@@ -1,0 +1,4 @@
+Uploads chapters from multiple sources
+Pretty decent library size
+UI is somewhat janky
+Aggregation and tagging has worsened with time

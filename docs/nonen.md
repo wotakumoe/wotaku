@@ -570,7 +570,7 @@ ___
 - [AnimeBuff](https://animebuff.ru/) <Badge type="info" text="Sub" />
 - [AnimeJoy](https://animejoy.ru/)
 - [Animelayer](http://animelayer.ru/) :mag:
-- [AnimeLIB](https://anilib.me/) [:alt:](https://v4.animelib.org/)
+- [AnimeLIB](https://anilib.me/) [:alt:](https://animelib.org/)
 - [AnimeStars](https://animestars.org/) <Badge type="info" text="Aggregator" />
 - [Animevost](https://animevost.org/)
 - [Anisun](https://anisun.vercel.app/en) [:src:](https://github.com/notwindstone/anisun)

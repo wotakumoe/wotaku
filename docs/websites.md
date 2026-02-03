@@ -203,7 +203,7 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 
 | Websites | Login | Social |
 |----------|-------|-------|
-| [Comix](https://comix.to/home) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
+| [Comix](https://comix.to/home) ==Comix== | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
 | [Kagane](https://kagane.org/) ==Kagane== | :mingcute-refresh-2-fill: | :no: |
 | [Weeb Central](https://weebcentral.com/) ==WeebCentral== | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
 | [Atsumaru](https://atsu.moe/) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
