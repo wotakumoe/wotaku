@@ -62,6 +62,7 @@ og:
 - [Gelbooru](https://gelbooru.com/) :s:
 - [Konachan.com](https://konachan.com/)
 - [Konachan.net](https://konachan.net/) <Badge type="green" link="" text="SFW"/>
+- [Mikubooru](https://booru.funmaker.moe/) [:src:](https://github.com/funmaker/hybooru) <Badge type="green" link="" text="SFW"/>
 - [Safebooru](https://safebooru.org/) <Badge type="green" text="SFW" />
 - [yande.re](https://yande.re/)
 - [Zerochan](https://www.zerochan.net/) <Badge type="green" text="SFW" />
