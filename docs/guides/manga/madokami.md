@@ -15,7 +15,7 @@ og:
 ## Creating Account
 
 :::info IRC Clients
-Install an IRC client, [**HexChat**](https://hexchat.github.io/) if PC and [**Revolution IRC**](https://f-droid.org/packages/io.mrarm.irc/) if Android. You can't use web IRC clients. You can find more clients [**here**](https://ircv3.net/software/clients).
+Install an IRC client, like [**HexChat**](https://hexchat.github.io/) for PC and [**Revolution IRC**](https://f-droid.org/packages/io.mrarm.irc/) for Android. You can't use web clients, more options [**here**](https://ircv3.net/software/clients).
 :::
 
 

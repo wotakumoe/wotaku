@@ -154,20 +154,7 @@ outline: 1
 - To batch download from Google Drive, use [**JDownloader 2**](https://jdownloader.org/).
 - Keep the "**Max. Chunks per Download**" low, so that google doesn't rate limit you. You will find it at the **Settings** in the top bar.
 - To remove the annoyances in JDL2, [**follow this guide**](/guides/tech/jdl)
-
 :::
-
-### IRC
-
-| Website | Server | Port | Channel |
-|-|-|-|-|
-| [nibl](https://nibl.co.uk/search) | irc.rizon.net | 6697 / 9999 | #nibl |
-| [subsplease](https://subsplease.org/xdcc/) | ^^ | ^^ | #subsplease |
-| [Anidex](https://xdcc.anidex.moe/) | ^^ | ^^ | #Doki |
-| [animk](https://animk.info/xdcc/) | irc.xertion.org | 6667 | #MK / #XDCCLeech |
-
-<Block link="/guides/tech/irc" icon="i-octicon-command-palette-16">To learn how to use IRC, you can read the guide</Block>
-
 
 ::: details Related resources
 - [Anime apps for Android](/software#anime-streaming) and [PC](/software#anime-streaming-2)

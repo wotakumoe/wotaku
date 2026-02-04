@@ -89,9 +89,6 @@ og:
   <Card title="Blocking Ads & Annoyances" href="/guides/tech/adblock">
     Adblocking Solutions for every device
   </Card>
-  <Card title="IRC & XDCC" href="/guides/tech/irc">
-    Basic guide on how to use IRC
-  </Card>
   <Card title="JDL2 Ad-removal" href="/guides/tech/jdl">
     Remove banner & Pop-up ads from JDownloader2
   </Card>
