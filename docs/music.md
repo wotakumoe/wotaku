@@ -371,7 +371,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | **YouTube** | [**YouTube Music**](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music) |
 | ^^         | [Innertune](https://github.com/z-huang/InnerTune) :and: |
 | ^^         | [Metrolist](https://github.com/mostafaalagamy/metrolist) :and: |
-| ^^         | [OuterTune](https://github.com/DD3Boh/OuterTune) :and: |
 | ^^         | [RiMusic](https://github.com/fast4x/RiMusic) :and: |
 | ^^         | [SimpMusic](https://github.com/maxrave-dev/SimpMusic) :and: |
 | ^^         | [Harmony Music](https://github.com/anandnet/Harmony-Music) :and: |

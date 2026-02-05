@@ -523,7 +523,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 #### Website
 - [Argos Comic](https://argoscomics.online/) :fjp::fkr::fcn::ero:
 - [Kakusei Project](https://kakuseiproject.com/) :fjp::ero:
-- [Yuri.Live](https://yuri.live/) :fjp::fkr::fcn::ero:
+- [Yuri.Live](http://yuri.live/) :fjp::fkr::fcn::ero:
 
 ___
 

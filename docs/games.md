@@ -124,7 +124,6 @@ For game [**downloads**](https://megathread.pages.dev/download) and [**emulation
 - [dataDex](https://play.google.com/store/apps/details?id=com.talzz.datadex) :and:
 - [Goldex](https://play.google.com/store/apps/details?id=com.goldex) :and:
 - Nuzlocke Chart [:and:](https://play.google.com/store/apps/details?id=com.pseudocode.nuzlockechart) [:app:](https://apps.apple.com/us/app/nuzlocke-chart/id1573090300)
-- [Nuzlocke Tracker](https://nuzlocke.app/)
 - [PKHeX](https://github.com/kwsch/PKHeX)
 - [Poké Transporter GB](https://github.com/GearsProgress/Poke_Transporter_GB)
 - [Pokémon Type Calculator](https://www.pkmn.help/pokedex/)
