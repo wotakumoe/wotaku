@@ -94,7 +94,7 @@ og:
 | ^^          | [Heytoon](https://heytoon.net/en/) :fm::sub: |
 | DayComcis.com | [Webtooni](https://webtooni.net/en/) :fm::sub: ==webtooni== |
 
-### Scanlators {open}
+### Scanlators
 - [The Blank](https://theblank.net/) :sub:
 - [Omega scans](https://omegascans.org/) :sub:
 

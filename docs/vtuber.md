@@ -43,6 +43,7 @@ og:
 | **Fan Projects** | [ENreco Archive](https://enreco-archive.net/#0/0) |
 | ^^           | [HoloEN Fan Website](https://holoen.fans/en) [:src:](https://github.com/GoldElysium/hef-website) ==hef== |
 | ^^           | [Hololive Fan Wiki](https://hololive.wiki/wiki/Main_Page) |
+| ^^           | [Inaversary](https://otako.fans/) |
 | ^^           | [Mumei Soundboard](https://mumei-cute.com/) |
 | ^^           | [Musicdex](https://music.holodex.net/) :s: [:src:](https://github.com/HolodexNet/Musicdex) |
 | ^^           | [Raora's Kitchen](https://raoras-kitchen.pages.dev/) |
