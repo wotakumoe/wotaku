@@ -15,7 +15,7 @@ og:
 | General    | [Nyaa](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap) |
 | ^^         | [Anirena](https://www.anirena.com/) |
 | ^^         | [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](https://tokyo-tosho.net/) |
-| Anime      | [Anime Tosho](https://animetosho.org/) |
+| Anime      | [nekoBT](https://nekobt.to/) |
 | ^^         | [Shana Project](https://www.shanaproject.com/) |
 | NSFW       | [Sukebei](https://sukebei.nyaa.si/) [:prx:](https://rentry.org/nyaap) |
 

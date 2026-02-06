@@ -108,8 +108,8 @@ outline: 1
 ### Torrent
 
 - [Nyaa](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap)
-- [Anime Tosho](https://animetosho.org/)
 - [Anirena](https://www.anirena.com/)
+- [nekoBT](https://nekobt.to/)
 - [Shana Project](https://www.shanaproject.com/)
 - [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](https://tokyo-tosho.net/)
 
@@ -136,8 +136,7 @@ outline: 1
 
 | Category      | Name |
 |--------------|------|
-| **Reuploads** | [Anime Tosho](https://animetosho.org/) :ddl: ==atosho== |
-| ^^ | [Tokyo Insider](https://www.tokyoinsider.com/) :ddl: |
+| **Reuploads** | [Tokyo Insider](https://www.tokyoinsider.com/) :ddl: |
 | **BDMV (slow host)** | [JPFiles](https://jpfiles.net/) |
 | ^^ | [AnimeRSS](https://animerss.com/) |
 | ^^ | [Asia Media Blog](https://asiamediablog.com/media/anime/) :ero: [:prx:](https://rentry.org/wotaxy#asia-media-blog) |
@@ -146,8 +145,7 @@ outline: 1
 | ^^ | [AnimeOut](https://www.animeout.xyz/) :ddl::acc: [:alt:](https://animewat.ch/) |
 | ^^ | [Chauthanh](https://chauthanh.info/) :ddl::acc: |
 | ^^ | [hi10anime](https://hi10anime.com/) :ddl::mag::acc::batch: |
-| **Subtitles** | [Anime Tosho](https://animetosho.org/) |
-| ^^ | [Closed Caption Browser](https://cc.edatribe.com/#/) <Badge type="info" text="Dubtitles" /> |
+| **Subtitles** | [Closed Caption Browser](https://cc.edatribe.com/#/) <Badge type="info" text="Dubtitles" /> |
 | ^^ | [Open Subtitles](https://opensubtitles.org/) |
 
 ::: tip Batch Downloading from Google Drive
