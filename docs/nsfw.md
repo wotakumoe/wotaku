@@ -58,7 +58,7 @@ og:
 - [Yabai](https://yabai.si/) ==Yabai==
 
 ### English-only
-- [EAHentai](https://eahentai.com/home)
+- [EAHentai](https://eahentai.com/)
 - [Hentai Nexus](https://hentainexus.com/) ==HenTalkNexus==
 - [HentaiFox](https://hentaifox.com/)
 - [HentaiRead](https://hentairead.com/)
