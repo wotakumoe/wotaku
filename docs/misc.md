@@ -292,7 +292,7 @@ ___
 - [Advanced Encoding Guide](https://silentaperture.gitlab.io/mdbook-guide/introduction.html)
 - [Fansubbing Guide](https://guide.encode.moe/)
 - [Good Job! Media](https://www.goodjobmedia.com/fansubbing/)
-- [Kitsune Starter Guide](https://okami.icu/)
+- [Okami Starter Guide](https://okami.icu/)
 - [Subarashii Tutorial](https://subarashii-no-fansub.github.io/Subbing-Tutorial/)
 - [Unanimated](https://unanimated.github.io/guides.htm)
 - [Yuki Subs](https://yukisubs.wordpress.com/guides/)

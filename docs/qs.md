@@ -159,13 +159,13 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 
 | Resolver | Based in | Adblock | Query Limit (Account) |
 |-|-|-|-|
-| [NextDNS](https://nextdns.io/) :s:  | US  | yes    | 300kpm   |
-| [Adguard](https://adguard-dns.io/en/welcome.html) | Cyprus | :yes: | 300kpm |
+| [NextDNS](https://nextdns.io/) :s:  | US  | :yes:    | 300k/mo   |
+| [Adguard](https://adguard-dns.io/en/welcome.html) | Cyprus | :yes: | 300k/mo |
 | [Control D](https://controld.com/) | Canada | :yes: | :no: |
-| [dnswarden](https://dnswarden.com/index.html) | Switzerland | :yes: | NA  |
-| [DNS.SB](https://dns.sb/) [:src:](https://github.com/dns-sb/) | Germany | :no: | NA |
-| [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) | Sweden | :yes: | NA |
-| [Quad9](https://quad9.net/) | Switzerland | :no: | NA |
+| [dnswarden](https://dnswarden.com/index.html) | Switzerland | :yes: | N/A  |
+| [DNS.SB](https://dns.sb/) [:src:](https://github.com/dns-sb/) | Germany | :no: | N/A |
+| [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) | Sweden | :yes: | N/A |
+| [Quad9](https://quad9.net/) | Switzerland | :no: | N/A |
 
 ### VPN
 
