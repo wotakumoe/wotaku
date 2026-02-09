@@ -25,7 +25,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 | [Animetail](https://github.com/Dark25/Animetail2) [:n:](https://github.com/Animetailapp/Animetail-preview) | :ddl::mag: | :mal::al::k::simkl: |
 | [Anikku](https://anikku-app.github.io/) [:src:](https://github.com/komikku-app/anikku) [:n:](https://github.com/komikku-app/anikku-preview) | :ddl::mag: | :mal::al::k::simkl: |
 | [Dantotsu](https://discord.com/invite/4HPZ5nAWwM) [:src:](https://git.rebelonion.dev/rebelonion/Dantotsu) [:alt:](https://github.com/itsmechinmoy/dantotsu-updater) | :ddl::mag: | :mal::al: |
-| [Cloudstream](https://cloudstream.on.fleek.co/) [:e:](/guides/ext/misc#cloudstream) | :ddl::mag: | :mal::al::simkl: |
+| [Cloudstream](https://github.com/recloudstream/cloudstream) [:e:](/guides/ext/misc#cloudstream) | :ddl::mag: | :mal::al::simkl: |
 
 ::: details More
 | App | Source | Tracker |
@@ -37,8 +37,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/guides/
 :::
 
 ::: details :material-symbols-tv-gen-outline: Android TV ranking
-- [Cloudstream](https://cloudstream.on.fleek.co/)  [:e:](/guides/ext/misc#cloudstream) [:src:](https://github.com/recloudstream/cloudstream)
-- [Hayase](https://hayase.watch/) :s: [:src:](https://github.com/hayase-app) [:e:](/guides/ext/misc#hayase)
+- [Cloudstream](https://github.com/recloudstream/cloudstream) [:e:](/guides/ext/misc#cloudstream) [:src:](https://github.com/recloudstream/cloudstream)
 - [Stremio](https://www.stremio.com/)
   - [Stremio Tools](#stremio)
 - [Crunchyroll for TIZEN](https://github.com/jhassan8/crunchyroll-tizen)
