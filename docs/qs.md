@@ -159,13 +159,13 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 
 | Resolver | Based in | Adblock | Query Limit (Account) |
 |-|-|-|-|
-| [NextDNS](https://nextdns.io/) :s:  | US  | :yes:    | 300k/mo   |
-| [Adguard](https://adguard-dns.io/en/welcome.html) | Cyprus | :yes: | 300k/mo |
-| [Control D](https://controld.com/) | Canada | :yes: | :no: |
-| [dnswarden](https://dnswarden.com/index.html) | Switzerland | :yes: | N/A  |
-| [DNS.SB](https://dns.sb/) [:src:](https://github.com/dns-sb/) | Germany | :no: | N/A |
-| [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) | Sweden | :yes: | N/A |
-| [Quad9](https://quad9.net/) | Switzerland | :no: | N/A |
+| [NextDNS](https://nextdns.io/) :s:  | :flag-united-states:  | :yes:    | 300k/mo   |
+| [Adguard](https://adguard-dns.io/en/welcome.html) | :flag-cyprus: | :yes: | 300k/mo |
+| [Control D](https://controld.com/) | :flag-canada: | :yes: | :no: |
+| [dnswarden](https://dnswarden.com/index.html) | :flag-switzerland: | :yes: | N/A  |
+| [DNS.SB](https://dns.sb/) [:src:](https://github.com/dns-sb/) | :flag-germany: | :no: | N/A |
+| [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) | :flag-sweden: | :yes: | N/A |
+| [Quad9](https://quad9.net/) | :flag-switzerland: | :no: | N/A |
 
 ### VPN
 
@@ -173,9 +173,9 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | ---------------- | ----------------------------- | -------------------------------- | --------------------------------- | -------------------------------- | ------------------------------------- |
 | **2FA**          | :yes:                         | :yes:                            | :no:                              | :yes:                            | :yes:                                 |
 | **Audits**       | :no:                          | :yes:                            | :yes:                             | :yes:                            | :yes:                                 |
-| **Based in**     | Italy                         | Gibraltar                        | Sweden                            | Switzerland                      | Canada                                |
+| **Based in**     | :flag-italy:                         | :flag-gibraltar:                        | :flag-sweden:                            | :flag-switzerland:                      | :flag-canada:                                |
 | **Crypto**       | :yes:                         | :yes:                            | :yes:                             | :yes:                            | :yes:                                 |
-| **Japan Server** | :yes:                         | :yes:                            | :yes:                             | :yes:                            | :yes:                                 |
+| **JP Server** | :yes:                         | :yes:                            | :yes:                             | :yes:                            | :yes:                                 |
 | **Kill Switch**  | :yes:                         | :yes:                            | :yes:                             | :yes:                            | :yes:                                 |
 | **Multi-hop**    | :no:                          | :yes:                            | :yes:                             | :yes:                            | :yes:                                 |
 | **OpenVPN**      | :yes:                         | :yes:                            | :no:                              | :yes:                            | :yes:                                 |
