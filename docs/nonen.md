@@ -246,7 +246,6 @@ og:
 
 ### Manga
 - [ComicMafia](https://comicmafia.to/?s=manga) :ddl::host:
-- [Kanjiku](https://kanjiku.net/)
 - [Manga-Tube](https://manga-tube.me/)
 
 ### Info / News
@@ -556,8 +555,7 @@ ___
 ## Romanian
 
 ### Anime
-- [Anime Torrents Romania](https://animetorrents.ro/) <Badge type="info" text="Private" />
-- [DozaAnimată](https://www.dozaanimata.net/) :strm:
+- [DozaAnimată](https://www.dozaanimata.net/)
 
 
 ## Russian
