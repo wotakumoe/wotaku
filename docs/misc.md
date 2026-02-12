@@ -252,7 +252,6 @@ ___
 | **Manga** | [Ermitteln](https://ermitteln.ihateani.me/) [:src:](https://github.com/noaione/cmx-ermitteln) | - |  
 | ^^        | [iTunes Artwork Finder](https://bendodson.com/projects/itunes-artwork-finder/) | - |
 | ^^        | [Mihon Local Source JSON Generator](https://local.mihon.tools/) | - |
-| ^^        | [Mitsukeru](https://mitsukeru.timschneeberger.me/) [:src:](https://github.com/timschneeb/Mitsukeru) | :al: |   
 | ^^        | [Tachibk Viewer](https://backup.mihon.tools/) [:src:](https://github.com/Animeboynz/Mihon-Backup-Viewer) | - |
 
 ## Image
@@ -334,6 +333,7 @@ ___
   - [/r/anime Awards](https://animeawards.moe/) [:src:](https://github.com/r-anime/awards-web)
 - [u/FetchFrosh](https://old.reddit.com/r/anime/comments/o16ipm/rebuild_of_the_ultimate_anime_recommendation/)
 - [Sprout Anime Recommender](https://anime.ameo.dev/) :s::mal::al:
+- [Mitsukeru](https://mitsukeru.timschneeberger.me/) [:src:](https://github.com/timschneeb/Mitsukeru) :al:
 
 ### Visual Novel
 - [VNDB](https://vndb.org/v?f=022gja3gja&s=34w)
