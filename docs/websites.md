@@ -183,38 +183,42 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 :::
 
 ::: details Symbols
-- MAL-Sync Support -> :mingcute-refresh-2-fill:
-- In-site Account -> :mingcute-user-2-fill:
-- Comment Section -> :ic-round-mode-comment:
-- Forum -> :ic-round-forum:
+
+| Category | Descrpition | Legend |
+| :--- | :--- | :--- |
+| **Tracking** | Built-in sync system | :sync: |
+| ^^ | Entry import-export | :ie: |
+| ^^ | Sync using MAL-Sync | :e: |
+| **Social** | Comment Section | :ic-round-mode-comment: |
+| ^^ | Forum | :ic-round-forum: |
 
 :::
 
 ## Online
 
-| Websites | Login | Social |
-|----------|-------|------- |
-| [Comix](https://comix.to/home) ==Comix== | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
-| [Kagane](https://kagane.org/) ==Kagane== | :mingcute-refresh-2-fill: | :no: |
-| [Weeb Central](https://weebcentral.com/) ==WeebCentral== | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
-| [Atsumaru](https://atsu.moe/) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
-| [MangaFire](https://mangafire.to/home) ==MangaFire== | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :no: |
-| [MangaDex](https://mangadex.org/) [:rss:](https://mdrss.tijlvdb.me/) ==MangaDex== | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
+| Websites | Login | Tracking | Social |
+|----------|-------|--|----- |
+| [Comix](https://comix.to/home) ==Comix== | :yes: | :ie::e: | :ic-round-mode-comment: |
+| [Kagane](https://kagane.org/) ==Kagane== | :yes: |  :e: | :no: |
+| [Weeb Central](https://weebcentral.com/) ==WeebCentral== | :yes: | :e:  | :ic-round-mode-comment: |
+| [Atsumaru](https://atsu.moe/) | :yes: |  :e: | :ic-round-mode-comment: |
+| [MangaFire](https://mangafire.to/home) ==MangaFire== | :yes: |  :ie::e: | :no: |
+| [MangaDex](https://mangadex.org/) [:rss:](https://mdrss.tijlvdb.me/) ==MangaDex== | :yes: | :e:  | :ic-round-mode-comment: |
 
 ::: details More
-| Websites | Login | Social |
-|----------|-------|--------|
-| [Manga Katana](https://mangakatana.com/) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
-| [MangaTaro](https://mangataro.org/home) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
-| [WeebDex](https://weebdex.org/) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
-| [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
-| [Mangahub](https://mangahub.io/) :acc: | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
-| [Dynasty Scans](https://dynasty-scans.com/) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-forum: |
-| [Like Manga](https://likemanga.in) [:alt:](https://likemanga.ink/) | :mingcute-refresh-2-fill: | :ic-round-mode-comment: |
-| [Manga Fox](https://mangafox.la/) [:prx:](https://rentry.org/wotaxy#manga-fox) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
-| [MangaBall](https://mangaball.net/) | :mingcute-user-2-fill: | :ic-round-mode-comment: |
-| [MangaKakalot](https://www.mangakakalot.fan/) [:prx:](https://rentry.org/wotaxy#mangakakalot) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
-| [24hNovel](https://24hnovel.com/) `Manhua` | :mingcute-user-2-fill: | :no: |
+| Websites | Login | Tracking | Social |
+|----------|-------|--|----- |
+| [Manga Katana](https://mangakatana.com/) | :yes: | :ie::e:  | :ic-round-mode-comment: |
+| [MangaTaro](https://mangataro.org/home) | :yes: | :ie::e:  | :ic-round-mode-comment: |
+| [WeebDex](https://weebdex.org/) | :yes: | :ie::e:  | :ic-round-mode-comment: |
+| [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy) | :yes: | :e:  | :ic-round-mode-comment: |
+| [Mangahub](https://mangahub.io/) :acc: | :yes: | :e:  | :ic-round-mode-comment: |
+| [Dynasty Scans](https://dynasty-scans.com/) | :yes: | :e:  | :ic-round-forum: |
+| [Like Manga](https://likemanga.ink/) | :yes: | :e:  | :ic-round-mode-comment: |
+| [Manga Fox](https://mangafox.la/) [:prx:](https://rentry.org/wotaxy#manga-fox) | :yes: | :e:  | :ic-round-mode-comment: |
+| [MangaBall](https://mangaball.net/) | :yes: |  :e: | :ic-round-mode-comment: |
+| [MangaKakalot](https://www.mangakakalot.fan/) [:prx:](https://rentry.org/wotaxy#mangakakalot) | :yes: |  :e: | :ic-round-mode-comment: |
+| [24hNovel](https://24hnovel.com/) `Manhua` | :yes: | :no:  | :no: |
 :::
 
 ::: details Scrapers
