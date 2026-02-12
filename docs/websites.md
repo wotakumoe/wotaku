@@ -26,7 +26,7 @@ outline: 1
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :mingcute-shovel-fill: | :no: | :cc: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :mingcute-server-fill: | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :cc: |
 | [AnimeKai](https://animekai.to/home) [:prx:](https://rentry.org/wotaxy#animekai) ==AnimeKai== | :mingcute-server-fill: | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :cc::hs: |
-| [KickassAnime](https://kickass-anime.ru/) [:prx:](https://kickassanime.cx/) ==KAA== | :mingcute-server-fill: | :mingcute-user-2-fill: | :cc: |
+| [KickassAnime](https://kaa.lt/) [:prx:](https://kickassanime.cx/) ==KAA== | :mingcute-server-fill: | :mingcute-user-2-fill: | :cc: |
 | [HiAnime](https://hianime.to/home) ==Zoro== | :mingcute-server-fill: | :mingcute-user-2-fill: | :cc: |
 | [Sudatchi](https://sudatchi.com/) ==Sudatchi== | :mingcute-server-fill: | :mingcute-refresh-2-fill: | :cc: |
 | [AniZone](https://anizone.to/) ==AniZone== | :mingcute-server-fill: | :no: | :cc: |
@@ -47,7 +47,7 @@ outline: 1
 ### Low Res
 | Websites | Login | Sub |
 |----------|----------------------|--------|
-| [Anime Defenders](https://animedefenders.me/) :ero: | :mingcute-user-2-fill: | :hs: |
+| [Anibd](https://animedefenders.me/) :ero: [:alt:](https://ani.lol/) | :mingcute-user-2-fill: | :hs: |
 | [AnimeOnsen](https://www.animeonsen.xyz/) | :mingcute-user-2-fill: | :cc: |
 | [Otaku-Streamers](https://beta.otaku-streamers.com/) <Badge type="info" text="Old" link="https://otaku-streamers.com/" /> ==OtakuStreamers== | :mingcute-user-2-fill: | :hs: |
 
@@ -58,7 +58,7 @@ outline: 1
 | [Anikuro](https://anikuro.to/) [:prx:](https://anikuro.site/) ==Anikuro== | :mingcute-user-2-fill: | :cc::hs: |
 | [Anime Realms](https://www.animerealms.org/en) ==AnimeRealms== | :mingcute-refresh-2-fill: | :cc::hs: |
 | [AnimeX](https://animex.one/home) ==AnimeX== | :mingcute-user-2-fill: | :cc::hs: |
-| [Gojo](https://animetsu.net/) ==Gojo== | :mingcute-user-2-fill: | :hs: |
+| [Animetsu](https://animetsu.net/) ==Gojo== | :mingcute-user-2-fill: | :hs: |
 | [Miruro](https://www.miruro.to/) [:prx:](https://www.miruro.com) ==miruro== | :mingcute-refresh-2-fill: | :cc::hs: |
 
 
@@ -203,7 +203,7 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 | [WeebDex](https://weebdex.org/) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
 | [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
 | [Mangahub](https://mangahub.io/) :acc: | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
-| [Dynasty Reader](https://dynasty-scans.com/) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-forum: |
+| [Dynasty Scans](https://dynasty-scans.com/) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-forum: |
 | [Like Manga](https://likemanga.in) [:alt:](https://likemanga.ink/) | :mingcute-refresh-2-fill: | :ic-round-mode-comment: |
 | [Manga Fox](https://mangafox.la/) [:prx:](https://rentry.org/wotaxy#manga-fox) | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :ic-round-mode-comment: |
 | [MangaBall](https://mangaball.net/) | :mingcute-user-2-fill: | :ic-round-mode-comment: |
