@@ -67,6 +67,10 @@ const aliases: Record<string, string> = {
   dp: `lucide-book-open`,
   ls: `lucide-scroll`,
 
+  // Tracking
+  sync: `material-symbols-sync`,
+  ie: `material-symbols-arrows-up-down-circle-outline-rounded`,
+
   // Price
   paid: 'ic-round-attach-money',
   fm: 'ic-round-add-shopping-cart',

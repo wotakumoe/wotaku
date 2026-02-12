@@ -13,53 +13,59 @@ outline: 1
 
 ::: details Symbols
 
-- Self-uploaded<tooltip>Meaning they upload their own or someone else's rips unchanged or re-encoded. It can be in their own storage or a video host service.</tooltip> -> :mingcute-server-fill:
-- Scraper<tooltip>Meaning they don't have their own uploads, but scrape from self-hosted sites. If a host site goes down, changes site structure or API, the scraper site will become useless.</tooltip> -> :mingcute-shovel-fill:
-- Tracker ([AL](https://anilist.co/home)/[MAL](https://myanimelist.net/)) sync -> :mingcute-refresh-2-fill:
-- In-site Account -> :mingcute-user-2-fill:
-- Player with Softsub -> :cc:
-- Player with Hardsub -> :hs:
+| Category | Descrpition | Legend |
+| :--- | :--- | :--- |
+| **Video Source** | Self-uploaded (Own storage or video host) | :mingcute-server-fill: |
+| ^^ | Scraper (Pulling from other host sites) | :mingcute-shovel-fill: |
+| **Tracking** | Built-in sync system | :sync: |
+| ^^ | Entry import-export | :ie: |
+| ^^ | Sync using MAL-Sync | :e: |
+| **Subtitle** | Softsub | :cc: |
+| ^^ | Hardsub | :hs: |
+
 :::
 
-| Websites | Type | Login | Sub |
-|----------|----------------------|----------------------|--------|
-| [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :mingcute-shovel-fill: | :no: | :cc: |
-| [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :mingcute-server-fill: | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :cc: |
-| [AnimeKai](https://animekai.to/home) [:prx:](https://rentry.org/wotaxy#animekai) ==AnimeKai== | :mingcute-server-fill: | :mingcute-refresh-2-fill::mingcute-user-2-fill: | :cc::hs: |
-| [KickassAnime](https://kaa.lt/) [:prx:](https://kickassanime.cx/) ==KAA== | :mingcute-server-fill: | :mingcute-user-2-fill: | :cc: |
-| [HiAnime](https://hianime.to/home) ==Zoro== | :mingcute-server-fill: | :mingcute-user-2-fill: | :cc: |
-| [Sudatchi](https://sudatchi.com/) ==Sudatchi== | :mingcute-server-fill: | :mingcute-refresh-2-fill: | :cc: |
-| [AniZone](https://anizone.to/) ==AniZone== | :mingcute-server-fill: | :no: | :cc: |
+___
+
+| Websites | Type | Login | Tracking | Sub |
+|----------|----------------|------|----------------------|--------|
+| [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :mingcute-shovel-fill: | :no: | :no: |  :cc: |
+| [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :mingcute-server-fill: | :yes: | :sync: | :cc: |
+| [AnimeKai](https://animekai.to/home) [:prx:](https://rentry.org/wotaxy#animekai) ==AnimeKai== | :mingcute-server-fill: | :yes: | :sync::ie::e: | :cc::hs: |
+| [KickassAnime](https://kaa.lt/) [:prx:](https://kickassanime.cx/) ==KAA== | :mingcute-server-fill: | :yes: | :e: | :cc: |
+| [HiAnime](https://hianime.to/home) ==Zoro== | :mingcute-server-fill: | :yes: | :sync::ie::e: | :cc: |
+| [Sudatchi](https://sudatchi.com/) ==Sudatchi== | :mingcute-server-fill: | :yes: | :sync: | :cc: |
+| [AniZone](https://anizone.to/) ==AniZone== | :mingcute-server-fill: | :no: | :no: | :cc: |
 
 :::details More
 
 ### Self-uploaded
 
-| Websites | Login | Sub |
-|----------|----------------------|--------|
-| [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) ==AllManga== | :mingcute-user-2-fill: | :cc::hs: |
-| [AniHQ](https://anihq.to/home/) | :mingcute-user-2-fill: | :hs: |
-| [Animepahe](https://animepahe.si/) ==Animepahe== | :no: | :hs: |
-| [AnimeZ](https://animeyy.com/) ==animez== | :mingcute-user-2-fill: | :hs: |
-| [Animotvslash](https://www.animotvslash.org/search) ==Animotvslash== | :no: | :cc::hs: |
-| [Watch Cartoon Online](https://www.wco.tv/) [:prx:](https://www.wcostatus.com/) ==WCO== | :mingcute-user-2-fill: | :hs: |
+| Websites | Login | Tracking | Sub |
+|----------|----------------|----------------------------|--------|
+| [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) ==AllManga== | :yes: | :no: | :cc::hs: |
+| [AniHQ](https://anihq.to/home/) | :yes: | :no: | :hs: |
+| [Animepahe](https://animepahe.si/) ==Animepahe== | :no: | :e: | :hs: |
+| [AnimeZ](https://animeyy.com/) ==animez== | :yes: | :no: | :hs: |
+| [Animotvslash](https://www.animotvslash.org/search) ==Animotvslash== | :no: | :no: | :cc::hs: |
+| [Watch Cartoon Online](https://www.wco.tv/) [:prx:](https://www.wcostatus.com/) ==WCO== | :yes: | :no: | :hs: |
 
 ### Low Res
-| Websites | Login | Sub |
-|----------|----------------------|--------|
-| [Anibd](https://animedefenders.me/) :ero: [:alt:](https://ani.lol/) | :mingcute-user-2-fill: | :hs: |
-| [AnimeOnsen](https://www.animeonsen.xyz/) | :mingcute-user-2-fill: | :cc: |
-| [Otaku-Streamers](https://beta.otaku-streamers.com/) <Badge type="info" text="Old" link="https://otaku-streamers.com/" /> ==OtakuStreamers== | :mingcute-user-2-fill: | :hs: |
+| Websites | Login | Tracking | Sub |
+|----------|----------------|----------------------------|--------|
+| [Anibd](https://animedefenders.me/) :ero: [:alt:](https://ani.lol/) | :yes: | :no: | :hs: |
+| [AnimeOnsen](https://www.animeonsen.xyz/) | :yes: | :e: | :cc: |
+| [Otaku-Streamers](https://beta.otaku-streamers.com/) <Badge type="info" text="Old" link="https://otaku-streamers.com/" /> ==OtakuStreamers== | :yes: | :no: | :hs: |
 
 ### Scrapers
-| Websites | Login | Sub |
-|----------|----------------------|--------|
-| [Anidap](https://anidap.se/home) ==Anidap== | :mingcute-user-2-fill: | :cc::hs: |
-| [Anikuro](https://anikuro.to/) [:prx:](https://anikuro.site/) ==Anikuro== | :mingcute-user-2-fill: | :cc::hs: |
-| [Anime Realms](https://www.animerealms.org/en) ==AnimeRealms== | :mingcute-refresh-2-fill: | :cc::hs: |
-| [AnimeX](https://animex.one/home) ==AnimeX== | :mingcute-user-2-fill: | :cc::hs: |
-| [Animetsu](https://animetsu.net/) ==Gojo== | :mingcute-user-2-fill: | :hs: |
-| [Miruro](https://www.miruro.to/) [:prx:](https://www.miruro.com) ==miruro== | :mingcute-refresh-2-fill: | :cc::hs: |
+| Websites | Login | Tracking | Sub |
+|----------|----------------|----------------------------|--------|
+| [Anidap](https://anidap.se/home) ==Anidap== | :yes: | - | :cc::hs: |
+| [Anikuro](https://anikuro.to/) [:prx:](https://anikuro.site/) ==Anikuro== | :yes: | :sync: | :cc::hs: |
+| [Anime Realms](https://www.animerealms.org/en) ==AnimeRealms== | :yes: | :sync: | :cc::hs: |
+| [AnimeX](https://animex.one/home) ==AnimeX== | :yes: | :sync: | :cc::hs: |
+| [Animetsu](https://animetsu.net/) ==Gojo== | :yes: | :ie::e: | :hs: |
+| [Miruro](https://www.miruro.to/) [:prx:](https://www.miruro.com) ==miruro== | :yes: | :sync::e: | :cc::hs: |
 
 
 :::
