@@ -332,7 +332,6 @@ og:
   - [Samehadaku](https://samehadaku.care/)
   - [SKUY](https://skuy.co.id/) :acc:
 - **DDL**
-  - [Koisuru](https://db.koisuru.web.id/0:/) ==Koisuru==
   - [Kusonime](https://kusonime.com/)
   - [Meownime](https://midori.meownime.io/)
 
