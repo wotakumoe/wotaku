@@ -106,7 +106,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [Nyaa](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap) | :mag: | - |
 | [Sitting on Clouds](https://www.sittingonclouds.net/) :s: [:prx:](https://rentry.org/wotaxy#sitting-on-clouds) | :ddl: | :sm::smf: |
 | [SquidBoard](https://www.squid-board.org/) :acc: | :ddl: | :sgd::sm::smf: |
-| [Sukidesu OST](https://sukidesuost.info/) | :ddl::mag: | :sm: |
 
 ### MP3
 
@@ -127,7 +126,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [Jumo-DL](https://jumo-dl.pages.dev/) | Qobuz |
 | [BiniLossless](https://music.binimum.org/) | Tidal |
 | [Digger](https://digger-ui.vercel.app/) | Tidal |
-| [Monochrome](https://monochrome.samidy.com/) | Tidal |
+| [Monochrome](https://monochrome.tf/) | Tidal |
 | [QQDL](https://qqdl.site/) | Tidal |
 | [am-dl](https://am-dl.pages.dev/) | Apple Music |
 
