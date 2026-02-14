@@ -439,6 +439,8 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | Solution   | Client/Tools |
 |----------- |-------------|
 | General    | [MAL-Sync](https://github.com/MALSync/MALSync) |
+| Audiobookshelf | [Plappa](https://plappa.me/) :app: |
+| ^^         | [Prologue](https://prologue.audio/) :app: |
 | [Jellyfin](https://jellyfin.org/) | [Jellyfin MPV Shim](https://github.com/jellyfin/jellyfin-mpv-shim) |
 | ^^         | [Jellyfin-RPC](https://github.com/Radiicall/jellyfin-rpc) |
 | ^^         | [Jellyfin MAL Metadata Plugin](https://github.com/ryandash/jellyfin-plugin-myanimelist) |
@@ -446,6 +448,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | ^^         | [Streamyfin](https://github.com/streamyfin/streamyfin) :and::app: |
 | [Kavita](https://www.kavitareader.com/) | [komf](https://github.com/Snd-R/komf) <Badge type="tip" text="Script" link="https://github.com/Snd-R/komf-userscript" /> |
 | [Komga](https://komga.org/) | [Komelia](https://github.com/Snd-R/Komelia) :and::win::lin: |
+| ^^         | [Komik](https://pruizlezcano.github.io/komic/) :app::fm: |
 | ^^         | [komf](https://github.com/Snd-R/komf) <Badge type="tip" text="Script" link="https://github.com/Snd-R/komf-userscript" /> |
 | ^^         | [Komga Bulk Download Helper](https://github.com/darthmooguy/komga-bulk-download-helper) :js: |
 | [LANraragi](https://sugoi.gitbook.io/lanraragi/v/dev) | [Ichaival](https://github.com/Utazukin/Ichaival) :and: |
