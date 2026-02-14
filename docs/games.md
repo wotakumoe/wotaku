@@ -44,6 +44,7 @@ For game [**downloads**](https://megathread.pages.dev/download) and [**emulation
 - [HowLongToBeat](https://howlongtobeat.com/)
 - [IGDB](https://www.igdb.com/)
 - [Infinite Backlog](https://infinitebacklog.net/) :s:
+- [Kaguya](https://kaguya.io/)
 - [MobyGames](https://www.mobygames.com/)
 - [SteamDB](https://steamdb.info/)
 - [The Doujin RPG Database (Nepchan)](https://nepchan.org/)
