@@ -49,6 +49,7 @@ og:
 | Default | [URL](https://exten.pages.dev/index.json) |
 | Dub | [URL](https://exten.pages.dev/dub/index.json) |
 | Multi-Subs | [URL](https://exten.pages.dev/multi/index.json) |
+| Hentai | [URL](https://exten.pages.dev/hentai/index.json) |
 
 ## LNReader
 | Name | Region | Auto | Manual |
