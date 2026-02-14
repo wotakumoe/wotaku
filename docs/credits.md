@@ -46,11 +46,11 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **frakon98** | [Kaiji - Rolling the dice](https://www.deviantart.com/frakon98/art/Kaiji-Rolling-the-dice-860584411) | Madokami link embed |
 | **藤ちょこ (Fujichoco)** | [Hatsune Miku “Magical Mirai 2020” Osaka](https://magicalmirai.com/2020/osaka/) | [Audio glossary banner](/glossary/audio#japanese-music-genres) |
 | **フカヒレ (Fukahire)** | [Hoshimachi Suisei](https://x.com/fuka_hire/status/1619998921757192195) | [Music banner](/qs#music) |
+| **Gobackgu** | [cm](https://x.com/Gobackgu/status/2022541570319511694) | Default link embed |
 | **Huu** | [Rem](https://www.pixiv.net/en/artworks/79939625) | [Music banner](/music#radio) |
 | **あきふゆはるか (Ibushi Roun)** | [Reimu vs Patchouli](https://www.pixiv.net/en/artworks/109967460) | Game link embed |
 | **幾田 (Ikuta)** | [Copy](https://x.com/ikuta41/status/1733423740644684243/) | Scanlation link embed |
 | **J.C.Staff** | [Taiga Aisaka](https://yande.re/post/show/46578) | [Music banner](/music#pc) |
-| **可 (Ka / 996beshi)** | [15枚](https://www.pixiv.net/en/artworks/116320124) | Default link embed |
 | **Kazuki Takahashi** | [Yami Yugi](https://www.zerochan.net/7739) | [Manga banner](/qs#manga) |
 | **konijnsate** | [Moiré vs Non-Moiré Pattern Comparison](https://tips.clip-studio.com/en-us/articles/3489) | [Manga glossary example](/glossary/manga#artist-side) |
 | **Kyoto Animation** | [Mio Akiyama](https://yande.re/post/show/255575) | [Music banner](/music#communities) |
@@ -100,6 +100,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Kukie-Nyan** | [FUWAMOCO pointing meme](https://x.com/Kukie_nyan/status/1687668480278228992) | Domain change banner |
 | **Kyoto Animation**         | [Mio Naganohara](https://www.zerochan.net/520314)                                                  | Random banner       |
 | **how-dee**                 | [Ninomae Ina’nis padoru](https://www.reddit.com/r/Padoru/comments/iu6jvx/ninomae_inanis_hololive/) | Home art & Favicon  |
+| **可 (Ka / 996beshi)** | [15枚](https://www.pixiv.net/en/artworks/116320124) | Default link embed |
 | **森倉円 (Morikura En)**    | [Kizuna Ai Profile Art](https://en.namu.wiki/w/%ED%82%A4%EC%A6%88%EB%82%98%20%EC%95%84%EC%9D%B4)   | Vtuber banner       |
 | **Ninomae Ina’nis**         | [Ninomae Ina’nis reading](https://x.com/ninomaeinanis/status/1340047328963510273)                  | Glossary banner     |
 | ^^         | [Ninomae Ina’nis WAHU WAHU](https://x.com/ninomaeinanis/status/1652829909218373632)                | Button              |
