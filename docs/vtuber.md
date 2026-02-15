@@ -44,7 +44,6 @@ og:
 | ^^           | [HoloEN Fan Website](https://holoen.fans/en) [:src:](https://github.com/GoldElysium/hef-website) ==hef== |
 | ^^           | [Hololive Fan Wiki](https://hololive.wiki/wiki/Main_Page) |
 | ^^           | [Inaversary](https://otako.fans/) |
-| ^^           | [Mumei Soundboard](https://mumei-cute.com/) |
 | ^^           | [Musicdex](https://music.holodex.net/) :s: [:src:](https://github.com/HolodexNet/Musicdex) |
 | ^^           | [Raora's Kitchen](https://raoras-kitchen.pages.dev/) |
 | **Official** | [Hololive MMD Models](https://3d.nicovideo.jp/users/89765617/works) |

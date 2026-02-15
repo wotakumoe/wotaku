@@ -13,7 +13,7 @@ og:
 # Setup
 
 ## Installing Echo
-1. Visit the [**Echo Nightly Builds**](https://nightly.link/brahmkshatriya/echo/workflows/nightly/main/artifact) page and download the latest ZIP file (usually the first one listed).
+1. Visit the [**Echo Nightly Builds**](https://github.com/itsmechinmoy/echo-nightly) page and download the latest ZIP file (usually the first one listed).
 2. Extract the ZIP file using your file manager. If extraction isn't supported, consider using an app like [MiXplorer](https://forum.xda-developers.com/showpost.php?p=23109280).
 3. Inside the extracted folder, locate the `.apk` file.
 4. Open the `.apk` file to begin installation. If prompted, allow installation from unknown sources in your device settings.

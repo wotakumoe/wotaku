@@ -116,7 +116,6 @@ og:
 ### Frontends
 - [Booru Masonry](https://booru.cocomi.eu.org/) :s: [:src:](https://github.com/asadahimeka/booruwf-web) [:alt:](https://booru.vercel.app/)
 - [Consurf](https://consurf.onrender.com/) [:src:](https://github.com/QueenAkaAlt/Consurf)
-- [Danbooru Viewer](https://danbooru.defaultkavy.com/) [:src:](https://github.com/defaultkavy-dev/danbooru-viewer)
 - [Moeview](https://moeview.app/) [:alt:](https://moeview.cocomi.eu.org/)
 - [Pixiv Viewer](https://pixiv.pictures/) [:src:](https://github.com/asadahimeka/pixiv-viewer)
 - [ScrollX](https://scrollx.org/)
