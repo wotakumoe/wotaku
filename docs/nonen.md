@@ -700,7 +700,7 @@ ___
 - [Tortuga Ceviri](https://tortuga-ceviri.com/)
 
 ### Others
-- [AnimeListem](https://animelistem.online/)
+- [AnimeListem](https://animelistesi.com/)
 - [KesifAsya](https://kesifasya.com/)
 - [Web Drama Turkey](https://webdramaturkey2.com/)
 
