@@ -14,6 +14,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [J-Novel Club](https://forums.j-novel.club/)
 - [MangaHelpers](https://mangahelpers.com/forum/)
 - [MyAnimeList](https://myanimelist.net/forum/)
+- [Nightcore Universe](https://www.nightcoreuniverse.net/index.php)
 - [SquidBoard](https://www.squid-board.org/)
 - [The VG Resource](https://www.vg-resource.com/)
 - [VocaVerse Network](https://vocaverse.network/)

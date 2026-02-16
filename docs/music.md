@@ -203,7 +203,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 |---------|---------|-----|
 | [Doujin Style](https://embed.radio.co/player/735ee7b.html) | [MP3 192](https://streams.radio.co/s5ff57669c/listen.m3u) | General |
 | [Gensokyo Radio](https://gensokyoradio.net/playing/) | [MP3 256](https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u) | Touhou |
-| [Phate](https://phate.io/) | [MP3 192](https://phate.io/phate.m3u) | Utaite |
 | [Vocaloid Radio](https://www.vocaloidradio.com/) | [MP3 192](https://vocaloid.radioca.st/stream) | General |
 | [Vocaloid Radio VRX](https://vrx.piro.moe/) | [MP3 256](https://vrx.piro.moe/) | General |
 
@@ -607,6 +606,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | Category       | Links    |
 |----------------|----------|
 | **Forums**     | [Anime Music Videos](https://www.animemusicvideos.org/forum/) |
+| ^^             | [Nightcore Universe](https://www.nightcoreuniverse.net/index.php) |
 | ^^             | [SquidBoard](https://www.squid-board.org/) |
 | ^^             | [VocaVerse Network](https://vocaverse.network/) |
 | **Discord**    | [Doujin Cafe](https://discord.gg/doujincafe) |
