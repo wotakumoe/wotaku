@@ -148,14 +148,14 @@ og:
 | ^^           | [Scum's Setup Guide](https://iamscum.wordpress.com/guides/videoplayback-guide/) |  
 | ^^           | [mpv Script Wiki](https://github.com/mpv-player/mpv/wiki/User-Scripts) |  
 | ^^           | [Awesome mpv](https://github.com/stax76/awesome-mpv) |  
-| Utilities    | [MPV Easy](https://mpv-easy.github.io/mpv-build/) [:src:](https://github.com/mpv-easy/mpv-easy) |
-| **Alt UI**    | [Celluloid](https://celluloid-player.github.io/) :lin: [:src:](https://github.com/celluloid-player/celluloid) | 
-| ^^            | [Haruna](https://haruna.kde.org/) :lin: |  
+| **Utilities** | [MPV Easy](https://mpv-easy.github.io/mpv-build/) [:src:](https://github.com/mpv-easy/mpv-easy) |
+| **Forks**     | [Celluloid](https://celluloid-player.github.io/) :lin: [:src:](https://github.com/celluloid-player/celluloid) | 
+| ^^            | [Haruna](https://haruna.kde.org/) :lin: [:src:](https://invent.kde.org/multimedia/haruna) |  
 | ^^            | [IINA](https://iina.io/) :app: [:src:](https://github.com/iina/iina) |
-| ^^           | [ModernX](https://github.com/cyl0/ModernX) |  
-| ^^           | [ModernZ](https://github.com/Samillion/ModernZ) |
 | ^^           | [mpc-qt](https://mpc-qt.github.io/) :win::lin: [:src:](https://github.com/mpc-qt/mpc-qt) |
-| ^^           | [mpv.net](https://github.com/mpvnet-player/mpv.net) :s::win: |  
+| ^^           | [mpv.net](https://github.com/mpvnet-player/mpv.net) :win: |  
+| **Alt UI**    | [ModernX](https://github.com/cyl0/ModernX) |  
+| ^^           | [ModernZ](https://github.com/Samillion/ModernZ) |
 | ^^           | [Tethys](https://github.com/Zren/mpv-osc-tethys) |  
 | ^^           | [uosc](https://github.com/tomasklaen/uosc) |  
 | **Video**     | [Autocrop](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autocrop.lua) |  
