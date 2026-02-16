@@ -52,7 +52,7 @@ og:
 | Name | Region |
 | - | - |
 | [Module Library](https://library.cufiy.net/library/) | :global: |
-| [50/50](https://git.luna-app.eu/50n50/sources) | :global: |
+| [Modules by 50/50](https://modulesbypaul.vercel.app/) [:src:](https://git.luna-app.eu/50n50/sources) | :global: |
 | [Ibra](https://git.luna-app.eu/ibro/services) | :global: |
 
 ::: tip Adding repo manually
