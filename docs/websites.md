@@ -92,10 +92,11 @@ ___
 ### Others
 | Name                        | Link |
 |-----------------------------|------|
-| [One Pace Project](https://linktr.ee/onepaceproject) | [One Pace](https://onepace.net/en/watch) |
-| ^^                          | [OnePace](https://onepace.co/) `Unofficial` |
-| ^^                          | [Stremio](https://github.com/au2001/onepace-stremio) |
-| ^^                          | [One Pace Public Subtitles](https://github.com/one-pace/one-pace-public-subtitles) |
+| [One Pace Project](https://linktr.ee/onepaceproject) | [Official Site](https://onepace.net/en/watch) |
+| ^^                          | [Unofficial Site](https://onepace.co/) |
+| ^^                          | [Stremio Addon](https://github.com/au2001/onepace-stremio) |
+| ^^                          | [Public Subtitles](https://github.com/one-pace/one-pace-public-subtitles) |
+- [Gabby's Anime Edits](https://linktr.ee/gabby5202)
 - [SBY Stream](https://sbystream.com/)
 - [Sonic Zone TV](https://soniczone.net/tv/home.html)
 - [Japanese Animated Film Classics](https://animation.filmarchives.jp/en/index.html)
