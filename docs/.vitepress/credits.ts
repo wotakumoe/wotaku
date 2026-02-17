@@ -21,9 +21,9 @@ export interface Contributors {
 export const contribs = {
   core: [
     {
-      name: 'taskylizard',
-      avatar: 'https://github.com/taskylizard.png',
-      site: 'https://github.com/taskylizard'
+      name: 'taskyliz',
+      avatar: 'https://github.com/taskyliz.png',
+      site: 'https://github.com/taskyliz'
     },
     {
       name: 'Duck',
@@ -35,27 +35,10 @@ export const contribs = {
       avatar: 'https://github.com/memenami.png',
       site: 'https://github.com/memenami'
     },
-
     {
       name: 'Static',
       avatar: 'https://github.com/whitenoisy.png',
       site: 'https://github.com/whitenoisy'
-    },
-
-    {
-      name: 'TubaApollo',
-      avatar: 'https://github.com/TubaApollo.png',
-      site: 'https://github.com/TubaApollo'
-    },
-    {
-      name: 'Venlicht',
-      avatar: 'https://github.com/RenaraScope.png',
-      site: 'https://github.com/RenaraScope'
-    },
-    {
-      name: 'Zinklog',
-      avatar: 'https://github.com/zinklog2.png',
-      site: 'https://github.com/zinklog2'
     }
   ],
   contributors: [
@@ -78,11 +61,6 @@ export const contribs = {
       avatar: '/pfp/ishtar.png'
     },
     {
-      name: 'Kai',
-      avatar: 'https://github.com/officialkaizen.png',
-      site: 'https://github.com/officialkaizen'
-    },
-    {
       name: 'ld3z',
       avatar: 'https://github.com/ld3z.png',
       site: 'https://github.com/ld3z'
@@ -101,9 +79,24 @@ export const contribs = {
       name: 'P10',
       avatar: 'https://github.com/P10Ms.png',
       site: 'https://github.com/P10Ms'
+    },
+    {
+      name: 'Venlicht',
+      avatar: 'https://github.com/RenaraScope.png',
+      site: 'https://github.com/RenaraScope'
+    },
+    {
+      name: 'Zinklog',
+      avatar: 'https://github.com/zinklog2.png',
+      site: 'https://github.com/zinklog2'
     }
   ],
   special: [
+    {
+      name: 'Kai',
+      avatar: 'https://github.com/officialkaizen.png',
+      site: 'https://github.com/officialkaizen'
+    },
     {
       name: 'Kobayashi',
       avatar: 'https://github.com/kobayashi90.png',
