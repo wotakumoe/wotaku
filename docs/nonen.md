@@ -42,7 +42,6 @@ og:
 ### Manga
 - [3asQ](https://3asq.org/)
 - [Azora Moon](https://azoramoon.com/)
-- [SWAT Manga](https://meshmanga.com/)
 
 ### NSFW
 - [Arabs Hentai](https://arabshentai.com/)
@@ -296,7 +295,6 @@ og:
 - **Stream**
   - [AllWish](https://all-wish.me/home)
   - [Aniflix](https://aniflix.uno/)
-  - [AnimeDekho](https://animedekho.in/home)
   - [AnimeLok](https://animelok.site/home)
   - [Anime Joker](https://animejoker.com/)
   - [Anime Salt](https://animesalt.top/)
@@ -747,7 +745,7 @@ ___
 - [VlogTruyen](https://vlogtruyen58.com/)
 
 ### Hentai
-- [DuaLeoTruyen](https://dualeotruyenjd.com/)
+- [DuaLeoTruyen](https://dualeotruyenvh.com/)
 - [HentaiCube](https://hentaicube.xyz/)
 - [HentaiVN](https://hentaivn.show/)
 - [KuroNeko](https://vi-hentai.com/)

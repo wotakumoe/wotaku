@@ -392,7 +392,6 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | [Chibi](https://chibi-cli.pages.dev/) [:src:](https://github.com/CosmicPredator/chibi-cli)      | :win::app::lin::cmd: | :al:        |
 | [Hachidori](https://malupdaterosx.moe/hachidori/) [:src:](https://github.com/Atelier-Shiori/hachidori)       | :app:      | :mal::al::k:      |
 | [Keroro](https://github.com/hotsno/keroro)     | :simple-icons-mpv:   | :al:           |
-| [MALClient](https://apps.microsoft.com/store/detail/malclient/9NBLGGH5F3BL) [:src:](https://github.com/Drutol/MALClient) | :win:                    | :mal:    |
 | [MAL-Sync](https://malsync.moe/) [:src:](https://github.com/MALSync/MALSync)       | :cr::ff::js:     | :mal: :al: :k: :simkl: :simple-icons-shikimori: |
 | [Tadoku](https://github.com/Eroge-Abyss/tadoku) | :win: | VNDB |
 | [Taiga](https://taiga.moe/) [:src:](https://github.com/erengy/taiga)     | :win:       | :mal: :al: :k:  |
