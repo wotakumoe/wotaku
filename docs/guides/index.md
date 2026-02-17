@@ -76,9 +76,6 @@ og:
   <Card title="Synced Lyrics in FB2K" href="/guides/music/fb2klyrics">
     View and add synced lyrics in Foobar2000
   </Card>
-  <Card title="Squidify" href="/guides/music/squidify">
-    How to use Squidify on various devices
-  </Card>
   <Card title="Transcoding Audio" href="/guides/music/transcoding">
     Basic guide for transcoding audio files
   </Card>

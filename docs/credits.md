@@ -61,7 +61,6 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **MeLonPanz** | [sharkkkkkk !!!](https://www.pixiv.net/en/artworks/86516526) | [Favicon](/) |
 | **Mogudan** | [Mogudan Illust Works](https://www.fakku.net/hentai/mogudan-illust-works-english) | [NSFW banners](/nsfw) |
 | **neggo** | [extra tips](https://x.com/neggoartz/status/1834776522801971603) | Torrent link embed |
-| **pantsu_ripper** | [lain/rei](https://x.com/pantsu_ripper/status/1575844099688497153) | Squidify link embed |
 | **queasyS** | [Ishtar and Ereshkigal - FGO](https://www.pixiv.net/en/artworks/112928609) | NSFW link embed |
 | **れんた (Renta)** | [Defoko birthday festival!](https://www.pixiv.net/en/artworks/41424418) | [Audio glossary banner](/glossary/audio#hardware-1) |
 | **Ring** | [Mahō Shōjo](https://www.pixiv.net/en/artworks/94104639) | Merch link embed |
@@ -104,6 +103,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **森倉円 (Morikura En)**    | [Kizuna Ai Profile Art](https://en.namu.wiki/w/%ED%82%A4%EC%A6%88%EB%82%98%20%EC%95%84%EC%9D%B4)   | Vtuber banner       |
 | **Ninomae Ina’nis**         | [Ninomae Ina’nis reading](https://x.com/ninomaeinanis/status/1340047328963510273)                  | Glossary banner     |
 | ^^         | [Ninomae Ina’nis WAHU WAHU](https://x.com/ninomaeinanis/status/1652829909218373632)                | Button              |
+| **pantsu_ripper** | [lain/rei](https://x.com/pantsu_ripper/status/1575844099688497153) | Squidify link embed |
 | **Saeki Yahiro** | [Hoshimachi Suisei Profile Art](https://hololive.hololivepro.com/en/talents/hoshimachi-suisei/) | Vtuber banner |
 | **しらび (Shirabi)**        | [Artoria Pendragon](https://www.pixiv.net/en/artworks/60495690)                                    | Fate banner         |
 | **Takashi Takeuchi**        | [Shiki Ryougi](https://danbooru.donmai.us/posts/2671155)                                           | Fate banner         |
