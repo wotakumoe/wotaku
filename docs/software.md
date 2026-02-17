@@ -158,6 +158,7 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.github.
 ## Anime Streaming
 - [Luna](https://github.com/cranci1/Luna) [:e:](/guides/ext/ios#sora)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/guides/ext/mangayomi)
+- [Mojuru](https://www.mojuru.app/) [:src:](https://github.com/mojuru-app/mojuru) [:e:](https://modulesbypaul.vercel.app/)
 - [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) [:e:](/guides/ext/mangayomi)
 
 ## Manga Readers
@@ -194,14 +195,14 @@ or buy an Android phone :ic-twotone-thumb-up:
 
 ## Trackers
 | Category       | Name & Links |
-|---------------|-------------|
-| AniList       | [AniHyou](https://apps.apple.com/us/app/anihyou-anilist-client/id1635777325) [:src:](https://github.com/axiel7/AniHyou-iOS) |
+|----------------|--------------|
+| **AniList**  | [AniClient](https://apps.apple.com/us/app/aniclient-for-anilist/id6474905817) :cs: |
 | ^^           | [MyAniList](https://apps.apple.com/us/app/myanilist/id741257899) :cs::fm::sub: |
 | ^^           | [Otraku](https://github.com/lotusprey/otraku) |
 | ^^           | [Risuto](https://apps.apple.com/us/app/risuto-for-anilist/id6455685990) :cs: |
 | ^^           | [Ryuusei](https://apps.apple.com/us/app/ryuusei-for-anilist/id1347721581) :cs::fm::sub: |
-| **MyAnimeList** | [Kitsune](https://apps.apple.com/us/app/kitsune-for-myanimelist/id6466716447) :cs: |
-| ^^           | [ManGo](https://apps.apple.com/us/app/mango-anime-manga-tracker/id1604385869) :cs::fm::paid::sub: |
+| **MyAnimeList** | [Kitsune](https://apps.apple.com/us/app/kitsune-for-myanimelist/id6466716447) :cs::fm: |
+| ^^           | [ManGo](https://apps.apple.com/us/app/mango-anime-manga-tracker/id1604385869) :cs::fm::sub: |
 | ^^           | [MyAnimeList Official](https://apps.apple.com/us/app/myanimelist-official/id1469330778) :cs: |
 
 
