@@ -65,6 +65,8 @@ og:
 - [AnimeOverdose](https://www.anime-overdose.com/)
 - [Anime Srbija](https://www.animesrbija.com/)
 - [BalkanFlix](https://www.balkanflix.com/)
+- [Gledaj Crtaće (.org)](https://www.gledajcrtace.org/)
+- [Gledaj Crtaće (.rs)](https://www.gledajcrtace.rs/)
 
 ### News
 - [Potamanime](https://potamanime.rs/)
@@ -295,6 +297,7 @@ og:
 - **Stream**
   - [AllWish](https://all-wish.me/home)
   - [Aniflix](https://aniflix.uno/)
+  - [AnimeDekho](https://animedekho.in/home)
   - [AnimeLok](https://animelok.site/home)
   - [Anime Joker](https://animejoker.com/)
   - [Anime Salt](https://animesalt.top/)
