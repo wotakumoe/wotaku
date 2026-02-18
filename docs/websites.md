@@ -83,7 +83,7 @@ ___
 - [LM Anime](https://lmanime.com/)
 - [Lucifer Donghua](https://luciferdonghua.in/) [:tg:](https://t.me/luciferdonghuaz)
 - [Myanime](https://myanime.live/)
-- [Top Chinese Anime](https://topchineseanime.com/) [:d:](https://discord.gg/zmAy8YuVrg) [:tg:](https://telegram.me/chineseanimecoin)
+- [Top Chinese Anime](https://topchineseanime.online/) [:d:](https://discord.gg/zmAy8YuVrg) [:tg:](https://telegram.me/chineseanimecoin)
 - [WowTopix](https://wowtopix.com/)
 :::
 

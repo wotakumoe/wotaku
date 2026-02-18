@@ -475,7 +475,6 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Mokuro](https://github.com/kha-white/mokuro)
 - [OwOCR](https://github.com/AuroraWright/owocr) :s:
 - [Poricom](https://github.com/blueaxis/Poricom)
-- [Sugoi Translation Toolkit](https://blog.sugoitoolkit.com/) :cs:
 - [Transformers OCR](https://github.com/Ajatt-Tools/transformers_ocr)
 - [Yomiwa](https://www.yomiwa.net/) :cs:
 - :more: [OCR Game tools](/games#ocr)
