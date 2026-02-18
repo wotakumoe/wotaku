@@ -417,7 +417,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | Type       | Solution |
 |----------- |----------|
 | Anime      | [Jellyfin](https://jellyfin.org/) :s: [:src:](https://github.com/jellyfin/jellyfin) |
-| ^^         | [Plex](https://www.plex.tv/) :cs: |
+| ^^         | [Plex](https://www.plex.tv/your-media/) :cs: |
 | ^^         | [Emby](https://emby.media/) :cs: |
 | Manga      | [Komga](https://komga.org/) :s: [:src:](https://github.com/gotson/komga) |
 | ^^         | [Kavita](https://www.kavitareader.com/) [:src:](https://github.com/Kareadita/Kavita) |
@@ -454,7 +454,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | [LANraragi](https://sugoi.gitbook.io/lanraragi/v/dev) | [Ichaival](https://github.com/Utazukin/Ichaival) :and: |
 | ^^         | [LANreader](https://github.com/Doraemoe/LANreader) :app: |
 | ^^         | [LRReader](https://github.com/Guerra24/LRReader) :win: |
-| [Plex](https://www.plex.tv/) | [MPV Shim for Plex](https://github.com/iwalton3/plex-mpv-shim) |
+| [Plex](https://www.plex.tv/your-media/) | [MPV Shim for Plex](https://github.com/iwalton3/plex-mpv-shim) |
 | ^^         | [Plex to AniList Sync](https://github.com/RickDB/PlexAniSync) |
 | ^^         | [PlexAniBridge](https://plexanibridge.elias.eu.org/) [:src:](https://github.com/eliasbenb/PlexAniBridge) |
 | Others     | [Tailscale](https://tailscale.com/) |
