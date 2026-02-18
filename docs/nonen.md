@@ -42,6 +42,7 @@ og:
 ### Manga
 - [3asQ](https://3asq.org/)
 - [Azora Moon](https://azoramoon.com/)
+- [Swat Manga](https://meshmanga.com/)
 
 ### NSFW
 - [Arabs Hentai](https://arabshentai.com/)

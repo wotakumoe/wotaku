@@ -312,7 +312,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | **Vocaloid** | [Imo Danshaku](https://www.youtube.com/@%E3%81%84%E3%82%82%E7%94%B7%E7%88%B5-g7g) |
 | ^^          | [Vocamed](https://www.youtube.com/@vocamed) |
 | ^^          | [:f: /jp/ vocaloid playlist](https://www.youtube.com/playlist?list=PLQqLx44OgzZybkIf7LZ2YI8iLL9b3BpJw) |
-| ^^          | [Vocaloid Big Hits](https://music.youtube.com/playlist?list=RDCLAK5uy_mgu07-HoqLSU-WqjK2ldEQWLuPPm3CAy8) |
+| ^^          | [Vocaloid Big Hits](https://www.youtube.com/playlist?list=RDCLAK5uy_mgu07-HoqLSU-WqjK2ldEQWLuPPm3CAy8) |
 
 
 ## Portal
