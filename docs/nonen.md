@@ -64,6 +64,7 @@ og:
 - [Anime Balkan](https://animebalkan.org/) [:alt:](https://animebalkan.gg/)
 - [AnimeOverdose](https://www.anime-overdose.com/)
 - [Anime Srbija](https://www.animesrbija.com/)
+- [AniPiece](https://anipiece.net/)
 - [BalkanFlix](https://www.balkanflix.com/)
 - [Gledaj Crtaće (.org)](https://www.gledajcrtace.org/)
 - [Gledaj Crtaće (.rs)](https://www.gledajcrtace.rs/)
