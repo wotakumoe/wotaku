@@ -302,7 +302,7 @@ To make the cubari process easier, we have made [Kaguya](https://github.com/wota
 
 - [Novel Updates](https://www.novelupdates.com/)
 - [Baka-tsuki](https://www.baka-tsuki.org/project/index.php?title=Main_Page)
-- [LNori](https://lnori.qzz.io/)
+- [LNori](https://lnori.com/)
 - [Ranobes](https://ranobes.top/)
 
 ::: details More
