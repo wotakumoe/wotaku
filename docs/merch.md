@@ -89,7 +89,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 | **Bishoujo** | [Asahiwa](https://asahiwa.jp/) :fjp: |
 | ^^        | [Figsoku B](https://figsoku-b.net/) :fjp: |
 | ^^        | [Fig-memo R18](https://fig-memo-r18.site/) :fjp::ero: |
-| ^^        | [moeyo](https://www.moeyo.com/) |
+| ^^        | [moeyo](https://moeyo.com/) |
 | Figures   | [Figgy](https://www.figgy.jp/) :fjp: <Badge text="General" /> |
 | ^^        | [Figsoku](https://figsoku.net/) :fjp: <Badge text="General" /> |
 | ^^        | [Gundam Kits Collection](https://www.gundamkitscollection.com/) |

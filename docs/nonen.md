@@ -400,7 +400,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [MangaFire](https://mangafire.to/home)
 - [MangaKuro](https://mangakuro.net/home)
 - [Manga Raw (.ac)](https://mangaraw.ac/) [:prx:](https://rentry.org/wotaxy#mangarawspoil) ==mangarawspoil==
-- [Manga RAW (.ad)](https://mangarawad.live/)
+- [Manga RAW (.ad)](https://mangarawad.tech/)
 - [Manga RAW (.best)](https://mangaraw.best/)
 - [MangarawJP](https://mangarawjp.me/)
 - [Pixiv Comics](https://comic.pixiv.net/)
