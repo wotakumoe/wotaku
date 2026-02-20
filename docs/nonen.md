@@ -308,7 +308,6 @@ og:
   - [Anime Salt](https://animesalt.top/)
   - [Anime World India](https://watchanimeworld.in/)
   - [Desi Dub Anime](https://www.desidubanime.me/)
-  - [Dora Bash](https://dorabash.in/)
   - [ToonStream](https://toonstream.love/)
 - **DDL**
   - [AnimeVilla](https://animevilla.in/) :ero:
@@ -657,7 +656,6 @@ ___
   - [Az-Animex](https://www.az-animex.com/)
   - [Union Fansub](https://foro.unionfansub.com/) :mag::acc:
   - [:tg: YaichiList](https://t.me/addlist/xA7wYMGu0CI2YzBh) :strm:
-  - [BeatZ-Anime](https://www.beatz-anime.net/) :ero:
 
 ### Manga
 - [Absorbiendo Mangas](https://absorbiendomangas2.blogspot.com/)
