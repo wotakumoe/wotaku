@@ -79,13 +79,13 @@ Like a seedbox, it's also a remote service. It can download from p2p and various
 <br>
 
 :::details Where can I get the highest quality manga releases?
-[**Nyaa.si**](https://nyaa.si/), [:f: /co/](https://boards.4chan.org/co/) & [**Madokami**](/guides/manga/madokami). Manga image quality depends on the [**source**](/guides/manga/comicinfo) and how it's been ripped, with volume release usually being better than [**CaaS**](/glossary/manga#publisher) release. If you want to download officially translated manga, [**Nyaa**](https://nyaa.si/) is always the best source, though some of the rippers upload upscaled SD rips. 
+[**Nyaa.si**](https://nyaa.si/), [:f: /co/](https://boards.4chan.org/co/) & [**Madokami**](/guides/manga/madokami). Manga image quality depends on the [**source**](/guides/manga/comicinfo) and how it's been ripped, with volume release usually being better than [**CaaS**](/glossary/manga#publisher) release. If you want to download officially translated manga, [**Nyaa**](https://nyaa.si/) is always the best source, though some of the rippers upload upscaled SD rips.
 
-We have listed the most trusted rippers in the [**Nyaa section**](/websites#nyaa). Madokami mainly mirrors the nyaa releases.
+We have listed the most trusted rippers in the [**Nyaa section**](/websites#nyaa). Madokami mainly mirrors the Nyaa releases.
 :::
 
 :::details What's the best website to read manga?
-Personal preference. Good online manga reading sites generally reupload nyaa releases (when it's available replacing/alongside the fantranslated one), but with added compression (e.g. [**Comix**](https://comix.to/home), [**Kagane**](https://kagane.org/), [**Weeb Central**](https://weebcentral.com/)) and/or watermarks on (almost) every page ([**MangaFire**](https://mangafire.to/home) :slightly-smiling-face: ). On the other hand, generic ones only keep the fan-translated ones. You can read a short description about the sites [**here**](/websites#manga).
+Personal preference. Good online manga reading sites generally reupload Nyaa releases (when it's available replacing/alongside the fantranslated one), but with added compression (e.g. [**Comix**](https://comix.to/home), [**Kagane**](https://kagane.org/), [**Weeb Central**](https://weebcentral.com/)) and/or watermarks on (almost) every page ([**MangaFire**](https://mangafire.to/home) :slightly-smiling-face: ). On the other hand, generic ones only keep the fan-translated ones. You can read a short description about the sites [**here**](/websites#manga).
 :::
 
 :::details When will the new volume of "X" get ripped?
@@ -197,7 +197,7 @@ Yes. [**Last.fm**](https://www.last.fm/). It's not anime songs centric but a gen
 :::
 
 :::details What should I use to convert my music files?
-Most of the PC music player can convert music files to your desired formats. For example [**Foobar2000**](https://www.foobar2000.org/) & [**Musicbee**](https://www.getmusicbee.com/). For Foobar200, you have to install [encoder pack](https://www.foobar2000.org/encoderpack). 
+Most of the PC music player can convert music files to your desired formats. For example [**Foobar2000**](https://www.foobar2000.org/) & [**Musicbee**](https://www.getmusicbee.com/). For Foobar200, you have to install [encoder pack](https://www.foobar2000.org/encoderpack).
 
 <Block link="/guides/music/transcoding" icon="i-mdi-lightbulb-alert-outline">Read our transcoding audio guide to learn the basics.</Block>
 

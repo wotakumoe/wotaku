@@ -287,7 +287,7 @@ This guide is more advanced than the other two and requires some more time to se
    - Download the [Release](https://github.com/JustSxm/SpotifyMigrator/releases).
    - Open `wwwroot/appsettings.json`.
    - Put the **Client ID** of the application you just created (found in **Basic Information**).
-   - If you are using the application for migrating your liked songs into **multiple playlists**, put the **ID** of a playlist where all the songs migrated will be put. If you don't need it, just create a **temporary playlis**t and delete it after using the application.
+   - If you are using the application for migrating your liked songs into **multiple playlists**, put the **ID** of a playlist where all the songs migrated will be put. If you don't need it, just create a **temporary playlist** and delete it after using the application.
    - Once done, save and exit.
    - Now open `appsettings.json`.
    - Put the **Client ID & Client Secret** of the application you just created (found in **Basic Information**).
