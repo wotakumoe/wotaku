@@ -70,6 +70,9 @@ og:
 - [Gledaj Crtaće (.org)](https://www.gledajcrtace.org/)
 - [Gledaj Crtaće (.rs)](https://www.gledajcrtace.rs/)
 
+### Manga
+- [L&B Pirates](https://lnbmange.com/)
+
 ### News
 - [Potamanime](https://potamanime.rs/)
 

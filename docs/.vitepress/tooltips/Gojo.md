@@ -1,1 +1,0 @@
-Scrapes AnimeOwl (Strix), AnimePahe (Pahe), AnimeZ (Zaza).

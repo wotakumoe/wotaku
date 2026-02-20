@@ -64,7 +64,7 @@ ___
 | [Anikuro](https://anikuro.to/) [:prx:](https://anikuro.site/) ==Anikuro== | :yes: | :sync: | :cc::hs: |
 | [Anime Realms](https://www.animerealms.org/en) ==AnimeRealms== | :yes: | :sync: | :cc::hs: |
 | [AnimeX](https://animex.one/home) ==AnimeX== | :yes: | :sync: | :cc::hs: |
-| [Animetsu](https://animetsu.net/) ==Gojo== | :yes: | :ie::e: | :hs: |
+| [Animetsu](https://animetsu.net/) ==Animetsu== | :yes: | :ie::e: | :hs: |
 | [Miruro](https://www.miruro.to/) [:prx:](https://www.miruro.com) ==miruro== | :yes: | :sync::e: | :cc::hs: |
 
 

@@ -57,6 +57,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 
 ## Novels
 - [Novel Updates](https://www.novelupdates.com/) :s:
+- [MangaBaka](https://mangabaka.org/) :s:
 - [RanobeDB](https://ranobedb.org/) :s: [:src:](https://github.com/Blastose/ranobedb)
 - [Ranobe Mori](https://ranobe-mori.net/) :fjp:
 - [Bookmeter](https://bookmeter.com/) :fjp:
