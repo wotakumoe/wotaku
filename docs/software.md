@@ -422,9 +422,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | Manga      | [Komga](https://komga.org/) :s: [:src:](https://github.com/gotson/komga) |
 | ^^         | [Kavita](https://www.kavitareader.com/) [:src:](https://github.com/Kareadita/Kavita) |
 | ^^         | [LANraragi](https://sugoi.gitbook.io/lanraragi/v/dev) [:src:](https://github.com/Difegue/LANraragi) |
-| ^^         | [Teemii](https://www.teemii.io/) [:src:](https://github.com/dokkaner/teemii) |
 | ^^         | [Suwayomi](https://github.com/Suwayomi/Suwayomi-Server) |
-| ^^         | [Mango](https://github.com/getmango/Mango) <Badge type="warning" text="Outdated" /> |
 | Novels     | [Kavita](https://www.kavitareader.com/) :s: [:src:](https://github.com/Kareadita/Kavita) |
 | ^^         | [Komga](https://komga.org/) [:src:](https://github.com/gotson/komga) |
 | ^^         | [Calibre-Web](https://github.com/janeczku/calibre-web) |

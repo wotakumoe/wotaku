@@ -1,1 +1,1 @@
-Scrapes Animepahe (kiwi & telli), AnimeZ (jet), HiAnime (bee & bun), KickassAnime (hop & kuz).
+Scrapes AnimeKai (arc), Animepahe (kiwi & telli), AnimeZ (jet), HiAnime (bee & bun), KickassAnime (hop & kuz).

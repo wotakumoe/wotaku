@@ -302,12 +302,13 @@ og:
 - **Stream**
   - [AllWish](https://all-wish.me/home)
   - [Aniflix](https://aniflix.uno/)
-  - [AnimeDekho](https://animedekho.in/home)
   - [AnimeLok](https://animelok.site/home)
   - [Anime Joker](https://animejoker.com/)
   - [Anime Salt](https://animesalt.top/)
   - [Anime World India](https://watchanimeworld.in/)
   - [Desi Dub Anime](https://www.desidubanime.me/)
+  - [Dora Bash](https://dorabash.in/)
+  - [PirateXPlay](https://piratexplay.cc/home)
   - [ToonStream](https://toonstream.love/)
 - **DDL**
   - [AnimeVilla](https://animevilla.in/) :ero:

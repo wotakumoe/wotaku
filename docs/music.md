@@ -366,18 +366,16 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | Category   | Links   |
 |-----------|--------|
 | **General** | [Echo](https://github.com/brahmkshatriya/echo) :s::and: [:help:](/guides/music/echo) ==echo== |
-| ^^         | [Soundbound](https://soundbound.app/) :and::cs: |
 | ^^         | [Revanced](https://revanced.app/) :and: [:src:](https://github.com/revanced) |
-| **YouTube** | [**YouTube Music**](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music) |
+| ^^         | [Soundbound](https://soundbound.app/) :and::cs: |
+| **YouTube** | [Harmony Music](https://github.com/anandnet/Harmony-Music) :and: |
 | ^^         | [Innertune](https://github.com/z-huang/InnerTune) :and: |
 | ^^         | [Metrolist](https://github.com/mostafaalagamy/metrolist) :and: |
 | ^^         | [RiMusic](https://github.com/fast4x/RiMusic) :and: |
 | ^^         | [SimpMusic](https://github.com/maxrave-dev/SimpMusic) :and: |
-| ^^         | [Harmony Music](https://github.com/anandnet/Harmony-Music) :and: |
-| **Spotify** | [**Spotify**](https://www.spotify.com/us/download/) :cs: |
+| **Spotify** | [EeveeSpotify](https://github.com/Meeep1/EeveeSpotifyRevivedPublic) :app: |
 | ^^         | [xManager](https://www.xmanagerapp.com/) :and::cs: |
-| **Others**  | [Apple Music](https://apps.apple.com/us/app/apple-music/id1108187390) :app::cs: |
-| ^^         | [OpenSpot](https://github.com/BlackHatDevX/openspot-music-app) :and: `Qobuz` |
+| **Others**  | [OpenSpot](https://github.com/BlackHatDevX/openspot-music-app) :and: `Qobuz` |
 | ^^         | [ReFreezer](https://github.com/DJDoubleD/refreezer) :and: `Deezer` |
 | ^^         | [RootlessJamesDSP](https://github.com/timschneeb/RootlessJamesDSP) |
 | ^^         | [Transistor](https://codeberg.org/y20k/transistor) :and: `Radio` |
