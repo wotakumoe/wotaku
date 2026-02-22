@@ -200,7 +200,7 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 | Websites | Login | Tracking | Social |
 |----------|-------|--|----- |
 | [Comix](https://comix.to/home) ==Comix== | :yes: | :ie::e: | :ic-round-mode-comment: |
-| [Kagane](https://kagane.org/) ==Kagane== | :yes: |  :e: | :no: |
+| [Kagane](https://kagane.org/) ==Kagane== | :yes: |  :e: | :ic-round-mode-comment: |
 | [Weeb Central](https://weebcentral.com/) ==WeebCentral== | :yes: | :e:  | :ic-round-mode-comment: |
 | [Atsumaru](https://atsu.moe/) | :yes: |  :e: | :ic-round-mode-comment: |
 | [MangaFire](https://mangafire.to/home) ==MangaFire== | :yes: |  :ie::e: | :no: |
