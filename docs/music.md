@@ -121,6 +121,8 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [Lucida](https://lucida.to/) :s: | Amazon, Deezer, Qobuz, Soundcloud, Tidal, Yandex |
 | [DoubleDouble](https://doubledouble.top/) :s: | Amazon, Deezer, Qobuz, Soundcloud, Tidal |
 | [Squid.wtf](https://squid.wtf/) | Amazon, KHInsider, Qobuz, Soundcloud, Tidal |
+| [T2Tunes](https://t2tunes.site/) | Amazon |
+| [am-dl](https://am-dl.pages.dev/) | Apple |
 | [YAMS](https://yams.tf/) :acc: | Deezer, Qobuz |
 | [ARCOD](https://www.arcod.xyz/) :acc: | Qobuz |
 | [DAB Music Player](https://dabmusic.xyz/) :acc: | Qobuz |
@@ -129,7 +131,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [Digger](https://digger-ui.vercel.app/) | Tidal |
 | [Monochrome](https://monochrome.tf/) | Tidal |
 | [QQDL](https://qqdl.site/) | Tidal |
-| [am-dl](https://am-dl.pages.dev/) | Apple Music |
 
 ## Doujin
 
