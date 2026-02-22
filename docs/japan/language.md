@@ -30,6 +30,7 @@ og:
 |-|-|-|-|-|-|
 | [Nihongo NET](https://nihongokyoshi-net.com/) | :yes: | :yes: | :yes: | :yes: | :yes: | 
 | [Itazuraneko](https://gohoneko.neocities.org/) | :yes: | :yes: | :yes: | :no: | :no: | 
+| [KanaDojo](https://kanadojo.com/) [:src:](https://github.com/lingdojo/kana-dojo) | :yes: | :yes: | :no: | :yes: | :no: | 
 | [renshuu](https://www.renshuu.org/) | :yes: | :yes: | :yes: | :yes: | :yes: | 
 
 :::

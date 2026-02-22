@@ -57,6 +57,7 @@ og:
 
 ### English
 - [Boutique Japan](https://boutiquejapan.com/)
+- [ConbiniWars](https://conbini.kikkia.dev/) [:src:](https://github.com/kikkia/ConbiniWars)
 - [Good Luck Trip](https://www.gltjp.com/en/)
 - [japan-guide.com](https://www.japan-guide.com/)
 - [Japan Specialist](https://japanspecialist.com/)
@@ -128,6 +129,7 @@ og:
 - [Ask Japanese](https://www.youtube.com/@AskJapanese)
 - [Emirichu](https://www.youtube.com/@Emirichu)
 - [Japanalysis](https://www.youtube.com/@Japanalysis) :s:
+- [Japan Eat](https://www.youtube.com/@japaneat) <Badge type="info" text="Map" link="https://japaneat.com/pages/map" />
 - [Let's ask Shogo](https://www.youtube.com/@LetsaskShogo)
 - [Life Where I'm From](https://www.youtube.com/@LifeWhereImFrom)
 - [Megan and Ben](https://www.youtube.com/@thehitobito)

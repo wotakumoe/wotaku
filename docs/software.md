@@ -466,6 +466,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Capture2text](https://capture2text.sourceforge.net/)
 - [Chrome Lens OCR](https://github.com/dimdenGD/chrome-lens-ocr) :s:
 - [Imagetrans](https://www.basiccat.org/imagetrans/) :cs: <Badge type="tip" text="Plugins" link="https://github.com/xulihang/ImageTrans_plugins" />
+- [Interpreter](https://github.com/bquenin/interpreter)
 - [Kanji tomo](https://www.kanjitomo.net/)
 - [Luna Translator](https://github.com/HIllya51/LunaTranslator)
 - [Manatan](https://github.com/KolbyML/Manatan)

@@ -33,7 +33,7 @@ og:
 - [Anime4up](https://anime4up.rest/)
 - [Animeblkom](https://blkom.com/)
 - [Animelek](https://animelek.vip/)
-- [Animerco](https://web.animerco.org/)
+- [Animerco](https://zeta.animerco.org/)
 - [Arabic Toons](https://www.arabic-toons.com/)
 - [Okanime](https://okanime.tv/)
 - [WitAnime](https://witanime.cyou/)
@@ -494,7 +494,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [Desu Online](https://desu-online.pl/)
 - [Docchi](https://docchi.pl/) [:src:](https://github.com/docchipl/shinden-description)
 - [Frixy Subs](https://frixysubs.pl/)
-- [Fumetsu](https://fumetsu.pl/)
 - [Grupa Mirai](https://www.grupa-mirai.pl/)
 - [Lycoris](https://www.lycoris.cafe/)
 - [NanaSubs](https://nanasubs.com/)
@@ -551,7 +550,6 @@ ___
 
 ### Tokusatsu
 - [DGB Catálogo](https://dgbfansub.carrd.co/)
-- [NewZect](https://newzect.com/)
 - [Rádio Toku Hero Club](https://www.radiotokuheroclub.com/)
 - [Senpuu Tokusatsu](https://senpuu.com.br/)
 - [:tg: TOKUSHARE](https://t.me/s/tokushareoficial)
@@ -657,6 +655,7 @@ ___
   - [Az-Animex](https://www.az-animex.com/)
   - [Union Fansub](https://foro.unionfansub.com/) :mag::acc:
   - [:tg: YaichiList](https://t.me/addlist/xA7wYMGu0CI2YzBh) :strm:
+  - [BeatZ-Anime](https://www.beatz-anime.net/) :ero:
 
 ### Manga
 - [Absorbiendo Mangas](https://absorbiendomangas2.blogspot.com/)
@@ -753,7 +752,6 @@ ___
 ### Hentai
 - [DuaLeoTruyen](https://dualeotruyenvh.com/)
 - [HentaiCube](https://hentaicube.xyz/)
-- [HentaiVN](https://hentaivn.show/)
 - [KuroNeko](https://vi-hentai.com/)
 - [TruyenHentaiVN](https://truyenhentaivn.club/)
 
