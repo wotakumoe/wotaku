@@ -400,12 +400,13 @@ These sites contain a mix of both actual and AI-generated novels.
 ## Subreddits
 
 - [Tokusatsu](https://old.reddit.com/r/Tokusatsu/)
-- [GARO](https://old.reddit.com/r/GARO/)
 - [Gamera](https://old.reddit.com/r/Gamera/)
+- [GARO](https://old.reddit.com/r/GARO/)
 - [Godzilla](https://old.reddit.com/r/Godzilla/)
 - [Kaiju](https://old.reddit.com/r/Kaiju/)
 - [Kamen Rider](https://old.reddit.com/r/KamenRider/)
 - [King Kong](https://old.reddit.com/r/kingkong/)
+- [Monsterverse](https://old.reddit.com/r/Monsterverse/)
 - [Mothra](https://old.reddit.com/r/Mothra/)
 - [Power Rangers](https://old.reddit.com/r/PowerRangers/)
 - [Super Sentai](https://old.reddit.com/r/SuperSentai/)
