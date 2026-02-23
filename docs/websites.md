@@ -394,16 +394,19 @@ These sites contain a mix of both actual and AI-generated novels.
 - [JEFusion](https://www.jefusion.com/) <Badge type="danger" icon="i-mdi-lightbulb-alert-outline" text="Spoiler" /> 
 - [Morphin Legacy](https://morphinlegacy.com/)
 - [Henshin Grid](https://henshingrid.blogspot.com/)
-- [My shiny Toy Robots](https://www.myshinytoyrobots.com/)
+- [My Shiny Toy Robots](https://www.myshinytoyrobots.com/)
 - [Ultraman Connection](https://www.ultramanconnection.com/)
 
 ## Subreddits
 
 - [Tokusatsu](https://old.reddit.com/r/Tokusatsu/)
 - [GARO](https://old.reddit.com/r/GARO/)
+- [Gamera](https://old.reddit.com/r/Gamera/)
 - [Godzilla](https://old.reddit.com/r/Godzilla/)
 - [Kaiju](https://old.reddit.com/r/Kaiju/)
 - [Kamen Rider](https://old.reddit.com/r/KamenRider/)
+- [King Kong](https://old.reddit.com/r/kingkong/)
+- [Mothra](https://old.reddit.com/r/Mothra/)
 - [Power Rangers](https://old.reddit.com/r/PowerRangers/)
 - [Super Sentai](https://old.reddit.com/r/SuperSentai/)
 - [Ultraman](https://old.reddit.com/r/Ultraman/)
