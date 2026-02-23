@@ -322,6 +322,7 @@ ___
 - [HUNTER×HUNTER Hiatus Chart](https://hiatus-hiatus.github.io/)
 - [Inazuma](https://inazuma.rl404.com/) [:src:](https://github.com/rl404/inazuma)
 - [One Piece Wanted Poster Maker](https://yuskawu.github.io/one-piece-wanted-poster/dist/) [:src:](https://github.com/YuskaWu/one-piece-wanted-poster)
+- [Settei Geometry](https://settei-geometry.mahdeensky.top/)
 - [True Harem](https://trueharem.carrd.co/)
 - [TV Tropes](https://tvtropes.org/)
 - [Vagabond Hiatus Chart](https://vagabond-hiatus-chart.vercel.app/) [:src:](https://github.com/falsepopsky/vagabond-hiatus-chart)
