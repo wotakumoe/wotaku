@@ -202,16 +202,16 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 | [Comix](https://comix.to/home) ==Comix== | :yes: | :ie::e: | :ic-round-mode-comment: |
 | [Kagane](https://kagane.org/) ==Kagane== | :yes: |  :e: | :ic-round-mode-comment: |
 | [Weeb Central](https://weebcentral.com/) ==WeebCentral== | :yes: | :e:  | :ic-round-mode-comment: |
-| [Atsumaru](https://atsu.moe/) | :yes: |  :e: | :ic-round-mode-comment: |
+| [Atsumaru](https://atsu.moe/) ==Atsumaru== | :yes: |  :e: | :ic-round-mode-comment: |
 | [MangaFire](https://mangafire.to/home) ==MangaFire== | :yes: |  :ie::e: | :no: |
 | [MangaDex](https://mangadex.org/) [:rss:](https://mdrss.tijlvdb.me/) ==MangaDex== | :yes: | :e:  | :ic-round-mode-comment: |
 
 ::: details More
 | Websites | Login | Tracking | Social |
-|----------|-------|--|----- |
+|----------|-------|----------|------- |
+| [WeebDex](https://weebdex.org/) <Badge type="info" text="Manga"  /> | :yes: | :ie::e: | :ic-round-mode-comment: |
 | [Manga Katana](https://mangakatana.com/) | :yes: | :ie::e:  | :ic-round-mode-comment: |
 | [MangaTaro](https://mangataro.org/home) | :yes: | :ie::e:  | :ic-round-mode-comment: |
-| [WeebDex](https://weebdex.org/) | :yes: | :ie::e:  | :ic-round-mode-comment: |
 | [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy) | :yes: | :e:  | :ic-round-mode-comment: |
 | [Mangahub](https://mangahub.io/) :acc: | :yes: | :e:  | :ic-round-mode-comment: |
 | [Dynasty Scans](https://dynasty-scans.com/) | :yes: | :e:  | :ic-round-forum: |
@@ -219,7 +219,7 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 | [Manga Fox](https://mangafox.la/) [:prx:](https://rentry.org/wotaxy#manga-fox) | :yes: | :e:  | :ic-round-mode-comment: |
 | [MangaBall](https://mangaball.net/) | :yes: |  :e: | :ic-round-mode-comment: |
 | [MangaKakalot](https://www.mangakakalot.fan/) [:prx:](https://rentry.org/wotaxy#mangakakalot) | :yes: |  :e: | :ic-round-mode-comment: |
-| [24hNovel](https://24hnovel.com/) `Manhua` | :yes: | :no:  | :no: |
+| [24hNovel](https://24hnovel.com/) <Badge type="info" text="Manhua"  /> | :yes: | :no:  | :no: |
 :::
 
 ::: details Scrapers

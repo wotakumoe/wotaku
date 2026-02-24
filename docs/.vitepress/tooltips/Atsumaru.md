@@ -1,0 +1,1 @@
+Mostly scrapes Weeb Central, but allows user uploads too.
