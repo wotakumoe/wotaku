@@ -249,15 +249,15 @@ To make the cubari process easier, we have made [Kaguya](https://github.com/wota
 - :f: -> the ripper uploads to 4chan first.
 :::
 
-- [1r0n](https://nyaa.si/user/tsuna69) `Ch` `Vol` ==tron==
-- [Aleph](https://nyaa.si/user/Aleph256) `Ch` ==Aleph==
-- [Danke](https://nyaa.si/?f=0&c=0_0&q=danke-empire) :f: <Badge type="warning" text="Retired"/> `Ch` `Vol` ==Danke==
-- [Digital Manga Fan](https://nyaa.si/user/digitalmangafan) ==DMF==
-- [Empy](https://nyaa.si/user/empyrealarrow) <Badge type="warning" text="Retired"/> `Ch` `Comp` ==Empy==
+- [1r0n](https://nyaa.si/user/tsuna69) <Badge type="info" text="Ch"/> <Badge type="info" text="Vol"/> ==tron==
+- [Aleph](https://nyaa.si/user/Aleph256) <Badge type="info" text="Ch"/> ==Aleph==
+- [Danke](https://nyaa.si/?f=0&c=0_0&q=danke-empire) :f: <Badge type="warning" text="Retired"/> <Badge type="info" text="Ch"/> <Badge type="info" text="Vol"/> ==Danke==
+- [Digital Manga Fan](https://nyaa.si/user/digitalmangafan) <Badge type="info" text="Comp"/> <Badge type="info" text="Vol"/> ==DMF==
+- [Empy](https://nyaa.si/user/empyrealarrow) <Badge type="warning" text="Retired"/> <Badge type="info" text="Ch"/> <Badge type="info" text="Comp"/> ==Empy==
 - [Lord_ne](https://nyaa.si/user/lord_ne) ==Lord_ne==
-- [LuCaZ](https://nyaa.si/user/LuCaZ) `Ch` `Vol` ==LuCaZ==
-- [Oakminati](https://nyaa.si/user/Oakminati) `Ch` `Comp` <Badge type="tip" text="Releases" link="https://sheet.zohopublic.com/sheet/published/3v5my3d014d3b97064f55b7114631ac87efda?sheetid=1&range=A1" /> ==Oakminati==
-- [Rillant](https://nyaa.si/user/Rillant) `Ch` `Comp` ==Rillant==
+- [LuCaZ](https://nyaa.si/user/LuCaZ) <Badge type="info" text="Ch"/> <Badge type="info" text="Vol"/> ==LuCaZ==
+- [Oakminati](https://nyaa.si/user/Oakminati) <Badge type="info" text="Ch"/> <Badge type="info" text="Comp"/> <Badge type="tip" text="Releases" link="https://sheet.zohopublic.com/sheet/published/3v5my3d014d3b97064f55b7114631ac87efda?sheetid=1&range=A1" /> ==Oakminati==
+- [Rillant](https://nyaa.si/user/Rillant) <Badge type="info" text="Ch"/> <Badge type="info" text="Comp"/> ==Rillant==
 - [Shellshock](https://nyaa.si/user/shellshock) ==Shellshock==
 - [Shizu](https://nyaa.si/user/wolfsbanes) ==Shizu==
 - [Stick](https://nyaa.si/user/dumbboy58) ==Stick==
@@ -546,6 +546,6 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 ## Comics
 - [Comics Kingdom](https://comicskingdom.com/)
 - [DC Universe Infinite](https://www.dcuniverseinfinite.com/)<tooltip>Available in the United States, the United Kingdom, Canada, Australia and New Zealand.</tooltip>
+- [GlobalComix](https://globalcomix.com/)
 - [GoComics](https://www.gocomics.com/)
 - [Marvel Unlimited](https://www.marvel.com/unlimited)
-

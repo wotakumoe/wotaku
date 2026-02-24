@@ -21,7 +21,7 @@ export interface Contributors {
 export const contribs = {
   core: [
     {
-      name: 'taskyliz',
+      name: 'tasky',
       avatar: 'https://github.com/taskyliz.png',
       site: 'https://github.com/taskyliz'
     },
