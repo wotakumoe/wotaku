@@ -270,7 +270,7 @@ og:
 | [Holo Dungeon](https://zkfie.itch.io/holo-dungeon) | Free | Amelia Watson | fie | fie |
 | [デュエホロ (DUEHOLO)](https://store.steampowered.com/app/2996280/) | Paid  | Hololive JP       | テイク  | holo Indie |
 | [狐の旅路 (Kitsune no Tabiji)](https://store.steampowered.com/app/1178050/) :fjp: | Free | Shirakami Fubuki | 狐の旅路制作组 | DZ |
-| [holoVillage: Our Cozy Days](https://store.steampowered.com/app/3856280/) | - | Hololive | Holo village team | holo Indie |
+| [holoVillage: Our Cozy Days](https://store.steampowered.com/app/3856280/) | - | Hololive | Roboqlo | holo Indie |
 | [Submerged Mystery: Takodachi](https://velveteenio.itch.io/submerged-mystery-takodachi) | Free   | Ninomae Ina'Nis  | Velveteen  | Velveteen |
 | [Super Holo Wars](https://tshadowknight.itch.io/super-holo-wars) | Free | Hololive | TShadowKnight | TShadowKnight |
 

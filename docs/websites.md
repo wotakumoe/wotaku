@@ -366,7 +366,7 @@ These sites contain a mix of both actual and AI-generated novels.
 | ^^         | [Power Rangers Official](https://www.youtube.com/@PowerRangersOfficial) |
 | ^^         | [ULTRAMAN Official](https://www.youtube.com/@ULTRAMAN_OFFICIAL) <Badge type="tip" text="New" link="https://www.youtube.com/@ultraman_english_official" /> |
 | ^^         | [Legal Tokusatsu Streaming List](https://otakulogy.github.io/tokusatsu-streaming/) |
-| **Download** | [Zekozimo](https://zekozimo.blogspot.com/) :s: <Badge type="tip" text="General" /> |
+| **Download** | [Zekozimo](https://zekozimo.blogspot.com/) :s: <Badge type="info" text="General" /> |
 | ^^         | [KRDL](https://krdl.moe/) :s: |
 | ^^         | [Nyaa](https://nyaa.si/) :mag: [:prx:](https://rentry.org/nyaap) |
 | ^^         | [Bereke Scrubs](https://berekescrubs.wordpress.com/) |
@@ -376,7 +376,7 @@ These sites contain a mix of both actual and AI-generated novels.
 
 ## Wikis
 
-- [Tokupedia](https://tokusatsu.fandom.com/wiki/Main_Page) <Badge type="tip" text="Hub"  />
+- [Tokupedia](https://tokusatsu.fandom.com/wiki/Main_Page) <Badge type="info" text="Hub"  />
 - [GARO Wiki](https://garo.fandom.com/wiki/GARO_Wiki)
 - [Kamen Rider Wiki](https://kamenrider.fandom.com/wiki/Kamen_Rider_Wiki)
 - [King Kong Wiki](https://kingkong.fandom.com/wiki/King_Kong_Wiki)

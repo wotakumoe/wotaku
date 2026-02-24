@@ -99,7 +99,11 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 - [Panel Cleaner](https://github.com/VoxelCubes/PanelCleaner)
 
 ## Typesetting
-- Font Finder <Badge type="tip" text="Font Spring" link="https://www.fontspring.com/matcherator" /> <Badge type="tip" text="Font Squirrel" link="https://www.fontsquirrel.com/matcherator" /> <Badge type="tip" text="MyFonts" link="https://www.myfonts.com/pages/whatthefont" /> <Badge type="tip" text="What font is" link="https://www.whatfontis.com/" />
+- Font Finder
+  - [Font Spring](https://www.fontspring.com/matcherator)
+  - [Font Squirrel](https://www.fontsquirrel.com/matcherator)
+  - [MyFonts](https://www.myfonts.com/pages/whatthefont)
+  - [WhatFontIs](https://www.whatfontis.com/)
 - [Quickstitch](https://github.com/quietkiro/quickstitch)
 - [Smart Stitch](https://github.com/MechTechnology/SmartStitch)
 - [Stitch Tool](https://github.com/Aeonss/StitchTool)
@@ -111,11 +115,15 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 - [MangaJaNai](https://github.com/the-database/MangaJaNai) <Badge type="info" text="GUI" link="https://github.com/the-database/MangaJaNaiConverterGui" />
 - [Real ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 - [SickZil-Machine](https://github.com/KUR-creative/SickZil-Machine)
-- [Waifu2X](https://github.com/nagadomi/waifu2x) <Badge type="tip" text="caffe" link="https://github.com/lltcggie/waifu2x-caffe" /> <Badge type="tip" text="ncnn Vulkan" link="https://github.com/nihui/waifu2x-ncnn-vulkan" /> <Badge type="tip" text="Ext GUI" link="https://github.com/AaronFeng753/Waifu2x-Extension-GUI" /> <Badge type="tip" text="nunif" link="https://github.com/nagadomi/nunif" />
+- [Waifu2X](https://github.com/nagadomi/waifu2x)
+  - [caffe](https://github.com/lltcggie/waifu2x-caffe)
+  - [Extension GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
+  - [ncnn Vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan)
+  - [nunif](https://github.com/nagadomi/nunif)
 - [chaiNNer](https://github.com/chaiNNer-org/chaiNNer)
 
 ## Others
-- [Manga downloader](https://github.com/xuzhengyi1995/Manga_downloader)
+- [Manga Downloader](https://github.com/xuzhengyi1995/Manga_downloader)
 - [Monochrome](https://github.com/MonochromeCMS/monochrome)
 - [ScanFolders](https://github.com/Fris44/ScanFolders)
 - [UQC TOOLS](https://github.com/kevinmartz/UQC-TOOLS)
