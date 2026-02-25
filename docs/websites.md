@@ -204,12 +204,11 @@ All the listed sites contain a mix of Manga, Manhwa and Manhua.
 | [Weeb Central](https://weebcentral.com/) ==WeebCentral== | :yes: | :e:  | :ic-round-mode-comment: |
 | [Atsumaru](https://atsu.moe/) ==Atsumaru== | :yes: |  :e: | :ic-round-mode-comment: |
 | [MangaFire](https://mangafire.to/home) ==MangaFire== | :yes: |  :ie::e: | :no: |
-| [MangaDex](https://mangadex.org/) [:rss:](https://mdrss.tijlvdb.me/) ==MangaDex== | :yes: | :e:  | :ic-round-mode-comment: |
+| [WeebDex](https://weebdex.org/) <Badge type="info" text="Manga"  /> | :yes: | :ie::e: | :ic-round-mode-comment: |
 
 ::: details More
 | Websites | Login | Tracking | Social |
 |----------|-------|----------|------- |
-| [WeebDex](https://weebdex.org/) <Badge type="info" text="Manga"  /> | :yes: | :ie::e: | :ic-round-mode-comment: |
 | [Manga Katana](https://mangakatana.com/) | :yes: | :ie::e:  | :ic-round-mode-comment: |
 | [MangaTaro](https://mangataro.org/home) | :yes: | :ie::e:  | :ic-round-mode-comment: |
 | [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy) | :yes: | :e:  | :ic-round-mode-comment: |

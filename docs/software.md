@@ -316,7 +316,6 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 |----------|---------|
 | [Clip Studio Reader](https://greasyfork.org/en/scripts/481576-clip-studio-reader-downloader) [:src:](https://github.com/MrCocoNuat/clip-studio-reader-downloader) | :js: |
 | [Getjump](https://github.com/eggplants/getjump) <Badge type="info" text="GigaViewer"/> | :py: |
-| [Mangadex Downloader](https://github.com/mansuf/mangadex-downloader) | :py: |
 | [Mangaplus Downloader](https://github.com/hurlenko/mloader/) | :py: |
 :::
 

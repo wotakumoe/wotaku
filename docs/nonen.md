@@ -16,11 +16,6 @@ og:
 - [KickassAnime](https://kickass-anime.ru/) [:prx:](https://kickassanime.cx/)
 - [Sudatchi](https://sudatchi.com/)
 
-### Manga
-- [MangaDex](https://mangadex.org/) [:rss:](https://mdrss.tijlvdb.me/)
-- [Nine Manga](https://www.ninemanga.com/)
-- [Novel Cool](https://novelcool.com/)
-
 ### Apps
 - [Mihon](https://github.com/mihonapp/mihon) [:e:](/guides/ext/mihon)
 - [Aniyomi](https://github.com/jmir1/aniyomi/) [:e:](/guides/ext/mihon)
@@ -522,31 +517,9 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 ### Manga
 - [Ler Mangas](https://lermangas.me/)
-
-::: details Scanlators
-#### Website
 - [Argos Comic](https://argoscomics.online/) :fjp::fkr::fcn::ero:
 - [Kakusei Project](https://kakuseiproject.com/) :fjp::ero:
 - [Yuri.Live](https://yuri.live/) :fjp::fkr::fcn::ero:
-
-___
-
-#### Mangadex
-- [Cerise Scan](https://mangadex.org/group/ede42574-8939-4311-b86f-cf75f25283f3/cerise-scan) :fkr::ero:  
-- [Dango Scan](https://mangadex.org/group/7ea0c022-deb0-4a3c-94cf-0610f48007aa/dango-scan) :fjp::fkr::fcn:  
-- [Diskus Scan](https://mangadex.org/group/dd3d3092-abee-4f7d-83c8-f9903b82ee06/diskus-scan) :fjp::fkr::fcn:  
-- [Eleven Scanlator](https://mangadex.org/group/ddd2776a-c49e-41ec-8f01-7fc5a98d21cf/eleven-scanlator) :fjp::fkr::fcn::ero:  
-- [Fay Scans](https://mangadex.org/group/ee6d695c-1a74-4753-a10e-a37ad7a63160/fay-scans) :fjp::fkr:  
-- [Fuckill](https://mangadex.org/group/222493b7-6e60-4b7d-8ed0-ffcbec04c0da/fuckill) :fjp::ero:  
-- [Kami Sama Explorer](https://mangadex.org/group/450af2bd-9ccc-4fa4-b865-f86337d23322/kami-sama-explorer) :fjp::ero:  
-- [MiniTwo Scan](https://mangadex.org/group/5889f18b-1801-44f9-8c83-19be84ac03db) :fjp::fkr::fcn::ero:  
-- [Saikai Scan](https://mangadex.org/group/c1a3aadb-8b80-4456-93b7-68ba90f819ce/saikai-scan) :fjp::fkr::fcn::ero:  
-- [Shin Sekai Scans](https://mangadex.org/group/cb2c8352-1b79-45d7-a6d5-6fac95dad901/shin-sekai-scans) :fjp::ero:  
-- [Sinensis Scan](https://mangadex.org/group/c42e2110-6d8c-41da-bf15-468daec41e7d/sinensis-scan) :fkr::fcn::ero:  
-- [Sirius Scanlator](https://mangadex.org/group/36a6b11a-d29f-4f21-b73a-ca9f688b36df/sirius-scanlator) :fjp::ero:  
-- [Tsundoku Traduções](https://mangadex.org/group/49c08636-a37e-4d4b-a8fa-3f03b1fd58f3/tsundoku-traducoes) :fjp::fkr::fcn::ero:  
-- [Wicked Witch Scan](https://mangadex.org/group/b1252064-f603-4956-a632-774a45f2bc1a/wicked-witch-scan) :fkr::fcn::ero:  
-:::
 
 ### Tokusatsu
 - [DGB Catálogo](https://dgbfansub.carrd.co/)

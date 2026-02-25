@@ -384,9 +384,6 @@ og:
 - [Series Highlighter](https://greasyfork.org/en/scripts/424774-series-highlighter-mal)
 
 ## Manga
-
-- [MangaDex Condensed](https://greasyfork.org/en/scripts/429495-mangadex-condensed)
-- [MangaDex Follows](https://greasyfork.org/en/scripts/430295-new-mangadex-follows)
 - [Manga Online Viewer](https://github.com/TagoDR/MangaOnlineViewer)
 - [MangaPlusPlus](https://github.com/kmsomebody/MangaPlusPlus)
 
