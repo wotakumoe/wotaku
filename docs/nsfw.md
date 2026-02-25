@@ -29,7 +29,7 @@ og:
 - [Hentai Stream](https://hstream.moe/) <Badge type="info" text="Upscale" />
 - [Hentai World](https://hentaiworld.tv/)
 - [Hentaverse](https://hentaverse.com/)
-- [Mucho Hentai](https://muchohentai.com/) <Badge type="info" text="Schedule" /> <Badge type="info" text="PV" />
+- [Mucho Hentai](https://muchohentai.com/) <Badge type="info" text="Schedule" /><Badge type="info" text="PV" />
 - [Oppai](https://oppai.stream/) <Badge type="info" text="Upscale" />
 
 
@@ -38,7 +38,7 @@ og:
 - [Hentai Ocean](https://hentaiocean.com/)
 - [HenVids](https://henvids.com/)
 - [Rule34video](https://rule34video.com/)
-- [SakuraCircle](https://sakuracircle.com/) :ddl: <Badge type="warning" text="Retired"/> <Badge type="tip" text="Nyaa" link="https://sukebei.nyaa.si/user/Tennouji" />
+- [SakuraCircle](https://sakuracircle.com/) :ddl: <Badge type="warning" text="Retired"/><Badge type="tip" text="Nyaa" link="https://sukebei.nyaa.si/user/Tennouji" />
 - [UnderHentai](https://www.underhentai.net/) :strm::ddl:
 
 :::
@@ -77,7 +77,6 @@ og:
 - [Manhwa18](http://manhwa18.com/)
 - [Manhwa-raw](https://manhwa-raw.com/) +:fkr:
 - [ManhwaRead](https://manhwaread.com/)
-- [Manytoon](https://manytoon.com/)
 - [Oppai](https://read.oppai.stream/) ==Oppai==
 - [RawDEX](https://rawdex.net/) :fkr:
 - [Sauce Manhwa](https://saucemanhwa.org/) +:fkr:
@@ -89,14 +88,14 @@ og:
 ::: warning Despite the names, these aren't official.
 :::
 | Source | Website |
-|-|-|
-| Toomics.com | [Hotcomics](https://hotcomics.io/en) :s::fm::sub: [:alt:](https://hotcomics.me/en/) |
-| ^^          | [Heytoon](https://heytoon.net/en/) :fm::sub: |
+|--------|---------|
+| Toomics.com   | [Hotcomics](https://hotcomics.io/) :s::fm::sub: [:alt:](https://w1.hotcomics.me/) |
+| ^^            | [HeyToon](https://heytoon.net/) :fm::sub: |
 | DayComcis.com | [Webtooni](https://webtooni.net/en/) :fm::sub: ==webtooni== |
 
 ### Scanlators
 - [The Blank](https://theblank.net/) :sub:
-- [Omega scans](https://omegascans.org/) :sub:
+- [Omega Scans](https://omegascans.org/) :sub:
 
 ## Illustrations
 
