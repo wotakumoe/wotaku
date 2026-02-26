@@ -308,6 +308,7 @@ To make the cubari process easier, we have made [Kaguya](https://github.com/wota
 - [VyNovel](https://vynovel.com/)
 - [NovelFire](https://novelfire.net/home)
 - [NovelList](https://www.novellist.co/)
+- [Novels Online](https://novelsonline.org/)
 - [Novel Bin](https://novelbin.com/) [:prx:](https://rentry.org/wotaxy#novel-bin)
 - [All Novel](https://allnovel.org/)
 - [Novel Full](https://novelfull.net/)
@@ -473,6 +474,7 @@ These sites contain a mix of both actual and AI-generated novels.
 - [Tubi](https://tubitv.com/)
 
 ### YouTube
+- [Akane-banashi Global](https://www.youtube.com/@akane-banashi_global)
 - [Anime Bancho](https://www.youtube.com/@AnimeBancho)
 - [Anime Manga Official by Kodansha](https://www.youtube.com/@AnimeMangaOfficial)
 - [Ani-One Asia](https://www.youtube.com/@AniOneAsia)
