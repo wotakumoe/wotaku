@@ -505,8 +505,8 @@ All websites listed here use slow host sites to store files, unless noted otherw
 ### Anime
 - [AniBunker](https://www.anibunker.com/)
 - [AnimeFire](https://animefire.plus/)
-- [CXTv](https://www.cxtv.com.br/) `TV`
-- [Geekdot](https://geekdot.live/) `TV`
+- [CXTv](https://www.cxtv.com.br/) <Badge type="info" text="TV" />
+- [Geekdot](https://geekdot.live/) <Badge type="info" text="TV" />
 - [Goyabu](https://goyabu.to/home-2)
 - [Hinata Soul](https://www.hinatasoul.com/)
 - [HentaisTube](https://www.hentaistube.com/) :ero:
@@ -516,9 +516,10 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [GoAnime](https://github.com/alvarorichard/GoAnime) :win::cmd:
 
 ### Manga
-- [Ler Mangas](https://lermangas.me/)
 - [Argos Comic](https://argoscomics.online/) :fjp::fkr::fcn::ero:
 - [Kakusei Project](https://kakuseiproject.com/) :fjp::ero:
+- [Ler Mangas](https://lermangas.me/) :fjp::fkr::ero:
+- [Tao Sect](https://taosect.com/) :fjp::fkr::fcn::ero:
 - [Yuri.Live](https://yuri.live/) :fjp::fkr::fcn::ero:
 
 ### Tokusatsu
