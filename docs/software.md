@@ -453,7 +453,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | ^^         | [LRReader](https://github.com/Guerra24/LRReader) :win: |
 | [Plex](https://www.plex.tv/your-media/) | [MPV Shim for Plex](https://github.com/iwalton3/plex-mpv-shim) |
 | ^^         | [Plex to AniList Sync](https://github.com/RickDB/PlexAniSync) |
-| ^^         | [PlexAniBridge](https://plexanibridge.elias.eu.org/) [:src:](https://github.com/eliasbenb/PlexAniBridge) |
+| ^^         | [AniBridge](https://anibridge.eliasbenb.dev/) [:src:](https://github.com/anibridge/anibridge) |
 | Others     | [Tailscale](https://tailscale.com/) |
 
 ::: tip Mihon, Aniyomi & forks

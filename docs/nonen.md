@@ -518,7 +518,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 ### Manga
 - [Argos Comic](https://argoscomics.online/) :fjp::fkr::fcn::ero:
 - [Kakusei Project](https://kakuseiproject.com/) :fjp::ero:
-- [Ler Mangas](https://lermangas.me/) :fjp::fkr::ero:
+- [Ler Mangas](https://lermangas.me/) :fjp::fkr::fcn::ero:
 - [Tao Sect](https://taosect.com/) :fjp::fkr::fcn::ero:
 - [Yuri.Live](https://yuri.live/) :fjp::fkr::fcn::ero:
 

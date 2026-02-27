@@ -210,7 +210,6 @@ ___
 
 #### General
 - [Tobira Study Resources](https://sethclydesdale.github.io/tobira-study-resources/)
-- [Duendecat](http://duendecat.com/)
 - [Japanese Conjugation Practice](https://baileysnyder.com/jconj/)
 - [Don's Japanese Conjugation Drill](https://wkdonc.github.io/conjugation/drill.html)
 ___
