@@ -46,7 +46,6 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **frakon98** | [Kaiji - Rolling the dice](https://www.deviantart.com/frakon98/art/Kaiji-Rolling-the-dice-860584411) | Madokami link embed |
 | **藤ちょこ (Fujichoco)** | [Hatsune Miku “Magical Mirai 2020” Osaka](https://magicalmirai.com/2020/osaka/) | [Audio glossary banner](/glossary/audio#japanese-music-genres) |
 | **フカヒレ (Fukahire)** | [Hoshimachi Suisei](https://x.com/fuka_hire/status/1619998921757192195) | [Music banner](/qs#music) |
-| **Gobackgu** | [cm](https://x.com/Gobackgu/status/2022541570319511694) | Default link embed |
 | **Huu** | [Rem](https://www.pixiv.net/en/artworks/79939625) | [Music banner](/music#radio) |
 | **あきふゆはるか (Ibushi Roun)** | [Reimu vs Patchouli](https://www.pixiv.net/en/artworks/109967460) | Game link embed |
 | **幾田 (Ikuta)** | [Copy](https://x.com/ikuta41/status/1733423740644684243/) | Scanlation link embed |
@@ -69,6 +68,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Shinichi Fukuda** | [Marin Kitagawa](https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646093656) | Icon key banner |
 | **Taizo** | [The sound of the forest, the smell of paper.](https://www.pixiv.net/en/artworks/120581878) | Japan link embed |
 | **tencross** | [Ainz Ooal Gown](https://vsbattles.fandom.com/wiki/Ainz_Ooal_Gown) | [Novel banner](/websites#novels) |
+| **Text682** | [rkgk](https://www.pixiv.net/en/artworks/141606115) | Default link embed |
 | **Toei** | [Kamen Rider Imperial Demons](https://www.deviantart.com/stainrender/art/Kamen-Rider-Imperial-Demons-Render-1025700355) | [Tokusatsu banner](/websites#tokusatsu) |
 | **たくぼん (Tokubon)** | [Suichan wa~??](https://www.pixiv.net/en/artworks/82665330) | Music link embed |
 | **トパドリ (Topadori)** | [Patchouli](https://www.pixiv.net/en/artworks/95111697) | Guide default link embed |
@@ -91,6 +91,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | ^^ | [Smol Ame waving](https://x.com/PhdPigeon/status/1884043982680014972) | Favicon |
 | ^^           | [Smol Ame with Christmas hat](https://x.com/PhdPigeon/status/1869579249688231945)                  | Favicon        |
 | **Gambe**                   | [Nero Claudius](https://www.pixiv.net/en/artworks/78042247)                                        | Fate banner         |
+| **Gobackgu** | [cm](https://x.com/Gobackgu/status/2022541570319511694) | Default link embed |
 | **胡麻乃りお (Gomano Rio)** | [Mash Kyrielight](https://www.pixiv.net/en/artworks/61127636)                                      | Fate banner         |
 | **はいべぎん (greatpengh)** | [Artifical Enemy](https://www.pixiv.net/en/artworks/51789252) | Software link embed |
 | **Himeliofon**              | [Ninomae Ina’nis back](https://x.com/hmlf_/status/1581015485524545536)                             | NSFW banner         |
