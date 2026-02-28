@@ -22,8 +22,8 @@ export const contribs = {
   core: [
     {
       name: 'tasky',
-      avatar: 'https://github.com/taskyliz.png',
-      site: 'https://github.com/taskyliz'
+      avatar: 'https://github.com/taskylizard.png',
+      site: 'https://github.com/taskylizard'
     },
     {
       name: 'Duck',
