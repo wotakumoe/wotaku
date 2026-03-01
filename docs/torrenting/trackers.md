@@ -83,7 +83,7 @@ og:
 
 ### Portuguese
 
-- [Dark Animes](https://darkmahou.org/)
+- [Dark Animes](https://darkmahou.io/)
 
 ### Russian
 - [Animelayer](http://animelayer.ru/) :acc:

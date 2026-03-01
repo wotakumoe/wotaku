@@ -66,7 +66,6 @@ og:
 - [NHK Learn Japanese](https://www3.nhk.or.jp/nhkworld/en/ondemand/category/28/)
 
 ### Live TV
-- [9tsu](https://9tsu.cc/) <Badge type="info" text="VOD" />
 - [ANNnewsCH](https://www.youtube.com/@ANNnewsCH/)
 - [AQ Stream](https://aqstream.com/jp)
 - [Globe TV](https://globetv.app/)
