@@ -125,12 +125,12 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [am-dl](https://am-dl.pages.dev/) | Apple |
 | [YAMS](https://yams.tf/) :acc: | Deezer, Qobuz |
 | [ARCOD](https://www.arcod.xyz/) :acc: | Qobuz |
-| [DAB Music Player](https://dabmusic.xyz/) :acc: | Qobuz |
-| [Jumo-DL](https://jumo-dl.pages.dev/) | Qobuz |
+| [DAB Music Player](https://dabmusic.xyz/) :acc: | ^^ |
+| [Jumo-DL](https://jumo-dl.pages.dev/) | ^^ |
 | [BiniLossless](https://music.binimum.org/) | Tidal |
-| [Digger](https://digger-ui.vercel.app/) | Tidal |
-| [Monochrome](https://monochrome.tf/) | Tidal |
-| [QQDL](https://qqdl.site/) | Tidal |
+| [Digger](https://digger-ui.vercel.app/) | ^^ |
+| [Monochrome](https://monochrome.tf/) | ^^ |
+| [QQDL](https://qqdl.site/) | ^^ |
 
 ## Doujin
 
@@ -227,7 +227,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 |    ^^      | [LRCLIB](https://lrclib.net/) |
 |    ^^      | [Metadata Lookup Engine](https://seed.musichoarders.xyz/) |
 | **Tracklist** | [tagger.site](https://martinbarker.me/tagger) |
-|    ^^      | [YADG](https://yadg.cc/) |
 | **Release**  | [MusicButler](https://www.musicbutler.io/) :s: |
 |    ^^      | [ReleaseFeed](https://releasefeed.elomatreb.eu/) [:src:](https://codeberg.org/elomatreb/releasefeed) |
 | **Others**   | [Instafest](https://www.instafest.app/) |
