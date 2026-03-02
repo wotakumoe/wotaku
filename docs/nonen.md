@@ -394,7 +394,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 #### Manga
 - [Free PDF Comic](https://freepdfcomic.eu/)
 - [Gomuraw](https://gomuraw.com/top)
-- [KL Manga](https://klz9.com/) [:prx:](https://rentry.org/wotaxy#kl-manga)
+- [KL Manga](https://old.klz9.com/) [:prx:](https://rentry.org/wotaxy#kl-manga)
 - [MangaFire](https://mangafire.to/home)
 - [MangaKuro](https://mangakuro.net/home)
 - [Manga Raw (.ac)](https://mangaraw.ac/) [:prx:](https://rentry.org/wotaxy#mangarawspoil) ==mangarawspoil==

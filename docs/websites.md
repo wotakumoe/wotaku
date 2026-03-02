@@ -272,7 +272,7 @@ To make the cubari process easier, we have made [Kaguya](https://github.com/wota
 | Category      | Website |
 |--------------|----------------------------------------------------------------------------------|
 | **Aggregators** | [Madokami](https://manga.madokami.al) :s: [:help:](/guides/manga/madokami) |
-| ^^           | [Anna's Archive](https://annas-archive.li/) [:prx:](https://rentry.org/wotaslap) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" /> |
+| ^^           | [Anna's Archive](https://annas-archive.gl/) [:prx:](https://rentry.org/wotaslap) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" /> |
 | ^^           | [Desuarchive](https://desuarchive.org/) :f: <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" /> |
 | ^^           | [Library Genesis+](https://libgen.li/) [:prx:](https://rentry.org/wotaslap) |
 | ^^           | [The Manga Library](https://rentry.org/wotadirect#websites) |
@@ -337,7 +337,7 @@ These sites contain a mix of both actual and AI-generated novels.
 | ^^              | [JNovel Codex](https://jnovelcodex.web.app/index.html) |
 | ^^              | [Kureha One](http://www.vn-meido.com/k1/index.php?board=17.0) ==kureha== |
 | ^^              | [Madokami](https://manga.madokami.al) [:help:](/guides/manga/madokami) |
-| ^^              | [Anna's Archive](https://annas-archive.li/) [:prx:](https://rentry.org/wotaslap) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" /> |
+| ^^              | [Anna's Archive](https://annas-archive.gl/) [:prx:](https://rentry.org/wotaslap) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" /> |
 | ^^              | [Library Genesis+](https://libgen.li/) [:prx:](https://rentry.org/wotaslap) |
 | ^^              | [Z-Library](https://z-lib.sk/) [:prx:](https://rentry.org/wotaslap) |
 
@@ -424,7 +424,7 @@ These sites contain a mix of both actual and AI-generated novels.
 - [XOXO Comics](https://xoxocomic.com/) [:alt:](https://comichubfree.com/)
 
 ## Direct Download
-- [Anna’s Archive](https://annas-archive.li/) [:prx:](https://rentry.org/wotaslap) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
+- [Anna’s Archive](https://annas-archive.gl/) [:prx:](https://rentry.org/wotaslap) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
 - [ComicsCodes](https://comics.codes/)
 - [Desuarchive](https://desuarchive.org/) <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
 - [GetComics](https://getcomics.org/) :s:
