@@ -199,6 +199,7 @@ ___
 - [Tae Kim](https://www.youtube.com/@taekimguide)
 - [ToKini Andy](https://www.youtube.com/@ToKiniAndy)
 - [Yudai Sensei](https://www.youtube.com/@yudaisensei2020)
+- [Yuko Sensei](https://www.youtube.com/@YukoSensei)
 ___
 #### Playlists
 - [Japanese from Scratch](https://www.youtube.com/watch?v=pSvH9vH60Ig&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) <tooltip>by Cure Doly</tooltip>
@@ -274,7 +275,7 @@ ___
 
 
 ::: tip **Downloading books**
-Check out the [**Japanese Mega Learning Pack**](https://rentry.org/wotadirect#japanlanguage) and the following sites: [**Learn Japanese Online**](https://tailieuhoctiengnhat.com/), [**Nyaa**](https://nyaa.si/?c=3_3), [**Anna's Archive**](https://annas-archive.li), [**Z-Library**](https://z-lib.sk/), [**OceanofPDF**](https://oceanofpdf.com/category/languages/japanese-language-books/).
+Check out the [**Japanese Mega Learning Pack**](https://rentry.org/wotadirect#japanlanguage) and the following sites: [**Learn Japanese Online**](https://tailieuhoctiengnhat.com/), [**Nyaa**](https://nyaa.si/?c=3_3), [**Anna's Archive**](https://annas-archive.gl/), [**Z-Library**](https://z-lib.sk/), [**OceanofPDF**](https://oceanofpdf.com/category/languages/japanese-language-books/).
 :::
 
 

@@ -37,7 +37,6 @@ og:
 | Music       | [Redacted](https://redacted.sh/)                                         |
 | ^^          | [JPopsuki](https://jpopsuki.eu/)                                         |
 | ^^          | [Orpheus](https://orpheus.network/)                                      |
-| ^^          | [Sugoi Music](https://sugoimusic.me/)                                    |
 | ^^          | [Bemaniso](https://bemaniso.ws/)                                         |
 | ^^          | [Aidoru](https://aidoru-online.me/)                                      |
 | NSFW        | [ExoticaZ](https://exoticaz.to/) [:d:](https://discord.gg/GYahYNWutE)    |
