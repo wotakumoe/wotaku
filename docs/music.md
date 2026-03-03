@@ -138,7 +138,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 |-|-|-|
 | [Doujin Cafe](https://discord.gg/doujincafe) | :ddl: | :sm::smf: |
 | [Doujin Music](https://vk.com/wall-60027733) | :ddl: | :simple-icons-vk: |
-| [Doujin Style](https://doujinstyle.com/) <Badge type="tip" text="Touhou" link="https://doujinstyle.com/?p=tlmc" /> <Badge type="tip" text="Downloader" link="https://github.com/Relepega/doujinstyle-downloader"/> | :ddl: | :smf: |
+| [Doujin Style](https://doujinstyle.com/) <Badge type="tip" text="Downloader" link="https://github.com/Relepega/doujinstyle-downloader"/> | :ddl: | :smf: |
 | [MikuDB](https://mikudb.moe/) | :ddl::mag: | :sgd: |
 | [Moriya Shrine](https://moriyashrine.org/) | :mag: | - |
 
