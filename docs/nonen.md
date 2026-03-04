@@ -14,7 +14,6 @@ og:
 - [AnimeStream](https://anime.uniquestream.net/)
 - [HiAnime](https://hianime.to/home)
 - [KickassAnime](https://kickass-anime.ru/) [:prx:](https://kickassanime.cx/)
-- [Sudatchi](https://sudatchi.com/)
 
 ### Apps
 - [Mihon](https://github.com/mihonapp/mihon) [:e:](/guides/ext/mihon)

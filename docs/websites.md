@@ -34,7 +34,6 @@ ___
 | [AnimeKai](https://animekai.to/home) [:prx:](https://rentry.org/wotaxy#animekai) ==AnimeKai== | :mingcute-server-fill: | :yes: | :sync::ie::e: | :cc::hs: |
 | [KickassAnime](https://kaa.lt/) [:prx:](https://kickassanime.cx/) ==KAA== | :mingcute-server-fill: | :yes: | :e: | :cc: |
 | [HiAnime](https://hianime.to/home) ==Zoro== | :mingcute-server-fill: | :yes: | :sync::ie::e: | :cc: |
-| [Sudatchi](https://sudatchi.com/) ==Sudatchi== | :mingcute-server-fill: | :yes: | :sync: | :cc: |
 | [AniZone](https://anizone.to/) ==AniZone== | :mingcute-server-fill: | :no: | :no: | :cc: |
 
 :::details More
