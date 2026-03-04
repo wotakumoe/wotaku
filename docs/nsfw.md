@@ -72,7 +72,7 @@ og:
 - [Hentai20](https://hentai20.io/)
 - [Hiperdex](https://hiperdex.com/)
 - [Kagane](https://kagane.org/) :s: ==Kagane==
-- [Manga District](https://mangadistrict.com/)
+- [Manga District](https://mangadistrict.com/) ==MangaDistrict==
 - [Manhwa18](http://manhwa18.com/)
 - [Manhwa-raw](https://manhwa-raw.com/) +:fkr:
 - [ManhwaRead](https://manhwaread.com/)
