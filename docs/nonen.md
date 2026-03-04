@@ -42,7 +42,6 @@ og:
 - [Arabs Hentai](https://arabshentai.com/)
 - [Hentai Time](https://hentai-time.com/)
 - [NXX Hentai](https://nxxhentai.net/)
-- [RistoHentai](https://ristohentai.com/)
 - [Saudi Hentai](https://saudihentai.com/)
 
 ### Software
@@ -333,7 +332,6 @@ og:
   - [SKUY](https://skuy.co.id/) :acc:
 - **DDL**
   - [Kusonime](https://kusonime.com/)
-  - [Meownime](https://midori.meownime.io/)
 
 ### Manga
 - [Komiku](https://komiku.id/)
@@ -453,8 +451,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 | Group | Website | Type |
 |-|-|-|
-| [KORSITE](https://korsite.net/) | [TOONKOR](https://tkor013.com/%EC%9B%B9%ED%88%B0) | Manhwa :ero: |
-| ^^                              | [Funbe](https://funbe603.com/%EC%9B%B9%ED%88%B0)  | ^^ |
+| [KORSITE](https://korsite.net/) | [Funbe](https://funbe603.com/%EC%9B%B9%ED%88%B0) | Manhwa :ero: |
 | ^^                              | [Annie24](https://ohli24.net/) [:prx:](https://rentry.org/wotaxy#annie24)   | Anime  |
 | Toki | [NEWTOKI](https://newtoki468.com/) | Manhwa :ero: |
 | ^^                                      | [Manatoki](https://manatoki468.net/) | Manga :ero: |
@@ -701,7 +698,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 ### Anime
 - [Ani4u](https://ani4u.org/)
-- [Anime47](https://anime47.shop/)
+- [Anime47](https://anime47.best/)
 - [AnimeHay](https://animehay.in/)
 - [AnimeVsub](https://animevsub.eu.org/) [:src:](https://github.com/anime-vsub/desktop-web)
 - [HHNINJA](hhninja14) [:prx:](https://hhtq1.xyz/)
