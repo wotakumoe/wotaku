@@ -237,7 +237,7 @@ ___
 <br>
 
 ## Anime & Manga
-| Category  | Websites | Tracker |  
+| Category  | Websites | Service(s) |  
 |-----------|----------|---------|  
 | **General** | [3x3 Generator](https://gqgs.github.io/3x3-generator/) [:src:](https://github.com/gqgs/3x3-generator/) | :mal::al::k: |  
 | ^^        | [Anime Bingo](https://anime-bingo.aikats.us/) [:src:](https://github.com/walfie/anime-bingo) | :al: |  
@@ -254,6 +254,15 @@ ___
 | ^^        | [iTunes Artwork Finder](https://bendodson.com/projects/itunes-artwork-finder/) | - |
 | ^^        | [Mihon Local Source JSON Generator](https://local.mihon.tools/) | - |
 | ^^        | [Tachibk Viewer](https://backup.mihon.tools/) [:src:](https://github.com/Animeboynz/Mihon-Backup-Viewer) | - |
+| **Manga Covers** | [Big Book Covers](https://covers.roler.dev/) :s: [:src:](https://github.com/rRoler/bbc-frontend) | General |
+| ^^        | [Ermitteln](https://ermitteln.ihateani.me/) [:src:](https://github.com/noaione/cmx-ermitteln) | Comixology |  
+| ^^        | [iTunes Artwork Finder](https://bendodson.com/projects/itunes-artwork-finder/) | Apple Books |
+
+::: details Related resources {open}
+- [Image Max URL](https://github.com/qsniyg/maxurl) :js::ff::cr:
+- [Image Picka](https://github.com/eight04/image-picka) :ff::cr:
+- [rRoler Bookmarklets](https://bookmarklets.roler.dev/) :js:
+:::
 
 ## Image
 | Category    | Websites |
