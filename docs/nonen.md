@@ -42,6 +42,7 @@ og:
 - [Arabs Hentai](https://arabshentai.com/)
 - [Hentai Time](https://hentai-time.com/)
 - [NXX Hentai](https://nxxhentai.net/)
+- [Risto Hentai](https://ristohentai.com/)
 - [Saudi Hentai](https://saudihentai.com/)
 
 ### Software
@@ -332,6 +333,7 @@ og:
   - [SKUY](https://skuy.co.id/) :acc:
 - **DDL**
   - [Kusonime](https://kusonime.com/)
+  - [Meownime](https://midori.meownime.io/)
 
 ### Manga
 - [Komiku](https://komiku.id/)
