@@ -239,7 +239,6 @@ og:
 - [Anime Archive](https://anime-archive.com/) :ddl:
 - [Anime Loads](https://www.anime-loads.org/) :strm::ddl::host:
 - [AniWorld](https://aniworld.to/) :strm:
-- [FireAnime](https://fireani.me/) :strm:
 - [Melon-Subs](https://melon-subs.de/) :ddl:
 - [NanaOne](https://nanaone.net/) :ddl:
 - [OtakuKingdom Subs](http://www.otakukingdom-subs.de/) :ddl:
@@ -505,7 +504,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [AnimeFire](https://animefire.plus/)
 - [CXTv](https://www.cxtv.com.br/) <Badge type="info" text="TV" />
 - [Geekdot](https://geekdot.live/) <Badge type="info" text="TV" />
-- [Goyabu](https://goyabu.to/home-2)
+- [Goyabu](https://goyabu.io/inicio-2)
 - [Hinata Soul](https://www.hinatasoul.com/)
 - [HentaisTube](https://www.hentaistube.com/) :ero:
 - [:tg: Toonami na Era do Telegram](https://t.me/toonamibr)
