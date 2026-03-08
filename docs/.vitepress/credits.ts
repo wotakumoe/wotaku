@@ -45,7 +45,7 @@ export const contribs = {
     {
       name: 'DenpaEater',
       site: 'https://x.com/shibayanfanclub',
-      avatar: '/pfp/denpa.jpg'
+      avatar: 'https://pbs.twimg.com/profile_images/1704978770069794816/xVTPlA83_400x400.png'
     },
     {
       avatar: '/pfp/green.webp',
@@ -100,7 +100,7 @@ export const contribs = {
     {
       name: 'Kobayashi',
       avatar: 'https://github.com/kobayashi90.png',
-      site: 'https://www.ryuko.space/'
+      site: 'https://github.com/kobayashi90'
     },
     {
       name: 'TubaApollo',

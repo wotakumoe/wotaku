@@ -240,6 +240,7 @@ og:
 - [Anime Archive](https://anime-archive.com/) :ddl:
 - [Anime Loads](https://www.anime-loads.org/) :strm::ddl::host:
 - [AniWorld](https://aniworld.to/) :strm:
+- [FireAnime](https://fireani.me/) :strm:
 - [Melon-Subs](https://melon-subs.de/) :ddl:
 - [NanaOne](https://nanaone.net/) :ddl:
 - [OtakuKingdom Subs](http://www.otakukingdom-subs.de/) :ddl:

@@ -25,7 +25,7 @@ og:
 | ----------- | ------------------------------------------------------------------------ |
 | General     | [AnimeBytes](https://animebytes.tv/)                                     |
 | ^^          | [BakaBT](https://bakabt.me/)                                             |
-| Anime       | [AnimeZ](https://animetorrents.me/) [:d:](https://discord.gg/GYahYNWutE) |
+| Anime       | [AnimeZ](https://animez.to/) [:d:](https://discord.gg/GYahYNWutE)        |
 | ^^          | [FearNoPeer](https://fearnopeer.com/)                                    |
 | ^^          | [Oldtoons](https://oldtoons.world/)                                      |
 | ^^          | [U2](https://u2.dmhy.org/portal.php)                                     |
