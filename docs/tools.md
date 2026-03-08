@@ -296,14 +296,6 @@ og:
 - [TeraCopy](https://www.codesector.com/teracopy) :win::app::cs:
 
 
-## Piracy Sites
-- [RuTracker.org](https://rutracker.org/forum/index.php) :s:
-- [Soft98](https://soft98.ir/)
-- [Nsane Forums](https://nsaneforums.com/)
-- [LRepacks](https://lrepacks.net/)
-- [Game Bounty](https://gamebounty.world/)
-
-
 ![](/banner/ext.webp)
 
 # Extensions
