@@ -119,9 +119,10 @@ og:
 - [Baozimh.org](https://baozimh.org/)
 - [Colamanga](https://www.colamanga.com/)
 - [Copymanga](https://www.copy20.com/) [:alt:](https://www.2025copy.com/) :ero:
-- [Komiic](https://komiic.com/)
+- [Komiic](https://komiic.com/) :ero:
 - [Manga Reader](https://1zumii.github.io/manga-reader/#/) [:src:](https://github.com/1zumii/manga-reader)
 - [Manhua Gui](https://www.manhuagui.com/)
+- [Rouman](https://rouman5.com/home) :ero:
 - [TVBS Comics](https://www.tvbsmh.com/)
 - [XManhua](https://xmanhua.com/)
 
