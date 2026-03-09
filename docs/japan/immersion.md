@@ -70,7 +70,6 @@ og:
 - [AQ Stream](https://aqstream.com/jp)
 - [Globe TV](https://globetv.app/)
 - [IPTV-Org](https://iptv-org.github.io/) [:src:](https://github.com/iptv-org/iptv) <Badge type="info" icon="i-material-symbols-download-2" text="JP" link="https://iptv-org.github.io/iptv/countries/jp.m3u" /> <Badge type="info" icon="i-material-symbols-download-2" text="JPN" link="https://iptv-org.github.io/iptv/languages/jpn.m3u" />
-- [Japanese TV](https://mov3.co/)
 - [Search TV](https://searchtv.net/)
 - [takelab](https://github.com/take2560/takelab)
 - [TVer](https://tver.jp/) <tooltip>Needs JP VPN by default, but you can stream without it if you copy-paste the video URL in a video player (e.g. MPV).</tooltip>
@@ -103,7 +102,7 @@ og:
 ## Manga
 
 - [Bilingual Manga](https://bilingualmanga.org/) :s: <Badge type="tip" text="Backup" link="https://github.com/B-M-dev/Bilingual_Manga-home-" />
-- [Mokuro Catalog](https://mokuro.moe/) [:alt:](https://catalog.mokuro.moe/) <Badge type="tip" text="Nyaa" link="https://nyaa.si/view/1883088" />
+- [Mokuro Catalog](https://mokuro.moe/catalog/) <Badge type="tip" text="Nyaa" link="https://rentry.org/wotadirect#japansoftware" />
 
 ::: info Raw section has been moved
 To remove clutter and dupe links, raw manga websites have been move to [**Non-English**](/nonen#japanese). Only OCR-ed manga or those specifically uploaded for learning japanese will stay here.

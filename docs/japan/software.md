@@ -164,8 +164,8 @@ ___
 - [Mokuro](https://github.com/kha-white/mokuro) :win::app::lin:
   - [ZXY101's fork](https://github.com/ZXY101/mokuro-reader)
   - [KojoZero's fork](https://github.com/KojoZero/mokuro-reader)
-  - [Mokuro Catalog](https://mokuro.moe/) [:alt:](https://catalog.mokuro.moe/)
-  - [Mokuro.moe Full Manga Catalog [2024-10-09]](https://rentry.org/wotadirect)
+  - [Mokuro Catalog](https://mokuro.moe/catalog/)
+  - [Mokuro.moe Full Manga Catalog [2024-10-09]](https://rentry.org/wotadirect#japansoftware)
 - [ttsu Ebook Reader](https://reader.ttsu.app/) :web: [:src:](https://github.com/ttu-ttu/ebook-reader) 
 
 
