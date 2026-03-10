@@ -211,7 +211,6 @@ og:
 - [Sekai](https://sekai.one/)
 - [Streaming-integrale](https://streaming-integrale.com/)
 - [Voiranime](https://v6.voiranime.com/) <Badge type="tip" text="Extension" link="https://github.com/Dastan21/BetterVoirAnime" />
-- [Vostfree](https://vostfree.ws/)
 
 #### Software
 - [Kibo](https://www.kiboanime.app/) :win::and::app::lin:
@@ -313,7 +312,6 @@ og:
   - [Puretoons](https://puretoons.in/)
   - [SDToons](https://sdtoons.com/) :ero:
   - [Toonhub4u](https://toonhub4u.co/home/)
-  - [ToonsHub](https://www.toonshub.xyz/)
   - [Toonworld4all](https://toonworld4all.me/)
 
 
