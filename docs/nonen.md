@@ -518,7 +518,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [Kakusei Project](https://kakuseiproject.com/) :fjp::ero:
 - [Ler Mangas](https://lermangas.me/) :fjp::fkr::fcn::ero:
 - [Tao Sect](https://taosect.com/) :fjp::fkr::fcn::ero:
-- [Yuri.Live](https://yuri.live/) :fjp::fkr::fcn::ero:
+- [Yuri on Air](https://yurionair.top/) :fjp::fkr::fcn::ero:
 
 ### Tokusatsu
 - [DGB Catálogo](https://dgbfansub.carrd.co/)

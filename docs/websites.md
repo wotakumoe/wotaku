@@ -71,10 +71,10 @@ ___
 
 ::: details Donghua
 - [Animekhor](https://animekhor.org/) [:tg:](https://t.me/AnimeKhorOfficial)
-- [Anoboye](https://anoboye.com/) [:d:](https://discord.gg/RsTrWFtShB)
-- [AnimeXin](https://animexin.dev/) [:d:](https://discord.com/invite/9sGpnnzM)
-- [Chiki Animation](https://chikianimation.org/) <Badge type="info" text="2D" /> [:tg:](https://t.me/Donghuanewofficial)
-- [Chiki Animation](https://chikianimations.xyz/) <Badge type="info" text="3D" /> [:tg:](https://t.me/Dimensional_Animation)
+- [Anoboye](https://anoboye.com/) [:d:](https://discord.gg/rzqrzCZGgY)
+- [AnimeXin](https://animexin.dev/)
+- [Chiki Animation 2D](https://chikianimation.com/) [:tg:](https://t.me/Donghuanewofficial)
+- [Chiki Animation 3D](https://chikianimation.online/) [:tg:](https://t.me/Dimensional_Animation)
 - [Crimson Subs](https://crimsonfansubs.com/) [:d:](https://discord.com/invite/JMn7Y8qv)
 - [Donghua Stream](https://donghuastream.org/) [:d:](https://discord.gg/4zrUguAakG) [:tg:](https://telegram.me/DonghuaStream_com)
 - [Dongsub](https://www.dongsub.net/) [:tg:](https://t.me/dongsub)

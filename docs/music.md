@@ -190,7 +190,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [Listen.moe](https://listen.moe/) | [Vorbis 128](https://listen.moe/m3u8/jpop.m3u) | :flag-united-kingdom: |
 | [R/a/dio](https://r-a-d.io/) | [MP3 192](https://r-a-d.io/assets/main.mp3.m3u) | :flag-united-kingdom: |
 | [Yggdrasil Radio](https://yggdrasilradio.com/) | [MP3 128](https://yggdrasilradio.com/yggdrasilradio_mp3_128kbps.pls) | :flag-united-kingdom: |
-| [AnimeRadio.de](https://www.animeradio.de/) | [MP3 192](https://www.animeradio.de/streams/animeradio.mp3.m3u) | :flag-germany: |
+| [AnimeRadio.de](https://www.animeradio.de/) | [MP3 192](https://www.animeradio.de/streams/hd.m3u) | :flag-germany: |
 | [Japanradio.de](https://japanradio.de/) | [MP3 192](https://japanradio.de/player/japanradio.m3u) | :flag-germany: |
 | [Kibo.FM](https://kibo.fm/) | [MP3 192](https://kibo.fm/kibo.m3u) | :flag-germany: |
 | [Radio Anime24](https://www.radioanime24.pl/) | [MP3 320](https://www.radioanime24.pl/Radio-Anime24.pls) | :flag-poland: |
