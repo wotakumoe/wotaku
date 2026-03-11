@@ -98,8 +98,8 @@ Original: ~~Blurry downscales for anything that would be above that on other pla
 These websites focus on Manhwa, Manhua and OEL.
 
 | Platform                                         | Resolution { class="compact" } |  SFW |
-|--------------------------------------------------|----------------------------------|----- |
-| [Day Comics](https://daycomics.com/) <sup>1</sup> | 720x                       | :no: |
+|--------------------------------------------------|--------------------------------|----- |
+| [Toptoon](https://global.toptoon.com/) <sup>1</sup> | 720x                       | :no: |
 | [INKR](https://comics.inkr.com/)                  | Varies<sup>2</sup> |  :no: |
 | [Lezhin](https://www.lezhinus.com/en)            | 1280x <sup>3</sup>              | :no: |
 | [Line Webtoon](https://www.webtoons.com/en/)     | 720-800x                        | :yes:|
