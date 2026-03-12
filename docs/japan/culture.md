@@ -126,8 +126,9 @@ og:
 
 ### Vlogs
 - [Abroad in Japan](https://www.youtube.com/@AbroadinJapan) :s:
+- [AsamaPOV](https://www.youtube.com/@Asamalifez)
 - [Ask Japanese](https://www.youtube.com/@AskJapanese)
-- [Emirichu](https://www.youtube.com/@Emirichu)
+- [Emirichu](https://www.youtube.com/@Emirichu) :s:
 - [Japanalysis](https://www.youtube.com/@Japanalysis) :s:
 - [Japan Eat](https://www.youtube.com/@japaneat) <Badge type="info" text="Map" link="https://japaneat.com/pages/map" />
 - [Let's ask Shogo](https://www.youtube.com/@LetsaskShogo)
