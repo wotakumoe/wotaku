@@ -212,6 +212,7 @@ og:
 - [Sekai](https://sekai.one/)
 - [Streaming-integrale](https://streaming-integrale.com/)
 - [Voiranime](https://v6.voiranime.com/) <Badge type="tip" text="Extension" link="https://github.com/Dastan21/BetterVoirAnime" />
+- [Vostfree](https://vostfree.ws/)
 
 #### Software
 - [Kibo](https://www.kiboanime.app/) :win::and::app::lin:
@@ -489,7 +490,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [Frixy Subs](https://frixysubs.pl/)
 - [Grupa Mirai](https://www.grupa-mirai.pl/)
 - [Lycoris](https://www.lycoris.cafe/)
-- [NanaSubs](https://nanasubs.com/)
+- [NanaSubs](https://nanasubs.com.pl/)
 - [Oglądaj Anime](https://ogladajanime.pl/)
 - [Shinden](https://shinden.pl/main) <Badge type="info" text="Client" link="https://github.com/KlapChat-Entertainment/shinden-client" />
 
