@@ -41,7 +41,6 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [GJM - Subtitling Hub](https://discord.gg/0jeKKhzGn3EBNDI2)
 
 ### H-O
-- [HiAnime](https://discord.gg/hianime)
 - [J-Novel Club](https://discord.gg/WmRnnFvfS3)
 - [Japanese Language Study Space](https://discord.gg/jlss)
 - [Kagane](https://discord.gg/kBPYVSzwUE)

@@ -12,7 +12,6 @@ og:
 ### Anime
 - [Anime Nexus](https://anime.nexus/)
 - [AnimeStream](https://anime.uniquestream.net/)
-- [HiAnime](https://hianime.to/home)
 - [KickassAnime](https://kickass-anime.ru/) [:prx:](https://kickassanime.cx/)
 - [ToonsHub](https://www.toonshub.my.id/) :mag:
 
