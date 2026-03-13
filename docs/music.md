@@ -225,6 +225,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 |    ^^      | [LRCLIB](https://lrclib.net/) |
 |    ^^      | [Metadata Lookup Engine](https://seed.musichoarders.xyz/) |
 | **Tracklist** | [tagger.site](https://martinbarker.me/tagger) |
+|    ^^      | [YADG](https://yadg.cc/) [:src:](https://gitlab.com/Slack06/yadg) |
 | **Release**  | [MusicButler](https://www.musicbutler.io/) :s: |
 |    ^^      | [ReleaseFeed](https://releasefeed.elomatreb.eu/) [:src:](https://codeberg.org/elomatreb/releasefeed) |
 | **Others**   | [Instafest](https://www.instafest.app/) |

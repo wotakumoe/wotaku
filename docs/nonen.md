@@ -295,6 +295,8 @@ og:
 ### Anime
 
 - **Stream**
+  - [PirateXPlay](https://piratexplay.cc/home)
+  - [ToonStream](https://toonstream.love/)
   - [AllWish](https://all-wish.me/home)
   - [Aniflix](https://aniflix.uno/)
   - [AnimeLok](https://animelok.site/home)
@@ -303,8 +305,6 @@ og:
   - [Anime World India](https://watchanimeworld.in/)
   - [Desi Dub Anime](https://www.desidubanime.me/)
   - [Dora Bash](https://dorabash.in/)
-  - [PirateXPlay](https://piratexplay.cc/home)
-  - [ToonStream](https://toonstream.love/)
 - **DDL**
   - [AnimeVilla](https://animevilla.in/) :ero:
   - [ATOZ CARTOONIST](https://www.atozcartoonist.com/)
