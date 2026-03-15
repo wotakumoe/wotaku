@@ -369,7 +369,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^         | [Soundbound](https://soundbound.app/) :and::cs: |
 | **YouTube** | [Harmony Music](https://github.com/anandnet/Harmony-Music) :and: |
 | ^^         | [Innertune](https://github.com/z-huang/InnerTune) :and: |
-| ^^         | [Metrolist](https://github.com/mostafaalagamy/metrolist) :and: |
+| ^^         | [Metrolist](https://metrolist.meowery.eu/) [:src:](https://github.com/mostafaalagamy/metrolist) :and: |
 | ^^         | [RiMusic](https://github.com/fast4x/RiMusic) :and: |
 | ^^         | [SimpMusic](https://github.com/maxrave-dev/SimpMusic) :and: |
 | **Spotify** | [EeveeSpotify](https://github.com/Meeep1/EeveeSpotifyRevivedPublic) :app: |

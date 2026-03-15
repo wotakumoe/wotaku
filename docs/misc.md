@@ -238,13 +238,11 @@ ___
 
 ## Anime & Manga
 | Category  | Websites | Service(s) |  
-|-----------|----------|---------|  
-| **General** | [3x3 Generator](https://gqgs.github.io/3x3-generator/) [:src:](https://github.com/gqgs/3x3-generator/) | :mal::al::k: |  
-| ^^        | [Anime Bingo](https://anime-bingo.aikats.us/) [:src:](https://github.com/walfie/anime-bingo) | :al: |  
+|-----------|----------|------------|  
+| **General** | [Anime Bingo](https://anime-bingo.aikats.us/) [:src:](https://github.com/walfie/anime-bingo) | :al: |  
 | ^^        | [due.moe](https://due.moe/) | :al: |  
 | ^^        | [GomiTier](https://www.gomitier.tech/) | :mal::al: |
-| ^^        | [Related Anime](https://relatedanime.com/) | :mal: |  
-| ^^        | [Topsters](https://topsters.org/) | :simple-icons-themoviedatabase::simple-icons-lastdotfm::simple-icons-igdb::simple-icons-internetarchive: |
+| ^^        | [Related Anime](https://relatedanime.com/) | :mal: |
 | **Anime** | [Animerank](https://animerank.top/) | :mal: |
 | ^^        | [Manga Adaptations](https://anilist-adaptations.timschneeberger.me/) [:src:](https://github.com/timschneeb/manga-adaptations-anilist) | :al: |  
 | ^^        | [MyDubList](https://mydublist.com/) [:src:](https://github.com/Joelis57/MyDubList) | - |
@@ -252,7 +250,7 @@ ___
 | ^^        | [Spin.moe](https://spin.moe/) | :mal::al::k: |  
 | **Manga** | [Ermitteln](https://ermitteln.ihateani.me/) [:src:](https://github.com/noaione/cmx-ermitteln) | - |  
 | ^^        | [iTunes Artwork Finder](https://bendodson.com/projects/itunes-artwork-finder/) | - |
-| ^^        | [Mihon Local Source JSON Generator](https://local.mihon.tools/) | - |
+| ^^        | [Mihon Local Source JSON Generator](https://mihonlocal.netlify.app/) | - |
 | ^^        | [Tachibk Viewer](https://backup.mihon.tools/) [:src:](https://github.com/Animeboynz/Mihon-Backup-Viewer) | - |
 | **Manga Covers** | [Big Book Covers](https://covers.roler.dev/) :s: [:src:](https://github.com/rRoler/bbc-frontend) | General |
 | ^^        | [Ermitteln](https://ermitteln.ihateani.me/) [:src:](https://github.com/noaione/cmx-ermitteln) | Comixology |  
@@ -310,6 +308,14 @@ ___
 
 ## Fun sites
 
+### 3x3
+| Category  | Websites | Service(s) |  
+|-----------|----------|------------|  
+| **General** | [3x3 Generator](https://gqgs.github.io/3x3-generator/) [:src:](https://github.com/gqgs/3x3-generator/) | :mal::al::k: |
+| ^^        | [Topsters](https://topsters.org/) | :simple-icons-themoviedatabase::simple-icons-lastdotfm::simple-icons-igdb::simple-icons-internetarchive: |
+| **Games** | [My 9 Games](https://my9games.com/) | :simple-icons-igdb: |
+| **Music** | [My Top 9 Otaku Songs](https://otaku-song.pages.dev/) :jp: | :app: |
+
 ### Quiz
 | Category  | Website |
 |-----------|---------|
@@ -322,7 +328,6 @@ ___
 | Scene     | [AnimeGuess](https://www.animeguess.moe/) |
 | Others    | [Animerdle](https://www.animerdle.com/) |
 | ^^        | [Rule34dle](https://rule34dle.vercel.app/) |
-
 
 ### Others
 - [AIDN](https://aidn.jp/contents/)
