@@ -45,118 +45,102 @@ const emojis: { pack: IconifyJSON; prefix?: string }[] = [
   { pack: iconoir, prefix: 'iconoir-' }
 ]
 
-// Add aliases here...
-const aliases: Record<string, string> = {
+// Add aliases here: [icon, label?]
+// Label is optional — omit for icons that don't need a tooltip.
+const aliasDefs: Record<string, [string, string?]> = {
   // System
-  and: 'simple-icons-android',
-  ios: 'simple-icons-apple',
-  win: 'simple-icons-windows',
-  app: 'ri-finder-fill',
-  lin: 'simple-icons-linux',
-  bsd: 'simple-icons-freebsd',
-  cmd: 'material-symbols-terminal-rounded',
-  ff: 'simple-icons-firefoxbrowser',
-  cr: 'simple-icons-googlechrome',
-  web: 'mdi-web',
+  and: ['simple-icons-android', 'Android'],
+  ios: ['simple-icons-apple', 'iOS / iPadOS'],
+  win: ['simple-icons-windows', 'Windows'],
+  app: ['ri-finder-fill', 'MacOS'],
+  lin: ['simple-icons-linux', 'Linux'],
+  bsd: ['simple-icons-freebsd', 'BSD'],
+  cmd: ['material-symbols-terminal-rounded', 'CLI / TUI'],
+  ff: ['simple-icons-firefoxbrowser', 'Firefox'],
+  cr: ['simple-icons-googlechrome', 'Chromium'],
+  web: ['mdi-web', 'Web'],
 
   // Type
-  strm: 'material-symbols-play-circle-outline',
-  ddl: 'material-symbols-cloud-download-outline-rounded',
-  mag: 'lucide-magnet',
-  lcl: 'iconoir-floppy-disk',
-  batch: 'material-symbols-package-2-outline',
-  sp: `lucide-file`,
-  dp: `lucide-book-open`,
-  ls: `lucide-scroll`,
+  strm: ['material-symbols-play-circle-outline', 'Stream'],
+  ddl: ['material-symbols-cloud-download-outline-rounded', 'Online / DDL'],
+  mag: ['lucide-magnet', 'Torrent / p2p'],
+  lcl: ['iconoir-floppy-disk', 'Local file'],
+  batch: ['material-symbols-package-2-outline', 'Batch Download'],
+  sp: ['lucide-file', 'Single Page Mode'],
+  dp: ['lucide-book-open', 'Double Page Mode'],
+  ls: ['lucide-scroll', 'Long-Strip Mode'],
 
   // Tracking
-  sync: `material-symbols-sync`,
-  ie: `material-symbols-arrows-up-down-circle-outline-rounded`,
+  sync: ['material-symbols-sync', 'Sync'],
+  ie: ['material-symbols-arrows-up-down-circle-outline-rounded', 'Import / Export'],
 
   // Price
-  paid: 'ic-round-attach-money',
-  fm: 'ic-round-add-shopping-cart',
-  free: 'ic-round-money-off-csred',
-  sub: 'ic-round-currency-exchange',
-  coin: 'akar-icons-coin',
+  paid: ['ic-round-attach-money', 'Paid'],
+  fm: ['ic-round-add-shopping-cart', 'Freemium'],
+  free: ['ic-round-money-off-csred', 'Has free content'],
+  sub: ['ic-round-currency-exchange', 'Subscription'],
+  coin: ['akar-icons-coin', 'Coin / Point'],
 
   // Source
-  src: 'mdi-package-variant',
-  cs: 'mdi-package-variant-closed-remove',
+  src: ['mdi-package-variant', 'Source Code'],
+  cs: ['mdi-package-variant-closed-remove', 'Closed Source'],
 
   // Platform
-  d: 'simple-icons-discord',
-  f: 'simple-icons-4chan',
-  x: 'simple-icons-twitter',
-  tg: 'simple-icons-telegram',
-  mal: 'simple-icons-myanimelist',
-  al: 'simple-icons-anilist',
-  k: 'simple-icons-kitsu',
-  simkl: 'simple-icons-simkl',
+  d: ['simple-icons-discord', 'Discord'],
+  f: ['simple-icons-4chan', '4chan'],
+  x: ['simple-icons-twitter', 'Twitter'],
+  tg: ['simple-icons-telegram', 'Telegram'],
+  mal: ['simple-icons-myanimelist', 'MyAnimeList'],
+  al: ['simple-icons-anilist', 'AniList'],
+  k: ['simple-icons-kitsu', 'Kitsu'],
+  simkl: ['simple-icons-simkl', 'Simkl'],
 
   // Storage
-  sgd: 'simple-icons-googledrive',
-  sm: 'simple-icons-mega',
-  smf: 'simple-icons-mediafire',
-  host: 'mdi-snail',
+  sgd: ['simple-icons-googledrive', 'Google Drive'],
+  sm: ['simple-icons-mega', 'MEGA'],
+  smf: ['simple-icons-mediafire', 'MediaFire'],
+  host: ['mdi-snail', 'Other Host'],
 
-  // Flag
-  fjp: 'twemoji-flag-japan',
-  fkr: 'twemoji-flag-south-korea',
-  fcn: 'twemoji-flag-china',
+  // Region
+  fjp: ['twemoji-flag-japan', 'Japan'],
+  fkr: ['twemoji-flag-south-korea', 'Korea'],
+  fcn: ['twemoji-flag-china', 'China'],
 
   // Code
-  py: 'simple-icons-python',
-  js: 'simple-icons-javascript',
-  css: 'mdi-language-css3',
-  dock: 'simple-icons-docker',
+  py: ['simple-icons-python', 'Python'],
+  js: ['simple-icons-javascript', 'JavaScript'],
+  css: ['mdi-language-css3', 'CSS'],
+  dock: ['simple-icons-docker', 'Docker'],
 
   // Others
-  s: 'twemoji-glowing-star',
-  e: 'mdi-puzzle',
-  n: 'material-symbols-science',
-  alt: 'ic-round-looks-two',
-  ero: 'twemoji-no-one-under-eighteen',
-  acc: 'material-symbols-person-add',
-  rss: 'simple-icons-rss',
-  prx: 'material-symbols-directions-alt',
-  tf: 'mdi-airplane',
-  more: 'mdi-arrow-right-bold',
-  help: 'material-symbols-help',
-  yes: 'twemoji-check-mark-button',
-  no: 'twemoji-cross-mark',
-  global: 'twemoji-globe-showing-asia-australia',
-  up: 'material-symbols-upload',
-  ms: 'material-symbols-file-copy-rounded',
-  ps: 'material-symbols-file-copy-outline-rounded',
-  ss: 'material-symbols-file-copy-off-rounded',
-  cc: 'mdi-closed-caption',
-  hs: 'mdi-hulu'
+  s: ['twemoji-glowing-star', 'Favorite'],
+  e: ['mdi-puzzle', 'Extension / Plugin'],
+  n: ['material-symbols-science', 'Nightly build'],
+  alt: ['ic-round-looks-two', 'Alternative'],
+  ero: ['twemoji-no-one-under-eighteen', 'R18'],
+  acc: ['material-symbols-person-add', 'Needs account'],
+  rss: ['simple-icons-rss', 'RSS Feed'],
+  prx: ['material-symbols-directions-alt', 'Proxies'],
+  tf: ['mdi-airplane', 'Testflight'],
+  more: ['mdi-arrow-right-bold', 'Related'],
+  help: ['material-symbols-help', 'Help / Docs'],
+  yes: ['twemoji-check-mark-button', 'Yes / Available'],
+  no: ['twemoji-cross-mark', 'No / Unavailable'],
+  global: ['twemoji-globe-showing-asia-australia', 'Global'],
+  up: ['material-symbols-upload', 'Self Upload'],
+  ms: ['material-symbols-file-copy-rounded', 'Multi Source'],
+  ps: ['material-symbols-file-copy-outline-rounded'],
+  ss: ['material-symbols-file-copy-off-rounded'],
+  cc: ['mdi-closed-caption', 'Soft Subtitle / CC'],
+  hs: ['mdi-hulu', 'Hardsubs']
 }
 
-// Tooltip labels for icon aliases (desktop hover)
-const aliasLabels: Record<string, string> = {
-  s: 'Favorite', src: 'Source Code', cs: 'Closed Source',
-  e: 'Extension / Plugin', prx: 'Proxies', ero: 'R18',
-  acc: 'Needs account', help: 'Help / Docs', more: 'Related',
-  and: 'Android', ios: 'iOS / iPadOS', app: 'MacOS',
-  win: 'Windows', lin: 'Linux', bsd: 'BSD',
-  cmd: 'CLI / TUI', ff: 'Firefox', cr: 'Chromium', web: 'Web',
-  strm: 'Stream', ddl: 'Online / DDL', mag: 'Torrent / p2p',
-  lcl: 'Local file', batch: 'Batch Download',
-  sp: 'Single Page Mode', dp: 'Double Page Mode', ls: 'Long-Strip Mode',
-  paid: 'Paid', sub: 'Subscription', free: 'Has free content',
-  coin: 'Coin / Point', fm: 'Freemium',
-  d: 'Discord', f: '4chan', x: 'Twitter', tg: 'Telegram',
-  mal: 'MyAnimeList', al: 'AniList', k: 'Kitsu', simkl: 'Simkl',
-  sgd: 'Google Drive', sm: 'MEGA', smf: 'MediaFire', host: 'Other Host',
-  fjp: 'Japan', fkr: 'Korea', fcn: 'China',
-  js: 'JavaScript', css: 'CSS', py: 'Python', dock: 'Docker',
-  n: 'Nightly build', alt: 'Alternative', rss: 'RSS Feed', tf: 'Testflight',
-  yes: 'Yes / Available', no: 'No / Unavailable',
-  global: 'Global', cc: 'Subtitles / CC', hs: 'Hardsubs',
-  up: 'More Info', ms: 'Feedback',
-  sync: 'Sync', ie: 'Import / Export'
+// Derived maps from aliasDefs
+const aliases: Record<string, string> = {}
+const aliasLabels: Record<string, string> = {}
+for (const [key, [icon, label]] of Object.entries(aliasDefs)) {
+  aliases[key] = icon
+  if (label) aliasLabels[key] = label
 }
 
 // Custom icons using UnoCSS inline collection
