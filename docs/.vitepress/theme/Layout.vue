@@ -186,6 +186,21 @@ onMounted(() => {
     }
   })
 
+  const pxPerFrame = 18
+  let scrollDirection = 0
+  let scrollRaf = 0
+
+  function tickScroll() {
+    if (!scrollDirection) return
+    activeScrollTarget.scrollBy({ top: scrollDirection * pxPerFrame })
+    scrollRaf = requestAnimationFrame(tickScroll)
+  }
+
+  function stopScroll() {
+    scrollDirection = 0
+    cancelAnimationFrame(scrollRaf)
+  }
+
   useEventListener(document, 'keydown', (e: KeyboardEvent) => {
     if (e.key !== 'ArrowDown' && e.key !== 'ArrowUp' && e.key !== 'Escape') return
 
@@ -195,8 +210,18 @@ onMounted(() => {
     }
 
     e.preventDefault()
-    activeScrollTarget.scrollBy({ top: e.key === 'ArrowDown' ? 60 : -60, behavior: 'smooth' })
+    const dir = e.key === 'ArrowDown' ? 1 : -1
+    if (scrollDirection === dir) return
+    scrollDirection = dir
+    cancelAnimationFrame(scrollRaf)
+    scrollRaf = requestAnimationFrame(tickScroll)
   })
+
+  useEventListener(document, 'keyup', (e: KeyboardEvent) => {
+    if (e.key === 'ArrowDown' || e.key === 'ArrowUp') stopScroll()
+  })
+
+  onUnmounted(stopScroll)
 
   // Close home NavScreen on outside click
   useEventListener(document, 'click', (e: Event) => {

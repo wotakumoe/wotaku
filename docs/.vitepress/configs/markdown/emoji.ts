@@ -7,6 +7,7 @@
  */
 import type { IconifyJSON } from '@iconify-json/octicon'
 import type { MarkdownRenderer } from 'vitepress'
+import { iconTooltips } from './tooltip'
 
 // Icons that need to be used should be imported here
 import { icons as akar } from '@iconify-json/akar-icons'
@@ -133,6 +134,31 @@ const aliases: Record<string, string> = {
   hs: 'mdi-hulu'
 }
 
+// Tooltip labels for icon aliases (desktop hover)
+const aliasLabels: Record<string, string> = {
+  s: 'Favorite', src: 'Source Code', cs: 'Closed Source',
+  e: 'Extension / Plugin', prx: 'Proxies', ero: 'R18',
+  acc: 'Needs account', help: 'Help / Docs', more: 'Related',
+  and: 'Android', ios: 'iOS / iPadOS', app: 'MacOS',
+  win: 'Windows', lin: 'Linux', bsd: 'BSD',
+  cmd: 'CLI / TUI', ff: 'Firefox', cr: 'Chromium', web: 'Web',
+  strm: 'Stream', ddl: 'Online / DDL', mag: 'Torrent / p2p',
+  lcl: 'Local file', batch: 'Batch Download',
+  sp: 'Single Page Mode', dp: 'Double Page Mode', ls: 'Long-Strip Mode',
+  paid: 'Paid', sub: 'Subscription', free: 'Has free content',
+  coin: 'Coin / Point', fm: 'Freemium',
+  d: 'Discord', f: '4chan', x: 'Twitter', tg: 'Telegram',
+  mal: 'MyAnimeList', al: 'AniList', k: 'Kitsu', simkl: 'Simkl',
+  sgd: 'Google Drive', sm: 'MEGA', smf: 'MediaFire', host: 'Other Host',
+  fjp: 'Japan', fkr: 'Korea', fcn: 'China',
+  js: 'JavaScript', css: 'CSS', py: 'Python', dock: 'Docker',
+  n: 'Nightly build', alt: 'Alternative', rss: 'RSS Feed', tf: 'Testflight',
+  yes: 'Yes / Available', no: 'No / Unavailable',
+  global: 'Global', cc: 'Subtitles / CC', hs: 'Hardsubs',
+  up: 'More Info', ms: 'Feedback',
+  sync: 'Sync', ie: 'Import / Export'
+}
+
 // Custom icons using UnoCSS inline collection
 const customIconAliases: Record<string, string> = {
   'custom-circle': 'inline-circle'
@@ -163,26 +189,26 @@ export { aliases, defs }
 export function emojiRender(md: MarkdownRenderer) {
   md.renderer.rules.emoji = (tokens, idx) => {
     const markup = tokens[idx].markup
+    const label = aliasLabels[markup] || iconTooltips[markup]
+
+    const tip = label?.replace(/"/g, '&quot;')
+    const wrap = (cls: string) => tip
+      ? `<span class="icon-tip" data-tip="${tip}" tabindex="-1"><span class="${cls}"></span></span>`
+      : `<span class="${cls}"></span>`
 
     // Check for custom icon aliases first
-    if (customIconAliases[markup]) {
-      return `<span class="i-${customIconAliases[markup]}"></span>`
-    }
+    if (customIconAliases[markup]) return wrap(`i-${customIconAliases[markup]}`)
 
     // Check for aliases
-    if (aliases[markup]) {
-      return `<span class="i-${aliases[markup]}"></span>`
-    }
+    if (aliases[markup]) return wrap(`i-${aliases[markup]}`)
 
     // Check for prefixed icons
     for (const emoji of emojis) {
-      if (markup.startsWith(emoji.prefix!)) {
-        return `<span class="i-${markup}"></span>`
-      }
+      if (markup.startsWith(emoji.prefix!)) return wrap(`i-${markup}`)
     }
 
     // Default to twemoji
-    return `<span class="i-twemoji-${markup}"></span>`
+    return wrap(`i-twemoji-${markup}`)
   }
 }
 
