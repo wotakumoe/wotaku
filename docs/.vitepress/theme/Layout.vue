@@ -175,18 +175,20 @@ onMounted(() => {
 
   // Arrow key scrolling + Escape close for desktop sidebar
   useEventListener(document, 'keydown', (e: KeyboardEvent) => {
-    if (!homeSidebarOpen.value || !sidebarRef.value) return
+    if (e.key !== 'ArrowDown' && e.key !== 'ArrowUp' && e.key !== 'Escape') return
+
     if (e.key === 'Escape') {
-      homeSidebarOpen.value = false
+      if (homeSidebarOpen.value) homeSidebarOpen.value = false
       return
     }
-    if (e.key === 'ArrowDown') {
-      e.preventDefault()
-      sidebarRef.value.scrollBy({ top: 60, behavior: 'smooth' })
-    } else if (e.key === 'ArrowUp') {
-      e.preventDefault()
-      sidebarRef.value.scrollBy({ top: -60, behavior: 'smooth' })
-    }
+
+    const target = homeSidebarOpen.value
+      ? sidebarRef.value
+      : !isHome.value ? document.querySelector<HTMLElement>('.VPSidebar') : null
+    if (!target) return
+
+    e.preventDefault()
+    target.scrollBy({ top: e.key === 'ArrowDown' ? 60 : -60, behavior: 'smooth' })
   })
 
   // Close home NavScreen on outside click
@@ -256,8 +258,8 @@ onUnmounted(() => {
             </div>
             <nav id="VPSidebarNav" class="home-sidebar-nav">
               <VPSidebarGroup :items="homeSidebarGroups" />
+              <SidebarCard />
             </nav>
-            <SidebarCard />
           </aside>
         </Transition>
       </template>

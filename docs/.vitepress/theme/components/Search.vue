@@ -95,6 +95,7 @@ const { activate } = useFocusTrap(el, {
   allowOutsideClick: true,
   clickOutsideDeactivates: true,
   escapeDeactivates: true,
+  returnFocusOnDeactivate: false,
   initialFocus: () => {
     return searchInput.value
   }
