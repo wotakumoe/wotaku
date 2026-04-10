@@ -157,6 +157,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 ## Android
 - **General**
   - [Komikku](https://komikku-app.github.io/) [:src:](https://github.com/komikku-app/komikku) [:e:](/ext/mihon)
+  - [Hentoid](https://codeberg.org/VioletKnight/Hentoid)
   - [Jasmine](https://github.com/ComicSparks/jasmine)
   - [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta) [:e:](/ext/mihon)
 - **E-Hentai**
