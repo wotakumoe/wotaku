@@ -1277,7 +1277,7 @@ table tr:nth-child(odd) {
   bottom: 0;
   left: 0;
   z-index: calc(var(--vp-z-index-backdrop, 100) + 1);
-  padding: 0 32px 96px;
+  padding: 0 32px 32px;
   width: var(--vp-sidebar-width);
   max-width: calc(100vw - 64px);
   background-color: var(--vp-sidebar-bg-color);

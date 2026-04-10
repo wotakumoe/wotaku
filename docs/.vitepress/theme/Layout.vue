@@ -22,8 +22,7 @@ import { sidebar } from '../configs/constants'
 import AnnouncementPill from './components/AnnouncementPill.vue'
 import NotFoundComponent from './components/NotFound.vue'
 import {
-  NolebaseEnhancedReadabilitiesMenu,
-  NolebaseEnhancedReadabilitiesScreenMenu
+  NolebaseEnhancedReadabilitiesMenu
 } from './components/settings'
 import SidebarCard from './components/SidebarCard.vue'
 import { TakodachiStorageKey } from './constants'
@@ -173,7 +172,20 @@ const reloadTakodachi = () => {
 onMounted(() => {
   if (import.meta.env.SSR) return
 
-  // Arrow key scrolling + Escape close for desktop sidebar
+  // Arrow key scrolling + Escape close for sidebars and content
+  let activeScrollTarget: HTMLElement | Window = window
+
+  useEventListener(document, 'pointerdown', (e: PointerEvent) => {
+    const el = e.target as HTMLElement
+    if (homeSidebarOpen.value && sidebarRef.value?.contains(el)) {
+      activeScrollTarget = sidebarRef.value
+    } else if (el.closest('.VPSidebar')) {
+      activeScrollTarget = el.closest('.VPSidebar') as HTMLElement
+    } else {
+      activeScrollTarget = window
+    }
+  })
+
   useEventListener(document, 'keydown', (e: KeyboardEvent) => {
     if (e.key !== 'ArrowDown' && e.key !== 'ArrowUp' && e.key !== 'Escape') return
 
@@ -182,13 +194,8 @@ onMounted(() => {
       return
     }
 
-    const target = homeSidebarOpen.value
-      ? sidebarRef.value
-      : !isHome.value ? document.querySelector<HTMLElement>('.VPSidebar') : null
-    if (!target) return
-
     e.preventDefault()
-    target.scrollBy({ top: e.key === 'ArrowDown' ? 60 : -60, behavior: 'smooth' })
+    activeScrollTarget.scrollBy({ top: e.key === 'ArrowDown' ? 60 : -60, behavior: 'smooth' })
   })
 
   // Close home NavScreen on outside click
@@ -317,9 +324,8 @@ onUnmounted(() => {
         <VPSidebarGroup :items="homeSidebarGroups" />
       </nav>
     </template>
-    <template #nav-screen-content-after>
-      <NolebaseEnhancedReadabilitiesScreenMenu v-if="!isHome" />
-    </template>
+    <template #nav-screen-content-after />
+
     <template #nav-bar-title-before>
       <span
         v-if="isHome"
