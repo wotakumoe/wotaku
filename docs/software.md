@@ -49,7 +49,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/ext/mih
 | Type | Reader |
 | :--- | :--- |
 | Mihon | [Mihon](https://mihon.app/) :s: [:src:](https://github.com/mihonapp/mihon) [:n:](https://github.com/mihonapp/mihon-preview) |
-| ^^ | [Yokai](https://mihon.app/forks/Yokai/) [:src:](https://github.com/null2264/yokai) |
+| ^^ | [Yokai](https://mihon.app/forks/Yokai/) [:src:](https://github.com/null2264/yokai) [:n:](https://github.com/null2264/yokai-nightly) |
 | ^^ | [Komikku](https://komikku-app.github.io/) [:src:](https://github.com/komikku-app/komikku) [:n:](https://github.com/komikku-app/komikku-preview) |
 | ^^ | [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:src:](https://github.com/jobobby04/TachiyomiSY) [:n:](https://github.com/jobobby04/TachiyomiSYPreview) |
 | ^^ | [TachiyomiAZ](https://mihon.app/forks/TachiyomiAZ/) [:src:](https://github.com/az4521/tachiyomiAZ) [:n:](https://crafty.moe/tachiyomiAZ.apk) |
