@@ -36,6 +36,7 @@ const { Layout } = DefaultTheme
 // Home sidebar menu
 const isHome = computed(() => frontmatter.value.layout === 'home')
 const homeSidebarOpen = ref(false)
+const sidebarRef = ref<HTMLElement | null>(null)
 const homeSidebarGroups = getSidebarGroups(sidebar as any)
 const logoSrc = computed(() =>
   typeof theme.value.logo === 'string' ? theme.value.logo : theme.value.logo?.src
@@ -44,6 +45,10 @@ const logoSrc = computed(() =>
 watch(() => route.path, () => {
   homeSidebarOpen.value = false
 })
+
+function onSidebarEnter() {
+  sidebarRef.value?.focus()
+}
 
 interface BreadcrumbItem {
   text: string
@@ -168,6 +173,32 @@ const reloadTakodachi = () => {
 onMounted(() => {
   if (import.meta.env.SSR) return
 
+  // Arrow key scrolling + Escape close for desktop sidebar
+  useEventListener(document, 'keydown', (e: KeyboardEvent) => {
+    if (!homeSidebarOpen.value || !sidebarRef.value) return
+    if (e.key === 'Escape') {
+      homeSidebarOpen.value = false
+      return
+    }
+    if (e.key === 'ArrowDown') {
+      e.preventDefault()
+      sidebarRef.value.scrollBy({ top: 60, behavior: 'smooth' })
+    } else if (e.key === 'ArrowUp') {
+      e.preventDefault()
+      sidebarRef.value.scrollBy({ top: -60, behavior: 'smooth' })
+    }
+  })
+
+  // Close home NavScreen on outside click
+  useEventListener(document, 'click', (e: Event) => {
+    if (!isHome.value) return
+    const screen = document.getElementById('VPNavScreen')
+    if (!screen) return
+    const hamburger = document.querySelector('.VPNavBarHamburger')
+    if (screen.contains(e.target as Node) || hamburger?.contains(e.target as Node)) return
+    requestAnimationFrame(() => (hamburger as HTMLElement)?.click())
+  })
+
   // Storage changed in other documents.
   useEventListener(window, 'storage', () => {
     reloadTakodachi()
@@ -200,7 +231,7 @@ onUnmounted(() => {
           top: `${position.y}px`
         }"
       />
-      <!-- Home sidebar menu (desktop only) -->
+      <!-- Home sidebar menu -->
       <template v-if="isHome">
         <Transition name="home-fade">
           <div
@@ -209,8 +240,14 @@ onUnmounted(() => {
             @click="homeSidebarOpen = false"
           />
         </Transition>
-        <Transition name="home-slide">
-          <aside v-if="homeSidebarOpen" class="home-sidebar" @click.stop>
+        <Transition name="home-slide" @after-enter="onSidebarEnter">
+          <aside
+            v-if="homeSidebarOpen"
+            ref="sidebarRef"
+            class="home-sidebar"
+            tabindex="-1"
+            @click.stop
+          >
             <div class="home-sidebar-header">
               <a href="/" class="home-sidebar-logo">
                 <img v-if="logoSrc" :src="logoSrc" class="home-sidebar-logo-img" alt="Logo" />
@@ -273,8 +310,13 @@ onUnmounted(() => {
     <template #nav-bar-content-after>
       <NolebaseEnhancedReadabilitiesMenu />
     </template>
+    <template #nav-screen-content-before>
+      <nav v-if="isHome" id="VPSidebarNavMobile" class="home-screen-nav">
+        <VPSidebarGroup :items="homeSidebarGroups" />
+      </nav>
+    </template>
     <template #nav-screen-content-after>
-      <NolebaseEnhancedReadabilitiesScreenMenu />
+      <NolebaseEnhancedReadabilitiesScreenMenu v-if="!isHome" />
     </template>
     <template #nav-bar-title-before>
       <span
