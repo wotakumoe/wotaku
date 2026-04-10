@@ -219,6 +219,7 @@ ___
 | Websites | Tracking | Sources | Social |
 |----------|----------|---------|------- |
 | [Akari Manga](https://akarimanga.dpdns.org/) [:src:](https://github.com/sn0w12/akari) ==akari== | :sync: | :ps: | :ic-round-mode-comment: |
+| [ComiKuro](https://comikuro.to/) ==ComiKuro==  | :ie: | :ps: | :ic-round-mode-comment: |
 | [Cubari Proxy](https://proxy.cubari.moe/#/) ==cubari== | :e: | :ms: | :no: |
 | [Vidbox](https://vidbox.cc/manga) ==vidbox== | :no: | :ss: | :no: |
 :::

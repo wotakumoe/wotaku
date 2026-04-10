@@ -234,7 +234,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 |-|-|-|-|
 | [Toru](https://github.com/sweetbbak/toru) | :win::app::lin::cmd: | :mag: | :no: |
 | [Zenshin](https://hitarth-gg.github.io/zenshin-website/) [:src:](https://github.com/hitarth-gg/zenshin) | :win::app::lin: | :mag: | :al: |
-| [Totoro](https://github.com/insomniachi/Totoro) | :win: | :mag::ddl: | :mal::al::simkl: |
+| [Curd](https://github.com/Wraient/curd) | :win::lin: | :ddl: | :al: |
 | [ani-cli](https://github.com/pystardust/ani-cli) | :win::app::lin::cmd: | :ddl: | :no: |
 
 :::
