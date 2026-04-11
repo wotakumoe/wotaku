@@ -551,7 +551,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^ | [JamesDSP](https://flathub.org/en/apps/me.timschneeberger.jdsp4linux) | :lin: |
 | ^^ | [Karaoke Mugen](https://mugen.karaokes.moe/en/) [:src:](https://gitlab.com/karaokemugen/code/karaokemugen-app) | :win::app::lin: |
 | ^^ | [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) | :win::app::lin: |
-| ^^ | [Music Presence](https://github.com/ungive/discord-music-presence) :cs: | :win::app: |
+| ^^ | [Music Presence](https://github.com/ungive/discord-music-presence) :cs: | :win::app::lin: |
 
 
 

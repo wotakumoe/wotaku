@@ -327,12 +327,11 @@ These sites contain a mix of both actual and AI-generated novels.
 
 - [Tokunation](https://news.tokunation.com/)
 - [The Tokusatsu Network](https://tokusatsunetwork.com/)
-- [Tsuburaya](https://tsuburaya-prod.com/)
+- [Tsuburaya Productions](https://tsuburaya-prod.com/)
 - [JEFusion](https://jefusion.blogspot.com/) <Badge type="danger" icon="i-mdi-lightbulb-alert-outline" text="Spoilers" /> 
-- [Morphin Legacy](https://morphinlegacy.com/)
+- [Morphin' Legacy](https://morphinlegacy.com/)
 - [Henshin Grid](https://henshingrid.blogspot.com/)
 - [My Shiny Toy Robots](https://www.myshinytoyrobots.com/)
-- [Ultraman Connection](https://www.ultramanconnection.com/)
 
 ## Subreddits
 
