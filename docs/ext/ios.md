@@ -64,6 +64,7 @@ og:
 
 ## Suwatte
 
+### v6
 | Name | Region | Auto |
 | - | - | - |
 | [Mantton](https://aegir.mantton.com/) | :len: | [Install](suwatte://list?url=https://aegir.mantton.com) |
@@ -71,3 +72,8 @@ og:
 | [Seb](https://sebzzzzzzzzzzzzzzzz.github.io/sources/) | :global: | [Install](suwatte://list?url=https://sebzzzzzzzzzzzzzzzz.github.io/sources) |
 | [Kusahime](https://chilldryad.github.io/DryadSources/) [:src:](https://github.com/ChillDryad/DryadSources) | :global: | [Install](suwatte://list?url=https://chilldryad.github.io/DryadSources) |
 | [Community](https://community.suwatte.app/) | :global: | [Install](suwatte://list?url=https://community.suwatte.app) |
+
+### v7
+| Name | Region | Auto |
+| - | - | - |
+| [Bergelmir](https://bergelmir.mantton.com/) | :global: |  [Install](suwatte://list?url=https://bergelmir.mantton.com/) |
