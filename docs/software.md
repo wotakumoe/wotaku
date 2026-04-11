@@ -277,7 +277,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | Software | Platform |
 |----------|---------|
 | [Calibre](https://calibre-ebook.com/) [:src:](https://github.com/kovidgoyal/calibre) | :win::app::lin: |
-| [Freda](https://www.turnipsoft.com/freda/) | :win::cs: |
+| [Freda](https://www.turnipsoft.com/freda/) :cs: | :win: |
 | [Koodo Reader](https://www.koodoreader.com/) [:src:](https://github.com/koodo-reader/koodo-reader) | :win::app::lin: |
 | [KOReader](https://koreader.rocks/) [:src:](https://github.com/koreader/koreader) <Badge type="tip" text="rakuyomi" link="https://github.com/tachibana-shin/rakuyomi" /> | :lin::material-symbols-chrome-reader-mode-outline: |
 | [Okular](https://okular.kde.org/) | :win::lin: |
