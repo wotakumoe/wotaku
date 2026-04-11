@@ -37,7 +37,7 @@ og:
 - [Hentai Ocean](https://hentaiocean.com/)
 - [HenVids](https://henvids.com/)
 - [Rule34video](https://rule34video.com/)
-- [SakuraCircle](https://sakuracircle.com/) :ddl: <Badge type="warning" text="Retired"/><Badge type="tip" text="Nyaa" link="https://sukebei.nyaa.si/user/Tennouji" />
+- [SakuraCircle](https://sakuracircle.com/) :ddl: :ded:<Badge type="tip" text="Nyaa" link="https://sukebei.nyaa.si/user/Tennouji" />
 - [UnderHentai](https://www.underhentai.net/) :strm::ddl:
 
 :::

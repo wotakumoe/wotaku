@@ -119,6 +119,7 @@ const aliasDefs: Record<string, [string, string?]> = {
 
   // Region
   global: ['twemoji-globe-showing-asia-australia', 'Global'],
+
   ljp: ['twemoji-flag-japan', 'Japanese'],
   lkr: ['twemoji-flag-south-korea', 'Korean'],
   lcn: ['twemoji-flag-china', 'Chinese'],
@@ -130,6 +131,7 @@ const aliasDefs: Record<string, [string, string?]> = {
   lpo: ['twemoji-flag-poland', 'Polish'],
   lsp: ['twemoji-flag-spain', 'Spanish'],
   lbr: ['twemoji-flag-brazil', 'Brazilian'],
+
   cuk: ['twemoji-flag-united-kingdom', 'United Kingdom'],
   cge: ['twemoji-flag-germany', 'Germany'],
   cus: ['twemoji-flag-united-states', 'United States'],
@@ -175,6 +177,7 @@ const aliasDefs: Record<string, [string, string?]> = {
   tf: ['mdi-airplane', 'Testflight'],
   more: ['mdi-arrow-right-bold', 'Related'],
   help: ['material-symbols-help', 'Help / Docs'],
+  ded: ['twemoji-headstone','Retired'],
   yes: ['twemoji-check-mark-button', 'Yes / Available'],
   no: ['twemoji-cross-mark', 'No / Unavailable']
 }

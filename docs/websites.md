@@ -107,7 +107,7 @@ outline: 1
 
 ::: details Related resources
 - [Seadex](https://releases.moe/)
-- [Sneedex](https://sneedex.moe/) <Badge type="warning" text="Archived"/>
+- [Sneedex](https://sneedex.moe/) :ded:
 - [A Certain Fansubber's Index](https://index.fansubcar.tel/)
 :::
 
@@ -192,9 +192,9 @@ To make the cubari process easier, we have made [Kaguya](https://github.com/wota
 
 - [1r0n](https://nyaa.si/user/tsuna69) <Badge type="info" text="Ch & Vol"/> ==tron==
 - [Aleph](https://nyaa.si/user/Aleph256) <Badge type="info" text="Ch"/> ==Aleph==
-- [Danke](https://nyaa.si/?f=0&c=0_0&q=danke-empire) :f: <Badge type="warning" text="Retired"/><Badge type="info" text="Ch & Vol"/> ==Danke==
+- [Danke](https://nyaa.si/?f=0&c=0_0&q=danke-empire) :f: :ded:<Badge type="info" text="Ch & Vol"/> ==Danke==
 - [Digital Manga Fan](https://nyaa.si/user/digitalmangafan) <Badge type="info" text="Comp & Vol"/> ==DMF==
-- [Empy](https://nyaa.si/user/empyrealarrow) <Badge type="warning" text="Retired"/><Badge type="info" text="Ch & Comp"/> ==Empy==
+- [Empy](https://nyaa.si/user/empyrealarrow) :ded:<Badge type="info" text="Ch & Comp"/> ==Empy==
 - [Lord_ne](https://nyaa.si/user/lord_ne) ==Lord_ne==
 - [LuCaZ](https://nyaa.si/user/LuCaZ) <Badge type="info" text="Ch & Vol"/> ==LuCaZ==
 - [Oakminati](https://nyaa.si/user/Oakminati) <Badge type="info" text="Ch & Comp"/><Badge type="tip" text="Releases" link="https://sheet.zohopublic.com/sheet/published/3v5my3d014d3b97064f55b7114631ac87efda?sheetid=1&range=A1" /> ==Oakminati==
@@ -269,11 +269,11 @@ These sites contain a mix of both actual and AI-generated novels.
 |-----------------|-----------------------------------------------------------------|
 | **Nyaa**        | [AlpinDale](https://nyaa.si/user/AlpinDale) |
 | ^^              | [CleanBookGuy](https://nyaa.si/?f=0&c=3_1&q=CleanBookGuy) |
-| ^^              | [Ganba](https://nyaa.si/user/Ganba?f=0&c=3_1&q=) <Badge type="warning" text="Retired"/> |
+| ^^              | [Ganba](https://nyaa.si/user/Ganba?f=0&c=3_1&q=) :ded: |
 | ^^              | [HowUnfortunate](https://nyaa.si/user/HowUnfortunate?f=0&c=3_1&q=) |
 | ^^              | [LuCaZ](https://nyaa.si/?f=0&c=3_1&q=%22%5BLuCaZ%5D%22) |
 | ^^              | [Stick](https://nyaa.si/?f=0&c=3_1&q=%22%5BStick%5D%22) |
-| **Direct Download** | [Ganba's DDL sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSvd0SjjPYZKzhUwTYK2n2peZD_n6_wDmEKV3I37nuM-FnOtAU5xZkec35GabjrZ6olJTbr_CMXS6AH/pubhtml) <Badge type="warning" text="Retired"/> |
+| **Direct Download** | [Ganba's DDL sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSvd0SjjPYZKzhUwTYK2n2peZD_n6_wDmEKV3I37nuM-FnOtAU5xZkec35GabjrZ6olJTbr_CMXS6AH/pubhtml) :ded: |
 | ^^              | [Elscione Official LNs](https://server.elscione.com/Officially%20Translated%20Light%20Novels/) |
 | ^^              | [JNovel Codex](https://jnovelcodex.web.app/index.html) |
 | ^^              | [Kureha One](http://www.vn-meido.com/k1/index.php?board=17.0) ==kureha== |
