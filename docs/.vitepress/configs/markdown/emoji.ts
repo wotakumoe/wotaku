@@ -99,6 +99,7 @@ const aliasDefs: Record<string, [string, string?]> = {
   sp: ['lucide-file', 'Single Page Mode'],
   dp: ['lucide-book-open', 'Dual Page Mode'],
   ls: ['lucide-scroll', 'Long-Strip Mode'],
+  lsg: ['ri-page-separator', 'Long-Strip with gaps'],
 
   // Tracking
   mal: ['simple-icons-myanimelist', 'MyAnimeList'],
