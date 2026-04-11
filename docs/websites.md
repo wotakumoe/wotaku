@@ -196,7 +196,7 @@ To make the cubari process easier, we have made [Kaguya](https://github.com/wota
 - [Digital Manga Fan](https://nyaa.si/user/digitalmangafan) <Badge type="info" text="Comp & Vol"/> ==DMF==
 - [Empy](https://nyaa.si/user/empyrealarrow) <Badge type="warning" text="Retired"/><Badge type="info" text="Ch & Comp"/> ==Empy==
 - [Lord_ne](https://nyaa.si/user/lord_ne) ==Lord_ne==
-- [LuCaZ](https://nyaa.si/user/LuCaZ) <Badge type="warning" text="Retired"/><Badge type="info" text="Ch & Vol"/> ==LuCaZ==
+- [LuCaZ](https://nyaa.si/user/LuCaZ) <Badge type="info" text="Ch & Vol"/> ==LuCaZ==
 - [Oakminati](https://nyaa.si/user/Oakminati) <Badge type="info" text="Ch & Comp"/><Badge type="tip" text="Releases" link="https://sheet.zohopublic.com/sheet/published/3v5my3d014d3b97064f55b7114631ac87efda?sheetid=1&range=A1" /> ==Oakminati==
 - [Rillant](https://nyaa.si/user/Rillant) <Badge type="info" text="Ch & Comp"/> ==Rillant==
 - [Shellshock](https://nyaa.si/user/shellshock) ==Shellshock==
