@@ -17,30 +17,15 @@ outline: 1
 
 ## Stream
 
-::: details Symbols
-
-| Category | Descrpition | Legend |
-| :--- | :--- | :--- |
-| **Video Source** | Self-uploaded (Own storage or video host) | :mingcute-server-fill: |
-| ^^ | Scraper (Pulling from other host sites) | :mingcute-shovel-fill: |
-| **Tracking** | Built-in sync system | :sync: |
-| ^^ | Entry import-export | :ie: |
-| ^^ | Sync using MAL-Sync | :e: |
-| **Subtitle** | Softsub | :cc: |
-| ^^ | Hardsub | :hs: |
-
-:::
-
-___
 
 | Websites | Type | Login | Tracking | Sub |
 |----------|----------------|------|----------------------|--------|
-| [AnimeKai](https://animekai.to/home) [:prx:](https://rentry.org/wotaxy#animekai) ==AnimeKai== | :mingcute-server-fill: | :yes: | :sync::ie::e: | :cc::hs: |
-| [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :mingcute-server-fill: | :yes: | :sync: | :cc: |
-| [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :mingcute-shovel-fill: | :no: | :no: |  :cc: |
-| [Kaido](https://kaido.to/home) ==Kaido== | :mingcute-server-fill: | :yes: | :sync::ie::e: | :cc: |
-| [KickassAnime](https://kaa.lt/) ==KAA== | :mingcute-server-fill: | :yes: | :e: | :cc: |
-| [AniZone](https://anizone.to/) ==AniZone== | :mingcute-server-fill: | :no: | :no: | :cc: |
+| [AnimeKai](https://animekai.to/home) [:prx:](https://rentry.org/wotaxy#animekai) ==AnimeKai== | :sup: | :yes: | :sync::ie::msync: | :cc::hs: |
+| [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :sup: | :yes: | :sync: | :cc: |
+| [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :scrpr: | :no: | :no: |  :cc: |
+| [Kaido](https://kaido.to/home) ==Kaido== | :sup: | :yes: | :sync::ie::msync: | :cc: |
+| [KickassAnime](https://kaa.lt/) ==KAA== | :sup: | :yes: | :msync: | :cc: |
+| [AniZone](https://anizone.to/) ==AniZone== | :sup: | :no: | :no: | :cc: |
 
 :::details More
 
@@ -51,7 +36,7 @@ ___
 | [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) | :yes: | :no: | :cc::hs: |
 | [Anibd](https://animedefenders.me/) :ero: [:alt:](https://ani.lol/) | :yes: | :no: | :hs: |
 | [AniHQ](https://anihq.to/home/) | :yes: | :no: | :hs: |
-| [Animepahe](https://animepahe.com/) ==Animepahe== | :no: | :e: | :hs: |
+| [Animepahe](https://animepahe.com/) ==Animepahe== | :no: | :msync: | :hs: |
 | [AnimeZ](https://animeyy.com/) ==animez== | :yes: | :no: | :hs: |
 | [Animotvslash](https://www.animotvslash.org/search) | :no: | :no: | :cc::hs: |
 | [Kuudere](https://kuudere.to/) | :yes: | :sync::ie: | :cc: |
@@ -66,8 +51,8 @@ ___
 | [Anikuro](https://anikuro.to/) [:prx:](https://anikuro.site/) ==Anikuro== | :yes: | :sync: | :cc::hs: |
 | [Anime Realms](https://www.animerealms.org/en) ==AnimeRealms== | :yes: | :sync: | :cc::hs: |
 | [AnimeX](https://animex.one/home) ==AnimeX== | :yes: | :sync: | :cc::hs: |
-| [Animetsu](https://animetsu.net/) ==Animetsu== | :yes: | :ie::e: | :cc::hs: |
-| [Miruro](https://www.miruro.to/) [:prx:](https://www.miruro.com) ==miruro== | :yes: | :sync::e: | :cc::hs: |
+| [Animetsu](https://animetsu.net/) ==Animetsu== | :yes: | :ie::msync: | :cc::hs: |
+| [Miruro](https://www.miruro.to/) [:prx:](https://www.miruro.com) ==miruro== | :yes: | :sync::msync: | :cc::hs: |
 
 
 :::
@@ -128,18 +113,6 @@ ___
 
 ### Direct Download
 
-::: details Symbols
-
-- Uploaded on own server -> :ddl:
-- Uploaded on Google Drive -> :sgd:
-- Uploaded on SharePoint -> :simple-icons-microsoftsharepoint:
-- Batch Download -> :batch:
-- Torrent Download -> :mag:
-- Account Needed -> :acc:
-
-:::
-
-
 | Category      | Name |
 |---------------|------|
 | **Reuploads** | [Tokyo Insider](https://www.tokyoinsider.com/) :ddl: |
@@ -173,54 +146,39 @@ ___
 
 # Manga
 
-<br>
-
-::: details Symbols
-| Category | Descrpition | Legend |
-| :--- | :--- | :--- |
-| **Tracking** | Built-in sync system | :sync: |
-| ^^ | Entry import-export | :ie: |
-| ^^ | Sync using MAL-Sync | :e: |
-| **Source** | Multiple chapter sources | :ms: |
-| ^^ | Unlabeled / Poorly labeled / Partial multi-source | :ps: |
-| ^^ | Single source | :ss: |
-| ^^ | User / Scan group upload (w/ or w/o perm) | :up: |
-| **Social** | Comment Section | :ic-round-mode-comment: |
-| ^^ | Forum | :ic-round-forum: |
-:::
 
 ## Online
 
 | Websites | Tracking | Sources | Social |
 |----------|----------|---------|--------|
-| [Comix](https://comix.to/home) ==Comix== | :ie::e: | :ms: | :ic-round-mode-comment: |
-| [Kagane](https://kagane.org/) ==Kagane== |  :e: | :ms::up: | :ic-round-mode-comment: |
-| [Weeb Central](https://weebcentral.com/) ==WeebCentral== | :e:  | :ss: | :ic-round-mode-comment: |
-| [Atsumaru](https://atsu.moe/) ==Atsumaru== |  :e: | :ps: | :ic-round-mode-comment: |
-| [MangaFire](https://mangafire.to/home) ==MangaFire== |  :ie::e: | :ss: | :no: |
+| [Comix](https://comix.to/home) ==Comix== | :ie::msync: | :ms: | :cmnt: |
+| [Kagane](https://kagane.org/) ==Kagane== |  :msync: | :ms::up: | :cmnt: |
+| [Weeb Central](https://weebcentral.com/) ==WeebCentral== | :msync:  | :ss: | :cmnt: |
+| [Atsumaru](https://atsu.moe/) ==Atsumaru== |  :msync: | :ps: | :cmnt: |
+| [MangaFire](https://mangafire.to/home) ==MangaFire== |  :ie::msync: | :ss: | :no: |
 
 ::: details More
 
 ### Self-uploaded
 | Websites | Tracking | Sources | Social |
 |----------|----------|---------|------- |
-| [MangaTaro](https://mangataro.org/home) | :ie::e:  | :ps::up: | :ic-round-mode-comment: |
-| [Manga Katana](https://mangakatana.com/) | :ie::e:  | :ss: | :ic-round-mode-comment: |
-| [Mangadotnet](https://mangadot.net/) ==Mangadotnet== | :sync: | :ms::up: | :ic-round-mode-comment::ic-round-forum: |
-| [MangaBall](https://mangaball.net/) |  :e: | :ps::up: | :ic-round-mode-comment: |
-| [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy) | :e:  | :ss: | :ic-round-mode-comment: |
-| [Mangahub](https://mangahub.io/) :acc: | :e:  | :ss: | :ic-round-mode-comment: |
-| [Manga Fox](https://mangafox.la/) [:prx:](https://rentry.org/wotaxy#manga-fox) | :e:  | :ss: | :ic-round-mode-comment: |
-| [MangaKakalot](https://www.mangakakalot.fan/) [:prx:](https://rentry.org/wotaxy#mangakakalot) |  :e: | :ss: | :ic-round-mode-comment: |
-| [Like Manga](https://likemanga.ink/) | :e:  | :ss: | :ic-round-mode-comment: |
+| [MangaTaro](https://mangataro.org/home) | :ie::msync:  | :ps::up: | :cmnt: |
+| [Manga Katana](https://mangakatana.com/) | :ie::msync:  | :ss: | :cmnt: |
+| [Mangadotnet](https://mangadot.net/) ==Mangadotnet== | :sync: | :ms::up: | :cmnt::frm: |
+| [MangaBall](https://mangaball.net/) |  :msync: | :ps::up: | :cmnt: |
+| [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy) | :msync:  | :ss: | :cmnt: |
+| [Mangahub](https://mangahub.io/) :acc: | :msync:  | :ss: | :cmnt: |
+| [Manga Fox](https://mangafox.la/) [:prx:](https://rentry.org/wotaxy#manga-fox) | :msync:  | :ss: | :cmnt: |
+| [MangaKakalot](https://www.mangakakalot.fan/) [:prx:](https://rentry.org/wotaxy#mangakakalot) |  :msync: | :ss: | :cmnt: |
+| [Like Manga](https://likemanga.ink/) | :msync:  | :ss: | :cmnt: |
 | [24hNovel](https://24hnovel.com/) <Badge type="info" text="Manhua"  /> | :no:  | :ss: | :no: |
 
 ### Scrapers
 | Websites | Tracking | Sources | Social |
 |----------|----------|---------|------- |
-| [Akari Manga](https://akarimanga.dpdns.org/) [:src:](https://github.com/sn0w12/akari) ==akari== | :sync: | :ps: | :ic-round-mode-comment: |
-| [ComiKuro](https://comikuro.to/) ==ComiKuro==  | :ie: | :ps: | :ic-round-mode-comment: |
-| [Cubari Proxy](https://proxy.cubari.moe/#/) ==cubari== | :e: | :ms: | :no: |
+| [Akari Manga](https://akarimanga.dpdns.org/) [:src:](https://github.com/sn0w12/akari) ==akari== | :sync: | :ps: | :cmnt: |
+| [ComiKuro](https://comikuro.to/) ==ComiKuro==  | :ie: | :ps: | :cmnt: |
+| [Cubari Proxy](https://proxy.cubari.moe/#/) ==cubari== | :msync: | :ms: | :no: |
 | [Vidbox](https://vidbox.cc/manga) ==vidbox== | :no: | :ss: | :no: |
 :::
 
@@ -231,19 +189,6 @@ To make the cubari process easier, we have made [Kaguya](https://github.com/wota
 ## Download
 
 ### Nyaa
-
-:::details Symbols
-
-| Type        | Symbol |
-| ----------- | ------ |
-| Chapters    | Ch     |
-| Compilation | Comp   |
-| Volume      | Vol    |
-
-**Note:**
-- The default ripping type is volume.
-- :f: -> the ripper uploads to 4chan first.
-:::
 
 - [1r0n](https://nyaa.si/user/tsuna69) <Badge type="info" text="Ch & Vol"/> ==tron==
 - [Aleph](https://nyaa.si/user/Aleph256) <Badge type="info" text="Ch"/> ==Aleph==

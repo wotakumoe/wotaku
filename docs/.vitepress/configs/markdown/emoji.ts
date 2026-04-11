@@ -48,6 +48,7 @@ const emojis: { pack: IconifyJSON; prefix?: string }[] = [
 // Add aliases here: [icon, label?]
 // Label is optional — omit for icons that don't need a tooltip.
 const aliasDefs: Record<string, [string, string?]> = {
+ 
   // System
   and: ['simple-icons-android', 'Android'],
   ios: ['simple-icons-apple', 'iOS / iPadOS'],
@@ -55,24 +56,59 @@ const aliasDefs: Record<string, [string, string?]> = {
   app: ['ri-finder-fill', 'MacOS'],
   lin: ['simple-icons-linux', 'Linux'],
   bsd: ['simple-icons-freebsd', 'BSD'],
+  dock: ['simple-icons-docker', 'Docker'],
   cmd: ['material-symbols-terminal-rounded', 'CLI / TUI'],
-  ff: ['simple-icons-firefoxbrowser', 'Firefox'],
-  cr: ['simple-icons-googlechrome', 'Chromium'],
-  web: ['mdi-web', 'Web'],
+  ff: ['simple-icons-firefoxbrowser', 'Firefox / Firefox based'],
+  cr: ['simple-icons-googlechrome', 'Chrome / Chromium based'],
+  web: ['mdi-web', 'Website / Web-based'],
+
+  // Codebase
+  py: ['simple-icons-python', 'Python'],
+  js: ['simple-icons-javascript', 'JavaScript'],
+  css: ['mdi-language-css3', 'CSS'],
+
+  // Source code
+  src: ['mdi-package-variant', 'Source Code'],
+  cs: ['mdi-package-variant-closed-remove', 'Closed Source'],
 
   // Type
   strm: ['material-symbols-play-circle-outline', 'Stream'],
-  ddl: ['material-symbols-cloud-download-outline-rounded', 'Online / DDL'],
-  mag: ['lucide-magnet', 'Torrent / p2p'],
+  ddl: ['material-symbols-cloud-download-outline-rounded', 'Direct Download'],
+  mag: ['lucide-magnet', 'Torrent / p2p Donwload'],
+  usnt: ['material-symbols-newspaper-rounded', 'Usenet'],
   lcl: ['iconoir-floppy-disk', 'Local file'],
   batch: ['material-symbols-package-2-outline', 'Batch Download'],
+
+
+  // Manga & Anime
+  sync: ['material-symbols-sync', 'Built-in sync system w/ Tracker(s)'],
+  msync: ['material-symbols-rule-settings-rounded', 'Sync using MAL-Sync'],
+  ie: ['material-symbols-sync-alt-rounded', 'Import / Export'],
+  cmnt: ['ic-round-mode-comment', 'Comment section'],
+  frm: ['ic-round-forum', 'Forum'],
+
+  cc: ['mdi-closed-caption', 'Soft Subtitle / CC'],
+  hs: ['mdi-hulu', 'Hardsubs'],
+  sup: ['mingcute-server-fill', 'Self-uploaded (Own storage or video host)'],
+  scrpr: ['mingcute-shovel-fill', 'Scraper (Pulling from other host sites)'],
+
+  up: ['material-symbols-upload', 'User / scanlator upload'],
+  ms: ['material-symbols-file-copy-rounded', 'Multiple chapter sources'],
+  ps: ['material-symbols-file-copy-outline-rounded', 'Unlabeled / Poorly labeled / Partial multi-source'],
+  ss: ['material-symbols-file-copy-off-rounded', 'Single source'],
   sp: ['lucide-file', 'Single Page Mode'],
-  dp: ['lucide-book-open', 'Double Page Mode'],
+  dp: ['lucide-book-open', 'Dual Page Mode'],
   ls: ['lucide-scroll', 'Long-Strip Mode'],
 
   // Tracking
-  sync: ['material-symbols-sync', 'Sync'],
-  ie: ['material-symbols-arrows-up-down-circle-outline-rounded', 'Import / Export'],
+  mal: ['simple-icons-myanimelist', 'MyAnimeList'],
+  al: ['simple-icons-anilist', 'AniList'],
+  k: ['simple-icons-kitsu', 'Kitsu'],
+  simkl: ['simple-icons-simkl', 'Simkl'],
+  tmdb: ['simple-icons-themoviedatabase', 'TMDB'],
+  lstfm: ['simple-icons-lastdotfm', 'Lastfm'],
+  igdb: ['simple-icons-igdb', 'IGDB'],
+  iarch: ['simple-icons-internetarchive', 'Internet Archive'],
 
   // Price
   paid: ['ic-round-attach-money', 'Paid'],
@@ -81,58 +117,41 @@ const aliasDefs: Record<string, [string, string?]> = {
   sub: ['ic-round-currency-exchange', 'Subscription'],
   coin: ['akar-icons-coin', 'Coin / Point'],
 
-  // Source
-  src: ['mdi-package-variant', 'Source Code'],
-  cs: ['mdi-package-variant-closed-remove', 'Closed Source'],
+  // Region
+  global: ['twemoji-globe-showing-asia-australia', 'Global'],
+  fjp: ['twemoji-flag-japan', 'Japanese'],
+  fkr: ['twemoji-flag-south-korea', 'Korean'],
+  fcn: ['twemoji-flag-china', 'Chinese'],
 
-  // Platform
+  // Social
   d: ['simple-icons-discord', 'Discord'],
   f: ['simple-icons-4chan', '4chan'],
   x: ['simple-icons-twitter', 'Twitter'],
   tg: ['simple-icons-telegram', 'Telegram'],
-  mal: ['simple-icons-myanimelist', 'MyAnimeList'],
-  al: ['simple-icons-anilist', 'AniList'],
-  k: ['simple-icons-kitsu', 'Kitsu'],
-  simkl: ['simple-icons-simkl', 'Simkl'],
+  vk: ['simple-icons-vk', 'VK'],
 
+  
   // Storage
   sgd: ['simple-icons-googledrive', 'Google Drive'],
   sm: ['simple-icons-mega', 'MEGA'],
   smf: ['simple-icons-mediafire', 'MediaFire'],
-  host: ['mdi-snail', 'Other Host'],
+  host: ['mdi-snail', 'Rate-limited / Paywalled Host'],
 
-  // Region
-  fjp: ['twemoji-flag-japan', 'Japan'],
-  fkr: ['twemoji-flag-south-korea', 'Korea'],
-  fcn: ['twemoji-flag-china', 'China'],
 
-  // Code
-  py: ['simple-icons-python', 'Python'],
-  js: ['simple-icons-javascript', 'JavaScript'],
-  css: ['mdi-language-css3', 'CSS'],
-  dock: ['simple-icons-docker', 'Docker'],
-
-  // Others
+  // General
   s: ['twemoji-glowing-star', 'Favorite'],
-  e: ['mdi-puzzle', 'Extension / Plugin'],
+  e: ['mdi-puzzle', 'Extension'],
   n: ['material-symbols-science', 'Nightly build'],
   alt: ['ic-round-looks-two', 'Alternative'],
   ero: ['twemoji-no-one-under-eighteen', 'R18'],
   acc: ['material-symbols-person-add', 'Needs account'],
   rss: ['simple-icons-rss', 'RSS Feed'],
-  prx: ['material-symbols-directions-alt', 'Proxies'],
+  prx: ['material-symbols-directions-alt', 'Proxy / Mirror websites'],
   tf: ['mdi-airplane', 'Testflight'],
   more: ['mdi-arrow-right-bold', 'Related'],
   help: ['material-symbols-help', 'Help / Docs'],
   yes: ['twemoji-check-mark-button', 'Yes / Available'],
-  no: ['twemoji-cross-mark', 'No / Unavailable'],
-  global: ['twemoji-globe-showing-asia-australia', 'Global'],
-  up: ['material-symbols-upload', 'Self Upload'],
-  ms: ['material-symbols-file-copy-rounded', 'Multi Source'],
-  ps: ['material-symbols-file-copy-outline-rounded'],
-  ss: ['material-symbols-file-copy-off-rounded'],
-  cc: ['mdi-closed-caption', 'Soft Subtitle / CC'],
-  hs: ['mdi-hulu', 'Hardsubs']
+  no: ['twemoji-cross-mark', 'No / Unavailable']
 }
 
 // Derived maps from aliasDefs
