@@ -341,12 +341,15 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 
 ## Anime Tools
-- [Anicon for AniList](https://github.com/EnArvy/AniconforAnilist) :win:
-- [AnimeJaNai](https://github.com/the-database/mpv-upscale-2x_animejanai)
-- [GetFnative](https://github.com/YomikoR/GetFnative) <Badge type="info" text="getfscaler" link="https://github.com/Jaded-Encoding-Thaumaturgy/getfscaler"/>
-- [Getnative](https://github.com/Infiziert90/getnative)
-- [Manami](https://github.com/manami-project/manami)
-- [Shoko Anime](https://shokoanime.com/) :win::app::lin: [:src:](https://github.com/ShokoAnime/)
+| Software | Platform |
+| :--- | :--- |
+| [Anicon for AniList](https://github.com/EnArvy/AniconforAnilist) | :win: |
+| [AnimeJaNai](https://github.com/the-database/mpv-upscale-2x_animejanai) | :win: |
+| [GetFnative](https://github.com/YomikoR/GetFnative) | :py: |
+| [getfscaler](https://github.com/Jaded-Encoding-Thaumaturgy/getfscaler) | :py: |
+| [Getnative](https://github.com/Infiziert90/getnative) | :py: |
+| [Manami](https://github.com/manami-project/manami) | :win::app::lin: |
+| [Shoko Anime](https://shokoanime.com/) [:src:](https://github.com/ShokoAnime/) | :win::app::lin: |
 
 
 ### Stremio

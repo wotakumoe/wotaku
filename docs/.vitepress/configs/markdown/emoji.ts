@@ -157,14 +157,17 @@ const aliasDefs: Record<string, [string, string?]> = {
   tg: ['simple-icons-telegram', 'Telegram'],
   vk: ['simple-icons-vk', 'VK'],
 
-  
+  // Other Websites
+  steam: ['simple-icons-steam', 'Steam'],
+  gog: ['mdi-gog', 'GOG'],
+
   // Storage
   sgd: ['simple-icons-googledrive', 'Google Drive'],
   sm: ['simple-icons-mega', 'MEGA'],
   smf: ['simple-icons-mediafire', 'MediaFire'],
   host: ['mdi-snail', 'Rate-limited / Paywalled Host'],
 
-
+  
   // General
   s: ['twemoji-glowing-star', 'Favorite'],
   e: ['mdi-puzzle', 'Extension'],

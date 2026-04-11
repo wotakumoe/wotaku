@@ -362,7 +362,7 @@ ___
 | Manga | [Manga Online Viewer](https://github.com/TagoDR/MangaOnlineViewer) |
 | ^^ | [MangaPlusPlus](https://github.com/kmsomebody/MangaPlusPlus) |
 | **Games** | [CS RIN RU Enhanced](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external) |
-| ^^        | Game DL Links on <Badge type="tip" text="GOG" link="https://greasyfork.org/en/scripts/481134-gog-to-free-download-site" /> <Badge type="tip" text="Steam" link="https://greasyfork.org/en/scripts/481139-steam-to-free-download-site" /> |
+| ^^        | Game DL Links on [:gog:](https://greasyfork.org/en/scripts/481134-gog-to-free-download-site) [:steam:](https://greasyfork.org/en/scripts/481139-steam-to-free-download-site) |
 | ^^        | [VN(db) Userscripts](https://github.com/MarvNC/vn-userscripts) |
 | ^^        | [VNDB:Re](https://userstyles.world/style/13179/) |
 | **Music** | [Ame](https://gitlab.com/SuperSaltyGamer/ame) |
