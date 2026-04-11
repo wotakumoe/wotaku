@@ -30,11 +30,11 @@ og:
 ### Cloud
 | Resolver   | Based in  | Query Limit (Account) |
 |------------|-----------|-----------------------|
-| [NextDNS](https://nextdns.io/) :s:  | :flag-united-states:       | 300k/mo   |
-| [Adguard](https://adguard-dns.io/en/welcome.html)   | :flag-cyprus:   | 300k/mo   |
-| [Control D](https://controld.com/)   | :flag-canada:   | :no:   |
-| [dnswarden](https://dnswarden.com/index.html) | :flag-switzerland: | N/A  |
-| [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)   | :flag-sweden:   | N/A |
+| [NextDNS](https://nextdns.io/) :s:  | :cus:       | 300k/mo   |
+| [Adguard](https://adguard-dns.io/en/welcome.html)   | :ccy:   | 300k/mo   |
+| [Control D](https://controld.com/)   | :cca:   | :no:   |
+| [dnswarden](https://dnswarden.com/index.html) | :cswi: | N/A  |
+| [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)   | :cswe:   | N/A |
 
 ### Self-Hosted
 - [Pi-hole](https://pi-hole.net/)

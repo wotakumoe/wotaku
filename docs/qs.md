@@ -158,13 +158,13 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 
 | Resolver | Based in | Adblock | Query Limit (Account) |
 |-|-|-|-|
-| [NextDNS](https://nextdns.io/) :s:  | :flag-united-states:  | :yes:    | 300k/mo   |
-| [Adguard](https://adguard-dns.io/en/welcome.html) | :flag-cyprus: | :yes: | 300k/mo |
-| [Control D](https://controld.com/) | :flag-canada: | :yes: | :no: |
-| [dnswarden](https://dnswarden.com/index.html) | :flag-switzerland: | :yes: | N/A  |
-| [DNS.SB](https://dns.sb/) [:src:](https://github.com/dns-sb/) | :flag-germany: | :no: | N/A |
-| [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) | :flag-sweden: | :yes: | N/A |
-| [Quad9](https://quad9.net/) | :flag-switzerland: | :no: | N/A |
+| [NextDNS](https://nextdns.io/) :s:  | :cus:  | :yes:    | 300k/mo   |
+| [Adguard](https://adguard-dns.io/en/welcome.html) | :ccy: | :yes: | 300k/mo |
+| [Control D](https://controld.com/) | :cca: | :yes: | :no: |
+| [dnswarden](https://dnswarden.com/index.html) | :cswi: | :yes: | N/A  |
+| [DNS.SB](https://dns.sb/) [:src:](https://github.com/dns-sb/) | :cge: | :no: | N/A |
+| [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) | :cswe: | :yes: | N/A |
+| [Quad9](https://quad9.net/) | :cswi: | :no: | N/A |
 
 ### VPN
 
@@ -172,7 +172,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | ---------------- | ----------------------------- | -------------------------------- | --------------------------------- | -------------------------------- | ------------------------------------- |
 | **2FA**          | :yes:                         | :yes:                            | :no:                              | :yes:                            | :yes:                                 |
 | **Audits**       | :no:                          | :yes:                            | :yes:                             | :yes:                            | :yes:                                 |
-| **Based in**     | :flag-italy:                         | :flag-gibraltar:                        | :flag-sweden:                            | :flag-switzerland:                      | :flag-canada:                                |
+| **Based in**     | :cit:                         | :cgib:                        | :cswe:                            | :cswi:                      | :cca:                                |
 | **Crypto**       | :yes:                         | :yes:                            | :yes:                             | :yes:                            | :yes:                                 |
 | **JP Server** | :yes:                         | :yes:                            | :yes:                             | :yes:                            | :yes:                                 |
 | **Kill Switch**  | :yes:                         | :yes:                            | :yes:                             | :yes:                            | :yes:                                 |

@@ -182,19 +182,19 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 ## Anime
 | Website | Quality | Language |
 |---------|---------|----------|
-| [Anime(bits)](https://radio.animebits.moe/) | [FLAC](https://radio.animebits.moe/m3u/stream192.mp3.m3u) | :flag-united-kingdom: |
-| [Anison.fm](https://en.anison.fm/) | [MP3 320](https://anison.fm/anison.m3u) | :flag-united-kingdom::flag-russia: |
-| [Greek Otaku Radio](https://goradio.gr/) | [MP3 320](http://192.99.4.210:2199/tunein/greekota.pls) | :flag-united-kingdom::flag-greece: |
-| [JPopSuki](http://jpopsuki.fm/) | [MP3 192](http://jpopsuki.fm:2199/tunein/jpopsuki-stream.pls) | :flag-united-kingdom: |
-| [Listen.moe](https://listen.moe/) | [Vorbis 128](https://listen.moe/) | :flag-united-kingdom: |
-| [R/a/dio](https://r-a-d.io/) | [MP3 192](https://r-a-d.io/assets/main.mp3.m3u) | :flag-united-kingdom: |
-| [Yggdrasil Radio](https://yggdrasilradio.com/) | [MP3 128](https://yggdrasilradio.com/yggdrasilradio_mp3_128kbps.pls) | :flag-united-kingdom: |
-| [AnimeRadio.de](https://www.animeradio.de/) | [MP3 192](https://www.animeradio.de/streams/hd.m3u) | :flag-germany: |
-| [Japanradio.de](https://japanradio.de/) | [MP3 192](https://japanradio.de/player/japanradio.m3u) | :flag-germany: |
-| [Kibo.FM](https://kibo.fm/) | [MP3 192](https://kibo.fm/kibo.m3u) | :flag-germany: |
-| [Radio Anime24](https://www.radioanime24.pl/) | [MP3 320](https://www.radioanime24.pl/Radio-Anime24.pls) | :flag-poland: |
-| [Radio Anime Nexus](https://www.animenexus.net/) | [MP3 320](https://radio.animenexus.net:8000/animenexus-mp3.m3u) | :flag-spain: |
-| [Rádio Animu](https://www.animu.moe/) | [MP3 320](https://www.animu.com.br/download/Animu.m3u?new) | :flag-brazil: |
+| [Anime(bits)](https://radio.animebits.moe/) | [FLAC](https://radio.animebits.moe/m3u/stream192.mp3.m3u) | :len: |
+| [Anison.fm](https://en.anison.fm/) | [MP3 320](https://anison.fm/anison.m3u) | :len::lru: |
+| [Greek Otaku Radio](https://goradio.gr/) | [MP3 320](http://192.99.4.210:2199/tunein/greekota.pls) | :len::lgr: |
+| [JPopSuki](http://jpopsuki.fm/) | [MP3 192](http://jpopsuki.fm:2199/tunein/jpopsuki-stream.pls) | :len: |
+| [Listen.moe](https://listen.moe/) | [Vorbis 128](https://listen.moe/) | :len: |
+| [R/a/dio](https://r-a-d.io/) | [MP3 192](https://r-a-d.io/assets/main.mp3.m3u) | :len: |
+| [Yggdrasil Radio](https://yggdrasilradio.com/) | [MP3 128](https://yggdrasilradio.com/yggdrasilradio_mp3_128kbps.pls) | :len: |
+| [AnimeRadio.de](https://www.animeradio.de/) | [MP3 192](https://www.animeradio.de/streams/hd.m3u) | :lge: |
+| [Japanradio.de](https://japanradio.de/) | [MP3 192](https://japanradio.de/player/japanradio.m3u) | :lge: |
+| [Kibo.FM](https://kibo.fm/) | [MP3 192](https://kibo.fm/kibo.m3u) | :lge: |
+| [Radio Anime24](https://www.radioanime24.pl/) | [MP3 320](https://www.radioanime24.pl/Radio-Anime24.pls) | :lpo: |
+| [Radio Anime Nexus](https://www.animenexus.net/) | [MP3 320](https://radio.animenexus.net:8000/animenexus-mp3.m3u) | :lsp: |
+| [Rádio Animu](https://www.animu.moe/) | [MP3 320](https://www.animu.com.br/download/Animu.m3u?new) | :lbr: |
 
 ## Doujin & Vocaloid
 
@@ -320,11 +320,11 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 |----------------------|-------|
 | **Release**         | [Japanese Music Calendar](https://docs.google.com/spreadsheets/d/1VcrXXQKn_wuwtiExqZK9Ahj2R4jqwDIgL4O7xPBKAIs/edit#gid=928410087) |
 | ^^                  | [ORICON](https://www.oricon.co.jp/release/album/) |
-| **General**         | [Billboard JAPAN](https://www.billboard-japan.com/d_news/jpn/) :fjp: |
+| **General**         | [Billboard JAPAN](https://www.billboard-japan.com/d_news/jpn/) :ljp: |
 | ^^                  | [JaME](https://www.jame-world.com/en/) :s: |
 | ^^                  | [Natalie](https://natalie.mu/music/news/) |
-| ^^                  | [Uta-Net](https://www.uta-net.com/) :fjp: |
-| ^^                  | [UtaTen](https://utaten.com/) :fjp: |
+| ^^                  | [Uta-Net](https://www.uta-net.com/) :ljp: |
+| ^^                  | [UtaTen](https://utaten.com/) :ljp: |
 | ^^                  | [Make Believe Mailer](https://mbmelodies.substack.com/) :s: |
 | **Doujin & Vocaloid** | [Vocasphere](https://vocasphere.net/) |
 | ^^                  | [Merami fan](https://meramifan.wordpress.com/) :s: |

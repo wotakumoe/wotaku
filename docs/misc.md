@@ -16,7 +16,7 @@ outline: [1,2]
 - [aniSearch](https://www.anisearch.com/)
 - [Kitsu](https://kitsu.app/explore/anime)
 - [Kurozora](https://kurozora.app/)
-- [Sakuhin Database](https://sakuhindb.com/) :fjp:
+- [Sakuhin Database](https://sakuhindb.com/) :ljp:
 - [Wikipedia](https://www.wikipedia.org/) :s:
   - [WikiTimeline](https://wiki-timeline.com/) [:src:](https://github.com/wenzhenl/wikitimeline)
 
@@ -26,10 +26,10 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 
 ## Anime
 - [aniDB](https://anidb.net/) :s:
-- [Anikore](https://www.anikore.jp/) :fjp:
-- [AnimeDB](https://animedb.jp/) :fjp:
+- [Anikore](https://www.anikore.jp/) :ljp:
+- [AnimeDB](https://animedb.jp/) :ljp:
 - [AnimeSongs.org](https://animesongs.org/)
-- [Annict](https://annict.com/) :fjp:
+- [Annict](https://annict.com/) :ljp:
 - [Aniplaylist](https://aniplaylist.com/)
 - [Simkl](https://simkl.com/)
 - [TMDB](https://www.themoviedb.org/)
@@ -38,11 +38,11 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 ## Manga
 - [MangaBaka](https://mangabaka.org/) :s:
 - [MangaUpdates](https://www.mangaupdates.com/) :s:
-- [Manba](https://manba.co.jp/) :s::fjp:
-- [Bookmeter](https://bookmeter.com/) :fjp:
+- [Manba](https://manba.co.jp/) :s::ljp:
+- [Bookmeter](https://bookmeter.com/) :ljp:
 
 ::: details More
-- [Chill Chill](https://www.chil-chil.net/) :ero::fjp:
+- [Chill Chill](https://www.chil-chil.net/) :ero::ljp:
 - [Comic Bibliographic and Cover Archives](https://web.archive.org/web/20220928162853/http://www.eshita.jp/comics/index.html)
 - [Comic Vine](https://comicvine.gamespot.com/)
 - [Kazamkase Comic Database](https://kazemakase.wjg.jp/comics/) ==kazamakase==
@@ -56,14 +56,14 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 - [Novel Updates](https://www.novelupdates.com/) :s:
 - [MangaBaka](https://mangabaka.org/) :s:
 - [RanobeDB](https://ranobedb.org/) :s: [:src:](https://github.com/Blastose/ranobedb)
-- [Ranobe Mori](https://ranobe-mori.net/) :fjp:
-- [Bookmeter](https://bookmeter.com/) :fjp:
+- [Ranobe Mori](https://ranobe-mori.net/) :ljp:
+- [Bookmeter](https://bookmeter.com/) :ljp:
 - [Goodreads](https://www.goodreads.com/)
 
 ## Production
 | Category | Resource |
 | :--- | :--- |
-| General | [Anisil](https://www.anisil.com/) :fjp: |
+| General | [Anisil](https://www.anisil.com/) :ljp: |
 | Animation | [Anime Staff Matcher](https://staff.iklone.org/) :mal: [:src:](https://github.com/iklone/anime-staff-matcher) |
 | ^^ | [KeyFrame Staff List](https://keyframe-staff-list.com/) :s: |
 | Seiyuu / Voice Actor | [AVAC.moe](https://avac.moe/index.php) :mal: |
@@ -77,7 +77,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | Cons    | [FanCons](https://fancons.com/) [:alt:](https://animecons.com/) |
 | ^^      | [UpcomingCons](https://upcomingcons.com/) |
 | Drama / Live action | [MyDramaList](https://mydramalist.com/) |
-| ^^      | [TV Drama Database](http://www.tvdrama-db.com/) :fjp: |
+| ^^      | [TV Drama Database](http://www.tvdrama-db.com/) :ljp: |
 | Games / VN | [VNDB](https://vndb.org/) :s: |
 | ^^      | [Nepchan](https://nepchan.org/) |
 
@@ -109,14 +109,14 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 ## Manga & LN
 
 - [ComicRanking500](https://x.com/ComicRanking500) ==ComicRanking500==
-  - [Manga Ranking](http://shosekiranking.blog.fc2.com/) :fjp: [:rss:](http://shosekiranking.blog.fc2.com/?xml)
-  - [Novel Ranking](http://bunkoranoberanking.blog.fc2.com/) :fjp: [:rss:](http://bunkoranoberanking.blog.fc2.com/?xml)
+  - [Manga Ranking](http://shosekiranking.blog.fc2.com/) :ljp: [:rss:](http://shosekiranking.blog.fc2.com/?xml)
+  - [Novel Ranking](http://bunkoranoberanking.blog.fc2.com/) :ljp: [:rss:](http://bunkoranoberanking.blog.fc2.com/?xml)
 - [Jajanken](https://www.jajanken.net/en/) <Badge text="WSJ" />
 - [Manga Codex](https://mangacodex.com/)
 - [Manga Properties](https://manga.properties/)
 - [MANGA Plus Top 40](https://manga.tumeo.space/) [:src:](https://github.com/williamd1k0/manga-plus-top40)
 - [MANGA Plus Views](https://mangaplustracker.github.io/) [:src:](https://github.com/MangaplusTracker/MangaplusTracker.github.io)
-- [Mannavi](https://mannavi.net/) :fjp:
+- [Mannavi](https://mannavi.net/) :ljp:
 - [Randomanga](https://randomanga.wordpress.com/) :flag-france: <Badge text="Oricon" /> 
 
 ![](/banner/calendar.webp)
@@ -135,10 +135,10 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | **Monthly** | [Anica](https://anica.jp/) :acc: |  
 | **Dub** | [Anime Dubs Release Calendar](https://teamup.com/ksdhpfjcouprnauwda) |  
 | ^^ | [Kenny Stryker’s English dublist](https://myanimelist.net/forum/?topicid=1692966) |
-| **Non-English** | [Bangumi List](https://bgmlist.com/) :fjp::fcn: [:src:](https://github.com/wxt2005/bangumi-list-v3) ==BangumiList== |  
-| ^^ | [Kansou](https://www.kansou.me/) :s: :fjp: |  
-| ^^ | [Moon Phase](https://m-p.sakura.ne.jp/) :fjp: |  
-| ^^ | [Syoboi Calendar](https://cal.syoboi.jp/) :fjp: [:rss:](https://docs.cal.syoboi.jp/spec/rss.php/) |  
+| **Non-English** | [Bangumi List](https://bgmlist.com/) :ljp::lcn: [:src:](https://github.com/wxt2005/bangumi-list-v3) ==BangumiList== |  
+| ^^ | [Kansou](https://www.kansou.me/) :s: :ljp: |  
+| ^^ | [Moon Phase](https://m-p.sakura.ne.jp/) :ljp: |  
+| ^^ | [Syoboi Calendar](https://cal.syoboi.jp/) :ljp: [:rss:](https://docs.cal.syoboi.jp/spec/rss.php/) |  
 | Others | [Blu-ray.com](https://www.blu-ray.com/movies/movies.php?genre=Anime&sortby=releasetimestamp) |
 | ^^  | [Yatta-Tachi Movie Schedule](https://yattatachi.com/2026-anime-japanese-films-coming-to-u-s-theaters-online) |
 
@@ -152,11 +152,11 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^      | [Yatta-Tachi](https://yattatachi.com/tag/releases) | 
 | Manga   | [Von's Manga Calendar](https://v0n.notion.site/Manga-297a9ad3a4904173b3a4ce319f9b2879) |
 | ^^      | [Whakoom](https://en.whakoom.com/) :fm: |
-| ^^      | [Sumikko Comic](https://comic.sumikko.info/) :s::fjp: [:rss:](https://comic.sumikko.info/rss.xml) |
+| ^^      | [Sumikko Comic](https://comic.sumikko.info/) :s::ljp: [:rss:](https://comic.sumikko.info/rss.xml) |
 | Light Novel | [RanobeDB](https://ranobedb.org/releases/calendar) :s: [:src:](https://github.com/Blastose/ranobedb) |
 | ^^      | [Light Novel Releases](https://lnrelease.github.io/) [:src:](https://github.com/LNRelease/lnrelease.github.io) |
-| ^^      | [Sumikko Novel](https://novel.sumikko.info/) :fjp: [:rss:](https://novel.sumikko.info/rss.xml) |
-| ^^      | [Sumikko Bunko](https://bunko.sumikko.info/) :fjp: [:rss:](https://bunko.sumikko.info/rss.xml) |
+| ^^      | [Sumikko Novel](https://novel.sumikko.info/) :ljp: [:rss:](https://novel.sumikko.info/rss.xml) |
+| ^^      | [Sumikko Bunko](https://bunko.sumikko.info/) :ljp: [:rss:](https://bunko.sumikko.info/rss.xml) |
 
 ### Publisher
 - [Cross Infinite World](https://www.crossinfworld.com/Calendar.html)
@@ -182,14 +182,14 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | Category | Websites |  
 |----------|----------|  
 | **Info / News** | [Anime News Network](https://www.animenewsnetwork.com/) :s: [:x:](https://x.com/anime) [:rss:](https://www.animenewsnetwork.com/newsfeed/) |  
-| ^^ | [Anime UK News](https://animeuknews.net/) :flag-united-kingdom: |  
+| ^^ | [Anime UK News](https://animeuknews.net/) :cuk: |  
 | ^^ | [Crunchyroll News](https://www.crunchyroll.com/news) [:rss:](https://www.crunchyroll.com/feed) |  
 | ^^ | [GUNDAM.INFO](https://en.gundam.info/) |  
 | ^^ | [Kanzenshuu](https://www.kanzenshuu.com/) [:rss:](https://www.kanzenshuu.com/feed/) |  
 | ^^ | [MAL News](https://myanimelist.net/news) [:x:](https://x.com/myanimelist) [:rss:](https://myanimelist.net/rss/news.xml) |  
-| ^^ | [ORICON NEWS](https://www.oricon.co.jp/) :fjp: |  
+| ^^ | [ORICON NEWS](https://www.oricon.co.jp/) :ljp: |  
 | ^^ | [Japan Anime News](https://us.oricon-group.com/) [:x:](https://x.com/JapanAnimeNews_) |  
-| ^^ | [Otaku News](https://www.otakunews.com/) :flag-united-kingdom: [:rss:](https://www.otakunews.com/Rss) |  
+| ^^ | [Otaku News](https://www.otakunews.com/) :cuk: [:rss:](https://www.otakunews.com/Rss) |  
 | **Blog / Interview** | [Anime Blog Tracker](https://aniblogtracker.app/index.php) :s: <Badge text="Aggregator" /> [:src:](https://github.com/AniBlogTracker) |  
 | ^^ | [Anime Nano](https://www.animenano.com/) <Badge text="Aggregator" /> |  
 | ^^ | [Halcyon Realms](https://halcyonrealms.com/) :s: [:rss:](https://halcyonrealms.com/subscribe/) |  
@@ -199,14 +199,14 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 
 | Category | Websites |  
 |----------|----------|  
-| **Info / News** | [Animation Business Journal](http://animationbusiness.info/) :fjp: |
+| **Info / News** | [Animation Business Journal](http://animationbusiness.info/) :ljp: |
 | ^^ | [Anime Corner](https://animecorner.me/) :s: [:x:](https://x.com/animecorner_ac) |  
-| ^^ | [Anime Freaks](https://times.abema.tv/anime) :fjp: |  
+| ^^ | [Anime Freaks](https://times.abema.tv/anime) :ljp: |  
 | ^^ | [Anime News by AIR](https://x.com/AIR_News01) :x: |  
 | ^^ | [Animenomics](https://news.animenomics.com/) :fm::sub: |  
 | ^^ | [Anitrendz](https://anitrendz.net/news/) [:x:](https://x.com/anitrendz) |  
 | ^^ | [AnimeTV](https://animetv-jp.net/) [:x:](https://x.com/animetv_jp) |  
-| ^^ | [Eiga](https://anime.eiga.com/) :fjp: |  
+| ^^ | [Eiga](https://anime.eiga.com/) :ljp: |  
 | ^^ | [English Dubbed Anime Lovers](https://english-dubbed.com/) |  
 | ^^ | [Toonami Squad](https://toonamisquad.com/) [:x:](https://x.com/ToonamiSquad) |  
 | **Blog / Interview** | [Animation Obsessive](https://animationobsessive.substack.com/) :fm::sub: [:x:](https://x.com/ani_obsessive) |  
@@ -332,7 +332,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | **General** | [3x3 Generator](https://gqgs.github.io/3x3-generator/) [:src:](https://github.com/gqgs/3x3-generator/) | :mal::al::k: |
 | ^^        | [Topsters](https://topsters.org/) | :tmdb::lstfm::igdb::iarch: |
 | **Games** | [My 9 Games](https://my9games.com/) | :igdb: |
-| **Music** | [My Top 9 Otaku Songs](https://otaku-song.pages.dev/) :fjp: | :ios: |
+| **Music** | [My Top 9 Otaku Songs](https://otaku-song.pages.dev/) :ljp: | :ios: |
 
 ### Quiz
 | Category  | Website |

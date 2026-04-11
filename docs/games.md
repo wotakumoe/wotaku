@@ -35,8 +35,8 @@ For game [**downloads**](https://megathread.pages.dev/download) and [**emulation
 
 ### News
 
-- [4Gamer](https://www.4gamer.net/) :fjp:
-- [Famitsu](https://www.famitsu.com/) :fjp:
+- [4Gamer](https://www.4gamer.net/) :ljp:
+- [Famitsu](https://www.famitsu.com/) :ljp:
 - [Frontline](https://www.frontlinejp.net/)
 - [GachaRevenue](https://revenue.ennead.cc/)
 - [Gematsu](https://www.gematsu.com/)
@@ -155,7 +155,7 @@ For game [**downloads**](https://megathread.pages.dev/download) and [**emulation
 
 ### Database / News
 - [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)
-- [Touhou Yomoyama News](https://touhou-project.news/) :fjp:
+- [Touhou Yomoyama News](https://touhou-project.news/) :ljp:
  
 ### Downloads
 - [Moriya Shrine](https://moriyashrine.org/) :s:
@@ -184,7 +184,7 @@ For game [**downloads**](https://megathread.pages.dev/download) and [**emulation
 
 | Section | Websites |
 |-|-|
-| Info / Wiki | [THB Wiki](https://thwiki.cc/) :fcn: |
+| Info / Wiki | [THB Wiki](https://thwiki.cc/) :lcn: |
 | ^^          | [Touhou Doujinshi Index](https://scarlet.nsk.sh/) [:src:](https://github.com/nanoskript/touhou-doujinshi-index) <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" /> |
 | ^^          | [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki) |
 | ^^          | [Touhou Spotify Music](https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit#gid=0) |

@@ -43,18 +43,18 @@ og:
 ## Support / Commission
 | Category | Website |
 | :--- | :--- |
-| Comission | [Art Mug](https://artmug.kr/index.php) :fkr: |
-| ^^ | [Skeb](https://skeb.jp/) :fjp: |
-| ^^ | [Skima](https://skima.jp/) :fjp: <Badge type="tip" text="Global" link="https://wskima.com/" /> |
+| Comission | [Art Mug](https://artmug.kr/index.php) :lkr: |
+| ^^ | [Skeb](https://skeb.jp/) :ljp: |
+| ^^ | [Skima](https://skima.jp/) :ljp: <Badge type="tip" text="Global" link="https://wskima.com/" /> |
 | ^^ | [VGen](https://vgen.co/) |
-| Store | [BOOTH](https://booth.pm/en) :fjp: |
-| ^^ | [Fantia](https://fantia.jp/) :fjp: |
+| Store | [BOOTH](https://booth.pm/en) :ljp: |
+| ^^ | [Fantia](https://fantia.jp/) :ljp: |
 | ^^ | [Gumroad](https://gumroad.com/) [:src:](https://github.com/antiwork/gumroad) |
 | ^^ | [INPRNT](https://www.inprnt.com/) |
-| ^^ | [Xfolio](https://xfolio.jp/) :fjp: |
+| ^^ | [Xfolio](https://xfolio.jp/) :ljp: |
 | Support | [Ko-fi](https://ko-fi.com/) |
 | ^^ | [Patreon](https://www.patreon.com/) |
-| ^^ | [pixivFANBOX](https://www.fanbox.cc/) :fjp: |
+| ^^ | [pixivFANBOX](https://www.fanbox.cc/) :ljp: |
 
 
 ## Booru

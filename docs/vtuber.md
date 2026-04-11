@@ -21,19 +21,19 @@ og:
 | ^^         | [Good VTuber Subs](https://goodvtubersubs.com/) |
 | ^^         | [Hololist](https://hololist.net/) |
 | ^^         | [ironmouse Model Index](https://www.ironmousemodelindex.com/) |
-| Stats      | [VSTATS](https://www.vstats.jp/) :fjp: |
-| ^^         | [VRabi](https://vrabi.net/) :fjp: |
+| Stats      | [VSTATS](https://www.vstats.jp/) :ljp: |
+| ^^         | [VRabi](https://vrabi.net/) :ljp: |
 | General Stats | [TwitchTracker](https://twitchtracker.com/) |
 | ^^         | [Streams Charts](https://streamscharts.com/) |
-| ^^         | [Live Streamer Ranking](https://live-ranking.userlocal.jp/vtuber-ranking) :fjp: |
-| ^^         | [Ikioi Ranking](https://ikioi-ranking.com/) :fjp: |
+| ^^         | [Live Streamer Ranking](https://live-ranking.userlocal.jp/vtuber-ranking) :ljp: |
+| ^^         | [Ikioi Ranking](https://ikioi-ranking.com/) :ljp: |
 |Schedule    | [Hololyzer](https://www.hololyzer.net/) |
-| ^^         | [Userlocal](https://virtual-youtuber.userlocal.jp/) :fjp: |
+| ^^         | [Userlocal](https://virtual-youtuber.userlocal.jp/) :ljp: |
 | ^^         | [vTubie](https://vtubie.com/) |
 | ^^         | [VTuber Schedule](https://vtuberschedules.com/) [:src:](https://github.com/clovenski/vtuber-schedules) |
-| News       | [VTuber Highlights](https://vtuber.atodeyo.com/) :fjp: |
+| News       | [VTuber Highlights](https://vtuber.atodeyo.com/) :ljp: |
 | ^^         | [VTuber Newsdrop](https://vtubernewsdrop.com/) |
-| Non-English | [VTBs in Bilibili!](https://vtbs.moe/) :fcn: [:src:](https://github.com/dd-center/vtbs.moe/) |
+| Non-English | [VTBs in Bilibili!](https://vtbs.moe/) :lcn: [:src:](https://github.com/dd-center/vtbs.moe/) |
 | ^^          | [臺灣 VTuber 列表](https://taiwanvtuberdata.github.io/) :flag-taiwan: [:src:](https://github.com/TaiwanVtuberData/TaiwanVtuberTrackingData) |
 | Others     | [Mogu](https://mogu.holopirates.moe/) |
 
@@ -55,11 +55,11 @@ og:
 | ^^          | [Hololive Livestream Activity Statistics](https://holopro-yt-livestream-activity-statistics.streamlit.app/) [:src:](https://github.com/risbi0/Hololive-Production-Livestream-Activity-Statistics) |
 | ^^          | [HoloChatStats](https://holochatstats.info/) [:src:](https://github.com/mipacd/HoloChatStats) |
 | ^^          | [Holotracker](https://trackholo.live/en/) |
-| ^^          | [Holouta Songs](https://www.youtube.com/@hololivesongs9790/) :fjp: |
+| ^^          | [Holouta Songs](https://www.youtube.com/@hololivesongs9790/) :ljp: |
 | **News**    | [aside's newsfeed](https://asideaside.github.io/feed/#/) [:src:](https://github.com/asideaside/feed) |
-| ^^          | [Hololive merch information](https://merch-matome.com/) :fjp: [:x:](https://x.com/hololive_goods) |
+| ^^          | [Hololive merch information](https://merch-matome.com/) :ljp: [:x:](https://x.com/hololive_goods) |
 | ^^          | [hololive TODAY](https://hololivetoday.com/)  |
-| ^^          | [Hololive Tsuushin](https://hololive-tsuushin.com/) :fjp: |
+| ^^          | [Hololive Tsuushin](https://hololive-tsuushin.com/) :ljp: |
 | **Others**  | [Hololive Member Sorter](https://hololive.sorter.ufal.my.id/) |
 | ^^          | [Quick Reference](https://monkonius.github.io/hololive-quick-reference/) |
 
@@ -103,7 +103,7 @@ og:
 ## Extensions
 
 - [Holodex+](https://github.com/HolodexNet/Holodex-Plus) [:cr:](https://chromewebstore.google.com/detail/holodex-plus/mjcecbpccklceljomllkhilglcdcncbh) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/holodex-plus/)
-- [HoloSongs](https://github.com/themintchoco/holosongs) [:cr:](https://chromewebstore.google.com/detail/holosongs/ipibfcnlipdkimfmajnddpboejkocplf)
+- [HoloSongs](https://github.com/themintchoco/holosongs) [:cr:](https://chromewebstore.google.com/detail/holosongs/ipiblcnlipdkimfmajnddpboejkocplf)
 - [HoloSchedule](https://github.com/YunzheZJU/holo-schedule) [:cr:](https://chromewebstore.google.com/detail/holoschedule/fjicegllhddldnnkgfefblholeegpcad) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/holo-schedule/)
 - [HyperChat](https://livetl.app/hyperchat) [:cr:](https://chromewebstore.google.com/detail/hyperchat-improved-youtub/naipgebhooiiccifflecbffmnjbabdbh) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/hyperchat/)
 - [Immersive Translate](https://immersivetranslate.com/) [:cr:](https://chromewebstore.google.com/detail/immersive-translate-trans/bpoadfkcbjbfhfodiogcnhhhpibjhbnh) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/immersive-translate/)
@@ -144,14 +144,14 @@ og:
 - [Coomfus](https://www.youtube.com/@Coomfus/) <Badge type="warning" text="Inactive"/>
 - [エビフライ / Ebihurai](https://www.youtube.com/@Ebihuraii) <Badge type="tip" text="EN" link="https://www.youtube.com/@EbihuraiIEN" />
 - [FuwaFuwa](https://youtube.com/@FuwaFuwa%E8%BB%9F%E8%B6%B4%E8%B6%B4)
-- [hikipanda](https://www.youtube.com/@hikipanda) :fkr:
+- [hikipanda](https://www.youtube.com/@hikipanda) :lkr:
 - [カイ / Kai](https://www.youtube.com/@%E3%82%AB%E3%82%A4-w3d) <Badge type="tip" text="EN" link="https://www.youtube.com/@kai_en8684/" />
 - [かたくりこ](https://www.youtube.com/@katakuriko)
 - [くまいゆうき / Kamai Yuki](https://www.youtube.com/@kumayuki55) <Badge type="tip" text="EN" link="https://www.youtube.com/@KumaiYuki_EN/" />
 - [Khelly](https://www.youtube.com/@Khelly_Ch/)
 - [もちみこ / Mochimiko](https://www.youtube.com/mochimikoJP) <Badge type="tip" text="EN" link="https://youtube.com/@mochimikoen" />
 - [もものふ&あおつき / momonofu & aotuki](https://www.youtube.com/@momonofuaotuki/) <Badge type="tip" text="EN" link="https://www.youtube.com/@momonofuen1427/" />
-- [ニコニコニコたん手描き切り抜き (Niconiconico-tan Tegaki Kirinuki)](https://www.youtube.com/@25tan_ouen_tegaki) :fjp:
+- [ニコニコニコたん手描き切り抜き (Niconiconico-tan Tegaki Kirinuki)](https://www.youtube.com/@25tan_ouen_tegaki) :ljp:
 - [noeee](https://www.youtube.com/@noeee/)
 - [Riri Zpt](https://www.youtube.com/@RiriZhepelton/)
 - [TAKERU【ANIMATION🍀】](https://www.youtube.com/@takeru.animation/)
@@ -201,7 +201,7 @@ og:
 |--------------------------------------------------------|--------|--------------------|----------------------|-----|
 | [Holo Hidden](https://store.steampowered.com/app/3904810/) | Paid | Harusaki Nodoka | toMoMI Games | holo Indie | 
 | [Holo on Suika](https://tkgames.jp/holo_watermelon.html)       | Free   | Hololive          | TKGames    | TKGames |
-| [ホロポップ (Holo Pop)](https://store.steampowered.com/app/3155810/) :fjp: | Paid | Hololive JP | HappyHoppyHappy | holo Indie |
+| [ホロポップ (Holo Pop)](https://store.steampowered.com/app/3155810/) :ljp: | Paid | Hololive JP | HappyHoppyHappy | holo Indie |
 | [HoloCafe](https://store.steampowered.com/app/3923440/) | Paid | Hololive | Kevinfu510 | holo Indie |
 | [Hologuard](https://store.steampowered.com/app/3691000/) | Paid | Hololive | illuCalab | holo Indie |
 | [Holoidle](https://store.steampowered.com/app/3543350/) | Paid | Hololive | Kindred Interactive | holo Indie |
@@ -260,7 +260,7 @@ og:
 | [ChikuTaku](https://watsonamelia.itch.io/chikutaku) | Free | Amelia Watson | CenTdemeern1 | Amelia Watson |
 | [Deadbeats Encore](https://zkfie.itch.io/deadbeat) | Free | Calliope Mori | fie | fie |
 | [Gura Tambourine](https://nullrefrepro.itch.io/gura-tambourine) | Free | Gawr Gura | nullrefrepro | nullrefrepro |
-| [HoloCall - Send Your Cheers!](https://store.steampowered.com/app/3439700/) :fjp: | Free | POV | Wei Hsu | Wei Hsu |
+| [HoloCall - Send Your Cheers!](https://store.steampowered.com/app/3439700/) :ljp: | Free | POV | Wei Hsu | Wei Hsu |
 | [Holo EN Rhythm Game](https://nullrefrepro.itch.io/hinotori-rhythm) | Free | Gawr Gura | nullrefrepro | nullrefrepro |
 | [Kizuna AI - Touch the Beat!](https://store.steampowered.com/app/2168240/) | Paid | Kizuna AI | Gemdrops, Inc. | Gemdrops, Inc. |
 
@@ -272,7 +272,7 @@ og:
 | [Hololive Councilrys RPG](https://kebbie.itch.io/councilrysrpg) | Free   | Hololive Promise  | Kebbie | Kebbie |
 | [Holo Dungeon](https://zkfie.itch.io/holo-dungeon) | Free | Amelia Watson | fie | fie |
 | [デュエホロ (DUEHOLO)](https://store.steampowered.com/app/2996280/) | Paid  | Hololive JP       | テイク  | holo Indie |
-| [狐の旅路 (Kitsune no Tabiji)](https://store.steampowered.com/app/1178050/) :fjp: | Free | Shirakami Fubuki | 狐の旅路制作组 | DZ |
+| [狐の旅路 (Kitsune no Tabiji)](https://store.steampowered.com/app/1178050/) :ljp: | Free | Shirakami Fubuki | 狐の旅路制作组 | DZ |
 | [holoVillage: Our Cozy Days](https://store.steampowered.com/app/3856280/) | TBD | Hololive | Roboqlo | holo Indie |
 | [Submerged Mystery: Takodachi](https://velveteenio.itch.io/submerged-mystery-takodachi) | Free   | Ninomae Ina'Nis  | Velveteen  | Velveteen |
 | [Super Holo Wars](https://tshadowknight.itch.io/super-holo-wars) | Free | Hololive | TShadowKnight | TShadowKnight |
@@ -292,7 +292,7 @@ og:
 |----------------------------------------------------------|---------|-----------------|------------|-----|
 | [AQUARIUM](https://www.entergram.co.jp/aquarium/)        | Paid  | Minato Aqua     | ENTERGRAM  | ENTERGRAM |
 | [Days With Ollie](https://store.steampowered.com/app/2776750/) | Paid   | Kureiji Ollie   | PT. Global | Hololive ID |
-| [Okayunyumu](https://www.entergram.co.jp/okayunyumu/) :fjp:    | Paid  | Nekomata Okayu  | ENTERGRAM  | ENTERGRAM |
+| [Okayunyumu](https://www.entergram.co.jp/okayunyumu/) :ljp:    | Paid  | Nekomata Okayu  | ENTERGRAM  | ENTERGRAM |
 | [Snowed In](https://shiorinovella.itch.io/shiorivisualnovella) | Free    | Shiori Novella  | Pending | Shiori Novella |
 
 ### Misc

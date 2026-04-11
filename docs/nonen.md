@@ -525,10 +525,10 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [GoAnime](https://github.com/alvarorichard/GoAnime) :win::cmd:
 
 ### Manga
-- [Kakusei Project](https://kakuseiproject.com/) :fjp::ero:
-- [Ler Mangas](https://lermangas.me/) :fjp::fkr::fcn::ero:
-- [Tao Sect](https://taosect.com/) :fjp::fkr::fcn::ero:
-- [Yuri on Air](https://yurionair.top/) :fjp::fkr::fcn::ero:
+- [Kakusei Project](https://kakuseiproject.com/) :ljp::ero:
+- [Ler Mangas](https://lermangas.me/) :ljp::lkr::lcn::ero:
+- [Tao Sect](https://taosect.com/) :ljp::lkr::lcn::ero:
+- [Yuri on Air](https://yurionair.top/) :ljp::lkr::lcn::ero:
 
 ### Tokusatsu
 - [DGB Catálogo](https://dgbfansub.carrd.co/)

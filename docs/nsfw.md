@@ -20,7 +20,7 @@ og:
 - [Anime Defenders](https://animedefenders.me/) <Badge type="info" text="720p" />
 - [AnimeID Hentai](https://animeidhentai.com/)
 - [Hanime](https://hanime.tv/home) <Badge type="info" text="720p" />
-- [Hanime1](https://hanime1.me/) :fjp::fcn:
+- [Hanime1](https://hanime1.me/) :ljp::lcn:
 - [Hentai.tv](https://hentai.tv/)
 - [Hentaibros](https://hentaibros.net/)
 - [Hentai AHO Streaming](https://haho.moe/)
@@ -69,17 +69,17 @@ og:
 ### Aggregator
 - [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) :ddl:
 - [Atsumaru](https://atsu.moe/) ==Atsumaru==
-- [Doujindesu](https://doujindesu.tv/) :fjp::fkr:
+- [Doujindesu](https://doujindesu.tv/) :ljp::lkr:
 - [Hentai20](https://hentai20.io/)
 - [Hiperdex](https://hiperdex.com/)
 - [Kagane](https://kagane.org/) :s: ==Kagane==
 - [Manga District](https://mangadistrict.com/) ==MangaDistrict==
 - [Manhwa18](http://manhwa18.com/)
-- [Manhwa-raw](https://manhwa-raw.com/) +:fkr:
+- [Manhwa-raw](https://manhwa-raw.com/) +:lkr:
 - [ManhwaRead](https://manhwaread.com/)
 - [Oppai](https://read.oppai.stream/) ==Oppai==
-- [RawDEX](https://rawdex.net/) :fkr:
-- [Sauce Manhwa](https://saucemanhwa.org/) +:fkr:
+- [RawDEX](https://rawdex.net/) :lkr:
+- [Sauce Manhwa](https://saucemanhwa.org/) +:lkr:
 - [Toonily](https://toonily.com/)
 - [Webtoon](https://www.webtoon.xyz/)
 
@@ -202,9 +202,9 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 ## Database / Info / Portal
 | Category | Websites |
 |-|-|
-| Database | [DOJINDB](https://dojindb.net/) :fjp: |
+| Database | [DOJINDB](https://dojindb.net/) :ljp: |
 | ^^ | [Doujinshi.info](https://www.doujinshi.info/) [:src:](https://github.com/doujinshi-info/frontend-nuxt) |
-| ^^ | [Manga-DB](https://adultcomic.dbsearch.net/) :s::fjp: |
+| ^^ | [Manga-DB](https://adultcomic.dbsearch.net/) :s::ljp: |
 | Info | [Fapservice](https://fapservice.com/) |
 | ^^   | [PornhwaDB](https://pornhwadb.com/) |
 | ^^   | [Yuri Scenes](https://yuriscenes.com/) |

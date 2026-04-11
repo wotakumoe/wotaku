@@ -58,21 +58,21 @@ Sound effects in manga visualizes the character's physical or mental state, the 
 
 The usual reading direction for manga is right to left, whereas manhwa and manhua are read left to right (like standard comics). In the case of manga, the individual panels are read right to left and top to bottom, then top again upon reaching the next page.
 
-![Sousou no Frieren :fjp: Vol. 3 (Left) & Jack Frost :fkr: Vol. 1 (right)](/glossary/panel/gnrl.webp)
+![Sousou no Frieren :ljp: Vol. 3 (Left) & Jack Frost :lkr: Vol. 1 (right)](/glossary/panel/gnrl.webp)
 
 For a spread, you can set an imaginary line based on the page number.
 
-![Black Clover :fjp: ch. 361 (2 page)](/glossary/panel/gnrlspread.webp)
+![Black Clover :ljp: ch. 361 (2 page)](/glossary/panel/gnrlspread.webp)
 
 == 4-Koma
 
 4-Koma (a.k.a. Yonkoma manga) features four panels and follows a specific pattern where every four panels lead up to a punchline. These are generally read up-down instead of the traditional right-left. The right column is always the starting column. It can be a single column or a double column. For some manga or omake, it may follow right to left a.k.a. the traditional way.
 
-![Mousou Telepathy :fjp: ch. 622 (left), Tsurezure Children :fjp: ch. 20 (center) and Komi-san wa Komyushou Desu. :fjp: ch 382 (right)](/glossary/panel/4koma.webp)
+![Mousou Telepathy :ljp: ch. 622 (left), Tsurezure Children :ljp: ch. 20 (center) and Komi-san wa Komyushou Desu. :ljp: ch 382 (right)](/glossary/panel/4koma.webp)
 
 To easily understand the reading order, you can look for the space between rows or columns. If the column has more space, then it's up to down. If otherwise, then right to left.
 
-![Tsurezure Children :fjp: ch. 20 (left) and Komi-san wa Komyushou Desu. :fjp: ch 382](/glossary/panel/4komagrid.webp)
+![Tsurezure Children :ljp: ch. 20 (left) and Komi-san wa Komyushou Desu. :ljp: ch 382](/glossary/panel/4komagrid.webp)
 
 Occasionally, panel sizes or column gaps may exhibit variations, resulting in a change in the reading direction.
 
@@ -80,7 +80,7 @@ Occasionally, panel sizes or column gaps may exhibit variations, resulting in a 
 
 At times, the beginning of a 4-Koma manga may feature a sizable illustration, spanning either half the page vertically or horizontally.
 
-![Kawaii Joushi wo Komarasetai :fjp: ch. 29, 46, 56, 62 (right to left)](/glossary/panel/4komaillust.webp)
+![Kawaii Joushi wo Komarasetai :ljp: ch. 29, 46, 56, 62 (right to left)](/glossary/panel/4komaillust.webp)
 
 == Long strip
 
@@ -105,15 +105,15 @@ A splash page is a single panel that covers the entire page and is typically res
 
 A panel/artwork that is spread out over two pages, reserved for particularly impactful moments.
 
-![One Punch-Man :fjp: ch. 155 (2-page)](/glossary/panel/spread_2.webp)
+![One Punch-Man :ljp: ch. 155 (2-page)](/glossary/panel/spread_2.webp)
 
 Another type of spread where the panel covers more than one page, but not the whole two pages.
 
-![Haikyu!! :fjp: ch. 39](/glossary/panel/spread_1andahalf.webp)
+![Haikyu!! :ljp: ch. 39](/glossary/panel/spread_1andahalf.webp)
 
 They can sometimes cover multiple pages, which is solved by having fold-outs.
 
-![Sengoku Youko :fjp: ch. 48 (5-page)](/glossary/panel/spread_5.webp)
+![Sengoku Youko :ljp: ch. 48 (5-page)](/glossary/panel/spread_5.webp)
 
 :::
 
@@ -224,30 +224,30 @@ For publisher platforms, some of the series are website-exclusive, while others 
 
 | Owner        | Platform                                                       | Genre            | Format      | Type         | Payment     |
 |--------------|-----------------------------------------------------------------|------------------|-------------|--------------|-------------|
-| Shueisha     | [Shonen Jump+](https://shonenjumpplus.com/) :fjp:               | Shounen          | Print       | Web + App    | Point       |
+| Shueisha     | [Shonen Jump+](https://shonenjumpplus.com/) :ljp:               | Shounen          | Print       | Web + App    | Point       |
 | ^^           | [Manga Plus](https://mangaplus.shueisha.co.jp/)                 | Shounen          | Print       | Web + App    | Point       |
-| ^^           | [Jump TOON](https://jumptoon.com/) :fjp:                        | Shounen          | Long-Strip  | Web + App    | Point       |
-| ^^           | [Young Jump!](https://ynjn.jp/) :fjp:                           | Seinen           | Print       | Web + App    | Point + Sub |
-| ^^           | [RimaComi+](https://rimacomiplus.jp/) :fjp:                     | Shoujo/Josei   | Print       | Web          | Point       |
-| Hakusensha   | [Manga Park](https://manga-park.com/) :fjp:					 | General 			| Print     | Web + App     | Point |
-| Kodansha     | [Pocket Magazine](https://pocket.shonenmagazine.com/) :fjp:     | General              | Print       | Web + App    | Point       |
+| ^^           | [Jump TOON](https://jumptoon.com/) :ljp:                        | Shounen          | Long-Strip  | Web + App    | Point       |
+| ^^           | [Young Jump!](https://ynjn.jp/) :ljp:                           | Seinen           | Print       | Web + App    | Point + Sub |
+| ^^           | [RimaComi+](https://rimacomiplus.jp/) :ljp:                     | Shoujo/Josei   | Print       | Web          | Point       |
+| Hakusensha   | [Manga Park](https://manga-park.com/) :ljp:					 | General 			| Print     | Web + App     | Point |
+| Kodansha     | [Pocket Magazine](https://pocket.shonenmagazine.com/) :ljp:     | General              | Print       | Web + App    | Point       |
 | ^^           | [K MANGA](https://kmanga.kodansha.com/)                         | General              | Print       | Web + App    | Point       |
-| ^^           | [Young Magazine WEB](https://yanmaga.jp/) :fjp:                 | Seinen           | Print       | Web          | Point       |
-| ^^           | [Comic Days](https://comic-days.com/) :fjp:                     | General              | Print       | Web + App    | Point       |
-| Square Enix  | [Manga UP!](https://www.manga-up.com/) :fjp:                     | General              | Print       | Web + App    | Point + Sub |
+| ^^           | [Young Magazine WEB](https://yanmaga.jp/) :ljp:                 | Seinen           | Print       | Web          | Point       |
+| ^^           | [Comic Days](https://comic-days.com/) :ljp:                     | General              | Print       | Web + App    | Point       |
+| Square Enix  | [Manga UP!](https://www.manga-up.com/) :ljp:                     | General              | Print       | Web + App    | Point + Sub |
 | ^^           | [Manga UP! Global](https://global.manga-up.com/)                 | General              | Print       | Web + App    | Point + Sub |
-| Kadokawa     | [Kadokomi](https://comic-walker.com/) :fjp:                     | General              | Print       | Web + App    | Free        |
-| Naver        | [Naver WEBTOON](https://comic.naver.com/index) :fkr:             | General              | Long-Strip  | App Focused  | Point       |
+| Kadokawa     | [Kadokomi](https://comic-walker.com/) :ljp:                     | General              | Print       | Web + App    | Free        |
+| Naver        | [Naver WEBTOON](https://comic.naver.com/index) :lkr:             | General              | Long-Strip  | App Focused  | Point       |
 | ^^           | [WEBTOON](https://www.webtoons.com/en/)  ==linew==                    | General              | Long-Strip  | App Focused  | Point       |
-| ^^           | [LINE Manga](https://manga.line.me/) :fjp:                      | General              | Long-Strip  | App Focused  | Point       |
-| ^^           | [Dongman Manhua](https://www.dongmanmanhua.cn/) :fcn:            | General              | Long-Strip  | App Focused  | Point       |
-| ^^           | [WEBTOON China](https://www.webtoons.com/zh-hant/) :fcn:          | General             | Long-Strip  | App Focused  | Point       |
-| ^^           | [Naver Series](https://series.naver.com/) :fkr:                   | General              | Both       | Web + App   | Point |
-| NHN		   | [Comico](https://www.comico.jp/) :fjp:								| General				| Long-Strip | Web + App | Point |
-| Kakao        | [KakaoPage](https://page.kakao.com/) :fkr:                       | General              | Long-Strip  | Web + App    | Point       |
-| ^^           | [KAKAO WEBTOON](https://webtoon.kakao.com/) :fkr:                | General              | Long-Strip  | Web + App    | Point       |
+| ^^           | [LINE Manga](https://manga.line.me/) :ljp:                      | General              | Long-Strip  | App Focused  | Point       |
+| ^^           | [Dongman Manhua](https://www.dongmanmanhua.cn/) :lcn:            | General              | Long-Strip  | App Focused  | Point       |
+| ^^           | [WEBTOON China](https://www.webtoons.com/zh-hant/) :lcn:          | General             | Long-Strip  | App Focused  | Point       |
+| ^^           | [Naver Series](https://series.naver.com/) :lkr:                   | General              | Both       | Web + App   | Point |
+| NHN		   | [Comico](https://www.comico.jp/) :ljp:								| General				| Long-Strip | Web + App | Point |
+| Kakao        | [KakaoPage](https://page.kakao.com/) :lkr:                       | General              | Long-Strip  | Web + App    | Point       |
+| ^^           | [KAKAO WEBTOON](https://webtoon.kakao.com/) :lkr:                | General              | Long-Strip  | Web + App    | Point       |
 | ^^           | [Tapas](https://tapas.io/)                                       | General              | Long-Strip  | Web + App    | Point       |
-| ^^           | [Piccoma](https://piccoma.com/) :fjp:                            | General              | Both        | Web + App    | Point       |
+| ^^           | [Piccoma](https://piccoma.com/) :ljp:                            | General              | Both        | Web + App    | Point       |
 
 
 ## Scanlation

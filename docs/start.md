@@ -216,9 +216,9 @@ To learn, how to add tooltips, [click here](#tooltip).
 
 | Icon | Code | Desc |
 |-|-|-|
-| :fjp: | `:fjp:` | Japan |
-| :fkr: | `:fkr:` | South Korea |
-| :fcn: | `:fcn:` | China |
+| :ljp: | `:ljp:` | Japan |
+| :lkr: | `:lkr:` | South Korea |
+| :lcn: | `:lcn:` | China |
 
 == Code
 
