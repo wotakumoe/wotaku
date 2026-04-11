@@ -34,7 +34,7 @@ og:
 | News       | [VTuber Highlights](https://vtuber.atodeyo.com/) :ljp: |
 | ^^         | [VTuber Newsdrop](https://vtubernewsdrop.com/) |
 | Non-English | [VTBs in Bilibili!](https://vtbs.moe/) :lcn: [:src:](https://github.com/dd-center/vtbs.moe/) |
-| ^^          | [臺灣 VTuber 列表](https://taiwanvtuberdata.github.io/) :flag-taiwan: [:src:](https://github.com/TaiwanVtuberData/TaiwanVtuberTrackingData) |
+| ^^          | [臺灣 VTuber 列表](https://taiwanvtuberdata.github.io/) :ltw: [:src:](https://github.com/TaiwanVtuberData/TaiwanVtuberTrackingData) |
 | Others     | [Mogu](https://mogu.holopirates.moe/) |
 
 ## Hololive
@@ -249,6 +249,7 @@ og:
 |----------------------------------------------------------------|--------|--------------------|-------------|-----------|
 | [Holo's Hanafuda](https://store.steampowered.com/app/3327640/) | Free | Hololive JP | Gemdrops, Inc. | Gemdrops, Inc. |
 | [holoReversi](https://store.steampowered.com/app/3446980/) | Paid | Hololive JP | RomanKitayama | holo Indie |
+| [KING of HOLO](https://store.steampowered.com/app/4184080/) | TBD | Hololive | テイク | holo Indie |
 | [Juufuutei Raden's Guide for Pixel Museum](https://store.steampowered.com/app/3204020/) | Paid | Juufuutei Raden | Jupiter | Jupiter |
 | [Mumei's Memory Juggling](https://david-wu-softdev.itch.io/mumeis-memory-juggling) | Free   | Nanashi Mumei     | David Wu   | David Wu |
 | [Nna-tan's Pixel Princess](https://store.steampowered.com/app/4403340/) | TBD | Himemori Luna | MOBoratory | holo Indie |

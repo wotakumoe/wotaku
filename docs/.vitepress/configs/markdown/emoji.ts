@@ -122,6 +122,7 @@ const aliasDefs: Record<string, [string, string?]> = {
   ljp: ['twemoji-flag-japan', 'Japanese'],
   lkr: ['twemoji-flag-south-korea', 'Korean'],
   lcn: ['twemoji-flag-china', 'Chinese'],
+  ltw: ['twemoji-flag-taiwan', 'Taiwanese'],
   lge: ['twemoji-flag-germany', 'German'],
   len: ['twemoji-flag-united-kingdom', 'English'],
   lru: ['twemoji-flag-russia', 'Russian'],
@@ -145,6 +146,7 @@ const aliasDefs: Record<string, [string, string?]> = {
   cban: ['twemoji-flag-bangladesh', 'Bangladesh'],
   cfr: ['twemoji-flag-france', 'France'],
   cvie: ['twemoji-flag-vietnam', 'Vietnam'],
+  cbr: ['twemoji-flag-brazil', 'Brazil'],
 
   // Social
   d: ['simple-icons-discord', 'Discord'],
