@@ -102,14 +102,14 @@ og:
 ## Others
 | Type | Website |
 | :--- | :--- |
-| Archive | [ANNEX 'Hotaru'](https://hotaru.hino-tama.com/) <Badge type="green" text="SFW" /> |
+| Archive | [ANNEX 'Hotaru'](https://hotaru.hino-tama.com/) |
 | ^^ | [Character Design References](https://characterdesignreferences.com/) :s: [:src:](https://x.com/CDReferences) |
 | ^^ | [Kemono](https://kemono.cr/) |
 | ^^ | [Nekohouse](https://nekohouse.su/) |
 | ^^ | [Settai Dreams](https://setteidreams.net/) :s: |
 | Games | [skowt.cc](https://skowt.cc/) |
 | ^^ | [The Sprite Resources](https://www.spriters-resource.com/) |
-| Wallpaper | [Anihonetwallpaper](https://anihonetwallpaper.com/) |
+| Wallpaper | [Anihonetwallpaper](https://anihonetwallpaper.com/) <Badge type="green" text="SFW" /> |
 | ^^ | [Anime Pictures](https://anime-pictures.net/) |
 | ^^ | [Frutiger Aero Archive](https://frutigeraeroarchive.org/wallpapers) |
 | ^^ | [Studio Ghibli](https://www.ghibli.jp/info/013772/) <Badge type="green" text="SFW" /> |

@@ -47,7 +47,7 @@ outline: 1
 | Websites | Login | Tracking | Sub |
 |----------|----------------|----------------------------|--------|
 | [1anime](https://1anime.app/discover) [:prx:](https://1ani.me/) ==1anime== | :yes: | :sync: | :cc::hs: |
-| [Anidap](https://anidap.se/home) ==Anidap== | :yes: | - | :cc::hs: |
+| [Anidap](https://anidap.se/home) ==Anidap== | :yes: | :ie: | :cc::hs: |
 | [Anikuro](https://anikuro.to/) [:prx:](https://anikuro.site/) ==Anikuro== | :yes: | :sync: | :cc::hs: |
 | [Anime Realms](https://www.animerealms.org/en) ==AnimeRealms== | :yes: | :sync: | :cc::hs: |
 | [AnimeX](https://animex.one/home) ==AnimeX== | :yes: | :sync: | :cc::hs: |
@@ -107,6 +107,7 @@ outline: 1
 - [Seadex](https://releases.moe/)
 - [Sneedex](https://sneedex.moe/) :ded:
 - [A Certain Fansubber's Index](https://index.fansubcar.tel/)
+- [Fansub Database](https://fansubdb.com/)
 :::
 
 ### Direct Download
