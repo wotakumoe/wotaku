@@ -1460,6 +1460,7 @@ table tr:nth-child(odd) {
   width: max-content;
   overflow: visible !important;
   margin: 0 !important;
+  margin-right: 1px !important;
 
   .col-cell { width: 34px; }
 
