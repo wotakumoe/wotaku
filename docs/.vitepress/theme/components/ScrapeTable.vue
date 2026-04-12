@@ -131,6 +131,7 @@ onMounted(() => {
 .scrape-table-outer {
   position: relative;
   margin: 16px 0;
+  background: var(--vp-c-bg);
 }
 
 .scrape-table-wrap {

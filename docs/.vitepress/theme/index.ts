@@ -19,6 +19,7 @@ import Tooltip from './components/Tooltip.vue'
 import { createMediumZoomProvider } from './composables/medium-zoom'
 import 'virtual:uno.css'
 import Feedback from './components/Feedback.vue'
+import Collapsible from './components/Collapsible.vue'
 import ScrapeTable from './components/ScrapeTable.vue'
 import Layout from './Layout.vue'
 import './styles/tooltip-hint.css'
@@ -51,6 +52,7 @@ export default {
     app.component('Authors', Authors)
     app.component('Tooltip', Tooltip)
     app.component('Feedback', Feedback)
+    app.component('Collapsible', Collapsible)
     app.component('ScrapeTable', ScrapeTable)
     createMediumZoomProvider(app, router)
     app.use(

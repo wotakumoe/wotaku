@@ -27,8 +27,7 @@ outline: 1
 | [KickassAnime](https://kaa.lt/) ==KAA== | :sup: | :yes: | :msync: | :cc: |
 | [AniZone](https://anizone.to/) ==AniZone== | :sup: | :no: | :no: | :cc: |
 
-### Scrape Sources
-
+<Collapsible title="Scrape Sources">
 <ScrapeTable :sites="[
   { name: '1anime', scrapes: { 'Animekai': 'kai & kiwi', 'Anime Nexus': 'nexus', 'Animepahe': 'pahe', 'Anitaku': 'gogo', 'Anizone': 'Zone' } },
   { name: 'Anidap', scrapes: { 'Animepahe': 'pahe', 'Anify': 'lofi', 'AniWave': 'neko', 'AnimeKai': 'ozzy', 'AniXL': 'kuro', 'AniZone': 'zone', 'HiAnime': 'yuki', 'KickassAnime': 'kami', 'Sudatchi': 'sora' } },
@@ -38,6 +37,7 @@ outline: 1
   { name: 'Animetsu', scrapes: { 'AnimeGG': 'Meg', 'AnimePahe': 'Pahe', 'AnimeZ': 'Zaza', 'HiAnime': 'Zoro' } },
   { name: 'Miruro', scrapes: { 'AnimeKai': 'arc', 'Animepahe': 'kiwi & telli', 'AnimeZ': 'jet', 'HiAnime': 'bee & bun', 'KickassAnime': 'hop & kuz' } }
 ]" />
+</Collapsible>
 
 :::details More
 

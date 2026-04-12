@@ -478,9 +478,9 @@ table tr:nth-child(odd) {
   border-color: theme("colors.carnation.800") !important;
 }
 
-.details.custom-block table tr,
-.details.custom-block table td,
-.details.custom-block table th {
+.details.custom-block table:not(.scrape-table) tr,
+.details.custom-block table:not(.scrape-table) td,
+.details.custom-block table:not(.scrape-table) th {
   border-color: theme("colors.brand.800") !important;
 }
 
@@ -1470,7 +1470,7 @@ table tr:nth-child(odd) {
   }
 
   th, td {
-    background: transparent !important;
+    background: var(--vp-c-bg) !important;
     padding: 0 !important;
     border: none !important;
   }
@@ -1489,7 +1489,7 @@ table tr:nth-child(odd) {
     height: 140px;
     background-color: var(--vp-c-bg-soft) !important;
     border-left: 1px solid var(--vp-c-divider) !important;
-    color: var(--vp-c-text-2);
+    color: var(--vp-c-text-1) !important;
     font-weight: 600;
     font-size: 13px;
     vertical-align: middle;
@@ -1500,6 +1500,7 @@ table tr:nth-child(odd) {
     vertical-align: bottom;
     height: 140px;
     text-align: center;
+    background: var(--vp-c-bg) !important;
 
     span {
       writing-mode: vertical-lr;
