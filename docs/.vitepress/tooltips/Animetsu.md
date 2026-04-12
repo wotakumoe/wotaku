@@ -1,1 +1,0 @@
-Scrapes AnimeGG (Meg), AnimePahe (Pahe), AnimeZ (Zaza), HiAnime (Zoro).

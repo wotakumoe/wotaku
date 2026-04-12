@@ -1,1 +1,0 @@
-Formerly Animated Glitched Scans and Animated Glitched Comics

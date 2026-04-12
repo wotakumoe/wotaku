@@ -1,1 +1,0 @@
-Formerly Infernal Void Scans, Void Scans and Hive toon

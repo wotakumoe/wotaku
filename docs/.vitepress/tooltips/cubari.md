@@ -1,1 +1,0 @@
-Scrapes MangaDex, Weeb Central, MangaKatana & scanlators.

@@ -1,1 +1,0 @@
-Scrapes AllManga, AnimePahe, AnimeZ, Hanime, Kuudere (ZenCloud).

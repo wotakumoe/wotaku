@@ -1,5 +1,0 @@
-- Uploads without compression
-- Best reader UI (for a web reader)
-- Uploads from various scanlation groups
-- No official translations, barring some exceptions.
-- Removes content upon DMCA takedown request, has already done so for 7000+ titles.

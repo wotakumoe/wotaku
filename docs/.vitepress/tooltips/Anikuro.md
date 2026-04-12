@@ -1,1 +1,0 @@
-Scrapes 123anime (AniX), AllAnime (AllAni), Animepahe (Pahe), Anify, AniHQ, AnimeDunya (AniD), AnimeGG (AniGG), AnimeKai (Kai), AnimeZ, AniTaku (AniT), AniZone (AniZ), HiAnime (Zoro), KickassAnime (Kaa), Kuudere (AniW), Otaku-Streamers (AniS).

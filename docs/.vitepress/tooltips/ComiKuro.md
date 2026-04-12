@@ -1,1 +1,0 @@
-Scrapes Allmanga, Atsumaru, Mangaball and Zazamanga.

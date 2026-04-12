@@ -98,7 +98,7 @@ og:
 ### Anime
 
 - **Stream**
-  - [AGE](https://www.agedm.io/) [:prx:](https://rentry.org/agefans)
+  - [AGE](https://www.agedm.io/) [:prx:](https://github.com/agefanscom/website)
   - [Bimibimi](http://www.bimiacg10.net/)
   - [MoMoVod](https://momovod.app/show/30.html)
   - [XG Cartoon](https://www.xgcartoon.com/)
