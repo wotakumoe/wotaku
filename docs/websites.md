@@ -50,8 +50,8 @@ outline: 1
 | [Anidap](https://anidap.se/home) | :yes: | :ie: | :cc::hs: |
 | [Anikuro](https://anikuro.to/) [:prx:](https://anikuro.site/) | :yes: | :sync: | :cc::hs: |
 | [Anime Realms](https://www.animerealms.org/en) | :yes: | :sync: | :cc::hs: |
-| [AnimeX](https://animex.one/home) | :yes: | :sync: | :cc::hs: |
 | [Animetsu](https://animetsu.net/) | :yes: | :ie::msync: | :cc::hs: |
+| [AnimeX](https://animex.one/home) | :yes: | :sync: | :cc::hs: |
 | [Miruro](https://www.miruro.to/) [:prx:](https://www.miruro.com) | :yes: | :sync::msync: | :cc::hs: |
 
 ### Source table
@@ -60,8 +60,8 @@ outline: 1
   { name: 'Anidap', scrapes: { 'Animepahe': 'pahe', 'Anify': 'lofi', 'AniWave': 'neko', 'AnimeKai': 'ozzy', 'AniZone': 'zone', 'HiAnime': 'yuki', 'KickassAnime': 'kami', 'Sudatchi': 'sora' } },
   { name: 'Anikuro', scrapes: { '123anime': 'AniX', 'AllManga': 'AllAni', 'AnimeGG': 'AniGG', 'AnimeKai': 'Kai', 'AnimeZ': '', 'AniZone': 'AniZ', } },
   { name: 'AnimeRealms', scrapes: { 'AllManga': '','KickassAnime': '', 'AnimeZ': ''} },
-  { name: 'AnimeX', scrapes: { 'Animepahe': 'pahe', 'Anify': 'lofi', 'AniWave': 'neko', 'AnimeKai': 'ozzy', 'AniZone': 'zone', 'HiAnime': 'yuki', 'KickassAnime': 'kami', 'Sudatchi': 'sora' } },
   { name: 'Animetsu', scrapes: { 'AnimeGG': 'Meg', 'AnimePahe': 'Pahe', 'AnimeZ': 'Zaza', 'HiAnime': 'Zoro' } },
+  { name: 'AnimeX', scrapes: { 'AnimeZ': 'maze', 'Anitaku': 'gogo', 'AnimeKai': 'kiwi', 'HiAnime': 'koto, yuki & nuri', 'KickassAnime': 'kami', 'AnimeOnsen': 'vee' } },
   { name: 'Miruro', scrapes: { 'AnimeKai': 'arc', 'Animepahe': 'kiwi & telli', 'AnimeZ': 'jet', 'HiAnime': 'bee & bun', 'KickassAnime': 'hop & kuz' } }
 ]" />
 </Collapsible>
