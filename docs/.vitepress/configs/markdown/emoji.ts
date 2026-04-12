@@ -178,7 +178,7 @@ const aliasDefs: Record<string, [string, string?]> = {
   ero: ['twemoji-no-one-under-eighteen', 'R18'],
   acc: ['material-symbols-person-add', 'Needs account'],
   rss: ['simple-icons-rss', 'RSS Feed'],
-  prx: ['material-symbols-directions-alt', 'Proxy / Mirror websites'],
+  prx: ['material-symbols-directions-alt', 'Proxies / Mirrors'],
   tf: ['mdi-airplane', 'Testflight'],
   more: ['mdi-arrow-right-bold', 'Related'],
   help: ['material-symbols-help', 'Help / Docs'],

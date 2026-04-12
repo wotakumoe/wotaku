@@ -116,7 +116,7 @@ outline: 1
 - [Seadex](https://releases.moe/)
 - [Sneedex](https://sneedex.moe/) :ded:
 - [A Certain Fansubber's Index](https://index.fansubcar.tel/)
-- [Fansub Database](https://fansubdb.com/)
+- [The Fansub Database](https://fansubdb.com/)
 :::
 
 ### Direct Download
