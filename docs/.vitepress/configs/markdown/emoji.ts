@@ -73,9 +73,9 @@ const aliasDefs: Record<string, [string, string?]> = {
 
   // Type
   strm: ['material-symbols-play-circle-outline', 'Stream'],
-  ddl: ['material-symbols-cloud-download-outline-rounded', 'Direct Download'],
-  mag: ['lucide-magnet', 'Torrent / p2p Donwload'],
-  usnt: ['material-symbols-newspaper-rounded', 'Usenet'],
+  ddl: ['material-symbols-cloud-download-outline-rounded', 'Direct / HTTP(S) Download'],
+  mag: ['lucide-magnet', 'Torrent / Magnet Download'],
+  usnt: ['material-symbols-newspaper-rounded', 'Usenet / NZB download'],
   lcl: ['iconoir-floppy-disk', 'Local file'],
   batch: ['material-symbols-package-2-outline', 'Batch Download'],
 
@@ -83,7 +83,7 @@ const aliasDefs: Record<string, [string, string?]> = {
   // Manga & Anime
   sync: ['material-symbols-sync', 'Built-in sync system w/ Tracker(s)'],
   msync: ['material-symbols-rule-settings-rounded', 'Sync using MAL-Sync'],
-  ie: ['material-symbols-sync-alt-rounded', 'Import / Export'],
+  ie: ['mingcute-transfer-2-fill', 'Import / Export'],
   cmnt: ['ic-round-mode-comment', 'Comment section'],
   frm: ['ic-round-forum', 'Forum'],
 
@@ -109,6 +109,17 @@ const aliasDefs: Record<string, [string, string?]> = {
   tmdb: ['simple-icons-themoviedatabase', 'TMDB'],
   lstfm: ['simple-icons-lastdotfm', 'Lastfm'],
   igdb: ['simple-icons-igdb', 'IGDB'],
+
+  // Social
+  d: ['simple-icons-discord', 'Discord'],
+  f: ['simple-icons-4chan', '4chan'],
+  x: ['simple-icons-twitter', 'Twitter'],
+  tg: ['simple-icons-telegram', 'Telegram'],
+  vk: ['simple-icons-vk', 'VK'],
+
+  // Other Websites
+  steam: ['simple-icons-steam', 'Steam'],
+  gog: ['mdi-gog', 'GOG'],
   iarch: ['simple-icons-internetarchive', 'Internet Archive'],
 
   // Price
@@ -151,16 +162,6 @@ const aliasDefs: Record<string, [string, string?]> = {
   cvie: ['twemoji-flag-vietnam', 'Vietnam'],
   cbr: ['twemoji-flag-brazil', 'Brazil'],
 
-  // Social
-  d: ['simple-icons-discord', 'Discord'],
-  f: ['simple-icons-4chan', '4chan'],
-  x: ['simple-icons-twitter', 'Twitter'],
-  tg: ['simple-icons-telegram', 'Telegram'],
-  vk: ['simple-icons-vk', 'VK'],
-
-  // Other Websites
-  steam: ['simple-icons-steam', 'Steam'],
-  gog: ['mdi-gog', 'GOG'],
 
   // Storage
   sgd: ['simple-icons-googledrive', 'Google Drive'],
