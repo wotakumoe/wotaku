@@ -473,10 +473,11 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | Software | Platform |
 | :--- | :--- |
 | [Chrome Lens OCR](https://github.com/dimdenGD/chrome-lens-ocr) | :mdi-npm-variant: |
-| [OwOCR](https://github.com/AuroraWright/owocr) | :win::app::py: |
 | [Game Sentence Miner](https://github.com/bpwhelan/GameSentenceMiner) | :win::app::lin: |
 | [Manga OCR](https://github.com/kha-white/manga-ocr) | :py: |
+| [Meikipop](https://github.com/rtr46/meikipop) | :py: |
 | [Mokuro](https://github.com/kha-white/mokuro) | :py: |
+| [OwOCR](https://github.com/AuroraWright/owocr) | :py: |
 | [Poricom](https://github.com/blueaxis/Poricom) | :win: |
 
 ::: details More
