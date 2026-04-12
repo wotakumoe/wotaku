@@ -46,13 +46,13 @@ outline: 1
 ### Scrapers
 | Websites | Login | Tracking | Sub |
 |----------|----------------|----------------------------|--------|
-| [1anime](https://1anime.app/discover) [:prx:](https://1ani.me/) ==1anime== | :yes: | :sync: | :cc::hs: |
-| [Anidap](https://anidap.se/home) ==Anidap== | :yes: | :ie: | :cc::hs: |
-| [Anikuro](https://anikuro.to/) [:prx:](https://anikuro.site/) ==Anikuro== | :yes: | :sync: | :cc::hs: |
-| [Anime Realms](https://www.animerealms.org/en) ==AnimeRealms== | :yes: | :sync: | :cc::hs: |
-| [AnimeX](https://animex.one/home) ==AnimeX== | :yes: | :sync: | :cc::hs: |
-| [Animetsu](https://animetsu.net/) ==Animetsu== | :yes: | :ie::msync: | :cc::hs: |
-| [Miruro](https://www.miruro.to/) [:prx:](https://www.miruro.com) ==miruro== | :yes: | :sync::msync: | :cc::hs: |
+| [1anime](https://1anime.app/discover) [:prx:](https://1ani.me/) | :yes: | :sync: | :cc::hs: |
+| [Anidap](https://anidap.se/home) | :yes: | :ie: | :cc::hs: |
+| [Anikuro](https://anikuro.to/) [:prx:](https://anikuro.site/) | :yes: | :sync: | :cc::hs: |
+| [Anime Realms](https://www.animerealms.org/en) | :yes: | :sync: | :cc::hs: |
+| [AnimeX](https://animex.one/home) | :yes: | :sync: | :cc::hs: |
+| [Animetsu](https://animetsu.net/) | :yes: | :ie::msync: | :cc::hs: |
+| [Miruro](https://www.miruro.to/) [:prx:](https://www.miruro.com) | :yes: | :sync::msync: | :cc::hs: |
 
 ### Source table
 <ScrapeTable :sites="[
@@ -165,7 +165,7 @@ outline: 1
 | [Atsumaru](https://atsu.moe/) ==Atsumaru== | :msync: | :ps: | :sp::dp::ls: | :cmnt: |
 | [MangaFire](https://mangafire.to/home) ==MangaFire== | :ie::msync: | :ss: | :sp::dp::ls: | :no: |
 
-::: details More
+<Collapsible title="More">
 
 ### Self-uploaded
 | Websites | Tracking | Sources | Reading mode | Social |
@@ -184,11 +184,20 @@ outline: 1
 ### Scrapers
 | Websites | Tracking | Sources | Reading mode | Social |
 |----------|----------|---------|--------------|--------|
-| [Akari Manga](https://akarimanga.dpdns.org/) [:src:](https://github.com/sn0w12/akari) ==akari== | :sync: | :ps: | :sp::ls: | :cmnt: |
-| [ComiKuro](https://comikuro.to/) ==ComiKuro== | :ie: | :ps: | :sp::dp::ls: | :cmnt: |
-| [Cubari Proxy](https://proxy.cubari.moe/#/) ==cubari== | :msync: | :ms: | :sp::dp::ls: | :no: |
-| [Vidbox](https://vidbox.cc/manga) ==vidbox== | :no: | :ss: | :lsg: | :no: |
-:::
+| [Akari Manga](https://akarimanga.dpdns.org/) [:src:](https://github.com/sn0w12/akari) | :sync: | :ps: | :sp::ls: | :cmnt: |
+| [ComiKuro](https://comikuro.to/) | :ie: | :ps: | :sp::dp::ls: | :cmnt: |
+| [Cubari Proxy](https://proxy.cubari.moe/#/)  | :msync: | :ms: | :sp::dp::ls: | :no: |
+| [Vidbox](https://vidbox.cc/manga)  | :no: | :ss: | :lsg: | :no: |
+
+### Source Table
+<ScrapeTable :sites="[
+  { name: 'Akari Manga', scrapes: { 'Atsumaru': '' } },
+  { name: 'ComiKuro', scrapes: { 'Allmanga': '', 'Atsumaru': '', 'Mangaball': '', 'Zazamanga': '' } },
+  { name: 'Cubari Proxy', scrapes: { 'MangaDex': '', 'Weeb Central': '', 'MangaKatana': '', 'Guya': '', 'AssortedScans': '', 'DankeFarsLesen': '' } },
+  { name: 'Vidbox', scrapes: { 'MangaFire': '' } }
+]" />
+
+</Collapsible>
 
 ::: tip Kaguya
 To make the cubari process easier, we have made [Kaguya](https://github.com/wotakumoe/kaguya) for [Cubari](https://cubari.moe/). It can batch upload manga chapters on Imgchest and generate full JSON. Full guide [here](/guides/manga/cubari).
