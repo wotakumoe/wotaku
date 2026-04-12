@@ -19,6 +19,7 @@ import Tooltip from './components/Tooltip.vue'
 import { createMediumZoomProvider } from './composables/medium-zoom'
 import 'virtual:uno.css'
 import Feedback from './components/Feedback.vue'
+import ScrapeTable from './components/ScrapeTable.vue'
 import Layout from './Layout.vue'
 import './styles/tooltip-hint.css'
 import './styles/steps.css'
@@ -50,6 +51,7 @@ export default {
     app.component('Authors', Authors)
     app.component('Tooltip', Tooltip)
     app.component('Feedback', Feedback)
+    app.component('ScrapeTable', ScrapeTable)
     createMediumZoomProvider(app, router)
     app.use(
       NolebasePagePropertiesPlugin<{ tags: string[]; progress: number }>(),

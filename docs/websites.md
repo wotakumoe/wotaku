@@ -27,6 +27,18 @@ outline: 1
 | [KickassAnime](https://kaa.lt/) ==KAA== | :sup: | :yes: | :msync: | :cc: |
 | [AniZone](https://anizone.to/) ==AniZone== | :sup: | :no: | :no: | :cc: |
 
+### Scrape Sources
+
+<ScrapeTable :sites="[
+  { name: '1anime', scrapes: { 'Animekai': 'kai & kiwi', 'Anime Nexus': 'nexus', 'Animepahe': 'pahe', 'Anitaku': 'gogo', 'Anizone': 'Zone' } },
+  { name: 'Anidap', scrapes: { 'Animepahe': 'pahe', 'Anify': 'lofi', 'AniWave': 'neko', 'AnimeKai': 'ozzy', 'AniXL': 'kuro', 'AniZone': 'zone', 'HiAnime': 'yuki', 'KickassAnime': 'kami', 'Sudatchi': 'sora' } },
+  { name: 'Anikuro', scrapes: { '123anime': '', 'AniX': '', 'AllAnime': 'AllAni', 'Animepahe': 'Pahe', 'Anify': '', 'AniHQ': '', 'AnimeDunya': 'AniD', 'AnimeGG': 'AniGG', 'AnimeKai': 'Kai', 'AnimeZ': '', 'AniTaku': 'AniT', 'AniZone': 'AniZ', 'HiAnime': 'Zoro', 'KickassAnime': 'Kaa', 'Kuudere': 'AniW', 'Otaku-Streamers': 'AniS' } },
+  { name: 'AnimeRealms', scrapes: { 'AllManga': '', 'AnimePahe': '', 'AnimeZ': '', 'Hianime': '', 'Kuudere': 'ZenCloud' } },
+  { name: 'AnimeX', scrapes: { 'Animepahe': 'pahe', 'Anify': 'lofi', 'AniWave': 'neko', 'AnimeKai': 'ozzy', 'AniXL': 'kuro', 'AniZone': 'zone', 'HiAnime': 'yuki', 'KickassAnime': 'kami', 'Sudatchi': 'sora' } },
+  { name: 'Animetsu', scrapes: { 'AnimeGG': 'Meg', 'AnimePahe': 'Pahe', 'AnimeZ': 'Zaza', 'HiAnime': 'Zoro' } },
+  { name: 'Miruro', scrapes: { 'AnimeKai': 'arc', 'Animepahe': 'kiwi & telli', 'AnimeZ': 'jet', 'HiAnime': 'bee & bun', 'KickassAnime': 'hop & kuz' } }
+]" />
+
 :::details More
 
 ### Self-uploaded
