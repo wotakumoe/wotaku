@@ -56,7 +56,7 @@ outline: 1
 
 ### Source table
 <ScrapeTable :sites="[
-  { name: '1anime', scrapes: { 'Animekai': 'kai & kiwi', 'Anime Nexus': 'nexus', 'Animepahe': 'pahe', 'Anitaku': 'gogo', 'Anizone': 'Zone' } },
+  { name: '1anime', scrapes: { 'Animekai': 'kai & kiwi', 'Anime Nexus': 'nexus', 'Animepahe': 'pahe', 'Anitaku': 'gogo', 'Kuudere': 'Zen', 'Anizone': 'Zone' } },
   { name: 'Anidap', scrapes: { 'Animepahe': 'pahe', 'Anify': 'lofi', 'AniWave': 'neko', 'AnimeKai': 'ozzy', 'AniZone': 'zone', 'HiAnime': 'yuki', 'KickassAnime': 'kami', 'Sudatchi': 'sora' } },
   { name: 'Anikuro', scrapes: { '123anime': 'AniX', 'AllManga': 'AllAni', 'AnimeGG': 'AniGG', 'AnimeKai': 'Kai', 'AnimeZ': '', 'AniZone': 'AniZ', } },
   { name: 'AnimeRealms', scrapes: { 'AllManga': '','KickassAnime': '', 'AnimeZ': ''} },
