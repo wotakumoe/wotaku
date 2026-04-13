@@ -118,7 +118,7 @@ outline: 1
 - [Seadex](https://releases.moe/)
 - [Sneedex](https://sneedex.moe/) :ded:
 - [A Certain Fansubber's Index](https://index.fansubcar.tel/)
-- [The Fansub Database](https://fansubdb.com/)
+- [aniDB](https://anidb.net/) :acc:
 :::
 
 ### Direct Download
@@ -240,7 +240,7 @@ To make the cubari process easier, we have made [Kaguya](https://github.com/wota
 | ^^           | [Internet Archive](https://archive.org/) |
 | **Rippers**  | [1r0n](https://nyaa.si/user/tsuna69) <tooltip>DDL in torrent description</tooltip> |
 | ^^           | [4str0](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) |
-| ^^           | [Danke](https://desuarchive.org/_/search/text/(digital)%20(danke-empire)/) |
+| ^^           | [Danke](https://desuarchive.org/_/search/text/(digital)%20(danke-empire)/) :ded: |
 | ^^           | [LuCaZ](https://nyaa.si/user/LuCaZ) <tooltip>DDL in torrent description</tooltip> |
 | ^^           | [Stick](https://nyaa.si/user/dumbboy58) <tooltip>DDL in torrent description</tooltip> |
 | ^^           | [XRA](https://desuarchive.org/_/search/text/(digital)%20(xra-empire)/) <Badge type="tip" text="Old Releases" link="https://rentry.org/wotadirect#websites" /> |
