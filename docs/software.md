@@ -66,7 +66,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/ext/mih
 | :--- | :--- |
 | Mihon | [Link](/ext/mihon#manga) |
 | Mangayomi | [Link](/ext/mangayomi#manga) |
-| Kotatsu | [Link](https://github.com/YakaTeam/repository) |
+| Kotatsu | [Link](/ext/misc#kotatsu) |
 :::
 
 ![Tachiyomi forks flowchart](/diagram/tachi.svg)

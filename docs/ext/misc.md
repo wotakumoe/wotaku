@@ -32,12 +32,6 @@ og:
 - Paste the URL in **Repository URL or Shortcode** (It should auto-paste the URL)
 - Click **Add repository**
 
-
-## Legado
-| Name | Region | Auto | Manual |
-| - | - | - | - |
-| [rektpartyaftermath](https://github.com/rektpartyaftermath/Legado-booksource-collection) | :len: | [Install](legado://import/bookSource?src=https://raw.githubusercontent.com/rektpartyaftermath/Legado-booksource-collection/main/AllBooksource.json) | [URL](https://raw.githubusercontent.com/rektpartyaftermath/Legado-booksource-collection/main/AllBooksource.json) |
-
 ## Hayase
 | Type | Manual |
 |-|-|
@@ -45,6 +39,18 @@ og:
 | Dub | [URL](https://exten.pages.dev/dub/index.json) |
 | Multi-Subs | [URL](https://exten.pages.dev/multi/index.json) |
 | Hentai | [URL](https://exten.pages.dev/hentai/index.json) |
+
+## Kotatsu
+- [Yakateam](https://github.com/YakaTeam/repository) [:src:](https://github.com/YakaTeam/kotatsu-parsers)
+
+::: info duck note
+i am so tired of this shit lol. every forks work differently. just use mihon or its forks.
+:::
+
+## Legado
+| Name | Region | Auto | Manual |
+| - | - | - | - |
+| [rektpartyaftermath](https://github.com/rektpartyaftermath/Legado-booksource-collection) | :len: | [Install](legado://import/bookSource?src=https://raw.githubusercontent.com/rektpartyaftermath/Legado-booksource-collection/main/AllBooksource.json) | [URL](https://raw.githubusercontent.com/rektpartyaftermath/Legado-booksource-collection/main/AllBooksource.json) |
 
 ## LNReader
 | Name | Region | Auto | Manual |
