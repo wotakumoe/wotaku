@@ -50,7 +50,7 @@ outline: 1
 | [Anidap](https://anidap.se/home) | :yes: | :ie: | :cc::hs: |
 | [Anikuro](https://anikuro.to/) [:prx:](https://anikuro.site/) | :yes: | :sync: | :cc::hs: |
 | [Anime Realms](https://www.animerealms.org/en) | :yes: | :sync: | :cc::hs: |
-| [Animetsu](https://animetsu.net/) | :yes: | :ie::msync: | :cc::hs: |
+| [Animetsu](https://animetsu.net/) [:prx:](https://rentry.org/wotaxy#animetsu) | :yes: | :ie::msync: | :cc::hs: |
 | [AnimeX](https://animex.one/home) | :yes: | :sync: | :cc::hs: |
 | [Miruro](https://www.miruro.to/) [:prx:](https://www.miruro.com) | :yes: | :sync::msync: | :cc::hs: |
 
@@ -446,6 +446,7 @@ These sites contain a mix of both actual and AI-generated novels.
 - [Official Yu-Gi-Oh!](https://www.youtube.com/@yugioh)
 - [Pokémon TV](https://www.youtube.com/@OfficialPoke%CC%81monTV)
 - [TMS Official](https://www.youtube.com/@AnimeonTMSOfficialChannel)
+- [Tropics Anime Asia](https://www.youtube.com/@TropicsAnimeAsia)
 - [Valerian & Laureline US](https://www.youtube.com/@valerianlaurelineenglishof984) <Badge type="tip" text="FR" link="https://www.youtube.com/@valerianlaurelineofficiel9316" />
 
 ::: info Content availability

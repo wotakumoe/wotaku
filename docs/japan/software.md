@@ -94,8 +94,8 @@ ___
 ___
 #### iOS
 - [Kantan Manga](https://apps.apple.com/us/app/kantan-manga/id1518666365)
-- [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380)
 - [Shiori Reader](https://apps.apple.com/us/app/shiori-reader/id6744979827)
+- [Shirabe Jisho](https://ricoapps.com/) [:ios:](https://apps.apple.com/us/app/shirabe-jisho/id1005203380)
 
 ### Learning
 
