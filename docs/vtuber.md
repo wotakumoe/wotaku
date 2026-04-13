@@ -42,8 +42,10 @@ og:
 | Category      | Name & Link |
 |---------------|-------------|
 | **Fan Projects** | [ENreco Archive](https://enreco-archive.net/#0/0) |
+| ^^           | [HoloCalender](https://calendar.holofun.net/) |
 | ^^           | [HoloEN Fan Website](https://holoen.fans/en) [:src:](https://github.com/GoldElysium/hef-website) ==hef== |
 | ^^           | [Hololive Fan Wiki](https://hololive.wiki/wiki/Main_Page) |
+| ^^           | [Immerhate Archive](https://immerhate.holofun.net/) |
 | ^^           | [Inaversary](https://otako.fans/) |
 | ^^           | [Mumei Soundboard](https://mumei-cute.com/) |
 | ^^           | [Musicdex](https://music.holodex.net/) :s: [:src:](https://github.com/HolodexNet/Musicdex) |
