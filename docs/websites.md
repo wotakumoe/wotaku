@@ -48,6 +48,7 @@ outline: 1
 |----------|----------------|----------------------------|--------|
 | [1anime](https://1anime.app/discover) [:prx:](https://1ani.me/) | :yes: | :sync: | :cc::hs: |
 | [Anidap](https://anidap.se/home) | :yes: | :ie: | :cc::hs: |
+| [Anikage](https://anikage.cc/home) | :yes: | :sync: | :cc::hs: |
 | [Anikuro](https://anikuro.to/) [:prx:](https://anikuro.site/) | :yes: | :sync: | :cc::hs: |
 | [Anime Realms](https://www.animerealms.org/en) | :yes: | :sync: | :cc::hs: |
 | [Animetsu](https://animetsu.net/) [:prx:](https://rentry.org/wotaxy#animetsu) | :yes: | :ie::msync: | :cc::hs: |
@@ -56,13 +57,14 @@ outline: 1
 
 ### Source table
 <ScrapeTable :sites="[
-  { name: '1anime', scrapes: { 'Animekai': 'kai & kiwi', 'Anime Nexus': 'nexus', 'Animepahe': 'pahe', 'Anitaku': 'gogo', 'Kuudere': 'Zen', 'Anizone': 'Zone' } },
-  { name: 'Anidap', scrapes: { 'AnimeZ': 'maze', 'Anitaku': 'gogo', 'AnimeKai': 'kiwi', 'HiAnime': 'koto, yuki & nuri', 'KickassAnime': 'kami', 'AnimeOnsen': 'vee' } },
+  { name: '1anime', scrapes: { 'AnimeKai': 'kai & kiwi', 'Anime Nexus': 'nexus', 'AnimePahe': 'pahe', 'Anitaku': 'gogo', 'Kuudere': 'Zen', 'AniZone': 'Zone' } },
+  { name: 'Anidap', scrapes: { 'AnimeZ': 'maze', 'Anitaku': 'gogo', 'AnimeKai': 'kiwi', 'HiAnime': 'koto, yuki & nuri', 'KickAssAnime': 'kami', 'AnimeOnsen': 'vee' } },
+  { name: 'Anikage', scrapes: { 'AnimeOnsen': 'vee', 'AnimeZ': 'maze', 'AnimePahe': 'Pahe', 'HiAnime': 'Vidnest' } },
   { name: 'Anikuro', scrapes: { '123anime': 'AniX', 'AllManga': 'AllAni', 'AnimeGG': 'AniGG', 'AnimeKai': 'Kai', 'AnimeZ': '', 'AniZone': 'AniZ', } },
-  { name: 'AnimeRealms', scrapes: { 'AllManga': '','KickassAnime': '', 'AnimeZ': ''} },
+  { name: 'AnimeRealms', scrapes: { 'AllManga': '','KickAssAnime': '', 'AnimeZ': ''} },
   { name: 'Animetsu', scrapes: { 'AnimeGG': 'Meg', 'AnimePahe': 'Pahe', 'AnimeZ': 'Zaza', 'HiAnime': 'Zoro' } },
-  { name: 'AnimeX', scrapes: { 'AnimeZ': 'maze', 'Anitaku': 'gogo', 'AnimeKai': 'kiwi', 'HiAnime': 'koto, yuki & nuri', 'KickassAnime': 'kami', 'AnimeOnsen': 'vee' } },
-  { name: 'Miruro', scrapes: { 'AnimeKai': 'arc', 'Animepahe': 'kiwi & telli', 'AnimeZ': 'jet', 'HiAnime': 'bee & bun', 'KickassAnime': 'hop & kuz' } }
+  { name: 'AnimeX', scrapes: { 'AnimeZ': 'maze', 'Anitaku': 'gogo', 'AnimeKai': 'kiwi', 'HiAnime': 'koto, yuki & nuri', 'KickAssAnime': 'kami', 'AnimeOnsen': 'vee' } },
+  { name: 'Miruro', scrapes: { 'AnimeKai': 'arc', 'AnimePahe': 'kiwi & telli', 'AnimeZ': 'jet', 'HiAnime': 'bee & bun', 'KickAssAnime': 'hop & kuz' } }
 ]" />
 </Collapsible>
 
