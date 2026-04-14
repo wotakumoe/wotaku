@@ -302,8 +302,6 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [Sprout Anime Recommender](https://anime.ameo.dev/) :s::mal::al: |
 | Manga | [Mitsukeru](https://mitsukeru.timschneeberger.me/) [:src:](https://github.com/timschneeb/Mitsukeru) :al: |
 | Visual Novel | [VNDB](https://vndb.org/v?f=022gja3gja&s=34w) |
-| ^^ | [Starter pack](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub) |
-| ^^ | [VN-chart by difficulty](https://anacreondjt.gitlab.io/vn-chart/) |
 | ^^ | [r/Visualnovels](https://sites.google.com/view/rvisualnovels-recs/home) |
 | ^^ | [r/VN's 2018](https://vnrecs.github.io/) |
 | ^^ | [What are you reading?](https://some-guy.org/vnswayrarchive/recommendations) |

@@ -7,31 +7,23 @@ og:
     image: https://i.wotaku.wiki/f/jp.png
 ---
 
-## Guides
+## Recommendations
 
-### General
-
-- [Jiten's difficulty list](https://jiten.moe/decks/media?sortBy=difficulty)
-- [jpdb's difficulty lists](https://jpdb.io/)
-- [Kuri's Japanese Media Recommendations](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/edit#gid=1019246469)
-- [Jo-Mako's Japanese Spreadsheet](https://docs.google.com/spreadsheets/d/1IytlD4JjYO5-38wP6VbFNjHQDaDEsx4WWi2Rs-gaamk/htmlview#gid=482897207)
-- [Learn Natively](https://learnnatively.com/)
-- [Game Gengo's Games for Studying Japanese](https://docs.google.com/spreadsheets/u/0/d/14TKRFvnDmBsgfxCJzkaNKTKmx4qDcsv7QSmfyzIKxQ4/htmlview#gid=0)
-- [Perdition](https://perdition-japanese.github.io/posts/how-to-study-japanese/#step-1-h--immersion-optional)
-- [Acquiring Japanese Efficiently](https://docs.google.com/document/d/1LH82FjsCqCgp6-TFqUcS_EB15V7sx7O1VCjREp6Lexw/edit#heading=h.ct5zhbvvh3b8)
-
-### Light Novels
-- [Moeclub LN Recommendations](https://bookmeter.com/users/1313898/)
-
-### Visual Novels
-- [VN Club](https://vnclub.org/)
-- [List of starter Japanese Media](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub)
-- [r/Visualnovels](https://sites.google.com/view/rvisualnovels-recs/home)
-- [r/VN's 2018](https://vnrecs.github.io/)
-- [VN-chart by difficulty](https://anacreondjt.gitlab.io/vn-chart/)
-- [VNDB Ranking](https://vndb.org/v?f=022gja3gja&s=34w)
-- [VN Difficulty List 2.0 (by Chronopolize)](https://docs.google.com/spreadsheets/d/18vCgQHhBNBeRJdcTcyUi2Atq-nAapQW--33qrwl5Yfw/edit?gid=0#gid=0)
-- [What are you reading?](https://some-guy.org/vnswayrarchive/recommendations)
+| Category | Resources |
+| :--- | :--- |
+| General | [Jiten](https://jiten.moe/decks/media?sortBy=difficulty) |
+| ^^ | [jpdb](https://jpdb.io/) |
+| ^^ | [Kuri](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/edit#gid=1019246469) |
+| ^^ | [Jo-Mako](https://docs.google.com/spreadsheets/d/1IytlD4JjYO5-38wP6VbFNjHQDaDEsx4WWi2Rs-gaamk/htmlview#gid=482897207) |
+| ^^ | [Learn Natively](https://learnnatively.com/) |
+| ^^ | [Perdition](https://perdition-japanese.github.io/posts/how-to-study-japanese/#step-1-h--immersion-optional) |
+| ^^ | [Acquiring Japanese Efficiently](https://docs.google.com/document/d/1LH82FjsCqCgp6-TFqUcS_EB15V7sx7O1VCjREp6Lexw/edit#heading=h.ct5zhbvvh3b8) |
+| Visual Novels | [VN Club](https://vnclub.org/) |
+| ^^ | [List of starter Japanese Media](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub) |
+| ^^ | [Jamal](https://anacreondjt.gitlab.io/vn-chart/) |
+| ^^ | [Chronopolize](https://docs.google.com/spreadsheets/d/18vCgQHhBNBeRJdcTcyUi2Atq-nAapQW--33qrwl5Yfw/edit?gid=0#gid=0) |
+| Light Novels | [Moeclub](https://bookmeter.com/users/1313898/) |
+| Video Games | [Game Gengo](https://docs.google.com/spreadsheets/u/0/d/14TKRFvnDmBsgfxCJzkaNKTKmx4qDcsv7QSmfyzIKxQ4/htmlview#gid=0) |
 
 
 ## Anime
