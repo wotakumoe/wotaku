@@ -41,7 +41,7 @@ og:
 | Hentai | [URL](https://exten.pages.dev/hentai/index.json) |
 
 ## Kotatsu
-- [Yakateam](https://github.com/YakaTeam/repository) [:src:](https://github.com/YakaTeam/kotatsu-parsers)
+- [Mochi](https://github.com/mochi-plugins/repository)
 
 ::: info duck note
 i am so tired of this shit lol. every forks work differently. just use mihon or its forks.
