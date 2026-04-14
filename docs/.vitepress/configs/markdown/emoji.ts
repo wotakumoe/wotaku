@@ -49,36 +49,36 @@ const emojis: { pack: IconifyJSON; prefix?: string }[] = [
 // Label is optional — omit for icons that don't need a tooltip.
 const aliasDefs: Record<string, [string, string?]> = {
  
-  // System
+  // Operating System
   and: ['simple-icons-android', 'Android'],
   ios: ['simple-icons-apple', 'iOS / iPadOS'],
   win: ['simple-icons-windows', 'Windows'],
   app: ['ri-finder-fill', 'MacOS'],
   lin: ['simple-icons-linux', 'Linux'],
   bsd: ['simple-icons-freebsd', 'BSD'],
-  dock: ['simple-icons-docker', 'Docker'],
   cmd: ['material-symbols-terminal-rounded', 'CLI / TUI'],
+
+  // Browser
   ff: ['simple-icons-firefoxbrowser', 'Firefox / Firefox based'],
   cr: ['simple-icons-googlechrome', 'Chrome / Chromium based'],
   web: ['mdi-web', 'Website / Web-based'],
 
-  // Codebase
+  // program
   py: ['simple-icons-python', 'Python'],
+  npm: ['mdi-npm-variant', 'npm'],
   js: ['simple-icons-javascript', 'JavaScript'],
   css: ['mdi-language-css3', 'CSS'],
+  dock: ['simple-icons-docker', 'Docker'],
 
   // Source code
   src: ['mdi-package-variant', 'Source Code'],
   cs: ['mdi-package-variant-closed-remove', 'Closed Source'],
 
-  // Type
-  strm: ['material-symbols-play-circle-outline', 'Stream'],
+  // Network Type
   ddl: ['material-symbols-cloud-download-outline-rounded', 'Direct / HTTP(S) Download'],
   mag: ['lucide-magnet', 'Torrent / Magnet Download'],
   usnt: ['material-symbols-newspaper-rounded', 'Usenet / NZB download'],
-  lcl: ['iconoir-floppy-disk', 'Local file'],
-  batch: ['material-symbols-package-2-outline', 'Batch Download'],
-
+  
 
   // Manga & Anime
   sync: ['material-symbols-sync', 'Built-in sync system w/ Tracker(s)'],
@@ -121,6 +121,8 @@ const aliasDefs: Record<string, [string, string?]> = {
   steam: ['simple-icons-steam', 'Steam'],
   gog: ['mdi-gog', 'GOG'],
   iarch: ['simple-icons-internetarchive', 'Internet Archive'],
+  apple: ['simple-icons-apple','Apple product'],
+  wikip: ['simple-icons-wikipedia','WikiPedia'],
 
   // Price
   paid: ['ic-round-attach-money', 'Paid'],
@@ -183,6 +185,9 @@ const aliasDefs: Record<string, [string, string?]> = {
   more: ['mdi-arrow-right-bold', 'Related'],
   help: ['material-symbols-help', 'Help / Docs'],
   ded: ['twemoji-headstone','Retired'],
+  strm: ['material-symbols-play-circle-outline', 'Stream'],
+  lcl: ['iconoir-floppy-disk', 'Local file'],
+  batch: ['material-symbols-package-2-outline', 'Batch Download'],
   yes: ['twemoji-check-mark-button', 'Yes / Available'],
   no: ['twemoji-cross-mark', 'No / Unavailable']
 }

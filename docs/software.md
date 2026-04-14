@@ -472,7 +472,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 | Software | Platform |
 | :--- | :--- |
-| [Chrome Lens OCR](https://github.com/dimdenGD/chrome-lens-ocr) | :mdi-npm-variant: |
+| [Chrome Lens OCR](https://github.com/dimdenGD/chrome-lens-ocr) | :npm: |
 | [Game Sentence Miner](https://github.com/bpwhelan/GameSentenceMiner) | :win::app::lin: |
 | [Manga OCR](https://github.com/kha-white/manga-ocr) | :py: |
 | [Meikipop](https://github.com/rtr46/meikipop) | :py: |

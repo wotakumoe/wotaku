@@ -18,7 +18,6 @@ outline: [1,2]
 - [Kurozora](https://kurozora.app/)
 - [Sakuhin Database](https://sakuhindb.com/) :ljp:
 - [Wikipedia](https://www.wikipedia.org/) :s:
-  - [WikiTimeline](https://wiki-timeline.com/) [:src:](https://github.com/wenzhenl/wikitimeline)
 
 ::: tip Tracker related utility sites
 Visit the [**tracker utility**](#tracker) section for tracker stats and data transfer between sites.
@@ -249,6 +248,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^        | [due.moe](https://due.moe/) | :al: |  
 | ^^        | [GomiTier](https://www.gomitier.tech/) | :mal::al: |
 | ^^        | [Related Anime](https://relatedanime.com/) | :mal: |
+| ^^        | [WikiTimeline](https://wiki-timeline.com/) [:src:](https://github.com/wenzhenl/wikitimeline) | :wikip: |
 | **Anime** | [Animerank](https://animerank.top/) | :mal: |
 | ^^        | [Manga Adaptations](https://anilist-adaptations.timschneeberger.me/) [:src:](https://github.com/timschneeb/manga-adaptations-anilist) | :al: |  
 | ^^        | [MyDubList](https://mydublist.com/) [:src:](https://github.com/Joelis57/MyDubList) | - |
@@ -258,7 +258,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^        | [Tachibk Viewer](https://backup.mihon.tools/) [:src:](https://github.com/Animeboynz/Mihon-Backup-Viewer) | - |
 | **Manga Covers** | [Big Book Covers](https://covers.roler.dev/) :s: [:src:](https://github.com/rRoler/bbc-frontend) | General |
 | ^^        | [Ermitteln](https://ermitteln.ihateani.me/) [:src:](https://github.com/noaione/cmx-ermitteln) | Comixology |  
-| ^^        | [iTunes Artwork Finder](https://bendodson.com/projects/itunes-artwork-finder/) | Apple Books |
+| ^^        | [iTunes Artwork Finder](https://bendodson.com/projects/itunes-artwork-finder/) | :apple: |
 
 ::: details Related resources {open}
 - [Image Max URL](https://github.com/qsniyg/maxurl) :js::ff::cr:
@@ -332,7 +332,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | **General** | [3x3 Generator](https://gqgs.github.io/3x3-generator/) [:src:](https://github.com/gqgs/3x3-generator/) | :mal::al::k: |
 | ^^        | [Topsters](https://topsters.org/) | :tmdb::lstfm::igdb::iarch: |
 | **Games** | [My 9 Games](https://my9games.com/) | :igdb: |
-| **Music** | [My Top 9 Otaku Songs](https://otaku-song.pages.dev/) :ljp: | :ios: |
+| **Music** | [My Top 9 Otaku Songs](https://otaku-song.pages.dev/) :ljp: | :apple: |
 
 ### Quiz
 | Category  | Website |
