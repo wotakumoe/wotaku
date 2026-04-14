@@ -525,6 +525,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [GoAnime](https://github.com/alvarorichard/GoAnime) :win::cmd:
 
 ### Manga
+- [Argos Comic](https://argoscomics.online/) :fjp::fkr::fcn::ero:
 - [Kakusei Project](https://kakuseiproject.com/) :ljp::ero:
 - [Ler Mangas](https://lermangas.me/) :ljp::lkr::lcn::ero:
 - [Tao Sect](https://taosect.com/) :ljp::lkr::lcn::ero:

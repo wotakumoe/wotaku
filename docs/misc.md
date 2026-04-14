@@ -358,5 +358,5 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 - [Song Bottle](https://song-bottle.app/)
 - [True Harem](https://trueharem.carrd.co/)
 - [TV Tropes](https://tvtropes.org/)
-- [Vagabond Hiatus Chart](https://vagabond-hiatus-chart.vercel.app/) [:src:](https://github.com/falsepopsky/vagabond-hiatus-chart)
+- [Vagabond Hiatus Chart](https://vagabond-hiatus-chart.vercel.app/) :ded: [:src:](https://github.com/falsepopsky/vagabond-hiatus-chart)
 - [Wired Sound For Wired People](https://fauux.neocities.org/)
