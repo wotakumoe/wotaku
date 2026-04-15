@@ -7,8 +7,7 @@ og:
     image: https://i.wotaku.wiki/f/jp.png
 ---
 
-## Recommendations
-
+## Recommendation
 | Category | Resources |
 | :--- | :--- |
 | General | [Jiten](https://jiten.moe/decks/media?sortBy=difficulty) |
@@ -19,114 +18,90 @@ og:
 | ^^ | [Perdition](https://perdition-japanese.github.io/posts/how-to-study-japanese/#step-1-h--immersion-optional) |
 | ^^ | [Acquiring Japanese Efficiently](https://docs.google.com/document/d/1LH82FjsCqCgp6-TFqUcS_EB15V7sx7O1VCjREp6Lexw/edit#heading=h.ct5zhbvvh3b8) |
 | Visual Novels | [VN Club](https://vnclub.org/) |
-| ^^ | [List of starter Japanese Media](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub) |
+| ^^ | [Alanae](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub) |
 | ^^ | [Jamal](https://anacreondjt.gitlab.io/vn-chart/) |
 | ^^ | [Chronopolize](https://docs.google.com/spreadsheets/d/18vCgQHhBNBeRJdcTcyUi2Atq-nAapQW--33qrwl5Yfw/edit?gid=0#gid=0) |
 | Light Novels | [Moeclub](https://bookmeter.com/users/1313898/) |
 | Video Games | [Game Gengo](https://docs.google.com/spreadsheets/u/0/d/14TKRFvnDmBsgfxCJzkaNKTKmx4qDcsv7QSmfyzIKxQ4/htmlview#gid=0) |
 
 
-## Anime
-- [Anisub](https://anisub.tv/)
-- [Nyaa](https://nyaa.si/) [:prx:](https://rentry.org/nyaap) <tooltip>Searching for anime with the 日 symbol will give results for uploads containing both chinese and japanese subs (usually statcked on top of each other). This trick works on both japanese and chinese trackers (found in the non-en section). The full nyaa link is: https://nyaa.si/?f=0&c=1_0&q=%E6%97%A5</tooltip>
-- [Classics](https://animation.filmarchives.jp/index.html)
+## Animation and Live Action
+| Category | Resources |
+| :--- | :--- |
+| General | [Anisub](https://anisub.tv/) |
+| ^^ | [Kisskh](https://kisskh.co/) [:prx:](https://rentry.org/wotaxy#kisskh) |
+| ^^ | [Nyaa](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap) <tooltip>Searching for anime with the 日 symbol will give results for uploads containing both chinese and japanese subs (usually statcked on top of each other). This trick works on both japanese and chinese trackers (found in the non-en section). The full nyaa link is: https://nyaa.si/?f=0&c=1_0&q=%E6%97%A5</tooltip> |
+| ^^ | [SFlix](https://sflix2.to/home) |
+| Anime | [Classics](https://animation.filmarchives.jp/index.html) |
+| Movies & Series | [Asiaflix](https://asiaflix.net/shows?country=Japan) |
+| ^^ | [JP-Films](https://jp-films.com/) :fm: |
+| ^^ | [Viki](https://www.viki.com/categories/country/japan/genre/all) :fm::sub: <Badge type="info" text="JP Sub" /> |
+| Download | [DramaSuki](https://rentry.org/wotadirect#japanimmersion) :ddl: |
+| ^^ | [Rare Doramas](https://www.raredoramas.com/) :ddl: |
+| ^^ | [JPFiles](https://jpfiles.net/) :host: |
+| Subtitles | [Kitsunekko](https://kitsunekko.net/) |
+| ^^ | :prev: [Jimaku](https://jimaku.cc/) :s: |
+| ^^ | :prev: [Ajatt-Tools](https://github.com/Ajatt-Tools/kitsunekko-mirror) |
+| ^^ | [Japanese Movies Subtitles](https://github.com/eurusdagr/Japanese-Movies-Subtitles) :ded: |
+| ^^ | [JPTV.club subtitle archive](https://rentry.org/wotadirect#japanimmersion) :ded: |
+| ^^ | [itazuraneko](https://djtguide.github.io/library/sub) |
+| ^^ | [Xavier's Retimed JP Sub Pack](https://rentry.org/wotadirect#japanimmersion) :ded: |
+| ^^ | [JP Subtitles](https://github.com/Matchoo95/JP-Subtitles) :ded: |
+| ^^ | [JP Audiobook Subtitles](https://github.com/ym1234/JPAudiobookSubtitles) |
+| ^^ | [Fully Automatic Retiming of Subtitles](https://youtu.be/x0h3ooBHrpk) |
+| TV Program | [NHK Easy Japanese](https://www.nhk.or.jp/lesson/) |
+| ^^ | [NHK Learn Japanese](https://www3.nhk.or.jp/nhkworld/en/ondemand/category/28/) |
+| Live TV | [AQ Stream](https://aqstream.com/jp) |
+| ^^ | [Japanese TV](https://mov3.co/) |
+| ^^ | [takelab](https://github.com/take2560/takelab) |
+| ^^ | [TVer](https://tver.jp/) <tooltip>Needs JP VPN by default, but you can stream without it if you copy-paste the video URL in a video player (e.g. MPV).</tooltip> |
+| ^^ | [Utako](https://web.utako.moe/) [:src:](https://gitflic.ru/project/utako/utako) |
+| General | [Globe TV](https://globetv.app/) |
+| ^^ | [IPTV-Org](https://iptv-org.github.io/) :s: [:src:](https://github.com/iptv-org/iptv) <Badge type="info" icon="i-material-symbols-download-2" text="JP" link="https://iptv-org.github.io/iptv/countries/jp.m3u" /> <Badge type="info" icon="i-material-symbols-download-2" text="JPN" link="https://iptv-org.github.io/iptv/languages/jpn.m3u" /> |
+| ^^ | [Search TV](https://searchtv.net/) |
+| ^^ | [TV Garden](https://tv.garden/jp) |
 
 
-## TV
-
-### Movies & Drama
-- [Anisub](https://anisub.tv/)
-- [Viki](https://www.viki.com/categories/country/japan/genre/all) :fm::sub: <Badge type="info" text="JP Sub" />
-- [Kisskh](https://kisskh.co/) <Badge type="info" text="720p" /> [:prx:](https://rentry.org/wotaxy#kisskh)
-- [Asiaflix](https://asiaflix.net/home)
-- [SFlix](https://sflix2.to/home) <Badge type="info" text="JP" link="https://sflix2.to/filter?type=all&quality=all&release_year=all&genre=all&country=173" />
-- [Tokuzilla](https://tokuzilla.net/) [:alt:](https://tokuzl.net/)
-- [Toku555](https://toku555.com/)
-- [JP-Films](https://jp-films.com/)
-- [DramaSuki](https://rentry.org/wotadirect#japanimmersion) :ddl:
-- [Rare Doramas](https://www.raredoramas.com/) :ddl:
-- [Japanese Movies Subtitles](https://github.com/eurusdagr/Japanese-Movies-Subtitles)
-- [JPFiles](https://jpfiles.net/) :ddl::host::mdi-disc:
-
-### Program
-- [NHK Easy Japanese](https://www.nhk.or.jp/lesson/)
-- [NHK Learn Japanese](https://www3.nhk.or.jp/nhkworld/en/ondemand/category/28/)
-
-### Live TV
-- [ANNnewsCH](https://www.youtube.com/user/ANNnewsCH)
-- [AQ Stream](https://aqstream.com/jp)
-- [Globe TV](https://globetv.app/)
-- [IPTV-Org](https://iptv-org.github.io/) [:src:](https://github.com/iptv-org/iptv) <Badge type="info" icon="i-material-symbols-download-2" text="JP" link="https://iptv-org.github.io/iptv/countries/jp.m3u" /> <Badge type="info" icon="i-material-symbols-download-2" text="JPN" link="https://iptv-org.github.io/iptv/languages/jpn.m3u" />
-- [Japanese TV](https://mov3.co/)
-- [Search TV](https://searchtv.net/)
-- [takelab](https://github.com/take2560/takelab)
-- [TVer](https://tver.jp/) <tooltip>Needs JP VPN by default, but you can stream without it if you copy-paste the video URL in a video player (e.g. MPV).</tooltip>
-- [TV Garden](https://tv.garden/jp)
-- [Utako](https://web.utako.moe/)
-
-## Subtitles
-- [Kitsunekko](https://kitsunekko.net/)
-  - [Jimaku](https://jimaku.cc/) :s:
-  - [Ajatt-Tools](https://github.com/Ajatt-Tools/kitsunekko-mirror)
-- [JPTV.club subtitle archive](https://rentry.org/wotadirect#japanimmersion)
-- [itazuraneko](https://djtguide.github.io/library/sub)
-- [Xavier's Retimed JP Sub Pack](https://rentry.org/wotadirect#japanimmersion)
-- [JP Subtitles](https://github.com/Matchoo95/JP-Subtitles)
-- [JP Audiobook Subtitles](https://github.com/ym1234/JPAudiobookSubtitles)
-- [Fully Automatic Retiming of Subtitles](https://youtu.be/x0h3ooBHrpk)
 
 
-## Easy Reading
-
-- [NHK News Web Easy](https://www3.nhk.or.jp/news/easy/)
-- [Easy Japanese](https://japanese.todaiinews.com/)
-- [e-douwa](https://www.e-douwa.com/)
-- [Satori Reader](https://www.satorireader.com/)
-- [Tadoku](https://tadoku.org/japanese/)
-- [Watanoc](https://watanoc.com/)
-- [Yomujp](https://yomujp.com/)
-
-
-## Manga
-
-- [Bilingual Manga](https://bilingualmanga.org/) :s: <Badge type="tip" text="Backup" link="https://github.com/B-M-dev/Bilingual_Manga-home-" />
-- [Mokuro Catalog](https://mokuro.moe/catalog/) <Badge type="tip" text="Nyaa" link="https://rentry.org/wotadirect#japansoftware" />
-
-::: info Raw section has been moved
-To remove clutter and dupe links, raw manga websites have been move to [**Non-English**](/nonen#japanese). Only OCR-ed manga or those specifically uploaded for learning japanese will stay here.
-:::
-
-## Novel
-- [All EPUBs](https://boroboro.neocities.org/listfullepub)
-- [Aozora Bunko](https://www.aozora.gr.jp/)
-- [boroboro](https://boroboro.neocities.org/)
-- [Japanese Learner’s Anthology](https://rentry.org/wotadirect#japanimmersion) 
-- [lolibrary](https://lolibrary.moe/) <tooltip>It's just an index, specially for TMW collection.</tooltip>
-- [Kakuyomu](https://kakuyomu.jp/) `WN`
-- [Nyaa](https://nyaa.si/?f=0&c=3_3&q=) :s: [:prx:](https://rentry.org/nyaap)
-- [Syosetu](https://syosetu.com/) `WN`
-- [TMW eBook Collection](https://rentry.org/wotadirect#japanimmersion)
+## Reading
+| Category | Resources |
+| :--- | :--- |
+| General | [Nyaa](https://nyaa.si/) [:prx:](https://rentry.org/nyaap) |
+| Manga | [Bilingual Manga](https://bilingualmanga.org/) :s: <Badge type="tip" text="Backup" link="https://github.com/B-M-dev/Bilingual_Manga-home-" /> |
+| ^^ | [Mokuro Catalog](https://mokuro.moe/catalog/) <Badge type="tip" text="Nyaa" link="https://rentry.org/wotadirect#japansoftware" /> |
+| Novel | [All EPUBs](https://boroboro.neocities.org/listfullepub) |
+| ^^ | [Aozora Bunko](https://www.aozora.gr.jp/) |
+| ^^ | [boroboro](https://boroboro.neocities.org/) |
+| ^^ | [Japanese Learner’s Anthology](https://rentry.org/wotadirect#japanimmersion) |
+| ^^ | [lolibrary index](https://lolibrary.moe/) |
+| ^^ | [TMW eBook Collection](https://rentry.org/wotadirect#japanimmersion) |
+| Easy Reading | [NHK News Web Easy](https://www3.nhk.or.jp/news/easy/) |
+| ^^ | [Easy Japanese](https://japanese.todaiinews.com/) |
+| ^^ | [e-douwa](https://www.e-douwa.com/) |
+| ^^ | [Satori Reader](https://www.satorireader.com/) |
+| ^^ | [Tadoku](https://tadoku.org/japanese/) |
+| ^^ | [Watanoc](https://watanoc.com/) |
+| ^^ | [Yomujp](https://yomujp.com/) |
+| Webnovel | [Kakuyomu](https://kakuyomu.jp/) |
+| ^^ | [Syosetu](https://syosetu.com/) |
 
 <Block icon="i-mdi-lightbulb-alert-outline" link="/nonen#japanese" >More in manga direct download</Block>
 
 ## Audio
 
-### Audiobook
-- [Nyaa.si](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap)
-- [TMW Japanese Audiobooks Collection](https://rentry.org/wotadirect#japanimmersion) <Badge type="tip" text="Index" link="https://coreaudio.netlify.app/" />
-- [Librivox](https://librivox.org/)
-- [Aozora Roudoku](https://aozoraroudoku.jp/index.html)
-
-### Podcast
-- [Japanese Podcast Spreadsheet](https://docs.google.com/spreadsheets/d/17P2dBQHnBnHcG3ua_24IO6sP9RDC-5b3WHV9Ri2N5qU/edit#gid=0)
-- [Japanese with Noriko](https://www.japanesewithnoriko.com/)
-- [Learn Japanese Podcast](https://learnjapanesepod.com/)
-- [The Konnichiwa Podcast](https://konnichiwapodcast.podbean.com/)
-
-### Others
-- [Condensed Audio Catalog](https://condensedaudiocatalog.com/)
-- [Japanese Condensed Audio](https://mega.nz/folder/8HhhWDyJ#SHw5xsYxyhWUX536UcqkeQ) [:alt:](https://mega.nz/folder/N4d3STJC#w3wPPgk9UgD6qE_UvjtB8Q)
-
+| Category | Resources |
+| :--- | :--- |
+| Audiobook | [Nyaa.si](https://nyaa.si/) :s: [:src:](https://rentry.org/nyaap) |
+| ^^ | [TMW Japanese Audiobooks Collection](https://rentry.org/wotadirect#japanimmersion) <Badge type="tip" text="Index" link="https://coreaudio.netlify.app/" /> |
+| ^^ | [Librivox](https://librivox.org/) |
+| ^^ | [Aozora Roudoku](https://aozoraroudoku.jp/index.html) |
+| Podcast | [Japanese Podcast Spreadsheet](https://docs.google.com/spreadsheets/d/17P2dBQHnBnHcG3ua_24IO6sP9RDC-5b3WHV9Ri2N5qU/edit#gid=0) |
+| ^^ | [Japanese with Noriko](https://www.japanesewithnoriko.com/) |
+| ^^ | [Learn Japanese Podcast](https://learnjapanesepod.com/) |
+| ^^ | [The Konnichiwa Podcast](https://konnichiwapodcast.podbean.com/) |
+| Others | [Condensed Audio Catalog](https://condensedaudiocatalog.com/) |
+| ^^ | [Japanese Condensed Audio](https://mega.nz/folder/8HhhWDyJ#SHw5xsYxyhWUX536UcqkeQ) [:src:](https://mega.nz/folder/N4d3STJC#w3wPPgk9UgD6qE_UvjtB8Q) |
 
 ## YouTube
 - [Comprehensible Japanese](https://cijapanese.com/resources)
