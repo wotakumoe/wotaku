@@ -435,22 +435,24 @@ These sites contain a mix of both actual and AI-generated novels.
 - [Tubi](https://tubitv.com/)
 
 ### YouTube
-- [Akane-banashi Global](https://www.youtube.com/@akane-banashi_global)
-- [Anime Bancho](https://www.youtube.com/@AnimeBancho)
-- [Anime Manga Official by Kodansha](https://www.youtube.com/@AnimeMangaOfficial)
-- [Ani-One Asia](https://www.youtube.com/@AniOneAsia)
-- [Arait Play English](https://www.youtube.com/@AraitPlayEnglish)
-- [BEYBLADE English](https://www.youtube.com/@BeybladeOfficial) <Badge type="tip" text="Old" link="https://www.youtube.com/@beyblade-official" />
-- [CARDFIGHT Vanguard](https://www.youtube.com/@CARDFIGHTVanguard)
-- [Code Lyoko US](https://www.youtube.com/@CODELYOKOENGLISHOFFICIAL) <Badge type="tip" text="FR" link="https://www.youtube.com/@codelyokoofficiel7410" />
-- [CONtv](https://www.youtube.com/@CONtv)
-- [It's Anime](https://www.youtube.com/@ItsAnimeJP)
-- [Muse Asia](https://www.youtube.com/@MuseAsia)
-- [Official Yu-Gi-Oh!](https://www.youtube.com/@yugioh)
-- [Pokémon TV](https://www.youtube.com/@OfficialPoke%CC%81monTV)
-- [TMS Official](https://www.youtube.com/@AnimeonTMSOfficialChannel)
-- [Tropics Anime Asia](https://www.youtube.com/@TropicsAnimeAsia)
-- [Valerian & Laureline US](https://www.youtube.com/@valerianlaurelineenglishof984) <Badge type="tip" text="FR" link="https://www.youtube.com/@valerianlaurelineofficiel9316" />
+| Type | Channel |
+| :--- | :--- |
+| General | [Anime Bancho](https://www.youtube.com/@AnimeBancho) |
+| ^^ | [Anime Manga Official by Kodansha](https://www.youtube.com/@AnimeMangaOfficial) |
+| ^^ | [Ani-One Asia](https://www.youtube.com/@AniOneAsia) |
+| ^^ | [It's Anime by REMOW](https://www.youtube.com/@ItsAnimeJP) |
+| ^^ | [Muse Asia](https://www.youtube.com/@MuseAsia) |
+| ^^ | [TMS Official](https://www.youtube.com/@AnimeonTMSOfficialChannel) |
+| ^^ | [Tropics Anime Asia](https://www.youtube.com/@TropicsAnimeAsia) |
+| Series | [Akane-banashi Global](https://www.youtube.com/@akane-banashi_global) |
+| ^^ | [Arait Play English](https://www.youtube.com/@AraitPlayEnglish) |
+| ^^ | [BEYBLADE English](https://www.youtube.com/@BeybladeOfficial) <Badge type="tip" text="Old" link="https://www.youtube.com/@beyblade-official" /> |
+| ^^ | [CARDFIGHT Vanguard](https://www.youtube.com/@CARDFIGHTVanguard) |
+| ^^ | [Code Lyoko US](https://www.youtube.com/@CODELYOKOENGLISHOFFICIAL) <Badge type="tip" text="FR" link="https://www.youtube.com/@codelyokoofficiel7410" /> |
+| ^^ | [CONtv](https://www.youtube.com/@CONtv) |
+| ^^ | [Pokémon TV](https://www.youtube.com/@OfficialPoke%CC%81monTV) |
+| ^^ | [Official Yu-Gi-Oh!](https://www.youtube.com/@yugioh) |
+| ^^ | [Valerian & Laureline US](https://www.youtube.com/@valerianlaurelineenglishof984) <Badge type="tip" text="FR" link="https://www.youtube.com/@valerianlaurelineofficiel9316" /> |
 
 ::: info Content availability
 Some of the series may not be available depending on your region.
