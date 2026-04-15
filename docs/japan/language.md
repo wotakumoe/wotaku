@@ -149,7 +149,6 @@ ___
 ___
 #### Misc
 - [BOOK WALKER Cross Search](https://bsearch.bookwalker.jp/search) <tooltip>Search through BW books</tooltip>
-- [Hinoki Project](https://hinoki-project.org/)
 - [Hiragana](https://www.hiragana.jp/en/) <tooltip>Add Hiragana over Kanji</tooltip>
 - [jReadability](https://jreadability.net/) <tooltip>Text readability measurement</tooltip>
 - [Kanji Canvas](https://asdfjkl.github.io/kanjicanvas/) <tooltip>Kanji recognition from drawing</tooltip>
