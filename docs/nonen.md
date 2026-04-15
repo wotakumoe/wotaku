@@ -99,7 +99,7 @@ og:
 
 - **Stream**
   - [AGE](https://www.agedm.io/) [:prx:](https://github.com/agefanscom/website)
-  - [Bimibimi](http://www.bimiacg10.net/)
+  - [Bimibimi](https://www.bimiacg14.net/) [:prx:](https://www.bimiacg.icu/)
   - [MoMoVod](https://momovod.app/show/30.html)
   - [XG Cartoon](https://www.xgcartoon.com/)
   - [Yinghuacd](https://www.yinhuadm.cc/) [:prx:](http://yinhuadm.one/)
@@ -398,7 +398,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 ### Online
 
 #### Manga
-- [Dokiraw](https://dokiraw.mom/)
+- [Dokiraw](https://dokiraw.tech/)
 - [Free PDF Comic](https://freepdfcomic.eu/)
 - [Gomuraw](https://gomuraw.com/top)
 - [KL Manga](https://old.klz9.com/) [:prx:](https://rentry.org/wotaxy#kl-manga)
@@ -619,7 +619,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
   - [MonosChinos](https://monoschinos2.com/)
   - [AnimeOnlineNinja](https://ver.animeonline.ninja/)
   - [Latanime](https://latanime.org/) <Badge type="info" text="Dub" />
-  - [Estrenos Anime](https://estrenosanime.net/)
+  - [Estrenos Anime](https://estrenosanime.net/home)
   - [JKAnime](https://jkanime.net/)
   - [TioAnime](https://tioanime.com/)
   - [AnimeFLV](https://www3.animeflv.net/)
