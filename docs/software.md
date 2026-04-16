@@ -230,6 +230,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) [:e:](/ext/mangayomi) | :win::app::lin: | :ddl: | :mal::al::simkl: |
 
 <Collapsible title="More">
+
 | Program | OS | Source | Tracker |
 |-|-|-|-|
 | [Toru](https://github.com/sweetbbak/toru) | :win::app::lin::cmd: | :mag: | :no: |
