@@ -229,7 +229,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 | [Unyo](https://github.com/K3vinb5/Unyo) | :win::app::lin: | :ddl: | :al: |
 | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) [:e:](/ext/mangayomi) | :win::app::lin: | :ddl: | :mal::al::simkl: |
 
-:::details More
+<Collapsible title="More">
 | Program | OS | Source | Tracker |
 |-|-|-|-|
 | [Toru](https://github.com/sweetbbak/toru) | :win::app::lin::cmd: | :mag: | :no: |
@@ -237,7 +237,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 | [Curd](https://github.com/Wraient/curd) | :win::app::lin::cmd: | :ddl: | :al: |
 | [ani-cli](https://github.com/pystardust/ani-cli) | :win::app::lin::cmd: | :ddl: | :no: |
 
-:::
+</Collapsible>
 
 :::details **Streaming torrents without a dedicated anime client**
 You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're currently downloading. For this, check the "**Download in sequential order**" and go to the containing folder. Now open the file and it will play as more chunks are downloaded.
