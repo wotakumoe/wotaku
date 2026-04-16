@@ -176,7 +176,7 @@ outline: 1
 | [Manga Katana](https://mangakatana.com/) | :ie::msync: | :ss: | :ls: | :cmnt: |
 | [Mangadotnet](https://mangadot.net/) ==Mangadotnet== | :sync: | :ms::up: | :sp::dp::ls: | :cmnt::frm: |
 | [MangaBall](https://mangaball.net/) | :msync: | :ps::up: | :ls: | :cmnt: |
-| [OniSaga](https://onisaga.com/home) ==OniSaga== | :ie: | :ss: | :sp::dp::ls: | :no: |
+| [OniSaga](https://onisaga.com/home) ==OniSaga== | :ie:up: | :ss: | :sp::dp::ls: | :no: |
 | [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy) | :msync: | :ss: | :ls: | :cmnt: |
 | [Mangahub](https://mangahub.io/) :acc: | :msync: | :ss: | :ls: | :cmnt: |
 | [Manga Fox](https://mangafox.la/) [:prx:](https://rentry.org/wotaxy#manga-fox) | :msync: | :ss: | :sp::ls:  | :cmnt: |

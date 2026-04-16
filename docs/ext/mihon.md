@@ -33,6 +33,7 @@ Some apps might not support **Auto Install method**. That doesn't mean the guide
 | [Fucked by FAKKU](https://github.com/yuzono/cursed-manga-repo) ==fakkud== | :ero: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/yuzono/cursed-manga-repo/repo/index.min.json) | [URL](https://raw.githubusercontent.com/yuzono/cursed-manga-repo/repo/index.min.json) |
 | [Kavita](https://github.com/Kareadita/tach-extension/) | :global: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/Kareadita/tach-extension/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Kareadita/tach-extension/repo/index.min.json) |
 | [Suwayomi](https://github.com/Suwayomi/tachiyomi-extension) | :global: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/Suwayomi/tachiyomi-extension/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Suwayomi/tachiyomi-extension/repo/index.min.json) |
+| [copymanga-copy20](https://github.com/LittleSurvival/copymanga-copy20) | :ccn: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/LittleSurvival/copymanga-copy20/repo/index.min.json) | [URL](https://raw.githubusercontent.com/LittleSurvival/copymanga-copy20/repo/index.min.json) |
 
 
 ## Sideloading Methods

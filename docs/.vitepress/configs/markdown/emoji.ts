@@ -105,6 +105,7 @@ const aliasDefs: Record<string, [string, string?]> = {
   mal: ['simple-icons-myanimelist', 'MyAnimeList'],
   al: ['simple-icons-anilist', 'AniList'],
   k: ['simple-icons-kitsu', 'Kitsu'],
+  shiki: ['simple-icons-shikimori','Shikimori'],
   simkl: ['simple-icons-simkl', 'Simkl'],
   tmdb: ['simple-icons-themoviedatabase', 'TMDB'],
   lstfm: ['simple-icons-lastdotfm', 'Lastfm'],
@@ -146,6 +147,7 @@ const aliasDefs: Record<string, [string, string?]> = {
   lsp: ['twemoji-flag-spain', 'Spanish'],
   lbr: ['twemoji-flag-brazil', 'Brazilian'],
 
+  ccn: ['twemoji-flag-china', 'China'],
   cuk: ['twemoji-flag-united-kingdom', 'United Kingdom'],
   cge: ['twemoji-flag-germany', 'Germany'],
   cus: ['twemoji-flag-united-states', 'United States'],
