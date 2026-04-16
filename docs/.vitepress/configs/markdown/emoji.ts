@@ -176,6 +176,7 @@ const aliasDefs: Record<string, [string, string?]> = {
   s: ['twemoji-glowing-star', 'Favorite'],
   e: ['mdi-puzzle', 'Extension'],
   n: ['material-symbols-science', 'Nightly build'],
+  tv: ['material-symbols-tv-gen-outline-rounded', 'Supports TV layout'],
   alt: ['ic-round-looks-two', 'Alternative'],
   ero: ['twemoji-no-one-under-eighteen', 'R18'],
   acc: ['material-symbols-person-add', 'Needs account'],

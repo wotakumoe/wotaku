@@ -101,7 +101,7 @@ onMounted(() => {
         </colgroup>
         <thead>
           <tr>
-            <th class="corner">Website</th>
+            <th class="corner">Sources</th>
             <th v-for="source in sources" :key="source" class="source-header">
               <span>{{ source }}</span>
             </th>

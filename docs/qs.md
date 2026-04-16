@@ -34,7 +34,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | **iOS**   | [Luna](https://github.com/cranci1/Luna) [:e:](/ext/ios#sora) |
 | ^^        | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) |
 | **PC**    | [Hayase](https://hayase.watch/) [:src:](https://github.com/hayase-app) [:e:](/ext/misc#hayase) |
-| ^^        | [Mangayomi](https://github.com/kodjodevf/mangayomi) :mag::ddl: [:e:](/ext/mangayomi) |
+| ^^        | [Mangayomi](https://github.com/kodjodevf/mangayomi) :s::mag::ddl: [:e:](/ext/mangayomi) |
 
 ![](/banner/wmanga.webp)
 

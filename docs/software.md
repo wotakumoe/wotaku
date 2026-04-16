@@ -25,23 +25,26 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/ext/mih
 | [Animiru](https://github.com/quickdesh/Animiru)  | :ddl: | :mal::al::k::simkl: |
 | [Anikku](https://anikku-app.github.io/) [:src:](https://github.com/komikku-app/anikku) [:n:](https://github.com/komikku-app/anikku-preview) | :ddl::mag: | :mal::al::k::simkl: |
 | [Dantotsu](https://github.com/itsmechinmoy/dantotsu-updater) [:d:](https://discord.com/invite/4HPZ5nAWwM) [:src:](https://git.rebelonion.dev/rebelonion/Dantotsu) | :ddl::mag: | :mal::al: |
-| [Cloudstream](https://github.com/recloudstream/cloudstream) [:e:](/ext/misc#cloudstream) | :ddl::mag: | :mal::al::simkl: |
+| [Cloudstream](https://github.com/recloudstream/cloudstream) :tv: [:e:](/ext/misc#cloudstream) | :ddl::mag: | :mal::al::simkl: |
 
 ::: details More
 | App | Source | Tracker |
 |-|-|-|
 | [Aniyomi](https://aniyomi.org/) [:src:](https://github.com/aniyomiorg/aniyomi) [:n:](https://github.com/aniyomiorg/aniyomi-preview) | :ddl: | :mal::al::k::simkl: |
-| [Stremio](https://www.stremio.com/) | :mag: | :mal::al::k::simkl: |
-| [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) | :ddl::mag: | :mal::al::k: |
-| [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) [:e:](/ext/mangayomi) | :ddl: | :mal::al::simkl: |
+| [Stremio](https://www.stremio.com/) :tv: [:e:](#stremio) | :mag: | :mal::al::k::simkl: |
+| [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) [:e:](/ext/mihon) | :ddl::mag: | :mal::al::k: |
+| [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) [:e:](/ext/mangayomi) [:e:](/ext/mihon) | :ddl: | :mal::al::simkl: |
 :::
 
-::: details :material-symbols-tv-gen-outline: Android TV ranking
-- [Cloudstream](https://github.com/recloudstream/cloudstream) [:e:](/ext/misc#cloudstream) [:src:](https://github.com/recloudstream/cloudstream)
-- [Stremio](https://www.stremio.com/)
-  - [Stremio Tools](#stremio)
-- [Crunchyroll for TIZEN](https://github.com/jhassan8/crunchyroll-tizen)
-:::
+
+<ScrapeTable :sites="[
+  { name: 'Anymex', scrapes: { 'Mihon': '', 'Aniyomi': '', 'Mangayomi': '', 'Sora': '', 'Cloudstream': '', 'LNreader': '' } },
+  { name: 'Cloudstream', scrapes: { 'Cloudstream': '', 'Aniyomi': '' } },
+  { name: 'Dantotsu', scrapes: { 'Mihon': '', 'Aniyomi': '', 'LNreader': '' } },
+  { name: 'Kototoro', scrapes: { 'Mihon': '', 'Aniyomi': '', 'Kotatsu': '', 'LNReader': '', 'Legado': '' } },
+  { name: 'Mangayomi', scrapes: { 'Mihon': '', 'Aniyomi': '', 'Mangayomi': '' } },
+  { name: 'Usagi', scrapes: { 'Kotatsu': '', 'Mihon': '' } }
+]" />
 
 ## Manga Readers
 
@@ -254,10 +257,10 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 | Software   | Platform            |
 |------------|---------------------|
-| [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) | :win::app::lin: |
+| [Mangayomi](https://github.com/kodjodevf/mangayomi) :s: [:e:](/ext/mangayomi) [:e:](/ext/mihon) | :win::app::lin: |
+| [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) [:e:](/ext/mangayomi) [:e:](/ext/mihon) | :win::app::lin: |
 | [Cubari](https://cubari.moe/) [:help:](/guides/manga/cubari) | :web: |
 | [Manga-tui](https://github.com/josueBarretogit/manga-tui) | :app::lin::cmd: |
-| [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) [:e:](/ext/mangayomi) | :win::app::lin: |
 
 ### Local
 
