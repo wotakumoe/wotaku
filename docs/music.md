@@ -469,6 +469,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | :--- | :--- |
 | [AHA Music](https://aha-music.com/) :cs: | :cr: |
 | [Better Lyrics](https://better-lyrics.boidu.dev/) [:src:](https://github.com/boidushya/better-lyrics) | :cr::ff: |
+| [Even Better RateYourMusic](https://github.com/kknq/even-better-rym) | :cr::ff: |
 | [Spotify Lyrics](https://github.com/mantou132/Spotify-Lyrics) | :cr::ff: |
 | [Spotify New Releases](https://spotify-new-releases.web.app/) :cs: | :cr: |
 | [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler) | :cr::ff: |
