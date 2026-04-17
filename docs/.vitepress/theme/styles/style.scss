@@ -1486,7 +1486,7 @@ table tr:nth-child(odd) {
     left: 0;
     z-index: 2;
     padding: 0 12px !important;
-    height: 140px;
+    height: var(--scrape-header-height, 140px);
     background-color: var(--vp-c-bg-soft) !important;
     border-left: 1px solid var(--vp-c-divider) !important;
     color: var(--vp-c-text-1) !important;
@@ -1498,7 +1498,7 @@ table tr:nth-child(odd) {
 
   .source-header {
     vertical-align: bottom;
-    height: 140px;
+    height: var(--scrape-header-height, 140px);
     text-align: center;
     background: var(--vp-c-bg) !important;
 

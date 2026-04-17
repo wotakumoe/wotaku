@@ -36,7 +36,18 @@ const sources = computed(() => {
       count[source] = (count[source] || 0) + 1
     }
   }
-  return Object.keys(count).sort((a, b) => count[b] - count[a])
+  return Object.keys(count).sort((a, b) => count[b] - count[a] || a.localeCompare(b))
+})
+
+const HEADER_MIN_PX = 48
+const HEADER_MAX_PX = 140
+const HEADER_PER_CHAR_PX = 7.2
+const HEADER_PADDING_PX = 20
+
+const headerHeight = computed(() => {
+  const longest = sources.value.reduce((n, s) => Math.max(n, s.length), 0)
+  const raw = Math.round(longest * HEADER_PER_CHAR_PX) + HEADER_PADDING_PX
+  return Math.min(HEADER_MAX_PX, Math.max(HEADER_MIN_PX, raw))
 })
 
 // Drag to scroll + scroll indicator
@@ -85,7 +96,7 @@ onMounted(() => {
 </script>
 
 <template>
-  <div class="scrape-table-outer">
+  <div class="scrape-table-outer" :style="{ '--scrape-header-height': `${headerHeight}px` }">
     <div
       ref="wrapRef"
       class="scrape-table-wrap"
