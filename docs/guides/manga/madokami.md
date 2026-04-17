@@ -160,6 +160,43 @@ By default, FMD2 will save it as folder. Go to `Options > Save to > Save downloa
 Note that FMD2's module uses Madokami's web reader, which can't read `.webp` files, thus resulting in errors.
 :::
 
+### Gallery-dl
+
+:::steps
+1. Download and install [gallery-dl](https://github.com/mikf/gallery-dl) and [aria2](https://github.com/aria2/aria2).
+2. Create gallery-dl config file.
+    ```bash
+    mkdir -p ~/.config/gallery-dl
+    nano ~/.config/gallery-dl/config.json
+    ```
+3. Put your madokami credentials in madokami config file.
+    ```bash
+    {
+    "extractor": {
+        "madokami": {
+        "username": "yourname",
+        "password": "yourpass"
+        }
+    }
+    }
+    ```
+4. Open terminal and run this command:
+    ```bash
+    # Authenticate and export cookies + get URLs
+    gallery-dl --cookies-export ~/madokami-cookies.txt -g "Madokami URL" > /tmp/urls.txt
+
+    # Download in parallel with aria2c
+    aria2c -i /tmp/urls.txt -j 3 --load-cookies ~/madokami-cookies.txt
+    ```
+5. The files will be saved in `/home` folder.
+
+::: info Skipping aria2
+If you are okay with single thread downloading, you can just use gallery-dl. 
+
+```bash
+gallery-dl "Madokami URL"
+```
+:::
 
 ### JDownloader 2
 
