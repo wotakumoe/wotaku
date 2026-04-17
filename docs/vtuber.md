@@ -127,10 +127,10 @@ og:
 
 #### 2D
 - [2ManySnacks](https://www.youtube.com/@2ManySnacks) :s:
-- [Chroneco](https://www.youtube.com/@chrone_co/) <Badge type="warning" text="Inactive"/>
+- [Chroneco](https://www.youtube.com/@chrone_co/) :ded:
 - [Dunkemz](https://x.com/dunkemz) :x:
 - [H and Mr.H](https://www.youtube.com/@HandMrH)
-- [Mazumaro](https://www.youtube.com/@mazumaro/) <Badge type="warning" text="Inactive"/>
+- [Mazumaro](https://www.youtube.com/@mazumaro/) :ded:
 - [meuol](https://www.youtube.com/@meuol)
 - [Moonia](https://www.youtube.com/@BloodyMoonia/)
 - [Orbitten](https://www.youtube.com/@Orbitten)
@@ -140,10 +140,10 @@ og:
 <hr>
 
 #### Animatics / Clip focused
-- [9am](https://www.youtube.com/@9amKR/) <Badge type="warning" text="Inactive"/> <Badge type="tip" text="EN" link="https://www.youtube.com/@9amEN/" />
+- [9am](https://www.youtube.com/@9amKR/) :ded: <Badge type="tip" text="EN" link="https://www.youtube.com/@9amEN/" />
 - [Applisaur](https://youtube.com/@applisaur)
 - [ばかくん三世](https://www.youtube.com/@bakakunsansei)
-- [Coomfus](https://www.youtube.com/@Coomfus/) <Badge type="warning" text="Inactive"/>
+- [Coomfus](https://www.youtube.com/@Coomfus/) :ded:
 - [エビフライ / Ebihurai](https://www.youtube.com/@Ebihuraii) <Badge type="tip" text="EN" link="https://www.youtube.com/@EbihuraiIEN" />
 - [FuwaFuwa](https://youtube.com/@FuwaFuwa%E8%BB%9F%E8%B6%B4%E8%B6%B4)
 - [hikipanda](https://www.youtube.com/@hikipanda) :lkr:
@@ -165,7 +165,7 @@ og:
 
 #### 3D
 - [Aka Mushi](https://www.youtube.com/@akamushi3d)
-- [cbo](https://www.youtube.com/@cbo_ch/) <Badge type="warning" text="Inactive"/>
+- [cbo](https://www.youtube.com/@cbo_ch/) :ded:
 - [ChegiCH](https://www.youtube.com/@chegichannel/)
 - [Crash Landing Studios](https://www.youtube.com/@CrashLandingStudio/) :s:
 - [Edoman Ch.](https://www.youtube.com/@EdomanCh)
@@ -210,14 +210,6 @@ og:
 | [hololive Treasure Mountain](https://store.steampowered.com/app/2972990/) | Paid  | Houshou Marine   | BeXide     | holo Indie |
 | [Pebble Jame](https://gioba-games.itch.io/pebble-jame)         | Free   | Koseki Bijou      | Goiba      | Goiba |
 
-### DLC
-
-| Game  |  DLC  | Price  | MC |
-|-|-|-|-|
-| [hololive Treasure Mountain](https://store.steampowered.com/app/2972990/) | [Hiya-Peko DLC](https://store.steampowered.com/app/3157450/) | Paid | Usada Pekora
-| ^^ | [SUKONNA DLC](https://store.steampowered.com/app/3519000/)  | Paid | Shirakami Fubuki |
-| ^^ | [POPOPOPO DLC](https://store.steampowered.com/app/3519010/) | Paid | Omaru Polka |
-
 ### Horror
   
 | Game                                                   | Price  | MC   | Dev                | Publisher |
@@ -251,7 +243,7 @@ og:
 |----------------------------------------------------------------|--------|--------------------|-------------|-----------|
 | [Holo's Hanafuda](https://store.steampowered.com/app/3327640/) | Free | Hololive JP | Gemdrops, Inc. | Gemdrops, Inc. |
 | [holoReversi](https://store.steampowered.com/app/3446980/) | Paid | Hololive JP | RomanKitayama | holo Indie |
-| [KING of HOLO](https://store.steampowered.com/app/4184080/) | TBD | Hololive | テイク | holo Indie |
+| [KING of HOLO](https://store.steampowered.com/app/4184080/) | Paid | Hololive | テイク | holo Indie |
 | [Juufuutei Raden's Guide for Pixel Museum](https://store.steampowered.com/app/3204020/) | Paid | Juufuutei Raden | Jupiter | Jupiter |
 | [Mumei's Memory Juggling](https://david-wu-softdev.itch.io/mumeis-memory-juggling) | Free   | Nanashi Mumei     | David Wu   | David Wu |
 | [Nna-tan's Pixel Princess](https://store.steampowered.com/app/4403340/) | TBD | Himemori Luna | MOBoratory | holo Indie |
@@ -304,6 +296,7 @@ og:
 |--------------------------------------------------------------|--------|-------------------|------------|-----|
 | [Age of Advent](https://store.steampowered.com/app/2679690/) | Free   | Hololive Advent   | MooCow     | holo Indie |
 | [Delivering Hope](https://david-wu-softdev.itch.io/delivering-hope-hololive-fangame) | Free   | IRyS              | David Wu   | David Wu |
+| [holoBase](https://store.steampowered.com/app/4521010/) | Paid | Hololive JP | Clover Lab.,inc. | holo Indie |
 | [Koro-san's Home "WAN!" Derby](https://store.steampowered.com/app/3732150/) | Paid | Inugami Korone | To You Games, Wit One | holo Indie |
 
 ::: tip Other lists
