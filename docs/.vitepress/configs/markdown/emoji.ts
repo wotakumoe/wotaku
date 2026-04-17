@@ -80,7 +80,7 @@ const aliasDefs: Record<string, [string, string?]> = {
   usnt: ['material-symbols-newspaper-rounded', 'Usenet / NZB download'],
   
   // Device
-  erdr: ['mdi-light-ereader', 'E-reader'],
+  erdr: ['material-symbols-chrome-reader-mode-outline-rounded', 'E-reader'],
 
   // Manga & Anime
   sync: ['material-symbols-sync', 'Built-in sync system w/ Tracker(s)'],
