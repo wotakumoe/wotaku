@@ -59,11 +59,11 @@ const aliasDefs: Record<string, [string, string?]> = {
   cmd: ['material-symbols-terminal-rounded', 'CLI / TUI'],
 
   // Browser
-  ff: ['simple-icons-firefoxbrowser', 'Firefox / Firefox based'],
-  cr: ['simple-icons-googlechrome', 'Chrome / Chromium based'],
+  ff: ['simple-icons-firefoxbrowser', 'Firefox / Firefox-based'],
+  cr: ['simple-icons-googlechrome', 'Chrome / Chromium-based'],
   web: ['mdi-web', 'Website / Web-based'],
 
-  // program
+  // Program
   py: ['simple-icons-python', 'Python'],
   npm: ['mdi-npm-variant', 'npm'],
   js: ['simple-icons-javascript', 'JavaScript'],
@@ -79,6 +79,8 @@ const aliasDefs: Record<string, [string, string?]> = {
   mag: ['lucide-magnet', 'Torrent / Magnet Download'],
   usnt: ['material-symbols-newspaper-rounded', 'Usenet / NZB download'],
   
+  // Device
+  erdr: ['material-symbols-chrome-reader-mode-outline-rounded', 'E-reader'],
 
   // Manga & Anime
   sync: ['material-symbols-sync', 'Built-in sync system w/ Tracker(s)'],

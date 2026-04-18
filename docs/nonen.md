@@ -404,21 +404,21 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [KL Manga](https://old.klz9.com/) [:prx:](https://rentry.org/wotaxy#kl-manga)
 - [MangaFire](https://mangafire.to/home)
 - [MangaKuro](https://mangakuro.net/home)
-- [Manga Raw (.ac)](https://mangaraw.ac/) [:prx:](https://rentry.org/wotaxy#mangarawspoil) ==mangarawspoil==
-- [Manga Raw (.ad)](https://mangarawad.love/)
+- [Manga Raw (.ac)](https://mangaraw.ac/) [:prx:](https://rentry.org/wotaxy#mangarawspoil)
+- [Manga Raw (.ad)](https://mangarawad.bid/)
 - [Manga Raw (.best)](https://mangaraw.best/)
-- [Manga Raw (.fo)](https://rawfree.fo/)
 - [MangarawJP](https://mangarawjp.me/)
 - [Pixiv Comics](https://comic.pixiv.net/)
 - [RAW 1001](https://raw1001.net/home) [:prx:](https://rentry.org/wotaxy#raw1001)
 - [RawBaka](https://rawbaka.com/)
 - [Rawkuma](https://rawkuma.net/)
+- [Raw FREE](https://rawfree.nl/)
 - [RAW LAZY](https://rawlazy.io/)
 - [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.codes/home/)
 - [RawUwU](https://rawuwu.net/) [:alt:](https://rawdevart.art/)
 - [Sen Manga](https://raw.senmanga.com/)
 - [Twicomi](https://twicomi.com/)
-- [YomiRaw](https://yomiraw.com/) :ero:
+- [YomiRaw](https://yomiraw.com/)
 
 ### Download
 
@@ -445,8 +445,10 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | [JPFiles](https://jpfiles.net/) | :yes: | :yes: | :yes: |
 | [Manga Zone](http://www.manga-zone.org/) | :yes: | :no: | :yes: |
 | [Manga ZIP](https://manga-zip.is/post) | :yes: | :no: | :yes: |
+| [Rawinstant](https://rawinstant.net/manga/) | :yes: | :yes: | :yes: |
 | [Raw Cans](http://raw-cans.net/) | :yes: | :no: | :yes: |
 | [Raw Manga Archive](https://mangasora.net/) | :yes: | :yes: | :yes: |
+| [RAWS MANGA](https://rawsmanga.com/) | :yes: | :yes: | :yes: |
 | [X3DL.NET](https://x3dl.net/wp/) | :yes: | :yes: | :yes: |
 
 

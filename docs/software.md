@@ -55,7 +55,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/ext/mih
 | ^^ | [Komikku](https://komikku-app.github.io/) [:src:](https://github.com/komikku-app/komikku) [:n:](https://github.com/komikku-app/komikku-preview) |
 | ^^ | [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:src:](https://github.com/jobobby04/TachiyomiSY) [:n:](https://github.com/jobobby04/TachiyomiSYPreview) |
 | ^^ | [TachiyomiAZ](https://mihon.app/forks/TachiyomiAZ/) [:src:](https://github.com/az4521/tachiyomiAZ) [:n:](https://crafty.moe/tachiyomiAZ.apk) |
-| Kotatsu | [Usagi](https://github.com/UsagiApp/Usagi) |
+| Kotatsu | [Usagi](https://yumemi.moe/) [:src:](https://github.com/UsagiApp/Usagi) |
 | ^^ | [Futon](https://futonapp.pages.dev/) [:src:](https://github.com/AppFuton/Futon) |
 | ^^ | [Kotatsu Redo](https://github.com/Kotatsu-Redo/Kotatsu-Redo) |
 | ^^ | [Kototoro](https://github.com/skepsun/Kototoro) <tooltip>Supports Mihon and Legado extensions</tooltip> |
@@ -260,7 +260,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | [Calibre](https://calibre-ebook.com/) [:src:](https://github.com/kovidgoyal/calibre) | :win::app::lin: |
 | [Freda](https://www.turnipsoft.com/freda/) :cs: | :win: |
 | [Koodo Reader](https://www.koodoreader.com/) [:src:](https://github.com/koodo-reader/koodo-reader) | :win::app::lin: |
-| [KOReader](https://koreader.rocks/) [:src:](https://github.com/koreader/koreader) <Badge type="tip" text="rakuyomi" link="https://github.com/tachibana-shin/rakuyomi" /> | :lin::material-symbols-chrome-reader-mode-outline: |
+| [KOReader](https://koreader.rocks/) [:src:](https://github.com/koreader/koreader) <Badge type="tip" text="rakuyomi" link="https://github.com/tachibana-shin/rakuyomi" /> | :lin::erdr: |
 | [Okular](https://okular.kde.org/) | :win::lin: |
 | [Readest](https://readest.com/) [:src:](https://github.com/readest/readest) | :win::app::lin: |
 | [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) [:src:](https://github.com/sumatrapdfreader/sumatrapdf) | :win: |

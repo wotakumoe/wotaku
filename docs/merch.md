@@ -170,6 +170,7 @@ ___
 - [From Japan](https://www.fromjapan.co.jp/en)
 - [Japan Rabbit](https://japanrabbit.com/)
 - [J-Subculture](https://www.j-subculture.com/)
+- [Neokyo](https://neokyo.com/)
 - [Remambo](https://www.remambo.jp/)
 - [Sendico](https://sendico.com/)
 - [Tenshi Shop](https://tenshishop.com/)
@@ -177,6 +178,6 @@ ___
 
 
 ## Tracker
-- [Buy finder](https://buyfinder.moe/)
-- [Buy Friend](https://buyfriend.moe/)
+- [Buyfinder](https://buyfinder.moe/)
+- [Buyfriend](https://buyfriend.moe/)
 - [Manga Restock Dates Spreadsheet](https://docs.google.com/spreadsheets/d/1tOGtBsGqNvlOxCBOg3HxBkvgqQyC_ehjBvr4Bx1PG4M/)
