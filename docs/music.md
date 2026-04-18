@@ -127,7 +127,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [DAB Music Player](https://dabmusic.xyz/) :acc: | ^^ |
 | [Jumo-DL](https://jumo-dl.pages.dev/) | ^^ |
 | [Monochrome](https://monochrome.tf/) [:src:](https://github.com/monochrome-music/monochrome) | Tidal |
-| [QQDL](https://tidal.qqdl.site/) [:src:](https://github.com/binimum/tidal-ui) | ^^ |
 
 ## Doujin
 
