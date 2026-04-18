@@ -65,10 +65,10 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Ring** | [Mahō Shōjo](https://www.pixiv.net/en/artworks/94104639) | Merch link embed |
 | **さめあんこ (Sameanko)** | [:cat: :shark: :bathtub: :sparkles:](https://www.pixiv.net/en/artworks/93131457) | [Home art](/) |
 | **SHAFT** | [Ene](https://kagerouproject.fandom.com/wiki/Ene#Anime) | [Music banner](/music#download) |
+| **しろい (Shiroi)** | [260418](https://www.pixiv.net/en/artworks/143685358) | Default link embed |
 | **Soemy** | [:eyes:](https://x.com/Soemy_Yuka/status/2028141464287420436) | Icon key banner |
 | **Taizo** | [The sound of the forest, the smell of paper.](https://www.pixiv.net/en/artworks/120581878) | Japan link embed |
 | **tencross** | [Ainz Ooal Gown](https://vsbattles.fandom.com/wiki/Ainz_Ooal_Gown) | [Novel banner](/websites#novels) |
-| **Text682** | [rkgk](https://www.pixiv.net/en/artworks/141606115) | Default link embed |
 | **Toei** | [Kamen Rider Imperial Demons](https://www.deviantart.com/stainrender/art/Kamen-Rider-Imperial-Demons-Render-1025700355) | [Tokusatsu banner](/websites#tokusatsu) |
 | **たくぼん (Tokubon)** | [Suichan wa~??](https://www.pixiv.net/en/artworks/82665330) | Music link embed |
 | **トパドリ (Topadori)** | [Patchouli](https://www.pixiv.net/en/artworks/95111697) | Guide default link embed |
@@ -111,6 +111,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Takashi Takeuchi**        | [Shiki Ryougi](https://danbooru.donmai.us/posts/2671155)                                           | Fate banner         |
 | **てのべ (Tenobe)**         | [Enkidu](https://www.pixiv.net/en/artworks/67902495)                                               | Fate banner         |
 | **Takeshi Obata**           | [Moritaka Mashiro](https://konachan.com/post/show/71470)                                           | Scanlation link embed |
+| **Text682** | [rkgk](https://www.pixiv.net/en/artworks/141606115) | Default link embed |
 | **TROYCA**                  | [Waver Velvet](https://yande.re/post/show/551600)                                                  | Fate banner         |
 | **티비아래underdatv**       | [Smol Ina's diary](https://x.com/underdatv/status/1790765775349072046)                             | Favicon             |
 | **Walfie**                  | [Ninomae Ina’nis peek](https://x.com/ninomaeinanis/status/1339282161715691521)                     | General banner      |
