@@ -39,7 +39,7 @@ const credits = {
     {
       name: 'DenpaEater',
       site: 'https://x.com/shibayanfanclub',
-      avatar: '/pfp/denpa.jpg'
+      avatar: 'https://pbs.twimg.com/profile_images/1704978770069794816/xVTPlA83_400x400.png'
     }
   ],
   discrip: [
