@@ -1,3 +1,10 @@
+---
+title: nyaa
+customDescription: A tutorial for navigating nyaa
+og:
+    image: https://i.wotaku.wiki/f/tor.png
+---
+
 ## Categories
 
 | Category | Subcategory | Icon | Description |

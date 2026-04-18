@@ -106,7 +106,7 @@ async function generateImage({
       description: frontmatter.layout === 'home'
         ? (frontmatter.hero.tagline ?? frontmatter.description)
         : frontmatter.description,
-      image: frontmatter.og?.image ?? 'https://i.wotaku.wiki/f/chikita.png'
+      image: frontmatter.og?.image ?? 'https://i.wotaku.wiki/f/default.webp'
     }
   }
 
