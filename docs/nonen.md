@@ -331,7 +331,7 @@ og:
   - [Database Tontonan Wibu Indonesia](https://db.silveryasha.id/)
   - [Indonesian Fansubbers' Index](https://www.fansub.id/home)
 - **Stream**
-  - [Anichin](https://s24.anichin.blog/) [:prx:](https://anichin.bio/)
+  - [Anichin](https://s25.anichin.blog/) [:prx:](https://anichin.bio/)
   - [Kuramanime](https://kuramanime.red/)
   - [Kiyocomics](https://kiyocomics.netlify.app/) [:src:](https://github.com/Bilhaq12/kiyoanime)
   - [Mynimeku](https://www.mynimeku.com/)

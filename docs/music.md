@@ -126,7 +126,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [ARCOD](https://www.arcod.xyz/) :acc: | Qobuz |
 | [DAB Music Player](https://dabmusic.xyz/) :acc: | ^^ |
 | [Jumo-DL](https://jumo-dl.pages.dev/) | ^^ |
-| [Monochrome](https://monochrome.tf/) [:src:](https://github.com/monochrome-music/monochrome) | Tidal |
+| [Monochrome](https://monochrome.tf/) [:prx:](https://rentry.org/wotaxy#monochrome) [:src:](https://github.com/monochrome-music/monochrome) | Tidal |
 
 ## Doujin
 

@@ -43,7 +43,6 @@ og:
 | :--- | :--- | :--- |
 | **Local** | [mpvEx](https://github.com/marlboro-advance/mpvEx) :s: [:n:](https://marlboro-advance.github.io/mpvEx/) | :and: |
 | ^^ | ^[MX Player](Don't install the Play Store version as it was bought by Amazon, use Balatan's mod instead.) :s::cs: | :and: |
-| ^^ | [mpvKt](https://github.com/abdallahmehiz/mpvKt) [:n:](https://nightly.link/abdallahmehiz/mpvKt/workflows/nightlies/main) | :and: |
 | ^^ | [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) :cs: | :ios: |
 | **Online** | [Revanced](https://revanced.app/) [:src:](https://github.com/ReVanced/revanced-manager) | :and: |
 | ^^  | [Morphe](https://morphe.software/) [:src:](https://github.com/MorpheApp/morphe-manager) | :and: |

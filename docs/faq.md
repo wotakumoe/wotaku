@@ -162,7 +162,7 @@ On the other hand, aggregators like [**AnimeKai**](https://animekai.to/home), [*
 [**mpv**](https://mpv.io/) kinda covers everything for pc. We have listed everything you need for mpv in the [**tools page**](/tools#mpv).
 
 ### Android
-For android, there is also [mpvKt](https://github.com/abdallahmehiz/mpvKt) but the UI is too limited. You can use [**Aniyomi**](https://github.com/aniyomiorg/aniyomi)'s local option to watch anime. The UI is optimized with a good amount of options.
+For android, there is also [**mpvEx**](https://github.com/marlboro-advance/mpvEx) but the UI is too limited. You can use [**Aniyomi**](https://github.com/aniyomiorg/aniyomi)'s local option to watch anime. The UI is optimized with a good amount of options.
 :::
 
 
