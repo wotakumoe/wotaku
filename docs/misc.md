@@ -12,12 +12,25 @@ outline: [1,2]
 ## General
 - [AniList](https://anilist.co/) :s:
 - [MyAnimeList](https://myanimelist.net/) :s:
-- [Anime Planet](https://www.anime-planet.com/)
+- [MangaBaka](https://mangabaka.org/) :s:
 - [aniSearch](https://www.anisearch.com/)
+- [Anime Planet](https://www.anime-planet.com/)
 - [Kitsu](https://kitsu.app/explore/anime)
 - [Kurozora](https://kurozora.app/)
-- [Sakuhin Database](https://sakuhindb.com/) :ljp:
 - [Wikipedia](https://www.wikipedia.org/) :s:
+- [Sakuhin Database](https://sakuhindb.com/) :ljp:
+
+<ScrapeTable :sites="[
+  { name: 'AniList', scrapes: { 'Anime': '', 'Manga': '', 'Novel': '' } },
+  { name: 'MyAnimeList', scrapes: { 'Anime': '', 'Manga': '', 'Novel': '' } },
+  { name: 'MangaBaka', scrapes: { 'Manga': '', 'Novel': '' } },
+  { name: 'aniSearch', scrapes: { 'Anime': '', 'Manga': '', 'Novel': '', 'Live Action': '', 'Tokusatsu': '' } },
+  { name: 'Anime Planet', scrapes: { 'Anime': '', 'Manga': '' } },
+  { name: 'Kitsu', scrapes: { 'Anime': '', 'Manga': '' } },
+  { name: 'Kurozora', scrapes: { 'Anime': '', 'Manga': '', 'Games': '' } },
+  { name: 'Wikipedia', scrapes: { 'Anime': '', 'Manga': '', 'Novel': '', 'Games': '', 'Live Action': '', 'Tokusatsu': '' } },
+  { name: 'Sakuhin Database', scrapes: { 'Anime': '', 'Manga': '', 'Novel': '', 'Games': '', 'Live Action': '', 'Tokusatsu': '' } }
+]" />
 
 ::: tip Tracker related utility sites
 Visit the [**tracker utility**](#tracker) section for tracker stats and data transfer between sites.
@@ -35,7 +48,6 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 - [TVDB](https://www.thetvdb.com/)
 
 ## Manga
-- [MangaBaka](https://mangabaka.org/) :s:
 - [MangaUpdates](https://www.mangaupdates.com/) :s:
 - [Manba](https://manba.co.jp/) :s::ljp:
 - [Bookmeter](https://bookmeter.com/) :ljp:
