@@ -11,7 +11,7 @@ og:
 
 </script>
 
-# Torrenting
+## Torrenting
 
 <Deck>
   <Card title="Getting started" href="/torrenting/start">

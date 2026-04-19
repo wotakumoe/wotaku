@@ -23,15 +23,13 @@ og:
 - [Mordraug's Personal Japanese Observations Diary](https://docs.google.com/document/d/1kxYa53a2UjnpMZyHdU-YNuctkq6wHT3cJ00Z5poj2hY/edit)
 :::
 
-::: details General resources
-
+## General resources
 | Site | Kana | Kanji | Grammar | Quiz | Books |
 |-|-|-|-|-|-|
-| [Nihongo NET](https://nihongokyoshi-net.com/) | :yes: | :yes: | :yes: | :yes: | :yes: | 
-| [KanaDojo](https://kanadojo.com/) [:src:](https://github.com/lingdojo/kana-dojo) | :yes: | :yes: | :no: | :yes: | :no: | 
-| [renshuu](https://www.renshuu.org/) | :yes: | :yes: | :yes: | :yes: | :yes: | 
-
-:::
+| [KanaDojo](https://kanadojo.com/) [:src:](https://github.com/lingdojo/kana-dojo) | :yes: | :yes: | :no: | :yes: | :no: |
+| [Meguro Language Center](https://www.mlcjapanese.co.jp/) | :yes: | :yes: | :yes: | :yes: | :no: |
+| [Nihongo NET](https://nihongokyoshi-net.com/) | :yes: | :yes: | :yes: | :yes: | :yes: |
+| [renshuu](https://www.renshuu.org/) | :yes: | :yes: | :yes: | :yes: | :yes: |
 
 ## Kana
 

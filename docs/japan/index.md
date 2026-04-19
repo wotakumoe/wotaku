@@ -11,7 +11,7 @@ og:
 
 </script>
 
-# Japan
+## Japan
 
 <Deck>
   <Card title="Language" href="/japan/language">
