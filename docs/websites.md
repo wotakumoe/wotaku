@@ -34,7 +34,7 @@ outline: 1
 | Websites | Login | Tracking | Sub |
 |----------|----------------|----------------------------|--------|
 | [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) | :yes: | :no: | :cc::hs: |
-| [Anibd](https://animedefenders.me/) :ero: [:alt:](https://ani.lol/) | :yes: | :no: | :hs: |
+| [Anibd](https://anibd.app/) :ero: [:alt:](https://ani.lol/) | :yes: | :no: | :hs: |
 | [AniHQ](https://anihq.to/home/) | :yes: | :no: | :hs: |
 | [Animepahe](https://animepahe.com/) ==Animepahe== | :no: | :msync: | :hs: |
 | [AnimeZ](https://animeyy.com/) ==animez== | :yes: | :no: | :hs: |

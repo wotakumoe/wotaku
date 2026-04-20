@@ -17,24 +17,22 @@ og:
 :::
 
 ## Anime
-- [Anime Defenders](https://animedefenders.me/) <Badge type="info" text="720p" />
-- [AnimeID Hentai](https://animeidhentai.com/)
+- [Anibd](https://anibd.app/anime-seasontype/ani16/) [:alt:](https://ani.lol/anime-seasontype/ani16/)
 - [Hanime](https://hanime.tv/home) <Badge type="info" text="720p" />
 - [Hanime1](https://hanime1.me/) :ljp::lcn:
 - [Hentai.tv](https://hentai.tv/)
 - [Hentaibros](https://hentaibros.net/)
-- [Hentai AHO Streaming](https://haho.moe/)
-- [Hentai Haven](https://hentaihaven.xxx/)
+- [Hentai AHO Streaming](https://haho.moe/) :ded:
 - [Hentai Mama](https://hentaimama.io/)
-- [Hentai Stream](https://hstream.moe/) <Badge type="info" text="Upscale" />
+- [Hentai Ocean](https://hentaiocean.com/)
 - [Hentaverse](https://hentaverse.com/)
+- [HStream](https://hstream.moe/) <Badge type="info" text="Upscale" />
 - [Mucho Hentai](https://muchohentai.com/) <Badge type="info" text="Schedule" /><Badge type="info" text="PV" />
-- [Oppai](https://oppai.stream/) <Badge type="info" text="Upscale" />
+- [Oppai Stream](https://oppai.stream/) <Badge type="info" text="Upscale" />
 
 
 ::: details More
 - [AmateurSubs](https://amateursubs.com/) :ddl: <Badge type="tip" text="Nyaa" link="https://sukebei.nyaa.si/user/denis18312" />
-- [Hentai Ocean](https://hentaiocean.com/)
 - [HenVids](https://henvids.com/)
 - [Rule34video](https://rule34video.com/)
 - [SakuraCircle](https://sakuracircle.com/) :ddl: :ded:<Badge type="tip" text="Nyaa" link="https://sukebei.nyaa.si/user/Tennouji" />
@@ -259,6 +257,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 
 ### Discord servers
 - [:d: Hanako's Hideout](https://discord.gg/jVvSbYB)
+- [:d: Hanime.tv Community](https://discord.gg/hanime-tv)
 - [:d: Rule34.xxx](https://discord.gg/rule34xxx)
 - [:d: Tsumino](https://discord.gg/v6RfNfA7WW)
 
