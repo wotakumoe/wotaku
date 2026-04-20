@@ -34,28 +34,29 @@ outline: [1,2]
 
 ::: details The More You Know :s:
 
-| Section | Database | Rules |
-| :--- | :--- | :--- |
-| Anime | AniList | Only adds professionally produced animation where a Japanese studio has significant control. Example: Star Wars: Visions. |
-| Manga | Anime-Planet | Does not add lolicon, shotacon, or ero manga. |
-| OEL | MyAnimeList | Does not add OEL. |
-| ^^ | AniList | Adds OEL but has a lot of criteria. |
-| Doujinshi | MyAnimeList | Only adds Japanese doujinshi published physically, sold via events, online retailers, or mailing. |
-| ^^ | AniList | Only adds Japanese doujinshi if staff has a professional background or has published via a publisher. |
-| ^^ | ^^ | Must be original work with a proper story.
-| ^^ |  | Adds doujin webcomics that were later serialized without much modification. |
-| ^^ | ^^ | Does not add Korean doujinshi. |
-| ^^ | Anime-Planet | Only Japanese doujinshi; no parodies, no webtoon doujinshi, and staff must have a professional background. |
-| Novels | MyAnimeList | Adds direct adaptations / prequels / sequels / spin-offs of existing database entries (1980+ only); no interpretations. |
-| ^^ | AniList | Does not add novels with manga-style aesthetics except for Light Novels. |
-| ^^ | Anime-Planet | Does not add Japanese web novels until picked up by a publisher as Light Novels. |
-| ^^ | ^^ | Adds Korean web novels (official or unofficial translations). |
-| ^^ | ^^ | Adds Chinese web novels only if officially licensed. |
-| Light Novels | MyAnimeList | Adds Light Novels and Korean / Chinese novels only if they have an adaptation. |
-| ^^ | ^^ | Must be published in volumes/magazines under a recognized Light Novel label. |
-| ^^ | ^^ | Unlabeled series considered if they meet regular novel criteria and have sufficient illustrations for Art credits. |
-| ^^ | AniList | Only adds Japanese light novels from reputed publishers. |
-| ^^ | ^^ | If explicitly labeled as Light Novel by publishers or retailers. |
+| Section      | Database     | Rules |
+| :---         | :---         | :--- |
+| Anime        | AniList      | Only adds professionally produced animation where a Japanese studio has significant control. Example: Star Wars: Visions. |
+| Manga        | Anime-Planet | Does not add lolicon, shotacon, or ero manga. |
+| OEL          | MyAnimeList  | Does not add OEL. |
+| ^^           | AniList      | Adds OEL but has a lot of criteria. |
+| Doujinshi    | MyAnimeList  | Only adds Japanese doujinshi published physically, sold via events, online retailers, or mailing. |
+| ^^           | ^^           | Staff has to have professional background. |
+| ^^           | AniList      | Only adds Japanese doujinshi if staff has a professional background or has published via a publisher. |
+| ^^           | ^^           | Must be original work with a proper story.
+| ^^           | ^^           | Adds doujin webcomics that were later serialized without much modification. |
+| ^^           | ^^           | Does not add Korean doujinshi. |
+| ^^           | Anime-Planet | Only Japanese doujinshi; no parodies, no webtoon doujinshi, and staff must have a professional background. |
+| Novels       | MyAnimeList  | Adds direct adaptations / prequels / sequels / spin-offs of existing database entries (1980+ only); no interpretations. |
+| ^^           | AniList      | Does not add novels with manga-style aesthetics except for Light Novels. |
+| ^^           | Anime-Planet | Does not add Japanese web novels until picked up by a publisher as Light Novels. |
+| ^^           | ^^           | Adds Korean web novels (official or unofficial translations). |
+| ^^           | ^^           | Adds Chinese web novels only if officially licensed. |
+| Light Novels | MyAnimeList  | Adds Light Novels and Korean / Chinese novels only if they have an adaptation. |
+| ^^           | ^^           | Must be published in volumes/magazines under a recognized Light Novel label. |
+| ^^           | ^^           | Unlabeled series considered if they meet regular novel criteria and have sufficient illustrations for Art credits. |
+| ^^           | AniList      | Only adds Japanese light novels from reputed publishers. |
+| ^^           | ^^           | If explicitly labeled as Light Novel by publishers or retailers. |
 
 
 :::
