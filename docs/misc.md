@@ -44,7 +44,7 @@ outline: [1,2]
 | ^^           | ^^           | Staff has to have professional background. |
 | ^^           | AniList      | Only adds Japanese doujinshi if staff has a professional background or has published via a publisher. |
 | ^^           | ^^           | Must be original work with a proper story.
-| ^^           | ^^           | Adds doujin webcomics that were later serialized without much modification. |
+| ^^           |              | Adds doujin webcomics that were later serialized without much modification. |
 | ^^           | ^^           | Does not add Korean doujinshi. |
 | ^^           | Anime-Planet | Only Japanese doujinshi; no parodies, no webtoon doujinshi, and staff must have a professional background. |
 | Novels       | MyAnimeList  | Adds direct adaptations / prequels / sequels / spin-offs of existing database entries (1980+ only); no interpretations. |
