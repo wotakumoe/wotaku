@@ -21,13 +21,13 @@ og:
 - [Hanime](https://hanime.tv/home) <Badge type="info" text="720p" />
 - [Hanime1](https://hanime1.me/) :ljp::lcn:
 - [Hentai.tv](https://hentai.tv/)
-- [Hentaibros](https://hentaibros.net/)
 - [Hentai AHO Streaming](https://haho.moe/) :ded:
+- [Hentai Bros](https://hentaibros.net/)
 - [Hentai Mama](https://hentaimama.io/)
 - [Hentai Ocean](https://hentaiocean.com/)
 - [Hentaverse](https://hentaverse.com/)
 - [HStream](https://hstream.moe/) <Badge type="info" text="Upscale" />
-- [Mucho Hentai](https://muchohentai.com/) <Badge type="info" text="Schedule" /><Badge type="info" text="PV" />
+- [Mucho Hentai](https://muchohentai.com/) <Badge type="info" text="PV & Schedule" />
 - [Oppai Stream](https://oppai.stream/) <Badge type="info" text="Upscale" />
 
 
