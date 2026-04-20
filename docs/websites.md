@@ -21,7 +21,7 @@ outline: 1
 | Websites | Type | Login | Tracking | Sub |
 |----------|----------------|------|----------------------|--------|
 | [AnimeKai](https://animekai.to/home) [:prx:](https://rentry.org/wotaxy#animekai) ==AnimeKai== | :sup: | :yes: | :sync::ie::msync: | :cc::hs: |
-| [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :sup: | :yes: | :sync: | :cc: |
+| [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :sup: | :yes: | :sync::ie::msync: | :cc: |
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :scrpr: | :no: | :no: |  :cc: |
 | [Kaido](https://kaido.to/home) ==Kaido== | :sup: | :yes: | :sync::ie::msync: | :cc: |
 | [KickassAnime](https://kaa.lt/) ==KAA== | :sup: | :yes: | :msync: | :cc: |
@@ -402,6 +402,7 @@ These sites contain a mix of both actual and AI-generated novels.
 | **Guide / Reading Order** | [Comic Book Herald](https://www.comicbookherald.com/) |
 | ^^                     | [Comic Book Reading Orders](https://comicbookreadingorders.com/) |
 | ^^                     | [Complete Marvel Reading Order](https://cmro.travis-starnes.com/) |
+| ^^                     | [Continuity Guide](https://www.continuityguide.net/) |
 | ^^                     | [How To Love Comics](https://www.howtolovecomics.com/) |
 | ^^                     | [Marvel Guides](https://marvelguides.com/) |
 | ^^                     | [Official Marvel Guides](https://www.marvel.com/comics/guides) |

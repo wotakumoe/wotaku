@@ -44,6 +44,9 @@ og:
 - [Azora Moon](https://azoramoon.com/)
 - [Swat Manga](https://meshmanga.com/)
 
+### Novels
+- [Hizo Manga](https://hizomanga.net/)
+
 ### NSFW
 - [Arabs Hentai](https://arabshentai.com/)
 - [Hentai Time](https://hentai-time.com/)
@@ -652,7 +655,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [MangaCrab](https://mangacrab.org/) :ero:
 - [MangaOni](https://manga-oni.com/)
 - [NOVA](https://novelasligeras.net/)
-- [Plot Twist No Fansub](https://plotnf.com/)
 
 ### Light Novels
 - [Next Novels](https://nextnovels.com/)
