@@ -106,7 +106,8 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | General | [Anisil](https://www.anisil.com/) :ljp: |
 | Animation | [Anime Staff Matcher](https://staff.iklone.org/) :mal: [:src:](https://github.com/iklone/anime-staff-matcher) |
 | ^^ | [KeyFrame Staff List](https://keyframe-staff-list.com/) :s: |
-| Seiyuu / Voice Actor | [AVAC.moe](https://avac.moe/index.php) :mal: |
+| Seiyuu / Voice Actor | [Anime Hack](https://anime.eiga.com/person/) :fjp: |
+| ^^ | [AVAC.moe](https://avac.moe/index.php) :mal: |
 | ^^ | [Seiyuu.moe](https://seiyuu.moe/) :mal: |
 | ^^ | [Seiyuu Database](http://www.usagi.org/doi/seiyuu/index.html) |
 | ^^ | [Behind The Voice Actors](https://www.behindthevoiceactors.com/) <tooltip>Focuses on English VAs more.</tooltip> |
@@ -180,7 +181,8 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [Kansou](https://www.kansou.me/) :s: :ljp: |  
 | ^^ | [Moon Phase](https://m-p.sakura.ne.jp/) :ljp: |  
 | ^^ | [Syoboi Calendar](https://cal.syoboi.jp/) :ljp: [:rss:](https://docs.cal.syoboi.jp/spec/rss.php/) |  
-| Others | [Blu-ray.com](https://www.blu-ray.com/movies/movies.php?genre=Anime&sortby=releasetimestamp) |
+| Others | [Anime Hack](https://anime.eiga.com/) :ljp: |    
+| ^^  | [Blu-ray.com](https://www.blu-ray.com/movies/movies.php?genre=Anime&sortby=releasetimestamp) |
 | ^^  | [Yatta-Tachi Movie Schedule](https://yattatachi.com/2026-anime-japanese-films-coming-to-u-s-theaters-online) |
 
 ## Manga & LN
@@ -240,21 +242,21 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 
 | Category | Websites |  
 |----------|----------|  
+| **General** | [Anitrendz](https://anitrendz.net/news/) [:x:](https://x.com/anitrendz) |
+| ^^ | [Catsuka](https://www.catsuka.com/) :lfr: |
 | **Info / News** | [Animation Business Journal](http://animationbusiness.info/) :ljp: |
-| ^^ | [Anime Corner](https://animecorner.me/) :s: [:x:](https://x.com/animecorner_ac) |  
+| ^^ | [Anime Corner](https://animecorner.me/) [:x:](https://x.com/animecorner_ac) |  
 | ^^ | [Anime Freaks](https://times.abema.tv/anime) :ljp: |  
 | ^^ | [Anime News by AIR](https://x.com/AIR_News01) :x: |  
 | ^^ | [Animenomics](https://news.animenomics.com/) :fm::sub: |  
-| ^^ | [Anitrendz](https://anitrendz.net/news/) [:x:](https://x.com/anitrendz) |  
 | ^^ | [AnimeTV](https://animetv-jp.net/) [:x:](https://x.com/animetv_jp) |  
-| ^^ | [Eiga](https://anime.eiga.com/) :ljp: |   
 | ^^ | [Toonami Squad](https://toonamisquad.com/) [:x:](https://x.com/ToonamiSquad) |  
 | **Blog / Interview** | [Animation Obsessive](https://animationobsessive.substack.com/) :fm::sub: [:x:](https://x.com/ani_obsessive) |  
 | ^^ | [Anime Herald](https://www.animeherald.com/) |  
 | ^^ | [Anime Mind Probe](https://www.youtube.com/@ANIMEMINDPROBE) :s: |
-| ^^ | [Animétudes](https://animetudes.com/) :s: |  
-| ^^ | [Full Frontal](https://fullfrontal.moe/) :s: |  
-| ^^ | [Furaba Anime search](https://furaba-animeseichi.blog.jp/) |  
+| ^^ | :prev: [Full Frontal](https://fullfrontal.moe/) :s::ded: |  
+| ^^ | [Animétudes](https://animetudes.com/) :s::ded: |  
+| ^^ | [Furaba Anime search](https://furaba-animeseichi.blog.jp/) :ljp: |  
 | ^^ | [Let's Anime](https://letsanime.blogspot.com/) |  
 | ^^ | [NHK: Anime & Manga](https://www3.nhk.or.jp/nhkworld/en/shows/category/31/) :s: |
 | ^^ | [Sakuga Blog](https://blog.sakugabooru.com/) :s: [:x:](https://x.com/SakugaBlog) [:rss:](https://blog.sakugabooru.com/feed/) |  
@@ -273,7 +275,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | **Blog / Interview** | [BehindTheManga](https://www.behindthemanga.com/) |  
 | ^^ | [Manga Bookshelf](https://mangabookshelf.com/) |  
 | ^^ | [Mangasplaining](https://www.mangasplaining.com/) [:x:](https://x.com/mangasplaining) |
-| ^^ | [Mangasplaining Extra](https://mangasplaining.substack.com/) |
+| ^^ | :prev: [Mangasplaining Extra](https://mangasplaining.substack.com/) |
 | ^^ | [TheOASG](https://www.theoasg.com/) [:x:](https://x.com/TheOASG) |  
 
 
