@@ -112,12 +112,10 @@ For game [**downloads**](https://megathread.pages.dev/download) and [**emulation
 - [Pokémon Infinite Fusion](https://infinitefusion.fandom.com/wiki/Pok%C3%A9mon_Infinite_Fusion_Wiki)
 - [Pokémon Revolution](https://pokemonrevolution.net/home)
 - [Pokémon Showdown!](https://play.pokemonshowdown.com/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://dex.pokemonshowdown.com/" />
-- [Pokémon Xenoverse](https://pokemonxenoverse.com/)
 - [PokéRogue](https://pokerogue.net/) [:src:](https://github.com/pagefaultgames/pokerogue)
 - [Who's that Pokémon?](https://gearoid.me/pokemon/)
 
 ### Tools
-- [dataDex](https://play.google.com/store/apps/details?id=com.talzz.datadex) :and:
 - Nuzlocke Chart [:and:](https://play.google.com/store/apps/details?id=com.pseudocode.nuzlockechart) [:ios:](https://apps.apple.com/us/app/nuzlocke-chart/id1573090300)
 - [PKHeX](https://github.com/kwsch/PKHeX)
 - [Poké Transporter GB](https://github.com/GearsProgress/Poke_Transporter_GB)

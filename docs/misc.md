@@ -225,7 +225,8 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 
 | Category | Websites |  
 |----------|----------|  
-| **Info / News** | [Anime News Network](https://www.animenewsnetwork.com/) :s: [:x:](https://x.com/anime) [:rss:](https://www.animenewsnetwork.com/newsfeed/) |  
+| **Info / News** | [animate Times](https://www.animatetimes.com/) :ljp: |
+| ^^ | [Anime News Network](https://www.animenewsnetwork.com/) :s: [:x:](https://x.com/anime) [:rss:](https://www.animenewsnetwork.com/newsfeed/) |  
 | ^^ | [Anime UK News](https://animeuknews.net/) :cuk: |  
 | ^^ | [Crunchyroll News](https://www.crunchyroll.com/news) [:rss:](https://www.crunchyroll.com/feed) |  
 | ^^ | [GUNDAM.INFO](https://en.gundam.info/) |  

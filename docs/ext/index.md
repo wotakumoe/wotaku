@@ -1,8 +1,8 @@
 ---
-title: Guides
-description: Various helpful Tutorials & Guides
+title: Extensions
+description: Extension repos for various apps
 og:
-    image: https://i.wotaku.wiki/f/guide.png
+    image: https://i.wotaku.wiki/f/extension.png
 ---
 
 <script setup>

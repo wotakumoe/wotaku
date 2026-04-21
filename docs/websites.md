@@ -443,6 +443,7 @@ These sites contain a mix of both actual and AI-generated novels.
 | General | [Anime Bancho](https://www.youtube.com/@AnimeBancho) |
 | ^^ | [Anime Manga Official by Kodansha](https://www.youtube.com/@AnimeMangaOfficial) |
 | ^^ | [Ani-One Asia](https://www.youtube.com/@AniOneAsia) |
+| ^^ | [Cartoon Power Up](https://www.youtube.com/@CartoonPowerUp) |
 | ^^ | [CONtv](https://www.youtube.com/@CONtv) |
 | ^^ | [It's Anime by REMOW](https://www.youtube.com/@ItsAnimeJP) |
 | ^^ | [Muse Asia](https://www.youtube.com/@MuseAsia) |

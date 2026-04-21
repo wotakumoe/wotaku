@@ -118,8 +118,8 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 | Website | Service |
 |-|-|
-| [Lucida](https://lucida.to/) :s: | Multi-Service |
-| [DoubleDouble](https://doubledouble.top/) :s: | ^^ |
+| [DoubleDouble](https://doubledouble.top/) :s: | Multi-Service |
+| [Lucida](https://lucida.to/) :s: | ^^ |
 | [Squid.wtf](https://squid.wtf/) | ^^ |
 | [T2Tunes](https://t2tunes.site/) | Amazon |
 | [am-dl](https://am-dl.pages.dev/) | Apple |
