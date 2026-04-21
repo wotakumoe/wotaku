@@ -450,9 +450,10 @@ These sites contain a mix of both actual and AI-generated novels.
 | ^^ | [Arait Play English](https://www.youtube.com/@AraitPlayEnglish) <Badge type="info" text="Inazuma Eleven"/> |
 | ^^ | [BEYBLADE English](https://www.youtube.com/@BeybladeOfficial) <Badge type="tip" text="Old" link="https://www.youtube.com/@beyblade-official" /> |
 | ^^ | [CARDFIGHT Vanguard](https://www.youtube.com/@CARDFIGHTVanguard) |
-| ^^ | [Code Lyoko US](https://www.youtube.com/@CODELYOKOENGLISHOFFICIAL) <Badge type="tip" text="FR" link="https://www.youtube.com/@codelyokoofficiel7410" /> |
-| ^^ | [Pokémon TV](https://www.youtube.com/@OfficialPoke%CC%81monTV) |
 | ^^ | [Official Yu-Gi-Oh!](https://www.youtube.com/@yugioh) |
+| ^^ | [Pokémon TV](https://www.youtube.com/@OfficialPoke%CC%81monTV) |
+| Cartoon | [Code Lyoko US](https://www.youtube.com/@CODELYOKOENGLISHOFFICIAL) <Badge type="tip" text="FR" link="https://www.youtube.com/@codelyokoofficiel7410" /> |
+| ^^ | [Huntik: Secrets & Seekers](https://www.youtube.com/@HuntikOfficial) |
 | ^^ | [Valerian & Laureline US](https://www.youtube.com/@valerianlaurelineenglishof984) <Badge type="tip" text="FR" link="https://www.youtube.com/@valerianlaurelineofficiel9316" /> |
 
 ::: info Content availability
