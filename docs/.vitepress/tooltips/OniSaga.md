@@ -1,1 +1,1 @@
-This site mostly scrapes from MangaFire, so it can be kept as a backup if MangaFire bites the dust. The double-page reader isn't centered and can't detect spreads.
+This site mostly scrapes from MangaFire, so it can be kept as a backup if MangaFire bites the dust.
