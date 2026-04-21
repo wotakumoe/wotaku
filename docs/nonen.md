@@ -726,7 +726,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [Cuu Truyen](https://cuutruyen.net/) [:prx:](https://truycapcuutruyen.pages.dev/)
 - [DocTruyen3Q](https://doctruyen3qui15.com/) :ero:
 - [FoxTruyen](https://foxtruyen.com/)
-- [Goc Truyen Tranh](https://goctruyentranh.net/)
 - [MangaMAX](https://manga-max.vercel.app/) [:src:](https://github.com/huynlx/MangaMAX)
 - [NhatTruyen](https://nhattruyenqq.com/)
 - [Than Vuc](https://thanvuc.com/)

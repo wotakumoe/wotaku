@@ -290,7 +290,7 @@ These sites contain a mix of both actual and AI-generated novels.
 | **Nyaa**        | [AlpinDale](https://nyaa.si/user/AlpinDale) |
 | ^^              | [CleanBookGuy](https://nyaa.si/?f=0&c=3_1&q=CleanBookGuy) |
 | ^^              | [Ganba](https://nyaa.si/user/Ganba?f=0&c=3_1&q=) :ded: |
-| ^^              | [HowUnfortunate](https://nyaa.si/user/HowUnfortunate?f=0&c=3_1&q=) |
+| ^^              | [HowUnfortunate](https://nyaa.si/user/HowUnfortunate?f=0&c=3_1&q=) :ded: |
 | ^^              | [LuCaZ](https://nyaa.si/?f=0&c=3_1&q=%22%5BLuCaZ%5D%22) |
 | ^^              | [Stick](https://nyaa.si/?f=0&c=3_1&q=%22%5BStick%5D%22) |
 | **Direct Download** | [Ganba's DDL sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSvd0SjjPYZKzhUwTYK2n2peZD_n6_wDmEKV3I37nuM-FnOtAU5xZkec35GabjrZ6olJTbr_CMXS6AH/pubhtml) :ded: |
