@@ -423,17 +423,19 @@ These sites contain a mix of both actual and AI-generated novels.
 ## Anime
 
 ### Platforms
-- [Bilibili](https://www.bilibili.tv/en/anime)
-- [Crunchyroll](https://www.crunchyroll.com/)
-- [Disney+](https://www.disneyplus.com/)
-- [HBO Max](https://www.hbomax.com/)
-- [HIDIVE](https://www.hidive.com/)
-- [Netflix](https://www.netflix.com/)
-- [OceanVeil](https://oceanveil.net/) :ero:
-- [Pluto TV](https://pluto.tv/)
-- [Prime Video](https://www.primevideo.com/)
-- [RetroCrush](https://www.retrocrush.tv/home)
-- [Tubi](https://tubitv.com/)
+| Type | Website |
+| :--- | :--- |
+| Dedicated | [Crunchyroll](https://www.crunchyroll.com/)
+| ^^ | [HIDIVE](https://www.hidive.com/)
+| ^^ | [RetroCrush](https://www.retrocrush.tv/home)
+| ^^ | [OceanVeil](https://oceanveil.net/) :ero:
+| General | [Bilibili](https://www.bilibili.tv/en/anime)
+| ^^ | [Disney+](https://www.disneyplus.com/)
+| ^^ | [HBO Max](https://www.hbomax.com/)
+| ^^ | [Netflix](https://www.netflix.com/)
+| ^^ | [Pluto TV](https://pluto.tv/)
+| ^^ | [Prime Video](https://www.primevideo.com/)
+| ^^ | [Tubi](https://tubitv.com/)
 
 ### YouTube
 | Type | Channel |
