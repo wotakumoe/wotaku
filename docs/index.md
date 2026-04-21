@@ -6,8 +6,8 @@ hero:
   name: 'Wotaku'
   text: 'The Otaku Index'
   announcement:
-    title: Mihon & Aniyomi Extensions
-    link: /ext/mihon
+    title: Extension Repos
+    link: /ext/
   image:
     src: \asset\same.png
     alt: Wotaku
