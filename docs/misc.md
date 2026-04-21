@@ -106,7 +106,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | General | [Anisil](https://www.anisil.com/) :ljp: |
 | Animation | [Anime Staff Matcher](https://staff.iklone.org/) :mal: [:src:](https://github.com/iklone/anime-staff-matcher) |
 | ^^ | [KeyFrame Staff List](https://keyframe-staff-list.com/) :s: |
-| Seiyuu / Voice Actor | [Anime Hack](https://anime.eiga.com/person/) :fjp: |
+| Seiyuu / Voice Actor | [Anime Hack](https://anime.eiga.com/person/) :ljp: |
 | ^^ | [AVAC.moe](https://avac.moe/index.php) :mal: |
 | ^^ | [Seiyuu.moe](https://seiyuu.moe/) :mal: |
 | ^^ | [Seiyuu Database](http://www.usagi.org/doi/seiyuu/index.html) |
