@@ -40,6 +40,11 @@ og:
 | Multi-Subs | [URL](https://exten.pages.dev/multi/index.json) |
 | Hentai | [URL](https://exten.pages.dev/hentai/index.json) |
 
+## IReader
+| Type | Manual |
+|-|-|
+| [Official](https://github.com/IReaderorg/IReader-extensions) | [URL](https://raw.githubusercontent.com/IReaderorg/IReader-extensions/refs/heads/repov2/index.min.json) |
+
 ## Kotatsu
 - [Mochi](https://github.com/mochi-plugins/repository)
 
@@ -48,9 +53,14 @@ i am so tired of this shit lol. every forks work differently. just use mihon or 
 :::
 
 ## Legado
+
 | Name | Region | Auto | Manual |
 | - | - | - | - |
 | [rektpartyaftermath](https://github.com/rektpartyaftermath/Legado-booksource-collection) | :len: | [Install](legado://import/bookSource?src=https://raw.githubusercontent.com/rektpartyaftermath/Legado-booksource-collection/main/AllBooksource.json) | [URL](https://raw.githubusercontent.com/rektpartyaftermath/Legado-booksource-collection/main/AllBooksource.json) |
+| [ZWolken's Japanese light novels](https://github.com/ZWolken/Light-Novel-Yuedu-Source) | :lcn: | [Install](legado://import/bookSource?src=https://github.com/ZWolken/Light-Novel-Yuedu-Source/releases/latest/download/Japan_based_bookSource.json) | [URL](https://github.com/ZWolken/Light-Novel-Yuedu-Source/releases/latest/download/Japan_based_bookSource.json) |
+| [ZWolken;s Chinese light novels](https://github.com/ZWolken/Light-Novel-Yuedu-Source) | :lcn: | [Install](legado://import/bookSource?src=https://github.com/ZWolken/Light-Novel-Yuedu-Source/releases/latest/download/China_based_bookSource.json) | [URL](https://github.com/ZWolken/Light-Novel-Yuedu-Source/releases/latest/download/China_based_bookSource.json) |
+| [ZWolken's Japanese raw light novels](https://github.com/ZWolken/Light-Novel-Yuedu-Source) | :ljp: | [Install](legado://import/bookSource?src=https://github.com/ZWolken/Light-Novel-Yuedu-Source/releases/latest/download/Japanese_original_bookSource.json) | [URL](https://github.com/ZWolken/Light-Novel-Yuedu-Source/releases/latest/download/Japanese_original_bookSource.json) |
+| [ZWolken all sources](https://github.com/ZWolken/Light-Novel-Yuedu-Source) | :lcn::ljp: | [Install](legado://import/bookSource?src=https://github.com/ZWolken/Light-Novel-Yuedu-Source/releases/latest/download/All_bookSource.json) | [URL](https://github.com/ZWolken/Light-Novel-Yuedu-Source/releases/latest/download/All_bookSource.json) |
 
 ## LNReader
 | Name | Region | Auto | Manual |

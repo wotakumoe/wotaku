@@ -11,7 +11,7 @@ og:
 
 </script>
 
-# Extension Repos
+## Extension Repos
 
 <Deck>
   <Card title="Mihon" href="/ext/mihon">
@@ -27,3 +27,22 @@ og:
     Extension repos for the rest of the apps
   </Card>
 </Deck>
+
+
+## Cross-app Support
+<ScrapeTable :sites="[
+  { name: 'Anymex', scrapes: { 'Mihon': '', 'Aniyomi': '', 'Mangayomi': '', 'Sora': '', 'Cloudstream': '', 'LNreader': '' } },
+  { name: 'Cloudstream', scrapes: { 'Cloudstream': '', 'Aniyomi': '' } },
+  { name: 'Dantotsu', scrapes: { 'Mihon': '', 'Aniyomi': '' } },
+  { name: 'IReader', scrapes: { 'IReader': '', 'LNreader': '', 'Legado': ''  } },
+  { name: 'Kototoro', scrapes: { 'Mihon': '', 'Aniyomi': '', 'Kotatsu': '', 'LNReader': '', 'Legado': '', 'IReader': '' } },
+  { name: 'Mangayomi', scrapes: { 'Mihon': '', 'Aniyomi': '', 'Mangayomi': '' } },
+  { name: 'Usagi', scrapes: { 'Kotatsu': '', 'Mihon': '', 'LNreader': ''  } }
+]" />
+
+
+::: tip README
+- [**Anymex**](https://github.com/RyanYuuki/AnymeX) doesn't support Mihon, Aniyomi and Cloudstream extensions in iOS.
+- Similarly [**Mangayomi**](https://github.com/kodjodevf/mangayomi) doesn't support Mihon and Aniyomi extensions in iOS.
+
+:::

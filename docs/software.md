@@ -40,11 +40,13 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/ext/mih
 <ScrapeTable :sites="[
   { name: 'Anymex', scrapes: { 'Mihon': '', 'Aniyomi': '', 'Mangayomi': '', 'Sora': '', 'Cloudstream': '', 'LNreader': '' } },
   { name: 'Cloudstream', scrapes: { 'Cloudstream': '', 'Aniyomi': '' } },
-  { name: 'Dantotsu', scrapes: { 'Mihon': '', 'Aniyomi': '', 'LNreader': '' } },
-  { name: 'Kototoro', scrapes: { 'Mihon': '', 'Aniyomi': '', 'Kotatsu': '', 'LNReader': '', 'Legado': '' } },
+  { name: 'Dantotsu', scrapes: { 'Mihon': '', 'Aniyomi': '' } },
+  { name: 'IReader', scrapes: { 'IReader': '', 'LNreader': '', 'Legado': ''  } },
+  { name: 'Kototoro', scrapes: { 'Mihon': '', 'Aniyomi': '', 'Kotatsu': '', 'LNReader': '', 'Legado': '', 'IReader': '' } },
   { name: 'Mangayomi', scrapes: { 'Mihon': '', 'Aniyomi': '', 'Mangayomi': '' } },
-  { name: 'Usagi', scrapes: { 'Kotatsu': '', 'Mihon': '' } }
+  { name: 'Usagi', scrapes: { 'Kotatsu': '', 'Mihon': '', 'LNreader': ''  } }
 ]" />
+
 
 ## Manga 
 
@@ -82,10 +84,11 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/ext/mih
 | Category | Apps |
 | :--- | :--- |
 | Online | [LN Reader](https://www.lnreader.app/) [:src:](https://github.com/LNReader/lnreader) [:e:](/ext/misc/#lnreader) |
-| ^^ | [Quicknovel](https://github.com/LagradOst/QuickNovel) |
-| ^^ | [Shosetsu](https://shosetsu.app/) [:src:](https://gitlab.com/shosetsuorg/shosetsu) |
+| ^^ | [IReader](https://ireaderorg.netlify.app/) [:src:](https://github.com/IReaderorg/IReader) [:e:](/ext/misc/#ireader) |
 | ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) |
+| ^^ | [Quicknovel](https://github.com/LagradOst/QuickNovel) |
 | ^^ | [Ranobe](https://github.com/ranobe-org/ranobe) |
+| ^^ | [Shosetsu](https://shosetsu.app/) [:src:](https://gitlab.com/shosetsuorg/shosetsu) |
 | Local | [Readest](https://readest.com/) :s: [:src:](https://github.com/readest/readest) |
 | ^^ | [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) :fm::cs: |
 | ^^ | [Librera Reader](https://github.com/foobnix/LibreraReader) |
