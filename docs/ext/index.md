@@ -15,15 +15,15 @@ og:
 
 <Deck>
   <Card title="Mihon" href="/ext/mihon">
-    Extension Repos & Guides for Mihon, Aniyomi & Dantotsu
+    Extension repos for Mihon & Aniyomi based
   </Card>
   <Card title="Mangayomi" href="/ext/mangayomi">
-    Extension Repos & Guides for Mangayomi, AnymeX & Dartotsu
+    Extension repos for Mangayomi based
   </Card>
   <Card title="iOS" href="/ext/ios">
-    Extension Repos & Guides for Aidoku, Paperback, Sora & Suwatte
+    Extension repos for anime and manga apps of iOS
   </Card>
   <Card title="Miscellaneous" href="/ext/misc">
-    Miscellaneous Extension Repos & Guides
+    Extension repos for the rest of the apps
   </Card>
 </Deck>
