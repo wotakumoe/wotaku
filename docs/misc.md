@@ -174,6 +174,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [Anisaki](https://anisaki.vercel.app/) [:src:](https://github.com/BayuDC/anisaki) |  
 | **Monthly** | [Anica](https://anica.jp/) :acc: |  
 | **Dub** | [Anime Dubs Release Calendar](https://teamup.com/ksdhpfjcouprnauwda) |  
+| ^^ | [English Dubbed Anime Lovers](https://english-dubbed.com/) | 
 | ^^ | [Kenny Stryker’s English dublist](https://myanimelist.net/forum/?topicid=1692966) |
 | **Non-English** | [Bangumi List](https://bgmlist.com/) :ljp::lcn: [:src:](https://github.com/wxt2005/bangumi-list-v3) ==BangumiList== |  
 | ^^ | [Kansou](https://www.kansou.me/) :s: :ljp: |  
@@ -246,8 +247,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [Animenomics](https://news.animenomics.com/) :fm::sub: |  
 | ^^ | [Anitrendz](https://anitrendz.net/news/) [:x:](https://x.com/anitrendz) |  
 | ^^ | [AnimeTV](https://animetv-jp.net/) [:x:](https://x.com/animetv_jp) |  
-| ^^ | [Eiga](https://anime.eiga.com/) :ljp: |  
-| ^^ | [English Dubbed Anime Lovers](https://english-dubbed.com/) |  
+| ^^ | [Eiga](https://anime.eiga.com/) :ljp: |   
 | ^^ | [Toonami Squad](https://toonamisquad.com/) [:x:](https://x.com/ToonamiSquad) |  
 | **Blog / Interview** | [Animation Obsessive](https://animationobsessive.substack.com/) :fm::sub: [:x:](https://x.com/ani_obsessive) |  
 | ^^ | [Anime Herald](https://www.animeherald.com/) |  
