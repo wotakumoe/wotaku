@@ -15,6 +15,7 @@ og:
   - [Anime Nexus](https://anime.nexus/) ==AnimeNexus==
   - [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream==
   - [KickassAnime](https://kaa.lt/) ==KAA==
+  - [AniZone](https://anizone.to/) ==AniZone==
   - [AnimeOnsen](https://www.animeonsen.xyz/) <Badge type="info" text="720p" />
 - **Torrent**
   - [Erai-raws](https://nyaa.si/user/Erai-raws)
@@ -460,22 +461,22 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 | Category | Resources |
 |-|-|
-| Community | [Annict](https://annict.com/) |
-| Novels | [EPUB.moe](https://epub.moe/) |
-| Tracker | [EroGamescape](https://erogamescape.org/) <Badge type="tip" text="EN Guide" link="https://www.youtube.com/watch?v=oPIWgXDllzQ" /> |
+| **Community** | [Annict](https://annict.com/) |
+| **Novels** | [EPUB.moe](https://epub.moe/) |
+| **Tracker** | [EroGamescape](https://erogamescape.org/) [:help:](https://www.youtube.com/watch?v=oPIWgXDllzQ) |
 
 
 ## Korean
 
 | Group | Website | Type |
 |-|-|-|
-| [KORSITE](https://korsite.net/) | [TOONKOR](https://tkor104.com/%EC%9B%B9%ED%88%B0) | Manhwa :ero: |
+| [**KORSITE**](https://korsite.net/) | [TOONKOR](https://tkor104.com/%EC%9B%B9%ED%88%B0) | Manhwa :ero: |
 | ^^                              | [Funbe](https://funbe622.com/%EC%9B%B9%ED%88%B0) | ^^ |
 | ^^                              | [Annie24](https://ohli24.net/) [:prx:](https://rentry.org/wotaxy#annie24)   | Anime  |
 | **Toki** | [NEWTOKI](https://newtoki468.com/) | Manhwa :ero: |
 | ^^                                      | [Manatoki](https://manatoki468.net/) | Manga :ero: |
 | ^^                                      | [Booktoki](https://booktoki468.com/) [:prx:](https://www.xn--h10bx0wsvp.net/) | Novel :ero: |
-| **Others**  | [Wolf](https://nicelink22.com/) | Mix Comics :ero: |
+| **Others** | [Wolf](https://nicelink22.com/) | Mix Comics :ero: |
 | ^^      | [XToon](https://t1.xtoon2.com/) | ^^ |
 | ^^      | [Anilife](https://anilife.live/) | Anime |
 | ^^      | [Anissia](https://anissia.net/) | Anime Subs |
@@ -651,6 +652,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [HeavenManga](https://heavenmanga.com/)
 - [InManga](https://inmanga.com/)
 - [Izicomics](https://www.izicomics.com/)
+- [KuManga](https://www.kumanga.com/index.php)
 - [Leemiau](https://leemiau.com/)
 - [LexMangas](https://www.lexmangas.com/)
 - [MangaCrab](https://mangacrab.org/) :ero:
