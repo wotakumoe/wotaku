@@ -317,9 +317,9 @@ These sites contain a mix of both actual and AI-generated novels.
 ## Media
 
 | Category   | Website |
-|------------|-----------------------------------------------------------------|
+|------------|---------|
 | **Streaming** | [Tokuzilla](https://tokuzilla.net/) :s: [:prx:](https://rentry.org/wotaxy#tokuzilla) |
-| ^^         | [Zokaj](https://zokaj.com/) |
+| ^^         | [Zokaj](https://zokaj.com/) [:alt:](https://kajzu.com/) |
 | ^^         | [Power Rangers Official](https://www.youtube.com/@PowerRangersOfficial) |
 | ^^         | [ULTRAMAN Official](https://www.youtube.com/@ULTRAMAN_OFFICIAL) <Badge type="tip" text="New" link="https://www.youtube.com/@ultraman_english_official" /> |
 | **Download** | [Zekozimo](https://zekozimo.blogspot.com/) :s: <Badge type="info" text="General" /> |
