@@ -104,7 +104,6 @@ og:
 | :--- | :--- |
 | Archive | [ANNEX 'Hotaru'](https://hotaru.hino-tama.com/) |
 | ^^ | [Character Design References](https://characterdesignreferences.com/) :s: [:src:](https://x.com/CDReferences) |
-| ^^ | [Nekohouse](https://nekohouse.su/) :ded: |
 | ^^ | [Settai Dreams](https://setteidreams.net/) :s: |
 | ^^ | [TMDB](https://www.themoviedb.org/) |
 | Games | [skowt.cc](https://skowt.cc/) |

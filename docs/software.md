@@ -158,7 +158,6 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.github.
 ## Anime
 - [Luna](https://github.com/cranci1/Luna) [:e:](/ext/ios#sora)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi)
-- [Mojuru](https://www.mojuru.app/) [:src:](https://github.com/mojuru-app/mojuru) [:e:](https://modulesbypaul.vercel.app/)
 - [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) [:e:](/ext/mangayomi)
 
 ::: details "iOS app not working. What should i do?"

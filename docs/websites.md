@@ -23,7 +23,6 @@ outline: 1
 | [AnimeKai](https://animekai.to/home) [:prx:](https://rentry.org/wotaxy#animekai) ==AnimeKai== | :sup: | :yes: | :sync::ie::msync: | :cc::hs: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :sup: | :yes: | :sync::ie::msync: | :cc: |
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :scrpr: | :no: | :no: |  :cc: |
-| [Kaido](https://kaido.to/home) ==Kaido== | :sup: | :yes: | :sync::ie::msync: | :cc: |
 | [KickassAnime](https://kaa.lt/) ==KAA== | :sup: | :yes: | :msync: | :cc: |
 | [AniZone](https://anizone.to/) ==AniZone== | :sup: | :no: | :no: | :cc: |
 
@@ -37,9 +36,8 @@ outline: 1
 | [Anibd](https://anibd.app/) :ero: [:alt:](https://ani.lol/) | :yes: | :no: | :hs: |
 | [AniHQ](https://anihq.to/home/) | :yes: | :no: | :hs: |
 | [Animepahe](https://animepahe.com/) ==Animepahe== | :no: | :msync: | :hs: |
-| [AnimeZ](https://animeyy.com/) ==animez== | :yes: | :no: | :hs: |
-| [Animotvslash](https://www.animotvslash.org/search) | :no: | :no: | :cc::hs: |
-| [Kuudere](https://kuudere.to/) | :yes: | :sync::ie: | :cc: |
+| [Animotvslash](https://www.animotvslash.org/) [:alt:](https://animotvslash.nl/home/) | :no: | :no: | :cc::hs: |
+| [Kuudere](https://kuudere.to/) [:prx:](https://rentry.org/wotaxy#kuudere) | :yes: | :sync::ie: | :cc: |
 | [Watch Cartoon Online](https://www.wco.tv/) [:prx:](https://www.wcostatus.com/) ==WCO== | :yes: | :no: | :hs: |
 
 
@@ -58,13 +56,13 @@ outline: 1
 ### Source table
 <ScrapeTable :sites="[
   { name: '1anime', scrapes: { 'AnimeKai': 'kai & kiwi', 'Anime Nexus': 'nexus', 'AnimePahe': 'pahe', 'Anitaku': 'gogo', 'Kuudere': 'Zen', 'AniZone': 'Zone' } },
-  { name: 'Anidap', scrapes: { 'AnimeZ': 'maze', 'Anitaku': 'gogo', 'AnimeKai': 'kiwi', 'HiAnime': 'koto, yuki & nuri', 'KickAssAnime': 'kami', 'AnimeOnsen': 'vee' } },
-  { name: 'Anikage', scrapes: { 'AnimeOnsen': 'vee', 'AnimeZ': 'maze', 'AnimePahe': 'Pahe', 'HiAnime': 'Vidnest' } },
-  { name: 'Anikuro', scrapes: { '123anime': 'AniX', 'AllManga': 'AllAni', 'AnimeGG': 'AniGG', 'AnimeKai': 'Kai', 'AnimeZ': '', 'AniZone': 'AniZ', } },
-  { name: 'AnimeRealms', scrapes: { 'AllManga': '','KickAssAnime': '', 'AnimeZ': ''} },
-  { name: 'Animetsu', scrapes: { 'AnimeGG': 'Meg', 'AnimePahe': 'Pahe', 'AnimeZ': 'Zaza', 'HiAnime': 'Zoro' } },
-  { name: 'AnimeX', scrapes: { 'AnimeZ': 'maze', 'Anitaku': 'gogo', 'AnimeKai': 'kiwi', 'HiAnime': 'koto, yuki & nuri', 'KickAssAnime': 'kami', 'AnimeOnsen': 'vee' } },
-  { name: 'Miruro', scrapes: { 'AnimeKai': 'arc', 'AnimePahe': 'kiwi & telli', 'AnimeZ': 'jet', 'HiAnime': 'bee & bun', 'KickAssAnime': 'hop & kuz' } }
+  { name: 'Anidap', scrapes: { 'Anitaku': 'gogo', 'AnimeKai': 'kiwi', 'KickAssAnime': 'kami', 'AnimeOnsen': 'vee' } },
+  { name: 'Anikage', scrapes: { 'AnimeOnsen': 'vee', 'AnimePahe': 'Pahe' } },
+  { name: 'Anikuro', scrapes: { '123anime': 'AniX', 'AllManga': 'AllAni', 'AnimeGG': 'AniGG', 'AnimeKai': 'Kai', 'AniZone': 'AniZ', } },
+  { name: 'AnimeRealms', scrapes: { 'AllManga': '','KickAssAnime': '' } },
+  { name: 'Animetsu', scrapes: { 'AnimeGG': 'Meg', 'AnimePahe': 'Pahe' } },
+  { name: 'AnimeX', scrapes: { 'Anitaku': 'gogo', 'AnimeKai': 'kiwi', 'KickAssAnime': 'kami', 'AnimeOnsen': 'vee' } },
+  { name: 'Miruro', scrapes: { 'AnimeKai': 'arc', 'AnimePahe': 'kiwi & telli', 'KickAssAnime': 'hop & kuz' } }
 ]" />
 </Collapsible>
 
@@ -320,7 +318,7 @@ These sites contain a mix of both actual and AI-generated novels.
 
 | Category   | Website |
 |------------|-----------------------------------------------------------------|
-| **Streaming** | [Tokuzilla](https://tokuzilla.net/) :s: [:alt:](https://tokuzl.net/) |
+| **Streaming** | [Tokuzilla](https://tokuzilla.net/) :s: [:prx:](https://rentry.org/wotaxy#tokuzilla) |
 | ^^         | [Toku555](https://toku555.com/) |
 | ^^         | [Zokaj](https://zokaj.com/) |
 | ^^         | [Power Rangers Official](https://www.youtube.com/@PowerRangersOfficial) |

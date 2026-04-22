@@ -35,6 +35,7 @@ og:
 - [Animelek](https://animelek.top/)
 - [Animerco](https://zeta.animerco.org/)
 - [Arabic Toons](https://www.arabic-toons.com/)
+- [Kawaii Anime](https://kawaii-anime.com/)
 - [Okanime](https://okanime.tv/)
 - [WitAnime](https://witanime.cyou/)
 
@@ -738,7 +739,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [DuaLeoTruyen](https://dualeotruyenvh.com/)
 - [HentaiCube](https://hentaicube.xyz/)
 - [KuroNeko](https://vi-hentai.com/)
-- [qManga](https://qmanga.art/)
 - [TruyenHentaiVN](https://truyenhentaivn.club/)
 
 ### Novels
