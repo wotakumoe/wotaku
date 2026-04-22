@@ -319,7 +319,6 @@ These sites contain a mix of both actual and AI-generated novels.
 | Category   | Website |
 |------------|-----------------------------------------------------------------|
 | **Streaming** | [Tokuzilla](https://tokuzilla.net/) :s: [:prx:](https://rentry.org/wotaxy#tokuzilla) |
-| ^^         | [Toku555](https://toku555.com/) |
 | ^^         | [Zokaj](https://zokaj.com/) |
 | ^^         | [Power Rangers Official](https://www.youtube.com/@PowerRangersOfficial) |
 | ^^         | [ULTRAMAN Official](https://www.youtube.com/@ULTRAMAN_OFFICIAL) <Badge type="tip" text="New" link="https://www.youtube.com/@ultraman_english_official" /> |
