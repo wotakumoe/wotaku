@@ -453,9 +453,9 @@ These sites contain a mix of both actual and AI-generated novels.
 | ^^ | [CARDFIGHT Vanguard](https://www.youtube.com/@CARDFIGHTVanguard) |
 | ^^ | [Official Yu-Gi-Oh!](https://www.youtube.com/@yugioh) |
 | ^^ | [Pokémon TV](https://www.youtube.com/@OfficialPoke%CC%81monTV) |
-| Cartoon | [Code Lyoko US](https://www.youtube.com/@CODELYOKOENGLISHOFFICIAL) <Badge type="tip" text="FR" link="https://www.youtube.com/@codelyokoofficiel7410" /> |
+| Cartoon | [Code Lyoko English](https://www.youtube.com/@CODELYOKOENGLISHOFFICIAL) |
 | ^^ | [Huntik: Secrets & Seekers](https://www.youtube.com/@HuntikOfficial) |
-| ^^ | [Valerian & Laureline US](https://www.youtube.com/@valerianlaurelineenglishof984) <Badge type="tip" text="FR" link="https://www.youtube.com/@valerianlaurelineofficiel9316" /> |
+| ^^ | [Valerian & Laureline English](https://www.youtube.com/@valerianlaurelineenglishof984) |
 
 ::: info Content availability
 Some of the series may not be available depending on your region.
