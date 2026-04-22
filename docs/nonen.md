@@ -60,7 +60,7 @@ og:
 #### Android
 | Category | Resources |
 |-|-|
-| Anime | [Spacetoon](https://play.google.com/store/apps/details?id=com.spacetoon.vod) <Badge type="info" text="Legal" /> |
+| **Anime** | [Spacetoon](https://play.google.com/store/apps/details?id=com.spacetoon.vod) <Badge type="info" text="Legal" /> |
 
 
 ## Balkan
@@ -472,10 +472,10 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | [KORSITE](https://korsite.net/) | [TOONKOR](https://tkor104.com/%EC%9B%B9%ED%88%B0) | Manhwa :ero: |
 | ^^                              | [Funbe](https://funbe622.com/%EC%9B%B9%ED%88%B0) | ^^ |
 | ^^                              | [Annie24](https://ohli24.net/) [:prx:](https://rentry.org/wotaxy#annie24)   | Anime  |
-| Toki | [NEWTOKI](https://newtoki468.com/) | Manhwa :ero: |
+| **Toki** | [NEWTOKI](https://newtoki468.com/) | Manhwa :ero: |
 | ^^                                      | [Manatoki](https://manatoki468.net/) | Manga :ero: |
 | ^^                                      | [Booktoki](https://booktoki468.com/) [:prx:](https://www.xn--h10bx0wsvp.net/) | Novel :ero: |
-| Others  | [Wolf](https://nicelink22.com/) | Mix Comics :ero: |
+| **Others**  | [Wolf](https://nicelink22.com/) | Mix Comics :ero: |
 | ^^      | [XToon](https://t1.xtoon2.com/) | ^^ |
 | ^^      | [Anilife](https://anilife.live/) | Anime |
 | ^^      | [Anissia](https://anissia.net/) | Anime Subs |
@@ -487,7 +487,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 | Category | Resources |
 |-|-|
-| Manhwa | [Manga View Android](https://junheah.github.io/MangaViewAndroid/) |
+| **Manhwa** | [Manga View Android](https://junheah.github.io/MangaViewAndroid/) |
 
 ## Lithuanian
 
@@ -613,7 +613,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 | Category | Resources |
 |-|-|
-| Tracker | [Shikimori](https://shikimori.one/) |
+| **Tracker** | [Shikimori](https://shikimori.one/) |
 
 
 ## Spanish
@@ -668,11 +668,12 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 ### Software
 
-#### Android
+#### Anime
 
-| Category | Resources |
-|-|-|
-| Anime | [UKIKU](https://ukiku.app/) [:src:](https://github.com/jordyamc/UKIKU) |
+| Platform | Client |
+|----------|--------|
+| **Android** | [UKIKU](https://ukiku.app/) [:src:](https://github.com/jordyamc/UKIKU) |
+| **Desktop** | [Nipah! Anime](https://github.com/NipahDevTeam/Nipah--Anime) :win::lin: |
 
 
 ## Turkish
@@ -759,12 +760,12 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 | Category | Resources |
 |-|-|
-| General | [Hoyomi](https://github.com/tachibana-shin/hoyomi) |
-| Anime | [Anime VSub](https://app.animevsub.eu.org/) [:src:](https://github.com/anime-vsub/app) |
-| Comics | [TruyenDex](https://truyendex.cc/) [:src:](https://github.com/zennomi/truyendex) |
+| **General** | [Hoyomi](https://github.com/tachibana-shin/hoyomi) |
+| **Anime** | [Anime VSub](https://app.animevsub.eu.org/) [:src:](https://github.com/anime-vsub/app) |
+| **Comics** | [TruyenDex](https://truyendex.cc/) [:src:](https://github.com/zennomi/truyendex) |
 
 #### iOS
 
 | Category | Resources |
 |-|-|
-| General | [Hoyomi](https://github.com/tachibana-shin/hoyomi) |
+| **General** | [Hoyomi](https://github.com/tachibana-shin/hoyomi) |
