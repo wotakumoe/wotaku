@@ -299,7 +299,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | Manga | [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) | :win: |
 | ^^ | [JAM](https://redsquirrel87.com/jam) :cs: | :win::lin: |
 | ^^ | [Hakuneko](https://github.com/manga-download/haruneko) <Badge type="tip" text="Old" link="https://github.com/manga-download/hakuneko" /> ==Hakuneko== | :win::app::lin: |
-| ^^ | [gallery-dl](https://github.com/mikf/gallery-dl/) [:help:](https://gdl-org.github.io/docs/) | :win::app::lin::cmd: |
+| ^^ | [gallery-dl](https://codeberg.org/mikf/gallery-dl/) [:help:](https://gdl-org.github.io/docs/) | :win::app::lin::cmd: |
 | ^^ | :prev: [Media Downloader](https://github.com/mhogomchungu/media-downloader) | :win::app::lin::cmd: |
 | ^^ | [HDoujin Downloader](https://doujindownloader.com/) :cs: ==HDoujinDownloader== | :win: |
 | Specific cases | [BookWalker Downloader](https://gist.github.com/GolyBidoof/6c9cbff7644c7078520fe45e3bcf039f) | :js: |

@@ -155,7 +155,7 @@ og:
 | ^^         | [Pixeval](https://pixeval.github.io/) [:src:](https://github.com/Pixeval/Pixeval) | :win: |
 | ^^         | [Pixiv Powerful Viewer](https://github.com/fekoneko/pixiv-powerful-viewer) | :win: |
 | **Downloaders** | [Cultured Downloader](https://github.com/KJHJason/Cultured-Downloader) | :win::app::lin: |
-| ^^         | [gallery-dl](https://github.com/mikf/gallery-dl) :s: | :win::lin: |
+| ^^         | [gallery-dl](https://codeberg.org/mikf/gallery-dl) :s: | :win::lin: |
 | ^^         | [Hydrus network](https://hydrusnetwork.github.io/hydrus/) [:src:](https://github.com/hydrusnetwork/hydrus) <Badge type="info" text="Scripts" link="https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts"/> | :win::app::lin: |
 | ^^         | [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) [:src:](https://github.com/Bionus/imgbrd-grabber) | :win::app::lin: |
 | ^^         | [Media Downloader](https://github.com/mhogomchungu/media-downloader) | :win::app::lin: |

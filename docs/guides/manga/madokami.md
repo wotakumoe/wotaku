@@ -163,7 +163,7 @@ Note that FMD2's module uses Madokami's web reader, which can't read `.webp` fil
 ### Gallery-dl
 
 :::steps
-1. Download and install [gallery-dl](https://github.com/mikf/gallery-dl) and [aria2](https://github.com/aria2/aria2).
+1. Download and install [gallery-dl](https://codeberg.org/mikf/gallery-dl) and [aria2](https://github.com/aria2/aria2).
 2. Create gallery-dl config file.
     ```bash
     mkdir -p ~/.config/gallery-dl
