@@ -58,7 +58,7 @@ outline: 1
   { name: '1anime', scrapes: { 'AnimeKai': 'kai & kiwi', 'Anime Nexus': 'nexus', 'AnimePahe': 'pahe', 'Anitaku': 'gogo', 'Kuudere': 'Zen', 'AniZone': 'Zone' } },
   { name: 'Anidap', scrapes: { 'Anitaku': 'gogo', 'AnimeKai': 'kiwi', 'KickAssAnime': 'kami', 'AnimeOnsen': 'vee' } },
   { name: 'Anikage', scrapes: { 'AnimeOnsen': 'vee', 'AnimePahe': 'Pahe' } },
-  { name: 'Anikuro', scrapes: { '123anime': 'AniX', 'AllManga': 'AllAni', 'AnimeGG': 'AniGG', 'AnimeKai': 'Kai', 'AniZone': 'AniZ', } },
+  { name: 'Anikuro', scrapes: { '123anime': 'AniX', 'AllManga': 'AllAni', 'AnimeGG': 'AniGG', 'AnimeKai': 'Kai', 'AniZone': 'AniZ' } },
   { name: 'AnimeRealms', scrapes: { 'AllManga': '','KickAssAnime': '' } },
   { name: 'Animetsu', scrapes: { 'AnimeGG': 'Meg', 'AnimePahe': 'Pahe' } },
   { name: 'AnimeX', scrapes: { 'Anitaku': 'gogo', 'AnimeKai': 'kiwi', 'KickAssAnime': 'kami', 'AnimeOnsen': 'vee' } },

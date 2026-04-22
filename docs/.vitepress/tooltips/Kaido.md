@@ -1,3 +1,0 @@
-- Huge library.
-- Has multi-language softsub until Winter 2026 season.
-- Re-encodes for smaller size.
