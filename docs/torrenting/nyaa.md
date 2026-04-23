@@ -62,7 +62,7 @@ og:
 | ^^     | **Re-Encode**: An encode that has gone through the process of further encoding, thus degrading in quality.
 | ^^     | **Mini-Encode**: A video where the priority is the smallest possible file size, even if the quality would greatly suffer as a result.
 | Resolution | The number of pixels contained in each frame, a higher value means improved quality (unless it's an upscaled release). The most common ones are 360p, 480p, 576p, 720p, 1080p, and 2160p. Most anime nowadays are made in 1080p. So, most of the 2160p anime are upscalled. This upscale can/will cause artifacts, over sharpening, or aggressive denoising since it's not really possible to add details out of nothing.
-| Video Codec | The encoding process for the video file. The most popular encoders today are **x264** (AVC) and **x265** (HEVC), with the latter being newer and able to achieve higher compression rates with less quality loss. To learn more about encoding, visit [**Codec Wiki**](https://av1.wiki/).
+| Video Codec | The encoding process for the video file. The most popular encoders today are **x264** (AVC) and **x265** (HEVC), with the latter being newer and able to achieve higher compression rates with less quality loss. To learn more about encoding, visit [**Codec Wiki**](https://av1.wiki/docs/introduction/prologue).
 | Audio Format | **Lossless**: These retain the highest audio quality and have larger file sizes as a consequence. The most common one is FLAC.
 | ^^     | **Lossy**: These formats aim to provide good quality while keeping file sizes small. The most popular ones today are AAC, AC3, EAC3 (all commonly found in Web releases), with MP3 being found in older releases.
 | Subtitles | **Raw**: A video without subtitles.
