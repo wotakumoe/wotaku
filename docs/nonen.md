@@ -208,7 +208,6 @@ og:
 ## French
 
 ### Anime
-
 - [AnimeKO](https://animeko.ws/)
 - [Anime-Kami](https://anime-kami.com/)
 - [Anime-Sama](https://anime-sama.to/) [:prx:](https://anime-sama.pw/)
@@ -227,7 +226,6 @@ og:
 - [Kibo](https://www.kiboanime.app/) :win::and::app::lin:
 
 ### Manga
-
 - [Japscan](https://www.japscan.foo/)
 - [LPEBK](https://www.lpebk.com/forumv2/) :ddl::acc:
 - [Mangadraft](https://www.mangadraft.com/)
@@ -239,6 +237,7 @@ og:
 ### Others
 - [Hyakanime](https://hyakanime.fr/)
 - [Nautiljon](https://www.nautiljon.com/)
+- [Tokusatsu.org](https://www.tokusatsu.org/)
 - [Voirdrama](https://voirdrama.to/) [:d:](https://discord.gg/QSGgA9yK6G)
 
 
@@ -560,6 +559,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [AniFilm](https://anifilm.pro/)
 - [AniFox](https://anifox.club/anime) <Badge type="info" text="Aggregator" />
 - [AniLiberty](https://anilibria.top/) <Badge type="info" text="Sub" />
+- [AniMan](https://animan.ru/)
 - [AnimeBuff](https://animebuff.ru/) <Badge type="info" text="Sub" />
 - [AnimeJoy](https://animejoy.ru/)
 - [Animelayer](http://animelayer.ru/) :mag:
