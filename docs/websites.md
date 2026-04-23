@@ -58,7 +58,7 @@ outline: 1
   { name: 'Anikuro', scrapes: { '123anime': 'AniX', 'AllManga': 'AllAni', 'AnimeGG': 'AniGG', 'AnimeKai': 'Kai', 'AniZone': 'AniZ' } },
   { name: 'Animetsu', scrapes: { 'AnimeGG': 'Meg', 'AnimePahe': 'Pahe' } },
   { name: 'AnimeX', scrapes: { 'Anitaku': 'gogo', 'AnimeKai': 'kiwi', 'AnimePahe': 'pahe', 'KickAssAnime': 'kami', 'AllManga': 'mochi', 'AnimeOnsen': 'vee' } },
-  { name: 'Miruro', scrapes: { 'AnimeKai': 'arc', 'AnimePahe': 'kiwi & telli', 'KickAssAnime': 'hop & kuz' } }
+  { name: 'Miruro', scrapes: { 'AnimeKai': 'arc', 'AnimeDuniya': 'dune', 'AnimePahe': 'kiwi & telli', 'KickAssAnime': 'hop & kuz' } }
 ]" />
 </Collapsible>
 

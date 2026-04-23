@@ -9,7 +9,7 @@ og:
 [**Mangayomi**](https://github.com/kodjodevf/mangayomi) extensions are supported by [**AnymeX**](https://anymex.vercel.app/) and [**Dartotsu**](https://github.com/aayush2622/Dartotsu).
 
 ::: info Mihon extensions
-Mangayomi and some of its forks support Mihon extensions which you can get from [here](/ext/mihon)
+Mangayomi and some of its forks support Mihon extensions which you can get from [here](/ext/mihon). To use them, you have to install apkbridge first from extension page.
 :::
 
 ## Repositories
