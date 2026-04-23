@@ -629,7 +629,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
   - [Estrenos Anime](https://estrenosanime.net/home)
   - [JKAnime](https://jkanime.net/)
   - [TioAnime](https://tioanime.com/)
-  - [AnimeFLV](https://www3.animeflv.net/)
+  - [AnimeFLV](https://www4.animeflv.net/)
   - [AnimeJL](https://www.anime-jl.net/) :ero:
   - [Mundo Donghua](https://www.mundodonghua.com/)
   - [Tio Donghua](https://tiodonghua.com/)
