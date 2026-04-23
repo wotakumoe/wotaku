@@ -36,7 +36,7 @@ Original: ~~Blurry downscales for anything that would be above that on other pla
 ### Publishers
 | Store                                         | Resolution | DRM-Free | SFW | Highest Quality { class="compact" } |
 |-----------------------------------------------|------------|----------|-----|-------------------------------------|
-| [Ablaze](https://www.ablaze.net/products)<sup>1</sup>  | ~x1800 | :no: | :yes: | Humble Bundle |
+| [Ablaze](https://www.ablaze.net/)<sup>1</sup>  | ~x1800 | :no: | :yes: | Humble Bundle |
 | [Alpha Manga](https://www.alpha-manga.com/)   | x1800       |  -  | :yes: | - |
 | [Dark Horse](https://darkhorse.com/)  | ~x2400 or 2560x<sup>2</sup> | :no: | :yes: | (GlobalComix) / Amazon Kindle |
 | [DENPA](https://denpa.pub/)<sup>3</sup>      | Varies     | :no: | :yes: | Own Store |

@@ -40,7 +40,7 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/ext/mih
 <ScrapeTable :sites="[
   { name: 'Anymex', scrapes: { 'Mihon': '', 'Aniyomi': '', 'Mangayomi': '', 'Sora': '', 'Cloudstream': '', 'LNreader': '' } },
   { name: 'Cloudstream', scrapes: { 'Cloudstream': '', 'Aniyomi': '' } },
-  { name: 'Dantotsu', scrapes: { 'Mihon': '', 'Aniyomi': '' } },
+  { name: 'Dantotsu', scrapes: { 'Mihon': '', 'Aniyomi': '', 'LNreader': '' } },
   { name: 'IReader', scrapes: { 'IReader': '', 'LNreader': '', 'Legado': ''  } },
   { name: 'Kototoro', scrapes: { 'Mihon': '', 'Aniyomi': '', 'Kotatsu': '', 'LNReader': '', 'Legado': '', 'IReader': '' } },
   { name: 'Mangayomi', scrapes: { 'Mihon': '', 'Aniyomi': '', 'Mangayomi': '' } },
