@@ -237,7 +237,6 @@ og:
 ### Others
 - [Hyakanime](https://hyakanime.fr/)
 - [Nautiljon](https://www.nautiljon.com/)
-- [Tokusatsu.org](https://www.tokusatsu.org/)
 - [Voirdrama](https://voirdrama.to/) [:d:](https://discord.gg/QSGgA9yK6G)
 
 
