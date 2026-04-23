@@ -560,7 +560,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [AniFilm](https://anifilm.pro/)
 - [AniFox](https://anifox.club/anime) <Badge type="info" text="Aggregator" />
 - [AniLiberty](https://anilibria.top/) <Badge type="info" text="Sub" />
-- [AniMan](https://animan.ru/)
 - [AnimeBuff](https://animebuff.ru/) <Badge type="info" text="Sub" />
 - [AnimeJoy](https://animejoy.ru/)
 - [Animelayer](http://animelayer.ru/) :mag:

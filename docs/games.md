@@ -165,7 +165,6 @@ For game [**downloads**](https://megathread.pages.dev/download) and [**emulation
 - [Taisei](https://taisei-project.org/) [:src:](https://github.com/taisei-project/taisei)
 - [Touhou Hisoutensoku](https://soku.delthas.fr/)
 - [Touhou Fan Game Jam BLM](https://nitori.itch.io/touhou-jam-blm)
-- [Touhou Music Room](https://touhoumusicroom.com/)
 - [Touhou Puppet Play (Touhoumon)](https://maribelhearn.com/touhoumon)
 
 ### Game Tools

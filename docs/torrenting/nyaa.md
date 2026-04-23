@@ -9,40 +9,40 @@ og:
 
 | Category | Subcategory | Icon | Description |
 | :--- | :--- | :--- | :--- |
-| Anime | Anime Music Video | ![](/nyaa/1_1.png) | Video clips set to music. |
-| ^^ | English-translated | ![](/nyaa/1_2.png) | Anime with English subtitles/dub. |
-| ^^ | Non-English-translated | ![](/nyaa/1_3.png) | Subtitles in other languages. |
-| ^^ | Raw | ![](/nyaa/1_4.png) | Original Japanese audio, no subs. |
+| Anime | Anime Music Video | ![](/nyaa/1_1.png) | Anime clips set to music. |
+| ^^ | English-translated | ![](/nyaa/1_2.png) | Anime with English sub/dub. |
+| ^^ | Non-English-translated | ![](/nyaa/1_3.png) | Anime in other languages. |
+| ^^ | Raw | ![](/nyaa/1_4.png) | Anime with the original audio and no subs. |
 | Audio | Lossless | ![](/nyaa/2_1.png) | High-fidelity audio formats. |
 | ^^ | Lossy | ![](/nyaa/2_2.png) | Compressed audio formats. |
-| Literature | English-translated | ![](/nyaa/3_1.png) | English translated books/manga. |
-| ^^ | Non-English-translated | ![](/nyaa/3_2.png) | Other language translations. |
-| ^^ | Raw | ![](/nyaa/3_3.png) | Original language scans. |
-| Live Action | English-translated | ![](/nyaa/4_1.png) | Movies/Dramas with English subs. |
-| ^^ | Idol/Promotional Video | ![](/nyaa/4_2.png) | Media featuring popular idols. |
-| ^^ | Non-English-translated | ![](/nyaa/4_3.png) | Foreign language live action. |
-| ^^ | Raw | ![](/nyaa/4_4.png) | Unedited live action footage. |
+| Literature | English-translated | ![](/nyaa/3_1.png) | Books/Manga in English. |
+| ^^ | Non-English-translated | ![](/nyaa/3_2.png) | Books/Manga in other languages. |
+| ^^ | Raw | ![](/nyaa/3_3.png) | Original-language scans/digitals. |
+| Live Action | English-translated | ![](/nyaa/4_1.png) | Asian movies/dramas with English sub/dub. |
+| ^^ | Idol/Promotional Video | ![](/nyaa/4_2.png) | Idol performances or promo material. |
+| ^^ | Non-English-translated | ![](/nyaa/4_3.png) | Asian movies/dramas in other languages. |
+| ^^ | Raw | ![](/nyaa/4_4.png) | Asian movies/dramas in their original language. |
 | Pictures | Graphics | ![](/nyaa/5_1.png) | Digital art and CG. |
-| ^^ | Photos | ![](/nyaa/5_2.png) | High-resolution photography. |
-| Software | Applications | ![](/nyaa/6_1.png) | General purpose computer programs. |
-| ^^ | Games | ![](/nyaa/6_2.png) | Interactive entertainment software. |
+| ^^ | Photos | ![](/nyaa/5_2.png) | High-resolution photography/scans. |
+| Software | Applications | ![](/nyaa/6_1.png) | Software-related uploads in general. |
+| ^^ | Games | ![](/nyaa/6_2.png) | Games-specific category. |
 
-## Color Code
+## Color Codes
 
 | Color | Meaning & Example |
 |-|-|
-| Green | The uploader is trusted by Nyaa staff. Its profile basis tag. Not based on upload. |
+| Green | The uploader is trusted by staff, a profile-based tag rather than upload-based. |
 | ^^    | Subsplease's upload of Frieren WEB-dl in x264 without transcoding. <br> ![](/nyaa/green.png) |
 | ^^    | Erai-raw's upload was transcoded from x264 but marked as green since the account is marked as trusted. <br> ![](/nyaa/green2.png)
-| Red   | This mainly indicates it's a modified version of the source (doesn't mean it's bad by default). For anime, it indicates a re-encoded video of the video source. For manga, it indicates that an edit of someone else's release, usually for the purposes of joining spread pages. Sometimes it's indicated with "ED" tag. It's added by the uploader (rarely by nyaa staff). So not every torrent will have this colorcode, even though it should. |
+| Red   | This mainly indicates it's a modified version of the source (doesn't mean it's bad by default). For anime, it indicates a re-encoded video. For manga, it indicates that an edit of someone else's release, usually for the purposes of joining spread pages. It's added by the uploader (rarely by staff), so not every qualifying torrent will have it. Sometimes it's indicated with "ED" tag instead.|
 | ^^    | Here, ASW has transcoded the original WEB-dl from x264 to x265. <br> ![](/nyaa/red.png) |
 | ^^    | Here, Raze has transcoded the video to x265 as well as interpolated it from 24fps to 144fps. <br> ![](/nyaa/red2.png) |
 | ^^    | In this case, Shellshock has just merged the spreads and repacked the volumes. <br> ![](/nyaa/red3.png) |
-| Blue  | Rated best by [Seadex](https://releases.moe/). Will be visible when their [script](https://releases.moe/nyaablue.user.js) is used. <br> ![](/nyaa/blu.png) |
-| Uncoded | Most of the torrents are uncoded. That means you have to judge it by title and description. |
-| ^^    | varyg's WEB-dl upload of frieren in x264. <br> ![](/nyaa/unc.png) |
+| Blue  | Rated best by [Seadex](https://releases.moe/), visible with their [script](https://releases.moe/nyaablue.user.js). <br> ![](/nyaa/blu.png) |
+| Uncoded | Most of the torrents are uncoded, which means you have to judge by the title and description. |
+| ^^    | Varyg's WEB-dl upload of frieren in x264. <br> ![](/nyaa/unc.png) |
 | ^^    | Interpolated upload of Bang Dream <br> ![](/nyaa/unc1.png) |
-| ^^    | tronboy's Kingdom manga upload with color leveling and spread joined. <br> ![](/nyaa/unc2.png) |
+| ^^    | 1r0n's Kingdom manga upload with color leveling and spread joined. <br> ![](/nyaa/unc2.png) |
 | ^^    | Modified version of tronboy's upload.![](/nyaa/unc3.png) |
 | ^^    | 0v3r's upscalled manga upload. ![](/nyaa/unc4.png) | 
 
@@ -80,11 +80,11 @@ og:
 | Part | Description |
 |-|-|
 | Publisher | The publisher can be mainly two types. **CaaS (Chapters as a Service)** sites release chapters indvidually instead of volume. Examples: Manga Plus, Manga UP!, Comikey, Tapas etc. **Volume** websites sells the whole volume with better quality. Example: VIZ, Kodansha, Square Enix etc. |
-| Source | Nowadays the primary source is digital, since it is easier to rip and usually higher quality. In the case of scans, the most used tag is c2c - cover to cover. |
-| Uploader | The ripper of the manga. Sometimes, it can be more than one person too. Also, if the manga is scanlated, the scanlation group is credited here. |
-| pre | It indicates that a digital release has issues the publisher has yet to fix (like missing/duplicated pages). PRE2 means the publisher has fixed some of those issues, but not all of them. |
+| Source | Nowadays the primary source is digital, since it's easier to rip and usually higher quality. In the case of scans, the most used tag is c2c - cover to cover. |
+| Uploader | The ripper of the manga, either an individual or group. If the manga is scanlated, the scanlation group is credited here. |
+| PRE | Indicates that a digital release has issues the publisher has yet to fix (like missing/duplicated pages). PRE2 means the publisher has fixed some of those issues, but not all of them. |
 | f | It indicated this is a fixed version after the initial upload. If there are further fixes, it will be put as f2, f3 etc. |
 | Brackets | () -> Manga
 | ^^ | {} -> Manhwa
 | ^^ | [] -> Light Novel |
-| Format | CBZ is the most common file format for manga. CBZ is just a Zip container. There are also CBR(RAR), CB7(7zip), PDF, ePub etc. The image files inside are generally jpeg, png or webp. JPEGXL/JXL is a newer supported format which can provide really good quality under lower file size. |
+| Format | CBZ is the most common file format for manga, actually just a Zip container. There are also CBR(RAR), CB7(7zip), PDF, ePub etc. The image files inside are generally jpeg, png or webp. JPEGXL/JXL is a newer supported format which can provide really good quality under lower file size. |
