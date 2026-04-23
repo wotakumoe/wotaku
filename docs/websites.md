@@ -45,19 +45,16 @@ outline: 1
 | Websites | Login | Tracking | Sub |
 |----------|----------------|----------------------------|--------|
 | [1anime](https://1anime.app/discover) [:prx:](https://1ani.me/) | :yes: | :sync: | :cc::hs: |
-| [Anidap](https://anidap.se/home) | :yes: | :ie: | :cc::hs: |
-| [Anikage](https://anikage.cc/home) | :yes: | :sync: | :cc::hs: |
 | [Anikuro](https://anikuro.to/) [:prx:](https://anikuro.site/) | :yes: | :sync: | :cc::hs: |
-| [Anime Realms](https://www.animerealms.org/en) | :yes: | :sync: | :cc::hs: |
 | [Animetsu](https://animetsu.net/) [:prx:](https://rentry.org/wotaxy#animetsu) | :yes: | :ie::msync: | :cc::hs: |
 | [AnimeX](https://animex.one/home) | :yes: | :sync: | :cc::hs: |
+| :prev: [Anikage](https://anikage.cc/home) | :yes: | :sync: | :cc::hs: |
+| :prev: [Anidap](https://anidap.se/home) | :yes: | :ie: | :cc::hs: |
 | [Miruro](https://www.miruro.to/) [:prx:](https://www.miruro.com) | :yes: | :sync::msync: | :cc::hs: |
 
 ### Source table
 <ScrapeTable :sites="[
   { name: '1anime', scrapes: { 'AnimeKai': 'kai & kiwi', 'Anime Nexus': 'nexus', 'AnimePahe': 'pahe', 'Anitaku': 'gogo', 'Kuudere': 'Zen', 'AniZone': 'Zone' } },
-  { name: 'Anidap', scrapes: { 'Anitaku': 'gogo', 'AnimeKai': 'kiwi', 'KickAssAnime': 'kami', 'AnimeOnsen': 'vee' } },
-  { name: 'Anikage', scrapes: { 'AnimeOnsen': 'vee', 'AnimePahe': 'Pahe' } },
   { name: 'Anikuro', scrapes: { '123anime': 'AniX', 'AllManga': 'AllAni', 'AnimeGG': 'AniGG', 'AnimeKai': 'Kai', 'AniZone': 'AniZ' } },
   { name: 'AnimeRealms', scrapes: { 'AllManga': '','KickAssAnime': '' } },
   { name: 'Animetsu', scrapes: { 'AnimeGG': 'Meg', 'AnimePahe': 'Pahe' } },
