@@ -84,7 +84,7 @@ The number of pixels contained in each frame, a higher value means improved qual
 The encoding process for the video file. The most popular encoders today are **x264** (AVC) and **x265** (HEVC), with the latter being newer and able to achieve higher compression rates with less quality loss.
 
 ::: tip Extra
-To learn more about encoding, visit [**Codec Wiki**](https://wiki.x266.mov/docs/introduction/prologue).
+To learn more about encoding, visit [**Codec Wiki**](https://av1.wiki/).
 :::
 
 

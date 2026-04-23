@@ -81,16 +81,6 @@ og:
 - [Toonily](https://toonily.com/)
 - [Webtoon](https://www.webtoon.xyz/)
 
-### Official Look-alikes
-
-::: warning Despite the names, these aren't official.
-:::
-| Source | Website |
-|--------|---------|
-| Toomics.com   | [Hotcomics](https://hotcomics.io/) :s::fm::sub: [:alt:](https://w1.hotcomics.me/) |
-| ^^            | [HeyToon](https://heytoon.net/) :fm::sub: |
-| DayComcis.com | [Webtooni](https://webtooni.net/en/) :fm::sub: ==webtooni== |
-
 ### Scanlators
 - [The Blank](https://theblank.net/) :sub:
 - [Omega Scans](https://omegascans.org/) :sub:
