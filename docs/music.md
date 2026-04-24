@@ -27,6 +27,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 ## AMVs
 - [AKROSS](https://www.akross.ru/index.cgi?l=e)
 - [AMV Hell](https://www.amvhell.com/)
+- [AMV Enfer](https://amvenfer.fr/gearwheel.html) :lfr:
 - [AMV News](https://amvnews.ru/)
 - [Anime Music Videos](https://www.animemusicvideos.org/home/home.php) :acc:
 
