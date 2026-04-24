@@ -26,7 +26,7 @@ The meaning of all the basic terms are covered in [**torrenting glossary**](/tor
 
 | Subcategory | Icon | Description |
 | :--- | :--- | :--- |
-| Lossless | ![](/nyaa/2_1.png) | It has almost every kind of music. Anime OP/ED, OST, discography and others. The audio files are mostly WEB-DL (and some are CD release). Almost everything is in PCM (FLAC, ALAC, WAV), rarely some are DSD. |
+| Lossless | ![](/nyaa/2_1.png) | It has almost every kind of music. Anime OP/ED, OST, discography and others. The audio files are mostly WEB-DL (and some are CD release). Almost everything is in PCM (i.e. FLAC, ALAC, WAV), rarely some are DSD. |
 | Lossy | ![](/nyaa/2_2.png) | Lossy encodes of the audio releases. |
 
 ::: tip Audio glossary
@@ -37,9 +37,9 @@ If you want to learn more about the audio basics, read our [**audio glossary**](
 
 | Subcategory | Icon | Description |
 | :--- | :--- | :--- |
-| English-translated | ![](/nyaa/3_1.png) | Has comics, novels and general books. Comics and novels have set naming schemes, which you can find [**here**](#manga-light-novel). Most comics / novels are official rips, but there are compilations of fan-translations too. Some audiobooks are also uploaded in this category, some in **Audio**. |
+| English-translated | ![](/nyaa/3_1.png) | Has comics, novels and general books. Comics and novels have set naming schemes, which you can find [**here**](#manga-light-novel). Most uploads are official digitals or scans, but there are fan-translations too. Most audiobooks are also uploaded in this category, and some in **Audio**. |
 | Non-English-translated | ![](/nyaa/3_2.png) | Comics, novels and general books in other languages. |
-| Raw | ![](/nyaa/3_3.png) | Japanese comics, magazines, novels and general books. Quality of the uploads varies a lot. You can find uploads from websites that only offer slow file hosts, so you will get faster and hassle-free download. |
+| Raw | ![](/nyaa/3_3.png) | Japanese comics, magazines, novels and general books. The upload quality varies a lot. You can find uploads from websites that only offer slow file hosts, so you will get faster and hassle-free download. |
 
 ### Live Action
 
@@ -48,7 +48,7 @@ If you want to learn more about the audio basics, read our [**audio glossary**](
 | English-translated | ![](/nyaa/4_1.png) | Movies, dramas, tokusatsu or other random tv shows in English subs/dubs (with or without Japanese subs). |
 | Idol / Promotional Video | ![](/nyaa/4_2.png) | MV / concert / live shows / tours of idols / vtubers / normal artists, or interviews and other types of compilations. Can be WEB-DL or DVD / BD-rip. |
 | Non-English-translated | ![](/nyaa/4_3.png) | Similar to "English-translated" section, but with non-english subs. |
-| Raw | ![](/nyaa/4_4.png) | Raw section can have way more random things alongside normal stuff like above, for example news shows about NK. |
+| Raw | ![](/nyaa/4_4.png) | Raw section can have way more random things alongside normal stuff like above, for example news reports. |
 
 ### Pictures
 
