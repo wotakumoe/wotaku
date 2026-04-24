@@ -1,31 +1,69 @@
 ---
 title: nyaa
 customDescription: A tutorial for navigating nyaa
+outline: [2,3]
 og:
     image: https://i.wotaku.wiki/f/tor.png
 ---
 
+
+::: tip Basic terms
+The meaning of all the basic terms are covered in [**torrenting glossary**](/torrenting/glossary). Read those first. You will need it.
+:::
+
 ## Categories
 
-| Category | Subcategory | Icon | Description |
-| :--- | :--- | :--- | :--- |
-| Anime | Anime Music Video | ![](/nyaa/1_1.png) | Anime clips set to music. |
-| ^^ | English-translated | ![](/nyaa/1_2.png) | Anime with English sub/dub. |
-| ^^ | Non-English-translated | ![](/nyaa/1_3.png) | Anime in other languages. |
-| ^^ | Raw | ![](/nyaa/1_4.png) | Anime with the original audio and no subs. |
-| Audio | Lossless | ![](/nyaa/2_1.png) | High-fidelity audio formats. |
-| ^^ | Lossy | ![](/nyaa/2_2.png) | Compressed audio formats. |
-| Literature | English-translated | ![](/nyaa/3_1.png) | Books/Manga in English. |
-| ^^ | Non-English-translated | ![](/nyaa/3_2.png) | Books/Manga in other languages. |
-| ^^ | Raw | ![](/nyaa/3_3.png) | Original-language scans/digitals. |
-| Live Action | English-translated | ![](/nyaa/4_1.png) | Asian movies/dramas with English sub/dub. |
-| ^^ | Idol/Promotional Video | ![](/nyaa/4_2.png) | Idol performances or promo material. |
-| ^^ | Non-English-translated | ![](/nyaa/4_3.png) | Asian movies/dramas in other languages. |
-| ^^ | Raw | ![](/nyaa/4_4.png) | Asian movies/dramas in their original language. |
-| Pictures | Graphics | ![](/nyaa/5_1.png) | Digital art and CG. |
-| ^^ | Photos | ![](/nyaa/5_2.png) | High-resolution photography/scans. |
-| Software | Applications | ![](/nyaa/6_1.png) | Software-related uploads in general. |
-| ^^ | Games | ![](/nyaa/6_2.png) | Games-specific category. |
+### Anime
+
+| Subcategory | Icon | Description |
+| :--- | :--- | :--- |
+| Anime Music Video | ![](/nyaa/1_1.png) | Anime OP/ED, fansubbed or fanmade MV. It can have non-anime stuff too (e.g. vtuber, live action MV). |
+| English-translated | ![](/nyaa/1_2.png) | Anime with English sub/dub. By default, it contains English subtitle and Japanese audio. English dub can be found in **Dual-audio** or **Multi-dub** / **Multi-audio**. For example rips from Varyg and Erai-raws. You will find more file name details [**here**](#anime-1). |
+| Non-English-translated | ![](/nyaa/1_3.png) | Anime with non-english subs/dubs. Non-english contents can be found in previous category too, if that torrent has **Multi-sub** / **Multi-audio** in the name. |
+| Raw | ![](/nyaa/1_4.png) | Anime with the japanese audio and no subs or japanese subs or bilingual. A lot of release in this section are made by Chinese uploaders. So you will find releases that maybe have Japanese sub and Chinese sub in the same sub file. |
+
+### Audio
+
+| Subcategory | Icon | Description |
+| :--- | :--- | :--- |
+| Lossless | ![](/nyaa/2_1.png) | It has almost every kinda music. Anime OP/ED, OST, discography and others. The audio files are mostly WEB-dl (and some are CD release). Almost everything is in PCM, rarely some are DSD. |
+| Lossy | ![](/nyaa/2_2.png) | Lossy encodes of the audio releases. |
+
+::: tip Audio glossary
+If you wanna learn about the audio basics, read our [**audio glossary**](/glossary/audio). You will find almost all the terms there.
+:::
+
+### Literature
+
+| Subcategory | Icon | Description |
+| :--- | :--- | :--- |
+| English-translated | ![](/nyaa/3_1.png) | Has comics, novels and general books. For comics and novels, there are naming schemes. You will find the details [**here**](#manga-light-novel). Most of the comics / novels are official rip, but has compilation of fan translations too. Audiobooks are uploaded in this category too. Although some are uploaded in **Audio** category too. |
+| Non-English-translated | ![](/nyaa/3_2.png) | Comics, novels and general books in other languages. |
+| Raw | ![](/nyaa/3_3.png) | Japanese comics, magazines, novels and general books. Quality of the uploads varies a lot. You can find uploads from websites that only give option to download from slow host websites. So you will get faster and hassle-free download. |
+
+### Live Action
+
+| Subcategory | Icon | Description |
+| :--- | :--- | :--- |
+| English-translated | ![](/nyaa/4_1.png) | Movies, Dramas, Tokusatsu or other random tv shows in English subs/dubs (w/ or w/o Japanese subs). |
+| Idol / Promotional Video | ![](/nyaa/4_2.png) | MV / concert / live shows / tours of idols / vtubers / normal artists. Can also have interviews or other types of compilation too. Can be web-dl or dvd / bd-rip. |
+| Non-English-translated | ![](/nyaa/4_3.png) | Similar to "English-translated" section but with non-english subs. |
+| Raw | ![](/nyaa/4_4.png) | Raw section can have way more random things alongside normal stuff like above. For example news shows about NK. |
+
+### Pictures
+
+| Subcategory | Icon | Description |
+| :--- | :--- | :--- |
+| Graphics | ![](/nyaa/5_1.png) | Art-based materials. Uploads can be scanned or digital. Anime production materials (e.g. artbook, concept arts etc), poster, icons, wallpapers or other kinda books. |
+| Photos | ![](/nyaa/5_2.png) | Booklets, photobook & cosplay are generally uploaded here. Sometimes art-based materials are uploaded here too. |
+
+### Software
+
+| Subcategory | Icon | Description |
+| :--- | :--- | :--- |
+| Applications | ![](/nyaa/6_1.png) | Japaese software and japaense learning software materials. |
+| Games | ![](/nyaa/6_2.png) | Visual novels, Japanese games (pc, android and emulation games). |
+
 
 ## Color Codes
 
@@ -46,7 +84,10 @@ og:
 | ^^    | Modified version of tronboy's upload.![](/nyaa/unc3.png) |
 | ^^    | 0v3r's upscalled manga upload. ![](/nyaa/unc4.png) | 
 
-## Anime File Naming
+
+## File Naming
+
+### Anime
 
 ![Anime file name sections](/diagram/anifile.svg)
 
@@ -73,18 +114,21 @@ og:
 | Container / Format | The container used for the video file, with the most widely used one today being **MKV**, for the ability to put multiple audio/subtitle tracks in one video file. The most popular one in the past was **MP4**, which focused on being compatible with a wide range of devices, but was only able to have burned-in hardsubs.
 
 
-## Manga / LN File Naming
+### Manga / Light Novel
 
-![Manga file name sections](/diagram/manfile.svg)
+![Manga file name sections](/diagram/mfile.svg)
 
 | Part | Description |
 |-|-|
-| Publisher | The publisher can be mainly two types. **CaaS (Chapters as a Service)** sites release chapters indvidually instead of volume. Examples: Manga Plus, Manga UP!, Comikey, Tapas etc. **Volume** websites sells the whole volume with better quality. Example: VIZ, Kodansha, Square Enix etc. |
-| Source | Nowadays the primary source is digital, since it's easier to rip and usually higher quality. In the case of scans, the most used tag is c2c - cover to cover. |
+| Publisher | **CaaS (Chapters as a Service)** sites release chapters indvidually instead of volume. Examples: Manga Plus, Manga UP!, Comikey, Tapas etc.
+| ^^ | **Volume** websites sells the whole volume with better quality. Example: VIZ, Kodansha, Square Enix etc. |
+| Source | **Digital:** Nowadays the primary source is digital, since it's easier to rip and usually higher quality.
+| ^^ | **c2c:** In the case of scans, the most used tag is c2c - cover to cover. Example: Trite, XRA. |
 | Uploader | The ripper of the manga, either an individual or group. If the manga is scanlated, the scanlation group is credited here. |
-| PRE | Indicates that a digital release has issues the publisher has yet to fix (like missing/duplicated pages). PRE2 means the publisher has fixed some of those issues, but not all of them. |
-| f | It indicated this is a fixed version after the initial upload. If there are further fixes, it will be put as f2, f3 etc. |
-| Brackets | () -> Manga
-| ^^ | {} -> Manhwa
-| ^^ | [] -> Light Novel |
-| Format | CBZ is the most common file format for manga, actually just a Zip container. There are also CBR(RAR), CB7(7zip), PDF, ePub etc. The image files inside are generally jpeg, png or webp. JPEGXL/JXL is a newer supported format which can provide really good quality under lower file size. |
+| Tags | **PRE:** Indicates that a digital release has issues the publisher has yet to fix (like missing/duplicated pages). PRE2 means the publisher has fixed some of those issues, but not all of them. |
+| ^^ | **f:** It indicated this is a fixed version after the initial upload. If there are further fixes, it will be put as f2, f3 etc. |
+| ^^ | **ED**: Means the upload is an edited version of another torrent upload. Often merged spreads or color-corrected (or ai-colored, upscaled).
+| Brackets | **():** Manga
+| ^^ | **{}:** Manhwa
+| ^^ | **[]:** Light Novel |
+| Container | CBZ is the most common file format for manga, actually just a Zip container. There are also CBR(RAR), CB7(7zip), PDF, ePub etc. The image files inside are generally jpeg, png or webp. JPEGXL/JXL is a newer supported format which can provide really good quality under lower file size. |
