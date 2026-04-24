@@ -109,10 +109,10 @@ outline: 1
 - [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](https://tokyo-tosho.net/)
 
 ::: details Related resources
-- [Seadex](https://releases.moe/)
-- [Sneedex](https://sneedex.moe/) :ded:
-- [A Certain Fansubber's Index](https://index.fansubcar.tel/)
 - [aniDB](https://anidb.net/) :acc:
+- [Seadex](https://releases.moe/)
+- [Sneedex](https://static.sneedex.moe/) :ded:
+- [A Certain Fansubber's Index](https://index.fansubcar.tel/)
 :::
 
 ### Direct Download

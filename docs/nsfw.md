@@ -211,20 +211,20 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 
 ### Stream
 - [MissAV](https://missav.ws/)
-- [JAVLibrary](https://www.javlibrary.com/en/)
-- [SexTB](https://sextb.net/) [:alt:](https://sextb.date/)
+- [JAVGG](https://javgg.net/) [:alt:](https://javgg.co/)
 - [JavGuru](https://jav.guru/)
 - [JAVSeen](https://javseen.tv/)
-- [JAVGG](https://javgg.net/)
+- [SexTB](https://sextb.net/) [:alt:](https://sextb.date/)
 
 ### Torrent
-- [Project JAV](https://projectjav.com/)
-- [One JAV](https://onejav.com/)
-- [141 JAV](https://www.141jav.com/) [:alt:](https://www.141ppv.com/)
+- [141JAV](https://www.141jav.com/) [:alt:](https://www.141ppv.com/)
+- [OneJAV](https://onejav.com/)
+- [ProjectJav](https://projectjav.com/)
+- [Sukebei](https://sukebei.nyaa.si/?f=0&c=2_2&q=) [:prx:](https://rentry.org/nyaap)
 - [Tokyo Toshokan](https://www.tokyotosho.info/?cat=15) [:alt:](https://tokyo-tosho.net/?cat=15)
 
 ### Others
-- [Asia Media Blog](https://asiamediablog.com/) :host: [:prx:](https://rentry.org/wotaxy#asia-media-blog)
+- [Asia Media Blog](https://asiamediablog.com/media/idol/) :host: [:prx:](https://rentry.org/wotaxy#asia-media-blog)
 - [Gravure Princess](https://idol.gravureprincess.date/)
 - [Mabui Onna](https://mabui-onna.com/)
 - [X-IDOL](https://xidol.net/) [:prx:](https://rentry.org/wotaxy#x-idol)

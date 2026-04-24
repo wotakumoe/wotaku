@@ -11,7 +11,7 @@ og:
 ### Public Trackers
 
 | Category    | Websites |
-|------------|----------|
+|-------------|----------|
 | General    | [Nyaa](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap) |
 | ^^         | [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](https://tokyo-tosho.net/) |
 | Anime      | [nekoBT](https://nekobt.to/) |
