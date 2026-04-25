@@ -23,6 +23,9 @@ og:
   <Card title="Glossary" href="/torrenting/glossary">
     All the basic torrent related terms
   </Card>
+  <Card title="Nyaa" href="/torrenting/nyaa">
+    A tutorial for navigating nyaa
+  </Card>
   <Card title="qBittorrent" href="/torrenting/qbit">
     Various how-tos for qBittorrent
   </Card>

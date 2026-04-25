@@ -150,6 +150,7 @@ export const sidebar: DefaultTheme.Sidebar = [
       { text: 'Getting Started', link: '/torrenting/start' },
       { text: 'FAQs', link: '/torrenting/faq' },
       { text: 'Glossary', link: '/torrenting/glossary' },
+      { text: 'Nyaa', link: '/torrenting/nyaa' },
       { text: 'qBittorrent', link: '/torrenting/qbit' },
       { text: `Trackers`, link: '/torrenting/trackers' }
     ]

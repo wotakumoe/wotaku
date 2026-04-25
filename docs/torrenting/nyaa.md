@@ -88,7 +88,7 @@ If you want to learn more about the audio basics, read our [**audio glossary**](
 ## File Naming
 
 ::: tip README
-File naming schemes are kinda optional. Every upload doesn't follow the same sequence of tags. There will be variations on writing style and placement. The schemes below are the most standard way to do it.
+File naming schemes are kind of optional, not every upload has to follow the same sequence of tags. There will be variations on writing style and placement, with the schemes below being the most standard way to do it.
 :::
 
 ### Anime
@@ -106,8 +106,8 @@ File naming schemes are kinda optional. Every upload doesn't follow the same seq
 | ^^     | **Encode**: A video that has gone through lossless or lossy compression processes in order to save file size, also called a DVDRip or BDRip. |
 | ^^     | **Re-Encode**: An encode that has gone through the process of further encoding, thus degrading in quality. |
 | ^^     | **Mini-Encode**: A video where the priority is the smallest possible file size, even if the quality would greatly suffer as a result. |
-| **Resolution** | The number of pixels contained in each frame. Most anime nowadays are made in 1080p. Very few anime are made in 2160p because of the budget constraints without adding much value. So most 2160p are upscalled (Bilibili One Piece uploads) or rescanned of old anime (GKIDS & IMAX Ghibli movies restoration project). The quality depends on how the process is handled. Most fanmade upscales are bad/lazy, so ignoring them is a better choice.  |
-| ^^ | Upper limits on video resolution based on source (ignoring untouched and leaked sources) : |
+| **Resolution** | The number of pixels contained in each frame. Most anime nowadays are made in 1080p. Very few anime are made in 2160p because of the budget constraints without adding much value. So most 2160p are upscales (Bilibili One Piece uploads) or rescans of old anime (GKIDS & IMAX Ghibli movies restoration project). The quality depends on how the process is handled. Most fanmade upscales are bad/lazy, so ignoring them is the better choice.  |
+| ^^ | Upper limits on video resolution based on source (ignoring untouched and leaked sources): |
 | ^^ | **WEB / BluRay** -> 1920x1080 |
 | ^^ | **UHD** -> 3840x2160 |
 | ^^ | **TV** -> 1920x1080 (If the channel is SD, then it's 480p) |
