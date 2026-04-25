@@ -56,9 +56,9 @@ outline: 1
 <ScrapeTable :sites="[
   { name: '1anime', scrapes: { 'AnimeKai': 'kai & kiwi', 'Anime Nexus': 'nexus', 'AnimePahe': 'pahe', 'Anitaku': 'gogo', 'Kuudere': 'Zen', 'AniZone': 'Zone' } },
   { name: 'Anikuro', scrapes: { '123anime': 'AniX', 'AllManga': 'AllAni', 'AnimeGG': 'AniGG', 'AnimeKai': 'Kai', 'AniZone': 'AniZ' } },
-  { name: 'Animetsu', scrapes: { 'AnimeGG': 'Meg', 'AnimePahe': 'Pahe' } },
+  { name: 'Animetsu', scrapes: { 'AnimeGG': 'Meg', 'AnimePahe': 'Pahe', 'Anikoto': 'Kite', } },
   { name: 'AnimeX', scrapes: { 'Anitaku': 'gogo', 'AnimeKai': 'kiwi', 'AnimePahe': 'pahe', 'KickAssAnime': 'kami', 'AllManga': 'mochi', 'AnimeOnsen': 'vee' } },
-  { name: 'Miruro', scrapes: { 'AnimeKai': 'arc', 'AnimeDuniya': 'dune', 'AnimePahe': 'kiwi & telli', 'KickAssAnime': 'hop & kuz' } }
+  { name: 'Miruro', scrapes: { 'AnimeKai': 'arc', 'AnimeDuniya': 'dune', 'AnimePahe': 'kiwi & telli', 'KickAssAnime': 'hop & kuz', 'AllManga': 'ally & nun', 'Anikoto': 'bun & bee',  } , }
 ]" />
 </Collapsible>
 
