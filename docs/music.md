@@ -119,7 +119,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 | Website | Service |
 |-|-|
-| [DoubleDouble](https://doubledouble.top/) :s: | Multi |
+| [DoubleDouble](https://doubledouble.top/) :s: | Multiple |
 | [Lucida](https://lucida.to/) :s: | ^^ |
 | [Squid.wtf](https://squid.wtf/) | ^^ |
 | [T2Tunes](https://t2tunes.site/) | Amazon |
