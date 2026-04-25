@@ -27,7 +27,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 ## AMVs
 - [AKROSS](https://www.akross.ru/index.cgi?l=e)
 - [AMV Hell](https://www.amvhell.com/)
-- [AMV Enfer](https://amvenfer.fr/gearwheel.html) :lfr:
+- [AMV Enfer](https://amvenfer.fr/) :lfr:
 - [AMV News](https://amvnews.ru/)
 - [Anime Music Videos](https://www.animemusicvideos.org/home/home.php) :acc:
 
@@ -119,7 +119,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 | Website | Service |
 |-|-|
-| [DoubleDouble](https://doubledouble.top/) :s: | Multi-Service |
+| [DoubleDouble](https://doubledouble.top/) :s: | Multi |
 | [Lucida](https://lucida.to/) :s: | ^^ |
 | [Squid.wtf](https://squid.wtf/) | ^^ |
 | [T2Tunes](https://t2tunes.site/) | Amazon |
@@ -254,7 +254,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 ## MusicBrainz
 - [a-tisket](https://atisket.pulsewidth.org.uk/)
 - [Harmony](https://harmony.pulsewidth.org.uk/) [:src:](https://github.com/kellnerd/harmony)
-- [SAMBL: Streaming Artist MusicBrainz Lookup](https://sambl.lioncat6.com/) [:src:](https://github.com/Lioncat6/SAMBL-React)
+- [SAMBL](https://sambl.lioncat6.com/) [:src:](https://github.com/Lioncat6/SAMBL-React)
 
 ## Last.fm
 - [Last.fm stats](https://lastfmstats.com/) [:src:](https://github.com/felhag/lastfm-stats-web)
