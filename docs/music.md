@@ -234,8 +234,8 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 ## Spotify
 | Category            | Resource |
 |--------------------|--------------------------------------------------|
-| **Availability**   | [Album Availability on Spotify](https://kaaes.github.io/albums-availability/) [:src:](https://github.com/kaaes/albums-availability) |
-| ^^                 | [Check Track Availability](https://spotify-check-track-availability.vercel.app/) [:src:](https://github.com/wcelery/spotify-check-track-availability) |
+| **Availability**   | [Album Availability Map](https://kaaes.github.io/albums-availability/) [:src:](https://github.com/kaaes/albums-availability) |
+| ^^                 | [Spotify Track Checker](https://spotify-check-track-availability.vercel.app/) [:src:](https://github.com/wcelery/spotify-check-track-availability) |
 | **Discovery & Stats** | [Chosic](https://www.chosic.com/) :s: |
 | ^^                 | [Discover Quickly](https://discoverquickly.com/) |
 | ^^                 | [Musicalyst](https://musicalyst.com/) |
