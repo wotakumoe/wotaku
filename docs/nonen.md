@@ -339,8 +339,7 @@ og:
   - [Kiyocomics](https://kiyocomics.netlify.app/) [:src:](https://github.com/Bilhaq12/kiyoanime)
   - [Mynimeku](https://www.mynimeku.com/)
   - [Otaku Desu](https://otakudesu.cloud/)
-  - [Samehadaku](https://samehadaku.care/)
-  - [SKUY](https://skuy.co.id/) :acc:
+  - [Samehadaku](https://v2.samehadaku.how/) [:prx:](https://samehadaku.care/)
 - **DDL**
   - [Kusonime](https://kusonime.com/)
   - [Meownime](https://meownime.ltd/)
