@@ -306,7 +306,7 @@ og:
 - **Stream**
   - [Aniflix](https://aniflix.uno/)
   - [AnimeLok](https://animelok.xyz/home)
-  - [Anime Bash](https://animebash.in/home) [:alt:](https://animebashindia.me/home)
+  - [Anime Bash India](https://animebashindia.me/home)
   - [Anime Salt](https://animesalt.top/)
   - [Anime World India](https://watchanimeworld.net/)
   - [AniMoye](https://animoye.com/)
