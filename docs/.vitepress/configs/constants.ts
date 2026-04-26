@@ -184,7 +184,7 @@ export const sidebar: DefaultTheme.Sidebar = [
 export const siteConfig = {
   title: 'Wotaku',
   description:
-    'Wotaku, the one-stop-shop for all your otaku interests. Here you can find websites for Anime, Manga, Light Novels, Music, Soundtracks, Games and Hentai. Our japanese learning section has books and videos about language, history and culture.',
+    'Wotaku, your hub for all otaku interests. We list websites for Anime, Manga, Light Novels, Music, Games and Hentai, also Aniyomi and Mihon extensions.',
   lang: 'en-US',
   lastUpdated: true,
   cleanUrls: true,

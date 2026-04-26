@@ -269,7 +269,6 @@ To make the cubari process easier, we have made [Kaguya](https://github.com/wota
 - [Novel Full](https://novelfull.net/)
 - [Read Novel Full](https://readnovelfull.com/)
 - [Free Web Novel](https://freewebnovel.com/)
-- [Light Novel Heaven](https://lightnovelheaven.com/)
 - [WuxiaClick](https://wuxia.click/) [:alt:](https://readnovel.eu/)
 - [Novel Hall](https://www.novelhall.com/)
 

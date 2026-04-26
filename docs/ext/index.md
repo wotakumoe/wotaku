@@ -11,7 +11,7 @@ og:
 
 </script>
 
-## Extension Repos
+# Extension Repos
 
 <Deck>
   <Card title="Mihon" href="/ext/mihon">

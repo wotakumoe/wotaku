@@ -11,7 +11,7 @@ og:
 
 </script>
 
-## Glossary
+# Glossary
 
 <Deck>
   <Card title="General" href="/glossary/general">
