@@ -58,17 +58,6 @@ og:
 |  Preview  |   Shows a glimpse of the next episode which is generally an action sequence. This is also used as PV.   |
 
 
-## Subtitle types
-
-| Type                              | Description                                                                                                             |
-|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| Closed Captions (CC)              | Also known as soft subtitles; text overlays on a video that provide translated dialogue or just audio transcription in case they're following the dub; can be turned off if not needed. |
-| Open Captions (OC)                | Also known as burned-in/hard subtitles; non-interactive subtitles that have been permanently 'burned' into the video file itself and can't be turned off. |
-| SDH (Subtitles for the Deaf and Hard of Hearing) | A type of subtitle that includes not only dialogue but also annotations for sound effects and other audio information to aid viewers who are deaf or hard of hearing. |
-| Forced Subtitles                  | Subtitles that automatically appear when a portion of dialogue or text is in a different language from the main audio track; they are 'forced' on screen to provide necessary translation or context. |
-| Karaoke Subtitles                 | Karaoke subtitles highlight the lyrics in time with the Opening/Ending/Insert songs.                            |
-
-
 ## Anime Production
 
 ### Anime Production Process
