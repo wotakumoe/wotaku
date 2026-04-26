@@ -20,7 +20,7 @@ outline: 1
 
 | Websites | Type | Login | Tracking | Sub |
 |----------|----------------|------|----------------------|--------|
-| [AnimeKai](https://animekai.to/home) [:prx:](https://rentry.org/wotaxy#animekai) ==AnimeKai== | :sup: | :yes: | :sync::ie::msync: | :cc::hs: |
+| [AnimeKai](https://animekai.to/home) [:prx:](https://rentry.org/wotaxy#animekai) ==AnimeKai== | :sup: | :yes: | :sync::ie::msync: | :cc::oc: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :sup: | :yes: | :sync::ie::msync: | :cc: |
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :scrpr: | :no: | :no: |  :cc: |
 | [KickassAnime](https://kaa.lt/) ==KAA== | :sup: | :yes: | :msync: | :cc: |
@@ -32,25 +32,25 @@ outline: 1
 ### Self-uploaded
 | Websites | Login | Tracking | Sub |
 |----------|----------------|----------------------------|--------|
-| [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) | :yes: | :no: | :cc::hs: |
-| [Anibd](https://anibd.app/) :ero: [:alt:](https://ani.lol/) | :yes: | :no: | :hs: |
-| [AniHQ](https://anihq.to/home/) | :yes: | :no: | :hs: |
-| [Animepahe](https://animepahe.com/) ==Animepahe== | :no: | :msync: | :hs: |
-| [Animotvslash](https://www.animotvslash.org/) [:alt:](https://animotvslash.nl/home/) | :no: | :no: | :cc::hs: |
+| [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) | :yes: | :no: | :cc::oc: |
+| [Anibd](https://anibd.app/) :ero: [:alt:](https://ani.lol/) | :yes: | :no: | :oc: |
+| [AniHQ](https://anihq.to/home/) | :yes: | :no: | :oc: |
+| [Animepahe](https://animepahe.com/) ==Animepahe== | :no: | :msync: | :oc: |
+| [Animotvslash](https://www.animotvslash.org/) [:alt:](https://animotvslash.nl/home/) | :no: | :no: | :cc::oc: |
 | [Kuudere](https://kuudere.to/) [:prx:](https://rentry.org/wotaxy#kuudere) | :yes: | :sync::ie: | :cc: |
-| [Watch Cartoon Online](https://www.wco.tv/) [:prx:](https://www.wcostatus.com/) ==WCO== | :yes: | :no: | :hs: |
+| [Watch Cartoon Online](https://www.wco.tv/) [:prx:](https://www.wcostatus.com/) ==WCO== | :yes: | :no: | :oc: |
 
 
 ### Scrapers
 | Websites | Login | Tracking | Sub |
 |----------|----------------|----------------------------|--------|
-| [1anime](https://1anime.app/discover) [:prx:](https://1ani.me/) | :yes: | :sync: | :cc::hs: |
-| [Anikuro](https://anikuro.to/) [:prx:](https://anikuro.site/) | :yes: | :sync: | :cc::hs: |
-| [Animetsu](https://animetsu.net/) [:prx:](https://rentry.org/wotaxy#animetsu) | :yes: | :ie::msync: | :cc::hs: |
-| [AnimeX](https://animex.one/home) | :yes: | :sync: | :cc::hs: |
-| :prev: [Anikage](https://anikage.cc/home) | :yes: | :sync: | :cc::hs: |
-| :prev: [Anidap](https://anidap.se/home) | :yes: | :ie: | :cc::hs: |
-| [Miruro](https://www.miruro.to/) [:prx:](https://www.miruro.com) | :yes: | :sync::msync: | :cc::hs: |
+| [1anime](https://1anime.app/discover) [:prx:](https://1ani.me/) | :yes: | :sync: | :cc::oc: |
+| [Anikuro](https://anikuro.to/) [:prx:](https://anikuro.site/) | :yes: | :sync: | :cc::oc: |
+| [Animetsu](https://animetsu.net/) [:prx:](https://rentry.org/wotaxy#animetsu) | :yes: | :ie::msync: | :cc::oc: |
+| [AnimeX](https://animex.one/home) | :yes: | :sync: | :cc::oc: |
+| :prev: [Anikage](https://anikage.cc/home) | :yes: | :sync: | :cc::oc: |
+| :prev: [Anidap](https://anidap.se/home) | :yes: | :ie: | :cc::oc: |
+| [Miruro](https://www.miruro.to/) [:prx:](https://www.miruro.com) | :yes: | :sync::msync: | :cc::oc: |
 
 ### Source table
 <ScrapeTable :sites="[

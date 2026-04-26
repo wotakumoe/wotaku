@@ -91,8 +91,8 @@ const aliasDefs: Record<string, [string, string?]> = {
   cmnt: ['ic-round-mode-comment', 'Comment section'],
   frm: ['ic-round-forum', 'Forum'],
 
-  cc: ['mdi-closed-caption', 'Soft Subtitle / CC'],
-  hs: ['mdi-hulu', 'Hardsubs'],
+  cc: ['map-closed-captioning', 'Soft Subtitle / CC'],
+  oc: ['map-open-captioning', 'Hard Subtitle / OC'],
   sup: ['mingcute-server-fill', 'Self-uploaded (Own storage or video host)'],
   scrpr: ['mingcute-shovel-fill', 'Scraper (Pulling from other host sites)'],
 
