@@ -8,7 +8,7 @@ og:
 ---
 
 ::: tip Quick Tip
-For game [**downloads**](https://megathread.pages.dev/download) and [**emulation**](https://megathread.pages.dev/emulation), visit our friends over at [**Privateersclub**](https://megathread.pages.dev/).
+For game [**downloads**](https://privateers.wiki/download) and [**emulation**](https://privateers.wiki/emulation), visit our friends over at [**Privateersclub**](https://privateers.wiki/).
 :::
 
 ## Info

@@ -220,7 +220,7 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
                   </a>
                   ,
                   <a
-                    href="https://megathread.pages.dev/unsafe"
+                    href="https://privateers.wiki/unsafe"
                     class="text-primary text-underline font-semibold"
                   >
                     Privateersclub
