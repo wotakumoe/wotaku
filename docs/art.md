@@ -94,7 +94,6 @@ og:
 | ^^        | [PixivFE](https://pixiv.perennialte.ch/) :s: [:src:](https://codeberg.org/VnPower/PixivFE) |
 | ^^        | [Pixiv Viewer](https://pixiv.pictures/) [:src:](https://github.com/asadahimeka/pixiv-viewer) |
 | ^^        | [Pixiv Yearbook](https://pixiv.navirank.com/) |
-| ^^        | [Pxelk](https://pxelk.pixiv.pics/) [:src:](https://github.com/ShugetsuSoft/pixivel-front) |
 | **Others** | [Pixnoy](https://www.pixnoy.com/) |
 | ^^        | [X Cancelled](https://xcancel.com/) [:src:](https://github.com/zedeus/nitter) |
 
