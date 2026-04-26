@@ -340,6 +340,7 @@ og:
   - [Mynimeku](https://www.mynimeku.com/)
   - [Otaku Desu](https://otakudesu.cloud/)
   - [Samehadaku](https://v2.samehadaku.how/) [:prx:](https://samehadaku.care/)
+  - [SPlay](https://splay.id/) :acc:
 - **DDL**
   - [Kusonime](https://kusonime.com/)
   - [Meownime](https://meownime.ltd/)
