@@ -115,10 +115,11 @@ File naming schemes are kind of optional, not every upload has to follow the sam
 | **Video Codec** | The encoding process for the video file. The most popular encoders today are **x264** (AVC) and **x265** (HEVC), with the latter being newer and able to achieve higher compression rates with less quality loss. To learn more about encoding, visit [**Codec Wiki**](https://av1.wiki/docs/introduction/prologue). |
 | **Audio Format** | **Lossless**: These retain the highest audio quality and have larger file sizes as a consequence. The most common one is FLAC. |
 | ^^     | **Lossy**: These formats aim to provide good quality while keeping file sizes small. The most popular ones today are AAC, AC3, EAC3 (all commonly found in Web releases), with MP3 being found in older releases. |
-| **Subtitles** | **Raw**: A video without subtitles. |
-| ^^     | **Fansubs**: Unofficial aka fan-made translations or an edited version of the official subtitle. |
-| ^^     | **Hardsubs**: Subtitles that are burned into the frames and are part of the video track itself, can't be turned off. |
-| ^^     | **Softsubs**: Subtitles that are contained on their own track inside a video file or a separate file that's loaded with the video, can be turned on or off. |
+| **Subtitles** | **Closed Captions (CC):** Also known as soft subtitles; text overlays on a video that provide translated dialogue or just audio transcription in case they're following the dub; can be turned off if not needed. |
+| ^^ | **Open Captions (OC):** Also known as burned-in/hard subtitles; non-interactive subtitles that have been permanently 'burned' into the video file itself and can't be turned off. |
+| ^^ | **Subtitles for the Deaf and Hard of Hearing(SDH):** A type of subtitle that includes not only dialogue but also annotations for sound effects and other audio information to aid viewers who are deaf or hard of hearing. |
+| ^^ | **Forced Subtitles:** Subtitles that automatically appear when a portion of dialogue or text is in a different language from the main audio track; they are 'forced' on screen to provide necessary translation or context. |
+| ^^ | **Karaoke Subtitles:** Karaoke subtitles highlight the lyrics in time with the Opening / Ending / Insert songs. |
 | **File Hash** | These are [CRC32](https://en.wikipedia.org/wiki/Cyclic_redundancy_check) codes, used to detect errors during file transmission. For example: 7BAAC64C. CRC generates a 32-bit code for each file (in hexadecimal, it's 8 digits). Fansubbers include these codes in the filename so that users can easily [check](https://animechecker.sourceforge.net/) whether the downloaded file is corrupted or not. If the file is corrupted, the user will receive a different code than the one written in the file name. |
 | **Container** / Format | The container used for the video file, with the most widely used one today being **MKV**, for the ability to put multiple audio/subtitle tracks in one video file. The most popular one in the past was **MP4**, which focused on being compatible with a wide range of devices, but was only able to have burned-in hardsubs. |
  
@@ -143,9 +144,9 @@ File naming schemes are kind of optional, not every upload has to follow the sam
 | **Tags** | **PRE:** Indicates that a digital release has issues the publisher has yet to fix (like missing/duplicated pages). PRE2 means the publisher has fixed some of those issues, but not all of them. |
 | ^^ | **f:** It indicated this is a fixed version after the initial upload. If there are further fixes, it will be put as f2, f3 etc. |
 | ^^ | **ED**: Means the upload is an edited version of another torrent upload. Often merged spreads or color-corrected (or ai-colored, upscaled). |
-| **Brackets** | **():** Manga (traditional) |
-| ^^ | **{}:** Long-strip |
-| ^^ | **[]:** Light Novel |
+| **Brackets** | **()** -> Manga (traditional) |
+| ^^ | **{}** -> Long-strip |
+| ^^ | **[]** -> Light Novel |
 | **Container** | CBZ is the most common file format for manga, actually just a Zip container. There are also CBR(RAR), CB7(7zip), PDF, ePub etc. The image files inside are generally jpeg, png or webp. JPEGXL/JXL is a newer supported format which can provide really good quality under lower file size. |
 
 ::: tip Examples
