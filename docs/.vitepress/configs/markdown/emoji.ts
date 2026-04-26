@@ -23,6 +23,7 @@ import { icons as ri } from '@iconify-json/ri'
 import { icons as simple } from '@iconify-json/simple-icons'
 import { icons as twemoji } from '@iconify-json/twemoji'
 import { icons as uil } from '@iconify-json/uil'
+import { icons as map } from '@iconify-json/map'
 
 // 1. Install emoji pack with `pnpm add -D @iconify-json/<icon>`
 // 2. Import them like I did above
@@ -42,6 +43,7 @@ const emojis: { pack: IconifyJSON; prefix?: string }[] = [
   { pack: uil, prefix: 'uil-' },
   { pack: ri, prefix: 'ri-' },
   { pack: akar, prefix: 'akar-icons-' },
+  { pack: map, prefix: 'map-' },
   { pack: iconoir, prefix: 'iconoir-' }
 ]
 

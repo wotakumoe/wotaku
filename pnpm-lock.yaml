@@ -150,6 +150,9 @@ importers:
       '@iconify-json/lucide':
         specifier: ^1.2.72
         version: 1.2.72
+      '@iconify-json/map':
+        specifier: ^1.2.2
+        version: 1.2.2
       '@iconify-json/material-symbols':
         specifier: ^1.2.44
         version: 1.2.44
@@ -758,6 +761,9 @@ packages:
 
   '@iconify-json/lucide@1.2.72':
     resolution: {integrity: sha512-kq/ZDUtCdBfjGxIMaUI+Ctt3dC/0sHmrUyTU1i04+8ehlo3/PUGKqrJd4C9J/kQl1jfcHpaUPqGUFvgZ9orhQg==}
+
+  '@iconify-json/map@1.2.2':
+    resolution: {integrity: sha512-UnxUR7AxBZwucqg47ueqmQ8jrQG2Us15Pu1/6BAPEBmoOT/MNt8EPN2Wc/NkjTjbRyV5Wqd8U173scR0KqbgJQ==}
 
   '@iconify-json/material-symbols@1.2.44':
     resolution: {integrity: sha512-NAJjhswaK9FxBeIzFFsNygws7wHtmAkBWhF4YEwn1NZIMbA+LNITqhUiq6sP5mOdKQqnoritFTlQaZ47a5BgBg==}
@@ -4396,6 +4402,10 @@ snapshots:
       '@iconify/types': 2.0.0
 
   '@iconify-json/lucide@1.2.72':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/map@1.2.2':
     dependencies:
       '@iconify/types': 2.0.0
 
