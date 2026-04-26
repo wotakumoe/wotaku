@@ -451,11 +451,11 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 ## Downloader
 | Software | Platform |
 | :--- | :--- |
-| [OnTheSpot](https://github.com/justin025/onthespot) | :win::lin: |
 | [Nicotine+](https://nicotine-plus.org/) ==Nicotine== | :win::app::lin: |
+| [OnTheSpot](https://github.com/justin025/onthespot) | :win::lin: |
 | [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD) | :win: |
-| [Soggfy](https://github.com/Rafiuth/Soggfy) | :win: |
 | [SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) <tooltip>It maps from spotify to other streaming services. Doesn't download from spotify.</tooltip> | :win::app::lin: |
+| [TIDDL](https://github.com/oskvr37/tiddl) | :py: |
 | [Votify](https://github.com/glomatico/votify) | :py: |
 | [Zotify](https://github.com/Googolplexed0/zotify) | :py: |
 

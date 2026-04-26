@@ -1,0 +1,1 @@
+Used to reupload from HiAnime, now uploads softsub from AnimeKai and embeds AnimePahe player.

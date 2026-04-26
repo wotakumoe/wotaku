@@ -72,7 +72,7 @@ og:
 | Software | OS | DDL | P2P | FOSS |
 |-|-|-|-|-|
 | [AB Download Manager](https://abdownloadmanager.com/) [:src:](https://github.com/amir1376/ab-download-manager) | :win::lin: | :yes: | :no: | :yes: |
-| [aria2](https://aria2.github.io/) [:src:](https://github.com/aria2/aria2) | :cmd: | :yes: | :yes: | :yes: |
+| [aria2](https://aria2.github.io/) [:src:](https://github.com/aria2/aria2) | :win::app::lin::cmd: | :yes: | :yes: | :yes: |
 | [Deluge](https://www.deluge-torrent.org/) [:src:](https://github.com/deluge-torrent/deluge) | :win::app::lin: | :no: | :yes: | :yes: |
 | [Internet Download Manager](https://www.internetdownloadmanager.com/) | :win: | :yes: | :no: | :no: |
 | [JDownloader](https://jdownloader.org/) | :win::app::lin: | :yes: | :no: | :no: |
@@ -125,7 +125,7 @@ og:
 | :--- | :--- |
 | [IrfanView](https://www.irfanview.com/) :cs: | :win: |
 | [JPEGView](https://github.com/sylikc/jpegview) | :win: |
-| [qimgv](https://github.com/easymodo/qimgv) | :win::lin::bsd: |
+| [qimgv](https://github.com/easymodo/qimgv) :s: | :win::app::lin::bsd: |
 | [qView](https://interversehq.com/qview/) [:src:](https://github.com/jurplel/qView) | :win::app::lin: |
 | [XnView MP](https://www.xnview.com/en/xnviewmp/) :cs: | :win::app::lin: |
 

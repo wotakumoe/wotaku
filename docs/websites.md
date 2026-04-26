@@ -35,7 +35,8 @@ outline: 1
 | [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) | :yes: | :no: | :cc::oc: |
 | [Anibd](https://anibd.app/) :ero: [:alt:](https://ani.lol/) | :yes: | :no: | :oc: |
 | [AniHQ](https://anihq.to/home/) | :yes: | :no: | :oc: |
-| [Animepahe](https://animepahe.com/) ==Animepahe== | :no: | :msync: | :oc: |
+| [Anikoto](https://anikototv.to/home) ==Anikoto== | :yes: | :ie: | :oc: |
+| [AnimePahe](https://animepahe.pw/) ==Animepahe== | :no: | :msync: | :oc: |
 | [Animotvslash](https://www.animotvslash.org/) [:alt:](https://animotvslash.nl/home/) | :no: | :no: | :cc::oc: |
 | [Kuudere](https://kuudere.to/) [:prx:](https://rentry.org/wotaxy#kuudere) | :yes: | :sync::ie: | :cc: |
 | [Watch Cartoon Online](https://www.wco.tv/) [:prx:](https://www.wcostatus.com/) ==WCO== | :yes: | :no: | :oc: |
@@ -48,8 +49,6 @@ outline: 1
 | [Anikuro](https://anikuro.to/) [:prx:](https://anikuro.site/) | :yes: | :sync: | :cc::oc: |
 | [Animetsu](https://animetsu.net/) [:prx:](https://rentry.org/wotaxy#animetsu) | :yes: | :ie::msync: | :cc::oc: |
 | [AnimeX](https://animex.one/home) | :yes: | :sync: | :cc::oc: |
-| :prev: [Anikage](https://anikage.cc/home) | :yes: | :sync: | :cc::oc: |
-| :prev: [Anidap](https://anidap.se/home) | :yes: | :ie: | :cc::oc: |
 | [Miruro](https://www.miruro.to/) [:prx:](https://www.miruro.com) | :yes: | :sync::msync: | :cc::oc: |
 
 ### Source table
@@ -57,7 +56,7 @@ outline: 1
   { name: '1anime', scrapes: { 'AnimeKai': 'kai & kiwi', 'Anime Nexus': 'nexus', 'AnimePahe': 'pahe', 'Anitaku': 'gogo', 'Kuudere': 'Zen', 'AniZone': 'Zone' } },
   { name: 'Anikuro', scrapes: { '123anime': 'AniX', 'AllManga': 'AllAni', 'AnimeGG': 'AniGG', 'AnimeKai': 'Kai', 'AniZone': 'AniZ' } },
   { name: 'Animetsu', scrapes: { 'AnimeGG': 'Meg', 'AnimePahe': 'Pahe', 'Anikoto': 'Kite', } },
-  { name: 'AnimeX', scrapes: { 'Anitaku': 'gogo', 'AnimeKai': 'kiwi', 'AnimePahe': 'pahe', 'KickAssAnime': 'kami', 'AllManga': 'mochi', 'AnimeOnsen': 'vee' } },
+  { name: 'AnimeX', scrapes: { 'AnimePahe': 'uwu', 'AllManga': 'mochi', 'KickAssAnime': 'kami', 'AnimeOnsen': 'vee', 'AniZone': 'zaza', 'Anikoto': 'yuki', 'Kuudere': 'zen' } },
   { name: 'Miruro', scrapes: { 'AnimeKai': 'arc', 'AnimeDuniya': 'dune', 'AnimePahe': 'kiwi & telli', 'KickAssAnime': 'hop & kuz', 'AllManga': 'ally & nun', 'Anikoto': 'bun & bee',  } , }
 ]" />
 </Collapsible>
@@ -496,7 +495,7 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 
 ## Novels
 
-- [BookWalker](https://global.bookwalker.jp/)
+- [BookWalker](https://bookwalker.com/)
 - [Cross Infinite World](https://www.crossinfworld.com/index.html)
 - [Dark Horse Comics](https://www.darkhorse.com/)
 - [J-Novel Club](https://j-novel.club/)

@@ -18,7 +18,7 @@ Information about various types of publishers for manga and manhwa. Image qualit
 | [Neon Ichiban](https://neonichiban.com/)<sup>2</sup> | High | Medium | :yes: | YES |
 | [GlobalComix](https://globalcomix.com/)<sup>3</sup>| High | Medium | :yes: | YES |
 | [Apple Books](https://www.apple.com/apple-books/) | Standard | Medium | :yes: | NO |
-| [BookWalker Global](https://global.bookwalker.jp/) | Standard | Hard | :yes: | NO<sup>4</sup> |
+| [BookWalker Global](https://bookwalker.com/) | Standard | Hard | :yes: | NO<sup>4</sup> |
 | [Google Play Books](https://play.google.com/books) | Standard | Very Easy | :yes: | YES |
 | [Humble Bundle](https://www.humblebundle.com/) | Highest | DRM-Free | :yes: | YES |
 | [Kobo](https://www.kobo.com/)                | Standard | Easy | :yes: | YES |
