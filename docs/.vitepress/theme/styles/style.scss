@@ -1444,6 +1444,7 @@ table tr:nth-child(odd) {
 :root {
   --scrape-cell-bg: #ebedf0;
   --scrape-cell-active: #56d364;
+  --scrape-cell-active-sd: #ff4d4f;
 }
 
 .dark {
@@ -1542,6 +1543,10 @@ table tr:nth-child(odd) {
 
     &.active::before {
       background: var(--scrape-cell-active);
+    }
+
+    &.active-sd::before {
+      background: var(--scrape-cell-active-sd);
     }
 
     &.active[title]:hover::after {

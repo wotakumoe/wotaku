@@ -2,14 +2,45 @@
 import { useEventListener } from '@vueuse/core'
 import { computed, ref, onMounted } from 'vue'
 
+interface ScrapeValueObject {
+  name: string
+  metadata?: string[]
+}
+
+type ScrapeValue = string | ScrapeValueObject
+
+interface NormalizedScrapeValue {
+  name: string
+  metadata: string[]
+}
+
 interface Site {
   name: string
-  scrapes: Record<string, string>
+  scrapes: Record<string, ScrapeValue>
 }
 
 const props = defineProps<{
   sites: Site[]
 }>()
+
+function normalizeScrapeValue(value: ScrapeValue): NormalizedScrapeValue {
+  if (typeof value === 'string') {
+    return { name: value, metadata: [] }
+  }
+
+  return {
+    name: value.name,
+    metadata: value.metadata ?? [],
+  }
+}
+
+function hasMetadata(value: NormalizedScrapeValue | undefined, metadata: string) {
+  return value?.metadata.some(item => item.toLowerCase() === metadata.toLowerCase()) ?? false
+}
+
+function getScrapeTitle(value: NormalizedScrapeValue | undefined) {
+  return value?.name || undefined
+}
 
 // Normalize source names (case-insensitive dedup, keep first-seen casing)
 const normalizedSites = computed(() => {
@@ -21,9 +52,9 @@ const normalizedSites = computed(() => {
     }
   }
   return props.sites.map(site => {
-    const scrapes: Record<string, string> = {}
-    for (const [source, player] of Object.entries(site.scrapes)) {
-      scrapes[canonical[source.toLowerCase()]] = player
+    const scrapes: Record<string, NormalizedScrapeValue> = {}
+    for (const [source, value] of Object.entries(site.scrapes)) {
+      scrapes[canonical[source.toLowerCase()]] = normalizeScrapeValue(value)
     }
     return { name: site.name, scrapes }
   })
@@ -125,8 +156,11 @@ onMounted(() => {
               v-for="source in sources"
               :key="source"
               class="cell"
-              :class="{ active: source in site.scrapes }"
-              :title="site.scrapes[source] || undefined"
+              :class="{
+                active: source in site.scrapes,
+                'active-sd': hasMetadata(site.scrapes[source], 'SD'),
+              }"
+              :title="getScrapeTitle(site.scrapes[source])"
             />
           </tr>
         </tbody>
