@@ -468,12 +468,9 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 | Group | Website | Type |
 |-|-|-|
-| [**KORSITE**](https://korsite.net/) | [TOONKOR](https://tkor104.com/%EC%9B%B9%ED%88%B0) | Manhwa :ero: |
-| ^^                              | [Funbe](https://funbe622.com/%EC%9B%B9%ED%88%B0) | ^^ |
+| [**KORSITE**](https://korsite.net/) | [TOONKOR](https://tkor114.com/%EC%9B%B9%ED%88%B0) | Manhwa :ero: |
+| ^^                              | [Funbe](https://funbe632.com/%EC%9B%B9%ED%88%B0) | ^^ |
 | ^^                              | [Annie24](https://ohli24.net/) [:prx:](https://rentry.org/wotaxy#annie24)   | Anime  |
-| **Toki** | [NEWTOKI](https://newtoki468.com/) | Manhwa :ero: |
-| ^^                                      | [Manatoki](https://manatoki468.net/) | Manga :ero: |
-| ^^                                      | [Booktoki](https://booktoki468.com/) [:prx:](https://www.xn--h10bx0wsvp.net/) | Novel :ero: |
 | **Others** | [Wolf](https://nicelink22.com/) | Mix Comics :ero: |
 | ^^      | [XToon](https://t1.xtoon2.com/) | ^^ |
 | ^^      | [Anilife](https://anilife.live/) | Anime |
