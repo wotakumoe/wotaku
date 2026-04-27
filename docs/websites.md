@@ -46,7 +46,6 @@ outline: 1
 | Websites | Login | Tracking | Sub |
 |----------|----------------|----------------------------|--------|
 | [1anime](https://1anime.app/discover) [:prx:](https://1ani.me/) | :yes: | :sync: | :cc::oc: |
-| [Anikuro](https://anikuro.to/) [:prx:](https://anikuro.site/) | :yes: | :sync: | :cc::oc: |
 | [Animetsu](https://animetsu.net/) [:prx:](https://rentry.org/wotaxy#animetsu) | :yes: | :ie::msync: | :cc::oc: |
 | [AnimeX](https://animex.one/home) | :yes: | :sync: | :cc::oc: |
 | [Miruro](https://www.miruro.to/) [:prx:](https://www.miruro.com) | :yes: | :sync::msync: | :cc::oc: |
@@ -54,7 +53,6 @@ outline: 1
 ### Source table
 <ScrapeTable :sites="[
   { name: '1anime', scrapes: { 'AnimeKai': 'kai & kiwi', 'Anime Nexus': 'nexus', 'AnimePahe': 'pahe', 'Anitaku': 'gogo', 'Kuudere': 'Zen', 'AniZone': 'Zone' } },
-  { name: 'Anikuro', scrapes: { '123anime (SD)': 'AniX', 'AllManga': 'AllAni', 'AnimeGG': 'AniGG', 'AnimeKai': 'Kai', 'AniZone': 'AniZ' } },
   { name: 'Animetsu', scrapes: { 'AnimeGG': 'Meg', 'AnimePahe': 'Pahe', 'KickAssAnime': 'Kiss', 'Anikoto': 'Kite', } },
   { name: 'AnimeX', scrapes: { '123anime (SD)': 'wave', 'Animehub (SD)': 'shiro', 'AnimePahe': 'uwu', 'Anitaku': 'mimi', 'AllManga': 'mochi', 'KickAssAnime': 'kami', 'AnimeOnsen (SD)': 'vee', 'AniZone': 'zaza', 'Anikoto': 'yuki', 'Kuudere': 'zen' } },
   { name: 'Miruro', scrapes: { 'AnimeKai': 'arc', 'AnimeDunya (SD)': 'dune', 'AnimePahe': 'kiwi & telli', 'KickAssAnime': 'hop & kuz', 'AllManga': 'ally & nun', 'Anikoto': 'bun & bee',  } , }
