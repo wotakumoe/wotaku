@@ -56,7 +56,7 @@ outline: 1
   { name: '1anime', scrapes: { 'AnimeKai': 'kai & kiwi', 'Anime Nexus': 'nexus', 'AnimePahe': 'pahe', 'Anitaku': 'gogo', 'Kuudere': 'Zen', 'AniZone': 'Zone' } },
   { name: 'Anikuro', scrapes: { '123anime (SD)': 'AniX', 'AllManga': 'AllAni', 'AnimeGG': 'AniGG', 'AnimeKai': 'Kai', 'AniZone': 'AniZ' } },
   { name: 'Animetsu', scrapes: { 'AnimeGG': 'Meg', 'AnimePahe': 'Pahe', 'KickAssAnime': 'Kiss', 'Anikoto': 'Kite', } },
-  { name: 'AnimeX', scrapes: { 'AnimePahe': 'uwu', 'AllManga': 'mochi', 'KickAssAnime': 'kami', 'AnimeOnsen (SD)': 'vee', 'AniZone': 'zaza', 'Anikoto': 'yuki', 'Kuudere': 'zen' } },
+  { name: 'AnimeX', scrapes: { '123anime (SD)': 'wave', 'Animehub (SD)': 'shiro', 'AnimePahe': 'uwu', 'Anitaku': 'mimi', 'AllManga': 'mochi', 'KickAssAnime': 'kami', 'AnimeOnsen (SD)': 'vee', 'AniZone': 'zaza', 'Anikoto': 'yuki', 'Kuudere': 'zen' } },
   { name: 'Miruro', scrapes: { 'AnimeKai': 'arc', 'AnimeDuniya (SD)': 'dune', 'AnimePahe': 'kiwi & telli', 'KickAssAnime': 'hop & kuz', 'AllManga': 'ally & nun', 'Anikoto': 'bun & bee',  } , }
 ]" />
 </Collapsible>
@@ -263,6 +263,7 @@ To make the cubari process easier, we have made [Kaguya](https://github.com/wota
 - [VyNovel](https://vynovel.com/)
 - [NovelFire](https://novelfire.net/home)
 - [NovelList](https://www.novellist.co/)
+- [RUNO](https://runo.ink/)
 - [Novel Bin](https://novelbin.com/) [:prx:](https://rentry.org/wotaxy#novel-bin)
 - [All Novel](https://allnovel.org/)
 - [Novel Full](https://novelfull.net/)
