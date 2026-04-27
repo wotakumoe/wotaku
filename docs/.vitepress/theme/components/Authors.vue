@@ -38,7 +38,7 @@ const credits = {
   audiog: [
     {
       name: 'DenpaEater',
-      site: 'https://x.com/shibayanfanclub',
+      site: 'https://impedance.bearblog.dev/',
       avatar: 'https://i.wotaku.wiki/f/Denpa.png'
     }
   ],
