@@ -54,8 +54,8 @@ outline: 1
 <ScrapeTable :sites="[
   { name: '1anime', scrapes: { 'AnimeKai': 'kai & kiwi', 'Anime Nexus': 'nexus', 'AnimePahe': 'pahe', 'Anitaku': 'gogo', 'Kuudere': 'Zen', 'AniZone': 'Zone' } },
   { name: 'Animetsu', scrapes: { 'AnimeGG': 'Meg', 'AnimePahe': 'Pahe', 'KickAssAnime': 'Kiss', 'Anikoto': 'Kite', } },
-  { name: 'AnimeX', scrapes: { '123anime (SD)': 'wave', 'Animehub (SD)': 'shiro', 'AnimePahe': 'uwu', 'Anitaku': 'mimi', 'AllManga': 'mochi', 'KickAssAnime': 'kami', 'AnimeOnsen (SD)': 'vee', 'AniZone': 'zaza', 'Anikoto': 'yuki', 'Kuudere': 'zen' } },
-  { name: 'Miruro', scrapes: { 'AnimeKai': 'arc', 'AnimeDunya (SD)': 'dune', 'AnimePahe': 'kiwi & telli', 'KickAssAnime': 'hop & kuz', 'AllManga': 'ally & nun', 'Anikoto': 'bun & bee',  } , }
+  { name: 'AnimeX', scrapes: { '123anime (SD)': { name: 'wave', metadata: ['SD'] }, 'Animehub (SD)': { name: 'shiro', metadata: ['SD'] }, 'AnimePahe': 'uwu', 'Anitaku': 'mimi', 'AllManga': 'mochi', 'KickAssAnime': 'kami', 'AnimeOnsen (SD)': { name: 'vee', metadata: ['SD'] }, 'AniZone': 'zaza', 'Anikoto': 'yuki', 'Kuudere': 'zen' } },
+  { name: 'Miruro', scrapes: { 'AnimeKai': 'arc', 'AnimeDunya (SD)': { name: 'dune', metadata: ['SD'] }, 'AnimePahe': 'kiwi & telli', 'KickAssAnime': 'hop & kuz', 'AllManga': 'ally & nun', 'Anikoto': 'bun & bee',  } , }
 ]" />
 </Collapsible>
 
