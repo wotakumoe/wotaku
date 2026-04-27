@@ -45,7 +45,7 @@ export const contribs = {
     {
       name: 'DenpaEater',
       site: 'https://x.com/shibayanfanclub',
-      avatar: 'https://pbs.twimg.com/profile_images/1704978770069794816/xVTPlA83_400x400.png'
+      avatar: 'https://i.wotaku.wiki/f/Denpa.png'
     },
     {
       avatar: '/pfp/green.webp',

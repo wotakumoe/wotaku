@@ -307,6 +307,7 @@ og:
   - [Aniflix](https://aniflix.uno/)
   - [AnimeLok](https://animelok.xyz/home)
   - [Anime Bash India](https://animebashindia.me/home)
+  - [Anime Joker](https://animejoker.com/)
   - [Anime Salt](https://animesalt.top/)
   - [Anime World India](https://watchanimeworld.net/)
   - [AniMoye](https://animoye.com/)

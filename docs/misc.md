@@ -331,7 +331,8 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^        | [anime.plus](https://anime.plus/) [:src:](https://github.com/anime-plus/graph) | :mal: |  
 | ^^        | [KitsuStats](https://drumber.github.io/KitsuStats/#/) [:src:](https://github.com/Drumber/KitsuStats) | :k: |  
 | ^^        | [MAL Badges](https://www.mal-badges.com/) | :mal: |  
-| **Tools** | [Anicheck](https://anicheck.moe/) [:src:](https://github.com/gubo97000/aniCheck) | :al: |
+| **Tools** | [AniCheck](https://anicheck.moe/) [:src:](https://github.com/gubo97000/aniCheck) | :al: |
+| ^^        | [AniListDiff](https://animelistdiff.zerolabs.fyi/) | :mal::al: |
 | ^^        | [AniTools](https://anitools.koopz.rocks/) | :al: |  
 | ^^        | [aniTrakt](https://anitrakt.huere.net/) [:src:](https://github.com/ryuuganime/aniTrakt-IndexParser) | :mal: |  
 | ^^        | [MAL Exporter](https://malscraper.azurewebsites.net/) | :mal::al::k: |  
