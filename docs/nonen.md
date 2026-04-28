@@ -111,7 +111,7 @@ og:
 - **Torrent**
   - [ACG](https://acg.rip/)
   - [ACGNX](https://share.acgnx.se/)
-  - [Anime Garden](https://garden.breadio.wiki/)
+  - [Anime Garden](https://animes.garden/)
   - [Bangumi](https://bangumi.moe/)
   - [DMHY](https://dmhy.org/)
   - [Mikan Project](https://mikanani.me/) [:src:](https://github.com/iota9star/mikan_flutter)
@@ -735,7 +735,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [VlogTruyen](https://vlogtruyen58.com/)
 
 ### Hentai
-- [DuaLeoTruyen](https://dualeotruyenvh.com/)
+- [DuaLeoTruyen](https://dualeotruyenay.com/)
 - [HentaiCube](https://hentaicube.xyz/)
 - [KuroNeko](https://vi-hentai.com/)
 - [qManga](https://qmanga.art/)

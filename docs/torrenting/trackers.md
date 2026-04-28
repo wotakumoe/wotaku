@@ -64,7 +64,7 @@ og:
 | ^^         | [MioBT](http://www.miobt.com/) |
 | Anime      | [ACG](https://acg.rip/) |
 | ^^         | [ACGNX](https://share.acgnx.se/) |
-| ^^         | [Anime Garden](https://garden.breadio.wiki/) |
+| ^^         | [Anime Garden](https://animes.garden/) |
 | ^^         | [Bangumi](https://bangumi.moe/) |
 | ^^         | [Mikan Project](https://mikanani.me/) [:src:](https://github.com/iota9star/mikan_flutter) |
 | ^^         | [Nyaa Pantsu](https://ouo.si/) |
