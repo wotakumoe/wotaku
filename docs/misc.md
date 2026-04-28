@@ -178,13 +178,13 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | **Dub** | [Anime Dubs Release Calendar](https://teamup.com/ksdhpfjcouprnauwda) |  
 | ^^ | [English Dubbed Anime Lovers](https://english-dubbed.com/) | 
 | ^^ | [Kenny Stryker’s English dublist](https://myanimelist.net/forum/?topicid=1692966) |
-| **Non-English** | [Bangumi List](https://bgmlist.com/) :ljp::lcn: [:src:](https://github.com/wxt2005/bangumi-list-v3) ==BangumiList== |  
-| ^^ | [CoolJapan](https://cooljapanportal.com/) :ljp: <Badge type="info" text="OTT" /> |
-| ^^ | [Kansou](https://www.kansou.me/) :ljp: <Badge type="info" text="TV" /> |
-| ^^ | [Moon Phase](https://m-p.sakura.ne.jp/) :ljp: |  
-| ^^ | [Syoboi Calendar](https://cal.syoboi.jp/) :ljp: [:rss:](https://docs.cal.syoboi.jp/spec/rss.php/) |  
-| Others | [Anime Hack](https://anime.eiga.com/) :ljp: |    
-| ^^  | [Blu-ray.com](https://www.blu-ray.com/movies/movies.php?genre=Anime&sortby=releasetimestamp) |
+| **Japanese** | [Anime Hack](https://anime.eiga.com/) ==AnimeHack== |
+| ^^ | [Bangumi List](https://bgmlist.com/) :lcn: [:src:](https://github.com/wxt2005/bangumi-list-v3) <Badge type="info" text="OTT" /> |  
+| ^^ | [CoolJapan](https://cooljapanportal.com/) <Badge type="info" text="OTT" /> |
+| ^^ | [Kansou](https://www.kansou.me/) <Badge type="info" text="TV" /> |
+| ^^ | [Moon Phase](https://m-p.sakura.ne.jp/) <Badge type="info" text="TV" /> |  
+| ^^ | [Syoboi Calendar](https://cal.syoboi.jp/) [:rss:](https://docs.cal.syoboi.jp/spec/rss.php/) <Badge type="info" text="General" /> |  
+| **Others** | [Blu-ray.com](https://www.blu-ray.com/movies/movies.php?genre=Anime&sortby=releasetimestamp) |
 | ^^  | [Yatta-Tachi Movie Schedule](https://yattatachi.com/2026-anime-japanese-films-coming-to-u-s-theaters-online) |
 
 ## Manga & LN

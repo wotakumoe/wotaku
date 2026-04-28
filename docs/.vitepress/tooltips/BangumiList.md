@@ -1,1 +1,0 @@
-Maintained by chinese devs, but lists JP schedule too.
