@@ -26,7 +26,7 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 - [Nepchan](https://nepchan.org/)
 - [SteamDB](https://steamdb.info/)
 - [VNDB](https://vndb.org/) :s:
-- [VN Wiki](https://www.vnwiki.xyz/) [:src:](https://www.vnwiki.xyz/)
+- [VN Wiki](https://www.vnwiki.xyz/) [:src:](https://github.com/VNWiki/visual-novel-wiki)
 
 ### Guides
 
