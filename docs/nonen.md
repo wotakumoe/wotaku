@@ -161,7 +161,7 @@ og:
 | ^^       | [DMZJ](https://github.com/xiaoyaocz/flutter_dmzj) |
 | ^^       | [Kazumi](https://github.com/Predidit/Kazumi) |
 | ^^       | [Mediabox](https://github.com/RyensX/MediaBox) |
-| ^^       | [Miru App](https://miru.js.org/) <Badge text="Manga" /> |
+| ^^       | [Miru App](https://miru.js.org/) <Badge type="info" text="Manga" /> |
 | ^^       | [Neko Anime](https://github.com/xioneko/neko-anime) |
 | ^^       | [oneAnime](https://github.com/Predidit/oneAnime) |
 | **Manga** | [PasteMangaX](https://github.com/crowforkotlin/pastemangax) |
@@ -182,14 +182,14 @@ og:
 
 | Category | Resources |
 |----------|-----------|
-| **Anime** | [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) <Badge text="Downloader" /> |
+| **Anime** | [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) <Badge type="info" text="Downloader" /> |
 | ^^       | [Miru App](https://miru.js.org/) [:src:](https://github.com/miru-project/miru-app) |
 | ^^       | [Bangumi Renamer](https://github.com/nuthx/bangumi-renamer) |
 | **Manga** | [Miru App](https://miru.js.org/) [:src:](https://github.com/miru-project/miru-app) |
 | ^^       | [Venra](https://github.com/venera-app/venera) |
-| ^^       | [Bilibili manga downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) <Badge text="Downloader" /> |
+| ^^       | [Bilibili manga downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) <Badge type="info" text="Downloader" /> |
 | ^^       | [Bilibili manga watermark remover](https://github.com/lanyeeee/bilibili-manga-watermark-remover) |
-| **Others** | [JProxy](https://github.com/LuckyPuppy514/jproxy) <Badge text="Downloader" /> |
+| **Others** | [JProxy](https://github.com/LuckyPuppy514/jproxy) <Badge type="info" text="Downloader" /> |
 | ^^        | [Novel downloader](https://github.com/404-novel-project/novel-downloader) |
 | ^^        | [PicACG Qt](https://github.com/tonquer/picacg-qt) :win::app::lin: |
 

@@ -207,8 +207,7 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
                 </li>
                 <li>Sites focused on lolicon or furry stuff</li>
                 <li>
-                  Sites scraping only one or two common sources, such as HiAnime
-                  or Animepahe
+                  Sites scraping only two or three popular sources
                 </li>
                 <li>
                   Sites found in the Unsafe lists of

@@ -179,7 +179,8 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [English Dubbed Anime Lovers](https://english-dubbed.com/) | 
 | ^^ | [Kenny Stryker’s English dublist](https://myanimelist.net/forum/?topicid=1692966) |
 | **Non-English** | [Bangumi List](https://bgmlist.com/) :ljp::lcn: [:src:](https://github.com/wxt2005/bangumi-list-v3) ==BangumiList== |  
-| ^^ | [Kansou](https://www.kansou.me/) :s: :ljp: |  
+| ^^ | [CoolJapan](https://cooljapanportal.com/) :ljp: <Badge type="info" text="OTT" /> |
+| ^^ | [Kansou](https://www.kansou.me/) :ljp: <Badge type="info" text="TV" /> |
 | ^^ | [Moon Phase](https://m-p.sakura.ne.jp/) :ljp: |  
 | ^^ | [Syoboi Calendar](https://cal.syoboi.jp/) :ljp: [:rss:](https://docs.cal.syoboi.jp/spec/rss.php/) |  
 | Others | [Anime Hack](https://anime.eiga.com/) :ljp: |    
