@@ -51,6 +51,7 @@ og:
 | TV Program | [NHK Easy Japanese](https://www.nhk.or.jp/lesson/) |
 | ^^ | [NHK Learn Japanese](https://www3.nhk.or.jp/nhkworld/en/ondemand/category/28/) |
 | Live TV | [AQ Stream](https://aqstream.com/jp) |
+| ^^ | [FAST ch](https://fastv.jp/) |
 | ^^ | [Japanese TV](https://mov3.co/) |
 | ^^ | [takelab](https://github.com/take2560/takelab) |
 | ^^ | [TVer](https://tver.jp/) <tooltip>Needs JP VPN by default, but you can stream without it if you copy-paste the video URL in a video player (e.g. MPV).</tooltip> |

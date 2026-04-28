@@ -34,7 +34,7 @@ outline: 1
 |----------|----------------|----------------------------|--------|
 | [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) | :yes: | :no: | :cc::oc: |
 | [Anibd](https://anibd.app/) :ero: [:alt:](https://ani.lol/) | :yes: | :no: | :oc: |
-| [AniHQ](https://anihq.to/home/) | :yes: | :no: | :oc: |
+| [AniHQ](https://anihq.org/home/) | :yes: | :no: | :oc: |
 | [Anikoto](https://anikototv.to/home) ==Anikoto== | :yes: | :ie: | :cc::oc: |
 | [AnimePahe](https://animepahe.pw/) ==Animepahe== | :no: | :msync: | :oc: |
 | [Animotvslash](https://www.animotvslash.org/) [:alt:](https://animotvslash.nl/home/) | :no: | :no: | :cc::oc: |
