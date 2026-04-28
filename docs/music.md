@@ -392,7 +392,10 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 ## Tools
 
 | Category    | Links   |
-|------------|--------|
+|-------------|---------|
+| **Equalizer** | [Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer) :and::cs: |
+| ^^            | [RootlessJamesDSP](https://github.com/timschneeb/RootlessJamesDSP) :and: |
+| ^^            | [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) :and::cs: |
 | **Identifier** | [Audile](https://github.com/aleksey-saenko/MusicRecognizer) :and: |
 | ^^           | [Audire](https://github.com/alexmercerind/audire) :simple-icons-shazam::and: |
 | **Lyrics**   | [FastLyrics](https://github.com/TecCheck/FastLyrics) |
