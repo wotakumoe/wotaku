@@ -39,6 +39,7 @@ outline: 1
 | [AnimePahe](https://animepahe.pw/) ==Animepahe== | :no: | :msync: | :oc: |
 | [Animotvslash](https://www.animotvslash.org/) [:alt:](https://animotvslash.nl/home/) | :no: | :no: | :cc::oc: |
 | [Kuudere](https://kuudere.to/) [:prx:](https://rentry.org/wotaxy#kuudere) | :yes: | :sync::ie: | :cc: |
+| [Otaku-Streamers](https://beta.otaku-streamers.com/) :acc: ==OtakuStreamers== | :yes: | :no: | :oc: |
 | [Watch Cartoon Online](https://www.wco.tv/) [:prx:](https://www.wcostatus.com/) ==WCO== | :yes: | :no: | :oc: |
 
 
