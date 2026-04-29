@@ -11,50 +11,45 @@ og:
 
 ### Anime
 
-- **Stream**
-  - [Anime Nexus](https://anime.nexus/) ==AnimeNexus==
-  - [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream==
-  - [KickassAnime](https://kaa.lt/) ==KAA==
-  - [AniZone](https://anizone.to/) ==AniZone==
-  - [AnimeOnsen](https://www.animeonsen.xyz/) <Badge type="info" text="720p" />
-- **Torrent**
-  - [Erai-raws](https://nyaa.si/user/Erai-raws)
-  - [ToonsHub](https://www.toonshub.my.id/)
-  - [Varyg](https://nyaa.si/user/varyg1001)
+| Category | Website |
+| :--- | :--- |
+| **Stream** | [Anime Nexus](https://anime.nexus/) |
+| ^^ | [AnimeStream](https://anime.uniquestream.net/) |
+| ^^ | [KickassAnime](https://kaa.lt/) |
+| ^^ | [AniZone](https://anizone.to/) |
+| ^^ | [AnimeOnsen](https://www.animeonsen.xyz/) |
+| **Torrent** | [Erai-raws](https://nyaa.si/user/Erai-raws) |
+| ^^ | [ToonsHub](https://www.toonshub.my.id/) |
+| ^^ | [Varyg](https://nyaa.si/user/varyg1001) |
 
-### Apps
-- [Mihon](https://github.com/mihonapp/mihon) [:e:](/ext/mihon)
-- [Aniyomi](https://github.com/jmir1/aniyomi/) [:e:](/ext/mihon)
-
+::: tip Apps
+Most apps in [**software**](/software) supports multilingual sources
+:::
 
 ## Arabic
 
-### Anime
-- [Anime3rb](https://anime3rb.com/)
-- [Anime4up](https://anime4up.rest/)
-- [Animeblkom](https://blkom.com/)
-- [Animelek](https://animelek.top/)
-- [Animerco](https://zeta.animerco.org/)
-- [Arabic Toons](https://www.arabic-toons.com/)
-- [Kawaii Anime](https://kawaii-anime.com/)
-- [Okanime](https://okanime.tv/)
-- [WitAnime](https://witanime.cyou/)
+### Websites
 
-
-### Manga
-- [3asQ](https://3asq.org/)
-- [Azora Moon](https://azoramoon.com/)
-- [Swat Manga](https://meshmanga.com/)
-
-### Novels
-- [Hizo Manga](https://hizomanga.net/)
-
-### NSFW
-- [Arabs Hentai](https://arabshentai.com/)
-- [Hentai Time](https://hentai-time.com/)
-- [NXX Hentai](https://nxxhentai.net/)
-- [Risto Hentai](https://ristohentai.com/)
-- [Saudi Hentai](https://saudihentai.com/)
+| Category | Website |
+| :--- | :--- |
+| **Anime** | [Anime3rb](https://anime3rb.com/) |
+| ^^ | [Anime4up](https://anime4up.rest/) |
+| ^^ | [Animeblkom](https://blkom.com/) |
+| ^^ | [Animelek](https://animelek.top/) |
+| ^^ | [Animerco](https://zeta.animerco.org/) |
+| ^^ | [Arabic Toons](https://www.arabic-toons.com/) |
+| ^^ | [Kawaii Anime](https://kawaii-anime.com/) |
+| ^^ | [Okanime](https://okanime.tv/) |
+| ^^ | [WitAnime](https://witanime.cyou/) |
+| **Manga** | [3asQ](https://3asq.org/) |
+| ^^ | [Azora Moon](https://azoramoon.com/) |
+| ^^ | [Swat Manga](https://meshmanga.com/) |
+| **Novels** | [Hizo Manga](https://hizomanga.net/) |
+| **NSFW** | [Arabs Hentai](https://arabshentai.com/) |
+| ^^ | [Hentai Time](https://hentai-time.com/) |
+| ^^ | [NXX Hentai](https://nxxhentai.net/) |
+| ^^ | [Risto Hentai](https://ristohentai.com/) |
+| ^^ | [Saudi Hentai](https://saudihentai.com/) |
 
 ### Software
 
@@ -66,60 +61,53 @@ og:
 
 ## Balkan
 
-### Anime
-- [Anime Balkan](https://animebalkan.org/) [:alt:](https://animebalkan.gg/)
-- [AnimeOverdose](https://www.anime-overdose.com/)
-- [Anime Srbija](https://www.animesrbija.com/)
-- [AniPiece](https://anipiece.net/)
-- [BalkanFlix](https://www.balkanflix.com/)
-- [Gledaj Crtaće (.org)](https://www.gledajcrtace.org/)
-- [Gledaj Crtaće (.rs)](https://www.gledajcrtace.rs/)
+### Websites
 
-### Manga
-- [L&B Pirates](https://lnbmange.com/)
-
-### News
-- [Potamanime](https://potamanime.rs/)
+| Category | Website |
+| :--- | :--- |
+| **Anime** | [Anime Balkan](https://animebalkan.org/) [:alt:](https://animebalkan.gg/) |
+| ^^ | [AnimeOverdose](https://www.anime-overdose.com/) |
+| ^^ | [Anime Srbija](https://www.animesrbija.com/) |
+| ^^ | [AniPiece](https://anipiece.net/) |
+| ^^ | [BalkanFlix](https://www.balkanflix.com/) |
+| ^^ | [Gledaj Crtaće (.org)](https://www.gledajcrtace.org/) |
+| ^^ | [Gledaj Crtaće (.rs)](https://www.gledajcrtace.rs/) |
+| **Manga** | [L&B Pirates](https://lnbmange.com/) |
+| **News** | [Potamanime](https://potamanime.rs/) |
 
 
 ## Catalan
 
-### Anime / Manga
-
-- **Online**
-  - [Fansubs.cat](https://www.fansubs.cat/)
-  - [Hentai.cat](https://www.hentai.cat/) :ero:
-  - [SX3](https://www.3cat.cat/tv3/sx3/x3/) <Badge type="tip" text="TV" link="https://www.3cat.cat/tv3/sx3/directe/" />
-- **Download**
-  - [TotsRucs](http://www.totsrucs.cat/) :mag:
-  - [UnionFansub](https://foro.unionfansub.com/) :mag::acc:
-
-### News
-- [Doblatge d'Anime en Català](https://doblatgeanimecatala.blogspot.com/)
+| Category | Website |
+| :--- | :--- |
+| **Anime / Manga** | [Fansubs.cat](https://www.fansubs.cat/) |
+| ^^ | [Hentai.cat](https://www.hentai.cat/) :ero: |
+| ^^ | [SX3](https://www.3cat.cat/tv3/sx3/x3/) <Badge type="tip" text="TV" link="https://www.3cat.cat/tv3/sx3/directe/" /> |
+| ^^ | [TotsRucs](http://www.totsrucs.cat/) :mag: |
+| ^^ | [UnionFansub](https://foro.unionfansub.com/) :mag::acc: |
+| **News** | [Doblatge d'Anime en Català](https://doblatgeanimecatala.blogspot.com/) |
 
 
 ## Chinese
 
 ### Anime
-
-- **Stream**
-  - [AGE](https://www.agedm.io/) [:prx:](https://github.com/agefanscom/website)
-  - [Bimibimi](https://www.bimiacg14.net/) [:prx:](https://www.bimiacg.icu/)
-  - [MoMoVod](https://momovod.app/show/30.html)
-  - [XG Cartoon](https://www.xgcartoon.com/)
-  - [Yinghuacd](https://www.yinhuadm.cc/) [:prx:](http://yinhuadm.one/)
-- **Torrent**
-  - [ACG](https://acg.rip/)
-  - [ACGNX](https://share.acgnx.se/)
-  - [Anime Garden](https://animes.garden/)
-  - [Bangumi](https://bangumi.moe/)
-  - [DMHY](https://dmhy.org/)
-  - [Mikan Project](https://mikanani.me/) [:src:](https://github.com/iota9star/mikan_flutter)
-  - [MioBT](http://www.miobt.com/)
-  - [Nyaa Pantsu](https://ouo.si/)
-- **Others**
-  - [BangumiD](https://bgmd.bytex.space/) [:src:](https://github.com/iota9star/bgmd)
-  - [Bangumi Staff Statistics](https://search.bgmss.fun/) [:src:](https://github.com/AcuLY/BangumiStaffStats)
+| Category | Website |
+| :--- | :--- |
+| **Stream** | [AGE](https://www.agedm.io/) [:prx:](https://github.com/agefanscom/website) |
+| ^^ | [Bimibimi](https://www.bimiacg14.net/) [:prx:](https://www.bimiacg.icu/) |
+| ^^ | [MoMoVod](https://momovod.app/show/30.html) |
+| ^^ | [XG Cartoon](https://www.xgcartoon.com/) |
+| ^^ | [Yinghuacd](https://www.yinhuadm.cc/) [:prx:](http://yinhuadm.one/) |
+| **Torrent** | [ACG](https://acg.rip/) |
+| ^^ | [ACGNX](https://share.acgnx.se/) |
+| ^^ | [Anime Garden](https://animes.garden/) |
+| ^^ | [Bangumi](https://bangumi.moe/) |
+| ^^ | [DMHY](https://dmhy.org/) |
+| ^^ | [Mikan Project](https://mikanani.me/) [:src:](https://github.com/iota9star/mikan_flutter) |
+| ^^ | [MioBT](http://www.miobt.com/) |
+| ^^ | [Nyaa Pantsu](https://ouo.si/) |
+| **Others** | [BangumiD](https://bgmd.bytex.space/) [:src:](https://github.com/iota9star/bgmd) |
+| ^^ | [Bangumi Staff Statistics](https://search.bgmss.fun/) [:src:](https://github.com/AcuLY/BangumiStaffStats) |
 
 ### Comics
 - [69xinshu](https://69shuba.cx/index.html)
@@ -207,61 +195,55 @@ og:
 
 ## French
 
-### Anime
-- [AnimeKO](https://animeko.ws/)
-- [Anime-Kami](https://anime-kami.com/)
-- [Anime-Sama](https://anime-sama.to/) [:prx:](https://anime-sama.pw/)
-- [AnimesUltra](https://ww.animesultra.org/)
-- [Fluneo](https://myfluneo.eu/)
-- [FRAnime](https://franime.fr/)
-- [FanKai](http://fankai.fr/) [:alt:](https://linktr.ee/FanKai)
-- [French Anime](https://french-anime.com/)
-- [JetAnime](https://on.jetanimes.com/)
-- [Sekai](https://sekai.one/)
-- [Streaming-integrale](https://streaming-integrale.com/)
-- [Voiranime](https://voir-anime.to/) [:d:](https://discord.gg/js2P2HT)
-- [Vostfree](https://vostfree.ws/)
+### Websites
 
-#### Software
-- [Kibo](https://www.kiboanime.app/) :win::and::app::lin:
-
-### Manga
-- [Japscan](https://www.japscan.foo/)
-- [LPEBK](https://www.lpebk.com/forumv2/) :ddl::acc:
-- [Mangadraft](https://www.mangadraft.com/)
-- [Mangakawaii](https://www.mangakawaii.io/)
-- [Planete-BD](https://planete-bd.org/)
-- [Raijin Scans](https://raijinscan.co/)
-- [Sushi-Scan](https://sushiscan.net/)
-
-### Others
-- [Hyakanime](https://hyakanime.fr/)
-- [Nautiljon](https://www.nautiljon.com/)
-- [Voirdrama](https://voirdrama.to/) [:d:](https://discord.gg/QSGgA9yK6G)
-
+| Category | Website |
+| :--- | :--- |
+| **Anime** | [AnimeKO](https://animeko.ws/) |
+| ^^ | [Anime-Kami](https://anime-kami.com/) |
+| ^^ | [Anime-Sama](https://anime-sama.to/) [:prx:](https://anime-sama.pw/) + :len: |
+| ^^ | [AnimesUltra](https://ww.animesultra.org/) |
+| ^^ | [Fluneo](https://myfluneo.eu/) |
+| ^^ | [FRAnime](https://franime.fr/) |
+| ^^ | [FanKai](http://fankai.fr/) [:alt:](https://linktr.ee/FanKai) |
+| ^^ | [French Anime](https://french-anime.com/) |
+| ^^ | [JetAnime](https://on.jetanimes.com/) |
+| ^^ | [Sekai](https://sekai.one/) |
+| ^^ | [Streaming-integrale](https://streaming-integrale.com/) |
+| ^^ | [Voiranime](https://voir-anime.to/) [:d:](https://discord.gg/js2P2HT) |
+| ^^ | [Vostfree](https://vostfree.ws/) |
+| **Manga** | [Japscan](https://www.japscan.foo/) |
+| ^^ | [LPEBK](https://www.lpebk.com/forumv2/) :ddl::acc: |
+| ^^ | [Mangadraft](https://www.mangadraft.com/) |
+| ^^ | [Mangakawaii](https://www.mangakawaii.io/) |
+| ^^ | [Planete-BD](https://planete-bd.org/) |
+| ^^ | [Raijin Scans](https://raijinscan.co/) |
+| ^^ | [Sushi-Scan](https://sushiscan.net/) |
+| **Others** | [Hyakanime](https://hyakanime.fr/) |
+| ^^ | [Nautiljon](https://www.nautiljon.com/) |
+| ^^ | [Voirdrama](https://voirdrama.to/) [:d:](https://discord.gg/QSGgA9yK6G) |
 
 ## German
 
-### Anime
-- [German Fansubbers' Index](https://anime-fansubs.de/)
-- [Amalgam Fansubs](https://amalgam-fansubs.moe/) :strm::ddl:
-- [Anime Archive](https://anime-archive.com/) :ddl:
-- [Anime Loads](https://www.anime-loads.org/) :strm::ddl::host:
-- [AniWorld](https://aniworld.to/) :strm:
-- [FireAnime](https://fireani.me/) :strm:
-- [Melon-Subs](https://melon-subs.de/) :ddl:
-- [NanaOne](https://nanaone.net/) :ddl:
-- [OtakuKingdom Subs](http://www.otakukingdom-subs.de/) :ddl:
+### Websites
 
-### Manga
-- [ComicMafia](https://comicmafia.to/?s=manga) :ddl::host:
-- [Manga-Tube](https://manga-tube.me/)
-
-### Info / News
-- [aniSearch](https://www.anisearch.de/)
-- [JAM-Cons](https://www.jam-cons.net/con-kalender)
-- [Manga Passion](https://www.manga-passion.de/)
-- [The Incomplete Manga-Guide](https://mangaguide.de/)
+| Category | Website |
+| :--- | :--- |
+| **Anime** | [German Fansubbers' Index](https://anime-fansubs.de/) |
+| ^^ | [Amalgam Fansubs](https://amalgam-fansubs.moe/) :strm::ddl: |
+| ^^ | [Anime Archive](https://anime-archive.com/) :ded::ddl: |
+| ^^ | [Anime Loads](https://www.anime-loads.org/) :strm::ddl::host: + :len: |
+| ^^ | [AniWorld](https://aniworld.to/) :strm: + :len: |
+| ^^ | [FireAnime](https://fireani.me/) :strm: + :len: |
+| ^^ | [Melon-Subs](https://melon-subs.de/) :ded::ddl: |
+| ^^ | [NanaOne](https://nanaone.net/) :ded::ddl: |
+| ^^ | [OtakuKingdom Subs](http://www.otakukingdom-subs.de/) :ddl: |
+| **Manga** | [ComicMafia](https://comicmafia.to/?s=manga) :ddl::host: |
+| ^^ | [Manga-Tube](https://manga-tube.me/) |
+| **Info / News** | [aniSearch](https://www.anisearch.de/) + :len: |
+| ^^ | [JAM-Cons](https://www.jam-cons.net/con-kalender) |
+| ^^ | [Manga Passion](https://www.manga-passion.de/) |
+| ^^ | [The Incomplete Manga-Guide](https://mangaguide.de/) |
 
 ### Software
 - [Anime/Series Scraper](https://github.com/wolfswolke/aniworld_scraper)
@@ -279,72 +261,78 @@ og:
 
 ## Greek
 
-### Anime
-- [An1me](https://an1me.to/)
-- [AnimeClipse](http://www.animeclipse.com/index.php) :mag:
-- [Sick-Fansubs](https://sickfansubs.com/) :mag:
+### Websites
+
+| Category | Website |
+| :--- | :--- |
+| **Anime** | [An1me](https://an1me.to/) |
+| ^^ | [AnimeClipse](http://www.animeclipse.com/index.php) :mag: |
+| ^^ | [Sick-Fansubs](https://sickfansubs.com/) :mag: |
 
 
 ## Hebrew
 
-### Anime
-- [AnimeIL-TV](https://www.animeil-tv.com/)
+### Websites
 
-### Manga
-- [Mangashelf](https://mangashelf.co.il/)
+| Category | Website |
+| :--- | :--- |
+| Anime | [AnimeIL-TV](https://www.animeil-tv.com/) |
+| Manga | [Mangashelf](https://mangashelf.co.il/) |
 
 ## Hungarian
 
-### Anime
-- [AnimeDrive](https://animedrive.hu/)
-- [MagyarAnime](https://magyaranime.eu/)
+### Websites
+
+| Category | Website |
+| :--- | :--- |
+| Anime | [AnimeDrive](https://animedrive.hu/) |
+| ^^ | [MagyarAnime](https://magyaranime.eu/) |
 
 ## Indian
 
 ### Anime
 
-- **Stream**
-  - [Aniflix](https://aniflix.uno/)
-  - [AnimeLok](https://animelok.xyz/home)
-  - [Anime Bash India](https://animebashindia.me/home)
-  - [Anime Joker](https://animejoker.com/)
-  - [Anime Salt](https://animesalt.top/)
-  - [Anime World India](https://watchanimeworld.net/)
-  - [AniMoye](https://animoye.com/)
-  - [Desi Dub Anime](https://www.desidubanime.me/)
-  - [Dora Bash](https://dorabash.in/)
-  - [Kartoons](https://kartoons.me/home)
-  - [PirateXPlay](https://piratexplay.cc/home)
-  - [ToonStream](https://toonstream.dad/home/)
-- **DDL**
-  - [AnimeVilla](https://animevilla.in/) :ero:
-  - [ATOZ CARTOONIST](https://www.atozcartoonist.com/)
-  - [GokuHD](https://www.gokuhd.com/)
-  - [PikaHD](https://pikahd.com/)
-  - [Puretoons](https://puretoons.in/)
-  - [SDToons](https://sdtoons.com/) :ero:
-  - [Toonhub4u](https://toonhub4u.co/home/)
-  - [Toonworld4all](https://toonworld4all.me/)
+| Category | Website |
+| :--- | :--- |
+| **Stream** | [Aniflix](https://aniflix.uno/) |
+| ^^ | [AnimeLok](https://animelok.xyz/home) + :len: |
+| ^^ | [Anime Bash India](https://animebashindia.me/home) |
+| ^^ | [Anime Joker](https://animejoker.com/) + :len: |
+| ^^ | [Anime Salt](https://animesalt.top/) + :len: |
+| ^^ | [Anime World India](https://watchanimeworld.net/) + :len: |
+| ^^ | [AniMoye](https://animoye.com/) + :len: |
+| ^^ | [Desi Dub Anime](https://www.desidubanime.me/) |
+| ^^ | [Dora Bash](https://dorabash.in/) + :len: |
+| ^^ | [Kartoons](https://kartoons.me/home) |
+| ^^ | [PirateXPlay](https://piratexplay.cc/home) + :len: |
+| ^^ | [ToonStream](https://toonstream.dad/home/) + :len: |
+| **DDL** | [AnimeVilla](https://animevilla.in/) :ero: |
+| ^^ | [ATOZ CARTOONIST](https://www.atozcartoonist.com/) |
+| ^^ | [GokuHD](https://www.gokuhd.com/) + :len: |
+| ^^ | [PikaHD](https://pikahd.com/) + :len: |
+| ^^ | [Puretoons](https://puretoons.in/) + :len: |
+| ^^ | [SDToons](https://sdtoons.com/) :ero: + :len: |
+| ^^ | [Toonhub4u](https://toonhub4u.co/home/) + :len: |
+| ^^ | [Toonworld4all](https://toonworld4all.me/) + :len: |
 
 
 ## Indonesian
 
 ### Anime
 
-- **Info**
-  - [Database Tontonan Wibu Indonesia](https://db.silveryasha.id/)
-  - [Indonesian Fansubbers' Index](https://www.fansub.id/home)
-- **Stream**
-  - [Anichin](https://s25.anichin.blog/) [:prx:](https://anichin.bio/)
-  - [Kuramanime](https://kuramanime.red/)
-  - [Kiyocomics](https://kiyocomics.netlify.app/) [:src:](https://github.com/Bilhaq12/kiyoanime)
-  - [Mynimeku](https://www.mynimeku.com/)
-  - [Otaku Desu](https://otakudesu.cloud/)
-  - [Samehadaku](https://v2.samehadaku.how/) [:prx:](https://samehadaku.care/)
-  - [SPlay](https://splay.id/) :acc:
-- **DDL**
-  - [Kusonime](https://kusonime.com/)
-  - [Meownime](https://meownime.ltd/)
+| Category | Website |
+| :--- | :--- |
+| **Stream** | [Anichin](https://s25.anichin.blog/) [:prx:](https://anichin.bio/) |
+| ^^ | [Kuramanime](https://kuramanime.red/) |
+| ^^ | [Kiyocomics](https://kiyocomics.netlify.app/) [:src:](https://github.com/Bilhaq12/kiyoanime) |
+| ^^ | [Mynimeku](https://www.mynimeku.com/) |
+| ^^ | [Otaku Desu](https://otakudesu.cloud/) |
+| ^^ | [Samehadaku](https://v2.samehadaku.how/) [:prx:](https://samehadaku.care/) |
+| ^^ | [SPlay](https://splay.id/) :acc: |
+| **DDL** | [Kusonime](https://kusonime.com/) |
+| ^^ | [Meownime](https://meownime.ltd/) |
+| **Info** | [Database Tontonan Wibu Indonesia](https://db.silveryasha.id/) |
+| ^^ | [Indonesian Fansubbers' Index](https://www.fansub.id/home) |
 
 ### Manga
 - [Komiku](https://komiku.id/)
@@ -361,29 +349,24 @@ og:
 
 ## Italian
 
-### Info
-- [AnimeClick](https://www.animeclick.it/)
-- [FansubDB.it](https://fansubdb.it/) [:rss:](https://fansubdb.it/feed)
-
-### Anime
-- [AniDream](https://anidream.cc/)
-- [AnimeSaturn](https://www.anisaturn.com/) [:prx:](https://www.animesaturn.me/)
-- [AnimeUnity](https://www.animeunity.to/)
-- [AnimeWorld](https://www.animeworld.so/)
-- [One Piece Power](https://onepiecepower.com/anime18/lista-anime)
-
-### Manga
-- [MangaWorld](https://www.mangaworld.ac/)
-- [One Piece Power](https://onepiecepower.com/manga8/lista-manga)
-
-### NSFW
-- [HentaiSaturn](https://www.hentaisaturn.tv/)
-- [HentaiWorld](https://www.hentaiworld.me/)
-- [MangaWorldAdult](https://www.mangaworldadult.net/)
+### Websites
+| Category | Website |
+| :--- | :--- |
+| **Anime** | [AniDream](https://anidream.cc/) |
+| ^^ | [AnimeSaturn](https://www.anisaturn.com/) [:prx:](https://www.animesaturn.me/) |
+| ^^ | [AnimeUnity](https://www.animeunity.to/) |
+| ^^ | [AnimeWorld](https://www.animeworld.ac/) |
+| ^^ | [One Piece Power](https://onepiecepower.com/anime18/lista-anime) |
+| **Manga** | [MangaWorld](https://www.mangaworld.ac/) |
+| ^^ | [One Piece Power](https://onepiecepower.com/manga8/lista-manga) |
+| **NSFW** | [HentaiSaturn](https://www.hentaisaturn.tv/) |
+| ^^ | [HentaiWorld](https://www.hentaiworld.me/) |
+| ^^ | [MangaWorldAdult](https://www.mangaworldadult.net/) |
+| **Info** | [AnimeClick](https://www.animeclick.it/) |
+| ^^ | [FansubDB.it](https://fansubdb.it/) [:rss:](https://fansubdb.it/feed) |
 
 ### Downloaders
 
-#### PC
 | Category | Resources |
 |----------|-----------|
 | **Anime** | [Anime-dl](https://github.com/gabelluardo/anime-dl) |
@@ -392,8 +375,6 @@ og:
 
 
 ## Japanese
-
-
 
 ::: danger Adult content
 Websites may contain adult content, partner with adult sites, or feature adult-themed first-party ads.
@@ -514,33 +495,30 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 ## Portuguese
 
-### Anime
-- [AniBunker](https://www.anibunker.com/)
-- [AnimeFire](https://animefire.plus/)
-- [CXTv](https://www.cxtv.com.br/) <Badge type="info" text="TV" />
-- [Geekdot](https://geekdot.live/) <Badge type="info" text="TV" />
-- [Goyabu](https://goyabu.io/inicio-2)
-- [Hinata Soul](https://www.hinatasoul.com/)
-- [HentaisTube](https://www.hentaistube.com/) :ero:
-- [:tg: Toonami na Era do Telegram](https://t.me/toonamibr)
+### Websites
+| Category | Website |
+| :--- | :--- |
+| Anime | [AniBunker](https://www.anibunker.com/) |
+| ^^ | [AnimeFire](https://animefire.plus/) |
+| ^^ | [CXTv](https://www.cxtv.com.br/) <Badge type="info" text="TV" /> |
+| ^^ | [Geekdot](https://geekdot.live/) <Badge type="info" text="TV" /> |
+| ^^ | [Goyabu](https://goyabu.io/inicio-2) |
+| ^^ | [Hinata Soul](https://www.hinatasoul.com/) |
+| ^^ | [HentaisTube](https://www.hentaistube.com/) :ero: |
+| ^^ | [:tg: Toonami na Era do Telegram](https://t.me/toonamibr) |
+| Manga | [Argos Comic](https://argoscomics.online/) :ljp::lkr::lcn::ero: |
+| ^^ | [Kakusei Project](https://kakuseiproject.com/) :ljp::ero: |
+| ^^ | [Ler Mangas](https://lermangas.me/) :ljp::lkr::lcn::ero: |
+| ^^ | [Tao Sect](https://taosect.com/) :ljp::lkr::lcn::ero: |
+| ^^ | [Yuri on Air](https://yurionair.top/) :ljp::lkr::lcn::ero: |
+| Tokusatsu | [DGB Catálogo](https://dgbfansub.carrd.co/) |
+| ^^ | [Rádio Toku Hero Club](https://www.radiotokuheroclub.com/) |
+| ^^ | [Senpuu Tokusatsu](https://senpuu.com.br/) |
+| ^^ | [TokuSato](https://www.youtube.com/@TokuSatoOficial) |
+| ^^ | [:tg: TOKUSHARE](https://t.me/s/tokushareoficial) |
 
-#### Software
+### Software
 - [GoAnime](https://github.com/alvarorichard/GoAnime) :win::cmd:
-
-### Manga
-- [Argos Comic](https://argoscomics.online/) :ljp::lkr::lcn::ero:
-- [Kakusei Project](https://kakuseiproject.com/) :ljp::ero:
-- [Ler Mangas](https://lermangas.me/) :ljp::lkr::lcn::ero:
-- [Tao Sect](https://taosect.com/) :ljp::lkr::lcn::ero:
-- [Yuri on Air](https://yurionair.top/) :ljp::lkr::lcn::ero:
-
-### Tokusatsu
-- [DGB Catálogo](https://dgbfansub.carrd.co/)
-- [Rádio Toku Hero Club](https://www.radiotokuheroclub.com/)
-- [Senpuu Tokusatsu](https://senpuu.com.br/)
-- [TokuSato](https://www.youtube.com/@TokuSatoOficial)
-- [:tg: TOKUSHARE](https://t.me/s/tokushareoficial)
-
 
 ## Romanian
 
@@ -550,38 +528,36 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 ## Russian
 
-### Anime
+### Websites
 
-- [AniDUB](https://anidub.pro/)
-- [AniFilm](https://anifilm.pro/)
-- [AniFox](https://anifox.club/anime) <Badge type="info" text="Aggregator" />
-- [AniLiberty](https://anilibria.top/) <Badge type="info" text="Sub" />
-- [AniMan](https://animan.ru/)
-- [AnimeBuff](https://animebuff.ru/) <Badge type="info" text="Sub" />
-- [AnimeJoy](https://animejoy.ru/)
-- [Animelayer](http://animelayer.ru/) :mag:
-- [AnimeLIB](https://animelib.org/ru) [:alt:](https://anilib.me/ru)
-- [AnimeStars](https://animestars.org/) <Badge type="info" text="Aggregator" />
-- [Animevost](https://animevost.org/)
-- [Anisun](https://anisun.vercel.app/en) [:src:](https://github.com/notwindstone/anisun)
-- [Kage Project](http://fansubs.ru/) <tooltip>Subtitle files only, you need to get the episodes from another source.</tooltip>
-- [MAL to Kodik](https://mal-to-kodik.github.io/) <Badge type="info" text="Aggregator" />
-- [One Pace](https://onepace-ru.tilda.ws/)
-- [Tunime](https://an0ncer.github.io/) [:src:](https://github.com/AN0NCER/an0ncer.github.io) <Badge type="info" text="Sub" />
-- [YummyAnime](https://site.yummyani.me/)
-
-### Manga
-- [Com-X](https://com-x.life/home)
-- [Desu.Me](https://desu.uno/) [:alt:](https://desu.me/)
-- [InkStory](https://inkstory.net/)
-- [MangaHub](https://mangahub.ru/)
-- [MangaLIB](https://mangalib.me/)
-- [MangaPoisk](https://mangapoisk.live/)
-- [ReManga](https://remanga.org/)
-
-### More Sites
-- [RanobeLIB](https://ranobelib.me/)
-- [VseDoramy](https://vsedoramy.ru/)
+| Category | Website |
+| :--- | :--- |
+| **Anime** | [AniDUB](https://anidub.pro/) |
+| ^^ | [AniFilm](https://anifilm.pro/) |
+| ^^ | [AniFox](https://anifox.club/anime) <Badge type="info" text="Aggregator" /> |
+| ^^ | [AniLiberty](https://anilibria.top/) <Badge type="info" text="Sub" /> |
+| ^^ | [AniMan](https://animan.ru/) |
+| ^^ | [AnimeBuff](https://animebuff.ru/) <Badge type="info" text="Sub" /> |
+| ^^ | [AnimeJoy](https://animejoy.ru/) |
+| ^^ | [Animelayer](http://animelayer.ru/) :mag: |
+| ^^ | [AnimeLIB](https://animelib.org/ru) [:alt:](https://anilib.me/ru) |
+| ^^ | [AnimeStars](https://animestars.org/) <Badge type="info" text="Aggregator" /> |
+| ^^ | [Animevost](https://animevost.org/) |
+| ^^ | [Anisun](https://anisun.vercel.app/en) [:src:](https://github.com/notwindstone/anisun) |
+| ^^ | [Kage Project](http://fansubs.ru/) <tooltip>Subtitle files only, you need to get the episodes from another source.</tooltip> |
+| ^^ | [MAL to Kodik](https://mal-to-kodik.github.io/) <Badge type="info" text="Aggregator" /> |
+| ^^ | [One Pace](https://onepace-ru.tilda.ws/) |
+| ^^ | [Tunime](https://an0ncer.github.io/) [:src:](https://github.com/AN0NCER/an0ncer.github.io) <Badge type="info" text="Sub" /> |
+| ^^ | [YummyAnime](https://site.yummyani.me/) |
+| **Manga** | [Com-X](https://com-x.life/home) |
+| ^^ | [Desu.Me](https://desu.uno/) [:alt:](https://desu.me/) |
+| ^^ | [InkStory](https://inkstory.net/) |
+| ^^ | [MangaHub](https://mangahub.ru/) |
+| ^^ | [MangaLIB](https://mangalib.me/) |
+| ^^ | [MangaPoisk](https://mangapoisk.live/) |
+| ^^ | [ReManga](https://remanga.org/) |
+| **Others** | [RanobeLIB](https://ranobelib.me/) |
+| ^^ | [VseDoramy](https://vsedoramy.ru/) |
 
 
 ### Software
@@ -617,30 +593,30 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 ### Anime
 
-- **Stream**
-  - [AnimeAV1](https://animeav1.com/)
-  - [MonosChinos](https://monoschinos2.com/)
-  - [AnimeOnlineNinja](https://ver.animeonline.ninja/)
-  - [Latanime](https://latanime.org/) <Badge type="info" text="Dub" />
-  - [Estrenos Anime](https://estrenosanime.net/home)
-  - [JKAnime](https://jkanime.net/)
-  - [TioAnime](https://tioanime.com/)
-  - [AnimeFLV](https://www4.animeflv.net/)
-  - [AnimeJL](https://www.anime-jl.net/) :ero:
-  - [Mundo Donghua](https://www.mundodonghua.com/)
-  - [Tio Donghua](https://tiodonghua.com/)
-  - [HentaiLA](https://hentaila.com/hub) :ero:
-  - [HentaiJL](https://hentaijl.com/) :ero:
-- **Download**
-  - [Japan Paw!](https://japanpaw.com/)
-  - [SphinxAnime](https://sphinxanime.com/)
-  - [Nekomitai](https://nekomitai.net/)
-  - [Ivanime](https://www.ivanime.com/)
-  - [DW Anime](https://dw-anime.net/)
-  - [Az-Animex](https://www.az-animex.com/)
-  - [Union Fansub](https://foro.unionfansub.com/) :mag::acc:
-  - [:tg: YaichiList](https://t.me/addlist/xA7wYMGu0CI2YzBh) :strm:
-  - [BeatZ-Anime](https://www.beatz-anime.net/) :ero:
+| Category | Website |
+| :--- | :--- |
+| Stream | [AnimeAV1](https://animeav1.com/) |
+| ^^ | [MonosChinos](https://monoschinos2.com/) |
+| ^^ | [AnimeOnlineNinja](https://ver.animeonline.ninja/) |
+| ^^ | [Latanime](https://latanime.org/) <Badge type="info" text="Dub" /> |
+| ^^ | [Estrenos Anime](https://estrenosanime.net/home) |
+| ^^ | [JKAnime](https://jkanime.net/) |
+| ^^ | [TioAnime](https://tioanime.com/) |
+| ^^ | [AnimeFLV](https://www4.animeflv.net/) |
+| ^^ | [AnimeJL](https://www.anime-jl.net/) :ero: |
+| ^^ | [Mundo Donghua](https://www.mundodonghua.com/) |
+| ^^ | [Tio Donghua](https://tiodonghua.com/) |
+| ^^ | [HentaiLA](https://hentaila.com/hub) :ero: |
+| ^^ | [HentaiJL](https://hentaijl.com/) :ero: |
+| Download | [Japan Paw!](https://japanpaw.com/) |
+| ^^ | [SphinxAnime](https://sphinxanime.com/) |
+| ^^ | [Nekomitai](https://nekomitai.net/) |
+| ^^ | [Ivanime](https://www.ivanime.com/) |
+| ^^ | [DW Anime](https://dw-anime.net/) |
+| ^^ | [Az-Animex](https://www.az-animex.com/) |
+| ^^ | [Union Fansub](https://foro.unionfansub.com/) :mag::acc: |
+| ^^ | [:tg: YaichiList](https://t.me/addlist/xA7wYMGu0CI2YzBh) :strm: |
+| ^^ | [BeatZ-Anime](https://www.beatz-anime.net/) :ero: |
 
 ### Manga
 - [Absorbiendo Mangas](https://absorbiendomangas2.blogspot.com/)
@@ -676,82 +652,74 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 ## Turkish
 
-### Anime
-- [Acheriya](https://acheriya.com/)
-- [Anizm](https://anizm.net/)
-- [TRanimeizle](https://www.tranimeizle.co/)
-- [Türk Anime TV](https://www.turkanime.tv/)
+### Websites
 
-### Manga
-- [Manga-TR](https://manga-tr.com/index.html)
-- [Sadscans](https://sadscans.net/)
-- [Tortuga Ceviri](https://tortuga-ceviri.com/)
-
-### Others
-- [AnimeListem](https://animelistesi.com/)
-- [KesifAsya](https://kesifasya.com/)
-- [Web Drama Turkey](https://webdramaturkey2.com/)
-
+| Category | Website |
+| :--- | :--- |
+| Anime | [Acheriya](https://acheriya.com/) |
+| ^^ | [Anizm](https://anizm.net/) |
+| ^^ | [TRanimeizle](https://www.tranimeizle.co/) |
+| ^^ | [Türk Anime TV](https://www.turkanime.tv/) |
+| Manga | [Manga-TR](https://manga-tr.com/index.html) |
+| ^^ | [Sadscans](https://sadscans.net/) |
+| ^^ | [Tortuga Ceviri](https://tortuga-ceviri.com/) |
+| Others | [AnimeListem](https://animelistesi.com/) |
+| ^^ | [KesifAsya](https://kesifasya.com/) |
+| ^^ | [Web Drama Turkey](https://webdramaturkey2.com/) |
 
 ## Ukranian
 
-### Anime
-- [ANIMEUA](https://animeua.club/)
-- [AniTube](https://anitube.in.ua/)
-- [Unimay Media](https://unimay.media/)
-- [HentaiUKR](https://hentaiukr.com/) :ero:
+### Websites
 
-### Manga
-- [Manga.in.ua](https://manga.in.ua/)
-- [Zenko](https://zenko.online/)
-
-### Others
-- [BambooUA](https://bambooua.com/)
-- [Hikka](https://hikka.io/)
+| Category | Website |
+| :--- | :--- |
+| Anime | [ANIMEUA](https://animeua.club/) |
+| ^^ | [AniTube](https://anitube.in.ua/) |
+| ^^ | [Unimay Media](https://unimay.media/) |
+| ^^ | [HentaiUKR](https://hentaiukr.com/) :ero: |
+| Manga | [Manga.in.ua](https://manga.in.ua/) |
+| ^^ | [Zenko](https://zenko.online/) |
+| Others | [BambooUA](https://bambooua.com/) |
+| ^^ | [Hikka](https://hikka.io/) |
 
 
 ## Vietnamese
 
-### Anime
-- [Ani4u](https://ani4u.org/)
-- [Anime47](https://anime47.best/)
-- [AnimeHay](https://animehay.in/)
-- [AnimeVsub](https://animevsub.eu.org/) [:src:](https://github.com/anime-vsub/desktop-web)
-- [HHNINJA](hhninja14) [:prx:](https://hhtq1.xyz/)
-- [Unime](https://unime.vercel.app/) [:src:](https://github.com/huy232/Unime)
-- [WebLinhTinh](https://weblinhtinh1.net/)
+### Websites
 
-### Comics
-- [CManga](https://cmangax9.com/)
-- [Cuu Truyen](https://cuutruyen.net/) [:prx:](https://truycapcuutruyen.pages.dev/)
-- [DocTruyen3Q](https://doctruyen3qui15.com/) :ero:
-- [FoxTruyen](https://foxtruyen.com/)
-- [Goc Truyen Tranh](https://goctruyentranh.net/)
-- [MangaMAX](https://manga-max.vercel.app/) [:src:](https://github.com/huynlx/MangaMAX)
-- [NhatTruyen](https://nhattruyenqq.com/)
-- [Than Vuc](https://thanvuc.com/)
-- [TopTruyen](https://www.toptruyentv11.com/)
-- [TruyenQQ](https://truyenqqgo.com/)
-- [VlogTruyen](https://vlogtruyen58.com/)
-
-### Hentai
-- [DuaLeoTruyen](https://dualeotruyenay.com/)
-- [HentaiCube](https://hentaicube.xyz/)
-- [KuroNeko](https://vi-hentai.com/)
-- [qManga](https://qmanga.art/)
-- [TruyenHentaiVN](https://truyenhentaivn.club/)
-
-### Novels
-- [Hako](https://docln.net/)
-- [Metruyenhot](https://metruyenhot.vn/)
-- [Sonako Light Novel Wiki](https://sonako.fandom.com/vi/wiki/Sonako_Light_Novel)
-- [TruyenFull.io](https://truyenfull.vision/) :ero:
-- [Xalosach](https://xalosach.com/)
-
-### Others
-- [Tana.moe](https://tana.moe/)
-- [Tokuvn](https://tokuvn.com/)
-- [Vietnam Key FanClub](https://vnkeyfc.com/) :ddl:
+| Category | Website |
+| :--- | :--- |
+| Anime | [Ani4u](https://ani4u.org/) |
+| ^^ | [Anime47](https://anime47.best/) |
+| ^^ | [AnimeHay](https://animehay.in/) |
+| ^^ | [AnimeVsub](https://animevsub.eu.org/) [:src:](https://github.com/anime-vsub/desktop-web) |
+| ^^ | [HHNINJA](hhninja14) [:prx:](https://hhtq1.xyz/) |
+| ^^ | [Unime](https://unime.vercel.app/) [:src:](https://github.com/huy232/Unime) |
+| ^^ | [WebLinhTinh](https://weblinhtinh1.net/) |
+| Comics | [CManga](https://cmangax9.com/) |
+| ^^ | [Cuu Truyen](https://cuutruyen.net/) [:prx:](https://truycapcuutruyen.pages.dev/) |
+| ^^ | [DocTruyen3Q](https://doctruyen3qui15.com/) :ero: |
+| ^^ | [FoxTruyen](https://foxtruyen.com/) |
+| ^^ | [Goc Truyen Tranh](https://goctruyentranh.net/) |
+| ^^ | [MangaMAX](https://manga-max.vercel.app/) [:src:](https://github.com/huynlx/MangaMAX) |
+| ^^ | [NhatTruyen](https://nhattruyenqq.com/) |
+| ^^ | [Than Vuc](https://thanvuc.com/) |
+| ^^ | [TopTruyen](https://www.toptruyentv11.com/) |
+| ^^ | [TruyenQQ](https://truyenqqgo.com/) |
+| ^^ | [VlogTruyen](https://vlogtruyen58.com/) |
+| Hentai | [DuaLeoTruyen](https://dualeotruyenay.com/) |
+| ^^ | [HentaiCube](https://hentaicube.xyz/) |
+| ^^ | [KuroNeko](https://vi-hentai.com/) |
+| ^^ | [qManga](https://qmanga.art/) |
+| ^^ | [TruyenHentaiVN](https://truyenhentaivn.club/) |
+| Novels | [Hako](https://docln.net/) |
+| ^^ | [Metruyenhot](https://metruyenhot.vn/) |
+| ^^ | [Sonako Light Novel Wiki](https://sonako.fandom.com/vi/wiki/Sonako_Light_Novel) |
+| ^^ | [TruyenFull.io](https://truyenfull.vision/) :ero: |
+| ^^ | [Xalosach](https://xalosach.com/) |
+| Others | [Tana.moe](https://tana.moe/) |
+| ^^ | [Tokuvn](https://tokuvn.com/) |
+| ^^ | [Vietnam Key FanClub](https://vnkeyfc.com/) :ddl: |
 
 ### Software
 
