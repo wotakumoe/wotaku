@@ -181,7 +181,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | **Japanese** | [Anime Hack](https://anime.eiga.com/) ==AnimeHack== |
 | ^^ | [Bangumi List](https://bgmlist.com/) :lcn: [:src:](https://github.com/wxt2005/bangumi-list-v3) <Badge type="info" text="OTT" /> |  
 | ^^ | [CoolJapan](https://cooljapanportal.com/) <Badge type="info" text="OTT" /> |
-| ^^ | [Kansou](https://www.kansou.me/) <Badge type="info" text="TV" /> |
+| ^^ | [Kansou](https://www.kansou.me/) <Badge type="info" text="General" /> |
 | ^^ | [Moon Phase](https://m-p.sakura.ne.jp/) <Badge type="info" text="TV" /> |  
 | ^^ | [Syoboi Calendar](https://cal.syoboi.jp/) [:rss:](https://docs.cal.syoboi.jp/spec/rss.php/) <Badge type="info" text="General" /> |  
 | **Others** | [Blu-ray.com](https://www.blu-ray.com/movies/movies.php?genre=Anime&sortby=releasetimestamp) |
