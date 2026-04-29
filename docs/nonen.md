@@ -206,7 +206,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [Fluneo](https://myfluneo.eu/) |
 | ^^ | [FRAnime](https://franime.fr/) |
 | ^^ | [FanKai](http://fankai.fr/) [:alt:](https://linktr.ee/FanKai) |
-| ^^ | [French Anime](https://french-anime.com/) |
+| ^^ | [French Anime](https://french-anime.com/) + :len: |
 | ^^ | [JetAnime](https://on.jetanimes.com/) |
 | ^^ | [Sekai](https://sekai.one/) |
 | ^^ | [Streaming-integrale](https://streaming-integrale.com/) |
@@ -236,8 +236,8 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [AniWorld](https://aniworld.to/) :strm: + :len: |
 | ^^ | [FireAnime](https://fireani.me/) :strm: + :len: |
 | ^^ | [Melon-Subs](https://melon-subs.de/) :ded::ddl: |
-| ^^ | [NanaOne](https://nanaone.net/) :ded::ddl: |
-| ^^ | [OtakuKingdom Subs](http://www.otakukingdom-subs.de/) :ddl: |
+| ^^ | [NanaOne](https://nanaone.net/) :ddl: |
+| ^^ | [OtakuKingdom Subs](http://www.otakukingdom-subs.de/) :ded::ddl: |
 | **Manga** | [ComicMafia](https://comicmafia.to/?s=manga) :ddl::host: |
 | ^^ | [Manga-Tube](https://manga-tube.me/) |
 | **Info / News** | [aniSearch](https://www.anisearch.de/) + :len: |
