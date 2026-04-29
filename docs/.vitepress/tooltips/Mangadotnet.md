@@ -1,5 +1,5 @@
-- New releases are scraped from the sources without any transcoding
-- New releases are tagged as "Upload"
-- Old releases are scraped from aggregators
+- Properly tagged releases are user-uploaded or scraped from scanlator sites without transcoding
+- Untagged releases are scraped from aggregators
 - Has volume release for some titles
-- Properly tags sources
+- Lacks recent manga uploads
+- UI is scuffed in some aspects
