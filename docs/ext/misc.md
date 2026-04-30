@@ -5,6 +5,7 @@ outline: 2
 og:
     image: https://i.wotaku.wiki/f/extension.png
 ---
+# Miscellaneous
 
 ## Cloudstream
 

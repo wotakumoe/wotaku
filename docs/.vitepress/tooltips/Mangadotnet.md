@@ -1,5 +1,5 @@
 - Properly tagged releases are user-uploaded or scraped from scanlator sites without transcoding
 - Untagged releases are scraped from aggregators
 - Has volume release for some titles
-- Lacks recent manga uploads
+- Medium size library
 - UI is scuffed in some aspects

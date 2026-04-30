@@ -14,7 +14,7 @@ og:
 # Extension Repos
 
 <Deck>
-  <Card title="Mihon" href="/ext/mihon">
+  <Card title="Mihon & Aniyomi" href="/ext/mihon">
     Mihon & Aniyomi-based repos
   </Card>
   <Card title="Mangayomi" href="/ext/mangayomi">

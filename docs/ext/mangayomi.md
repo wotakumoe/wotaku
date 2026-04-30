@@ -5,6 +5,7 @@ outline: [2,3]
 og:
     image: https://i.wotaku.wiki/f/extension.png
 ---
+# Mangayomi
 
 [**Mangayomi**](https://github.com/kodjodevf/mangayomi) extensions are supported by [**AnymeX**](https://anymex.vercel.app/) and [**Dartotsu**](https://github.com/aayush2622/Dartotsu).
 

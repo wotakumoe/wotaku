@@ -4,6 +4,7 @@ customDescription: Extension Repos & Guides for Aidoku, Paperback, Sora & Suwatt
 og:
     image: https://i.wotaku.wiki/f/ios.png
 ---
+# iOS
 
 ## Aidoku
 
