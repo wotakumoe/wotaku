@@ -13,10 +13,10 @@ og:
 
 | Category | Website |
 | :--- | :--- |
-| **Stream** | [Anime Nexus](https://anime.nexus/) |
-| ^^ | [AnimeStream](https://anime.uniquestream.net/) |
-| ^^ | [KickassAnime](https://kaa.lt/) |
-| ^^ | [AniZone](https://anizone.to/) |
+| **Stream** | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== |
+| ^^ | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== |
+| ^^ | [KickassAnime](https://kaa.lt/) ==KAA== |
+| ^^ | [AniZone](https://anizone.to/) ==AniZone== |
 | ^^ | [AnimeOnsen](https://www.animeonsen.xyz/) :sd: |
 | **Torrent** | [Erai-raws](https://nyaa.si/user/Erai-raws) |
 | ^^ | [ToonsHub](https://www.toonshub.my.id/) |
