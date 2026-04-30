@@ -286,14 +286,30 @@ watchDebounced(
     })
 
     const excerpts = el.value?.querySelectorAll('.result .excerpt') ?? []
-    // @ts-expect-error
-    for (const excerpt of excerpts) {
-      excerpt
-        .querySelector('mark[data-markjs="true"]')
-        ?.scrollIntoView({ block: 'center' })
+    const scrollMutations: { element: HTMLElement; scrollTop: number }[] = []
+    for (let i = 0; i < excerpts.length; i++) {
+      const excerptElement = excerpts[i] as HTMLElement
+
+      const markNode = excerptElement.querySelector('mark[data-markjs="true"]') as HTMLElement | null
+      if (markNode) {
+        const markRect = markNode.getBoundingClientRect()
+        const excerptRect = excerptElement.getBoundingClientRect()
+
+        const relativeTop = (markRect.top - excerptRect.top) + excerptElement.scrollTop
+        const targetScrollTop = relativeTop - (excerptElement.clientHeight / 2) + (markRect.height / 2)
+
+        scrollMutations.push({
+          element: excerptElement,
+          scrollTop: targetScrollTop
+        })
+      }
     }
-    // FIXME: without this whole page scrolls to the bottom
-    resultsEl.value?.firstElementChild?.scrollIntoView({ block: 'start' })
+    for (let i = 0; i < scrollMutations.length; i++) {
+      scrollMutations[i].element.scrollTop = scrollMutations[i].scrollTop
+    }
+    if (resultsEl.value) {
+      resultsEl.value.scrollTop = 0
+    }
   },
   { debounce: 180, immediate: true }
 )
