@@ -214,7 +214,7 @@ To make the cubari process easier, we have made [Kaguya](https://github.com/wota
 - [Shellshock](https://nyaa.si/user/shellshock) ==Shellshock==
 - [Shizu](https://nyaa.si/user/wolfsbanes) ==Shizu==
 - [Stick](https://nyaa.si/user/dumbboy58) ==Stick==
-- [SWId](https://nyaa.si/?f=0&c=3_1&q=SWId) ==SWId==
+- [SWId](https://nyaa.si/?f=0&c=3_1&q=SWId) :ded: ==SWId==
 - [TooManyIsekai](https://nyaa.si/?f=0&c=3_1&q=TooManyIsekai) ==TooManyIsekai==
 - [Trite](https://nyaa.si/user/Trite) ==Trite==
 - [Ushi](https://nyaa.si/user/bakaushi) ==Ushi==

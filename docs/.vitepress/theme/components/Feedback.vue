@@ -207,7 +207,10 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
                 </li>
                 <li>Sites focused on lolicon or furry stuff</li>
                 <li>
-                  Sites scraping only two or three popular sources
+                  Sites scraping only a couple popular sources
+                </li>
+                <li>
+                  Sites scraping the servers of other scrapers
                 </li>
                 <li>
                   Sites found in the Unsafe lists of
