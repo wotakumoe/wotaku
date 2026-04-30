@@ -543,7 +543,7 @@ function onMouseMove(e: MouseEvent) {
             ease: [0.16, 1, 0.3, 1]
           }"
         >
-          <motion.form
+          <form
             layout="position"
             class="search-bar"
             @pointerup="onSearchBarClick($event)"
@@ -619,7 +619,7 @@ function onMouseMove(e: MouseEvent) {
                 <Delete :size="19" stroke-width="1.25" />
               </button>
             </div>
-          </motion.form>
+          </form>
 
           <ul
             ref="resultsEl"
