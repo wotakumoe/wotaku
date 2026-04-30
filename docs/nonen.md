@@ -17,7 +17,7 @@ og:
 | ^^ | [AnimeStream](https://anime.uniquestream.net/) |
 | ^^ | [KickassAnime](https://kaa.lt/) |
 | ^^ | [AniZone](https://anizone.to/) |
-| ^^ | [AnimeOnsen](https://www.animeonsen.xyz/) |
+| ^^ | [AnimeOnsen](https://www.animeonsen.xyz/) :sd: |
 | **Torrent** | [Erai-raws](https://nyaa.si/user/Erai-raws) |
 | ^^ | [ToonsHub](https://www.toonshub.my.id/) |
 | ^^ | [Varyg](https://nyaa.si/user/varyg1001) |

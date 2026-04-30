@@ -19,7 +19,7 @@ og:
 ## Anime
 - [AmateurSubs](https://amateursubs.com/) :ddl: <Badge type="tip" text="Nyaa" link="https://sukebei.nyaa.si/user/denis18312" />
 - [Anibd](https://anibd.app/anime-seasontype/ani16/) [:alt:](https://ani.lol/anime-seasontype/ani16/)
-- [Hanime](https://hanime.tv/home) <Badge type="info" text="720p" />
+- [Hanime](https://hanime.tv/home) :sd:
 - [Hanime1](https://hanime1.me/) :ljp::lcn:
 - [Hentai.tv](https://hentai.tv/)
 - [Hentai AHO Streaming](https://haho.moe/) :ded:

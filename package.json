@@ -59,6 +59,7 @@
   },
   "devDependencies": {
     "@iconify-json/akar-icons": "^1.2.7",
+    "@iconify-json/bi": "^1.2.7",
     "@iconify-json/ic": "^1.2.4",
     "@iconify-json/icon-park-outline": "^1.2.4",
     "@iconify-json/iconoir": "^1.2.10",
