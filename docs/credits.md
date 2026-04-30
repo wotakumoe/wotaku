@@ -85,7 +85,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | Artist / Studio             | Art                                                                                                | Used as             |
 | --------------------------- | -------------------------------------------------------------------------------------------------- | ------------------- |
 | **advarcher**               | [Gawr Gura delivering Christmas gift](https://www.pixiv.net/en/artworks/114538066)                 | Christmas card 2024 |
-| **Chroneco**                | [Ninomae Ina’nis WAH](https://www.chroneco.moe/)                                                   | Button              |
+| **Chroneco**                | [Ninomae Ina’nis WAH](https://x.com/chrone_co/status/1370319306286764033)                          | Button              |
 | **CLERO**                   | [Hololive EN plushies](https://x.com/CLERO_ART/status/1788894299007971680)                         | Home art          |
 | **CloverWorks** | [Hoshimachi Suisei "Kireigoto"](https://youtu.be/VPhLXeU25KA) | Icon key banner |
 | **Dr.Pigeon PhD** | [Smol Ame in winter jacket](https://x.com/PhdPigeon/status/1866313003119030404) | Home art |

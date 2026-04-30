@@ -352,8 +352,7 @@ Most apps in [**software**](/software) supports multilingual sources
 ### Websites
 | Category | Website |
 | :--- | :--- |
-| **Anime** | [AniDream](https://anidream.cc/) |
-| ^^ | [AnimeSaturn](https://www.anisaturn.com/) [:prx:](https://www.animesaturn.me/) |
+| **Anime** | [AnimeSaturn](https://www.anisaturn.com/) [:prx:](https://www.animesaturn.me/) |
 | ^^ | [AnimeUnity](https://www.animeunity.to/) |
 | ^^ | [AnimeWorld](https://www.animeworld.ac/) |
 | ^^ | [One Piece Power](https://onepiecepower.com/anime18/lista-anime) |
