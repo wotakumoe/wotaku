@@ -62,6 +62,7 @@ og:
 | **Misc** | [APKUpdater](https://github.com/rumboalla/apkupdater) | :and: |
 | ^^ | [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) [:src:](https://github.com/spacecowboy/Feeder) | :and: |
 | ^^ | [Obtainium](https://github.com/ImranR98/Obtainium) | :and: |
+| ^^ | [ObtainX](https://github.com/bikram-agarwal/ObtainX) | :and: |
 
 ![](/banner/pc.webp)
 

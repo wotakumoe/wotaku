@@ -9,25 +9,22 @@ og:
 
 ## Anki
 
-
 ### Starter
 
-#### Software
-- [Anki](https://apps.ankiweb.net/) :win::app::lin:
-- [AnkiDroid Flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki) :and:
-  - [Anki with Add-ons on Android: Guide](https://github.com/kaihouguide/the_ULTIMATE_android_mining_setup)
-- [AnkiMobile Flashcards](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) :ios::paid:
-- [Ankiconnect Android](https://github.com/KamWithK/AnkiconnectAndroid) :and:
-- [KAnki](https://github.com/crizmo/KAnki) :simple-icons-amazon:
-
-___
-#### Guide
-- [Anki Manual](https://docs.ankiweb.net/)
-- [Kuri's Setup Guide](https://donkuri.github.io/learn-japanese/setup/#anki-setup) :s:
-- [jp-mining-note](https://arbyste.github.io/jp-mining-note/) <Badge type="tip" text="original" link="https://aquafina-water-bottle.github.io/jp-mining-note/"/>
-- [Xelieu's Modified Anime Card](https://lazyguidejp.github.io/jp-lazy-guide/)
-- [vladsperspective](https://vladsperspective.wordpress.com/2020/07/15/using-anime-decks-subs2srs-mediafire-premade-decks/)
-- [Optimizing Anki For Language Learning](https://cademcniven.com/posts/20210410/)
+| Category | Software |
+| :--- | :--- |
+| Software | [Anki](https://apps.ankiweb.net/) :win::app::lin: |
+| ^^ | [AnkiDroid Flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki) :and: |
+| ^^ | :prev: [Anki with Add-ons on Android: Guide](https://github.com/kaihouguide/the_ULTIMATE_android_mining_setup) |
+| ^^ | [AnkiMobile Flashcards](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) :ios::paid: |
+| ^^ | [Ankiconnect Android](https://github.com/KamWithK/AnkiconnectAndroid) :and: |
+| ^^ | [KAnki](https://github.com/crizmo/KAnki) :simple-icons-amazon: |
+| Guide | [Anki Manual](https://docs.ankiweb.net/) |
+| ^^ | [Kuri's Setup Guide](https://donkuri.github.io/learn-japanese/setup/#anki-setup) :s: |
+| ^^ | [jp-mining-note](https://arbyste.github.io/jp-mining-note/) <Badge type="tip" text="original" link="https://aquafina-water-bottle.github.io/jp-mining-note/"/> |
+| ^^ | [Xelieu's Modified Anime Card](https://lazyguidejp.github.io/jp-lazy-guide/) |
+| ^^ | [vladsperspective](https://vladsperspective.wordpress.com/2020/07/15/using-anime-decks-subs2srs-mediafire-premade-decks/) |
+| ^^ | [Optimizing Anki For Language Learning](https://cademcniven.com/posts/20210410/) |
 
 ### Addons
 - [Advanced Browser](https://ankiweb.net/shared/info/874215009)
@@ -60,113 +57,106 @@ ___
 
 ### Decks
 
-#### Kanji
-- [Hanzi Web](https://ankiweb.net/shared/info/125468335?cb=1740905928130) [:src:](https://github.com/elizagamedev/anki-hanziweb)
-- [KanjiDamage](https://ankiweb.net/shared/info/748570187)
-- [Kanji de Go](https://github.com/MarvNC/kanjidego-yomitan-anki)
-- [Kanken Deck](https://ankiweb.net/shared/info/759825185) <Badge type="info" text="Advanced" /> [:alt:](https://ankiweb.net/shared/info/1113953752)
-- [Kodansha kanji learner's course with vocabulary](https://ankiweb.net/shared/info/779483253) 
-- [RRTK450 Anki deck](https://rentry.org/wotadirect#japansoftware) <Badge type="info" text="Beginner" />
-- [Usagi Chan Kanji Phonetics Deck](https://drive.google.com/file/d/1xyynMQiOuqlC_cBBTwG9t3snRubHqU7e/view)
-- [WaniKani Complete Lv 1-60](https://ankiweb.net/shared/info/2072613354) <Badge type="tip" text="Script" link="https://gist.github.com/Destroxia54/6925a3e1cb75afc7a3dd14d1ba2ff611" />
-- [Wanikani Ultimate 3](https://rentry.org/wotadirect#japansoftware) <Badge type="tip" text="Support" link="https://discord.gg/cSEXEB5DgF" />
-___
-#### Vocab
-- [Kaishi](https://github.com/donkuri/Kaishi) :s: <Badge type="info" text="Beginner" />
-- [Anime decks (Official AnkiWeb)](https://ankiweb.net/shared/decks?search=anime)
-- [Anime decks (Sub2Srs)](https://rentry.org/wotadirect#japansoftware)
-- [Core 2k/6k Optimized Japanese Vocabulary Anki](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) 
-- [Japanese course based on Tae Kim's grammar guide & anime](https://ankiweb.net/shared/info/911122782) 
-- [Japanese Proper Nouns Deck](https://github.com/friedrich-de/Japanese-Proper-Nouns-Deck)
-- [Tango N5 omega deck](https://rentry.org/wotadirect#japansoftware) <Badge type="info" text="Beginner" />
+| Category | Software |
+| :--- | :--- |
+| **Kanji** | [Hanzi Web](https://ankiweb.net/shared/info/125468335?cb=1740905928130) [:src:](https://github.com/elizagamedev/anki-hanziweb) |
+| ^^ | [KanjiDamage](https://ankiweb.net/shared/info/748570187) |
+| ^^ | [Kanji de Go](https://github.com/MarvNC/kanjidego-yomitan-anki) |
+| ^^ | [Kanken Deck](https://ankiweb.net/shared/info/759825185) [:alt:](https://ankiweb.net/shared/info/1113953752) <Badge type="info" text="Advanced" /> |
+| ^^ | [Kodansha kanji learner's course with vocabulary](https://ankiweb.net/shared/info/779483253) |
+| ^^ | [RRTK450 Anki deck](https://rentry.org/wotadirect#japansoftware) <Badge type="info" text="Beginner" /> |
+| ^^ | [Usagi Chan Kanji Phonetics Deck](https://drive.google.com/file/d/1xyynMQiOuqlC_cBBTwG9t3snRubHqU7e/view) |
+| ^^ | [WaniKani Complete Lv 1-60](https://ankiweb.net/shared/info/2072613354) <Badge type="tip" text="Script" link="https://gist.github.com/Destroxia54/6925a3e1cb75afc7a3dd14d1ba2ff611" /> |
+| ^^ | [Wanikani Ultimate 3](https://rentry.org/wotadirect#japansoftware) [:d:](https://discord.gg/cSEXEB5DgF) |
+| **Vocab** | [Kaishi](https://github.com/donkuri/Kaishi) :s: <Badge type="info" text="Beginner" /> |
+| ^^ | [Anime decks (Official AnkiWeb)](https://ankiweb.net/shared/decks?search=anime) |
+| ^^ | [Anime decks (Sub2Srs)](https://rentry.org/wotadirect#japansoftware) |
+| ^^ | [Core 2k/6k Optimized Japanese Vocabulary Anki](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) |
+| ^^ | [Japanese course based on Tae Kim's grammar guide & anime](https://ankiweb.net/shared/info/911122782) |
+| ^^ | [Japanese Proper Nouns Deck](https://github.com/friedrich-de/Japanese-Proper-Nouns-Deck) |
+| ^^ | [Tango N5 omega deck](https://rentry.org/wotadirect#japansoftware) <Badge type="info" text="Beginner" /> |
 
 ## Phone
 
 ### Dictionary
 
-#### Android
-- [jidoujisho](https://github.com/lrorpilla/jidoujisho) :s:
-- [Aedict3 Japanese Dictionary](https://play.google.com/store/apps/details?id=sk.baka.aedict3)
-- [Japanese Dictionary Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto)
-- [Kaku Japanese Dictionary (OCR)](https://github.com/0xbad1d3a5/Kaku)
-- [Nani?](https://f-droid.org/en/packages/eu.lepiller.nani/)
-- [Rin](https://github.com/kamui-fin/rin)
-___
-#### iOS
-- [Kantan Manga](https://apps.apple.com/us/app/kantan-manga/id1518666365)
-- [Shiori Reader](https://apps.apple.com/us/app/shiori-reader/id6744979827)
-- [Shirabe Jisho](https://ricoapps.com/) [:ios:](https://apps.apple.com/us/app/shirabe-jisho/id1005203380)
+| Category | Software |
+| :--- | :--- |
+| **Android** | [jidoujisho](https://github.com/lrorpilla/jidoujisho) :s: |
+| ^^ | [Aedict3 Japanese Dictionary](https://play.google.com/store/apps/details?id=sk.baka.aedict3) |
+| ^^ | [Japanese Dictionary Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto) |
+| ^^ | [Kaku Japanese Dictionary (OCR)](https://github.com/0xbad1d3a5/Kaku) |
+| ^^ | [Nani?](https://f-droid.org/en/packages/eu.lepiller.nani/) |
+| ^^ | [Rin](https://github.com/kamui-fin/rin) |
+| **iOS** | [Kantan Manga](https://apps.apple.com/us/app/kantan-manga/id1518666365) |
+| ^^ | [Shiori Reader](https://apps.apple.com/us/app/shiori-reader/id6744979827) |
+| ^^ | [Shirabe Jisho](https://ricoapps.com/) [:ios:](https://apps.apple.com/us/app/shirabe-jisho/id1005203380) |
 
 ### Learning
 
-#### Android
-- [Japanese Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy)
-- [jidoujisho](https://github.com/lrorpilla/jidoujisho) :s:
-- [Kakugo](https://play.google.com/store/apps/details?id=org.kaqui) [:src:](https://github.com/blastrock/kakugo)
-- [Kanji Dojo](https://play.google.com/store/apps/details?id=ua.syt0r.kanji)
-- [Kata](https://play.google.com/store/apps/details?id=im.dacer.kata)
-- [kawaiiNihongo](https://play.google.com/store/apps/details?id=de.mardukcorp.kawaiinihongo)
-- [renshuu](https://play.google.com/store/apps/details?id=com.renshuu.renshuu_org) [:web:](https://www.renshuu.org/)
-- [Textbender](https://github.com/fruitports/android-textbender)
-- [Vocal Pitch Monitor](https://play.google.com/store/apps/details?id=com.tadaoyamaoka.vocalpitchmonitor)
-___
-#### iOS
-- [Japanese](https://apps.apple.com/us/app/japanese/id290664053)
-- [Learn Japanese! - Kanji](https://apps.apple.com/us/app/learn-japanese-kanji/id1078107994)
-- [KankenToNews](https://apps.apple.com/us/app/kankentonews/id1449966937)
-- [Kana - Hiragana and Katakana](https://apps.apple.com/us/app/kana-hiragana-and-katakana/id1454200955)
-- [Kanji Garden](https://apps.apple.com/us/app/kanji-garden-japanese/id1338967114) [:web:](https://kanji.garden/)
-- [kawaiiNihongo](https://apps.apple.com/us/app/kawaiinihongo-learn-japanese/id1015333181)
-- [renshuu](https://apps.apple.com/us/app/renshuu-japanese-learning/id1542730063) [:web:](https://www.renshuu.org/)
+| Category | Software |
+| :--- | :--- |
+| **Android** | [Japanese Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy) |
+| ^^ | [jidoujisho](https://github.com/lrorpilla/jidoujisho) :s: |
+| ^^ | [Kakugo](https://play.google.com/store/apps/details?id=org.kaqui) [:src:](https://github.com/blastrock/kakugo) |
+| ^^ | [Kanji Dojo](https://play.google.com/store/apps/details?id=ua.syt0r.kanji) |
+| ^^ | [Kata](https://play.google.com/store/apps/details?id=im.dacer.kata) |
+| ^^ | [kawaiiNihongo](https://play.google.com/store/apps/details?id=de.mardukcorp.kawaiinihongo) |
+| ^^ | [renshuu](https://play.google.com/store/apps/details?id=com.renshuu.renshuu_org) [:web:](https://www.renshuu.org/) |
+| ^^ | [Textbender](https://github.com/fruitports/android-textbender) |
+| ^^ | [Vocal Pitch Monitor](https://play.google.com/store/apps/details?id=com.tadaoyamaoka.vocalpitchmonitor) |
+| **iOS** | [Japanese](https://apps.apple.com/us/app/japanese/id290664053) |
+| ^^ | [Learn Japanese! - Kanji](https://apps.apple.com/us/app/learn-japanese-kanji/id1078107994) |
+| ^^ | [KankenToNews](https://apps.apple.com/us/app/kankentonews/id1449966937) |
+| ^^ | [Kana - Hiragana and Katakana](https://apps.apple.com/us/app/kana-hiragana-and-katakana/id1454200955) |
+| ^^ | [Kanji Garden](https://apps.apple.com/us/app/kanji-garden-japanese/id1338967114) [:web:](https://kanji.garden/) |
+| ^^ | [kawaiiNihongo](https://apps.apple.com/us/app/kawaiinihongo-learn-japanese/id1015333181) |
+| ^^ | [renshuu](https://apps.apple.com/us/app/renshuu-japanese-learning/id1542730063) [:web:](https://www.renshuu.org/) |
 
 ### Reader
 
-#### Android
-- [jidoujisho](https://github.com/lrorpilla/jidoujisho) :s:
-- [Easy Japanese](https://play.google.com/store/apps/details?id=mobi.eup.jpnews) [:web:](https://japanese.todaiinews.com/)
-- [Satori Reader](https://play.google.com/store/apps/details?id=com.braksoftware.SatoriReader) [:web:](https://www.satorireader.com/)
-- [Write It! Japanese](https://play.google.com/store/apps/details?id=com.jernung.writeit.jpn)
-___
-#### iOS
-- [Easy Japanese](https://apps.apple.com/us/app/easy-japanese-news-%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/id1107177166) [:web:](https://japanese.todaiinews.com/)
-- [Hoshi Reader](https://github.com/Manhhao/Hoshi-Reader)
-- [Immersion Reader](https://reader.immersionkit.com/)
-- [Manabi Reader](https://reader.manabi.io/)
-- [Satori Reader](https://apps.apple.com/us/app/satori-reader/id1382950847) [:web:](https://www.satorireader.com/)
-- [Write It! Japanese](https://apps.apple.com/us/app/write-it-japanese/id1268225663)
+| Category | Software |
+| :--- | :--- |
+| **Android** | [jidoujisho](https://github.com/lrorpilla/jidoujisho) :s: |
+| ^^ | [Easy Japanese](https://play.google.com/store/apps/details?id=mobi.eup.jpnews) [:web:](https://japanese.todaiinews.com/) |
+| ^^ | [Satori Reader](https://play.google.com/store/apps/details?id=com.braksoftware.SatoriReader) [:web:](https://www.satorireader.com/) |
+| ^^ | [Write It! Japanese](https://play.google.com/store/apps/details?id=com.jernung.writeit.jpn) |
+| **iOS** | [Easy Japanese](https://apps.apple.com/us/app/easy-japanese-news-%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/id1107177166) [:web:](https://japanese.todaiinews.com/) |
+| ^^ | [Hoshi Reader](https://github.com/Manhhao/Hoshi-Reader) |
+| ^^ | [Immersion Reader](https://reader.immersionkit.com/) |
+| ^^ | [Manabi Reader](https://reader.manabi.io/) |
+| ^^ | [Satori Reader](https://apps.apple.com/us/app/satori-reader/id1382950847) [:web:](https://www.satorireader.com/) |
+| ^^ | [Write It! Japanese](https://apps.apple.com/us/app/write-it-japanese/id1268225663) |
 
 
 ## PC
 
 ### Media
 
-#### Video Player
-- [Anime Subtitle Player](https://anime-subtitle-player.vercel.app/) :web: [:src:](https://github.com/LostArrows27/anime-subtitle-player)
-- [Animebook](https://animebook.github.io/) :web: [:help:](https://cademcniven.com/posts/20210703/)
-- [Asbplayer](https://killergerbah.github.io/asbplayer/) :web::cr: [:src:](https://github.com/killergerbah/asbplayer)
-  - [Yomine](https://github.com/mcgrizzz/Yomine)
-- [Emby Jimaku](https://github.com/bpwhelan/Emby.Jimaku)
-- [Voracious](https://voracious.app/) :win::lin: [:src:](https://github.com/rsimmons/voracious)
-- [Zak's asbplayer](https://zakwarsame.github.io/asbplayer/) :web: [:src:](https://github.com/zakwarsame/asbplayer)
-___
-#### mpv
-- [Anacreon MPV script](https://github.com/friedrich-de/Anacreon-Script) <Badge type="info" text="animecards" link="https://animecards.site/minefromanime/" />
-- [autosubsync mpv](https://github.com/Ajatt-Tools/autosubsync-mpv)
-- [memento](https://github.com/ripose-jp/Memento) :win::app::lin:
-- [mpvacious](https://github.com/Ajatt-Tools/mpvacious) :win::lin:
-- [mpv anki mining config](https://github.com/kamperemu/jp-mpv-conf)
-- [mpv jimaku](https://github.com/ZXY101/mpv-jimaku)
-- [mpv retiming scripts](https://github.com/Ulidtsoa01/mpv-retiming-scripts)
-- [mpv sub scripts](https://github.com/peldas/mpv-sub-scripts)
-- [mpv subversive](https://github.com/nairyosangha/mpv-subversive)
-___
-#### Reader
-- [Mokuro](https://github.com/kha-white/mokuro) :win::app::lin:
-  - [ZXY101's fork](https://github.com/ZXY101/mokuro-reader)
-  - [KojoZero's fork](https://github.com/KojoZero/mokuro-reader)
-  - [Mokuro Catalog](https://mokuro.moe/catalog/)
-  - [Mokuro.moe Full Manga Catalog [2024-10-09]](https://rentry.org/wotadirect#japansoftware)
-- [ttsu Ebook Reader](https://reader.ttsu.app/) :web: [:src:](https://github.com/ttu-ttu/ebook-reader) 
+| Category | Software | Platform |
+| :--- | :--- | :--- |
+| **Video Player** | [Anime Subtitle Player](https://anime-subtitle-player.vercel.app/) [:src:](https://github.com/LostArrows27/anime-subtitle-player) | :web: |
+| ^^ | [Animebook](https://animebook.github.io/) [:help:](https://cademcniven.com/posts/20210703/) | :web: |
+| ^^ | [Asbplayer](https://killergerbah.github.io/asbplayer/) [:src:](https://github.com/killergerbah/asbplayer) | :web::cr: |
+| ^^ | :prev: [Yomine](https://github.com/mcgrizzz/Yomine) | |
+| ^^ | [Emby Jimaku](https://github.com/bpwhelan/Emby.Jimaku) | |
+| ^^ | [Voracious](https://voracious.app/) [:src:](https://github.com/rsimmons/voracious) | :win::lin: |
+| ^^ | [Zak's asbplayer](https://zakwarsame.github.io/asbplayer/) [:src:](https://github.com/zakwarsame/asbplayer) | :web: |
+| **mpv** | [Anacreon MPV script](https://github.com/friedrich-de/Anacreon-Script) <Badge type="info" text="animecards" link="https://animecards.site/minefromanime/" /> | |
+| ^^ | [autosubsync mpv](https://github.com/Ajatt-Tools/autosubsync-mpv) | |
+| ^^ | [memento](https://github.com/ripose-jp/Memento) | :win::app::lin: |
+| ^^ | [mpvacious](https://github.com/Ajatt-Tools/mpvacious) | :win::lin: |
+| ^^ | [mpv anki mining config](https://github.com/kamperemu/jp-mpv-conf) | |
+| ^^ | [mpv jimaku](https://github.com/ZXY101/mpv-jimaku) | |
+| ^^ | [mpv retiming scripts](https://github.com/Ulidtsoa01/mpv-retiming-scripts) | |
+| ^^ | [mpv sub scripts](https://github.com/peldas/mpv-sub-scripts) | |
+| ^^ | [mpv subversive](https://github.com/nairyosangha/mpv-subversive) | |
+| **Reader** | [Mokuro](https://github.com/kha-white/mokuro) | :win::app::lin: |
+| ^^ | :prev: [ZXY101's fork](https://github.com/ZXY101/mokuro-reader) | |
+| ^^ | :prev: [KojoZero's fork](https://github.com/KojoZero/mokuro-reader) | |
+| ^^ | :prev: [Mokuro Catalog](https://mokuro.moe/catalog/) | |
+| ^^ | :prev: [Mokuro.moe Full Manga Catalog](https://rentry.org/wotadirect#japansoftware) | |
+| ^^ | [ttsu Ebook Reader](https://reader.ttsu.app/) [:src:](https://github.com/ttu-ttu/ebook-reader) | :web: |
 
 
 ### Browser
@@ -189,46 +179,70 @@ ___
 
 ### Tools
 
-#### Dictionary / Word Lookup
-- [GoldenDict-NG](https://xiaoyifang.github.io/goldendict-ng/) [:help:](https://tatsumoto.neocities.org/blog/setting-up-goldendict) <Badge type="tip" text="Tools" link="https://github.com/Ajatt-Tools/gd-tools" />
-- [Kamite](https://github.com/fauu/Kamite)
-- [japReader](https://github.com/marisukukise/japReader)
-- [JL](https://github.com/rampaa/JL)
-___
-#### Subtitles
-- **SRS**
-  - [subs2srs](https://subs2srs.sourceforge.net/) :win:
-  - [subtitles-rs](https://github.com/emk/subtitles-rs) :app::lin:
-  - [subs2cia](https://github.com/dxing97/subs2cia) :app::lin:
-- **Others**
-  - [Subtitle Downloader](https://github.com/wayneclub/Subtitle-Downloader) :win::app::lin:
-  - [Nekomoe JP Formatter](https://jp-formatter.pages.dev/) :web: [:src:](https://github.com/Nekomoekissaten-SUB/nekomoe-jp-formatter)
-  - [SubPlz](https://github.com/kanjieater/SubPlz/) :win::lin:
-  - [Sub transition](https://github.com/Ajatt-Tools/sub-transition) :simple-icons-mpv:
-  - [Subtitle Character Counter](https://cademcniven.com/subtitleCharacterCounter.html) :web:
-  - [Resource list for subtitle-related things](https://rentry.co/jpsub)
-- [General subtitle tools](/tools#video-tools)
-___
-#### Audio tools
-- [Automatic Condensed Audio Dialogue Script](https://anacreondjt.gitlab.io/docs/condensed_audio/)
-- [Koemoe](https://condense.moe/)
-- [Tenacity](https://tenacityaudio.org/) :win::lin:
-- [Immersion pod](https://github.com/Ajatt-Tools/impd)
-___
-#### Games/VN
-- [EXSTATIC](https://github.com/KamWithK/exSTATic)
-- [Luna Translator](https://github.com/HIllya51/LunaTranslator)
-- [Textractor](https://github.com/Artikash/Textractor) [:help:](https://lazyguidejp.github.io/jp-lazy-guide/setupVnOnPC/)
-- [Chenx221's Textractor fork](https://github.com/Chenx221/Textractor)
-- [Texthooker UI](https://github.com/Renji-XD/texthooker-ui)
-- [Textractor websocket](https://github.com/kuroahna/textractor_websocket)
-- [Trim Japanese Game Audio](https://github.com/bpwhelan/TrimJapaneseGameAudio/)
-___
-#### Others
-- [ComicEater](https://github.com/kanjieater/ComicEater)
-- [Furiganalyse](https://furiganalyse.itsupera.co/) :web: [:src:](https://github.com/itsupera/furiganalyse)
-- [GenkiYoshi](https://github.com/FragozoLeonardo/Genki-Yoshi)
-- [imajin.py](https://github.com/YonKuma/imajin.py)
-- [LN Readability](https://colab.research.google.com/github/Gilfaro/ln-recommender/blob/main/LNReadability.ipynb)
-- [Supermemo](https://super-memory.com/) <Badge type="warning" text="Trialware"/><Badge type="tip" text="Wiki" link="https://www.supermemo.wiki/en/home" />
-- :more: [OCR section](/software#ocr)
+| Category | Software | Platform |
+| :--- | :--- | :--- |
+| **Dictionary** | [GoldenDict-NG](https://xiaoyifang.github.io/goldendict-ng/) [:help:](https://tatsumoto.neocities.org/blog/setting-up-goldendict) | |
+| ^^ | [Kamite](https://github.com/fauu/Kamite) | |
+| ^^ | [japReader](https://github.com/marisukukise/japReader) | |
+| ^^ | [JL](https://github.com/rampaa/JL) | |
+| **Subtitles** | [subs2srs](https://subs2srs.sourceforge.net/) | :win: |
+| ^^ | [subtitles-rs](https://github.com/emk/subtitles-rs) | :app::lin: |
+| ^^ | [subs2cia](https://github.com/dxing97/subs2cia) | :app::lin: |
+| ^^ | [Subtitle Downloader](https://github.com/wayneclub/Subtitle-Downloader) | :win::app::lin: |
+| ^^ | [Nekomoe JP Formatter](https://jp-formatter.pages.dev/) [:src:](https://github.com/Nekomoekissaten-SUB/nekomoe-jp-formatter) | :web: |
+| ^^ | [SubPlz](https://github.com/kanjieater/SubPlz/) | :win::lin: |
+| ^^ | [Sub transition](https://github.com/Ajatt-Tools/sub-transition) | :simple-icons-mpv: |
+| ^^ | [Subtitle Character Counter](https://cademcniven.com/subtitleCharacterCounter.html) | :web: |
+| ^^ | [Resource list for subtitle-related things](https://rentry.co/jpsub) | |
+| ^^ | [General subtitle tools](/tools#video-tools) | |
+| **Audio tools** | [Automatic Condensed Audio Dialogue Script](https://anacreondjt.gitlab.io/docs/condensed_audio/) | |
+| ^^ | [Koemoe](https://condense.moe/) | |
+| ^^ | [Tenacity](https://tenacityaudio.org/) | :win::lin: |
+| ^^ | [Immersion pod](https://github.com/Ajatt-Tools/impd) | |
+| **Games/VN** | [EXSTATIC](https://github.com/KamWithK/exSTATic) | |
+| ^^ | [Textractor](https://github.com/Artikash/Textractor) [:help:](https://lazyguidejp.github.io/jp-lazy-guide/setupVnOnPC/) | |
+| ^^ | :prev: [Chenx221's Textractor fork](https://github.com/Chenx221/Textractor) | |
+| ^^ | :prev: [Texthooker UI](https://github.com/Renji-XD/texthooker-ui) | |
+| ^^ | :prev: [Textractor websocket](https://github.com/kuroahna/textractor_websocket) | |
+| ^^ | [Trim Japanese Game Audio](https://github.com/bpwhelan/TrimJapaneseGameAudio/) | |
+| Others | [ComicEater](https://github.com/kanjieater/ComicEater) | |
+| ^^ | [Furiganalyse](https://furiganalyse.itsupera.co/) [:src:](https://github.com/itsupera/furiganalyse) | :web: |
+| ^^ | [GenkiYoshi](https://github.com/FragozoLeonardo/Genki-Yoshi) | |
+| ^^ | [imajin.py](https://github.com/YonKuma/imajin.py) | |
+| ^^ | [LN Readability](https://colab.research.google.com/github/Gilfaro/ln-recommender/blob/main/LNReadability.ipynb) | |
+| ^^ | [Supermemo](https://super-memory.com/) <Badge type="warning" text="Trialware"/><Badge type="tip" text="Wiki" link="https://www.supermemo.wiki/en/home" /> | |
+
+
+## OCR
+
+| Software | Platform |
+| :--- | :--- |
+| [Chrome Lens OCR](https://github.com/dimdenGD/chrome-lens-ocr) | :npm: |
+| [Game Sentence Miner](https://github.com/bpwhelan/GameSentenceMiner) | :win::app::lin: |
+| [Manga OCR](https://github.com/kha-white/manga-ocr) | :py: |
+| [Meikipop](https://github.com/rtr46/meikipop) | :py: |
+| [Mokuro](https://github.com/kha-white/mokuro) | :py: |
+| [OwOCR](https://github.com/AuroraWright/owocr) | :py: |
+| [Poricom](https://github.com/blueaxis/Poricom) | :win: |
+
+::: details More
+| Focus | Software | Platforms |
+| :--- | :--- | :--- |
+| **General** | [Kanji Tomo](https://www.kanjitomo.net/) [:src:](https://github.com/sakarika/kanjitomo-ocr) | :win: |
+| ^^ | [Manatan](https://manatan.com/) [:src:](https://github.com/KolbyML/Manatan) | :and::ios::win::app::lin: |
+| ^^ | [Yomiwa](https://www.yomiwa.net/) :cs: | :and::ios: |
+| **Manga** | [Ballons Translator](https://github.com/dmMaze/BallonsTranslator) | :win::py: |
+| ^^ | [Chimahon](https://github.com/sohilsayed/chimahon) | :and: |
+| ^^ | [Capture2text](https://capture2text.sourceforge.net/) | :win: |
+| ^^ | [OCR Manga Reader](https://ocrmangareaderforandroid.sourceforge.net/) [:src:](https://sourceforge.net/projects/ocrmangareaderforandroid/) | :and: |
+| ^^ | [Lancet](https://github.com/Ajatt-Tools/lancet) | :win::py: |
+| **Games** | [Agent](https://github.com/0xDC00/agent) | :win::app::lin: |
+| ^^ | [Interpreter](https://github.com/bquenin/interpreter) | :win::app::lin: |
+| ^^ | [MTool](https://mtool.app/?lang=en) :cs::fm: | :win::and: |
+| ^^ | [Luna Translator](https://github.com/HIllya51/LunaTranslator) | :win: |
+| ^^ | [YomiNinja](https://github.com/matt-m-o/YomiNinja) | :win::app::lin: |
+:::
+
+:::danger Don't use MTL
+Using Machine Translation to translate manga will be a mess. Language has lots of slang, cultural references, and visual elements that MTL won't understand. So, it's better to have a human translator who knows the language and culture well. You don't want to end up with a wonky or inaccurate translation!
+:::

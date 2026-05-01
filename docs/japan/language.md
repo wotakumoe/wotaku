@@ -102,7 +102,7 @@ og:
 - [Kenji Sugimoto](https://www.kenjisugimoto.com/shuji/index.html?shuji=%E3%81%8A%E6%89%8B%E6%9C%AC)
 - [Kanji Game](https://kotobaweb.com/kanjigame/create)
 - [Onomato Project](https://onomatoproject.com/)
-
+- [The Tiny Japanese Practice Tool](https://japanese.thetinywisdom.com/)
 
 
 ### Pitch Accent

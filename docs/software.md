@@ -408,39 +408,6 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 [**Android apps**](#manga-readers) that support the mihon extension system, can be used as clients for Jellyfin, Komga, Kavita & LANraragi. You can get extensions from [**here**](/guides/tech/repo).
 :::
 
-## OCR
-
-| Software | Platform |
-| :--- | :--- |
-| [Chrome Lens OCR](https://github.com/dimdenGD/chrome-lens-ocr) | :npm: |
-| [Game Sentence Miner](https://github.com/bpwhelan/GameSentenceMiner) | :win::app::lin: |
-| [Manga OCR](https://github.com/kha-white/manga-ocr) | :py: |
-| [Meikipop](https://github.com/rtr46/meikipop) | :py: |
-| [Mokuro](https://github.com/kha-white/mokuro) | :py: |
-| [OwOCR](https://github.com/AuroraWright/owocr) | :py: |
-| [Poricom](https://github.com/blueaxis/Poricom) | :win: |
-
-::: details More
-| Focus | Software | Platforms |
-| :--- | :--- | :--- |
-| **General** | [Kanji Tomo](https://www.kanjitomo.net/) [:src:](https://github.com/sakarika/kanjitomo-ocr) | :win: |
-| ^^ | [Manatan](https://manatan.com/) [:src:](https://github.com/KolbyML/Manatan) | :and::ios::win::app::lin: |
-| ^^ | [Yomiwa](https://www.yomiwa.net/) :cs: | :and::ios: |
-| **Manga** | [Ballons Translator](https://github.com/dmMaze/BallonsTranslator) | :win::py: |
-| ^^ | [Capture2text](https://capture2text.sourceforge.net/) | :win: |
-| ^^ | [OCR Manga Reader](https://ocrmangareaderforandroid.sourceforge.net/) [:src:](https://sourceforge.net/projects/ocrmangareaderforandroid/) | :and: |
-| ^^ | [Lancet](https://github.com/Ajatt-Tools/lancet) | :win::py: |
-| **Games** | [Agent](https://github.com/0xDC00/agent) | :win::app::lin: |
-| ^^ | [Interpreter](https://github.com/bquenin/interpreter) | :win::app::lin: |
-| ^^ | [MTool](https://mtool.app/?lang=en) :cs::fm: | :win::and: |
-| ^^ | [Luna Translator](https://github.com/HIllya51/LunaTranslator) | :win: |
-| ^^ | [YomiNinja](https://github.com/matt-m-o/YomiNinja) | :win::app::lin: |
-:::
-
-:::danger Don't use MTL
-Using Machine Translation to translate manga will be a mess. Language has lots of slang, cultural references, and visual elements that MTL won't understand. So, it's better to have a human translator who knows the language and culture well. You don't want to end up with a wonky or inaccurate translation!
-:::
-
 ## Others
 
 | Category       | Resource                                                       | Platform             |
