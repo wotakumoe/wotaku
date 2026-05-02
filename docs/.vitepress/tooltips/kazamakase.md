@@ -1,1 +1,0 @@
-Does not get much update but has info about old comics.

@@ -67,14 +67,18 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 
 ## Anime
 - [aniDB](https://anidb.net/) :s:
-- [Anikore](https://www.anikore.jp/) :ljp:
-- [AnimeDB](https://animedb.jp/) :ljp:
 - [AnimeSongs.org](https://animesongs.org/)
-- [Annict](https://annict.com/) :ljp:
 - [Aniplaylist](https://aniplaylist.com/)
+- [AnimeDB](https://animedb.jp/) :ljp:
+- [NeoApo](https://neoapo.com/) :ljp:
+
+::: details More
+- [Anikore](https://www.anikore.jp/) :ljp:
+- [Annict](https://annict.com/) :ljp:
 - [Simkl](https://simkl.com/)
 - [TMDB](https://www.themoviedb.org/)
 - [TVDB](https://www.thetvdb.com/)
+:::
 
 ## Manga
 - [MangaUpdates](https://www.mangaupdates.com/) :s:
@@ -83,18 +87,16 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 
 ::: details More
 - [Chill Chill](https://www.chil-chil.net/) :ero::ljp:
-- [Comic Bibliographic and Cover Archives](https://web.archive.org/web/20220928162853/http://www.eshita.jp/comics/index.html)
+- [Comic Bibliographic and Cover Archives](http://www.eshita.jp/comics/index.html) :ljp:
 - [Comic Vine](https://comicvine.gamespot.com/)
-- [Kazamkase Comic Database](https://kazemakase.wjg.jp/comics/) ==kazamakase==
+- [Kazamkase Comic Database](https://kazemakase.wjg.jp/comics/) :ljp:
 - [LAMA](https://lama.watch/)
-- [Shounen Manga Encyclopedia](https://comicdate.web.fc2.com/) `fc2`
-- [Shounen Manga Encyclopedia](https://allcomic.noor.jp/) `noor`
+- [Shounen Manga Encyclopedia](https://allcomic.noor.jp/)
 - [Touhou Doujinshi Index](https://scarlet.nsk.sh/) [:src:](https://github.com/nanoskript/touhou-doujinshi-index) <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" />
 :::
 
 ## Novels
 - [Novel Updates](https://www.novelupdates.com/) :s:
-- [MangaBaka](https://mangabaka.org/) :s:
 - [RanobeDB](https://ranobedb.org/) :s: [:src:](https://github.com/Blastose/ranobedb)
 - [Ranobe Mori](https://ranobe-mori.net/) :ljp:
 - [Bookmeter](https://bookmeter.com/) :ljp:
