@@ -470,7 +470,7 @@ Some of the series may not be available depending on your region.
 | **CaaS** | [Comikey](https://comikey.com/) | :coin::free: |
 | ^^ | [Coolmic](https://coolmic.me/) :ero: | :sub::coin::free: |
 | ^^ | [INKR](https://comics.inkr.com/) :ero: | :coin::free: | 
-| ^^ | [KManga](https://kmanga.kodansha.com/) <tooltip>Available in the United States, the Philippines, Thailand, Vietnam, Hong Kong, Taiwan, India, Mexico, and Brazil.</tooltip> | :coin::free: | 
+| ^^ | [KManga](https://kmanga.kodansha.com/) <tooltip>Available in the United States, the Philippines, Thailand, Vietnam, Hong Kong, Taiwan, India, Mexico, and Brazil.</tooltip> | :sub::coin::free: | 
 | ^^ | [Manga Plus](https://mangaplus.shueisha.co.jp/) | :sub::free: |
 | ^^ | [Manga UP!](https://global.manga-up.com/) | :sub::coin::free: |
 | ^^ | [Mangamo](https://www.mangamo.com/) | :sub::coin::free: |
