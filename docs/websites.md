@@ -80,16 +80,16 @@ outline: 1
 
 | Category | Websites |
 | :--- | :--- |
-| [One Pace Project](https://linktr.ee/onepaceproject) | [Official Site](https://onepace.net/en/watch) |
+| [**One Pace Project**](https://linktr.ee/onepaceproject) | [Official Site](https://onepace.net/en/watch) |
 | ^^ | [Unofficial Site](https://onepace.co/) |
 | ^^ | [Stremio Addon](https://github.com/au2001/onepace-stremio) |
 | ^^ | [Public Subtitles](https://github.com/one-pace/one-pace-public-subtitles) |
-| Rerun Sites | [BumpWorthy](https://www.bumpworthy.com/) |
+| **Rerun Sites** | [BumpWorthy](https://www.bumpworthy.com/) |
 | ^^ | [RetroBlast](https://retroblast.tv/) |
 | ^^ | [Swim Rewind](https://swimrewind.com/) |
 | ^^ | [Toonami Aftermath](https://www.toonamiaftermath.com/) |
 | ^^ | [Toonami Remastered](https://www.toonamiremastered.com/) |
-| Others | [Gabby's Anime Edits](https://linktr.ee/gabby5202) |
+| **Others** | [Gabby's Anime Edits](https://linktr.ee/gabby5202) |
 | ^^ | [SBY Stream](https://sbystream.com/) |
 | ^^ | [Sonic Zone TV](https://soniczone.net/tv/home.html) |
 | ^^ | [Japanese Animated Film Classics](https://animation.filmarchives.jp/en/index.html) |
@@ -416,11 +416,11 @@ These sites contain a mix of both actual and AI-generated novels.
 ### Platforms
 | Type | Website |
 | :--- | :--- |
-| Dedicated | [Crunchyroll](https://www.crunchyroll.com/)
+| **Dedicated** | [Crunchyroll](https://www.crunchyroll.com/)
 | ^^ | [HIDIVE](https://www.hidive.com/)
 | ^^ | [RetroCrush](https://www.retrocrush.tv/home)
 | ^^ | [OceanVeil](https://oceanveil.net/) :ero:
-| General | [Bilibili](https://www.bilibili.tv/en/anime)
+| **General** | [Bilibili](https://www.bilibili.tv/en/anime)
 | ^^ | [Disney+](https://www.disneyplus.com/)
 | ^^ | [HBO Max](https://www.hbomax.com/)
 | ^^ | [Netflix](https://www.netflix.com/)
@@ -431,7 +431,7 @@ These sites contain a mix of both actual and AI-generated novels.
 ### YouTube
 | Type | Channel |
 | :--- | :--- |
-| General | [Anime Bancho](https://www.youtube.com/@AnimeBancho) |
+| **General** | [Anime Bancho](https://www.youtube.com/@AnimeBancho) |
 | ^^ | [Anime Manga Official by Kodansha](https://www.youtube.com/@AnimeMangaOfficial) |
 | ^^ | [Ani-One Asia](https://www.youtube.com/@AniOneAsia) |
 | ^^ | [Cartoon Power Up](https://www.youtube.com/@CartoonPowerUp) |
@@ -440,13 +440,13 @@ These sites contain a mix of both actual and AI-generated novels.
 | ^^ | [Muse Asia](https://www.youtube.com/@MuseAsia) |
 | ^^ | [TMS Official](https://www.youtube.com/@AnimeonTMSOfficialChannel) |
 | ^^ | [Tropics Anime Asia](https://www.youtube.com/@TropicsAnimeAsia) |
-| Series | [Akane-banashi Global](https://www.youtube.com/@akane-banashi_global) |
+| **Series** | [Akane-banashi Global](https://www.youtube.com/@akane-banashi_global) |
 | ^^ | [Arait Play English](https://www.youtube.com/@AraitPlayEnglish) <Badge type="info" text="Inazuma Eleven"/> |
 | ^^ | [BEYBLADE English](https://www.youtube.com/@BeybladeOfficial) <Badge type="tip" text="Old" link="https://www.youtube.com/@beyblade-official" /> |
 | ^^ | [CARDFIGHT Vanguard](https://www.youtube.com/@CARDFIGHTVanguard) |
 | ^^ | [Official Yu-Gi-Oh!](https://www.youtube.com/@yugioh) |
 | ^^ | [Pokémon TV](https://www.youtube.com/@OfficialPoke%CC%81monTV) |
-| Cartoon | [Code Lyoko US](https://www.youtube.com/@CODELYOKOENGLISHOFFICIAL) |
+| **Cartoon** | [Code Lyoko US](https://www.youtube.com/@CODELYOKOENGLISHOFFICIAL) |
 | ^^ | [Huntik: Secrets & Seekers](https://www.youtube.com/@HuntikOfficial) |
 | ^^ | [Valerian & Laureline US](https://www.youtube.com/@valerianlaurelineenglishof984) |
 
