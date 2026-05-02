@@ -25,6 +25,7 @@ import { icons as uil } from '@iconify-json/uil'
 import { icons as map } from '@iconify-json/map'
 import { icons as bi } from '@iconify-json/bi'
 import { icons as sl } from '@iconify-json/streamline-logos'
+import { icons as su } from '@iconify-json/streamline-ultimate'
 
 // 1. Install emoji pack with `pnpm add -D @iconify-json/<icon>`
 // 2. Import them like I did above
@@ -46,6 +47,7 @@ const emojis: { pack: IconifyJSON; prefix?: string }[] = [
   { pack: map, prefix: 'map-' },
   { pack: bi, prefix: 'bi-' },
   { pack: sl, prefix: 'streamline-logos-' },
+  { pack: su, prefix: 'streamline-ultimate-' },
   { pack: iconoir, prefix: 'iconoir-' }
 ]
 
@@ -133,7 +135,7 @@ const aliasDefs: Record<string, [string, string?]> = {
   wikip: ['simple-icons-wikipedia','WikiPedia'],
 
   // Price
-  paid: ['ic-round-attach-money', 'Paid'],
+  paid: ['streamline-ultimate-cash-payment-bills-bold', "Good ol' money"],
   fm: ['ic-round-add-shopping-cart', 'Freemium'],
   free: ['ic-round-money-off-csred', 'Has free content'],
   sub: ['ic-round-currency-exchange', 'Subscription'],
