@@ -65,13 +65,13 @@ Most apps in [**software**](/software) supports multilingual sources
 
 | Category | Website |
 | :--- | :--- |
-| **Anime** | [Anime Balkan](https://animebalkan.org/) [:alt:](https://animebalkan.gg/) |
+| **Anime** | [Anime Balkan](https://animebalkan.org/) |
 | ^^ | [AnimeOverdose](https://www.anime-overdose.com/) |
 | ^^ | [Anime Srbija](https://www.animesrbija.com/) |
 | ^^ | [AniPiece](https://anipiece.net/) |
 | ^^ | [BalkanFlix](https://www.balkanflix.com/) |
-| ^^ | [Gledaj Crtaće (.org)](https://www.gledajcrtace.org/) |
 | ^^ | [Gledaj Crtaće (.rs)](https://www.gledajcrtace.rs/) |
+| ^^ | [Ranime](https://ranime.net/) |
 | **Manga** | [L&B Pirates](https://lnbmange.com/) |
 | **News** | [Potamanime](https://potamanime.rs/) |
 
@@ -302,7 +302,6 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [Anime World India](https://watchanimeworld.net/) + :len: |
 | ^^ | [AniMoye](https://animoye.com/) + :len: |
 | ^^ | [Desi Dub Anime](https://www.desidubanime.me/) |
-| ^^ | [Dora Bash](https://dorabash.in/) + :len: |
 | ^^ | [Kartoons](https://kartoons.me/home) |
 | ^^ | [PirateXPlay](https://piratexplay.cc/home) + :len: |
 | ^^ | [ToonStream](https://toonstream.dad/home/) + :len: |
@@ -430,7 +429,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | [Manga Zone](http://www.manga-zone.org/) | :yes: | :no: | :yes: |
 | [Manga ZIP](https://manga-zip.is/post) | :yes: | :no: | :yes: |
 | [Rawinstant](https://rawinstant.net/manga/) | :yes: | :yes: | :yes: |
-| [Raw Cans](http://raw-cans.net/) | :yes: | :no: | :yes: |
 | [Raw Manga Archive](https://mangasora.net/) | :yes: | :yes: | :yes: |
 | [RAWS MANGA](https://rawsmanga.com/) | :yes: | :yes: | :yes: |
 | [X3DL.NET](https://x3dl.net/wp/) | :yes: | :yes: | :yes: |
@@ -702,7 +700,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [Goc Truyen Tranh](https://goctruyentranh.net/) |
 | ^^ | [MangaMAX](https://manga-max.vercel.app/) [:src:](https://github.com/huynlx/MangaMAX) |
 | ^^ | [NhatTruyen](https://nhattruyenqq.com/) |
-| ^^ | [Than Vuc](https://thanvuc.com/) |
 | ^^ | [TopTruyen](https://www.toptruyentv11.com/) |
 | ^^ | [TruyenQQ](https://truyenqqgo.com/) |
 | ^^ | [VlogTruyen](https://vlogtruyen58.com/) |
