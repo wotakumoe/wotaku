@@ -19,12 +19,12 @@ import { icons as materials } from '@iconify-json/material-symbols'
 import { icons as mdi } from '@iconify-json/mdi'
 import { icons as mingcute } from '@iconify-json/mingcute'
 import { icons as octicon } from '@iconify-json/octicon'
-import { icons as ri } from '@iconify-json/ri'
 import { icons as simple } from '@iconify-json/simple-icons'
 import { icons as twemoji } from '@iconify-json/twemoji'
 import { icons as uil } from '@iconify-json/uil'
 import { icons as map } from '@iconify-json/map'
 import { icons as bi } from '@iconify-json/bi'
+import { icons as sl } from '@iconify-json/streamline-logos'
 
 // 1. Install emoji pack with `pnpm add -D @iconify-json/<icon>`
 // 2. Import them like I did above
@@ -42,10 +42,10 @@ const emojis: { pack: IconifyJSON; prefix?: string }[] = [
   { pack: simple, prefix: 'simple-icons-' },
   { pack: lucide, prefix: 'lucide-' },
   { pack: uil, prefix: 'uil-' },
-  { pack: ri, prefix: 'ri-' },
   { pack: akar, prefix: 'akar-icons-' },
   { pack: map, prefix: 'map-' },
   { pack: bi, prefix: 'bi-' },
+  { pack: sl, prefix: 'streamline-logos-' },
   { pack: iconoir, prefix: 'iconoir-' }
 ]
 
@@ -56,8 +56,8 @@ const aliasDefs: Record<string, [string, string?]> = {
   // Operating System
   and: ['simple-icons-android', 'Android'],
   ios: ['simple-icons-apple', 'iOS / iPadOS'],
-  win: ['simple-icons-windows', 'Windows'],
-  app: ['ri-finder-fill', 'MacOS'],
+  win: ['streamline-logos-microsoft-windows-logo-1-solid', 'Windows'],
+  app: ['streamline-logos-mac-finder-logo-solid', 'MacOS'],
   lin: ['simple-icons-linux', 'Linux'],
   bsd: ['simple-icons-freebsd', 'BSD'],
   cmd: ['material-symbols-terminal-rounded', 'CLI / TUI'],
@@ -106,7 +106,7 @@ const aliasDefs: Record<string, [string, string?]> = {
   sp: ['lucide-file', 'Single Page Mode'],
   dp: ['lucide-book-open', 'Dual Page Mode'],
   ls: ['lucide-scroll', 'Long-Strip Mode'],
-  lsg: ['ri-page-separator', 'Long-Strip with gaps'],
+  lsg: ['material-symbols-page-footer-sharp', 'Long-Strip with gaps'],
 
   // Tracking
   mal: ['simple-icons-myanimelist', 'MyAnimeList'],

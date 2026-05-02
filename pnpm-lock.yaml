@@ -168,12 +168,12 @@ importers:
       '@iconify-json/octicon':
         specifier: ^1.2.17
         version: 1.2.17
-      '@iconify-json/ri':
-        specifier: ^1.2.6
-        version: 1.2.6
       '@iconify-json/simple-icons':
         specifier: ^1.2.57
         version: 1.2.57
+      '@iconify-json/streamline-logos':
+        specifier: ^1.2.0
+        version: 1.2.0
       '@iconify-json/twemoji':
         specifier: ^1.2.4
         version: 1.2.4
@@ -783,11 +783,11 @@ packages:
   '@iconify-json/octicon@1.2.17':
     resolution: {integrity: sha512-U/mznjeCeZzuqpP25zWGcF4amLaYnNLs9sTN2hYALa+28n33KUXj/XjLmpAjIUvsyvn91jxfwdxSE79HfM4jCg==}
 
-  '@iconify-json/ri@1.2.6':
-    resolution: {integrity: sha512-tGXRmXtb8oFu8DNg9MsS1pywKFgs9QZ4U6LBzUamBHaw3ePSiPd7ouE64gzHzfEcR16hgVaXoUa+XxD3BB0XOg==}
-
   '@iconify-json/simple-icons@1.2.57':
     resolution: {integrity: sha512-/yWbO502M6WfvmcV5OjEgA4uoPN/76nrn7Hri/8g9L4GiNQ6VMgXWE9vFp4tDsmGMAe4ZCov3NbH6vJCgXZ1hA==}
+
+  '@iconify-json/streamline-logos@1.2.0':
+    resolution: {integrity: sha512-eEMC8BvJTCUiR/xdAjKuJwRGnKV5v9Prp2wgONFLKILq1om/5Pz+EUsFXVqYSVeIAUfguaB2tjy1wM7wJbs0IQ==}
 
   '@iconify-json/twemoji@1.2.4':
     resolution: {integrity: sha512-REYJeXhzaLktNe32DxJJf3t65sYC5KO9K0Jh+RApXRBAo1/IB+jBqd8rny2sXci+wtQLBEfD4z4AGCLBrTMGWA==}
@@ -4435,11 +4435,11 @@ snapshots:
     dependencies:
       '@iconify/types': 2.0.0
 
-  '@iconify-json/ri@1.2.6':
+  '@iconify-json/simple-icons@1.2.57':
     dependencies:
       '@iconify/types': 2.0.0
 
-  '@iconify-json/simple-icons@1.2.57':
+  '@iconify-json/streamline-logos@1.2.0':
     dependencies:
       '@iconify/types': 2.0.0
 
