@@ -106,7 +106,8 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | Category | Resource |
 | :--- | :--- |
 | General | [Anisil](https://www.anisil.com/) :ljp: |
-| Animation | [Anime Staff Matcher](https://staff.iklone.org/) :mal: [:src:](https://github.com/iklone/anime-staff-matcher) |
+| Animation | [Anime Production Company Database](https://animeco.link/) :ljp: |
+| ^^ | [Anime Staff Matcher](https://staff.iklone.org/) :mal: [:src:](https://github.com/iklone/anime-staff-matcher) |
 | ^^ | [KeyFrame Staff List](https://keyframe-staff-list.com/) :s: |
 | Seiyuu / Voice Actor | [Maumau ☆ Anime Viewing Record](https://www.mau2.com/) :s::ljp: |
 | ^^ | [Anime Hack](https://anime.eiga.com/person/) :ljp: |
