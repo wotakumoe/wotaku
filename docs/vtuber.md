@@ -33,8 +33,7 @@ og:
 | ^^         | [VTuber Schedule](https://vtuberschedules.com/) [:src:](https://github.com/clovenski/vtuber-schedules) |
 | News       | [VTuber Highlights](https://vtuber.atodeyo.com/) :ljp: |
 | ^^         | [VTuber Newsdrop](https://vtubernewsdrop.com/) |
-| Non-English | [VTBs in Bilibili!](https://vtbs.moe/) :lcn: [:src:](https://github.com/dd-center/vtbs.moe/) |
-| ^^          | [臺灣 VTuber 列表](https://taiwanvtuberdata.github.io/) :ltw: [:src:](https://github.com/TaiwanVtuberData/TaiwanVtuberTrackingData) |
+| Non-English | [臺灣 VTuber 列表](https://taiwanvtuberdata.github.io/) :ltw: [:src:](https://github.com/TaiwanVtuberData/TaiwanVtuberTrackingData) |
 | Others     | [Mogu](https://mogu.holopirates.moe/) |
 
 ## Hololive
