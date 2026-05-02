@@ -463,21 +463,22 @@ Some of the series may not be available depending on your region.
 
 ## Manga
 
-| Category | Websites |  
-|----------|----------|  
-| **General** | [Omoi](https://www.omoi.com/) |
-| ^^ | [Renta!](https://www.ebookrenta.com/) |  
-| **CaaS** | [Comikey](https://comikey.com/) |  
-| ^^ | [Coolmic](https://coolmic.me/) :ero: |
-| ^^ | [INKR](https://comics.inkr.com/) :ero: |  
-| ^^ | [KManga](https://kmanga.kodansha.com/) <tooltip>Available in the United States, the Philippines, Thailand, Vietnam, Hong Kong, Taiwan, India, Mexico, and Brazil.</tooltip> |  
-| ^^ | [Manga Plus](https://mangaplus.shueisha.co.jp/) |  
-| ^^ | [Manga UP!](https://global.manga-up.com/) |  
-| ^^ | [Mangamo](https://www.mangamo.com/) |  
-| **Volume** | [Manga Mirai](https://mangamirai.com/) |
-| ^^ | [Shonen Jump](https://www.viz.com/sj-offer) <tooltip>Available in the United States, Canada, the United Kingdom, Ireland, New Zealand, Australia, South Africa, the Philippines, Singapore, and India.</tooltip> |  
-| ^^ | [VIZ Manga](https://www.viz.com/vm-offer) <tooltip>Available in the United States, the United Kingdom, Canada, Australia, New Zealand, and Ireland.</tooltip> |  
-| ^^ | [Yen Press](https://yenpress.com/) |  
+| Category | Websites | Payment |
+|----------|----------|-|
+| **General** | [Omoi](https://www.omoi.com/) | :paid::sub::free: |
+| ^^ | [Renta!](https://www.ebookrenta.com/) | :coin::free: |
+| **CaaS** | [Comikey](https://comikey.com/) | :coin::free: |
+| ^^ | [Coolmic](https://coolmic.me/) :ero: | :sub::coin::free: |
+| ^^ | [INKR](https://comics.inkr.com/) :ero: | :coin::free: | 
+| ^^ | [KManga](https://kmanga.kodansha.com/) <tooltip>Available in the United States, the Philippines, Thailand, Vietnam, Hong Kong, Taiwan, India, Mexico, and Brazil.</tooltip> | :coin::free: | 
+| ^^ | [Manga Plus](https://mangaplus.shueisha.co.jp/) | :sub::free: |
+| ^^ | [Manga UP!](https://global.manga-up.com/) | :sub::coin::free: |
+| ^^ | [Mangamo](https://www.mangamo.com/) | :sub::coin::free: |
+| ^^ | [Shonen Jump](https://www.viz.com/sj-offer) <tooltip>Available in the United States, Canada, the United Kingdom, Ireland, New Zealand, Australia, South Africa, the Philippines, Singapore, and India.</tooltip> | :sub::free: |
+| **Volume** | [Manga Mirai](https://mangamirai.com/) | :paid::free: |
+| ^^ | [VIZ Manga](https://www.viz.com/vm-offer) <tooltip>Available in the United States, the United Kingdom, Canada, Australia, New Zealand, and Ireland.</tooltip> |  :paid:  |
+| ^^ | [Yen Press](https://yenpress.com/) | :paid:  |
+
 
 ## Manhwa & Manhua
 - [Lezhin](https://www.lezhinus.com/en)
