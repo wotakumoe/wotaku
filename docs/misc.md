@@ -32,7 +32,7 @@ outline: [1,2]
   { name: 'Sakuhin Database', scrapes: { 'Anime': '', 'Manga': '', 'Novel': '', 'Games': '', 'Live Action': '', 'Tokusatsu': '' } }
 ]" />
 
-<Collapsible title="The More You Know :s:">
+<Collapsible title="The More You Know">
 
 
 | Section      | Database     | Rules |
@@ -317,7 +317,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^        | [Ermitteln](https://ermitteln.ihateani.me/) [:src:](https://github.com/noaione/cmx-ermitteln) | Comixology |  
 | ^^        | [iTunes Artwork Finder](https://bendodson.com/projects/itunes-artwork-finder/) | :apple: |
 
-<Collapsible title="Related resources {open}">
+<Collapsible title="Related resources">
 
 - [Image Max URL](https://github.com/qsniyg/maxurl) :js::ff::cr:
 - [Image Picka](https://github.com/eight04/image-picka) :ff::cr:

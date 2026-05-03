@@ -245,9 +245,11 @@ To make the cubari process easier, we have made [Kaguya](https://github.com/wota
 
 
 <Collapsible title=" Related resources">
+
 - [Manga apps for Android](/software#manga-readers) and [PC](/software#manga-readers-2)
 - [Manga downloader for PC](/software#manga)
 - [Manga related tools](/software#manga-tools)
+
 </Collapsible>
 
 
@@ -277,7 +279,9 @@ To make the cubari process easier, we have made [Kaguya](https://github.com/wota
 - [WuxiaClick](https://wuxia.click/) [:alt:](https://readnovel.eu/)
 - [Novel Hall](https://www.novelhall.com/)
 
-</Collapsible> danger AI warning
+</Collapsible>
+
+::: danger AI warning
 These sites contain a mix of both actual and AI-generated novels.
 :::
 
