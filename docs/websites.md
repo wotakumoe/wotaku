@@ -61,6 +61,7 @@ outline: 1
 </Collapsible>
 
 <Collapsible title="Donghua">
+
 - [Animekhor](https://animekhor.org/) [:tg:](https://t.me/AnimeKhorOfficial)
 - [Anoboye](https://anoboye.com/) [:d:](https://discord.gg/rzqrzCZGgY)
 - [AnimeXin](https://animexin.dev/)
@@ -74,9 +75,11 @@ outline: 1
 - [Myanime](https://myanime.live/)
 - [Top Chinese Anime](https://topchineseanime.online/) [:d:](https://discord.gg/zmAy8YuVrg) [:tg:](https://telegram.me/chineseanimecoin)
 - [WowTopix](https://wowtopix.com/)
+
 </Collapsible>
 
 <Collapsible title="Misc">
+
 | Category | Websites |
 | :--- | :--- |
 | [**One Pace Project**](https://linktr.ee/onepaceproject) | [Official Site](https://onepace.net/en/watch) |
