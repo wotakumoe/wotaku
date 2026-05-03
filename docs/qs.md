@@ -22,7 +22,6 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | ^^         | [Anime Nexus](https://anime.nexus/) |
 | **Download**  | [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap) |
 | ^^         | [Tokyo Insider](https://www.tokyoinsider.com/) :ddl: |
-| ^^         | [Kayoanime](https://kayoanime.com/) :ddl: |
 
 ### Software
 

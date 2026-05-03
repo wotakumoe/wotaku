@@ -126,7 +126,6 @@ outline: 1
 | ^^ | [AnimeOut](https://www.animeout.xyz/) :ddl::acc: [:alt:](https://animewat.ch/) |
 | ^^ | [Chauthanh](https://chauthanh.info/) :ddl::acc: |
 | ^^ | [hi10anime](https://hi10anime.com/) :ddl::mag::acc::batch: |
-| ^^ | [Kayoanime](https://kayoanime.com/) :sgd::batch: |
 | **Subtitles** | [Closed Caption Browser](https://cc.edatribe.com/#/) <Badge type="info" text="Dubtitles" /> |
 | ^^ | [Open Subtitles](https://opensubtitles.org/) |
 
@@ -416,17 +415,17 @@ These sites contain a mix of both actual and AI-generated novels.
 ### Platforms
 | Type | Website |
 | :--- | :--- |
-| **Dedicated** | [Crunchyroll](https://www.crunchyroll.com/)
-| ^^ | [HIDIVE](https://www.hidive.com/)
-| ^^ | [RetroCrush](https://www.retrocrush.tv/home)
-| ^^ | [OceanVeil](https://oceanveil.net/) :ero:
-| **General** | [Bilibili](https://www.bilibili.tv/en/anime)
-| ^^ | [Disney+](https://www.disneyplus.com/)
-| ^^ | [HBO Max](https://www.hbomax.com/)
-| ^^ | [Netflix](https://www.netflix.com/)
-| ^^ | [Pluto TV](https://pluto.tv/)
-| ^^ | [Prime Video](https://www.primevideo.com/)
-| ^^ | [Tubi](https://tubitv.com/)
+| **Dedicated** | [Crunchyroll](https://www.crunchyroll.com/) |
+| ^^ | [HIDIVE](https://www.hidive.com/) |
+| ^^ | [RetroCrush](https://www.retrocrush.tv/home) |
+| ^^ | [OceanVeil](https://oceanveil.net/) :ero: |
+| **General** | [Bilibili](https://www.bilibili.tv/en/anime) |
+| ^^ | [Disney+](https://www.disneyplus.com/) |
+| ^^ | [HBO Max](https://www.hbomax.com/) |
+| ^^ | [Netflix](https://www.netflix.com/) |
+| ^^ | [Pluto TV](https://pluto.tv/) |
+| ^^ | [Prime Video](https://www.primevideo.com/) |
+| ^^ | [Tubi](https://tubitv.com/) |
 
 ### YouTube
 | Type | Channel |
@@ -467,6 +466,7 @@ Some of the series may not be available depending on your region.
 |----------|----------|-|
 | **General** | [Omoi](https://www.omoi.com/) | :paid::sub::free: |
 | ^^ | [Renta!](https://www.ebookrenta.com/) | :coin::free: |
+| ^^ | [Yen Press](https://yenpress.com/) | :paid: |
 | **CaaS** | [Comikey](https://comikey.com/) | :coin::free: |
 | ^^ | [Coolmic](https://coolmic.me/) :ero: | :sub::coin::free: |
 | ^^ | [INKR](https://comics.inkr.com/) :ero: | :coin::free: | 
@@ -476,8 +476,11 @@ Some of the series may not be available depending on your region.
 | ^^ | [Mangamo](https://www.mangamo.com/) | :sub::coin::free: |
 | ^^ | [Shonen Jump](https://www.viz.com/sj-offer) <tooltip>Available in the United States, Canada, the United Kingdom, Ireland, New Zealand, Australia, South Africa, the Philippines, Singapore, and India.</tooltip> | :sub::free: |
 | **Volume** | [Manga Mirai](https://mangamirai.com/) | :paid::free: |
-| ^^ | [VIZ Manga](https://www.viz.com/vm-offer) <tooltip>Available in the United States, the United Kingdom, Canada, Australia, New Zealand, and Ireland.</tooltip> |  :paid:  |
-| ^^ | [Yen Press](https://yenpress.com/) | :paid:  |
+| ^^ | [Kodansha USA](https://kodansha.us/) | :paid: |
+| ^^ | [Seven Seas Entertainment](https://sevenseasentertainment.com/) | :paid: |
+| ^^ | [Square Enix](https://squareenixmangaandbooks.square-enix-games.com/en-us) | :paid: |
+| ^^ | [TOKYOPOP](https://tokyopop.com/) | :paid: |
+| ^^ | [VIZ](https://www.viz.com/) <tooltip>Subscription also available in the United States, the United Kingdom, Canada, Australia, New Zealand, and Ireland.</tooltip> | :paid: |
 
 
 ## Manhwa & Manhua
@@ -498,9 +501,8 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 
 - [BookWalker](https://bookwalker.com/)
 - [Cross Infinite World](https://www.crossinfworld.com/index.html)
-- [Dark Horse Comics](https://www.darkhorse.com/)
 - [J-Novel Club](https://j-novel.club/)
-- [Kodansha](https://kodansha.us/)
+- [Kodansha USA](https://kodansha.us/)
 - [Square Enix](https://squareenixmangaandbooks.square-enix-games.com/en-us)
 - [VIZ](https://www.viz.com/)
 - [WebNovel](https://www.webnovel.com/)
