@@ -18,13 +18,14 @@ outline: 1
 ## Stream
 
 
-| Websites | Type | Login | Tracking | Sub |
-|----------|----------------|------|----------------------|--------|
-| [AnimeKai](https://animekai.to/home) [:prx:](https://rentry.org/wotaxy#animekai) ==AnimeKai== | :sup: | :yes: | :sync::ie::msync: | :cc::oc: |
-| [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :sup: | :yes: | :sync::ie::msync: | :cc: |
-| [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :scrpr: | :no: | :no: |  :cc: |
-| [KickassAnime](https://kaa.lt/) ==KAA== | :sup: | :yes: | :msync: | :cc: |
-| [AniZone](https://anizone.to/) ==AniZone== | :sup: | :no: | :msync: | :cc: |
+| Websites                                                                                      | Type    | Login | Tracking          | Sub      | Dub          |
+| --------------------------------------------------------------------------------------------- | ------- | ----- | ----------------- | -------- | ------------ |
+| [AnimeKai](https://animekai.to/home) [:prx:](https://rentry.org/wotaxy#animekai) ==AnimeKai== | :sup:   | :yes: | :sync::ie::msync: | :cc::oc: | :en::ot::dq: |
+| [Anime Nexus](https://anime.nexus/) ==AnimeNexus==                                            | :sup:   | :yes: | :sync::ie::msync: | :cc:     | :en::ot:     |
+| [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream==                                | :scrpr: | :no:  | :no:              | :cc:     | :en::ot:     |
+| [KickassAnime](https://kaa.lt/) ==KAA==                                                       | :sup:   | :yes: | :msync:           | :cc:     | :en::ot::dq: |
+| [AniZone](https://anizone.to/) ==AniZone==                                                    | :sup:   | :no:  | :msync:           | :cc:     | :en:         |
+
 
 
 <Collapsible title="More">

@@ -100,6 +100,9 @@ const aliasDefs: Record<string, [string, string?]> = {
   sd: ['bi-badge-sd-fill', 'Video quality up to 720p'],
   sup: ['mingcute-server-fill', 'Self-uploaded (Own storage or video host)'],
   scrpr: ['mingcute-shovel-fill', 'Scraper (Pulling from other host sites)'],
+  en: ["material-symbols-mic", "English dubbed"],
+  dq: ["material-symbols-stars", "Highly Dub-Friendly"],
+  ot: ["material-symbols-mic-double", "Chinese / Other Languages"],
 
   up: ['material-symbols-upload', 'User / scanlator upload'],
   ms: ['material-symbols-file-copy-rounded', 'Multiple chapter sources'],
