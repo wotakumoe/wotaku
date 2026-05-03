@@ -225,7 +225,8 @@ og:
 | [OwOCR](https://github.com/AuroraWright/owocr) | :py: |
 | [Poricom](https://github.com/blueaxis/Poricom) | :win: |
 
-::: details More
+<Collapsible title="More">
+
 | Focus | Software | Platforms |
 | :--- | :--- | :--- |
 | **General** | [Kanji Tomo](https://www.kanjitomo.net/) [:src:](https://github.com/sakarika/kanjitomo-ocr) | :win: |
@@ -241,7 +242,8 @@ og:
 | ^^ | [MTool](https://mtool.app/?lang=en) :cs::fm: | :win::and: |
 | ^^ | [Luna Translator](https://github.com/HIllya51/LunaTranslator) | :win: |
 | ^^ | [YomiNinja](https://github.com/matt-m-o/YomiNinja) | :win::app::lin: |
-:::
+
+</Collapsible>
 
 :::danger Don't use MTL
 Using Machine Translation to translate manga will be a mess. Language has lots of slang, cultural references, and visual elements that MTL won't understand. So, it's better to have a human translator who knows the language and culture well. You don't want to end up with a wonky or inaccurate translation!

@@ -85,7 +85,8 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 <br>
 
-::: details Symbols
+<Collapsible title="Symbols">
+
 
 - Uploaded on own server -> :ddl:
 - Uploaded on Google Drive -> :sgd:
@@ -96,7 +97,8 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 - Torrent/p2p Download -> :mag:
 - Account Needed -> :acc:
 
-:::
+
+</Collapsible>
 
 ## Anime
 
@@ -499,14 +501,16 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^ | [Whipper](https://github.com/whipper-team/whipper) | :lin: |
 
 
-::: details Must Read Guides
+<Collapsible title="Must Read Guides">
+
 - [redacted Interview Prep](https://interviewfor.red/en/index.html)
 - [Sharky's Guide](https://docs.google.com/document/d/1Poj4p2W0C0Napmwd7bcustlgWrkgp71dy9HlZwUr46w/edit)
   - [Exact Audio Copy: A Guide to Perfect CD Rips](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg)
   - [EAC: CD Burning Guide](https://docs.google.com/document/d/1f0ZtHC8phVccLWc-81gNNpy1HARasN07B3j0otwS0cI/edit)
   - [XLD Guide](https://docs.google.com/document/d/1JPErA-6_2yN-WMVcFGNdIurwFS5cpqNC8GtKrOorDf8/edit)
 - [Music Hoarders Wiki](https://musichoarders.xyz/)
-:::
+
+</Collapsible>
 
 ## Vocaloid
 
@@ -599,10 +603,12 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^ | [HTTPDirFS](https://github.com/fangfufu/httpdirfs) |
 | ^^ | [upmpdcli](https://www.lesbonscomptes.com/upmpdcli/index.html) <tooltip>Expose Navidrome as a UPnP/DLNA media library. Read the [discussion](https://github.com/navidrome/navidrome/discussions/2324)</tooltip> |
 
-:::details Related Resources
+<Collapsible title="Related Resources">
+
 - [Self-hosted Music Overview](https://github.com/basings/selfhosted-music-overview)
 
-:::
+
+</Collapsible>
 
 ![](/music/mcm.webp)
 # Communities

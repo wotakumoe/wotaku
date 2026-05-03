@@ -65,16 +65,19 @@ og:
 | Digital | A digital audio signal is also a wave function. It is discrete, meaning that there are only two logical states of potential. These waves can be interpreted as logical 1s and 0s, allowing for complex logical operations. |
 
 
-::: details Pulse Code Modulation (PCM)
+<Collapsible title="Pulse Code Modulation (PCM)">
+
 PCM (Pulse Code Modulation) is the most widely used audio encoding method. It involves sampling the audio signal at regular intervals and quantizing the amplitude of each sample into a discrete value. Music is generally recorded in a PCM format. Here are a few related terms for PCM:
 
 
 - **Sample Rate**: The number of samples taken per second from the analog audio signal.
 - **Bit Depth**: The number of levels used during quantization. These levels define the number of amplitudes available to the encoder. Higher levels mean a wider range of amplitudes per sample.
 - **Channel**: The number of individual audio signals in the recording (e.g., mono, stereo).
-:::
 
-::: details Direct Stream Digital (DSD)
+</Collapsible>
+
+<Collapsible title="Direct Stream Digital (DSD)">
+
 Direct Stream Digital (DSD), a product developed by [Sony & Philips](https://www.sony.net/Products/DSD/), is known for its high-resolution audio quality. However, DSD files are relatively rare due to their low popularity. Several factors contribute to this, including their huge file size, the difficulty in mastering and editing during production, and the greater efficiency of PCM files in various aspects.
 
 DSD is an audio encoding method that uses 1-bit delta-sigma modulation. It samples the audio signal at a very high sample rate, representing changes in signal density rather than amplitude levels, and has only 1 bit of amplitude. The most popular DSD standard is .dsf, but there are other standards as well.
@@ -96,7 +99,8 @@ DSD’s high sampling rate allows for a wide dynamic range, even with a 1-bit de
 
 ![Noise in DSD64 & DSD128](https://audiophilestyle.com/uploads/monthly_2014_12/dsd64-128.jpg.b549f3da738f0349755c8778cfbbb22e.jpg)
 
-:::
+
+</Collapsible>
 
 
 ## Analog to Digital
@@ -133,11 +137,14 @@ For listeners, 44.1kHz is sufficient to represent all humanly audible frequencie
 
 Higher sampling rates are often desirable by producers as it allows them to modify the audio more flexibly without adding additional noise. It's not really relevant for playback. 
 
-::: details Dithering
-Dithering is a process used when converting from different bit widths. Converting raw audio data to a different bit width will induce quantization errors during the conversion process. These are errors caused by averaging amplitudes. A dither signal can be applied to the audio before conversion, which is effectively noise. While noise may seem undesirable, it actually improves the quantization and significantly reduces the errors during the conversion. The noise is not perceivable to humans, and does not effect the quality of a mix whatsoever.
-:::
+<Collapsible title="Dithering">
 
-::: details Nyquist–Shannon Sampling Theorem
+Dithering is a process used when converting from different bit widths. Converting raw audio data to a different bit width will induce quantization errors during the conversion process. These are errors caused by averaging amplitudes. A dither signal can be applied to the audio before conversion, which is effectively noise. While noise may seem undesirable, it actually improves the quantization and significantly reduces the errors during the conversion. The noise is not perceivable to humans, and does not effect the quality of a mix whatsoever.
+
+</Collapsible>
+
+<Collapsible title="Nyquist–Shannon Sampling Theorem">
+
 Nyquist Sampling Theorem dictates how sampling should be done in order to avoid aliasing. The primary technique is to utilize a sample rate that is twice that of the desired maximum frequency. To ensure that the entire spectrum is being sampled, a very small margin should be added to the sample frequency. For example, while the human hearing spectrum is said to cap out at 20kHz, the desired sampling frequency was chosen to be 20.05kHz. A small margin such as this aids in ensuring the desired frequencies are captured during sampling. The sample rate for audio was thus twice that value, or 44.1kHz.
 
 Another condition is bandlimiting. During the conversion of signals, high frequency distortion is added to the result. A band-pass filter helps to isolate the target frequencies from this distortion. Aliasing occurs if this distortion is not filtered. The folded wave interferes with the main wave and creates a new, unwanted sound wave.
@@ -154,7 +161,8 @@ To remove aliasing, a low pass filter (aka anti-aliasing filter) is added into b
 
 >Learn more about the [**Nyquist sampling theorem :mdi-arrow-top-right:**](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem).
 
-:::
+
+</Collapsible>
 
 
 ## Bit Depth
@@ -172,7 +180,8 @@ The increase in levels is exponential. The higher the level number, the closer t
 Increasing the bit depth blindly is counter-intuitive. For example, increasing the bit depth from 16 to 24 bits produces a barely perceivable enhancement. The file size, however, becomes much larger with the increase in depth.
 
 
-::: details Dynamic Range
+<Collapsible title="Dynamic Range">
+
 The dynamic range is the distance between the loudest and quietest sounds within a mix. The range can be calculated using this formula,
 
 ___
@@ -192,7 +201,8 @@ This formula provides the following dynamic ranges: (without any dithering appli
 
 24-bit audio possesses a dynamic range exceeding the human hearing capabilities. With the increase in file size, it may be hard to justify the storage of these higher bit width files.
 
-:::
+
+</Collapsible>
 
 
 ## Bit rate
@@ -363,7 +373,8 @@ Container is the extension name we see at the end of the file. This can be same 
 - **Metadata:** Metadata can contain info about title, artist, album, genre etc. (e.g., [ID3](https://en.wikipedia.org/wiki/ID3), [Vorbis comment](https://en.wikipedia.org/wiki/Vorbis_comment))
 - **Others:** There can be other parts too containing e.g. cue files.
 
-::: details Example: Ogg Container Structure
+<Collapsible title="Example: Ogg Container Structure">
+
 
 `.ogg` is one of the most widely used audio containers. It's very flexible. `.ogg` is structured as a series of pages which makes it easier to stream. Each page contains segments of audio data stream (or the other types of stored encoded media). Here we will describe a watered down version of `.ogg` container structure. You can read the [**full specification here :mdi-arrow-top-right:**](https://xiph.org/ogg/)
 
@@ -395,7 +406,8 @@ As mentioned before data in `.ogg` container are divided in multiple pages. Thes
 
 ![Ogg container pages](/glossary/audio/pages.jpg)
 
-:::
+
+</Collapsible>
 
 Most container formats support multiple codecs, for example `.m4a` (audio-only MP4 files) may contain **AAC**-encoded audio or **ALAC**-encoded audio (**FLAC** and **Opus** are also supported codecs as of newer revisions of the standard). Some codecs, like **MP3**, do not have/use codified container formats, and therefore the file format doesn't support other codecs.
 
@@ -427,13 +439,15 @@ Audio files can also be embedded in non-audio specific containers, such as `.mkv
   - **Lossless**: Qobuz, Apple Music, Tidal, Amazon Music, Deezer
   - **Lossy**: Spotify, YouTube Music, SoundCloud
 
-::: details More about analog sources
+<Collapsible title="More about analog sources">
+
 
 Two common analog sources are the vinyl and the cassette. 
 
 - **Vinyls** are large discs that contain grooves in a spiral fashion. These grooves are proportional to that of the sin wave embedded into them. A needle can travel along these grooves in order to reproduce the signal as an alternating current. To achieve this, the vinyl is placed onto a device called a turntable, which spins the disc at a specific speed in order to accurately reproduce the sound. Due to the nature of the needle moving along the grooves, many claim that vinyls will lose sound quality over time. While this is very true, most people buying vinyls today will not listen to them often, so their lifespan can actually be quite long.
 - **Cassettes**, also referred to as tapes, contain magnetic strips with sound information superimposed into them. This works by exposing the magnetic tape to an induced magnetic field. The field strength is proportional to the frequencies of the audio data being imposed. The magnetized particles then align in certain patterns within the tape, encoding the audio. Cassettes can be recorded and played back in a device known as a tape deck. Recording can be achieved on most tape decks, allowing the user to make tape recordings of whatever they like.
-:::
+
+</Collapsible>
 
 
 ## Transcoding
@@ -553,9 +567,11 @@ Headphones can have two distinct varieties. Closed back & Open back headphones.
 
 In ear monitors, or IEMs for short, are devices intended to be inserted into the ear for audio playback. This allows them to be a more private option for listening to music while retaining an even frequency response. IEMs are built similarly to earbuds, however, they are designed with nozzles that the music is shot out of. These nozzles are fitted with eartips, which are then inserted into the ear and suspended by the tip. This allows the tip to seal within the ear, decreasing the sound that leaks out while increasing the depth at which sound can travel. This process especially enhances the bass response.
 
-::: details More
+<Collapsible title="More">
+
 IEM configurations can be very complex. They commonly utilize multiple different drivers in a single shell. These multiple different driver type configurations are referred to as “hybrids”, and are very common within the IEM space. The main argument for their existence is that no one driver can perfectly reproduce the audio spectrum. Some driver types fail at applications that other driver types may excel at. Configuring an IEM with different types of drivers, and designing a crossover to split frequencies between these drivers should enhance the overall fidelity. In practice, there are very good single driver, multi driver, and hybrid driver configurations on the market. It all comes down to user preference. 
-:::
+
+</Collapsible>
 
 ### Speaker
 
@@ -578,16 +594,19 @@ Speakers achieve frequency separation between drivers with use of a crossover. T
 
 ![](/glossary/audio/speaker.jpg)
 
-::: details More
+<Collapsible title="More">
+
 
 Speakers come in two distinct types, active or passive units.
 
 - **Passive units** are unpowered. These devices only have speaker terminals in the back, intended to be hooked up to an external amplifier or AVR. Sound is played back as amplified signal passes through them. An external DAC and amp are required to make use of them (unless the source was analog, in which case, only an amp).
 - **Active units**, on the other hand, are powered. This implies they contain amplification circuitry (and potentially DAC circuitry) internally. Usually, these powered units will take a DC barrel plug, or a standard IEC cable in the back. They also can provide analog inputs for the internal amplifier, such as RCA or XLR. Digital inputs may also be present if the speaker contains a DAC, such as toslink optical or Bluetooth. These components, as well as the circuitry, are mounted onto a plate and screwed into the speaker. Subwoofers are commonly active units, as they allow for much more control over the subwoofer’s crossover.
 
-:::
 
-::: details Surround system identification
+</Collapsible>
+
+<Collapsible title="Surround system identification">
+
 
 Surround sound systems are commonly denoted by a number naming scheme.
 - The first number indicates the amount of speakers at the same level as the listener that are also pointed at the listener.
@@ -596,7 +615,8 @@ Surround sound systems are commonly denoted by a number naming scheme.
 
 These 3 number configurations usually imply a Dolby Atmos enabled system.
 
-:::
+
+</Collapsible>
 
 
 ## Frequency Response

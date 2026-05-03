@@ -12,7 +12,8 @@ og:
 - [Kuri's Immersion-Based Japanese Learning](https://donkuri.github.io/learn-japanese/) :s:
 - [Animecards Site](https://animecards.site/)
 
-:::details More
+<Collapsible title="More">
+
 - [Refold Japanese](https://refold.la/roadmap/)  <Badge type="tip" text="Docs" link="https://docs.google.com/document/d/1tQmoGwCJQqmjdmaQdigAG0Ph1ODSMsGhsD7qOhlUuc0/edit" />
 - [Jo-Mako's Japanese Guide](https://sites.google.com/view/jo-mako/home)
 - [Perdition's Guide](https://perdition-japanese.github.io/posts/how-to-study-japanese/)
@@ -21,7 +22,8 @@ og:
 - [r/LearnJapanese Starter's Guide](https://old.reddit.com/r/LearnJapanese/wiki/index/startersguide/)
 - [Jazzy's Guide](https://rentry.co/jazzy180)
 - [Mordraug's Personal Japanese Observations Diary](https://docs.google.com/document/d/1kxYa53a2UjnpMZyHdU-YNuctkq6wHT3cJ00Z5poj2hY/edit)
-:::
+
+</Collapsible>
 
 ## General resources
 | Site | Kana | Kanji | Grammar | Quiz | Books |

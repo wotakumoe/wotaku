@@ -32,7 +32,8 @@ outline: [1,2]
   { name: 'Sakuhin Database', scrapes: { 'Anime': '', 'Manga': '', 'Novel': '', 'Games': '', 'Live Action': '', 'Tokusatsu': '' } }
 ]" />
 
-::: details The More You Know :s:
+<Collapsible title="The More You Know :s:">
+
 
 | Section      | Database     | Rules |
 | :---         | :---         | :--- |
@@ -59,7 +60,8 @@ outline: [1,2]
 | ^^           | ^^           | If explicitly labeled as Light Novel by publishers or retailers. |
 
 
-:::
+
+</Collapsible>
 
 ::: tip Tracker related utility sites
 Visit the [**tracker utility**](#tracker) section for tracker stats and data transfer between sites.
@@ -72,20 +74,23 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 - [AnimeDB](https://animedb.jp/) :ljp:
 - [NeoApo](https://neoapo.com/) :ljp:
 
-::: details More
+<Collapsible title="More">
+
 - [Anikore](https://www.anikore.jp/) :ljp:
 - [Annict](https://annict.com/) :ljp:
 - [Simkl](https://simkl.com/)
 - [TMDB](https://www.themoviedb.org/)
 - [TVDB](https://www.thetvdb.com/)
-:::
+
+</Collapsible>
 
 ## Manga
 - [MangaUpdates](https://www.mangaupdates.com/) :s:
 - [Manba](https://manba.co.jp/) :s::ljp:
 - [Bookmeter](https://bookmeter.com/) :ljp:
 
-::: details More
+<Collapsible title="More">
+
 - [Chill Chill](https://www.chil-chil.net/) :ero::ljp:
 - [Comic Bibliographic and Cover Archives](http://www.eshita.jp/comics/index.html) :ljp:
 - [Comic Vine](https://comicvine.gamespot.com/)
@@ -93,7 +98,8 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 - [LAMA](https://lama.watch/)
 - [Shounen Manga Encyclopedia](https://allcomic.noor.jp/)
 - [Touhou Doujinshi Index](https://scarlet.nsk.sh/) [:src:](https://github.com/nanoskript/touhou-doujinshi-index) <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" />
-:::
+
+</Collapsible>
 
 ## Novels
 - [Novel Updates](https://www.novelupdates.com/) :s:
@@ -126,10 +132,12 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | Games / VN | [VNDB](https://vndb.org/) :s: |
 | ^^      | [Nepchan](https://nepchan.org/) |
 
-::: details Related resources
+<Collapsible title="Related resources">
+
 - [Tracker apps for phone](/software#trackers)
 - [Tracker software for pc](/software#trackers-1)
-:::
+
+</Collapsible>
 
 
 ![](/banner/info.webp)
@@ -309,11 +317,13 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^        | [Ermitteln](https://ermitteln.ihateani.me/) [:src:](https://github.com/noaione/cmx-ermitteln) | Comixology |  
 | ^^        | [iTunes Artwork Finder](https://bendodson.com/projects/itunes-artwork-finder/) | :apple: |
 
-::: details Related resources {open}
+<Collapsible title="Related resources {open}">
+
 - [Image Max URL](https://github.com/qsniyg/maxurl) :js::ff::cr:
 - [Image Picka](https://github.com/eight04/image-picka) :ff::cr:
 - [rRoler Bookmarklets](https://bookmarklets.roler.dev/) :js:
-:::
+
+</Collapsible>
 
 ## Image
 | Category    | Websites |
