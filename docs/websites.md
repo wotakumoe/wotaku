@@ -76,7 +76,7 @@ outline: 1
 - [WowTopix](https://wowtopix.com/)
 :::
 
-<Collapsible title="Misc">
+:::details Misc
 
 | Category | Websites |
 | :--- | :--- |
@@ -94,7 +94,7 @@ outline: 1
 | ^^ | [Sonic Zone TV](https://soniczone.net/tv/home.html) |
 | ^^ | [Japanese Animated Film Classics](https://animation.filmarchives.jp/en/index.html) |
 
-</Collapsible>
+:::
 
 
 ## Download

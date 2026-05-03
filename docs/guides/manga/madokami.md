@@ -35,7 +35,7 @@ Connect to **Rizon IRC network**.
 
 ![](/ss/mado/cnnctrzn.png)
 
-<Collapsible title="For Revolution IRC">
+:::details For Revolution IRC
 
 ![](/ss/mado/rirc.png)
 
@@ -49,7 +49,7 @@ By default, Revolution IRC doesn't list any networks, so you will need to add Ri
 7. Save the configuration
 8. You will now see the Rizon network on the main screen. Click on it to start the joining process
 
-</Collapsible>
+:::
 
 
 ### Step 2
@@ -93,7 +93,7 @@ If you've followed this guide perfectly, but still aren't getting a reply from s
 :::
 
 
-<Collapsible title="Auto-join Madokami Channel">
+:::details Auto-join Madokami Channel
 You can also set up your client to do this automatically by adding it to the **Connect/Autorun commands** for the Rizon network.
 #### Hexchat
 1. Press `Ctrl + S` to open Network List & select **Rizon** in the network list
@@ -116,7 +116,7 @@ You can also set up your client to do this automatically by adding it to the **C
 4. Add `/msg NickServ IDENTIFY yourPassword` in **Auto-run commands**
 
 ![](/ss/mado/autorev.png)
-</Collapsible>
+:::
 
 
 ## Downloading Files

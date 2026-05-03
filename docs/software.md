@@ -231,13 +231,13 @@ or buy an Android phone :ic-twotone-thumb-up:
 
 </Collapsible>
 
-<Collapsible title="**Streaming torrents without a dedicated anime client**">
+:::details **Streaming torrents without a dedicated anime client**
 You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're currently downloading. For this, check the "**Download in sequential order**" and go to the containing folder. Now open the file and it will play as more chunks are downloaded.
 
 ![](/ss/seq.png)
 
 [TorrServer](https://github.com/YouROK/TorrServer) & [WebTorrent](https://github.com/webtorrent/webtorrent-cli) can also be used to stream torrents.
-</Collapsible>
+:::
 
 ## Manga
 
