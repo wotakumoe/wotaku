@@ -81,7 +81,8 @@ og:
 | [Transmission](https://transmissionbt.com/) [:src:](https://github.com/transmission/transmission) | :win::app::lin: | :no: | :yes: | :yes: |
 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | :win::app::lin::cmd: | :yes: | :no: | :yes: |
 
-::: details More
+<Collapsible title="More">
+
 | Software | OS | DDL | P2P | FOSS |
 |-|-|-|-|-|
 | [BiglyBT](https://www.biglybt.com/) [:src:](https://github.com/BiglySoftware/BiglyBT) | :win::app::lin::bsd: | :no: | :yes: | :yes: |
@@ -95,7 +96,8 @@ og:
 | [Persepolis](https://persepolisdm.github.io/) [:src:](https://github.com/persepolisdm/persepolis) | :win::app::lin: | :yes: | :no: | :yes: |
 | [TIXATI](https://www.tixati.com/) | :win::lin: | :no: | :yes: | :no: |
 | [Xtreme Download Manager](https://xtremedownloadmanager.com/) [:src:](https://github.com/subhra74/xdm) | :win::app::lin: | :yes: | :no: | :yes: |
-:::
+
+</Collapsible>
 
 #### Related resources
 
@@ -271,12 +273,13 @@ og:
 - [Nyuu](https://github.com/animetosho/Nyuu)
 - [ngPost](https://github.com/mbruel/ngPost)
 
-::: details Related resources
+<Collapsible title="Related resources">
+
 - [r/usenet](https://old.reddit.com/r/usenet/) :s:
 - [r/UsenetInvites](https://old.reddit.com/r/UsenetInvites/)
 - [A Guideline to usenet and how to setup Automation](https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/mobilebasic)
 
-:::
+</Collapsible>
 
 ## General Tools
 

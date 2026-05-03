@@ -60,7 +60,7 @@ outline: 1
 ]" />
 </Collapsible>
 
-::: details Donghua
+<Collapsible title="Donghua">
 - [Animekhor](https://animekhor.org/) [:tg:](https://t.me/AnimeKhorOfficial)
 - [Anoboye](https://anoboye.com/) [:d:](https://discord.gg/rzqrzCZGgY)
 - [AnimeXin](https://animexin.dev/)
@@ -74,10 +74,9 @@ outline: 1
 - [Myanime](https://myanime.live/)
 - [Top Chinese Anime](https://topchineseanime.online/) [:d:](https://discord.gg/zmAy8YuVrg) [:tg:](https://telegram.me/chineseanimecoin)
 - [WowTopix](https://wowtopix.com/)
-:::
+</Collapsible>
 
-:::details Misc
-
+<Collapsible title="Misc">
 | Category | Websites |
 | :--- | :--- |
 | [**One Pace Project**](https://linktr.ee/onepaceproject) | [Official Site](https://onepace.net/en/watch) |
@@ -94,7 +93,7 @@ outline: 1
 | ^^ | [Sonic Zone TV](https://soniczone.net/tv/home.html) |
 | ^^ | [Japanese Animated Film Classics](https://animation.filmarchives.jp/en/index.html) |
 
-:::
+</Collapsible>
 
 
 ## Download
@@ -106,12 +105,12 @@ outline: 1
 - [Shana Project](https://www.shanaproject.com/)
 - [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](https://tokyo-tosho.net/)
 
-::: details Related resources
+<Collapsible title="Related resources">
 - [aniDB](https://anidb.net/) :acc:
 - [Seadex](https://releases.moe/)
 - [Sneedex](https://static.sneedex.moe/) :ded:
 - [A Certain Fansubber's Index](https://index.fansubcar.tel/)
-:::
+</Collapsible>
 
 ### Direct Download
 
@@ -135,12 +134,12 @@ outline: 1
 - To remove the annoyances in JDL2, [**follow this guide**](/guides/tech/jdl)
 :::
 
-::: details Related resources
+<Collapsible title="Related resources">
 - [Anime apps for Android](/software#anime-streaming) and [PC](/software#anime-streaming-2)
 - [Anime downloader for PC](/software#anime)
 - [Anime info sites](/misc#anime-1) and [tracking sites](/misc#general)
 - [Miscellaneous tools](/software#anime-tools) & [Extensions](/tools#anime)
-:::
+</Collapsible>
 
 
 ![](/banner/wmanga.webp)
@@ -238,11 +237,11 @@ To make the cubari process easier, we have made [Kaguya](https://github.com/wota
 | ^^           | [XRA](https://desuarchive.org/_/search/text/(digital)%20(xra-empire)/) <Badge type="tip" text="Old Releases" link="https://rentry.org/wotadirect#websites" /> |
 
 
-::: details  Related resources
+<Collapsible title=" Related resources">
 - [Manga apps for Android](/software#manga-readers) and [PC](/software#manga-readers-2)
 - [Manga downloader for PC](/software#manga)
 - [Manga related tools](/software#manga-tools)
-:::
+</Collapsible>
 
 
 ![](/banner/wnovel.webp)
@@ -257,7 +256,7 @@ To make the cubari process easier, we have made [Kaguya](https://github.com/wota
 - [LNori](https://lnori.com/)
 - [Ranobes](https://ranobes.top/)
 
-::: details More
+<Collapsible title="More">
 - [VyNovel](https://vynovel.com/)
 - [NovelFire](https://novelfire.net/home)
 - [NovelList](https://www.novellist.co/)
@@ -270,7 +269,7 @@ To make the cubari process easier, we have made [Kaguya](https://github.com/wota
 - [WuxiaClick](https://wuxia.click/) [:alt:](https://readnovel.eu/)
 - [Novel Hall](https://www.novelhall.com/)
 
-::: danger AI warning
+</Collapsible> danger AI warning
 These sites contain a mix of both actual and AI-generated novels.
 :::
 
@@ -453,12 +452,12 @@ These sites contain a mix of both actual and AI-generated novels.
 Some of the series may not be available depending on your region.
 :::
 
-::: details Utility sites
+<Collapsible title="Utility sites">
 - [JustWatch](https://www.justwatch.com/)
 - [Simkl](https://simkl.com/)
 - [uNoGS](https://unogs.com/)
 - [Yatta-Tachi List](https://yattatachi.com/legal-anime-streaming-sites)
-:::
+</Collapsible>
 
 ## Manga
 
