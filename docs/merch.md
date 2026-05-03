@@ -7,7 +7,7 @@ og:
   image: https://i.wotaku.wiki/f/merch.png
 ---
 
-:::details Important Information
+<Collapsible title="Important Information">
 
 ### Delivery Types
 
@@ -41,7 +41,7 @@ og:
 - **Proxy**
     - Someone acting on your behalf that buys, accepts, and ships the goods to you, unlike a forwarder. Generally, recommended for beginners (especially if you are nervous about buying stuff online), however more expensive. They will charge you the purchase fees for the goods + domestic shipping + international shipping fees + any additional fees as per their policy. 
 
-:::
+</Collapsible>
 
 ::: warning Don't be impulsive.
 Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed decisions. It's always a good idea to read the most recent reviews or ask for advice in a [related community](/merch#communities) before making your final decision.

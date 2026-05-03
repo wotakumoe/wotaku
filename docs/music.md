@@ -599,10 +599,10 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^ | [HTTPDirFS](https://github.com/fangfufu/httpdirfs) |
 | ^^ | [upmpdcli](https://www.lesbonscomptes.com/upmpdcli/index.html) <tooltip>Expose Navidrome as a UPnP/DLNA media library. Read the [discussion](https://github.com/navidrome/navidrome/discussions/2324)</tooltip> |
 
-:::details Related Resources
+<Collapsible title="Related Resources">
 - [Self-hosted Music Overview](https://github.com/basings/selfhosted-music-overview)
 
-:::
+</Collapsible>
 
 ![](/music/mcm.webp)
 # Communities

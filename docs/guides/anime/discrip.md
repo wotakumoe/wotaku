@@ -122,47 +122,47 @@ This is a non-exhaustive guide, mainly focusing on the LG Slim BU40N / Archgon U
 If everything works, you should now be able to rip UHD discs, like any other disc. Try it on MakeMKV - it should say on the right that it's patched, under "LibreDrive information." If it doesn't, you can try the "**RECOVER**" option on SDFtool.
 
 ## Tips / Q&A
-:::details How do you play an ISO file?
+<Collapsible title="How do you play an ISO file?">
 [VLC.](https://www.videolan.org/vlc/) You may need to [install Java](https://adoptium.net/) for menus.
 
 [MPV also works](https://mpv.io/) but doesn't support DVD menus. [Kodi](https://kodi.tv/) *may* work, but from my own testing, UHDs don't work and the feature is quite buggy in general. Same with [PowerDVD.](https://www.cyberlink.com/products/powerdvd-ultra/features_en_US.html?r=1)
 
 Also [MPC-HC](https://mpc-hc.org/) should work, but requires you to mount the ISO and it's no longer actively developed.
-:::
+</Collapsible>
 
-:::details Why suggest Xreveal, a partially paid and uncracked software, for piracy?
+<Collapsible title="Why suggest Xreveal, a partially paid and uncracked software, for piracy?">
 
 As far as I know, it is the cheapest and currently the best software for disc ripping that also includes region code removal (on top of some other things.) For scene rules, [this is required for COMPLETE BLURAY releases,](https://scenerules.org/html/2014_BLURAY.html) under G3. It also greatly shortens the amount of time needed to rip ISOs while making the process more direct. 
 
 Is it a bit pricey? Yes. Is it worth it? That depends on you, and if you're going to be doing continuous releases, then you might want to consider it.
-:::
+</Collapsible>
 
-:::details What about DVDFab?
+<Collapsible title="What about DVDFab?">
 
 Some people swear by it, but simply put, ***it is way too expensive.*** You can find cracks of it online, but from my experience they don't work that well. Just save yourself the $250 and use MakeMKV. (Even Xreveal is $45 for lifetime, and AnyDVD was only about $80.)
-:::
+</Collapsible>
 
-:::details What about Leawo?
+<Collapsible title="What about Leawo?">
 
 Complete garbage. Simple as that.
-:::
+</Collapsible>
 
-:::details What about CloneBD? EaseFab? etc.
+<Collapsible title="What about CloneBD? EaseFab? etc.">
 
 If you like using a certain type of software, then feel free to use it. In fact I'm more than happy to list other software if it's better than what's on here. (This guide previously recommended AnyDVD before it became defunct.) These are just easiest ones to get into and, most importantly, are completely free (or relatively cheap in terms of Xreveal.)
-:::
+</Collapsible>
 
-:::details On MakeMKV, it's failing a hash check! / On AnyDVD, it won't scan the disc!
+<Collapsible title="On MakeMKV, it's failing a hash check! / On AnyDVD, it won't scan the disc!">
 
 Your disc is most likely dirty. Clean it with warm water and dry with microfiber towels. You may also want to clean your player.
-:::
+</Collapsible>
 
-:::details It's still having problems after cleaning!
+<Collapsible title="It's still having problems after cleaning!">
 
 Clean and clean again. If that doesn't work, you'll probably want to return it. Unfortunately, this is the downside of doing full copies of discs, as without that bit of data that it can't read, you can't make a complete copy. Not to mention that some players (like the Archgon player in the UHD guide) have a feature that skips over any data it can't read, meaning you won't be able to do ddrescue (not that you can use it since retail discs are encrypted.)
-:::
+</Collapsible>
 
-:::details What's the best place to get discs?
+<Collapsible title="What's the best place to get discs?">
 
 ### Online Retailer
 Amazon has basically everything, especially newer releases. [Blu-ray.com](https://www.blu-ray.com) is a great database for BD and UHD discs, and on each entry, there's an Amazon link. (It also has some DVDs but it's not as extensive). You can also try eBay, but obviously be wary of its condition.
@@ -177,10 +177,10 @@ There are also the questionable sellers, such as craigslist, Facebook Marketplac
 <br>
 
 You may also want to try rental services. If you're in the US (which good luck if you're doing releases!) the biggest service still around is redbox (which even has UHDs in some cities.) There's also this different service called ["3D BluRay Rental"](https://www.store-3d-blurayrental.com/default.asp) that specializes in 3D and UHDs. (And honestly, a service I haven't even heard about before researching for this guide). I can't personally vouch for either of these, but they're good if you just need to rip the disc, won't plan on keeping it, and are short on money.
-:::
+</Collapsible>
 
-:::details I have another question not answered here.
+<Collapsible title="I have another question not answered here.">
 You can try asking on [FMHY](https://rentry.co/fmhy-invite) or on [c/piracy](https://lemmy.dbzer0.com/c/piracy).
-:::
+</Collapsible>
 
 
