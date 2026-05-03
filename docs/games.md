@@ -178,7 +178,8 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 - [Touhou Toolkit](https://thtk.thpatch.net/) [:src:](https://github.com/thpatch/thtk)
 - [thprac](https://github.com/touhouworldcup/thprac)
 
-::: details Related resources
+<Collapsible title="Related resources">
+
 
 | Section | Websites |
 |-|-|
@@ -192,7 +193,8 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 | ^^          | [Touhou Player](https://touhou.kuukunen.net/) |
 | Others      | [Fantasy Kaleidoscope ~The Memories of Phantasm~](https://www.youtube.com/playlist?list=PLUGHUFEjeh3FCf6_xeGSIU7bRQBxuO-05) |
 
-:::
+
+</Collapsible>
 
 ## Yu-Gi-Oh!
 

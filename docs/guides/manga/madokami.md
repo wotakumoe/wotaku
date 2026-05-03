@@ -35,7 +35,8 @@ Connect to **Rizon IRC network**.
 
 ![](/ss/mado/cnnctrzn.png)
 
-:::details For Revolution IRC
+<Collapsible title="For Revolution IRC">
+
 
 ![](/ss/mado/rirc.png)
 
@@ -49,7 +50,8 @@ By default, Revolution IRC doesn't list any networks, so you will need to add Ri
 7. Save the configuration
 8. You will now see the Rizon network on the main screen. Click on it to start the joining process
 
-:::
+
+</Collapsible>
 
 
 ### Step 2
@@ -93,7 +95,8 @@ If you've followed this guide perfectly, but still aren't getting a reply from s
 :::
 
 
-:::details Auto-join Madokami Channel
+<Collapsible title="Auto-join Madokami Channel">
+
 You can also set up your client to do this automatically by adding it to the **Connect/Autorun commands** for the Rizon network.
 #### Hexchat
 1. Press `Ctrl + S` to open Network List & select **Rizon** in the network list
@@ -116,7 +119,8 @@ You can also set up your client to do this automatically by adding it to the **C
 4. Add `/msg NickServ IDENTIFY yourPassword` in **Auto-run commands**
 
 ![](/ss/mado/autorev.png)
-:::
+
+</Collapsible>
 
 
 ## Downloading Files
@@ -134,7 +138,8 @@ You can also set up your client to do this automatically by adding it to the **C
 
 <div class="video_wrapper"><iframe src="https://youtube.com/embed/BR3GR8S_Oqo" frameborder="0" allowfullscreen></iframe></div>
 
-::: details More FMD2 Settings
+<Collapsible title="More FMD2 Settings">
+
 
 #### Auto Scan
 
@@ -154,7 +159,8 @@ You can scan a Madokami folder automatically.
 
 By default, FMD2 will save it as folder. Go to `Options > Save to > Save download chapter as` and choose your format.
 
-:::
+
+</Collapsible>
 
 ::: warning WEBP issue
 Note that FMD2's module uses Madokami's web reader, which can't read `.webp` files, thus resulting in errors.

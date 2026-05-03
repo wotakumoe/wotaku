@@ -58,7 +58,8 @@ Dedicated clients are recommended since they have a lot torrent-centric features
 
 For this guide, we will use [**qBittorrent**](https://www.qbittorrent.org/) `v5.0.1` and download files from [**Nyaa**](https://nyaa.si/). Other clients should work in a similar manner, with minor UI changes.
 
-::: details Basic UI guide
+<Collapsible title="Basic UI guide">
+
 
 ![](/torrenting/start/0.png)
 
@@ -89,9 +90,11 @@ The columns are customizable. You can rearrange them, adjust width or choose whi
 10. The amount of Uploaded divided by Downloaded data. In general, it's good practice to keep it higher. Not necessary for public trackers, but you need to keep it above 1 for private trackers.
 11. Availability indicates the health of the given torrent. Being equal or greater than 1 means that all files are available for download. If it's less than 1, you can't fully download the torrent.
 
-:::
 
-::: details Why does qBittorrent look different?
+</Collapsible>
+
+<Collapsible title="Why does qBittorrent look different?">
+
 Default dark mode of qBittorrent is just too ugly. So we are using a custom theme, [**Iceberg**](https://github.com/CyberSeas/qBittorrentDarktheme).
 
 0. Download ICEBERG.qbtheme from [**here**](https://github.com/CyberSeas/qBittorrentDarktheme/blob/master/ICEBERG.qbtheme).
@@ -101,7 +104,8 @@ Default dark mode of qBittorrent is just too ugly. So we are using a custom them
 
 ![](/torrenting/start/100.png)
 
-:::
+
+</Collapsible>
 
 
 :::tabs

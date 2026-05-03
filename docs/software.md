@@ -27,14 +27,16 @@ For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/ext/mih
 | [Dantotsu](https://github.com/itsmechinmoy/dantotsu-updater) [:d:](https://discord.com/invite/4HPZ5nAWwM) [:src:](https://git.rebelonion.dev/rebelonion/Dantotsu) | :ddl::mag: | :mal::al: |
 | [Cloudstream](https://github.com/recloudstream/cloudstream) :tv: [:e:](/ext/misc#cloudstream) | :ddl::mag: | :mal::al::simkl: |
 
-::: details More
+<Collapsible title="More">
+
 | App | Source | Tracker |
 |-|-|-|
 | [Aniyomi](https://aniyomi.org/) [:src:](https://github.com/aniyomiorg/aniyomi) [:n:](https://github.com/aniyomiorg/aniyomi-preview) | :ddl: | :mal::al::k::simkl: |
 | [Stremio](https://www.stremio.com/) :tv: [:e:](#stremio) | :mag: | :mal::al::k::simkl: |
 | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) | :ddl::mag: | :mal::al::k: |
 | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) [:e:](/ext/mangayomi) [:tv:](https://github.com/NyanTV/NyanTV) | :ddl: | :mal::al::simkl: |
-:::
+
+</Collapsible>
 
 ### Cross-app Support
 <ScrapeTable :sites="[
@@ -231,13 +233,15 @@ or buy an Android phone :ic-twotone-thumb-up:
 
 </Collapsible>
 
-:::details **Streaming torrents without a dedicated anime client**
+<Collapsible title="Streaming torrents without a dedicated anime client">
+
 You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're currently downloading. For this, check the "**Download in sequential order**" and go to the containing folder. Now open the file and it will play as more chunks are downloaded.
 
 ![](/ss/seq.png)
 
 [TorrServer](https://github.com/YouROK/TorrServer) & [WebTorrent](https://github.com/webtorrent/webtorrent-cli) can also be used to stream torrents.
-:::
+
+</Collapsible>
 
 ## Manga
 

@@ -61,7 +61,8 @@ outline: 1
 ]" />
 </Collapsible>
 
-::: details Donghua
+<Collapsible title="Donghua">
+
 - [Animekhor](https://animekhor.org/) [:tg:](https://t.me/AnimeKhorOfficial)
 - [Anoboye](https://anoboye.com/) [:d:](https://discord.gg/rzqrzCZGgY)
 - [AnimeXin](https://animexin.dev/)
@@ -75,9 +76,10 @@ outline: 1
 - [Myanime](https://myanime.live/)
 - [Top Chinese Anime](https://topchineseanime.online/) [:d:](https://discord.gg/zmAy8YuVrg) [:tg:](https://telegram.me/chineseanimecoin)
 - [WowTopix](https://wowtopix.com/)
-:::
 
-:::details Misc
+</Collapsible>
+
+<Collapsible title="Misc">
 
 | Category | Websites |
 | :--- | :--- |
@@ -95,7 +97,7 @@ outline: 1
 | ^^ | [Sonic Zone TV](https://soniczone.net/tv/home.html) |
 | ^^ | [Japanese Animated Film Classics](https://animation.filmarchives.jp/en/index.html) |
 
-:::
+</Collapsible>
 
 
 ## Download
@@ -107,12 +109,14 @@ outline: 1
 - [Shana Project](https://www.shanaproject.com/)
 - [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](https://tokyo-tosho.net/)
 
-::: details Related resources
+<Collapsible title="Related resources">
+
 - [aniDB](https://anidb.net/) :acc:
 - [Seadex](https://releases.moe/)
 - [Sneedex](https://static.sneedex.moe/) :ded:
 - [A Certain Fansubber's Index](https://index.fansubcar.tel/)
-:::
+
+</Collapsible>
 
 ### Direct Download
 
@@ -127,7 +131,6 @@ outline: 1
 | ^^ | [AnimeOut](https://www.animeout.xyz/) :ddl::acc: [:alt:](https://animewat.ch/) |
 | ^^ | [Chauthanh](https://chauthanh.info/) :ddl::acc: |
 | ^^ | [hi10anime](https://hi10anime.com/) :ddl::mag::acc::batch: |
-| ^^ | [Kayoanime](https://kayoanime.com/) :sgd::batch: |
 | **Subtitles** | [Closed Caption Browser](https://cc.edatribe.com/#/) <Badge type="info" text="Dubtitles" /> |
 | ^^ | [Open Subtitles](https://opensubtitles.org/) |
 
@@ -137,12 +140,14 @@ outline: 1
 - To remove the annoyances in JDL2, [**follow this guide**](/guides/tech/jdl)
 :::
 
-::: details Related resources
+<Collapsible title="Related resources">
+
 - [Anime apps for Android](/software#anime-streaming) and [PC](/software#anime-streaming-2)
 - [Anime downloader for PC](/software#anime)
 - [Anime info sites](/misc#anime-1) and [tracking sites](/misc#general)
 - [Miscellaneous tools](/software#anime-tools) & [Extensions](/tools#anime)
-:::
+
+</Collapsible>
 
 
 ![](/banner/wmanga.webp)
@@ -240,11 +245,13 @@ To make the cubari process easier, we have made [Kaguya](https://github.com/wota
 | ^^           | [XRA](https://desuarchive.org/_/search/text/(digital)%20(xra-empire)/) <Badge type="tip" text="Old Releases" link="https://rentry.org/wotadirect#websites" /> |
 
 
-::: details  Related resources
+<Collapsible title=" Related resources">
+
 - [Manga apps for Android](/software#manga-readers) and [PC](/software#manga-readers-2)
 - [Manga downloader for PC](/software#manga)
 - [Manga related tools](/software#manga-tools)
-:::
+
+</Collapsible>
 
 
 ![](/banner/wnovel.webp)
@@ -259,7 +266,8 @@ To make the cubari process easier, we have made [Kaguya](https://github.com/wota
 - [LNori](https://lnori.com/)
 - [Ranobes](https://ranobes.top/)
 
-::: details More
+<Collapsible title="More">
+
 - [VyNovel](https://vynovel.com/)
 - [NovelFire](https://novelfire.net/home)
 - [NovelList](https://www.novellist.co/)
@@ -271,6 +279,8 @@ To make the cubari process easier, we have made [Kaguya](https://github.com/wota
 - [Free Web Novel](https://freewebnovel.com/)
 - [WuxiaClick](https://wuxia.click/) [:alt:](https://readnovel.eu/)
 - [Novel Hall](https://www.novelhall.com/)
+
+</Collapsible>
 
 ::: danger AI warning
 These sites contain a mix of both actual and AI-generated novels.
@@ -417,17 +427,17 @@ These sites contain a mix of both actual and AI-generated novels.
 ### Platforms
 | Type | Website |
 | :--- | :--- |
-| **Dedicated** | [Crunchyroll](https://www.crunchyroll.com/)
-| ^^ | [HIDIVE](https://www.hidive.com/)
-| ^^ | [RetroCrush](https://www.retrocrush.tv/home)
-| ^^ | [OceanVeil](https://oceanveil.net/) :ero:
-| **General** | [Bilibili](https://www.bilibili.tv/en/anime)
-| ^^ | [Disney+](https://www.disneyplus.com/)
-| ^^ | [HBO Max](https://www.hbomax.com/)
-| ^^ | [Netflix](https://www.netflix.com/)
-| ^^ | [Pluto TV](https://pluto.tv/)
-| ^^ | [Prime Video](https://www.primevideo.com/)
-| ^^ | [Tubi](https://tubitv.com/)
+| **Dedicated** | [Crunchyroll](https://www.crunchyroll.com/) |
+| ^^ | [HIDIVE](https://www.hidive.com/) |
+| ^^ | [RetroCrush](https://www.retrocrush.tv/home) |
+| ^^ | [OceanVeil](https://oceanveil.net/) :ero: |
+| **General** | [Bilibili](https://www.bilibili.tv/en/anime) |
+| ^^ | [Disney+](https://www.disneyplus.com/) |
+| ^^ | [HBO Max](https://www.hbomax.com/) |
+| ^^ | [Netflix](https://www.netflix.com/) |
+| ^^ | [Pluto TV](https://pluto.tv/) |
+| ^^ | [Prime Video](https://www.primevideo.com/) |
+| ^^ | [Tubi](https://tubitv.com/) |
 
 ### YouTube
 | Type | Channel |
@@ -455,12 +465,14 @@ These sites contain a mix of both actual and AI-generated novels.
 Some of the series may not be available depending on your region.
 :::
 
-::: details Utility sites
+<Collapsible title="Utility sites">
+
 - [JustWatch](https://www.justwatch.com/)
 - [Simkl](https://simkl.com/)
 - [uNoGS](https://unogs.com/)
 - [Yatta-Tachi List](https://yattatachi.com/legal-anime-streaming-sites)
-:::
+
+</Collapsible>
 
 ## Manga
 
@@ -468,6 +480,7 @@ Some of the series may not be available depending on your region.
 |----------|----------|-|
 | **General** | [Omoi](https://www.omoi.com/) | :paid::sub::free: |
 | ^^ | [Renta!](https://www.ebookrenta.com/) | :coin::free: |
+| ^^ | [Yen Press](https://yenpress.com/) | :paid: |
 | **CaaS** | [Comikey](https://comikey.com/) | :coin::free: |
 | ^^ | [Coolmic](https://coolmic.me/) :ero: | :sub::coin::free: |
 | ^^ | [INKR](https://comics.inkr.com/) :ero: | :coin::free: | 
@@ -477,8 +490,11 @@ Some of the series may not be available depending on your region.
 | ^^ | [Mangamo](https://www.mangamo.com/) | :sub::coin::free: |
 | ^^ | [Shonen Jump](https://www.viz.com/sj-offer) <tooltip>Available in the United States, Canada, the United Kingdom, Ireland, New Zealand, Australia, South Africa, the Philippines, Singapore, and India.</tooltip> | :sub::free: |
 | **Volume** | [Manga Mirai](https://mangamirai.com/) | :paid::free: |
-| ^^ | [VIZ Manga](https://www.viz.com/vm-offer) <tooltip>Available in the United States, the United Kingdom, Canada, Australia, New Zealand, and Ireland.</tooltip> |  :paid:  |
-| ^^ | [Yen Press](https://yenpress.com/) | :paid:  |
+| ^^ | [Kodansha USA](https://kodansha.us/) | :paid: |
+| ^^ | [Seven Seas](https://sevenseasentertainment.com/) | :paid: |
+| ^^ | [Square Enix](https://squareenixmangaandbooks.square-enix-games.com/en-us) | :paid: |
+| ^^ | [TOKYOPOP](https://tokyopop.com/) | :paid: |
+| ^^ | [VIZ](https://www.viz.com/) <tooltip>Subscription also available in the United States, the United Kingdom, Canada, Australia, New Zealand, and Ireland.</tooltip> | :paid: |
 
 
 ## Manhwa & Manhua
@@ -499,9 +515,8 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 
 - [BookWalker](https://bookwalker.com/)
 - [Cross Infinite World](https://www.crossinfworld.com/index.html)
-- [Dark Horse Comics](https://www.darkhorse.com/)
 - [J-Novel Club](https://j-novel.club/)
-- [Kodansha](https://kodansha.us/)
+- [Kodansha USA](https://kodansha.us/)
 - [Square Enix](https://squareenixmangaandbooks.square-enix-games.com/en-us)
 - [VIZ](https://www.viz.com/)
 - [WebNovel](https://www.webnovel.com/)

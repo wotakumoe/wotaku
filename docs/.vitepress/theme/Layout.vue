@@ -17,7 +17,7 @@ import type { DefaultTheme as Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import VPSidebarGroup from 'vitepress/dist/client/theme-default/components/VPSidebarGroup.vue'
 import { getSidebarGroups } from 'vitepress/dist/client/theme-default/support/sidebar'
-import { computed, onMounted, onUnmounted, ref, watch } from 'vue'
+import { computed, nextTick, onMounted, onUnmounted, ref, watch } from 'vue'
 import { sidebar } from '../configs/constants'
 import AnnouncementPill from './components/AnnouncementPill.vue'
 import NotFoundComponent from './components/NotFound.vue'
@@ -45,6 +45,52 @@ watch(() => route.path, () => {
   homeSidebarOpen.value = false
 })
 
+const openCollapsibles = () => {
+  const hash = window.location.hash.slice(1)
+  if (!hash) return
+
+  const target = document.getElementById(decodeURIComponent(hash)) || document.getElementById(hash)
+  if (!target) return
+
+  let el: HTMLElement | null = target
+  while ((el = el.closest('details'))) {
+    el.open = true
+    el = el.parentElement
+  }
+
+  if (/^H[1-6]$/.test(target.tagName)) {
+    const level = parseInt(target.tagName[1])
+    let sibling = target.nextElementSibling
+
+    while (sibling) {
+      if (/^H[1-6]$/.test(sibling.tagName)) {
+        if (parseInt(sibling.tagName[1]) <= level) break
+      }
+
+      if (sibling.tagName === 'DETAILS') {
+        (sibling as HTMLDetailsElement).open = true
+      }
+
+      const nested = sibling.querySelectorAll('details')
+      for (let i = 0; i < nested.length; i++) {
+        nested[i].open = true
+      }
+
+      sibling = sibling.nextElementSibling
+    }
+  }
+}
+
+watch(() => route.data, async () => {
+  await nextTick()
+  openCollapsibles()
+})
+
+watch(() => route.hash, async () => {
+  await nextTick()
+  openCollapsibles()
+})
+  
 function onSidebarEnter() {
   sidebarRef.value?.focus()
 }
@@ -171,6 +217,22 @@ const reloadTakodachi = () => {
 
 onMounted(() => {
   if (import.meta.env.SSR) return
+  useEventListener(document, 'click', async (e: MouseEvent) => {
+    if ((e.target as HTMLElement).closest('a.result')) {
+      await nextTick()
+      requestAnimationFrame(() => requestAnimationFrame(openCollapsibles))
+    }
+  })
+
+  useEventListener(document, 'keydown', async (e: KeyboardEvent) => {
+    if (e.key === 'Enter') {
+      const searchBox = document.querySelector('.VPLocalSearchBox') || document.querySelector('.VPNavBarSearch')
+      if (searchBox && searchBox.contains(e.target as Node)) {
+        await nextTick()
+        requestAnimationFrame(() => requestAnimationFrame(openCollapsibles))
+      }
+    }
+  })
 
   // Arrow key scrolling + Escape close for sidebars and content
   let activeScrollTarget: HTMLElement | Window = window

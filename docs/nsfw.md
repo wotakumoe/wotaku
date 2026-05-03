@@ -32,13 +32,15 @@ og:
 - [Oppai Stream](https://oppai.stream/) <Badge type="info" text="Upscale" />
 
 
-::: details More
+<Collapsible title="More">
+
 - [HenVids](https://henvids.com/)
 - [Rule34video](https://rule34video.com/)
 - [SakuraCircle](https://sakuracircle.com/) :ddl: :ded:<Badge type="tip" text="Nyaa" link="https://sukebei.nyaa.si/user/Tennouji" />
 - [UnderHentai](https://www.underhentai.net/) :strm::ddl:
 
-:::
+
+</Collapsible>
 
 
 ## Manga

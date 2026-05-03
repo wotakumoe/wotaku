@@ -174,6 +174,9 @@ importers:
       '@iconify-json/streamline-logos':
         specifier: ^1.2.0
         version: 1.2.0
+      '@iconify-json/streamline-sharp':
+        specifier: ^1.2.0
+        version: 1.2.0
       '@iconify-json/streamline-ultimate':
         specifier: ^1.2.2
         version: 1.2.2
@@ -791,6 +794,9 @@ packages:
 
   '@iconify-json/streamline-logos@1.2.0':
     resolution: {integrity: sha512-eEMC8BvJTCUiR/xdAjKuJwRGnKV5v9Prp2wgONFLKILq1om/5Pz+EUsFXVqYSVeIAUfguaB2tjy1wM7wJbs0IQ==}
+
+  '@iconify-json/streamline-sharp@1.2.0':
+    resolution: {integrity: sha512-36c6zxkoA9sKGnbc4sV13MlSVSTjCDCk/j9viEjJF1Eznkf+WF91KBzFmmCm49SKh+S1I76f820j226AECE7tw==}
 
   '@iconify-json/streamline-ultimate@1.2.2':
     resolution: {integrity: sha512-0Vz9UHgMrmRUYt3JFqm0E6PDdroItVqK4fKf3T72jVwS2MAmc8dcqvCy+f0hzOVzJfo3G34ejFA9Y8l/K44hTQ==}
@@ -4446,6 +4452,10 @@ snapshots:
       '@iconify/types': 2.0.0
 
   '@iconify-json/streamline-logos@1.2.0':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/streamline-sharp@1.2.0':
     dependencies:
       '@iconify/types': 2.0.0
 

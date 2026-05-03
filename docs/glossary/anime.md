@@ -107,7 +107,8 @@ Genga generally goes for important details of a scene. It can be just the charac
 
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/JM-AFeBtvA4" frameborder="0" allowfullscreen></iframe></div>
 
-::: details Short note
+<Collapsible title="Short note">
+
 
 If you look at the sakuga, we can see a few numbers.
 - **160** -> Scene number
@@ -115,7 +116,8 @@ If you look at the sakuga, we can see a few numbers.
 - **16** -> Shot number of that scene
 
 ![Solo Leveling ep. 11](/glossary/anime/solo.webp)
-:::
+
+</Collapsible>
 
 ::: tip Extra
 We tried to really simplify the process. For more details, check out [**Dong Chang**](https://www.youtube.com/@DongChang), [**Sakuga Foundry**](https://www.youtube.com/@SakugaFoundry) & [Iwane Masaaki’s Animating Channel](https://www.youtube.com/@animator).

@@ -15,25 +15,31 @@ ___
 - Check "**Enable fetching RSS feeds**" and "**Enable auto downloading of RSS torrents**".
 - You can also customize the refresh interval and max article number there.
 
-::: details Image preview
+<Collapsible title="Image preview">
+
 ![](/ss/qbit/rss1.png)
-:::
+
+</Collapsible>
 
 #### Step 2: Adding feed URL
 - Close the settings and go to the **RSS** tab.
 - To get the RSS feed URL of a page in [**Nyaa**](https://nyaa.si/), click on the **RSS** button.
 - Copy the feed URL from the address bar.
 
-::: details Image preview
+<Collapsible title="Image preview">
+
 ![](/ss/qbit/rss2.png)
-:::
+
+</Collapsible>
 
 - Now to add the feed URL, click on **New subscription**.
 - Then rename it to a relevant name. For that right click on feed URL, then **Edit feed URL...**
 
-::: details Image preview
+<Collapsible title="Image preview">
+
 ![](/ss/qbit/rss3.png)
-:::
+
+</Collapsible>
 
 #### Step 3: Adding Rules
 - Go to the **RSS Downloader** (at the top right) and add a new download rule.
@@ -41,9 +47,11 @@ ___
 - To filter the feed, you have to add some rules. Hover over the rule field to get writing instruction. The right column will show the selected article preview for that specific rule.
 - Then click **Close** and it will start downloading those.
 
-::: details Image preview
+<Collapsible title="Image preview">
+
 ![](/ss/qbit/rss4.png)
-:::
+
+</Collapsible>
 
 ## Torrent Creator
 
@@ -62,17 +70,21 @@ ___
 - Source field can have a tracker-specific requirement, or it can be fully optional.
 - Click on **Create** and set the destination.
 
-::: details Image preview
-![](/ss/qbit/creator.png)
-:::
+<Collapsible title="Image preview">
 
-::: details Extra: Seeding your torrent
+![](/ss/qbit/creator.png)
+
+</Collapsible>
+
+<Collapsible title="Extra: Seeding your torrent">
+
 After submitting your torrent with the **.torrent**,
 - Download the **.torrent** file from the new generated page.
 - Open the **.torrent** and set the download destination where the file/folder is kept
 
 qBittorrent will check the file/folder and start seeding.
-:::
+
+</Collapsible>
 
 ## VPN Binding
 
@@ -85,6 +97,8 @@ ___
 - Select your desired VPN interface
 - Hit **OK** and restart qBittorrent.
 
-::: details Image preview
+<Collapsible title="Image preview">
+
 ![](/ss/qbit/bind.png)
-:::
+
+</Collapsible>

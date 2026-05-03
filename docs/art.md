@@ -26,7 +26,8 @@ og:
 - [Twitter](https://x.com/home) :s:
   - [Twoucan](https://twoucan.com/)
 
-::: details More
+<Collapsible title="More">
+
 - [ART street](https://medibang.com/)
 - [Bluesky](https://bsky.app/)
 - [Cara](https://cara.app/explore)
@@ -38,7 +39,8 @@ og:
 - [Poipiku](https://poipiku.com/)
 - [Tinami](https://www.tinami.com/)
 - [Tumblr](https://www.tumblr.com/)
-:::
+
+</Collapsible>
 
 ## Support / Commission
 | Category | Website |
