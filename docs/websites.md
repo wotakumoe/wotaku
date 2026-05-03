@@ -109,10 +109,12 @@ outline: 1
 - [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](https://tokyo-tosho.net/)
 
 <Collapsible title="Related resources">
+
 - [aniDB](https://anidb.net/) :acc:
 - [Seadex](https://releases.moe/)
 - [Sneedex](https://static.sneedex.moe/) :ded:
 - [A Certain Fansubber's Index](https://index.fansubcar.tel/)
+
 </Collapsible>
 
 ### Direct Download
@@ -138,10 +140,12 @@ outline: 1
 :::
 
 <Collapsible title="Related resources">
+
 - [Anime apps for Android](/software#anime-streaming) and [PC](/software#anime-streaming-2)
 - [Anime downloader for PC](/software#anime)
 - [Anime info sites](/misc#anime-1) and [tracking sites](/misc#general)
 - [Miscellaneous tools](/software#anime-tools) & [Extensions](/tools#anime)
+
 </Collapsible>
 
 
@@ -260,6 +264,7 @@ To make the cubari process easier, we have made [Kaguya](https://github.com/wota
 - [Ranobes](https://ranobes.top/)
 
 <Collapsible title="More">
+
 - [VyNovel](https://vynovel.com/)
 - [NovelFire](https://novelfire.net/home)
 - [NovelList](https://www.novellist.co/)
@@ -456,10 +461,12 @@ Some of the series may not be available depending on your region.
 :::
 
 <Collapsible title="Utility sites">
+
 - [JustWatch](https://www.justwatch.com/)
 - [Simkl](https://simkl.com/)
 - [uNoGS](https://unogs.com/)
 - [Yatta-Tachi List](https://yattatachi.com/legal-anime-streaming-sites)
+
 </Collapsible>
 
 ## Manga
