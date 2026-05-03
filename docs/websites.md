@@ -477,7 +477,7 @@ Some of the series may not be available depending on your region.
 | ^^ | [Shonen Jump](https://www.viz.com/sj-offer) <tooltip>Available in the United States, Canada, the United Kingdom, Ireland, New Zealand, Australia, South Africa, the Philippines, Singapore, and India.</tooltip> | :sub::free: |
 | **Volume** | [Manga Mirai](https://mangamirai.com/) | :paid::free: |
 | ^^ | [Kodansha USA](https://kodansha.us/) | :paid: |
-| ^^ | [Seven Seas Entertainment](https://sevenseasentertainment.com/) | :paid: |
+| ^^ | [Seven Seas](https://sevenseasentertainment.com/) | :paid: |
 | ^^ | [Square Enix](https://squareenixmangaandbooks.square-enix-games.com/en-us) | :paid: |
 | ^^ | [TOKYOPOP](https://tokyopop.com/) | :paid: |
 | ^^ | [VIZ](https://www.viz.com/) <tooltip>Subscription also available in the United States, the United Kingdom, Canada, Australia, New Zealand, and Ireland.</tooltip> | :paid: |
