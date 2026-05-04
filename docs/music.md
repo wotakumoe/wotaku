@@ -526,9 +526,9 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^ | [Cubase](https://www.steinberg.net/cubase/) :cs: | :win::app: |
 | ^^ | [FL Studio](https://www.image-line.com/fl-studio/) :cs: | :win::app: |
 | ^^ | [Studio One](https://www.presonus.com/en-US/studio-one.html) :cs: | :win: |
-| Related Links | [SynthV.info](https://synthv.info/) | - |
-| ^^ | [CeVIO Voice Database Installer Archive](https://rentry.org/wotadirect#music) | - |
-| ^^ | [RuTracker.org](https://rutracker.org/forum/index.php) | - |
+| Related Links | [SynthV.info](https://synthv.info/) | :no: |
+| ^^ | [CeVIO Voice Database Installer Archive](https://rentry.org/wotadirect#music) | :no: |
+| ^^ | [RuTracker.org](https://rutracker.org/forum/index.php) | :no: |
 
 ::: info Introduction / Guide
 - [Explaining Vocaloid in under 3 minutes](https://www.youtube.com/watch?v=GODXMGAMpVc)
