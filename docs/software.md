@@ -161,6 +161,7 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.github.
 - [Luna](https://github.com/cranci1/Luna) [:e:](/ext/ios#sora)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi)
 - [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) [:e:](/ext/mangayomi)
+- [Hayase](https://hayase.watch/) :paid::cs::n: [:src:](https://github.com/hayase-app) [:e:](/ext/misc#hayase)
 
 ::: details "iOS app not working. What should i do?"
 
