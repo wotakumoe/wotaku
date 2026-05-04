@@ -24,6 +24,18 @@ og:
 | Light Novels | [Moeclub](https://bookmeter.com/users/1313898/) |
 | Video Games | [Game Gengo](https://docs.google.com/spreadsheets/u/0/d/14TKRFvnDmBsgfxCJzkaNKTKmx4qDcsv7QSmfyzIKxQ4/htmlview#gid=0) |
 
+<ScrapeTable :sites="[
+  { name: 'Jiten', scrapes: { 'Anime': '', 'Audio': '', 'Live Action': '', 'Manga': '', 'Non-Fiction': '', 'Novels': '', 'Video Games': '', 'Visual Novels': '', 'Web Novels': '' } },
+  { name: 'JPDB', scrapes: { 'Anime': '', 'Novels': '', 'Visual Novels': '', 'Web Novels': '', 'Live Action': '' } },
+  { name: 'Kuri', scrapes: { 'Anime': '', 'Manga': '', 'Novels': '', 'Visual Novels': '', 'Video Games': '', 'Live Action': '', 'YouTube': '', 'VTubers': '', 'Podcasts': '' } },
+  { name: 'Jo-Mako', scrapes: { 'Course': '', 'Anime': '', 'Video Games': '', 'Visual Novels': '', 'Manga': '', 'Live Action': '' } },
+  { name: 'LearnNatively', scrapes: { 'Anime': '', 'Manga': '', 'Novels': '' } },
+  { name: 'Acquiring Japanese Efficiently', scrapes: { 'YouTube': '', 'Novels': '', 'Visual Novels': '', 'Reading': '' } }
+]" />
+
+::: info README
+TV, Dramas and Movies have been merged as Live Action.
+:::
 
 ## Animation and Live Action
 | Category | Resources |
