@@ -114,10 +114,10 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 
 | Resource                                                        | Phone                   | PC                      | Browser                |
 |-----------------------------------------------------------------|-------------------------|-------------------------|------------------------|
-| [uBlock Origin](https://github.com/gorhill/uBlock)     :s:      |  -                      |       -                 | :ff::cr:               |
+| [uBlock Origin](https://github.com/gorhill/uBlock)     :s:      | :no:                    | :no:                    | :ff::cr:               |
 | [Adguard](https://adguard.com/en/welcome.html)         :cs:     | :and::ios:              | :win::app:              | :ff::cr:               |
-| [Adaway](https://adaway.org/)                                   | :and:                   |        -                |     -                  |
-| [RethinkDNS](https://rethinkdns.com/)                           | :and:                   | :win::app::lin:         |     -                  |
+| [Adaway](https://adaway.org/)                                   | :and:                   | :no:                    |     :no:               |
+| [RethinkDNS](https://rethinkdns.com/)                           | :and:                   | :win::app::lin:         |     :no:               |
 | [NextDNS](https://nextdns.io/)    :s:                           | :and::ios:              | :win::app::lin:         |  :ff::cr:              |
 
 

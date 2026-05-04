@@ -308,11 +308,11 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^        | [WikiTimeline](https://wiki-timeline.com/) [:src:](https://github.com/wenzhenl/wikitimeline) | :wikip: |
 | **Anime** | [Animerank](https://animerank.top/) | :mal: |
 | ^^        | [Manga Adaptations](https://anilist-adaptations.timschneeberger.me/) [:src:](https://github.com/timschneeb/manga-adaptations-anilist) | :al: |  
-| ^^        | [MyDubList](https://mydublist.com/) [:src:](https://github.com/Joelis57/MyDubList) | - |
-| ^^        | [Randime](https://randime.moe/) | - |  
+| ^^        | [MyDubList](https://mydublist.com/) [:src:](https://github.com/Joelis57/MyDubList) | :no: |
+| ^^        | [Randime](https://randime.moe/) | :no: |  
 | ^^        | [Spin.moe](https://spin.moe/) | :mal::al::k: |  
-| **Manga** | [Mihon Local Source JSON Generator](https://mihonlocal.netlify.app/) | - |
-| ^^        | [Tachibk Viewer](https://backup.mihon.tools/) [:src:](https://github.com/Animeboynz/Mihon-Backup-Viewer) | - |
+| **Manga** | [Mihon Local Source JSON Generator](https://mihonlocal.netlify.app/) | :no: |
+| ^^        | [Tachibk Viewer](https://backup.mihon.tools/) [:src:](https://github.com/Animeboynz/Mihon-Backup-Viewer) | :no: |
 | **Manga Covers** | [Big Book Covers](https://covers.roler.dev/) :s: [:src:](https://github.com/rRoler/bbc-frontend) | General |
 | ^^        | [Ermitteln](https://ermitteln.ihateani.me/) [:src:](https://github.com/noaione/cmx-ermitteln) | Comixology |  
 | ^^        | [iTunes Artwork Finder](https://bendodson.com/projects/itunes-artwork-finder/) | :apple: |

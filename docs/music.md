@@ -106,7 +106,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 | Website | Type | Host |
 |-|-|-|
-| [Nyaa](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap) | :mag: | - |
+| [Nyaa](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap) | :mag: | :no: |
 | [Sitting on Clouds](https://www.sittingonclouds.net/) :s: [:prx:](https://rentry.org/wotaxy#sitting-on-clouds) | :ddl: | :sm::smf: |
 | [SquidBoard](https://www.squid-board.org/) :acc: | :ddl: | :sgd::sm::smf: |
 
@@ -114,7 +114,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 | Website | Type | Host |
 |-|-|-|
-| [Nipponsei](https://nipponsei.minglong.org/tracker/) | :mag: | - |
+| [Nipponsei](https://nipponsei.minglong.org/tracker/) | :mag: | :no: |
 | [OS Anime](https://osanime.com/) | :ddl: | own |
 
 ## Downloaders
@@ -138,13 +138,13 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [Doujin Music](https://vk.com/wall-60027733) | :ddl: | :vk: |
 | [Doujin Style](https://doujinstyle.com/) <Badge type="tip" text="Downloader" link="https://github.com/Relepega/doujinstyle-downloader"/> | :ddl: | :smf: |
 | [MikuDB](https://mikudb.moe/) | :ddl::mag: | :sgd: |
-| [Moriya Shrine](https://moriyashrine.org/) | :mag: | - |
+| [Moriya Shrine](https://moriyashrine.org/) | :mag: | :no: |
 
 ## Games
 
 | Website | Type | Host |
 |-|-|-|
-| [Nyaa](https://nyaa.si/) [:prx:](https://rentry.org/nyaap) | :mag: | - |
+| [Nyaa](https://nyaa.si/) [:prx:](https://rentry.org/nyaap) | :mag: | :no: |
 | [Sitting on Clouds](https://www.sittingonclouds.net/) [:prx:](https://rentry.org/wotaxy#sitting-on-clouds) | :ddl: | :sm::smf: |
 | [SquidBoard](https://www.squid-board.org/) :acc: | :ddl: | :sgd::sm::smf: |
 | [HCS VGM Archive](https://vgm.hcs64.com/) | :ddl: | own |
@@ -155,7 +155,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 | Website | Type | Host |
 |-|-|-|
-| [RuTracker.org](https://rutracker.org/forum/index.php) | :mag: | - |
+| [RuTracker.org](https://rutracker.org/forum/index.php) | :mag: | :no: |
 | [Asia Media Blog](https://asiamediablog.com/media/music/) :ero: [:prx:](https://rentry.org/wotaxy#asia-media-blog) | :ddl: | :host: |
 | [The T-SQUARE Plaza](https://tsquareplaza.blogspot.com/) | :ddl: | :sgd: |
 
@@ -546,7 +546,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | :--- | :--- | :--- |
 | Checker / Visualizer | [Bitter](https://www.stillwellaudio.com/plugins/bitter/) :cs: | :win::app: |
 | ^^ | [cambia LogTools](https://logs.musichoarders.xyz/) [:src:](https://github.com/arg274/cambia) | :ff::cr: |
-| ^^ | [loggers](https://gitlab.com/SuperSaltyGamer/loggers) | - |
+| ^^ | [loggers](https://gitlab.com/SuperSaltyGamer/loggers) | :win: |
 | ^^ | [Sonic Visualiser](https://www.sonicvisualiser.org/) [:src:](https://github.com/sonic-visualiser/sonic-visualiser/) | :win::app::lin: |
 | ^^ | [Spek](https://www.spek.cc/) :s: [:src:](https://github.com/alexkay/spek) | :win::app::lin: |
 | Tagger | [MP3Tag](https://www.mp3tag.de/en/) :cs: | :win::app: |
