@@ -204,8 +204,8 @@ const aliasDefs: Record<string, [string, string?]> = {
   strm: ['material-symbols-play-circle-outline', 'Stream'],
   lcl: ['iconoir-floppy-disk', 'Local file'],
   batch: ['material-symbols-package-2-outline', 'Batch Download'],
-  yes: ['twemoji-check-mark-button', 'Yes / Available'],
-  no: ['twemoji-cross-mark', 'No / Unavailable']
+  yes: ['lucide-check', 'Yes / Available'],
+  no: ['lucide-x', 'No / Unavailable']
 }
 
 // Derived maps from aliasDefs
