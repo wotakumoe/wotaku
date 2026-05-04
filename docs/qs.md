@@ -30,7 +30,8 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | **Android** | [Animetail](https://github.com/Dark25/Animetail2) [:n:](https://github.com/Animetailapp/Animetail-preview) [:e:](/ext/mihon) |
 | ^^        | [Hayase](https://hayase.watch/) [:src:](https://github.com/hayase-app) [:e:](/ext/misc#hayase) |
 | ^^        | [Dantotsu](https://discord.com/invite/4HPZ5nAWwM) [:e:](/ext/mihon) |
-| **iOS**   | [Luna](https://github.com/cranci1/Luna) [:e:](/ext/ios#sora) |
+| **iOS**   | [Sora](https://github.com/cranci1/Sora) [:e:](/ext/ios#sora) |
+| ^^        | [Luna](https://github.com/cranci1/Luna) [:e:](/ext/ios#sora) |
 | ^^        | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) |
 | **PC**    | [Hayase](https://hayase.watch/) [:src:](https://github.com/hayase-app) [:e:](/ext/misc#hayase) |
 | ^^        | [Mangayomi](https://github.com/kodjodevf/mangayomi) :s::mag::ddl: [:e:](/ext/mangayomi) |

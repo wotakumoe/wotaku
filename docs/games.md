@@ -171,7 +171,6 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 ### Game Tools
 - [Game Tools and Modifications](https://en.touhouwiki.net/wiki/Game_Tools_and_Modifications)
 - [autopunch](https://autopunch.delthas.fr/) [:src:](https://github.com/delthas/autopunch)
-- [LunarCast Game Replays](http://replay.lunarcast.net/)
 - [Neko Project II](https://nc-roadgeek.neocities.org/mima/pc98-neko)
 - [Touhou Launcher](https://a-digital-project.github.io/launcher/)
 - [Touhou Replay Manager](https://github.com/raviddog/threplay)

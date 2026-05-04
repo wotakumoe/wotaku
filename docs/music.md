@@ -128,6 +128,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [am-dl](https://am-dl.pages.dev/) | Apple |
 | [ARCOD](https://www.arcod.xyz/) :acc: | Qobuz |
 | [Jumo-DL](https://jumo-dl.pages.dev/) | ^^ |
+| [Monochrome](https://monochrome.tf/) [:prx:](https://rentry.org/wotaxy#monochrome) [:src:](https://github.com/monochrome-music/monochrome) | ^^ |
 
 ## Doujin
 

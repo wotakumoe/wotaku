@@ -1,3 +1,3 @@
-- Scrapes from Crunchyroll.
+- Sources from Crunchyroll.
 - UI is really basic.
 - Browser has to support DRM.

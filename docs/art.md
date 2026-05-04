@@ -60,7 +60,7 @@ og:
 
 
 ## Booru
-- [Danbooru](https://danbooru.donmai.us/)
+- [Danbooru](https://danbooru.donmai.us/) :s:
 - [Donmai](https://donmai.moe/) <Badge type="green" link="" text="SFW"/>
 - [E-ShuuShuu](https://e-shuushuu.net/) <Badge type="green" link="" text="SFW"/>
 - [Gelbooru](https://gelbooru.com/) :s:

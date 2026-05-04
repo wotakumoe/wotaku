@@ -158,6 +158,7 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.github.
 :::
 
 ## Anime
+- [Sora](https://github.com/cranci1/Sora) [:e:](/ext/ios#sora)
 - [Luna](https://github.com/cranci1/Luna) [:e:](/ext/ios#sora)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi)
 - [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) [:e:](/ext/mangayomi)
