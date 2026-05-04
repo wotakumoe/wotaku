@@ -15,7 +15,6 @@ og:
 | ^^ | [Kuri](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/edit#gid=1019246469) |
 | ^^ | [Jo-Mako](https://docs.google.com/spreadsheets/d/1IytlD4JjYO5-38wP6VbFNjHQDaDEsx4WWi2Rs-gaamk/htmlview#gid=482897207) |
 | ^^ | [Learn Natively](https://learnnatively.com/) |
-| ^^ | [Perdition](https://perdition-japanese.github.io/posts/how-to-study-japanese/#step-1-h--immersion-optional) |
 | ^^ | [Acquiring Japanese Efficiently](https://docs.google.com/document/d/1LH82FjsCqCgp6-TFqUcS_EB15V7sx7O1VCjREp6Lexw/edit#heading=h.ct5zhbvvh3b8) |
 | Visual Novels | [VN Club](https://vnclub.org/) |
 | ^^ | [Alanae](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub) |
@@ -29,7 +28,7 @@ og:
   { name: 'JPDB', scrapes: { 'Anime': '', 'Novels': '', 'Visual Novels': '', 'Web Novels': '', 'Live Action': '' } },
   { name: 'Kuri', scrapes: { 'Anime': '', 'Manga': '', 'Novels': '', 'Visual Novels': '', 'Video Games': '', 'Live Action': '', 'YouTube': '', 'VTubers': '', 'Podcasts': '' } },
   { name: 'Jo-Mako', scrapes: { 'Course': '', 'Anime': '', 'Video Games': '', 'Visual Novels': '', 'Manga': '', 'Live Action': '' } },
-  { name: 'LearnNatively', scrapes: { 'Anime': '', 'Manga': '', 'Novels': '' } },
+  { name: 'LearnNatively', scrapes: { 'Anime': '', 'Manga': '', 'Light Novels': '', 'Novels': '' } },
   { name: 'Acquiring Japanese Efficiently', scrapes: { 'YouTube': '', 'Novels': '', 'Visual Novels': '', 'Reading': '' } }
 ]" />
 
