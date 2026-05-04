@@ -70,9 +70,9 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [Anime Srbija](https://www.animesrbija.com/) |
 | ^^ | [AniPiece](https://anipiece.net/) |
 | ^^ | [BalkanFlix](https://www.balkanflix.com/) |
-| ^^ | [Gledaj Crtaće (.org)](https://www.gledajcrtace.org/) |
-| ^^ | [Gledaj Crtaće (.rs)](https://www.gledajcrtace.rs/) |
 | ^^ | [Ranime](https://ranime.net/) |
+| **Cartoon** | [Gledaj Crtaće (.org)](https://www.gledajcrtace.org/) |
+| ^^ | [Gledaj Crtaće (.rs)](https://www.gledajcrtace.rs/) |
 | **Manga** | [L&B Pirates](https://lnbmange.com/) |
 | **News** | [Potamanime](https://potamanime.rs/) |
 
