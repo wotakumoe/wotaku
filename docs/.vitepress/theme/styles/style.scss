@@ -1411,7 +1411,7 @@ table tr:nth-child(odd) {
 .icon-tip {
   position: relative;
   display: inline-block;
-  vertical-align: middle;
+  vertical-align: -0.125em;
   cursor: help;
 
   &::after {

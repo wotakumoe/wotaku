@@ -88,7 +88,7 @@ export default defineConfig({
       scale: 1.2,
       extraProperties: {
         display: 'inline-block',
-        'vertical-align': 'middle',
+        'vertical-align': '-0.125em', // changed from 'middle'
         'min-width': '1.2rem'
       },
       warn: true,
