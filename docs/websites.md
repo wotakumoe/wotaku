@@ -38,7 +38,7 @@ outline: 1
 | [Anikoto](https://anikototv.to/home) ==Anikoto== | :yes: | :ie: | :cc::oc: |
 | [AnimePahe](https://animepahe.pw/) ==Animepahe== | :no: | :msync: | :oc: |
 | [Animotvslash](https://www.animotvslash.org/) [:alt:](https://animotvslash.nl/home/) | :no: | :no: | :cc::oc: |
-| [Kuudere](https://kuudere.to/) [:prx:](https://rentry.org/wotaxy#kuudere) | :yes: | :sync::ie::msync: | :cc: |
+| [Re:ANIME](https://reanime.to/home) | :yes: | :sync::ie::msync: | :cc: |
 | [Otaku-Streamers](https://beta.otaku-streamers.com/) :acc: ==OtakuStreamers== | :yes: | :no: | :oc: |
 | [Watch Cartoon Online](https://www.wco.tv/) [:prx:](https://www.wcostatus.com/) ==WCO== | :yes: | :no: | :oc: |
 
@@ -53,9 +53,9 @@ outline: 1
 
 ### Source table
 <ScrapeTable :sites="[
-  { name: '1anime', scrapes: { 'AnimeKai': 'kai & kiwi', 'Anime Nexus': 'nexus', 'AnimePahe': 'pahe', 'Anitaku': 'gogo', 'Kuudere': 'Zen', 'AniZone': 'Zone' } },
+  { name: '1anime', scrapes: { 'AnimeKai': 'kai & kiwi', 'Anime Nexus': 'nexus', 'AnimePahe': 'pahe', 'Anitaku': 'gogo', 'Re:ANIME': 'Zen', 'AniZone': 'Zone' } },
   { name: 'Animetsu', scrapes: { 'AnimeGG': 'Meg', 'AnimePahe': 'Pahe', 'KickAssAnime': 'Kiss', 'Anikoto': 'Kite', } },
-  { name: 'AnimeX', scrapes: { '123anime (SD)': { name: 'wave', metadata: ['SD'] }, 'Animehub (SD)': { name: 'shiro', metadata: ['SD'] }, 'AnimePahe': 'uwu', 'Anitaku': 'mimi', 'AllManga': 'mochi', 'KickAssAnime': 'kami', 'AnimeOnsen (SD)': { name: 'vee', metadata: ['SD'] }, 'AniZone': 'zaza', 'Anikoto': 'yuki', 'Kuudere': 'zen' } },
+  { name: 'AnimeX', scrapes: { '123anime (SD)': { name: 'wave', metadata: ['SD'] }, 'Animehub (SD)': { name: 'shiro', metadata: ['SD'] }, 'AnimePahe': 'uwu', 'Anitaku': 'mimi', 'AllManga': 'mochi', 'KickAssAnime': 'kami', 'AnimeOnsen (SD)': { name: 'vee', metadata: ['SD'] }, 'AniZone': 'zaza', 'Anikoto': 'yuki', 'Re:ANIME': 'zen' } },
   { name: 'Miruro', scrapes: { 'AnimeKai': 'arc', 'AnimeDunya (SD)': { name: 'dune', metadata: ['SD'] }, 'AnimePahe': 'kiwi & telli', 'KickAssAnime': 'hop & kuz', 'AllManga': 'ally & nun', 'Anikoto': 'bun & bee',  } , }
 ]" />
 </Collapsible>
