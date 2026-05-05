@@ -27,7 +27,7 @@ og:
 | [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) | :yes: | :msync: |
 | [Anikoto](https://anikototv.to/home) ==Anikoto== | :yes: | :ie: |
 | [Animotvslash](https://www.animotvslash.org/) [:alt:](https://animotvslash.nl/home/) | :no: | :no: |
-| [Kuudere](https://kuudere.to/) [:prx:](https://rentry.org/wotaxy#kuudere) | :yes: | :sync::ie::msync: |
+| [Re:ANIME](https://reanime.to/home) | :yes: | :sync::ie::msync: |
 | [Anime-Dunya](https://anime-dunya.com/en) :sd: | :yes: | :no: |
 | [AnimeOnsen](https://www.animeonsen.xyz/) :sd: | :yes: | :msync: |
 

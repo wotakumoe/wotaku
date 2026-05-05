@@ -31,7 +31,7 @@ outline: 1
 
 ### Self-uploaded
 | Websites | Login | Tracking | Sub |
-|----------|----------------|----------------------------|--------|
+|----------|-------|----------|-----|
 | [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) | :yes: | :msync: | :cc::oc: |
 | [Anibd](https://anibd.app/) :ero: [:alt:](https://ani.lol/) | :yes: | :no: | :oc: |
 | [AniHQ](https://anihq.org/home/) | :yes: | :no: | :oc: |
@@ -45,7 +45,7 @@ outline: 1
 
 ### Scrapers
 | Websites | Login | Tracking | Sub |
-|----------|----------------|----------------------------|--------|
+|----------|-------|----------|-----|
 | [1anime](https://1anime.app/discover) [:prx:](https://1ani.me/) | :yes: | :sync: | :cc::oc: |
 | [Animetsu](https://animetsu.net/) [:prx:](https://rentry.org/wotaxy#animetsu) | :yes: | :ie::msync: | :cc::oc: |
 | [AnimeX](https://animex.one/home) | :yes: | :sync: | :cc::oc: |
