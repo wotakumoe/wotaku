@@ -21,6 +21,7 @@ interface Site {
 
 const props = defineProps<{
   sites: Site[]
+  cornerLabel?: string
 }>()
 
 function normalizeScrapeValue(value: ScrapeValue): NormalizedScrapeValue {
@@ -143,7 +144,7 @@ onMounted(() => {
         </colgroup>
         <thead>
           <tr>
-            <th class="corner">Sources</th>
+            <th class="corner">{{ cornerLabel ?? 'Sources' }}</th>
             <th v-for="source in sources" :key="source" class="source-header">
               <span>{{ source }}</span>
             </th>
