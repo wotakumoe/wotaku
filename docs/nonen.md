@@ -22,6 +22,17 @@ og:
 | ^^ | [ToonsHub](https://www.toonshub.my.id/) |
 | ^^ | [Varyg](https://nyaa.si/user/varyg1001) |
 
+
+### Manga
+| Websites | Tracking | Sources | Reading mode | Social |
+|----------|----------|---------|--------------|--------|
+| [Comix](https://comix.to/home)  ==Comix== | :ie::msync: | :ms: | :sp::dp::ls: | :cmnt: |
+| [Kagane](https://kagane.org/)  ==Kagane== | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
+| [MangaFire](https://mangafire.to/home)  ==MangaFire== | :ie::msync: | :ss: | :sp::dp::ls: | :no: |
+| [Mangadotnet](https://mangadot.net/) ==Mangadotnet== | :sync: | :ps::up: | :sp::dp::ls: | :cmnt::frm: |
+| [MangaBall](https://mangaball.net/)  | :msync: | :ps::up: | :ls: | :cmnt: |
+
+
 ::: tip Apps
 Most apps in [**software**](/software) supports multilingual sources
 :::
