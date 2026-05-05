@@ -98,7 +98,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | ^^         | [Musicolet Music Player](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) :lcl::cs: |
 | ^^         | [Echo](https://github.com/brahmkshatriya/echo) :s::and: [:help:](/guides/music/echo) |
 | ^^         | [Metrolist](https://metrolist.meowery.eu/) [:src:](https://github.com/mostafaalagamy/metrolist) |
-| **iOS**    | [Flacbox](https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256) :cs: |
+| **iOS**    | [Flacbox](https://apps.apple.com/app/flacbox-hi-res-music-player/id1097564256) :cs: |
 | **PC**     | [Foobar2000](https://www.foobar2000.org/) :s::win::app::cs: |
 | ^^         | [AIMP](https://www.aimp.ru/) :s::win::cs: |
 | ^^         | [MusicBee](https://www.getmusicbee.com/) :win::cs: |

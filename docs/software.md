@@ -186,9 +186,9 @@ or buy an Android phone :ic-twotone-thumb-up:
 | ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) |
 | ^^ | [Tachimanga](https://tachimanga.app/) :fm::sub::cs: [:e:](https://tachimanga.app/help/guides/adding-repos.html) |
 | **Local** | [YACReader](https://apps.apple.com/app/id635717885) :s::paid::cs: [:tf:](https://testflight.apple.com/join/5zhB7sRP) |
-| ^^ | [Panels](https://apps.apple.com/us/app/panels-comic-reader/id1236567663) :fm::sub::cs: |
-| ^^ | [iComics](https://apps.apple.com/us/app/icomics/id493845493) :paid::cs: |
-| ^^ | [SideBooks](https://apps.apple.com/us/app/sidebooks/id409777225) :cs: |
+| ^^ | [Panels](https://apps.apple.com/app/panels-comic-reader/id1236567663) :fm::sub::cs: |
+| ^^ | [iComics](https://apps.apple.com/app/icomics/id493845493) :paid::cs: |
+| ^^ | [SideBooks](https://apps.apple.com/app/sidebooks/id409777225) :cs: |
 
 
 ## Novel
@@ -199,14 +199,14 @@ or buy an Android phone :ic-twotone-thumb-up:
 ## Trackers
 | Category       | Name & Links |
 |----------------|--------------|
-| **AniList**  | [AniClient](https://apps.apple.com/us/app/aniclient-for-anilist/id6474905817) :cs: |
-| ^^           | [MyAniList](https://apps.apple.com/us/app/myanilist/id741257899) :cs::fm::sub: |
+| **AniList**  | [AniClient](https://apps.apple.com/app/aniclient-for-anilist/id6474905817) :cs: |
+| ^^           | [MyAniList](https://apps.apple.com/app/myanilist/id741257899) :cs::fm::sub: |
 | ^^           | [Otraku](https://github.com/lotusprey/otraku) |
-| ^^           | [Risuto](https://apps.apple.com/us/app/risuto-for-anilist/id6455685990) :cs: |
-| ^^           | [Ryuusei](https://apps.apple.com/us/app/ryuusei-for-anilist/id1347721581) :cs::fm::sub: |
-| **MyAnimeList** | [Kitsune](https://apps.apple.com/us/app/kitsune-for-myanimelist/id6466716447) :cs::fm: |
-| ^^           | [ManGo](https://apps.apple.com/us/app/mango-anime-manga-tracker/id1604385869) :cs::fm::sub: |
-| ^^           | [MyAnimeList Official](https://apps.apple.com/us/app/myanimelist-official/id1469330778) :cs: |
+| ^^           | [Risuto](https://apps.apple.com/app/risuto-for-anilist/id6455685990) :cs: |
+| ^^           | [Ryuusei](https://apps.apple.com/app/ryuusei-for-anilist/id1347721581) :cs::fm::sub: |
+| **MyAnimeList** | [Kitsune](https://apps.apple.com/app/kitsune-for-myanimelist/id6466716447) :cs::fm: |
+| ^^           | [ManGo](https://apps.apple.com/app/mango-anime-manga-tracker/id1604385869) :cs::fm::sub: |
+| ^^           | [MyAnimeList Official](https://apps.apple.com/app/myanimelist-official/id1469330778) :cs: |
 
 
 ![](/banner/pc.webp)
@@ -353,7 +353,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 ## Stremio
 | Category   | Resource |
-|------------|--------------------------------------------------|
+|------------|----------|
 | **Starter** | [Viren070's Guides](https://guides.viren070.me/) [:src:](https://github.com/Viren070/guides) |
 | ^^         | [Stremio Addons](https://stremio-addons.net/) |
 | **Tracker** | [SyncriBullet](https://56bca7d190fc-syncribullet.baby-beamup.club/) [:src:](https://github.com/aliyss/syncribullet) |

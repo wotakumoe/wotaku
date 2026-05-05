@@ -168,7 +168,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 |---------|---------|-----|
 | [asia DREAM radio](https://asiadreamradio.torontocast.stream/stations/en/index.html) | [MP3 128](https://asiadreamradio.torontocast.stream/stations/newstream.html) | General |
 | [J1 Radio](https://www.j1fm.tokyo/player/j1hits/) | [MP3 128](https://www.j1fm.tokyo/listen/) | General |
-| [Nightwave Plaza](https://plaza.one/) [:and:](https://play.google.com/store/apps/details?id=one.plaza.nightwaveplaza) [:ios:](https://apps.apple.com/us/app/nightwave-plaza/id1532678227) [:src:](https://github.com/nightwaveplaza/plaza) | [MP3 128](https://plaza.one/plaza.m3u) | Vaporwave |
+| [Nightwave Plaza](https://plaza.one/) [:and:](https://play.google.com/store/apps/details?id=one.plaza.nightwaveplaza) [:ios:](https://apps.apple.com/app/nightwave-plaza/id1532678227) [:src:](https://github.com/nightwaveplaza/plaza) | [MP3 128](https://plaza.one/plaza.m3u) | Vaporwave |
 | [Patchwork Radio](https://patchwork.moekyun.me/radio) | [MP3 192](https://a4.asurahosting.com/public/patchworkarchive/playlist.m3u) | VTuber |
 | [Wapchan](https://radio.wapchan.org/public/wapfm) | [OPUS 192](https://radio.wapchan.org/public/wapfm/playlist.pls) | City Pop |
 | [Yumi Co. Radio](https://yumicoradio.net/) | [MP3 256](https://yumicoradio.net/public/yumi_co._radio/playlist.m3u) | City Pop |
@@ -357,7 +357,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | Player | Platform |
 | :--- | :--- |
 | [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player) :cs: | :and: |
-| [Flacbox](https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256) :cs: | :ios: |
+| [Flacbox](https://apps.apple.com/app/flacbox-hi-res-music-player/id1097564256) :cs: | :ios: |
 | [Oto Music Player](https://play.google.com/store/apps/details?id=com.piyush.music) :cs: | :and: |
 | [Musicolet Music Player](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) :cs: | :and: |
 | [Poweramp](https://powerampapp.com/) :s::cs::paid: | :and: |
@@ -366,7 +366,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 ### Online
 | Category   | Links   |
-|-----------|--------|
+|------------|---------|
 | **General** | [Echo](https://github.com/brahmkshatriya/echo) :s::and: [:help:](/guides/music/echo) ==echo== |
 | ^^         | [Revanced](https://revanced.app/) :and: [:src:](https://github.com/revanced) |
 | ^^         | [Soundbound](https://soundbound.app/) :and::cs: |
@@ -377,10 +377,10 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^         | [SimpMusic](https://github.com/maxrave-dev/SimpMusic) :and: |
 | **Spotify** | [EeveeSpotify](https://github.com/Meeep1/EeveeSpotifyRevivedPublic) :ios: |
 | ^^         | [xManager](https://www.xmanagerapp.com/) :and::cs: |
-| **Others**  | [OpenSpot](https://github.com/BlackHatDevX/openspot-music-app) :and: `Qobuz` |
-| ^^         | [ReFreezer](https://github.com/DJDoubleD/refreezer) :and: `Deezer` |
+| **Others**  | [OpenSpot](https://github.com/BlackHatDevX/openspot-music-app) :and: <Badge type="info" text="Qobuz" /> |
+| ^^         | [ReFreezer](https://github.com/DJDoubleD/refreezer) :and: <Badge type="info" text="Deezer" /> |
 | ^^         | [RootlessJamesDSP](https://github.com/timschneeb/RootlessJamesDSP) |
-| ^^         | [Transistor](https://codeberg.org/y20k/transistor) :and: `Radio` |
+| ^^         | [Transistor](https://codeberg.org/y20k/transistor) :and: <Badge type="info" text="Radio" /> |
 
 
 ### Audiobook
@@ -390,6 +390,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [mAbook Audiobook Player](https://play.google.com/store/apps/details?id=mindmine.audiobook) :cs::fm: | :and: |
 | [Smart AudioBook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer) :cs::fm: | :and: |
 | [Sirin Audiobook Player](https://play.google.com/store/apps/details?id=com.sirin.android) :cs::fm: | :and: |
+| [BookPlayer](https://apps.apple.com/app/bookplayer/id1138219998) [:src:](https://github.com/TortugaPower/BookPlayer) :fm: | :ios: |
 
 
 ## Tools

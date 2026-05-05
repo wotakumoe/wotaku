@@ -30,7 +30,7 @@ og:
 
 | Name | DDL | P2P | FOSS |
 |-|-|-|-|
-| [fGet](https://apps.apple.com/us/app/fget-file-manager-browser/id1582654012) | :yes: | :no: | :no: |
+| [fGet](https://apps.apple.com/app/fget-file-manager-browser/id1582654012) | :yes: | :no: | :no: |
 | [Gopeed](https://gopeed.com/) [:src:](https://github.com/GopeedLab/gopeed) | :yes: | :yes: | :yes: |
 | [iTorrent](https://github.com/XITRIX/iTorrent) | :no: | :yes: | :yes: |
 
@@ -43,7 +43,7 @@ og:
 | :--- | :--- | :--- |
 | **Local** | [mpvEx](https://github.com/marlboro-advance/mpvEx) :s: [:n:](https://marlboro-advance.github.io/mpvEx/) | :and: |
 | ^^ | ^[MX Player](Don't install the Play Store version as it was bought by Amazon, use Balatan's mod instead.) :s::cs: | :and: |
-| ^^ | [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) :cs: | :ios: |
+| ^^ | [Outplayer](https://apps.apple.com/app/outplayer/id1449923287) :cs: | :ios: |
 | **Online** | [Revanced](https://revanced.app/) [:src:](https://github.com/ReVanced/revanced-manager) | :and: |
 | ^^  | [Morphe](https://morphe.software/) [:src:](https://github.com/MorpheApp/morphe-manager) | :and: |
 | ^^ | [Libretube](https://libretube.dev/) [:src:](https://github.com/libre-tube/LibreTube) | :and: |
