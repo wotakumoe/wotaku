@@ -29,7 +29,7 @@ og:
 | [Animotvslash](https://www.animotvslash.org/) [:alt:](https://animotvslash.nl/home/) | :no: | :no: |
 | [Kuudere](https://kuudere.to/) [:prx:](https://rentry.org/wotaxy#kuudere) | :yes: | :sync::ie::msync: |
 | [Anime Onsen](https://www.animeonsen.xyz/) :sd: | :yes: | :msync: |
-| [Anime-Duniya](https://anime-dunya.com/en) :sd: | :yes: | :no: |
+| [Anime-Dunya](https://anime-dunya.com/en) :sd: | :yes: | :no: |
 
 </Collapsible>
 
@@ -450,6 +450,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | [Manga Zone](http://www.manga-zone.org/) | :yes: | :no: | :yes: |
 | [Manga ZIP](https://manga-zip.is/post) | :yes: | :no: | :yes: |
 | [Rawinstant](https://rawinstant.net/manga/) | :yes: | :yes: | :yes: |
+| [Raw Cans](http://raw-cans.net/) | :yes: | :no: | :yes: |
 | [Raw Manga Archive](https://mangasora.net/) | :yes: | :yes: | :yes: |
 | [RAWS MANGA](https://rawsmanga.com/) | :yes: | :yes: | :yes: |
 | [X3DL.NET](https://x3dl.net/wp/) | :yes: | :yes: | :yes: |
