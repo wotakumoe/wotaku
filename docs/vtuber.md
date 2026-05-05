@@ -57,8 +57,7 @@ og:
 | ^^          | [HoloChatStats](https://holochatstats.info/) [:src:](https://github.com/mipacd/HoloChatStats) |
 | ^^          | [Holotracker](https://trackholo.live/en/) |
 | ^^          | [Holouta Songs](https://www.youtube.com/@hololivesongs9790/) :ljp: |
-| **News**    | [aside's newsfeed](https://asideaside.github.io/feed/#/) [:src:](https://github.com/asideaside/feed) |
-| ^^          | [Hololive merch information](https://merch-matome.com/) :ljp: [:x:](https://x.com/hololive_goods) |
+| **News**    | [Hololive merch information](https://merch-matome.com/) :ljp: [:x:](https://x.com/hololive_goods) |
 | ^^          | [hololive TODAY](https://hololivetoday.com/)  |
 | ^^          | [Hololive Tsuushin](https://hololive-tsuushin.com/) :ljp: |
 | **Others**  | [Hololive Member Sorter](https://hololive.sorter.ufal.my.id/) |

@@ -537,7 +537,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [HentaisTube](https://www.hentaistube.com/) :ero: |
 | ^^ | [:tg: Toonami na Era do Telegram](https://t.me/toonamibr) |
 | Manga | [Argos Comic](https://argoscomics.online/) :ljp::lkr::lcn::ero: |
-| ^^ | [Kakusei Project](https://kakuseiproject.com/) :ljp::ero: |
 | ^^ | [Ler Mangas](https://lermangas.me/) :ljp::lkr::lcn::ero: |
 | ^^ | [Tao Sect](https://taosect.com/) :ljp::lkr::lcn::ero: |
 | ^^ | [Yuri on Air](https://yurionair.top/) :ljp::lkr::lcn::ero: |
