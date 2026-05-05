@@ -488,6 +488,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [Mana Gallery](https://managall.com/) [:prx:](https://linktr.ee/managall) |
 | ^^ | [YaToon](https://yatoon228.com/) [:prx:](https://yatoonlink.com/) |
 | ^^ | [FRToon](https://frtoon1.com/) |
+| ^^ | [TOONFLIX](https://toonflix.app/) |
 | ^^ | [Simpson](https://hdhd502.net/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8) |
 | ^^ | [MoneyToon](https://mtoon138.com/) |
 | ^^ | [NameeToon](https://namee100.com/) |
