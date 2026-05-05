@@ -361,6 +361,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | ^^         | [MAL-Stremio Addon](https://mal-stremio.vercel.app/) [:src:](https://github.com/SageTendo/mal-stremio-addon) |
 | ^^         | [Simkl Addons](https://simkl.com/apps/stremio/) |
 | **Others**  | [Anime Catalogs](https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/configure) |
+| ^^         | [AIOStreams](https://docs.aiostreams.viren070.me/) [:src:](https://github.com/Viren070/AIOStreams) |
 | ^^         | [Jackett Addon](https://github.com/aymene69/stremio-jackett) |
 | ^^         | [Addon Manager](https://stremio-addon-manager.vercel.app/) [:src:](https://github.com/pancake3000/stremio-addon-manager) |
 
