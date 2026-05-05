@@ -33,42 +33,17 @@ withDefaults(defineProps<Props>(), {
 <style scoped>
 .VPBadge {
   display: inline-flex;
-  margin-left: 2px;
+  margin-left: 0.125em;
   border: 1px solid transparent;
-  border-radius: 12px;
-  padding: 0 10px;
-  line-height: 22px;
-  font-size: 12px;
+  border-radius: 1em;
+  padding: 0 0.75em;
+  line-height: 1.5;
+  font-size: 0.75em;
   font-weight: 500;
-  transform: translateY(-2px);
   align-items: center;
-  gap: 0.2rem;
-  padding-right: 10px;
+  gap: 0.25em;
   vertical-align: middle;
-  /** If the badge is a link, we don't want to apply the link style from global styles. */
   text-decoration: none !important;
-}
-
-.vp-doc h1 > .VPBadge {
-  margin-top: 4px;
-  vertical-align: top;
-}
-
-.vp-doc h2 > .VPBadge {
-  margin-top: 3px;
-  padding: 0 8px;
-  vertical-align: top;
-}
-
-.vp-doc h3 > .VPBadge {
-  vertical-align: middle;
-}
-
-.vp-doc h4 > .VPBadge,
-.vp-doc h5 > .VPBadge,
-.vp-doc h6 > .VPBadge {
-  vertical-align: middle;
-  line-height: 18px;
 }
 
 .VPBadge.info {

@@ -56,6 +56,7 @@ withDefaults(
 
 .v-popper {
   display: inline-flex !important;
+  vertical-align: -0.125em;
 }
 
 .v-popper__popper .content ol {
