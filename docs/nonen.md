@@ -23,7 +23,7 @@ og:
 <Collapsible title="More">
 
 | Websites | Login | Tracking |
-|----------|----------------|----------------------------|
+|----------|-------|----------|
 | [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) | :yes: | :msync: |
 | [Anikoto](https://anikototv.to/home) ==Anikoto== | :yes: | :ie: |
 | [Animotvslash](https://www.animotvslash.org/) [:alt:](https://animotvslash.nl/home/) | :no: | :no: |

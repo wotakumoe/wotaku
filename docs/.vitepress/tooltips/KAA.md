@@ -1,3 +1,3 @@
-- Has multi-language softsub.
-- Missing some older titles, but you can request them in their support server.
+- Good library overall, but missing some older titles.
+- Can request titles in their support server.
 - Ads up the ass.

@@ -1,3 +1,4 @@
 - Sources from Crunchyroll.
+- Provides all their subs and dubs.
 - UI is really basic.
 - Browser has to support DRM.
