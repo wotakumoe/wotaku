@@ -11,17 +11,27 @@ og:
 
 ### Anime
 
-| Category | Website |
-| :--- | :--- |
-| **Stream** | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== |
-| ^^ | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== |
-| ^^ | [KickassAnime](https://kaa.lt/) ==KAA== |
-| ^^ | [AniZone](https://anizone.to/) ==AniZone== |
-| ^^ | [AnimeOnsen](https://www.animeonsen.xyz/) :sd: |
-| **Torrent** | [Erai-raws](https://nyaa.si/user/Erai-raws) |
-| ^^ | [ToonsHub](https://www.toonshub.my.id/) |
-| ^^ | [Varyg](https://nyaa.si/user/varyg1001) |
+| Websites | Login | Tracking |
+|----------|-------|----------|
+| [AnimeKai](https://animekai.to/home) [:prx:](https://rentry.org/wotaxy#animekai) ==AnimeKai== | :yes: | :sync::ie::msync: |
+| [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :yes: | :sync::ie::msync: |
+| [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :yes: | :no: |
+| [KickassAnime](https://kaa.lt/) ==KAA== | :yes: | :msync: |
+| [AniZone](https://anizone.to/) ==AniZone== | :no: | :msync: |
 
+
+<Collapsible title="More">
+
+| Websites | Login | Tracking |
+|----------|----------------|----------------------------|
+| [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) | :yes: | :msync: |
+| [Anikoto](https://anikototv.to/home) ==Anikoto== | :yes: | :ie: |
+| [Animotvslash](https://www.animotvslash.org/) [:alt:](https://animotvslash.nl/home/) | :no: | :no: |
+| [Kuudere](https://kuudere.to/) [:prx:](https://rentry.org/wotaxy#kuudere) | :yes: | :sync::ie::msync: |
+| [Anime Onsen](https://www.animeonsen.xyz/) :sd: | :yes: | :msync: |
+| [Anime-Duniya](https://anime-dunya.com/en) :sd: | :yes: | :no: |
+
+</Collapsible>
 
 ### Manga
 | Websites | Tracking | Sources | Reading mode | Social |
@@ -31,7 +41,6 @@ og:
 | [MangaFire](https://mangafire.to/home)  ==MangaFire== | :ie::msync: | :ss: | :sp::dp::ls: | :no: |
 | [Mangadotnet](https://mangadot.net/) ==Mangadotnet== | :sync: | :ps::up: | :sp::dp::ls: | :cmnt::frm: |
 | [MangaBall](https://mangaball.net/)  | :msync: | :ps::up: | :ls: | :cmnt: |
-
 
 ::: tip Apps
 Most apps in [**software**](/software) supports multilingual sources
