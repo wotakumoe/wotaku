@@ -156,30 +156,30 @@ outline: 1
 
 ## Online
 
-| Websites | Tracking | Sources | Non-EN | Reading mode | Social |
-|----------|----------|---------|------------|--------------|--------|
-| [Comix](https://comix.to/home)  ==Comix== | :ie::msync: | :ms: | :yes: | :sp::dp::ls: | :cmnt: |
-| [Kagane](https://kagane.org/)  ==Kagane== | :msync: | :ms::up: | :yes: | :sp::dp::ls: | :cmnt: |
-| [Weeb Central](https://weebcentral.com/) ==WeebCentral== | :msync: | :ss: | :no: | :lsg: | :cmnt: |
-| [Atsumaru](https://atsu.moe/) ==Atsumaru== | :msync: | :ps: | :no: | :sp::dp::ls: | :cmnt: |
-| [MangaFire](https://mangafire.to/home)  ==MangaFire== | :ie::msync: | :ss: | :yes: | :sp::dp::ls: | :no: |
+| Websites | Tracking | Sources | Reading mode | Social |
+|----------|----------|---------|--------------|--------|
+| [Comix](https://comix.to/home)  ==Comix== | :ie::msync: | :ms: | :sp::dp::ls: | :cmnt: |
+| [Kagane](https://kagane.org/)  ==Kagane== | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
+| [Weeb Central](https://weebcentral.com/) ==WeebCentral== | :msync: | :ss: | :lsg: | :cmnt: |
+| [Atsumaru](https://atsu.moe/) ==Atsumaru== | :msync: | :ps: | :sp::dp::ls: | :cmnt: |
+| [MangaFire](https://mangafire.to/home)  ==MangaFire== | :ie::msync: | :ss: | :sp::dp::ls: | :no: |
 
 <Collapsible title="More">
 
 ### Self-uploaded
-| Websites | Tracking | Sources | Non-EN | Reading mode | Social |
-|----------|----------|---------|------------|--------------|--------|
-| [MangaTaro](https://mangataro.org/home) | :ie::msync: | :ps::up: | :no: | :sp::dp::ls: | :cmnt: |
-| [Manga Katana](https://mangakatana.com/) | :ie::msync: | :ss: | :no: | :ls: | :cmnt: |
-| [Mangadotnet](https://mangadot.net/) ==Mangadotnet== | :sync: | :ps::up: | :yes: | :sp::dp::ls: | :cmnt::frm: |
-| [MangaBall](https://mangaball.net/)  | :msync: | :ps::up: | :yes: | :ls: | :cmnt: |
-| [OniSaga](https://onisaga.com/home) ==OniSaga== | :ie: | :ss::up: | :no: | :sp::dp::ls: | :no: |
-| [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy) | :msync: | :ss: | :no: | :ls: | :cmnt: |
-| [Mangahub](https://mangahub.io/) :acc: | :msync: | :ss: | :no: | :ls: | :cmnt: |
-| [Manga Fox](https://mangafox.la/) [:prx:](https://rentry.org/wotaxy#manga-fox) | :msync: | :ss: | :no: | :sp::ls:  | :cmnt: |
-| [MangaKakalot](https://www.mangakakalot.fan/) [:prx:](https://rentry.org/wotaxy#mangakakalot) | :msync: | :ss: | :no: | :ls: | :cmnt: |
-| [Like Manga](https://likemanga.ink/) | :msync: | :ss: | :no: | :ls: | :cmnt: |
-| [24hNovel](https://24hnovel.com/) <Badge type="info" text="Manhua"  /> | :no: | :ss: | :no: | :ls: | :no: |
+| Websites | Tracking | Sources | Reading mode | Social |
+|----------|----------|---------|--------------|--------|
+| [MangaTaro](https://mangataro.org/home) | :ie::msync: | :ps::up: | :sp::dp::ls: | :cmnt: |
+| [Manga Katana](https://mangakatana.com/) | :ie::msync: | :ss: | :ls: | :cmnt: |
+| [Mangadotnet](https://mangadot.net/) ==Mangadotnet== | :sync: | :ps::up: | :sp::dp::ls: | :cmnt::frm: |
+| [MangaBall](https://mangaball.net/)  | :msync: | :ps::up: | :ls: | :cmnt: |
+| [OniSaga](https://onisaga.com/home) ==OniSaga== | :ie: | :ss::up: | :sp::dp::ls: | :no: |
+| [Manga Buddy](https://mangabuddy.com/home) [:prx:](https://rentry.org/wotaxy#manga-buddy) | :msync: | :ss: | :ls: | :cmnt: |
+| [Mangahub](https://mangahub.io/) :acc: | :msync: | :ss: | :ls: | :cmnt: |
+| [Manga Fox](https://mangafox.la/) [:prx:](https://rentry.org/wotaxy#manga-fox) | :msync: | :ss: | :sp::ls:  | :cmnt: |
+| [MangaKakalot](https://www.mangakakalot.fan/) [:prx:](https://rentry.org/wotaxy#mangakakalot) | :msync: | :ss: | :ls: | :cmnt: |
+| [Like Manga](https://likemanga.ink/) | :msync: | :ss: | :ls: | :cmnt: |
+| [24hNovel](https://24hnovel.com/) <Badge type="info" text="Manhua"  /> | :no: | :ss: | :ls: | :no: |
 
 ### Scrapers
 | Websites | Tracking | Sources | Reading mode | Social |
