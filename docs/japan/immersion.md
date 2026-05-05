@@ -23,13 +23,13 @@ og:
 | Light Novels | [Moeclub](https://bookmeter.com/users/1313898/) |
 | Video Games | [Game Gengo](https://docs.google.com/spreadsheets/u/0/d/14TKRFvnDmBsgfxCJzkaNKTKmx4qDcsv7QSmfyzIKxQ4/htmlview#gid=0) |
 
-<ScrapeTable :sites="[
+<ScrapeTable corner-label="Topics" :sites="[
   { name: 'Jiten', scrapes: { 'Anime': '', 'Audio': '', 'Live Action': '', 'Manga': '', 'Non-Fiction': '', 'Novels': '', 'Light Novels': '', 'Video Games': '', 'Visual Novels': '', 'Web Novels': '' } },
   { name: 'JPDB', scrapes: { 'Anime': '', 'Novels': '', 'Light Novels': '', 'Visual Novels': '', 'Web Novels': '', 'Live Action': '' } },
   { name: 'Kuri', scrapes: { 'Anime': '', 'Manga': '', 'Novels': '', 'Light Novels': '', 'Visual Novels': '', 'Video Games': '', 'Live Action': '', 'YouTube': '', 'VTubers': '', 'Podcasts': '' } },
   { name: 'Jo-Mako', scrapes: { 'Course': '', 'Anime': '', 'Video Games': '', 'Visual Novels': '', 'Manga': '', 'Live Action': '' } },
   { name: 'Natively', scrapes: { 'Anime': '', 'Live Action': '', 'Manga': '', 'Light Novels': '', 'Non-Fiction': '', 'Novels': '', 'Reading': '' } },
-  { name: 'Acquiring Japanese Efficiently', scrapes: { 'YouTube': '', 'Novels': '', 'Visual Novels': '', 'Audio': '', 'Reading': '', 'Podcasts': ''  } }
+  { name: 'JP Efficiently', scrapes: { 'YouTube': '', 'Novels': '', 'Visual Novels': '', 'Audio': '', 'Reading': '', 'Podcasts': ''  } }
 ]" />
 
 ::: info README
