@@ -476,24 +476,26 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 ## Korean
 
-| Group | Website | Type |
-|-|-|-|
-| [**KORSITE**](https://korsite.net/) | [TOONKOR](https://tkor114.com/%EC%9B%B9%ED%88%B0) | Manhwa :ero: |
-| ^^                              | [Funbe](https://funbe632.com/%EC%9B%B9%ED%88%B0) | ^^ |
-| ^^                              | [Annie24](https://ohli24.net/) [:prx:](https://rentry.org/wotaxy#annie24)   | Anime  |
-| **Others** | [Wolf](https://nicelink22.com/) | Mix Comics :ero: |
-| ^^      | [XToon](https://t1.xtoon2.com/) | ^^ |
-| ^^      | [Anilife](https://anilife.live/) | Anime |
-| ^^      | [Anissia](https://anissia.net/) | Anime Subs |
-| ^^      | [GoPlay](https://goplay.su/) [:alt:](https://goplay.ml/) [:d:](https://discord.gg/yY2P3DQR8S) | Live Action |
+### Websites
 
-### Software
+| Category | Websites |
+| :--- | :--- |
+| **Comic** | [TOONKOR](https://tkor115.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
+| ^^ | [Funbe](https://funbe633.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
+| ^^ | [XToon](https://t2.xtoon365.com/) [:prx:](https://xn--9t4b31dr7o.com/) |
+| ^^ | [Wolf](https://wfwf449.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
+| ^^ | [W-Toon](https://wtwt323.com/) [:prx:](https://nicelink51.com/) |
+| ^^ | [Mana Gallery](https://managall.com/) [:prx:](https://linktr.ee/managall) |
+| ^^ | [YaToon](https://yatoon228.com/) [:prx:](https://yatoonlink.com/) |
+| ^^ | [FRToon](https://frtoon1.com/) |
+| ^^ | [Simpson](https://hdhd502.net/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8) |
+| ^^ | [MoneyToon](https://mtoon138.com/) |
+| ^^ | [NameeToon](https://namee100.com/) |
+| **Anime** | [Annie24](https://ohli24.net/) [:prx:](https://rentry.org/wotaxy#annie24) |
+| ^^ | [Anilife](https://anilife.live/) |
+| ^^ | [Anissia](https://anissia.net/) |
+| **Others** | [GoPlay](https://goplay.su/) [:alt:](https://goplay.ml/) [:d:](https://discord.gg/yY2P3DQR8S) |
 
-#### Android
-
-| Category | Resources |
-|-|-|
-| **Manhwa** | [Manga View Android](https://junheah.github.io/MangaViewAndroid/) |
 
 ## Lithuanian
 
