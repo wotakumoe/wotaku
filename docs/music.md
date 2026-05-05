@@ -372,7 +372,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^         | [Soundbound](https://soundbound.app/) :and::cs: |
 | **YouTube** | [Harmony Music](https://github.com/anandnet/Harmony-Music) :and: |
 | ^^         | [Innertune](https://github.com/z-huang/InnerTune) :and: |
-| ^^         | [Metrolist](https://metrolist.meowery.eu/) [:src:](https://github.com/mostafaalagamy/metrolist) :and: |
+| ^^         | [Metrolist](https://metrolist.meowery.eu/) :and: [:src:](https://github.com/mostafaalagamy/metrolist) |
 | ^^         | [RiMusic](https://github.com/fast4x/RiMusic) :and: |
 | ^^         | [SimpMusic](https://github.com/maxrave-dev/SimpMusic) :and: |
 | **Spotify** | [EeveeSpotify](https://github.com/Meeep1/EeveeSpotifyRevivedPublic) :ios: |
@@ -407,7 +407,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^           | [Rush](https://github.com/shub39/Rush) |
 | ^^           | [SongSync](https://github.com/Lambada10/SongSync) |
 | **Scrobbler** | [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) :mdi-lastfm::and: |
-| ^^           | [Marvis Pro](https://apps.apple.com/au/app/marvis-pro/id1447768809) :mdi-lastfm::ios::cs: |
+| ^^           | [Marvis Pro](https://apps.apple.com/app/marvis-pro/id1447768809) :mdi-lastfm::ios::cs: |
 | **Others**   | [MusicSearch](https://github.com/lydavid/MusicSearch) :and: <Badge type="info" text="MusicBrainz" /> |
 | ^^           | [Seeker](https://github.com/jackBonadies/SeekerAndroid) :and: <Badge type="info" text="Soulseek" /> |
 | ^^           | [SpotiFLAC Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) :and::ios: |
