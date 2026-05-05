@@ -400,14 +400,15 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 :::
 
 ### Online
-
-#### Manga
 - [Dokiraw](https://dokiraw.tech/)
 - [Free PDF Comic](https://freepdfcomic.eu/)
 - [Gomuraw](https://gomuraw.com/top)
 - [KL Manga](https://old.klz9.com/) [:prx:](https://rentry.org/wotaxy#kl-manga)
 - [MangaFire](https://mangafire.to/home)
 - [MangaKuro](https://mangakuro.net/home)
+
+<Collapsible title="More">
+
 - [Manga Raw (.ac)](https://mangaraw.ac/) [:prx:](https://rentry.org/wotaxy#mangarawspoil)
 - [Manga Raw (.ad)](https://mangarawad.bid/)
 - [Manga Raw (.best)](https://mangaraw.best/)
@@ -423,6 +424,12 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Sen Manga](https://raw.senmanga.com/)
 - [Twicomi](https://twicomi.com/)
 - [YomiRaw](https://yomiraw.com/)
+
+</Collapsible>
+
+::: tip More
+[Multi-lingual](#multi-language) websites also upload raw chapters. Although won't be as fast as dedicated.
+:::
 
 ### Download
 
@@ -453,6 +460,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | [Raw Cans](http://raw-cans.net/) | :yes: | :no: | :yes: |
 | [Raw Manga Archive](https://mangasora.net/) | :yes: | :yes: | :yes: |
 | [RAWS MANGA](https://rawsmanga.com/) | :yes: | :yes: | :yes: |
+| [urajp](https://urajp.se/) | :yes: | :yes: | :yes: |
 | [X3DL.NET](https://x3dl.net/wp/) | :yes: | :yes: | :yes: |
 
 
