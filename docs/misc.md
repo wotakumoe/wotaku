@@ -196,7 +196,8 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [Moon Phase](https://m-p.sakura.ne.jp/) <Badge type="info" text="TV" /> |  
 | ^^ | [Syoboi Calendar](https://cal.syoboi.jp/) [:rss:](https://docs.cal.syoboi.jp/spec/rss.php/) <Badge type="info" text="General" /> |  
 | **Others** | [Blu-ray.com](https://www.blu-ray.com/movies/movies.php?genre=Anime&sortby=releasetimestamp) |
-| ^^  | [Yatta-Tachi Movie Schedule](https://yattatachi.com/2026-anime-japanese-films-coming-to-u-s-theaters-online) |
+| ^^ | [TVmaze](https://www.tvmaze.com/) |
+| ^^ | [Yatta-Tachi Movie Schedule](https://yattatachi.com/2026-anime-japanese-films-coming-to-u-s-theaters-online) |
 
 ## Manga & LN
 

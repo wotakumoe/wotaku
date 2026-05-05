@@ -323,6 +323,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [Anime World India](https://watchanimeworld.net/) + :len: |
 | ^^ | [AniMoye](https://animoye.com/) + :len: |
 | ^^ | [Desi Dub Anime](https://www.desidubanime.me/) |
+| ^^ | [Dora Bash](https://dorabash.in/) + :len: |
 | ^^ | [Kartoons](https://kartoons.me/home) |
 | ^^ | [PirateXPlay](https://piratexplay.cc/home) + :len: |
 | ^^ | [ToonStream](https://toonstream.dad/home/) + :len: |

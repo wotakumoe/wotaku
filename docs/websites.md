@@ -466,7 +466,7 @@ Some of the series may not be available depending on your region.
 
 <Collapsible title="Utility sites">
 
-- [JustWatch](https://www.justwatch.com/)
+- [JustWatch](https://www.justwatch.com/) :s: <Badge type="tip" text="JP" link="https://www.justwatch.com/jp" />
 - [Simkl](https://simkl.com/)
 - [uNoGS](https://unogs.com/)
 - [Yatta-Tachi List](https://yattatachi.com/legal-anime-streaming-sites)
@@ -476,7 +476,7 @@ Some of the series may not be available depending on your region.
 ## Manga
 
 | Category | Websites | Payment |
-|----------|----------|-|
+|----------|----------|---------|
 | **General** | [Omoi](https://www.omoi.com/) | :paid::sub::free: |
 | ^^ | [Renta!](https://www.ebookrenta.com/) | :coin::free: |
 | ^^ | [Yen Press](https://yenpress.com/) | :paid: |
