@@ -50,6 +50,7 @@ outline: 1
 | [Animetsu](https://animetsu.net/) [:prx:](https://rentry.org/wotaxy#animetsu) | :yes: | :ie::msync: | :cc::oc: |
 | [AnimeX](https://animex.one/home) | :yes: | :sync: | :cc::oc: |
 | [Miruro](https://www.miruro.to/) [:prx:](https://www.miruro.com) | :yes: | :sync::msync: | :cc::oc: |
+| [AnimeShrine](https://animeshrine.xyz/) [:src:](https://github.com/aquib4040/animeshrine) | :no: | :no: | :cc::oc: |
 
 ### Source table
 <ScrapeTable :sites="[
