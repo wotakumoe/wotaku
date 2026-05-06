@@ -102,6 +102,9 @@ const aliasDefs: Record<string, [string, string?]> = {
   sd: ['bi-badge-sd-fill', 'Video quality up to 720p'],
   sup: ['mingcute-server-fill', 'Self-uploaded (Own storage or video host)'],
   scrpr: ['mingcute-shovel-fill', 'Scraper (Pulling from other host sites)'],
+  tv: ['material-symbols-tv-gen-outline-rounded', 'Native TV support'],
+  cast: ['material-symbols-cast-outline','TV casting support'],
+  dlna: ['mdi-dlna','DLNA support'],
 
   up: ['material-symbols-upload', 'User / scanlator upload'],
   ms: ['material-symbols-file-copy-rounded', 'Multiple chapter sources'],
@@ -190,7 +193,6 @@ const aliasDefs: Record<string, [string, string?]> = {
   s: ['twemoji-glowing-star', 'Favorite'],
   e: ['mdi-puzzle', 'Extension'],
   n: ['material-symbols-science', 'Nightly build'],
-  tv: ['material-symbols-tv-gen-outline-rounded', 'Supports TV layout'],
   alt: ['ic-round-looks-two', 'Alternative'],
   ero: ['twemoji-no-one-under-eighteen', 'R18'],
   acc: ['material-symbols-person-add', 'Needs account'],

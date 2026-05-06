@@ -18,25 +18,17 @@ og:
 For Aniyomi, Dantotsu and their forks, check [**Extension Repos** page](/ext/mihon).
 :::
 
-| App | Source | Tracker |
-|-|-|-|
-| [Animetail](https://github.com/Dark25/Animetail2) [:n:](https://github.com/Animetailapp/Animetail-preview) | :ddl::mag: | :mal::al::k::simkl: |
-| [Hayase](https://hayase.watch/) [:src:](https://github.com/hayase-app) [:e:](/ext/misc#hayase) | :mag::usnt: | :mal::al::k: |
-| [Animiru](https://github.com/quickdesh/Animiru)  | :ddl: | :mal::al::k::simkl: |
-| [Anikku](https://anikku-app.github.io/) [:src:](https://github.com/komikku-app/anikku) [:n:](https://github.com/komikku-app/anikku-preview) | :ddl::mag: | :mal::al::k::simkl: |
-| [Dantotsu](https://github.com/itsmechinmoy/dantotsu-updater) [:d:](https://discord.com/invite/4HPZ5nAWwM) [:src:](https://git.rebelonion.dev/rebelonion/Dantotsu) | :ddl::mag: | :mal::al: |
-| [Cloudstream](https://github.com/recloudstream/cloudstream) :tv: [:e:](/ext/misc#cloudstream) | :ddl::mag: | :mal::al::simkl: |
-
-<Collapsible title="More">
-
-| App | Source | Tracker |
-|-|-|-|
-| [Aniyomi](https://aniyomi.org/) [:src:](https://github.com/aniyomiorg/aniyomi) [:n:](https://github.com/aniyomiorg/aniyomi-preview) | :ddl: | :mal::al::k::simkl: |
-| [Stremio](https://www.stremio.com/) :tv: [:e:](#stremio) | :mag: | :mal::al::k::simkl: |
-| [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) | :ddl::mag: | :mal::al::k: |
-| [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) [:e:](/ext/mangayomi) [:tv:](https://github.com/NyanTV/NyanTV) | :ddl: | :mal::al::simkl: |
-
-</Collapsible>
+| App | Source | Tracker | TV |
+|-|-|-|-|
+| [Animetail](https://github.com/Dark25/Animetail2) [:n:](https://github.com/Animetailapp/Animetail-preview) | :ddl::mag: | :mal::al::k::simkl: | :tv::cast::dlna: |
+| [Hayase](https://hayase.watch/) [:src:](https://github.com/hayase-app) [:e:](/ext/misc#hayase) | :mag::usnt: | :mal::al::k: | :tv::cast: |
+| [Anikku](https://anikku-app.github.io/) [:src:](https://github.com/komikku-app/anikku) [:n:](https://github.com/komikku-app/anikku-preview) | :ddl::mag: | :mal::al::k::simkl: | :tv::cast::dlna: |
+| [Dantotsu](https://github.com/itsmechinmoy/dantotsu-updater) [:d:](https://discord.com/invite/4HPZ5nAWwM) [:src:](https://git.rebelonion.dev/rebelonion/Dantotsu) | :ddl::mag: | :mal::al: | :cast: |
+| [Cloudstream](https://github.com/recloudstream/cloudstream) [:e:](/ext/misc#cloudstream) | :ddl::mag: | :mal::al::simkl: | :tv::cast: |
+| [Animiru](https://github.com/quickdesh/Animiru)  | :ddl: | :mal::al::k::simkl: | :no: |
+| [Stremio](https://www.stremio.com/) :cs: [:e:](#stremio) | :ddl::mag: | :mal::al::k::simkl: | :tv::cast: |
+| [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) | :ddl::mag: | :mal::al::k: | :no: |
+| [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) [:e:](/ext/mangayomi) | :ddl: | :mal::al::simkl: | [:tv:](https://github.com/NyanTV/NyanTV) |
 
 ### Cross-app Support
 <ScrapeTable :sites="[
