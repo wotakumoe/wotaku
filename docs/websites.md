@@ -21,9 +21,9 @@ outline: 1
 | Websites | Login | Tracking | Sub |
 |----------|-------|----------|-----|
 | [AnimeKai](https://animekai.to/home) [:prx:](https://rentry.org/wotaxy#animekai) ==AnimeKai== | :yes: | :sync::ie::msync: | :cc::oc: |
-| [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :yes: | :sync::ie::msync: | :cc: |
-| [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :yes: | :no: |  :cc: |
 | [KickassAnime](https://kaa.lt/) ==KAA== | :yes: | :msync: | :cc: |
+| [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :yes: | :no: |  :cc: |
+| [Re:ANIME](https://reanime.to/home) | :yes: | :sync::ie::msync: | :cc: |
 | [AniZone](https://anizone.to/) ==AniZone== | :no: | :msync: | :cc: |
 
 
@@ -36,9 +36,9 @@ outline: 1
 | [Anibd](https://anibd.app/) :ero: [:alt:](https://ani.lol/) | :yes: | :no: | :oc: |
 | [AniHQ](https://anihq.org/home/) | :yes: | :no: | :oc: |
 | [Anikoto](https://anikototv.to/home) ==Anikoto== | :yes: | :ie: | :cc::oc: |
+| [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :yes: | :sync::ie::msync: | :cc: |
 | [AnimePahe](https://animepahe.pw/) ==Animepahe== | :no: | :msync: | :oc: |
 | [Animotvslash](https://www.animotvslash.org/) [:alt:](https://animotvslash.nl/home/) | :no: | :no: | :cc::oc: |
-| [Re:ANIME](https://reanime.to/home) | :yes: | :sync::ie::msync: | :cc: |
 | [Otaku-Streamers](https://beta.otaku-streamers.com/) :acc: ==OtakuStreamers== | :yes: | :no: | :oc: |
 | [Watch Cartoon Online](https://www.wco.tv/) [:prx:](https://www.wcostatus.com/) ==WCO== | :yes: | :no: | :oc: |
 
