@@ -64,7 +64,7 @@ const aliasDefs: Record<string, [string, string?]> = {
   app: ['streamline-logos-mac-finder-logo-solid', 'MacOS'],
   lin: ['simple-icons-linux', 'Linux'],
   bsd: ['simple-icons-freebsd', 'BSD'],
-  cmd: ['material-symbols-terminal-rounded', 'CLI / TUI'],
+  cmd: ['lucide-square-terminal', 'CLI / TUI'],
 
   // Browser
   ff: ['simple-icons-firefoxbrowser', 'Firefox / Gecko-based'],
