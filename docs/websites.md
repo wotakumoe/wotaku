@@ -86,7 +86,7 @@ outline: 1
 | ^^ | [Unofficial Site](https://onepace.co/) |
 | ^^ | [Stremio Addon](https://github.com/au2001/onepace-stremio) |
 | ^^ | [Public Subtitles](https://github.com/one-pace/one-pace-public-subtitles) |
-| **Rerun Sites** | [BumpWorthy](https://www.bumpworthy.com/) |
+| **Rerun Sites** :sd: | [BumpWorthy](https://www.bumpworthy.com/) |
 | ^^ | [RetroBlast](https://retroblast.tv/) |
 | ^^ | [Swim Rewind](https://swimrewind.com/) |
 | ^^ | [Toonami Aftermath](https://www.toonamiaftermath.com/) |
@@ -94,7 +94,7 @@ outline: 1
 | **Others** | [Gabby's Anime Edits](https://linktr.ee/gabby5202) |
 | ^^ | [SBY Stream](https://sbystream.com/) |
 | ^^ | [Sonic Zone TV](https://soniczone.net/tv/home.html) |
-| ^^ | [Japanese Animated Film Classics](https://animation.filmarchives.jp/en/index.html) |
+| ^^ | [Japanese Animated Film Classics](https://animation.filmarchives.jp/en/index.html) :sd: |
 
 </Collapsible>
 
