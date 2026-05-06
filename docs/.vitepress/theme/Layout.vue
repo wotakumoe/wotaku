@@ -52,44 +52,39 @@ const openCollapsibles = () => {
   const target = document.getElementById(decodeURIComponent(hash)) || document.getElementById(hash)
   if (!target) return
 
-  let scrollTarget = target
-  let el: HTMLElement | null = target
+  let scrollTarget: HTMLElement = target
 
-  while ((el = el.closest('details'))) {
+  for (let el = target.closest('details'); el; el = el.parentElement?.closest('details')) {
     el.open = true
     scrollTarget = el
-    el = el.parentElement
   }
 
   if (/^H[1-6]$/.test(target.tagName)) {
     const level = +target.tagName[1]
-    let sibling = target.nextElementSibling
 
-    while (sibling) {
-      if (/^H[1-6]$/.test(sibling.tagName) && +sibling.tagName[1] <= level) break
+    for (let sib = target.nextElementSibling; sib; sib = sib.nextElementSibling) {
+      if (/^H[1-6]$/.test(sib.tagName) && +sib.tagName[1] <= level) break
 
-      if (sibling.tagName === 'DETAILS') {
-        (sibling as HTMLDetailsElement).open = true
-        if (scrollTarget === target) scrollTarget = sibling as HTMLElement
+      if (sib.tagName === 'DETAILS') {
+        (sib as HTMLDetailsElement).open = true
+        if (scrollTarget === target) scrollTarget = sib as HTMLElement
       }
 
-      const nested = sibling.querySelectorAll<HTMLDetailsElement>('details')
+      const nested = sib.querySelectorAll<HTMLDetailsElement>('details')
       for (let i = 0; i < nested.length; i++) {
         nested[i].open = true
         if (scrollTarget === target) scrollTarget = nested[i]
       }
-
-      sibling = sibling.nextElementSibling
     }
   }
 
   requestAnimationFrame(() => {
     requestAnimationFrame(() => {
-      const navOffset = document.querySelector<HTMLElement>('.VPNavBar')?.offsetHeight || 0
+      scrollTarget.style.scrollMarginTop = 'var(--vp-nav-height)'
 
-      window.scrollTo({
-        top: scrollTarget.getBoundingClientRect().top + window.scrollY - navOffset,
-        behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth'
+      scrollTarget.scrollIntoView({
+        behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth',
+        block: 'start'
       })
 
       scrollTarget.setAttribute('tabindex', '-1')
