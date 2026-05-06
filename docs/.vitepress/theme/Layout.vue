@@ -52,33 +52,50 @@ const openCollapsibles = () => {
   const target = document.getElementById(decodeURIComponent(hash)) || document.getElementById(hash)
   if (!target) return
 
+  let scrollTarget = target
   let el: HTMLElement | null = target
+
   while ((el = el.closest('details'))) {
     el.open = true
+    scrollTarget = el
     el = el.parentElement
   }
 
   if (/^H[1-6]$/.test(target.tagName)) {
-    const level = parseInt(target.tagName[1])
+    const level = +target.tagName[1]
     let sibling = target.nextElementSibling
 
     while (sibling) {
-      if (/^H[1-6]$/.test(sibling.tagName)) {
-        if (parseInt(sibling.tagName[1]) <= level) break
-      }
+      if (/^H[1-6]$/.test(sibling.tagName) && +sibling.tagName[1] <= level) break
 
       if (sibling.tagName === 'DETAILS') {
         (sibling as HTMLDetailsElement).open = true
+        if (scrollTarget === target) scrollTarget = sibling as HTMLElement
       }
 
-      const nested = sibling.querySelectorAll('details')
+      const nested = sibling.querySelectorAll<HTMLDetailsElement>('details')
       for (let i = 0; i < nested.length; i++) {
         nested[i].open = true
+        if (scrollTarget === target) scrollTarget = nested[i]
       }
 
       sibling = sibling.nextElementSibling
     }
   }
+
+  requestAnimationFrame(() => {
+    requestAnimationFrame(() => {
+      const navOffset = document.querySelector<HTMLElement>('.VPNavBar')?.offsetHeight || 0
+
+      window.scrollTo({
+        top: scrollTarget.getBoundingClientRect().top + window.scrollY - navOffset,
+        behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth'
+      })
+
+      scrollTarget.setAttribute('tabindex', '-1')
+      scrollTarget.focus({ preventScroll: true })
+    })
+  })
 }
 
 watch(() => route.data, async () => {
