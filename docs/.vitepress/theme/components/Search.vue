@@ -417,10 +417,16 @@ onKeyStroke('Enter', (e) => {
   }
 
   if (selectedPackage) {
+    window.dispatchEvent(new CustomEvent('search-nav'))
     router.go(selectedPackage.id)
     showSearch.value = false
   }
 })
+
+function onResultClick() {
+  window.dispatchEvent(new CustomEvent('search-nav'))
+  showSearch.value = false
+}
 
 onKeyStroke('Escape', () => {
   showSearch.value = false
@@ -723,7 +729,7 @@ function onMouseMove(e: MouseEvent) {
                   @mouseenter="!disableMouseOver &&
                   (selectedIndex = index + 1)"
                   @focusin="selectedIndex = index + 1"
-                  @click="showSearch = false"
+                  @click="onResultClick"
                   :data-index="index + 1"
                 >
                   <div>

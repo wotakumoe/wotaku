@@ -45,51 +45,88 @@ watch(() => route.path, () => {
   homeSidebarOpen.value = false
 })
 
-const openCollapsibles = () => {
-  const hash = window.location.hash.slice(1)
-  if (!hash) return
+let searchNavigated = false
 
-  const target = document.getElementById(decodeURIComponent(hash)) || document.getElementById(hash)
-  if (!target) return
+if (!import.meta.env.SSR) {
+  useEventListener(window, 'search-nav', () => {
+    searchNavigated = true
+    tryOpenCollapsibles()
+  })
+}
 
+const openCollapsibles = (target: HTMLElement) => {
+  let scrollTarget = target
   let el: HTMLElement | null = target
+
   while ((el = el.closest('details'))) {
     el.open = true
+    scrollTarget = el
     el = el.parentElement
   }
 
-  if (/^H[1-6]$/.test(target.tagName)) {
-    const level = parseInt(target.tagName[1])
-    let sibling = target.nextElementSibling
+  const tagName = target.tagName
+  if (tagName.length === 2 && tagName[0] === 'H') {
+    const level = +tagName[1]
+    if (level >= 1 && level <= 6) {
+      let sibling = target.nextElementSibling
 
-    while (sibling) {
-      if (/^H[1-6]$/.test(sibling.tagName)) {
-        if (parseInt(sibling.tagName[1]) <= level) break
+      while (sibling) {
+        const siblingTag = sibling.tagName
+        if (siblingTag.length === 2 && siblingTag[0] === 'H' && +siblingTag[1] <= level) break
+
+        if (siblingTag === 'DETAILS') {
+          (sibling as HTMLDetailsElement).open = true
+          if (scrollTarget === target) scrollTarget = sibling as HTMLElement
+        }
+
+        const nested = sibling.getElementsByTagName('details')
+        for (let i = 0, len = nested.length; i < len; i++) {
+          nested[i].open = true
+          if (scrollTarget === target) scrollTarget = nested[i]
+        }
+
+        sibling = sibling.nextElementSibling
       }
-
-      if (sibling.tagName === 'DETAILS') {
-        (sibling as HTMLDetailsElement).open = true
-      }
-
-      const nested = sibling.querySelectorAll('details')
-      for (let i = 0; i < nested.length; i++) {
-        nested[i].open = true
-      }
-
-      sibling = sibling.nextElementSibling
     }
   }
+
+  requestAnimationFrame(() => {
+    requestAnimationFrame(() => {
+      const navBar = document.querySelector<HTMLElement>('.VPNavBar')
+      const navOffset = navBar ? navBar.offsetHeight : 0
+      window.scrollTo({
+        top: scrollTarget.getBoundingClientRect().top + window.scrollY - navOffset,
+        behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth'
+      })
+      scrollTarget.setAttribute('tabindex', '-1')
+      scrollTarget.focus({ preventScroll: true })
+    })
+  })
 }
 
-watch(() => route.data, async () => {
+const tryOpenCollapsibles = async () => {
+  if (!searchNavigated) return
   await nextTick()
-  openCollapsibles()
-})
 
-watch(() => route.hash, async () => {
-  await nextTick()
-  openCollapsibles()
-})
+  requestAnimationFrame(() => {
+    const hash = window.location.hash.slice(1)
+    if (!hash) {
+      searchNavigated = false
+      return
+    }
+
+    const id = decodeURIComponent(hash)
+    const target = document.getElementById(id) || document.getElementById(hash)
+
+    if (target) {
+      openCollapsibles(target)
+      searchNavigated = false
+    }
+  })
+}
+
+watch(() => route.data, tryOpenCollapsibles, { flush: 'post' })
+watch(() => route.hash, tryOpenCollapsibles, { flush: 'post' })
   
 function onSidebarEnter() {
   sidebarRef.value?.focus()
@@ -217,22 +254,6 @@ const reloadTakodachi = () => {
 
 onMounted(() => {
   if (import.meta.env.SSR) return
-  useEventListener(document, 'click', async (e: MouseEvent) => {
-    if ((e.target as HTMLElement).closest('a.result')) {
-      await nextTick()
-      requestAnimationFrame(() => requestAnimationFrame(openCollapsibles))
-    }
-  })
-
-  useEventListener(document, 'keydown', async (e: KeyboardEvent) => {
-    if (e.key === 'Enter') {
-      const searchBox = document.querySelector('.VPLocalSearchBox') || document.querySelector('.VPNavBarSearch')
-      if (searchBox && searchBox.contains(e.target as Node)) {
-        await nextTick()
-        requestAnimationFrame(() => requestAnimationFrame(openCollapsibles))
-      }
-    }
-  })
 
   // Arrow key scrolling + Escape close for sidebars and content
   let activeScrollTarget: HTMLElement | Window = window
