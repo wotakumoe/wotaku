@@ -1,3 +1,3 @@
 - Generally good video quality.
-- Library size isn't that big. Good for recent airing shows.
-- Has optimization issues on lower-end phones, may work better on different browsers. Doesn't support Safari / WebKit.
+- Library isn't that big, but good for recently airing shows.
+- Has optimization issues and long buffer times, won't load at all on some devices.
