@@ -5,7 +5,9 @@ description: Getting started
 
 # Getting started
 
-## Local
+## Localhost Setup
+
+### Windows
 
 :::tabs
 
@@ -71,7 +73,7 @@ cd wotaku
 ### Installing dependencies
 
 ```bash
-pnpm install
+pnpm i
 
 ```
 

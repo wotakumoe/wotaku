@@ -60,7 +60,7 @@ outline: 1
 ]" />
 </Collapsible>
 
-<Collapsible title="Donghua">
+<Collapsible title="Donghua dedicated">
 
 - [Animekhor](https://animekhor.org/) [:tg:](https://t.me/AnimeKhorOfficial)
 - [Anoboye](https://anoboye.com/) [:d:](https://discord.gg/rzqrzCZGgY)
@@ -199,10 +199,6 @@ outline: 1
 
 </Collapsible>
 
-::: tip Kaguya
-To make the cubari process easier, we have made [Kaguya](https://github.com/wotakumoe/kaguya) for [Cubari](https://cubari.moe/). It can batch upload manga chapters on Imgchest and generate full JSON. Full guide [here](/guides/manga/cubari).
-:::
-
 ## Download
 
 ### Nyaa
@@ -267,6 +263,10 @@ To make the cubari process easier, we have made [Kaguya](https://github.com/wota
 
 <Collapsible title="More">
 
+::: danger AI warning
+These sites contain a mix of both actual and AI-generated novels.
+:::
+
 - [VyNovel](https://vynovel.com/)
 - [NovelFire](https://novelfire.net/home)
 - [NovelList](https://www.novellist.co/)
@@ -281,10 +281,6 @@ To make the cubari process easier, we have made [Kaguya](https://github.com/wota
 - [Novel Hall](https://www.novelhall.com/)
 
 </Collapsible>
-
-::: danger AI warning
-These sites contain a mix of both actual and AI-generated novels.
-:::
 
 ## Download
 

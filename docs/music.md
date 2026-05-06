@@ -85,21 +85,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 <br>
 
-<Collapsible title="Symbols">
-
-
-- Uploaded on own server -> :ddl:
-- Uploaded on Google Drive -> :sgd:
-- Uploaded on Mega -> :sm:
-- Uploaded on Mediafire -> :smf:
-- Upload on different cloud storage site -> :ic-round-cloud-download:
-- Uploaded on Host sites -> :host:
-- Torrent/p2p Download -> :mag:
-- Account Needed -> :acc:
-
-
-</Collapsible>
-
 ## Anime
 
 ### FLAC & MP3
