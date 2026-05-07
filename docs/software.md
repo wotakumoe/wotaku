@@ -26,8 +26,7 @@ og:
 | [Mangayomi](https://github.com/kodjodevf/mangayomi) | :ddl::mag: | :mal::al::k: | :no: |
 | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) | :ddl: | :mal::al::simkl: | [:tv:](https://github.com/NyanTV/NyanTV) |
 
-::: tip All the extensions are [**here**](/ext/)
-:::
+<Block link="/ext/" icon="i-mdi-puzzle">All the extensions can be found here</Block>
 
 ## Manga 
 
@@ -49,8 +48,7 @@ og:
 | ^^ | [Kuro Reader +](https://kurotoshiro.dev/) :fm::cs: |
 | ^^ | [CDisplayEx](https://play.google.com/store/apps/details?id=com.progdigy.cdisplay.free) :fm::cs: |
 
-::: tip All the extensions are [**here**](/ext/)
-:::
+<Block link="/ext/" icon="i-mdi-puzzle">All the extensions can be found here</Block>
 
 ![Tachiyomi forks flowchart](/diagram/tachi.svg)
 
@@ -60,8 +58,8 @@ og:
 | Category | Apps |
 | :--- | :--- |
 | **Online** | [LN Reader](https://www.lnreader.app/) [:src:](https://github.com/LNReader/lnreader) [:e:](/ext/misc/#lnreader) |
-| ^^ | [IReader](https://ireaderorg.netlify.app/) [:src:](https://github.com/IReaderorg/IReader) [:e:](/ext/misc/#ireader) |
-| ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) |
+| ^^ | [IReader](https://ireaderorg.netlify.app/) [:src:](https://github.com/IReaderorg/IReader) |
+| ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) |
 | ^^ | [Quicknovel](https://github.com/LagradOst/QuickNovel) |
 | ^^ | [Ranobe](https://github.com/ranobe-org/ranobe) |
 | ^^ | [Shosetsu](https://shosetsu.app/) [:src:](https://gitlab.com/shosetsuorg/shosetsu) |
@@ -72,8 +70,7 @@ og:
 | ^^ | [KOReader](https://koreader.rocks/) [:src:](https://github.com/koreader/koreader) |
 | ^^ | [ReadEra](https://play.google.com/store/apps/details?id=org.readera) :fm::cs: |
 
-::: tip All the extensions are [**here**](/ext/)
-:::
+<Block link="/ext/" icon="i-mdi-puzzle">All the extensions can be found here</Block>
 
 ## Trackers
 
@@ -141,8 +138,7 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.github.
 - [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX)
 - [Hayase](https://hayase.watch/) :paid::cs::n: [:src:](https://github.com/hayase-app) [:e:](/ext/misc#hayase)
 
-::: tip All the extensions are [**here**](/ext/)
-:::
+<Block link="/ext/" icon="i-mdi-puzzle">All the extensions can be found here</Block>
 
 ::: details "iOS app not working. What should i do?"
 
@@ -205,6 +201,8 @@ or buy an Android phone :ic-twotone-thumb-up:
 | [Unyo](https://github.com/K3vinb5/Unyo) | :win::app::lin: | :ddl: | :al: |
 | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) [:e:](/ext/mangayomi) | :win::app::lin: | :ddl: | :mal::al::simkl: |
 
+<Block link="/ext/" icon="i-mdi-puzzle">All the extensions can be found here</Block>
+
 <Collapsible title="More">
 
 | Program | OS | Source | Tracker |
@@ -230,8 +228,8 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 | Category | Software | Platform | Reading Mode |
 | :--- | :--- | :--- | :--- |
-| **Online** | [Mangayomi](https://github.com/kodjodevf/mangayomi) :s: [:e:](/ext/mangayomi) | :win::app::lin: | :sp::dp::ls: |
-| ^^ | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) [:e:](/ext/mangayomi) | :win::app::lin: | :sp::dp::ls: |
+| **Online** | [Mangayomi](https://github.com/kodjodevf/mangayomi) :s: | :win::app::lin: | :sp::dp::ls: |
+| ^^ | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) | :win::app::lin: | :sp::dp::ls: |
 | ^^ | [Manga-tui](https://github.com/josueBarretogit/manga-tui) | :app::lin::cmd: | :sp: |
 | **Local** | [OpenComic](https://opencomic.app/) :s: [:src:](https://github.com/ollm/OpenComic) ==OpenComic== | :win::app::lin: | :sp::dp::ls: |
 | ^^ | [YACReader](https://www.yacreader.com/) [:src:](https://github.com/YACReader/yacreader) ==YACReader== | :win::app::lin: | :sp::dp: |
@@ -241,6 +239,8 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | ^^ | [MComix](https://sourceforge.net/projects/mcomix/files/) ==MComix== | :win::lin: | :sp::dp: |
 | ^^ | [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) [:src:](https://github.com/sumatrapdfreader/sumatrapdf) ==SumatraPDF== | :win: | :sp::dp::ls: |
 | ^^ | [ComicRack CE](https://github.com/maforget/ComicRackCE) | :win: | :sp::dp: |
+
+<Block link="/ext/" icon="i-mdi-puzzle">All the extensions can be found here</Block>
 
 ## Novel
 
