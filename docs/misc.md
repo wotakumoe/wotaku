@@ -76,11 +76,12 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 
 <Collapsible title="More">
 
+- [Flubber’s Fluttering Anime Pilgrimage](https://furaba-animeseichi.blog.jp/) :ljp:
 - [Anikore](https://www.anikore.jp/) :ljp:
 - [Annict](https://annict.com/) :ljp:
-- [Simkl](https://simkl.com/)
-- [TMDB](https://www.themoviedb.org/)
-- [TVDB](https://www.thetvdb.com/)
+- [SIMKL](https://simkl.com/)
+- [The Movie Database](https://www.themoviedb.org/)
+- [TheTVDB.com](https://www.thetvdb.com/)
 
 </Collapsible>
 
@@ -127,7 +128,8 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 |-|-|
 | Cons    | [FanCons](https://fancons.com/) [:alt:](https://animecons.com/) |
 | ^^      | [UpcomingCons](https://upcomingcons.com/) |
-| Drama / Live action | [MyDramaList](https://mydramalist.com/) |
+| Drama / Live action | [LAMA - Live Action Manga Adaptations](https://lama.watch/) | 
+| ^^      | [MyDramaList](https://mydramalist.com/) |
 | ^^      | [TV Drama Database](http://www.tvdrama-db.com/) :ljp: |
 | Games / VN | [VNDB](https://vndb.org/) :s: |
 | ^^      | [Nepchan](https://nepchan.org/) |
@@ -144,8 +146,6 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 # Info
 
 ## Anime
-
-### Stats & Watch guide
 
 | Category        | Links |
 |-----------------|-------|
@@ -168,11 +168,10 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [Oricon Weekly Ranking](https://www.oricon.co.jp/rank/) |
 | ^^ | :prev: [Randomanga](https://randomanga.wordpress.com/) :lfr: |
 | ^^ | [Manga Codex](https://mangacodex.com/) [:x:](https://x.com/Josu_ke) | 
-| **Shueisha** | [Jajanken](https://www.jajanken.net/en/) |
+| **Shueisha** | [Jajanken - Weekly Shonen Jump Lab](https://www.jajanken.net/en/) |
 | ^^ | [MANGA Plus Top 40](https://manga.tumeo.space/) [:src:](https://github.com/williamd1k0/manga-plus-top40) |
 | ^^ | [MANGA Plus Views](https://mangaplustracker.github.io/) [:src:](https://github.com/MangaplusTracker/MangaplusTracker.github.io) |
-| **Others** | [LAMA](https://lama.watch/) | 
-| ^^ | [Mannavi](https://mannavi.net/) :ljp: |
+| **Others** | [Mannavi](https://mannavi.net/) :ljp: |
 
 ![](/banner/calendar.webp)
 
@@ -209,7 +208,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | General | [Mynewworm](https://myneworm.katsurin.com/) [:src:](https://github.com/Butterstroke/Myneworm) |
 | ^^      | [Otaku Calendar](https://otakucalendar.com/Release/?filterCategory=2) :s: [:rss:](https://otakucalendar.com/rss) |
 | ^^      | [Yatta-Tachi](https://yattatachi.com/tag/releases) | 
-| Manga   | [Von's Manga Calendar](https://v0n.notion.site/Manga-297a9ad3a4904173b3a4ce319f9b2879) |
+| Manga   | [Otaku Calendar](https://otakucalendar.com/) |
 | ^^      | [Whakoom](https://en.whakoom.com/) :fm: |
 | ^^      | [Sumikko Comic](https://comic.sumikko.info/) :s::ljp: [:rss:](https://comic.sumikko.info/rss.xml) |
 | Light Novel | [RanobeDB](https://ranobedb.org/releases/calendar) :s: [:src:](https://github.com/Blastose/ranobedb) |
@@ -273,7 +272,6 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [Anime Mind Probe](https://www.youtube.com/@ANIMEMINDPROBE) :s: |
 | ^^ | :prev: [Full Frontal](https://fullfrontal.moe/) :s::ded: |  
 | ^^ | [Animétudes](https://animetudes.com/) :s::ded: |  
-| ^^ | [Furaba Anime search](https://furaba-animeseichi.blog.jp/) :ljp: |  
 | ^^ | [Let's Anime](https://letsanime.blogspot.com/) |  
 | ^^ | [NHK: Anime & Manga](https://www3.nhk.or.jp/nhkworld/en/shows/category/31/) :s: |
 | ^^ | [Sakuga Blog](https://blog.sakugabooru.com/) :s: [:x:](https://x.com/SakugaBlog) [:rss:](https://blog.sakugabooru.com/feed/) |  
@@ -317,10 +315,10 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | **Manga** | [Mihon Local Source JSON Generator](https://mihonlocal.netlify.app/) | :no: |
 | ^^        | [Tachibk Viewer](https://backup.mihon.tools/) [:src:](https://github.com/Animeboynz/Mihon-Backup-Viewer) | :no: |
 | **Manga Covers** | [Big Book Covers](https://covers.roler.dev/) :s: [:src:](https://github.com/rRoler/bbc-frontend) | General |
-| ^^        | [Comic Bibliographic and Cover Archives](http://www.eshita.jp/comics/index.html) :ljp: | - |
+| ^^        | [Comic Bibliographic and Cover Archives](http://www.eshita.jp/comics/index.html) :ljp: | :no: |
 | ^^        | [Ermitteln](https://ermitteln.ihateani.me/) [:src:](https://github.com/noaione/cmx-ermitteln) | Comixology |  
 | ^^        | [iTunes Artwork Finder](https://bendodson.com/projects/itunes-artwork-finder/) | :apple: |
-| ^^        | [Shounen Manga Encyclopedia](https://allcomic.noor.jp/) | - |
+| ^^        | [Shounen Manga Encyclopedia](https://allcomic.noor.jp/) :ljp: | :no: |
 
 <Collapsible title="Related resources">
 
