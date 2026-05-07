@@ -77,7 +77,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | ^^         | [Karaoke Mugen](https://kara.moe) |
 | ^^         | [Anisong Database](https://anisongdb.com/) [:src:](https://github.com/xSardine/AMQ-Artists-DB) |
 | **General** | [YouTube Music](https://music.youtube.com/) :fm::sub: |
-| ^^         | [Apple Music](https://music.apple.com/) :paid: |
+| ^^         | [Apple Music](https://music.apple.com/) :sub: |
 | ^^         | [Spotify](https://spotify.com/) :fm::sub: |
 
 ### Download
@@ -225,7 +225,7 @@ You should never use cracked or modded VPN cause all of your traffic will go thr
 - [The /b/ Archive](https://thebarchive.com/)
 - [Warosu](https://warosu.org/)
 
-### Others
+### Software
 
 | Category | URL | Platform |
 | :--- | :--- | :--- |
