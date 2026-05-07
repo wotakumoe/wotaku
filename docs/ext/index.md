@@ -34,6 +34,7 @@ og:
   { name: 'Anymex', scrapes: { 'Mihon': '', 'Aniyomi': '', 'Mangayomi': '', 'Sora': '', 'Cloudstream': '', 'LNreader': '' } },
   { name: 'Cloudstream', scrapes: { 'Cloudstream': '', 'Aniyomi': '' } },
   { name: 'Dantotsu', scrapes: { 'Mihon': '', 'Aniyomi': '', 'LNreader': '' } },
+  { name: 'Futon', scrapes: { 'Kotatsu': '', 'Mihon': ''  } },
   { name: 'IReader', scrapes: { 'IReader': '', 'LNreader': '', 'Legado': ''  } },
   { name: 'Kototoro', scrapes: { 'Mihon': '', 'Aniyomi': '', 'Kotatsu': '', 'LNReader': '', 'Legado': '', 'IReader': '' } },
   { name: 'Mangayomi', scrapes: { 'Mihon': '', 'Aniyomi': '', 'Mangayomi': '' } },
