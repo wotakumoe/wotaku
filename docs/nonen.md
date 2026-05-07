@@ -327,7 +327,8 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [Kartoons](https://kartoons.me/home) |
 | ^^ | [PirateXPlay](https://piratexplay.cc/home) + :len: |
 | ^^ | [ToonStream](https://toonstream.dad/home/) + :len: |
-| **DDL** | [AnimeVilla](https://animevilla.in/) :ero: |
+| **DDL** | [Anime Shrine](https://animeshrine.xyz/) + :len: |
+| ^^ | [AnimeVilla](https://animevilla.in/) :ero: |
 | ^^ | [ATOZ CARTOONIST](https://www.atozcartoonist.com/) |
 | ^^ | [GokuHD](https://www.gokuhd.com/) + :len: |
 | ^^ | [PikaHD](https://pikahd.com/) + :len: |
@@ -361,6 +362,7 @@ Most apps in [**software**](/software) supports multilingual sources
 - [Komik Indo](https://komikindo.ch/)
 - [Shinigami ID](https://id.shinigami.asia/)
 - [Softkomik](https://softkomik.com/)
+- [Sora.ich](https://sora-ich.vercel.app/)
 - [YuuManga](https://yuumanga.blogspot.com/)
 
 ### Light Novels
@@ -635,6 +637,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [AnimeJL](https://www.anime-jl.net/) :ero: |
 | ^^ | [Mundo Donghua](https://www.mundodonghua.com/) |
 | ^^ | [Tio Donghua](https://tiodonghua.com/) |
+| ^^ | [Veraanimes](https://wwv.veranimes.net/) |
 | ^^ | [HentaiLA](https://hentaila.com/hub) :ero: |
 | ^^ | [HentaiJL](https://hentaijl.com/) :ero: |
 | Download | [Japan Paw!](https://japanpaw.com/) |
