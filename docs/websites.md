@@ -463,6 +463,7 @@ Some of the series may not be available depending on your region.
 
 <Collapsible title="Utility sites">
 
+- [FlixHop](https://flixhop.com/)
 - [JustWatch](https://www.justwatch.com/) :s: <Badge type="tip" text="JP" link="https://www.justwatch.com/jp" />
 - [Simkl](https://simkl.com/)
 - [uNoGS](https://unogs.com/)
