@@ -158,7 +158,7 @@ outline: 1
 
 | Websites | Tracking | Sources | Reading mode | Social |
 |----------|----------|---------|--------------|--------|
-| [Comix](https://comix.to/home)  ==Comix== | :ie::msync: | :ms: | :sp::dp::ls: | :cmnt: |
+| [Comix](https://comix.to/)  ==Comix== | :ie::msync: | :ms: | :sp::dp::ls: | :cmnt: |
 | [Kagane](https://kagane.org/)  ==Kagane== | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [Weeb Central](https://weebcentral.com/) ==WeebCentral== | :msync: | :ss: | :lsg: | :cmnt: |
 | [Atsumaru](https://atsu.moe/) ==Atsumaru== | :msync: | :ps: | :sp::dp::ls: | :cmnt: |

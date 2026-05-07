@@ -99,7 +99,7 @@ We have listed the most trusted rippers in the [**Nyaa section**](/websites#nyaa
 
 <Collapsible title="What's the best website to read manga?">
 
-Personal preference. Good online manga reading sites generally reupload Nyaa releases (when it's available replacing/alongside the fantranslated one), but with added compression (e.g. [**Comix**](https://comix.to/home), [**Kagane**](https://kagane.org/), [**Weeb Central**](https://weebcentral.com/)) and/or watermarks on (almost) every page ([**MangaFire**](https://mangafire.to/home) :slightly-smiling-face: ). On the other hand, generic ones only keep the fan-translated ones. You can read a short description about the sites [**here**](/websites#manga).
+Personal preference. Good online manga reading sites generally reupload Nyaa releases (when it's available replacing/alongside the fantranslated one), but with added compression (e.g. [**Comix**](https://comix.to/), [**Kagane**](https://kagane.org/), [**Weeb Central**](https://weebcentral.com/)) and/or watermarks on (almost) every page ([**MangaFire**](https://mangafire.to/home) :slightly-smiling-face: ). On the other hand, generic ones only keep the fan-translated ones. You can read a short description about the sites [**here**](/websites#manga).
 
 </Collapsible>
 
@@ -124,7 +124,7 @@ There are a few options. [**CDisplayEx**](https://www.cdisplayex.com/), [**YACRe
 
 <Collapsible title="What's the best extension for mihon / tachiyomi?">
 
-Like with websites, it's also personal preference. But to us, it's [**Madokami**](/guides/manga/madokami) (in terms of quality). There are also [**Comix**](https://comix.to/home), [**Kagane**](https://kagane.org/) & others.
+Like with websites, it's also personal preference. But to us, it's [**Madokami**](/guides/manga/madokami) (in terms of quality). There are also [**Comix**](https://comix.to/), [**Kagane**](https://kagane.org/) & others.
 
 </Collapsible>
 

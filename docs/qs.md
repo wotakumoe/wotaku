@@ -44,7 +44,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 
 | Category   | Resource |
 |------------|--------------------------------------------------|
-| **Online** | [Comix](https://comix.to/home) |
+| **Online** | [Comix](https://comix.to/) |
 | ^^         | [Kagane](https://kagane.org/) |
 | ^^         | [Weeb Central](https://weebcentral.com/) |
 | **Download**  | [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap) |
