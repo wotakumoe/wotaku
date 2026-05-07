@@ -87,6 +87,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 ## Manga
 - [MangaUpdates](https://www.mangaupdates.com/) :s:
 - [Manba](https://manba.co.jp/) :s::ljp:
+- [Manga Properties](https://manga.properties/)
 - [Bookmeter](https://bookmeter.com/) :ljp:
 
 <Collapsible title="More">
@@ -95,7 +96,6 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 - [Comic Bibliographic and Cover Archives](http://www.eshita.jp/comics/index.html) :ljp:
 - [Comic Vine](https://comicvine.gamespot.com/)
 - [Kazamkase Comic Database](https://kazemakase.wjg.jp/comics/) :ljp:
-- [LAMA](https://lama.watch/)
 - [Shounen Manga Encyclopedia](https://allcomic.noor.jp/)
 - [Touhou Doujinshi Index](https://scarlet.nsk.sh/) [:src:](https://github.com/nanoskript/touhou-doujinshi-index) <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" />
 
@@ -161,16 +161,18 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 
 ## Manga & LN
 
-- [ComicRanking500](https://x.com/ComicRanking500) ==ComicRanking500==
-  - [Manga Ranking](http://shosekiranking.blog.fc2.com/) :ljp: [:rss:](http://shosekiranking.blog.fc2.com/?xml)
-  - [Novel Ranking](http://bunkoranoberanking.blog.fc2.com/) :ljp: [:rss:](http://bunkoranoberanking.blog.fc2.com/?xml)
-- [Jajanken](https://www.jajanken.net/en/) <Badge text="WSJ" />
-- [Manga Codex](https://mangacodex.com/)
-- [Manga Properties](https://manga.properties/)
-- [MANGA Plus Top 40](https://manga.tumeo.space/) [:src:](https://github.com/williamd1k0/manga-plus-top40)
-- [MANGA Plus Views](https://mangaplustracker.github.io/) [:src:](https://github.com/MangaplusTracker/MangaplusTracker.github.io)
-- [Mannavi](https://mannavi.net/) :ljp:
-- [Randomanga](https://randomanga.wordpress.com/) :flag-france: <Badge text="Oricon" /> 
+| Category | Websites |
+|-|-|
+| **General info / ranking** | [CR500 Manga Ranking](http://shosekiranking.blog.fc2.com/) :ljp: [:rss:](http://shosekiranking.blog.fc2.com/?xml) [:x:](https://x.com/ComicRanking500) ==ComicRanking500== |
+| ^^ | :prev: [Paperback Ranking](http://bunkoranoberanking.blog.fc2.com/) :ljp: [:rss:](http://bunkoranoberanking.blog.fc2.com/?xml) |
+| ^^ | [Oricon Weekly Ranking](https://www.oricon.co.jp/rank/) |
+| ^^ | :prev: [Randomanga](https://randomanga.wordpress.com/) :lfr: |
+| ^^ | [Manga Codex](https://mangacodex.com/) [:x:](https://x.com/Josu_ke) | 
+| **Shueisha** | [Jajanken](https://www.jajanken.net/en/) |
+| ^^ | [MANGA Plus Top 40](https://manga.tumeo.space/) [:src:](https://github.com/williamd1k0/manga-plus-top40) |
+| ^^ | [MANGA Plus Views](https://mangaplustracker.github.io/) [:src:](https://github.com/MangaplusTracker/MangaplusTracker.github.io) |
+| **Others** | [LAMA](https://lama.watch/) | 
+| ^^ | [Mannavi](https://mannavi.net/) :ljp: |
 
 ![](/banner/calendar.webp)
 
@@ -315,8 +317,10 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | **Manga** | [Mihon Local Source JSON Generator](https://mihonlocal.netlify.app/) | :no: |
 | ^^        | [Tachibk Viewer](https://backup.mihon.tools/) [:src:](https://github.com/Animeboynz/Mihon-Backup-Viewer) | :no: |
 | **Manga Covers** | [Big Book Covers](https://covers.roler.dev/) :s: [:src:](https://github.com/rRoler/bbc-frontend) | General |
+| ^^        | [Comic Bibliographic and Cover Archives](http://www.eshita.jp/comics/index.html) :ljp: | - |
 | ^^        | [Ermitteln](https://ermitteln.ihateani.me/) [:src:](https://github.com/noaione/cmx-ermitteln) | Comixology |  
 | ^^        | [iTunes Artwork Finder](https://bendodson.com/projects/itunes-artwork-finder/) | :apple: |
+| ^^        | [Shounen Manga Encyclopedia](https://allcomic.noor.jp/) | - |
 
 <Collapsible title="Related resources">
 
