@@ -65,11 +65,11 @@ og:
 | ^^ | [Settai Dreams](https://setteidreams.net/) :s::fm: <tooltip>The patreon-walled materials will eventually become free.</tooltip> |
 | ^^ | [Sakuga Booru](https://www.sakugabooru.com/) |
 | ^^ | :prev: [Sakuga.video](https://sakuga.video/) [:src:](https://github.com/sakuga-video/sakuga-video.github.io) |
-| **Anime Promo** | [The Movie Database](https://www.themoviedb.org/) :s: |
+| **Anime Promo** | [Japanese Movie Global Poster Archive](https://www.jamgpa.jp/?lang=en) :ded: |
 | ^^ | [MoviePosterDB](https://www.movieposterdb.com/) |
+| ^^ | [The Movie Database](https://www.themoviedb.org/) :s: |
 | **Manga Covers** | [Big Book Covers](https://covers.roler.dev/) :s: [:src:](https://github.com/rRoler/bbc-frontend) |
 | ^^        | [Comic Bibliographic and Cover Archives](http://www.eshita.jp/comics/index.html) :ljp: | 
-| ^^        | [Japanese Movie Global Poster Archive](https://www.jamgpa.jp/?lang=en) |
 | ^^        | [MangaBaka](https://mangabaka.org/) :s: |
 | ^^        | [Shounen Manga Encyclopedia](https://allcomic.noor.jp/) :ljp: |
 | **Music / OST covers** | [Apple Music Artwork Fetcher](https://artwork.thekvt.eu.org/) |
