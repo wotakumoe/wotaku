@@ -179,6 +179,10 @@ og:
 
 ### Tools
 
+::: info duck note
+feeling lazy. someone pr platform icons for this section.
+:::
+
 | Category | Software | Platform |
 | :--- | :--- | :--- |
 | **Dictionary** | [GoldenDict-NG](https://xiaoyifang.github.io/goldendict-ng/) [:help:](https://tatsumoto.neocities.org/blog/setting-up-goldendict) | |
