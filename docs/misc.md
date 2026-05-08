@@ -314,19 +314,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^        | [Spin.moe](https://spin.moe/) | :mal::al::k: |  
 | **Manga** | [Mihon Local Source JSON Generator](https://mihonlocal.netlify.app/) | :no: |
 | ^^        | [Tachibk Viewer](https://backup.mihon.tools/) [:src:](https://github.com/Animeboynz/Mihon-Backup-Viewer) | :no: |
-| **Manga Covers** | [Big Book Covers](https://covers.roler.dev/) :s: [:src:](https://github.com/rRoler/bbc-frontend) | General |
-| ^^        | [Comic Bibliographic and Cover Archives](http://www.eshita.jp/comics/index.html) :ljp: | :no: |
-| ^^        | [Ermitteln](https://ermitteln.ihateani.me/) [:src:](https://github.com/noaione/cmx-ermitteln) | Comixology |  
-| ^^        | [iTunes Artwork Finder](https://bendodson.com/projects/itunes-artwork-finder/) | :apple: |
-| ^^        | [Shounen Manga Encyclopedia](https://allcomic.noor.jp/) :ljp: | :no: |
 
-<Collapsible title="Related resources">
-
-- [Image Max URL](https://github.com/qsniyg/maxurl) :js::ff::cr:
-- [Image Picka](https://github.com/eight04/image-picka) :ff::cr:
-- [rRoler Bookmarklets](https://bookmarklets.roler.dev/) :js:
-
-</Collapsible>
 
 ## Image
 | Category    | Websites |

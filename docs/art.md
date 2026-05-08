@@ -58,7 +58,6 @@ og:
 | ^^ | [Patreon](https://www.patreon.com/) |
 | ^^ | [pixivFANBOX](https://www.fanbox.cc/) :ljp: |
 
-
 ## Booru
 - [Danbooru](https://danbooru.donmai.us/) :s:
 - [Donmai](https://donmai.moe/) <Badge type="green" link="" text="SFW"/>
@@ -71,18 +70,41 @@ og:
 - [yande.re](https://yande.re/)
 - [Zerochan](https://www.zerochan.net/?p=1) <Badge type="green" text="SFW" />
 
-## Sakuga
-- [Sakuga Booru](https://www.sakugabooru.com/) :s: <Badge type="green" text="SFW" />
-- [Sakuga.video](https://sakuga.video/)
-- [A-1 Pictures Sakuga](https://x.com/A1_sakuga) :x:
-- [ArtSakuga](https://x.com/artsakuga) :x:
-- [Dan Kantori](https://x.com/DanKantori) :s::x:
-- [Effects Sakuga](https://x.com/EffectsSakuga) :x:
-- [Mack Bay](https://x.com/SaberzzSeiba) :x:
-- [randomsakuga](https://x.com/randomsakuga) :x:
-- [rinri](https://x.com/guyayaHime) :s::x:
-- [SakugaDEYO](https://x.com/SakugaDEYO) :x:
-- [Sakuga 作画](https://x.com/sakugacontent) :s::x:
+## Official Art / Cover / Poster
+
+| Category | Website |
+|-|-|
+| **General** | [Booru websites](#booru) |
+| ^^        | [iTunes Artwork Finder](https://bendodson.com/projects/itunes-artwork-finder/) |
+| **Anime Production** | [Character Design References](https://characterdesignreferences.com/) [:src:](https://x.com/CDReferences) |
+| ^^ | [Settai Dreams](https://setteidreams.net/) :s::fm: <tooltip>The patreon-walled materials will eventually become free.</tooltip> |
+| ^^ | [Sakuga Booru](https://www.sakugabooru.com/) |
+| ^^ | :prev: [Sakuga.video](https://sakuga.video/) |
+| **Anime Promo** | [The Movie Database](https://www.themoviedb.org/) :s: |
+| ^^ | [MoviePosterDB](https://www.movieposterdb.com/) |
+| **Manga Covers** | [Big Book Covers](https://covers.roler.dev/) :s: [:src:](https://github.com/rRoler/bbc-frontend) |
+| ^^        | [Comic Bibliographic and Cover Archives](http://www.eshita.jp/comics/index.html) :ljp: | 
+| ^^        | [MangaBaka](https://mangabaka.org/) :s: |
+| ^^        | [Shounen Manga Encyclopedia](https://allcomic.noor.jp/) :ljp: |
+| **Music / OST covers** | [Apple Music Artwork Fetcher](https://artwork.thekvt.eu.org/) |
+| ^^        | [Cover Search Engine](https://covers.musichoarders.xyz/) :s: |
+
+<Collapsible title="Related resources">
+
+| Category | Resource |
+| :--- | :--- |
+| Cover tools | [Image Max URL](https://github.com/qsniyg/maxurl) :js::ff::cr: |
+| ^^ | [Image Picka](https://github.com/eight04/image-picka) :ff::cr: |
+| ^^ | [rRoler Bookmarklets](https://bookmarklets.roler.dev/) :js: |
+| Twitter sakuga | [ArtSakuga](https://x.com/artsakuga) |
+| ^^ | [Dan Kantori](https://x.com/DanKantori) :s: |
+| ^^ | [Effects Sakuga](https://x.com/EffectsSakuga) |
+| ^^ | [rinri](https://x.com/guyayaHime) :s: |
+| ^^ | [SakugaDEYO](https://x.com/SakugaDEYO) |
+| ^^ | [Sakuga 作画](https://x.com/sakugacontent) :s: |
+
+</Collapsible>
+
 
 ## Front-end / Utility
 
@@ -104,9 +126,6 @@ og:
 | Type | Website |
 | :--- | :--- |
 | Archive | [ANNEX 'Hotaru'](https://hotaru.hino-tama.com/) |
-| ^^ | [Character Design References](https://characterdesignreferences.com/) :s: [:src:](https://x.com/CDReferences) |
-| ^^ | [Settai Dreams](https://setteidreams.net/) :s: |
-| ^^ | [TMDB](https://www.themoviedb.org/) |
 | Games | [skowt.cc](https://skowt.cc/) |
 | ^^ | [The Sprite Resources](https://www.spriters-resource.com/) |
 | Wallpaper | [Anihonetwallpaper](https://anihonetwallpaper.com/) <Badge type="green" text="SFW" /> |

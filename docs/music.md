@@ -205,9 +205,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 ## General
 | Category    | Resource |
 |------------|--------------------------------------------------|
-| **Metadata** | [Apple Music Artwork Fetcher](https://artwork.thekvt.eu.org/) |
-|    ^^      | [Cover Search Engine](https://covers.musichoarders.xyz/) :s: |
-|    ^^      | [LRCLIB](https://lrclib.net/) |
+| **Metadata** | [LRCLIB](https://lrclib.net/) |
 |    ^^      | [Metadata Lookup Engine](https://seed.musichoarders.xyz/) |
 | **Tracklist** | [tagger.site](https://martinbarker.me/tagger) |
 |    ^^      | [YADG](https://yadg.cc/) [:src:](https://gitlab.com/Slack06/yadg) |
