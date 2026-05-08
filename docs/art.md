@@ -75,11 +75,11 @@ og:
 | Category | Website |
 |-|-|
 | **General** | [Booru websites](#booru) |
-| ^^        | [iTunes Artwork Finder](https://bendodson.com/projects/itunes-artwork-finder/) |
-| **Anime Production** | [Character Design References](https://characterdesignreferences.com/) [:src:](https://x.com/CDReferences) |
+| ^^        | [iTunes Artwork Finder](https://bendodson.com/projects/itunes-artwork-finder/) [:src:](https://github.com/bendodson/itunes-artwork-finder) |
+| **Anime Production** | [Character Design References](https://characterdesignreferences.com/) [:x:](https://x.com/CDReferences) |
 | ^^ | [Settai Dreams](https://setteidreams.net/) :s::fm: <tooltip>The patreon-walled materials will eventually become free.</tooltip> |
 | ^^ | [Sakuga Booru](https://www.sakugabooru.com/) |
-| ^^ | :prev: [Sakuga.video](https://sakuga.video/) |
+| ^^ | :prev: [Sakuga.video](https://sakuga.video/) [:src:](https://github.com/sakuga-video/sakuga-video.github.io) |
 | **Anime Promo** | [The Movie Database](https://www.themoviedb.org/) :s: |
 | ^^ | [MoviePosterDB](https://www.movieposterdb.com/) |
 | **Manga Covers** | [Big Book Covers](https://covers.roler.dev/) :s: [:src:](https://github.com/rRoler/bbc-frontend) |
