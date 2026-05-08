@@ -15,7 +15,7 @@ og:
 
 <Collapsible title="Why does X site have so many ads?">
 
-**Use an Adblocker**. We have added a [**full adblock resource list**](/guides/tech/adblock). Ads keep the websites running, but sometimes the ad ruin the experience or even link malware. If you want ad-free experience you can do take these steps.
+Use adblocker. We have added a [**full adblocking resource list**](/guides/tech/adblock). 
 
 </Collapsible>
 
@@ -37,24 +37,13 @@ We have explained meanings of a lot a weeb related terms in our glossary section
 - [**General glossary**](/glossary/general) for terms that are common in every medium
 - [**Anime glossary**](/glossary/anime) for only anime specific terms
 - [**Manga glossary**](/glossary/manga) for manga specific terms
+- [**Torrenting glossary**](/torrenting/glossary) for torrenting related terms.
 
 </Collapsible>
 
 <Collapsible title="Can I track my anime/manga progress on websites?">
 
 Yes. Try [**MAL-Sync**](https://malsync.moe/). It has support for MyAnimeList, AniList, Kitsu, Simkl & Shikimori.
-
-</Collapsible>
-
-<Collapsible title="Why are some of the torrents red and some green on Nyaa.si?">
-
-### Green
-Uploaded by trusted uploader. Also it's not a re-encoded version of the original file.
-![](/ss/nyaagreen.png)
-
-### Red
-For anime, it indicates a re-encoded video. For manga, it indicates that an edit of someone else's release, usually for the purposes of joining spread pages. Sometimes it's indicated with "ED" tag.
-![](/ss/nyaared.png)
 
 </Collapsible>
 
@@ -66,9 +55,11 @@ Torrent trackers that don't allow you to freely make an account, but require you
 ### Usenet
 Usenet is a subscription-based service. Though really old, it's still very reliable. Its system consists of a few elements:
 
-- **.nzb:** The file you need in order to download your wanted file, similar to `.torrent` files. In usenet, files are hosted in multiple parts. These parts are stored as different articles, each having its own message ID. `.nzb` contains all the message IDs, so that the provider can locate the parts.
-- **Indexers:** The search engines of usenet, either paid or free (with limits).
-- **Providers:** The hosts of all the content, all of them are paid.
+| Term | Description |
+| :--- | :--- |
+| **.nzb** | The file you need in order to download your wanted file, similar to `.torrent` files. In usenet, files are hosted in multiple parts. These parts are stored as different articles, each having its own message ID. `.nzb` contains all the message IDs, so that the provider can locate the parts. |
+| **Indexers** | The search engines of usenet, either paid or free (with limits). |
+| **Providers** | The hosts of all the content, all of them are paid. |
 
 </Collapsible>
 
@@ -78,7 +69,7 @@ Usenet is a subscription-based service. Though really old, it's still very relia
 A seedbox is a remote service that can download (leech) & upload (seed) from p2p networks. Since it's always online, it keeps the torrents alive, thus helping you keep a high ratio in [**PTs**](#pt-private-tracker). Examples: [**Ultra.cc**](https://ultra.cc/), [**RapidSeedbox**](https://www.rapidseedbox.com/) & [**Pulsed Media**](https://pulsedmedia.com/).
 
 ### Debrid
-Like a seedbox, it's also a remote service. It can download from p2p and various host sites (e.g. [**MEGA**](https://mega.io/), [**RapidGator**](https://rapidgators.net/)). One of the big differences is that they (generally) don't seed p2p files and keep the downloaded files cached on their servers, meaning you can download currently dead torrents that have already been cached in the past. Example: [**AllDebrid**](https://alldebrid.com/) & [**Debrid-Link**](https://debrid-link.com/).
+Like a seedbox, it's also a remote service. It can download from p2p and various host sites (e.g. [**MEGA**](https://mega.io/), [**RapidGator**](https://rapidgators.net/)). One of the big differences is that they (generally) don't seed p2p files and keep the downloaded files cached on their servers, meaning you can download currently dead torrents that have already been cached in the past. Example: [**Real-Debrid**](https://real-debrid.com/), [**AllDebrid**](https://alldebrid.com/) & [**TorBox**](https://torbox.app/).
 
 </Collapsible>
 
@@ -99,7 +90,7 @@ We have listed the most trusted rippers in the [**Nyaa section**](/websites#nyaa
 
 <Collapsible title="What's the best website to read manga?">
 
-Personal preference. Good online manga reading sites generally reupload Nyaa releases (when it's available replacing/alongside the fantranslated one), but with added compression (e.g. [**Comix**](https://comix.to/), [**Kagane**](https://kagane.org/), [**Weeb Central**](https://weebcentral.com/)) and/or watermarks on (almost) every page ([**MangaFire**](https://mangafire.to/home) :slightly-smiling-face: ). On the other hand, generic ones only keep the fan-translated ones. You can read a short description about the sites [**here**](/websites#manga).
+Personal preference. In our opinion, a good manga site should have multi-source with proper tagging, as it gives readers multiple options to choose from. For example, some scanlators do a notoriously bad job (poor quality raws, bad translations or even MTL, no quality control). Some aggregators just pick whichever scanlator uploaded first, often mixing releases or even uploading the same translation multiple times without clear labels (for example Atsumaru). That's why we tag every aggregator properly in our [**website**](/websites#online). Try using sites with the :ms: icon.
 
 </Collapsible>
 
@@ -111,14 +102,16 @@ Rippers upload what they like, without following any specific schedule (even in 
 
 <Collapsible title="What's the best reader for manga?">
 
-### Android
-[**Perfect viewer**](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer). Why? Because it has better scaling algorithm than others (including Tachiyomi / Mihon). But you wont get the luxury of directly reading from online sources in Perfect viewer. So, you have to balance between the sources.
-
-### iOS
-[**YACReader**](https://apps.apple.com/app/id635717885) is recommended as local reader. You can use [**Paperback**](https://github.com/Paperback-iOS/app) as your komga or kavita client and [**Aidoku**](https://github.com/Aidoku/Aidoku) as an online reader.
-
-### PC
-There are a few options. [**CDisplayEx**](https://www.cdisplayex.com/), [**YACReader**](https://www.yacreader.com/), [**MComix**](https://sourceforge.net/projects/mcomix/files/). You should give them a try and see which ones works the best for you. There is also [**OpenComic**](https://github.com/ollm/OpenComic) which is really good for long strip comic.
+| Platform | Type | Reader |
+|-|-|-|
+| **Android**| Local     | [Perfect viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer) :cs: |
+| ^^        | Online    | [Mihon](https://mihon.app/) :s: [:src:](https://github.com/mihonapp/mihon) |
+| **iOS**   | Local     | [YACReader](https://apps.apple.com/app/id635717885) :paid::cs: |
+| ^^        | Online    | [Aidoku](https://github.com/Aidoku/Aidoku) |
+| **PC**    | Local     | [OpenComic](https://github.com/ollm/OpenComic) :s::win::app::lin: |
+| ^^        | ^^        | [CDisplayEx](https://www.cdisplayex.com/) :win::cs: |
+| ^^        | ^^        | [YACReader](https://www.yacreader.com/) :win::app::lin: |
+| ^^        | Online    | [Mangayomi](https://github.com/kodjodevf/mangayomi) :win::app::lin: |
 
 </Collapsible>
 
@@ -131,20 +124,6 @@ Like with websites, it's also personal preference. But to us, it's [**Madokami**
 <Collapsible title="Why are the manga pages filled with squares / artifacts?">
 
 Moiré. It generally happens during image downscaling. You can read about it in more detail [**here**](/glossary/manga#moire-moire).
-
-</Collapsible>
-
-<Collapsible title="Where can I download manga in bulk?">
-
-You can use multiple sources. [**Nyaa.si**](https://nyaa.si/), [**Madokami**](/guides/manga/madokami) or other direct download sites.
-
-### PC
-- For Nyaa.si, just use [**qBittorrent**](https://www.qbittorrent.org/). It's more than enough.
-- For DDL sites, like Madokami, use [**Free Manga Downloader 2**](https://github.com/dazedcat19/FMD2).
-
-### Android
-- For Nyaa.si, you can use [**libretorrent**](https://github.com/proninyaroslav/libretorrent), [**Flud**](https://play.google.com/store/apps/details?id=com.delphicoder.flud) or [**1DM**](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US).
-- For DDL sites, tachiyomi / mihon is more than enough.
 
 </Collapsible>
 
@@ -190,11 +169,7 @@ On the other hand, aggregators like [**AnimeKai**](https://animekai.to/home), [*
 
 <Collapsible title="Which player should I use?">
 
-### PC
-[**mpv**](https://mpv.io/) kinda covers everything for pc. We have listed everything you need for mpv in the [**tools page**](/tools#mpv).
-
-### Android
-For android, there is also [**mpvEx**](https://github.com/marlboro-advance/mpvEx) but the UI is too limited. You can use [**Aniyomi**](https://github.com/aniyomiorg/aniyomi)'s local option to watch anime. The UI is optimized with a good amount of options.
+For android, use [**mpvEx**](https://github.com/marlboro-advance/mpvEx). For PC, use [**mpv**](https://mpv.io/). You can find alt ui and forks [**here**](/tools#media-1).
 
 </Collapsible>
 
