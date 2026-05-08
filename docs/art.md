@@ -58,18 +58,6 @@ og:
 | ^^ | [Patreon](https://www.patreon.com/) |
 | ^^ | [pixivFANBOX](https://www.fanbox.cc/) :ljp: |
 
-## Booru
-- [Danbooru](https://danbooru.donmai.us/) :s:
-- [Donmai](https://donmai.moe/) <Badge type="green" link="" text="SFW"/>
-- [E-ShuuShuu](https://e-shuushuu.net/) <Badge type="green" link="" text="SFW"/>
-- [Gelbooru](https://gelbooru.com/) :s:
-- [Konachan.com](https://konachan.com/)
-- [Konachan.net](https://konachan.net/) <Badge type="green" link="" text="SFW"/>
-- [Mikubooru](https://booru.funmaker.moe/) [:src:](https://github.com/funmaker/hybooru) <Badge type="green" link="" text="SFW"/>
-- [Safebooru](https://safebooru.org/) <Badge type="green" text="SFW" />
-- [yande.re](https://yande.re/)
-- [Zerochan](https://www.zerochan.net/?p=1) <Badge type="green" text="SFW" />
-
 ## Official Art / Cover / Poster
 
 | Category | Website |
@@ -106,6 +94,17 @@ og:
 
 </Collapsible>
 
+## Booru
+- [Danbooru](https://danbooru.donmai.us/) :s:
+- [Donmai](https://donmai.moe/) <Badge type="green" link="" text="SFW"/>
+- [E-ShuuShuu](https://e-shuushuu.net/) <Badge type="green" link="" text="SFW"/>
+- [Gelbooru](https://gelbooru.com/) :s:
+- [Konachan.com](https://konachan.com/)
+- [Konachan.net](https://konachan.net/) <Badge type="green" link="" text="SFW"/>
+- [Mikubooru](https://booru.funmaker.moe/) [:src:](https://github.com/funmaker/hybooru) <Badge type="green" link="" text="SFW"/>
+- [Safebooru](https://safebooru.org/) <Badge type="green" text="SFW" />
+- [yande.re](https://yande.re/)
+- [Zerochan](https://www.zerochan.net/?p=1) <Badge type="green" text="SFW" />
 
 ## Front-end / Utility
 
