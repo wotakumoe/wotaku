@@ -22,9 +22,9 @@ og:
 - [DeviantArt](https://www.deviantart.com/)
 - [Misskey Art Servers](https://rentry.org/wotakey)
 - [Pixiv](https://www.pixiv.net) :s:
-  - [Pixivision](https://www.pixivision.net/en/)
+- :prev: [Pixivision](https://www.pixivision.net/en/)
 - [Twitter](https://x.com/home) :s:
-  - [Twoucan](https://twoucan.com/)
+- :prev: [Twoucan](https://twoucan.com/)
 
 <Collapsible title="More">
 
@@ -32,12 +32,9 @@ og:
 - [Bluesky](https://bsky.app/)
 - [Cara](https://cara.app/explore)
 - [Charaforio](https://charaforio.com/en)
-- [Illust Days](https://illust.daysneo.com/)
 - [Instagram](https://www.instagram.com/)
 - [Newgrounds](https://www.newgrounds.com/art)
 - [Nico Nico Seiga](https://seiga.nicovideo.jp/) <tooltip>The site is now region locked, use a VPN with JP servers to access it.</tooltip>
-- [Poipiku](https://poipiku.com/)
-- [Tinami](https://www.tinami.com/)
 - [Tumblr](https://www.tumblr.com/)
 
 </Collapsible>
