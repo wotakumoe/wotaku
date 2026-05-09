@@ -143,7 +143,6 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
 | Category           | Resource                                                            | Platform                |
 |--------------------|---------------------------------------------------------------------|-------------------------|
 | **Animanga**       | [FMD 2](https://github.com/dazedcat19/FMD2)                         | :win:                   |
-| ^^                 | [Hakuneko](https://github.com/manga-download/haruneko)              | :win::app::lin:         |
 | ^^                 | [JAM](https://redsquirrel87.com/jam) :cs: | :win::lin:       |
 | **Direct**         | [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) :cs: | :and:               |
 | ^^                 | [LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) | :and:                   |

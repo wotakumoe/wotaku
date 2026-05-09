@@ -176,8 +176,8 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 
 ### Downloader
 | Website  | Downloader | Platform |
-|----------|----------------------|-|
-| **Multi** | [Hakuneko](https://github.com/manga-download/haruneko) <Badge type="tip" text="Old" link="https://github.com/manga-download/hakuneko" />| :win::app::lin: |
+|----------|------------|----------|
+| **Multi** | [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) | :win: |
 |    ^^     | [HDoujin Downloader](https://doujindownloader.com/) | :win: |
 |    ^^    | [NSFW Box](https://github.com/Kisspeace/NsfwBox) | :and::win: |
 | **E-Hentai**    | [E-Hentai Downloader](https://github.com/ccloli/E-Hentai-Downloader) | :js: |

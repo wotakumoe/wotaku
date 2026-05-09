@@ -280,12 +280,10 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 | Category | Software | Platform |
 | :--- | :--- | :--- |
-| **Anime** | [Hakuneko](https://github.com/manga-download/haruneko) <Badge type="tip" text="Old" link="https://github.com/manga-download/hakuneko" /> | :win::app::lin: |
-| ^^ | [Crunchyroll-Downloader](https://github.com/Crunchy-DL/Crunchy-Downloader) | :win: |
+| **Anime** | [Crunchyroll-Downloader](https://github.com/Crunchy-DL/Crunchy-Downloader) | :win: |
 | ^^ | [Anime Downloader NX](https://github.com/anidl/multi-downloader-nx) | :win::app::lin::cmd: |
 | **Manga** | [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) | :win: |
 | ^^ | [JAM](https://redsquirrel87.com/jam) :cs: | :win::lin: |
-| ^^ | [Hakuneko](https://github.com/manga-download/haruneko) <Badge type="tip" text="Old" link="https://github.com/manga-download/hakuneko" /> | :win::app::lin: |
 | ^^ | [gallery-dl](https://codeberg.org/mikf/gallery-dl/) [:help:](https://gdl-org.github.io/docs/) | :win::app::lin::cmd: |
 | ^^ | :prev: [Media Downloader](https://github.com/mhogomchungu/media-downloader) | :win::app::lin::cmd: |
 | ^^ | [HDoujin Downloader](https://doujindownloader.com/) :cs: ==HDoujinDownloader== | :win: |
