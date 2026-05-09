@@ -330,7 +330,6 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [AnimeVilla](https://animevilla.in/) :ero: |
 | ^^ | [ATOZ CARTOONIST](https://www.atozcartoonist.com/) |
 | ^^ | [GokuHD](https://www.gokuhd.com/) + :len: |
-| ^^ | [PikaHD](https://pikahd.com/) + :len: |
 | ^^ | [Puretoons](https://puretoons.in/) + :len: |
 | ^^ | [SDToons](https://sdtoons.com/) :ero: + :len: |
 | ^^ | [Toonhub4u](https://toonhub4u.co/home/) + :len: |
@@ -542,7 +541,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [Tao Sect](https://taosect.com/) :ljp::lkr::lcn::ero: |
 | ^^ | [Yuri on Air](https://yurionair.top/) :ljp::lkr::lcn::ero: |
 | Tokusatsu | [DGB Catálogo](https://dgbfansub.carrd.co/) |
-| ^^ | [Rádio Toku Hero Club](https://www.radiotokuheroclub.com/) |
 | ^^ | [Senpuu Tokusatsu](https://senpuu.com.br/) |
 | ^^ | [TokuSato](https://www.youtube.com/@TokuSatoOficial) |
 | ^^ | [:tg: TOKUSHARE](https://t.me/s/tokushareoficial) |
@@ -727,19 +725,11 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [HHNINJA](hhninja14) [:prx:](https://hhtq1.xyz/) |
 | ^^ | [Unime](https://unime.vercel.app/) [:src:](https://github.com/huy232/Unime) |
 | ^^ | [WebLinhTinh](https://weblinhtinh1.net/) |
-| Comics | [CManga](https://cmangax9.com/) |
-| ^^ | [Cuu Truyen](https://cuutruyen.net/) [:prx:](https://truycapcuutruyen.pages.dev/) |
-| ^^ | [DocTruyen3Q](https://doctruyen3qui15.com/) :ero: |
-| ^^ | [FoxTruyen](https://foxtruyen.com/) |
-| ^^ | [Goc Truyen Tranh](https://goctruyentranh.net/) |
-| ^^ | [MangaMAX](https://manga-max.vercel.app/) [:src:](https://github.com/huynlx/MangaMAX) |
+| Comics | [Goc Truyen Tranh](https://goctruyentranh.net/) |
 | ^^ | [NhatTruyen](https://nhattruyenqq.com/) |
-| ^^ | [TopTruyen](https://www.toptruyentv11.com/) |
-| ^^ | [TruyenQQ](https://truyenqqgo.com/) |
-| ^^ | [VlogTruyen](https://vlogtruyen58.com/) |
-| Hentai | [DuaLeoTruyen](https://dualeotruyenay.com/) |
+| ^^ | [TruyenQQ](https://truyenqqko.com/) |
+| Hentai | [DuaLeoTruyen](https://dualeotruyenhx.com/) |
 | ^^ | [HentaiCube](https://hentaicube.xyz/) |
-| ^^ | [KuroNeko](https://vi-hentai.com/) |
 | ^^ | [qManga](https://qmanga.art/) |
 | ^^ | [TruyenHentaiVN](https://truyenhentaivn.club/) |
 | Novels | [Hako](https://docln.net/) |
