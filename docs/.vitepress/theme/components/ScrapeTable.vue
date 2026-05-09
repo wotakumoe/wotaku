@@ -85,11 +85,14 @@ const headerHeight = computed(() => {
 // Drag to scroll + scroll indicator
 const wrapRef = ref<HTMLElement | null>(null)
 const canScrollRight = ref(false)
-let isDragging = false
+const isDragging = ref(false)
+let isPending = false
 let startX = 0
 let scrollStart = 0
+let pendingPointerId = -1
 
 const SCROLL_END_PX = 2
+const DRAG_THRESHOLD_PX = 5
 
 function checkScroll() {
   const el = wrapRef.value
@@ -97,26 +100,52 @@ function checkScroll() {
   canScrollRight.value = el.scrollLeft + el.clientWidth < el.scrollWidth - SCROLL_END_PX
 }
 
+function isTextTarget(e: PointerEvent) {
+  const target = e.target as Node | null
+  if (!target) return false
+  const node = target.nodeType === Node.TEXT_NODE ? target.parentElement : target as Element
+  if (!node) return false
+  const style = window.getComputedStyle(node as Element)
+  return style.userSelect !== 'none' && style.cursor !== 'default' || (node as Element).closest('td.site-name, th') !== null
+}
+
 function onPointerDown(e: PointerEvent) {
+  if (e.button !== 0) return
   const el = wrapRef.value
   if (!el) return
-  isDragging = true
+  // Don't initiate drag when clicking on selectable text elements
+  if (isTextTarget(e)) return
+  isPending = true
   startX = e.clientX
   scrollStart = el.scrollLeft
-  el.setPointerCapture(e.pointerId)
-  el.style.cursor = 'grabbing'
+  pendingPointerId = e.pointerId
 }
 
 function onPointerMove(e: PointerEvent) {
-  if (!isDragging || !wrapRef.value) return
-  wrapRef.value.scrollLeft = scrollStart - (e.clientX - startX)
+  const el = wrapRef.value
+  if (!el) return
+
+  // If user is actively selecting text, abort drag
+  if (isPending && window.getSelection()?.type === 'Range') {
+    isPending = false
+    return
+  }
+
+  if (isPending && Math.abs(e.clientX - startX) > DRAG_THRESHOLD_PX) {
+    isPending = false
+    isDragging.value = true
+    el.setPointerCapture(pendingPointerId)
+  }
+
+  if (!isDragging.value) return
+  el.scrollLeft = scrollStart - (e.clientX - startX)
 }
 
 function onPointerUp(e: PointerEvent) {
-  isDragging = false
+  isPending = false
+  isDragging.value = false
   if (wrapRef.value) {
     wrapRef.value.releasePointerCapture(e.pointerId)
-    wrapRef.value.style.cursor = ''
   }
 }
 
@@ -132,6 +161,7 @@ onMounted(() => {
     <div
       ref="wrapRef"
       class="scrape-table-wrap"
+      :style="{ cursor: isDragging ? 'grabbing' : 'auto', userSelect: isDragging ? 'none' : 'auto' }"
       @pointerdown="onPointerDown"
       @pointermove="onPointerMove"
       @pointerup="onPointerUp"
@@ -182,8 +212,6 @@ onMounted(() => {
 .scrape-table-wrap {
   overflow-x: auto;
   max-width: 100%;
-  cursor: grab;
-  user-select: none;
 }
 
 .scroll-indicator {
