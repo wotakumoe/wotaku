@@ -59,6 +59,7 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 - [Hoyolab Auto-sign](https://github.com/canaria3406/hoyolab-auto-sign)
 - [Locale Emulator](https://github.com/xupefei/Locale-Emulator)
 - [Locale Remulator](https://github.com/InWILL/Locale_Remulator)
+- [LunarCast Replay Database](http://replay.lunarcast.net/)
 - [Megami Tensei Fusion Tools](https://aqiu384.github.io/megaten-fusion-tool/home)
 - [Playnite](https://playnite.link/) [:src:](https://github.com/JosefNemec/Playnite/)
 - [Sekai Viewer](https://sekai.best/) [:src:](https://github.com/Sekai-World/sekai-viewer)
