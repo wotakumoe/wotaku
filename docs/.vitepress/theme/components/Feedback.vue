@@ -8,7 +8,6 @@
 <script setup lang="ts">
 import { useRouter, withBase } from 'vitepress'
 import { computed, reactive, ref } from 'vue'
-import SuggestionRules from '../../feedback/suggestion-rules.md'
 import {
   feedbackOptions,
   type FeedbackType,
@@ -179,11 +178,84 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
             <span>{{ getFeedbackOption(feedback.type)?.label }}</span>
           </div>
 
-          <div
-            v-if="feedback.type === 'suggestion'"
-            class="suggestion-rules mb-2 text-sm"
-          >
-            <SuggestionRules />
+          <div v-if="feedback.type === 'suggestion'" class="mb-2 text-sm">
+            <details>
+              <summary>
+                <span class="i-lucide-shield-x bg-cerise-400 mb-1 ml-1" />
+                Things we won't add in the wiki
+              </summary>
+              <ol>
+                <li>
+                  Websites that are only or primarily for generative AI
+                  (Chatbot, roleplaying bot, ai art generator etc.)
+                </li>
+                <li>
+                  Sites that
+                  <ul>
+                    <li>imitate other websites</li>
+                    <li>have very small libraries</li>
+                    <li>only feature MTL'd works</li>
+                    <li>are mostly paywalled</li>
+                    <li>sell unofficial merch</li>
+                    <li>exlusively sell sex toys</li>
+                  </ul>
+                </li>
+                <li>Adult content sites similar to OnlyFans</li>
+                <li>
+                  Software that's too general (for example Windows OS related or
+                  Tweaking for privacy)
+                </li>
+                <li>Sites focused on lolicon or furry stuff</li>
+                <li>
+                  Sites scraping only a couple popular sources
+                </li>
+                <li>
+                  Sites scraping the servers of other scrapers
+                </li>
+                <li>
+                  Sites found in the Unsafe lists of
+                  <a
+                    href="https://fmhy.net/unsafesites"
+                    class="text-primary text-underline font-semibold"
+                  >
+                    FMHY
+                  </a>
+                  ,
+                  <a
+                    href="https://privateers.wiki/unsafe"
+                    class="text-primary text-underline font-semibold"
+                  >
+                    Privateersclub
+                  </a>
+                  and/or
+                  <a
+                    href="https://rentry.org/pgames#untrusted-sites"
+                    class="text-primary text-underline font-semibold"
+                  >
+                    r/PiratedGames
+                  </a>
+                  .
+                </li>
+              </ol>
+            </details>
+            <details>
+              <summary>
+                <span class="i-lucide-shield-alert bg-cerise-400 mb-1 ml-1" />
+                Things we will try to avoid
+              </summary>
+              <ol>
+                <li>Closed source software (with good FOSS alternatives)</li>
+                <li>
+                  Sites that only use hosters such Katfile, Nitroflare,
+                  DDownload and Rapidgator
+                </li>
+                <li>
+                  Sites that aren't primarily for anime but have it as a side
+                  product
+                </li>
+                <li>Things that are too niche and/or have a small userbase</li>
+              </ol>
+            </details>
           </div>
           <textarea
             v-model="feedback.message"
@@ -271,26 +343,6 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
   display: block;
   font-size: 12px;
   color: var(--vp-c-text-2);
-}
-
-.suggestion-rules :deep(details) {
-  margin: 0.5rem 0;
-}
-
-.suggestion-rules :deep(ol) {
-  list-style: decimal;
-  padding-left: 1.25rem;
-}
-
-.suggestion-rules :deep(ul) {
-  list-style: disc;
-  padding-left: 1.25rem;
-}
-
-.suggestion-rules :deep(a) {
-  color: var(--vp-c-brand);
-  font-weight: 600;
-  text-decoration: underline;
 }
 
 .fade-enter-active,
