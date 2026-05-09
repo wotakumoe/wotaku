@@ -180,9 +180,9 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 | **Multi** | [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) | :win: |
 |    ^^     | [HDoujin Downloader](https://doujindownloader.com/) | :win: |
 |    ^^    | [NSFW Box](https://github.com/Kisspeace/NsfwBox) | :and::win: |
+|    ^^    | [doujinshi-dl](https://github.com/RicterZ/doujinshi-dl) | :py::dock: |
 | **E-Hentai**    | [E-Hentai Downloader](https://github.com/ccloli/E-Hentai-Downloader) | :js: |
-| **nHentai** | [nHentai](https://github.com/RicterZ/nhentai)  | :py::dock: |
-|     ^^    | [nHentai Archivist](https://github.com/9-FS/nhentai_archivist) | :win::lin::dock: |
+| **nHentai** | [nHentai Archivist](https://github.com/9-FS/nhentai_archivist) | :win::lin::dock: |
 |     ^^   | [nHentai Downloader](https://github.com/Xwilarg/NHentaiDownloader) | :cr::ff: |
 
 
