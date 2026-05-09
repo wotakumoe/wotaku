@@ -1567,3 +1567,15 @@ table tr:nth-child(odd) {
     }
   }
 }
+
+.vp-doc .vp-card,
+.vp-doc .vp-card:hover,
+.vp-doc .vp-card:focus,
+.vp-doc .vp-card:visited {
+  text-decoration: none !important;
+}
+
+.vp-doc .vp-card .vp-card-title {
+  text-decoration: none !important;
+  border-top: none !important;
+}
