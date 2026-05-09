@@ -24,31 +24,41 @@ export const FeedbackSchema = z.object({
 
 export interface Option {
   label: string
+  icon: string
   value: FeedbackType['type']
 }
 
 export const feedbackOptions: Option[] = [
   {
-    label: '➕ Submit link',
+    label: 'Submit link',
+    icon: 'i-lucide:circle-plus',
     value: 'submit'
   },
   {
-    label: '❗ Update link',
+    label: 'Update link',
+    icon: 'i-lucide:circle-alert',
     value: 'update'
   },
   {
-    label: '❌ Report bad / dead link',
+    label: 'Report bad / dead link',
+    icon: 'i-lucide:circle-x',
     value: 'report'
   },
   {
-    label: '💡 Suggest edit',
+    label: 'Suggest edit',
+    icon: 'i-lucide:lightbulb',
     value: 'suggestion'
   },
   {
-    label: '❤ Love the wiki',
+    label: 'Love the wiki',
+    icon: 'i-lucide:heart',
     value: 'appreciation'
   },
-  { label: '💬 Something else', value: 'other' }
+  {
+    label: 'Something else',
+    icon: 'i-lucide:message-circle',
+    value: 'other'
+  }
 ]
 
 export function getFeedbackOption(

@@ -168,14 +168,18 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
               class="bg-bg border-$vp-c-default-soft hover:border-primary mt-2 select-none rounded border-2 border-solid font-bold transition-all duration-250 rounded-lg text-[14px] font-500 leading-normal m-0 px-3 py-1.5 text-center align-middle whitespace-nowrap"
               @click="handleSubmit(item.value)"
             >
-              <span>{{ item.label }}</span>
+              <span :class="[item.icon, 'mr-1 inline-block align-middle']" />
+              <span class="align-middle">{{ item.label }}</span>
             </button>
           </div>
         </div>
         <div v-else-if="feedback.type && !success">
           <div class="mb-2">
             <p class="desc">{{ helpfulDescription }}</p>
-            <span class="text-[22px] font-bold">{{ getFeedbackOption(feedback.type)?.label }}</span>
+            <span class="text-[22px] font-bold flex items-center gap-2">
+              <span :class="getFeedbackOption(feedback.type)?.icon" />
+              {{ getFeedbackOption(feedback.type)?.label }}
+            </span>
           </div>
 
           <div v-if="feedback.type === 'submit'" class="mb-2 text-sm">
@@ -282,15 +286,15 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
               class="bg-$vp-c-default-soft text-primary border-$vp-c-default-soft inline-flex h-7 items-center justify-center whitespace-nowrap rounded-md border-2 border-solid px-1.5 py-3.5 text-sm font-medium transition-all duration-300 sm:h-6"
               @click="feedback.type = undefined"
             >
-              <span class="i-lucide:panel-left-close">close</span>
+              <span class="i-lucide:arrow-left-from-line">close</span>
             </button>
             <button
               type="submit"
-              class="border border-div rounded-lg transition-colors duration-250 inline-block text-14px font-500 leading-1.5 px-3 py-3 text-center align-middle whitespace-nowrap disabled:opacity-50 text-text-2 bg-swarm-100 dark:bg-swarm-700 border-swarm-800 dark:border-swarm-700 disabled:bg-swarm-100 dark:disabled:bg-swarm-900 hover:border-swarm-900 dark:hover:border-swarm-800 hover:bg-swarm-200 dark:hover:bg-swarm-800"
+              style="background-color: #438afe; border-color: #438afe;" class="border rounded-lg transition-colors duration-250 inline-flex items-center gap-1 text-14px font-500 leading-1.5 px-3 py-1.5 text-center align-middle whitespace-nowrap disabled:opacity-50 text-white hover:brightness-110 disabled:opacity-50"
               :disabled="isDisabled"
               @click="handleSubmit()"
             >
-              Send Feedback 📩
+              Send Feedback <span class="i-lucide:mail-check" />
             </button>
           </div>
         </div>

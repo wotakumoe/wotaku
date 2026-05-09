@@ -25,12 +25,20 @@ const customIcons = {
   // Add more custom icons here as needed
 }
 
-const safelist = Object.entries(colors).flatMap(([group, shades]) =>
-  Object.keys(shades).flatMap((shade) => [
-    `text-${group}-${shade}`,
-    `bg-${group}-${shade}`
-  ])
-)
+const safelist = [
+  ...Object.entries(colors).flatMap(([group, shades]) =>
+    Object.keys(shades).flatMap((shade) => [
+      `text-${group}-${shade}`,
+      `bg-${group}-${shade}`
+    ])
+  ),
+  'i-lucide:circle-plus',
+  'i-lucide:circle-alert',
+  'i-lucide:circle-x',
+  'i-lucide:lightbulb',
+  'i-lucide:heart',
+  'i-lucide:message-circle'
+]
 
 export default defineConfig({
   content: {
