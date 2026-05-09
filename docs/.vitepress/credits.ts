@@ -21,11 +21,6 @@ export interface Contributors {
 export const contribs = {
   core: [
     {
-      name: 'tasky',
-      avatar: 'https://github.com/taskylizard.png',
-      site: 'https://github.com/taskylizard'
-    },
-    {
       name: 'Duck',
       avatar: 'https://github.com/woducku.png',
       site: 'https://github.com/woducku'
@@ -39,7 +34,12 @@ export const contribs = {
       name: 'Static',
       avatar: 'https://github.com/whitenoisy.png',
       site: 'https://github.com/whitenoisy'
-    }
+    },
+    {
+      name: 'Tasky',
+      avatar: 'https://github.com/taskylizard.png',
+      site: 'https://github.com/taskylizard'
+    },
   ],
   contributors: [
     {
