@@ -118,10 +118,6 @@ const isCardShown = ref<boolean>(false)
 const helpfulText = props.heading
   ? 'What do you think about this section?'
   : 'What do you think about this page?'
-const helpfulDescription = props.heading
-  ? 'Let us know how helpful this section is.'
-  : 'Let us know how helpful this page is.'
-
 const prompt = computed(() => getPrompt())
 const toggleCard = () => (isCardShown.value = !isCardShown.value)
 </script>
@@ -154,7 +150,7 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
   <Transition name="fade" mode="out-in">
     <div
       v-if="isCardShown"
-      class="border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 m-[2rem 0] mt-4 border-2 border-solid p-6"
+      class="border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 m-[2rem 0] mt-4 border-2 border-solid px-6 pt-3 pb-6"
     >
       <Transition name="fade" mode="out-in">
         <div v-if="!feedback.type">
@@ -173,9 +169,8 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
             </button>
           </div>
         </div>
-        <div v-else-if="feedback.type && !success">
-          <div class="mb-2">
-            <p class="desc">{{ helpfulDescription }}</p>
+        <div v-else-if="feedback.type && !success" class="pt-2">
+          <div class="mb-3">
             <span class="text-[22px] font-bold flex items-center gap-2">
               <span :class="getFeedbackOption(feedback.type)?.icon" />
               {{ getFeedbackOption(feedback.type)?.label }}
