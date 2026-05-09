@@ -174,14 +174,16 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
         </div>
         <div v-else-if="feedback.type && !success">
           <div class="mb-2">
-            <p class="desc">{{ helpfulDescription }} - {{ prompt }}</p>
-            <span>{{ getFeedbackOption(feedback.type)?.label }}</span>
+            <p class="desc">{{ helpfulDescription }}</p>
+            <span class="text-[22px] font-bold">{{ getFeedbackOption(feedback.type)?.label }}</span>
           </div>
 
-          <div v-if="feedback.type === 'suggestion'" class="mb-2 text-sm">
+          <div v-if="feedback.type === 'submit'" class="mb-2 text-sm">
             <details>
-              <summary>
-                <span class="i-lucide-shield-x bg-cerise-400 mb-1 ml-1" />
+              <summary class="flex items-center gap-1">
+                <span class="i-lucide-arrow-right arrow-right" />
+                <span class="i-lucide-arrow-down arrow-down" />
+                <span class="i-lucide-shield-x bg-cerise-400" />
                 Things we won't add in the wiki
               </summary>
               <ol>
@@ -239,8 +241,10 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
               </ol>
             </details>
             <details>
-              <summary>
-                <span class="i-lucide-shield-alert bg-cerise-400 mb-1 ml-1" />
+              <summary class="flex items-center gap-1">
+                <span class="i-lucide-arrow-right arrow-right" />
+                <span class="i-lucide-arrow-down arrow-down" />
+                <span class="i-lucide-shield-alert bg-yellow-400" />
                 Things we will try to avoid
               </summary>
               <ol>
@@ -260,8 +264,8 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
           <textarea
             v-model="feedback.message"
             autofocus
-            class="bg-$vp-c-bg-alt text-$vp-c-text-2 w-full h-[100px] border border-$vp-c-divider rounded px-3 py-1.5 border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 border-2 border-solid"
-            placeholder="Tip: Did you know that starring our GitHub repo doubles the chances that your feedback will be read?"
+            class="feedback-textarea bg-$vp-c-bg-alt text-$vp-c-text-2 w-full h-[100px] border border-$vp-c-divider rounded px-3 py-1.5 border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 border-2 border-solid"
+            :placeholder="prompt"
           />
           <p class="desc mb-2">
             If you want a reply to your feedback, feel free to mention a contact
@@ -343,6 +347,51 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
   display: block;
   font-size: 12px;
   color: var(--vp-c-text-2);
+}
+
+.prompt-text {
+  display: block;
+  font-size: 10px;
+  color: var(--vp-c-text-2);
+  opacity: 0.75;
+}
+
+.feedback-textarea {
+  font-size: 14px;
+}
+
+.feedback-textarea::placeholder {
+  font-size: 12px;
+}
+
+details summary {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  cursor: pointer;
+  list-style: none;
+}
+
+details summary::-webkit-details-marker {
+  display: none;
+}
+
+details summary .arrow-right {
+  display: inline-block;
+  flex-shrink: 0;
+}
+
+details summary .arrow-down {
+  display: none;
+  flex-shrink: 0;
+}
+
+details[open] summary .arrow-right {
+  display: none;
+}
+
+details[open] summary .arrow-down {
+  display: inline-block;
 }
 
 .fade-enter-active,
