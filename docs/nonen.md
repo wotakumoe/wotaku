@@ -13,11 +13,11 @@ og:
 
 | Websites | Login | Tracking |
 |----------|-------|----------|
-| [AnimeKai](https://animekai.to/home) [:prx:](https://rentry.org/wotaxy#animekai) ==AnimeKai== | :yes: | :sync::ie::msync: |
 | [KickassAnime](https://kaa.lt/) ==KAA== | :yes: | :msync: |
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :yes: | :no: |
-| [Re:ANIME](https://reanime.to/home) | :yes: | :sync::ie::msync: |
+| [Re:ANIME](https://reanime.to/home) ==ReANIME== | :yes: | :sync::ie::msync: |
 | [AniZone](https://anizone.to/) ==AniZone== | :no: | :msync: |
+| [Anikoto](https://anikototv.to/home) ==Anikoto== | :yes: | :ie: |
 
 
 <Collapsible title="More">
@@ -25,7 +25,6 @@ og:
 | Websites | Login | Tracking |
 |----------|-------|----------|
 | [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) | :yes: | :msync: |
-| [Anikoto](https://anikototv.to/home) ==Anikoto== | :yes: | :ie: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :yes: | :sync::ie::msync: |
 | [Animotvslash](https://www.animotvslash.org/) [:alt:](https://animotvslash.nl/home/) | :no: | :no: |
 | [Anime-Dunya](https://anime-dunya.com/en) :sd: | :yes: | :no: |

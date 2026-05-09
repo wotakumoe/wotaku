@@ -1,0 +1,4 @@
+- Re-encodes for smaller size.
+- Small library.
+- Lets you request new titles.
+- Good for airing shows.

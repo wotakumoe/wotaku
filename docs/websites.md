@@ -20,11 +20,11 @@ outline: 1
 
 | Websites | Login | Tracking | Sub |
 |----------|-------|----------|-----|
-| [AnimeKai](https://animekai.to/home) [:prx:](https://rentry.org/wotaxy#animekai) ==AnimeKai== | :yes: | :sync::ie::msync: | :cc::oc: |
 | [KickassAnime](https://kaa.lt/) ==KAA== | :yes: | :msync: | :cc: |
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :yes: | :no: |  :cc: |
-| [Re:ANIME](https://reanime.to/home) | :yes: | :sync::ie::msync: | :cc: |
+| [Re:ANIME](https://reanime.to/home) ==ReANIME== | :yes: | :sync::ie::msync: | :cc: |
 | [AniZone](https://anizone.to/) ==AniZone== | :no: | :msync: | :cc: |
+| [Anikoto](https://anikototv.to/home) ==Anikoto== | :yes: | :ie: | :cc::oc: |
 
 
 <Collapsible title="More">
@@ -35,7 +35,6 @@ outline: 1
 | [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) | :yes: | :msync: | :cc::oc: |
 | [Anibd](https://anibd.app/) :ero: [:alt:](https://ani.lol/) | :yes: | :no: | :oc: |
 | [AniHQ](https://anihq.org/home/) | :yes: | :no: | :oc: |
-| [Anikoto](https://anikototv.to/home) ==Anikoto== | :yes: | :ie: | :cc::oc: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :yes: | :sync::ie::msync: | :cc: |
 | [AnimePahe](https://animepahe.pw/) ==Animepahe== | :no: | :msync: | :oc: |
 | [Animotvslash](https://www.animotvslash.org/) [:alt:](https://animotvslash.nl/home/) | :no: | :no: | :cc::oc: |
@@ -84,7 +83,7 @@ outline: 1
 | :--- | :--- |
 | [**One Pace Project**](https://linktr.ee/onepaceproject) | [Official Site](https://onepace.net/en/watch) |
 | ^^ | [Unofficial Site](https://onepace.co/) |
-| ^^ | [Stremio Addon](https://github.com/au2001/onepace-stremio) |
+| ^^ | [Stremio Addon](https://stremio-addons.net/addons/one-pace-addon) |
 | ^^ | [Public Subtitles](https://github.com/one-pace/one-pace-public-subtitles) |
 | **Rerun Sites** :sd: | [BumpWorthy](https://www.bumpworthy.com/) |
 | ^^ | [RetroBlast](https://retroblast.tv/) |
