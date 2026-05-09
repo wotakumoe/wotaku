@@ -216,13 +216,6 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
                 <li>
                   Sites found in the Unsafe lists of
                   <a
-                    href="https://fmhy.net/unsafesites"
-                    class="text-primary text-underline font-semibold"
-                  >
-                    FMHY
-                  </a>
-                  ,
-                  <a
                     href="https://privateers.wiki/unsafe"
                     class="text-primary text-underline font-semibold"
                   >
