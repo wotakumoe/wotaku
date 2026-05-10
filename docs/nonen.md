@@ -148,7 +148,6 @@ Most apps in [**software**](/software) supports multilingual sources
 - [23qb](https://www.23qb.net/)
 - [EPUB.moe](https://epub.moe/)
 - [ESJ Zone](https://www.esjzone.cc/)
-- [Light Novel](https://www.lightnovel.fun/)
 
 ### NSFW
 - [Hanime1.me](https://hanime1.me/)
@@ -306,7 +305,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | Category | Website |
 | :--- | :--- |
 | Anime | [AnimeDrive](https://animedrive.hu/) |
-| ^^ | [MagyarAnime](https://magyaranime.eu/) |
+| ^^ | [MagyarAnime](https://magyaranime.eu/) :acc: |
 
 ## Indian
 

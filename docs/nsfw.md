@@ -79,7 +79,6 @@ og:
 - [ManhwaRead](https://manhwaread.com/)
 - [Oppai](https://read.oppai.stream/) ==Oppai==
 - [RawDEX](https://rawdex.net/) :lkr:
-- [Sauce Manhwa](https://saucemanhwa.org/) +:lkr:
 - [Toonily](https://toonily.com/)
 - [Webtoon](https://www.webtoon.xyz/)
 
