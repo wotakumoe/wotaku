@@ -1,3 +1,0 @@
-- Huge library.
-- Re-encodes for smaller size.
-- Mix of Web and Blu-ray releases.

@@ -24,7 +24,7 @@ outline: 1
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :yes: | :no: |  :cc: |
 | [Re:ANIME](https://reanime.to/home) ==ReANIME== | :yes: | :sync::ie::msync: | :cc: |
 | [AniZone](https://anizone.to/) ==AniZone== | :no: | :msync: | :cc: |
-| [Anikoto](https://anikototv.to/home) ==Anikoto== | :yes: | :ie: | :cc::oc: |
+| [AnimePahe](https://animepahe.pw/) ==Animepahe== | :no: | :msync: | :oc: |
 
 
 <Collapsible title="More">
@@ -35,8 +35,8 @@ outline: 1
 | [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) | :yes: | :msync: | :cc::oc: |
 | [Anibd](https://anibd.app/) :ero: [:alt:](https://ani.lol/) | :yes: | :no: | :oc: |
 | [AniHQ](https://anihq.org/home/) | :yes: | :no: | :oc: |
+| [Anikoto](https://anikototv.to/home) ==Anikoto== | :yes: | :ie: | :cc::oc: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :yes: | :sync::ie::msync: | :cc: |
-| [AnimePahe](https://animepahe.pw/) ==Animepahe== | :no: | :msync: | :oc: |
 | [Animotvslash](https://www.animotvslash.org/) [:alt:](https://animotvslash.nl/home/) | :no: | :no: | :cc::oc: |
 | [Kanae](https://kanae.to/) ==Kanae== | :yes: | :no: | :cc: |
 | [Otaku-Streamers](https://beta.otaku-streamers.com/) :acc: ==OtakuStreamers== | :yes: | :no: | :oc: |
@@ -203,7 +203,7 @@ outline: 1
 
 - [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap)
 - [Madokami](https://manga.madokami.al) :s::acc: [:help:](/guides/manga/madokami)
-- [Anna's Archive](https://annas-archive.gl/) ==AnnasArchive== [:prx:](https://rentry.org/wotaslap) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
+- [Anna's Archive](https://annas-archive.gl/) [:prx:](https://rentry.org/wotaslap) ==AnnasArchive== <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
 - [Desuarchive](https://desuarchive.org/) :f: <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
 - [Library Genesis+](https://libgen.li/) [:prx:](https://rentry.org/wotaslap)
 - [The Manga Library](https://rentry.org/wotadirect#websites)
@@ -272,7 +272,7 @@ These sites contain a mix of both actual and AI-generated novels.
 | ^^              | [JNovel Codex](https://jnovelcodex.web.app/index.html) |
 | ^^              | [Kureha One](http://www.vn-meido.com/k1/index.php?board=17.0) ==kureha== |
 | ^^              | [Madokami](https://manga.madokami.al) :acc: [:help:](/guides/manga/madokami) |
-| ^^              | [Anna's Archive](https://annas-archive.gl/) ==AnnasArchive== [:prx:](https://rentry.org/wotaslap) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" /> |
+| ^^              | [Anna's Archive](https://annas-archive.gl/) [:prx:](https://rentry.org/wotaslap) ==AnnasArchive== <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" /> |
 | ^^              | [Library Genesis+](https://libgen.li/) [:prx:](https://rentry.org/wotaslap) |
 | ^^              | [Z-Library](https://z-lib.sk/) [:prx:](https://rentry.org/wotaslap) |
 
