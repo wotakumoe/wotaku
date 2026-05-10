@@ -11,8 +11,8 @@ const open = ref(false)
 <template>
   <details class="details custom-block" :open="open || undefined" @toggle="open = ($event.target as HTMLDetailsElement).open">
     <summary>
-      <span v-if="open" class="i-lucide-arrow-down collapsible-icon" />
-      <span v-else class="i-lucide-arrow-right collapsible-icon" />
+      <span v-if="open" class="i-iconoir-nav-arrow-down collapsible-icon" />
+      <span v-else class="i-iconoir-nav-arrow-right collapsible-icon" />
       {{ title || 'Details' }}
     </summary>
     <slot />

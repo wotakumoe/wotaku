@@ -173,8 +173,8 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
           <div v-if="feedback.type === 'submit'" class="mb-2 text-sm">
             <details>
               <summary class="flex items-center gap-1">
-                <span class="i-lucide-arrow-right arrow-right" />
-                <span class="i-lucide-arrow-down arrow-down" />
+                <span class="i-iconoir-nav-arrow-right arrow-right" />
+                <span class="i-iconoir-nav-arrow-down arrow-down" />
                 <span class="i-lucide-shield-x bg-cerise-400" />
                 Things we won't add in the wiki
               </summary>
@@ -227,8 +227,8 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
             </details>
             <details>
               <summary class="flex items-center gap-1">
-                <span class="i-lucide-arrow-right arrow-right" />
-                <span class="i-lucide-arrow-down arrow-down" />
+                <span class="i-iconoir-nav-arrow-right arrow-right" />
+                <span class="i-iconoir-nav-arrow-down arrow-down" />
                 <span class="i-lucide-shield-alert bg-yellow-400" />
                 Things we will try to avoid
               </summary>
