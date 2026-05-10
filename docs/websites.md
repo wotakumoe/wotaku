@@ -206,8 +206,8 @@ outline: 1
 - [Anna's Archive](https://annas-archive.gl/) [:prx:](https://rentry.org/wotaslap) ==AnnasArchive== <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
 - [Desuarchive](https://desuarchive.org/) :f: <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
 - [Library Genesis+](https://libgen.li/) [:prx:](https://rentry.org/wotaslap)
-- [The Manga Library](https://rentry.org/wotadirect#websites)
 - [Internet Archive](https://archive.org/)
+- :prev: [The Manga Library](https://rentry.org/wotadirect#websites)
 
 ::: tip DDL from rippers
 - Nyaa descriptions: [**1r0n**](https://nyaa.si/user/tsuna69), [**LuCaZ**](https://nyaa.si/user/LuCaZ), [**Shizu**](https://nyaa.si/user/wolfsbanes), [**Stick**](https://nyaa.si/user/dumbboy58)
