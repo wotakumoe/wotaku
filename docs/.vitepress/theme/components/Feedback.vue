@@ -30,23 +30,16 @@ const getURL = (heading: string) =>
   `https://wotaku.wiki${withBase(router.route.path)}#${sluggify(heading)}`
 
 const prompts = [
-  'Make it count!',
-  'Leave some feedback for us!',
-  `We're all ears 🐰`,
-  'Tell us what is missing in Wotaku',
-  'Your thoughts matter to us 💡',
-  'Feedback is a gift 🎁',
-  'What do you think?',
-  'We appreciate your support 🙏',
-  'We need your help 👋',
-  'Your feedback is valuable 💯',
-  'So... what do you think?',
-  "I guess you don't need to say anything 😉",
-  'Spill the beans 💣',
-  "We're always looking for ways to improve!.",
-  'aliens are watching you 👽',
-  'tasky was here 👀',
-  'The internet is full of crap 😱'
+  "Tips: Starring our GitHub repo increases the chances of your feedback being accepted twofold.",
+  "Tips: Keep your feedback precise.",
+  "Tips: Don't ask us questions as we can't really answer you here, join our Discord instead.",
+  "Tips: If you are submitting a scraper site, mention all the sources.",
+  "Tips: English, motherf**ker, do you speak it?!",
+  "Fun fact: We don't maintain any extension repos, complaining to us won't solve your issue.",
+  "Fun fact: We can't really add or fix any type of extensions.",
+  "Fun fact: Meme is evil and has almost taken over the wiki.",
+  "Fun fact: Bloat ≠ quality.",
+  "Damn! We got a visitor!"
 ]
 
 function getPrompt() {
