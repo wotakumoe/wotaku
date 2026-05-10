@@ -1,1 +1,0 @@
-[Kodansha](https://kodansha.us/), [SuBLime](https://www.sublimemanga.com/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)

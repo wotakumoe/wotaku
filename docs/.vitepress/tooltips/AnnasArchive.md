@@ -1,0 +1,1 @@
+The default servers are way too slow, so try downloading using the script.

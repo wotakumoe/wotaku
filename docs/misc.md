@@ -379,6 +379,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | Category  | Websites | Service(s) |  
 |-----------|----------|------------|  
 | **General** | [3x3 Generator](https://gqgs.github.io/3x3-generator/) [:src:](https://github.com/gqgs/3x3-generator/) | :mal::al::k: |
+| ^^        | [lists.fun](https://lists.fun/) | :mal::tmdb::igdb: |
 | ^^        | [Topsters](https://topsters.org/) | :tmdb::lstfm::igdb::iarch: |
 | **Games** | [My 9 Games](https://my9games.com/) | :igdb: |
 | **Music** | [My Top 9 Otaku Songs](https://otaku-song.pages.dev/) :ljp: | :apple: |

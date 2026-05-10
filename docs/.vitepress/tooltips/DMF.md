@@ -1,1 +1,0 @@
-[J-Novel Club](https://j-novel.club/), [Kodansha](https://kodansha.us/), [ONE PEACE BOOKS](https://www.onepeacebooks.com/), [Seven Seas](https://sevenseasentertainment.com/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)

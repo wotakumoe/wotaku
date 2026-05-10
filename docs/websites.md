@@ -94,7 +94,7 @@ outline: 1
 | **Others** | [Gabby's Anime Edits](https://linktr.ee/gabby5202) |
 | ^^ | [SBY Stream](https://sbystream.com/) |
 | ^^ | [Sonic Zone TV](https://soniczone.net/tv/home.html) |
-| ^^ | [Japanese Animated Film Classics](https://animation.filmarchives.jp/en/index.html) :sd: |
+| ^^ | [JP Animated Film Classics](https://animation.filmarchives.jp/en/index.html) :sd: |
 
 </Collapsible>
 
@@ -122,7 +122,7 @@ outline: 1
 | Category      | Name |
 |---------------|------|
 | **Reuploads** | [Tokyo Insider](https://www.tokyoinsider.com/) :ddl: |
-| **BDMV (slow host)** | [JPFiles](https://jpfiles.net/) |
+| **BDMV** :ljp::host: | [JPFiles](https://jpfiles.net/) |
 | ^^ | [AnimeRSS](https://animerss.com/) |
 | ^^ | [Asia Media Blog](https://asiamediablog.com/media/anime/) :ero: [:prx:](https://rentry.org/wotaxy#asia-media-blog) |
 | ^^ | [urajp](https://urajp.se/) |
@@ -201,44 +201,19 @@ outline: 1
 
 ## Download
 
-### Nyaa
+- [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap)
+- [Madokami](https://manga.madokami.al) :s::acc: [:help:](/guides/manga/madokami)
+- [Anna's Archive](https://annas-archive.gl/) ==AnnasArchive== [:prx:](https://rentry.org/wotaslap) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
+- [Desuarchive](https://desuarchive.org/) :f: <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
+- [Library Genesis+](https://libgen.li/) [:prx:](https://rentry.org/wotaslap)
+- [The Manga Library](https://rentry.org/wotadirect#websites)
+- [Internet Archive](https://archive.org/)
 
-- [1r0n](https://nyaa.si/user/tsuna69) <Badge type="info" text="Ch & Vol"/> ==tron==
-- [Aleph](https://nyaa.si/user/Aleph256) <Badge type="info" text="Ch"/> ==Aleph==
-- [Danke](https://nyaa.si/?f=0&c=0_0&q=danke-empire) :f: :ded:<Badge type="info" text="Ch & Vol"/> ==Danke==
-- [Digital Manga Fan](https://nyaa.si/user/digitalmangafan) <Badge type="info" text="Comp & Vol"/> ==DMF==
-- [Empy](https://nyaa.si/user/empyrealarrow) :ded:<Badge type="info" text="Ch & Comp"/> ==Empy==
-- [Lord_ne](https://nyaa.si/user/lord_ne) ==Lord_ne==
-- [LuCaZ](https://nyaa.si/user/LuCaZ) <Badge type="info" text="Ch & Vol"/> ==LuCaZ==
-- [Oakminati](https://nyaa.si/user/Oakminati) <Badge type="info" text="Ch & Comp"/><Badge type="tip" text="Releases" link="https://sheet.zohopublic.com/sheet/published/3v5my3d014d3b97064f55b7114631ac87efda?sheetid=1&range=A1" /> ==Oakminati==
-- [Rillant](https://nyaa.si/user/Rillant) <Badge type="info" text="Ch & Comp"/> ==Rillant==
-- [Shellshock](https://nyaa.si/user/shellshock) ==Shellshock==
-- [Shizu](https://nyaa.si/user/wolfsbanes) ==Shizu==
-- [Stick](https://nyaa.si/user/dumbboy58) ==Stick==
-- [SWId](https://nyaa.si/?f=0&c=3_1&q=SWId) :ded: ==SWId==
-- [TooManyIsekai](https://nyaa.si/?f=0&c=3_1&q=TooManyIsekai) ==TooManyIsekai==
-- [Trite](https://nyaa.si/user/Trite) ==Trite==
-- [Ushi](https://nyaa.si/user/bakaushi) ==Ushi==
-- [XRA](https://nyaa.si/?f=0&c=0_0&q=XRA) :f:
-
-
-### Direct Download
-
-| Category      | Website |
-|--------------|----------------------------------------------------------------------------------|
-| **Aggregators** | [Madokami](https://manga.madokami.al) :s: [:help:](/guides/manga/madokami) |
-| ^^           | [Anna's Archive](https://annas-archive.gl/) [:prx:](https://rentry.org/wotaslap) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" /> |
-| ^^           | [Desuarchive](https://desuarchive.org/) :f: <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" /> |
-| ^^           | [Library Genesis+](https://libgen.li/) [:prx:](https://rentry.org/wotaslap) |
-| ^^           | [The Manga Library](https://rentry.org/wotadirect#websites) |
-| ^^           | [Internet Archive](https://archive.org/) |
-| **Rippers**  | [1r0n](https://nyaa.si/user/tsuna69) <tooltip>DDL in torrent description</tooltip> |
-| ^^           | [4str0](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) |
-| ^^           | [Danke](https://desuarchive.org/_/search/text/(digital)%20(danke-empire)/) :ded: |
-| ^^           | [LuCaZ](https://nyaa.si/user/LuCaZ) <tooltip>DDL in torrent description</tooltip> |
-| ^^           | [Stick](https://nyaa.si/user/dumbboy58) <tooltip>DDL in torrent description</tooltip> |
-| ^^           | [XRA](https://desuarchive.org/_/search/text/(digital)%20(xra-empire)/) <Badge type="tip" text="Old Releases" link="https://rentry.org/wotadirect#websites" /> |
-
+::: tip DDL from rippers
+- Nyaa descriptions: [**1r0n**](https://nyaa.si/user/tsuna69), [**LuCaZ**](https://nyaa.si/user/LuCaZ), [**Stick**](https://nyaa.si/user/dumbboy58)
+- 4chan archives: [**Danke**](https://desuarchive.org/_/search/text/(digital)%20(danke-empire)/), [**XRA**](https://desuarchive.org/_/search/text/(digital)%20(xra-empire)/)
+- Personal sheet: [**4str0**](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13)
+:::
 
 <Collapsible title=" Related resources">
 
@@ -296,8 +271,8 @@ These sites contain a mix of both actual and AI-generated novels.
 | ^^              | [Elscione Official LNs](https://server.elscione.com/Officially%20Translated%20Light%20Novels/) |
 | ^^              | [JNovel Codex](https://jnovelcodex.web.app/index.html) |
 | ^^              | [Kureha One](http://www.vn-meido.com/k1/index.php?board=17.0) ==kureha== |
-| ^^              | [Madokami](https://manga.madokami.al) [:help:](/guides/manga/madokami) |
-| ^^              | [Anna's Archive](https://annas-archive.gl/) [:prx:](https://rentry.org/wotaslap) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" /> |
+| ^^              | [Madokami](https://manga.madokami.al) :acc: [:help:](/guides/manga/madokami) |
+| ^^              | [Anna's Archive](https://annas-archive.gl/) ==AnnasArchive== [:prx:](https://rentry.org/wotaslap) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" /> |
 | ^^              | [Library Genesis+](https://libgen.li/) [:prx:](https://rentry.org/wotaslap) |
 | ^^              | [Z-Library](https://z-lib.sk/) [:prx:](https://rentry.org/wotaslap) |
 

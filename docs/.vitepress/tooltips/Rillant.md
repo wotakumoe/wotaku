@@ -1,1 +1,0 @@
-[K Manga](https://kmanga.kodansha.com/), [Kodansha](https://kodansha.us/), [MANGA Plus](https://mangaplus.shueisha.co.jp/), [VIZ](https://www.viz.com/)

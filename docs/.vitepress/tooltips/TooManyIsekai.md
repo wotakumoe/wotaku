@@ -1,1 +1,0 @@
-[J-Novel Club](https://j-novel.club/), [K Manga](https://kmanga.kodansha.com/), [Kodansha](https://kodansha.us/), [Manga UP!](https://global.manga-up.com/), [ONE PEACE BOOKS](https://www.onepeacebooks.com/), [Seven Seas](https://sevenseasentertainment.com/)

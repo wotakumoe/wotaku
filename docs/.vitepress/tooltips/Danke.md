@@ -1,1 +1,0 @@
-[Kodansha](https://kodansha.us/), [Seven Seas](https://sevenseasentertainment.com/), [VIZ](https://www.viz.com/), [Yen Press](https://yenpress.com/)

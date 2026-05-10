@@ -1,1 +1,0 @@
-Cover-to-cover (c2c) scans of physical-only books by various publishers.
