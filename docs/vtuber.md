@@ -293,6 +293,7 @@ og:
 | Game                                                         | Price  | MC                | Dev        | Publisher |
 |--------------------------------------------------------------|--------|-------------------|------------|-----|
 | [Age of Advent](https://store.steampowered.com/app/2679690/) | Free   | Hololive Advent   | MooCow     | holo Indie |
+| [Chattini Jetpack Project](https://store.steampowered.com/app/4434670/) | TBD | Raora Panthera | chokomancarr | holo Indie |
 | [Delivering Hope](https://david-wu-softdev.itch.io/delivering-hope-hololive-fangame) | Free   | IRyS              | David Wu   | David Wu |
 | [holoBase](https://store.steampowered.com/app/4521010/) | Paid | Hololive JP | Clover Lab.,inc. | holo Indie |
 | [Koro-san's Home "WAN!" Derby](https://store.steampowered.com/app/3732150/) | Paid | Inugami Korone | To You Games, Wit One | holo Indie |

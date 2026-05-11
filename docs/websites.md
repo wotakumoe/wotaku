@@ -241,7 +241,6 @@ outline: 1
 These sites contain a mix of both actual and AI-generated novels.
 :::
 
-- [VyNovel](https://vynovel.com/)
 - [NovelFire](https://novelfire.net/home)
 - [NovelList](https://www.novellist.co/)
 - [RUNO](https://runo.ink/)
@@ -371,7 +370,6 @@ These sites contain a mix of both actual and AI-generated novels.
 - [Comic Book Plus](http://comicbookplus.com/) <Badge type="info" text="Vintage"/>
 - [Digital Comic Museum](https://digitalcomicmuseum.com/) <Badge type="info" text="Vintage"/>
 - [Read All Comics](https://readallcomics.com/)
-- [Read Comic Online (.li)](https://readcomiconline.li/) :s:
 - [Read Comics Online (.ru)](https://readcomicsonline.ru/)
 - [XOXO Comics](https://xoxocomic.com/) [:alt:](https://comichubfree.com/)
 
