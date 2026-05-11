@@ -294,9 +294,11 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | **Novels** | [WebtoEpub](https://github.com/dteviot/WebToEpub) | :ff::cr: |
 | ^^ | [Epublifier](https://github.com/maoserr/epublifier) | :ff::cr: |
 | ^^ | [Lightnovel Crawler](https://github.com/dipu-bd/lightnovel-crawler) | :win::app::lin::dock: |
-| **DRM** | [KeyDive](https://github.com/hyugogirubato/KeyDive/) `L3` | :py: |
+| **DRM** | [KeyDive](https://github.com/hyugogirubato/KeyDive/) <Badge type="info" text="L3" /> | :py: |
 | ^^ | [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) | :win::lin: |
+| ^^ | :prev: [PlayreadyProxy2](https://github.com/DevLARLEY/PlayreadyProxy2) | :cr::ff: |
 | ^^ | :prev: [WidevineProxy2](https://github.com/DevLARLEY/WidevineProxy2) | :cr::ff: |
+| ^^ | :prev: [Vineless](https://github.com/Ingan121/Vineless) | :cr::ff: |
 | ^^ | [pywidevine](https://github.com/devine-dl/pywidevine) | :py: |
 | ^^ | [Unshackle](https://github.com/unshackle-dl/unshackle) | :py: |
 
