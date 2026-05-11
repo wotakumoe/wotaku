@@ -505,7 +505,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^ | [Synthesizer V](https://dreamtonics.com/synthesizerv/) :cs: | :win::app: |
 | ^^ | [Piapro Studio](https://piaprostudio.com/?lang=en) :cs: | :win::app: |
 | ^^ | [CeVIO](https://cevio.jp/) :cs: | :win: |
-| ^^ | [OpenUtau](https://www.openutau.com/) [:scr:](https://github.com/stakira/OpenUtau) | :win::app::lin: |
+| ^^ | [OpenUtau](https://www.openutau.com/) [:src:](https://github.com/stakira/OpenUtau) | :win::app::lin: |
 | DAW | [Ableton](https://www.ableton.com/en/) :cs: | :win::app: |
 | ^^ | [Cubase](https://www.steinberg.net/cubase/) :cs: | :win::app: |
 | ^^ | [FL Studio](https://www.image-line.com/fl-studio/) :cs: | :win::app: |
