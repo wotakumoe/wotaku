@@ -460,7 +460,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | [Manga ZIP](https://manga-zip.is/post) | :yes: | :no: | :yes: |
 | [Rawinstant](https://rawinstant.net/manga/) | :yes: | :yes: | :yes: |
 | [Raw Cans](http://raw-cans.net/) | :yes: | :no: | :yes: |
-| [Raw Manga Archive](https://mangasora.net/) | :yes: | :yes: | :yes: |
 | [RAWS MANGA](https://rawsmanga.com/) | :yes: | :yes: | :yes: |
 | [urajp](https://urajp.se/) | :yes: | :yes: | :yes: |
 | [X3DL.NET](https://x3dl.net/wp/) | :yes: | :yes: | :yes: |
@@ -578,8 +577,8 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [One Pace](https://onepace-ru.tilda.ws/) |
 | ^^ | [Tunime](https://an0ncer.github.io/) [:src:](https://github.com/AN0NCER/an0ncer.github.io) <Badge type="info" text="Sub" /> |
 | ^^ | [YummyAnime](https://site.yummyani.me/) |
-| **Manga** | [Com-X](https://com-x.life/home) |
-| ^^ | [Desu.Me](https://desu.uno/) [:alt:](https://desu.me/) |
+| **Manga** | [Com-X](https://ru.com-x.life/) |
+| ^^ | [Desu.Me](https://desu.uno/) |
 | ^^ | [InkStory](https://inkstory.net/) |
 | ^^ | [MangaHub](https://mangahub.ru/) |
 | ^^ | [MangaLIB](https://mangalib.me/) |
