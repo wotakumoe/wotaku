@@ -304,6 +304,26 @@ These sites contain a mix of both actual and AI-generated novels.
 | ^^         | [Megabeast Empire](https://megabeastempire.wordpress.com/) |
 | ^^         | [Metallic Subs](https://metallicsubs.wordpress.com/) |
 
+<collapsible title="General Live-Action"> 
+
+| Category | Websites |
+| :--- | :--- |
+| **Stream** | [Kisskh](https://kisskh.co/) :sd: [:prx:](https://rentry.org/wotaxy#kisskh) |
+| ^^ | [OneTouch TV](https://onetouchtv.xyz/) :sd: |
+| ^^ | [GoPlay](https://goplay.su/) :ckr::ccn: [:alt:](https://goplay.ml/) [:d:](https://discord.gg/yY2P3DQR8S) |
+| ^^ | [Asiaflix](https://asiaflix.net/) :sd: |
+| ^^ | [Anisub](https://anisub.tv/) :sd::cjp: |
+| ^^ | [Kisskh Web](https://www.kisskhweb.com/home/) :sd: |
+| ^^ | [XPrime](https://xprime.su/) [:alt:](https://xprime.stream/) |
+| ^^ | [Cineby](https://www.cineby.sc/) |
+| **Download** | [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap) |
+| ^^ | [AvistaZ](https://avistaz.to/) :mag::acc: [:d:](https://discord.gg/GYahYNWutE) |
+| ^^ | [EXT Torrents](https://ext.to/) :mag: |
+| ^^ | [Dramaday](https://dramaday.me/) :ckr: |
+| ^^ | [DramaSuki](https://rentry.org/wotadirect#japanimmersion) :ded: |
+| ^^ | [Rare Doramas](https://www.raredoramas.com/) :cjp: |
+
+</collapsible>
 
 ## Wikis
 

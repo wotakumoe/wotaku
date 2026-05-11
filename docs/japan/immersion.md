@@ -47,7 +47,7 @@ og:
 | Movies & Series | [Asiaflix](https://asiaflix.net/shows?country=Japan) :sd: |
 | ^^ | [JP-Films](https://jp-films.com/) :fm: |
 | ^^ | [Viki](https://www.viki.com/categories/country/japan/genre/all) :fm::sub: <Badge type="info" text="JP Sub" /> |
-| Download | [DramaSuki](https://rentry.org/wotadirect#japanimmersion) :ddl: |
+| Download | [DramaSuki](https://rentry.org/wotadirect#japanimmersion) :ddl::ded: |
 | ^^ | [Rare Doramas](https://www.raredoramas.com/) :ddl: |
 | ^^ | [JPFiles](https://jpfiles.net/) :host: |
 | Subtitles | [Kitsunekko](https://kitsunekko.net/) |

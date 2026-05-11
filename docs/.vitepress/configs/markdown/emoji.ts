@@ -168,6 +168,8 @@ const aliasDefs: Record<string, [string, string?]> = {
   cus: ['twemoji-flag-united-states', 'United States'],
   ccy: ['twemoji-flag-cyprus', 'Cyprus'],
   cca: ['twemoji-flag-canada', 'Canada'],
+  cjp: ['twemoji-flag-japan', 'Japan'],
+  ckr: ['twemoji-flag-south-korea', 'Korea'],
   cswi: ['twemoji-flag-switzerland', 'Switzerland'],
   cswe: ['twemoji-flag-sweden', 'Sweden'],
   cit: ['twemoji-flag-italy', 'Italy'],
