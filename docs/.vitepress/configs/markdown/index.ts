@@ -39,6 +39,7 @@ export function configureMarkdown(md: MarkdownRenderer) {
   renderTooltip(md)
   renderInlineTooltip(md)
   md.use(markdownSteps)
+  renderHighlight(md)
 }
 
 function renderInlineTooltip(md: MarkdownRenderer) {
@@ -90,4 +91,15 @@ function span(
   }
   html += `>${content}</span>`
   return html
+}
+
+function renderHighlight(md: MarkdownRenderer) {
+  const original = md.render.bind(md)
+  md.render = (src, env) => {
+    const replaced = src.replace(/([!x]?)\|\|(.+?)\|\|/g, (_, prefix, cont) => {
+      const variant = prefix === '!' ? 'warning' : prefix === 'x' ? 'danger' : 'default'
+      return `<hl variant="${variant}">${cont}</hl>`
+    })
+    return original(replaced, env)
+  }
 }

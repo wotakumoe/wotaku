@@ -26,6 +26,7 @@ import './styles/tooltip-hint.css'
 import './styles/steps.css'
 import Block from './components/Block.vue'
 import LinkInline from './components/LinkInline.vue'
+import Highlight from './components/Highlight.vue'
 
 export default {
   extends: DefaultTheme,
@@ -48,6 +49,7 @@ export default {
     })
     enhanceAppWithTabs(app)
     app.component('LinkInline', LinkInline)
+    app.component('hl', Highlight)
     app.component('Block', Block)
     app.component('Authors', Authors)
     app.component('Tooltip', Tooltip)
