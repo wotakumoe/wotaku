@@ -103,7 +103,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | :--- | :--- |
 | **Anime / Manga** | [Fansubs.cat](https://www.fansubs.cat/) |
 | ^^ | [Hentai.cat](https://www.hentai.cat/) :ero: |
-| ^^ | [SX3](https://www.3cat.cat/tv3/sx3/x3/) <Badge type="tip" text="TV" link="https://www.3cat.cat/tv3/sx3/directe/" /> |
+| ^^ | [SX3](https://www.3cat.cat/tv3/sx3/x3/) |
 | ^^ | [TotsRucs](http://www.totsrucs.cat/) :mag: |
 | ^^ | [UnionFansub](https://foro.unionfansub.com/) :mag::acc: |
 | **News** | [Doblatge d'Anime en Català](https://doblatgeanimecatala.blogspot.com/) |
@@ -516,7 +516,8 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [Lycoris](https://www.lycoris.cafe/)
 - [NanaSubs](https://nanasubs.com.pl/)
 - [Oglądaj Anime](https://ogladajanime.pl/)
-- [Shinden](https://shinden.pl/main) <Badge type="info" text="Client" link="https://github.com/KlapChat-Entertainment/shinden-client" />
+- [Shinden](https://shinden.pl/main)
+- :prev: [Shinden client](https://github.com/KlapChat-Entertainment/shinden-client)
 
 ### Software
 

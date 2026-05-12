@@ -66,7 +66,7 @@ og:
 | ^^ | [Kodansha kanji learner's course with vocabulary](https://ankiweb.net/shared/info/779483253) |
 | ^^ | [RRTK450 Anki deck](https://rentry.org/wotadirect#japansoftware) ||Beginner|| |
 | ^^ | [Usagi Chan Kanji Phonetics Deck](https://drive.google.com/file/d/1xyynMQiOuqlC_cBBTwG9t3snRubHqU7e/view) |
-| ^^ | [WaniKani Complete Lv 1-60](https://ankiweb.net/shared/info/2072613354) <Badge type="tip" text="Script" link="https://gist.github.com/Destroxia54/6925a3e1cb75afc7a3dd14d1ba2ff611" /> |
+| ^^ | [WaniKani Complete Lv 1-60](https://ankiweb.net/shared/info/2072613354) [:pin:](https://gist.github.com/Destroxia54/6925a3e1cb75afc7a3dd14d1ba2ff611) |
 | ^^ | [Wanikani Ultimate 3](https://rentry.org/wotadirect#japansoftware) [:d:](https://discord.gg/cSEXEB5DgF) |
 | **Vocab** | [Kaishi](https://github.com/donkuri/Kaishi) :s: ||Beginner|| |
 | ^^ | [Anime decks (Official AnkiWeb)](https://ankiweb.net/shared/decks?search=anime) |

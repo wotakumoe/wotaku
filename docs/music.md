@@ -285,7 +285,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | **General** | [Every Noise at Once](https://everynoise.com/) :s: |
 | ^^          | [Rate Your Music](https://rateyourmusic.com/) :s: |
 | ^^          | [Music-Map](https://www.music-map.com/) |
-| ^^          | [Japanese music by year](https://en.wikipedia.org/wiki/Category:Japanese_music_by_year) <Badge type="tip" text="Wand" link="https://www.wikiwand.com/en/Category:Japanese_music_by_year" /> |
+| ^^          | [Japanese music by year](https://en.wikipedia.org/wiki/Category:Japanese_music_by_year) |
 | ^^          | [Dubolt](https://dubolt.com/) |
 | **RYM** :s: | [Japanese Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-japanese-music/) |
 | ^^          | [Doujin Music](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-doujin-music/) |
@@ -321,7 +321,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | Category  | Links   |
 |----------|--------|
 | **Ranking**  | [Kworb](https://kworb.net/) :s: |
-| ^^          | [ORICON](https://www.oricon.co.jp/music/rankinglab/) :s: <Badge type="tip" text="Full" link="https://www.oricon.co.jp/rank/" /> |
+| ^^          | [ORICON](https://www.oricon.co.jp/music/rankinglab/) :s: [:alt:](https://www.oricon.co.jp/rank/) |
 | ^^          | [Billboard JAPAN](https://www.billboard-japan.com/charts/) |
 | ^^          | [Uta-Net](https://www.uta-net.com/ranking/) |
 | ^^          | [UtaTen](https://utaten.com/ranking/) |
@@ -429,7 +429,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | Type | Addon |
 | :--- | :--- |
 | Component | [Coverflow](https://www.foobar2000.org/components/view/foo_chronflow) |
-| ^^ | [Discord Rich Presence Integration](https://github.com/s0hv/foo_discord_rich) <Badge type="info" text="Catbox" link="https://github.com/realoksi/foobar2000-catbox" /> [:help:](https://s0hv.github.io/foo_discord_rich/) |
+| ^^ | [Discord Rich Presence Integration](https://github.com/s0hv/foo_discord_rich) [:help:](https://s0hv.github.io/foo_discord_rich/) [:alt:](https://github.com/realoksi/foobar2000-catbox) |
 | ^^ | [Encoder Pack](https://www.foobar2000.org/encoderpack) |
 | ^^ | [ESLyric](https://github.com/ESLyric/release) |
 | ^^ | [OpenLyrics](https://www.foobar2000.org/components/view/foo_openlyrics) [:help:](/guides/music/fb2klyrics) |
@@ -517,7 +517,8 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 ::: info Introduction / Guide
 - [Explaining Vocaloid in under 3 minutes](https://www.youtube.com/watch?v=GODXMGAMpVc)
 - [My First Miku Concert!](https://www.youtube.com/watch?v=XIgANZCBRKo)
-- [A guide to Vocaloid concerts](https://www.youtube.com/watch?v=2JtLAwllxI8) <Badge type="info" text="Part 2" link="https://www.youtube.com/watch?v=OzPKF-DMuUE" />
+- [A guide to Vocaloid concerts](https://www.youtube.com/watch?v=2JtLAwllxI8)
+- :prev: [Part 2](https://www.youtube.com/watch?v=OzPKF-DMuUE)
 - [So, you wanna get into VOCALOID](https://www.youtube.com/watch?v=y5pPALER7WU) <tooltip>Watch this for the introduction only (till `21:42`), since the software section is outdated. </tooltip>
     - [So, you wanna get into VSynth Covers](https://www.youtube.com/watch?v=ySledv37IrQ)
 - [The Foundations of Making Vocaloid - A Beginner's Guide Tutorial](https://www.youtube.com/watch?v=6cisVNaOJXY)

@@ -95,13 +95,13 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 
 ### Wiki / Websites
 
-- [Pokémon](https://www.pokemon.com/us) ||Official|| <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://www.pokemon.com/us/pokedex" />
-- [Bulbagarden](https://bulbagarden.net/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_National_Pok%C3%A9dex_number" />
-- [Serebii.net](https://www.serebii.net/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://www.serebii.net/pokemon/" />
-- [Pokémon Database](https://pokemondb.net/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://pokemondb.net/pokedex" />
+- [Pokémon](https://www.pokemon.com/us) ||Official|| [:poke:](https://www.pokemon.com/us/pokedex)
+- [Bulbagarden](https://bulbagarden.net/) [:poke:](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_National_Pok%C3%A9dex_number)
+- [Serebii.net](https://www.serebii.net/) [:poke:](https://www.serebii.net/pokemon/)
+- [Pokémon Database](https://pokemondb.net/) [:poke:](https://pokemondb.net/pokedex)
 - [The Cave of Dragonflies](https://www.dragonflycave.com/)
-- [Smogon University](https://www.smogon.com/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://www.smogon.com/dex/" />
-- [Pokéos](https://www.pokeos.com/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://www.pokeos.com/pokedex/" />
+- [Smogon University](https://www.smogon.com/) [:poke:](https://www.smogon.com/dex/)
+- [Pokéos](https://www.pokeos.com/) [:poke:](https://www.pokeos.com/pokedex/)
 - [PokéJungle](https://pokejungle.net/) ||News||
 - [PokéPalette](https://pokemonpalette.com/)
 
@@ -113,7 +113,7 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 - [Pokémerald](https://pokemerald.com/)
 - [Pokémon Infinite Fusion](https://infinitefusion.fandom.com/wiki/Pok%C3%A9mon_Infinite_Fusion_Wiki)
 - [Pokémon Revolution](https://pokemonrevolution.net/home)
-- [Pokémon Showdown!](https://play.pokemonshowdown.com/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://dex.pokemonshowdown.com/" />
+- [Pokémon Showdown!](https://play.pokemonshowdown.com/) [:poke:](https://dex.pokemonshowdown.com/)
 - [PokéRogue](https://pokerogue.net/) [:src:](https://github.com/pagefaultgames/pokerogue)
 - [Who's that Pokémon?](https://gearoid.me/pokemon/)
 

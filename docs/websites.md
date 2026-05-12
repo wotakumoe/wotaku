@@ -368,8 +368,8 @@ These sites contain a mix of both actual and AI-generated novels.
 
 ## Online
 - [BatCave.biz](https://batcave.biz/)
-- [Comic Book Plus](http://comicbookplus.com/) <Badge type="info" text="Vintage"/>
-- [Digital Comic Museum](https://digitalcomicmuseum.com/) <Badge type="info" text="Vintage"/>
+- [Comic Book Plus](http://comicbookplus.com/) ||Vintage||
+- [Digital Comic Museum](https://digitalcomicmuseum.com/) ||Vintage||
 - [Read All Comics](https://readallcomics.com/)
 - [Read Comics Online (.ru)](https://readcomicsonline.ru/)
 - [XOXO Comics](https://xoxocomic.com/) [:alt:](https://comichubfree.com/)
@@ -381,7 +381,7 @@ These sites contain a mix of both actual and AI-generated novels.
 - :prev: [Win-O'-Thread](https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/) :f:
 - [GetComics](https://getcomics.org/) :s:
 - [Library Genesis+](https://libgen.li/) [:prx:](https://rentry.org/wotaslap)
-- [Old Comics World](https://oldcomicsworld.blogspot.com/) <Badge type="info" text="Vintage"/>
+- [Old Comics World](https://oldcomicsworld.blogspot.com/) ||Vintage||
 - [TheLongbox](https://thelongbox.net/) :host::acc:
 
 ## Others

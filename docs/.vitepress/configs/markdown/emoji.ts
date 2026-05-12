@@ -194,6 +194,7 @@ const aliasDefs: Record<string, [string, string?]> = {
   // General
   s: ['twemoji-glowing-star', 'Favorite'],
   e: ['mdi-puzzle', 'Extension'],
+  pin: ['mingcute-classify-add-2-fill', 'Extra plugin/script'],
   n: ['material-symbols-science', 'Nightly build'],
   alt: ['ic-round-looks-two', 'Alternative'],
   ero: ['twemoji-no-one-under-eighteen', 'R18'],
@@ -208,6 +209,7 @@ const aliasDefs: Record<string, [string, string?]> = {
   strm: ['material-symbols-play-circle-outline', 'Stream'],
   lcl: ['iconoir-floppy-disk', 'Local file'],
   batch: ['material-symbols-package-2-outline', 'Batch Download'],
+  poke: ['ic-sharp-catching-pokemon', 'Pokedex'],
   yes: ['lucide-check', 'Yes / Available'],
   no: ['lucide-x', 'No / Unavailable']
 }

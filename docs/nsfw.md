@@ -17,7 +17,7 @@ og:
 :::
 
 ## Anime
-- [AmateurSubs](https://amateursubs.com/) :ddl: <Badge type="tip" text="Nyaa" link="https://sukebei.nyaa.si/user/denis18312" />
+- [AmateurSubs](https://amateursubs.com/) :ddl: [:alt:](https://sukebei.nyaa.si/user/denis18312)
 - [Anibd](https://anibd.app/anime-seasontype/ani16/) [:alt:](https://ani.lol/anime-seasontype/ani16/)
 - [Hanime](https://hanime.tv/home) :sd:
 - [Hanime1](https://hanime1.me/) :ljp::lcn:
@@ -36,7 +36,7 @@ og:
 
 - [HenVids](https://henvids.com/)
 - [Rule34video](https://rule34video.com/)
-- [SakuraCircle](https://sakuracircle.com/) :ddl: :ded:<Badge type="tip" text="Nyaa" link="https://sukebei.nyaa.si/user/Tennouji" />
+- [SakuraCircle](https://sakuracircle.com/) :ddl::ded: [:alt:](https://sukebei.nyaa.si/user/Tennouji)
 - [UnderHentai](https://www.underhentai.net/) :strm::ddl:
 
 
