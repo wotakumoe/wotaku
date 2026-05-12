@@ -278,7 +278,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 
 ## Misc
 
-- [:f:JAV Threads](https://warosu.org/jp/?task=search&ghost=false&search_text=jav+thread) [:help:](https://jav.now.sh/)
+- [JAV Threads](https://warosu.org/jp/?task=search&ghost=false&search_text=jav+thread) :f: [:help:](https://jav.now.sh/)
 - [HDGFAQ](https://rentry.org/hdgfaq)
 - [Hent-AI](https://github.com/natethegreate/hent-AI)
 - [nHentai Discord Bot](https://github.com/the-urban-inc/nhentai-discord-bot)

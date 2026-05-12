@@ -327,7 +327,7 @@ These sites contain a mix of both actual and AI-generated novels.
 
 ## Wikis
 
-- [Tokupedia](https://tokusatsu.fandom.com/wiki/Main_Page) <Badge type="info" text="Hub"  />
+- [Tokupedia](https://tokusatsu.fandom.com/wiki/Main_Page) ||Hub||
 - [GARO Wiki](https://garo.fandom.com/wiki/GARO_Wiki)
 - [Kamen Rider Wiki](https://kamenrider.fandom.com/wiki/Kamen_Rider_Wiki)
 - [King Kong Wiki](https://kingkong.fandom.com/wiki/King_Kong_Wiki)
