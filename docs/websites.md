@@ -204,7 +204,7 @@ outline: 1
 - [Madokami](https://manga.madokami.al) :s::acc: [:help:](/guides/manga/madokami)
 - [Anna's Archive](https://annas-archive.gl/) [:prx:](https://rentry.org/wotaslap) [:js:](https://greasyfork.org/en/scripts/494262-show-external-downloads) ==AnnasArchive==
 - [Library Genesis+](https://libgen.li/) [:prx:](https://rentry.org/wotaslap)
-- [Desuarchive](https://desuarchive.org/) :f: 
+- [Desuarchive](https://desuarchive.org/) :f:
 - :prev: [Win-O'-Thread](https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/) :f:
 - [Internet Archive](https://archive.org/)
 - :prev: [The Manga Library](https://archive.org/details/manga_library)
@@ -271,7 +271,7 @@ These sites contain a mix of both actual and AI-generated novels.
 | ^^              | [JNovel Codex](https://jnovelcodex.web.app/index.html) |
 | ^^              | [Kureha One](http://www.vn-meido.com/k1/index.php?board=17.0) ==kureha== |
 | ^^              | [Madokami](https://manga.madokami.al) :acc: [:help:](/guides/manga/madokami) |
-| ^^              | [Anna's Archive](https://annas-archive.gl/) [:prx:](https://rentry.org/wotaslap) ==AnnasArchive== <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" /> |
+| ^^              | [Anna's Archive](https://annas-archive.gl/) [:prx:](https://rentry.org/wotaslap) [:js:](https://greasyfork.org/en/scripts/494262-show-external-downloads) ==AnnasArchive== |
 | ^^              | [Library Genesis+](https://libgen.li/) [:prx:](https://rentry.org/wotaslap) |
 | ^^              | [Z-Library](https://z-lib.sk/) [:prx:](https://rentry.org/wotaslap) |
 
@@ -375,9 +375,10 @@ These sites contain a mix of both actual and AI-generated novels.
 - [XOXO Comics](https://xoxocomic.com/) [:alt:](https://comichubfree.com/)
 
 ## Direct Download
-- [Anna’s Archive](https://annas-archive.gl/) [:prx:](https://rentry.org/wotaslap) <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
+- [Anna's Archive](https://annas-archive.gl/) [:prx:](https://rentry.org/wotaslap) [:js:](https://greasyfork.org/en/scripts/494262-show-external-downloads) ==AnnasArchive==
 - [ComicsCodes](https://comics.codes/)
-- [Desuarchive](https://desuarchive.org/) <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
+- [Desuarchive](https://desuarchive.org/) :f:
+- :prev: [Win-O'-Thread](https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/) :f:
 - [GetComics](https://getcomics.org/) :s:
 - [Library Genesis+](https://libgen.li/) [:prx:](https://rentry.org/wotaslap)
 - [Old Comics World](https://oldcomicsworld.blogspot.com/) <Badge type="info" text="Vintage"/>
@@ -517,5 +518,5 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 - [Comics Kingdom](https://comicskingdom.com/)
 - [DC Universe Infinite](https://www.dcuniverseinfinite.com/) <tooltip>Available in the United States, the United Kingdom, Canada, Australia and New Zealand.</tooltip>
 - [GlobalComix](https://globalcomix.com/)
-- [GoComics](https://www.gocomics.com/) <Badge type="tip" text="DePaywall" link="https://github.com/Idiot-01/Gocomics-Depaywall" />
+- [GoComics](https://www.gocomics.com/) [:js:](https://github.com/Idiot-01/Gocomics-Depaywall)
 - [Marvel Unlimited](https://www.marvel.com/unlimited)
