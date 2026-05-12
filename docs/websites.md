@@ -313,7 +313,6 @@ These sites contain a mix of both actual and AI-generated novels.
 | ^^ | [GoPlay](https://goplay.su/) :ckr::ccn: [:alt:](https://goplay.ml/) [:d:](https://discord.gg/yY2P3DQR8S) |
 | ^^ | [Asiaflix](https://asiaflix.net/) :sd: |
 | ^^ | [Anisub](https://anisub.tv/) :sd::cjp: |
-| ^^ | [Kisskh Web](https://www.kisskhweb.com/home/) :sd: |
 | ^^ | [XPrime](https://xprime.su/) [:alt:](https://xprime.stream/) |
 | ^^ | [Cineby](https://www.cineby.sc/) |
 | **Download** | [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap) |
