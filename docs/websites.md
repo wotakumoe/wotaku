@@ -202,9 +202,10 @@ outline: 1
 
 - [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap)
 - [Madokami](https://manga.madokami.al) :s::acc: [:help:](/guides/manga/madokami)
-- [Anna's Archive](https://annas-archive.gl/) [:prx:](https://rentry.org/wotaslap) ==AnnasArchive== <Badge type="tip" text="Script" link="https://greasyfork.org/en/scripts/494262-show-external-downloads" />
-- [Desuarchive](https://desuarchive.org/) :f: <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
+- [Anna's Archive](https://annas-archive.gl/) [:prx:](https://rentry.org/wotaslap) [:js:](https://greasyfork.org/en/scripts/494262-show-external-downloads) ==AnnasArchive==
 - [Library Genesis+](https://libgen.li/) [:prx:](https://rentry.org/wotaslap)
+- [Desuarchive](https://desuarchive.org/) :f: 
+- :prev: [Win-O'-Thread](https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/) :f:
 - [Internet Archive](https://archive.org/)
 - :prev: [The Manga Library](https://archive.org/details/manga_library)
 
