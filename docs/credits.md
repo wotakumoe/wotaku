@@ -34,7 +34,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **A-1 Pictures** | [Kaguya-sama](https://myanimelist.net/anime/37999/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen/episode/4) | Cubari link embed |
 | **あまねこそら (Amane Sora)** | [おてんば兎の大宴会](https://donmai.moe/posts/6008236) | VTuber Link Embed |
 | **ATLUS** | [Futaba Sakura](https://megamitensei.fandom.com/wiki/Futaba_Sakura) | [Music banner](/music#utility-sites) |
-| **Bandai Namco** | [Boa Hancock](https://opbr-en.bn-ent.net/character/detail/0017.html) | [Anime Banner](/qs#anime) |
+| **Bandai Namco** | [Boa Hancock](https://opbr-en.bn-ent.net/character/detail/0017.html) | [Anime Banner](/websites#anime) |
 | **BuiBui** | [Towa meme laugh](https://x.com/k_e_cttp/status/1788708044228223415) | iOS Extension repos link embed |
 | **Capcom** | [Phoenix Wright](https://news.capcomusa.com/lets/browse/phoenix-wright-ace-attorney-trilogy-dev-column-2-the-art-of-the-turnabout) | [Legal banner](/websites#legal) |
 | **ChristieDA** | [Headphone Anime Girl Render](https://www.deviantart.com/christieda/art/Headphone-Anime-Girl-Render-611521170) | [Audio glossary banner](/glossary/audio#audio-file-1) |
@@ -45,17 +45,15 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | Feel. | [Akane Mizuno](https://myanimelist.net/anime/34822/Tsuki_ga_Kirei/episode/4) | Extension Repos default link embed |
 | **frakon98** | [Kaiji - Rolling the dice](https://www.deviantart.com/frakon98/art/Kaiji-Rolling-the-dice-860584411) | Madokami link embed |
 | **藤ちょこ (Fujichoco)** | [Hatsune Miku “Magical Mirai 2020” Osaka](https://magicalmirai.com/2020/osaka/) | [Audio glossary banner](/glossary/audio#japanese-music-genres) |
-| **フカヒレ (Fukahire)** | [Hoshimachi Suisei](https://x.com/fuka_hire/status/1619998921757192195) | [Music banner](/qs#music) |
 | **Huu** | [Rem](https://www.pixiv.net/en/artworks/79939625) | [Music banner](/music#radio) |
 | **あきふゆはるか (Ibushi Roun)** | [Reimu vs Patchouli](https://www.pixiv.net/en/artworks/109967460) | Game link embed |
 | **幾田 (Ikuta)** | [Copy](https://x.com/ikuta41/status/1733423740644684243/) | Scanlation link embed |
 | **J.C.Staff** | [Taiga Aisaka](https://yande.re/post/show/46578) | [Music banner](/music#pc) |
-| **Kazuki Takahashi** | [Yami Yugi](https://www.zerochan.net/7739) | [Manga banner](/qs#manga) |
+| **Kazuki Takahashi** | [Yami Yugi](https://www.zerochan.net/7739) | [Manga banner](/websites#manga) |
 | **konijnsate** | [Moiré vs Non-Moiré Pattern Comparison](https://tips.clip-studio.com/en-us/articles/3489) | [Manga glossary example](/glossary/manga#artist-side) |
 | **Kyoto Animation** | [Mio Akiyama](https://yande.re/post/show/255575) | [Music banner](/music#communities) |
 | ^^ | [Mio Akiyama](https://konachan.net/post/show/49838) | [Music banner](/music#phone) |
 | ^^ | [Tsumugi Kotobuki](https://konachan.com/post/show/169507) | [Audio glossary banner](/glossary/audio#basic-terms) |
-| **Lacie Walker** | [Eto Yoshimura](https://www.zerochan.net/1880948) | [4chan banner](/qs#_4chan) |
 | **megamiceto** | [Brazilian Miku](https://x.com/megamiceto/status/1826372184731955667) | Non-English link embed |
 | **MeLonPanz** | [sharkkkkkk !!!](https://www.pixiv.net/en/artworks/86516526) | [Favicon](/) |
 | **Mogudan** | [Mogudan Illust Works](https://www.fakku.net/hentai/mogudan-illust-works-english) | [NSFW banners](/nsfw) |
@@ -72,7 +70,6 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Toei** | [Kamen Rider Imperial Demons](https://www.deviantart.com/stainrender/art/Kamen-Rider-Imperial-Demons-Render-1025700355) | [Tokusatsu banner](/websites#tokusatsu) |
 | **たくぼん (Tokubon)** | [Suichan wa~??](https://www.pixiv.net/en/artworks/82665330) | Music link embed |
 | **トパドリ (Topadori)** | [Patchouli](https://www.pixiv.net/en/artworks/95111697) | Guide default link embed |
-| **トゥーミ (Twumi)** | [Chibi Nadeshiko Kagamihara](https://www.pixiv.net/en/artworks/67505931) | [Essentials banner](/qs#essentials) |
 | **tyasuzu** | [Ryo Yamada](https://www.pixiv.net/en/artworks/104004187) | [Music banner](/music#stream) |
 | **夏優Sieg (Xiayou Sieg)** | [A Street in Another World](https://www.pixiv.net/en/artworks/121786919) | Glossary default link embed |
 | **柱 (youamo)** | [Antonina](https://42lab-us.sunborngame.com/index) | [Music banner](/music#server) |
@@ -90,17 +87,19 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Dr.Pigeon PhD** | [Smol Ame in winter jacket](https://x.com/PhdPigeon/status/1866313003119030404) | Home art |
 | ^^ | [Smol Ame waving](https://x.com/PhdPigeon/status/1884043982680014972) | Favicon |
 | ^^           | [Smol Ame with Christmas hat](https://x.com/PhdPigeon/status/1869579249688231945)                  | Favicon        |
+| **フカヒレ (Fukahire)** | [Hoshimachi Suisei](https://x.com/fuka_hire/status/1619998921757192195) | [Music banner](/qs#music) |
 | **Gambe**                   | [Nero Claudius](https://www.pixiv.net/en/artworks/78042247)                                        | Fate banner         |
 | **Gobackgu** | [cm](https://x.com/Gobackgu/status/2022541570319511694) | Default link embed |
 | **胡麻乃りお (Gomano Rio)** | [Mash Kyrielight](https://www.pixiv.net/en/artworks/61127636)                                      | Fate banner         |
 | **はいべぎん (greatpengh)** | [Artifical Enemy](https://www.pixiv.net/en/artworks/51789252) | Software link embed |
 | **Himeliofon**              | [Ninomae Ina’nis back](https://x.com/hmlf_/status/1581015485524545536)                             | NSFW banner         |
 | **Holocure**                | [Ninomae Ina’nis idle](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/)        | Favicon             |
+| **how-dee**                 | [Ninomae Ina’nis padoru](https://www.reddit.com/r/Padoru/comments/iu6jvx/ninomae_inanis_hololive/) | Home art & Favicon  |
 | **HoYoLAB**                 | [Tanuki sticker](https://genshin-impact.fandom.com/wiki/Bake-Danuki)                               | Japan banner        |
+| **可 (Ka / 996beshi)** | [15枚](https://www.pixiv.net/en/artworks/116320124) | Default link embed |
 | **Kukie-Nyan** | [FUWAMOCO pointing meme](https://x.com/Kukie_nyan/status/1687668480278228992) | Domain change banner |
 | **Kyoto Animation**         | [Mio Naganohara](https://www.zerochan.net/520314)                                                  | Random banner       |
-| **how-dee**                 | [Ninomae Ina’nis padoru](https://www.reddit.com/r/Padoru/comments/iu6jvx/ninomae_inanis_hololive/) | Home art & Favicon  |
-| **可 (Ka / 996beshi)** | [15枚](https://www.pixiv.net/en/artworks/116320124) | Default link embed |
+| **Lacie Walker** | [Eto Yoshimura](https://www.zerochan.net/1880948) | [4chan banner](/qs#_4chan) |
 | **森倉円 (Morikura En)**    | [Kizuna Ai Profile Art](https://en.namu.wiki/w/%ED%82%A4%EC%A6%88%EB%82%98%20%EC%95%84%EC%9D%B4)   | Vtuber banner       |
 | **Ninomae Ina’nis**         | [Ninomae Ina’nis reading](https://x.com/ninomaeinanis/status/1340047328963510273)                  | Glossary banner     |
 | ^^         | [Ninomae Ina’nis WAHU WAHU](https://x.com/ninomaeinanis/status/1652829909218373632)                | Button              |
@@ -113,6 +112,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Takeshi Obata**           | [Moritaka Mashiro](https://konachan.com/post/show/71470)                                           | Scanlation link embed |
 | **Text682** | [rkgk](https://www.pixiv.net/en/artworks/141606115) | Default link embed |
 | **TROYCA**                  | [Waver Velvet](https://yande.re/post/show/551600)                                                  | Fate banner         |
+| **トゥーミ (Twumi)** | [Chibi Nadeshiko Kagamihara](https://www.pixiv.net/en/artworks/67505931) | [Essentials banner](/qs#essentials) |
 | **티비아래underdatv**       | [Smol Ina's diary](https://x.com/underdatv/status/1790765775349072046)                             | Favicon             |
 | **Walfie**                  | [Ninomae Ina’nis peek](https://x.com/ninomaeinanis/status/1339282161715691521)                     | General banner      |
 | **WayForward**           | [Risky Boots](https://shantae.fandom.com/wiki/Risky_Boots)                                            | PT banner         |

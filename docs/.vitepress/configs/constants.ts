@@ -15,14 +15,6 @@ export const nav: DefaultTheme.NavItem[] = []
 
 export const sidebar: DefaultTheme.Sidebar = [
   {
-    text: '<span class="i-lucide:zap"></span> Quick Start',
-    link: '/qs'
-  },
-  {
-    text: '<span class="i-lucide:message-circle-question"></span> FAQs',
-    link: '/faq'
-  },
-  {
     text: '<span class="i-lucide:earth"></span> Websites',
     link: '/websites'
   },
@@ -166,6 +158,10 @@ export const sidebar: DefaultTheme.Sidebar = [
       { text: 'Software', link: '/japan/software' },
       { text: 'Culture', link: '/japan/culture' }
     ]
+  },
+  {
+    text: '<span class="i-lucide:message-circle-question"></span> FAQs',
+    link: '/faq'
   },
   {
     text: '<span class="i-lucide:messages-square"></span> Communities',

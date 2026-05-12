@@ -311,7 +311,7 @@ This guide is more advanced than the other two and requires some more time to se
 #### Extension Update Problems
 
 - Some ISPs block GitHub Raw/Gist URLs, which can prevent extension updates.
-- **Solution:** Use a [VPN](/qs#vpn) to bypass these restrictions.
+- **Solution:** Use a [VPN](/guides/tech/adblock#vpn) to bypass these restrictions.
 
 #### Extensions Out of Date
 
@@ -324,7 +324,7 @@ This guide is more advanced than the other two and requires some more time to se
 
 #### Deezer Not Available in Your Country
 
-- Use a [VPN](/qs#vpn) to create your Deezer account.
+- Use a [VPN](/guides/tech/adblock#vpn) to create your Deezer account.
 - Afterward, you can use a proxy server for access:
   - Go to :material-symbols-settings-rounded: **Settings** → :material-symbols-stream-rounded: **Extension** → **Deezer** → **Use Proxy** and select a server.
 

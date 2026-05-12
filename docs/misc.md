@@ -360,7 +360,58 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 ![](/banner/others.webp)
 # Others
 
-## Encoding & Fansubbing Guides
+## 4chan
+
+::: warning Only use this if you know what you're getting yourselves into.
+:::
+
+### Boards
+| :f: Boards | Alt | Archive |
+| :--- | :--- | :--- |
+| **/a/** - [Anime & Manga](https://boards.4chan.org/a/) | [URL](https://anychans.github.io/4chan/a/) | [URL](https://desuarchive.org/a/) |
+| **/c/** - [Anime/Cute](https://boards.4chan.org/c/) | [URL](https://anychans.github.io/4chan/c/) | [URL](https://desuarchive.org/c/) |
+| **/cgl/** - [Cosplay & EGL](https://boards.4chan.org/cgl/) | [URL](https://anychans.github.io/4chan/cgl/) | [URL](https://desuarchive.org/cgl/) |
+| **/co/** - [Comics & Cartoons](https://boards.4chan.org/co/) | [URL](https://anychans.github.io/4chan/co/) | [URL](https://desuarchive.org/co/) |
+| **/e/** - [Ecchi](https://boards.4chan.org/e/) | [URL](https://anychans.github.io/4chan/e/) | [URL](https://archive.palanq.win/e/) |
+| **/h/** - [Hentai](https://boards.4chan.org/h/) | [URL](https://anychans.github.io/4chan/h/) | [URL](https://archiveofsins.com/h/) |
+| **/jp/** - [Otaku Culture](https://boards.4chan.org/jp/) | [URL](https://anychans.github.io/4chan/jp/) | [URL](https://warosu.org/jp/) |
+| **/m/** - [Mecha](https://boards.4chan.org/m/) | [URL](https://anychans.github.io/4chan/m/) | [URL](https://desuarchive.org/m/) |
+| **/u/** - [Yuri](https://boards.4chan.org/u/) | [URL](https://anychans.github.io/4chan/u/) | [URL](https://archiveofsins.com/u/) |
+| **/vg/** - [Video Game Generals](https://boards.4chan.org/vg/) | [URL](https://anychans.github.io/4chan/vg/) | [URL](https://arch.b4k.dev/vg/) |
+| **/vp/** - [Pokémon](https://boards.4chan.org/vp/) | [URL](https://anychans.github.io/4chan/vp/) | [URL](https://arch.b4k.dev/vp/) |
+| **/vt/** - [Virtual YouTubers](https://boards.4chan.org/vt/) | [URL](https://anychans.github.io/4chan/vt/) | [URL](https://warosu.org/vt/) |
+| **/w/** - [Anime/Wallpapers](https://boards.4chan.org/w/) | [URL](https://anychans.github.io/4chan/w/) | [URL](https://archive.palanq.win/w/) |
+
+### Archives
+- [4chan archive search](https://4search.neocities.org/)
+- [4plebs](https://archive.4plebs.org/)
+- [arch.b4k](https://arch.b4k.dev/)
+- [Archive of Sins](https://archiveofsins.com/)
+- [Archived.Moe](https://archived.moe/)
+- [Desuarchive](https://desuarchive.org/) :s:
+- [Palanq.win](https://archive.palanq.win/)
+- [The /b/ Archive](https://thebarchive.com/)
+- [Warosu](https://warosu.org/)
+
+<collapsible title="Related Software">
+
+| Category | URL | Platform |
+| :--- | :--- | :--- |
+| Clients | [Anychans](https://anychans.github.io/4chan/) [:src:](https://github.com/catamphetamine/anychan) | :web: |
+| ^^ | [DashchanFork](https://github.com/TrixiEther/DashchanFork) | :and: |
+| ^^ | [Read Chan](https://play.google.com/store/apps/details?id=com.deezus.pchan) :cs: | :and: |
+| ^^ | [TUI-Chan](https://github.com/tuqqu/tui-chan) | :win: |
+| Extension / Script | [4chan X](https://github.com/ccd0/4chan-x) | :cr::js: |
+| ^^ | [Desu X](https://greasyfork.org/en/scripts/483282-desu-x-enhancement-script-for-desuarchive-org) | :js: |
+| ^^ | [Dollchan](https://github.com/SthephanShinkufag/Dollchan-Extension-Tools/) | :ff::js: |
+| 4chan X themeing | [OneeChan](https://github.com/KevinParnell/OneeChan) | :js: |
+| ^^ | [StyleChan](https://github.com/3nly/StyleChan) | :js: |
+| ^^ | [SS21](https://github.com/saxamaphone69/ss21) | :js::mdi-format-paint: |
+| Others | [4stats.io](https://4stats.io/) | :web: |
+
+</collapsible>
+
+## Encoding & Fansubbing
 
 - [JET Encoding Guide](https://jaded-encoding-thaumaturgy.github.io/JET-guide/) :s:
 - [Advanced Encoding Guide](https://silentaperture.gitlab.io/mdbook-guide/introduction.html)
@@ -395,7 +446,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | Scene     | [AnimeGuess](https://www.animeguess.moe/) |
 | Others    | [Rule34dle](https://rule34dle.vercel.app/) |
 
-### Others
+### Miscellaneous
 - [AIDN](https://aidn.jp/contents/)
 - [AniAnimals.moe](https://www.anianimals.moe/)
 - [Anime Bath Scene Wiki](https://animebathscenewiki.com/index.php?title=Main_Page)

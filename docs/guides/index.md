@@ -66,8 +66,8 @@ og:
 
 ## Technical
 <Deck>
-  <Card title="Blocking Ads & Annoyances" href="/guides/tech/adblock">
-    Adblocking Solutions for every device
+  <Card title="Adblocking & Privacy" href="/guides/tech/adblock">
+    Adblocking Solutions for every device & VPN listing
   </Card>
   <Card title="JDL2 Ad-removal" href="/guides/tech/jdl">
     Remove banner & Pop-up ads from JDownloader2

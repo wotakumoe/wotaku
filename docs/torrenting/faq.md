@@ -71,6 +71,6 @@ The distribution (here seeding / uploading) of pirated content is illegal. In pe
 
 <Collapsible title="What VPN should I use? Free or Paid?">
 
-Paid. Check our [VPN section](/qs#vpn).
+Paid. Check our [VPN section](/guides/tech/adblock#vpn).
 
 </Collapsible>
