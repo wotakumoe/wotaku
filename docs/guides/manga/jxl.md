@@ -13,7 +13,7 @@ og:
 - [Mihon](https://mihon.app/) :s: [:src:](https://github.com/mihonapp/mihon)
 - [Yokai](https://mihon.app/forks/Yokai/) [:src:](https://github.com/null2264/yokai) [:n:](https://github.com/null2264/yokai-nightly)
 - [Komikku](https://komikku-app.github.io/) [:src:](https://github.com/komikku-app/komikku)
-- [Komelia](https://github.com/Snd-R/Komelia) <Badge type="info" text="Komga" />
+- [Komelia](https://github.com/Snd-R/Komelia) ||Komga||
 - [Kuro Reader +](https://kurotoshiro.dev/) :fm::cs:
 
 ### iOS

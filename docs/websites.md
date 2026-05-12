@@ -129,7 +129,7 @@ outline: 1
 | ^^ | [AnimeOut](https://www.animeout.xyz/) :ddl::acc: [:alt:](https://animewat.ch/) |
 | ^^ | [Chauthanh](https://chauthanh.info/) :ddl::acc: |
 | ^^ | [hi10anime](https://hi10anime.com/) :ddl::mag::acc::batch: |
-| **Subtitles** | [Closed Caption Browser](https://cc.edatribe.com/#/) <Badge type="info" text="Dubtitles" /> |
+| **Subtitles** | [Closed Caption Browser](https://cc.edatribe.com/#/) ||Dubtitles|| |
 | ^^ | [Open Subtitles](https://opensubtitles.org/) |
 
 ::: tip Batch Downloading from Google Drive
@@ -298,7 +298,7 @@ These sites contain a mix of both actual and AI-generated novels.
 | ^^         | [Power Rangers Official](https://www.youtube.com/@PowerRangersOfficial) |
 | ^^         | [ULTRAMAN Official](https://www.youtube.com/@ULTRAMAN_OFFICIAL) |
 | ^^         | [ULTRAMAN Official EN](https://www.youtube.com/@ultraman_english_official) |
-| **Download** | [Zekozimo](https://zekozimo.blogspot.com/) :s: <Badge type="info" text="General" /> |
+| **Download** | [Zekozimo](https://zekozimo.blogspot.com/) :s: ||General|| |
 | ^^         | [KRDL](https://krdl.moe/) :s: |
 | ^^         | [Nyaa](https://nyaa.si/) :mag: [:prx:](https://rentry.org/nyaap) |
 | ^^         | [Bereke Scrubs](https://berekescrubs.wordpress.com/) |

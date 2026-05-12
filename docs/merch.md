@@ -83,11 +83,11 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 | ^^        | [Figsoku B](https://figsoku-b.net/) :ljp: |
 | ^^        | [Fig-memo R18](https://fig-memo-r18.site/) :ljp::ero: |
 | ^^        | [moeyo](https://moeyo.com/) |
-| Figures   | [Figgy](https://www.figgy.jp/) :ljp: <Badge text="General" /> |
-| ^^        | [Figsoku](https://figsoku.net/) :ljp: <Badge text="General" /> |
+| Figures   | [Figgy](https://www.figgy.jp/) :ljp: ||General|| |
+| ^^        | [Figsoku](https://figsoku.net/) :ljp: ||General|| |
 | ^^        | [Gundam Kits Collection](https://www.gundamkitscollection.com/) |
 | ^^        | [Gunjap](https://www.gunjap.net/) |
-| ^^        | [MOEPOP](https://www.ruru-berryz.com/) [:x:](https://x.com/Ruru_Berryz) <Badge text="General" /> |
+| ^^        | [MOEPOP](https://www.ruru-berryz.com/) [:x:](https://x.com/Ruru_Berryz) ||General|| |
 | **Others** | [Buying Visual Novels](https://old.reddit.com/r/visualnovels/wiki/buy) |
 | ^^        | [Dakindex!](https://dakidex.com/) :ero: |
 | ^^        | [Omiai](https://omiai-dakimakura.com/) :ero: |
@@ -126,18 +126,18 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [AmiAmi](https://www.amiami.com)
 - [animate](https://www.animate-onlineshop.jp/)
 - [CDJapan](https://www.cdjapan.co.jp/)
-- [Crunchyroll](https://store.crunchyroll.com/) <Badge type="green" link="" text="SFW"/>
+- [Crunchyroll](https://store.crunchyroll.com/) ||SFW||
 - [FAKKU](https://www.fakku.net/)
 - [HMV & Books](https://www.hmv.co.jp/)
 - [Mandarake](https://www.mandarake.co.jp/)
 - [Melonbooks](https://www.melonbooks.co.jp/)
 - [Mercari](https://www.mercari.com/)
 - [Play-Asia](https://www.play-asia.com/)
-- [VIZ Shop](https://shop.viz.com/) <Badge type="green" link="" text="SFW"/>
+- [VIZ Shop](https://shop.viz.com/) ||SFW||
 - [YESASIA](https://www.yesasia.com/global/en/home.html)
 ___
 #### Figures / Merch
-- [ABYstyle](https://www.abystyle.com/en/) <Badge type="green" link="" text="SFW"/>
+- [ABYstyle](https://www.abystyle.com/en/) ||SFW||
 - [BigBadToyStore](https://www.bigbadtoystore.com/)
 - [Big in Japan](https://biginjap.com/)
 - [E2046.com](https://www.e2046.com/)
@@ -147,7 +147,7 @@ ___
 - [Hobby Link](https://www.hlj.com/)
 - [Hobby Search](https://www.1999.co.jp/eng/)
 - [Nin-Nin Game](https://www.nin-nin-game.com/en/)
-- [Otaku Mode](https://otakumode.com/) <Badge type="green" link="" text="SFW"/>
+- [Otaku Mode](https://otakumode.com/) ||SFW||
 - [Show.Z Store](https://showzstore.com/)
 ___
 #### Manga

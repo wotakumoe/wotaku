@@ -44,7 +44,7 @@ og:
 | :--- | :--- |
 | Comission | [Art Mug](https://artmug.kr/index.php) :lkr: |
 | ^^ | [Skeb](https://skeb.jp/) :ljp: |
-| ^^ | [Skima](https://skima.jp/) :ljp: <Badge type="tip" text="Global" link="https://wskima.com/" /> |
+| ^^ | [Skima](https://wskima.com/) :cjp: |
 | ^^ | [VGen](https://vgen.co/) |
 | Store | [BOOTH](https://booth.pm/en) :ljp: |
 | ^^ | [Fantia](https://fantia.jp/) :ljp: |
@@ -93,15 +93,15 @@ og:
 
 ## Booru
 - [Danbooru](https://danbooru.donmai.us/) :s:
-- [Donmai](https://donmai.moe/) <Badge type="green" link="" text="SFW"/>
-- [E-ShuuShuu](https://e-shuushuu.net/) <Badge type="green" link="" text="SFW"/>
+- [Donmai](https://donmai.moe/) ||SFW||
+- [E-ShuuShuu](https://e-shuushuu.net/) ||SFW||
 - [Gelbooru](https://gelbooru.com/) :s:
 - [Konachan.com](https://konachan.com/)
-- [Konachan.net](https://konachan.net/) <Badge type="green" link="" text="SFW"/>
-- [Mikubooru](https://booru.funmaker.moe/) [:src:](https://github.com/funmaker/hybooru) <Badge type="green" link="" text="SFW"/>
-- [Safebooru](https://safebooru.org/) <Badge type="green" text="SFW" />
+- [Konachan.net](https://konachan.net/) ||SFW||
+- [Mikubooru](https://booru.funmaker.moe/) [:src:](https://github.com/funmaker/hybooru) ||SFW||
+- [Safebooru](https://safebooru.org/) ||SFW||
 - [yande.re](https://yande.re/)
-- [Zerochan](https://www.zerochan.net/?p=1) <Badge type="green" text="SFW" />
+- [Zerochan](https://www.zerochan.net/?p=1) ||SFW||
 
 ## Front-end / Utility
 
@@ -125,12 +125,12 @@ og:
 | Archive | [ANNEX 'Hotaru'](https://hotaru.hino-tama.com/) |
 | Games | [skowt.cc](https://skowt.cc/) |
 | ^^ | [The Sprite Resources](https://www.spriters-resource.com/) |
-| Wallpaper | [Anihonetwallpaper](https://anihonetwallpaper.com/) <Badge type="green" text="SFW" /> |
+| Wallpaper | [Anihonetwallpaper](https://anihonetwallpaper.com/) ||SFW|| |
 | ^^ | [Anime Pictures](https://anime-pictures.net/) |
 | ^^ | [Frutiger Aero Archive](https://frutigeraeroarchive.org/wallpapers) |
-| ^^ | [Studio Ghibli](https://www.ghibli.jp/info/013772/) <Badge type="green" text="SFW" /> |
+| ^^ | [Studio Ghibli](https://www.ghibli.jp/info/013772/) ||SFW|| |
 | ^^ | [Wallhaven](https://wallhaven.cc/) |
-| ^^ | [:f: /w/](http://catalog.neet.tv/w/) <Badge type="danger" icon="i-mingcute-skull-fill" text="NSFL" /> |
+| ^^ | [:f: /w/](http://catalog.neet.tv/w/) x||nsfl|| |
 
 
 ![](/banner/software.webp)
@@ -149,9 +149,10 @@ og:
 | ^^        | [pixes](https://github.com/wgh136/pixes) |
 | ^^        | [PixShaft](https://github.com/CeuiLiSA/Pixiv-Shaft) |
 | ^^        | [Pixiv](https://play.google.com/store/apps/details?id=jp.pxv.android) :cs: |
-| ^^        | [PixiView](https://github.com/matsumo0922/PixiView-KMP) <Badge type="info" text="Fanbox" /> |
+| ^^        | [PixiView](https://github.com/matsumo0922/PixiView-KMP) ||Fanbox|| |
 | **Others** | [Wallflow](https://github.com/ammargitham/WallFlow) |
-| ^^        | [Piko/twitter](https://github.com/crimera/piko) <Badge type="info" text="APK" link="https://github.com/crimera/twitter-apk"/>
+| ^^        | [Piko/twitter](https://github.com/crimera/piko) |
+| ^^        | :prev: [Piko apk builds](https://github.com/crimera/twitter-apk) |
 | ^^        | [RWalls](https://github.com/meh430/RWalls) |
 | ^^        | [Pixiv for Muzei 3](https://github.com/yellowbluesky/PixivforMuzei3) |
 
@@ -173,7 +174,8 @@ og:
 | ^^         | [Pixiv Powerful Viewer](https://github.com/fekoneko/pixiv-powerful-viewer) | :win: |
 | **Downloaders** | [Cultured Downloader](https://github.com/KJHJason/Cultured-Downloader) | :win::app::lin: |
 | ^^         | [gallery-dl](https://codeberg.org/mikf/gallery-dl) :s: | :win::lin: |
-| ^^         | [Hydrus network](https://hydrusnetwork.github.io/hydrus/) [:src:](https://github.com/hydrusnetwork/hydrus) <Badge type="info" text="Scripts" link="https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts"/> | :win::app::lin: |
+| ^^         | [Hydrus network](https://hydrusnetwork.github.io/hydrus/) [:src:](https://github.com/hydrusnetwork/hydrus) | :win::app::lin: |
+| ^^         | :prev: [Hydrus Presets & Scripts](https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts) | :win::app::lin: |
 | ^^         | [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) [:src:](https://github.com/Bionus/imgbrd-grabber) | :win::app::lin: |
 | ^^         | [Media Downloader](https://github.com/mhogomchungu/media-downloader) | :win::app::lin: |
 | ^^         | [Pixiv FANBOX Downloader](https://github.com/hareku/fanbox-dl) | :win::app: |

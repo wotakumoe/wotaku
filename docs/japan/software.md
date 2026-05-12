@@ -62,19 +62,19 @@ og:
 | **Kanji** | [Hanzi Web](https://ankiweb.net/shared/info/125468335?cb=1740905928130) [:src:](https://github.com/elizagamedev/anki-hanziweb) |
 | ^^ | [KanjiDamage](https://ankiweb.net/shared/info/748570187) |
 | ^^ | [Kanji de Go](https://github.com/MarvNC/kanjidego-yomitan-anki) |
-| ^^ | [Kanken Deck](https://ankiweb.net/shared/info/759825185) [:alt:](https://ankiweb.net/shared/info/1113953752) <Badge type="info" text="Advanced" /> |
+| ^^ | [Kanken Deck](https://ankiweb.net/shared/info/759825185) [:alt:](https://ankiweb.net/shared/info/1113953752) ||Advanced|| |
 | ^^ | [Kodansha kanji learner's course with vocabulary](https://ankiweb.net/shared/info/779483253) |
-| ^^ | [RRTK450 Anki deck](https://rentry.org/wotadirect#japansoftware) <Badge type="info" text="Beginner" /> |
+| ^^ | [RRTK450 Anki deck](https://rentry.org/wotadirect#japansoftware) ||Beginner|| |
 | ^^ | [Usagi Chan Kanji Phonetics Deck](https://drive.google.com/file/d/1xyynMQiOuqlC_cBBTwG9t3snRubHqU7e/view) |
 | ^^ | [WaniKani Complete Lv 1-60](https://ankiweb.net/shared/info/2072613354) <Badge type="tip" text="Script" link="https://gist.github.com/Destroxia54/6925a3e1cb75afc7a3dd14d1ba2ff611" /> |
 | ^^ | [Wanikani Ultimate 3](https://rentry.org/wotadirect#japansoftware) [:d:](https://discord.gg/cSEXEB5DgF) |
-| **Vocab** | [Kaishi](https://github.com/donkuri/Kaishi) :s: <Badge type="info" text="Beginner" /> |
+| **Vocab** | [Kaishi](https://github.com/donkuri/Kaishi) :s: ||Beginner|| |
 | ^^ | [Anime decks (Official AnkiWeb)](https://ankiweb.net/shared/decks?search=anime) |
 | ^^ | [Anime decks (Sub2Srs)](https://rentry.org/wotadirect#japansoftware) |
 | ^^ | [Core 2k/6k Optimized Japanese Vocabulary Anki](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) |
 | ^^ | [Japanese course based on Tae Kim's grammar guide & anime](https://ankiweb.net/shared/info/911122782) |
 | ^^ | [Japanese Proper Nouns Deck](https://github.com/friedrich-de/Japanese-Proper-Nouns-Deck) |
-| ^^ | [Tango N5 omega deck](https://rentry.org/wotadirect#japansoftware) <Badge type="info" text="Beginner" /> |
+| ^^ | [Tango N5 omega deck](https://rentry.org/wotadirect#japansoftware) ||Beginner|| |
 
 ## Phone
 

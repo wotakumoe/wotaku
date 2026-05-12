@@ -86,7 +86,7 @@ og:
 - [Tokyojin](https://tokyojin.info/)
 - [Souda Kyoto](https://souda-kyoto.jp/index.html)
 - [Kyoto Travel](https://kyototravel.info/)
-- [Hokkaido Guide](https://hokkaidoguide.com/) <Badge type="info" text="English" />
+- [Hokkaido Guide](https://hokkaidoguide.com/) ||English||
 
 
 

@@ -98,7 +98,6 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 - [Comic Vine](https://comicvine.gamespot.com/)
 - [Kazamkase Comic Database](https://kazemakase.wjg.jp/comics/) :ljp:
 - [Shounen Manga Encyclopedia](https://allcomic.noor.jp/)
-- [Touhou Doujinshi Index](https://scarlet.nsk.sh/) [:src:](https://github.com/nanoskript/touhou-doujinshi-index) <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" />
 
 </Collapsible>
 
@@ -191,11 +190,11 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [English Dubbed Anime Lovers](https://english-dubbed.com/) | 
 | ^^ | [Kenny Stryker’s English dublist](https://myanimelist.net/forum/?topicid=1692966) |
 | **Japanese** | [Anime Hack](https://anime.eiga.com/) ==AnimeHack== |
-| ^^ | [Bangumi List](https://bgmlist.com/) :lcn: [:src:](https://github.com/wxt2005/bangumi-list-v3) <Badge type="info" text="OTT" /> |  
-| ^^ | [CoolJapan](https://cooljapanportal.com/) <Badge type="info" text="OTT" /> |
-| ^^ | [Kansou](https://www.kansou.me/) <Badge type="info" text="General" /> |
-| ^^ | [Moon Phase](https://m-p.sakura.ne.jp/) <Badge type="info" text="TV" /> |  
-| ^^ | [Syoboi Calendar](https://cal.syoboi.jp/) [:rss:](https://docs.cal.syoboi.jp/spec/rss.php/) <Badge type="info" text="General" /> |  
+| ^^ | [Bangumi List](https://bgmlist.com/) :lcn: [:src:](https://github.com/wxt2005/bangumi-list-v3) ||OTT|| |  
+| ^^ | [CoolJapan](https://cooljapanportal.com/) ||OTT|| |
+| ^^ | [Kansou](https://www.kansou.me/) ||General|| |
+| ^^ | [Moon Phase](https://m-p.sakura.ne.jp/) ||TV|| |  
+| ^^ | [Syoboi Calendar](https://cal.syoboi.jp/) [:rss:](https://docs.cal.syoboi.jp/spec/rss.php/) ||General|| |  
 | **Others** | [Blu-ray.com](https://www.blu-ray.com/movies/movies.php?genre=Anime&sortby=releasetimestamp) |
 | ^^ | [TVmaze](https://www.tvmaze.com/) |
 | ^^ | [Yatta-Tachi Movie Schedule](https://yattatachi.com/2026-anime-japanese-films-coming-to-u-s-theaters-online) |
@@ -221,7 +220,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 - [Dark Horse](https://www.darkhorse.com/books/upcoming/)
 - [J-Novel Club](https://j-novel.club/calendar)
 - [Kodansha](https://kodansha.us/calendar/)
-- [Omoi](https://www.omoi.com/release-calendar) <Badge type="info" text="CaaS" />
+- [Omoi](https://www.omoi.com/release-calendar) ||CaaS||
 - [Renta!](https://www.ebookrenta.com/renta/sc/frm/upcoming/)
 - [Seven Seas](https://sevenseasentertainment.com/release-dates/)
 - [SuBLime](https://www.sublimemanga.com/calendar) :ero:
@@ -249,8 +248,8 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [ORICON NEWS](https://www.oricon.co.jp/) :ljp: |  
 | ^^ | [Japan Anime News](https://us.oricon-group.com/) [:x:](https://x.com/JapanAnimeNews_) |  
 | ^^ | [Otaku News](https://www.otakunews.com/) :cuk: [:rss:](https://www.otakunews.com/Rss) |  
-| **Blog / Interview** | [Anime Blog Tracker](https://aniblogtracker.app/index.php) :s: <Badge text="Aggregator" /> [:src:](https://github.com/AniBlogTracker) |  
-| ^^ | [Anime Nano](https://www.animenano.com/) <Badge text="Aggregator" /> |  
+| **Blog / Interview** | [Anime Blog Tracker](https://aniblogtracker.app/index.php) :s: ||Aggregator|| [:src:](https://github.com/AniBlogTracker) |  
+| ^^ | [Anime Nano](https://www.animenano.com/) ||Aggregator|| |  
 | ^^ | [Halcyon Realms](https://halcyonrealms.com/) :s: [:rss:](https://halcyonrealms.com/subscribe/) |  
 | ^^ | [Zimmerit](https://www.zimmerit.moe/) |  
 

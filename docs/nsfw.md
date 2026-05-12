@@ -27,9 +27,9 @@ og:
 - [Hentai Mama](https://hentaimama.io/)
 - [Hentai Ocean](https://hentaiocean.com/)
 - [Hentaverse](https://hentaverse.com/)
-- [HStream](https://hstream.moe/) <Badge type="info" text="Upscale" />
-- [Mucho Hentai](https://muchohentai.com/home) <Badge type="info" text="PV & Schedule" />
-- [Oppai Stream](https://oppai.stream/) <Badge type="info" text="Upscale" />
+- [HStream](https://hstream.moe/) ||Upscale||
+- [Mucho Hentai](https://muchohentai.com/home) ||PV & Schedule||
+- [Oppai Stream](https://oppai.stream/) ||Upscale||
 
 
 <Collapsible title="More">

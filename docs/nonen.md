@@ -76,7 +76,7 @@ Most apps in [**software**](/software) supports multilingual sources
 #### Android
 | Category | Resources |
 |-|-|
-| **Anime** | [Spacetoon](https://play.google.com/store/apps/details?id=com.spacetoon.vod) <Badge type="info" text="Legal" /> |
+| **Anime** | [Spacetoon](https://play.google.com/store/apps/details?id=com.spacetoon.vod) ||Legal|| |
 
 
 ## Balkan
@@ -170,7 +170,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^       | [DMZJ](https://github.com/xiaoyaocz/flutter_dmzj) |
 | ^^       | [Kazumi](https://github.com/Predidit/Kazumi) |
 | ^^       | [Mediabox](https://github.com/RyensX/MediaBox) |
-| ^^       | [Miru App](https://miru.js.org/) <Badge type="info" text="Manga" /> |
+| ^^       | [Miru App](https://miru.js.org/) ||Manga|| |
 | ^^       | [Neko Anime](https://github.com/xioneko/neko-anime) |
 | ^^       | [oneAnime](https://github.com/Predidit/oneAnime) |
 | **Manga** | [PasteMangaX](https://github.com/crowforkotlin/pastemangax) |
@@ -191,14 +191,14 @@ Most apps in [**software**](/software) supports multilingual sources
 
 | Category | Resources |
 |----------|-----------|
-| **Anime** | [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) <Badge type="info" text="Downloader" /> |
+| **Anime** | [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ||Downloader|| |
 | ^^       | [Miru App](https://miru.js.org/) [:src:](https://github.com/miru-project/miru-app) |
 | ^^       | [Bangumi Renamer](https://github.com/nuthx/bangumi-renamer) |
 | **Manga** | [Miru App](https://miru.js.org/) [:src:](https://github.com/miru-project/miru-app) |
 | ^^       | [Venra](https://github.com/venera-app/venera) |
-| ^^       | [Bilibili manga downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) <Badge type="info" text="Downloader" /> |
+| ^^       | [Bilibili manga downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) ||Downloader|| |
 | ^^       | [Bilibili manga watermark remover](https://github.com/lanyeeee/bilibili-manga-watermark-remover) |
-| **Others** | [JProxy](https://github.com/LuckyPuppy514/jproxy) <Badge type="info" text="Downloader" /> |
+| **Others** | [JProxy](https://github.com/LuckyPuppy514/jproxy) ||Downloader|| |
 | ^^        | [Novel downloader](https://github.com/404-novel-project/novel-downloader) |
 | ^^        | [PicACG Qt](https://github.com/tonquer/picacg-qt) :win::app::lin: |
 
@@ -530,8 +530,8 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | :--- | :--- |
 | Anime | [AniBunker](https://www.anibunker.com/) |
 | ^^ | [AnimeFire](https://animefire.plus/) |
-| ^^ | [CXTv](https://www.cxtv.com.br/) <Badge type="info" text="TV" /> |
-| ^^ | [Geekdot](https://geekdot.live/) <Badge type="info" text="TV" /> |
+| ^^ | [CXTv](https://www.cxtv.com.br/) ||TV|| |
+| ^^ | [Geekdot](https://geekdot.live/) ||TV|| |
 | ^^ | [Goyabu](https://goyabu.io/inicio-2) |
 | ^^ | [Hinata Soul](https://www.hinatasoul.com/) |
 | ^^ | [HentaisTube](https://www.hentaistube.com/) :ero: |
@@ -562,20 +562,20 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | :--- | :--- |
 | **Anime** | [AniDUB](https://anidub.pro/) |
 | ^^ | [AniFilm](https://anifilm.pro/) |
-| ^^ | [AniFox](https://anifox.club/anime) <Badge type="info" text="Aggregator" /> |
-| ^^ | [AniLiberty](https://anilibria.top/) <Badge type="info" text="Sub" /> |
+| ^^ | [AniFox](https://anifox.club/anime) ||Aggregator|| |
+| ^^ | [AniLiberty](https://anilibria.top/) ||Sub|| |
 | ^^ | [AniMan](https://animan.ru/) |
-| ^^ | [AnimeBuff](https://animebuff.ru/) <Badge type="info" text="Sub" /> |
+| ^^ | [AnimeBuff](https://animebuff.ru/) ||Sub|| |
 | ^^ | [AnimeJoy](https://animejoy.ru/) |
 | ^^ | [Animelayer](http://animelayer.ru/) :mag: |
 | ^^ | [AnimeLIB](https://animelib.org/ru) [:alt:](https://anilib.me/ru) |
-| ^^ | [AnimeStars](https://animestars.org/) <Badge type="info" text="Aggregator" /> |
+| ^^ | [AnimeStars](https://animestars.org/) ||Aggregator|| |
 | ^^ | [Animevost](https://animevost.org/) |
 | ^^ | [Anisun](https://anisun.vercel.app/en) [:src:](https://github.com/notwindstone/anisun) |
 | ^^ | [Kage Project](http://fansubs.ru/) <tooltip>Subtitle files only, you need to get the episodes from another source.</tooltip> |
-| ^^ | [MAL to Kodik](https://mal-to-kodik.github.io/) <Badge type="info" text="Aggregator" /> |
+| ^^ | [MAL to Kodik](https://mal-to-kodik.github.io/) ||Aggregator|| |
 | ^^ | [One Pace](https://onepace-ru.tilda.ws/) |
-| ^^ | [Tunime](https://an0ncer.github.io/) [:src:](https://github.com/AN0NCER/an0ncer.github.io) <Badge type="info" text="Sub" /> |
+| ^^ | [Tunime](https://an0ncer.github.io/) [:src:](https://github.com/AN0NCER/an0ncer.github.io) ||Sub|| |
 | ^^ | [YummyAnime](https://site.yummyani.me/) |
 | **Manga** | [Com-X](https://ru.com-x.life/) |
 | ^^ | [Desu.Me](https://desu.uno/) |
@@ -626,7 +626,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | Stream | [AnimeAV1](https://animeav1.com/) |
 | ^^ | [MonosChinos](https://monoschinos2.com/) |
 | ^^ | [AnimeOnlineNinja](https://ver.animeonline.ninja/) |
-| ^^ | [Latanime](https://latanime.org/) <Badge type="info" text="Dub" /> |
+| ^^ | [Latanime](https://latanime.org/) ||Dub|| |
 | ^^ | [Estrenos Anime](https://estrenosanime.net/home) |
 | ^^ | [JKAnime](https://jkanime.net/) |
 | ^^ | [TioAnime](https://tioanime.com/) |

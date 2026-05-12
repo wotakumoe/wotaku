@@ -328,7 +328,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | **Events**  | [JaME](https://www.jame-world.com/en/event) :s: |
 | ^^          | [Tokyo Dross](https://tokyodross.blogspot.com/) :s: |
 | ^^          | [Doujin Events](https://docs.google.com/document/d/1Kf4gf2Dtnc_Cd2ndRWacw9QGy8kYvUTZ7K9rkR8D2-0/edit) |
-| ^^          | [Songkick](https://www.songkick.com/) <Badge type="info" text="General" /> |
+| ^^          | [Songkick](https://www.songkick.com/) ||General|| |
 
 
 ![](/music/mph.webp)
@@ -360,10 +360,10 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^         | [SimpMusic](https://github.com/maxrave-dev/SimpMusic) :and: |
 | **Spotify** | [EeveeSpotify](https://github.com/Meeep1/EeveeSpotifyRevivedPublic) :ios: |
 | ^^         | [xManager](https://www.xmanagerapp.com/) :and::cs: |
-| **Others**  | [OpenSpot](https://github.com/BlackHatDevX/openspot-music-app) :and: <Badge type="info" text="Qobuz" /> |
-| ^^         | [ReFreezer](https://github.com/DJDoubleD/refreezer) :and: <Badge type="info" text="Deezer" /> |
+| **Others**  | [OpenSpot](https://github.com/BlackHatDevX/openspot-music-app) :and: ||Qobuz|| |
+| ^^         | [ReFreezer](https://github.com/DJDoubleD/refreezer) :and: ||Deezer|| |
 | ^^         | [RootlessJamesDSP](https://github.com/timschneeb/RootlessJamesDSP) |
-| ^^         | [Transistor](https://codeberg.org/y20k/transistor) :and: <Badge type="info" text="Radio" /> |
+| ^^         | [Transistor](https://codeberg.org/y20k/transistor) :and: ||Radio|| |
 
 
 ### Audiobook
@@ -391,8 +391,8 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^           | [SongSync](https://github.com/Lambada10/SongSync) |
 | **Scrobbler** | [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) :mdi-lastfm::and: |
 | ^^           | [Marvis Pro](https://apps.apple.com/app/marvis-pro/id1447768809) :mdi-lastfm::ios::cs: |
-| **Others**   | [MusicSearch](https://github.com/lydavid/MusicSearch) :and: <Badge type="info" text="MusicBrainz" /> |
-| ^^           | [Seeker](https://github.com/jackBonadies/SeekerAndroid) :and: <Badge type="info" text="Soulseek" /> |
+| **Others**   | [MusicSearch](https://github.com/lydavid/MusicSearch) :and: ||MusicBrainz|| |
+| ^^           | [Seeker](https://github.com/jackBonadies/SeekerAndroid) :and: ||Soulseek|| |
 | ^^           | [SpotiFLAC Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) :and::ios: |
 | ^^           | [Stats.fm](https://stats.fm/) :mdi-spotify::and::ios::cs: |
 
@@ -478,7 +478,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | General | [FFmpeg](https://ffmpeg.org/) | :win::app::lin: |
 | ^^ | [SoX](https://sourceforge.net/projects/sox/) | :win::app: |
 | Converter | [CUETools](http://cue.tools/wiki/CUETools) [:src:](https://github.com/gchudov/cuetools.net) | :win: |
-| ^^ | [dBpoweramp](https://www.dbpoweramp.com/) :cs: <Badge type="warning" text="Trialware" /> | :win::app: |
+| ^^ | [dBpoweramp](https://www.dbpoweramp.com/) :cs: ||Trialware|| | :win::app: |
 | ^^ | [fre:ac](https://www.freac.org/) [:src:](https://github.com/enzo1982/freac) | :win::app::lin: |
 | Ripper | [Cyanrip](https://github.com/cyanreg/cyanrip) | :win::lin::bsd: |
 | ^^ | [Exact Audio Copy](https://exactaudiocopy.de/) | :win: |
@@ -580,9 +580,9 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^ | [Jellycli](https://github.com/tryffel/jellycli) :win::lin::cmd: |
 | ^^ | [STMP](https://github.com/wildeyedskies/stmp) :win::app::lin::cmd: |
 | ^^ | [Aonsoku](https://github.com/victoralvesf/aonsoku) :win::app::lin: |
-| **Others** | [SonicLair](https://github.com/thelinkin3000/SonicLair) <Badge type="info" text="Android TV" /> |
-| ^^ | [bonob](https://github.com/simojenki/bonob) <Badge type="info" text="Sonos" /> |
-| ^^ | [AskSonic](https://github.com/srichter/asksonic) <Badge type="info" text="Alexa" /> |
+| **Others** | [SonicLair](https://github.com/thelinkin3000/SonicLair) ||Android TV|| |
+| ^^ | [bonob](https://github.com/simojenki/bonob) ||Sonos|| |
+| ^^ | [AskSonic](https://github.com/srichter/asksonic) ||Alexa|| |
 | ^^ | [Subsonic Kodi Plugin](https://github.com/warwickh/plugin.audio.subsonic) |
 | ^^ | [Navidrome Kodi Plugin](https://github.com/BobHasNoSoul/plugin.audio.navidrome) |
 | ^^ | [HTTPDirFS](https://github.com/fangfufu/httpdirfs) |

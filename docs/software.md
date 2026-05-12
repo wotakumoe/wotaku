@@ -96,7 +96,7 @@ og:
 - [Nekotatsu](https://github.com/PhantomShift/nekotatsu) <Badge type="info" text="Phone GUI" link="https://github.com/PhantomShift/nekotatsu-mobile/" />
 - [SauceNAO](https://github.com/LuK1337/SauceNAO)
 - [Trace.moe](https://github.com/localhostov/trace.moe-app)
-- [Tachisync](https://github.com/axiel7/Tachisync) <Badge type="info" text="Needs PC" />
+- [Tachisync](https://github.com/axiel7/Tachisync) ||Needs PC||
 
 ![](/banner/ereader.webp)
 
@@ -294,7 +294,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | **Novels** | [WebtoEpub](https://github.com/dteviot/WebToEpub) | :ff::cr: |
 | ^^ | [Epublifier](https://github.com/maoserr/epublifier) | :ff::cr: |
 | ^^ | [Lightnovel Crawler](https://github.com/dipu-bd/lightnovel-crawler) | :win::app::lin::dock: |
-| **DRM** | [KeyDive](https://github.com/hyugogirubato/KeyDive/) <Badge type="info" text="L3" /> | :py: |
+| **DRM** | [KeyDive](https://github.com/hyugogirubato/KeyDive/) ||L3|| | :py: |
 | ^^ | [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) | :win::lin: |
 | ^^ | :prev: [PlayreadyProxy2](https://github.com/DevLARLEY/PlayreadyProxy2) | :cr::ff: |
 | ^^ | :prev: [WidevineProxy2](https://github.com/DevLARLEY/WidevineProxy2) | :cr::ff: |

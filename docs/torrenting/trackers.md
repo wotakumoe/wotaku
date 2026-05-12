@@ -72,8 +72,8 @@ og:
 
 ### German
 
-- [AnimeWorld](https://animeworld.cx/) <Badge type="info" text="Private" />
-- [RocketHD](https://rocket-hd.cc/) <Badge type="info" text="Private" />
+- [AnimeWorld](https://animeworld.cx/) ||Private||
+- [RocketHD](https://rocket-hd.cc/) ||Private||
 
 ### Greek
 

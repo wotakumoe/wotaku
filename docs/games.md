@@ -72,7 +72,7 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 ## osu!
 
 ### Websites
-- [osu!](https://osu.ppy.sh/) [:src:](https://github.com/ppy/osu) <Badge type="info" text="Official" />
+- [osu!](https://osu.ppy.sh/) [:src:](https://github.com/ppy/osu) ||Official||
 - [Anisync](https://anisync.live/)
 - [BeatConnect](https://beatconnect.io/)
 - [osu.direct](https://osu.direct/home)
@@ -95,14 +95,14 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 
 ### Wiki / Websites
 
-- [Pokémon](https://www.pokemon.com/us) <Badge type="info" text="Official" /> <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://www.pokemon.com/us/pokedex" />
+- [Pokémon](https://www.pokemon.com/us) ||Official|| <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://www.pokemon.com/us/pokedex" />
 - [Bulbagarden](https://bulbagarden.net/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_National_Pok%C3%A9dex_number" />
 - [Serebii.net](https://www.serebii.net/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://www.serebii.net/pokemon/" />
 - [Pokémon Database](https://pokemondb.net/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://pokemondb.net/pokedex" />
 - [The Cave of Dragonflies](https://www.dragonflycave.com/)
 - [Smogon University](https://www.smogon.com/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://www.smogon.com/dex/" />
 - [Pokéos](https://www.pokeos.com/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://www.pokeos.com/pokedex/" />
-- [PokéJungle](https://pokejungle.net/) <Badge type="info" text="News" />
+- [PokéJungle](https://pokejungle.net/) ||News||
 - [PokéPalette](https://pokemonpalette.com/)
 
 ### Fan Games
@@ -128,7 +128,7 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 ## Sonic
 
 ### Wiki / Websites
-- [Sonic the Hedgehog](http://www.sonicthehedgehog.com/) <Badge type="info" text="Official" />
+- [Sonic the Hedgehog](http://www.sonicthehedgehog.com/) ||Official||
 - [Sonic City](https://sonic-city.net/)
 - [Sonic Retro](https://info.sonicretro.org/)
 - [Sonic Stadium](https://www.sonicstadium.org/)
@@ -184,10 +184,11 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 | Section | Websites |
 |-|-|
 | Info / Wiki | [THB Wiki](https://thwiki.cc/) :lcn: |
-| ^^          | [Touhou Doujinshi Index](https://scarlet.nsk.sh/) [:src:](https://github.com/nanoskript/touhou-doujinshi-index) <Badge type="tip" text="Terms" link="https://nanoskript.dev/touhou/" /> |
+| ^^          | [Touhou Doujinshi Index](https://scarlet.nsk.sh/) [:src:](https://github.com/nanoskript/touhou-doujinshi-index) |
 | ^^          | [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki) |
+| ^^          | :prev: [Touhou Dictionary](https://nsk.sh/touhou/dict/) |
 | ^^          | [Touhou Spotify Music](https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit#gid=0) |
-| Music       | [Gensokyo Radio](https://gensokyoradio.net/playing/) <Badge type="tip" icon="i-material-symbols-download-2" text="256kbps" link="https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u" /> |
+| Music       | [Gensokyo Radio](https://gensokyoradio.net/playing/) ||256kbps|| |
 | ^^          | [Touhou Disc](https://alist.thdisc.tk) |
 | ^^          | [Touhou Lossess Music Collection](https://tlmc.pf-n.co/tlmc) |
 | ^^          | [Touhou Player](https://touhou.kuukunen.net/) |
@@ -199,8 +200,8 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 ## Yu-Gi-Oh!
 
 ### Database / News
-- [Yu-Gi-Oh!](https://www.yugioh-card.com/) <Badge type="info" text="Official" />
-- [Card Database](https://www.db.yugioh-card.com/yugiohdb/) <Badge type="info" text="Official" />
+- [Yu-Gi-Oh!](https://www.yugioh-card.com/) ||Official||
+- [Card Database](https://www.db.yugioh-card.com/yugiohdb/) ||Official||
 - [YGOrganization](https://ygorganization.com/)
 - [YGOPRODeck](https://ygoprodeck.com/)
 - [Yugipedia](https://yugipedia.com/wiki/Yugipedia)
@@ -213,13 +214,13 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 #### Official
 - [Yu-Gi-Oh! Master Duel](https://www.konami.com/yugioh/masterduel/us/en/)
 - [Yu-Gi-Oh! Duel Links](https://www.konami.com/yugioh/duel_links/en/)
-- [Yu-Gi-Oh! Neuron](https://www.konami.com/yugioh/neuron/en/) <Badge type="info" text="Companion" />
+- [Yu-Gi-Oh! Neuron](https://www.konami.com/yugioh/neuron/en/) ||Companion||
 ___
 #### Unofficial
-- [Dueling Book](https://www.duelingbook.com/) <Badge type="info" text="Manual" />
-- [Dungeon Duel Monsters](https://mikaygo.itch.io/ddm) <Badge type="info" text="Manual" />
-- [EDO Pro](https://projectignis.github.io/index.html) <Badge type="info" text="Automatic" />
-- [YGO Omega](https://omega.duelistsunite.org/) <Badge type="info" text="Automatic" />
+- [Dueling Book](https://www.duelingbook.com/) ||Manual||
+- [Dungeon Duel Monsters](https://mikaygo.itch.io/ddm) ||Manual||
+- [EDO Pro](https://projectignis.github.io/index.html) ||Automatic||
+- [YGO Omega](https://omega.duelistsunite.org/) ||Automatic||
 ___
 #### Alternative/Historic Formats
 - [Goat Format](https://www.goatformat.com/)

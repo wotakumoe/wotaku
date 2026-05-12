@@ -246,8 +246,8 @@ og:
 
 | Category            | Software |
 |---------------------|----------|
-| **Media Automation** | [Radarr](https://radarr.video/) <Badge text="Movies" /> |
-| ^^                 | [Sonarr](https://sonarr.tv/) <Badge text="TV Series" /> |
+| **Media Automation** | [Radarr](https://radarr.video/) ||Movies|| |
+| ^^                 | [Sonarr](https://sonarr.tv/) ||TV Series|| |
 | **Tools**          | [Overseerr](https://overseerr.dev/) |
 | ^^                 | [Prowlarr](https://prowlarr.com/) |
 | ^^                 | [Jackett](https://github.com/Jackett/Jackett) |
