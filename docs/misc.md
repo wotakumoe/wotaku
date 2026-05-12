@@ -362,7 +362,8 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 
 ## 4chan
 
-::: warning Only use this if you know what you're getting yourselves into. Recommended boards are listed [**here**](/comms#boards).
+::: warning README
+Only use this if you know what you're getting yourselves into. Recommended boards are listed [**here**](/comms#boards).
 :::
 
 - [4chan archive search](https://4search.neocities.org/)
