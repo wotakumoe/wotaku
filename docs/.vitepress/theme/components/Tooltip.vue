@@ -13,12 +13,9 @@ const isOpen = ref(false)
 withDefaults(
   defineProps<{
     title: string
-    icon: string
   }>(),
   {
     title: 'Info',
-    // https://icon-sets.iconify.design/material-symbols/
-    icon: 'i-material-symbols-help'
   }
 )
 </script>
@@ -27,12 +24,9 @@ withDefaults(
   <VTooltip theme="vp-tooltip" @show="isOpen = true" @hide="isOpen = false">
     <button
       aria-label="Tooltip"
-      :class="[
-        'text-$vp-custom-block-tip-text-deep size-3 p-0 select-none font-bold cursor-pointer',
-        isOpen && 'tooltip-open-glow'
-      ]"
+      class="size-3 p-0 select-none font-bold cursor-pointer" style="color: #a8f0cc"
     >
-      <div :class="icon" />
+      <div :class="isOpen ? 'i-ic-twotone-add-circle' : 'i-ic-twotone-add-circle-outline'" />
     </button>
 
     <template #popper>
@@ -90,8 +84,4 @@ withDefaults(
   border-bottom: 1px solid var(--vp-c-divider);
 }
 
-.tooltip-open-glow {
-  filter: drop-shadow(0 0 6px currentColor) drop-shadow(0 0 12px currentColor);
-  transition: filter 0.2s ease;
-}
 </style>
