@@ -252,10 +252,12 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [:d: Tsumino](https://discord.gg/v6RfNfA7WW)
 
 ### Boards
-- [:f: /e/ - Ecchi](https://boards.4chan.org/e/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/e/" /> <Badge type="tip" text="Archive" link="https://archive.palanq.win/e/" />
-- [:f: /h/ - Hentai](https://boards.4chan.org/h/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/h/" /> <Badge type="tip" text="Archive" link="https://archiveofsins.com/h/" />
-- [:f: /u/ - Yuri](https://boards.4chan.org/u/) <Badge type="tip" text="Alt" link="https://anychans.github.io/4chan/u/" /> <Badge type="tip" text="Archive" link="https://archiveofsins.com/u/" />
-- [:f:JAV Threads](https://warosu.org/jp/?task=search&ghost=false&search_text=jav+thread) <Badge type="tip" text="FAQ" link="https://jav.now.sh/" />
+| :f: Board | Alt | Archive |
+| :--- | :--- | :--- |
+| **/e/** - [Ecchi](https://boards.4chan.org/e/) | [URL](https://anychans.github.io/4chan/e/) | [URL](https://archive.palanq.win/e/) |
+| **/h/** - [Hentai](https://boards.4chan.org/h/) | [URL](https://anychans.github.io/4chan/h/) | [URL](https://archiveofsins.com/h/) |
+| **/u/** - [Yuri](https://boards.4chan.org/u/) | [URL](https://anychans.github.io/4chan/u/) | [URL](https://archiveofsins.com/u/) |
+| **/y/** - [Yaoi](https://boards.4chan.org/y/) | [URL](https://anychans.github.io/4chan/y/) | [URL](https://archived.moe/y/) |
 
 ## Scripts
 
@@ -276,6 +278,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 
 ## Misc
 
+- [:f:JAV Threads](https://warosu.org/jp/?task=search&ghost=false&search_text=jav+thread) [:help:](https://jav.now.sh/)
 - [HDGFAQ](https://rentry.org/hdgfaq)
 - [Hent-AI](https://github.com/natethegreate/hent-AI)
 - [nHentai Discord Bot](https://github.com/the-urban-inc/nhentai-discord-bot)

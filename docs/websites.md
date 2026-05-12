@@ -342,7 +342,7 @@ These sites contain a mix of both actual and AI-generated novels.
 - [Tokunation](https://news.tokunation.com/)
 - [The Tokusatsu Network](https://tokusatsunetwork.com/)
 - [Tsuburaya Productions](https://tsuburaya-prod.com/)
-- [JEFusion](https://jefusion.blogspot.com/) <Badge type="danger" icon="i-mdi-lightbulb-alert-outline" text="Spoilers" /> 
+- [JEFusion](https://jefusion.blogspot.com/) x||Spoilers||
 - [Morphin' Legacy](https://morphinlegacy.com/)
 - [Henshin Grid](https://henshingrid.blogspot.com/)
 - [My Shiny Toy Robots](https://www.myshinytoyrobots.com/)
@@ -442,7 +442,7 @@ These sites contain a mix of both actual and AI-generated novels.
 | ^^ | [TMS Official](https://www.youtube.com/@AnimeonTMSOfficialChannel) |
 | ^^ | [Tropics Anime Asia](https://www.youtube.com/@TropicsAnimeAsia) |
 | **Series** | [Akane-banashi Global](https://www.youtube.com/@akane-banashi_global) |
-| ^^ | [Arait Play English](https://www.youtube.com/@AraitPlayEnglish) <Badge type="info" text="Inazuma Eleven"/> |
+| ^^ | [Arait Play English](https://www.youtube.com/@AraitPlayEnglish) ||Inazuma Eleven|| |
 | ^^ | [BEYBLADE English](https://www.youtube.com/@BeybladeOfficial) |
 | ^^ | [BEYBLADE Official](https://www.youtube.com/@beyblade-official) |
 | ^^ | [CARDFIGHT Vanguard](https://www.youtube.com/@CARDFIGHTVanguard) |

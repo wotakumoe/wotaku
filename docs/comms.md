@@ -90,17 +90,14 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [VocaTorrent](https://old.reddit.com/r/VocaTorrent/)
 
 ## Boards
-| :f: Boards | Alt | Archive |
+| :f: Board | Alt | Archive |
 | :--- | :--- | :--- |
 | **/a/** - [Anime & Manga](https://boards.4chan.org/a/) | [URL](https://anychans.github.io/4chan/a/) | [URL](https://desuarchive.org/a/) |
 | **/c/** - [Anime/Cute](https://boards.4chan.org/c/) | [URL](https://anychans.github.io/4chan/c/) | [URL](https://desuarchive.org/c/) |
 | **/cgl/** - [Cosplay & EGL](https://boards.4chan.org/cgl/) | [URL](https://anychans.github.io/4chan/cgl/) | [URL](https://desuarchive.org/cgl/) |
 | **/co/** - [Comics & Cartoons](https://boards.4chan.org/co/) | [URL](https://anychans.github.io/4chan/co/) | [URL](https://desuarchive.org/co/) |
-| **/e/** - [Ecchi](https://boards.4chan.org/e/) | [URL](https://anychans.github.io/4chan/e/) | [URL](https://archive.palanq.win/e/) |
-| **/h/** - [Hentai](https://boards.4chan.org/h/) | [URL](https://anychans.github.io/4chan/h/) | [URL](https://archiveofsins.com/h/) |
 | **/jp/** - [Otaku Culture](https://boards.4chan.org/jp/) | [URL](https://anychans.github.io/4chan/jp/) | [URL](https://warosu.org/jp/) |
 | **/m/** - [Mecha](https://boards.4chan.org/m/) | [URL](https://anychans.github.io/4chan/m/) | [URL](https://desuarchive.org/m/) |
-| **/u/** - [Yuri](https://boards.4chan.org/u/) | [URL](https://anychans.github.io/4chan/u/) | [URL](https://archiveofsins.com/u/) |
 | **/vg/** - [Video Game Generals](https://boards.4chan.org/vg/) | [URL](https://anychans.github.io/4chan/vg/) | [URL](https://arch.b4k.dev/vg/) |
 | **/vp/** - [Pokémon](https://boards.4chan.org/vp/) | [URL](https://anychans.github.io/4chan/vp/) | [URL](https://arch.b4k.dev/vp/) |
 | **/vt/** - [Virtual YouTubers](https://boards.4chan.org/vt/) | [URL](https://anychans.github.io/4chan/vt/) | [URL](https://warosu.org/vt/) |
