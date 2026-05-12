@@ -296,7 +296,8 @@ These sites contain a mix of both actual and AI-generated novels.
 | **Streaming** | [Tokuzilla](https://tokuzilla.net/) :s: [:prx:](https://rentry.org/wotaxy#tokuzilla) |
 | ^^         | [Zokaj](https://zokaj.com/) [:alt:](https://kajzu.com/) |
 | ^^         | [Power Rangers Official](https://www.youtube.com/@PowerRangersOfficial) |
-| ^^         | [ULTRAMAN Official](https://www.youtube.com/@ULTRAMAN_OFFICIAL) <Badge type="tip" text="New" link="https://www.youtube.com/@ultraman_english_official" /> |
+| ^^         | [ULTRAMAN Official](https://www.youtube.com/@ULTRAMAN_OFFICIAL) |
+| ^^         | [ULTRAMAN Official EN](https://www.youtube.com/@ultraman_english_official) |
 | **Download** | [Zekozimo](https://zekozimo.blogspot.com/) :s: <Badge type="info" text="General" /> |
 | ^^         | [KRDL](https://krdl.moe/) :s: |
 | ^^         | [Nyaa](https://nyaa.si/) :mag: [:prx:](https://rentry.org/nyaap) |
@@ -442,7 +443,8 @@ These sites contain a mix of both actual and AI-generated novels.
 | ^^ | [Tropics Anime Asia](https://www.youtube.com/@TropicsAnimeAsia) |
 | **Series** | [Akane-banashi Global](https://www.youtube.com/@akane-banashi_global) |
 | ^^ | [Arait Play English](https://www.youtube.com/@AraitPlayEnglish) <Badge type="info" text="Inazuma Eleven"/> |
-| ^^ | [BEYBLADE English](https://www.youtube.com/@BeybladeOfficial) <Badge type="tip" text="Old" link="https://www.youtube.com/@beyblade-official" /> |
+| ^^ | [BEYBLADE English](https://www.youtube.com/@BeybladeOfficial) |
+| ^^ | [BEYBLADE Official](https://www.youtube.com/@beyblade-official) |
 | ^^ | [CARDFIGHT Vanguard](https://www.youtube.com/@CARDFIGHTVanguard) |
 | ^^ | [Official Yu-Gi-Oh!](https://www.youtube.com/@yugioh) |
 | ^^ | [Pokémon TV](https://www.youtube.com/@OfficialPoke%CC%81monTV) |
