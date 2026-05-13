@@ -56,8 +56,9 @@ defineProps({
 
 .link-icon {
   position: absolute;
-  top: -0.65em;
-  right: -0.8em;
+  top: 0;
+  right: 0;
+  transform: translate(50%, -50%);
   font-size: 0.9em;
   opacity: 0.9;
 }
