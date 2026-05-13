@@ -96,9 +96,16 @@ function span(
 function renderHighlight(md: MarkdownRenderer) {
   const original = md.render.bind(md)
   md.render = (src, env) => {
-    const replaced = src.replace(/([!x]?)\|\|(.+?)\|\|/g, (_, prefix, cont) => {
+    // Replace [||text||](url) — linked pill
+    let replaced = src.replace(/\[([!x]?)\|\|(.+?)\|\|\]\((.+?)\)/g, (_, prefix, cont, url) => {
       const variant = prefix === '!' ? 'warning' : prefix === 'x' ? 'danger' : 'default'
-      return `<hl variant="${variant}">${cont}</hl>`
+      const inner = md.renderInline(cont, env)
+      return `<a href="${url}" target="_blank" rel="noopener noreferrer"><hl variant="${variant}" linked="true">${inner}</hl></a>`
+    })
+    // Replace standalone ||text||
+    replaced = replaced.replace(/([!x]?)\|\|(.+?)\|\|/g, (_, prefix, cont) => {
+      const variant = prefix === '!' ? 'warning' : prefix === 'x' ? 'danger' : 'default'
+      return `<hl variant="${variant}">${md.renderInline(cont, env)}</hl>`
     })
     return original(replaced, env)
   }
