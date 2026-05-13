@@ -176,7 +176,7 @@ og:
 
 ### Image Tools
 
-- [ImageMagick](https://imagemagick.org/index.php) [:src:](https://github.com/ImageMagick/ImageMagick) [:pin:](ttps://www.fmwconcepts.com/imagemagick/index.php)
+- [ImageMagick](https://imagemagick.org/index.php) [:src:](https://github.com/ImageMagick/ImageMagick) [:pin:](https://www.fmwconcepts.com/imagemagick/index.php)
   - [FotoKilof](https://github.com/TeaM-TL/FotoKilof)
   - [imgdanke](https://github.com/DrWhoCares/imgdanke) ==imgdanke==
 - [pingo](https://css-ig.net/pingo) :cs:

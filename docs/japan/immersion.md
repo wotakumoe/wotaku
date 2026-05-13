@@ -66,8 +66,7 @@ og:
 | ^^ | [FAST ch](https://fastv.jp/) :sd: |
 | ^^ | [Japanese TV](https://mov3.co/) :sd: |
 | ^^ | [takelab](https://github.com/take2560/takelab) |
-| ^^ | [TVer](https://tver.jp/) <tooltip>Needs JP VPN by default, but you can stream without it if you copy-paste the video URL in a video player (e.g. MPV).</tooltip> |
-| ^^ | [Utako](https://web.utako.moe/) [:src:](https://gitflic.ru/project/utako/utako) |
+| ^^ | [TVer](https://tver.jp/) ==TVer== |
 | General | [Globe TV](https://globetv.app/) |
 | ^^ | [IPTV-Org](https://iptv-org.github.io/) :s: [:src:](https://github.com/iptv-org/iptv) [||JP||](https://iptv-org.github.io/iptv/countries/jp.m3u) [||JPN||](https://iptv-org.github.io/iptv/languages/jpn.m3u) |
 | ^^ | [Search TV](https://searchtv.net/) |
