@@ -178,7 +178,7 @@ outline: 1
 | [Manga Fox](https://mangafox.la/) [:prx:](https://rentry.org/wotaxy#manga-fox) | :msync: | :ss: | :sp::ls:  | :cmnt: |
 | [MangaKakalot](https://www.mangakakalot.fan/) [:prx:](https://rentry.org/wotaxy#mangakakalot) | :msync: | :ss: | :ls: | :cmnt: |
 | [Like Manga](https://likemanga.ink/) | :msync: | :ss: | :ls: | :cmnt: |
-| [24hNovel](https://24hnovel.com/) <Badge type="info" text="Manhua"  /> | :no: | :ss: | :ls: | :no: |
+| [24hNovel](https://24hnovel.com/) ||Manhua|| | :no: | :ss: | :ls: | :no: |
 
 ### Scrapers
 | Websites | Tracking | Sources | Reading mode | Social |
@@ -459,7 +459,8 @@ Some of the series may not be available depending on your region.
 <Collapsible title="Utility sites">
 
 - [FlixHop](https://flixhop.com/)
-- [JustWatch](https://www.justwatch.com/) :s: <Badge type="tip" text="JP" link="https://www.justwatch.com/jp" />
+- [JustWatch](https://www.justwatch.com/) :s:
+- :prev: [Japanese version](https://www.justwatch.com/jp)
 - [Simkl](https://simkl.com/)
 - [uNoGS](https://unogs.com/)
 - [Yatta-Tachi List](https://yattatachi.com/legal-anime-streaming-sites)

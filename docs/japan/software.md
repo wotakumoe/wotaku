@@ -21,7 +21,8 @@ og:
 | ^^ | [KAnki](https://github.com/crizmo/KAnki) :simple-icons-amazon: |
 | Guide | [Anki Manual](https://docs.ankiweb.net/) |
 | ^^ | [Kuri's Setup Guide](https://donkuri.github.io/learn-japanese/setup/#anki-setup) :s: |
-| ^^ | [jp-mining-note](https://arbyste.github.io/jp-mining-note/) <Badge type="tip" text="original" link="https://aquafina-water-bottle.github.io/jp-mining-note/"/> |
+| ^^ | [jp-mining-note](https://arbyste.github.io/jp-mining-note/) |
+| ^^ | [jp-mining-note (Old)](https://aquafina-water-bottle.github.io/jp-mining-note/) |
 | ^^ | [Xelieu's Modified Anime Card](https://lazyguidejp.github.io/jp-lazy-guide/) |
 | ^^ | [vladsperspective](https://vladsperspective.wordpress.com/2020/07/15/using-anime-decks-subs2srs-mediafire-premade-decks/) |
 | ^^ | [Optimizing Anki For Language Learning](https://cademcniven.com/posts/20210410/) |
@@ -142,7 +143,8 @@ og:
 | ^^ | [Emby Jimaku](https://github.com/bpwhelan/Emby.Jimaku) | |
 | ^^ | [Voracious](https://voracious.app/) [:src:](https://github.com/rsimmons/voracious) | :win::lin: |
 | ^^ | [Zak's asbplayer](https://zakwarsame.github.io/asbplayer/) [:src:](https://github.com/zakwarsame/asbplayer) | :web: |
-| **mpv** | [Anacreon MPV script](https://github.com/friedrich-de/Anacreon-Script) <Badge type="info" text="animecards" link="https://animecards.site/minefromanime/" /> | |
+| **mpv** | [Anacreon MPV script](https://github.com/friedrich-de/Anacreon-Script) | |
+| ^^ | :prev: [Animecards](https://animecards.site/minefromanime/) | | 
 | ^^ | [autosubsync mpv](https://github.com/Ajatt-Tools/autosubsync-mpv) | |
 | ^^ | [memento](https://github.com/ripose-jp/Memento) | :win::app::lin: |
 | ^^ | [mpvacious](https://github.com/Ajatt-Tools/mpvacious) | :win::lin: |

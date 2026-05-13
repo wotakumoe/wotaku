@@ -93,7 +93,8 @@ og:
 ## Utilities
 - [Aniyomi Local Manager](https://gitlab.com/Secozzi/aniyomi-local-manager)
 - [Kihon](https://github.com/tbvns/Kihon)
-- [Nekotatsu](https://github.com/PhantomShift/nekotatsu) <Badge type="info" text="Phone GUI" link="https://github.com/PhantomShift/nekotatsu-mobile/" />
+- [Nekotatsu](https://github.com/PhantomShift/nekotatsu)
+- :prev: [Nekotatsu Mobile](https://github.com/PhantomShift/nekotatsu-mobile/)
 - [SauceNAO](https://github.com/LuK1337/SauceNAO)
 - [Trace.moe](https://github.com/localhostov/trace.moe-app)
 - [Tachisync](https://github.com/axiel7/Tachisync) ||Needs PC||
@@ -249,7 +250,8 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | [Calibre](https://calibre-ebook.com/) [:src:](https://github.com/kovidgoyal/calibre) | :win::app::lin: |
 | [Freda](https://www.turnipsoft.com/freda/) :cs: | :win: |
 | [Koodo Reader](https://www.koodoreader.com/) [:src:](https://github.com/koodo-reader/koodo-reader) | :win::app::lin: |
-| [KOReader](https://koreader.rocks/) [:src:](https://github.com/koreader/koreader) <Badge type="tip" text="rakuyomi" link="https://github.com/tachibana-shin/rakuyomi" /> | :lin::erdr: |
+| [KOReader](https://koreader.rocks/) [:src:](https://github.com/koreader/koreader) | :lin::erdr: |
+| :prev: [rakuyomi](https://github.com/tachibana-shin/rakuyomi) | :erdr: |
 | [Okular](https://okular.kde.org/) | :win::lin: |
 | [Readest](https://readest.com/) [:src:](https://github.com/readest/readest) | :win::app::lin: |
 | [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) [:src:](https://github.com/sumatrapdfreader/sumatrapdf) | :win: |
@@ -327,7 +329,8 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | ^^          | [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager) | :win::app::lin: |
 | **Cover**     | [DarkThumbs](https://github.com/fire-eggs/DarkThumbs) | :win: |
 | ^^          | [Icaros](https://www.videohelp.com/software/Icaros) :cs: | :win: |
-| **Others**    | [MangaJaNai](https://github.com/the-database/MangaJaNai) <Badge type="info" text="GUI" link="https://github.com/the-database/MangaJaNaiConverterGui" /> | :win: |
+| **Others**    | [MangaJaNai](https://github.com/the-database/MangaJaNai) | :win: |
+| ^^            | [MangaJaNai Converter GUI](https://github.com/the-database/MangaJaNaiConverterGui) | :win: |
 | ^^          | [XpdfReader](https://www.xpdfreader.com/index.html) | :win::lin: |
 | ^^          | [Poppler](https://poppler.freedesktop.org/) [:src:](https://gitlab.freedesktop.org/poppler/poppler) | :win::app::lin::bsd: |
 

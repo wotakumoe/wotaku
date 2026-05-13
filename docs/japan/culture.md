@@ -10,10 +10,12 @@ og:
 ## Culture & History
 
 ### Websites
-- [Web Japan](https://web-japan.org/) :s: <Badge type="info" text="Old" link="https://web-japan.org/atlas/index.html" /> 
+- [Web Japan](https://web-japan.org/) :s:
+- :prev: [Web Japan Old](https://web-japan.org/atlas/index.html)
 - [Japanese Wiki](https://www.japanesewiki.com/)
 - [Japan Reference](https://jref.com/)
-- [Japan: Below the tip of the iceberg](https://prezi.com/9_lvn6v3fzgt/japan-below-the-tip-of-the-iceberg/) <Badge type="tip" text="Gaijin" link="https://old.reddit.com/r/IcebergCharts/comments/n4edop/gaijin_foreigners_in_japan_iceberg/" />
+- [Japan: Below the tip of the iceberg](https://prezi.com/9_lvn6v3fzgt/japan-below-the-tip-of-the-iceberg/)
+- :prev: [Gaijin (foreigners in Japan) Iceberg](https://old.reddit.com/r/IcebergCharts/comments/n4edop/gaijin_foreigners_in_japan_iceberg/)
 - [JTCO](https://www.jtco.or.jp/en/)
 
 ### Books
@@ -35,7 +37,8 @@ og:
 - [Japanese folklore and mythology](https://www.newworldencyclopedia.org/entry/Japanese_folklore_and_mythology)
 - [Yokai.com](https://yokai.com/)
 - [Home of Japanese Mythology 'SHIMANE'](https://www.kankou-shimane.com/en/japanesemythology/)
-- [Folktales from Japan](https://sites.pitt.edu/~dash/japan.html) <Badge type="info" text="Books" link="https://sites.pitt.edu/~dash/japantales.html" />
+- [Folktales from Japan](https://sites.pitt.edu/~dash/japan.html)
+- :prev: [Books](https://sites.pitt.edu/~dash/japantales.html)
 
 ### Books
 - [The Japanese Myths: A Guide to Gods, Heroes and Spirits](https://www.amazon.com/dp/0500252319)

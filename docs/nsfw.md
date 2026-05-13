@@ -46,7 +46,8 @@ og:
 ## Manga
 
 ### General
-- [E-Hentai](https://e-hentai.org/) :s: <Badge type="tip" text="Search Guide" link="https://e-hentaitagsearch.blogspot.com/" /> ==EHentai==
+- [E-Hentai](https://e-hentai.org/) :s: ==EHentai==
+- :prev: [E-Hentai Search Guide](https://e-hentaitagsearch.blogspot.com/)
 - [Akuma](https://akuma.moe/) ==Akuma==
 - [HDoujin](https://hdoujin.org/) :s: ==HDoujin==
 - [Hitomi](https://hitomi.la/) ==Hitomi==
@@ -155,7 +156,7 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
   - [EhViewer-NekoInverter](https://github.com/EhViewer-NekoInverter/EhViewer)
   - [JHenTai](https://github.com/jiangtian616/JHenTai)
 - **nHentai**
-  - [NClientV3](https://github.com/maxwai/NClientV3) <Badge type="tip" text="V2" link="https://github.com/Dar9586/NClientV2" />
+  - [NClientV3](https://github.com/maxwai/NClientV3)
   - [nhviewer universal](https://github.com/ttdyce/nhviewer-universal)
 
 ## iOS
