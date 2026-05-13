@@ -427,7 +427,8 @@ Only use this if you know what you're getting yourselves into. Recommended board
 | ^^        | [Guess The Anime Opening](https://guesstheopening.com/anime) |
 | Character | [Chiaki Anime Quiz](https://chiaki.site/?/quiz) |
 | Scene     | [AnimeGuess](https://www.animeguess.moe/) |
-| Others    | [Rule34dle](https://rule34dle.vercel.app/) |
+| Others    | [Animerdle](https://www.animerdle.com/) |
+| ^^        | [Rule34dle](https://rule34dle.vercel.app/) |
 
 ### Miscellaneous
 - [AIDN](https://aidn.jp/contents/)
