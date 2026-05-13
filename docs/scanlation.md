@@ -87,7 +87,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
   - Adobe Alternatives
     - [KennyNL](https://github.com/KenneyNL/Adobe-Alternatives)
     - [XdanielArt](https://rentry.org/adobealt)
-- [Affinity](https://affinity.serif.com/en-gb/) :win::app::paid::cs:
+- [Affinity](https://affinity.serif.com/en-gb/) :win::app::fm::cs:
 - [Clip Studio Paint EX](https://www.clipstudio.net/en/function_ex/) :and::win::app::paid::cs:
 - [FireAlpaca](https://firealpaca.com/) :win::app::lin::fm::cs:
 - [MediBang Paint](https://medibangpaint.com/en/) :win::app::fm::cs:
