@@ -496,53 +496,7 @@ table tr:nth-child(odd) {
   }
 }
 
-::view-transition-group(root) {
-  animation-timing-function: $ease-in-expo;
-  z-index: 100;
-}
-
-::view-transition-new(root) {
-  animation: var(--switch-name) var(--switch-duration);
-  animation-fill-mode: both;
-  animation-timing-function: cubic-bezier(0.7, 0, 0.84, 0);
-}
-
-::view-transition-old(root),
-.dark::view-transition-old(root) {
-  animation: var(--switch-name) var(--switch-duration);
-  animation-fill-mode: both;
-  animation-timing-function: cubic-bezier(0.7, 0, 0.84, 0);
-}
-
-@keyframes scale {
-  0% {
-    mask-size: 0;
-  }
-  10% {
-    mask-size: 25vmax;
-  }
-  90% {
-    mask-size: 25vmax;
-  }
-  100% {
-    mask-size: 750vmax;
-  }
-}
-
-@keyframes scale-fast {
-  0% {
-    mask-size: 0;
-  }
-  10% {
-    mask-size: 25vmax;
-  }
-  87.5% {
-    mask-size: 25vmax;
-  }
-  100% {
-    mask-size: 750vmax;
-  }
-}
+/* View transition animations removed */
 
 /* auto-height */
 .VPSidebarItem {
@@ -761,8 +715,9 @@ table tr:nth-child(odd) {
 
     & > .menu,
     & > .VPLocalNavOutlineDropdown > button {
-      @apply bg-white/80! dark:bg-neutral-800/80! px-2 py-0.75 rounded-xl border
-        border-neutral-700/10 dark:border-neutral-300/10 backdrop-blur-md;
+      @apply bg-white! px-2 py-0.75 rounded-xl border
+        border-neutral-700/10 dark:border-neutral-300/10;
+      .dark & { background-color: #0d0e11 !important; }
     }
 
     & > .VPLocalNavOutlineDropdown {
@@ -770,12 +725,11 @@ table tr:nth-child(odd) {
 
       & > .items {
         @apply top-10 right-4 md:right-0 max-w-[calc(100%-32px)] sm:max-w-sm
-          bg-white/75! dark:bg-neutral-800/75! p-1 rounded-2xl border
-          border-neutral-700/10 dark:border-neutral-300/10 backdrop-blur-md
+          bg-white! p-1 rounded-2xl border
+          border-neutral-700/10 dark:border-neutral-300/10
           shadow-2xl shadow-black/5;
         left: unset;
-        transition-duration: 0.5s;
-        transition-timing-function: cubic-bezier(0.16, 1, 0.3, 1);
+        .dark & { background-color: #0d0e11 !important; }
 
         & > .header {
           @apply h-9 mb-2 bg-transparent;
@@ -849,7 +803,7 @@ table tr:nth-child(odd) {
 }
 
 .VPNavBar {
-  @apply border-0 bg-white/60 dark:bg-neutral-900/60 transition-colors;
+  @apply border-0 bg-white/60 dark:bg-neutral-900/60;
 
   & > .container {
     & > .content,
@@ -942,10 +896,11 @@ table tr:nth-child(odd) {
   }
 
   @media (max-width: 959.9px) {
-    @apply max-w-68 translate-x-2 translate-y-2 p-1! bg-white/85
-      dark:bg-neutral-800/85 border dark:border-neutral-700 border-neutral-200
-      rounded-3xl backdrop-blur shadow-lg overflow-x-hidden overflow-y-auto
+    @apply max-w-68 translate-x-2 translate-y-2 p-1! bg-white!
+      border dark:border-neutral-700 border-neutral-200
+      rounded-3xl shadow-lg overflow-x-hidden overflow-y-auto
       max-h-dvh;
+    .dark & { background-color: #0d0e11 !important; }
     height: calc(100dvh - 1rem);
 
     & > .nav {
@@ -971,7 +926,8 @@ table tr:nth-child(odd) {
 
   & > .shell {
     /* 688px is the max-width of the content (Vitepress default) */
-    --uno: "gap-0! md:max-w-[688px] px-0! pt-0.5! md:translate-x-2 bg-white! md:bg-white/70! dark:bg-neutral-900! md:dark:bg-neutral-900/90! md:backdrop-blur-xl md:rounded-2xl! md:border dark:border-neutral-700 md:shadow-xl shadow-black/5";
+    --uno: "gap-0! md:max-w-[688px] px-0! pt-0.5! md:translate-x-2 bg-white! md:bg-white! md:rounded-2xl! md:border dark:border-neutral-700 md:shadow-xl shadow-black/5";
+    .dark & { background-color: #0d0e11 !important; }
 
     & > .search-bar {
       --uno: "w-full py-1.5 px-2 border-0 border-b border-neutral-400/25! dark:border-neutral-600/65! rounded-none";
@@ -1043,12 +999,13 @@ table tr:nth-child(odd) {
 }
 
 .VPNavBarMenuGroup > .menu {
-  @apply top-12 backdrop-blur-xl rounded-2xl;
+  @apply top-12 rounded-2xl;
   will-change: opacity;
 
   & > .VPMenu {
-    @apply bg-white/80! dark:bg-neutral-700/80! p-1 border border-neutral-100
+    @apply bg-white! p-1 border border-neutral-100
       dark:border-neutral-700 rounded-2xl shadow-2xl shadow-black/5;
+    .dark & { background-color: #0d0e11 !important; }
 
     & > .items {
       & > .VPMenuLink > .VPLink {
@@ -1060,12 +1017,13 @@ table tr:nth-child(odd) {
 }
 
 .VPNavBarExtra.extra > .menu {
-  @apply top-12 backdrop-blur-xl rounded-2xl;
+  @apply top-12 rounded-2xl;
   will-change: opacity;
 
   & > .VPMenu {
-    @apply bg-white/80! dark:bg-neutral-700/80! border border-neutral-100
+    @apply bg-white! border border-neutral-100
       dark:border-neutral-700 rounded-2xl shadow-2xl shadow-black/5;
+    .dark & { background-color: #0d0e11 !important; }
   }
 }
 
@@ -1081,7 +1039,8 @@ table tr:nth-child(odd) {
 
   & > .VPFlyout.VPNavBarMenuGroup > .button,
   & > a {
-    @apply backdrop-blur-lg bg-white/80 dark:bg-neutral-900/70;
+    @apply bg-white!;
+    .dark & { background-color: #0d0e11 !important; }
   }
 
   /* Skip screen reader content */
@@ -1092,7 +1051,8 @@ table tr:nth-child(odd) {
 }
 
 .VPNavBarAppearance.appearance {
-  @apply h-11 bg-white/80 dark:bg-neutral-900/70 backdrop-blur-lg rounded-l-3xl;
+  @apply h-11 bg-white! rounded-l-3xl;
+  .dark & { background-color: #0d0e11 !important; }
 
   &::before {
     @apply hidden;
@@ -1100,15 +1060,17 @@ table tr:nth-child(odd) {
 }
 
 .VPSocialLinks.VPNavBarSocialLinks.social-links {
-  @apply h-11 pr-0! pl-1.5! bg-white/80 dark:bg-neutral-900/70 backdrop-blur-lg;
+  @apply h-11 pr-0! pl-1.5! bg-white!;
+  .dark & { background-color: #0d0e11 !important; }
 }
 
 /* ... mobile */
 .VPFlyout.VPNavBarExtra.extra {
-  @apply h-11 bg-white/80 dark:bg-neutral-900/70;
+  @apply h-11 bg-white!;
+  .dark & { background-color: #0d0e11 !important; }
 
   & > .button {
-    @apply h-10.5 backdrop-blur-lg rounded-r-3xl!;
+    @apply h-10.5 rounded-r-3xl!;
   }
 }
 
@@ -1117,7 +1079,7 @@ table tr:nth-child(odd) {
 #local-search {
   & > .DocSearch-Button {
     @apply hover:scale-[1.03] focus:scale-[1.03] active:scale-[0.98]
-      transition-all! h-10 rounded-xl backdrop-blur-sm lg:ml-2 sm:bg-red-50;
+      h-10 rounded-xl lg:ml-2 sm:bg-red-50;
     color: var(--docsearch-secondary-text-color);
 
     @media (width >= 40rem /* 640px */) {
@@ -1286,8 +1248,8 @@ table tr:nth-child(odd) {
   overflow-y: auto;
   overscroll-behavior: contain;
   @extend %thin-scrollbar;
-
   .dark & {
+    background-color: #0d0e11;
     box-shadow: var(--vp-shadow-1);
   }
 }
@@ -1301,6 +1263,7 @@ table tr:nth-child(odd) {
   align-items: center;
   background-color: var(--vp-sidebar-bg-color);
   border-bottom: 1px solid var(--vp-c-divider);
+  .dark & { background-color: #0d0e11; }
 }
 
 .home-sidebar-logo {
@@ -1322,24 +1285,7 @@ table tr:nth-child(odd) {
   padding-top: 10px;
 }
 
-/* Desktop sidebar transitions */
-.home-fade-enter-active,
-.home-fade-leave-active {
-  transition: opacity 0.25s;
-}
-
-.home-fade-enter-from,
-.home-fade-leave-to {
-  opacity: 0;
-}
-
-.home-slide-enter-active {
-  transition: transform 0.5s cubic-bezier(0.19, 1, 0.22, 1), opacity 0.25s;
-}
-
-.home-slide-leave-active {
-  transition: transform 0.25s ease, opacity 0.5s;
-}
+/* Desktop sidebar transitions removed */
 
 .home-slide-enter-from,
 .home-slide-leave-to {
@@ -1354,9 +1300,10 @@ table tr:nth-child(odd) {
 
 /* Home NavScreen: restyle as left-aligned floating panel matching VPSidebar */
 .VPNavScreen:has(.home-screen-nav) {
-  @apply bg-white/85 dark:bg-neutral-800/85
+  @apply bg-white!
     border dark:border-neutral-700 border-neutral-200
-    rounded-3xl backdrop-blur shadow-lg;
+    rounded-3xl shadow-lg;
+  .dark & { background-color: #0d0e11 !important; }
   padding: 0 !important;
   left: 0.5rem !important;
   right: auto !important;
@@ -1391,21 +1338,7 @@ table tr:nth-child(odd) {
   padding-top: 8px;
 }
 
-/* Override NavScreen fade transition to slide-from-left on home */
-.VPNavScreen:has(.home-screen-nav) {
-  &.fade-enter-active,
-  &.fade-leave-active {
-    transition: transform 0.3s cubic-bezier(0.19, 1, 0.22, 1), opacity 0.25s !important;
-
-    .container { transform: none !important; }
-  }
-
-  &.fade-enter-from,
-  &.fade-leave-to {
-    transform: translateX(-100%) !important;
-    opacity: 0 !important;
-  }
-}
+/* NavScreen slide transition removed */
 
 /* Icon tooltips (hover on desktop, tap on mobile) */
 .icon-tip {
