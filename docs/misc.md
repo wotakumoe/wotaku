@@ -409,13 +409,21 @@ Only use this if you know what you're getting yourselves into. Recommended board
 ## Fun sites
 
 ### 3x3
-| Category  | Websites | Service(s) |  
-|-----------|----------|------------|  
-| **General** | [3x3 Generator](https://gqgs.github.io/3x3-generator/) [:src:](https://github.com/gqgs/3x3-generator/) | :mal::al::k: |
-| ^^        | [lists.fun](https://lists.fun/) | :mal::tmdb::igdb: |
-| ^^        | [Topsters](https://topsters.org/) | :tmdb::lstfm::igdb::iarch: |
-| **Games** | [My 9 Games](https://my9games.com/) | :igdb: |
-| **Music** | [My Top 9 Otaku Songs](https://otaku-song.pages.dev/) :ljp: | :apple: |
+| Category | Websites | Customizable | Max RxC |
+| :--- | :--- | :---: | :---: |
+| **General** | [3x3 Generator](https://gqgs.github.io/3x3-generator/) [:src:](https://github.com/gqgs/3x3-generator/) | :no: | 5x5 |
+| ^^ | [lists.fun](https://lists.fun/) | :no: | 5x10 |
+| ^^ | [Topsters 3](https://topsters.org/) | :yes: | 12x12 |
+| **Games** | [My 9 Games](https://my9games.com/) | :no: | 3x3 |
+| **Music** | [My Top 9 Otaku Songs](https://otaku-song.pages.dev/) :ljp: | :no: | 3x3 |
+
+<ScrapeTable :sites="[
+  { name: '3x3 Generator', scrapes: { 'Anime': 'AniList, MyAnimeList & Kitsu', 'Manga': 'AniList, MyAnimeList & Kitsu', 'Music': 'LastFM', 'Game': 'RAWG & IGDB', 'Visual Novel': 'VNDB' } },
+  { name: 'Lists.fun', scrapes: { 'Anime': 'MyAnimeList', 'Music': 'MusicBrainZ', 'Live Action': 'TMDB', 'Pokemon': 'Pokeapi' } },
+  { name: 'Topsters 3', scrapes: { 'Live Action': 'TMDB', 'Music': 'LastFM', 'Book': 'Internet Archive', 'Game': 'IGDB' } },
+  { name: 'My 9 Games', scrapes: { 'Game': 'IGDB' } },
+  { name: 'My Top 9 Otaku Songs', scrapes: { 'Music': 'Apple Music' } }
+]" />
 
 ### Quiz
 | Category  | Website |
