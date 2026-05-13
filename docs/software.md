@@ -158,7 +158,7 @@ or buy an Android phone :ic-twotone-thumb-up:
 | Category | Apps |
 | :--- | :--- |
 | **Online** | [Aidoku](https://aidoku.app/) [:src:](https://github.com/Aidoku/Aidoku) [:e:](/ext/ios#aidoku) |
-| ^^ | [Suwatte](https://www.suwatte.app/) [:src:](https://github.com/Suwatte/Suwatte) [:e:](/ext/ios#suwatte) <Badge type="tip" text="Converter" link="https://web.archive.org/web/20250801192039/https://seyden.github.io/SuwatteConverter/suwatte" /> |
+| ^^ | [Suwatte](https://www.suwatte.app/) [:src:](https://github.com/Suwatte/Suwatte) [:e:](/ext/ios#suwatte) [||Converter||](https://web.archive.org/web/20250801192039/https://seyden.github.io/SuwatteConverter/suwatte) |
 | ^^ | [Paperback](https://paperback.moe/) [:src:](https://github.com/Paperback-iOS/app) [:e:](/ext/ios#paperback) |
 | ^^ | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) |
 | ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) |

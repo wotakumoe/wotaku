@@ -42,10 +42,10 @@ og:
 
 | Website | Page(s) | Extra |
 |-|-|-|
-| [**TOFUGU**](https://www.tofugu.com/) | [Hiragana](https://www.tofugu.com/japanese/learn-hiragana/) | <Badge type="tip" text="PDF" link="https://www.tofugu.com/japanese/learn-hiragana-book-pdf/" /> |
-| ^^ | [Katakana](https://www.tofugu.com/japanese/learn-katakana/) | <Badge type="tip" text="PDF" link="https://www.tofugu.com/japanese/learn-katakana-book-pdf/" /> |
-| [**Japanese-lesson.com**](http://japanese-lesson.com/) | [Hiragana](http://japanese-lesson.com/characters/hiragana/hiragana_drill/index.html) | <Badge type="tip" text="PDF" link="http://japanese-lesson.com/resources/pdf/characters/hiragana_chart.pdf"/> <Badge type="tip" text="Practice" link="http://japanese-lesson.com/resources/pdf/characters/hiragana_writing_practice_sheets.pdf" /> |
-| ^^ | [Katakana](http://japanese-lesson.com/characters/katakana/katakana_drill/index.html) | <Badge type="tip" text="PDF" link="http://japanese-lesson.com/resources/pdf/characters/katakana_chart.pdf"/> <Badge type="tip" text="Practice" link="http://japanese-lesson.com/resources/pdf/characters/katakana_writing_practice_sheets.pdf" /> |
+| [**TOFUGU**](https://www.tofugu.com/) | [Hiragana](https://www.tofugu.com/japanese/learn-hiragana/) | [||PDF||](https://www.tofugu.com/japanese/learn-hiragana-book-pdf/) |
+| ^^ | [Katakana](https://www.tofugu.com/japanese/learn-katakana/) | [||PDF||](https://www.tofugu.com/japanese/learn-katakana-book-pdf/) |
+| [**Japanese-lesson.com**](http://japanese-lesson.com/) | [Hiragana](http://japanese-lesson.com/characters/hiragana/hiragana_drill/index.html) | [||PDF||](http://japanese-lesson.com/resources/pdf/characters/hiragana_chart.pdf) [||Practice||](http://japanese-lesson.com/resources/pdf/characters/hiragana_writing_practice_sheets.pdf) |
+| ^^ | [Katakana](http://japanese-lesson.com/characters/katakana/katakana_drill/index.html) | [||PDF||](http://japanese-lesson.com/resources/pdf/characters/katakana_chart.pdf) [||Practice||](http://japanese-lesson.com/resources/pdf/characters/katakana_writing_practice_sheets.pdf) |
 | [**JapanesePod101**](https://www.youtube.com/@JapanesePod101) | [hiragana](https://www.youtube.com/watch?v=6p9Il_j0zjc) | - |
 | ^^ | [katakana](https://www.youtube.com/watch?v=s6DKRgtVLGA) | - |
 
@@ -117,7 +117,7 @@ og:
 | :--- | :--- |
 | **Guides** | [TOFUGU](https://www.tofugu.com/japanese/japanese-pronunciation/) |
 | ^^ | [Kanshudo](https://www.kanshudo.com/howto/pitch) |
-| ^^ | [Kezi](https://kez.io/notes/japanese/accent) <Badge type="tip" text="Gist" link="https://gist.github.com/k3zi/3f38070efffa38db83cd5745d83b1235" /> |
+| ^^ | [Kezi](https://kez.io/notes/japanese/accent) [||Gist||](https://gist.github.com/k3zi/3f38070efffa38db83cd5745d83b1235) |
 | ^^ | [Minimal Pairs](https://kuuuube.github.io/minimal-pairs/) [:src:](https://github.com/Kuuuube/minimal-pairs) |
 | ^^ | [The Pitch Accent Journey](https://docs.google.com/document/d/1ReBf08JFK4n0PXdOxThAfWuiK9UWVZEWWzeKSECWTQo/edit) |
 | ^^ | [Resources for pitch accent](https://xythh.github.io/resources) |
@@ -224,13 +224,13 @@ og:
 | ^^          | [Kanji Look and Learn](https://www.amazon.com/dp/4789013499) |
 | ^^          | [Tobira: Power Up Your Kanji](https://www.amazon.com/gp/product/4874244874) |
 | **Reading** | [Tadoku Books](https://old.reddit.com/r/LearnJapanese/comments/19bitqy/2024_updated_free_tadoku_graded_reader_pdfs_2681/) ||General|| |
-| **Vocabulary** | [JLPT Tango N5](https://www.amazon.com/dp/4872179811) <Badge type="tip" text="N4" link="https://www.amazon.com/dp/487217982X" /> |
-| **Grammar** | [Genki Textbook Volume 1](https://www.amazon.com/dp/4789017303) <Badge type="tip" text="Workbook" link="https://www.amazon.com/dp/4789017311" /> |
-| ^^          | [Genki Textbook Volume 2](https://www.amazon.com/dp/478901732X) <Badge type="tip" text="Workbook" link="https://www.amazon.com/dp/4789017338" /> |
+| **Vocabulary** | [JLPT Tango N5](https://www.amazon.com/dp/4872179811) [||N4||](https://www.amazon.com/dp/487217982X) |
+| **Grammar** | [Genki Textbook Volume 1](https://www.amazon.com/dp/4789017303) [||Workbook||](https://www.amazon.com/dp/4789017311) |
+| ^^          | [Genki Textbook Volume 2](https://www.amazon.com/dp/478901732X) [||Workbook||](https://www.amazon.com/dp/4789017338) |
 | ^^          | [Genki Answer Key](https://www.amazon.com/dp/4789017362) |
 | ^^          | [Tobira 1: Beginning Japanese](https://www.amazon.com/dp/4874248705) [:alt:](https://www.amazon.com/dp/4874249000) |
 | ^^          | [Nihongo Fun&Easy](https://www.amazon.com/dp/4872177215) |
-| ^^          | [Minna No Nihongo 1](https://www.amazon.com/dp/4883196038) [:alt:](https://www.amazon.com/dp/4883196461) <Badge type="tip" text="Workbook" link="https://www.amazon.com/dp/4883196631/" /> |
+| ^^          | [Minna No Nihongo 1](https://www.amazon.com/dp/4883196038) [:alt:](https://www.amazon.com/dp/4883196461) [||Workbook||](https://www.amazon.com/dp/4883196631/) |
 
 
 ### N3

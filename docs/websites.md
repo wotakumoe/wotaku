@@ -459,7 +459,7 @@ Some of the series may not be available depending on your region.
 <Collapsible title="Utility sites">
 
 - [FlixHop](https://flixhop.com/)
-- [JustWatch](https://www.justwatch.com/) :s: [!||JP||](https://www.justwatch.com/jp)
+- [JustWatch](https://www.justwatch.com/) :s: [||JP||](https://www.justwatch.com/jp)
 - [Simkl](https://simkl.com/)
 - [uNoGS](https://unogs.com/)
 - [Yatta-Tachi List](https://yattatachi.com/legal-anime-streaming-sites)

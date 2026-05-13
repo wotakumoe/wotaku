@@ -69,7 +69,7 @@ og:
 | ^^ | [TVer](https://tver.jp/) <tooltip>Needs JP VPN by default, but you can stream without it if you copy-paste the video URL in a video player (e.g. MPV).</tooltip> |
 | ^^ | [Utako](https://web.utako.moe/) [:src:](https://gitflic.ru/project/utako/utako) |
 | General | [Globe TV](https://globetv.app/) |
-| ^^ | [IPTV-Org](https://iptv-org.github.io/) :s: [:src:](https://github.com/iptv-org/iptv) <Badge type="info" icon="i-material-symbols-download-2" text="JP" link="https://iptv-org.github.io/iptv/countries/jp.m3u" /> <Badge type="info" icon="i-material-symbols-download-2" text="JPN" link="https://iptv-org.github.io/iptv/languages/jpn.m3u" /> |
+| ^^ | [IPTV-Org](https://iptv-org.github.io/) :s: [:src:](https://github.com/iptv-org/iptv) [||JP||](https://iptv-org.github.io/iptv/countries/jp.m3u) [||JPN||](https://iptv-org.github.io/iptv/languages/jpn.m3u) |
 | ^^ | [Search TV](https://searchtv.net/) |
 | ^^ | [TV Garden](https://tv.garden/jp) |
 
@@ -80,8 +80,8 @@ og:
 | Category | Resources |
 | :--- | :--- |
 | General | [Nyaa](https://nyaa.si/) [:prx:](https://rentry.org/nyaap) |
-| Manga | [Bilingual Manga](https://bilingualmanga.org/) :s: <Badge type="tip" text="Backup" link="https://github.com/B-M-dev/Bilingual_Manga-home-" /> |
-| ^^ | [Mokuro Catalog](https://mokuro.moe/catalog/) <Badge type="tip" text="Nyaa" link="https://rentry.org/wotadirect#japansoftware" /> |
+| Manga | [Bilingual Manga](https://bilingualmanga.org/) :s: [||Backup||](https://github.com/B-M-dev/Bilingual_Manga-home-) |
+| ^^ | [Mokuro Catalog](https://mokuro.moe/catalog/) [||Nyaa||](https://rentry.org/wotadirect#japansoftware) |
 | Novel | [All EPUBs](https://boroboro.neocities.org/listfullepub) |
 | ^^ | [Aozora Bunko](https://www.aozora.gr.jp/) |
 | ^^ | [boroboro](https://boroboro.neocities.org/) |
@@ -105,7 +105,7 @@ og:
 | Category | Resources |
 | :--- | :--- |
 | Audiobook | [Nyaa.si](https://nyaa.si/) :s: [:src:](https://rentry.org/nyaap) |
-| ^^ | [TMW Japanese Audiobooks Collection](https://rentry.org/wotadirect#japanimmersion) <Badge type="tip" text="Index" link="https://coreaudio.netlify.app/" /> |
+| ^^ | [TMW Japanese Audiobooks Collection](https://rentry.org/wotadirect#japanimmersion) [||Index||](https://coreaudio.netlify.app/) |
 | ^^ | [Librivox](https://librivox.org/) |
 | ^^ | [Aozora Roudoku](https://aozoraroudoku.jp/index.html) |
 | Podcast | [Japanese Podcast Spreadsheet](https://docs.google.com/spreadsheets/d/17P2dBQHnBnHcG3ua_24IO6sP9RDC-5b3WHV9Ri2N5qU/edit#gid=0) |

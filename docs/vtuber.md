@@ -139,26 +139,26 @@ og:
 <hr>
 
 #### Animatics / Clip focused
-- [9am](https://www.youtube.com/@9amKR/) :ded: <Badge type="tip" text="EN" link="https://www.youtube.com/@9amEN/" />
+- [9am](https://www.youtube.com/@9amKR/) :ded: [||EN||](https://www.youtube.com/@9amEN/)
 - [Applisaur](https://youtube.com/@applisaur)
 - [ばかくん三世](https://www.youtube.com/@bakakunsansei)
 - [Coomfus](https://www.youtube.com/@Coomfus/) :ded:
-- [エビフライ / Ebihurai](https://www.youtube.com/@Ebihuraii) <Badge type="tip" text="EN" link="https://www.youtube.com/@EbihuraiIEN" />
+- [エビフライ / Ebihurai](https://www.youtube.com/@Ebihuraii) [||EN||](https://www.youtube.com/@EbihuraiIEN)
 - [FuwaFuwa](https://youtube.com/@FuwaFuwa%E8%BB%9F%E8%B6%B4%E8%B6%B4)
 - [hikipanda](https://www.youtube.com/@hikipanda) :lkr:
-- [カイ / Kai](https://www.youtube.com/@%E3%82%AB%E3%82%A4-w3d) <Badge type="tip" text="EN" link="https://www.youtube.com/@kai_en8684/" />
+- [カイ / Kai](https://www.youtube.com/@%E3%82%AB%E3%82%A4-w3d) [||EN||](https://www.youtube.com/@kai_en8684/)
 - [かたくりこ](https://www.youtube.com/@katakuriko)
-- [くまいゆうき / Kamai Yuki](https://www.youtube.com/@kumayuki55) <Badge type="tip" text="EN" link="https://www.youtube.com/@KumaiYuki_EN/" />
+- [くまいゆうき / Kamai Yuki](https://www.youtube.com/@kumayuki55) [||EN||](https://www.youtube.com/@KumaiYuki_EN/)
 - [Khelly](https://www.youtube.com/@Khelly_Ch/)
-- [もちみこ / Mochimiko](https://www.youtube.com/mochimikoJP) <Badge type="tip" text="EN" link="https://youtube.com/@mochimikoen" />
-- [もものふ&あおつき / momonofu & aotuki](https://www.youtube.com/@momonofuaotuki/) <Badge type="tip" text="EN" link="https://www.youtube.com/@momonofuen1427/" />
+- [もちみこ / Mochimiko](https://www.youtube.com/mochimikoJP) [||EN||](https://youtube.com/@mochimikoen)
+- [もものふ&あおつき / momonofu & aotuki](https://www.youtube.com/@momonofuaotuki/) [||EN||](https://www.youtube.com/@momonofuen1427/)
 - [ニコニコニコたん手描き切り抜き (Niconiconico-tan Tegaki Kirinuki)](https://www.youtube.com/@25tan_ouen_tegaki) :ljp:
 - [noeee](https://www.youtube.com/@noeee/)
 - [Riri Zpt](https://www.youtube.com/@RiriZhepelton/)
-- [TAKERU【ANIMATION🍀】](https://www.youtube.com/@takeru.animation/)
-- [てりたま / Teritama](https://www.youtube.com/@%E3%81%A6%E3%82%8A%E3%81%9F%E3%81%BE-k1s) <Badge type="tip" text="EN" link="" />
-- [とりぷる / Tripl3](https://www.youtube.com/@Tripl3jp) <Badge type="tip" text="EN" link="https://www.youtube.com/@Tripl3en" />
-- [やんのか / Yan_noka](https://www.youtube.com/@yan_noka) <Badge type="tip" text="EN" link="https://www.youtube.com/@yan_noka_en/" />
+- [TAKERU【ANIMATION :four-leaf-clover:】](https://www.youtube.com/@takeru.animation/)
+- [てりたま / Teritama](https://www.youtube.com/@%E3%81%A6%E3%82%8A%E3%81%9F%E3%81%BE-k1s) [||EN||](https://www.youtube.com/@teritama_en2140)
+- [とりぷる / Tripl3](https://www.youtube.com/@Tripl3jp) [||EN||](https://www.youtube.com/@Tripl3en)
+- [やんのか / Yan_noka](https://www.youtube.com/@yan_noka) [||EN||](https://www.youtube.com/@yan_noka_en/)
 
 <hr>
 

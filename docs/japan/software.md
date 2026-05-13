@@ -216,7 +216,7 @@ feeling lazy. someone pr platform icons for this section.
 | ^^ | [GenkiYoshi](https://github.com/FragozoLeonardo/Genki-Yoshi) | |
 | ^^ | [imajin.py](https://github.com/YonKuma/imajin.py) | |
 | ^^ | [LN Readability](https://colab.research.google.com/github/Gilfaro/ln-recommender/blob/main/LNReadability.ipynb) | |
-| ^^ | [Supermemo](https://super-memory.com/) <Badge type="warning" text="Trialware"/><Badge type="tip" text="Wiki" link="https://www.supermemo.wiki/en/home" /> | |
+| ^^ | [Supermemo](https://super-memory.com/) !||Trialware|| [||Wiki||](https://www.supermemo.wiki/en/home) | |
 
 
 ## OCR

@@ -96,11 +96,11 @@ og:
 ## Cooking
 
 ### Blog
-- [Just One Cookbook](https://www.justonecookbook.com/) <Badge type="info" text="YouTube" link="https://www.youtube.com/@justonecookbook" />
-- [Sirogohan](https://www.sirogohan.com/) <Badge type="info" text="YouTube" link="https://www.youtube.com/@sirogohancom/" />
-- [Cooking with Dog](https://cookingwithdog.com/) <Badge type="info" text="YouTube" link="https://www.youtube.com/@cookingwithdog" />
-- [Japanese Cooking 101](https://www.japanesecooking101.com/) <Badge type="info" text="YouTube" link="https://www.youtube.com/@JapaneseCooking101/" />
-- [RecipeTin Japan](https://japan.recipetineats.com/) <Badge type="info" text="YouTube" link="https://www.youtube.com/@RecipeTinJapan" />
+- [Just One Cookbook](https://www.justonecookbook.com/) [||YouTube||](https://www.youtube.com/@justonecookbook)
+- [Sirogohan](https://www.sirogohan.com/) [||YouTube||](https://www.youtube.com/@sirogohancom/)
+- [Cooking with Dog](https://cookingwithdog.com/) [||YouTube||](https://www.youtube.com/@cookingwithdog)
+- [Japanese Cooking 101](https://www.japanesecooking101.com/) [||YouTube||](https://www.youtube.com/@JapaneseCooking101/)
+- [RecipeTin Japan](https://japan.recipetineats.com/) [||YouTube||](https://www.youtube.com/@RecipeTinJapan)
 - [Kurashiru](https://www.kurashiru.com/)
 - [Chopstick Chronicles](https://www.chopstickchronicles.com/)
 - [Okonomiyaki World](https://okonomiyakiworld.com/index.html)
@@ -133,7 +133,7 @@ og:
 - [Ask Japanese](https://www.youtube.com/@AskJapanese)
 - [Emirichu](https://www.youtube.com/@Emirichu) :s:
 - [Japanalysis](https://www.youtube.com/@Japanalysis) :s:
-- [Japan Eat](https://www.youtube.com/@japaneat) <Badge type="info" text="Map" link="https://japaneat.com/pages/map" />
+- [Japan Eat](https://www.youtube.com/@japaneat) [||Map||](https://japaneat.com/pages/map)
 - [Let's ask Shogo](https://www.youtube.com/@LetsaskShogo)
 - [Life Where I'm From](https://www.youtube.com/@LifeWhereImFrom)
 - [Megan and Ben](https://www.youtube.com/@thehitobito)
@@ -161,7 +161,7 @@ og:
 - [Diggin' in the Carts: Japanese Video Game Music History](https://www.redbull.com/int-en/shows/diggin-in-the-carts)
 - [Pachinko: Japan's Biggest Gaming Obsession Explained](https://www.youtube.com/watch?v=-tBy2jemw4s)
 - [Social problems in Japan](https://www.youtube.com/playlist?list=PLpIWoYf9KNFV_I-719B3pk673xaHZ6fYY)
-- [the peculiar case of japanese web design](https://sabrinas.space/) :s: <Badge type="info" text="Video" link="https://www.youtube.com/watch?v=z6ep308goxQ" />
+- [the peculiar case of japanese web design](https://sabrinas.space/) :s: [||Video||](https://www.youtube.com/watch?v=z6ep308goxQ)
     - [How culture made Japanese Internet design "Weird"](https://www.youtube.com/watch?v=Opy-SjDU0UY)
 - [Understanding the Japanese Writing System](https://www.youtube.com/watch?v=r7a8OjvViwE)
 - [Why Most Japanese Clip Art Looks Like This](https://www.youtube.com/watch?v=g3CyRZY90M4)
