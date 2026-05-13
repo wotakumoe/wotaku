@@ -44,7 +44,7 @@ og:
 | :--- | :--- |
 | Comission | [Art Mug](https://artmug.kr/index.php) :lkr: |
 | ^^ | [Skeb](https://skeb.jp/) :ljp: |
-| ^^ | [Skima](https://wskima.com/) :cjp: |
+| ^^ | [Skima](https://commission.skima.jp/en/) |
 | ^^ | [VGen](https://vgen.co/) |
 | Store | [BOOTH](https://booth.pm/en) :ljp: |
 | ^^ | [Fantia](https://fantia.jp/) :ljp: |
@@ -180,8 +180,8 @@ og:
 | ^^         | [Media Downloader](https://github.com/mhogomchungu/media-downloader) | :win::app::lin: |
 | ^^         | [Pixiv FANBOX Downloader](https://github.com/hareku/fanbox-dl) | :win::app: |
 | ^^         | [PixivUtil2](https://github.com/Nandaka/PixivUtil2) | :win: |
-| **Others** | [Pixiv OAuth Flow `ZipFile`](https://gist.github.com/ZipFile/c9ebedb224406f4f11845ab700124362) :s: | :py: |
-| ^^         | [Pixiv OAuth Flow `upbit`](https://gist.github.com/upbit/6edda27cb1644e94183291109b8a5fde) | :py: |
+| **Others** | [Pixiv OAuth Flow by ZipFile](https://gist.github.com/ZipFile/c9ebedb224406f4f11845ab700124362) :s: | :py: |
+| ^^         | [Pixiv OAuth Flow by upbit](https://gist.github.com/upbit/6edda27cb1644e94183291109b8a5fde) | :py: |
 | ^^         | [get pixivpy token](https://github.com/eggplants/get-pixivpy-token) | :py: |
 
 
