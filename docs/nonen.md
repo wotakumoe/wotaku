@@ -404,7 +404,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 ### Online
 - [Dokiraw](https://dokiraw.tech/)
 - [Free PDF Comic](https://freepdfcomic.eu/)
-- [Gomuraw](https://gomuraw.com/top)
 - [KL Manga](https://old.klz9.com/) [:prx:](https://rentry.org/wotaxy#kl-manga)
 - [MangaFire](https://mangafire.to/home)
 - [MangaKuro](https://mangakuro.net/home)
