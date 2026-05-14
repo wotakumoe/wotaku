@@ -9,7 +9,7 @@ hero:
     title: Extension Repos
     link: /ext/
   image:
-    src: \asset\same.png
+    src: \asset\hero.svg
     alt: Wotaku
 
 aside: left

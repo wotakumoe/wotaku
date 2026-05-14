@@ -187,11 +187,11 @@ export const siteConfig = {
     ['meta', { name: 'theme-color', content: '#56b4fc' }],
     ['meta', { name: 'og:type', content: 'website' }],
     ['meta', { name: 'og:locale', content: 'en' }],
-    ['link', { rel: 'icon', href: '/asset/fav.png' }],
+    ['link', { rel: 'icon', href: '/asset/fav.svg' }],
     // PWA
-    ['link', { rel: 'icon', href: '/asset/fav.png', type: 'image/svg+xml' }],
-    ['link', { rel: 'alternate icon', href: '/asset/fav.png' }],
-    ['link', { rel: 'mask-icon', href: '/asset/fav.png', color: '#56b4fc' }],
+    ['link', { rel: 'icon', href: '/asset/fav.svg', type: 'image/svg+xml' }],
+    ['link', { rel: 'alternate icon', href: '/asset/fav.svg' }],
+    ['link', { rel: 'mask-icon', href: '/asset/fav.svg', color: '#56b4fc' }],
     // prettier-ignore
     [
       'meta',
@@ -205,7 +205,7 @@ export const siteConfig = {
       'link',
       {
         rel: 'apple-touch-icon',
-        href: '/asset/fav.png',
+        href: '/asset/fav.svg',
         sizes: '192x192'
       }
     ]

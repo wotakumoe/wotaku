@@ -197,24 +197,8 @@ $ease-in-expo: cubic-bezier(0.7, 0, 0.84, 0);
     #62cff4,
     #1473e6
   );
-  --vp-home-hero-image-background-image: linear-gradient(
-    -30deg,
-    #62cff4,
-    #9acbec
-  );
-  --vp-home-hero-image-filter: blur(40px);
-}
-
-@media (min-width: 640px) {
-  :root {
-    --vp-home-hero-image-filter: blur(56px);
-  }
-}
-
-@media (min-width: 960px) {
-  :root {
-    --vp-home-hero-image-filter: blur(72px);
-  }
+  --vp-home-hero-image-background-image: none;
+  --vp-home-hero-image-filter: none;
 }
 
 .VPNavBarTitle .title {
@@ -270,10 +254,9 @@ main figure figcaption {
 }
 
 // VitePress v2 probably broke this somewhere idk
-.VPHero .image-src {
-  width: unset !important;
-  height: unset !important;
-  object-fit: contain !important;
+.VPHero .image-container {
+  transform: scale(1.5);
+  transform-origin: center center;
 }
 
 @media (min-width: 1440px) {

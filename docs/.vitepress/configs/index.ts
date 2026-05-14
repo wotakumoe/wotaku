@@ -70,7 +70,7 @@ export const shared: UserConfig<DefaultTheme.Config> = {
       },
       provider: 'local'
     },
-    logo: { src: '/asset/fav.png' },
+    logo: { src: '/asset/fav.svg' },
     sidebar,
     // nav,
     socialLinks: [
