@@ -71,8 +71,11 @@ og:
 | :--- | :--- | :--- |
 | [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) :ddl: | :yes: | :no: |
 | [Atsumaru](https://atsu.moe/) ==Atsumaru== | :yes: | :no: |
+| [Comicland](https://comicland.org/) | :no: | :no: |
 | [Hentai20](https://hentai20.io/) | :no: | :no: |
+| [Heytoon](https://heytoon.net/) | :no: | :no: |
 | [Hiperdex](https://hiperdex.com/) | :yes: | :yes: |
+| [HotComics](https://w1.hotcomics.me/) :free::sub: | :yes: | :no: |
 | [Kagane](https://kagane.org/) :s: ==Kagane== | :yes: | :no: |
 | [Manga District](https://mangadistrict.com/) ==MangaDistrict== | :yes: | :no: |
 | [Manga18](https://manga18.club/) | :no: | :no: |
