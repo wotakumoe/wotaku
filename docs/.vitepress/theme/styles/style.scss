@@ -254,9 +254,10 @@ main figure figcaption {
 }
 
 // VitePress v2 probably broke this somewhere idk
-.VPHero .image-container {
-  transform: scale(1.5);
-  transform-origin: center center;
+.VPHero .image-src {
+  width: unset !important;
+  height: unset !important;
+  object-fit: contain !important;
 }
 
 @media (min-width: 1440px) {
