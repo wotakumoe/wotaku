@@ -81,6 +81,11 @@ export const contribs = {
       site: 'https://github.com/P10Ms'
     },
     {
+      name: 'TubaApollo',
+      avatar: 'https://github.com/TubaApollo.png',
+      site: 'https://github.com/TubaApollo'
+    },
+    {
       name: 'Venlicht',
       avatar: 'https://github.com/RenaraScope.png',
       site: 'https://github.com/RenaraScope'
@@ -103,9 +108,9 @@ export const contribs = {
       site: 'https://github.com/kobayashi90'
     },
     {
-      name: 'TubaApollo',
-      avatar: 'https://github.com/TubaApollo.png',
-      site: 'https://github.com/TubaApollo'
+      name: 'raeji',
+      avatar: 'https://github.com/jijirae.png',
+      site: 'https://raeji.neocities.org/'
     }
   ]
 } satisfies Contributors
