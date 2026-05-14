@@ -1,4 +1,4 @@
-# <img src="/docs/public/asset/inaread.png" width="30px"> Wotaku
+# <img src="/docs/public/asset/fav.svg" width="30px"> Wotaku
 
 An otaku index for everything! Kindly consider giving the repository a ⭐ star. This motivates us to
 enhance the wiki further. Also, don't hesitate to [suggest ideas](#submitting-a-link).
