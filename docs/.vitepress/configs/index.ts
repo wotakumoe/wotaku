@@ -32,7 +32,7 @@ export const shared: UserConfig<DefaultTheme.Config> = {
   ...siteConfig,
   transformHead: async (context) => generateMeta(context, hostname),
   buildEnd: async (context) => {
-    generateImages(context)
+    await generateImages(context)
   },
   markdown: {
     emoji: { defs, shortcuts: aliases },

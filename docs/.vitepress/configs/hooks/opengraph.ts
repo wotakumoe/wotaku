@@ -5,31 +5,18 @@
  *
  *  All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
  */
-import { renderAsync } from '@resvg/resvg-js'
 import { mkdir, readFile, writeFile } from 'node:fs/promises'
 import { dirname, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
+import { type Font, render } from 'takumi-js'
 import { createContentLoader } from 'vitepress'
 import type { ContentData, SiteConfig } from 'vitepress'
-import { type SatoriOptions, satoriVue } from 'x-satori/vue'
 import { excludedFiles } from '../constants'
+import { OgImageTemplate } from './OgImageTemplate'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const __fonts = resolve(__dirname, '../fonts')
-
-export async function generateImages(config: SiteConfig) {
-  const pages = await createContentLoader('**/*.md', {
-    excerpt: true,
-    globOptions: {
-      ignore: [...excludedFiles, 'node_modules', 'dist']
-    }
-  }).load()
-  const template = await readFile(
-    resolve(__dirname, '../../theme/components/OgImageTemplate.vue'),
-    'utf-8'
-  )
-
-  const fonts: SatoriOptions['fonts'] = [
+  const fonts: Font[] = [
     {
       name: 'Inter',
       data: await readFile(resolve(__fonts, 'Inter-Regular.otf')),
@@ -56,12 +43,20 @@ export async function generateImages(config: SiteConfig) {
     }
   ]
 
+
+export async function generateImages(config: SiteConfig) {
+  const pages = await createContentLoader('**/*.md', {
+    excerpt: true,
+    globOptions: {
+      ignore: [...excludedFiles, 'node_modules', 'dist']
+    }
+  }).load()
+
   const filteredPages = pages.filter((p) => p.frontmatter.image === undefined)
 
   for (const page of filteredPages) {
     await generateImage({
       page,
-      template,
       outDir: config.outDir,
       fonts
     })
@@ -70,54 +65,40 @@ export async function generateImages(config: SiteConfig) {
 
 interface GenerateImagesOptions {
   page: ContentData
-  template: string
   outDir: string
-  fonts: SatoriOptions['fonts']
-}
-
-function getDir(url: string) {
-  if (url.startsWith('/glossary/')) {
-    return 'Glossary'
-  } else if (url.startsWith('/guides/')) {
-    return 'Guide'
-  }
-
-  // Means we are at root.
-  return undefined
+  fonts: Font[]
 }
 
 async function generateImage({
   page,
-  template,
   outDir,
   fonts
 }: GenerateImagesOptions) {
   const { frontmatter, url } = page
+  const width = frontmatter.og?.width ?? 1800
+  const height = frontmatter.og?.height ?? 900
+  const title = String(
+    frontmatter.layout === 'home'
+      ? (frontmatter.hero.name ?? frontmatter.title)
+      : (frontmatter.customMetaTitle ?? frontmatter.title)
+  )
+  const image = String(
+    frontmatter.og?.image ?? 'https://i.wotaku.wiki/f/default.png'
+  )
 
-  const options: SatoriOptions = {
-    // Use custom dimensions from frontmatter.og if provided
-    width: frontmatter.og?.width ?? 1800,
-    height: frontmatter.og?.height ?? 900,
-    fonts,
-    props: {
-      title: frontmatter.layout === 'home'
-        ? (frontmatter.hero.name ?? frontmatter.title)
-        : (frontmatter.customMetaTitle ?? frontmatter.title),
-      description: frontmatter.layout === 'home'
-        ? (frontmatter.hero.tagline ?? frontmatter.description)
-        : frontmatter.description,
-      image: frontmatter.og?.image ?? 'https://i.wotaku.wiki/f/default.png'
+  const png = await render(
+    OgImageTemplate({ title, image }),
+    {
+      width,
+      height,
+      fonts
     }
-  }
-
-  const svg = await satoriVue(options, template)
-
-  const render = await renderAsync(svg)
+  )
 
   const outputFolder = resolve(outDir, url.substring(1), '__og_image__')
   const outputFile = resolve(outputFolder, 'og.png')
 
   await mkdir(outputFolder, { recursive: true })
 
-  return await writeFile(outputFile, render.asPng())
+  return await writeFile(outputFile, png)
 }
