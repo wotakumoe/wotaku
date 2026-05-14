@@ -24,7 +24,7 @@ og:
 | [Aria2App](https://github.com/devgianlu/Aria2App) | :yes: | :yes: | :yes: | :yes: |
 | [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) ==Flud== | :no: | :yes: | :no: | Ads, theme limit |
 | [Gopeed](https://gopeed.com/) [:src:](https://github.com/GopeedLab/gopeed) | :yes: | :yes: | :yes: | :yes: |
-| [YTDLnis](https://ytdlnis.org/) [:src:](https://github.com/deniscerri/ytdlnis) | :yes: | :yes: | :yes: | :yes: |
+| [YTDLnis](https://ytdlnis.org/) [:src:](https://github.com/deniscerri/ytdlnis) | :yes: | :no: | :yes: | :yes: |
 
 ### iOS
 
@@ -44,10 +44,10 @@ og:
 | **Local** | [mpvEx](https://github.com/marlboro-advance/mpvEx) :s: [:n:](https://marlboro-advance.github.io/mpvEx/) | :and: |
 | ^^ | ^[MX Player](Don't install the Play Store version as it was bought by Amazon, use Balatan's mod instead.) :s::cs: | :and: |
 | ^^ | [Outplayer](https://apps.apple.com/app/outplayer/id1449923287) :cs: | :ios: |
-| **Online** | [Revanced](https://revanced.app/) [:src:](https://github.com/ReVanced/revanced-manager) | :and: |
-| ^^  | [Morphe](https://morphe.software/) [:src:](https://github.com/MorpheApp/morphe-manager) | :and: |
+| **Online** | [Grayjay](https://grayjay.app/) [:src:](https://gitlab.futo.org/videostreaming/grayjay) | :and: |
 | ^^ | [Libretube](https://libretube.dev/) [:src:](https://github.com/libre-tube/LibreTube) | :and: |
-| ^^ | [Grayjay](https://grayjay.app/) [:src:](https://gitlab.futo.org/videostreaming/grayjay) | :and: |
+| ^^ | [Morphe](https://morphe.software/) [:src:](https://github.com/MorpheApp/morphe-manager) | :and: |
+| ^^ | [Revanced](https://revanced.app/) [:src:](https://github.com/ReVanced/revanced-manager) | :and: |
 | ^^ | [Twire](https://github.com/twireapp/Twire) | :and: |
 
 ## General
