@@ -1,5 +1,4 @@
-// @ts-ignore
-/** @jsx react-jsx */
+/** @jsx react-jsx **/
 
 type OgImageTemplateProps = {
   title: string
