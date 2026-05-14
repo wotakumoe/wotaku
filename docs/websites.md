@@ -194,7 +194,7 @@ outline: 1
 <Block link="/nsfw#pornhwa" icon="i-bi-box-arrow-up-right">Pornhwa focused websites are listed here</Block>
 
 ::: warning README
-Some of the websites here maybe have manga too. But they are indexed here for manhwa / manhua.
+Some sites may include manga, but they are listed here for their manhwa and manhua.
 :::
 
 
