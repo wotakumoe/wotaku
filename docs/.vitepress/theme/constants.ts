@@ -27,6 +27,7 @@ export const SpotlightToggledStorageKey =
 export const SpotlightStylesStorageKey =
   'vitepress-nolebase-enhanced-readabilities-spotlight-styles'
 
+export const LowEndDeviceModeStorageKey = 'preference-low-end-device-mode'
 export const TakodachiStorageKey = 'preference-takodachi'
 
 export enum LayoutMode {

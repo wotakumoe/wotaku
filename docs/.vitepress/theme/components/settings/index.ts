@@ -2,6 +2,7 @@ import type { Plugin } from 'vue'
 
 import type { Options } from '../../types'
 
+import BlurEffects from './BlurEffects.vue'
 import LayoutSwitch from './LayoutSwitch.vue'
 import LayoutSwitchContentLayoutMaxWidthSlider from './LayoutSwitchContentLayoutMaxWidthSlider.vue'
 import LayoutSwitchPageLayoutMaxWidthSlider from './LayoutSwitchPageLayoutMaxWidthSlider.vue'
@@ -16,6 +17,7 @@ import {
   InjectionKey,
   LayoutMode,
   LayoutSwitchModeStorageKey,
+  LowEndDeviceModeStorageKey,
   SpotlightStyle,
   SpotlightToggledStorageKey
 } from '../../constants'
@@ -23,12 +25,14 @@ import {
 export type { Options }
 
 export {
+  BlurEffects,
   InjectionKey,
   LayoutMode,
   LayoutSwitch,
   LayoutSwitchContentLayoutMaxWidthSlider,
   LayoutSwitchModeStorageKey,
   LayoutSwitchPageLayoutMaxWidthSlider,
+  LowEndDeviceModeStorageKey,
   NolebaseEnhancedReadabilitiesMenu,
   NolebaseEnhancedReadabilitiesScreenMenu,
   ScreenLayoutSwitch,
@@ -40,6 +44,7 @@ export {
 }
 
 const components = {
+  NolebaseEnhancedReadabilitiesBlurEffects: BlurEffects,
   NolebaseEnhancedReadabilitiesMenu,
   NolebaseEnhancedReadabilitiesScreenMenu,
   NolebaseEnhancedReadabilitiesLayoutSwitch: LayoutSwitch,

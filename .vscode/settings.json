@@ -1,8 +1,10 @@
 {
-  "vue.server.includeLanguages": ["vue"],
+  "vue.server.includeLanguages": [
+    "vue"
+  ],
   "editor.formatOnSave": true,
   // Default formatter
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.defaultFormatter": "dprint.dprint",
   "[typescript]": {
     "editor.formatOnSave": true
   },

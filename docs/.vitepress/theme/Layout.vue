@@ -14,18 +14,27 @@ import {
 import { usePreferredReducedMotion } from '@vueuse/core'
 import { useData, useRoute } from 'vitepress'
 import type { DefaultTheme as Theme } from 'vitepress'
-import DefaultTheme from 'vitepress/theme'
 import VPSidebarGroup from 'vitepress/dist/client/theme-default/components/VPSidebarGroup.vue'
 import { getSidebarGroups } from 'vitepress/dist/client/theme-default/support/sidebar'
-import { computed, nextTick, onMounted, onUnmounted, ref, watch } from 'vue'
+import DefaultTheme from 'vitepress/theme'
+import {
+  computed,
+  nextTick,
+  onMounted,
+  onUnmounted,
+  ref,
+  watch,
+  watchEffect
+} from 'vue'
 import { sidebar } from '../configs/constants'
 import AnnouncementPill from './components/AnnouncementPill.vue'
 import NotFoundComponent from './components/NotFound.vue'
 import {
-  NolebaseEnhancedReadabilitiesMenu
+  NolebaseEnhancedReadabilitiesMenu,
+  NolebaseEnhancedReadabilitiesScreenMenu
 } from './components/settings'
 import SidebarCard from './components/SidebarCard.vue'
-import { TakodachiStorageKey } from './constants'
+import { LowEndDeviceModeStorageKey, TakodachiStorageKey } from './constants'
 import { v2add, v2mag, v2norm, v2smul, v2sub, type Vec2D } from './math'
 
 const route = useRoute()
@@ -38,7 +47,9 @@ const homeSidebarOpen = ref(false)
 const sidebarRef = ref<HTMLElement | null>(null)
 const homeSidebarGroups = getSidebarGroups(sidebar as any)
 const logoSrc = computed(() =>
-  typeof theme.value.logo === 'string' ? theme.value.logo : theme.value.logo?.src
+  typeof theme.value.logo === 'string'
+    ? theme.value.logo
+    : theme.value.logo?.src
 )
 
 watch(() => route.path, () => {
@@ -72,10 +83,13 @@ const openCollapsibles = (target: HTMLElement) => {
 
       while (sibling) {
         const siblingTag = sibling.tagName
-        if (siblingTag.length === 2 && siblingTag[0] === 'H' && +siblingTag[1] <= level) break
+        if (
+          siblingTag.length === 2 && siblingTag[0] === 'H' &&
+          +siblingTag[1] <= level
+        ) break
 
         if (siblingTag === 'DETAILS') {
-          (sibling as HTMLDetailsElement).open = true
+          ;(sibling as HTMLDetailsElement).open = true
           if (scrollTarget === target) scrollTarget = sibling as HTMLElement
         }
 
@@ -95,8 +109,11 @@ const openCollapsibles = (target: HTMLElement) => {
       const navBar = document.querySelector<HTMLElement>('.VPNavBar')
       const navOffset = navBar ? navBar.offsetHeight : 0
       window.scrollTo({
-        top: scrollTarget.getBoundingClientRect().top + window.scrollY - navOffset,
-        behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth'
+        top: scrollTarget.getBoundingClientRect().top + window.scrollY -
+          navOffset,
+        behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches
+          ? 'auto'
+          : 'smooth'
       })
       scrollTarget.setAttribute('tabindex', '-1')
       scrollTarget.focus({ preventScroll: true })
@@ -127,7 +144,7 @@ const tryOpenCollapsibles = async () => {
 
 watch(() => route.data, tryOpenCollapsibles, { flush: 'post' })
 watch(() => route.hash, tryOpenCollapsibles, { flush: 'post' })
-  
+
 function onSidebarEnter() {
   sidebarRef.value?.focus()
 }
@@ -177,6 +194,17 @@ const breadcrumbs = computed(() => {
 
 // Respect user's reduced motion preferences
 const prefs = usePreferredReducedMotion()
+const lowEndDeviceMode = useStorage(LowEndDeviceModeStorageKey, 'off')
+const reduceBlurEffects = computed(() => lowEndDeviceMode.value === 'on')
+
+watchEffect(() => {
+  if (import.meta.env.SSR) return
+
+  document.documentElement.classList.toggle(
+    'reduce-blur-effects',
+    reduceBlurEffects.value
+  )
+})
 
 const speed = 2
 const snapThreshold = 5 // px
@@ -285,7 +313,9 @@ onMounted(() => {
   }
 
   useEventListener(document, 'keydown', (e: KeyboardEvent) => {
-    if (e.key !== 'ArrowDown' && e.key !== 'ArrowUp' && e.key !== 'Escape') return
+    if (e.key !== 'ArrowDown' && e.key !== 'ArrowUp' && e.key !== 'Escape') {
+      return
+    }
 
     if (e.key === 'Escape') {
       if (homeSidebarOpen.value) homeSidebarOpen.value = false
@@ -312,7 +342,9 @@ onMounted(() => {
     const screen = document.getElementById('VPNavScreen')
     if (!screen) return
     const hamburger = document.querySelector('.VPNavBarHamburger')
-    if (screen.contains(e.target as Node) || hamburger?.contains(e.target as Node)) return
+    if (
+      screen.contains(e.target as Node) || hamburger?.contains(e.target as Node)
+    ) return
     requestAnimationFrame(() => (hamburger as HTMLElement)?.click())
   })
 
@@ -367,7 +399,12 @@ onUnmounted(() => {
           >
             <div class="home-sidebar-header">
               <a href="/" class="home-sidebar-logo">
-                <img v-if="logoSrc" :src="logoSrc" class="home-sidebar-logo-img" alt="Logo" />
+                <img
+                  v-if="logoSrc"
+                  :src="logoSrc"
+                  class="home-sidebar-logo-img"
+                  alt="Logo"
+                />
                 <span>{{ theme.siteTitle ?? site.title }}</span>
               </a>
             </div>
@@ -432,7 +469,9 @@ onUnmounted(() => {
         <VPSidebarGroup :items="homeSidebarGroups" />
       </nav>
     </template>
-    <template #nav-screen-content-after />
+    <template #nav-screen-content-after>
+      <NolebaseEnhancedReadabilitiesScreenMenu />
+    </template>
 
     <template #nav-bar-title-before>
       <span

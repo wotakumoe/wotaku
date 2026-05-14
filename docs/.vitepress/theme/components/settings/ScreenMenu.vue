@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { useMounted } from '@vueuse/core'
 
+import BlurEffects from './BlurEffects.vue'
 import MenuTitle from './MenuTitle.vue'
 import ScreenLayoutSwitch from './ScreenLayoutSwitch.vue'
 import ScreenSpotlight from './ScreenSpotlight.vue'
@@ -18,6 +19,7 @@ const mounted = useMounted()
     <div flex="~ col" pl-4 space-y-2>
       <ScreenLayoutSwitch />
       <ScreenSpotlight />
+      <BlurEffects />
     </div>
   </div>
 </template>

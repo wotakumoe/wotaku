@@ -3,6 +3,7 @@ import { useMounted } from '@vueuse/core'
 import { inject } from 'vue'
 
 import { InjectionKey, VPFlyout } from '../../constants'
+import BlurEffects from './BlurEffects.vue'
 import LayoutSwitch from './LayoutSwitch.vue'
 import LayoutSwitchContentLayoutWidthInput from './LayoutSwitchContentLayoutMaxWidthSlider.vue'
 import LayoutSwitchPageLayoutWidthInput from './LayoutSwitchPageLayoutMaxWidthSlider.vue'
@@ -31,6 +32,7 @@ const mounted = useMounted()
       <LayoutSwitchContentLayoutWidthInput />
       <Spotlight v-if="!options.spotlight?.disabled" />
       <SpotlightStyles v-if="!options.spotlight?.disabled" />
+      <BlurEffects />
       <Takodachi />
     </div>
   </VPFlyout>
