@@ -177,8 +177,26 @@ outline: 1
 | [Mangahub](https://mangahub.io/) :acc: | :msync: | :ss: | :ls: | :cmnt: |
 | [Manga Fox](https://mangafox.la/) [:prx:](https://rentry.org/wotaxy#manga-fox) | :msync: | :ss: | :sp::ls:  | :cmnt: |
 | [MangaKakalot](https://www.mangakakalot.fan/) [:prx:](https://rentry.org/wotaxy#mangakakalot) | :msync: | :ss: | :ls: | :cmnt: |
+
+
+### Manwha and Manhua
+| Websites | Tracking | Sources | Reading mode | Social |
+|----------|----------|---------|--------------|--------|
+| [24hNovel](https://24hnovel.com/) | :no: | :ss: | :ls: | :no: |
+| [King of Shojo](https://kingofshojo.com/) | :no: | :ss: | :ls: | :no: |
 | [Like Manga](https://likemanga.ink/) | :msync: | :ss: | :ls: | :cmnt: |
-| [24hNovel](https://24hnovel.com/) ||Manhua|| | :no: | :ss: | :ls: | :no: |
+| [ManhuaFast](https://manhuafast.com/) | :msync: | :ss: | :sp::ls: | :cmnt: |
+| [Manhwa Clan](https://manhwaclan.com/) | :no: | :ss: | :sp::ls: | :cmnt: |
+| [ManhwTOP](https://manhwatop.com/) | :no: | :ss: | :sp::ls: | :cmnt: |
+| [ManhwaZone](https://manhwazone.com/explore) | :no: | :ss: | :ls: | :no: |
+| [TopManhua](https://manhuatop.org/) | :msync: | :ss: | :sp::ls: | :cmnt: |
+
+<Block link="/nsfw#pornhwa" icon="i-bi-box-arrow-up-right">Pornhwa focused websites are listed here</Block>
+
+::: warning README
+Some of the websites here maybe have manga too. But they are indexed here for manhwa / manhua.
+:::
+
 
 ### Scrapers
 | Websites | Tracking | Sources | Reading mode | Social |
