@@ -67,25 +67,23 @@ og:
 
 ## Pornhwa
 
-### Aggregator
-- [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) :ddl:
-- [Atsumaru](https://atsu.moe/) ==Atsumaru==
-- [Doujindesu](https://doujindesu.tv/) :ljp::lkr:
-- [Hentai20](https://hentai20.io/)
-- [Hiperdex](https://hiperdex.com/)
-- [Kagane](https://kagane.org/) :s: ==Kagane==
-- [Manga District](https://mangadistrict.com/) ==MangaDistrict==
-- [Manhwa18](http://manhwa18.com/)
-- [Manhwa-raw](https://manhwa-raw.com/) +:lkr:
-- [ManhwaRead](https://manhwaread.com/)
-- [Oppai](https://read.oppai.stream/) ==Oppai==
-- [RawDEX](https://rawdex.net/) :lkr:
-- [Toonily](https://toonily.com/)
-- [Webtoon](https://www.webtoon.xyz/)
+| Websites | General | Raw |
+| :--- | :--- | :--- |
+| [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) :ddl: | :yes: | :no: |
+| [Atsumaru](https://atsu.moe/) ==Atsumaru== | :yes: | :no: |
+| [Hentai20](https://hentai20.io/) | :no: | :no: |
+| [Hiperdex](https://hiperdex.com/) | :yes: | :yes: |
+| [Kagane](https://kagane.org/) :s: ==Kagane== | :yes: | :no: |
+| [Manga District](https://mangadistrict.com/) ==MangaDistrict== | :yes: | :no: |
+| [Manga18](https://manga18.club/) | :no: | :no: |
+| [Manga18fx](https://manga18fx.com/) | :yes: | :yes: |
+| [ManhwaRead](https://manhwaread.com/) | :yes: | :no: |
+| [Omega Scans](https://omegascans.org/) :sub: ||SCAN|| | :no: | :no: |
+| [RawDEX](https://rawdex.net/) :lkr: | :no: | :yes: |
+| [The Blank](https://theblank.net/) :sub: ||SCAN|| | :no: | :no: |
+| [Toonitube](https://toonitube.com/) | :no: | :yes: |
+| [Toonily](https://toonily.com/) | :yes: | :no: |
 
-### Scanlators
-- [The Blank](https://theblank.net/) :sub:
-- [Omega Scans](https://omegascans.org/) :sub:
 
 ## Illustrations
 
