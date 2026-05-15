@@ -99,6 +99,7 @@ og:
 - [Konachan](https://konachan.com/) [||SFW||](https://konachan.net/)
 - [Mikubooru](https://booru.funmaker.moe/) [:src:](https://github.com/funmaker/hybooru) ||SFW||
 - [Safebooru](https://safebooru.org/) ||SFW||
+- [SerikaBooru](https://serika.art/)
 - [yande.re](https://yande.re/)
 - [Yumebooru](https://yumeboo.ru/) ||SFW||
 - [Zerochan](https://www.zerochan.net/?p=1) ||SFW||
