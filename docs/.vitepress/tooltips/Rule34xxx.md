@@ -1,4 +1,0 @@
-- Boasts a larger content library compared to Paheal.
-- Features an extensive tagging system, allowing searches based on descriptions or depicted acts.
-- Allows larger file uploads, up to 100MB.
-- Searching is more user-friendly compared to Paheal.

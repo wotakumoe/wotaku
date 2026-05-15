@@ -99,7 +99,6 @@ og:
 - [Nozomi](https://nozomi.la/)
 - [Oreno3D](https://oreno3d.com/)
 - [Pixiv](https://www.pixiv.net)
-- [Rule34.xxx](https://rule34.xxx/) ==Rule34xxx==
 - [Rule 34 Paheal](https://rule34.paheal.net/) ==Rule34Paheal==
 - [yande.re](https://yande.re/)
 
@@ -250,7 +249,6 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 ### Discord servers
 - [:d: Hanako's Hideout](https://discord.gg/jVvSbYB)
 - [:d: Hanime.tv Community](https://discord.gg/hanime-tv)
-- [:d: Rule34.xxx](https://discord.gg/rule34xxx)
 - [:d: Tsumino](https://discord.gg/v6RfNfA7WW)
 
 ### Boards

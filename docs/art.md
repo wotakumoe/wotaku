@@ -92,8 +92,8 @@ og:
 </Collapsible>
 
 ## Booru
-- [Danbooru](https://danbooru.donmai.us/) :s:
-- [Donmai](https://donmai.moe/) ||SFW||
+- [Danbooru](https://danbooru.donmai.us/) :s: [:src:](https://github.com/danbooru/danbooru) [||SFW||](https://safebooru.donmai.us/)
+- [Donmai](https://donmai.moe/) ||SFW|| ==Donmai==
 - [E-ShuuShuu](https://e-shuushuu.net/) ||SFW||
 - [Gelbooru](https://gelbooru.com/) :s:
 - [Konachan.com](https://konachan.com/)
