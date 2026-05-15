@@ -29,7 +29,6 @@ og:
 - [The Shogunate](https://www.youtube.com/@TheShogunate/)
 
 
-
 ## Mythology
 
 ### Websites
@@ -89,18 +88,17 @@ og:
 - [Tokyojin](https://tokyojin.info/)
 - [Souda Kyoto](https://souda-kyoto.jp/index.html)
 - [Kyoto Travel](https://kyototravel.info/)
-- [Hokkaido Guide](https://hokkaidoguide.com/) ||English||
-
+- [Hokkaido Guide](https://hokkaidoguide.com/) ||EN||
 
 
 ## Cooking
 
 ### Blog
-- [Just One Cookbook](https://www.justonecookbook.com/) [||YouTube||](https://www.youtube.com/@justonecookbook)
-- [Sirogohan](https://www.sirogohan.com/) [||YouTube||](https://www.youtube.com/@sirogohancom/)
-- [Cooking with Dog](https://cookingwithdog.com/) [||YouTube||](https://www.youtube.com/@cookingwithdog)
-- [Japanese Cooking 101](https://www.japanesecooking101.com/) [||YouTube||](https://www.youtube.com/@JapaneseCooking101/)
-- [RecipeTin Japan](https://japan.recipetineats.com/) [||YouTube||](https://www.youtube.com/@RecipeTinJapan)
+- [Just One Cookbook](https://www.justonecookbook.com/) [||YT||](https://www.youtube.com/@justonecookbook)
+- [Sirogohan](https://www.sirogohan.com/) [||YT||](https://www.youtube.com/@sirogohancom/)
+- [Cooking with Dog](https://cookingwithdog.com/) [||YT||](https://www.youtube.com/@cookingwithdog)
+- [Japanese Cooking 101](https://www.japanesecooking101.com/) [||YT||](https://www.youtube.com/@JapaneseCooking101/)
+- [RecipeTin Japan](https://japan.recipetineats.com/) [||YT||](https://www.youtube.com/@RecipeTinJapan)
 - [Kurashiru](https://www.kurashiru.com/)
 - [Chopstick Chronicles](https://www.chopstickchronicles.com/)
 - [Okonomiyaki World](https://okonomiyakiworld.com/index.html)
@@ -122,7 +120,6 @@ og:
 - [Japanese Farm Food](https://www.amazon.com/dp/1449418295)
 - [The Japanese Kitchen: 250 Recipes in a Traditional Spirit](https://www.amazon.com/dp/1558321772)
 - [My Japanese Table: A Lifetime of Cooking with Friends and Family](https://www.amazon.com/dp/4805311185)
-
 
 
 ## YouTube
@@ -161,7 +158,7 @@ og:
 - [Diggin' in the Carts: Japanese Video Game Music History](https://www.redbull.com/int-en/shows/diggin-in-the-carts)
 - [Pachinko: Japan's Biggest Gaming Obsession Explained](https://www.youtube.com/watch?v=-tBy2jemw4s)
 - [Social problems in Japan](https://www.youtube.com/playlist?list=PLpIWoYf9KNFV_I-719B3pk673xaHZ6fYY)
-- [the peculiar case of japanese web design](https://sabrinas.space/) :s: [||Video||](https://www.youtube.com/watch?v=z6ep308goxQ)
+- [the peculiar case of japanese web design](https://sabrinas.space/) :s: [||YT||](https://www.youtube.com/watch?v=z6ep308goxQ)
     - [How culture made Japanese Internet design "Weird"](https://www.youtube.com/watch?v=Opy-SjDU0UY)
 - [Understanding the Japanese Writing System](https://www.youtube.com/watch?v=r7a8OjvViwE)
 - [Why Most Japanese Clip Art Looks Like This](https://www.youtube.com/watch?v=g3CyRZY90M4)
