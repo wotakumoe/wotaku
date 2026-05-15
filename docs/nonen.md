@@ -115,7 +115,6 @@ Most apps in [**software**](/software) supports multilingual sources
 | Category | Website |
 | :--- | :--- |
 | **Stream** | [AGE](https://www.agedm.io/) [:prx:](https://github.com/agefanscom/website) |
-| ^^ | [Bimibimi](https://www.bimiacg14.net/) [:prx:](https://www.bimiacg.icu/) |
 | ^^ | [MoMoVod](https://momovod.app/show/30.html) |
 | ^^ | [XG Cartoon](https://www.xgcartoon.com/) |
 | ^^ | [Yinghuacd](https://www.yinhuadm.cc/) [:prx:](http://yinhuadm.one/) |
