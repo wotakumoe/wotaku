@@ -11,26 +11,42 @@ outline: [1,2]
 
 ## General
 - [AniList](https://anilist.co/) :s:
-- [MyAnimeList](https://myanimelist.net/) :s:
+- [MyAnimeList](https://myanimelist.net/)
 - [MangaBaka](https://mangabaka.org/) :s:
-- [aniSearch](https://www.anisearch.com/)
+- [Wikipedia](https://www.wikipedia.org/) :s:
+
+<collapsible title="More">
+
+- [Anime News Network](https://www.animenewsnetwork.com/)
 - [Anime Planet](https://www.anime-planet.com/)
+- [aniSearch](https://www.anisearch.com/)
+- [Bookmeter](https://bookmeter.com/) :ljp:
 - [Kitsu](https://kitsu.app/explore/anime)
 - [Kurozora](https://kurozora.app/)
-- [Wikipedia](https://www.wikipedia.org/) :s:
+- [NamuWiki](https://namu.wiki/) :lkr:
 - [Sakuhin Database](https://sakuhindb.com/) :ljp:
 
-<ScrapeTable :sites="[
+</collapsible>
+
+<ScrapeTable corner-label="Topics" :sites="[
   { name: 'AniList', scrapes: { 'Anime': '', 'Manga': '', 'Novels': '' } },
-  { name: 'MyAnimeList', scrapes: { 'Anime': '', 'Manga': '', 'Novels': '' } },
-  { name: 'MangaBaka', scrapes: { 'Manga': '', 'Novels': '' } },
-  { name: 'aniSearch', scrapes: { 'Anime': '', 'Manga': '', 'Novels': '', 'Live Action': '', 'Tokusatsu': '' } },
   { name: 'Anime Planet', scrapes: { 'Anime': '', 'Manga': '' } },
+  { name: 'aniSearch', scrapes: { 'Anime': '', 'Manga': '', 'Novels': '', 'Live Action': '', 'Tokusatsu': '' } },
+  { name: 'ANN', scrapes: { 'Anime': '', 'Manga': ''} },
+  { name: 'Bookmeter', scrapes: { 'Manga': '', 'Novels': '' } },
   { name: 'Kitsu', scrapes: { 'Anime': '', 'Manga': '' } },
   { name: 'Kurozora', scrapes: { 'Anime': '', 'Manga': '', 'Games': '' } },
-  { name: 'Wikipedia', scrapes: { 'Anime': '', 'Manga': '', 'Novels': '', 'Games': '', 'Live Action': '', 'Tokusatsu': '' } },
-  { name: 'Sakuhin Database', scrapes: { 'Anime': '', 'Manga': '', 'Novels': '', 'Games': '', 'Live Action': '', 'Tokusatsu': '' } }
+  { name: 'MangaBaka', scrapes: { 'Manga': '', 'Novels': '' } },
+  { name: 'MyAnimeList', scrapes: { 'Anime': '', 'Manga': '', 'Novels': '' } },
+  { name: 'NamuWiki', scrapes: { 'Anime': '', 'Manga': '', 'Novels': '', 'Games': '', 'Live Action': '', 'Tokusatsu': '' } },
+  { name: 'Sakuhin Database', scrapes: { 'Anime': '', 'Manga': '', 'Novels': '', 'Games': '', 'Live Action': '', 'Tokusatsu': '' } },
+  { name: 'Wikipedia', scrapes: { 'Anime': '', 'Manga': '', 'Novels': '', 'Games': '', 'Live Action': '', 'Tokusatsu': '' } }
 ]" />
+
+::: tip README
+- **Novels**: All the types of novels (LN, WN etc.) are grouped in one category.
+- **Live-Action**: General movies & tv series are merged as Live-Action. Tokusatsu is kept as independent since it is a special sub-genre.
+:::
 
 <Collapsible title="The More You Know">
 
@@ -59,11 +75,9 @@ outline: [1,2]
 | ^^           | AniList      | Only adds Japanese light novels from reputed publishers. |
 | ^^           | ^^           | If explicitly labeled as Light Novel by publishers or retailers. |
 
-
-
 </Collapsible>
 
-::: tip Tracker related utility sites
+::: info Tracker related utility sites
 Visit the [**tracker utility**](#tracker) section for tracker stats and data transfer between sites.
 :::
 
@@ -89,7 +103,6 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 - [MangaUpdates](https://www.mangaupdates.com/) :s:
 - [Manba](https://manba.co.jp/) :s::ljp:
 - [Manga Properties](https://manga.properties/)
-- [Bookmeter](https://bookmeter.com/) :ljp:
 
 <Collapsible title="More">
 
@@ -105,7 +118,6 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 - [Novel Updates](https://www.novelupdates.com/) :s:
 - [RanobeDB](https://ranobedb.org/) :s: [:src:](https://github.com/Blastose/ranobedb)
 - [Ranobe Mori](https://ranobe-mori.net/) :ljp:
-- [Bookmeter](https://bookmeter.com/) :ljp:
 - [Goodreads](https://www.goodreads.com/)
 
 ## Production
