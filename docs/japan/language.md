@@ -17,6 +17,7 @@ og:
 - [Refold Japanese](https://refold.la/roadmap/)
 - :prev: [Google docs version](https://docs.google.com/document/d/1tQmoGwCJQqmjdmaQdigAG0Ph1ODSMsGhsD7qOhlUuc0/edit)
 - [Jo-Mako's Japanese Guide](https://sites.google.com/view/jo-mako/home)
+- [VN Club](https://vnclub.org/)
 - [Perdition's Guide](https://perdition-japanese.github.io/posts/how-to-study-japanese/)
 - [A Year to Learn Japanese](https://docs.google.com/document/d/10bRzVblKVOsQJjTc2PIi1Gbj_LrsJCkMkh0SutXCZdI/edit)
 - [Japanese with Anime](https://www.japanesewithanime.com/)

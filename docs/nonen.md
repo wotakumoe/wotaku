@@ -137,7 +137,7 @@ Most apps in [**software**](/software) supports multilingual sources
 - [Baozimh.com](https://www.baozimh.com/)
 - [Baozimh.org](https://baozimh.org/)
 - [Colamanga](https://www.colamanga.com/)
-- [Copymanga](https://www.copy20.com/) [:alt:](https://www.2025copy.com/) :ero:
+- [Copymanga](https://www.copy20.com/) :ero: [:alt:](https://www.2025copy.com/)
 - [Komiic](https://komiic.com/) :ero:
 - [Manga Reader](https://1zumii.github.io/manga-reader/#/) [:src:](https://github.com/1zumii/manga-reader)
 - [Manhua Gui](https://www.manhuagui.com/)
@@ -470,7 +470,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 |-|-|
 | **Community** | [Annict](https://annict.com/) |
 | **Novels** | [EPUB.moe](https://epub.moe/) |
-| **Tracker** | [EroGamescape](https://erogamescape.org/) [:help:](https://www.youtube.com/watch?v=oPIWgXDllzQ) |
 
 
 ## Korean

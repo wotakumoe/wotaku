@@ -93,7 +93,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 
 <Collapsible title="More">
 
-- [Chill Chill](https://www.chil-chil.net/) :ero::ljp:
+- [Chill Chill](https://www.chil-chil.net/) :ljp::ero:
 - [Comic Bibliographic and Cover Archives](http://www.eshita.jp/comics/index.html) :ljp:
 - [Comic Vine](https://comicvine.gamespot.com/)
 - [Kazamkase Comic Database](https://kazemakase.wjg.jp/comics/) :ljp:
@@ -132,6 +132,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^      | [TV Drama Database](http://www.tvdrama-db.com/) :ljp: |
 | Games / VN | [VNDB](https://vndb.org/) :s: |
 | ^^      | [Nepchan](https://nepchan.org/) |
+| ^^      | [EroGamescape](https://erogamescape.org/) :ljp::ero: [:alt:](https://erogamescape.dyndns.org/) [:help:](https://www.youtube.com/watch?v=oPIWgXDllzQ) |
 
 <Collapsible title="Related resources">
 

@@ -172,9 +172,10 @@ og:
 - [ASB Auto Subs](https://github.com/GodPepe7/asb-auto-subs) :ff::cr:<tooltip>Jimaku subs in anime sites</tooltip>
 - [Japanese.io](https://www.japanese.io/) :cr:<tooltip>Pop-up dictionary</tooltip>
 - [jimaku player](https://github.com/sheodox/jimaku-player) :js:<tooltip>Custom subs for CR</tooltip>
+- [JPDB Web Reader](https://github.com/max-kamps/jpd-breader) :ff::cr:
 - [Language Reactor](https://www.languagereactor.com/) :cr::fm::sub:<tooltip>Pop-up dictionary & immersion helper</tooltip>
 - [mirigana](https://github.com/mirigana/mirigana) :ff::cr:<tooltip>Insert furigana on Twitter</tooltip>
-- [JPDB Web Reader](https://github.com/max-kamps/jpd-breader) :ff::cr:
+- [NihongoTube](https://nihongotube.app/) :ff::cr:
 - [Rikaikun](https://github.com/melink14/rikaikun) :cr:<tooltip>Pop-up dictionary</tooltip>
 - [Subadub](https://github.com/rsimmons/subadub) :ff::cr:<tooltip>Netflix subs tool w/ pop-up dictionary</tooltip>
 
