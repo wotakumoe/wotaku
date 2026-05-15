@@ -21,15 +21,15 @@ outline: [1,2]
 - [Sakuhin Database](https://sakuhindb.com/) :ljp:
 
 <ScrapeTable :sites="[
-  { name: 'AniList', scrapes: { 'Anime': '', 'Manga': '', 'Novel': '' } },
-  { name: 'MyAnimeList', scrapes: { 'Anime': '', 'Manga': '', 'Novel': '' } },
-  { name: 'MangaBaka', scrapes: { 'Manga': '', 'Novel': '' } },
-  { name: 'aniSearch', scrapes: { 'Anime': '', 'Manga': '', 'Novel': '', 'Live Action': '', 'Tokusatsu': '' } },
+  { name: 'AniList', scrapes: { 'Anime': '', 'Manga': '', 'Novels': '' } },
+  { name: 'MyAnimeList', scrapes: { 'Anime': '', 'Manga': '', 'Novels': '' } },
+  { name: 'MangaBaka', scrapes: { 'Manga': '', 'Novels': '' } },
+  { name: 'aniSearch', scrapes: { 'Anime': '', 'Manga': '', 'Novels': '', 'Live Action': '', 'Tokusatsu': '' } },
   { name: 'Anime Planet', scrapes: { 'Anime': '', 'Manga': '' } },
   { name: 'Kitsu', scrapes: { 'Anime': '', 'Manga': '' } },
   { name: 'Kurozora', scrapes: { 'Anime': '', 'Manga': '', 'Games': '' } },
-  { name: 'Wikipedia', scrapes: { 'Anime': '', 'Manga': '', 'Novel': '', 'Games': '', 'Live Action': '', 'Tokusatsu': '' } },
-  { name: 'Sakuhin Database', scrapes: { 'Anime': '', 'Manga': '', 'Novel': '', 'Games': '', 'Live Action': '', 'Tokusatsu': '' } }
+  { name: 'Wikipedia', scrapes: { 'Anime': '', 'Manga': '', 'Novels': '', 'Games': '', 'Live Action': '', 'Tokusatsu': '' } },
+  { name: 'Sakuhin Database', scrapes: { 'Anime': '', 'Manga': '', 'Novels': '', 'Games': '', 'Live Action': '', 'Tokusatsu': '' } }
 ]" />
 
 <Collapsible title="The More You Know">

@@ -101,6 +101,7 @@ og:
 - [Mikubooru](https://booru.funmaker.moe/) [:src:](https://github.com/funmaker/hybooru) ||SFW||
 - [Safebooru](https://safebooru.org/) ||SFW||
 - [yande.re](https://yande.re/)
+- [Yumebooru](https://yumeboo.ru/) ||SFW||
 - [Zerochan](https://www.zerochan.net/?p=1) ||SFW||
 
 ## Front-end / Utility
