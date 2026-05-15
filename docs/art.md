@@ -96,8 +96,7 @@ og:
 - [Donmai](https://donmai.moe/) ||SFW|| ==Donmai==
 - [E-ShuuShuu](https://e-shuushuu.net/) ||SFW||
 - [Gelbooru](https://gelbooru.com/) :s:
-- [Konachan.com](https://konachan.com/)
-- [Konachan.net](https://konachan.net/) ||SFW||
+- [Konachan](https://konachan.com/) [||SFW||](https://konachan.net/)
 - [Mikubooru](https://booru.funmaker.moe/) [:src:](https://github.com/funmaker/hybooru) ||SFW||
 - [Safebooru](https://safebooru.org/) ||SFW||
 - [yande.re](https://yande.re/)
