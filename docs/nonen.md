@@ -452,7 +452,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | [Book Share ZIP](https://bszip.com/) | :yes: | :yes: | :yes: |
 | [Comic77](https://comic77.com/) | :yes: | :no: | :no: |
 | [DL-Raw](https://dl-raw.se/) | :yes: | :yes: | :yes: |
-| [DLRaw.net](https://dlraw.net/category/raw-manga/) [:prx:](https://rentry.org/wotaxy#dlraw) | :yes: | :yes: | :yes: |
+| [DLRaw.net](https://dlraw.cc/category/raw-manga/) [:prx:](https://rentry.org/wotaxy#dlraw) | :yes: | :yes: | :yes: |
 | [DL-Zip](https://dl-zip.com/) | :yes: | :yes: | :yes: |
 | [JPFiles](https://jpfiles.net/) | :yes: | :yes: | :yes: |
 | [Manga Zone](http://www.manga-zone.org/) | :yes: | :no: | :yes: |
