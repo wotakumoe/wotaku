@@ -121,7 +121,10 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 Websites may contain adult content, partner with adult sites, or feature adult-themed first-party ads.
 :::
 
-#### General
+::: tabs
+
+== General
+
 - [Amazon](https://www.amazon.com/)
 - [AmiAmi](https://www.amiami.com)
 - [animate](https://www.animate-onlineshop.jp/)
@@ -135,8 +138,9 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Play-Asia](https://www.play-asia.com/)
 - [VIZ Shop](https://shop.viz.com/) ||SFW||
 - [YESASIA](https://www.yesasia.com/global/en/home.html)
-___
-#### Figures / Merch
+
+== Figures / Merch
+
 - [ABYstyle](https://www.abystyle.com/en/) ||SFW||
 - [BigBadToyStore](https://www.bigbadtoystore.com/)
 - [Big in Japan](https://biginjap.com/)
@@ -149,20 +153,22 @@ ___
 - [Nin-Nin Game](https://www.nin-nin-game.com/en/)
 - [Otaku Mode](https://otakumode.com/) ||SFW||
 - [Show.Z Store](https://showzstore.com/)
-___
-#### Manga
+
+== Manga
+
 - [Barnes & Noble](https://www.barnesandnoble.com/)
 - [honto](https://honto.jp/)
 - [Mangaoh](https://www.mangaoh.co.jp/)
 - [Waterstones](https://www.waterstones.com/)
-___
-#### Digital Music
+
+== Digital Music
+
 - [Bandcamp](https://bandcamp.com/)
 - [Mora](https://mora.jp/)
 - [Ototoy](https://ototoy.jp/)
 - [Qobuz](https://www.qobuz.com/us-en/shop)
 - [Recochoku](https://recochoku.jp/)
-
+:::
 
 
 ## Agents
