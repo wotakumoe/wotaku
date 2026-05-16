@@ -1,3 +1,2 @@
 - Good library overall, but missing some older titles.
 - Can request titles in their support server.
-- Ads up the ass.

@@ -1,4 +1,5 @@
-- Uploads chapters from multiple sources
-- Pretty decent library size
-- UI is somewhat janky
-- Aggregation and tagging has worsened with time
+- Entirely vibecoded, so you may encounter dumbass bugs.
+- Uploads chapters from multiple sources.
+- Pretty decent library size.
+- UI is somewhat janky.
+- Aggregation and tagging has worsened with time.
