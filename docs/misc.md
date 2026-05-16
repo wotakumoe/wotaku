@@ -451,6 +451,7 @@ Only use this if you know what you're getting yourselves into. Recommended board
 | Others    | [Animerdle](https://www.animerdle.com/) |
 | ^^        | [Rule34dle](https://rule34dle.vercel.app/) |
 
+
 ### Miscellaneous
 - [AIDN](https://aidn.jp/contents/)
 - [AniAnimals.moe](https://www.anianimals.moe/)
@@ -464,3 +465,29 @@ Only use this if you know what you're getting yourselves into. Recommended board
 - [TV Tropes](https://tvtropes.org/)
 - [Vagabond Hiatus Chart](https://vagabond-hiatus-chart.vercel.app/) :ded: [:src:](https://github.com/falsepopsky/vagabond-hiatus-chart)
 - [Wired Sound For Wired People](https://fauux.neocities.org/)
+
+
+## Scanlation
+
+| Category | Websites |
+|-|-|
+| **SFX** | [Jaded Network's SFX library](http://thejadednetwork.com/sfx/)
+| ^^  | [Japanese Onomatopoeia Search](https://nsk.sh/tools/jp-onomatopoeia/)
+| ^^  | [Japanese SFX](https://gist.github.com/UserUnknownFactor/093a2296c5a4d9ef7b404728ebde94a3)
+| **Resources** | [Scanner Usage School](https://discord.gg/NCzxVB9) :d:
+| ^^        | [Quick Sand Scans](https://quicksandscans.wordpress.com/resources/)
+| ^^        | [Inside Scanlation](https://www.insidescanlation.com/backgrounds/)
+| **Fonts** | [Manga Fonts Dictionary](https://mangafonts.carrd.co/)
+| ^^    | [Font Spring](https://www.fontspring.com/matcherator)
+| ^^    | [Font Squirrel](https://www.fontsquirrel.com/matcherator)
+| ^^    | [MyFonts](https://www.myfonts.com/pages/whatthefont)
+| ^^    | [WhatFontIs](https://www.whatfontis.com/)
+
+<collapsible title="Related resources">
+
+- [Rusty Smart Stitch](https://github.com/kevinmartz/Rusty-Smart-Stitch)
+- [SmartStitch](https://github.com/MechTechnology/SmartStitch)
+- [TypeR](https://typer.hayasaku.fr/) [:src:](https://github.com/ScanR/TypeR)
+- [Panel Cleaner](https://github.com/VoxelCubes/PanelCleaner)
+
+</collapsible>
