@@ -47,7 +47,6 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **藤ちょこ (Fujichoco)** | [Hatsune Miku “Magical Mirai 2020” Osaka](https://magicalmirai.com/2020/osaka/) | [Audio glossary banner](/glossary/audio#japanese-music-genres) |
 | **Huu** | [Rem](https://www.pixiv.net/en/artworks/79939625) | [Music banner](/music#radio) |
 | **あきふゆはるか (Ibushi Roun)** | [Reimu vs Patchouli](https://www.pixiv.net/en/artworks/109967460) | Game link embed |
-| **幾田 (Ikuta)** | [Copy](https://x.com/ikuta41/status/1733423740644684243/) | Scanlation link embed |
 | **J.C.Staff** | [Taiga Aisaka](https://yande.re/post/show/46578) | [Music banner](/music#pc) |
 | **Kazuki Takahashi** | [Yami Yugi](https://www.zerochan.net/7739) | [Manga banner](/websites#manga) |
 | **konijnsate** | [Moiré vs Non-Moiré Pattern Comparison](https://tips.clip-studio.com/en-us/articles/3489) | [Manga glossary example](/glossary/manga#artist-side) |
@@ -95,6 +94,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Holocure**                | [Ninomae Ina’nis idle](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/)        | Favicon             |
 | **how-dee**                 | [Ninomae Ina’nis padoru](https://www.reddit.com/r/Padoru/comments/iu6jvx/ninomae_inanis_hololive/) | Home art & Favicon  |
 | **HoYoLAB**                 | [Tanuki sticker](https://genshin-impact.fandom.com/wiki/Bake-Danuki)                               | Japan banner        |
+| **幾田 (Ikuta)** | [Copy](https://x.com/ikuta41/status/1733423740644684243/) | Scanlation link embed |
 | **可 (Ka / 996beshi)** | [15枚](https://www.pixiv.net/en/artworks/116320124) | Default link embed |
 | **Kukie-Nyan** | [FUWAMOCO pointing meme](https://x.com/Kukie_nyan/status/1687668480278228992) | Domain change banner |
 | **Kyoto Animation**         | [Mio Naganohara](https://www.zerochan.net/520314)                                                  | Random banner       |

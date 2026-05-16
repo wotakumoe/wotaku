@@ -55,10 +55,6 @@ export const sidebar: DefaultTheme.Sidebar = [
     link: '/merch'
   },
   {
-    text: '<span class="i-lucide:scroll-text"></span> Scanlation',
-    link: '/scanlation'
-  },
-  {
     text: '<span class="i-twemoji-comet"></span> VTuber',
     link: '/vtuber'
   },

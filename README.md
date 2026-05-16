@@ -19,8 +19,7 @@ enhance the wiki further. Also, don't hesitate to [suggest ideas](#submitting-a-
 - A rich list of resources to help you study the
   [japanese language](https://wotaku.wiki/japan/language) and
   [culture](https://wotaku.wiki/japan/culture).
-- Various resources for [merch](https://wotaku.wiki/merch) &
-  [scanlation](https://wotaku.wiki/scanlation).
+- Various resources for [merch](https://wotaku.wiki/merch).
 
 # Submitting a link
 
