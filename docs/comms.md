@@ -23,55 +23,46 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 
 ## Discord servers
 
-### A-G
-- [ACE Scans](https://discord.gg/e5kFjW8u3Q)
-- [AGR Community](https://discord.gg/YjuSSE273C)
-- [r/Anime](https://discord.gg/r-anime)
+::: tabs
+
+== Anime
 - [Anime UK News](https://discord.gg/014sRKGzuUPGPpYRa)
-- [Aniyomi](https://discord.gg/F32UjdJZrR)
-- [Atsumaru](https://discord.gg/Tj4QmEF4uV)
-- [Boredom Society](https://discord.gg/NNS8cRR)
-- [Circle](https://discord.gg/85KtgSjkJJ)
-- [Colored Council](https://discord.gg/ajXTqdqv9P)
 - [Crunchyroll](https://discord.gg/crunchyroll)
-- [Danke fürs Lesen](https://discord.gg/nxkDPvDhgv)
-- [DigimonBasic](https://discord.gg/B3RXtnXRSG)
+- [GJM - Subtitling Hub](https://discord.gg/0jeKKhzGn3EBNDI2)
+- [r/Anime](https://discord.gg/r-anime)
+- [Sonic Zone](https://discord.gg/bj5vmb96YT)
+- [SubsPlease](https://discord.gg/33Hxdas)
+- [ToonsHub](https://discord.gg/cTRhnt7N8B)
+
+== Manga & Novels
+- [Atsumaru](https://discord.gg/Tj4QmEF4uV)
+- [J-Novel Club](https://discord.gg/WmRnnFvfS3)
+- [Kagane](https://discord.gg/kBPYVSzwUE)
+- [MangaKatana](https://discord.gg/bXfTCCtdXQ)
+- [r/Manga](https://discord.gg/manga)
+- [r/MangaPiracy](https://discord.gg/ZgMtAyxFSU)
+- [Mihon](https://discord.gg/mihon)
+
+== Music
 - [Doujin Cafe](https://discord.gg/doujincafe)
 - [DoujinStyle](https://discord.gg/z2QDFdA)
-- [GetComics](https://discord.gg/G7UwGPZDJ7)
-- [GJM - Subtitling Hub](https://discord.gg/0jeKKhzGn3EBNDI2)
-
-### H-O
-- [J-Novel Club](https://discord.gg/WmRnnFvfS3)
-- [Japanese Language Study Space](https://discord.gg/jlss)
-- [Kagane](https://discord.gg/kBPYVSzwUE)
-- [Kai Corner](https://discord.gg/kZgWWHUj22)
-- [Kirei](https://discord.gg/55y8apc)
-- [Knox](https://discord.gg/HcDZFB9Gub)
-- [Laughing in Quarantine](https://discord.gg/x6AuGp7)
-- [LHTranslation](https://discord.gg/wxVRX4j)
-- [r/Manga](https://discord.gg/manga)
-- [Manga Groups Hub](https://discord.gg/9KGMzP2)
-- [MangaKatana](https://discord.gg/bXfTCCtdXQ)
-- [Manga Piracy](https://discord.gg/ZgMtAyxFSU)
-- [Mihon](https://discord.gg/mihon)
 - [MikuDB](https://discord.gg/w9Dq25n)
-
-### P-Z
-- [Privateersclub](https://discord.gg/jz8dUnnD6Q)
-- [Scanner Usage School](https://discord.gg/NCzxVB9)
-- [Sho Habby Scans](https://discord.gg/GdV76sQs7d)
 - [Sitting on Clouds](https://discord.gg/x23SFbE)
-- [Sonic Zone](https://discord.gg/bj5vmb96YT)
 - [SquidBoard](https://discord.gg/hfjBQXpXJq)
-- [SubsPlease](https://discord.gg/33Hxdas)
-- [Tachiyomi](https://discord.gg/tachiyomi)
-- [TheMoeWay](https://discord.gg/nhqjydaR8j)
-- [r/Tokusatsu](https://discord.gg/Rf2dDaJSp3)
-- [ToonsHub](https://discord.gg/cTRhnt7N8B)
-- [Tritinia](https://discord.gg/NKXKeDNFB7)
-- [TypesettingTools](https://discord.gg/AZaVyPr)
+
+== Games
+- [DigimonBasic](https://discord.gg/B3RXtnXRSG)
+- [Privateersclub](https://discord.gg/jz8dUnnD6Q)
 - [r/Yugioh](https://discord.gg/yugioh)
+
+== Others
+- [GetComics](https://discord.gg/G7UwGPZDJ7)
+- [Japanese Language Study Space](https://discord.gg/jlss)
+- [r/Tokusatsu](https://discord.gg/Rf2dDaJSp3)
+- [TheMoeWay](https://discord.gg/nhqjydaR8j)
+
+:::
+
 
 ## Subreddits
 - [Anime](https://old.reddit.com/r/anime/)
