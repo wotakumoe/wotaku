@@ -388,6 +388,7 @@ These sites contain a mix of both actual and AI-generated novels.
 - [Comic Book Plus](http://comicbookplus.com/) ||Vintage||
 - [Digital Comic Museum](https://digitalcomicmuseum.com/) ||Vintage||
 - [Read All Comics](https://readallcomics.com/)
+- [Read Comic Online (.xyz)](https://rcostation.xyz/) :s:
 - [Read Comics Online (.ru)](https://readcomicsonline.ru/)
 - [XOXO Comics](https://xoxocomic.com/) [:alt:](https://comichubfree.com/)
 
