@@ -118,14 +118,14 @@ og:
 
 ## Animation
 
-### Official
+::: tabs
+
+== Official
 - [Holo Graffiti](https://www.youtube.com/playlist?list=PL1NeGg1woXqngQytLzL8lJJLYwmzk1Wuq)
 - [holoEN3DRepeat](https://www.youtube.com/playlist?list=PLC77BeCZrRsGj_gC71PgsRCn0CnPzdrmH)
 - [Giri-giri warukunai Watame](https://www.youtube.com/playlist?list=PLZ34fLWik_iASrR26p_41rirqp8GkPAr_)
 
-### Fan-made
-
-#### 2D
+== 2D
 - [2ManySnacks](https://www.youtube.com/@2ManySnacks) :s:
 - [Chroneco](https://www.youtube.com/@chrone_co/) :ded:
 - [Dunkemz](https://x.com/dunkemz) :x:
@@ -137,9 +137,7 @@ og:
 - [Reiruka れいるか](https://www.youtube.com/@reiruka/)
 - [超級蘋果人 SuperAppleMan](https://www.youtube.com/@superappleman4725)
 
-<hr>
-
-#### Animatics / Clip focused
+== Animatics
 - [9am](https://www.youtube.com/@9amKR/) :ded: [||EN||](https://www.youtube.com/@9amEN/)
 - [Applisaur](https://youtube.com/@applisaur)
 - [ばかくん三世](https://www.youtube.com/@bakakunsansei)
@@ -161,9 +159,7 @@ og:
 - [とりぷる / Tripl3](https://www.youtube.com/@Tripl3jp) [||EN||](https://www.youtube.com/@Tripl3en)
 - [やんのか / Yan_noka](https://www.youtube.com/@yan_noka) [||EN||](https://www.youtube.com/@yan_noka_en/)
 
-<hr>
-
-#### 3D
+== 3D
 - [Aka Mushi](https://www.youtube.com/@akamushi3d)
 - [cbo](https://www.youtube.com/@cbo_ch/) :ded:
 - [ChegiCH](https://www.youtube.com/@chegichannel/)
@@ -176,6 +172,8 @@ og:
 - [Terrible Joe](https://www.youtube.com/@TerribleJhoe)
 - [tives](https://www.youtube.com/@tivetives/)
 - [vensen](https://www.youtube.com/@vensen5150)
+
+:::
 
 ## Games
 
