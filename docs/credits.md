@@ -47,6 +47,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **藤ちょこ (Fujichoco)** | [Hatsune Miku “Magical Mirai 2020” Osaka](https://magicalmirai.com/2020/osaka/) | [Audio glossary banner](/glossary/audio#japanese-music-genres) |
 | **Huu** | [Rem](https://www.pixiv.net/en/artworks/79939625) | [Music banner](/music#radio) |
 | **あきふゆはるか (Ibushi Roun)** | [Reimu vs Patchouli](https://www.pixiv.net/en/artworks/109967460) | Game link embed |
+| **幾田 (Ikuta)** | [Copy](https://x.com/ikuta41/status/1733423740644684243/) | Default link embed |
 | **J.C.Staff** | [Taiga Aisaka](https://yande.re/post/show/46578) | [Music banner](/music#pc) |
 | **Kazuki Takahashi** | [Yami Yugi](https://www.zerochan.net/7739) | [Manga banner](/websites#manga) |
 | **konijnsate** | [Moiré vs Non-Moiré Pattern Comparison](https://tips.clip-studio.com/en-us/articles/3489) | [Manga glossary example](/glossary/manga#artist-side) |
@@ -61,7 +62,6 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **れんた (Renta)** | [Defoko birthday festival!](https://www.pixiv.net/en/artworks/41424418) | [Audio glossary banner](/glossary/audio#hardware-1) |
 | **Ring** | [Mahō Shōjo](https://www.pixiv.net/en/artworks/94104639) | Merch link embed |
 | **SHAFT** | [Ene](https://kagerouproject.fandom.com/wiki/Ene#Anime) | [Music banner](/music#download) |
-| **しろい (Shiroi)** | [260418](https://www.pixiv.net/en/artworks/143685358) | Default link embed |
 | **Soemy** | [:eyes:](https://x.com/Soemy_Yuka/status/2028141464287420436) | Icon key banner |
 | **Taizo** | [The sound of the forest, the smell of paper.](https://www.pixiv.net/en/artworks/120581878) | Japan link embed |
 | **tencross** | [Ainz Ooal Gown](https://vsbattles.fandom.com/wiki/Ainz_Ooal_Gown) | [Novel banner](/websites#novels) |
@@ -94,7 +94,6 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Holocure**                | [Ninomae Ina’nis idle](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/)        | Favicon             |
 | **how-dee**                 | [Ninomae Ina’nis padoru](https://www.reddit.com/r/Padoru/comments/iu6jvx/ninomae_inanis_hololive/) | Home art & Favicon  |
 | **HoYoLAB**                 | [Tanuki sticker](https://genshin-impact.fandom.com/wiki/Bake-Danuki)                               | Japan banner        |
-| **幾田 (Ikuta)** | [Copy](https://x.com/ikuta41/status/1733423740644684243/) | Scanlation link embed |
 | **可 (Ka / 996beshi)** | [15枚](https://www.pixiv.net/en/artworks/116320124) | Default link embed |
 | **Kukie-Nyan** | [FUWAMOCO pointing meme](https://x.com/Kukie_nyan/status/1687668480278228992) | Domain change banner |
 | **Kyoto Animation**         | [Mio Naganohara](https://www.zerochan.net/520314)                                                  | Random banner       |
@@ -108,6 +107,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **さめあんこ (Sameanko)** | [:cat: :shark: :bathtub: :sparkles:](https://www.pixiv.net/en/artworks/93131457) | Home art |
 | **Shinichi Fukuda** | [Marin Kitagawa](https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646093656) | Icon key banner |
 | **しらび (Shirabi)**        | [Artoria Pendragon](https://www.pixiv.net/en/artworks/60495690)                                    | Fate banner         |
+| **しろい (Shiroi)** | [260418](https://www.pixiv.net/en/artworks/143685358) | Default link embed |
 | **Takashi Takeuchi**        | [Shiki Ryougi](https://danbooru.donmai.us/posts/2671155)                                           | Fate banner         |
 | **てのべ (Tenobe)**         | [Enkidu](https://www.pixiv.net/en/artworks/67902495)                                               | Fate banner         |
 | **Takeshi Obata**           | [Moritaka Mashiro](https://konachan.com/post/show/71470)                                           | Scanlation link embed |
