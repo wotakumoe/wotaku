@@ -53,7 +53,7 @@ outline: 1
 ### Source table
 <ScrapeTable :sites="[
   { name: '1anime', scrapes: { 'Anime Nexus': 'nexus', 'AnimePahe': 'pahe', 'Anitaku': 'gogo', 'Re:ANIME': 'Zen', 'AniZone': 'Zone' } },
-  { name: 'Animetsu', scrapes: { 'AnimeGG': 'Meg', 'AnimePahe': 'Pahe', 'KickAssAnime': 'Kiss', 'Anikoto': 'Kite', 'Anitaku': 'Dio', } },
+  { name: 'Animetsu', scrapes: { 'AnimeGG': 'Meg', 'AnimePahe': 'Pahe','Anitaku': 'Dio', } },
   { name: 'AnimeX', scrapes: { '123anime (SD)': { name: 'wave', metadata: ['SD'] }, 'Animehub (SD)': { name: 'shiro', metadata: ['SD'] }, 'AnimePahe': 'uwu', 'Anitaku': 'mimi', 'AllManga': 'mochi', 'KickAssAnime': 'kami', 'AnimeOnsen (SD)': { name: 'vee', metadata: ['SD'] }, 'AniZone': 'zaza', 'Anikoto': 'yuki', 'Re:ANIME': 'zen' } },
   { name: 'Miruro', scrapes: { 'AnimeDunya (SD)': { name: 'dune', metadata: ['SD'] }, 'AnimePahe': 'kiwi & telli', 'KickAssAnime': 'hop & kuz', 'AllManga': 'ally & nun', 'Anikoto': 'bun & bee',  } , }
 ]" />
