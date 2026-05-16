@@ -324,8 +324,6 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^        | [MyDubList](https://mydublist.com/) [:src:](https://github.com/Joelis57/MyDubList) | :no: |
 | ^^        | [Randime](https://randime.moe/) | :no: |  
 | ^^        | [Spin.moe](https://spin.moe/) | :mal::al::k: |  
-| **Manga** | [Mihon Local Source JSON Generator](https://mihonlocal.netlify.app/) | :no: |
-| ^^        | [Tachibk Viewer](https://backup.mihon.tools/) [:src:](https://github.com/Animeboynz/Mihon-Backup-Viewer) | :no: |
 
 
 ## Image

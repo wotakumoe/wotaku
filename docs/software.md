@@ -52,6 +52,12 @@ og:
 
 ![Tachiyomi forks flowchart](/diagram/tachi.svg)
 
+::: tip Mihon related utilities
+- [Tachibk Viewer](https://backup.mihon.tools/) [:src:](https://github.com/Animeboynz/Mihon-Backup-Viewer)
+- [Aniyomi Local Manager](https://gitlab.com/Secozzi/aniyomi-local-manager)
+- [Mihon Local Source JSON Generator](https://mihonlocal.netlify.app/) [:src:](https://github.com/Animeboynz/mihon-local)
+- [Kihon](https://github.com/tbvns/Kihon)
+:::
 
 ## Novel
 
@@ -88,16 +94,6 @@ og:
 | ^^           | [Nekome](https://github.com/Chesire/Nekome) :k: |
 | ^^           | [OpenComicVine](https://github.com/proninyaroslav/OpenComicVine) |
 | ^^           | [VNDB Lite](https://daniel-c-j.github.io/vndb-lite/) [:src:](https://github.com/Daniel-C-J/vndb-lite) |
-
-
-## Utilities
-- [Aniyomi Local Manager](https://gitlab.com/Secozzi/aniyomi-local-manager)
-- [Kihon](https://github.com/tbvns/Kihon)
-- [Nekotatsu](https://github.com/PhantomShift/nekotatsu)
-- :prev: [Nekotatsu Mobile](https://github.com/PhantomShift/nekotatsu-mobile/)
-- [SauceNAO](https://github.com/LuK1337/SauceNAO)
-- [Trace.moe](https://github.com/localhostov/trace.moe-app)
-- [Tachisync](https://github.com/axiel7/Tachisync) ||Needs PC||
 
 ![](/banner/ereader.webp)
 
@@ -252,7 +248,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | [KOReader](https://koreader.rocks/) [:src:](https://github.com/koreader/koreader) | :lin::erdr: |
 | :prev: [rakuyomi](https://github.com/tachibana-shin/rakuyomi) | :erdr: |
 | [Okular](https://okular.kde.org/) | :win::lin: |
-| [Readest](https://readest.com/) [:src:](https://github.com/readest/readest) | :win::app::lin: |
+| [Readest](https://readest.com/) :s: [:src:](https://github.com/readest/readest) | :win::app::lin: |
 | [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) [:src:](https://github.com/sumatrapdfreader/sumatrapdf) | :win: |
 | [Thorium reader](https://www.edrlab.org/software/thorium-reader/) [:src:](https://github.com/edrlab/thorium-reader) | :win::app::lin: |
 | [Yomikiru](https://github.com/mienaiyami/yomikiru) | :win::lin: |
