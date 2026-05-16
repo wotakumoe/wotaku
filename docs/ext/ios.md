@@ -1,6 +1,6 @@
 ---
 title: iOS Apps Extension Repos
-customDescription: Extension Repos & Guides for Aidoku, Paperback, Sora & Suwatte
+customDescription: Extension Repos & Guides for Aidoku, Sora & Suwatte
 og:
     image: https://i.wotaku.wiki/f/ios.png
 ---
@@ -14,26 +14,6 @@ og:
 | [Skittyblock](https://github.com/Skittyblock/aidoku-community-sources) | :global: | [Install](https://aidoku.app/add-source-list/?url=https://raw.githubusercontent.com/Skittyblock/aidoku-community-sources/gh-pages/) | [URL](https://skittyblock.github.io/aidoku-community-sources/index.min.json) |
 | [Suiyuran](https://github.com/suiyuran/aidoku-zh-sources) | :lcn: | [Install](https://aidoku.app/add-source-list/?url=https://raw.githubusercontent.com/suiyuran/aidoku-zh-sources/main/public/) | [URL](https://raw.githubusercontent.com/suiyuran/aidoku-zh-sources/refs/heads/main/public/index.min.json) |
 | [Moomooo95](https://github.com/Moomooo95/aidoku-french-sources) | :flag-france: | [Install](https://aidoku.app/add-source-list/?url=https://raw.githubusercontent.com/Moomooo95/aidoku-french-sources/gh-pages/) | [URL](https://moomooo95.github.io/aidoku-french-sources/index.min.json) |
-
-
-
-## Paperback
-
-### Inkdex
-
-| Name | Region | Auto | Manual |
-| - | - | - | - |
-| [All in one](https://inkdex.github.io/) [:src:](https://github.com/inkdex/extensions) | :global: | [Install](paperback://addRepo?displayName=Inkdex%20Extensions%20(0.9)&url=https%3A%2F%2Finkdex.github.io%2Fextensions%2F0.9%2Fstable) | [URL](https://inkdex.github.io/extensions/0.9/stable) |
-| [MangaStream](https://github.com/inkdex/mangastream-extensions) | :global: | [Install](paperback://addRepo?displayName=MangaStream%20Extensions%20(0.9)&url=https://inkdex.github.io/mangastream-extensions/0.9/stable) | [URL](https://inkdex.github.io/mangastream-extensions/0.9/stable) |
-| [MangaBox](https://github.com/inkdex/mangabox-extensions) | :global: | [Install](paperback://addRepo?displayName=MangaBox%20Extensions%20(0.9)&url=https://inkdex.github.io/mangabox-extensions/0.9/stable) | [URL](https://inkdex.github.io/mangabox-extensions/0.9/stable) |
-| [Madara](https://github.com/inkdex/madara-extensions) | :global: | [Install](paperback://addRepo?displayName=Madara%20Extensions%20(0.9)&url=https://inkdex.github.io/madara-extensions/0.9/stable) | [URL](https://inkdex.github.io/madara-extensions/0.9/stable) |
-| [Tracker](https://github.com/inkdex/tracker-extensions) | :global: | [Install](paperback://addRepo?displayName=Tracker%20Extensions%20(0.9)&url=https://inkdex.github.io/tracker-extensions/0.9/stable) | [URL](https://inkdex.github.io/tracker-extensions/0.9/stable) |
-
-### Others
-
-| Name | Region | Auto | Manual |
-| - | - | - | - |
-| [Netsky](https://thenetsky.github.io/netskys-extensions/0.9/) [:src:](https://github.com/TheNetsky/netskys-extensions) | :global: | [Install](paperback://addRepo?displayName=Netsky%27s%20Extensions%20(0.9)&url=https://thenetsky.github.io/netskys-extensions/0.9) | [URL](https://thenetsky.github.io/netskys-extensions/0.9/) |
 
 ## Sora
 

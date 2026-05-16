@@ -159,7 +159,6 @@ or buy an Android phone :ic-twotone-thumb-up:
 | :--- | :--- |
 | **Online** | [Aidoku](https://aidoku.app/) [:src:](https://github.com/Aidoku/Aidoku) [:e:](/ext/ios#aidoku) |
 | ^^ | [Suwatte](https://www.suwatte.app/) [:src:](https://github.com/Suwatte/Suwatte) [:e:](/ext/ios#suwatte) [||Converter||](https://web.archive.org/web/20250801192039/https://seyden.github.io/SuwatteConverter/suwatte) |
-| ^^ | [Paperback](https://paperback.moe/) [:src:](https://github.com/Paperback-iOS/app) [:e:](/ext/ios#paperback) |
 | ^^ | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) |
 | ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) |
 | ^^ | [Tachimanga](https://tachimanga.app/) :fm::sub::cs: [:e:](https://tachimanga.app/help/guides/adding-repos.html) |
