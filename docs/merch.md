@@ -83,7 +83,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 | ^^        | [Figsoku B](https://figsoku-b.net/) :ljp: |
 | ^^        | [Fig-memo R18](https://fig-memo-r18.site/) :ljp::ero: |
 | ^^        | [moeyo](https://moeyo.com/) |
-| Figures   | [Figgy](https://www.figgy.jp/) :ljp: ||General|| |
+| **Figures**   | [Figgy](https://www.figgy.jp/) :ljp: ||General|| |
 | ^^        | [Figsoku](https://figsoku.net/) :ljp: ||General|| |
 | ^^        | [Gundam Kits Collection](https://www.gundamkitscollection.com/) |
 | ^^        | [Gunjap](https://www.gunjap.net/) |
@@ -91,7 +91,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 | **Others** | [Buying Visual Novels](https://old.reddit.com/r/visualnovels/wiki/buy) |
 | ^^        | [Dakindex!](https://dakidex.com/) :ero: |
 | ^^        | [Omiai](https://omiai-dakimakura.com/) :ero: |
-
+| ^^        | [Sailor Moon Fan Network](https://sailormoonfannetwork.com/) |
 
 ## YouTube
 - [Anime Collective](https://www.youtube.com/@AnimeCollective) [:web:](https://animecollective.com/)
