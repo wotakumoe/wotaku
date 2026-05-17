@@ -283,8 +283,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [Anime Herald](https://www.animeherald.com/) |  
 | ^^ | [Anime Mind Probe](https://www.youtube.com/@ANIMEMINDPROBE) :s: |
 | ^^ | :prev: [Full Frontal](https://fullfrontal.moe/) :s::ded: |  
-| ^^ | [Animétudes](https://animetudes.com/) :s::ded: |  
-| ^^ | [Let's Anime](https://letsanime.blogspot.com/) |  
+| ^^ | [Animétudes](https://animetudes.com/) :s::ded: |   
 | ^^ | [NHK: Anime & Manga](https://www3.nhk.or.jp/nhkworld/en/shows/category/31/) :s: |
 | ^^ | [Sakuga Blog](https://blog.sakugabooru.com/) :s: [:x:](https://x.com/SakugaBlog) [:rss:](https://blog.sakugabooru.com/feed/) |  
 
@@ -304,6 +303,20 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [Mangasplaining](https://www.mangasplaining.com/) [:x:](https://x.com/mangasplaining) |
 | ^^ | :prev: [Mangasplaining Extra](https://mangasplaining.substack.com/) |
 | ^^ | [TheOASG](https://www.theoasg.com/) [:x:](https://x.com/TheOASG) |  
+
+## Retro Archives
+
+| Category | Websites |
+| :--- | :--- |
+| **General** | [MAD ANGLER PRESS](https://retroanimechris.blogspot.com/) [:iarch:](https://archive.org/details/@madanglerpress) [:x:](https://x.com/retroanimechris) |
+| ^^ | [Media Monster](https://archive.org/details/@media-monster_alt) :iarch: [:x:](https://x.com/nuwawawon) |
+| ^^ | [Otaku Print Archive](https://archive.org/details/@nicole_turkowski/uploads) :iarch: [:x:](https://x.com/OtakuPrintArchv) [||Docs||](https://docs.google.com/spreadsheets/d/1NFcv7gTI_oGYyNpg64O6YI0JBDh-i0h8NavWw0OA5Gk/edit?gid=0#gid=0) |
+| **Anime** | [Anime Magazine Archive](https://animagarchive.com/) [:x:](https://x.com/animemagarchive) |
+| ^^ | [Let's Anime](https://letsanime.blogspot.com/) |
+| **Games** | [Old Game Mags](https://oldgamemags.tumblr.com/) [:x:](https://x.com/OldGameMags) |
+| ^^ | [Forgotten Worlds](https://www.forgottenworlds.net/) [:x:](https://x.com/american80s) |
+| ^^ | [Gaming Alexandria](https://www.gamingalexandria.com/wp/) [:x:](https://x.com/dushubz) |
+| ^^ | [VGHF Archive](https://archive.gamehistory.org/) |
 
 
 ![](/banner/utility.webp)
