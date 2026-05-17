@@ -244,6 +244,7 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 ![](/banner/wnovel.webp)
 
 # Novels
+___
 
 | Category        | Website |
 |-----------------|------------------------------------------------|
