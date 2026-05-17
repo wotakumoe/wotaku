@@ -222,25 +222,20 @@ feeling lazy. someone pr platform icons for this section.
 
 ## OCR
 
-| Software | Platform |
-| :--- | :--- |
-| [Chrome Lens OCR](https://github.com/dimdenGD/chrome-lens-ocr) | :npm: |
-| [Game Sentence Miner](https://github.com/bpwhelan/GameSentenceMiner) | :win::app::lin: |
-| [Manga OCR](https://github.com/kha-white/manga-ocr) | :py: |
-| [Meikipop](https://github.com/rtr46/meikipop) | :py: |
-| [Mokuro](https://github.com/kha-white/mokuro) | :py: |
-| [OwOCR](https://github.com/AuroraWright/owocr) | :py: |
-| [Poricom](https://github.com/blueaxis/Poricom) | :win: |
+| Focus | Software | Platforms |
+| :--- | :--- | :--- |
+| **Manga** | [Chimahon](https://github.com/sohilsayed/chimahon) | :and: |
+| ^^ | [Manatan](https://manatan.com/) [:src:](https://github.com/KolbyML/Manatan) <tooltip>Also supports Anime and LN</tooltip> | :and::ios::win::app::lin: |
+| **Games** | [Game Sentence Miner](https://github.com/bpwhelan/GameSentenceMiner) | :win::app::lin: |
+| ^^ | [OwOCR](https://github.com/AuroraWright/owocr) | :py: |
+| ^^ | [Meikipop](https://github.com/rtr46/meikipop) | :py: |
 
-<Collapsible title="More">
+<collapsible title="More">
 
 | Focus | Software | Platforms |
 | :--- | :--- | :--- |
-| **General** | [Kanji Tomo](https://www.kanjitomo.net/) [:src:](https://github.com/sakarika/kanjitomo-ocr) | :win: |
-| ^^ | [Manatan](https://manatan.com/) [:src:](https://github.com/KolbyML/Manatan) | :and::ios::win::app::lin: |
-| ^^ | [Yomiwa](https://www.yomiwa.net/) :cs: | :and::ios: |
 | **Manga** | [Ballons Translator](https://github.com/dmMaze/BallonsTranslator) | :win::py: |
-| ^^ | [Chimahon](https://github.com/sohilsayed/chimahon) | :and: |
+| ^^ | [Mokuro](https://github.com/kha-white/mokuro) | :py: |
 | ^^ | [Capture2text](https://capture2text.sourceforge.net/) | :win: |
 | ^^ | [OCR Manga Reader](https://ocrmangareaderforandroid.sourceforge.net/) [:src:](https://sourceforge.net/projects/ocrmangareaderforandroid/) | :and: |
 | ^^ | [Lancet](https://github.com/Ajatt-Tools/lancet) | :win::py: |
@@ -250,7 +245,7 @@ feeling lazy. someone pr platform icons for this section.
 | ^^ | [Luna Translator](https://github.com/HIllya51/LunaTranslator) | :win: |
 | ^^ | [YomiNinja](https://github.com/matt-m-o/YomiNinja) | :win::app::lin: |
 
-</Collapsible>
+</collapsible>
 
 :::danger Don't use MTL
 Using Machine Translation to translate manga will be a mess. Language has lots of slang, cultural references, and visual elements that MTL won't understand. So, it's better to have a human translator who knows the language and culture well. You don't want to end up with a wonky or inaccurate translation!
