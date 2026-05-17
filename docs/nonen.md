@@ -614,7 +614,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 | Category | Resources |
 |-|-|
-| **Tracker** | [Shikimori](https://shikimori.one/) |
+| **Tracker** | [Shikimori](https://shikimori.io/) |
 
 
 ## Spanish
