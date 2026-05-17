@@ -245,44 +245,19 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 
 # Novels
 
-
-## Reader
-
-- [Novel Updates](https://www.novelupdates.com/)
-- [Baka-tsuki](https://www.baka-tsuki.org/project/index.php?title=Main_Page)
-- [LNori](https://lnori.com/)
-- [Ranobes](https://ranobes.top/)
-
-<Collapsible title="More">
-
-::: danger AI warning
-These sites contain a mix of both actual and AI-generated novels.
-:::
-
-- [NovelFire](https://novelfire.net/home)
-- [NovelList](https://www.novellist.co/)
-- [RUNO](https://runo.ink/)
-- [Novel Bin](https://novelbin.com/) [:prx:](https://rentry.org/wotaxy#novel-bin)
-- [All Novel](https://allnovel.org/)
-- [Novel Full](https://novelfull.net/)
-- [Read Novel Full](https://readnovelfull.com/)
-- [Free Web Novel](https://freewebnovel.com/)
-- [Light Novel Heaven](https://lightnovelheaven.com/)
-- [WuxiaClick](https://wuxia.click/) [:alt:](https://readnovel.eu/)
-- [Novel Hall](https://www.novelhall.com/)
-
-</Collapsible>
-
-## Download
-
 | Category        | Website |
-|-----------------|-----------------------------------------------------------------|
+|-----------------|------------------------------------------------|
+| **Online**      | [Novel Updates](https://www.novelupdates.com/) |
+| ^^              | [Baka-tsuki](https://www.baka-tsuki.org/project/index.php?title=Main_Page) |
+| ^^              | [LNori](https://lnori.com/) |
+| ^^              | [Ranobes](https://ranobes.top/) |
 | **Nyaa**        | [AlpinDale](https://nyaa.si/user/AlpinDale) |
 | ^^              | [CleanBookGuy](https://nyaa.si/?f=0&c=3_1&q=CleanBookGuy) |
 | ^^              | [Ganba](https://nyaa.si/user/Ganba?f=0&c=3_1&q=) :ded: |
 | ^^              | [HowUnfortunate](https://nyaa.si/user/HowUnfortunate?f=0&c=3_1&q=) :ded: |
 | ^^              | [LuCaZ](https://nyaa.si/?f=0&c=3_1&q=%22%5BLuCaZ%5D%22) |
 | ^^              | [Stick](https://nyaa.si/?f=0&c=3_1&q=%22%5BStick%5D%22) |
+| ^^              | [Audiobooks](https://nyaa.si/?f=0&c=0_0&q=Audiobook) |
 | **Direct Download** | [Ganba's DDL sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSvd0SjjPYZKzhUwTYK2n2peZD_n6_wDmEKV3I37nuM-FnOtAU5xZkec35GabjrZ6olJTbr_CMXS6AH/pubhtml) :ded: |
 | ^^              | [Elscione Official LNs](https://server.elscione.com/Officially%20Translated%20Light%20Novels/) |
 | ^^              | [JNovel Codex](https://jnovelcodex.web.app/index.html) |
@@ -291,15 +266,6 @@ These sites contain a mix of both actual and AI-generated novels.
 | ^^              | [Anna's Archive](https://annas-archive.gl/) [:prx:](https://rentry.org/wotaslap) [:js:](https://greasyfork.org/en/scripts/494262-show-external-downloads) ==AnnasArchive== |
 | ^^              | [Library Genesis+](https://libgen.li/) [:prx:](https://rentry.org/wotaslap) |
 | ^^              | [Z-Library](https://z-lib.sk/) [:prx:](https://rentry.org/wotaslap) |
-
-## Audiobooks
-
-- [PZG](https://nyaa.si/?f=0&c=3_1&q=%22%5Bpzg%5D%22)
-- [Stick](https://nyaa.si/?f=0&c=3_1&q=%22%5BStick%5D%22)
-- [Troglodyte](https://nyaa.si/?f=0&c=3_1&q=%22%5BTroglodyte%5D%22)
-- [AudioBook Bay](https://audiobookbay.lu/)
-- :more: [Mobile audiobook players](/music#audiobook)
-
 
 
 ![](/banner/toku.webp)
