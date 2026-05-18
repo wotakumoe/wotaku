@@ -1,27 +1,14 @@
 # <img src="/docs/public/asset/fav.svg" width="30px"> Wotaku
 
-An otaku index for everything! Kindly consider giving the repository a ⭐ star. This motivates us to
-enhance the wiki further. Also, don't hesitate to [suggest ideas](#submitting-a-link).
+An otaku index for everything! Kindly consider giving the repository a ⭐ star as they motivate us to further refine the wiki. Also, don't hesitate to [suggest ideas](#submitting-a-link).
 
-# What is in the Wiki?
-
-- Curated Websites for [anime](https://wotaku.wiki/websites#anime),
-  [manga](https://wotaku.wiki/websites#manga), [music](https://wotaku.wiki/music),
-  [novels](https://wotaku.wiki/websites#novels) & [games](https://wotaku.wiki/games).
-- Anime, manga & novel software for [Android](https://wotaku.wiki/software#android),
-  [PC](https://wotaku.wiki/software#pc) & [iOS](https://wotaku.wiki/software#ios).
-- Various sites for [db, tracker & info](https://wotaku.wiki/misc#info),
-  [illustrations](https://wotaku.wiki/misc#illustrations),
-  [utility](https://wotaku.wiki/misc#utility) & [vtuber](https://wotaku.wiki/vtuber)
-- Other related software for [phone](https://wotaku.wiki/tools#phone) &
-  [PC](https://wotaku.wiki/tools#pc), [extensions](https://wotaku.wiki/tools#extensions) &
-  [scripts](https://wotaku.wiki/tools#scripts)
-- A rich list of resources to help you study the
-  [japanese language](https://wotaku.wiki/japan/language) and
-  [culture](https://wotaku.wiki/japan/culture).
-- Various resources for [merch](https://wotaku.wiki/merch).
+![](/docs/public/banner.png)
 
 # Submitting a link
+
+<details>
+
+<summary> 🚨 Submission Rules 🚨 </summary>
 
 ## ⛔️ Things we won't add in the wiki
 
@@ -48,22 +35,11 @@ enhance the wiki further. Also, don't hesitate to [suggest ideas](#submitting-a-
 3. Sites that aren't primarily for anime, but have it as a side product
 4. Things that are too niche and/or have a small userbase
 
-## Wiki
+</details>
 
-You can click the **Feedback** button to send us your link or any suggestion. You don't have to make
-a Github or Discord account.
+## Discord (Recommended)
 
-## GitHub
-
-You can also post an [issue](https://github.com/wotakumoe/Wotaku/issues/new) on the Github page.
-
-> [!NOTE]
-> This makes it easier for me to add it to the wiki, since we need to maintain the categories and markdown style.
-
-
-## Discord
-
-You can submit any feedback in our [discord server](https://discord.gg/vShRGx8ZBC) too!
+You can submit websites / feedback in our [discord server](https://discord.gg/vShRGx8ZBC). 
 
 <p align="center">
   <a href="https://discord.gg/vShRGx8ZBC">
@@ -73,8 +49,17 @@ You can submit any feedback in our [discord server](https://discord.gg/vShRGx8ZB
 
 <br/>
 
-> [!Warning]  
-> We may choose not to add the site if it is redundant or if it does not meet our preferences.
+## Wiki
+
+You can click the **Feedback** button (in the header of every section) to send us your link or any suggestion. You don't have to make any account.
+
+## GitHub
+
+You can also post an [issue](https://github.com/wotakumoe/Wotaku/issues/new) on the Github page.
+
+> [!CAUTION]
+> **Don't PR** without going through us from [Discord](#discord). It will be **closed** without giving any reason. We may choose not to add the submitted site if we don't feel like it.
+
 
 # Wotaku Star History
 
