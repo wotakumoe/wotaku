@@ -1,4 +1,0 @@
-- Really new website.
-- Really small library.
-- Made by the same people as Kagane.
-- Good upload quality.
