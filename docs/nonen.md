@@ -332,7 +332,6 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [AnimeVilla](https://animevilla.in/) :ero: |
 | ^^ | [ATOZ CARTOONIST](https://www.atozcartoonist.com/) |
 | ^^ | [GokuHD](https://www.gokuhd.com/) + :len: |
-| ^^ | [Puretoons](https://puretoons.in/) + :len: |
 | ^^ | [SDToons](https://sdtoons.com/) :ero: + :len: |
 | ^^ | [Toonhub4u](https://toonhub4u.co/home/) + :len: |
 | ^^ | [Toonworld4all](https://toonworld4all.me/) + :len: |
