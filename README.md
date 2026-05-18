@@ -50,8 +50,14 @@ enhance the wiki further. Also, don't hesitate to [suggest ideas](#submitting-a-
 
 ## Wiki
 
-You can click the **Feedback** button to send us your link or any suggestion. You don't have to make
+You can click a **Feedback** button to send us your link or any suggestion. You don't have to make
 a Github or Discord account.
+
+The **Feedback** button icon looks like this: ![Feedback button icon](docs/public/asset/feedback.svg)
+
+Wherever you see a button with this icon, you can press it to send feedback.
+
+This button is next to the headers that are above most link sections on the wiki.
 
 ## GitHub
 
