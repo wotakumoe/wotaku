@@ -1,0 +1,29 @@
+<svg
+  version="1.1"
+  viewBox="0 0 24 24"
+  xmlns="http://www.w3.org/2000/svg"
+  display="inline-block"
+  vertical-align="-0.125em"
+  min-width="1.2rem"
+  width="1.2em"
+  height="1.2em"
+>
+  <g
+    fill="none"
+    stroke="oklab(0.722 -0.0403156 -0.0969933)"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    stroke-width="2"
+  >
+    <path
+      d="
+        m 22 7
+        l -8.991 5.727
+        a 2 2 0 0 1 -2.009 0
+        L 2 7
+      "
+    />
+
+    <rect width="20" height="16" x="2" y="4" rx="2" />
+  </g>
+</svg>
