@@ -66,6 +66,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 
 ## Subreddits
 - [Anime](https://old.reddit.com/r/anime/)
+- [Bento](https://old.reddit.com/r/Bento/)
 - [Japan Life](https://old.reddit.com/r/japanlife/)
 - [Japan Pics](https://old.reddit.com/r/japanpics/)
 - [Japan Travel](https://old.reddit.com/r/JapanTravel/)

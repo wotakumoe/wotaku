@@ -99,6 +99,7 @@ og:
 - [Cooking with Dog](https://cookingwithdog.com/) [||YT||](https://www.youtube.com/@cookingwithdog)
 - [Japanese Cooking 101](https://www.japanesecooking101.com/) [||YT||](https://www.youtube.com/@JapaneseCooking101/)
 - [RecipeTin Japan](https://japan.recipetineats.com/) [||YT||](https://www.youtube.com/@RecipeTinJapan)
+- [Just Bento](https://justbento.com/)
 - [Kurashiru](https://www.kurashiru.com/)
 - [Chopstick Chronicles](https://www.chopstickchronicles.com/)
 - [Okonomiyaki World](https://okonomiyakiworld.com/index.html)

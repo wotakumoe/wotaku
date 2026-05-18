@@ -85,6 +85,7 @@ og:
 | Twitter sakuga | [ArtSakuga](https://x.com/artsakuga) |
 | ^^ | [Dan Kantori](https://x.com/DanKantori) :s: |
 | ^^ | [Effects Sakuga](https://x.com/EffectsSakuga) |
+| ^^ | [Mack Bay](https://x.com/MackBay2077) |
 | ^^ | [rinri](https://x.com/guyayaHime) :s: |
 | ^^ | [SakugaDEYO](https://x.com/SakugaDEYO) |
 | ^^ | [Sakuga 作画](https://x.com/sakugacontent) :s: |
