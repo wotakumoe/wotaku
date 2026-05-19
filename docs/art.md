@@ -144,7 +144,7 @@ og:
 | Category  | Websites |
 |-----------|----------|
 | **Booru** | [Boorusama](https://github.com/khoadng/Boorusama) :s: |
-| ^^        | [Boorusphere](https://github.com/nullxception/boorusphere) ==Boorusphere== |
+| ^^        | [Boorusphere](https://github.com/Kropatz/boorusphere) |
 | ^^        | [Mikansei](https://github.com/uragiristereo/Mikansei) |
 | ^^        | [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) |
 | **Pixiv** | [PixEz](https://github.com/Notsfsssf/pixez-flutter) :s: |
