@@ -14,7 +14,7 @@ og:
 | ^^         | [Amatsukaze](https://amatsukaze.rl404.com/) [:src:](https://github.com/rl404/amatsukaze) |
 | ^^         | [Bācharu Toshokan](https://bacharu.io/) |
 | Archive    | [Ragtag Archive](https://archive.ragtag.moe/) [:src:](https://github.com/ragtag-archive) |
-| ^^         | [Patchwork Archive](https://patchwork.moekyun.me/) [:src:](https://github.com/Patchwork-Archive/) |
+| ^^         | [Patchwork Archive](https://patchwork.moekyun.me/) :ded: [:src:](https://github.com/Patchwork-Archive/) |
 | ^^         | [Rebel's ASMR Archive](https://asmr.ahegao.dev/) |
 | ^^         | [Sakura ASMR Archive](https://stash.frostedsakura.my.id/) |
 | Database   | [Virtual YouTuber Wiki](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki) |

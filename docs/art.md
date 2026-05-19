@@ -60,6 +60,7 @@ og:
 | Category | Website |
 |-|-|
 | **General** | [Booru websites](#booru) |
+| ^^        | [Ermitteln](https://ermitteln.ihateani.me/) [:src:](https://github.com/noaione/cmx-ermitteln) |
 | ^^        | [iTunes Artwork Finder](https://bendodson.com/projects/itunes-artwork-finder/) [:src:](https://github.com/bendodson/itunes-artwork-finder) |
 | **Anime Production** | [Character Design References](https://characterdesignreferences.com/) [:x:](https://x.com/CDReferences) |
 | ^^ | [Settai Dreams](https://setteidreams.net/) :s::fm: <tooltip>The patreon-walled materials will eventually become free.</tooltip> |

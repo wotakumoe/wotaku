@@ -252,7 +252,6 @@ Most apps in [**software**](/software) supports multilingual sources
 | :--- | :--- |
 | **Anime** | [German Fansubbers' Index](https://anime-fansubs.de/) |
 | ^^ | [Amalgam Fansubs](https://amalgam-fansubs.moe/) :strm::ddl: |
-| ^^ | [Anime Archive](https://anime-archive.com/) :ded::ddl: |
 | ^^ | [Anime-Base](https://anime-base.net/updates) :strm: |
 | ^^ | [Anime Loads](https://www.anime-loads.org/) :strm::ddl::host: + :len: |
 | ^^ | [AniWorld](https://aniworld.to/) :strm: + :len: |
