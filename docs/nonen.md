@@ -317,7 +317,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | Category | Website |
 | :--- | :--- |
 | **Stream** | [Aniflix](https://aniflix.uno/) |
-| ^^ | [AnimeLok](https://animelok.online/home) + :len: |
+| ^^ | [AnimeLok](https://animelok.xyz/home) + :len: |
 | ^^ | [Anime Bash India](https://animebashindia.me/home) |
 | ^^ | [Anime Joker](https://animejoker.com/) + :len: |
 | ^^ | [Anime Salt](https://animesalt.top/) + :len: |
