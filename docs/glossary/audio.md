@@ -659,8 +659,6 @@ This is an example of the bass boost eq profile in musicbee. The preamp is set t
 
 # Japanese Music Genres
 
-<br>
-
 There are multiple genres that are distinctly Japanese, all with different origins and established in different periods of time. The following are modern genres that still hold relevance within a majority of listeners today:
 
 

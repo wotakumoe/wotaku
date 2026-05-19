@@ -27,7 +27,6 @@ On a final note, it is recommended to set the output extension to PNG, as this i
 
 And last but not least: if you have a reasonably fast AMD GPU, consider using other Waifu2x implementations like [**waifu2x-snowshell**](https://github.com/YukihoAA/waifu2x_snowshell), as Waifu2x-Caffe only supports NVIDIA.
 
-<br>
 
 :::info Tools Needed
 

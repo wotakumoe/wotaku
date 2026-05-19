@@ -10,8 +10,6 @@ og:
 ![](/banner/hweb.webp)
 # Websites
 
-<br>
-
 ::: info Readme
 [**Nyaa Sukebei**](https://sukebei.nyaa.si/) is kinda ideal for everything. You can check [**Eronews**](https://en.eroeronews.com/) for news and ero anime schedule. [**AniSchedule**](https://github.com/RockinChaos/AniSchedule) has :rss: RSS Feed for ero anime release. 
 :::

@@ -13,13 +13,9 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 
 <Credits />
 
-<br>
-
 :::center
 # Resource Credits
 :::
-
-<br>
 
 :::tabs
 

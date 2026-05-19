@@ -88,8 +88,6 @@ It's a newer type of comics format. Long strip comics are drawn for smartphone r
 
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/0hESrODhTMk" frameborder="0" allowfullscreen></iframe></div>
 
-<br>
-
 Occasionally, the publisher also releases the physical version, with panels strategically rearranged to accommodate the right-left/left-right reading direction. Example: Solo Leveling Vol. 2.
 
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/S6EloIXKWj4" frameborder="0" allowfullscreen></iframe></div>
