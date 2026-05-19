@@ -312,6 +312,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [Media Monster](https://archive.org/details/@media-monster_alt) :iarch: [:x:](https://x.com/nuwawawon) |
 | ^^ | [Otaku Archive](https://archive.org/details/otaku-archive) :iarch: <tooltip>By Gerald Rathkolb (Anime World Order)</tooltip> |
 | ^^ | [Otaku Print Archive](https://archive.org/details/@nicole_turkowski/uploads) :iarch: [:x:](https://x.com/OtakuPrintArchv) [||Docs||](https://docs.google.com/spreadsheets/d/1NFcv7gTI_oGYyNpg64O6YI0JBDh-i0h8NavWw0OA5Gk/edit?gid=0#gid=0) |
+| ^^ | [The Magazine Rack](https://archive.org/details/magazine_rack) :s::iarch: |
 | ^^ | [Tuxedo Unmasked](https://www.tuxedounmasked.com/) :ded: |
 | ^^ | [Zimmerit](https://www.zimmerit.moe/) |  
 | **Anime** | [80s OVA](https://80s-ova.com/) :ljp: [:x:](https://x.com/KuraiSue) |
