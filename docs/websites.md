@@ -244,8 +244,6 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 
 # Novels
 
-___
-
 | Category        | Website |
 |-----------------|------------------------------------------------|
 | **Online**      | [Novel Updates](https://www.novelupdates.com/) |
