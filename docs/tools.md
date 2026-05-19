@@ -99,7 +99,7 @@ og:
 
 </Collapsible>
 
-#### Related resources
+<Collapsible title="Related resources">
 
 | Software                   | Materials |
 |----------------------------|-----------|
@@ -120,6 +120,7 @@ og:
 | ^^                         | [yt-dlp GUI](https://github.com/kannagi0303/yt-dlp-gui) |  
 | ^^                         | [yt-dlp GUI Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer) |
 
+</Collapsible>
 
 ## Media
 
@@ -158,6 +159,11 @@ og:
 | ^^           | [ModernZ](https://github.com/Samillion/ModernZ) |
 | ^^           | [Tethys](https://github.com/Zren/mpv-osc-tethys) |  
 | ^^           | [uosc](https://github.com/tomasklaen/uosc) |  
+
+<Collapsible title="More">
+
+| **Category** | **Resources** |
+|--------------|---------------|
 | **Video**     | [Autocrop](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autocrop.lua) |  
 | ^^           | [Autoload](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua) |  
 | ^^           | [Eisa's Scripts](https://github.com/Eisa01/mpv-scripts) |  
@@ -171,27 +177,23 @@ og:
 | **Addons**    | [webtorrent mpv hook](https://github.com/mrxdst/webtorrent-mpv-hook) |  
 | ^^           | [ani-skip](https://github.com/synacktraa/ani-skip) |
 
+</Collapsible>
 
 ## Media Tools
 
 ### Image Tools
 
-- [ImageMagick](https://imagemagick.org/index.php) [:src:](https://github.com/ImageMagick/ImageMagick) [:pin:](https://www.fmwconcepts.com/imagemagick/index.php)
-  - [FotoKilof](https://github.com/TeaM-TL/FotoKilof)
-  - [imgdanke](https://github.com/DrWhoCares/imgdanke) ==imgdanke==
-- [pingo](https://css-ig.net/pingo) :cs:
-  - [pinga](https://css-ig.net/pinga) :cs:
-- [XL Converter](https://codepoems.eu/xl-converter/) [:src:](https://github.com/JacobDev1/xl-converter)
-- [FFmpeg](https://ffmpeg.org/) :cmd: [:src:](https://github.com/FFmpeg/FFmpeg)
-- [chaiNNer](https://chainner.app/) [:src:](https://github.com/chaiNNer-org/chaiNNer)
-- [Cupscale](https://github.com/n00mkrad/cupscale) ==cupscale==
-- [Magpie](https://github.com/Blinue/Magpie)
-- [Waifu2X](https://github.com/nagadomi/waifu2x)
-  - [caffe](https://github.com/lltcggie/waifu2x-caffe)
-  - [ncnn Vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan)
-  - [Waifu2x Extension GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
-  - [nunif](https://github.com/nagadomi/nunif)
-
+| Software | Platform |
+|-|-|
+| [ImageMagick](https://imagemagick.org/index.php) [:src:](https://github.com/ImageMagick/ImageMagick) [:pin:](https://www.fmwconcepts.com/imagemagick/index.php) | :win::app::lin: |
+| :prev: [FotoKilof](https://github.com/TeaM-TL/FotoKilof) | :py: |
+| [pingo](https://css-ig.net/pingo) :cs: | :win: |
+| :prev: [pinga](https://css-ig.net/pinga) :cs: | :win: |
+| [XL Converter](https://codepoems.eu/xl-converter) [:src:](https://github.com/JacobDev1/xl-converter) | :win::app::lin: |
+| [FFmpeg](https://ffmpeg.org/) [:src:](https://github.com/FFmpeg/FFmpeg) | :win::app::lin::cmd: |
+| [chaiNNer](https://chainner.app/) [:src:](https://github.com/chaiNNer-org/chaiNNer) | :win::app::lin: |
+| [Cupscale](https://github.com/n00mkrad/cupscale) ==cupscale== | :win: |
+| [Magpie](https://github.com/Blinue/Magpie) | :win: |
 
 ### Video Tools
 
@@ -220,7 +222,7 @@ og:
 | ^^ | [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) | :win::app::lin: |
 
 
-#### Related resources
+<Collapsible title="Related resources">
 
 | Category | Resources | Platform |
 | :--- | :--- | :--- |
@@ -241,6 +243,7 @@ og:
 - :more: [Encoding & Fansubbing Guides](/misc#encoding-fansubbing)
 - :more: [JP Learning centric tools](/japan/software#subtitles)
 
+</Collapsible>
 
 ## arr Tools
 

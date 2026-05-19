@@ -1,1 +1,0 @@
-Optional for GUI, but doesn't support Pingo v1+ at the moment.
