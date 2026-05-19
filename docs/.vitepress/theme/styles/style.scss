@@ -408,13 +408,12 @@ main figure figcaption {
 }
 
 .vp-doc h2 {
-  margin-top: 0.5rem; 
-  margin-bottom: 0rem; 
+  margin-top: 1.5rem;
+  margin-bottom: 0rem;
 }
 
-.vp-doc h1 + h2 {
-  margin-top: 1rem;
-  padding-top: 1rem;
+.vp-doc h1 + .vp-nolebase-page-properties {
+  display: none;
 }
 
 .vp-doc h4 {
