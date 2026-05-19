@@ -83,8 +83,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 # Download
 
-<br>
-
 ## Anime
 
 ### FLAC & MP3
