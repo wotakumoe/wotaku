@@ -329,8 +329,6 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 ![](/banner/utility.webp)
 # Utility
 
-<br>
-
 ## Anime & Manga
 | Category  | Websites | Service(s) |  
 |-----------|----------|------------|  
