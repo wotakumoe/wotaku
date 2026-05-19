@@ -11,7 +11,7 @@ og:
 
 # General
 
-<br>
+
 
 <Collapsible title="Why does X site have so many ads?">
 
@@ -78,7 +78,7 @@ Like a seedbox, it's also a remote service. It can download from p2p and various
 
 # Manga
 
-<br>
+
 
 <Collapsible title="Where can I get the highest quality manga releases?">
 
@@ -145,13 +145,13 @@ Use [**Komga**](https://komga.org/). Read their [**docs**](https://komga.org/doc
 
 </Collapsible>
 
-<br>
+
 
 ![](/banner/anime.webp)
 
 # Anime
 
-<br>
+
 
 <Collapsible title="Where can I get the highest quality anime releases?">
 
@@ -174,13 +174,13 @@ For android, use [**mpvEx**](https://github.com/marlboro-advance/mpvEx). For PC,
 </Collapsible>
 
 
-<br>
+
 
 ![](/banner/msuic.webp)
 
 # Music
 
-<br>
+
 
 <Collapsible title="What's the best source for anime songs / OST?">
 

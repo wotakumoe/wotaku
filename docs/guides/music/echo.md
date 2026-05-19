@@ -8,7 +8,7 @@ og:
 
 [**Echo**](https://github.com/brahmkshatriya/echo) is an extension-based music player app. It can play music from streaming websites (e.g., YouTube, Spotify, Deezer) and self-hosted servers (e.g., Jellyfin). Echo also supports external lyrics and music tracking (e.g., Last.fm).
 
-<br>
+
 
 # Setup
 
@@ -168,7 +168,7 @@ New to audio terms? Check out our [**audio glossary**](/glossary/audio) to learn
 
 ---
 
-<br>
+
 
 # Essential Information & Troubleshooting for Echo
 
