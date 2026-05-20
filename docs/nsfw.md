@@ -15,7 +15,7 @@ og:
 :::
 
 ## Anime
-- [AmateurSubs](https://amateursubs.com/) :ddl: [||nyaa||](https://sukebei.nyaa.si/user/denis18312)
+- [AmateurSubs](https://amateursubs.com/) :ddl: [||Nyaa||](https://sukebei.nyaa.si/user/denis18312)
 - [Anibd](https://anibd.app/anime-seasontype/ani16/) [:alt:](https://ani.lol/anime-seasontype/ani16/)
 - [Hanime](https://hanime.tv/home) :sd:
 - [Hanime1](https://hanime1.me/) :ljp::lcn:
@@ -34,7 +34,7 @@ og:
 
 - [HenVids](https://henvids.com/)
 - [Rule34video](https://rule34video.com/)
-- [SakuraCircle](https://sakuracircle.com/) :ddl::ded: [||nyaa||](https://sukebei.nyaa.si/user/Tennouji)
+- [SakuraCircle](https://sakuracircle.com/) :ddl::ded: [||Nyaa||](https://sukebei.nyaa.si/user/Tennouji)
 - [UnderHentai](https://www.underhentai.net/) :strm::ddl:
 
 
@@ -79,9 +79,9 @@ og:
 | [Manga18](https://manga18.club/) | :no: | :no: |
 | [Manga18fx](https://manga18fx.com/) | :yes: | :yes: |
 | [ManhwaRead](https://manhwaread.com/) | :yes: | :no: |
-| [Omega Scans](https://omegascans.org/) :sub: ||SCAN|| | :no: | :no: |
+| [Omega Scans](https://omegascans.org/) :sub: ||Scan|| | :no: | :no: |
 | [RawDEX](https://rawdex.net/) :lkr: | :no: | :yes: |
-| [The Blank](https://theblank.net/) :sub: ||SCAN|| | :no: | :no: |
+| [The Blank](https://theblank.net/) :sub: ||Scan|| | :no: | :no: |
 | [Toonitube](https://toonitube.com/) | :no: | :yes: |
 | [Toonily](https://toonily.com/) | :yes: | :no: |
 
