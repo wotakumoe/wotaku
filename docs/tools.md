@@ -19,12 +19,12 @@ og:
 |-|-|-|-|-|
 | [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) :s: | :yes: | :yes: | :no: | Ads, feature limit |
 | [AB Download Manager](https://abdownloadmanager.com/) [:src:](https://github.com/amir1376/ab-download-manager) | :yes: | :no: | :yes: | :yes: |
-| [BiglyBT](https://play.google.com/store/apps/details?id=com.biglybt.android.client) :s: | :no: | :yes: | :yes: | :yes: |
-| [LibreTorrent](https://github.com/proninyaroslav/libretorrent) :s: | :no: | :yes: | :yes: | :yes: |
-| [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) | :yes: | :yes: | :no: | Ads |
+| [Advanced Download Manager](https://play.google.com/store/apps/details?id=com.dv.adm) | :yes: | :yes: | :no: | Ads |
 | [Aria2App](https://github.com/devgianlu/Aria2App) | :yes: | :yes: | :yes: | :yes: |
+| [BiglyBT](https://play.google.com/store/apps/details?id=com.biglybt.android.client) :s: | :no: | :yes: | :yes: | :yes: |
 | [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) ==Flud== | :no: | :yes: | :no: | Ads, theme limit |
 | [Gopeed](https://gopeed.com/) [:src:](https://github.com/GopeedLab/gopeed) | :yes: | :yes: | :yes: | :yes: |
+| [LibreTorrent](https://github.com/proninyaroslav/libretorrent) :s: | :no: | :yes: | :yes: | :yes: |
 | [YTDLnis](https://ytdlnis.org/) [:src:](https://github.com/deniscerri/ytdlnis) | :yes: | :no: | :yes: | :yes: |
 
 ### iOS
@@ -87,16 +87,12 @@ og:
 | Software | OS | DDL | P2P | FOSS |
 |-|-|-|-|-|
 | [BiglyBT](https://www.biglybt.com/) [:src:](https://github.com/BiglySoftware/BiglyBT) | :win::app::lin::bsd: | :no: | :yes: | :yes: |
-| [Brisk](https://github.com/BrisklyDev/brisk) | :win::app::lin: | :yes: | :no: | :yes: |
-| [File centipede](https://filecxx.com/en_US/index.html) [:src:](https://github.com/filecxx/FileCentipede) | :win::lin: | :yes: | :yes: | :yes: |
 | [Gopeed](https://gopeed.com/) [:src:](https://github.com/GopeedLab/gopeed) | :win::app::lin: | :yes: | :yes: | :yes: |
 | [ImFile](https://github.com/imfile-io/imfile-desktop/) | :win::app: | :yes: | :yes: | :yes: |
-| [libtorrent](https://www.libtorrent.org/index.html) [:src:](https://github.com/arvidn/libtorrent) | :cmd: | :no: | :yes: | :yes: |
 | [Media Downloader](https://github.com/mhogomchungu/media-downloader) | :win::app::lin: | :yes: | :yes: | :yes: |
 | [MegaBasterd](https://github.com/tonikelope/megabasterd) | :win::app::lin: | :yes: | :no: | :yes: |
 | [Persepolis](https://persepolisdm.github.io/) [:src:](https://github.com/persepolisdm/persepolis) | :win::app::lin: | :yes: | :no: | :yes: |
 | [TIXATI](https://www.tixati.com/) | :win::lin: | :no: | :yes: | :no: |
-| [Xtreme Download Manager](https://xtremedownloadmanager.com/) [:src:](https://github.com/subhra74/xdm) | :win::app::lin: | :yes: | :no: | :yes: |
 
 </Collapsible>
 
