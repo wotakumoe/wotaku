@@ -403,13 +403,13 @@ main figure figcaption {
 }
 
 .vp-doc h1 {
-  margin-top: 0.5rem; 
-  margin-bottom: 0rem; 
+  margin-top: 0.5rem;
+  margin-bottom: 0rem;
 }
 
 .vp-doc h2 {
-  margin-top: 0.5rem; 
-  margin-bottom: 0rem; 
+  margin-top: 0.5rem;
+  margin-bottom: 0rem;
 }
 
 .vp-doc h1 + h2 {
@@ -418,8 +418,8 @@ main figure figcaption {
 }
 
 .vp-doc h4 {
-  margin-top: 1rem; 
-  margin-bottom: 1rem; 
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 /* Make the page half the width for class `sandbox` */
@@ -1639,4 +1639,19 @@ html.reduce-blur-effects {
 .vp-doc .vp-card .vp-card-title {
   text-decoration: none !important;
   border-top: none !important;
+}
+
+.vp-nolebase-page-properties-container:has(.vp-nolebase-page-properties-grid:empty) {
+  display: none !important;
+}
+
+.vp-doc h1 ~ .vp-nolebase-page-properties-container + h2 {
+  margin-top: 1rem !important;
+  padding-top: 1rem !important;
+}
+
+.vp-doc h1 + .vp-nolebase-page-properties-container + h2,
+.vp-doc h1 + .vp-nolebase-page-properties-container:has(.vp-nolebase-page-properties-grid:empty) + h2 {
+  margin-top: 1rem;
+  padding-top: 1rem;
 }
