@@ -116,6 +116,7 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
     <button
       @click="toggleCard()"
       class="bg-$vp-c-default-soft text-primary border-$vp-c-default-soft hover:border-primary ml-3 inline-flex h-7 items-center justify-center whitespace-nowrap rounded-md border-2 border-solid px-1.5 py-3.5 text-sm font-medium transition-all duration-300 sm:h-6"
+      style="vertical-align: middle"
     >
       <span
         :class="isCardShown === false ? `i-lucide:mail` : `i-lucide:mail-x`"
