@@ -37,7 +37,8 @@ outline: 1
 | [Anikoto](https://anikototv.to/home) ==Anikoto== | :yes: | :ie: | :cc::oc: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :yes: | :sync::ie::msync: | :cc: |
 | [AnimePahe](https://animepahe.pw/) ==Animepahe== | :no: | :msync: | :oc: |
-| [Animotvslash](https://www.animotvslash.org/) [:alt:](https://animotvslash.nl/home/) | :no: | :no: | :cc::oc: |
+| [AnimeVerse](https://animeverse.to/) | :no: | :no: | :oc: |
+| [Animotvslash](https://www.animotvslash.org/) [:alt:](https://animotvslash.nl/home/) | :yes: | :no: | :cc::oc: |
 | [Otaku-Streamers](https://beta.otaku-streamers.com/) :acc: ==OtakuStreamers== | :yes: | :no: | :oc: |
 | [Watch Cartoon Online](https://www.wco.tv/) [:prx:](https://www.wcostatus.com/) ==WCO== | :yes: | :no: | :oc: |
 
@@ -47,13 +48,13 @@ outline: 1
 |----------|-------|----------|-----|
 | [1anime](https://1anime.app/discover) [:prx:](https://1ani.me/) | :yes: | :sync: | :cc::oc: |
 | [Animetsu](https://animetsu.net/) [:prx:](https://rentry.org/wotaxy#animetsu) | :yes: | :ie::msync: | :cc::oc: |
-| [AnimeX](https://animex.one/home) | :yes: | :sync: | :cc::oc: |
+| [AnimeX](https://animex.one/home) | :yes: | :sync::ie: | :cc::oc: |
 
 ### Source table
 <ScrapeTable :sites="[
   { name: '1anime', scrapes: { 'Anime Nexus': 'nexus', 'AnimePahe': 'pahe', 'Anitaku': 'gogo', 'Re:ANIME': 'Zen', 'AniZone': 'Zone' } },
   { name: 'Animetsu', scrapes: { 'AnimeGG': 'Meg', 'AnimePahe': 'Pahe','Anitaku': 'Dio', } },
-  { name: 'AnimeX', scrapes: { '123anime (SD)': { name: 'wave', metadata: ['SD'] }, 'Animehub (SD)': { name: 'shiro', metadata: ['SD'] }, 'AnimePahe': 'uwu', 'Anitaku': 'mimi', 'AllManga': 'mochi', 'KickAssAnime': 'kami', 'AnimeOnsen (SD)': { name: 'vee', metadata: ['SD'] }, 'AniZone': 'zaza', 'Anikoto': 'yuki', 'Re:ANIME': 'zen' } },
+  { name: 'AnimeX', scrapes: { '123anime (SD)': { name: 'wave', metadata: ['SD'] }, 'Animehub (SD)': { name: 'shiro', metadata: ['SD'] }, 'AnimePahe': 'uwu', 'Anibd': 'beep', 'Anitaku': 'mimi', 'AllManga': 'miku & mochi', 'AnimeOnsen (SD)': { name: 'vee', metadata: ['SD'] }, 'Anikoto': 'yuki' } },
   { name: 'Miruro', scrapes: { 'AnimeDunya (SD)': { name: 'dune', metadata: ['SD'] }, 'AnimePahe': 'kiwi & telli', 'KickAssAnime': 'hop & kuz', 'AllManga': 'ally & nun', 'Anikoto': 'bun & bee',  } , }
 ]" />
 </Collapsible>
