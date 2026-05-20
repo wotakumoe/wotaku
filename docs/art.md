@@ -75,6 +75,7 @@ og:
 | ^^        | [Shounen Manga Encyclopedia](https://allcomic.noor.jp/) :ljp: |
 | **Music / OST covers** | [Apple Music Artwork Fetcher](https://artwork.thekvt.eu.org/) |
 | ^^        | [Cover Search Engine](https://covers.musichoarders.xyz/) :s: |
+| **Others** | [GameTDB](https://www.gametdb.com/) |
 
 <Collapsible title="Related resources">
 

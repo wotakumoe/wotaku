@@ -15,26 +15,31 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 
 ::: tabs
 
-== Database / Tracker
+== Database
 
+### General
 - [Backloggd](https://www.backloggd.com/)
-- [Epic Games Database](https://egdata.app/)
-- [GameTDB](https://www.gametdb.com/)
-- [GOG Database](https://www.gogdb.org/)
-- [HowLongToBeat](https://howlongtobeat.com/)
 - [IGDB](https://www.igdb.com/)
 - [Infinite Backlog](https://infinitebacklog.net/) :s:
 - [MobyGames](https://www.mobygames.com/)
-- [Nepchan](https://nepchan.org/)
+
+### Site-speicifc
+- [Epic Games Database](https://egdata.app/)
+- [GOG Database](https://www.gogdb.org/)
 - [SteamDB](https://steamdb.info/)
+
+### Themed
+- [GameTDB](https://www.gametdb.com/)
+- [HowLongToBeat](https://howlongtobeat.com/)
+- [Nepchan](https://nepchan.org/)
 - [VNDB](https://vndb.org/) :s:
-- [VN Wiki](https://www.vnwiki.xyz/) [:src:](https://github.com/VNWiki/visual-novel-wiki)
 
 == Guides
 
 - [Game8](https://game8.co/)
 - [Prydwen Institute](https://www.prydwen.gg/)
 - [Umamusume Resources](https://rentry.co/uma-resources)
+- [VN Wiki](https://www.vnwiki.xyz/) [:src:](https://github.com/VNWiki/visual-novel-wiki)
 
 == News
 
