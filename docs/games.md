@@ -13,7 +13,9 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 
 ## Info
 
-### Database / Tracker
+::: tabs
+
+== Database / Tracker
 
 - [Backloggd](https://www.backloggd.com/)
 - [Epic Games Database](https://egdata.app/)
@@ -28,13 +30,13 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 - [VNDB](https://vndb.org/) :s:
 - [VN Wiki](https://www.vnwiki.xyz/) [:src:](https://github.com/VNWiki/visual-novel-wiki)
 
-### Guides
+== Guides
 
 - [Game8](https://game8.co/)
 - [Prydwen Institute](https://www.prydwen.gg/)
 - [Umamusume Resources](https://rentry.co/uma-resources)
 
-### News
+== News
 
 - [4Gamer](https://www.4gamer.net/) :ljp:
 - [Famitsu](https://www.famitsu.com/) :ljp:
@@ -45,33 +47,43 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 - [RPGFan](https://www.rpgfan.com/) 
 - [RPG Site](https://www.rpgsite.net/)
 
-### Price
+== Price
 
 - [Deku Deals](https://www.dekudeals.com/)
 - [GG.deals](https://gg.deals/)
 - [psprices](https://psprices.com/)
 
+:::
+
 ## Tools
 
-### Misc
-- [Arks-Layer](https://arks-layer.com/index.php)
-- [Collapse Launcher](https://collapselauncher.com/) [:src:](https://github.com/CollapseLauncher/Collapse)
-- [Hoyolab Auto-sign](https://github.com/canaria3406/hoyolab-auto-sign)
+:::tabs
+
+== General
 - [Locale Emulator](https://github.com/xupefei/Locale-Emulator)
 - [Locale Remulator](https://github.com/InWILL/Locale_Remulator)
+- [Playnite](https://playnite.link/) [:src:](https://github.com/JosefNemec/Playnite/)
+
+== Gacha
+- [Collapse Launcher](https://collapselauncher.com/) [:src:](https://github.com/CollapseLauncher/Collapse)
+- [Hoyolab Auto-sign](https://github.com/canaria3406/hoyolab-auto-sign)
+- [Starward](https://github.com/Scighost/Starward)
+
+== Game-specific
+- [Arks-Layer](https://arks-layer.com/index.php)
 - [LunarCast Replay Database](http://replay.lunarcast.net/)
 - [Megami Tensei Fusion Tools](https://aqiu384.github.io/megaten-fusion-tool/home)
-- [Playnite](https://playnite.link/) [:src:](https://github.com/JosefNemec/Playnite/)
 - [Sekai Viewer](https://sekai.best/) [:src:](https://github.com/Sekai-World/sekai-viewer)
 - [sm64coopdx](https://sm64coopdx.com/)
-- [Starward](https://github.com/Scighost/Starward)
 - [WuWa Tracker](https://wuwatracker.com/)
 - [XIVLauncher](https://goatcorp.github.io/) [:src:](https://github.com/goatcorp/FFXIVQuickLauncher)
 
+:::
 
 ## osu!
 
-### Websites
+::: tabs
+== Websites
 - [osu!](https://osu.ppy.sh/) [:src:](https://github.com/ppy/osu) ||Official||
 - [Anisync](https://anisync.live/)
 - [BeatConnect](https://beatconnect.io/)
@@ -83,17 +95,20 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 - [o!rdr](https://ordr.issou.best/)
 - [Web osu!mania](https://webosumania.com/) [:src:](https://github.com/HecticKiwi/Web-Osu-Mania)
 
-### Tools
+== Tools
 - [ani!Search](https://klof44.ca/ani-search/)
 - [Batch Beatmap Downloader](https://github.com/nzbasic/batch-beatmap-downloader) :win:
 - [osu! Cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner) :win:
 - [osu! Trainer](https://github.com/FunOrange/osu-trainer) :win:
 - [sentakki](https://github.com/LumpBloom7/sentakki) :win::app::lin:
 - [Tau Ruleset](https://taulazer.github.io/) :win: [:src:](https://github.com/taulazer/tau)
+:::
 
 ## Pokémon
 
-### Wiki / Websites
+::: tabs
+
+== Wiki / Websites
 
 - [Pokémon](https://www.pokemon.com/us) ||Official|| [:poke:](https://www.pokemon.com/us/pokedex)
 - [Bulbagarden](https://bulbagarden.net/) [:poke:](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_National_Pok%C3%A9dex_number)
@@ -105,7 +120,8 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 - [PokéJungle](https://pokejungle.net/) ||News||
 - [PokéPalette](https://pokemonpalette.com/)
 
-### Fan Games
+== Fan Games
+
 - [Deluge RPG](https://www.delugerpg.com/)
 - [Eevee Expo](https://eeveeexpo.com/)
 - [PokéDoku](https://pokedoku.com/)
@@ -117,28 +133,31 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 - [PokéRogue](https://pokerogue.net/) [:src:](https://github.com/pagefaultgames/pokerogue)
 - [Who's that Pokémon?](https://gearoid.me/pokemon/)
 
-### Tools
+== Tools
 - Nuzlocke Chart [:and:](https://play.google.com/store/apps/details?id=com.pseudocode.nuzlockechart) [:ios:](https://apps.apple.com/app/nuzlocke-chart/id1573090300)
 - [PKHeX](https://github.com/kwsch/PKHeX)
 - [Poké Transporter GB](https://github.com/GearsProgress/Poke_Transporter_GB)
 - [Pokémon Type Calculator](https://www.pkmn.help/pokedex/)
 - [Stat Calculator](https://veekun.com/dex/gadgets/stat_calculator)
 - [Universal Pokémon Randomizer ZX](https://github.com/Ajarmar/universal-pokemon-randomizer-zx/)
+:::
 
 ## Sonic
 
-### Wiki / Websites
+::: tabs
+== Wiki / Websites
+
 - [Sonic the Hedgehog](http://www.sonicthehedgehog.com/) ||Official||
 - [Sonic City](https://sonic-city.net/)
 - [Sonic Retro](https://info.sonicretro.org/)
 - [Sonic Stadium](https://www.sonicstadium.org/)
 
-### Media
+== Media
 - [Astro Museum's Sonic Zone](https://astromuseum.org/sonicZone/main)
 - [Grabber Zone](https://grabber.zone/)
 - [Sonic Zone](https://soniczone.net/index.html)
 
-### Fan Games
+== Fan Games
 - [Sonic Fan Games HQ](https://sonicfangameshq.com/forums/)
 - [Sonic Hacking Contest](https://shc.zone/vault/)
 - [Sonic 1 Forever](https://teamforeveronline.wixsite.com/home/sonic-1-forever)
@@ -148,20 +167,23 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 - [Sonic Robo Blast 2](https://www.srb2.org/)
 - [Sonic Triple Trouble 16-bit](https://stt16bit.wixsite.com/sonictripletrouble16)
 
-### Tools
+== Tools
 - [Unleashed Recompiled](https://github.com/hedge-dev/UnleashedRecomp)
+
+:::
 
 ## Touhou
 
-### Database / News
+::: tabs
+== Database / News
 - [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)
 - [Touhou Yomoyama News](https://touhou-project.news/) :ljp:
  
-### Downloads
+== Downloads
 - [Moriya Shrine](https://moriyashrine.org/) :s:
 - [Doujin Style](https://doujinstyle.com/)
 
-### Fan Games / Mods
+== Fan Games / Mods
 - [BulletForge](https://www.bulletforge.org/projects)
 - [ShanghaiEXE](https://gitgud.io/SHNecro/shanghaiexe)
 - [Taisei](https://taisei-project.org/) [:src:](https://github.com/taisei-project/taisei)
@@ -169,7 +191,7 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 - [Touhou Fan Game Jam BLM](https://nitori.itch.io/touhou-jam-blm)
 - [Touhou Puppet Play (Touhoumon)](https://maribelhearn.com/touhoumon)
 
-### Game Tools
+== Game Tools
 - [Game Tools and Modifications](https://en.touhouwiki.net/wiki/Game_Tools_and_Modifications)
 - [autopunch](https://autopunch.delthas.fr/) [:src:](https://github.com/delthas/autopunch)
 - [Neko Project II](https://nc-roadgeek.neocities.org/mima/pc98-neko)
@@ -178,8 +200,9 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 - [Touhou Toolkit](https://thtk.thpatch.net/) [:src:](https://github.com/thpatch/thtk)
 - [thprac](https://github.com/touhouworldcup/thprac)
 
-<Collapsible title="Related resources">
+:::
 
+<Collapsible title="Related resources">
 
 | Section | Websites |
 |-|-|
@@ -199,7 +222,8 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 
 ## Yu-Gi-Oh!
 
-### Database / News
+::: tabs
+== Database / News
 - [Yu-Gi-Oh!](https://www.yugioh-card.com/) ||Official||
 - [Card Database](https://www.db.yugioh-card.com/yugiohdb/) ||Official||
 - [YGOrganization](https://ygorganization.com/)
@@ -209,26 +233,28 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 - [Master Duel Meta](https://www.masterduelmeta.com/)
 - [Duel Links Meta](https://www.duellinksmeta.com/)
 
-### Simulators
+== Simulators
 
-#### Official
+### Official
 - [Yu-Gi-Oh! Master Duel](https://www.konami.com/yugioh/masterduel/us/en/)
 - [Yu-Gi-Oh! Duel Links](https://www.konami.com/yugioh/duel_links/en/)
 - [Yu-Gi-Oh! Neuron](https://www.konami.com/yugioh/neuron/en/) ||Companion||
-___
-#### Unofficial
+
+### Unofficial
 - [Dueling Book](https://www.duelingbook.com/) ||Manual||
 - [Dungeon Duel Monsters](https://mikaygo.itch.io/ddm) ||Manual||
 - [EDO Pro](https://projectignis.github.io/index.html) ||Automatic||
 - [YGO Omega](https://omega.duelistsunite.org/) ||Automatic||
-___
-#### Alternative/Historic Formats
+
+### Alternative/Historic Formats
 - [Goat Format](https://www.goatformat.com/)
 - [Edison Format](https://www.edisonformat.net/)
 - [Format Library](https://www.formatlibrary.com/)
-___
-#### Subreddits
+
+== Subreddits
 - [Yu-Gi-Oh!](https://old.reddit.com/r/yugioh/)
 - [Master Duel](https://old.reddit.com/r/masterduel/)
 - [Duel Links](https://old.reddit.com/r/DuelLinks/)
 - [Goat Format](https://old.reddit.com/r/Goat_Format/)
+
+:::
