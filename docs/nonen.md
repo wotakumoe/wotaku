@@ -27,7 +27,7 @@ og:
 | [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) | :yes: | :msync: |
 | [Anikoto](https://anikototv.to/home) ==Anikoto== | :yes: | :ie: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :yes: | :sync::ie::msync: |
-| [Animotvslash](https://www.animotvslash.org/) [:alt:](https://animotvslash.nl/home/) | :no: | :no: |
+| [Animotvslash](https://www.animotvslash.org/) [:alt:](https://animotvslash.nl/home/) | :yes: | :no: |
 | [Anime-Dunya](https://anime-dunya.com/en) :sd: | :yes: | :no: |
 | [AnimeOnsen](https://www.animeonsen.xyz/) :sd: | :yes: | :msync: |
 
