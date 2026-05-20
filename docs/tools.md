@@ -300,11 +300,11 @@ og:
 | [TeraCopy](https://www.codesector.com/teracopy) :cs: | :win::app: |
 
 
-![](/banner/ext.webp)
+![](/banner/others.webp)
 
-# Extensions
+# Others
 
-___
+## Extensions
 
 | Category | Extension | Platform |
 | :--- | :--- | :--- |
@@ -334,11 +334,7 @@ ___
 ::: tip [**Click here**](/guides/tech/adblock) for full adblock solutions.
 :::
 
-![](/banner/script.webp)
-
-# Scripts
-
-___
+## Scripts
 
 | Category | Scripts |
 | :--- | :--- |
