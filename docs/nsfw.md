@@ -97,7 +97,6 @@ og:
 - [Nozomi](https://nozomi.la/)
 - [Oreno3D](https://oreno3d.com/)
 - [Pixiv](https://www.pixiv.net)
-- [Rule 34 Paheal](https://rule34.paheal.net/) ==Rule34Paheal==
 - [yande.re](https://yande.re/)
 
 ### Frontends

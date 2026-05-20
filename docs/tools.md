@@ -18,6 +18,7 @@ og:
 | Name | DDL | P2P | FOSS | Free |
 |-|-|-|-|-|
 | [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) :s: | :yes: | :yes: | :no: | Ads, feature limit |
+| [AB Download Manager](https://abdownloadmanager.com/) [:src:](https://github.com/amir1376/ab-download-manager) | :yes: | :no: | :yes: | :yes: |
 | [BiglyBT](https://play.google.com/store/apps/details?id=com.biglybt.android.client) :s: | :no: | :yes: | :yes: | :yes: |
 | [LibreTorrent](https://github.com/proninyaroslav/libretorrent) :s: | :no: | :yes: | :yes: | :yes: |
 | [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) | :yes: | :yes: | :no: | Ads |
