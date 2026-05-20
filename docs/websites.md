@@ -9,6 +9,7 @@ outline: 1
 - Almost all the sites feature erotic/mature content, so proceed with caution.
 - A lot of the websites have their own app. We don't recommend these apps even though the websites are listed here.
 - If a section is not worth ranking, then the websites will be sorted alphabetically. 
+- Just use [Nyaa](https://nyaa.si/).
 :::
 
 ![](/banner/wanime.webp)
