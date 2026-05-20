@@ -53,9 +53,9 @@ outline: 1
 
 ### Source table
 <ScrapeTable :sites="[
-  { name: '1anime', scrapes: { 'Anime Nexus': 'nexus', 'AnimePahe': 'pahe', 'Anitaku': 'gogo', 'Re:ANIME': 'Zen', 'AniZone': 'Zone' } },
-  { name: 'Animetsu', scrapes: { 'AnimeGG': 'Meg', 'AnimePahe': 'Pahe','Anitaku': 'Dio', } },
-  { name: 'AnimeX', scrapes: { '123anime (SD)': { name: 'wave', metadata: ['SD'] }, 'Animehub (SD)': { name: 'shiro', metadata: ['SD'] }, 'AnimePahe': 'uwu', 'Anibd': 'beep', 'Anitaku': 'mimi', 'AllManga': 'miku & mochi', 'AnimeOnsen (SD)': { name: 'vee', metadata: ['SD'] }, 'Anikoto': 'yuki' } },
+  { name: '1anime', scrapes: { 'Anime Nexus': 'nexus', 'AnimePahe': 'pahe', 'AniNeko': 'gogo', 'Re:ANIME': 'Zen', 'AniZone': 'Zone' } },
+  { name: 'Animetsu', scrapes: { 'AnimeGG': 'Meg', 'AnimePahe': 'Pahe','AniNeko': 'Dio', } },
+  { name: 'AnimeX', scrapes: { '123anime (SD)': { name: 'wave', metadata: ['SD'] }, 'Animehub (SD)': { name: 'shiro', metadata: ['SD'] }, 'AnimePahe': 'uwu', 'Anibd': 'beep', 'AniNeko': 'mimi', 'AllManga': 'miku & mochi', 'AnimeOnsen (SD)': { name: 'vee', metadata: ['SD'] }, 'Anikoto': 'yuki' } },
   { name: 'Miruro', scrapes: { 'AnimeDunya (SD)': { name: 'dune', metadata: ['SD'] }, 'AnimePahe': 'kiwi & telli', 'KickAssAnime': 'hop & kuz', 'AllManga': 'ally & nun', 'Anikoto': 'bun & bee',  } , }
 ]" />
 </Collapsible>
