@@ -1,5 +1,5 @@
 - Promising site turned complete mess.
-- Entirely vibecoded, so you will routinely encounter various bugs.
+- Entirely vibecoded, so you will encounter various bugs.
 - Started watermarking every single chapter.
 - Uploads chapters from multiple sources.
 - Pretty decent library, would already be removed otherwise.
