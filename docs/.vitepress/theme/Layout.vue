@@ -283,6 +283,46 @@ const reloadTakodachi = () => {
 onMounted(() => {
   if (import.meta.env.SSR) return
 
+  // Icon tooltip: fixed-position popup appended to <body> to escape table overflow clipping
+  const tooltipEl = document.createElement('div')
+  tooltipEl.className = 'icon-tip-popup'
+  document.body.appendChild(tooltipEl)
+
+  const showTooltip = (e: MouseEvent) => {
+    const target = (e.target as HTMLElement).closest('.icon-tip') as HTMLElement | null
+    if (!target) return
+    const tip = target.dataset.tip
+    if (!tip) return
+
+    tooltipEl.textContent = tip
+    tooltipEl.classList.add('visible')
+
+    const rect = target.getBoundingClientRect()
+    const tipWidth = tooltipEl.offsetWidth
+    const tipHeight = tooltipEl.offsetHeight
+    let left = rect.left + rect.width / 2 - tipWidth / 2
+    left = Math.max(8, Math.min(left, window.innerWidth - tipWidth - 8))
+    const top = rect.top - tipHeight - 6
+
+    tooltipEl.style.left = `${left}px`
+    tooltipEl.style.top = `${top}px`
+  }
+
+  const hideTooltip = () => {
+    tooltipEl.classList.remove('visible')
+  }
+
+  document.addEventListener('mouseover', showTooltip)
+  document.addEventListener('mouseout', hideTooltip)
+  document.addEventListener('scroll', hideTooltip, true)
+
+  onUnmounted(() => {
+    document.removeEventListener('mouseover', showTooltip)
+    document.removeEventListener('mouseout', hideTooltip)
+    document.removeEventListener('scroll', hideTooltip, true)
+    tooltipEl.remove()
+  })
+
   // Arrow key scrolling + Escape close for sidebars and content
   let activeScrollTarget: HTMLElement | Window = window
 

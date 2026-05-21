@@ -1471,29 +1471,25 @@ html.reduce-blur-effects {
   display: inline-block;
   vertical-align: -0.125em;
   cursor: help;
+}
 
-  &::after {
-    content: attr(data-tip);
-    position: absolute;
-    bottom: calc(100% + 6px);
-    left: 50%;
-    transform: translateX(-50%);
-    padding: 4px 8px;
-    border-radius: 6px;
-    background: var(--vp-c-bg-elv);
-    color: var(--vp-c-text-1);
-    font-size: 12px;
-    line-height: 1.4;
-    white-space: nowrap;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
-    pointer-events: none;
-    opacity: 0;
-    transition: opacity 0.15s;
-    z-index: 10;
-  }
+/* Fixed-position tooltip rendered into <body> by JS to escape table overflow clipping */
+.icon-tip-popup {
+  position: fixed;
+  padding: 4px 8px;
+  border-radius: 6px;
+  background: var(--vp-c-bg-elv);
+  color: var(--vp-c-text-1);
+  font-size: 12px;
+  line-height: 1.4;
+  white-space: nowrap;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  pointer-events: none;
+  z-index: 9999;
+  opacity: 0;
+  transition: opacity 0.15s;
 
-  &:hover::after,
-  &:focus::after {
+  &.visible {
     opacity: 1;
   }
 }
