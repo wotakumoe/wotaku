@@ -14,7 +14,6 @@ export function OgImageTemplate({ title, image }: OgImageTemplateProps) {
           <div tw='flex items-center'>
             <div tw='text-zinc-100 ml-2 mt-1 font-semibold'>wotaku.wiki</div>
           </div>
-          <img tw='h-12 w-16' src='https://i.wotaku.wiki/f/logo.svg' />
         </div>
         <div tw='w-full pr-56 flex flex-col items-start justify-end'>
           <div tw='text-[#f7f7f7] text-6xl font-bold'>{title}</div>
