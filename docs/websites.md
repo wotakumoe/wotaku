@@ -35,7 +35,6 @@ outline: 1
 | [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) | :yes: | :msync: | :cc::oc: |
 | [Anibd](https://anibd.app/) :ero: [:alt:](https://ani.lol/) | :yes: | :no: | :oc: |
 | [AniHQ](https://anihq.org/home/) | :yes: | :no: | :oc: |
-| [Anikoto](https://anikototv.to/home) ==Anikoto== | :yes: | :ie: | :cc::oc: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :yes: | :sync::ie::msync: | :cc: |
 | [AnimePahe](https://animepahe.pw/) ==Animepahe== | :no: | :msync: | :oc: |
 | [AnimeVerse](https://animeverse.to/) | :no: | :no: | :oc: |

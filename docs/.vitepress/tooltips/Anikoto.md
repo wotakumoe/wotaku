@@ -1,3 +1,0 @@
-- Used to reupload from HiAnime and AnimeKai.
-- Now uploads softsub from AniNeko and embeds AnimePahe players.
-- Some anime may stop being updated unexpectedly.
