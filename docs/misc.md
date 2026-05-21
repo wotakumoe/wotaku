@@ -12,7 +12,7 @@ outline: [1,2]
 ## General
 - [AniList](https://anilist.co/) :s:
 - [MyAnimeList](https://myanimelist.net/)
-- [MangaBaka](https://mangabaka.org/) :s:
+- [MangaBaka](https://mangabaka.org/?utm_source=wotaku) :s:
 - [Wikipedia](https://www.wikipedia.org/) :s:
 
 <collapsible title="More">
