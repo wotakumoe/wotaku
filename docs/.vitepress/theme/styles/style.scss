@@ -150,7 +150,8 @@ $ease-in-expo: cubic-bezier(0.7, 0, 0.84, 0);
   color: var(--vp-c-brand-1);
   text-decoration: underline;
   text-underline-offset: 4px;
-  text-decoration-style: solid;
+  text-decoration-style: dashed;
+  text-decoration-thickness: 1px;
   text-decoration-color: transparent;
   -webkit-text-decoration-color: transparent;
   transition: text-decoration-color 0.25s;
@@ -165,7 +166,8 @@ $ease-in-expo: cubic-bezier(0.7, 0, 0.84, 0);
 .vp-doc .custom-block a {
   text-decoration: underline;
   text-underline-offset: 4px;
-  text-decoration-style: solid;
+  text-decoration-style: dashed;
+  text-decoration-thickness: 1px;
 }
 
 ::selection {
@@ -284,6 +286,8 @@ main figure figcaption {
   font-weight: 500;
   text-decoration: underline;
   text-underline-offset: 2px;
+  text-decoration-style: dashed;
+  text-decoration-thickness: 1px;
   transition: opacity 0.25s;
 }
 
@@ -297,6 +301,8 @@ main figure figcaption {
   font-weight: 500;
   text-decoration: underline;
   text-underline-offset: 2px;
+  text-decoration-style: dashed;
+  text-decoration-thickness: 1px;
   transition: opacity 0.25s;
 }
 
@@ -310,6 +316,8 @@ main figure figcaption {
   font-weight: 500;
   text-decoration: underline;
   text-underline-offset: 2px;
+  text-decoration-style: dashed;
+  text-decoration-thickness: 1px;
   transition: opacity 0.25s;
 }
 
@@ -323,6 +331,8 @@ main figure figcaption {
   font-weight: 500;
   text-decoration: underline;
   text-underline-offset: 2px;
+  text-decoration-style: dashed;
+  text-decoration-thickness: 1px;
   transition: opacity 0.25s;
 }
 
@@ -336,6 +346,8 @@ main figure figcaption {
   font-weight: 500;
   text-decoration: underline;
   text-underline-offset: 2px;
+  text-decoration-style: dashed;
+  text-decoration-thickness: 1px;
   transition: opacity 0.25s;
 }
 
