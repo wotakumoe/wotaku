@@ -1,5 +1,6 @@
-- Entirely vibecoded, so you may encounter dumbass bugs.
+- Promising site turned complete mess.
+- Entirely vibecoded, so you will routinely encounter various bugs.
+- Started watermarking every single chapter.
 - Uploads chapters from multiple sources.
-- Pretty decent library size.
-- UI is somewhat janky.
-- Aggregation and tagging has worsened with time.
+- Pretty decent library, would already be removed otherwise.
+- Aggregation and tagging have also worsened over time.
