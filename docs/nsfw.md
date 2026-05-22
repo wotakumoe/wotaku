@@ -81,8 +81,8 @@ og:
 | [Omega Scans](https://omegascans.org/) :sub: ||Scan|| | :no: | :no: |
 | [RawDEX](https://rawdex.net/) :lkr: | :no: | :yes: |
 | [The Blank](https://theblank.net/) :sub: ||Scan|| | :no: | :no: |
-| [Toonitube](https://toonitube.com/) | :no: | :yes: |
 | [Toonily](https://toonily.com/) | :yes: | :no: |
+| [Toonitube](https://toonitube.com/) | :no: | :yes: |
 | [WebtoonScan](https://webtoonscan.com/) | :yes: | :yes: |
 
 ## Illustrations
