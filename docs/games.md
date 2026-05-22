@@ -27,15 +27,15 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 | ^^ | [SteamDB](https://steamdb.info/) |
 | **Themed** | [GameTDB](https://www.gametdb.com/) |
 | ^^ | [HowLongToBeat](https://howlongtobeat.com/) |
-| ^^ | [Nepchan](https://nepchan.org/) |
-| ^^ | [VNDB](https://vndb.org/) :s: |
+| ^^ | [The Doujin RPG Database](https://nepchan.org/) |
+| ^^ | [The Visual Novel Database](https://vndb.org/) :s: |
 | **Compatibility** | [ProtonDB](https://www.protondb.com/) |
 | ^^ | [Visual Novel Compatibility List](https://www.vnwiki.xyz/) |
 | ^^ | [Wine Application Database](https://appdb.winehq.org/) |
 
 == Guides
 - [Game8](https://game8.co/)
-- [VN Wiki](https://www.vnwiki.xyz/) [:src:](https://github.com/VNWiki/visual-novel-wiki)
+- [Visual Novel Wiki](https://www.vnwiki.xyz/) [:src:](https://github.com/VNWiki/visual-novel-wiki)
 
 == News
 - [4Gamer](https://www.4gamer.net/) :ljp:
