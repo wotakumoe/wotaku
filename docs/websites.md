@@ -329,21 +329,6 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 - [Henshin Grid](https://henshingrid.blogspot.com/)
 - [My Shiny Toy Robots](https://www.myshinytoyrobots.com/)
 
-## Subreddits
-
-- [Tokusatsu](https://old.reddit.com/r/Tokusatsu/)
-- [Gamera](https://old.reddit.com/r/Gamera/)
-- [GARO](https://old.reddit.com/r/GARO/)
-- [Godzilla](https://old.reddit.com/r/Godzilla/)
-- [Kaiju](https://old.reddit.com/r/Kaiju/)
-- [Kamen Rider](https://old.reddit.com/r/KamenRider/)
-- [King Kong](https://old.reddit.com/r/kingkong/)
-- [Monsterverse](https://old.reddit.com/r/Monsterverse/)
-- [Mothra](https://old.reddit.com/r/Mothra/)
-- [Power Rangers](https://old.reddit.com/r/PowerRangers/)
-- [Super Sentai](https://old.reddit.com/r/SuperSentai/)
-- [Ultraman](https://old.reddit.com/r/Ultraman/)
-
 ![](/banner/comics.webp)
 
 # Comics

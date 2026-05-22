@@ -228,25 +228,6 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [X-IDOL](https://xidol.net/) [:prx:](https://rentry.org/wotaxy#x-idol)
 - :more: [Japanese DDL](/nonen#direct)
 
-## Communities
-
-### Subreddits
-- [r/hentai](https://old.reddit.com/r/hentai/)
-- [r/Artistic_Hentai](https://old.reddit.com/r/Artistic_Hentai/)
-- [r/doujinshi](https://old.reddit.com/r/doujinshi/)
-- [r/ecchi](https://old.reddit.com/r/ecchi/)
-- [r/hentaimemes](https://old.reddit.com/r/hentaimemes/)
-- [r/HENTAI_GIF](https://old.reddit.com/r/HENTAI_GIF/)
-- [r/pornhwa](https://old.reddit.com/r/pornhwa/) [:d:](https://discord.gg/epjkRVp7gD)
-- [r/rule34](https://old.reddit.com/r/rule34/) [:d:](https://discord.gg/zMrMhpZ)
-- [r/thighdeology](https://old.reddit.com/r/thighdeology/)
-- [r/wholesomehentai](https://old.reddit.com/r/wholesomehentai/) [:d:](https://discord.com/invite/aqttTca)
-
-### Discord servers
-- [:d: Hanako's Hideout](https://discord.gg/jVvSbYB)
-- [:d: Hanime.tv Community](https://discord.gg/hanime-tv)
-- [:d: Tsumino](https://discord.gg/v6RfNfA7WW)
-
 ## Scripts
 
 - [Comic Looms](https://github.com/MapoMagpie/eh-view-enhance)

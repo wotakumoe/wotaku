@@ -256,10 +256,5 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 - [Edison Format](https://www.edisonformat.net/)
 - [Format Library](https://www.formatlibrary.com/)
 
-== Subreddits
-- [Yu-Gi-Oh!](https://old.reddit.com/r/yugioh/)
-- [Master Duel](https://old.reddit.com/r/masterduel/)
-- [Duel Links](https://old.reddit.com/r/DuelLinks/)
-- [Goat Format](https://old.reddit.com/r/Goat_Format/)
 
 :::
