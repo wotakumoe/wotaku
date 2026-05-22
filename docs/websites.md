@@ -25,7 +25,7 @@ outline: 1
 | [Miruro](https://www.miruro.to/) :scrpr: [:prx:](https://www.miruro.com) | :yes: | :sync::msync: | :cc::oc: |
 | [Re:ANIME](https://reanime.to/home) ==ReANIME== | :yes: | :sync::ie::msync: | :cc: |
 | [AniZone](https://anizone.to/) ==AniZone== | :no: | :msync: | :cc: |
-| [AnimeVerse](https://animeverse.to/) | :no: | :no: | :oc: |
+| [AnimeVerse](https://animeverse.to/) ==AnimeVerse== | :no: | :no: | :oc: |
 
 
 <Collapsible title="More">
