@@ -16,33 +16,28 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 ::: tabs
 
 == Database
-
-### General
-- [Backloggd](https://www.backloggd.com/)
-- [IGDB](https://www.igdb.com/)
-- [Infinite Backlog](https://infinitebacklog.net/) :s:
-- [MobyGames](https://www.mobygames.com/)
-
-### Site-speicifc
-- [Epic Games Database](https://egdata.app/)
-- [GOG Database](https://www.gogdb.org/)
-- [SteamDB](https://steamdb.info/)
-
-### Themed
-- [GameTDB](https://www.gametdb.com/)
-- [HowLongToBeat](https://howlongtobeat.com/)
-- [Nepchan](https://nepchan.org/)
-- [VNDB](https://vndb.org/) :s:
+| category | websites |
+|---|---|
+| **General** | [Backloggd](https://www.backloggd.com/) |
+| ^^ | [IGDB](https://www.igdb.com/) |
+| ^^ | [Infinite Backlog](https://infinitebacklog.net/) :s: |
+| ^^ | [MobyGames](https://www.mobygames.com/) |
+| **Site-speicifc** | [Epic Games Database](https://egdata.app/) |
+| ^^ | [GOG Database](https://www.gogdb.org/) |
+| ^^ | [SteamDB](https://steamdb.info/) |
+| **Themed** | [GameTDB](https://www.gametdb.com/) |
+| ^^ | [HowLongToBeat](https://howlongtobeat.com/) |
+| ^^ | [Nepchan](https://nepchan.org/) |
+| ^^ | [VNDB](https://vndb.org/) :s: |
+| **Compatibility** | [ProtonDB](https://www.protondb.com/) |
+| ^^ | [Visual Novel Compatibility List](https://www.vnwiki.xyz/) |
+| ^^ | [Wine Application Database](https://appdb.winehq.org/) |
 
 == Guides
-
 - [Game8](https://game8.co/)
-- [Prydwen Institute](https://www.prydwen.gg/)
-- [Umamusume Resources](https://rentry.co/uma-resources)
 - [VN Wiki](https://www.vnwiki.xyz/) [:src:](https://github.com/VNWiki/visual-novel-wiki)
 
 == News
-
 - [4Gamer](https://www.4gamer.net/) :ljp:
 - [Famitsu](https://www.famitsu.com/) :ljp:
 - [Frontline](https://www.frontlinejp.net/)
@@ -53,7 +48,6 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 - [RPG Site](https://www.rpgsite.net/)
 
 == Price
-
 - [Deku Deals](https://www.dekudeals.com/)
 - [GG.deals](https://gg.deals/)
 - [psprices](https://psprices.com/)
@@ -65,14 +59,9 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 :::tabs
 
 == General
-- [Locale Emulator](https://github.com/xupefei/Locale-Emulator)
-- [Locale Remulator](https://github.com/InWILL/Locale_Remulator)
+- [Heroic Games Launcher](https://heroicgameslauncher.com/) [:src:](https://heroicgameslauncher.com/)
+- [Lutris](https://lutris.net/) [:src:](https://github.com/lutris/lutris)
 - [Playnite](https://playnite.link/) [:src:](https://github.com/JosefNemec/Playnite/)
-
-== Gacha
-- [Collapse Launcher](https://collapselauncher.com/) [:src:](https://github.com/CollapseLauncher/Collapse)
-- [Hoyolab Auto-sign](https://github.com/canaria3406/hoyolab-auto-sign)
-- [Starward](https://github.com/Scighost/Starward)
 
 == Game-specific
 - [Arks-Layer](https://arks-layer.com/index.php)
@@ -80,10 +69,32 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 - [Megami Tensei Fusion Tools](https://aqiu384.github.io/megaten-fusion-tool/home)
 - [Sekai Viewer](https://sekai.best/) [:src:](https://github.com/Sekai-World/sekai-viewer)
 - [sm64coopdx](https://sm64coopdx.com/)
-- [WuWa Tracker](https://wuwatracker.com/)
 - [XIVLauncher](https://goatcorp.github.io/) [:src:](https://github.com/goatcorp/FFXIVQuickLauncher)
 
+== Others
+- [Locale Emulator](https://github.com/xupefei/Locale-Emulator)
+- [Locale Remulator](https://github.com/InWILL/Locale_Remulator)
+
 :::
+
+
+## Gacha
+
+::: tabs 
+
+== Info / Guides
+- [GACHAREVENUE](https://revenue.ennead.cc/)
+- [Prydwen Institute](https://www.prydwen.gg/)
+- [Umamusume Resources](https://rentry.co/uma-resources)
+
+== Tools
+- [Collapse Launcher](https://collapselauncher.com/) [:src:](https://github.com/CollapseLauncher/Collapse)
+- [Hoyolab Auto-sign](https://github.com/canaria3406/hoyolab-auto-sign)
+- [Starward](https://github.com/Scighost/Starward)
+- [WuWa Tracker](https://wuwatracker.com/)
+
+:::
+
 
 ## osu!
 
@@ -211,16 +222,16 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 
 | Section | Websites |
 |-|-|
-| Info / Wiki | [THB Wiki](https://thwiki.cc/) :lcn: |
+| **Info / Wiki** | [THB Wiki](https://thwiki.cc/) :lcn: |
 | ^^          | [Touhou Doujinshi Index](https://scarlet.nsk.sh/) [:src:](https://github.com/nanoskript/touhou-doujinshi-index) |
 | ^^          | [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki) |
 | ^^          | :prev: [Touhou Dictionary](https://nsk.sh/touhou/dict/) |
 | ^^          | [Touhou Spotify Music](https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit#gid=0) |
-| Music       | [Gensokyo Radio](https://gensokyoradio.net/playing/) ||256kbps|| |
+| **Music**       | [Gensokyo Radio](https://gensokyoradio.net/playing/) ||256kbps|| |
 | ^^          | [Touhou Disc](https://alist.thdisc.tk) |
 | ^^          | [Touhou Lossess Music Collection](https://tlmc.pf-n.co/tlmc) |
 | ^^          | [Touhou Player](https://touhou.kuukunen.net/) |
-| Others      | [Fantasy Kaleidoscope ~The Memories of Phantasm~](https://www.youtube.com/playlist?list=PLUGHUFEjeh3FCf6_xeGSIU7bRQBxuO-05) |
+| **Others**      | [Fantasy Kaleidoscope ~The Memories of Phantasm~](https://www.youtube.com/playlist?list=PLUGHUFEjeh3FCf6_xeGSIU7bRQBxuO-05) |
 
 
 </Collapsible>
@@ -240,21 +251,17 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 
 == Simulators
 
-### Official
-- [Yu-Gi-Oh! Master Duel](https://www.konami.com/yugioh/masterduel/us/en/)
-- [Yu-Gi-Oh! Duel Links](https://www.konami.com/yugioh/duel_links/en/)
-- [Yu-Gi-Oh! Neuron](https://www.konami.com/yugioh/neuron/en/) ||Companion||
-
-### Unofficial
-- [Dueling Book](https://www.duelingbook.com/) ||Manual||
-- [Dungeon Duel Monsters](https://mikaygo.itch.io/ddm) ||Manual||
-- [EDO Pro](https://projectignis.github.io/index.html) ||Automatic||
-- [YGO Omega](https://omega.duelistsunite.org/) ||Automatic||
-
-### Alternative/Historic Formats
-- [Goat Format](https://www.goatformat.com/)
-- [Edison Format](https://www.edisonformat.net/)
-- [Format Library](https://www.formatlibrary.com/)
-
+| Type | Simulators |
+|---|---|
+| **Official** | [Yu-Gi-Oh! Master Duel](https://www.konami.com/yugioh/masterduel/us/en/) |
+| ^^ | [Yu-Gi-Oh! Duel Links](https://www.konami.com/yugioh/duel_links/en/) |
+| ^^ | [Yu-Gi-Oh! Neuron](https://www.konami.com/yugioh/neuron/en/) ||Companion|| |
+| **Unofficial** | [Dueling Book](https://www.duelingbook.com/) ||Manual|| |
+| ^^ | [Dungeon Duel Monsters](https://mikaygo.itch.io/ddm) ||Manual|| |
+| ^^ | [EDO Pro](https://projectignis.github.io/index.html) ||Automatic|| |
+| ^^ | [YGO Omega](https://omega.duelistsunite.org/) ||Automatic|| |
+| **Alternative/Historic Formats** | [Goat Format](https://www.goatformat.com/) |
+| ^^ | [Edison Format](https://www.edisonformat.net/) |
+| ^^ | [Format Library](https://www.formatlibrary.com/) |
 
 :::
