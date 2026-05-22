@@ -173,7 +173,3 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 | **/vt/** - [Virtual YouTubers](https://boards.4chan.org/vt/) | [URL](https://anychans.github.io/4chan/vt/) | [URL](https://warosu.org/vt/) |
 | **/w/** - [Anime/Wallpapers](https://boards.4chan.org/w/) | [URL](https://anychans.github.io/4chan/w/) | [URL](https://archive.palanq.win/w/) |
 | **/y/** - [Yaoi](https://boards.4chan.org/y/) | [URL](https://anychans.github.io/4chan/y/) | [URL](https://archived.moe/y/) |
-
-::: danger NSFW Section
-You can find a list of NSFW communities [**here**](/nsfw#communities).
-:::
