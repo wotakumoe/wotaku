@@ -84,6 +84,8 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 
 == Info / Guides
 - [GACHAREVENUE](https://revenue.ennead.cc/)
+- [Nikke.gg](https://nikke.gg/)
+- [Nikke-DB](https://nikke-db.pages.dev/)
 - [Prydwen Institute](https://www.prydwen.gg/)
 - [Umamusume Resources](https://rentry.co/uma-resources)
 
