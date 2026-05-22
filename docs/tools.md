@@ -141,38 +141,36 @@ og:
 #### mpv
 
 | **Category** | **Resources** |
-|--------------|---------------|
-| **Resources** | [mpv manual](https://mpv.io/manual/stable/) |  
-| ^^           | [Scum's Setup Guide](https://iamscum.wordpress.com/guides/videoplayback-guide/) |  
-| ^^           | [mpv Script Wiki](https://github.com/mpv-player/mpv/wiki/User-Scripts) |  
-| ^^           | [Awesome mpv](https://github.com/stax76/awesome-mpv) |  
-| **Utilities** | [MPV Easy](https://mpv-easy.github.io/mpv-build/) [:src:](https://github.com/mpv-easy/mpv-easy) |
-| **Forks**     | [Celluloid](https://celluloid-player.github.io/) :lin: [:src:](https://github.com/celluloid-player/celluloid) | 
-| ^^            | [Haruna](https://haruna.kde.org/) :lin: [:src:](https://invent.kde.org/multimedia/haruna) |  
-| ^^            | [IINA](https://iina.io/) :app: [:src:](https://github.com/iina/iina) |
-| ^^           | [mpc-qt](https://mpc-qt.github.io/) :win::lin: [:src:](https://github.com/mpc-qt/mpc-qt) |
-| ^^           | [mpv.net](https://github.com/mpvnet-player/mpv.net) :win: |  
+|--------------|---------------| 
 | **Alt UI**    | [ModernX](https://github.com/cyl0/ModernX) |  
 | ^^           | [ModernZ](https://github.com/Samillion/ModernZ) |
 | ^^           | [Tethys](https://github.com/Zren/mpv-osc-tethys) |  
 | ^^           | [uosc](https://github.com/tomasklaen/uosc) |  
-
+| **Forks**     | [Celluloid](https://celluloid-player.github.io/) :lin: [:src:](https://github.com/celluloid-player/celluloid) | 
+| ^^            | [Haruna](https://haruna.kde.org/) :lin: [:src:](https://invent.kde.org/multimedia/haruna) |  
+| ^^            | [IINA](https://iina.io/) :app: [:src:](https://github.com/iina/iina) |
+| ^^           | [mpc-qt](https://mpc-qt.github.io/) :win::lin: [:src:](https://github.com/mpc-qt/mpc-qt) |
+| ^^           | [mpv.net](https://github.com/mpvnet-player/mpv.net) :win: | 
+| **Utilities** | [MPV Easy](https://mpv-easy.github.io/mpv-build/) [:src:](https://github.com/mpv-easy/mpv-easy) |
 <Collapsible title="More">
 
 | **Category** | **Resources** |
-|--------------|---------------|
-| **Video**     | [Autocrop](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autocrop.lua) |  
-| ^^           | [Autoload](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua) |  
-| ^^           | [Eisa's Scripts](https://github.com/Eisa01/mpv-scripts) |  
-| ^^           | [thumbfast](https://github.com/po5/thumbfast/) |  
-| **QoL**       | [mpv AniList Updater](https://github.com/AzuredBlue/mpv-anilist-updater) |
+|--------------|---------------| 
+| **QoL**       | [ani-skip](https://github.com/synacktraa/ani-skip) |
+| ^^            | [mpv AniList Updater](https://github.com/AzuredBlue/mpv-anilist-updater) |
 | ^^           | [mpv Playlistmanager](https://github.com/jonniek/mpv-playlistmanager) |  
 | ^^           | [trackselect](https://github.com/po5/trackselect) |  
 | ^^           | [pause when minimize](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/pause-when-minimize.lua) |  
+| **Resources** | [mpv manual](https://mpv.io/manual/stable/) |  
+| ^^           | [Scum's Setup Guide](https://iamscum.wordpress.com/guides/videoplayback-guide/) |  
+| ^^           | [mpv Script Wiki](https://github.com/mpv-player/mpv/wiki/User-Scripts) |  
+| ^^           | [Awesome mpv](https://github.com/stax76/awesome-mpv) |  
 | **Shaders**   | [ArtCNN](https://github.com/Artoriuz/ArtCNN) |  
 | ^^           | [Prescalers](https://github.com/bjin/mpv-prescalers) |  
-| **Addons**    | [webtorrent mpv hook](https://github.com/mrxdst/webtorrent-mpv-hook) |  
-| ^^           | [ani-skip](https://github.com/synacktraa/ani-skip) |
+| **Video**     | [Autocrop](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autocrop.lua) |  
+| ^^           | [Autoload](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua) |  
+| ^^           | [Eisa's Scripts](https://github.com/Eisa01/mpv-scripts) |  
+| ^^           | [thumbfast](https://github.com/po5/thumbfast/) | 
 
 </Collapsible>
 
@@ -200,10 +198,6 @@ og:
 | ^^ | [LosslessCut](https://mifi.no/losslesscut/) [:src:](https://github.com/mifi/lossless-cut) | :win::app::lin: |
 | **General Sub tools** | [Aegisub](https://github.com/arch1t3cht/Aegisub) | :win::app::lin: |
 | ^^ | [Subtitle Edit](https://www.nikse.dk/subtitleedit) [:src:](https://github.com/SubtitleEdit/subtitleedit) | :win: |
-| **Adobe** | [m0nkrus](https://vk.com/monkrus) | :win::app: |
-| ^^ | [RuTracker.org](https://rutracker.org/forum/index.php) | :win::app: |
-| ^^ | [Download Pirate](https://www.downloadpirate.com/) | :win: |
-| ^^ | [a.dove.isdumb.one](https://github.com/ignaciocastro/a-dove-is-dumb) | |
 | **Encoding** | [AviSynth+](https://avs-plus.net/) [:src:](https://github.com/AviSynth/AviSynthPlus) | :win::app::lin: |
 | ^^ | [StaxRip](https://github.com/staxrip/staxrip) | :win: |
 | ^^ | [VapourSynth](https://www.vapoursynth.com/) [:src:](https://github.com/vapoursynth/vapoursynth) | :win: |
@@ -242,7 +236,7 @@ og:
 
 </Collapsible>
 
-## arr Tools
+## arr
 
 | Category            | Software |
 |---------------------|----------|
@@ -264,7 +258,7 @@ og:
 | **Guides**         | [Servarr Wiki](https://wiki.servarr.com/) |
 | ^^                 | [TRaSH Guides](https://trash-guides.info/) |
 
-## Usenet Tools
+## Usenet
 
 - [NZBHydra 2](https://github.com/theotherp/nzbhydra2)
 - [SABnzbd](https://sabnzbd.org/) [:src:](https://github.com/sabnzbd/sabnzbd)
@@ -275,13 +269,13 @@ og:
 
 <Collapsible title="Related resources">
 
-- [r/usenet](https://old.reddit.com/r/usenet/) :s:
+- [r/usenet](https://old.reddit.com/r/usenet/)
 - [r/UsenetInvites](https://old.reddit.com/r/UsenetInvites/)
 - [A Guideline to usenet and how to setup Automation](https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/mobilebasic)
 
 </Collapsible>
 
-## General Tools
+## General
 
 | Resources | Platform |
 | :--- | :--- |
