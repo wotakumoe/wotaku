@@ -243,7 +243,6 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | **Info / News** | [Anime Corner](https://animecorner.me/) [:x:](https://x.com/animecorner_ac) |  
 | ^^ | [Anime Freaks](https://times.abema.tv/anime) :ljp: |  
 | ^^ | [Anime News by AIR](https://x.com/AIR_News01) :x: |  
-| ^^ | [Animenomics](https://news.animenomics.com/) :fm::sub: |  
 | ^^ | [AnimeTV](https://animetv-jp.net/) [:x:](https://x.com/animetv_jp) |  
 | ^^ | [Toonami Squad](https://toonamisquad.com/) [:x:](https://x.com/ToonamiSquad) |  
 | **Blog / Interview** | [Animation Obsessive](https://animationobsessive.substack.com/) :fm::sub: [:x:](https://x.com/ani_obsessive) |  
@@ -274,13 +273,15 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 
 | Category | Websites |  
 |----------|----------|  
-| **General** | [ORICON NEWS](https://www.oricon.co.jp/) :s: :ljp: |  
+| **General** | [Animenomics](https://news.animenomics.com/) :fm::sub: |   
+| ^^ |[ORICON NEWS](https://www.oricon.co.jp/) :s: :ljp: |  
 | ^^ | :prev: [Japan Anime News](https://us.oricon-group.com/) [:x:](https://x.com/JapanAnimeNews_) |  
 | ^^ | :prev: [Randomanga](https://randomanga.wordpress.com/) :lfr: |
 | ^^ | [UzuRepo](https://x.com/UzuRepo) :x: |
 | **Anime** | [Animation Business Journal](http://animationbusiness.info/) :ljp: |
+| ^^ | [Animerank](https://animerank.top/) :mal: |
 | ^^ | [Anime Karma List](https://animekarmalist.com/) |
-| ^^ | [Anime Stats](https://anime-stats.net/) :s: |
+| ^^ | [Anime Stats](https://anime-stats.net/) :s::mal::al::k: |
 | **Manga & Novels** | [Josu Ke](https://x.com/Josu_ke) :s::x: [:web:](https://www.mangacodex.com/) ==JosuKe== |  
 | ^^ | [CR500 Manga Ranking](http://shosekiranking.blog.fc2.com/) :ljp: [:rss:](http://shosekiranking.blog.fc2.com/?xml) [:x:](https://x.com/ComicRanking500) ==ComicRanking500== |
 | ^^ | :prev: [Paperback Ranking](http://bunkoranoberanking.blog.fc2.com/) :ljp: [:rss:](http://bunkoranoberanking.blog.fc2.com/?xml) |
@@ -324,8 +325,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^        | [GomiTier](https://www.gomitier.tech/) | :mal::al: |
 | ^^        | [Related Anime](https://relatedanime.com/) | :mal: |
 | ^^        | [WikiTimeline](https://wiki-timeline.com/) [:src:](https://github.com/wenzhenl/wikitimeline) | :wikip: |
-| **Anime** | [Animerank](https://animerank.top/) | :mal: |
-| ^^        | [Manga Adaptations](https://anilist-adaptations.timschneeberger.me/) [:src:](https://github.com/timschneeb/manga-adaptations-anilist) | :al: |  
+| **Anime** | [Manga Adaptations](https://anilist-adaptations.timschneeberger.me/) [:src:](https://github.com/timschneeb/manga-adaptations-anilist) | :al: |  
 | ^^        | [MyDubList](https://mydublist.com/) [:src:](https://github.com/Joelis57/MyDubList) | :no: |
 | ^^        | [Randime](https://randime.moe/) | :no: |  
 | ^^        | [Spin.moe](https://spin.moe/) | :mal::al::k: |  
