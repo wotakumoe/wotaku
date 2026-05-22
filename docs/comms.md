@@ -42,9 +42,10 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 ::: tabs
 
 == Anime
-- [GJM - Subtitling Hub](https://discord.gg/0jeKKhzGn3EBNDI2)
 - [r/Anime](https://discord.gg/r-anime)
-- [Crunchyroll](https://discord.gg/crunchyroll)
+- [Ass Anime Community](https://discord.gg/RD72pNRYFu)
+- [GJM - Subtitling Hub](https://discord.gg/0jeKKhzGn3EBNDI2)
+- [Re:ANIME Community](https://discord.gg/QsqcnsryyK)
 - [Sonic Zone](https://discord.gg/bj5vmb96YT)
 - [SubsPlease](https://discord.gg/33Hxdas)
 - [ToonsHub](https://discord.gg/cTRhnt7N8B)
