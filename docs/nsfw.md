@@ -69,7 +69,6 @@ og:
 | :--- | :--- | :--- |
 | [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) :ddl: | :yes: | :no: |
 | [Atsumaru](https://atsu.moe/) ==Atsumaru== | :yes: | :no: |
-| [Comicland](https://comicland.org/) | :no: | :no: |
 | [Hentai20](https://hentai20.io/) | :no: | :no: |
 | [Heytoon](https://heytoon.net/) :free::sub: | :no: | :no: |
 | [Hiperdex](https://hiperdex.com/) | :yes: | :yes: |
@@ -247,14 +246,6 @@ Not sure what the Japanese term means when browsing? Check out the [**nsfw gloss
 - [:d: Hanako's Hideout](https://discord.gg/jVvSbYB)
 - [:d: Hanime.tv Community](https://discord.gg/hanime-tv)
 - [:d: Tsumino](https://discord.gg/v6RfNfA7WW)
-
-### Boards
-| :f: Board | Alt | Archive |
-| :--- | :--- | :--- |
-| **/e/** - [Ecchi](https://boards.4chan.org/e/) | [URL](https://anychans.github.io/4chan/e/) | [URL](https://archive.palanq.win/e/) |
-| **/h/** - [Hentai](https://boards.4chan.org/h/) | [URL](https://anychans.github.io/4chan/h/) | [URL](https://archiveofsins.com/h/) |
-| **/u/** - [Yuri](https://boards.4chan.org/u/) | [URL](https://anychans.github.io/4chan/u/) | [URL](https://archiveofsins.com/u/) |
-| **/y/** - [Yaoi](https://boards.4chan.org/y/) | [URL](https://anychans.github.io/4chan/y/) | [URL](https://archived.moe/y/) |
 
 ## Scripts
 

@@ -592,22 +592,3 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 
 </Collapsible>
-
-![](/music/mcm.webp)
-# Communities
-
-<br>
-
-| Category       | Links    |
-|----------------|----------|
-| **Forums**     | [Anime Music Videos](https://www.animemusicvideos.org/forum/) |
-| ^^             | [Nightcore Universe](https://www.nightcoreuniverse.net/index.php) |
-| ^^             | [SquidBoard](https://www.squid-board.org/) |
-| ^^             | [VocaVerse Network](https://vocaverse.network/) |
-| **Discord**    | [Doujin Cafe](https://discord.gg/doujincafe) |
-| ^^             | [DoujinStyle](https://discord.gg/z2QDFdA) |
-| ^^             | [MikuDB](https://discord.gg/w9Dq25n) |
-| ^^             | [Sitting on Clouds](https://discord.gg/x23SFbE) |
-| ^^             | [SquidBoard](https://discord.gg/hfjBQXpXJq) |
-| **Subreddits** | [Vocaloid](https://old.reddit.com/r/vocaloid/) |
-| ^^             | [VocaTorrent](https://old.reddit.com/r/VocaTorrent/) |

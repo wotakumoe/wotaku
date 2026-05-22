@@ -47,8 +47,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **J.C.Staff** | [Taiga Aisaka](https://yande.re/post/show/46578) | [Music banner](/music#pc) |
 | **Kazuki Takahashi** | [Yami Yugi](https://www.zerochan.net/7739) | [Manga banner](/websites#manga) |
 | **konijnsate** | [Moiré vs Non-Moiré Pattern Comparison](https://tips.clip-studio.com/en-us/articles/3489) | [Manga glossary example](/glossary/manga#artist-side) |
-| **Kyoto Animation** | [Mio Akiyama](https://yande.re/post/show/255575) | [Music banner](/music#communities) |
-| ^^ | [Mio Akiyama](https://konachan.net/post/show/49838) | [Music banner](/music#phone) |
+| **Kyoto Animation** | [Mio Akiyama](https://konachan.net/post/show/49838) | [Music banner](/music#phone) |
 | ^^ | [Tsumugi Kotobuki](https://konachan.com/post/show/169507) | [Audio glossary banner](/glossary/audio#basic-terms) |
 | **megamiceto** | [Brazilian Miku](https://x.com/megamiceto/status/1826372184731955667) | Non-English link embed |
 | **Mogudan** | [Mogudan Illust Works](https://www.fakku.net/hentai/mogudan-illust-works-english) | [NSFW banners](/nsfw) |
@@ -92,8 +91,9 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **HoYoLAB**                 | [Tanuki sticker](https://genshin-impact.fandom.com/wiki/Bake-Danuki)                               | Japan banner        |
 | **可 (Ka / 996beshi)** | [15枚](https://www.pixiv.net/en/artworks/116320124) | Default link embed |
 | **Kukie-Nyan** | [FUWAMOCO pointing meme](https://x.com/Kukie_nyan/status/1687668480278228992) | Domain change banner |
-| **Kyoto Animation**         | [Mio Naganohara](https://www.zerochan.net/520314)                                                  | Random banner       |
-| **Lacie Walker** | [Eto Yoshimura](https://www.zerochan.net/1880948) | [4chan banner](/qs#_4chan) |
+| **Kyoto Animation** | [Mio Akiyama](https://yande.re/post/show/255575) | Music banner |
+| ^^ | [Mio Naganohara](https://www.zerochan.net/520314)                                                  | Random banner       |
+| **Lacie Walker** | [Eto Yoshimura](https://www.zerochan.net/1880948) | 4chan banner |
 | **MeLonPanz** | [sharkkkkkk !!!](https://www.pixiv.net/en/artworks/86516526) | Favicon |
 | **森倉円 (Morikura En)**    | [Kizuna Ai Profile Art](https://en.namu.wiki/w/%ED%82%A4%EC%A6%88%EB%82%98%20%EC%95%84%EC%9D%B4)   | Vtuber banner       |
 | **Ninomae Ina’nis**         | [Ninomae Ina’nis reading](https://x.com/ninomaeinanis/status/1340047328963510273)                  | Glossary banner     |

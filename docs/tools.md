@@ -248,7 +248,7 @@ og:
 |---------------------|----------|
 | **Media Automation** | [Radarr](https://radarr.video/) ||Movies|| |
 | ^^                 | [Sonarr](https://sonarr.tv/) ||TV Series|| |
-| **Tools**          | [Overseerr](https://overseerr.dev/) |
+| **Tools**          | [Overseerr](https://seerr.dev/) |
 | ^^                 | [Prowlarr](https://prowlarr.com/) |
 | ^^                 | [Jackett](https://github.com/Jackett/Jackett) |
 | ^^                 | [autobrr](https://autobrr.com/) |
