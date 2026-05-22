@@ -281,23 +281,6 @@ Check out the [**Japanese Mega Learning Pack**](https://rentry.org/wotadirect#ja
 - [Kuri's Japanese Resources](https://github.com/donkuri/japanese-resources)
 - [TMW's Resources](https://learnjapanese.moe/resources/)
 
-### Communities
-| Category      | Links            |
-|---------------|------------------|
-| **Discord**   | [Japanese Language Study Space](https://discord.gg/jlss) |  
-| ^^            | [jpdb.io](https://discord.gg/jWwVD7D2sZ) |  
-| ^^            | [Marshall's Server](https://discord.gg/ejmrfwSYAH) |  
-| ^^            | [NativShark](https://discord.gg/nativshark) |  
-| ^^            | [Perdition](https://discord.gg/uK4HeGN) |  
-| ^^            | [TheMoeWay](https://discord.gg/nhqjydaR8j) |  
-| **Reddit**    | [AJATT](https://old.reddit.com/r/ajatt/) |  
-| ^^            | [LearnJapanese](https://old.reddit.com/r/LearnJapanese/) |  
-| **Others**    | [Conversation Exchange](https://www.conversationexchange.com/) |  
-| ^^            | [Japanese Language Stack Exchange](https://japanese.stackexchange.com/) |  
-| ^^            | [My Language Exchange](https://www.mylanguageexchange.com/) |  
-| ^^            | [renshuu](https://www.renshuu.org/) |
-
-
 ### Course Sites
 
 | Category | Resources |

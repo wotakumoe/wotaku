@@ -34,6 +34,12 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [The VG Resource](https://www.vg-resource.com/)
 - [YGOPro Deck](https://ygoprodeck.com/forum/)
 
+== Japan
+- [Conversation Exchange](https://www.conversationexchange.com/)
+- [Japanese Language Stack Exchange](https://japanese.stackexchange.com/)
+- [My Language Exchange](https://www.mylanguageexchange.com/)
+- [renshuu](https://www.renshuu.org/)
+
 :::
 
 
@@ -83,13 +89,20 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [r/wholesomehentai](https://discord.gg/aqttTca)
 - [Tsumino](https://discord.gg/v6RfNfA7WW)
 
+== Japan
+
+- [Japanese Language Study Space](https://discord.gg/jlss)
+- [jpdb.io](https://discord.gg/jWwVD7D2sZ)
+- [Marshall's Server](https://discord.gg/ejmrfwSYAH)
+- [NativShark](https://discord.gg/nativshark)
+- [Perdition](https://discord.gg/uK4HeGN)
+- [TheMoeWay](https://discord.gg/nhqjydaR8j)
+
 == Others
 - [Anime UK News](https://discord.gg/014sRKGzuUPGPpYRa)
 - [Crunchyroll](https://discord.gg/crunchyroll)
 - [GetComics](https://discord.gg/G7UwGPZDJ7)
-- [Japanese Language Study Space](https://discord.gg/jlss)
 - [r/Tokusatsu](https://discord.gg/Rf2dDaJSp3)
-- [TheMoeWay](https://discord.gg/nhqjydaR8j)
 
 :::
 
@@ -135,6 +148,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 
 == Japan
 
+- [AJATT](https://old.reddit.com/r/ajatt/)
 - [Bento](https://old.reddit.com/r/Bento/)
 - [Japan Life](https://old.reddit.com/r/japanlife/)
 - [Japan Pics](https://old.reddit.com/r/japanpics/)
