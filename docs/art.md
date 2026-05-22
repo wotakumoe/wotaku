@@ -99,7 +99,7 @@ og:
 - [Donmai](https://donmai.moe/) ||SFW|| ==Donmai==
 - [E-ShuuShuu](https://e-shuushuu.net/) ||SFW||
 - [Gelbooru](https://gelbooru.com/) :s:
-- [Gsbooru](https://gsbooru.org/) ||SFW||
+- [Gsbooru](https://gsbooru.org/) [||SFW||](https://safe.gsbooru.org/)
 - [Konachan](https://konachan.com/) [||SFW||](https://konachan.net/)
 - [Mikubooru](https://booru.funmaker.moe/) [:src:](https://github.com/funmaker/hybooru) ||SFW||
 - [Safebooru](https://safebooru.org/) ||SFW||
