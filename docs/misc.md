@@ -91,6 +91,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 <Collapsible title="More">
 
 - [Flubber’s Fluttering Anime Pilgrimage](https://furaba-animeseichi.blog.jp/) :ljp:
+- [Anime Filler Guide](https://www.animefillerguide.com/)
 - [Anikore](https://www.anikore.jp/) :ljp:
 - [Annict](https://annict.com/) :ljp:
 - [SIMKL](https://simkl.com/)
@@ -131,6 +132,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [Anime Hack](https://anime.eiga.com/person/) :ljp: |
 | ^^ | [AVAC.moe](https://avac.moe/index.php) :mal: |
 | ^^ | [Seiyuu.moe](https://seiyuu.moe/) :mal: |
+| ^^ | [Seiyuu Comparison](https://chiaki.site/?/tools/seiyuu_comparison) ||chiaki|| :al: |
 | ^^ | [Seiyuu Database](http://www.usagi.org/doi/seiyuu/index.html) |
 | ^^ | [Behind The Voice Actors](https://www.behindthevoiceactors.com/) <tooltip>Focuses on English VAs more.</tooltip> |
 
@@ -152,38 +154,6 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 - [Tracker software for pc](/software#trackers-1)
 
 </Collapsible>
-
-
-![](/banner/info.webp)
-# Info
-
-## Anime
-
-| Category        | Links |
-|-----------------|-------|
-| **Watch Order** | [Chiaki](https://chiaki.site/) |
-| ^^             | [Related Anime](https://relatedanime.com/) |
-| ^^             | [r/Anime Watch Order](https://old.reddit.com/r/anime/wiki/watch_order/) |
-| **Filler**     | [Anime Filler Guide](https://www.animefillerguide.com/) |
-| ^^             | [Anime Filler List](https://www.animefillerlist.com/) |
-| **Ranking**    | [Anime Karma List](https://animekarmalist.com/) |
-| ^^             | [Anime Stats](https://anime-stats.net/) :s: |
-| ^^             | [Anime Corner](https://animecorner.me/category/anime-corner/rankings/) |
-| ^^             | [Anitrendz](https://anitrendz.com/charts/top-anime) |
-
-## Manga & Novels
-
-| Category | Websites |
-|-|-|
-| **General info / ranking** | [CR500 Manga Ranking](http://shosekiranking.blog.fc2.com/) :ljp: [:rss:](http://shosekiranking.blog.fc2.com/?xml) [:x:](https://x.com/ComicRanking500) ==ComicRanking500== |
-| ^^ | :prev: [Paperback Ranking](http://bunkoranoberanking.blog.fc2.com/) :ljp: [:rss:](http://bunkoranoberanking.blog.fc2.com/?xml) |
-| ^^ | [Oricon Weekly Ranking](https://www.oricon.co.jp/rank/) |
-| ^^ | :prev: [Randomanga](https://randomanga.wordpress.com/) :lfr: |
-| ^^ | [Manga Codex](https://mangacodex.com/) [:x:](https://x.com/Josu_ke) | 
-| **Shueisha** | [Jajanken - Weekly Shonen Jump Lab](https://www.jajanken.net/en/) |
-| ^^ | [MANGA Plus Top 40](https://manga.tumeo.space/) [:src:](https://github.com/williamd1k0/manga-plus-top40) |
-| ^^ | [MANGA Plus Views](https://mangaplustracker.github.io/) [:src:](https://github.com/MangaplusTracker/MangaplusTracker.github.io) |
-| **Others** | [Mannavi](https://mannavi.net/) :ljp: |
 
 ![](/banner/calendar.webp)
 
@@ -300,15 +270,23 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [TheOASG](https://www.theoasg.com/) [:x:](https://x.com/TheOASG) |  
 
 
-## Numbers & More
+## Stats & More
 
 | Category | Websites |  
 |----------|----------|  
 | **General** | [ORICON NEWS](https://www.oricon.co.jp/) :s: :ljp: |  
 | ^^ | :prev: [Japan Anime News](https://us.oricon-group.com/) [:x:](https://x.com/JapanAnimeNews_) |  
+| ^^ | :prev: [Randomanga](https://randomanga.wordpress.com/) :lfr: |
 | ^^ | [UzuRepo](https://x.com/UzuRepo) :x: |
 | **Anime** | [Animation Business Journal](http://animationbusiness.info/) :ljp: |
+| ^^ | [Anime Karma List](https://animekarmalist.com/) |
+| ^^ | [Anime Stats](https://anime-stats.net/) :s: |
 | **Manga & Novels** | [Josu Ke](https://x.com/Josu_ke) :s::x: [:web:](https://www.mangacodex.com/) ==JosuKe== |  
+| ^^ | [CR500 Manga Ranking](http://shosekiranking.blog.fc2.com/) :ljp: [:rss:](http://shosekiranking.blog.fc2.com/?xml) [:x:](https://x.com/ComicRanking500) ==ComicRanking500== |
+| ^^ | :prev: [Paperback Ranking](http://bunkoranoberanking.blog.fc2.com/) :ljp: [:rss:](http://bunkoranoberanking.blog.fc2.com/?xml) |
+| **Shueisha** | [Jajanken - Weekly Shonen Jump Lab](https://www.jajanken.net/en/) |
+| ^^ | [MANGA Plus Top 40](https://manga.tumeo.space/) [:src:](https://github.com/williamd1k0/manga-plus-top40) |
+| ^^ | [MANGA Plus Views](https://mangaplustracker.github.io/) [:src:](https://github.com/MangaplusTracker/MangaplusTracker.github.io) |
 
 
 ## Retro Archives & Blogs
