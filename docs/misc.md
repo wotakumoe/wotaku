@@ -171,7 +171,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^             | [Anime Corner](https://animecorner.me/category/anime-corner/rankings/) |
 | ^^             | [Anitrendz](https://anitrendz.com/charts/top-anime) |
 
-## Manga & LN
+## Manga & Novels
 
 | Category | Websites |
 |-|-|
@@ -212,7 +212,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [TVmaze](https://www.tvmaze.com/) |
 | ^^ | [Yatta-Tachi Movie Schedule](https://yattatachi.com/2026-anime-japanese-films-coming-to-u-s-theaters-online) |
 
-## Manga & LN
+## Manga & Novels
 
 ### Third-party
 | Type | Website |
@@ -258,8 +258,6 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [GUNDAM.INFO](https://en.gundam.info/) |  
 | ^^ | [Kanzenshuu](https://www.kanzenshuu.com/) [:rss:](https://www.kanzenshuu.com/feed/) |  
 | ^^ | [MAL News](https://myanimelist.net/news) [:x:](https://x.com/myanimelist) [:rss:](https://myanimelist.net/rss/news.xml) |  
-| ^^ | [ORICON NEWS](https://www.oricon.co.jp/) :ljp: |  
-| ^^ | [Japan Anime News](https://us.oricon-group.com/) [:x:](https://x.com/JapanAnimeNews_) |  
 | ^^ | [Otaku News](https://www.otakunews.com/) :cuk: [:rss:](https://www.otakunews.com/Rss) |  
 | **Blog / Interview** | [Anime Blog Tracker](https://aniblogtracker.app/index.php) :s: ||Aggregator|| [:src:](https://github.com/AniBlogTracker) |  
 | ^^ | [Anime Nano](https://www.animenano.com/) ||Aggregator|| |  
@@ -272,8 +270,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 |----------|----------|  
 | **General** | [Anitrendz](https://anitrendz.net/news/) [:x:](https://x.com/anitrendz) |
 | ^^ | [Catsuka](https://www.catsuka.com/) :lfr: |
-| **Info / News** | [Animation Business Journal](http://animationbusiness.info/) :ljp: |
-| ^^ | [Anime Corner](https://animecorner.me/) [:x:](https://x.com/animecorner_ac) |  
+| **Info / News** | [Anime Corner](https://animecorner.me/) [:x:](https://x.com/animecorner_ac) |  
 | ^^ | [Anime Freaks](https://times.abema.tv/anime) :ljp: |  
 | ^^ | [Anime News by AIR](https://x.com/AIR_News01) :x: |  
 | ^^ | [Animenomics](https://news.animenomics.com/) :fm::sub: |  
@@ -287,12 +284,11 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [Sakuga Blog](https://blog.sakugabooru.com/) :s: [:x:](https://x.com/SakugaBlog) [:rss:](https://blog.sakugabooru.com/feed/) |  
 
 
-## Manga & LN
+## Manga & Novels
 
 | Category | Websites |  
 |----------|----------|  
 | **Info / News** | [Deb Aoki](https://x.com/debaoki) :x: |  
-| ^^ | [Josu Ke](https://x.com/Josu_ke) :s::x: [:web:](https://www.mangacodex.com/) ==JosuKe== |  
 | ^^ | [Manga Alerts](https://x.com/MangaAlerts) :x: |  
 | ^^ | [Manga Mogura](https://x.com/MangaMoguraRE) [:alt:](https://x.com/MangaReporter) :x: |  
 | ^^ | [Ecchi & Smut Mogura](https://x.com/EcchiMogura) :x: |  
@@ -302,6 +298,18 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [Mangasplaining](https://www.mangasplaining.com/) [:x:](https://x.com/mangasplaining) |
 | ^^ | :prev: [Mangasplaining Extra](https://mangasplaining.substack.com/) |
 | ^^ | [TheOASG](https://www.theoasg.com/) [:x:](https://x.com/TheOASG) |  
+
+
+## Numbers & More
+
+| Category | Websites |  
+|----------|----------|  
+| **General** | [ORICON NEWS](https://www.oricon.co.jp/) :s: :ljp: |  
+| ^^ | :prev: [Japan Anime News](https://us.oricon-group.com/) [:x:](https://x.com/JapanAnimeNews_) |  
+| ^^ | [UzuRepo](https://x.com/UzuRepo) :x: |
+| **Anime** | [Animation Business Journal](http://animationbusiness.info/) :ljp: |
+| **Manga & Novels** | [Josu Ke](https://x.com/Josu_ke) :s::x: [:web:](https://www.mangacodex.com/) ==JosuKe== |  
+
 
 ## Retro Archives & Blogs
 
