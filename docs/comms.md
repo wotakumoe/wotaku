@@ -44,6 +44,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 == Anime
 - [GJM - Subtitling Hub](https://discord.gg/0jeKKhzGn3EBNDI2)
 - [r/Anime](https://discord.gg/r-anime)
+- [Crunchyroll](https://discord.gg/crunchyroll)
 - [Sonic Zone](https://discord.gg/bj5vmb96YT)
 - [SubsPlease](https://discord.gg/33Hxdas)
 - [ToonsHub](https://discord.gg/cTRhnt7N8B)
@@ -67,16 +68,18 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 == Games
 - [DigimonBasic](https://discord.gg/B3RXtnXRSG)
 - [Privateersclub](https://discord.gg/jz8dUnnD6Q)
+- [r/Pokémon](https://discord.gg/pokemon)
+- [r/UmaMusume](https://discord.gg/umamusume)
 - [r/Yugioh](https://discord.gg/yugioh)
 
 == NSFW
 
 - [Hanako's Hideout](https://discord.gg/jVvSbYB)
-- [Hanime.tv Community](https://discord.gg/hanime-tv)
-- [Pornhwa DB](https://discord.com/invite/pjsHcU8Tah)
+- [hanime.tv Community](https://discord.gg/hanime-tv)
+- [Pornhwa Database](https://discord.gg/pjsHcU8Tah)
 - [r/pornhwa](https://discord.gg/epjkRVp7gD)
-- [r/rule34](https://old.reddit.com/r/rule34/) [:d:](https://discord.gg/zMrMhpZ)
-- [r/wholesomehentai](https://discord.com/invite/aqttTca)
+- [r/rule34](https://discord.gg/zMrMhpZ)
+- [r/wholesomehentai](https://discord.gg/aqttTca)
 - [Tsumino](https://discord.gg/v6RfNfA7WW)
 
 == Others
@@ -123,10 +126,11 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 
 == Games
 
+- [osu!](https://old.reddit.com/r/osugame/)
+- [Pokémon](https://old.reddit.com/r/pokemon/)
+- [Touhou](https://old.reddit.com/r/touhou/)
+- [UmaMusume](https://old.reddit.com/r/UmaMusume/)
 - [Yu-Gi-Oh!](https://old.reddit.com/r/yugioh/)
-- [Master Duel](https://old.reddit.com/r/masterduel/)
-- [Duel Links](https://old.reddit.com/r/DuelLinks/)
-- [Goat Format](https://old.reddit.com/r/Goat_Format/)
 
 == Japan
 
