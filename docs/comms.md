@@ -140,6 +140,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 
 == Games
 
+- [GachaGaming](https://old.reddit.com/r/gachagaming/)
 - [osu!](https://old.reddit.com/r/osugame/)
 - [Pokémon](https://old.reddit.com/r/pokemon/)
 - [Touhou](https://old.reddit.com/r/touhou/)
