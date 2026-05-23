@@ -575,7 +575,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [MAL to Kodik](https://mal-to-kodik.github.io/) ||Aggregator|| |
 | ^^ | [One Pace](https://onepace-ru.tilda.ws/) |
 | ^^ | [Tunime](https://an0ncer.github.io/) [:src:](https://github.com/AN0NCER/an0ncer.github.io) ||Sub|| |
-| ^^ | [YummyAnime](https://site.yummyani.me/) |
+| ^^ | [YummyAnime](https://old.yummyani.me/) |
 | **Manga** | [Com-X](https://ru.com-x.life/) |
 | ^^ | [Desu.Me](https://desu.uno/) |
 | ^^ | [InkStory](https://inkstory.net/) |
