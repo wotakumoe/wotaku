@@ -22,7 +22,7 @@ og:
 | [Advanced Download Manager](https://play.google.com/store/apps/details?id=com.dv.adm) | :yes: | :yes: | :no: | Ads |
 | [Aria2App](https://github.com/devgianlu/Aria2App) | :yes: | :yes: | :yes: | :yes: |
 | [BiglyBT](https://play.google.com/store/apps/details?id=com.biglybt.android.client) :s: | :no: | :yes: | :yes: | :yes: |
-| [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) ==Flud== | :no: | :yes: | :no: | Ads, theme limit |
+| [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) ==Flud== | :no: | :yes: | :no: | Ads |
 | [Gopeed](https://gopeed.com/) [:src:](https://github.com/GopeedLab/gopeed) | :yes: | :yes: | :yes: | :yes: |
 | [LibreTorrent](https://github.com/proninyaroslav/libretorrent) :s: | :no: | :yes: | :yes: | :yes: |
 | [YTDLnis](https://ytdlnis.org/) [:src:](https://github.com/deniscerri/ytdlnis) | :yes: | :no: | :yes: | :yes: |
