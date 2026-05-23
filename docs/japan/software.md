@@ -120,6 +120,7 @@ og:
 | :--- | :--- |
 | **Android** | [jidoujisho](https://github.com/lrorpilla/jidoujisho) :s: |
 | ^^ | [Easy Japanese](https://play.google.com/store/apps/details?id=mobi.eup.jpnews) [:web:](https://japanese.todaiinews.com/) |
+| ^^ | [Hoshi Reader Android](https://github.com/HuangAntimony/Hoshi-Reader-Android) |
 | ^^ | [Satori Reader](https://play.google.com/store/apps/details?id=com.braksoftware.SatoriReader) [:web:](https://www.satorireader.com/) |
 | ^^ | [Write It! Japanese](https://play.google.com/store/apps/details?id=com.jernung.writeit.jpn) |
 | **iOS** | [Easy Japanese](https://apps.apple.com/app/easy-japanese-news-%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/id1107177166) [:web:](https://japanese.todaiinews.com/) |
