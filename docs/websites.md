@@ -50,13 +50,14 @@ outline: 1
 | [Animetsu](https://animetsu.net/) [:prx:](https://rentry.org/wotaxy#animetsu) | :yes: | :ie::msync: | :cc::oc: |
 | [AnimeX](https://animex.one/home) | :yes: | :sync::ie: | :cc::oc: |
 
-### Source table
-<ScrapeTable :sites="[
-  { name: '1anime', scrapes: { 'Anime Nexus': 'nexus', 'AnimePahe': 'pahe', 'AniNeko': 'gogo', 'Re:ANIME': 'Zen', 'AniZone': 'Zone' } },
-  { name: 'Animetsu', scrapes: { 'AnimeGG': 'Meg', 'AnimePahe': 'Pahe','AniNeko': 'Dio', } },
-  { name: 'AnimeX', scrapes: { '123anime (SD)': { name: 'wave', metadata: ['SD'] }, 'Animehub (SD)': { name: 'shiro', metadata: ['SD'] }, 'AnimePahe': 'uwu', 'Anibd': 'beep', 'AniNeko': 'mimi', 'AllManga': 'miku & mochi', 'AnimeOnsen (SD)': { name: 'vee', metadata: ['SD'] }, 'Anikoto': 'yuki' } },
-  { name: 'Miruro', scrapes: { 'AnimeDunya (SD)': { name: 'dune', metadata: ['SD'] }, 'AnimePahe': 'kiwi & telli', 'KickAssAnime': 'hop & kuz', 'AllManga': 'ally & nun', 'Anikoto': 'bun & bee',  } , }
-]" />
+
+::: scrapetable
+- 1anime : (Anime Nexus, nexus), (AnimePahe, pahe), (AniNeko, gogo), (Re:ANIME, Zen), (AniZone, Zone);
+- Animetsu : (AnimeGG, Meg), (AnimePahe, Pahe), (AniNeko, Dio);
+- AnimeX : (123anime, wave, SD), (Animehub, shiro, SD), (AnimePahe, uwu), (Anibd, beep), (AniNeko, mimi), (AllManga, miku & mochi), (AnimeOnsen, vee, SD), (Anikoto, yuki);
+- Miruro : (AnimeDunya, dune, SD), (AnimePahe, kiwi & telli), (KickAssAnime, hop & kuz), (AllManga, ally & nun), (Anikoto, bun & bee);
+:::
+
 </Collapsible>
 
 <Collapsible title="Donghua dedicated">
@@ -205,13 +206,12 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 | [Cubari Proxy](https://proxy.cubari.moe/#/)  | :msync: | :ms: | :sp::dp::ls: | :no: |
 | [Vidbox](https://vidbox.cc/manga)  | :no: | :ss: | :lsg: | :no: |
 
-### Source Table
-<ScrapeTable :sites="[
-  { name: 'Akari Manga', scrapes: { 'Atsumaru': '' } },
-  { name: 'ComiKuro', scrapes: { 'Allmanga': '', 'Atsumaru': '', 'Mangaball': '', 'Zazamanga': '' } },
-  { name: 'Cubari Proxy', scrapes: { 'MangaDex': '', 'Weeb Central': '', 'MangaKatana': '', 'Guya': '', 'AssortedScans': '', 'DankeFarsLesen': '' } },
-  { name: 'Vidbox', scrapes: { 'MangaFire': '' } }
-]" />
+::: scrapetable
+- Akari Manga : (Atsumaru);
+- ComiKuro : (Allmanga), (Atsumaru), (Mangaball), (Zazamanga);
+- Cubari Proxy : (MangaDex), (Weeb Central), (MangaKatana), (Guya), (AssortedScans), (DankeFarsLesen);
+- Vidbox : (MangaFire);
+:::
 
 </Collapsible>
 

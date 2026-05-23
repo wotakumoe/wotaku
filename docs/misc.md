@@ -29,19 +29,19 @@ outline: [1,2]
 
 </collapsible>
 
-<ScrapeTable corner-label="Topics" :sites="[
-  { name: 'AniList', scrapes: { 'Anime': '', 'Manga': '', 'Novels': '' } },
-  { name: 'Anime Planet', scrapes: { 'Anime': '', 'Manga': '' } },
-  { name: 'aniSearch', scrapes: { 'Anime': '', 'Manga': '', 'Novels': '', 'Live Action': '', 'Tokusatsu': '' } },
-  { name: 'ANN', scrapes: { 'Anime': '', 'Manga': ''} },
-  { name: 'Bookmeter', scrapes: { 'Manga': '', 'Novels': '', 'Non-fiction': '' } },
-  { name: 'Hanmoto', scrapes: { 'Manga': '', 'Novels': '', 'Non-fiction': '' } },
-  { name: 'Kitsu', scrapes: { 'Anime': '', 'Manga': '' } },
-  { name: 'Kurozora', scrapes: { 'Anime': '', 'Manga': '', 'Games': '' } },
-  { name: 'MangaBaka', scrapes: { 'Manga': '', 'Novels': '' } },
-  { name: 'MyAnimeList', scrapes: { 'Anime': '', 'Manga': '', 'Novels': '' } },
-  { name: 'Sakuhin Database', scrapes: { 'Anime': '', 'Manga': '', 'Novels': '', 'Games': '', 'Live Action': '', 'Tokusatsu': '' } },
-]" />
+::: scrapetable {Topics}
+- AniList : (Anime), (Manga), (Novels);
+- Anime Planet : (Anime), (Manga);
+- aniSearch : (Anime), (Manga), (Novels), (Live Action), (Tokusatsu);
+- ANN : (Anime), (Manga);
+- Bookmeter : (Manga), (Novels), (Non-fiction);
+- Hanmoto : (Manga), (Novels), (Non-fiction);
+- Kitsu : (Anime), (Manga);
+- Kurozora : (Anime), (Manga), (Games);
+- MangaBaka : (Manga), (Novels);
+- MyAnimeList : (Anime), (Manga), (Novels);
+- Sakuhin Database : (Anime), (Manga), (Novels), (Games), (Live Action), (Tokusatsu);
+:::
 
 ::: tip README
 - **Novels**: All the types of novels (LN, WN etc.) are grouped in one category.

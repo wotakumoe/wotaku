@@ -19,6 +19,7 @@ import { getTooltip } from '../../utils/tooltips'
 import { headersPlugin } from '../markdown/headers'
 import { emojiRender } from './emoji'
 import markdownSteps from './steps'
+import { scrapeTablePlugin } from './scrapeTablePlugin'
 
 export function configureMarkdown(md: MarkdownRenderer) {
   md.use(emojiRender)
@@ -39,6 +40,7 @@ export function configureMarkdown(md: MarkdownRenderer) {
   renderTooltip(md)
   renderInlineTooltip(md)
   md.use(markdownSteps)
+  md.use(scrapeTablePlugin)
   renderHighlight(md)
 }
 

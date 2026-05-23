@@ -30,16 +30,16 @@ og:
 
 
 ## Cross-app Support
-<ScrapeTable :sites="[
-  { name: 'Anymex', scrapes: { 'Mihon': '', 'Aniyomi': '', 'Mangayomi': '', 'Sora': '', 'Cloudstream': '', 'LNreader': '' } },
-  { name: 'Cloudstream', scrapes: { 'Cloudstream': '', 'Aniyomi': '' } },
-  { name: 'Dantotsu', scrapes: { 'Mihon': '', 'Aniyomi': '', 'LNreader': '' } },
-  { name: 'Futon', scrapes: { 'Kotatsu': '', 'Mihon': ''  } },
-  { name: 'IReader', scrapes: { 'IReader': '', 'LNreader': '', 'Legado': ''  } },
-  { name: 'Kototoro', scrapes: { 'Mihon': '', 'Aniyomi': '', 'Kotatsu': '', 'LNReader': '', 'Legado': '', 'IReader': '' } },
-  { name: 'Mangayomi', scrapes: { 'Mihon': '', 'Aniyomi': '', 'Mangayomi': '' } },
-  { name: 'Usagi', scrapes: { 'Kotatsu': '', 'Mihon': '', 'LNreader': ''  } }
-]" />
+::: scrapetable
+- Anymex : (Mihon), (Aniyomi), (Mangayomi), (Sora), (Cloudstream), (LNreader);
+- Cloudstream : (Cloudstream), (Aniyomi);
+- Dantotsu : (Mihon), (Aniyomi), (LNreader);
+- Futon : (Kotatsu), (Mihon);
+- IReader : (IReader), (LNreader), (Legado);
+- Kototoro : (Mihon), (Aniyomi), (Kotatsu), (LNReader), (Legado), (IReader);
+- Mangayomi : (Mihon), (Aniyomi), (Mangayomi);
+- Usagi : (Kotatsu), (Mihon), (LNreader);
+:::
 
 
 ::: tip README

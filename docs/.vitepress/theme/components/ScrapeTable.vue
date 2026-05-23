@@ -174,7 +174,12 @@ onMounted(() => {
         </colgroup>
         <thead>
           <tr>
-            <th class="corner">{{ cornerLabel ?? 'Sources' }}</th>
+            <th class="corner">
+              {{ cornerLabel ?? 'Sources' }}
+              <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" style="display:inline-block;vertical-align:middle;margin-left:4px;color:inherit">
+                <path fill="currentColor" d="m12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"/>
+              </svg>
+            </th>
             <th v-for="source in sources" :key="source" class="source-header">
               <span>{{ source }}</span>
             </th>
