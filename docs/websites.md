@@ -67,7 +67,7 @@ outline: 1
 - [AnimeXin](https://animexin.dev/)
 - [Chiki Animation 2D](https://chikianimation.com/) [:tg:](https://t.me/Donghuanewofficial)
 - [Chiki Animation 3D](https://chikianimation.online/) [:tg:](https://t.me/Dimensional_Animation)
-- [Crimson Subs](https://crimsonfansubs.com/) [:d:](https://discord.com/invite/JMn7Y8qv)
+- [Crimson Subs](https://crimsonfansubs.com/)
 - [Donghua Stream](https://donghuastream.org/) [:d:](https://discord.gg/4zrUguAakG) [:tg:](https://telegram.me/DonghuaStream_com)
 - [Dongsub](https://www.dongsub.net/) [:tg:](https://t.me/dongsub)
 - [LM Anime](https://lmanime.com/)

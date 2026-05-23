@@ -19,7 +19,7 @@ og:
 | [Animetail](https://github.com/Dark25/Animetail2) [:n:](https://github.com/Animetailapp/Animetail-preview) | :ddl::mag: | :mal::al::k::simkl: | :tv::cast: |
 | [Hayase](https://hayase.watch/) [:src:](https://github.com/hayase-app) [:e:](/ext/misc#hayase) | :mag::usnt: | :mal::al::k::simkl: | :tv::cast::dlna: |
 | [Anikku](https://anikku-app.github.io/) [:src:](https://github.com/komikku-app/anikku) [:n:](https://github.com/komikku-app/anikku-preview) | :ddl::mag: | :mal::al::k::simkl: | :tv::cast: |
-| [Dantotsu](https://github.com/itsmechinmoy/dantotsu-updater) [:d:](https://discord.com/invite/4HPZ5nAWwM) [:src:](https://git.rebelonion.dev/rebelonion/Dantotsu) | :ddl::mag: | :mal::al: | :cast: |
+| [Dantotsu](https://github.com/itsmechinmoy/dantotsu-updater) [:d:](https://discord.gg/4HPZ5nAWwM) [:src:](https://git.rebelonion.dev/rebelonion/Dantotsu) | :ddl::mag: | :mal::al: | :cast: |
 | [Cloudstream](https://github.com/recloudstream/cloudstream) [:e:](/ext/misc#cloudstream) | :ddl::mag: | :mal::al::simkl: | :tv::cast: |
 | [Animiru](https://github.com/quickdesh/Animiru)  | :ddl: | :mal::al::k::simkl: | :no: |
 | [Stremio](https://www.stremio.com/) :cs: [:e:](#stremio) | :ddl::mag: | :mal::al::k::simkl: | :tv::cast: |
@@ -42,7 +42,7 @@ og:
 | ^^ | [Kotatsu Redo](https://github.com/Kotatsu-Redo/Kotatsu-Redo) |
 | ^^ | [Kototoro](https://github.com/skepsun/Kototoro) <tooltip>Supports Mihon and Legado extensions</tooltip> |
 | **Misc** | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) <tooltip>Supports Mihon and Mangayomi extensions</tooltip> |
-| ^^ | [Dantotsu](https://github.com/itsmechinmoy/dantotsu-updater) [:src:](https://git.rebelonion.dev/rebelonion/Dantotsu) [:d:](https://discord.com/invite/4HPZ5nAWwM) <tooltip>Supports Mihon extensions</tooltip> |
+| ^^ | [Dantotsu](https://github.com/itsmechinmoy/dantotsu-updater) [:src:](https://git.rebelonion.dev/rebelonion/Dantotsu) [:d:](https://discord.gg/4HPZ5nAWwM) <tooltip>Supports Mihon extensions</tooltip> |
 | ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) |
 | **Local** | [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :fm::cs: |
 | ^^ | [Kuro Reader +](https://kurotoshiro.dev/) :fm::cs: |

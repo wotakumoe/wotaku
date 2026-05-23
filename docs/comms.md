@@ -74,6 +74,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 
 == Games
 - [DigimonBasic](https://discord.gg/B3RXtnXRSG)
+- [Nikke](https://discord.gg/nikke-en)
 - [Privateersclub](https://discord.gg/jz8dUnnD6Q)
 - [r/Pokémon](https://discord.gg/pokemon)
 - [r/UmaMusume](https://discord.gg/umamusume)
@@ -141,6 +142,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 == Games
 
 - [GachaGaming](https://old.reddit.com/r/gachagaming/)
+- [Nikke](https://old.reddit.com/r/NikkeMobile/)
 - [osu!](https://old.reddit.com/r/osugame/)
 - [Pokémon](https://old.reddit.com/r/pokemon/)
 - [Touhou](https://old.reddit.com/r/touhou/)
