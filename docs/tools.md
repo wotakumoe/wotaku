@@ -238,25 +238,24 @@ og:
 
 ## arr
 
-| Category            | Software |
-|---------------------|----------|
-| **Media Automation** | [Radarr](https://radarr.video/) ||Movies|| |
-| ^^                 | [Sonarr](https://sonarr.tv/) ||TV Series|| |
-| **Tools**          | [Overseerr](https://seerr.dev/) |
-| ^^                 | [Prowlarr](https://prowlarr.com/) |
-| ^^                 | [Jackett](https://github.com/Jackett/Jackett) |
-| ^^                 | [autobrr](https://autobrr.com/) |
-| ^^                 | [Ombi](https://ombi.io/) |
-| ^^                 | [Maintainerr](https://github.com/jorenn92/Maintainerr) |
-| ^^                 | [Jellyseerr](https://docs.seerr.dev/) [:src:](https://github.com/Fallenbagel/jellyseerr) |
-| ^^                 | [Tdarr](https://home.tdarr.io/) |
-| ^^                 | [Bazarr](https://www.bazarr.media/) |
-| ^^                 | [Sonarr/Radarr/Lidarr autosearch](https://chromewebstore.google.com/detail/jmmjjcddjldjdjgckdiokhfokccdnekc) |
-| ^^                 | [Doplarr](https://github.com/kiranshila/Doplarr) |
-| ^^                 | [homarr](https://github.com/ajnart/homarr) |
-| ^^                 | [requestrr](https://github.com/thomst08/requestrr) |
-| **Guides**         | [Servarr Wiki](https://wiki.servarr.com/) |
-| ^^                 | [TRaSH Guides](https://trash-guides.info/) |
+| Category | Tool |
+|---|---|
+| **Main** | [Radarr](https://radarr.video/) [:src:](https://github.com/Radarr/Radarr) |
+| ^^ | [Sonarr](https://sonarr.tv/) [:src:](https://github.com/Sonarr/Sonarr) |
+| ^^ | [Lidarr](https://lidarr.audio/) [:src:](https://github.com/Lidarr/Lidarr) |
+| **Indexer** | [Prowlarr](https://prowlarr.com/) [:src:](https://github.com/Prowlarr/Prowlarr) |
+| ^^ | [Jackett](https://github.com/Jackett/Jackett) |
+| ^^ | [autobrr](https://autobrr.com/) [:src:](https://github.com/autobrr/autobrr) |
+| **Request** | [Serr](https://seerr.dev/) [:src:](https://github.com/seerr-team/seerr) |
+| ^^ | [Ombi](https://ombi.io/) [:src:](https://github.com/Ombi-app/Ombi) |
+| **Others** | [Bazarr](https://www.bazarr.media/) [:src:](https://github.com/morpheus65535/bazarr) ||Subtitle|| |
+| ^^ | [Doplarr](https://github.com/kiranshila/Doplarr) ||Discord|| |
+| ^^ | [homarr](https://homarr.dev/) [:src:](https://github.com/ajnart/homarr) ||Dashboard|| |
+| ^^ | [Maintainerr](https://maintainerr.info/) [:src:](https://github.com/jorenn92/Maintainerr) ||Storage|| |
+| ^^ | [Tdarr](https://home.tdarr.io/) [:src:](https://github.com/morpheus65535/bazarr) ||Transcoding|| |
+| ^^ | [requestrr](https://github.com/thomst08/requestrr) ||Discord|| |
+| **Docs** | [Servarr Wiki](https://wiki.servarr.com/) |
+| ^^ | [TRaSH Guides](https://trash-guides.info/) |
 
 ## Usenet
 
