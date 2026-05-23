@@ -90,8 +90,6 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [AniPiece](https://anipiece.net/) |
 | ^^ | [BalkanFlix](https://www.balkanflix.com/) |
 | ^^ | [Ranime](https://ranime.net/) |
-| **Cartoon** | [Gledaj Crtaće (.org)](https://www.gledajcrtace.org/) |
-| ^^ | [Gledaj Crtaće (.rs)](https://www.gledajcrtace.rs/) |
 | **Manga** | [L&B Pirates](https://lnbmange.com/) |
 | **News** | [Potamanime](https://potamanime.rs/) |
 
@@ -227,7 +225,6 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [FRAnime](https://franime.fr/) |
 | ^^ | [FanKai](http://fankai.fr/) [:alt:](https://linktr.ee/FanKai) |
 | ^^ | [French Anime](https://french-anime.com/) + :len: |
-| ^^ | [JetAnime](https://on.jetanimes.com/) |
 | ^^ | [Sekai](https://sekai.one/) |
 | ^^ | [Streaming-integrale](https://streaming-integrale.com/) |
 | ^^ | [Voiranime](https://voir-anime.to/) [:d:](https://discord.gg/js2P2HT) |
@@ -349,7 +346,6 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [Mynimeku](https://www.mynimeku.com/) |
 | ^^ | [Otaku Desu](https://otakudesu.cloud/) |
 | ^^ | [Samehadaku](https://v2.samehadaku.how/) [:prx:](https://samehadaku.care/) |
-| ^^ | [SPlay](https://splay.id/) :acc: |
 | **DDL** | [Kusonime](https://kusonime.com/) |
 | ^^ | [Meownime](https://meownime.ltd/) |
 | **Info** | [Database Tontonan Wibu Indonesia](https://db.silveryasha.id/) |
@@ -729,7 +725,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [TruyenQQ](https://truyenqqko.com/) |
 | Hentai | [DuaLeoTruyen](https://dualeotruyenhx.com/) |
 | ^^ | [HentaiCube](https://hentaicube.xyz/) |
-| ^^ | [qManga](https://qmanga.art/) |
 | ^^ | [TruyenHentaiVN](https://truyenhentaivn.club/) |
 | Novels | [Hako](https://docln.net/) |
 | ^^ | [Metruyenhot](https://metruyenhot.vn/) |
@@ -737,7 +732,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [TruyenFull.io](https://truyenfull.vision/) :ero: |
 | ^^ | [Xalosach](https://xalosach.com/) |
 | Others | [Tana.moe](https://tana.moe/) |
-| ^^ | [Tokuvn](https://tokuvn.com/) |
 | ^^ | [Vietnam Key FanClub](https://vnkeyfc.com/) :ddl: |
 
 ### Software
