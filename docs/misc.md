@@ -21,6 +21,7 @@ outline: [1,2]
 - [Anime Planet](https://www.anime-planet.com/)
 - [aniSearch](https://www.anisearch.com/)
 - [Bookmeter](https://bookmeter.com/) :ljp:
+- [Hanmoto](https://www.hanmoto.com/) :s::ljp:
 - [Kitsu](https://kitsu.app/explore/anime)
 - [Kurozora](https://kurozora.app/)
 - [NamuWiki](https://namu.wiki/) :lkr:
@@ -33,19 +34,19 @@ outline: [1,2]
   { name: 'Anime Planet', scrapes: { 'Anime': '', 'Manga': '' } },
   { name: 'aniSearch', scrapes: { 'Anime': '', 'Manga': '', 'Novels': '', 'Live Action': '', 'Tokusatsu': '' } },
   { name: 'ANN', scrapes: { 'Anime': '', 'Manga': ''} },
-  { name: 'Bookmeter', scrapes: { 'Manga': '', 'Novels': '' } },
+  { name: 'Bookmeter', scrapes: { 'Manga': '', 'Novels': '', 'Non-fiction': '' } },
+  { name: 'Hanmoto', scrapes: { 'Manga': '', 'Novels': '', 'Non-fiction': '' } },
   { name: 'Kitsu', scrapes: { 'Anime': '', 'Manga': '' } },
   { name: 'Kurozora', scrapes: { 'Anime': '', 'Manga': '', 'Games': '' } },
   { name: 'MangaBaka', scrapes: { 'Manga': '', 'Novels': '' } },
   { name: 'MyAnimeList', scrapes: { 'Anime': '', 'Manga': '', 'Novels': '' } },
-  { name: 'NamuWiki', scrapes: { 'Anime': '', 'Manga': '', 'Novels': '', 'Games': '', 'Live Action': '', 'Tokusatsu': '' } },
   { name: 'Sakuhin Database', scrapes: { 'Anime': '', 'Manga': '', 'Novels': '', 'Games': '', 'Live Action': '', 'Tokusatsu': '' } },
-  { name: 'Wikipedia', scrapes: { 'Anime': '', 'Manga': '', 'Novels': '', 'Games': '', 'Live Action': '', 'Tokusatsu': '' } }
 ]" />
 
 ::: tip README
 - **Novels**: All the types of novels (LN, WN etc.) are grouped in one category.
 - **Live-Action**: General movies & tv series are merged as Live-Action. Tokusatsu is kept as independent since it is a special sub-genre.
+- **General Wiki**: Since they have all kinds of contents, they won't be added in the Topics table.
 :::
 
 <Collapsible title="The More You Know">
