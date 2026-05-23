@@ -10,18 +10,17 @@ prev: false
 import Credits from './.vitepress/theme/components/Contributors.vue'
 </script>
 
-
 <Credits />
 
+<hr>
+
 :::center
-# Resource Credits
+# Art Credits
 :::
 
-:::tabs
+::: tabs 
 
-== Art 
-
-#### Current Assets
+== Current Assets
 
 | Artist / Studio | Art | Used as |
 |-|-|-|
@@ -68,8 +67,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **柱 (youamo)** | [Antonina](https://42lab-us.sunborngame.com/index) | [Music banner](/music#server) |
 
 
-
-#### Previous Assets
+== Previous Assets
 
 | Artist / Studio             | Art                                                                                                | Used as             |
 | --------------------------- | -------------------------------------------------------------------------------------------------- | ------------------- |
@@ -115,9 +113,17 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **WayForward**           | [Risky Boots](https://shantae.fandom.com/wiki/Risky_Boots)                                            | PT banner         |
 | **夕城 (Yuki)**          | [Hoshimachi Suisei meteor shower](https://xfolio.jp/en/portfolio/yukiyasa1/works/3491276)             | Default link embed  |
 
-== Glossary
+:::
 
-#### General
+<hr>
+
+:::center
+# Glossary Reference
+:::
+
+:::tabs
+
+== General
 
 | Author / Pub | Article | Used in |
 |-|-|-|
@@ -125,7 +131,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Yen Press** | [Horimiya Vol. 15 by Yen Press](https://yenpress.com/titles/9781975324735-horimiya-vol-15) | [Common Honorifics](/glossary/general#common-honorifics) |
 | - | [The Dere Types Wiki](https://the-dere-types.fandom.com/wiki/The_Dere_Types_Wiki) | [Dere Types](/glossary/general#dere-types) |
 
-#### Anime
+== Anime
 | Author / Pub | Article | Used in |
 |-|-|-|
 | **Bridge** | [Shaman King](https://setteidreams.net/storyboards/shaman-king-2021-opening-02/) | [E-Konte](/glossary/anime#e-konte) |
@@ -135,7 +141,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **ISA** | [Sakuga Wiki](https://sakuga.fandom.com/wiki/Sakuga_Wiki) | [Technical terms](/glossary/anime#technical-terms) |
 | **Japanese with Anime** | [anime - Terminology](https://www.japanesewithanime.com/2016/08/anime.html) | [Release terms](/glossary/anime#release-terms) |
 
-#### Manga
+== Manga
 | Artist / Author / Pub | Article | Used in |
 |-|-|-|
 | **Akutami Gege** | [Jujutsu Kaisen](https://shonenjumpplus.com/episode/10834108156650001170) | [Release Terms](/glossary/manga#release-terms) |
@@ -162,7 +168,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Yamano Ran** | [Kilroy Was Here](https://www.hmv.co.jp/artist_%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E7%B7%A8%E9%9B%86%E9%83%A8_000000000470398/item_%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97-2016%E5%B9%B4-3%E6%9C%88%E5%8F%B7-%E9%80%B1%E5%88%8A%E3%83%A4%E3%83%B3%E3%82%B0%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97-2016%E5%B9%B4-3%E6%9C%88-30%E6%97%A5%E5%8F%B7%E5%A2%97%E5%88%8A_6892269) | [Scanlation](/glossary/manga#scanlation) |
 | **Yūki Tabata** | [Black Clover](https://mangaplus.shueisha.co.jp/titles/100003) | [Panel Terms](/glossary/manga#panel-terms) |
 
-#### Audio
+== Audio
 
 | Author / Pub | Article | Used in |
 |-|-|-|
