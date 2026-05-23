@@ -133,7 +133,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [Anime Hack](https://anime.eiga.com/person/) :ljp: |
 | ^^ | [AVAC.moe](https://avac.moe/index.php) :mal: |
 | ^^ | [Seiyuu.moe](https://seiyuu.moe/) :mal: |
-| ^^ | [Seiyuu Comparison](https://chiaki.site/?/tools/seiyuu_comparison) ||chiaki|| :al: |
+| ^^ | [Seiyuu Comparison](https://chiaki.site/?/tools/seiyuu_comparison) :al: ||Chiaki|| |
 | ^^ | [Seiyuu Database](http://www.usagi.org/doi/seiyuu/index.html) |
 | ^^ | [Behind The Voice Actors](https://www.behindthevoiceactors.com/) <tooltip>Focuses on English VAs more.</tooltip> |
 
@@ -339,8 +339,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^         | [Trace](https://trace.moe/) [:src:](https://github.com/soruly/trace.moe) |
 | ^^         | [ascii2d](https://ascii2d.net/) |
 | ^^         | [Multi-service image search](https://iqdb.org/) |
-| **Others** | [Imgtrans](https://touhou.ai/imgtrans/) [:src:](https://github.com/zyddnys/manga-image-translator) |
-| ^^        | [Slowpoke Pics](https://slow.pics/) |
+| **Others** | [Slowpoke Pics](https://slow.pics/) |
 
 
 ## Tracker
