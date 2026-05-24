@@ -326,6 +326,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | **General** | [Anime Bingo](https://anime-bingo.aikats.us/) [:src:](https://github.com/walfie/anime-bingo) | :al: |  
 | ^^        | [due.moe](https://due.moe/) | :al: |  
 | ^^        | [GomiTier](https://www.gomitier.tech/) | :mal::al: |
+| ^^        | [Konsumr](https://www.konsumr.com/) | :al::tmdb: |
 | ^^        | [Related Anime](https://relatedanime.com/) | :mal: |
 | ^^        | [WikiTimeline](https://wiki-timeline.com/) [:src:](https://github.com/wenzhenl/wikitimeline) | :wikip: |
 | **Anime** | [Manga Adaptations](https://anilist-adaptations.timschneeberger.me/) [:src:](https://github.com/timschneeb/manga-adaptations-anilist) | :al: |  
