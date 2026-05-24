@@ -79,6 +79,8 @@ outline: 1
 
 <Collapsible title="Misc">
 
+#### Misc
+
 | Category | Websites |
 | :--- | :--- |
 | [**One Pace Project**](https://linktr.ee/onepaceproject) | [Official Site](https://onepace.net/en/watch) |
