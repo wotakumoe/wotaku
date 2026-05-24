@@ -10,6 +10,7 @@ import {
   PagePropertiesMarkdownSection
 } from '@nolebase/vitepress-plugin-page-properties/vite'
 import { fileURLToPath, URL } from 'node:url'
+import { collectHeadingsPlugin } from '../plugins/collectHeadings'
 import UnoCSS from 'unocss/vite'
 import Devtools from 'vite-plugin-vue-devtools'
 import type { DefaultTheme, Plugin, UserConfig } from 'vitepress'
@@ -107,6 +108,7 @@ export const shared: UserConfig<DefaultTheme.Config> = {
       ]
     },
     plugins: [
+      collectHeadingsPlugin(fileURLToPath(new URL('../../', import.meta.url))),
       Devtools(),
       PageProperties(),
       PagePropertiesMarkdownSection(),
