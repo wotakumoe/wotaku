@@ -88,9 +88,8 @@ outline: 1
 | ^^ | [Stremio Addon](https://stremio-addons.net/addons/one-pace-addon) |
 | ^^ | [Public Subtitles](https://github.com/one-pace/one-pace-public-subtitles) |
 | **Rerun Sites** :hd: | [BumpWorthy](https://www.bumpworthy.com/) |
-| ^^ | [RetroBlast](https://retroblast.tv/) |
+| ^^ | [Cartoons Network](https://cartooncartoons.thatsoretro.com/) |
 | ^^ | [Swim Rewind](https://swimrewind.com/) |
-| ^^ | [Toonami Aftermath](https://www.toonamiaftermath.com/) |
 | ^^ | [Toonami Remastered](https://www.toonamiremastered.com/) |
 | **Others** | [Gabby's Anime Edits](https://linktr.ee/gabby5202) |
 | ^^ | [SBY Stream](https://sbystream.com/) |
