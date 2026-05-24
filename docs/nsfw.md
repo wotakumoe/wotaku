@@ -85,6 +85,8 @@ og:
 | [Toonitube](https://toonitube.com/) | :no: | :yes: |
 | [WebtoonScan](https://webtoonscan.com/) | :yes: | :yes: |
 
+<Block link="/nonen#korean" icon="i-bi-box-arrow-up-right">Raw only websites are listed here</Block>
+
 ## Illustrations
 
 ### Self-Hosted
