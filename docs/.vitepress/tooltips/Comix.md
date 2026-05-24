@@ -1,6 +1,5 @@
 - Promising site turned complete mess.
 - Entirely vibecoded, so you will encounter various bugs.
-- Started watermarking every single chapter.
 - Uploads chapters from multiple sources.
 - Pretty decent library, would already be removed otherwise.
 - Aggregation and tagging have also worsened over time.
