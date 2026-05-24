@@ -95,7 +95,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | --- | --- |
 | **Landmarks** | [anitabi](https://anitabi.cn/) :s::lcn: [:src:](https://github.com/anitabi/anitabi.cn-document) |
 | ^^ | [Flubber’s Fluttering Anime Pilgrimage](https://furaba-animeseichi.blog.jp/) :ljp: |
-| ^^ | [Anime Tourism](https://anime-tourism.jp/) :ded::lcn: |
+| ^^ | [Anime Tourism](https://anime-tourism.jp/) :ded::ljp: |
 | **General** | [SIMKL](https://simkl.com/) |
 | ^^ | [The Movie Database](https://www.themoviedb.org/) |
 | ^^ | [TheTVDB.com](https://www.thetvdb.com/) |
