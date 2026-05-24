@@ -13,7 +13,7 @@ const open = ref(false)
     <summary>
       <span v-if="open" class="i-iconoir-nav-arrow-down collapsible-icon" />
       <span v-else class="i-iconoir-nav-arrow-right collapsible-icon" />
-      {{ title || 'Details' }}
+      <h3 class="collapsible-title">{{ title || 'Details' }}</h3>
     </summary>
     <slot />
   </details>
@@ -36,5 +36,16 @@ summary::-webkit-details-marker {
   width: 1em;
   height: 1em;
   flex-shrink: 0;
+}
+
+.collapsible-title {
+  margin: 0;
+  padding: 0;
+  font-size: inherit;
+  font-weight: inherit;
+  line-height: inherit;
+  color: inherit;
+  letter-spacing: inherit;
+  border: none;
 }
 </style>
