@@ -7,11 +7,12 @@
 -->
 <script setup>
 import { useRouter } from 'vitepress'
-import headings from '../headings.json'
 
 const router = useRouter()
 
-function goRandom() {
+async function goRandom() {
+  const res = await fetch('/headings.json')
+  const headings = await res.json()
   const pick = headings[Math.floor(Math.random() * headings.length)]
   router.go(pick.path + pick.anchor)
 }

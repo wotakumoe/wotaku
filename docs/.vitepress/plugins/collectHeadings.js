@@ -2,15 +2,23 @@ import { readdirSync, readFileSync, writeFileSync } from 'fs'
 import { join } from 'path'
 
 export function collectHeadingsPlugin(docsDir) {
+  const generate = () => {
+    const headings = []
+    collectFromDir(docsDir, docsDir, headings)
+    writeFileSync(
+      join(docsDir, 'public', 'headings.json'),
+      JSON.stringify(headings, null, 2)
+    )
+    console.log(`[collectHeadings] wrote ${headings.length} headings`)
+  }
+
   return {
     name: 'collect-h2-headings',
     buildStart() {
-      const headings = []
-      collectFromDir(docsDir, docsDir, headings)
-      writeFileSync(
-        join(docsDir, '.vitepress', 'headings.json'),
-        JSON.stringify(headings, null, 2)
-      )
+      generate()
+    },
+    configureServer() {
+      generate()
     }
   }
 }
@@ -24,7 +32,6 @@ function collectFromDir(baseDir, dir, headings) {
       const content = readFileSync(filePath, 'utf-8')
       const lines = content.split('\n')
 
-      // Derive URL path from file path
       let urlPath = filePath
         .replace(baseDir, '')
         .replace(/\\/g, '/')

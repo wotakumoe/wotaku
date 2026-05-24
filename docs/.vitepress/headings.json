@@ -1,0 +1,1587 @@
+[
+  {
+    "path": "/art",
+    "anchor": "#artist-platforms",
+    "title": "Artist Platforms"
+  },
+  {
+    "path": "/art",
+    "anchor": "#support-commission",
+    "title": "Support / Commission"
+  },
+  {
+    "path": "/art",
+    "anchor": "#official-art-cover-poster",
+    "title": "Official Art / Cover / Poster"
+  },
+  {
+    "path": "/art",
+    "anchor": "#booru",
+    "title": "Booru"
+  },
+  {
+    "path": "/art",
+    "anchor": "#front-end-utility",
+    "title": "Front-end / Utility"
+  },
+  {
+    "path": "/art",
+    "anchor": "#others",
+    "title": "Others"
+  },
+  {
+    "path": "/art",
+    "anchor": "#android",
+    "title": "Android"
+  },
+  {
+    "path": "/art",
+    "anchor": "#ios",
+    "title": "iOS"
+  },
+  {
+    "path": "/art",
+    "anchor": "#pc",
+    "title": "PC"
+  },
+  {
+    "path": "/art",
+    "anchor": "#extensions",
+    "title": "Extensions"
+  },
+  {
+    "path": "/art",
+    "anchor": "#scripts",
+    "title": "Scripts"
+  },
+  {
+    "path": "/comms",
+    "anchor": "#forums",
+    "title": "Forums"
+  },
+  {
+    "path": "/comms",
+    "anchor": "#discord-servers",
+    "title": "Discord servers"
+  },
+  {
+    "path": "/comms",
+    "anchor": "#subreddits",
+    "title": "Subreddits"
+  },
+  {
+    "path": "/comms",
+    "anchor": "#boards",
+    "title": "Boards"
+  },
+  {
+    "path": "/ext/",
+    "anchor": "#cross-app-support",
+    "title": "Cross-app Support"
+  },
+  {
+    "path": "/ext/ios",
+    "anchor": "#aidoku",
+    "title": "Aidoku"
+  },
+  {
+    "path": "/ext/ios",
+    "anchor": "#sora",
+    "title": "Sora"
+  },
+  {
+    "path": "/ext/ios",
+    "anchor": "#suwatte",
+    "title": "Suwatte"
+  },
+  {
+    "path": "/ext/mangayomi",
+    "anchor": "#repositories",
+    "title": "Repositories"
+  },
+  {
+    "path": "/ext/mangayomi",
+    "anchor": "#sideloading-methods",
+    "title": "Sideloading Methods"
+  },
+  {
+    "path": "/ext/mihon",
+    "anchor": "#repositories",
+    "title": "Repositories"
+  },
+  {
+    "path": "/ext/mihon",
+    "anchor": "#sideloading-methods",
+    "title": "Sideloading Methods"
+  },
+  {
+    "path": "/ext/misc",
+    "anchor": "#cloudstream",
+    "title": "Cloudstream"
+  },
+  {
+    "path": "/ext/misc",
+    "anchor": "#hayase",
+    "title": "Hayase"
+  },
+  {
+    "path": "/ext/misc",
+    "anchor": "#ireader",
+    "title": "IReader"
+  },
+  {
+    "path": "/ext/misc",
+    "anchor": "#kotatsu",
+    "title": "Kotatsu"
+  },
+  {
+    "path": "/ext/misc",
+    "anchor": "#legado",
+    "title": "Legado"
+  },
+  {
+    "path": "/ext/misc",
+    "anchor": "#lnreader",
+    "title": "LNReader"
+  },
+  {
+    "path": "/games",
+    "anchor": "#info",
+    "title": "Info"
+  },
+  {
+    "path": "/games",
+    "anchor": "#tools",
+    "title": "Tools"
+  },
+  {
+    "path": "/games",
+    "anchor": "#gacha",
+    "title": "Gacha"
+  },
+  {
+    "path": "/games",
+    "anchor": "#osu",
+    "title": "osu!"
+  },
+  {
+    "path": "/games",
+    "anchor": "#pokmon",
+    "title": "Pokémon"
+  },
+  {
+    "path": "/games",
+    "anchor": "#sonic",
+    "title": "Sonic"
+  },
+  {
+    "path": "/games",
+    "anchor": "#touhou",
+    "title": "Touhou"
+  },
+  {
+    "path": "/games",
+    "anchor": "#yu-gi-oh",
+    "title": "Yu-Gi-Oh!"
+  },
+  {
+    "path": "/glossary/anime",
+    "anchor": "#basic-terms",
+    "title": "Basic Terms"
+  },
+  {
+    "path": "/glossary/anime",
+    "anchor": "#release-terms",
+    "title": "Release terms"
+  },
+  {
+    "path": "/glossary/anime",
+    "anchor": "#season",
+    "title": "Season"
+  },
+  {
+    "path": "/glossary/anime",
+    "anchor": "#episode-sections",
+    "title": "Episode Sections"
+  },
+  {
+    "path": "/glossary/anime",
+    "anchor": "#anime-production",
+    "title": "Anime Production"
+  },
+  {
+    "path": "/glossary/audio",
+    "anchor": "#audio-file",
+    "title": "Audio File"
+  },
+  {
+    "path": "/glossary/audio",
+    "anchor": "#release",
+    "title": "Release"
+  },
+  {
+    "path": "/glossary/audio",
+    "anchor": "#hardware",
+    "title": "Hardware"
+  },
+  {
+    "path": "/glossary/audio",
+    "anchor": "#tools",
+    "title": "Tools"
+  },
+  {
+    "path": "/glossary/audio",
+    "anchor": "#audio-signal",
+    "title": "Audio Signal"
+  },
+  {
+    "path": "/glossary/audio",
+    "anchor": "#analog-to-digital",
+    "title": "Analog to Digital"
+  },
+  {
+    "path": "/glossary/audio",
+    "anchor": "#sample-rate",
+    "title": "Sample Rate"
+  },
+  {
+    "path": "/glossary/audio",
+    "anchor": "#bit-depth",
+    "title": "Bit Depth"
+  },
+  {
+    "path": "/glossary/audio",
+    "anchor": "#bit-rate",
+    "title": "Bit rate"
+  },
+  {
+    "path": "/glossary/audio",
+    "anchor": "#codec",
+    "title": "Codec"
+  },
+  {
+    "path": "/glossary/audio",
+    "anchor": "#spectrogram",
+    "title": "Spectrogram"
+  },
+  {
+    "path": "/glossary/audio",
+    "anchor": "#container",
+    "title": "Container"
+  },
+  {
+    "path": "/glossary/audio",
+    "anchor": "#audio-source",
+    "title": "Audio Source"
+  },
+  {
+    "path": "/glossary/audio",
+    "anchor": "#transcoding",
+    "title": "Transcoding"
+  },
+  {
+    "path": "/glossary/audio",
+    "anchor": "#other-file-types",
+    "title": "Other File types"
+  },
+  {
+    "path": "/glossary/audio",
+    "anchor": "#dac",
+    "title": "DAC"
+  },
+  {
+    "path": "/glossary/audio",
+    "anchor": "#amp",
+    "title": "Amp"
+  },
+  {
+    "path": "/glossary/audio",
+    "anchor": "#playback-device",
+    "title": "Playback Device"
+  },
+  {
+    "path": "/glossary/audio",
+    "anchor": "#frequency-response",
+    "title": "Frequency Response"
+  },
+  {
+    "path": "/glossary/audio",
+    "anchor": "#equalization",
+    "title": "Equalization"
+  },
+  {
+    "path": "/glossary/audio",
+    "anchor": "#vocaloid",
+    "title": "Vocaloid"
+  },
+  {
+    "path": "/glossary/audio",
+    "anchor": "#shibuya-kei",
+    "title": "Shibuya-kei"
+  },
+  {
+    "path": "/glossary/audio",
+    "anchor": "#denpa",
+    "title": "Denpa"
+  },
+  {
+    "path": "/glossary/audio",
+    "anchor": "#jpop",
+    "title": "Jpop"
+  },
+  {
+    "path": "/glossary/audio",
+    "anchor": "#doujin-music",
+    "title": "Doujin (music)"
+  },
+  {
+    "path": "/glossary/audio",
+    "anchor": "#jcore",
+    "title": "Jcore"
+  },
+  {
+    "path": "/glossary/audio",
+    "anchor": "#idol",
+    "title": "Idol"
+  },
+  {
+    "path": "/glossary/general",
+    "anchor": "#region",
+    "title": "Region"
+  },
+  {
+    "path": "/glossary/general",
+    "anchor": "#demography",
+    "title": "Demography"
+  },
+  {
+    "path": "/glossary/general",
+    "anchor": "#genre",
+    "title": "Genre"
+  },
+  {
+    "path": "/glossary/general",
+    "anchor": "#terms",
+    "title": "Terms"
+  },
+  {
+    "path": "/glossary/general",
+    "anchor": "#common-honorifics",
+    "title": "Common Honorifics"
+  },
+  {
+    "path": "/glossary/general",
+    "anchor": "#doujin-basics",
+    "title": "Doujin Basics"
+  },
+  {
+    "path": "/glossary/general",
+    "anchor": "#idol-vtuber-terms",
+    "title": "Idol / VTuber terms"
+  },
+  {
+    "path": "/glossary/general",
+    "anchor": "#kemonomimi",
+    "title": "Kemonomimi"
+  },
+  {
+    "path": "/glossary/general",
+    "anchor": "#dere-types",
+    "title": "Dere Types"
+  },
+  {
+    "path": "/glossary/manga",
+    "anchor": "#basic-terms",
+    "title": "Basic Terms"
+  },
+  {
+    "path": "/glossary/manga",
+    "anchor": "#panel-terms",
+    "title": "Panel Terms"
+  },
+  {
+    "path": "/glossary/manga",
+    "anchor": "#release-terms",
+    "title": "Release Terms"
+  },
+  {
+    "path": "/glossary/manga",
+    "anchor": "#scanlation",
+    "title": "Scanlation"
+  },
+  {
+    "path": "/glossary/manga",
+    "anchor": "#technical-terms",
+    "title": "Technical Terms"
+  },
+  {
+    "path": "/guides/anime/discrip",
+    "anchor": "#software-needed",
+    "title": "Software needed"
+  },
+  {
+    "path": "/guides/anime/discrip",
+    "anchor": "#making-mkvs",
+    "title": "Making MKVs"
+  },
+  {
+    "path": "/guides/anime/discrip",
+    "anchor": "#making-iso",
+    "title": "Making ISO"
+  },
+  {
+    "path": "/guides/anime/discrip",
+    "anchor": "#setting-up-uhd-rips",
+    "title": "Setting up UHD rips"
+  },
+  {
+    "path": "/guides/anime/discrip",
+    "anchor": "#tips-qa",
+    "title": "Tips / Q&A"
+  },
+  {
+    "path": "/guides/anime/ns",
+    "anchor": "#ddl",
+    "title": "DDL"
+  },
+  {
+    "path": "/guides/anime/ns",
+    "anchor": "#irc",
+    "title": "IRC"
+  },
+  {
+    "path": "/guides/anime/ns",
+    "anchor": "#torrent",
+    "title": "Torrent"
+  },
+  {
+    "path": "/guides/",
+    "anchor": "#anime",
+    "title": "Anime"
+  },
+  {
+    "path": "/guides/",
+    "anchor": "#manga",
+    "title": "Manga"
+  },
+  {
+    "path": "/guides/",
+    "anchor": "#music",
+    "title": "Music"
+  },
+  {
+    "path": "/guides/",
+    "anchor": "#technical",
+    "title": "Technical"
+  },
+  {
+    "path": "/guides/manga/comicinfo",
+    "anchor": "#volumes",
+    "title": "Volumes"
+  },
+  {
+    "path": "/guides/manga/comicinfo",
+    "anchor": "#chapters",
+    "title": "Chapters"
+  },
+  {
+    "path": "/guides/manga/cubari",
+    "anchor": "#files-and-metadata",
+    "title": "Files and metadata"
+  },
+  {
+    "path": "/guides/manga/cubari",
+    "anchor": "#setup",
+    "title": "Setup"
+  },
+  {
+    "path": "/guides/manga/cubari",
+    "anchor": "#kaguya",
+    "title": "Kaguya"
+  },
+  {
+    "path": "/guides/manga/cubari",
+    "anchor": "#mihon",
+    "title": "Mihon"
+  },
+  {
+    "path": "/guides/manga/imagedit",
+    "anchor": "#simple-denoising",
+    "title": "Simple Denoising"
+  },
+  {
+    "path": "/guides/manga/imagedit",
+    "anchor": "#grayscaling",
+    "title": "Grayscaling"
+  },
+  {
+    "path": "/guides/manga/imagedit",
+    "anchor": "#leveling",
+    "title": "Leveling"
+  },
+  {
+    "path": "/guides/manga/imagedit",
+    "anchor": "#optimizing",
+    "title": "Optimizing"
+  },
+  {
+    "path": "/guides/manga/jxl",
+    "anchor": "#readers",
+    "title": "Readers"
+  },
+  {
+    "path": "/guides/manga/jxl",
+    "anchor": "#guide",
+    "title": "Guide"
+  },
+  {
+    "path": "/guides/manga/madokami",
+    "anchor": "#creating-account",
+    "title": "Creating Account"
+  },
+  {
+    "path": "/guides/manga/madokami",
+    "anchor": "#downloading-files",
+    "title": "Downloading Files"
+  },
+  {
+    "path": "/guides/manga/mdl",
+    "anchor": "#fmd-2",
+    "title": "FMD 2"
+  },
+  {
+    "path": "/guides/manga/opds",
+    "anchor": "#enabling-opds",
+    "title": "Enabling OPDS"
+  },
+  {
+    "path": "/guides/manga/opds",
+    "anchor": "#adding-the-repo-to-koreader",
+    "title": "Adding the repo to KOReader"
+  },
+  {
+    "path": "/guides/manga/opds",
+    "anchor": "#optimizing-files-using-kcc",
+    "title": "Optimizing files using KCC"
+  },
+  {
+    "path": "/guides/music/echo",
+    "anchor": "#installing-echo",
+    "title": "Installing Echo"
+  },
+  {
+    "path": "/guides/music/echo",
+    "anchor": "#installing-extensions",
+    "title": "Installing Extensions"
+  },
+  {
+    "path": "/guides/music/echo",
+    "anchor": "#updating-extensions",
+    "title": "Updating Extensions"
+  },
+  {
+    "path": "/guides/music/echo",
+    "anchor": "#adding-your-music-accounts",
+    "title": "Adding your music accounts"
+  },
+  {
+    "path": "/guides/music/echo",
+    "anchor": "#how-to-play-music-in-echo",
+    "title": "How to Play Music in Echo"
+  },
+  {
+    "path": "/guides/music/echo",
+    "anchor": "#1-account-safety-spotify-usage",
+    "title": "1. Account Safety & Spotify Usage"
+  },
+  {
+    "path": "/guides/music/echo",
+    "anchor": "#2-managing-your-music-echo-features",
+    "title": "2. Managing Your Music & Echo Features"
+  },
+  {
+    "path": "/guides/music/echo",
+    "anchor": "#3-troubleshooting-common-issues",
+    "title": "3. Troubleshooting Common Issues"
+  },
+  {
+    "path": "/guides/music/fb2klyrics",
+    "anchor": "#adding-openlyrics",
+    "title": "Adding OpenLyrics"
+  },
+  {
+    "path": "/guides/music/fb2klyrics",
+    "anchor": "#saving-synced-lyrics-as-metadata",
+    "title": "Saving synced lyrics as metadata"
+  },
+  {
+    "path": "/guides/music/transcoding",
+    "anchor": "#the-process",
+    "title": "The Process"
+  },
+  {
+    "path": "/guides/tech/adblock",
+    "anchor": "#browser",
+    "title": "Browser"
+  },
+  {
+    "path": "/guides/tech/adblock",
+    "anchor": "#general",
+    "title": "General"
+  },
+  {
+    "path": "/guides/tech/adblock",
+    "anchor": "#annoyances",
+    "title": "Annoyances"
+  },
+  {
+    "path": "/guides/tech/adblock",
+    "anchor": "#site-specific",
+    "title": "Site-specific"
+  },
+  {
+    "path": "/guides/tech/adblock",
+    "anchor": "#vpn",
+    "title": "VPN"
+  },
+  {
+    "path": "/guides/tech/jdl",
+    "anchor": "#steps",
+    "title": "Steps"
+  },
+  {
+    "path": "/japan/culture",
+    "anchor": "#culture-history",
+    "title": "Culture & History"
+  },
+  {
+    "path": "/japan/culture",
+    "anchor": "#mythology",
+    "title": "Mythology"
+  },
+  {
+    "path": "/japan/culture",
+    "anchor": "#festivals-travel",
+    "title": "Festivals & Travel"
+  },
+  {
+    "path": "/japan/culture",
+    "anchor": "#cooking",
+    "title": "Cooking"
+  },
+  {
+    "path": "/japan/culture",
+    "anchor": "#youtube",
+    "title": "YouTube"
+  },
+  {
+    "path": "/japan/immersion",
+    "anchor": "#recommendation",
+    "title": "Recommendation"
+  },
+  {
+    "path": "/japan/immersion",
+    "anchor": "#animation-and-live-action",
+    "title": "Animation and Live Action"
+  },
+  {
+    "path": "/japan/immersion",
+    "anchor": "#reading",
+    "title": "Reading"
+  },
+  {
+    "path": "/japan/immersion",
+    "anchor": "#audio",
+    "title": "Audio"
+  },
+  {
+    "path": "/japan/immersion",
+    "anchor": "#youtube",
+    "title": "YouTube"
+  },
+  {
+    "path": "/japan/language",
+    "anchor": "#starter-guide",
+    "title": "Starter Guide"
+  },
+  {
+    "path": "/japan/language",
+    "anchor": "#general-resources",
+    "title": "General resources"
+  },
+  {
+    "path": "/japan/language",
+    "anchor": "#kana",
+    "title": "Kana"
+  },
+  {
+    "path": "/japan/language",
+    "anchor": "#kanji-vocabulary",
+    "title": "Kanji / Vocabulary"
+  },
+  {
+    "path": "/japan/language",
+    "anchor": "#grammar",
+    "title": "Grammar"
+  },
+  {
+    "path": "/japan/language",
+    "anchor": "#books",
+    "title": "Books"
+  },
+  {
+    "path": "/japan/language",
+    "anchor": "#others",
+    "title": "Others"
+  },
+  {
+    "path": "/japan/software",
+    "anchor": "#anki",
+    "title": "Anki"
+  },
+  {
+    "path": "/japan/software",
+    "anchor": "#phone",
+    "title": "Phone"
+  },
+  {
+    "path": "/japan/software",
+    "anchor": "#pc",
+    "title": "PC"
+  },
+  {
+    "path": "/japan/software",
+    "anchor": "#ocr",
+    "title": "OCR"
+  },
+  {
+    "path": "/merch",
+    "anchor": "#guides",
+    "title": "Guides"
+  },
+  {
+    "path": "/merch",
+    "anchor": "#info",
+    "title": "Info"
+  },
+  {
+    "path": "/merch",
+    "anchor": "#youtube",
+    "title": "YouTube"
+  },
+  {
+    "path": "/merch",
+    "anchor": "#communities",
+    "title": "Communities"
+  },
+  {
+    "path": "/merch",
+    "anchor": "#shops",
+    "title": "Shops"
+  },
+  {
+    "path": "/merch",
+    "anchor": "#agents",
+    "title": "Agents"
+  },
+  {
+    "path": "/merch",
+    "anchor": "#tracker",
+    "title": "Tracker"
+  },
+  {
+    "path": "/misc",
+    "anchor": "#general",
+    "title": "General"
+  },
+  {
+    "path": "/misc",
+    "anchor": "#anime",
+    "title": "Anime"
+  },
+  {
+    "path": "/misc",
+    "anchor": "#manga",
+    "title": "Manga"
+  },
+  {
+    "path": "/misc",
+    "anchor": "#novels",
+    "title": "Novels"
+  },
+  {
+    "path": "/misc",
+    "anchor": "#production",
+    "title": "Production"
+  },
+  {
+    "path": "/misc",
+    "anchor": "#others",
+    "title": "Others"
+  },
+  {
+    "path": "/misc",
+    "anchor": "#anime",
+    "title": "Anime"
+  },
+  {
+    "path": "/misc",
+    "anchor": "#manga-novels",
+    "title": "Manga & Novels"
+  },
+  {
+    "path": "/misc",
+    "anchor": "#general",
+    "title": "General"
+  },
+  {
+    "path": "/misc",
+    "anchor": "#anime",
+    "title": "Anime"
+  },
+  {
+    "path": "/misc",
+    "anchor": "#manga-novels",
+    "title": "Manga & Novels"
+  },
+  {
+    "path": "/misc",
+    "anchor": "#stats-more",
+    "title": "Stats & More"
+  },
+  {
+    "path": "/misc",
+    "anchor": "#retro-archives-blogs",
+    "title": "Retro Archives & Blogs"
+  },
+  {
+    "path": "/misc",
+    "anchor": "#anime-manga",
+    "title": "Anime & Manga"
+  },
+  {
+    "path": "/misc",
+    "anchor": "#image",
+    "title": "Image"
+  },
+  {
+    "path": "/misc",
+    "anchor": "#tracker",
+    "title": "Tracker"
+  },
+  {
+    "path": "/misc",
+    "anchor": "#3x3",
+    "title": "3x3"
+  },
+  {
+    "path": "/misc",
+    "anchor": "#recommendations",
+    "title": "Recommendations"
+  },
+  {
+    "path": "/misc",
+    "anchor": "#4chan",
+    "title": "4chan"
+  },
+  {
+    "path": "/misc",
+    "anchor": "#encoding-fansubbing",
+    "title": "Encoding & Fansubbing"
+  },
+  {
+    "path": "/misc",
+    "anchor": "#fun-sites",
+    "title": "Fun sites"
+  },
+  {
+    "path": "/misc",
+    "anchor": "#scanlation",
+    "title": "Scanlation"
+  },
+  {
+    "path": "/music",
+    "anchor": "#anime",
+    "title": "Anime"
+  },
+  {
+    "path": "/music",
+    "anchor": "#amvs",
+    "title": "AMVs"
+  },
+  {
+    "path": "/music",
+    "anchor": "#doujin",
+    "title": "Doujin"
+  },
+  {
+    "path": "/music",
+    "anchor": "#games",
+    "title": "Games"
+  },
+  {
+    "path": "/music",
+    "anchor": "#legal",
+    "title": "Legal"
+  },
+  {
+    "path": "/music",
+    "anchor": "#anime",
+    "title": "Anime"
+  },
+  {
+    "path": "/music",
+    "anchor": "#downloaders",
+    "title": "Downloaders"
+  },
+  {
+    "path": "/music",
+    "anchor": "#doujin",
+    "title": "Doujin"
+  },
+  {
+    "path": "/music",
+    "anchor": "#games",
+    "title": "Games"
+  },
+  {
+    "path": "/music",
+    "anchor": "#misc",
+    "title": "Misc"
+  },
+  {
+    "path": "/music",
+    "anchor": "#general",
+    "title": "General"
+  },
+  {
+    "path": "/music",
+    "anchor": "#anime",
+    "title": "Anime"
+  },
+  {
+    "path": "/music",
+    "anchor": "#doujin-vocaloid",
+    "title": "Doujin & Vocaloid"
+  },
+  {
+    "path": "/music",
+    "anchor": "#games",
+    "title": "Games"
+  },
+  {
+    "path": "/music",
+    "anchor": "#general",
+    "title": "General"
+  },
+  {
+    "path": "/music",
+    "anchor": "#spotify",
+    "title": "Spotify"
+  },
+  {
+    "path": "/music",
+    "anchor": "#musicbrainz",
+    "title": "MusicBrainz"
+  },
+  {
+    "path": "/music",
+    "anchor": "#lastfm",
+    "title": "Last.fm"
+  },
+  {
+    "path": "/music",
+    "anchor": "#database",
+    "title": "Database"
+  },
+  {
+    "path": "/music",
+    "anchor": "#discovery",
+    "title": "Discovery"
+  },
+  {
+    "path": "/music",
+    "anchor": "#portal",
+    "title": "Portal"
+  },
+  {
+    "path": "/music",
+    "anchor": "#others",
+    "title": "Others"
+  },
+  {
+    "path": "/music",
+    "anchor": "#player",
+    "title": "Player"
+  },
+  {
+    "path": "/music",
+    "anchor": "#tools",
+    "title": "Tools"
+  },
+  {
+    "path": "/music",
+    "anchor": "#player",
+    "title": "Player"
+  },
+  {
+    "path": "/music",
+    "anchor": "#downloader",
+    "title": "Downloader"
+  },
+  {
+    "path": "/music",
+    "anchor": "#browser",
+    "title": "Browser"
+  },
+  {
+    "path": "/music",
+    "anchor": "#converter-ripper",
+    "title": "Converter & Ripper"
+  },
+  {
+    "path": "/music",
+    "anchor": "#vocaloid",
+    "title": "Vocaloid"
+  },
+  {
+    "path": "/music",
+    "anchor": "#others",
+    "title": "Others"
+  },
+  {
+    "path": "/music",
+    "anchor": "#server",
+    "title": "Server"
+  },
+  {
+    "path": "/music",
+    "anchor": "#client",
+    "title": "Client"
+  },
+  {
+    "path": "/nonen",
+    "anchor": "#multi-language",
+    "title": "Multi Language"
+  },
+  {
+    "path": "/nonen",
+    "anchor": "#arabic",
+    "title": "Arabic"
+  },
+  {
+    "path": "/nonen",
+    "anchor": "#balkan",
+    "title": "Balkan"
+  },
+  {
+    "path": "/nonen",
+    "anchor": "#catalan",
+    "title": "Catalan"
+  },
+  {
+    "path": "/nonen",
+    "anchor": "#chinese",
+    "title": "Chinese"
+  },
+  {
+    "path": "/nonen",
+    "anchor": "#french",
+    "title": "French"
+  },
+  {
+    "path": "/nonen",
+    "anchor": "#german",
+    "title": "German"
+  },
+  {
+    "path": "/nonen",
+    "anchor": "#greek",
+    "title": "Greek"
+  },
+  {
+    "path": "/nonen",
+    "anchor": "#hebrew",
+    "title": "Hebrew"
+  },
+  {
+    "path": "/nonen",
+    "anchor": "#hungarian",
+    "title": "Hungarian"
+  },
+  {
+    "path": "/nonen",
+    "anchor": "#indian",
+    "title": "Indian"
+  },
+  {
+    "path": "/nonen",
+    "anchor": "#indonesian",
+    "title": "Indonesian"
+  },
+  {
+    "path": "/nonen",
+    "anchor": "#italian",
+    "title": "Italian"
+  },
+  {
+    "path": "/nonen",
+    "anchor": "#japanese",
+    "title": "Japanese"
+  },
+  {
+    "path": "/nonen",
+    "anchor": "#korean",
+    "title": "Korean"
+  },
+  {
+    "path": "/nonen",
+    "anchor": "#lithuanian",
+    "title": "Lithuanian"
+  },
+  {
+    "path": "/nonen",
+    "anchor": "#polish",
+    "title": "Polish"
+  },
+  {
+    "path": "/nonen",
+    "anchor": "#portuguese",
+    "title": "Portuguese"
+  },
+  {
+    "path": "/nonen",
+    "anchor": "#romanian",
+    "title": "Romanian"
+  },
+  {
+    "path": "/nonen",
+    "anchor": "#russian",
+    "title": "Russian"
+  },
+  {
+    "path": "/nonen",
+    "anchor": "#spanish",
+    "title": "Spanish"
+  },
+  {
+    "path": "/nonen",
+    "anchor": "#turkish",
+    "title": "Turkish"
+  },
+  {
+    "path": "/nonen",
+    "anchor": "#ukranian",
+    "title": "Ukranian"
+  },
+  {
+    "path": "/nonen",
+    "anchor": "#vietnamese",
+    "title": "Vietnamese"
+  },
+  {
+    "path": "/nsfw",
+    "anchor": "#anime",
+    "title": "Anime"
+  },
+  {
+    "path": "/nsfw",
+    "anchor": "#manga",
+    "title": "Manga"
+  },
+  {
+    "path": "/nsfw",
+    "anchor": "#pornhwa",
+    "title": "Pornhwa"
+  },
+  {
+    "path": "/nsfw",
+    "anchor": "#illustrations",
+    "title": "Illustrations"
+  },
+  {
+    "path": "/nsfw",
+    "anchor": "#games",
+    "title": "Games"
+  },
+  {
+    "path": "/nsfw",
+    "anchor": "#android",
+    "title": "Android"
+  },
+  {
+    "path": "/nsfw",
+    "anchor": "#ios",
+    "title": "iOS"
+  },
+  {
+    "path": "/nsfw",
+    "anchor": "#pc",
+    "title": "PC"
+  },
+  {
+    "path": "/nsfw",
+    "anchor": "#database-info-portal",
+    "title": "Database / Info / Portal"
+  },
+  {
+    "path": "/nsfw",
+    "anchor": "#websites",
+    "title": "Websites"
+  },
+  {
+    "path": "/nsfw",
+    "anchor": "#av",
+    "title": "AV"
+  },
+  {
+    "path": "/nsfw",
+    "anchor": "#scripts",
+    "title": "Scripts"
+  },
+  {
+    "path": "/nsfw",
+    "anchor": "#misc",
+    "title": "Misc"
+  },
+  {
+    "path": "/software",
+    "anchor": "#anime",
+    "title": "Anime"
+  },
+  {
+    "path": "/software",
+    "anchor": "#manga",
+    "title": "Manga"
+  },
+  {
+    "path": "/software",
+    "anchor": "#novel",
+    "title": "Novel"
+  },
+  {
+    "path": "/software",
+    "anchor": "#trackers",
+    "title": "Trackers"
+  },
+  {
+    "path": "/software",
+    "anchor": "#anime",
+    "title": "Anime"
+  },
+  {
+    "path": "/software",
+    "anchor": "#manga",
+    "title": "Manga"
+  },
+  {
+    "path": "/software",
+    "anchor": "#novel",
+    "title": "Novel"
+  },
+  {
+    "path": "/software",
+    "anchor": "#trackers",
+    "title": "Trackers"
+  },
+  {
+    "path": "/software",
+    "anchor": "#anime",
+    "title": "Anime"
+  },
+  {
+    "path": "/software",
+    "anchor": "#manga",
+    "title": "Manga"
+  },
+  {
+    "path": "/software",
+    "anchor": "#novel",
+    "title": "Novel"
+  },
+  {
+    "path": "/software",
+    "anchor": "#trackers",
+    "title": "Trackers"
+  },
+  {
+    "path": "/software",
+    "anchor": "#downloaders",
+    "title": "Downloaders"
+  },
+  {
+    "path": "/software",
+    "anchor": "#anime",
+    "title": "Anime"
+  },
+  {
+    "path": "/software",
+    "anchor": "#manga",
+    "title": "Manga"
+  },
+  {
+    "path": "/software",
+    "anchor": "#stremio",
+    "title": "Stremio"
+  },
+  {
+    "path": "/software",
+    "anchor": "#server-hosting",
+    "title": "Server / Hosting"
+  },
+  {
+    "path": "/software",
+    "anchor": "#others",
+    "title": "Others"
+  },
+  {
+    "path": "/tools",
+    "anchor": "#downloader",
+    "title": "Downloader"
+  },
+  {
+    "path": "/tools",
+    "anchor": "#media",
+    "title": "Media"
+  },
+  {
+    "path": "/tools",
+    "anchor": "#general",
+    "title": "General"
+  },
+  {
+    "path": "/tools",
+    "anchor": "#downloader",
+    "title": "Downloader"
+  },
+  {
+    "path": "/tools",
+    "anchor": "#media",
+    "title": "Media"
+  },
+  {
+    "path": "/tools",
+    "anchor": "#media-tools",
+    "title": "Media Tools"
+  },
+  {
+    "path": "/tools",
+    "anchor": "#arr",
+    "title": "arr"
+  },
+  {
+    "path": "/tools",
+    "anchor": "#usenet",
+    "title": "Usenet"
+  },
+  {
+    "path": "/tools",
+    "anchor": "#general",
+    "title": "General"
+  },
+  {
+    "path": "/tools",
+    "anchor": "#extensions",
+    "title": "Extensions"
+  },
+  {
+    "path": "/tools",
+    "anchor": "#scripts",
+    "title": "Scripts"
+  },
+  {
+    "path": "/torrenting/glossary",
+    "anchor": "#basic",
+    "title": "Basic"
+  },
+  {
+    "path": "/torrenting/glossary",
+    "anchor": "#tracker",
+    "title": "Tracker"
+  },
+  {
+    "path": "/torrenting/glossary",
+    "anchor": "#client",
+    "title": "Client"
+  },
+  {
+    "path": "/torrenting/glossary",
+    "anchor": "#vpn",
+    "title": "VPN"
+  },
+  {
+    "path": "/torrenting/glossary",
+    "anchor": "#others",
+    "title": "Others"
+  },
+  {
+    "path": "/torrenting/nyaa",
+    "anchor": "#categories",
+    "title": "Categories"
+  },
+  {
+    "path": "/torrenting/nyaa",
+    "anchor": "#color-codes",
+    "title": "Color Codes"
+  },
+  {
+    "path": "/torrenting/nyaa",
+    "anchor": "#file-naming",
+    "title": "File Naming"
+  },
+  {
+    "path": "/torrenting/qbit",
+    "anchor": "#rss-feed",
+    "title": "RSS Feed"
+  },
+  {
+    "path": "/torrenting/qbit",
+    "anchor": "#torrent-creator",
+    "title": "Torrent Creator"
+  },
+  {
+    "path": "/torrenting/qbit",
+    "anchor": "#vpn-binding",
+    "title": "VPN Binding"
+  },
+  {
+    "path": "/torrenting/start",
+    "anchor": "#intro",
+    "title": "Intro"
+  },
+  {
+    "path": "/torrenting/start",
+    "anchor": "#client",
+    "title": "Client"
+  },
+  {
+    "path": "/torrenting/start",
+    "anchor": "#pc-guide",
+    "title": "PC guide"
+  },
+  {
+    "path": "/torrenting/start",
+    "anchor": "#android-guide",
+    "title": "Android guide"
+  },
+  {
+    "path": "/torrenting/start",
+    "anchor": "#ios-guide",
+    "title": "iOS guide"
+  },
+  {
+    "path": "/torrenting/trackers",
+    "anchor": "#english",
+    "title": "English"
+  },
+  {
+    "path": "/torrenting/trackers",
+    "anchor": "#non-english",
+    "title": "Non-English"
+  },
+  {
+    "path": "/vtuber",
+    "anchor": "#general",
+    "title": "General"
+  },
+  {
+    "path": "/vtuber",
+    "anchor": "#hololive",
+    "title": "Hololive"
+  },
+  {
+    "path": "/vtuber",
+    "anchor": "#tools",
+    "title": "Tools"
+  },
+  {
+    "path": "/vtuber",
+    "anchor": "#extensions",
+    "title": "Extensions"
+  },
+  {
+    "path": "/vtuber",
+    "anchor": "#animation",
+    "title": "Animation"
+  },
+  {
+    "path": "/vtuber",
+    "anchor": "#games",
+    "title": "Games"
+  },
+  {
+    "path": "/websites",
+    "anchor": "#stream",
+    "title": "Stream"
+  },
+  {
+    "path": "/websites",
+    "anchor": "#download",
+    "title": "Download"
+  },
+  {
+    "path": "/websites",
+    "anchor": "#online",
+    "title": "Online"
+  },
+  {
+    "path": "/websites",
+    "anchor": "#download",
+    "title": "Download"
+  },
+  {
+    "path": "/websites",
+    "anchor": "#media",
+    "title": "Media"
+  },
+  {
+    "path": "/websites",
+    "anchor": "#wikis",
+    "title": "Wikis"
+  },
+  {
+    "path": "/websites",
+    "anchor": "#portals",
+    "title": "Portals"
+  },
+  {
+    "path": "/websites",
+    "anchor": "#online",
+    "title": "Online"
+  },
+  {
+    "path": "/websites",
+    "anchor": "#direct-download",
+    "title": "Direct Download"
+  },
+  {
+    "path": "/websites",
+    "anchor": "#others",
+    "title": "Others"
+  },
+  {
+    "path": "/websites",
+    "anchor": "#anime",
+    "title": "Anime"
+  },
+  {
+    "path": "/websites",
+    "anchor": "#manga",
+    "title": "Manga"
+  },
+  {
+    "path": "/websites",
+    "anchor": "#manhwa-manhua",
+    "title": "Manhwa & Manhua"
+  },
+  {
+    "path": "/websites",
+    "anchor": "#novels",
+    "title": "Novels"
+  },
+  {
+    "path": "/websites",
+    "anchor": "#comics",
+    "title": "Comics"
+  }
+]
