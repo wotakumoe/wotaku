@@ -27,8 +27,8 @@ og:
 | [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) | :yes: | :msync: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :yes: | :sync::ie::msync: |
 | [Animotvslash](https://www.animotvslash.org/) [:alt:](https://animotvslash.nl/home/) | :yes: | :no: |
-| [Anime-Dunya](https://anime-dunya.com/en) :sd: | :yes: | :no: |
-| [AnimeOnsen](https://www.animeonsen.xyz/) :sd: | :yes: | :msync: |
+| [Anime-Dunya](https://anime-dunya.com/en) :hd: | :yes: | :no: |
+| [AnimeOnsen](https://www.animeonsen.xyz/) :hd: | :yes: | :msync: |
 
 </Collapsible>
 

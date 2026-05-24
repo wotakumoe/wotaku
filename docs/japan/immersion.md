@@ -42,11 +42,11 @@ og:
 | :--- | :--- |
 | General | [Anisub](https://anisub.tv/) |
 | ^^ | [Cineby](https://www.cineby.sc/) |
-| ^^ | [Kisskh](https://kisskh.co/) :sd: [:prx:](https://rentry.org/wotaxy#kisskh) |
+| ^^ | [Kisskh](https://kisskh.co/) :hd: [:prx:](https://rentry.org/wotaxy#kisskh) |
 | ^^ | [Nyaa](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap) <tooltip>Searching for anime with the 日 symbol will give results for uploads containing both chinese and japanese subs (usually statcked on top of each other). This trick works on both japanese and chinese trackers (found in the non-en section). The full nyaa link is: https://nyaa.si/?f=0&c=1_0&q=%E6%97%A5</tooltip> |
 | ^^ | [XPrime](https://xprime.su/) [:alt:](https://xprime.stream/) |
 | Anime | [Classics](https://animation.filmarchives.jp/index.html) |
-| Movies & Series | [Asiaflix](https://asiaflix.net/shows?country=Japan) :sd: |
+| Movies & Series | [Asiaflix](https://asiaflix.net/shows?country=Japan) :hd: |
 | ^^ | [JP-Films](https://jp-films.com/) :fm: |
 | ^^ | [Viki](https://www.viki.com/categories/country/japan/genre/all) :fm::sub: ||JP Sub|| |
 | Download | [DramaSuki](https://rentry.org/wotadirect#japanimmersion) :ddl::ded: |
@@ -65,8 +65,8 @@ og:
 | TV Program | [NHK Easy Japanese](https://www.nhk.or.jp/lesson/) |
 | ^^ | [NHK Learn Japanese](https://www3.nhk.or.jp/nhkworld/en/ondemand/category/28/) |
 | Live TV | [AQ Stream](https://aqstream.com/jp) |
-| ^^ | [FAST ch](https://fastv.jp/) :sd: |
-| ^^ | [Japanese TV](https://mov3.co/) :sd: |
+| ^^ | [FAST ch](https://fastv.jp/) :hd: |
+| ^^ | [Japanese TV](https://mov3.co/) :hd: |
 | ^^ | [takelab](https://github.com/take2560/takelab) |
 | ^^ | [TVer](https://tver.jp/) ==TVer== |
 | General | [Globe TV](https://globetv.app/) |

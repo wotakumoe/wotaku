@@ -85,7 +85,7 @@ outline: 1
 | ^^ | [Unofficial Site](https://onepace.co/) |
 | ^^ | [Stremio Addon](https://stremio-addons.net/addons/one-pace-addon) |
 | ^^ | [Public Subtitles](https://github.com/one-pace/one-pace-public-subtitles) |
-| **Rerun Sites** :sd: | [BumpWorthy](https://www.bumpworthy.com/) |
+| **Rerun Sites** :hd: | [BumpWorthy](https://www.bumpworthy.com/) |
 | ^^ | [RetroBlast](https://retroblast.tv/) |
 | ^^ | [Swim Rewind](https://swimrewind.com/) |
 | ^^ | [Toonami Aftermath](https://www.toonamiaftermath.com/) |
@@ -93,7 +93,7 @@ outline: 1
 | **Others** | [Gabby's Anime Edits](https://linktr.ee/gabby5202) |
 | ^^ | [SBY Stream](https://sbystream.com/) |
 | ^^ | [Sonic Zone TV](https://soniczone.net/tv/home.html) |
-| ^^ | [JP Animated Film Classics](https://animation.filmarchives.jp/en/index.html) :sd: |
+| ^^ | [JP Animated Film Classics](https://animation.filmarchives.jp/en/index.html) :hd: |
 
 </Collapsible>
 
@@ -292,11 +292,11 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 
 | Category | Websites |
 | :--- | :--- |
-| **Stream** | [Kisskh](https://kisskh.co/) :sd: [:prx:](https://rentry.org/wotaxy#kisskh) |
-| ^^ | [OneTouch TV](https://onetouchtv.xyz/) :sd: |
+| **Stream** | [Kisskh](https://kisskh.co/) :hd: [:prx:](https://rentry.org/wotaxy#kisskh) |
+| ^^ | [OneTouch TV](https://onetouchtv.xyz/) :hd: |
 | ^^ | [GoPlay](https://goplay.su/) :ckr::ccn: [:alt:](https://goplay.ml/) [:d:](https://discord.gg/yY2P3DQR8S) |
-| ^^ | [Asiaflix](https://asiaflix.net/) :sd: |
-| ^^ | [Anisub](https://anisub.tv/) :sd::cjp: |
+| ^^ | [Asiaflix](https://asiaflix.net/) :hd: |
+| ^^ | [Anisub](https://anisub.tv/) :hd::cjp: |
 | ^^ | [XPrime](https://xprime.su/) [:alt:](https://xprime.stream/) |
 | ^^ | [Cineby](https://www.cineby.sc/) |
 | **Download** | [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap) |
