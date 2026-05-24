@@ -79,7 +79,7 @@ outline: 1
 
 <Collapsible title="Misc">
 
-#### Misc
+### Misc
 
 | Category | Websites |
 | :--- | :--- |
