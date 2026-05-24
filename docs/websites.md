@@ -34,7 +34,7 @@ outline: 1
 | Websites | Login | Tracking | Sub |
 |----------|-------|----------|-----|
 | [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) | :yes: | :msync: | :cc::oc: |
-| [Anibd](https://anibd.app/) :ero: [:alt:](https://ani.lol/) | :yes: | :no: | :oc: |
+| [Anibd](https://anibd.app/) [:alt:](https://ani.lol/) | :yes: | :no: | :oc: |
 | [AniHQ](https://anihq.org/home/) | :yes: | :no: | :oc: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :yes: | :sync::ie::msync: | :cc: |
 | [AnimePahe](https://animepahe.pw/) ==Animepahe== | :no: | :msync: | :oc: |
@@ -123,7 +123,7 @@ outline: 1
 | **Reuploads** | [Tokyo Insider](https://www.tokyoinsider.com/) :ddl: |
 | **BDMV** :ljp::host: | [JPFiles](https://jpfiles.net/) |
 | ^^ | [AnimeRSS](https://animerss.com/) |
-| ^^ | [Asia Media Blog](https://asiamediablog.com/media/anime/) :ero: [:prx:](https://rentry.org/wotaxy#asia-media-blog) |
+| ^^ | [Asia Media Blog](https://asiamediablog.com/media/anime/) [:prx:](https://rentry.org/wotaxy#asia-media-blog) |
 | ^^ | [urajp](https://urajp.se/) |
 | **Re-encodes** | [AniDL](https://new.anidl.org/) :ddl: |
 | ^^ | [AnimeOut](https://www.animeout.xyz/) :ddl::acc: [:alt:](https://animewat.ch/) |
@@ -389,7 +389,7 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 | **Dedicated** | [Crunchyroll](https://www.crunchyroll.com/) |
 | ^^ | [HIDIVE](https://www.hidive.com/) |
 | ^^ | [RetroCrush](https://www.retrocrush.tv/home) |
-| ^^ | [OceanVeil](https://oceanveil.net/) :ero: |
+| ^^ | [OceanVeil](https://oceanveil.net/) |
 | **General** | [Bilibili](https://www.bilibili.tv/en/anime) |
 | ^^ | [Disney+](https://www.disneyplus.com/) |
 | ^^ | [HBO Max](https://www.hbomax.com/) |
@@ -443,8 +443,8 @@ Some of the series may not be available depending on your region.
 | ^^ | [Renta!](https://www.ebookrenta.com/) | :coin::free: |
 | ^^ | [Yen Press](https://yenpress.com/) | :paid: |
 | **CaaS** | [Comikey](https://comikey.com/) | :coin::free: |
-| ^^ | [Coolmic](https://coolmic.me/) :ero: | :sub::coin::free: |
-| ^^ | [INKR](https://comics.inkr.com/) :ero: | :coin::free: | 
+| ^^ | [Coolmic](https://coolmic.me/) | :sub::coin::free: |
+| ^^ | [INKR](https://comics.inkr.com/) | :coin::free: | 
 | ^^ | [KManga](https://kmanga.kodansha.com/) <tooltip>Available in the United States, the Philippines, Thailand, Vietnam, Hong Kong, Taiwan, India, Mexico, and Brazil.</tooltip> | :sub::coin::free: | 
 | ^^ | [Manga Plus](https://mangaplus.shueisha.co.jp/) | :sub::free: |
 | ^^ | [Manga UP!](https://global.manga-up.com/) | :sub::coin::free: |
