@@ -99,7 +99,7 @@ const aliasDefs: Record<string, [string, string?]> = {
 
   cc: ['map-closed-captioning', 'Soft Subtitle / CC'],
   oc: ['map-open-captioning', 'Hard Subtitle / OC'],
-  sd: ['bi-badge-hd-fill', 'Video quality up to 720p'],
+  hd: ['bi-badge-hd-fill', 'Video quality up to 720p'],
   sup: ['mingcute-server-fill', 'Self-uploaded (Own storage or video host)'],
   scrpr: ['mingcute-shovel-fill', 'Scraper (Pulling from other host sites)'],
   tv: ['material-symbols-tv-gen-outline-rounded', 'Native TV support'],
