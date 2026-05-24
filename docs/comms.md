@@ -12,11 +12,14 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 
 - [Anime UK News](https://forums.animeuknews.net/)
 - [Animesuki](https://forums.animesuki.com/)
-- [Arlong Park](https://forums.arlongpark.net/) ||One Piece||
-- [EvaGeeks](https://forum.evageeks.org/index.php)
-- [Moriya Shrine](https://moriyashrine.org/)
 - [MyAnimeList](https://myanimelist.net/forum/)
 
+== Themed
+
+- [Arlong Park](https://forums.arlongpark.net/) ||One Piece||
+- [EvaGeeks](https://forum.evageeks.org/index.php) ||Evangelion||
+- [Kanzenshuu](https://www.kanzenshuu.com/forum/) ||Dragon Ball||
+- [Moriya Shrine](https://moriyashrine.org/) ||Touhou||
 
 == Manga & Novels
 - [Fuwanovel](https://forums.fuwanovel.moe/)
