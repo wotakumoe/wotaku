@@ -78,11 +78,6 @@ og:
 - [Collabo Cafe](https://collabo-cafe.com/)
 - [Ghibli Museum](https://www.ghibli-museum.jp/en/)
 - [Let's learn about Japanese events!](https://www.kyosei-tairyu.jp/)
-  
-### Anime Sights
-- [Anime Tourism](https://anime-tourism.jp/) :s:
-- [anitabi](https://anitabi.cn/) :s:
-- [Anime Tourism Association](https://animetourism88.com/en/) [:x:](https://x.com/animetourism88)
 
 ### City Specific
 - [Tokyojin](https://tokyojin.info/)
