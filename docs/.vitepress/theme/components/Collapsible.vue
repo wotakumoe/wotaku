@@ -1,11 +1,21 @@
 <script setup lang="ts">
-import { ref } from 'vue'
+import { computed, ref } from 'vue'
 
 const props = defineProps<{
   title?: string
 }>()
 
 const open = ref(false)
+
+const headingId = computed(() =>
+  props.title
+    ? props.title
+        .toLowerCase()
+        .trim()
+        .replace(/\s+/g, '-')
+        .replace(/[^\w-]/g, '')
+    : undefined
+)
 </script>
 
 <template>
@@ -15,6 +25,7 @@ const open = ref(false)
       <span v-else class="i-iconoir-nav-arrow-right collapsible-icon" />
       {{ title || 'Details' }}
     </summary>
+    <h3 v-if="headingId" :id="headingId" class="collapsible-anchor" aria-hidden="true">{{ title }}</h3>
     <slot />
   </details>
 </template>
@@ -36,5 +47,17 @@ summary::-webkit-details-marker {
   width: 1em;
   height: 1em;
   flex-shrink: 0;
+}
+
+.collapsible-anchor {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+  margin: 0;
+  padding: 0;
 }
 </style>

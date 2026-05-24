@@ -65,7 +65,7 @@ if (!import.meta.env.SSR) {
   })
 }
 
-const openCollapsibles = (target: HTMLElement) => {
+const openCollapsibles = (target: HTMLElement, ancestorOnly = false) => {
   let scrollTarget = target
   let el: HTMLElement | null = target
 
@@ -75,31 +75,33 @@ const openCollapsibles = (target: HTMLElement) => {
     el = el.parentElement
   }
 
-  const tagName = target.tagName
-  if (tagName.length === 2 && tagName[0] === 'H') {
-    const level = +tagName[1]
-    if (level >= 1 && level <= 6) {
-      let sibling = target.nextElementSibling
+  if (!ancestorOnly) {
+    const tagName = target.tagName
+    if (tagName.length === 2 && tagName[0] === 'H') {
+      const level = +tagName[1]
+      if (level >= 1 && level <= 6) {
+        let sibling = target.nextElementSibling
 
-      while (sibling) {
-        const siblingTag = sibling.tagName
-        if (
-          siblingTag.length === 2 && siblingTag[0] === 'H' &&
-          +siblingTag[1] <= level
-        ) break
+        while (sibling) {
+          const siblingTag = sibling.tagName
+          if (
+            siblingTag.length === 2 && siblingTag[0] === 'H' &&
+            +siblingTag[1] <= level
+          ) break
 
-        if (siblingTag === 'DETAILS') {
-          ;(sibling as HTMLDetailsElement).open = true
-          if (scrollTarget === target) scrollTarget = sibling as HTMLElement
+          if (siblingTag === 'DETAILS') {
+            ;(sibling as HTMLDetailsElement).open = true
+            if (scrollTarget === target) scrollTarget = sibling as HTMLElement
+          }
+
+          const nested = sibling.getElementsByTagName('details')
+          for (let i = 0, len = nested.length; i < len; i++) {
+            nested[i].open = true
+            if (scrollTarget === target) scrollTarget = nested[i]
+          }
+
+          sibling = sibling.nextElementSibling
         }
-
-        const nested = sibling.getElementsByTagName('details')
-        for (let i = 0, len = nested.length; i < len; i++) {
-          nested[i].open = true
-          if (scrollTarget === target) scrollTarget = nested[i]
-        }
-
-        sibling = sibling.nextElementSibling
       }
     }
   }
@@ -136,7 +138,7 @@ const tryOpenCollapsibles = async () => {
     const target = document.getElementById(id) || document.getElementById(hash)
 
     if (target) {
-      openCollapsibles(target)
+      openCollapsibles(target, true)
       searchNavigated = false
     }
   })
