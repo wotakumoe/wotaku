@@ -224,15 +224,17 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 
 | Category | Websites |  
 |----------|----------|  
-| **Info / News** | [animate Times](https://www.animatetimes.com/) :ljp: |
+| **General** | [animate Times](https://www.animatetimes.com/) :ljp: |
 | ^^ | [Anime News Network](https://www.animenewsnetwork.com/) :s: [:x:](https://x.com/anime) [:rss:](https://www.animenewsnetwork.com/newsfeed/) |  
 | ^^ | [Anime UK News](https://animeuknews.net/) :cuk: |  
 | ^^ | [Crunchyroll News](https://www.crunchyroll.com/news) [:rss:](https://www.crunchyroll.com/feed) |  
 | ^^ | [GUNDAM.INFO](https://en.gundam-official.com/) |  
-| ^^ | [Kanzenshuu](https://www.kanzenshuu.com/) [:rss:](https://www.kanzenshuu.com/feed/) |  
+| ^^ | [Kanzenshuu](https://www.kanzenshuu.com/) [:rss:](https://www.kanzenshuu.com/feed/) ||Dragon Ball|| |  
 | ^^ | [MAL News](https://myanimelist.net/news) [:x:](https://x.com/myanimelist) [:rss:](https://myanimelist.net/rss/news.xml) |  
+| ^^ |[ORICON NEWS](https://www.oricon.co.jp/) :s: :ljp: |  
+| ^^ | :prev: [Japan Anime News](https://us.oricon-group.com/) [:x:](https://x.com/JapanAnimeNews_) |  
 | ^^ | [Otaku News](https://www.otakunews.com/) :cuk: [:rss:](https://www.otakunews.com/Rss) |  
-| **Blog / Interview** | [Anime Blog Tracker](https://aniblogtracker.app/index.php) :s: ||Aggregator|| [:src:](https://github.com/AniBlogTracker) |  
+| **Blog / Interview** | [Anime Blog Tracker](https://aniblogtracker.app/index.php) :s: [:src:](https://github.com/AniBlogTracker) ||Aggregator|| |  
 | ^^ | [Anime Nano](https://www.animenano.com/) ||Aggregator|| |  
 | ^^ | [Halcyon Realms](https://halcyonrealms.com/) :s: [:rss:](https://halcyonrealms.com/subscribe/) |  
 
@@ -280,6 +282,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ |[ORICON NEWS](https://www.oricon.co.jp/) :s: :ljp: |  
 | ^^ | :prev: [Japan Anime News](https://us.oricon-group.com/) [:x:](https://x.com/JapanAnimeNews_) |  
 | ^^ | :prev: [Randomanga](https://randomanga.wordpress.com/) :lfr: |
+| ^^ | [OtakuLab](https://0115765.com/) :ljp: |
 | ^^ | [UzuRepo](https://x.com/UzuRepo) :x: |
 | **Anime** | [Animation Business Journal](http://animationbusiness.info/) :ljp: |
 | ^^ | [Animerank](https://animerank.top/) :mal: |
