@@ -89,6 +89,7 @@ outline: 1
 | ^^ | [Public Subtitles](https://github.com/one-pace/one-pace-public-subtitles) |
 | **Rerun Sites** :hd: | [BumpWorthy](https://www.bumpworthy.com/) |
 | ^^ | [Cartoons Network](https://cartooncartoons.thatsoretro.com/) |
+| ^^ | [RetroBlast](https://retroblast.tv/) |
 | ^^ | [Swim Rewind](https://swimrewind.com/) |
 | ^^ | [Toonami Remastered](https://www.toonamiremastered.com/) |
 | **Others** | [Gabby's Anime Edits](https://linktr.ee/gabby5202) |
