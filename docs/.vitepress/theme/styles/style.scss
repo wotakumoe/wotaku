@@ -1636,15 +1636,6 @@ html.reduce-blur-effects {
   }
 }
 
-/* Collapsible: title="" renders as h3 for search indexing, reset visual styles */
-.details summary h3 {
-  margin: 0;
-  font-size: inherit;
-  font-weight: inherit;
-  border: none;
-  text-decoration: none;
-}
-
 .vp-doc .vp-card,
 .vp-doc .vp-card:hover,
 .vp-doc .vp-card:focus,
