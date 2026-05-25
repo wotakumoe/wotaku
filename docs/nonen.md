@@ -725,6 +725,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [TruyenQQ](https://truyenqqko.com/) |
 | Hentai | [DuaLeoTruyen](https://dualeotruyenhx.com/) |
 | ^^ | [HentaiCube](https://hentaicube.xyz/) |
+| ^^ | [qManga](https://qmanga.art/) |
 | ^^ | [TruyenHentaiVN](https://truyenhentaivn.club/) |
 | Novels | [Hako](https://docln.net/) |
 | ^^ | [Metruyenhot](https://metruyenhot.vn/) |

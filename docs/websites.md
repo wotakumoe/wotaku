@@ -91,6 +91,7 @@ outline: 1
 | ^^ | [Cartoons Network](https://cartooncartoons.thatsoretro.com/) |
 | ^^ | [RetroBlast](https://retroblast.tv/) |
 | ^^ | [Swim Rewind](https://swimrewind.com/) |
+| ^^ | [Toonami Aftermath](https://www.toonamiaftermath.com/) |
 | ^^ | [Toonami Remastered](https://www.toonamiremastered.com/) |
 | **Others** | [Gabby's Anime Edits](https://linktr.ee/gabby5202) |
 | ^^ | [SBY Stream](https://sbystream.com/) |

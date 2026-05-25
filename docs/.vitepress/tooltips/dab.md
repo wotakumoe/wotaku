@@ -1,1 +1,0 @@
-Downloads from the Qobuz streaming platform, which only supports FLAC, not the other formats mentioned in the About page.
