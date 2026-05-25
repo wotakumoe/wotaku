@@ -80,8 +80,6 @@ Most apps in [**software**](/software) supports multilingual sources
 
 ## Balkan
 
-### Websites
-
 | Category | Website |
 | :--- | :--- |
 | **Anime** | [Anime Balkan](https://animebalkan.org/) |
@@ -90,8 +88,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [AniPiece](https://anipiece.net/) |
 | ^^ | [BalkanFlix](https://www.balkanflix.com/) |
 | ^^ | [Ranime](https://ranime.net/) |
-| **Cartoon** | [Gledaj Crtaće (.org)](https://www.gledajcrtace.org/) |
-| ^^ | [Gledaj Crtaće (.rs)](https://www.gledajcrtace.rs/) |
+| **Cartoon** | [Gledaj Crtaće](https://www.gledajcrtace.rs/) |
 | **Manga** | [L&B Pirates](https://lnbmange.com/) |
 | **News** | [Potamanime](https://potamanime.rs/) |
 
