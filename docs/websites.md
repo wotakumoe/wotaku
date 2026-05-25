@@ -235,7 +235,7 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 - Personal sheet: [**4str0**](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13)
 :::
 
-<Collapsible title=" Related resources">
+<Collapsible title="Related resources">
 
 - [Manga apps for Android](/software#manga-readers) and [PC](/software#manga-readers-2)
 - [Manga downloader for PC](/software#manga)
