@@ -417,7 +417,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | :--- | :--- | :--- |
 | Spotify | [Spicetify](https://spicetify.app/) | :win::app::lin: |
 | ^^ | [SPOTX](https://github.com/SpotX-Official/SpotX) | :win: |
-| ^^ | [Official Spotify full installers](https://loadspot.pages.dev/) | :win::app::lin: |
 | Youtube | [Pear Desktop](https://github.com/pear-devs/pear-desktop) | :win::app::lin: |
 | ^^ | [ytmdesktop2](https://youtube-music.app/) [:src:](https://github.com/Venipa/ytmdesktop2) | :win::app::lin: |
 
