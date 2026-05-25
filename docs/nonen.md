@@ -227,6 +227,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [FRAnime](https://franime.fr/) |
 | ^^ | [FanKai](http://fankai.fr/) [:alt:](https://linktr.ee/FanKai) |
 | ^^ | [French Anime](https://french-anime.com/) + :len: |
+| ^^ | [JetAnime](https://on.jetanimes.com/) |
 | ^^ | [Sekai](https://sekai.one/) |
 | ^^ | [Streaming-integrale](https://streaming-integrale.com/) |
 | ^^ | [Voiranime](https://voir-anime.to/) [:d:](https://discord.gg/js2P2HT) |
