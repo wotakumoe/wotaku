@@ -523,7 +523,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 ### Websites
 | Category | Website |
 | :--- | :--- |
-| Anime | [AniBunker](https://www.anibunker.com/) |
+| **Anime** | [AniBunker](https://www.anibunker.com/) |
 | ^^ | [AnimeFire](https://animefire.plus/) |
 | ^^ | [CXTv](https://www.cxtv.com.br/) ||TV|| |
 | ^^ | [Geekdot](https://geekdot.live/) ||TV|| |
@@ -531,11 +531,11 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [Hinata Soul](https://www.hinatasoul.com/) |
 | ^^ | [HentaisTube](https://www.hentaistube.com/) :ero: |
 | ^^ | [:tg: Toonami na Era do Telegram](https://t.me/toonamibr) |
-| Manga | [Argos Comic](https://argoscomics.online/) :ljp::lkr::lcn::ero: |
+| **Manga** | [Argos Comic](https://argoscomics.online/) :ljp::lkr::lcn::ero: |
 | ^^ | [Ler Mangas](https://lermangas.me/) :ljp::lkr::lcn::ero: |
 | ^^ | [Tao Sect](https://taosect.com/) :ljp::lkr::lcn::ero: |
 | ^^ | [Yuri on Air](https://yurionair.top/) :ljp::lkr::lcn::ero: |
-| Tokusatsu | [DGB Catálogo](https://dgbfansub.carrd.co/) |
+| **Tokusatsu** | [DGB Catálogo](https://dgbfansub.carrd.co/) |
 | ^^ | [Senpuu Tokusatsu](https://senpuu.com.br/) |
 | ^^ | [TokuSato](https://www.youtube.com/@TokuSatoOficial) |
 | ^^ | [:tg: TOKUSHARE](https://t.me/s/tokushareoficial) |
@@ -609,7 +609,8 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 | Category | Resources |
 |-|-|
-| **Tracker** | [Shikimori](https://shikimori.io/) |
+| **Tracker** | [Shikimori](https://shikimori.io/) :acc: |
+| ^^ | [Shiki RIP](https://shikimori.rip/) :acc: |
 
 
 ## Spanish
@@ -618,7 +619,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 | Category | Website |
 | :--- | :--- |
-| Stream | [AnimeAV1](https://animeav1.com/) |
+| **Stream** | [AnimeAV1](https://animeav1.com/) |
 | ^^ | [MonosChinos](https://monoschinos2.com/) |
 | ^^ | [AnimeOnlineNinja](https://ver.animeonline.ninja/) |
 | ^^ | [Latanime](https://latanime.org/) ||Dub|| |
@@ -632,7 +633,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [Veraanimes](https://wwv.veranimes.net/) |
 | ^^ | [HentaiLA](https://hentaila.com/hub) :ero: |
 | ^^ | [HentaiJL](https://hentaijl.com/) :ero: |
-| Download | [Japan Paw!](https://japanpaw.com/) |
+| **Download** | [Japan Paw!](https://japanpaw.com/) |
 | ^^ | [SphinxAnime](https://sphinxanime.com/) |
 | ^^ | [Nekomitai](https://nekomitai.net/) |
 | ^^ | [Ivanime](https://www.ivanime.com/) |
@@ -680,14 +681,14 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 | Category | Website |
 | :--- | :--- |
-| Anime | [Acheriya](https://acheriya.com/) |
+| **Anime** | [Acheriya](https://acheriya.com/) |
 | ^^ | [Anizm](https://anizm.net/) |
 | ^^ | [TRanimeizle](https://www.tranimeizle.co/) |
 | ^^ | [Türk Anime TV](https://www.turkanime.tv/) |
-| Manga | [Manga-TR](https://manga-tr.com/index.html) |
+| **Manga** | [Manga-TR](https://manga-tr.com/index.html) |
 | ^^ | [Sadscans](https://sadscans.net/) |
 | ^^ | [Tortuga Ceviri](https://tortuga-ceviri.com/) |
-| Others | [AnimeListem](https://animelistesi.com/) |
+| **Others** | [AnimeListem](https://animelistesi.com/) |
 | ^^ | [KesifAsya](https://kesifasya.com/) |
 | ^^ | [Web Drama Turkey](https://webdramaturkey2.com/) |
 
@@ -697,13 +698,13 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 | Category | Website |
 | :--- | :--- |
-| Anime | [ANIMEUA](https://animeua.club/) |
+| **Anime** | [ANIMEUA](https://animeua.club/) |
 | ^^ | [AniTube](https://anitube.in.ua/) |
 | ^^ | [Unimay Media](https://unimay.media/) |
 | ^^ | [HentaiUKR](https://hentaiukr.com/) :ero: |
-| Manga | [Manga.in.ua](https://manga.in.ua/) |
+| **Manga** | [Manga.in.ua](https://manga.in.ua/) |
 | ^^ | [Zenko](https://zenko.online/) |
-| Others | [BambooUA](https://bambooua.com/) |
+| **Others** | [BambooUA](https://bambooua.com/) |
 | ^^ | [Hikka](https://hikka.io/) |
 
 
@@ -713,26 +714,26 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 | Category | Website |
 | :--- | :--- |
-| Anime | [Ani4u](https://ani4u.org/) |
+| **Anime** | [Ani4u](https://ani4u.org/) |
 | ^^ | [Anime47](https://anime47.best/) |
 | ^^ | [AnimeHay](https://animehay.in/) |
 | ^^ | [AnimeVsub](https://animevsub.eu.org/) [:src:](https://github.com/anime-vsub/desktop-web) |
 | ^^ | [HHNINJA](hhninja14) [:prx:](https://hhtq1.xyz/) |
 | ^^ | [Unime](https://unime.vercel.app/) [:src:](https://github.com/huy232/Unime) |
 | ^^ | [WebLinhTinh](https://weblinhtinh1.net/) |
-| Comics | [Goc Truyen Tranh](https://goctruyentranh.net/) |
+| **Comics** | [Goc Truyen Tranh](https://goctruyentranh.net/) |
 | ^^ | [NhatTruyen](https://nhattruyenqq.com/) |
 | ^^ | [TruyenQQ](https://truyenqqko.com/) |
-| Hentai | [DuaLeoTruyen](https://dualeotruyenhx.com/) |
+| **Hentai** | [DuaLeoTruyen](https://dualeotruyenhx.com/) |
 | ^^ | [HentaiCube](https://hentaicube.xyz/) |
 | ^^ | [qManga](https://qmanga.art/) |
 | ^^ | [TruyenHentaiVN](https://truyenhentaivn.club/) |
-| Novels | [Hako](https://docln.net/) |
+| **Novels** | [Hako](https://docln.net/) |
 | ^^ | [Metruyenhot](https://metruyenhot.vn/) |
 | ^^ | [Sonako Light Novel Wiki](https://sonako.fandom.com/vi/wiki/Sonako_Light_Novel) |
 | ^^ | [TruyenFull.io](https://truyenfull.vision/) :ero: |
 | ^^ | [Xalosach](https://xalosach.com/) |
-| Others | [Tana.moe](https://tana.moe/) |
+| **Others** | [Tana.moe](https://tana.moe/) |
 | ^^ | [Vietnam Key FanClub](https://vnkeyfc.com/) :ddl: |
 
 ### Software
