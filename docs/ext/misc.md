@@ -26,13 +26,6 @@ og:
 | [Tearrs](https://gitlab.com/tearrs/cloudstream-vietnamese) | :cvie: | [Install](cloudstreamrepo://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/repo.json) | [URL](https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/repo.json) |
 | [zzikozz](https://codeberg.org/zzikozz/frencharchive/) | :cfr: | [Install](cloudstreamrepo://codeberg.org/zzikozz/frencharchive/raw/branch/Release/repo.json) | [URL](https://codeberg.org/zzikozz/frencharchive/raw/branch/Release/repo.json) |
 
-### Manual Installation
-- Copy the **Manual URL**
-- Go to Cloudstream app
-- Click :material-symbols-settings-outline: -> **Extensions** -> **:material-symbols-add: Add repository**
-- Paste the URL in **Repository URL or Shortcode** (It should auto-paste the URL)
-- Click **Add repository**
-
 ## Hayase
 | Type | Manual |
 |-|-|
@@ -67,3 +60,9 @@ i am so tired of this shit lol. every forks work differently. just use mihon or 
 | Name | Region | Auto | Manual |
 | - | - | - | - |
 | [Official](https://www.lnreader.app/plugins) [:src:](https://github.com/LNReader/lnreader-plugins) | :global: | [Install](lnreader://repo/add?url=https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v3.0.0/.dist/plugins.min.json) | [URL](https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v3.0.0/.dist/plugins.min.json) |
+
+## Tsundoku
+| Name | Region | Auto | Manual |
+| - | - | - | - |
+| [Novel Sourcery](https://novelsourcery.github.io/) [:src:](https://github.com/NovelSourcery/extensions-source) | :global: | [Auto](tachiyomi://add-repo?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnovelsourcery%2Fextensions%2Frepo%2Findex.min.json) | [URL](https://raw.githubusercontent.com/novelsourcery/extensions/repo/index.min.json) |
+| [Shotetsu Compatability](https://github.com/wasu-code/novel-compat-shosetsu) | - | [Auto](tachiyomi://add-repo?url=https://raw.githubusercontent.com/wasu-code/novel-compat-shosetsu/repo/index.min.json) | [URL](https://raw.githubusercontent.com/wasu-code/novel-compat-shosetsu/repo/index.min.json) |

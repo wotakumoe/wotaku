@@ -63,12 +63,13 @@ og:
 
 | Category | Apps |
 | :--- | :--- |
-| **Online** | [LN Reader](https://www.lnreader.app/) [:src:](https://github.com/LNReader/lnreader) [:e:](/ext/misc/#lnreader) |
-| ^^ | [IReader](https://ireaderorg.netlify.app/) [:src:](https://github.com/IReaderorg/IReader) |
+| **Online** | [IReader](https://ireaderorg.netlify.app/) [:src:](https://github.com/IReaderorg/IReader) |
+| ^^ | [LN Reader](https://www.lnreader.app/) [:src:](https://github.com/LNReader/lnreader) |
 | ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) |
 | ^^ | [Quicknovel](https://github.com/LagradOst/QuickNovel) |
 | ^^ | [Ranobe](https://github.com/ranobe-org/ranobe) |
 | ^^ | [Shosetsu](https://shosetsu.app/) [:src:](https://gitlab.com/shosetsuorg/shosetsu) |
+| ^^ | [Tsundoku](https://tsundoku-otaku.github.io/) [:src:](https://github.com/tsundoku-otaku/tsundoku) |
 | **Local** | [Readest](https://readest.com/) :s: [:src:](https://github.com/readest/readest) |
 | ^^ | [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) :fm::cs: |
 | ^^ | [Librera Reader](https://github.com/foobnix/LibreraReader) |
