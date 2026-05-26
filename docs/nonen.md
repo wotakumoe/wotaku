@@ -566,7 +566,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [AnimeLIB](https://animelib.org/ru) [:alt:](https://anilib.me/ru) |
 | ^^ | [AnimeStars](https://animestars.org/) ||Aggregator|| |
 | ^^ | [Animevost](https://animevost.org/) |
-| ^^ | [Anisun](https://anisun.vercel.app/en) [:src:](https://github.com/notwindstone/anisun) |
 | ^^ | [Kage Project](http://fansubs.ru/) <tooltip>Subtitle files only, you need to get the episodes from another source.</tooltip> |
 | ^^ | [MAL to Kodik](https://mal-to-kodik.github.io/) ||Aggregator|| |
 | ^^ | [One Pace](https://onepace-ru.tilda.ws/) |
