@@ -21,11 +21,11 @@ outline: 1
 | Websites | Login | Tracking | Sub |
 |----------|-------|----------|-----|
 | [KickassAnime](https://kaa.lt/) ==KAA== | :yes: | :msync: | :cc: |
-| [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :yes: | :no: |  :cc: |
 | [Miruro](https://www.miruro.to/) :scrpr: [:prx:](https://www.miruro.com) | :yes: | :sync::msync: | :cc::oc: |
+| [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :yes: | :no: |  :cc: |
 | [Re:ANIME](https://reanime.to/home) ==ReANIME== | :yes: | :sync::ie::msync: | :cc: |
-| [AniZone](https://anizone.to/) ==AniZone== | :no: | :msync: | :cc: |
 | [AnimeVerse](https://animeverse.to/) ==AnimeVerse== | :no: | :no: | :oc: |
+| [AniZone](https://anizone.to/) ==AniZone== | :no: | :msync: | :cc: |
 
 
 <Collapsible title="More">
