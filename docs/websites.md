@@ -189,7 +189,6 @@ outline: 1
 | [King of Shojo](https://kingofshojo.com/) | :no: | :ss: | :ls: | :no: |
 | [Like Manga](https://likemanga.ink/) | :msync: | :ss: | :ls: | :cmnt: |
 | [ManhuaFast](https://manhuafast.com/) | :msync: | :ss: | :sp::ls: | :cmnt: |
-| [Manhwa Clan](https://manhwaclan.com/) | :no: | :ss: | :sp::ls: | :cmnt: |
 | [ManhwaTOP](https://manhwatop.com/) | :no: | :ss: | :sp::ls: | :cmnt: |
 | [ManhwaZone](https://manhwazone.com/explore) | :no: | :ss: | :ls: | :no: |
 | [TopManhua](https://manhuatop.org/) | :msync: | :ss: | :sp::ls: | :cmnt: |
