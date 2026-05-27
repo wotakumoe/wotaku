@@ -212,8 +212,6 @@ Most apps in [**software**](/software) supports multilingual sources
 
 ## French
 
-### Websites
-
 | Category | Website |
 | :--- | :--- |
 | **Anime** | [AnimeKO](https://animeko.ws/) |
@@ -279,8 +277,6 @@ Most apps in [**software**](/software) supports multilingual sources
 
 ## Greek
 
-### Websites
-
 | Category | Website |
 | :--- | :--- |
 | **Anime** | [An1me](https://an1me.to/) |
@@ -290,16 +286,12 @@ Most apps in [**software**](/software) supports multilingual sources
 
 ## Hebrew
 
-### Websites
-
 | Category | Website |
 | :--- | :--- |
 | Anime | [AnimeIL-TV](https://www.animeil-tv.com/) |
 | Manga | [Mangashelf](https://mangashelf.co.il/) |
 
 ## Hungarian
-
-### Websites
 
 | Category | Website |
 | :--- | :--- |
@@ -676,8 +668,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 ## Turkish
 
-### Websites
-
 | Category | Website |
 | :--- | :--- |
 | **Anime** | [Acheriya](https://acheriya.com/) |
@@ -692,8 +682,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [Web Drama Turkey](https://webdramaturkey2.com/) |
 
 ## Ukranian
-
-### Websites
 
 | Category | Website |
 | :--- | :--- |
