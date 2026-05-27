@@ -71,6 +71,8 @@ og:
 | ^^ | [The Movie Database](https://www.themoviedb.org/) :s: |
 | **Manga Covers** | [Big Book Covers](https://covers.roler.dev/) :s: [:src:](https://github.com/rRoler/bbc-frontend) |
 | ^^        | [Comic Bibliographic and Cover Archives](http://www.eshita.jp/comics/index.html) :ljp: | 
+| ^^        | [ComicVine](https://comicvine.gamespot.com/) :s: |
+| ^^        | :prev: [AnniversaryJump](https://www.anniversaryjump.com/?lang=en) |
 | ^^        | [MangaBaka](https://mangabaka.org/) :s: |
 | ^^        | [Shounen Manga Encyclopedia](https://allcomic.noor.jp/) :ljp: |
 | **Music / OST covers** | [Apple Music Artwork Fetcher](https://artwork.thekvt.eu.org/) |
