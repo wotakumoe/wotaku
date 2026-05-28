@@ -237,7 +237,7 @@ og:
 | [Star Soraight Fantasy](https://store.steampowered.com/app/3668950/) | Paid | Tokino Sora | Altoseal and Hoshikuzunoyoru | holo Indie |
 
 ### Puzzle / Strategy
-  
+
 | Game                                                           | Price  | MC                 | Dev         | Publisher |
 |----------------------------------------------------------------|--------|--------------------|-------------|-----------|
 | [Holo's Hanafuda](https://store.steampowered.com/app/3327640/) | Free | Hololive JP | Gemdrops, Inc. | Gemdrops, Inc. |
@@ -245,10 +245,11 @@ og:
 | [KING of HOLO](https://store.steampowered.com/app/4184080/) | Paid | Hololive | テイク | holo Indie |
 | [Juufuutei Raden's Guide for Pixel Museum](https://store.steampowered.com/app/3204020/) | Paid | Juufuutei Raden | Jupiter | Jupiter |
 | [Mumei's Memory Juggling](https://david-wu-softdev.itch.io/mumeis-memory-juggling) | Free   | Nanashi Mumei     | David Wu   | David Wu |
-| [Nna-tan's Pixel Princess](https://store.steampowered.com/app/4403340/) | TBD | Himemori Luna | MOBoratory | holo Indie |
+| [Nna-tan's Pixel Princess](https://store.steampowered.com/app/4403340/) | Paid | Himemori Luna | MOBoratory | holo Indie |
 | [Takos Organised Neatly](https://ae-lux-production.itch.io/takos-organised-neatly) | Free   | Ninomae Ina'Nis  | Ae Lux     | Ae Lux |
 
 ### Rhythm
+
 | Game                                                           | Price  | MC                 | Dev         | Publisher |
 |----------------------------------------------------------------|--------|--------------------|------------|-----|
 | [ChikuTaku](https://watsonamelia.itch.io/chikutaku) | Free | Amelia Watson | CenTdemeern1 | Amelia Watson |
