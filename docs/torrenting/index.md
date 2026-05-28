@@ -1,6 +1,6 @@
 ---
 title: Torrenting
-description: Torrenting
+description: Torrenting Basics & Tutorials
 og:
     image: https://i.wotaku.wiki/f/tor.png
 ---
