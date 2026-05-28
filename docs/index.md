@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Wotaku
 layout: page
 sidebar: false
 aside: false
