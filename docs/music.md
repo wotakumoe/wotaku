@@ -252,9 +252,10 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 ## Database
 
-| Category     | Links |
+| Category    | Links |
 |-------------|-------|
 | **General** | [Discogs](https://www.discogs.com/) |
+| ^^          | [MusicBrainz](https://musicbrainz.org/) |
 | ^^          | [Rate Your Music](https://rateyourmusic.com/) |
 | ^^          | [VGMdb](https://vgmdb.net/) |
 | **Anime**   | [Aniplaylist](https://aniplaylist.com/) :s: |
