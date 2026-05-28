@@ -38,7 +38,6 @@ og:
 | [Mantton](https://aegir.mantton.com/) | :len: | [Install](suwatte://list?url=https://aegir.mantton.com) |
 | [Jishnu](https://jishnusen.github.io/SuwatteSources/) [:src:](https://github.com/jishnusen/SuwatteSources) | :global: | [Install](suwatte://list?url=https://jishnusen.github.io/SuwatteSources) |
 | [Seb](https://sebzzzzzzzzzzzzzzzz.github.io/sources/) | :global: | [Install](suwatte://list?url=https://sebzzzzzzzzzzzzzzzz.github.io/sources) |
-| [Kusahime](https://chilldryad.github.io/DryadSources/) [:src:](https://github.com/ChillDryad/DryadSources) | :global: | [Install](suwatte://list?url=https://chilldryad.github.io/DryadSources) |
 | [Community](https://community.suwatte.app/) | :global: | [Install](suwatte://list?url=https://community.suwatte.app) |
 
 ### v7
