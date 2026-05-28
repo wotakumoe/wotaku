@@ -140,7 +140,7 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
   <Transition name="fade" mode="out-in">
     <div
       v-if="isCardShown"
-      class="border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 m-[2rem 0] mt-4 border-2 border-solid px-6 pt-3 pb-6"
+      :class="['border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 m-[2rem 0] mt-4 border-2 border-solid px-6 pt-3', success ? 'pb-3' : 'pb-6']"
     >
       <Transition name="fade" mode="out-in">
         <div v-if="!feedback.type">
