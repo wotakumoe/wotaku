@@ -107,6 +107,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [DoubleDouble](https://doubledouble.top/) :s: | Multiple |
 | [Lucida](https://lucida.to/) | ^^ |
 | [Squid.wtf](https://squid.wtf/) | ^^ |
+| [am-dl](https://am-dl.pages.dev/) ==amdl== | Apple |
 | [ARCOD](https://www.arcod.xyz/) :acc: | Qobuz |
 | [Jumo-DL](https://jumo-dl.pages.dev/) | ^^ |
 | [Monochrome](https://monochrome.tf/) [:prx:](https://rentry.org/wotaxy#monochrome) [:src:](https://github.com/monochrome-music/monochrome) | ^^ |
@@ -117,7 +118,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 |-|-|-|
 | [Doujin Cafe](https://discord.gg/doujincafe) | :ddl: | :sm::smf: |
 | [Doujin Music](https://vk.com/wall-60027733) | :ddl: | :vk: |
-| [Doujin Style](https://doujinstyle.com/) [||Downloader||](https://github.com/Relepega/doujinstyle-downloader) | :ddl: | :smf: |
+| [Doujin Style](https://doujinstyle.com/) [||DLer||](https://github.com/Relepega/doujinstyle-downloader) | :ddl: | :smf: |
 | [MikuDB](https://mikudb.moe/) | :ddl::mag: | :sgd: |
 | [Moriya Shrine](https://moriyashrine.org/) | :mag: | :no: |
 
