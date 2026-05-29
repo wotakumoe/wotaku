@@ -18,8 +18,8 @@ import { tabsMarkdownPlugin } from 'vitepress-plugin-tabs'
 import { getTooltip } from '../../utils/tooltips'
 import { headersPlugin } from '../markdown/headers'
 import { emojiRender } from './emoji'
-import markdownSteps from './steps'
 import { scrapeTablePlugin } from './scrapeTablePlugin'
+import markdownSteps from './steps'
 
 export function configureMarkdown(md: MarkdownRenderer) {
   md.use(emojiRender)
@@ -98,17 +98,63 @@ function span(
 function renderHighlight(md: MarkdownRenderer) {
   const original = md.render.bind(md)
   md.render = (src, env) => {
+    const withCollapsibleHeadings = injectCollapsibleSearchHeadings(src)
+
     // Replace [||text||](url) — linked pill
-    let replaced = src.replace(/\[([!x]?)\|\|(.+?)\|\|\]\((.+?)\)/g, (_, prefix, cont, url) => {
-      const variant = prefix === '!' ? 'warning' : prefix === 'x' ? 'danger' : 'default'
-      const inner = md.renderInline(cont, env)
-      return `<a href="${url}" target="_blank" rel="noopener noreferrer"><hl variant="${variant}" linked="true">${inner}</hl></a>`
-    })
+    let replaced = withCollapsibleHeadings.replace(
+      /\[([!x]?)\|\|(.+?)\|\|\]\((.+?)\)/g,
+      (_, prefix, cont, url) => {
+        const variant = prefix === '!'
+          ? 'warning'
+          : prefix === 'x'
+          ? 'danger'
+          : 'default'
+        const inner = md.renderInline(cont, env)
+        return `<a href="${url}" target="_blank" rel="noopener noreferrer"><hl variant="${variant}" linked="true">${inner}</hl></a>`
+      }
+    )
     // Replace standalone ||text||
     replaced = replaced.replace(/([!x]?)\|\|(.+?)\|\|/g, (_, prefix, cont) => {
-      const variant = prefix === '!' ? 'warning' : prefix === 'x' ? 'danger' : 'default'
+      const variant = prefix === '!'
+        ? 'warning'
+        : prefix === 'x'
+        ? 'danger'
+        : 'default'
       return `<hl variant="${variant}">${md.renderInline(cont, env)}</hl>`
     })
     return original(replaced, env)
   }
+}
+
+function injectCollapsibleSearchHeadings(src: string) {
+  const lines = src.split('\n')
+
+  for (let i = 0; i < lines.length; i++) {
+    const match = lines[i].match(
+      /^(\s*)<Collapsible\b(?=[^>]*\btitle=(['"])(.*?)\2)[^>]*>\s*$/i
+    )
+    if (!match) continue
+
+    let nextLine = i + 1
+    while (nextLine < lines.length && lines[nextLine].trim() === '') {
+      nextLine++
+    }
+
+    if (/^#{1,6}\s+/.test(lines[nextLine]?.trim() ?? '')) continue
+
+    const [, indent, , title] = match
+    const headingTitle = title.trim()
+    if (!headingTitle) continue
+
+    lines.splice(
+      i + 1,
+      0,
+      '',
+      `${indent}### ${headingTitle} {.collapsible-search-heading}`,
+      ''
+    )
+    i += 3
+  }
+
+  return lines.join('\n')
 }

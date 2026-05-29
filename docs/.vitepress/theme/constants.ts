@@ -5,7 +5,6 @@ import type { Options } from './types'
 import _VPFlyout from 'vitepress/dist/client/theme-default/components/VPFlyout.vue'
 // @ts-ignore - VitePress doesn't have types for its internal components
 import _VPLocalNavOutlineDropdown from 'vitepress/dist/client/theme-default/components/VPLocalNavOutlineDropdown.vue'
-// Isolate the types of Vitepress internal components to avoid typecheck errors
 export const VPFlyout: any = _VPFlyout
 export const VPLocalNavOutlineDropdown: any = _VPLocalNavOutlineDropdown
 

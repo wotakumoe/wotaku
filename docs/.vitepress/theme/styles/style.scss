@@ -1648,6 +1648,17 @@ html.reduce-blur-effects {
   border-top: none !important;
 }
 
+.vp-doc .collapsible-search-heading {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
 
 /* noteblock icon shrinking and top-bottom padding fix */
 .vp-doc .custom-block-title {
