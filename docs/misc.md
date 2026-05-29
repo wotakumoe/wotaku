@@ -142,7 +142,8 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 ## Others
 | Section | Websites |
 |-|-|
-| Cons    | [FanCons](https://fancons.com/) [:alt:](https://animecons.com/) |
+| Cons    | [alley.moe](https://alley.moe/) |
+| ^^      | [FanCons](https://fancons.com/) [:alt:](https://animecons.com/) |
 | ^^      | [UpcomingCons](https://upcomingcons.com/) |
 | Drama / Live action | [LAMA - Live Action Manga Adaptations](https://lama.watch/) | 
 | ^^      | [MyDramaList](https://mydramalist.com/) |
@@ -308,6 +309,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [Otaku Print Archive](https://archive.org/details/@nicole_turkowski/uploads) :iarch: [:x:](https://x.com/OtakuPrintArchv) [||Docs||](https://docs.google.com/spreadsheets/d/1NFcv7gTI_oGYyNpg64O6YI0JBDh-i0h8NavWw0OA5Gk/edit?gid=0#gid=0) |
 | ^^ | [The Magazine Rack](https://archive.org/details/magazine_rack) :s::iarch: |
 | ^^ | [Tuxedo Unmasked](https://www.tuxedounmasked.com/) :ded: |
+| ^^ | [Wiz Kaleb](https://archive.org/details/@wiz_kaleb) :iarch: [:x:](https://x.com/wiz_kaleb) |
 | ^^ | [Zimmerit](https://www.zimmerit.moe/) |  
 | **Anime** | [80s OVA](https://80s-ova.com/) :ljp: [:x:](https://x.com/KuraiSue) |
 | ^^ | [Anime Magazine Archive](https://animagarchive.com/) [:x:](https://x.com/animemagarchive) |
