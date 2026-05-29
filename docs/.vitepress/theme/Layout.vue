@@ -57,15 +57,93 @@ watch(() => route.path, () => {
 })
 
 let searchNavigated = false
+let searchQuery = ''
 
 if (!import.meta.env.SSR) {
-  useEventListener(window, 'search-nav', () => {
+  useEventListener(window, 'search-nav', (event) => {
     searchNavigated = true
+    searchQuery = event instanceof CustomEvent &&
+        typeof event.detail?.query === 'string'
+      ? event.detail.query
+      : ''
     tryOpenCollapsibles()
   })
 }
 
-const openCollapsibles = (target: HTMLElement) => {
+const nextFrame = () =>
+  new Promise<void>((resolve) => requestAnimationFrame(() => resolve()))
+
+const getSearchTerms = (query: string) =>
+  query
+    .toLowerCase()
+    .split(/\s+/)
+    .map((term) => term.trim())
+    .filter(Boolean)
+
+const getTabsInSearchScope = (target: HTMLElement) => {
+  const tabs = new Set<HTMLElement>()
+  const closestTabs = target.closest<HTMLElement>('.plugin-tabs')
+  if (closestTabs) tabs.add(closestTabs)
+
+  const tagName = target.tagName
+  if (tagName.length === 2 && tagName[0] === 'H') {
+    const level = +tagName[1]
+    if (level >= 1 && level <= 6) {
+      let sibling = target.nextElementSibling
+
+      while (sibling) {
+        const siblingTag = sibling.tagName
+        if (
+          siblingTag.length === 2 && siblingTag[0] === 'H' &&
+          +siblingTag[1] <= level
+        ) break
+
+        if (sibling.matches('.plugin-tabs')) tabs.add(sibling as HTMLElement)
+        sibling.querySelectorAll<HTMLElement>('.plugin-tabs').forEach((tab) => {
+          tabs.add(tab)
+        })
+
+        sibling = sibling.nextElementSibling
+      }
+    }
+  }
+
+  return [...tabs]
+}
+
+const selectTabContainingQuery = async (target: HTMLElement, query: string) => {
+  const terms = getSearchTerms(query)
+  if (!terms.length) return
+
+  for (const tabs of getTabsInSearchScope(target)) {
+    const selectedTab = tabs.querySelector<HTMLButtonElement>(
+      '.plugin-tabs--tab[aria-selected="true"]'
+    )
+    const buttons = tabs.querySelectorAll<HTMLButtonElement>(
+      '.plugin-tabs--tab[role="tab"]'
+    )
+
+    for (let i = 0, len = buttons.length; i < len; i++) {
+      const button = buttons[i]
+      button.click()
+      await nextTick()
+      await nextFrame()
+
+      const panelId = button.getAttribute('aria-controls')
+      const panel = panelId
+        ? document.getElementById(panelId)
+        : tabs.querySelector<HTMLElement>('.plugin-tabs--content')
+      const text = panel?.textContent?.toLowerCase() ?? ''
+
+      if (terms.every((term) => text.includes(term))) return
+    }
+
+    selectedTab?.click()
+    await nextTick()
+  }
+}
+
+const openCollapsibles = async (target: HTMLElement) => {
   let scrollTarget = target
   let el: HTMLElement | null = target
 
@@ -104,6 +182,8 @@ const openCollapsibles = (target: HTMLElement) => {
     }
   }
 
+  await selectTabContainingQuery(target, searchQuery)
+
   requestAnimationFrame(() => {
     requestAnimationFrame(() => {
       const navBar = document.querySelector<HTMLElement>('.VPNavBar')
@@ -138,6 +218,7 @@ const tryOpenCollapsibles = async () => {
     if (target) {
       openCollapsibles(target)
       searchNavigated = false
+      searchQuery = ''
     }
   })
 }
@@ -289,7 +370,9 @@ onMounted(() => {
   document.body.appendChild(tooltipEl)
 
   const showTooltip = (e: MouseEvent) => {
-    const target = (e.target as HTMLElement).closest('.icon-tip') as HTMLElement | null
+    const target = (e.target as HTMLElement).closest('.icon-tip') as
+      | HTMLElement
+      | null
     if (!target) return
     const tip = target.dataset.tip
     if (!tip) return

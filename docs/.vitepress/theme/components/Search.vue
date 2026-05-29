@@ -43,6 +43,7 @@ import {
   TextAlignStart
 } from 'lucide-vue-next'
 import Mark from 'mark.js/dist/mark.es6.js'
+import { enhanceAppWithTabs } from 'vitepress-plugin-tabs/client'
 import { LRUCache } from '../composables/search/lru-cache'
 import { createSearchTranslate } from '../composables/search/translation'
 import { useData } from '../composables/search/use-data'
@@ -214,20 +215,22 @@ watchDebounced(
 
     // Highlighting
     const mods = showDetailedListValue
-      ? await Promise.all(results.value.map((r) => fetchExcerpt(r.id)))
+      ? await Promise.all(_result.map((r) => fetchExcerpt(r.id)))
       : []
     if (canceled) return
     for (const { id, mod } of mods) {
       const mapId = id.slice(0, id.indexOf('#'))
-      let map = cache.get(mapId)
+      const cacheId = `${mapId}\n${filterTextValue}`
+      let map = cache.get(cacheId)
       if (map) continue
       map = new Map()
-      cache.set(mapId, map)
+      cache.set(cacheId, map)
       const comp = mod.default ?? mod
       if (comp?.render || comp?.setup) {
         const app = createApp(comp)
         // Silence warnings about missing components
         app.config.warnHandler = () => {}
+        enhanceAppWithTabs(app)
         app.provide(dataSymbol, vitePressData)
         Object.defineProperties(app.config.globalProperties, {
           $frontmatter: {
@@ -243,6 +246,7 @@ watchDebounced(
         })
         const div = document.createElement('div')
         app.mount(div)
+        await selectExcerptTabs(div, filterTextValue)
         const headings = div.querySelectorAll('h1, h2, h3, h4, h5, h6')
         headings.forEach((el) => {
           const href = el.querySelector('a')?.getAttribute('href')
@@ -266,7 +270,7 @@ watchDebounced(
 
     results.value = _result.map((r) => {
       const [id, anchor] = r.id.split('#')
-      const map = cache.get(id)
+      const map = cache.get(`${id}\n${filterTextValue}`)
       const text = map?.get(anchor) ?? ''
       for (const term in r.match) {
         terms.add(term)
@@ -290,13 +294,17 @@ watchDebounced(
     for (let i = 0; i < excerpts.length; i++) {
       const excerptElement = excerpts[i] as HTMLElement
 
-      const markNode = excerptElement.querySelector('mark[data-markjs="true"]') as HTMLElement | null
+      const markNode = excerptElement.querySelector(
+        'mark[data-markjs="true"]'
+      ) as HTMLElement | null
       if (markNode) {
         const markRect = markNode.getBoundingClientRect()
         const excerptRect = excerptElement.getBoundingClientRect()
 
-        const relativeTop = (markRect.top - excerptRect.top) + excerptElement.scrollTop
-        const targetScrollTop = relativeTop - (excerptElement.clientHeight / 2) + (markRect.height / 2)
+        const relativeTop = (markRect.top - excerptRect.top) +
+          excerptElement.scrollTop
+        const targetScrollTop = relativeTop -
+          (excerptElement.clientHeight / 2) + (markRect.height / 2)
 
         scrollMutations.push({
           element: excerptElement,
@@ -331,6 +339,58 @@ async function fetchExcerpt(id: string) {
   } catch (e) {
     console.error(e)
     return { id, mod: {} }
+  }
+}
+
+const nextFrame = () =>
+  new Promise<void>((resolve) => requestAnimationFrame(() => resolve()))
+
+const getSearchTerms = (query: string) =>
+  query
+    .toLowerCase()
+    .split(/\s+/)
+    .map((term) => term.trim())
+    .filter(Boolean)
+
+async function selectExcerptTabs(root: HTMLElement, query: string) {
+  const terms = getSearchTerms(query)
+  if (!terms.length) return
+
+  const tabs = root.querySelectorAll<HTMLElement>('.plugin-tabs')
+
+  for (let i = 0; i < tabs.length; i++) {
+    const tab = tabs[i]
+    const selectedTab = tab.querySelector<HTMLButtonElement>(
+      '.plugin-tabs--tab[aria-selected="true"]'
+    )
+    const buttons = tab.querySelectorAll<HTMLButtonElement>(
+      '.plugin-tabs--tab[role="tab"]'
+    )
+
+    let found = false
+
+    for (let j = 0; j < buttons.length; j++) {
+      const button = buttons[j]
+      button.click()
+      await nextTick()
+      await nextFrame()
+
+      const panelId = button.getAttribute('aria-controls')
+      const panel = panelId
+        ? root.querySelector<HTMLElement>(`#${CSS.escape(panelId)}`)
+        : tab.querySelector<HTMLElement>('.plugin-tabs--content')
+      const text = panel?.textContent?.toLowerCase() ?? ''
+
+      if (terms.every((term) => text.includes(term))) {
+        found = true
+        break
+      }
+    }
+
+    if (!found) {
+      selectedTab?.click()
+      await nextTick()
+    }
   }
 }
 
@@ -417,14 +477,22 @@ onKeyStroke('Enter', (e) => {
   }
 
   if (selectedPackage) {
-    window.dispatchEvent(new CustomEvent('search-nav'))
+    window.dispatchEvent(
+      new CustomEvent('search-nav', {
+        detail: { query: filterText.value }
+      })
+    )
     router.go(selectedPackage.id)
     showSearch.value = false
   }
 })
 
 function onResultClick() {
-  window.dispatchEvent(new CustomEvent('search-nav'))
+  window.dispatchEvent(
+    new CustomEvent('search-nav', {
+      detail: { query: filterText.value }
+    })
+  )
   showSearch.value = false
 }
 
