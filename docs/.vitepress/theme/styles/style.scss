@@ -1649,16 +1649,18 @@ html.reduce-blur-effects {
 }
 
 
-/* unfuck the icon getting too small when the width is small in noteblocks.*/
+/* noteblock icon shrinking and top-bottom padding fix */
 .vp-doc .custom-block-title {
   display: flex;
   align-items: flex-start;
   gap: 6px;
-  flex-wrap: nowrap;
 }
 
 .vp-doc .custom-block-title::before {
   flex-shrink: 0;
-  align-self: flex-start;
   margin-top: 3px;
+}
+
+.vp-doc .custom-block {
+  padding-bottom: 16px;
 }
