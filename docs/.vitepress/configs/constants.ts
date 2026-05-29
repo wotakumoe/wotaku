@@ -81,7 +81,6 @@ export const sidebar: DefaultTheme.Sidebar = [
         collapsed: true,
         items: [
           { text: 'Disc Ripping', link: '/guides/anime/discrip' },
-          { text: 'Network Streaming', link: '/guides/anime/ns' }
         ]
       },
       {
@@ -101,8 +100,6 @@ export const sidebar: DefaultTheme.Sidebar = [
         text: 'Music',
         collapsed: true,
         items: [
-          { text: 'Echo', link: '/guides/music/echo' },
-          { text: 'FB2K Synced Lyrics', link: '/guides/music/fb2klyrics' },
           { text: 'Transcoding Audio', link: '/guides/music/transcoding' }
         ]
       },

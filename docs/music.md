@@ -347,7 +347,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 ### Online
 | Category   | Links   |
 |------------|---------|
-| **General** | [Echo](https://github.com/brahmkshatriya/echo) :s::and: [:help:](/guides/music/echo) ==echo== |
+| **General** | [Echo](https://github.com/brahmkshatriya/echo) :s::and: [:help:](https://echomusicdocs.vercel.app/docs/echo) ==echo== |
 | ^^         | [Revanced](https://revanced.app/) :and: [:src:](https://github.com/revanced) |
 | ^^         | [Soundbound](https://soundbound.app/) :and::cs: |
 | **YouTube** | [Harmony Music](https://github.com/anandnet/Harmony-Music) :and: |
@@ -429,7 +429,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^ | [Discord Rich Presence Integration](https://github.com/s0hv/foo_discord_rich) [:help:](https://s0hv.github.io/foo_discord_rich/) [:alt:](https://github.com/realoksi/foobar2000-catbox) |
 | ^^ | [Encoder Pack](https://www.foobar2000.org/encoderpack) |
 | ^^ | [ESLyric](https://github.com/ESLyric/release) |
-| ^^ | [OpenLyrics](https://www.foobar2000.org/components/view/foo_openlyrics) [:help:](/guides/music/fb2klyrics) |
+| ^^ | [OpenLyrics](https://www.foobar2000.org/components/view/foo_openlyrics) |
 | ^^ | [ReplayGain DSP](https://www.foobar2000.org/components/view/foo_dsp_replaygain) |
 | Theme | [Georgia-ReBORN](https://github.com/TT-ReBORN/Georgia-ReBORN) |
 | ^^ | [Eole](https://github.com/Ottodix/Eole-foobar-theme) |

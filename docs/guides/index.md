@@ -19,9 +19,6 @@ og:
   <Card title="Disc Ripping" href="/guides/anime/discrip">
     Guide on how to rip Discs and conversions to MKV and ISO formats
   </Card>
-  <Card title="Network Stream" href="/guides/anime/ns">
-    Stream video files through DDL, IRC, and Torrent
-  </Card>
 </Deck>
 
 ## Manga
@@ -53,12 +50,6 @@ og:
 ## Music
 
 <Deck>
-  <Card title="Echo" href="/guides/music/echo">
-    How to set up and use Echo
-  </Card>
-  <Card title="Synced Lyrics in FB2K" href="/guides/music/fb2klyrics">
-    View and add synced lyrics in Foobar2000
-  </Card>
   <Card title="Transcoding Audio" href="/guides/music/transcoding">
     Basic guide for transcoding audio files
   </Card>
