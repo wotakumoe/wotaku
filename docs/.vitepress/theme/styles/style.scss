@@ -1672,6 +1672,8 @@ html.reduce-blur-effects {
   margin-top: 3px;
 }
 
-.vp-doc .custom-block {
+/* so that the gap only applies to title only blocks. check layout.vue for initTitleOnly() */
+
+.vp-doc .custom-block.title-only {
   padding-bottom: 16px;
 }

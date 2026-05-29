@@ -361,8 +361,24 @@ const reloadTakodachi = () => {
   }
 }
 
+function initTitleOnly() {
+  document.querySelectorAll('.custom-block').forEach(block => {
+    const children = [...block.children]
+    const hasOnlyTitle = children.every(el => el.classList.contains('custom-block-title'))
+    if (hasOnlyTitle) block.classList.add('title-only')
+  })
+}
+
+watch(
+  () => route.path,
+  () => nextTick(() => initTitleOnly()),
+  { flush: 'post' }
+)
+
 onMounted(() => {
   if (import.meta.env.SSR) return
+
+  initTitleOnly()
 
   // Icon tooltip: fixed-position popup appended to <body> to escape table overflow clipping
   const tooltipEl = document.createElement('div')
