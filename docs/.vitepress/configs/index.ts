@@ -10,7 +10,6 @@ import {
   PagePropertiesMarkdownSection
 } from '@nolebase/vitepress-plugin-page-properties/vite'
 import { fileURLToPath, URL } from 'node:url'
-import { parse as parseDomain } from 'tldts'
 import UnoCSS from 'unocss/vite'
 import Devtools from 'vite-plugin-vue-devtools'
 import type { DefaultTheme, Plugin, UserConfig } from 'vitepress'
@@ -29,10 +28,6 @@ const GIT_COMMIT = process.env.NODE_ENV === 'development'
       .then((result) => result.stdout.trim())) ??
     'dev')
 
-function siteName(host: string): string {
-  return parseDomain(host).domainWithoutSuffix ?? ''
-}
-
 export const shared: UserConfig<DefaultTheme.Config> = {
   ...siteConfig,
   transformHead: async (context) => generateMeta(context, hostname),
@@ -49,23 +44,30 @@ export const shared: UserConfig<DefaultTheme.Config> = {
     search: {
       options: {
         miniSearch: {
-          async _render(src, env, md) {
-            const html = await md.renderAsync(src, env)
-            if (env.frontmatter?.search === false) return ''
+          _render(src, env, md) {
+            const html = md.render(src, env)
+            if (env.frontmatter?.search === false) return html
+            const BARE_TLDS = new Set([
+              'org', 'com', 'net', 'io', 'co', 'gg', 'tv', 'me', 'app',
+              'dev', 'xyz', 'info', 'moe', 'to', 'cc', 'fm', 'fr', 'jp'
+            ])
             const seen = new Set<string>()
             for (const m of html.matchAll(/href="([^"]+)"/g)) {
               try {
-                const host = new URL(m[1]).hostname.replace(/^www\./, '')
+                const u = new URL(m[1])
+                const host = u.hostname.replace(/^www\./, '')
                 if (!host) continue
                 seen.add(host)
-                const name = siteName(host)
-                if (name) seen.add(name)
-              } catch {}
+                const bare = host.split('.')[0]
+                if (bare && !BARE_TLDS.has(bare)) seen.add(bare)
+              } catch {
+              }
             }
+            for (const t of [...seen]) if (BARE_TLDS.has(t)) seen.delete(t)
             if (seen.size === 0) return html
-            return `${html}\n<p class="vp-search-urls" aria-hidden="true" style="display:none">${[
-              ...seen
-            ].join(' ')}</p>`
+            return `${html}\n<p class="vp-search-urls" aria-hidden="true" style="display:none">${
+              [...seen].join(' ')
+            }</p>`
           },
           searchOptions: {
             combineWith: 'AND',
