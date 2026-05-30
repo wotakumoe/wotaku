@@ -210,7 +210,9 @@ watchDebounced(
     const _result = index
       .search(
         queryForSearch,
-        isUrlQuery ? { combineWith: 'OR' } : undefined
+        isUrlQuery
+          ? { combineWith: 'AND', prefix: false, fuzzy: false }
+          : undefined
       )
       .slice(0, 16) as (SearchResult & Result)[]
     enableNoResults.value = true
@@ -564,16 +566,13 @@ function looksLikeUrl(query: string) {
 }
 
 function normalizeUrlQuery(query: string) {
-  const cleaned = query
+  return query
     .trim()
     .replace(/^https?:\/\//i, '')
     .replace(/^www\./i, '')
     .replace(/[?#].*$/, '')
-    .replace(/\/.*$/, '') // drop path, keep host only
-  const host = cleaned.trim()
-  if (!host) return query.trim()
-  const bareName = host.split('.')[0]
-  return bareName && bareName !== host ? `${host} ${bareName}` : host
+    .replace(/\/.*$/, '')
+    .trim()
 }
 
 function formMarkRegex(terms: Set<string>) {
