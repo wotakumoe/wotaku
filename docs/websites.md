@@ -256,7 +256,7 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 | **Nyaa**        | [AlpinDale](https://nyaa.si/user/AlpinDale) |
 | ^^              | [CleanBookGuy](https://nyaa.si/?f=0&c=3_1&q=CleanBookGuy) |
 | ^^              | [Ganba](https://nyaa.si/user/Ganba?f=0&c=3_1&q=) :ded: |
-| ^^              | [HowUnfortunate](https://nyaa.si/user/HowUnfortunate?f=0&c=3_1&q=) :ded: |
+| ^^              | [HowUnfortunate](https://nyaa.si/user/HowUnfortunate) :ded: |
 | ^^              | [LuCaZ](https://nyaa.si/?f=0&c=3_1&q=%22%5BLuCaZ%5D%22) |
 | ^^              | [Stick](https://nyaa.si/?f=0&c=3_1&q=%22%5BStick%5D%22) |
 | ^^              | [Audiobooks](https://nyaa.si/?f=0&c=0_0&q=Audiobook) |
@@ -356,13 +356,13 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 - [TheLongbox](https://thelongbox.net/) :host::acc:
 
 ## Others
-| Category                | Website |
-|-------------------------|---------|
+| Category               | Website |
+|------------------------|---------|
 | **Info**               | [Comichron](https://www.comichron.com/index.php) |
 | ^^                     | [Comic Book Treasury](https://www.comicbooktreasury.com/) |
 | ^^                     | [Comic Shop Locator](https://www.comicshoplocator.com/) |
 | ^^                     | [Grand Comics Database](https://www.comics.org/) |
-| **Guide / Reading Order** | [Comic Book Herald](https://www.comicbookherald.com/) |
+| **Reading Guide**      | [Comic Book Herald](https://www.comicbookherald.com/) |
 | ^^                     | [Comic Book Reading Orders](https://comicbookreadingorders.com/) |
 | ^^                     | [Complete Marvel Reading Order](https://cmro.travis-starnes.com/) |
 | ^^                     | [Continuity Guide](https://www.continuityguide.net/) |
