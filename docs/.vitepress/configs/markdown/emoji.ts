@@ -69,6 +69,7 @@ const aliasDefs: Record<string, [string, string?]> = {
   // Browser
   ff: ['simple-icons-firefoxbrowser', 'Firefox / Gecko-based'],
   cr: ['simple-icons-googlechrome', 'Chrome / Chromium-based'],
+  sfr: ['simple-icons-safari', 'Safari'],
   web: ['mdi-web', 'Website / Web-based'],
 
   // Program

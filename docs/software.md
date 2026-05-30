@@ -400,7 +400,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | Category       | Resource                                                       | Platform             |
 |---------------|-----------------------------------------------------------------|----------------------|
 | **Image Search** | [SmartImage](https://github.com/Decimation/SmartImage)       | :win::lin:          |
-| ^^            | [Search by Image](https://github.com/dessant/search-by-image)   | :ff::cr::simple-icons-safari: |
+| ^^            | [Search by Image](https://github.com/dessant/search-by-image)   | :ff::cr::sfr: |
 | ^^            | [AnimeSnap](https://github.com/rohankishore/AnimeSnap)          | :win:               |
 | ^^            | [Sauce](https://github.com/cadecuddy/sauce)                     | :cmd:               |
 | **Nyaa Tools** | [nyaa](https://github.com/Beastwick18/nyaa)                    | :win::lin:          |
