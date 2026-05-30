@@ -203,8 +203,15 @@ watchDebounced(
     if (!index) return
 
     // Search
+    const isUrlQuery = looksLikeUrl(filterTextValue)
+    const queryForSearch = isUrlQuery
+      ? normalizeUrlQuery(filterTextValue)
+      : filterTextValue
     const _result = index
-      .search(filterTextValue)
+      .search(
+        queryForSearch,
+        isUrlQuery ? { combineWith: 'OR' } : undefined
+      )
       .slice(0, 16) as (SearchResult & Result)[]
     enableNoResults.value = true
 
@@ -551,6 +558,23 @@ watch(
     })
   }
 )
+
+function looksLikeUrl(query: string) {
+  return /https?:\/\/|www\.|[^\s]+\.[a-z]{2,}(\/|$)/i.test(query.trim())
+}
+
+function normalizeUrlQuery(query: string) {
+  const cleaned = query
+    .trim()
+    .replace(/^https?:\/\//i, '')
+    .replace(/^www\./i, '')
+    .replace(/[?#].*$/, '')
+    .replace(/\/.*$/, '') // drop path, keep host only
+  const host = cleaned.trim()
+  if (!host) return query.trim()
+  const bareName = host.split('.')[0]
+  return bareName && bareName !== host ? `${host} ${bareName}` : host
+}
 
 function formMarkRegex(terms: Set<string>) {
   return new RegExp(

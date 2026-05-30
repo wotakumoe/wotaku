@@ -44,6 +44,31 @@ export const shared: UserConfig<DefaultTheme.Config> = {
     search: {
       options: {
         miniSearch: {
+          _render(src, env, md) {
+            const html = md.render(src, env)
+            if (env.frontmatter?.search === false) return html
+            const BARE_TLDS = new Set([
+              'org', 'com', 'net', 'io', 'co', 'gg', 'tv', 'me', 'app',
+              'dev', 'xyz', 'info', 'moe', 'to', 'cc', 'fm', 'fr', 'jp'
+            ])
+            const seen = new Set<string>()
+            for (const m of html.matchAll(/href="([^"]+)"/g)) {
+              try {
+                const u = new URL(m[1])
+                const host = u.hostname.replace(/^www\./, '')
+                if (!host) continue
+                seen.add(host)
+                const bare = host.split('.')[0]
+                if (bare && !BARE_TLDS.has(bare)) seen.add(bare)
+              } catch {
+              }
+            }
+            for (const t of [...seen]) if (BARE_TLDS.has(t)) seen.delete(t)
+            if (seen.size === 0) return html
+            return `${html}\n<p class="vp-search-urls" aria-hidden="true" style="display:none">${
+              [...seen].join(' ')
+            }</p>`
+          },
           searchOptions: {
             combineWith: 'AND',
             fuzzy: false,
