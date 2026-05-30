@@ -1,6 +1,6 @@
 <script lang="ts" setup>
 import MiniSearch, { type SearchResult } from 'minisearch'
-import { dataSymbol, inBrowser, useRouter } from 'vitepress'
+import { type DefaultTheme, dataSymbol, inBrowser, useRouter } from 'vitepress'
 import {
   computed,
   createApp,
@@ -36,6 +36,7 @@ import localSearchIndex from '@localSearchIndex'
 
 import {
   ArrowRight,
+  ChevronRight,
   Delete,
   File,
   Hash,
@@ -47,6 +48,7 @@ import { enhanceAppWithTabs } from 'vitepress-plugin-tabs/client'
 import { LRUCache } from '../composables/search/lru-cache'
 import { createSearchTranslate } from '../composables/search/translation'
 import { useData } from '../composables/search/use-data'
+import { sidebar } from '../../configs/constants'
 
 export interface FooterTranslations {
   selectText?: string
@@ -174,10 +176,166 @@ watchEffect(() => {
 
 const results: Ref<(SearchResult & Result)[]> = shallowRef([])
 
+const currentTerms = shallowRef(new Set<string>())
+
 const enableNoResults = ref(false)
+
+const pageMeta = (() => {
+  const map = new Map<string, { label: string; order: number }>()
+  let order = 0
+  const stripIcon = (text: string) =>
+    text
+      .replace(/<[^>]*>/g, '')
+      .replace(/\s+/g, ' ')
+      .trim()
+  const walk = (items: DefaultTheme.SidebarItem[]) => {
+    for (const item of items) {
+      if (item.link) {
+        const key = item.link.replace(/\/$/, '')
+        if (!map.has(key)) {
+          map.set(key, { label: stripIcon(item.text ?? key), order: order++ })
+        }
+      }
+      if (item.items) walk(item.items)
+    }
+  }
+  walk(sidebar as DefaultTheme.SidebarItem[])
+  return map
+})()
+
+const activePageFilter = ref<string | null>(null)
+
+function getPageKey(id: string) {
+  return id.split('#')[0].replace(/\/$/, '')
+}
+
+function getPageLabel(key: string) {
+  return pageMeta.get(key)?.label ?? key.replace(/^\//, '')
+}
+
+function getPageOrder(key: string) {
+  return pageMeta.get(key)?.order ?? Number.MAX_SAFE_INTEGER
+}
+
+const pageGroups = computed(() => {
+  const map = new Map<string, { key: string; label: string; count: number }>()
+  for (const r of results.value) {
+    const key = getPageKey(r.id)
+    const existing = map.get(key)
+    if (existing) existing.count++
+    else map.set(key, { key, label: getPageLabel(key), count: 1 })
+  }
+  return [...map.values()].sort(
+    (a, b) => getPageOrder(a.key) - getPageOrder(b.key)
+  )
+})
+
+const filteredResults = computed(() => {
+  if (!activePageFilter.value) return results.value
+  return results.value.filter(
+    (r) => getPageKey(r.id) === activePageFilter.value
+  )
+})
+
+function setPageFilter(key: string | null) {
+  activePageFilter.value = activePageFilter.value === key ? null : key
+  selectedIndex.value = filteredResults.value.length ? 1 : -1
+  nextTick(() => {
+    if (resultsEl.value) resultsEl.value.scrollTop = 0
+    scrollToSelectedResult()
+    reapplyHighlights()
+  })
+}
+
+async function reapplyHighlights() {
+  if (!showDetailedList.value || !currentTerms.value.size) {
+    centerExcerptsUntilSettled()
+    return
+  }
+  await new Promise<void>((resolve) => {
+    mark.value?.unmark({
+      done: () => {
+        mark.value?.markRegExp(formMarkRegex(currentTerms.value), {
+          done: () => resolve()
+        })
+      }
+    })
+  })
+  await nextTick()
+  centerExcerptsUntilSettled()
+}
+
+watch(results, () => {
+  if (
+    activePageFilter.value &&
+    !pageGroups.value.some((g) => g.key === activePageFilter.value)
+  ) {
+    activePageFilter.value = null
+  }
+})
 
 watch(filterText, () => {
   enableNoResults.value = false
+})
+
+const ribbonTrack = shallowRef<HTMLElement>()
+const ribbonCanScrollLeft = ref(false)
+const ribbonCanScrollRight = ref(false)
+
+function getRibbonTrack(): HTMLElement | null {
+  return (
+    ribbonTrack.value ??
+    (el.value?.querySelector('.page-ribbon-track') as HTMLElement | null)
+  )
+}
+
+function updateRibbonOverflow() {
+  const track = getRibbonTrack()
+  if (!track) {
+    ribbonCanScrollLeft.value = false
+    ribbonCanScrollRight.value = false
+    return
+  }
+  ribbonCanScrollLeft.value = track.scrollLeft > 2
+  ribbonCanScrollRight.value =
+    track.scrollWidth - track.clientWidth - track.scrollLeft > 2
+}
+
+let ribbonAnimHandle = 0
+
+function scrollRibbon(direction: number) {
+  const track = getRibbonTrack()
+  if (!track) return
+  const max = track.scrollWidth - track.clientWidth
+  const amount = track.clientWidth * 0.7 * direction
+  const from = track.scrollLeft
+  const to = Math.max(0, Math.min(max, from + amount))
+  if (to === from) return
+
+  if (ribbonAnimHandle) cancelAnimationFrame(ribbonAnimHandle)
+  const duration = 280
+  const start = performance.now()
+  const ease = (t: number) => 1 - Math.pow(1 - t, 3)
+
+  const step = (now: number) => {
+    const t = Math.min(1, (now - start) / duration)
+    track.scrollLeft = from + (to - from) * ease(t)
+    updateRibbonOverflow()
+    if (t < 1) {
+      ribbonAnimHandle = requestAnimationFrame(step)
+    } else {
+      ribbonAnimHandle = 0
+    }
+  }
+  ribbonAnimHandle = requestAnimationFrame(step)
+}
+
+watch(pageGroups, () => {
+  nextTick(updateRibbonOverflow)
+})
+
+useEventListener('resize', () => {
+  updateRibbonOverflow()
 })
 
 const mark = computedAsync(async () => {
@@ -278,6 +436,8 @@ watchDebounced(
       return { ...r, text }
     })
 
+    currentTerms.value = terms
+
     await nextTick()
     if (canceled) return
 
@@ -289,38 +449,63 @@ watchDebounced(
       })
     })
 
-    const excerpts = el.value?.querySelectorAll('.result .excerpt') ?? []
-    const scrollMutations: { element: HTMLElement; scrollTop: number }[] = []
-    for (let i = 0; i < excerpts.length; i++) {
-      const excerptElement = excerpts[i] as HTMLElement
+    await nextTick()
+    await nextFrame()
+    if (canceled) return
 
-      const markNode = excerptElement.querySelector(
-        'mark[data-markjs="true"]'
-      ) as HTMLElement | null
-      if (markNode) {
-        const markRect = markNode.getBoundingClientRect()
-        const excerptRect = excerptElement.getBoundingClientRect()
-
-        const relativeTop = (markRect.top - excerptRect.top) +
-          excerptElement.scrollTop
-        const targetScrollTop = relativeTop -
-          (excerptElement.clientHeight / 2) + (markRect.height / 2)
-
-        scrollMutations.push({
-          element: excerptElement,
-          scrollTop: targetScrollTop
-        })
-      }
-    }
-    for (let i = 0; i < scrollMutations.length; i++) {
-      scrollMutations[i].element.scrollTop = scrollMutations[i].scrollTop
-    }
     if (resultsEl.value) {
       resultsEl.value.scrollTop = 0
     }
+    centerExcerptsUntilSettled()
   },
   { debounce: 180, immediate: true }
 )
+
+function centerExcerpts() {
+  const excerpts = el.value?.querySelectorAll('.result .excerpt') ?? []
+  for (let i = 0; i < excerpts.length; i++) {
+    const excerptElement = excerpts[i] as HTMLElement
+
+    const markNode = excerptElement.querySelector(
+      'mark[data-markjs="true"]'
+    ) as HTMLElement | null
+    if (!markNode) continue
+
+    const viewportHeight =
+      Number.parseFloat(getComputedStyle(excerptElement).maxHeight) || 84
+
+    let offset = 0
+    let node: HTMLElement | null = markNode
+    while (node && node !== excerptElement) {
+      offset += node.offsetTop
+      node = node.offsetParent as HTMLElement | null
+    }
+
+    const targetScrollTop = offset - viewportHeight / 2 + markNode.offsetHeight / 2
+    excerptElement.scrollTop = Math.max(0, targetScrollTop)
+  }
+}
+
+let centerHandle = 0
+
+function centerExcerptsUntilSettled(duration = 450) {
+  if (centerHandle) cancelAnimationFrame(centerHandle)
+  const start = performance.now()
+  const tick = () => {
+    centerExcerpts()
+    if (performance.now() - start < duration) {
+      centerHandle = requestAnimationFrame(tick)
+    } else {
+      centerHandle = 0
+    }
+  }
+  centerHandle = requestAnimationFrame(tick)
+}
+
+onBeforeUnmount(() => {
+  if (centerHandle) cancelAnimationFrame(centerHandle)
+  if (ribbonAnimHandle) cancelAnimationFrame(ribbonAnimHandle)
+})
 
 const excerptCache = new LRUCache<string, unknown>(60) // 60 excerpts
 
@@ -420,7 +605,7 @@ function onSearchBarClick(event: PointerEvent) {
 const selectedIndex = ref(-1)
 const disableMouseOver = ref(true)
 
-watch(results, (r) => {
+watch(filteredResults, (r) => {
   selectedIndex.value = r.length ? 0 : -1
   scrollToSelectedResult()
 })
@@ -436,7 +621,7 @@ onKeyStroke('ArrowUp', (event) => {
   event.preventDefault()
   selectedIndex.value--
   if (selectedIndex.value < 0) {
-    selectedIndex.value = results.value.length - 1
+    selectedIndex.value = filteredResults.value.length - 1
   }
   disableMouseOver.value = true
   scrollToSelectedResult()
@@ -445,7 +630,7 @@ onKeyStroke('ArrowUp', (event) => {
 onKeyStroke('ArrowDown', (event) => {
   event.preventDefault()
   selectedIndex.value++
-  if (selectedIndex.value >= results.value.length + 1) {
+  if (selectedIndex.value >= filteredResults.value.length + 1) {
     selectedIndex.value = 0
   }
   disableMouseOver.value = true
@@ -470,7 +655,7 @@ onKeyStroke('Enter', (e) => {
     return
   }
 
-  const selectedPackage = results.value[index]
+  const selectedPackage = filteredResults.value[index]
   if (e.target instanceof HTMLInputElement && !selectedPackage) {
     e.preventDefault()
     return
@@ -547,7 +732,10 @@ watch(
 
     nextTick(() => {
       isLocked.value = true
-      nextTick().then(() => activate())
+      nextTick().then(() => {
+        activate()
+        updateRibbonOverflow()
+      })
     })
   }
 )
@@ -711,6 +899,63 @@ function onMouseMove(e: MouseEvent) {
             </div>
           </motion.form>
 
+          <AnimatePresence>
+            <motion.div
+              v-if="pageGroups.length > 1"
+              layout="position"
+              class="page-ribbon"
+              :initial="{ opacity: 0, height: 0 }"
+              :animate="{ opacity: 1, height: 'auto' }"
+              :exit="{ opacity: 0, height: 0 }"
+              :transition="{ duration: 0.4, ease: [0.16, 1, 0.3, 1] }"
+            >
+              <button
+                v-if="ribbonCanScrollLeft"
+                type="button"
+                class="page-ribbon-arrow left"
+                aria-label="Scroll filters left"
+                @click="scrollRibbon(-1)"
+              >
+                <ChevronRight :size="18" stroke-width="1.75" />
+              </button>
+              <div
+                ref="ribbonTrack"
+                class="page-ribbon-track"
+                @scroll="updateRibbonOverflow"
+              >
+                <button
+                  type="button"
+                  class="page-pill"
+                  :class="{ active: activePageFilter === null }"
+                  @click="setPageFilter(null)"
+                >
+                  All
+                  <span class="page-pill-count">{{ results.length }}</span>
+                </button>
+                <button
+                  v-for="group in pageGroups"
+                  :key="group.key"
+                  type="button"
+                  class="page-pill"
+                  :class="{ active: activePageFilter === group.key }"
+                  @click="setPageFilter(group.key)"
+                >
+                  <span class="page-pill-label">{{ group.label }}</span>
+                  <span class="page-pill-count">{{ group.count }}</span>
+                </button>
+              </div>
+              <button
+                v-if="ribbonCanScrollRight"
+                type="button"
+                class="page-ribbon-arrow right"
+                aria-label="Scroll filters right"
+                @click="scrollRibbon(1)"
+              >
+                <ChevronRight :size="18" stroke-width="1.75" />
+              </button>
+            </motion.div>
+          </AnimatePresence>
+
           <ul
             ref="resultsEl"
             :id="results?.length ? 'localsearch-list' : undefined"
@@ -722,7 +967,7 @@ function onMouseMove(e: MouseEvent) {
             <AnimatePresence>
               <motion.div
                 class="flex flex-col justify-center items-center h-47.5 gap-2 font-medium text-sm text-gray-500 dark:text-gray-300 m-auto md:mt-10 md:mb-6 opacity-90"
-                v-if="!filterText || (filterText && !results.length)"
+                v-if="!filterText || (filterText && !filteredResults.length)"
                 :initial="{
                   opacity: 0
                 }"
@@ -749,7 +994,7 @@ function onMouseMove(e: MouseEvent) {
                   src="/asset/smolame.png"
                   alt="Smol ame"
                 />
-                <h1 v-if="filterText && !results.length">
+                <h1 v-if="filterText && !filteredResults.length">
                   Couldn't find anything, try again?
                 </h1>
                 <h1 v-else>Looking for something?</h1>
@@ -758,7 +1003,7 @@ function onMouseMove(e: MouseEvent) {
 
             <AnimatePresence>
               <motion.li
-                v-for="(p, index) in results"
+                v-for="(p, index) in filteredResults"
                 :key="p.id"
                 layout
                 class="result-layout"
@@ -955,6 +1200,130 @@ function onMouseMove(e: MouseEvent) {
 
 .search-bar:focus-within {
   border-color: var(--vp-c-brand-1);
+}
+
+.page-ribbon {
+  display: block;
+  padding: 12px 0 4px;
+  padding-inline: calc(var(--spacing) * 3);
+  position: relative;
+  min-width: 0;
+  flex: none;
+}
+
+.page-ribbon-track {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 8px;
+  min-width: 0;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  overscroll-behavior-x: contain;
+}
+
+.page-ribbon-track::-webkit-scrollbar {
+  display: none;
+  width: 0;
+  height: 0;
+}
+
+.page-ribbon-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 2;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 999px;
+  border: 1px solid var(--vp-c-divider);
+  background: var(--vp-local-search-bg, var(--vp-c-bg-soft));
+  color: var(--vp-c-text-1);
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
+  transition: color 0.15s, border-color 0.15s, background-color 0.15s;
+}
+
+.page-ribbon-arrow:hover {
+  color: var(--vp-c-brand-1);
+  border-color: var(--vp-c-brand-1);
+}
+
+.page-ribbon-arrow.right {
+  right: calc(var(--spacing) * 3);
+}
+
+.page-ribbon-arrow.left {
+  left: calc(var(--spacing) * 3);
+}
+
+.page-ribbon-arrow.left svg {
+  transform: rotate(180deg);
+}
+
+.page-pill {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 14px;
+  font-size: 0.8rem;
+  line-height: 1.2;
+  white-space: nowrap;
+  border-radius: 999px;
+  border: 1px solid var(--vp-c-divider);
+  background: var(--vp-c-bg-soft);
+  color: var(--vp-c-text-2);
+  cursor: pointer;
+  transition: color 0.15s, border-color 0.15s, background-color 0.15s;
+}
+
+.page-pill:hover {
+  color: var(--vp-c-text-1);
+  border-color: var(--vp-c-brand-1);
+}
+
+.page-pill.active {
+  color: var(--vp-c-brand-1);
+  border-color: var(--vp-c-brand-1);
+  background: rgba(86, 180, 252, 0.12);
+}
+
+.page-pill-label {
+  max-width: 180px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.page-pill-count {
+  font-variant-numeric: tabular-nums;
+  font-size: 0.7rem;
+  padding: 1px 6px;
+  border-radius: 999px;
+  background: rgba(128, 128, 128, 0.15);
+  color: inherit;
+}
+
+.page-pill.active .page-pill-count {
+  background: rgba(86, 180, 252, 0.22);
+}
+
+@media (max-width: 767px) {
+  .page-ribbon {
+    padding: 14px 0 4px;
+  }
+
+  .page-pill {
+    padding: 9px 14px;
+    font-size: 0.82rem;
+    background: var(--vp-c-bg-elv, var(--vp-c-bg-soft));
+    border-color: var(--vp-c-divider);
+    color: var(--vp-c-text-1);
+  }
 }
 
 .local-search-icon {
