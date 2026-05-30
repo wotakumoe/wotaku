@@ -16,9 +16,9 @@ Transcoding means converting/encoding audio files from one format to another. In
 ## The Process
 
 ::: danger Read before transcoding {open}
-- Audio can't be legitimately transcoded to higher quality since you can't generate new details after compression has been applied. That's why you shouldn't transcode
-  -  lossy into another lossy because you will lose more details during transcoding
-  -  lossy into lossless since it will be just a waste of space & no audio quality improvement.
+Audio can't be legitimately transcoded to higher quality since you can't generate new details after compression has been applied. That's why you shouldn't transcode
+- Lossy -> lossy because you will lose more details during transcoding
+- Lossy -> lossless since it will be just a waste of space & no audio quality improvement.
 :::
 
 ### fre:ac
