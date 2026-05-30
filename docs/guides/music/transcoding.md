@@ -41,7 +41,6 @@ Transcoding means converting/encoding audio files from one format to another. In
 
 :::steps
 1. Download and install [**Foobar2000**](https://www.foobar2000.org/) & [**encoder pack**](https://www.foobar2000.org/encoderpack).
-   - (Optional) Add [**Georgia-ReBORN**](https://github.com/TT-ReBORN/Georgia-ReBORN) theme.
 2. Add your music library in the foobar2000.
 3. Now follow the video below
 :::

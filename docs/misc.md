@@ -134,6 +134,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | Seiyuu / Voice Actor | [Maumau ☆ Anime Viewing Record](https://www.mau2.com/) :s::ljp: |
 | ^^ | [Anime Hack](https://anime.eiga.com/person/) :ljp: |
 | ^^ | [AVAC.moe](https://avac.moe/index.php) :mal: |
+| ^^ | [Seiyuu.moe](https://seiyuu.moe/) :mal: |
 | ^^ | [Seiyuu Comparison](https://chiaki.site/?/tools/seiyuu_comparison) :al: ||Chiaki|| |
 | ^^ | [Seiyuu Database](http://www.usagi.org/doi/seiyuu/index.html) |
 | ^^ | [Behind The Voice Actors](https://www.behindthevoiceactors.com/) <tooltip>Focuses on English VAs more.</tooltip> |
@@ -270,7 +271,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | **Blog / Interview** | [BehindTheManga](https://www.behindthemanga.com/) |  
 | ^^ | [Manga Bookshelf](https://mangabookshelf.com/) |  
 | ^^ | [Mangasplaining](https://www.mangasplaining.com/) [:x:](https://x.com/mangasplaining) |
-| ^^ | :prev: [Mangasplaining Extra](https://mangasplaining.substack.com/) |
+| ^^ | :prev: [Mangasplaining Extra](https://mangasplaining.substack.com/) :fm: |
 | ^^ | [TheOASG](https://www.theoasg.com/) [:x:](https://x.com/TheOASG) |  
 
 

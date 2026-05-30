@@ -53,9 +53,9 @@ outline: 1
 
 ::: scrapetable
 - 1anime : (Anime Nexus, nexus), (AnimePahe, pahe), (AniNeko, gogo), (Re:ANIME, Zen), (AniZone, Zone);
-- Animetsu : (AnimeGG, Meg), (AnimePahe, Pahe), (AniNeko, Dio);
+- Animetsu : (AnimeGG, Meg), (AnimePahe, Pahe), (AniNeko, Dio & Kite);
 - AnimeX : (123anime, wave, SD), (Animehub, shiro, SD), (AnimePahe, uwu), (Anibd, beep), (AniNeko, mimi), (AllManga, miku & mochi), (AnimeOnsen, vee, SD), (Anikoto, yuki);
-- Miruro : (AnimeDunya, dune, SD), (AnimePahe, kiwi & telli), (KickAssAnime, hop & kuz), (AllManga, ally & nun), (Anikoto, bun & bee);
+- Miruro : (AnimeDunya, dune, SD), (AnimeGG, moo & cog), (AnimePahe, kiwi & telli), (AniNeko, bonk & twin), (KickAssAnime, hop & kuz), (AllManga, ally & nun), (Anikoto, bun & bee);
 :::
 
 </Collapsible>
@@ -429,6 +429,7 @@ Some of the series may not be available depending on your region.
 
 <Collapsible title="Utility sites">
 
+- [FlixHop](https://flixhop.com/)
 - [JustWatch](https://www.justwatch.com/) :s: [||JP||](https://www.justwatch.com/jp)
 - [Simkl](https://simkl.com/)
 - [uNoGS](https://unogs.com/)
