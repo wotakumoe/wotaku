@@ -55,7 +55,7 @@ outline: 1
 - 1anime : (Anime Nexus, nexus), (AnimePahe, pahe), (AniNeko, gogo), (Re:ANIME, Zen), (AniZone, Zone);
 - Animetsu : (AnimeGG, Meg), (AnimePahe, Pahe), (AniNeko, Dio & Kite);
 - AnimeX : (123anime, wave, SD), (Animehub, shiro, SD), (AnimePahe, uwu), (Anibd, beep), (AniNeko, mimi), (AllManga, miku & mochi), (AnimeOnsen, vee, SD), (Anikoto, yuki);
-- Miruro : (AnimeDunya, dune, SD), (AnimeGG, moo & cog), (AnimePahe, kiwi & telli), (AniNeko, bonk & twin), (KickAssAnime, hop & kuz), (AllManga, ally & nun), (Anikoto, bun & bee);
+- Miruro : (AnimeDunya, dune, SD), (AnimeGG, cog & moo), (AnimePahe, kiwi & telli), (AniNeko, bonk & twin), (KickAssAnime, hop & kuz), (AllManga, ally & nun), (Anikoto, bun & bee);
 :::
 
 </Collapsible>
@@ -278,7 +278,7 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 
 | Category   | Website |
 |------------|---------|
-| **Streaming** | [Tokuzilla](https://tokuzilla.net/) :s: [:prx:](https://rentry.org/wotaxy#tokuzilla) |
+| **Streaming** | [Toku555](https://toku555.com/) |
 | ^^         | [Zokaj](https://zokaj.com/) [:alt:](https://kajzu.com/) |
 | ^^         | [Power Rangers Official](https://www.youtube.com/@PowerRangersOfficial) |
 | ^^         | [ULTRAMAN Official](https://www.youtube.com/@ULTRAMAN_OFFICIAL) |
