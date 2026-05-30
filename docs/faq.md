@@ -117,7 +117,7 @@ Rippers upload what they like, without following any specific schedule (even in 
 
 <Collapsible title="What's the best extension for mihon / tachiyomi?">
 
-Like with websites, it's also personal preference. But to us, it's [**Madokami**](/guides/manga/madokami) (in terms of quality). There are also [**Comix**](https://comix.to/), [**Kagane**](https://kagane.org/) & others.
+Like with websites, it's also personal preference. But to us, it's [**Madokami**](/guides/manga/madokami) (in terms of quality). There are also [**Kagane**](https://kagane.org/), [**Weeb Central**](https://weebcentral.com/) & others.
 
 </Collapsible>
 
