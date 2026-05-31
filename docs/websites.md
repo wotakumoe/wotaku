@@ -79,8 +79,6 @@ outline: 1
 
 <Collapsible title="Misc">
 
-### Misc
-
 | Category | Websites |
 | :--- | :--- |
 | [**One Pace Project**](https://linktr.ee/onepaceproject) | [Official Site](https://onepace.net/en/watch) |
@@ -141,20 +139,9 @@ outline: 1
 - To remove the annoyances in JDL2, [**follow this guide**](/guides/tech/jdl)
 :::
 
-<Collapsible title="Related resources">
-
-- [Anime apps for Android](/software#anime-streaming) and [PC](/software#anime-streaming-2)
-- [Anime downloader for PC](/software#anime)
-- [Anime info sites](/misc#anime-1) and [tracking sites](/misc#general)
-- [Miscellaneous tools](/software#anime-tools) & [Extensions](/tools#anime)
-
-</Collapsible>
-
-
 ![](/banner/wmanga.webp)
 
 # Manga
-
 
 ## Online
 
@@ -206,7 +193,7 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 | [Akari Manga](https://akarimanga.dpdns.org/) [:src:](https://github.com/sn0w12/akari) | :sync: | :ps: | :sp::ls: | :cmnt: |
 | [ComiKuro](https://comikuro.to/) | :ie: | :ps: | :sp::dp::ls: | :cmnt: |
 | [Cubari Proxy](https://proxy.cubari.moe/#/)  | :msync: | :ms: | :sp::dp::ls: | :no: |
-| [Vidbox](https://vidbox.cc/manga)  | :no: | :ss: | :lsg: | :no: |
+| [Vidbox](https://vidbox.dev/manga)  | :no: | :ss: | :lsg: | :no: |
 
 ::: scrapetable
 - Akari Manga : (Atsumaru);
@@ -233,15 +220,6 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 - 4chan archives: [**Danke**](https://desuarchive.org/_/search/text/(digital)%20(danke-empire)/), [**XRA**](https://desuarchive.org/_/search/text/(digital)%20(xra-empire)/)
 - Personal sheet: [**4str0**](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13)
 :::
-
-<Collapsible title="Related resources">
-
-- [Manga apps for Android](/software#manga-readers) and [PC](/software#manga-readers-2)
-- [Manga downloader for PC](/software#manga)
-- [Manga related tools](/software#manga-tools)
-
-</Collapsible>
-
 
 ![](/banner/wnovel.webp)
 
