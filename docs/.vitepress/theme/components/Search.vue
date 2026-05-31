@@ -39,7 +39,8 @@ import {
   Delete,
   File,
   Hash,
-  Regex,
+  Locate,
+  LocateOff,
   TextAlignStart
 } from 'lucide-vue-next'
 import Mark from 'mark.js/dist/mark.es6.js'
@@ -111,12 +112,6 @@ const searchIndex = computedAsync(async () =>
         fields: ['title', 'titles', 'text'],
         storeFields: ['title', 'titles'],
         searchOptions: {
-          // Conditional fuzzy search based on matchExact value
-          fuzzy: matchExact.value ? false : 0.07,
-          // Conditional prefix search based on matchExact value
-          prefix: matchExact.value ? false : (term) => term.length > 3,
-          // Disable max fuzzy if match exact is enabled
-          maxFuzzy: matchExact.value ? 0 : 1,
           boost: { title: 10, titles: 4, text: 1 },
           ...(theme.value.search?.provider === 'local' &&
             theme.value.search.options?.miniSearch?.searchOptions)
@@ -147,7 +142,7 @@ const showDetailedList = useLocalStorage(
 
 const matchExact = useLocalStorage(
   'vitepress:local-search-match-exact',
-  false // disabled by default
+  true // enabled by default
 )
 
 const disableDetailedView = computed(() => {
@@ -373,8 +368,8 @@ const mark = computedAsync(async () => {
 const cache = new LRUCache<string, Map<string, string>>(16) // 16 files
 
 watchDebounced(
-  () => [searchIndex.value, filterText.value, showDetailedList.value] as const,
-  async ([index, filterTextValue, showDetailedListValue], old, onCleanup) => {
+  () => [searchIndex.value, filterText.value, showDetailedList.value, matchExact.value] as const,
+  async ([index, filterTextValue, showDetailedListValue, matchExactValue], old, onCleanup) => {
     if (old?.[0] !== index) {
       // in case of hmr
       cache.clear()
@@ -387,12 +382,20 @@ watchDebounced(
 
     if (!index) return
 
+    // Dynamic search options based on matchExact toggle
+    const dynamicSearchOptions = {
+      fuzzy: matchExactValue ? false : (0.07 as number | false),
+      prefix: matchExactValue ? false : (term: string) => term.length > 3,
+      maxFuzzy: matchExactValue ? 0 : 1,
+    }
+
     // Search
-    const ranked = index.search(filterTextValue) as (SearchResult & Result)[]
+    const ranked = index.search(filterTextValue, dynamicSearchOptions) as (SearchResult & Result)[]
 
     // Guaranteed heading matches: any section whose own heading (title)
     // contains the term should always show, regardless of score or cap.
     const titleHits = index.search(filterTextValue, {
+      ...dynamicSearchOptions,
       fields: ['title']
     }) as (SearchResult & Result)[]
 
@@ -730,7 +733,7 @@ onKeyStroke('Escape', () => {
 const defaultTranslations = {
   modal: {
     displayDetails: 'Display detailed list',
-    exactMatchTitle: 'Match exact phrases',
+    exactMatchTitle: 'Exact search',
     resetButtonTitle: 'Reset search',
     backButtonTitle: 'Close search',
     noResultsText: 'No results for',
@@ -892,7 +895,8 @@ function onMouseMove(e: MouseEvent) {
                 :title="translate('modal.exactMatchTitle')"
                 @click="matchExact = !matchExact"
               >
-                <Regex :size="19" stroke-width="1.25" />
+                <Locate v-if="matchExact" :size="19" stroke-width="1.25" />
+                <LocateOff v-else :size="19" stroke-width="1.25" />
               </button>
               <button
                 class="clear-button"
