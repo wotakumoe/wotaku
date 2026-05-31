@@ -118,7 +118,7 @@ const searchIndex = computedAsync(async () =>
           prefix: matchExact.value ? false : (term) => term.length > 3,
           // Disable max fuzzy if match exact is enabled
           maxFuzzy: matchExact.value ? 0 : 1,
-          boost: { title: 4, text: 2, titles: 1 },
+          boost: { title: 10, titles: 4, text: 1 },
           ...(theme.value.search?.provider === 'local' &&
             theme.value.search.options?.miniSearch?.searchOptions)
         },
@@ -204,6 +204,34 @@ const pageMeta = (() => {
 })()
 
 const activePageFilter = ref<string | null>(null)
+
+const docOrder = computed(() => {
+  const map = new Map<string, number>()
+  const index = searchIndex.value as any
+  if (!index) return map
+  // _documentIds maps internalDocId -> original id, in insertion order.
+  const ids = index._documentIds
+  if (ids instanceof Map) {
+    let i = 0
+    for (const originalId of ids.values()) {
+      map.set(String(originalId), i++)
+    }
+  } else if (ids && typeof ids === 'object') {
+    // Some versions store it as a plain object keyed by numeric doc id.
+    const keys = Object.keys(ids)
+      .map(Number)
+      .sort((a, b) => a - b)
+    let i = 0
+    for (const k of keys) {
+      map.set(String(ids[k]), i++)
+    }
+  }
+  return map
+})
+
+function getDocOrder(id: string) {
+  return docOrder.value.get(id) ?? Number.MAX_SAFE_INTEGER
+}
 
 function getPageKey(id: string) {
   return id.split('#')[0].replace(/\/$/, '')
@@ -361,9 +389,20 @@ watchDebounced(
     if (!index) return
 
     // Search
-    const _result = index
-      .search(filterTextValue)
-      .slice(0, 16) as (SearchResult & Result)[]
+    const ranked = index.search(filterTextValue) as (SearchResult & Result)[]
+
+    // Guaranteed heading matches: any section whose own heading (title)
+    // contains the term should always show, regardless of score or cap.
+    const titleHits = index.search(filterTextValue, {
+      fields: ['title']
+    }) as (SearchResult & Result)[]
+
+    const top = ranked.slice(0, 50)
+    const seen = new Set(top.map((r) => r.id))
+    const _result = [
+      ...top,
+      ...titleHits.filter((r) => !seen.has(r.id))
+    ] as (SearchResult & Result)[]
     enableNoResults.value = true
 
     if (!_result) {
@@ -426,15 +465,22 @@ watchDebounced(
 
     const terms = new Set<string>()
 
-    results.value = _result.map((r) => {
-      const [id, anchor] = r.id.split('#')
-      const map = cache.get(`${id}\n${filterTextValue}`)
-      const text = map?.get(anchor) ?? ''
-      for (const term in r.match) {
-        terms.add(term)
-      }
-      return { ...r, text }
-    })
+    results.value = _result
+      .map((r) => {
+        const [id, anchor] = r.id.split('#')
+        const map = cache.get(`${id}\n${filterTextValue}`)
+        const text = map?.get(anchor) ?? ''
+        for (const term in r.match) {
+          terms.add(term)
+        }
+        return { ...r, text }
+      })
+      .sort((a, b) => {
+        const pageDiff =
+          getPageOrder(getPageKey(a.id)) - getPageOrder(getPageKey(b.id))
+        if (pageDiff !== 0) return pageDiff
+        return getDocOrder(a.id) - getDocOrder(b.id)
+      })
 
     currentTerms.value = terms
 
