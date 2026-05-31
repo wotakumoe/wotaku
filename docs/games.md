@@ -65,6 +65,7 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 
 == Game-specific
 - [Arks-Layer](https://arks-layer.com/index.php)
+- [LunarCast Replay Database](http://replay.lunarcast.net/)
 - [Megami Tensei Fusion Tools](https://aqiu384.github.io/megaten-fusion-tool/home)
 - [Sekai Viewer](https://sekai.best/) [:src:](https://github.com/Sekai-World/sekai-viewer)
 - [sm64coopdx](https://sm64coopdx.com/)
