@@ -29,7 +29,6 @@ import {
   watchDebounced
 } from '@vueuse/core'
 import { useFocusTrap } from '@vueuse/integrations/useFocusTrap'
-import { AnimatePresence, motion } from 'motion-v'
 
 // @ts-ignore
 import localSearchIndex from '@localSearchIndex'
@@ -504,7 +503,7 @@ watchDebounced(
     }
     centerExcerptsUntilSettled()
   },
-  { debounce: 180, immediate: true }
+  { debounce: 80, immediate: true }
 )
 
 function centerExcerpts() {
@@ -534,18 +533,14 @@ function centerExcerpts() {
 
 let centerHandle = 0
 
-function centerExcerptsUntilSettled(duration = 450) {
+function centerExcerptsUntilSettled() {
+  // No layout animations to wait on anymore — a single pass after the
+  // DOM has painted is enough.
   if (centerHandle) cancelAnimationFrame(centerHandle)
-  const start = performance.now()
-  const tick = () => {
+  centerHandle = requestAnimationFrame(() => {
     centerExcerpts()
-    if (performance.now() - start < duration) {
-      centerHandle = requestAnimationFrame(tick)
-    } else {
-      centerHandle = 0
-    }
-  }
-  centerHandle = requestAnimationFrame(tick)
+    centerHandle = 0
+  })
 }
 
 onBeforeUnmount(() => {
@@ -824,51 +819,17 @@ function onMouseMove(e: MouseEvent) {
       class="VPLocalSearchBox"
       :class="{ 'pointer-events-none': !showSearch }"
     >
-      <AnimatePresence>
-        <motion.div
-          v-if="showSearch"
-          class="backdrop"
-          @click="showSearch = false"
-          :initial="{
-            opacity: 0
-          }"
-          :animate="{
-            opacity: 1
-          }"
-          :exit="{
-            opacity: 0
-          }"
-          :transition="{
-            duration: 0.55,
-            ease: [0.16, 1, 0.3, 1]
-          }"
-        />
-      </AnimatePresence>
+      <div
+        v-if="showSearch"
+        class="backdrop"
+        @click="showSearch = false"
+      />
 
-      <AnimatePresence>
-        <motion.div
-          v-if="showSearch"
-          layout="size"
-          class="shell"
-          :initial="{
-            opacity: 0,
-            scale: 0.9375
-          }"
-          :animate="{
-            opacity: 1,
-            scale: 1
-          }"
-          :exit="{
-            opacity: 0,
-            scale: 0.9375
-          }"
-          :transition="{
-            duration: 0.55,
-            ease: [0.16, 1, 0.3, 1]
-          }"
-        >
-          <motion.form
-            layout="position"
+      <div
+        v-if="showSearch"
+        class="shell"
+      >
+          <form
             class="search-bar"
             @pointerup="onSearchBarClick($event)"
             @submit.prevent=""
@@ -943,18 +904,12 @@ function onMouseMove(e: MouseEvent) {
                 <Delete :size="19" stroke-width="1.25" />
               </button>
             </div>
-          </motion.form>
+          </form>
 
-          <AnimatePresence>
-            <motion.div
-              v-if="pageGroups.length > 1"
-              layout="position"
-              class="page-ribbon"
-              :initial="{ opacity: 0, height: 0 }"
-              :animate="{ opacity: 1, height: 'auto' }"
-              :exit="{ opacity: 0, height: 0 }"
-              :transition="{ duration: 0.4, ease: [0.16, 1, 0.3, 1] }"
-            >
+          <div
+            v-if="pageGroups.length > 1"
+            class="page-ribbon"
+          >
               <button
                 v-if="ribbonCanScrollLeft"
                 type="button"
@@ -999,8 +954,7 @@ function onMouseMove(e: MouseEvent) {
               >
                 <ChevronRight :size="18" stroke-width="1.75" />
               </button>
-            </motion.div>
-          </AnimatePresence>
+            </div>
 
           <ul
             ref="resultsEl"
@@ -1010,31 +964,10 @@ function onMouseMove(e: MouseEvent) {
             class="results"
             @mousemove="onMouseMove"
           >
-            <AnimatePresence>
-              <motion.div
-                class="flex flex-col justify-center items-center h-47.5 gap-2 font-medium text-sm text-gray-500 dark:text-gray-300 m-auto md:mt-10 md:mb-6 opacity-90"
-                v-if="!filterText || (filterText && !filteredResults.length)"
-                :initial="{
-                  opacity: 0
-                }"
-                :animate="{
-                  opacity: 1,
-                  transition: {
-                    delay: 0.1
-                  }
-                }"
-                :exit="{
-                  opacity: 0,
-                  height: 0,
-                  transition: {
-                    duration: 0.2
-                  }
-                }"
-                :transition="{
-                  duration: 0.7,
-                  ease: [0.16, 1, 0.3, 1]
-                }"
-              >
+            <div
+              class="flex flex-col justify-center items-center h-47.5 gap-2 font-medium text-sm text-gray-500 dark:text-gray-300 m-auto md:mt-10 md:mb-6 opacity-90"
+              v-if="!filterText || (filterText && !filteredResults.length)"
+            >
                 <img
                   class="h-40 object-contain object-center -translate-x-2"
                   src="/asset/smolame.png"
@@ -1044,39 +977,15 @@ function onMouseMove(e: MouseEvent) {
                   Couldn't find anything, try again?
                 </h1>
                 <h1 v-else>Looking for something?</h1>
-              </motion.div>
-            </AnimatePresence>
+              </div>
 
-            <AnimatePresence>
-              <motion.li
+            <li
                 v-for="(p, index) in filteredResults"
                 :key="p.id"
-                layout
                 class="result-layout"
                 :id="'localsearch-item-' + (index + 1)"
                 :aria-selected="selectedIndex === index + 1 ? 'true' : 'false'"
                 role="option"
-                :initial="{
-                  opacity: 0,
-                  scale: 0.9375
-                }"
-                :animate="{
-                  opacity: 1,
-                  scale: 1
-                }"
-                :exit="{
-                  opacity: 0,
-                  scale: 0.9375,
-                  height: 0,
-                  transition: {
-                    duration: 0.25
-                  }
-                }"
-                :transition="{
-                  duration: 0.55,
-                  ease: [0.16, 1, 0.3, 1],
-                  delay: index * 0.02
-                }"
               >
                 <a
                   :href="p.id"
@@ -1118,37 +1027,22 @@ function onMouseMove(e: MouseEvent) {
                     </div>
 
                     <div v-if="showDetailedList" class="excerpt-wrapper">
-                      <motion.div
+                      <div
                         v-if="p.text"
-                        layout
                         class="excerpt"
                         inert
-                        :initial="{
-                          height: 0
-                        }"
-                        :animate="{
-                          height: '84px'
-                        }"
-                        :exit="{
-                          height: 0
-                        }"
-                        :transition="{
-                          duration: 0.4,
-                          ease: [0.16, 1, 0.3, 1]
-                        }"
                       >
                         <div class="vp-doc" v-html="p.text" />
-                      </motion.div>
+                      </div>
                       <div class="excerpt-gradient-bottom" />
                       <div class="excerpt-gradient-top" />
                     </div>
                   </div>
                 </a>
-              </motion.li>
-            </AnimatePresence>
+              </li>
           </ul>
 
-          <motion.div layout class="search-keyboard-shortcuts">
+          <div class="search-keyboard-shortcuts">
             <span>
               <kbd
                 :aria-label="translate(
@@ -1178,9 +1072,8 @@ function onMouseMove(e: MouseEvent) {
               </kbd>
               {{ translate('modal.footer.closeText') }}
             </span>
-          </motion.div>
-        </motion.div>
-      </AnimatePresence>
+          </div>
+        </div>
 
       <button v-if="!showSearch" />
     </div>
@@ -1199,8 +1092,6 @@ function onMouseMove(e: MouseEvent) {
   position: absolute;
   inset: 0;
   background: var(--vp-backdrop-bg-color);
-  transition: opacity 0.5s;
-  will-change: opacity;
 }
 
 .shell {
@@ -1215,7 +1106,6 @@ function onMouseMove(e: MouseEvent) {
   height: min-content;
   max-height: min(100vh - 128px, 900px);
   border-radius: 6px;
-  will-change: transform, opacity, height;
 }
 
 @media (max-width: 767px) {
@@ -1235,7 +1125,6 @@ function onMouseMove(e: MouseEvent) {
   align-items: center;
   padding: 0 12px;
   cursor: text;
-  will-change: height;
 }
 
 @media (max-width: 767px) {
@@ -1486,10 +1375,6 @@ function onMouseMove(e: MouseEvent) {
   overscroll-behavior: contain;
 }
 
-.result-layout {
-  will-change: transform, opacity, height;
-}
-
 .result {
   display: flex;
   align-items: center;
@@ -1553,11 +1438,11 @@ function onMouseMove(e: MouseEvent) {
 .excerpt {
   opacity: 50%;
   pointer-events: none;
+  height: 84px;
   max-height: 84px;
   overflow: hidden;
   position: relative;
   margin-top: 4px;
-  will-change: height;
 }
 
 .result.selected .excerpt {
