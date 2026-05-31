@@ -365,7 +365,82 @@ const mark = computedAsync(async () => {
   return markRaw(new Mark(resultsEl.value))
 }, null)
 
-const cache = new LRUCache<string, Map<string, string>>(16) // 16 files
+const cache = new LRUCache<string, Map<string, string>>(120)
+
+const inFlightExcerpts = new Map<string, Promise<void>>()
+
+const EAGER_EXCERPTS = 15
+
+function buildDocExcerpt(
+  docId: string,
+  filterTextValue: string
+): Promise<void> {
+  const cacheId = `${docId}\n${filterTextValue}`
+  if (cache.get(cacheId)) return Promise.resolve()
+  const pending = inFlightExcerpts.get(cacheId)
+  if (pending) return pending
+
+  const job = (async () => {
+    const { mod } = await fetchExcerpt(docId)
+    if (cache.get(cacheId)) return
+
+    const comp = (mod as any).default ?? mod
+    if (!(comp?.render || comp?.setup)) return // nothing renderable; don't cache
+
+    const map = new Map<string, string>()
+    const app = createApp(comp)
+    app.config.warnHandler = () => {}
+    enhanceAppWithTabs(app)
+    app.provide(dataSymbol, vitePressData)
+    Object.defineProperties(app.config.globalProperties, {
+      $frontmatter: {
+        get() {
+          return vitePressData.frontmatter.value
+        }
+      },
+      $params: {
+        get() {
+          return vitePressData.page.value.params
+        }
+      }
+    })
+    const div = document.createElement('div')
+    try {
+      app.mount(div)
+      await selectExcerptTabs(div, filterTextValue)
+      const headings = div.querySelectorAll('h1, h2, h3, h4, h5, h6')
+      headings.forEach((heading) => {
+        const href = heading.querySelector('a')?.getAttribute('href')
+        const anchor = href?.startsWith('#') && href.slice(1)
+        if (!anchor) return
+        let html = ''
+        let node = heading as Element
+        while (
+          (node = node.nextElementSibling!) &&
+          !/^h[1-6]$/i.test(node.tagName)
+        ) {
+          html += (node as HTMLElement).outerHTML
+        }
+        map.set(anchor, html)
+      })
+    } catch (e) {
+      console.error('[search] excerpt render failed for', docId, e)
+    } finally {
+      try {
+        app.unmount()
+      } catch {
+        /* ignore */
+      }
+    }
+    cache.set(cacheId, map)
+  })()
+
+  inFlightExcerpts.set(cacheId, job)
+  job.finally(() => {
+    if (inFlightExcerpts.get(cacheId) === job) inFlightExcerpts.delete(cacheId)
+  })
+  return job
+}
 
 watchDebounced(
   () => [searchIndex.value, filterText.value, showDetailedList.value, matchExact.value] as const,
@@ -384,119 +459,90 @@ watchDebounced(
 
     // Dynamic search options based on matchExact toggle
     const dynamicSearchOptions = {
-      fuzzy: matchExactValue ? false : (0.07 as number | false),
+      fuzzy: matchExactValue ? false : (0.3 as number | false),
       prefix: matchExactValue ? false : (term: string) => term.length > 3,
       maxFuzzy: matchExactValue ? 0 : 1,
+      boost: { title: 10, titles: 4, text: 1 },
     }
 
     // Search
     const ranked = index.search(filterTextValue, dynamicSearchOptions) as (SearchResult & Result)[]
 
-    // Guaranteed heading matches: any section whose own heading (title)
-    // contains the term should always show, regardless of score or cap.
-    const titleHits = index.search(filterTextValue, {
-      ...dynamicSearchOptions,
-      fields: ['title']
-    }) as (SearchResult & Result)[]
-
     const top = ranked.slice(0, 50)
     const seen = new Set(top.map((r) => r.id))
-    const _result = [
-      ...top,
-      ...titleHits.filter((r) => !seen.has(r.id))
-    ] as (SearchResult & Result)[]
+    const titleHits = ranked.filter(
+      (r) => !seen.has(r.id) && r.match && Object.keys(r.match).length > 0
+    )
+    const _result = [...top, ...titleHits] as (SearchResult & Result)[]
     enableNoResults.value = true
 
-    if (!_result) {
+    if (!_result.length) {
       results.value = []
       return
     }
 
-    // Highlighting
-    const mods = showDetailedListValue
-      ? await Promise.all(_result.map((r) => fetchExcerpt(r.id)))
-      : []
-    if (canceled) return
-    for (const { id, mod } of mods) {
-      const mapId = id.slice(0, id.indexOf('#'))
-      const cacheId = `${mapId}\n${filterTextValue}`
-      let map = cache.get(cacheId)
-      if (map) continue
-      map = new Map()
-      cache.set(cacheId, map)
-      const comp = mod.default ?? mod
-      if (comp?.render || comp?.setup) {
-        const app = createApp(comp)
-        // Silence warnings about missing components
-        app.config.warnHandler = () => {}
-        enhanceAppWithTabs(app)
-        app.provide(dataSymbol, vitePressData)
-        Object.defineProperties(app.config.globalProperties, {
-          $frontmatter: {
-            get() {
-              return vitePressData.frontmatter.value
-            }
-          },
-          $params: {
-            get() {
-              return vitePressData.page.value.params
-            }
+    // Collect highlight terms up front (cheap — no rendering needed).
+    const terms = new Set<string>()
+    for (const r of _result) {
+      for (const term in r.match) terms.add(term)
+    }
+    currentTerms.value = terms
+
+    const toRows = (list: (SearchResult & Result)[]) =>
+      list
+        .map((r) => {
+          const [id, anchor] = r.id.split('#')
+          const map = cache.get(`${id}\n${filterTextValue}`)
+          return { ...r, text: map?.get(anchor) ?? '' }
+        })
+        .sort((a, b) => {
+          const pageDiff =
+            getPageOrder(getPageKey(a.id)) - getPageOrder(getPageKey(b.id))
+          if (pageDiff !== 0) return pageDiff
+          return getDocOrder(a.id) - getDocOrder(b.id)
+        })
+
+    const highlight = () =>
+      new Promise<void>((resolve) => {
+        if (!terms.size || !mark.value) {
+          resolve()
+          return
+        }
+        mark.value.unmark({
+          done: () => {
+            mark.value?.markRegExp(formMarkRegex(terms), {
+              done: () => resolve()
+            })
           }
         })
-        const div = document.createElement('div')
-        app.mount(div)
-        await selectExcerptTabs(div, filterTextValue)
-        const headings = div.querySelectorAll('h1, h2, h3, h4, h5, h6')
-        headings.forEach((el) => {
-          const href = el.querySelector('a')?.getAttribute('href')
-          const anchor = href?.startsWith('#') && href.slice(1)
-          if (!anchor) return
-          let html = ''
-          while (
-            (el = el.nextElementSibling!) &&
-            !/^h[1-6]$/i.test(el.tagName)
-          ) {
-            html += el.outerHTML
-          }
-          map!.set(anchor, html)
-        })
-        app.unmount()
+      })
+
+    const docOrderList: string[] = []
+    const seenDocs = new Set<string>()
+    for (const r of _result) {
+      const docId = r.id.slice(0, r.id.indexOf('#'))
+      if (!seenDocs.has(docId)) {
+        seenDocs.add(docId)
+        docOrderList.push(docId)
       }
+    }
+
+    if (showDetailedListValue) {
+      const eagerDocs = new Set<string>()
+      for (const r of _result.slice(0, EAGER_EXCERPTS)) {
+        eagerDocs.add(r.id.slice(0, r.id.indexOf('#')))
+      }
+      await Promise.all(
+        [...eagerDocs].map((docId) => buildDocExcerpt(docId, filterTextValue))
+      )
       if (canceled) return
     }
 
-    const terms = new Set<string>()
-
-    results.value = _result
-      .map((r) => {
-        const [id, anchor] = r.id.split('#')
-        const map = cache.get(`${id}\n${filterTextValue}`)
-        const text = map?.get(anchor) ?? ''
-        for (const term in r.match) {
-          terms.add(term)
-        }
-        return { ...r, text }
-      })
-      .sort((a, b) => {
-        const pageDiff =
-          getPageOrder(getPageKey(a.id)) - getPageOrder(getPageKey(b.id))
-        if (pageDiff !== 0) return pageDiff
-        return getDocOrder(a.id) - getDocOrder(b.id)
-      })
-
-    currentTerms.value = terms
+    results.value = toRows(_result)
 
     await nextTick()
     if (canceled) return
-
-    await new Promise((r) => {
-      mark.value?.unmark({
-        done: () => {
-          mark.value?.markRegExp(formMarkRegex(terms), { done: r })
-        }
-      })
-    })
-
+    await highlight()
     await nextTick()
     await nextFrame()
     if (canceled) return
@@ -505,6 +551,30 @@ watchDebounced(
       resultsEl.value.scrollTop = 0
     }
     centerExcerptsUntilSettled()
+
+    if (showDetailedListValue) {
+      const built = new Set<string>()
+      for (const r of _result.slice(0, EAGER_EXCERPTS)) {
+        built.add(r.id.slice(0, r.id.indexOf('#')))
+      }
+      const remaining = docOrderList.filter((d) => !built.has(d))
+      if (remaining.length) {
+        for (const docId of remaining) {
+          await buildDocExcerpt(docId, filterTextValue)
+          if (canceled) return
+          await nextFrame()
+          if (canceled) return
+        }
+        results.value = toRows(_result)
+        await nextTick()
+        if (canceled) return
+        await highlight()
+        await nextTick()
+        await nextFrame()
+        if (canceled) return
+        centerExcerptsUntilSettled()
+      }
+    }
   },
   { debounce: 80, immediate: true }
 )
@@ -551,18 +621,21 @@ onBeforeUnmount(() => {
   if (ribbonAnimHandle) cancelAnimationFrame(ribbonAnimHandle)
 })
 
-const excerptCache = new LRUCache<string, unknown>(60) // 60 excerpts
+const excerptCache = new LRUCache<string, unknown>(24)
 
 async function fetchExcerpt(id: string) {
-  const cache = excerptCache.get(id)
-  if (cache) return { id, mod: cache }
+  const hashIndex = id.indexOf('#')
+  const docId = hashIndex === -1 ? id : id.slice(0, hashIndex)
 
-  const file = pathToFile(id.slice(0, id.indexOf('#')))
+  const cached = excerptCache.get(docId)
+  if (cached) return { id, mod: cached }
+
+  const file = pathToFile(docId)
   try {
     if (!file) throw new Error(`Cannot find file for id: ${id}`)
     const mod = await import(/*@vite-ignore*/ file)
 
-    excerptCache.set(id, mod)
+    excerptCache.set(docId, mod)
 
     return { id, mod }
   } catch (e) {
