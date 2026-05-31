@@ -387,41 +387,22 @@ watchDebounced(
 
     if (!index) return
 
-    // For URL queries, search only the `urls` field with the whole query as a
-    // single token, so a pasted URL matches exactly instead of degrading into
-    // partial word matches. The `urls` field is populated by the _render hook.
-    const isUrlQuery = /^\s*https?:\/\/\S+\s*$/i.test(filterTextValue)
+    // Search
+    const ranked = index.search(filterTextValue) as (SearchResult & Result)[]
 
-    let _result: (SearchResult & Result)[]
+    // Guaranteed heading matches: any section whose own heading (title)
+    // contains the term should always show, regardless of score or cap.
+    const titleHits = index.search(filterTextValue, {
+      fields: ['title']
+    }) as (SearchResult & Result)[]
 
-    if (isUrlQuery) {
-      const q = filterTextValue.trim()
-      _result = index.search(q, {
-        fields: ['urls'],
-        tokenize: (text: string) => [text.trim()],
-        processTerm: (term: string) => term,
-        combineWith: 'AND',
-        fuzzy: false,
-        prefix: false
-      }).slice(0, 50) as (SearchResult & Result)[]
-      enableNoResults.value = true
-    } else {
-      const ranked = index.search(filterTextValue) as (SearchResult & Result)[]
-
-      // Guaranteed heading matches: any section whose own heading (title)
-      // contains the term should always show, regardless of score or cap.
-      const titleHits = index.search(filterTextValue, {
-        fields: ['title']
-      }) as (SearchResult & Result)[]
-
-      const top = ranked.slice(0, 50)
-      const seen = new Set(top.map((r) => r.id))
-      _result = [
-        ...top,
-        ...titleHits.filter((r) => !seen.has(r.id))
-      ] as (SearchResult & Result)[]
-      enableNoResults.value = true
-    }
+    const top = ranked.slice(0, 50)
+    const seen = new Set(top.map((r) => r.id))
+    const _result = [
+      ...top,
+      ...titleHits.filter((r) => !seen.has(r.id))
+    ] as (SearchResult & Result)[]
+    enableNoResults.value = true
 
     if (!_result) {
       results.value = []
@@ -1471,12 +1452,6 @@ function onMouseMove(e: MouseEvent) {
 .excerpt :deep(*) {
   font-size: 0.8rem !important;
   line-height: 130% !important;
-}
-
-/* Keep the injected URL index out of excerpts. */
-.excerpt :deep(.search-url-index),
-:deep(.search-url-index) {
-  display: none !important;
 }
 
 .titles :deep(mark),

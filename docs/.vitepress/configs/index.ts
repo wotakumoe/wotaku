@@ -28,9 +28,6 @@ const GIT_COMMIT = process.env.NODE_ENV === 'development'
       .then((result) => result.stdout.trim())) ??
     'dev')
 
-// Default term splitter, used for every field except the whole-URL `urls` field.
-const SPACE_OR_PUNCT = /[\n\r\p{Z}\p{P}]+/u
-
 export const shared: UserConfig<DefaultTheme.Config> = {
   ...siteConfig,
   transformHead: async (context) => generateMeta(context, hostname),
@@ -47,50 +44,9 @@ export const shared: UserConfig<DefaultTheme.Config> = {
     search: {
       options: {
         miniSearch: {
-          // Dedicated `urls` field: each URL is one whole token so a pasted
-          // URL matches exactly. Other fields keep default behaviour.
-          options: {
-            fields: ['title', 'titles', 'text', 'urls'],
-            storeFields: ['title', 'titles'],
-
-            extractField(document, fieldName) {
-              if (fieldName === 'urls') {
-                const html = document.text ?? ''
-                const out = []
-                const re = /data-search-urls="([^"]*)"/g
-                let m
-                while ((m = re.exec(html))) {
-                  out.push(
-                    m[1]
-                      .replace(/&#10;/g, '\n')
-                      .replace(/&quot;/g, '"')
-                      .replace(/&lt;/g, '<')
-                      .replace(/&gt;/g, '>')
-                      .replace(/&amp;/g, '&')
-                  )
-                }
-                return out.join('\n')
-              }
-              return document[fieldName] ?? ''
-            },
-
-            tokenize(text, fieldName) {
-              if (fieldName === 'urls') {
-                return text.split('\n').map((u) => u.trim()).filter(Boolean)
-              }
-              return text.split(SPACE_OR_PUNCT).filter(Boolean)
-            },
-
-            processTerm(term, fieldName) {
-              if (fieldName === 'urls') return term || false
-              return term.toLowerCase() || false
-            }
-          },
-
           searchOptions: {
             combineWith: 'AND',
             fuzzy: false,
-            boost: { title: 4, titles: 2, text: 1, urls: 5 },
             // @ts-ignore
             boostDocument: (
               _,
@@ -110,34 +66,7 @@ export const shared: UserConfig<DefaultTheme.Config> = {
             }
           }
         },
-        detailedView: true,
-
-        // Inject every URL from the page source into the rendered HTML so the
-        // `urls` field above can index them. Build-time only.
-        // Note: defining _render makes us responsible for the `search: false`
-        // frontmatter opt-out, checked after renderAsync (env isn't ready before).
-        async _render(src, env, md) {
-          const html = await md.renderAsync(src, env)
-          if (env.frontmatter?.search === false) return ''
-
-          const urls = new Set<string>()
-          const re = /https?:\/\/[^\s)<>'"`\]]+/g
-          let m: RegExpExecArray | null
-          while ((m = re.exec(src))) {
-            urls.add(m[0].replace(/[).,]+$/, ''))
-          }
-          if (!urls.size) return html
-
-          const blob = [...urls]
-            .join('\n')
-            .replace(/&/g, '&amp;')
-            .replace(/"/g, '&quot;')
-            .replace(/</g, '&lt;')
-            .replace(/>/g, '&gt;')
-            .replace(/\n/g, '&#10;')
-
-          return `${html}\n<span class="search-url-index" data-search-urls="${blob}" hidden></span>`
-        }
+        detailedView: true
       },
       provider: 'local'
     },
