@@ -159,7 +159,7 @@ The quality of the anime file depends on the [**source**](/glossary/anime#source
 
 <br>
 
-On the other hand, aggregators like [**AnimeKai**](https://animekai.to/home), [**KickassAnime**](https://kaa.lt/) & [**AniZone**](https://anizone.to/) re-encode them further. They sacrifice some of the quality in favor of smaller file sizes, thereby maintaining a smoother user experience on their sites.
+On the other hand, aggregators like [**KickassAnime**](https://kaa.lt/) & [**AniZone**](https://anizone.to/) re-encode them further. They sacrifice some of the quality in favor of smaller file sizes, thereby maintaining a smoother user experience on their sites.
 
 <br>
 
