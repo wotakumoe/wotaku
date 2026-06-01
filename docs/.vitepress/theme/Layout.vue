@@ -157,6 +157,13 @@ const openCollapsibles = async (target: HTMLElement) => {
   if (tagName.length === 2 && tagName[0] === 'H') {
     const level = +tagName[1]
     if (level >= 1 && level <= 6) {
+      const terms = getSearchTerms(searchQuery)
+      const detailsContainsTerms = (d: HTMLElement) => {
+        if (!terms.length) return false
+        const text = (d.textContent ?? '').toLowerCase()
+        return terms.every((term) => text.includes(term))
+      }
+
       let sibling = target.nextElementSibling
 
       while (sibling) {
@@ -167,14 +174,18 @@ const openCollapsibles = async (target: HTMLElement) => {
         ) break
 
         if (siblingTag === 'DETAILS') {
-          ;(sibling as HTMLDetailsElement).open = true
-          if (scrollTarget === target) scrollTarget = sibling as HTMLElement
+          if (detailsContainsTerms(sibling as HTMLElement)) {
+            ;(sibling as HTMLDetailsElement).open = true
+            if (scrollTarget === target) scrollTarget = sibling as HTMLElement
+          }
         }
 
         const nested = sibling.getElementsByTagName('details')
         for (let i = 0, len = nested.length; i < len; i++) {
-          nested[i].open = true
-          if (scrollTarget === target) scrollTarget = nested[i]
+          if (detailsContainsTerms(nested[i])) {
+            nested[i].open = true
+            if (scrollTarget === target) scrollTarget = nested[i]
+          }
         }
 
         sibling = sibling.nextElementSibling
