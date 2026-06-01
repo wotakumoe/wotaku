@@ -303,6 +303,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | Category | Websites |
 | :--- | :--- |
 | **General** | [CosmoDNA](https://www.ourstarblazers.com/vault/) |
+| ^^ | [Digital World Archive](https://digitalworldarchive.wordpress.com/) [:x:](https://x.com/RavelMonte) ||Digimon|| |
 | ^^ |[MAD ANGLER PRESS](https://retroanimechris.blogspot.com/) [:iarch:](https://archive.org/details/@madanglerpress) [:x:](https://x.com/retroanimechris) |
 | ^^ | [Media Monster](https://archive.org/details/@media-monster_alt) :iarch: [:x:](https://x.com/nuwawawon) |
 | ^^ | [Otaku Archive](https://archive.org/details/otaku-archive) :iarch: <tooltip>By Gerald Rathkolb (Anime World Order)</tooltip> |
