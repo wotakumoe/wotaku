@@ -18,8 +18,7 @@ Mangayomi and some of its forks support Mihon extensions which you can get from 
 ### All-in-One
 
 | Name | Region | Auto | Anime | Manga | Novel |
-|------|---------|------|--------|--------|--------|
-| [Kodjo](https://github.com/kodjodevf/mangayomi-extensions) | :global: | [Install](mangayomi://add-repo?repo_name=mangayomi-extensions&repo_url=https://github.com/kodjodevf/mangayomi-extensions&manga_url=https://kodjodevf.github.io/mangayomi-extensions/index.json&novel_url=https://kodjodevf.github.io/mangayomi-extensions/novel_index.json) | :no: | :yes: | :yes: |
+|------|--------|------|-------|-------|-------|
 | [m2k3a](https://github.com/m2k3a/mangayomi-extensions) | :global: | [Install](mangayomi://add-repo?repo_name=mangayomi-extensions&repo_url=https://github.com/m2k3a/mangayomi-extensions&manga_url=https://m2k3a.github.io/mangayomi-extensions/index.json&anime_url=https://m2k3a.github.io/mangayomi-extensions/anime_index.json&novel_url=https://m2k3a.github.io/mangayomi-extensions/novel_index.json) | :yes: | :yes: | :yes: |
 | [Swakshan](https://github.com/Swakshan/mangayomi-swak-extensions) | :global: | [Install](mangayomi://add-repo?repo_name=Mangayomi%20Swak%20Extensions&repo_url=https://github.com/Swakshan/mangayomi-swak-extensions&manga_url=https://raw.githubusercontent.com/Swakshan/mangayomi-swak-extensions/refs/heads/main/index.json&anime_url=https://raw.githubusercontent.com/Swakshan/mangayomi-swak-extensions/refs/heads/main/anime_index.json&novel_url=https://raw.githubusercontent.com/Swakshan/mangayomi-swak-extensions/refs/heads/main/novel_index.json) | :yes: | :yes: | :yes: |
 | [Schnitzel5](https://github.com/Schnitzel5/sugoi-modules) | :global: | [Install](mangayomi://add-repo?anime_url=https://raw.githubusercontent.com/Schnitzel5/sugoi-modules/refs/heads/main/anime_index.json&manga_url=https://raw.githubusercontent.com/Schnitzel5/sugoi-modules/refs/heads/main/index.json&novel_url=https://raw.githubusercontent.com/Schnitzel5/sugoi-modules/refs/heads/main/novel_index.json) | :yes: | :yes: | :yes: |
@@ -29,7 +28,7 @@ Mangayomi and some of its forks support Mihon extensions which you can get from 
 ### Anime
 
 | Name | Region | Auto | Manual |
-|------|---------|------|--------|
+|------|--------|------|--------|
 | [m2k3a](https://github.com/m2k3a/mangayomi-extensions) | :global: | [Install](mangayomi://add-repo?repo_name=mangayomi-extensions&repo_url=https://github.com/m2k3a/mangayomi-extensions&anime_url=https://m2k3a.github.io/mangayomi-extensions/anime_index.json) | [URL](https://raw.githubusercontent.com/m2k3a/mangayomi-extensions/refs/heads/main/anime_index.json) |
 | [Swakshan](https://github.com/Swakshan/mangayomi-swak-extensions) | :global: | [Install](mangayomi://add-repo?repo_name=Mangayomi%20Swak%20Extensions&repo_url=https://github.com/Swakshan/mangayomi-swak-extensions&anime_url=https://raw.githubusercontent.com/Swakshan/mangayomi-swak-extensions/refs/heads/main/anime_index.json) | [URL](https://raw.githubusercontent.com/Swakshan/mangayomi-swak-extensions/refs/heads/main/anime_index.json) |
 | [Schnitzel5](https://github.com/Schnitzel5/sugoi-modules) | :global: | [Install](mangayomi://add-repo?anime_url=https://raw.githubusercontent.com/Schnitzel5/sugoi-modules/refs/heads/main/anime_index.json) | [URL](https://raw.githubusercontent.com/Schnitzel5/sugoi-modules/refs/heads/main/anime_index.json) |
@@ -39,8 +38,7 @@ Mangayomi and some of its forks support Mihon extensions which you can get from 
 ### Manga
 
 | Name | Region | Auto | Manual |
-|------|---------|------|--------|
-| [Kodjo](https://github.com/kodjodevf/mangayomi-extensions) | :global: | [Install](mangayomi://add-repo?manga_url=https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/index.json) | [URL](https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/index.json) |
+|------|--------|------|--------|
 | [m2k3a](https://github.com/m2k3a/mangayomi-extensions) | :global: | [Install](mangayomi://add-repo?repo_name=mangayomi-extensions&repo_url=https://github.com/m2k3a/mangayomi-extensions&manga_url=https://m2k3a.github.io/mangayomi-extensions/index.json) | [URL](https://raw.githubusercontent.com/m2k3a/mangayomi-extensions/refs/heads/main/index.json) |
 | [Swakshan](https://github.com/Swakshan/mangayomi-swak-extensions) | :global: | [Install](mangayomi://add-repo?repo_name=Mangayomi%20Swak%20Extensions&repo_url=https://github.com/Swakshan/mangayomi-swak-extensions&manga_url=https://raw.githubusercontent.com/Swakshan/mangayomi-swak-extensions/refs/heads/main/index.json) | [URL](https://raw.githubusercontent.com/Swakshan/mangayomi-swak-extensions/refs/heads/main/index.json) |
 | [Schnitzel5](https://github.com/Schnitzel5/sugoi-modules) | :global: | [Install](mangayomi://add-repo?manga_url=https://raw.githubusercontent.com/Schnitzel5/sugoi-modules/refs/heads/main/index.json) | [URL](https://raw.githubusercontent.com/Schnitzel5/sugoi-modules/refs/heads/main/index.json) |
@@ -50,8 +48,7 @@ Mangayomi and some of its forks support Mihon extensions which you can get from 
 ### Novels
 
 | Name | Region | Auto | Manual |
-|------|---------|------|--------|
-| [Kodjo](https://github.com/kodjodevf/mangayomi-extensions) | :global: | [Install](mangayomi://add-repo?novel_url=https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/novel_index.json) | [URL](https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/refs/heads/main/novel_index.json) |
+|------|--------|------|--------|
 | [m2k3a](https://github.com/m2k3a/mangayomi-extensions) | :global: | [Install](mangayomi://add-repo?repo_name=mangayomi-extensions&repo_url=https://github.com/m2k3a/mangayomi-extensions&novel_url=https://m2k3a.github.io/mangayomi-extensions/novel_index.json) | [URL](https://raw.githubusercontent.com/m2k3a/mangayomi-extensions/refs/heads/main/novel_index.json) |
 | [Schnitzel5](https://github.com/Schnitzel5/sugoi-modules) | :global: | [Install](mangayomi://add-repo?novel_url=https://raw.githubusercontent.com/Schnitzel5/sugoi-modules/refs/heads/main/novel_index.json) | [URL](https://raw.githubusercontent.com/Schnitzel5/sugoi-modules/refs/heads/main/novel_index.json) |
 | [Swakshan](https://github.com/Swakshan/mangayomi-swak-extensions) | :global: | [Install](mangayomi://add-repo?repo_name=Mangayomi%20Swak%20Extensions&repo_url=https://github.com/Swakshan/mangayomi-swak-extensions&novel_url=https://raw.githubusercontent.com/Swakshan/mangayomi-swak-extensions/refs/heads/main/novel_index.json) | [URL](https://raw.githubusercontent.com/Swakshan/mangayomi-swak-extensions/refs/heads/main/novel_index.json) |
