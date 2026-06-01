@@ -262,7 +262,7 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 | ^^ | [Dungeon Duel Monsters](https://mikaygo.itch.io/ddm) ||Manual|| |
 | ^^ | [EDO Pro](https://projectignis.github.io/index.html) ||Automatic|| |
 | ^^ | [YGO Omega](https://omega.duelistsunite.org/) ||Automatic|| |
-| **Alternative/Historic Formats** | [Goat Format](https://www.goatformat.com/) |
+| **Alternative Formats** | [Goat Format](https://www.goatformat.com/) |
 | ^^ | [Edison Format](https://www.edisonformat.net/) |
 | ^^ | [Format Library](https://www.formatlibrary.com/) |
 
