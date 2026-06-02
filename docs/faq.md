@@ -33,11 +33,7 @@ Use a download manager. Some websites impose file transfer limits for a single t
 
 <Collapsible title="What does X term mean?">
 
-We have explained meanings of a lot a weeb related terms in our glossary section.
-- [**General glossary**](/glossary/general) for terms that are common in every medium
-- [**Anime glossary**](/glossary/anime) for only anime specific terms
-- [**Manga glossary**](/glossary/manga) for manga specific terms
-- [**Torrenting glossary**](/torrenting/glossary) for torrenting related terms.
+We have explained meanings of a lot a weeb related terms in our [**glossary section**](/glossary/). There is also [**torrenting glossary**](/torrenting/glossary) for torrenting related terms.
 
 </Collapsible>
 
@@ -49,11 +45,8 @@ Yes. Try [**MAL-Sync**](https://malsync.moe/). It has support for MyAnimeList, A
 
 <Collapsible title="What is PT & Usenet?">
 
-### PT / Private Tracker
-Torrent trackers that don't allow you to freely make an account, but require you to get an invitation from an existing member or pass an interview. Some PTs also have specific periods where they allow for open signups.
-
-### Usenet
-Usenet is a subscription-based service. Though really old, it's still very reliable. Its system consists of a few elements:
+- **PT / Private Tracker:** Torrent trackers that don't allow you to freely make an account, but require you to get an invitation from an existing member or pass an interview. Some PTs also have specific periods where they allow for open signups.
+- **Usenet:** Usenet is a subscription-based service. Though really old, it's still very reliable. Its system consists of a few elements:
 
 | Term | Description |
 | :--- | :--- |
@@ -65,11 +58,9 @@ Usenet is a subscription-based service. Though really old, it's still very relia
 
 <Collapsible title="What is seedbox & debrid service?">
 
-### Seedbox
-A seedbox is a remote service that can download (leech) & upload (seed) from p2p networks. Since it's always online, it keeps the torrents alive, thus helping you keep a high ratio in [**PTs**](#pt-private-tracker). Examples: [**Ultra.cc**](https://ultra.cc/), [**RapidSeedbox**](https://www.rapidseedbox.com/) & [**Pulsed Media**](https://pulsedmedia.com/).
+- **Seedbox:** A seedbox is a remote service that can download (leech) & upload (seed) from p2p networks. Since it's always online, it keeps the torrents alive, thus helping you keep a high ratio in [**PTs**](#pt-private-tracker). Examples: [**Ultra.cc**](https://ultra.cc/), [**RapidSeedbox**](https://www.rapidseedbox.com/) & [**Pulsed Media**](https://pulsedmedia.com/).
 
-### Debrid
-Like a seedbox, it's also a remote service. It can download from p2p and various host sites (e.g. [**MEGA**](https://mega.io/), [**RapidGator**](https://rapidgators.net/)). One of the big differences is that they (generally) don't seed p2p files and keep the downloaded files cached on their servers, meaning you can download currently dead torrents that have already been cached in the past. Example: [**Real-Debrid**](https://real-debrid.com/), [**AllDebrid**](https://alldebrid.com/) & [**TorBox**](https://torbox.app/).
+- **Debrid:** Like a seedbox, it's also a remote service. It can download from p2p and various host sites (e.g. [**MEGA**](https://mega.io/), [**RapidGator**](https://rapidgators.net/)). One of the big differences is that they (generally) don't seed p2p files and keep the downloaded files cached on their servers, meaning you can download currently dead torrents that have already been cached in the past. Example: [**Real-Debrid**](https://real-debrid.com/), [**AllDebrid**](https://alldebrid.com/) & [**TorBox**](https://torbox.app/).
 
 </Collapsible>
 
@@ -77,8 +68,6 @@ Like a seedbox, it's also a remote service. It can download from p2p and various
 ![](/banner/manga.webp)
 
 # Manga
-
-
 
 <Collapsible title="Where can I get the highest quality manga releases?">
 
@@ -146,22 +135,15 @@ Use [**Komga**](https://komga.org/). Read their [**docs**](https://komga.org/doc
 </Collapsible>
 
 
-
 ![](/banner/anime.webp)
 
 # Anime
-
-
 
 <Collapsible title="Where can I get the highest quality anime releases?">
 
 The quality of the anime file depends on the [**source**](/glossary/anime#source) as well as how it's been ripped and encoded. In general blu-ray release contains the best quality with reanimated, uncensored or extra scenes. [**Nyaa**](https://nyaa.si/) and some DDL websites don't compress the uploaded file.
 
-<br>
-
 On the other hand, aggregators like [**KickassAnime**](https://kaa.lt/) & [**AniZone**](https://anizone.to/) re-encode them further. They sacrifice some of the quality in favor of smaller file sizes, thereby maintaining a smoother user experience on their sites.
-
-<br>
 
 [**SeaDex**](https://releases.moe/) & [**Sneedex**](https://sneedex.moe/) rank their picks of the best quality rips for a variety of shows.
 
@@ -180,8 +162,6 @@ For android, use [**mpvEx**](https://github.com/marlboro-advance/mpvEx). For PC,
 
 # Music
 
-
-
 <Collapsible title="What's the best source for anime songs / OST?">
 
 - [**Nyaa**](https://nyaa.si/) has a huge library of OST and is the best place to get them. Submitters upload both lossy and lossless versions from different sources such as digital album purchase, CD or Vinyl. 
@@ -189,18 +169,6 @@ For android, use [**mpvEx**](https://github.com/marlboro-advance/mpvEx). For PC,
 - Most of the current anime songs (sometime background scores too) are uploaded on legal music streaming services. You can rip from these services using [**Squid.wtf**](https://squid.wtf/) and [**DoubleDouble**](https://doubledouble.top/), which can rip multiple hi-res sources.
 - You can also check out [**Nicotine+**](https://nicotine-plus.org/), a [**Soulseek**](https://www.slsknet.org/) client. People share their downloaded/own rips here. It uses P2P to transfer files, so a VPN is recommended. You may find really old or rare ones.
 - More sources are listed [**here**](/websites#music). If you want more ripping tools, you can check out more ripping tools in [others section](/music#downloader).
-
-</Collapsible>
-
-<Collapsible title="What player should I use for music?">
-
-Personal preference.
-
-### Android
-There are FOSS player [**Oto Music**](https://play.google.com/store/apps/details?id=com.piyush.music), [**Musicolet Music Player**](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) & [**Retro Music Player**](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic). There is also [**Poweramp**](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer.unlock) which is paid but it's really good.
-
-### PC
-You can try [**Foobar2000**](https://www.foobar2000.org/), [**Musicbee**](https://www.getmusicbee.com/) or [**AIMP**](https://www.aimp.ru/). Foobar2000, out of the box, has very outdated UI out of the box. You can sideload skins to make it more cool looking. Example: [Georgia-ReBORN](https://github.com/TT-ReBORN/Georgia-ReBORN), [Eole](https://github.com/Ottodix/Eole-foobar-theme) etc.
 
 </Collapsible>
 
@@ -212,8 +180,6 @@ Yes. [**Last.fm**](https://www.last.fm/). It's not anime songs centric but a gen
 
 <Collapsible title="What should I use to convert my music files?">
 
-Most of the PC music player can convert music files to your desired formats. For example [**Foobar2000**](https://www.foobar2000.org/) & [**Musicbee**](https://www.getmusicbee.com/). For Foobar200, you have to install [encoder pack](https://www.foobar2000.org/encoderpack).
-
-<Block link="/guides/music/transcoding" icon="i-mdi-lightbulb-alert-outline">Read our transcoding audio guide to learn the basics.</Block>
+Read our [**transcoding guide**](/guides/music/transcoding).
 
 </Collapsible>
