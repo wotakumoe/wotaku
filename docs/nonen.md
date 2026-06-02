@@ -446,7 +446,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | [Manga Zone](http://www.manga-zone.org/) | :yes: | :no: | :yes: |
 | [Manga ZIP](https://manga-zip.is/post) | :yes: | :no: | :yes: |
 | [Rawinstant](https://rawinstant.net/manga/) | :yes: | :yes: | :yes: |
-| [Raw Cans](http://raw-cans.net/) | :yes: | :no: | :yes: |
 | [RAWS MANGA](https://rawsmanga.com/) | :yes: | :yes: | :yes: |
 | [urajp](https://urajp.se/) | :yes: | :yes: | :yes: |
 | [X3DL.NET](https://x3dl.net/wp/) | :yes: | :yes: | :yes: |
@@ -475,6 +474,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [FRToon](https://frtoon2.com/) |
 | ^^ | [Simpson](https://hdhd502.net/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8) |
 | ^^ | [MoneyToon](https://mtoon140.com/) |
+| ^^ | [NameeToon](https://namee100.com/) |
 | **Anime** | [Annie24](https://ohli24.net/) [:prx:](https://rentry.org/wotaxy#annie24) |
 | ^^ | [Anilife](https://anilife.live/) |
 | ^^ | [Anissia](https://anissia.net/) |
