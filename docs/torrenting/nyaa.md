@@ -112,7 +112,7 @@ File naming schemes are kind of optional, not every upload has to follow the sam
 | ^^ | **UHD** -> 3840x2160 |
 | ^^ | **TV** -> 1920x1080 (If the channel is SD, then it's 480p) |
 | ^^ | **DVD** -> 1024x576 |
-| **Video Codec** | The encoding process for the video file. The most popular encoders today are **x264** (AVC) and **x265** (HEVC), with the latter being newer and able to achieve higher compression rates with less quality loss. To learn more about encoding, visit [**Codec Wiki**](https://av1.wiki/docs/introduction/prologue). |
+| **Video Codec** | The encoding process for the video file. The most popular encoders today are **x264** (AVC) and **x265** (HEVC), with the latter being newer and able to achieve higher compression rates with less quality loss. To learn more about encoding, visit [**Codec Wiki**](https://codecs.wiki/docs/introduction/prologue). |
 | **Audio Format** | **Lossless**: These retain the highest audio quality and have larger file sizes as a consequence. The most common one is FLAC. |
 | ^^     | **Lossy**: These formats aim to provide good quality while keeping file sizes small. The most popular ones today are AAC, AC3, EAC3 (all commonly found in Web releases), with MP3 being found in older releases. |
 | **Subtitles** | **Closed Captions (CC):** Also known as soft subtitles; text overlays on a video that provide translated dialogue or just audio transcription in case they're following the dub; can be turned off if not needed. |
