@@ -22,6 +22,7 @@ import { escapeRegExp } from 'vitepress/dist/client/shared'
 import {
   computedAsync,
   onKeyStroke,
+  refDebounced,
   useEventListener,
   useLocalStorage,
   useScrollLock,
@@ -137,6 +138,8 @@ const disableQueryPersistence = computed(() => {
 const filterText = disableQueryPersistence.value
   ? ref('')
   : useSessionStorage('vitepress:local-search-filter', '')
+
+const debouncedFilterText = refDebounced(filterText, 300)
 
 const showDetailedList = useLocalStorage(
   'vitepress:local-search-detailed-list',
@@ -327,8 +330,8 @@ interface UrlResult {
 }
 
 const urlResults = computed((): UrlResult[] => {
-  if (!urlSearchMode.value || !filterText.value.trim()) return []
-  const query = filterText.value.trim().toLowerCase()
+  if (!urlSearchMode.value || !debouncedFilterText.value.trim()) return []
+  const query = debouncedFilterText.value.trim().toLowerCase()
   const escaped = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
   const regex = new RegExp(`(${escaped})`, 'gi')
   // allLinks is pre-sorted by page order — no sort needed here
@@ -392,7 +395,7 @@ function setUrlPageFilter(key: string | null) {
 const urlResultsWithExcerpts = shallowRef<UrlResult[]>([])
 
 watchDebounced(
-  () => [urlResults.value, showDetailedList.value, filterText.value] as const,
+  () => [urlResults.value, showDetailedList.value, debouncedFilterText.value] as const,
   async ([results, detailed, query], _old, onCleanup) => {
     let canceled = false
     onCleanup(() => { canceled = true })
