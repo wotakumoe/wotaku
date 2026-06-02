@@ -2,4 +2,3 @@
 - Allows user uploads and adds new titles upon request.
 - Scrapes official sources, uploads from Nyaa rippers and select scanlators.
 - Offers high-quality uploads without watermarks.
-- Requires a browser with DRM support.
