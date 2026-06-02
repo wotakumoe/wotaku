@@ -705,6 +705,13 @@ watchDebounced(
       return
     }
 
+    // Empty query — clear results and show the empty state
+    if (!filterTextValue.trim()) {
+      results.value = []
+      enableNoResults.value = false
+      return
+    }
+
     // Dynamic search options based on matchExact toggle
     const dynamicSearchOptions = {
       fuzzy: mode === 'fuzzy' ? (0.3 as number | false) : false,
