@@ -305,9 +305,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | :--- | :--- |
 | [Anicon for AniList](https://github.com/EnArvy/AniconforAnilist) | :win: |
 | [AnimeJaNai](https://github.com/the-database/mpv-upscale-2x_animejanai) | :win: |
-| [GetFnative](https://github.com/YomikoR/GetFnative) | :py: |
-| [getfscaler](https://github.com/Jaded-Encoding-Thaumaturgy/getfscaler) | :py: |
-| [Getnative](https://github.com/Infiziert90/getnative) | :py: |
+| [nativeres](https://github.com/Jaded-Encoding-Thaumaturgy/nativeres) | :py: |
 | [Manami](https://github.com/manami-project/manami) | :win::app::lin: |
 | [Shoko Anime](https://shokoanime.com/) [:src:](https://github.com/ShokoAnime/) | :win::app::lin: |
 
