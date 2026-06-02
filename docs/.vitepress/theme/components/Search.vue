@@ -326,7 +326,6 @@ interface UrlResult {
   anchor: string
   titles: string[]
   highlighted: string
-  excerptHtml: string
 }
 
 const urlResults = computed((): UrlResult[] => {
@@ -339,8 +338,7 @@ const urlResults = computed((): UrlResult[] => {
     .filter(({ href }) => href.toLowerCase().includes(query))
     .map(({ href, linkText, pageId, anchor, titles }) => ({
       href, linkText, pageId, anchor, titles,
-      highlighted: href.replace(regex, '<mark class="url-highlight">$1</mark>'),
-      excerptHtml: ''
+      highlighted: href.replace(regex, '<mark class="url-highlight">$1</mark>')
     }))
 })
 
@@ -359,9 +357,8 @@ const urlPageGroups = computed(() => {
 })
 
 const filteredUrlResults = computed(() => {
-  const src = urlResultsWithExcerpts.value
-  if (!urlActivePageFilter.value) return src
-  return src.filter((r) => r.pageId === urlActivePageFilter.value)
+  if (!urlActivePageFilter.value) return urlResults.value
+  return urlResults.value.filter((r) => r.pageId === urlActivePageFilter.value)
 })
 
 // Reset URL filter when query changes or mode switches
@@ -381,66 +378,9 @@ function setUrlPageFilter(key: string | null) {
   nextTick(() => {
     if (resultsEl.value) resultsEl.value.scrollTop = 0
     scrollToSelectedResult()
-    // Sync currentTerms from the URL query so reapplyHighlights can highlight + center
-    if (filterText.value.trim()) {
-      currentTerms.value = new Set(
-        filterText.value.trim().toLowerCase().split(/\s+/).filter(Boolean)
-      )
-    }
-    reapplyHighlights()
   })
 }
 
-// Reactive list used by the template — same as urlResults but with excerptHtml filled in
-const urlResultsWithExcerpts = shallowRef<UrlResult[]>([])
-
-watchDebounced(
-  () => [urlResults.value, showDetailedList.value, debouncedFilterText.value] as const,
-  async ([results, detailed, query], _old, onCleanup) => {
-    let canceled = false
-    onCleanup(() => { canceled = true })
-
-    // Always sync the list immediately from the already-computed urlResults
-    urlResultsWithExcerpts.value = results.map(r => ({ ...r, excerptHtml: '' }))
-    if (!detailed || !results.length) return
-
-    // Build excerpts once per page (empty query = permanent cache, no re-render per keystroke)
-    const uniquePageIds = [...new Set(results.map(r => r.pageId))]
-    await Promise.all(uniquePageIds.map(pid => buildDocExcerpt(pid, '')))
-    if (canceled) return
-
-    // Fill in excerptHtml from cache keyed by pageId + '' 
-    urlResultsWithExcerpts.value = results.map(r => {
-      const map = cache.get(`${r.pageId}\n`)
-      const html = map?.get(r.anchor)
-        ?? (r.anchor ? [...(map?.entries() ?? [])].find(([k]) => k.includes(r.anchor))?.[1] : undefined)
-        ?? map?.values().next().value
-        ?? ''
-      return { ...r, excerptHtml: html }
-    })
-    if (canceled) return
-
-    // Highlight query terms and center excerpts on the highlighted mark (like normal search)
-    if (query.trim()) {
-      currentTerms.value = new Set(
-        query.trim().toLowerCase().split(/\s+/).filter(Boolean)
-      )
-    }
-    await nextTick()
-    if (canceled) return
-    await new Promise<void>(resolve => {
-      mark.value?.unmark({
-        done: () => {
-          mark.value?.markRegExp(formMarkRegex(currentTerms.value), { done: () => resolve() })
-        }
-      })
-    })
-    if (canceled) return
-    await nextTick()
-    centerExcerptsUntilSettled()
-  },
-  { debounce: 80, immediate: true }
-)
 
 const disableDetailedView = computed(() => {
   return (
@@ -1284,7 +1224,7 @@ function onMouseMove(e: MouseEvent) {
               type="search"
             />
             <div class="search-actions">
-              <div v-if="!disableDetailedView" class="view-group toolbar-group">
+              <div v-if="!disableDetailedView && searchMode !== 'url'" class="view-group toolbar-group">
                 <button
                   type="button"
                   class="mode-btn"
@@ -1480,14 +1420,7 @@ function onMouseMove(e: MouseEvent) {
                           <span class="text">{{ item.linkText || item.href }}</span>
                         </span>
                       </div>
-                      <div class="excerpt-wrapper" v-if="showDetailedList">
-                        <div class="excerpt" inert>
-                          <div v-if="item.excerptHtml" class="vp-doc" v-html="item.excerptHtml" />
-                          <div v-else class="url-excerpt-href" v-html="item.highlighted" />
-                        </div>
-                        <div class="excerpt-gradient-bottom" />
-                        <div class="excerpt-gradient-top" />
-                      </div>
+
                     </div>
                     <a
                       :href="item.href"
