@@ -445,7 +445,8 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | [JPFiles](https://jpfiles.net/) | :yes: | :yes: | :yes: |
 | [Manga Zone](http://www.manga-zone.org/) | :yes: | :no: | :yes: |
 | [Manga ZIP](https://manga-zip.is/post) | :yes: | :no: | :yes: |
-| [Rawinstant](https://rawinstant.net/manga/) | :yes: | :yes: | :yes: |
+| [RawInstant](https://rawinstant.net/manga/) | :yes: | :yes: | :yes: |
+| [Raw Cans](http://raw-cans.net/) | :yes: | :no: | :yes: |
 | [RAWS MANGA](https://rawsmanga.com/) | :yes: | :yes: | :yes: |
 | [urajp](https://urajp.se/) | :yes: | :yes: | :yes: |
 | [X3DL.NET](https://x3dl.net/wp/) | :yes: | :yes: | :yes: |
