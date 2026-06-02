@@ -37,8 +37,12 @@ import {
   ArrowRight,
   ChevronRight,
   Delete,
+  ExternalLink,
   File,
+  Globe,
   Hash,
+  LayoutList,
+  List,
   Locate,
   LocateOff,
   TextAlignStart
@@ -136,13 +140,303 @@ const filterText = disableQueryPersistence.value
 
 const showDetailedList = useLocalStorage(
   'vitepress:local-search-detailed-list',
-  theme.value.search?.provider === 'local' &&
-    theme.value.search.options?.detailedView === true
+  false
 )
 
-const matchExact = useLocalStorage(
-  'vitepress:local-search-match-exact',
-  true // enabled by default
+// Three search modes: 'exact' | 'fuzzy' | 'url'
+const searchMode = useLocalStorage<'exact' | 'fuzzy' | 'url'>(
+  'vitepress:local-search-mode',
+  'exact'
+)
+
+// Cycle through modes on mobile (only active button is visible, tap it to advance)
+function cycleSearchMode() {
+  const modes = ['exact', 'fuzzy', 'url'] as const
+  const idx = modes.indexOf(searchMode.value)
+  searchMode.value = modes[(idx + 1) % modes.length]
+}
+
+// Keep matchExact and urlSearchMode as computed aliases
+const matchExact = computed(() => searchMode.value === 'exact')
+const urlSearchMode = computed(() => searchMode.value === 'url')
+
+interface PageLink {
+  href: string
+  linkText: string
+  pageId: string
+  anchor: string
+  titles: string[]  // heading breadcrumb e.g. ["Manga", "Online"]
+}
+
+// allLinks is built lazily the first time URL mode is activated, then cached.
+// We store the result in a module-level variable so it survives across reactive
+// re-runs (searchIndex changes are rare; a full rebuild would remount every page).
+let allLinksCache: PageLink[] | null = null
+let allLinksBuildPromise: Promise<PageLink[]> | null = null
+
+async function buildAllLinks(index: any, vitePressData: any): Promise<PageLink[]> {
+  // Collect unique page-level doc ids (strip anchors)
+  const pageIds = new Set<string>()
+  const docIds = index._documentIds
+  if (docIds instanceof Map) {
+    for (const id of docIds.values()) pageIds.add(String(id).split('#')[0])
+  } else if (docIds && typeof docIds === 'object') {
+    for (const k of Object.keys(docIds)) pageIds.add(String((docIds as any)[k]).split('#')[0])
+  }
+
+  const collected: PageLink[] = []
+
+  for (const pageId of pageIds) {
+    try {
+      const file = pathToFile(pageId)
+      if (!file) continue
+      const mod = await import(/*@vite-ignore*/ file)
+      const comp = (mod as any).default ?? mod
+      if (!(comp?.render || comp?.setup)) continue
+
+      const app = createApp(comp)
+      app.config.warnHandler = () => {}
+      enhanceAppWithTabs(app)
+      app.provide(dataSymbol, vitePressData)
+      Object.defineProperties(app.config.globalProperties, {
+        $frontmatter: { get() { return vitePressData.frontmatter.value } },
+        $params:      { get() { return vitePressData.page.value.params } }
+      })
+      const div = document.createElement('div')
+      const seenOnPage = new Set<string>()
+
+      // Collect links visible right now in the DOM
+      // heading stack: index = heading level - 1, value = heading text
+      const headingStack: string[] = []
+      const currentAnchor = { v: '' }
+
+      const scrapeLinks = () => {
+        const walker = document.createTreeWalker(div, NodeFilter.SHOW_ELEMENT)
+        let node: Element | null = div
+        while ((node = walker.nextNode() as Element | null)) {
+          const m = node.tagName.match(/^h([1-6])$/i)
+          if (m) {
+            const level = parseInt(m[1]) - 1
+            // Strip icon HTML, keep text only
+            const text = (node as HTMLElement).innerText?.trim()
+              ?? node.textContent?.trim() ?? ''
+            headingStack[level] = text
+            // Clear deeper levels
+            headingStack.length = level + 1
+            const ha = node.querySelector('a[href^="#"]')
+            if (ha) { const h = ha.getAttribute('href')!.slice(1); if (h) currentAnchor.v = h }
+          } else if (node.tagName === 'A') {
+            const href = node.getAttribute('href') ?? ''
+            if (/^https?:\/\//i.test(href)) {
+              const key = href + '\x00' + currentAnchor.v
+              if (!seenOnPage.has(key)) {
+                seenOnPage.add(key)
+                // titles = all heading levels above the link, filtering empty slots
+                const titles = headingStack.filter(Boolean)
+                collected.push({ href, linkText: node.textContent?.trim() ?? '', pageId, anchor: currentAnchor.v, titles })
+              }
+            }
+          }
+        }
+      }
+
+      try {
+        app.mount(div)
+        div.querySelectorAll('details').forEach((d) => { d.open = true })
+        div.querySelectorAll<HTMLElement>('[style*="display: none"],[style*="display:none"]')
+          .forEach((el) => { el.style.display = '' })
+
+        const raf = () => new Promise<void>(r => requestAnimationFrame(() => r()))
+        const tabGroups = div.querySelectorAll<HTMLElement>('.plugin-tabs')
+
+        if (tabGroups.length === 0) {
+          scrapeLinks()
+        } else {
+          // First pass: scrape non-tab content (anchors from headings outside tabs)
+          scrapeLinks()
+          // Then expose every tab panel
+          for (const tabGroup of Array.from(tabGroups)) {
+            const buttons = tabGroup.querySelectorAll<HTMLButtonElement>('.plugin-tabs--tab[role="tab"]')
+            for (const button of Array.from(buttons)) {
+              button.click()
+              await nextTick()
+              await raf()
+              scrapeLinks(anchor)
+            }
+          }
+        }
+      } finally {
+        try { app.unmount() } catch { /* ignore */ }
+      }
+    } catch { /* skip unrenderable pages */ }
+  }
+
+  // Sort by sidebar page order once so urlResults doesn't need to re-sort on every keypress
+  collected.sort((a, b) => {
+    const pa = pageMeta.get(a.pageId)?.order ?? Number.MAX_SAFE_INTEGER
+    const pb = pageMeta.get(b.pageId)?.order ?? Number.MAX_SAFE_INTEGER
+    return pa - pb
+  })
+  return collected
+}
+
+// Lazy ref — null until URL mode is first used
+const allLinks = shallowRef<PageLink[]>([])
+let allLinksIndexVersion: any = null  // track which index version we built for
+
+async function ensureAllLinks() {
+  const index = searchIndex.value as any
+  if (!index) return
+  // Rebuild if the index changed (e.g. HMR)
+  if (allLinksCache && allLinksIndexVersion === index) {
+    allLinks.value = allLinksCache
+    return
+  }
+  if (allLinksBuildPromise) {
+    allLinks.value = await allLinksBuildPromise
+    return
+  }
+  allLinksBuildPromise = buildAllLinks(index, vitePressData)
+  const result = await allLinksBuildPromise
+  allLinksCache = result
+  allLinksIndexVersion = index
+  allLinksBuildPromise = null
+  allLinks.value = result
+}
+
+// Kick off link scraping the moment URL mode is activated (lazy, once)
+watch(urlSearchMode, (active) => { if (active) ensureAllLinks() }, { immediate: true })
+
+// If the search index changes (HMR rebuild), invalidate the link cache
+watch(searchIndex, () => {
+  allLinksCache = null
+  allLinksBuildPromise = null
+  allLinksIndexVersion = null
+  allLinks.value = []
+  if (urlSearchMode.value) ensureAllLinks()
+})
+
+interface UrlResult {
+  href: string
+  linkText: string
+  pageId: string
+  anchor: string
+  titles: string[]
+  highlighted: string
+  excerptHtml: string
+}
+
+const urlResults = computed((): UrlResult[] => {
+  if (!urlSearchMode.value || !filterText.value.trim()) return []
+  const query = filterText.value.trim().toLowerCase()
+  const escaped = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+  const regex = new RegExp(`(${escaped})`, 'gi')
+  // allLinks is pre-sorted by page order — no sort needed here
+  return allLinks.value
+    .filter(({ href }) => href.toLowerCase().includes(query))
+    .map(({ href, linkText, pageId, anchor, titles }) => ({
+      href, linkText, pageId, anchor, titles,
+      highlighted: href.replace(regex, '<mark class="url-highlight">$1</mark>'),
+      excerptHtml: ''
+    }))
+})
+
+// URL mode page ribbon — mirrors the normal pageGroups/filteredResults logic
+const urlActivePageFilter = ref<string | null>(null)
+
+const urlPageGroups = computed(() => {
+  const map = new Map<string, { key: string; label: string; count: number }>()
+  for (const r of urlResults.value) {
+    const key = r.pageId
+    const existing = map.get(key)
+    if (existing) existing.count++
+    else map.set(key, { key, label: getPageLabel(key), count: 1 })
+  }
+  return [...map.values()].sort((a, b) => getPageOrder(a.key) - getPageOrder(b.key))
+})
+
+const filteredUrlResults = computed(() => {
+  const src = urlResultsWithExcerpts.value
+  if (!urlActivePageFilter.value) return src
+  return src.filter((r) => r.pageId === urlActivePageFilter.value)
+})
+
+// Reset URL filter when query changes or mode switches
+watch(urlResults, (r) => {
+  if (urlActivePageFilter.value && !urlPageGroups.value.some((g) => g.key === urlActivePageFilter.value)) {
+    urlActivePageFilter.value = null
+  }
+})
+
+watch(urlSearchMode, (active) => {
+  if (!active) urlActivePageFilter.value = null
+})
+
+function setUrlPageFilter(key: string | null) {
+  urlActivePageFilter.value = urlActivePageFilter.value === key ? null : key
+  selectedIndex.value = filteredUrlResults.value.length ? 1 : -1
+  nextTick(() => {
+    if (resultsEl.value) resultsEl.value.scrollTop = 0
+    scrollToSelectedResult()
+    // Sync currentTerms from the URL query so reapplyHighlights can highlight + center
+    if (filterText.value.trim()) {
+      currentTerms.value = new Set(
+        filterText.value.trim().toLowerCase().split(/\s+/).filter(Boolean)
+      )
+    }
+    reapplyHighlights()
+  })
+}
+
+// Reactive list used by the template — same as urlResults but with excerptHtml filled in
+const urlResultsWithExcerpts = shallowRef<UrlResult[]>([])
+
+watchDebounced(
+  () => [urlResults.value, showDetailedList.value, filterText.value] as const,
+  async ([results, detailed, query], _old, onCleanup) => {
+    let canceled = false
+    onCleanup(() => { canceled = true })
+
+    // Always sync the list immediately from the already-computed urlResults
+    urlResultsWithExcerpts.value = results.map(r => ({ ...r, excerptHtml: '' }))
+    if (!detailed || !results.length) return
+
+    // Build excerpts once per page (empty query = permanent cache, no re-render per keystroke)
+    const uniquePageIds = [...new Set(results.map(r => r.pageId))]
+    await Promise.all(uniquePageIds.map(pid => buildDocExcerpt(pid, '')))
+    if (canceled) return
+
+    // Fill in excerptHtml from cache keyed by pageId + '' 
+    urlResultsWithExcerpts.value = results.map(r => {
+      const map = cache.get(`${r.pageId}\n`)
+      const html = map?.get(r.anchor)
+        ?? (r.anchor ? [...(map?.entries() ?? [])].find(([k]) => k.includes(r.anchor))?.[1] : undefined)
+        ?? map?.values().next().value
+        ?? ''
+      return { ...r, excerptHtml: html }
+    })
+    if (canceled) return
+
+    // Highlight query terms and center excerpts on the highlighted mark (like normal search)
+    if (query.trim()) {
+      currentTerms.value = new Set(
+        query.trim().toLowerCase().split(/\s+/).filter(Boolean)
+      )
+    }
+    await nextTick()
+    if (canceled) return
+    await new Promise<void>(resolve => {
+      mark.value?.unmark({
+        done: () => {
+          mark.value?.markRegExp(formMarkRegex(currentTerms.value), { done: () => resolve() })
+        }
+      })
+    })
+    if (canceled) return
+    await nextTick()
+    centerExcerptsUntilSettled()
+  },
+  { debounce: 80, immediate: true }
 )
 
 const disableDetailedView = computed(() => {
@@ -356,6 +650,10 @@ watch(pageGroups, () => {
   nextTick(updateRibbonOverflow)
 })
 
+watch(urlPageGroups, () => {
+  nextTick(updateRibbonOverflow)
+})
+
 useEventListener('resize', () => {
   updateRibbonOverflow()
 })
@@ -443,8 +741,8 @@ function buildDocExcerpt(
 }
 
 watchDebounced(
-  () => [searchIndex.value, filterText.value, showDetailedList.value, matchExact.value] as const,
-  async ([index, filterTextValue, showDetailedListValue, matchExactValue], old, onCleanup) => {
+  () => [searchIndex.value, filterText.value, showDetailedList.value, searchMode.value] as const,
+  async ([index, filterTextValue, showDetailedListValue, mode], old, onCleanup) => {
     if (old?.[0] !== index) {
       // in case of hmr
       cache.clear()
@@ -457,11 +755,18 @@ watchDebounced(
 
     if (!index) return
 
+    // In URL search mode, skip normal text search
+    if (mode === 'url') {
+      results.value = []
+      enableNoResults.value = true
+      return
+    }
+
     // Dynamic search options based on matchExact toggle
     const dynamicSearchOptions = {
-      fuzzy: matchExactValue ? false : (0.3 as number | false),
-      prefix: matchExactValue ? false : (term: string) => term.length > 3,
-      maxFuzzy: matchExactValue ? 0 : 1,
+      fuzzy: mode === 'fuzzy' ? (0.3 as number | false) : false,
+      prefix: mode === 'fuzzy' ? (term: string) => term.length > 3 : false,
+      maxFuzzy: mode === 'fuzzy' ? 1 : 0,
       boost: { title: 10, titles: 4, text: 1 },
     }
 
@@ -722,9 +1027,23 @@ function onSearchBarClick(event: PointerEvent) {
 const selectedIndex = ref(-1)
 const disableMouseOver = ref(true)
 
+// Active result list length (URL mode vs normal mode)
+const activeResultsLength = computed(() =>
+  urlSearchMode.value ? filteredUrlResults.value.length : filteredResults.value.length
+)
+
 watch(filteredResults, (r) => {
-  selectedIndex.value = r.length ? 0 : -1
-  scrollToSelectedResult()
+  if (!urlSearchMode.value) {
+    selectedIndex.value = r.length ? 0 : -1
+    scrollToSelectedResult()
+  }
+})
+
+watch(filteredUrlResults, (r) => {
+  if (urlSearchMode.value) {
+    selectedIndex.value = r.length ? 0 : -1
+    scrollToSelectedResult()
+  }
 })
 
 function scrollToSelectedResult() {
@@ -738,7 +1057,7 @@ onKeyStroke('ArrowUp', (event) => {
   event.preventDefault()
   selectedIndex.value--
   if (selectedIndex.value < 0) {
-    selectedIndex.value = filteredResults.value.length - 1
+    selectedIndex.value = activeResultsLength.value - 1
   }
   disableMouseOver.value = true
   scrollToSelectedResult()
@@ -747,7 +1066,7 @@ onKeyStroke('ArrowUp', (event) => {
 onKeyStroke('ArrowDown', (event) => {
   event.preventDefault()
   selectedIndex.value++
-  if (selectedIndex.value >= filteredResults.value.length + 1) {
+  if (selectedIndex.value >= activeResultsLength.value + 1) {
     selectedIndex.value = 0
   }
   disableMouseOver.value = true
@@ -769,6 +1088,18 @@ onKeyStroke('Enter', (e) => {
     // @ts-ignore
     window.toggleAI({ value: filterText.value })
     showSearch.value = false
+    return
+  }
+
+  // URL search mode: navigate to the page containing the link (like normal search)
+  if (urlSearchMode.value) {
+    const selectedUrl = filteredUrlResults.value[index]
+    if (selectedUrl) {
+      window.dispatchEvent(new CustomEvent('search-nav', { detail: { query: filterText.value } }))
+      const dest = selectedUrl.anchor ? selectedUrl.pageId + '#' + selectedUrl.anchor : selectedUrl.pageId
+      router.go(dest)
+      showSearch.value = false
+    }
     return
   }
 
@@ -950,27 +1281,55 @@ function onMouseMove(e: MouseEvent) {
               type="search"
             />
             <div class="search-actions">
-              <button
-                v-if="!disableDetailedView"
-                class="toggle-layout-button"
-                type="button"
-                :class="{ 'detailed-list': showDetailedList }"
-                :title="translate('modal.displayDetails')"
-                @click="selectedIndex > -1 &&
-                (showDetailedList = !showDetailedList)"
-              >
-                <TextAlignStart :size="19" stroke-width="1.25" />
-              </button>
-              <button
-                class="exact-match-button"
-                type="button"
-                :class="{ 'exact-match-active': matchExact }"
-                :title="translate('modal.exactMatchTitle')"
-                @click="matchExact = !matchExact"
-              >
-                <Locate v-if="matchExact" :size="19" stroke-width="1.25" />
-                <LocateOff v-else :size="19" stroke-width="1.25" />
-              </button>
+              <div v-if="!disableDetailedView" class="view-group toolbar-group">
+                <button
+                  type="button"
+                  class="mode-btn"
+                  :class="{ 'mode-active': showDetailedList }"
+                  title="Detail view (Consumes more RAM)"
+                  @click="showDetailedList ? showDetailedList = false : showDetailedList = true"
+                >
+                  <LayoutList :size="18" stroke-width="1.25" />
+                </button>
+                <button
+                  type="button"
+                  class="mode-btn"
+                  :class="{ 'mode-active': !showDetailedList }"
+                  title="List view (Consumes less RAM)"
+                  @click="!showDetailedList ? showDetailedList = true : showDetailedList = false"
+                >
+                  <List :size="18" stroke-width="1.25" />
+                </button>
+              </div>
+              <div class="search-mode-group toolbar-group">
+                <button
+                  type="button"
+                  class="mode-btn"
+                  :class="{ 'mode-active': searchMode === 'exact' }"
+                  title="Exact search"
+                  @click="searchMode === 'exact' ? cycleSearchMode() : searchMode = 'exact'"
+                >
+                  <Locate :size="18" stroke-width="1.25" />
+                </button>
+                <button
+                  type="button"
+                  class="mode-btn"
+                  :class="{ 'mode-active': searchMode === 'fuzzy' }"
+                  title="Fuzzy search"
+                  @click="searchMode === 'fuzzy' ? cycleSearchMode() : searchMode = 'fuzzy'"
+                >
+                  <LocateOff :size="18" stroke-width="1.25" />
+                </button>
+                <button
+                  type="button"
+                  class="mode-btn"
+                  :class="{ 'mode-active': searchMode === 'url' }"
+                  title="URL search"
+                  @click="searchMode === 'url' ? cycleSearchMode() : searchMode = 'url'"
+                >
+                  <Globe :size="18" stroke-width="1.25" />
+                </button>
+              </div>
               <button
                 class="clear-button"
                 type="reset"
@@ -984,7 +1343,7 @@ function onMouseMove(e: MouseEvent) {
           </form>
 
           <div
-            v-if="pageGroups.length > 1"
+            v-if="urlSearchMode ? urlPageGroups.length > 1 : pageGroups.length > 1"
             class="page-ribbon"
           >
               <button
@@ -1001,26 +1360,52 @@ function onMouseMove(e: MouseEvent) {
                 class="page-ribbon-track"
                 @scroll="updateRibbonOverflow"
               >
-                <button
-                  type="button"
-                  class="page-pill"
-                  :class="{ active: activePageFilter === null }"
-                  @click="setPageFilter(null)"
-                >
-                  All
-                  <span class="page-pill-count">{{ results.length }}</span>
-                </button>
-                <button
-                  v-for="group in pageGroups"
-                  :key="group.key"
-                  type="button"
-                  class="page-pill"
-                  :class="{ active: activePageFilter === group.key }"
-                  @click="setPageFilter(group.key)"
-                >
-                  <span class="page-pill-label">{{ group.label }}</span>
-                  <span class="page-pill-count">{{ group.count }}</span>
-                </button>
+                <!-- URL mode tabs -->
+                <template v-if="urlSearchMode">
+                  <button
+                    type="button"
+                    class="page-pill"
+                    :class="{ active: urlActivePageFilter === null }"
+                    @click="setUrlPageFilter(null)"
+                  >
+                    All
+                    <span class="page-pill-count">{{ urlResults.length }}</span>
+                  </button>
+                  <button
+                    v-for="group in urlPageGroups"
+                    :key="group.key"
+                    type="button"
+                    class="page-pill"
+                    :class="{ active: urlActivePageFilter === group.key }"
+                    @click="setUrlPageFilter(group.key)"
+                  >
+                    <span class="page-pill-label">{{ group.label }}</span>
+                    <span class="page-pill-count">{{ group.count }}</span>
+                  </button>
+                </template>
+                <!-- Normal mode tabs -->
+                <template v-else>
+                  <button
+                    type="button"
+                    class="page-pill"
+                    :class="{ active: activePageFilter === null }"
+                    @click="setPageFilter(null)"
+                  >
+                    All
+                    <span class="page-pill-count">{{ results.length }}</span>
+                  </button>
+                  <button
+                    v-for="group in pageGroups"
+                    :key="group.key"
+                    type="button"
+                    class="page-pill"
+                    :class="{ active: activePageFilter === group.key }"
+                    @click="setPageFilter(group.key)"
+                  >
+                    <span class="page-pill-label">{{ group.label }}</span>
+                    <span class="page-pill-count">{{ group.count }}</span>
+                  </button>
+                </template>
               </div>
               <button
                 v-if="ribbonCanScrollRight"
@@ -1041,6 +1426,84 @@ function onMouseMove(e: MouseEvent) {
             class="results"
             @mousemove="onMouseMove"
           >
+            <!-- URL search mode results -->
+            <template v-if="urlSearchMode">
+              <div
+                class="flex flex-col justify-center items-center h-47.5 gap-2 font-medium text-sm text-gray-500 dark:text-gray-300 m-auto md:mt-10 md:mb-6 opacity-90"
+                v-if="!filterText || (filterText && !urlResults.length)"
+              >
+                <img
+                  class="h-40 object-contain object-center -translate-x-2"
+                  src="/asset/smolame.png"
+                  alt="Smol ame"
+                />
+                <h1 v-if="filterText && !urlResults.length">
+                  Couldn't find anything, try again?
+                </h1>
+                <h1 v-else>Looking for something?</h1>
+              </div>
+              <li
+                v-for="(item, index) in filteredUrlResults"
+                :key="item.href + item.pageId"
+                class="result-layout"
+                :id="'localsearch-item-' + (index + 1)"
+                :aria-selected="selectedIndex === index + 1 ? 'true' : 'false'"
+                role="option"
+              >
+                <a
+                  :href="item.anchor ? item.pageId + '#' + item.anchor : item.pageId"
+                  class="result url-result"
+                  :class="{ selected: selectedIndex === index + 1 }"
+                  :aria-label="item.linkText || item.href"
+                  @mouseenter="!disableMouseOver && (selectedIndex = index + 1)"
+                  @focusin="selectedIndex = index + 1"
+                  @click="onResultClick"
+                  :data-index="index + 1"
+                >
+                  <div class="url-result-content">
+                    <div>
+                      <div class="titles">
+                        <Hash v-if="item.titles.length > 0" stroke-width="1.25" :size="18" />
+                        <File v-else stroke-width="1.25" :size="18" />
+                        <span
+                          v-for="(t, ti) in item.titles"
+                          :key="ti"
+                          class="title"
+                        >
+                          <span class="text" v-html="t" />
+                          <ArrowRight stroke-width="1.25" :size="18" class="mx-0.5" />
+                        </span>
+                        <span class="title main">
+                          <span class="text">{{ item.linkText || item.href }}</span>
+                        </span>
+                      </div>
+                      <div class="excerpt-wrapper" v-if="showDetailedList">
+                        <div class="excerpt" inert>
+                          <div v-if="item.excerptHtml" class="vp-doc" v-html="item.excerptHtml" />
+                          <div v-else class="url-excerpt-href" v-html="item.highlighted" />
+                        </div>
+                        <div class="excerpt-gradient-bottom" />
+                        <div class="excerpt-gradient-top" />
+                      </div>
+                    </div>
+                    <a
+                      :href="item.href"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="url-open-btn"
+                      :class="{ 'url-open-btn-selected': selectedIndex === index + 1 }"
+                      title="Open link"
+                      @click.stop
+                    >
+                      <ExternalLink :size="14" stroke-width="1.5" />
+                    </a>
+                  </div>
+                </a>
+              </li>
+            </template>
+
+            <!-- Normal search results -->
+            <template v-else>
             <div
               class="flex flex-col justify-center items-center h-47.5 gap-2 font-medium text-sm text-gray-500 dark:text-gray-300 m-auto md:mt-10 md:mb-6 opacity-90"
               v-if="!filterText || (filterText && !filteredResults.length)"
@@ -1117,6 +1580,7 @@ function onMouseMove(e: MouseEvent) {
                   </div>
                 </a>
               </li>
+          </template>
           </ul>
 
           <div class="search-keyboard-shortcuts">
@@ -1332,7 +1796,7 @@ function onMouseMove(e: MouseEvent) {
 
 @media (max-width: 767px) {
   .page-ribbon {
-    padding: 14px 0 4px;
+    padding: 14px 12px 4px;
   }
 
   .page-pill {
@@ -1590,5 +2054,133 @@ svg {
   color: var(--vp-c-brand-1);
   background-color: rgba(var(--vp-c-brand-1), 0.1);
   border-radius: 4px;
+}
+
+.toolbar-group + .toolbar-group {
+  margin-left: 6px;
+}
+
+.search-mode-group,
+.view-group {
+  display: flex;
+  align-items: center;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+/* Mobile: hide inactive buttons in both groups — tap the active one to cycle */
+@media (max-width: 767px) {
+  .search-mode-group .mode-btn:not(.mode-active),
+  .view-group .mode-btn:not(.mode-active) {
+    display: none;
+  }
+
+  .search-mode-group,
+  .view-group {
+    border-radius: 5px;
+  }
+
+  /* Tapping the sole visible button cycles to the next option */
+  .search-mode-group .mode-btn.mode-active,
+  .view-group .mode-btn.mode-active {
+    border-radius: 4px;
+  }
+}
+
+.mode-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px 7px;
+  color: var(--vp-c-text-2);
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  transition: color 0.15s, background-color 0.15s;
+  border-radius: 0;
+}
+
+.mode-btn + .mode-btn {
+  border-left: 1px solid var(--vp-c-divider);
+}
+
+.mode-btn:hover {
+  color: var(--vp-c-text-1);
+  background: var(--vp-c-default-soft);
+}
+
+.mode-btn.mode-active {
+  color: var(--vp-c-brand-1);
+  background: rgba(60, 120, 210, 0.10);
+}
+
+.url-result-content {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  gap: 8px;
+}
+
+.url-result-content > div:first-child {
+  flex: 1;
+  min-width: 0;
+}
+
+.url-open-btn {
+  flex: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 6px;
+  color: var(--vp-c-text-3);
+  opacity: 0;
+  transition: opacity 0.15s, color 0.15s, background 0.15s;
+  margin-right: 4px;
+}
+
+.result:hover .url-open-btn,
+.result.selected .url-open-btn {
+  opacity: 1;
+}
+
+@media (max-width: 767px) {
+  .url-open-btn {
+    opacity: 1;
+  }
+}
+
+.url-open-btn:hover {
+  color: var(--vp-c-brand-1);
+  background: var(--vp-c-default-soft);
+}
+
+.url-open-btn-selected {
+  color: var(--vp-c-brand-1) !important;
+}
+
+.url-excerpt {
+  height: auto !important;
+  max-height: none !important;
+  overflow: visible !important;
+}
+
+.url-excerpt-href {
+  font-size: 0.78rem !important;
+  font-family: var(--vp-font-family-mono, monospace);
+  color: var(--vp-c-text-2);
+  word-break: break-all;
+  line-height: 1.5;
+  padding: 2px 0;
+}
+
+:deep(.url-highlight) {
+  background-color: var(--vp-local-search-highlight-bg);
+  color: var(--vp-local-search-highlight-text);
+  border-radius: 2px;
+  padding: 0 2px;
+  font-style: normal;
 }
 </style>
