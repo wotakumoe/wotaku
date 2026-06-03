@@ -1486,8 +1486,8 @@ function onMouseMove(e: MouseEvent) {
 
 .page-ribbon-arrow {
   position: absolute;
-  top: 0;
-  bottom: 0;
+  top: 12px;
+  bottom: 4px;
   z-index: 2;
   display: inline-flex;
   align-items: center;
@@ -1722,6 +1722,12 @@ function onMouseMove(e: MouseEvent) {
   position: relative;
   z-index: 1001;
   padding: 2px 0;
+  align-items: center;
+}
+
+.titles > svg {
+  flex-shrink: 0;
+  align-self: center;
 }
 
 .title {
