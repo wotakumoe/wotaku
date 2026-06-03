@@ -158,6 +158,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 - [Barnes & Noble](https://www.barnesandnoble.com/)
 - [honto](https://honto.jp/)
+- [InStockTrades](https://www.instocktrades.com/)
 - [Mangaoh](https://www.mangaoh.co.jp/)
 - [Waterstones](https://www.waterstones.com/)
 
