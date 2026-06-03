@@ -1,9 +1,8 @@
 <script lang="ts" setup>
 import MiniSearch, { type SearchResult } from 'minisearch'
-import { type DefaultTheme, dataSymbol, inBrowser, useRouter } from 'vitepress'
+import { type DefaultTheme, inBrowser, useRouter } from 'vitepress'
 import {
   computed,
-  createApp,
   markRaw,
   nextTick,
   onBeforeUnmount,
@@ -51,6 +50,7 @@ import {
 import Mark from 'mark.js/dist/mark.es6.js'
 import { enhanceAppWithTabs } from 'vitepress-plugin-tabs/client'
 import { LRUCache } from '../composables/search/lru-cache'
+import type { PageLink } from '../../plugins/urlSearchPlugin'
 import { createSearchTranslate } from '../composables/search/translation'
 import { useData } from '../composables/search/use-data'
 import { sidebar } from '../../configs/constants'
@@ -163,161 +163,28 @@ function cycleSearchMode() {
 const matchExact = computed(() => searchMode.value === 'exact')
 const urlSearchMode = computed(() => searchMode.value === 'url')
 
-interface PageLink {
-  href: string
-  linkText: string
-  pageId: string
-  anchor: string
-  titles: string[]  // heading breadcrumb e.g. ["Manga", "Online"]
-}
-
-// allLinks is built lazily the first time URL mode is activated, then cached.
-// We store the result in a module-level variable so it survives across reactive
-// re-runs (searchIndex changes are rare; a full rebuild would remount every page).
-let allLinksCache: PageLink[] | null = null
-let allLinksBuildPromise: Promise<PageLink[]> | null = null
-
-async function buildAllLinks(index: any, vitePressData: any): Promise<PageLink[]> {
-  // Collect unique page-level doc ids (strip anchors)
-  const pageIds = new Set<string>()
-  const docIds = index._documentIds
-  if (docIds instanceof Map) {
-    for (const id of docIds.values()) pageIds.add(String(id).split('#')[0])
-  } else if (docIds && typeof docIds === 'object') {
-    for (const k of Object.keys(docIds)) pageIds.add(String((docIds as any)[k]).split('#')[0])
-  }
-
-  const collected: PageLink[] = []
-
-  for (const pageId of pageIds) {
-    try {
-      const file = pathToFile(pageId)
-      if (!file) continue
-      const mod = await import(/*@vite-ignore*/ file)
-      const comp = (mod as any).default ?? mod
-      if (!(comp?.render || comp?.setup)) continue
-
-      const app = createApp(comp)
-      app.config.warnHandler = () => {}
-      enhanceAppWithTabs(app)
-      app.provide(dataSymbol, vitePressData)
-      Object.defineProperties(app.config.globalProperties, {
-        $frontmatter: { get() { return vitePressData.frontmatter.value } },
-        $params:      { get() { return vitePressData.page.value.params } }
-      })
-      const div = document.createElement('div')
-      const seenOnPage = new Set<string>()
-
-      // Collect links visible right now in the DOM
-      // heading stack: index = heading level - 1, value = heading text
-      const headingStack: string[] = []
-      const currentAnchor = { v: '' }
-
-      const scrapeLinks = () => {
-        const walker = document.createTreeWalker(div, NodeFilter.SHOW_ELEMENT)
-        let node: Element | null = div
-        while ((node = walker.nextNode() as Element | null)) {
-          const m = node.tagName.match(/^h([1-6])$/i)
-          if (m) {
-            const level = parseInt(m[1]) - 1
-            // Strip icon HTML, keep text only
-            const text = (node as HTMLElement).innerText?.trim()
-              ?? node.textContent?.trim() ?? ''
-            headingStack[level] = text
-            // Clear deeper levels
-            headingStack.length = level + 1
-            const ha = node.querySelector('a[href^="#"]')
-            if (ha) { const h = ha.getAttribute('href')!.slice(1); if (h) currentAnchor.v = h }
-          } else if (node.tagName === 'A') {
-            const href = node.getAttribute('href') ?? ''
-            if (/^https?:\/\//i.test(href)) {
-              const key = href + '\x00' + currentAnchor.v
-              if (!seenOnPage.has(key)) {
-                seenOnPage.add(key)
-                // titles = all heading levels above the link, filtering empty slots
-                const titles = headingStack.filter(Boolean)
-                collected.push({ href, linkText: node.textContent?.trim() ?? '', pageId, anchor: currentAnchor.v, titles })
-              }
-            }
-          }
-        }
-      }
-
-      try {
-        app.mount(div)
-        div.querySelectorAll('details').forEach((d) => { d.open = true })
-        div.querySelectorAll<HTMLElement>('[style*="display: none"],[style*="display:none"]')
-          .forEach((el) => { el.style.display = '' })
-
-        const raf = () => new Promise<void>(r => requestAnimationFrame(() => r()))
-        const tabGroups = div.querySelectorAll<HTMLElement>('.plugin-tabs')
-
-        if (tabGroups.length === 0) {
-          scrapeLinks()
-        } else {
-          // First pass: scrape non-tab content (anchors from headings outside tabs)
-          scrapeLinks()
-          // Then expose every tab panel
-          for (const tabGroup of Array.from(tabGroups)) {
-            const buttons = tabGroup.querySelectorAll<HTMLButtonElement>('.plugin-tabs--tab[role="tab"]')
-            for (const button of Array.from(buttons)) {
-              button.click()
-              await nextTick()
-              await raf()
-              scrapeLinks(anchor)
-            }
-          }
-        }
-      } finally {
-        try { app.unmount() } catch { /* ignore */ }
-      }
-    } catch { /* skip unrenderable pages */ }
-  }
-
-  // Sort by sidebar page order once so urlResults doesn't need to re-sort on every keypress
-  collected.sort((a, b) => {
-    const pa = pageMeta.get(a.pageId)?.order ?? Number.MAX_SAFE_INTEGER
-    const pb = pageMeta.get(b.pageId)?.order ?? Number.MAX_SAFE_INTEGER
-    return pa - pb
-  })
-  return collected
-}
-
-// Lazy ref — null until URL mode is first used
 const allLinks = shallowRef<PageLink[]>([])
-let allLinksIndexVersion: any = null  // track which index version we built for
+let allLinksFetchPromise: Promise<void> | null = null
 
 async function ensureAllLinks() {
-  const index = searchIndex.value as any
-  if (!index) return
-  // Rebuild if the index changed (e.g. HMR)
-  if (allLinksCache && allLinksIndexVersion === index) {
-    allLinks.value = allLinksCache
-    return
-  }
-  if (allLinksBuildPromise) {
-    allLinks.value = await allLinksBuildPromise
-    return
-  }
-  allLinksBuildPromise = buildAllLinks(index, vitePressData)
-  const result = await allLinksBuildPromise
-  allLinksCache = result
-  allLinksIndexVersion = index
-  allLinksBuildPromise = null
-  allLinks.value = result
+  if (allLinks.value.length > 0) return
+  if (allLinksFetchPromise) { await allLinksFetchPromise; return }
+  allLinksFetchPromise = fetch('/url-search-index.json')
+    .then((r) => r.json())
+    .then((data: PageLink[]) => {
+      data.sort((a, b) => {
+        const pa = pageMeta.get(a.pageId)?.order ?? Number.MAX_SAFE_INTEGER
+        const pb = pageMeta.get(b.pageId)?.order ?? Number.MAX_SAFE_INTEGER
+        return pa - pb
+      })
+      allLinks.value = data
+    })
+    .catch(() => { allLinks.value = [] })
+    .finally(() => { allLinksFetchPromise = null })
+  await allLinksFetchPromise
 }
 
-// Kick off link scraping the moment URL mode is activated (lazy, once)
 watch(urlSearchMode, (active) => { if (active) ensureAllLinks() }, { immediate: true })
-
-// If the search index changes (HMR rebuild), invalidate the link cache
-watch(searchIndex, () => {
-  allLinksCache = null
-  allLinksBuildPromise = null
-  allLinksIndexVersion = null
-  allLinks.value = []
-  if (urlSearchMode.value) ensureAllLinks()
-})
 
 interface UrlResult {
   href: string

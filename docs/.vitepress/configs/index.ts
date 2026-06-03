@@ -17,12 +17,11 @@ import { hostname, sidebar, siteConfig } from './constants'
 import { generateImages, generateMeta } from './hooks'
 import { configureMarkdown } from './markdown'
 import { aliases, defs, movePlugin } from './markdown/emoji'
+import { collectPageLinks, writeUrlSearchIndex } from '../plugins/urlSearchPlugin'
 
 const GIT_COMMIT = process.env.NODE_ENV === 'development'
   ? 'dev'
-  /** Github actions commit hash */
   : (process.env.GITHUB_SHA ??
-    /** Commit hash from git */
     (await (await import('tinyexec'))
       .x('git', ['rev-parse', 'HEAD'])
       .then((result) => result.stdout.trim())) ??
@@ -31,7 +30,11 @@ const GIT_COMMIT = process.env.NODE_ENV === 'development'
 export const shared: UserConfig<DefaultTheme.Config> = {
   ...siteConfig,
   transformHead: async (context) => generateMeta(context, hostname),
+  transformHtml: async (html, _id, ctx) => {
+    collectPageLinks(html, ctx.page)
+  },
   buildEnd: async (context) => {
+    writeUrlSearchIndex(context.outDir)
     if (process.env.CI) {
       await generateImages(context)
     }
@@ -58,12 +61,10 @@ export const shared: UserConfig<DefaultTheme.Config> = {
               const titles = (storedFields?.titles as string[])
                 .filter((t) => Boolean(t))
                 .map((t) => t.toLowerCase())
-              // Uprate if term appears in titles. Add bonus for higher levels (i.e. lower index)
               const titleIndex = titles
                 .map((t, i) => (t?.includes(term) ? i : -1))
                 .find((i) => i >= 0) ?? -1
               if (titleIndex >= 0) return 10000 - titleIndex
-
               return 1
             }
           }
@@ -74,7 +75,6 @@ export const shared: UserConfig<DefaultTheme.Config> = {
     },
     logo: { src: '/asset/fav.svg' },
     sidebar,
-    // nav,
     socialLinks: [
       { icon: 'github', link: 'https://github.com/wotakumoe/Wotaku' },
       { icon: 'discord', link: 'https://discord.gg/vShRGx8ZBC' }
@@ -82,10 +82,7 @@ export const shared: UserConfig<DefaultTheme.Config> = {
     footer: {
       message:
         `<a href="https://github.com/wotakumoe">The Wotaku Team</a> <span class="divider">|</span> <a href="https://github.com/wotakumoe/Wotaku/commit/${GIT_COMMIT}">${
-          GIT_COMMIT.slice(
-            0,
-            7
-          )
+          GIT_COMMIT.slice(0, 7)
         }</a>`,
       copyright: 'made with love and eepy energy'
     }
