@@ -231,7 +231,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | ^^ | [YACReader](https://www.yacreader.com/) [:src:](https://github.com/YACReader/yacreader) ==YACReader== | :win::app::lin: | :sp::dp: |
 | ^^ | [CDisplayEx](https://www.cdisplayex.com/) :cs: ==CDisplayEx== | :win: | :sp::dp: |
 | ^^ | [Yomikiru](https://github.com/mienaiyami/yomikiru) ==Yomikiru== | :win::lin: | :sp::dp::ls: |
-| ^^ | [NeeView](https://neelabo.github.io/NeeView/en-us/) [:src:](https://github.com/neelabo/NeeView) | :win: | :sp::dp: |
+| ^^ | [NeeView](https://neelabo.github.io/NeeView/en-us/) [:src:](https://github.com/neelabo/NeeView) | :win: | :sp::dp::ls: |
 | ^^ | [MComix](https://sourceforge.net/projects/mcomix/files/) ==MComix== | :win::lin: | :sp::dp: |
 | ^^ | [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) [:src:](https://github.com/sumatrapdfreader/sumatrapdf) ==SumatraPDF== | :win: | :sp::dp::ls: |
 | ^^ | [ComicRack CE](https://github.com/maforget/ComicRackCE) | :win: | :sp::dp: |

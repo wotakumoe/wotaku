@@ -33,7 +33,7 @@ outline: 1
 ### Self-uploaded
 | Websites | Login | Tracking | Sub |
 |----------|-------|----------|-----|
-| [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) | :yes: | :msync: | :cc::oc: |
+| [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) [:alt:](https://mkissa.to/anime) | :yes: | :msync: | :cc::oc: |
 | [Anibd](https://anibd.app/) [:alt:](https://ani.lol/) | :yes: | :no: | :oc: |
 | [AniHQ](https://anihq.org/home/) | :yes: | :no: | :oc: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :yes: | :sync::ie::msync: | :cc: |
@@ -68,6 +68,7 @@ outline: 1
 - [Chiki Animation 2D](https://chikianimation.com/) [:tg:](https://t.me/Donghuanewofficial)
 - [Chiki Animation 3D](https://chikianimation.online/) [:tg:](https://t.me/Dimensional_Animation)
 - [Crimson Subs](https://crimsonfansubs.com/)
+- [donghua.site](https://donghua.site/)
 - [Donghua Stream](https://donghuastream.org/) [:d:](https://discord.gg/4zrUguAakG) [:tg:](https://telegram.me/DonghuaStream_com)
 - [Dongsub](https://www.dongsub.net/) [:tg:](https://t.me/dongsub)
 - [LM Anime](https://lmanime.com/)
@@ -166,7 +167,7 @@ outline: 1
 | [MangaK](https://mangak.io/home) | :no: | :ss: | :ls: | :cmnt: |
 | [Mangahub](https://mangahub.io/) :acc: | :msync: | :ss: | :ls: | :cmnt: |
 | [Manga Fox](https://mangafox.la/) [:prx:](https://rentry.org/wotaxy#manga-fox) | :msync: | :ss: | :sp::ls:  | :cmnt: |
-| [MangaKakalot](https://www.mangakakalot.gg/) [:prx:](https://rentry.org/wotaxy#mangakakalot) | :msync: | :ss: | :ls: | :cmnt: |
+| [ZinManga](https://www.zinmanga.net/) [:alt:](https://www.zazamanga.com/) | :no: | :ss: | :ls: | :cmnt: |
 
 
 ### Manwha and Manhua
