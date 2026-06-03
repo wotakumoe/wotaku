@@ -95,3 +95,22 @@ export function writeUrlSearchIndex(outDir: string) {
   writeFileSync(outPath, JSON.stringify(deduped), 'utf-8')
   console.log(`[url-search] wrote ${deduped.length} links → ${outPath}`)
 }
+
+export function urlSearchDevPlugin() {
+  return {
+    name: 'url-search-dev',
+    configureServer(server: any) {
+      server.middlewares.use('/url-search-index.json', (_req: any, res: any) => {
+        const seen = new Set<string>()
+        const deduped = collected.filter((l) => {
+          const key = l.href + '\x00' + l.pageId + '\x00' + l.anchor
+          if (seen.has(key)) return false
+          seen.add(key)
+          return true
+        })
+        res.setHeader('Content-Type', 'application/json')
+        res.end(JSON.stringify(deduped))
+      })
+    }
+  }
+}

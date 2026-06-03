@@ -17,7 +17,7 @@ import { hostname, sidebar, siteConfig } from './constants'
 import { generateImages, generateMeta } from './hooks'
 import { configureMarkdown } from './markdown'
 import { aliases, defs, movePlugin } from './markdown/emoji'
-import { collectPageLinks, writeUrlSearchIndex } from '../plugins/urlSearchPlugin'
+import { collectPageLinks, urlSearchDevPlugin, writeUrlSearchIndex } from '../plugins/urlSearchPlugin'
 
 const GIT_COMMIT = process.env.NODE_ENV === 'development'
   ? 'dev'
@@ -107,6 +107,7 @@ export const shared: UserConfig<DefaultTheme.Config> = {
       ]
     },
     plugins: [
+      urlSearchDevPlugin(),
       Devtools(),
       PageProperties(),
       PagePropertiesMarkdownSection(),
