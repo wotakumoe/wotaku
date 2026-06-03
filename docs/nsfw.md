@@ -44,8 +44,7 @@ og:
 ## Manga
 
 ### General
-- [E-Hentai](https://e-hentai.org/) :s: ==EHentai==
-- :prev: [E-Hentai Search Guide](https://e-hentaitagsearch.blogspot.com/)
+- [E-Hentai](https://e-hentai.org/) :s: [:help:](https://e-hentaitagsearch.blogspot.com/) ==EHentai==
 - [Akuma](https://akuma.moe/) ==Akuma==
 - [HDoujin](https://hdoujin.org/) :s: ==HDoujin==
 - [Hitomi](https://hitomi.la/) ==Hitomi==
