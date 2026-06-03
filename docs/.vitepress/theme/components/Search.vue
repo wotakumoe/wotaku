@@ -207,7 +207,7 @@ interface UrlResult {
   highlighted: string
 }
 
-const URL_PAGE_SIZE = 50
+const URL_PAGE_SIZE = 25
 
 // 1-indexed current page within the URL results.
 const urlPage = ref(1)
