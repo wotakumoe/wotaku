@@ -30,9 +30,6 @@ const GIT_COMMIT = process.env.NODE_ENV === 'development'
 export const shared: UserConfig<DefaultTheme.Config> = {
   ...siteConfig,
   transformHead: async (context) => generateMeta(context, hostname),
-  transformHtml: async (html, _id, ctx) => {
-    collectPageLinks(html, ctx.page)
-  },
   buildEnd: async (context) => {
     writeUrlSearchIndex(context.outDir)
     if (process.env.CI) {
@@ -68,6 +65,10 @@ export const shared: UserConfig<DefaultTheme.Config> = {
               return 1
             }
           }
+        },
+        _render(src, env, md) {
+          collectPageLinks(src, env.relativePath)
+          return md.render(src, env)
         },
         detailedView: true
       },

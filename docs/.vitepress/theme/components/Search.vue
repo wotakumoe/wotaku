@@ -1,8 +1,9 @@
 <script lang="ts" setup>
 import MiniSearch, { type SearchResult } from 'minisearch'
-import { type DefaultTheme, inBrowser, useRouter } from 'vitepress'
+import { type DefaultTheme, dataSymbol, inBrowser, useRouter } from 'vitepress'
 import {
   computed,
+  createApp,
   markRaw,
   nextTick,
   onBeforeUnmount,
@@ -642,6 +643,10 @@ watchDebounced(
       }
     }
 
+    // Show results immediately (excerpts may be empty on first detail-view switch;
+    // they fill in below once built)
+    results.value = toRows(_result)
+
     if (showDetailedListValue) {
       const eagerDocs = new Set<string>()
       for (const r of _result.slice(0, EAGER_EXCERPTS)) {
@@ -1236,22 +1241,24 @@ function onMouseMove(e: MouseEvent) {
             class="results"
             @mousemove="onMouseMove"
           >
-            <!-- URL search mode results -->
+            <!-- Empty state (shared) -->
+            <div
+              v-if="urlSearchMode
+                ? (!filterText || !urlResults.length)
+                : (!filterText || !filteredResults.length)"
+              class="flex flex-col justify-center items-center h-47.5 gap-2 font-medium text-sm text-gray-500 dark:text-gray-300 m-auto md:mt-10 md:mb-6 opacity-90"
+            >
+              <img
+                class="h-40 object-contain object-center -translate-x-2"
+                src="/asset/smolame.png"
+                alt="Smol ame"
+              />
+              <h1 v-if="filterText">Couldn't find anything, try again?</h1>
+              <h1 v-else>Looking for something?</h1>
+            </div>
+
+            <!-- URL search results -->
             <template v-if="urlSearchMode">
-              <div
-                class="flex flex-col justify-center items-center h-47.5 gap-2 font-medium text-sm text-gray-500 dark:text-gray-300 m-auto md:mt-10 md:mb-6 opacity-90"
-                v-if="!filterText || (filterText && !urlResults.length)"
-              >
-                <img
-                  class="h-40 object-contain object-center -translate-x-2"
-                  src="/asset/smolame.png"
-                  alt="Smol ame"
-                />
-                <h1 v-if="filterText && !urlResults.length">
-                  Couldn't find anything, try again?
-                </h1>
-                <h1 v-else>Looking for something?</h1>
-              </div>
               <li
                 v-for="(item, index) in filteredUrlResults"
                 :key="item.href + item.pageId"
@@ -1262,7 +1269,7 @@ function onMouseMove(e: MouseEvent) {
               >
                 <a
                   :href="item.anchor ? item.pageId + '#' + item.anchor : item.pageId"
-                  class="result url-result"
+                  class="result"
                   :class="{ selected: selectedIndex === index + 1 }"
                   :aria-label="item.linkText || item.href"
                   @mouseenter="!disableMouseOver && (selectedIndex = index + 1)"
@@ -1270,36 +1277,33 @@ function onMouseMove(e: MouseEvent) {
                   @click="onResultClick"
                   :data-index="index + 1"
                 >
-                  <div class="url-result-content">
-                    <div>
-                      <div class="titles">
-                        <Hash v-if="item.titles.length > 0" stroke-width="1.25" :size="18" />
-                        <File v-else stroke-width="1.25" :size="18" />
-                        <span
-                          v-for="(t, ti) in item.titles"
-                          :key="ti"
-                          class="title"
-                        >
-                          <span class="text" v-html="t" />
-                          <ArrowRight stroke-width="1.25" :size="18" class="mx-0.5" />
-                        </span>
-                        <span class="title main">
-                          <span class="text">{{ item.linkText || item.href }}</span>
-                        </span>
-                      </div>
-
+                  <div>
+                    <div class="titles">
+                      <Hash v-if="item.titles.length > 0" stroke-width="1.25" :size="18" />
+                      <File v-else stroke-width="1.25" :size="18" />
+                      <span
+                        v-for="(t, ti) in item.titles"
+                        :key="ti"
+                        class="title"
+                      >
+                        <span class="text" v-html="t" />
+                        <ArrowRight stroke-width="1.25" :size="18" class="mx-0.5" />
+                      </span>
+                      <span class="title main">
+                        <span class="text">{{ item.linkText || item.href }}</span>
+                      </span>
+                      <a
+                        :href="item.href"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        class="url-open-btn"
+                        :class="{ 'url-open-btn-selected': selectedIndex === index + 1 }"
+                        title="Open link"
+                        @click.stop
+                      >
+                        <ExternalLink :size="14" stroke-width="1.5" />
+                      </a>
                     </div>
-                    <a
-                      :href="item.href"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      class="url-open-btn"
-                      :class="{ 'url-open-btn-selected': selectedIndex === index + 1 }"
-                      title="Open link"
-                      @click.stop
-                    >
-                      <ExternalLink :size="14" stroke-width="1.5" />
-                    </a>
                   </div>
                 </a>
               </li>
@@ -1307,22 +1311,7 @@ function onMouseMove(e: MouseEvent) {
 
             <!-- Normal search results -->
             <template v-else>
-            <div
-              class="flex flex-col justify-center items-center h-47.5 gap-2 font-medium text-sm text-gray-500 dark:text-gray-300 m-auto md:mt-10 md:mb-6 opacity-90"
-              v-if="!filterText || (filterText && !filteredResults.length)"
-            >
-                <img
-                  class="h-40 object-contain object-center -translate-x-2"
-                  src="/asset/smolame.png"
-                  alt="Smol ame"
-                />
-                <h1 v-if="filterText && !filteredResults.length">
-                  Couldn't find anything, try again?
-                </h1>
-                <h1 v-else>Looking for something?</h1>
-              </div>
-
-            <li
+              <li
                 v-for="(p, index) in filteredResults"
                 :key="p.id"
                 class="result-layout"
@@ -1333,36 +1322,24 @@ function onMouseMove(e: MouseEvent) {
                 <a
                   :href="p.id"
                   class="result"
-                  :class="{
-                    selected: selectedIndex === index + 1
-                  }"
+                  :class="{ selected: selectedIndex === index + 1 }"
                   :aria-label="[...p.titles, p.title].join(' > ')"
-                  @mouseenter="!disableMouseOver &&
-                  (selectedIndex = index + 1)"
+                  @mouseenter="!disableMouseOver && (selectedIndex = index + 1)"
                   @focusin="selectedIndex = index + 1"
                   @click="onResultClick"
                   :data-index="index + 1"
                 >
                   <div>
                     <div class="titles">
-                      <Hash
-                        v-if="p.titles.length > 0"
-                        stroke-width="1.25"
-                        :size="18"
-                      />
+                      <Hash v-if="p.titles.length > 0" stroke-width="1.25" :size="18" />
                       <File v-else stroke-width="1.25" :size="18" />
-
                       <span
                         v-for="(t, index) in p.titles"
                         :key="index"
                         class="title"
                       >
                         <span class="text" v-html="t" />
-                        <ArrowRight
-                          stroke-width="1.25"
-                          :size="18"
-                          class="mx-0.5"
-                        />
+                        <ArrowRight stroke-width="1.25" :size="18" class="mx-0.5" />
                       </span>
                       <span class="title main">
                         <span class="text" v-html="p.title" />
@@ -1370,11 +1347,7 @@ function onMouseMove(e: MouseEvent) {
                     </div>
 
                     <div v-if="showDetailedList" class="excerpt-wrapper">
-                      <div
-                        v-if="p.text"
-                        class="excerpt"
-                        inert
-                      >
+                      <div v-if="p.text" class="excerpt" inert>
                         <div class="vp-doc" v-html="p.text" />
                       </div>
                       <div class="excerpt-gradient-bottom" />
@@ -1383,7 +1356,7 @@ function onMouseMove(e: MouseEvent) {
                   </div>
                 </a>
               </li>
-          </template>
+            </template>
           </ul>
 
           <div class="search-keyboard-shortcuts">
@@ -1918,30 +1891,18 @@ svg {
   background: rgba(60, 120, 210, 0.10);
 }
 
-.url-result-content {
-  display: flex;
-  align-items: center;
-  width: 100%;
-  gap: 8px;
-}
-
-.url-result-content > div:first-child {
-  flex: 1;
-  min-width: 0;
-}
-
 .url-open-btn {
   flex: none;
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 28px;
-  height: 28px;
-  border-radius: 6px;
+  width: 24px;
+  height: 24px;
+  border-radius: 4px;
   color: var(--vp-c-text-3);
   opacity: 0;
   transition: opacity 0.15s, color 0.15s, background 0.15s;
-  margin-right: 4px;
+  margin-left: auto;
 }
 
 .result:hover .url-open-btn,
@@ -1962,21 +1923,6 @@ svg {
 
 .url-open-btn-selected {
   color: var(--vp-c-brand-1) !important;
-}
-
-.url-excerpt {
-  height: auto !important;
-  max-height: none !important;
-  overflow: visible !important;
-}
-
-.url-excerpt-href {
-  font-size: 0.78rem !important;
-  font-family: var(--vp-font-family-mono, monospace);
-  color: var(--vp-c-text-2);
-  word-break: break-all;
-  line-height: 1.5;
-  padding: 2px 0;
 }
 
 :deep(.url-highlight) {

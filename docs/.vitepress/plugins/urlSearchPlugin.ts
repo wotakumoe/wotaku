@@ -9,58 +9,63 @@ export interface PageLink {
   titles: string[]
 }
 
-function stripTags(html: string): string {
-  return html.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim()
-}
-
-function decodeEntities(s: string): string {
-  return s
-    .replace(/&amp;/g, '&')
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
-}
-
-function extractLinks(html: string, pageId: string): PageLink[] {
+function extractLinksFromMarkdown(src: string, pageId: string): PageLink[] {
   const results: PageLink[] = []
   const seen = new Set<string>()
   const headingStack: string[] = []
   let currentAnchor = ''
 
-  const tagRE = /<(h[1-6]|a)\b([^>]*)>([^<]*)/gi
-  let m: RegExpExecArray | null
+  // Strip frontmatter
+  const body = src.startsWith('---')
+    ? src.replace(/^---[\s\S]*?---\n?/, '')
+    : src
 
-  while ((m = tagRE.exec(html)) !== null) {
-    const [, tag, attrs, text] = m
-    const tagLower = tag.toLowerCase()
-
-    if (/^h[1-6]$/.test(tagLower)) {
-      const level = parseInt(tagLower[1]) - 1
-      const idMatch = attrs.match(/\bid=["']([^"']*)["']/)
-      if (idMatch) currentAnchor = idMatch[1]
-      const rest = html.slice(tagRE.lastIndex)
-      const closeIdx = rest.search(new RegExp(`</${tagLower}>`, 'i'))
-      const headingHtml = text + (closeIdx >= 0 ? rest.slice(0, closeIdx) : '')
-      headingStack[level] = decodeEntities(stripTags(headingHtml))
+  for (const line of body.split('\n')) {
+    // Heading: ## Title or === Title (setext-style ignored, ATX only)
+    const headingMatch = line.match(/^(#{1,6})\s+(.+)/)
+    if (headingMatch) {
+      const level = headingMatch[1].length - 1
+      const text = headingMatch[2].trim()
+      headingStack[level] = text
       headingStack.length = level + 1
+      // Derive anchor the same way VitePress does: lowercase, spaces→hyphens, strip non-word
+      currentAnchor = text
+        .toLowerCase()
+        .replace(/[^\w\s-]/g, '')
+        .replace(/\s+/g, '-')
+        .replace(/-+/g, '-')
+        .replace(/^-|-$/g, '')
       continue
     }
 
-    if (tagLower === 'a') {
-      const hrefMatch = attrs.match(/\bhref=["']([^"']*)["']/)
-      if (!hrefMatch) continue
-      const href = decodeEntities(hrefMatch[1])
-      if (!/^https?:\/\//i.test(href)) continue
+    // Markdown links: [text](https://...)
+    const linkRE = /\[([^\]]*)\]\((https?:\/\/[^)]+)\)/g
+    let m: RegExpExecArray | null
+    while ((m = linkRE.exec(line)) !== null) {
+      const linkText = m[1].trim()
+      const href = m[2].trim()
       const key = href + '\x00' + currentAnchor
       if (seen.has(key)) continue
       seen.add(key)
-      const rest = html.slice(tagRE.lastIndex)
-      const closeIdx = rest.search(/<\/a>/i)
-      const linkHtml = text + (closeIdx >= 0 ? rest.slice(0, closeIdx) : '')
       results.push({
         href,
-        linkText: decodeEntities(stripTags(linkHtml)),
+        linkText,
+        pageId,
+        anchor: currentAnchor,
+        titles: headingStack.filter(Boolean)
+      })
+    }
+
+    // Bare angle-bracket URLs: <https://...>
+    const bareRE = /<(https?:\/\/[^>]+)>/g
+    while ((m = bareRE.exec(line)) !== null) {
+      const href = m[1].trim()
+      const key = href + '\x00' + currentAnchor
+      if (seen.has(key)) continue
+      seen.add(key)
+      results.push({
+        href,
+        linkText: href,
         pageId,
         anchor: currentAnchor,
         titles: headingStack.filter(Boolean)
@@ -73,10 +78,9 @@ function extractLinks(html: string, pageId: string): PageLink[] {
 
 const collected: PageLink[] = []
 
-export function collectPageLinks(html: string, page: string) {
-  // page is like "anime/watching.md" (relative to srcDir)
+export function collectPageLinks(src: string, page: string) {
   const pageId = '/' + page.replace(/\.md$/, '').replace(/\/index$/, '/')
-  collected.push(...extractLinks(html, pageId))
+  collected.push(...extractLinksFromMarkdown(src, pageId))
 }
 
 export function writeUrlSearchIndex(outDir: string) {
