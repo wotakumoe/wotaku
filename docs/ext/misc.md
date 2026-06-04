@@ -27,12 +27,12 @@ og:
 | [zzikozz](https://codeberg.org/zzikozz/frencharchive/) | :cfr: | [Install](cloudstreamrepo://codeberg.org/zzikozz/frencharchive/raw/branch/Release/repo.json) | [URL](https://codeberg.org/zzikozz/frencharchive/raw/branch/Release/repo.json) |
 
 ## Hayase
-| Type | Manual |
-|-|-|
-| Default | [URL](https://exten.pages.dev/index.json) |
-| Dub | [URL](https://exten.pages.dev/dub/index.json) |
-| Multi-Subs | [URL](https://exten.pages.dev/multi/index.json) |
-| Hentai | [URL](https://exten.pages.dev/hentai/index.json) |
+| Type | Auto | Manual |
+|-|-|-|
+| Default | [Install](hayase://extensions/install?url=exten.pages.dev/index.json) | [URL](https://exten.pages.dev/index.json) |
+| Dub | [Install](hayase://extensions/install?url=exten.pages.dev/dub/index.json) | [URL](https://exten.pages.dev/dub/index.json) |
+| Multi-Subs | [Install](hayase://extensions/install?url=exten.pages.dev/multi/index.json) | [URL](https://exten.pages.dev/multi/index.json) |
+| Hentai | [Install](hayase://extensions/install?url=exten.pages.dev/hentai/index.json) | [URL](https://exten.pages.dev/hentai/index.json) |
 
 ## IReader
 | Type | Manual |
