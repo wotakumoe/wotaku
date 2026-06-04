@@ -9,7 +9,7 @@ This guide covers the essentials of converting DVDs, BDs, and UHDs into digital 
 <Authors page="discrip" />
 
 ## Software needed
-You'll mainly need [**MakeMKV**](https://www.makemkv.com/). It's currently free and in public beta (although you'll need to get a key for it, which can be found on [**the forum**](https://forum.makemkv.com/forum/viewtopic.php?f=5&t=1053) and registered via `Help > Register`. There's also an [**auto-updater tool**](https://cable.ayra.ch/makemkv/)).
+You'll mainly need [**MakeMKV**](https://www.makemkv.com/). It's currently free and in public beta (although you'll need to get a key for it, which can be found on [**the forum**](https://forum.makemkv.com/forum/viewtopic.php?f=5&t=1053) and registered via `Help > Register`).
 
 If you want to make ISOs (i.e. make a basically full copy of the disc), you have two options:
 

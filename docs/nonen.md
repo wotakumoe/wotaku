@@ -111,7 +111,6 @@ Most apps in [**software**](/software) supports multilingual sources
 | Category | Website |
 | :--- | :--- |
 | **Stream** | [AGE](https://www.agedm.io/) [:prx:](https://github.com/agefanscom/website) |
-| ^^ | [Bimibimi](https://www.bimiacg14.net/) [:prx:](https://www.bimiacg.icu/) |
 | ^^ | [MoMoVod](https://momovod.app/show/30.html) |
 | ^^ | [XG Cartoon](https://www.xgcartoon.com/) |
 | ^^ | [Yinghuacd](https://www.yinhuadm.cc/) [:prx:](http://yinhuadm.one/) |
@@ -332,7 +331,7 @@ Most apps in [**software**](/software) supports multilingual sources
 
 | Category | Website |
 | :--- | :--- |
-| **Stream** | [Anichin](https://s25.anichin.blog/) [:prx:](https://anichin.bio/) |
+| **Stream** | [Anichin](https://z1.anichin.blog/) |
 | ^^ | [Kuramanime](https://kuramanime.red/) |
 | ^^ | [Kiyocomics](https://kiyocomics.netlify.app/) [:src:](https://github.com/Bilhaq12/kiyoanime) |
 | ^^ | [Mynimeku](https://www.mynimeku.com/) |
@@ -443,7 +442,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | [DLRaw.net](https://dlraw.cc/category/raw-manga/) [:prx:](https://rentry.org/wotaxy#dlraw) | :yes: | :yes: | :yes: |
 | [DL-Zip](https://dl-zip.com/) | :yes: | :yes: | :yes: |
 | [JPFiles](https://jpfiles.net/) | :yes: | :yes: | :yes: |
-| [Manga Zone](http://www.manga-zone.org/) | :yes: | :no: | :yes: |
 | [Manga ZIP](https://manga-zip.is/post) | :yes: | :no: | :yes: |
 | [RawInstant](https://rawinstant.net/manga/) | :yes: | :yes: | :yes: |
 | [Raw Cans](http://raw-cans.net/) | :yes: | :no: | :yes: |
@@ -626,7 +624,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [HentaiJL](https://hentaijl.com/) :ero: |
 | **Download** | [Japan Paw!](https://japanpaw.com/) |
 | ^^ | [SphinxAnime](https://sphinxanime.com/) |
-| ^^ | [Nekomitai](https://nekomitai.net/) |
 | ^^ | [Ivanime](https://www.ivanime.com/) |
 | ^^ | [DW Anime](https://dw-anime.net/) |
 | ^^ | [Az-Animex](https://www.az-animex.com/) |

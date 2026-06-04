@@ -63,7 +63,6 @@ outline: 1
 <Collapsible title="Donghua dedicated">
 
 - [Animekhor](https://animekhor.org/) [:tg:](https://t.me/AnimeKhorOfficial)
-- [Anoboye](https://anoboye.com/) [:d:](https://discord.gg/rzqrzCZGgY)
 - [AnimeXin](https://animexin.dev/)
 - [Chiki Animation 2D](https://chikianimation.com/) [:tg:](https://t.me/Donghuanewofficial)
 - [Chiki Animation 3D](https://chikianimation.online/) [:tg:](https://t.me/Dimensional_Animation)
@@ -161,7 +160,7 @@ outline: 1
 | [Comix](https://comix.to/)  ==Comix== | :ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [MangaTaro](https://mangataro.org/home) | :ie::msync: | :ps::up: | :sp::dp::ls: | :cmnt: |
 | [MangaKatana](https://mangakatana.com/) | :ie::msync: | :ss: | :ls: | :cmnt: |
-| [Mangadotnet](https://mangadot.net/) ==Mangadotnet== | :sync: | :ps::up: | :sp::dp::ls: | :cmnt::frm: |
+| [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | :sync: | :ps::up: | :sp::dp::ls: | :cmnt::frm: |
 | [MangaBall](https://mangaball.net/)  | :msync: | :ps::up: | :ls: | :cmnt: |
 | [OniSaga](https://onisaga.com/home) ==OniSaga== | :ie: | :ss::up: | :sp::dp::ls: | :no: |
 | [MangaK](https://mangak.io/home) | :no: | :ss: | :ls: | :cmnt: |
