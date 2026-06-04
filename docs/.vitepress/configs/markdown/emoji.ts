@@ -139,6 +139,7 @@ const aliasDefs: Record<string, [string, string?]> = {
   vk: ['simple-icons-vk', 'VK'],
 
   // Other Websites
+  yt: ['simple-icons-youtube', 'YouTube'],
   steam: ['simple-icons-steam', 'Steam'],
   gog: ['mdi-gog', 'GOG'],
   iarch: ['simple-icons-internetarchive', 'Internet Archive'],
