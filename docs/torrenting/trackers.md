@@ -23,7 +23,7 @@ og:
 | Category    | Websites                                                                 |
 | ----------- | ------------------------------------------------------------------------ |
 | General     | [AnimeBytes](https://animebytes.tv/)                                     |
-| ^^          | [BakaBT](https://bakabt.me/)                                             |
+| ^^          | [BakaBT](https://bakabt.me/) [:help:](https://wiki.bakabt.me/index.php/Sign_up) |
 | Anime       | [AnimeZ](https://animez.to/) [:d:](https://discord.gg/GYahYNWutE)        |
 | ^^          | [Oldtoons](https://oldtoons.world/)                                      |
 | ^^          | [U2](https://u2.dmhy.org/portal.php)                                     |
@@ -32,7 +32,7 @@ og:
 | Live Action | [AvistaZ](https://avistaz.to/) [:d:](https://discord.gg/GYahYNWutE)      |
 | ^^          | [AsianCinema](https://eiga.moi/)                                         |
 | ^^          | [JPTVTS](https://jptvts.us/)                                             |
-| Music       | [Redacted](https://redacted.sh/)                                         |
+| Music       | [Redacted](https://redacted.sh/) [:help:](https://interviewfor.red/en/index.html) |
 | ^^          | [JPopsuki](https://jpopsuki.eu/)                                         |
 | ^^          | [Orpheus](https://orpheus.network/)                                      |
 | ^^          | [Bemaniso](https://bemaniso.ws/)                                         |
@@ -40,15 +40,10 @@ og:
 | NSFW        | [ExoticaZ](https://exoticaz.to/) [:d:](https://discord.gg/GYahYNWutE)    |
 | ^^          | [Empornium](https://www.empornium.sx/)                                   |
 
-<Collapsible title="Related resources">
-
+::: tip Related resources
 - [InstallGentoo Wiki](https://igwiki.lyci.de//wiki/Private_trackers) :s:
 - [Invite route graph](https://inviteroute.github.io/graph/)
-- [Redacted Interview Prep](https://interviewfor.red/en/index.html)
-  - [Wotaku Audio Glossary](/glossary/audio)
-- [BakaBT Wiki](https://wiki.bakabt.me/index.php/Sign_up)
-
-</Collapsible>
+:::
 
 ## Non-English
 
