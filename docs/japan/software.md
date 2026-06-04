@@ -16,7 +16,7 @@ og:
 | Software | [Anki](https://apps.ankiweb.net/) :win::app::lin: |
 | ^^ | [AnkiDroid Flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki) :and: |
 | ^^ | :prev: [Anki with Add-ons on Android: Guide](https://github.com/kaihouguide/the_ULTIMATE_android_mining_setup) |
-| ^^ | [AnkiMobile Flashcards](https://apps.apple.com/app/ankimobile-flashcards/id373493387) :ios::paid: |
+| ^^ | [AnkiMobile Flashcards](https://apps.apple.com/app/id373493387) :ios::paid: |
 | ^^ | [Ankiconnect Android](https://github.com/KamWithK/AnkiconnectAndroid) :and: |
 | ^^ | [KAnki](https://github.com/crizmo/KAnki) :simple-icons-amazon: |
 | Guide | [Anki Manual](https://docs.ankiweb.net/) |
@@ -88,9 +88,9 @@ og:
 | ^^ | [Kaku Japanese Dictionary (OCR)](https://github.com/0xbad1d3a5/Kaku) |
 | ^^ | [Nani?](https://f-droid.org/en/packages/eu.lepiller.nani/) |
 | ^^ | [Rin](https://github.com/kamui-fin/rin) |
-| **iOS** | [Kantan Manga](https://apps.apple.com/app/kantan-manga/id1518666365) |
-| ^^ | [Shiori Reader](https://apps.apple.com/app/shiori-reader/id6744979827) |
-| ^^ | [Shirabe Jisho](https://ricoapps.com/) [:ios:](https://apps.apple.com/app/shirabe-jisho/id1005203380) |
+| **iOS** | [Kantan Manga](https://apps.apple.com/app/id1518666365) |
+| ^^ | [Shiori Reader](https://apps.apple.com/app/id6744979827) |
+| ^^ | [Shirabe Jisho](https://ricoapps.com/) [:ios:](https://apps.apple.com/app/id1005203380) |
 
 ### Learning
 
@@ -105,13 +105,13 @@ og:
 | ^^ | [renshuu](https://play.google.com/store/apps/details?id=com.renshuu.renshuu_org) [:web:](https://www.renshuu.org/) |
 | ^^ | [Textbender](https://github.com/fruitports/android-textbender) |
 | ^^ | [Vocal Pitch Monitor](https://play.google.com/store/apps/details?id=com.tadaoyamaoka.vocalpitchmonitor) |
-| **iOS** | [Japanese](https://apps.apple.com/app/japanese/id290664053) |
-| ^^ | [Learn Japanese! - Kanji](https://apps.apple.com/app/learn-japanese-kanji/id1078107994) |
-| ^^ | [KankenToNews](https://apps.apple.com/app/kankentonews/id1449966937) |
-| ^^ | [Kana - Hiragana and Katakana](https://apps.apple.com/app/kana-hiragana-and-katakana/id1454200955) |
-| ^^ | [Kanji Garden](https://apps.apple.com/app/kanji-garden-japanese/id1338967114) [:web:](https://kanji.garden/) |
-| ^^ | [kawaiiNihongo](https://apps.apple.com/app/kawaiinihongo-learn-japanese/id1015333181) |
-| ^^ | [renshuu](https://apps.apple.com/app/renshuu-japanese-learning/id1542730063) [:web:](https://www.renshuu.org/) |
+| **iOS** | [Japanese](https://apps.apple.com/app/id290664053) |
+| ^^ | [Learn Japanese! - Kanji](https://apps.apple.com/app/id1078107994) |
+| ^^ | [KankenToNews](https://apps.apple.com/app/id1449966937) |
+| ^^ | [Kana - Hiragana and Katakana](https://apps.apple.com/app/id1454200955) |
+| ^^ | [Kanji Garden](https://apps.apple.com/app/id1338967114) [:web:](https://kanji.garden/) |
+| ^^ | [kawaiiNihongo](https://apps.apple.com/app/id1015333181) |
+| ^^ | [renshuu](https://apps.apple.com/app/id1542730063) [:web:](https://www.renshuu.org/) |
 
 ### Reader
 
@@ -122,12 +122,12 @@ og:
 | ^^ | [Hoshi Reader Android](https://github.com/HuangAntimony/Hoshi-Reader-Android) |
 | ^^ | [Satori Reader](https://play.google.com/store/apps/details?id=com.braksoftware.SatoriReader) [:web:](https://www.satorireader.com/) |
 | ^^ | [Write It! Japanese](https://play.google.com/store/apps/details?id=com.jernung.writeit.jpn) |
-| **iOS** | [Easy Japanese](https://apps.apple.com/app/easy-japanese-news-%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/id1107177166) [:web:](https://japanese.todaiinews.com/) |
-| ^^ | [Hoshi Reader](https://github.com/Manhhao/Hoshi-Reader) |
+| **iOS** | [Hoshi Reader](https://github.com/Manhhao/Hoshi-Reader) |
 | ^^ | [Immersion Reader](https://reader.immersionkit.com/) |
 | ^^ | [Manabi Reader](https://reader.manabi.io/) |
-| ^^ | [Satori Reader](https://apps.apple.com/app/satori-reader/id1382950847) [:web:](https://www.satorireader.com/) |
-| ^^ | [Write It! Japanese](https://apps.apple.com/app/write-it-japanese/id1268225663) |
+| ^^ | [Satori Reader](https://apps.apple.com/app/id1382950847) [:web:](https://www.satorireader.com/) |
+| ^^ | [Todaii](https://apps.apple.com/app/id1107177166) [:web:](https://japanese.todaiinews.com/) |
+| ^^ | [Write It! Japanese](https://apps.apple.com/app/id1268225663) |
 
 
 ## PC

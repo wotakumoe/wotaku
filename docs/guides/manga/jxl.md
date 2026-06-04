@@ -18,7 +18,7 @@ og:
 
 ### iOS
 - [YACReader](https://apps.apple.com/app/id635717885) :s::paid::cs: [:tf:](https://testflight.apple.com/join/5zhB7sRP)
-- [Panels](https://apps.apple.com/app/panels-comic-reader/id1236567663) :fm::sub::cs:
+- [Panels](https://apps.apple.com/app/id1236567663) :fm::sub::cs:
 
 ### PC
 | Type | Reader | Platform |

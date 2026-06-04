@@ -150,7 +150,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 |---------|---------|-----|
 | [asia DREAM radio](https://asiadreamradio.torontocast.stream/stations/en/index.html) | [MP3 128](https://asiadreamradio.torontocast.stream/stations/newstream.html) | General |
 | [J1 Radio](https://www.j1fm.tokyo/player/j1hits/) | [MP3 128](https://www.j1fm.tokyo/listen/) | General |
-| [Nightwave Plaza](https://plaza.one/) [:and:](https://play.google.com/store/apps/details?id=one.plaza.nightwaveplaza) [:ios:](https://apps.apple.com/app/nightwave-plaza/id1532678227) [:src:](https://github.com/nightwaveplaza/plaza) | [MP3 128](https://plaza.one/plaza.m3u) | Vaporwave |
+| [Nightwave Plaza](https://plaza.one/) [:and:](https://play.google.com/store/apps/details?id=one.plaza.nightwaveplaza) [:ios:](https://apps.apple.com/app/id1532678227) [:src:](https://github.com/nightwaveplaza/plaza) | [MP3 128](https://plaza.one/plaza.m3u) | Vaporwave |
 | [Wapchan](https://radio.wapchan.org/public/wapfm) | [OPUS 192](https://radio.wapchan.org/public/wapfm/playlist.pls) | City Pop |
 | [Yumi Co. Radio](https://yumicoradio.net/) | [MP3 256](https://yumicoradio.net/public/yumi_co._radio/playlist.m3u) | City Pop |
 
@@ -337,7 +337,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | Player | Platform |
 | :--- | :--- |
 | [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player) :cs: | :and: |
-| [Flacbox](https://apps.apple.com/app/flacbox-hi-res-music-player/id1097564256) :cs: | :ios: |
+| [Flacbox](https://apps.apple.com/app/id1097564256) :cs: | :ios: |
 | [Oto Music Player](https://play.google.com/store/apps/details?id=com.piyush.music) :cs: | :and: |
 | [Musicolet Music Player](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) :cs: | :and: |
 | [Poweramp](https://powerampapp.com/) :s::cs::paid: | :and: |
@@ -370,7 +370,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [mAbook Audiobook Player](https://play.google.com/store/apps/details?id=mindmine.audiobook) :cs::fm: | :and: |
 | [Smart AudioBook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer) :cs::fm: | :and: |
 | [Sirin Audiobook Player](https://play.google.com/store/apps/details?id=com.sirin.android) :cs::fm: | :and: |
-| [BookPlayer](https://apps.apple.com/app/bookplayer/id1138219998) [:src:](https://github.com/TortugaPower/BookPlayer) :fm: | :ios: |
+| [BookPlayer](https://apps.apple.com/app/id1138219998) [:src:](https://github.com/TortugaPower/BookPlayer) :fm: | :ios: |
 
 
 ## Tools
@@ -387,7 +387,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^           | [Rush](https://github.com/shub39/Rush) |
 | ^^           | [SongSync](https://github.com/Lambada10/SongSync) |
 | **Scrobbler** | [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) :mdi-lastfm::and: |
-| ^^           | [Marvis Pro](https://apps.apple.com/app/marvis-pro/id1447768809) :mdi-lastfm::ios::cs: |
+| ^^           | [Marvis Pro](https://apps.apple.com/app/id1447768809) :mdi-lastfm::ios::cs: |
 | **Others**   | [MusicSearch](https://github.com/lydavid/MusicSearch) :and: ||MusicBrainz|| |
 | ^^           | [Seeker](https://github.com/jackBonadies/SeekerAndroid) :and: ||Soulseek|| |
 | ^^           | [SpotiFLAC Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) :and::ios: |

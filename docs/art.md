@@ -163,10 +163,10 @@ og:
 
 ## iOS
 
-- [PixEz](https://apps.apple.com/app/pixez/id1494435126)
+- [PixEz](https://apps.apple.com/app/id1494435126)
 - [pixes](https://github.com/wgh136/pixes)
 - [PixiView](https://github.com/matsumo0922/PixiView-KMP)
-- [Anime Boxes](https://apps.apple.com/app/anime-boxes/id525540312) :cs:
+- [Anime Boxes](https://apps.apple.com/app/id525540312) :cs:
 
 
 ## PC

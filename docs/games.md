@@ -152,7 +152,7 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 - [Who's that Pokémon?](https://gearoid.me/pokemon/)
 
 == Tools
-- Nuzlocke Chart [:and:](https://play.google.com/store/apps/details?id=com.pseudocode.nuzlockechart) [:ios:](https://apps.apple.com/app/nuzlocke-chart/id1573090300)
+- Nuzlocke Chart [:and:](https://play.google.com/store/apps/details?id=com.pseudocode.nuzlockechart) [:ios:](https://apps.apple.com/app/id1573090300)
 - [PKHeX](https://github.com/kwsch/PKHeX)
 - [Poké Transporter GB](https://github.com/GearsProgress/Poke_Transporter_GB)
 - [Pokémon Type Calculator](https://www.pkmn.help/pokedex/)
