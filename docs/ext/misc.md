@@ -29,10 +29,10 @@ og:
 ## Hayase
 | Type | Auto | Manual |
 |-|-|-|
-| Default | [Install](hayase://extensions/install?url=exten.pages.dev/index.json) | [URL](https://exten.pages.dev/index.json) |
-| Dub | [Install](hayase://extensions/install?url=exten.pages.dev/dub/index.json) | [URL](https://exten.pages.dev/dub/index.json) |
-| Multi-Subs | [Install](hayase://extensions/install?url=exten.pages.dev/multi/index.json) | [URL](https://exten.pages.dev/multi/index.json) |
-| Hentai | [Install](hayase://extensions/install?url=exten.pages.dev/hentai/index.json) | [URL](https://exten.pages.dev/hentai/index.json) |
+| Default | [Install](hayase://extensions/install?url=https://exten.pages.dev/index.json) | [URL](https://exten.pages.dev/index.json) |
+| Dub | [Install](hayase://extensions/install?url=https://exten.pages.dev/dub/index.json) | [URL](https://exten.pages.dev/dub/index.json) |
+| Multi-Subs | [Install](hayase://extensions/install?url=https://exten.pages.dev/multi/index.json) | [URL](https://exten.pages.dev/multi/index.json) |
+| Hentai | [Install](hayase://extensions/install?url=https://exten.pages.dev/hentai/index.json) | [URL](https://exten.pages.dev/hentai/index.json) |
 
 ## IReader
 | Type | Manual |
