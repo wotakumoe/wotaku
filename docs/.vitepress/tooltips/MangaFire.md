@@ -1,4 +1,5 @@
-- The UI is very clean with notification system
+- Very clean UI with notification system
 - Uploads both chapter (multi-lang) & volume releases
 - Basic reader UI
-- Manga uploads are up to x1600.
+- Manga uploads are up to x1600
+- Has some dupe issues for comics and chapters
