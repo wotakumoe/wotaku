@@ -1,5 +1,5 @@
 <script lang="ts" setup>
-import MiniSearch, { type SearchResult } from 'minisearch'
+import type { SearchResult } from 'minisearch'
 import { dataSymbol, type DefaultTheme, inBrowser, useRouter } from 'vitepress'
 import {
   computed,
@@ -80,7 +80,14 @@ const el = shallowRef<HTMLElement>()
 const resultsEl = shallowRef<HTMLElement>()
 
 /* Search */
+interface Result {
+  title: string
+  titles: string[]
+  text?: string
+}
+
 const searchIndexData = shallowRef(localSearchIndex)
+const searchIndexVersion = ref(0)
 
 // @ts-ignore
 if (import.meta.hot) {
@@ -88,14 +95,9 @@ if (import.meta.hot) {
   import.meta.hot.accept('@localSearchIndex', (m) => {
     if (m) {
       searchIndexData.value = m.default
+      searchIndexVersion.value++
     }
   })
-}
-
-interface Result {
-  title: string
-  titles: string[]
-  text?: string
 }
 
 const vitePressData = useData()
@@ -110,24 +112,6 @@ const { activate } = useFocusTrap(el, {
   }
 })
 const { localeIndex, theme } = vitePressData
-const searchIndex = computedAsync(async () =>
-  markRaw(
-    MiniSearch.loadJSON<Result>(
-      (await searchIndexData.value[localeIndex.value]?.())?.default,
-      {
-        fields: ['title', 'titles', 'text'],
-        storeFields: ['title', 'titles'],
-        searchOptions: {
-          boost: { title: 10, titles: 4, text: 1 },
-          ...(theme.value.search?.provider === 'local' &&
-            theme.value.search.options?.miniSearch?.searchOptions)
-        },
-        ...(theme.value.search?.provider === 'local' &&
-          theme.value.search.options?.miniSearch?.options)
-      }
-    )
-  )
-)
 
 const disableQueryPersistence = computed(() => {
   return (
@@ -287,37 +271,13 @@ function cycleSearchMode() {
 const matchExact = computed(() => searchMode.value === 'exact')
 const urlSearchMode = computed(() => searchMode.value === 'url')
 
-const allLinks = shallowRef<PageLink[]>([])
-let allLinksFetchPromise: Promise<void> | null = null
-
-async function ensureAllLinks() {
-  if (allLinks.value.length > 0) return
-  if (allLinksFetchPromise) {
-    await allLinksFetchPromise
-    return
-  }
-  allLinksFetchPromise = fetch('/url-search-index.json')
-    .then((r) => r.json())
-    .then((data: PageLink[]) => {
-      data.sort((a, b) => {
-        const pa = pageMeta.get(a.pageId)?.order ?? Number.MAX_SAFE_INTEGER
-        const pb = pageMeta.get(b.pageId)?.order ?? Number.MAX_SAFE_INTEGER
-        return pa - pb
-      })
-      allLinks.value = data
-    })
-    .catch(() => {
-      allLinks.value = []
-    })
-    .finally(() => {
-      allLinksFetchPromise = null
-    })
-  await allLinksFetchPromise
+interface PageGroupCount {
+  key: string
+  count: number
 }
 
-watch(urlSearchMode, (active) => {
-  if (active) ensureAllLinks()
-}, { immediate: true })
+const urlMatches = shallowRef<PageLink[]>([])
+const urlPageGroupCounts = shallowRef<PageGroupCount[]>([])
 
 interface UrlResult {
   href: string
@@ -333,34 +293,21 @@ const URL_PAGE_SIZE = 25
 // 1-indexed current page within the URL results.
 const urlPage = ref(1)
 
-// Full match set — cheap string filtering only (no regex, no object churn).
+// Full URL match set returned by the search worker.
 // Used for accurate page-group counts in the ribbon and for pagination.
-const urlMatches = computed((): PageLink[] => {
-  if (!urlSearchMode.value || !filterText.value.trim()) return []
-  const query = urlFilterDebounced.value.trim().toLowerCase()
-  if (!query) return []
-  const out: PageLink[] = []
-  for (const link of allLinks.value) {
-    if (link.href.toLowerCase().includes(query)) out.push(link)
-  }
-  return out
-})
 
 // URL mode page ribbon — mirrors the normal pageGroups/filteredResults logic
 const urlActivePageFilter = ref<string | null>(null)
 
-const urlPageGroups = computed(() => {
-  const map = new Map<string, { key: string; label: string; count: number }>()
-  for (const r of urlMatches.value) {
-    const key = r.pageId
-    const existing = map.get(key)
-    if (existing) existing.count++
-    else map.set(key, { key, label: getPageLabel(key), count: 1 })
-  }
-  return [...map.values()].sort((a, b) =>
-    getPageOrder(a.key) - getPageOrder(b.key)
-  )
-})
+const urlPageGroups = computed(() =>
+  urlPageGroupCounts.value
+    .map((group) => ({
+      key: group.key,
+      label: getPageLabel(group.key),
+      count: group.count
+    }))
+    .sort((a, b) => getPageOrder(a.key) - getPageOrder(b.key))
+)
 
 // Full match set honoring the active ribbon page filter (uncapped).
 const urlFilteredMatches = computed((): PageLink[] => {
@@ -540,35 +487,208 @@ const pageMeta = (() => {
   return map
 })()
 
-const activePageFilter = ref<string | null>(null)
+type SearchMode = 'exact' | 'fuzzy' | 'url'
 
-const docOrder = computed(() => {
-  const map = new Map<string, number>()
-  const index = searchIndex.value as any
-  if (!index) return map
-  // _documentIds maps internalDocId -> original id, in insertion order.
-  const ids = index._documentIds
-  if (ids instanceof Map) {
-    let i = 0
-    for (const originalId of ids.values()) {
-      map.set(String(originalId), i++)
+interface TextSearchWorkerPayload {
+  results: (SearchResult & Result)[]
+  terms: string[]
+}
+
+interface UrlSearchWorkerPayload {
+  matches: PageLink[]
+  pageGroups: PageGroupCount[]
+}
+
+interface LoadIndexWorkerRequest {
+  type: 'load-index'
+  localeIndex: string
+  indexJson: unknown
+  indexVersion: number
+  config: ReturnType<typeof getMiniSearchWorkerConfig>
+}
+
+interface TextSearchWorkerRequest {
+  type: 'text-search'
+  query: string
+  mode: SearchMode
+  pageOrderEntries: [string, number][]
+}
+
+interface UrlSearchWorkerRequest {
+  type: 'url-search'
+  query: string
+  pageOrderEntries: [string, number][]
+}
+
+type SearchWorkerRequest =
+  | LoadIndexWorkerRequest
+  | TextSearchWorkerRequest
+  | UrlSearchWorkerRequest
+
+const activePageFilter = ref<string | null>(null)
+const searchWorkerReady = ref(false)
+const searchWorkerConfigKey = computed(() =>
+  JSON.stringify(getMiniSearchWorkerConfig())
+)
+let searchWorker: Worker | undefined
+let searchWorkerRequestId = 0
+let loadedWorkerIndexKey = ''
+const searchWorkerRequests = new Map<
+  number,
+  {
+    resolve: (value: unknown) => void
+    reject: (reason?: unknown) => void
+  }
+>()
+
+function getPageOrderEntries(): [string, number][] {
+  return [...pageMeta.entries()].map(([key, meta]) => [key, meta.order])
+}
+
+function stripNonCloneable(value: unknown): unknown {
+  if (typeof value === 'function' || typeof value === 'symbol') return undefined
+  if (!value || typeof value !== 'object') return value
+  if (Array.isArray(value)) {
+    return value
+      .map((item) => stripNonCloneable(item))
+      .filter((item) => item !== undefined)
+  }
+
+  const out: Record<string, unknown> = {}
+  for (const [key, nestedValue] of Object.entries(value)) {
+    const cloneable = stripNonCloneable(nestedValue)
+    if (cloneable !== undefined) out[key] = cloneable
+  }
+  return out
+}
+
+function getMiniSearchWorkerConfig() {
+  const miniSearch = theme.value.search?.provider === 'local'
+    ? theme.value.search.options?.miniSearch
+    : undefined
+  const rawSearchOptions = miniSearch?.searchOptions as
+    | Record<string, unknown>
+    | undefined
+
+  return {
+    options: stripNonCloneable(miniSearch?.options) as
+      | Record<string, unknown>
+      | undefined,
+    searchOptions: stripNonCloneable(rawSearchOptions) as
+      | Record<string, unknown>
+      | undefined,
+    useDefaultBoostDocument:
+      typeof rawSearchOptions?.boostDocument === 'function'
+  }
+}
+
+function ensureSearchWorker() {
+  if (!inBrowser || searchWorker) return searchWorker
+
+  try {
+    searchWorker = new Worker(
+      new URL('../workers/searchWorker.ts', import.meta.url),
+      {
+        type: 'module'
+      }
+    )
+  } catch (error) {
+    console.error('[search] failed to start search worker', error)
+    return
+  }
+
+  searchWorker.onmessage = (event: MessageEvent) => {
+    const data = event.data as {
+      id: number
+      type: string
+      payload?: unknown
+      error?: string
     }
-  } else if (ids && typeof ids === 'object') {
-    // Some versions store it as a plain object keyed by numeric doc id.
-    const keys = Object.keys(ids)
-      .map(Number)
-      .sort((a, b) => a - b)
-    let i = 0
-    for (const k of keys) {
-      map.set(String(ids[k]), i++)
+    const request = searchWorkerRequests.get(data.id)
+    if (!request) return
+
+    searchWorkerRequests.delete(data.id)
+    if (data.type.endsWith(':error')) {
+      request.reject(new Error(data.error ?? 'Search worker failed'))
+    } else {
+      request.resolve(data.payload)
     }
   }
-  return map
+  searchWorker.onerror = (event) => {
+    console.error('[search] search worker error', event)
+  }
+  searchWorkerReady.value = true
+  return searchWorker
+}
+
+function postSearchWorker<T>(message: SearchWorkerRequest) {
+  const worker = ensureSearchWorker()
+  if (!worker) return Promise.reject(new Error('Search worker is unavailable'))
+
+  const id = ++searchWorkerRequestId
+  return new Promise<T>((resolve, reject) => {
+    searchWorkerRequests.set(id, {
+      resolve: (value) => resolve(value as T),
+      reject
+    })
+    worker.postMessage({ ...message, id })
+  })
+}
+
+onMounted(() => {
+  ensureSearchWorker()
 })
 
-function getDocOrder(id: string) {
-  return docOrder.value.get(id) ?? Number.MAX_SAFE_INTEGER
-}
+onBeforeUnmount(() => {
+  searchWorker?.terminate()
+  searchWorker = undefined
+  loadedWorkerIndexKey = ''
+  searchWorkerReady.value = false
+  for (const request of searchWorkerRequests.values()) {
+    request.reject(new Error('Search worker was terminated'))
+  }
+  searchWorkerRequests.clear()
+})
+
+watch(
+  () =>
+    [
+      searchWorkerReady.value,
+      urlSearchMode.value,
+      urlFilterDebounced.value
+    ] as const,
+  async ([ready, active, query], _old, onCleanup) => {
+    let canceled = false
+    onCleanup(() => {
+      canceled = true
+    })
+
+    if (!active || !query.trim()) {
+      urlMatches.value = []
+      urlPageGroupCounts.value = []
+      return
+    }
+    if (!ready) return
+
+    try {
+      const payload = await postSearchWorker<UrlSearchWorkerPayload>({
+        type: 'url-search',
+        query,
+        pageOrderEntries: getPageOrderEntries()
+      })
+      if (canceled) return
+      urlMatches.value = payload.matches
+      urlPageGroupCounts.value = payload.pageGroups
+    } catch (error) {
+      if (!canceled) {
+        console.error('[search] URL search worker request failed', error)
+        urlMatches.value = []
+        urlPageGroupCounts.value = []
+      }
+    }
+  },
+  { immediate: true }
+)
 
 function getPageKey(id: string) {
   return id.split('#')[0].replace(/\/$/, '')
@@ -893,18 +1013,34 @@ function buildDocExcerpt(
 watchDebounced(
   () =>
     [
-      searchIndex.value,
+      searchWorkerReady.value,
+      localeIndex.value,
+      searchIndexVersion.value,
+      searchWorkerConfigKey.value,
       filterText.value,
       showDetailedList.value,
       searchMode.value
     ] as const,
   async (
-    [index, filterTextValue, showDetailedListValue, mode],
+    [
+      ready,
+      localeIndexValue,
+      indexVersion,
+      configKey,
+      filterTextValue,
+      showDetailedListValue,
+      mode
+    ],
     old,
     onCleanup
   ) => {
-    if (old?.[0] !== index) {
-      // in case of hmr
+    if (
+      old?.[1] !== localeIndexValue ||
+      old?.[2] !== indexVersion ||
+      old?.[3] !== configKey
+    ) {
+      // Locale/config changes rebuild the worker index, so cached excerpts may no
+      // longer match the active result set.
       cache.clear()
     }
 
@@ -913,35 +1049,55 @@ watchDebounced(
       canceled = true
     })
 
-    if (!index) return
+    if (!ready) return
 
     // In URL search mode, skip normal text search
     if (mode === 'url') {
       results.value = []
+      currentTerms.value = new Set()
       enableNoResults.value = true
       return
     }
 
-    // Dynamic search options based on matchExact toggle
-    const dynamicSearchOptions = {
-      fuzzy: mode === 'fuzzy' ? (0.3 as number | false) : false,
-      prefix: mode === 'fuzzy' ? (term: string) => term.length > 3 : false,
-      maxFuzzy: mode === 'fuzzy' ? 1 : 0,
-      boost: { title: 10, titles: 4, text: 1 }
+    let workerPayload: TextSearchWorkerPayload
+    try {
+      const workerIndexKey =
+        `${localeIndexValue}\n${indexVersion}\n${configKey}`
+      if (loadedWorkerIndexKey !== workerIndexKey) {
+        const indexJson = (await searchIndexData.value[localeIndexValue]?.())
+          ?.default
+        if (canceled) return
+        await postSearchWorker<void>({
+          type: 'load-index',
+          localeIndex: localeIndexValue,
+          indexJson,
+          indexVersion,
+          config: getMiniSearchWorkerConfig()
+        })
+        if (canceled) return
+        loadedWorkerIndexKey = workerIndexKey
+      }
+
+      workerPayload = await postSearchWorker<TextSearchWorkerPayload>({
+        type: 'text-search',
+        query: filterTextValue,
+        mode,
+        pageOrderEntries: getPageOrderEntries()
+      })
+    } catch (error) {
+      if (!canceled) {
+        console.error('[search] text search worker request failed', error)
+        results.value = []
+        currentTerms.value = new Set()
+        enableNoResults.value = true
+      }
+      return
     }
+    if (canceled) return
 
-    // Search
-    const ranked = index.search(
-      filterTextValue,
-      dynamicSearchOptions
-    ) as (SearchResult & Result)[]
-
-    const top = ranked.slice(0, 50)
-    const seen = new Set(top.map((r) => r.id))
-    const titleHits = ranked.filter(
-      (r) => !seen.has(r.id) && r.match && Object.keys(r.match).length > 0
-    )
-    const _result = [...top, ...titleHits] as (SearchResult & Result)[]
+    const _result = workerPayload.results
+    const terms = new Set(workerPayload.terms)
+    currentTerms.value = terms
     enableNoResults.value = true
 
     if (!_result.length) {
@@ -949,26 +1105,12 @@ watchDebounced(
       return
     }
 
-    // Collect highlight terms up front (cheap — no rendering needed).
-    const terms = new Set<string>()
-    for (const r of _result) {
-      for (const term in r.match) terms.add(term)
-    }
-    currentTerms.value = terms
-
     const toRows = (list: (SearchResult & Result)[]) =>
-      list
-        .map((r) => {
-          const [id, anchor] = r.id.split('#')
-          const map = cache.get(`${id}\n${filterTextValue}`)
-          return { ...r, text: map?.get(anchor) ?? '' }
-        })
-        .sort((a, b) => {
-          const pageDiff = getPageOrder(getPageKey(a.id)) -
-            getPageOrder(getPageKey(b.id))
-          if (pageDiff !== 0) return pageDiff
-          return getDocOrder(a.id) - getDocOrder(b.id)
-        })
+      list.map((r) => {
+        const [id, anchor] = r.id.split('#')
+        const map = cache.get(`${id}\n${filterTextValue}`)
+        return { ...r, text: map?.get(anchor) ?? '' }
+      })
 
     const highlight = () =>
       new Promise<void>((resolve) => {
