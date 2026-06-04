@@ -415,8 +415,8 @@ main figure figcaption {
 }
 
 .vp-doc h1 {
-  margin-top: 0.5rem; 
-  margin-bottom: 0.5rem; 
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
 }
 
 .vp-doc h2 {
@@ -429,8 +429,8 @@ main figure figcaption {
 }
 
 .vp-doc h4 {
-  margin-top: 1rem; 
-  margin-bottom: 1rem; 
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 /* Make the page half the width for class `sandbox` */
@@ -996,12 +996,6 @@ table tr:nth-child(odd) {
         @apply hidden;
       }
 
-      &::after {
-        @apply fixed hidden md:block left-0 bottom-11 w-full h-0.25
-          bg-neutral-400/25 dark:bg-neutral-600/65;
-        content: "";
-      }
-
       & > li {
         @apply z-10 scroll-pt-2;
 
@@ -1428,6 +1422,13 @@ html.reduce-blur-effects {
   &::view-transition-new(root),
   &::view-transition-old(root) {
     animation: none !important;
+  }
+
+  .VPLocalSearchBox,
+  .VPLocalSearchBox * {
+    animation: none !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0s !important;
   }
 
   .VPLocalNav > .container > .menu,

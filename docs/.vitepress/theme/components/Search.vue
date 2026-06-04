@@ -1,6 +1,6 @@
 <script lang="ts" setup>
 import MiniSearch, { type SearchResult } from 'minisearch'
-import { type DefaultTheme, dataSymbol, inBrowser, useRouter } from 'vitepress'
+import { dataSymbol, type DefaultTheme, inBrowser, useRouter } from 'vitepress'
 import {
   computed,
   createApp,
@@ -26,9 +26,11 @@ import {
   useLocalStorage,
   useScrollLock,
   useSessionStorage,
+  useStorage,
   watchDebounced
 } from '@vueuse/core'
 import { useFocusTrap } from '@vueuse/integrations/useFocusTrap'
+import { AnimatePresence, motion } from 'motion-v'
 
 // @ts-ignore
 import localSearchIndex from '@localSearchIndex'
@@ -37,23 +39,22 @@ import {
   ArrowRight,
   ChevronRight,
   Delete,
-  ExternalLink,
   File,
   Globe,
   Hash,
-  LayoutList,
   List,
-  Locate,
   LocateOff,
+  Regex,
   TextAlignStart
 } from 'lucide-vue-next'
 import Mark from 'mark.js/dist/mark.es6.js'
 import { enhanceAppWithTabs } from 'vitepress-plugin-tabs/client'
-import { LRUCache } from '../composables/search/lru-cache'
+import { sidebar } from '../../configs/constants'
 import type { PageLink } from '../../plugins/urlSearchPlugin'
+import { LRUCache } from '../composables/search/lru-cache'
 import { createSearchTranslate } from '../composables/search/translation'
 import { useData } from '../composables/search/use-data'
-import { sidebar } from '../../configs/constants'
+import { LowEndDeviceModeStorageKey } from '../constants'
 
 export interface FooterTranslations {
   selectText?: string
@@ -139,6 +140,117 @@ const filterText = disableQueryPersistence.value
   ? ref('')
   : useSessionStorage('vitepress:local-search-filter', '')
 
+const lowEndDeviceMode = useStorage(LowEndDeviceModeStorageKey, 'off')
+const searchAnimationsEnabled = computed(() => lowEndDeviceMode.value !== 'on')
+const showKeyboardShortcuts = computed(() => !filterText.value)
+
+const SearchMotionDiv = motion.div
+const SearchMotionForm = motion.form
+const SearchMotionLi = motion.li
+const searchMotionDiv = computed(() =>
+  searchAnimationsEnabled.value ? SearchMotionDiv : 'div'
+)
+const searchMotionForm = computed(() =>
+  searchAnimationsEnabled.value ? SearchMotionForm : 'form'
+)
+const searchMotionLi = computed(() =>
+  searchAnimationsEnabled.value ? SearchMotionLi : 'li'
+)
+const searchMotionEase = [0.16, 1, 0.3, 1]
+
+const backdropMotion = computed(() =>
+  searchAnimationsEnabled.value
+    ? {
+      initial: { opacity: 0 },
+      animate: { opacity: 1 },
+      exit: { opacity: 0 },
+      transition: { duration: 0.55, ease: searchMotionEase }
+    }
+    : {}
+)
+
+const shellMotion = computed(() =>
+  searchAnimationsEnabled.value
+    ? {
+      layout: 'size',
+      initial: { opacity: 0, scale: 0.9375 },
+      animate: { opacity: 1, scale: 1 },
+      exit: { opacity: 0, scale: 0.9375 },
+      transition: { duration: 0.55, ease: searchMotionEase }
+    }
+    : {}
+)
+
+const formMotion = computed(() =>
+  searchAnimationsEnabled.value ? { layout: 'position' } : {}
+)
+
+const ribbonMotion = computed(() =>
+  searchAnimationsEnabled.value
+    ? {
+      layout: 'position',
+      initial: { opacity: 0, height: 0 },
+      animate: { opacity: 1, height: 'auto' },
+      exit: { opacity: 0, height: 0 },
+      transition: { duration: 0.4, ease: searchMotionEase }
+    }
+    : {}
+)
+
+const emptyStateMotion = computed(() =>
+  searchAnimationsEnabled.value
+    ? {
+      initial: { opacity: 0 },
+      animate: {
+        opacity: 1,
+        transition: { delay: 0.1 }
+      },
+      exit: {
+        opacity: 0,
+        height: 0,
+        transition: { duration: 0.2 }
+      },
+      transition: { duration: 0.7, ease: searchMotionEase }
+    }
+    : {}
+)
+
+function resultMotion(index: number) {
+  if (!searchAnimationsEnabled.value) return {}
+  return {
+    layout: true,
+    initial: { opacity: 0, scale: 0.9375 },
+    animate: { opacity: 1, scale: 1 },
+    exit: {
+      opacity: 0,
+      scale: 0.9375,
+      height: 0,
+      transition: { duration: 0.25 }
+    },
+    transition: {
+      duration: 0.55,
+      ease: searchMotionEase,
+      delay: index * 0.02
+    }
+  }
+}
+
+const excerptMotion = computed(() =>
+  searchAnimationsEnabled.value
+    ? {
+      layout: true,
+      initial: { height: 0 },
+      animate: { height: '84px' },
+      exit: { height: 0 },
+      transition: { duration: 0.4, ease: searchMotionEase }
+    }
+    : {}
+)
+
+const footerMotion = computed(() =>
+  searchAnimationsEnabled.value ? { layout: true } : {}
+)
+
 const urlFilterDebounced = ref(filterText.value)
 let urlDebounceTimer: ReturnType<typeof setTimeout> | undefined
 watch(filterText, (v) => {
@@ -180,7 +292,10 @@ let allLinksFetchPromise: Promise<void> | null = null
 
 async function ensureAllLinks() {
   if (allLinks.value.length > 0) return
-  if (allLinksFetchPromise) { await allLinksFetchPromise; return }
+  if (allLinksFetchPromise) {
+    await allLinksFetchPromise
+    return
+  }
   allLinksFetchPromise = fetch('/url-search-index.json')
     .then((r) => r.json())
     .then((data: PageLink[]) => {
@@ -191,12 +306,18 @@ async function ensureAllLinks() {
       })
       allLinks.value = data
     })
-    .catch(() => { allLinks.value = [] })
-    .finally(() => { allLinksFetchPromise = null })
+    .catch(() => {
+      allLinks.value = []
+    })
+    .finally(() => {
+      allLinksFetchPromise = null
+    })
   await allLinksFetchPromise
 }
 
-watch(urlSearchMode, (active) => { if (active) ensureAllLinks() }, { immediate: true })
+watch(urlSearchMode, (active) => {
+  if (active) ensureAllLinks()
+}, { immediate: true })
 
 interface UrlResult {
   href: string
@@ -236,7 +357,9 @@ const urlPageGroups = computed(() => {
     if (existing) existing.count++
     else map.set(key, { key, label: getPageLabel(key), count: 1 })
   }
-  return [...map.values()].sort((a, b) => getPageOrder(a.key) - getPageOrder(b.key))
+  return [...map.values()].sort((a, b) =>
+    getPageOrder(a.key) - getPageOrder(b.key)
+  )
 })
 
 // Full match set honoring the active ribbon page filter (uncapped).
@@ -261,6 +384,7 @@ const filteredUrlResults = computed((): UrlResult[] => {
   const start = (urlCurrentPage.value - 1) * URL_PAGE_SIZE
   const end = start + URL_PAGE_SIZE
   const out: UrlResult[] = []
+  const query = urlFilterDebounced.value.trim()
   for (let i = start; i < end && i < matches.length; i++) {
     const link = matches[i]
     out.push({
@@ -269,11 +393,42 @@ const filteredUrlResults = computed((): UrlResult[] => {
       pageId: link.pageId,
       anchor: link.anchor,
       titles: link.titles,
-      highlighted: link.href // not currently rendered; kept for type compat
+      highlighted: highlightUrl(link.href, query)
     })
   }
   return out
 })
+
+function escapeHtml(value: string) {
+  return value
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;')
+}
+
+function highlightUrl(url: string, query: string) {
+  const needle = query.trim()
+  if (!needle) return escapeHtml(url)
+
+  const lowerUrl = url.toLowerCase()
+  const lowerNeedle = needle.toLowerCase()
+  let out = ''
+  let cursor = 0
+  let index = lowerUrl.indexOf(lowerNeedle)
+
+  while (index !== -1) {
+    out += escapeHtml(url.slice(cursor, index))
+    out += `<mark class="url-highlight">${
+      escapeHtml(url.slice(index, index + needle.length))
+    }</mark>`
+    cursor = index + needle.length
+    index = lowerUrl.indexOf(lowerNeedle, cursor)
+  }
+
+  return out + escapeHtml(url.slice(cursor))
+}
 
 // Compact page-number list with ellipses, e.g. [1, '…', 4, 5, 6, '…', 12].
 const urlPageList = computed<(number | '…')[]>(() => {
@@ -332,7 +487,6 @@ function setUrlPageFilter(key: string | null) {
     scrollToSelectedResult()
   })
 }
-
 
 const disableDetailedView = computed(() => {
   return (
@@ -548,7 +702,7 @@ const ribbonCanScrollRight = ref(false)
 function getRibbonTrack(): HTMLElement | null {
   return (
     ribbonTrack.value ??
-    (el.value?.querySelector('.page-ribbon-track') as HTMLElement | null)
+      (el.value?.querySelector('.page-ribbon-track') as HTMLElement | null)
   )
 }
 
@@ -564,6 +718,48 @@ function updateRibbonOverflow() {
     track.scrollWidth - track.clientWidth - track.scrollLeft > 2
 }
 
+function scrollActivePagePillIntoView(direction = 0) {
+  nextTick(() => {
+    const track = getRibbonTrack()
+    if (!track) return
+
+    const pills = [...track.querySelectorAll<HTMLElement>('.page-pill')]
+    const activeIndex = pills.findIndex((pill) =>
+      pill.classList.contains('active')
+    )
+    const active = pills[activeIndex]
+    if (!active) return
+
+    const trackRect = track.getBoundingClientRect()
+    const activeRect = active.getBoundingClientRect()
+    const gap = 8
+    let nextScrollLeft = track.scrollLeft
+
+    if (activeRect.left < trackRect.left) {
+      nextScrollLeft += activeRect.left - trackRect.left - gap
+    } else if (activeRect.right > trackRect.right) {
+      nextScrollLeft += activeRect.right - trackRect.right + gap
+    }
+
+    const peek = pills[activeIndex + Math.sign(direction)]
+    if (peek) {
+      const peekRect = peek.getBoundingClientRect()
+      if (direction > 0 && peekRect.right > trackRect.right) {
+        nextScrollLeft += peekRect.right - trackRect.right + gap
+      } else if (direction < 0 && peekRect.left < trackRect.left) {
+        nextScrollLeft += peekRect.left - trackRect.left - gap
+      }
+    }
+
+    const max = track.scrollWidth - track.clientWidth
+    track.scrollTo({
+      left: Math.max(0, Math.min(max, nextScrollLeft)),
+      behavior: searchAnimationsEnabled.value ? 'smooth' : 'auto'
+    })
+    updateRibbonOverflow()
+  })
+}
+
 let ribbonAnimHandle = 0
 
 function scrollRibbon(direction: number) {
@@ -576,6 +772,13 @@ function scrollRibbon(direction: number) {
   if (to === from) return
 
   if (ribbonAnimHandle) cancelAnimationFrame(ribbonAnimHandle)
+
+  if (!searchAnimationsEnabled.value) {
+    track.scrollLeft = to
+    updateRibbonOverflow()
+    return
+  }
+
   const duration = 280
   const start = performance.now()
   const ease = (t: number) => 1 - Math.pow(1 - t, 3)
@@ -688,8 +891,18 @@ function buildDocExcerpt(
 }
 
 watchDebounced(
-  () => [searchIndex.value, filterText.value, showDetailedList.value, searchMode.value] as const,
-  async ([index, filterTextValue, showDetailedListValue, mode], old, onCleanup) => {
+  () =>
+    [
+      searchIndex.value,
+      filterText.value,
+      showDetailedList.value,
+      searchMode.value
+    ] as const,
+  async (
+    [index, filterTextValue, showDetailedListValue, mode],
+    old,
+    onCleanup
+  ) => {
     if (old?.[0] !== index) {
       // in case of hmr
       cache.clear()
@@ -714,11 +927,14 @@ watchDebounced(
       fuzzy: mode === 'fuzzy' ? (0.3 as number | false) : false,
       prefix: mode === 'fuzzy' ? (term: string) => term.length > 3 : false,
       maxFuzzy: mode === 'fuzzy' ? 1 : 0,
-      boost: { title: 10, titles: 4, text: 1 },
+      boost: { title: 10, titles: 4, text: 1 }
     }
 
     // Search
-    const ranked = index.search(filterTextValue, dynamicSearchOptions) as (SearchResult & Result)[]
+    const ranked = index.search(
+      filterTextValue,
+      dynamicSearchOptions
+    ) as (SearchResult & Result)[]
 
     const top = ranked.slice(0, 50)
     const seen = new Set(top.map((r) => r.id))
@@ -748,8 +964,8 @@ watchDebounced(
           return { ...r, text: map?.get(anchor) ?? '' }
         })
         .sort((a, b) => {
-          const pageDiff =
-            getPageOrder(getPageKey(a.id)) - getPageOrder(getPageKey(b.id))
+          const pageDiff = getPageOrder(getPageKey(a.id)) -
+            getPageOrder(getPageKey(b.id))
           if (pageDiff !== 0) return pageDiff
           return getDocOrder(a.id) - getDocOrder(b.id)
         })
@@ -855,21 +1071,37 @@ function centerExcerpts() {
       node = node.offsetParent as HTMLElement | null
     }
 
-    const targetScrollTop = offset - viewportHeight / 2 + markNode.offsetHeight / 2
+    const targetScrollTop = offset - viewportHeight / 2 +
+      markNode.offsetHeight / 2
     excerptElement.scrollTop = Math.max(0, targetScrollTop)
   }
 }
 
 let centerHandle = 0
 
-function centerExcerptsUntilSettled() {
-  // No layout animations to wait on anymore — a single pass after the
-  // DOM has painted is enough.
+function centerExcerptsUntilSettled(
+  duration = searchAnimationsEnabled.value ? 450 : 0
+) {
   if (centerHandle) cancelAnimationFrame(centerHandle)
-  centerHandle = requestAnimationFrame(() => {
+
+  if (duration <= 0) {
+    centerHandle = requestAnimationFrame(() => {
+      centerExcerpts()
+      centerHandle = 0
+    })
+    return
+  }
+
+  const start = performance.now()
+  const tick = () => {
     centerExcerpts()
-    centerHandle = 0
-  })
+    if (performance.now() - start < duration) {
+      centerHandle = requestAnimationFrame(tick)
+    } else {
+      centerHandle = 0
+    }
+  }
+  centerHandle = requestAnimationFrame(tick)
 }
 
 onBeforeUnmount(() => {
@@ -980,7 +1212,9 @@ const disableMouseOver = ref(true)
 
 // Active result list length (URL mode vs normal mode) — current page only
 const activeResultsLength = computed(() =>
-  urlSearchMode.value ? filteredUrlResults.value.length : pagedResults.value.length
+  urlSearchMode.value
+    ? filteredUrlResults.value.length
+    : pagedResults.value.length
 )
 
 watch(pagedResults, (r) => {
@@ -1004,6 +1238,40 @@ function scrollToSelectedResult() {
   })
 }
 
+function goToSearchPageDelta(delta: number) {
+  if (urlSearchMode.value) {
+    const target = urlCurrentPage.value + delta
+    if (target < 1 || target > urlTotalPages.value) return false
+    goToUrlPage(target)
+    return true
+  }
+
+  const target = normalCurrentPage.value + delta
+  if (target < 1 || target > normalTotalPages.value) return false
+  goToNormalPage(target)
+  return true
+}
+
+function cyclePageTab(delta: number) {
+  if (urlSearchMode.value) {
+    if (urlPageGroups.value.length <= 1) return false
+    const keys = [null, ...urlPageGroups.value.map((group) => group.key)]
+    const current = keys.indexOf(urlActivePageFilter.value)
+    const next = (current + delta + keys.length) % keys.length
+    setUrlPageFilter(keys[next])
+    scrollActivePagePillIntoView(delta)
+    return true
+  }
+
+  if (pageGroups.value.length <= 1) return false
+  const keys = [null, ...pageGroups.value.map((group) => group.key)]
+  const current = keys.indexOf(activePageFilter.value)
+  const next = (current + delta + keys.length) % keys.length
+  setPageFilter(keys[next])
+  scrollActivePagePillIntoView(delta)
+  return true
+}
+
 onKeyStroke('ArrowUp', (event) => {
   event.preventDefault()
   selectedIndex.value--
@@ -1024,7 +1292,35 @@ onKeyStroke('ArrowDown', (event) => {
   scrollToSelectedResult()
 })
 
+onKeyStroke('ArrowLeft', (event) => {
+  if (!goToSearchPageDelta(-1)) return
+  event.preventDefault()
+  disableMouseOver.value = true
+})
+
+onKeyStroke('ArrowRight', (event) => {
+  if (!goToSearchPageDelta(1)) return
+  event.preventDefault()
+  disableMouseOver.value = true
+})
+
+onKeyStroke('Tab', (event) => {
+  if (!showSearch.value) return
+  if (!cyclePageTab(event.shiftKey ? -1 : 1)) return
+  event.preventDefault()
+  disableMouseOver.value = true
+})
+
 const router = useRouter()
+
+function navigateToUrlResult(item: UrlResult) {
+  window.dispatchEvent(
+    new CustomEvent('search-nav', { detail: { query: filterText.value } })
+  )
+  const dest = item.anchor ? item.pageId + '#' + item.anchor : item.pageId
+  router.go(dest)
+  showSearch.value = false
+}
 
 onKeyStroke('Enter', (e) => {
   if (e.isComposing) return
@@ -1046,10 +1342,7 @@ onKeyStroke('Enter', (e) => {
   if (urlSearchMode.value) {
     const selectedUrl = filteredUrlResults.value[index]
     if (selectedUrl) {
-      window.dispatchEvent(new CustomEvent('search-nav', { detail: { query: filterText.value } }))
-      const dest = selectedUrl.anchor ? selectedUrl.pageId + '#' + selectedUrl.anchor : selectedUrl.pageId
-      router.go(dest)
-      showSearch.value = false
+      navigateToUrlResult(selectedUrl)
     }
     return
   }
@@ -1177,406 +1470,524 @@ function onMouseMove(e: MouseEvent) {
       class="VPLocalSearchBox"
       :class="{ 'pointer-events-none': !showSearch }"
     >
-      <div
-        v-if="showSearch"
-        class="backdrop"
-        @click="showSearch = false"
-      />
+      <AnimatePresence>
+        <component
+          :is="searchMotionDiv"
+          v-if="showSearch"
+          class="backdrop"
+          @click="showSearch = false"
+          v-bind="backdropMotion"
+        />
+      </AnimatePresence>
 
-      <div
-        v-if="showSearch"
-        class="shell"
-      >
-        <form
-          class="search-bar"
-          @pointerup="onSearchBarClick($event)"
-          @submit.prevent=""
+      <AnimatePresence>
+        <component
+          :is="searchMotionDiv"
+          v-if="showSearch"
+          class="shell"
+          v-bind="shellMotion"
         >
-          <label
-            :title="buttonText"
-            id="localsearch-label"
-            for="localsearch-input"
+          <component
+            :is="searchMotionForm"
+            class="search-bar"
+            v-bind="formMotion"
+            @pointerup="onSearchBarClick($event)"
+            @submit.prevent=""
           >
-            <span
-              aria-hidden="true"
-              class="vpi-search search-icon local-search-icon"
-            />
-          </label>
-          <div class="search-actions before">
-            <button
-              class="back-button"
-              :title="translate('modal.backButtonTitle')"
-              @click="showSearch = false"
+            <label
+              :title="buttonText"
+              id="localsearch-label"
+              for="localsearch-input"
             >
-              <span class="vpi-arrow-left local-search-icon" />
-            </button>
-          </div>
-          <input
-            ref="searchInput"
-            v-model="filterText"
-            :aria-activedescendant="selectedIndex > -1
+              <span
+                aria-hidden="true"
+                class="vpi-search search-icon local-search-icon"
+              />
+            </label>
+            <div class="search-actions before">
+              <button
+                class="back-button"
+                :title="translate('modal.backButtonTitle')"
+                @click="showSearch = false"
+              >
+                <span class="vpi-arrow-left local-search-icon" />
+              </button>
+            </div>
+            <input
+              ref="searchInput"
+              v-model="filterText"
+              :aria-activedescendant="selectedIndex > -1
               ? 'localsearch-item-' + selectedIndex
               : undefined"
-            aria-autocomplete="both"
-            :aria-controls="results?.length ? 'localsearch-list' : undefined"
-            aria-labelledby="localsearch-label"
-            autocapitalize="off"
-            autocomplete="off"
-            autocorrect="off"
-            class="search-input"
-            id="localsearch-input"
-            enterkeyhint="go"
-            maxlength="64"
-            :placeholder="buttonText"
-            spellcheck="false"
-            type="search"
-          />
-          <div class="search-actions">
-            <div v-if="!disableDetailedView && searchMode !== 'url'" class="view-group toolbar-group">
-              <button
-                type="button"
-                class="mode-btn"
-                :class="{ 'mode-active': showDetailedList }"
-                title="Detail view (Consumes more RAM)"
-                @click="showDetailedList ? showDetailedList = false : showDetailedList = true"
-              >
-                <LayoutList :size="18" stroke-width="1.25" />
-              </button>
-              <button
-                type="button"
-                class="mode-btn"
-                :class="{ 'mode-active': !showDetailedList }"
-                title="List view (Consumes less RAM)"
-                @click="!showDetailedList ? showDetailedList = true : showDetailedList = false"
-              >
-                <List :size="18" stroke-width="1.25" />
-              </button>
-            </div>
-            <div class="search-mode-group toolbar-group">
-              <button
-                type="button"
-                class="mode-btn"
-                :class="{ 'mode-active': searchMode === 'exact' }"
-                title="Exact search"
-                @click="searchMode === 'exact' ? cycleSearchMode() : searchMode = 'exact'"
-              >
-                <Locate :size="18" stroke-width="1.25" />
-              </button>
-              <button
-                type="button"
-                class="mode-btn"
-                :class="{ 'mode-active': searchMode === 'fuzzy' }"
-                title="Fuzzy search"
-                @click="searchMode === 'fuzzy' ? cycleSearchMode() : searchMode = 'fuzzy'"
-              >
-                <LocateOff :size="18" stroke-width="1.25" />
-              </button>
-              <button
-                type="button"
-                class="mode-btn"
-                :class="{ 'mode-active': searchMode === 'url' }"
-                title="URL search"
-                @click="searchMode === 'url' ? cycleSearchMode() : searchMode = 'url'"
-              >
-                <Globe :size="18" stroke-width="1.25" />
-              </button>
-            </div>
-            <button
-              class="clear-button"
-              type="reset"
-              :disabled="disableReset"
-              :title="translate('modal.resetButtonTitle')"
-              @click="resetSearch"
-            >
-              <Delete :size="19" stroke-width="1.25" />
-            </button>
-          </div>
-        </form>
-
-        <div
-          v-if="urlSearchMode ? urlPageGroups.length > 1 : pageGroups.length > 1"
-          class="page-ribbon"
-        >
-          <button
-            v-if="ribbonCanScrollLeft"
-            type="button"
-            class="page-ribbon-arrow left"
-            aria-label="Scroll filters left"
-            @click="scrollRibbon(-1)"
-          >
-            <ChevronRight :size="18" stroke-width="1.75" />
-          </button>
-          <div
-            ref="ribbonTrack"
-            class="page-ribbon-track"
-            @scroll="updateRibbonOverflow"
-          >
-            <!-- URL mode tabs -->
-            <template v-if="urlSearchMode">
-              <button
-                type="button"
-                class="page-pill"
-                :class="{ active: urlActivePageFilter === null }"
-                @click="setUrlPageFilter(null)"
-              >
-                All
-                <span class="page-pill-count">{{ urlMatches.length }}</span>
-              </button>
-              <button
-                v-for="group in urlPageGroups"
-                :key="group.key"
-                type="button"
-                class="page-pill"
-                :class="{ active: urlActivePageFilter === group.key }"
-                @click="setUrlPageFilter(group.key)"
-              >
-                <span class="page-pill-label">{{ group.label }}</span>
-                <span class="page-pill-count">{{ group.count }}</span>
-              </button>
-            </template>
-            <!-- Normal mode tabs -->
-            <template v-else>
-              <button
-                type="button"
-                class="page-pill"
-                :class="{ active: activePageFilter === null }"
-                @click="setPageFilter(null)"
-              >
-                All
-                <span class="page-pill-count">{{ results.length }}</span>
-              </button>
-              <button
-                v-for="group in pageGroups"
-                :key="group.key"
-                type="button"
-                class="page-pill"
-                :class="{ active: activePageFilter === group.key }"
-                @click="setPageFilter(group.key)"
-              >
-                <span class="page-pill-label">{{ group.label }}</span>
-                <span class="page-pill-count">{{ group.count }}</span>
-              </button>
-            </template>
-          </div>
-          <button
-            v-if="ribbonCanScrollRight"
-            type="button"
-            class="page-ribbon-arrow right"
-            aria-label="Scroll filters right"
-            @click="scrollRibbon(1)"
-          >
-            <ChevronRight :size="18" stroke-width="1.75" />
-          </button>
-        </div>
-
-        <ul
-          ref="resultsEl"
-          :id="results?.length ? 'localsearch-list' : undefined"
-          :role="results?.length ? 'listbox' : undefined"
-          :aria-labelledby="results?.length ? 'localsearch-label' : undefined"
-          class="results"
-          @mousemove="onMouseMove"
-        >
-          <!-- Empty state (shared) -->
-          <div
-            v-if="urlSearchMode
-              ? (!filterText || !urlMatches.length)
-              : (!filterText || !filteredResults.length)"
-            class="flex flex-col justify-center items-center h-47.5 gap-2 font-medium text-sm text-gray-500 dark:text-gray-300 m-auto md:mt-10 md:mb-6 opacity-90"
-          >
-            <img
-              class="h-40 object-contain object-center -translate-x-2"
-              src="/asset/smolame.png"
-              alt="Smol ame"
+              aria-autocomplete="both"
+              :aria-controls="results?.length ? 'localsearch-list' : undefined"
+              aria-labelledby="localsearch-label"
+              autocapitalize="off"
+              autocomplete="off"
+              autocorrect="off"
+              class="search-input"
+              id="localsearch-input"
+              enterkeyhint="go"
+              maxlength="64"
+              :placeholder="buttonText"
+              spellcheck="false"
+              type="search"
             />
-            <h1 v-if="filterText">Couldn't find anything, try again?</h1>
-            <h1 v-else>Looking for something?</h1>
-          </div>
-
-          <!-- URL search results -->
-          <template v-if="urlSearchMode">
-            <li
-              v-for="(item, index) in filteredUrlResults"
-              :key="'url-' + urlCurrentPage + '-' + item.pageId + '-' + item.anchor + '-' + index"
-              class="result-layout"
-              :id="'localsearch-item-' + (index + 1)"
-              :aria-selected="selectedIndex === index + 1 ? 'true' : 'false'"
-              role="option"
-            >
-              <a
-                :href="item.anchor ? item.pageId + '#' + item.anchor : item.pageId"
-                class="result"
-                :class="{ selected: selectedIndex === index + 1 }"
-                :aria-label="item.linkText || item.href"
-                @mouseenter="!disableMouseOver && (selectedIndex = index + 1)"
-                @focusin="selectedIndex = index + 1"
-                @click="onResultClick"
-                :data-index="index + 1"
+            <div class="search-actions">
+              <div
+                v-if="!disableDetailedView && searchMode !== 'url'"
+                class="view-group toolbar-group"
               >
-                <div class="url-result-body">
-                  <div class="titles url-titles">
-                    <Hash v-if="item.titles.length > 0" stroke-width="1.25" :size="18" />
-                    <File v-else stroke-width="1.25" :size="18" />
-                    <span
-                      v-for="(t, ti) in item.titles"
-                      :key="ti"
-                      class="title"
-                    >
-                      <span class="text" v-html="t" />
-                      <ArrowRight stroke-width="1.25" :size="18" class="mx-0.5" />
-                    </span>
-                    <span class="title main">
-                      <span class="text">{{ item.linkText || item.href }}</span>
-                    </span>
-                  </div>
-                  <a
-                    :href="item.href"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    class="url-open-btn"
-                    :class="{ 'url-open-btn-selected': selectedIndex === index + 1 }"
-                    title="Open link"
-                    @click.stop
+                <button
+                  type="button"
+                  class="mode-btn"
+                  :class="{ 'mode-active': showDetailedList }"
+                  title="Detail view (Consumes more RAM)"
+                  @click="showDetailedList
+                  ? showDetailedList = false
+                  : showDetailedList = true"
+                >
+                  <TextAlignStart :size="18" stroke-width="1.25" />
+                </button>
+                <button
+                  type="button"
+                  class="mode-btn"
+                  :class="{ 'mode-active': !showDetailedList }"
+                  title="List view (Consumes less RAM)"
+                  @click="!showDetailedList
+                  ? showDetailedList = true
+                  : showDetailedList = false"
+                >
+                  <List :size="18" stroke-width="1.25" />
+                </button>
+              </div>
+              <div class="search-mode-group toolbar-group">
+                <button
+                  type="button"
+                  class="mode-btn"
+                  :class="{ 'mode-active': searchMode === 'exact' }"
+                  title="Exact search"
+                  @click="searchMode === 'exact'
+                  ? cycleSearchMode()
+                  : searchMode = 'exact'"
+                >
+                  <Regex :size="18" stroke-width="1.25" />
+                </button>
+                <button
+                  type="button"
+                  class="mode-btn"
+                  :class="{ 'mode-active': searchMode === 'fuzzy' }"
+                  title="Fuzzy search"
+                  @click="searchMode === 'fuzzy'
+                  ? cycleSearchMode()
+                  : searchMode = 'fuzzy'"
+                >
+                  <LocateOff :size="18" stroke-width="1.25" />
+                </button>
+                <button
+                  type="button"
+                  class="mode-btn"
+                  :class="{ 'mode-active': searchMode === 'url' }"
+                  title="URL search"
+                  @click="searchMode === 'url'
+                  ? cycleSearchMode()
+                  : searchMode = 'url'"
+                >
+                  <Globe :size="18" stroke-width="1.25" />
+                </button>
+              </div>
+              <button
+                class="clear-button"
+                type="reset"
+                :disabled="disableReset"
+                :title="translate('modal.resetButtonTitle')"
+                @click="resetSearch"
+              >
+                <Delete :size="19" stroke-width="1.25" />
+              </button>
+            </div>
+          </component>
+
+          <AnimatePresence>
+            <component
+              :is="searchMotionDiv"
+              v-if="urlSearchMode
+              ? urlPageGroups.length > 1
+              : pageGroups.length > 1"
+              class="page-ribbon"
+              :class="{
+                'can-scroll-left': ribbonCanScrollLeft,
+                'can-scroll-right': ribbonCanScrollRight
+              }"
+              v-bind="ribbonMotion"
+            >
+              <button
+                v-if="ribbonCanScrollLeft"
+                type="button"
+                class="page-ribbon-arrow left"
+                aria-label="Scroll filters left"
+                @click="scrollRibbon(-1)"
+              >
+                <ChevronRight :size="18" stroke-width="1.75" />
+              </button>
+              <div
+                ref="ribbonTrack"
+                class="page-ribbon-track"
+                @scroll="updateRibbonOverflow"
+              >
+                <!-- URL mode tabs -->
+                <template v-if="urlSearchMode">
+                  <button
+                    type="button"
+                    class="page-pill"
+                    :class="{
+                      active: urlActivePageFilter === null
+                    }"
+                    @click="setUrlPageFilter(null)"
                   >
-                    <ExternalLink :size="14" stroke-width="1.5" />
-                  </a>
-                </div>
-              </a>
-            </li>
-          </template>
-
-          <!-- Normal search results -->
-          <template v-else>
-            <li
-              v-for="(p, index) in pagedResults"
-              :key="'normal-' + normalCurrentPage + '-' + p.id"
-              class="result-layout"
-              :id="'localsearch-item-' + (index + 1)"
-              :aria-selected="selectedIndex === index + 1 ? 'true' : 'false'"
-              role="option"
-            >
-              <a
-                :href="p.id"
-                class="result"
-                :class="{ selected: selectedIndex === index + 1 }"
-                :aria-label="[...p.titles, p.title].join(' > ')"
-                @mouseenter="!disableMouseOver && (selectedIndex = index + 1)"
-                @focusin="selectedIndex = index + 1"
-                @click="onResultClick"
-                :data-index="index + 1"
+                    All
+                    <span class="page-pill-count">{{ urlMatches.length }}</span>
+                  </button>
+                  <button
+                    v-for="group in urlPageGroups"
+                    :key="group.key"
+                    type="button"
+                    class="page-pill"
+                    :class="{
+                      active:
+                        urlActivePageFilter === group.key
+                    }"
+                    @click="setUrlPageFilter(group.key)"
+                  >
+                    <span class="page-pill-label">{{ group.label }}</span>
+                    <span class="page-pill-count">{{ group.count }}</span>
+                  </button>
+                </template>
+                <!-- Normal mode tabs -->
+                <template v-else>
+                  <button
+                    type="button"
+                    class="page-pill"
+                    :class="{ active: activePageFilter === null }"
+                    @click="setPageFilter(null)"
+                  >
+                    All
+                    <span class="page-pill-count">{{ results.length }}</span>
+                  </button>
+                  <button
+                    v-for="group in pageGroups"
+                    :key="group.key"
+                    type="button"
+                    class="page-pill"
+                    :class="{
+                      active: activePageFilter === group.key
+                    }"
+                    @click="setPageFilter(group.key)"
+                  >
+                    <span class="page-pill-label">{{ group.label }}</span>
+                    <span class="page-pill-count">{{ group.count }}</span>
+                  </button>
+                </template>
+              </div>
+              <button
+                v-if="ribbonCanScrollRight"
+                type="button"
+                class="page-ribbon-arrow right"
+                aria-label="Scroll filters right"
+                @click="scrollRibbon(1)"
               >
-                <div>
-                  <div class="titles">
-                    <Hash v-if="p.titles.length > 0" stroke-width="1.25" :size="18" />
-                    <File v-else stroke-width="1.25" :size="18" />
-                    <span
-                      v-for="(t, index) in p.titles"
-                      :key="index"
-                      class="title"
-                    >
-                      <span class="text" v-html="t" />
-                      <ArrowRight stroke-width="1.25" :size="18" class="mx-0.5" />
-                    </span>
-                    <span class="title main">
-                      <span class="text" v-html="p.title" />
-                    </span>
-                  </div>
+                <ChevronRight :size="18" stroke-width="1.75" />
+              </button>
+            </component>
+          </AnimatePresence>
 
-                  <div v-if="showDetailedList" class="excerpt-wrapper">
-                    <div v-if="p.text" class="excerpt" inert>
-                      <div class="vp-doc" v-html="p.text" />
+          <ul
+            ref="resultsEl"
+            :id="results?.length ? 'localsearch-list' : undefined"
+            :role="results?.length ? 'listbox' : undefined"
+            :aria-labelledby="results?.length ? 'localsearch-label' : undefined"
+            class="results"
+            @mousemove="onMouseMove"
+          >
+            <!-- Empty state (shared) -->
+            <AnimatePresence>
+              <component
+                :is="searchMotionDiv"
+                v-if="urlSearchMode
+                ? (!filterText || !urlMatches.length)
+                : (!filterText || !filteredResults.length)"
+                class="flex flex-1 flex-col justify-center items-center w-full min-h-full gap-2 font-medium text-sm text-center text-gray-500 dark:text-gray-300 m-auto opacity-90"
+                v-bind="emptyStateMotion"
+              >
+                <img
+                  class="h-40 object-contain object-center"
+                  src="/asset/smolame.png"
+                  alt="Smol ame"
+                />
+                <h1 v-if="filterText">Couldn't find anything, try again?</h1>
+                <h1 v-else>Looking for something?</h1>
+              </component>
+            </AnimatePresence>
+
+            <!-- URL search results -->
+            <template v-if="urlSearchMode">
+              <AnimatePresence>
+                <component
+                  :is="searchMotionLi"
+                  v-for="(item, index) in filteredUrlResults"
+                  :key="'url-' + urlCurrentPage + '-' +
+                  item.pageId + '-' +
+                  item.anchor + '-' + index"
+                  class="result-layout"
+                  :id="'localsearch-item-' + (index + 1)"
+                  :aria-selected="selectedIndex === index + 1
+                  ? 'true'
+                  : 'false'"
+                  role="option"
+                  v-bind="resultMotion(index)"
+                >
+                  <div
+                    class="result url-result-card"
+                    :class="{
+                      selected: selectedIndex === index + 1
+                    }"
+                    :aria-label="item.href"
+                    role="button"
+                    @mouseenter="!disableMouseOver &&
+                    (selectedIndex = index + 1)"
+                    @focusin="selectedIndex = index + 1"
+                    @click="navigateToUrlResult(item)"
+                    :data-index="index + 1"
+                  >
+                    <div class="url-result-body">
+                      <div class="url-path">
+                        <Hash
+                          v-if="item.titles.length > 0"
+                          stroke-width="1.25"
+                          :size="18"
+                        />
+                        <File v-else stroke-width="1.25" :size="18" />
+                        <span
+                          v-for="(t, ti) in item.titles"
+                          :key="ti"
+                          class="url-path-segment"
+                        >
+                          <span class="text" v-html="t" />
+                          <ArrowRight
+                            stroke-width="1.25"
+                            :size="18"
+                            class="mx-0.5"
+                          />
+                        </span>
+                        <span
+                          v-if="item.linkText"
+                          class="url-path-current"
+                          v-html="item.linkText"
+                        />
+                      </div>
+                      <a
+                        :href="item.href"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        class="url-link"
+                        :title="item.href"
+                        @click.stop
+                        v-html="item.highlighted"
+                      >
+                      </a>
                     </div>
-                    <div class="excerpt-gradient-bottom" />
-                    <div class="excerpt-gradient-top" />
                   </div>
-                </div>
-              </a>
-            </li>
-          </template>
-        </ul>
+                </component>
+              </AnimatePresence>
+            </template>
 
-        <!-- Pagination controls (Fixed structural segment block style wrapper) -->
-        <nav
-          v-if="(urlSearchMode ? urlTotalPages : normalTotalPages) > 1"
-          class="url-pagination"
-          aria-label="Search result pages"
-        >
-          <div class="url-pagination-segment">
-            <button
-              type="button"
-              class="url-page-btn url-page-nav"
-              :disabled="(urlSearchMode ? urlCurrentPage : normalCurrentPage) <= 1"
-              aria-label="Previous page"
-              @click="urlSearchMode
+            <!-- Normal search results -->
+            <template v-else>
+              <AnimatePresence>
+                <component
+                  :is="searchMotionLi"
+                  v-for="(p, index) in pagedResults"
+                  :key="'normal-' + normalCurrentPage + '-' + p.id"
+                  class="result-layout"
+                  :id="'localsearch-item-' + (index + 1)"
+                  :aria-selected="selectedIndex === index + 1
+                  ? 'true'
+                  : 'false'"
+                  role="option"
+                  v-bind="resultMotion(index)"
+                >
+                  <a
+                    :href="p.id"
+                    class="result"
+                    :class="{
+                      selected: selectedIndex === index + 1
+                    }"
+                    :aria-label="[...p.titles, p.title].join(' > ')"
+                    @mouseenter="!disableMouseOver &&
+                    (selectedIndex = index + 1)"
+                    @focusin="selectedIndex = index + 1"
+                    @click="onResultClick"
+                    :data-index="index + 1"
+                  >
+                    <div>
+                      <div class="titles">
+                        <Hash
+                          v-if="p.titles.length > 0"
+                          stroke-width="1.25"
+                          :size="18"
+                        />
+                        <File v-else stroke-width="1.25" :size="18" />
+                        <span
+                          v-for="(t, index) in p.titles"
+                          :key="index"
+                          class="title"
+                        >
+                          <span class="text" v-html="t" />
+                          <ArrowRight
+                            stroke-width="1.25"
+                            :size="18"
+                            class="mx-0.5"
+                          />
+                        </span>
+                        <span class="title main">
+                          <span class="text" v-html="p.title" />
+                        </span>
+                      </div>
+
+                      <div v-if="showDetailedList" class="excerpt-wrapper">
+                        <component
+                          :is="searchMotionDiv"
+                          v-if="p.text"
+                          class="excerpt"
+                          inert
+                          v-bind="excerptMotion"
+                        >
+                          <div class="vp-doc" v-html="p.text" />
+                        </component>
+                        <div class="excerpt-gradient-bottom" />
+                        <div class="excerpt-gradient-top" />
+                      </div>
+                    </div>
+                  </a>
+                </component>
+              </AnimatePresence>
+            </template>
+          </ul>
+
+          <!-- Bottom section: pagination (when needed). Always rendered so the
+             shell's rounded bottom edge stays consistent. -->
+          <nav
+            class="url-pagination"
+            aria-label="Search result pages"
+          >
+            <div
+              v-if="(urlSearchMode
+              ? urlTotalPages
+              : normalTotalPages) > 1"
+              class="url-pagination-segment"
+            >
+              <button
+                type="button"
+                class="url-page-btn url-page-nav"
+                :disabled="(urlSearchMode
+                ? urlCurrentPage
+                : normalCurrentPage) <= 1"
+                aria-label="Previous page"
+                @click="urlSearchMode
                 ? goToUrlPage(urlCurrentPage - 1)
                 : goToNormalPage(normalCurrentPage - 1)"
-            >
-              <ChevronRight :size="14" stroke-width="2" style="transform: rotate(180deg)" />
-            </button>
-
-            <template
-              v-for="(p, pi) in (urlSearchMode ? urlPageList : normalPageList)"
-              :key="pi"
-            >
-              <span v-if="p === '…'" class="url-page-ellipsis">…</span>
-              <button
-                v-else
-                type="button"
-                class="url-page-btn"
-                :class="{ active: p === (urlSearchMode ? urlCurrentPage : normalCurrentPage) }"
-                :aria-current="p === (urlSearchMode ? urlCurrentPage : normalCurrentPage) ? 'page' : undefined"
-                @click="urlSearchMode ? goToUrlPage(p as number) : goToNormalPage(p as number)"
               >
-                {{ p }}
+                <ChevronRight
+                  :size="14"
+                  stroke-width="2"
+                  style="transform: rotate(180deg)"
+                />
               </button>
-            </template>
 
-            <button
-              type="button"
-              class="url-page-btn url-page-nav"
-              :disabled="(urlSearchMode ? urlCurrentPage : normalCurrentPage) >= (urlSearchMode ? urlTotalPages : normalTotalPages)"
-              aria-label="Next page"
-              @click="urlSearchMode
+              <template
+                v-for="(p, pi) in urlSearchMode ? urlPageList : normalPageList"
+                :key="pi"
+              >
+                <span v-if="p === '…'" class="url-page-ellipsis">…</span>
+                <button
+                  v-else
+                  type="button"
+                  class="url-page-btn"
+                  :class="{
+                    active: p === (urlSearchMode
+                      ? urlCurrentPage
+                      : normalCurrentPage)
+                  }"
+                  :aria-current="p === (urlSearchMode
+                    ? urlCurrentPage
+                    : normalCurrentPage)
+                  ? 'page'
+                  : undefined"
+                  @click="urlSearchMode
+                  ? goToUrlPage(p as number)
+                  : goToNormalPage(p as number)"
+                >
+                  {{ p }}
+                </button>
+              </template>
+
+              <button
+                type="button"
+                class="url-page-btn url-page-nav"
+                :disabled="(urlSearchMode
+                ? urlCurrentPage
+                : normalCurrentPage) >=
+                (urlSearchMode
+                  ? urlTotalPages
+                  : normalTotalPages)"
+                aria-label="Next page"
+                @click="urlSearchMode
                 ? goToUrlPage(urlCurrentPage + 1)
                 : goToNormalPage(normalCurrentPage + 1)"
-            >
-              <ChevronRight :size="14" stroke-width="2" />
-            </button>
-          </div>
-        </nav>
+              >
+                <ChevronRight :size="14" stroke-width="2" />
+              </button>
+            </div>
+          </nav>
 
-        <div class="search-keyboard-shortcuts">
-          <span>
-            <kbd
-              :aria-label="translate(
-                'modal.footer.navigateUpKeyAriaLabel'
-              )"
-            >
-              <span class="vpi-arrow-up navigate-icon" />
-            </kbd>
-            <kbd
-              :aria-label="translate(
-                'modal.footer.navigateDownKeyAriaLabel'
-              )"
-            >
-              <span class="vpi-arrow-down navigate-icon" />
-            </kbd>
-            {{ translate('modal.footer.navigateText') }}
-          </span>
-          <span>
-            <kbd :aria-label="translate('modal.footer.selectKeyAriaLabel')">
-              <span class="vpi-corner-down-left navigate-icon" />
-            </kbd>
-            {{ translate('modal.footer.selectText') }}
-          </span>
-          <span>
-            <kbd :aria-label="translate('modal.footer.closeKeyAriaLabel')">
-              esc
-            </kbd>
-            {{ translate('modal.footer.closeText') }}
-          </span>
-        </div>
-      </div>
+          <component
+            :is="searchMotionDiv"
+            v-if="showKeyboardShortcuts"
+            class="search-keyboard-shortcuts"
+            v-bind="footerMotion"
+          >
+            <span>
+              <kbd
+                :aria-label="translate(
+                  'modal.footer.navigateUpKeyAriaLabel'
+                )"
+              >
+                <span class="vpi-arrow-up navigate-icon" />
+              </kbd>
+              <kbd
+                :aria-label="translate(
+                  'modal.footer.navigateDownKeyAriaLabel'
+                )"
+              >
+                <span class="vpi-arrow-down navigate-icon" />
+              </kbd>
+              {{ translate('modal.footer.navigateText') }}
+            </span>
+            <span>
+              <kbd :aria-label="translate('modal.footer.selectKeyAriaLabel')">
+                <span class="vpi-corner-down-left navigate-icon" />
+              </kbd>
+              {{ translate('modal.footer.selectText') }}
+            </span>
+            <span>
+              <kbd :aria-label="translate('modal.footer.closeKeyAriaLabel')">
+                esc
+              </kbd>
+              {{ translate('modal.footer.closeText') }}
+            </span>
+          </component>
+        </component>
+      </AnimatePresence>
 
       <button v-if="!showSearch" />
     </div>
@@ -1607,7 +2018,7 @@ function onMouseMove(e: MouseEvent) {
 .shell {
   position: relative;
   box-sizing: border-box;
-  padding: 12px;
+  padding: 12px 12px 8px;
   margin: 64px auto;
   display: flex;
   flex-direction: column;
@@ -1663,6 +2074,15 @@ function onMouseMove(e: MouseEvent) {
   min-width: 0;
   flex: none;
   overflow: hidden;
+  transition: padding-inline 0.15s;
+}
+
+.page-ribbon.can-scroll-left {
+  padding-left: 42px;
+}
+
+.page-ribbon.can-scroll-right {
+  padding-right: 42px;
 }
 
 .page-ribbon-track {
@@ -1706,14 +2126,12 @@ function onMouseMove(e: MouseEvent) {
 
 .page-ribbon-arrow.right {
   right: 0;
-  background: linear-gradient(to right, transparent, var(--vp-local-search-bg, var(--vp-c-bg-soft)) 70%);
   justify-content: flex-end;
   padding-right: 6px;
 }
 
 .page-ribbon-arrow.left {
   left: 0;
-  background: linear-gradient(to left, transparent, var(--vp-local-search-bg, var(--vp-c-bg-soft)) 70%);
   justify-content: flex-start;
   padding-left: 6px;
 }
@@ -1894,6 +2312,10 @@ function onMouseMove(e: MouseEvent) {
   overscroll-behavior: contain;
 }
 
+.result-layout {
+  will-change: transform, opacity, height;
+}
+
 .result {
   display: flex;
   align-items: center;
@@ -1927,15 +2349,83 @@ function onMouseMove(e: MouseEvent) {
   align-items: center;
 }
 
-/* URL-mode card: breadcrumb text wraps freely, open-link button is pinned
-   to the top-right corner so it never detaches when the title wraps. */
-.url-result-body {
-  position: relative;
-  padding-right: 28px;
+.url-result-card {
+  cursor: pointer;
 }
 
-.url-titles {
-  z-index: auto;
+.url-result-body {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.url-path {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 4px;
+  color: var(--vp-c-text-3);
+  font-size: 0.78rem;
+  line-height: 1.2;
+}
+
+.url-path > svg,
+.url-path-segment svg {
+  flex-shrink: 0;
+  width: 1em;
+  height: 1em;
+  margin-top: -1px;
+  opacity: 0.55;
+}
+
+.url-path > svg {
+  margin-top: -2px;
+}
+
+.url-path-segment {
+  display: flex;
+  align-items: center;
+  min-width: 0;
+}
+
+.url-path-current {
+  display: inline-flex;
+  align-items: center;
+  color: var(--vp-c-text-2);
+}
+
+.url-path :deep(.icon-tip) {
+  display: inline-flex;
+  align-items: center;
+  line-height: 1;
+  vertical-align: middle;
+}
+
+.url-path :deep(.icon-tip > span) {
+  width: 1em;
+  height: 1em;
+  min-width: 1em;
+}
+
+.url-link {
+  align-self: flex-start;
+  max-width: 100%;
+  color: var(--vp-c-text-1);
+  font-size: 0.95rem;
+  font-weight: 500;
+  line-height: 1.35;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+.url-link:hover {
+  color: var(--vp-c-brand-1);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.result.selected .url-link {
+  color: var(--vp-c-brand-1);
 }
 
 .titles > svg {
@@ -1960,15 +2450,6 @@ function onMouseMove(e: MouseEvent) {
 
 .title svg {
   opacity: 0.5;
-}
-
-.url-titles .title.main {
-  min-width: 0;
-}
-
-.url-titles .title.main .text {
-  overflow-wrap: anywhere;
-  word-break: break-word;
 }
 
 .result.selected {
@@ -2119,42 +2600,6 @@ svg {
   background: rgba(60, 120, 210, 0.10);
 }
 
-.url-open-btn {
-  position: absolute;
-  top: 0;
-  right: 0;
-  flex: none;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 24px;
-  height: 24px;
-  border-radius: 4px;
-  color: var(--vp-c-text-3);
-  opacity: 0;
-  transition: opacity 0.15s, color 0.15s, background 0.15s;
-}
-
-.result:hover .url-open-btn,
-.result.selected .url-open-btn {
-  opacity: 1;
-}
-
-@media (max-width: 767px) {
-  .url-open-btn {
-    opacity: 1;
-  }
-}
-
-.url-open-btn:hover {
-  color: var(--vp-c-brand-1);
-  background: var(--vp-c-default-soft);
-}
-
-.url-open-btn-selected {
-  color: var(--vp-c-brand-1) !important;
-}
-
 :deep(.url-highlight) {
   background-color: var(--vp-local-search-highlight-bg);
   color: var(--vp-local-search-highlight-text);
@@ -2163,20 +2608,18 @@ svg {
   font-style: normal;
 }
 
-/* Redesigned Unified Mode Switching Segmented Style Pagination Controls */
+/* Bottom-strip pagination. The <nav> is always rendered (empty when only one
+   page) but collapses to zero height in that case so the shell's bottom
+   rounded edge sits flush against the results. */
 .url-pagination {
   display: flex;
   align-items: center;
   justify-content: center;
   flex: 0 0 auto !important;
-  padding: 10px 8px;
-  border-top: 1px solid var(--vp-c-divider);
 }
 
-@media (max-width: 767px) {
-  .url-pagination {
-    padding-bottom: calc(10px + env(safe-area-inset-bottom, 0px));
-  }
+.url-pagination:has(.url-pagination-segment) {
+  padding-top: 8px;
 }
 
 .url-pagination-segment {

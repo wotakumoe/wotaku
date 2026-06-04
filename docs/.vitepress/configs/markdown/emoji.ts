@@ -11,22 +11,22 @@ import { iconTooltips } from './tooltip'
 
 // Icons that need to be used should be imported here
 import { icons as akar } from '@iconify-json/akar-icons'
+import { icons as bi } from '@iconify-json/bi'
 import { icons as ic } from '@iconify-json/ic'
 import { icons as iconoir } from '@iconify-json/iconoir'
 import { icons as logos } from '@iconify-json/logos'
 import { icons as lucide } from '@iconify-json/lucide'
+import { icons as map } from '@iconify-json/map'
 import { icons as materials } from '@iconify-json/material-symbols'
 import { icons as mdi } from '@iconify-json/mdi'
 import { icons as mingcute } from '@iconify-json/mingcute'
 import { icons as octicon } from '@iconify-json/octicon'
 import { icons as simple } from '@iconify-json/simple-icons'
+import { icons as sl } from '@iconify-json/streamline-logos'
+import { icons as ss } from '@iconify-json/streamline-sharp'
+import { icons as su } from '@iconify-json/streamline-ultimate'
 import { icons as twemoji } from '@iconify-json/twemoji'
 import { icons as uil } from '@iconify-json/uil'
-import { icons as map } from '@iconify-json/map'
-import { icons as bi } from '@iconify-json/bi'
-import { icons as sl } from '@iconify-json/streamline-logos'
-import { icons as su } from '@iconify-json/streamline-ultimate'
-import { icons as ss } from '@iconify-json/streamline-sharp'
 
 // 1. Install emoji pack with `pnpm add -D @iconify-json/<icon>`
 // 2. Import them like I did above
@@ -56,7 +56,6 @@ const emojis: { pack: IconifyJSON; prefix?: string }[] = [
 // Add aliases here: [icon, label?]
 // Label is optional — omit for icons that don't need a tooltip.
 const aliasDefs: Record<string, [string, string?]> = {
- 
   // Operating System
   and: ['simple-icons-android', 'Android'],
   ios: ['simple-icons-apple', 'iOS / iPadOS'],
@@ -84,10 +83,13 @@ const aliasDefs: Record<string, [string, string?]> = {
   cs: ['mdi-package-variant-closed-remove', 'Closed Source'],
 
   // Network Type
-  ddl: ['material-symbols-cloud-download-outline-rounded', 'Direct / HTTP(S) Download'],
+  ddl: [
+    'material-symbols-cloud-download-outline-rounded',
+    'Direct / HTTP(S) Download'
+  ],
   mag: ['lucide-magnet', 'Torrent / Magnet Download'],
   usnt: ['material-symbols-newspaper-rounded', 'Usenet / NZB download'],
-  
+
   // Device
   erdr: ['material-symbols-chrome-reader-mode-outline-rounded', 'E-reader'],
 
@@ -104,12 +106,15 @@ const aliasDefs: Record<string, [string, string?]> = {
   sup: ['mingcute-server-fill', 'Self-uploaded (Own storage or video host)'],
   scrpr: ['mingcute-shovel-fill', 'Scraper (Pulling from other host sites)'],
   tv: ['material-symbols-tv-gen-outline-rounded', 'Native TV support'],
-  cast: ['material-symbols-cast-outline','TV casting support'],
-  dlna: ['mdi-dlna','DLNA support'],
+  cast: ['material-symbols-cast-outline', 'TV casting support'],
+  dlna: ['mdi-dlna', 'DLNA support'],
 
   up: ['material-symbols-upload', 'User / scanlator upload'],
   ms: ['material-symbols-file-copy-rounded', 'Multiple chapter sources'],
-  ps: ['material-symbols-file-copy-outline-rounded', 'Unlabeled / Poorly labeled / Partial multi-source'],
+  ps: [
+    'material-symbols-file-copy-outline-rounded',
+    'Unlabeled / Poorly labeled / Partial multi-source'
+  ],
   ss: ['material-symbols-file-copy-off-rounded', 'Single source'],
   sp: ['lucide-file', 'Single Page Mode'],
   dp: ['lucide-book-open', 'Dual Page Mode'],
@@ -120,7 +125,7 @@ const aliasDefs: Record<string, [string, string?]> = {
   mal: ['simple-icons-myanimelist', 'MyAnimeList'],
   al: ['simple-icons-anilist', 'AniList'],
   k: ['simple-icons-kitsu', 'Kitsu'],
-  shiki: ['simple-icons-shikimori','Shikimori'],
+  shiki: ['simple-icons-shikimori', 'Shikimori'],
   simkl: ['simple-icons-simkl', 'Simkl'],
   tmdb: ['simple-icons-themoviedatabase', 'TMDB'],
   lstfm: ['simple-icons-lastdotfm', 'Lastfm'],
@@ -137,8 +142,8 @@ const aliasDefs: Record<string, [string, string?]> = {
   steam: ['simple-icons-steam', 'Steam'],
   gog: ['mdi-gog', 'GOG'],
   iarch: ['simple-icons-internetarchive', 'Internet Archive'],
-  apple: ['simple-icons-apple','Apple product'],
-  wikip: ['simple-icons-wikipedia','WikiPedia'],
+  apple: ['simple-icons-apple', 'Apple product'],
+  wikip: ['simple-icons-wikipedia', 'WikiPedia'],
 
   // Price
   paid: ['streamline-ultimate-cash-payment-bills-bold', "Good ol' money"],
@@ -184,14 +189,12 @@ const aliasDefs: Record<string, [string, string?]> = {
   cvie: ['twemoji-flag-vietnam', 'Vietnam'],
   cbr: ['twemoji-flag-brazil', 'Brazil'],
 
-
   // Storage
   sgd: ['simple-icons-googledrive', 'Google Drive'],
   sm: ['simple-icons-mega', 'MEGA'],
   smf: ['simple-icons-mediafire', 'MediaFire'],
   host: ['mdi-snail', 'Rate-limited / Paywalled Host'],
 
-  
   // General
   s: ['twemoji-glowing-star', 'Favorite'],
   e: ['mdi-puzzle', 'Extension'],
@@ -204,9 +207,9 @@ const aliasDefs: Record<string, [string, string?]> = {
   prx: ['material-symbols-directions-alt', 'Proxies / Mirrors'],
   tf: ['mdi-airplane', 'Testflight'],
   more: ['mdi-arrow-right-bold', 'Related'],
-  prev: ['mdi-arrow-right-thick','Related to Prior URL'],
+  prev: ['mdi-arrow-right-thick', 'Related to Prior URL'],
   help: ['material-symbols-help', 'Help / Docs'],
-  ded: ['twemoji-headstone','Inactive / Retired'],
+  ded: ['twemoji-headstone', 'Inactive / Retired'],
   strm: ['material-symbols-play-circle-outline', 'Stream'],
   lcl: ['iconoir-floppy-disk', 'Local file'],
   batch: ['material-symbols-package-2-outline', 'Batch Download'],
@@ -250,29 +253,45 @@ for (const [alias, fullName] of Object.entries(aliases)) {
 
 export { aliases, defs }
 
-export function emojiRender(md: MarkdownRenderer) {
-  md.renderer.rules.emoji = (tokens, idx) => {
-    const markup = tokens[idx].markup
-    const label = aliasLabels[markup] || iconTooltips[markup]
+export function renderEmojiMarkup(markup: string) {
+  const label = aliasLabels[markup] || iconTooltips[markup]
 
-    const tip = label?.replace(/"/g, '&quot;')
-    const wrap = (cls: string) => tip
+  const tip = label?.replace(/"/g, '&quot;')
+  const wrap = (cls: string) =>
+    tip
       ? `<span class="icon-tip" data-tip="${tip}" tabindex="-1"><span class="${cls}"></span></span>`
       : `<span class="${cls}"></span>`
 
-    // Check for custom icon aliases first
-    if (customIconAliases[markup]) return wrap(`i-${customIconAliases[markup]}`)
+  // Check for custom icon aliases first
+  if (customIconAliases[markup]) return wrap(`i-${customIconAliases[markup]}`)
 
-    // Check for aliases
-    if (aliases[markup]) return wrap(`i-${aliases[markup]}`)
+  // Check for aliases
+  if (aliases[markup]) return wrap(`i-${aliases[markup]}`)
 
-    // Check for prefixed icons
-    for (const emoji of emojis) {
-      if (markup.startsWith(emoji.prefix!)) return wrap(`i-${markup}`)
+  // Check for prefixed icons
+  for (const emoji of emojis) {
+    if (emoji.prefix && markup.startsWith(emoji.prefix)) {
+      return wrap(`i-${markup}`)
     }
+  }
 
-    // Default to twemoji
-    return wrap(`i-twemoji-${markup}`)
+  // Default to twemoji
+  return wrap(`i-twemoji-${markup}`)
+}
+
+export function renderEmojiShortcodes(value: string) {
+  return value.replace(/:([A-Za-z0-9_+-]+):/g, (match, markup) => {
+    if (defs[markup] === undefined || defs[markup] === 'INVALID_ALIAS') {
+      return match
+    }
+    return renderEmojiMarkup(markup)
+  })
+}
+
+export function emojiRender(md: MarkdownRenderer) {
+  md.renderer.rules.emoji = (tokens, idx) => {
+    const markup = tokens[idx].markup
+    return renderEmojiMarkup(markup)
   }
 }
 
