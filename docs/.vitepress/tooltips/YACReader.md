@@ -3,4 +3,4 @@
 - The bundled YACLibrary is excellent.
 - Has lots of customization.
 - Can act as a local manga server, like Calibre.
-- But the clients for [Android](https://play.google.com/store/apps/details?id=com.yacreader.yacreader&hl=en&gl=US) and [iOS](https://apps.apple.com/app/id635717885) are paid.
+- But the clients for [Android](https://play.google.com/store/apps/details?id=com.yacreader.yacreader) and [iOS](https://apps.apple.com/app/id635717885) are paid.

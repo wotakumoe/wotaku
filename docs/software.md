@@ -45,7 +45,7 @@ og:
 | **Misc** | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) <tooltip>Supports Mihon and Mangayomi extensions</tooltip> |
 | ^^ | [Dantotsu](https://github.com/itsmechinmoy/dantotsu-updater) [:src:](https://git.rebelonion.dev/rebelonion/Dantotsu) [:d:](https://discord.gg/4HPZ5nAWwM) <tooltip>Supports Mihon extensions</tooltip> |
 | ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) |
-| **Local** | [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) :fm::cs: |
+| **Local** | [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer) :fm::cs: |
 | ^^ | [Kuro Reader +](https://kurotoshiro.dev/) :fm::cs: |
 | ^^ | [CDisplayEx](https://play.google.com/store/apps/details?id=com.progdigy.cdisplay.free) :fm::cs: |
 

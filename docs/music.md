@@ -341,7 +341,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [Oto Music Player](https://play.google.com/store/apps/details?id=com.piyush.music) :cs: | :and: |
 | [Musicolet Music Player](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) :cs: | :and: |
 | [Poweramp](https://powerampapp.com/) :s::cs::paid: | :and: |
-| [USB Audio Player PRO](https://play.google.com/store/apps/details?id=com.extreamsd.usbaudioplayerpro&hl=en&gl=US) :cs::paid: | :and: |
+| [USB Audio Player PRO](https://play.google.com/store/apps/details?id=com.extreamsd.usbaudioplayerpro) :cs::paid: | :and: |
 
 
 ### Online
