@@ -225,7 +225,6 @@ feeling lazy. someone pr platform icons for this section.
 | Focus | Software | Platforms |
 | :--- | :--- | :--- |
 | **Manga** | [Chimahon](https://github.com/sohilsayed/chimahon) <tooltip>Also supports LN.</tooltip> | :and: |
-| ^^ | [Manatan](https://manatan.com/) [:src:](https://github.com/KolbyML/Manatan) <tooltip>Also supports Anime and LN.</tooltip> | :and::ios::win::app::lin: |
 | **Games** | [Game Sentence Miner](https://github.com/bpwhelan/GameSentenceMiner) | :win::app::lin: |
 | ^^ | [OwOCR](https://github.com/AuroraWright/owocr) | :py: |
 | ^^ | [Meikipop](https://github.com/rtr46/meikipop) | :py: |
