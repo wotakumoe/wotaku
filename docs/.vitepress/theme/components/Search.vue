@@ -654,16 +654,17 @@ watch(
   () =>
     [
       searchWorkerReady.value,
+      showSearch.value,
       urlSearchMode.value,
       urlFilterDebounced.value
     ] as const,
-  async ([ready, active, query], _old, onCleanup) => {
+  async ([ready, isOpen, active, query], _old, onCleanup) => {
     let canceled = false
     onCleanup(() => {
       canceled = true
     })
 
-    if (!active || !query.trim()) {
+    if (!active || !isOpen || !query.trim()) {
       urlMatches.value = []
       urlPageGroupCounts.value = []
       return
@@ -691,7 +692,17 @@ watch(
 )
 
 function getPageKey(id: string) {
-  return id.split('#')[0].replace(/\/$/, '')
+  return getDocId(id).replace(/\/$/, '')
+}
+
+function getDocId(id: string) {
+  const hashIndex = id.indexOf('#')
+  return hashIndex === -1 ? id : id.slice(0, hashIndex)
+}
+
+function getDocAnchor(id: string) {
+  const hashIndex = id.indexOf('#')
+  return hashIndex === -1 ? '' : id.slice(hashIndex + 1)
 }
 
 function getPageLabel(key: string) {
@@ -1014,6 +1025,7 @@ watchDebounced(
   () =>
     [
       searchWorkerReady.value,
+      showSearch.value,
       localeIndex.value,
       searchIndexVersion.value,
       searchWorkerConfigKey.value,
@@ -1024,6 +1036,7 @@ watchDebounced(
   async (
     [
       ready,
+      isOpen,
       localeIndexValue,
       indexVersion,
       configKey,
@@ -1035,9 +1048,9 @@ watchDebounced(
     onCleanup
   ) => {
     if (
-      old?.[1] !== localeIndexValue ||
-      old?.[2] !== indexVersion ||
-      old?.[3] !== configKey
+      old?.[2] !== localeIndexValue ||
+      old?.[3] !== indexVersion ||
+      old?.[4] !== configKey
     ) {
       // Locale/config changes rebuild the worker index, so cached excerpts may no
       // longer match the active result set.
@@ -1049,13 +1062,21 @@ watchDebounced(
       canceled = true
     })
 
-    if (!ready) return
+    if (!ready || !isOpen) return
 
     // In URL search mode, skip normal text search
     if (mode === 'url') {
       results.value = []
       currentTerms.value = new Set()
-      enableNoResults.value = true
+      enableNoResults.value = Boolean(filterTextValue.trim())
+      return
+    }
+
+    const searchQuery = filterTextValue.trim()
+    if (!searchQuery) {
+      results.value = []
+      currentTerms.value = new Set()
+      enableNoResults.value = false
       return
     }
 
@@ -1080,7 +1101,7 @@ watchDebounced(
 
       workerPayload = await postSearchWorker<TextSearchWorkerPayload>({
         type: 'text-search',
-        query: filterTextValue,
+        query: searchQuery,
         mode,
         pageOrderEntries: getPageOrderEntries()
       })
@@ -1107,8 +1128,9 @@ watchDebounced(
 
     const toRows = (list: (SearchResult & Result)[]) =>
       list.map((r) => {
-        const [id, anchor] = r.id.split('#')
-        const map = cache.get(`${id}\n${filterTextValue}`)
+        const id = getDocId(r.id)
+        const anchor = getDocAnchor(r.id)
+        const map = cache.get(`${id}\n${searchQuery}`)
         return { ...r, text: map?.get(anchor) ?? '' }
       })
 
@@ -1130,7 +1152,7 @@ watchDebounced(
     const docOrderList: string[] = []
     const seenDocs = new Set<string>()
     for (const r of _result) {
-      const docId = r.id.slice(0, r.id.indexOf('#'))
+      const docId = getDocId(r.id)
       if (!seenDocs.has(docId)) {
         seenDocs.add(docId)
         docOrderList.push(docId)
@@ -1144,10 +1166,10 @@ watchDebounced(
     if (showDetailedListValue) {
       const eagerDocs = new Set<string>()
       for (const r of _result.slice(0, EAGER_EXCERPTS)) {
-        eagerDocs.add(r.id.slice(0, r.id.indexOf('#')))
+        eagerDocs.add(getDocId(r.id))
       }
       await Promise.all(
-        [...eagerDocs].map((docId) => buildDocExcerpt(docId, filterTextValue))
+        [...eagerDocs].map((docId) => buildDocExcerpt(docId, searchQuery))
       )
       if (canceled) return
     }
@@ -1169,12 +1191,12 @@ watchDebounced(
     if (showDetailedListValue) {
       const built = new Set<string>()
       for (const r of _result.slice(0, EAGER_EXCERPTS)) {
-        built.add(r.id.slice(0, r.id.indexOf('#')))
+        built.add(getDocId(r.id))
       }
       const remaining = docOrderList.filter((d) => !built.has(d))
       if (remaining.length) {
         for (const docId of remaining) {
-          await buildDocExcerpt(docId, filterTextValue)
+          await buildDocExcerpt(docId, searchQuery)
           if (canceled) return
           await nextFrame()
           if (canceled) return
@@ -1254,8 +1276,7 @@ onBeforeUnmount(() => {
 const excerptCache = new LRUCache<string, unknown>(24)
 
 async function fetchExcerpt(id: string) {
-  const hashIndex = id.indexOf('#')
-  const docId = hashIndex === -1 ? id : id.slice(0, hashIndex)
+  const docId = getDocId(id)
 
   const cached = excerptCache.get(docId)
   if (cached) return { id, mod: cached }

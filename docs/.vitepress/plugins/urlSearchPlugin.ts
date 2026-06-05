@@ -137,21 +137,35 @@ function extractLinksFromMarkdown(src: string, pageId: string): PageLink[] {
   return results
 }
 
-const collected: PageLink[] = []
+const collectedByPage = new Map<string, PageLink[]>()
+
+function getPageId(page: string) {
+  return '/' + page.replace(/\.md$/, '').replace(/\/index$/, '/')
+}
+
+function getDedupedLinks() {
+  const seen = new Set<string>()
+  const deduped: PageLink[] = []
+
+  for (const links of collectedByPage.values()) {
+    for (const link of links) {
+      const key = link.href + '\x00' + link.pageId + '\x00' + link.anchor
+      if (seen.has(key)) continue
+      seen.add(key)
+      deduped.push(link)
+    }
+  }
+
+  return deduped
+}
 
 export function collectPageLinks(src: string, page: string) {
-  const pageId = '/' + page.replace(/\.md$/, '').replace(/\/index$/, '/')
-  collected.push(...extractLinksFromMarkdown(src, pageId))
+  const pageId = getPageId(page)
+  collectedByPage.set(pageId, extractLinksFromMarkdown(src, pageId))
 }
 
 export function writeUrlSearchIndex(outDir: string) {
-  const seen = new Set<string>()
-  const deduped = collected.filter((l) => {
-    const key = l.href + '\x00' + l.pageId + '\x00' + l.anchor
-    if (seen.has(key)) return false
-    seen.add(key)
-    return true
-  })
+  const deduped = getDedupedLinks()
   const outPath = join(outDir, 'url-search-index.json')
   writeFileSync(outPath, JSON.stringify(deduped), 'utf-8')
   console.log(`[url-search] wrote ${deduped.length} links → ${outPath}`)
@@ -164,13 +178,7 @@ export function urlSearchDevPlugin() {
       server.middlewares.use(
         '/url-search-index.json',
         (_req: any, res: any) => {
-          const seen = new Set<string>()
-          const deduped = collected.filter((l) => {
-            const key = l.href + '\x00' + l.pageId + '\x00' + l.anchor
-            if (seen.has(key)) return false
-            seen.add(key)
-            return true
-          })
+          const deduped = getDedupedLinks()
           res.setHeader('Content-Type', 'application/json')
           res.end(JSON.stringify(deduped))
         }

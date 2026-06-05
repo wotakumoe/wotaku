@@ -61,6 +61,7 @@ type WorkerSearchResult = SearchResult & Result
 let searchIndex: MiniSearch<Result> | null = null
 let searchIndexKey = ''
 let urlLinks: PageLink[] = []
+let urlLinkHrefsLower: string[] = []
 let urlLinksPromise: Promise<void> | null = null
 let pageOrder = new Map<string, number>()
 let docOrder = new Map<string, number>()
@@ -212,9 +213,11 @@ async function ensureUrlLinks() {
     .then((data: PageLink[]) => {
       data.sort((a, b) => getPageOrder(a.pageId) - getPageOrder(b.pageId))
       urlLinks = data
+      urlLinkHrefsLower = data.map((link) => link.href.toLowerCase())
     })
     .catch(() => {
       urlLinks = []
+      urlLinkHrefsLower = []
     })
     .finally(() => {
       urlLinksPromise = null
@@ -231,8 +234,10 @@ async function urlSearch(message: UrlSearchRequest) {
 
   const matches: PageLink[] = []
   const pageGroups = new Map<string, PageGroupCount>()
-  for (const link of urlLinks) {
-    if (!link.href.toLowerCase().includes(query)) continue
+  for (let i = 0; i < urlLinks.length; i++) {
+    if (!urlLinkHrefsLower[i].includes(query)) continue
+
+    const link = urlLinks[i]
 
     matches.push(link)
     const existing = pageGroups.get(link.pageId)
