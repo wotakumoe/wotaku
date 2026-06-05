@@ -279,7 +279,6 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 | ^^ | [GoPlay](https://goplay.su/) :ckr::ccn: [:alt:](https://goplay.ml/) [:d:](https://discord.gg/yY2P3DQR8S) |
 | ^^ | [Asiaflix](https://asiaflix.net/) :hd: |
 | ^^ | [Anisub](https://anisub.tv/) :hd::cjp: |
-| ^^ | [XPrime](https://xprime.su/) |
 | ^^ | [Cineby](https://www.cineby.sc/) |
 | **Download** | [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap) |
 | ^^ | [AvistaZ](https://avistaz.to/) :mag::acc: [:d:](https://discord.gg/GYahYNWutE) |
