@@ -41,9 +41,9 @@ og:
 | **Kotatsu** | [Usagi](https://yumemi.moe/) [:src:](https://github.com/UsagiApp/Usagi) |
 | ^^ | [Futon](https://futonapp.pages.dev/) [:src:](https://github.com/AppFuton/Futon) |
 | ^^ | [Kotatsu Redo](https://github.com/Kotatsu-Redo/Kotatsu-Redo) |
-| ^^ | [Kototoro](https://github.com/skepsun/Kototoro) <tooltip>Supports Mihon and Legado extensions</tooltip> |
-| **Misc** | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) <tooltip>Supports Mihon and Mangayomi extensions</tooltip> |
-| ^^ | [Dantotsu](https://github.com/itsmechinmoy/dantotsu-updater) [:src:](https://git.rebelonion.dev/rebelonion/Dantotsu) [:d:](https://discord.gg/4HPZ5nAWwM) <tooltip>Supports Mihon extensions</tooltip> |
+| ^^ | [Kototoro](https://github.com/skepsun/Kototoro) |
+| **Misc** | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) |
+| ^^ | [Dantotsu](https://github.com/itsmechinmoy/dantotsu-updater) [:src:](https://git.rebelonion.dev/rebelonion/Dantotsu) [:d:](https://discord.gg/4HPZ5nAWwM) |
 | ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) |
 | **Local** | [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer) :fm::cs: |
 | ^^ | [Kuro Reader +](https://kurotoshiro.dev/) :fm::cs: |

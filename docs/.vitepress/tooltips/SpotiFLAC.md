@@ -1,0 +1,1 @@
+Downloads Spotify tracks from other streaming services, such as Tidal, Qobuz & Amazon Music.

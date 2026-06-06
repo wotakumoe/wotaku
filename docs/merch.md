@@ -133,6 +133,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [FAKKU](https://www.fakku.net/)
 - [HMV & Books](https://www.hmv.co.jp/)
 - [Mandarake](https://www.mandarake.co.jp/)
+- [MediaOCD](https://mediaocd.com/)
 - [Melonbooks](https://www.melonbooks.co.jp/)
 - [Mercari](https://www.mercari.com/)
 - [Play-Asia](https://www.play-asia.com/)

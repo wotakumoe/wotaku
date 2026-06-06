@@ -438,7 +438,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | Software | Platform |
 | :--- | :--- |
 | [Nicotine+](https://nicotine-plus.org/) ==Nicotine== | :win::app::lin: |
-| [SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) <tooltip>It maps from spotify to other streaming services. Doesn't download from spotify.</tooltip> | :win::app::lin: |
+| [SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) ==SpotiFLAC== | :win::app::lin: |
 | [TIDDL](https://github.com/oskvr37/tiddl) | :py: |
 | [Votify](https://github.com/glomatico/votify) | :py: |
 | [Zotify](https://github.com/Googolplexed0/zotify) | :py: |
