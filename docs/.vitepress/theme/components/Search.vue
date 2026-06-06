@@ -1305,6 +1305,17 @@ const getSearchTerms = (query: string) =>
     .map((term) => term.trim())
     .filter(Boolean)
 
+function hasExcerptPreview(html?: string) {
+  if (!html) return false
+  return Boolean(
+    html
+      .replace(/<[^>]*>/g, ' ')
+      .replace(/&nbsp;|&#160;/gi, ' ')
+      .replace(/\s+/g, ' ')
+      .trim()
+  )
+}
+
 async function selectExcerptTabs(root: HTMLElement, query: string) {
   const terms = getSearchTerms(query)
   if (!terms.length) return
@@ -2017,10 +2028,13 @@ function onMouseMove(e: MouseEvent) {
                         </span>
                       </div>
 
-                      <div v-if="showDetailedList" class="excerpt-wrapper">
+                      <div
+                        v-if="showDetailedList &&
+                        hasExcerptPreview(p.text)"
+                        class="excerpt-wrapper"
+                      >
                         <component
                           :is="searchMotionDiv"
-                          v-if="p.text"
                           class="excerpt"
                           inert
                           v-bind="excerptMotion"
