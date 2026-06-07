@@ -108,7 +108,7 @@ og:
 - [Holodex+](https://github.com/HolodexNet/Holodex-Plus) [:cr:](https://chromewebstore.google.com/detail/holodex-plus/mjcecbpccklceljomllkhilglcdcncbh) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/holodex-plus/)
 - [HoloSongs](https://github.com/themintchoco/holosongs) [:cr:](https://chromewebstore.google.com/detail/holosongs/ipiblcnlipdkimfmajnddpboejkocplf)
 - [HoloSchedule](https://github.com/YunzheZJU/holo-schedule) [:cr:](https://chromewebstore.google.com/detail/holoschedule/fjicegllhddldnnkgfefblholeegpcad) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/holo-schedule/)
-- [HyperChat](https://livetl.app/hyperchat) [:cr:](https://chromewebstore.google.com/detail/hyperchat-improved-youtub/naipgebhooiiccifflecbffmnjbabdbh) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/hyperchat/)
+- [HyperChat](https://github.com/LiveTL/HyperChat) [:cr:](https://chromewebstore.google.com/detail/hyperchat-improved-youtub/naipgebhooiiccifflecbffmnjbabdbh) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/hyperchat/)
 - [Immersive Translate](https://immersivetranslate.com/) [:cr:](https://chromewebstore.google.com/detail/immersive-translate-trans/bpoadfkcbjbfhfodiogcnhhhpibjhbnh) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/immersive-translate/)
 - [TTV LOL PRO](https://github.com/younesaassila/ttv-lol-pro) [:cr:](https://chrome.google.com/webstore/detail/ttv-lol-pro/bpaoeijjlplfjbagceilcgbkcdjbomjd) [:ff:](https://addons.mozilla.org/addon/ttv-lol-pro/)
 - [ytcFilter](https://github.com/LiveTL/ytcfilter) [:cr:](https://chromewebstore.google.com/detail/ytcfilter/mnldnbhgfocmkehnlkeanlhfmopepnko) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/ytcfilter/)
