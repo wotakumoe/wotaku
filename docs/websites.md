@@ -54,8 +54,8 @@ outline: 1
 ::: scrapetable
 - 1anime : (Anime Nexus, nexus), (AnimePahe, pahe), (AniNeko, gogo), (Re:ANIME, Zen), (AniZone, Zone);
 - Animetsu : (AnimeGG, Meg), (AnimePahe, Pahe), (AniNeko, Dio & Kite);
-- AnimeX : (123anime, wave, SD), (Animehub, shiro, SD), (AnimePahe, uwu), (Anibd, beep), (AniNeko, mimi), (AllManga, miku & mochi), (AnimeOnsen, vee, SD), (Anikoto, yuki);
-- Miruro : (AnimeDunya, dune, SD), (AnimeGG, cog & moo), (AnimePahe, kiwi & telli), (AniNeko, bonk & twin), (KickAssAnime, hop & kuz), (AllManga, ally & nun), (Anikoto, bun & bee);
+- AnimeX : (Anidb, kiwi), (Anibd, beep), (AniNeko, mimi), (AnimeOnsen, vee, SD), (AllManga, huzz miku & mochi), (Animeverse, neko), (Anikoto, koto & yuki);
+- Miruro : (AnimeDunya, dune, SD), (Anidb, pewe), (AnimeGG, cog & moo), (AnimePahe, kiwi & telli), (AniNeko, bonk & twin), (KickAssAnime, hop & kuz), (AllManga, ally & nun), (Anikoto, bun & bee);
 :::
 
 </Collapsible>
