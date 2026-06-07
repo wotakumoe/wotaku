@@ -473,7 +473,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [Mana Gallery](https://managall.com/) [:prx:](https://linktr.ee/managall) |
 | ^^ | [YaToon](https://yatoon234.com/) [:prx:](https://yatoonlink.com/) |
 | ^^ | [FRToon](https://frtoon2.com/) |
-| ^^ | [MoneyToon](https://mtoon140.com/) |
+| ^^ | [MoneyToon](https://mtoon141.com/) |
 | ^^ | [NameeToon](https://namee100.com/) |
 | **Anime** | [Annie24](https://ohli24.net/) [:prx:](https://rentry.org/wotaxy#annie24) |
 | ^^ | [Anilife](https://anilife.live/) |
