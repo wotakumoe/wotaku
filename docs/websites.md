@@ -103,6 +103,7 @@ outline: 1
 ### Torrent
 
 - [Nyaa](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap)
+- [AniRena](https://www.anirena.com/)
 - [nekoBT](https://nekobt.to/)
 - [Shana Project](https://www.shanaproject.com/)
 - [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](https://tokyo-tosho.net/)

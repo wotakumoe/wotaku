@@ -10,11 +10,12 @@ og:
 
 ### Public Trackers
 
-| Category    | Websites |
-|-------------|----------|
+| Category   | Websites |
+|------------|----------|
 | General    | [Nyaa](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap) |
 | ^^         | [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](https://tokyo-tosho.net/) |
-| Anime      | [nekoBT](https://nekobt.to/) |
+| Anime      | [AniRena](https://www.anirena.com/) |
+| ^^         | [nekoBT](https://nekobt.to/) |
 | ^^         | [Shana Project](https://www.shanaproject.com/) |
 | NSFW       | [Sukebei](https://sukebei.nyaa.si/) [:prx:](https://rentry.org/nyaap) |
 
