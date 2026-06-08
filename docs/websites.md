@@ -54,7 +54,7 @@ outline: 1
 
 ::: scrapetable
 - 1anime : (Anime Nexus, nexus), (AnimePahe, pahe), (AniNeko, gogo), (Re:ANIME, Zen), (AniZone, Zone);
-- AniLight : (AnimePahe, Raye), (Anibd, Misora), (AniNeko, Light), (Anikoto, Kiwi, Misa, Meg, Vid), (AllManga, Ryu);
+- AniLight : (AnimePahe, Raye), (Anibd, Misora), (AniNeko, Light), (Anikoto, Kiwi Meg Misa & Vid), (AllManga, Ryu);
 - Animetsu : (AnimeGG, Meg), (AnimePahe, Pahe), (AniNeko, Dio & Kite);
 - AnimeX : (Anidb, kiwi), (Anibd, beep), (AniNeko, mimi), (AnimeOnsen, vee, SD), (AllManga, huzz miku & mochi), (Animeverse, neko), (Anikoto, koto & yuki);
 - Miruro : (AnimeDunya, dune, SD), (Anidb, pewe), (AnimeGG, cog & moo), (AnimePahe, kiwi & telli), (AniNeko, bonk & twin), (KickAssAnime, hop & kuz), (AllManga, ally & nun), (Anikoto, bun & bee);
