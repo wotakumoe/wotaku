@@ -113,7 +113,7 @@ og:
 | ^^ | [Learn Japanese Podcast](https://learnjapanesepod.com/) |
 | ^^ | [The Konnichiwa Podcast](https://konnichiwapodcast.podbean.com/) |
 | Others | [Condensed Audio Catalog](https://condensedaudiocatalog.com/) |
-| ^^ | [Japanese Condensed Audio](https://mega.nz/folder/8HhhWDyJ#SHw5xsYxyhWUX536UcqkeQ) [:src:](https://mega.nz/folder/N4d3STJC#w3wPPgk9UgD6qE_UvjtB8Q) |
+| ^^ | [Japanese Condensed Audio](https://rentry.org/wotadirect#japanimmersion) |
 
 ## YouTube
 - [Comprehensible Japanese](https://cijapanese.com/resources)

@@ -504,7 +504,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^ | [FL Studio](https://www.image-line.com/fl-studio/) :cs: | :win::app: |
 | ^^ | [Studio One](https://www.presonus.com/en-US/studio-one.html) :cs: | :win: |
 | Related Links | [SynthV.info](https://synthv.info/) | :no: |
-| ^^ | [CeVIO Voice Database Installer Archive](https://rentry.org/wotadirect#music) | :no: |
+| ^^ | [CeVIO Voice Database Installer Archive](https://docs.google.com/spreadsheets/d/1blPdn7UuNNSUbTs3FRtBV5mdDUCf728NJC7yZhOae-M/edit?gid=0#gid=0) | :no: |
 | ^^ | [RuTracker.org](https://rutracker.org/forum/index.php) | :no: |
 
 ::: info Introduction / Guide
