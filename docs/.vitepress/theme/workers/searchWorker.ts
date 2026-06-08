@@ -116,6 +116,59 @@ function compareByPageAndDoc(a: { id: unknown }, b: { id: unknown }) {
   return getDocOrder(aId) - getDocOrder(bId)
 }
 
+function stripMarkdown(value: string) {
+  return value
+    .replace(/`([^`]+)`/g, '$1')
+    .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')
+    .replace(/[*_~]/g, '')
+    .trim()
+}
+
+function getQueryTerms(query: string) {
+  return query
+    .toLowerCase()
+    .split(/\s+/)
+    .map((term) => term.trim())
+    .filter(Boolean)
+}
+
+function findMatchingLinkForResult(
+  result: WorkerSearchResult,
+  query: string
+) {
+  const pageId = getPageKey(String(result.id))
+  const anchor = String(result.id).split('#')[1] ?? ''
+  const terms = getQueryTerms(query)
+  if (!terms.length) return
+
+  return urlLinks.find((link) => {
+    if (link.pageId.replace(/\/$/, '') !== pageId || link.anchor !== anchor) {
+      return false
+    }
+
+    const linkText = stripMarkdown(link.linkText).toLowerCase()
+    return terms.every((term) => linkText.includes(term))
+  })
+}
+
+function withLinkPathTitles(
+  results: WorkerSearchResult[],
+  query: string
+) {
+  if (!urlLinks.length) return results
+
+  return results.map((result) => {
+    const link = findMatchingLinkForResult(result, query)
+    if (!link) return result
+
+    return {
+      ...result,
+      title: stripMarkdown(link.linkText),
+      titles: link.titles
+    }
+  })
+}
+
 function rebuildDocOrder(index: MiniSearch<Result>) {
   const map = new Map<string, number>()
   const ids = (index as any)._documentIds
@@ -190,13 +243,15 @@ async function textSearch(message: TextSearchRequest) {
     (r) => !seen.has(r.id) && r.match && Object.keys(r.match).length > 0
   )
   const results = [...top, ...titleHits].sort(compareByPageAndDoc)
+  await ensureUrlLinks()
+  const displayResults = withLinkPathTitles(results, message.query)
   const terms = new Set<string>()
-  for (const result of results) {
+  for (const result of displayResults) {
     for (const term in result.match) terms.add(term)
   }
 
   return {
-    results,
+    results: displayResults,
     terms: [...terms]
   }
 }

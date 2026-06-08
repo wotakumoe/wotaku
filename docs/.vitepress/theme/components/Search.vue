@@ -1936,7 +1936,8 @@ function onMouseMove(e: MouseEvent) {
                     <div class="url-result-body">
                       <div class="url-path">
                         <Hash
-                          v-if="item.titles.length > 0"
+                          v-if="item.anchor ||
+                          item.titles.length > 0"
                           stroke-width="1.25"
                           :size="18"
                         />
@@ -2006,7 +2007,8 @@ function onMouseMove(e: MouseEvent) {
                     <div>
                       <div class="titles">
                         <Hash
-                          v-if="p.titles.length > 0"
+                          v-if="getDocAnchor(p.id) ||
+                          p.titles.length > 0"
                           stroke-width="1.25"
                           :size="18"
                         />

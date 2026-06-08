@@ -15,6 +15,11 @@ function extractLinksFromMarkdown(src: string, pageId: string): PageLink[] {
   const seen = new Set<string>()
   const headingStack: string[] = []
   const slugCounts = new Map<string, number>()
+  const containerStack: string[] = []
+  const tabStack: {
+    title: string
+    headings: string[]
+  }[] = []
   const collapsibleStack: {
     anchor: string
     headings: string[]
@@ -54,8 +59,45 @@ function extractLinksFromMarkdown(src: string, pageId: string): PageLink[] {
     currentAnchor = getAnchor(text)
   }
 
+  const getActiveTab = () =>
+    tabStack.length ? tabStack[tabStack.length - 1] : undefined
+
+  const getTitles = () => {
+    const tab = getActiveTab()
+    if (!tab) return headingStack.filter(Boolean)
+
+    const baseHeadings = tab.headings.filter(Boolean)
+    const nestedHeadings = headingStack
+      .slice(tab.headings.length)
+      .filter(Boolean)
+    return [...baseHeadings, tab.title, ...nestedHeadings]
+  }
+
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i]
+
+    const containerOpenMatch = line.match(/^\s*:{3,}\s*([A-Za-z][\w-]*)\b/)
+    if (containerOpenMatch) {
+      containerStack.push(containerOpenMatch[1].toLowerCase())
+    } else if (/^\s*:{3,}\s*$/.test(line)) {
+      const closed = containerStack.pop()
+      if (closed === 'tabs') tabStack.pop()
+    }
+
+    const tabMatch = line.match(/^\s*==\s+(.+)$/)
+    if (tabMatch && containerStack.includes('tabs')) {
+      const title = tabMatch[1].trim()
+      if (title) {
+        const tab = getActiveTab()
+        if (tab) {
+          tab.title = title
+          tab.headings = [...headingStack]
+        } else {
+          tabStack.push({ title, headings: [...headingStack] })
+        }
+      }
+      continue
+    }
 
     const collapsibleMatch = line.match(
       /^\s*<Collapsible\b(?=[^>]*\btitle=(['"])(.*?)\1)[^>]*>\s*$/i
@@ -113,7 +155,7 @@ function extractLinksFromMarkdown(src: string, pageId: string): PageLink[] {
         linkText,
         pageId,
         anchor: currentAnchor,
-        titles: headingStack.filter(Boolean)
+        titles: getTitles()
       })
     }
 
@@ -129,7 +171,7 @@ function extractLinksFromMarkdown(src: string, pageId: string): PageLink[] {
         linkText: href,
         pageId,
         anchor: currentAnchor,
-        titles: headingStack.filter(Boolean)
+        titles: getTitles()
       })
     }
   }
