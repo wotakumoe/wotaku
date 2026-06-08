@@ -124,6 +124,7 @@ outline: 1
 | Category      | Name |
 |---------------|------|
 | **Reuploads** | [Tokyo Insider](https://www.tokyoinsider.com/) :ddl: |
+| ^^ | [Chauthanh](https://chauthanh.info/) :ddl::acc: |
 | **BDMV** :ljp::host: | [JPFiles](https://jpfiles.net/) |
 | ^^ | [AnimeRSS](https://animerss.com/) |
 | ^^ | [Asia Media Blog](https://asiamediablog.com/media/anime/) [:prx:](https://rentry.org/wotaxy#asia-media-blog) |
