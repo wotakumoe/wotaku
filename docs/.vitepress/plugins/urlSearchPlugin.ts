@@ -16,10 +16,6 @@ function extractLinksFromMarkdown(src: string, pageId: string): PageLink[] {
   const headingStack: string[] = []
   const slugCounts = new Map<string, number>()
   const containerStack: string[] = []
-  const tabStack: {
-    title: string
-    headings: string[]
-  }[] = []
   const collapsibleStack: {
     anchor: string
     headings: string[]
@@ -32,7 +28,11 @@ function extractLinksFromMarkdown(src: string, pageId: string): PageLink[] {
     : src
   const lines = body.split('\n')
 
-  const slugify = (value: string) =>
+  const rControl = /[\u0000-\u001f]/g
+  const rSpecial = /[\s~`!@#$%^&*()\-_+=[\]{}|\\;:"'“”‘’<>,.?/]+/g
+  const rCombining = /[\u0300-\u036F]/g
+
+  const stripHeadingMarkup = (value: string) =>
     value
       .replace(/\{[^}]*\}\s*$/, '')
       .replace(/<[^>]*>/g, '')
@@ -40,11 +40,17 @@ function extractLinksFromMarkdown(src: string, pageId: string): PageLink[] {
       .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')
       .replace(/[*_~]/g, '')
       .trim()
+
+  const slugify = (value: string) =>
+    stripHeadingMarkup(value)
+      .normalize('NFKD')
+      .replace(rCombining, '')
+      .replace(rControl, '')
+      .replace(rSpecial, '-')
+      .replace(/-{2,}/g, '-')
+      .replace(/^-+|-+$/g, '')
+      .replace(/^(\d)/, '_$1')
       .toLowerCase()
-      .replace(/[^\w\s-]/g, '')
-      .replace(/\s+/g, '-')
-      .replace(/-+/g, '-')
-      .replace(/^-|-$/g, '')
 
   const getAnchor = (text: string) => {
     const slug = slugify(text)
@@ -59,19 +65,7 @@ function extractLinksFromMarkdown(src: string, pageId: string): PageLink[] {
     currentAnchor = getAnchor(text)
   }
 
-  const getActiveTab = () =>
-    tabStack.length ? tabStack[tabStack.length - 1] : undefined
-
-  const getTitles = () => {
-    const tab = getActiveTab()
-    if (!tab) return headingStack.filter(Boolean)
-
-    const baseHeadings = tab.headings.filter(Boolean)
-    const nestedHeadings = headingStack
-      .slice(tab.headings.length)
-      .filter(Boolean)
-    return [...baseHeadings, tab.title, ...nestedHeadings]
-  }
+  const getTitles = () => headingStack.filter(Boolean)
 
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i]
@@ -80,21 +74,16 @@ function extractLinksFromMarkdown(src: string, pageId: string): PageLink[] {
     if (containerOpenMatch) {
       containerStack.push(containerOpenMatch[1].toLowerCase())
     } else if (/^\s*:{3,}\s*$/.test(line)) {
-      const closed = containerStack.pop()
-      if (closed === 'tabs') tabStack.pop()
+      containerStack.pop()
     }
 
     const tabMatch = line.match(/^\s*==\s+(.+)$/)
     if (tabMatch && containerStack.includes('tabs')) {
       const title = tabMatch[1].trim()
       if (title) {
-        const tab = getActiveTab()
-        if (tab) {
-          tab.title = title
-          tab.headings = [...headingStack]
-        } else {
-          tabStack.push({ title, headings: [...headingStack] })
-        }
+        // The markdown renderer injects a hidden H3 for each tab label.
+        // Mirror that heading so URL search deep-links to the selected tab.
+        setHeading(2, title)
       }
       continue
     }

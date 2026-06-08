@@ -1649,7 +1649,8 @@ html.reduce-blur-effects {
   border-top: none !important;
 }
 
-.vp-doc .collapsible-search-heading {
+.vp-doc .collapsible-search-heading,
+.vp-doc .tab-search-heading {
   position: absolute;
   width: 1px;
   height: 1px;

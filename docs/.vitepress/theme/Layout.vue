@@ -80,6 +80,73 @@ const getSearchTerms = (query: string) =>
     .map((term) => term.trim())
     .filter(Boolean)
 
+const getTargetByHash = (hash: string) => {
+  const ids = [hash]
+  try {
+    const decoded = decodeURIComponent(hash)
+    if (decoded !== hash) ids.unshift(decoded)
+  } catch {
+    /* keep the raw hash */
+  }
+
+  for (const id of ids) {
+    const target = document.getElementById(id)
+    if (target) return target
+  }
+}
+
+const getScrollTargetForAnchor = (target: HTMLElement) => {
+  if (target.classList.contains('tab-search-heading')) {
+    return target.closest<HTMLElement>('.plugin-tabs') ?? target
+  }
+
+  return target
+}
+
+const scrollToElement = (target: HTMLElement, smooth = true) => {
+  requestAnimationFrame(() => {
+    requestAnimationFrame(() => {
+      const navBar = document.querySelector<HTMLElement>('.VPNavBar')
+      const navOffset = navBar ? navBar.offsetHeight : 0
+      window.scrollTo({
+        top: target.getBoundingClientRect().top + window.scrollY - navOffset,
+        behavior: smooth &&
+            !window.matchMedia('(prefers-reduced-motion: reduce)').matches
+          ? 'smooth'
+          : 'auto'
+      })
+      target.setAttribute('tabindex', '-1')
+      target.focus({ preventScroll: true })
+    })
+  })
+}
+
+const selectTabContainingAnchor = async (hash: string) => {
+  const tabsList = document.querySelectorAll<HTMLElement>('.plugin-tabs')
+
+  for (let i = 0, len = tabsList.length; i < len; i++) {
+    const tabs = tabsList[i]
+    const selectedTab = tabs.querySelector<HTMLButtonElement>(
+      '.plugin-tabs--tab[aria-selected="true"]'
+    )
+    const buttons = tabs.querySelectorAll<HTMLButtonElement>(
+      '.plugin-tabs--tab[role="tab"]'
+    )
+
+    for (let j = 0, buttonsLen = buttons.length; j < buttonsLen; j++) {
+      buttons[j].click()
+      await nextTick()
+      await nextFrame()
+
+      const target = getTargetByHash(hash)
+      if (target) return target
+    }
+
+    selectedTab?.click()
+    await nextTick()
+  }
+}
+
 const getTabsInSearchScope = (target: HTMLElement) => {
   const tabs = new Set<HTMLElement>()
   const closestTabs = target.closest<HTMLElement>('.plugin-tabs')
@@ -144,7 +211,7 @@ const selectTabContainingQuery = async (target: HTMLElement, query: string) => {
 }
 
 const openCollapsibles = async (target: HTMLElement) => {
-  let scrollTarget = target
+  let scrollTarget = getScrollTargetForAnchor(target)
   let el: HTMLElement | null = target
 
   while ((el = el.closest('details'))) {
@@ -195,47 +262,54 @@ const openCollapsibles = async (target: HTMLElement) => {
 
   await selectTabContainingQuery(target, searchQuery)
 
-  requestAnimationFrame(() => {
-    requestAnimationFrame(() => {
-      const navBar = document.querySelector<HTMLElement>('.VPNavBar')
-      const navOffset = navBar ? navBar.offsetHeight : 0
-      window.scrollTo({
-        top: scrollTarget.getBoundingClientRect().top + window.scrollY -
-          navOffset,
-        behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches
-          ? 'auto'
-          : 'smooth'
-      })
-      scrollTarget.setAttribute('tabindex', '-1')
-      scrollTarget.focus({ preventScroll: true })
-    })
-  })
+  scrollToElement(scrollTarget)
 }
 
-const tryOpenCollapsibles = async () => {
-  if (!searchNavigated) return
+const resetSearchNavigation = () => {
+  searchNavigated = false
+  searchQuery = ''
+}
+
+const tryOpenAnchoredContent = async () => {
   await nextTick()
+  await nextFrame()
 
-  requestAnimationFrame(() => {
-    const hash = window.location.hash.slice(1)
-    if (!hash) {
-      searchNavigated = false
-      return
-    }
+  const hash = window.location.hash.slice(1)
+  if (!hash) {
+    resetSearchNavigation()
+    return
+  }
 
-    const id = decodeURIComponent(hash)
-    const target = document.getElementById(id) || document.getElementById(hash)
+  let target = getTargetByHash(hash)
+  let selectedTabForHash = false
 
-    if (target) {
-      openCollapsibles(target)
-      searchNavigated = false
-      searchQuery = ''
-    }
-  })
+  if (!target) {
+    target = await selectTabContainingAnchor(hash)
+    selectedTabForHash = Boolean(target)
+  }
+
+  if (!target) {
+    if (searchNavigated) resetSearchNavigation()
+    return
+  }
+
+  if (searchNavigated) {
+    await openCollapsibles(target)
+    resetSearchNavigation()
+    return
+  }
+
+  if (
+    selectedTabForHash ||
+    target.classList.contains('tab-search-heading')
+  ) {
+    scrollToElement(getScrollTargetForAnchor(target), false)
+  }
 }
 
-watch(() => route.data, tryOpenCollapsibles, { flush: 'post' })
-watch(() => route.hash, tryOpenCollapsibles, { flush: 'post' })
+onMounted(tryOpenAnchoredContent)
+watch(() => route.data, tryOpenAnchoredContent, { flush: 'post' })
+watch(() => route.hash, tryOpenAnchoredContent, { flush: 'post' })
 
 function onSidebarEnter() {
   sidebarRef.value?.focus()
@@ -375,7 +449,9 @@ const reloadTakodachi = () => {
 function initTitleOnly() {
   document.querySelectorAll('.custom-block').forEach(block => {
     const children = [...block.children]
-    const hasOnlyTitle = children.every(el => el.classList.contains('custom-block-title'))
+    const hasOnlyTitle = children.every(el =>
+      el.classList.contains('custom-block-title')
+    )
     if (hasOnlyTitle) block.classList.add('title-only')
   })
 }

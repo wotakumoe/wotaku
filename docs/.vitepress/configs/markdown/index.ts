@@ -98,10 +98,10 @@ function span(
 function renderHighlight(md: MarkdownRenderer) {
   const original = md.render.bind(md)
   md.render = (src, env) => {
-    const withCollapsibleHeadings = injectCollapsibleSearchHeadings(src)
+    const withSearchHeadings = injectSearchHeadings(src)
 
     // Replace [||text||](url) — linked pill
-    let replaced = withCollapsibleHeadings.replace(
+    let replaced = withSearchHeadings.replace(
       /\[([!x]?)\|\|(.+?)\|\|\]\((.+?)\)/g,
       (_, prefix, cont, url) => {
         const variant = prefix === '!'
@@ -126,10 +126,92 @@ function renderHighlight(md: MarkdownRenderer) {
   }
 }
 
-function injectCollapsibleSearchHeadings(src: string) {
+interface SearchHeading {
+  level: number
+  title: string
+}
+
+function getHeadingTitle(value: string) {
+  return value.replace(/\s+\{[^}]*\}\s*$/, '').trim()
+}
+
+function injectSearchHeadings(src: string) {
   const lines = src.split('\n')
+  const containerStack: string[] = []
+  const headingStack: (SearchHeading | undefined)[] = []
+  const tabResetStack: (SearchHeading | undefined)[] = []
+  const getCurrentHeading = () => {
+    for (let i = headingStack.length - 1; i >= 0; i--) {
+      if (headingStack[i]) return headingStack[i]
+    }
+  }
+  const isHeadingLine = (line: string | undefined) =>
+    /^#{1,6}\s+/.test(line?.trim() ?? '')
 
   for (let i = 0; i < lines.length; i++) {
+    const headingMatch = lines[i].match(/^(#{1,6})\s+(.+)/)
+    if (headingMatch && !containerStack.includes('tabs')) {
+      const level = headingMatch[1].length
+      const title = getHeadingTitle(headingMatch[2])
+      if (title) {
+        headingStack[level - 1] = { level, title }
+        headingStack.length = level
+      }
+    }
+
+    const containerOpenMatch = lines[i].match(
+      /^\s*:{3,}\s*([A-Za-z][\w-]*)\b/
+    )
+    if (containerOpenMatch) {
+      const containerName = containerOpenMatch[1].toLowerCase()
+      containerStack.push(containerName)
+      if (containerName === 'tabs') tabResetStack.push(getCurrentHeading())
+    } else if (/^\s*:{3,}\s*$/.test(lines[i])) {
+      const closed = containerStack.pop()
+      if (closed === 'tabs') {
+        const resetHeading = tabResetStack.pop()
+        let nextLine = i + 1
+        while (nextLine < lines.length && lines[nextLine].trim() === '') {
+          nextLine++
+        }
+
+        if (
+          resetHeading && nextLine < lines.length &&
+          !isHeadingLine(lines[nextLine])
+        ) {
+          const indent = lines[i].match(/^(\s*):{3,}\s*$/)?.[1] ?? ''
+          lines.splice(
+            i + 1,
+            0,
+            '',
+            `${indent}${
+              '#'.repeat(resetHeading.level)
+            } ${resetHeading.title} {.tab-search-heading .ignore-header}`,
+            ''
+          )
+          i += 3
+        }
+      }
+      continue
+    }
+
+    const tabMatch = lines[i].match(/^(\s*)==\s+(.+)$/)
+    if (tabMatch && containerStack.includes('tabs')) {
+      const [, indent, title] = tabMatch
+      const headingTitle = title.trim()
+      if (!headingTitle) continue
+
+      lines.splice(
+        i + 1,
+        0,
+        '',
+        `${indent}### ${headingTitle} {.tab-search-heading .ignore-header}`,
+        ''
+      )
+      i += 3
+      continue
+    }
+
     const match = lines[i].match(
       /^(\s*)<Collapsible\b(?=[^>]*\btitle=(['"])(.*?)\2)[^>]*>\s*$/i
     )
