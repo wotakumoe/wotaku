@@ -128,10 +128,6 @@ outline: 1
 | ^^ | [AnimeRSS](https://animerss.com/) |
 | ^^ | [Asia Media Blog](https://asiamediablog.com/media/anime/) [:prx:](https://rentry.org/wotaxy#asia-media-blog) |
 | ^^ | [urajp](https://urajp.se/) |
-| **Re-encodes** | [AniDL](https://new.anidl.org/) :ddl: |
-| ^^ | [AnimeOut](https://www.animeout.xyz/) :ddl::acc: [:alt:](https://animewat.ch/) |
-| ^^ | [Chauthanh](https://chauthanh.info/) :ddl::acc: |
-| ^^ | [hi10anime](https://hi10anime.com/) :ddl::mag::acc::batch: |
 | **Subtitles** | [Closed Caption Browser](https://cc.edatribe.com/#/) ||Dubtitles|| |
 | ^^ | [Open Subtitles](https://opensubtitles.org/) |
 
