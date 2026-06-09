@@ -2,7 +2,7 @@
 title: Music
 description: Wotaku Music Megathread!
 customDescription: Wotaku Music Megathread! Everything Music-related in one page.
-outline: 1
+outline: 2
 og:
     image: https://i.wotaku.wiki/f/music.png
 ---
@@ -13,9 +13,11 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 
 ![](/music/mst.webp)
 
-# Stream
+## Stream
 
-## Anime
+:::tabs
+
+== Anime
 - [AnimeThemes](https://animethemes.moe/) :s: [:src:](https://github.com/AnimeThemes) [:alt:](https://themes.moe/)
 - [Animusic](https://animusic.moe/)
 - [Karaoke Mugen](https://kara.moe)
@@ -24,31 +26,34 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [Squidify](https://www.squidify.org/) [:alt:](https://www.squidify.net/) [:help:](https://docs.squidify.org/)
 - [One Piece Tracklist](http://onepiecetracklist.com/)
 
-## AMVs
+== AMVs
 - [AKROSS](https://www.akross.ru/index.cgi?l=e)
 - [AMV Hell](https://www.amvhell.com/)
 - [AMV Enfer](https://amvenfer.fr/) :lfr:
 - [AMV News](https://amvnews.ru/)
 - [Anime Music Videos](https://www.animemusicvideos.org/home/home.php) :acc:
 
-## Doujin
+== Doujin
 - [Touhou Disc](https://alist.thdisc.tk/)
 - [Touhou Lossess Music Collection](https://tlmc.pf-n.co/tlmc)
 - [Touhou Player](https://touhou.kuukunen.net/)
 
 
-## Games
+== Games
 - [Squidify](https://www.squidify.org/) :s: [:alt:](https://www.squidify.net/) [:help:](https://docs.squidify.org/)
 - [Zophar's Domain](https://www.zophar.net/music) :ddl:
 - [Vidya Intarweb Playlist](https://www.vipvgm.net/)
 - [Keygen Music](https://keygenmusic.tk/)
 - [VGMRips](https://vgmrips.net/packs/) :ddl:
 - [SMS Power](https://vgm.impulseinformatica.com.br/)
+:::
 
+![](/banner/wlegal.webp)
 
 ## Legal
 
-### Stream
+:::tabs
+== Stream
 
 | Service | Price | Lossy | Lossless | Others | Focus |
 |-|-|-|-|-|-|
@@ -60,7 +65,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 | [Tidal](https://tidal.com/) | :sub: | AAC 320 | 24/192 | Dolby Atmos | Western |
 | [YouTube Music](https://music.youtube.com/) | :fm::sub: | Opus 256 | :no: | :no: | General |
 
-### Purchase
+== Purchase
 
 | Service | Lossy | Lossless | Others | Focus |
 |-|-|-|-|-|
@@ -70,6 +75,8 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 | [Ototoy](https://ototoy.jp/) | AAC | 24/192 | DSD | Japan |
 | [Recochoku](https://recochoku.jp/) | AAC 320 | 24/192 | :no: | Japan |
 | [Qobuz](https://www.qobuz.com/us-en/shop) | MP3 320 | 24/192 | DSD, DXD | Western |
+
+:::
 
 ::: tip Notes
 1. Some countries have free access up to 128kbps MP3. You can also try [dzunlock](https://uhwotgit.fly.dev/uhwot/dzunlock) or [echo](https://github.com/brahmkshatriya/echo).
@@ -81,26 +88,21 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 ![](/music/mdl.webp)
 
-# Download
+## Download
 
-## Anime
+:::tabs
 
-### FLAC & MP3
+== Anime
 
-| Website | Type | Host |
-|-|-|-|
-| [Nyaa](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap) | :mag: | :no: |
-| [Sitting on Clouds](https://www.sittingonclouds.net/) :s: [:prx:](https://rentry.org/wotaxy#sitting-on-clouds) | :ddl: | :sm::smf: |
-| [SquidBoard](https://www.squid-board.org/) :acc: | :ddl: | :sgd::sm::smf: |
+| Format | Website | Type | Host |
+|-|-|-|-|
+| flac + mp3 | [Nyaa](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap) | :mag: | :no: |
+| ^^ | [Sitting on Clouds](https://www.sittingonclouds.net/) :s: [:prx:](https://rentry.org/wotaxy#sitting-on-clouds) | :ddl: | :sm::smf: |
+| ^^ | [SquidBoard](https://www.squid-board.org/) :acc: | :ddl: | :sgd::sm::smf: |
+| mp3 | [Nipponsei](https://nipponsei.minglong.org/tracker/) | :mag: | :no: |
+| ^^ | [OS Anime](https://osanime.com/) | :ddl: | own |
 
-### MP3
-
-| Website | Type | Host |
-|-|-|-|
-| [Nipponsei](https://nipponsei.minglong.org/tracker/) | :mag: | :no: |
-| [OS Anime](https://osanime.com/) | :ddl: | own |
-
-## Downloaders
+== Downloaders
 
 | Website | Service |
 |-|-|
@@ -110,7 +112,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [am-dl](https://am-dl.pages.dev/) ==amdl== | Apple |
 | [ARCOD](https://www.arcod.xyz/) :acc: | Qobuz |
 
-## Doujin
+== Doujin
 
 | Website | Type | Host |
 |-|-|-|
@@ -120,7 +122,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [MikuDB](https://mikudb.moe/) | :ddl::mag: | :sgd: |
 | [Moriya Shrine](https://moriyashrine.org/) | :mag: | :no: |
 
-## Games
+== Games
 
 | Website | Type | Host |
 |-|-|-|
@@ -131,7 +133,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [VGM Preservation Foundation](https://www.vgmpf.com/Wiki/index.php) | :ddl: | own |
 | [VGMusic](https://vgmusic.com/) | :ddl: | own |
 
-## Misc
+== Misc
 
 | Website | Type | Host |
 |-|-|-|
@@ -139,10 +141,15 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [Asia Media Blog](https://asiamediablog.com/media/music/) :ero: [:prx:](https://rentry.org/wotaxy#asia-media-blog) | :ddl: | :host: |
 | [The T-SQUARE Plaza](https://tsquareplaza.blogspot.com/) | :ddl: | :sgd: |
 
-![](/music/radio.webp)
-# Radio
+:::
 
-## General
+![](/music/radio.webp)
+
+## Radio
+
+:::tabs
+
+== General
 
 | Website | Quality | Tag |
 |---------|---------|-----|
@@ -152,14 +159,14 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [Wapchan](https://radio.wapchan.org/public/wapfm) | [OPUS 192](https://radio.wapchan.org/public/wapfm/playlist.pls) | City Pop |
 | [Yumi Co. Radio](https://yumicoradio.net/) | [MP3 256](https://yumicoradio.net/public/yumi_co._radio/playlist.m3u) | City Pop |
 
-### Aggregators
+== Aggregators
 - [FMSTREAM](https://fmstream.org/)
 - [Globe Radio](https://globeradio.app/)
 - [RadioBrowser](https://www.radio-browser.info/) [:src:](https://gitlab.com/radiobrowser/radiobrowser-web-angular)
 - [Radio Garden](https://radio.garden/)
 - [Sasalele Music Station](https://basic.pp.ua/) [:src:](https://github.com/Mikeexe2/Sasalele-Music-Station)
 
-## Anime
+== Anime
 | Website | Quality | Language |
 |---------|---------|----------|
 | [Anime(bits)](https://radio.animebits.moe/) | [FLAC](https://radio.animebits.moe/m3u/stream192.mp3.m3u) | :len: |
@@ -174,9 +181,9 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [Kibo.FM](https://kibo.fm/) | [MP3 192](https://kibo.fm/kibo.m3u) | :lge: |
 | [Radio Anime24](https://www.radioanime24.pl/) | [MP3 320](https://www.radioanime24.pl/Radio-Anime24.pls) | :lpo: |
 | [Radio Anime Nexus](https://www.animenexus.net/) | [MP3 320](https://radio.animenexus.net:8000/animenexus-mp3.m3u) | :lsp: |
-| [Rádio Animu](https://www.animu.moe/) | [MP3 320](https://www.animu.com.br/download/Animu.m3u?new) | :lbr: |
+| [RÃ¡dio Animu](https://www.animu.moe/) | [MP3 320](https://www.animu.com.br/download/Animu.m3u?new) | :lbr: |
 
-## Doujin & Vocaloid
+== Doujin & Vocaloid
 
 | Website | Quality | Tag |
 |---------|---------|-----|
@@ -186,17 +193,20 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [Vocaloid Radio](https://www.vocaloidradio.com/) | [MP3 192](https://vocaloid.radioca.st/stream) | General |
 | [Vocaloid Radio VRX](https://vrx.piro.moe/) | [MP3 256](https://vrx.piro.moe/) | General |
 
-## Games
+== Games
 - [Game That Tune Radio](https://gttradio.com/)
 - [Rainwave VGM Radio](https://rainwave.cc/all/)
 - [RPGamers Radio](http://www.rpgamers.net/radio/)
-
+:::
 
 
 ![](/music/mus.webp)
-# Utility Sites
 
-## General
+## Utility Sites
+
+:::tabs
+
+== General
 | Category    | Resource |
 |------------|--------------------------------------------------|
 | **Metadata** | [LRCLIB](https://lrclib.net/) |
@@ -211,7 +221,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 |    ^^      | [Songlink](https://odesli.co/) |
 
 
-## Spotify
+== Spotify
 | Category            | Resource |
 |--------------------|--------------------------------------------------|
 | **Availability**   | [Album Availability Map](https://kaaes.github.io/albums-availability/) [:src:](https://github.com/kaaes/albums-availability) |
@@ -231,12 +241,12 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^                 | [Spotify Dedup](https://spotify-dedup.com/) [:src:](https://github.com/JMPerez/spotify-dedup/) |
 | ^^                 | [Spotlistr](https://www.spotlistr.com/) |
 
-## MusicBrainz
+== MusicBrainz
 - [a-tisket](https://atisket.pulsewidth.org.uk/)
 - [Harmony](https://harmony.pulsewidth.org.uk/) [:src:](https://github.com/kellnerd/harmony)
 - [SAMBL](https://sambl.lioncat6.com/) [:src:](https://github.com/Lioncat6/SAMBL-React)
 
-## Last.fm
+== Last.fm
 - [Last.fm stats](https://lastfmstats.com/) [:src:](https://github.com/felhag/lastfm-stats-web)
 - [Last History](https://anhuynh.github.io/last-history)
 - [musicorum](https://musicorumapp.com/) [:src:](https://github.com/musicorum-app)
@@ -247,9 +257,11 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 
 ![](/music/mis.webp)
-# Info Sites
 
-## Database
+## Info Sites
+
+:::tabs
+== Database
 
 | Category    | Links |
 |-------------|-------|
@@ -273,7 +285,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^          | [Libre.fm](https://libre.fm/) |
 
 
-## Discovery
+== Discovery
 
 | Category     | Links |
 |-------------|-------|
@@ -293,7 +305,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^          | [Vocaloid Big Hits](https://www.youtube.com/playlist?list=RDCLAK5uy_mgu07-HoqLSU-WqjK2ldEQWLuPPm3CAy8) |
 
 
-## Portal
+== Portal
 
 | Category              | Links |
 |----------------------|-------|
@@ -311,7 +323,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^                  | [Hatsune Miku](https://x.com/cfm_miku_en) |
 
 
-## Others
+== Others
 
 | Category  | Links   |
 |----------|--------|
@@ -325,13 +337,16 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^          | [Doujin Events](https://docs.google.com/document/d/1Kf4gf2Dtnc_Cd2ndRWacw9QGy8kYvUTZ7K9rkR8D2-0/edit) |
 | ^^          | [Songkick](https://www.songkick.com/) ||General|| |
 
+:::
 
 ![](/music/mph.webp)
-# Phone
 
-## Player
+## Phone
 
-### Local
+:::tabs
+
+== Local Player
+
 | Player | Platform |
 | :--- | :--- |
 | [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player) :cs: | :and: |
@@ -342,7 +357,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [USB Audio Player PRO](https://play.google.com/store/apps/details?id=com.extreamsd.usbaudioplayerpro) :cs::paid: | :and: |
 
 
-### Online
+== Online Player
 | Category   | Links   |
 |------------|---------|
 | **General** | [Echo](https://github.com/brahmkshatriya/echo) :s::and: [:help:](https://echomusicdocs.vercel.app/docs/echo) ==echo== |
@@ -361,7 +376,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^         | [Transistor](https://codeberg.org/y20k/transistor) :and: ||Radio|| |
 
 
-### Audiobook
+== Audiobook
 | Player | Platform |
 | :--- | :--- |
 | [Voice](https://github.com/PaulWoitaschek/Voice) | :and: |
@@ -371,8 +386,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [BookPlayer](https://apps.apple.com/app/id1138219998) [:src:](https://github.com/TortugaPower/BookPlayer) :fm: | :ios: |
 
 
-## Tools
-
+== Tools
 | Category    | Links   |
 |-------------|---------|
 | **Equalizer** | [Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer) :and::cs: |
@@ -390,27 +404,28 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^           | [Seeker](https://github.com/jackBonadies/SeekerAndroid) :and: ||Soulseek|| |
 | ^^           | [SpotiFLAC Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) :and::ios: |
 | ^^           | [Stats.fm](https://stats.fm/) :mdi-spotify::and::ios::cs: |
-
+:::
 
 ![](/music/mpc.webp)
-# PC
 
-## Player
+## PC
 
-### Local
+:::tabs
+
+== Local Player
 | Player | Platform |
 | :--- | :--- |
 | [AIMP](https://www.aimp.ru/) :s::cs: | :win: |
 | [DeaDBeeF](https://deadbeef.sourceforge.io/) [:src:](https://github.com/DeaDBeeF-Player/deadbeef) | :win::app::lin: |
 | [Elisa](https://apps.kde.org/elisa/) [:src:](https://invent.kde.org/multimedia/elisa) | :win::app::lin: |
-| [Foobar2000](https://www.foobar2000.org/) :s::cs: [:e:](#foobar2000-add-ons) | :win::app: |
+| [Foobar2000](https://www.foobar2000.org/) :s::cs: | :win::app: |
 | [Fooyin](https://fooyin.org/) [:src:](https://github.com/fooyin/fooyin) | :win::app::lin: |
 | [MusicBee](https://www.getmusicbee.com/) :cs: | :win: |
 | [Strawberry](https://www.strawberrymusicplayer.org/) [:src:](https://github.com/strawberrymusicplayer/strawberry) | :win::app::lin: |
 | [WACUP](https://getwacup.com/) :cs: | :win: |
 | [Tauon Music Box](https://tauonmusicbox.rocks/) [:src:](https://github.com/Taiko2k/Tauon) | :win::app::lin: |
 
-### Online
+== Online Player
 | Source | Player | Platform |
 | :--- | :--- | :--- |
 | Spotify | [Spicetify](https://spicetify.app/) | :win::app::lin: |
@@ -420,20 +435,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^ | [ytmdesktop2](https://youtube-music.app/) [:src:](https://github.com/Venipa/ytmdesktop2) | :win::app::lin: |
 
 
-### Foobar2000 add-ons
-| Type | Addon |
-| :--- | :--- |
-| Component | [Coverflow](https://www.foobar2000.org/components/view/foo_chronflow) |
-| ^^ | [Discord Rich Presence Integration](https://github.com/s0hv/foo_discord_rich) [:help:](https://s0hv.github.io/foo_discord_rich/) [:alt:](https://github.com/realoksi/foobar2000-catbox) |
-| ^^ | [Encoder Pack](https://www.foobar2000.org/encoderpack) |
-| ^^ | [ESLyric](https://github.com/ESLyric/release) |
-| ^^ | [OpenLyrics](https://www.foobar2000.org/components/view/foo_openlyrics) |
-| ^^ | [ReplayGain DSP](https://www.foobar2000.org/components/view/foo_dsp_replaygain) |
-| Theme | [Georgia-ReBORN](https://github.com/TT-ReBORN/Georgia-ReBORN) |
-| ^^ | [Eole](https://github.com/Ottodix/Eole-foobar-theme) |
-
-
-## Downloader
+== Downloader
 | Software | Platform |
 | :--- | :--- |
 | [Nicotine+](https://nicotine-plus.org/) ==Nicotine== | :win::app::lin: |
@@ -443,9 +445,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [Zotify](https://github.com/Googolplexed0/zotify) | :py: |
 
 
-## Browser
-
-### Extension
+== Extension
 | Extension | Platform |
 | :--- | :--- |
 | [AHA Music](https://aha-music.com/) :cs: | :cr: |
@@ -455,7 +455,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [Spotify New Releases](https://spotify-new-releases.web.app/) :cs: | :cr: |
 | [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler) | :cr::ff: |
 
-### Script
+== Script
 | Script | Platform |
 | :--- | :--- |
 | [Ame](https://gitlab.com/SuperSaltyGamer/ame) | Various |
@@ -465,7 +465,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [MusicBrainz Userscripts](https://musicbrainz.org/doc/Guides/Userscripts) | MusicBrainz|
 
 
-## Converter & Ripper
+== Converter & Ripper
 | Category | Player | Platform |
 | :--- | :--- | :--- |
 | General | [FFmpeg](https://ffmpeg.org/) | :win::app::lin: |
@@ -478,47 +478,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^ | [X Lossless Decoder](https://tmkk.undo.jp/xld/index_e.html) | :app: |
 | ^^ | [Whipper](https://github.com/whipper-team/whipper) | :lin: |
 
-
-<Collapsible title="Must Read Guides">
-
-- [redacted Interview Prep](https://interviewfor.red/en/index.html)
-- [Sharky's Guide](https://docs.google.com/document/d/1Poj4p2W0C0Napmwd7bcustlgWrkgp71dy9HlZwUr46w/edit)
-  - [Exact Audio Copy: A Guide to Perfect CD Rips](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg)
-  - [EAC: CD Burning Guide](https://docs.google.com/document/d/1f0ZtHC8phVccLWc-81gNNpy1HARasN07B3j0otwS0cI/edit)
-  - [XLD Guide](https://docs.google.com/document/d/1JPErA-6_2yN-WMVcFGNdIurwFS5cpqNC8GtKrOorDf8/edit)
-- [Music Hoarders Wiki](https://musichoarders.xyz/)
-
-</Collapsible>
-
-## Vocaloid
-
-| Category | Player | Platform |
-| :--- | :--- | :--- |
-| Editors | [Vocaloid](https://www.vocaloid.com/en/) :cs: | :win::app: |
-| ^^ | [Synthesizer V](https://dreamtonics.com/synthesizerv/) :cs: | :win::app: |
-| ^^ | [Piapro Studio](https://piaprostudio.com/?lang=en) :cs: | :win::app: |
-| ^^ | [CeVIO](https://cevio.jp/) :cs: | :win: |
-| ^^ | [OpenUtau](https://www.openutau.com/) [:src:](https://github.com/stakira/OpenUtau) | :win::app::lin: |
-| DAW | [Ableton](https://www.ableton.com/en/) :cs: | :win::app: |
-| ^^ | [Cubase](https://www.steinberg.net/cubase/) :cs: | :win::app: |
-| ^^ | [FL Studio](https://www.image-line.com/fl-studio/) :cs: | :win::app: |
-| ^^ | [Studio One](https://www.presonus.com/en-US/studio-one.html) :cs: | :win: |
-| Related Links | [SynthV.info](https://synthv.info/) | :no: |
-| ^^ | [CeVIO Voice Database Installer Archive](https://docs.google.com/spreadsheets/d/1blPdn7UuNNSUbTs3FRtBV5mdDUCf728NJC7yZhOae-M/edit?gid=0#gid=0) | :no: |
-| ^^ | [RuTracker.org](https://rutracker.org/forum/index.php) | :no: |
-
-::: info Introduction / Guide
-- [Explaining Vocaloid in under 3 minutes](https://www.youtube.com/watch?v=GODXMGAMpVc)
-- [My First Miku Concert!](https://www.youtube.com/watch?v=XIgANZCBRKo)
-- [A guide to Vocaloid concerts](https://www.youtube.com/watch?v=2JtLAwllxI8)
-- :prev: [Part 2](https://www.youtube.com/watch?v=OzPKF-DMuUE)
-- [So, you wanna get into VOCALOID](https://www.youtube.com/watch?v=y5pPALER7WU) <tooltip>Watch this for the introduction only (till `21:42`), since the software section is outdated. </tooltip>
-    - [So, you wanna get into VSynth Covers](https://www.youtube.com/watch?v=ySledv37IrQ)
-- [The Foundations of Making Vocaloid - A Beginner's Guide Tutorial](https://www.youtube.com/watch?v=6cisVNaOJXY)
-:::
-
-
-## Others
+== Others
 
 | Category | Player | Platform |
 | :--- | :--- | :--- |
@@ -538,12 +498,70 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^ | [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) | :win::app::lin: |
 | ^^ | [Music Presence](https://github.com/ungive/discord-music-presence) :cs: | :win::app::lin: |
 
+== Vocaloid
+| Category | Player | Platform |
+| :--- | :--- | :--- |
+| Editors | [Vocaloid](https://www.vocaloid.com/en/) :cs: | :win::app: |
+| ^^ | [Synthesizer V](https://dreamtonics.com/synthesizerv/) :cs: | :win::app: |
+| ^^ | [Piapro Studio](https://piaprostudio.com/?lang=en) :cs: | :win::app: |
+| ^^ | [CeVIO](https://cevio.jp/) :cs: | :win: |
+| ^^ | [OpenUtau](https://www.openutau.com/) [:src:](https://github.com/stakira/OpenUtau) | :win::app::lin: |
+| DAW | [Ableton](https://www.ableton.com/en/) :cs: | :win::app: |
+| ^^ | [Cubase](https://www.steinberg.net/cubase/) :cs: | :win::app: |
+| ^^ | [FL Studio](https://www.image-line.com/fl-studio/) :cs: | :win::app: |
+| ^^ | [Studio One](https://www.presonus.com/en-US/studio-one.html) :cs: | :win: |
+| Related Links | [SynthV.info](https://synthv.info/) | :no: |
+| ^^ | [CeVIO Voice Database Installer Archive](https://rentry.org/wotadirect#music) | :no: |
+| ^^ | [RuTracker.org](https://rutracker.org/forum/index.php) | :no: |
+
+:::
+
+<collapsible title="Foobar2000 add-ons">
+
+| Type | Addon |
+| :--- | :--- |
+| Component | [Coverflow](https://www.foobar2000.org/components/view/foo_chronflow) |
+| ^^ | [Discord Rich Presence Integration](https://github.com/s0hv/foo_discord_rich) [:help:](https://s0hv.github.io/foo_discord_rich/) [:alt:](https://github.com/realoksi/foobar2000-catbox) |
+| ^^ | [Encoder Pack](https://www.foobar2000.org/encoderpack) |
+| ^^ | [ESLyric](https://github.com/ESLyric/release) |
+| ^^ | [OpenLyrics](https://www.foobar2000.org/components/view/foo_openlyrics) |
+| ^^ | [ReplayGain DSP](https://www.foobar2000.org/components/view/foo_dsp_replaygain) |
+| Theme | [Georgia-ReBORN](https://github.com/TT-ReBORN/Georgia-ReBORN) |
+| ^^ | [Eole](https://github.com/Ottodix/Eole-foobar-theme) |
+
+</Collapsible>
+
+<Collapsible title="Must Read Guides">
+
+- [redacted Interview Prep](https://interviewfor.red/en/index.html)
+- [Sharky's Guide](https://docs.google.com/document/d/1Poj4p2W0C0Napmwd7bcustlgWrkgp71dy9HlZwUr46w/edit)
+  - [Exact Audio Copy: A Guide to Perfect CD Rips](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg)
+  - [EAC: CD Burning Guide](https://docs.google.com/document/d/1f0ZtHC8phVccLWc-81gNNpy1HARasN07B3j0otwS0cI/edit)
+  - [XLD Guide](https://docs.google.com/document/d/1JPErA-6_2yN-WMVcFGNdIurwFS5cpqNC8GtKrOorDf8/edit)
+- [Music Hoarders Wiki](https://musichoarders.xyz/)
+
+</Collapsible>
+
+
+<collapsible title="Introduction / Guide">
+
+- [Explaining Vocaloid in under 3 minutes](https://www.youtube.com/watch?v=GODXMGAMpVc)
+- [My First Miku Concert!](https://www.youtube.com/watch?v=XIgANZCBRKo)
+- [A guide to Vocaloid concerts](https://www.youtube.com/watch?v=2JtLAwllxI8)
+- :prev: [Part 2](https://www.youtube.com/watch?v=OzPKF-DMuUE)
+- [So, you wanna get into VOCALOID](https://www.youtube.com/watch?v=y5pPALER7WU) <tooltip>Watch this for the introduction only (till `21:42`), since the software section is outdated. </tooltip>
+    - [So, you wanna get into VSynth Covers](https://www.youtube.com/watch?v=ySledv37IrQ)
+- [The Foundations of Making Vocaloid - A Beginner's Guide Tutorial](https://www.youtube.com/watch?v=6cisVNaOJXY)
+
+</Collapsible>
 
 
 ![](/music/msv.webp)
-# Server
-
 ## Server
+
+::: tabs
+
+== Server
 - [Airsonic](https://airsonic.github.io/)
 - [Euterpe](https://listen-to-euterpe.eu/)
 - [Fuckwhale](https://www.funkwhale.audio/)
@@ -554,37 +572,40 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 - [Polaris](https://github.com/agersant/polaris)
 - [Subsonic](https://www.subsonic.org/pages/index.jsp)
 
-## Client
-| Platform | Software |
-|----------|----------|
-| **Android** | [Tempus](https://github.com/eddyizm/tempus) :s: |
-| ^^ | [Castafiore](https://github.com/sawyerf/Castafiore) :ff::cr: |
-| ^^ | [Navic](https://navic.app/) |
-| ^^ | [Ultrasonic](https://ultrasonic.gitlab.io/) |
-| ^^ | [Plexamp](https://www.plex.tv/plexamp/) :fm: |
-| ^^ | [Symfonium](https://symfonium.app/) :paid: |
-| **iOS** | [Amperfy](https://github.com/BLeeEZ/amperfy) |
-| ^^ | [Navic](https://navic.app/) |
-| ^^ | [Narjo](https://narjomusic.com/) |
-| ^^ | [play:Sub](http://michaelsapps.dk/playsubapp/) :paid: |
-| **Desktop** | [Supersonic](https://github.com/dweymouth/supersonic) :win::app::lin: |
-| ^^ | [Sublime Music](https://sublimemusic.app/) :lin: |
-| ^^ | [Submariner](https://submarinerapp.com/) :app: |
-| ^^ | [Plexamp](https://www.plex.tv/plexamp/) :win::app::lin::fm: |
-| ^^ | [Jellycli](https://github.com/tryffel/jellycli) :win::lin::cmd: |
-| ^^ | [STMP](https://github.com/wildeyedskies/stmp) :win::app::lin::cmd: |
-| ^^ | [Aonsoku](https://github.com/victoralvesf/aonsoku) :win::app::lin: |
-| **Others** | [SonicLair](https://github.com/thelinkin3000/SonicLair) ||Android TV|| |
-| ^^ | [bonob](https://github.com/simojenki/bonob) ||Sonos|| |
-| ^^ | [AskSonic](https://github.com/srichter/asksonic) ||Alexa|| |
-| ^^ | [Subsonic Kodi Plugin](https://github.com/warwickh/plugin.audio.subsonic) |
-| ^^ | [Navidrome Kodi Plugin](https://github.com/BobHasNoSoul/plugin.audio.navidrome) |
-| ^^ | [HTTPDirFS](https://github.com/fangfufu/httpdirfs) |
-| ^^ | [upmpdcli](https://www.lesbonscomptes.com/upmpdcli/index.html) <tooltip>Expose Navidrome as a UPnP/DLNA media library. Read the [discussion](https://github.com/navidrome/navidrome/discussions/2324)</tooltip> |
+== Android
 
-<Collapsible title="Related Resources">
+- [Tempus](https://github.com/eddyizm/tempus) :s:
+- [Castafiore](https://github.com/sawyerf/Castafiore) :ff::cr:
+- [Navic](https://navic.app/)
+- [Ultrasonic](https://ultrasonic.gitlab.io/)
+- [Plexamp](https://www.plex.tv/plexamp/) :fm:
+- [Symfonium](https://symfonium.app/) :paid:
 
-- [Self-hosted Music Overview](https://github.com/basings/selfhosted-music-overview)
+== iOS
 
+- [Amperfy](https://github.com/BLeeEZ/amperfy)
+- [Navic](https://navic.app/)
+- [Narjo](https://narjomusic.com/)
+- [play:Sub](http://michaelsapps.dk/playsubapp/) :paid:
 
-</Collapsible>
+== Desktop
+
+- [Supersonic](https://github.com/dweymouth/supersonic) :win::app::lin:
+- [Sublime Music](https://sublimemusic.app/) :lin:
+- [Submariner](https://submarinerapp.com/) :app:
+- [Plexamp](https://www.plex.tv/plexamp/) :win::app::lin::fm:
+- [Jellycli](https://github.com/tryffel/jellycli) :win::lin::cmd:
+- [STMP](https://github.com/wildeyedskies/stmp) :win::app::lin::cmd:
+- [Aonsoku](https://github.com/victoralvesf/aonsoku) :win::app::lin:
+
+== Others
+
+- [SonicLair](https://github.com/thelinkin3000/SonicLair) ||Android TV||
+- [bonob](https://github.com/simojenki/bonob) ||Sonos||
+- [AskSonic](https://github.com/srichter/asksonic) ||Alexa||
+- [Subsonic Kodi Plugin](https://github.com/warwickh/plugin.audio.subsonic)
+- [Navidrome Kodi Plugin](https://github.com/BobHasNoSoul/plugin.audio.navidrome)
+- [HTTPDirFS](https://github.com/fangfufu/httpdirfs)
+- [upmpdcli](https://www.lesbonscomptes.com/upmpdcli/index.html) <tooltip>Expose Navidrome as a UPnP/DLNA media library. Read the [discussion](https://github.com/navidrome/navidrome/discussions/2324)</tooltip>
+
+:::
