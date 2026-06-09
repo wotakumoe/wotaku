@@ -233,12 +233,12 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 
 == Nyaa
 - [AlpinDale](https://nyaa.si/user/AlpinDale)
-- [Antithetical](https://nyaa.si/?f=0&c=0_0&q=%22%5BAntithetical%5D%22)
-- [CleanBookGuy](https://nyaa.si/?f=0&c=0_0&q=%22%5BCleanBookGuy%5D%22)
+- [Antithetical](https://nyaa.si/?f=0&c=3_1&q=Antithetical)
+- [CleanBookGuy](https://nyaa.si/?f=0&c=3_1&q=CleanBookGuy)
 - [Ganba](https://nyaa.si/user/Ganba?f=0&c=3_1&q=) :ded:
 - [HowUnfortunate](https://nyaa.si/user/HowUnfortunate) :ded:
 - [LuCaZ](https://nyaa.si/?f=0&c=3_1&q=%22%5BLuCaZ%5D%22)
-- [Oak](https://nyaa.si/user/Oakminati?f=0&c=3_1&q=hanashi%7Cregin)
+- [Oak](https://nyaa.si/user/Oakminati?f=0&c=0_0&q=hanashi%7Cregin)
 - [Stick](https://nyaa.si/?f=0&c=3_1&q=%22%5BStick%5D%22)
 - [Audiobooks](https://nyaa.si/?f=0&c=0_0&q=Audiobook)
 
