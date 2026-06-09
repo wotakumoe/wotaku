@@ -103,6 +103,52 @@ const getScrollTargetForAnchor = (target: HTMLElement) => {
   return target
 }
 
+const getHeadingAnchor = (heading: HTMLElement) => {
+  const href = heading.querySelector<HTMLAnchorElement>('a[href^="#"]')
+    ?.getAttribute('href')
+
+  if (href?.startsWith('#') && href.length > 1) return href.slice(1)
+
+  return heading.id || undefined
+}
+
+const getSelectedTabHeadingAnchor = (tabs: HTMLElement) => {
+  const selectedTab = tabs.querySelector<HTMLButtonElement>(
+    '.plugin-tabs--tab[aria-selected="true"]'
+  )
+  const panelId = selectedTab?.getAttribute('aria-controls')
+  const panel = panelId
+    ? document.getElementById(panelId)
+    : tabs.querySelector<HTMLElement>('.plugin-tabs--content')
+  const heading = panel?.querySelector<HTMLElement>('.tab-search-heading')
+
+  return heading ? getHeadingAnchor(heading) : undefined
+}
+
+const updateHashForSelectedTab = async (tabs: HTMLElement) => {
+  await nextTick()
+  await nextFrame()
+
+  const anchor = getSelectedTabHeadingAnchor(tabs)
+  if (!anchor || window.location.hash.slice(1) === anchor) return
+
+  window.history.pushState(
+    null,
+    '',
+    `${window.location.pathname}${window.location.search}#${anchor}`
+  )
+}
+
+const queueHashUpdateForTabSelection = (target: EventTarget | null) => {
+  if (!(target instanceof HTMLElement)) return
+
+  const button = target.closest<HTMLButtonElement>(
+    '.plugin-tabs--tab[role="tab"]'
+  )
+  const tabs = button?.closest<HTMLElement>('.plugin-tabs')
+  if (tabs) void updateHashForSelectedTab(tabs)
+}
+
 const scrollToElement = (target: HTMLElement, smooth = true) => {
   requestAnimationFrame(() => {
     requestAnimationFrame(() => {
@@ -501,6 +547,19 @@ onMounted(() => {
   document.addEventListener('mouseover', showTooltip)
   document.addEventListener('mouseout', hideTooltip)
   document.addEventListener('scroll', hideTooltip, true)
+
+  useEventListener(document, 'click', (e: MouseEvent) => {
+    if (!e.isTrusted) return
+    queueHashUpdateForTabSelection(e.target)
+  })
+
+  useEventListener(document, 'keydown', (e: KeyboardEvent) => {
+    if (!e.isTrusted || (e.key !== 'ArrowLeft' && e.key !== 'ArrowRight')) {
+      return
+    }
+
+    queueHashUpdateForTabSelection(e.target)
+  })
 
   onUnmounted(() => {
     document.removeEventListener('mouseover', showTooltip)
