@@ -2,14 +2,16 @@
 title: Misc-sites
 description: Various sites for info, news & tools
 customDescription: Discover a mix of info, news and tools for anime, manga & illustrations.
-outline: [1,2]
+outline: 2
 ---
 
 ![](/banner/db.webp)
 
-# Database
+## Database
 
-## General
+:::tabs
+
+== General
 - [AniList](https://anilist.co/) :s:
 - [MyAnimeList](https://myanimelist.net/)
 - [MangaBaka](https://mangabaka.org/?utm_source=wotaku) :s:
@@ -51,7 +53,6 @@ outline: [1,2]
 
 <Collapsible title="The More You Know">
 
-
 | Section      | Database     | Rules |
 | :---         | :---         | :--- |
 | Anime        | AniList      | Only adds professionally produced animation where a Japanese studio has significant control. Example: Star Wars: Visions. |
@@ -78,11 +79,7 @@ outline: [1,2]
 
 </Collapsible>
 
-::: info Tracker related utility sites
-Visit the [**tracker utility**](#tracker) section for tracker stats and data transfer between sites.
-:::
-
-## Anime
+== Anime
 - [aniDB](https://anidb.net/) :s:
 - [AnimeSongs.org](https://animesongs.org/)
 - [Aniplaylist](https://aniplaylist.com/)
@@ -103,7 +100,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 
 </Collapsible>
 
-## Manga
+== Manga
 - [MangaUpdates](https://www.mangaupdates.com/) :s:
 - [Manba](https://manba.co.jp/) :s::ljp:
 - [Manga Properties](https://manga.properties/)
@@ -118,13 +115,13 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 
 </Collapsible>
 
-## Novels
+== Novels
 - [Novel Updates](https://www.novelupdates.com/) :s:
 - [RanobeDB](https://ranobedb.org/) :s: [:src:](https://github.com/Blastose/ranobedb)
 - [Ranobe Mori](https://ranobe-mori.net/) :ljp:
 - [Goodreads](https://www.goodreads.com/)
 
-## Production
+== Production
 | Category | Resource |
 | :--- | :--- |
 | General | [Anisil](https://www.anisil.com/) :ljp: |
@@ -139,7 +136,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [Seiyuu Database](http://www.usagi.org/doi/seiyuu/index.html) |
 | ^^ | [Behind The Voice Actors](https://www.behindthevoiceactors.com/) <tooltip>Focuses on English VAs more.</tooltip> |
 
-## Others
+== Others
 | Section | Websites |
 |-|-|
 | Cons    | [alley.moe](https://alley.moe/) |
@@ -152,18 +149,16 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^      | [Nepchan](https://nepchan.org/) |
 | ^^      | [EroGamescape](https://erogamescape.org/) :ljp::ero: [:alt:](https://erogamescape.dyndns.org/) [:help:](https://www.youtube.com/watch?v=oPIWgXDllzQ) |
 
-<Collapsible title="Related resources">
+:::
 
-- [Tracker apps for phone](/software#trackers)
-- [Tracker software for pc](/software#trackers-1)
-
-</Collapsible>
 
 ![](/banner/calendar.webp)
 
-# Calendar
+## Calendar
 
-## Anime
+:::tabs
+
+== Anime
 
 | Category | Websites |  
 |----------|----------|  
@@ -186,9 +181,8 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [TVmaze](https://www.tvmaze.com/) |
 | ^^ | [Yatta-Tachi Movie Schedule](https://yattatachi.com/2026-anime-japanese-films-coming-to-u-s-theaters-online) |
 
-## Manga & Novels
+== Manga & Novels Third-party
 
-### Third-party
 | Type | Website |
 |-|-|
 | General | [Mynewworm](https://myneworm.katsurin.com/) [:src:](https://github.com/Butterstroke/Myneworm) |
@@ -202,7 +196,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^      | [Sumikko Novel](https://novel.sumikko.info/) :ljp: [:rss:](https://novel.sumikko.info/rss.xml) |
 | ^^      | [Sumikko Bunko](https://bunko.sumikko.info/) :ljp: [:rss:](https://bunko.sumikko.info/rss.xml) |
 
-### Publisher
+== Manga & Novels Publisher
 - [Cross Infinite World](https://www.crossinfworld.com/Calendar.html)
 - [Dark Horse](https://www.darkhorse.com/books/upcoming/)
 - [J-Novel Club](https://j-novel.club/calendar)
@@ -217,11 +211,15 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 - [VIZ](https://www.viz.com/calendar/ )
 - [Yen Press](https://yenpress.com/calendar)
 
+:::
 
 ![](/banner/portals.webp)
-# Portals
 
-## General
+## Portals
+
+:::tabs
+
+== General
 
 | Category | Websites |  
 |----------|----------|  
@@ -240,7 +238,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [Halcyon Realms](https://halcyonrealms.com/) :s: [:rss:](https://halcyonrealms.com/subscribe/) |  
 
 
-## Anime
+== Anime
 
 | Category | Websites |  
 |----------|----------|  
@@ -259,7 +257,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [Sakuga Blog](https://blog.sakugabooru.com/) :s: [:x:](https://x.com/SakugaBlog) [:rss:](https://blog.sakugabooru.com/feed/) |  
 
 
-## Manga & Novels
+== Manga & Novels
 
 | Category | Websites |  
 |----------|----------|  
@@ -275,7 +273,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [TheOASG](https://www.theoasg.com/) [:x:](https://x.com/TheOASG) |  
 
 
-## Stats & More
+== Stats & More
 
 | Category | Websites |  
 |----------|----------|  
@@ -298,7 +296,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [MANGA Plus Views](https://mangaplustracker.github.io/) [:src:](https://github.com/MangaplusTracker/MangaplusTracker.github.io) |
 
 
-## Retro Archives & Blogs
+== Retro Archives & Blogs
 
 | Category | Websites |
 | :--- | :--- |
@@ -324,11 +322,14 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [Gaming Alexandria](https://www.gamingalexandria.com/wp/) [:x:](https://x.com/dushubz) |
 | ^^ | [VGHF Archive](https://archive.gamehistory.org/) |
 
+:::
 
 ![](/banner/utility.webp)
-# Utility
+## Utility
 
-## Anime & Manga
+:::tabs
+
+== Anime & Manga
 | Category  | Websites | Service(s) |  
 |-----------|----------|------------|  
 | **General** | [Anime Bingo](https://anime-bingo.aikats.us/) [:src:](https://github.com/walfie/anime-bingo) | :al: |  
@@ -342,8 +343,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^        | [Randime](https://randime.moe/) | :no: |  
 | ^^        | [Spin.moe](https://spin.moe/) | :mal::al::k: |  
 
-
-## Image
+== Image
 | Category    | Websites |
 |------------|----------|
 | **Search** | [SauceNAO](https://saucenao.com/) :s: |
@@ -353,7 +353,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | **Others** | [Slowpoke Pics](https://slow.pics/) |
 
 
-## Tracker
+== Tracker
  
 | Category  | Websites | Tracker |  
 |-----------|----------|---------|  
@@ -369,7 +369,7 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^        | [MAL Exporter](https://malscraper.azurewebsites.net/) | :mal::al::k: |  
 
 
-## 3x3
+== 3x3
 | Category | Websites | Customizable | Max RxC |
 | :--- | :--- | :---: | :---: |
 | **General** | [3x3 Generator](https://gqgs.github.io/3x3-generator/) [:src:](https://github.com/gqgs/3x3-generator/) | :no: | 5x5 |
@@ -380,15 +380,15 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | **Games** | [My 9 Games](https://my9games.com/) | :no: | 3x3 |
 | **Music** | [My Top 9 Otaku Songs](https://otaku-song.pages.dev/) :ljp: | :no: | 3x3 |
 
-<ScrapeTable :sites="[
-  { name: '3x3 Generator', scrapes: { 'Anime': 'AniList, MyAnimeList & Kitsu', 'Manga': 'AniList, MyAnimeList & Kitsu', 'Music': 'LastFM', 'Game': 'RAWG & IGDB', 'Visual Novel': 'VNDB' } },
-  { name: 'Lists.fun', scrapes: { 'Anime': 'MyAnimeList', 'Music': 'MusicBrainZ', 'Live Action': 'TMDB', 'Game': 'IGDB', 'Tabletop': 'BoardGameGeek, Scryfall & Pokeapi' } },
-  { name: 'Topsters 3', scrapes: { 'Live Action': 'TMDB', 'Music': 'LastFM', 'Book': 'Internet Archive', 'Game': 'IGDB' } },
-  { name: 'My 9 Games', scrapes: { 'Game': 'IGDB' } },
-  { name: 'My Top 9 Otaku Songs', scrapes: { 'Music': 'Apple Music' } }
-]" />
+::: scrapetable {Topics}
+- 3x3 Generator : (Anime, AniList & MyAnimeList & Kitsu), (Manga, AniList & MyAnimeList & Kitsu), (Music, LastFM), (Game, RAWG & IGDB), (Visual Novel, VNDB);
+- Lists.fun : (Anime, MyAnimeList), (Music, MusicBrainZ), (Live Action, TMDB), (Game, IGDB), (Tabletop, BoardGameGeek & Scryfall & Pokeapi);
+- Topsters 3 : (Live Action, TMDB), (Music, LastFM), (Book, Internet Archive), (Game, IGDB);
+- My 9 Games : (Game, IGDB);
+- My Top 9 Otaku Songs : (Music, Apple Music);
+:::
 
-## Recommendations
+== Recommendations
 
 | Type | Resource |
 | :--- | :--- |
@@ -402,11 +402,15 @@ Visit the [**tracker utility**](#tracker) section for tracker stats and data tra
 | ^^ | [r/VN's 2018](https://vnrecs.github.io/) |
 | ^^ | [What are you reading?](https://some-guy.org/vnswayrarchive/recommendations) |
 
+:::
 
 ![](/banner/others.webp)
-# Others
 
-## 4chan
+## Others
+
+:::tabs
+
+== 4chan
 
 ::: warning README
 Only use this if you know what you're getting yourselves into. Recommended boards are listed [**here**](/comms#boards).
@@ -440,7 +444,7 @@ Only use this if you know what you're getting yourselves into. Recommended board
 
 </collapsible>
 
-## Encoding & Fansubbing
+== Encoding & Fansubbing
 
 - [JET Encoding Guide](https://jaded-encoding-thaumaturgy.github.io/JET-guide/) :s:
 - [Advanced Encoding Guide](https://silentaperture.gitlab.io/mdbook-guide/introduction.html)
@@ -452,41 +456,7 @@ Only use this if you know what you're getting yourselves into. Recommended board
 - [Zeriyu's Fansub Guide](https://github.com/zeriyu/fansub-guide)
 - :more: [Fansubbing tools](/tools#video-tools)
 
-## Fun sites
-
-### Quiz
-| Category  | Website |
-|-----------|---------|
-| General   | [AniGuessr](https://aniguessr.com/) |
-| Song      | [Anime Music Quiz](https://animemusicquiz.com/) [:pin:](https://github.com/Shaykaden/AMQ-tabify-anime-selection) |
-| ^^        | [AnimeSongs Quiz](https://quiz.animesongs.org/) |
-| ^^        | [Eroge Music Quiz](https://erogemusicquiz.com/) :ero: |
-| ^^        | [Guess The Anime Opening](https://guesstheopening.com/anime) |
-| Character | [Chiaki Anime Quiz](https://chiaki.site/?/quiz) |
-| Scene     | [AnimeGuess](https://www.animeguess.moe/) |
-| Others    | [Animerdle](https://www.animerdle.com/) |
-| ^^        | [Rule34dle](https://rule34dle.vercel.app/) |
-
-
-### Miscellaneous
-| Category | Websites |
-| :--- | :--- |
-| **General** | [Anime Bath Scene Wiki](https://animebathscenewiki.com/index.php?title=Main_Page) |
-| ^^ | [True Harem](https://trueharem.carrd.co/) |
-| ^^ | [One Piece Wanted Poster Maker](https://yuskawu.github.io/one-piece-wanted-poster/dist/) [:src:](https://github.com/YuskaWu/one-piece-wanted-poster) |
-| **Anime** | [AniAnimals.moe](https://www.anianimals.moe/) |
-| ^^ | [TV Tropes](https://tvtropes.org/) |
-| **Manga** | [AnniversaryJump](https://www.anniversaryjump.com/?lang=en) |
-| ^^ | [HUNTER×HUNTER Hiatus Chart](https://hiatus-hiatus.github.io/) |
-| ^^ | [Inazuma](https://inazuma.rl404.com/) [:src:](https://github.com/rl404/inazuma) |
-| ^^ | [Vagabond Hiatus Chart](https://vagabond-hiatus-chart.vercel.app/) :ded: [:src:](https://github.com/falsepopsky/vagabond-hiatus-chart) |
-| **Others** | [AIDN](https://aidn.jp/contents/) |
-| ^^ | [Maid Spin](https://iklone.org/) |
-| ^^ | [Song Bottle](https://song-bottle.app/) |
-| ^^ | [Wired Sound For Wired People](https://fauux.neocities.org/) |
-
-
-## Scanlation
+== Scanlation
 
 | Category | Websites |
 |-|-|
@@ -510,3 +480,36 @@ Only use this if you know what you're getting yourselves into. Recommended board
 - [Panel Cleaner](https://github.com/VoxelCubes/PanelCleaner)
 
 </collapsible>
+
+== Quiz
+
+| Category  | Website |
+|-----------|---------|
+| General   | [AniGuessr](https://aniguessr.com/) |
+| Song      | [Anime Music Quiz](https://animemusicquiz.com/) [:pin:](https://github.com/Shaykaden/AMQ-tabify-anime-selection) |
+| ^^        | [AnimeSongs Quiz](https://quiz.animesongs.org/) |
+| ^^        | [Eroge Music Quiz](https://erogemusicquiz.com/) :ero: |
+| ^^        | [Guess The Anime Opening](https://guesstheopening.com/anime) |
+| Character | [Chiaki Anime Quiz](https://chiaki.site/?/quiz) |
+| Scene     | [AnimeGuess](https://www.animeguess.moe/) |
+| Others    | [Animerdle](https://www.animerdle.com/) |
+| ^^        | [Rule34dle](https://rule34dle.vercel.app/) |
+
+== Miscellaneous
+| Category | Websites |
+| :--- | :--- |
+| **General** | [Anime Bath Scene Wiki](https://animebathscenewiki.com/index.php?title=Main_Page) |
+| ^^ | [True Harem](https://trueharem.carrd.co/) |
+| ^^ | [One Piece Wanted Poster Maker](https://yuskawu.github.io/one-piece-wanted-poster/dist/) [:src:](https://github.com/YuskaWu/one-piece-wanted-poster) |
+| **Anime** | [AniAnimals.moe](https://www.anianimals.moe/) |
+| ^^ | [TV Tropes](https://tvtropes.org/) |
+| **Manga** | [AnniversaryJump](https://www.anniversaryjump.com/?lang=en) |
+| ^^ | [HUNTER×HUNTER Hiatus Chart](https://hiatus-hiatus.github.io/) |
+| ^^ | [Inazuma](https://inazuma.rl404.com/) [:src:](https://github.com/rl404/inazuma) |
+| ^^ | [Vagabond Hiatus Chart](https://vagabond-hiatus-chart.vercel.app/) :ded: [:src:](https://github.com/falsepopsky/vagabond-hiatus-chart) |
+| **Others** | [AIDN](https://aidn.jp/contents/) |
+| ^^ | [Maid Spin](https://iklone.org/) |
+| ^^ | [Song Bottle](https://song-bottle.app/) |
+| ^^ | [Wired Sound For Wired People](https://fauux.neocities.org/) |
+
+:::
