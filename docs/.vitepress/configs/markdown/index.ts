@@ -18,6 +18,7 @@ import { tabsMarkdownPlugin } from 'vitepress-plugin-tabs'
 import { getTooltip } from '../../utils/tooltips'
 import { headersPlugin } from '../markdown/headers'
 import { emojiRender } from './emoji'
+import { nestedContainersPlugin } from './nestedContainers'
 import { scrapeTablePlugin } from './scrapeTablePlugin'
 import markdownSteps from './steps'
 
@@ -27,6 +28,7 @@ export function configureMarkdown(md: MarkdownRenderer) {
   md.use(align)
   md.use(figure)
   md.use(tabsMarkdownPlugin)
+  md.use(nestedContainersPlugin)
   md.use(imgSize)
   md.use(headersPlugin)
   md.use(MdMTables, {
