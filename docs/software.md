@@ -93,7 +93,7 @@ og:
 | **Others**   | [Kitsune](https://github.com/Drumber/Kitsune) :k: |
 | ^^           | [Nekome](https://github.com/Chesire/Nekome) :k: |
 | ^^           | [OpenComicVine](https://github.com/proninyaroslav/OpenComicVine) |
-| ^^           | [VNDB Lite](https://daniel-c-j.github.io/vndb-lite/) [:src:](https://github.com/Daniel-C-J/vndb-lite) |
+| ^^           | [VNDB Lite](https://daniel-c-j.github.io/vndb-lite-web/) [:src:](https://github.com/Daniel-C-J/vndb-lite) |
 
 :::
 
