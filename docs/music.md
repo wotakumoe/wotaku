@@ -207,6 +207,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 :::tabs
 
 == General
+
 | Category    | Resource |
 |------------|--------------------------------------------------|
 | **Metadata** | [LRCLIB](https://lrclib.net/) |
@@ -220,8 +221,8 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 |    ^^      | [Songle](https://songle.jp/) |
 |    ^^      | [Songlink](https://odesli.co/) |
 
-
 == Spotify
+
 | Category            | Resource |
 |--------------------|--------------------------------------------------|
 | **Availability**   | [Album Availability Map](https://kaaes.github.io/albums-availability/) [:src:](https://github.com/kaaes/albums-availability) |
@@ -242,11 +243,13 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^                 | [Spotlistr](https://www.spotlistr.com/) |
 
 == MusicBrainz
+
 - [a-tisket](https://atisket.pulsewidth.org.uk/)
 - [Harmony](https://harmony.pulsewidth.org.uk/) [:src:](https://github.com/kellnerd/harmony)
 - [SAMBL](https://sambl.lioncat6.com/) [:src:](https://github.com/Lioncat6/SAMBL-React)
 
 == Last.fm
+
 - [Last.fm stats](https://lastfmstats.com/) [:src:](https://github.com/felhag/lastfm-stats-web)
 - [Last History](https://anhuynh.github.io/last-history)
 - [musicorum](https://musicorumapp.com/) [:src:](https://github.com/musicorum-app)
@@ -254,13 +257,14 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 - [Scatter.FM](https://scatterfm.markhansen.co.nz/)
 - [Last.fm Time Charts](https://pmcdonough8133.github.io/last.timer/) [:src:](https://github.com/pmcdonough8133/last.timer)
 
-
+:::
 
 ![](/music/mis.webp)
 
 ## Info Sites
 
 :::tabs
+
 == Database
 
 | Category    | Links |
@@ -338,6 +342,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^          | [Songkick](https://www.songkick.com/) ||General|| |
 
 :::
+
 
 ![](/music/mph.webp)
 
@@ -499,6 +504,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^ | [Music Presence](https://github.com/ungive/discord-music-presence) :cs: | :win::app::lin: |
 
 == Vocaloid
+
 | Category | Player | Platform |
 | :--- | :--- | :--- |
 | Editors | [Vocaloid](https://www.vocaloid.com/en/) :cs: | :win::app: |
@@ -557,6 +563,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 
 ![](/music/msv.webp)
+
 ## Server
 
 ::: tabs
