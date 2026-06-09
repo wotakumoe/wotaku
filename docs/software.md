@@ -10,9 +10,11 @@ og:
 
 ![](/banner/and.webp)
 
-# Android
+## Android
 
-## Anime
+::: tabs
+
+== Anime
 
 | App | Source | Tracker | TV |
 |-|-|-|-|
@@ -27,9 +29,7 @@ og:
 | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) | :ddl: | :mal::al::simkl: | :no: |
 | [NyanTV](https://nyantv.vercel.app/) [:src:](https://github.com/NyanTV/NyanTV) [:e:](/ext/mihon) | :ddl: | :mal::al::simkl: | :tv: |
 
-<Block link="/ext/" icon="i-mdi-puzzle">All the extensions can be found here</Block>
-
-## Manga 
+== Manga 
 
 | Type | Reader |
 | :--- | :--- |
@@ -49,18 +49,18 @@ og:
 | ^^ | [Kuro Reader +](https://kurotoshiro.dev/) :fm::cs: |
 | ^^ | [CDisplayEx](https://play.google.com/store/apps/details?id=com.progdigy.cdisplay.free) :fm::cs: |
 
-<Block link="/ext/" icon="i-mdi-puzzle">All the extensions can be found here</Block>
-
 ![Tachiyomi forks flowchart](/diagram/tachi.svg)
 
-::: tip Mihon related utilities
+<collapsible title="Mihon related utilities">
+
 - [Tachibk Viewer](https://backup.mihon.tools/) [:src:](https://github.com/Animeboynz/Mihon-Backup-Viewer)
 - [Aniyomi Local Manager](https://gitlab.com/Secozzi/aniyomi-local-manager)
 - [Mihon Local Source JSON Generator](https://mihonlocal.netlify.app/) [:src:](https://github.com/Animeboynz/mihon-local)
 - [Kihon](https://github.com/tbvns/Kihon)
-:::
 
-## Novel
+</collapsible>
+
+== Novel
 
 | Category | Apps |
 | :--- | :--- |
@@ -78,9 +78,7 @@ og:
 | ^^ | [KOReader](https://koreader.rocks/) [:src:](https://github.com/koreader/koreader) |
 | ^^ | [ReadEra](https://play.google.com/store/apps/details?id=org.readera) :fm::cs: |
 
-<Block link="/ext/" icon="i-mdi-puzzle">All the extensions can be found here</Block>
-
-## Trackers
+== Trackers
 
 | Tracker       | App |
 |---------------|-------------|
@@ -97,11 +95,13 @@ og:
 | ^^           | [OpenComicVine](https://github.com/proninyaroslav/OpenComicVine) |
 | ^^           | [VNDB Lite](https://daniel-c-j.github.io/vndb-lite/) [:src:](https://github.com/Daniel-C-J/vndb-lite) |
 
+:::
+
+<Block link="/ext/" icon="i-mdi-puzzle">All the extensions can be found here</Block>
+
 ![](/banner/ereader.webp)
 
-# E-reader <fb h="Ereader"/>
-
-___
+## E-reader
 
 | Category | Software | Platform |
 |-|-|-|
@@ -122,18 +122,55 @@ ___
 
 ![](/banner/ios.webp)
 
-# iOS
+## iOS
 
 ::: tip Sideloading apps on Apple devices
 Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.github.io/ios-sideloading/) & [**The Apple Wiki**](https://theapplewiki.com/wiki/Main_Page) for info and guides on jailbreaking and sideloading.
 :::
 
-## Anime
+::: tabs
+
+== Anime
 - [Sora](https://github.com/cranci1/Sora)
 - [Luna](https://github.com/cranci1/Luna)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX)
 - [Hayase](https://hayase.watch/) :paid::cs::n: [:src:](https://github.com/hayase-app) [:e:](/ext/misc#hayase)
+
+
+== Manga
+
+| Category | Apps |
+| :--- | :--- |
+| **Online** | [Aidoku](https://aidoku.app/) [:src:](https://github.com/Aidoku/Aidoku) [:e:](/ext/ios#aidoku) |
+| ^^ | [Suwatte](https://www.suwatte.app/) [:src:](https://github.com/Suwatte/Suwatte) [:e:](/ext/ios#suwatte) [||Converter||](https://web.archive.org/web/20250801192039/https://seyden.github.io/SuwatteConverter/suwatte) |
+| ^^ | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) |
+| ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) |
+| ^^ | [Tachimanga](https://tachimanga.app/) :fm::sub::cs: [:e:](https://tachimanga.app/help/guides/adding-repos.html) |
+| **Local** | [YACReader](https://apps.apple.com/app/id635717885) :s::paid::cs: [:tf:](https://testflight.apple.com/join/5zhB7sRP) |
+| ^^ | [Panels](https://apps.apple.com/app/id1236567663) :fm::sub::cs: |
+| ^^ | [iComics](https://apps.apple.com/app/id493845493) :paid::cs: |
+| ^^ | [SideBooks](https://apps.apple.com/app/id409777225) :cs: |
+
+== Novel
+
+- [Mangayomi](https://github.com/kodjodevf/mangayomi)
+- [Readest](https://readest.com/) [:src:](https://github.com/readest/readest) :lcl:
+- [Yomu](https://www.yomu-reader.com/) :paid::cs::lcl:
+
+== Trackers
+| Category       | Name & Links |
+|----------------|--------------|
+| **AniList**  | [AniClient](https://apps.apple.com/app/id6474905817) :cs: |
+| ^^           | [MyAniList](https://apps.apple.com/app/id741257899) :cs::fm::sub: |
+| ^^           | [Otraku](https://github.com/lotusprey/otraku) |
+| ^^           | [Risuto](https://apps.apple.com/app/id6455685990) :cs: |
+| ^^           | [Ryuusei](https://apps.apple.com/app/id1347721581) :cs::fm::sub: |
+| **MyAnimeList** | [Kitsune](https://apps.apple.com/app/id6466716447) :cs::fm: |
+| ^^           | [ManGo](https://apps.apple.com/app/id1604385869) :cs::fm::sub: |
+| ^^           | [MyAnimeList Official](https://apps.apple.com/app/id1469330778) :cs: |
+
+:::
 
 <Block link="/ext/" icon="i-mdi-puzzle">All the extensions can be found here</Block>
 
@@ -151,44 +188,14 @@ or buy an Android phone :ic-twotone-thumb-up:
 
 :::
 
-## Manga
-
-| Category | Apps |
-| :--- | :--- |
-| **Online** | [Aidoku](https://aidoku.app/) [:src:](https://github.com/Aidoku/Aidoku) [:e:](/ext/ios#aidoku) |
-| ^^ | [Suwatte](https://www.suwatte.app/) [:src:](https://github.com/Suwatte/Suwatte) [:e:](/ext/ios#suwatte) [||Converter||](https://web.archive.org/web/20250801192039/https://seyden.github.io/SuwatteConverter/suwatte) |
-| ^^ | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) |
-| ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) |
-| ^^ | [Tachimanga](https://tachimanga.app/) :fm::sub::cs: [:e:](https://tachimanga.app/help/guides/adding-repos.html) |
-| **Local** | [YACReader](https://apps.apple.com/app/id635717885) :s::paid::cs: [:tf:](https://testflight.apple.com/join/5zhB7sRP) |
-| ^^ | [Panels](https://apps.apple.com/app/id1236567663) :fm::sub::cs: |
-| ^^ | [iComics](https://apps.apple.com/app/id493845493) :paid::cs: |
-| ^^ | [SideBooks](https://apps.apple.com/app/id409777225) :cs: |
-
-
-## Novel
-- [Mangayomi](https://github.com/kodjodevf/mangayomi)
-- [Readest](https://readest.com/) [:src:](https://github.com/readest/readest) :lcl:
-- [Yomu](https://www.yomu-reader.com/) :paid::cs::lcl:
-
-## Trackers
-| Category       | Name & Links |
-|----------------|--------------|
-| **AniList**  | [AniClient](https://apps.apple.com/app/id6474905817) :cs: |
-| ^^           | [MyAniList](https://apps.apple.com/app/id741257899) :cs::fm::sub: |
-| ^^           | [Otraku](https://github.com/lotusprey/otraku) |
-| ^^           | [Risuto](https://apps.apple.com/app/id6455685990) :cs: |
-| ^^           | [Ryuusei](https://apps.apple.com/app/id1347721581) :cs::fm::sub: |
-| **MyAnimeList** | [Kitsune](https://apps.apple.com/app/id6466716447) :cs::fm: |
-| ^^           | [ManGo](https://apps.apple.com/app/id1604385869) :cs::fm::sub: |
-| ^^           | [MyAnimeList Official](https://apps.apple.com/app/id1469330778) :cs: |
-
 
 ![](/banner/pc.webp)
 
-# PC
+## PC
 
-## Anime
+::: tabs
+
+== Anime
 
 | Program | OS | Source | Tracker |
 |-|-|-|-|
@@ -199,7 +206,6 @@ or buy an Android phone :ic-twotone-thumb-up:
 | [Unyo](https://github.com/K3vinb5/Unyo) | :win::app::lin: | :ddl: | :al: |
 | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) [:e:](/ext/mangayomi) | :win::app::lin: | :ddl: | :mal::al::simkl: |
 
-<Block link="/ext/" icon="i-mdi-puzzle">All the extensions can be found here</Block>
 
 <Collapsible title="More">
 
@@ -222,7 +228,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 </Collapsible>
 
-## Manga
+== Manga
 
 | Category | Software | Platform | Reading Mode |
 | :--- | :--- | :--- | :--- |
@@ -238,9 +244,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | ^^ | [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) [:src:](https://github.com/sumatrapdfreader/sumatrapdf) ==SumatraPDF== | :win: | :sp::dp::ls: |
 | ^^ | [ComicRack CE](https://github.com/maforget/ComicRackCE) | :win: | :sp::dp: |
 
-<Block link="/ext/" icon="i-mdi-puzzle">All the extensions can be found here</Block>
-
-## Novel
+== Novel
 
 | Software | Platform |
 |----------|---------|
@@ -255,8 +259,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | [Thorium reader](https://www.edrlab.org/software/thorium-reader/) [:src:](https://github.com/edrlab/thorium-reader) | :win::app::lin: |
 | [Yomikiru](https://github.com/mienaiyami/yomikiru) | :win::lin: |
 
-
-## Trackers
+== Trackers
 
 | **Software**    | **Platform**             | **Service**         |
 | ------------ | ---------- | ---- |
@@ -270,12 +273,17 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | [Trackma](https://z411.github.io/trackma/) [:src:](https://github.com/z411/trackma)   | :lin:   | :mal::al::k::shiki:  |
 | [Tundra](https://tundra.moe/) [:src:](https://github.com/m4tx/tundra)    | :lin:      | :mal:     |
 
+:::
+
+<Block link="/ext/" icon="i-mdi-puzzle">All the extensions can be found here</Block>
 
 ![](/banner/tools.webp)
 
-# Tools
+## Tools
 
-## Downloaders
+::: tabs
+
+== Downloaders
 
 | Category | Software | Platform |
 | :--- | :--- | :--- |
@@ -301,8 +309,8 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | ^^ | [pywidevine](https://github.com/devine-dl/pywidevine) | :py: |
 | ^^ | [Unshackle](https://github.com/unshackle-dl/unshackle) | :py: |
 
+== Anime
 
-## Anime
 | Software | Platform |
 | :--- | :--- |
 | [Anicon for AniList](https://github.com/EnArvy/AniconforAnilist) | :win: |
@@ -311,9 +319,8 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | [Manami](https://github.com/manami-project/manami) | :win::app::lin: |
 | [Shoko Anime](https://shokoanime.com/) [:src:](https://github.com/ShokoAnime/) | :win::app::lin: |
 
+== Manga
 
-
-## Manga
 | Category     | Software | Platform |
 |-------------|----------|----------|
 | **Conversion** | [ACBR](https://github.com/binarynonsense/comic-book-reader) | :win::lin: |
@@ -329,8 +336,8 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | ^^          | [XpdfReader](https://www.xpdfreader.com/index.html) | :win::lin: |
 | ^^          | [Poppler](https://poppler.freedesktop.org/) [:src:](https://gitlab.freedesktop.org/poppler/poppler) | :win::app::lin::bsd: |
 
+== Stremio
 
-## Stremio
 | Category   | Resource |
 |------------|----------|
 | **Starter** | [Viren070's Guides](https://guides.viren070.me/) [:src:](https://github.com/Viren070/guides) |
@@ -345,8 +352,29 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | ^^         | [Jackett Addon](https://github.com/aymene69/stremio-jackett) |
 | ^^         | [Addon Manager](https://stremio-addon-manager.vercel.app/) [:src:](https://github.com/pancake3000/stremio-addon-manager) |
 
+== Others
 
-## Server / Hosting
+| Category       | Resource                                                       | Platform             |
+|---------------|-----------------------------------------------------------------|----------------------|
+| **Image Search** | [SmartImage](https://github.com/Decimation/SmartImage)       | :win::lin:          |
+| ^^            | [Search by Image](https://github.com/dessant/search-by-image)   | :ff::cr::sfr: |
+| ^^            | [AnimeSnap](https://github.com/rohankishore/AnimeSnap)          | :win:               |
+| ^^            | [Sauce](https://github.com/cadecuddy/sauce)                     | :cmd:               |
+| **Nyaa Tools** | [nyaa](https://github.com/Beastwick18/nyaa)                    | :win::lin:          |
+| ^^            | [Meow](https://github.com/wotakumoe/meow)                       | :py:                |
+| ^^            | [Koneko](https://github.com/irevenko/koneko)                    | :cmd:               |
+| **Others**    | [AMV Tracker](https://github.com/bsobotka/amv_tracker)          | :win:               |
+| ^^            | [Libation](https://getlibation.com/) [:src:](https://github.com/rmcrackan/Libation) | :win::app::lin: |
+
+:::
+
+![](/music/msv.webp)
+
+## Server
+
+::: tabs
+
+== Server
 
 | Type       | Solution |
 |----------- |----------|
@@ -366,7 +394,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | ^^         | [Storyteller](https://smoores.gitlab.io/storyteller/) [:src:](https://gitlab.com/smoores/storyteller) |
 | **Others**     | [Copyparty](https://github.com/9001/copyparty/) |
 
-### Client / Tools
+== Client / Tools
 
 | Solution   | Client/Tools |
 |----------- |-------------|
@@ -391,20 +419,8 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | ^^         | [AniBridge](https://anibridge.eliasbenb.dev/) [:src:](https://github.com/anibridge/anibridge) |
 | **Others**     | [Tailscale](https://tailscale.com/) |
 
+:::
+
 ::: tip Mihon, Aniyomi & forks
 [**Android apps**](#manga-readers) that support the mihon extension system, can be used as clients for Jellyfin, Komga, Kavita & LANraragi. You can get extensions from [**here**](/guides/tech/repo).
 :::
-
-## Others
-
-| Category       | Resource                                                       | Platform             |
-|---------------|-----------------------------------------------------------------|----------------------|
-| **Image Search** | [SmartImage](https://github.com/Decimation/SmartImage)       | :win::lin:          |
-| ^^            | [Search by Image](https://github.com/dessant/search-by-image)   | :ff::cr::sfr: |
-| ^^            | [AnimeSnap](https://github.com/rohankishore/AnimeSnap)          | :win:               |
-| ^^            | [Sauce](https://github.com/cadecuddy/sauce)                     | :cmd:               |
-| **Nyaa Tools** | [nyaa](https://github.com/Beastwick18/nyaa)                    | :win::lin:          |
-| ^^            | [Meow](https://github.com/wotakumoe/meow)                       | :py:                |
-| ^^            | [Koneko](https://github.com/irevenko/koneko)                    | :cmd:               |
-| **Others**    | [AMV Tracker](https://github.com/bsobotka/amv_tracker)          | :win:               |
-| ^^            | [Libation](https://getlibation.com/) [:src:](https://github.com/rmcrackan/Libation) | :win::app::lin: |
