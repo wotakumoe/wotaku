@@ -10,7 +10,10 @@ import {
 } from '../utils/tabAnchors'
 
 export interface PageLink {
+  objectID: string
+  id: string
   href: string
+  hrefSearch: string
   linkText: string
   pageId: string
   anchor: string
@@ -24,14 +27,28 @@ export interface TabTarget {
   tabs: string[]
 }
 
+export interface PageSearchDocument {
+  objectID: string
+  id: string
+  pageId: string
+  anchor: string
+  title: string
+  titles: string[]
+  text: string
+  sectionOrder: number
+  tabs?: string[]
+}
+
 interface PageSearchMetadata {
+  documents: PageSearchDocument[]
   links: PageLink[]
   tabTargets: TabTarget[]
 }
 
 function extractSearchMetadataFromMarkdown(
   src: string,
-  pageId: string
+  pageId: string,
+  html = ''
 ): PageSearchMetadata {
   const links: PageLink[] = []
   const seenLinks = new Set<string>()
@@ -106,7 +123,10 @@ function extractSearchMetadataFromMarkdown(
 
     seenLinks.add(key)
     links.push({
+      objectID: createObjectID([pageId, key].join('\x00')),
+      id: createLinkId(pageId, currentAnchor, href, tabs),
       href,
+      hrefSearch: getSearchableUrl(href),
       linkText,
       pageId,
       anchor: currentAnchor,
@@ -207,13 +227,116 @@ function extractSearchMetadataFromMarkdown(
     }
   }
 
-  return { links, tabTargets: [...tabTargets.values()] }
+  return {
+    documents: extractSearchDocumentsFromHtml(
+      html,
+      pageId,
+      tabTargets
+    ),
+    links,
+    tabTargets: [...tabTargets.values()]
+  }
 }
 
 const collectedByPage = new Map<string, PageSearchMetadata>()
 
 function getPageId(page: string) {
   return '/' + page.replace(/\.md$/, '').replace(/\/index$/, '/')
+}
+
+function createLinkId(
+  pageId: string,
+  anchor: string,
+  href: string,
+  tabs: string[]
+) {
+  return encodeURIComponent([
+    pageId,
+    anchor,
+    href,
+    tabs.join('/')
+  ].join('\x00'))
+}
+
+function createObjectID(value: string) {
+  const normalized = value
+    .replace(/[^\dA-Za-z_-]+/g, '_')
+    .replace(/^_+|_+$/g, '')
+    .slice(0, 420)
+  return `${normalized || 'doc'}_${getStableHash(value)}`
+}
+
+function getStableHash(value: string) {
+  let hash = 2166136261
+  for (let i = 0; i < value.length; i++) {
+    hash ^= value.charCodeAt(i)
+    hash = Math.imul(hash, 16777619)
+  }
+  return (hash >>> 0).toString(36)
+}
+
+function getSearchableUrl(value: string) {
+  return decodeURIComponent(value)
+    .replace(/^https?:\/\//i, '')
+    .replace(/[^\p{L}\p{N}]+/gu, ' ')
+    .replace(/\s+/g, ' ')
+    .trim()
+}
+
+const headingRegex = /<h(\d*).*?>(.*?<a.*? href="#.*?".*?>.*?<\/a>)<\/h\1>/gi
+const headingContentRegex = /(.*)<a.*? href="#(.*?)".*?>.*?<\/a>/i
+
+function clearHtmlTags(value: string) {
+  return value.replace(/<[^>]*>/g, '')
+}
+
+function extractSearchDocumentsFromHtml(
+  html: string,
+  pageId: string,
+  tabTargets: Map<string, TabTarget>
+) {
+  const documents: PageSearchDocument[] = []
+  if (!html) return documents
+
+  const result = html.split(headingRegex)
+  result.shift()
+
+  let parentTitles: string[] = []
+  let sectionOrder = 0
+  for (let i = 0; i < result.length; i += 3) {
+    const level = Number.parseInt(result[i]) - 1
+    const heading = result[i + 1]
+    const headingResult = headingContentRegex.exec(heading)
+    const title = clearHtmlTags(headingResult?.[1] ?? '').trim()
+    const anchor = headingResult?.[2] ?? ''
+    const text = clearHtmlTags(result[i + 2] ?? '').trim()
+    if (!title || !text) continue
+
+    let titles = parentTitles.slice(0, level)
+    titles[level] = title
+    titles = titles.filter(Boolean)
+
+    const tabs = tabTargets.get(anchor)?.tabs
+    documents.push({
+      objectID: createObjectID(anchor ? `${pageId}#${anchor}` : pageId),
+      id: anchor ? `${pageId}#${anchor}` : pageId,
+      pageId: pageId.replace(/\/$/, ''),
+      anchor,
+      title: titles.at(-1) ?? title,
+      titles: titles.slice(0, -1),
+      text,
+      sectionOrder: sectionOrder++,
+      ...(tabs?.length ? { tabs } : {})
+    })
+
+    if (level === 0) {
+      parentTitles = [title]
+    } else {
+      parentTitles[level] = title
+    }
+  }
+
+  return documents
 }
 
 function getDedupedLinks() {
@@ -231,6 +354,21 @@ function getDedupedLinks() {
       if (seen.has(key)) continue
       seen.add(key)
       deduped.push(link)
+    }
+  }
+
+  return deduped
+}
+
+function getDedupedSearchDocuments() {
+  const seen = new Set<string>()
+  const deduped: PageSearchDocument[] = []
+
+  for (const metadata of collectedByPage.values()) {
+    for (const document of metadata.documents) {
+      if (seen.has(document.id)) continue
+      seen.add(document.id)
+      deduped.push(document)
     }
   }
 
@@ -260,6 +398,34 @@ function getDedupedTabTargets() {
 export function collectPageLinks(src: string, page: string) {
   const pageId = getPageId(page)
   collectedByPage.set(pageId, extractSearchMetadataFromMarkdown(src, pageId))
+}
+
+export function collectPageSearchMetadata(
+  src: string,
+  page: string,
+  html: string
+) {
+  const pageId = getPageId(page)
+  collectedByPage.set(
+    pageId,
+    extractSearchMetadataFromMarkdown(src, pageId, html)
+  )
+}
+
+export function clearSearchMetadata() {
+  collectedByPage.clear()
+}
+
+export function getSearchDocuments() {
+  return getDedupedSearchDocuments()
+}
+
+export function getSearchLinks() {
+  return getDedupedLinks()
+}
+
+export function getSearchTabTargets() {
+  return getDedupedTabTargets()
 }
 
 export function writeUrlSearchIndex(outDir: string) {

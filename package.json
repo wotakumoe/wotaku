@@ -35,7 +35,7 @@
     "markdown-it-multimd-table": "^4.2.3",
     "markdown-it-regexp": "^0.4.0",
     "medium-zoom": "^1.1.0",
-    "minisearch": "^7.2.0",
+    "meilisearch": "^0.58.0",
     "motion-v": "^1.7.4",
     "nitro-cors": "^0.7.1",
     "nitropack": "^2.10.4",

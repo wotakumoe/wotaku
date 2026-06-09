@@ -17,7 +17,8 @@ import { hostname, sidebar, siteConfig } from './constants'
 import { generateImages, generateMeta } from './hooks'
 import { configureMarkdown } from './markdown'
 import { aliases, defs, movePlugin } from './markdown/emoji'
-import { collectPageLinks, urlSearchDevPlugin, writeUrlSearchIndex } from '../plugins/urlSearchPlugin'
+import { indexMeiliSearch } from '../plugins/meiliSearchPlugin'
+import { writeUrlSearchIndex } from '../plugins/urlSearchPlugin'
 
 const GIT_COMMIT = process.env.NODE_ENV === 'development'
   ? 'dev'
@@ -31,7 +32,8 @@ export const shared: UserConfig<DefaultTheme.Config> = {
   ...siteConfig,
   transformHead: async (context) => generateMeta(context, hostname),
   buildEnd: async (context) => {
-    writeUrlSearchIndex(context.outDir)
+    const indexedSearch = await indexMeiliSearch(context)
+    if (indexedSearch) writeUrlSearchIndex(context.outDir)
     if (process.env.CI) {
       await generateImages(context)
     }
@@ -45,31 +47,6 @@ export const shared: UserConfig<DefaultTheme.Config> = {
   themeConfig: {
     search: {
       options: {
-        miniSearch: {
-          searchOptions: {
-            combineWith: 'AND',
-            fuzzy: false,
-            // @ts-ignore
-            boostDocument: (
-              _,
-              term,
-              storedFields: Record<string, string | string[]>
-            ) => {
-              const titles = (storedFields?.titles as string[])
-                .filter((t) => Boolean(t))
-                .map((t) => t.toLowerCase())
-              const titleIndex = titles
-                .map((t, i) => (t?.includes(term) ? i : -1))
-                .find((i) => i >= 0) ?? -1
-              if (titleIndex >= 0) return 10000 - titleIndex
-              return 1
-            }
-          }
-        },
-        _render(src, env, md) {
-          collectPageLinks(src, env.relativePath)
-          return md.render(src, env)
-        },
         detailedView: true
       },
       provider: 'local'
@@ -107,7 +84,6 @@ export const shared: UserConfig<DefaultTheme.Config> = {
       ]
     },
     plugins: [
-      urlSearchDevPlugin(),
       Devtools(),
       PageProperties(),
       PagePropertiesMarkdownSection(),

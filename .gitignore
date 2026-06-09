@@ -6,6 +6,8 @@ dev-dist
 *.log*
 .nitro
 .cache
+.meili
+data.ms
 .output
 .env
 dist

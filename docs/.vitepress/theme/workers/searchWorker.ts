@@ -1,12 +1,19 @@
-import MiniSearch, {
-  type Options,
-  type SearchOptions,
-  type SearchResult
-} from 'minisearch'
+import { Meilisearch } from 'meilisearch'
+import type {
+  MatchingStrategies,
+  SearchParams
+} from 'meilisearch'
 
-import type { PageLink, TabTarget } from '../../plugins/urlSearchPlugin'
+import type {
+  PageLink,
+  PageSearchDocument
+} from '../../plugins/urlSearchPlugin'
+import { toExactSearchText } from '../../utils/meiliSearchText'
 
 interface Result {
+  id: string
+  match: Record<string, string[]>
+  score?: number
   tabs?: string[]
   title: string
   titles: string[]
@@ -15,26 +22,9 @@ interface Result {
 
 type SearchMode = 'exact' | 'fuzzy' | 'url'
 
-type PlainRecord = Record<string, unknown>
-
-interface SearchConfig {
-  options?: PlainRecord
-  searchOptions?: PlainRecord
-  useDefaultBoostDocument?: boolean
-}
-
 interface PageGroupCount {
   key: string
   count: number
-}
-
-interface LoadIndexRequest {
-  type: 'load-index'
-  id: number
-  localeIndex: string
-  indexJson: unknown
-  indexVersion: number
-  config: SearchConfig
 }
 
 interface TextSearchRequest {
@@ -52,48 +42,44 @@ interface UrlSearchRequest {
   pageOrderEntries: [string, number][]
 }
 
-type SearchWorkerRequest =
-  | LoadIndexRequest
-  | TextSearchRequest
-  | UrlSearchRequest
+type SearchWorkerRequest = TextSearchRequest | UrlSearchRequest
 
-type WorkerSearchResult = SearchResult & Result
+type SearchablePageDocument = PageSearchDocument & {
+  _rankingScore?: number
+}
 
-let searchIndex: MiniSearch<Result> | null = null
-let searchIndexKey = ''
-let urlLinks: PageLink[] = []
-let urlLinkHrefsLower: string[] = []
-let urlLinksPromise: Promise<void> | null = null
-let tabTargetMap = new Map<string, string[]>()
-let tabTargetsPromise: Promise<void> | null = null
+type SearchablePageLink = PageLink & {
+  _rankingScore?: number
+}
+
+const env = import.meta.env as Record<string, string | undefined>
+const meiliHost = env.VITE_MEILI_HOST || 'http://127.0.0.1:7700'
+const meiliIndexPrefix = (env.VITE_MEILI_INDEX_PREFIX || 'wotaku')
+  .replace(/[^\dA-Za-z_-]/g, '_')
+
+const client = new Meilisearch({
+  host: meiliHost,
+  apiKey: env.VITE_MEILI_SEARCH_KEY
+})
+
+const indexes = {
+  docs: `${meiliIndexPrefix}_docs`,
+  links: `${meiliIndexPrefix}_links`
+}
+
+const exactSearchableAttributes = [
+  'exactTitle',
+  'exactTitles',
+  'exactText'
+]
+
+const fuzzySearchableAttributes = [
+  'fuzzyTitle',
+  'fuzzyTitles',
+  'fuzzyText'
+]
+
 let pageOrder = new Map<string, number>()
-let docOrder = new Map<string, number>()
-
-function defaultBoostDocument(
-  _: string,
-  term: string,
-  storedFields: Record<string, string | string[]>
-) {
-  const titles = ((storedFields?.titles as string[] | undefined) ?? [])
-    .filter((t) => Boolean(t))
-    .map((t) => t.toLowerCase())
-  const titleIndex = titles
-    .map((t, i) => (t?.includes(term) ? i : -1))
-    .find((i) => i >= 0) ?? -1
-  if (titleIndex >= 0) return 10000 - titleIndex
-  return 1
-}
-
-function stableStringify(value: unknown): string {
-  if (value === null || typeof value !== 'object') return JSON.stringify(value)
-  if (Array.isArray(value)) return `[${value.map(stableStringify).join(',')}]`
-  const object = value as Record<string, unknown>
-  return `{${
-    Object.keys(object).sort().map((key) =>
-      `${JSON.stringify(key)}:${stableStringify(object[key])}`
-    ).join(',')
-  }}`
-}
 
 function setPageOrder(entries: [string, number][]) {
   pageOrder = new Map(entries)
@@ -103,42 +89,20 @@ function getPageKey(id: string) {
   return id.split('#')[0].replace(/\/$/, '')
 }
 
-function getAnchorKey(pageId: string, anchor: string) {
-  return `${pageId.replace(/\/$/, '')}\x00${anchor}`
-}
-
-function getResultLocation(id: unknown) {
-  const value = String(id)
-  const hashIndex = value.indexOf('#')
-
-  return {
-    anchor: hashIndex >= 0 ? value.slice(hashIndex + 1) : '',
-    pageId: getPageKey(value)
-  }
-}
-
 function getPageOrder(key: string) {
   return pageOrder.get(key) ?? Number.MAX_SAFE_INTEGER
 }
 
-function getDocOrder(id: string) {
-  return docOrder.get(id) ?? Number.MAX_SAFE_INTEGER
-}
-
-function compareByPageAndDoc(a: { id: unknown }, b: { id: unknown }) {
-  const aId = String(a.id)
-  const bId = String(b.id)
-  const pageDiff = getPageOrder(getPageKey(aId)) - getPageOrder(getPageKey(bId))
+function compareByPageAndSection(
+  a: { id: string; pageId?: string; sectionOrder?: number },
+  b: { id: string; pageId?: string; sectionOrder?: number }
+) {
+  const aPage = (a.pageId || getPageKey(a.id)).replace(/\/$/, '')
+  const bPage = (b.pageId || getPageKey(b.id)).replace(/\/$/, '')
+  const pageDiff = getPageOrder(aPage) - getPageOrder(bPage)
   if (pageDiff !== 0) return pageDiff
-  return getDocOrder(aId) - getDocOrder(bId)
-}
-
-function stripMarkdown(value: string) {
-  return value
-    .replace(/`([^`]+)`/g, '$1')
-    .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')
-    .replace(/[*_~]/g, '')
-    .trim()
+  return (a.sectionOrder ?? Number.MAX_SAFE_INTEGER) -
+    (b.sectionOrder ?? Number.MAX_SAFE_INTEGER)
 }
 
 function getQueryTerms(query: string) {
@@ -149,223 +113,121 @@ function getQueryTerms(query: string) {
     .filter(Boolean)
 }
 
-function findMatchingLinkForResult(
-  result: WorkerSearchResult,
-  query: string
-) {
-  const pageId = getPageKey(String(result.id))
-  const anchor = String(result.id).split('#')[1] ?? ''
-  const terms = getQueryTerms(query)
-  if (!terms.length) return
-
-  return urlLinks.find((link) => {
-    if (link.pageId.replace(/\/$/, '') !== pageId || link.anchor !== anchor) {
-      return false
-    }
-
-    const linkText = stripMarkdown(link.linkText).toLowerCase()
-    return terms.every((term) => linkText.includes(term))
-  })
-}
-
-function withLinkPathTitles(
-  results: WorkerSearchResult[],
-  query: string
-) {
-  if (!urlLinks.length) return results
-
-  return results.map((result) => {
-    const link = findMatchingLinkForResult(result, query)
-    if (!link) return result
-
-    return {
-      ...result,
-      title: stripMarkdown(link.linkText),
-      titles: link.titles,
-      ...(link.tabs?.length ? { tabs: link.tabs } : {})
-    }
-  })
-}
-
-function getTabsForResult(result: WorkerSearchResult) {
-  if (result.tabs?.length) return result.tabs
-
-  const { pageId, anchor } = getResultLocation(result.id)
-  return tabTargetMap.get(getAnchorKey(pageId, anchor))
-}
-
-function withTabMetadata(results: WorkerSearchResult[]) {
-  if (!tabTargetMap.size) return results
-
-  return results.map((result) => {
-    const tabs = getTabsForResult(result)
-    return tabs?.length ? { ...result, tabs } : result
-  })
-}
-
-function rebuildDocOrder(index: MiniSearch<Result>) {
-  const map = new Map<string, number>()
-  const ids = (index as any)._documentIds
-  if (ids instanceof Map) {
-    let i = 0
-    for (const originalId of ids.values()) {
-      map.set(String(originalId), i++)
-    }
-  } else if (ids && typeof ids === 'object') {
-    const keys = Object.keys(ids)
-      .map(Number)
-      .sort((a, b) => a - b)
-    let i = 0
-    for (const key of keys) {
-      map.set(String(ids[key]), i++)
-    }
-  }
-  docOrder = map
-}
-
-async function loadSearchIndex(
-  localeIndex: string,
-  indexVersion: number,
-  indexJson: unknown,
-  config: SearchConfig
-) {
-  const key = `${localeIndex}\n${indexVersion}\n${stableStringify(config)}`
-  if (searchIndex && searchIndexKey === key) return
-
-  const searchOptions = {
-    boost: { title: 10, titles: 4, text: 1 },
-    ...(config.searchOptions ?? {}),
-    ...(config.useDefaultBoostDocument
-      ? { boostDocument: defaultBoostDocument }
-      : {})
-  } as SearchOptions
-
-  searchIndex = MiniSearch.loadJSON<Result>(
-    indexJson as any,
-    {
-      fields: ['title', 'titles', 'text'],
-      storeFields: ['title', 'titles'],
-      searchOptions,
-      ...(config.options ?? {})
-    } as Options<Result>
+function getMatchMap(query: string) {
+  return Object.fromEntries(
+    getQueryTerms(query).map((term) => [term, ['title', 'titles', 'text']])
   )
-  searchIndexKey = key
-  rebuildDocOrder(searchIndex)
+}
+
+function getSearchOptions(
+  limit: number,
+  attributesToSearchOn: string[],
+  matchingStrategy: MatchingStrategies = 'all'
+): SearchParams {
+  return {
+    attributesToRetrieve: [
+      'id',
+      'pageId',
+      'anchor',
+      'title',
+      'titles',
+      'tabs',
+      'sectionOrder'
+    ],
+    attributesToSearchOn,
+    limit,
+    matchingStrategy,
+    showMatchesPosition: true,
+    showRankingScore: true
+  }
 }
 
 async function textSearch(message: TextSearchRequest) {
   setPageOrder(message.pageOrderEntries)
-  if (!searchIndex) throw new Error('Search index has not been loaded')
 
-  const dynamicSearchOptions = {
-    fuzzy: message.mode === 'fuzzy' ? (0.3 as number | false) : false,
-    prefix: message.mode === 'fuzzy'
-      ? (term: string) => term.length > 3
-      : false,
-    maxFuzzy: message.mode === 'fuzzy' ? 1 : 0,
-    boost: { title: 10, titles: 4, text: 1 }
-  } as SearchOptions
+  const query = message.query.trim()
+  if (!query) return { results: [], terms: [] }
 
-  const ranked = searchIndex.search(
-    message.query,
-    dynamicSearchOptions
-  ) as WorkerSearchResult[]
+  const isFuzzy = message.mode === 'fuzzy'
+  const searchQuery = isFuzzy ? query : toExactSearchText(query)
+  if (!searchQuery) return { results: [], terms: [] }
 
-  const top = ranked.slice(0, 50)
-  const seen = new Set(top.map((r) => r.id))
-  const titleHits = ranked.filter(
-    (r) => !seen.has(r.id) && r.match && Object.keys(r.match).length > 0
+  const response = await client.index<SearchablePageDocument>(indexes.docs).search(
+    searchQuery,
+    getSearchOptions(
+      1000,
+      isFuzzy ? fuzzySearchableAttributes : exactSearchableAttributes
+    )
   )
-  const results = [...top, ...titleHits].sort(compareByPageAndDoc)
-  await ensureSearchMetadata()
-  const displayResults = withTabMetadata(
-    withLinkPathTitles(results, message.query)
-  )
-  const terms = new Set<string>()
-  for (const result of displayResults) {
-    for (const term in result.match) terms.add(term)
-  }
+
+  const match = getMatchMap(query)
+  const results: Result[] = response.hits
+    .map((hit) => ({
+      id: hit.id,
+      match,
+      score: hit._rankingScore,
+      title: hit.title,
+      titles: hit.titles ?? [],
+      ...(hit.tabs?.length ? { tabs: hit.tabs } : {})
+    }))
+    .sort(compareByPageAndSection)
 
   return {
-    results: displayResults,
-    terms: [...terms]
+    results,
+    terms: Object.keys(match)
   }
 }
 
-async function ensureUrlLinks() {
-  if (urlLinks.length > 0) return
-  if (urlLinksPromise) {
-    await urlLinksPromise
-    return
+function getLinkSearchOptions(): SearchParams {
+  return {
+    attributesToRetrieve: [
+      'objectID',
+      'id',
+      'href',
+      'hrefSearch',
+      'linkText',
+      'pageId',
+      'anchor',
+      'titles',
+      'tabs'
+    ],
+    attributesToSearchOn: ['href', 'hrefSearch', 'linkText', 'titles'],
+    limit: 10000,
+    matchingStrategy: 'all',
+    showRankingScore: true
   }
-
-  urlLinksPromise = fetch('/url-search-index.json')
-    .then((r) => r.json())
-    .then((data: PageLink[]) => {
-      data.sort((a, b) => getPageOrder(a.pageId) - getPageOrder(b.pageId))
-      urlLinks = data
-      urlLinkHrefsLower = data.map((link) => link.href.toLowerCase())
-    })
-    .catch(() => {
-      urlLinks = []
-      urlLinkHrefsLower = []
-    })
-    .finally(() => {
-      urlLinksPromise = null
-    })
-  await urlLinksPromise
-}
-
-async function ensureTabTargets() {
-  if (tabTargetMap.size > 0) return
-  if (tabTargetsPromise) {
-    await tabTargetsPromise
-    return
-  }
-
-  tabTargetsPromise = fetch('/tab-search-index.json')
-    .then((r) => r.json())
-    .then((data: TabTarget[]) => {
-      tabTargetMap = new Map(
-        data.map((target) => [
-          getAnchorKey(target.pageId, target.anchor),
-          target.tabs
-        ])
-      )
-    })
-    .catch(() => {
-      tabTargetMap = new Map()
-    })
-    .finally(() => {
-      tabTargetsPromise = null
-    })
-  await tabTargetsPromise
-}
-
-async function ensureSearchMetadata() {
-  await Promise.all([ensureUrlLinks(), ensureTabTargets()])
 }
 
 async function urlSearch(message: UrlSearchRequest) {
   setPageOrder(message.pageOrderEntries)
-  await ensureSearchMetadata()
 
-  const query = message.query.trim().toLowerCase()
+  const query = message.query.trim()
   if (!query) return { matches: [], pageGroups: [] }
 
-  const matches: PageLink[] = []
+  const response = await client.index<SearchablePageLink>(indexes.links).search(
+    query,
+    getLinkSearchOptions()
+  )
+
+  const matches = response.hits
+    .map((hit) => ({
+      objectID: hit.objectID,
+      id: hit.id,
+      href: hit.href,
+      hrefSearch: hit.hrefSearch,
+      linkText: hit.linkText,
+      pageId: hit.pageId,
+      anchor: hit.anchor,
+      titles: hit.titles ?? [],
+      ...(hit.tabs?.length ? { tabs: hit.tabs } : {})
+    }))
+    .sort((a, b) =>
+      getPageOrder(a.pageId.replace(/\/$/, '')) -
+        getPageOrder(b.pageId.replace(/\/$/, ''))
+    )
+
   const pageGroups = new Map<string, PageGroupCount>()
-  for (let i = 0; i < urlLinks.length; i++) {
-    if (!urlLinkHrefsLower[i].includes(query)) continue
-
-    const link = urlLinks[i]
-
-    if (link.tabs?.length) {
-      matches.push(link)
-    } else {
-      const tabs = tabTargetMap.get(getAnchorKey(link.pageId, link.anchor))
-      matches.push(tabs?.length ? { ...link, tabs } : link)
-    }
+  for (const link of matches) {
     const existing = pageGroups.get(link.pageId)
     if (existing) existing.count++
     else pageGroups.set(link.pageId, { key: link.pageId, count: 1 })
@@ -382,14 +244,7 @@ async function urlSearch(message: UrlSearchRequest) {
 self.onmessage = async (event: MessageEvent<SearchWorkerRequest>) => {
   const message = event.data
   try {
-    const payload = message.type === 'load-index'
-      ? await loadSearchIndex(
-        message.localeIndex,
-        message.indexVersion,
-        message.indexJson,
-        message.config
-      )
-      : message.type === 'text-search'
+    const payload = message.type === 'text-search'
       ? await textSearch(message)
       : await urlSearch(message)
     self.postMessage({

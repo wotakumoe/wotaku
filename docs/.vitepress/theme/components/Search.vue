@@ -1,5 +1,4 @@
 <script lang="ts" setup>
-import type { SearchResult } from 'minisearch'
 import { dataSymbol, type DefaultTheme, inBrowser, useRouter } from 'vitepress'
 import {
   computed,
@@ -31,9 +30,6 @@ import {
 } from '@vueuse/core'
 import { useFocusTrap } from '@vueuse/integrations/useFocusTrap'
 import { AnimatePresence, motion } from 'motion-v'
-
-// @ts-ignore
-import localSearchIndex from '@localSearchIndex'
 
 import {
   ArrowRight,
@@ -81,24 +77,13 @@ const resultsEl = shallowRef<HTMLElement>()
 
 /* Search */
 interface Result {
+  id: string
+  match: Record<string, string[]>
+  score?: number
   tabs?: string[]
   title: string
   titles: string[]
   text?: string
-}
-
-const searchIndexData = shallowRef(localSearchIndex)
-const searchIndexVersion = ref(0)
-
-// @ts-ignore
-if (import.meta.hot) {
-  // @ts-ignore
-  import.meta.hot.accept('@localSearchIndex', (m) => {
-    if (m) {
-      searchIndexData.value = m.default
-      searchIndexVersion.value++
-    }
-  })
 }
 
 const vitePressData = useData()
@@ -461,7 +446,7 @@ watchEffect(() => {
   }
 })
 
-const results: Ref<(SearchResult & Result)[]> = shallowRef([])
+const results: Ref<Result[]> = shallowRef([])
 
 const currentTerms = shallowRef(new Set<string>())
 
@@ -493,21 +478,13 @@ const pageMeta = (() => {
 type SearchMode = 'exact' | 'fuzzy' | 'url'
 
 interface TextSearchWorkerPayload {
-  results: (SearchResult & Result)[]
+  results: Result[]
   terms: string[]
 }
 
 interface UrlSearchWorkerPayload {
   matches: PageLink[]
   pageGroups: PageGroupCount[]
-}
-
-interface LoadIndexWorkerRequest {
-  type: 'load-index'
-  localeIndex: string
-  indexJson: unknown
-  indexVersion: number
-  config: ReturnType<typeof getMiniSearchWorkerConfig>
 }
 
 interface TextSearchWorkerRequest {
@@ -523,19 +500,12 @@ interface UrlSearchWorkerRequest {
   pageOrderEntries: [string, number][]
 }
 
-type SearchWorkerRequest =
-  | LoadIndexWorkerRequest
-  | TextSearchWorkerRequest
-  | UrlSearchWorkerRequest
+type SearchWorkerRequest = TextSearchWorkerRequest | UrlSearchWorkerRequest
 
 const activePageFilter = ref<string | null>(null)
 const searchWorkerReady = ref(false)
-const searchWorkerConfigKey = computed(() =>
-  JSON.stringify(getMiniSearchWorkerConfig())
-)
 let searchWorker: Worker | undefined
 let searchWorkerRequestId = 0
-let loadedWorkerIndexKey = ''
 const searchWorkerRequests = new Map<
   number,
   {
@@ -546,43 +516,6 @@ const searchWorkerRequests = new Map<
 
 function getPageOrderEntries(): [string, number][] {
   return [...pageMeta.entries()].map(([key, meta]) => [key, meta.order])
-}
-
-function stripNonCloneable(value: unknown): unknown {
-  if (typeof value === 'function' || typeof value === 'symbol') return undefined
-  if (!value || typeof value !== 'object') return value
-  if (Array.isArray(value)) {
-    return value
-      .map((item) => stripNonCloneable(item))
-      .filter((item) => item !== undefined)
-  }
-
-  const out: Record<string, unknown> = {}
-  for (const [key, nestedValue] of Object.entries(value)) {
-    const cloneable = stripNonCloneable(nestedValue)
-    if (cloneable !== undefined) out[key] = cloneable
-  }
-  return out
-}
-
-function getMiniSearchWorkerConfig() {
-  const miniSearch = theme.value.search?.provider === 'local'
-    ? theme.value.search.options?.miniSearch
-    : undefined
-  const rawSearchOptions = miniSearch?.searchOptions as
-    | Record<string, unknown>
-    | undefined
-
-  return {
-    options: stripNonCloneable(miniSearch?.options) as
-      | Record<string, unknown>
-      | undefined,
-    searchOptions: stripNonCloneable(rawSearchOptions) as
-      | Record<string, unknown>
-      | undefined,
-    useDefaultBoostDocument:
-      typeof rawSearchOptions?.boostDocument === 'function'
-  }
 }
 
 function ensureSearchWorker() {
@@ -645,7 +578,6 @@ onMounted(() => {
 onBeforeUnmount(() => {
   searchWorker?.terminate()
   searchWorker = undefined
-  loadedWorkerIndexKey = ''
   searchWorkerReady.value = false
   for (const request of searchWorkerRequests.values()) {
     request.reject(new Error('Search worker was terminated'))
@@ -1028,9 +960,6 @@ watchDebounced(
     [
       searchWorkerReady.value,
       showSearch.value,
-      localeIndex.value,
-      searchIndexVersion.value,
-      searchWorkerConfigKey.value,
       filterText.value,
       showDetailedList.value,
       searchMode.value
@@ -1039,26 +968,13 @@ watchDebounced(
     [
       ready,
       isOpen,
-      localeIndexValue,
-      indexVersion,
-      configKey,
       filterTextValue,
       showDetailedListValue,
       mode
     ],
-    old,
+    _old,
     onCleanup
   ) => {
-    if (
-      old?.[2] !== localeIndexValue ||
-      old?.[3] !== indexVersion ||
-      old?.[4] !== configKey
-    ) {
-      // Locale/config changes rebuild the worker index, so cached excerpts may no
-      // longer match the active result set.
-      cache.clear()
-    }
-
     let canceled = false
     onCleanup(() => {
       canceled = true
@@ -1084,23 +1000,6 @@ watchDebounced(
 
     let workerPayload: TextSearchWorkerPayload
     try {
-      const workerIndexKey =
-        `${localeIndexValue}\n${indexVersion}\n${configKey}`
-      if (loadedWorkerIndexKey !== workerIndexKey) {
-        const indexJson = (await searchIndexData.value[localeIndexValue]?.())
-          ?.default
-        if (canceled) return
-        await postSearchWorker<void>({
-          type: 'load-index',
-          localeIndex: localeIndexValue,
-          indexJson,
-          indexVersion,
-          config: getMiniSearchWorkerConfig()
-        })
-        if (canceled) return
-        loadedWorkerIndexKey = workerIndexKey
-      }
-
       workerPayload = await postSearchWorker<TextSearchWorkerPayload>({
         type: 'text-search',
         query: searchQuery,
@@ -1128,7 +1027,7 @@ watchDebounced(
       return
     }
 
-    const toRows = (list: (SearchResult & Result)[]) =>
+    const toRows = (list: Result[]) =>
       list.map((r) => {
         const id = getDocId(r.id)
         const anchor = getDocAnchor(r.id)
@@ -1448,7 +1347,7 @@ function buildResultHref(pageId: string, tabs?: string[], anchor = '') {
   return `${pageId}${query}${hash}`
 }
 
-function getSearchResultHref(item: SearchResult & Result) {
+function getSearchResultHref(item: Result) {
   const id = String(item.id)
   const hashIndex = id.indexOf('#')
   if (hashIndex < 0) return buildResultHref(id, item.tabs)
