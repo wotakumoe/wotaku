@@ -4,9 +4,10 @@ import MiniSearch, {
   type SearchResult
 } from 'minisearch'
 
-import type { PageLink } from '../../plugins/urlSearchPlugin'
+import type { PageLink, TabTarget } from '../../plugins/urlSearchPlugin'
 
 interface Result {
+  tabs?: string[]
   title: string
   titles: string[]
   text?: string
@@ -63,6 +64,8 @@ let searchIndexKey = ''
 let urlLinks: PageLink[] = []
 let urlLinkHrefsLower: string[] = []
 let urlLinksPromise: Promise<void> | null = null
+let tabTargetMap = new Map<string, string[]>()
+let tabTargetsPromise: Promise<void> | null = null
 let pageOrder = new Map<string, number>()
 let docOrder = new Map<string, number>()
 
@@ -98,6 +101,20 @@ function setPageOrder(entries: [string, number][]) {
 
 function getPageKey(id: string) {
   return id.split('#')[0].replace(/\/$/, '')
+}
+
+function getAnchorKey(pageId: string, anchor: string) {
+  return `${pageId.replace(/\/$/, '')}\x00${anchor}`
+}
+
+function getResultLocation(id: unknown) {
+  const value = String(id)
+  const hashIndex = value.indexOf('#')
+
+  return {
+    anchor: hashIndex >= 0 ? value.slice(hashIndex + 1) : '',
+    pageId: getPageKey(value)
+  }
 }
 
 function getPageOrder(key: string) {
@@ -164,8 +181,25 @@ function withLinkPathTitles(
     return {
       ...result,
       title: stripMarkdown(link.linkText),
-      titles: link.titles
+      titles: link.titles,
+      ...(link.tabs?.length ? { tabs: link.tabs } : {})
     }
+  })
+}
+
+function getTabsForResult(result: WorkerSearchResult) {
+  if (result.tabs?.length) return result.tabs
+
+  const { pageId, anchor } = getResultLocation(result.id)
+  return tabTargetMap.get(getAnchorKey(pageId, anchor))
+}
+
+function withTabMetadata(results: WorkerSearchResult[]) {
+  if (!tabTargetMap.size) return results
+
+  return results.map((result) => {
+    const tabs = getTabsForResult(result)
+    return tabs?.length ? { ...result, tabs } : result
   })
 }
 
@@ -243,8 +277,10 @@ async function textSearch(message: TextSearchRequest) {
     (r) => !seen.has(r.id) && r.match && Object.keys(r.match).length > 0
   )
   const results = [...top, ...titleHits].sort(compareByPageAndDoc)
-  await ensureUrlLinks()
-  const displayResults = withLinkPathTitles(results, message.query)
+  await ensureSearchMetadata()
+  const displayResults = withTabMetadata(
+    withLinkPathTitles(results, message.query)
+  )
   const terms = new Set<string>()
   for (const result of displayResults) {
     for (const term in result.match) terms.add(term)
@@ -280,9 +316,39 @@ async function ensureUrlLinks() {
   await urlLinksPromise
 }
 
+async function ensureTabTargets() {
+  if (tabTargetMap.size > 0) return
+  if (tabTargetsPromise) {
+    await tabTargetsPromise
+    return
+  }
+
+  tabTargetsPromise = fetch('/tab-search-index.json')
+    .then((r) => r.json())
+    .then((data: TabTarget[]) => {
+      tabTargetMap = new Map(
+        data.map((target) => [
+          getAnchorKey(target.pageId, target.anchor),
+          target.tabs
+        ])
+      )
+    })
+    .catch(() => {
+      tabTargetMap = new Map()
+    })
+    .finally(() => {
+      tabTargetsPromise = null
+    })
+  await tabTargetsPromise
+}
+
+async function ensureSearchMetadata() {
+  await Promise.all([ensureUrlLinks(), ensureTabTargets()])
+}
+
 async function urlSearch(message: UrlSearchRequest) {
   setPageOrder(message.pageOrderEntries)
-  await ensureUrlLinks()
+  await ensureSearchMetadata()
 
   const query = message.query.trim().toLowerCase()
   if (!query) return { matches: [], pageGroups: [] }
@@ -294,7 +360,12 @@ async function urlSearch(message: UrlSearchRequest) {
 
     const link = urlLinks[i]
 
-    matches.push(link)
+    if (link.tabs?.length) {
+      matches.push(link)
+    } else {
+      const tabs = tabTargetMap.get(getAnchorKey(link.pageId, link.anchor))
+      matches.push(tabs?.length ? { ...link, tabs } : link)
+    }
     const existing = pageGroups.get(link.pageId)
     if (existing) existing.count++
     else pageGroups.set(link.pageId, { key: link.pageId, count: 1 })

@@ -48,13 +48,13 @@ import {
   TextAlignStart
 } from 'lucide-vue-next'
 import Mark from 'mark.js/dist/mark.es6.js'
-import { enhanceAppWithTabs } from 'vitepress-plugin-tabs/client'
 import { sidebar } from '../../configs/constants'
 import type { PageLink } from '../../plugins/urlSearchPlugin'
 import { LRUCache } from '../composables/search/lru-cache'
 import { createSearchTranslate } from '../composables/search/translation'
 import { useData } from '../composables/search/use-data'
 import { LowEndDeviceModeStorageKey } from '../constants'
+import { enhanceAppWithTabs } from './tabs'
 
 export interface FooterTranslations {
   selectText?: string
@@ -81,6 +81,7 @@ const resultsEl = shallowRef<HTMLElement>()
 
 /* Search */
 interface Result {
+  tabs?: string[]
   title: string
   titles: string[]
   text?: string
@@ -280,6 +281,7 @@ const urlMatches = shallowRef<PageLink[]>([])
 const urlPageGroupCounts = shallowRef<PageGroupCount[]>([])
 
 interface UrlResult {
+  tabs?: string[]
   href: string
   linkText: string
   pageId: string
@@ -340,6 +342,7 @@ const filteredUrlResults = computed((): UrlResult[] => {
       pageId: link.pageId,
       anchor: link.anchor,
       titles: link.titles,
+      tabs: link.tabs,
       highlighted: highlightUrl(link.href, query)
     })
   }
@@ -969,7 +972,7 @@ function buildDocExcerpt(
     const map = new Map<string, string>()
     const app = createApp(comp)
     app.config.warnHandler = () => {}
-    enhanceAppWithTabs(app)
+    enhanceAppWithTabs(app, { renderAll: true })
     app.provide(dataSymbol, vitePressData)
     Object.defineProperties(app.config.globalProperties, {
       $frontmatter: {
@@ -986,7 +989,6 @@ function buildDocExcerpt(
     const div = document.createElement('div')
     try {
       app.mount(div)
-      await selectExcerptTabs(div, filterTextValue)
       const headings = div.querySelectorAll('h1, h2, h3, h4, h5, h6')
       headings.forEach((heading) => {
         const href = heading.querySelector('a')?.getAttribute('href')
@@ -1298,13 +1300,6 @@ async function fetchExcerpt(id: string) {
 const nextFrame = () =>
   new Promise<void>((resolve) => requestAnimationFrame(() => resolve()))
 
-const getSearchTerms = (query: string) =>
-  query
-    .toLowerCase()
-    .split(/\s+/)
-    .map((term) => term.trim())
-    .filter(Boolean)
-
 function hasExcerptPreview(html?: string) {
   if (!html) return false
   return Boolean(
@@ -1314,48 +1309,6 @@ function hasExcerptPreview(html?: string) {
       .replace(/\s+/g, ' ')
       .trim()
   )
-}
-
-async function selectExcerptTabs(root: HTMLElement, query: string) {
-  const terms = getSearchTerms(query)
-  if (!terms.length) return
-
-  const tabs = root.querySelectorAll<HTMLElement>('.plugin-tabs')
-
-  for (let i = 0; i < tabs.length; i++) {
-    const tab = tabs[i]
-    const selectedTab = tab.querySelector<HTMLButtonElement>(
-      '.plugin-tabs--tab[aria-selected="true"]'
-    )
-    const buttons = tab.querySelectorAll<HTMLButtonElement>(
-      '.plugin-tabs--tab[role="tab"]'
-    )
-
-    let found = false
-
-    for (let j = 0; j < buttons.length; j++) {
-      const button = buttons[j]
-      button.click()
-      await nextTick()
-      await nextFrame()
-
-      const panelId = button.getAttribute('aria-controls')
-      const panel = panelId
-        ? root.querySelector<HTMLElement>(`#${CSS.escape(panelId)}`)
-        : tab.querySelector<HTMLElement>('.plugin-tabs--content')
-      const text = panel?.textContent?.toLowerCase() ?? ''
-
-      if (terms.every((term) => text.includes(term))) {
-        found = true
-        break
-      }
-    }
-
-    if (!found) {
-      selectedTab?.click()
-      await nextTick()
-    }
-  }
 }
 
 /* Search input focus */
@@ -1487,12 +1440,31 @@ onKeyStroke('Tab', (event) => {
 
 const router = useRouter()
 
+function buildResultHref(pageId: string, tabs?: string[], anchor = '') {
+  const query = tabs?.length
+    ? `?tabs=${tabs.map((tab) => encodeURIComponent(tab)).join(',')}`
+    : ''
+  const hash = anchor ? `#${encodeURIComponent(anchor)}` : ''
+  return `${pageId}${query}${hash}`
+}
+
+function getSearchResultHref(item: SearchResult & Result) {
+  const id = String(item.id)
+  const hashIndex = id.indexOf('#')
+  if (hashIndex < 0) return buildResultHref(id, item.tabs)
+
+  return buildResultHref(
+    id.slice(0, hashIndex),
+    item.tabs,
+    id.slice(hashIndex + 1)
+  )
+}
+
 function navigateToUrlResult(item: UrlResult) {
   window.dispatchEvent(
     new CustomEvent('search-nav', { detail: { query: filterText.value } })
   )
-  const dest = item.anchor ? item.pageId + '#' + item.anchor : item.pageId
-  router.go(dest)
+  router.go(buildResultHref(item.pageId, item.tabs, item.anchor))
   showSearch.value = false
 }
 
@@ -1533,7 +1505,7 @@ onKeyStroke('Enter', (e) => {
         detail: { query: filterText.value }
       })
     )
-    router.go(selectedPackage.id)
+    router.go(getSearchResultHref(selectedPackage))
     showSearch.value = false
   }
 })
@@ -1992,7 +1964,7 @@ function onMouseMove(e: MouseEvent) {
                   v-bind="resultMotion(index)"
                 >
                   <a
-                    :href="p.id"
+                    :href="getSearchResultHref(p)"
                     class="result"
                     :class="{
                       selected: selectedIndex === index + 1

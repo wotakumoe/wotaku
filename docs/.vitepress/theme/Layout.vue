@@ -66,7 +66,6 @@ if (!import.meta.env.SSR) {
         typeof event.detail?.query === 'string'
       ? event.detail.query
       : ''
-    tryOpenCollapsibles()
   })
 }
 
@@ -103,50 +102,138 @@ const getScrollTargetForAnchor = (target: HTMLElement) => {
   return target
 }
 
-const getHeadingAnchor = (heading: HTMLElement) => {
-  const href = heading.querySelector<HTMLAnchorElement>('a[href^="#"]')
-    ?.getAttribute('href')
+const TAB_QUERY_PARAM = 'tabs'
 
-  if (href?.startsWith('#') && href.length > 1) return href.slice(1)
-
-  return heading.id || undefined
-}
-
-const getSelectedTabHeadingAnchor = (tabs: HTMLElement) => {
-  const selectedTab = tabs.querySelector<HTMLButtonElement>(
-    '.plugin-tabs--tab[aria-selected="true"]'
+const getRequestedTabPath = () => {
+  const value = new URLSearchParams(window.location.search).get(
+    TAB_QUERY_PARAM
   )
-  const panelId = selectedTab?.getAttribute('aria-controls')
-  const panel = panelId
-    ? document.getElementById(panelId)
-    : tabs.querySelector<HTMLElement>('.plugin-tabs--content')
-  const heading = panel?.querySelector<HTMLElement>('.tab-search-heading')
-
-  return heading ? getHeadingAnchor(heading) : undefined
+  return value
+    ?.split(',')
+    .map((tab) => tab.trim())
+    .filter(Boolean) ?? []
 }
 
-const updateHashForSelectedTab = async (tabs: HTMLElement) => {
+const buildUrlWithTabs = (tabs: string[], hash = '') => {
+  const params = new URLSearchParams(window.location.search)
+  params.delete(TAB_QUERY_PARAM)
+
+  const queryParts = [
+    params.toString(),
+    tabs.length
+      ? `${TAB_QUERY_PARAM}=${
+        tabs.map((tab) => encodeURIComponent(tab)).join(',')
+      }`
+      : ''
+  ].filter(Boolean)
+
+  return `${window.location.pathname}${
+    queryParts.length ? `?${queryParts.join('&')}` : ''
+  }${hash ? `#${encodeURIComponent(hash)}` : ''}`
+}
+
+const getSelectedTabAnchor = (tabs: HTMLElement) =>
+  tabs.querySelector<HTMLButtonElement>(
+    '.plugin-tabs--tab[aria-selected="true"][data-tab-anchor]'
+  )?.dataset.tabAnchor
+
+const getPanelForTabButton = (button: HTMLButtonElement) => {
+  const panelId = button.getAttribute('aria-controls')
+  return panelId ? document.getElementById(panelId) : undefined
+}
+
+const getTabPathForGroup = (tabs: HTMLElement) => {
+  const groups: HTMLElement[] = []
+  let currentTabs: HTMLElement | null = tabs
+
+  while (currentTabs) {
+    groups.unshift(currentTabs)
+    const parentPanel = currentTabs.parentElement?.closest<HTMLElement>(
+      '.plugin-tabs--content[data-tab-anchor]'
+    )
+    currentTabs = parentPanel?.closest<HTMLElement>('.plugin-tabs') ?? null
+  }
+
+  return groups
+    .map((group) => getSelectedTabAnchor(group))
+    .filter((tab): tab is string => Boolean(tab))
+}
+
+const updateQueryForSelectedTab = async (tabs: HTMLElement) => {
   await nextTick()
   await nextFrame()
 
-  const anchor = getSelectedTabHeadingAnchor(tabs)
-  if (!anchor || window.location.hash.slice(1) === anchor) return
+  const tabPath = getTabPathForGroup(tabs)
+  if (!tabPath.length) return
 
-  window.history.pushState(
-    null,
-    '',
-    `${window.location.pathname}${window.location.search}#${anchor}`
-  )
+  const nextUrl = buildUrlWithTabs(tabPath)
+  const currentUrl =
+    `${window.location.pathname}${window.location.search}${window.location.hash}`
+  if (nextUrl === currentUrl) return
+
+  window.history.pushState(null, '', nextUrl)
 }
 
-const queueHashUpdateForTabSelection = (target: EventTarget | null) => {
+const queueTabQueryUpdateForSelection = (target: EventTarget | null) => {
   if (!(target instanceof HTMLElement)) return
 
   const button = target.closest<HTMLButtonElement>(
     '.plugin-tabs--tab[role="tab"]'
   )
   const tabs = button?.closest<HTMLElement>('.plugin-tabs')
-  if (tabs) void updateHashForSelectedTab(tabs)
+  if (tabs) void updateQueryForSelectedTab(tabs)
+}
+
+const selectTabsByPath = async (tabPath: string[]) => {
+  let root: ParentNode = document
+  let selectedTabs: HTMLElement | undefined
+
+  for (const anchor of tabPath) {
+    const button = root.querySelector<HTMLButtonElement>(
+      `.plugin-tabs--tab[role="tab"][data-tab-anchor="${CSS.escape(anchor)}"]`
+    )
+    if (!button) return selectedTabs
+
+    const tabs = button.closest<HTMLElement>('.plugin-tabs')
+    if (!tabs) return selectedTabs
+
+    selectedTabs = tabs
+    if (button.getAttribute('aria-selected') !== 'true') {
+      button.click()
+      await nextTick()
+      await nextFrame()
+    }
+
+    root = getPanelForTabButton(button) ?? tabs
+  }
+
+  return selectedTabs
+}
+
+const selectLegacyTabHash = async (hash: string) => {
+  const button = document.querySelector<HTMLButtonElement>(
+    `.plugin-tabs--tab[role="tab"][data-tab-anchor="${CSS.escape(hash)}"]`
+  )
+  if (!button) return
+
+  if (button.getAttribute('aria-selected') !== 'true') {
+    button.click()
+    await nextTick()
+    await nextFrame()
+  }
+
+  const tabs = button.closest<HTMLElement>('.plugin-tabs')
+  if (tabs) {
+    window.history.replaceState(null, '', buildUrlWithTabs([hash]))
+  }
+  return tabs
+}
+
+const getSelectedTabScrollTarget = (tabs: HTMLElement) => {
+  const selectedTab = tabs.querySelector<HTMLButtonElement>(
+    '.plugin-tabs--tab[aria-selected="true"]'
+  )
+  return selectedTab ? getPanelForTabButton(selectedTab) ?? tabs : tabs
 }
 
 const scrollToElement = (target: HTMLElement, smooth = true) => {
@@ -167,102 +254,8 @@ const scrollToElement = (target: HTMLElement, smooth = true) => {
   })
 }
 
-const selectTabContainingAnchor = async (hash: string) => {
-  const tabsList = document.querySelectorAll<HTMLElement>('.plugin-tabs')
-
-  for (let i = 0, len = tabsList.length; i < len; i++) {
-    const tabs = tabsList[i]
-    const selectedTab = tabs.querySelector<HTMLButtonElement>(
-      '.plugin-tabs--tab[aria-selected="true"]'
-    )
-    const buttons = tabs.querySelectorAll<HTMLButtonElement>(
-      '.plugin-tabs--tab[role="tab"]'
-    )
-
-    for (let j = 0, buttonsLen = buttons.length; j < buttonsLen; j++) {
-      buttons[j].click()
-      await nextTick()
-      await nextFrame()
-
-      const target = getTargetByHash(hash)
-      if (target) return target
-    }
-
-    selectedTab?.click()
-    await nextTick()
-  }
-}
-
-const getTabsInSearchScope = (target: HTMLElement) => {
-  const tabs = new Set<HTMLElement>()
-  const closestTabs = target.closest<HTMLElement>('.plugin-tabs')
-  if (closestTabs) tabs.add(closestTabs)
-
-  const tagName = target.tagName
-  if (tagName.length === 2 && tagName[0] === 'H') {
-    const level = +tagName[1]
-    if (level >= 1 && level <= 6) {
-      let sibling = target.nextElementSibling
-
-      while (sibling) {
-        const siblingTag = sibling.tagName
-        if (
-          siblingTag.length === 2 && siblingTag[0] === 'H' &&
-          +siblingTag[1] <= level
-        ) break
-
-        if (sibling.matches('.plugin-tabs')) tabs.add(sibling as HTMLElement)
-        sibling.querySelectorAll<HTMLElement>('.plugin-tabs').forEach((tab) => {
-          tabs.add(tab)
-        })
-
-        sibling = sibling.nextElementSibling
-      }
-    }
-  }
-
-  return [...tabs]
-}
-
-const selectTabContainingQuery = async (target: HTMLElement, query: string) => {
-  const terms = getSearchTerms(query)
-  if (!terms.length) return
-
-  for (const tabs of getTabsInSearchScope(target)) {
-    const selectedTab = tabs.querySelector<HTMLButtonElement>(
-      '.plugin-tabs--tab[aria-selected="true"]'
-    )
-    const buttons = tabs.querySelectorAll<HTMLButtonElement>(
-      '.plugin-tabs--tab[role="tab"]'
-    )
-
-    for (let i = 0, len = buttons.length; i < len; i++) {
-      const button = buttons[i]
-      button.click()
-      await nextTick()
-      await nextFrame()
-
-      const panelId = button.getAttribute('aria-controls')
-      const panel = panelId
-        ? document.getElementById(panelId)
-        : tabs.querySelector<HTMLElement>('.plugin-tabs--content')
-      const text = panel?.textContent?.toLowerCase() ?? ''
-
-      if (terms.every((term) => text.includes(term))) return
-    }
-
-    selectedTab?.click()
-    await nextTick()
-  }
-}
-
 const openCollapsibles = async (target: HTMLElement) => {
-  await selectTabContainingQuery(target, searchQuery)
-  await nextTick()
-  await nextFrame()
-
-  const hashTarget = getTargetByHash(window.location.hash.slice(1))
-  const activeTarget = hashTarget ?? target
+  const activeTarget = target
   let scrollTarget = getScrollTargetForAnchor(activeTarget)
   let el: HTMLElement | null = activeTarget
 
@@ -329,18 +322,29 @@ const tryOpenAnchoredContent = async () => {
   await nextTick()
   await nextFrame()
 
+  const requestedTabs = getRequestedTabPath()
+  const selectedTabs = requestedTabs.length
+    ? await selectTabsByPath(requestedTabs)
+    : undefined
   const hash = window.location.hash.slice(1)
+
   if (!hash) {
     resetSearchNavigation()
+    if (selectedTabs) {
+      scrollToElement(getSelectedTabScrollTarget(selectedTabs), false)
+    }
     return
   }
 
   let target = getTargetByHash(hash)
-  let selectedTabForHash = false
 
-  if (!target) {
-    target = await selectTabContainingAnchor(hash)
-    selectedTabForHash = Boolean(target)
+  if (!target && !requestedTabs.length) {
+    const legacyTabs = await selectLegacyTabHash(hash)
+    if (legacyTabs) {
+      resetSearchNavigation()
+      scrollToElement(getSelectedTabScrollTarget(legacyTabs), false)
+      return
+    }
   }
 
   if (!target) {
@@ -355,7 +359,20 @@ const tryOpenAnchoredContent = async () => {
   }
 
   if (
-    selectedTabForHash ||
+    !requestedTabs.length && target.classList.contains('tab-search-heading')
+  ) {
+    const tabs = target.closest<HTMLElement>('.plugin-tabs')
+    if (tabs) {
+      window.history.replaceState(
+        null,
+        '',
+        buildUrlWithTabs(getTabPathForGroup(tabs))
+      )
+    }
+  }
+
+  if (
+    selectedTabs ||
     target.classList.contains('tab-search-heading')
   ) {
     scrollToElement(getScrollTargetForAnchor(target), false)
@@ -364,6 +381,7 @@ const tryOpenAnchoredContent = async () => {
 
 onMounted(tryOpenAnchoredContent)
 watch(() => route.data, tryOpenAnchoredContent, { flush: 'post' })
+watch(() => route.query, tryOpenAnchoredContent, { flush: 'post' })
 watch(() => route.hash, tryOpenAnchoredContent, { flush: 'post' })
 
 function onSidebarEnter() {
@@ -559,7 +577,7 @@ onMounted(() => {
 
   useEventListener(document, 'click', (e: MouseEvent) => {
     if (!e.isTrusted) return
-    queueHashUpdateForTabSelection(e.target)
+    queueTabQueryUpdateForSelection(e.target)
   })
 
   useEventListener(document, 'keydown', (e: KeyboardEvent) => {
@@ -567,7 +585,7 @@ onMounted(() => {
       return
     }
 
-    queueHashUpdateForTabSelection(e.target)
+    queueTabQueryUpdateForSelection(e.target)
   })
 
   onUnmounted(() => {

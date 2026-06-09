@@ -14,13 +14,18 @@ import { imgLazyload } from '@mdit/plugin-img-lazyload'
 import { imgSize } from '@mdit/plugin-img-size'
 import MdReg from 'markdown-it-regexp'
 import type { MarkdownRenderer } from 'vitepress'
-import { tabsMarkdownPlugin } from 'vitepress-plugin-tabs'
+import {
+  getTabAnchor,
+  getTabHeadingAnchor,
+  parseTabLabel
+} from '../../utils/tabAnchors'
 import { getTooltip } from '../../utils/tooltips'
 import { headersPlugin } from '../markdown/headers'
 import { emojiRender } from './emoji'
 import { nestedContainersPlugin } from './nestedContainers'
 import { scrapeTablePlugin } from './scrapeTablePlugin'
 import markdownSteps from './steps'
+import { tabsMarkdownPlugin } from './tabs'
 
 export function configureMarkdown(md: MarkdownRenderer) {
   md.use(emojiRender)
@@ -142,6 +147,7 @@ function injectSearchHeadings(src: string) {
   const containerStack: string[] = []
   const headingStack: (SearchHeading | undefined)[] = []
   const tabResetStack: (SearchHeading | undefined)[] = []
+  const tabAnchorCounts = new Map<string, number>()
   const getCurrentHeading = () => {
     for (let i = headingStack.length - 1; i >= 0; i--) {
       if (headingStack[i]) return headingStack[i]
@@ -200,14 +206,17 @@ function injectSearchHeadings(src: string) {
     const tabMatch = lines[i].match(/^(\s*)==\s+(.+)$/)
     if (tabMatch && containerStack.includes('tabs')) {
       const [, indent, title] = tabMatch
-      const headingTitle = title.trim()
+      const parsed = parseTabLabel(title)
+      const headingTitle = parsed.label
       if (!headingTitle) continue
+      const anchor = getTabAnchor(title, tabAnchorCounts)
+      const headingAnchor = getTabHeadingAnchor(anchor)
 
       lines.splice(
         i + 1,
         0,
         '',
-        `${indent}### ${headingTitle} {.tab-search-heading .ignore-header}`,
+        `${indent}### ${headingTitle} {#${headingAnchor} .tab-search-heading .ignore-header}`,
         ''
       )
       i += 3

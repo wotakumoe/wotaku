@@ -119,9 +119,6 @@ importers:
       vitepress:
         specifier: 2.0.0-alpha.12
         version: 2.0.0-alpha.12(@types/node@22.19.0)(change-case@5.4.4)(esbuild@0.25.12)(jiti@2.6.1)(less@4.4.2)(oxc-minify@0.96.0)(postcss@8.5.6)(sass@1.93.3)(terser@5.44.1)(typescript@5.6.3)
-      vitepress-plugin-tabs:
-        specifier: ^0.7.3
-        version: 0.7.3(vitepress@2.0.0-alpha.12(@types/node@22.19.0)(change-case@5.4.4)(esbuild@0.25.12)(jiti@2.6.1)(less@4.4.2)(oxc-minify@0.96.0)(postcss@8.5.6)(sass@1.93.3)(terser@5.44.1)(typescript@5.6.3))(vue@3.5.24(typescript@5.6.3))
       vue:
         specifier: ^3.5.24
         version: 3.5.24(typescript@5.6.3)
@@ -3582,12 +3579,6 @@ packages:
       yaml:
         optional: true
 
-  vitepress-plugin-tabs@0.7.3:
-    resolution: {integrity: sha512-CkUz49UrTLcVOszuiHIA7ZBvfsg9RluRkFjRG1KvCg/NwuOTLZwcBRv7vBB3vMlDp0bWXIFOIwdI7bE93cV3Hw==}
-    peerDependencies:
-      vitepress: ^1.0.0
-      vue: ^3.5.0
-
   vitepress@2.0.0-alpha.12:
     resolution: {integrity: sha512-yZwCwRRepcpN5QeAhwSnEJxS3I6zJcVixqL1dnm6km4cnriLpQyy2sXQDsE5Ti3pxGPbhU51nTMwI+XC1KNnJg==}
     hasBin: true
@@ -3602,9 +3593,6 @@ packages:
         optional: true
       postcss:
         optional: true
-
-  vscode-uri@3.1.0:
-    resolution: {integrity: sha512-/BpdSx+yCQGnCvecbyXdxHDkuk55/G3xwnC0GqY4gmQ3j+A+g8kzzgB4Nk/SINjqn6+waqw3EgbVF2QKExkRxQ==}
 
   vue-demi@0.14.10:
     resolution: {integrity: sha512-nMZBOwuzabUO0nLgIcc6rycZEebF6eeUfaiQx9+WSk8e29IbLvPU9feI6tqW4kTo3hvoYAJkMh8n8D0fuISphg==}
@@ -7073,11 +7061,6 @@ snapshots:
       sass: 1.93.3
       terser: 5.44.1
 
-  vitepress-plugin-tabs@0.7.3(vitepress@2.0.0-alpha.12(@types/node@22.19.0)(change-case@5.4.4)(esbuild@0.25.12)(jiti@2.6.1)(less@4.4.2)(oxc-minify@0.96.0)(postcss@8.5.6)(sass@1.93.3)(terser@5.44.1)(typescript@5.6.3))(vue@3.5.24(typescript@5.6.3)):
-    dependencies:
-      vitepress: 2.0.0-alpha.12(@types/node@22.19.0)(change-case@5.4.4)(esbuild@0.25.12)(jiti@2.6.1)(less@4.4.2)(oxc-minify@0.96.0)(postcss@8.5.6)(sass@1.93.3)(terser@5.44.1)(typescript@5.6.3)
-      vue: 3.5.24(typescript@5.6.3)
-
   vitepress@2.0.0-alpha.12(@types/node@22.19.0)(change-case@5.4.4)(esbuild@0.25.12)(jiti@2.6.1)(less@4.4.2)(oxc-minify@0.96.0)(postcss@8.5.6)(sass@1.93.3)(terser@5.44.1)(typescript@5.6.3):
     dependencies:
       '@docsearch/css': 4.3.1
@@ -7125,8 +7108,6 @@ snapshots:
       - typescript
       - universal-cookie
       - yaml
-
-  vscode-uri@3.1.0: {}
 
   vue-demi@0.14.10(vue@3.5.24(typescript@5.6.3)):
     dependencies:

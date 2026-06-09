@@ -1649,6 +1649,99 @@ html.reduce-blur-effects {
   border-top: none !important;
 }
 
+:root {
+  --vp-plugin-tabs-tab-text-color: var(--vp-c-text-2);
+  --vp-plugin-tabs-tab-active-text-color: var(--vp-c-text-1);
+  --vp-plugin-tabs-tab-hover-text-color: var(--vp-c-text-1);
+  --vp-plugin-tabs-tab-bg: var(--vp-c-bg-soft);
+  --vp-plugin-tabs-tab-divider: var(--vp-c-divider);
+  --vp-plugin-tabs-tab-active-bar-color: var(--vp-c-brand-1);
+}
+
+.plugin-tabs {
+  margin: 16px 0;
+  background-color: var(--vp-plugin-tabs-tab-bg);
+  border-radius: 8px;
+}
+
+.plugin-tabs--tab-list {
+  position: relative;
+  padding: 0 12px;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.plugin-tabs--tab-list::after {
+  content: "";
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 2px;
+  background-color: var(--vp-plugin-tabs-tab-divider);
+}
+
+.plugin-tabs--tab {
+  position: relative;
+  padding: 0 12px;
+  border-bottom: 2px solid transparent;
+  color: var(--vp-plugin-tabs-tab-text-color);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 48px;
+  white-space: nowrap;
+  transition: color 0.25s;
+}
+
+.plugin-tabs--tab[aria-selected="true"] {
+  color: var(--vp-plugin-tabs-tab-active-text-color);
+}
+
+.plugin-tabs--tab:hover {
+  color: var(--vp-plugin-tabs-tab-hover-text-color);
+}
+
+.plugin-tabs--tab::after {
+  content: "";
+  position: absolute;
+  z-index: 1;
+  right: 8px;
+  bottom: -2px;
+  left: 8px;
+  height: 2px;
+  background-color: transparent;
+  transition: background-color 0.25s;
+}
+
+.plugin-tabs--tab[aria-selected="true"]::after {
+  background-color: var(--vp-plugin-tabs-tab-active-bar-color);
+}
+
+.plugin-tabs--content {
+  padding: 16px;
+}
+
+.plugin-tabs--content[data-is-print="true"]:not(:last-child) {
+  border-bottom: 2px solid var(--vp-plugin-tabs-tab-divider);
+}
+
+.plugin-tabs--content > :first-child:first-child {
+  margin-top: 0;
+}
+
+.plugin-tabs--content > :last-child:last-child {
+  margin-bottom: 0;
+}
+
+.plugin-tabs--content > div[class*="language-"] {
+  margin: 16px 0;
+  border-radius: 8px;
+}
+
+:root:not(.dark) .plugin-tabs--content div[class*="language-"] {
+  background-color: var(--vp-c-bg);
+}
+
 .vp-doc .collapsible-search-heading,
 .vp-doc .tab-search-heading {
   position: absolute;
