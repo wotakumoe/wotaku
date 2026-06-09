@@ -257,8 +257,14 @@ const selectTabContainingQuery = async (target: HTMLElement, query: string) => {
 }
 
 const openCollapsibles = async (target: HTMLElement) => {
-  let scrollTarget = getScrollTargetForAnchor(target)
-  let el: HTMLElement | null = target
+  await selectTabContainingQuery(target, searchQuery)
+  await nextTick()
+  await nextFrame()
+
+  const hashTarget = getTargetByHash(window.location.hash.slice(1))
+  const activeTarget = hashTarget ?? target
+  let scrollTarget = getScrollTargetForAnchor(activeTarget)
+  let el: HTMLElement | null = activeTarget
 
   while ((el = el.closest('details'))) {
     el.open = true
@@ -266,7 +272,7 @@ const openCollapsibles = async (target: HTMLElement) => {
     el = el.parentElement
   }
 
-  const tagName = target.tagName
+  const tagName = activeTarget.tagName
   if (tagName.length === 2 && tagName[0] === 'H') {
     const level = +tagName[1]
     if (level >= 1 && level <= 6) {
@@ -277,7 +283,7 @@ const openCollapsibles = async (target: HTMLElement) => {
         return terms.every((term) => text.includes(term))
       }
 
-      let sibling = target.nextElementSibling
+      let sibling = activeTarget.nextElementSibling
 
       while (sibling) {
         const siblingTag = sibling.tagName
@@ -289,7 +295,9 @@ const openCollapsibles = async (target: HTMLElement) => {
         if (siblingTag === 'DETAILS') {
           if (detailsContainsTerms(sibling as HTMLElement)) {
             ;(sibling as HTMLDetailsElement).open = true
-            if (scrollTarget === target) scrollTarget = sibling as HTMLElement
+            if (scrollTarget === activeTarget) {
+              scrollTarget = sibling as HTMLElement
+            }
           }
         }
 
@@ -297,7 +305,7 @@ const openCollapsibles = async (target: HTMLElement) => {
         for (let i = 0, len = nested.length; i < len; i++) {
           if (detailsContainsTerms(nested[i])) {
             nested[i].open = true
-            if (scrollTarget === target) scrollTarget = nested[i]
+            if (scrollTarget === activeTarget) scrollTarget = nested[i]
           }
         }
 
@@ -306,7 +314,8 @@ const openCollapsibles = async (target: HTMLElement) => {
     }
   }
 
-  await selectTabContainingQuery(target, searchQuery)
+  await nextTick()
+  await nextFrame()
 
   scrollToElement(scrollTarget)
 }

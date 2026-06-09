@@ -102,11 +102,14 @@ function extractLinksFromMarkdown(src: string, pageId: string): PageLink[] {
         nextLine++
       }
 
-      // The markdown renderer injects a searchable H3 for collapsibles that
-      // don't already start with a heading. Mirror that anchor so URL search
-      // can deep-link into and auto-open those collapsibles.
+      // The markdown renderer injects searchable headings for collapsibles
+      // that don't already start with a heading. Mirror that anchor so URL
+      // search can deep-link into and auto-open those collapsibles.
       if (!/^#{1,6}\s+/.test(lines[nextLine]?.trim() ?? '')) {
-        setHeading(2, collapsibleMatch[2].trim())
+        setHeading(
+          containerStack.includes('tabs') ? 3 : 2,
+          collapsibleMatch[2].trim()
+        )
       }
       continue
     }

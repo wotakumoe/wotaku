@@ -229,12 +229,15 @@ function injectSearchHeadings(src: string) {
     const [, indent, , title] = match
     const headingTitle = title.trim()
     if (!headingTitle) continue
+    const headingLevel = containerStack.includes('tabs') ? 4 : 3
 
     lines.splice(
       i + 1,
       0,
       '',
-      `${indent}### ${headingTitle} {.collapsible-search-heading}`,
+      `${indent}${
+        '#'.repeat(headingLevel)
+      } ${headingTitle} {.collapsible-search-heading}`,
       ''
     )
     i += 3
