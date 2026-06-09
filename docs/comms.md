@@ -52,6 +52,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 
 == Anime
 - [r/Anime](https://discord.gg/r-anime)
+- [Anime Soul](https://discord.gg/animesoul)
 - [Ass Anime Community](https://discord.gg/RD72pNRYFu)
 - [GJM - Subtitling Hub](https://discord.gg/0jeKKhzGn3EBNDI2)
 - [Re:ANIME Community](https://discord.gg/QsqcnsryyK)
@@ -63,6 +64,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [Atsumaru](https://discord.gg/Tj4QmEF4uV)
 - [J-Novel Club](https://discord.gg/WmRnnFvfS3)
 - [Kagane](https://discord.gg/kBPYVSzwUE)
+- [MangaBaka](https://discord.gg/XYtPtMkbKs)
 - [MangaKatana](https://discord.gg/bXfTCCtdXQ)
 - [r/Manga](https://discord.gg/manga)
 - [r/MangaPiracy](https://discord.gg/ZgMtAyxFSU)
