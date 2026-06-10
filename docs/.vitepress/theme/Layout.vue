@@ -172,6 +172,7 @@ const updateQueryForSelectedTab = async (tabs: HTMLElement) => {
   if (nextUrl === currentUrl) return
 
   window.history.pushState(null, '', nextUrl)
+  rewriteAnchorLinks()
 }
 
 const queueTabQueryUpdateForSelection = (target: EventTarget | null) => {
@@ -182,6 +183,51 @@ const queueTabQueryUpdateForSelection = (target: EventTarget | null) => {
   )
   const tabs = button?.closest<HTMLElement>('.plugin-tabs')
   if (tabs) void updateQueryForSelectedTab(tabs)
+}
+
+const TAB_LINK_MARKER = 'tab-'
+
+const rewriteAnchorLinks = () => {
+  const origin = window.location.origin
+  const pathname = window.location.pathname
+
+  document
+    .querySelectorAll<HTMLAnchorElement>('.VPDoc a[href]')
+    .forEach((link) => {
+      // Accept either the original `#…` form or a previously-rewritten absolute URL.
+      const raw = link.getAttribute('href') ?? ''
+      let fragment: string | null = null
+      if (raw.startsWith('#') && raw.length > 1) {
+        fragment = raw.slice(1)
+      } else if (raw.startsWith(origin + pathname + '#')) {
+        fragment = raw.slice((origin + pathname + '#').length)
+      } else if (raw.startsWith(origin + pathname + '?')) {
+        // Already rewritten as a tab link — re-derive the tab name and re-stamp.
+        const qs = raw.slice((origin + pathname + '?').length).split('#')[0]
+        const tabName = new URLSearchParams(qs).get(TAB_QUERY_PARAM)
+        if (tabName) {
+          const href = `${origin}${pathname}?${TAB_QUERY_PARAM}=${encodeURIComponent(tabName)}`
+          if (link.getAttribute('href') !== href) link.setAttribute('href', href)
+        }
+        return
+      } else {
+        return
+      }
+
+      const isTabLink = fragment.startsWith(TAB_LINK_MARKER)
+      const name = (isTabLink
+        ? fragment.slice(TAB_LINK_MARKER.length)
+        : fragment).trim()
+      if (!name) return
+
+      // Use absolute URLs so the browser's Copy Link has nothing to merge with
+      // the current ?tabs= query.
+      const href = isTabLink
+        ? `${origin}${pathname}?${TAB_QUERY_PARAM}=${encodeURIComponent(name)}`
+        : `${origin}${pathname}#${name}`
+
+      if (link.getAttribute('href') !== href) link.setAttribute('href', href)
+    })
 }
 
 const selectTabsByPath = async (tabPath: string[]) => {
@@ -358,6 +404,19 @@ const tryOpenAnchoredContent = async () => {
     return
   }
 
+  const isTabRelatedTarget =
+    target.classList.contains('tab-search-heading') ||
+    Boolean(target.closest('.plugin-tabs'))
+
+  if (
+    !isTabRelatedTarget &&
+    new URLSearchParams(window.location.search).has(TAB_QUERY_PARAM)
+  ) {
+    window.history.replaceState(null, '', buildUrlWithTabs([], hash))
+    scrollToElement(getScrollTargetForAnchor(target), false)
+    return
+  }
+
   if (
     !requestedTabs.length && target.classList.contains('tab-search-heading')
   ) {
@@ -379,9 +438,19 @@ const tryOpenAnchoredContent = async () => {
   }
 }
 
+const rewriteAnchorLinksDeferred = () =>
+  nextTick(() => rewriteAnchorLinks())
+
 onMounted(tryOpenAnchoredContent)
-watch(() => route.data, tryOpenAnchoredContent, { flush: 'post' })
-watch(() => route.query, tryOpenAnchoredContent, { flush: 'post' })
+onMounted(rewriteAnchorLinksDeferred)
+watch(() => route.data, () => {
+  void tryOpenAnchoredContent()
+  rewriteAnchorLinksDeferred()
+}, { flush: 'post' })
+watch(() => route.query, () => {
+  void tryOpenAnchoredContent()
+  rewriteAnchorLinksDeferred()
+}, { flush: 'post' })
 watch(() => route.hash, tryOpenAnchoredContent, { flush: 'post' })
 
 function onSidebarEnter() {
@@ -575,6 +644,55 @@ onMounted(() => {
   document.addEventListener('mouseout', hideTooltip)
   document.addEventListener('scroll', hideTooltip, true)
 
+  const onCaptureClick = (e: MouseEvent) => {
+    if (!e.isTrusted) return
+    const link = (e.target as HTMLElement).closest<HTMLAnchorElement>('a[href]')
+    if (!link) return
+    const raw = link.getAttribute('href') ?? ''
+
+    // ── Tab link: #tab-name or already-rewritten /path?tabs=name ──────────
+    const tabFromHash = raw.startsWith('#' + TAB_LINK_MARKER)
+      ? raw.slice(1 + TAB_LINK_MARKER.length)
+      : null
+    const tabFromQuery =
+      !tabFromHash && raw.includes(`?${TAB_QUERY_PARAM}=`) && !raw.includes('#')
+        ? new URLSearchParams(raw.split('?')[1]).get(TAB_QUERY_PARAM)
+        : null
+    const tabName = tabFromHash ?? tabFromQuery
+
+    if (tabName) {
+      e.preventDefault()
+      e.stopImmediatePropagation()
+      window.history.pushState(null, '', buildUrlWithTabs([tabName]))
+      rewriteAnchorLinks()
+      void (async () => {
+        const tabs = await selectTabsByPath([tabName])
+        if (tabs) scrollToElement(getSelectedTabScrollTarget(tabs), false)
+      })()
+      return
+    }
+
+    // ── Plain heading link: #name or already-rewritten /path#name ─────────
+    // Only intercept when ?tabs= is present — otherwise let the router handle normally.
+    if (!new URLSearchParams(window.location.search).has(TAB_QUERY_PARAM)) return
+
+    let hash: string | null = null
+    if (raw.startsWith('#') && raw.length > 1) {
+      hash = raw.slice(1)
+    } else if (raw.startsWith(window.location.pathname + '#')) {
+      hash = raw.slice(window.location.pathname.length + 1)
+    }
+    if (!hash) return
+
+    e.preventDefault()
+    e.stopImmediatePropagation()
+    window.history.pushState(null, '', `${window.location.pathname}#${hash}`)
+    rewriteAnchorLinks()
+    void tryOpenAnchoredContent()
+  }
+
+  document.addEventListener('click', onCaptureClick, { capture: true })
+
   useEventListener(document, 'click', (e: MouseEvent) => {
     if (!e.isTrusted) return
     queueTabQueryUpdateForSelection(e.target)
@@ -589,6 +707,7 @@ onMounted(() => {
   })
 
   onUnmounted(() => {
+    document.removeEventListener('click', onCaptureClick, { capture: true })
     document.removeEventListener('mouseover', showTooltip)
     document.removeEventListener('mouseout', hideTooltip)
     document.removeEventListener('scroll', hideTooltip, true)
