@@ -330,7 +330,11 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 
 # Comics
 
-## Online
+## Reading
+
+::: tabs
+
+== Online
 - [BatCave.biz](https://batcave.biz/)
 - [Comic Book Plus](http://comicbookplus.com/) ||Vintage||
 - [Digital Comic Museum](https://digitalcomicmuseum.com/) ||Vintage||
@@ -339,7 +343,7 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 - [Read Comics Online](https://readcomicsonline.ru/) ||.ru||
 - [XOXO Comics](https://xoxocomic.com/) [:alt:](https://comichubfree.com/)
 
-## Direct Download
+== Download
 - [Anna's Archive](https://annas-archive.gl/) [:prx:](https://rentry.org/wotaslap) [:js:](https://greasyfork.org/en/scripts/494262-show-external-downloads) ==AnnasArchive==
 - [ComicsCodes](https://comics.codes/)
 - [Desuarchive](https://desuarchive.org/) :f:
@@ -348,6 +352,8 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 - [Library Genesis+](https://libgen.li/) [:prx:](https://rentry.org/wotaslap)
 - [Old Comics World](https://oldcomicsworld.blogspot.com/) ||Vintage||
 - [TheLongbox](https://thelongbox.net/) :host::acc:
+
+:::
 
 ## Others
 
@@ -392,19 +398,27 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 ## Anime
 
 ### Platforms
-| Type | Website |
-| :--- | :--- |
-| **Dedicated** | [Crunchyroll](https://www.crunchyroll.com/) |
-| ^^ | [HIDIVE](https://www.hidive.com/) |
-| ^^ | [RetroCrush](https://www.retrocrush.tv/home) |
-| ^^ | [OceanVeil](https://oceanveil.net/) |
-| **General** | [Bilibili](https://www.bilibili.tv/en/anime) |
-| ^^ | [Disney+](https://www.disneyplus.com/) |
-| ^^ | [HBO Max](https://www.hbomax.com/) |
-| ^^ | [Netflix](https://www.netflix.com/) |
-| ^^ | [Pluto TV](https://pluto.tv/) |
-| ^^ | [Prime Video](https://www.primevideo.com/) |
-| ^^ | [Tubi](https://tubitv.com/) |
+
+::: tabs
+
+== Dedicated
+
+- [Crunchyroll](https://www.crunchyroll.com/)
+- [HIDIVE](https://www.hidive.com/)
+- [RetroCrush](https://www.retrocrush.tv/home)
+- [OceanVeil](https://oceanveil.net/)
+
+== General
+
+- [Bilibili](https://www.bilibili.tv/en/anime)
+- [Disney+](https://www.disneyplus.com/)
+- [HBO Max](https://www.hbomax.com/)
+- [Netflix](https://www.netflix.com/)
+- [Pluto TV](https://pluto.tv/)
+- [Prime Video](https://www.primevideo.com/)
+- [Tubi](https://tubitv.com/)
+
+:::
 
 ### YouTube
 
