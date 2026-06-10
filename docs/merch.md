@@ -7,10 +7,7 @@ og:
   image: https://i.wotaku.wiki/f/merch.png
 ---
 
-<Collapsible title="Important Information">
-
-
-### Delivery Types
+<Collapsible title="Delivery Types">
 
 | Delivery Types             | Value        | Shipping Speed | Offered as Option | Mode of Transportation { class="compact" } |
 | -------------------------- | ------------ | -------------- | ----------------- | ------------------------------------------ |
@@ -19,29 +16,22 @@ og:
 | Airmail                    | High-Cost    | Fast           | Offered           | :airplane:                                 |
 | EMS (Express Mail Service) | Highest-Cost | Fastest        | Offered           | :airplane:                                 |
 
-1. The option for SAL shipments are temporarily unavailable due to covid protocols. You can find JP Post's service availability by country [here](https://www.post.japanpost.jp/int/information/overview_en.html)  
-2. Combine the reasonable"ish" rate of surface, with somewhat the faster duration of airmail, but still less priority than airmail
+The option for SAL shipments are temporarily unavailable due to covid protocols. You can find JP Post's service availability by country [here](https://www.post.japanpost.jp/int/information/overview_en.html). Combine the reasonable"ish" rate of surface, with somewhat the faster duration of airmail, but still less priority than airmail.
 
 ![Illustration of speed of the options](/ss/shipping.gif)
-
-<br>
 
 - [Beginners guide to international mail shipping](https://www.post.japanpost.jp/int/howto/index_en.html)
 - [Checking service availability in your country](https://www.post.japanpost.jp/int/information/overview_en.html)
 - [Further details on delivery types offered by Japan Post](https://www.post.japanpost.jp/int/service/index_en.html)
 
-<br>
+Aside from Japan post you also have your usual private couriers, like DHL, FEDEX, UPS, etc. They are also  very expensive, you will have to go to their respective site to see their policies and prices they offer, or at checkout, storefronts usual show the full price of shipping in your country. [**Here**](https://www.post.japanpost.jp/cgi-charge/index.php?lang=_en) you will find JP Post's rates and delivery days calculator if you want to get an idea on the estimate of what you are ordering. When it comes to customs, be sure to visit your country's government customs website for information on duties and taxes
 
-- Aside from Japan post you also have your usual private couriers, like DHL, FEDEX, UPS, etc. They are also  very expensive, you will have to go to their respective site to see their policies and prices they offer, or at checkout, storefronts usual show the full price of shipping in your country.
-- [Here](https://www.post.japanpost.jp/cgi-charge/index.php?lang=_en) you will find JP Post's rates and delivery days calculator if you want to get an idea on the estimate of what you are ordering
-- When it comes to customs, be sure to visit your country's government customs website for information on duties and taxes
+</Collapsible>
 
-### Agent Types
-- **Forwarder**
-    - Used in cases when you want to buy goods/Items, but the service or person doesn't ship overseas. You then rely on a forwarder, that will give you a temporary Japanese address to which you can ship the things you need. The forwarder will charge you storage fees + international shipping to send the goods/items to you. You can simply think of this as someone that literally forwards the goods to you, because you don't have a Japanese address of your own.
-- **Proxy**
-    - Someone acting on your behalf that buys, accepts, and ships the goods to you, unlike a forwarder. Generally, recommended for beginners (especially if you are nervous about buying stuff online), however more expensive. They will charge you the purchase fees for the goods + domestic shipping + international shipping fees + any additional fees as per their policy. 
+<Collapsible title="Agent Types">
 
+- **Forwarder:** Used in cases when you want to buy goods/Items, but the service or person doesn't ship overseas. You then rely on a forwarder, that will give you a temporary Japanese address to which you can ship the things you need. The forwarder will charge you storage fees + international shipping to send the goods/items to you. You can simply think of this as someone that literally forwards the goods to you, because you don't have a Japanese address of your own.
+- **Proxy:** Someone acting on your behalf that buys, accepts, and ships the goods to you, unlike a forwarder. Generally, recommended for beginners (especially if you are nervous about buying stuff online), however more expensive. They will charge you the purchase fees for the goods + domestic shipping + international shipping fees + any additional fees as per their policy. 
 
 </Collapsible>
 
