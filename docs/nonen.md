@@ -137,7 +137,6 @@ Most apps in [**software**](/software) supports multilingual sources
 - [Manga Reader](https://1zumii.github.io/manga-reader/#/) [:src:](https://github.com/1zumii/manga-reader)
 - [Manhua Gui](https://www.manhuagui.com/)
 - [Rouman](https://rouman5.com/home) :ero:
-- [TVBS Comics](https://www.tvbsmh.com/)
 - [XManhua](https://xmanhua.com/)
 
 ### Novels
