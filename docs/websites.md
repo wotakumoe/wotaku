@@ -18,6 +18,10 @@ outline: 1
 
 ## Stream
 
+::: tabs
+
+== Main
+
 | Websites | Login | Tracking | Sub |
 |----------|-------|----------|-----|
 | [KickassAnime](https://kaa.lt/) ==KAA== | :yes: | :msync: | :cc: |
@@ -43,7 +47,7 @@ outline: 1
 
 </Collapsible>
 
-<Collapsible title="Scrapers">
+== Scrapers
 
 | Websites | Login | Tracking | Sub |
 |----------|-------|----------|-----|
@@ -60,9 +64,7 @@ outline: 1
 - Miruro : (AnimeDunya, dune, SD), (Anidb, pewe), (AnimeGG, cog & moo), (AnimePahe, kiwi & telli), (AniNeko, bonk & twin), (KickAssAnime, hop & kuz), (AllManga, ally & nun), (Anikoto, bun & bee);
 :::
 
-</Collapsible>
-
-<Collapsible title="Donghua">
+== Donghua
 
 - [Animekhor](https://animekhor.org/) [:tg:](https://t.me/AnimeKhorOfficial)
 - [AnimeXin](https://animexin.dev/)
@@ -77,9 +79,8 @@ outline: 1
 - [Myanime](https://myanime.live/)
 - [WowTopix](https://wowtopix.com/)
 
-</Collapsible>
 
-<Collapsible title="Misc">
+== Misc
 
 | Category | Websites |
 | :--- | :--- |
@@ -98,11 +99,13 @@ outline: 1
 | ^^ | [Sonic Zone TV](https://soniczone.net/tv/home.html) |
 | ^^ | [JP Animated Film Classics](https://animation.filmarchives.jp/en/index.html) :hd: |
 
-</Collapsible>
+:::
 
 ## Download
 
-### Torrent
+::: tabs
+
+== Torrent
 
 - [Nyaa](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap)
 - [AniRena](https://www.anirena.com/)
@@ -119,7 +122,7 @@ outline: 1
 
 </Collapsible>
 
-### Direct Download
+== Direct
 
 | Category      | Name |
 |---------------|------|
@@ -132,12 +135,17 @@ outline: 1
 | **Subtitles** | [Closed Caption Browser](https://cc.edatribe.com/#/) ||Dubtitles|| |
 | ^^ | [Open Subtitles](https://opensubtitles.org/) |
 
+:::
 
 ![](/banner/wmanga.webp)
 
 # Manga
 
 ## Online
+
+::: tabs
+
+== Main
 
 | Websites | Tracking | Sources | Reading mode | Social |
 |----------|----------|---------|--------------|--------|
@@ -162,7 +170,7 @@ outline: 1
 
 </Collapsible>
 
-<Collapsible title="Manwha and Manhua">
+== Manhwa/hua
 
 ::: warning README
 Some sites may include manga, but they are listed here for their manhwa and manhua.
@@ -181,10 +189,8 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 
 <Block link="/nsfw#pornhwa" icon="i-bi-box-arrow-up-right">Pornhwa focused websites are listed here</Block>
 
+== Scrapers
 
-</Collapsible>
-
-<Collapsible title="Scrapers">
 
 | Websites | Tracking | Sources | Reading mode | Social |
 |----------|----------|---------|--------------|--------|
@@ -200,7 +206,7 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 - Vidbox : (MangaFire);
 :::
 
-</Collapsible>
+:::
 
 ## Download
 
@@ -257,9 +263,11 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 
 ![](/banner/toku.webp)
 
-# Tokusatsu
+# Tokusatsu <fb h="Tokusatsu"/>
 
-## Media
+::: tabs
+
+== Media
 
 | Category   | Website |
 |------------|---------|
@@ -294,7 +302,7 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 
 </collapsible>
 
-## Wikis
+== Wikis
 
 - [Tokupedia](https://tokusatsu.fandom.com/wiki/Main_Page) ||Hub||
 - [GARO Wiki](https://garo.fandom.com/wiki/GARO_Wiki)
@@ -306,7 +314,7 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 - [Ultraman Wiki](https://ultra.fandom.com/wiki/Ultraman_Wiki)
 - [Wikizilla](https://wikizilla.org/wiki/Main_Page)
 
-## Portals
+== Portals
 
 - [Tokunation](https://news.tokunation.com/)
 - [The Tokusatsu Network](https://tokusatsunetwork.com/)
@@ -315,6 +323,8 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 - [Morphin' Legacy](https://morphinlegacy.com/)
 - [Henshin Grid](https://henshingrid.blogspot.com/)
 - [My Shiny Toy Robots](https://www.myshinytoyrobots.com/)
+
+:::
 
 ![](/banner/comics.webp)
 
@@ -477,7 +487,7 @@ Some of the series may not be available depending on your region.
 | [TOKYOPOP](https://tokyopop.com/) | :paid: |
 | [VIZ](https://www.viz.com/) <tooltip>Subscription also available in the United States, the United Kingdom, Canada, Australia, New Zealand, and Ireland.</tooltip> | :paid: |
 
-== Manhwa & Manhua
+== Manhwa/hua
 
 - [Lezhin](https://www.lezhinus.com/en)
 - [Manta](https://manta.net/en)
