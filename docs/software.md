@@ -18,7 +18,7 @@ og:
 
 | App | Source | Tracker | TV |
 |-|-|-|-|
-| [Animetail](https://github.com/Dark25/Animetail2) [:n:](https://github.com/Animetailapp/Animetail-preview) [:e:](/ext/mihon) | :ddl::mag: | :mal::al::k::simkl: | :tv::cast: |
+| [Animetail](https://github.com/Animetailapp/Animetail) [:n:](https://github.com/Animetailapp/Animetail-preview) [:e:](/ext/mihon) | :ddl::mag: | :mal::al::k::simkl: | :tv::cast: |
 | [Hayase](https://hayase.watch/) [:src:](https://github.com/hayase-app) [:e:](/ext/misc#hayase) | :mag::usnt: | :mal::al::k::simkl: | :tv::cast::dlna: |
 | [Anikku](https://anikku-app.github.io/) [:src:](https://github.com/komikku-app/anikku) [:n:](https://github.com/komikku-app/anikku-preview) [:e:](/ext/mihon) | :ddl::mag: | :mal::al::k::simkl: | :tv::cast: |
 | [Dantotsu](https://github.com/itsmechinmoy/dantotsu-updater) [:d:](https://discord.gg/4HPZ5nAWwM) [:src:](https://git.rebelonion.dev/rebelonion/Dantotsu) | :ddl::mag: | :mal::al: | :cast: |
@@ -194,7 +194,7 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.github.
 | [Hayase](https://hayase.watch/) [:src:](https://github.com/hayase-app) [:e:](/ext/misc#hayase) | :win::app::lin: | :mag::material-symbols-newspaper-rounded: | :mal::al::k::simkl: |
 | [Stremio](https://www.stremio.com/) | :win::app::lin: | :mag::ddl: | :mal::al::k::simkl: |
 | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) | :win::app::lin: | :mag::ddl: | :mal::al::k: |
-| [Seanime](https://seanime.app/) | :win::app::lin: | :mag::ddl: | :mal::al::k::simkl: |
+| [Seanime](https://seanime.app/) [:src:](https://github.com/5rahim/seanime) | :win::app::lin: | :mag::ddl: | :mal::al::k::simkl: |
 | [Unyo](https://github.com/K3vinb5/Unyo) | :win::app::lin: | :ddl: | :al: |
 | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) [:e:](/ext/mangayomi) | :win::app::lin: | :ddl: | :mal::al::simkl: |
 
@@ -226,6 +226,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | :--- | :--- | :--- | :--- |
 | **Online** | [Mangayomi](https://github.com/kodjodevf/mangayomi) :s: | :win::app::lin: | :sp::dp::ls: |
 | ^^ | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) | :win::app::lin: | :sp::dp::ls: |
+| ^^ | [Seanime](https://seanime.app/) [:src:](https://github.com/5rahim/seanime) | :win::app::lin: | :sp::dp::ls: |
 | ^^ | [Manga-tui](https://github.com/josueBarretogit/manga-tui) | :app::lin::cmd: | :sp: |
 | **Local** | [OpenComic](https://opencomic.app/) :s: [:src:](https://github.com/ollm/OpenComic) ==OpenComic== | :win::app::lin: | :sp::dp::ls: |
 | ^^ | [YACReader](https://www.yacreader.com/) [:src:](https://github.com/YACReader/yacreader) ==YACReader== | :win::app::lin: | :sp::dp: |
@@ -243,8 +244,6 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | [Calibre](https://calibre-ebook.com/) [:src:](https://github.com/kovidgoyal/calibre) | :win::app::lin: |
 | [Freda](https://www.turnipsoft.com/freda/) :cs: | :win: |
 | [Koodo Reader](https://www.koodoreader.com/) [:src:](https://github.com/koodo-reader/koodo-reader) | :win::app::lin: |
-| [KOReader](https://koreader.rocks/) [:src:](https://github.com/koreader/koreader) | :lin::erdr: |
-| :prev: [rakuyomi](https://github.com/tachibana-shin/rakuyomi) | :erdr: |
 | [Okular](https://okular.kde.org/) | :win::lin: |
 | [Readest](https://readest.com/) :s: [:src:](https://github.com/readest/readest) | :win::app::lin: |
 | [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) [:src:](https://github.com/sumatrapdfreader/sumatrapdf) | :win: |
@@ -372,7 +371,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 |----------- |----------|
 | **Anime**      | [Jellyfin](https://jellyfin.org/) :s: [:src:](https://github.com/jellyfin/jellyfin) |
 | ^^         | [Plex](https://www.plex.tv/your-media/) :cs: |
-| ^^         | [Emby](https://emby.media/) :cs: |
+| ^^         | [Seanime](https://seanime.app/) [:src:](https://github.com/5rahim/seanime) |
 | **Manga**      | [Komga](https://komga.org/) :s: [:src:](https://github.com/gotson/komga) |
 | ^^         | [Kavita](https://www.kavitareader.com/) [:src:](https://github.com/Kareadita/Kavita) |
 | ^^         | [LANraragi](https://sugoi.gitbook.io/lanraragi/v/dev) [:src:](https://github.com/Difegue/LANraragi) |

@@ -68,17 +68,15 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [MangaKatana](https://discord.gg/bXfTCCtdXQ)
 - [r/Manga](https://discord.gg/manga)
 - [r/MangaPiracy](https://discord.gg/ZgMtAyxFSU)
-- [Mihon](https://discord.gg/mihon)
 
 == Apps
-
 - [Aidoku](https://discord.gg/kh2PYT8V8d)
 - [Animetail](https://discord.gg/fvskrQZb9j)
 - [Animiru](https://discord.gg/yDuHDMwxhv)
 - [AnymeX](https://discord.gg/eGDdydVNET)
 - [CDisplayEx](https://discord.gg/GKbezMyGG2)
 - [CloudStream](https://discord.gg/5Hus6fM)
-- [Dantotsu](https://discord.com/invite/4HPZ5nAWwM)
+- [Dantotsu](https://discord.gg/4HPZ5nAWwM)
 - [Futon](https://discord.gg/9sqBHXhwzz)
 - [Hayase](https://discord.gg/TRQEr9evRA)
 - [Komikku](https://discord.gg/85jB7V5AJR)
