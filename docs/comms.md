@@ -70,6 +70,27 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [r/MangaPiracy](https://discord.gg/ZgMtAyxFSU)
 - [Mihon](https://discord.gg/mihon)
 
+== Apps
+
+- [Aidoku](https://discord.gg/kh2PYT8V8d)
+- [Animetail](https://github.com/Animetailapp/Animetail)
+- [Animiru](https://discord.gg/yDuHDMwxhv)
+- [AnymeX](https://discord.gg/azAMuBWd8C)
+- [CDisplayEx](https://discord.gg/GKbezMyGG2)
+- [CloudStream](https://discord.gg/5Hus6fM)
+- [Dantotsu](https://discord.com/invite/4HPZ5nAWwM)
+- [Futon](https://discord.gg/9sqBHXhwzz)
+- [Hayase](https://discord.gg/TRQEr9evRA)
+- [Komikku](https://discord.gg/85jB7V5AJR)
+- [Kotatsu-Redo](https://discord.gg/sfPJSQNxfW)
+- [Kototoro](https://discord.gg/xBXvPz7tr7)
+- [Mangayomi](https://discord.gg/EjfBuYahsP)
+- [Mihon](https://discord.gg/mihon)
+- [NyanTV](https://discord.gg/y2vaFPXs4F)
+- [Sora](https://discord.gg/XR3SrmUbpd)
+- [Suwatte](https://discord.gg/8wmkXsT6h5)
+- [Usagi](https://discord.gg/4AHskjwtj4)
+
 == Music
 - [Doujin Cafe](https://discord.gg/doujincafe)
 - [DoujinStyle](https://discord.gg/z2QDFdA)
