@@ -443,28 +443,42 @@ Some of the series may not be available depending on your region.
 
 ## Manga
 
-| Category | Websites | Payment |
-|----------|----------|---------|
-| **General** | [Omoi](https://www.omoi.com/) | :paid::sub::free: |
-| ^^ | [Renta!](https://www.ebookrenta.com/) | :coin::free: |
-| ^^ | [Yen Press](https://yenpress.com/) | :paid: |
-| **CaaS** | [Comikey](https://comikey.com/) | :coin::free: |
-| ^^ | [Coolmic](https://coolmic.me/) | :sub::coin::free: |
-| ^^ | [INKR](https://comics.inkr.com/) | :coin::free: | 
-| ^^ | [KManga](https://kmanga.kodansha.com/) <tooltip>Available in the United States, the Philippines, Thailand, Vietnam, Hong Kong, Taiwan, India, Mexico, and Brazil.</tooltip> | :sub::coin::free: | 
-| ^^ | [Manga Plus](https://mangaplus.shueisha.co.jp/) | :sub::free: |
-| ^^ | [Manga UP!](https://global.manga-up.com/) | :sub::coin::free: |
-| ^^ | [Mangamo](https://www.mangamo.com/) | :sub::coin::free: |
-| ^^ | [Shonen Jump](https://www.viz.com/sj-offer) <tooltip>Available in the United States, Canada, the United Kingdom, Ireland, New Zealand, Australia, South Africa, the Philippines, Singapore, and India.</tooltip> | :sub::free: |
-| **Volume** | [Manga Mirai](https://mangamirai.com/) | :paid::free: |
-| ^^ | [Kodansha USA](https://kodansha.us/) | :paid: |
-| ^^ | [Seven Seas](https://sevenseasentertainment.com/) | :paid: |
-| ^^ | [Square Enix](https://squareenixmangaandbooks.square-enix-games.com/en-us) | :paid: |
-| ^^ | [TOKYOPOP](https://tokyopop.com/) | :paid: |
-| ^^ | [VIZ](https://www.viz.com/) <tooltip>Subscription also available in the United States, the United Kingdom, Canada, Australia, New Zealand, and Ireland.</tooltip> | :paid: |
+::: tabs
 
+== General
 
-## Manhwa & Manhua
+| Websites | Payment |
+|----------|---------|
+| [Omoi](https://www.omoi.com/) | :paid::sub::free: |
+| [Renta!](https://www.ebookrenta.com/) | :coin::free: |
+| [Yen Press](https://yenpress.com/) | :paid: |
+
+== Chapter
+
+| Websites | Payment |
+|----------|---------|
+| [Comikey](https://comikey.com/) | :coin::free: |
+| [Coolmic](https://coolmic.me/) | :sub::coin::free: |
+| [INKR](https://comics.inkr.com/) | :coin::free: |
+| [KManga](https://kmanga.kodansha.com/) <tooltip>Available in the United States, the Philippines, Thailand, Vietnam, Hong Kong, Taiwan, India, Mexico, and Brazil.</tooltip> | :sub::coin::free: |
+| [Manga Plus](https://mangaplus.shueisha.co.jp/) | :sub::free: |
+| [Manga UP!](https://global.manga-up.com/) | :sub::coin::free: |
+| [Mangamo](https://www.mangamo.com/) | :sub::coin::free: |
+| [Shonen Jump](https://www.viz.com/sj-offer) <tooltip>Available in the United States, Canada, the United Kingdom, Ireland, New Zealand, Australia, South Africa, the Philippines, Singapore, and India.</tooltip> | :sub::free: |
+
+== Volume
+
+| Websites | Payment |
+|----------|---------|
+| [Manga Mirai](https://mangamirai.com/) | :paid::free: |
+| [Kodansha USA](https://kodansha.us/) | :paid: |
+| [Seven Seas](https://sevenseasentertainment.com/) | :paid: |
+| [Square Enix](https://squareenixmangaandbooks.square-enix-games.com/en-us) | :paid: |
+| [TOKYOPOP](https://tokyopop.com/) | :paid: |
+| [VIZ](https://www.viz.com/) <tooltip>Subscription also available in the United States, the United Kingdom, Canada, Australia, New Zealand, and Ireland.</tooltip> | :paid: |
+
+== Manhwa & Manhua
+
 - [Lezhin](https://www.lezhinus.com/en)
 - [Manta](https://manta.net/en)
 - [Tapas](https://tapas.io/)
@@ -473,6 +487,8 @@ Some of the series may not be available depending on your region.
 - [TopToon](https://global.toptoon.com/)
 - [WebComics](https://webcomicsapp.com/)
 - [Webtoon](https://www.webtoons.com/en/)
+
+:::
 
 ::: info More sites
 You can go through [**digital comic info**](/guides/manga/comicinfo) to get more sites including sites for volume releases.
