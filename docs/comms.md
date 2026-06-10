@@ -75,7 +75,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [Aidoku](https://discord.gg/kh2PYT8V8d)
 - [Animetail](https://github.com/Animetailapp/Animetail)
 - [Animiru](https://discord.gg/yDuHDMwxhv)
-- [AnymeX](https://discord.gg/azAMuBWd8C)
+- [AnymeX](https://discord.gg/eGDdydVNET)
 - [CDisplayEx](https://discord.gg/GKbezMyGG2)
 - [CloudStream](https://discord.gg/5Hus6fM)
 - [Dantotsu](https://discord.com/invite/4HPZ5nAWwM)
