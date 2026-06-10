@@ -73,7 +73,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 == Apps
 
 - [Aidoku](https://discord.gg/kh2PYT8V8d)
-- [Animetail](https://github.com/Animetailapp/Animetail)
+- [Animetail](https://discord.gg/fvskrQZb9j)
 - [Animiru](https://discord.gg/yDuHDMwxhv)
 - [AnymeX](https://discord.gg/eGDdydVNET)
 - [CDisplayEx](https://discord.gg/GKbezMyGG2)
