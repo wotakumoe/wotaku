@@ -43,6 +43,9 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [My Language Exchange](https://www.mylanguageexchange.com/)
 - [renshuu](https://www.renshuu.org/)
 
+== Others
+- [My Figure Collection](https://myfigurecollection.net/)
+
 :::
 
 
@@ -172,6 +175,16 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [Touhou](https://old.reddit.com/r/touhou/)
 - [UmaMusume](https://old.reddit.com/r/UmaMusume/)
 - [Yu-Gi-Oh!](https://old.reddit.com/r/yugioh/)
+
+== Merch
+
+- [Anime Deals](https://old.reddit.com/r/AnimeDeals/)
+- [Anime Figures](https://old.reddit.com/r/AnimeFigures/)
+- [Anime Merchandise](https://old.reddit.com/r/AnimeMerchandise/)
+- [Manga Collectors](https://old.reddit.com/r/MangaCollectors/)
+- [Gunpla](https://old.reddit.com/r/Gunpla/)
+- [Nendoroid](https://old.reddit.com/r/Nendoroid/)
+- [Dakimakuras](https://old.reddit.com/r/Dakimakuras/) :ero:
 
 == Japan
 
