@@ -56,32 +56,46 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 
 
 ## Info
-| Category  | Websites |
-|-----------|----------|
-| **Database** | [MyAnimeShelf](https://myanimeshelf.com/) |
-| ^^           | [MyFigureCollection](https://myfigurecollection.net/) |
-| ^^           | [HPOI Figure Wiki](https://www.hpoi.net/index/home) :lcn: |
-| **General** | [Gameiroiro Calendar](https://calendar.gameiroiro.com/) :s::ljp: |
-| ^^        | [Otaku Goods](https://ota-goods.info/) :s::ljp: |
-| ^^        | [Otaku Calendar](https://otakucalendar.com/) |
-| ^^        | [Dengeki Hobby Web](https://hobby.dengeki.com/) |
-| **Anime** | [Anime-DB](https://anime.dbsearch.net/) :ljp: |
-| ^^        | [Blu-ray.com](https://www.blu-ray.com/) |
-| ^^      | [Sumikko Anime](https://anime.sumikko.info/) :ljp: [:rss:](https://anime.sumikko.info/rss.xml) |
-| **Manga** | [The eBook Librarian](https://k.xpg.jp/) :ljp: [:rss:](https://k.xpg.jp/feed.xml) |
-| **Bishoujo** | [Asahiwa](https://asahiwa.jp/) :ljp: |
-| ^^        | [Figsoku B](https://figsoku-b.net/) :ljp: |
-| ^^        | [Fig-memo R18](https://fig-memo-r18.site/) :ljp::ero: |
-| ^^        | [moeyo](https://moeyo.com/) |
-| **Figures**   | [Figgy](https://www.figgy.jp/) :ljp: ||General|| |
-| ^^        | [Figsoku](https://figsoku.net/) :ljp: ||General|| |
-| ^^        | [Gundam Kits Collection](https://www.gundamkitscollection.com/) |
-| ^^        | [Gunjap](https://www.gunjap.net/) |
-| ^^        | [MOEPOP](https://www.ruru-berryz.com/) [:x:](https://x.com/Ruru_Berryz) ||General|| |
-| **Others** | [Buying Visual Novels](https://old.reddit.com/r/visualnovels/wiki/buy) |
-| ^^        | [Dakindex!](https://dakidex.com/) :ero: |
-| ^^        | [Omiai](https://omiai-dakimakura.com/) :ero: |
-| ^^        | [Sailor Moon Fan Network](https://sailormoonfannetwork.com/) |
+
+::: tabs
+
+== Database
+- [MyAnimeShelf](https://myanimeshelf.com/)
+- [MyFigureCollection](https://myfigurecollection.net/)
+- [HPOI Figure Wiki](https://www.hpoi.net/index/home) :lcn:
+
+== General
+- [Gameiroiro Calendar](https://calendar.gameiroiro.com/) :s::ljp:
+- [Otaku Goods](https://ota-goods.info/) :s::ljp:
+- [Otaku Calendar](https://otakucalendar.com/)
+- [Dengeki Hobby Web](https://hobby.dengeki.com/)
+
+== Anime & Manga
+- [Anime-DB](https://anime.dbsearch.net/) :ljp:
+- [Blu-ray.com](https://www.blu-ray.com/)
+- [Sumikko Anime](https://anime.sumikko.info/) :ljp: [:rss:](https://anime.sumikko.info/rss.xml)
+- [The eBook Librarian](https://k.xpg.jp/) :ljp: [:rss:](https://k.xpg.jp/feed.xml)
+
+== Bishoujo
+- [Asahiwa](https://asahiwa.jp/) :ljp:
+- [Figsoku B](https://figsoku-b.net/) :ljp:
+- [Fig-memo R18](https://fig-memo-r18.site/) :ljp::ero:
+- [moeyo](https://moeyo.com/)
+
+== Figures
+- [Figgy](https://www.figgy.jp/) :ljp: ||General||
+- [Figsoku](https://figsoku.net/) :ljp: ||General||
+- [Gundam Kits Collection](https://www.gundamkitscollection.com/)
+- [Gunjap](https://www.gunjap.net/)
+- [MOEPOP](https://www.ruru-berryz.com/) [:x:](https://x.com/Ruru_Berryz) ||General||
+
+== Others
+- [Buying Visual Novels](https://old.reddit.com/r/visualnovels/wiki/buy)
+- [Dakindex!](https://dakidex.com/) :ero:
+- [Omiai](https://omiai-dakimakura.com/) :ero:
+- [Sailor Moon Fan Network](https://sailormoonfannetwork.com/)
+
+:::
 
 ## YouTube
 - [Anime Collective](https://www.youtube.com/@AnimeCollective) [:web:](https://animecollective.com/)
@@ -92,17 +106,6 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [Solaris Japan](https://www.youtube.com/@Solaris_Japan)
 - [Sukima Sangyo](https://www.youtube.com/@sukimasangyo)
 - [The Omnibus Collector](https://www.youtube.com/@omnibuscollector)
-
-
-## Communities
-- [My Figure Collection](https://myfigurecollection.net/)
-- [Anime Deals](https://old.reddit.com/r/AnimeDeals/)
-- [Anime Figures](https://old.reddit.com/r/AnimeFigures/)
-- [Anime Merchandise](https://old.reddit.com/r/AnimeMerchandise/)
-- [Manga Collectors](https://old.reddit.com/r/MangaCollectors/)
-- [Gunpla](https://old.reddit.com/r/Gunpla/)
-- [Nendoroid](https://old.reddit.com/r/Nendoroid/)
-- [Dakimakuras](https://old.reddit.com/r/Dakimakuras/) :ero:
 
 
 ## Shops
