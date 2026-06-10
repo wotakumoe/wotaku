@@ -8,66 +8,100 @@ og:
 
 ## General
 
-| Category  | Websites |
-|-----------|----------|
-| Alt viewer | [Holodex](https://holodex.net/) :s: [:src:](https://github.com/HolodexNet/Holodex) |
-| ^^         | [Amatsukaze](https://amatsukaze.rl404.com/) [:src:](https://github.com/rl404/amatsukaze) |
-| ^^         | [Bācharu Toshokan](https://bacharu.io/) |
-| Archive    | [Ragtag Archive](https://archive.ragtag.moe/) [:src:](https://github.com/ragtag-archive) |
-| ^^         | [Patchwork Archive](https://patchwork.moekyun.me/) :ded: [:src:](https://github.com/Patchwork-Archive/) |
-| ^^         | [Rebel's ASMR Archive](https://asmr.ahegao.dev/) |
-| ^^         | [Sakura ASMR Archive](https://stash.frostedsakura.my.id/) |
-| Database   | [Virtual YouTuber Wiki](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki) |
-| ^^         | [Good VTuber Subs](https://goodvtubersubs.com/) |
-| ^^         | [Hololist](https://hololist.net/) |
-| ^^         | [ironmouse Model Index](https://www.ironmousemodelindex.com/) |
-| Stats      | [VSTATS](https://www.vstats.jp/) :ljp: |
-| ^^         | [VRabi](https://vrabi.net/) :ljp: |
-| General Stats | [TwitchTracker](https://twitchtracker.com/) |
-| ^^         | [Streams Charts](https://streamscharts.com/) |
-| ^^         | [Live Streamer Ranking](https://live-ranking.userlocal.jp/vtuber-ranking) :ljp: |
-| ^^         | [Ikioi Ranking](https://ikioi-ranking.com/) :ljp: |
-|Schedule    | [Hololyzer](https://www.hololyzer.net/) |
-| ^^         | [Userlocal](https://virtual-youtuber.userlocal.jp/) :ljp: |
-| ^^         | [vTubie](https://vtubie.com/) |
-| ^^         | [VTuber Schedule](https://vtuberschedules.com/) [:src:](https://github.com/clovenski/vtuber-schedules) |
-| News       | [VTuber Highlights](https://vtuber.atodeyo.com/) :ljp: |
-| ^^         | [VTuber Newsdrop](https://vtubernewsdrop.com/) |
-| Non-English | [VTBs in Bilibili!](https://vtbs.moe/) :lcn: [:src:](https://github.com/dd-center/vtbs.moe/) |
-| ^^         | [臺灣 VTuber 列表](https://taiwanvtuberdata.github.io/) :ltw: [:src:](https://github.com/TaiwanVtuberData/TaiwanVtuberTrackingData) |
-| Others     | [Mogu](https://mogu.holopirates.moe/) |
+::: tabs
+
+== Alt viewer
+
+- [Holodex](https://holodex.net/) :s: [:src:](https://github.com/HolodexNet/Holodex)
+- [Amatsukaze](https://amatsukaze.rl404.com/) [:src:](https://github.com/rl404/amatsukaze)
+- [Bācharu Toshokan](https://bacharu.io/)
+
+== Archive
+
+- [Ragtag Archive](https://archive.ragtag.moe/) [:src:](https://github.com/ragtag-archive)
+- [Patchwork Archive](https://patchwork.moekyun.me/) :ded: [:src:](https://github.com/Patchwork-Archive/)
+- [Rebel's ASMR Archive](https://asmr.ahegao.dev/)
+- [Sakura ASMR Archive](https://stash.frostedsakura.my.id/)
+
+== Database
+
+- [Virtual YouTuber Wiki](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki)
+- [Good VTuber Subs](https://goodvtubersubs.com/)
+- [Hololist](https://hololist.net/)
+- [ironmouse Model Index](https://www.ironmousemodelindex.com/)
+
+== Stats
+
+- [VSTATS](https://www.vstats.jp/) :ljp:
+- [VRabi](https://vrabi.net/) :ljp:
+- [TwitchTracker](https://twitchtracker.com/)
+- [Streams Charts](https://streamscharts.com/)
+- [Live Streamer Ranking](https://live-ranking.userlocal.jp/vtuber-ranking) :ljp:
+- [Ikioi Ranking](https://ikioi-ranking.com/) :ljp:
+
+== Schedule
+
+- [Hololyzer](https://www.hololyzer.net/)
+- [Userlocal](https://virtual-youtuber.userlocal.jp/) :ljp:
+- [vTubie](https://vtubie.com/)
+- [VTuber Schedule](https://vtuberschedules.com/) [:src:](https://github.com/clovenski/vtuber-schedules)
+
+== Others
+
+- [VTuber Highlights](https://vtuber.atodeyo.com/) :ljp:
+- [VTuber Newsdrop](https://vtubernewsdrop.com/)
+- [VTBs in Bilibili!](https://vtbs.moe/) :lcn: [:src:](https://github.com/dd-center/vtbs.moe/)
+- [臺灣 VTuber 列表](https://taiwanvtuberdata.github.io/) :ltw: [:src:](https://github.com/TaiwanVtuberData/TaiwanVtuberTrackingData)
+- [Mogu](https://mogu.holopirates.moe/)
+
+:::
 
 ## Hololive
 
-| Category      | Name & Link |
-|---------------|-------------|
-| **Fan Projects** | [ENreco Archive](https://enreco-archive.net/#0/0) |
-| ^^           | [HoloCalender](https://calendar.holofun.net/) |
-| ^^           | [HoloEN Fan Website](https://holoen.fans/en) [:src:](https://github.com/GoldElysium/hef-website) ==hef== |
-| ^^           | [Hololive Fan Wiki](https://hololive.wiki/wiki/Main_Page) |
-| ^^           | [Immerhate Archive](https://immerhate.holofun.net/) |
-| ^^           | [Inaversary](https://otako.fans/) |
-| ^^           | [Mumei Soundboard](https://mumei-cute.com/) |
-| ^^           | [Musicdex](https://music.holodex.net/) :s: [:src:](https://github.com/HolodexNet/Musicdex) |
-| ^^           | [Raora's Kitchen](https://raoras-kitchen.pages.dev/) |
-| **Official** | [Hololive MMD Models](https://3d.nicovideo.jp/users/89765617/works) |
-| ^^          | [Hololive Production](https://hololive.hololivepro.com/) |
-| ^^          | :prev: [Schedule](https://schedule.hololive.tv/lives) |
-| ^^          | [holoplus](https://www.holoplus.com/) |
-| **Stats**   | [Hololive Spotify Stats](https://holo-spotify-stats.jirikunes.eu/) [:src:](https://github.com/kunesj/holo-spotify-stats) |
-| ^^          | [Hololive Livestream Activity Statistics](https://holopro-yt-livestream-activity-statistics.streamlit.app/) [:src:](https://github.com/risbi0/Hololive-Production-Livestream-Activity-Statistics) |
-| ^^          | [HoloChatStats](https://holochatstats.info/) [:src:](https://github.com/mipacd/HoloChatStats) |
-| ^^          | [Holotracker](https://trackholo.live/en/) |
-| ^^          | [Holouta Songs](https://www.youtube.com/@hololivesongs9790/) :ljp: |
-| **News**    | [Hololive merch information](https://merch-matome.com/) :ljp: [:x:](https://x.com/hololive_goods) |
-| ^^          | [hololive TODAY](https://hololivetoday.com/)  |
-| ^^          | [Hololive Tsuushin](https://hololive-tsuushin.com/) :ljp: |
-| **Others**  | [Hololive Member Sorter](https://hololive.sorter.ufal.my.id/) |
-| ^^          | [Quick Reference](https://monkonius.github.io/hololive-quick-reference/) |
+::: tabs
+
+== Fan Projects
+
+- [ENreco Archive](https://enreco-archive.net/#0/0)
+- [HoloCalender](https://calendar.holofun.net/)
+- [HoloEN Fan Website](https://holoen.fans/en) [:src:](https://github.com/GoldElysium/hef-website) ==hef==
+- [Hololive Fan Wiki](https://hololive.wiki/wiki/Main_Page)
+- [Immerhate Archive](https://immerhate.holofun.net/)
+- [Inaversary](https://otako.fans/)
+- [Mumei Soundboard](https://mumei-cute.com/)
+- [Musicdex](https://music.holodex.net/) :s: [:src:](https://github.com/HolodexNet/Musicdex)
+- [Raora's Kitchen](https://raoras-kitchen.pages.dev/)
+
+== Official
+
+- [Hololive MMD Models](https://3d.nicovideo.jp/users/89765617/works)
+- [Hololive Production](https://hololive.hololivepro.com/)
+- :prev: [Schedule](https://schedule.hololive.tv/lives)
+- [holoplus](https://www.holoplus.com/)
+
+== Stats
+
+- [Hololive Spotify Stats](https://holo-spotify-stats.jirikunes.eu/) [:src:](https://github.com/kunesj/holo-spotify-stats)
+- [Hololive Livestream Activity Statistics](https://holopro-yt-livestream-activity-statistics.streamlit.app/) [:src:](https://github.com/risbi0/Hololive-Production-Livestream-Activity-Statistics)
+- [HoloChatStats](https://holochatstats.info/) [:src:](https://github.com/mipacd/HoloChatStats)
+- [Holotracker](https://trackholo.live/en/)
+- [Holouta Songs](https://www.youtube.com/@hololivesongs9790/) :ljp:
+
+== Others
+
+- [Hololive merch information](https://merch-matome.com/) :ljp: [:x:](https://x.com/hololive_goods)
+- [hololive TODAY](https://hololivetoday.com/)
+- [Hololive Tsuushin](https://hololive-tsuushin.com/) :ljp:
+- [Hololive Member Sorter](https://hololive.sorter.ufal.my.id/)
+- [Quick Reference](https://monkonius.github.io/hololive-quick-reference/)
+
+:::
 
 ## Tools
 
-### User Tools
+::: tabs
+
+== User Tools
 
 | Category      | Tools |
 |--------------|------------|
@@ -97,13 +131,7 @@ og:
 
 </Collapsible>
 
-
-### VTuber tools
-- [Best VTuber software](https://gist.github.com/emilianavt/cbf4d6de6f7fb01a42d4cce922795794)
-- [VTResources](https://vtresources.carrd.co/)
-- [VTuber Assets](https://discord.gg/acU3dFRtvC)
-
-## Extensions
+== Extensions
 
 - [Holodex+](https://github.com/HolodexNet/Holodex-Plus) [:cr:](https://chromewebstore.google.com/detail/holodex-plus/mjcecbpccklceljomllkhilglcdcncbh) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/holodex-plus/)
 - [HoloSongs](https://github.com/themintchoco/holosongs) [:cr:](https://chromewebstore.google.com/detail/holosongs/ipiblcnlipdkimfmajnddpboejkocplf)
@@ -116,6 +144,13 @@ og:
 ::: tip [**Click here**](/guides/tech/adblock) for full adblock solutions.
 :::
 
+
+== VTuber tools
+- [Best VTuber software](https://gist.github.com/emilianavt/cbf4d6de6f7fb01a42d4cce922795794)
+- [VTResources](https://vtresources.carrd.co/)
+- [VTuber Assets](https://discord.gg/acU3dFRtvC)
+
+:::
 
 ## Animation
 
