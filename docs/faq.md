@@ -73,8 +73,6 @@ Yes. Try [**MAL-Sync**](https://malsync.moe/). It has support for MyAnimeList, A
 
 [**Nyaa.si**](https://nyaa.si/), [:f: /co/](https://boards.4chan.org/co/) & [**Madokami**](/guides/manga/madokami). Manga image quality depends on the [**source**](/guides/manga/comicinfo) and how it's been ripped, with volume release usually being better than [**CaaS**](/glossary/manga#publisher) release. If you want to download officially translated manga, [**Nyaa**](https://nyaa.si/) is always the best source, though some of the rippers upload upscaled SD rips.
 
-We have listed the most trusted rippers in the [**Nyaa section**](/websites#nyaa). Madokami mainly mirrors the Nyaa releases.
-
 </Collapsible>
 
 <Collapsible title="What's the best website to read manga?">
@@ -151,7 +149,7 @@ On the other hand, aggregators like [**KickassAnime**](https://kaa.lt/) & [**Ani
 
 <Collapsible title="Which player should I use?">
 
-For android, use [**mpvEx**](https://github.com/marlboro-advance/mpvEx). For PC, use [**mpv**](https://mpv.io/). You can find alt ui and forks [**here**](/tools#media-1).
+For android, use [**mpvEx**](https://github.com/marlboro-advance/mpvEx). For PC, use [**mpv**](https://mpv.io/). You can find alt ui and forks [**here**](/tools#mpv).
 
 </Collapsible>
 
@@ -168,7 +166,6 @@ For android, use [**mpvEx**](https://github.com/marlboro-advance/mpvEx). For PC,
 - [**Sitting on Clouds**](https://www.sittingonclouds.net/) & [**SquidBoard**](https://www.squid-board.org/) upload music ripped from hi-res sources.
 - Most of the current anime songs (sometime background scores too) are uploaded on legal music streaming services. You can rip from these services using [**Squid.wtf**](https://squid.wtf/) and [**DoubleDouble**](https://doubledouble.top/), which can rip multiple hi-res sources.
 - You can also check out [**Nicotine+**](https://nicotine-plus.org/), a [**Soulseek**](https://www.slsknet.org/) client. People share their downloaded/own rips here. It uses P2P to transfer files, so a VPN is recommended. You may find really old or rare ones.
-- More sources are listed [**here**](/websites#music). If you want more ripping tools, you can check out more ripping tools in [others section](/music#downloader).
 
 </Collapsible>
 

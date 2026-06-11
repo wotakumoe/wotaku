@@ -201,7 +201,7 @@ feeling lazy. someone pr platform icons for this section.
 | ^^ | [Sub transition](https://github.com/Ajatt-Tools/sub-transition) | :simple-icons-mpv: |
 | ^^ | [Subtitle Character Counter](https://cademcniven.com/subtitleCharacterCounter.html) | :web: |
 | ^^ | [Resource list for subtitle-related things](https://rentry.co/jpsub) | |
-| ^^ | [General subtitle tools](/tools#video-tools) | |
+| ^^ | [General subtitle tools](/tools?tabs=video-2) | |
 | **Audio tools** | [Automatic Condensed Audio Dialogue Script](https://anacreondjt.gitlab.io/docs/condensed_audio/) | |
 | ^^ | [Koemoe](https://condense.moe/) | |
 | ^^ | [Tenacity](https://tenacityaudio.org/) | :win::lin: |

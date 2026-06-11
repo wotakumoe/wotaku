@@ -127,7 +127,7 @@ og:
 | ^^           | [EasyExtractSenchou](https://github.com/ShimamuX/EasyExtractSenchou/) |
 | **ytarchive** | [hoshinova](https://github.com/HoloArchivists/hoshinova) |
 | ^^            | [Youtube Archiving Tutorial](https://github.com/HoloArchivists/hollow_memories) |
-- :more: [Video tools](/tools#video-tools)
+- :more: [Video tools](/tools?tabs=video-2)
 
 </Collapsible>
 

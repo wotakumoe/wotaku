@@ -63,7 +63,7 @@ og:
 
 :::
 
-## Official Art / Cover / Poster
+## Official Art
 
 ::: tabs
 
