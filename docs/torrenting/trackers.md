@@ -8,7 +8,9 @@ og:
 
 ## English
 
-### Public Trackers
+::: tabs
+
+== Public Trackers
 
 | Category   | Websites |
 |------------|----------|
@@ -19,7 +21,7 @@ og:
 | ^^         | [Shana Project](https://www.shanaproject.com/) |
 | NSFW       | [Sukebei](https://sukebei.nyaa.si/) [:prx:](https://rentry.org/nyaap) |
 
-### Private Trackers
+== Private Trackers
 
 | Category    | Websites                                                                 |
 | ----------- | ------------------------------------------------------------------------ |
@@ -46,14 +48,18 @@ og:
 - [Invite route graph](https://inviteroute.github.io/graph/)
 :::
 
+:::
+
 ## Non-English
 
-### Catalan
+::: tabs
+
+== Catalan
 
 - [TotsRucs](http://www.totsrucs.cat/)
 - [UnionFansub](https://foro.unionfansub.com/) :acc:
 
-### Chinese
+== Chinese
 
 | Category    | Websites |
 |------------|----------|
@@ -66,24 +72,26 @@ og:
 | ^^         | [Mikan Project](https://mikanani.me/) [:src:](https://github.com/iota9star/mikan_flutter) |
 | ^^         | [Nyaa Pantsu](https://ouo.si/) |
 
-### German
+== German
 
 - [AnimeWorld](https://animeworld.cx/) ||Private||
 - [RocketHD](https://rocket-hd.cc/) ||Private||
 
-### Greek
+== Greek
 
 - [AnimeClipse](http://www.animeclipse.com/index.php)
 - [Sick-Fansubs](https://sickfansubs.com/)
 
-### Portuguese
+== Portuguese
 
 - [Dark Animes](https://darkmahou.io/)
 
-### Russian
+== Russian
 - [Animelayer](http://animelayer.ru/) :acc:
 
 
-### Spanish
+== Spanish
 
 - [Union Fansub](https://foro.unionfansub.com/) :acc:
+
+:::

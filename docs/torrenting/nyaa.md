@@ -13,7 +13,9 @@ The meaning of all the basic terms are covered in [**torrenting glossary**](/tor
 
 ## Categories
 
-### Anime
+::: tabs
+
+== Anime
 
 | Subcategory | Icon | Description |
 | :--- | :--- | :--- |
@@ -22,7 +24,7 @@ The meaning of all the basic terms are covered in [**torrenting glossary**](/tor
 | Non-English-translated | ![](/nyaa/1_3.png) | Anime with non-english subs/dubs. Non-english content can be found in previous category too, if that torrent has **Multi-sub** / **Multi-audio** in the name, for example rips from Varyg and Erai-raws.  |
 | Raw | ![](/nyaa/1_4.png) | Anime with the Japanese audio and no subs or Japanese subs or bilingual. A lot of releases in this section are made by Chinese uploaders, so you could find releases that have Japanese and Chinese subs in the same file. |
 
-### Audio
+== Audio
 
 | Subcategory | Icon | Description |
 | :--- | :--- | :--- |
@@ -33,7 +35,7 @@ The meaning of all the basic terms are covered in [**torrenting glossary**](/tor
 If you want to learn more about the audio basics, read our [**audio glossary**](/glossary/audio). You will find almost all the terms there.
 :::
 
-### Literature
+== Literature
 
 | Subcategory | Icon | Description |
 | :--- | :--- | :--- |
@@ -41,7 +43,7 @@ If you want to learn more about the audio basics, read our [**audio glossary**](
 | Non-English-translated | ![](/nyaa/3_2.png) | Comics, novels and general books in other languages. |
 | Raw | ![](/nyaa/3_3.png) | Japanese comics, magazines, novels and general books. The upload quality varies a lot. You can find uploads from websites that only offer slow file hosts, so you will get faster and hassle-free download. |
 
-### Live Action
+== Live Action
 
 | Subcategory | Icon | Description |
 | :--- | :--- | :--- |
@@ -50,39 +52,49 @@ If you want to learn more about the audio basics, read our [**audio glossary**](
 | Non-English-translated | ![](/nyaa/4_3.png) | Similar to "English-translated" section, but with non-english subs. |
 | Raw | ![](/nyaa/4_4.png) | Raw section can have way more random things alongside normal stuff like above, for example news reports. |
 
-### Pictures
+== Pictures
 
 | Subcategory | Icon | Description |
 | :--- | :--- | :--- |
 | Graphics | ![](/nyaa/5_1.png) | Art-based materials, either scanned or digital. Anime production materials (e.g. artbook, concept arts etc), poster, icons, wallpapers or other kinds of books. |
 | Photos | ![](/nyaa/5_2.png) | Booklets, photobook & cosplay are generally uploaded here, sometimes art-based materials too. |
 
-### Software
+== Software
 
 | Subcategory | Icon | Description |
 | :--- | :--- | :--- |
 | Applications | ![](/nyaa/6_1.png) | Japaese software and japaense learning software materials. |
 | Games | ![](/nyaa/6_2.png) | Visual novels, Japanese games (PC, Android and console games). |
 
+:::
 
 ## Color Codes
 
-| Color | Meaning & Example |
-|-|-|
-| Green | The uploader is trusted by staff, a profile-based tag rather than upload-based. |
-| ^^    | Subsplease's upload of Frieren WEB-dl in x264 without transcoding. <br> ![](/nyaa/green.png) |
-| ^^    | Erai-raw's upload was transcoded from x264 but marked as green since the account is marked as trusted. <br> ![](/nyaa/green2.png) |
-| Red   | This mainly indicates it's a modified version of the source (doesn't mean it's bad by default). For anime, it indicates a re-encoded video. For manga, it indicates that an edit of someone else's release, usually for the purposes of joining spread pages. It's added by the uploader (rarely by staff), so not every qualifying torrent will have it. Sometimes it's indicated with "ED" tag instead.|
-| ^^    | Here, ASW has transcoded the original WEB-dl from x264 to x265. <br> ![](/nyaa/red.png) |
-| ^^    | Here, Raze has transcoded the video to x265 as well as interpolated it from 24fps to 144fps. <br> ![](/nyaa/red2.png) |
-| ^^    | In this case, Shellshock has just merged the spreads and repacked the volumes. <br> ![](/nyaa/red3.png) |
-| Blue  | Rated best by [Seadex](https://releases.moe/), visible with their [script](https://releases.moe/nyaablue.user.js). <br> ![](/nyaa/blu.png) |
-| Uncoded | Most of the torrents are uncoded, which means you have to judge by the title and description. |
-| ^^    | Varyg's WEB-DL upload of frieren in x264. <br> ![](/nyaa/unc.png) |
-| ^^    | Interpolated upload of Bang Dream <br> ![](/nyaa/unc1.png) |
-| ^^    | 1r0n's Kingdom manga upload with color leveling and spread joined. <br> ![](/nyaa/unc2.png) |
-| ^^    | Modified version of tronboy's upload.![](/nyaa/unc3.png) |
-| ^^    | 0v3r's upscalled manga upload. ![](/nyaa/unc4.png) | 
+::: tabs
+
+== Green
+- The uploader is trusted by staff, a profile-based tag rather than upload-based.
+- Subsplease's upload of Frieren WEB-dl in x264 without transcoding. <br> ![](/nyaa/green.png)
+- Erai-raw's upload was transcoded from x264 but marked as green since the account is marked as trusted. <br> ![](/nyaa/green2.png)
+
+== Red
+- This mainly indicates it's a modified version of the source (doesn't mean it's bad by default). For anime, it indicates a re-encoded video. For manga, it indicates that an edit of someone else's release, usually for the purposes of joining spread pages. It's added by the uploader (rarely by staff), so not every qualifying torrent will have it. Sometimes it's indicated with "ED" tag instead.
+- Here, ASW has transcoded the original WEB-dl from x264 to x265. <br> ![](/nyaa/red.png)
+- Here, Raze has transcoded the video to x265 as well as interpolated it from 24fps to 144fps. <br> ![](/nyaa/red2.png)
+- In this case, Shellshock has just merged the spreads and repacked the volumes. <br> ![](/nyaa/red3.png)
+
+== Blue
+- Rated best by [Seadex](https://releases.moe/), visible with their [script](https://releases.moe/nyaablue.user.js). <br> ![](/nyaa/blu.png)
+
+== Uncoded
+- Most of the torrents are uncoded, which means you have to judge by the title and description.
+- Varyg's WEB-DL upload of frieren in x264. <br> ![](/nyaa/unc.png)
+- Interpolated upload of Bang Dream <br> ![](/nyaa/unc1.png)
+- 1r0n's Kingdom manga upload with color leveling and spread joined. <br> ![](/nyaa/unc2.png)
+- Modified version of tronboy's upload.![](/nyaa/unc3.png)
+- 0v3r's upscalled manga upload. ![](/nyaa/unc4.png)
+
+:::
 
 
 ## File Naming
@@ -91,7 +103,9 @@ If you want to learn more about the audio basics, read our [**audio glossary**](
 File naming schemes are kind of optional, not every upload has to follow the same sequence of tags. There will be variations on writing style and placement, with the schemes below being the most standard way to do it.
 :::
 
-### Anime
+::: tabs
+
+== Anime
 
 ![Anime file name sections](/diagram/anifile.svg)
 
@@ -130,7 +144,7 @@ File naming schemes are kind of optional, not every upload has to follow the sam
 - Frieren.Beyond.Journeys.End.S02E01.Shall.We.Go.Then.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-VARYG.mkv
 :::
 
-### Manga / Light Novel
+== Manga / Light Novel
 
 ![Manga file name sections](/diagram/mfile.svg)
 
@@ -154,4 +168,6 @@ File naming schemes are kind of optional, not every upload has to follow the sam
 - The Kind Adventurer and the Reincarnated Girl v01 (Digital-Compilation) (Oak-JXL).cbz
 - 20th Century Boys (The Perfect Edition) v01 (2018) (c2c) (Trite).cbr
 - The Ephemeral Scenes of Setsuna's Journey v01 - The Former 68th Hero and the Beastfolk Apprentice [Yen Press] [Stick].epub
+:::
+
 :::

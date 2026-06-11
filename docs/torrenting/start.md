@@ -27,7 +27,9 @@ This is a quick start guide. If you have any questions, check out our [**FAQs**]
 
 Dedicated clients are recommended since they have a lot torrent-centric features.
 
-### Dedicated
+::: tabs
+
+== Dedicated
 
 | Platform | Client |
 |-|-|
@@ -40,7 +42,7 @@ Dedicated clients are recommended since they have a lot torrent-centric features
 | ^^        | [Transmission](https://transmissionbt.com/) [:src:](https://github.com/transmission/transmission) |
 | ^^        | [Fragments](https://apps.gnome.org/Fragments/) [:src:](https://gitlab.gnome.org/World/Fragments) |
 
-### General
+== General
 
 | Platform | Client |
 |-|-|
@@ -53,6 +55,7 @@ Dedicated clients are recommended since they have a lot torrent-centric features
 | ^^       | [File centipede](https://filecxx.com/en_US/index.html) [:src:](https://github.com/filecxx/FileCentipede) |
 | ^^       | [Gopeed](https://gopeed.com/) [:src:](https://github.com/GopeedLab/gopeed) |
 
+:::
 
 ## PC guide
 
@@ -90,17 +93,16 @@ The columns are customizable. You can rearrange them, adjust width or choose whi
 10. The amount of Uploaded divided by Downloaded data. In general, it's good practice to keep it higher. Not necessary for public trackers, but you need to keep it above 1 for private trackers.
 11. Availability indicates the health of the given torrent. Being equal or greater than 1 means that all files are available for download. If it's less than 1, you can't fully download the torrent.
 
-
 </Collapsible>
 
 <Collapsible title="Why does qBittorrent look different?">
 
 Default dark mode of qBittorrent is just too ugly. So we are using a custom theme, [**Iceberg**](https://github.com/CyberSeas/qBittorrentDarktheme).
 
-0. Download ICEBERG.qbtheme from [**here**](https://github.com/CyberSeas/qBittorrentDarktheme/blob/master/ICEBERG.qbtheme).
-1. Open qBittorrent, press `Alt + o` & check **Use custom UI theme**
-2. Select your downloaded ICEBERG.qbtheme from File explorer
-3. Press Apply and restart qBittorrent
+1. Download ICEBERG.qbtheme from [**here**](https://github.com/CyberSeas/qBittorrentDarktheme/blob/master/ICEBERG.qbtheme).
+2. Open qBittorrent, press `Alt + o` & check **Use custom UI theme**
+3. Select your downloaded ICEBERG.qbtheme from File explorer
+4. Press Apply and restart qBittorrent
 
 ![](/torrenting/start/100.png)
 
