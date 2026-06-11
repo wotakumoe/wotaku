@@ -185,47 +185,47 @@ const queueTabQueryUpdateForSelection = (target: EventTarget | null) => {
   if (tabs) void updateQueryForSelectedTab(tabs)
 }
 
+// (tryOpenAnchoredContent) handle tab selection / scrolling.
 const TAB_LINK_MARKER = 'tab-'
 
 const rewriteAnchorLinks = () => {
   const origin = window.location.origin
-  const pathname = window.location.pathname
 
   document
     .querySelectorAll<HTMLAnchorElement>('.VPDoc a[href]')
     .forEach((link) => {
-      // Accept either the original `#…` form or a previously-rewritten absolute URL.
       const raw = link.getAttribute('href') ?? ''
-      let fragment: string | null = null
-      if (raw.startsWith('#') && raw.length > 1) {
-        fragment = raw.slice(1)
-      } else if (raw.startsWith(origin + pathname + '#')) {
-        fragment = raw.slice((origin + pathname + '#').length)
-      } else if (raw.startsWith(origin + pathname + '?')) {
-        // Already rewritten as a tab link — re-derive the tab name and re-stamp.
-        const qs = raw.slice((origin + pathname + '?').length).split('#')[0]
-        const tabName = new URLSearchParams(qs).get(TAB_QUERY_PARAM)
-        if (tabName) {
-          const href = `${origin}${pathname}?${TAB_QUERY_PARAM}=${encodeURIComponent(tabName)}`
-          if (link.getAttribute('href') !== href) link.setAttribute('href', href)
-        }
-        return
-      } else {
+
+      // Normalise to an absolute URL for uniform processing.
+      let abs: URL
+      try {
+        abs = new URL(raw, origin + window.location.pathname)
+      } catch {
         return
       }
 
+      // Only rewrite same-origin links.
+      if (abs.origin !== origin) return
+
+      const fragment = abs.hash.slice(1) // strip leading #
+      if (!fragment) return
+
       const isTabLink = fragment.startsWith(TAB_LINK_MARKER)
-      const name = (isTabLink
-        ? fragment.slice(TAB_LINK_MARKER.length)
-        : fragment).trim()
+      if (!isTabLink) {
+        // Plain heading link — rewrite to absolute so Copy Link has no stale
+        // query to merge with.
+        const href = `${origin}${abs.pathname}#${fragment}`
+        if (link.getAttribute('href') !== href) link.setAttribute('href', href)
+        return
+      }
+
+      // Tab link: strip the marker prefix and move the name into ?tabs=
+      const name = fragment.slice(TAB_LINK_MARKER.length).trim()
       if (!name) return
 
-      // Use absolute URLs so the browser's Copy Link has nothing to merge with
-      // the current ?tabs= query.
-      const href = isTabLink
-        ? `${origin}${pathname}?${TAB_QUERY_PARAM}=${encodeURIComponent(name)}`
-        : `${origin}${pathname}#${name}`
-
+      const href = `${origin}${abs.pathname}?${TAB_QUERY_PARAM}=${
+        encodeURIComponent(name)
+      }`
       if (link.getAttribute('href') !== href) link.setAttribute('href', href)
     })
 }
@@ -404,8 +404,7 @@ const tryOpenAnchoredContent = async () => {
     return
   }
 
-  const isTabRelatedTarget =
-    target.classList.contains('tab-search-heading') ||
+  const isTabRelatedTarget = target.classList.contains('tab-search-heading') ||
     Boolean(target.closest('.plugin-tabs'))
 
   if (
@@ -439,7 +438,7 @@ const tryOpenAnchoredContent = async () => {
 }
 
 const rewriteAnchorLinksDeferred = () =>
-  nextTick(() => rewriteAnchorLinks())
+  nextTick(() => nextFrame().then(() => rewriteAnchorLinks()))
 
 onMounted(tryOpenAnchoredContent)
 onMounted(rewriteAnchorLinksDeferred)
@@ -650,20 +649,50 @@ onMounted(() => {
     if (!link) return
     const raw = link.getAttribute('href') ?? ''
 
-    // ── Tab link: #tab-name or already-rewritten /path?tabs=name ──────────
-    const tabFromHash = raw.startsWith('#' + TAB_LINK_MARKER)
+    let linkUrl: URL | undefined
+    try {
+      linkUrl = new URL(raw, window.location.href)
+    } catch {
+      /* keep handling simple hash-only links below */
+    }
+    const isSamePageLink = linkUrl
+      ? linkUrl.origin === window.location.origin &&
+        linkUrl.pathname === route.path
+      : raw.startsWith('#')
+
+    // ── Tab link: #tab-name, /path#tab-name, or already-rewritten ?tabs=name ──
+    const tabFromHash = isSamePageLink && raw.startsWith('#' + TAB_LINK_MARKER)
       ? raw.slice(1 + TAB_LINK_MARKER.length)
       : null
-    const tabFromQuery =
-      !tabFromHash && raw.includes(`?${TAB_QUERY_PARAM}=`) && !raw.includes('#')
-        ? new URLSearchParams(raw.split('?')[1]).get(TAB_QUERY_PARAM)
+    const tabFromCrossPage =
+      !isSamePageLink && raw.includes('#' + TAB_LINK_MARKER)
+        ? raw.slice(
+          raw.indexOf('#' + TAB_LINK_MARKER) + 1 + TAB_LINK_MARKER.length
+        )
         : null
-    const tabName = tabFromHash ?? tabFromQuery
+    const tabFromQuery =
+      isSamePageLink && !tabFromHash && raw.includes(`?${TAB_QUERY_PARAM}=`) &&
+        !raw.includes('#')
+        ? (linkUrl?.searchParams ?? new URLSearchParams(raw.split('?')[1])).get(
+          TAB_QUERY_PARAM
+        )
+        : null
+    // Cross-page tab links are handled by VitePress's router after rewriteAnchorLinks
+    // sets the correct ?tabs= href — don't intercept them here.
+    const tabName = tabFromCrossPage ? null : (tabFromHash ?? tabFromQuery)
 
     if (tabName) {
       e.preventDefault()
       e.stopImmediatePropagation()
-      window.history.pushState(null, '', buildUrlWithTabs([tabName]))
+
+      // Same-page tab link only — cross-page tab links are handled by VitePress's
+      // own router after rewriteAnchorLinks has already set the correct ?tabs= href.
+      const nextUrl = buildUrlWithTabs([tabName])
+      const currentUrl =
+        `${window.location.pathname}${window.location.search}${window.location.hash}`
+      if (nextUrl !== currentUrl) {
+        window.history.replaceState(null, '', nextUrl)
+      }
       rewriteAnchorLinks()
       void (async () => {
         const tabs = await selectTabsByPath([tabName])
@@ -674,7 +703,9 @@ onMounted(() => {
 
     // ── Plain heading link: #name or already-rewritten /path#name ─────────
     // Only intercept when ?tabs= is present — otherwise let the router handle normally.
-    if (!new URLSearchParams(window.location.search).has(TAB_QUERY_PARAM)) return
+    if (!new URLSearchParams(window.location.search).has(TAB_QUERY_PARAM)) {
+      return
+    }
 
     let hash: string | null = null
     if (raw.startsWith('#') && raw.length > 1) {
