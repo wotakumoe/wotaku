@@ -43,7 +43,7 @@ defineProps({
 }
 
 .warning {
-  background-color: #86680e;
+  background-color: #413306;
   color: #fee38b;
   border-color: #86680e;
 }
