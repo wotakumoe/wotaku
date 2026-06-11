@@ -57,7 +57,6 @@ export default {
     app.component('Feedback', Feedback)
     app.component('fb', Fb)
     app.component('Collapsible', Collapsible)
-    app.component('Fold', Collapsible)
     app.component('ScrapeTable', ScrapeTable)
     createMediumZoomProvider(app, router)
     app.use(
