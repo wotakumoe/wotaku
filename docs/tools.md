@@ -13,7 +13,9 @@ og:
 
 ## Downloader
 
-### Android
+::: tabs
+
+== Android
 
 | Name | DDL | P2P | FOSS | Free |
 |-|-|-|-|-|
@@ -27,7 +29,7 @@ og:
 | [LibreTorrent](https://github.com/proninyaroslav/libretorrent) :s: | :no: | :yes: | :yes: | :yes: |
 | [YTDLnis](https://ytdlnis.org/) [:src:](https://github.com/deniscerri/ytdlnis) | :yes: | :no: | :yes: | :yes: |
 
-### iOS
+== iOS
 
 | Name | DDL | P2P | FOSS |
 |-|-|-|-|
@@ -35,10 +37,9 @@ og:
 | [Gopeed](https://gopeed.com/) [:src:](https://github.com/GopeedLab/gopeed) | :yes: | :yes: | :yes: |
 | [iTorrent](https://github.com/XITRIX/iTorrent) | :no: | :yes: | :yes: |
 
+:::
 
 ## Media
-
-### Video
 
 | Category | Software | Platform |
 | :--- | :--- | :--- |
@@ -121,7 +122,9 @@ og:
 
 ## Media
 
-### Image Viewer
+::: tabs
+
+== Image
 | Viewer | Platform |
 | :--- | :--- |
 | [IrfanView](https://www.irfanview.com/) :cs: | :win: |
@@ -130,7 +133,7 @@ og:
 | [qView](https://interversehq.com/qview/) [:src:](https://github.com/jurplel/qView) | :win::app::lin: |
 | [XnView MP](https://www.xnview.com/en/xnviewmp/) :cs: | :win::app::lin: |
 
-### Video Player
+== Video
 | Player | Platform |
 | :--- | :--- |
 | [mpv](https://mpv.io/) :s: [:src:](https://github.com/mpv-player/mpv) | :win::app::lin: |
@@ -138,45 +141,57 @@ og:
 | [MPC-HC](https://github.com/clsid2/mpc-hc) | :win: |
 | [K-Lite Codec Pack](https://codecguide.com/download_kl.htm) | :win: |
 
-#### mpv
+:::
 
-| **Category** | **Resources** |
-|--------------|---------------| 
-| **Alt UI**    | [ModernX](https://github.com/cyl0/ModernX) |  
-| ^^           | [ModernZ](https://github.com/Samillion/ModernZ) |
-| ^^           | [Tethys](https://github.com/Zren/mpv-osc-tethys) |  
-| ^^           | [uosc](https://github.com/tomasklaen/uosc) |  
-| **Forks**     | [Celluloid](https://celluloid-player.github.io/) :lin: [:src:](https://github.com/celluloid-player/celluloid) | 
-| ^^            | [Haruna](https://haruna.kde.org/) :lin: [:src:](https://invent.kde.org/multimedia/haruna) |  
-| ^^            | [IINA](https://iina.io/) :app: [:src:](https://github.com/iina/iina) |
-| ^^           | [mpc-qt](https://mpc-qt.github.io/) :win::lin: [:src:](https://github.com/mpc-qt/mpc-qt) |
-| ^^           | [mpv.net](https://github.com/mpvnet-player/mpv.net) :win: | 
-| **Utilities** | [MPV Easy](https://mpv-easy.github.io/mpv-build/) [:src:](https://github.com/mpv-easy/mpv-easy) |
-<Collapsible title="More">
+## MPV
 
-| **Category** | **Resources** |
-|--------------|---------------| 
-| **QoL**       | [ani-skip](https://github.com/synacktraa/ani-skip) |
-| ^^            | [mpv AniList Updater](https://github.com/AzuredBlue/mpv-anilist-updater) |
-| ^^           | [mpv Playlistmanager](https://github.com/jonniek/mpv-playlistmanager) |  
-| ^^           | [trackselect](https://github.com/po5/trackselect) |  
-| ^^           | [pause when minimize](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/pause-when-minimize.lua) |  
-| **Resources** | [mpv manual](https://mpv.io/manual/stable/) |  
-| ^^           | [Scum's Setup Guide](https://iamscum.wordpress.com/guides/videoplayback-guide/) |  
-| ^^           | [mpv Script Wiki](https://github.com/mpv-player/mpv/wiki/User-Scripts) |  
-| ^^           | [Awesome mpv](https://github.com/stax76/awesome-mpv) |  
-| **Shaders**   | [ArtCNN](https://github.com/Artoriuz/ArtCNN) |  
-| ^^           | [Prescalers](https://github.com/bjin/mpv-prescalers) |  
-| **Video**     | [Autocrop](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autocrop.lua) |  
-| ^^           | [Autoload](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua) |  
-| ^^           | [Eisa's Scripts](https://github.com/Eisa01/mpv-scripts) |  
-| ^^           | [thumbfast](https://github.com/po5/thumbfast/) | 
+::: tabs
 
-</Collapsible>
+== Alt UI
+- [MPV Easy](https://mpv-easy.github.io/mpv-build/) [:src:](https://github.com/mpv-easy/mpv-easy)
+- [ModernX](https://github.com/cyl0/ModernX)
+- [ModernZ](https://github.com/Samillion/ModernZ)
+- [Tethys](https://github.com/Zren/mpv-osc-tethys)
+- [uosc](https://github.com/tomasklaen/uosc)
+
+== Forks
+- [Celluloid](https://celluloid-player.github.io/) :lin: [:src:](https://github.com/celluloid-player/celluloid)
+- [Haruna](https://haruna.kde.org/) :lin: [:src:](https://invent.kde.org/multimedia/haruna)
+- [IINA](https://iina.io/) :app: [:src:](https://github.com/iina/iina)
+- [mpc-qt](https://mpc-qt.github.io/) :win::lin: [:src:](https://github.com/mpc-qt/mpc-qt)
+- [mpv.net](https://github.com/mpvnet-player/mpv.net) :win:
+
+== QoL
+- [ani-skip](https://github.com/synacktraa/ani-skip)
+- [mpv AniList Updater](https://github.com/AzuredBlue/mpv-anilist-updater)
+- [mpv Playlistmanager](https://github.com/jonniek/mpv-playlistmanager)
+- [trackselect](https://github.com/po5/trackselect)
+- [pause when minimize](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/pause-when-minimize.lua)
+
+== Shaders
+- [ArtCNN](https://github.com/Artoriuz/ArtCNN)
+- [Prescalers](https://github.com/bjin/mpv-prescalers)
+
+== Video
+- [Autocrop](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autocrop.lua)
+- [Autoload](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua)
+- [Eisa's Scripts](https://github.com/Eisa01/mpv-scripts)
+- [thumbfast](https://github.com/po5/thumbfast/)
+
+== Resources
+- [mpv manual](https://mpv.io/manual/stable/)
+- [Scum's Setup Guide](https://iamscum.wordpress.com/guides/videoplayback-guide/)
+- [mpv Script Wiki](https://github.com/mpv-player/mpv/wiki/User-Scripts)
+- [Awesome mpv](https://github.com/stax76/awesome-mpv)
+
+:::
+
 
 ## Media Tools
 
-### Image Tools
+::: tabs
+
+== Image
 
 | Software | Platform |
 |-|-|
@@ -190,7 +205,7 @@ og:
 | [Cupscale](https://github.com/n00mkrad/cupscale) ==cupscale== | :win: |
 | [Magpie](https://github.com/Blinue/Magpie) | :win: |
 
-### Video Tools
+== Video
 
 | Category | Resources | Platform |
 | :--- | :--- | :--- |
@@ -212,7 +227,6 @@ og:
 | **Other** | [mpvQC](https://mpvqc.github.io/) [:src:](https://github.com/mpvqc/mpvQC) | :win: |
 | ^^ | [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) | :win::app::lin: |
 
-
 <Collapsible title="Related resources">
 
 | Category | Resources | Platform |
@@ -231,31 +245,44 @@ og:
 | ^^ | [MKVcleaver](https://www.videohelp.com/software/MKVcleaver) | :win::cs: |
 | ^^ | [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) | :win: |
 
-- :more: [Encoding & Fansubbing Guides](/misc#encoding-fansubbing)
+- :more: [Encoding & Fansubbing Guides](/misc#tab-encoding-fansubbing)
 - :more: [JP Learning centric tools](/japan/software#subtitles)
 
 </Collapsible>
 
+:::
+
 ## arr
 
-| Category | Tool |
-|---|---|
-| **Main** | [Lidarr](https://lidarr.audio/) [:src:](https://github.com/Lidarr/Lidarr) |
-| ^^ | [Radarr](https://radarr.video/) [:src:](https://github.com/Radarr/Radarr) |
-| ^^ | [Sonarr](https://sonarr.tv/) [:src:](https://github.com/Sonarr/Sonarr) |
-| **Indexer** | [autobrr](https://autobrr.com/) [:src:](https://github.com/autobrr/autobrr) |
-| ^^ | [Jackett](https://github.com/Jackett/Jackett) |
-| ^^ | [Prowlarr](https://prowlarr.com/) [:src:](https://github.com/Prowlarr/Prowlarr) |
-| **Request** | [Ombi](https://ombi.io/) [:src:](https://github.com/Ombi-app/Ombi) |
-| ^^ | [Serr](https://seerr.dev/) [:src:](https://github.com/seerr-team/seerr) |
-| **Others** | [Bazarr](https://www.bazarr.media/) [:src:](https://github.com/morpheus65535/bazarr) ||Subtitle|| |
-| ^^ | [Doplarr](https://github.com/kiranshila/Doplarr) ||Discord|| |
-| ^^ | [homarr](https://homarr.dev/) [:src:](https://github.com/ajnart/homarr) ||Dashboard|| |
-| ^^ | [Maintainerr](https://maintainerr.info/) [:src:](https://github.com/jorenn92/Maintainerr) ||Storage|| |
-| ^^ | [requestrr](https://github.com/thomst08/requestrr) ||Discord|| |
-| ^^ | [Tdarr](https://home.tdarr.io/) [:src:](https://github.com/morpheus65535/bazarr) ||Transcoding|| |
-| **Docs** | [Servarr Wiki](https://wiki.servarr.com/) |
-| ^^ | [TRaSH Guides](https://trash-guides.info/) |
+::: tabs
+
+== Main
+- [Lidarr](https://lidarr.audio/) [:src:](https://github.com/Lidarr/Lidarr)
+- [Radarr](https://radarr.video/) [:src:](https://github.com/Radarr/Radarr)
+- [Sonarr](https://sonarr.tv/) [:src:](https://github.com/Sonarr/Sonarr)
+
+== Indexer
+- [autobrr](https://autobrr.com/) [:src:](https://github.com/autobrr/autobrr)
+- [Jackett](https://github.com/Jackett/Jackett)
+- [Prowlarr](https://prowlarr.com/) [:src:](https://github.com/Prowlarr/Prowlarr)
+
+== Request
+- [Ombi](https://ombi.io/) [:src:](https://github.com/Ombi-app/Ombi)
+- [Serr](https://seerr.dev/) [:src:](https://github.com/seerr-team/seerr)
+
+== Others
+- [Bazarr](https://www.bazarr.media/) [:src:](https://github.com/morpheus65535/bazarr) ||Subtitle||
+- [Doplarr](https://github.com/kiranshila/Doplarr) ||Discord||
+- [homarr](https://homarr.dev/) [:src:](https://github.com/ajnart/homarr) ||Dashboard||
+- [Maintainerr](https://maintainerr.info/) [:src:](https://github.com/jorenn92/Maintainerr) ||Storage||
+- [requestrr](https://github.com/thomst08/requestrr) ||Discord||
+- [Tdarr](https://home.tdarr.io/) [:src:](https://github.com/morpheus65535/bazarr) ||Transcoding||
+
+== Docs
+- [Servarr Wiki](https://wiki.servarr.com/)
+- [TRaSH Guides](https://trash-guides.info/)
+
+:::
 
 ## Usenet
 
@@ -299,73 +326,111 @@ og:
 
 ## Extensions
 
-| Category | Extension | Platform |
-| :--- | :--- | :--- |
-| Anime | [Animepahe Plus](https://github.com/Cyan903/Animepahe-plus) | :ff: |
-| ^^ | [Anime Skip Player](https://anime-skip.com/) [:src:](https://github.com/anime-skip/player) | :cr::ff: |
-| ^^ | [Aniskip](https://github.com/lexesjan/typescript-aniskip-extension) | :cr::ff: |
-| ^^ | [Crunchyroll With Better Seasons](https://github.com/Dragicafit/Crunchyroll-With-Better-Seasons) | :cr::ff: |
-| ^^ | [Streaming enhanced](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) | :cr::ff: |
-| ^^ | [Substital](https://substital.com/) :cs: | :cr::ff: |
-| Manga | [All Manga Reader](https://www.allmangasreader.com/) [:src:](https://gitlab.com/all-mangas-reader/all-mangas-reader-2) | :cr::ff: |
-| ^^ | [Image Max URL](https://github.com/qsniyg/maxurl) | :ff: |
-| ^^ | [Manganato Enhancer](https://github.com/sn0w12/ManganatoEnhancer) | :cr: |
-| ^^ | [Similar Manga](https://github.com/similar-manga/similar) | :cr: |
-| Tracker | [MALSync](https://malsync.moe/) :s: [:src:](https://github.com/MALSync/MALSync) | :cr::ff: |
-| ^^ | [MAL Redesigned](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) [:src:](https://github.com/HritikVaishnav/Myanimelist-Redesigned) | :cr::ff: |
-| ^^ | [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler) | :cr::ff: |
-| Image | [Betterviewer](https://github.com/Ademking/Betterviewer) | :cr::ff: |
-| ^^ | [Search by Image](https://github.com/dessant/search-by-image) :s: |  :cr::ff: |
-| General | [Buster](https://github.com/dessant/buster) | :cr::ff: |
-| ^^ | [Indie Wiki Buddy](https://getindie.wiki/) [:src:](https://github.com/KevinPayravi/indie-wiki-buddy) | :cr::ff: |
-| ^^ | [Live Stream Downloader](https://webextension.org/listing/hls-downloader.html) [:src:](https://github.com/chandler-stimson/live-stream-downloader/) | :cr::ff: |
-| ^^ | [NopeCHA](https://nopecha.com/) | :cr::ff: |
-| ^^ | [Selection](https://github.com/emvaized/selecton-extension) :s: | :cr::ff: |
-| ^^ | [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web) :s: | :cr::ff: |
-| ^^ | [Violentmonkey](https://violentmonkey.github.io/) :s: [:src:](https://github.com/violentmonkey/violentmonkey) | :cr::ff: |
+::: tabs
+
+== Anime
+
+- [Animepahe Plus](https://github.com/Cyan903/Animepahe-plus) :ff:
+- [Anime Skip Player](https://anime-skip.com/) :cr::ff: [:src:](https://github.com/anime-skip/player)
+- [Aniskip](https://github.com/lexesjan/typescript-aniskip-extension) :cr::ff:
+- [Crunchyroll With Better Seasons](https://github.com/Dragicafit/Crunchyroll-With-Better-Seasons) :cr::ff:
+- [Streaming enhanced](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) :cr::ff:
+- [Substital](https://substital.com/) :cs: :cr::ff:
+
+== Manga
+
+- [All Manga Reader](https://www.allmangasreader.com/) [:src:](https://gitlab.com/all-mangas-reader/all-mangas-reader-2) :cr::ff:
+- [Image Max URL](https://github.com/qsniyg/maxurl) :ff:
+- [Manganato Enhancer](https://github.com/sn0w12/ManganatoEnhancer) :cr:
+- [Similar Manga](https://github.com/similar-manga/similar) :cr:
+
+== Tracker
+
+- [MALSync](https://malsync.moe/) :s::cr::ff: [:src:](https://github.com/MALSync/MALSync) 
+- [MAL Redesigned](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) :cr::ff: [:src:](https://github.com/HritikVaishnav/Myanimelist-Redesigned)
+- [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler) :cr::ff:
+
+== Image
+
+- [Betterviewer](https://github.com/Ademking/Betterviewer) :cr::ff:
+- [Search by Image](https://github.com/dessant/search-by-image) :s: :cr::ff:
+
+== General
+
+- [Buster](https://github.com/dessant/buster) :cr::ff:
+- [Indie Wiki Buddy](https://getindie.wiki/) :cr::ff: [:src:](https://github.com/KevinPayravi/indie-wiki-buddy)
+- [Live Stream Downloader](https://webextension.org/listing/hls-downloader.html) :cr::ff: [:src:](https://github.com/chandler-stimson/live-stream-downloader/)
+- [NopeCHA](https://nopecha.com/) :cr::ff:
+- [Selection](https://github.com/emvaized/selecton-extension) :s: :cr::ff:
+- [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web) :s: :cr::ff:
+- [Violentmonkey](https://violentmonkey.github.io/) :s::cr::ff: [:src:](https://github.com/violentmonkey/violentmonkey)
+
+:::
 
 ::: tip [**Click here**](/guides/tech/adblock) for full adblock solutions.
 :::
 
 ## Scripts
 
-| Category | Scripts |
-| :--- | :--- |
-| Anime | [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs) |
-| ^^ | [Anime Website Buttons Plus](https://greasyfork.org/en/scripts/398046-anime-website-custom-buttons-plus) [:src:](https://github.com/Deatthwing/anime-website-buttons-plus) |
-| ^^ | [Bye Spoilers - Crunchyroll](https://github.com/zAlfok/ByeSpoilers-Crunchyroll) |
-| ^^ | [Find on Nyaa](https://greasyfork.org/en/scripts/379776-find-on-nyaa) |
-| ^^ | [MAL-Sync](https://github.com/MALSync/MALSync) |
-| ^^ | [NyaaBlue](https://releases.moe/about/) |
-| AniList | [AniList Activity-Feed Filter](https://greasyfork.org/en/scripts/475234-anilist-activity-feed-filter) |
-| ^^ | [AniList External Links](https://greasyfork.org/en/scripts/442599-AniList-external-links) |
-| ^^ | [AniList Extras](https://github.com/pilar6195/AniList-Extras) |
-| ^^ | [AniList Unlimited](https://greasyfork.org/en/scripts/404465-anilist-unlimited-score-in-header) [:src:](https://github.com/mysticflute/ani-list-unlimited) |
-| ^^ | [Anisongs](https://greasyfork.org/en/scripts/374785-anisongs) |
-| ^^ | [Automail](https://greasyfork.org/en/scripts/370473-automail) [:src:](https://github.com/hohMiyazawa/Automail) |
-| MyAnimeList | [Affinity to you](https://greasyfork.org/en/scripts/423918-affinity-to-you) |
-| ^^ | [Auto Date Add](https://greasyfork.org/en/scripts/407730-automatically-add-start-finish-dates-for-animes-mangas-helpful-buttons) |
-| ^^ | [Endless MAL Search Pages](https://greasyfork.org/en/scripts/409957-endless-mal-search-pages) |
-| ^^ | [MAL Clean JS](https://greasyfork.org/en/scripts/480965-mal-clean-js) |
-| ^^ | [MAL Dubs](https://greasyfork.org/en/scripts/376546-mal-myanimelist-dubs) [:src:](https://github.com/MAL-Dubs/MAL-Dubs) |
-| ^^ | [MAL English Titles](https://greasyfork.org/en/scripts/420200-mal-english-titles) [:src:](https://github.com/Animorphs/MAL-English-Titles) |
-| ^^ | [MAL tierlist](https://greasyfork.org/en/scripts/474521-mal-tierlist) |
-| ^^ | [Series Highlighter](https://greasyfork.org/en/scripts/424774-series-highlighter-mal) |
-| Manga | [Manga Online Viewer](https://github.com/TagoDR/MangaOnlineViewer) |
-| ^^ | [MangaPlusPlus](https://github.com/kmsomebody/MangaPlusPlus) |
-| **Games** | [CS RIN RU Enhanced](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external) |
-| ^^        | Game DL Links on [:gog:](https://greasyfork.org/en/scripts/481134-gog-to-free-download-site) [:steam:](https://greasyfork.org/en/scripts/481139-steam-to-free-download-site) |
-| ^^        | [VN(db) Userscripts](https://github.com/MarvNC/vn-userscripts) |
-| ^^        | [VNDB:Re](https://userstyles.world/style/13179/) |
-| **Music** | [Ame](https://gitlab.com/SuperSaltyGamer/ame) |
-| ^^        | [Discogs Scout](https://greasyfork.org/en/scripts/439452-discogs-scout) [:src:](https://github.com/Purfview/Discogs-Scout) |
-| ^^        | [MusicBrainz Userscripts](https://musicbrainz.org/doc/Guides/Userscripts) |
-| ^^        | [Slav Art User Scripts](https://rentry.org/slavartuserscripts) |
-| **YouTube** | [Fix Brave Bug for YouTube Live Chat](https://greasyfork.org/en/scripts/474214-fix-brave-bug-for-youtube-live-chat) |
-| ^^        | [PKGA YouTube Theater Mode](https://greasyfork.org/en/scripts/442089-pkga-youtube-theater-mode) |
-| **Misc**  | [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/) |
-| ^^        | [Fandom Fixed](https://github.com/squabbled/FandomFixed) |
-| ^^        | [GoComics DePaywall](https://github.com/Idiot-01/Gocomics-Depaywall) |
+::: tabs
+
+== Anime
+
+- [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs)
+- [Anime Website Buttons Plus](https://greasyfork.org/en/scripts/398046-anime-website-custom-buttons-plus) [:src:](https://github.com/Deatthwing/anime-website-buttons-plus)
+- [Bye Spoilers - Crunchyroll](https://github.com/zAlfok/ByeSpoilers-Crunchyroll)
+- [Find on Nyaa](https://greasyfork.org/en/scripts/379776-find-on-nyaa)
+- [MAL-Sync](https://github.com/MALSync/MALSync)
+- [NyaaBlue](https://releases.moe/about/)
+
+== AniList
+
+- [AniList Activity-Feed Filter](https://greasyfork.org/en/scripts/475234-anilist-activity-feed-filter)
+- [AniList External Links](https://greasyfork.org/en/scripts/442599-AniList-external-links)
+- [AniList Extras](https://github.com/pilar6195/AniList-Extras)
+- [AniList Unlimited](https://greasyfork.org/en/scripts/404465-anilist-unlimited-score-in-header) [:src:](https://github.com/mysticflute/ani-list-unlimited)
+- [Anisongs](https://greasyfork.org/en/scripts/374785-anisongs)
+- [Automail](https://greasyfork.org/en/scripts/370473-automail) [:src:](https://github.com/hohMiyazawa/Automail)
+
+== MyAnimeList
+
+- [Affinity to you](https://greasyfork.org/en/scripts/423918-affinity-to-you)
+- [Auto Date Add](https://greasyfork.org/en/scripts/407730-automatically-add-start-finish-dates-for-animes-mangas-helpful-buttons)
+- [Endless MAL Search Pages](https://greasyfork.org/en/scripts/409957-endless-mal-search-pages)
+- [MAL Clean JS](https://greasyfork.org/en/scripts/480965-mal-clean-js)
+- [MAL Dubs](https://greasyfork.org/en/scripts/376546-mal-myanimelist-dubs) [:src:](https://github.com/MAL-Dubs/MAL-Dubs)
+- [MAL English Titles](https://greasyfork.org/en/scripts/420200-mal-english-titles) [:src:](https://github.com/Animorphs/MAL-English-Titles)
+- [MAL tierlist](https://greasyfork.org/en/scripts/474521-mal-tierlist)
+- [Series Highlighter](https://greasyfork.org/en/scripts/424774-series-highlighter-mal)
+
+== Manga
+
+- [Manga Online Viewer](https://github.com/TagoDR/MangaOnlineViewer)
+- [MangaPlusPlus](https://github.com/kmsomebody/MangaPlusPlus)
+
+== Games
+
+- [CS RIN RU Enhanced](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external)
+- Game DL Links on [:gog:](https://greasyfork.org/en/scripts/481134-gog-to-free-download-site) [:steam:](https://greasyfork.org/en/scripts/481139-steam-to-free-download-site)
+- [VN(db) Userscripts](https://github.com/MarvNC/vn-userscripts)
+- [VNDB:Re](https://userstyles.world/style/13179/)
+
+== Music
+
+- [Ame](https://gitlab.com/SuperSaltyGamer/ame)
+- [Discogs Scout](https://greasyfork.org/en/scripts/439452-discogs-scout) [:src:](https://github.com/Purfview/Discogs-Scout)
+- [MusicBrainz Userscripts](https://musicbrainz.org/doc/Guides/Userscripts)
+- [Slav Art User Scripts](https://rentry.org/slavartuserscripts)
+
+== Misc
+
+- [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)
+- [Fix Brave Bug for YouTube Live Chat](https://greasyfork.org/en/scripts/474214-fix-brave-bug-for-youtube-live-chat)
+- [Fandom Fixed](https://github.com/squabbled/FandomFixed)
+- [GoComics DePaywall](https://github.com/Idiot-01/Gocomics-Depaywall)
+- [PKGA YouTube Theater Mode](https://greasyfork.org/en/scripts/442089-pkga-youtube-theater-mode)
+
+:::
 
 :::warning Scripts may not function correctly or reliably all the time
 Active maintenance is necessary for scripts to work properly. If a script fails, try reinstalling it; otherwise, wait for a fix to be released. Install [**Violentmonkey**](https://violentmonkey.github.io/) or [**Tampermonkey**](https://www.tampermonkey.net/) to use scripts.

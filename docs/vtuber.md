@@ -20,7 +20,7 @@ og:
 
 - [Ragtag Archive](https://archive.ragtag.moe/) [:src:](https://github.com/ragtag-archive)
 - [Patchwork Archive](https://patchwork.moekyun.me/) :ded: [:src:](https://github.com/Patchwork-Archive/)
-- [Rebel's ASMR Archive](https://asmr.ahegao.dev/)
+- [VTuber ASMR Archive](https://asmrchive.moe/)
 - [Sakura ASMR Archive](https://stash.frostedsakura.my.id/)
 
 == Database
