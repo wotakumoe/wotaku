@@ -5,12 +5,14 @@ customDescription: Discover the best websites for anime, manga, novels & more.
 outline: 1
 ---
 
-::: warning Before we start
+<fold type="warning" title="Before we start">
+
 - Almost all the sites feature erotic/mature content, so proceed with caution.
 - A lot of the websites have their own app. We don't recommend these apps even though the websites are listed here.
 - If a section is not worth ranking, then the websites will be sorted alphabetically. 
 - Just use [Nyaa](https://nyaa.si/).
-:::
+
+</fold>
 
 ![](/banner/wanime.webp)
 
@@ -32,7 +34,7 @@ outline: 1
 | [AniZone](https://anizone.to/) ==AniZone== | :no: | :msync: | :cc: |
 
 
-<Collapsible title="More">
+<fold title="More">
 
 | Websites | Login | Tracking | Sub |
 |----------|-------|----------|-----|
@@ -45,7 +47,7 @@ outline: 1
 | [Otaku-Streamers](https://beta.otaku-streamers.com/) :acc: ==OtakuStreamers== | :yes: | :no: | :oc: |
 | [Watch Cartoon Online](https://www.wco.tv/) [:prx:](https://www.wcostatus.com/) ==WCO== | :yes: | :no: | :oc: |
 
-</Collapsible>
+</fold>
 
 == Scrapers
 
@@ -113,14 +115,14 @@ outline: 1
 - [Shana Project](https://www.shanaproject.com/)
 - [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](https://tokyo-tosho.net/)
 
-<Collapsible title="Related resources">
+<fold title="Related resources">
 
 - [aniDB](https://anidb.net/) :acc:
 - [Seadex](https://releases.moe/)
 - [Sneedex](https://static.sneedex.moe/) :ded:
 - [A Certain Fansubber's Index](https://index.fansubcar.tel/)
 
-</Collapsible>
+</fold>
 
 == Direct
 
@@ -154,7 +156,7 @@ outline: 1
 | [Atsumaru](https://atsu.moe/) ==Atsumaru== | :msync: | :ps: | :sp::dp::ls: | :cmnt: |
 | [MangaFire](https://mangafire.to/home)  ==MangaFire== | :ie::msync: | :ss: | :sp::dp::ls: | :no: |
 
-<Collapsible title="More">
+<fold title="More">
 
 | Websites | Tracking | Sources | Reading mode | Social |
 |----------|----------|---------|--------------|--------|
@@ -168,7 +170,7 @@ outline: 1
 | [Mangahub](https://mangahub.io/) :acc: | :msync: | :ss: | :ls: | :cmnt: |
 | [Manga Fox](https://mangafox.la/) [:prx:](https://rentry.org/wotaxy#manga-fox) | :msync: | :ss: | :sp::ls:  | :cmnt: |
 
-</Collapsible>
+</fold>
 
 == Manhwa/hua
 
@@ -219,11 +221,14 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 - [Internet Archive](https://archive.org/)
 - :prev: [The Manga Library](https://archive.org/details/manga_library)
 
-::: tip DDL from rippers
+<fold type="tip" title="DDL from rippers">
+
 - Nyaa descriptions: [**1r0n**](https://nyaa.si/user/tsuna69), [**LuCaZ**](https://nyaa.si/user/LuCaZ), [**Shizu**](https://nyaa.si/user/wolfsbanes), [**Stick**](https://nyaa.si/user/dumbboy58)
 - 4chan archives: [**Danke**](https://desuarchive.org/_/search/text/(digital)%20(danke-empire)/), [**XRA**](https://desuarchive.org/_/search/text/(digital)%20(xra-empire)/)
 - Personal sheet: [**4str0**](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13)
-:::
+
+</fold>
+
 
 ![](/banner/wnovel.webp)
 
@@ -283,7 +288,7 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 | ^^         | [Megabeast Empire](https://megabeastempire.wordpress.com/) |
 | ^^         | [Metallic Subs](https://metallicsubs.wordpress.com/) |
 
-<collapsible title="General Live-Action"> 
+<fold type="tip" title="General Live-Action"> 
 
 | Category | Websites |
 | :--- | :--- |
@@ -300,7 +305,7 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 | ^^ | [DramaSuki](https://rentry.org/wotadirect#japanimmersion) :ded: |
 | ^^ | [Rare Doramas](https://www.raredoramas.com/) :cjp: |
 
-</collapsible>
+</fold>
 
 == Wikis
 
@@ -455,7 +460,7 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 Some of the series may not be available depending on your region.
 :::
 
-<Collapsible title="Utility sites">
+<fold type="tip" title="Utility sites">
 
 - [FlixHop](https://flixhop.com/)
 - [JustWatch](https://www.justwatch.com/) :s: [||JP||](https://www.justwatch.com/jp)
@@ -463,7 +468,7 @@ Some of the series may not be available depending on your region.
 - [uNoGS](https://unogs.com/)
 - [Yatta-Tachi List](https://yattatachi.com/legal-anime-streaming-sites)
 
-</Collapsible>
+</fold>
 
 ## Manga
 
@@ -514,7 +519,7 @@ Some of the series may not be available depending on your region.
 
 :::
 
-::: info More sites
+::: tip More sites
 You can go through [**digital comic info**](/guides/manga/comicinfo) to get more sites including sites for volume releases.
 :::
 
